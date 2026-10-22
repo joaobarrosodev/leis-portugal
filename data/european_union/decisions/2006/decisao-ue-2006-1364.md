@@ -35,6 +35,82 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: decisao-ue-2006-1364.versoes.json
+  count: 3
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2006-09-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 4.º — Prioridades de acção
+    - Altera Artigo 18.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita REDES TRANSEUROPEIAS DE ENERGIA
+    - Adita REDES DE ELECTRICIDADE
+    - Adita REDES DE GÁS
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita 1. Desenvolvimento de redes de electricidade em regiões isoladas
+    - Adita 2. Desenvolvimento das ligações eléctricas entre os Estados-Membros
+    - Adita 3. Desenvolvimento das ligações eléctricas internas nos Estados-Membros
+    - Adita 4. Desenvolvimento das ligações eléctricas com países terceiros
+    - Adita 5. Acções destinadas a melhorar o funcionamento das redes eléctricas interligadas no mercado interno
+    - Adita 6. Introdução do gás natural em novas regiões
+    - Adita 7. Desenvolvimento das ligações de gás necessárias ao funcionamento do mercado interno ou ao reforço da segurança
+      do aprovisionamento, incluindo a ligação de redes de gás separadas
+    - Adita 8. Desenvolvimento da capacidade de recepção de GNL e de armazenamento de gás natural
+    - Adita 9. Desenvolvimento das capacidades de transporte de gás (através de gasodutos de adução)
+    - Adita 10. Acções destinadas a melhorar o funcionamento das redes de gás interligadas no âmbito do mercado interno
+  - date: '2014-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Objectivos
+    - Suprime Artigo 4.º — Prioridades de acção
+    - Suprime Artigo 5.º — Linhas de acção
+    - Suprime Artigo 6.º — Projectos de interesse comum
+    - Suprime Artigo 7.º — Projectos prioritários
+    - Suprime Artigo 8.º — Projectos de interesse europeu
+    - Suprime Artigo 9.º — Execução de projectos de interesse europeu
+    - Suprime Artigo 10.º — Coordenador europeu
+    - Suprime Artigo 11.º — Contexto mais favorável
+    - Suprime Artigo 12.º — Efeitos sobre a concorrência
+    - Suprime Artigo 13.º — Restrições
+    - Suprime Artigo 14.º — Procedimento de comité
+    - Suprime Artigo 15.º — Relatório
+    - Suprime Artigo 16.º — Revogação
+    - Suprime Artigo 17.º — Entrada em vigor
+    - Suprime Artigo 18.º — Destinatários
+    - Suprime ANEXO I
+    - Suprime REDES TRANSEUROPEIAS DE ENERGIA
+    - Suprime REDES DE ELECTRICIDADE
+    - Suprime REDES DE GÁS
+    - Suprime ANEXO II
+    - Suprime ANEXO III
+    - Suprime 1. Desenvolvimento de redes de electricidade em regiões isoladas
+    - Suprime 2. Desenvolvimento das ligações eléctricas entre os Estados-Membros
+    - Suprime 3. Desenvolvimento das ligações eléctricas internas nos Estados-Membros
+    - Suprime 4. Desenvolvimento das ligações eléctricas com países terceiros
+    - Suprime 5. Acções destinadas a melhorar o funcionamento das redes eléctricas interligadas no mercado interno
+    - Suprime 6. Introdução do gás natural em novas regiões
+    - Suprime 7. Desenvolvimento das ligações de gás necessárias ao funcionamento do mercado interno ou ao reforço da segurança
+      do aprovisionamento, incluindo a ligação de redes de gás separadas
+    - Suprime 8. Desenvolvimento da capacidade de recepção de GNL e de armazenamento de gás natural
+    - Suprime 9. Desenvolvimento das capacidades de transporte de gás (através de gasodutos de adução)
+    - Suprime 10. Acções destinadas a melhorar o funcionamento das redes de gás interligadas no âmbito do mercado interno
+    - Suprime Notas
 identifiers:
   celex: 32006D1364
   eli: http://data.europa.eu/eli/dec/2006/1364/oj
@@ -49,7 +125,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/25c14730-1f30-4337-bbac-d43256a0e313.0017
   content_url: http://publications.europa.eu/resource/cellar/2fbfc93a-782f-4fee-8334-b8829479fea0.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006D1364-20140101
-  retrieved_at: '2026-10-22T02:58:08Z'
+  retrieved_at: '2026-10-22T15:01:25Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-19T15:52:17.246+01:00'
 integrity:
@@ -58,9 +134,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:08Z'
-  notes: Texto consolidado 02006D1364-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:01:25Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-2006-1364.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -133,16 +209,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:08Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:01:25Z'
+  warnings: []
   errors: []
 ---
 

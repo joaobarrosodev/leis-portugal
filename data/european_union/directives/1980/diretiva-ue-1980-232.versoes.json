@@ -1,0 +1,159 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31980L0232:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01980L0232-20090411",
+ "dre_path": null,
+ "source_lastmod": "2009-04-11",
+ "versions": [
+  {
+   "date": "1980-02-25",
+   "future": false,
+   "celex": "31980L0232",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "32486f3621753ddd",
+    "f29a0304bfbbefb3",
+    "432e2d4ffd16ba15",
+    "c6e1a07b55d6d93a",
+    "0a7f513229d19885",
+    "f7e8fe848273e682",
+    "855dad04650aa7d3",
+    "2e03946a47d4a03a",
+    "1c050628b978b984",
+    "a52412fb775a2568",
+    "04df209d1c01c34c",
+    "4591b2d8632ae471"
+   ]
+  },
+  {
+   "date": "2009-04-11",
+   "future": false,
+   "celex": "01980L0232-20090411",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime ANEXO I — GAMAS DOS VALORES DAS QUANTIDADES NOMINAIS DO CONTEÚDO DAS PRÉ-EMBALAGENS",
+    "Suprime ANEXO II — GAMA DOS VALORES DAS CAPACIDADES ADMISSIVEIS DOS CONTENTORES",
+    "Suprime ANEXO III — GAMA DE VOLUMES PARA OS PRODUTOS VENDIDOS EM AEROSSOIS, À EXCEPÇÃO DOS PRODUTOS EXCLUIDOS NO PONTO 7.4. DO ANEXO I E DOS MEDICAMENTOS"
+   ],
+   "fragments": [
+    "00260ce2a3d7b67d"
+   ]
+  }
+ ],
+ "fragments": {
+  "32486f3621753ddd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 80/232/CEE do Conselho, de 15 de Janeiro de 1980, relativa à aproximação das legislações dos Estados-Membros respeitantes às gamas de quantidades nominais e de capacidades nominais admitidas para certos produtos em pré-embalagens** *Jornal Oficial nº L 051 de 25/02/1980 p. 0001 - 0007 Edição especial finlandesa: Capítulo 15 Fascículo 2 p. 0217 Edição especial grega: Capítulo 13 Fascículo 9 p. 0101 Edição especial sueca: Capítulo 15 Fascículo 2 p. 0217 Edição especial espanhola: Capítulo 13 Fascículo 11 p. 0003 Edição especial portuguesa: Capítulo 13 Fascículo 11 p. 0003*\n\nDIRECTIVA DO CONSELHO de 15 de Janeiro de 1980 relativa à aproximação das legislações dos Estados-membros respeitantes às gamas de quantidades nominais e de capacidades nominais admitidas para certos produtos em pré-embalagens\n\n(80/232/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão (1)\n\nTendo em conta o parecer do Parlamento Europeu (2)\n\nTendo em conta o parecer do Comité Económico e Social (3)\n\nConsiderando que, na Directiva 76/211/CEE do Conselho, de 20 de Janeiro de 1976, relativa à aproximação das legislações dos Estados-membros respeitantes ao pré-acondicionamento em massa ou em volume de certos produtos em pré-embalagens (4), são fixados os erros máximos admissíveis em relação ao conteúdo destas pré-embalagens assim como as inscrições e o modo de controlo a efectuar nestas pré-embalagens para que possam circular na Comunidade;\n\nConsiderando que, apesar disso, esta directiva não elimina todos os entraves às trocas de produtos pré-embalados resultantes das diferentes legislções em relação às propriedades metrológicas destes produtos e que, em especial, nos Estados-membros vigoram disposições diferentes quanto ao volume ou à massa destes produtos; que, por conseguinte, é conveniente proceder à aproximação destas disposições;\n\nConsiderando que é conveniente, tendo em vista nomeadamente uma maior transparência do mercado, reduzir, tanto quanto possível, para um dado produto as quantidades muito próximas que podem induzir em erro o consumidor;\n\nConsiderando que este esforço de redução deve incidir tanto sobre os produtos vendidos a massa ou a volume como sobre os contentores destas embalagens;\n\nConsiderando que a Directiva 71/316/CEE do Conselho, de 26 de Julho de 1971, relativa à aproximação das legislações dos Estados-membros respeitantes às disposições comuns sobre os instrumentos de medição e os métodos de controlo metrológico (5), com a redacção que lhe foi dada pelo Acto de Adesão (6), prevê, no seu artigo 16o, que a aproximação das condições de comercialização de certos produtos, nomeadamente no que diz respeito à fixação das quantidades admitidas para certos produtos pré-embalados, pode ser objecto de directivas especiais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "f29a0304bfbbefb3": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva é aplicável aos produtos que são apresentados em pré-embalagens em conformidade com os artigos 1o e 2o da Directiva 76/211/CEE e que figuram nos anexos da presente directiva; são excluídos os produtos em pré-embalagens destinados exclusivamente ao uso profissional."
+  },
+  "432e2d4ffd16ba15": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs produtos referidos no artigo 1o dividem-se em três grupos:\n\na) Os produtos vendidos a massa ou a volume, à excepção dos produtos visados nas alíneas b) e c).\n\nO Anexo I fixa, para estes produtos, as gamas dos valores das quantidades nominais do conteúdo das pré-embalagens;\n\nb) Os produtos vendidos a massa ou a volume que são acondicionados nos contentores rígidos enumerados no Anexo II, à excepção dos produtos enumerados no Anexo I.\n\nO Anexo II fixa, para estes produtos, as gamas dos valores das capacidades destes contentores;\n\nc) Os produtos apresentados sob a forma de aerossóis.\n\nO Anexo III fixa, para estes produtos, os volumes da fase líquida e, no que diz respeito aos contentores metálicos, igualmente a capacidade do contentor."
+  },
+  "c6e1a07b55d6d93a": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nEm todos os casos, as pré-embalagens devem trazer a indicação do peso nominal ou do volume nominal do produto contido, segundo as prescrições da Directiva 76/211/CEE.\n\nNos casos referidos nas alíneas b) e c) do artigo 2o, os contentores devem igualmente trazer a indicação da sua capacidade nominal, em conformidade com o disposto no Anexo II e no ponto 1 do Anexo III, ou, se for caso disso, uma referência às normas CEN citadas nos anexos, mas de tal modo que não se origine qualquer confusão relativamente à indicação referida no primeiro parágrafo."
+  },
+  "0a7f513229d19885": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nQuando uma embalagem colectiva é constituída por duas ou várias pré-embalagens individuais, as gamas de valores citados nos Anexos I, II e III aplicam-se às pré-embalagens individuais.\n\nQuando uma pré-embalagem é constituída por duas ou várias embalagens individuais, destinadas a não serem vendidas individualmente, as gamas de valores citadas nos Anexos I, II e III aplicam-se à pré-embalagem."
+  },
+  "f7e8fe848273e682": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nOs Estados-membros não podem recusar, proibir ou restringir a colocação no mercado das pré-embalagens que satisfaçam o disposto na presente directiva, por motivos relacionados com o valor da quantidade nominal no caso de pré-embalagens enumeradas no Anexo I e no ponto 2 do Anexo III, por motivos relacionados com o valor da capacidade nominal dos contentores no caso de pré-embalagens enumeradas no Anexo II, ou por estes dois motivos no caso de produtos enumerados no ponto 1 do Anexo III."
+  },
+  "855dad04650aa7d3": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros não podem recusar, proibir ou restringir, antes de 1 de Janeiro de 1982, a colocação no mercado das pré-embalagens que satisfaçam as prescrições da Directiva 76/211/CEE, em que a quantidade nominal ou a capacidade do contentor tenha um valor que não figura na presente directiva e que eram comercializadas à data da sua notificação.\n\nO primeiro parágrafo não se aplica às medidas que forem tomadas no Reino Unido e na Irlanda para definir gamas em unidades do sistema internacional (SI)."
+  },
+  "2e03946a47d4a03a": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros porão em vigor as disposições necessárias para darem cumprimento à presente directiva no prazo de vinte e quatro meses a contar da sua notificação. Desse facto informarão imediatamente a Comissão.\n\nOs Estados-membros devem assegurar que seja comunicado à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "1c050628b978b984": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 15 de Janeiro de 1980.\n\nPelo Conselho\n\nO Presidente\n\nG. ZAMBERLETTI\n\n(1) JO no C 193 de 18. 8. 1976, p. 3.(2) JO no C 30 de 7. 2. 1977, p. 34.(3) JO no C 114 de 11. 5. 1977, p. 30.(4) JO no L 46 de 21. 2. 1976, p. 1.(5) JO no L 202 de 6. 9. 1971, p. 1.(6) JO no L 73 de 27. 3. 1972, p. 4."
+  },
+  "a52412fb775a2568": {
+   "fragment_id": "ANEXO I — GAMAS DOS VALORES DAS QUANTIDADES NOMINAIS DO CONTEÚDO DAS PRÉ-EMBALAGENS",
+   "type": "divisao",
+   "heading": "ANEXO I — GAMAS DOS VALORES DAS QUANTIDADES NOMINAIS DO CONTEÚDO DAS PRÉ-EMBALAGENS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — GAMAS DOS VALORES DAS QUANTIDADES NOMINAIS DO CONTEÚDO DAS PRÉ-EMBALAGENS\n\n1. PRODUTOS ALIMENTARES VENDIDOS A PESO (valor em g)\n\n1.1. Manteiga (posição 04.03 da pauta aduaneira comum), margarina, gorduras emulsionadas ou não, animais e vegetais, pastas para barrar, de baixo teor de gordura\n\n125 - 250 - 500 - 1 000 - 1 500 - 2 000 - 2 500 - 5 000\n\n1.2. Queijo fresco, à excepção dos queijos ditos «petits suisses» e dos queijos com a mesma apresentação (subposição ex 04.04 E 1 c) da pauta aduaneira comum)\n\n62,5 - 125 - 250 - 500 - 1 000 - 2 000 - 5 000\n\n1.3. Sal de mesa ou de cozinha (subposição 25.01 A da pauta aduaneira comum)\n\n125 - 250 - 500 - 750 - 1 000 - 1 500 - 500\n\n1.4. Açúcares em pó, açúcar alourado ou acastanhado, açúcares cândi\n\n125 - 250 - 500 - 750 - 1 000 - 1 500 - 2 000 - 2 500 - 3 000 - 4 000 - 5 000\n\n1.5. Produtos à base de cereais (excluindo os alimentos destinados a bebés e crianças)\n\n1.5.1. Farinha, grãos de cereais descascados e triturados ou partidos, flocos e sêmolas de cereais, flocos e farinhas de aveia (excluindo os produtos visados no ponto 1.5.4).\n\n125 - 250 - 500 - 1 000 - 1 500 - 2 000 - 2 500 (1) - 5 000 - 10 000\n\n1.5.2. Pastas alimentares (posição 19.03 da pauta aduaneira comum)\n\n125 - 250 - 500 - 1 000 - 1 500 - 2 000 - 3 000 - 4 000 - 5 000 - 10 000\n\n1.5.3. Arroz (posição 10.06 da pauta aduaneira comum)\n\n125 - 250 - 500 - 1 000 - 2 000 - 2 500 - 5 000\n\n1.5.4. Cereais e flocos de cereais prontos a servir\n\n250 - 375 - 500 - 750 - 1 000 - 1 500 - 2 000\n\n1.6. Legumes secos (posição 07.05 da pauta aduaneira comum) (2), frutas secas (posição ex 08.01, subposições 08.03 B, 08.04 B, posição 08.12 da pauta aduaneira comum)\n\n125 - 250 - 500 - 1 000 - 1 500 - 2 000 - 5 000 - 7 500 - 10 000\n\n1.7. Café torrado moído ou não moído, chicória, sucedâneos do café\n\n125 - 250 - 500 - 1 000 - 2 000 - 3 000 - 4 000 - 5 000 - 10 000\n\n1.8. Produtos congelados\n\n1.8.1. Frutas e legumes e batatas pré-cozinhadas para batatas fritas\n\n150 - 300 - 450 - 600 - 750 - 1 000 - 1 500 - 2 000 - 2 500\n\n1.8.2. Filetes e porções de peixe panados ou não\n\n100 - 200 - 300 - 400 - 500 - 600 - 800 - 1 000 - 2 000\n\n1.8.3. (Sticks) de peixe\n\n150 - 300 - 450 - 900 - 1 200 - 1 000 - 1 800\n\n2. PRODUTOS ALIMENTARES VENDIDOS A VOLUME (valor em ml)\n\n2.1. Gelados alimentares em quantidades superiores a 250 ml (à excepção dos gelados alimentares cujo volume não é determinado pela forma do recipiente)\n\n300 - 500 - 750 - 1 000 - 1 500 - 2 000 - 2 500 - 3 000 - 4 000 - 5 000\n\n3. ALIMENTOS SECOS PARA CAES E GATOS (3) (valor em g)\n\n200 - 300 - 400 - 500 - 600 - 800 - 1 000 - 1 500 - 2 000 - 3 000 - 5 000 - 7 500 - 10 000\n\n4. PINTURAS E VERNIZES PRONTOS PARA USO (COM OU SEM ADIÇÃO DE DILUENTES) (valor em ml)\n\n25 - 50 - 125 - 250 - 375 - 500 - 750 - 1 000 - 2 000 - 2 500 - 4 000 - 5 000 - 10 000\n\n5. COLAS E ADESIVOS, SÓLIDOS OU EM PÓ (valor em g)\n\n25 - 50 - 125 - 250 - 500 - 1 000 - 2 500 - 5 000 - 8 000 - 10 000\n\n6. PRODUTOS DE CONSERVAÇÃO (sólidos e em pó em g, líquidos e pastosos em ml)\n\nEntre outros: produtos para couros e calçados, madeiras e revestimentos de soalho, fornos e metais incluindo para automóveis, vidros e espelhos incluindo para automóveis (posição 34.05 da pauta aduaneira comum); tira-nódoas, preparativos e tintas domésticas (subposições 38.12 A e 32.09 C), insecticidas domésticos (posição ex 38.11), produtos destartáricos (posição 34.02), desodorizantes domésticos (subposição 33.06 B), desinfectantes não farmacêuticos\n\n25 - 50 - 75 - 100 - 150 - 200 - 250 - 375 - 500 - 750 - 1 000 - 1 500 - 2 000 - 5 000 - 10 000\n\n7. COSMÉTICOS: PRODUTOS DE BELEZA E DE TOUCADOR (subposição 33.06 A e B da pauta aduaneira comum) (sólidos e em pó em g, líquidos e pastosos em ml)\n\n7.1. Produtos para a pele e higiene da boca,\n\ncremes de barbear, cremes e loções de uso geral, cremes e loções para as mãos, produtos de protecção solar, produtos para a higiene da boca (à excepção das pastas dentífricas)\n\n15 - 30 - 40 - 50 - 75 - 100 - 125 - 150 - 200 - 250 - 300 - 400 - 500 - 1 000\n\n7.2. Pastas dentífricas\n\n25 - 50 - 75 - 100 - 125 - 150 - 200 - 250 - 300\n\n7.3. Produtos não corantes para cabelos e produtos de banho\n\nLacas, champôs, produtos de lavagem, reforçadores, brilhantinas, cremes para cabelos (com exclusão das loções capilares visadas no ponto 7.4), espumas e outros produtos similares para o banho e o duche.\n\n7.4. Produtos à base de álcool\n\nContendo menos de 3 % em volume de óleo de perfume natural ou sintético e menos de 70 % em volume de álcool etílico puro: águas aromáticas, loções capilares, loções para antes e depois de barbear\n\n15 - 25 - 30 - 40 - 50 - 75 - 100 - 125 - 150 - 200 - 250 - 300 - 400 - 500 - 750 - 1 000\n\n7.5. Desodorizantes e produtos de higiene íntima\n\n20 - 25 - 30 - 40 - 50 - 75 - 100 - 150 - 200\n\n7.6. Talcos\n\n50 - 75 - 100 - 150 - 200 - 250 - 500 - 1 000\n\n8. PRODUTOS DE LAVAGEM\n\n8.1. Sabões sólidos de toucador e domésticos (valor em g) (posição 34.01 da pauta aduaneira comum)\n\n25 - 50 - 100 - 150 - 200 - 250 - 300 - 400 - 500 - 1 000\n\n8.2. Sabões macios (valor em g) (posição 34.01 da pauta aduaneira comum)\n\n125 - 250 - 500 - 750 - 1 000 - 5 000 - 10 000\n\n8.3. Sabões em palhetas, aparas, flocos (valor em g) (posição 34.01 da pauta aduaneira comum)\n\n250 - 500 - 750 - 1 000 - 3 000 - 5 000 - 10 000\n\n8.4. Produtos líquidos de lavagem, de limpeza e de arear, bem como produtos auxiliares (posição 34.02 da pauta aduaneira comum) e preparações hipocloríticas (excluindo os produtos visados no ponto 6) (valor em ml)\n\n125 - 250 - 500 - 750 - 1 000 - 1 250 (4) - 1 500 - 2 000 - 3 000 - 4 000 - 5 000 - 6 000 - 7 000 - 10 000\n\n8.5. Pó de arear (valor em g)\n\n250 - 500 - 750 - 1 000 - 10 000\n\n8.6. Produtos de pré-lavagem e de humedecimento em pó (valor em g)\n\n250 - 500 - 1 000 - 2 000 - 5 000 - 10 000\n\n9. SOLVENTES (valor em ml)\n\nNos termos da Directiva 73/173/CEE do Conselho, de 4 de Junho de 1973, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros respeitantes à classificação, embalagem e etiquetagem de preparações perigosas (solventes) (5).\n\n25 - 50 - 75 - 125 - 250 - 500 - 1 000 - 1 500 - 2 500 - 5 000 - 10 000\n\n10. ÓLEOS LUBRIFICANTES (valor en ml)\n\n125 - 250 - 500 - 1 000 - 2 000 - 2 500 - 3 000 - 4 000 - 5 000 - 10 000\n\n(1) Valor não admitido para os flocos e farinhas de aveia.(2) São excluídos deste ponto os legumes desidratados e as batatas.(3) Produtos cujo teor em água é inferior a 14 %.(4) Unicamente para os hipocloritos.(5) JO no L 189 de 11. 7. 1973, p. 7."
+  },
+  "04df209d1c01c34c": {
+   "fragment_id": "ANEXO II — GAMA DOS VALORES DAS CAPACIDADES ADMISSIVEIS DOS CONTENTORES",
+   "type": "divisao",
+   "heading": "ANEXO II — GAMA DOS VALORES DAS CAPACIDADES ADMISSIVEIS DOS CONTENTORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — GAMA DOS VALORES DAS CAPACIDADES ADMISSIVEIS DOS CONTENTORES\n\nAs normas EN 23,1, edição 2 (Maio de 1978) e EN 76, edição 1 (Dezembro de 1978) devem aplicar-se excepto nos casos em que os produtos e as gamas de capacidade previstos por estas normas difiram dos mencionados no presente anexo.\n\n1. CONSERVAS E SEMI CONSERVAS ACONDICIONADAS EM RECIPIENTES METÁLICOS E EM EMBALAGENS DE VIDRO: PRODUTOS VEGETAIS (FRUTAS, LEGUMES, TOMATES, BATATAS, À EXCEPÇÃO DOS ESPARGOS, SOPAS, SUMOS DE FRUTAS) OU DE PRODUTOS HORTÍCOLAS E NÉCTARES DE FRUTAS DESTINADOS À ALIMENTAÇÃO HUMANA\n\n1.1. Recipientes metálicos e embalagens de vidro (capacidade em ml)\n\n106 - 156 - 212 (1) - 228 (1) - 314 - 370 - 425 (1) - - 446 - 580 - 720 - 850 - 1 062 - 1 700 - 2 650 - 3 100 - 4 250 - 10 200\n\n1.1.1. Lista suplementar para os copos\n\n53 (2) - 125 (2) - 250 (2)\n\n1.2. Lista das capacidades admitidas para produtos especiais (em ml)\n\n- Trufas: 26 - 53 - 71 - 106 - 212 - 425 - 720 - 850\n\n- Tomates\n\nConcentrados: 71 - 142 - 212 - 370 - 425 - 720 - 850 - 3 100 - 4 250\n\npelados ou não: 236 - 370 - 425 - 720 - 850 - 2 650 - 3 100\n\n- «Cocktails» de frutas, xarope de frutas: 106 - 156 - 212 (2) - 228 (2) - 236 - 314 - 370 (2) - 446 (2) - 580 - 720 - 850 - 1 062 - 1 700 - 2 650 - 3 100 - 4 250 - 10 200\n\n2. ALIMENTOS HUMIDOS PARA CAES E GATOS (capacidade em ml)\n\n212 (1) - 228 (1) - 314 - 425 (1) - 446 (1) - 850 - 1 062 - 1 700 - 2 650\n\n3. PRODUTOS DE LAVAGEM E DE LIMPEZA EM PO\n\nAs capacidades das pré-embalagens são enumeradas a seguir:\n\n\"\" ID=\"1\">E 0,5> ID=\"2\">375\"> ID=\"1\">E 1> ID=\"2\">750\"> ID=\"1\">E 2> ID=\"2\">1 500\"> ID=\"1\">E 3> ID=\"2\">2 250\"> ID=\"1\">E 5> ID=\"2\">3 750\"> ID=\"1\">E 10> ID=\"2\">7 770\"> ID=\"1\">E 15> ID=\"2\">11 450\"> ID=\"1\">E 20> ID=\"2\">15 200\"> ID=\"1\">E 25> ID=\"2\">18 950\"> ID=\"1\">E 30> ID=\"2\">22 700\" ID=\"1\">Barris no\" ID=\"1\">E 5> ID=\"2\">3 950\"> ID=\"1\">E 10> ID=\"2\">7 700\"> ID=\"1\">E 15> ID=\"2\">11 450\"> ID=\"1\">E 20> ID=\"2\">15 200\"> ID=\"1\">E 25> ID=\"2\">18 950\"> ID=\"1\">E 30> ID=\"2\">22 700\">\n\n(1) Estas capacidades serão reexaminadas o mais tardar cinco anos após a data de adopção da directiva.(2) Volume admitido por um período de dez anos a partir da data da adopção da directiva."
+  },
+  "4591b2d8632ae471": {
+   "fragment_id": "ANEXO III — GAMA DE VOLUMES PARA OS PRODUTOS VENDIDOS EM AEROSSOIS, À EXCEPÇÃO DOS PRODUTOS EXCLUIDOS NO PONTO 7.4. DO ANEXO I E DOS MEDICAMENTOS",
+   "type": "divisao",
+   "heading": "ANEXO III — GAMA DE VOLUMES PARA OS PRODUTOS VENDIDOS EM AEROSSOIS, À EXCEPÇÃO DOS PRODUTOS EXCLUIDOS NO PONTO 7.4. DO ANEXO I E DOS MEDICAMENTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — GAMA DE VOLUMES PARA OS PRODUTOS VENDIDOS EM AEROSSOIS, À EXCEPÇÃO DOS PRODUTOS EXCLUIDOS NO PONTO 7.4. DO ANEXO I E DOS MEDICAMENTOS\n\nPor derrogação do no 1, alínea e), do artigo 8o da Directiva 75/324/CEE do Conselho, de 20 de Maio de 1975, relativa à aproximação das legislações dos Estados-membros respeitantes às embalagens aerossóis (1), os produtos vendidos em aerossóis em conformidade com o disposto na presente directiva não devem ostentar a indicação do conteúdo nominal em massa.\n\n1. PRODUTOS VENDIDOS EM CONTENTORES METALICOS\n\n\"\" ID=\"1\">25> ID=\"2\">40> ID=\"3\">47\"> ID=\"1\">50> ID=\"2\">75> ID=\"3\">89\"> ID=\"1\">75> ID=\"2\">110> ID=\"3\">140\"> ID=\"1\">100> ID=\"2\">140> ID=\"3\">175\"> ID=\"1\">125> ID=\"2\">175> ID=\"3\">210\"> ID=\"1\">150> ID=\"2\">210> ID=\"3\">270\"> ID=\"1\">200> ID=\"2\">270> ID=\"3\">335\"> ID=\"1\">250> ID=\"2\">335> ID=\"3\">405\"> ID=\"1\">300> ID=\"2\">405> ID=\"3\">520\"> ID=\"1\">400> ID=\"2\">520> ID=\"3\">650\"> ID=\"1\">500> ID=\"2\">650> ID=\"3\">800\"> ID=\"1\">600> ID=\"2\">800> ID=\"3\">1 000\"> ID=\"1\">750> ID=\"2\">1 000> ID=\"3\">-\">\n\n2. PRODUTOS VENDIDOS EM CONTENTORES DE VIDRO OU DE PLÁSTICO TRANSPARENTE OU NAO TRANSPARENTE (volume da fase líquida en ml)\n\n25 - 50 - 75 - 100 - 125 - 150\n\n(1) JO no L 147 de 9. 6. 1975, p. 40."
+  },
+  "00260ce2a3d7b67d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1980L0232 — PT — 11.04.2009 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31980L0232) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31980L0232) [de 15 de Janeiro de 1980](http://publications.europa.eu/resource/celex/31980L0232) [relativa à aproximação das legislações dos Estados-membros respeitantes às gamas de quantidades nominais e de capacidades nominais admitidas para certos produtos em pré-embalagens](http://publications.europa.eu/resource/celex/31980L0232) [(80/232/CEE)](http://publications.europa.eu/resource/celex/31980L0232) (JO L 051, 25.2.1980, p.1)\n\n**revogado por:**\n\n- [Directiva 2007/45/CE do Parlamento Europeu e do Conselho de 5 de Setembro de 2007](http://publications.europa.eu/resource/celex/32007L0045) — L 247 — 17 — 21.9.2007"
+  }
+ }
+}

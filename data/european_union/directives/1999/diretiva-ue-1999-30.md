@@ -34,6 +34,113 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-06-11'
+version_history:
+  file: diretiva-ue-1999-30.versoes.json
+  count: 3
+  source_lastmod: '2010-06-11'
+  versions:
+  - date: '1999-06-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-06-11'
+    amending: eu:celex:32001D0744:por
+    amending_title: DECISÃO DA COMISSÃO de 17 de Outubro de 2001; DIRECTIVA 2008/50/CE DO PARLAMENTO EUROPEU E DO CONSELHO
+      de 21 de Maio de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Partículas em suspensão
+    - Altera Artigo 7.º — Avaliação das concentrações
+    - Altera Artigo 9.º — Revogações e acordos transitórios
+    - Altera Artigo 14.º — Destinatários
+    - Altera ANEXO V
+    - Altera ANEXO VI
+    - Altera ANEXO VII
+    - Altera ANEXO IX
+    - Adita ANEXO I
+    - Adita VALORES-LIMITE E LIMIAR DE ALERTA PARA O DIÓXIDO DE ENXOFRE
+    - Adita I. Valores-limite para o dióxido de enxofre
+    - Adita II. Limiar de alerta para o dióxido de enxofre
+    - Adita III. Dados mínimos a fornecer ao público quando o limiar de alerta para o dióxido de enxofre for excedido
+    - Adita ANEXO II
+    - Adita VALORES-LIMITE PARA O DIÓXIDO DE AZOTO (NO2) E ÓXIDOS DE AZOTO (NOx) E LIMIAR DE ALERTA PARA O DIÓXIDO DE AZOTO
+    - Adita I. Valores-limite para o dióxido de azoto e os óxidos de azoto
+    - Adita II. Limiar de alerta para o dióxido de azoto
+    - Adita III. Dados mínimos a fornecer ao público quando o limiar de alerta para o dióxido de azoto for excedido
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Adita DETERMINAÇÃO DOS REQUISITOS DE AVALIAÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO (NO2) ÓXIDOS
+      DE AZOTO (NOx) PARTÍCULAS EM SUSPENSÃO (PM10) E CHUMBO NO AR AMBIENTE NUMA ZONA OU AGLOMERAÇÃO
+    - Adita I. Limiares superiores e limiares inferiores de avaliação
+    - Adita II. Determinação da superação dos limiares superiores e inferiores de avaliação
+    - Adita LOCALIZAÇÃO DOS PONTOS DE AMOSTRAGEM PARA A MEDIÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO
+      E ÓXIDOS DE AZOTO, PARTÍCULAS EM SUSPENSÃO E CHUMBO NO AR AMBIENTE
+    - Adita I. Localização em macro-escala
+    - Adita a) Protecção da saúde humana
+    - Adita b) Protecção dos ecossistemas e da vegetação
+    - Adita II. Localização em micro-escala
+    - Adita III. Documentação e reavaliação da selecção dos locais
+    - Adita CRITÉRIOS PARA DETERMINAÇÃO DO NÚMERO MÍNIMO DE PONTOS DE AMOSTRAGEM PARA A MEDIÇÃO FIXA DAS CONCENTRAÇÕES DE
+      DIÓXIDO DE ENXOFRE (SO2), DIÓXIDO DE AZOTO (NO2), ÓXIDOS DE AZOTO (NOx), PARTÍCULAS EM SUSPENSÃO E CHUMBO NO AR AMBIENTE
+    - Adita I. Número mínimo de pontos de amostragem para medição fixa destinada a avaliar o cumprimento dos valores-limite
+      de protecção da saúde humana e dos limiares de alerta em zona e aglomerações em que a medição fixa constitui a única
+      fonte de informações
+    - Adita a) Fontes difusas
+    - Adita b) Fontes tópicas
+    - Adita II. Número mínimo de pontos de amostragem para medição fixa destinada a avaliar o cumprimento dos valores-limite
+      de protecção dos ecossistemas e da vegetação em zonas que não sejam aglomerações
+    - Adita ANEXO VIII
+    - Adita OBJECTIVOS DE QUALIDADE DOS DADOS E REGISTO DOS RESULTADOS DO PROCESSO DE AVALIAÇÃO DA QUALIDADE DO AR
+    - Adita I. Objectivos de qualidade dos dados
+    - Adita II. Resultados da avaliação da qualidade do ar
+    - Adita III. Normalização
+  - date: '2010-06-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objectivos
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Dióxido de enxofre
+    - Suprime Artigo 4.º — Dióxido de azoto e óxidos de azoto
+    - Suprime Artigo 5.º — Partículas em suspensão
+    - Suprime Artigo 6.º — Chumbo
+    - Suprime Artigo 7.º — Avaliação das concentrações
+    - Suprime Artigo 8.º — Informação do público
+    - Suprime Artigo 9.º — Revogações e acordos transitórios
+    - Suprime Artigo 10.º — Relatório e revisão
+    - Suprime Artigo 11.º — Sanções
+    - Suprime Artigo 12.º — Aplicação
+    - Suprime Artigo 13.º — Entrada em vigor
+    - Suprime Artigo 14.º — Destinatários
+    - Suprime ANEXO I
+    - Suprime VALORES-LIMITE E LIMIAR DE ALERTA PARA O DIÓXIDO DE ENXOFRE
+    - Suprime I. Valores-limite para o dióxido de enxofre
+    - Suprime II. Limiar de alerta para o dióxido de enxofre
+    - Suprime III. Dados mínimos a fornecer ao público quando o limiar de alerta para o dióxido de enxofre for excedido
+    - Suprime ANEXO II
+    - Suprime VALORES-LIMITE PARA O DIÓXIDO DE AZOTO (NO2) E ÓXIDOS DE AZOTO (NOx) E LIMIAR DE ALERTA PARA O DIÓXIDO DE AZOTO
+    - Suprime I. Valores-limite para o dióxido de azoto e os óxidos de azoto
+    - Suprime II. Limiar de alerta para o dióxido de azoto
+    - Suprime III. Dados mínimos a fornecer ao público quando o limiar de alerta para o dióxido de azoto for excedido
+    - Suprime ANEXO III
+    - Suprime ANEXO IV
+    - Suprime ANEXO V
+    - Suprime DETERMINAÇÃO DOS REQUISITOS DE AVALIAÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO (NO2) ÓXIDOS
+      DE AZOTO (NOx) PARTÍCULAS EM SUSPENSÃO (PM10) E CHUMBO NO AR AMBIENTE NUMA ZONA OU AGLOMERAÇÃO
+    - Suprime I. Limiares superiores e limiares inferiores de avaliação
+    - Suprime II. Determinação da superação dos limiares superiores e inferiores de avaliação
+    - Suprime ANEXO VI
+    - Suprime LOCALIZAÇÃO DOS PONTOS DE AMOSTRAGEM PARA A MEDIÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO
+      E ÓXIDOS DE AZOTO, PARTÍCULAS EM SUSPENSÃO E CHUMBO NO AR AMBIENTE
+    - Suprime I. Localização em macro-escala
+    - Suprime a) Protecção da saúde humana
+    - Suprime b) Protecção dos ecossistemas e da vegetação
+    - Suprime II. Localização em micro-escala
+    - Suprime III. Documentação e reavaliação da selecção dos locais
+    - Suprime ANEXO VII
+    - Suprime CRITÉRIOS PARA DETERMINAÇÃO DO NÚMERO MÍNIMO DE PONTOS DE AMOSTRAGEM PARA A MEDIÇÃO FIXA DAS CONCENTRAÇÕES DE
+      DIÓXIDO DE ENXOFRE (SO2), DIÓXIDO DE AZOTO (NO2), ÓXIDOS DE AZOTO (NOx), PARTÍCULAS EM SUSPENSÃO E CHUMBO NO AR AMBIENTE
 identifiers:
   celex: 31999L0030
   eli: http://data.europa.eu/eli/dir/1999/30/oj
@@ -48,7 +155,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/24161f67-99a1-473d-9953-d3258b01f109.0011
   content_url: http://publications.europa.eu/resource/cellar/e73b85ac-b82e-4734-a096-130d9005b6b0.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0030-20100611
-  retrieved_at: '2026-10-22T02:56:41Z'
+  retrieved_at: '2026-10-22T14:47:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T12:11:30.557+01:00'
 integrity:
@@ -57,9 +164,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:41Z'
-  notes: Texto consolidado 01999L0030-20100611.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:41Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1999-30.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -144,16 +251,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:41Z'
+  checked_at: '2026-10-22T14:47:41Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01999L0030-20011023: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

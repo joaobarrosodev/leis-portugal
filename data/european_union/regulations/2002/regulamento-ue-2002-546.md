@@ -36,6 +36,41 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-12-11'
+version_history:
+  file: regulamento-ue-2002-546.versoes.json
+  count: 3
+  source_lastmod: '2011-12-11'
+  versions:
+  - date: '2002-03-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-01'
+    amending: eu:celex:32003R1782:por
+    amending_title: REGULAMENTO (CE) N. o 1782/2003 DO CONSELHO de 29 de Setembro de 2003; ►A1
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Notas
+    - Suprime ANEXO I — PRÉMIOS PARA OS TABACOS EM FOLHA DAS COLHEITAS DE 2002, 2003 E 2004
+    - Suprime ANEXO II — LIMIARES DE GARANTIA PARA A COLHEITA DE 2002
+  - date: '2011-12-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime ANEXO I
+    - Suprime ANEXO II
+    - Suprime Notas
 identifiers:
   celex: 32002R0546
   eli: http://data.europa.eu/eli/reg/2002/546/oj
@@ -50,7 +85,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ab417d59-6a69-4eb5-b663-88590214b571.0010
   content_url: http://publications.europa.eu/resource/cellar/1fab431e-531a-434f-9781-bc6bee70fa54.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R0546-20111211
-  retrieved_at: '2026-10-22T02:45:05Z'
+  retrieved_at: '2026-10-22T14:52:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T12:23:02.826+01:00'
 integrity:
@@ -59,9 +94,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:05Z'
-  notes: Texto consolidado 02002R0546-20111211.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:47Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2002-546.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -128,16 +163,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:05Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:52:47Z'
+  warnings: []
   errors: []
 ---
 

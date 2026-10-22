@@ -35,6 +35,94 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-10'
+version_history:
+  file: diretiva-ue-2006-118.versoes.json
+  count: 3
+  source_lastmod: '2026-05-10'
+  versions:
+  - date: '2006-12-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-11'
+    amending: eu:celex:32014L0080:por
+    amending_title: DIRETIVA 2014/80/UE DA COMISSÃO de 20 de junho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita ANEXO I
+    - Adita NORMAS DE QUALIDADE PARA AS ÁGUAS SUBTERRÂNEAS
+    - Adita ANEXO II
+    - Adita LIMIARES PARA OS POLUENTES E INDICADORES DE POLUIÇÃO DAS ÁGUAS SUBTERRÂNEAS
+    - Adita Parte A
+    - Adita Orientações para a fixação de limiares pelos estados-membros nos termos do artigo 3.º
+    - Adita Parte B
+    - Adita Listas mínimas de poluentes e dos respectivos indicadores para os quais os estados-membros têm de considerar a
+      fixação de limiares nos termos do artigo 3.º
+    - Adita Parte C
+    - Adita Informações a fornecer pelos Estados-Membros relativas aos poluentes e aos respetivos indicadores para os quais
+      foram estabelecidos limiares
+    - Adita ANEXO III
+    - Adita AVALIAÇÃO DO ESTADO QUÍMICO DAS ÁGUAS SUBTERRÂNEAS
+    - Adita ANEXO IV
+    - Adita IDENTIFICAÇÃO E INVERSÃO DAS TENDÊNCIAS SIGNIFICATIVAS E PERSISTENTES PARA O AUMENTO DAS CONCENTRAÇÕES
+    - 'Adita Parte a:'
+    - Adita Identificação e inversão das tendências significativas e persistentes para o aumento das concentrações
+    - 'Adita Parte b:'
+    - Adita Pontos de partida para a inversão das tendências
+    - Suprime Artigo 1.º — Objectivo
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Critérios para a avaliação do estado químico das águas subterrâneas
+    - Suprime Artigo 4.º — Procedimento para a avaliação do estado químico das águas subterrâneas
+    - Suprime Artigo 5.º — Identificação de tendências significativas e persistentes para o aumento das concentrações de poluentes
+      e para a definição dos pontos de partida para a inversão dessas tendências
+    - Suprime Artigo 6.º — Medidas para prevenir ou limitar a introdução de poluentes nas águas subterrâneas
+  - date: '2026-05-10'
+    amending: eu:celex:32026L0805:por
+    amending_title: DIRETIVA (UE) 2026/805 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de março de 2026
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Orientações para a fixação de limiares pelos estados-membros nos termos do artigo 3.º
+    - Altera Listas mínimas de poluentes e dos respectivos indicadores para os quais os estados-membros têm de considerar
+      a fixação de limiares nos termos do artigo 3.º
+    - Altera AVALIAÇÃO DO ESTADO QUÍMICO DAS ÁGUAS SUBTERRÂNEAS
+    - Altera Pontos de partida para a inversão das tendências
+    - Altera Notas
+    - Adita Artigo 6.º-A
+    - Adita Artigo 8.º-A
+    - Adita NORMAS DE QUALIDADE (NQ) PARA POLUENTES DAS ÁGUAS SUBTERRÂNEAS E INDICADORES DE POLUIÇÃO
+    - Adita Informações a fornecer pelos Estados-Membros relativas aos poluentes e aos indicadores de poluição para os quais
+      foram estabelecidos limiares pelos Estados-Membros
+    - Adita Parte D
+    - Adita Repositório de limiares harmonizados para as substâncias sintéticas antropogénicas ([^1^](http://publications.europa.eu/resource/cellar/27217fd9-69c0-11f1-ae88-01aa75ed71a1.0019.02/DOC_1#E0028))
+      em águas subterrâneas que suscitam preocupação a nível nacional, regional ou local
+    - Adita ANEXO V
+    - Adita SUBSTÂNCIAS SUJEITAS A REVISÃO PARA EVENTUAL INCLUSÃO NO ANEXO I COM UMA NORMA DE QUALIDADE DAS ÁGUAS SUBTERRÂNEAS
+      A NÍVEL DA UNIÃO
+    - Suprime Artigo 10.º
+    - Suprime NORMAS DE QUALIDADE PARA AS ÁGUAS SUBTERRÂNEAS
+    - Suprime Informações a fornecer pelos Estados-Membros relativas aos poluentes e aos respetivos indicadores para os quais
+      foram estabelecidos limiares
 identifiers:
   celex: 32006L0118
   eli: http://data.europa.eu/eli/dir/2006/118/oj
@@ -49,7 +137,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f9e68783-b70b-4fc7-a3c4-d4cf0d5a122f.0017
   content_url: http://publications.europa.eu/resource/cellar/27217fd9-69c0-11f1-ae88-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0118-20260510
-  retrieved_at: '2026-10-22T02:45:18Z'
+  retrieved_at: '2026-10-22T15:02:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-21T04:23:38.212+01:00'
 integrity:
@@ -58,9 +146,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:18Z'
-  notes: Texto consolidado 02006L0118-20260510.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:02:47Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2006-118.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -188,30 +276,20 @@ relationships:
   date: '2020-05-28'
 article_structure:
   article_count: 15
-  section_count: 22
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 23
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:18Z'
-  warnings: []
+  checked_at: '2026-10-22T15:02:47Z'
+  warnings:
+  - '02006L0118-20070116: versão indisponível (Sem expressão na língua por para CELEX 02006L0118-20070116.)'
   errors: []
 ---
 
 # Directiva 2006/118/CE do Parlamento Europeu e do Conselho, de 12 de Dezembro de 2006
-
-> 02006L0118 — PT — 10.05.2026 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014L0080) — [DIRETIVA 2014/80/UE DA COMISSÃO de 20 de junho de 2014](http://publications.europa.eu/resource/celex/32014L0080) — L 182 — 52 — 21.6.2014
-- [►M2](http://publications.europa.eu/resource/celex/32026L0805) — [DIRETIVA (UE) 2026/805 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de março de 2026](http://publications.europa.eu/resource/celex/32026L0805) — L 805 — 1 — 20.4.2026
-
-## DIRECTIVA 2006/118/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 12 de Dezembro de 2006
 

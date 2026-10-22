@@ -36,6 +36,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-01-01'
+version_history:
+  file: regulamento-ue-1998-2848.versoes.json
+  count: 2
+  source_lastmod: '2006-01-01'
+  versions:
+  - date: '1998-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I — Definições
+    - Suprime Artigo 1º
+    - Suprime TÍTULO II — Agrupamentos de produtores
+    - Suprime CAPÍTULO I — Reconhecimento
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime CAPÍTULO II — Retirada do reconhecimento
+    - Suprime Artigo 6º
+    - Suprime TÍTULO III — Empresa de primeira transformação
+    - Suprime Artigo 7º
+    - Suprime TÍTULO IV — Regime de prémios
+    - Suprime CAPÍTULO I — Zonas de produção
+    - Suprime Artigo 8º
+    - Suprime CAPÍTULO II — Contrato de cultura
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 12º
+    - Suprime CAPÍTULO III — Exigências qualitativas mínimas
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime CAPÍTULO IV — Pagamento dos prémios e adiantamentos
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime Artigo 17º
+    - Suprime Artigo 18º
+    - Suprime Artigo 19º
+    - Suprime Artigo 20º
+    - Suprime Artigo 21º
+    - Suprime TÍTULO V — Regime de quotas de produção
+    - Suprime CAPÍTULO I — Repartição das quotas
+    - Suprime Artigo 22º
+    - Suprime Artigo 23º
+    - Suprime Artigo 24º
+    - Suprime Artigo 25º
+    - Suprime Artigo 26º
+    - Suprime CAPÍTULO II — Declaração de quota
+    - Suprime Artigo 27º
 identifiers:
   celex: 31998R2848
   eli: http://data.europa.eu/eli/reg/1998/2848/oj
@@ -50,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ef14bd6f-d4f3-4601-a779-51638e657d3f.0011
   content_url: http://publications.europa.eu/resource/cellar/2994e29d-1f10-42fa-9428-03dd23a93a5a.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998R2848-20060101
-  retrieved_at: '2026-10-22T02:41:15Z'
+  retrieved_at: '2026-10-22T14:47:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T18:45:07.571+01:00'
 integrity:
@@ -59,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:15Z'
-  notes: Texto consolidado 01998R2848-20060101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:31Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1998-2848.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -224,16 +277,27 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:15Z'
+  checked_at: '2026-10-22T14:47:31Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01998R2848-19990101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R2848-19990309: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R2848-19990626: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R2848-20000101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R2848-20000506: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R2848-20000619: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R2848-20010306: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R2848-20010720: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R2848-20020322: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R2848-20020616: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R2848-20020823: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R2848-20021111: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01998R2848-20041026: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

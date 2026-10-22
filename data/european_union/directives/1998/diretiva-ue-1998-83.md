@@ -33,6 +33,98 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-10-27'
+version_history:
+  file: diretiva-ue-1998-83.versoes.json
+  count: 3
+  source_lastmod: '2015-10-27'
+  versions:
+  - date: '1998-12-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-07'
+    amending: eu:celex:32003R1882:por
+    amending_title: REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003; REGULAMENTO
+      (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Adita preambulo
+    - Adita Artigo 1.º — Objectivo
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 3.º — Isenções
+    - Adita Artigo 4.º — Obrigações gerais
+    - Adita Artigo 5.º — Normas de qualidade
+    - Adita Artigo 6.º — Limiares de conformidade
+    - Adita Artigo 7.º — Controlo
+    - Adita Artigo 8.º — Medidas de correcção e restrições de utilização
+    - Adita Artigo 9.º — Derrogações
+    - Adita Artigo 10.º — Garantia de qualidade do tratamento, do equipamento e dos materiais
+    - Adita Artigo 11.º — Revisão dos anexos
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º — Informação e relatórios
+    - Adita Artigo 14.º — Calendário de cumprimento
+    - Adita Artigo 15.º — Circunstâncias excepcionais
+    - Adita Artigo 16.º — Revogação
+    - Adita Artigo 17.º — Transposição para o direito interno
+    - Adita Artigo 18.º — Entrada em vigor
+    - Adita Artigo 19.º — Destinatários
+    - Adita ANEXO I
+    - Adita PARÂMETROS E VALORES PARAMÉTRICOS
+    - Adita PARTE A
+    - Adita Parâmetros microbiológicos
+    - Adita PARTE B
+    - Adita Parâmetros químicos
+    - 'Adita Nota 1:'
+    - 'Adita Nota 2:'
+    - 'Adita Nota 3:'
+    - 'Adita Nota 4:'
+    - 'Adita Nota 5:'
+    - 'Adita Nota 6:'
+    - 'Adita Nota 7:'
+    - 'Adita Nota 8:'
+    - 'Adita Nota 9:'
+    - 'Adita Nota 10:'
+    - Adita PARTE C
+    - Adita Parâmetros indicadores
+    - Adita ANEXO II
+    - Adita CONTROLO
+  - date: '2015-10-27'
+    amending: eu:celex:32015L1787:por
+    amending_title: DIRETIVA (UE) 2015/1787 DA COMISSÃO de 6 de outubro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Isenções
+    - Altera Artigo 10.º — Garantia de qualidade do tratamento, do equipamento e dos materiais
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º — Informação e relatórios
+    - 'Altera Nota 3:'
+    - Altera ESPECIFICAÇÕES PARA A ANÁLISE DOS PARÂMETROS
+    - Altera Notas
+    - Adita MONITORIZAÇÃO
+    - Adita Objetivos gerais e programas de monitorização da água destinada ao consumo humano
+    - Adita Parâmetros e frequências
+    - Adita 1. Enquadramento geral
+    - Adita 2. Lista de parâmetros
+    - Adita 3. Frequências de amostragem
+    - Adita Avaliação de risco
+    - Adita PARTE D
+    - Adita Métodos de amostragem e pontos de amostragem
+    - Adita Parâmetros microbiológicos para os quais são definidos métodos de análise
+    - Adita Parâmetros químicos e indicadores para os quais são definidas características de desempenho
+    - Adita 1. Parâmetros químicos e indicadores
+    - Adita 2. Notas dos quadros 1 e 2
+    - Suprime CONTROLO
+    - Suprime QUADRO A
+    - Suprime Parâmetros a analisar
+    - Suprime 1. Controlo de rotina
+    - Suprime 2. Controlo de inspecção
+    - Suprime QUADRO B1
+    - Suprime Frequência mínima de amostragem e análise da água destinada ao consumo humano fornecida por uma rede de distribuição
+      ou por um camião-cisterna ou utilizada numa empresa da indústria alimentar
+    - Suprime QUADRO B2
+    - Suprime Frequência mínima de amostragem e análise de águas colocadas à venda em garrafas ou outros recipientes
+    - Suprime 1. PARÂMETROS PARA OS QUAIS SÃO DEFINIDOS MÉTODOS DE ANÁLISE
+    - Suprime 2. PARÂMETROS PARA OS QUAIS SÃO ESPECIFICADAS AS CARACTERÍSTICAS DO MÉTODO DE ANÁLISE
+    - Suprime 3. PARÂMETROS PARA OS QUAIS NÃO É ESPECIFICADO QUALQUER MÉTODO DE ANÁLISE
 identifiers:
   celex: 31998L0083
   eli: http://data.europa.eu/eli/dir/1998/83/oj
@@ -47,7 +139,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/880a8575-7ee4-438e-b953-567df6719e26.0011
   content_url: http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0083-20151027
-  retrieved_at: '2026-10-22T02:35:22Z'
+  retrieved_at: '2026-10-22T14:47:07Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T07:02:51.207+01:00'
 integrity:
@@ -56,9 +148,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:22Z'
-  notes: Texto consolidado 01998L0083-20151027.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:07Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1998-83.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -325,31 +417,21 @@ relationships:
   source: null
 article_structure:
   article_count: 19
-  section_count: 41
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 42
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:22Z'
-  warnings: []
+  checked_at: '2026-10-22T14:47:07Z'
+  warnings:
+  - '01998L0083-19981225: versão indisponível (Sem expressão na língua por para CELEX 01998L0083-19981225.)'
+  - '01998L0083-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 98/83/CE do Conselho de 3 de Novembro de 1998
-
-> 1998L0083 — PT — 27.10.2015 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003R1882) — [REGULAMENTO (CE) N.º 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
-- [►M2](http://publications.europa.eu/resource/celex/32009R0596) — [REGULAMENTO (CE) N.º 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0596) — L 188 — 14 — 18.7.2009
-- [►M3](http://publications.europa.eu/resource/celex/32015L1787) — [DIRETIVA (UE) 2015/1787 DA COMISSÃO de 6 de outubro de 2015](http://publications.europa.eu/resource/celex/32015L1787) — L 260 — 6 — 7.10.2015
-
-## DIRECTIVA 98/83/CE DO CONSELHO
 
 de 3 de Novembro de 1998
 

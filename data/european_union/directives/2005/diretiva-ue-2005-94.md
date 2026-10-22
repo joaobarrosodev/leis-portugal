@@ -34,6 +34,109 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-04-21'
+version_history:
+  file: diretiva-ue-2005-94.versoes.json
+  count: 3
+  source_lastmod: '2021-04-21'
+  versions:
+  - date: '2006-09-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-09-03'
+    amending: eu:celex:32008L0073:por
+    amending_title: DIRECTIVA 2008/73/CE DO CONSELHO Texto relevante para efeitos do EEE de 15 de Julho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 13.º — Derrogações respeitantes a determinadas explorações
+    - Altera Artigo 19.º — Medidas a aplicar nas explorações das zonas de protecção
+    - Altera Artigo 23.º — Derrogações para o transporte directo de aves de capoeira para abate imediato e os movimentos ou
+      o tratamento de carne de aves de capoeira
+    - Altera Artigo 30.º — Medidas a aplicar nas zonas de vigilância
+    - Altera Artigo 32.º — Medidas a aplicar nas outras zonas submetidas a restrições
+    - Altera Artigo 39.º — Medidas a aplicar
+    - Altera Artigo 40.º — Derrogações respeitantes a determinadas explorações
+    - Altera Artigo 44.º — Medidas a aplicar nas zonas submetidas a restrições
+    - Altera Artigo 48.º — Limpeza, desinfecção e procedimentos para a eliminação do vírus da gripe aviária
+    - Altera Artigo 50.º — Procedimentos de diagnóstico e manual de diagnóstico
+    - Altera Artigo 51.º — Laboratórios de referência
+    - Altera Artigo 52.º — Fabrico, venda e utilização de vacinas contra a gripe aviária
+    - Altera Artigo 60.º — Controlos comunitários
+    - Altera Artigo 63.º — Competência de execução
+    - Altera Artigo 64.º — Procedimento de comité
+    - Altera Artigo 69.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita (referido no artigo 2.º)
+    - Adita Definição de gripe aviária
+    - Adita ANEXO II
+    - Adita (referido no n.º 2 do artigo 5.º)
+    - Adita Notificação da doença e outras informações epidemiológicas a fornecer pelos Estados-Membros
+    - Adita ANEXO III
+    - Adita (referido no n.º 3 do artigo 8.º e no n.º 3 do artigo 13.º)
+    - Adita Autorização para retirar ovos de uma exploração em conformidade com o n.º 3 do Artigo 8.º e com o n.º 3 do Artigo
+      13.º
+    - Adita ANEXO IV
+    - Adita (referido no n.º 2 do artigo 15.º, no n.º 2 do artigo 32.º e no n.º 2 do artigo 42.º)
+    - Adita ANEXO V
+    - Adita (referido no n.º 1 do artigo 39.º)
+    - Adita Critérios a ter em conta para decidir da aplicação de medidas nas explorações no que respeita à GAFP
+    - Adita ANEXO VI
+    - Adita (referido no artigo 48.º)
+    - Adita Princípios e procedimentos de limpeza, desinfecção e tratamento de explorações
+    - Adita ANEXO VII
+    - Adita (referido no n.º 1 do artigo 51.º)
+    - Adita Laboratório comunitário de referência para a gripe aviária
+    - Adita ANEXO VIII
+  - date: '2021-04-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime OBJECTO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime BIOSSEGURANÇA PREVENTIVA, VIGILÂNCIA, NOTIFICAÇÕES E INQUÉRITOS EPIDEMIOLÓGICOS
+    - Suprime Artigo 3.º — Medidas de biossegurança preventiva
+    - Suprime Artigo 4.º — Programas de vigilância
+    - Suprime Artigo 5.º — Comunicação
+    - Suprime Artigo 6.º — Inquérito epidemiológico
+    - Suprime CAPÍTULO III
+    - Suprime SUSPEITA DE FOCOS
+    - Suprime Artigo 7.º — Medidas a aplicar nas explorações quando se suspeite de focos
+    - Suprime Artigo 8.º — Derrogações a certas medidas a aplicar nas explorações quando se suspeite de focos
+    - Suprime Artigo 9.º — Duração das medidas a aplicar nas explorações quando se suspeite de focos
+    - Suprime Artigo 10.º — Medidas suplementares baseadas num inquérito epidemiológico
+    - Suprime CAPÍTULO IV
+    - Suprime GRIPE AVIÁRIA ALTAMENTE PATOGÉNICA (GAAP)
+    - Suprime SECÇÃO 1
+    - Suprime Explorações, unidades de produção separadas e explorações de contacto
+    - Suprime Artigo 11.º — Medidas a aplicar nas explorações quando se confirmem focos
+    - Suprime Artigo 12.º — Derrogações
+    - Suprime Artigo 13.º — Derrogações respeitantes a determinadas explorações
+    - Suprime Artigo 14.º — Medidas a aplicar em caso de foco de GAAP em unidades de produção separadas
+    - Suprime Artigo 15.º — Medidas a aplicar nas explorações de contacto
+    - Suprime SECÇÃO 2
+    - Suprime Zonas de protecção e de vigilância e outras zonas submetidas a restrições
+    - Suprime Artigo 16.º — Estabelecimento de zonas de protecção e de vigilância e de outras zonas submetidas a restrições
+      em caso de foco de GAAP
+    - Suprime Artigo 17.º — Medidas a aplicar nas zonas de protecção e de vigilância
+    - Suprime SECÇÃO 3
+    - Suprime Medidas a aplicar nas zonas de protecção
+    - Suprime Artigo 18.º — Recenseamento e visitas pelo veterinário oficial e vigilância
+    - Suprime Artigo 19.º — Medidas a aplicar nas explorações das zonas de protecção
+    - Suprime Artigo 20.º — Proibição de remover ou espalhar material de cama utilizado, estrume ou chorume provenientes de
+      explorações
+    - Suprime Artigo 21.º — Feiras, mercados ou outras situações que originem concentrações e reconstituição de efectivos
+      cinegéticos
+    - Suprime Artigo 22.º — Proibição de movimentos e transporte de aves, ovos, carne de aves de capoeira e cadáveres
+    - Suprime Artigo 23.º — Derrogações para o transporte directo de aves de capoeira para abate imediato e os movimentos
+      ou o tratamento de carne de aves de capoeira
+    - Suprime Artigo 24.º — Derrogações para o transporte directo de pintos do dia
+    - Suprime Artigo 25.º — Derrogações para o transporte directo de aves de capoeira prontas para a postura
 identifiers:
   celex: 32005L0094
   eli: http://data.europa.eu/eli/dir/2005/94/oj
@@ -48,7 +151,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1733cf94-4a12-466b-b23d-17ff679468be.0016
   content_url: http://publications.europa.eu/resource/cellar/520c4329-b40a-11eb-8aca-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0094-20210421
-  retrieved_at: '2026-10-22T02:58:02Z'
+  retrieved_at: '2026-10-22T14:59:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-21T03:50:38.553+01:00'
 integrity:
@@ -57,9 +160,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:02Z'
-  notes: Texto consolidado 02005L0094-20210421.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:55Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2005-94.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -197,16 +300,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:02Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:59:55Z'
+  warnings: []
   errors: []
 ---
 

@@ -35,6 +35,106 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-04-08'
+version_history:
+  file: diretiva-ue-1998-24.versoes.json
+  count: 5
+  source_lastmod: '2024-04-08'
+  versions:
+  - date: '1998-05-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-28'
+    amending: eu:celex:32007L0030:por
+    amending_title: DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de
+      Junho de 2007
+    changes:
+    - Altera preambulo
+    - Adita SECÇÃO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita Artigo 1.º — Objectivo no âmbito de aplicação
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 3.º — Valores-limite de exposição profissional e valores-limite biológicos
+    - Adita SECÇÃO II
+    - Adita OBRIGAÇÕES DAS ENTIDADES PATRONAIS
+    - Adita Artigo 4.º — Determinação e avaliação dos riscos resultantes de agentes químicos perigosos
+    - Adita Artigo 5.º — Princípios gerais de prevenção dos riscos associados a agentes químicos perigosos e aplicação da
+      directiva no que se refere à avaliação dos riscos
+    - Adita Artigo 6.º — Medidas específicas de protecção e prevenção
+    - Adita Artigo 7.º — Medidas para enfrentar acidentes, incidentes e emergências
+    - Adita Artigo 8.º — Informação e formação dos trabalhadores
+    - Adita SECÇÃO III
+    - Adita DISPOSIÇÕES DIVERSAS
+    - Adita Artigo 9.º — Proibições
+    - Adita Artigo 10.º — Vigilância da saúde
+    - Adita Artigo 11.º — Consulta e participação dos trabalhadores
+    - Adita Artigo 12.º — Adaptação dos anexos, preparação e adopção de orientações técnicas
+    - Adita Artigo 13.º — Revogação e alteração de directivas anteriores
+    - Adita SECÇÃO IV
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita Artigo 14.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita ANEXO I
+    - Adita LISTA DE VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL OBRIGATÓRIOS
+    - Adita ANEXO II
+    - Adita VALORES-LIMITE BIOLÓGICOS OBRIGATÓRIOS E MEDIDAS DE VIGILÂNCIA DA SAÚDE
+    - Adita 1. Chumbo e respectivos compostos iónicos
+    - Adita ANEXO III
+    - Adita PROIBIÇÕES
+    - Adita a) Agentes químicos
+    - Adita b) Actividades laborais
+    - Adita Notas
+    - Suprime SECÇÃO I — DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1º — Objectivo no âmbito de aplicação
+    - Suprime Artigo 2º — Definições
+    - Suprime Artigo 3º — Valores-limite de exposição profissional e valores-limite biológicos
+    - Suprime SECÇÃO II — OBRIGAÇÕES DAS ENTIDADES PATRONAIS
+  - date: '2014-03-25'
+    amending: eu:celex:32014L0027:por
+    amending_title: DIRETIVA 2014/27/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivo no âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Determinação e avaliação dos riscos resultantes de agentes químicos perigosos
+    - Altera Artigo 6.º — Medidas específicas de protecção e prevenção
+    - Altera Artigo 8.º — Informação e formação dos trabalhadores
+    - Altera Artigo 13.º — Revogação e alteração de directivas anteriores
+    - Altera LISTA DE VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL OBRIGATÓRIOS
+    - Altera a) Agentes químicos
+    - Altera Notas
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivo no âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Valores-limite de exposição profissional e valores-limite biológicos
+    - Altera Artigo 4.º — Determinação e avaliação dos riscos resultantes de agentes químicos perigosos
+    - Altera Artigo 6.º — Medidas específicas de protecção e prevenção
+    - Altera Artigo 12.º — Adaptação dos anexos, preparação e adopção de orientações técnicas
+    - Altera Artigo 13.º — Revogação e alteração de directivas anteriores
+    - Altera LISTA DE VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL OBRIGATÓRIOS
+    - Altera a) Agentes químicos
+    - Altera Notas
+    - Adita Artigo 12.º-A — Exercício da delegação
+    - Adita Artigo 12.º-B — Procedimento de urgência
+  - date: '2024-04-08'
+    amending: eu:celex:32024L0869:por
+    amending_title: DIRETIVA (UE) 2024/869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024
+    changes:
+    - Altera Artigo 1.º — Objectivo no âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Determinação e avaliação dos riscos resultantes de agentes químicos perigosos
+    - Altera Artigo 6.º — Medidas específicas de protecção e prevenção
+    - Altera Artigo 12.º-A — Exercício da delegação
+    - Altera Artigo 13.º — Revogação e alteração de directivas anteriores
+    - Altera LISTA DE VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL OBRIGATÓRIOS
+    - Altera a) Agentes químicos
+    - Altera Notas
+    - Suprime 1. Chumbo e respectivos compostos iónicos
 identifiers:
   celex: 31998L0024
   eli: http://data.europa.eu/eli/dir/1998/24/oj
@@ -49,7 +149,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/188ca3d7-2255-4541-bbc9-1142e9b6b33b.0011
   content_url: http://publications.europa.eu/resource/cellar/09b83aca-fbf2-11ee-a251-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0024-20240408
-  retrieved_at: '2026-10-22T02:39:30Z'
+  retrieved_at: '2026-10-22T14:46:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T21:17:46.527+01:00'
 integrity:
@@ -58,9 +158,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:30Z'
-  notes: Texto consolidado 01998L0024-20240408.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:42Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-1998-24.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -243,32 +343,19 @@ relationships:
   source: null
 article_structure:
   article_count: 18
-  section_count: 16
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 17
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:30Z'
+  checked_at: '2026-10-22T14:46:42Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 98/24/CE do Conselho de 7 de Abril de 1998
-
-> 01998L0024 — PT — 08.04.2024 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007L0030) — [DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Junho de 2007](http://publications.europa.eu/resource/celex/32007L0030) — L 165 — 21 — 27.6.2007
-- [►M2](http://publications.europa.eu/resource/celex/32014L0027) — [DIRETIVA 2014/27/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014L0027) — L 65 — 1 — 5.3.2014
-- [►M3](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [►M4](http://publications.europa.eu/resource/celex/32024L0869) — [DIRETIVA (UE) 2024/869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024](http://publications.europa.eu/resource/celex/32024L0869) — L 869 — 1 — 19.3.2024
-
-## DIRECTIVA 98/24/CE DO CONSELHO
 
 de 7 de Abril de 1998
 

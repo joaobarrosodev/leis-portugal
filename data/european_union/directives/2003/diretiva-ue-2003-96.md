@@ -34,6 +34,75 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-01-10'
+version_history:
+  file: diretiva-ue-2003-96.versoes.json
+  count: 4
+  source_lastmod: '2023-01-10'
+  versions:
+  - date: '2003-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-01'
+    amending: eu:celex:32004L0074:por
+    amending_title: DIRECTIVA 2004/74/CE DO CONSELHO de 29 de Abril de 2004; DIRECTIVA 2004/75/CE DO CONSELHO de 29 de Abril
+      de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Artigo 24.º
+    - Altera Artigo 30.º
+    - Altera Artigo 32.º
+    - Adita Artigo 18.ºA
+    - Adita Artigo 18.ºB
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Taxas tributárias reduzidas e isenções tributárias previstas n.º 1 do artigo 18.º
+    - Adita 1. BÉLGICA
+    - Adita 2. DINAMARCA
+    - Adita 3. ALEMANHA
+    - Adita 4. GRÉCIA
+    - Adita 5. ESPANHA
+    - Adita 6. FRANÇA
+    - Adita 7. IRLANDA
+    - Adita 8. ITÁLIA
+    - Adita 9. LUXEMBURGO
+    - Adita 10. PAÍSES BAIXOS
+    - Adita 11. ÁUSTRIA
+    - Adita 12. PORTUGAL
+    - Adita 13. FINLÂNDIA
+    - Adita 14. SUÉCIA
+    - Adita 15. REINO UNIDO
+    - Adita ANEXO III
+    - Adita Notas
+    - Suprime ANEXO I — Quadro A — Níveis mínimos de tributação aplicáveis aos carburantes
+    - Suprime ANEXO II — Taxas tributárias reduzidas e isenções tributárias previstas n.o 1 do artigo 18.o
+  - date: '2018-09-15'
+    amending: eu:celex:32018D0552:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2018/552 DA COMISSÃO de 6 de abril de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 7.º
+    - Altera Artigo 16.º
+    - Altera Artigo 20.º
+    - Altera ANEXO I
+    - Altera Notas
+  - date: '2023-01-10'
+    amending: eu:celex:32022D2521:por
+    amending_title: M4
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 7.º
+    - Altera Artigo 17.º
+    - Altera Notas
 identifiers:
   celex: 32003L0096
   eli: http://data.europa.eu/eli/dir/2003/96/oj
@@ -48,7 +117,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/592e0011-a77d-4215-8ef9-f0e3d5237d32.0010
   content_url: http://publications.europa.eu/resource/cellar/1052462e-9bfa-11ed-b508-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0096-20230110
-  retrieved_at: '2026-10-22T02:35:45Z'
+  retrieved_at: '2026-10-22T14:55:17Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:26:14.798+02:00'
 integrity:
@@ -57,9 +126,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:45Z'
-  notes: Texto consolidado 02003L0096-20230110.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:17Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2003-96.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -531,37 +600,19 @@ relationships:
   date: '1992-10-31'
 article_structure:
   article_count: 34
-  section_count: 19
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 20
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:45Z'
+  checked_at: '2026-10-22T14:55:17Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2003/96/CE do Conselho, de 27 de Outubro de 2003
-
-> 02003L0096 — PT — 10.01.2023 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32004L0074) — [DIRECTIVA 2004/74/CE DO CONSELHO de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004L0074) — L 157 — 87 — 30.4.2004
-- [►M2](http://publications.europa.eu/resource/celex/32004L0075) — [DIRECTIVA 2004/75/CE DO CONSELHO de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004L0075) — L 157 — 100 — 30.4.2004
-- [►M3](http://publications.europa.eu/resource/celex/32018D0552) — [DECISÃO DE EXECUÇÃO (UE) 2018/552 DA COMISSÃO de 6 de abril de 2018](http://publications.europa.eu/resource/celex/32018D0552) — L 91 — 27 — 9.4.2018
-- [M4](http://publications.europa.eu/resource/celex/32022D2521) — [DECISÃO DE EXECUÇÃO (UE) 2022/2521 DA COMISSÃO de 20 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022D2521) — L 326 — 57 — 21.12.2022
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32004L0074R%2801%29) — [Rectificação, JO L 195, 2.6.2004, p. 26 (2004/74/CE)](http://publications.europa.eu/resource/celex/32004L0074R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32004L0075R%2801%29) — [Rectificação, JO L 195, 2.6.2004, p. 31 (2004/75/CE)](http://publications.europa.eu/resource/celex/32004L0075R%2801%29)
-
-## DIRECTIVA 2003/96/CE DO CONSELHO
 
 de 27 de Outubro de 2003
 

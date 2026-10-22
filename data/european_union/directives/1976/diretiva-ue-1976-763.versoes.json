@@ -1,0 +1,224 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31976L0763:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0763-20100902",
+ "dre_path": null,
+ "source_lastmod": "2010-09-02",
+ "versions": [
+  {
+   "date": "1976-09-27",
+   "future": false,
+   "celex": "31976L0763",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "efe9328137e67891",
+    "a7510770740a13a3",
+    "96e9f47752cb0886",
+    "d27b2ac659eae6f3",
+    "2b281b4f18d431fa",
+    "917f65a0113a8c7d",
+    "731694db5b7b97f8",
+    "5dd954abcf258f7c"
+   ]
+  },
+  {
+   "date": "2010-09-02",
+   "future": false,
+   "celex": "01976L0763-20100902",
+   "acts": [
+    {
+     "id": "eu:celex:31982L0890:por",
+     "title": "DIRECTIVA DO CONSELHO 82/890/CEE de 17 de Dezembro de 1982",
+     "published": null,
+     "celex": "31982L0890"
+    },
+    {
+     "id": "eu:celex:31997L0054:por",
+     "title": "DIRECTIVA 97/54/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de Setembro de 1997",
+     "published": null,
+     "celex": "31997L0054"
+    },
+    {
+     "id": "eu:celex:31999L0086:por",
+     "title": "M3",
+     "published": null,
+     "celex": "31999L0086"
+    },
+    {
+     "id": "eu:celex:32010L0052:por",
+     "title": "DIRECTIVA 2010/52/UE DA COMISSÃO Texto relevante para efeitos do EEE de 11 de Agosto de 2010",
+     "published": null,
+     "celex": "32010L0052"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita ANEXO",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime ANEXO — I. PRESCRIÇÕES GERAIS DE CONSTRUÇÃO E DE INSTALAÇÃO"
+   ],
+   "fragments": [
+    "a11d36203ed211b9",
+    "6bcc92edc5137a81",
+    "18940baa153aa19a",
+    "b09c4f6de59e15f0",
+    "475a25359e51374e",
+    "a17201e2ffbfebd0",
+    "eaf22075ed2adc67",
+    "6d0f49c14d3b0276",
+    "f8ca55971d2690fe"
+   ]
+  }
+ ],
+ "fragments": {
+  "efe9328137e67891": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 76/763/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-Membros respeitantes aos bancos de passageiro dos tractores agrícolas ou florestais de rodas** *Jornal Oficial nº L 262 de 27/09/1976 p. 0135 - 0138 Edição especial finlandesa: Capítulo 13 Fascículo 5 p. 0164 Edição especial grega: Capítulo 13 Fascículo 4 p. 0108 Edição especial sueca: Capítulo 13 Fascículo 5 p. 0164 Edição especial espanhola: Capítulo 13 Fascículo 5 p. 0174 Edição especial portuguesa: Capítulo 13 Fascículo 5 p. 0174*\n\nDIRECTIVA DO CONSELHO de 27 de Julho de 1976 relativa à aproximação das legislações dos Estados-membros respeitantes aos bancos de passageiro dos tractores agrícolas ou florestais de rodas\n\n(76/763/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que as prescrições técnicas exigidas para os tractores pelas legislações nacionais respeitam, nomeadamente, aos bancos de passageiro;\n\nConsiderando que estas prescrições diferem de um Estado-membro para outro; que daí resulta a necessidade de que sejam adoptadas as mesmas prescrições por todos os Estados-membros, quer em complemento, quer em substituição das suas regulamentações actuais, tendo em vista nomeadamente permitir a aplicação, para cada modelo de tractor, do processo de recepção CEE que é objecto da Directiva 74/150/CEE do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos tractores agrícolas ou florestais de rodas (3);\n\nConsiderando que a presente directiva tem por objecto harmonizar as disposições nacionais relativas à construção e à montagem dos bancos de passageiros dos tractores agrícolas, mas não uniformizar as prescrições relativas à presença obrigatória ou não de um destes bancos nos tractores; que tão-pouco pretende harmonizar as prescrições que prevêem a possibilidade de montar nos tractores pelo menos um banco de passageiro; que os problemas ainda não regulamentados no que respeita ao banco de passageiro enquanto um dos elementos constantes na ficha de recepção devem ser resolvidos logo que possível, completando a presente directiva a fim de fixar, igualmente no respeitante ao banco de passageiro, as condições exigidas para a emissão da recepção CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "a7510770740a13a3": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Entende-se por tractor (agrícola ou florestal) qualquer veículo a motor, com rodas ou lagartas, tendo pelo menos dois eixos, cuja função principal resida na sua potência de tracção, e especialmente concebido para atrelar, empurrar, transportar ou accionar certas ferramentas, máquinas ou reboques destinados a uma utilização agrícola ou florestal. Pode estar equipado para transportar carga e passageiros.\n\n2. A presente directiva aplica-se exclusivamente aos tractores definidos no no 1, montados sobre pneumáticos, como dois eixos e uma velocidade máxima, por construção, compreendida entre 6 e 25 quilómetros à hora e cuja via atinja pelo menos 1 250 mm."
+  },
+  "96e9f47752cb0886": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros não podem recusar a recepção CEE nem a recepção de âmbito nacional por motivos relacionados com os bancos de passageiro, se estes corresponderem às prescrições constantes do anexo."
+  },
+  "d27b2ac659eae6f3": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros não podem recusar a matrícula ou proibir a venda, a entrada em circulação ou a utilização dos tractores por motivos respeitantes aos bancos de passageiro, se estes corresponderem às prescrições constantes do anexo."
+  },
+  "2b281b4f18d431fa": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nAs alterações necessárias para adaptar ao progresso técnico as prescrições do anexo serão adoptadas em conformidade com o procedimento previsto no artigo 13o da Directiva 74/150/CEE."
+  },
+  "917f65a0113a8c7d": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os Estados-membros porão em vigor as disposições necessárias para darem cumprimento à presente directiva no prazo de dezoito meses a contar da sua notificação e desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros devem assegurar que a Comissão seja informada do texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "731694db5b7b97f8": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 27 de Julho de 1976.\n\nPelo Conselho\n\nO Presidente\n\nM. van der STOEL\n\n(1) JO no 28 de 17. 2. 1967, p. 462/67.(2) JO no 42 de 7. 3. 1967, p. 620/67.(3) JO no L 84 de 28. 3. 1974, p. 10."
+  },
+  "5dd954abcf258f7c": {
+   "fragment_id": "ANEXO — I. PRESCRIÇÕES GERAIS DE CONSTRUÇÃO E DE INSTALAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO — I. PRESCRIÇÕES GERAIS DE CONSTRUÇÃO E DE INSTALAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — I. PRESCRIÇÕES GERAIS DE CONSTRUÇÃO E DE INSTALAÇÃO\n\n1. O banco deve ser colocado de modo a que o passageiro não esteja em perigo e não impeça a condução do tractor.\n\n2. O banco deve estar solidamente fixado e, segundo o modelo do tractor, ligado de modo conveniente a um elemento da estrutura (quadro, dispositivo de protecção contra a capotagem, plataforma, etc.).\n\n3. Este elemento da estrutura deve ser suficientemente resistente para poder suportar o banco de passageiro em carga.\n\nII. PRESCRIÇÕES ESPECIAIS DE CONSTRUÇÃO\n\n1. A largura do banco deve ser de pelo menos 400 mm e a sua profundidade de pelo menos 300 mm.\n\n2. O banco deve estar provido de um encosto com uma altura mínima de 200 mm e máxima de 250 mm, e comportar um apoio lateral; as dimensões acima indicadas não se aplicam se houver uma parede fechada atrás do passageiro. O assento do banco deve ser estofado ou flexível.\n\n3. Deve estar previsto um apoio apropriado para os pés do passageiro.\n\n4. A altura livre acima da superfície do banco do passageiro deve ser de pelo menos 920 mm. Contudo, quando um tractor, correspondendo às exigências respeitantes ao banco do condutor e sua protecção, tiver uma forma de construção que não permita respeitar essa altura para o passageiro, esta pode ser reduzida até 800 mm, na condição de se prever um estofo adequado ao nível do tecto, imediatamente acima do banco do passageiro.\n\nA parte superior do espaço livre oferecido ao passageiro só pode estar limitada à retaguarda por um raio não superior a 300 mm (ver desenho em apêndice). A altura livre é a cota vertical livre compreendida entre o bordo da frente do banco e o tecto do tractor.\n\n5. O banco do passageiro não deve aumentar a largura total do tractor.\n\n6. Quando os bancos dos passageiros se encontrarem sobre os guarda-lamas, não deve existir mais de um banco por guarda-lama.\n\nApêndice"
+  },
+  "a11d36203ed211b9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Julho de 1976\n\nrelativa à aproximação das legislações dos Estados-membros respeitantes aos bancos de passageiro dos tractores agrícolas ou florestais de rodas\n\n(76/763/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/b8e946df-864c-41d2-be98-b85ffa6e53bd.0019.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/b8e946df-864c-41d2-be98-b85ffa6e53bd.0019.03/DOC_1#E0002)),\n\nConsiderando que as prescrições técnicas exigidas para os tractores pelas legislações nacionais respeitam, nomeadamente, aos bancos de passageiro;\n\nConsiderando que estas prescrições diferem de um Estado-membro para outro; que daí resulta a necessidade de que sejam adoptadas as mesmas prescrições por todos os Estados-membros, quer em complemento, quer em substituição das suas regulamentações actuais, tendo em vista nomedamente permitir a aplicação, para cada modelo de tractor, do processo de recepção CEE que é objecto da Directiva 74/150/CEE do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos tractores agrícolas ou florestais de rodas ([^3^](http://publications.europa.eu/resource/cellar/b8e946df-864c-41d2-be98-b85ffa6e53bd.0019.03/DOC_1#E0003));\n\nConsiderando que a presente directiva tem por objecto harmonizar as disposições nacionais relativas à construção e à montagem dos bancos de passageiros dos tractores agrícolas, mas não uniformizar as prescrições relativas à presença obrigatória ou não de um destes bancos nos tractores; que tão-pouco pretende harmonizar as prescrições que prevêem a possibilidade de montar nos tractores pelo menos um banco de passageiro; que os problemas ainda não regulamentados no que respeita ao banco de passageiro enquanto um dos elementos constantes na ficha de recepção devem ser resolvidos logo que possível, completando a presente directiva a fim de fixar, igualmente no respeitante ao banco de passageiro, as condições exigidas para a emissão da recepção CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "6bcc92edc5137a81": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Entende-se por tractor (agrícola ou florestal) qualquer veículo a motor, com rodas ou lagartas, tendo pelo menos dois eixos, cuja função principal resida na sua potência de tracção, e especialmente concebido para atrelar, empurrar, transportar ou accionar certas ferramentas, máquinas ou reboques destinados a uma utilização agrícola ou florestal. Pode estar equipado para transportar carga e passageiros.\n\n2. A presente directiva aplica-se exclusivamente aos tractores definidos no n.º 1, montados sobre pneumáticos, com pelo menos dois eixos, com uma velocidade máxima, por construção, compreendida entre 6 e [**►M2**](http://publications.europa.eu/resource/celex/31997L0054) 40 km/h**◄** e cuja via atinja pelo menos 1 250 milímetros."
+  },
+  "18940baa153aa19a": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-membros não podem recusar a recepção CEE nem a recepção de âmbito nacional por motivos relacionados com os bancos de passageiro, se estes corresponderem às prescrições constantes do anexo."
+  },
+  "b09c4f6de59e15f0": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-membros não podem recusar a matrícula ou proibir a venda, a entrada em circulação ou a utilização dos tractores por motivos respeitantes aos bancos de passageiro, se estes corresponderem às prescrições constantes do anexo."
+  },
+  "475a25359e51374e": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs alterações necessárias para adaptar ao progresso técnico as prescrições do anexo serão adoptadas em conformidade com o procedimento previsto no artigo 13.º da Directiva 74/150/CEE."
+  },
+  "a17201e2ffbfebd0": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-membros porão em vigor as disposições necessárias para darem cumprimento à presente directiva no prazo de dezoito meses a contar da sua notificação e desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros devem assegurar que a Comissão seja informada do texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "eaf22075ed2adc67": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "6d0f49c14d3b0276": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nOs bancos de passageiros, se os houver, devem estar em conformidade com a norma EN 15694:2009.\n\n---"
+  },
+  "f8ca55971d2690fe": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b8e946df-864c-41d2-be98-b85ffa6e53bd.0019.03/DOC_1#src.E0001)) JO n.º 28 de 17.2.1967, p. 462/67.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b8e946df-864c-41d2-be98-b85ffa6e53bd.0019.03/DOC_1#src.E0002)) JO n.º 42 de 7.3.1967, p. 620/67.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b8e946df-864c-41d2-be98-b85ffa6e53bd.0019.03/DOC_1#src.E0003)) JO n.º L 84 de 28.3.1974, p. 10."
+  }
+ }
+}

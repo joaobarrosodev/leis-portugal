@@ -35,6 +35,66 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-07-23'
+version_history:
+  file: diretiva-ue-2001-32.versoes.json
+  count: 6
+  source_lastmod: '2008-07-23'
+  versions:
+  - date: '2001-05-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-01'
+    amending: eu:celex:32002L0029:por
+    amending_title: DIRECTIVA 2002/29/CE DA COMISSÃO de 19 de Março de 2002; DIRECTIVA 2003/21/CE DA COMISSÃO de 24 de Março
+      de 2003; DIRECTIVA 2003/46/CE DA COMISSÃO de 4 de Junho de 2003; M4; DECISÃO DA COMISSÃO de 28 de Abril de 2004; Acto
+      relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da
+      Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República
+      da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Adita ANEXO
+    - Adita Notas
+    - Suprime ANEXO — ZONAS DA COMUNIDADE RECONHECIDAS COMO "ZONAS PROTEGIDAS", EM RELAÇÃO AO ORGANISMO OU ORGANISMOS PREJUDICIAIS
+      INDICADOS PARA CADA ZONA
+  - date: '2005-03-06'
+    amending: eu:celex:32005L0018:por
+    amending_title: DIRECTIVA 2005/18/CE DA COMISSÃO de 2 de Março de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2006-04-14'
+    amending: eu:celex:32006L0036:por
+    amending_title: DIRECTIVA 2006/36/CE DA COMISSÃO de 24 de Março de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera ANEXO
+    - Altera Notas
+    - Suprime Artigo 2.º
+  - date: '2007-07-19'
+    amending: eu:celex:32007L0040:por
+    amending_title: DIRECTIVA 2007/40/CE DA COMISSÃO de 28 de Junho de 2007
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2008-07-23'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime ANEXO
+    - Suprime Notas
 identifiers:
   celex: 32001L0032
   eli: http://data.europa.eu/eli/dir/2001/32/oj
@@ -49,7 +109,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/03d62ea5-e44d-49b8-add7-e7b93633c1b6.0010
   content_url: http://publications.europa.eu/resource/cellar/54420004-78d4-4191-8118-b6aea9726d53.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0032-20080723
-  retrieved_at: '2026-10-22T02:40:31Z'
+  retrieved_at: '2026-10-22T14:50:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T17:09:50.440+01:00'
 integrity:
@@ -58,9 +118,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:31Z'
-  notes: Texto consolidado 02001L0032-20080723.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:06Z'
+  notes: 6 versão(ões); histórico completo em diretiva-ue-2001-32.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -170,16 +230,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:31Z'
+  checked_at: '2026-10-22T14:50:06Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02001L0032-20020323: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001L0032-20030328: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001L0032-20030608: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

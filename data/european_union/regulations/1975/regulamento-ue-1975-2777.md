@@ -34,6 +34,103 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-07-01'
+version_history:
+  file: regulamento-ue-1975-2777.versoes.json
+  count: 4
+  source_lastmod: '2008-07-01'
+  versions:
+  - date: '1975-11-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-12-02'
+    amending: eu:celex:31976R0369:por
+    amending_title: M1; M2; M3; M4; REGULAMENTO (CEE) N o 1235/89 DO CONSELHO de 3 de Maio de 1989; M6; REGULAMENTO (CEE)
+      N o 1574/93 DO CONSELHO de 14 de Junho de 1993; REGULAMENTO (CE) N o 3290/94 DO CONSELHO de 22 de Dezembro de 1994;
+      REGULAMENTO (CE) N o 2916/95 DA COMISSÃO de 18 de Dezembro de 1995; REGULAMENTO (CE) N. o 493/2002 DA COMISSÃO de 19
+      de Março de 2002; REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003; REGULAMENTO (CE) N. o 1913/2005
+      DO CONSELHO de 23 de Novembro de 2005; Acto de Adesão da Grécia; Acto de Adesão da Áustria, da Finlândia e da Suécia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1º
+    - Adita Artigo 2º
+    - Adita Artigo 3º
+    - Adita Artigo 4º
+    - Adita Artigo 5º
+    - Adita Artigo 6º
+    - Adita Artigo 7º
+    - Adita Artigo 8º
+    - Adita Artigo 9º
+    - Adita Artigo 10º
+    - Adita Artigo 11º
+    - Adita Artigo 13º
+    - Adita Artigo 14.º
+    - Adita Artigo 15º
+    - Adita Artigo 16º
+    - Adita Artigo 17.º
+    - Adita Artigo 18º
+    - Adita Artigo 19º
+    - Adita Artigo 20º
+    - Adita Artigo 21º
+    - Adita Artigo 22º
+    - Adita Artigo 23º
+    - Adita ANEXO
+    - Adita Quadro de concordância
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+  - date: '2006-05-11'
+    amending: eu:celex:32006R0679:por
+    amending_title: REGULAMENTO (CE) N. o 679/2006 DO CONSELHO de 25 de Abril de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 21º
+    - Altera Artigo 22º
+    - Altera Notas
+  - date: '2008-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18º
+    - Suprime Artigo 19º
+    - Suprime Artigo 20º
+    - Suprime Artigo 21º
+    - Suprime Artigo 22º
+    - Suprime Artigo 23º
+    - Suprime ANEXO
+    - Suprime Quadro de concordância
+    - Suprime Notas
 identifiers:
   celex: 31975R2777
   eli: http://data.europa.eu/eli/reg/1975/2777/oj
@@ -48,7 +145,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7dc5d3c7-a864-46a6-b7f4-343f7cc9a123.0011
   content_url: http://publications.europa.eu/resource/cellar/4ca7dc57-50ce-409e-a98b-69e0a0279721.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01975R2777-20080701
-  retrieved_at: '2026-10-22T02:54:24Z'
+  retrieved_at: '2026-10-22T14:31:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T18:48:07.459+01:00'
 integrity:
@@ -57,9 +154,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:54:24Z'
-  notes: Texto consolidado 01975R2777-20080701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:31:26Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-1975-2777.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -238,16 +335,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:54:24Z'
+  checked_at: '2026-10-22T14:31:26Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01975R2777-19960101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01975R2777-20020101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01975R2777-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

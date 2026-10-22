@@ -35,6 +35,69 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-01-02'
+version_history:
+  file: diretiva-ue-1993-49.versoes.json
+  count: 5
+  source_lastmod: '2023-01-02'
+  versions:
+  - date: '1993-10-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-12-31'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita ANEXO — LISTA DE ORGANISMOS PREJUDICIAIS E DOENÇAS ESPECÍFICAS COM INCIDÊNCIA SIGNIFICATIVA NA QUALIDADE
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - 'Suprime ANEXO — /* Quadros: ver JO */'
+  - date: '2018-10-01'
+    amending: eu:celex:31999L0067:por
+    amending_title: DIRECTIVA 1999/67/CE DA COMISSÃO de 28 de Junho de 1999; DIRETIVA DE EXECUÇÃO (UE) 2018/484 DA COMISSÃO
+      de 21 de março de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Adita Artigo 3.º-A
+    - Adita ANEXO
+    - Adita LISTA DE ORGANISMOS PREJUDICIAIS E DOENÇAS ESPECÍFICAS COM INCIDÊNCIA SIGNIFICATIVA NA QUALIDADE
+    - Adita Notas
+    - Suprime ANEXO — LISTA DE ORGANISMOS PREJUDICIAIS E DOENÇAS ESPECÍFICAS COM INCIDÊNCIA SIGNIFICATIVA NA QUALIDADE
+  - date: '2020-02-16'
+    amending: eu:celex:32020L0177:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2020/177 DA COMISSÃO Texto relevante para efeitos do EEE de 11 de fevereiro
+      de 2020
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+    - Altera ANEXO
+    - Altera Notas
+    - Suprime Artigo 3.º-A
+    - Suprime LISTA DE ORGANISMOS PREJUDICIAIS E DOENÇAS ESPECÍFICAS COM INCIDÊNCIA SIGNIFICATIVA NA QUALIDADE
+  - date: '2023-01-02'
+    amending: eu:celex:32022L2438:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2022/2438 DA COMISSÃO de 12 de dezembro de 2022
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+    - Altera ANEXO
+    - Altera Notas
 identifiers:
   celex: 31993L0049
   eli: http://data.europa.eu/eli/dir/1993/49/oj
@@ -49,7 +112,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e915db41-6261-4438-a314-aa412796659e.0011
   content_url: http://publications.europa.eu/resource/cellar/aa508175-912a-11ed-b508-01aa75ed71a1.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0049-20230102
-  retrieved_at: '2026-10-22T02:42:14Z'
+  retrieved_at: '2026-10-22T14:42:08Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T05:13:53.334+01:00'
 integrity:
@@ -58,9 +121,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:14Z'
-  notes: Texto consolidado 01993L0049-20230102.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:08Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-1993-49.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -140,32 +203,20 @@ relationships:
   source: null
 article_structure:
   article_count: 5
-  section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 2
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:14Z'
-  warnings: []
+  checked_at: '2026-10-22T14:42:08Z'
+  warnings:
+  - '01993L0049-19990701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 93/49/CEE da Comissão, de 23 de Junho de 1993
-
-> 01993L0049 — PT — 02.01.2023 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/31999L0067) — [DIRECTIVA 1999/67/CE DA COMISSÃO de 28 de Junho de 1999](http://publications.europa.eu/resource/celex/31999L0067) — L 164 — 78 — 30.6.1999
-- [M2](http://publications.europa.eu/resource/celex/32018L0484) — [DIRETIVA DE EXECUÇÃO (UE) 2018/484 DA COMISSÃO de 21 de março de 2018](http://publications.europa.eu/resource/celex/32018L0484) — L 81 — 10 — 23.3.2018
-- [►M3](http://publications.europa.eu/resource/celex/32020L0177) — [DIRETIVA DE EXECUÇÃO (UE) 2020/177 DA COMISSÃO de 11 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020L0177) — L 41 — 1 — 13.2.2020
-- [►M4](http://publications.europa.eu/resource/celex/32022L2438) — [DIRETIVA DE EXECUÇÃO (UE) 2022/2438 DA COMISSÃO de 12 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022L2438) — L 319 — 54 — 13.12.2022
-
-## DIRECTIVA 93/49/CEE DA COMISSÃO
 
 de 23 de Junho de 1993
 

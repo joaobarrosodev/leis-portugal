@@ -35,6 +35,134 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-06-17'
+version_history:
+  file: regulamento-ue-2002-2368.versoes.json
+  count: 4
+  source_lastmod: '2025-06-17'
+  versions:
+  - date: '2002-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-01'
+    amending: eu:celex:32003R0254:por
+    amending_title: REGULAMENTO (CE) N. o 254/2003 DO CONSELHO de 11 de Fevereiro de 2003; M2; M3; M4; M5; M6; M7; M8; M9;
+      M10; M11; M12; M13; M14; M15; M16; M17; M18; M19; M20; M21; M22; M23; M24; M25; M26; M27; M28; M29; M30; M31; M32; M33;
+      M34; M35; REGULAMENTO (UE) N. o 257/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014; M37; M38; M39;
+      M40; M41; M42; REGULAMENTO DE EXECUÇÃO (UE) 2019/1189 DA COMISSÃO de 8 de julho de 2019; M44; REGULAMENTO DE EXECUÇÃO
+      (UE) 2020/2149 DA COMISSÃO de 9 de dezembro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 29.º
+    - Altera ANEXO II
+    - Adita CAPÍTULO I
+    - Adita OBJECTO E DEFINIÇÕES
+    - Adita Artigo 1.º
+    - Adita CAPÍTULO II
+    - Adita REGIME DE IMPORTAÇÃO
+    - Adita Artigo 3.º
+    - Adita CAPÍTULO III
+    - Adita REGIME DE EXPORTAÇÃO
+    - Adita Artigo 11.º
+    - Adita CAPÍTULO IV
+    - Adita AUTO-REGULAÇÃO DO SECTOR
+    - Adita Artigo 17.º
+    - Adita CAPÍTULO V
+    - Adita TRÂNSITO
+    - Adita Artigo 18.º
+    - Adita CAPÍTULO VI
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita Artigo 19.º
+    - Adita ANEXO I
+    - Adita SISTEMA DE CERTIFICAÇÃO DO PROCESSO DE KIMBERLEY
+    - Adita PREÂMBULO
+    - Adita SECÇÃO I
+    - Adita Definições
+    - Adita SECÇÃO II
+    - Adita Certificado do Processo de Kimberley
+    - Adita SECÇÃO III
+    - Adita Compromissos em relação ao comércio internacional de diamantes em bruto
+    - Adita SECÇÃO IV
+    - Adita Controlo interno
+    - Adita Compromissos dos participantes
+  - date: '2022-08-25'
+    amending: eu:celex:32022R1359:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1359 DA COMISSÃO de 27 de julho de 2022
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera ARMÉNIA
+    - Altera AUSTRÁLIA
+    - Altera BIELORRÚSSIA
+    - Altera BOTSUANA
+    - Altera BRASIL
+    - Altera MACAU, Região Administrativa Especial da República Popular da China
+    - Altera CONGO, República do
+    - Altera COSTA DO MARFIM
+    - Altera ESSUATÍNI
+    - Altera UNIÃO EUROPEIA
+    - Altera GABÃO
+    - Altera GUINÉ
+    - Altera ÍNDIA
+    - Altera JAPÃO
+    - Altera CAZAQUISTÃO
+    - Altera COREIA, República da
+    - Altera LAOS, República Democrática Popular do
+    - Altera MAURÍCIA
+    - Altera MÉXICO
+    - Altera NAMÍBIA
+    - Altera NORUEGA
+    - Altera EMIRADOS ÁRABES UNIDOS
+    - Altera ZIMBABUÉ
+    - Altera BÉLGICA
+    - Altera ALEMANHA
+    - Altera IRLANDA
+    - Altera ITÁLIA
+    - Altera PORTUGAL
+    - Altera ROMÉNIA
+    - Altera Notas
+    - Adita Lista dos participantes no sistema de certificação do Processo de Kimberley e das respetivas autoridades competentes,
+      tal como referidos nos artigos 2.º, 3.º, 8.º, 9.º, 12.º, 17.º, 18.º, 19.º e 20.º
+    - Adita BANGLADEXE
+    - Adita República Democrática do CONGO
+    - Adita QUIRGUISTÃO
+    - Adita SHCP-AGA. Strategic Planning and Coordination
+    - Adita MOÇAMBIQUE
+    - Adita CATAR
+    - Adita REINO UNIDO ([^3^](http://publications.europa.eu/resource/cellar/99b85029-29f6-11ed-975d-01aa75ed71a1.0020.02/DOC_1#E0003))
+  - date: '2025-06-17'
+    amending: eu:celex:32025R1108:por
+    amending_title: REGULAMENTO (UE) 2025/1108 DA COMISSÃO de 23 de maio de 2025
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera REPÚBLICA CENTRO-AFRICANA
+    - Altera CAZAQUISTÃO
+    - Altera QUIRGUISTÃO
+    - Altera LIBÉRIA
+    - Altera MÉXICO
+    - Altera MOÇAMBIQUE
+    - Altera CATAR
+    - Altera VIETNAME
+    - Altera Notas
+    - Adita REINO UNIDO ([^3^](http://publications.europa.eu/resource/cellar/1b0e6dd7-619f-11f0-bf4e-01aa75ed71a1.0020.02/DOC_1#E0003))
+    - Adita USBEQUISTÃO
+    - Suprime CHINA, República Popular da
+    - Suprime HONG KONG, Região Administrativa Especial da República Popular da China
+    - Suprime MACAU, Região Administrativa Especial da República Popular da China
+    - Suprime República Democrática do CONGO
+    - Suprime CONGO, República do
+    - Suprime COREIA, República da
+    - Suprime LAOS, República Democrática Popular do
+    - Suprime SHCP-AGA. Strategic Planning and Coordination
+    - Suprime REINO UNIDO ([^3^](http://publications.europa.eu/resource/cellar/99b85029-29f6-11ed-975d-01aa75ed71a1.0020.02/DOC_1#E0003))
 identifiers:
   celex: 32002R2368
   eli: http://data.europa.eu/eli/reg/2002/2368/oj
@@ -49,7 +177,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/09a2f8e6-b7aa-461c-aebd-8cb4b491e40c.0010
   content_url: http://publications.europa.eu/resource/cellar/1b0e6dd7-619f-11f0-bf4e-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R2368-20250617
-  retrieved_at: '2026-10-22T02:57:28Z'
+  retrieved_at: '2026-10-22T14:54:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T19:58:43.495+01:00'
 integrity:
@@ -58,9 +186,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:28Z'
-  notes: Texto consolidado 02002R2368-20250617.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:29Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2002-2368.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -359,82 +487,57 @@ relationships:
   date: '2021-01-28'
 article_structure:
   article_count: 29
-  section_count: 129
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 130
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:28Z'
-  warnings: []
+  checked_at: '2026-10-22T14:54:29Z'
+  warnings:
+  - '02002R2368-20030213: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R2368-20030308: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R2368-20030502: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R2368-20030510: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R2368-20030709: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R2368-20030901: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R2368-20030912: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R2368-20031014: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R2368-20031107: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R2368-20040109: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R2368-20040408: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R2368-20040501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20040820: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20050403: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20050514: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20050801: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20050920: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20060920: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20070214: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20070504: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20070814: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20071021: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20080528: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20081218: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20111109: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20130101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20130821: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20140409: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20141029: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20150812: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20160128: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20160413: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20160430: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20180418: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20190713: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20200101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R2368-20200201: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 2368/2002 do Conselho, de 20 de Dezembro de 2002
-
-> 02002R2368 — PT — 17.06.2025 — 041.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003R0254) — [REGULAMENTO (CE) N.º 254/2003 DO CONSELHO de 11 de Fevereiro de 2003](http://publications.europa.eu/resource/celex/32003R0254) — L 36 — 7 — 12.2.2003
-- [M2](http://publications.europa.eu/resource/celex/32003R0257) — [REGULAMENTO (CE) N.º 257/2003 DA COMISSÃO de 11 de Fevereiro de 2003](http://publications.europa.eu/resource/celex/32003R0257) — L 36 — 11 — 12.2.2003
-- [M3](http://publications.europa.eu/resource/celex/32003R0418) — [REGULAMENTO (CE) N.º 418/2003 DA COMISSÃO de 6 de Março de 2003](http://publications.europa.eu/resource/celex/32003R0418) — L 64 — 13 — 7.3.2003
-- [M4](http://publications.europa.eu/resource/celex/32003R0762) — [REGULAMENTO (CE) N.º 762/2003 DA COMISSÃO de 30 de Abril de 2003](http://publications.europa.eu/resource/celex/32003R0762) — L 109 — 10 — 1.5.2003
-- [M5](http://publications.europa.eu/resource/celex/32003R0803) — [REGULAMENTO (CE) N.º 803/2003 DA COMISSÃO de 8 de Maio de 2003](http://publications.europa.eu/resource/celex/32003R0803) — L 115 — 53 — 9.5.2003
-- [M6](http://publications.europa.eu/resource/celex/32003R1214) — [REGULAMENTO (CE) N.º 1214/2003 DA COMISSÃO de 7 de Julho de 2003](http://publications.europa.eu/resource/celex/32003R1214) — L 169 — 30 — 8.7.2003
-- [M7](http://publications.europa.eu/resource/celex/32003R1536) — [REGULAMENTO (CE) N.º 1536/2003 DA COMISSÃO de 29 de Agosto de 2003](http://publications.europa.eu/resource/celex/32003R1536) — L 218 — 31 — 30.8.2003
-- [M8](http://publications.europa.eu/resource/celex/32003R1768) — [REGULAMENTO (CE) N.º 1768/2003 DA COMISSÃO de 8 de Outubro de 2003](http://publications.europa.eu/resource/celex/32003R1768) — L 256 — 9 — 9.10.2003
-- [M9](http://publications.europa.eu/resource/celex/32003R1880) — [REGULAMENTO (CE) N.º 1880/2003 DA COMISSÃO de 24 de Outubro de 2003](http://publications.europa.eu/resource/celex/32003R1880) — L 275 — 26 — 25.10.2003
-- [M10](http://publications.europa.eu/resource/celex/32003R2062) — [REGULAMENTO (CE) N.º 2062/2003 DA COMISSÃO de 24 de Novembro de 2003](http://publications.europa.eu/resource/celex/32003R2062) — L 308 — 7 — 25.11.2003
-- [M11](http://publications.europa.eu/resource/celex/32004R0101) — [REGULAMENTO (CE) N.º 101/2004 DA COMISSÃO de 21 de Janeiro de 2004](http://publications.europa.eu/resource/celex/32004R0101) — L 15 — 20 — 22.1.2004
-- [M12](http://publications.europa.eu/resource/celex/32004R0657) — [REGULAMENTO (CE) N.º 657/2004 DA COMISSÃO de 7 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0657) — L 104 — 62 — 8.4.2004
-- [M13](http://publications.europa.eu/resource/celex/32004R0913) — [REGULAMENTO (CE) N.º 913/2004 DA COMISSÃO de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0913) — L 163 — 73 — 30.4.2004
-- [M14](http://publications.europa.eu/resource/celex/32004R1458) — [REGULAMENTO (CE) N.º 1458/2004 DA COMISSÃO de 16 de Agosto de 2004](http://publications.europa.eu/resource/celex/32004R1458) — L 269 — 21 — 17.8.2004
-- [M15](http://publications.europa.eu/resource/celex/32004R1459) — [REGULAMENTO (CE) N.º 1459/2004 DA COMISSÃO de 16 de Agosto de 2004](http://publications.europa.eu/resource/celex/32004R1459) — L 269 — 26 — 17.8.2004
-- [M16](http://publications.europa.eu/resource/celex/32004R1474) — [REGULAMENTO (CE) N.º 1474/2004 DA COMISSÃO de 18 de Agosto de 2004](http://publications.europa.eu/resource/celex/32004R1474) — L 271 — 29 — 19.8.2004
-- [M17](http://publications.europa.eu/resource/celex/32005R0522) — [REGULAMENTO (CE) N.º 522/2005 DA COMISSÃO de 1 de Abril de 2005](http://publications.europa.eu/resource/celex/32005R0522) — L 84 — 8 — 2.4.2005
-- [M18](http://publications.europa.eu/resource/celex/32005R0718) — [REGULAMENTO (CE) N.º 718/2005 DA COMISSÃO de 12 de Maio de 2005](http://publications.europa.eu/resource/celex/32005R0718) — L 121 — 64 — 13.5.2005
-- [M19](http://publications.europa.eu/resource/celex/32005R1285) — [REGULAMENTO (CE) N.º 1285/2005 DA COMISSÃO de 3 de Agosto de 2005](http://publications.europa.eu/resource/celex/32005R1285) — L 203 — 12 — 4.8.2005
-- [M20](http://publications.europa.eu/resource/celex/32005R1574) — [REGULAMENTO (CE) N.º 1574/2005 DA COMISSÃO de 28 de Setembro de 2005](http://publications.europa.eu/resource/celex/32005R1574) — L 253 — 11 — 29.9.2005
-- [M21](http://publications.europa.eu/resource/celex/32006R1486) — [REGULAMENTO (CE) N.º 1486/2006 DA COMISSÃO de 5 de Outubro de 2006](http://publications.europa.eu/resource/celex/32006R1486) — L 278 — 3 — 10.10.2006
-- [M22](http://publications.europa.eu/resource/celex/32006R1636) — [REGULAMENTO (CE) N.º 1636/2006 DA COMISSÃO de 6 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006R1636) — L 306 — 10 — 7.11.2006
-- [M23](http://publications.europa.eu/resource/celex/32006R1791) — [REGULAMENTO (CE) N.º 1791/2006 DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006R1791) — L 363 — 1 — 20.12.2006
-- [M24](http://publications.europa.eu/resource/celex/32006R2026) — [REGULAMENTO (CE) N.º 2026/2006 DA COMISSÃO de 22 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R2026) — L 384 — 85 — 29.12.2006
-- [M25](http://publications.europa.eu/resource/celex/32007R0127) — [REGULAMENTO (CE) N.º 127/2007 DA COMISSÃO de 9 de Fevereiro de 2007](http://publications.europa.eu/resource/celex/32007R0127) — L 41 — 3 — 13.2.2007
-- [M26](http://publications.europa.eu/resource/celex/32007R0613) — [REGULAMENTO (CE) N.º 613/2007 DA COMISSÃO de 1 de Junho de 2007](http://publications.europa.eu/resource/celex/32007R0613) — L 141 — 56 — 2.6.2007
-- [M27](http://publications.europa.eu/resource/celex/32007R1038) — [REGULAMENTO (CE) N.º 1038/2007 DA COMISSÃO de 7 de Setembro de 2007](http://publications.europa.eu/resource/celex/32007R1038) — L 238 — 23 — 11.9.2007
-- [M28](http://publications.europa.eu/resource/celex/32007R1226) — [REGULAMENTO (CE) N.º 1226/2007 DA COMISSÃO de 17 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1226) — L 277 — 7 — 20.10.2007
-- [M29](http://publications.europa.eu/resource/celex/32008R0458) — [REGULAMENTO (CE) N.º 458/2008 DA COMISSÃO de 26 de Maio de 2008](http://publications.europa.eu/resource/celex/32008R0458) — L 137 — 6 — 27.5.2008
-- [M30](http://publications.europa.eu/resource/celex/32008R1268) — [REGULAMENTO (CE) N.º 1268/2008 DA COMISSÃO de 12 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008R1268) — L 338 — 39 — 17.12.2008
-- [M31](http://publications.europa.eu/resource/celex/32011R1116) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1116/2011 DA COMISSÃO de 31 de Outubro de 2011](http://publications.europa.eu/resource/celex/32011R1116) — L 289 — 1 — 8.11.2011
-- [M32](http://publications.europa.eu/resource/celex/32012R0947) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 947/2012 DA COMISSÃO de 12 de outubro de 2012](http://publications.europa.eu/resource/celex/32012R0947) — L 282 — 27 — 16.10.2012
-- [M33](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [M34](http://publications.europa.eu/resource/celex/32013R0622) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 622/2013 DA COMISSÃO de 25 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0622) — L 177 — 15 — 28.6.2013
-- [M35](http://publications.europa.eu/resource/celex/32013R0789) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 789/2013 DA COMISSÃO de 16 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0789) — L 222 — 1 — 20.8.2013
-- [►M36](http://publications.europa.eu/resource/celex/32014R0257) — [REGULAMENTO (UE) N.º 257/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0257) — L 84 — 69 — 20.3.2014
-- [M37](http://publications.europa.eu/resource/celex/32014R1147) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1147/2014 DA COMISSÃO de 23 de outubro de 2014](http://publications.europa.eu/resource/celex/32014R1147) — L 308 — 61 — 29.10.2014
-- [M38](http://publications.europa.eu/resource/celex/32015R1374) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1374 DA COMISSÃO de 7 de agosto de 2015](http://publications.europa.eu/resource/celex/32015R1374) — L 212 — 3 — 11.8.2015
-- [M39](http://publications.europa.eu/resource/celex/32016R0091) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/91 DA COMISSÃO de 26 de janeiro de 2016](http://publications.europa.eu/resource/celex/32016R0091) — L 19 — 28 — 27.1.2016
-- [M40](http://publications.europa.eu/resource/celex/32016R0557) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/557 DA COMISSÃO de 7 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0557) — L 96 — 8 — 12.4.2016
-- [M41](http://publications.europa.eu/resource/celex/32016R0667) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/667 DA COMISSÃO de 27 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0667) — L 115 — 28 — 29.4.2016
-- [M42](http://publications.europa.eu/resource/celex/32018R0578) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/578 DA COMISSÃO de 13 de abril de 2018](http://publications.europa.eu/resource/celex/32018R0578) — L 97 — 1 — 17.4.2018
-- [►M43](http://publications.europa.eu/resource/celex/32019R1189) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1189 DA COMISSÃO de 8 de julho de 2019](http://publications.europa.eu/resource/celex/32019R1189) — L 187 — 14 — 12.7.2019
-- [M44](http://publications.europa.eu/resource/celex/32020R0130) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/130 DA COMISSÃO de 28 de janeiro de 2020](http://publications.europa.eu/resource/celex/32020R0130) — L 27 — 10 — 31.1.2020
-- [►M45](http://publications.europa.eu/resource/celex/32020R2149) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/2149 DA COMISSÃO de 9 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2149) — L 428 — 38 — 18.12.2020
-- [►M46](http://publications.europa.eu/resource/celex/32022R1359) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1359 DA COMISSÃO de 27 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1359) — L 205 — 99 — 5.8.2022
-- [►M47](http://publications.europa.eu/resource/celex/32025R1108) — [REGULAMENTO (UE) 2025/1108 DA COMISSÃO de 23 de maio de 2025](http://publications.europa.eu/resource/celex/32025R1108) — L 1108 — 1 — 28.5.2025
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32003R0803R%2801%29) — [Rectificação, JO L 116, 13.5.2003, p. 31 (803/2003)](http://publications.europa.eu/resource/celex/32003R0803R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32005R0718R%2801%29) — [Rectificação, JO L 126, 19.5.2005, p. 68 (718/2005)](http://publications.europa.eu/resource/celex/32005R0718R%2801%29)
-- [C3](http://publications.europa.eu/resource/celex/32006R1636R%2801%29) — [Rectificação, JO L 314, 15.11.2006, p. 51 (1636/2006)](http://publications.europa.eu/resource/celex/32006R1636R%2801%29)
-- [C4](http://publications.europa.eu/resource/celex/32007R0613R%2801%29) — [Rectificação, JO L 148, 9.6.2007, p. 25 (613/2007)](http://publications.europa.eu/resource/celex/32007R0613R%2801%29)
-
-## REGULAMENTO (CE) N.º 2368/2002 DO CONSELHO
 
 de 20 de Dezembro de 2002
 

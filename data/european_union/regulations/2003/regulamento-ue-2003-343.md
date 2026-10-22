@@ -35,6 +35,92 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-19'
+version_history:
+  file: regulamento-ue-2003-343.versoes.json
+  count: 3
+  source_lastmod: '2013-07-19'
+  versions:
+  - date: '2003-02-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-04'
+    amending: eu:celex:32008R1103:por
+    amending_title: REGULAMENTO (CE) N. o 1103/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 15.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 27.º
+    - Altera Artigo 29.º
+    - Adita CAPÍTULO I
+    - Adita OBJECTO E DEFINIÇÕES
+    - Adita CAPÍTULO II
+    - Adita PRINCÍPIOS GERAIS
+    - Adita CAPÍTULO III
+    - Adita HIERARQUIA DOS CRITÉRIOS
+    - Adita CAPÍTULO IV
+    - Adita CLÁUSULA HUMANITÁRIA
+    - Adita CAPÍTULO V
+    - Adita TOMADA E RETOMADA A CARGO
+    - Adita CAPÍTULO VI
+    - Adita COOPERAÇÃO ADMINISTRATIVA
+    - Adita CAPÍTULO VII
+    - Adita DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+    - Adita Notas
+    - Suprime CAPÍTULO I — OBJECTO E DEFINIÇÕES
+    - Suprime CAPÍTULO II — PRINCÍPIOS GERAIS
+    - Suprime CAPÍTULO III — HIERARQUIA DOS CRITÉRIOS
+    - Suprime CAPÍTULO IV — CLÁUSULA HUMANITÁRIA
+    - Suprime CAPÍTULO V — TOMADA E RETOMADA A CARGO
+    - Suprime CAPÍTULO VI — COOPERAÇÃO ADMINISTRATIVA
+    - Suprime CAPÍTULO VII — DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+  - date: '2013-07-19'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime OBJECTO E DEFINIÇÕES
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime CAPÍTULO II
+    - Suprime PRINCÍPIOS GERAIS
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime CAPÍTULO III
+    - Suprime HIERARQUIA DOS CRITÉRIOS
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime CAPÍTULO IV
+    - Suprime CLÁUSULA HUMANITÁRIA
+    - Suprime Artigo 15.º
+    - Suprime CAPÍTULO V
+    - Suprime TOMADA E RETOMADA A CARGO
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime CAPÍTULO VI
+    - Suprime COOPERAÇÃO ADMINISTRATIVA
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime CAPÍTULO VII
+    - Suprime DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+    - Suprime Artigo 24.º
+    - Suprime Artigo 25.º
 identifiers:
   celex: 32003R0343
   eli: http://data.europa.eu/eli/reg/2003/343/oj
@@ -49,7 +135,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0da1adb7-0954-4af5-8096-c121d5f28820.0010
   content_url: http://publications.europa.eu/resource/cellar/e24fd825-592d-4ca0-8310-2ead2dba3f72.0014.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R0343-20130719
-  retrieved_at: '2026-10-22T03:11:24Z'
+  retrieved_at: '2026-10-22T14:55:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T21:00:58.396+01:00'
 integrity:
@@ -58,9 +144,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:24Z'
-  notes: Texto consolidado 02003R0343-20130719.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:27Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2003-343.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -170,16 +256,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:24Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:55:27Z'
+  warnings: []
   errors: []
 ---
 

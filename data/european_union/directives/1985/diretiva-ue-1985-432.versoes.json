@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31985L0432:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01985L0432-20071020",
+ "dre_path": null,
+ "source_lastmod": "2007-10-20",
+ "versions": [
+  {
+   "date": "1985-09-24",
+   "future": false,
+   "celex": "31985L0432",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "336577d8f1e13af5",
+    "b12042615cb2c8d5",
+    "9ca88a6c20a64c14",
+    "74fb483cf66df03a",
+    "e2829c52391b8ff8",
+    "3f0efdabb9b78aef",
+    "3a93bc11da2dc825",
+    "b13ac7241f6d1a68"
+   ]
+  },
+  {
+   "date": "2007-10-20",
+   "future": false,
+   "celex": "01985L0432-20071020",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o"
+   ],
+   "fragments": [
+    "8f3bee72522122ef"
+   ]
+  }
+ ],
+ "fragments": {
+  "336577d8f1e13af5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 85/432/CEE do Conselho, de 16 de Setembro de 1985, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes a certas actividades do sector farmacêutico** *Jornal Oficial nº L 253 de 24/09/1985 p. 0034 - 0036 Edição especial finlandesa: Capítulo 6 Fascículo 2 p. 0111 Edição especial espanhola: Capítulo 06 Fascículo 3 p. 0025 Edição especial sueca: Capítulo 6 Fascículo 2 p. 0111 Edição especial portuguesa: Capítulo 06 Fascículo 3 p. 0025*\n\nDIRECTIVA DO CONSELHO de 16 de Setembro de 1985 relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes a certas actividades do sector farmacêutico\n\n(85/432/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 49o e 57o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que os titulares de um diploma, certificado ou outro título em farmácia são, por isso, especialistas no domínio dos medicamentos e devem ter acesso, em princípio, em todos os Estados-membros, a um campo mínimo de actividades neste domínio; que, ao definir este campo mínimo, a presente directiva, por um lado não tem por efeito limitar as actividades acessíveis, nos Estados-membros, aos farmacêuticos, nomeadamente, no que respeita às análises de biologia médica e, por outro lado, não cria em benefício destes profissionais qualquer monopólio, continuando a criação de monopólios a ser da exclusiva competência dos Estados-membros;\n\nConsiderando, por outro lado, que a presente directiva não assegura a coordenação de todas as condições de acesso às actividades do sector farmacêutico e seu exercício; que, nomeadamente, a repartição geográfica das farmácias e o monopólio de distribuição dos medicamentos continuam a ser da competência dos Estados-membros;\n\nConsiderando que, para realizar o reconhecimento mútuo dos diplomas, certificados e outros títulos em farmácia, tal como exigido pela Directiva 85/433/CEE do Conselho de 16 de Setembro de 1985, relativa ao reconhecimento mútuo dos diplomas, certificados e outros títulos em farmácia, incluindo medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento para certas actividades do sector farmacêutico (4), a ampla comparabilidade da formação nos Estados-membros permite limitar a coordenação neste domíno à exigência de observância de normas mínimas, deixando aos Estados-membros, quanto ao resto, a liberdade de organizar o seu próprio ensino;\n\nConsiderando que a presente directiva não impede os Estados-membros de exigirem condições complementares de formação para o acesso a actividades não incluidas no campo mínimo de actividades coordenado, que, por isso, o Estado-membro de acolhimento que exija tais condições pode sujeitar a estas os nacionais dos Estados-membros titulares de um dos diplomas referidos no artigo 4o da Directiva 85/433/CEE;\n\nConsiderando que a coordenação prevista na presente directiva abrange as qualificações profissionais; que, no que a estas respeita, a maioria dos Estados-membros não distingue, actualmente, entre os profissionais que exercem a sua actividade como assalariados e os que a exercem como independentes; que, por isso, se afigura necessário alargar a aplicação da presente directiva aos profissionais assalariados;\n\nConsiderando que se estão a desenvolver, nos Estados-membros, formações complementares relativas a certos aspectos da farmácia e destinadas a aprofundar certos conhecimentos adquiridos, durante a formação, pelos farmacêuticos; que, nestas condições, tendo em vista o reconhecimento recíproco dos diplomas, certificados e outros títulos de farmacêutico especialista, e a fim de colocar todos os profissionais nacionais dos Estados-membros em pé de certa igualdade na Comunidade, é necessária uma certa coordenação das condições de formação do farmacêutico especialista, quando existam formações especializadas comuns a vários Estados-membros que, sem serem condição de acesso às actividades incluídas no campo mínimo de actividades coordenado, sejam susceptíveis de constituir um pressuposto para o uso de um título de especialista; que esta coordenação não se afigura, de momento, realizável, mas constitui, com o respectivo reconhecimento mútuo, um objectivo a atingir o mais depressa possível,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b12042615cb2c8d5": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Os Estados-membros velarão por que os titulares de um diploma, certificado ou outro título universitário em farmácia de nível considerado equivalente, que satisfaça as condições previstas no artigo 2o, possam pelo menos, aceder às actividades referidas no no 2 e ao seu exercício, sem prejuízo, se for caso disso, da exigência de experiência profissional complementar.\n\n2. As actividades referidas no no 1 são:\n\n- preparação da forma farmacêutica dos medicamentos,\n\nAs actividades referidas no no 1 são:\n\n- o fabrico e controlo dos medicamentos,\n\n- o controlo dos medicamentos num laboratório de controlo de medicamentos,\n\n- o armazenamento, a conservação e a distribuição dos medicamentos na fase do comérico,\n\n- a preparação, o controlo, o armazenamento e a distribuição dos medicamentos em farmácias abertas ao público,\n\n- a preparação, o controlo, o armazenamento e a distribuição dos medicamentos nos hospitais,\n\n- a difusão de informações e conselhos sobre os medicamentos.\n\n3. Se existir num Estado-membro, no momento da adopção da presente directiva, um concurso com provas destinadas a seleccionar, de entre os titulares referidos no no 1, os que serão designados para se tornarem titulares das novas farmácias cuja criação tenha sido decidida no quadro de um sistema nacional de repartição geográfica, esse Estado-membro pode, em derrogação do no 1, manter tal concurso e a ele sujeitar os nacionais dos Estados-membros que possuam diplomas, certificados e outros títulos referidos no no 1 do artigo 2o e no artigo 6o da Directiva 85/433/CEE."
+  },
+  "9ca88a6c20a64c14": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros subordinarão a emissão dos diplomas, certificados e outros títulos referidos no artigo 1o às seguintes condições mínimas:\n\n1) A formação conducente à obtenção de diploma, certificado ou título garante:\n\na) Um conhecimento adequado dos medicamentos e substâncias utilizadas para a sua fabricação;\n\nb) Um conhecimento adequado da tecnologia farmacêutica e do controlo físico, químico, biológico e microbiológico dos medicamentos;\n\nc) Um conhecimento adequado do metabolismo e dos efeitos dos medicamentos e da acção dos tóxicos, bem como da utilização dos medicamentos;\n\nd) Um conhecimento adequado que permita avaliar os dados científicos respeitantes aos medicamentos para poder, com base nele, prestar informações apropriadas;\n\ne) Um conhecimento adequado dos requisitos legais e outros em matéria de exercício de actividades farmacêuticas;\n\n2) A admissão a essa formação pressupõe a titularidade de um diploma ou certificado que, quanto aos estudos em questão, permita o acesso aos estabelecimentos universitários ou institutos de nível considerado equivalente, de um Estado-membro;\n\n3) O diploma, certificado ou outro título comprova haver-se completado um ciclo de formação de, pelo menos, cinco anos, incluindo:\n\n- quatro anos, pelo menos, de ensino teórico e prático a tempo inteiro, ministrado numa universidade ou instituto superior de nível considerado equivalente, ou sob a fiscalização de uma universidade,\n\n- seis meses, pelo menos, de estágio em farmácia aberta ao público ou em hospital sob a fiscalização do serviço farmacêutico desse hospital.\n\n4) Em derrogação ao ponto 3:\n\na) Se, no momento da adopção da presente directiva, coexistirem, em um Estado-membro, dois ciclos de formação dos quais um com a duração de cinco anos e o outro de quatro, o diploma, certificado ou outro título comprovativo da conclusão do ciclo de formação de quatro anos, é considerado conforme com com o requisito de duração referido no ponto 3, desde que os diplomas, certificados e outros títulos comprovativos da conclusão dos dois ciclos de formação sejam considerado equivalentes por esse Estado;\n\nb) Se, por falta de vagas em número suficiente nas farmácias abertas ao público ou em hospitais próximos dos estabelecimentos de ensino, um Estado-membro não puder assegurar seis meses de estágio, pode prever, no período de cinco anos após o termo do prazo previsto no artigo 5o que metade, no máximo, do estágio consista no exercício de actividades farmacêuticas numa empresa fabricante de medicamentos;\n\n5) O ciclo de formação referido no ponto 3 inclui um ensino teórico e prático de, pelo menos; as seguintes matérias:\n\n- biologia vegetal e animal,\n\n- física,\n\n- química geral e inorgânica,\n\n- química orgânica,\n\n- química analítica,\n\n- química farmacêutica, incluindo análise dos medicamentos,\n\n- bioquímica geral e aplicada (médica),\n\n- anatomia e fisiologia; terminologia médica,\n\n- microbiologia,\n\n- farmacologia e farmacoterapia,\n\n- tecnologia farmacêutica,\n\n- toxicologia,\n\n- farmacognose,\n\n- legislação, se for caso disso, deontologia.\n\nA repartição entre o ensino teórico e prático deve, para cada matéria, dar suficiente importância à teoria, a fim de conservar o carácter universitario do ensino."
+  },
+  "74fb483cf66df03a": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nTrês anos, o mais tardar, após o termo do prazo previsto no artigo 5o, a Comissão apresentará ao Conselho propostas adequadas relativamente às especializações em farmácia, nomeadamente, farmácia hospitalar. O Conselho examinará, no prazo de um ano, estas propostas."
+  },
+  "e2829c52391b8ff8": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nA presente directiva aplica-se também aos nacionais dos Estados-membros que nos termos do Regulamento (CEE) no 1612/68 do Conselho de 15 de Outubro de 1968, relativo à livre circulação dos trabalhadores no interior da Comunidade (5), exerçam ou venham a exercer, na qualidade de assalariados, uma das actividades referidas no artigo 1o da Directiva 85/433/CEE."
+  },
+  "3f0efdabb9b78aef": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva antes de 1 de Outubro de 1987. Do facto, informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão á Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "3a93bc11da2dc825": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nCaso um Estado-membro enfrente dificuldades de vulto na aplicação da presente directiva a certos domínios, a Comissão examinará essas dificuldades em colaboração com o Estado e solicitará o parecer do Comité Farmacêutico instituído pela Decisão 75/320/CEE (6).\n\nSe for caso disso, a Comissão apresentará ao Conselho propostas adequadas."
+  },
+  "b13ac7241f6d1a68": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo em 16 de Setembro de 1985.\n\nPelo Conselho\n\nO Presidente\n\nM. FISCHBACH\n\n(1) JO no C 35 de 18. 2. 1981, p. 3.(2) JO no C 277 de 17. 10. 1983, p. 160.(3) JO no C 230 de 10. 9. 1981, p. 10.(4) JO no L 253 de 24. 5. 1985, p. 37.(5) JO no L 257 de 19. 10. 1968, p. 2.(6) JO no L 147 de 9. 6. 1975, p. 23."
+  },
+  "8f3bee72522122ef": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1985L0432 — PT — 20.10.2007 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31985L0432) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31985L0432) [de 16 de Setembro de 1985](http://publications.europa.eu/resource/celex/31985L0432) [relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes a certas actividades do sector farmacêutico](http://publications.europa.eu/resource/celex/31985L0432) [(85/432/CEE)](http://publications.europa.eu/resource/celex/31985L0432) (JO L 253, 24.9.1985, p.34)\n\n**revogado por:**\n\n- [Directiva 2005/36/CE do Parlamento Europeu e do Conselho de 7 de Setembro de 2005](http://publications.europa.eu/resource/celex/32005L0036) — L 255 — 22 — 30.9.2005"
+  }
+ }
+}

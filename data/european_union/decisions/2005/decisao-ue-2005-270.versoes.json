@@ -1,0 +1,137 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005D0270:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005D0270-20190426",
+ "dre_path": null,
+ "source_lastmod": "2019-04-26",
+ "versions": [
+  {
+   "date": "2005-04-05",
+   "future": false,
+   "celex": "32005D0270",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "07199fb4519ceb92",
+    "eb4cb3d394c8f5fd",
+    "931b8bce0d7de3e9",
+    "2a90033a0c4a2261",
+    "84830550eee42f34",
+    "c3862c861205a2f1",
+    "ac17fad1206a9b46",
+    "625841ea77e14df0",
+    "127543c967043b64",
+    "dcd3c8426d3fc0f6",
+    "ffc1c3deea0960de",
+    "03c6839f80131ea5",
+    "db7d12baca4623d1"
+   ]
+  }
+ ],
+ "fragments": {
+  "07199fb4519ceb92": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Março de 2005\n\nque estabelece os formulários relativos ao sistema de bases de dados nos termos da Directiva 94/62/CE do Parlamento Europeu e do Conselho relativa a embalagens e resíduos de embalagens\n\n[notificada com o número C(2005) 854]\n\n(Texto relevante para efeitos do EEE)\n\n(2005/270/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 94/62/CE do Parlamento Europeu e do Conselho, de 20 de Dezembro de 1994, relativa a embalagens e resíduos de embalagens [([^1])](http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016.03/DOC_1#ntr1-L_2005086PT.01000601-E0001), nomeadamente o n.º 3 do artigo 12.º,\n\nConsiderando o seguinte:\n\n(1) Os formulários estabelecidos na Decisão 97/138/CE da Comissão [([^2])](http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016.03/DOC_1#ntr2-L_2005086PT.01000601-E0002), para o fornecimento de dados harmonizados no quadro da Directiva 94/62/CE, devem ser revistos e simplificados, tendo em conta a experiência adquirida com a sua aplicação.\n\n(2) Aqueles formulários devem corresponder às metas estabelecidas na Directiva 94/62/CE.\n\n(3) A fim de garantir a comparabilidade dos dados entre os Estados-Membros, é conveniente estabelecer regras pormenorizadas sobre os dados a inserir nos formulários e permitir aos Estados-Membros que forneçam outros dados a título facultativo.\n\n(4) À luz das numerosas alterações que devem, portanto, ser feitas ao conteúdo da Decisão 97/138/CE, essa decisão deve ser substituída por motivos de clareza.\n\n(5) As medidas previstas na presente decisão estão em conformidade com o parecer do comité instituído nos termos do artigo 21.º da Directiva 94/62/CE,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "eb4cb3d394c8f5fd": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente decisão estabelece os formulários para os sistemas de bases de dados relativos a embalagens e resíduos de embalagens previstos no artigo 12.º da Directiva 94/62/CE."
+  },
+  "931b8bce0d7de3e9": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Para além das definições relevantes que figuram no artigo 3.º da Directiva 94/62/CE, são aplicáveis as seguintes definições:\n\na) «Embalagens compósitas» são embalagens feitas de diferentes materiais que não podem ser separados à mão, não excedendo, qualquer deles, uma dada percentagem em peso;\n\nb) «Produção de resíduos de embalagens» é a quantidade de embalagens que se tornam resíduos no território de um Estado-Membro, para efeitos do artigo 1.º da Directiva 75/442/CEE do Conselho [([^3])](http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016.03/DOC_1#ntr3-L_2005086PT.01000601-E0003), depois de terem sido utilizadas para conter, proteger, movimentar, entregar ou apresentar mercadorias;\n\nc) «Resíduos de embalagens valorizados» são a quantidade de resíduos de embalagens produzidos num Estado-Membro que é valorizada, independentemente de os resíduos de embalagens serem valorizados nesse Estado-Membro, noutro Estado-Membro ou fora da Comunidade;\n\nd) «Resíduos de embalagens valorizados ou incinerados em instalações de incineração de resíduos com valorização energética» são a quantidade de resíduos de embalagens produzidos num Estado-Membro que é valorizada ou incinerada em instalações de incineração de resíduos com valorização energética, independentemente de os resíduos de embalagens serem valorizados ou incinerados em instalações de incineração de resíduos com valorização energética nesse Estado-Membro, noutro Estado-Membro ou fora da Comunidade;\n\ne) «Resíduos de embalagens reciclados» são a quantidade de resíduos de embalagens produzidos num Estado-Membro que é reciclada, independentemente de os resíduos de embalagens serem reciclados nesse Estado-Membro, noutro Estado-Membro ou fora da Comunidade;\n\nf) «Taxa de valorização ou incineração em instalações de incineração de resíduos com valorização energética» é, para efeitos do n.º 1 do artigo 6.º da Directiva 94/62/CE, a quantidade total de resíduos de embalagens valorizados ou incinerados em instalações de incineração de resíduos com valorização energética dividida pela quantidade total de resíduos de embalagens produzidos;\n\ng) «Taxa de reciclagem» é, para efeitos do n.º 1 do artigo 6.º da Directiva 94/62/CE, uma taxa equivalente à quantidade total de resíduos de embalagens reciclados dividida pela quantidade total de resíduos de embalagens produzidos.\n\n2. A produção de resíduos de embalagens, na acepção da alínea b) do n.º 1, não inclui qualquer tipo de resíduos decorrentes da produção de embalagens ou de materiais de embalagens ou de qualquer outro processo de produção.\n\nPara efeitos da presente decisão, pode considerar-se que a produção de resíduos de embalagens num Estado-Membro é igual à quantidade de embalagens colocadas no mercado no mesmo ano nesse Estado-Membro."
+  },
+  "2a90033a0c4a2261": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os dados relativos ao total das embalagens devem abranger todas as embalagens, como definido no n.º 1 do artigo 2.º e no n.º 1 do artigo 3.º da Directiva 94/62/CE.\n\nNo que respeita, em especial, aos materiais que surgem em menor quantidade e aos materiais não mencionados na presente decisão, poderão ser utilizadas estimativas. Estas estimativas basear-se-ão nas melhores informações disponíveis e serão apresentadas de acordo com o disposto no artigo 7.º\n\n2. Considera-se que as embalagens reutilizáveis são colocadas no mercado quando são disponibilizadas pela primeira vez juntamente com as mercadorias que devem conter, proteger, movimentar, entregar ou apresentar.\n\nAs embalagens reutilizáveis não devem ser consideradas resíduos de embalagens quando são devolvidas para reutilização. As embalagens reutilizáveis não devem ser consideradas como tendo sido colocadas no mercado depois de terem sido reutilizadas com uma mercadoria e disponibilizadas de novo.\n\nAs embalagens reutilizáveis descartadas no final da sua vida útil serão consideradas resíduos de embalagens.\n\nPara efeitos da presente decisão, pode considerar-se que a produção de resíduos de embalagens num determinado Estado-Membro a partir de embalagens reutilizáveis é igual à quantidade de embalagens reutilizáveis colocadas no mercado nesse Estado Membro no mesmo ano.\n\n3. As informações relativas às embalagens compósitas serão mencionadas pelo seu componente predominante em peso.\n\nPodem ser fornecidos, facultativamente, dados separados sobre a valorização e reciclagem de materiais compósitos.\n\n4. O peso dos resíduos de embalagens valorizadas ou recicladas será o dos resíduos de embalagens que entraram num processo efectivo de valorização ou de reciclagem. Se a produção saída de uma instalação de triagem for enviada para um processo efectivo de reciclagem ou valorização sem perdas significativas, essa produção pode ser considerada como correspondendo ao peso dos resíduos de embalagens valorizados ou reciclados."
+  },
+  "84830550eee42f34": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os resíduos de embalagens exportados para fora da Comunidade só serão contados como resíduos valorizados ou reciclados caso existam provas seguras de que a valorização e/ou a reciclagem ocorreram em condições grosso modo equivalentes às determinadas pela legislação comunitária nesta matéria.\n\n2. Os movimentos transfronteiriços dos resíduos de embalagens devem respeitar o disposto nos Regulamentos (CEE) n.º 259/93 [([^4])](http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016.03/DOC_1#ntr4-L_2005086PT.01000601-E0004) e (CE) n.º 1420/1999 do Conselho [([^5])](http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016.03/DOC_1#ntr5-L_2005086PT.01000601-E0005), e no Regulamento (CE) n.º 1547/1999 da Comissão [([^6])](http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016.03/DOC_1#ntr6-L_2005086PT.01000601-E0006).\n\n3. Os resíduos de embalagens produzidos noutros Estados-Membros ou fora da Comunidade e que sejam enviados para valorização ou reciclagem para um Estado-Membro não serão contados como resíduos valorizados ou reciclados no Estado-Membro para onde foram enviados."
+  },
+  "c3862c861205a2f1": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. O peso dos resíduos de embalagens valorizadas ou recicladas será medido utilizando uma taxa de humidade natural dos resíduos de embalagens semelhante à taxa de humidade das embalagens equivalentes colocadas no mercado.\n\nDevem ser introduzidas correcções nos valores medidos para o peso dos resíduos de embalagens valorizados ou reciclados caso a taxa de humidade dos resíduos de embalagens difira frequente e significativamente da das embalagens colocadas no mercado e essa diferença possa conduzir a uma sobrestimação ou subestimação substancial das taxas de valorização ou reciclagem de embalagens.\n\nEssas correcções devem ser feitas apenas em circunstâncias excepcionais originadas por condições específicas climatéricas ou outras.\n\nA introdução de correcções significativas deve ser assinalada na descrição da compilação dos dados, como previsto no quarto parágrafo do artigo 7.º\n\n2. No cálculo do peso dos resíduos de embalagens valorizadas ou recicladas, devem, tanto quanto seja possível na prática, ser excluídos materiais não presentes nas embalagens recolhidos juntamente com os resíduos de embalagens.\n\nDevem ser introduzidas correcções nos valores do peso dos resíduos de embalagens valorizados ou reciclados, caso os materiais não presentes nas embalagens mas presentes nos resíduos enviados para um processo efectivo de valorização ou reciclagem possam conduzir a uma sobrestimação ou subestimação substancial das taxas de valorização ou reciclagem de embalagens.\n\nNão são necessárias correcções para pequenas quantidades de materiais que não são de embalagens e para aquelas contaminações frequentemente associadas aos resíduos de embalagens.\n\nA introdução de correcções significativas deve ser assinalada na descrição da compilação de dados, como previsto no quarto parágrafo do artigo 7.º"
+  },
+  "ac17fad1206a9b46": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs artigos 3.°, 4.° e 5.° são aplicáveis, *mutatis mutandis*, aos resíduos de embalagens incinerados nas instalações de incineração de resíduos que permitem valorização energética."
+  },
+  "625841ea77e14df0": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-Membros devem fornecer anualmente quadros de dados utilizando os formulários apresentados no anexo e enviá-los à Comissão por via electrónica.\n\nOs quadros devem abranger todo o ano civil e ser fornecidos à Comissão, sem prejuízo do disposto no Regulamento (CE) n.º 2150/2002 do Parlamento Europeu e do Conselho [([^7])](http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016.03/DOC_1#ntr7-L_2005086PT.01000601-E0007), no prazo de 18 meses após o final do ano em causa.\n\nA Comissão disponibilizará estes dados num sítio web acessível ao público.\n\nA par dos quadros preenchidos, os Estados-Membros devem enviar uma descrição adequada do modo como os dados foram compilados. Essa descrição deve igualmente conter uma explicação de eventuais estimativas utilizadas."
+  },
+  "127543c967043b64": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPara além dos quadros preenchidos, os Estados-Membros poderão fornecer, facultativamente, dados suplementares relativos a embalagens e resíduos de embalagens, na medida em que estejam disponíveis.\n\nNestes dados poderão incluir-se:\n\na) Dados relativos à produção, exportação e importação de embalagens vazias;\n\nb) Dados relativos a embalagens reutilizáveis;\n\nc) Dados relativos a subfracções especificas de embalagens, como embalagens compósitas;\n\nd) Níveis de concentração de metais pesados presentes nas embalagens, na acepção do artigo 11.º da Directiva 94/62/CE, e presença de substâncias nocivas e outras substâncias e matérias perigosas, na acepção do terceiro travessão do ponto 1 do anexo II dessa directiva;\n\ne) Resíduos de embalagens considerados perigosos devido a contaminação com origem no conteúdo do produto na acepção da Directiva 91/689/CEE do Conselho [([^8])](http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016.03/DOC_1#ntr8-L_2005086PT.01000601-E0008) e da Decisão 2000/532/CE da Comissão [([^9])](http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016.03/DOC_1#ntr9-L_2005086PT.01000601-E0009)."
+  },
+  "dcd3c8426d3fc0f6": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-Membros fornecerão os dados utilizando os formulários apresentados no anexo da presente decisão, começando com os dados relativos a 2003."
+  },
+  "ffc1c3deea0960de": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA Decisão 97/138/CE é revogada."
+  },
+  "03c6839f80131ea5": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 22 de Março de 2005.\n\n***Pela Comissão***\n\n**Stavros DIMAS**\n\n***Membro da Comissão***\n\n---"
+  },
+  "db7d12baca4623d1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016.03/DOC_1#ntc1-L_2005086PT.01000601-E0001) [JO L 365 de 31.12.1994, p. 10](http://publications.europa.eu/resource/oj/JOL_1994_365_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2004/12/CE ([JO L 47 de 18.2.2004, p. 26](http://publications.europa.eu/resource/oj/JOL_2004_047_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016.03/DOC_1#ntc2-L_2005086PT.01000601-E0002) [JO L 52 de 22.2.1997, p. 22](http://publications.europa.eu/resource/oj/JOL_1997_052_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016.03/DOC_1#ntc3-L_2005086PT.01000601-E0003) [JO L 194 de 25.7.1975, p. 39](http://publications.europa.eu/resource/oj/JOL_1975_194_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016.03/DOC_1#ntc4-L_2005086PT.01000601-E0004) [JO L 30 de 6.2.1993, p. 1](http://publications.europa.eu/resource/oj/JOL_1993_030_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016.03/DOC_1#ntc5-L_2005086PT.01000601-E0005) [JO L 166 de 1.7.1999, p. 6](http://publications.europa.eu/resource/oj/JOL_1999_166_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016.03/DOC_1#ntc6-L_2005086PT.01000601-E0006) [JO L 185 de 17.7.1999, p. 1](http://publications.europa.eu/resource/oj/JOL_1999_185_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016.03/DOC_1#ntc7-L_2005086PT.01000601-E0007) [JO L 332 de 9.12.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_332_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016.03/DOC_1#ntc8-L_2005086PT.01000601-E0008) [JO L 377 de 31.12.1991, p. 20](http://publications.europa.eu/resource/oj/JOL_1991_377_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016.03/DOC_1#ntc9-L_2005086PT.01000601-E0009) [JO L 226 de 6.9.2000, p. 3](http://publications.europa.eu/resource/oj/JOL_2000_226_R_TOC)."
+  }
+ }
+}

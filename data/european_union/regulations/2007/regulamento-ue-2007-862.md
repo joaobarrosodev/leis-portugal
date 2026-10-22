@@ -36,6 +36,69 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-07-01'
+version_history:
+  file: regulamento-ue-2007-862.versoes.json
+  count: 5
+  source_lastmod: '2021-07-01'
+  versions:
+  - date: '2007-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-08-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Estatísticas sobre migração internacional, população habitualmente residente e aquisição de nacionalidade
+    - Altera Artigo 4.º — Estatísticas sobre protecção internacional
+    - Altera Artigo 6.º — Estatísticas sobre autorizações de residência e permanência de nacionais de países terceiros
+    - Altera Artigo 7.º — Estatísticas sobre afastamentos
+    - Altera Artigo 8.º — Desagregações suplementares
+    - Altera Artigo 14.º — Entrada em vigor
+    - Altera Notas
+  - date: '2020-07-12'
+    amending: eu:celex:32020R0851:por
+    amending_title: REGULAMENTO (UE) 2020/851 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de junho de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Estatísticas sobre protecção internacional
+    - Altera Artigo 5.º — Estatísticas sobre a prevenção de entrada e permanência ilegais
+    - Altera Artigo 9.º — Fontes e normas de qualidade
+    - Altera Notas
+    - Adita Artigo 9.º-A — Estudos-piloto
+    - Adita Artigo 9.º-B — Financiamento
+    - Adita Artigo 10. — Atos de execução para especificar as desagregações
+    - Adita Artigo 11. — Procedimento de comité
+    - Adita Artigo 11.º-A — Derrogações
+    - Suprime Artigo 8.º — Desagregações suplementares
+    - Suprime Artigo 10.º — Medidas de implementação
+    - Suprime Artigo 11.º — Comité
+  - date: '2021-03-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Estatísticas sobre protecção internacional
+    - Altera Artigo 7.º — Estatísticas sobre afastamentos
+    - Altera Artigo 9.º — Fontes e normas de qualidade
+    - Altera Artigo 9.º-B — Financiamento
+    - Altera Artigo 11. — Procedimento de comité
+    - Altera Notas
+  - date: '2021-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Estatísticas sobre protecção internacional
+    - Altera Artigo 6.º — Estatísticas sobre autorizações de residência e permanência de nacionais de países terceiros
+    - Altera Artigo 9.º — Fontes e normas de qualidade
+    - Altera Artigo 9.º-B — Financiamento
+    - Altera Artigo 11. — Procedimento de comité
+    - Altera Notas
 identifiers:
   celex: 32007R0862
   eli: http://data.europa.eu/eli/reg/2007/862/oj
@@ -50,7 +113,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cbb653bc-d54d-410c-9757-5f2408eb5a38.0019
   content_url: http://publications.europa.eu/resource/cellar/e39cc558-d8e3-11eb-895a-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0862-20210701
-  retrieved_at: '2026-10-22T02:47:54Z'
+  retrieved_at: '2026-10-22T15:09:17Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T13:35:18.133+01:00'
 integrity:
@@ -59,9 +122,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:54Z'
-  notes: Texto consolidado 02007R0862-20210701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:09:17Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2007-862.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -171,33 +234,19 @@ relationships:
   date: '1976-02-14'
 article_structure:
   article_count: 16
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:54Z'
+  checked_at: '2026-10-22T15:09:17Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 862/2007 do Parlamento Europeu e do Conselho, de 11 de Julho de 2007
-
-> 02007R0862 — PT — 01.07.2021 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R0851) — [REGULAMENTO (UE) 2020/851 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0851) — L 198 — 1 — 22.6.2020
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32007R0862R%2801%29) — [Rectificação, JO L 224, 22.8.2013, p. 18 (862/2007)](http://publications.europa.eu/resource/celex/32007R0862R%2801%29)
-
-## REGULAMENTO (CE) n.º 862/2007 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de Julho de 2007
 

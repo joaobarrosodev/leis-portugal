@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-06-07'
+version_history:
+  file: diretiva-ue-2008-56.versoes.json
+  count: 1
+  source_lastmod: '2017-06-07'
+  versions:
+  - date: '2017-06-07'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32008L0056
   eli: http://data.europa.eu/eli/dir/2008/56/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6a6b2a43-24c4-47b6-a602-40ca8c461a82.0018
   content_url: http://publications.europa.eu/resource/cellar/33d35be0-d953-4509-9473-9b0ee7c0d8c0.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0056-20170607
-  retrieved_at: '2026-10-22T02:35:48Z'
+  retrieved_at: '2026-10-22T15:12:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T09:09:23.622+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:48Z'
-  notes: Texto consolidado 02008L0056-20170607.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:12:47Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2008-56.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -309,29 +318,20 @@ relationships:
   source: null
 article_structure:
   article_count: 28
-  section_count: 32
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 33
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:48Z'
-  warnings: []
+  checked_at: '2026-10-22T15:12:47Z'
+  warnings:
+  - '02008L0056-20080625: versão indisponível (Sem expressão na língua por para CELEX 02008L0056-20080625.)'
   errors: []
 ---
 
 # Directiva 2008/56/CE do Parlamento Europeu e do Conselho, de 17 de Junho de 2008
-
-> 02008L0056 — PT — 07.06.2017 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017L0845) — [DIRETIVA (UE) 2017/845 DA COMISSÃO Texto relevante para efeitos do EEE de 17 de maio de 2017](http://publications.europa.eu/resource/celex/32017L0845) — L 125 — 27 — 18.5.2017
-
-## DIRECTIVA 2008/56/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de Junho de 2008
 

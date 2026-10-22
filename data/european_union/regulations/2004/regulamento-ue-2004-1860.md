@@ -34,6 +34,49 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-01-01'
+version_history:
+  file: regulamento-ue-2004-1860.versoes.json
+  count: 4
+  source_lastmod: '2008-01-01'
+  versions:
+  - date: '2004-10-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1998:por
+    amending_title: REGULAMENTO (CE) N. o 1998/2006 DA COMISSÃO de 15 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Entrada em vigor e aplicabilidade
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+  - date: '2007-08-01'
+    amending: eu:celex:32007R0875:por
+    amending_title: REGULAMENTO (CE) N. o 875/2007 DA COMISSÃO de 24 de Julho de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Auxílios de minimis
+    - Altera Artigo 4.º — Cumulação e controlo
+    - Altera Notas
+    - Suprime ANEXO II
+  - date: '2008-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Auxílios de minimis
+    - Suprime Artigo 4.º — Cumulação e controlo
+    - Suprime Artigo 5.º — Disposições transitórias
+    - Suprime Artigo 6.º — Entrada em vigor e aplicabilidade
+    - Suprime ANEXO I
+    - Suprime Notas
 identifiers:
   celex: 32004R1860
   eli: http://data.europa.eu/eli/reg/2004/1860/oj
@@ -48,7 +91,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cd12912b-d70b-4558-a522-90902e8bc002.0016
   content_url: http://publications.europa.eu/resource/cellar/cf7e7bdb-50bb-467a-b8a1-6de53057ce10.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R1860-20080101
-  retrieved_at: '2026-10-22T02:45:12Z'
+  retrieved_at: '2026-10-22T14:58:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-06-03T21:42:17.922+02:00'
 integrity:
@@ -57,9 +100,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:12Z'
-  notes: Texto consolidado 02004R1860-20080101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:58:59Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2004-1860.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -144,16 +187,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:12Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:58:59Z'
+  warnings: []
   errors: []
 ---
 

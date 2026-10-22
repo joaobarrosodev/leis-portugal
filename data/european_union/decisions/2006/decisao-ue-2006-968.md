@@ -36,6 +36,64 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-04-21'
+version_history:
+  file: decisao-ue-2006-968.versoes.json
+  count: 4
+  source_lastmod: '2021-04-21'
+  versions:
+  - date: '2007-06-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-06-01'
+    amending: eu:celex:32008D0337:por
+    amending_title: DECISÃO DA COMISSÃO de 24 de Abril de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Orientações e procedimentos para a aprovação dos identificadores e leitores para a identificação electrónica de
+      ovinos e caprinos, nos termos do Regulamento (CE) n.º 21/2004
+    - Adita CAPÍTULO I
+    - Adita Definições
+    - Adita CAPÍTULO II
+    - Adita Identificadores
+    - Adita CAPÍTULO III
+    - Adita Leitores
+    - Adita CAPÍTULO IV
+    - Adita Laboratórios de ensaios
+  - date: '2010-07-01'
+    amending: eu:celex:32010D0280:por
+    amending_title: DECISÃO DA COMISSÃO de 12 de Maio de 2010
+    changes:
+    - Altera preambulo
+    - Altera Definições
+    - Altera Identificadores
+    - Altera Leitores
+    - Altera Notas
+    - Adita Laboratórios e procedimentos de ensaio
+    - Suprime Laboratórios de ensaios
+  - date: '2021-04-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime ANEXO
+    - Suprime Orientações e procedimentos para a aprovação dos identificadores e leitores para a identificação electrónica
+      de ovinos e caprinos, nos termos do Regulamento (CE) n.º 21/2004
+    - Suprime CAPÍTULO I
+    - Suprime Definições
+    - Suprime CAPÍTULO II
+    - Suprime Identificadores
+    - Suprime CAPÍTULO III
+    - Suprime Leitores
+    - Suprime CAPÍTULO IV
+    - Suprime Laboratórios e procedimentos de ensaio
+    - Suprime Notas
 identifiers:
   celex: 32006D0968
   eli: http://data.europa.eu/eli/dec/2006/968/oj
@@ -50,7 +108,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c5d3bc5a-1802-4215-957e-00d897847c0d.0016
   content_url: http://publications.europa.eu/resource/cellar/364704bb-b333-11eb-8aca-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006D0968-20210421
-  retrieved_at: '2026-10-22T03:12:28Z'
+  retrieved_at: '2026-10-22T15:01:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-19T13:42:35.288+01:00'
 integrity:
@@ -59,9 +117,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:28Z'
-  notes: Texto consolidado 02006D0968-20210421.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:01:22Z'
+  notes: 4 versão(ões); histórico completo em decisao-ue-2006-968.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -105,16 +163,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:28Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:01:22Z'
+  warnings: []
   errors: []
 ---
 

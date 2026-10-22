@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31988L0301:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01988L0301-20080711",
+ "dre_path": null,
+ "source_lastmod": "2008-07-11",
+ "versions": [
+  {
+   "date": "2008-07-11",
+   "future": false,
+   "celex": "01988L0301-20080711",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a17d6746051a69c0"
+   ]
+  }
+ ],
+ "fragments": {
+  "a17d6746051a69c0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1988L0301 — PT — 11.07.2008 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31988L0301) [DIRECTIVA DA COMISSÃO](http://publications.europa.eu/resource/celex/31988L0301) [de 16 de Maio de 1988](http://publications.europa.eu/resource/celex/31988L0301) [relativa à concorrência nos mercados de terminais de telecomunicações](http://publications.europa.eu/resource/celex/31988L0301) [(88/301/CEE)](http://publications.europa.eu/resource/celex/31988L0301) (JO L 131, 27.5.1988, p.73)\n\n**revogado por:**\n\n- [Directiva 2008/63/CE da Comissão de 20 de Junho de 2008](http://publications.europa.eu/resource/celex/32008L0063) — L 162 — 20 — 21.6.2008"
+  }
+ }
+}

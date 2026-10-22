@@ -34,6 +34,37 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-12-22'
+version_history:
+  file: diretiva-ue-1984-491.versoes.json
+  count: 3
+  source_lastmod: '2012-12-22'
+  versions:
+  - date: '1984-10-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-13'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime ANEXO I — VALORES-LIMITE, PRAZOS FIXADOS PARA A ENTRADA EM VIGOR DESSES VALORES E PROCEDIMENTO DE FISCALIZAÇÃO
+      E DE CONTROLO A APLICAR àS DESCARGAS
+    - Suprime ANEXO II — OBJECTIVOS DE QUALIDADE
+    - Suprime ANEXO III — MÉTODOS DE MEDIDA
+    - Suprime ANEXO IV — PROCEDIMENTO DE CONTROLO PARA OS OBJECTIVOS DE QUALIDADE
+  - date: '2012-12-22'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
 identifiers:
   celex: 31984L0491
   eli: http://data.europa.eu/eli/dir/1984/491/oj
@@ -48,7 +79,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ee8040a9-af5c-4462-b4cd-9f988f786301.0011
   content_url: http://publications.europa.eu/resource/cellar/8fbaa4dd-fc14-47a6-a6d5-55579637e6fe.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01984L0491-20121222
-  retrieved_at: '2026-10-22T02:41:02Z'
+  retrieved_at: '2026-10-22T14:34:12Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T13:19:28.729+01:00'
 integrity:
@@ -57,9 +88,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:02Z'
-  notes: Texto consolidado 01984L0491-20121222.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:12Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1984-491.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -144,16 +175,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:02Z'
+  checked_at: '2026-10-22T14:34:12Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01984L0491-19911223: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

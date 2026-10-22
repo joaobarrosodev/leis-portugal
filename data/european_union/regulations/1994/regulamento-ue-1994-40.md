@@ -33,6 +33,151 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-04-13'
+version_history:
+  file: regulamento-ue-1994-40.versoes.json
+  count: 6
+  source_lastmod: '2009-04-13'
+  versions:
+  - date: '1994-01-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-12-27'
+    amending: eu:celex:31994R3288:por
+    amending_title: REGULAMENTO (CE) N o 3288/94 DO CONSELHO de 22 de Dezembro de 1994; REGULAMENTO (CE) N. o 807/2003 DO
+      CONSELHO de 14 de Abril de 2003; REGULAMENTO (CE) N. o 1653/2003 DO CONSELHO de 18 de Junho de 2003; REGULAMENTO (CE)
+      N. o 1992/2003 DO CONSELHO de 27 de Outubro de 2003; REGULAMENTO (CE) N. o 422/2004 DO CONSELHO de 19 de Fevereiro de
+      2004; Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República
+      da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República
+      da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7º — Motivos absolutos de recusa
+    - Altera Artigo 8º — Motivos relativos de recusa
+    - Altera Artigo 25º — Depósito do pedido
+    - Altera Artigo 26º — Condições a preencher pelo pedido
+    - Altera Artigo 29º — Direito de prioridade
+    - Altera Artigo 35º — Reivindicação da antiguidade após registo da marca comunitária
+    - Altera Artigo 36º — Exame das condições de depósito
+    - Altera Artigo 50º — Causas de extinção
+    - Altera Artigo 51º — Causas de nulidade absoluta
+    - Altera Artigo 52º — Causas de nulidade relativa
+    - Altera Artigo 56º — Exame do pedido
+    - Altera Artigo 78º — Restitutio in integrum
+    - Altera Artigo 81º — Repartição das custas
+    - Altera Artigo 88º — Princípios gerais de representação
+    - Altera Artigo 89º — Representação profissional
+    - Altera Artigo 96º — Pedido reconvencional
+    - Altera Artigo 108º — Requerimento destinado a encetar o processo nacional
+    - Altera Artigo 109º — Apresentação, publicação e transmissão do requerimento de transformação
+    - Altera Artigo 110º — Condições de forma da transformação
+    - Altera Artigo 118º — Controlo da legalidade
+    - Altera Artigo 127º — Divisões de oposição
+    - Altera Artigo 129º — Divisões de anulação
+    - Altera Artigo 130º — Câmaras de Recurso
+    - Altera Artigo 134º — Orçamento
+    - Altera Artigo 139º — Regulamento relativo às taxas
+    - Adita TÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita Artigo 1º — Marca comunitária
+    - Adita TÍTULO II
+    - Adita DIREITO DE MARCAS
+    - Adita SECÇÃO I
+    - Adita DEFINIÇÃO E AQUISIÇÃO DA MARCA COMUNITÁRIA
+    - Adita Artigo 5.º — Titulares de marcas comunitárias
+    - Adita SECÇÃO II
+    - Adita EFEITOS DA MARCA COMUNITÁRIA
+    - Adita SECÇÃO III
+    - Adita UTILIZAÇÃO DA MARCA COMUNITÁRIA
+    - Adita SECÇÃO IV
+    - Adita DA MARCA COMUNITÁRIA COMO OBJECTO DE PROPRIEDADE
+  - date: '2005-07-25'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 21.º — Processos de insolvência
+    - Altera Artigo 118.ºA — Acesso aos documentos
+    - Altera Artigo[►M4](http://publications.europa.eu/resource/celex/32003R1992) 158.º ◄ — Comité e procedimento de adopção
+      dos regulamentos de execução
+    - Altera Artigo [►M4](http://publications.europa.eu/resource/celex/32003R1992) 159.º ◄ — Compatibilidade com outras disposições
+      do direito comunitário
+    - Altera Notas
+    - Adita Artigo 39º — Investigação
+    - Suprime Artigo 39.º — Investigação
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1891(01):por
+    amending_title: REGULAMENTO (CE) n. o 1891/2006 DO CONSELHO de 18 de Dezembro de 2006; ►A2
+    changes:
+    - Altera preambulo
+    - Altera Artigo 21.º — Processos de insolvência
+    - Altera Artigo 118.ºA — Acesso aos documentos
+    - Altera Artigo 134º — Orçamento
+    - Altera Artigo[►M4](http://publications.europa.eu/resource/celex/32003R1992) 158.º ◄ — Comité e procedimento de adopção
+      dos regulamentos de execução
+    - Altera Artigo [►M4](http://publications.europa.eu/resource/celex/32003R1992) 159.º ◄ — Compatibilidade com outras disposições
+      do direito comunitário
+    - Altera Artigo [►M5](http://publications.europa.eu/resource/celex/32004R0422) 159.ºA◄ — Disposições relativas ao alargamento
+      da Comunidade
+    - Altera Notas
+  - date: '2008-03-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 21.º — Processos de insolvência
+    - Altera Artigo 118.ºA — Acesso aos documentos
+    - Altera Artigo[►M4](http://publications.europa.eu/resource/celex/32003R1992) 158.º ◄ — Comité e procedimento de adopção
+      dos regulamentos de execução
+    - Altera Artigo [►M4](http://publications.europa.eu/resource/celex/32003R1992) 159.º ◄ — Compatibilidade com outras disposições
+      do direito comunitário
+    - Altera Notas
+    - Adita Artigo 39.º — Investigação
+    - Suprime Artigo 39º — Investigação
+  - date: '2009-04-13'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1º — Marca comunitária
+    - Suprime Artigo 2º — O instituto
+    - Suprime Artigo 3º — Capacidade jurídica
+    - Suprime TÍTULO II
+    - Suprime DIREITO DE MARCAS
+    - Suprime SECÇÃO I
+    - Suprime DEFINIÇÃO E AQUISIÇÃO DA MARCA COMUNITÁRIA
+    - Suprime Artigo 4º — Sinais susceptíveis de constituir uma marca comuitária
+    - Suprime Artigo 5.º — Titulares de marcas comunitárias
+    - Suprime Artigo 6º — Modo de aquisição da marca comunitária
+    - Suprime Artigo 7º — Motivos absolutos de recusa
+    - Suprime Artigo 8º — Motivos relativos de recusa
+    - Suprime SECÇÃO II
+    - Suprime EFEITOS DA MARCA COMUNITÁRIA
+    - Suprime Artigo 9º — Direito conferido pela marca comunitária
+    - Suprime Artigo 10º — Reprodução da marca comunitária em dicionários
+    - Suprime Artigo 11º — Proibição de utilização de uma marca comunitária registada em nome de um agente ou representante
+    - Suprime Artigo 12º — Limitação dos efeitos da marca comunitária
+    - Suprime Artigo 13º — Esgotamento do direito conferido pela marca comunitária
+    - Suprime Artigo 14º — Aplicação complementar do direito nacional em matéria de contrafacção
+    - Suprime SECÇÃO III
+    - Suprime UTILIZAÇÃO DA MARCA COMUNITÁRIA
+    - Suprime Artigo 15º — Utilização da marca comunitária
+    - Suprime SECÇÃO IV
+    - Suprime DA MARCA COMUNITÁRIA COMO OBJECTO DE PROPRIEDADE
+    - Suprime Artigo 16º — Equiparação da marca comunitária à marca nacional
+    - Suprime Artigo 17º — Transmissão
+    - Suprime Artigo 18º — Transmissão de uma marca registada em nome de um agente
+    - Suprime Artigo 19º — Direitos reais
+    - Suprime Artigo 20º — Execução forçada
+    - Suprime Artigo 21.º — Processos de insolvência
+    - Suprime Artigo 22º — Licença
+    - Suprime Artigo 23º — Oponibilidade a terceiros
+    - Suprime Artigo 24º — O pedido de marca comunitária como objecto de propriedade
+    - Suprime TÍTULO III
+    - Suprime PEDIDO DE MARCA COMUNITÁRIA
+    - Suprime DEPÓSITO DO PEDIDO E CONDIÇÕES A PREENCHER
 identifiers:
   celex: 31994R0040
   eli: http://data.europa.eu/eli/reg/1994/40/oj
@@ -47,7 +192,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a0c9521f-ef0b-42bd-9d6f-01e0ba685704.0011
   content_url: http://publications.europa.eu/resource/cellar/51f3c8ae-88ec-4855-999a-b21a0a499ad5.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994R0040-20090413
-  retrieved_at: '2026-10-22T02:41:10Z'
+  retrieved_at: '2026-10-22T14:43:30Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T17:40:09.455+01:00'
 integrity:
@@ -56,9 +201,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:10Z'
-  notes: Texto consolidado 01994R0040-20090413.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:43:30Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-1994-40.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -309,16 +454,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:10Z'
+  checked_at: '2026-10-22T14:43:30Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01994R0040-19960101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01994R0040-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01994R0040-20031001: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

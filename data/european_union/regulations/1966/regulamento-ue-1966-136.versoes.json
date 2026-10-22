@@ -1,0 +1,519 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31966R0136:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01966R0136-20051101",
+ "dre_path": null,
+ "source_lastmod": "2005-11-01",
+ "versions": [
+  {
+   "date": "1966-09-30",
+   "future": false,
+   "celex": "31966R0136",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4b8260d5c677bb3a",
+    "f95fd3c598160ebc",
+    "47fe6d47f2180be8",
+    "e789dae54b61eed5",
+    "340785757f0971fa",
+    "1253f783a830adb7",
+    "0963fb8d889a10d4",
+    "8559fba7f9932407",
+    "ace7c4232e83529e",
+    "9fdb30da2e80b09d",
+    "5a116a670a38844c",
+    "48fb2ddecadba8ca",
+    "6e58c28a7c227df9",
+    "650b0b26d126510a",
+    "f20699e2c0488eb2",
+    "1c0720d0ff140723",
+    "4991135e81234812",
+    "b0ed7b83cae47708",
+    "1396f998ccfbc361",
+    "1d94d9d8c52844d4",
+    "f568fa9e9038d525",
+    "3da6bf0cf08a97c0",
+    "95ee660536877e21",
+    "1dbdeab2cc125c45",
+    "e173ed72cd025d5e",
+    "289d9ddba40336fc",
+    "59b3e9a7e4a55110",
+    "f2dcb3eb674a2ccd",
+    "ef96f6f259d73a38",
+    "d4853d28b81aba6c",
+    "5fe6dc63f3c7b436",
+    "0ffc388cf9359311",
+    "531f86af4ddf67fe",
+    "53e6814e3fdb0090",
+    "d91c0700ce381124",
+    "ce73210d98537a55",
+    "f4910765b6be48cc",
+    "07e037057ac0b1a2",
+    "4c716f9b2beafad7",
+    "47a2f1760d8ed86a",
+    "cadee56177e23ee7",
+    "8bc55fc144128833",
+    "c7a86b06669e87bb",
+    "df8ee3086d1e5e86",
+    "b20aa005ed11cd8a",
+    "381d586e778854a5",
+    "1cadc28a197ce2db",
+    "5e5f68b6daf1bb32"
+   ]
+  },
+  {
+   "date": "2005-11-01",
+   "future": false,
+   "celex": "01966R0136-20051101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1°.",
+    "Suprime TÍTULO I — Regime de trocas comerciais",
+    "Suprime Artigo 2°.",
+    "Suprime Artigo 3°.",
+    "Suprime TÍTULO II — Azeite",
+    "Suprime Artigo 4°.",
+    "Suprime Artigo 5°.",
+    "Suprime Artigo 6°.",
+    "Suprime Artigo 7°.",
+    "Suprime Artigo 8°.",
+    "Suprime Artigo 9°.",
+    "Suprime Artigo 10°.",
+    "Suprime Artigo 11°.",
+    "Suprime Artigo 12°.",
+    "Suprime Artigo 13°.",
+    "Suprime Artigo 14°.",
+    "Suprime Artigo 15°.",
+    "Suprime Artigo 16°.",
+    "Suprime Artigo 17°.",
+    "Suprime Artigo 18°.",
+    "Suprime Artigo 19°.",
+    "Suprime Artigo 20°.",
+    "Suprime Artigo 21°.",
+    "Suprime Artigo 22°.",
+    "Suprime Artigo 23°.",
+    "Suprime Artigo 24°.",
+    "Suprime Artigo 25°.",
+    "Suprime Artigo 26°.",
+    "Suprime Artigo 27°.",
+    "Suprime Artigo 28°.",
+    "Suprime Artigo 29°.",
+    "Suprime Artigo 30°.",
+    "Suprime Artigo 31°.",
+    "Suprime Artigo 32°.",
+    "Suprime TÍTULO II — Disposições Gerais",
+    "Suprime Artigo 33°.",
+    "Suprime Artigo 34°.",
+    "Suprime Artigo 35°.",
+    "Suprime Artigo 36°.",
+    "Suprime Artigo 37°.",
+    "Suprime Artigo 38°.",
+    "Suprime Artigo 39°.",
+    "Suprime Artigo 40°.",
+    "Suprime Artigo 41°.",
+    "Suprime Artigo 42°.",
+    "Suprime Artigo 43°.",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "e71336608ce44408"
+   ]
+  }
+ ],
+ "fragments": {
+  "4b8260d5c677bb3a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento nº 136/66/CEE do Conselho, de 22 de Setembro de 1966, que estabelece uma organização comum de mercado no sector das matérias gordas** *Jornal Oficial nº 172 de 30/09/1966 p. 3025 - 3035 Edição especial finlandesa: Capítulo 3 Fascículo 1 p. 0167 Edição especial dinamarquesa: Série I Capítulo 1965-1966 p. 0193 Edição especial sueca: Capítulo 3 Fascículo 1 p. 0167 Edição especial inglesa: Série I Capítulo 1965-1966 p. 0221 Edição especial grega: Capítulo 03 Fascículo 2 p. 0033 Edição especial espanhola: Capítulo 03 Fascículo 1 p. 0214 Edição especial portuguesa: Capítulo 03 Fascículo 1 p. 0214*\n\nREGULAMENTO N°. 136/66/CEE DO CONSELHO de 22 de Setembro de 1966 que estabelece uma organização comum de mercado no sector das matérias gordas\n\nO CONSELHO DA COMUNIDADE ECONÓMICA EUROPEIA\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, e nomeadamente os seus artigos 42°. e 43°.,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\n(1) JO n°. 119 de 3.7.1965, p. 2040/65.\n\nConsiderando que a situação na Comunidade dos mercados das matérias gordas de origem vegetal ou marinha é caracterizada pela importância das necessidades e debilidade da produção global; que, em consequência, os Estados-membros são fortemente dependentes do mercado mundial para o seu aprovisionamento neste domínio; que esta situação comum justifica, de uma maneira geral, a eliminação dos diferentes obstáculos à importação e a sua substituição, excepto para certos produtos da oleicultura, pela pauta aduaneira comum, que graças ao seu direito nulo sobre as matérias primas, favorece um aprovisionamento fácil das indústrias e, pelos direitos sobre os produtos finais, oferece por um lado, uma protecção à indústrias em causa e, por outro lado, proporciona aos consumidores um aprovisionamento a preços razoáveis;\n\nConsiderando todavia que a eliminação dos obstáculos à importação deixa o mercado comunitário das sementes e frutos oleaginosos e dos seus óleos sem defesa contra as perturbações resultantes, quer de certas importações em proveniência de países terceiros, quer das disparidades provocadas por países terceiros entre os preços dos produtos provenientes das sementes e frutos de oleaginosas e os preços destas sementes e frutos; que estas perturbações são gravemente prejudiciais aos interesses dos produtores e das indústrias transformadoras e que, em consequência disso, é necessário prever, respeitando os compromissos internacionais, medidas adequadas para remediar essa situação;\n\nConsiderando que a eliminação dos obstáculos às importações, se os seus efeitos não forem compensados pelos de outras medidas, comprometeria certas produções agrícolas ou industriais da Comunidade, dada a situação do mercado mundial; que, com efeito, poderia verificar-se uma diminuição do consumo de azeite se o preço dos óleos concorrentes viesse a baixar de maneira considerável; que, por outro lado, outros produtos oleaginosos estão submetidos à concorrência directa dos mesmos produtos importados de países terceiros com direitos reduzidos ou nulos;\n\nConsiderando que a cultura da oliveira e a produção de azeite têm uma importância particular na economia de certas regiões da Comunidade, onde constituem muitas vezes um recurso essencial para uma parte considerável da população; que, para grande número de consumidores, o azeite constitui a fonte mais importante de materias gordas; que a cultura das sementes de oleaginosas, nomeadamente a da colza, da nabita e do girassol, contribui para a rentabilidade das explorações, permitindo-lhes melhorar o seu equilíbrio técnico e financeiro; que é, por conseguinte, necessário apoiar estas produções por meio de medidas apropriadas;\n\nConsiderando que, para este efeito, o escoamento no mercado das suas colheitas deve assegurar aos produtores da Comunidade uma remuneração equitativa cujo nível pode ser definido, para o azeite, por um preço indicativo à produção e, para as sementes de oleaginosas, por um preço indicativo; que a diferença entre estes preços e aqueles que são admissíveis para o consumidor representa a ajuda que convém conceder para atingir o fim pretendido;\n\nConsiderando que os consumidores de azeite geralmente lhe dão preferência sobre os outros géneros de utilização análoga, o que permite a sua venda a um preço superior ao destes géneros; que é, por conseguinte, possível adoptar, tendo em conta o preço dos produtos concorrentes, um preço indicativo de mercado a um nível tal que forneça, em princípio, ao produtor através das receitas do mercado uma parte importante da retribuição necessária;\n\nConsiderando que o preço indicativo de mercado do azeite só pode atingir o seu fim se o preço efectivamente praticado no mercado for tão próximo quanto possível do preço indicativo de mercado; que convém portanto prever mecanismos estabilizadores, tanto nos Estados-membros produtores como na fronteira da Comunidade;\n\nConsiderando que a estabilidade procurada pode ser obtida no interior da Comunidade criando nas zonas produtoras a possibilidade de oferecer azeite aos organismos competentes dos Estados-membros; que devido à concentração geográfica da produção e do consumo o preço de intervenção que estes devem pagar, em contrapartida, pode ser o mesmo em todos os centros de intervenção; que, além disso, tendo em vista assegurar um equilíbrio constante da oferta e da procura e tendo em consideração a necessidade de aligeirar as consequências das irregularidades da produção, convém prever a possibilidade de destinar aos organismos de intervenção a tarefa de constituir uma reserva reguladora;\n\nConsiderando que para estabilizar o mercado da comunidade ao nível desejado, nomeadamente evitando que as flutuações do mercado mundial se repercutam nos preços praticados no interior da Comunidade, convém prever a cobrança de um direito nivelador à importação cujo montante corresponda à diferença entre o preço limiar, derivado do preço indicativo de mercado, e os preços praticados no mercado mundial; que, tendo em vista assegurar uma protecção completa e coerente, os bagaços de azeitona, os resíduos provenientes do tratamento de azeite e as azeitonas destinadas ao fabrico de azeite, devem ser submetidas a um regime que produza os mesmos efeitos;\n\nConsiderando que a suspensão do direito nivelador ou a concessão de uma restituição em favor do azeite utilizado para o fabrico de conservas de peixe e de produtos hortícolas, é necessária de modo a permitir aos interessados enfrentar a concorrência dos produtos semelhantes fabricados utilizando óleos comprados ao preço do mercado mundial;\n\nConsiderando que o abastecimento dos consumidores de azeite poderá ser comprometido no momento em que a relação entre o preço no mercado mundial e o preço na Comunidade for de modo a provocar a exportação de azeite em quantidades importantes; que, além disso, as importações ou as exportações deste produto poderiam em certas circunstâncias provocar perturbações no mercado; que convém portanto prever medidas que permitam evitar tais situações;\n\nConsiderando que, no que diz respeito às sementes de oleaginosas, a protecção dos agricultores contra os imprevistos que poderiam, apesar do sistema de ajudas previsto, resultar das vicissitudes do mercado, pode ser garantida pelos mecanismos de intervenção que conduzam à compra das quantidades oferecidas aos organismos competentes a preços de intervenção que, em consequência da extensão territorial da produção relativamente a um reduzido número de centros de intervenção, devem ser fixados tendo em conta as condições naturais de formação dos preços no mercado;\n\nConsiderando que a lista das sementes que beneficiam do regime acima descrito deve ser adoptada de modo a englobar as espécies cuja cultura é de momento a mais importante; que convém, no entanto, reservar a possibilidade de alargar este regime a outras sementes, em função da experiência adquirida;\n\nConsiderando que a supressão das medidas que favorecem a produção de óleo de graínhas de uva em determinados Estados-membros exije medidas especiais que tenham por objecto permitir à indústria produtora deste óleo adaptar-se às novas condições do mercado;\n\nConsiderando que a coerência das disposições que regem a organização comum de mercado no sector das matérias gordas seria comprometida se os seus efeitos pudessem ser acumulados com os das ajudas incompatíveis com o Tratado; que é, contudo necessário prever, enquanto se espera a aplicação de uma política agrícola comum no sector do linho, uma excepção para as ajudas concedidas à produção das sementes de linho utilizadas na produção de óleo;\n\nConsiderando que a organização comum de mercado no sector das matérias gordas deve ter em conta, paralelamente e de maneira apropriada, os objectivos previstos nos artigos 39°. e 110°. do Tratado;\n\nConsiderando que, para facilitar a implementação das disposições consideradas, convém prever um processo que estabeleça uma estreita cooperação entre os Estados-membros e a Comissão no seio de um Comité de Gestão,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f95fd3c598160ebc": {
+   "fragment_id": "Artigo 1°.",
+   "type": "artigo",
+   "heading": "Artigo 1°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1°.\n\n1. É estabelecida uma organização comum de mercado no sector das sementes e frutos de oleaginosas, assim como das matérias gordas de origem vegetal ou extraídas de peixes ou de mamíferos marinhos.\n\n2. O presente regulamento aplica-se aos seguintes produtos:\n\n>POSIÇÃO NUMA TABELA"
+  },
+  "47fe6d47f2180be8": {
+   "fragment_id": "TÍTULO I — Regime de trocas comerciais",
+   "type": "divisao",
+   "heading": "TÍTULO I — Regime de trocas comerciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Regime de trocas comerciais"
+  },
+  "e789dae54b61eed5": {
+   "fragment_id": "Artigo 2°.",
+   "type": "artigo",
+   "heading": "Artigo 2°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2°.\n\n1. Relativamente aos produtos referidos no n°. 2, alínea a), b) e d) do artigo 1°., aplica-se a pauta aduaneira comum.\n\n2. Relativamente aos produtos referidos no n°. 2, alíneas c) e e), do artigo 1°., assim como para os produtos mencionados no n°. 1 do artigo 15°, aplica-se um regime de direitos niveladores às importações provenientes de países terceiros."
+  },
+  "340785757f0971fa": {
+   "fragment_id": "Artigo 3°.",
+   "type": "artigo",
+   "heading": "Artigo 3°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3°.\n\n1. Sob reserva da aplicação das disposições do artigo 2°., são incompatíveis com a aplicação das disposições do presente regulamento nas trocas intercomunitárias:\n\n- a cobrança de qualquer direito aduaneiro ou encargo de efeito equivalente;\n\n- a aplicação de qualquer restrição quantitativa ou medida de efeito equivalente;\n\n- o recurso ao artigo 44°. do Tratado.\n\n2. Nas trocas comerciais com países terceiros, são incompatívies com a aplicação das disposições do presente regulamento;\n\n- a cobrança de qualquer direito aduaneiro ou encargo de efeito equivalente excepto as previstas pelo presente regulamento;\n\n- a aplicação de qualquer restrição quantitativa ou medida de efeito equivalente, salvo derrogação decidida pelo Conselho, deliberando sob proposta da Comissão, segundo o processo de voto do n°. 2 do artigo 43°. do Tratado.\n\n3. É considerada medida de efeito equivalente a uma restrição quantitativa, entre outras, a limitação de concessão de certificados de importação ou de certificados de exportação previstos no artigo 17°. a uma determinada categoria de interessados.\n\n4. É incompatível com a aplicação das disposições do presente regulamento qualquer troca intracomunitária de mercadorias referidas no n°. 2 do artigo 1°., no fabrico das quais entrem quaisquer produtos que não estejam em livre prática.\n\n5. Até à harmonização dos regimes nacionais que comportem a suspensão ou reembolso dos direitos aduaneiros, direitos niveladores ou encargos, relativamente aos produtos destinados a serem reexportados para países terceiros, e sem prejuízo das disposições a adoptar no âmbito desta harmonização, o Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado, tomará as medidas necessárias para eliminar as perturbações verificadas no mercado do azeite e resultantes da disparidade entre estes regimes.\n\n6. Quando os produtos enumerados no n°. 2, alíneas a) e b) do artigo 1°. sejam importados de países terceiros em quantidades e em tais condições que estas importações acarretem ou ameacem acarretar um grave prejuízo para os produtores da Comunidade, dos produtos referidos no n°. 2 do artigo 1°., poderá ser cobrado um montante compensatório à importação.\n\nDo mesmo modo pode ser cobrado à importação dos produtos referidos no n°. 2 do artigo 1°. um montante compensatório, quando em consequência de subsídios ou prémios concedidos por um ou vários países terceiros, directa ou indirectamente aos referidos produtos, ou de medidas equivalentes, as ofertas efectivas destes produtos não correspondam aos preços que se estabeleceriam na ausência destas medidas ou procedimentos e que tal situação cause ou ameace causar um importante prejuízo para a produção na Comunidade dos produtos referidos no n°. 2 do artigo 1°..\n\nO estabelecimento de tais montantes compensatórios será efectuado em conformidade com os compromissos internacionais assumidos pelos Estados-membros e a Comunidade. Serão fixados nas condições aprovadas pelo Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado."
+  },
+  "1253f783a830adb7": {
+   "fragment_id": "TÍTULO II — Azeite",
+   "type": "divisao",
+   "heading": "TÍTULO II — Azeite",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Azeite"
+  },
+  "0963fb8d889a10d4": {
+   "fragment_id": "Artigo 4°.",
+   "type": "artigo",
+   "heading": "Artigo 4°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4°.\n\nTodos os antes de 1 de Outubro, o Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado, fixará para o azeite um preço indicativo à produção, um preço indicativo de mercado, um preço de intervenção e um preço limiar únicos para a Comunidade.\n\nSob reserva das disposições do artigo 9°., estes preços vigorarão durante toda a campanha de comercialização seguinte; esta decorrerá entre 1 de Novembro e 31 de Outubro.\n\nEstes preços são relativos a uma qualidade tipo de azeite que corresponde a uma das designações que figuram no anexo previsto no artigo 35°.. Esta qualidade tipo será determinada pelo Conselho de acordo com o procedimento referido no primeiro parágrafo.\n\nSerão fixados no estádio de comércio por grosso sem encargos."
+  },
+  "8559fba7f9932407": {
+   "fragment_id": "Artigo 5°.",
+   "type": "artigo",
+   "heading": "Artigo 5°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5°.\n\nO preço indicativo à produção é fixado a um nível equitativo para os produtores, tendo em conta a necessidade de manter o volume de produção necessário na Comunidade."
+  },
+  "ace7c4232e83529e": {
+   "fragment_id": "Artigo 6°.",
+   "type": "artigo",
+   "heading": "Artigo 6°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6°.\n\nO preço indicativo de mercado é fixado a um nível que permita o escoamento normal de produção de azeite, tendo em conta os preços dos produtos concorrentes, e nomeadamente as perspectivas da sua evolução no decurso da campanha, bem como a incidência sobre os preços do azeite das majorações mensais referidas no artigo 9°."
+  },
+  "9fdb30da2e80b09d": {
+   "fragment_id": "Artigo 7°.",
+   "type": "artigo",
+   "heading": "Artigo 7°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7°.\n\nO preço de intervenção que garante aos produtores a realização das suas vendas a um preço tão próximo quanto possível do preço indicativo de mercado, tendo em conta as variações do mercado, é igual ao preço indicativo de mercado subtraindo um montante suficiente para permitir estas variações, bem como o encaminhamento do azeite das zonas de produção para as zonas de consumo."
+  },
+  "5a116a670a38844c": {
+   "fragment_id": "Artigo 8°.",
+   "type": "artigo",
+   "heading": "Artigo 8°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8°.\n\nO preço limiar é fixado de modo que o preço de venda do produto importado se situe, no lugar de passagem na fronteira referido no n°. 2 do artigo 13°., ao nível do preço indicativo de mercado."
+  },
+  "48fb2ddecadba8ca": {
+   "fragment_id": "Artigo 9°.",
+   "type": "artigo",
+   "heading": "Artigo 9°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9°.\n\nA fim de permitir o escalonamento das vendas, o preço indicativo de mercado, o preço de intervenção e o preço limiar são majorados mensalmente durante dez meses a partir de 1 de Janeiro, de um montante idêntico para estes três preços.\n\nAs majorações mensais, iguais para todos os meses, são fixadas todos os anos pelo Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento de voto previsto no n°. 2 do artigo 43°. do Tratado, tendo em conta os encargos médios de armazenagem e de juros na Comunidade."
+  },
+  "6e58c28a7c227df9": {
+   "fragment_id": "Artigo 10°.",
+   "type": "artigo",
+   "heading": "Artigo 10°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10°.\n\n1. Quando o preço indicativo à produção é superior ao preço indicativo de mercado do início da campanha, é concedida uma ajuda, igual à diferença existente entre estes dois preços, aos produtores de azeite produzido na Comunidade a partir de azeitonas colhidas na Comunidade; o azeite para o qual esta ajuda é pedida não deve ter já beneficiado das disposições do presente número.\n\n2. Os princípios a que obedecerá a concessão da ajuda prevista no n°. 1 são definidos pelo Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento de voto previsto no n°. 2 do artigo 43°. do Tratado. De acordo com o mesmo procedimento, o Conselho adopta as medidas destinadas a assegurar que os produtores de azeite somente beneficiem desta ajuda para o azeite que satisfaça as condições previstas no n°. 1.\n\n3. As modalidades de aplicação do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 38°.."
+  },
+  "650b0b26d126510a": {
+   "fragment_id": "Artigo 11°.",
+   "type": "artigo",
+   "heading": "Artigo 11°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11°.\n\n1. Em cada Estado-membro produtor, um organismo de intervenção compra, nas condições adoptadas nos termos das disposições do n°. 5, o azeite de origem comunitária que lhes é oferecido nos centros de intervenção estabelecidos nas zonas produtoras. A compra é efectuada ao preço de intervenção e somente a este preço.\n\nTodavia, se a denominação ou a qualidade do azeite oferecido à intervenção não corresponder àquela relativamente à qual o preço de intervenção foi fixado, o preço de compra será ajustado, por aplicação de uma tabela de bonificações e de penalizações.\n\nAlém disso, se a entrega do azeite for efectuada, a pedido do organismo de intervenção, num local diferente do centro indicado pelo vendedor no momento da oferta, será tida em conta, aquando do pagamento do azeite, a alteração do montante dos encargos de transporte daí resultante para o vendedor.\n\n2. A fim de regularizar o mercado no decurso da campanha, os organismos de intervenção podem concluir contratos de armazenagem relativamente a azeite de origem comunitária de acordo com as disposições adoptadas pelo Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado.\n\n3. Os organismos de intervenção não podem vender na Comunidade o azeite por eles comprado, em condições tais que impeçam a formação dos preços ao nível do preços indicativo de mercado.\n\n4. O Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado, determina os principais centros de intervenção e adopta os critérios a aplicar para a determinação dos outros centros; estes últimos serão determinados após consulta dos Estados- membros interessados, de acordo com o procedimento previsto no artigo 38°..\n\n5. As modalidades de aplicação do presente artigo, nomeadamente as relativas à qualidade e importância dos lotes oferecidos ao abrigo do n°. 1, serão adoptadas de acordo com o procedimento previsto no artigo 38°.."
+  },
+  "f20699e2c0488eb2": {
+   "fragment_id": "Artigo 12°.",
+   "type": "artigo",
+   "heading": "Artigo 12°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12°.\n\nA fim de atenuar as consequências da irregularidade das colheitas sobre o equilíbrio entre a oferta e a procura e obter desse modo uma estabilização dos preços de consumo, o Conselho deliberando sob proposta da Comissão, de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado, pode decidir a constituição pelos organismos de intervenção de uma reserva reguladora de azeite; de acordo com o mesmo procedimento, o Conselho adoptará as condições relativas à constituição, à gestão e ao escoamento da reserva."
+  },
+  "1c0720d0ff140723": {
+   "fragment_id": "Artigo 13°.",
+   "type": "artigo",
+   "heading": "Artigo 13°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13°.\n\n1. Aquando da importação de azeite, proveniente de países terceiros, que não tenha sofrido um processo de refinação, e se o preço limiar for superior ao preço cif, é cobrado um direito nivelador cujo montante é igual à diferença entre estes dois preços.\n\n2. O preço cif calculado para um lugar de passagem na fronteira da Comunidade é determinado a partir das possibilidades de compra mais favoráveis no mercado mundial.\n\nO lugar de passagem na fronteira é fixado pelo Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado, tendo em conta o seu carácter representativo para as importações.\n\nNa determinação das possibilidades mais favoráveis de compra, só são tidas em conta as ofertas correspondentes às possibilidades de compra reais para quantidades representativas do mercado.\n\nAs cotações são ajustadas em função das diferenças eventuais em relação à denominação ou à qualidade para a qual foi fixado o preço limiar.\n\n3. Se as cotações livres no mercado mundial não forem determinantes para o preço de oferta e se este preço for mais baixo que as cotações internacionais, o preço cif é substituído, unicamente para as importações em causa, por um preço determinado em função do preço de oferta.\n\n4. O direito nivelador é adoptado pela Comissão. Os critérios para a determinação do preço cif e do preço referido no n°. 3, bem como as modalidades de aplicação do presente artigo, serão adoptados de acordo com o procedimento previsto no artigo 38°.."
+  },
+  "4991135e81234812": {
+   "fragment_id": "Artigo 14°.",
+   "type": "artigo",
+   "heading": "Artigo 14°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14°.\n\n1. Aquando da importação de azeite, proveniente de países terceiros, que tenha sofrido um processo de refinação, é cobrado um direito nivelador composto por um elemento móvel, correspondente ao direito nivelador que se aplica à quantidade de azeite que pode ser fixado de modo estimativo, necessária à sua produção e por um elemento fixo destinado a assegurar a protecção da indústria de transformação.\n\n2. As modalidades de aplicação do presente artigo serão adoptadas pelo Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado."
+  },
+  "b0ed7b83cae47708": {
+   "fragment_id": "Artigo 15°.",
+   "type": "artigo",
+   "heading": "Artigo 15°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15°.\n\n1. Aquando da importação de azeitonas incluídas nas posições pautais 07.01 N e 07.03 A, provenientes de países terceiros, com exclusão das destinadas a outros fins que não seja a produção de azeite, é cobrado, para além do direito da pauta aduaneira comum, um direito nivelador calculado a partir do direito nivelador aplicável ao azeite por força do artigo 13°., com base no teor em azeite do produto importado. O direito nivelador será diminuído do montante resultante da aplicação do direito aduaneiro ao valor do produto importado, montante que pode ser fixado forfetariamente.\n\n2. Aquando da importação de produtos referidos no n°. 2, alínea e), do artigo 1°., provenientes de países terceiros, é cobrado um direito nivelador calculado a partir do direito nivelador aplicável ao azeite, conforme o teor em azeite do produto importado.\n\nContudo, a cobrança do direito nivelador só pode efectuar-se respeitando os compromissos assumidos no âmbito do GATT.\n\n3. As modalidades de aplicação do presente artigo, e nomeadamente as relativas à determinação do teor em azeite, que pode ser fixado forfetariamente, são adoptadas pelo Conselho, deliberando sob proposta da Comissão, de acordo com procedimento de voto do n°. 2 do artigo 43°. do Tratado."
+  },
+  "1396f998ccfbc361": {
+   "fragment_id": "Artigo 16°.",
+   "type": "artigo",
+   "heading": "Artigo 16°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16°.\n\nO direito nivelador aplicável a uma importação é o que está em vigor no dia da importação."
+  },
+  "1d94d9d8c52844d4": {
+   "fragment_id": "Artigo 17°.",
+   "type": "artigo",
+   "heading": "Artigo 17°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17°.\n\n1. Qualquer importação de produtos referidos no n°. 2, alíneas c), d) e e), do artigo 1°., proveniente de países terceiros, está sujeita à apresentação de um certificado de importação. Qualquer exportação de azeite para países terceiros está sujeita à apresentação de um certificado de exportação.\n\nEstes certificados são emitidos a pedido do interessado, nas condições adoptadas pelo Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado. Estas condições podem nomeadamente incluir a constituição de uma caução.\n\n2. Os certificados de importação e os certificados de exportação são válidos a partir da data da sua emissão e até ao fim do terceiro mês seguinte àquele no decurso do qual foram emitidos.\n\n3. As modalidades de aplicação do presente artigo serão adoptadas de acordo com procedimento previsto no artigo 38°.."
+  },
+  "f568fa9e9038d525": {
+   "fragment_id": "Artigo 18°.",
+   "type": "artigo",
+   "heading": "Artigo 18°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18°.\n\n1. Aquando da exportação de azeite para países terceiros,\n\n- se o preço na Comunidade for superior às cotações mundiais, a diferença entre estes preços pode ser coberta por uma restituição,\n\n- se as cotações mundiais forem superiores ao preço na Comunidade, pode ser cobrado um direito nivelador igual ou superior à diferença entre estes preços.\n\n2. As condições de aplicação do presente artigo serão adoptadas pelo Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado."
+  },
+  "3da6bf0cf08a97c0": {
+   "fragment_id": "Artigo 19°.",
+   "type": "artigo",
+   "heading": "Artigo 19°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19°.\n\nO azeite utilizado no fabrico de conservas de peixe e de produtos hortícolas beneficia de um regime de restituição à produção ou de suspensão total ou parcial do direito nivelador à importação.\n\nAs condições de aplicação do presente artigo serão adoptadas pelo Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado."
+  },
+  "95ee660536877e21": {
+   "fragment_id": "Artigo 20°.",
+   "type": "artigo",
+   "heading": "Artigo 20°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20°.\n\n1. No caso de, na Comunidade, o mercado do azeite sofrer ou estar ameaçado de sofrer graves perturbações, em consequência:\n\n- das importações de produtos referidos no n°. 2, alíneas c), d) e e), do artigo 1°., provenientes de países terceiros, nomeadamente se os organismos de intervenção forem levados a fazer compras substanciais de azeite em aplicação do n°. 1 do artigo 11°., ou\n\n- das exportações de azeite para países terceiros, nomeadamente quando o preço do mercado do azeite ameaça ultrapassar ou ultrapasse sensivelmente o nível do preço indicativo de mercado, ou quando foi tomada a decisão de proceder ao escoamento da reserva reguladora,\n\npodem ser aplicadas medidas adequadas até que a perturbação ou a ameaça de perturbação tenha desaparecido.\n\n2. A natureza das medidas que podem ser adoptadas, bem como as condições de aplicação do presente artigo, serão determinadas pelo Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado.\n\nTITÚLO II\n\nOutros óleos vegetais e sementes de oleaginosas produzidos na Comunidade"
+  },
+  "1dbdeab2cc125c45": {
+   "fragment_id": "Artigo 21°.",
+   "type": "artigo",
+   "heading": "Artigo 21°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21°.\n\nAs sementes de oleaginosas às quais se aplicam as disposições dos artigos 22°. a 29°. são:\n\n- as sementes de colza e nabita\n\n- as sementes de girassol.\n\nO Conselho, deliberando sob proposta da Comissão de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado, pode decidir aplicar estas disposições a outras sementes de oleaginosas."
+  },
+  "e173ed72cd025d5e": {
+   "fragment_id": "Artigo 22°.",
+   "type": "artigo",
+   "heading": "Artigo 22°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22°.\n\n1. Todos os anos, em tempo útil para permitir aos agricultores orientar a sua produção, e pela primeira vez em 1966, o Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado, fixa para cada espécie de sementes de oleaginosas um preço indicativo único para a Comunidade e um preço de intervenção de base calculado para um centro de intervenção a determinar segundo o mesmo processo.\n\nSob reserva das disposições do artigo 25°., estes preços são válidos durante toda a campanha de comercialização a iniciar no ano seguinte, sendo relativos a uma qualidade de tipo, e fixados no estádio de comércio de grosso, sem encargos.\n\nAs datas de início e de fim da campanha de comercialização, da data antes da qual devem ser fixados os preços indicativos e de intervenção de base, bem como a qualidade tipo de cada espécie de semente, serão adoptadas pelo Conselho, deliberando de acordo com o procedimento referido no primeiro parágrafo.\n\n2. Todos os anos, em tempo útil, antes do início da campanha de comercialização, o Conselho, deliberando de acordo com o procedimento referido no n°. 1, fixa os principais centros de intervenção e os preços de intervenção derivados neles aplicáveis.\n\nDe acordo com o mesmo procedimento, o Conselho adopta os critérios para a determinação dos outros centros e dos outros preços de intervenção derivados; estes centros são determinados e estes preços são fixados, após consulta dos Estados-membros interessados, de acordo com o procedimento previsto no artigo 38°.."
+  },
+  "289d9ddba40336fc": {
+   "fragment_id": "Artigo 23°.",
+   "type": "artigo",
+   "heading": "Artigo 23°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23°.\n\nOs preços indicativos são fixados a um nível equitativo para os produtores, tendo em conta a necessidade de manter o volume de produção necessário na Comunidade."
+  },
+  "59b3e9a7e4a55110": {
+   "fragment_id": "Artigo 24°.",
+   "type": "artigo",
+   "heading": "Artigo 24°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24°.\n\nO preço de intervenção de base, que garante aos produtores a realização das suas vendas a um preço tão próximo quanto possível do preço indicativo, tendo em conta as variações do mercado, é igual ao preço indicativo subtraído de um montante suficiente para permitir estas variações.\n\nOs preços de intervenção derivados são fixados a um nível que permita às sementes circular livremente na Comunidade, tendo em conta as condições naturais de formação dos preços e em conformidade com as necessidades do mercado."
+  },
+  "f2dcb3eb674a2ccd": {
+   "fragment_id": "Artigo 25°.",
+   "type": "artigo",
+   "heading": "Artigo 25°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25°.\n\nA fim de permitir o escalonamento das vendas, o preço indicativo e o preço de intervenção serão majorados mensalmente, durante cinco meses pelo menos, a partir do início do terceiro mês da campanha, de um montante idêntico para estes dois preços.\n\nAs majorações mensais, iguais para todos os meses, serão fixadas todos os anos pelo Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado, tendo em conta os encargos médios de armazenagem e dos juros na Comunidade."
+  },
+  "ef96f6f259d73a38": {
+   "fragment_id": "Artigo 26°.",
+   "type": "artigo",
+   "heading": "Artigo 26°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26°.\n\n1. Em cada Estado-membro, um organismo de intervenção compra, nas condições adoptadas nos termos das disposições dos nos. 2 e 3, as sementes de origem comunitária que lhes são oferecidas nos centros de intervenção. A compra é efectuada ao preço de intervenção e somente a este preço.\n\nTodavia, se a qualidade da semente oferecida à intervenção não corresponder àquela relativamente à qual o preço de intervenção foi fixado, o preço de compra é ajustado pela aplicação de uma tabela de bonificações e penalizações.\n\nAlém disso, se a entrega da semente é efectuada, a pedido do organismo de intervenção, noutro local que não seja o centro indicado pelo vendedor no momento da oferta, tem-se em conta, aquando do pagamento da semente, a alteração dos montantes dos encargos de transporte daí resultantes para o vendedor.\n\n2. O Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado, adopta:\n\na) As condições em que a intervenção se processa no decurso dos dois últimos meses da campanha;\n\nb) Os princípios segundo os quais os organismos de intervenção fazem o escoamento das sementes por eles compradas.\n\n3. As modalidades de aplicação do presente artigo, nomeadamente as relativas à qualidade e importância dos lotes oferecidos, serão adoptadas de acordo com o procedimento previsto no artigo 38°.."
+  },
+  "d4853d28b81aba6c": {
+   "fragment_id": "Artigo 27°.",
+   "type": "artigo",
+   "heading": "Artigo 27°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27°.\n\n1. Quando o preço indicativo válido para uma espécie de semente é superior ao preço de mercado mundial determinado para esta espécie, nos termos do disposto no artigo 29°., será concedida uma ajuda para as sementes da referida espécie recolhidas e transformadas na Comunidade; sob reserva das excepções decididas por aplicação do n°. 3, esta ajuda é igual à diferença entre estes preços.\n\n2. Quando o direito à ajuda prevista no n°. 1, é adquirido no decurso dos dois primeiros meses de campanha, pode igualmente ser paga uma indemnização de comercialização imediata.\n\n3. O Conselho, deliberando sob proposta da Comissão, segundo o procedimento de voto do n°. 2 do artigo 43°. do Tratado, adopta:\n\na) Os princípios segundo os quais é concedida a ajuda prevista no n°. 1;\n\nb) Os princípios segundo os quais é fixado o montante da ajuda em caso de situação anormal;\n\nc) As modalidades de controlo do direito à ajuda; este controlo pode incidir tanto sobre as sementes de origem comunitária, como sobre as sementes importadas de países terceiros; pode ser previsto relativamente a este últimos um sistema de certificados de importação acompanhados de caução.\n\nd) As condições em que é permitida a fixação antecipada do montante da ajuda;\n\ne) As condições de aplicação do n°. 2.\n\n4. O montante da ajuda é fixado pela Comissão.\n\n5. As modalidades de aplicação do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 38°.."
+  },
+  "5fe6dc63f3c7b436": {
+   "fragment_id": "Artigo 28°.",
+   "type": "artigo",
+   "heading": "Artigo 28°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28°.\n\n1. Aquando da exportação para países terceiros das sementes de oleaginosas colhidas na Comunidade pode ser concedida uma restituição cujo montante seja no máximo igual à diferença entre os preços na Comunidade e as cotações mundiais no caso de os primeiros serem superiores aos segundos.\n\n2. As condições de fixação e eventualmente de prefixação da restituição referida no n°. 1, são adoptadas pelo Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado."
+  },
+  "0ffc388cf9359311": {
+   "fragment_id": "Artigo 29°.",
+   "type": "artigo",
+   "heading": "Artigo 29°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29°.\n\nO preço do mercado mundial, calculado para um lugar de passagem na fronteira da Comunidade, é determinado a partir das possibilidades e compra mais favoráveis, e as cotações podem eventualmente ser ajustadas para ter em conta as cotações dos produtos concorrentes. Os critérios para esta determinação bem como o lugar de passagem na fronteira, que é fixado para cada espécie de semente, são adoptados pelo Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento previsto no n°. 2 do artigo 43°. do Tratado."
+  },
+  "531f86af4ddf67fe": {
+   "fragment_id": "Artigo 30°.",
+   "type": "artigo",
+   "heading": "Artigo 30°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30°.\n\nDurante cinco anos a contar da data em que suprimiram as medidas nacionais que tinham por efeito majorar os preços dos óleos vegetais com excepção do azeite, os Estados-membros podem conceder ajudas à promoção de óleo de graínhas de uvas colhidas na Comunidade."
+  },
+  "53e6814e3fdb0090": {
+   "fragment_id": "Artigo 31°.",
+   "type": "artigo",
+   "heading": "Artigo 31°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31°.\n\nAté à aplicação de uma política agrícola comum no sector do linho, os Estados-membros podem conceder ajudas à produção das sementes de linho utilizadas na produção de óleo."
+  },
+  "d91c0700ce381124": {
+   "fragment_id": "Artigo 32°.",
+   "type": "artigo",
+   "heading": "Artigo 32°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32°.\n\nAs ajudas referidas nos artigos 30°. e 31°. só podem ser concedidas aos produtos que tenham beneficiado, directa ou indirectamente, no Estado-membro em causa, de um suporte dos preços no decurso da campanha que precedeu a aplicação do presente regulamento.\n\nEssas ajudas devem ser concedidas desde a primeira campanha de aplicação do presente regulamento e, no máximo, na medida necessária para manter este suporte.\n\nOs Estados-membros comunicam à Comissão todas as informações relativas à instituição, ao cálculo e à concessão de tais ajudas antes da aplicação destas."
+  },
+  "ce73210d98537a55": {
+   "fragment_id": "TÍTULO II — Disposições Gerais",
+   "type": "divisao",
+   "heading": "TÍTULO II — Disposições Gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Disposições Gerais"
+  },
+  "f4910765b6be48cc": {
+   "fragment_id": "Artigo 33°.",
+   "type": "artigo",
+   "heading": "Artigo 33°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33°.\n\nSob reserva de disposições contrárias do presente regulamento, os artigos 92°., 93°. e 94°. do Tratado são aplicáveis à produção e ao comércio dos produtos referidos no artigo 1°.."
+  },
+  "07e037057ac0b1a2": {
+   "fragment_id": "Artigo 34°.",
+   "type": "artigo",
+   "heading": "Artigo 34°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34°.\n\nSão incompatíveis com a aplicação do presente regulamento aos produtos referidos no n°. 2, alínea c), do artigo 1°., as medidas tomadas pelos Estados-membros destinadas a aumentar o preço dos outros óleos vegetais em relação ao preço do azeite, com o fim de assegurar o escoamento da produção nacional deste último."
+  },
+  "4c716f9b2beafad7": {
+   "fragment_id": "Artigo 35°.",
+   "type": "artigo",
+   "heading": "Artigo 35°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35°.\n\nSem prejuízo da harmonização das legislações relativas ao azeite destinado à alimentação humana, os Estados-membros adoptam, para as trocas intracomunitárias e com os países terceiros, com exclusão das exportações para estes, as denominações e definições do azeite previstas no anexo do presente regulamento."
+  },
+  "47a2f1760d8ed86a": {
+   "fragment_id": "Artigo 36°.",
+   "type": "artigo",
+   "heading": "Artigo 36°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36°.\n\nO Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado, pode modificar a lista dos produtos referidos no artigo 1°., ou tomar relativamente a estes quaisquer medidas derrogatórias do presente regulamento, a fim de ter em conta as condições especiais em que estes produtos se possam encontrar."
+  },
+  "cadee56177e23ee7": {
+   "fragment_id": "Artigo 37°.",
+   "type": "artigo",
+   "heading": "Artigo 37°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37°.\n\n1. É instituído um Comité de Gestão das Matérias Gordas, a seguir denominado «o Comité» composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. No seio do Comité, os votos dos Estados-membros são afectados da ponderação prevista no n°. 2 do artigo 148°. do Tratdo. O presidente não toma parte na votação."
+  },
+  "8bc55fc144128833": {
+   "fragment_id": "Artigo 38°.",
+   "type": "artigo",
+   "heading": "Artigo 38°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38°.\n\n1. Nos casos em que se faz referência ao procedimento definido no presente artigo, o Comité é convocado pelo seu presidente, quer por iniciativa deste, quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão apresentará um projecto das medidas a tomar. O Comité emite o seu parecer sobre estas medidas num prazo que o presidente pode fixar em função da urgência das questões submetidas a exame. Pronuncia-se por maioria de doze votos.\n\n3. A Comissão adopta as medidas que são de aplicação imediata. Porém, se estas não estiverem de acordo com o parecer emitido pelo Comité, serão de imediato comunicadas pela Comissão ao Conselho; neste caso, a Comissão pode adiar, no máximo por um mês a partir desta comunicação, a aplicação das medidas por ela decididas.\n\nO Conselho, deliberando de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado, pode tomar uma decisão diferente no prazo de um mês."
+  },
+  "c7a86b06669e87bb": {
+   "fragment_id": "Artigo 39°.",
+   "type": "artigo",
+   "heading": "Artigo 39°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39°.\n\nO Comité pode examinar qualquer outra questão evocada pelo seu presidente quer por iniciativa deste, quer a pedido do representante de um Estado-membro."
+  },
+  "df8ee3086d1e5e86": {
+   "fragment_id": "Artigo 40°.",
+   "type": "artigo",
+   "heading": "Artigo 40°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40°.\n\nNo fim do período de transição, o Conselho, deliberando sob proposta da Comissão, de acordo com o procedimento de voto do n°. 2 do artigo 43°. do Tratado, decide, tendo em conta a experiência adquirida, a manutenção ou a modificação das disposições do artigo 38°.."
+  },
+  "b20aa005ed11cd8a": {
+   "fragment_id": "Artigo 41°.",
+   "type": "artigo",
+   "heading": "Artigo 41°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41°.\n\n1. O Regulamento n°. 25 do Conselho relativo ao financiamento da política agrícola comum (1) e as disposições adoptadas para a implementação deste regulamento aplicam-se ao mercado dos produtos referidos no artigo 1°., a partir da entrada em vigor do presente regulamento.\n\n(1) JO n°. 30 de 20.4.1962, p. 991/62.\n\n2. Os montantes compensatórios previstos no n°. 6 artigo 3°. são considerados direitos niveladores para com os países terceiros, no sentido do n°. 4, artigo 11°. do Regulamento n°. 130/66/CEE do Conselho relativo ao financiamento da política agrícola comum (2).\n\n(2) JO n°. 165 de 21.9.1966, p. 2965/66."
+  },
+  "381d586e778854a5": {
+   "fragment_id": "Artigo 42°.",
+   "type": "artigo",
+   "heading": "Artigo 42°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42°.\n\nO presente regulamento deve ser aplicado de tal modo que sejam tidos em conta, paralelamente e de maneira apropriada, os objectivos previstos nos artigos 39°. e 110°. do Tratado."
+  },
+  "1cadc28a197ce2db": {
+   "fragment_id": "Artigo 43°.",
+   "type": "artigo",
+   "heading": "Artigo 43°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43°.\n\nO presente regulamento entra em vigor no dia seguinte à sua aplicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicado aos produtos referidos no n°. 2, alínea c), d) e e), do artigo 1°. a partir de 1 de Novembro de 1966 e aos outros produtos referidos no artigo 1°. a partir de 1 de Julho de 1967.\n\nNo caso de serem necessárias medidas transitórias, tendo em vista facilitar a passagem do regime em vigor nos Estados-membros para o regime previsto no presente regulamento, nomeadamente no caso em que a aplicação deste regime nas datas previstas se confrontaria, para certos produtos, com dificuldades sensíveis, estas medidas serão adoptadas segundo o processo previsto no artigo 38°.. A sua validade é limitada ao primeiro ano de aplicação do presente regulamento a cada produto.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 22 de Setembro de 1966.\n\nPelo Conselho\n\nO Presidente\n\nB. W. BIESHEUVEL"
+  },
+  "5e5f68b6daf1bb32": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nDenominações e definições referidas no artigo 35°.\n\n1. Azeite virgem ( a expressão «azeite virgem puro» pode igualmente ser empregado): azeite natural obtido unicamente por processos mecânicos, compreendendo a pressão, com exclusão de qualquer mistura com óleos de outra natureza ou azeite obtido de outra forma diferente. O azeite virgem é classificado como se segue:\n\na) Extra: azeite com sabor perfeitamente irrepreensível e cujo teor de ácidos gordos livres, expresso em ácido oleico, não pode ser superior a 1 grama por 100 gramas;\n\nb) Fino: azeite que preenche as condições previstas para o azeite extra, salvo no que respeita ao teor de ácidos gordos livres, expresso em ácido oleico, que não pode ser superior a 1,5 gramas por 100 gramas;\n\nc) Corrente ( a expressão «semi-fino» pode igualmente ser empregada): azeite com bom gosto e cujo teor de ácidos gordos livres, expresso em ácido oleico, não pode ser superior a 3,3 gramas por 100 gramas;\n\nd) Lampante: azeite com gosto defeituoso ou cujo teor de ácidos gordos livres, expresso em ácido oleico, é superior a 3,3 gramas por 100 gramas.\n\n2. Azeite refinado: (a expressão «azeite puro refinado» pode igualmente ser empregada azeite obtido por refinação do azeite virgem.\n\n3. Azeite puro: azeite constituído pelo loteamento de azeite virgem e azeite refinado.\n\n4. Óleo de bagaço de azeitona: óleo obtido por tratamento com solventes dos produtos indicados na posição pautal ex 23.04 incluídos no n°. 2, alínea e) do artigo 1°..\n\n5. Óleo de bagaço de azeitona refinado: óleo obtido por refinação dos óleos referidos no ponto 4 e destinado a usos alimentares.\n\n6. Óleo de bagaço de azeitona refinado e azeite: óleo constituído pelo loteamento de óleo de bagaço de azeitona refinado e azeite virgem.\n\n7. Óleo de bagaço de azeitona para uso técnico: qualquer azeite obtido a partir dos produtos classificáveis pela posição pautal ex 23.04 e incluídos no n°. 2, alínea e), do artigo 1°., excepto aqueles referidos nos pontos anteriores."
+  },
+  "e71336608ce44408": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1966R0136 — PT — 01.11.2005 — 008.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31966R0136) [REGULAMENTO Nº 136/66/CEE ^do conselho^](http://publications.europa.eu/resource/celex/31966R0136) [de 22 de Setembro de 1966](http://publications.europa.eu/resource/celex/31966R0136) [que estabelece uma organização comum de mercado no sector das matérias gordas](http://publications.europa.eu/resource/celex/31966R0136) (JO P 172, 30.9.1966, p.3025)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 865/2004 do Conselho de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0865) — L 206 — 37 — 9.6.2004"
+  }
+ }
+}

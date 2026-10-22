@@ -1,0 +1,1178 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31969R1192:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01969R1192-20170112",
+ "dre_path": null,
+ "source_lastmod": "2017-01-12",
+ "versions": [
+  {
+   "date": "1969-06-28",
+   "future": false,
+   "celex": "31969R1192",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d45299daacd2e74a",
+    "1356bdfbad5f265a",
+    "c998787372c921ae",
+    "1b9264055d07e07a",
+    "cc94f4364ec5cb57",
+    "f4a8947b73804b5e",
+    "fe94d74c69cd4780",
+    "b9fe3a31df83d80a",
+    "fe748b2bf4032127",
+    "67842e2791f78ace",
+    "625762e5562ddb33",
+    "1492dcf5b9101bfd",
+    "c879222277d08cb6",
+    "ec3dca9e31c1683a",
+    "66a7c79d21bb1670",
+    "59801846c2d2150f",
+    "aee3d021a7a8e83c",
+    "e0d3118f4658b6d9",
+    "b1da9ac7fa5abd28",
+    "08e62e4446545904",
+    "fb9f906ad4724bb8",
+    "cd976504a5d29625",
+    "531d71afeebea090",
+    "6553d3868b7c1f5b",
+    "a28271299d4ddeab",
+    "610aa82a09011917",
+    "a076153ec67345c3",
+    "653379c3ecfd08c0",
+    "ed1872ea2edc8545",
+    "362162eb2afc3073",
+    "1bf2be4f09baae0c",
+    "c9646e96dcfc419e",
+    "1e5252f93172b1fb"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01969R1192-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:31990R3572:por",
+     "title": "REGULAMENTO (CEE) N.O 3572/90 DO CONSELHO de 4 de Dezembro de 1990",
+     "published": null,
+     "celex": "31990R3572"
+    },
+    {
+     "id": "eu:celex:32006R1791:por",
+     "title": "REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006R1791"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Dinamarca, da Irlanda e do Reino Unido da Grã-Bretanha e da Irlanda do Norte",
+     "published": null,
+     "celex": "11972B"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Grécia",
+     "published": null,
+     "celex": "11979H"
+    },
+    {
+     "id": null,
+     "title": "A3",
+     "published": null,
+     "celex": "11985I"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO I",
+    "Altera ANEXO II",
+    "Altera ANEXO III",
+    "Altera ANEXO VI",
+    "Altera ANEXO VIII",
+    "Altera ANEXO X",
+    "Altera ANEXO XI",
+    "Altera ANEXO XII",
+    "Altera ANEXO XIII",
+    "Adita SECÇÃO I",
+    "Adita Definições e âmbito de aplicação",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita SECÇÃO II",
+    "Adita Regras comuns de normalização e de compensação",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita SECÇÃO III",
+    "Adita Disposições finais",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita A. Âmbito de aplicação",
+    "Adita B. Princípio de cálculo",
+    "Adita B. Princípios de cálculo",
+    "Adita ANEXO IV",
+    "Adita ANEXO V",
+    "Adita Âmbito de aplicação",
+    "Adita ANEXO VII",
+    "Adita ANEXO IX",
+    "Adita ANEXO XIV",
+    "Adita ANEXO XV",
+    "Adita Notas",
+    "Suprime SECÇÃO I — Definições e âmbito de aplicação",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime SECÇÃO II — Regras comuns de normalização e de compensação",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime SECÇÃO III — Disposições finais",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime ANEXO IV — Categoria IV: Despesas suportadas pelas empresas de caminho de ferro com as instalações de cruzamento",
+    "Suprime ANEXO V — Categoria V: Obrigação de recrutar pessoal para além das necessidades da empresa",
+    "Suprime ANEXO VII — Categoria VII: Adiamento imposto pelas autoridades competentes no que diz respeito à renovação e conservação",
+    "Suprime ANEXO IX — Categoria IX: Obrigação de manter pessoal para além das necessidades da empresa",
+    "Suprime ANEXO XIV — Categoria XIV: Condições impostas no caso de empreitadas de obras públicas e de contratos de fornecimento",
+    "Suprime ANEXO XV — Categoria XV: Encargos financeiros resultantes de falta de normalização no passado"
+   ],
+   "fragments": [
+    "9d60c54cfe37773c",
+    "19572906891c0646",
+    "31fed25364cd7b3e",
+    "b0e2d925edbee4fb",
+    "4cb074330c0d5e71",
+    "5089f963f45474b9",
+    "09077da315aca3b6",
+    "0b50b9972a75b595",
+    "71787d596b0988ae",
+    "d5943124e0af8825",
+    "35ed9b32516b6825",
+    "7bdd9dd29cdc4224",
+    "b4ddaeab420a9419",
+    "c29bda92f9a5dcce",
+    "46c38e0da1afeace",
+    "fdc0dd2695a43e62",
+    "9bf2b6af359597c3",
+    "b4f1bfdbc841cf04",
+    "bbdde795c58f027f",
+    "b25da9675460f624",
+    "5cae9e51fe9ed60f",
+    "f0c48c3ec2ebbe93",
+    "31b1815991e3c01a",
+    "b66c9218bdc82c4f",
+    "da0e3fc43c3cfc53",
+    "7bd29508f01ae4ad",
+    "f54613a138dfbdb7",
+    "bc9a04094e732354",
+    "44d5a3b4170b6285",
+    "9f6c5c44cb9a7900",
+    "6d7f873b8c0d066a",
+    "4ba7a1cc05f503a4",
+    "cbc321377e6c31b8",
+    "c0beadf94072a655",
+    "6d00782af8116e94",
+    "ac746ca39df76792",
+    "d469456d9cba4c5e",
+    "848838ad510f6ceb",
+    "c84e7aa718b1d890",
+    "f02ae1a906771cc3",
+    "3f27ac6f0cf1440e",
+    "93dfd011bd05308a",
+    "eed11143abaa59e1",
+    "47c90cfd299e7300",
+    "e2d068fe45465378",
+    "bd2470d40431084c",
+    "6bb68e2fc65a6684",
+    "18bc610ce0674423",
+    "d52db236994aefc9",
+    "78a19138b27254f5",
+    "3236921f037b1aa4",
+    "1691fa03dc7a44e9",
+    "1c6067bb4bd1ca99",
+    "72a30d94ff6de5c3",
+    "095853bce0da4795",
+    "32327701d933b685",
+    "503df96b128aa7a1",
+    "e142d5be2e32908d",
+    "db5416f74cbf8fe9",
+    "c0600946c8db7cf6",
+    "5015ed59043e1573",
+    "8cb350947206ab64",
+    "df0e6ba05a1fc647",
+    "3efee30554cf4aa3"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "01969R1192-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0517:por",
+     "title": "REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013",
+     "published": null,
+     "celex": "32013R0517"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "4614190a19b1295c",
+    "19572906891c0646",
+    "31fed25364cd7b3e",
+    "b0e2d925edbee4fb",
+    "4cb074330c0d5e71",
+    "008efb1a1c241933",
+    "09077da315aca3b6",
+    "0b50b9972a75b595",
+    "71787d596b0988ae",
+    "d5943124e0af8825",
+    "35ed9b32516b6825",
+    "7bdd9dd29cdc4224",
+    "b4ddaeab420a9419",
+    "c29bda92f9a5dcce",
+    "46c38e0da1afeace",
+    "fdc0dd2695a43e62",
+    "9bf2b6af359597c3",
+    "b4f1bfdbc841cf04",
+    "bbdde795c58f027f",
+    "b25da9675460f624",
+    "5cae9e51fe9ed60f",
+    "f0c48c3ec2ebbe93",
+    "31b1815991e3c01a",
+    "b66c9218bdc82c4f",
+    "da0e3fc43c3cfc53",
+    "7bd29508f01ae4ad",
+    "f54613a138dfbdb7",
+    "bc9a04094e732354",
+    "44d5a3b4170b6285",
+    "9f6c5c44cb9a7900",
+    "6d7f873b8c0d066a",
+    "4ba7a1cc05f503a4",
+    "cbc321377e6c31b8",
+    "c0beadf94072a655",
+    "6d00782af8116e94",
+    "ac746ca39df76792",
+    "d469456d9cba4c5e",
+    "848838ad510f6ceb",
+    "c84e7aa718b1d890",
+    "f02ae1a906771cc3",
+    "3f27ac6f0cf1440e",
+    "93dfd011bd05308a",
+    "eed11143abaa59e1",
+    "47c90cfd299e7300",
+    "e2d068fe45465378",
+    "bd2470d40431084c",
+    "6bb68e2fc65a6684",
+    "18bc610ce0674423",
+    "d52db236994aefc9",
+    "78a19138b27254f5",
+    "3236921f037b1aa4",
+    "1691fa03dc7a44e9",
+    "1c6067bb4bd1ca99",
+    "72a30d94ff6de5c3",
+    "095853bce0da4795",
+    "32327701d933b685",
+    "503df96b128aa7a1",
+    "e142d5be2e32908d",
+    "db5416f74cbf8fe9",
+    "c0600946c8db7cf6",
+    "5015ed59043e1573",
+    "8cb350947206ab64",
+    "df0e6ba05a1fc647",
+    "26c6f8a2f01d8dfa"
+   ]
+  },
+  {
+   "date": "2017-01-12",
+   "future": false,
+   "celex": "01969R1192-20170112",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime SECÇÃO I",
+    "Suprime Definições e âmbito de aplicação",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime SECÇÃO II",
+    "Suprime Regras comuns de normalização e de compensação",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime SECÇÃO III",
+    "Suprime Disposições finais",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime ANEXO I",
+    "Suprime A. Âmbito de aplicação",
+    "Suprime B. Princípio de cálculo",
+    "Suprime ANEXO II",
+    "Suprime B. Princípios de cálculo",
+    "Suprime ANEXO III",
+    "Suprime ANEXO IV",
+    "Suprime ANEXO V",
+    "Suprime Âmbito de aplicação",
+    "Suprime ANEXO VI",
+    "Suprime ANEXO VII",
+    "Suprime ANEXO VIII",
+    "Suprime ANEXO IX",
+    "Suprime ANEXO X",
+    "Suprime ANEXO XI",
+    "Suprime ANEXO XII",
+    "Suprime ANEXO XIII",
+    "Suprime ANEXO XIV",
+    "Suprime ANEXO XV",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "c9337654d4c95c86"
+   ]
+  }
+ ],
+ "fragments": {
+  "d45299daacd2e74a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 1192/69 do Conselho, de 26 de Junho de 1969, relativo às regras comuns para a normalização de contas das empresas de caminho-de-ferro** *Jornal Oficial nº L 156 de 28/06/1969 p. 0008 - 0020 Edição especial finlandesa: Capítulo 7 Fascículo 1 p. 0070 Edição especial dinamarquesa: Série I Capítulo 1969(I) p. 0264 Edição especial sueca: Capítulo 7 Fascículo 1 p. 0070 Edição especial inglesa: Série I Capítulo 1969(I) p. 0283 Edição especial grega: Capítulo 07 Fascículo 1 p. 0107 Edição especial espanhola: Capítulo 08 Fascículo 1 p. 0137 Edição especial portuguesa: Capítulo 08 Fascículo 1 p. 0137*\n\nREGULAMENTO (CEE) No 1192/69 DO CONSELHO de 26 de Junho de 1969 relativo às regras comuns para a normalização de contas das empresas de caminho de ferro\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 75o e 94o,\n\nTendo em conta a Decisão do Conselho, de 13 de Maio de 1965, relativa à harmonização de determinadas disposições com incidência sobre a concorrência no domínio dos transportes ferroviários, rodoviários e por via navegável (1),\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que um dos objectivos da política comum de transportes é a eliminação das disparidades que se verificam pelo facto de os poderes públicos imporem encargos ou concederem benefícios às empresas de caminho de ferro que podem levar a uma distorção substancial das condições de concorrência;\n\nConsiderando que, para esse efeito, deve iniciar-se uma acção que permita garantir a eliminação dos efeitos provocados por esses encargos ou benefícios, na perspectiva da realização da igualdade de tratamento para todos os modos de transporte; que essa acção, para determinadas categorias de encargos ou benefícios, pode consistir na sua eliminação a curto prazo; que, para outras categorias, essa acção deve ser prosseguida no âmbito de uma normalização das contas das empresas de caminho de ferro, caracterizada pela compensação financeira dos efeitos provocados por esses encargos ou benefícios;\n\nConsiderando que, no que diz respeito às categorias de encargos ou benefícios abrangidas pela acção de normalização, deve ser tomada, para algumas de entre elas, uma solução definitiva em conexão com a harmonização progressiva das regras que regulam as relações financeiras entre as empresas de caminho de ferro e os Estados, nos termos do artigo 8o da Decisão do Conselho, de 13 de Maio de 1965, relativa à harmonização de determinadas disposições com incidência sobre a concorrência no domínio dos transportes ferroviários, rodoviários e por via navegável; que, para estas categorias de encargos ou benefícios, convém, por conseguinte, aguardando a solução definitiva, deixar a cada Estado a faculdade de decidir caso a caso se deve ou não proceder-se à normalização, devendo esta, no entanto, em caso de decisão afirmativa, efectuar-se em conformidade com as regras comuns previstas no presente regulamento, nomeadamente no que diz respeito aos princípios de cálculo para a determinação da compensação financeira;\n\nConsiderando que, para se proceder, no âmbito da normalização das contas, às compensações financeiras que esta normalização é susceptível de provocar, é necessário determinar, antes de mais, quais os encargos suportados ou benefícios usufruídos pelas empresas de caminho de ferro em comparação com a situação em que estariam se actuassem nas mesmas condições que as empresas dos outros modos de transporte;\n\nConsiderando que, para essa determinação, é necessário definir as situações sobre as quais deve incidir a operação de normalização; que convém abranger todas as situações de facto existentes nos Estados-membros, com excepção, por um lado, das obrigações de serviço público referidas no Regulamento (CEE) no 1191/69 do Conselho, de 26 de Junho de 1969, relativo à acção dos Estados-membros em matéria de obrigações inerentes à noção de serviço público no domínio dos transportes ferroviários, rodoviários e por via navegável (4) e, por outro, das disparidades que se verificam no domínio dos encargos de infra-estrutura e dos encargos fiscais no regime dos três modos de transporte, disparidades que se destinam a ser eliminadas no âmbito das soluções projectadas em matéria de tarificação da infra-estrutura e aquando do ajustamento da fiscalidade geral e específica dos transportes;\n\nConsiderando que, representando cada situação de normalização um caso especial, convém fixar para cada um desses casos o âmbito de aplicação e os princípios de cálculo a aplicar para a determinação dos encargos ou benefícios impostos ou concedidos às empresas de caminho de ferro;\n\nConsiderando que, para determinar o montante desses encargos ou benefícios é necessária, em princípio, uma comparação entre o regime aplicado às empresas de caminho de ferro e o regime aplicado às empresas privadas dos outros modos de transporte;\n\nConsiderando que os encargos suportados pelas empresas de caminho de ferro são, geralmente, maiores do que os benefícios usufruídos e que tais empresas podem, além disso, fornecer facilmente os elementos contabilísticos necessários para a determinação de tais encargos ou benefícios; que é, por conseguinte, oportuno conceder-lhes um direito de iniciativa na matéria, embora deixando às autoridades competentes dos Estados-membros o cuidado de examinar, nas condições previstas no presente regulamento, os elementos que serviram de base para o estabelecimento do pedido das empresas, antes de fixar o montante da compensação; que convém conceder a essas autoridades um prazo para tomarem a sua decisão;\n\nConsiderando que, estando o pagamento das compensações ligado à preparação do orçamento do Estado ou das autoridades competentes, bem como ao das empresas de caminho de ferro, é oportuno fixar disposições especiais para o pagamento dos montantes estimados e para a liquidação do saldo;\n\nConsiderando que, para a clareza das contas e com o fim de dar uma publicidade adequada à sua normalização, convém prescrever que os montantes das compensações concedidas a título da normalização das contas constem de um quadro anexo ao balanço anual das empresas de caminho de ferro;\n\nConsiderando que é conveniente garantir que os Estados-membros ponham à disposição das empresas de caminho de ferro meios adequados que lhes permitam fazer valer os seus interesses face às decisões individuais tomadas pelos Estados-membros em execução do presente regulamento;\n\nConsiderando que a Comissão deve poder obter dos Estados-membros todas as informações úteis relativas à aplicação do presente regulamento;\n\nConsiderando que, uma vez que as compensações pagas em aplicação do presente regulamento são concedidas pelos Estados-membros em conformidade com regras comuns fixadas pelo presente regulamento, é necessário dispensar essas compensações do processo de informação prévio previsto no no 3 do artigo 93o do Tratado que institui a Comunidade Económica Europeia;\n\nConsiderando que a realização da política comum de transportes exige a aplicação imediata das disposições do presente regulamento às seis empresas nacionais de caminho de ferro; que o exame das condições de extensão da aplicação do presente regulamento a outras empresas de caminho de ferro pode ser diferido por alguns anos, em razão da posição destas empresas face, nomeadamente, às condições de concorrência nos transportes bem como à necessidade de proceder progressivamente à realização desta política comum;\n\nConsiderando que a operação de normalização não dispensa os Estados-membros do dever de eliminarem, eles próprios, na medida do possível, as causas de distorção existentes; que por essa acção não devem, todavia, tornar menos favorável, de direito ou de facto, a situação do pessoal das empresas de caminho de ferro e constituir obstáculo ou travão à melhoria das suas condições de vida e de trabalho,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1356bdfbad5f265a": {
+   "fragment_id": "SECÇÃO I — Definições e âmbito de aplicação",
+   "type": "divisao",
+   "heading": "SECÇÃO I — Definições e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Definições e âmbito de aplicação"
+  },
+  "c998787372c921ae": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. As contas das empresas de caminhos de ferro serão normalizadas de acordo com as regras comuns estabelecidas no presente regulamento.\n\n2. As compensações financeiras resultantes da normalização das contas prevista no no 1 serão efectuadas a partir de 1 de Janeiro de 1971, de acordo com os métodos comuns estabelecidos no presente regulamento."
+  },
+  "1b9264055d07e07a": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Para efeitos do disposto no presente regulamento, a normalização das contas das empresas de caminho de ferro consiste:\n\na) Em determinar os encargos suportados ou benefícios usufruídos pelas empresas de caminho de ferro, resultantes de disposições legislativas, regulamentares ou administrativas, em comparação com a situação em que estariam se actuassem nas mesmas condições que as empresas de outros modos de transporte;\n\nb) Em compensar financeiramente os encargos e os benefícios que resultam da determinação prevista na alínea a).\n\n2. Não serão considerados como encargos, para efeitos do disposto no presente regulamento, os que resultem de disposições legislativas, regulamentares ou administrativas, que reproduzam os resultados de negociações entre os parceiros sociais.\n\n3. A normalização das contas, na acepção do presente regulamento, não abrange as obrigações de serviço público impostas pelos Estados-membros e previstas no Regulamento (CEE) no 1191/69."
+  },
+  "cc94f4364ec5cb57": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. O presente regulamento aplica-se às seguintes empresas de caminho de ferro:\n\n- Societé nationale des chemins de fer belges (SNCB) / Nationale Maatschappij der Belgische Spoorwegen (NMBS);\n\n- Deutsche Bundesbahn (DB);\n\n- Société nationale des chemins de fer français (SNCF);\n\n- Azienda autonoma delle Ferrovie dello Stato (FS);\n\n- Société nacionale des chemins de fer luxembourgeois (CFL);\n\n- Naamloze Vennootschap Nederlandse Spoorwegen (NS).\n\n2. A Comissão apresentará ao Conselho, o mais tardar em 1 de Janeiro de 1973, as disposições que considerar necessárias, tendo em vista tornar extensiva a aplicação do presente regulamento a outras empresas que efectuem transportes ferroviários."
+  },
+  "f4a8947b73804b5e": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Constituem objecto da normalização das contas prevista no presente regulamento as seguintes categorias de encargos ou benefícios:\n\na) Pagamentos impostos às empresas de caminho de ferro, que, no que respeita ao resto da economia, incluindo os outros modos de transporte, são suportados pelo Estado (categoria I);\n\nb) Despesas de carácter social suportadas pelas empresas de caminho de ferro a título de abonos de família, diferentes das que suportariam se tivessem de contribuir nas mesmas condições que as empresas dos outros modos de transporte (categoria II);\n\nc) Encargos com reformas e pensões suportados pelas empresas de caminho de ferro em condições diferentes das que vigoram para as empresas dos outros modos de transporte (categoria III);\n\nd) Despesas suportadas pelas empresas de caminho de ferro com as instalações de cruzamento (categoria IV).\n\n2. As seguintes categorias de encargos ou benefícios existentes aquando da entrada em vigor do presente regulamento devem ser suprimidas o mais tardar em 1 de Janeiro de 1971:\n\na) Obrigação de recrutar pessoal para além das necessidades da empresa (categoria V);\n\nb) Aumento de remunerações imposto pelo governo de um Estado-membro, com efeito retroactivo, excepto no caso de o aumento de remunerações constituir apenas uma adaptação das remunerações pagas pelas empresas de caminhos de ferro às remunerações pagas pelos outros modos de transporte (categoria VI);\n\nc) Adiamento imposto pelas autoridades competentes no que diz respeito à renovação e conservação (categoria VII).\n\n3. A seguinte categoria de encargos ou benefícios existente aquando da entrada em vigor do presente regulamento deve ser suprimida o mais tardar em 1 de Janeiro de 1973:\n\nencargos de reconstrução ou de substituição em consequência de danos de guerra, suportados pela empresa de caminho de ferro e que deviam ter sido assumidos pelo Estado (categoria VIII).\n\nOs encargos financeiros resultantes dos empréstimos concedidos no âmbito desta categoria constituem objecto da normalização das contas, na acepção do presente regulamento, até à sua liquidação.\n\n4. As seguintes categorias de encargos ou benefícios existentes aquando da entrada em vigor do presente regulamento podem ser objecto da normalização das contas, na acepção do presente regulamento:\n\na) Obrigação de manter pessoal para além das necessidades da empresa (categoria IX);\n\nb) Medidas a favor do pessoal, impostas pelo Estado, a título de reconhecimento pelos serviços prestados ao seu país, em condições diferentes das que vigoram para as empresas dos outros modos de transporte (categoria X);\n\nc) Subsídios a favor do pessoal, obrigatórios para as empresas de caminho de ferro e a que não estão sujeitas as empresas dos outros modos de transporte (categoria XI);\n\nd) Despesas de carácter social suportadas, nomeadamente, a título de cuidados de saúde, pelas empresas de caminho de ferro, diferentes das que suportariam se tivessem de contribuir nas mesmas condições que as empresas dos outros modos de transporte (categoria XII);\n\ne) Encargos resultantes da manutenção, imposta pelo Estado, de oficinas ou outros estabelecimentos em condições não conformes com uma gestão comercial da empresa de caminho de ferro (categoria XIII);\n\nf) Condições impostas no caso de empreitadas de obras públicas e de contratos de fornecimento (categoria XIV).\n\nA seguinte categoria de encargos ou benefícios pode igualmente constituir objecto da normalização das contas, na acepção do presente regulamento:\n\nencargos financeiros resultantes da falta de normalização no passado (categoria XV).\n\nUma solução definitiva, no que diz respeito às categorias IX a XV, será adoptada pelo Conselho, o mais tardar aquando da adopção das medidas de execução do artigo 8o da Decisão do Conselho, de 13 de Maio de 1965, relativa à harmonização de determinadas disposições com incidência sobre a concorrência no domínio dos transportes ferroviários, rodoviários e por via navegável. Entretanto, os Estados-membros esforçar-se-ao por eliminar as causas desses encargos ou benefícios."
+  },
+  "fe94d74c69cd4780": {
+   "fragment_id": "SECÇÃO II — Regras comuns de normalização e de compensação",
+   "type": "divisao",
+   "heading": "SECÇÃO II — Regras comuns de normalização e de compensação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Regras comuns de normalização e de compensação"
+  },
+  "b9fe3a31df83d80a": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os encargos ou benefícios das empresas de caminho de ferro que devem ou podem constituir objecto da normalização das contas serão determinados com base nas disposições dos anexos, os quais fazem parte integrante do presente regulamento.\n\n2. Sempre que, para uma categoria que deva ser normalizada, o regime aplicado às empresas de caminho de ferro for comparado com o dos outros modos de transporte, a comparação far-se-á unicamente com as empresas privadas dos outros modos de transporte."
+  },
+  "fe748b2bf4032127": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. O montante bruto das compensações será determinado, para cada categoria de normalização, aplicando os princípios de cálculo indicados no anexo correspondente à categoria em causa.\n\nO montante líquido obter-se-á eliminando, nos elementos de cálculo dos montantes brutos, para as diversas categorias, as parcelas com dupla imputação.\n\n2. Quando o cálculo efectuado em conformidade com as disposições referidas em anexo para cada categoria de normalização der origem a um encargo para a empresa de caminho de ferro, esta terá direito à correspondente compensação financeira, por parte da autoridade pública.\n\nQuando esse cálculo der origem a um benefício para a empresa de caminho de ferro, esta será devedora da correspondente compensação financeira à autoridade pública."
+  },
+  "67842e2791f78ace": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. As empresas de caminho de ferro apresentarão anualmente às autoridades competentes um pedido de normalização, em aplicação das disposições do presente regulamento.\n\n2. Este pedido incluirá:\n\na) Por um lado, os elementos para o exercício orçamental seguinte, calculados de acordo com as disposições legislativas, regulamentares e administrativas em vigor no momento da apresentação do pedido;\n\nb) Por outro lado, os elementos necessários para a rectificação dos montantes pagos com base em previsões para o exercício cujos resultados definitivos sejam conhecidos.\n\n3. Este pedido, que deve ser feito atempadamente para permitir a inscrição dos créditos necessários no orçamento da autoridade pública, conterá todas as justificações úteis, nomeadamente no que se refere a:\n\na) Encargos ou benefícios para cada categoria de normalização;\n\nb) Método de cálculo aplicado para cada categoria considerada;\n\nc) Montantes brutos e líquidos referidos no no 1 do artigo 6o, para cada categoria considerada. No que diz respeito ao estabelecimento das previsões referidas na alínea a) do no 2, esses montantes serão calculados com base nos dados contabilísticos do último exercício cujos resultados sejam definitivos e tendo em conta as modificações verificadas em cada categoria de normalização até à apresentação do pedido."
+  },
+  "625762e5562ddb33": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. As autoridades competentes dos Estados-membros examinarão os elementos que serviram de base para a formulação do pedido da empresa de caminho de ferro.\n\n2. Depois de terem dado à empresa interessada a possibilidade de apresentar as suas observações, as autoridades competentes dos Estados-membros podem:\n\n- rectificar os montantes das compensações e alterar outros elementos do pedido quando as disposições do presente regulamento não tenham sido cumpridas;\n\n- incluir no pedido outros encargos ou benefícios resultantes de uma das categorias previstas no artigo 4o.\n\n3. As autoridades competentes fixarão, em conformidade com as disposições do presente regulamento, o montante estimado da compensação para o exercício seguinte, bem como o montante definitivo da compensação para o exercício anterior cujo resultado final é conhecido. Esta decisão indicará igualmente os elementos de cálculo que serviram para determinar esses montantes.\n\n4. As autoridades competentes notificarão a sua decisão à empresa de caminho de ferro o mais tardar seis meses após a recepção do pedido.\n\nSe as autoridades competentes não tomarem qualquer decisão neste prazo, o pedido da empresa considerar-se-á aceite a título de previsão."
+  },
+  "1492dcf5b9101bfd": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros pagarão o montante estimado das compensações, fixado por força do artigo 8o, durante o exercício orçamental para que foi estabelecida a estimativa.\n\nDurante esse mesmo exercício, os Estados-membros pagarão ou receberão o saldo da compensação resultante da diferença entre o montante definitivo da compensação e os montantes estimados já pagos a esse título para o exercício anterior definitivamente encerrado."
+  },
+  "c879222277d08cb6": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. Os montantes das compensações financeiras para cada categoria de normalização constarão de um quadro anexo ao balanço anual da empresa de caminho de ferro. Este quadro conterá os montantes das compensações financeiras, respectivamente recebidos a título de previsão e recebidos ou pagos em liquidação do saldo, nos termos do artigo 9o.\n\nEste quadro conterá igualmente, para cada obrigação de serviço público, os montantes das compensações concedidas em aplicação das disposições do Regulamento (CEE) no 1191/69.\n\n2. O montante total das compensações recebidas em resultado da normalização das contas e das compensações recebidas a título de obrigações de serviço público será inscrito na conta de exploração ou na conta de ganhos e perdas da empresa de caminho de ferro, de acordo com as disposições nacionais em vigor."
+  },
+  "ec3dca9e31c1683a": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nAs decisões das autoridades competentes dos Estados-membros tomadas em aplicação das disposições do presente regulamento serão fundamentadas e objecto de uma publicação oficial."
+  },
+  "66a7c79d21bb1670": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nOs Estados-membros garantirão às empresas de caminho de ferro, e nesta qualidade, a possibilidade de fazerem valer os seus interesses por meios adequados, contra as decisões tomadas em aplicação das disposições do presente regulamento."
+  },
+  "59801846c2d2150f": {
+   "fragment_id": "SECÇÃO III — Disposições finais",
+   "type": "divisao",
+   "heading": "SECÇÃO III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Disposições finais"
+  },
+  "aee3d021a7a8e83c": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. A Comissão pode pedir aos Estados-membros todas as informações úteis sobre a aplicação do presente regulamento. A Comissão procederá a uma consulta dos Estados-membros interessados sempre que o considerar necessário.\n\n2. As compensações que resultam da aplicação do presente regulamento serão dispensadas do processo de informação prévia previsto no no 3 do artigo 93o do Tratado que institui a Comunidade Económica Europeia.\n\nOs Estados-membros comunicarão imediatamente à Comissão, para cada categoria de encargos ou benefícios referidos no presente regulamento, os montantes efectivamente pagos a título de compensação."
+  },
+  "e0d3118f4658b6d9": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. Os Estados-membros adoptarão em tempo útil, após consulta da Comissão, as disposições legislativas, regulamentares ou administrativas necessárias à execução do presente regulamento.\n\n2. Se um Estado-membro o pedir, ou se a Comissão o considerar oportuno, a Comissão procederá a consultas com os Estados-membros interessados sobre os projectos relativos às disposições referidas no no 1.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo em 26 de Junho de 1969.\n\nPelo Conselho\n\nO Presidente\n\nG. THORN\n\n(1) JO no 88 de 24. 5. 1965, p. 1500/65.(2) JO no C 135 de 14. 12. 1968, p. 34.(3) JO no C 118 de 11. 11. 1968, p. 7.(4) JO no L 156 de 28. 6. 1969, p. 1."
+  },
+  "b1da9ac7fa5abd28": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nCategoria I: Pagamentos impostos às empresas de caminho de ferro, que, no que respeita ao resto da economia, incluindo os outros modos de transporte, são suportados pelo Estado\n\nA. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição legislativa, regulamentar ou administrativa, uma empresa de caminho de ferro suporta ela própria determinados pagamentos que, no que respeita ao resto da economia, incluindo as empresas de outros modos de transporte, são total ou parcialmente suportados pelo Estado. Estes pagamentos consistem, nomeadamente, em indemnizações para reparação de danos resultantes de acidentes de trabalho ou em abonos especiais para os filhos dos trabalhadores.\n\nB. Princípio de cálculo\n\nA compensação corresponderá ao montante que o Estado teria suportado se se tratasse de uma empresa de qualquer outro sector da economia, incluindo os outros modos de transporte."
+  },
+  "08e62e4446545904": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nCategoria II: Despesas de carácter social suportadas pelas empresas de caminho de ferro a título de abonos de família, diferentes das que suportariam se tivessem de contribuir nas mesmas condições que as empresas dos outros modos de transporte\n\nA. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição legislativa, regulamentar ou administrativa, uma empresa de caminho de ferro é obrigada a efectuar directamente, ou por intermédio de um organismo especializado, os pagamentos de abonos de família.\n\nB. Princípios de cálculo\n\nO encargo a normalizar será igual à diferença entre:\n\na) O montante dos subsídios de direito comum pagos pela empresa de caminho de ferro e\n\nb) Este mesmo montante corrigido pela:\n\n- relação entre o número de chefes de família e o pessoal em actividade tanto na empresa de caminho de ferro como no conjunto das empresas que contribuem para o organismo tomado como referência;\n\n- relação entre o número médio de pessoas a cargo do chefe de família tanto na empresa de caminho de ferro como no conjunto das empresas que contribuem para o organismo tomado como referência."
+  },
+  "fb9f906ad4724bb8": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nCategoria III: Encargos com reformas e pensões suportados pelas empresas de caminho de ferro em condições diferentes das que vigoram para as empresas dos outros modos de transporte\n\nA. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição legislativa, regulamentar ou administrativa, uma empresa de caminho de ferro é obrigada a assegurar os encargos com reformas e pensões do seu pessoal e de outras pessoas que a ela tenham direito em condições diferentes das empresas dos outros modos de transporte.\n\nAs condições diferentes que dão origem a encargos diferentes resultam:\n\n1. Do facto de os caminhos de ferro serem obrigados a pagar directa e totalmente as pensões existentes, enquanto as empresas dos outros modos de transporte contribuem para um organismo em função do número e do nível das remunerações do pessoal em actividade; ou\n\n2. Do facto de o pessoal dos caminhos de ferro beneficiar da aplicação de determinadas disposições especiais a que os outros modos de transporte não estão sujeitos, e que dão origem a encargos suplementares ou benefícios para os caminhos de ferro.\n\nB. Princípios de cálculo\n\n1. No que diz respeito aos encargos referidos em A.1., a compensação será igual à diferença entre o encargo suportado pela empresa e aquele que ela suportaria se estivesse sujeita, com o mesmo pessoal em actividade e as mesmas remunerações, quer ao regime geral (regime geral de segurança social e regimes complementares obrigatórios), quer ao regime dos outros modos de transporte. No caso em que estes regimes não ofereçam uma base de comparação, tomar-se-á por base o regime de reformas e de pensões de uma empresa representativa no domínio dos transportes.\n\nO encargo suportado pela empresa de caminho de ferro é apurado directamente da contabilidade.\n\nO encargo que a empresa suportaria se estivesse sujeita, com o mesmo pessoal em actividade e as mesmas remunerações, ao regime de referência, é determinado pela aplicação das disposições legislativas, regulamentares e administrativas que regulam esse regime.\n\n2. No que diz respeito aos encargos referidos em A.2., a compensação será igual:\n\na) Quer à diferença entre:\n\n- o encargo suportado pela empresa e que é apurado directamente da contabilidade desta; e,\n\n- os benefícios, directos ou indirectos, por comparação com os outros modos de transporte que, resultam para a empresa da aplicação das disposições especiais mencionadas em A.2.;\n\nb) Quer à diferença entre:\n\n- os encargos que a empresa suporta ou suportaria para cobrir o conjunto de encargos do regime de reformas e de pensões ao qual está sujeita; e\n\n- os encargos que resultariam da aplicação do regime de referência.\n\n3. Se uma regulamentação interna diferente, com a mesma finalidade, conduzir a resultados idênticos aos decorrentes da aplicação dos nos 1 e 2, a compensação pode ser calculada em conformidade com essa regulamentação.\n\n4. Os Estados-membros comunicarão à Comissão, antes de 31 de Dezembro de 1970, o montante estimado das compensações que se propõem pagar, em aplicação destes princípios, à sua empresa de caminho de ferro.\n\nA Comissão apresentará um relatório sobre este assunto antes de 31 de Dezembro de 1971. Com base nesse relatório, e o mais tardar aquando da adopção das medidas de execução do artigo 8o da Decisão do Conselho, de 13 de Maio de 1965, relativa à harmonização de determinadas disposições com incidência sobre a concorrência no domínio dos transportes ferroviários, rodoviários e por via navegável, o Conselho decidirá as acções a empreender na matéria."
+  },
+  "cd976504a5d29625": {
+   "fragment_id": "ANEXO IV — Categoria IV: Despesas suportadas pelas empresas de caminho de ferro com as instalações de cruzamento",
+   "type": "divisao",
+   "heading": "ANEXO IV — Categoria IV: Despesas suportadas pelas empresas de caminho de ferro com as instalações de cruzamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Categoria IV: Despesas suportadas pelas empresas de caminho de ferro com as instalações de cruzamento\n\nA. Âmbito de aplicação\n\nEsta categoria compreende os casos em que, por força de uma disposição legislativa, regulamentar ou administrativa, uma empresa de caminho de ferro suporta uma parte anormalmente elevada dos encargos de construção e de exploração das instalações comuns ao caminho de ferro e a outros modos de transporte.\n\nConsidera-se parte anormalmente elevada:\n\na) No caso de construção de uma nova estrada,\n\no facto de a empresa de caminho de ferro suportar os encargos inerentes à instalação de um cruzamento para uma nova estrada de circulação, que a empresa não solicitou;\n\nb) No caso de modernização de uma passagem superior ou inferior e no caso de substituição de uma passagem de nível por uma passagem superior ou inferior,\n\no facto de a empresa de caminho de ferro suportar os encargos de uma modernização que não solicitou, deduzindo, por um lado, o custo suplementar relativo às modificações que ela, no seu próprio interesse, efectuou, e, por outro, os benefícios resultantes da modernização;\n\nc) No caso de modernização de uma passagem de nível,\n\no facto de a empresa de caminho de ferro suportar mais de metade dos encargos;\n\nd) No caso de renovação, manutenção e funcionamento,\n\n- de passagens superiores ou inferiores,\n\no facto de a empresa de caminho de ferro suportar encargos superiores aos correspondentes à sua participação nos encargos de construção ou de modernização das instalações de cruzamento, de acordo com os princípios referidos nas alíneas a) e b);\n\n- de passagem de nível,\n\no facto de a empresa de caminho de ferro suportar mais de metade dos encargos.\n\nB. Princípios de cálculo\n\nO montante da compensação será determinado da seguinte forma:\n\n\"\" ID=\"1\">para o caso referido na alínea a):> ID=\"2\">O montante da compensação corresponderá à parte dos encargos suportada pela empresa de caminho de ferro que não tenha solicitado a nova estrada em questão, deduzindo o custo suplementar provocado por eventuais adaptações pedidas pela empresa de caminho de ferro;\"> ID=\"1\">para o caso referido na alínea b):> ID=\"2\">O montante da compensação corresponderá à parte dos encargos suportada pela empresa de caminho de ferro que não tenha solicitado a modernização da obra de arte em questão, deduzindo, por um lado, o custo suplementar relativo às modificações pedidas pela empresa de caminho de ferro, e, por outro, os benefícios eventualmente resultantes dos referidos trabalhos; estes benefícios serão avaliados, no caso da substituição de uma passagem de nível por uma passagem superior ou inferior, tendo em conta compensações que a empresa de caminho de ferro já recebeu relativamente à passagem de nível;\"> ID=\"1\">para o caso referido na alínea c):> ID=\"2\">O montante da compensação corresponderá à parte dos encargos suportada pela empresa de caminho de ferro que excede a metade que lhe cabe suportar;\"> ID=\"1\" ASSV=\"2\">para o caso referido na alínea d):> ID=\"2\">- No caso de passagens superiores ou inferiores, o montante da compensação corresponderá à parte dos encargos suportada pela empresa de caminho de ferro que excede a sua participação nos encargos de construção ou de modernização das instalações de cruzamento, em conformidade com os princípios de cálculo indicados para os casos referidos nas alíneas a) e b);\"> ID=\"2\">- no caso das passagens de nível, o montante da compensação corresponderá à parte dos encargos suportada pela empresa de caminho de ferro que excede a metade que lhe cabe suportar.\">"
+  },
+  "531d71afeebea090": {
+   "fragment_id": "ANEXO V — Categoria V: Obrigação de recrutar pessoal para além das necessidades da empresa",
+   "type": "divisao",
+   "heading": "ANEXO V — Categoria V: Obrigação de recrutar pessoal para além das necessidades da empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — Categoria V: Obrigação de recrutar pessoal para além das necessidades da empresa\n\nÂmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição legislativa, regulamentar ou administrativa, uma empresa de caminho de ferro é obrigada a recrutar pessoal para além das suas necessidades reais."
+  },
+  "6553d3868b7c1f5b": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI\n\nCategoria VI: Aumento de remunerações imposto pelo governo de um Estado-membro, com efeito retroactivo, excepto no caso de o aumento de remunerações constituir apenas uma adaptação das remunerações pagas pelas empresas de caminho de ferro às remunerações pagas pelos outros modos de transporte\n\nÂmbito de aplicação\n\nEsta categoria compreende os casos em que, por força de uma medida do governo, uma empresa de caminho de ferro é obrigada a aumentar, com efeito retroactivo, as remunerações do seu pessoal, sem que o montante das importâncias pagas com efeitos retroactivos possa ser tomado em consideração no preço de venda e desde que encargos análogos não sejam assumidos pelas empresas dos outros modos de transporte."
+  },
+  "a28271299d4ddeab": {
+   "fragment_id": "ANEXO VII — Categoria VII: Adiamento imposto pelas autoridades competentes no que diz respeito à renovação e conservação",
+   "type": "divisao",
+   "heading": "ANEXO VII — Categoria VII: Adiamento imposto pelas autoridades competentes no que diz respeito à renovação e conservação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — Categoria VII: Adiamento imposto pelas autoridades competentes no que diz respeito à renovação e conservação\n\nÂmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma decisão da autoridade pública, uma empresa de caminho de ferro é obrigada a reduzir as despesas de renovação e conservação para um nível inferior ao necessário para a continuidade da actividade da empresa.\n\nEsta intervenção tem como consequência o facto de as despesas, nos exercícios em que os trabalhos em atraso devem ser recuperados, atingirem um nível anormal. Desta situação resulta um encargo quando a empresa de caminho de ferro não puder, durante esses exercícios, proceder a um aumento das quantias destinadas à cobertura das despesas de conservação e de renovação."
+  },
+  "610aa82a09011917": {
+   "fragment_id": "ANEXO VIII",
+   "type": "divisao",
+   "heading": "ANEXO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII\n\nCategoria VIII: Encargos de reconstrução ou de substituição em consequência de danos de guerra, suportados pela empresa de caminho de ferro e que deviam ter sido assumidos pelo Estado\n\nA. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição legislativa, regulamentar ou administrativa, uma empresa de caminho de ferro é obrigada a suportar, em condições diferentes das que vigoram para as empresas dos outros modos de transporte, os encargos de reconstrução ou de substituição ocasionados pelos danos de guerra.\n\nB. Princípios de cálculo\n\nO montante será determinado pela comparação das condições em que estes encargos recaíram sobre o caminho de ferro e sobre as empresas de outros modos de transporte, tendo em conta, se necessário, as despesas indirectas suportadas pelas empresas de caminho de ferro, em razão de natureza especial da actividade ferroviária.\n\nOs encargos a tomar em consideração dizem respeito a:\n\na) Despesas directas de reconstrução ou de substituição;\n\nb) Encargos financeiros devidos à reconstrução ou à substituição.\n\nO montante da compensação é apurado directamente da contabilidade da empresa de caminho de ferro.\n\nSempre que um empréstimo tiver sido contraído para fazer igualmente face a outras despesas, o encargo será determinado com base na parte do empréstimo destinada à reconstrução ou à substituição."
+  },
+  "a076153ec67345c3": {
+   "fragment_id": "ANEXO IX — Categoria IX: Obrigação de manter pessoal para além das necessidades da empresa",
+   "type": "divisao",
+   "heading": "ANEXO IX — Categoria IX: Obrigação de manter pessoal para além das necessidades da empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX — Categoria IX: Obrigação de manter pessoal para além das necessidades da empresa\n\nA. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição da autoridade pública, uma empresa de caminho de ferro é obrigada:\n\na) A manter em actividade pessoal excedentário cujo despedimento seria possível por força de disposições respeitantes ao pessoal;\n\nb) Em consequência de disposições do estatuto do pessoal, não aprovadas pelas empresas de caminho de ferro, a não despedir pessoal tornado dispensável por medidas de racionalização da exploração e cuja utilização em outras tarefas não se justifica.\n\nB. Princípios de cálculo\n\nO encargo que resulta da manutenção em actividade do pessoal excedentário depende do número de pessoas abrangidas pela medida considerada.\n\nPara o caso referido na alínea a): O número de pessoas a despedir será proposto pela empresa. O número de pessoas mantidas ao serviço será fixado por decisão da autoridade competente. As despesas referentes a este pessoal serão compensadas enquanto este pessoal permanecer excedentário.\n\nPara o caso referido na alínea b): O número de pessoas excedentárias a tomar em consideração para o cálculo será indicado pela empresa de caminho de ferro. Esse número será igual ao número de pessoas tornadas disponíveis pelas medidas de racionalização, tendo em conta a possibilidade de recolocar este pessoal, durante o ano em que as medidas de racionalização produzirem efeitos, nos lugares deixados vagos por reforma ou em novos lugares criados.\n\nO montante do encargo que daí resulta corresponderá à soma dos salários, subsídios e encargos sociais de cada pessoa mantida ao serviço ou de cada categoria homogénea de pessoas. Neste último caso, o montante pode ser calculado com base no encargo médio referente a cada categoria homogénea de pessoas."
+  },
+  "653379c3ecfd08c0": {
+   "fragment_id": "ANEXO X",
+   "type": "divisao",
+   "heading": "ANEXO X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO X\n\nCategoria X: Medidas a favor do pessoal, impostas pelo Estado, a título de reconhecimento pelos serviços prestados ao seu país, em condições diferentes das que vigoram para as empresas dos outros modos de transporte\n\nA. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição legislativa, regulamentar ou administrativa, uma empresa de caminho de ferro é obrigada a tomar medidas especiais, tais como subsídios, prémios de antiguidade, promoções suplementares ou licenças especiais, a favor do pessoal que prestou serviço nas forças armadas ou que prestou serviços de relevância para o país.\n\nB. Princípios de cálculo\n\nA compensação corresponderá ao montante dos benefícios especiais impostos à empresa a favor do pessoal em causa.\n\nNo que diz respeito a promoções suplementares, apenas serão tomadas em consideração as que são concedidas para além dos lugares fixados no organigrama.\n\nA compensação pode ser calculada de duas maneiras diferentes, conforme o número de pessoas em causa:\n\na) O cálculo faz-se caso a caso; ou\n\nb) Por categorias homogéneas de pessoas, determinando-se para cada categoria, o acréscimo médio dos encargos por pessoa e o número anual de beneficiários."
+  },
+  "ed1872ea2edc8545": {
+   "fragment_id": "ANEXO XI",
+   "type": "divisao",
+   "heading": "ANEXO XI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XI\n\nCategoria XI: Subsídios a favor do pessoal, obrigatórios para as empresas de caminho de ferro e a que não estão sujeitas as empresas dos outros modos de transporte\n\nA. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição legislativa, regulamentar ou administrativa, uma empresa de caminho de ferro é obrigada a conceder a todo ou a parte do seu pessoal no activo ou em disponibilidade subsídios que não são obrigatórios para as empresas dos outros modos de transporte. Estes subsídios incluem, nomeadamente, os abonos de família suplementares ou o subsídio complementar de férias.\n\nB. Princípio de cálculo\n\nA compensação será igual ao montante dos encargos impostos à empresa."
+  },
+  "362162eb2afc3073": {
+   "fragment_id": "ANEXO XII",
+   "type": "divisao",
+   "heading": "ANEXO XII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XII\n\nCategoria XII: Despesas de natureza social suportadas, nomeadamente, a título de cuidados de saúde, pelas empresas de caminho de ferro, diferentes das que suportariam se tivessem de contribuir nas mesmas condições que as empresas dos outros modos de transporte\n\nA. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição da autoridade pública, uma empresa de caminho de ferro é obrigada a garantir directamente, ou por intermédio de um organismo especializado, determinadas prestações tais como as respeitantes aos cuidados de saúde.\n\nB. Princípios de cálculo\n\nA compensação corresponderá à diferença entre o montante do encargo suportado realmente pela empresa e o encargo que ela suportaria se estivesse inscrita no organismo tomado como referência, tendo em conta os benefícios que concede por sua própria iniciativa.\n\nNo que diz respeito aos cuidados de saúde, a compensação calcular-se-á do seguinte modo: o encargo suportado pela empresa de caminho de ferro será apurado directamente da contabilidade. O encargo que a empresa suportaria se estivesse sujeita, com o mesmo pessoal em actividade e as mesmas remunerações, ao regime de referência será determinado pela aplicação das disposições legislativas, regulamentares ou administrativas que regulam este regime. As despesas correspondentes aos benefícios suplementares em relação ao regime de referência, que a empresa de caminho de ferro concede de sua própria vontade ao seu pessoal, serão deduzidas da diferença entre os dois montantes assim obtidos."
+  },
+  "1bf2be4f09baae0c": {
+   "fragment_id": "ANEXO XIII",
+   "type": "divisao",
+   "heading": "ANEXO XIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XIII\n\nCategoria XIII: Encargos resultantes da manutenção, imposta pelo Estado, de oficinas ou outros estabelecimentos em condições não conformes com uma gestão comercial da empresa de caminho de ferro\n\nA. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma decisão da autoridade pública, uma empresa de caminho de ferro é obrigada, por razões de política social ou regional, a manter oficinas ou outros estabelecimentos que já não se justificam pelas necessidades de exploração.\n\nB. Princípios de cálculo\n\nA compensação corresponderá ao encargo que resulta da manutenção imposta. Os elementos que permitem determinar este encargo serão apurados da contabilidade da empresa de caminho de ferro."
+  },
+  "c9646e96dcfc419e": {
+   "fragment_id": "ANEXO XIV — Categoria XIV: Condições impostas no caso de empreitadas de obras públicas e de contratos de fornecimento",
+   "type": "divisao",
+   "heading": "ANEXO XIV — Categoria XIV: Condições impostas no caso de empreitadas de obras públicas e de contratos de fornecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XIV — Categoria XIV: Condições impostas no caso de empreitadas de obras públicas e de contratos de fornecimento\n\nA. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição da autoridade pública, uma empresa de caminho de ferro é obrigada a celebrar uma parte dos seus contratos de empreitada de obras públicas e de fornecimento com empresas nacionais situadas em certas regiões do Estado-membro ou com certas categorias de empresários nacionais.\n\nB. Princípios de cálculo\n\nA comparação far-se-á entre o preço praticado pelo adjudicatário escolhido para o contrato e o preço da proposta economicamente mais favorável para esse mesmo contrato ou, na falta de tal proposta, para um contrato semelhante.\n\nO montante da compensação resultará da diferença entre esses dois preços."
+  },
+  "1e5252f93172b1fb": {
+   "fragment_id": "ANEXO XV — Categoria XV: Encargos financeiros resultantes de falta de normalização no passado",
+   "type": "divisao",
+   "heading": "ANEXO XV — Categoria XV: Encargos financeiros resultantes de falta de normalização no passado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XV — Categoria XV: Encargos financeiros resultantes de falta de normalização no passado\n\nA. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma intervenção da autoridade pública, o orçamento de uma empresa de caminho de ferro inclui encargos financeiros relativos a empréstimos contraídos ou a pagamentos antecipados recebidos das autoridades competentes, por motivo de decisões tomadas no passado por essas autoridades não compatíveis com os princípios de normalização previstos no presente regulamento.\n\nB. Princípios de cálculo\n\nOs referidos encargos anuais podem ser assumidos pelas autoridades competentes no seu próprio orçamento ou podem ser incluídos na normalização no âmbito do presente regulamento. Neste último caso, a normalização deve incidir sobre o montante dos encargos existentes resultantes dos empréstimos contraídos ou de pagamentos antecipados reembolsáveis recebidos das autoridades competentes e que constem do orçamento da empresa de caminho de ferro.\n\nO montante destes encargos será apurado da contabilidade da empresa de caminho de ferro."
+  },
+  "9d60c54cfe37773c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Junho de 1969\n\nrelativo às regras comuns para a normalização de contas das empresas de caminho de ferro\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 75.º e 94.º,\n\nTendo em conta a Decisão do Conselho, de 13 de Maio de 1965, relativa à harmonização de determinadas disposições com incidência sobre a concorrência no domínio dos transportes ferroviários, rodoviários e por via navegável ([^1^](http://publications.europa.eu/resource/cellar/e4b86006-d62e-4269-9b53-4cd68296809d.0018.03/DOC_1#E0001)),\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/e4b86006-d62e-4269-9b53-4cd68296809d.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/e4b86006-d62e-4269-9b53-4cd68296809d.0018.03/DOC_1#E0003)),\n\nConsiderando que um dos objectivos da política comum de transportes é a eliminação das disparidades que se verificam pelo facto de os poderes públicos imporem encargos ou concederem benefícios às empresas de caminho de ferro que podem levar a uma distorção substancial das condições de concorrência;\n\nConsiderando que, para esse efeito, deve iniciar-se uma acção que permita garantir a eliminação dos efeitos provocados por esses encargos ou benefícios, na perspectiva da realização da igualdade de tratamento para todos os modos de transporte; que essa acção, para determinadas categorias de encargos ou benefícios, pode consistir na sua eliminação a curto prazo; que, para outras categorias, essa acção deve ser prosseguida no âmbito de uma normalização das contas das empresas de caminho de ferro, caracterizada pela compensação financeira dos efeitos provocados por esses encargos ou benefícios;\n\nConsiderando que, no que diz respeito às categorias de encargos ou benefícios abrangidas pela acção de normalização, deve ser tomada, para algumas de entre elas, uma solução definitiva em conexão com a harmonização progressiva das regras que regulam as relações financeiras entre as empresas de caminho de ferro e os Estados, nos termos do artigo 8.º da Decisão do Conselho, de 13 de Maio de 1965, relativa à harmonização de determinadas disposições com incidência sobre a concorrência no domínio dos transportes ferroviários, rodoviários e por via navegável; que, para estas categorias de encargos ou benefícios, convém, por conseguinte, aguardando a solução definitiva, deixar a cada Estado a faculdade de decidir caso a caso se deve ou não proceder-se à normalização, devendo esta, no entanto, em caso de decisão afirmativa, efectuar-se em conformidade com as regras comuns previstas no presente regulamento, nomeadamente no que diz respeito aos princípios de cálculo para a determinação da compensação financeira;\n\nConsiderando que, para se proceder, no âmbito da normalização das contas, às compensações financeiras que esta normalização é susceptível de provocar, é necessário determinar, antes de mais, quais os encargos suportados ou benefícios usufruídos pelas empresas de caminho de ferro em comparação com a situação em que estariam se actuassem nas mesmas condições que as empresas dos outros modos de transporte;\n\nConsiderando que, para essa determinação, é necessário definir as situações sobre as quais deve incidir a operação de normalização; que convém abranger todas as situações de facto existentes nos Estados-membros, com excepção, por um lado, das obrigações de serviço público referidas no Regulamento (CEE) n.º 1191/69 do Conselho, de 26 de Junho de 1969, relativo à acção dos Estados-membros em matéria de obrigações inerentes à noção de serviço público no domínio dos transportes ferroviários, rodoviários e por via navegável ([^4^](http://publications.europa.eu/resource/cellar/e4b86006-d62e-4269-9b53-4cd68296809d.0018.03/DOC_1#E0004)) e, por outro, das disparidades que se verificam no domínio dos encargos de infra-estrutura e dos encargos fiscais no regime dos três modos de transporte, disparidades que se destinam a ser eliminadas no âmbito das soluções projectadas em matéria de tarificação da infra-estrutura e aquando do ajustamento da fiscalidade geral e específica dos transportes;\n\nConsiderando que, representando cada situação de normalização um caso especial, convém fixar para cada um desses casos o âmbito de aplicação e os princípios de cálculo a aplicar para a determinação dos encargos ou benefícios impostos ou concedidos às empresas de caminho de ferro;\n\nConsiderando que, para determinar o montante desses encargos ou benefícios é necessária, em princípio, uma comparação entre o regime aplicado às empresas de caminho de ferro e o regime aplicado às empresas privadas dos outros modos de transporte;\n\nConsiderando que os encargos suportados pelas empresas de caminho de ferro são, geralmente, maiores do que os benefícios usufruídos e que tais empresas podem, além disso, fornecer facilmente os elementos contabilísticos necessários para a determinação de tais encargos ou benefícios; que é, por conseguinte, oportuno conceder-lhes um direito de iniciativa na matéria, embora deixando às autoridades competentes dos Estados-membros o cuidado de examinar, nas condições previstas no presente regulamento, os elementos que serviram de base para o estabelecimento do pedido das empresas, antes de fixar o montante da compensação; que convém conceder a essas autoridades um prazo para tomarem a sua decisão;\n\nConsiderando que, estando o pagamento das compensações ligado à preparação do orçamento do Estado ou das autoridades competentes, bem como ao das empresas de caminho de ferro, é oportuno fixar disposições especiais para o pagamento dos montantes estimados e para a liquidação do saldo;\n\nConsiderando que, para a clareza das contas e com o fim de dar uma publicidade adequada à sua normalização, convém prescrever que os montantes das compensações concedidas a título da normalização das contas constem de um quadro anexo ao balanço anual das empresas de caminho de ferro;\n\nConsiderando que é conveniente garantir que os Estados-membros ponham à disposição das empresas de caminho de ferro meios adequados que lhes permitam fazer valer os seus interesses face às decisões individuais tomadas pelos Estados-membros em execução do presente regulamento;\n\nConsiderando que a Comissão deve poder obter dos Estados-membros todas as informações úteis relativas à aplicação do presente regulamento;\n\nConsiderando que, uma vez que as compensações pagas em aplicação do presente regulamento são concedidas pelos Estados-membros em conformidade com regras comuns fixadas pelo presente regulamento, é necessário dispensar essas compensações do processo de informação prévio previsto no n.º 3 do artigo 93.º do Tratado que institui a Comunidade Económica Europeia;\n\nConsiderando que a realização da política comum de transportes exige a aplicação imediata das disposições do presente regulamento às seis empresas nacionais de caminho de ferro; que o exame das condições de extensão da aplicação do presente regulamento a outras empresas de caminho de ferro pode ser diferido por alguns anos, em razão da posição destas empresas face, nomeadamente, às condições de concorrência nos transportes bem como à necessidade de proceder progressivamente à realização desta política comum;\n\nConsiderando que a operação de normalização não dispensa os Estados-membros do dever de eliminarem, eles próprios, na medida do possível, as causas de distorção existentes; que por essa acção não devem, todavia, tornar menos favorável, de direito ou de facto, a situação do pessoal das empresas de caminho de ferro e constituir obstáculo ou travão à melhoria das suas condições de vida e de trabalho,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "19572906891c0646": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO I"
+  },
+  "31fed25364cd7b3e": {
+   "fragment_id": "Definições e âmbito de aplicação",
+   "type": "divisao",
+   "heading": "Definições e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Definições e âmbito de aplicação"
+  },
+  "b0e2d925edbee4fb": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. As contas das empresas de caminhos de ferro serão normalizadas de acordo com as regras comuns estabelecidas no presente regulamento.\n\n2. As compensações financeiras resultantes da normalização das contas prevista no n.º 1 serão efectuadas a partir de 1 de Janeiro de 1971, de acordo com os métodos comuns estabelecidos no presente regulamento."
+  },
+  "4cb074330c0d5e71": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Para efeitos do disposto no presente regulamento, a normalização das contas das empresas de caminho de ferro consiste:\n\na) Em determinar os encargos suportados ou os benefícios usufruídos pelas empresas de caminho de ferro, resultantes de disposições legislativas, regulamentares ou administrativas, em comparação com a situação em que estariam se actuassem nas mesmas condições que as empresas de outros modos de transporte;\n\nb) Em compensar financeiramente os encargos e os benefícios que resultam da determinação prevista na alínea a).\n\n2. Não serão considerados como encargos, para efeitos do disposto no presente regulamento, os que resultem de disposições legislativas, regulamentares ou administrativas, que reproduzam os resultados de negociações entre os parceiros sociais.\n\n3. A normalização das contas, na acepção do presente regulamento, não abrange as obrigações de serviço público impostas pelos Estados-membros e previstas no Regulamento (CEE) n.º 1191/69."
+  },
+  "5089f963f45474b9": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. *Les entreprises de chemin de fer auxquelles s'applique le présent règlement sont:*\n\n— Société nationale des chemins de fer belges (SNCB)/Nationale Maatschappij der Belgische Spoorwegen (NMBS),\n\n— Danske Statsbaner (DSB),\n\n— Deutsche Bundesbahn (DB),\n\n— Deutsche Reichsbahn (DR),\n\n— Οργανισμός Σιδηροδρόμων Ελλάδος (ΟΣΕ),\n\n— Red Nacional de los Ferrocarriles Españoles (RENFE),\n\n— Société nationale des chemins de fer français (SNCF),\n\n— Córas Iompair Éireann (CIE),\n\n— Ente Ferrovie dello Stato (FS),\n\n— Société nationale des chemins de fer luxembourgeois (CFL),\n\n— Naamloze Vennootschap Nederlandse Spoorwegen (NS),\n\n— Österreichische Bundesbahnen (ÖBB),\n\n— Caminhos de Ferro Portugueses, EP (CP),\n\n— Valtionrautatiet/Statsjärnvägarna (VR),\n\n— Statens järnvägarna (SJ),\n\n— British Rail (BR),\n\n— Northern Ireland Railways (NIR),\n\n— České dráhy (ČD) a.s.; Správa železniční dopravní cesty s.o.,\n\n— AS Eesti Raudtee,\n\n— Edelaraudtee AS,\n\n— Valsts akciju sabiedrība «Latvijas Dzelzceļš» (LDZ),\n\n— Lietuvos geležinkeliai (LG),\n\n— Magyar Államvasutak Rt. (MÁV),\n\n— Győr-Sopron-Ebenfurti Vasút Rt. (GySEV),\n\n— PKP Polskie Linie Kolejowe S.A.;\n\n— PKP Cargo S.A.;\n\n— PKP InterCity sp. z o.o.;\n\n— PKP Przewozy Regionalne sp. z o.o.,\n\n— Slovenske železnice (SŽ),\n\n— Železnice Slovenskej republiky (ŽSR),\n\n— Национална компания Железопътна инфраструктура (НК ЖИ),\n\n— Български държавни железници ЕАД (БДЖ ЕАД),\n\n— Compania Națională de Căi Ferate C.F.R. — S.A. (CFR),\n\n— Societatea Națională de Transport Feroviar de Marfă C.F.R. Marfă — S.A. (CFR Marfa),\n\n— Societatea Națională de Transport Feroviar de Călători C.F.R. Călători — S.A. (CFR Călători),\n\n— Societatea de Administrare Active Feroviare S.A.A.F. — S.A. (SAAF).\n\n2. A Comissão apresentará ao Conselho, o mais tardar em 1 de Janeiro de 1973, as disposições que considerar necessárias, tendo em vista tornar extensiva a aplicação do presente regulamento a outras empresas que efectuem transportes ferroviários."
+  },
+  "09077da315aca3b6": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Constituem objecto da normalização das contas prevista no presente regulamento as seguintes categorias de encargos ou benefícios:\n\na) Pagamentos impostos às empresas de caminho de ferro, que, no que respeita ao resto da economia, incluindo os outros modos de transporte, são suportados pelo Estado (categoria I);\n\nb) Despesas de carácter social suportadas pelas empresas de caminho de ferro a título de abonos de família, diferentes das que suportariam se tivessem de contribuir nas mesmas condições que as empresas dos outros modos de transporte (categoria II);\n\nc) Encargos com reformas e pensões suportados pelas empresas de caminho de ferro em condições diferentes das que vigoram para as empresas dos outros modos de transporte (categoria III);\n\nd) Despesas suportadas pelas empresas de caminho de ferro com as instalações de cruzamento (categoria IV).\n\n2. As seguintes categorias de encargos ou benefícios existentes aquando da entrada em vigor do presente regulamento devem ser suprimidas o mais tardar em 1 de Janeiro de 1971:\n\na) Obrigação de recrutar pessoal para além das necessidades da empresa (categoria V);\n\nb) Aumento de remunerações imposto pelo governo de um Estado-membro, com efeito retroactivo, excepto no caso de o aumento de remunerações constituir apenas uma adaptação das remunerações pagas pelas empresas de caminhos de ferro às remunerações pagas pelos outros modos de transporte (categoria VI);\n\nc) Adiamento imposto pelas autoridades competentes no que diz respeito à renovação e conservação (categoria VII).\n\n3. A seguinte categoria de encargos ou benefícios existente aquando da entrada em vigor do presente regulamento deve ser suprimida o mais tardar em 1 de Janeiro de 1973:\n\nencargos de reconstrução ou de substituição em consequência de danos de guerra, suportados pela empresa de caminho de ferro e que deviam ter sido assumidos pelo Estado (categoria VIII).\n\nOs encargos financeiros resultantes dos empréstimos concedidos no âmbito desta categoria constituem objecto da normalização das contas, na acepção do presente regulamento, até à sua liquidação.\n\n4. As seguintes categorias de encargos ou benefícios existentes aquando da entrada em vigor do presente regulamento podem ser objecto da normalização das contas, na acepção do presente regulamento:\n\na) Obrigação de manter pessoal para além das necessidades da empresa (categoria IX);\n\nb) Medidas a favor do pessoal, impostas pelo Estado, a título de reconhecimento pelos serviços prestados ao seu país, em condições diferentes das que vigoram para as empresas dos outros modos de transporte (categoria X);\n\nc) Subsídios a favor do pessoal, obrigatórios para as empresas de caminho de ferro e a que não estão sujeitas as empresas dos outros modos de transporte (categoria XI);\n\nd) Despesas de carácter social suportadas, nomeadamente, a título de cuidados de saúde, pelas empresas de caminho de ferro, diferentes das que suportariam se tivessem de contribuir nas mesmas condições que as empresas dos outros modos de transporte (categoria XII);\n\ne) Encargos resultantes da manutenção, imposta pelo Estado, de oficinas ou outros estabelecimentos em condições não conformes com uma gestão comercial da empresa de caminho de ferro (categoria XIII);\n\nf) Condições impostas no caso de empreitadas de obras públicas e de contratos de fornecimento (categoria XIV).\n\nA seguinte categoria de encargos ou benefícios pode igualmente constituir objecto da normalização das contas, na acepção do presente regulamento:\n\nencargos financeiros resultantes da falta de normalização no passado (categoria XV).\n\nUma solução definitiva, no que diz respeito às categorias IX a XV, será adoptada pelo Conselho, o mais tardar aquando da adopção das medidas de execução do artigo 8.º da Decisão do Conselho, de 13 de Maio de 1965, relativa à harmonização de determinadas disposições com incidência sobre a concorrência no domínio dos transportes ferroviários, rodoviários e por via navegável. Entretanto, os Estados-membros esforçar-se-ão por eliminar as causas desses encargos ou benefícios."
+  },
+  "0b50b9972a75b595": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO II"
+  },
+  "71787d596b0988ae": {
+   "fragment_id": "Regras comuns de normalização e de compensação",
+   "type": "divisao",
+   "heading": "Regras comuns de normalização e de compensação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regras comuns de normalização e de compensação"
+  },
+  "d5943124e0af8825": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os encargos ou benefícios das empresas de caminho de ferro que devem ou podem constituir objecto da normalização das contas serão determinados com base nas disposições dos anexos, os quais fazem parte integrante do presente regulamento.\n\n2. Sempre que, para uma categoria que deva ser normalizada, o regime aplicado às empresas de caminho de ferro for comparado com o dos outros modos de transporte, a comparação far-se-á unicamente com as empresas privadas dos outros modos de transporte."
+  },
+  "35ed9b32516b6825": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O montante bruto das compensações será determinado, para cada categoria de normalização, aplicando os princípios de cálculo indicados no anexo correspondente à categoria em causa.\n\nO montante líquido obter-se-á eliminando, nos elementos de cálculo dos montantes brutos, para as diversas categorias, as parcelas com dupla imputação.\n\n2. Quando o cálculo efectuado em conformidade com as disposições referidas em anexo para cada categoria de normalização der origem a um encargo para a empresa de caminho de ferro, esta terá direito à correspondente compensação financeira, por parte da autoridade pública.\n\nQuando esse cálculo der origem a um benefício para a empresa de caminho de ferro, esta será devedora da correspondente compensação financeira à autoridade pública."
+  },
+  "7bdd9dd29cdc4224": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. As empresas de caminho de ferro apresentarão anualmente às autoridades competentes um pedido de normalização, em aplicação das disposições do presente regulamento.\n\n2. Este pedido incluirá:\n\na) Por um lado, os elementos para o exercício orçamental seguinte, calculados de acordo com as disposições legislativas, regulamentares e administrativas em vigor no momento da apresentação do pedido;\n\nb) Por outro lado, os elementos necessários para a rectificação dos montantes pagos com base em previsões para o exercício cujos resultados definitivos sejam conhecidos.\n\n3. Este pedido, que deve ser feito atempadamente para permitir a inscrição dos créditos necessários no orçamento da autoridade pública, conterá todas as justificações úteis, nomeadamente no que se refere a:\n\na) Encargos ou benefícios para cada categoria de normalização;\n\nb) Método de cálculo aplicado para cada categoria considerada;\n\nc) Montantes brutos e líquidos referidos no n.º 1 do artigo 6.º, para cada categoria considerada. No que diz respeito ao estabelecimento das previsões referidas na alínea a) do n.º 2, esses montantes serão calculados com base nos dados contabilísticos do último exercício cujos resultados sejam definitivos e tendo em conta as modificações verificadas em cada categoria de normalização até à apresentação do pedido."
+  },
+  "b4ddaeab420a9419": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. As autoridades competentes dos Estados-membros examinarão os elementos que serviram de base para a formulação do pedido da empresa de caminho de ferro.\n\n2. Depois de terem dado à empresa interessada a possibilidade de apresentar as suas observações, as autoridades competentes dos Estados-membros podem:\n\n— rectificar os montantes das compensações e alterar outros elementos do pedido quando as disposições do presente regulamento não tenham sido cumpridas;\n\n— incluir no pedido outros encargos ou benefícios resultantes de uma das categorias previstas no artigo 4.º.\n\n3. As autoridades competentes fixarão, em conformidade com as disposições do presente regulamento, o montante estimado da compensação para o exercício seguinte, bem como o montante definitivo da compensação para o exercício anterior cujo resultado final é conhecido. Esta decisão indicará igualmente os elementos de cálculo que serviram para determinar esses montantes.\n\n4. As autoridades competentes notificarão a sua decisão à empresa de caminho de ferro o mais tardar seis meses após a recepção do pedido.\n\nSe as autoridades competentes não tomarem qualquer decisão neste prazo, o pedido da empresa considerar-se-á aceite a título de previsão."
+  },
+  "c29bda92f9a5dcce": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros pagarão o montante estimado das compensações, fixado por força do artigo 8.º, durante o exercício orçamental para que foi estabelecida a estimativa.\n\nDurante esse mesmo exercício, os Estados-membros pagarão ou receberão o saldo da compensação resultante da diferença entre o montante definitivo da compensação e os montantes estimados já pagos a esse título para o exercício anterior definitivamente encerrado."
+  },
+  "46c38e0da1afeace": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os montantes das compensações financeiras para cada categoria de normalização constarão de um quadro anexo ao balanço anual da empresa de caminho de ferro. Este quadro conterá os montantes das compensações financeiras, respectivamente recebidos a título de previsão e recebidos ou pagos em liquidação do saldo, nos termos do artigo 9.º.\n\nEste quadro conterá igualmente, para cada obrigação de serviço público, os montantes das compensações concedidas em aplicação das disposições do Regulamento (CEE) n.º 1191/69.\n\n2. O montante total das compensações recebidas em resultado da normalização das contas e das compensações recebidas a título de obrigações de serviço público será inscrito na conta de exploração ou na conta de ganhos e perdas da empresa de caminho de ferro, de acordo com as disposições nacionais em vigor."
+  },
+  "fdc0dd2695a43e62": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs decisões das autoridades competentes dos Estados-membros tomadas em aplicação das disposições do presente regulamento serão fundamentadas e objecto de uma publicação oficial."
+  },
+  "9bf2b6af359597c3": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-membros garantirão às empresas de caminho de ferro, e nesta qualidade, a possibilidade de fazerem valer os seus interesses por meios adequados, contra as decisões tomadas em aplicação das disposições do presente regulamento."
+  },
+  "b4f1bfdbc841cf04": {
+   "fragment_id": "SECÇÃO III",
+   "type": "divisao",
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO III"
+  },
+  "bbdde795c58f027f": {
+   "fragment_id": "Disposições finais",
+   "type": "divisao",
+   "heading": "Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições finais"
+  },
+  "b25da9675460f624": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. A Comissão pode pedir aos Estados-membros todas as informações úteis sobre a aplicação do presente regulamento. A Comissão procederá a uma consulta dos Estados-membros interessados sempre que o considerar necessário.\n\n2. As compensações que resultam da aplicação do presente regulamento serão dispensadas do processo de informação prévia previsto no n.º 3 do artigo 93.º do Tratado que institui a Comunidade Económica Europeia.\n\nOs Estados-membros comunicarão imediatamente à Comissão, para cada categoria de encargos ou benefícios referidos no presente regulamento, os montantes efectivamente pagos a título de compensação."
+  },
+  "5cae9e51fe9ed60f": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Os Estados-membros adoptarão em tempo útil, após consulta da Comissão, as disposições legislativas, regulamentares ou administrativas necessárias à execução do presente regulamento.\n\n2. Se um Estado-membro o pedir, ou se a Comissão o considerar oportuno, a Comissão procederá a consultas com os Estados-membros interessados sobre os projectos relativos às disposições referidas no n.º 1.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "f0c48c3ec2ebbe93": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n*Categoria I:*Pagamentos impostos às empresas de caminho de ferro, que, no que respeita ao resto da economia, incluindo os outros modos de transporte, são suportados pelo Estado"
+  },
+  "31b1815991e3c01a": {
+   "fragment_id": "A. Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "A. Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição legislativa, regulamentar ou administrativa, uma empresa de caminho de ferro suporta ela própria determinados pagamentos que, no que respeita ao resto da economia, incluindo as empresas de outros modos de transporte, são total ou parcialmente suportados pelo Estado. Estes pagamentos consistem, nomeadamente, em indemnizações para reparação de danos resultantes de acidentes de trabalho ou em abonos especiais para os filhos dos trabalhadores."
+  },
+  "b66c9218bdc82c4f": {
+   "fragment_id": "B. Princípio de cálculo",
+   "type": "divisao",
+   "heading": "B. Princípio de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Princípio de cálculo\n\nA compensação corresponderá ao montante que o Estado teria suportado se se tratasse de uma empresa de qualquer outro sector da economia, incluindo os outros modos de transporte."
+  },
+  "da0e3fc43c3cfc53": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n*Categoria II:*Despesas de carácter social suportadas pelas empresas de caminho de ferro a título de abonos de família, diferentes das que suportariam se tivessem de contribuir nas mesmas condições que as empresas dos outros modos de transporte"
+  },
+  "7bd29508f01ae4ad": {
+   "fragment_id": "A. Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "A. Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição legislativa, regulamentar ou administrativa, uma empresa de caminho de ferro é obrigada a efectuar directamente, ou por intermédio de um organismo especializado, os pagamentos de abonos de família."
+  },
+  "f54613a138dfbdb7": {
+   "fragment_id": "B. Princípios de cálculo",
+   "type": "divisao",
+   "heading": "B. Princípios de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Princípios de cálculo\n\nO encargo a normalizar será igual à diferença entre:\n\na) O montante dos subsídios de direito comum pagos pela empresa de caminho de ferro e\n\nb) Este mesmo montante corrigido pela:\n\n— relação entre o número de chefes de família e o pessoal em actividade tanto na empresa de caminho de ferro como no conjunto das empresas que contribuem para o organismo tomado como referência;\n\n— relação entre o número médio de pessoas a cargo do chefe de família tanto na empresa de caminho de ferro como no conjunto das empresas que contribuem para o organismo tomado como referência."
+  },
+  "bc9a04094e732354": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\n*Categoria III:*Encargos com reformas e pensões suportados pelas empresas de caminho de ferro em condições diferentes das que vigoram para as empresas dos outros modos de transporte"
+  },
+  "44d5a3b4170b6285": {
+   "fragment_id": "A. Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "A. Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição legislativa, regulamentar ou administrativa, uma empresa de caminho de ferro é obrigada a assegurar os encargos com reformas e pensões do seu pessoal e de outras pessoas que a ela tenham direito em condições diferentes das empresas dos outros modos de transporte.\n\nAs condições diferentes que dão origem a encargos diferentes resultam:\n\n1. Do facto de os caminhos de ferro serem obrigados a pagar directa e totalmente as pensões existentes, enquanto as empresas dos outros modos de transporte contribuem para um organismo em função do número e do nível das remunerações do pessoal em actividade; ou\n\n2. Do facto de o pessoal dos caminhos de ferro beneficiar da aplicação de determinadas disposições especiais a que os outros modos de transporte não estão sujeitos, e que dão origem a encargos suplementares ou benefícios para os caminhos de ferro."
+  },
+  "9f6c5c44cb9a7900": {
+   "fragment_id": "B. Princípios de cálculo",
+   "type": "divisao",
+   "heading": "B. Princípios de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Princípios de cálculo\n\n1. No que diz respeito aos encargos referidos em A.1., a compensação será igual à diferença entre o encargo suportado pela empresa e aquele que ela suportaria se estivesse sujeita, com o mesmo pessoal em actividade e as mesmas remunerações, quer ao regime geral (regime geral de segurança social e regimes complementares obrigatórios), quer ao regime dos outros modos de transporte. No caso em que estes regimes não ofereçam uma base de comparação, tomar-se-á por base o regime de reformas e de pensões de uma empresa representativa no domínio dos transportes.\n\n2. No que diz respeito aos encargos referidos em A.2., a compensação será igual:\n\na) Quer à diferença entre:\n\n— o encargo suportado pela empresa e que é apurado directamente da contabilidade desta; e,\n\n— os benefícios, directos ou indirectos, por comparação com os outros modos de transporte que, resultam para a empresa da aplicação das disposições especiais mencionadas em A.2.;\n\nb) Quer à diferença entre:\n\n— os encargos que a empresa suporta ou suportaria para cobrir o conjunto de encargos do regime de reformas e de pensões ao qual está sujeita; e\n\n— os encargos que resultariam da aplicação do regime de referência.\n\n3. Se uma regulamentação interna diferente, com a mesma finalidade, conduzir a resultados idênticos aos decorrentes da aplicação dos n.^os^ 1 e 2, a compensação pode ser calculada em conformidade com essa regulamentação.\n\n4. Os Estados-membros comunicarão à Comissão, antes de 31 de Dezembro de 1970, o montante estimado das compensações que se propõem pagar, em aplicação destes princípios, à sua empresa de caminho de ferro."
+  },
+  "6d7f873b8c0d066a": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV\n\n*Categoria IV:*Despesas suportadas pelas empresas de caminho de ferro com as instalações de cruzamento"
+  },
+  "4ba7a1cc05f503a4": {
+   "fragment_id": "A. Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "A. Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Âmbito de aplicação\n\nEsta categoria compreende os casos em que, por força de uma disposição legislativa, regulamentar ou administrativa, uma empresa de caminho de ferro suporta uma parte anormalmente elevada dos encargos de construção e de exploração das instalações comuns ao caminho de ferro e a outros modos de transporte.\n\nConsidera-se parte anormalmente elevada:\n\na) *No caso de construção de uma nova estrada,*\n\nb) *No caso de modernização de uma passagem superior ou inferior e no caso de substituição de uma passagem de nível por uma passagem superior ou inferior,*\n\nc) *No caso de modernização de uma passagem de nível,*\n\nd) *No caso de renovação, manutenção e funcionamento,*\n\n— de passagens superiores ou inferiores,\n\n— o facto de a empresa de caminho de ferro suportar encargos superiores aos correspondentes à sua participação nos encargos de construção ou de modernização das instalações de cruzamento, de acordo com os princípios referidos nas alíneas a) e b);\n\n— de passagem de nível,\n\n— o facto de a empresa de caminho de ferro suportar mais de metade dos encargos."
+  },
+  "cbc321377e6c31b8": {
+   "fragment_id": "B. Princípios de cálculo",
+   "type": "divisao",
+   "heading": "B. Princípios de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Princípios de cálculo\n\nO montante da compensação será determinado da seguinte forma:\n\n**para o caso referido na alínea a):** O montante da compensação corresponderá à parte dos encargos suportada pela empresa de caminho de ferro que não tenha solicitado a nova estrada em questão, deduzindo o custo suplementar provocado por eventuais adaptações pedidas pela empresa de caminho de ferro;\n\n**para o caso referido na alínea b):** O montante da compensação corresponderá à parte dos encargos suportada pela empresa de caminho de ferro que não tenha solicitado a modernização da obra de arte em questão, deduzindo, por um lado, o custo suplementar relativo às modificações pedidas pela empresa de caminho de ferro, e, por outro, os benefícios eventualmente resultantes dos referidos trabalhos; estes benefícios serão avaliados, no caso da substituição de uma passagem de nível por uma passagem superior ou inferior, tendo em conta compensações que a empresa de caminho de ferro já recebeu relativamente à passagem de nível;\n\n**para o caso referido na alínea c):** O montante da compensação corresponderá à parte dos encargos suportada pela empresa de caminho de ferro que excede a metade que lhe cabe suportar;\n\n**para o caso referido na alínea d:** — No caso de passagens superiores ou inferiores, o montante da compensação corresponderá à parte dos encargos suportada pela empresa de caminho de ferro que excede a sua participação nos encargos de construção ou de modernização das instalações de cruzamento, em conformidade com os princípios de cálculo indicados para os casos referidos nas alíneas a) e b); — no caso das passagens de nível, o montante da compensação corresponderá à parte dos encargos suportada pela empresa de caminho de ferro que excede a metade que lhe cabe suportar."
+  },
+  "c0beadf94072a655": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V\n\n*Categoria V:*Obrigação de recrutar pessoal para além das necessidades da empresa"
+  },
+  "6d00782af8116e94": {
+   "fragment_id": "Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição legislativa, regulamentar ou administrativa, uma empresa de caminho de ferro é obrigada a recrutar pessoal para além das suas necessidades reais."
+  },
+  "ac746ca39df76792": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI\n\n*Categoria VI:*Aumento de remunerações imposto pelo governo de um Estado-membro, com efeito retroactivo, excepto no caso de o aumento de remunerações constituir apenas uma adaptação das remunerações pagas pelas empresas de caminho de ferro às remunerações pagas pelos outros modos de transporte"
+  },
+  "d469456d9cba4c5e": {
+   "fragment_id": "Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Âmbito de aplicação\n\nEsta categoria compreende os casos em que, por força de uma medida do governo, uma empresa de caminho de ferro é obrigada a aumentar, com efeito retroactivo, as remunerações do seu pessoal, sem que o montante das importâncias pagas com efeitos retroactivos possa ser tomado em consideração no preço de venda e desde que encargos análogos não sejam assumidos pelas empresas dos outros modos de transporte."
+  },
+  "848838ad510f6ceb": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII\n\n*Categoria VII:*Adiamento imposto pelas autoridades competentes no que diz respeito à renovação e conservação"
+  },
+  "c84e7aa718b1d890": {
+   "fragment_id": "Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma decisão da autoridade pública, uma empresa de caminho de ferro é obrigada a reduzir as despesas de renovação e conservação para um nível inferior ao necessário para a continuidade da actividade da empresa.\n\nEsta intervenção tem como consequência o facto de as despesas, nos exercícios em que os trabalhos em atraso devem ser recuperados, atingirem um nível anormal. Desta situação resulta um encargo quando a empresa de caminho de ferro não puder, durante esses exercícios, proceder a um aumento das quantias destinadas à cobertura das despesas de conservação e de renovação."
+  },
+  "f02ae1a906771cc3": {
+   "fragment_id": "ANEXO VIII",
+   "type": "divisao",
+   "heading": "ANEXO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII\n\n*Categoria VIII:*Encargos de reconstrução ou de substituição em consequência de danos de guerra, suportados pela empresa de caminho de ferro e que deviam ter sido assumidos pelo Estado"
+  },
+  "3f27ac6f0cf1440e": {
+   "fragment_id": "A. Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "A. Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição legislativa, regulamentar ou administrativa, uma empresa de caminho de ferro é obrigada a suportar, em condições diferentes das que vigoram para as empresas dos outros modos de transporte, os encargos de reconstrução ou de substituição ocasionados pelos danos de guerra."
+  },
+  "93dfd011bd05308a": {
+   "fragment_id": "B. Princípios de cálculo",
+   "type": "divisao",
+   "heading": "B. Princípios de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Princípios de cálculo\n\nO montante será determinado pela comparação das condições em que estes encargos recaíram sobre o caminho de ferro e sobre as empresas de outros modos de transporte, tendo em conta, se necessário, as despesas indirectas suportadas pelas empresas de caminho de ferro, em razão da natureza especial da actividade ferroviária.\n\nOs encargos a tomar em consideração dizem respeito a:\n\na) Despesas directas de reconstrução ou de substituição;\n\nb) Encargos financeiros devidos à reconstrução ou à substituição.\n\nO montante da compensação é apurado directamente da contabilidade da empresa de caminho de ferro.\n\nSempre que um empréstimo tiver sido contraído para fazer igualmente face a outras despesas, o encargo será determinado com base na parte do empréstimo destinada à reconstrução ou à substituição."
+  },
+  "eed11143abaa59e1": {
+   "fragment_id": "ANEXO IX",
+   "type": "divisao",
+   "heading": "ANEXO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX\n\n*Categoria IX:*Obrigação de manter pessoal para além das necessidades da empresa"
+  },
+  "47c90cfd299e7300": {
+   "fragment_id": "A. Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "A. Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição da autoridade pública, uma empresa de caminho de ferro é obrigada:\n\na) A manter em actividade pessoal excedentário cujo despedimento seria possível por força de disposições respeitantes ao pessoal;\n\nb) Em consequência de disposições do estatuto do pessoal, não aprovadas pelas empresas de caminho de ferro, a não despedir pessoal tornado dispensável por medidas de racionalização da exploração e cuja utilização em outras tarefas não se justifica."
+  },
+  "e2d068fe45465378": {
+   "fragment_id": "B. Princípios de cálculo",
+   "type": "divisao",
+   "heading": "B. Princípios de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Princípios de cálculo\n\nO encargo que resulta da manutenção em actividade do pessoal excedentário depende do número de pessoas abrangidas pela medida considerada.\n\n**Para o caso referido na alínea a):** O número de pessoas a despedir será proposto pela empresa. O número de pessoas mantidas ao serviço será fixado por decisão da autoridade competente. As despesas referentes a este pessoal serão compensadas enquanto este pessoal permanecer excedentário.\n\n**Para o caso referido na alínea b):** O número de pessoas excedentárias a tomar em consideração para o cálculo será indicado pela empresa de caminho de ferro. Esse número será igual ao número de pessoas tornadas disponíveis pelas medidas de racionalização, tendo em conta a possibilidade de recolocar este pessoal, durante o ano em que as medidas de racionalização produzirem efeitos, nos lugares deixados vagos por reforma ou em novos lugares criados.\n\nO montante do encargo que daí resulta corresponderá à soma dos salários, subsídios e encargos sociais de cada pessoa mantida ao serviço ou de cada categoria homogénea de pessoas. Neste último caso, o montante pode ser calculado com base no encargo médio referente a cada categoria homogénea de pessoas."
+  },
+  "bd2470d40431084c": {
+   "fragment_id": "ANEXO X",
+   "type": "divisao",
+   "heading": "ANEXO X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO X\n\n*Categoria X:*Medidas a favor do pessoal, impostas pelo Estado, a título de reconhecimento pelos serviços prestados ao seu país, em condições diferentes das que vigoram para as empresas dos outros modos de transporte"
+  },
+  "6bb68e2fc65a6684": {
+   "fragment_id": "A. Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "A. Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição legislativa, regulamentar ou administrativa, uma empresa de caminho de ferro é obrigada a tomar medidas especiais, tais como subsídios, prémios de antiguidade, promoções suplementares ou licenças especiais, a favor do pessoal que prestou serviço nas forças armadas ou que prestou serviços de relevância para o país."
+  },
+  "18bc610ce0674423": {
+   "fragment_id": "B. Princípios de cálculo",
+   "type": "divisao",
+   "heading": "B. Princípios de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Princípios de cálculo\n\nA compensação corresponderá ao montante dos benefícios especiais impostos à empresa a favor do pessoal em causa.\n\nNo que diz respeito a promoções suplementares, apenas serão tomadas em consideração as que são concedidas para além dos lugares fixados no organigrama.\n\nA compensação pode ser calculada de duas maneiras diferentes, conforme o número de pessoas em causa:\n\na) O cálculo faz-se caso a caso; ou\n\nb) Por categorias homogéneas de pessoas, determinando-se para cada categoria, o acréscimo médio dos encargos por pessoa e o número anual de beneficiários."
+  },
+  "d52db236994aefc9": {
+   "fragment_id": "ANEXO XI",
+   "type": "divisao",
+   "heading": "ANEXO XI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XI\n\n*Categoria XI:*Subsídios a favor do pessoal, obrigatórios para as empresas de caminho de ferro e a que não estão sujeitas as empresas dos outros modos de transporte"
+  },
+  "78a19138b27254f5": {
+   "fragment_id": "A. Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "A. Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição legislativa, regulamentar ou administrativa, uma empresa de caminho de ferro é obrigada a conceder, a todo ou a parte do seu pessoal no activo ou em disponibilidade, subsídios que não são obrigatórios para as empresas dos outros modos de transporte. Estes subsídios incluem, nomeadamente, os abonos de família suplementares ou o subsídio complementar de férias."
+  },
+  "3236921f037b1aa4": {
+   "fragment_id": "B. Princípio de cálculo",
+   "type": "divisao",
+   "heading": "B. Princípio de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Princípio de cálculo\n\nA compensação será igual ao montante dos encargos impostos à empresa."
+  },
+  "1691fa03dc7a44e9": {
+   "fragment_id": "ANEXO XII",
+   "type": "divisao",
+   "heading": "ANEXO XII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XII\n\n*Categoria XII:*Despesas de natureza social suportadas, nomeadamente, a título de cuidados de saúde, pelas empresas de caminho de ferro, diferentes das que suportariam se tivessem de contribuir nas mesmas condições que as empresas dos outros modos de transporte"
+  },
+  "1c6067bb4bd1ca99": {
+   "fragment_id": "A. Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "A. Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição da autoridade pública, uma empresa de caminho de ferro é obrigada a garantir directamente, ou por intermédio de um organismo especializado, determinadas prestações tais como as respeitantes aos cuidados de saúde."
+  },
+  "72a30d94ff6de5c3": {
+   "fragment_id": "B. Princípios de cálculo",
+   "type": "divisao",
+   "heading": "B. Princípios de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Princípios de cálculo\n\nA compensação corresponderá à diferença entre o montante do encargo suportado realmente pela empresa e o encargo que ela suportaria se estivesse inscrita no organismo tomado como referência, tendo em conta os benefícios que concede por sua própria iniciativa.\n\nNo que diz respeito aos cuidados de saúde, a compensação calcular-se-á do seguinte modo: o encargo suportado pela empresa de caminho de ferro será apurado directamente da contabilidade. O encargo que a empresa suportaria se estivesse sujeita, com o mesmo pessoal em actividade e as mesmas remunerações, ao regime de referência será determinado pela aplicação das disposições legislativas, regulamentares ou administrativas que regulam este regime. As despesas correspondentes aos benefícios suplementares em relação ao regime de referência, que a empresa de caminho de ferro concede de sua própria vontade ao seu pessoal, serão deduzidas da diferença entre os dois montantes assim obtidos."
+  },
+  "095853bce0da4795": {
+   "fragment_id": "ANEXO XIII",
+   "type": "divisao",
+   "heading": "ANEXO XIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XIII\n\n*Categoria XIII:*Encargos resultantes da manutenção, imposta pelo Estado, de oficinas ou outros estabelecimentos em condições não conformes com uma gestão comercial da empresa de caminho de ferro"
+  },
+  "32327701d933b685": {
+   "fragment_id": "A. Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "A. Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma decisão da autoridade pública, uma empresa de caminho de ferro é obrigada, por razões de política social ou regional, a manter oficinas ou outros estabelecimentos que já não se justificam pelas necessidades de exploração."
+  },
+  "503df96b128aa7a1": {
+   "fragment_id": "B. Princípios de cálculo",
+   "type": "divisao",
+   "heading": "B. Princípios de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Princípios de cálculo\n\nA compensação corresponderá ao encargo que resulta da manutenção imposta. Os elementos que permitem determinar este encargo serão apurados da contabilidade da empresa de caminho de ferro."
+  },
+  "e142d5be2e32908d": {
+   "fragment_id": "ANEXO XIV",
+   "type": "divisao",
+   "heading": "ANEXO XIV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XIV\n\n*Categoria XIV:*Condições impostas no caso de empreitadas de obras públicas e de contratos de fornecimento"
+  },
+  "db5416f74cbf8fe9": {
+   "fragment_id": "A. Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "A. Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma disposição da autoridade pública, uma empresa de caminho de ferro é obrigada a celebrar uma parte dos seus contratos de empreitada de obras públicas e de fornecimento com empresas nacionais situadas em certas regiões do Estado-membro ou com certas categorias de empresários nacionais."
+  },
+  "c0600946c8db7cf6": {
+   "fragment_id": "B. Princípio de cálculo",
+   "type": "divisao",
+   "heading": "B. Princípio de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Princípio de cálculo\n\nA comparação far-se-á entre o preço praticado pelo adjudicatário escolhido para o contrato e o preço da proposta economicamente mais favorável para esse mesmo contrato ou, na falta de tal proposta, para um contrato semelhante.\n\nO montante da compensação resultará da diferença entre esses dois preços."
+  },
+  "5015ed59043e1573": {
+   "fragment_id": "ANEXO XV",
+   "type": "divisao",
+   "heading": "ANEXO XV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XV\n\n*Categoria XV:*Encargos financeiros resultantes de falta de normalização no passado"
+  },
+  "8cb350947206ab64": {
+   "fragment_id": "A. Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "A. Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Âmbito de aplicação\n\nEsta categoria inclui os casos em que, por força de uma intervenção da autoridade pública, o orçamento de uma empresa de caminho de ferro inclui encargos financeiros relativos a empréstimos contraídos ou a pagamentos antecipados recebidos das autoridades competentes, por motivo de decisões tomadas no passado por essas autoridades não compatíveis com os princípios de normalização previstos no presente regulamento."
+  },
+  "df0e6ba05a1fc647": {
+   "fragment_id": "B. Princípios de cálculo",
+   "type": "divisao",
+   "heading": "B. Princípios de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Princípios de cálculo\n\nOs referidos encargos anuais podem ser assumidos pelas autoridades competentes no seu próprio orçamento ou podem ser incluídos na normalização no âmbito do presente regulamento. Neste último caso, a normalização deve incidir sobre o montante dos encargos existentes resultantes dos empréstimos contraídos ou de pagamentos antecipados reembolsáveis recebidos das autoridades competentes e que constem do orçamento da empresa de caminho de ferro.\n\nO montante destes encargos será apurado da contabilidade da empresa de caminho de ferro.\n\n---"
+  },
+  "3efee30554cf4aa3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e4b86006-d62e-4269-9b53-4cd68296809d.0018.03/DOC_1#src.E0001)) JO n.º 88 de 24. 5. 1965, p. 1500/65.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/e4b86006-d62e-4269-9b53-4cd68296809d.0018.03/DOC_1#src.E0002)) JO n.º C 135 de 14. 12. 1968, p. 34.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/e4b86006-d62e-4269-9b53-4cd68296809d.0018.03/DOC_1#src.E0003)) JO n.º C 118 de 11. 11. 1968, p. 7.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/e4b86006-d62e-4269-9b53-4cd68296809d.0018.03/DOC_1#src.E0004)) JO n.º L 156 de 28. 6. 1969, p. 1."
+  },
+  "4614190a19b1295c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Junho de 1969\n\nrelativo às regras comuns para a normalização de contas das empresas de caminho de ferro\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 75.º e 94.º,\n\nTendo em conta a Decisão do Conselho, de 13 de Maio de 1965, relativa à harmonização de determinadas disposições com incidência sobre a concorrência no domínio dos transportes ferroviários, rodoviários e por via navegável ([^1^](http://publications.europa.eu/resource/cellar/56374dae-b4ce-4e40-8262-928f3578f75a.0018.03/DOC_1#E0001)),\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/56374dae-b4ce-4e40-8262-928f3578f75a.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/56374dae-b4ce-4e40-8262-928f3578f75a.0018.03/DOC_1#E0003)),\n\nConsiderando que um dos objectivos da política comum de transportes é a eliminação das disparidades que se verificam pelo facto de os poderes públicos imporem encargos ou concederem benefícios às empresas de caminho de ferro que podem levar a uma distorção substancial das condições de concorrência;\n\nConsiderando que, para esse efeito, deve iniciar-se uma acção que permita garantir a eliminação dos efeitos provocados por esses encargos ou benefícios, na perspectiva da realização da igualdade de tratamento para todos os modos de transporte; que essa acção, para determinadas categorias de encargos ou benefícios, pode consistir na sua eliminação a curto prazo; que, para outras categorias, essa acção deve ser prosseguida no âmbito de uma normalização das contas das empresas de caminho de ferro, caracterizada pela compensação financeira dos efeitos provocados por esses encargos ou benefícios;\n\nConsiderando que, no que diz respeito às categorias de encargos ou benefícios abrangidas pela acção de normalização, deve ser tomada, para algumas de entre elas, uma solução definitiva em conexão com a harmonização progressiva das regras que regulam as relações financeiras entre as empresas de caminho de ferro e os Estados, nos termos do artigo 8.º da Decisão do Conselho, de 13 de Maio de 1965, relativa à harmonização de determinadas disposições com incidência sobre a concorrência no domínio dos transportes ferroviários, rodoviários e por via navegável; que, para estas categorias de encargos ou benefícios, convém, por conseguinte, aguardando a solução definitiva, deixar a cada Estado a faculdade de decidir caso a caso se deve ou não proceder-se à normalização, devendo esta, no entanto, em caso de decisão afirmativa, efectuar-se em conformidade com as regras comuns previstas no presente regulamento, nomeadamente no que diz respeito aos princípios de cálculo para a determinação da compensação financeira;\n\nConsiderando que, para se proceder, no âmbito da normalização das contas, às compensações financeiras que esta normalização é susceptível de provocar, é necessário determinar, antes de mais, quais os encargos suportados ou benefícios usufruídos pelas empresas de caminho de ferro em comparação com a situação em que estariam se actuassem nas mesmas condições que as empresas dos outros modos de transporte;\n\nConsiderando que, para essa determinação, é necessário definir as situações sobre as quais deve incidir a operação de normalização; que convém abranger todas as situações de facto existentes nos Estados-membros, com excepção, por um lado, das obrigações de serviço público referidas no Regulamento (CEE) n.º 1191/69 do Conselho, de 26 de Junho de 1969, relativo à acção dos Estados-membros em matéria de obrigações inerentes à noção de serviço público no domínio dos transportes ferroviários, rodoviários e por via navegável ([^4^](http://publications.europa.eu/resource/cellar/56374dae-b4ce-4e40-8262-928f3578f75a.0018.03/DOC_1#E0004)) e, por outro, das disparidades que se verificam no domínio dos encargos de infra-estrutura e dos encargos fiscais no regime dos três modos de transporte, disparidades que se destinam a ser eliminadas no âmbito das soluções projectadas em matéria de tarificação da infra-estrutura e aquando do ajustamento da fiscalidade geral e específica dos transportes;\n\nConsiderando que, representando cada situação de normalização um caso especial, convém fixar para cada um desses casos o âmbito de aplicação e os princípios de cálculo a aplicar para a determinação dos encargos ou benefícios impostos ou concedidos às empresas de caminho de ferro;\n\nConsiderando que, para determinar o montante desses encargos ou benefícios é necessária, em princípio, uma comparação entre o regime aplicado às empresas de caminho de ferro e o regime aplicado às empresas privadas dos outros modos de transporte;\n\nConsiderando que os encargos suportados pelas empresas de caminho de ferro são, geralmente, maiores do que os benefícios usufruídos e que tais empresas podem, além disso, fornecer facilmente os elementos contabilísticos necessários para a determinação de tais encargos ou benefícios; que é, por conseguinte, oportuno conceder-lhes um direito de iniciativa na matéria, embora deixando às autoridades competentes dos Estados-membros o cuidado de examinar, nas condições previstas no presente regulamento, os elementos que serviram de base para o estabelecimento do pedido das empresas, antes de fixar o montante da compensação; que convém conceder a essas autoridades um prazo para tomarem a sua decisão;\n\nConsiderando que, estando o pagamento das compensações ligado à preparação do orçamento do Estado ou das autoridades competentes, bem como ao das empresas de caminho de ferro, é oportuno fixar disposições especiais para o pagamento dos montantes estimados e para a liquidação do saldo;\n\nConsiderando que, para a clareza das contas e com o fim de dar uma publicidade adequada à sua normalização, convém prescrever que os montantes das compensações concedidas a título da normalização das contas constem de um quadro anexo ao balanço anual das empresas de caminho de ferro;\n\nConsiderando que é conveniente garantir que os Estados-membros ponham à disposição das empresas de caminho de ferro meios adequados que lhes permitam fazer valer os seus interesses face às decisões individuais tomadas pelos Estados-membros em execução do presente regulamento;\n\nConsiderando que a Comissão deve poder obter dos Estados-membros todas as informações úteis relativas à aplicação do presente regulamento;\n\nConsiderando que, uma vez que as compensações pagas em aplicação do presente regulamento são concedidas pelos Estados-membros em conformidade com regras comuns fixadas pelo presente regulamento, é necessário dispensar essas compensações do processo de informação prévio previsto no n.º 3 do artigo 93.º do Tratado que institui a Comunidade Económica Europeia;\n\nConsiderando que a realização da política comum de transportes exige a aplicação imediata das disposições do presente regulamento às seis empresas nacionais de caminho de ferro; que o exame das condições de extensão da aplicação do presente regulamento a outras empresas de caminho de ferro pode ser diferido por alguns anos, em razão da posição destas empresas face, nomeadamente, às condições de concorrência nos transportes bem como à necessidade de proceder progressivamente à realização desta política comum;\n\nConsiderando que a operação de normalização não dispensa os Estados-membros do dever de eliminarem, eles próprios, na medida do possível, as causas de distorção existentes; que por essa acção não devem, todavia, tornar menos favorável, de direito ou de facto, a situação do pessoal das empresas de caminho de ferro e constituir obstáculo ou travão à melhoria das suas condições de vida e de trabalho,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "008efb1a1c241933": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. *Les entreprises de chemin de fer auxquelles s'applique le présent règlement sont:*\n\n— Société nationale des chemins de fer belges (SNCB)/Nationale Maatschappij der Belgische Spoorwegen (NMBS),\n\n— Danske Statsbaner (DSB),\n\n— Deutsche Bundesbahn (DB),\n\n— Deutsche Reichsbahn (DR),\n\n— Οργανισμός Σιδηροδρόμων Ελλάδος (ΟΣΕ),\n\n— Red Nacional de los Ferrocarriles Españoles (RENFE),\n\n— Société nationale des chemins de fer français (SNCF),\n\n— Córas Iompair Éireann (CIE),\n\n— Ente Ferrovie dello Stato (FS),\n\n— Société nationale des chemins de fer luxembourgeois (CFL),\n\n— Naamloze Vennootschap Nederlandse Spoorwegen (NS),\n\n— Österreichische Bundesbahnen (ÖBB),\n\n— Caminhos de Ferro Portugueses, EP (CP),\n\n— Valtionrautatiet/Statsjärnvägarna (VR),\n\n— Statens järnvägarna (SJ),\n\n— British Rail (BR),\n\n— Northern Ireland Railways (NIR),\n\n— České dráhy (ČD) a.s.; Správa železniční dopravní cesty s.o.,\n\n— AS Eesti Raudtee,\n\n— Edelaraudtee AS,\n\n— Valsts akciju sabiedrība «Latvijas Dzelzceļš» (LDZ),\n\n— Lietuvos geležinkeliai (LG),\n\n— Magyar Államvasutak Rt. (MÁV),\n\n— Győr-Sopron-Ebenfurti Vasút Rt. (GySEV),\n\n— PKP Polskie Linie Kolejowe S.A.;\n\n— PKP Cargo S.A.;\n\n— PKP InterCity sp. z o.o.;\n\n— PKP Przewozy Regionalne sp. z o.o.,\n\n— Slovenske železnice (SŽ),\n\n— Železnice Slovenskej republiky (ŽSR),\n\n— Национална компания Железопътна инфраструктура (НК ЖИ),\n\n— Български държавни железници ЕАД (БДЖ ЕАД),\n\n— Compania Națională de Căi Ferate C.F.R. — S.A. (CFR),\n\n— Societatea Națională de Transport Feroviar de Marfă C.F.R. Marfă — S.A. (CFR Marfa),\n\n— Societatea Națională de Transport Feroviar de Călători C.F.R. Călători — S.A. (CFR Călători),\n\n— Societatea de Administrare Active Feroviare S.A.A.F. — S.A. (SAAF),\n\n— HŽ Infrastruktura d.o.o.,\n\n— HŽ Putnički prijevoz d.o.o.,\n\n— HŽ Cargo d.o.o.\n\n2. A Comissão apresentará ao Conselho, o mais tardar em 1 de Janeiro de 1973, as disposições que considerar necessárias, tendo em vista tornar extensiva a aplicação do presente regulamento a outras empresas que efectuem transportes ferroviários."
+  },
+  "26c6f8a2f01d8dfa": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/56374dae-b4ce-4e40-8262-928f3578f75a.0018.03/DOC_1#src.E0001)) JO n.º 88 de 24. 5. 1965, p. 1500/65.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/56374dae-b4ce-4e40-8262-928f3578f75a.0018.03/DOC_1#src.E0002)) JO n.º C 135 de 14. 12. 1968, p. 34.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/56374dae-b4ce-4e40-8262-928f3578f75a.0018.03/DOC_1#src.E0003)) JO n.º C 118 de 11. 11. 1968, p. 7.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/56374dae-b4ce-4e40-8262-928f3578f75a.0018.03/DOC_1#src.E0004)) JO n.º L 156 de 28. 6. 1969, p. 1."
+  },
+  "c9337654d4c95c86": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01969R1192 — PT — 12.01.2017 — 005.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31969R1192) [REGULAMENTO (CEE) N.º1192/69 DO CONSELHO](http://publications.europa.eu/resource/celex/31969R1192) [de 26 de Junho de 1969](http://publications.europa.eu/resource/celex/31969R1192) [relativo às regras comuns para a normalização de contas das empresas de caminho de ferro](http://publications.europa.eu/resource/celex/31969R1192) (JO L 156, 28.6.1969, p.8)\n\n**revogado por:**\n\n- [Regulamento (UE) 2016/2337 do Parlamento Europeu e do Conselho de 14 de dezembro de 2016](http://publications.europa.eu/resource/celex/32016R2337) — L 354 — 20 — 23.12.2016"
+  }
+ }
+}

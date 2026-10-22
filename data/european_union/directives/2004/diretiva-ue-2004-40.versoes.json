@@ -1,0 +1,338 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004L0040:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0040-20130629",
+ "dre_path": null,
+ "source_lastmod": "2013-06-29",
+ "versions": [
+  {
+   "date": "2012-04-24",
+   "future": false,
+   "celex": "02004L0040-20120424",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b4a6d068495aa31b",
+    "19572906891c0646",
+    "e17a2adcfbbdd4cc",
+    "cfbfc021e00b6319",
+    "0b2f8895211e41b4",
+    "52050e2cab1c38e9",
+    "0b50b9972a75b595",
+    "ad9e85e1f37caa00",
+    "6580cbf1697c0d79",
+    "9d9ea65c377fdc15",
+    "9137fba84ac4827f",
+    "9c580c9fd5be95c4",
+    "b4f1bfdbc841cf04",
+    "4f0027fbf9863594",
+    "8c5d0319bc81a575",
+    "2166859cc54036a3",
+    "5226bd0cd18dee70",
+    "4cf1da8a646d4742",
+    "b9c1c438fac65788",
+    "dde9cf53e9ae6c9a",
+    "c4ce255326a3c697",
+    "0863a5999fe1e1cd",
+    "053afd08713fd490",
+    "10220b9774fa9034",
+    "a75fb36cf9144f04",
+    "bd483a90a6274fbc",
+    "205f4d0212629ed9",
+    "a71b4b7009f474c7",
+    "336fad341eff705a",
+    "59fa308228b97186"
+   ]
+  },
+  {
+   "date": "2013-06-29",
+   "future": false,
+   "celex": "02004L0040-20130629",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime SECÇÃO I",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 1.º — Objecto e âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Valores-limite de exposição e valores que desencadeiam a acção",
+    "Suprime SECÇÃO II",
+    "Suprime OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+    "Suprime Artigo 4.º — Determinação da exposição e avaliação dos riscos",
+    "Suprime Artigo 5.º — Disposições destinadas a evitar ou reduzir os riscos",
+    "Suprime Artigo 6.º — Informação e formação dos trabalhadores",
+    "Suprime Artigo 7.º — Consulta e participação dos trabalhadores",
+    "Suprime SECÇÃO III",
+    "Suprime DISPOSIÇÕES DIVERSAS",
+    "Suprime Artigo 8.º — Vigilância da saúde",
+    "Suprime Artigo 9.º — Sanções",
+    "Suprime Artigo 10.º — Alterações técnicas",
+    "Suprime Artigo 11.º — Comité",
+    "Suprime SECÇÃO IV",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 13.º — Transposição",
+    "Suprime Artigo 14.º — Entrada em vigor",
+    "Suprime Artigo 15.º — Destinatários",
+    "Suprime ANEXO",
+    "Suprime VALORES-LIMITE DE EXPOSIÇÃO E VALORES QUE DESENCADEIAM A ACÇÃO PARA OS CAMPOS ELECTROMAGNÉTICOS",
+    "Suprime A. VALORES-LIMITE DE EXPOSIÇÃO",
+    "Suprime Notas:",
+    "Suprime B. VALORES QUE DESENCADEIAM A ACÇÃO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "51cef09cca4f8764"
+   ]
+  }
+ ],
+ "fragments": {
+  "b4a6d068495aa31b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nrelativa às prescrições mínimas de segurança e saúde em matéria de exposição dos trabalhadores aos riscos devidos aos agentes físicos (campos electromagnéticos) (18.ª directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 137.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/4e579dae-06a9-4eae-8a07-4dc837616cdc.0018.03/DOC_1#E0001)), apresentada após consulta ao Comité Consultivo para a Segurança, Higiene e Protecção da Saúde no Local de Trabalho,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/4e579dae-06a9-4eae-8a07-4dc837616cdc.0018.03/DOC_1#E0002)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/4e579dae-06a9-4eae-8a07-4dc837616cdc.0018.03/DOC_1#E0003)),\n\n(1) Nos termos do Tratado, o Conselho pode adoptar, por meio de directivas, prescrições mínimas destinadas a promover a melhoria, nomeadamente, das condições de trabalho, a fim de garantir um melhor nível de protecção da segurança e da saúde dos trabalhadores. Essas directivas devem evitar impor disciplinas administrativas, financeiras e legais contrárias à criação e ao desenvolvimento de pequenas e médias empresas.\n\n(2) A comunicação da Comissão relativa ao seu programa de acção para a aplicação da carta comunitária dos direitos sociais fundamentais dos trabalhadores prevê que sejam estabelecidas prescrições mínimas de saúde e segurança respeitantes à exposição dos trabalhadores aos riscos devidos aos agentes físicos. Em Setembro de 1990, o Parlamento Europeu aprovou uma resolução sobre este programa de acção ([^4^](http://publications.europa.eu/resource/cellar/4e579dae-06a9-4eae-8a07-4dc837616cdc.0018.03/DOC_1#E0004)), convidando nomeadamente a Comissão a preparar uma directiva especial sobre os riscos associados ao ruído e às vibrações, bem como a quaisquer outros agentes físicos no local de trabalho.\n\n(3) Numa primeira fase, o Parlamento Europeu e o Conselho aprovaram a Directiva 2002/44/CE, de 25 de Junho de 2002, relativa às prescrições mínimas de segurança e saúde respeitantes à exposição dos trabalhadores aos riscos devidos aos agentes físicos (vibrações) (décima-sexta directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE) ([^5^](http://publications.europa.eu/resource/cellar/4e579dae-06a9-4eae-8a07-4dc837616cdc.0018.03/DOC_1#E0005)). Seguidamente, o Parlamento Europeu e o Conselho aprovaram, em 6 de Fevereiro de 2003, a Directiva 2003/10/CE relativa às prescrições mínimas de segurança e saúde respeitantes à exposição dos trabalhadores aos riscos devidos aos agentes físicos (ruídos) (décima-sétima directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE) ([^6^](http://publications.europa.eu/resource/cellar/4e579dae-06a9-4eae-8a07-4dc837616cdc.0018.03/DOC_1#E0006)).\n\n(4) Torna-se agora necessário introduzir medidas que protejam os trabalhadores dos riscos associados aos campos electromagnéticos, dados os seus efeitos sobre a saúde e a segurança dos trabalhadores. Não são, contudo, tratados na presente directiva os efeitos a longo prazo, incluindo possíveis efeitos carcinogénicos devidos à exposição a campos eléctricos, magnéticos e electromagnéticos variáveis no tempo, para os quais não há provas científicas conclusivas que permitam estabelecer uma relação causal. As presentes medidas visam não só garantir a saúde e a segurança de cada trabalhador considerado individualmente, mas também criar uma plataforma mínima de protecção para o conjunto dos trabalhadores da Comunidade, a fim de evitar possíveis distorções de concorrência.\n\n(5) A presente directiva estabelece requisitos mínimos, deixa aos Estados-Membros a faculdade de manterem ou adoptarem disposições mais favoráveis para a protecção dos trabalhadores e, em especial, de fixarem valores inferiores para os valores que desencadeiam a acção ou os valores-limite de exposição relativos aos campos electromagnéticos. A aplicação da presente directiva não deverá constituir uma justificação para qualquer regressão relativamente à situação já existente em cada Estado-Membro.\n\n(6) Um sistema de protecção contra os campos electromagnéticos deverá limitar-se a estabelecer, sem pormenores inúteis, os objectivos a atingir, os princípios a observar e os valores fundamentais a utilizar, a fim de permitir que os Estados-Membros apliquem uniformemente as prescrições mínimas.\n\n(7) O nível de exposição aos campos electromagnéticos pode ser reduzido mais eficazmente pela adopção de medidas preventivas desde a fase de concepção dos postos de trabalho e dos locais de trabalho, bem como pela escolha do equipamento e dos processos e métodos de trabalho, de modo a reduzir prioritariamente os riscos na origem. As disposições relativas ao equipamento e aos métodos de trabalho contribuem, pois, para a protecção dos trabalhadores envolvidos.\n\n(8) As entidades patronais devem adaptar-se ao progresso técnico e aos conhecimentos científicos em matéria de riscos ligados à exposição a campos electromagnéticos, com vista a melhorar a protecção da segurança e da saúde dos trabalhadores.\n\n(9) Uma vez que a presente directiva é uma directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho ([^7^](http://publications.europa.eu/resource/cellar/4e579dae-06a9-4eae-8a07-4dc837616cdc.0018.03/DOC_1#E0007)), esta última aplica-se plenamente à exposição dos trabalhadores a campos electromagnéticos, sem prejuízo de disposições mais estritas e/ou específicas da presente directiva.\n\n(10) A presente directiva constitui um passo concreto no sentido da realização da dimensão social do mercado interno.\n\n(11) As medidas necessárias à execução da presente directiva devem ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^8^](http://publications.europa.eu/resource/cellar/4e579dae-06a9-4eae-8a07-4dc837616cdc.0018.03/DOC_1#E0008)).\n\n(12) A observância dos valores-limite de exposição e dos valores que desencadeiam a acção deverá proporcionar um elevado nível de protecção no que se refere aos efeitos sobre a saúde já conhecidos que podem resultar da exposição a campos electromagnéticos, mas poderá não evitar necessariamente problemas de interferência com dispositivos médicos ou efeitos no funcionamento de tais dispositivos, nomeadamente próteses metálicas, estimuladores cardíacos (*pacemakers*) e desfibriladores, implantes cocleares e outros implantes; poderão ocorrer problemas de interferência, especialmente com os estimuladores cardíacos, a níveis inferiores aos valores que desencadeiam a acção e, como tal, deverão ser objecto de precauções apropriadas e de medidas de protecção,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "19572906891c0646": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "cfbfc021e00b6319": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. A presente directiva, que constitui a 18.ª directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE, estabelece as prescrições mínimas em matéria de protecção dos trabalhadores contra os riscos para a sua segurança e saúde a que estão, ou podem vir a estar sujeitos devido à exposição a campos electromagnéticos (0 Hz-300 GHz) durante o trabalho.\n\n2. A presente directiva tem por objecto o risco para a saúde e a segurança dos trabalhadores devido aos efeitos prejudiciais conhecidos que se manifestam a curto prazo no corpo humano, causados pela circulação de correntes induzidas e pela absorção de energia, bem como pelas correntes de contacto.\n\n3. A presente directiva não contempla os eventuais efeitos a longo prazo.\n\n4. A presente directiva não contempla os riscos resultantes do contacto com condutores em carga.\n\n5. A Directiva 89/391/CEE aplica-se integralmente a todo o domínio referido no n.º 1, sem prejuízo de disposições mais restritivas e/ou mais específicas da presente directiva."
+  },
+  "0b2f8895211e41b4": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, aplicam-se as seguintes definições:\n\na) «Campo electromagnético»: qualquer campo magnético estático ou qualquer campo eléctrico, magnético ou electromagnético variável no tempo com frequências até 300 GHz;\n\nb) «Valores-limite de exposição»: limites relativos à exposição a campos electromagnéticos baseados directamente em efeitos sobre a saúde já estabelecidos e em considerações biológicas. A observância destes limites garantirá a protecção dos trabalhadores expostos a campos electromagnéticos contra todos os efeitos prejudiciais conhecidos para a saúde;\n\nc) «Valores que desencadeiam a acção»: magnitude de parâmetros directamente mensuráveis, fornecidos em termos de intensidade do campo eléctrico (E), intensidade do campo magnético (H), densidade do fluxo magnético (B) e densidade de potência (S), a partir da qual devem ser tomadas uma ou mais das medidas especificadas na presente directiva. A observância destes valores garantirá a observância dos valores-limite de exposição aplicáveis."
+  },
+  "52050e2cab1c38e9": {
+   "fragment_id": "Artigo 3.º — Valores-limite de exposição e valores que desencadeiam a acção",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Valores-limite de exposição e valores que desencadeiam a acção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Valores-limite de exposição e valores que desencadeiam a acção\n\n1. Os valores-limite de exposição são os fixados no quadro 1 do anexo.\n\n2. Os valores que desencadeiam a acção são os fixados no quadro 2 do anexo.\n\n3. Para a avaliação, a medição e/ou o cálculo da exposição dos trabalhadores a campos electromagnéticos, e até à adopção de normas harmonizadas do Comité Europeu de Normalização Electrotécnica (Cenelec) que abranjam todas as situações de avaliação, medição e cálculo em causa, os Estados-Membros poderão utilizar outras normas ou orientações que tenham base científica."
+  },
+  "0b50b9972a75b595": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO II"
+  },
+  "ad9e85e1f37caa00": {
+   "fragment_id": "OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+   "type": "divisao",
+   "heading": "OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBRIGAÇÕES DAS ENTIDADES PATRONAIS"
+  },
+  "6580cbf1697c0d79": {
+   "fragment_id": "Artigo 4.º — Determinação da exposição e avaliação dos riscos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Determinação da exposição e avaliação dos riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Determinação da exposição e avaliação dos riscos\n\n1. No cumprimento das obrigações constantes do n.º 3 do artigo 6.º e do n.º 1 do artigo 9.º da Directiva 89/391/CEE, a entidade patronal deve avaliar e, se for caso disso, medir e/ou calcular os níveis dos campos electromagnéticos a que os trabalhadores se encontram expostos. A avaliação, a medição e o cálculo podem, até à adopção de normas europeias harmonizadas do Cenelec que abranjam todas as situações de avaliação, medição e cálculo, ser efectuados em conformidade com as normas ou orientações com base científica a que se refere o artigo 3.º e, sempre que adequado, tendo em conta os níveis de emissão fornecidos pelos fabricantes do equipamento quando este esteja abrangido pelas directivas comunitárias aplicáveis.\n\n2. Com base na avaliação dos níveis dos campos electromagnéticos efectuada em conformidade com o n.º 1, quando sejam ultrapassados os valores que desencadeiam a acção a que se refere o artigo 3.º, a entidade patronal deve avaliar e, se necessário, calcular se foram ultrapassados os valores-limite de exposição.\n\n3. A avaliação, a medição e/ou os cálculos referidos nos n.^os^ 1 e 2 não precisam de ser efectuados em locais de trabalho abertos ao público desde que já tenha sido efectuada uma avaliação em conformidade com as disposições da Recomendação 1999/519/CE do Conselho, de 12 de Julho de 1999, relativa à limitação da exposição da população aos campos electromagnéticos (0 Hz-300 GHz), e em que sejam respeitadas as restrições nela previstas para os trabalhadores e não existam riscos para a segurança.\n\n4. A avaliação, a medição e/ou os cálculos mencionados nos n.^os^ 1 e 2 devem ser planeados e efectuados por serviços ou pessoas competentes a intervalos apropriados, tendo especialmente em conta as disposições dos artigos 7.º e 11.º da Directiva 89/391/CEE, relativas às competências (pessoas ou serviços) necessárias e à consulta e participação dos trabalhadores. Os dados obtidos a partir da avaliação, medição e/ou cálculo do nível de exposição devem ser conservados de forma a poderem ser posteriormente consultados.\n\n5. Nos termos do n.º 3 do artigo 6.º da Directiva 89/391/CEE, a entidade patronal deve, ao proceder à avaliação dos riscos, prestar uma especial atenção aos seguintes elementos:\n\na) Nível, espectro de frequência, duração e tipo de exposição;\n\nb) Valores-limite de exposição e valores que desencadeiam a acção referidos no artigo 3.º da presente directiva;\n\nc) Efeitos sobre a saúde e a segurança dos trabalhadores expostos a riscos especiais;\n\nd) Efeitos indirectos, tais como:\n\ni) a interferência com equipamentos e instrumentos médicos electrónicos (incluindo estimuladores cardíacos e outros implantes),\n\nii) o risco de projecção de objectos ferromagnéticos em campos magnéticos estáticos com uma densidade de fluxo magnético superior a 3 mT,\n\niii) o arranque de aparelhos electro-explosivos (detonadores),\n\niv) os incêndios e as explosões resultantes da inflamação de materiais inflamáveis devida a faíscas originadas por campos induzidos, correntes de contacto ou descargas de faíscas;\n\ne) Existência de equipamentos de substituição concebidos para reduzir os níveis de exposição a campos electromagnéticos;\n\nf) Informações adequadas recolhidas em resultado da vigilância da saúde, incluindo as publicadas, na medida do possível;\n\ng) Fontes múltiplas de exposição;\n\nh) Exposição simultânea a campos de frequência múltipla.\n\n6. A entidade patronal deve dispor de uma avaliação dos riscos de acordo com o disposto na alínea a) do n.º 1 do artigo 9.º da Directiva 89/391/CEE e identificar as medidas a tomar nos termos dos artigos 5.º e 6.º da presente directiva. A avaliação dos riscos deve ser registada num suporte adequado de acordo com as leis e práticas nacionais; pode incluir uma justificação da entidade patronal de que a natureza e a extensão dos riscos relacionados com campos electromagnéticos tornam desnecessária uma avaliação mais detalhada dos riscos. A avaliação dos riscos deve ser regularmente actualizada, especialmente em caso de alterações significativas susceptíveis de a desactualizar, ou quando os resultados da vigilância da saúde demonstrarem que tal é necessário."
+  },
+  "9d9ea65c377fdc15": {
+   "fragment_id": "Artigo 5.º — Disposições destinadas a evitar ou reduzir os riscos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Disposições destinadas a evitar ou reduzir os riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposições destinadas a evitar ou reduzir os riscos\n\n1. Tendo em conta o progresso técnico e a disponibilidade de medidas de controlo dos riscos na fonte, os riscos resultantes da exposição a campos electromagnéticos devem ser eliminados ou reduzidos ao mínimo.\n\nA redução dos riscos resultantes da exposição a campos electromagnéticos deve basear-se nos princípios gerais de prevenção constantes da Directiva 89/391/CEE.\n\n2. Com base na avaliação dos riscos referidos no artigo 4.º, logo que sejam ultrapassados os valores que desencadeiam a acção referidos no artigo 3.º, e a menos que a avaliação efectuada em conformidade com o n.º 2 do artigo 4.º prove que os valores-limite de exposição não foram ultrapassados e que podem ser excluídos os riscos de segurança, a entidade patronal deve elaborar e pôr em prática um programa de acção com medidas técnicas e/ou organizativas destinadas a evitar que a exposição ultrapasse os valores-limite de exposição, tomando em consideração, nomeadamente:\n\na) Outros métodos de trabalho que permitam reduzir a exposição a campos electromagnéticos;\n\nb) A escolha de equipamento que crie menos campos electromagnéticos, atendendo ao trabalho a executar;\n\nc) Medidas técnicas destinadas a reduzir as emissões dos campos electromagnéticos, incluindo, se necessário, a utilização de encravamentos, blindagens ou mecanismos semelhantes de protecção da saúde;\n\nd) Programas adequados de manutenção para o equipamento de trabalho, o local de trabalho e os postos de trabalho;\n\ne) Concepção e disposição dos locais e postos de trabalho;\n\nf) Limitação da duração e da intensidade da exposição;\n\ng) Disponibilidade de equipamentos de protecção individual adequados.\n\n3. Com base na avaliação dos riscos a que se refere o n.º 2 do artigo 4.º, os locais de trabalho onde os trabalhadores possam encontrar-se expostos a campos electromagnéticos que ultrapassem os valores que desencadeiam a acção devem ser sinalizados por meios adequados de acordo com a Directiva 92/58/CEE do Conselho, de 24 de Junho de 1992, relativa às prescrições mínimas para a sinalização de segurança e/ou de saúde no trabalho (nona directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE) ([^9^](http://publications.europa.eu/resource/cellar/4e579dae-06a9-4eae-8a07-4dc837616cdc.0018.03/DOC_1#E0009)), a menos que a avaliação efectuada em conformidade com o n.º 2 do artigo 4.º prove que os valores-limite de exposição não foram excedidos e que podem ser excluídos os riscos de segurança. Os locais em causa devem também ser delimitados e de acesso restrito, sempre que isso seja tecnicamente possível e exista um risco de os valores-limite serem ultrapassados.\n\n4. Os trabalhadores não podem em caso algum ser sujeitos a exposições acima do valor-limite de exposição.\n\nSe, apesar das medidas tomadas pela entidade patronal para dar cumprimento à presente directiva, os valores-limite de exposição forem ultrapassados, a entidade patronal deverá desenvolver as acções imediatas destinadas a reduzir a exposição abaixo dos valores-limite de exposição. Identificará os motivos que levaram a que os valores-limite de exposição fossem ultrapassados e alterará as medidas de protecção e prevenção nessa conformidade de modo a evitar que a ultrapassagem desses valores se repita.\n\n5. Nos termos do artigo 15.º da Directiva 89/391/CEE, a entidade patronal deve adaptar as medidas referidas no presente artigo às necessidades dos trabalhadores particularmente sensíveis aos riscos."
+  },
+  "9137fba84ac4827f": {
+   "fragment_id": "Artigo 6.º — Informação e formação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Informação e formação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Informação e formação dos trabalhadores\n\nSem prejuízo do disposto nos artigos 10.º e 12.º da Directiva 89/391/CEE, a entidade patronal deve garantir que os trabalhadores expostos aos riscos resultantes de campos electromagnéticos no trabalho e/ou os seus representantes recebam a informação e formação necessárias acerca do resultado da avaliação dos riscos prevista no n.º 1 do artigo 4.º da presente directiva, em especial no que se refere a:\n\na) Medidas tomadas nos termos da presente directiva;\n\nb) Valores e conceitos relativos aos valores-limite de exposição, aos valores que desencadeiam a acção e aos riscos potenciais associados;\n\nc) Resultados da avaliação, das medições e/ou dos cálculos dos níveis de exposição a campos electromagnéticos efectuados em conformidade com o artigo 4.º da presente directiva;\n\nd) Forma de detectar os efeitos negativos para a saúde resultantes da exposição e de os comunicar;\n\ne) Circunstâncias em que os trabalhadores têm direito à vigilância da saúde;\n\nf) Práticas de trabalho seguras para minimizar os riscos resultantes da exposição."
+  },
+  "9c580c9fd5be95c4": {
+   "fragment_id": "Artigo 7.º — Consulta e participação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Consulta e participação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Consulta e participação dos trabalhadores\n\nA consulta e a participação dos trabalhadores e/ou dos seus representantes relativamente às matérias abrangidas pela presente directiva devem ter lugar em conformidade com o artigo 11.º da Directiva 89/391/CEE."
+  },
+  "b4f1bfdbc841cf04": {
+   "fragment_id": "SECÇÃO III",
+   "type": "divisao",
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO III"
+  },
+  "4f0027fbf9863594": {
+   "fragment_id": "DISPOSIÇÕES DIVERSAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES DIVERSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES DIVERSAS"
+  },
+  "8c5d0319bc81a575": {
+   "fragment_id": "Artigo 8.º — Vigilância da saúde",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Vigilância da saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Vigilância da saúde\n\n1. Com vista à prevenção e diagnóstico precoce de qualquer efeito adverso para a saúde devido à exposição a campos electromagnéticos, deve ser efectuada uma adequada vigilância da saúde, de acordo com o artigo 14.º da Directiva 89/391/CEE.\n\nEm qualquer caso, quando for detectada uma exposição acima dos valores-limite, deve ser facultado ao trabalhador ou trabalhadores em questão um exame médico, em conformidade com a legislação e a prática nacionais. Se for detectado qualquer prejuízo para a saúde resultante dessa exposição, o empregador procederá, em conformidade com o artigo 4.º, a uma reavaliação dos riscos.\n\n2. O empregador tomará as medidas adequadas para garantir que o médico e/ou a autoridade médica responsável pelo controlo da saúde tenham acesso aos resultados da avaliação de riscos a que se refere o artigo 4.º\n\n3. Os resultados da vigilância da saúde serão preservados de forma adequada a permitir a sua consulta em data posterior, tomando em consideração os requisitos de confidencialidade. Qualquer trabalhador terá acesso, a seu pedido, aos seus registos pessoais de dados de saúde."
+  },
+  "2166859cc54036a3": {
+   "fragment_id": "Artigo 9.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sanções\n\nOs Estados-Membros devem estabelecer sanções adequadas, a aplicar em caso de violação da legislação nacional aprovada nos termos da presente directiva. Tais sanções devem ser efectivas, proporcionadas e dissuasivas."
+  },
+  "5226bd0cd18dee70": {
+   "fragment_id": "Artigo 10.º — Alterações técnicas",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Alterações técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alterações técnicas\n\n1. As alterações aos valores-limite de exposição e aos valores que desencadeiam a acção constantes do anexo serão adoptadas pelo Parlamento Europeu e pelo Conselho de acordo com o procedimento previsto no n.º 2 do artigo 137.º do Tratado.\n\n2. As alterações do anexo, de natureza estritamente técnica, são aprovadas pela Comissão para ter em conta:\n\na) A aprovação de directivas em matéria de harmonização técnica e de normalização no que se refere à concepção, construção, fabrico ou realização de equipamentos e locais de trabalho;\n\nb) O progresso técnico, as mudanças nas normas ou especificações europeias harmonizadas mais pertinentes e a evolução dos conhecimentos científicos no domínio dos campos electromagnéticos.\n\nAtendendo a que essas medidas têm por objecto alterar elementos não essenciais da presente directiva, devem ser aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 11.º. Por imperativos de urgência, a Comissão pode recorrer ao procedimento de urgência a que se refere o n.º 3 do artigo 11.º."
+  },
+  "4cf1da8a646d4742": {
+   "fragment_id": "Artigo 11.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comité\n\n1. A Comissão será assistida pelo comité a que se refere o artigo 17.º da Directiva 89/391/CEE.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1, 2, 4 e 6 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "b9c1c438fac65788": {
+   "fragment_id": "SECÇÃO IV",
+   "type": "divisao",
+   "heading": "SECÇÃO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO IV"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "c4ce255326a3c697": {
+   "fragment_id": "Artigo 13.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Transposição\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até [**►M4**](http://publications.europa.eu/resource/celex/32012L0011) 31 de outubro de 2013**◄**, informando imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem conter uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das disposições de direito interno que aprovarem ou já tiverem aprovado nas matérias reguladas pela presente directiva."
+  },
+  "0863a5999fe1e1cd": {
+   "fragment_id": "Artigo 14.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "053afd08713fd490": {
+   "fragment_id": "Artigo 15.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "a75fb36cf9144f04": {
+   "fragment_id": "VALORES-LIMITE DE EXPOSIÇÃO E VALORES QUE DESENCADEIAM A ACÇÃO PARA OS CAMPOS ELECTROMAGNÉTICOS",
+   "type": "divisao",
+   "heading": "VALORES-LIMITE DE EXPOSIÇÃO E VALORES QUE DESENCADEIAM A ACÇÃO PARA OS CAMPOS ELECTROMAGNÉTICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VALORES-LIMITE DE EXPOSIÇÃO E VALORES QUE DESENCADEIAM A ACÇÃO PARA OS CAMPOS ELECTROMAGNÉTICOS\n\nPara descrever a exposição a campos electromagnéticos devem utilizar-se as seguintes grandezas físicas:\n\nA *corrente de contacto* (IC) entre uma pessoa e um objecto é expressa em amperes (A). Um objecto condutor num campo eléctrico pode ser carregado pelo campo.\n\nA *densidade da corrente* (J) define-se como a corrente que flui através de uma unidade de secção perpendicular à sua direcção num volume condutor, como o corpo humano ou parte deste, expressa em amperes por metro quadrado (A/m^2^).\n\nA *intensidade do campo eléctrico* é uma grandeza vectorial (E) que corresponde à força exercida sobre uma partícula carregada independentemente de seu movimento no espaço. É expressa em volts por metro (V/m).\n\nA *intensidade do campo magnético* é uma grandeza vectorial (H) que, juntamente com a densidade do fluxo magnético, especifica um campo magnético em qualquer ponto do espaço, expressa em amperes por metro (A/m).\n\nA *densidade do fluxo magnético* é uma grandeza vectorial (B), que dá origem a uma força que actua sobre cargas em movimento, e é expressa em teslas (T). No espaço livre e em materiais biológicos, a densidade do fluxo magnético e a intensidade do campo magnético podem ser intercambiáveis, utilizando-se a equivalência 1 A/m = 4π 10-7 T.\n\nA *densidade de potência* (S) é a grandeza adequada utilizada para frequências muito elevadas, onde a profundidade de penetração no corpo é baixa. É a potência radiante que incide perpendicularmente a uma superfície, dividida pela área da superfície, e é expressa em watts por metro quadrado (W/m^2^).\n\nA *absorção específica de energia* (SA) define-se como a energia absorvida por unidade de massa de tecido biológico, expressa em joules por quilograma (J/kg). Na presente directiva, é utilizada para limitar os efeitos não térmicos resultantes da radiação de micro-ondas constituídas por impulsos.\n\nA *taxa de absorção específica de energia* (SAR), cuja média se calcula na totalidade do corpo ou em partes deste, define-se como o ritmo a que a energia é absorvida por unidade de massa de tecido do corpo, e é expressa em watts por quilograma (W/kg). A SAR relativa a todo o corpo é uma medida amplamente aceite para relacionar os efeitos térmicos nocivos com a exposição à rádio-frequência (RF). Para além da SAR média relativa a todo o corpo, são necessários valores SAR locais para avaliar e limitar uma deposição excessiva de energia em pequenas partes do corpo, em consequência de condições de exposição especiais, como por exemplo a exposição à RF na gama baixa de MHz de uma pessoa ligada à terra, ou as pessoas expostas num campo próximo de uma antena.\n\nDestas grandezas, as que podem medir-se directamente são a densidade do fluxo magnético, a corrente de contacto, as intensidades dos campos eléctrico e magnético e a densidade de potência."
+  },
+  "bd483a90a6274fbc": {
+   "fragment_id": "A. VALORES-LIMITE DE EXPOSIÇÃO",
+   "type": "divisao",
+   "heading": "A. VALORES-LIMITE DE EXPOSIÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. VALORES-LIMITE DE EXPOSIÇÃO\n\nEm função da frequência, utilizam-se as seguintes grandezas físicas para especificar os valores-limite de exposição aos campos electromagnéticos:\n\n— os valores-limite de exposição prescrevem-se para a densidade da corrente dos campos variáveis no tempo até 1 Hz, a fim de prevenir efeitos sobre o aparelho cardiovascular e o sistema nervoso central,\n\n— entre 1 Hz e 10 MHz, prescrevem-se valores-limite de exposição para a densidade da corrente, a fim de prevenir efeitos sobre as funções do sistema nervoso,\n\n— entre 100 kHz e 10 GHz, prescrevem-se valores-limite de exposição para a SAR, a fim de prevenir o *stress* do calor em todo o corpo e um aquecimento localizado excessivo dos tecidos. Na gama de 100 kHz a 10 Mhz, prescrevem-se valores-limite de exposição, tanto para a densidade da corrente, como para a SAR,\n\n— entre 10 GHz e 300 GHz, prescreve-se um valor-limite de exposição para a densidade de potência, a fim de prevenir o aquecimento dos tecidos à superfície do corpo ou próximo dela.\n\n| Gama de frequências | Densidade da corrente para a cabeça e o tronco J (mA/m^2^) (rms) | SAR média para todo o corpo (W/kg) | SAR localizada (cabeça e tronco) (W/kg) | SAR localizada (membros) (W/kg) | Densidade de potência (W/m^2^) |\n| --- | --- | --- | --- | --- | --- |\n| Até 1 Hz | 40 | — | — | — | — |\n| 1-4 Hz | 40/f | — | — | — | — |\n| 4-1 000 Hz | 10 | — | — | — | — |\n| 1 000 Hz-100 kHz | f/100 | — | — | — | — |\n| 100 kHz-10 MHz | f/100 | 0,4 | 10 | 20 | — |\n| 10 MHz-10 GHz | — | 0,4 | 10 | 20 | — |\n| 10-300 GHz | — | — | — | — | 50 |"
+  },
+  "205f4d0212629ed9": {
+   "fragment_id": "Notas:",
+   "type": "divisao",
+   "heading": "Notas:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Notas:\n\n1. f é a frequência em hertz.\n\n2. Os valores-limite de exposição para a densidade da corrente destinam-se a proteger contra efeitos de exposição agudos nos tecidos do sistema nervoso central na cabeça e no tronco. Os valores-limite de exposição na gama de frequência de 1 Hz a 10 MHz baseiam-se em efeitos nocivos sobre o sistema nervoso central já estabelecidos. Estes efeitos agudos são essencialmente instantâneos, e não há razões científicas para alterar os valores-limite de exposição para a exposição de curta duração. Todavia, como os valores-limite de exposição dizem respeito aos efeitos nocivos sobre o sistema nervoso central, estes valores-limite de exposição podem consentir densidades da corrente mais altas em tecidos que não sejam os do sistema nervoso central, para as mesmas condições de exposição.\n\n3. Dada a não homogeneidade eléctrica do corpo, as densidades da corrente devem ser calculadas como médias numa secção transversal de 1 cm^2^ perpendicular à direcção da corrente.\n\n4. Para frequências até 100 kHz, os picos da densidade da corrente podem obter-se multiplicando o valor rms por (2)^1/2^.\n\n5. Para frequências até 100 kHz e para campos magnéticos pulsantes, a densidade máxima da corrente associada aos impulsos pode ser calculada a partir dos tempos de subida/descida e da taxa máxima de mudança de densidade do fluxo magnético. A densidade da corrente induzida pode então comparar-se com o valor-limite de exposição adequado. Para impulsos de duração tp, a frequência equivalente a aplicar no que se refere aos valores-limite de exposição deve calcular-se como f = 1/(2 tp).\n\n6. Todos os valores SAR devem ser médios ao longo de um período de 6 minutos.\n\n7. Como massa sobre a qual se calcula a SAR média localizada podem-se tomar 10 g de quaisquer tecidos contíguos; a SAR máxima assim obtida deverá ser o valor utilizado para estimar a exposição. Por estes 10 g de tecido contíguo entende-se uma massa de tecido contíguo dotado de propriedades eléctricas praticamente homogéneas. Ao especificar-se uma massa de tecido contíguo, reconhece-se que este conceito pode ser usado na dosimetria baseada em modelos matemáticos, mas que pode colocar dificuldades em medições físicas directas. Pode ser usada uma medida geométrica simples, como por exemplo a massa cúbica de tecido, desde que as quantidades dosimétricas calculadas apresentem valores prudentes em relação às directrizes sobre exposição.\n\n8. No que se refere às exposições por impulsos na gama de frequências de 0,3 a 10 Ghz e no que respeita à exposição localizada da cabeça, é recomendado um valor-limite de exposição adicional para limitar e evitar os efeitos auditivos causados pela expansão termoelástica. Quer dizer que a SA não deve exceder 10 mJ/kg como média calculada em 10 g de tecido.\n\n9. As densidades de potência devem ser calculadas como médias numa área exposta de 20 cm^2^ ao longo de um período de 68/f^1,05^ min (sendo f expressa em GHz) a fim de compensar a progressiva redução da profundidade de penetração à medida que a frequência aumenta. As densidades de potência espaciais máximas, cujas médias devem ser calculadas numa área de 1 cm^2^, não devem exceder 20 vezes o valor de 50 W/m^2^.\n\n10. Relativamente a campos electromagnéticos constituídos por impulsos ou transitórios, ou de um modo geral relativamente à exposição simultânea a campos com múltiplas frequências, devem ser aplicados métodos apropriados de avaliação, medição e/ou cálculo capazes de analisar as características das formas de onda e a natureza das interacções biológicas, tomando em conta as normas europeias harmonizadas desenvolvidas pelo Cenelec."
+  },
+  "a71b4b7009f474c7": {
+   "fragment_id": "B. VALORES QUE DESENCADEIAM A ACÇÃO",
+   "type": "divisao",
+   "heading": "B. VALORES QUE DESENCADEIAM A ACÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. VALORES QUE DESENCADEIAM A ACÇÃO\n\nOs valores que desencadeiam a acção referidos no quadro 2 são obtidos a partir dos valores-limite de exposição de acordo com a metodologia utilizada pela Comissão Internacional para a Protecção contra as Radiações Não Ionizantes (ICNIRP) nas suas orientações relativas à limitação da exposição a radiações não ionizantes (ICNIRP 7/99)\n\n| Gama de frequências | Intensidade do campo elétrico, E (V/m) | Intensidade do campo magnético, H (A/m) | Densidade do fluxo magnético, B (μT) | Densidade de potência da onda plana equivalente, Seq (W/m2) | Corrente de contacto, Ic (mA) | Corrente induzida dos membros, IL (mA) |\n| --- | --- | --- | --- | --- | --- | --- |\n| 0 – 1 Hz | — | 1,63 × 10^5^ | 2 × 10^5^ | — | 1,0 | — |\n| 1 – 8 Hz | 20 000 | 1,63 × 10^5^/f^2^ | 2 × 10^5^/f^2^ | — | 1,0 | — |\n| 8 – 25 Hz | 20 000 | 2 × 10^4^/f | 2,5 × 10^4^/f | — | 1,0 | — |\n| 0,025 – 0,82 kHz | 500/f | 20/f | 25/f | — | 1,0 | — |\n| 0,82 – 2,5 kHz | 610 | 24,4 | 30,7 | — | 1,0 | — |\n| 2,5 – 65 kHz | 610 | 24,4 | 30,7 | — | 0,4 f | — |\n| 65 – 100 kHz | 610 | 1 600/f | 2 000/f | — | 0,4 f | — |\n| 0,1 – 1 MHz | 610 | 1,6/f | 2/f | — | 40 | — |\n| 1 – 10 MHz | 610/f | 1,6/f | 2/f | — | 40 | — |\n| 10 – 110 MHz | 61 | 0,16 | 0,2 | 10 | 40 | 100 |\n| 110 – 400 MHz | 61 | 0,16 | 0,2 | 10 | — | — |\n| 400 – 2 000 MHz | 3f½ | 0,008f½ | 0,01f½ | f/40 | — | — |\n| 2 – 300 GHz | 137 | 0,36 | 0,45 | 50 | — | — |"
+  },
+  "336fad341eff705a": {
+   "fragment_id": "Notas:",
+   "type": "divisao",
+   "heading": "Notas:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Notas:\n\n1. f é a frequência nas unidades indicadas na coluna da gama de frequências.\n\n2. Para frequências entre 100 kHz e 10 GHz, Seq, E, H, B e IL devem ser calculadas como médias ao longo de um período de 6 minutos.\n\n3. Para frequências superiores a 10 GHz, Seq, E, H e B devem ser calculadas como médias ao longo de um período de 68/f^1,05^ minutos (f em GHz).\n\n4. Para frequências até 100 kHz, os valores de referência de pico que desencadeiam a acção no que se refere à intensidade de campo obtêm-se multiplicando os valores rms por (2)^1/2^. Para impulsos de duração tp, a frequência equivalente a aplicar no que se refere à acção deve calcular-se como f = 1/(2tp),\n\n5. Relativamente a campos electromagnéticos constituídos por impulsos ou transitórios, ou de um modo geral relativamente à exposição simultânea a campos com múltiplas frequências, devem ser aplicados métodos apropriados de avaliação, medição ou cálculo capazes de analisar as características das formas de onda e a natureza das interacções biológicas, tomando em conta as normas europeias harmonizadas desenvolvidas pelo Cenelec.\n\n6. Relativamente a valores de pico dos campos electromagnéticos modulados constituídos por impulsos, sugere-se igualmente que, no que se refere às frequências portadoras que ultrapassem os 10 MHz, a média Seq calculada na largura do impulso não deve ser 1 000 vezes superior aos valores de Seq que desencadeiam a acção ou que a intensidade de campo não seja 32 vezes superior aos valores de intensidade de campo que desencadeiam a acção referentes à frequência portadora.\n\n---"
+  },
+  "59fa308228b97186": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4e579dae-06a9-4eae-8a07-4dc837616cdc.0018.03/DOC_1#src.E0001)) JO C 77 de 18.3.1993, p. 12 e JO C 230 de 19.8.1994, p. 3.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4e579dae-06a9-4eae-8a07-4dc837616cdc.0018.03/DOC_1#src.E0002)) JO C 249 de 13.9.1993, p. 28.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4e579dae-06a9-4eae-8a07-4dc837616cdc.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 20 de Abril de 1994 (JO C 128 de 9.5.1994, p. 146), confirmado em 16 de Setembro de 1999 (JO C 54 de 25.2.2000, p. 75), posição comum do Conselho de 18 de Dezembro de 2003 (JO C 66 E de 16.3.2004, p. 1) e posição do Parlamento Europeu de 30 de Março de 2004 (ainda não publicada no Jornal Oficial). Decisão do Conselho de 7 de Abril de 2004.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4e579dae-06a9-4eae-8a07-4dc837616cdc.0018.03/DOC_1#src.E0004)) JO C 260 de 15.10.1990, p. 167.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/4e579dae-06a9-4eae-8a07-4dc837616cdc.0018.03/DOC_1#src.E0005)) JO L 177 de 6.7.2002, p. 13.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/4e579dae-06a9-4eae-8a07-4dc837616cdc.0018.03/DOC_1#src.E0006)) JO L 42 de 15.2.2003, p. 38.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/4e579dae-06a9-4eae-8a07-4dc837616cdc.0018.03/DOC_1#src.E0007)) JO L 183 de 29.6.1989, p. 1. Directiva alterada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/4e579dae-06a9-4eae-8a07-4dc837616cdc.0018.03/DOC_1#src.E0008)) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/4e579dae-06a9-4eae-8a07-4dc837616cdc.0018.03/DOC_1#src.E0009)) JO L 199 de 30.7.1999, p. 59."
+  },
+  "51cef09cca4f8764": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2004L0040 — PT — 29.06.2013 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32004L0040) [DIRECTIVA 2004/40/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32004L0040) [de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004L0040) [relativa às prescrições mínimas de segurança e saúde em matéria de exposição dos trabalhadores aos riscos devidos aos agentes físicos (campos electromagnéticos) (18.ª directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE)](http://publications.europa.eu/resource/celex/32004L0040) (JO L 159, 30.4.2004, p.1)\n\n**revogado por:**\n\n- [Diretiva 2013/35/UE do Parlamento Europeu e do Conselho de 26 de junho de 2013](http://publications.europa.eu/resource/celex/32013L0035) — L 179 — 1 — 29.6.2013"
+  }
+ }
+}

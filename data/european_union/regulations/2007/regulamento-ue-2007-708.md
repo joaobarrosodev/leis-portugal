@@ -35,6 +35,129 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-04-02'
+version_history:
+  file: regulamento-ue-2007-708.versoes.json
+  count: 4
+  source_lastmod: '2022-04-02'
+  versions:
+  - date: '2007-06-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-06-08'
+    amending: eu:celex:32008R0506:por
+    amending_title: REGULAMENTO (CE) N. o 506/2008 DA COMISSÃO de 6 de Junho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita ANEXO I
+    - Adita PEDIDO
+    - Adita (Orientações indicativas para o dossier a preencher pelo requerente a que se refere o artigo 6.º)
+    - Adita A. Síntese
+    - Adita B. Introdução
+    - Adita C. Informações sobre o ciclo de vida das espécies a introduzir — para cada fase do ciclo de vida
+    - Adita D. Interacção com espécies nativas
+    - Adita E. Meio receptor e águas contíguas
+    - Adita F. Controlo
+    - Adita G. Plano de gestão
+    - Adita H. Dados relativos às empresas
+    - Adita I. Referências
+    - Adita ANEXO II
+  - date: '2011-04-24'
+    amending: eu:celex:32011R0304:por
+    amending_title: Regulamento (UE) n. o 304/2011 do Parlamento Europeu e do Conselho de 9 de Março de 2011
+    changes:
+    - Altera preambulo
+    - Altera (Orientações indicativas para o dossier a preencher pelo requerente a que se refere o artigo 6.º)
+    - Altera D. Interacção com espécies nativas
+    - Altera Probabilidade de estabelecimento e disseminação fora da zona de introdução prevista
+    - Altera Consequências do estabelecimento e disseminação
+    - Altera Risco potencial associado às espécies exóticas e às espécies ausentes localmente
+    - Altera Probabilidade de estabelecimento e disseminação de espécies não alvo fora da zona de introdução prevista
+    - Altera Consequências do estabelecimento e disseminação de espécies não alvo
+    - Altera Potencial de risco associado às espécies não alvo
+    - Altera Mortalidade e eliminação
+    - 'Altera PARTE A: Geral'
+    - Altera Notas
+    - Adita Artigo 1.º — Objecto
+    - Adita Artigo 2.º — Âmbito de aplicação
+    - Adita Artigo 3.º — Definições
+    - Adita Artigo 4.º — Medidas destinadas a evitar efeitos adversos
+    - Adita Artigo 5.º — Órgãos decisórios e consultivos
+    - Adita Artigo 6.º — Pedido de licença
+    - Adita Artigo 7.º — Tipo de movimento proposto
+    - Adita Artigo 8.º — Movimento rotineiro
+    - Adita Artigo 9.º — Movimento não rotineiro
+    - Adita Artigo 10.º — Período de decisão
+    - Adita Artigo 11.º — Movimentos que afectam Estados-Membros vizinhos
+    - Adita Artigo 12.º — Retirada da licença
+    - Adita Artigo 13.º — Cumprimento de outras disposições [►M2](http://publications.europa.eu/resource/celex/32011R0304)
+      da União◄
+    - Adita Artigo 14.º — Libertação em instalações aquícolas no caso de introduções rotineiras
+    - Adita Artigo 15.º — Libertação em instalações aquícolas abertas no caso de introduções não rotineiras
+    - Adita Artigo 16.º — Libertação-piloto em instalações aquícolas abertas
+    - Adita Artigo 17.º — Planos de emergência
+    - Adita Artigo 18.º — Controlo
+    - Adita Artigo 19.º — Cumprimento de outras disposições [►M2](http://publications.europa.eu/resource/celex/32011R0304)
+      da União◄
+    - Adita Artigo 20.º — Translocação não rotineira para instalações aquícolas abertas
+    - Adita Artigo 21.º — Quarentena
+    - Adita Artigo 22.º — Controlo após a translocação
+    - Adita Artigo 23.º — Registo
+    - Adita Artigo 24.º — Alterações dos anexos e regras pormenorizadas
+    - Adita Artigo 24.ºA — Exercício da delegação
+    - Adita Artigo 24.ºB — Revogação da delegação
+    - Adita Artigo 24.ºC — Objecções aos actos delegados
+    - Adita Artigo 25.º — Entrada em vigor
+  - date: '2022-04-02'
+    amending: eu:celex:32022R0516:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/516 DA COMISSÃO de 26 de outubro de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas destinadas a evitar efeitos adversos
+    - Altera Artigo 13.º — Cumprimento de outras disposições [►M2](http://publications.europa.eu/resource/celex/32011R0304)
+      da União◄
+    - Altera Artigo 23.º — Registo
+    - Altera Artigo 25.º — Entrada em vigor
+    - Altera Probabilidade de estabelecimento e disseminação fora da zona de introdução prevista
+    - Altera Consequências do estabelecimento e disseminação
+    - Altera Risco potencial associado às espécies exóticas e às espécies ausentes localmente
+    - Altera Probabilidade de estabelecimento e disseminação de espécies não alvo fora da zona de introdução prevista
+    - Altera Consequências do estabelecimento e disseminação de espécies não alvo
+    - Altera Potencial de risco associado às espécies não alvo
+    - Altera Mortalidade e eliminação
+    - 'Altera PARTE A: Geral'
+    - 'Altera PARTE B: departamentos franceses ultramarinos'
+    - Altera Notas
+    - Adita Lista das espécies a que se refere o n.º 5 do artigo 2.º ([^7^](http://publications.europa.eu/resource/cellar/6d48beca-d0b3-11ec-a95f-01aa75ed71a1.0020.02/DOC_1#E0021))
+    - Suprime Lista das espécies a que se refere o n.º 5 do artigo 2.º
 identifiers:
   celex: 32007R0708
   eli: http://data.europa.eu/eli/reg/2007/708/oj
@@ -49,7 +172,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/39dccea5-20a1-4cb6-a4d5-a6cab56870fd.0018
   content_url: http://publications.europa.eu/resource/cellar/6d48beca-d0b3-11ec-a95f-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0708-20220402
-  retrieved_at: '2026-10-22T02:41:32Z'
+  retrieved_at: '2026-10-22T15:09:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T10:47:26.625+01:00'
 integrity:
@@ -58,9 +181,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:32Z'
-  notes: Texto consolidado 02007R0708-20220402.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:09:02Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2007-708.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -174,31 +297,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/3aa4fce8-0547-47d0-add3-4ee7b1e60608
 article_structure:
   article_count: 28
-  section_count: 61
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 62
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:32Z'
+  checked_at: '2026-10-22T15:09:02Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 708/2007 do Conselho, de 11 de Junho de 2007
-
-> 02007R0708 — PT — 02.04.2022 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008R0506) — [REGULAMENTO (CE) N.º 506/2008 DA COMISSÃO de 6 de Junho de 2008](http://publications.europa.eu/resource/celex/32008R0506) — L 149 — 36 — 7.6.2008
-- [►M2](http://publications.europa.eu/resource/celex/32011R0304) — [REGULAMENTO (UE) N.º 304/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de Março de 2011](http://publications.europa.eu/resource/celex/32011R0304) — L 88 — 1 — 4.4.2011
-- [►M3](http://publications.europa.eu/resource/celex/32022R0516) — [REGULAMENTO DELEGADO (UE) 2022/516 DA COMISSÃO de 26 de outubro de 2021](http://publications.europa.eu/resource/celex/32022R0516) — L 104 — 51 — 1.4.2022
-
-## REGULAMENTO (CE) N.º 708/2007 DO CONSELHO
 
 de 11 de Junho de 2007
 

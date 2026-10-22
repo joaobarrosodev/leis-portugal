@@ -37,6 +37,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-12-28'
+version_history:
+  file: regulamento-ue-2006-1986.versoes.json
+  count: 1
+  source_lastmod: '2006-12-28'
+  versions:
+  - date: '2006-12-28'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32006R1986
   eli: http://data.europa.eu/eli/reg/2006/1986/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9778354d-8d4a-4026-8123-3a28cc0cf791.0017
   content_url: http://publications.europa.eu/resource/cellar/f9d6aa53-ab8d-4ba4-9267-34ffdf88c863.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1986-20061228
-  retrieved_at: '2026-10-22T03:12:51Z'
+  retrieved_at: '2026-10-22T15:06:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T08:31:20.870+01:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:51Z'
-  notes: Texto consolidado 02006R1986-20061228.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:06:15Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2006-1986.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -140,29 +149,19 @@ relationships:
   date: '2018-12-07'
 article_structure:
   article_count: 3
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:51Z'
+  checked_at: '2026-10-22T15:06:15Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) no 1986/2006 do Parlamento Europeu e do Conselho, de 20 de Dezembro de 2006
-
-> 2006R1986 — PT — 28.12.2006 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32006R1986R%2801%29) — [Rectificação, JO L 026, 31.1.2015, p. 34 (1986/2006)](http://publications.europa.eu/resource/celex/32006R1986R%2801%29)
-
-## REGULAMENTO (CE) No 1986/2006 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de Dezembro de 2006
 

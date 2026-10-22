@@ -34,6 +34,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-12'
+version_history:
+  file: decisao-ue-2002-187.versoes.json
+  count: 2
+  source_lastmod: '2019-12-12'
+  versions:
+  - date: '2009-06-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-12-12'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Criação e personalidade jurídica
+    - Suprime Artigo 2.º — Composição da Eurojust
+    - Suprime Artigo 3.º — Objectivos
+    - Suprime Artigo 4.º — Competência
+    - Suprime Artigo 5.º — Funções
+    - Suprime Artigo 5.º-A — Coordenação permanente
+    - Suprime Artigo 6.º — Funções exercidas por intermédio dos membros nacionais
+    - Suprime Artigo 7.º — Funções da Eurojust exercidas colegialmente
+    - Suprime Artigo 8.º — Seguimento dos pedidos e pareceres da Eurojust
+    - Suprime Artigo 9.º — Membros nacionais
+    - Suprime Artigo 9.º-A — Competências do membro nacional conferidas a nível nacional
+    - Suprime Artigo 9.º-B — Competências ordinárias
+    - Suprime Artigo 9.º-C — Competências exercidas em concertação com uma autoridade nacional competente
+    - Suprime Artigo 9.º-D — Competências exercidas em casos urgentes
+    - Suprime Artigo 9.º-E — Pedidos apresentados por membros nacionais impossibilitados de exercer as competências
+    - Suprime Artigo 9.º-F — Participação do membro nacional em equipas de investigação conjuntas
+    - Suprime Artigo 10.º — Colégio
+    - Suprime Artigo 11.º — Papel da Comissão
+    - Suprime Artigo 12.º — Sistema nacional de coordenação da Eurojust
+    - Suprime Artigo 13.º — Intercâmbio de informações com os Estados-Membros e entre membros nacionais
+    - Suprime Artigo 13.º-A — Informação prestada pela Eurojust às autoridades nacionais competentes
+    - Suprime Artigo 14.º — Tratamento de dados pessoais
+    - Suprime Artigo 15.º — Restrições em matéria de tratamento de dados pessoais
+    - Suprime Artigo 16.º — Sistema de gestão de processos, índice e ficheiros de trabalho temporários
+    - Suprime Artigo 16.º-A — Funcionamento dos ficheiros de trabalho temporários e do índice
+    - Suprime Artigo 16.º-B — Acesso ao sistema de gestão de processos a nível nacional
+    - Suprime Artigo 17.º — Responsável pela protecção de dados
+    - Suprime Artigo 18.º — Acesso autorizado aos dados pessoais
+    - Suprime Artigo 19.º — Direito de acesso aos dados pessoais
+    - Suprime Artigo 20.º — Rectificação e cancelamento de dados pessoais
+    - Suprime Artigo 21.º — Prazos de conservação de dados pessoais
+    - Suprime Artigo 22.º — Segurança dos dados
+    - Suprime Artigo 23.º — Instância Comum de Controlo
+    - Suprime Artigo 24.º — Responsabilidade pelo tratamento não autorizado ou incorrecto dos dados
+    - Suprime Artigo 25.º — Sigilo
+    - Suprime Artigo 25.º-A — Cooperação com a Rede Judiciária Europeia e outras redes da União Europeia envolvidas na cooperação
+      em matéria penal
+    - Suprime Artigo 26.º — Relações com instituições, organismos e agências ligados à Comunidade ou à União
+    - Suprime Artigo 26.º-A — Relações com organizações e Estados terceiros
+    - Suprime Artigo 27.º — Transmissão de dados
 identifiers:
   celex: 32002D0187
   eli: http://data.europa.eu/eli/dec/2002/187/oj
@@ -48,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d79f0657-4de9-46df-8368-1ed624887087.0010
   content_url: http://publications.europa.eu/resource/cellar/74f436f3-176c-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002D0187-20191212
-  retrieved_at: '2026-10-22T02:57:17Z'
+  retrieved_at: '2026-10-22T14:51:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T07:09:38.575+01:00'
 integrity:
@@ -57,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:17Z'
-  notes: Texto consolidado 02002D0187-20191212.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:05Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2002-187.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -185,16 +239,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:17Z'
+  checked_at: '2026-10-22T14:51:05Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02002D0187-20020306: versão indisponível (Sem expressão na língua por para CELEX 02002D0187-20020306.)'
+  - '02002D0187-20031001: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

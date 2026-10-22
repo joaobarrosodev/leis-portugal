@@ -35,6 +35,75 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-26'
+version_history:
+  file: diretiva-ue-2004-9.versoes.json
+  count: 3
+  source_lastmod: '2019-07-26'
+  versions:
+  - date: '2004-02-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-04-20'
+    amending: eu:celex:32009R0219:por
+    amending_title: REGULAMENTO (CE) N. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera ANEXO I
+    - Adita PARTE A GUIA REVISTO PARA OS PROCEDIMENTOS DE VERIFICAÇÃO DO CUMPRIMENTO DAS BPL
+    - Adita Definição de termos
+    - Adita Elementos de verificação do cumprimento das boas práticas de laboratório (BPL)
+    - Adita Confidencialidade
+    - Adita Pessoal e formação
+    - Adita Programas (nacionais) de cumprimento das BPL
+    - Adita Sequência a dar às inspecções a instalações de ensaio e às auditorias a estudos
+    - Adita Procedimentos de recurso
+    - Adita PARTE B ORIENTAÇÕES PARA A REALIZAÇÃO DE INSPECÇÕES A INSTALAÇÕES DE ENSAIO E AUDITORIAS DE ESTUDOS
+    - Adita Introdução
+    - Adita Inspecções a instalações de ensaio
+    - Adita Procedimento de inspecção
+    - Adita Reunião inicial
+    - Adita Organização e pessoal
+    - Adita Programa de garantia da qualidade
+    - Adita Instalações
+    - Adita Cuidados a ter com os sistemas de ensaio biológicos e respectiva acomodação e confinamento
+    - Adita Equipamentos, materiais, reagentes e espécimes
+    - Adita Sistemas de ensaio
+    - Adita Sistemas físicos e químicos
+    - Adita Sistemas de ensaio biológicos
+    - Adita Substâncias para ensaio e substâncias de referência
+    - Adita Procedimentos habituais de funcionamento (PHF)
+    - Adita Execução do estudo
+    - Adita Relatório dos resultados dos estudos
+    - Adita Armazenamento e conservação dos registos
+    - Adita Auditorias a estudos
+    - Adita Finalização da inspecção ou da auditoria de um estudo
+    - Adita ANEXO II
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita ANEXO III
+    - Adita Notas
+    - Suprime ANEXO II — PARTE A
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera PARTE A
+    - Altera PARTE B
+    - Altera Notas
+    - Adita Artigo 6.º-A
+    - Adita GUIA REVISTO PARA OS PROCEDIMENTOS DE VERIFICAÇÃO DO CUMPRIMENTO DAS BPL
+    - Adita ORIENTAÇÕES PARA A REALIZAÇÃO DE INSPECÇÕES A INSTALAÇÕES DE ENSAIO E AUDITORIAS DE ESTUDOS
+    - Suprime PARTE A GUIA REVISTO PARA OS PROCEDIMENTOS DE VERIFICAÇÃO DO CUMPRIMENTO DAS BPL
+    - Suprime PARTE B ORIENTAÇÕES PARA A REALIZAÇÃO DE INSPECÇÕES A INSTALAÇÕES DE ENSAIO E AUDITORIAS DE ESTUDOS
 identifiers:
   celex: 32004L0009
   eli: http://data.europa.eu/eli/dir/2004/9/oj
@@ -49,7 +118,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1e7cab61-131c-4866-b7ea-df6024e0d945.0010
   content_url: http://publications.europa.eu/resource/cellar/8a917c63-eb97-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0009-20190726
-  retrieved_at: '2026-10-22T03:11:39Z'
+  retrieved_at: '2026-10-22T14:56:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T17:12:15.536+01:00'
 integrity:
@@ -58,9 +127,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:39Z'
-  notes: Texto consolidado 02004L0009-20190726.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:36Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2004-9.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -127,30 +196,19 @@ relationships:
   date: '1988-06-11'
 article_structure:
   article_count: 12
-  section_count: 36
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 37
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:39Z'
+  checked_at: '2026-10-22T14:56:36Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2004/9/CE do Parlamento Europeu e do Conselho, de 11 de Fevereiro de 2004
-
-> 02004L0009 — PT — 26.07.2019 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) N.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-- [►M2](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-## DIRECTIVA 2004/9/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de Fevereiro de 2004
 

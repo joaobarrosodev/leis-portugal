@@ -35,6 +35,67 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: diretiva-ue-1998-5.versoes.json
+  count: 3
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '1998-03-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0100:por
+    amending_title: DIRECTIVA 2006/100/CE DO CONSELHO de 20 de Novembro de 2006; Acto relativo às condições de adesão da República
+      Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República
+      da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações
+      dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º — Objecto, âmbito de aplicação e definições
+    - Adita Artigo 2.º — Direito de exercer com o título profissional de origem
+    - Adita Artigo 3.º — Inscrição junto da autoridade competente
+    - Adita Artigo 4.º — Exercício com o título profissional de origem
+    - Adita Artigo 5.º — Domínio de actividade
+    - Adita Artigo 6.º — Regras profissionais e deontológicas aplicáveis
+    - Adita Artigo 7.º — Processos disciplinares
+    - Adita Artigo 8.º — Exercício assalariado
+    - Adita Artigo 9.º — Fundamentação e recurso jurisdicional
+    - Adita Artigo 10.º — Equiparação aos advogados do Estado-membro de acolhimento
+    - Adita Artigo 11.º — Exercício em grupo
+    - Adita Artigo 12.º — Denominação do grupo
+    - Adita Artigo 13.º — Cooperação entre as autoridades competentes dos Estados-membros de acolhimento e de origem e confidencialidade
+    - Adita Artigo 14.º — Designação das autoridades competentes
+    - Adita Artigo 15.º — Relatório da Comissão
+    - Adita Artigo 16.º — Transposição
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º — Destinatários
+    - Adita Notas
+    - Suprime Artigo 1º — Objecto, âmbito de aplicação e definições
+    - Suprime Artigo 2º — Direito de exercer com o título profissional de origem
+    - Suprime Artigo 3º — Inscrição junto da autoridade competente
+    - Suprime Artigo 4º — Exercício com o título profissional de origem
+    - Suprime Artigo 5º — Domínio de actividade
+    - Suprime Artigo 6º — Regras profissionais e deontológicas aplicáveis
+    - Suprime Artigo 7º — Processos disciplinares
+    - Suprime Artigo 8º — Exercício assalariado
+    - Suprime Artigo 9º — Fundamentação e recurso jurisdicional
+    - Suprime Artigo 10º — Equiparação aos advogados do Estado-membro de acolhimento
+    - Suprime Artigo 11º — Exercício em grupo
+    - Suprime Artigo 12º — Denominação do grupo
+    - Suprime Artigo 13º — Cooperação entre as autoridades competentes dos Estados-membros de acolhimento e de origem e confidencialidade
+    - Suprime Artigo 14º — Designação das autoridades competentes
+    - Suprime Artigo 15º — Relatório da Comissão
+    - Suprime Artigo 16º — Transposição
+    - Suprime Artigo 17º
+    - Suprime Artigo 18º — Destinatários
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0025:por
+    amending_title: DIRETIVA 2013/25/UE DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto, âmbito de aplicação e definições
+    - Altera Notas
 identifiers:
   celex: 31998L0005
   eli: http://data.europa.eu/eli/dir/1998/5/oj
@@ -49,7 +110,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1ef3b7d2-7e02-41da-b30b-8417fd573ed1.0011
   content_url: http://publications.europa.eu/resource/cellar/cb146f59-62b6-4a69-a51a-1e2a2520ac33.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0005-20130701
-  retrieved_at: '2026-10-22T03:08:59Z'
+  retrieved_at: '2026-10-22T14:46:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T07:34:31.303+01:00'
 integrity:
@@ -58,9 +119,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:08:59Z'
-  notes: Texto consolidado 01998L0005-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:34Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1998-5.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -169,34 +230,20 @@ relationships:
   date: '2019-05-07'
 article_structure:
   article_count: 18
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:08:59Z'
-  warnings: []
+  checked_at: '2026-10-22T14:46:34Z'
+  warnings:
+  - '01998L0005-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 98/5/CE do Parlamento Europeu e do Conselho de 16 de Fevereiro de 1998
-
-> 1998L0005 — PT — 01.07.2013 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006L0100) — [DIRECTIVA 2006/100/CE DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0100) — L 363 — 141 — 20.12.2006
-- [►M2](http://publications.europa.eu/resource/celex/32013L0025) — [DIRETIVA 2013/25/UE DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0025) — L 158 — 368 — 10.6.2013
-
-**Alterado por:**
-
-- [►A1](http://publications.europa.eu/resource/celex/12003T) — L 236 — 33 — 23.9.2003
-
-## DIRECTIVA 98/5/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Fevereiro de 1998
 

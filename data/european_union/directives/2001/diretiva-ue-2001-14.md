@@ -35,6 +35,84 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-06-17'
+version_history:
+  file: diretiva-ue-2001-14.versoes.json
+  count: 4
+  source_lastmod: '2015-06-17'
+  versions:
+  - date: '2002-12-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-04-30'
+    amending: eu:celex:32004L0049:por
+    amending_title: DIRECTIVA 2004/49/CE DO PARLAMENTO EUROPEU E DO CONSELHO directiva relativa à segurança ferroviária de
+      29 de Abril de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 30.º — Entidade reguladora
+    - Altera Artigo 34.º — Medidas de execução
+    - Altera Notas
+    - Suprime Artigo 32.º — Certificado de segurança
+  - date: '2007-12-04'
+    amending: eu:celex:32007L0058:por
+    amending_title: DIRECTIVA 2007/58/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de Outubro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 13.º — Direitos de capacidade
+    - Altera Artigo 17.º — Acordos-quadro
+    - Altera Artigo 30.º — Entidade reguladora
+    - Altera Artigo 34.º — Medidas de execução
+    - Altera Artigo 35.º — Comitologia
+    - Altera Artigo 38.º — Execução
+    - Altera Notas
+  - date: '2015-06-17'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES INTRODUTÓRIAS
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Especificações da rede
+    - Suprime CAPÍTULO II
+    - Suprime TAXAS DE UTILIZAÇÃO DA INFRA-ESTRUTURA
+    - Suprime Artigo 4.º — Fixação, determinação e cobrança de taxas
+    - Suprime Artigo 5.º — Serviços
+    - Suprime Artigo 6.º — Custos e contabilidade da infra-estrutura
+    - Suprime Artigo 7.º — Princípios de tarificação
+    - Suprime Artigo 8.º — Excepções aos princípios de tarificação
+    - Suprime Artigo 9.º — Descontos
+    - Suprime Artigo 10.º — Sistemas de compensação de custos ambientais, de acidentes e de infra-estrutura não cobertos
+    - Suprime Artigo 11.º — Regime de melhoria do desempenho
+    - Suprime Artigo 12.º — Taxas de reserva de capacidade
+    - Suprime CAPÍTULO III
+    - Suprime REPARTIÇÃO DA CAPACIDADE DE INFRA-ESTRUTURA
+    - Suprime Artigo 13.º — Direitos de capacidade
+    - Suprime Artigo 14.º — Repartição da capacidade
+    - Suprime Artigo 15.º — Cooperação para a repartição da capacidade de infra-estrutura por várias redes
+    - Suprime Artigo 16.º — Candidatos
+    - Suprime Artigo 17.º — Acordos-quadro
+    - Suprime Artigo 18.º — Calendário do processo de repartição
+    - Suprime Artigo 19.º — Pedidos
+    - Suprime Artigo 20.º — Planificação
+    - Suprime Artigo 21.º — Processo de coordenação
+    - Suprime Artigo 22.º — Infra-estrutura congestionada
+    - Suprime Artigo 23.º — Pedidos ad hoc
+    - Suprime Artigo 24.º — Infra-estrutura especializada
+    - Suprime Artigo 25.º — Análise da capacidade
+    - Suprime Artigo 26.º — Plano de reforço da capacidade
+    - Suprime Artigo 27.º — Utilização dos traçados
+    - Suprime Artigo 28.º — Capacidade de infra-estrutura para manutenção planificada
+    - Suprime Artigo 29.º — Medidas especiais em caso de perturbação
+    - Suprime CAPÍTULO IV
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 30.º — Entidade reguladora
+    - Suprime Artigo 31.º — Cooperação das entidades reguladoras
 identifiers:
   celex: 32001L0014
   eli: http://data.europa.eu/eli/dir/2001/14/oj
@@ -49,7 +127,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f8486558-bd00-47ef-955e-591d05481147.0010
   content_url: http://publications.europa.eu/resource/cellar/f6a7aa5c-ed00-46b5-acba-a4ce4dc62de1.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0014-20150617
-  retrieved_at: '2026-10-22T02:39:03Z'
+  retrieved_at: '2026-10-22T14:49:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-15T02:46:24.781+01:00'
 integrity:
@@ -58,9 +136,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:03Z'
-  notes: Texto consolidado 02001L0014-20150617.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:57Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2001-14.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -261,16 +339,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:03Z'
+  checked_at: '2026-10-22T14:49:57Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02001L0014-20010315: versão indisponível (Sem expressão na língua por para CELEX 02001L0014-20010315.)'
   errors: []
 ---
 

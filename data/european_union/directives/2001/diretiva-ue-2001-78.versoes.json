@@ -1,0 +1,173 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0078:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0078-20011118",
+ "dre_path": null,
+ "source_lastmod": "2001-11-18",
+ "versions": [
+  {
+   "date": "2001-10-29",
+   "future": false,
+   "celex": "32001L0078",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "10e57705f13931e7",
+    "e6b6f1f942ba644a",
+    "323ff868784c56cc",
+    "271594770ecf7591",
+    "313f36eb1eef3da0",
+    "7d8f6b7a42785bd9",
+    "9c072f8ffc64f0d4",
+    "7efbf09fc5ff5444",
+    "ac2885e4c2249dd1",
+    "fbb1012bef50d455",
+    "68b3855c1f68e65d",
+    "a14e84e20ada1ff7",
+    "9d8a55e6d8ae5b25",
+    "e6f69e0de19c709e",
+    "4551ac8151fa35dd",
+    "ced8d7ab319f7f75",
+    "934707b6cf9cbd97"
+   ]
+  }
+ ],
+ "fragments": {
+  "10e57705f13931e7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2001/78/CE da Comissão, de 13 de Setembro de 2001, que altera o anexo IV da Directiva 93/36/CEE do Conselho, os anexos IV, V e VI da Directiva 93/37/CEE do Conselho e os anexos III e IV da Directiva 92/50/CEE do Conselho, com a última redacção que lhes foi dada pela Directiva 97/52/CE, bem como os anexos XII a XV, XVII e XVIII da Directiva 93/38/CEE do Conselho, com a última redacção que lhe foi dada pela Directiva 98/4/CE (Directiva relativa à utilização dos formulários-tipo aquando da publicação dos anúncios de concursos públicos) (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 285 de 29/10/2001 p. 0001 - 0162*\n\nDirectiva 2001/78/CE da Comissão\n\nde 13 de Setembro de 2001\n\nque altera o anexo IV da Directiva 93/36/CEE do Conselho, os anexos IV, V e VI da Directiva 93/37/CEE do Conselho e os anexos III e IV da Directiva 92/50/CEE do Conselho, com a última redacção que lhes foi dada pela Directiva 97/52/CE, bem como os anexos XII a XV, XVII e XVIII da Directiva 93/38/CEE do Conselho, com a última redacção que lhe foi dada pela Directiva 98/4/CE\n\n(Directiva relativa à utilização dos formulários-tipo aquando da publicação dos anúncios de concursos públicos)\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/50/CEE do Conselho, de 18 de Junho de 1992, relativa à coordenação dos processos de adjudicação de contratos públicos de serviços(1), alterada pela Directiva 97/52/CE(2), e, nomeadamente, o seu artigo 22o, a Directiva 93/36/CEE do Conselho, de 14 de Junho de 1993, relativa à coordenação dos processos de adjudicação dos contratos públicos de fornecimento(3), alterada pela Directiva 97/52/CE, e, nomeadamente, o seu artigo 14.o, a Directiva 93/37/CEE do Conselho, de 14 de Junho de 1993, relativa à coordenação dos processos de adjudicação de empreitadas de obras públicas(4), alterada pela Directiva 97/52/CE, e, nomeadamente, o n.o 2 do seu artigo 35.o, bem como a Directiva 93/38/CEE do Conselho, de 14 de Junho de 1993, relativa à coordenação dos processos de celebração de contratos nos sectores da água, da energia, dos transportes e das telecomunicações(5), alterada pela Directiva 98/4/CE(6), e, nomeadamente, o n.o 2 do seu artigo 39.o e os n.os 2 e 3 do seu artigo 40.o,\n\nTendo em conta os pareceres do Comité Consultivo para os Contratos de Direito Público assim como o dos contratos de telecomunicações,\n\nConsiderando o seguinte:\n\n(1) As Directivas 92/50/CEE, 93/36/CEE, 93/37/CEE e 93/38/CEE determinam a obrigação de publicar anúncios de concurso no Jornal Oficial das Comunidades Europeias relativamente aos procedimentos que recaem sob o seu âmbito de aplicação e especificam os elementos que devem figurar imperativamente nesses anúncios. As directivas pré-citadas estabelecem igualmente \"modelos de anúncios\" que devem ser utilizados pelas entidades adjudicantes para este efeito. Tal obrigação decorre do n.o 4 do artigo 9.o da Directiva 93/36/CEE, do n.o 6 do artigo 11.o da Directiva 93/37/CEE, do n.o 1 do artigo 17.o da Directiva 92/50/CEE, bem como dos n.os 1 e 4 do artigo 21.o, do n.o 2 do artigo 22.o e do n.o 1 do artigo 24.o da Directiva 93/38/CEE.\n\n(2) A Comissão adoptou uma recomendação (91/561/CEE)(7) e uma comunicação em 30 de Dezembro de 1992(8), recomendando a utilização de certos modelos \"normalizados\" de anúncios de concurso para os contratos de fornecimento e de empreitadas de obras. Tais modelos \"normalizados\" diferem dos modelos de anúncios que figuram nos anexos das directivas.\n\n(3) Convém agora modificar os modelos de anúncios que figuram nas directivas, a fim de contribuir para a simplificação de aplicação das regras de publicidade, adaptandos-as aos meios electrónicos desenvolvidos no âmbito do Sistema de Informação sobre os Contratos Públicos (SIMAP - Système d'Information pour les Marchés Publics), sistema este iniciado pela Comissão em colaboração com os Estados-Membros. Além disso, a utilização dos formulários-tipo e o eventual recurso ao vocabulário comum para os contratos públicos (Common Procurement Vocabulary - CPV) facilitarão o acesso à informação e contribuirão para uma maior transparência dos concursos. Assim, e por uma questão de clareza, é conveniente substituir os referidos anexos pelos formulários-tipo.\n\n(4) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Consultivo para os Contratos de Direito Público assim como com o parecer do Comité Consultivo para os Contratos no Sector das Telecomunicações,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "e6b6f1f942ba644a": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O anexo IV da Directiva 93/36/CEE é substituído pelo anexo I da presente directiva.\n\n2. Os anexos IV, V e VI da Directiva 93/37/CEE são substituídos, respectivamente, pelos anexos II, III e IV da presente directiva.\n\n3. Os anexos III e IV da Directiva 92/50/CEE são substituídos, respectivamente, pelos anexos V e VI da presente directiva.\n\n4. Os anexos XII a XV, XVII e XVIII da Directiva 93/38/CEE são substituídos, respectivamente, pelos anexos VII a XII da presente directiva."
+  },
+  "323ff868784c56cc": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros tomarão as medidas necessárias para dar cumprimento à presente directiva até 1 de Maio de 2002. Desse facto informarão imediatamente a Comissão.\n\n2. Ao adoptarem as disposições visadas no artigo 1.o, os Estados-Membros farão constar dessas disposições uma referência à presente directiva ou farão acompanhar as mesmas de tal referência aquando da sua publicação oficial. As modalidades da referência serão adoptadas pelos Estados-Membros."
+  },
+  "271594770ecf7591": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "313f36eb1eef3da0": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 13 de Setembro de 2001.\n\nPela Comissão\n\nFrederik Bolkestein\n\nMembro da Comissão\n\n(1) JO L 209 de 24.7.1992, p. 1.\n\n(2) JO L 328 de 28.11.1997, p. 1.\n\n(3) JO L 199 de 9.8.1993, p. 1.\n\n(4) JO L 199 de 9.8.1993, p. 54.\n\n(5) JO L 199 de 9.8.1993, p. 84.\n\n(6) JO L 101 de 1.4.1998, p. 1.\n\n(7) JO L 305 de 6.11.1991, p. 19.\n\n(8) Comunicação da Comissão relativa aos formulários que devem ser utilizados pelas entidades adjudicantes abrangidas pela entrada em vigor da Directiva 90/531/CEE (JO S 252 A de 30.12.1992, p. 1)."
+  },
+  "7d8f6b7a42785bd9": {
+   "fragment_id": "ANEXO I — >PIC FILE= \"L_2001285PT.000501.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO I — >PIC FILE= \"L_2001285PT.000501.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — >PIC FILE= \"L_2001285PT.000501.TIF\">\n\n>PIC FILE= \"L_2001285PT.000601.TIF\">\n\n>PIC FILE= \"L_2001285PT.000701.TIF\">\n\n>PIC FILE= \"L_2001285PT.000801.TIF\">\n\n>PIC FILE= \"L_2001285PT.000901.TIF\">\n\n>PIC FILE= \"L_2001285PT.001001.TIF\">\n\n>PIC FILE= \"L_2001285PT.001101.TIF\">\n\n>PIC FILE= \"L_2001285PT.001201.TIF\">\n\n>PIC FILE= \"L_2001285PT.001301.TIF\">\n\n>PIC FILE= \"L_2001285PT.001401.TIF\">\n\n>PIC FILE= \"L_2001285PT.001501.TIF\">\n\n>PIC FILE= \"L_2001285PT.001601.TIF\">\n\n>PIC FILE= \"L_2001285PT.001701.TIF\">\n\n>PIC FILE= \"L_2001285PT.001801.TIF\">\n\n>PIC FILE= \"L_2001285PT.001901.TIF\">\n\n>PIC FILE= \"L_2001285PT.002001.TIF\">\n\n>PIC FILE= \"L_2001285PT.002101.TIF\">\n\n>PIC FILE= \"L_2001285PT.002201.TIF\">\n\n>PIC FILE= \"L_2001285PT.002301.TIF\">\n\n>PIC FILE= \"L_2001285PT.002401.TIF\">\n\n>PIC FILE= \"L_2001285PT.002501.TIF\">\n\n>PIC FILE= \"L_2001285PT.002601.TIF\">\n\n>PIC FILE= \"L_2001285PT.002701.TIF\">\n\n>PIC FILE= \"L_2001285PT.002801.TIF\">\n\n>PIC FILE= \"L_2001285PT.002901.TIF\">"
+  },
+  "9c072f8ffc64f0d4": {
+   "fragment_id": "ANEXO II — >PIC FILE= \"L_2001285PT.003101.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO II — >PIC FILE= \"L_2001285PT.003101.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >PIC FILE= \"L_2001285PT.003101.TIF\">\n\n>PIC FILE= \"L_2001285PT.003201.TIF\">\n\n>PIC FILE= \"L_2001285PT.003301.TIF\">\n\n>PIC FILE= \"L_2001285PT.003401.TIF\">\n\n>PIC FILE= \"L_2001285PT.003501.TIF\">\n\n>PIC FILE= \"L_2001285PT.003601.TIF\">\n\n>PIC FILE= \"L_2001285PT.003701.TIF\">\n\n>PIC FILE= \"L_2001285PT.003801.TIF\">\n\n>PIC FILE= \"L_2001285PT.003901.TIF\">\n\n>PIC FILE= \"L_2001285PT.004001.TIF\">\n\n>PIC FILE= \"L_2001285PT.004101.TIF\">\n\n>PIC FILE= \"L_2001285PT.004201.TIF\">\n\n>PIC FILE= \"L_2001285PT.004301.TIF\">\n\n>PIC FILE= \"L_2001285PT.004401.TIF\">\n\n>PIC FILE= \"L_2001285PT.004501.TIF\">\n\n>PIC FILE= \"L_2001285PT.004601.TIF\">\n\n>PIC FILE= \"L_2001285PT.004701.TIF\">\n\n>PIC FILE= \"L_2001285PT.004801.TIF\">\n\n>PIC FILE= \"L_2001285PT.004901.TIF\">\n\n>PIC FILE= \"L_2001285PT.005001.TIF\">\n\n>PIC FILE= \"L_2001285PT.005101.TIF\">\n\n>PIC FILE= \"L_2001285PT.005201.TIF\">\n\n>PIC FILE= \"L_2001285PT.005301.TIF\">\n\n>PIC FILE= \"L_2001285PT.005401.TIF\">\n\n>PIC FILE= \"L_2001285PT.005501.TIF\">"
+  },
+  "7efbf09fc5ff5444": {
+   "fragment_id": "ANEXO III — >PIC FILE= \"L_2001285PT.005701.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO III — >PIC FILE= \"L_2001285PT.005701.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — >PIC FILE= \"L_2001285PT.005701.TIF\">\n\n>PIC FILE= \"L_2001285PT.005801.TIF\">\n\n>PIC FILE= \"L_2001285PT.005901.TIF\">\n\n>PIC FILE= \"L_2001285PT.006001.TIF\">\n\n>PIC FILE= \"L_2001285PT.006101.TIF\">"
+  },
+  "ac2885e4c2249dd1": {
+   "fragment_id": "ANEXO IV — >PIC FILE= \"L_2001285PT.006301.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO IV — >PIC FILE= \"L_2001285PT.006301.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — >PIC FILE= \"L_2001285PT.006301.TIF\">\n\n>PIC FILE= \"L_2001285PT.006401.TIF\">\n\n>PIC FILE= \"L_2001285PT.006501.TIF\">\n\n>PIC FILE= \"L_2001285PT.006601.TIF\">\n\n>PIC FILE= \"L_2001285PT.006701.TIF\">"
+  },
+  "fbb1012bef50d455": {
+   "fragment_id": "ANEXO V — >PIC FILE= \"L_2001285PT.006901.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO V — >PIC FILE= \"L_2001285PT.006901.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — >PIC FILE= \"L_2001285PT.006901.TIF\">\n\n>PIC FILE= \"L_2001285PT.007001.TIF\">\n\n>PIC FILE= \"L_2001285PT.007101.TIF\">\n\n>PIC FILE= \"L_2001285PT.007201.TIF\">\n\n>PIC FILE= \"L_2001285PT.007301.TIF\">\n\n>PIC FILE= \"L_2001285PT.007401.TIF\">\n\n>PIC FILE= \"L_2001285PT.007501.TIF\">\n\n>PIC FILE= \"L_2001285PT.007601.TIF\">\n\n>PIC FILE= \"L_2001285PT.007701.TIF\">\n\n>PIC FILE= \"L_2001285PT.007801.TIF\">\n\n>PIC FILE= \"L_2001285PT.007901.TIF\">\n\n>PIC FILE= \"L_2001285PT.008001.TIF\">\n\n>PIC FILE= \"L_2001285PT.008101.TIF\">\n\n>PIC FILE= \"L_2001285PT.008201.TIF\">\n\n>PIC FILE= \"L_2001285PT.008301.TIF\">\n\n>PIC FILE= \"L_2001285PT.008401.TIF\">\n\n>PIC FILE= \"L_2001285PT.008501.TIF\">\n\n>PIC FILE= \"L_2001285PT.008601.TIF\">\n\n>PIC FILE= \"L_2001285PT.008701.TIF\">\n\n>PIC FILE= \"L_2001285PT.008801.TIF\">\n\n>PIC FILE= \"L_2001285PT.008901.TIF\">\n\n>PIC FILE= \"L_2001285PT.009001.TIF\">\n\n>PIC FILE= \"L_2001285PT.009101.TIF\">\n\n>PIC FILE= \"L_2001285PT.009201.TIF\">\n\n>PIC FILE= \"L_2001285PT.009301.TIF\">"
+  },
+  "68b3855c1f68e65d": {
+   "fragment_id": "ANEXO VI — >PIC FILE= \"L_2001285PT.009501.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO VI — >PIC FILE= \"L_2001285PT.009501.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — >PIC FILE= \"L_2001285PT.009501.TIF\">\n\n>PIC FILE= \"L_2001285PT.009601.TIF\">\n\n>PIC FILE= \"L_2001285PT.009701.TIF\">\n\n>PIC FILE= \"L_2001285PT.009801.TIF\">\n\n>PIC FILE= \"L_2001285PT.009901.TIF\">\n\n>PIC FILE= \"L_2001285PT.010001.TIF\">\n\n>PIC FILE= \"L_2001285PT.010101.TIF\">\n\n>PIC FILE= \"L_2001285PT.010201.TIF\">\n\n>PIC FILE= \"L_2001285PT.010301.TIF\">"
+  },
+  "a14e84e20ada1ff7": {
+   "fragment_id": "ANEXO VII — >PIC FILE= \"L_2001285PT.010501.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO VII — >PIC FILE= \"L_2001285PT.010501.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — >PIC FILE= \"L_2001285PT.010501.TIF\">\n\n>PIC FILE= \"L_2001285PT.010601.TIF\">\n\n>PIC FILE= \"L_2001285PT.010701.TIF\">\n\n>PIC FILE= \"L_2001285PT.010801.TIF\">\n\n>PIC FILE= \"L_2001285PT.010901.TIF\">\n\n>PIC FILE= \"L_2001285PT.011001.TIF\">\n\n>PIC FILE= \"L_2001285PT.011101.TIF\">\n\n>PIC FILE= \"L_2001285PT.011201.TIF\">\n\n>PIC FILE= \"L_2001285PT.011301.TIF\">\n\n>PIC FILE= \"L_2001285PT.011401.TIF\">"
+  },
+  "9d8a55e6d8ae5b25": {
+   "fragment_id": "ANEXO VIII — >PIC FILE= \"L_2001285PT.011701.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO VIII — >PIC FILE= \"L_2001285PT.011701.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII — >PIC FILE= \"L_2001285PT.011701.TIF\">\n\n>PIC FILE= \"L_2001285PT.011801.TIF\">\n\n>PIC FILE= \"L_2001285PT.011901.TIF\">\n\n>PIC FILE= \"L_2001285PT.012001.TIF\">"
+  },
+  "e6f69e0de19c709e": {
+   "fragment_id": "ANEXO IX — >PIC FILE= \"L_2001285PT.012301.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO IX — >PIC FILE= \"L_2001285PT.012301.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX — >PIC FILE= \"L_2001285PT.012301.TIF\">\n\n>PIC FILE= \"L_2001285PT.012401.TIF\">\n\n>PIC FILE= \"L_2001285PT.012501.TIF\">\n\n>PIC FILE= \"L_2001285PT.012601.TIF\">\n\n>PIC FILE= \"L_2001285PT.012701.TIF\">\n\n>PIC FILE= \"L_2001285PT.012801.TIF\">\n\n>PIC FILE= \"L_2001285PT.012901.TIF\">\n\n>PIC FILE= \"L_2001285PT.013001.TIF\">\n\n>PIC FILE= \"L_2001285PT.013101.TIF\">\n\n>PIC FILE= \"L_2001285PT.013201.TIF\">\n\n>PIC FILE= \"L_2001285PT.013301.TIF\">\n\n>PIC FILE= \"L_2001285PT.013401.TIF\">\n\n>PIC FILE= \"L_2001285PT.013501.TIF\">\n\n>PIC FILE= \"L_2001285PT.013601.TIF\">\n\n>PIC FILE= \"L_2001285PT.013701.TIF\">\n\n>PIC FILE= \"L_2001285PT.013801.TIF\">\n\n>PIC FILE= \"L_2001285PT.013901.TIF\">\n\n>PIC FILE= \"L_2001285PT.014001.TIF\">"
+  },
+  "4551ac8151fa35dd": {
+   "fragment_id": "ANEXO X — >PIC FILE= \"L_2001285PT.014301.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO X — >PIC FILE= \"L_2001285PT.014301.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO X — >PIC FILE= \"L_2001285PT.014301.TIF\">\n\n>PIC FILE= \"L_2001285PT.014401.TIF\">\n\n>PIC FILE= \"L_2001285PT.014501.TIF\">\n\n>PIC FILE= \"L_2001285PT.014601.TIF\">\n\n>PIC FILE= \"L_2001285PT.014701.TIF\">\n\n>PIC FILE= \"L_2001285PT.014801.TIF\">\n\n>PIC FILE= \"L_2001285PT.014901.TIF\">\n\n>PIC FILE= \"L_2001285PT.015001.TIF\">"
+  },
+  "ced8d7ab319f7f75": {
+   "fragment_id": "ANEXO XI — >PIC FILE= \"L_2001285PT.015301.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO XI — >PIC FILE= \"L_2001285PT.015301.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XI — >PIC FILE= \"L_2001285PT.015301.TIF\">\n\n>PIC FILE= \"L_2001285PT.015401.TIF\">\n\n>PIC FILE= \"L_2001285PT.015501.TIF\">\n\n>PIC FILE= \"L_2001285PT.015601.TIF\">\n\n>PIC FILE= \"L_2001285PT.015701.TIF\">"
+  },
+  "934707b6cf9cbd97": {
+   "fragment_id": "ANEXO XII — >PIC FILE= \"L_2001285PT.015901.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO XII — >PIC FILE= \"L_2001285PT.015901.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XII — >PIC FILE= \"L_2001285PT.015901.TIF\">\n\n>PIC FILE= \"L_2001285PT.016001.TIF\">\n\n>PIC FILE= \"L_2001285PT.016101.TIF\">\n\n>PIC FILE= \"L_2001285PT.016201.TIF\">"
+  }
+ }
+}

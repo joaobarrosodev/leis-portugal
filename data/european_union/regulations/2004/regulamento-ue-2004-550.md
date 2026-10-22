@@ -36,6 +36,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-12-04'
+version_history:
+  file: regulamento-ue-2004-550.versoes.json
+  count: 2
+  source_lastmod: '2009-12-04'
+  versions:
+  - date: '2004-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-04'
+    amending: eu:celex:32009R1070:por
+    amending_title: REGULAMENTO (CE) N. o 1070/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Outubro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Funções das autoridades supervisoras nacionais
+    - Altera Artigo 4.º — Requisitos de segurança
+    - Altera Artigo 7.º — Certificação dos prestadores de serviços de navegação aérea
+    - Altera Artigo 8.º — Designação de prestadores de serviços de tráfego aéreo
+    - Altera Artigo 11.º — Relações com as autoridades militares
+    - Altera Artigo 12.º — Transparência contabilística
+    - Altera Artigo 14.º — Generalidades
+    - Altera Artigo 15.º — Princípios gerais
+    - Altera Artigo 18.º — Confidencialidade
+    - Altera Artigo 19.º — Entrada em vigor
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita Artigo 3.º — Entidades qualificadas
+    - Adita CAPÍTULO II
+    - Adita REGRAS RELATIVAS À PRESTAÇÃO DE SERVIÇOS
+    - Adita Artigo 9.º-A — Blocos funcionais de espaço aéreo
+    - Adita Artigo 9.º-B — Coordenador de blocos funcionais de espaço aéreo
+    - Adita CAPÍTULO III
+    - Adita REGIMES DE TARIFAÇÃO
+    - Adita Artigo 15.º-A — Projectos comuns
+    - Adita Artigo 16.º — Fiscalização do cumprimento
+    - Adita CAPÍTULO IV
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita Artigo 17.º — Revisão dos anexos
+    - Adita Artigo 18.º-A — Revisão
+    - Adita ANEXO I
+    - Adita [►M1](http://publications.europa.eu/resource/celex/32009R1070) REQUISITOS APLICÁVEIS ÀS ENTIDADES QUALIFICADAS◄
+    - Adita ANEXO II
+    - Adita CONDIÇÕES A ASSOCIAR AOS CERTIFICADOS
+    - Adita Notas
+    - Suprime CAPÍTULO I — DISPOSIÇÕES GERAIS
+    - Suprime Artigo 3.º — Organizações reconhecidas
+    - Suprime Artigo 5.º — Concessão de licenças
+    - Suprime CAPÍTULO II — REGRAS RELATIVAS À PRESTAÇÃO DE SERVIÇOS
+    - Suprime CAPÍTULO III — REGIMES DE TARIFAÇÃO
+    - Suprime Artigo 16.º — Revisão das taxas
+    - Suprime CAPÍTULO IV — DISPOSIÇÕES FINAIS
+    - Suprime Artigo 17.º — Adaptação ao progresso técnico
+    - Suprime ANEXO I — REQUISITOS APLICÁVEIS ÀS ORGANIZAÇÕES RECONHECIDAS
 identifiers:
   celex: 32004R0550
   eli: http://data.europa.eu/eli/reg/2004/550/oj
@@ -50,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0eed2b60-b7f9-4308-baef-63fe94effe0d.0010
   content_url: http://publications.europa.eu/resource/cellar/177d96fa-c5db-4d94-b10f-5c04bd306632.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0550-20091204
-  retrieved_at: '2026-10-22T02:38:39Z'
+  retrieved_at: '2026-10-22T14:57:35Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-30T03:13:17.420+01:00'
 integrity:
@@ -59,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:39Z'
-  notes: Texto consolidado 02004R0550-20091204.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:35Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2004-550.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -174,29 +227,20 @@ relationships:
   date: '2024-11-11'
 article_structure:
   article_count: 22
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:39Z'
-  warnings: []
+  checked_at: '2026-10-22T14:57:35Z'
+  warnings:
+  - '02004R0550-20040420: versão indisponível (Sem expressão na língua por para CELEX 02004R0550-20040420.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 550/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004
-
-> 2004R0550 — PT — 04.12.2009 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R1070) — [REGULAMENTO (CE) N.º 1070/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009R1070) — L 300 — 34 — 14.11.2009
-
-## REGULAMENTO (CE) N.º 550/2004 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 10 de Março de 2004
 

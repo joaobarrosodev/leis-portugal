@@ -34,6 +34,54 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-14'
+version_history:
+  file: diretiva-ue-2001-114.versoes.json
+  count: 3
+  source_lastmod: '2026-06-14'
+  versions:
+  - date: '2002-01-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-10-07'
+    amending: eu:celex:32007L0061:por
+    amending_title: DIRECTIVA 2007/61/CE DO CONSELHO de 26 de Setembro de 2007; Acto relativo às condições de adesão da República
+      Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República
+      da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações
+      dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Adita ANEXO I
+    - Adita DEFINIÇÕES E DENOMINAÇÕES DOS PRODUTOS
+    - Adita 1. Leite parcialmente desidratado
+    - Adita 2. Leite totalmente desidratado
+    - Adita 3. Tratamentos
+    - Adita 4. Adições e matérias-primas autorizadas
+    - Adita ANEXO II
+    - Adita DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I
+    - Adita Notas
+    - Suprime Artigo 2.º
+    - Suprime ANEXO I — DEFINIÇÕES E DENOMINAÇÕES DOS PRODUTOS
+    - Suprime ANEXO II — DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I
+  - date: '2026-06-14'
+    amending: eu:celex:32013R1021:por
+    amending_title: REGULAMENTO (UE) N. o 1021/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2013; DIRETIVA
+      (UE) 2024/1438 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024; ACTO relativo às condições de adesão da República
+      Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República
+      da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações
+      dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera 3. Tratamentos
+    - Altera 4. Adições e matérias-primas autorizadas
+    - Altera DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I
+    - Altera Notas
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
 identifiers:
   celex: 32001L0114
   eli: http://data.europa.eu/eli/dir/2001/114/oj
@@ -48,7 +96,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1cdca2ff-07d4-4be0-9892-ed039d97e898.0010
   content_url: http://publications.europa.eu/resource/cellar/d747b754-431d-11f1-8095-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0114-20260614
-  retrieved_at: '2026-10-22T02:47:23Z'
+  retrieved_at: '2026-10-22T14:50:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T06:01:46.172+01:00'
 integrity:
@@ -57,9 +105,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:23Z'
-  notes: Texto consolidado 02001L0114-20260614.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:28Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2001-114.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -161,35 +209,20 @@ relationships:
   source: null
 article_structure:
   article_count: 7
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:23Z'
-  warnings: []
+  checked_at: '2026-10-22T14:50:28Z'
+  warnings:
+  - '02001L0114-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 2001/114/CE do Conselho, de 20 de Dezembro de 2001
-
-> 02001L0114 — PT — 14.06.2026 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007L0061) — [DIRECTIVA 2007/61/CE DO CONSELHO de 26 de Setembro de 2007](http://publications.europa.eu/resource/celex/32007L0061) — L 258 — 27 — 4.10.2007
-- [►M2](http://publications.europa.eu/resource/celex/32013R1021) — [REGULAMENTO (UE) N.º 1021/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R1021) — L 287 — 1 — 29.10.2013
-- [►M3](http://publications.europa.eu/resource/celex/32024L1438) — [DIRETIVA (UE) 2024/1438 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024L1438) — L 1438 — 1 — 24.5.2024
-
-**Alterada por:**
-
-- [►A1](http://publications.europa.eu/resource/celex/12003T%2FACT) — [ACTO relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T%2FACT) — L 236 — 33 — 23.9.2003
-
-## DIRECTIVA 2001/114/CE DO CONSELHO
 
 de 20 de Dezembro de 2001
 

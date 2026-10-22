@@ -34,6 +34,31 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-01-01'
+version_history:
+  file: regulamento-ue-2007-509.versoes.json
+  count: 2
+  source_lastmod: '2011-01-01'
+  versions:
+  - date: '2007-05-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-01'
+    amending: eu:celex:32009R1224:por
+    amending_title: REGULAMENTO (CE) N. o 1224/2009 do Conselho de 20 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Limitação do esforço
+    - Altera Artigo 13.º — Fundo Europeu das Pescas
+    - Altera Artigo 14.º — Entrada em vigor
+    - Altera Notas
+    - Suprime CAPÍTULO IV
+    - Suprime CONTROLO, INSPECÇÃO E VIGILÂNCIA
+    - Suprime Artigo 6.º — Margem de tolerância
+    - Suprime Artigo 7.º — Notificação prévia
+    - Suprime Artigo 8.º — Estiva separada do linguado legítimo
+    - Suprime Artigo 9.º — Transporte do linguado legítimo
+    - Suprime Artigo 10.º — Programa de controlo específico
 identifiers:
   celex: 32007R0509
   eli: http://data.europa.eu/eli/reg/2007/509/oj
@@ -48,7 +73,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/98578ae6-e92e-4d5d-8d29-e64ff9403269.0018
   content_url: http://publications.europa.eu/resource/cellar/d021cdcd-9f3b-47a7-89f4-c274b673721a.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0509-20110101
-  retrieved_at: '2026-10-22T03:13:07Z'
+  retrieved_at: '2026-10-22T15:08:32Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T20:53:41.055+01:00'
 integrity:
@@ -57,9 +82,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:07Z'
-  notes: Texto consolidado 02007R0509-20110101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:08:32Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2007-509.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -111,29 +136,19 @@ relationships:
   date: '2019-03-25'
 article_structure:
   article_count: 9
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:07Z'
+  checked_at: '2026-10-22T15:08:32Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 509/2007 do Conselho, de 7 de Maio de 2007
-
-> 2007R0509 — PT — 01.01.2011 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R1224) — [REGULAMENTO (CE) N.º 1224/2009 do Conselho de 20 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1224) — L 343 — 1 — 22.12.2009
-
-## REGULAMENTO (CE) N.º 509/2007 DO CONSELHO
 
 de 7 de Maio de 2007
 

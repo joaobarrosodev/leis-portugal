@@ -34,6 +34,38 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-11-30'
+version_history:
+  file: diretiva-ue-1991-680.versoes.json
+  count: 2
+  source_lastmod: '2009-11-30'
+  versions:
+  - date: '1991-12-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-11-30'
+    amending: eu:celex:32006L0112:por
+    amending_title: DIRECTIVA 2006/112/CE DO CONSELHO de 28 de Novembro de 2006; DIRECTIVA 2009/132/CE DO CONSELHO versão
+      codificada de 19 de Outubro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Adita Notas
+    - Suprime Artigo 1.º
+    - Suprime Artigo 28.oA — Âmbito de aplicação
+    - Suprime Artigo 28.oB — Lugar das operações
+    - Suprime Artigo 28.oC — Isenções
+    - Suprime Artigo 28.oD — Facto gerador e exigibilidade do imposto
+    - Suprime Artigo 28.oE — Matéria colectável e taxa aplicável
+    - Suprime Artigo 28.oF — Direito à dedução
+    - Suprime Artigo 28.oG — Devedores de imposto
+    - Suprime Artigo 28.oH — Obrigações dos devedores
+    - Suprime Artigo 28.oI — Regime especial para as pequenas empresas
+    - Suprime Artigo 28.oJ — Regime comum forfetário para os [►C2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0680R(02):PT:NOT)
+      produtores ◄ agrícolas
+    - Suprime Artigo 28.oK — Disposições diversas
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
 identifiers:
   celex: 31991L0680
   eli: http://data.europa.eu/eli/dir/1991/680/oj
@@ -48,7 +80,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6f6055a7-9b87-4cad-96c0-b66b6e6d1a57.0011
   content_url: http://publications.europa.eu/resource/cellar/af09c14d-38e0-430b-bacf-c0d207ceaa52.0014.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0680-20091130
-  retrieved_at: '2026-10-22T02:42:08Z'
+  retrieved_at: '2026-10-22T14:39:37Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T02:28:47.869+01:00'
 integrity:
@@ -57,9 +89,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:08Z'
-  notes: Texto consolidado 01991L0680-20091130.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:39:37Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1991-680.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -198,39 +230,19 @@ relationships:
   date: '2009-11-11'
 article_structure:
   article_count: 1
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:08Z'
+  checked_at: '2026-10-22T14:39:37Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 91/680/CEE do Conselho, de 16 de Dezembro de 1991
-
-> 01991L0680 — PT — 30.11.2009 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006L0112) — [DIRECTIVA 2006/112/CE DO CONSELHO de 28 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0112) — L 347 — 1 — 11.12.2006
-- [►M2](http://publications.europa.eu/resource/celex/32009L0132) — [DIRECTIVA 2009/132/CE DO CONSELHO versão codificada de 19 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009L0132) — L 292 — 5 — 10.11.2009
-
-**Rectificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/31991L0680R%2801%29) — [Rectificação, JO L 050, 25.2.1992, p. 18 (1991/680)](http://publications.europa.eu/resource/celex/31991L0680R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/31991L0680R%2802%29) — [Rectificação, JO L 087, 2.4.1992, p. 34 (1991/680)](http://publications.europa.eu/resource/celex/31991L0680R%2802%29)
-- [C3](http://publications.europa.eu/resource/celex/31991L0680R%2803%29) — [Rectificação, JO L 272, 17.9.1992, p. 72 (1991/680)](http://publications.europa.eu/resource/celex/31991L0680R%2803%29)
-
-| NB: Esta versão consolidada contém referências à unidade de conta europeia e/ou ao ecu, que a partir de 1 de Janeiro de 1999 devem ser interpretadas como referências ao euro — Regulamento (CEE) n.o 3308/80 do Conselho (JO L 345 de 20.12.1980, p. 1) e Regulamento (CE) n.o 1103/97 do Conselho (JO L 162 de 19.6.1997, p. 1). |
-| --- |
-
-## DIRECTIVA DO CONSELHO
 
 de 16 de Dezembro de 1991
 

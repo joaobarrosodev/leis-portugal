@@ -35,6 +35,36 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-03-26'
+version_history:
+  file: regulamento-ue-2008-106.versoes.json
+  count: 2
+  source_lastmod: '2013-03-26'
+  versions:
+  - date: '2008-02-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-03-26'
+    amending: eu:celex:32013R0174:por
+    amending_title: REGULAMENTO (UE) N. o 174/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de fevereiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Princípios gerais
+    - Altera Artigo 6.º — Promoção dos critérios de eficiência energética
+    - Altera Artigo 10.º — Programa de trabalho
+    - Altera Artigo 11.º — Procedimentos preparatórios para a revisão dos critérios técnicos
+    - Altera Artigo 12.º — Vigilância do mercado e controlo de abusos
+    - Altera Artigo 16.º — Disposições finais
+    - Altera Notas
+    - Adita Artigo 1.º — Objetivo
+    - Adita Artigo 8.º — Administração do Energy Star para a União Europeia
+    - Adita Artigo 13.º — Avaliação e revisão
+    - Adita ANEXO
+    - Suprime Artigo 1.º — Objectivo
+    - Suprime Artigo 7.º — Outros sistemas voluntários de rotulagem da eficiência energética
+    - Suprime Artigo 8.º — Administração Energy Star para a Comunidade Europeia
+    - Suprime Artigo 13.º — Avaliação
+    - Suprime Artigo 14.º — Revisão
 identifiers:
   celex: 32008R0106
   eli: http://data.europa.eu/eli/reg/2008/106/oj
@@ -49,7 +79,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019
   content_url: http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0106-20130326
-  retrieved_at: '2026-10-22T02:47:59Z'
+  retrieved_at: '2026-10-22T15:13:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-31T03:30:23.930+01:00'
 integrity:
@@ -58,9 +88,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:59Z'
-  notes: Texto consolidado 02008R0106-20130326.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:13:44Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2008-106.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -146,29 +176,19 @@ relationships:
   date: '2001-12-20'
 article_structure:
   article_count: 14
-  section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 2
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:59Z'
+  checked_at: '2026-10-22T15:13:44Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 106/2008 do Parlamento Europeu e do Conselho, de 15 de Janeiro de 2008
-
-> 2008R0106 — PT — 26.03.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R0174) — [REGULAMENTO (UE) N.º 174/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0174) — L 63 — 1 — 6.3.2013
-
-## REGULAMENTO (CE) N.º 106/2008 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de Janeiro de 2008
 

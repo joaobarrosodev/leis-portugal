@@ -36,6 +36,62 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-04-20'
+version_history:
+  file: diretiva-ue-2004-22.versoes.json
+  count: 2
+  source_lastmod: '2016-04-20'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-04-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Âmbito
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º — Objecto
+    - Suprime Artigo 4.º — Definições
+    - Suprime Artigo 5.º — Aplicabilidade a subconjuntos
+    - Suprime Artigo 6.º — Requisitos essenciais e avaliação da conformidade
+    - Suprime Artigo 7.º — Marcação de conformidade
+    - Suprime Artigo 8.º — Comercialização e colocação em serviço
+    - Suprime Artigo 9.º — Avaliação da conformidade
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º — Notificação
+    - Suprime Artigo 12.º — Critérios a satisfazer pelos organismos designados
+    - Suprime Artigo 13.º — Normas harmonizadas e documentos normativos
+    - Suprime Artigo 14.º — Comité Permanente
+    - Suprime Artigo 15.º — Comité dos Instrumentos de Medida
+    - Suprime Artigo 16.º — Funções do Comité dos Instrumentos de Medida
+    - Suprime Artigo 17.º — Marcações
+    - Suprime Artigo 18.º — Controlo do mercado e cooperação administrativa
+    - Suprime Artigo 19.º — Cláusula de salvaguarda
+    - Suprime Artigo 20.º — Marcações apostas indevidamente
+    - Suprime Artigo 21.º — Decisões conducentes a recusa ou restrição
+    - Suprime Artigo 22.º — Revogações
+    - Suprime Artigo 23.º — Disposições transitórias
+    - Suprime Artigo 24.º — Transposição
+    - Suprime Artigo 25.º — Cláusula de revisão
+    - Suprime Artigo 26.º — Entrada em vigor
+    - Suprime Artigo 27.º — Destinatários
+    - Suprime ANEXO I — REQUISITOS ESSENCIAIS
+    - Suprime ANEXO A — DECLARAÇÃO DE CONFORMIDADE COM BASE NO CONTROLO INTERNO DA PRODUÇÃO
+    - Suprime ANEXO A1 — DECLARAÇÃO DE CONFORMIDADE COM BASE NO CONTROLO INTERNO DA PRODUÇÃO E NO ENSAIO DO PRODUTO POR UM
+      ORGANISMO NOTIFICADO
+    - Suprime ANEXO B — EXAME DE TIPO
+    - Suprime ANEXO C — DECLARAÇÃO DE CONFORMIDADE COM O TIPO BASEADA NO CONTROLO INTERNO DA PRODUÇÃO
+    - Suprime ANEXO C1 — DECLARAÇÃO DE CONFORMIDADE COM O TIPO BASEADA NO CONTROLO INTERNO DA PRODUÇÃO E NO ENSAIO DO PRODUTO
+      POR UM ORGANISMO NOTIFICADO
+    - Suprime ANEXO D — DECLARAÇÃO DE CONFORMIDADE COM O TIPO BASEADA NA GARANTIA DA QUALIDADE DO PROCESSO DE PRODUÇÃO
+    - Suprime ANEXO D1 — DECLARAÇÃO DE CONFORMIDADE BASEADA NA GARANTIA DA QUALIDADE DO PROCESSO DE PRODUÇÃO
+    - Suprime ANEXO E — DECLARAÇÃO DE CONFORMIDADE COM O TIPO BASEADA NA GARANTIA DA QUALIDADE DA INSPECÇÃO E DO ENSAIO DO
+      PRODUTO ACABADO
+    - Suprime ANEXO E1 — DECLARAÇÃO DE CONFORMIDADE BASEADA NA GARANTIA DA QUALIDADE DA INSPECÇÃO E DO ENSAIO DO PRODUTO ACABADO
+    - Suprime ANEXO F — DECLARAÇÃO DE CONFORMIDADE COM O TIPO BASEADA NA VERIFICAÇÃO DOS PRODUTOS
+    - Suprime ANEXO F1 — DECLARAÇÃO DE CONFORMIDADE BASEADA NA VERIFICAÇÃO DOS PRODUTOS
 identifiers:
   celex: 32004L0022
   eli: http://data.europa.eu/eli/dir/2004/22/oj
@@ -50,7 +106,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cd0e3be7-1aad-490a-bec8-704c00c50208.0010
   content_url: http://publications.europa.eu/resource/cellar/09deb0da-c36b-4691-81e9-d6ef684a54c3.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0022-20160420
-  retrieved_at: '2026-10-22T02:36:25Z'
+  retrieved_at: '2026-10-22T14:56:45Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:59:00.211+02:00'
 integrity:
@@ -59,9 +115,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:25Z'
-  notes: Texto consolidado 02004L0022-20160420.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:45Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2004-22.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -286,16 +342,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:25Z'
+  checked_at: '2026-10-22T14:56:45Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02004L0022-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004L0022-20081211: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004L0022-20091201: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004L0022-20130101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

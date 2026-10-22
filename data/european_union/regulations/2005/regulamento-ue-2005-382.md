@@ -35,6 +35,71 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-03-23'
+version_history:
+  file: regulamento-ue-2005-382.versoes.json
+  count: 5
+  source_lastmod: '2009-03-23'
+  versions:
+  - date: '2006-03-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1913:por
+    amending_title: REGULAMENTO (CE) N. o 1913/2006 DA COMISSÃO de 20 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas
+    - Altera Artigo 35.º — Período transitório facultativo
+    - Altera ANEXO I
+    - Altera Notas
+    - Suprime Artigo 22.º — Taxa de câmbio
+  - date: '2007-02-11'
+    amending: eu:celex:32007R0116:por
+    amending_title: REGULAMENTO (CE) N. o 116/2007 DA COMISSÃO de 7 de Fevereiro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas
+    - Altera Artigo 34.º-A — Existências em 31 de Março de 2006
+    - Altera Artigo 35.º — Período transitório facultativo
+    - Altera ANEXO I
+    - Altera Notas
+  - date: '2008-04-01'
+    amending: eu:celex:32007R1388:por
+    amending_title: REGULAMENTO (CE) N. o 1388/2007 DA COMISSÃO de 27 de Novembro de 2007; REGULAMENTO (CE) N. o 232/2008
+      DA COMISSÃO de 14 de Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Produtos elegíveis para a ajuda
+    - Altera Artigo 5.º — Aprovação das empresas de transformação
+    - Altera Artigo 6.º — Aprovação dos compradores de forragens para secar e/ou triturar
+    - Altera Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas
+    - Altera Artigo 11.º — Pesagem das forragens e medição da humidade das forragens para desidratar
+    - Altera Artigo 12.º — Contabilidade das existências das empresas de transformação
+    - Altera Artigo 14.º — Contratos
+    - Altera Artigo 26.º — Controlos in loco das empresas de transformação
+    - Altera Artigo 28.º — Relatórios dos controlos
+    - Altera Artigo 33.º — Comunicações dos Estados-Membros à Comissão
+    - Altera Artigo 35.º — Período transitório facultativo
+    - Altera ANEXO I
+    - Altera Notas
+    - Adita Artigo 22.º-A — Sistemas de inspecção
+    - Suprime Artigo 8.º — Obrigações relativas ao fabrico das forragens
+  - date: '2009-03-23'
+    amending: eu:celex:32009R0230:por
+    amending_title: REGULAMENTO (CE) N. o 230/2009 DA COMISSÃO de 19 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Pesagem, colheita de amostras e análise das forragens secas
+    - Altera Artigo 12.º — Contabilidade das existências das empresas de transformação
+    - Altera Artigo 18.º — Data de apresentação dos pedidos de ajuda
+    - Altera Artigo 35.º — Período transitório facultativo
+    - Altera ANEXO I
+    - Altera Notas
 identifiers:
   celex: 32005R0382
   eli: http://data.europa.eu/eli/reg/2005/382/oj
@@ -49,7 +114,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/255982f2-5ea8-45ef-a7bd-53f78519c830.0016
   content_url: http://publications.europa.eu/resource/cellar/5e310280-f310-4639-a5ab-82ac2a691451.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R0382-20090323
-  retrieved_at: '2026-10-22T03:12:21Z'
+  retrieved_at: '2026-10-22T15:00:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T04:22:19.637+01:00'
 integrity:
@@ -58,9 +123,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:21Z'
-  notes: Texto consolidado 02005R0382-20090323.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:00:09Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2005-382.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -165,34 +230,20 @@ relationships:
   date: '1995-04-07'
 article_structure:
   article_count: 37
-  section_count: 21
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 22
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:21Z'
-  warnings: []
+  checked_at: '2026-10-22T15:00:09Z'
+  warnings:
+  - '02005R0382-20050315: versão indisponível (Sem expressão na língua por para CELEX 02005R0382-20050315.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 382/2005 da Comissão, de 7 de Março de 2005
-
-> 2005R0382 — PT — 23.03.2009 — 005.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006R0432) — [REGULAMENTO (CE) N.º 432/2006 DA COMISSÃO de 15 de Março de 2006](http://publications.europa.eu/resource/celex/32006R0432) — L 79 — 12 — 16.3.2006
-- [►M2](http://publications.europa.eu/resource/celex/32006R1913) — [REGULAMENTO (CE) N.º 1913/2006 DA COMISSÃO de 20 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1913) — L 365 — 52 — 21.12.2006
-- [►M3](http://publications.europa.eu/resource/celex/32007R0116) — [REGULAMENTO (CE) N.º 116/2007 DA COMISSÃO de 7 de Fevereiro de 2007](http://publications.europa.eu/resource/celex/32007R0116) — L 35 — 7 — 8.2.2007
-- [►M4](http://publications.europa.eu/resource/celex/32007R1388) — [REGULAMENTO (CE) N.º 1388/2007 DA COMISSÃO de 27 de Novembro de 2007](http://publications.europa.eu/resource/celex/32007R1388) — L 310 — 3 — 28.11.2007
-- [►M5](http://publications.europa.eu/resource/celex/32008R0232) — [REGULAMENTO (CE) N.º 232/2008 DA COMISSÃO de 14 de Março de 2008](http://publications.europa.eu/resource/celex/32008R0232) — L 73 — 6 — 15.3.2008
-- [►M6](http://publications.europa.eu/resource/celex/32009R0230) — [REGULAMENTO (CE) N.º 230/2009 DA COMISSÃO de 19 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0230) — L 74 — 12 — 20.3.2009
-
-## REGULAMENTO (CE) N.º 382/2005 DA COMISSÃO
 
 de 7 de Março de 2005
 

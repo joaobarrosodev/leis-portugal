@@ -34,6 +34,93 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-07'
+version_history:
+  file: diretiva-ue-1982-883.versoes.json
+  count: 3
+  source_lastmod: '2014-01-07'
+  versions:
+  - date: '1982-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-04-20'
+    amending: eu:celex:32003R0807:por
+    amending_title: REGULAMENTO (CE) N. o 807/2003 DO CONSELHO de 14 de Abril de 2003; REGULAMENTO (CE) N. o 219/2009 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 11 de Março de 2009; A1; Acto de Adesão da Áustria, da Finlândia e da Suécia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita ANEXO I
+    - 'Adita MODO DE ELIMINAÇÃO DE RESÍDUOS: EMISSÕES PARA A ATMOSFERA'
+    - Adita ANEXO II
+    - 'Adita MODO DE ELIMINAÇÃO DE RESÍDUOS: DESCARGA OU IMERSÃO EM ÁGUAS MARINHAS'
+    - Adita (estuarinas, costeiras, águas profundas)
+    - Adita ANEXO III
+    - 'Adita MODO DE ELIMINAÇÃO DE RESÍDUOS: DESCARGA EM ÁGUAS DOCES SUPERFICIAIS'
+    - Adita ANEXO IV
+    - 'Adita MODO DE ELIMINAÇÃO DE RESÍDUOS: ARMAZENAGEM E DEPOSIÇÃO NO SOLO'
+    - Adita ANEXO V
+    - 'Adita MODO DE ELIMINAÇÃO DE RESÍDUOS: INJECÇÃO NO SOLO'
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - 'Suprime Artigo 9º — As alterações necessárias tendo em vista a adaptação ao progresso técnico e científico: - dos parâmetros
+      da coluna «determinação facultativa»,'
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+  - date: '2014-01-07'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime ANEXO I
+    - 'Suprime MODO DE ELIMINAÇÃO DE RESÍDUOS: EMISSÕES PARA A ATMOSFERA'
+    - Suprime ANEXO II
+    - 'Suprime MODO DE ELIMINAÇÃO DE RESÍDUOS: DESCARGA OU IMERSÃO EM ÁGUAS MARINHAS'
+    - Suprime (estuarinas, costeiras, águas profundas)
+    - Suprime ANEXO III
+    - 'Suprime MODO DE ELIMINAÇÃO DE RESÍDUOS: DESCARGA EM ÁGUAS DOCES SUPERFICIAIS'
+    - Suprime ANEXO IV
+    - 'Suprime MODO DE ELIMINAÇÃO DE RESÍDUOS: ARMAZENAGEM E DEPOSIÇÃO NO SOLO'
+    - Suprime ANEXO V
+    - 'Suprime MODO DE ELIMINAÇÃO DE RESÍDUOS: INJECÇÃO NO SOLO'
+    - Suprime Notas
 identifiers:
   celex: 31982L0883
   eli: http://data.europa.eu/eli/dir/1982/883/oj
@@ -48,7 +135,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a5651e55-cdc7-4c4c-b043-5e93aff8362e.0011
   content_url: http://publications.europa.eu/resource/cellar/007a28cf-d97c-48c4-b011-2db156e0264b.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01982L0883-20140107
-  retrieved_at: '2026-10-22T02:49:55Z'
+  retrieved_at: '2026-10-22T14:33:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T09:11:09.354+01:00'
 integrity:
@@ -57,9 +144,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:55Z'
-  notes: Texto consolidado 01982L0883-20140107.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:33:41Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1982-883.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -136,16 +223,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:55Z'
+  checked_at: '2026-10-22T14:33:41Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01982L0883-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01982L0883-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01982L0883-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

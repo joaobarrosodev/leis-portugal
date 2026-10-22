@@ -35,6 +35,136 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-04-01'
+version_history:
+  file: regulamento-ue-2003-1788.versoes.json
+  count: 6
+  source_lastmod: '2008-04-01'
+  versions:
+  - date: '2003-10-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-04-01'
+    amending: eu:celex:32004R2217:por
+    amending_title: REGULAMENTO (CE) N. o 2217/2004 DO CONSELHO de 22 de Dezembro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Pagamento da imposição
+    - Altera Artigo 5.º — Definições
+    - Altera Artigo 23.º — Comité de Gestão
+    - Altera Artigo 27.º — Entrada em vigor
+    - Adita CAPÍTULO 1
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita CAPÍTULO 2
+    - Adita ATRIBUIÇÃO DAS QUANTIDADES DE REFERÊNCIA
+    - Adita CAPÍTULO 3
+    - Adita CÁLCULO DA IMPOSIÇÃO
+    - Adita CAPÍTULO 4
+    - Adita GESTÃO DA IMPOSIÇÃO
+    - Adita CAPÍTULO 5
+    - Adita DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+    - Adita ANEXO I
+    - Adita QUANTIDADES DE REFERÊNCIA
+    - Adita ANEXO II
+    - Adita TEOR DE REFERÊNCIA EM MATÉRIA GORDA
+    - Adita ANEXO III
+    - Adita TABELA DE CORRESPONDÊNCIA
+    - Adita Notas
+    - Suprime CAPÍTULO 1 — DISPOSIÇÕES GERAIS
+    - Suprime CAPÍTULO 2 — ATRIBUIÇÃO DAS QUANTIDADES DE REFERÊNCIA
+    - Suprime CAPÍTULO 3 — CÁLCULO DA IMPOSIÇÃO
+    - Suprime CAPÍTULO 4 — GESTÃO DA IMPOSIÇÃO
+    - Suprime CAPÍTULO 5 — DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+    - Suprime ANEXO I — QUANTIDADES DE REFERÊNCIA
+    - Suprime ANEXO II — TEOR DE REFERÊNCIA EM MATÉRIA GORDA
+    - Suprime ANEXO III — TABELA DE CORRESPONDÊNCIA
+  - date: '2004-05-01'
+    amending: null
+    amending_title: Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre,
+      da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia,
+      da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivo
+    - Altera Artigo 3.º — Pagamento da imposição
+    - Altera Artigo 5.º — Definições
+    - Altera Artigo 6.º — Quantidades de referência individuais
+    - Altera Artigo 9.º — Teor de matéria gorda
+    - Altera Artigo 23.º — Comité de Gestão
+    - Altera QUANTIDADES DE REFERÊNCIA
+    - Altera TEOR DE REFERÊNCIA EM MATÉRIA GORDA
+    - Altera Notas
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1406:por
+    amending_title: REGULAMENTO (CE) N. o 1406/2006 DO CONSELHO de 18 de Setembro 2006; ►A2
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivo
+    - Altera Artigo 3.º — Pagamento da imposição
+    - Altera Artigo 5.º — Definições
+    - Altera Artigo 6.º — Quantidades de referência individuais
+    - Altera Artigo 8.º — Gestão das quantidades de referência
+    - Altera Artigo 9.º — Teor de matéria gorda
+    - Altera Artigo 23.º — Comité de Gestão
+    - Altera QUANTIDADES DE REFERÊNCIA
+    - Altera TEOR DE REFERÊNCIA EM MATÉRIA GORDA
+    - Altera Notas
+  - date: '2007-04-01'
+    amending: eu:celex:32007R0336:por
+    amending_title: REGULAMENTO (CE) N. o 336/2007 DA COMISSÃO de 28 de Março de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Pagamento da imposição
+    - Altera Artigo 5.º — Definições
+    - Altera Artigo 6.º — Quantidades de referência individuais
+    - Altera Artigo 23.º — Comité de Gestão
+    - Altera QUANTIDADES DE REFERÊNCIA
+    - Altera TEOR DE REFERÊNCIA EM MATÉRIA GORDA
+    - Altera Notas
+  - date: '2008-04-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO 1
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objectivo
+    - Suprime Artigo 2.º — Imposição
+    - Suprime Artigo 3.º — Pagamento da imposição
+    - Suprime Artigo 4.º — Contribuição dos produtores para a imposição devida
+    - Suprime Artigo 5.º — Definições
+    - Suprime CAPÍTULO 2
+    - Suprime ATRIBUIÇÃO DAS QUANTIDADES DE REFERÊNCIA
+    - Suprime Artigo 6.º — Quantidades de referência individuais
+    - Suprime Artigo 7.º — Atribuição de quantidades provenientes da reserva nacional
+    - Suprime CAPÍTULO 3
+    - Suprime CÁLCULO DA IMPOSIÇÃO
+    - Suprime Artigo 8.º — Gestão das quantidades de referência
+    - Suprime Artigo 9.º — Teor de matéria gorda
+    - Suprime Artigo 10.º — Imposição sobre as entregas
+    - Suprime Artigo 11.º — Papel dos compradores
+    - Suprime Artigo 12.º — Imposição sobre as vendas directas
+    - Suprime CAPÍTULO 4
+    - Suprime GESTÃO DA IMPOSIÇÃO
+    - Suprime Artigo 13.º — Montantes pagos em excesso ou não pagos
+    - Suprime Artigo 14.º — Reservas nacionais
+    - Suprime Artigo 15.º — Casos de inactividade
+    - Suprime Artigo 16.º — Cessões temporárias
+    - Suprime Artigo 17.º — Transferências de quantidades de referência juntamente com as terras
+    - Suprime Artigo 18.º — Medidas de transferência especiais
+    - Suprime Artigo 19.º — Retenções sobre as transferências
+    - Suprime Artigo 20.º — Ajudas para a aquisição de quantidades de referência
+    - Suprime Artigo 21.º — Aprovação
+    - Suprime CAPÍTULO 5
+    - Suprime DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+    - Suprime Artigo 22.º — Afectação da imposição
+    - Suprime Artigo 23.º — Comité de Gestão
+    - Suprime Artigo 24.º — Regras de execução
+    - Suprime Artigo 25.º — Revogação
+    - Suprime Artigo 26.º — Medidas transitórias
+    - Suprime Artigo 27.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime QUANTIDADES DE REFERÊNCIA
 identifiers:
   celex: 32003R1788
   eli: http://data.europa.eu/eli/reg/2003/1788/oj
@@ -49,7 +179,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/46fb9738-b4ff-40b3-bb31-291fc825eccd.0010
   content_url: http://publications.europa.eu/resource/cellar/53942f84-4130-4e2b-8023-d8a429422452.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R1788-20080401
-  retrieved_at: '2026-10-22T02:42:34Z'
+  retrieved_at: '2026-10-22T14:55:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T13:39:17.227+01:00'
 integrity:
@@ -58,9 +188,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:34Z'
-  notes: Texto consolidado 02003R1788-20080401.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:59Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2003-1788.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -194,16 +324,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:34Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:55:59Z'
+  warnings: []
   errors: []
 ---
 

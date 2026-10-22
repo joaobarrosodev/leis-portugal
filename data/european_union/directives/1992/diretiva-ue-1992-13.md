@@ -35,6 +35,103 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-04-17'
+version_history:
+  file: diretiva-ue-1992-13.versoes.json
+  count: 4
+  source_lastmod: '2014-04-17'
+  versions:
+  - date: '1992-03-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0097:por
+    amending_title: DIRECTIVA 2006/97/CE DO CONSELHO de 20 de Novembro de 2006; Acto de Adesão da Áustria, da Finlândia e
+      da Suécia; Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre,
+      da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia,
+      da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Adita preambulo
+    - Adita CAPÍTULO 1
+    - Adita Meios de recurso ao nível nacional
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita CAPÍTULO 2
+    - Adita Certificação
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita CAPÍTULO 3
+    - Adita Mecanismo de correcção
+    - Adita Artigo 8.º
+    - Adita CAPÍTULO 4
+    - Adita Conciliação
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita CAPÍTULO 5
+    - Adita Disposições finais
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita ANEXO
+    - Adita Autoridades nacionais a que podem ser dirigidos os pedidos de aplicação do processo de conciliação previsto no
+      artigo 9.º
+    - Adita Notas
+  - date: '2008-01-09'
+    amending: eu:celex:32007L0066:por
+    amending_title: DIRECTIVA 2007/66/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 11 de
+      Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Notas
+    - Adita Artigo 1.º — Âmbito de aplicação e acesso ao recurso
+    - Adita Requisitos do recurso
+    - Adita Artigo 2.º-A — Prazo suspensivo
+    - Adita Artigo 2.º-B — Excepções ao prazo suspensivo
+    - Adita Artigo 2.º-C — Prazos para interposição de recurso
+    - Adita Artigo 2.º-D — Privação de efeitos
+    - Adita Artigo 2.º-E — Violação da presente directiva e sanções alternativas
+    - Adita Artigo 2.º-F — Prazos
+    - Adita Artigo 3.º-A — Teor do anúncio voluntário de transparência ex ante
+    - Adita Artigo 3.º-B — Procedimento de comité
+    - Adita Artigo 8.º — Mecanismo de correcção
+    - Adita Artigo 12.º — Aplicação
+    - Adita Artigo 12.º-A — Reexame
+    - Suprime Artigo 1.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime ANEXO
+    - Suprime Autoridades nacionais a que podem ser dirigidos os pedidos de aplicação do processo de conciliação previsto
+      no artigo 9.º
+  - date: '2014-04-17'
+    amending: eu:celex:32014L0023:por
+    amending_title: DIRETIVA 2014/23/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014; ACTO (94/C 241/08);
+      ACTO relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República
+      da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República
+      da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação e acesso ao recurso
+    - Altera Artigo 2.º-A — Prazo suspensivo
+    - Altera Artigo 2.º-B — Excepções ao prazo suspensivo
+    - Altera Artigo 2.º-C — Prazos para interposição de recurso
+    - Altera Artigo 2.º-D — Privação de efeitos
+    - Altera Artigo 2.º-F — Prazos
+    - Altera Artigo 3.º-B — Procedimento de comité
+    - Altera Artigo 8.º — Mecanismo de correcção
+    - Altera Notas
 identifiers:
   celex: 31992L0013
   eli: http://data.europa.eu/eli/dir/1992/13/oj
@@ -49,7 +146,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8811836f-091b-4b4d-9349-906147ea02e9.0009
   content_url: http://publications.europa.eu/resource/cellar/6bc12647-f18b-4093-96e6-77d40c31677b.0015.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0013-20140417
-  retrieved_at: '2026-10-22T02:38:56Z'
+  retrieved_at: '2026-10-22T14:40:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-14T17:15:29.784+02:00'
 integrity:
@@ -58,9 +155,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:56Z'
-  notes: Texto consolidado 01992L0013-20140417.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:40:34Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1992-13.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -233,41 +330,21 @@ relationships:
   date: '2025-08-01'
 article_structure:
   article_count: 15
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 12
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:56Z'
-  warnings: []
+  checked_at: '2026-10-22T14:40:34Z'
+  warnings:
+  - '01992L0013-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0013-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 92/13/CEE do Conselho, de 25 de Fevereiro de 1992
-
-> 01992L0013 — PT — 17.04.2014 — 005.005
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32006L0097) — [DIRECTIVA 2006/97/CE DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0097) — L 363 — 107 — 20.12.2006
-- [►M2](http://publications.europa.eu/resource/celex/32007L0066) — [DIRECTIVA 2007/66/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Dezembro de 2007](http://publications.europa.eu/resource/celex/32007L0066) — L 335 — 31 — 20.12.2007
-- [►M3](http://publications.europa.eu/resource/celex/32014L0023) — [DIRETIVA 2014/23/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014L0023) — L 94 — 1 — 28.3.2014
-
-**Alterada por:**
-
-- [A1](http://publications.europa.eu/resource/celex/11994N%2FACT) — [ACTO (94/C 241/08)](http://publications.europa.eu/resource/celex/11994N%2FACT) — C 241 — 21 — 29.8.1994
-- L 001 — 1 — ..
-- [A2](http://publications.europa.eu/resource/celex/12003T%2FACT) — [ACTO relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T%2FACT) — L 236 — 33 — 23.9.2003
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32007L0066R%2802%29) — [Rectificação, JO L 225, 31.8.2022, p. 5 (2007/66/CE)](http://publications.europa.eu/resource/celex/32007L0066R%2802%29)
-
-## DIRECTIVA 92/13/CEE DO CONSELHO
 
 de 25 de Fevereiro de 1992
 

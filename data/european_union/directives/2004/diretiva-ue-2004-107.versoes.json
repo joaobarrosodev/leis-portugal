@@ -1,0 +1,650 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004L0107:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0107-20150918",
+ "dre_path": null,
+ "source_lastmod": "2015-09-18",
+ "versions": [
+  {
+   "date": "2005-01-26",
+   "future": false,
+   "celex": "32004L0107",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ba687b7fc1ee4543",
+    "c8cfc62305fce66e",
+    "72f0960207054739",
+    "9128998159b1b7e2",
+    "cd3e4ab42c3f98fe",
+    "0c71e512950c02fd",
+    "a7ddbfc4c7c770c3",
+    "25cd1f68634d214c",
+    "96ea112cfa348e32",
+    "c67a21654c09953d",
+    "f6658a5988a069bf",
+    "cb237fbf8f211417",
+    "7179756b05ff93cd",
+    "153577433a2c92eb"
+   ]
+  },
+  {
+   "date": "2009-04-20",
+   "future": false,
+   "celex": "02004L0107-20090420",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0219:por",
+     "title": "REGULAMENTO (CE) n. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009",
+     "published": null,
+     "celex": "32009R0219"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º — Avaliação das concentrações no ar ambiente e das taxas de deposição",
+    "Altera Artigo 5.º — Transmissão de informações e relatórios",
+    "Altera Artigo 6.º — Comité",
+    "Altera Artigo 12.º — Destinatários",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita ANEXO II",
+    "Adita Determinação dos requisitos de avaliação das concentrações de arsénio, cádmio, níquel e benzo(a)pireno no ar ambiente numa zona ou aglomeração",
+    "Adita I. Limiares de avaliação superiores e inferiores:",
+    "Adita II. Determinação das superações dos limiares superiores e inferiores de avaliação",
+    "Adita ANEXO III",
+    "Adita Localização e número mínimo dos pontos de amostragem para a medição das concentrações no ar ambiente e das taxas de deposição",
+    "Adita I. Localização em macro escala",
+    "Adita II. Localização em micro escala",
+    "Adita III. Documentação e revisão da selecção dos locais",
+    "Adita IV. Critérios para determinar o número de pontos de amostragem para as medições em lugares fixos de arsénio, cádmio, mercúrio, níquel e benzo(a)pireno no ar ambiente",
+    "Adita a) Fontes difusas",
+    "Adita b) Fontes pontuais",
+    "Adita ANEXO IV",
+    "Adita Objectivos de qualidade dos dados e requisitos para os modelos de qualidade do ar",
+    "Adita I. Objectivos de qualidade dos dados",
+    "Adita II. Requisitos para os modelos de qualidade do ar",
+    "Adita III. Requisitos para as técnicas objectivas de cálculo",
+    "Adita IV. Normalização",
+    "Adita ANEXO V",
+    "Adita Métodos de referência para a avaliação de concentrações no ar ambiente e das taxas de deposição",
+    "Adita I. Método de referência para a amostragem e análise do arsénio, cádmio e níquel no ar ambiente",
+    "Adita II. Método de referência para a amostragem e análise dos hidrocarbonetos aromáticos policíclicos no ar ambiente",
+    "Adita III. Método de referência para a amostragem e análise do mercúrio no ar ambiente",
+    "Adita IV. Método de referência para a amostragem e análise da deposição de arsénio, cádmio, níquel, mercúrio e hidrocarbonetos aromáticos policíclicos",
+    "Adita V. Técnicas de modelização de referência da qualidade do ar"
+   ],
+   "fragments": [
+    "bef9a8bd9534ef99",
+    "c8cfc62305fce66e",
+    "46d376bc12ed1bfd",
+    "9128998159b1b7e2",
+    "8666b169d98c77eb",
+    "5cd8d407e07943c6",
+    "992d5c6c415f13b6",
+    "25cd1f68634d214c",
+    "96ea112cfa348e32",
+    "c67a21654c09953d",
+    "f6658a5988a069bf",
+    "cb237fbf8f211417",
+    "6a5d6e9f65572f55",
+    "17a3d1cfd6266cd6",
+    "852174729551523b",
+    "8bf4957984700737",
+    "8560e6638846ce49",
+    "479e3bb81a392afd",
+    "720af75c92791b10",
+    "27390448e32d8f39",
+    "98e7c8dc14ac4fcc",
+    "86d8249884855d82",
+    "8ddd50988a4aae53",
+    "c2a1cb636e89dd36",
+    "c41e27448638dccb",
+    "f176a70720f00f03",
+    "e03a0eb4d5b2eef3",
+    "ad51bff55334c816",
+    "ca0ce994b02c25be",
+    "5a76058f6a8251eb",
+    "e6776d85b6e7a603",
+    "22a5ef3940f0e3c3",
+    "64610ae29a6cb67c",
+    "6480fb8873ef72bc",
+    "3d294c6134794ac9",
+    "97335303e2d058f5",
+    "6c947d6e92c5e705",
+    "c220cee5fc0e6cf4",
+    "b6a536ecf8e6b376",
+    "98a09046c3bd0b56"
+   ]
+  },
+  {
+   "date": "2015-09-18",
+   "future": false,
+   "celex": "02004L0107-20150918",
+   "acts": [
+    {
+     "id": "eu:celex:32015L1480:por",
+     "title": "DIRETIVA (UE) 2015/1480 DA COMISSÃO Texto relevante para efeitos do EEE de 28 de agosto de 2015",
+     "published": null,
+     "celex": "32015L1480"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º — Transmissão de informações e relatórios",
+    "Altera ANEXO I",
+    "Altera a) Fontes difusas",
+    "Altera I. Objectivos de qualidade dos dados",
+    "Altera Notas",
+    "Adita I. Método de referência para amostragem e análise de arsénio, cádmio e níquel no ar ambiente",
+    "Adita II. Método de referência para amostragem e análise de hidrocarbonetos aromáticos policíclicos no ar ambiente",
+    "Adita III. Método de referência para amostragem e análise de mercúrio no ar ambiente",
+    "Adita IV. Método de referência para amostragem e análise da deposição de arsénio, cádmio, níquel, mercúrio e hidrocarbonetos aromáticos policíclicos",
+    "Suprime I. Método de referência para a amostragem e análise do arsénio, cádmio e níquel no ar ambiente",
+    "Suprime II. Método de referência para a amostragem e análise dos hidrocarbonetos aromáticos policíclicos no ar ambiente",
+    "Suprime III. Método de referência para a amostragem e análise do mercúrio no ar ambiente",
+    "Suprime IV. Método de referência para a amostragem e análise da deposição de arsénio, cádmio, níquel, mercúrio e hidrocarbonetos aromáticos policíclicos"
+   ],
+   "fragments": [
+    "7410072d10037025",
+    "c8cfc62305fce66e",
+    "46d376bc12ed1bfd",
+    "9128998159b1b7e2",
+    "8666b169d98c77eb",
+    "b0183018718f1d42",
+    "992d5c6c415f13b6",
+    "25cd1f68634d214c",
+    "96ea112cfa348e32",
+    "c67a21654c09953d",
+    "f6658a5988a069bf",
+    "cb237fbf8f211417",
+    "6a5d6e9f65572f55",
+    "7e2cc1866d211046",
+    "852174729551523b",
+    "8bf4957984700737",
+    "8560e6638846ce49",
+    "479e3bb81a392afd",
+    "720af75c92791b10",
+    "27390448e32d8f39",
+    "98e7c8dc14ac4fcc",
+    "86d8249884855d82",
+    "8ddd50988a4aae53",
+    "c2a1cb636e89dd36",
+    "d6d17626c68154ae",
+    "f176a70720f00f03",
+    "e03a0eb4d5b2eef3",
+    "ad51bff55334c816",
+    "772c7b618d36b156",
+    "5a76058f6a8251eb",
+    "e6776d85b6e7a603",
+    "22a5ef3940f0e3c3",
+    "64610ae29a6cb67c",
+    "6480fb8873ef72bc",
+    "c579e4d44caf7f34",
+    "a1728850ffe824ba",
+    "0099c33e03b88d31",
+    "c973966bf881a494",
+    "b6a536ecf8e6b376",
+    "b432bce7c342a4ba"
+   ]
+  }
+ ],
+ "fragments": {
+  "ba687b7fc1ee4543": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Dezembro de 2004\n\nrelativa ao arsénio, ao cádmio, ao mercúrio, ao níquel e aos hidrocarbonetos aromáticos policíclicos no ar ambiente\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 1 do artigo 175.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/26e2ff35-62bb-4c29-9d22-0fbd8642f440.0017.03/DOC_1#ntr1-L_2005023PT.01000301-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/26e2ff35-62bb-4c29-9d22-0fbd8642f440.0017.03/DOC_1#ntr2-L_2005023PT.01000301-E0002),\n\nConsiderando o seguinte:\n\n(1) Com base nos princípios do n.º 3 do artigo 175.º do Tratado, o sexto programa comunitário de acção em matéria de ambiente, adoptado pela Decisão n.º 1600/2002/CE do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/26e2ff35-62bb-4c29-9d22-0fbd8642f440.0017.03/DOC_1#ntr3-L_2005023PT.01000301-E0003), estabelece a necessidade de reduzir a poluição a níveis que minimizem os efeitos nocivos para a saúde humana, tendo especialmente em conta as categorias de população mais vulneráveis, e para o ambiente na sua globalidade, de melhorar a monitorização e avaliação da qualidade do ar incluindo a deposição de poluentes, e de informar o público.\n\n(2) O n.º 1 do artigo 4.º da Directiva 96/62/CE do Conselho, de 27 de Setembro de 1996, relativa à avaliação e gestão da qualidade do ar ambiente [([^4])](http://publications.europa.eu/resource/cellar/26e2ff35-62bb-4c29-9d22-0fbd8642f440.0017.03/DOC_1#ntr4-L_2005023PT.01000301-E0004), prevê que a Comissão apresente propostas de regulamentação dos poluentes enumerados no anexo I dessa directiva tendo em conta as disposições estabelecidas nos n.^os^ 3 e 4 desse artigo.\n\n(3) Existem provas científicas de que o arsénio, o cádmio, o níquel e alguns hidrocarbonetos aromáticos policíclicos são agentes carcinogénicos genotóxicos para o homem e não existe um limiar identificável abaixo do qual estas substâncias não representem um risco para a saúde humana. O impacto na saúde humana e no ambiente ocorre por concentração no ar ambiente e por deposição. Tendo em vista a relação custo-eficácia, não é possível obter em algumas áreas específicas concentrações no ar ambiente de arsénio, cádmio, níquel e hidrocarbonetos aromáticos policíclicos que não representem um risco significativo para a saúde humana.\n\n(4) A fim de reduzir ao mínimo os efeitos nocivos para a saúde humana, com especial atenção para as populações sensíveis, e para o ambiente no seu conjunto, das partículas de arsénio, de cádmio, de níquel e de hidrocarbonetos aromáticos policíclicos em suspensão atmosférica serão estabelecidos valores-alvo, a atingir na medida do possível. O benzo(a) pireno será utilizado como marcador do risco carcinogénico dos hidrocarbonetos aromáticos policíclicos no ar ambiente.\n\n(5) Os valores-alvo não deverão exigir a aplicação de medidas que impliquem custos desproporcionados. Quanto às instalações industriais, não deverão implicar a adopção de medidas para além das melhores técnicas disponíveis (MTD), tal como exige a Directiva 96/61/CE de 24 de Setembro de 1996 relativa à prevenção e controlo integrados da poluição [([^5])](http://publications.europa.eu/resource/cellar/26e2ff35-62bb-4c29-9d22-0fbd8642f440.0017.03/DOC_1#ntr5-L_2005023PT.01000301-E0005) e, em especial, não deverão conduzir ao encerramento de instalações. Deverão, contudo, exigir a adopção pelos Estados-Membros de todas as medidas de redução nos sectores relevantes, com uma boa relação custo-eficácia.\n\n(6) Em especial, os valores-alvo fixados na presente directiva não deverão ser considerados como padrões de qualidade ambiental tal como definidos no n.º 7 do artigo 2.º da Directiva 96/61/CE do Conselho, os quais, nos termos do artigo 10.º dessa directiva, exigem condições mais rigorosas do que as que é possível atingir através da utilização das MTD.\n\n(7) Nos termos do artigo 176.º do Tratado, os Estados-Membros devem manter ou introduzir medidas de protecção mais severas relativas ao arsénio, ao cádmio, ao mercúrio, ao níquel e aos hidrocarbonetos aromáticos policíclicos na medida em que estas sejam compatíveis com o Tratado e notificadas à Comissão.\n\n(8) Sempre que as concentrações excedam certos limiares de avaliação, será obrigatória a monitorização do arsénio, do cádmio, do níquel e do benzo(a)pireno. O recurso a meios de avaliação adicionais poderá reduzir o número necessário de pontos de amostragem para medição fixa. Prevê-se também a monitorização das concentrações de fundo no ar ambiente e da deposição.\n\n(9) O mercúrio é uma substância muito perigosa para a saúde humana e o ambiente. Está presente em todo o ambiente e, sob a forma de metil-mercúrio, tem a capacidade de se acumular nos organismos e, em especial, de se concentrar em organismos situados na fase superior da cadeia alimentar. O mercúrio libertado na atmosfera pode ser transportado a longas distâncias.\n\n(10) A Comissão tenciona apresentar, em 2005, uma estratégia coerente com medidas de protecção da saúde humana e do ambiente contra a libertação de mercúrio, com base numa abordagem do ciclo de vida, que terá em conta a sua produção, utilização, tratamento de resíduos e emissão. Neste contexto, a Comissão deverá considerar todas as medidas apropriadas para reduzir a quantidade de mercúrio nos ecossistemas terrestre e aquático e, por conseguinte, a ingestão deste metal através dos alimentos, e a evitar a sua presença em determinados produtos.\n\n(11) Os efeitos do arsénio, do cádmio, do mercúrio, do níquel e dos hidrocarbonetos aromáticos policíclicos na saúde humana, inclusive através da cadeia alimentar e sobre o ambiente, na sua globalidade, ocorrem por concentração no ar ambiente e por deposição, devendo ser tomadas em consideração a acumulação dessas substâncias nos solos e a protecção das águas subterrâneas. A fim de facilitar a revisão da presente directiva em 2010, a Comissão e os Estados-Membros deveriam promover a investigação dos efeitos do arsénio, do cádmio, do mercúrio, do níquel e dos hidrocarbonetos aromáticos policíclicos na saúde humana e no ambiente, em especial através da deposição.\n\n(12) Para que as informações obtidas sejam comparáveis em toda a Comunidade, são elementos importantes na avaliação da qualidade do ar ambiente as técnicas de medição precisas e normalizadas e os critérios comuns para a localização das estações de medição. Uma questão muito importante será a disponibilização de métodos de medição de referência. A Comissão ordenou que começassem a ser elaboradas normas CEN para a medição dos elementos constituintes do ar ambiente, para os quais são definidos valores-alvo (arsénio, cádmio, níquel e benzo(a)pireno), assim como relativamente à deposição de metais pesados, a fim de estas poderem ser rapidamente elaboradas e aprovadas. Na ausência de métodos normalizados CEN, podem ser utilizados métodos de medição de referência normalizados internacionais ou nacionais.\n\n(13) As informações sobre as concentrações e a deposição dos poluentes regulamentados deverão ser transmitidas à Comissão e servir de base para a elaboração de relatórios periódicos.\n\n(14) Deverão ser rapidamente colocadas à disposição do público informações actualizadas sobre as concentrações no ar ambiente e a deposição dos poluentes regulamentados.\n\n(15) Os Estados-Membros deverão estabelecer regras sobre as sanções aplicáveis às infracções ao disposto na presente directiva e assegurar que as mesmas sejam aplicadas. Essas sanções devem ser eficazes, proporcionais e dissuasivas.\n\n(16) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^6])](http://publications.europa.eu/resource/cellar/26e2ff35-62bb-4c29-9d22-0fbd8642f440.0017.03/DOC_1#ntr6-L_2005023PT.01000301-E0006).\n\n(17) As alterações necessárias à adaptação da presente directiva ao progresso técnico e científico devem dizer apenas respeito a critérios e técnicas para a avaliação de concentrações e da deposição dos poluentes regulamentados ou aos pormenores relativos à transmissão das informações à Comissão. Não devem ter por efeito alterar, directa ou indirectamente, os valores-alvo,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "c8cfc62305fce66e": {
+   "fragment_id": "Artigo 1.º — Objectivos",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos\n\nA presente directiva tem os seguintes objectivos:\n\na) Estabelecer um valor-alvo para as concentrações de arsénio, cádmio, níquel e benzo(a)pireno no ar ambiente com o intuito de evitar, prevenir ou limitar os efeitos nocivos do arsénio, cádmio, níquel e hidrocarbonetos aromáticos policíclicos na saúde humana e no ambiente na sua globalidade;\n\nb) Assegurar, em relação ao arsénio, cádmio, níquel e hidrocarbonetos aromáticos policíclicos, que a qualidade do ar ambiente seja mantida nos casos em que é boa, e melhorada nos outros casos;\n\nc) Determinar métodos e critérios comuns para a avaliação das concentrações de arsénio, cádmio, mercúrio, níquel e hidrocarbonetos aromáticos policíclicos no ar ambiente, e da deposição de arsénio, cádmio, mercúrio, níquel e hidrocarbonetos aromáticos policíclicos;\n\nd) Assegurar a obtenção de informações adequadas sobre as concentrações de arsénio, cádmio, mercúrio, níquel e hidrocarbonetos aromáticos policíclicos no ar ambiente, a deposição de arsénio, cádmio, mercúrio, níquel e hidrocarbonetos aromáticos policíclicos, bem como a sua colocação à disposição do público."
+  },
+  "72f0960207054739": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, são aplicáveis as definições do artigo 2.º da Directiva 96/62/CE, com excepção da de «valor-alvo».\n\nSão igualmente aplicáveis as seguintes definições:\n\na) **«Valor-alvo»**: uma concentração no ar ambiente fixada com o intuito de evitar, prevenir ou reduzir os efeitos nocivos para a saúde humana e o ambiente na sua globalidade, a ser alcançado, na medida do possível, durante um dado período de tempo;\n\nb) **«Deposição total ou global»**: massa total de poluentes transferidos da atmosfera para superfícies (por exemplo, solo, vegetação, água, edifícios, etc.), numa determinada área num dado período de tempo;\n\nc) **«Limiar superior de avaliação»**: o nível de poluição, especificado no anexo II, abaixo do qual pode ser utilizada uma combinação de medições e de técnicas de modelização para avaliar a qualidade do ar ambiente, nos termos do n.º 3 do artigo 6.º da Directiva 96/62/CE;\n\nd) **«Limiar inferior de avaliação»**: o nível de poluição, especificado no anexo II, abaixo do qual pode ser utilizada, sem recurso a outras técnicas, a modelização ou a estimativa objectiva para avaliar a qualidade do ar ambiente, nos termos do n.º 4 do artigo 6.º da Directiva 96/62/CE;\n\ne) **«Medições fixas»**: medições efectuadas em pontos fixos, continuamente ou por amostragem aleatória, nos termos do n.º 5 do artigo 6.º da Directiva 96/62/CE;\n\nf) **«Arsénio», «cádmio», «níquel» e «benzo(a)pireno»**: o teor total destes elementos e de compostos na fracção PM10;\n\ng) **«PM10»**: partículas susceptíveis de passar através de uma tomada de amostra selectiva, como definido na Norma EN 12341, com 50 % de eficiência para um diâmetro aerodinâmico de 10 μm;\n\nh) **«Hidrocarbonetos aromáticos policíclicos»**: compostos orgânicos, formados pelo menos por dois anéis aromáticos fundidos, inteiramente constituídos por carbono e hidrogénio;\n\ni) **«Mercúrio gasoso total»**: vapor de mercúrio elementar (Hg^0^) e mercúrio gasoso reactivo, isto é, espécies de mercúrio solúveis em água com uma pressão de vapor suficientemente elevada para existir na fase gasosa."
+  },
+  "9128998159b1b7e2": {
+   "fragment_id": "Artigo 3.º — Valores-alvo",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Valores-alvo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Valores-alvo\n\n1. Os Estados-Membros devem tomar todas as medidas necessárias, que não impliquem custos desproporcionados, para assegurar que, a partir de 31 de Dezembro de 2012, as concentrações de arsénio, cádmio, níquel e benzo(a)pireno, utilizadas como marcadores do risco carcinogénico dos hidrocarbonetos aromáticos policíclicos no ar ambiente, avaliadas nos termos do artigo 4.º, não excedam os valores-alvo estabelecidos no anexo I.\n\n2. Os Estados-Membros devem elaborar uma lista de zonas e aglomerações em que os níveis de arsénio, cádmio, níquel e benzo(a)pireno sejam inferiores aos respectivos valores-alvo. Os Estados-Membros devem manter os níveis destes poluentes nessas zonas e aglomerações abaixo dos respectivos valores-alvo e esforçar-se por preservar a melhor qualidade do ar ambiente compatível com o desenvolvimento sustentável.\n\n3. Os Estados-Membros devem elaborar uma lista de zonas e aglomerações nas quais são excedidos os valores-alvo estabelecidos no anexo I.\n\nPara essas zonas e aglomerações, os Estados-Membros devem especificar as áreas de excedência e as fontes que para ela contribuem. Nas áreas em causa, os Estados-Membros devem demonstrar a aplicação de todas as medidas necessárias e que não impliquem custos desproporcionados, especialmente dirigidas para as fontes predominantes de emissão, de forma a atingir os valores-alvo. No que respeita às instalações industriais abrangidas pela Directiva 96/61/CE, tal significa a aplicação das MTD definidas no ponto 11 do artigo 2.º daquela directiva."
+  },
+  "cd3e4ab42c3f98fe": {
+   "fragment_id": "Artigo 4.º — Avaliação das concentrações no ar ambiente e das taxas de deposição",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Avaliação das concentrações no ar ambiente e das taxas de deposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Avaliação das concentrações no ar ambiente e das taxas de deposição\n\n1. A qualidade do ar ambiente em relação ao arsénio, ao cádmio, ao níquel e ao benzo(a)pireno deve ser avaliada em todo o território dos Estados-Membros.\n\n2. De acordo com os critérios referidos no número 7, a medição é obrigatória nas seguintes zonas:\n\na) Zonas e aglomerações onde os níveis se situam entre os limiares superior e inferior de avaliação; e\n\nb) Outras zonas e aglomerações onde os níveis excedem o limiar superior de avaliação.\n\nAs medições previstas podem ser completadas por técnicas de modelização a fim de se obter um nível adequado de informação sobre a qualidade do ar ambiente.\n\n3. Para avaliar a qualidade do ar ambiente em zonas e aglomerações nas quais, durante um período representativo, os níveis se situem entre os limiares superior e inferior de avaliação, a determinar nos termos da secção II do anexo II, pode ser utilizada uma combinação de medições, incluindo medições indicativas, e técnicas de modelização.\n\n4. Para avaliar a qualidade do ar ambiente em zonas e aglomerações nas quais os níveis estejam abaixo do limiar inferior de avaliação, a determinar segundo as disposições referidas na secção II do anexo II, apenas é possível utilizar técnicas de modelização ou técnicas objectivas de cálculo.\n\n5. Quando as medições de poluentes sejam obrigatórias, estas devem ser feitas em locais fixos, continuamente ou por amostragem aleatória. O número de medições deve ser suficiente para permitir a determinação dos níveis.\n\n6. Os limiares superior e inferior de avaliação para o arsénio, o cádmio, o níquel e o benzo(a)pireno no ar ambiente são os estabelecidos na secção I do anexo II. Para efeitos do presente artigo, a classificação de cada zona ou aglomeração deve ser revista pelo menos de cinco em cinco anos nos termos da secção II do anexo II. A classificação será revista mais cedo em caso de alteração significativa de actividades relevantes para as concentrações de arsénio, cádmio, níquel e benzo(a)pireno no ar ambiente.\n\n7. Os critérios para determinar a localização dos pontos de amostragem para a medição do arsénio, do cádmio, do níquel e do benzo(a)pireno no ar ambiente a fim de avaliar a conformidade com os valores-alvo são os enumerados nas secções I e II do anexo III. O número mínimo de pontos de amostragem para medições fixas das concentrações de cada poluente é o estabelecido na secção IV do anexo III; esses pontos de amostragem devem ser instalados em cada zona ou aglomeração em que são exigidas medições, se a medição fixa for a única fonte de dados sobre concentrações nessas zonas.\n\n8. A fim de avaliar a contribuição do benzo(a)pireno no ar ambiente, cada Estado-Membro deve monitorizar outros hidrocarbonetos aromáticos policíclicos relevantes num número limitado de sítios de medição. Essa monitorização deve incluir pelo menos: benzo(a)antraceno, benzo(b)fluoranteno, benzo(j)fluoranteno, benzo(k)fluoranteno, indeno(1,2,3-cd)pireno e dibenz(a,h)antraceno. Os sítios de monitorização destes hidrocarbonetos aromáticos policíclicos devem coincidir com os sítios de amostragem para o benzo(a)pireno e devem ser seleccionados de forma a permitir a identificação da variação geográfica e de tendências a longo prazo. São aplicáveis as secções I, II e III do anexo III.\n\n9. Independentemente dos níveis de concentração, deve ser instalado um ponto de amostragem de fundo por cada 100 000 km^2^ para a medição indicativa, no ar ambiente, do arsénio, do cádmio, do níquel, do mercúrio gasoso total, do benzo(a)pireno e dos outros hidrocarbonetos aromáticos policíclicos referidos no n.º 8, bem como da deposição total de arsénio, cádmio, mercúrio, níquel, benzo(a)pireno e outros hidrocarbonetos aromáticos policíclicos referidos no n.º 8. Cada Estado-Membro deve estabelecer, pelo menos, uma estação de medição. Todavia, a fim de alcançarem a necessária resolução espacial, os Estados-Membros podem, mediante acordo e segundo orientações a definir nos termos do artigo 6.º, estabelecer uma ou várias estações de medição comuns, que abranjam zonas adjacentes dos respectivos territórios. Recomenda-se também a medição de partículas e do mercúrio gasoso divalente. Quando tal for adequado, a monitorização deve ser coordenada com a estratégia de monitorização e o programa de medições do Programa Comum de Vigilância Contínua e de Avaliação do Transporte a Longa Distância dos Poluentes Atmosféricos na Europa (EMEP). Os sítios de amostragem para estes poluentes devem ser seleccionados de modo a permitir a identificação da variação geográfica e das tendências a longo prazo. São aplicáveis as secções I, II e III do anexo III.\n\n10. Pode ser considerada a utilização de bioindicadores para a avaliação dos padrões regionais de impacto nos ecossistemas.\n\n11. Nas zonas e aglomerações nas quais as informações recolhidas a partir de estações de medição fixa forem complementadas por dados provenientes de outras fontes, como inventários de emissões, métodos de avaliação de referência e modelização da qualidade do ar, o número de estações de medição fixa a instalar, bem como a resolução espacial de outras técnicas, devem permitir medir as concentrações de poluentes atmosféricos nos termos da secção I do anexo III e da secção I do anexo IV.\n\n12. Os objectivos de qualidade dos dados constam da secção I do anexo III. Quando forem utilizados para a avaliação modelos da qualidade do ar, é aplicável a secção II do anexo III.\n\n13. Os métodos de referência para a amostragem e análise do arsénio, cádmio, mercúrio, níquel e hidrocarbonetos aromáticos policíclicos no ar ambiente constam das secções I, II e III do anexo V. A secção IV do anexo V estabelece as técnicas de referência para a medição da deposição total de arsénio, cádmio, mercúrio, níquel e hidrocarbonetos aromáticos policíclicos e a secção V do anexo V diz respeito às técnicas de modelização de referência para a qualidade do ar, quando essas técnicas se encontrarem disponíveis.\n\n14. A data em que os Estados-Membros devem comunicar à Comissão os métodos utilizados para a avaliação preliminar da qualidade do ar nos termos da alínea d) do n.º 1 do artigo 11.º da Directiva 96/62/CE é a fixada no artigo 10.º da presente directiva.\n\n15. Quaisquer alterações necessárias para adaptar as disposições do presente artigo, e da secção II do anexo II e dos anexos III a V ao progresso técnico e científico são adoptadas nos termos do artigo 6.º, mas não podem implicar quaisquer alterações directas ou indirectas dos valores-alvo."
+  },
+  "0c71e512950c02fd": {
+   "fragment_id": "Artigo 5.º — Transmissão de informações e relatórios",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Transmissão de informações e relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Transmissão de informações e relatórios\n\n1. No que respeita às zonas e aglomerações em que são excedidos quaisquer valores-alvo fixados no anexo I, os Estados-Membros devem comunicar à Comissão as seguintes informações:\n\na) As listas das zonas e aglomerações em causa;\n\nb) As áreas de excedência;\n\nc) Os valores de concentração avaliados;\n\nd) As razões da excedência, nomeadamente as fontes que para elas contribuem;\n\ne) A população exposta a essa excedência.\n\nOs Estados-Membros devem igualmente comunicar todos os dados avaliados nos termos do artigo 4.º, excepto se já tiverem sido comunicados ao abrigo da Decisão 97/101/CE do Conselho, de 27 de Janeiro de 1997, que estabelece um intercâmbio recíproco de informações e de dados provenientes das redes e estações individuais que medem a poluição atmosférica nos Estados-Membros [([^7])](http://publications.europa.eu/resource/cellar/26e2ff35-62bb-4c29-9d22-0fbd8642f440.0017.03/DOC_1#ntr7-L_2005023PT.01000301-E0007).\n\nAs informações devem ser transmitidas em relação a cada ano civil, o mais tardar até 30 de Setembro do ano seguinte e, pela primeira vez, em relação ao ano civil seguinte a 15 de Fevreiro de 2007.\n\n2. Para além dos requisitos do n.º 1, os Estados-Membros devem também comunicar quaisquer medidas que adoptem nos termos do artigo 3.º\n\n3. A Comissão deve assegurar que todas as informações transmitidas nos termos do n.º 1 sejam rapidamente colocadas à disposição do público pelos meios adequados como a internet, a imprensa ou outros meios de comunicação social de fácil acesso.\n\n4. A Comissão adopta, nos termos do artigo 6.º, as regras relativas à transmissão das informações a fornecer nos termos do n.º 1 do presente artigo."
+  },
+  "a7ddbfc4c7c770c3": {
+   "fragment_id": "Artigo 6.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comité\n\n1. A Comissão é assistida pelo comité instituído pelo n.º 2 do artigo 12.º da Directiva 96/62/CE.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "25cd1f68634d214c": {
+   "fragment_id": "Artigo 7.º — Informação do público",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Informação do público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Informação do público\n\n1. Os Estados-Membros devem facultar o acesso a informações claras e compreensíveis e colocá-las regularmente à disposição do público e das organizações competentes, como as organizações de defesa do ambiente, de defesa do consumidor, que representam os interesses das populações mais vulneráveis e outros organismos competentes em matéria de protecção da saúde, sobre as concentrações no ar ambiente de arsénio, cádmio, mercúrio, níquel, benzo(a)pireno e outros hidrocarbonetos aromáticos policíclicos referidos no n.º 8 do artigo 4.º e ainda sobre as taxas de deposição de arsénio, cádmio, mercúrio, níquel, benso(a)pireno e outros hidrocarbonetos aromáticos policíclicos referidos no n.º 8 do artigo 4.º\n\n2. As informações devem também indicar qualquer excedência anual dos valores-alvo previstos no anexo I para o arsénio, o cádmio, o níquel e o benzo(a)pireno. Devem indicar as razões da excedência e a área a que diz respeito. Deve igualmente fornecer uma curta avaliação do valor-alvo e dados adequados no que respeita aos efeitos na saúde e ao impacto ambiental.\n\nAs informações sobre as medidas que venham a ser adoptadas nos termos do artigo 3.º devem ser colocadas à disposição das organizações referidas no n.º 1 do presente artigo.\n\n3. A comunicação das informações deve ser feita, por exemplo, pela internet, pela imprensa e através de outros meios de comunicação social de fácil acesso."
+  },
+  "96ea112cfa348e32": {
+   "fragment_id": "Artigo 8.º — Relatório e revisão",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Relatório e revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Relatório e revisão\n\n1. O mais tardar em 31 de Dezembro de 2010, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho um relatório sobre:\n\na) A experiência adquirida com a aplicação da presente directiva;\n\nb) Designadamente, os resultados dos trabalhos de investigação científica mais recentes acerca dos efeitos na saúde humana, resultantes da exposição ao arsénio, cádmio, mercúrio, níquel e hidrocarbonetos aromáticos policíclicos, tendo especialmente em conta a população mais vulnerável, e acerca dos efeitos no ambiente na sua globalidade;\n\nc) O progresso tecnológico, incluindo o desenvolvimento dos métodos de medição e de outros tipos de avaliação das concentrações desses poluentes no ar ambiente e da sua deposição.\n\n2. O relatório referido no n.º 1 deve ter em conta:\n\na) A actual qualidade do ar, tendências e projecções até e para além de 2015;\n\nb) A possibilidade de novas reduções nas emissões poluentes de todas as fontes relevantes e as possíveis vantagens da introdução de valores limite destinados a reduzir o risco para a saúde humana, para os poluentes inscritos no anexo I, tendo em conta a viabilidade técnica e a relação custo-eficácia, bem como qualquer protecção suplementar da saúde e do ambiente daí resultante;\n\nc) As relações entre os poluentes e as oportunidades de aplicação de estratégias combinadas para a realização dos objectivos comunitários de qualidade do ar e outros relacionados;\n\nd) As exigências actuais e futuras relativas à informação do público e ao intercâmbio de informações entre os Estados-Membros e a Comissão;\n\ne) A experiência adquirida com a aplicação da presente directiva nos Estados-Membros, incluindo, em particular, as condições — previstas no anexo II — em que se efectuaram as medições;\n\nf) As vantagens económicas secundárias para o ambiente e a saúde da redução das emissões de arsénio, cádmio, mercúrio, níquel e hidrocarbonetos aromáticos policíclicos, na medida em que possam ser avaliadas;\n\ng) A adequação da fracção das dimensões das partículas utilizada como amostra em relação aos requisitos gerais de medição de partículas;\n\nh) A adequação do benzo(a)pireno como marcador da actividade carcinogénica dos hidrocarbonetos aromáticos policíclicos, tendo em conta as formas predominantemente gasosas dos hidrocarbonetos aromáticos policíclicos tais como o fluoranteno.\n\nÀ luz dos mais recentes progressos científicos e tecnológicos, a Comissão deve também analisar o efeito do arsénico, do cádmio e do níquel sobre a saúde humana com o objectivo de quantificar a sua genotoxicidade carcinogénica. Tomando em consideração as medidas adoptadas nos termos da estratégia relativa ao mercúrio, a Comissão deve também analisar se será útil desenvolver outras acções relativamente ao mercúrio, tendo em conta a viabilidade técnica e a relação custo-benefício, bem como qualquer protecção suplementar da saúde ou do ambiente eventualmente daí resultante.\n\n3. A fim de atingir níveis de concentrações no ar ambiente que reduzam ainda mais os efeitos nocivos para a saúde humana e que possam levar a um elevado nível de protecção do ambiente na sua globalidade, e tendo em conta a viabilidade técnica e a relação custo-eficácia das acções a adoptar, esse relatório será acompanhado, se necessário, de propostas de alteração da presente directiva, tendo particularmente em conta os resultados alcançados de acordo com o n.º 2. Além disso, a Comissão deve estudar a possibilidade de regulamentação da deposição de arsénio, cádmio, mercúrio, níquel e hidrocarbonetos aromáticos policíclicos específicos."
+  },
+  "c67a21654c09953d": {
+   "fragment_id": "Artigo 9.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sanções\n\nOs Estados-Membros devem determinar as sanções aplicáveis em caso de violação das disposições nacionais adoptadas em aplicação da presente directiva e tomar todas as medidas necessárias para garantir a sua aplicação. As sanções devem ser eficazes, proporcionadas e dissuasivas."
+  },
+  "f6658a5988a069bf": {
+   "fragment_id": "Artigo 10.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Transposição\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 15 de Fevreiro de 2007 e informar imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros adoptarem essas disposições, estas devem conter uma referência à presente directiva ou ser dela acompanhadas aquando da sua publicação oficial. As modalidades de referência serão estabelecidas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "cb237fbf8f211417": {
+   "fragment_id": "Artigo 11.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "7179756b05ff93cd": {
+   "fragment_id": "Artigo 12.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Estrasburgo, em 15 de Dezembro de 2004.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. P. BORRELL FONTELLES**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**A. NICOLAÏ**\n\n---"
+  },
+  "153577433a2c92eb": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/26e2ff35-62bb-4c29-9d22-0fbd8642f440.0017.03/DOC_1#ntc1-L_2005023PT.01000301-E0001) [JO C 110 de 30.4.2004, p. 16](http://publications.europa.eu/resource/oj/JOC_2004_110_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/26e2ff35-62bb-4c29-9d22-0fbd8642f440.0017.03/DOC_1#ntc2-L_2005023PT.01000301-E0002) Parecer do Parlamento Europeu de 20 de Abril de 2004 (ainda não publicado no Jornal Oficial), e decisão do Conselho de 15 de Novembro de 2004.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/26e2ff35-62bb-4c29-9d22-0fbd8642f440.0017.03/DOC_1#ntc3-L_2005023PT.01000301-E0003) [JO L 242 de 10.9.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_242_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/26e2ff35-62bb-4c29-9d22-0fbd8642f440.0017.03/DOC_1#ntc4-L_2005023PT.01000301-E0004) [JO L 296 de 21.11.1996, p. 55](http://publications.europa.eu/resource/oj/JOL_1996_296_R_TOC). Directiva alterada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho ([JO L 284 de 31.10.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_284_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/26e2ff35-62bb-4c29-9d22-0fbd8642f440.0017.03/DOC_1#ntc5-L_2005023PT.01000301-E0005) [JO L 257 de 10.10.1996, p. 26](http://publications.europa.eu/resource/oj/JOL_1996_257_R_TOC). Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003.\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/26e2ff35-62bb-4c29-9d22-0fbd8642f440.0017.03/DOC_1#ntc6-L_2005023PT.01000301-E0006) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC). (Rectificação: [JO L 269 de 19.10.1999, p. 45](http://publications.europa.eu/resource/oj/JOL_1999_269_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/26e2ff35-62bb-4c29-9d22-0fbd8642f440.0017.03/DOC_1#ntc7-L_2005023PT.01000301-E0007) [JO L 35 de 5.2.1997, p. 14](http://publications.europa.eu/resource/oj/JOL_1997_035_R_TOC). Directiva alterada pela Directiva 2001/752/CE ([JO L 282 de 26.10.2001, p. 69](http://publications.europa.eu/resource/oj/JOL_2001_282_R_TOC))."
+  },
+  "bef9a8bd9534ef99": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Dezembro de 2004\n\nrelativa ao arsénio, ao cádmio, ao mercúrio, ao níquel e aos hidrocarbonetos aromáticos policíclicos no ar ambiente\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 1 do artigo 175.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/cb8f9507-5c9d-499d-adfd-76d8521bd959.0018.03/DOC_1#E0001)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/cb8f9507-5c9d-499d-adfd-76d8521bd959.0018.03/DOC_1#E0002)),\n\n(1) Com base nos princípios do n.º 3 do artigo 175.º do Tratado, o sexto programa comunitário de acção em matéria de ambiente, adoptado pela Decisão n.º 1600/2002/CE do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/cb8f9507-5c9d-499d-adfd-76d8521bd959.0018.03/DOC_1#E0003)), estabelece a necessidade de reduzir a poluição a níveis que minimizem os efeitos nocivos para a saúde humana, tendo especialmente em conta as categorias de população mais vulneráveis, e para o ambiente na sua globalidade, de melhorar a monitorização e avaliação da qualidade do ar incluindo a deposição de poluentes, e de informar o público.\n\n(2) O n.º 1 do artigo 4.º da Directiva 96/62/CE do Conselho, de 27 de Setembro de 1996, relativa à avaliação e gestão da qualidade do ar ambiente ([^4^](http://publications.europa.eu/resource/cellar/cb8f9507-5c9d-499d-adfd-76d8521bd959.0018.03/DOC_1#E0004)), prevê que a Comissão apresente propostas de regulamentação dos poluentes enumerados no anexo I dessa directiva tendo em conta as disposições estabelecidas nos n.^os^ 3 e 4 desse artigo.\n\n(3) Existem provas científicas de que o arsénio, o cádmio, o níquel e alguns hidrocarbonetos aromáticos policíclicos são agentes carcinogénicos genotóxicos para o homem e não existe um limiar identificável abaixo do qual estas substâncias não representem um risco para a saúde humana. O impacto na saúde humana e no ambiente ocorre por concentração no ar ambiente e por deposição. Tendo em vista a relação custo-eficácia, não é possível obter em algumas áreas específicas concentrações no ar ambiente de arsénio, cádmio, níquel e hidrocarbonetos aromáticos policíclicos que não representem um risco significativo para a saúde humana.\n\n(4) A fim de reduzir ao mínimo os efeitos nocivos para a saúde humana, com especial atenção para as populações sensíveis, e para o ambiente no seu conjunto, das partículas de arsénio, de cádmio, de níquel e de hidrocarbonetos aromáticos policíclicos em suspensão atmosférica serão estabelecidos valores-alvo, a atingir na medida do possível. O benzo(a) pireno será utilizado como marcador do risco carcinogénico dos hidrocarbonetos aromáticos policíclicos no ar ambiente.\n\n(5) Os valores-alvo não deverão exigir a aplicação de medidas que impliquem custos desproporcionados. Quanto às instalações industriais, não deverão implicar a adopção de medidas para além das melhores técnicas disponíveis (MTD), tal como exige a Directiva 96/61/CE de 24 de Setembro de 1996 relativa à prevenção e controlo integrados da poluição ([^5^](http://publications.europa.eu/resource/cellar/cb8f9507-5c9d-499d-adfd-76d8521bd959.0018.03/DOC_1#E0005)) e, em especial, não deverão conduzir ao encerramento de instalações. Deverão, contudo, exigir a adopção pelos Estados-Membros de todas as medidas de redução nos sectores relevantes, com uma boa relação custo-eficácia.\n\n(6) Em especial, os valores-alvo fixados na presente directiva não deverão ser considerados como padrões de qualidade ambiental tal como definidos no n.º 7 do artigo 2.º da Directiva 96/61/CE do Conselho, os quais, nos termos do artigo 10.º dessa directiva, exigem condições mais rigorosas do que as que é possível atingir através da utilização das MTD.\n\n(7) Nos termos do artigo 176.º do Tratado, os Estados-Membros devem manter ou introduzir medidas de protecção mais severas relativas ao arsénio, ao cádmio, ao mercúrio, ao níquel e aos hidrocarbonetos aromáticos policíclicos na medida em que estas sejam compatíveis com o Tratado e notificadas à Comissão.\n\n(8) Sempre que as concentrações excedam certos limiares de avaliação, será obrigatória a monitorização do arsénio, do cádmio, do níquel e do benzo(a)pireno. O recurso a meios de avaliação adicionais poderá reduzir o número necessário de pontos de amostragem para medição fixa. Prevê-se também a monitorização das concentrações de fundo no ar ambiente e da deposição.\n\n(9) O mercúrio é uma substância muito perigosa para a saúde humana e o ambiente. Está presente em todo o ambiente e, sob a forma de metil-mercúrio, tem a capacidade de se acumular nos organismos e, em especial, de se concentrar em organismos situados na fase superior da cadeia alimentar. O mercúrio libertado na atmosfera pode ser transportado a longas distâncias.\n\n(10) A Comissão tenciona apresentar, em 2005, uma estratégia coerente com medidas de protecção da saúde humana e do ambiente contra a libertação de mercúrio, com base numa abordagem do ciclo de vida, que terá em conta a sua produção, utilização, tratamento de resíduos e emissão. Neste contexto, a Comissão deverá considerar todas as medidas apropriadas para reduzir a quantidade de mercúrio nos ecossistemas terrestre e aquático e, por conseguinte, a ingestão deste metal através dos alimentos, e a evitar a sua presença em determinados produtos.\n\n(11) Os efeitos do arsénio, do cádmio, do mercúrio, do níquel e dos hidrocarbonetos aromáticos policíclicos na saúde humana, inclusive através da cadeia alimentar e sobre o ambiente, na sua globalidade, ocorrem por concentração no ar ambiente e por deposição, devendo ser tomadas em consideração a acumulação dessas substâncias nos solos e a protecção das águas subterrâneas. A fim de facilitar a revisão da presente directiva em 2010, a Comissão e os Estados-Membros deveriam promover a investigação dos efeitos do arsénio, do cádmio, do mercúrio, do níquel e dos hidrocarbonetos aromáticos policíclicos na saúde humana e no ambiente, em especial através da deposição.\n\n(12) Para que as informações obtidas sejam comparáveis em toda a Comunidade, são elementos importantes na avaliação da qualidade do ar ambiente as técnicas de medição precisas e normalizadas e os critérios comuns para a localização das estações de medição. Uma questão muito importante será a disponibilização de métodos de medição de referência. A Comissão ordenou que começassem a ser elaboradas normas CEN para a medição dos elementos constituintes do ar ambiente, para os quais são definidos valores-alvo (arsénio, cádmio, níquel e benzo(a)pireno), assim como relativamente à deposição de metais pesados, a fim de estas poderem ser rapidamente elaboradas e aprovadas. Na ausência de métodos normalizados CEN, podem ser utilizados métodos de medição de referência normalizados internacionais ou nacionais.\n\n(13) As informações sobre as concentrações e a deposição dos poluentes regulamentados deverão ser transmitidas à Comissão e servir de base para a elaboração de relatórios periódicos.\n\n(14) Deverão ser rapidamente colocadas à disposição do público informações actualizadas sobre as concentrações no ar ambiente e a deposição dos poluentes regulamentados.\n\n(15) Os Estados-Membros deverão estabelecer regras sobre as sanções aplicáveis às infracções ao disposto na presente directiva e assegurar que as mesmas sejam aplicadas. Essas sanções devem ser eficazes, proporcionais e dissuasivas.\n\n(16) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/cb8f9507-5c9d-499d-adfd-76d8521bd959.0018.03/DOC_1#E0006)).\n\n(17) As alterações necessárias à adaptação da presente directiva ao progresso técnico e científico devem dizer apenas respeito a critérios e técnicas para a avaliação de concentrações e da deposição dos poluentes regulamentados ou aos pormenores relativos à transmissão das informações à Comissão. Não devem ter por efeito alterar, directa ou indirectamente, os valores-alvo,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "46d376bc12ed1bfd": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, são aplicáveis as definições do artigo 2.º da Directiva 96/62/CE, com excepção da de «valor-alvo».\n\nSão igualmente aplicáveis as seguintes definições:\n\na) «Valor-alvo»: uma concentração no ar ambiente fixada com o intuito de evitar, prevenir ou reduzir os efeitos nocivos para a saúde humana e o ambiente na sua globalidade, a ser alcançado, na medida do possível, durante um dado período de tempo;\n\nb) «Deposição total ou global»: massa total de poluentes transferidos da atmosfera para superfícies (por exemplo, solo, vegetação, água, edifícios, etc.), numa determinada área num dado período de tempo;\n\nc) «Limiar superior de avaliação»: o nível de poluição, especificado no anexo II, abaixo do qual pode ser utilizada uma combinação de medições e de técnicas de modelização para avaliar a qualidade do ar ambiente, nos termos do n.º 3 do artigo 6.º da Directiva 96/62/CE;\n\nd) «Limiar inferior de avaliação»: o nível de poluição, especificado no anexo II, abaixo do qual pode ser utilizada, sem recurso a outras técnicas, a modelização ou a estimativa objectiva para avaliar a qualidade do ar ambiente, nos termos do n.º 4 do artigo 6.º da Directiva 96/62/CE;\n\ne) «Medições fixas»: medições efectuadas em pontos fixos, continuamente ou por amostragem aleatória, nos termos do n.º 5 do artigo 6.º da Directiva 96/62/CE;\n\nf) «Arsénio», «cádmio», «níquel» e «benzo(a)pireno»: o teor total destes elementos e de compostos na fracção PM10;\n\ng) «PM10»: partículas susceptíveis de passar através de uma tomada de amostra selectiva, como definido na Norma EN 12341, com 50 % de eficiência para um diâmetro aerodinâmico de 10 μm;\n\nh) «Hidrocarbonetos aromáticos policíclicos»: compostos orgânicos, formados pelo menos por dois anéis aromáticos fundidos, inteiramente constituídos por carbono e hidrogénio;\n\ni) «Mercúrio gasoso total»: vapor de mercúrio elementar (Hg^0^) e mercúrio gasoso reactivo, isto é, espécies de mercúrio solúveis em água com uma pressão de vapor suficientemente elevada para existir na fase gasosa."
+  },
+  "8666b169d98c77eb": {
+   "fragment_id": "Artigo 4.º — Avaliação das concentrações no ar ambiente e das taxas de deposição",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Avaliação das concentrações no ar ambiente e das taxas de deposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Avaliação das concentrações no ar ambiente e das taxas de deposição\n\n1. A qualidade do ar ambiente em relação ao arsénio, ao cádmio, ao níquel e ao benzo(a)pireno deve ser avaliada em todo o território dos Estados-Membros.\n\n2. De acordo com os critérios referidos no número 7, a medição é obrigatória nas seguintes zonas:\n\na) Zonas e aglomerações onde os níveis se situam entre os limiares superior e inferior de avaliação; e\n\nb) Outras zonas e aglomerações onde os níveis excedem o limiar superior de avaliação.\n\nAs medições previstas podem ser completadas por técnicas de modelização a fim de se obter um nível adequado de informação sobre a qualidade do ar ambiente.\n\n3. Para avaliar a qualidade do ar ambiente em zonas e aglomerações nas quais, durante um período representativo, os níveis se situem entre os limiares superior e inferior de avaliação, a determinar nos termos da secção II do anexo II, pode ser utilizada uma combinação de medições, incluindo medições indicativas, e técnicas de modelização.\n\n4. Para avaliar a qualidade do ar ambiente em zonas e aglomerações nas quais os níveis estejam abaixo do limiar inferior de avaliação, a determinar segundo as disposições referidas na secção II do anexo II, apenas é possível utilizar técnicas de modelização ou técnicas objectivas de cálculo.\n\n5. Quando as medições de poluentes sejam obrigatórias, estas devem ser feitas em locais fixos, continuamente ou por amostragem aleatória. O número de medições deve ser suficiente para permitir a determinação dos níveis.\n\n6. Os limiares superior e inferior de avaliação para o arsénio, o cádmio, o níquel e o benzo(a)pireno no ar ambiente são os estabelecidos na secção I do anexo II. Para efeitos do presente artigo, a classificação de cada zona ou aglomeração deve ser revista pelo menos de cinco em cinco anos nos termos da secção II do anexo II. A classificação será revista mais cedo em caso de alteração significativa de actividades relevantes para as concentrações de arsénio, cádmio, níquel e benzo(a)pireno no ar ambiente.\n\n7. Os critérios para determinar a localização dos pontos de amostragem para a medição do arsénio, do cádmio, do níquel e do benzo(a)pireno no ar ambiente a fim de avaliar a conformidade com os valores-alvo são os enumerados nas secções I e II do anexo III. O número mínimo de pontos de amostragem para medições fixas das concentrações de cada poluente é o estabelecido na secção IV do anexo III; esses pontos de amostragem devem ser instalados em cada zona ou aglomeração em que são exigidas medições, se a medição fixa for a única fonte de dados sobre concentrações nessas zonas.\n\n8. A fim de avaliar a contribuição do benzo(a)pireno no ar ambiente, cada Estado-Membro deve monitorizar outros hidrocarbonetos aromáticos policíclicos relevantes num número limitado de sítios de medição. Essa monitorização deve incluir pelo menos: benzo(a)antraceno, benzo(b)fluoranteno, benzo(j)fluoranteno, benzo(k)fluoranteno, indeno(1,2,3-cd)pireno e dibenz(a,h)antraceno. Os sítios de monitorização destes hidrocarbonetos aromáticos policíclicos devem coincidir com os sítios de amostragem para o benzo(a)pireno e devem ser seleccionados de forma a permitir a identificação da variação geográfica e de tendências a longo prazo. São aplicáveis as secções I, II e III do anexo III.\n\n9. Independentemente dos níveis de concentração, deve ser instalado um ponto de amostragem de fundo por cada 100 000 km^2^ para a medição indicativa, no ar ambiente, do arsénio, do cádmio, do níquel, do mercúrio gasoso total, do benzo(a)pireno e dos outros hidrocarbonetos aromáticos policíclicos referidos no n.º 8, bem como da deposição total de arsénio, cádmio, mercúrio, níquel, benzo(a)pireno e outros hidrocarbonetos aromáticos policíclicos referidos no mesmo número. Cada Estado-Membro deve criar pelo menos uma estação de medição. Todavia, a fim de alcançarem a necessária resolução espacial, os Estados-Membros podem, mediante acordo e segundo orientações a definir pelo procedimento de regulamentação previsto no n.º 2 do artigo 6.º, estabelecer uma ou várias estações de medição comuns, que abranjam zonas adjacentes dos respectivos territórios. Recomenda-se também a medição de partículas e do mercúrio gasoso divalente. Quando tal for adequado, a vigilância deve ser coordenada com a estratégia de vigilância e o programa de medições do Programa Comum de Vigilância Contínua e de Avaliação do Transporte a Longa Distância dos Poluentes Atmosféricos na Europa (EMEP). Os sítios de amostragem para estes poluentes devem ser seleccionados de modo a permitir a identificação da variação geográfica e das tendências a longo prazo. São aplicáveis as secções I, II e III do anexo III.\n\n10. Pode ser considerada a utilização de bioindicadores para a avaliação dos padrões regionais de impacto nos ecossistemas.\n\n11. Nas zonas e aglomerações nas quais as informações recolhidas a partir de estações de medição fixa forem complementadas por dados provenientes de outras fontes, como inventários de emissões, métodos de avaliação de referência e modelização da qualidade do ar, o número de estações de medição fixa a instalar, bem como a resolução espacial de outras técnicas, devem permitir medir as concentrações de poluentes atmosféricos nos termos da secção I do anexo III e da secção I do anexo IV.\n\n12. Os objectivos de qualidade dos dados constam da secção I do anexo III. Quando forem utilizados para a avaliação modelos da qualidade do ar, é aplicável a secção II do anexo III.\n\n13. Os métodos de referência para a amostragem e análise do arsénio, cádmio, mercúrio, níquel e hidrocarbonetos aromáticos policíclicos no ar ambiente constam das secções I, II e III do anexo V. A secção IV do anexo V estabelece as técnicas de referência para a medição da deposição total de arsénio, cádmio, mercúrio, níquel e hidrocarbonetos aromáticos policíclicos e a secção V do anexo V diz respeito às técnicas de modelização de referência para a qualidade do ar, quando essas técnicas se encontrarem disponíveis.\n\n14. A data em que os Estados-Membros devem comunicar à Comissão os métodos utilizados para a avaliação preliminar da qualidade do ar nos termos da alínea d) do n.º 1 do artigo 11.º da Directiva 96/62/CE é a fixada no artigo 10.º da presente directiva.\n\n15. Quaisquer alterações necessárias para adaptar as disposições do presente artigo, da secção II do anexo II e dos anexos III, IV e V ao progresso técnico e científico são aprovadas pela Comissão. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 6.º. Essas alterações não podem implicar quaisquer alterações directas ou indirectas dos valores-alvo."
+  },
+  "5cd8d407e07943c6": {
+   "fragment_id": "Artigo 5.º — Transmissão de informações e relatórios",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Transmissão de informações e relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Transmissão de informações e relatórios\n\n1. No que respeita às zonas e aglomerações em que são excedidos quaisquer valores-alvo fixados no anexo I, os Estados-Membros devem comunicar à Comissão as seguintes informações:\n\na) As listas das zonas e aglomerações em causa;\n\nb) As áreas de excedência;\n\nc) Os valores de concentração avaliados;\n\nd) As razões da excedência, nomeadamente as fontes que para elas contribuem;\n\ne) A população exposta a essa excedência.\n\nOs Estados-Membros devem igualmente comunicar todos os dados avaliados nos termos do artigo 4.º, excepto se já tiverem sido comunicados ao abrigo da Decisão 97/101/CE do Conselho, de 27 de Janeiro de 1997, que estabelece um intercâmbio recíproco de informações e de dados provenientes das redes e estações individuais que medem a poluição atmosférica nos Estados-Membros ([^7^](http://publications.europa.eu/resource/cellar/cb8f9507-5c9d-499d-adfd-76d8521bd959.0018.03/DOC_1#E0007)).\n\nAs informações devem ser transmitidas em relação a cada ano civil, o mais tardar até 30 de Setembro do ano seguinte e, pela primeira vez, em relação ao ano civil seguinte a 15 de Fevreiro de 2007.\n\n2. Para além dos requisitos do n.º 1, os Estados-Membros devem também comunicar quaisquer medidas que adoptem nos termos do artigo 3.º\n\n3. A Comissão deve assegurar que todas as informações transmitidas nos termos do n.º 1 sejam rapidamente colocadas à disposição do público pelos meios adequados como a internet, a imprensa ou outros meios de comunicação social de fácil acesso.\n\n4. A Comissão aprova, pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 6.º, regras detalhadas relativamente à transmissão das informações a prestar nos termos do n.º 1 do presente artigo."
+  },
+  "992d5c6c415f13b6": {
+   "fragment_id": "Artigo 6.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comité\n\n1. A Comissão é assistida pelo comité instituído pelo n.º 2 do artigo 12.º da Directiva 96/62/CE.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "6a5d6e9f65572f55": {
+   "fragment_id": "Artigo 12.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "17a3d1cfd6266cd6": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| Poluente | Valores alvo [(^1^)](http://publications.europa.eu/resource/cellar/cb8f9507-5c9d-499d-adfd-76d8521bd959.0018.03/DOC_1#E0008) |\n| --- | --- |\n| Arsénio | 6 ng/m^3^ |\n| Cádmio | 5 ng/m^3^ |\n| Níquel | 20 ng/m^3^ |\n| Benzo(a)pireno | 1 ng/m^3^ |\n| (^1^)Para o teor total na fracção PM10 calculada como média durante um ano civil. |  |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "8bf4957984700737": {
+   "fragment_id": "Determinação dos requisitos de avaliação das concentrações de arsénio, cádmio, níquel e benzo(a)pireno no ar ambiente numa zona ou aglomeração",
+   "type": "divisao",
+   "heading": "Determinação dos requisitos de avaliação das concentrações de arsénio, cádmio, níquel e benzo(a)pireno no ar ambiente numa zona ou aglomeração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Determinação dos requisitos de avaliação das concentrações de arsénio, cádmio, níquel e benzo(a)pireno no ar ambiente numa zona ou aglomeração"
+  },
+  "8560e6638846ce49": {
+   "fragment_id": "I. Limiares de avaliação superiores e inferiores:",
+   "type": "divisao",
+   "heading": "I. Limiares de avaliação superiores e inferiores:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Limiares de avaliação superiores e inferiores:\n\n|  | Arsénio | Cádmio | Níquel | B(a)P |\n| --- | --- | --- | --- | --- |\n| Limiar superior de avaliação em percentagem do valor-alvo | 60 % (3,6 ng/m^3^) | 60 % (3 ng/m^3^) | 70 % (14 ng/m^3^) | 60 % (0,6 ng/m^3^) |\n| Limiar inferior de avaliação em percentagem do valor-alvo | 40 % (2,4 ng/m^3^) | 40 % (2 ng/m^3^) | 50 % (10 ng/m^3^) | 40 % (0,4 ng/m^3^) |"
+  },
+  "479e3bb81a392afd": {
+   "fragment_id": "II. Determinação das superações dos limiares superiores e inferiores de avaliação",
+   "type": "divisao",
+   "heading": "II. Determinação das superações dos limiares superiores e inferiores de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Determinação das superações dos limiares superiores e inferiores de avaliação\n\nAs superações dos limiares superiores e inferiores de avaliação devem ser determinadas tomando como base as concentrações dos cinco anos anteriores, quando se disponha de dados suficientes. Um limiar de avaliação será considerado superado quando se tenha verificado durante pelo menos três desses cinco anos civis.\n\nQuando estiverem disponíveis dados relativos a menos de cinco anos, os Estados-Membros podem combinar as campanhas de medição de curta duração durante o período do ano e nos lugares onde previsivelmente se alcançam os níveis de poluição mais altos, com os resultados obtidos a partir da informação procedente da modelização e inventários de emissões, a fim de determinar a superação dos limiares superiores e inferiores de avaliação."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "27390448e32d8f39": {
+   "fragment_id": "Localização e número mínimo dos pontos de amostragem para a medição das concentrações no ar ambiente e das taxas de deposição",
+   "type": "divisao",
+   "heading": "Localização e número mínimo dos pontos de amostragem para a medição das concentrações no ar ambiente e das taxas de deposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Localização e número mínimo dos pontos de amostragem para a medição das concentrações no ar ambiente e das taxas de deposição"
+  },
+  "98e7c8dc14ac4fcc": {
+   "fragment_id": "I. Localização em macro escala",
+   "type": "divisao",
+   "heading": "I. Localização em macro escala",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Localização em macro escala\n\nA localização dos pontos de amostragem deve ser escolhida:\n\n— de modo a fornecer dados sobre locais situados no interior de zonas e aglomerações nos quais é provável que a população esteja directa ou indirectamente exposta às concentrações mais elevadas calculadas em média ao longo de um ano civil,\n\n— de modo a fornecer dados sobre os níveis em outros locais no interior das zonas e aglomerações que sejam representativos da exposição da população em geral,\n\n— de modo a fornecer dados sobre as taxas de deposição representativas dos efeitos indirectos da exposição da população através da cadeia alimentar.\n\nOs pontos de amostragem devem estar, de um modo geral, localizados de modo a evitar medir micro-ambientes de muito pequena dimensão na sua proximidade imediata. A título de orientação, um ponto de amostragem deve ter uma localização que o torne representativo da qualidade do ar numa área circundante de pelo menos 200 m^2^, nos locais orientados para o tráfego, de pelo menos 250 × 250 m nas zonas industriais, sempre que tal seja exequível, e de vários quilómetros quadrados nos locais situados em meio urbano.\n\nQuando o objectivo for a avaliação dos níveis de fundo, o local de amostragem não deve ser influenciado por aglomerações ou zonas industriais na sua vizinhança, isto é, a uma distância inferior a alguns quilómetros.\n\nQuando se avaliar a contribuição de fontes industriais, deve ser instalado pelo menos um ponto de amostragem a sotavento da fonte na zona residencial mais próxima. Se não for conhecida a concentração de fundo, deve instalar-se um ponto de amostragem adicional na área coberta pela direcção predominante do vento. Quando for aplicável o n.º 3 do artigo 3.º, os pontos de amostragem devem ser instalados de forma a poder ser monitorizada a aplicação das melhores técnicas disponíveis.\n\nOs pontos de amostragem deverão, se possível, ser igualmente representativos de locais similares não situados na sua proximidade imediata. Quando adequado, a sua localização deve coincidir com a dos pontos de amostragem para a fracção PM10."
+  },
+  "86d8249884855d82": {
+   "fragment_id": "II. Localização em micro escala",
+   "type": "divisao",
+   "heading": "II. Localização em micro escala",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Localização em micro escala\n\nDevem ser cumpridas, tanto quanto possível, as seguintes orientações:\n\n— o fluxo de ar em torno da entrada da sonda de amostragem deve ser livre, sem quaisquer obstruções que afectem o fluxo de ar na proximidade do dispositivo de amostragem (normalmente, a alguns metros de distância de edifícios, varandas, árvores e outros obstáculos e, no mínimo, a 0,5 m metros do edifício mais próximo, no caso de pontos de amostragem representativos da qualidade do ar na linha de edificação),\n\n— a entrada da sonda deve, em geral, estar a uma distância de 1,5 m (zona de inalação) e a 4 m do solo. Poderá ser necessário, nalguns casos, instalá-la em posições mais elevadas (até cerca de 8 m). A localização em posições mais elevadas pode também ser apropriada, se a estação for representativa de uma área vasta,\n\n— a entrada da sonda não deve ser posicionada na imediata proximidade de fontes, para evitar a admissão directa de emissões não misturadas com o ar ambiente,\n\n— o exaustor da sonda de amostragem deve ser posicionado de modo a evitar a recirculação do ar expelido para a entrada da sonda,\n\n— os dispositivos de amostragem orientados para o tráfego devem ser instalados a uma distância mínima de 25 metros da berma dos principais cruzamentos e de 4 m do centro da faixa de rodagem mais próxima; as entradas das sondas devem ser instaladas de modo a que a amostragem seja representativa da qualidade do ar na proximidade da linha de edificação,\n\n— para as medições da deposição em zonas rurais, devem ser aplicados os critérios e orientações do EMEP na medida do possível e salvo disposição em contrário dos presentes anexos.\n\nPodem igualmente ser tidos em conta os seguintes factores:\n\n— fontes de interferência,\n\n— segurança,\n\n— acessibilidade,\n\n— existência de fontes de energia eléctrica e telecomunicações,\n\n— visibilidade do local em relação à área envolvente,\n\n— segurança do público e dos operadores,\n\n— conveniência de instalar no mesmo local pontos de amostragem para diferentes poluentes,\n\n— requisitos de planeamento."
+  },
+  "8ddd50988a4aae53": {
+   "fragment_id": "III. Documentação e revisão da selecção dos locais",
+   "type": "divisao",
+   "heading": "III. Documentação e revisão da selecção dos locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. Documentação e revisão da selecção dos locais\n\nOs procedimentos de selecção dos locais devem ser devidamente documentados na fase de classificação, utilizando meios como fotografias com as coordenadas da área envolvente e um mapa pormenorizado. Os locais devem ser reavaliados periodicamente, com base em nova documentação, para garantir que os critérios de selecção continuam a ser válidos ao longo do tempo."
+  },
+  "c2a1cb636e89dd36": {
+   "fragment_id": "IV. Critérios para determinar o número de pontos de amostragem para as medições em lugares fixos de arsénio, cádmio, mercúrio, níquel e benzo(a)pireno no ar ambiente",
+   "type": "divisao",
+   "heading": "IV. Critérios para determinar o número de pontos de amostragem para as medições em lugares fixos de arsénio, cádmio, mercúrio, níquel e benzo(a)pireno no ar ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IV. Critérios para determinar o número de pontos de amostragem para as medições em lugares fixos de arsénio, cádmio, mercúrio, níquel e benzo(a)pireno no ar ambiente\n\nNúmero mínimo de pontos de amostragem para medições em lugares fixos para avaliar o cumprimento dos valores-alvo para a protecção da saúde humana em zonas e aglomerações em que as medições fixas constituem a única fonte de informação."
+  },
+  "c41e27448638dccb": {
+   "fragment_id": "a) Fontes difusas",
+   "type": "divisao",
+   "heading": "a) Fontes difusas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### a) Fontes difusas\n\n| População da zona ou aglomeração (em milhares de habitantes) | Para concentrações máximas que ultrapassem o limiar superior de avaliação [(^1^)](http://publications.europa.eu/resource/cellar/cb8f9507-5c9d-499d-adfd-76d8521bd959.0018.03/DOC_1#E0009) | Para concentrações máximas compreendidas entre o limiar superior e o limiar inferior de avaliação |  |  |\n| --- | --- | --- | --- | --- |\n| As, Cd, Ni | Benzo(a)pireno | As, Cd, Ni | Benzo(a)pireno |  |\n| 0-749 | 1 | 1 | 1 | 1 |\n| 750-1 999 | 2 | 2 | 1 | 1 |\n| 2 000-3 749 | 2 | 3 | 1 | 1 |\n| 3 750-4 749 | 3 | 4 | 2 | 2 |\n| 4 750-5 999 | 4 | 5 | 2 | 2 |\n| ≥ 6 000 | 5 | 5 | 2 | 2 |\n| (^1^)Para o benzo(a)pireno, incluir pelo menos uma estação para os níveis de fundo urbanos e igualmente uma estação em zona afectada pelo tráfego, desde que não aumente o número de pontos de amostragem. |  |  |  |  |"
+  },
+  "f176a70720f00f03": {
+   "fragment_id": "b) Fontes pontuais",
+   "type": "divisao",
+   "heading": "b) Fontes pontuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### b) Fontes pontuais\n\nPara avaliar os níveis de poluição na proximidade de fontes pontuais, o número de pontos de amostragem para medição fixa deverá ser determinado tendo em conta as densidades de emissão, os padrões de distribuição mais prováveis da poluição no ar ambiente e a potencial exposição da população.\n\nOs pontos de amostragem devem estar situados de modo que possa controlar-se a aplicação das melhores tecnologias disponíveis, tal como definido no n.º 2 do artigo 11.º da Directiva 96/61/CE."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "ad51bff55334c816": {
+   "fragment_id": "Objectivos de qualidade dos dados e requisitos para os modelos de qualidade do ar",
+   "type": "divisao",
+   "heading": "Objectivos de qualidade dos dados e requisitos para os modelos de qualidade do ar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Objectivos de qualidade dos dados e requisitos para os modelos de qualidade do ar"
+  },
+  "ca0ce994b02c25be": {
+   "fragment_id": "I. Objectivos de qualidade dos dados",
+   "type": "divisao",
+   "heading": "I. Objectivos de qualidade dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Objectivos de qualidade dos dados\n\nOs seguintes objectivos de qualidade dos dados são fornecidos como orientação para a garantia da qualidade.\n\n|  | Benzo(a)pireno | Arsénio, cádmio e níquel | Hidrocarbonetos aromáticos policíclicos excl. o benzo(a)pireno, mercúrio gasoso total e deposição total | Deposição total |\n| --- | --- | --- | --- | --- |\n| — Incerteza |  |  |  |  |\n| Medições fixas e indicativas | 50 % | 40 % | 50 % | 70 % |\n| Modelização | 60 % | 60 % | 60 % | 60 % |\n| — Taxa mínima de recolha de dados | 90 % | 90 % | 90 % | 90 % |\n| — Período mínimo de cobertura: |  |  |  |  |\n| Medições fixas | 33 % | 50 % | — |  |\n| Medições indicativas [(^1^)](http://publications.europa.eu/resource/cellar/cb8f9507-5c9d-499d-adfd-76d8521bd959.0018.03/DOC_1#E0010) | 14 % | 14 % | 14 % | 33 % |\n| (^1^)Medições indicativas são medições que se efectuam com periodicidade reduzida mas que satisfazem os outros objectivos de qualidade dos dados. |  |  |  |  |\n\nA incerteza (expressa com um nível de confiança de 95 %) dos métodos utilizados para a avaliação de concentrações no ar ambiente será estabelecida de acordo com os princípios do CEN Guide to the Expression of Uncertainty in Measurement [Guia CEN para Expressão da Incerteza das Medições] (ENV 13005-1999), a metodologia da ISO 5725:1994 e as orientações do CEN Report «Air quality — Approach to uncertainty estimation for ambient air reference measurement methods» [Relatório do CEN sobre a Qualidade do Ar — Abordagem da Estimativa de Incerteza dos Métodos de Medição de Referência do Ar Ambiente] (CR 14377:2002E). As percentagens para a incerteza são fornecidas para cada uma das medições, calculadas em média durante períodos de amostragem típicos, com um intervalo de confiança de 95 %. A incerteza das medições deverá ser interpretada como aplicável na região adequada ao valor-alvo. As medições fixas e as medições indicativas deverão ser equitativamente distribuídas ao longo do ano para evitar a distorção dos resultados.\n\nOs requisitos para o número mínimo de dados a recolher e o período de amostragem não incluem as perdas de informação decorrentes da calibração regular ou da manutenção normal dos instrumentos. É necessário um período de amostragem de 24 horas para a medição do benzo(a)pireno e de outros hidrocarbonetos aromáticos policíclicos. Com o devido cuidado, cada uma das amostras recolhidas durante o período máximo de um mês pode ser combinada e analisada como amostra composta, desde que o método garanta que as amostras se mantêm estáveis durante esse período. Pode ser difícil separar analiticamente os três congéneres benzo(b)fluoranteno, benzo(j)fluoranteno e benzo(k)fluoranteno. Nesses casos podem ser tratados como um todo. É também aconselhável um período de amostragem de 24 horas para a medição das concentrações de arsénio, cádmio e níquel. A amostragem deve ser equitativamente distribuída ao longo da semana e do ano. Para a medição das taxas de deposição, recomenda-se a recolha mensal ou semanal de amostras durante todo o ano.\n\nOs Estados-Membros podem utilizar apenas a deposição húmida em vez da deposição global se puderem demonstrar que a diferença entre ambas se situa num intervalo de 10 %. As taxas de deposição devem de um modo geral ser expressas em μg/m^2^ por dia.\n\nOs Estados-Membros podem aplicar um período mínimo de amostragem inferior ao indicado no quadro, mas não inferior a 14 % para as medições fixas nem a 6 % para as medições indicativas, desde que possam demonstrar que será observada a incerteza expandida de 95 % da média anual, calculada a partir dos objectivos de qualidade dos dados constantes do quadro segundo a ISO 11222:2002 — «Determination of the uncertainty of the time average of air quality measurements» (Determinação da Incerteza da Média Temporal das Medições da Qualidade do Ar)."
+  },
+  "5a76058f6a8251eb": {
+   "fragment_id": "II. Requisitos para os modelos de qualidade do ar",
+   "type": "divisao",
+   "heading": "II. Requisitos para os modelos de qualidade do ar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Requisitos para os modelos de qualidade do ar\n\nQuando se utilizar para a avaliação um modelo de qualidade do ar, devem ser compiladas referências a descrições do modelo e informações sobre o grau de incerteza. A incerteza da modelização é definida como a diferença máxima entre os níveis de concentração medidos e calculados, durante um ano inteiro, independentemente da ordem cronológica."
+  },
+  "e6776d85b6e7a603": {
+   "fragment_id": "III. Requisitos para as técnicas objectivas de cálculo",
+   "type": "divisao",
+   "heading": "III. Requisitos para as técnicas objectivas de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. Requisitos para as técnicas objectivas de cálculo\n\nCaso sejam utilizadas técnicas objectivas de cálculo, a incerteza não deve ser superior a 100 %."
+  },
+  "22a5ef3940f0e3c3": {
+   "fragment_id": "IV. Normalização",
+   "type": "divisao",
+   "heading": "IV. Normalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IV. Normalização\n\nPara as substâncias a analisar na fracção PM10, o volume de amostragem refere-se às condições ambientais."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "6480fb8873ef72bc": {
+   "fragment_id": "Métodos de referência para a avaliação de concentrações no ar ambiente e das taxas de deposição",
+   "type": "divisao",
+   "heading": "Métodos de referência para a avaliação de concentrações no ar ambiente e das taxas de deposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Métodos de referência para a avaliação de concentrações no ar ambiente e das taxas de deposição"
+  },
+  "3d294c6134794ac9": {
+   "fragment_id": "I. Método de referência para a amostragem e análise do arsénio, cádmio e níquel no ar ambiente",
+   "type": "divisao",
+   "heading": "I. Método de referência para a amostragem e análise do arsénio, cádmio e níquel no ar ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Método de referência para a amostragem e análise do arsénio, cádmio e níquel no ar ambiente\n\nO método de referência para a medição das concentrações de arsénio, cádmio e níquel no ar ambiente está actualmente a ser desenvolvido pelo CEN e será baseado na amostragem manual PM10 equivalente à norma EN 12341, seguida de digestão das amostras e análise por espectrometria de absorção atómica ou espectrometria de massa ICP. Na ausência de um método normalizado CEN, os Estados-Membros são autorizados a utilizar métodos normalizados nacionais ou métodos ISO.\n\nOs Estados-Membros podem utilizar quaisquer outros métodos cujos resultados demonstrem ser equivalentes ao método acima referido."
+  },
+  "97335303e2d058f5": {
+   "fragment_id": "II. Método de referência para a amostragem e análise dos hidrocarbonetos aromáticos policíclicos no ar ambiente",
+   "type": "divisao",
+   "heading": "II. Método de referência para a amostragem e análise dos hidrocarbonetos aromáticos policíclicos no ar ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Método de referência para a amostragem e análise dos hidrocarbonetos aromáticos policíclicos no ar ambiente\n\nO método de referência para a medição das concentrações de benzo(a)pireno no ar ambiente está actualmente a ser desenvolvido pelo CEN e será baseado na amostragem manual PM10 equivalente à norma EN 12341. Na ausência de um método normalizado CEN para o benzo(a)pireno ou os outros hidrocarbonetos aromáticos policíclicos referidos no n.º 3 a do artigo 4.º, os Estados-Membros são autorizados a utilizar métodos normalizados nacionais ou métodos ISO como a norma ISO 12884.\n\nOs Estados-Membros podem utilizar quaisquer outros métodos cujos resultados demonstrem ser equivalentes ao método acima referido."
+  },
+  "6c947d6e92c5e705": {
+   "fragment_id": "III. Método de referência para a amostragem e análise do mercúrio no ar ambiente",
+   "type": "divisao",
+   "heading": "III. Método de referência para a amostragem e análise do mercúrio no ar ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. Método de referência para a amostragem e análise do mercúrio no ar ambiente\n\nO método de referência para a medição das concentrações de mercúrio gasoso total no ar ambiente será um método automatizado baseado na espectrometria de absorção atómica ou espectrometria de fluorescência atómica. Na ausência de um método normalizado CEN, os Estados-Membros são autorizados a utilizar métodos normalizados nacionais ou métodos ISO.\n\nOs Estados-Membros podem utilizar quaisquer outros métodos cujos resultados demonstrem ser equivalentes ao método acima referido."
+  },
+  "c220cee5fc0e6cf4": {
+   "fragment_id": "IV. Método de referência para a amostragem e análise da deposição de arsénio, cádmio, níquel, mercúrio e hidrocarbonetos aromáticos policíclicos",
+   "type": "divisao",
+   "heading": "IV. Método de referência para a amostragem e análise da deposição de arsénio, cádmio, níquel, mercúrio e hidrocarbonetos aromáticos policíclicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IV. Método de referência para a amostragem e análise da deposição de arsénio, cádmio, níquel, mercúrio e hidrocarbonetos aromáticos policíclicos\n\nO método de referência para a amostragem da deposição de arsénio, cádmio, níquel, mercúrio e hidrocarbonetos aromáticos policíclicos será baseado na exposição de indicadores cilíndricos de depósito, de dimensões normalizadas. Na ausência de um método normalizado CEN, os Estados-Membros são autorizados a utilizar métodos normalizados nacionais."
+  },
+  "b6a536ecf8e6b376": {
+   "fragment_id": "V. Técnicas de modelização de referência da qualidade do ar",
+   "type": "divisao",
+   "heading": "V. Técnicas de modelização de referência da qualidade do ar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### V. Técnicas de modelização de referência da qualidade do ar\n\nAs técnicas de modelização de referência da qualidade do ar não podem ser actualmente especificadas. A Comissão pode aprovar as alterações necessárias para adaptar este ponto ao progresso científico e técnico. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 6.º.\n\n---"
+  },
+  "98a09046c3bd0b56": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/cb8f9507-5c9d-499d-adfd-76d8521bd959.0018.03/DOC_1#src.E0001)) JO C 110 de 30.4.2004, p. 16.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/cb8f9507-5c9d-499d-adfd-76d8521bd959.0018.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 20 de Abril de 2004 (ainda não publicado no Jornal Oficial), e decisão do Conselho de 15 de Novembro de 2004.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/cb8f9507-5c9d-499d-adfd-76d8521bd959.0018.03/DOC_1#src.E0003)) JO L 242 de 10.9.2002, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/cb8f9507-5c9d-499d-adfd-76d8521bd959.0018.03/DOC_1#src.E0004)) JO L 296 de 21.11.1996, p. 55. Directiva alterada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/cb8f9507-5c9d-499d-adfd-76d8521bd959.0018.03/DOC_1#src.E0005)) JO L 257 de 10.10.1996, p. 26. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/cb8f9507-5c9d-499d-adfd-76d8521bd959.0018.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23. (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/cb8f9507-5c9d-499d-adfd-76d8521bd959.0018.03/DOC_1#src.E0007)) JO L 35 de 5.2.1997, p. 14. Directiva alterada pela Directiva 2001/752/CE (JO L 282 de 26.10.2001, p. 69)."
+  },
+  "7410072d10037025": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Dezembro de 2004\n\nrelativa ao arsénio, ao cádmio, ao mercúrio, ao níquel e aos hidrocarbonetos aromáticos policíclicos no ar ambiente\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 1 do artigo 175.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1#E0001)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1#E0002)),\n\n(1) Com base nos princípios do n.º 3 do artigo 175.º do Tratado, o sexto programa comunitário de acção em matéria de ambiente, adoptado pela Decisão n.º 1600/2002/CE do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1#E0003)), estabelece a necessidade de reduzir a poluição a níveis que minimizem os efeitos nocivos para a saúde humana, tendo especialmente em conta as categorias de população mais vulneráveis, e para o ambiente na sua globalidade, de melhorar a monitorização e avaliação da qualidade do ar incluindo a deposição de poluentes, e de informar o público.\n\n(2) O n.º 1 do artigo 4.º da Directiva 96/62/CE do Conselho, de 27 de Setembro de 1996, relativa à avaliação e gestão da qualidade do ar ambiente ([^4^](http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1#E0004)), prevê que a Comissão apresente propostas de regulamentação dos poluentes enumerados no anexo I dessa directiva tendo em conta as disposições estabelecidas nos n.^os^ 3 e 4 desse artigo.\n\n(3) Existem provas científicas de que o arsénio, o cádmio, o níquel e alguns hidrocarbonetos aromáticos policíclicos são agentes carcinogénicos genotóxicos para o homem e não existe um limiar identificável abaixo do qual estas substâncias não representem um risco para a saúde humana. O impacto na saúde humana e no ambiente ocorre por concentração no ar ambiente e por deposição. Tendo em vista a relação custo-eficácia, não é possível obter em algumas áreas específicas concentrações no ar ambiente de arsénio, cádmio, níquel e hidrocarbonetos aromáticos policíclicos que não representem um risco significativo para a saúde humana.\n\n(4) A fim de reduzir ao mínimo os efeitos nocivos para a saúde humana, com especial atenção para as populações sensíveis, e para o ambiente no seu conjunto, das partículas de arsénio, de cádmio, de níquel e de hidrocarbonetos aromáticos policíclicos em suspensão atmosférica serão estabelecidos valores-alvo, a atingir na medida do possível. O benzo(a) pireno será utilizado como marcador do risco carcinogénico dos hidrocarbonetos aromáticos policíclicos no ar ambiente.\n\n(5) Os valores-alvo não deverão exigir a aplicação de medidas que impliquem custos desproporcionados. Quanto às instalações industriais, não deverão implicar a adopção de medidas para além das melhores técnicas disponíveis (MTD), tal como exige a Directiva 96/61/CE de 24 de Setembro de 1996 relativa à prevenção e controlo integrados da poluição ([^5^](http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1#E0005)) e, em especial, não deverão conduzir ao encerramento de instalações. Deverão, contudo, exigir a adopção pelos Estados-Membros de todas as medidas de redução nos sectores relevantes, com uma boa relação custo-eficácia.\n\n(6) Em especial, os valores-alvo fixados na presente directiva não deverão ser considerados como padrões de qualidade ambiental tal como definidos no n.º 7 do artigo 2.º da Directiva 96/61/CE do Conselho, os quais, nos termos do artigo 10.º dessa directiva, exigem condições mais rigorosas do que as que é possível atingir através da utilização das MTD.\n\n(7) Nos termos do artigo 176.º do Tratado, os Estados-Membros devem manter ou introduzir medidas de protecção mais severas relativas ao arsénio, ao cádmio, ao mercúrio, ao níquel e aos hidrocarbonetos aromáticos policíclicos na medida em que estas sejam compatíveis com o Tratado e notificadas à Comissão.\n\n(8) Sempre que as concentrações excedam certos limiares de avaliação, será obrigatória a monitorização do arsénio, do cádmio, do níquel e do benzo(a)pireno. O recurso a meios de avaliação adicionais poderá reduzir o número necessário de pontos de amostragem para medição fixa. Prevê-se também a monitorização das concentrações de fundo no ar ambiente e da deposição.\n\n(9) O mercúrio é uma substância muito perigosa para a saúde humana e o ambiente. Está presente em todo o ambiente e, sob a forma de metil-mercúrio, tem a capacidade de se acumular nos organismos e, em especial, de se concentrar em organismos situados na fase superior da cadeia alimentar. O mercúrio libertado na atmosfera pode ser transportado a longas distâncias.\n\n(10) A Comissão tenciona apresentar, em 2005, uma estratégia coerente com medidas de protecção da saúde humana e do ambiente contra a libertação de mercúrio, com base numa abordagem do ciclo de vida, que terá em conta a sua produção, utilização, tratamento de resíduos e emissão. Neste contexto, a Comissão deverá considerar todas as medidas apropriadas para reduzir a quantidade de mercúrio nos ecossistemas terrestre e aquático e, por conseguinte, a ingestão deste metal através dos alimentos, e a evitar a sua presença em determinados produtos.\n\n(11) Os efeitos do arsénio, do cádmio, do mercúrio, do níquel e dos hidrocarbonetos aromáticos policíclicos na saúde humana, inclusive através da cadeia alimentar e sobre o ambiente, na sua globalidade, ocorrem por concentração no ar ambiente e por deposição, devendo ser tomadas em consideração a acumulação dessas substâncias nos solos e a protecção das águas subterrâneas. A fim de facilitar a revisão da presente directiva em 2010, a Comissão e os Estados-Membros deveriam promover a investigação dos efeitos do arsénio, do cádmio, do mercúrio, do níquel e dos hidrocarbonetos aromáticos policíclicos na saúde humana e no ambiente, em especial através da deposição.\n\n(12) Para que as informações obtidas sejam comparáveis em toda a Comunidade, são elementos importantes na avaliação da qualidade do ar ambiente as técnicas de medição precisas e normalizadas e os critérios comuns para a localização das estações de medição. Uma questão muito importante será a disponibilização de métodos de medição de referência. A Comissão ordenou que começassem a ser elaboradas normas CEN para a medição dos elementos constituintes do ar ambiente, para os quais são definidos valores-alvo (arsénio, cádmio, níquel e benzo(a)pireno), assim como relativamente à deposição de metais pesados, a fim de estas poderem ser rapidamente elaboradas e aprovadas. Na ausência de métodos normalizados CEN, podem ser utilizados métodos de medição de referência normalizados internacionais ou nacionais.\n\n(13) As informações sobre as concentrações e a deposição dos poluentes regulamentados deverão ser transmitidas à Comissão e servir de base para a elaboração de relatórios periódicos.\n\n(14) Deverão ser rapidamente colocadas à disposição do público informações actualizadas sobre as concentrações no ar ambiente e a deposição dos poluentes regulamentados.\n\n(15) Os Estados-Membros deverão estabelecer regras sobre as sanções aplicáveis às infracções ao disposto na presente directiva e assegurar que as mesmas sejam aplicadas. Essas sanções devem ser eficazes, proporcionais e dissuasivas.\n\n(16) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1#E0006)).\n\n(17) As alterações necessárias à adaptação da presente directiva ao progresso técnico e científico devem dizer apenas respeito a critérios e técnicas para a avaliação de concentrações e da deposição dos poluentes regulamentados ou aos pormenores relativos à transmissão das informações à Comissão. Não devem ter por efeito alterar, directa ou indirectamente, os valores-alvo,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "b0183018718f1d42": {
+   "fragment_id": "Artigo 5.º — Transmissão de informações e relatórios",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Transmissão de informações e relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Transmissão de informações e relatórios\n\n1. No que respeita às zonas e aglomerações em que são excedidos quaisquer valores-alvo fixados no anexo I, os Estados-Membros devem comunicar à Comissão as seguintes informações:\n\na) As listas das zonas e aglomerações em causa;\n\nb) As áreas de excedência;\n\nc) Os valores de concentração avaliados;\n\nd) As razões da excedência, nomeadamente as fontes que para elas contribuem;\n\ne) A população exposta a essa excedência.\n\nOs Estados-Membros devem igualmente comunicar todos os dados avaliados nos termos do artigo 4.º, excepto se já tiverem sido comunicados ao abrigo da Decisão 97/101/CE do Conselho, de 27 de Janeiro de 1997, que estabelece um intercâmbio recíproco de informações e de dados provenientes das redes e estações individuais que medem a poluição atmosférica nos Estados-Membros ([^7^](http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1#E0007)).\n\nAs informações devem ser transmitidas em relação a cada ano civil, o mais tardar até 30 de Setembro do ano seguinte e, pela primeira vez, em relação ao ano civil seguinte a 15 de Fevreiro de 2007.\n\n2. Para além dos requisitos do n.º 1, os Estados-Membros devem também comunicar quaisquer medidas que adoptem nos termos do artigo 3.º\n\n3. A Comissão deve assegurar que todas as informações transmitidas nos termos do n.º 1 sejam rapidamente colocadas à disposição do público pelos meios adequados como a internet, a imprensa ou outros meios de comunicação social de fácil acesso.\n\n4. A Comissão aprova, pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 6.º, regras detalhadas relativamente à transmissão das informações a prestar nos termos do n.º 1 do presente artigo."
+  },
+  "7e2cc1866d211046": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| Poluente | Valores alvo [(^1^)](http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1#E0008) |\n| --- | --- |\n| Arsénio | 6 ng/m^3^ |\n| Cádmio | 5 ng/m^3^ |\n| Níquel | 20 ng/m^3^ |\n| Benzo(a)pireno | 1 ng/m^3^ |\n| (^1^)Para o teor total na fracção PM10 calculada como média durante um ano civil. |  |"
+  },
+  "d6d17626c68154ae": {
+   "fragment_id": "a) Fontes difusas",
+   "type": "divisao",
+   "heading": "a) Fontes difusas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### a) Fontes difusas\n\n| População da zona ou aglomeração (em milhares de habitantes) | Para concentrações máximas que ultrapassem o limiar superior de avaliação [(^1^)](http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1#E0009) | Para concentrações máximas compreendidas entre o limiar superior e o limiar inferior de avaliação |  |  |\n| --- | --- | --- | --- | --- |\n| As, Cd, Ni | Benzo(a)pireno | As, Cd, Ni | Benzo(a)pireno |  |\n| 0-749 | 1 | 1 | 1 | 1 |\n| 750-1 999 | 2 | 2 | 1 | 1 |\n| 2 000 -3 749 | 2 | 3 | 1 | 1 |\n| 3 750 -4 749 | 3 | 4 | 2 | 2 |\n| 4 750 -5 999 | 4 | 5 | 2 | 2 |\n| ≥ 6 000 | 5 | 5 | 2 | 2 |\n| (^1^)Para o benzo(a)pireno, incluir pelo menos uma estação para os níveis de fundo urbanos e igualmente uma estação em zona afectada pelo tráfego, desde que não aumente o número de pontos de amostragem. |  |  |  |  |"
+  },
+  "772c7b618d36b156": {
+   "fragment_id": "I. Objectivos de qualidade dos dados",
+   "type": "divisao",
+   "heading": "I. Objectivos de qualidade dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Objectivos de qualidade dos dados\n\nOs seguintes objectivos de qualidade dos dados são fornecidos como orientação para a garantia da qualidade.\n\n|  | Benzo(a)pireno | Arsénio, cádmio e níquel | Hidrocarbonetos aromáticos policíclicos (exceto benzo(a)pireno) e mercúrio gasoso total | Deposição total |\n| --- | --- | --- | --- | --- |\n| — Incerteza |  |  |  |  |\n| Medições fixas e indicativas | 50 % | 40 % | 50 % | 70 % |\n| Modelização | 60 % | 60 % | 60 % | 60 % |\n| — Taxa mínima de recolha de dados | 90 % | 90 % | 90 % | 90 % |\n| — Período mínimo de cobertura |  |  |  |  |\n| Medições fixas [(^1^)](http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1#E0010) | 33 % | 50 % |  |  |\n| Medições indicativas [(^1^)](http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1#E0010) [(^2^)](http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1#E0011) | 14 % | 14 % | 14 % | 33 % |\n| (^1^)Repartida ao longo do ano, para ser representativa de diversas condições climáticas e atividades antropogénicas. (^2^)Medições indicativas são medições que se efetuam com periodicidade reduzida mas que satisfazem os outros objetivos de qualidade dos dados. |  |  |  |  |\n\nA incerteza (expressa com um nível de confiança de 95 %) dos métodos utilizados para a avaliação de concentrações no ar ambiente será estabelecida de acordo com os princípios do CEN Guide to the Expression of Uncertainty in Measurement [Guia CEN para Expressão da Incerteza das Medições] (ENV 13005-1999), a metodologia da ISO 5725:1994 e as orientações do CEN Report «Air quality — Approach to uncertainty estimation for ambient air reference measurement methods» [Relatório do CEN sobre a Qualidade do Ar — Abordagem da Estimativa de Incerteza dos Métodos de Medição de Referência do Ar Ambiente] (CR 14377:2002E). As percentagens para a incerteza são fornecidas para cada uma das medições, calculadas em média durante períodos de amostragem típicos, com um intervalo de confiança de 95 %. A incerteza das medições deverá ser interpretada como aplicável na região adequada ao valor-alvo. As medições fixas e as medições indicativas deverão ser equitativamente distribuídas ao longo do ano para evitar a distorção dos resultados.\n\nOs requisitos para o número mínimo de dados a recolher e o período de amostragem não incluem as perdas de informação decorrentes da calibração regular ou da manutenção normal dos instrumentos. É necessário um período de amostragem de 24 horas para a medição do benzo(a)pireno e de outros hidrocarbonetos aromáticos policíclicos. Com o devido cuidado, cada uma das amostras recolhidas durante o período máximo de um mês pode ser combinada e analisada como amostra composta, desde que o método garanta que as amostras se mantêm estáveis durante esse período. Pode ser difícil separar analiticamente os três congéneres benzo(b)fluoranteno, benzo(j)fluoranteno e benzo(k)fluoranteno. Nesses casos podem ser tratados como um todo.[**►M2**](http://publications.europa.eu/resource/celex/32015L1480) —————**◄** A amostragem deve ser equitativamente distribuída ao longo da semana e do ano. Para a medição das taxas de deposição, recomenda-se a recolha mensal ou semanal de amostras durante todo o ano.\n\nO disposto no parágrafo anterior em relação a amostras aplica-se igualmente ao arsénio, ao cádmio, ao níquel e ao mercúrio gasoso total. Por outro lado, a subamostragem de filtros de PM10 para metais, com vista a análise posterior, é autorizada, desde que existam provas de que a subamostra é representativa do total e de que a sensibilidade da deteção não é comprometida quando comparada com os objetivos relevantes de qualidade dos dados. Como alternativa à recolha diária, a amostragem semanal de metais em PM10 é autorizada, desde que as características da recolha não sejam comprometidas.\n\nOs Estados-Membros podem utilizar apenas a deposição húmida em vez da deposição global se puderem demonstrar que a diferença entre ambas se situa num intervalo de 10 %. As taxas de deposição devem de um modo geral ser expressas em μg/m^2^ por dia.\n\nOs Estados-Membros podem aplicar um período mínimo de amostragem inferior ao indicado no quadro, mas não inferior a 14 % para as medições fixas nem a 6 % para as medições indicativas, desde que possam demonstrar que será observada a incerteza expandida de 95 % da média anual, calculada a partir dos objectivos de qualidade dos dados constantes do quadro segundo a ISO 11222:2002 — «Determination of the uncertainty of the time average of air quality measurements» (Determinação da Incerteza da Média Temporal das Medições da Qualidade do Ar)."
+  },
+  "c579e4d44caf7f34": {
+   "fragment_id": "I. Método de referência para amostragem e análise de arsénio, cádmio e níquel no ar ambiente",
+   "type": "divisao",
+   "heading": "I. Método de referência para amostragem e análise de arsénio, cádmio e níquel no ar ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Método de referência para amostragem e análise de arsénio, cádmio e níquel no ar ambiente\n\nO método de referência para amostragem de arsénio, cádmio e níquel no ar ambiente está descrito na norma EN 12341:2014. O método de referência para medição de arsénio, cádmio e níquel no ar ambiente é o descrito na norma EN 14902:2005 (Qualidade do ar ambiente — Método-padrão para medição de Pb, Cd, As e Ni na fração PM10 das partículas em suspensão).\n\nOs Estados-Membros podem utilizar quaisquer outros métodos cujos resultados demonstrem ser equivalentes ao método *supra*."
+  },
+  "a1728850ffe824ba": {
+   "fragment_id": "II. Método de referência para amostragem e análise de hidrocarbonetos aromáticos policíclicos no ar ambiente",
+   "type": "divisao",
+   "heading": "II. Método de referência para amostragem e análise de hidrocarbonetos aromáticos policíclicos no ar ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Método de referência para amostragem e análise de hidrocarbonetos aromáticos policíclicos no ar ambiente\n\nO método de referência para amostragem de hidrocarbonetos aromáticos policíclicos no ar ambiente está descrito na norma EN 12341:2014. O método de referência para medição do benzo(a)pireno no ar ambiente é o descrito na norma EN 15549:2008 [*Ambient air quality — Standard method for the measurement of concentration of benzo(a)pyrene in ambient air* (Qualidade do ar ambiente — Método-padrão para medição da concentração de benzo(a)pireno no ar ambiente)]. Na ausência de um método-padrão CEN para os outros hidrocarbonetos aromáticos policíclicos referidos no artigo 4.º, n.º 8.º, os Estados-Membros são autorizados a utilizar métodos-padrão nacionais ou métodos ISO, como a norma ISO 12884.\n\nOs Estados-Membros podem utilizar quaisquer outros métodos cujos resultados demonstrem ser equivalentes ao método *supra*."
+  },
+  "0099c33e03b88d31": {
+   "fragment_id": "III. Método de referência para amostragem e análise de mercúrio no ar ambiente",
+   "type": "divisao",
+   "heading": "III. Método de referência para amostragem e análise de mercúrio no ar ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. Método de referência para amostragem e análise de mercúrio no ar ambiente\n\nO método de referência para medição das concentrações totais de mercúrio gasoso no ar ambiente é o descrito na norma EN 15852:2010 [*Ambient air quality — Standard method for the determination of total gaseous mercury* (Qualidade do ar ambiente — Método-padrão para a determinação do mercúrio gasoso total)].\n\nOs Estados-Membros podem utilizar quaisquer outros métodos cujos resultados demonstrem ser equivalentes ao método *supra*."
+  },
+  "c973966bf881a494": {
+   "fragment_id": "IV. Método de referência para amostragem e análise da deposição de arsénio, cádmio, níquel, mercúrio e hidrocarbonetos aromáticos policíclicos",
+   "type": "divisao",
+   "heading": "IV. Método de referência para amostragem e análise da deposição de arsénio, cádmio, níquel, mercúrio e hidrocarbonetos aromáticos policíclicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IV. Método de referência para amostragem e análise da deposição de arsénio, cádmio, níquel, mercúrio e hidrocarbonetos aromáticos policíclicos\n\nO método de referência para determinação da deposição de arsénio, cádmio, e níquel é o descrito na norma EN 15841:2009 (Qualidade do ar ambiente — Método-padrão para determinação de arsénio, cádmio, chumbo e níquel na deposição atmosférica).\n\nO método de referência para determinação da deposição de mercúrio é o método descrito na norma EN 15853:2010 [*Ambient air quality — Standard method for determination of mercury deposition* (Qualidade do ar ambiente — Método-padrão para a determinação da deposição de mercúrio)].\n\nO método de referência para determinação da deposição de benzo(a)pireno e dos outros hidrocarbonetos policíclicos referidos no artigo 4.º, n.º 8, é o descrito na norma EN 15980:2011 [*Air quality. Determination of the deposition of benz(a)anthracene, benzo(b)fluoranthene, benzo(j)fluoranthene, benzo(k)fluoranthene, benzo(a)pyrene, dibenz(a,h)anthracene and indeno(1,2,3-cd)pyrene* (Qualidade do ar ambiente — Determinação da deposição de benzo[a]antraceno, benzo[b]fluoranteno, benzo(j)fluoranteno, benzo(k)fluoranteno, benzo(a)pireno, dibenzo(a,h)antraceno e indeno(1,2,3-cd)pireno)]."
+  },
+  "b432bce7c342a4ba": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1#src.E0001)) JO C 110 de 30.4.2004, p. 16.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 20 de Abril de 2004 (ainda não publicado no Jornal Oficial), e decisão do Conselho de 15 de Novembro de 2004.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1#src.E0003)) JO L 242 de 10.9.2002, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1#src.E0004)) JO L 296 de 21.11.1996, p. 55. Directiva alterada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1#src.E0005)) JO L 257 de 10.10.1996, p. 26. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23. (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1#src.E0007)) JO L 35 de 5.2.1997, p. 14. Directiva alterada pela Directiva 2001/752/CE (JO L 282 de 26.10.2001, p. 69)."
+  }
+ }
+}

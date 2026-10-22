@@ -1,0 +1,79 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31976L0768:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0768-20130711",
+ "dre_path": null,
+ "source_lastmod": "2013-07-11",
+ "versions": [
+  {
+   "date": "1976-09-27",
+   "future": false,
+   "celex": "31976L0768",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2011-06-03",
+   "future": false,
+   "celex": "01976L0768-20110603",
+   "acts": [],
+   "changes": [
+    "Adita preambulo"
+   ],
+   "fragments": [
+    "cb0900560439e45d"
+   ]
+  },
+  {
+   "date": "2011-11-18",
+   "future": false,
+   "celex": "01976L0768-20111118",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "39ee80b7bc8c340b"
+   ]
+  },
+  {
+   "date": "2013-07-11",
+   "future": false,
+   "celex": "01976L0768-20130711",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "0332b9a3ef24e6a4"
+   ]
+  }
+ ],
+ "fragments": {
+  "cb0900560439e45d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1976L0768 — PT — 03.06.2011 — 029.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31976L0768) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31976L0768) [de 27 de Julho de 1976](http://publications.europa.eu/resource/celex/31976L0768) [relativa à aproximação das legislações dos Estados-membros respeitantes aos produtos cosméticos](http://publications.europa.eu/resource/celex/31976L0768) [(76/768/CEE)](http://publications.europa.eu/resource/celex/31976L0768) (JO L 262, 27.9.1976, p.169)\n\n**revogado por:**"
+  },
+  "39ee80b7bc8c340b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1976L0768 — PT — 18.11.2011 — 030.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31976L0768) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31976L0768) [de 27 de Julho de 1976](http://publications.europa.eu/resource/celex/31976L0768) [relativa à aproximação das legislações dos Estados-membros respeitantes aos produtos cosméticos](http://publications.europa.eu/resource/celex/31976L0768) [(76/768/CEE)](http://publications.europa.eu/resource/celex/31976L0768) (JO L 262, 27.9.1976, p.169)\n\n**revogado por:**"
+  },
+  "0332b9a3ef24e6a4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1976L0768 — PT — 11.07.2013 — 032.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31976L0768) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31976L0768) [de 27 de Julho de 1976](http://publications.europa.eu/resource/celex/31976L0768) [relativa à aproximação das legislações dos Estados-membros respeitantes aos produtos cosméticos](http://publications.europa.eu/resource/celex/31976L0768) [(76/768/CEE)](http://publications.europa.eu/resource/celex/31976L0768) (JO L 262, 27.9.1976, p.169)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1223/2009 do Parlamento Europeu e do Conselho de 30 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1223) — L 342 — 59 — 22.12.2009"
+  }
+ }
+}

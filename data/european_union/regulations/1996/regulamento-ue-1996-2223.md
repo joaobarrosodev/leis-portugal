@@ -34,6 +34,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-1996-2223.versoes.json
+  count: 1
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '1996-11-30'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31996R2223
   eli: http://data.europa.eu/eli/reg/1996/2223/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1c8f3088-0209-4105-8438-2d29679a2c56.0011
   content_url: http://publications.europa.eu/resource/cellar/1c8f3088-0209-4105-8438-2d29679a2c56.0011.01/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:47:05Z'
+  retrieved_at: '2026-10-22T14:45:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T19:52:17.219+01:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:05Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:45:57Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-1996-2223.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -207,17 +216,26 @@ relationships:
 article_structure:
   article_count: 9
   section_count: 39
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:05Z'
+  checked_at: '2026-10-22T14:45:57Z'
   warnings:
-  - 'Versão consolidada 01996R2223-20130701 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
-  - Não foi detetado o título principal no XHTML.
+  - '01996R2223-19980227: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996R2223-20000801: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996R2223-20001207: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996R2223-20010612: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996R2223-20011228: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996R2223-20020213: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996R2223-20020320: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996R2223-20030807: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996R2223-20071230: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01996R2223-20090610: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01996R2223-20100831: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01996R2223-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

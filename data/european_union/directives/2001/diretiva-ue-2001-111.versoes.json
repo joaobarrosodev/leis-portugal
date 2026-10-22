@@ -1,0 +1,283 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0111:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0111-20131118",
+ "dre_path": null,
+ "source_lastmod": "2013-11-18",
+ "versions": [
+  {
+   "date": "2013-11-18",
+   "future": false,
+   "celex": "02001L0111-20131118",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d66dfc138cff6564",
+    "4e13ac15384aa620",
+    "d51867781e82ef05",
+    "3b74bba66498a1a5",
+    "16235bf0fc9a9064",
+    "fbaa5628512086e6",
+    "643ef24c9f383e4d",
+    "5ac89f1c4f1bcfc4",
+    "7e2470995c8da8dc",
+    "5cb7c77d41425f93",
+    "10220b9774fa9034",
+    "9736b71bf930f8b3",
+    "9be64f010d06cb9c",
+    "bb196abcc6da593d",
+    "2c60d74780550132",
+    "55f1b46b4887e3a5",
+    "a167eb395ca8a7e4",
+    "84e6941d139dbe1d",
+    "1eb058405014fc9f",
+    "ec065c0cf97a4c3b",
+    "9f552ffe85e00fc9",
+    "de24345548c49a58",
+    "36958b6546a5fe82",
+    "6bceb833b61f935a",
+    "ae532012fbf574ff",
+    "f890f34118f35ac0",
+    "ae3d61985e8db4ef",
+    "f890f34118f35ac0",
+    "2f1806a458190ea9",
+    "f890f34118f35ac0",
+    "9b272d429df651c1"
+   ]
+  }
+ ],
+ "fragments": {
+  "d66dfc138cff6564": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 2001\n\nrelativa a determinados açúcares destinados à alimentação humana\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#E0003)),\n\n(1) De acordo com as conclusões do Conselho Europeu de Edimburgo, de 11 e 12 de Dezembro de 1992, confirmadas pelas conclusões do Conselho Europeu de Bruxelas, de 10 e 11 de Dezembro de 1993, é necessário proceder à simplificação de determinadas directivas verticais no domínio dos géneros alimentícios, a fim de tomar exclusivamente em conta os requisitos essenciais que os produtos por elas abrangidos devem satisfazer para poderem circular livremente no mercado interno.\n\n(2) A adopção da Directiva 73/437/CEE do Conselho, de 11 de Dezembro de 1973, relativa à aproximação das legislações dos Estados-Membros respeitantes a determinados açúcares destinados à alimentação humana ([^4^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#E0004)), foi justificada pelo facto de as diferenças entre as legislações nacionais no que respeita a determinadas categorias de açúcares poderem criar condições de concorrência desleal susceptíveis de induzir os consumidores em erro, influenciando deste modo directamente a realização e o funcionamento do mercado comum.\n\n(3) Neste contexto, a Directiva 73/437/CEE teve por objectivo estabelecer definições e regras comuns no que respeita às características de produção, ao acondicionamento e à rotulagem dos produtos em questão, por forma a garantir a sua livre circulação na Comunidade.\n\n(4) A Comissão tenciona propor, o mais rapidamente possível e de qualquer forma antes de 1 de Julho de 2000, a inclusão de uma gama de quantidades nominais dos produtos abrangidos pela presente directiva na Directiva 80/232/CEE do Conselho, de 15 de Janeiro de 1980, relativa à aproximação das legislações dos Estados-Membros respeitantes às gamas de quantidades nominais e de capacidades nominais admitidas para certos produtos em pré-embalagens ([^5^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#E0005)).\n\n(5) A Directiva 73/437/CEE deve ser reformulada, por forma a tornar mais acessíveis as regras relativas às condições de produção e comercialização de determinados açúcares destinados à alimentação humana, e a adaptá-la à legislação comunitária geral aplicável aos géneros alimentícios, nomeadamente à legislação relativa à rotulagem, aos corantes e outros aditivos autorizados, aos solventes de extracção e aos métodos de análise.\n\n(6) São aplicáveis as regras gerais de rotulagem dos géneros alimentícios constantes da Directiva 2000/13/CE do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#E0006)) sob reserva de determinadas condições.\n\n(7) Em aplicação dos princípios da subsidiariedade e da proporcionalidade consagrados no artigo 5.º do Tratado, o objectivo de fixação de definições e regras comuns para os produtos em causa e alinhamento pelas disposições comunitárias de carácter geral aplicáveis aos géneros alimentícios não pode ser suficientemente realizado pelos Estados-Membros e pode pois, devido à própria natureza da presente directiva, ser melhor alcançado a nível comunitário. A presente directiva limita-se ao necessário para atingir esse objectivo.\n\n(8) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#E0007)).\n\n(9) Considerando que, para evitar que sejam criados novos entraves à livre circulação, os Estados-Membros devem abster-se de adoptar, para os produtos em causa, disposições nacionais não previstas na presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "4e13ac15384aa620": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva aplica-se aos produtos definidos na parte A do anexo.\n\nA presente directiva não se aplica aos produtos definidos na parte A do anexo que se apresentem sob a forma de açúcar impalpável, açúcar cândi ou pão de açúcar."
+  },
+  "d51867781e82ef05": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Directiva 2000/13/CE é aplicável aos produtos definidos na parte A do anexo da presente directiva, nas condições e com as derrogações seguintes:\n\n1. Sem prejuízo do disposto no n.º 5, as denominações previstas na parte A do anexo são reservadas aos produtos aí referidos e devem ser utilizadas no comércio para designar esses produtos.\n\n— os produtos definidos na parte A do anexo podem ostentar, para além da denominação obrigatória, outros qualificativos habitualmente utilizados nos vários Estados-Membros,\n\n— de acordo com as práticas habituais, as denominações em questão podem também ser utilizadas em denominações compostas para designar outros produtos,\n\n2. No caso dos produtos pré-embalados com menos de 20 g, não é necessário que a rotulagem indique a sua massa líquida.\n\n3. No caso do açúcar líquido, do açúcar líquido invertido e do xarope de açúcar invertido, os teores de matéria seca e de açúcar invertido devem figurar na rotulagem.\n\n4. No caso dos xaropes de açúcar invertido cuja solução contenha cristais, o qualificativo «cristalizado» deve figurar na rotulagem.\n\n5. Sempre que os produtos referidos nos pontos 7 e 8 da parte A do anexo contenham frutose numa proporção superior a 5 % em relação à matéria seca, serão — relativamente à sua denominação e enquanto ingredientes — rotulados como «xarope de glucose-frutose» ou «xarope de frutose-glucose» e «xarope de glucose-frutose desidratado» ou «xarope de frutose-glucose desidratado», respectivamente, por forma a identificar qual a componente (a frutose ou a glucose) presente em maior proporção."
+  },
+  "3b74bba66498a1a5": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros não adoptarão, para os produtos definidos no anexo, disposições nacionais não previstas na presente directiva."
+  },
+  "16235bf0fc9a9064": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA fim de ter em conta o progresso técnico e a evolução das normas internacionais aplicáveis, a Comissão fica habilitada a adotar atos delegados, de acordo com o artigo 5.º, para alterar o Anexo, Parte B."
+  },
+  "fbaa5628512086e6": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar os atos delegados a que se refere o artigo 4.º é conferido à Comissão por um prazo de cinco anos a contar de 18 de novembro de 2013. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por prazos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 4.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n5. Os atos delegados adotados nos termos do artigo 4.º só entram em vigor se não tiverem sido formuladas objecções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da data de notificação desse ato a estas duas instituições ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "643ef24c9f383e4d": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA Directiva 73/437/CEE é revogada, com efeitos a partir de 12 de Julho de 2003.\n\nAs remissões para a directiva revogada devem entender-se como sendo feitas para a presente directiva."
+  },
+  "5ac89f1c4f1bcfc4": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar até 12 de Julho de 2003 e informarão imediatamente a Comissão desse facto.\n\nEstas medidas serão aplicadas de modo a:\n\n— autorizar, com efeitos a partir de 12 de Julho de 2003, a comercialização dos produtos definidos na parte A do anexo que obedeçam às definições e regras previstas na presente directiva;\n\n— proibir, com efeitos a partir de 12 de Julho de 2004, a comercialização dos produtos não conformes com a presente directiva.\n\nContudo, até ao esgotamento das existências, é autorizada a comercialização dos produtos não conformes com a presente directiva que tiverem sido rotulados nos termos da Directiva 73/437/CEE antes de 12 de Julho de 2004.\n\nQuando os Estados-Membros adoptarem essas medidas, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-Membros."
+  },
+  "7e2470995c8da8dc": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "5cb7c77d41425f93": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-Membros são destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "9736b71bf930f8b3": {
+   "fragment_id": "A. DENOMINAÇÕES E DEFINIÇÕES DOS PRODUTOS",
+   "type": "divisao",
+   "heading": "A. DENOMINAÇÕES E DEFINIÇÕES DOS PRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. DENOMINAÇÕES E DEFINIÇÕES DOS PRODUTOS"
+  },
+  "9be64f010d06cb9c": {
+   "fragment_id": "1. Açúcar semibranco",
+   "type": "divisao",
+   "heading": "1. Açúcar semibranco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Açúcar semibranco\n\nSacarose purificada e cristalizada, de boa qualidade, garantida e comercializável, com as seguintes características:\n\na) Polarização no mínimo 99,5 °Z\n\nb) Teor de açúcar invertido no máximo 0,1 %, em massa\n\nc) Perda por secagem no máximo 0,1 %, em massa."
+  },
+  "bb196abcc6da593d": {
+   "fragment_id": "2. Açúcar ou açúcar branco",
+   "type": "divisao",
+   "heading": "2. Açúcar ou açúcar branco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Açúcar ou açúcar branco\n\nSacarose purificada e cristalizada, de boa qualidade, garantida e comercializável, com as seguintes características:\n\na) Polarização no mínimo 99,5 °Z\n\nb) Teor de açúcar invertido no máximo 0,04 %, em massa\n\nc) Perda por secagem no máximo 0,06 %, em massa\n\nd) Tipo de cor no máximo 9 pontos, determinados conforme previsto na alínea a) da parte B."
+  },
+  "2c60d74780550132": {
+   "fragment_id": "3. Açúcar branco extra",
+   "type": "divisao",
+   "heading": "3. Açúcar branco extra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Açúcar branco extra\n\nProduto com as características definidas no ponto 2, alíneas a), b) e c) e cujo número de pontos, determinado conforme previsto na parte B, não ultrapasse um total de 8, nem exceda:\n\n— 4, no que se refere ao tipo de cor\n\n— 6, no que se refere ao teor de cinzas\n\n— 3, no que se refere à cor da solução."
+  },
+  "55f1b46b4887e3a5": {
+   "fragment_id": "4. Açúcar líquido ([^8^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#E0008))",
+   "type": "divisao",
+   "heading": "4. Açúcar líquido ([^8^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#E0008))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Açúcar líquido ([^8^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#E0008))\n\nSolução aquosa de sacarose com as seguintes características:\n\na) Matéria seca no mínimo 62 %, em massa\n\nb) Teor de açúcar invertido (razão entre a frutose e a dextrose: 1,0 ± 0,2) no máximo 3 %, em massa, da matéria seca\n\nc) Cinzas condutimétricas no máximo 0,1 %, em massa, da matéria seca, determinado conforme previsto na alínea b) da parte B\n\nd) Cor da solução no máximo 45 unidades Icumsa"
+  },
+  "a167eb395ca8a7e4": {
+   "fragment_id": "5. Açúcar líquido invertido ([^9^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#E0009))",
+   "type": "divisao",
+   "heading": "5. Açúcar líquido invertido ([^9^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#E0009))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Açúcar líquido invertido ([^9^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#E0009))\n\nSolução aquosa de sacarose parcialmente invertida por hidrólise na qual a fracção correspondente ao açúcar invertido não é predominante, com as seguintes características:\n\na) Matéria seca no mínimo 62 %, em massa\n\nb) Teor de açúcar invertido (razão entre a frutose e a dextrose: 1,0 ± 0,1) mais de 3 %, mas não mais de 50 %, em massa, da matéria seca\n\nc) Cinzas condutimétricas no máximo 0,4 %, em massa, da matéria seca, determinado conforme previsto na alínea b) da parte B"
+  },
+  "84e6941d139dbe1d": {
+   "fragment_id": "6. Xarope de açúcar invertido ([^10^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#E0010))",
+   "type": "divisao",
+   "heading": "6. Xarope de açúcar invertido ([^10^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#E0010))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. Xarope de açúcar invertido ([^10^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#E0010))\n\nSolução aquosa, eventualmente cristalizada, de sacarose parcialmente invertida por hidrólise, com um teor de açúcar invertido (razão entre a frutose e a dextrose: 1,0 +/-0,1) superior a 50 %, em massa, da matéria seca e as características previstas no ponto 5, alíneas a) e c)."
+  },
+  "1eb058405014fc9f": {
+   "fragment_id": "7. Xarope de glucose",
+   "type": "divisao",
+   "heading": "7. Xarope de glucose",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. Xarope de glucose\n\nSolução aquosa purificada e concentrada de sacarídeos nutritivos obtida a partir de amidos e/ou féculas e/ou inulinas, com as seguintes características:\n\na) Matéria seca no mínimo 70 %, em massa\n\nb) Equivalente em dextrose no mínimo 20 %, em massa, da matéria seca, expressos em D-glucose\n\nc) Cinzas sulfatadas no máximo 1 %, em massa, da matéria seca"
+  },
+  "ec065c0cf97a4c3b": {
+   "fragment_id": "8. Xarope de glucose desidratado",
+   "type": "divisao",
+   "heading": "8. Xarope de glucose desidratado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. Xarope de glucose desidratado\n\nXarope de glucose parcialmente desidratado, com um mínimo de 93 %, em massa, de matéria seca e as características previstas no ponto 7, alíneas b) e c)."
+  },
+  "9f552ffe85e00fc9": {
+   "fragment_id": "9. Dextrose ou dextrose mono-hidratada",
+   "type": "divisao",
+   "heading": "9. Dextrose ou dextrose mono-hidratada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9. Dextrose ou dextrose mono-hidratada\n\nD-glucose purificada e cristalizada com uma molécula de água de cristalização e as seguintes características:\n\na) Dextrose (D-glucose) no mínimo 99,5 %, em massa, da matéria seca\n\nb) Matéria seca no mínimo 90 %, em massa\n\nc) Cinzas sulfatadas no máximo 0,25 %, em massa, da matéria seca."
+  },
+  "de24345548c49a58": {
+   "fragment_id": "10. Dextrose ou dextrose anidra",
+   "type": "divisao",
+   "heading": "10. Dextrose ou dextrose anidra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10. Dextrose ou dextrose anidra\n\nD-glucose purificada e cristalizada sem água de cristalização, com um mínimo de 98 %, em massa, de matéria seca e as características previstas no ponto 9, alíneas a) e c)."
+  },
+  "36958b6546a5fe82": {
+   "fragment_id": "11. Frutose",
+   "type": "divisao",
+   "heading": "11. Frutose",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 11. Frutose\n\nD-frutose purificada e cristalizada com as seguintes características:\n\nTeor de frutose no mínimo 98 %\n\nTeor de glucose no máximo 0,5 %\n\nPerda por secagem no máximo 0,5 %, em massa\n\nCinzas condutimétricas no máximo 0,1 %, em massa, determinado conforme previsto na alínea b) da parte B"
+  },
+  "6bceb833b61f935a": {
+   "fragment_id": "B. MÉTODO DE DETERMINAÇÃO DO TIPO DE COR, DO TEOR DE CINZAS CONDUTIMÉTRICAS E DA COR DA SOLUÇÃO DO AÇÚCAR (BRANCO) E DO AÇÚCAR BRANCO EXTRA DEFINIDOS NOS PONTOS 2 E 3 DA PARTE A",
+   "type": "divisao",
+   "heading": "B. MÉTODO DE DETERMINAÇÃO DO TIPO DE COR, DO TEOR DE CINZAS CONDUTIMÉTRICAS E DA COR DA SOLUÇÃO DO AÇÚCAR (BRANCO) E DO AÇÚCAR BRANCO EXTRA DEFINIDOS NOS PONTOS 2 E 3 DA PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. MÉTODO DE DETERMINAÇÃO DO TIPO DE COR, DO TEOR DE CINZAS CONDUTIMÉTRICAS E DA COR DA SOLUÇÃO DO AÇÚCAR (BRANCO) E DO AÇÚCAR BRANCO EXTRA DEFINIDOS NOS PONTOS 2 E 3 DA PARTE A\n\nUm «ponto» corresponde:\n\na) No que se refere ao tipo de cor, determinado pelo método do Instituto de Tecnologia Agrícola e Indústria Açucareira de Brunswick, descrito na parte A, ponto 2, do anexo ao Regulamento (CEE) n.º 1265/69 da Comissão, de 1 de Julho de 1969, relativo aos métodos de determinação da qualidade aplicáveis ao açúcar comprado pelos organismos de intervenção, a 0,5 unidades ([^11^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#E0011));\n\nb) No que se refere ao teor de cinzas, determinado pelo método da Comissão Internacional para a uniformização dos métodos de análise do açúcar (Icumsa), descrito na parte A, ponto 1, do anexo ao Regulamento (CEE) n.º 1265/69, a 0,0018 %;\n\nc) No que se refere à cor da solução, determinada pelo método da Icumsa descrito na parte A, ponto 3, do anexo ao Regulamento (CEE) n.º 1265/69, a 7,5 unidades.\n\n---"
+  },
+  "ae532012fbf574ff": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#src.E0001)) JO C 231 de 9.8.1996, p. 6.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#src.E0002)) JO C 279 de 1.10.1999, p. 90.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#src.E0003)) JO C 56 de 24.2.1997, p. 20.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#src.E0004)) JO L 356 de 27.12.1973, p. 71. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1985.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#src.E0005)) JO L 51 de 25.2.1980, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 87/356/CEE (JO L 192 de 11.7.1987, p. 48).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#src.E0006)) JO L 109 de 6.5.2000, p. 29.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#src.E0007)) JO L 184 de 7.7.1999, p. 23.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#src.E0008)) O qualificativo «branco» é reservado ao:"
+  },
+  "f890f34118f35ac0": {
+   "fragment_id": "a) Açúcar líquido cuja cor da solução não exceda 25 unidades Icumsa determinadas de acordo com o método especificado na alínea c) da parte B;",
+   "type": "divisao",
+   "heading": "a) Açúcar líquido cuja cor da solução não exceda 25 unidades Icumsa determinadas de acordo com o método especificado na alínea c) da parte B;",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### a) Açúcar líquido cuja cor da solução não exceda 25 unidades Icumsa determinadas de acordo com o método especificado na alínea c) da parte B;"
+  },
+  "ae3d61985e8db4ef": {
+   "fragment_id": "b) Açúcar líquido invertido e xarope de açúcar invertido:",
+   "type": "divisao",
+   "heading": "b) Açúcar líquido invertido e xarope de açúcar invertido:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### b) Açúcar líquido invertido e xarope de açúcar invertido:\n\n> ([^9^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#src.E0009)) O qualificativo «branco» é reservado ao:"
+  },
+  "2f1806a458190ea9": {
+   "fragment_id": "b) Açúcar líquido invertido e xarope de açúcar invertido:",
+   "type": "divisao",
+   "heading": "b) Açúcar líquido invertido e xarope de açúcar invertido:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### b) Açúcar líquido invertido e xarope de açúcar invertido:\n\n> ([^10^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#src.E0010)) O qualificativo «branco» é reservado ao:"
+  },
+  "9b272d429df651c1": {
+   "fragment_id": "b) Açúcar líquido invertido e xarope de açúcar invertido:",
+   "type": "divisao",
+   "heading": "b) Açúcar líquido invertido e xarope de açúcar invertido:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### b) Açúcar líquido invertido e xarope de açúcar invertido:\n\n> ([^11^](http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1#src.E0011)) JO L 163 de 1.7.1969, p. 1."
+  }
+ }
+}

@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2000-54.versoes.json
+  count: 1
+  source_lastmod: '2020-06-24'
+  versions:
+  - date: '2000-10-17'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32000L0054
   eli: http://data.europa.eu/eli/dir/2000/54/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4e97e2e4-4e7a-4683-abd4-f4ed61e36622.0009
   content_url: http://publications.europa.eu/resource/cellar/4e97e2e4-4e7a-4683-abd4-f4ed61e36622.0009.01/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:41:18Z'
+  retrieved_at: '2026-10-22T14:48:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-07-03T10:53:01.078+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:18Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:57Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2000-54.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -157,17 +166,16 @@ relationships:
 article_structure:
   article_count: 23
   section_count: 13
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:18Z'
+  checked_at: '2026-10-22T14:48:57Z'
   warnings:
-  - 'Versão consolidada 02000L0054-20200624 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
-  - Não foi detetado o título principal no XHTML.
+  - '02000L0054-20191120: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0054-20200624: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

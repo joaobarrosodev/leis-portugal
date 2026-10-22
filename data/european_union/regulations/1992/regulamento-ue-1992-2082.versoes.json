@@ -1,0 +1,279 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R2082:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R2082-20060420",
+ "dre_path": null,
+ "source_lastmod": "2006-04-20",
+ "versions": [
+  {
+   "date": "1992-07-24",
+   "future": false,
+   "celex": "31992R2082",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4ce0608e94d6929f",
+    "2129f0a7c4035bcd",
+    "aa0d47548e5ceb1b",
+    "67171c22a80f08e7",
+    "0f71cd25f87ba739",
+    "d67b2b248ff7122d",
+    "e2ffe1b8a3eaf38c",
+    "c3fc462e38016b1f",
+    "e93ebd9fbc734db7",
+    "3aef2da12d57246e",
+    "f0c50945f534990e",
+    "7005b5330e227912",
+    "94a1d4caae961f93",
+    "0da9b2e3509f54d9",
+    "aa4f37c46f62a42f",
+    "361408833c9bef62",
+    "7c63460c19a57987",
+    "211374295d1892a1",
+    "312b5d57a88f62ae",
+    "057f8461d2bd299c",
+    "c9aee26794493063",
+    "86e217541200282d",
+    "4d2c7bf08fb44c46",
+    "0cfa12a1daa86688"
+   ]
+  },
+  {
+   "date": "2006-04-20",
+   "future": false,
+   "celex": "01992R2082-20060420",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime Artigo 20º — As normas de execução do presente regulamento serão adoptadas segundo o procedimento previsto no artigo 19º",
+    "Suprime Artigo 21º",
+    "Suprime Artigo 22º",
+    "Suprime ANEXO — Géneros alimentícios previstos no nº 1 do artigo 1º"
+   ],
+   "fragments": [
+    "b70ce8b9393be31d"
+   ]
+  }
+ ],
+ "fragments": {
+  "4ce0608e94d6929f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2082/92 do Conselho, de 14 de Julho de 1992, relativo aos certificados de especificidade dos produtos agrícolas e dos géneros alimentícios** *Jornal Oficial nº L 208 de 24/07/1992 p. 0009 - 0014 Edição especial finlandesa: Capítulo 3 Fascículo 43 p. 0160 Edição especial sueca: Capítulo 3 Fascículo 43 p. 0160*\n\nREGULAMENTO (CEE) Nº 2082/92 DO CONSELHO de 14 de Julho de 1992 relativo aos certificados de especificidade dos produtos agrícolas e dos géneros alimentícios\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a produção, o fabrico e a distribuição dos produtos agrícolas e dos géneros alimentícios ocupam um lugar importante na economia da Comunidade;\n\nConsiderando que, no âmbito da reorientação da política agrícola comum, é conveniente incentivar a diversificação da produção agrícola; que a promoção de produtos específicos pode tornar-se um trunfo importante para o mundo rural, nomeadamente nas zonas desfavorecidas ou afastadas, mediante, por um lado, a melhoria do rendimento dos agricultores e, por outro, a fixação da população rural nestas zonas;\n\nConsiderando que, na perspectiva da realização do mercado interno no sector dos géneros alimentícios, é conveniente colocar à disposição dos meios económicos instrumentos que, permitindo-lhes valorizar os seus produtos, garantam simultaneamente a protecção dos consumidores contra práticas abusivas e a lealdade das transacções comerciais;\n\nConsiderando que, em conformidade com a resolução do Conselho, de 9 de Novembro de 1989, sobre as futuras prioridades para o relançamento da política de defesa dos consumidores (4), é conveniente tomar em consideração o crescente interesse dos consumidores na valorização da qualidade e da informação sobre a natureza, o modo de produção ou de transformação dos géneros alimentícios e as suas características específicas; que, perante a diversidade dos produtos colocados no mercado e a quantidade de informações sobre eles fornecida, o consumidor deve, a fim de poder efectuar melhor a sua escolha, dispor de informações claras e sucintas que o esclareçam com rigor sobre as qualidades específicas dos alimentos;\n\nConsiderando que um regime voluntário assente em critérios regulamentares permite realizar estes objectivos; que tal regime voluntário, que permitirá aos operadores divulgar a qualidade de um généro alimentício a nível comunitário, deve oferecer todas as garantias, de modo a justificar as referências que lhe possam vir a ser feitas no comércio;\n\nConsiderando que certos produtores desejam valorizar a especificidade dos produtos agrícolas ou dos géneros alimentícios devido ao facto de estes se distinguirem claramente de outros produtos ou géneros similares por características que lhe são próprias; que é, por conseguinte, conveniente, a fim de assegurar a protecção do consumidor, que a especificidade certificada seja controlada;\n\nConsiderando que, dada a especificidade destes produtos ou géneros, é conveniente adoptar disposições especiais que complementem as regras de rotulagem previstas na Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios (5), nomeadamente criando uma menção e, se for caso disso, um símbolo comunitário para acompanhar a denominação de venda dos produtos ou géneros e informar o consumidor de que se trata de um produto que apresenta características específicas controladas;\n\nConsiderando que, a fim de garantir o respeito e a constância das características específicas certificadas, é necessário que os produtores reunidos em agrupamentos definam, eles próprios, as características específicas do produto agrícola ou do género alimentício num caderno de especificações e obrigações, mas que é necessário que as regras relativas à aprovação dos organismos de controlo encarregados de verificar o respeito do caderno de especificações e obrigações sejam uniformes a nível comunitário;\n\nConsiderando que, a fim de não criar condições desiguais de concorrência, todos os produtores devem poder utilizar quer uma denominação registada acompanhada de uma menção comunitária e, eventualmente, de um símbolo comunitário quer uma denominação registada como tal, na medida em que o produto agrícola ou o género alimentício que produz ou transforma obedeça às exigências do caderno de encargos correspondente e que o organismo de controlo que escolheu seja aprovado;\n\nConsiderando que convém permitir o comércio com países terceiros contendo garantias equivalentes no que diz respeito à concessão e ao controlo dos certificados de especificidade emitidos no seu território;\n\nConsiderando que as menções relativas à especificidade de um produto agrícola ou de um género alimentício devem, para poderem atrair os produtores e serem merecedoras da confiança dos consumidores, gozar de protecção jurídica e ser objecto de controlos públicos;\n\nConsiderando que convém prever um processo de cooperação estreita entre os Estados-membros e a Comissão no âmbito de um comité regulamentar criado para o efeito,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "2129f0a7c4035bcd": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. O presente regulamento estabelece as regras segundo as quais o certificado comunitário de especificidade poderá ser concedido a:\n\n- produtos agrícolas que constam da lista do anexo II do Tratado, destinados à alimentação humana,\n\n- géneros alimentícios que constam do anexo do presente regulamento.\n\nO anexo poderá ser alterado em conformidade com o procedimento previsto no artigo 19º\n\n2. O presente regulamento não prejudica a aplicação de outras disposições comunitárias específicas.\n\n3. A Directiva 83/189/CEE do Conselho, de 28 de Março de 1983, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas (6), não é aplicável aos certificados de especificidade a que o presente regulamento diz respeito."
+  },
+  "aa0d47548e5ceb1b": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos do presente regulamento entende-se por:\n\n1. Especificidade, o elemento ou conjunto de elementos pelos quais um produto agrícola ou um género alimentício se distingue claramente de outros produtos ou géneros similares pertencentes à mesma categoria.\n\nA apresentação de um produto agrícola ou de um género alimentício não é considerada como um elemento na acepção do primeiro parágrafo.\n\nA especificidade não pode limitar-se a uma composição qualitativa ou quantitativa ou a um modo de produção previstos numa regulamentação comunitária ou nacional ou, na sua falta, limitar-se a normas estabelecidas por organismos de normalização ou a normas voluntárias; contudo, esta regra não se aplica caso a citada regulamentação ou norma tenha sido estabelecida para definir a especificidade de um produto;\n\n2. Agrupamento, qualquer organização, independentemente da sua forma jurídica de produtores e/ou de transformadores interessados no mesmo produto agrícola ou no mesmo género alimentício. Poderão pertencer ao agrupamento outras partes interessadas;\n\n3. Certificado de especificidade, o reconhecimento da especificidade do produto pela Comunidade mediante registo, segundo o disposto no presente regulamento."
+  },
+  "67171c22a80f08e7": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nA Comissão criará e gerirá um registo dos certificados de especificidade, em que figurarão os produtos agrícolas e os géneros alimentícios cuja especificidade tenha sido reconhecida a nível comunitário, em conformidade com o presente regulamento.\n\nEste registo distingue os nomes visados no nº 1 do artigo 13º dos visados no nº 2 do artigo 13º"
+  },
+  "0f71cd25f87ba739": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Para figurar no registo referido no artigo 3º, um produto agrícola ou um género alimentício deverá ser produzido a partir das matérias-primas tradicionais ou ter uma composição tradicional ou um modo de produção e/ou de transformação que dependa do tipo de produção e/ou de transformação tradicional.\n\n2. Um produto agrícola ou um género alimentício não poderá ser registado se o seu carácter específico:\n\na) Residir na sua proveniência ou origem geográfica,\n\nb) Resultar unicamente da aplicação de uma inovação tecnológica."
+  },
+  "d67b2b248ff7122d": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Para ser registado, o nome deve:\n\n- ou ser específico por si mesmo,\n\n- ou exprimir a especificidade do produto agrícola ou do género alimentício.\n\n2. Não pode ser registado um nome indicativo da especificidade, visado no segundo travessão do nº 1:\n\n- que se refira unicamente a alegações de carácter geral, utilizadas para uma série de produtos agrícolas ou géneros alimentícios, ou a aspectos previstos por uma regulamentação comunitária especial,\n\n- que seja abusivo, isto é, nomeadamente, que faça referência a uma característica evidente do produto ou que não corresponda ao caderno de especificações e obrigações nem às expectativas do consumidor, atendendo às características do produto.\n\n3. Para ser registado, o nome específico visado no primeiro travessão do nº 1 deve ser tradicional e conforme com disposições nacionais ou estar consagrado pelo uso.\n\n4. É autorizada a utilização de termos geográficos num nome que não se encontre abrangido pelo Regulamento (CEE) nº 2081/92 do Conselho, de 14 de Julho de 1992, relativo à protecção das indicações geográficas e das denominações de origem dos produtos agrícolas e dos géneros alimentícios (7)."
+  },
+  "e2ffe1b8a3eaf38c": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Para que possa beneficiar de um certificado de especificidade, o produto agrícola ou o género alimentício tem de satisfazer as condições de um caderno de especificações e obrigações.\n\n2. O caderno de especificações e obrigações compreende pelo menos os seguintes elementos:\n\n- o nome, na acepção do artigo 5º, redigido numa ou mais línguas,\n\n- a descrição do processo de produção, incluindo a natureza e características da matéria-prima e/ou ingredientes utilizados, e/ou do processo de fabrico do produto agrícola ou do género alimentício de que resulte a sua especificidade,\n\n- os elementos que permitam avaliar o carácter tradicional, na acepção do nº 1 do artigo 4º,\n\n- a descrição das características do produto agrícola ou do género alimentício mediante a indicação das suas principais características físicas, químicas, microbiológicas e/ou organolépticas que lhe conferem especificidade;\n\n- as exigências mínimas e os processos de controlo da especificidade."
+  },
+  "c3fc462e38016b1f": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. O pedido destinado a obter o registo da especificidade de um produto agrícola ou de um género alimentício, apenas pode ser apresentado por um agrupamento de produtores.\n\n2. O pedido de registo, que contém o caderno de especificações e obrigações, será apresentado à autoridade competente do Estado-membro em que o agrupamento se encontra estabelecido.\n\n3. A autoridade competente transmitirá o pedido à Comissão no caso de considerar que estão satisfeitas as exigências dos artigos 4º, 5º e 6º\n\n4. Os Estados-membros publicarão, o mais tardar na data de entrada em vigor do presente regulamento, as referências úteis relativas às autoridades competentes por eles designadas, informando deste facto a Comissão."
+  },
+  "e93ebd9fbc734db7": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. A Comissão enviará o pedido de registo, traduzido, aos outros Estados-membros no prazo de seis meses a contra da data de recepção do pedido referido no nº 3 do artigo 7º\n\nLogo que se tenham efectuado os envios referidos no parágrafo anterior, a Comissão procederá à publicação no Jornal Oficial das Comunidades Europeias dos principais elementos do pedido transmitido pela autoridade competente referida no artigo 7º, nomeadamente o nome do produto agrícola ou do género alimentício, em conformidade com o nº 2, primeiro travessão, do artigo 6º, e as referências do requerente.\n\n2. As autoridades competentes dos Estados-membros garantirão o acesso à consulta do pedido previsto no nº 1 a quem quer que possa comprovar um interesse económico legítimo. Além disso e em conformidade com a legislação em vigor nos Estados-membros, as respectivas autoridades competentes podem permitir o acesso a outras partes com interesse legítimo.\n\n3. No prazo de cinco meses a contar da data da publicação referida no nº 1, qualquer pessoa singular ou colectiva com interesse legítimo no registo poderá fazer oposição ao registo solicitado, enviando às autoridades competentes do Estado-membro em que seja residente ou esteja estabelecida, uma declaração devidamente fundamentada.\n\n4. As autoridades competentes dos Estados-membros adoptarão as medidas necessárias para ter em consideração a declaração prevista no nº 3 dentro dos prazos indicados. Qualquer Estado-membro pode igualmente tomar a iniciativa de oposição."
+  },
+  "3aef2da12d57246e": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Se nenhuma oposição for notificada à Comissão no prazo de seis meses, a Comissão tomará a decisão de inscrever, no registo previsto no artigo 3º, os principais elementos referidos no nº 1 do artigo 8º e publicá-los-á no Jornal Oficial das Comunidades Europeias.\n\n2. Em caso de oposição, a Comissão, no prazo de três meses, convidará os Estados-membros interessados a chegarem a um acordo entre si de acordo com os respectivos procedimentos internos, num prazo suplementar de três meses.\n\na) Se chegarem a acordo, os Estados-membros notificarão à Comissão todos os elementos que permitiram tal acordo, bem como os pareceres do requerente do registo e do opositor. A Comissão, no caso de os elementos recebidos em conformidade com o nº 2 do artigo 6º não terem sofrido alteração, procederá de acordo com o disposto no nº 1 do presente artigo. No caso contrário, dará novamente início ao procedimento previsto no artigo 8º;\n\nb) Se os Estados-membros não chegarem a acordo, a Comissão decidirá do registo, em conformidade com o procedimento previsto no artigo 19º Se for decidido registar a especificidade, a Comissão deverá proceder de acordo com o disposto no nº 1 do presente artigo."
+  },
+  "f0c50945f534990e": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Qualquer Estado-membro pode alegar que deixou de se verificar o cumprimento de um requisito referido no caderno des especificações e obrigações de um produto agrícola ou de um género alimentício que beneficie de um certificado de especificidade comunitário.2. O Estado-membro de que fala o nº 1 apresentará a sua alegação ao Estado-membro em causa. Este último analisará a reclamação e informará o outro Estado-membro das suas conclusões e das medidas tomadas.\n\n3. Em caso de irregularidades repetidas e na impossibilidade de os Estados-membros em causa chegarem a acordo, deverá ser enviada à Comissão uma reclamação devidamente fundamentada.\n\n4. A Comissão analisará a reclamação através de consulta aos Estados-membros em questão. Se for caso disso, a Comissão tomará as medidas necessárias de acordo com o procedimento previsto no artigo 19º Estas poderão incluir a anulação do registo."
+  },
+  "7005b5330e227912": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. Qualquer Estado-membro pode, a pedido de um agrupamento nele estabelecido, pedir uma alteração do caderno de especificações e obrigações.\n\n2. A Comissão garante a publicação do pedido de alteração e das referências do requerente no Jornal Oficial das Comunidades Europeias. Aplicar-se-ão as disposições previstas nos nos 2, 3 e 4 do artigo 8º\n\nAs autoridades competentes dos Estados-membros tomarão as medidas necessárias para que os produtores e/ou transformadores que aplicam o caderno de especificações e obrigações alvo de um pedido de alteração sejam informados da publicação.\n\n3. No prazo de três meses a contar da data da publicação prevista no nº 2, todos os produtores e/ou transformadores que aplicam o caderno de especificações e obrigações alvo de um pedido de alteração, podem fazer valer o seu direito de conservar o caderno de especificações e obrigações inicial mediante declaração dirigida à autoridade competente do Estado-membro em que estiverem estabelecidos, a qual a transmitirá á Comissão, eventualmente acompanhada dos seus comentários.\n\n4. Se no prazo de quatro meses a contar da data da publicação prevista no nº 2 não for notificada à Comissão nenhuma oposição ou declaração em conformidade com o nº 3, esta inscreverá no registo previsto no artigo 3º a alteração solicitada e publicá-la-á no Jornal Oficial das Comunidades Europeias.\n\n5. Se for notificada à Comissão uma oposição ou declaração em conformidade com o nº 3, a alteração não será registada. Nesse caso, o agrupamento requerente previsto no nº 1, pode iniciar um pedido para um novo certificado de especificidade, em conformidade com o procedimento previsto nos artigos 7º a 9º"
+  },
+  "94a1d4caae961f93": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nA Comissão pode definir, em conformidade com o procedimento previsto no artigo 19º, um símbolo comunitário que pode constar da rotulagem, apresentação e publicidade dos produtos agrícolas ou dos géneros alimentícios que possuam certificado comunitário de respecificidade em conformidade com o disposto no presente regulamento."
+  },
+  "0da9b2e3509f54d9": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. A partir da data de publicação prevista no nº 1 do artigo 9º, o nome referido no artigo 5º, associado à menção referida no nº 1 do artigo 15º e, se for caso disso, ao símbolo comunitário referido no artigo 12º, ficará reservado ao produto agrícola ou ao género alimentício correspondente ao caderno de especificações e obrigações publicado.\n\n2. Em derrogação do disposto no nº 1, o nome apenas ficará reservado ao produto agrícola ou ao género alimentício correspondente ao caderno de especificações e obrigações publicado nos seguintes casos:\n\na) Se o agrupamento o tiver requerido por ocasião do pedido de registo;\n\nb) Se não resultar do processo referido no nº 2, alínea b), do artigo 9º que esse nome é utilizado de modo legal, notório e economicamente significativo para produtos agrícolas ou géneros alimentícios semelhantes."
+  },
+  "aa4f37c46f62a42f": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. Os Estados-membros diligenciarão por que, o mais tardar seis meses após a data de entrada em vigor do presente regulamento, sejam criadas estruturas de controlo, cuja função consistirá em garantir que os produtos agrícolas e géneros alimentícios que possuam um certificado de especificidade satisfaçam as condições formuladas no caderno de especificações e obrigações.\n\n2. Uma estrutura de controlo pode incluir um ou vários serviços de controlo designados e/ou organismos privados autorizados para o efeito pelo Estado-membro. Os Estados-membros enviarão à Comissão as listas de serviços e/ou organismos aprovados, bem como as respectivas competências. A Comissão publicará esses dados no Jornal Oficial das Comunidades Europeias.\n\n3. Os serviços de controlo designados e/ou os organismos privados aprovados deverão oferecer garantias adequadas de objectividade e imparcialidade em relação aos produtores e transformadores sob o seu controlo e dispor permanentemente dos peritos e recursos necessários para levar a cabo as operações de controlo dos produtos agrícolas e géneros alimentícios que beneficiem de um certificado de especificidade comunitário.\n\nSe uma estrutura de controlo utiliza os serviços de outro organismo para realizar determinados controlos, este deverá oferecer garantias idênticas. Os serviços de controlo designados e/ou organismos privados aprovados continuarão, todavia, a ser responsáveis perante o Estado-membro por todos os controlos.\n\nA partir de 1 de Janeiro de 1998, os organismos privados deverão preencher os requisitos estipulados na norma EN 45011 de 26 de Junho de 1989, para poderem ser aprovados pelos Estados-membros para efeitos de execução do presente regulamento.\n\n4. Um serviço de controlo designado e/ou um organismo privado de um Estado-membro tomará as medidas necessárias para assegurar o cumprimento do presente regulamento se verificar que um produto agrícola ou género alimentício com certificado de especificidade emitido pelo seu Estado-membro não satisfaz as condições do caderno de especificações e obrigações. Informará o Estado-membro das medidas tomadas no exercício dos seus controlos. Todas as decisões tomadas devem ser notificadas às partes interessadas.\n\n5. Um Estado-membro deve retirar a aprovação a um organismo de controlo quando as condições referidas nos nos 2 e 3 deixarem de ser preenchidas. Do facto informará a Comissão, que publicará no Jornal Oficial das Comunidades Europeias uma lista revista dos organismos aprovados.\n\n6. Os Estados-membros adoptarão as medidas necessárias para assegurarem que um produtor que respeite as disposições do presente regulamento tenha acesso ao sistema de controlo.\n\n7. Os custos ocasionados pelos controlos previstos no presente regulamento serão suportados pelos utilizadores do certificado de especificidade."
+  },
+  "361408833c9bef62": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\n1. Apenas podem ser utilizados pelos produtores que respeitem os cadernos de especificações e obrigações registados:\n\n- uma menção a determinar segundo o processo previsto no artigo 19º,\n\n- se for caso disso, o símbolo comunitário, bem como,\n\n- sob reserva do disposto no nº 2 do artigo 13º, o nome registado.\n\n2. Os produtores, incluindo os que pertencem ao agrupamento que tiver inicialmente apresentado o pedido, que utilizem pela primeira vez depois do registo, un nome reservado segundo o disposto nos nos 1 ou 2 do artigo 13º, deverão notificar oportunamente um serviço ou um organismo de controlo designado do Estado-membro em que se encontrem estabelecidos.\n\n3. O serviço ou o organismo de controlo designado deverá certificar-se de que o produto respeita os elementos publicados antes de o produto ser colocado no mercado."
+  },
+  "7c63460c19a57987": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nSem prejuízo do disposto em acordos internacionais, o presente regulamento aplica-se aos produtos agrícolas ou aos géneros alimentícios provenientes de um país terceiro, desde que:\n\n- o país terceiro possa fornecer garantias idênticas ou equivalentes às referidas nos artigos 4º e 6º,\n\n- exista no país terceiro em causa um regime de controlo equivalente ao referido no artigo 14º,\n\n- o país terceiro em causa esteja disposto a conceder uma protecção equivalente à existente na Comunidade aos produtos agrícolas ou aos géneros alimentícios correspondentes que sejam provenientes da Comunidade e beneficiem de um certificado comunitário de especificidade."
+  },
+  "211374295d1892a1": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\n1. Os Estados-membros adoptarão as medidas necessárias para assegurar a protecção jurídica contra qualquer utilização abusiva ou fraudulenta, da menção referida no nº 1 do artigo 15º e, se for caso disso, do símbolo comunitário referido no artigo 12º, bem como contra qualquer imitação dos nomes registados e reservados em conformidade com o disposto no artigo 13º2. Os nomes registados deverão ser protegidos contra quaisquer práticas susceptíveis de induzir o público em erro, incluindo designadamente práticas que sugiram que o produto agrícola ou género alimentício está coberto por um certificado de natureza específica emitido pela Comunidade.\n\n3. Os Estados-membros informarão a Comissão e os demais Estados-membros das medidas adoptadas."
+  },
+  "312b5d57a88f62ae": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\nOs Estados-membros tomarão todas as medidas adequadas para que as denominações de venda utilizadas a nível nacional não dêem origem a confusão com os nomes registados e reservados em conformidade com o disposto no nº 2 do artigo 13º"
+  },
+  "057f8461d2bd299c": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\nA Comissão será assistida por um comité composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\nO representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no seio do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\nA Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nSe as medidas projectadas não forem conformes com o parecer do comité ou na ausência de parecer a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "c9aee26794493063": {
+   "fragment_id": "Artigo 20º — As normas de execução do presente regulamento serão adoptadas segundo o procedimento previsto no artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 20º — As normas de execução do presente regulamento serão adoptadas segundo o procedimento previsto no artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º — As normas de execução do presente regulamento serão adoptadas segundo o procedimento previsto no artigo 19º"
+  },
+  "86e217541200282d": {
+   "fragment_id": "Artigo 21º",
+   "type": "artigo",
+   "heading": "Artigo 21º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21º\n\nDentro de um prazo de cinco anos a contar da data de entrada em vigor do presente regulamento, a Comissão apresentará ao Conselho um relatório sobre a aplicação do presente regulamento, acompanhado, se for caso disso, de propostas adequadas.\n\nEste relatório referirá especificamente as consequências da aplicação dos artigos 9º e 13º"
+  },
+  "4d2c7bf08fb44c46": {
+   "fragment_id": "Artigo 22º",
+   "type": "artigo",
+   "heading": "Artigo 22º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22º\n\nO presente regulamento entra em vigor doze meses após a sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 14 de Julho de 1992.Pelo Conselho\n\nO Presidente\n\nJ. GUMMER\n\n(1) JO nº C 30 de 6. 2. 1991, p. 4 e\n\nJO nº C 71 de 20. 3. 1992, p. 14.\n\n(2) JO nº C 326 de 16. 12. 1991, p. 40.\n\n(3) JO nº C 40 de 17. 2. 1992, p. 3.\n\n(4) JO nº C 294 de 22. 11. 1989, p. 1.\n\n(5) JO nº L 33 de 8. 2. 1979, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 91/72/CEE (JO nº L 42 de 15. 2. 1991, p. 27).\n\n(6) JO nº L 109 de 26. 4. 1983, p. 8. Directiva com a última redacção que lhe foi dada pela Decisão 90/230/CEE (JO nº L 128 de 18. 5. 1990, p. 15).\n\n(7) Ver página 1 do presente Jornal Oficial."
+  },
+  "0cfa12a1daa86688": {
+   "fragment_id": "ANEXO — Géneros alimentícios previstos no nº 1 do artigo 1º",
+   "type": "divisao",
+   "heading": "ANEXO — Géneros alimentícios previstos no nº 1 do artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Géneros alimentícios previstos no nº 1 do artigo 1º\n\n- Cerveja\n\n- Chocolate e outras preparações alimentares que contenham cacau\n\n- Produtos de confeitaria, padaria, pastelaria ou da indústria de bolachas e biscoitos\n\n- Massas alimentícias, mesmo massas cozidas ou recheadas\n\n- Pratos compostos\n\n- Molhos condimentosos preparados\n\n- Sopas ou caldos\n\n- Bebidas à base de extractos de plantas\n\n- Gelados e sorvetes"
+  },
+  "b70ce8b9393be31d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992R2082 — PT — 20.04.2006 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992R2082) [REGULAMENTO (CEE) Nº 2082/92 DO CONSELHO](http://publications.europa.eu/resource/celex/31992R2082) [de 14 de Julho de 1992](http://publications.europa.eu/resource/celex/31992R2082) [relativo aos certificados de especificidade dos produtos agrícolas e dos géneros alimentícios](http://publications.europa.eu/resource/celex/31992R2082) (JO L 208, 24.7.1992, p.9)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 509/2006 do Conselho de 20 de Março de 2006](http://publications.europa.eu/resource/celex/32006R0509) — L 93 — 1 — 31.3.2006"
+  }
+ }
+}

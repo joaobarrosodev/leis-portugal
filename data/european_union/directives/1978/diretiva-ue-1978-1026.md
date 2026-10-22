@@ -35,6 +35,51 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-10-20'
+version_history:
+  file: diretiva-ue-1978-1026.versoes.json
+  count: 3
+  source_lastmod: '2007-10-20'
+  versions:
+  - date: '1978-12-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPITULO I — ÂMBITO DE APLICAÇÃO
+    - Suprime Artigo 1o
+    - Suprime CAPITULO II — DIPLOMAS, CERTIFICADOS E OUTROS
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime CAPÍTULO III — DIREITOS ADQUIRIDOS
+    - Suprime Artigo 4o
+    - Suprime CAPÍTULO IV — USO DO
+    - Suprime TÍTULO DE FORMAÇÃO — Artigo 5o
+    - Suprime CAPÍTULO V — DISPOSIÇÕES DESTINADAS A FACILITAR O EXERCÍCIO EFECTIVO DO DIREITO DE ESTABELECIMENTO E A LIVRE
+      PRESTAÇÃO DE SERVIÇOS DO VETERINÁRIO
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+    - Suprime CAPÍTULO VI — DISPOSIÇÕES FINAIS
+    - Suprime Artigo 15o
+    - Suprime Artigo 16o
+    - Suprime Artigo 17o
+    - Suprime Artigo 18o
+    - Suprime Artigo 19o
+  - date: '2007-10-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
 identifiers:
   celex: 31978L1026
   eli: http://data.europa.eu/eli/dir/1978/1026/oj
@@ -49,7 +94,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/76baa431-e19b-4a7d-9c2e-4cc34caf8c5f.0011
   content_url: http://publications.europa.eu/resource/cellar/ba5579b2-eddc-485a-a816-759ee03d214a.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01978L1026-20071020
-  retrieved_at: '2026-10-22T02:40:06Z'
+  retrieved_at: '2026-10-22T14:32:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T17:10:01.619+01:00'
 integrity:
@@ -58,9 +103,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:06Z'
-  notes: Texto consolidado 01978L1026-20071020.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:32:44Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1978-1026.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -193,16 +238,21 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:06Z'
+  checked_at: '2026-10-22T14:32:44Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01978L1026-19810101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01978L1026-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01978L1026-19891108: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01978L1026-19901212: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01978L1026-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01978L1026-20010731: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01978L1026-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

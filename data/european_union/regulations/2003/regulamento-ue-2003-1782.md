@@ -43,6 +43,600 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-01-01'
+version_history:
+  file: regulamento-ue-2003-1782.versoes.json
+  count: 14
+  source_lastmod: '2010-01-01'
+  versions:
+  - date: '2003-10-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-01'
+    amending: eu:celex:32004R0583:por
+    amending_title: REGULAMENTO (CE) N. o 583/2004 DO CONSELHO de 22 de Março de 2004; REGULAMENTO (CE) N. o 864/2004 DO CONSELHO
+      de 29 de Abril de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 5.º — Boas condições agrícolas e ambientais
+    - Altera Artigo 12.º — Montante suplementar de ajuda
+    - Altera Artigo 18.º — Elementos do sistema integrado
+    - Altera Artigo 28.º — Pagamentos
+    - Altera Artigo 40.º — Dificuldades excepcionais
+    - Altera Artigo 42.º — Reserva nacional
+    - Altera Artigo 43.º — Determinação dos direitos aos pagamentos
+    - Altera Artigo 44.º — Utilização dos direitos de pagamento
+    - Altera Artigo 46.º — Transferência de direitos de pagamento
+    - Altera Artigo 47.º — Pagamentos que habilitam a direitos de pagamento sujeitos a condições especiais
+    - Altera Artigo 51.º — Utilização agrícola das terras
+    - Altera Artigo 54.º — Utilização dos direitos por retirada de terras da produção
+    - Altera Artigo 55.º — Isenção da obrigação de retirar terras da produção
+    - Altera Artigo 60.º — Utilização das terras
+    - Altera Artigo 62.º — Prémio aos produtos lácteos e pagamentos complementares
+    - Altera Artigo 63.º — Condições aplicáveis aos direitos estabelecidos nos termos da presente secção
+    - Altera Artigo 64.º — Disposições gerais
+    - Altera Artigo 65.º — Estabelecimento dos direitos nos termos da presente secção
+    - Altera Artigo 66.º — Pagamentos para as culturas arvenses
+    - Altera Artigo 68.º — Pagamentos para a carne de bovino
+    - Altera Artigo 70.º — Exclusão facultativa de alguns pagamentos directos
+    - Altera Artigo 71.º — Período transitório facultativo
+    - Altera Artigo 74.º — Superfícies
+    - Altera Artigo 78.º — Superfície
+    - Altera Artigo 80.º — Montante e elegibilidade
+    - Altera Artigo 81.º — Superfícies
+    - Altera Artigo 84.º — Superfícies
+    - Altera Artigo 86.º — Condições de elegibilidade
+    - Altera Artigo 88.º — Ajuda
+    - Altera Artigo 90.º — Condições de elegibilidade
+    - Altera Artigo 94.º — Condições
+    - Altera Artigo 95.º — Prémio aos produtos lácteos
+    - Altera Artigo 96.º — Pagamentos complementares
+    - Altera Artigo 99.º — Ajuda
+    - Altera Artigo 101.º — Superfícies de base
+    - Altera Artigo 102.º — Superação das superfícies de base e limite máximo
+    - Altera Artigo 103.º — Plano de regionalização
+    - Altera Artigo 105.º — Complemento para o trigo duro
+  - date: '2005-02-03'
+    amending: eu:celex:32004R2217:por
+    amending_title: REGULAMENTO (CE) N. o 2217/2004 DO CONSELHO de 22 de Dezembro de 2004; REGULAMENTO (CE) N. o 118/2005
+      DA COMISSÃO de 26 de Janeiro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 18.º — Elementos do sistema integrado
+    - Altera Artigo 28.º — Pagamentos
+    - Altera Artigo 40.º — Dificuldades excepcionais
+    - Altera Artigo 43.º — Determinação dos direitos aos pagamentos
+    - Altera Artigo 47.º — Pagamentos que habilitam a direitos de pagamento sujeitos a condições especiais
+    - Altera Artigo 51.º — Utilização agrícola das terras
+    - Altera Artigo 55.º — Isenção da obrigação de retirar terras da produção
+    - Altera Artigo 86.º — Condições de elegibilidade
+    - Altera Artigo 88.º — Ajuda
+    - Altera Artigo 95.º — Prémio aos produtos lácteos
+    - Altera Artigo 96.º — Pagamentos complementares
+    - Altera Artigo 101.º — Superfícies de base
+    - Altera Artigo 110.ºO — Elegibilidade
+    - Altera Artigo 116.º — Limites individuais
+    - Altera Artigo 123.º — Prémio especial
+    - Altera Artigo 125.º — Prémio por vaca em aleitamento
+    - Altera Artigo 126.º — Limite máximo individual para as vacas em aleitamento
+    - Altera Artigo 140.º — Substâncias proibidas nos termos da Directiva 96/22/CE do Conselho
+    - Altera Artigo 145.º — Regras de execução
+    - Altera Artigo 147.º — Alterações dos Regulamentos (CEE) n.º 2019/93, (CE) n.º 1452/2001, (CE) n.º 1453/2001 e (CE) n.º
+      1454/2001
+    - Altera Artigo 148.º — Alterações do Regulamento (CE) n.º 1868/94
+    - Altera Artigo 151.º — Alterações do Regulamento (CE) n.º 1673/2000
+    - Altera Artigo 152.º — Alterações de outros regulamentos
+    - Altera Lista dos pagamentos directos a que se refere o artigo 1.º
+    - Altera Lista dos pagamentos directos relacionados com o pagamento único referido no artigo 33.º
+    - Altera ANEXO VIII
+    - Altera Lista das espécies de sementes a que se refere o artigo 99.º
+    - Altera Notas
+    - Adita Departamentos ([^58^](http://publications.europa.eu/resource/cellar/2b580390-78c4-4ffd-b8e7-009d2b53be58.0010.03/DOC_1#E0077))
+    - Suprime Limites máximos nacionais referidos no artigo 41.º
+    - Suprime Departamentos ([^58^](http://publications.europa.eu/resource/cellar/170ecb3d-6e64-4e34-8626-0e63ea8beca6.0010.03/DOC_1#E0077))
+  - date: '2006-01-01'
+    amending: eu:celex:32005R2183:por
+    amending_title: REGULAMENTO (CE) N. o 2183/2005 DA COMISSÃO de 22 de Dezembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 11.º — Disciplina financeira
+    - Altera Artigo 18.º — Elementos do sistema integrado
+    - Altera Artigo 19.º — Base de dados informatizada
+    - Altera Artigo 20.º — Sistema de identificação das parcelas agrícolas
+    - Altera Artigo 22.º — Pedidos de ajuda
+    - Altera Artigo 28.º — Pagamentos
+    - Altera Artigo 35.º — Pedidos duplos
+    - Altera Artigo 37.º — Cálculo do montante de referência
+    - Altera Artigo 40.º — Dificuldades excepcionais
+    - Altera Artigo 43.º — Determinação dos direitos aos pagamentos
+    - Altera Artigo 44.º — Utilização dos direitos de pagamento
+    - Altera Artigo 47.º — Pagamentos que habilitam a direitos de pagamento sujeitos a condições especiais
+    - Altera Artigo 51.º — Utilização agrícola das terras
+    - Altera Artigo 55.º — Isenção da obrigação de retirar terras da produção
+    - Altera Artigo 60.º — Utilização das terras
+    - Altera Artigo 86.º — Condições de elegibilidade
+    - Altera Artigo 88.º — Ajuda
+    - Altera Artigo 95.º — Prémio aos produtos lácteos
+    - Altera Artigo 96.º — Pagamentos complementares
+    - Altera Artigo 101.º — Superfícies de base
+    - Altera Artigo 110.ºO — Elegibilidade
+    - Altera Artigo 116.º — Limites individuais
+    - Altera Artigo 123.º — Prémio especial
+    - Altera Artigo 125.º — Prémio por vaca em aleitamento
+    - Altera Artigo 126.º — Limite máximo individual para as vacas em aleitamento
+    - Altera Artigo 140.º — Substâncias proibidas nos termos da Directiva 96/22/CE do Conselho
+    - Altera Artigo 145.º — Regras de execução
+    - Altera Artigo 147.º — Alterações dos Regulamentos (CEE) n.º 2019/93, (CE) n.º 1452/2001, (CE) n.º 1453/2001 e (CE) n.º
+      1454/2001
+    - Altera Artigo 148.º — Alterações do Regulamento (CE) n.º 1868/94
+    - Altera Artigo 151.º — Alterações do Regulamento (CE) n.º 1673/2000
+    - Altera Artigo 152.º — Alterações de outros regulamentos
+    - Altera Artigo 153.º — Revogações
+    - Altera Artigo 156.º — Entrada em vigor e aplicação
+    - Altera Limites máximos nacionais referidos no n.º 2 do artigo 12.º
+    - Altera Boas condições agrícolas e ambientais referidas no artigo 5.º
+    - Altera Regimes de apoio compatíveis referidos no artigo 26.º
+    - Altera Lista dos pagamentos directos relacionados com o pagamento único referido no artigo 33.º
+    - Altera ANEXO VIII
+  - date: '2006-02-15'
+    amending: eu:celex:32006R0247:por
+    amending_title: REGULAMENTO (CE) N. o 247/2006 DO CONSELHO de 30 de Janeiro de 2006; Acto relativo às condições de adesão
+      da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia,
+      da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca
+      e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Boas condições agrícolas e ambientais
+    - Altera Artigo 18.º — Elementos do sistema integrado
+    - Altera Artigo 28.º — Pagamentos
+    - Altera Artigo 40.º — Dificuldades excepcionais
+    - Altera Artigo 42.º — Reserva nacional
+    - Altera Artigo 43.º — Determinação dos direitos aos pagamentos
+    - Altera Artigo 47.º — Pagamentos que habilitam a direitos de pagamento sujeitos a condições especiais
+    - Altera Artigo 51.º — Utilização agrícola das terras
+    - Altera Artigo 54.º — Utilização dos direitos por retirada de terras da produção
+    - Altera Artigo 55.º — Isenção da obrigação de retirar terras da produção
+    - Altera Artigo 64.º — Disposições gerais
+    - Altera Artigo 65.º — Estabelecimento dos direitos nos termos da presente secção
+    - Altera Artigo 70.º — Exclusão facultativa de alguns pagamentos directos
+    - Altera Artigo 71.º — Período transitório facultativo
+    - Altera Artigo 84.º — Superfícies
+    - Altera Artigo 86.º — Condições de elegibilidade
+    - Altera Artigo 88.º — Ajuda
+    - Altera Artigo 95.º — Prémio aos produtos lácteos
+    - Altera Artigo 96.º — Pagamentos complementares
+    - Altera Artigo 101.º — Superfícies de base
+    - Altera Artigo 110.ºI — Montante
+    - Altera Artigo 110.ºK — Elegibilidade
+    - Altera Artigo 110.ºO — Elegibilidade
+    - Altera Artigo 116.º — Limites individuais
+    - Altera Artigo 123.º — Prémio especial
+    - Altera Artigo 125.º — Prémio por vaca em aleitamento
+    - Altera Artigo 126.º — Limite máximo individual para as vacas em aleitamento
+    - Altera Artigo 135.º — Condições para os pagamentos por cabeça
+    - Altera Artigo 136.º — Pagamentos por superfície
+    - Altera Artigo 139.º — Limites máximos
+    - Altera Artigo 140.º — Substâncias proibidas nos termos da Directiva 96/22/CE do Conselho
+    - Altera Artigo 145.º — Regras de execução
+    - Altera Artigo 147.º — Alterações dos Regulamentos (CEE) n.º 2019/93, (CE) n.º 1452/2001, (CE) n.º 1453/2001 e (CE) n.º
+      1454/2001
+    - Altera Artigo 148.º — Alterações do Regulamento (CE) n.º 1868/94
+    - Altera Artigo 151.º — Alterações do Regulamento (CE) n.º 1673/2000
+    - Altera Artigo 152.º — Alterações de outros regulamentos
+    - Altera Artigo 153.º — Revogações
+  - date: '2006-08-05'
+    amending: eu:celex:32004R0021:por
+    amending_title: REGULAMENTO (CE) N. o 21/2004 DO CONSELHO de 17 de Dezembro de 2003; REGULAMENTO (CE) N. o 319/2006 DO
+      CONSELHO de 20 de Fevereiro de 2006; REGULAMENTO (CE) N. o 1156/2006 DA COMISSÃO de 28 de Julho de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Boas condições agrícolas e ambientais
+    - Altera Artigo 18.º — Elementos do sistema integrado
+    - Altera Artigo 25.º — Controlos relativos à condicionalidade
+    - Altera Artigo 28.º — Pagamentos
+    - Altera Artigo 33.º — Elegibilidade
+    - Altera Artigo 37.º — Cálculo do montante de referência
+    - Altera Artigo 40.º — Dificuldades excepcionais
+    - Altera Artigo 41.º — Limite máximo
+    - Altera Artigo 42.º — Reserva nacional
+    - Altera Artigo 43.º — Determinação dos direitos aos pagamentos
+    - Altera Artigo 47.º — Pagamentos que habilitam a direitos de pagamento sujeitos a condições especiais
+    - Altera Artigo 51.º — Utilização agrícola das terras
+    - Altera Artigo 54.º — Utilização dos direitos por retirada de terras da produção
+    - Altera Artigo 55.º — Isenção da obrigação de retirar terras da produção
+    - Altera Artigo 63.º — Condições aplicáveis aos direitos estabelecidos nos termos da presente secção
+    - Altera Artigo 64.º — Disposições gerais
+    - Altera Artigo 65.º — Estabelecimento dos direitos nos termos da presente secção
+    - Altera Artigo 71.ºA
+    - Altera Artigo 71.ºC — Limite máximo
+    - Altera Artigo 71.ºD — Reserva nacional
+    - Altera Artigo 71.ºE — Repartição regional do limite máximo referido no artigo 71.ºC
+    - Altera Artigo 84.º — Superfícies
+    - Altera Artigo 86.º — Condições de elegibilidade
+    - Altera Artigo 88.º — Ajuda
+    - Altera Artigo 90.º — Condições de elegibilidade
+    - Altera Artigo 95.º — Prémio aos produtos lácteos
+    - Altera Artigo 96.º — Pagamentos complementares
+    - Altera Artigo 101.º — Superfícies de base
+    - Altera Artigo 110.ºI — Montante
+    - Altera Artigo 110.ºK — Elegibilidade
+    - Altera Artigo 110.ºL — Montante
+    - Altera Artigo 110.ºO — Elegibilidade
+    - Altera Artigo 115.º — Disposições comuns
+    - Altera Artigo 116.º — Limites individuais
+    - Altera Artigo 123.º — Prémio especial
+    - Altera Artigo 125.º — Prémio por vaca em aleitamento
+    - Altera Artigo 126.º — Limite máximo individual para as vacas em aleitamento
+    - Altera Artigo 135.º — Condições para os pagamentos por cabeça
+    - Altera Artigo 136.º — Pagamentos por superfície
+  - date: '2007-01-01'
+    amending: eu:celex:32006R0953:por
+    amending_title: REGULAMENTO (CE) N. o 953/2006 DO CONSELHO de 19 de Junho de 2006; REGULAMENTO (CE) N. o 1405/2006 DO
+      CONSELHO de 18 de Setembro de 2006; REGULAMENTO (CE) N. o 2011/2006 DO CONSELHO de 19 de Dezembro de 2006; REGULAMENTO
+      (CE) N. o 2012/2006 DO CONSELHO de 19 de Dezembro de 2006; REGULAMENTO (CE) N. o 2013/2006 DO CONSELHO de 19 de Dezembro
+      de 2006; ►A2
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Boas condições agrícolas e ambientais
+    - Altera Artigo 18.º — Elementos do sistema integrado
+    - Altera Artigo 20.º — Sistema de identificação das parcelas agrícolas
+    - Altera Artigo 22.º — Pedidos de ajuda
+    - Altera Artigo 28.º — Pagamentos
+    - Altera Artigo 33.º — Elegibilidade
+    - Altera Artigo 37.º — Cálculo do montante de referência
+    - Altera Artigo 40.º — Dificuldades excepcionais
+    - Altera Artigo 42.º — Reserva nacional
+    - Altera Artigo 43.º — Determinação dos direitos aos pagamentos
+    - Altera Artigo 44.º — Utilização dos direitos de pagamento
+    - Altera Artigo 47.º — Pagamentos que habilitam a direitos de pagamento sujeitos a condições especiais
+    - Altera Artigo 51.º — Utilização agrícola das terras
+    - Altera Artigo 52.º — Produção de cânhamo
+    - Altera Artigo 54.º — Utilização dos direitos por retirada de terras da produção
+    - Altera Artigo 55.º — Isenção da obrigação de retirar terras da produção
+    - Altera Artigo 56.º — Utilização das terras retiradas da produção
+    - Altera Artigo 60.º — Utilização das terras
+    - Altera Artigo 70.º — Exclusão facultativa de alguns pagamentos directos
+    - Altera Artigo 71.º — Período transitório facultativo
+    - Altera Artigo 71.ºC — Limite máximo
+    - Altera Artigo 71.ºD — Reserva nacional
+    - Altera Artigo 71.ºG — Utilização das terras
+    - Altera Artigo 71.ºH — Prados
+    - Altera Artigo 71.ºM — Agricultores com hectares não elegíveis
+    - Altera Artigo 74.º — Superfícies
+    - Altera Artigo 78.º — Superfície
+    - Altera Artigo 80.º — Montante e elegibilidade
+    - Altera Artigo 86.º — Condições de elegibilidade
+    - Altera Artigo 88.º — Ajuda
+    - Altera Artigo 89.º — Superfícies
+    - Altera Artigo 95.º — Prémio aos produtos lácteos
+    - Altera Artigo 96.º — Pagamentos complementares
+    - Altera Artigo 101.º — Superfícies de base
+    - Altera Artigo 103.º — Plano de regionalização
+    - Altera Artigo 105.º — Complemento para o trigo duro
+    - Altera Artigo 108.º — Terras elegíveis
+    - Altera Artigo 110.ºC — Superfícies de base e montantes
+  - date: '2007-05-30'
+    amending: eu:celex:32007R0552:por
+    amending_title: REGULAMENTO (CE) N. o 552/2007 DA COMISSÃO de 22 de Maio de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 18.º — Elementos do sistema integrado
+    - Altera Artigo 28.º — Pagamentos
+    - Altera Artigo 40.º — Dificuldades excepcionais
+    - Altera Artigo 43.º — Determinação dos direitos aos pagamentos
+    - Altera Artigo 47.º — Pagamentos que habilitam a direitos de pagamento sujeitos a condições especiais
+    - Altera Artigo 51.º — Utilização agrícola das terras
+    - Altera Artigo 55.º — Isenção da obrigação de retirar terras da produção
+    - Altera Artigo 86.º — Condições de elegibilidade
+    - Altera Artigo 88.º — Ajuda
+    - Altera Artigo 95.º — Prémio aos produtos lácteos
+    - Altera Artigo 96.º — Pagamentos complementares
+    - Altera Artigo 101.º — Superfícies de base
+    - Altera Artigo 110.ºI — Montante
+    - Altera Artigo 110.ºK — Elegibilidade
+    - Altera Artigo 110.ºO — Elegibilidade
+    - Altera Artigo 110.ºP — Pagamento transitório para o açúcar
+    - Altera Artigo 123.º — Prémio especial
+    - Altera Artigo 125.º — Prémio por vaca em aleitamento
+    - Altera Artigo 126.º — Limite máximo individual para as vacas em aleitamento
+    - Altera Artigo 140.º — Substâncias proibidas nos termos da Directiva 96/22/CE do Conselho
+    - Altera Artigo 143.ºB — Regime de pagamento único por superfície
+    - Altera Artigo 145.º — Regras de execução
+    - Altera Artigo 147.º — Alterações dos Regulamentos (CEE) n.º 2019/93, (CE) n.º 1452/2001, (CE) n.º 1453/2001 e (CE) n.º
+      1454/2001
+    - Altera Artigo 148.º — Alterações do Regulamento (CE) n.º 1868/94
+    - Altera Artigo 151.º — Alterações do Regulamento (CE) n.º 1673/2000
+    - Altera Artigo 152.º — Alterações de outros regulamentos
+    - Altera Artigo 153.º — Revogações
+    - Altera Artigo 155.º — Outras regras de transição
+    - Altera ANEXO I
+    - Altera ANEXO VI
+    - Altera G. Algodão
+    - Altera H. Azeite
+    - Altera I. Tabaco em rama
+    - Altera ANEXO VIII A
+    - Altera Lista das espécies de sementes a que se refere o artigo 99.º
+    - Altera Notas
+    - Adita A. Aplicável a partir de 1.1.2005[►A2](http://publications.europa.eu/resource/celex/12005S) ([^72^](http://publications.europa.eu/resource/cellar/453660ec-0868-49a9-be1b-6ae2bac679c5.0016.03/DOC_1#E0086))◄
+    - Adita B. Aplicável a partir de 1.1.2006[►A2](http://publications.europa.eu/resource/celex/12005S) ([^73^](http://publications.europa.eu/resource/cellar/453660ec-0868-49a9-be1b-6ae2bac679c5.0016.03/DOC_1#E0087))◄
+    - Adita C. Aplicável a partir de 1.1.2007[►A2](http://publications.europa.eu/resource/celex/12005S) ([^74^](http://publications.europa.eu/resource/cellar/453660ec-0868-49a9-be1b-6ae2bac679c5.0016.03/DOC_1#E0088))◄
+  - date: '2008-01-01'
+    amending: eu:celex:32007R1182:por
+    amending_title: REGULAMENTO (CE) N. o 1182/2007 DO CONSELHO de 26 de Setembro de 2007; REGULAMENTO (CE) N. o 1276/2007
+      DA COMISSÃO de 29 de Outubro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 18.º — Elementos do sistema integrado
+    - Altera Artigo 28.º — Pagamentos
+    - Altera Artigo 33.º — Elegibilidade
+    - Altera Artigo 37.º — Cálculo do montante de referência
+    - Altera Artigo 40.º — Dificuldades excepcionais
+    - Altera Artigo 42.º — Reserva nacional
+    - Altera Artigo 43.º — Determinação dos direitos aos pagamentos
+    - Altera Artigo 44.º — Utilização dos direitos de pagamento
+    - Altera Artigo 45.º — Direitos de pagamento não utilizados
+    - Altera Artigo 47.º — Pagamentos que habilitam a direitos de pagamento sujeitos a condições especiais
+    - Altera Artigo 55.º — Isenção da obrigação de retirar terras da produção
+    - Altera Artigo 60.º — Utilização das terras
+    - Altera Artigo 63.º — Condições aplicáveis aos direitos estabelecidos nos termos da presente secção
+    - Altera Artigo 64.º — Disposições gerais
+    - Altera Artigo 65.º — Estabelecimento dos direitos nos termos da presente secção
+    - Altera Artigo 71.ºK — Condições aplicáveis aos direitos
+    - Altera Artigo 86.º — Condições de elegibilidade
+    - Altera Artigo 88.º — Ajuda
+    - Altera Artigo 95.º — Prémio aos produtos lácteos
+    - Altera Artigo 96.º — Pagamentos complementares
+    - Altera Artigo 101.º — Superfícies de base
+    - Altera Artigo 110.ºI — Montante
+    - Altera Artigo 110.ºK — Elegibilidade
+    - Altera Artigo 110.ºO — Elegibilidade
+    - Altera Artigo 110.ºP — Pagamento transitório para o açúcar
+    - Altera Artigo 123.º — Prémio especial
+    - Altera Artigo 125.º — Prémio por vaca em aleitamento
+    - Altera Artigo 126.º — Limite máximo individual para as vacas em aleitamento
+    - Altera Artigo 140.º — Substâncias proibidas nos termos da Directiva 96/22/CE do Conselho
+    - Altera Artigo 143.ºB — Regime de pagamento único por superfície
+    - Altera Artigo 145.º — Regras de execução
+    - Altera Artigo 147.º — Alterações dos Regulamentos (CEE) n.º 2019/93, (CE) n.º 1452/2001, (CE) n.º 1453/2001 e (CE) n.º
+      1454/2001
+    - Altera Artigo 148.º — Alterações do Regulamento (CE) n.º 1868/94
+    - Altera Artigo 151.º — Alterações do Regulamento (CE) n.º 1673/2000
+    - Altera Artigo 152.º — Alterações de outros regulamentos
+    - Altera Artigo 153.º — Revogações
+    - Altera ANEXO I
+    - Altera Limites máximos nacionais referidos no n.º 2 do artigo 12.º
+    - Altera Regimes de apoio compatíveis referidos no artigo 26.º
+  - date: '2008-04-01'
+    amending: eu:celex:32008R0146:por
+    amending_title: REGULAMENTO (CE) N. o 146/2008 DO CONSELHO de 14 de Fevereiro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Redução ou exclusão dos pagamentos
+    - Altera Artigo 7.º — Regras de execução relativas à redução ou exclusão
+    - Altera Artigo 18.º — Elementos do sistema integrado
+    - Altera Artigo 28.º — Pagamentos
+    - Altera Artigo 40.º — Dificuldades excepcionais
+    - Altera Artigo 43.º — Determinação dos direitos aos pagamentos
+    - Altera Artigo 44.º — Utilização dos direitos de pagamento
+    - Altera Artigo 47.º — Pagamentos que habilitam a direitos de pagamento sujeitos a condições especiais
+    - Altera Artigo 55.º — Isenção da obrigação de retirar terras da produção
+    - Altera Artigo 86.º — Condições de elegibilidade
+    - Altera Artigo 88.º — Ajuda
+    - Altera Artigo 95.º — Prémio aos produtos lácteos
+    - Altera Artigo 96.º — Pagamentos complementares
+    - Altera Artigo 101.º — Superfícies de base
+    - Altera Artigo 110.ºI — Montante
+    - Altera Artigo 110.ºK — Elegibilidade
+    - Altera Artigo 110.ºO — Elegibilidade
+    - Altera Artigo 110.ºP — Pagamento transitório para o açúcar
+    - Altera Artigo 110.º-U
+    - Altera Artigo 123.º — Prémio especial
+    - Altera Artigo 125.º — Prémio por vaca em aleitamento
+    - Altera Artigo 126.º — Limite máximo individual para as vacas em aleitamento
+    - Altera Artigo 140.º — Substâncias proibidas nos termos da Directiva 96/22/CE do Conselho
+    - Altera Artigo 143.ºB — Regime de pagamento único por superfície
+    - Altera Artigo 145.º — Regras de execução
+    - Altera Artigo 147.º — Alterações dos Regulamentos (CEE) n.º 2019/93, (CE) n.º 1452/2001, (CE) n.º 1453/2001 e (CE) n.º
+      1454/2001
+    - Altera Artigo 148.º — Alterações do Regulamento (CE) n.º 1868/94
+    - Altera Artigo 151.º — Alterações do Regulamento (CE) n.º 1673/2000
+    - Altera Artigo 152.º — Alterações de outros regulamentos
+    - Altera Artigo 153.º — Revogações
+    - Altera ANEXO I
+    - Altera ANEXO VI
+    - Altera G. Algodão
+    - Altera H. Azeite
+    - Altera I. Tabaco em rama
+    - Altera Lista das espécies de sementes a que se refere o artigo 99.º
+    - Altera ANEXO XII
+    - Altera Notas
+    - Adita Artigo 71.º-H — Pastagens
+  - date: '2008-04-05'
+    amending: eu:celex:32008R0293:por
+    amending_title: REGULAMENTO (CE) N. o 293/2008 DA COMISSÃO de 1 de Abril de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 18.º — Elementos do sistema integrado
+    - Altera Artigo 28.º — Pagamentos
+    - Altera Artigo 40.º — Dificuldades excepcionais
+    - Altera Artigo 43.º — Determinação dos direitos aos pagamentos
+    - Altera Artigo 47.º — Pagamentos que habilitam a direitos de pagamento sujeitos a condições especiais
+    - Altera Artigo 55.º — Isenção da obrigação de retirar terras da produção
+    - Altera Artigo 86.º — Condições de elegibilidade
+    - Altera Artigo 88.º — Ajuda
+    - Altera Artigo 95.º — Prémio aos produtos lácteos
+    - Altera Artigo 96.º — Pagamentos complementares
+    - Altera Artigo 101.º — Superfícies de base
+    - Altera Artigo 110.ºI — Montante
+    - Altera Artigo 110.ºK — Elegibilidade
+    - Altera Artigo 110.ºO — Elegibilidade
+    - Altera Artigo 110.ºP — Pagamento transitório para o açúcar
+    - Altera Artigo 110.º-U
+    - Altera Artigo 123.º — Prémio especial
+    - Altera Artigo 125.º — Prémio por vaca em aleitamento
+    - Altera Artigo 126.º — Limite máximo individual para as vacas em aleitamento
+    - Altera Artigo 140.º — Substâncias proibidas nos termos da Directiva 96/22/CE do Conselho
+    - Altera Artigo 143.ºB — Regime de pagamento único por superfície
+    - Altera Artigo 145.º — Regras de execução
+    - Altera Artigo 147.º — Alterações dos Regulamentos (CEE) n.º 2019/93, (CE) n.º 1452/2001, (CE) n.º 1453/2001 e (CE) n.º
+      1454/2001
+    - Altera Artigo 148.º — Alterações do Regulamento (CE) n.º 1868/94
+    - Altera Artigo 151.º — Alterações do Regulamento (CE) n.º 1673/2000
+    - Altera Artigo 152.º — Alterações de outros regulamentos
+    - Altera Artigo 153.º — Revogações
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera ANEXO VI
+    - Altera G. Algodão
+    - Altera H. Azeite
+    - Altera I. Tabaco em rama
+    - Altera Lista das espécies de sementes a que se refere o artigo 99.º
+    - Altera Notas
+    - Adita A. Aplicável a partir de 1.1.2005[►A2](http://publications.europa.eu/resource/celex/12005S) ([^70^](http://publications.europa.eu/resource/cellar/40bcaefa-2cb7-49e9-9e7a-6ebe7cc8f221.0016.03/DOC_1#E0084))◄
+    - Adita B. Aplicável a partir de 1.1.2006[►A2](http://publications.europa.eu/resource/celex/12005S) ([^71^](http://publications.europa.eu/resource/cellar/40bcaefa-2cb7-49e9-9e7a-6ebe7cc8f221.0016.03/DOC_1#E0085))◄
+    - Adita C. Aplicável a partir de 1.1.2007[►A2](http://publications.europa.eu/resource/celex/12005S) ([^72^](http://publications.europa.eu/resource/cellar/40bcaefa-2cb7-49e9-9e7a-6ebe7cc8f221.0016.03/DOC_1#E0086))◄
+    - Adita Departamentos ([^81^](http://publications.europa.eu/resource/cellar/40bcaefa-2cb7-49e9-9e7a-6ebe7cc8f221.0016.03/DOC_1#E0097))
+  - date: '2008-07-24'
+    amending: eu:celex:32008R0470:por
+    amending_title: REGULAMENTO (CE) N. o 470/2008 DO CONSELHO de 26 de Maio de 2008; REGULAMENTO (CE) N. o 615/2008 DO CONSELHO
+      de 23 de Junho de 2008; REGULAMENTO (CE) N. o 674/2008 DA COMISSÃO de 16 de Julho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 18.º — Elementos do sistema integrado
+    - Altera Artigo 28.º — Pagamentos
+    - Altera Artigo 40.º — Dificuldades excepcionais
+    - Altera Artigo 43.º — Determinação dos direitos aos pagamentos
+    - Altera Artigo 47.º — Pagamentos que habilitam a direitos de pagamento sujeitos a condições especiais
+    - Altera Artigo 55.º — Isenção da obrigação de retirar terras da produção
+    - Altera Artigo 86.º — Condições de elegibilidade
+    - Altera Artigo 88.º — Ajuda
+    - Altera Artigo 95.º — Prémio aos produtos lácteos
+    - Altera Artigo 96.º — Pagamentos complementares
+    - Altera Artigo 101.º — Superfícies de base
+    - Altera Artigo 110.ºI — Montante
+    - Altera Artigo 110.ºK — Elegibilidade
+    - Altera Artigo 110.ºO — Elegibilidade
+    - Altera Artigo 110.ºP — Pagamento transitório para o açúcar
+    - Altera Artigo 110.º-U
+    - Altera Artigo 123.º — Prémio especial
+    - Altera Artigo 125.º — Prémio por vaca em aleitamento
+    - Altera Artigo 126.º — Limite máximo individual para as vacas em aleitamento
+    - Altera Artigo 140.º — Substâncias proibidas nos termos da Directiva 96/22/CE do Conselho
+    - Altera Artigo 143.ºB — Regime de pagamento único por superfície
+    - Altera Artigo 145.º — Regras de execução
+    - Altera Artigo 147.º — Alterações dos Regulamentos (CEE) n.º 2019/93, (CE) n.º 1452/2001, (CE) n.º 1453/2001 e (CE) n.º
+      1454/2001
+    - Altera Artigo 148.º — Alterações do Regulamento (CE) n.º 1868/94
+    - Altera Artigo 151.º — Alterações do Regulamento (CE) n.º 1673/2000
+    - Altera Artigo 152.º — Alterações de outros regulamentos
+    - Altera Artigo 153.º — Revogações
+    - Altera ANEXO I
+    - Altera ANEXO VI
+    - Altera G. Algodão
+    - Altera H. Azeite
+    - Altera I. Tabaco em rama
+    - Altera Limites máximos nacionais referidos no artigo 41.º
+    - Altera Lista das espécies de sementes a que se refere o artigo 99.º
+    - Altera Notas
+    - Adita Artigo 110.º-M — Transferência para o Fundo Comunitário do Tabaco
+    - Adita A. Aplicável a partir de 1.1.2005[►A2](http://publications.europa.eu/resource/celex/12005S) ([^70^](http://publications.europa.eu/resource/cellar/43602a38-8cac-4918-884e-6a744da824b6.0017.03/DOC_1#E0085))◄
+    - Adita B. Aplicável a partir de 1.1.2006[►A2](http://publications.europa.eu/resource/celex/12005S) ([^71^](http://publications.europa.eu/resource/cellar/43602a38-8cac-4918-884e-6a744da824b6.0017.03/DOC_1#E0086))◄
+    - Adita C. Aplicável a partir de 1.1.2007[►A2](http://publications.europa.eu/resource/celex/12005S) ([^72^](http://publications.europa.eu/resource/cellar/43602a38-8cac-4918-884e-6a744da824b6.0017.03/DOC_1#E0087))◄
+  - date: '2009-01-01'
+    amending: eu:celex:32008R0479:por
+    amending_title: REGULAMENTO (CE) N. o 479/2008 DO CONSELHO de 29 de Abril de 2008; REGULAMENTO (CE) N. o 637/2008 DO CONSELHO
+      de 23 de Junho de 2008; REGULAMENTO (CE) N. o 1009/2008 DO CONSELHO de 9 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 18.º — Elementos do sistema integrado
+    - Altera Artigo 28.º — Pagamentos
+    - Altera Artigo 33.º — Elegibilidade
+    - Altera Artigo 37.º — Cálculo do montante de referência
+    - Altera Artigo 40.º — Dificuldades excepcionais
+    - Altera Artigo 41.º — Limite máximo
+    - Altera Artigo 42.º — Reserva nacional
+    - Altera Artigo 43.º — Determinação dos direitos aos pagamentos
+    - Altera Artigo 44.º — Utilização dos direitos de pagamento
+    - Altera Artigo 45.º — Direitos de pagamento não utilizados
+    - Altera Artigo 47.º — Pagamentos que habilitam a direitos de pagamento sujeitos a condições especiais
+    - Altera Artigo 55.º — Isenção da obrigação de retirar terras da produção
+    - Altera Artigo 63.º — Condições aplicáveis aos direitos estabelecidos nos termos da presente secção
+    - Altera Artigo 71.ºC — Limite máximo
+    - Altera Artigo 86.º — Condições de elegibilidade
+    - Altera Artigo 88.º — Ajuda
+    - Altera Artigo 95.º — Prémio aos produtos lácteos
+    - Altera Artigo 96.º — Pagamentos complementares
+    - Altera Artigo 101.º — Superfícies de base
+    - Altera Artigo 110.ºI — Montante
+    - Altera Artigo 110.ºK — Elegibilidade
+    - Altera Artigo 110.ºO — Elegibilidade
+    - Altera Artigo 110.ºP — Pagamento transitório para o açúcar
+    - Altera Artigo 123.º — Prémio especial
+    - Altera Artigo 125.º — Prémio por vaca em aleitamento
+    - Altera Artigo 126.º — Limite máximo individual para as vacas em aleitamento
+    - Altera Artigo 138.º — Disposições comuns
+    - Altera Artigo 140.º — Substâncias proibidas nos termos da Directiva 96/22/CE do Conselho
+    - Altera Artigo 143.ºB — Regime de pagamento único por superfície
+    - Altera Artigo 145.º — Regras de execução
+    - Altera Artigo 147.º — Alterações dos Regulamentos (CEE) n.º 2019/93, (CE) n.º 1452/2001, (CE) n.º 1453/2001 e (CE) n.º
+      1454/2001
+    - Altera Artigo 148.º — Alterações do Regulamento (CE) n.º 1868/94
+    - Altera Artigo 151.º — Alterações do Regulamento (CE) n.º 1673/2000
+    - Altera Artigo 152.º — Alterações de outros regulamentos
+    - Altera Artigo 153.º — Revogações
+    - Altera Artigo 156.º — Entrada em vigor e aplicação
+    - Altera ANEXO I
+    - Altera Boas condições agrícolas e ambientais referidas no artigo 5.º
+  - date: '2010-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime TÍTULO II
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime CAPÍTULO 1
+    - Suprime CONDICIONALIDADE
+    - Suprime Artigo 3.º — Requisitos principais
+    - Suprime Artigo 4.º — Requisitos legais de gestão
+    - Suprime Artigo 5.º — Boas condições agrícolas e ambientais
+    - Suprime Artigo 6.º — Redução ou exclusão dos pagamentos
+    - Suprime Artigo 7.º — Regras de execução relativas à redução ou exclusão
+    - Suprime Artigo 8.º — Reexame
+    - Suprime Artigo 9.º — Montantes resultantes da condicionalidade
+    - Suprime CAPÍTULO 2
+    - Suprime MODULAÇÃO E DISCIPLINA FINANCEIRA
+    - Suprime Artigo 10.º — Modulação
+    - Suprime Artigo 11.º — Disciplina financeira
+    - Suprime Artigo 12.º — Montante suplementar de ajuda
+    - Suprime Artigo 12.ºA — Aplicação aos novos Estados-Membros
+    - Suprime CAPÍTULO 3
+    - Suprime SISTEMA DE ACONSELHAMENTO AGRÍCOLA
+    - Suprime Artigo 13.º — Sistema de aconselhamento agrícola
+    - Suprime Artigo 14.º — Condições
+    - Suprime Artigo 15.º — Obrigações dos organismos privados acreditados e das autoridades designadas
+    - Suprime Artigo 16.º — Reexame
+    - Suprime CAPÍTULO 4
+    - Suprime SISTEMA INTEGRADO DE GESTÃO E DE CONTROLO
+    - Suprime Artigo 17.º — Âmbito de aplicação
+    - Suprime Artigo 18.º — Elementos do sistema integrado
+    - Suprime Artigo 19.º — Base de dados informatizada
+    - Suprime Artigo 20.º — Sistema de identificação das parcelas agrícolas
+    - Suprime Artigo 21.º — Sistema de identificação e registo dos direitos aos pagamentos
+    - Suprime Artigo 22.º — Pedidos de ajuda
+    - Suprime Artigo 23.º — Verificação das condições de elegibilidade
+    - Suprime Artigo 24.º — Reduções e exclusões
+    - Suprime Artigo 25.º — Controlos relativos à condicionalidade
+    - Suprime Artigo 26.º — Compatibilidade
 identifiers:
   celex: 32003R1782
   eli: http://data.europa.eu/eli/reg/2003/1782/oj
@@ -57,7 +651,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/de10fcb7-14a1-4465-b0a9-93c938678a98.0010
   content_url: http://publications.europa.eu/resource/cellar/443a06b1-9aab-4038-9f1c-64a8b879b844.0013.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R1782-20100101
-  retrieved_at: '2026-10-22T02:23:31Z'
+  retrieved_at: '2026-10-22T14:56:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-26T08:22:35.520+01:00'
 integrity:
@@ -66,9 +660,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:23:31Z'
-  notes: Texto consolidado 02003R1782-20100101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:16Z'
+  notes: 14 versão(ões); histórico completo em regulamento-ue-2003-1782.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -953,16 +1547,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:23:31Z'
+  checked_at: '2026-10-22T14:56:16Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02003R1782-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

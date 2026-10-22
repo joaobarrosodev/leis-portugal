@@ -1,0 +1,657 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000D0096:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000D0096-20180726",
+ "dre_path": null,
+ "source_lastmod": "2018-07-26",
+ "versions": [
+  {
+   "date": "2007-12-28",
+   "future": false,
+   "celex": "02000D0096-20071228",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "55f63e40a6dca8ec",
+    "6b79c422bde43eeb",
+    "7c79e5555af41449",
+    "ae4f900b189a9636",
+    "53b69501a1806bef",
+    "bea93922fa5c4aeb",
+    "5f34202790ff7bcf",
+    "050b32a632b258f2",
+    "fd2438d7b10fa667",
+    "974e3f5413f786f6",
+    "5f6ce00c55b54d9c",
+    "2188c5aae4e811a3",
+    "d664376e2a8dcecd",
+    "15aee2999b523785",
+    "8c7903c7e9200358",
+    "34eb5fd0eab793ed",
+    "a129ad11a8b8e488",
+    "9e87566ef4161d01",
+    "f32826ec2e58891c",
+    "3ae6ccd4c932b6a4",
+    "f12bf96f0f6f1664",
+    "c89472e69ab61bca",
+    "492990ac3cd87b68",
+    "3cff4a65b3f6d761",
+    "bfae5c283c7fe2cc",
+    "2b46fb75b5434fc4",
+    "940d22977e90bd00",
+    "96bbed2a6c02483c",
+    "852174729551523b",
+    "51b71b6a0a768465",
+    "720af75c92791b10",
+    "6bb46dc1c2b7eca4",
+    "546375d61d7ab012"
+   ]
+  },
+  {
+   "date": "2009-04-03",
+   "future": false,
+   "celex": "02000D0096-20090403",
+   "acts": [
+    {
+     "id": "eu:celex:32009D0312:por",
+     "title": "DECISÃO DA COMISSÃO de 2 de Abril de 2009",
+     "published": null,
+     "celex": "32009D0312"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Altera 2.1. Doenças de prevenção vacinal",
+    "Altera 2.2. Doenças sexualmente transmissíveis",
+    "Altera 2.4. Doenças de origem alimentar, hídrica e ambiental",
+    "Altera 2.5.1. Doenças transmitidas por agentes não convencionais",
+    "Altera 2.5.2. Doenças transmitidas pelo ar",
+    "Altera 3. PROBLEMAS DE SAÚDE ESPECIAIS",
+    "Altera Notas",
+    "Adita 1. DOENÇAS TRANSMISSÍVEIS E PROBLEMAS DE SAÚDE ESPECIAIS A SER PROGRESSIVAMENTE ABRANGIDOS PELA REDE COMUNITÁRIA COMO SE REFERE NO ARTIGO 1.º",
+    "Suprime 1. DOENÇAS TRANSMISSÍVEIS E PROBLEMAS DE SAÚDE ESPECIAIS QUE DEVERÃO SER PROGRESSIVAMENTE ABRANGIDOS PELA REDE COMUNITÁRIA",
+    "Suprime 1.1. Relativamente às doenças transmissíveis e aos problemas de saúde especiais enumerados infra, a vigilância epidemiológica no âmbito da rede comunitária será realizada por recolha e análise normalizadas de dados, de uma forma que será determinada para cada doença transmissível e problema de saúde especial quando forem implementadas redes de vigilância específicas da União Europeia.",
+    "Suprime 3.1. Infecções nosocomiais",
+    "Suprime 3.2. Resistência antimicrobiana [(4)](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#E0004)"
+   ],
+   "fragments": [
+    "8f9229c2763e8aaf",
+    "6b79c422bde43eeb",
+    "7c79e5555af41449",
+    "ae4f900b189a9636",
+    "1bdc1c99bac1d9ca",
+    "bea93922fa5c4aeb",
+    "5f34202790ff7bcf",
+    "050b32a632b258f2",
+    "fd2438d7b10fa667",
+    "974e3f5413f786f6",
+    "5f6ce00c55b54d9c",
+    "2188c5aae4e811a3",
+    "d664376e2a8dcecd",
+    "087fc6f11546c01e",
+    "34eb5fd0eab793ed",
+    "8c9567eb02adf357",
+    "c061cc9837098fc9",
+    "f32826ec2e58891c",
+    "d17d24640a435606",
+    "f12bf96f0f6f1664",
+    "5ee4024d390c0369",
+    "b5ef59f68cdcf2ca",
+    "3cff4a65b3f6d761",
+    "bfae5c283c7fe2cc",
+    "4f1bb821bd889e44",
+    "852174729551523b",
+    "51b71b6a0a768465",
+    "720af75c92791b10",
+    "6bb46dc1c2b7eca4",
+    "6a2f3a302c92021f"
+   ]
+  },
+  {
+   "date": "2009-04-30",
+   "future": false,
+   "celex": "02000D0096-20090430",
+   "acts": [
+    {
+     "id": "eu:celex:32009D0539:por",
+     "title": "DECISÃO DA COMISSÃO de 10 de Julho de 2009",
+     "published": null,
+     "celex": "32009D0539"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera 2.1. Doenças de prevenção vacinal",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "6199abe5d9611be1",
+    "6b79c422bde43eeb",
+    "7c79e5555af41449",
+    "ae4f900b189a9636",
+    "1bdc1c99bac1d9ca",
+    "bea93922fa5c4aeb",
+    "5f34202790ff7bcf",
+    "050b32a632b258f2",
+    "fd2438d7b10fa667",
+    "974e3f5413f786f6",
+    "5f6ce00c55b54d9c",
+    "2188c5aae4e811a3",
+    "d664376e2a8dcecd",
+    "087fc6f11546c01e",
+    "34eb5fd0eab793ed",
+    "d46fee4ba3ceb782",
+    "c061cc9837098fc9",
+    "f32826ec2e58891c",
+    "d17d24640a435606",
+    "f12bf96f0f6f1664",
+    "5ee4024d390c0369",
+    "b5ef59f68cdcf2ca",
+    "3cff4a65b3f6d761",
+    "bfae5c283c7fe2cc",
+    "4f1bb821bd889e44",
+    "852174729551523b",
+    "51b71b6a0a768465",
+    "720af75c92791b10",
+    "6bb46dc1c2b7eca4",
+    "451e18634bc04f42"
+   ]
+  },
+  {
+   "date": "2012-09-05",
+   "future": false,
+   "celex": "02000D0096-20120905",
+   "acts": [
+    {
+     "id": "eu:celex:32012D0492:por",
+     "title": "DECISÃO DA COMISSÃO de 3 de setembro de 2012",
+     "published": null,
+     "celex": "32012D0492"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Notas",
+    "Adita 2.5.5. Doenças transmitidas por vetores"
+   ],
+   "fragments": [
+    "70a8076e2137b07f",
+    "6b79c422bde43eeb",
+    "7c79e5555af41449",
+    "ae4f900b189a9636",
+    "1bdc1c99bac1d9ca",
+    "bea93922fa5c4aeb",
+    "5f34202790ff7bcf",
+    "050b32a632b258f2",
+    "fd2438d7b10fa667",
+    "974e3f5413f786f6",
+    "5f6ce00c55b54d9c",
+    "2188c5aae4e811a3",
+    "d664376e2a8dcecd",
+    "087fc6f11546c01e",
+    "34eb5fd0eab793ed",
+    "d46fee4ba3ceb782",
+    "c061cc9837098fc9",
+    "f32826ec2e58891c",
+    "d17d24640a435606",
+    "f12bf96f0f6f1664",
+    "5ee4024d390c0369",
+    "b5ef59f68cdcf2ca",
+    "3cff4a65b3f6d761",
+    "bfae5c283c7fe2cc",
+    "05ffc060b2b4112e",
+    "4f1bb821bd889e44",
+    "852174729551523b",
+    "51b71b6a0a768465",
+    "720af75c92791b10",
+    "6bb46dc1c2b7eca4",
+    "09e1e3a4b199edd7"
+   ]
+  },
+  {
+   "date": "2018-07-26",
+   "future": false,
+   "celex": "02000D0096-20180726",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime ANEXO I",
+    "Suprime 1. DOENÇAS TRANSMISSÍVEIS E PROBLEMAS DE SAÚDE ESPECIAIS A SER PROGRESSIVAMENTE ABRANGIDOS PELA REDE COMUNITÁRIA COMO SE REFERE NO ARTIGO 1.º",
+    "Suprime 2. DOENÇAS",
+    "Suprime 2.1. Doenças de prevenção vacinal",
+    "Suprime 2.2. Doenças sexualmente transmissíveis",
+    "Suprime 2.3. Hepatite viral",
+    "Suprime 2.4. Doenças de origem alimentar, hídrica e ambiental",
+    "Suprime 2.5. Outras doenças",
+    "Suprime 2.5.1. Doenças transmitidas por agentes não convencionais",
+    "Suprime 2.5.2. Doenças transmitidas pelo ar",
+    "Suprime 2.5.3. Zoonoses (excluindo as referidas em 2.4)",
+    "Suprime 2.5.4. Doenças graves importadas",
+    "Suprime 2.5.5. Doenças transmitidas por vetores",
+    "Suprime 3. PROBLEMAS DE SAÚDE ESPECIAIS",
+    "Suprime ANEXO II",
+    "Suprime CRITÉRIOS DE SELECÇÃO DE DOENÇAS TRANSMISSÍVEIS OU DE PROBLEMAS DE SAÚDE ESPECIAIS QUE SERÃO ABRANGIDOS PELA VIGILÂNCIA EPIDEMIOLÓGICA NO ÂMBITO DA REDE",
+    "Suprime ANEXO III",
+    "Suprime TÓPICOS QUE OS PROCEDIMENTOS OPERACIONAIS DAS REDES DE VIGILÂNCIA ESPECÍFICAS DEVEM ABORDAR PARA APRECIAÇÃO PELA REDE COMUNITÁRIA",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "14f8bd1bcf44c315"
+   ]
+  }
+ ],
+ "fragments": {
+  "55f63e40a6dca8ec": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Dezembro de 1999\n\nrelativa às doenças transmissíveis que devem ser progressivamente abrangidas pela rede comunitária em aplicação da Decisão n.º 2119/98/CE do Parlamento Europeu e do Conselho\n\n[notificada com o número C(1999) 4015]\n\n(2000/96/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Decisão n.º 2119/98/CE do Parlamento Europeu e do Conselho, de 24 de Setembro de 1998, que institui uma rede de vigilância epidemiológica e de controlo das doenças transmissíveis na Comunidade ([^1^](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#E0001)), e, nomeadamente, as alíneas a) a e) do seu artigo 3.º,\n\n(1) Nos termos da Decisão n.º 2119/98/CE, deve ser instituída uma rede a nível comunitário para promover a cooperação e a coordenação entre os Estados-Membros, com o apoio da Comissão, a fim de melhorar a prevenção e o controlo na Comunidade das categorias de doenças transmissíveis enumeradas no anexo à decisão. Esta rede deve ser utilizada para a vigilância epidemiológica daquelas doenças e para o estabelecimento de um sistema de alerta rápido e de resposta;\n\n(2) No que respeita à vigilância epidemiológica, a rede deve ser instituída através de uma ligação permanente, por todos os meios técnicos adequados, entre a Comissão e as estruturas e/ou autoridades que, a nível de cada Estado-Membro e sob a responsabilidade deste, são competentes a nível nacional e têm a seu cargo a recolha de informações respeitantes à vigilância epidemiológica das doenças transmissíveis;\n\n(3) As doenças e os problemas de saúde seleccionados para serem alvo de vigilância epidemiológica a nível comunitário devem reflectir as necessidades actuais da Comunidade, especialmente o valor acrescentado da vigilância a nível comunitário;\n\n(4) A lista de doenças ou problemas de saúde seleccionados para vigilância deve ser alterada em função das modificações registadas na prevalência das doenças e em resposta à emergência de novas doenças transmissíveis que constituam uma ameaça para a saúde pública;\n\n(5) A Comissão deve fornecer à rede comunitária os instrumentos informativos adequados, assegurando simultaneamente a coerência e a complementaridade com os programas e iniciativas pertinentes da Comunidade;\n\n(6) A presente decisão deve ser aplicável sem prejuízo do disposto na Directiva 92/117/CEE do Conselho de 17 de Dezembro de 1992 relativa às medidas de protecção contra zoonoses e certos agentes zoonóticos em animais e produtos de origem animal a fim de evitar focos de infecção e de intoxicação de origem alimentar ([^2^](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#E0002)), com a última redacção que lhe foi dada pela Directiva 1999/72/CE do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#E0003)).\n\n(7) A presente decisão deve facilitar a integração da rede comunitária em outras redes de alerta rápido instituídas aos níveis nacional ou comunitário relativamente a doenças e problemas de saúde especiais que devem ser abrangidos pelo sistema de alerta rápido e de resposta. Para efeitos da sua implementação, a rede comunitária deve, por conseguinte, funcionar com o Sistema de vigilância sanitária das doenças transmissíveis no âmbito da Rede europeia de informação em matéria de saúde pública (Euphin-HSSCD), constituído por três componentes: a) Um sistema de alerta rápido e de respsota encarregado das notificações de ameaças específicas para a população, transmitidas pelas autoridades competentes em matéria de saúde pública de cada Estado-Membro que são responsáveis pela determinação de medidas que possam ser necessárias para proteger a saúde pública; b) Intercâmbio de informações entre estruturas e autoridades acreditadas dos Estados-Membros no domínio da saúde pública; c) Redes específicas sobre doenças seleccionadas para serem alvo de vigilância epidemiológica entre estruturas e autoridades acreditadas dos Estados-Membros.\n\n(8) A evolução de novas tecnologias úteis deve ser objecto de um acompanhamento periódico e tida em consideração na melhoria do intercâmbio electrónico de informações.\n\n(9) Por razões logísticas, nem todas as doenças transmissíveis ou problemas de saúde especiais seleccionados para vigilância epidemiológica podem ser imediatamente abrangidos por disposições de redes de vigilância específicas. No entanto, a fim de que a rede comunitária possa iniciar o seu trabalho e adquirir experiência, as autoridades competentes dos Estados-Membros devem divulgar na rede comunitária as informações úteis de que disponham.\n\n(10) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité, instituído pelo artigo 7.º da Decisão n.º 2119/98/CE,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "6b79c422bde43eeb": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão enumerados no anexo I as doenças transmissíveis e os problemas de saúde especiais que deverão ser abrangidos pela vigilância epidemiológica da rede comunitária, nos termos da Decisão n.º 2119/98/CE. A vigilância deverá ser efectuada de forma rentável, tendo em conta a natureza da doença, as redes existentes e o valor acrescentado comunitário."
+  },
+  "7c79e5555af41449": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão enumerados no anexo II os critérios de selecção das doenças e dos problemas de saúde especiais que deverão ser abrangidos pela vigilância epidemiológica da rede comunitária."
+  },
+  "ae4f900b189a9636": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara efeitos da aplicação técnica da presente decisão, a rede comunitária funcionará inicialmente com o Sistema de vigilância sanitária das doenças transmissíveis (Euphin-HSSCD), no âmbito da Rede europeia de informação em matéria de saúde pública."
+  },
+  "53b69501a1806bef": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n[**►M2**](http://publications.europa.eu/resource/celex/32003D0542) 1.**◄** A rede comunitária será implementada através da alteração e da integração, quando adequado, das redes de vigilância existentes que beneficiem do apoio da Comunidade e pela constituição de novas redes para as doenças ainda não abrangidas pelas redes de vigilância. Se o número reduzido de casos de uma doença não permitir a constituição de uma rede de vigilância específica para essa doença, as informações relativas à vigilância no âmbito da rede comunitária serão partilhadas com base em relatórios de casos.\n\n2. As doenças transmissíveis e os problemas de saúde especiais para os quais já foi criada uma rede de vigilância específica são assinalados com um asterisco no anexo I.\n\nOs Estados-Membros devem especificar, por intermédio das suas estruturas e/ou autoridades designadas, um ponto de contacto para cada rede de vigilância específica, ao qual será delegada a função de representante nacional, tendo por atribuição fornecer dados e informações em conformidade com os artigos 3.º e 4.º da Decisão n.º 2119/98/CE.\n\nCada rede de vigilância específica que procederá à recolha dos dados de vigilância e das informações relevantes, assegurará a coordenação desta estrutura e deverá comunicá-los, sem atraso, à rede comunitária.\n\nA rede de vigilância específica comunicará também à rede comunitária os procedimentos operacionais, abordando, no mínimo, os tópicos mencionados no anexo III."
+  },
+  "bea93922fa5c4aeb": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nProceder-se-á à determinação de definições de casos, natureza e tipo de dados para recolha e transmissão bem como dos métodos adequados de vigilância epidemiológica e microbiológica relativamente a cada rede de vigilância específica integrada na rede comunitária ou criada no seu âmbito. Proceder-se-á ainda à definição de casos e de métodos de vigilância relativamente às doenças cujas informações são partilhadas apenas com base em relatórios de casos."
+  },
+  "5f34202790ff7bcf": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros divulgarão na rede comunitária as informações úteis de que disponham, detectadas através dos respectivos sistemas de vigilância nacionais, sobre doenças transmissíveis ou problemas de saúde especiais seleccionados para vigilância epidemiológica, que ainda não estejam abrangidas por disposições de redes de vigilância específicas."
+  },
+  "050b32a632b258f2": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs informações úteis sobre doenças transmissíveis não enumeradas no anexo I serão difundidas através da rede comunitária, nos termos do disposto no artigo 4.º da Decisão n.º 2119/98/CE, sempre que tal se revelar necessário a fim de proteger a saúde pública na Comunidade."
+  },
+  "fd2438d7b10fa667": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nQuando se criarem redes de vigilância específicas destinadas a zoonoses para as quais seja necessária a vigilância de casos em seres humanos, nos termos da Directiva 92/117/CEE, esta vigilância far-se-á em conformidade com a Decisão n.º 2119/98/CE e os dados necessários à aplicação da Directiva 92/117/CEE serão inteiramente disponibilizados para esse objectivo. Para o efeito, proceder-se-á, na medida do possível, à definição de casos e de métodos de vigilância da doença no ser humano, de forma a que os dados recolhidos correspondam também aos objectivos da Directiva 92/117/CEE."
+  },
+  "974e3f5413f786f6": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs autoridades competentes dos Estados-Membros comunicarão à Comissão outras doenças e problemas de saúde especiais cuja vigilância epidemiológica se desenvolverá progressivamente a nível da Comunidade com base nos critérios enumerados no anexo II."
+  },
+  "5f6ce00c55b54d9c": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA presente decisão produz efeitos em 1 de Janeiro de 2000."
+  },
+  "2188c5aae4e811a3": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Estados-Membros são os destinatários da presente decisão."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "15aee2999b523785": {
+   "fragment_id": "1. DOENÇAS TRANSMISSÍVEIS E PROBLEMAS DE SAÚDE ESPECIAIS QUE DEVERÃO SER PROGRESSIVAMENTE ABRANGIDOS PELA REDE COMUNITÁRIA",
+   "type": "divisao",
+   "heading": "1. DOENÇAS TRANSMISSÍVEIS E PROBLEMAS DE SAÚDE ESPECIAIS QUE DEVERÃO SER PROGRESSIVAMENTE ABRANGIDOS PELA REDE COMUNITÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. DOENÇAS TRANSMISSÍVEIS E PROBLEMAS DE SAÚDE ESPECIAIS QUE DEVERÃO SER PROGRESSIVAMENTE ABRANGIDOS PELA REDE COMUNITÁRIA"
+  },
+  "8c7903c7e9200358": {
+   "fragment_id": "1.1. Relativamente às doenças transmissíveis e aos problemas de saúde especiais enumerados infra, a vigilância epidemiológica no âmbito da rede comunitária será realizada por recolha e análise normalizadas de dados, de uma forma que será determinada para cada doença transmissível e problema de saúde especial quando forem implementadas redes de vigilância específicas da União Europeia.",
+   "type": "divisao",
+   "heading": "1.1. Relativamente às doenças transmissíveis e aos problemas de saúde especiais enumerados infra, a vigilância epidemiológica no âmbito da rede comunitária será realizada por recolha e análise normalizadas de dados, de uma forma que será determinada para cada doença transmissível e problema de saúde especial quando forem implementadas redes de vigilância específicas da União Europeia.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.1. Relativamente às doenças transmissíveis e aos problemas de saúde especiais enumerados infra, a vigilância epidemiológica no âmbito da rede comunitária será realizada por recolha e análise normalizadas de dados, de uma forma que será determinada para cada doença transmissível e problema de saúde especial quando forem implementadas redes de vigilância específicas da União Europeia."
+  },
+  "34eb5fd0eab793ed": {
+   "fragment_id": "2. DOENÇAS",
+   "type": "divisao",
+   "heading": "2. DOENÇAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. DOENÇAS"
+  },
+  "a129ad11a8b8e488": {
+   "fragment_id": "2.1. Doenças de prevenção vacinal",
+   "type": "divisao",
+   "heading": "2.1. Doenças de prevenção vacinal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Doenças de prevenção vacinal\n\nDifteria\n\nInfecções por *Haemophilus influenzae* do grupo B ([^4^](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#E0004))\n\nGripe [(4)](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#E0004)\n\nSarampo [(4)](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#E0004)\n\nPapeira\n\nTosse convulsa [(4)](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#E0004)\n\nPoliomielite\n\nRubéola\n\nVaríola\n\nTétano"
+  },
+  "9e87566ef4161d01": {
+   "fragment_id": "2.2. Doenças sexualmente transmissíveis",
+   "type": "divisao",
+   "heading": "2.2. Doenças sexualmente transmissíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2. Doenças sexualmente transmissíveis\n\nInfecções por clamídias\n\nInfecções gonocócicas\n\nInfecção pelo VIH [(4)](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#E0004)\n\nSífilis"
+  },
+  "f32826ec2e58891c": {
+   "fragment_id": "2.3. Hepatite viral",
+   "type": "divisao",
+   "heading": "2.3. Hepatite viral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.3. Hepatite viral\n\nHepatite A\n\nHepatite B\n\nHepatite C"
+  },
+  "3ae6ccd4c932b6a4": {
+   "fragment_id": "2.4. Doenças de origem alimentar, hídrica e ambiental",
+   "type": "divisao",
+   "heading": "2.4. Doenças de origem alimentar, hídrica e ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.4. Doenças de origem alimentar, hídrica e ambiental\n\nCarbúnculo\n\nBotulismo\n\nCampilobacteriose\n\nCriptosporidiose\n\nGiardíase\n\nInfecção por *E. coli* enterohemorrágica [(4)](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#E0004)\n\nLeptospirose\n\nListeriose\n\nSalmonelose [(4)](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#E0004)\n\nShigelose\n\nToxoplasmose\n\nTriquinose\n\nInfecção por Yersinia"
+  },
+  "f12bf96f0f6f1664": {
+   "fragment_id": "2.5. Outras doenças",
+   "type": "divisao",
+   "heading": "2.5. Outras doenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.5. Outras doenças"
+  },
+  "c89472e69ab61bca": {
+   "fragment_id": "2.5.1. Doenças transmitidas por agentes não convencionais",
+   "type": "divisao",
+   "heading": "2.5.1. Doenças transmitidas por agentes não convencionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.5.1. Doenças transmitidas por agentes não convencionais\n\nEncefalopatias espongiformes transmissíveis, variante da Doença de Creutzfeldt-Jakob [(4)](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#E0004)"
+  },
+  "492990ac3cd87b68": {
+   "fragment_id": "2.5.2. Doenças transmitidas pelo ar",
+   "type": "divisao",
+   "heading": "2.5.2. Doenças transmitidas pelo ar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.5.2. Doenças transmitidas pelo ar\n\nDoença do legionário [(4)](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#E0004)\n\nDoença meningocócica [(4)](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#E0004)\n\nInfecções pneumocócicas\n\nTuberculose [(4)](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#E0004)\n\nSíndroma respiratória aguda severa (SRAS)"
+  },
+  "3cff4a65b3f6d761": {
+   "fragment_id": "2.5.3. Zoonoses (excluindo as referidas em 2.4)",
+   "type": "divisao",
+   "heading": "2.5.3. Zoonoses (excluindo as referidas em 2.4)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.5.3. Zoonoses (excluindo as referidas em 2.4)\n\nBrucelose\n\nEquinococose\n\nRaiva\n\nFebre-Q\n\nTularémia\n\nGripe aviária nos seres humanos\n\nInfecção pelo vírus do Nilo Ocidental"
+  },
+  "bfae5c283c7fe2cc": {
+   "fragment_id": "2.5.4. Doenças graves importadas",
+   "type": "divisao",
+   "heading": "2.5.4. Doenças graves importadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.5.4. Doenças graves importadas\n\nCólera\n\nPaludismo\n\nPeste\n\nFebres hemorrágicas virais"
+  },
+  "2b46fb75b5434fc4": {
+   "fragment_id": "3. PROBLEMAS DE SAÚDE ESPECIAIS",
+   "type": "divisao",
+   "heading": "3. PROBLEMAS DE SAÚDE ESPECIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. PROBLEMAS DE SAÚDE ESPECIAIS"
+  },
+  "940d22977e90bd00": {
+   "fragment_id": "3.1. Infecções nosocomiais",
+   "type": "divisao",
+   "heading": "3.1. Infecções nosocomiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1. Infecções nosocomiais"
+  },
+  "96bbed2a6c02483c": {
+   "fragment_id": "3.2. Resistência antimicrobiana [(4)](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#E0004)",
+   "type": "divisao",
+   "heading": "3.2. Resistência antimicrobiana [(4)](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#E0004)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Resistência antimicrobiana [(4)](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#E0004)"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "51b71b6a0a768465": {
+   "fragment_id": "CRITÉRIOS DE SELECÇÃO DE DOENÇAS TRANSMISSÍVEIS OU DE PROBLEMAS DE SAÚDE ESPECIAIS QUE SERÃO ABRANGIDOS PELA VIGILÂNCIA EPIDEMIOLÓGICA NO ÂMBITO DA REDE",
+   "type": "divisao",
+   "heading": "CRITÉRIOS DE SELECÇÃO DE DOENÇAS TRANSMISSÍVEIS OU DE PROBLEMAS DE SAÚDE ESPECIAIS QUE SERÃO ABRANGIDOS PELA VIGILÂNCIA EPIDEMIOLÓGICA NO ÂMBITO DA REDE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRITÉRIOS DE SELECÇÃO DE DOENÇAS TRANSMISSÍVEIS OU DE PROBLEMAS DE SAÚDE ESPECIAIS QUE SERÃO ABRANGIDOS PELA VIGILÂNCIA EPIDEMIOLÓGICA NO ÂMBITO DA REDE\n\n1. Doenças que provoquem, ou possam provocar, uma morbilidade e/ou uma mortalidade significativas em toda a Comunidade, especialmente nos casos em que a prevenção das doenças exige uma abordagem global de coordenação.\n\n2. Doenças relativamente às quais o intercâmbio de informações possa proporcionar um alerta rápido em caso de ameaça para a saúde pública.\n\n3. Doenças raras e graves que não seriam reconhecidas a nível nacional e relativamente às quais a partilha de conhecimentos permitiria a formulação de hipóteses a partir de uma base de conhecimentos mais ampla.\n\n4. Doenças para as quais existam medidas preventivas eficazes com benefício para a protecção da saúde.\n\n5. Doenças cuja comparação pelos Estados-Membros contribuiria para a avaliação de programas nacionais e comunitários."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "6bb46dc1c2b7eca4": {
+   "fragment_id": "TÓPICOS QUE OS PROCEDIMENTOS OPERACIONAIS DAS REDES DE VIGILÂNCIA ESPECÍFICAS DEVEM ABORDAR PARA APRECIAÇÃO PELA REDE COMUNITÁRIA",
+   "type": "divisao",
+   "heading": "TÓPICOS QUE OS PROCEDIMENTOS OPERACIONAIS DAS REDES DE VIGILÂNCIA ESPECÍFICAS DEVEM ABORDAR PARA APRECIAÇÃO PELA REDE COMUNITÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TÓPICOS QUE OS PROCEDIMENTOS OPERACIONAIS DAS REDES DE VIGILÂNCIA ESPECÍFICAS DEVEM ABORDAR PARA APRECIAÇÃO PELA REDE COMUNITÁRIA\n\n1. Estrutura de coordenação e processo de tomada de decisões.\n\n2. Gestão, administração e supervisão dos projectos.\n\n3. Definições de casos, natureza e tipo de dados a recolher.\n\n4. Gestão e protecção de dados, incluindo o acesso aos dados e a confidencialidade.\n\n5. Formas de tornar os dados comparáveis e compatíveis (requisitos de qualidade e validação de dados).\n\n6. Meios técnicos adequados e procedimentos de difusão e análise dos dados a nível comunitário (difusão e notificação de dados).\n\n7. Proposta de acção em matéria de saúde pública, procedimentos de controlo de infecções e procedimentos laboratoriais.\n\n---"
+  },
+  "546375d61d7ab012": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#src.E0001)) JO L 268 de 3.10.1998, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#src.E0002)) JO L 62 de 15.3.1993, p. 38.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#src.E0003)) JO L 210 de 10.8.1999, p. 12.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/314ff126-6a15-4cf0-b683-2c214cf5e606.0018.03/DOC_1#src.E0004)) As doenças transmissíveis e os problemas de saúde especiais para os quais já foi implementada uma rede de vigilância específica são assinalados com um asterisco."
+  },
+  "8f9229c2763e8aaf": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Dezembro de 1999\n\nrelativa às doenças transmissíveis que devem ser progressivamente abrangidas pela rede comunitária em aplicação da Decisão n.º 2119/98/CE do Parlamento Europeu e do Conselho\n\n[notificada com o número C(1999) 4015]\n\n(2000/96/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Decisão n.º 2119/98/CE do Parlamento Europeu e do Conselho, de 24 de Setembro de 1998, que institui uma rede de vigilância epidemiológica e de controlo das doenças transmissíveis na Comunidade ([^1^](http://publications.europa.eu/resource/cellar/7b9f639e-3ce1-4ebd-b2bd-f42a882ccfdb.0018.03/DOC_1#E0001)), e, nomeadamente, as alíneas a) a e) do seu artigo 3.º,\n\n(1) Nos termos da Decisão n.º 2119/98/CE, deve ser instituída uma rede a nível comunitário para promover a cooperação e a coordenação entre os Estados-Membros, com o apoio da Comissão, a fim de melhorar a prevenção e o controlo na Comunidade das categorias de doenças transmissíveis enumeradas no anexo à decisão. Esta rede deve ser utilizada para a vigilância epidemiológica daquelas doenças e para o estabelecimento de um sistema de alerta rápido e de resposta;\n\n(2) No que respeita à vigilância epidemiológica, a rede deve ser instituída através de uma ligação permanente, por todos os meios técnicos adequados, entre a Comissão e as estruturas e/ou autoridades que, a nível de cada Estado-Membro e sob a responsabilidade deste, são competentes a nível nacional e têm a seu cargo a recolha de informações respeitantes à vigilância epidemiológica das doenças transmissíveis;\n\n(3) As doenças e os problemas de saúde seleccionados para serem alvo de vigilância epidemiológica a nível comunitário devem reflectir as necessidades actuais da Comunidade, especialmente o valor acrescentado da vigilância a nível comunitário;\n\n(4) A lista de doenças ou problemas de saúde seleccionados para vigilância deve ser alterada em função das modificações registadas na prevalência das doenças e em resposta à emergência de novas doenças transmissíveis que constituam uma ameaça para a saúde pública;\n\n(5) A Comissão deve fornecer à rede comunitária os instrumentos informativos adequados, assegurando simultaneamente a coerência e a complementaridade com os programas e iniciativas pertinentes da Comunidade;\n\n(6) A presente decisão deve ser aplicável sem prejuízo do disposto na Directiva 92/117/CEE do Conselho de 17 de Dezembro de 1992 relativa às medidas de protecção contra zoonoses e certos agentes zoonóticos em animais e produtos de origem animal a fim de evitar focos de infecção e de intoxicação de origem alimentar ([^2^](http://publications.europa.eu/resource/cellar/7b9f639e-3ce1-4ebd-b2bd-f42a882ccfdb.0018.03/DOC_1#E0002)), com a última redacção que lhe foi dada pela Directiva 1999/72/CE do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/7b9f639e-3ce1-4ebd-b2bd-f42a882ccfdb.0018.03/DOC_1#E0003)).\n\n(7) A presente decisão deve facilitar a integração da rede comunitária em outras redes de alerta rápido instituídas aos níveis nacional ou comunitário relativamente a doenças e problemas de saúde especiais que devem ser abrangidos pelo sistema de alerta rápido e de resposta. Para efeitos da sua implementação, a rede comunitária deve, por conseguinte, funcionar com o Sistema de vigilância sanitária das doenças transmissíveis no âmbito da Rede europeia de informação em matéria de saúde pública (Euphin-HSSCD), constituído por três componentes: a) Um sistema de alerta rápido e de respsota encarregado das notificações de ameaças específicas para a população, transmitidas pelas autoridades competentes em matéria de saúde pública de cada Estado-Membro que são responsáveis pela determinação de medidas que possam ser necessárias para proteger a saúde pública; b) Intercâmbio de informações entre estruturas e autoridades acreditadas dos Estados-Membros no domínio da saúde pública; c) Redes específicas sobre doenças seleccionadas para serem alvo de vigilância epidemiológica entre estruturas e autoridades acreditadas dos Estados-Membros.\n\n(8) A evolução de novas tecnologias úteis deve ser objecto de um acompanhamento periódico e tida em consideração na melhoria do intercâmbio electrónico de informações.\n\n(9) Por razões logísticas, nem todas as doenças transmissíveis ou problemas de saúde especiais seleccionados para vigilância epidemiológica podem ser imediatamente abrangidos por disposições de redes de vigilância específicas. No entanto, a fim de que a rede comunitária possa iniciar o seu trabalho e adquirir experiência, as autoridades competentes dos Estados-Membros devem divulgar na rede comunitária as informações úteis de que disponham.\n\n(10) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité, instituído pelo artigo 7.º da Decisão n.º 2119/98/CE,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "1bdc1c99bac1d9ca": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n[**►M2**](http://publications.europa.eu/resource/celex/32003D0542) 1.**◄** A rede comunitária será implementada através da alteração e da integração, quando adequado, das redes de vigilância existentes que beneficiem do apoio da Comunidade e pela constituição de novas redes para as doenças ainda não abrangidas pelas redes de vigilância. Se o número reduzido de casos de uma doença não permitir a constituição de uma rede de vigilância específica para essa doença, as informações relativas à vigilância no âmbito da rede comunitária serão partilhadas com base em relatórios de casos.\n\nAs doenças transmissíveis e os problemas de saúde especiais para os quais já foi criada uma rede de vigilância específica são assinalados com um asterisco no anexo I.\n\nOs Estados-Membros devem especificar, por intermédio das suas estruturas e/ou autoridades designadas, um ponto de contacto para cada rede de vigilância específica, ao qual será delegada a função de representante nacional, tendo por atribuição fornecer dados e informações em conformidade com os artigos 3.º e 4.º da Decisão n.º 2119/98/CE.\n\nCada rede de vigilância específica que procederá à recolha dos dados de vigilância e das informações relevantes, assegurará a coordenação desta estrutura e deverá comunicá-los, sem atraso, à rede comunitária.\n\nA rede de vigilância específica comunicará também à rede comunitária os procedimentos operacionais, abordando, no mínimo, os tópicos mencionados no anexo III."
+  },
+  "087fc6f11546c01e": {
+   "fragment_id": "1. DOENÇAS TRANSMISSÍVEIS E PROBLEMAS DE SAÚDE ESPECIAIS A SER PROGRESSIVAMENTE ABRANGIDOS PELA REDE COMUNITÁRIA COMO SE REFERE NO ARTIGO 1.º",
+   "type": "divisao",
+   "heading": "1. DOENÇAS TRANSMISSÍVEIS E PROBLEMAS DE SAÚDE ESPECIAIS A SER PROGRESSIVAMENTE ABRANGIDOS PELA REDE COMUNITÁRIA COMO SE REFERE NO ARTIGO 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. DOENÇAS TRANSMISSÍVEIS E PROBLEMAS DE SAÚDE ESPECIAIS A SER PROGRESSIVAMENTE ABRANGIDOS PELA REDE COMUNITÁRIA COMO SE REFERE NO ARTIGO 1.º\n\n1.1. Relativamente às doenças transmissíveis e aos problemas de saúde especiais enumerados no presente anexo, a vigilância epidemiológica no âmbito da rede comunitária será realizada por recolha e análise normalizadas de dados, de uma forma que será determinada para cada doença transmissível e problema de saúde especial quando forem implementadas redes de vigilância específicas da União Europeia."
+  },
+  "8c9567eb02adf357": {
+   "fragment_id": "2.1. Doenças de prevenção vacinal",
+   "type": "divisao",
+   "heading": "2.1. Doenças de prevenção vacinal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Doenças de prevenção vacinal\n\nDifteria\n\nInfecções por *Haemophilus influenzae* do grupo B\n\nGripe\n\nSarampo\n\nPapeira\n\nTosse convulsa\n\nPoliomielite\n\nRubéola\n\nVaríola\n\nTétano"
+  },
+  "c061cc9837098fc9": {
+   "fragment_id": "2.2. Doenças sexualmente transmissíveis",
+   "type": "divisao",
+   "heading": "2.2. Doenças sexualmente transmissíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2. Doenças sexualmente transmissíveis\n\nInfecções por clamídias\n\nInfecções gonocócicas\n\nInfecção pelo VIH\n\nSífilis"
+  },
+  "d17d24640a435606": {
+   "fragment_id": "2.4. Doenças de origem alimentar, hídrica e ambiental",
+   "type": "divisao",
+   "heading": "2.4. Doenças de origem alimentar, hídrica e ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.4. Doenças de origem alimentar, hídrica e ambiental\n\nCarbúnculo\n\nBotulismo\n\nCampilobacteriose\n\nCriptosporidiose\n\nGiardíase\n\nInfecção por *E. coli* entero-hemorrágica\n\nLeptospirose\n\nListeriose\n\nSalmonelose\n\nShigelose\n\nToxoplasmose\n\nTriquinose\n\nInfecção por Yersinia"
+  },
+  "5ee4024d390c0369": {
+   "fragment_id": "2.5.1. Doenças transmitidas por agentes não convencionais",
+   "type": "divisao",
+   "heading": "2.5.1. Doenças transmitidas por agentes não convencionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.5.1. Doenças transmitidas por agentes não convencionais\n\nEncefalopatias espongiformes transmissíveis, variante da doença de Creutzfeldt-Jakob"
+  },
+  "b5ef59f68cdcf2ca": {
+   "fragment_id": "2.5.2. Doenças transmitidas pelo ar",
+   "type": "divisao",
+   "heading": "2.5.2. Doenças transmitidas pelo ar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.5.2. Doenças transmitidas pelo ar\n\nDoença do legionário\n\nDoença meningocócica\n\nInfecções pneumocócicas\n\nTuberculose\n\nSíndroma respiratória aguda severa (SRAS)"
+  },
+  "4f1bb821bd889e44": {
+   "fragment_id": "3. PROBLEMAS DE SAÚDE ESPECIAIS",
+   "type": "divisao",
+   "heading": "3. PROBLEMAS DE SAÚDE ESPECIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. PROBLEMAS DE SAÚDE ESPECIAIS\n\n3.1. **Infecções nosocomiais**\n\n3.2. **Resistência antimicrobiana**"
+  },
+  "6a2f3a302c92021f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7b9f639e-3ce1-4ebd-b2bd-f42a882ccfdb.0018.03/DOC_1#src.E0001)) JO L 268 de 3.10.1998, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7b9f639e-3ce1-4ebd-b2bd-f42a882ccfdb.0018.03/DOC_1#src.E0002)) JO L 62 de 15.3.1993, p. 38.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7b9f639e-3ce1-4ebd-b2bd-f42a882ccfdb.0018.03/DOC_1#src.E0003)) JO L 210 de 10.8.1999, p. 12."
+  },
+  "6199abe5d9611be1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Dezembro de 1999\n\nrelativa às doenças transmissíveis que devem ser progressivamente abrangidas pela rede comunitária em aplicação da Decisão n.º 2119/98/CE do Parlamento Europeu e do Conselho\n\n[notificada com o número C(1999) 4015]\n\n(2000/96/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Decisão n.º 2119/98/CE do Parlamento Europeu e do Conselho, de 24 de Setembro de 1998, que institui uma rede de vigilância epidemiológica e de controlo das doenças transmissíveis na Comunidade ([^1^](http://publications.europa.eu/resource/cellar/dabdb4cd-482f-40e9-b7c9-c5dc65a7ccc3.0018.03/DOC_1#E0001)), e, nomeadamente, as alíneas a) a e) do seu artigo 3.º,\n\n(1) Nos termos da Decisão n.º 2119/98/CE, deve ser instituída uma rede a nível comunitário para promover a cooperação e a coordenação entre os Estados-Membros, com o apoio da Comissão, a fim de melhorar a prevenção e o controlo na Comunidade das categorias de doenças transmissíveis enumeradas no anexo à decisão. Esta rede deve ser utilizada para a vigilância epidemiológica daquelas doenças e para o estabelecimento de um sistema de alerta rápido e de resposta;\n\n(2) No que respeita à vigilância epidemiológica, a rede deve ser instituída através de uma ligação permanente, por todos os meios técnicos adequados, entre a Comissão e as estruturas e/ou autoridades que, a nível de cada Estado-Membro e sob a responsabilidade deste, são competentes a nível nacional e têm a seu cargo a recolha de informações respeitantes à vigilância epidemiológica das doenças transmissíveis;\n\n(3) As doenças e os problemas de saúde seleccionados para serem alvo de vigilância epidemiológica a nível comunitário devem reflectir as necessidades actuais da Comunidade, especialmente o valor acrescentado da vigilância a nível comunitário;\n\n(4) A lista de doenças ou problemas de saúde seleccionados para vigilância deve ser alterada em função das modificações registadas na prevalência das doenças e em resposta à emergência de novas doenças transmissíveis que constituam uma ameaça para a saúde pública;\n\n(5) A Comissão deve fornecer à rede comunitária os instrumentos informativos adequados, assegurando simultaneamente a coerência e a complementaridade com os programas e iniciativas pertinentes da Comunidade;\n\n(6) A presente decisão deve ser aplicável sem prejuízo do disposto na Directiva 92/117/CEE do Conselho de 17 de Dezembro de 1992 relativa às medidas de protecção contra zoonoses e certos agentes zoonóticos em animais e produtos de origem animal a fim de evitar focos de infecção e de intoxicação de origem alimentar ([^2^](http://publications.europa.eu/resource/cellar/dabdb4cd-482f-40e9-b7c9-c5dc65a7ccc3.0018.03/DOC_1#E0002)), com a última redacção que lhe foi dada pela Directiva 1999/72/CE do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/dabdb4cd-482f-40e9-b7c9-c5dc65a7ccc3.0018.03/DOC_1#E0003)).\n\n(7) A presente decisão deve facilitar a integração da rede comunitária em outras redes de alerta rápido instituídas aos níveis nacional ou comunitário relativamente a doenças e problemas de saúde especiais que devem ser abrangidos pelo sistema de alerta rápido e de resposta. Para efeitos da sua implementação, a rede comunitária deve, por conseguinte, funcionar com o Sistema de vigilância sanitária das doenças transmissíveis no âmbito da Rede europeia de informação em matéria de saúde pública (Euphin-HSSCD), constituído por três componentes: a) Um sistema de alerta rápido e de respsota encarregado das notificações de ameaças específicas para a população, transmitidas pelas autoridades competentes em matéria de saúde pública de cada Estado-Membro que são responsáveis pela determinação de medidas que possam ser necessárias para proteger a saúde pública; b) Intercâmbio de informações entre estruturas e autoridades acreditadas dos Estados-Membros no domínio da saúde pública; c) Redes específicas sobre doenças seleccionadas para serem alvo de vigilância epidemiológica entre estruturas e autoridades acreditadas dos Estados-Membros.\n\n(8) A evolução de novas tecnologias úteis deve ser objecto de um acompanhamento periódico e tida em consideração na melhoria do intercâmbio electrónico de informações.\n\n(9) Por razões logísticas, nem todas as doenças transmissíveis ou problemas de saúde especiais seleccionados para vigilância epidemiológica podem ser imediatamente abrangidos por disposições de redes de vigilância específicas. No entanto, a fim de que a rede comunitária possa iniciar o seu trabalho e adquirir experiência, as autoridades competentes dos Estados-Membros devem divulgar na rede comunitária as informações úteis de que disponham.\n\n(10) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité, instituído pelo artigo 7.º da Decisão n.º 2119/98/CE,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "d46fee4ba3ceb782": {
+   "fragment_id": "2.1. Doenças de prevenção vacinal",
+   "type": "divisao",
+   "heading": "2.1. Doenças de prevenção vacinal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Doenças de prevenção vacinal\n\nDifteria\n\nInfecções por *Haemophilus influenzae* do grupo B\n\nGripe, incluindo a gripe A(H1N1)\n\nSarampo\n\nPapeira\n\nTosse convulsa\n\nPoliomielite\n\nRubéola\n\nVaríola\n\nTétano"
+  },
+  "451e18634bc04f42": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/dabdb4cd-482f-40e9-b7c9-c5dc65a7ccc3.0018.03/DOC_1#src.E0001)) JO L 268 de 3.10.1998, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/dabdb4cd-482f-40e9-b7c9-c5dc65a7ccc3.0018.03/DOC_1#src.E0002)) JO L 62 de 15.3.1993, p. 38.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/dabdb4cd-482f-40e9-b7c9-c5dc65a7ccc3.0018.03/DOC_1#src.E0003)) JO L 210 de 10.8.1999, p. 12."
+  },
+  "70a8076e2137b07f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Dezembro de 1999\n\nrelativa às doenças transmissíveis que devem ser progressivamente abrangidas pela rede comunitária em aplicação da Decisão n.º 2119/98/CE do Parlamento Europeu e do Conselho\n\n[notificada com o número C(1999) 4015]\n\n(2000/96/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Decisão n.º 2119/98/CE do Parlamento Europeu e do Conselho, de 24 de Setembro de 1998, que institui uma rede de vigilância epidemiológica e de controlo das doenças transmissíveis na Comunidade ([^1^](http://publications.europa.eu/resource/cellar/36ad0665-190a-4314-8f72-e8fe2947ee87.0018.03/DOC_1#E0001)), e, nomeadamente, as alíneas a) a e) do seu artigo 3.º,\n\n(1) Nos termos da Decisão n.º 2119/98/CE, deve ser instituída uma rede a nível comunitário para promover a cooperação e a coordenação entre os Estados-Membros, com o apoio da Comissão, a fim de melhorar a prevenção e o controlo na Comunidade das categorias de doenças transmissíveis enumeradas no anexo à decisão. Esta rede deve ser utilizada para a vigilância epidemiológica daquelas doenças e para o estabelecimento de um sistema de alerta rápido e de resposta;\n\n(2) No que respeita à vigilância epidemiológica, a rede deve ser instituída através de uma ligação permanente, por todos os meios técnicos adequados, entre a Comissão e as estruturas e/ou autoridades que, a nível de cada Estado-Membro e sob a responsabilidade deste, são competentes a nível nacional e têm a seu cargo a recolha de informações respeitantes à vigilância epidemiológica das doenças transmissíveis;\n\n(3) As doenças e os problemas de saúde seleccionados para serem alvo de vigilância epidemiológica a nível comunitário devem reflectir as necessidades actuais da Comunidade, especialmente o valor acrescentado da vigilância a nível comunitário;\n\n(4) A lista de doenças ou problemas de saúde seleccionados para vigilância deve ser alterada em função das modificações registadas na prevalência das doenças e em resposta à emergência de novas doenças transmissíveis que constituam uma ameaça para a saúde pública;\n\n(5) A Comissão deve fornecer à rede comunitária os instrumentos informativos adequados, assegurando simultaneamente a coerência e a complementaridade com os programas e iniciativas pertinentes da Comunidade;\n\n(6) A presente decisão deve ser aplicável sem prejuízo do disposto na Directiva 92/117/CEE do Conselho de 17 de Dezembro de 1992 relativa às medidas de protecção contra zoonoses e certos agentes zoonóticos em animais e produtos de origem animal a fim de evitar focos de infecção e de intoxicação de origem alimentar ([^2^](http://publications.europa.eu/resource/cellar/36ad0665-190a-4314-8f72-e8fe2947ee87.0018.03/DOC_1#E0002)), com a última redacção que lhe foi dada pela Directiva 1999/72/CE do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/36ad0665-190a-4314-8f72-e8fe2947ee87.0018.03/DOC_1#E0003)).\n\n(7) A presente decisão deve facilitar a integração da rede comunitária em outras redes de alerta rápido instituídas aos níveis nacional ou comunitário relativamente a doenças e problemas de saúde especiais que devem ser abrangidos pelo sistema de alerta rápido e de resposta. Para efeitos da sua implementação, a rede comunitária deve, por conseguinte, funcionar com o Sistema de vigilância sanitária das doenças transmissíveis no âmbito da Rede europeia de informação em matéria de saúde pública (Euphin-HSSCD), constituído por três componentes: a) Um sistema de alerta rápido e de respsota encarregado das notificações de ameaças específicas para a população, transmitidas pelas autoridades competentes em matéria de saúde pública de cada Estado-Membro que são responsáveis pela determinação de medidas que possam ser necessárias para proteger a saúde pública; b) Intercâmbio de informações entre estruturas e autoridades acreditadas dos Estados-Membros no domínio da saúde pública; c) Redes específicas sobre doenças seleccionadas para serem alvo de vigilância epidemiológica entre estruturas e autoridades acreditadas dos Estados-Membros.\n\n(8) A evolução de novas tecnologias úteis deve ser objecto de um acompanhamento periódico e tida em consideração na melhoria do intercâmbio electrónico de informações.\n\n(9) Por razões logísticas, nem todas as doenças transmissíveis ou problemas de saúde especiais seleccionados para vigilância epidemiológica podem ser imediatamente abrangidos por disposições de redes de vigilância específicas. No entanto, a fim de que a rede comunitária possa iniciar o seu trabalho e adquirir experiência, as autoridades competentes dos Estados-Membros devem divulgar na rede comunitária as informações úteis de que disponham.\n\n(10) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité, instituído pelo artigo 7.º da Decisão n.º 2119/98/CE,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "05ffc060b2b4112e": {
+   "fragment_id": "2.5.5. Doenças transmitidas por vetores",
+   "type": "divisao",
+   "heading": "2.5.5. Doenças transmitidas por vetores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.5.5. Doenças transmitidas por vetores\n\nEncefalite da carraça"
+  },
+  "09e1e3a4b199edd7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/36ad0665-190a-4314-8f72-e8fe2947ee87.0018.03/DOC_1#src.E0001)) JO L 268 de 3.10.1998, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/36ad0665-190a-4314-8f72-e8fe2947ee87.0018.03/DOC_1#src.E0002)) JO L 62 de 15.3.1993, p. 38.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/36ad0665-190a-4314-8f72-e8fe2947ee87.0018.03/DOC_1#src.E0003)) JO L 210 de 10.8.1999, p. 12."
+  },
+  "14f8bd1bcf44c315": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02000D0096 — PT — 26.07.2018 — 007.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32000D0096) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/32000D0096) [de 22 de Dezembro de 1999](http://publications.europa.eu/resource/celex/32000D0096) [relativa às doenças transmissíveis que devem ser progressivamente abrangidas pela rede comunitária em aplicação da Decisão n.º 2119/98/CE do Parlamento Europeu e do Conselho](http://publications.europa.eu/resource/celex/32000D0096) [[notificada com o número C(1999) 4015]](http://publications.europa.eu/resource/celex/32000D0096) [(2000/96/CE)](http://publications.europa.eu/resource/celex/32000D0096) (JO L 028, 3.2.2000, p.50)\n\n**Revogada por:**\n\n- [Decisão de Execução (UE) 2018/945 da Comissão de 22 de junho de 2018](http://publications.europa.eu/resource/celex/32018D0945) — L 170 — 1 — 6.7.2018"
+  }
+ }
+}

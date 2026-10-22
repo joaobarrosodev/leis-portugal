@@ -1,0 +1,209 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31976L0760:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0760-20141101",
+ "dre_path": null,
+ "source_lastmod": "2014-11-01",
+ "versions": [
+  {
+   "date": "1976-09-27",
+   "future": false,
+   "celex": "31976L0760",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "eee4e0b625d933e8",
+    "b84c77a7148327a4",
+    "dd62f0d6a5770ac4",
+    "beb8daac7cf1f9b7",
+    "d6adaf4ef9dc7a99",
+    "99a6efa3ff25b7f3",
+    "492e3f83e01e9fa8",
+    "b8a87782cb543c50",
+    "590b8f4aa0dc2954",
+    "c7c59818c8f71eb2",
+    "1028afdeb6bdfeae",
+    "f44b937851f16172",
+    "5fe3392185715350",
+    "86ba1951cac89479",
+    "926117e10de9a70f",
+    "44420fd505fc2fae",
+    "da71b24473f0da12"
+   ]
+  },
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "celex": "01976L0760-20141101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º.",
+    "Suprime Artigo 2º.",
+    "Suprime Artigo 3º.",
+    "Suprime Artigo 4º.",
+    "Suprime Artigo 5º.",
+    "Suprime Artigo 6º.",
+    "Suprime Artigo 7º.",
+    "Suprime Artigo 8º.",
+    "Suprime Artigo 9º.",
+    "Suprime Artigo 10º.",
+    "Suprime Artigo 11º.",
+    "Suprime Artigo 12º.",
+    "Suprime ANEXO I CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO",
+    "Suprime ANEXO II MODELO DE FICHA DE HOMOLOGAÇÃO CEE (Formato máximo: A4 (210 × 297 mm) — >PIC FILE= \"T0009425\">",
+    "Suprime ANEXO III PONTOS DE MEDIÇÃO PARA O ENSAIO — a) Dispositivos destinados à iluminação de um espaço alto. (340 × 240 mm) >PIC FILE= \"T0009426\">",
+    "Suprime ANEXO IV CAMPO MINIMO DE VISIBILIDADE DA SUPERFICIE DESTINADA A SER ILUMINADA"
+   ],
+   "fragments": [
+    "484d4678ecfda5b6"
+   ]
+  }
+ ],
+ "fragments": {
+  "eee4e0b625d933e8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 76/760/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-Membros respeitantes aos dispositivos de iluminação da chapa de matrícula da retaguarda dos veículos a motor e seus reboques** *Jornal Oficial nº L 262 de 27/09/1976 p. 0085 - 0095 Edição especial finlandesa: Capítulo 13 Fascículo 5 p. 0114 Edição especial grega: Capítulo 13 Fascículo 4 p. 0056 Edição especial sueca: Capítulo 13 Fascículo 5 p. 0114 Edição especial espanhola: Capítulo 13 Fascículo 5 p. 0124 Edição especial portuguesa: Capítulo 13 Fascículo 5 p. 0124*\n\nDIRECTIVA DO CONSELHO de 27 de Julho de 1976 relativa à aproximação das legislações dos Estados-membros respeitantes aos dispositivos de iluminação da chapa de matrícula da retaguarda dos veículos a motor e seus reboques (76/760/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100º.,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que as prescrições técnicas exigidas para os veículos a motor pelas legislações nacionais respeitam, nomeadamente, aos dispositivos de iluminação da chapa de matrícula da retaguarda;\n\nConsiderando que essas prescrições diferem de um Estado-membro para outro; que dai resulta a necessidade de que sejam adoptadas as mesmas prescrições por todos os Estados-membros, quer em complemento, quer em substituição das suas regulamentações actuais, tendo em vista nomeadamente permitir a aplicação, para cada modelo de veículo, do processo de recepção CEE que é objecto da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques (3);\n\nConsiderando que, pela Directiva 76/756/CEE (4), o conselho adoptou as prescrições comuns respeitantes à instalação dos dispositivos de iluminação e de sinalizaçção luminosa dos veículos a motor e seus reboques;\n\nConsiderando que, por um processo de homologação harmonizada dos dispositivos de iluminação da chapa de matrícula da retaguarda, cada Estado-membros terá a possibilidade de verificar o cumprimento das prescrições comuns de construção e de ensaio, e de informar os outros Estados-membros da verificação feita pelo envio de uma cópia da ficha de homologação estabelecida para cada tipo de dispositivo de iluminação da chapa de matrícula da retaguarda; que a aposição de uma marca de homologação CEE em todos os dispositivos fabricados em conformidade com o tipo homologado torna desnecessário um controlo técnico destes dispositivos nos outros Estados-membros;\n\nConsiderando que convém ter em conta certas prescrições técnicas adoptadas pela Comissão Económica para a Europa da ONU no seu Regulamento nº. 4 [Prescriçõas uniformes relativas à homologação dos dispositivos de iluminação da chapa de matrícula dos veículos a motor (com excepção dos motociclos) e seus reboques] (5), anexado ao Acordo, de 20 de Março de 1958, relativo à adopção de condições uniformes de homologação e ao reconhecimento recíproco da homologação de equipamentos e peças dos veículos a motor;\n\nConsiderando que a aproximação das legislações nacionais relativas aos veículos a motor implica um reconhecimento recíproco pelos Estados-membros dos controlos efectuados por cada um deles com base nas prescrições comuns,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b84c77a7148327a4": {
+   "fragment_id": "Artigo 1º.",
+   "type": "artigo",
+   "heading": "Artigo 1º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º.\n\n1. Cada Estados-membro procederá à homologação CEE de qualquer tipo de dispositivo de iluminação da chapa de matrícula da retaguarda que esteja em conformidade com as prescrições de contrução e de ensaio constantes dos Anexos 0, I, III e IV.\n\n2. O Estado-membro que tiver procedido à homologação CEE tomará as medidas necessárias para controlar, tanto quanto necessário, a conformidade da produção com o tipo homologado, se for caso disso em colaboração com as autoridades competentes dos outros Estados-membros. Este controlo limitar-se-á a amostragens. (1)JO nº. C 76 de 7.4.1975, p. 37. (2)JO nº. C 248 de 29.10.1975, p. 23. (3)JO nº. L 42 de 23.2.1970, p. 1. (4)JO nº. L 262 de 27.9.1976, p. 1. (5)Documento da Comissão Económica para a Europa E/ECE/324 Add. 3 Amend. 1 29.10.1975."
+  },
+  "dd62f0d6a5770ac4": {
+   "fragment_id": "Artigo 2º.",
+   "type": "artigo",
+   "heading": "Artigo 2º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º.\n\nOs Estados-membros atribuirão ao fabricante ou ao seu mandatário uma marca de homologação CEE conforme os modelos estabelecidos no Anexo I para cada tipo de dispositivo de iluminação da chapa de matrícula da retaguarda que homologuem por força do artigo 1º..\n\nOs Estados-membros tomarão todas as disposições necessárias para impedir a utilização de marcas que possam criar confusões entre os dispositivos de iluminação da chapa de matrícula da retaguarda cujo tipo tenha sido homologado por força do artigo 1º. e outros dispositivos."
+  },
+  "beb8daac7cf1f9b7": {
+   "fragment_id": "Artigo 3º.",
+   "type": "artigo",
+   "heading": "Artigo 3º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º.\n\n1. Os Estados-membros não podem proibir a colocação no mercado de dispositivos de iluminação da chapa de matrícula da retaguarda por motivos relacionados com a sua construção ou o seu funcionamento, se estes ostentarem a marca de homologação CEE.\n\n2. Contudo, um Estado-membro pode proibir a colocação no mercado de dispositivos de iluminação da chapa de matrícula da retaguarda que ostentem a marca de homologação CEE mas que, de forma sistemática, não sejam conformes ao tipo homologado.\n\nEsse Estado informará imediatamente os outros Estados-membros e a Comissão das medidas tomadas, especificando os motivos da sua decisão."
+  },
+  "d6adaf4ef9dc7a99": {
+   "fragment_id": "Artigo 4º.",
+   "type": "artigo",
+   "heading": "Artigo 4º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º.\n\nAs autoridades competentes de cada Estado-membro enviarão às dos outros Estados-membros, no prazo de um mês, uma cópia das fichas de homologação, cujo modelo figura no Anexo II, estabelecidas para cada tipo de dispositivo de iluminação da chapa de matrícula da retaguarda que homologuem ou recusem homologar."
+  },
+  "99a6efa3ff25b7f3": {
+   "fragment_id": "Artigo 5º.",
+   "type": "artigo",
+   "heading": "Artigo 5º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º.\n\n1. Se o Estado-membro que procedeu à homologação CEE verificar que vários dispositivos de iluminação da chapa de matrícula da retaguarda que ostentam a mesma marca de homologação CEE não são conformes com o tipo que homologou, tomará as medidas necessárias para que a conformidade da produção com o tipo homologado seja assegurada. As autoridades competentes deste Estado avisarão as dos outros Estados-membros das medidas tomadas, que podem ir até à revogação da homologação CEE quando a não conformidade for sistemática. As referidas autoridades tomarão as mesmas disposições se forem informadas pelas autoridades competentes de um outro Estado-membro da existência de tal falta de conformidade.\n\n2. As autoridades competentes dos Estados-membros informar-se-ão mutuamente, no prazo de um mês, da revogação de uma homologação CEE concedida, bem como dos motivos que justificam essa medida."
+  },
+  "492e3f83e01e9fa8": {
+   "fragment_id": "Artigo 6º.",
+   "type": "artigo",
+   "heading": "Artigo 6º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º.\n\nQualquer decisão de recusa ou revogação da homologação ou de proibição da colocação no mercado ou da utilização, tomada por força das disposições adoptadas em execução da presente directiva, será fundamentada de forma precisa. Será notificada ao interessado, com a indicação das vias de recurso previstas na legislação em vigor nos Estados-membros e dos prazos nos quais estes recursos podem ser interpostos."
+  },
+  "b8a87782cb543c50": {
+   "fragment_id": "Artigo 7º.",
+   "type": "artigo",
+   "heading": "Artigo 7º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º.\n\nOs Estados-membros não podem recusar a recepção CEE nem a recepção de âmbito nacional de um veículo por motivos relacionados com os dispositivos da chapa de matrícula da retaguarda, se estes ostentarem a marca de homologação CEE e se estiverem montados em conformidade com as prescrições constantes da Directiva 76/756/CEE."
+  },
+  "590b8f4aa0dc2954": {
+   "fragment_id": "Artigo 8º.",
+   "type": "artigo",
+   "heading": "Artigo 8º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º.\n\nOs Estados-membros não podem recusar ou proibir a venda, a matrícula, a entrada em circulação ou a utilização de um veículo por motivos relacionados com os dispositivos da chapa de matrícula da retaguarda, se estes ostentarem a marca de homologação CEE e estiverem montados em conformidade com as prescrições da Directiva 76/756/CEE."
+  },
+  "c7c59818c8f71eb2": {
+   "fragment_id": "Artigo 9º.",
+   "type": "artigo",
+   "heading": "Artigo 9º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º.\n\nPara efeitos do disposto na presente directiva, entende-se por veículo qualquer veículo a motor destinado a transitar na estrada, com ou sem carroçaria, tendo pelo menos quatro rodas e uma velocidade máxima, por construção, superior a 25 Km/h, assim como os seus reboques, com excepção dos veículos que se deslocam sobre carris, dos tractores e máquinas agrícolas, bem com das máquinas de obras públicas."
+  },
+  "1028afdeb6bdfeae": {
+   "fragment_id": "Artigo 10º.",
+   "type": "artigo",
+   "heading": "Artigo 10º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º.\n\nAs alterações necessárias para adaptar ao progresso técnico as prescrições dos anexos serão adoptadas em conformidade com o procedimento previsto no Artigo 13º. da Directiva 70/156/CEE."
+  },
+  "f44b937851f16172": {
+   "fragment_id": "Artigo 11º.",
+   "type": "artigo",
+   "heading": "Artigo 11º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º.\n\n1. Os Estados-membros adoptarão a publicarão, antes de 1 de Julho de 1977, as disposições necessárias para darem cumprimento à presente directiva e desse facto informarão imediatamente a Comissão. Aplicarão estas disposições o mais tardar a partir de 1 de Outubro de 1977.\n\n2. A partir da notificação da presente directiva, os Estados-membros devem assegurar que a Comissão seja informada, em tempo útil que lhe permita apresentar as suas observações, de qualquer projecto de disposições de natureza legislativa, regulamentar ou administrativa que tenham a intenção de adoptar no domínio regulado pela presente directiva."
+  },
+  "5fe3392185715350": {
+   "fragment_id": "Artigo 12º.",
+   "type": "artigo",
+   "heading": "Artigo 12º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º.\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 27 de Julho de 1976.\n\nPelo Conselho\n\nO Presidente\n\nM. van der STOEL\n\nLista dos anexos\n\n>PIC FILE= \"T9000989\">\n\nANEXO 0 DEFINIÇÃO, ESPECIFICAÇÕES GERAIS, COR DA LUZ EMITIDA, INCIDÊNCIA DA LUZ EMITIDA, MÉTODO DE MEDIÇÃO, CARACTERÍSTICAS FOTOMÉTRICAS, CONFORMIDADE DA PRODUÇÃO\n\n1. DEFINIÇÃO 1.1. Dispositivo de iluminação da chapa de matrícula da retaguarda\n\nPor dispositivo de iluminação da chapa de matrícula da retaguarda entende-se o dispositivo utilizado para iluminar o local destinado à chapa de matrícula da retaguarda; pode ser constituído por diferentes elementos ópticos.\n\n(2.)\n\n(3.)\n\n(4.)\n\n5. ESPECIFICAÇÕES GERAIS\n\nCada uma das amostras deve corresponder às especificações de iluminação indicadas no ponto 9 (1).\n\nA construção do dispositivo de iluminação deve ser feita de tal forma que a superfície destinada a ser iluminada se mantenha visível da retaguarda em toda a sua superfície no campo definido no desenho do Anexo IV.\n\nTodas as medições serão efectuadas regulando a lâmpada ou as lâmpadas do dispositivo de iluminação para o fluxo luminoso mínimo prescrito para a tensão de ensaio pela norma prevista para a lâmpada ou lâmpadas do dispositivo.\n\n6. COR DA LUZ EMITIDA\n\nA cor da luz emitida pela lâmpada do dispositivo de iluminação deve ser branca mas suficientemente neutra para não alterar sensivelmente a cor da chapa de matrícula. (1). Estas especificações permitem assegurar uma boa visibilidade do número de matrícula quando, no veículo, a inclinação do número não ultrapassar 30º. de um lado ou outro da vertical.\n\n7. INCIDÊNCIA DA LUZ EMITIDA\n\nO fabricante do dispositivo de iluminação determinará as condições de instalação deste dispositivo em relação local destinado à chapa de matrícula: este dispositivo deve ocupar uma posição tal que, em nenhum dos pontos da superfície a iluminar, o ângulo de incidência da luz na superfície de chapa seja superior à 82º., sendo este ângulo medido em relação à extremidade da superfície iluminante do dispositivo mais afastada da superfície da chapa. Quando um dispositivo contiver várias luzes, esta exigência só se aplica à parte da chapa destinada a ser iluminada pela respectiva luz.\n\nO dispositivo deve ser concebido de tal forma que nenhum raio de luz esteja dirigido directamente para trás, com excepção de raios de luz vermelha no caso em que o dispositivo esteja combinado ou agrupado com uma luz da retaguarda.\n\n8. MÉTODO DE MEDIÇÃO\n\nAs luminâncias serão medidas numa folha de papel mata-borrão branco baço com um factor de reflexão difusa de 70 % pelo menos e dimensões iguais às da chapa de matrícula e colocado no local que ocuparia normalmente a placa 2 mm à frente do seu suporte.\n\nAs luminâncias serão medidas perpendicularmente à superfície do papel nos pontos cuja posição, em função do destino do dispositivo, é indicada no Anexo III, representando cada ponto uma zona circular de 25 mm de diâmetro.\n\n9. CARACTERISTICAS FOTOMÉTRICAS\n\nA luminância B deve ser pelo menos igual a 2,5 cd/m2 em cada um dos pontos de medição definidos no Anexo III.\n\n>PIC FILE= \"T0009423\"> 10. CONFORMIDADE DA PRODUÇÃO\n\nQualquer dispositivo de iluminação contendo uma marca de homologação CEE deve estar em conformidade com o modelo homologado.\n\nPara um dispositivo qualquer retirado de um fabrico em série, a luminância B não pode ser inferior a 2 cd/m2 e, na fórmula do gradiente, o factor 2 pode ser substituído por 3.\n\n(11.)"
+  },
+  "86ba1951cac89479": {
+   "fragment_id": "ANEXO I CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO I CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO\n\n1. PEDIDO DE HOMOLOGAÇÃO CEE 1.1. O pedido de homologação CEE será apresentado pelo detentor da marca de fabrico ou comercial, ou pelo seu mandatário.\n\n1.2. Para cada tipo de dispositivo de iluminação da chapa de matrícula da retaguarda, o pedido será acompanhado: 1.2.1. Por uma indicação que especifique se o dispositivo de iluminação está previsto para um espaço comprido (520 × 120 mm), um espaço alto (340 × 240 mm) ou para um espaço comprido e alto simultaneamente.\n\n1.2.2. Por uma descrição técnica resumida que especifique nomeadamente o tipo e a potência da lâmpada ou das lâmpadas previstas pelo fabricante.\n\n1.2.3. Por desenhos, em triplicado, suficientemente pormenorizados para permitir a identificação do tipo e indicando as condições geométricas da instalação do dispositivo de iluminação em relação à superfície que deve receber a chapa de matrícula bem como os contornos da zona destinada a ser iluminada;\n\n1.2.4. Por duas amostras, acompanhadas pela lâmpada ou lâmpadas previstas.\n\n2. INSCRIÇÕES 2.1. As amostras de um tipo de dispositivo de iluminação da chapa de matrícula da retaguarda apresentadas à homologação CEE devem ostentar a marca de fabrico ou comercial do requerente; esta marca deve ser nitidamente legível e indelével.\n\n2.2. Cada dispositivo conterá, ao mesmo tempo no vidro e no corpo principal, um espaço de tamanho suficiente para a marca de homologação CEE; este local deve estar indicado nos desenhos referidos no ponto 1.2.3.\n\n3. HOMOLOGAÇÃO CEE 3.1. Quando todas as amostras apresentadas em conformidade com o ponto 1 corresponderem às disposições dos pontos 5, 6, 7, 8 e 9 do Anexo 0, a homologação será concedida e será atribuído um número de homologação.\n\n3.2. Este número não será atribuído a nenhum outro tipo de dispositivos de iluminação da chapa de matrícula da retaguarda.\n\n3.3. Quando a homologação CEE for pedida para um tipo de dispositivo de iluminação e de sinalização luminosa que inclua um dispositivo de iluminação da chapa de matrícula da retaguarda e outras lâmpadas, pode ser concedida uma marca de homologação CEE única desde que o dispositivo de iluminação da chapa de matrícula da retaguarda corresponda às prescrições da presente directiva, e que cada uma das outras lâmpadas que fazem parte do tipo de dispositivo de iluminação e de sinalização luminosa para o qual a homologação CEE foi pedida corresponda à directiva especial lhe seja aplicável.\n\n4. MARCAÇÃO 4.1. Qualquer dispositivo de iluminação da chapa de matrícula em conformidade com um tipo homologado por aplicação da presente directiva deve ostentar uma marca de homologação CEE.\n\n4.2. Essa marca é constituída:\n\nPor um rectângulo dentro do qual estará colocada a letra «e» minúscula, seguida pelo número ou grupo de letras distintivo do Estado-membro que tiver concedido a homologação:\n\n1 para a Alemanha\n\n2 para a Franca 3 para a Itália\n\n4 para os Países Baixos\n\n6 para a Bélgica\n\n11 para o Reino Unido\n\n13 para o Luxemburgo\n\nDK para a Dinamarca\n\nIRL para a Irlanda\n\ne por um número de homologação CEE que corresponde ao número da ficha de homologação CEE emitida para o tipo de dispositivo de iluminação.\n\n4.3. O número de homologação CEE deve estar colocado nas proximidades do rectângulo que circunscreve a letra «e», numa posição qualquer em relação a este.\n\n4.4. A marca de homologação CEE deve ser colocada no vidro ou num dos vidros, de tal forma que seja indelével e bem legível mesmo quando os dispositivos de iluminação da chapa de matrícula da retaguarda estiverem instalados no veículo.\n\n4.5. Um exemplo da marca de homologação CEE é apresentado em apêndice.\n\n4.6. No caso de atribuição de um número de homologação CEE única prevista no ponto 3.3 para um tipo de dispositivo de iluminação e de sinalização luminosa incluindo um dispositivo de iluminação da chapa de matrícula da retaguarda e outras lâmpadas, pode ser colocada uma única marca de homologação CEE, contendo: - um rectângulo dentro do qual está colocada a letra «e» seguida pelo número ou grupo de letras distintivo do Estado-membro que tiver concedido a homologação,\n\n- um número de homologação CEE,\n\n- os símbolos adicionais previstos nas várias directivas nos termos das quais a homologação CEE foi concedida.\n\n4.7. As dimensões dos vários elementos desta marca não devem ser inferiores às maiores dimensões prescritas para as marcações individuais pelas directivas nos termos das quais a homologação CEE foi concedida.\n\nApêndice EXEMPLO DE MARCA DE HOMOLOGAÇÃO CEE\n\n>PIC FILE= \"T0009424\"> O dispositivo que ostenta a marca de homologação CEE acima referido é um dispositivo de iluminação da chapa de matrícula da retaguarda cuja homologação CEE foi conoedida no Reino Unido (e 11) sob o número 1471."
+  },
+  "926117e10de9a70f": {
+   "fragment_id": "ANEXO II MODELO DE FICHA DE HOMOLOGAÇÃO CEE (Formato máximo: A4 (210 × 297 mm) — >PIC FILE= \"T0009425\">",
+   "type": "divisao",
+   "heading": "ANEXO II MODELO DE FICHA DE HOMOLOGAÇÃO CEE (Formato máximo: A4 (210 × 297 mm) — >PIC FILE= \"T0009425\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II MODELO DE FICHA DE HOMOLOGAÇÃO CEE (Formato máximo: A4 (210 × 297 mm) — >PIC FILE= \"T0009425\">"
+  },
+  "44420fd505fc2fae": {
+   "fragment_id": "ANEXO III PONTOS DE MEDIÇÃO PARA O ENSAIO — a) Dispositivos destinados à iluminação de um espaço alto. (340 × 240 mm) >PIC FILE= \"T0009426\">",
+   "type": "divisao",
+   "heading": "ANEXO III PONTOS DE MEDIÇÃO PARA O ENSAIO — a) Dispositivos destinados à iluminação de um espaço alto. (340 × 240 mm) >PIC FILE= \"T0009426\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III PONTOS DE MEDIÇÃO PARA O ENSAIO — a) Dispositivos destinados à iluminação de um espaço alto. (340 × 240 mm) >PIC FILE= \"T0009426\">\n\nb) Dispositivos destinados à iluminação de um espaço comprido (520 × 120 mm) >PIC FILE= \"T0009427\">\n\nNota: No caso dos dispositivos destinados a iluminar ao mesmo tempo um espaço alto e um espaço comprido, os pontos de medição são os que resultarem da combinação das duas figuras acima conforme o contorno indicado pelo fabricante. Contudo, no caso de dois pontos de medição distarem menos de 30 mm entre si, considera-se um único destes pontos."
+  },
+  "da71b24473f0da12": {
+   "fragment_id": "ANEXO IV CAMPO MINIMO DE VISIBILIDADE DA SUPERFICIE DESTINADA A SER ILUMINADA",
+   "type": "divisao",
+   "heading": "ANEXO IV CAMPO MINIMO DE VISIBILIDADE DA SUPERFICIE DESTINADA A SER ILUMINADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV CAMPO MINIMO DE VISIBILIDADE DA SUPERFICIE DESTINADA A SER ILUMINADA\n\n>PIC FILE= \"T0009428\"> 1. Os ângulos de campo de visibilidade acima indicados dizem respeito apenas às posições relativas do dispositivo de iluminação e do espaço reservado para a chapa de matrícula.\n\n(2.)\n\n3. Os ângulos indicados têm em conta a ocultação parcial provocada pelo dispositivo de iluminação. Devem ser respeitados nas direcções mais ocultadas. Os dispositivos de iluminação devem ser tais que reduzam ao estritamente necessário a extensão das regiões parcialmente ocultadas."
+  },
+  "484d4678ecfda5b6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1976L0760 — PT — 01.11.2014 — 009.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31976L0760) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31976L0760) [de 27 de Julho de 1976](http://publications.europa.eu/resource/celex/31976L0760) [relativa à aproximação das legislações dos Estados-membros respeitantes aos dispositivos de iluminação da chapa de matrícula da retaguarda dos veículos a motor e seus reboques](http://publications.europa.eu/resource/celex/31976L0760) [(76/760/CEE)](http://publications.europa.eu/resource/celex/31976L0760) (JO L 262, 27.9.1976, p.85)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 661/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0661) — L 200 — 1 — 31.7.2009"
+  }
+ }
+}

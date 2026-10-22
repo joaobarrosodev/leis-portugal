@@ -1,0 +1,239 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994R1627:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994R1627-20110507",
+ "dre_path": null,
+ "source_lastmod": "2011-05-07",
+ "versions": [
+  {
+   "date": "1994-07-06",
+   "future": false,
+   "celex": "31994R1627",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6064315e80580641",
+    "a4adc1077bf5f477",
+    "580192d013353244",
+    "5424e07503efca8f",
+    "d5d372f5dabb9359",
+    "1bce5e8d7376ab1f",
+    "28bebeb2623a57b1",
+    "de157789df22f4b2",
+    "44ed6eb47f50be2f",
+    "6a50df22157b1f94",
+    "768d460fdc4d22bd",
+    "f2449deb35c2659b",
+    "0e20ee33bd15877c",
+    "26dc9776ca86c1c5",
+    "2011919405fa3e33",
+    "f77154c90b58ee5e",
+    "9c7d513b03f3d11b",
+    "ef192690b532d5ef",
+    "623c9b2a4554bcf7",
+    "44d248ae92d8ce98"
+   ]
+  },
+  {
+   "date": "2011-05-07",
+   "future": false,
+   "celex": "01994R1627-20110507",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime ANEXO I — ANEXO II"
+   ],
+   "fragments": [
+    "fbff2a7bbd5f6522"
+   ]
+  }
+ ],
+ "fragments": {
+  "6064315e80580641": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 1627/94 do Conselho, de 27 de Junho de 1994, que estabelece as disposições gerais relativas às autorizações de pesca especiais** *Jornal Oficial nº L 171 de 06/07/1994 p. 0007 - 0013 Edição especial finlandesa: Capítulo 4 Fascículo 6 p. 0086 Edição especial sueca: Capítulo 4 Fascículo 6 p. 0086*\n\nREGULAMENTO (CE) Nº 1627/94 DO CONSELHO de 27 de Junho de 1994 que estabelece as disposições gerais relativas às autorizações de pesca especiais\n\nO CONSELHO DA UNIAO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que, nos termos do artigo 9º do Regulamento (CE) nº 3690/93 do Conselho, de 20 de Dezembro de 1993, que institui um regime que define as regras relativas à informação mínima que deve constar das licenças de pesca (4), o Conselho deve adoptar disposições gerais sobre autorizações de pesca especiais aplicáveis aos navios de pesca comunitários, bem como aos navios que arvorem pavilhão de um país terceiro e operem na zona da pesca comunitária;\n\nConsiderando que, nos termos dos artigos 4º e 8º do Regulamento (CEE) nº 3760/92 do Conselho, de 20 de Dezembro de 1992, que institui um regime comunitário da pesca e da aquicultura (5), o Conselho pode decidir fixar certas condições de acesso dos navios de pesca comunitários às águas e aos recursos que podem implicar a necessidade de autorizações de pesca especiais;\n\nConsiderando que cabe ao Conselho decidir, caso a caso, da definição mais adequada para uma pescaria, especificando, eventualmente e entre outras coisas, as unidades ou grupos de unidades populacionais, as zonas e/ou as artes de pesca, tendo em vista o estabelecimento de um regime de autorizações de pesca especiais para a pescaria em causa;\n\nConsiderando, no entanto, que não está actualmente demonstrada a necessidade de prever autorizações de pesca especiais para os navios pequenos que exerçam exclusivamente as suas actividades de pesca nas águas territoriais do Estado-membro de pavilhão, dado que a regulamentação do esforço de pesca desses navios poderá, se necessário, ser instituída por outros meios;\n\nConsiderando que, no âmbito dos acordos de pesca entre a Comunidade e os países terceiros, se devem sujeitar as actividades de pesca dos navios que arvorem pavilhão de um país terceiro que operem na zona de pesca comunitária a uma licença de pesca completada por uma autorização de pesca especial;\n\nConsiderando que é conveniente estabelecer, a nível comunitário, o processo de emissão e gestão pelos Estados-membros das autorizações de pesca especiais aplicáveis aos navios que arvorem o seu pavilhão e o processo de emissão e gestão pela Comissão das licenças completadas por autorizações de pesca aplicáveis aos navios que arvorem pavilhão de um país terceiro que operem na zona de pesca comunitária;\n\nConsiderando que é necessário que a Comissão possa garantir a observância do Direito Comunitário na gestão das autorizações de pesca especiais pelo Estado-membro de pavilhão;\n\nConsiderando que, para assegurar uma política coerente de conservação e gestão de recursos, há que prever processos de transmissão para as informações constantes das autorizações de pesca nacionais;\n\nConsiderando que a possibilidade de aplicar as sanções previstas no nº 3 do artigo 31º do Regulamento (CEE) nº 2847/93 do Conselho, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas (6), incluindo a possibilidade de suspender ou apreender licenças de pesca, pode contribuir para a melhoria da regulamentação da exploração dos recursos; que, nesse sentido, é importante que as autoridades competentes do Estado-membro de pavilhão possam desencadear acções de suspensão ou apreensão de autorizações de pesca especiais ao abrigo de uma decisão administrativa;\n\nConsiderando que, para o efeito, é necessário adoptar regras de aplicação relativas aos processos de informação a nível dos Estados-membros, entre as autoridades competentes para o controlo das actividades de pesca e as autoridades competentes para os processos relativos às infracções do Estado-membro de pavilhão;\n\nConsiderando que, para assegurar o controlo das actividades de pesca sujeitas a autorizações de pesca especiais, é necessário estabelecer regras gerais de cooperação entre as autoridades competentes para a emissão e gestão dessas autorizações e as autoridades responsáveis pelo controlo das actividades de pesca;\n\nConsiderando que é conveniente aplicar o disposto no artigo 13º do Regulamento (CEE) nº 3760/92 e no artigo 37º do Regulamento (CEE) nº 2847/93, relativos à confidencialidade dos dados, às informações recolhidas no âmbito do presente regulamento; que, para o efeito, os Estados-membros e a Comissão devem tomar as medidas apropriadas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "a4adc1077bf5f477": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. O presente regulamento estabelece as disposições gerais relativas:\n\na) Às autorizações de pesca especiais aplicáveis às actividades de pesca dos navios de pesca comunitários sujeitos a medidas comunitárias que regulam as condições de acesso às águas e aos recursos, adoptadas nos termos do artigos 4º e 8º do Regulamento (CEE) nº 3760/92. Sempre que decidir dessas condições de acesso, o Conselho apreciará a oportunidade de recorrer a autorizações de pesca especiais;\n\nb) Às licenças de pesca e às autorizações de pesca especiais aplicáveis aos navios que arvorem pavilhão de um país terceiro, que operem na zona de pesca comunitária no âmbito de um acordo de pesca entre a Comunidade e esse país;\n\nc) Aos processos de transmissão das informações constantes das autorizações de pesca nacionais.\n\n2. Os navios com um comprimento total inferior a 10 metros, que arvorem pavilhão de um Estado-membro e exerçam a sua actividade exclusivamente nas águas territorais do Estado-membro de pavilhão estão isentos da obrigação de possuir uma autorização de pesca especial."
+  },
+  "580192d013353244": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Para efeitos de aplicação do presente regulamento, entende-se por:\n\na) « Autorização de pesca especial », uma autorização prévia de pesca concedida a um navio de pesca comunitário, que complete a sua licença de pesca e lhe permita exercer actividades de pesca durante um período e numa zona determinados, em relação a determinadas pescarias, nos termos das medidas adoptadas pelo Conselho;\n\nb) « Licença de pesca e autorização de pesca especial de um navio de pesca que arvore pavilhão de um país terceiro », a certificação, pela Comissão, dos dados mínimos relativos à identificação, características técnicas e armamento do navio, completados por uma autorização prévia que lhe permita excercer as suas actividades na zona de pesca comunitária nos termos das disposições aplicáveis de Direito Comunitário e do acordo de pesca com o país em questão.\n\n2. Os Estados-membros podem escolher outra denominação, desde que dela resulte explicitamente que se trata de uma autorização na acepção do presente regulamento."
+  },
+  "5424e07503efca8f": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Da autorização de pesca especial emitida nos termos do artigo 7º devem constar, pelo menos, as informações previstas no anexo I.\n\n2. Da licença de pesca e da autorização de pesca especial aplicáveis aos navios que arvorem pavilhão de um país terceiro devem constar, pelo menos, as informações previstas no anexo II."
+  },
+  "d5d372f5dabb9359": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. O Estado-membro de pavilhão procederá à emissão e gestão das autorizações de pesca especiais dos navios de pesca que arvorem o seu pavilhão, nos termos das disposições aplicáveis de Direito Comunitário, incluindo as medidas previstas no artigo 11º do Regulamento (CE) nº 3760/92.\n\n2. A Comissão procederá à emissão e gestão, em nome da Comunidade, das licenças de pesca e autorizações de pesca especiais dos navios que arvorem pavilhão de um país terceiro, nos termos das disposiçõesn aplicáveis de Direito Comunitário e das disposições dos acordos de pesca com o país terceiro ou adoptadas no âmbito desses acordos."
+  },
+  "1bce5e8d7376ab1f": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. O Estado-membro de pavilhão não pode emitir autorizações de pesca especiais se o navio em questão não possuir uma licença de pesca obtida nos termos do Regulamento (CE) nº 3690/93 ou se a licença de pesca tiver sido suspensa ou apreendida nos termos do artigo 5º do referido regulamento.\n\n2. A autorização de pesca especial caducará quando a licença de pesca inerente ao navio for apreendida definitivamente e será suspensa quando a licença for apreendida temporariamente."
+  },
+  "28bebeb2623a57b1": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Apenas os navios a que se referem as alíneas a) e b) do artigo 1º e que disponham de uma autorização de pesca especial válida serão autorizados a, de acordo com as condições da autorização, pescar, conservar a bordo, transbordar e desembarcar peixe proveniente das unidades populacionais stocks ou grupos de unidades populacionais referidos na dita autorização de pesca, com excepção das disposições derrogatórias relativas às capturas acessórias, decididas pelo Conselho caso a caso.\n\n2. Cada autorização de pesca especial será válida apenas para um único navio de pesca.\n\n3. Os navios de pesca serão autorizados a possuir várias autorizações de pesca especiais diferentes.\n\nNavios de pesca comunitários que operem na zona da pesca comunitária e no mar alto"
+  },
+  "de157789df22f4b2": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. O Estado-membro de pavilhão identificará os navios susceptíveis de exercer uma actividade de pesca sujeita a condições de acesso previstas na alínea a) do artigo 1º O Estado-membro de pavilhão garantirá que esses navios preencham as condições de acesso definidas pelo Conselho e comunicará à Comissão as informações pertinentes.\n\n2. A Comissão analisará as informações fornecidas pelo Estado-membro de pavilhão, verificará a conformidade com as disposições aplicáveis de Direito Comunitário e com as decisões tomadas nos termos do artigo 13º e informará o Estado-membro num prazo máximo de 10 dias úteis.\n\nO Conselho, deliberando por maioria qualificada, sob proposta da Comissão, pode, se necessário, decidir um prazo diferente, no âmbito de uma aplicação específica do regime de autorizações de pesca especiais.\n\n3. O Estado-membro de pavilhão pode emitir a autorização de pesca especial após recepção da informação da Comissão ou no termo do prazo previsto no nº 2.\n\n4. Para assegurar o cumprimento das medidas comunitárias de conservação e gestão de recursos, adoptadas nos termos dos artigos 4º e 8º do Regulamento (CEE) nº 3760/92, o Estado-membro de pavilhão deve tomar as medidas adequadas incluindo, eventualmente, a alteração ou a suspensão total ou parcial da autorização de pesca especial, informando desse facto a Comissão."
+  },
+  "44ed6eb47f50be2f": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Se, nos termos do artigo 9º do Regulamento (CEE) nº 3760/92, o Estado-membro de pavilhão tiver adoptado disposições nacionais, sob a forma de uma autorização de pesca nacional, relativas à repartição por navio das disponibilidades de pesca que lhe são atribuídas nos termos do artigo 8º do referido regulamento, esse Estado-membro comunicará anualmente à Comissão as informações relativas aos navios autorizados a exercer uma actividade de pesca numa pescaria determinada, de acordo com essas disposições.\n\n2. Se, nos termos do artigo 10º do Regulamento (CEE) nº 3760/92, os Estados-membros tiverem estabelecido um regime nacional específico de autorizações de pesca, esses Estados comunicarão anualmente à Comissão a lista das informações que constam dos pedidos de autorizações de pesca correspondentes e os respectivos dados globais relativos ao esforço de pesca.\n\nNavios de pesca que arvorem pavilhão de um país terceiro e que operem na zona de pesca comunitária"
+  },
+  "6a50df22157b1f94": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. De acordo com as medidas de conservação e de gestão dos recursos adoptadas pelo Conselho e aplicáveis aos navios que arvorem pavilhão de um país terceiro, as autoridades competentes do país em questão transmitirão à Comissão os pedidos de licenças de pesca e de autorizações de pesca especiais para os navios que arvorem o seu pavilhão, susceptíveis de exercer actividades de pesca na zona de pesca da Comunidade, no âmbito das possibilidades de pesca atribuídas pela Comunidade a esse país.\n\n2. A Comissão analisará os pedidos referidos no nº 1 e concederá as licenças de pesca e autorizações de pesca especiais, de acordo com as medidas adoptadas pelo Conselho e com as disposições do acordo com o país em questão ou adoptadas no âmbito desse acordo.\n\n3. A Comissão informará as autoridades de controlo competentes designadas pelos Estados-membros das licenças de pesca e das autorizações de pesca especiais emitidas."
+  },
+  "768d460fdc4d22bd": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Os Estados-membros notificarão imediatamente a Comissão de qualquer infracção verificada relativamente a um navio que arvore pavilhão de um país terceiro.\n\n2. Na sequência da notificação referida no nº 1, a Comissão pode suspender ou apreender a licença de pesca ou as autorizações de pesca especiais concedidas ao navio em causa nos termos do artigo 9º, podendo igualmente não voltar a conceder licenças de pesca ou autorizações de pesca especiais a esse navio. A decisão da Comissão será notificada ao país terceiro de pavilhão.\n\n3. A Comissão notificará imediatamente as autoridades de controlo dos Estados-membros em causa das disposições adoptadas nos termos do nº 2.\n\nDisposições gerais"
+  },
+  "f2449deb35c2659b": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nO Estado-membro de pavilhão completará o ou os ficheiros referidos no artigo 6º do Regulamento (CEE) nº 3690/93 a fim de incluir todos os dados relativos às autorizações de pesca especiais concedidas a navios que arvorem o seu próprio pavilhão, nos termos do artigo 7º do presente regulamento, desde que esses dados não tenham sido recolhidos a título do Regulamento (CE) nº 109/94 da Comissão, de 19 de Janeiro de 1994, relativo ao ficheiro comunitário dos navios de pesca (7), de forma a tornar a cooperação prevista no artigo 14º mais eficaz."
+  },
+  "0e20ee33bd15877c": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nOs Estados-membros designarão as autoridades competentes para a emissão de autorizações de pesca especiais previstas no artigo 7º e adoptarão as medidas adequadas para assegurar a eficácia do regime. Os Estados-membros notificarão os outros Estados-membros e a Comissão dos nomes e endereços das autoridades em questão e informarão a Comissão das medidas tomadas, o mais tardar seis meses a contar da entrada em vigor do presente regulamento e, em caso de alterações, o mais rapidamente possível."
+  },
+  "26dc9776ca86c1c5": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. Na sequência de uma notificação efectuada nos termos do nº 1 do artigo 33º do Regulamento (CEE) nº 2847/93 ou do disposto na regulamentação de aplicação de um regime de inspecção internacional, as autoridades competentes do Estado-membro de pavilhão interporão, se for oportuno e nos termos do respectivo direito interno, as acções susceptíveis de conduzir, consoante a gravidade da infracção:\n\n- a multas,\n\n- ao arresto das artes e das capturas proibidas,\n\n- ao arresto cautelar do navio,\n\n- à imobilização temporária do navio,\n\n- à suspensão da autorização de pesca especial,\n\n- à apreensão da autorização de pesca especial,\n\ntendo em conta as eventuais sanções impostas pelas autoridades competentes que tiverem constatado a infracção.\n\n2. As regras de aplicação do nº 1 serão adoptadas pela Comissão, nos termos do procedimento previsto no artigo 18º do Regulamento (CEE) nº 3760/92, nomeadamente, para permitir aos Estados-membros de pavilhão a aplicação do referido número em condições equitativas e transparentes."
+  },
+  "2011919405fa3e33": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. Os Estados-membros de pavilhão e os Estados-membros responsáveis pelo controlo nas águas marítimas sob a sua soberania ou jurisdição cooperarão a fim de assegurar a observância das condições indicadas nas autorizações de pesca especiais.\n\n2. Para o efeito, o Estado-membro de pavilhão deve informar o Estado-membro responsável pelo controlo:\n\na) No momento da sua emissão, dos dados relativos às autorizações de pesca especiais, concedidas a navios susceptíveis de pescar nas águas marítimas em causa;\n\nb) Durante a campanha de pesca, e imediatamente a pedido do Estado-membro responsável pelo controlo, da validade de uma autorização de pesca especial detida por um navio que exerça as suas actividades nas águas martítimas em causa, bem como, por iniciativa própria, das autorizações de pesca especiais caducadas.\n\n3. A pedido da Comissão ou do Estado-membro responsável pelo controlo, o Estado-membro de pavilhão comunicará imediatamente à Comissão as informações referidas no nº 2, alínea b)."
+  },
+  "f77154c90b58ee5e": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nO artigo 13º do Regulamento (CEE) nº 3760/92 e o artigo 37º do Regulamento (CEE) nº 2847/93 são aplicáveis aos dados obtidos por força do presente regulamento."
+  },
+  "9c7d513b03f3d11b": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nAs regras de aplicação dos artigos 7º, 8º e 10º serão adoptadas nos termos do procedimento previsto no artigo 18º do Regulamento (CEE) nº 3760/92."
+  },
+  "ef192690b532d5ef": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nO mais tardar em 31 de Dezembro de 1994, o Conselho deliberará sobre as disposições propostas pela Comissão relativas à aplicação do regime de autorizações de pesca especiais aos navios que arvorem pavilhão de um Estado-membro e que operem nas águas de países terceiros no âmbito de um acordo de pescas entre a Comunidade e esse país, tendo em conta as implicações legais da aplicação deste regime na legislação dos Estados-membros."
+  },
+  "623c9b2a4554bcf7": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Janeiro de 1995.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo, em 27 de Junho de 1994.\n\nPelo Conselho\n\nO Presidente\n\nC. SIMITIS\n\n(1) JO nº C 310 de 16. 11. 1993, p. 13.\n\n(2) JO nº C 20 de 24. 1. 1994, p. 540.\n\n(3) JO nº C 34 de 2. 2. 1994, p. 73.\n\n(4) JO nº L 341 de 31. 12. 1993, p. 93.\n\n(5) JO nº L 389 de 31. 12. 1992, p. 1.\n\n(6) JO nº L 261 de 20. 10. 1993, p. 1.\n\n(7) JO nº L 19 de 22. 1. 1994, p. 5."
+  },
+  "44d248ae92d8ce98": {
+   "fragment_id": "ANEXO I — ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO I — ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — ANEXO II\n\nINFORMAÇÕES MÍNIMAS QUE DEVEM CONSTAR DAS LICENÇAS E AUTORIZAÇÕES DE PESCA ESPECIAIS CONCEDIDAS AOS NAVIOS QUE ARVOREM PAVILHAO DE UM PAÍS TERCEIRO LICENÇAS DE PESCA\n\nI. Identificação\n\nA. Navio\n\n1. Nome do navio\n\n2. Arvorando pavilhão de\n\n3. Porto de registo\n\n4. Número de registo\n\n5. Marcação exterior\n\n6. Indicativo rádio internacional\n\nB. Armador\n\n1. Nome(s) do(s) proprietário(s) ou do armador\n\nEndereço\n\n2. Nome(s) do(s) fretador(es)\n\nEndereço\n\n[em caso de pessoa colectiva ou associação, nome(s) do(s) representante(s)]\n\nII. Características técnicas e armamento\n\n1. Tipo de navio\n\n2. Principais tipos de artes de pesca\n\n1.\n\n2.\n\n3.\n\n4.\n\n3. Potência do motor\n\n4. Comprimento - de fora a fora ou\n\n- entre perpendiculares ou\n\n- outra norma (1)\n\n5. Arqueação - « Oslo » ou\n\n- « Londres » ou\n\n- outras normas\n\nAUTORIZAÇÕES DE PESCA ESPECIAIS\n\nIII. Condições de pesca\n\n1. Método de pesca preventivo\n\n2. Zona de pesca\n\n3. Espécies que está autorizado a pescar\n\n4. Data de emissão\n\n5. Período de validade da autorização de pesca especial\n\n6. Outras condições\n\n(1) Apenas para os navios com um comprimento total inferior a 10 metros."
+  },
+  "fbff2a7bbd5f6522": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1994R1627 — PT — 07.05.2011 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31994R1627) [REGULAMENTO (CE) N.º 1627/94 DO CONSELHO](http://publications.europa.eu/resource/celex/31994R1627) [de 27 de Junho de 1994](http://publications.europa.eu/resource/celex/31994R1627) [que estabelece as disposições gerais relativas às autorizações de pesca especiais](http://publications.europa.eu/resource/celex/31994R1627) (JO L 171, 6.7.1994, p.7)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1224/2009 do Conselho de 20 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1224) — L 343 — 1 — 22.12.2009"
+  }
+ }
+}

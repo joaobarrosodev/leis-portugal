@@ -37,6 +37,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: decisao-ue-2008-22.versoes.json
+  count: 1
+  source_lastmod: '2011-03-09'
+  versions:
+  - date: '2008-01-10'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32008D0022
   eli: http://data.europa.eu/eli/dec/2008/22(1)/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1b808dd1-c9e9-4961-98b3-64039410f74b.0018
   content_url: http://publications.europa.eu/resource/cellar/1b808dd1-c9e9-4961-98b3-64039410f74b.0018.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:13:15Z'
+  retrieved_at: '2026-10-22T15:11:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T22:06:28.325+01:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:15Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:11:21Z'
+  notes: 1 versão(ões); histórico completo em decisao-ue-2008-22.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -132,21 +141,22 @@ relationships:
   date: '2010-09-23'
 article_structure:
   article_count: 43
-  section_count: 28
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 29
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:15Z'
+  checked_at: '2026-10-22T15:11:21Z'
   warnings:
-  - 'Versão consolidada 02008D0022-20110309 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02008D0022-20090710: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008D0022-20100319: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008D0022-20110309: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# DECISÃO DA COMISSÃO
+# 2008/22/CE: Decisão da Comissão, de 19 de Dezembro de 2007
 
 de 19 de Dezembro de 2007
 

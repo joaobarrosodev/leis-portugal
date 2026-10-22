@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2007-1379.versoes.json
+  count: 1
+  source_lastmod: '2007-11-30'
+  versions:
+  - date: '2007-11-27'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32007R1379
   eli: http://data.europa.eu/eli/reg/2007/1379/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3da99ac4-f61a-4ac0-89ca-97715552b2b3.0018
   content_url: http://publications.europa.eu/resource/cellar/3da99ac4-f61a-4ac0-89ca-97715552b2b3.0018.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:58:44Z'
+  retrieved_at: '2026-10-22T15:09:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T11:52:14.298+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:44Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:09:43Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2007-1379.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -125,21 +134,20 @@ relationships:
   date: '2024-04-30'
 article_structure:
   article_count: 2
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:44Z'
+  checked_at: '2026-10-22T15:09:43Z'
   warnings:
-  - 'Versão consolidada 02007R1379-20071130 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02007R1379-20071130: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO (CE) N.º 1379/2007 DA COMISSÃO
+# Regulamento (CE) n.° 1379/2007 da Comissão, de 26 de Novembro de 2007
 
 de 26 de Novembro de 2007
 

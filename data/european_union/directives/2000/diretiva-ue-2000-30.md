@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-07-28'
+version_history:
+  file: diretiva-ue-2000-30.versoes.json
+  count: 1
+  source_lastmod: '2010-07-28'
+  versions:
+  - date: '2010-07-28'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32000L0030
   eli: http://data.europa.eu/eli/dir/2000/30/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/491849f2-e3f1-4b50-acff-b97c71d41205.0009
   content_url: http://publications.europa.eu/resource/cellar/3840404d-7be6-4280-a37d-543ecd2a5039.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0030-20100728
-  retrieved_at: '2026-10-22T02:44:54Z'
+  retrieved_at: '2026-10-22T14:48:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T10:57:31.052+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:54Z'
-  notes: Texto consolidado 02000L0030-20100728.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:48Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2000-30.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -150,30 +159,21 @@ relationships:
   source: null
 article_structure:
   article_count: 14
-  section_count: 15
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 16
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:54Z'
-  warnings: []
+  checked_at: '2026-10-22T14:48:48Z'
+  warnings:
+  - '02000L0030-20000810: versão indisponível (Sem expressão na língua por para CELEX 02000L0030-20000810.)'
+  - '02000L0030-20030428: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 2000/30/CE do Parlamento Europeu e do Conselho de 6 de Junho de 2000
-
-> 2000L0030 — PT — 28.07.2010 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32003L0026) — [DIRECTIVA 2003/26/CE DA COMISSÃO Texto relevante para efeitos do EEE de 3 de Abril de 2003](http://publications.europa.eu/resource/celex/32003L0026) — L 90 — 37 — 8.4.2003
-- [►M2](http://publications.europa.eu/resource/celex/32010L0047) — [DIRECTIVA 2010/47/UE DA COMISSÃO de 5 de Julho de 2010](http://publications.europa.eu/resource/celex/32010L0047) — L 173 — 33 — 8.7.2010
-
-## DIRECTIVA 2000/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 6 de Junho de 2000
 

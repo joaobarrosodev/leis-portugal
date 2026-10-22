@@ -1,0 +1,537 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994L0045:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0045-20110606",
+ "dre_path": null,
+ "source_lastmod": "2011-06-06",
+ "versions": [
+  {
+   "date": "1994-09-30",
+   "future": false,
+   "celex": "31994L0045",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "15b441f12b999c08",
+    "dcd733ea9d20dbb0",
+    "e4f7b1ec157d1c86",
+    "01698e4748acd859",
+    "06c65f2e6547d8f4",
+    "c0c981ec4fc86e13",
+    "e934661b417f8322",
+    "8125239c3aa5817c",
+    "8edcdecb8c80a288",
+    "2359fbfe21e589ba",
+    "3a39574005b3cbfd",
+    "e754e29ebf4114ef",
+    "adb100ec8e26eae1",
+    "9e91cdbf10e05443",
+    "c776426fbb5ba480",
+    "064ab8eb06cbf34f",
+    "6e950d6333d78b1d",
+    "9ca394b7b10d173c"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01994L0045-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:31997L0074:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31997L0074"
+    },
+    {
+     "id": "eu:celex:32006L0109:por",
+     "title": "DIRECTIVA 2006/109/CE DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006L0109"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 16º",
+    "Adita SECÇÃO I",
+    "Adita DISPOSIÇÕES GERAIS",
+    "Adita Artigo 1º — Objecto",
+    "Adita Artigo 2º — Definições",
+    "Adita Artigo 3º — Definição da noção de «empresa que exerce o controlo»",
+    "Adita SECÇÃO II",
+    "Adita INSTITUIÇÃO DE UM CONSELHO DE EMPRESA EUROPEU OU DE UM PROCEDIMENTO DE INFORMAÇÃO E CONSULTA DOS TRABALHADORES",
+    "Adita Artigo 4º — Responsabilidade de instituição de um conselho de empresa europeu ou de um procedimento de informação e consulta dos trabalhadores",
+    "Adita Artigo 5º — Grupo especial de negociação",
+    "Adita Artigo 6º — Conteúdo do acordo",
+    "Adita Artigo 7º — Disposições supletivas",
+    "Adita SECÇÃO III",
+    "Adita DISPOSIÇÕES DIVERSAS",
+    "Adita Artigo 8º — Informações confidenciais",
+    "Adita Artigo 9º — Funcionamento do conselho de empresa europeu e do procedimento de informação e consulta dos trabalhadores",
+    "Adita Artigo 10º — Protecção dos representantes dos trabalhadores",
+    "Adita Artigo 11º — Cumprimento do disposto na presente directiva",
+    "Adita Artigo 12º — Relação entre a presente directiva e outras disposições",
+    "Adita Artigo 13º — Acordos vigentes",
+    "Adita Artigo 14º — Disposições finais",
+    "Adita Artigo 15º — Reanálise pela Comissão",
+    "Adita ANEXO",
+    "Adita DISPOSIÇÕES SUPLETIVAS",
+    "Adita referidas no artigo 7º",
+    "Adita Notas",
+    "Suprime SECÇÃO I DISPOSIÇÕES GERAIS — Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime SECÇÃO III DISPOSIÇÕES DIVERSAS — Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime ANEXO — DISPOSIÇÕES SUPLETIVAS referidas no artigo 7º"
+   ],
+   "fragments": [
+    "131d4573b7acc0f1",
+    "19572906891c0646",
+    "e17a2adcfbbdd4cc",
+    "ea9e28c5cb28bb90",
+    "3fd0a5d6e9160c9d",
+    "14bb6b6572bb5927",
+    "0b50b9972a75b595",
+    "b45737a564f8606d",
+    "40de30cd9f0016d3",
+    "d6a955c71e0150f4",
+    "4ffd499d2ac87014",
+    "dedd9b75d203eb2e",
+    "b4f1bfdbc841cf04",
+    "4f0027fbf9863594",
+    "5d10271b63f5206c",
+    "f7480d649c0f8d22",
+    "b7f45db418c3a2ad",
+    "237f234267a97e71",
+    "aa94a13546b53409",
+    "852cd1508ff34b99",
+    "a7de51b10b53f3b6",
+    "824eee0dd92e7a7e",
+    "b2bdf85f73245cd5",
+    "10220b9774fa9034",
+    "254ccb9647e01247",
+    "c22c244f51f27971",
+    "47778c7d82b20cc5"
+   ]
+  },
+  {
+   "date": "2011-06-06",
+   "future": false,
+   "celex": "01994L0045-20110606",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime SECÇÃO I",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 1º — Objecto",
+    "Suprime Artigo 2º — Definições",
+    "Suprime Artigo 3º — Definição da noção de «empresa que exerce o controlo»",
+    "Suprime SECÇÃO II",
+    "Suprime INSTITUIÇÃO DE UM CONSELHO DE EMPRESA EUROPEU OU DE UM PROCEDIMENTO DE INFORMAÇÃO E CONSULTA DOS TRABALHADORES",
+    "Suprime Artigo 4º — Responsabilidade de instituição de um conselho de empresa europeu ou de um procedimento de informação e consulta dos trabalhadores",
+    "Suprime Artigo 5º — Grupo especial de negociação",
+    "Suprime Artigo 6º — Conteúdo do acordo",
+    "Suprime Artigo 7º — Disposições supletivas",
+    "Suprime SECÇÃO III",
+    "Suprime DISPOSIÇÕES DIVERSAS",
+    "Suprime Artigo 8º — Informações confidenciais",
+    "Suprime Artigo 9º — Funcionamento do conselho de empresa europeu e do procedimento de informação e consulta dos trabalhadores",
+    "Suprime Artigo 10º — Protecção dos representantes dos trabalhadores",
+    "Suprime Artigo 11º — Cumprimento do disposto na presente directiva",
+    "Suprime Artigo 12º — Relação entre a presente directiva e outras disposições",
+    "Suprime Artigo 13º — Acordos vigentes",
+    "Suprime Artigo 14º — Disposições finais",
+    "Suprime Artigo 15º — Reanálise pela Comissão",
+    "Suprime Artigo 16º",
+    "Suprime ANEXO",
+    "Suprime DISPOSIÇÕES SUPLETIVAS",
+    "Suprime referidas no artigo 7º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "7ad57036dc2d8970"
+   ]
+  }
+ ],
+ "fragments": {
+  "15b441f12b999c08": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 94/45/CE do Conselho, de 22 de Setembro de 1994, relativa à instituição de um conselho de empresa europeu ou de um procedimento de informação e consulta dos trabalhadores nas empresas ou grupos de empresas de dimensão comunitária** *Jornal Oficial nº L 254 de 30/09/1994 p. 0064 - 0072 Edição especial finlandesa: Capítulo 5 Fascículo 6 p. 0160 Edição especial sueca: Capítulo 5 Fascículo 6 p. 0160*\n\nDIRECTIVA 94/45/CE DO CONSELHO de 22 de Setembro de 1994 relativa à instituição de um conselho de empresa europeu ou de um procedimento de informação e consulta dos trabalhadores nas empresas ou grupos de empresas de dimensão comunitária\n\nO CONSELHO DA UNIAO EUROPEIA,\n\nTendo em conta o Acordo relativo à política social anexo ao protocolo nº 14, relativo à política social, anexo ao Tratado que institui a Comunidade Europeia e, nomeadamente, o nº 2 do seu artigo 2º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºC do Tratado (3),\n\nConsiderando que, com base no protocolo relativo à política social, anexo ao Tratado que institui a Comunidade Europeia, o Reino da Bélgica, o Reino da Dinamarca, a República Federal da Alemanha, a República Helénica, o Reino de Espanha, a República Francesa, a Irlanda, a República Italiana, o Grão-Ducado do Luxemburgo, o Reino dos Países Baixos e a República Portuguesa, a seguir designados « Estados-membros », desejando aplicar a Carta social de 1989, adoptaram entre si um acordo relativo à política social;\n\nConsiderando que o nº 2 do artigo 2º do citado acordo autoriza o Conselho a adoptar, por meio de directivas, prescrições mínimas;\n\nConsiderando que, nos termos do artigo 1º do acordo, a Comunidade e os Estados-membros têm nomeadamente por objectivo a promoção do diálogo entre parceiros sociais;\n\nConsiderando que o ponto 17 da Carta comunitária dos direitos sociais fundamentais dos trabalhadores prevê, nomeadamente, que « a informação, a consulta e a participação dos trabalhadores devem ser desenvolvidas segundo regras adequadas e tendo em conta as práticas em vigor nos diferentes Estados-membros »; que « tal é válido nomeadamente nas empresas ou grupos com estabelecimentos ou empresas situados em vários Estados-membros »;\n\nConsiderando que, não obstante a existência de um amplo consenso entre a maioria dos Estados-membros, não foi possível ao Conselho tomar uma decisão sobre a proposta de directiva relativa à criação de um conselho de empresa europeu nas empresas ou grupos de empresas de dimensão comunitária, tendo em vista a informação e a consulta dos trabalhadores (4), com as alterações que lhe foram introduzidas em 3 de Dezembro de 1991 (5);\n\nConsiderando que, nos termos do nº 2 do artigo 3º do Acordo relativo à política social, a Comissão consultou os parceiros sociais a nível comunitário sobre a possível orientação de uma acção comunitária no domínio da informação e da consulta dos trabalhadores nas empresas ou grupos de empresas de dimensão comunitária;\n\nConsiderando que, após essa consulta, a Comissão, considerando desejável uma acção comunitária, consultou novamente os parceiros sociais sobre o conteúdo da proposta em causa, nos termos do nº 3 do artigo 3º do referido acordo, e que os parceiros sociais apresentaram à Comissão os respectivos pareceres;\n\nConsiderando que, concluída esta segunda fase de consultas, os parceiros sociais não comunicaram à Comissão a sua intenção de dar início ao processo susceptível de conduzir à celebração de um acordo, conforme previsto no artigo 4º do referido acordo;\n\nConsiderando que o funcionamento do mercado interno implica um processo de concentrações de empresas, fusões transfronteiriças, absorções e associações e, consequentemente, uma transnacionalização das empresas e dos grupos de empresas; que, para assegurar o desenvolvimento harmonioso das actividades económicas, é necessário que as empresas e os grupos de empresas que operam em diversos Estados-membros informem e consultem os representantes dos trabalhadores afectados pelas suas decisões;\n\nConsiderando que os procedimentos de informação e consulta dos trabalhadores consagrados nas legislações ou na prática dos Estados-membros são muitas vezes inadaptados à estrutura transnacional da entidade que toma a decisão que afecta esses trabalhadores; que esta situação poderá conduzir a um tratamento desigual dos trabalhadores afectados pelas decisões no interior de uma mesma empresa ou de um mesmo grupo;\n\nConsiderando que devem ser adoptadas disposições adequadas por forma a garantir que os trabalhadores empregados em empresas ou grupos de empresas de dimensão comunitária sejam convenientemente informados e consultados quando, fora do Estado-membro em que trabalham, são tomadas decisões que possam afectá-los;\n\nConsiderando que, para garantir que os trabalhadores de empresas ou de grupos de empresas que operam em diversos Estados-membros sejam convenientemente informados e consultados, é conveniente instituir um conselho de empresa europeu ou criar outros procedimentos adequados de informação e consulta transnacionais dos trabalhadores;\n\nConsiderando que, para o efeito, é necessária uma definição da noção de empresa que exerce o controlo que se aplique exclusivamente à presente directiva e não prejudique outras definições de grupo e de controlo que possam ser adoptadas em textos a elaborar no futuro;\n\nConsiderando que os mecanismos para a informação e consulta dos trabalhadores dessas empresas ou desses grupos devem incluir todos os estabelecimentos ou, consoante o caso, todas as empresas pertencentes ao grupo, situados nos Estados-membros, quer a direcção central da empresa ou, no caso de um grupo, da empresa que exerce o controlo, esteja ou não situada no território dos Estados-membros;\n\nConsiderando que, de acordo com o princípio da subsidiaridade, compete aos Estados-membros a determinação de quem são os representantes dos trabalhadores, e nomeadamente prever, se assim o entenderem adequado, uma representação equilibrada das diversas categorias de trabalhadores;\n\nConsiderando que, em conformidade com o princípio da autonomia das partes, compete aos representantes dos trabalhadores e à direcção da empresa ou da empresa que exerce o controlo do grupo determinar, por mútuo acordo, a natureza, a composição, as atribuições, as regras de funcionamento, as normas processuais e os recursos financeiros do conselho de empresa europeu ou de qualquer outro procedimento de informação e consulta, por forma a que se adaptem à sua situação específica;\n\nConsiderando, todavia, que convém prever determinadas disposições supletivas a aplicar se as partes assim o decidirem, se a direcção central se recusar a iniciar negociações ou se não houver acordo no termo das negociações;\n\nConsiderando, além disso, que os representantes dos trabalhadores podem decidir não solicitar a instituição de um conselho de empresa europeu, ou que as partes interessadas podem acordar noutros procedimentos de informação e consulta transnacionais dos trabalhadores;\n\nConsiderando que, sem prejuízo da faculdade conferida às partes de adoptarem outras disposições, o conselho de empresa europeu instituído na ausência de acordo entre as partes, para realizar o objectivo da presente directiva, deve ser informado e consultado sobre as actividades da empresa ou do grupo de empresas, por forma a poder avaliar o seu eventual impacte nos interesses dos trabalhadores de, pelo menos, dois Estados-membros diferentes; que, consequentemente, a empresa ou a empresa que exerce o controlo devem ser obrigadas a comunicar aos representantes designados dos trabalhadores informações gerais relativas aos interesses dos trabalhadores e informações mais especificamente relacionadas com os aspectos das actividades da empresa ou do grupo de empresas que afectem os interesses dos trabalhadores; que o conselho de empresa europeu deve ter a possibilidade de formular um parecer no final dessas reuniões;\n\nConsiderando que os representantes designados dos trabalhadores devem ser o mais rapidamente possível informados e consultados sobre um certo número de decisões que afectam significativamente os interesses dos trabalhadores;\n\nConsiderando que é conveniente prever que os representantes dos trabalhadores que actuem no âmbito da directiva gozem, no exercício das suas funções, da mesma protecção e das garantias similares previstas para os representantes dos trabalhadores pela legislação e/ou a prática do país que o emprega; que não devem sofrer qualquer discriminação pelo exercício legítimo da sua actividade e devem beneficiar de adequada protecção em matéria de licenciamento e outras sanções;\n\nConsiderando que, no caso de uma empresa ou de uma empresa que exerça o controlo de um grupo cuja direcção central esteja situada fora do território dos Estados-membros, as disposições da presente directiva relativas à informação e consulta dos trabalhadores devem ser aplicadas pelo seu representante, eventualmente designado, num dos Estados-membros ou, na falta de representante, pelo estabelecimento ou pela empresa controlada que mais trabalhadores empregue nos Estados-membros;\n\nConsiderando que convém conceder um tratamento específico às empresas e aos grupos de empresas de dimensão comunitária nos quais exista, à data de aplicação da presente directiva, um acordo aplicável a todos os trabalhadores que preveja a informação e consulta transnacionais dos trabalhadores;\n\nConsiderando que os Estados-membros devem tomar medidas apropriadas em caso de não cumprimento das obrigações previstas na presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "dcd733ea9d20dbb0": {
+   "fragment_id": "SECÇÃO I DISPOSIÇÕES GERAIS — Artigo 1º",
+   "type": "divisao",
+   "heading": "SECÇÃO I DISPOSIÇÕES GERAIS — Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I DISPOSIÇÕES GERAIS — Artigo 1º\n\nObjecto 1. A presente directiva tem como objectivo melhorar o direito à informação e consulta dos trabalhadores nas empresas ou grupos de empresas de dimensão comunitária.\n\n2. Para o efeito, será instituído um conselho de empresa europeu ou um procedimento de informação e consulta dos trabalhadores em todas as empresas ou grupos de empresas de dimensão comunitária, quando tal seja requerido nos termos do procedimento previsto no nº 1 do artigo 5º, com a finalidade de informar e consultar os referidos trabalhadores nos termos, segundo as regras e com os efeitos previstos na presente directiva.\n\n3. Em derrogação do nº 2, sempre que um grupo de empresas de dimensão comunitária, na acepção da alínea c) do nº 1 do artigo 2º, compreenda uma ou mais empresas ou grupos de empresas que sejam empresas ou grupos de empresas de dimensão comunitária, na acepção das alíneas a) ou c) do nº 1 do artigo 2º, o conselho de empresa europeu será instituído a nível do grupo, salvo disposições em contrário previstas nos acordos referidos no artigo 6º\n\n4. Salvo estipulação nos acordos referidos no artigo 6º de um âmbito de aplicação mais amplo, os poderes e as competências dos conselhos de empresa europeus e o alcance dos procedimentos de informação e consulta dos trabalhadores criados para atingir o objectivo referido no nº 1 abrangem, no caso de uma empresa de dimensão comunitária, todos os estabelecimentos situados nos Estados-membros e, no caso de um grupo de empresas de dimensão comunitária, todas as empresas do grupo situadas nos Estados-membros.\n\n5. Os Estados-membros podem dispor que a presente directiva não é aplicável às tripulações da marinha mercante."
+  },
+  "e4f7b1ec157d1c86": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nDefinições 1. Para efeitos da presente directiva, entende-se por:\n\na) « Empresa de dimensão comunitária », qualquer empresa que empregue, pelo menos, 1 000 trabalhadores nos Estados-membros e, em pelo menos dois Estados-membros diferentes, um mínimo de 150 trabalhadores em cada um deles;\n\nb) « Grupo de empresas », um grupo composto pela empresa que exerce o controlo e pelas empresas controladas;\n\nc) « Grupo de empresas de dimensão comunitária », um grupo de empresas que preencha as seguintes condições:\n\n- empregue, pelos menos, 1 000 trabalhadores nos Estados-membros,\n\n- possua, pelo menos, duas empresas membros do grupo em Estados-membros diferentes\n\ne\n\n- inclua, pelo menos, uma empresa do grupo que empregue, no mínimo, 150 trabalhadores num Estado-membro e, pelo menos, outra empresa do grupo que empregue, no mínimo, 150 trabalhadores noutro Estado-membro;\n\nd) « Representantes dos trabalhadores », os representantes dos trabalhadores previstos nas legislações e/ou práticas nacionais;\n\ne) « Direcção central », a direcção central da empresa de dimensão comunitária ou, no caso de um grupo de empresas de dimensão comunitária, da empresa que exerce o controlo;\n\nf) « Consulta », a troca de opiniões e o estabelecimento de um diálogo entre os representantes dos trabalhadores e a direcção central ou qualquer outro nível de direcção mais apropriado;\n\ng) « Conselho de empresa europeu », o comité instituído nos termos do nº 2 do artigo 1º ou do disposto no anexo, com o objectivo de informar e consultar os trabalhadores;\n\nh) « Grupo especial de negociação », o grupo constituído nos termos do nº 2 do artigo 5º, para negociar com a direcção central a constituição de um « conselho de empresa europeu » ou um procedimento de informação e consulta dos trabalhadores, nos termos do nº 2 do artigo 1º\n\n2. Para efeitos da presente directiva, os limiares de efectivos são fixados por referência ao número médio de trabalhadores, incluindo os trabalhadores a tempo parcial, empregados no dois anos anteriores, calculado de acordo com as legislações e/ou práticas nacionais."
+  },
+  "01698e4748acd859": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nDefinição da noção de « empresa que exerce o controlo » 1. Para efeitos da presente directiva, entende-se por « empresa que exerce o controlo » uma empresa que pode exercer uma inflûencia dominante sobre outra empresa (« empresa controlada »), por exemplo, em virtude da propriedade, da participação financeira ou das disposições que a regem.\n\n2. Presume-se que uma influência dominante, sem prejuízo de prova em contrário, quando essa empresa, directa ou indirectamente, em relação a outra:\n\na) Tem a maioria do capital subscrito dessa empresa,\n\nou\n\nb) Dispõe da maioria dos votos correspondentes às partes de capital emitidas por essa empresa,\n\nou\n\nc) Pode nomear mais de metade dos membros do conselho de administração, do órgão de direcção ou de fiscalização da empresa.\n\n3. Para efeitos do nº 2, os direitos do voto e de nomeação da empresa que exerce o controlo compreendem os direitos de qualquer outra empresa controlada, bem como os de quaisquer pessoas ou entidades que actuem em nome próprio, mas por conta da empresa que exerce o controlo ou de qualquer outra empresa controlada.\n\n4. Não obstante os nºs 1 e 2, uma empresa não é considerada uma « empresa que exerce o controlo » de outra empresa de que tem participações quando se tratar de uma sociedade abrangida pelo nº 5, alíneas a) ou c), do artigo 3º do Regulamento (CEE) nº 4064/89 do Conselho, de 21 de Dezembro de 1989, relativo ao controlo das operações de concentração de empresas (6).\n\n5. Não se presume a existência de influência dominante apenas pelo facto de uma pessoa mandatada exercer as suas funções, nos termos da legislação de um Estado-membro relativa à liquidação falência, insolvência, cessação de pagamentos, concordata ou a outro processo análogo.\n\n6. A legislação aplicável para determinar se uma emmpresa é uma « empresa que exerce o controlo » é a do Estado-membro a que se encontra sujeita a empresa em questão.\n\nSe a legislação que rege a empresa não for a de um Estado-membro, a legislação aplicável será a do Estado-membro em cujo território está situado o seu representante ou, na sua falta, a do Estado-membro em cujo território se situa a direcção central da empresa do grupo que emprega o maior número de trabalhadores.\n\n7. Em caso de conflito de leis na aplicação no nº 2, sempre que duas ou mais empresas de um grupo satisfaçam um ou mais dos critérios estabelecidos no referido nº 2, será considerada empresa que exerce o controlo, sem prejuízo da prova de que outra empresa possa exercer uma influência dominante, aquela que satisfaz o critério estabelecido na alínea c).\n\nSECÇÃO II INSTITUIÇÃO DE UM CONSELHO DE EMPRESA EUROPEU OU DE UM PROCEDIMENTO DE INFORMAÇÃO E CONSULTA DOS TRABALHADORES"
+  },
+  "06c65f2e6547d8f4": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nResponsabilidade de instituição de um conselho de empresa europeu ou de um procedimento de informação e consulta dos trabalhadores 1. Compete à direcção central criar as condições e proporcionar os meios necessários à instituição do conselho de empresa europeu ou de um procedimento de informação e consulta a que se refere o nº 2 do artigo 1º na empresa ou grupo de empresas de dimensão comunitária.\n\n2. Sempre que a direcção central não estiver situada num Estado-membro, incumbe ao representante da direcção central num Estado-membro, eventualmente designado, a responsabilidade referida no nº 1.\n\nNa falta desse representante, incumbe à direcção do estabelecimento ou à da empresa do grupo que emprega o maior número de trabalhadores num Estado-membro a responsabilidade referida no nº 1.\n\n3. Para efeitos da presente directiva, o ou os representantes ou, na falta destes, a direcção referida no segundo parágrafo do nº 2, são considerados a direcção central."
+  },
+  "c0c981ec4fc86e13": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nGrupo especial de negociação 1. A fim de atingir o objectivo a que se refere o nº 1 do artigo 1º, a direcção central encetará as negociações para a instituição de um comité europeu de empresa ou de um procedimento de informação e consulta, por iniciativa própria ou mediante pedido escrito de, no mínimo, 100 trabalhadores, ou dos seus representantes, provenientes de pelo menos duas empresas ou estabelecimentos situados em pelo menos dois Estados-membros diferentes.\n\n2. Para o efeito, será constituído um grupo especial de negociação de acordo com as seguintes directrizes:\n\na) Os Estados-membros determinam o modo de eleição ou de designação dos membros do grupo especial de negociação que devem ser eleitos ou designados no seu território.\n\nOs Estados-membros devem dispor que os trabalhadores de empresas e/ou estabelecimentos nos quais não existam representantes dos trabalhadores por motivos alheios à sua vontade têm o direito de eleger ou de designar, eles próprios, membros du grupo especial de negociação.\n\nO segundo parágrafo não prejudica as legislações e/ou práticas nacionais que estabelecem limiares para constituição de um órgão de representação dos trabalhadores;\n\nb) O grupo especial de negociação é composto no mínimo por três membros e no máximo por dezassete membros.\n\nc) Nas eleições ou designações, deve assegurar-se:\n\n- em primeiro lugar, a existência de um representante por cada Estado-membro no qual a empresa de dimensão comunitária possua um ou mais estabelecimentos ou em que o grupo de empresas de dimensão comunitária possua a empresa que exerce o controlo ou uma ou mais empresas controladas,\n\n- em segundo lugar, a existência de representantes suplementares em número proporcional ao dos trabalhadores dos estabelecimentos, da empresa que exerce o controlo ou das empresas controladas nos termos da legislação do Estado-membro em cujo território se situa a direcção central;\n\nd) A direcção central e as direcções locais são informadas da composição do grupo especial de negociação.\n\n3. Incumbe ao grupo especial de negociação fixar, com a direcção central e mediante acordo escrito, o âmbito de acção, a composição, as atribuições e a duração do mandato do ou dos conselhos europeus de empresa ou as regras de execução de um procedimento de informação e consulta dos trabalhadores.\n\n4. Para efeitos da celebração de um acordo nos termos do artigo 6º, a direcção central convocará uma reunião com o grupo especial de negociação. Desse facto informará as direcções locais.\n\nPara efeitos das negociações, o grupo especial de negociação pode fazer-se assitir por peritos à sua escolha.\n\n5. O grupo especial de negociação pode decidir por, no mínimo, dois terços dos votos não encetar negociações nos termos do nº 4, ou anulá-las no caso de já estarem em curso.\n\nUma decisão dessa natureza põe termo ao processo para celebração do acordo referido no artigo 6º Quando for tomada esta decisão, não é aplicável o disposto no anexo.\n\nUm novo pedido de convocação do grupo especial de negociação só pode ser apresentado dois anos após a referida decisão, excepto se as partes interessadas fixarem um prazo mais curto.\n\n6. As despesas relativas às negociações referidas nos nºs 3 e 4 serão suportadas pela direcção central, de modo a que o grupo especial de negociação possa cumprir de forma adequada a sua missão.\n\nDesde que respeitem este princípio, os Estados-membros podem fixar regras orçamentais para o fundionamento do grupo especial de negociação. Podem nomeadamente limitar a participação nas despesas a um único perito."
+  },
+  "e934661b417f8322": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nConteúdo do acordo 1. A direcção central e o grupo especial de negociação devem negociar com espírito de colaboração a fim de chegarem a acordo sobre as regras de execução em matéria de informação e da consulta dos trabalhadores referidas no nº 1 do artigo 1º\n\n2. Sem prejuízo da autonomia das partes, o acordo referido no nº 1 celebrado por escrito entre a direcção central e o grupo especial de negociação estabelecerá:\n\na) As empresas do grupo de empresas de dimensão comunitária ou os estabelecimentos da empresa de dimensão comunitária abrangidos pelo acordo;\n\nb) A composição do conselho de empresa europeu, bem como o número de membros, a distribuição dos lugares e a duração do mandato;\n\nc) As atribuições e o procedimento de informação e consulta do conselho de empresa europeu;\n\nd) O local, a frequência e a duração das reuniões do conselho de empresa europeu;\n\ne) Os recursos financeiros e materiais a afectar ao conselho de empresa europeu;\n\nf) A duração do acordo e o seu processo de renegociação.\n\n3. A direcção central e o grupo especial de negociação podem decidir por escrito instituir um ou mais procedimentos de informação e consulta, em vez de constituir um conselho de empresa europeu.\n\nO acordo deve estabelecer as regras segundo as quais os representantes dos trabalhadores têm o direito de se reunir para proceder a uma troca de opiniões sobre as informações que lhes são comunicadas.\n\nEssas informações incidem nomeadamente sobre questões transnacionais susceptíveis de afectar consideravelmente os interesses dos trabalhadores.\n\n4. Os acordos referidos nos nºs 2 e 3 não estão sujeitos, salvo disposições em contrário previstas nesses acordos, às disposições supletivas do anexo.\n\n5. Para efeitos da celebração dos acordos referidos nos nºs 2 e 3, o grupo especial de negociação delibera por maioria dos seus membros."
+  },
+  "8125239c3aa5817c": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nDisposições supletivas 1. A fim de assegurar a realização do objectivo referido no nº 1 do artigo 1º, são aplicáveis as disposições supletivas da legislação do Estado-membro no qual está situada a direcção central:\n\n- se a direcção central e o grupo especial de negociação assim o decidirem,\n\nou\n\n- se a direcção central se recusar a abrir negociações num prazo de seis meses a contar do pedido referido no nº 1 do artigo 5º,\n\nou\n\n- se não tiver sido celebrado o acordo referido no artigo 6º no prazo de três anos a contar do pedido inicial e o grupo especial de negociação não tiver tomado a decisão prevista no nº 5 do artigo 5º\n\n2. As disposições supletivas referidas no nº 1 previstas na legislação do Estado-membro, devem satisfazer o disposto no anexo."
+  },
+  "8edcdecb8c80a288": {
+   "fragment_id": "SECÇÃO III DISPOSIÇÕES DIVERSAS — Artigo 8º",
+   "type": "divisao",
+   "heading": "SECÇÃO III DISPOSIÇÕES DIVERSAS — Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III DISPOSIÇÕES DIVERSAS — Artigo 8º\n\nInformações confidenciais 1. Os Estados-membros devem dispor que os membros do grupo especial de negociação e do conselho de empresa europeu, bem como os peritos que eventualmente os assistam, não são autorizados a revelar a terceiros as informações que lhes tenham sido expressamente comunicadas a título confidencial.\n\nO mesmo se aplica aos representantes dos trabalhadores no âmbito de um procedimento de informação e consulta.\n\nEsta obrigação mantém-se, seja qual for o local em que se encontrem, mesmo após o termo dos respectivos mandatos.\n\n2. Em casos específicos e nos termos e limites fixados na legislação nacional, cada Estado-membro deve dispor que a direcção central situada no seu território não é obrigada a comunicar as informações cuja natureza seja susceptível, segundo critérios objectivos, de entravar gravemente o funcionamento das empresas em causa ou de as prejudicar.\n\nO Estado-membro em causa pode subordinar esta dispensa a uma autorização administrativa ou judicial prévia.\n\n3. Cada Estado-membro pode adoptar disposições especiais a favor da direcção central das empresas estabelecidas no seu território que tenham directa e principalmente finalidades de orientação ideológica relacionadas com a informação e a expressão de opiniões, desde que, à data de adopção da presente directiva, essas disposições especiais já existam na legislação nacional."
+  },
+  "2359fbfe21e589ba": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nFuncionamento do conselho de empresa europeu e do procedimento de informação e consulta dos trabalhadores A direcção central e o conselho de empresa europeu trabalham em espírito de colaboração e na observância dos seus direitos e obrigações recíprocos.\n\nO mesmo se aplica à colaboração entre a direcção central e os representantes dos trabalhadores no âmbito de um procedimento de informação e consulta dos trabalhadores."
+  },
+  "3a39574005b3cbfd": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nProtecção dos representantes dos trabalhadores Os membros do grupo especial de negociação, os membros do conselho de empresa europeu e os representantes dos trabalhadores que exercem funções no âmbito do procedimento referido no nº 3 do artigo 6º gozam, no exercício das suas funções, da mesma protecção e de garantias semelhantes às previstas para os representantes dos trabalhadores na legislação e/ou práticas nacionais no seu país de emprego.\n\nIsto refere-se, em especial, à participação em reuniões do grupo especial de negociação ou do conselho de empresa europeu, ou em qualquer outra reunião realizada no âmbito do acordo referido no nº 3 do artigo 6º, bem como ao pagamento dos respectivos salários, tratando-se de membros que fazem parte do pessoal da empresa ou grupo de empresas de dimensão comunitária, durante os períodos de ausência necessários ao exercício das suas funções."
+  },
+  "e754e29ebf4114ef": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nCumprimento do disposto na presente directiva 1. Cada Estado-membro assegurará que a direcção dos estabelecimentos de uma empresa de dimensão comunitária ou das empresas de um grupo de empresas de dimensão comunitária, situados no seu território e os representantes dos respectivos trabalhadores ou, consoante o caso, os respectivos trabalhadores, respeite as obrigações previstas na presente directiva, independentemente de a direcção central se situar ou não no seu território.\n\n2. Os Estados-membros assegurarão que sejam comunicadas pelas empresas, a pedido das partes interessadas no âmbito da aplicação da presente directiva, as informações relativas ao número de trabalhadores referidos no nº 1, alíneas a) e c), do artigo 2º\n\n3. Os Estados-membros tomarão as medidas adequadas em caso de não cumprimento do disposto na presente directiva; assegurarão, nomeadamente, a existência de processos administrativos ou judiciais que permitam obter a execução das obrigações decorrentes da presente directiva.\n\n4. Ao aplicarem o artigo 8º, os Estados-membros instituirão processos de recurso administrativo ou judicial que os representantes dos trabalhadores podem interpor quando a direcção central exigir confidencialidade ou não facultar as informações nos termos do mesmo artigo 8º\n\nEsses processos podem incluir processos destinados a salvaguardar a confidencialidade da informação em questão."
+  },
+  "adb100ec8e26eae1": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nRelação entre a presente directiva e outras disposições 1. A presente directiva é aplicável sem prejuízo das disposições tomadas nos termos da Directiva 75/129/CEE do Conselho, de 17 de Fevereiro de 1975, relativa à aproximação das legislações dos Estados-membros respeitantes aos despedimentos colectivos (7), e com a Directiva 77/187/CEE do Conselho, de 14 de Fevereiro de 1977, relativa à aproximação das legislações dos Estados-membros respeitantes à manutenção dos direitos dos trabalhadores em caso de transferência de empresas, estabelecimentos ou partes de estabelecimentos (8).\n\n2. A presente directiva é aplicável sem prejuízo dos direitos à informação e consulta dos trabalhadores previstos nos direitos nacionais."
+  },
+  "9e91cdbf10e05443": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nAcordos vigentes 1. Sem prejuízo do nº 2, as empresas e os grupos de empresas de dimensão comunitária nos quais exista, na data prevista no nº 1 do artigo 14º ou na data, anterior a esta, de aplicação da directiva no Estado-membro em causa, um acordo aplicável a todos os trabalhadores que preveja a informação e consulta transnacionais dos trabalhadores não estão sujeitos às obrigações decorrentes da presente directiva.\n\n2. Quando caducarem os acordos referidos no nº 1, as partes nesses acordos podem tomar a decisão conjunta de os prorrogar.\n\nCaso contrário, é aplicável o disposto na presente directiva."
+  },
+  "c776426fbb5ba480": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nDisposições finais 1. Os Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 22 de Setembro de 1996, ou assegurar-se-ao, o mais tardar nessa mesma data, de que os parceiros sociais põem em prática as disposições necessárias por via de acordo, devendo os Estados-membros tomar todas as disposições necessárias que lhes permitam em qualquer momento garantir os resultados impostos pela presente directiva. Do facto informarão imediatamente a Comissão.\n\n2. Quando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "064ab8eb06cbf34f": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nReanálise pela Comissão O mais tardar em 22 de Setembro de 1999, a Comissão procederá, em consulta com os Estados-membros e os parceiros sociais a nível europeu, ao reexame das regras de execução da presente directiva e verificará, nomeadamente, a adequação dos limiares de efectivos, com vista a propor ao Conselho as eventuais alterações necessárias."
+  },
+  "6e950d6333d78b1d": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 22 de Setembro de 1994.\n\nPelo Conselho\n\nO Presidente\n\nN. BLUEM\n\n(1) JO nº C 135 de18. 5. 1994, p. 8 e JO nº C 199 de 21. 7. 1994, p. 10.\n\n(2) Parecer proferido em 1 de Junho de 1994 (ainda não publicado no Jornal Oficial).\n\n(3) Parecer do Parlamento Europeu de 4 de Maio de 1994 (JO nº C 205 de 25. 7. 1994), posição comum do Conselho de 18 de Julho de 1994 (JO nº C 244 de 31. 8. 1994, p. 37).\n\n(4) JO nº C 39 de 15. 2. 1991, p. 10.\n\n(5) Jo nº C 336 de 31. 12. 1991, p. 11.\n\n(6) JO nº L 395 de 30. 12. 1989, p. 1.\n\n(7) JO nº L 48 de 22. 2. 1975, p. 29. Directiva com a última redacção que lhe foi dada pela Directiva 92/56/CEE (JO nº L 245 de 26. 8. 1992, p. 3).\n\n(8) JO nº L 61 de 5. 3. 1977, p. 26."
+  },
+  "9ca394b7b10d173c": {
+   "fragment_id": "ANEXO — DISPOSIÇÕES SUPLETIVAS referidas no artigo 7º",
+   "type": "divisao",
+   "heading": "ANEXO — DISPOSIÇÕES SUPLETIVAS referidas no artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — DISPOSIÇÕES SUPLETIVAS referidas no artigo 7º\n\n1. A fim de realizar o objectivo referido no nº 1 do artigo 1º e nos casos previstos no nº 1 do artigo 7º, será instituído um conselho de empresa europeu, cujas competências e composição são regidas pelas seguintes regras:\n\na) A competência do conselho de empresa europeu limita-se à informação e consulta sobre as questões relativas ao conjunto da empresa ou grupo de empresas de dimensão comunitária ou, no mínimo, a dois estabelecimentos ou empresas do grupo situados em Estados-membros diferentes.\n\nNo caso das empresas ou grupos de empresas referidos no nº 2 do artigo 4º, a competência do conselho de empresa europeu limita-se às matérias relativas a todos os estabelecimentos ou a todas as empresas do grupo situados nos Estados-membros ou, no mínimo, a dois estabelecimentos ou empresas do grupo situados em Estados-membros diferentes.\n\nb) O conselho de empresa europeu compõe-se de trabalhadores da empresa ou grupo de empresas de dimensão comunitária eleitos ou designados de entre si pelos representantes dos trabalhadores ou, na sua falta, pelo conjunto dos trabalhadores.\n\nOs membros do conselho de empresa europeu são eleitos ou designados em conformidade com as legislações e/ou práticas nacionais.\n\nc) O conselho de empresa europeu é composto no mínimo por três membros e no máximo por trinta membros.\n\nSe a sua dimensão assim o justificar, elege um comité restrito composto por três membros, no máximo.\n\nO conselho de empresa europeu adopta o seu regulamento interno.\n\nd) Na eleição ou designação dos membros do conselho de empresa europeu, deve assegurar-se:\n\n- em primeiro lugar, a existência de um representante por cada Estado-membro no qual a empresa de dimensão comunitária possua um ou mais estabelecimentos ou em que o grupo de empresas de dimensão comunitária possua a empresa que exerce o controlo ou uma ou mais empresas controladas,\n\n- em segundo lugar, a existência de representantes suplementares em número proporcional ao dos trabalhadores dos estabelecimentos, da empresa que exerce o controlo ou das empresas controladas nos termos da legislação do Estado-membro em cujo território se situa a direcção central.\n\ne) A direcção central ou qualquer outro nível de direcção mais apropriado são informados da composição do conselho de empresa europeu.\n\nf) Quatro anos após a instituição do conselho de empresa europeu, este apreciará a oportunidade de encetar negociações para a celebração do acordo referido no artigo 6º ou de manter em vigor as disposições supletivas adoptadas nos termos do presente anexo.\n\nOs artigos 6º e 7º aplicam-se, mutatis mutandis, se for decidido negociar um acordo nos termos do artigo 6º; nesse caso, a expressão « grupo especial de negociação » é substituída por « conselho de empresa europeu ».\n\n2. O conselho de empresa europeu tem o direito de se reunir com a direcção central uma vez por ano para ser informado e consultado, com base num relatório elaborado pela direcção central, sobre a evolução das actividades da empresa ou grupo de empresas de dimensão comunitária e sobre as suas perspectivas. As direcções locais serão informadas desse facto.\n\nA reunião incide nomeadamente sobre a sua estrutura, situação económica e financeira, evolução provável das actividades, produção e vendas, situação e evolução provável do emprego, investimentos, alterações de fundo relativas à organização, introdução de novos métodos de trabalho ou de novos processos de produção, transferências da produção, fusões, redução da dimensão ou encerramento de empresas, de estabelecimentos ou de partes importantes de estabelecimentos e despedimentos colectivos.\n\n3. Em circunstâncias excepcionais que afectem consideravelmente os interesses dos trabalhadores, nomeadamente em caso de transferência de local de trabalho, de encerramento de empresas ou estabelecimentos ou de despedimentos colectivos, o comité restrito ou, se este não existir, o conselho de empresa europeu tem o direito de ser informado. Tem o direito de se reunir, a seu pedido, com a direcção central ou qualquer outro nível de direcção mais apropriado no âmbito da empresa ou do grupo de empresas de dimensão comunitária, com competência para tomar decisões, a fim de ser informado e consultado sobre as medidas que afectem consideravelmente os interesses dos trabalhadores.\n\nNa reunião organizada com o comité restrito podem igualmente participar os membros do conselho de empresa europeu que tenham sido eleitos ou designados pelos estabelecimentos e/ou empresas directamente afectados pelas medidas em questão.\n\nEsta reunião de informação e consulta realizar-se-á o mais rapidamente possível, com base num relatório, elaborado pela direcção central ou por qualquer outro nível de direcção apropriado da empresa ou grupo de empresas de dimensão comunitária, sobre o qual poderá ser emitido um parecer após a reunião ou num prazo razoável.\n\nEsta reunião não põe em causa as prerrogativas da direcção central.\n\n4. Os Estados-membros podem estabelecer regras relativas à presidência das reuniões de informação e consulta.\n\nAntes de qualquer reunião com a direcção central, o conselho de empresa europeu ou o comité restrito, eventualmente alargado nos termos do segundo parágrafo do ponto 3, pode reunir-se sem a presença da direcção central.\n\n5. Sem prejuízo do disposto no artigo 8º, os membros do conselho de empresa europeu devem informar os representantes dos trabalhadores dos estabelecimentos ou das empresas do grupo de empresas de dimensão comunitária ou, na falta de representantes, o conjunto dos trabalhadores, sobre o conteúdo e os resultados do procedimento de informação e consulta levado a cabo nos termos do presente anexo.\n\n6. O conselho de empresa europeu ou o comité restrito pode ser assistido por peritos por si escolhidos, se tal for necessário para o cumprimento das suas funções.\n\n7. As despesas de funcionamento do conselho de empresa europeu são suportadas pela direcção central.\n\nA direcção central em causa dotará os membros do conselho de empresa europeu dos recursos financeiros e materiais necessários para que possam cumprir adequadamente a sua missão.\n\nSalvo acordo em contrário, a direcção central suportará, nomeadamente, as despesas de organização das reuniões e de interpretação, bem como as despesas de estada e de deslocação dos membros do conselho de empresa europeu e do comité restrito.\n\nDesde que respeitem estes princípios, os Estados-membros podem fixar regras orçamentais para o funcionamento do conselho de empresa europeu. Podem nomeadamente limitar a participação nas despesas a um único perito."
+  },
+  "131d4573b7acc0f1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Setembro de 1994\n\nrelativa à instituição de um conselho de empresa europeu ou de um procedimento de informação e consulta dos trabalhadores nas empresas ou grupos de empresas de dimensão comunitária\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Acordo relativo à política social anexo ao protocolo nº 14, relativo à política social, anexo ao Tratado que institui a Comunidade Europeia e, nomeadamente, o nº 2 do seu artigo 2º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/80afdbf3-0532-4934-a20a-b6e0c9d07206.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/80afdbf3-0532-4934-a20a-b6e0c9d07206.0018.03/DOC_1#E0002)),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºC do Tratado ([^3^](http://publications.europa.eu/resource/cellar/80afdbf3-0532-4934-a20a-b6e0c9d07206.0018.03/DOC_1#E0003)),\n\nConsiderando que, com base no protocolo relativo à política social, anexo ao Tratado que institui a Comunidade Europeia, o Reino da Bélgica, o Reino da Dinamarca, a República Federal da Alemanha, a República Helénica, o Reino de Espanha, a República Francesa, a Irlanda, a República Italiana, o Grão-Ducado do Luxemburgo, o Reino dos Países Baixos e a República Portuguesa, a seguir designados «Estados-membros», desejando aplicar a Carta social de 1989, adoptaram entre si um acordo relativo à política social;\n\nConsiderando que o nº 2 do artigo 2º do citado acordo autoriza o Conselho a adoptar, por meio de directivas, prescrições mínimas;\n\nConsiderando que, nos termos do artigo 1º do acordo, a Comunidade e os Estados-membros têm nomeadamente por objectivo a promoção do diálogo entre parceiros sociais;\n\nConsiderando que o ponto 17 da Carta comunitária dos direitos sociais fundamentais dos trabalhadores prevê, nomeadamente, que «a informação, a consulta e a participação dos trabalhadores devem ser desenvolvidas segundo regras adequadas e tendo em conta as práticas em vigor nos diferentes Estados-membros»; que «tal é válido nomeadamente nas empresas ou grupos com estabelecimentos ou empresas situados em vários Estados-membros»;\n\nConsiderando que, não obstante a existência de um amplo consenso entre a maioria dos Estados-membros, não foi possível ao Conselho tomar uma decisão sobre a proposta de directiva relativa à criação de um conselho de empresa europeu nas empresas ou grupos de empresas de dimensão comunitária, tendo em vista a informação e a consulta dos trabalhadores ([^4^](http://publications.europa.eu/resource/cellar/80afdbf3-0532-4934-a20a-b6e0c9d07206.0018.03/DOC_1#E0004)), com as alterações que lhe foram introduzidas em 3 de Dezembro de 1991 ([^5^](http://publications.europa.eu/resource/cellar/80afdbf3-0532-4934-a20a-b6e0c9d07206.0018.03/DOC_1#E0005));\n\nConsiderando que, nos termos do nº 2 do artigo 3º do Acordo relativo à política social, a Comissão consultou os parceiros sociais a nível comunitário sobre a possível orientação de uma acção comunitária no domínio da informação e da consulta dos trabalhadores nas empresas ou grupos de empresas de dimensão comunitária;\n\nConsiderando que, após essa consulta, a Comissão, considerando desejável uma acção comunitária, consultou novamente os parceiros sociais sobre o conteúdo da proposta em causa, nos termos do nº 3 do artigo 3º do referido acordo, e que os parceiros sociais apresentaram à Comissão os respectivos pareceres;\n\nConsiderando que, concluída esta segunda fase de consultas, os parceiros sociais não comunicaram à Comissão a sua intenção de dar início ao processo susceptível de conduzir à celebração de um acordo, conforme previsto no artigo 4º do referido acordo;\n\nConsiderando que o funcionamento do mercado interno implica um processo de concentrações de empresas, fusões transfronteiriças, absorções e associações e, consequentemente, uma transnacionalização das empresas e dos grupos de empresas; que, para assegurar o desenvolvimento harmonioso das actividades económicas, é necessário que as empresas e os grupos de empresas que operam em diversos Estados-membros informem e consultem os representantes dos trabalhadores afectados pelas suas decisões;\n\nConsiderando que os procedimentos de informação e consulta dos trabalhadores consagrados nas legislações ou na prática dos Estados-membros são muitas vezes inadaptados à estrutura transnacional da entidade que toma a decisão que afecta esses trabalhadores; que esta situação poderá conduzir a um tratamento desigual dos trabalhadores afectados pelas decisões no interior de uma mesma empresa ou de um mesmo grupo;\n\nConsiderando que devem ser adoptadas disposições adequadas por forma a garantir que os trabalhadores empregados em empresas ou grupos de empresas de dimensão comunitária sejam convenientemente informados e consultados quando, fora do Estado-membro em que trabalham, são tomadas decisões que possam afectá-los;\n\nConsiderando que, para garantir que os trabalhadores de empresas ou de grupos de empresas que operam em diversos Estados-membros sejam convenientemente informados e consultados, é conveniente instituir um conselho de empresa europeu ou criar outros procedimentos adequados de informação e consulta transnacionais dos trabalhadores;\n\nConsiderando que, para o efeito, é necessária uma definição da noção de empresa que exerce o controlo que se aplique exclusivamente à presente directiva e não prejudique outras definições de grupo e de controlo que possam ser adoptadas em textos a elaborar no futuro;\n\nConsiderando que os mecanismos para a informação e consulta dos trabalhadores dessas empresas ou desses grupos devem incluir todos os estabelecimentos ou, consoante o caso, todas as empresas pertencentes ao grupo, situados nos Estados-membros, quer a direcção central da empresa ou, no caso de um grupo, da empresa que exerce o controlo, esteja ou não situada no território dos Estados-membros;\n\nConsiderando que, de acordo com o princípio da subsidiaridade, compete aos Estados-membros a determinação de quem são os representantes dos trabalhadores, e nomeadamente prever, se assim o entenderem adequado, uma representação equilibrada das diversas categorias de trabalhadores;\n\nConsiderando que, em conformidade com o princípio da autonomia das partes, compete aos representantes dos trabalhadores e à direcção da empresa ou da empresa que exerce o controlo do grupo determinar, por mútuo acordo, a natureza, a composição, as atribuições, as regras de funcionamento, as normas processuais e os recursos financeiros do conselho de empresa europeu ou de qualquer outro procedimento de informação e consulta, por forma a que se adaptem à sua situação específica;\n\nConsiderando, todavia, que convém prever determinadas disposições supletivas a aplicar se as partes assim o decidirem, se a direcção central se recusar a iniciar negociações ou se não houver acordo no termo das negociações;\n\nConsiderando, além disso, que os representantes dos trabalhadores podem decidir não solicitar a instituição de um conselho de empresa europeu, ou que as partes interessadas podem acordar noutros procedimentos de informação e consulta transnacionais dos trabalhadores;\n\nConsiderando que, sem prejuízo da faculdade conferida às partes de adoptarem outras disposições, o conselho de empresa europeu instituído na ausência de acordo entre as partes, para realizar o objectivo da presente directiva, deve ser informado e consultado sobre as actividades da empresa ou do grupo de empresas, por forma a poder avaliar o seu eventual impacte nos interesses dos trabalhadores de, pelo menos, dois Estados-membros diferentes; que, consequentemente, a empresa ou a empresa que exerce o controlo devem ser obrigadas a comunicar aos representantes designados dos trabalhadores informações gerais relativas aos interesses dos trabalhadores e informações mais especificamente relacionadas com os aspectos das actividades da empresa ou do grupo de empresas que afectem os interesses dos trabalhadores; que o conselho de empresa europeu deve ter a possibilidade de formular um parecer no final dessas reuniões;\n\nConsiderando que os representantes designados dos trabalhadores devem ser o mais rapidamente possível informados e consultados sobre um certo número de decisões que afectam significativamente os interesses dos trabalhadores;\n\nConsiderando que é conveniente prever que os representantes dos trabalhadores que actuem no âmbito da directiva gozem, no exercício das suas funções, da mesma protecção e das garantias similares previstas para os representantes dos trabalhadores pela legislação e/ou a prática do país que o emprega; que não devem sofrer qualquer discriminação pelo exercício legítimo da sua actividade e devem beneficiar de adequada protecção em matéria de licenciamento e outras sanções;\n\nConsiderando que, no caso de uma empresa ou de uma empresa que exerça o controlo de um grupo cuja direcção central esteja situada fora do território dos Estados-membros, as disposições da presente directiva relativas à informação e consulta dos trabalhadores devem ser aplicadas pelo seu representante, eventualmente designado, num dos Estados-membros ou, na falta de representante, pelo estabelecimento ou pela empresa controlada que mais trabalhadores empregue nos Estados-membros;\n\nConsiderando que convém conceder um tratamento específico às empresas e aos grupos de empresas de dimensão comunitária nos quais exista, à data de aplicação da presente directiva, um acordo aplicável a todos os trabalhadores que preveja a informação e consulta transnacionais dos trabalhadores;\n\nConsiderando que os Estados-membros devem tomar medidas apropriadas em caso de não cumprimento das obrigações previstas na presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "19572906891c0646": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "ea9e28c5cb28bb90": {
+   "fragment_id": "Artigo 1º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º — Objecto\n\n1. A presente directiva tem como objectivo melhorar o direito à informação e consulta dos trabalhadores nas empresas ou grupos de empresas de dimensão comunitária.\n\n2. Para o efeito, será instituído um conselho de empresa europeu ou um procedimento de informação e consulta dos trabalhadores em todas as empresas ou grupos de empresas de dimensão comunitária, quando tal seja requerido nos termos do procedimento previsto no nº 1 do artigo 5º, com a finalidade de informar e consultar os referidos trabalhadores nos termos, segundo as regras e com os efeitos previstos na presente directiva.\n\n3. Em derrogação do nº 2, sempre que um grupo de empresas de dimensão comunitária, na acepção da alínea c) do nº 1 do artigo 2º, compreenda uma ou mais empresas ou grupos de empresas que sejam empresas ou grupos de empresas de dimensão comunitária, na acepção das alíneas a) ou c) do nº 1 do artigo 2º, o conselho de empresa europeu será instituído a nível do grupo, salvo disposições em contrário previstas nos acordos referidos no artigo 6º.\n\n4. Salvo estipulação nos acordos referidos no artigo 6º de um âmbito de aplicação mais amplo, os poderes e as competências dos conselhos de empresa europeus e o alcance dos procedimentos de informação e consulta dos trabalhadores criados para atingir o objectivo referido no nº 1 abrangem, no caso de uma empresa de dimensão comunitária, todos os estabelecimentos situados nos Estados-membros e, no caso de um grupo de empresas de dimensão comunitária, todas as empresas do grupo situadas nos Estados-membros.\n\n5. Os Estados-membros podem dispor que a presente directiva não é aplicável às tripulações da marinha mercante."
+  },
+  "3fd0a5d6e9160c9d": {
+   "fragment_id": "Artigo 2º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — Definições\n\n1. Para efeitos da presente directiva, entende-se por:\n\na) «Empresa de dimensão comunitária», qualquer empresa que empregue, pelo menos, 1 000 trabalhadores nos Estados-membros e, em pelo menos dois Estados-membros diferentes, um mínimo de 150 trabalhadores em cada um deles;\n\nb) «Grupo de empresas», um grupo composto pela empresa que exerce o controlo e pelas empresas controladas;\n\nc) «Grupo de empresas de dimensão comunitária», um grupo de empresas que preencha as seguintes condições:\n\n— empregue, pelos menos, 1 000 trabalhadores nos Estados-membros,\n\n— possua, pelo menos, duas empresas membros do grupo em Estados-membros diferentes\n\n— e\n\n— inclua, pelo menos, uma empresa do grupo que empregue, no mínimo, 150 trabalhadores num Estado-membro e, pelo menos, outra empresa do grupo que empregue, no mínimo, 150 trabalhadores noutro Estado-membro;\n\nd) «Representantes dos trabalhadores», os representantes dos trabalhadores previstos nas legislações e/ou práticas nacionais;\n\ne) «Direcção central», a direcção central da empresa de dimensão comunitária ou, no caso de um grupo de empresas de dimensão comunitária, da empresa que exerce o controlo;\n\nf) «Consulta», a troca de opiniões e o estabelecimento de um diálogo entre os representantes dos trabalhadores e a direcção central ou qualquer outro nível de direcção mais apropriado;\n\ng) «Conselho de empresa europeu», o comité instituído nos termos do nº 2 do artigo 1º ou do disposto no anexo, com o objectivo de informar e consultar os trabalhadores;\n\nh) «Grupo especial de negociação», o grupo constituído nos termos do nº 2 do artigo 5º, para negociar com a direcção central a constituição de um «conselho de empresa europeu» ou um procedimento de informação e consulta dos trabalhadores, nos termos do nº 2 do artigo 1º.\n\n2. Para efeitos da presente directiva, os limiares de efectivos são fixados por referência ao número médio de trabalhadores, incluindo os trabalhadores a tempo parcial, empregados no dois anos anteriores, calculado de acordo com as legislações e/ou práticas nacionais."
+  },
+  "14bb6b6572bb5927": {
+   "fragment_id": "Artigo 3º — Definição da noção de «empresa que exerce o controlo»",
+   "type": "artigo",
+   "heading": "Artigo 3º — Definição da noção de «empresa que exerce o controlo»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º — Definição da noção de «empresa que exerce o controlo»\n\n1. Para efeitos da presente directiva, entende-se por «empresa que exerce o controlo» uma empresa que pode exercer uma inflûencia dominante sobre outra empresa («empresa controlada»), por exemplo, em virtude da propriedade, da participação financeira ou das disposições que a regem.\n\n2. Presume-se que uma influência dominante, sem prejuízo de prova em contrário, quando essa empresa, directa ou indirectamente, em relação a outra:\n\na) Tem a maioria do capital subscrito dessa empresa,\n\nb) Dispõe da maioria dos votos correspondentes às partes de capital emitidas por essa empresa,\n\nc) Pode nomear mais de metade dos membros do conselho de administração, do órgão de direcção ou de fiscalização da empresa.\n\n3. Para efeitos do nº 2, os direitos do voto e de nomeação da empresa que exerce o controlo compreendem os direitos de qualquer outra empresa controlada, bem como os de quaisquer pessoas ou entidades que actuem em nome próprio, mas por conta da empresa que exerce o controlo ou de qualquer outra empresa controlada.\n\n4. Não obstante os n^os^ 1 e 2, uma empresa não é considerada uma «empresa que exerce o controlo» de outra empresa de que tem participações quando se tratar de uma sociedade abrangida pelo nº 5, alíneas a) ou c), do artigo 3º do Regulamento (CEE) nº 4064/89 do Conselho, de 21 de Dezembro de 1989, relativo ao controlo das operações de concentração de empresas ([^6^](http://publications.europa.eu/resource/cellar/80afdbf3-0532-4934-a20a-b6e0c9d07206.0018.03/DOC_1#E0006)).\n\n5. Não se presume a existência de influência dominante apenas pelo facto de uma pessoa mandatada exercer as suas funções, nos termos da legislação de um Estado-membro relativa à liquidação falência, insolvência, cessação de pagamentos, concordata ou a outro processo análogo.\n\n6. A legislação aplicável para determinar se uma emmpresa é uma «empresa que exerce o controlo» é a do Estado-membro a que se encontra sujeita a empresa em questão.\n\nSe a legislação que rege a empresa não for a de um Estado-membro, a legislação aplicável será a do Estado-membro em cujo território está situado o seu representante ou, na sua falta, a do Estado-membro em cujo território se situa a direcção central da empresa do grupo que emprega o maior número de trabalhadores.\n\n7. Em caso de conflito de leis na aplicação no nº 2, sempre que duas ou mais empresas de um grupo satisfaçam um ou mais dos critérios estabelecidos no referido nº 2, será considerada empresa que exerce o controlo, sem prejuízo da prova de que outra empresa possa exercer uma influência dominante, aquela que satisfaz o critério estabelecido na alínea c)."
+  },
+  "0b50b9972a75b595": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO II"
+  },
+  "b45737a564f8606d": {
+   "fragment_id": "INSTITUIÇÃO DE UM CONSELHO DE EMPRESA EUROPEU OU DE UM PROCEDIMENTO DE INFORMAÇÃO E CONSULTA DOS TRABALHADORES",
+   "type": "divisao",
+   "heading": "INSTITUIÇÃO DE UM CONSELHO DE EMPRESA EUROPEU OU DE UM PROCEDIMENTO DE INFORMAÇÃO E CONSULTA DOS TRABALHADORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INSTITUIÇÃO DE UM CONSELHO DE EMPRESA EUROPEU OU DE UM PROCEDIMENTO DE INFORMAÇÃO E CONSULTA DOS TRABALHADORES"
+  },
+  "40de30cd9f0016d3": {
+   "fragment_id": "Artigo 4º — Responsabilidade de instituição de um conselho de empresa europeu ou de um procedimento de informação e consulta dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 4º — Responsabilidade de instituição de um conselho de empresa europeu ou de um procedimento de informação e consulta dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — Responsabilidade de instituição de um conselho de empresa europeu ou de um procedimento de informação e consulta dos trabalhadores\n\n1. Compete à direcção central criar as condições e proporcionar os meios necessários à instituição do conselho de empresa europeu ou de um procedimento de informação e consulta a que se refere o nº 2 do artigo 1º na empresa ou grupo de empresas de dimensão comunitária.\n\n2. Sempre que a direcção central não estiver situada num Estado-membro, incumbe ao representante da direcção central num Estado-membro, eventualmente designado, a responsabilidade referida no nº 1.\n\nNa falta desse representante, incumbe à direcção do estabelecimento ou à da empresa do grupo que emprega o maior número de trabalhadores num Estado-membro a responsabilidade referida no nº 1.\n\n3. Para efeitos da presente directiva, o ou os representantes ou, na falta destes, a direcção referida no segundo parágrafo do nº 2, são considerados a direcção central."
+  },
+  "d6a955c71e0150f4": {
+   "fragment_id": "Artigo 5º — Grupo especial de negociação",
+   "type": "artigo",
+   "heading": "Artigo 5º — Grupo especial de negociação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Grupo especial de negociação\n\n1. A fim de atingir o objectivo a que se refere o nº 1 do artigo 1º, a direcção central encetará as negociações para a instituição de um comité europeu de empresa ou de um procedimento de informação e consulta, por iniciativa própria ou mediante pedido escrito de, no mínimo, 100 trabalhadores, ou dos seus representantes, provenientes de pelo menos duas empresas ou estabelecimentos situados em pelo menos dois Estados-membros diferentes.\n\n2. Para o efeito, será constituído um grupo especial de negociação de acordo com as seguintes directrizes:\n\na) Os Estados-membros determinam o modo de eleição ou de designação dos membros do grupo especial de negociação que devem ser eleitos ou designados no seu território.\n\nb) O grupo especial de negociação é composto no mínimo por três membros e no máximo por um número de membros igual ao número de Estados-Membros;\n\nc) Nas eleições ou designações, deve assegurar-se:\n\n— em primeiro lugar, a existência de um representante por cada Estado-membro no qual a empresa de dimensão comunitária possua um ou mais estabelecimentos ou em que o grupo de empresas de dimensão comunitária possua a empresa que exerce o controlo ou uma ou mais empresas controladas,\n\n— em segundo lugar, a existência de representantes suplementares em número proporcional ao dos trabalhadores dos estabelecimentos, da empresa que exerce o controlo ou das empresas controladas nos termos da legislação do Estado-membro em cujo território se situa a direcção central;\n\nd) A direcção central e as direcções locais são informadas da composição do grupo especial de negociação.\n\n3. Incumbe ao grupo especial de negociação fixar, com a direcção central e mediante acordo escrito, o âmbito de acção, a composição, as atribuições e a duração do mandato do ou dos conselhos europeus de empresa ou as regras de execução de um procedimento de informação e consulta dos trabalhadores.\n\n4. Para efeitos da celebração de um acordo nos termos do artigo 6º, a direcção central convocará uma reunião com o grupo especial de negociação. Desse facto informará as direcções locais.\n\nPara efeitos das negociações, o grupo especial de negociação pode fazer-se assitir por peritos à sua escolha.\n\n5. O grupo especial de negociação pode decidir por, no mínimo, dois terços dos votos não encetar negociações nos termos do nº 4, ou anulá-las no caso de já estarem em curso.\n\nUma decisão dessa natureza põe termo ao processo para celebração do acordo referido no artigo 6º Quando for tomada esta decisão, não é aplicável o disposto no anexo.\n\nUm novo pedido de convocação do grupo especial de negociação só pode ser apresentado dois anos após a referida decisão, excepto se as partes interessadas fixarem um prazo mais curto.\n\n6. As despesas relativas às negociações referidas nos n^os^ 3 e 4 serão suportadas pela direcção central, de modo a que o grupo especial de negociação possa cumprir de forma adequada a sua missão.\n\nDesde que respeitem este princípio, os Estados-membros podem fixar regras orçamentais para o fundionamento do grupo especial de negociação. Podem nomeadamente limitar a participação nas despesas a um único perito."
+  },
+  "4ffd499d2ac87014": {
+   "fragment_id": "Artigo 6º — Conteúdo do acordo",
+   "type": "artigo",
+   "heading": "Artigo 6º — Conteúdo do acordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º — Conteúdo do acordo\n\n1. A direcção central e o grupo especial de negociação devem negociar com espírito de colaboração a fim de chegarem a acordo sobre as regras de execução em matéria de informação e da consulta dos trabalhadores referidas no nº 1 do artigo 1º.\n\n2. Sem prejuízo da autonomia das partes, o acordo referido no nº 1 celebrado por escrito entre a direcção central e o grupo especial de negociação estabelecerá:\n\na) As empresas do grupo de empresas de dimensão comunitária ou os estabelecimentos da empresa de dimensão comunitária abrangidos pelo acordo;\n\nb) A composição do conselho de empresa europeu, bem como o número de membros, a distribuição dos lugares e a duração do mandato;\n\nc) As atribuições e o procedimento de informação e consulta do conselho de empresa europeu;\n\nd) O local, a frequência e a duração das reuniões do conselho de empresa europeu;\n\ne) Os recursos financeiros e materiais a afectar ao conselho de empresa europeu;\n\nf) A duração do acordo e o seu processo de renegociação.\n\n3. A direcção central e o grupo especial de negociação podem decidir por escrito instituir um ou mais procedimentos de informação e consulta, em vez de constituir um conselho de empresa europeu.\n\nO acordo deve estabelecer as regras segundo as quais os representantes dos trabalhadores têm o direito de se reunir para proceder a uma troca de opiniões sobre as informações que lhes são comunicadas.\n\nEssas informações incidem nomeadamente sobre questões transnacionais susceptíveis de afectar consideravelmente os interesses dos trabalhadores.\n\n4. Os acordos referidos nos n^os^ 2 e 3 não estão sujeitos, salvo disposições em contrário previstas nesses acordos, às disposições supletivas do anexo.\n\n5. Para efeitos da celebração dos acordos referidos nos n^os^ 2 e 3, o grupo especial de negociação delibera por maioria dos seus membros."
+  },
+  "dedd9b75d203eb2e": {
+   "fragment_id": "Artigo 7º — Disposições supletivas",
+   "type": "artigo",
+   "heading": "Artigo 7º — Disposições supletivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — Disposições supletivas\n\n1. A fim de assegurar a realização do objectivo referido no nº 1 do artigo 1º, são aplicáveis as disposições supletivas da legislação do Estado-membro no qual está situada a direcção central:\n\n— se a direcção central e o grupo especial de negociação assim o decidirem,\n\n— ou\n\n— se a direcção central se recusar a abrir negociações num prazo de seis meses a contar do pedido referido no nº 1 do artigo 5º,\n\n— ou\n\n— se não tiver sido celebrado o acordo referido no artigo 6º no prazo de três anos a contar do pedido inicial e o grupo especial de negociação não tiver tomado a decisão prevista no nº 5 do artigo 5º.\n\n2. As disposições supletivas referidas no nº 1 previstas na legislação do Estado-membro, devem satisfazer o disposto no anexo."
+  },
+  "b4f1bfdbc841cf04": {
+   "fragment_id": "SECÇÃO III",
+   "type": "divisao",
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO III"
+  },
+  "4f0027fbf9863594": {
+   "fragment_id": "DISPOSIÇÕES DIVERSAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES DIVERSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES DIVERSAS"
+  },
+  "5d10271b63f5206c": {
+   "fragment_id": "Artigo 8º — Informações confidenciais",
+   "type": "artigo",
+   "heading": "Artigo 8º — Informações confidenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º — Informações confidenciais\n\n1. Os Estados-membros devem dispor que os membros do grupo especial de negociação e do conselho de empresa europeu, bem como os peritos que eventualmente os assistam, não são autorizados a revelar a terceiros as informações que lhes tenham sido expressamente comunicadas a título confidencial.\n\nO mesmo se aplica aos representantes dos trabalhadores no âmbito de um procedimento de informação e consulta.\n\nEsta obrigação mantém-se, seja qual for o local em que se encontrem, mesmo após o termo dos respectivos mandatos.\n\n2. Em casos específicos e nos termos e limites fixados na legislação nacional, cada Estado-membro deve dispor que a direcção central situada no seu território não é obrigada a comunicar as informações cuja natureza seja susceptível, segundo critérios objectivos, de entravar gravemente o funcionamento das empresas em causa ou de as prejudicar.\n\nO Estado-membro em causa pode subordinar esta dispensa a uma autorização administrativa ou judicial prévia.\n\n3. Cada Estado-membro pode adoptar disposições especiais a favor da direcção central das empresas estabelecidas no seu território que tenham directa e principalmente finalidades de orientação ideológica relacionadas com a informação e a expressão de opiniões, desde que, à data de adopção da presente directiva, essas disposições especiais já existam na legislação nacional."
+  },
+  "f7480d649c0f8d22": {
+   "fragment_id": "Artigo 9º — Funcionamento do conselho de empresa europeu e do procedimento de informação e consulta dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 9º — Funcionamento do conselho de empresa europeu e do procedimento de informação e consulta dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º — Funcionamento do conselho de empresa europeu e do procedimento de informação e consulta dos trabalhadores\n\nA direcção central e o conselho de empresa europeu trabalham em espírito de colaboração e na observância dos seus direitos e obrigações recíprocos.\n\nO mesmo se aplica à colaboração entre a direcção central e os representantes dos trabalhadores no âmbito de um procedimento de informação e consulta dos trabalhadores."
+  },
+  "b7f45db418c3a2ad": {
+   "fragment_id": "Artigo 10º — Protecção dos representantes dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 10º — Protecção dos representantes dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º — Protecção dos representantes dos trabalhadores\n\nOs membros do grupo especial de negociação, os membros do conselho de empresa europeu e os representantes dos trabalhadores que exercem funções no âmbito do procedimento referido no nº 3 do artigo 6º gozam, no exercício das suas funções, da mesma protecção e de garantias semelhantes às previstas para os representantes dos trabalhadores na legislação e/ou práticas nacionais no seu país de emprego.\n\nIsto refere-se, em especial, à participação em reuniões do grupo especial de negociação ou do conselho de empresa europeu, ou em qualquer outra reunião realizada no âmbito do acordo referido no nº 3 do artigo 6º, bem como ao pagamento dos respectivos salários, tratando-se de membros que fazem parte do pessoal da empresa ou grupo de empresas de dimensão comunitária, durante os períodos de ausência necessários ao exercício das suas funções."
+  },
+  "237f234267a97e71": {
+   "fragment_id": "Artigo 11º — Cumprimento do disposto na presente directiva",
+   "type": "artigo",
+   "heading": "Artigo 11º — Cumprimento do disposto na presente directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º — Cumprimento do disposto na presente directiva\n\n1. Cada Estado-membro assegurará que a direcção dos estabelecimentos de uma empresa de dimensão comunitária ou das empresas de um grupo de empresas de dimensão comunitária, situados no seu território e os representantes dos respectivos trabalhadores ou, consoante o caso, os respectivos trabalhadores, respeite as obrigações previstas na presente directiva, independentemente de a direcção central se situar ou não no seu território.\n\n2. Os Estados-membros assegurarão que sejam comunicadas pelas empresas, a pedido das partes interessadas no âmbito da aplicação da presente directiva, as informações relativas ao número de trabalhadores referidos no nº 1, alíneas a) e c), do artigo 2º.\n\n3. Os Estados-membros tomarão as medidas adequadas em caso de não cumprimento do disposto na presente directiva; assegurarão, nomeadamente, a existência de processos administrativos ou judiciais que permitam obter a execução das obrigações decorrentes da presente directiva.\n\n4. Ao aplicarem o artigo 8º, os Estados-membros instituirão processos de recurso administrativo ou judicial que os representantes dos trabalhadores podem interpor quando a direcção central exigir confidencialidade ou não facultar as informações nos termos do mesmo artigo 8º.\n\nEsses processos podem incluir processos destinados a salvaguardar a confidencialidade da informação em questão."
+  },
+  "aa94a13546b53409": {
+   "fragment_id": "Artigo 12º — Relação entre a presente directiva e outras disposições",
+   "type": "artigo",
+   "heading": "Artigo 12º — Relação entre a presente directiva e outras disposições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º — Relação entre a presente directiva e outras disposições\n\n1. A presente directiva é aplicável sem prejuízo das disposições tomadas nos termos da Directiva 75/129/CEE do Conselho, de 17 de Fevereiro de 1975, relativa à aproximação das legislações dos Estados-membros respeitantes aos despedimentos colectivos ([^7^](http://publications.europa.eu/resource/cellar/80afdbf3-0532-4934-a20a-b6e0c9d07206.0018.03/DOC_1#E0007)), e com a Directiva 77/187/CEE do Conselho, de 14 de Fevereiro de 1977, relativa à aproximação das legislações dos Estados-membros respeitantes à manutenção dos direitos dos trabalhadores em caso de transferência de empresas, estabelecimentos ou partes de estabelecimentos ([^8^](http://publications.europa.eu/resource/cellar/80afdbf3-0532-4934-a20a-b6e0c9d07206.0018.03/DOC_1#E0008)).\n\n2. A presente directiva é aplicável sem prejuízo dos direitos à informação e consulta dos trabalhadores previstos nos direitos nacionais."
+  },
+  "852cd1508ff34b99": {
+   "fragment_id": "Artigo 13º — Acordos vigentes",
+   "type": "artigo",
+   "heading": "Artigo 13º — Acordos vigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º — Acordos vigentes\n\n1. Sem prejuízo do nº 2, as empresas e os grupos de empresas de dimensão comunitária nos quais exista, na data prevista no nº 1 do artigo 14º ou na data, anterior a esta, de aplicação da directiva no Estado-membro em causa, um acordo aplicável a todos os trabalhadores que preveja a informação e consulta transnacionais dos trabalhadores não estão sujeitos às obrigações decorrentes da presente directiva.\n\n2. Quando caducarem os acordos referidos no nº 1, as partes nesses acordos podem tomar a decisão conjunta de os prorrogar.\n\nCaso contrário, é aplicável o disposto na presente directiva."
+  },
+  "a7de51b10b53f3b6": {
+   "fragment_id": "Artigo 14º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 14º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º — Disposições finais\n\n1. Os Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 22 de Setembro de 1996, ou assegurar-se-ão, o mais tardar nessa mesma data, de que os parceiros sociais põem em prática as disposições necessárias por via de acordo, devendo os Estados-membros tomar todas as disposições necessárias que lhes permitam em qualquer momento garantir os resultados impostos pela presente directiva. Do facto informarão imediatamente a Comissão.\n\n2. Quando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "824eee0dd92e7a7e": {
+   "fragment_id": "Artigo 15º — Reanálise pela Comissão",
+   "type": "artigo",
+   "heading": "Artigo 15º — Reanálise pela Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º — Reanálise pela Comissão\n\nO mais tardar em 22 de Setembro de 1999, a Comissão procederá, em consulta com os Estados-membros e os parceiros sociais a nível europeu, ao reexame das regras de execução da presente directiva e verificará, nomeadamente, a adequação dos limiares de efectivos, com vista a propor ao Conselho as eventuais alterações necessárias."
+  },
+  "b2bdf85f73245cd5": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "254ccb9647e01247": {
+   "fragment_id": "DISPOSIÇÕES SUPLETIVAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES SUPLETIVAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES SUPLETIVAS"
+  },
+  "c22c244f51f27971": {
+   "fragment_id": "referidas no artigo 7º",
+   "type": "divisao",
+   "heading": "referidas no artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### referidas no artigo 7º\n\n1. A fim de realizar o objectivo referido no nº 1 do artigo 1º e nos casos previstos no nº 1 do artigo 7º, será instituído um conselho de empresa europeu, cujas competências e composição são regidas pelas seguintes regras:\n\na) A competência do conselho de empresa europeu limitase à informação e consulta sobre as questões relativas ao conjunto da empresa ou grupo de empresas de dimensão comunitária ou, no mínimo, a dois estabelecimentos ou empresas do grupo situados em Estados-membros diferentes.\n\nb) O conselho de empresa europeu compõe-se de trabalhadores da empresa ou grupo de empresas de dimensão comunitária eleitos ou designados de entre si pelos representantes dos trabalhadores ou, na sua falta, pelo conjunto dos trabalhadores.\n\nc) O conselho de empresa europeu é composto no mínimo por três membros e no máximo por trinta membros.\n\nd) Na eleição ou designação dos membros do conselho de empresa europeu, deve assegurar-se:\n\n— em primeiro lugar, a existência de um representante por cada Estado-membro no qual a empresa de dimensão comunitária possua um ou mais estabelecimentos ou em que o grupo de empresas de dimensão comunitária possua a empresa que exerce o controlo ou uma ou mais empresas controladas,\n\n— em segundo lugar, a existência de representantes suplementares em número proporcional ao dos trabalhadores dos estabelecimentos, da empresa que exerce o controlo ou das empresas controladas nos termos da legislação do Estado-membro em cujo território se situa a direcção central.\n\ne) A direcção central ou qualquer outro nível de direcção mais apropriado são informados da composição do conselho de empresa europeu.\n\nf) Quatro anos após a instituição do conselho de empresa europeu, este apreciará a oportunidade de encetar negociações para a celebração do acordo referido no artigo 6º ou de manter em vigor as disposições supletivas adoptadas nos termos do presente anexo.\n\n2. O conselho de empresa europeu tem o direito de se reunir com a direcção central uma vez por ano para ser informado e consultado, com base num relatório elaborado pela direcção central, sobre a evolução das actividades da empresa ou grupo de empresas de dimensão comunitária e sobre as suas perspectivas. As direcções locais serão informadas desse facto.\n\n3. Em circunstâncias excepcionais que afectem consideravelmente os interesses dos trabalhadores, nomeadamente em caso de transferência de local de trabalho, de encerramento de empresas ou estabelecimentos ou de despedimentos colectivos, o comité restrito ou, se este não existir, o conselho de empresa europeu tem o direito de ser informado. Tem o direito de se reunir, a seu pedido, com a direcção central ou qualquer outro nível de direcção mais apropriado no âmbito da empresa ou do grupo de empresas de dimensão comunitária, com competência para tomar decisões, a fim de ser informado e consultado sobre as medidas que afectem consideravelmente os interesses dos trabalhadores.\n\n4. Os Estados-membros podem estabelecer regras relativas à presidência das reuniões de informação e consulta.\n\n5. Sem prejuízo do disposto no artigo 8º, os membros do conselho de empresa europeu devem informar os representantes dos trabalhadores dos estabelecimentos ou das empresas do grupo de empresas de dimensão comunitária ou, na falta de representantes, o conjunto dos trabalhadores, sobre o conteúdo e os resultados do procedimento de informação e consulta levado a cabo nos termos do presente anexo.\n\n6. O conselho de empresa europeu ou o comité restrito pode ser assistido por peritos por si escolhidos, se tal for necessário para o cumprimento das suas funções.\n\n7. As despesas de funcionamento do conselho de empresa europeu são suportadas pela direcção central.\n\n---"
+  },
+  "47778c7d82b20cc5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/80afdbf3-0532-4934-a20a-b6e0c9d07206.0018.03/DOC_1#src.E0001)) JO nº C 135 de 18. 5. 1994, p. 8 e JO nº C 199 de 21. 7. 1994, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/80afdbf3-0532-4934-a20a-b6e0c9d07206.0018.03/DOC_1#src.E0002)) Parecer proferido em 1 de Junho de 1994 (ainda não publicado no Jornal Oficial) (SIC! JO nº C 295 de 22. 10. 1994, p. 64).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/80afdbf3-0532-4934-a20a-b6e0c9d07206.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 4 de Maio de 1994 (JO nº C 205 de 25. 7. 1994), posição comum do Conselho de 18 de Julho de 1994 (JO nº C 244 de 31. 8. 1994, p. 37).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/80afdbf3-0532-4934-a20a-b6e0c9d07206.0018.03/DOC_1#src.E0004)) JO nº C 39 de 15. 2. 1991, p. 10.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/80afdbf3-0532-4934-a20a-b6e0c9d07206.0018.03/DOC_1#src.E0005)) JO nº C 336 de 31. 12. 1991, p. 11.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/80afdbf3-0532-4934-a20a-b6e0c9d07206.0018.03/DOC_1#src.E0006)) JO nº L 395 de 30. 12. 1989, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/80afdbf3-0532-4934-a20a-b6e0c9d07206.0018.03/DOC_1#src.E0007)) JO nº L 48 de 22. 2. 1975, p. 29. Directiva com a última redacção que lhe foi dada pela Directiva 92/56/CEE (JO nº L 245 de 26. 8. 1992, p. 3).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/80afdbf3-0532-4934-a20a-b6e0c9d07206.0018.03/DOC_1#src.E0008)) JO nº L 61 de 5. 3. 1977, p. 26."
+  },
+  "7ad57036dc2d8970": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1994L0045 — PT — 06.06.2011 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31994L0045) [DIRECTIVA 94/45/CE DO CONSELHO](http://publications.europa.eu/resource/celex/31994L0045) [de 22 de Setembro de 1994](http://publications.europa.eu/resource/celex/31994L0045) [relativa à instituição de um conselho de empresa europeu ou de um procedimento de informação e consulta dos trabalhadores nas empresas ou grupos de empresas de dimensão comunitária](http://publications.europa.eu/resource/celex/31994L0045) (JO L 254, 30.9.1994, p.64)\n\n**revogado por:**\n\n- [Directiva 2009/38/CE do Parlamento Europeu e do Conselho de 6 de Maio de 2009](http://publications.europa.eu/resource/celex/32009L0038) — L 122 — 28 — 16.5.2009"
+  }
+ }
+}

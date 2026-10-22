@@ -36,6 +36,36 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-01'
+version_history:
+  file: regulamento-ue-2008-617.versoes.json
+  count: 2
+  source_lastmod: '2025-01-01'
+  versions:
+  - date: '2008-06-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-01-01'
+    amending: eu:celex:32010R0557:por
+    amending_title: REGULAMENTO (UE) N. o 557/2010 DA COMISSÃO de 24 de Junho de 2010; REGULAMENTO (UE) N. o 939/2011 DA COMISSÃO
+      de 23 de Setembro de 2011; REGULAMENTO (UE) N. o 519/2013 DA COMISSÃO de 21 de fevereiro de 2013; REGULAMENTO (UE) 2022/2379
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de novembro de 2022
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º — Registo dos estabelecimentos
+    - Altera Artigo 3.º — Marcação dos ovos para incubação e das respectivas embalagens
+    - Altera Artigo 7.º — Utilizações dos ovos retirados da incubadora
+    - Altera Artigo 8.º — Comunicações
+    - Altera Artigo 9.º — Organismos de controlo
+    - Altera Artigo 13.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 11.º-A — Aplicação da obrigação de notificação
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Menções referidas no artigo 3.º, n.º 4
+    - Adita ANEXO V
+    - Suprime Artigo 11.º — Apresentação de relatórios
 identifiers:
   celex: 32008R0617
   eli: http://data.europa.eu/eli/reg/2008/617/oj
@@ -50,7 +80,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1c017141-0faa-4303-878b-37de402c2c75.0018
   content_url: http://publications.europa.eu/resource/cellar/2aa1fc46-c217-11ef-91ed-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0617-20250101
-  retrieved_at: '2026-10-22T02:52:35Z'
+  retrieved_at: '2026-10-22T15:16:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T16:14:29.316+01:00'
 integrity:
@@ -59,9 +89,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:35Z'
-  notes: Texto consolidado 02008R0617-20250101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:16:10Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2008-617.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -129,32 +159,22 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 13
-  section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 5
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:35Z'
-  warnings: []
+  checked_at: '2026-10-22T15:16:10Z'
+  warnings:
+  - '02008R0617-20100701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0617-20110925: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0617-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 617/2008 da Comissão, de 27 de Junho de 2008
-
-> 02008R0617 — PT — 01.01.2025 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010R0557) — [REGULAMENTO (UE) N.º 557/2010 DA COMISSÃO de 24 de Junho de 2010](http://publications.europa.eu/resource/celex/32010R0557) — L 159 — 13 — 25.6.2010
-- [►M2](http://publications.europa.eu/resource/celex/32011R0939) — [REGULAMENTO (UE) N.º 939/2011 DA COMISSÃO de 23 de Setembro de 2011](http://publications.europa.eu/resource/celex/32011R0939) — L 248 — 1 — 24.9.2011
-- [►M3](http://publications.europa.eu/resource/celex/32013R0519) — [REGULAMENTO (UE) N.º 519/2013 DA COMISSÃO de 21 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0519) — L 158 — 74 — 10.6.2013
-- [►M4](http://publications.europa.eu/resource/celex/32022R2379) — [REGULAMENTO (UE) 2022/2379 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de novembro de 2022](http://publications.europa.eu/resource/celex/32022R2379) — L 315 — 1 — 7.12.2022
-
-## REGULAMENTO (CE) N.º 617/2008 DA COMISSÃO
 
 de 27 de Junho de 2008
 

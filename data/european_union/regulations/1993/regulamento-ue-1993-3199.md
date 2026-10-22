@@ -34,6 +34,190 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-12-07'
+version_history:
+  file: regulamento-ue-1993-3199.versoes.json
+  count: 10
+  source_lastmod: '2017-12-07'
+  versions:
+  - date: '1993-11-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-12-22'
+    amending: eu:celex:31995R2546:por
+    amending_title: REGULAMENTO (CE) N. o 2546/95 DA COMISSÃO de 30 de Outubro de 1995; M2; REGULAMENTO (CE) N. o 2205/2004
+      DA COMISSÃO de 21 de Dezembro de 2004
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Bélgica
+    - Adita Dinamarca
+    - Adita Alemanha
+    - Adita Grécia
+    - Adita Espanha
+    - Adita França
+    - Adita Irlanda
+    - Adita Itália
+    - Adita Luxemburgo
+    - Adita Países Baixos
+    - Adita Áustria
+    - Adita Portugal
+    - Adita Finlândia
+    - Adita Suécia
+    - Adita Reino Unido
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+  - date: '2005-08-14'
+    amending: eu:celex:32005R1309:por
+    amending_title: REGULAMENTO (CE) N. o 1309/2005 DA COMISSÃO de 10 de Agosto de 2005
+    changes:
+    - Altera preambulo
+    - Altera Reino Unido
+    - Altera Notas
+    - Adita Chipre
+    - Adita República Checa
+    - Adita Estónia
+    - Adita Hungria
+    - Adita Letónia
+    - Adita Lituânia
+    - Adita Malta
+    - Adita Polónia
+    - Adita Eslováquia
+    - Adita Eslovénia
+  - date: '2005-12-16'
+    amending: eu:celex:32005R2023:por
+    amending_title: REGULAMENTO (CE) N. o 2023/2005 DA COMISSÃO de 12 de Dezembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Reino Unido
+    - Altera Letónia
+    - Altera Notas
+  - date: '2008-01-29'
+    amending: eu:celex:32008R0067:por
+    amending_title: REGULAMENTO (CE) N. o 67/2008 DA COMISSÃO de 25 de Janeiro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Reino Unido
+    - Altera Notas
+    - Adita Bulgária
+    - Adita Roménia
+  - date: '2008-09-01'
+    amending: eu:celex:32008R0849:por
+    amending_title: REGULAMENTO (CE) N. o 849/2008 DA COMISSÃO de 28 de Agosto de 2008
+    changes:
+    - Altera preambulo
+    - Altera Grécia
+    - Altera Reino Unido
+    - Altera Notas
+  - date: '2011-08-06'
+    amending: eu:celex:32011R0767:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 767/2011 DA COMISSÃO de 2 de Agosto de 2011
+    changes:
+    - Altera preambulo
+    - Altera Grécia
+    - Altera França
+    - Altera Itália
+    - Altera Reino Unido
+    - Altera República Checa
+    - Altera Letónia
+    - Altera Eslováquia
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0162:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 162/2013 DA COMISSÃO de 21 de fevereiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera República Checa
+    - Altera Alemanha
+    - Altera Estónia
+    - Altera Irlanda
+    - Altera Grécia
+    - Altera Itália
+    - Altera Letónia
+    - Altera Lituânia
+    - Altera Hungria
+    - Altera Malta
+    - Altera Países Baixos
+    - Altera Áustria
+    - Altera Polónia
+    - Altera Roménia
+    - Altera Eslovénia
+    - Altera Eslováquia
+    - Altera Finlândia
+    - Altera Suécia
+    - Altera Reino Unido
+    - Altera Notas
+    - Adita I. Processo de desnaturação utilizado em todos os Estados-Membros
+    - Adita II. Processos de desnaturação adicionais utilizados em determinados Estados-Membros
+    - Suprime Bélgica
+    - Suprime Dinamarca
+    - Suprime Espanha
+    - Suprime França
+    - Suprime Luxemburgo
+    - Suprime Portugal
+    - Suprime Chipre
+    - Suprime Bulgária
+  - date: '2017-08-01'
+    amending: eu:celex:32016R1867:por
+    amending_title: M10; REGULAMENTO DE EXECUÇÃO (UE) 2017/1112 DA COMISSÃO de 22 de junho de 2017
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - 'Adita I. I. Processo comum de desnaturação para o álcool totalmente desnaturado utilizado na Bélgica, na Dinamarca,
+      na Alemanha, na Estónia, na Irlanda, na Grécia, em Espanha, em França, em Itália, em Chipre, na Letónia, na Lituânia,
+      no Luxemburgo, na Hungria, em Malta, nos Países Baixos, na Áustria, na Polónia, em Portugal, na Eslovénia, na Eslováquia
+      e na Finlândia:'
+    - 'Adita II. Maior concentração do processo comum de desnaturação para o álcool totalmente desnaturado, utilizado nos
+      seguintes Estados-Membros:'
+    - 'Adita III. Processos complementares de desnaturação para o álcool totalmente desnaturado utilizados em certos Estados-Membros:'
+    - Suprime I. Processo de desnaturação utilizado em todos os Estados-Membros
+    - Suprime II. Processos de desnaturação adicionais utilizados em determinados Estados-Membros
+    - Suprime República Checa
+    - Suprime Alemanha
+    - Suprime Estónia
+    - Suprime Irlanda
+    - Suprime Grécia
+    - Suprime Itália
+    - Suprime Letónia
+    - Suprime Lituânia
+    - Suprime Hungria
+    - Suprime Malta
+    - Suprime Países Baixos
+    - Suprime Áustria
+    - Suprime Polónia
+    - Suprime Roménia
+    - Suprime Eslovénia
+    - Suprime Eslováquia
+    - Suprime Finlândia
+    - Suprime Suécia
+    - Suprime Reino Unido
+    - Suprime Notas
+  - date: '2017-12-07'
+    amending: eu:celex:32017R2236:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2017/2236 DA COMISSÃO de 5 de dezembro de 2017
+    changes:
+    - Altera ANEXO
+    - 'Altera II. Maior concentração do processo comum de desnaturação para o álcool totalmente desnaturado, utilizado nos
+      seguintes Estados-Membros:'
+    - 'Altera III. Processos complementares de desnaturação para o álcool totalmente desnaturado utilizados em certos Estados-Membros:'
+    - 'Adita I. Processo comum de desnaturação para o álcool totalmente desnaturado utilizado na Bélgica, na Bulgária, na
+      Dinamarca, na Alemanha, na Estónia, na Irlanda, na Grécia, em Espanha, em França, em Itália, em Chipre, na Letónia,
+      na Lituânia, no Luxemburgo, na Hungria, em Malta, nos Países Baixos, na Áustria, na Polónia, em Portugal, na Roménia,
+      na Eslovénia, na Eslováquia e na Finlândia:'
+    - Adita República Checa e o Reino Unido
+    - Adita Croácia
+    - Adita Suécia
+    - Adita República Checa
+    - Adita Grécia
+    - Adita Finlândia — autorizado até 31.12.2018
+    - 'Suprime I. I. Processo comum de desnaturação para o álcool totalmente desnaturado utilizado na Bélgica, na Dinamarca,
+      na Alemanha, na Estónia, na Irlanda, na Grécia, em Espanha, em França, em Itália, em Chipre, na Letónia, na Lituânia,
+      no Luxemburgo, na Hungria, em Malta, nos Países Baixos, na Áustria, na Polónia, em Portugal, na Eslovénia, na Eslováquia
+      e na Finlândia:'
 identifiers:
   celex: 31993R3199
   eli: http://data.europa.eu/eli/reg/1993/3199/oj
@@ -48,7 +232,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8417bfaf-608a-4b22-ba96-399cc01e841c.0011
   content_url: http://publications.europa.eu/resource/cellar/025a1cda-5a23-4efc-958a-11214a734fa8.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R3199-20171207
-  retrieved_at: '2026-10-22T02:42:15Z'
+  retrieved_at: '2026-10-22T14:42:45Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T13:24:34.174+01:00'
 integrity:
@@ -57,9 +241,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:15Z'
-  notes: Texto consolidado 01993R3199-20171207.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:45Z'
+  notes: 10 versão(ões); histórico completo em regulamento-ue-1993-3199.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -192,39 +376,20 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:15Z'
-  warnings: []
+  checked_at: '2026-10-22T14:42:45Z'
+  warnings:
+  - '01993R3199-19951031: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R3199-19981128: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) nº 3199/93 da Comissão, de 22 de Novembro de 1993
-
-> 01993R3199 — PT — 07.12.2017 — 011.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/31995R2546) — [REGULAMENTO (CE) N.º 2546/95 DA COMISSÃO de 30 de Outubro de 1995](http://publications.europa.eu/resource/celex/31995R2546) — L 260 — 45 — 31.10.1995
-- [M2](http://publications.europa.eu/resource/celex/31998R2559) — [REGULAMENTO (CE) N.º 2559/98 DA COMISSÃO de 27 de Novembro de 1998](http://publications.europa.eu/resource/celex/31998R2559) — L 320 — 27 — 28.11.1998
-- [M3](http://publications.europa.eu/resource/celex/32004R2205) — [REGULAMENTO (CE) N.º 2205/2004 DA COMISSÃO de 21 de Dezembro de 2004](http://publications.europa.eu/resource/celex/32004R2205) — L 374 — 42 — 22.12.2004
-- [M4](http://publications.europa.eu/resource/celex/32005R1309) — [REGULAMENTO (CE) N.º 1309/2005 DA COMISSÃO de 10 de Agosto de 2005](http://publications.europa.eu/resource/celex/32005R1309) — L 208 — 12 — 11.8.2005
-- [M5](http://publications.europa.eu/resource/celex/32005R2023) — [REGULAMENTO (CE) N.º 2023/2005 DA COMISSÃO de 12 de Dezembro de 2005](http://publications.europa.eu/resource/celex/32005R2023) — L 326 — 8 — 13.12.2005
-- [M6](http://publications.europa.eu/resource/celex/32008R0067) — [REGULAMENTO (CE) N.º 67/2008 DA COMISSÃO de 25 de Janeiro de 2008](http://publications.europa.eu/resource/celex/32008R0067) — L 23 — 13 — 26.1.2008
-- [M7](http://publications.europa.eu/resource/celex/32008R0849) — [REGULAMENTO (CE) N.º 849/2008 DA COMISSÃO de 28 de Agosto de 2008](http://publications.europa.eu/resource/celex/32008R0849) — L 231 — 11 — 29.8.2008
-- [M8](http://publications.europa.eu/resource/celex/32011R0767) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 767/2011 DA COMISSÃO de 2 de Agosto de 2011](http://publications.europa.eu/resource/celex/32011R0767) — L 200 — 14 — 3.8.2011
-- [M9](http://publications.europa.eu/resource/celex/32013R0162) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 162/2013 DA COMISSÃO de 21 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0162) — L 49 — 55 — 22.2.2013
-- [M10](http://publications.europa.eu/resource/celex/32016R1867) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1867 DA COMISSÃO de 20 de outubro de 2016](http://publications.europa.eu/resource/celex/32016R1867) — L 286 — 32 — 21.10.2016
-- [M11](http://publications.europa.eu/resource/celex/32017R1112) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1112 DA COMISSÃO de 22 de junho de 2017](http://publications.europa.eu/resource/celex/32017R1112) — L 162 — 22 — 23.6.2017
-- [►M12](http://publications.europa.eu/resource/celex/32017R2236) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/2236 DA COMISSÃO de 5 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2236) — L 320 — 6 — 6.12.2017
-
-## REGULAMENTO (CE) N.º 3199/93 DA COMISSÃO
 
 de 22 de Novembro de 1993
 

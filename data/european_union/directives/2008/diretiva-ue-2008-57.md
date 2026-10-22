@@ -36,6 +36,181 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-01-01'
+version_history:
+  file: diretiva-ue-2008-57.versoes.json
+  count: 6
+  source_lastmod: '2015-01-01'
+  versions:
+  - date: '2008-07-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-11-06'
+    amending: eu:celex:32009L0131:por
+    amending_title: DIRECTIVA 2009/131/CE DA COMISSÃO Texto relevante para efeitos do EEE de 16 de Outubro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Aprovação, revisão e publicação das ETI
+    - Altera Artigo 8.º — Alargamento do âmbito de aplicação das ETI
+    - Altera Artigo 22.º — Primeira autorização de entrada em serviço de veículos conformes com as ETI
+    - Altera Artigo 42.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ÂMBITO DE APLICAÇÃO
+    - Adita 1. Sistema ferroviário transeuropeu convencional
+    - Adita 1.1. Rede
+    - Adita 1.2. Veículos
+    - Adita 2. Sistema ferroviário transeuropeu de alta velocidade
+    - Adita 2.1. Rede
+    - Adita 2.2. Veículos
+    - Adita 3. Compatibilidade do sistema ferroviário
+    - Adita 4. Alargamento do âmbito de aplicação
+    - Adita 4.1. Subcategorias de rede e de veículos
+    - Adita 4.2. Salvaguardas em matéria de custos
+    - Adita ANEXO II
+    - Adita 1. Lista de subsistemas
+    - Adita 2. Descrição dos subsistemas
+    - Adita 2.1. Infra-estrutura
+    - Adita 2.2. Energia
+    - Adita 2.3. Controlo-comando e sinalização
+    - Adita 2.4. Exploração e gestão do tráfego
+    - Adita 2.5. Instrumentos telemáticos
+    - Adita 2.6. Material circulante
+    - Adita 2.7. Manutenção
+    - Adita ANEXO III
+    - Adita REQUISITOS ESSENCIAIS
+    - Adita 1. Requisitos gerais
+    - Adita 1.1. Segurança
+    - Adita 1.2. Fiabilidade e disponibilidade
+    - Adita 1.3. Saúde
+    - Adita 1.4. Protecção do ambiente
+    - Adita 1.5. Compatibilidade técnica
+    - Adita 2. Requisitos específicos de cada subsistema
+    - Adita 2.4. Material circulante
+    - Adita 2.5. Manutenção
+  - date: '2011-03-22'
+    amending: eu:celex:32011L0018:por
+    amending_title: Directiva 2011/18/UE da Comissão Texto relevante para efeitos do EEE de 1 de Março de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Aprovação, revisão e publicação das ETI
+    - Altera Artigo 7.º — Deficiências das ETI
+    - Altera Artigo 10.º — Colocação no mercado de componentes de interoperabilidade
+    - Altera Artigo 15.º — Procedimento de entrada em serviço
+    - Altera Artigo 17.º — Conformidade com as ETI e as normas nacionais
+    - Altera Artigo 20.º — Entrada em serviço de subsistemas existentes após renovação ou readaptação
+    - Altera Artigo 24.º — Primeira autorização de entrada em serviço de veículos não conformes com as ETI
+    - Altera Artigo 25.º — Autorizações complementares de entrada em serviço de veículos não conformes com as ETI
+    - Altera Artigo 28.º — Organismos notificados
+    - Altera Artigo 29.º — Procedimento de comité
+    - Altera Artigo 38.º — Transposição
+    - Altera 1. Lista de subsistemas
+    - Altera 2. Descrição dos subsistemas
+    - Altera 2.1. Infra-estrutura
+    - Altera 2.2. Energia
+    - Altera 2.3. Controlo-comando e sinalização
+    - Altera Notas
+    - Adita 2.3. Controlo-comando e sinalização de via
+    - Adita 2.4. Controlo-comando e sinalização de bordo
+    - Adita 2.5. Exploração e gestão do tráfego
+    - Adita 2.6. Aplicações telemáticas
+    - Adita 2.7. Material circulante
+    - Adita 2.8. Manutenção
+    - Adita DECLARAÇÃO DE VERIFICAÇÃO DO SUBSISTEMA
+    - Adita 1. Declaração CE de verificação do subsistema
+    - Adita 2. Declaração de verificação do subsistema em caso de aplicação das normas nacionais
+    - Adita PROCEDIMENTO DE VERIFICAÇÃO DOS SUBSISTEMAS
+    - Adita 1. PRINCÍPIOS GERAIS
+    - Adita 2. PROCEDIMENTO DE VERIFICAÇÃO CE
+    - Adita 2.1. Introdução
+    - Adita 2.2. Partes do subsistema e fases
+    - Adita 2.2.1 Declaração de verificação intermédia (DVI)
+    - Adita 2.2.2 Partes do subsistema
+    - Adita 2.2.3 Fases do procedimento de verificação
+    - Adita 2.3. Certificado de verificação
+    - Adita 2.4. Processo técnico
+    - Adita 2.5. Monitorização
+    - Adita 2.6. Depósito
+  - date: '2013-04-01'
+    amending: eu:celex:32013L0009:por
+    amending_title: DIRETIVA 2013/9/UE DA COMISSÃO Texto relevante para efeitos do EEE de 11 de março de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Aprovação, revisão e publicação das ETI
+    - Altera Artigo 7.º — Deficiências das ETI
+    - Altera Artigo 10.º — Colocação no mercado de componentes de interoperabilidade
+    - Altera Artigo 15.º — Procedimento de entrada em serviço
+    - Altera Artigo 17.º — Conformidade com as ETI e as normas nacionais
+    - Altera Artigo 20.º — Entrada em serviço de subsistemas existentes após renovação ou readaptação
+    - Altera Artigo 24.º — Primeira autorização de entrada em serviço de veículos não conformes com as ETI
+    - Altera Artigo 25.º — Autorizações complementares de entrada em serviço de veículos não conformes com as ETI
+    - Altera Artigo 28.º — Organismos notificados
+    - Altera Artigo 29.º — Procedimento de comité
+    - Altera Artigo 38.º — Transposição
+    - Altera 2.4. Processo técnico
+    - Altera Notas
+    - Adita 1.6. Acessibilidade
+    - Adita 2.1.2. Acessibilidade
+    - Adita 2.4.5. Acessibilidade
+    - Adita 2.6.4. Acessibilidade
+    - Adita 2.7.5. Acessibilidade
+  - date: '2014-03-31'
+    amending: eu:celex:32014L0038:por
+    amending_title: DIRETIVA 2014/38/UE DA COMISSÃO Texto relevante para efeitos do EEE de 10 de março de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Aprovação, revisão e publicação das ETI
+    - Altera 1.4. Protecção do ambiente
+    - Altera 2.4. Processo técnico
+    - Altera Notas
+  - date: '2015-01-01'
+    amending: eu:celex:32014L0106:por
+    amending_title: DIRETIVA 2014/106/UE DA COMISSÃO Texto relevante para efeitos do EEE de 5 de dezembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Aprovação, revisão e publicação das ETI
+    - Altera 1. PRINCÍPIOS GERAIS
+    - Altera 2.1. Introdução
+    - Altera 2.3. Certificado de verificação
+    - Altera 2.6. Depósito
+    - Altera 2.7. Publicação
+    - Altera 2.8. Línguas
+    - Altera 3.1. Introdução
+    - Altera 3.2. Certificado de verificação
+    - Altera 3.3. Processo técnico
+    - Altera Notas
+    - Adita DECLARAÇÃO «CE» DE VERIFICAÇÃO DO SUBSISTEMA
+    - Adita 1. DECLARAÇÃO «CE» DE VERIFICAÇÃO DO SUBSISTEMA
+    - Adita 2. DECLARAÇÃO «CE» DE VERIFICAÇÃO DO SUBSISTEMA, EM CASO DE MODIFICAÇÃO
+    - Adita 3. DECLARAÇÃO «CE» DE VERIFICAÇÃO DO SUBSISTEMA, EM CASO DE VERIFICAÇÕES ADICIONAIS
+    - Adita PROCEDIMENTO DE VERIFICAÇÃO «CE» DOS SUBSISTEMAS
+    - Adita 2. CERTIFICADOS DE VERIFICAÇÃO EMITIDOS POR ORGANISMOS NOTIFICADOS
+    - Adita 2.2. Declaração de verificação intermédia (DVI)
+    - Adita 2.2.1. Princípios
+    - Adita 2.2.2. Partes do subsistema
+    - Adita 2.2.3. Fases do procedimento de verificação
+    - Adita 2.4. Processo técnico que acompanha a declaração «CE» de verificação
+    - Adita 2.5. Monitorização pelos organismos notificados
+    - Adita 3. CERTIFICADOS DE VERIFICAÇÃO EMITIDOS POR ORGANISMOS DESIGNADOS
+    - Adita 3.4. Línguas
+    - Adita 4. VERIFICAÇÃO DE PARTES DO SUBSISTEMA, EM CONFORMIDADE COM O N.º 5 DO ARTIGO 18.º
+    - Suprime DECLARAÇÃO DE VERIFICAÇÃO DO SUBSISTEMA
+    - Suprime 1. Declaração CE de verificação do subsistema
+    - Suprime 2. Declaração de verificação do subsistema em caso de aplicação das normas nacionais
+    - Suprime PROCEDIMENTO DE VERIFICAÇÃO DOS SUBSISTEMAS
+    - Suprime 2. PROCEDIMENTO DE VERIFICAÇÃO CE
+    - Suprime 2.2. Partes do subsistema e fases
+    - Suprime 2.2.1 Declaração de verificação intermédia (DVI)
+    - Suprime 2.2.2 Partes do subsistema
+    - Suprime 2.2.3 Fases do procedimento de verificação
+    - Suprime 2.4. Processo técnico
+    - Suprime 2.5. Monitorização
+    - Suprime 3. PROCEDIMENTO DE VERIFICAÇÃO EM CASO DE APLICAÇÃO DAS NORMAS NACIONAIS
 identifiers:
   celex: 32008L0057
   eli: http://data.europa.eu/eli/dir/2008/57/oj
@@ -50,7 +225,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5886daa2-e13f-4b72-a776-4f53f0d0bf14.0018
   content_url: http://publications.europa.eu/resource/cellar/03d20eb7-9b36-45c6-b750-164925d3f279.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0057-20150101
-  retrieved_at: '2026-10-22T02:39:08Z'
+  retrieved_at: '2026-10-22T15:12:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T18:15:32.598+01:00'
 integrity:
@@ -59,9 +234,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:08Z'
-  notes: Texto consolidado 02008L0057-20150101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:12:53Z'
+  notes: 6 versão(ões); histórico completo em diretiva-ue-2008-57.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -237,33 +412,19 @@ relationships:
   source: null
 article_structure:
   article_count: 42
-  section_count: 116
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 117
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:08Z'
+  checked_at: '2026-10-22T15:12:53Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2008/57/CE do Parlamento Europeu e do Conselho, de 17 de Junho de 2008
-
-> 2008L0057 — PT — 01.01.2015 — 005.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009L0131) — [DIRECTIVA 2009/131/CE DA COMISSÃO Texto relevante para efeitos do EEE de 16 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009L0131) — L 273 — 12 — 17.10.2009
-- [►M2](http://publications.europa.eu/resource/celex/32011L0018) — [DIRECTIVA 2011/18/UE DA COMISSÃO Texto relevante para efeitos do EEE de 1 de Março de 2011](http://publications.europa.eu/resource/celex/32011L0018) — L 57 — 21 — 2.3.2011
-- [►M3](http://publications.europa.eu/resource/celex/32013L0009) — [DIRETIVA 2013/9/UE DA COMISSÃO Texto relevante para efeitos do EEE de 11 de março de 2013](http://publications.europa.eu/resource/celex/32013L0009) — L 68 — 55 — 12.3.2013
-- [►M4](http://publications.europa.eu/resource/celex/32014L0038) — [DIRETIVA 2014/38/UE DA COMISSÃO Texto relevante para efeitos do EEE de 10 de março de 2014](http://publications.europa.eu/resource/celex/32014L0038) — L 70 — 20 — 11.3.2014
-- [►M5](http://publications.europa.eu/resource/celex/32014L0106) — [DIRETIVA 2014/106/UE DA COMISSÃO Texto relevante para efeitos do EEE de 5 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014L0106) — L 355 — 42 — 12.12.2014
-
-## DIRECTIVA 2008/57/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de Junho de 2008
 

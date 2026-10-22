@@ -1,0 +1,162 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003L0079:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0079-20110614",
+ "dre_path": null,
+ "source_lastmod": "2011-06-14",
+ "versions": [
+  {
+   "date": "2003-08-14",
+   "future": false,
+   "celex": "32003L0079",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "dc603c9d86149d16",
+    "23ff42845a23918b",
+    "119fa3646eeabe24",
+    "19d1214bb4181d6e",
+    "0870c029dac18879",
+    "bbce02592fe7637b",
+    "d5509ee9f5175772"
+   ]
+  },
+  {
+   "date": "2004-05-10",
+   "future": false,
+   "celex": "02003L0079-20040510",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera ANEXO"
+   ],
+   "fragments": [
+    "b003c0631bfb700d",
+    "23ff42845a23918b",
+    "119fa3646eeabe24",
+    "92255cfe8d8e0b59",
+    "0870c029dac18879",
+    "c2768784123201be",
+    "1ef13fa2d1e81b8e"
+   ]
+  },
+  {
+   "date": "2011-06-14",
+   "future": false,
+   "celex": "02003L0079-20110614",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "df118435f9b59707"
+   ]
+  }
+ ],
+ "fragments": {
+  "dc603c9d86149d16": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2003/79/CE da Comissão, de 13 de Agosto de 2003, que altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir a substância activa Coniothyrium minitans (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 205 de 14/08/2003 p. 0016 - 0018*\n\nDirectiva 2003/79/CE da Comissão\n\nde 13 de Agosto de 2003\n\nque altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir a substância activa Coniothyrium minitans\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado(1), com a última redacção que lhe foi dada pela Directiva 2003/70/CE da Comissão(2), e, nomeadamente, o n.o 1 do seu artigo 6.o,\n\nConsiderando o seguinte:\n\n(1) Em conformidade com o n.o 2 do artigo 6.o da Directiva 91/414/CEE, as autoridades alemãs receberam, em 10 de Setembro de 1997, um pedido da Prophyta GmbH (adiante designada por \"requerente\") com vista à inclusão da substância activa Coniothyrium minitans no anexo I da directiva. A Decisão 1998/676/CE da Comissão(3), alterada pela Decisão 2002/748/CE(4), confirmou a \"conformidade\" do processo, isto é, que este podia considerar-se satisfazer, em princípio, as exigências de dados e informações do anexo II e do anexo III da Directiva 91/414/CEE.\n\n(2) Os efeitos desta substância activa na saúde humana e no ambiente foram avaliados em conformidade com os nos 2 e 4 do artigo 6.o da Directiva 91/414/CEE, no que respeita às utilizações propostas pelo requerente. O Estado-Membro designado relator apresentou um projecto de relatório de avaliação da substância à Comissão em 13 de Março de 2000.\n\n(3) O projecto de relatório de avaliação foi examinado pelos Estados-Membros e pela Comissão no âmbito do Comité Permanente da Cadeia Alimentar e da Saúde Animal. Esse exame foi concluído em 4 de Julho de 2003 com a elaboração do relatório de revisão da Comissão do Coniothyrium minitans.\n\n(4) O exame efectuado não suscitou quaisquer preocupações, nem deixou questões pendentes, que justificassem a consulta do Autoridade Europeia para a Segurança dos Alimentos.\n\n(5) As avaliações efectuadas permitiram concluir poder presumir-se que os produtos fitofarmacêuticos que contêm Coniothyrium minitans satisfazem, em geral, as condições definidas no n.o 1, alíneas a) e b), da Directiva 91/414/CEE à luz do n.o 3 do seu artigo 5.o, designadamente no que respeita às utilizações examinadas em pormenor no relatório de revisão da Comissão. É, portanto, adequado incluir esta substância activa no anexo I, para assegurar que, em cada Estado-Membro, as autorizações de produtos fitofarmacêuticos que a contenham possam ser concedidas em conformidade com a referida directiva.\n\n(6) Embora seja ainda necessário adoptar princípios uniformes para os microrganismos, os Estados-Membros devem, ao concederem autorizações, aplicar as disposições gerais do artigo 4.o da directiva. É conveniente estabelecer que, salvo no que respeita às informações confidenciais, na acepção do artigo 14.o da Directiva 91/414/CEE, os Estados-Membros mantenham a versão final do relatório de revisão à disposição de todas as partes interessadas e lhes facultem a consulta do mesmo.\n\n(7) Depois da inclusão, os Estados-Membros devem dispor de um período razoável para pôr em prática as disposições da Directiva 91/414/CEE em relação aos produtos fitofarmacêuticos que contenham Coniothyrium minitans, nomeadamente para reverem as autorizações provisórias, transformando-as em autorizações plenas, alterando-as ou retirando-as, em conformidade com as disposições da Directiva 91/414/CEE, até ao final do referido período.\n\n(8) Há, portanto, que alterar a Directiva 91/414/CEE em conformidade.\n\n(9) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "23ff42845a23918b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 91/414/CEE é alterado em conformidade com o anexo da presente directiva."
+  },
+  "119fa3646eeabe24": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros adoptarão e publicarão, o mais tardar em 30 de Junho de 2004, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Do facto informarão imediatamente a Comissão.\n\nOs Estados-Membros aplicarão essas disposições a partir de 1 de Julho de 2004.\n\nQuando os Estados-Membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros."
+  },
+  "19d1214bb4181d6e": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros efectuarão uma revisão da autorização de cada produto fitofarmacêutico que contenha Coniothyrium minitans, de forma a garantir a observância das condições aplicáveis a essa substância activa constantes do anexo I da Directiva 91/414/CEE. Se necessário, os Estados-Membros alterarão ou retirarão as autorizações, em conformidade com a Directiva 91/414/CEE, até 30 de Junho de 2004.\n\n2. Os Estados-Membros reavaliarão cada produto fitofarmacêutico autorizado que contenha Coniothyrium minitans, como única substância activa ou acompanhada de outras substâncias activas incluídas no anexo I da Directiva 91/414/CEE até 31 de Dezembro de 2004, com base num processo que satisfaça os requisitos do anexo III da mesma directiva. Na sequência dessa avaliação, os Estados-Membros determinarão se o produto satisfaz as condições estabelecidas no n.o 1, alíneas b), c), d) e e), do artigo 4.o da Directiva 91/414/CEE. Se necessário, os Estados-Membros alterarão ou retirarão, até 30 de Junho de 2005, a autorização respeitante a cada produto fitofarmacêutico em causa."
+  },
+  "0870c029dac18879": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entre em vigor em 1 de Janeiro de 2004."
+  },
+  "bbce02592fe7637b": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 13 de Agosto de 2003.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 230 de 19.8.1991, p. 1.\n\n(2) JO L 184 de 23.7.2003, p. 9.\n\n(3) JO L 317 de 26.11.1998, p. 47.\n\n(4) JO L 243 de 11.9.2002, p. 19."
+  },
+  "d5509ee9f5175772": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nAditar o seguinte no final do quadro do anexo I da Directiva 91/414/CE:\n\n\">POSIÇÃO NUMA TABELA>\""
+  },
+  "b003c0631bfb700d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "2003L0079 — PT — 10.05.2004 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0079:PT:NOT) [DIRECTIVA 2003/79/CE DA COMISSÃO de 13 de Agosto de 2003 que altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir a substância activa Coniothyrium minitans (Texto relevante para efeitos do EEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0079:PT:NOT) (JO L 205, 14.8.2003, p.16)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004L0063:PT:NOT) | [Directiva 2004/63/CE da Comissão Texto relevante para efeitos do EEE de 26 de Abril de 2004](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004L0063:PT:NOT) | L 125 | 41 | 28.4.2004 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0079:PT:NOT)\n\nDIRECTIVA 2003/79/CE DA COMISSÃO\n\nde 13 de Agosto de 2003\n\nque altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir a substância activa Coniothyrium minitans\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado ([1](http://publications.europa.eu/resource/cellar/e1622139-7a37-467e-aded-9d18e2377255.0018.02/DOC_1#E0001)), com a última redacção que lhe foi dada pela Directiva 2003/70/CE da Comissão ([2](http://publications.europa.eu/resource/cellar/e1622139-7a37-467e-aded-9d18e2377255.0018.02/DOC_1#E0002)), e, nomeadamente, o n.o 1 do seu artigo 6.o,\n\n(1) Em conformidade com o n.o 2 do artigo 6.o da Directiva 91/414/CEE, as autoridades alemãs receberam, em 10 de Setembro de 1997, um pedido da Prophyta GmbH (adiante designada por «requerente») com vista à inclusão da substância activa Coniothyrium minitans no anexo I da directiva. A Decisão 1998/676/CE da Comissão ([3](http://publications.europa.eu/resource/cellar/e1622139-7a37-467e-aded-9d18e2377255.0018.02/DOC_1#E0003)), alterada pela Decisão 2002/748/CE ([4](http://publications.europa.eu/resource/cellar/e1622139-7a37-467e-aded-9d18e2377255.0018.02/DOC_1#E0004)), confirmou a «conformidade» do processo, isto é, que este podia considerar-se satisfazer, em princípio, as exigências de dados e informações do anexo II e do anexo III da Directiva 91/414/CEE.\n\n(2) Os efeitos desta substância activa na saúde humana e no ambiente foram avaliados em conformidade com os nos 2 e 4 do artigo 6.o da Directiva 91/414/CEE, no que respeita às utilizações propostas pelo requerente. O Estado-Membro designado relator apresentou um projecto de relatório de avaliação da substância à Comissão em 13 de Março de 2000.\n\n(3) O projecto de relatório de avaliação foi examinado pelos Estados-Membros e pela Comissão no âmbito do Comité Permanente da Cadeia Alimentar e da Saúde Animal. Esse exame foi concluído em 4 de Julho de 2003 com a elaboração do relatório de revisão da Comissão do Coniothyrium minitans.\n\n(4) O exame efectuado não suscitou quaisquer preocupações, nem deixou questões pendentes, que justificassem a consulta do Autoridade Europeia para a Segurança dos Alimentos.\n\n(5) As avaliações efectuadas permitiram concluir poder presumir-se que os produtos fitofarmacêuticos que contêm Coniothyrium minitans satisfazem, em geral, as condições definidas no n.o 1, alíneas a) e b), da Directiva 91/414/CEE à luz do n.o 3 do seu artigo 5.o, designadamente no que respeita às utilizações examinadas em pormenor no relatório de revisão da Comissão. É, portanto, adequado incluir esta substância activa no anexo I, para assegurar que, em cada Estado-Membro, as autorizações de produtos fitofarmacêuticos que a contenham possam ser concedidas em conformidade com a referida directiva.\n\n(6) Embora seja ainda necessário adoptar princípios uniformes para os microrganismos, os Estados-Membros devem, ao concederem autorizações, aplicar as disposições gerais do artigo 4.o da directiva. É conveniente estabelecer que, salvo no que respeita às informações confidenciais, na acepção do artigo 14.o da Directiva 91/414/CEE, os Estados-Membros mantenham a versão final do relatório de revisão à disposição de todas as partes interessadas e lhes facultem a consulta do mesmo.\n\n(7) Depois da inclusão, os Estados-Membros devem dispor de um período razoável para pôr em prática as disposições da Directiva 91/414/CEE em relação aos produtos fitofarmacêuticos que contenham Coniothyrium minitans, nomeadamente para reverem as autorizações provisórias, transformando-as em autorizações plenas, alterando-as ou retirando-as, em conformidade com as disposições da Directiva 91/414/CEE, até ao final do referido período.\n\n(8) Há, portanto, que alterar a Directiva 91/414/CEE em conformidade.\n\n(9) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "92255cfe8d8e0b59": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros efectuarão uma revisão da autorização de cada produto fitofarmacêutico que contenha Coniothyrium minitans, de forma a garantir a observância das condições aplicáveis a essa substância activa constantes do anexo I da Directiva 91/414/CEE. Se necessário, os Estados-Membros alterarão ou retirarão as autorizações, em conformidade com a Directiva 91/414/CEE, até 30 de Junho de 2004.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004L0063:PT:NOT)\n\n2. Os Estados-Membros reavaliarão cada produto fitofarmacêutico autorizado que contenha Coniothyrium minitans, como única substância activa ou acompanhada de outras substâncias activas incluídas no anexo I da Directiva 91/414/CEE, o mais tardar até 31 de Dezembro de 2004, em conformidade com os princípios uniformes estabelecidos no anexo VI da Directiva 91/414/CEE, com base num processo que satisfaça as exigências do anexo III da mesma directiva. Na sequência dessa avaliação, os Estados-Membros determinarão se o produto satisfaz as condições estabelecidas no n.o 1, alíneas b), c), d) e e), do artigo 4.o da Directiva 91/414/CEE.\n\nNa sequência dessa determinação, os Estados-Membros:\n\na) No caso de um produto que contenha Coniothyrium minitans como única substância activa, alterarão ou retirarão a autorização, se necessário, o mais tardar até 30 de Junho de 2005; ou\n\nb) No caso de um produto que contenha Coniothyrium minitans acompanhado de outras substâncias activas, alterarão ou retirarão a autorização, se necessário, o mais tardar até 30 de Junho de 2005 ou até à data fixada para essa alteração ou retirada na respectiva directiva ou directivas que acrescentaram a substância ou as substâncias relevantes ao anexo I da Directiva 91/414/CEE, caso esta última data seja posterior.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0079:PT:NOT)"
+  },
+  "c2768784123201be": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "1ef13fa2d1e81b8e": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nAditar o seguinte no final do quadro do anexo I da Directiva 91/414/CE:\n\n| «Número | Denominação comum; números de identificação | Denominação IUPAC | Pureza [(1)](http://publications.europa.eu/resource/cellar/e1622139-7a37-467e-aded-9d18e2377255.0018.02/DOC_1#E0005) | Entrada em vigor | Termo da inclusão | Disposições específicas |\n| --- | --- | --- | --- | --- | --- | --- |\n| 71 | Coniothyrium minitans Estirpe CON/M/91-08 (DSM 9660) N.o CIPAC: 614 | Não aplicável | Para pormenores sobre a pureza e o controlo da produção, ver o relatório de revisão | 1 de Janeiro de 2004 | 31 de Dezembro de 2013 | Apenas serão autorizadas as utilizações como fungicida. Ao serem concedidas autorizações, devem ser tidas em conta as conclusões da versão final, de 4 de Julho de 2003, do relatório de revisão do Coniothyrium minitans elaborado no quadro do Comité Permanente da Cadeia Alimentar e da Saúde Animal, nomeadamente os apêndices I e II do relatório. Na avaliação global: — os Estados-Membros estarão particularmente atentos à segurança do operador e do trabalhador e assegurarão que as condições de autorização incluam medidas de protecção adequadas. |\n| (1) «O relatório de revisão fornece mais pormenores sobre a identidade e as especificações das substâncias activas.» |  |  |  |  |  |  |\n\n([1](http://publications.europa.eu/resource/cellar/e1622139-7a37-467e-aded-9d18e2377255.0018.02/DOC_1#src.E0001)) JO L 230 de 19.8.1991, p. 1.\n\n([2](http://publications.europa.eu/resource/cellar/e1622139-7a37-467e-aded-9d18e2377255.0018.02/DOC_1#src.E0002)) JO L 184 de 23.7.2003, p. 9.\n\n([3](http://publications.europa.eu/resource/cellar/e1622139-7a37-467e-aded-9d18e2377255.0018.02/DOC_1#src.E0003)) JO L 317 de 26.11.1998, p. 47.\n\n([4](http://publications.europa.eu/resource/cellar/e1622139-7a37-467e-aded-9d18e2377255.0018.02/DOC_1#src.E0004)) JO L 243 de 11.9.2002, p. 19."
+  },
+  "df118435f9b59707": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02003L0079 — PT — 14.06.2011 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32003L0079) [DIRECTIVA 2003/79/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/32003L0079) [de 13 de Agosto de 2003](http://publications.europa.eu/resource/celex/32003L0079) [que altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir a substância activa *Coniothyrium minitans*](http://publications.europa.eu/resource/celex/32003L0079) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32003L0079) (JO L 205, 14.8.2003, p.16)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1107/2009 do Parlamento Europeu e do Conselho de 21 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009R1107) — L 309 — 1 — 24.11.2009"
+  }
+ }
+}

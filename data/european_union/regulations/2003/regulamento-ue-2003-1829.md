@@ -36,6 +36,106 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-03-27'
+version_history:
+  file: regulamento-ue-2003-1829.versoes.json
+  count: 4
+  source_lastmod: '2021-03-27'
+  versions:
+  - date: '2003-10-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-12'
+    amending: eu:celex:32006R1981:por
+    amending_title: REGULAMENTO (CE) N. o 1981/2006 DA COMISSÃO de 22 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 17.º — Pedido de autorização
+    - Altera Artigo 25.º — Requisitos
+    - Altera Artigo 29.º — Acesso do público
+    - Altera Artigo 39.º — Alteração da Directiva 82/471/CEE
+    - Altera Artigo 40.º — Alteração da Directiva 2002/53/CE
+    - Altera Artigo 41.º — Alteração da Directiva 2002/55/CE
+    - Altera Artigo 42.º — Alteração da Directiva 68/193/CEE
+    - Altera Artigo 43.º — Alteração da Directiva 2001/18/CE
+    - Altera Artigo 49.º — Entrada em vigor
+    - Adita CAPÍTULO I
+    - Adita OBJECTIVO E DEFINIÇÕES
+    - Adita Artigo 1.º — Objectivo
+    - Adita CAPÍTULO II
+    - Adita GÉNEROS ALIMENTÍCIOS GENETICAMENTE MODIFICADOS
+    - Adita Secção 1
+    - Adita Autorização e supervisão
+    - Adita Secção 2
+    - Adita Rotulagem
+    - Adita Artigo 12.º — Âmbito de aplicação
+    - Adita CAPÍTULO III
+    - Adita ALIMENTOS PARA ANIMAIS GENETICAMENTE MODIFICADOS
+    - Adita Artigo 24.º — Âmbito de aplicação
+    - Adita CAPÍTULO IV
+    - Adita DISPOSIÇÕES COMUNS
+    - Adita Artigo 27.º — Produtos susceptíveis de serem utilizados como géneros alimentícios e como alimentos para animais
+    - Adita Artigo 38.º — Alteração do Regulamento (CE) n.º 258/97
+    - Adita Artigo 47.º — Medidas transitórias respeitantes à presença acidental ou tecnicamente inevitável de material geneticamente
+      modificado que tenha sido objecto de uma avaliação de risco favorável
+    - Adita ANEXO
+    - Adita COMPETÊNCIAS E FUNÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA
+    - Adita Notas
+    - Suprime CAPÍTULO I OBJECTIVO E DEFINIÇÕES — Artigo 1.o
+    - Suprime CAPÍTULO II GÉNEROS ALIMENTÍCIOS GENETICAMENTE MODIFICADOS — Secção 1 Autorização e supervisão
+    - Suprime Secção 2 Rotulagem — Artigo 12.o
+    - Suprime CAPÍTULO III ALIMENTOS PARA ANIMAIS GENETICAMENTE MODIFICADOS — Secção 1 Autorização e supervisão
+    - Suprime Secção 2 Rotulagem — Artigo 24.o
+    - Suprime CAPÍTULO IV DISPOSIÇÕES COMUNS — Artigo 27.o
+    - Suprime Artigo 38.º — Alteração do Regulamento (CE) n.o 258/97
+    - Suprime Artigo 47.º
+    - Suprime ANEXO — COMPETÊNCIAS E FUNÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA
+  - date: '2008-04-10'
+    amending: eu:celex:32008R0298:por
+    amending_title: REGULAMENTO (CE) N. o 298/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Âmbito de aplicação
+    - Altera Artigo 12.º — Âmbito de aplicação
+    - Altera Artigo 14.º — Medidas de execução
+    - Altera Artigo 15.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Pedido de autorização
+    - Altera Artigo 24.º — Âmbito de aplicação
+    - Altera Artigo 26.º — Medidas de execução
+    - Altera Artigo 29.º — Acesso do público
+    - Altera Artigo 32.º — Laboratório comunitário de referência
+    - Altera Artigo 35.º — Processo de comité
+    - Altera Artigo 39.º — Alteração da Directiva 82/471/CEE
+    - Altera Artigo 40.º — Alteração da Directiva 2002/53/CE
+    - Altera Artigo 41.º — Alteração da Directiva 2002/55/CE
+    - Altera Artigo 42.º — Alteração da Directiva 68/193/CEE
+    - Altera Artigo 43.º — Alteração da Directiva 2001/18/CE
+    - Altera Artigo 47.º — Medidas transitórias respeitantes à presença acidental ou tecnicamente inevitável de material geneticamente
+      modificado que tenha sido objecto de uma avaliação de risco favorável
+    - Altera COMPETÊNCIAS E FUNÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA
+    - Altera Notas
+  - date: '2021-03-27'
+    amending: eu:celex:32019R1381:por
+    amending_title: REGULAMENTO (UE) 2019/1381 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Pedido de autorização
+    - Altera Artigo 6.º — Parecer da autoridade
+    - Altera Artigo 10.º — Alteração, suspensão e revogação das autorizações
+    - Altera Artigo 11.º — Renovação das autorizações
+    - Altera Artigo 17.º — Pedido de autorização
+    - Altera Artigo 18.º — Parecer da autoridade
+    - Altera Artigo 22.º — Alteração, suspensão e revogação das autorizações
+    - Altera Artigo 23.º — Renovação das autorizações
+    - Altera Artigo 29.º — Acesso do público
+    - Altera Artigo 30.º — Confidencialidade
+    - Altera Artigo 39.º — Alteração da Directiva 82/471/CEE
+    - Altera Artigo 40.º — Alteração da Directiva 2002/53/CE
+    - Altera Artigo 41.º — Alteração da Directiva 2002/55/CE
+    - Altera Artigo 42.º — Alteração da Directiva 68/193/CEE
+    - Altera Artigo 43.º — Alteração da Directiva 2001/18/CE
+    - Altera COMPETÊNCIAS E FUNÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA
+    - Altera Notas
 identifiers:
   celex: 32003R1829
   eli: http://data.europa.eu/eli/reg/2003/1829/oj
@@ -50,7 +150,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9fdfc82a-7e73-4b53-b1d4-e2b77747d846.0010
   content_url: http://publications.europa.eu/resource/cellar/d138a26a-6dfb-11ea-b735-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R1829-20210327
-  retrieved_at: '2026-10-22T02:37:12Z'
+  retrieved_at: '2026-10-22T14:56:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-07T14:33:55.227+01:00'
 integrity:
@@ -59,9 +159,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:12Z'
-  notes: Texto consolidado 02003R1829-20210327.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:03Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2003-1829.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -360,31 +460,19 @@ relationships:
   date: '2000-01-19'
 article_structure:
   article_count: 49
-  section_count: 18
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 19
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:12Z'
+  checked_at: '2026-10-22T14:56:03Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 1829/2003 do Parlamento Europeu e do Conselho, de 22 de Setembro de 2003
-
-> 02003R1829 — PT — 27.03.2021 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006R1981) — [REGULAMENTO (CE) N.º 1981/2006 DA COMISSÃO de 22 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1981) — L 368 — 99 — 23.12.2006
-- [►M2](http://publications.europa.eu/resource/celex/32008R0298) — [REGULAMENTO (CE) N.º 298/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2008](http://publications.europa.eu/resource/celex/32008R0298) — L 97 — 64 — 9.4.2008
-- [►M3](http://publications.europa.eu/resource/celex/32019R1381) — [REGULAMENTO (UE) 2019/1381 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1381) — L 231 — 1 — 6.9.2019
-
-## REGULAMENTO (CE) N.º 1829/2003 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 22 de Setembro de 2003
 

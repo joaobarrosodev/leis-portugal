@@ -35,6 +35,42 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-01-20'
+version_history:
+  file: diretiva-ue-1995-2.versoes.json
+  count: 2
+  source_lastmod: '2011-01-20'
+  versions:
+  - date: '1995-03-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime ANEXO I — ADITIVOS ALIMENTARES GENERICAMENTE AUTORIZADOS PARA USO EM GÉNEROS ALIMENTÍCIOS NÃO REFERIDOS NO Nº
+      3 DO ARTIGO 2º
+    - Suprime ANEXO II — GÉNEROS ALIMENTÍCIOS EM QUE É PERMITIDO UTILIZAR UM NÚMERO LIMITADO DE ADITIVOS DO ANEXO I
+    - Suprime ANEXO III — CONSERVANTES E ANTIOXIDANTES AUTORIZADOS SOB DETERMINADAS CONDIÇÕES
+    - Suprime PARTE A Sorbatos, benzoatos e p-hidroxibenzoatos — >POSIÇÃO NUMA TABELA>
+    - Suprime PARTE B Dióxido de enxofre e sulfitos — >POSIÇÃO NUMA TABELA>
+    - Suprime PARTE C Outros conservantes — >POSIÇÃO NUMA TABELA>
+    - Suprime PARTE D Outros antioxidantes — Notas
+    - Suprime ANEXO IV — OUTROS ADITIVOS AUTORIZADOS
+    - Suprime ANEXO V — AGENTES DE TRANSPORTE E SOLVENTES DE TRANSPORTE AUTORIZADOS
+    - Suprime ANEXO VI — ADITIVOS ALIMENTARES AUTORIZADOS EM ALIMENTOS PARA LACTENTES E CRIANÇAS
 identifiers:
   celex: 31995L0002
   eli: http://data.europa.eu/eli/dir/1995/2/oj
@@ -49,7 +85,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/382cf3f9-631a-4f32-8317-defd0bcf7331.0011
   content_url: http://publications.europa.eu/resource/cellar/28551d0f-6048-4157-9aa6-f917edbf1d3b.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0002-20110120
-  retrieved_at: '2026-10-22T02:39:27Z'
+  retrieved_at: '2026-10-22T14:43:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T05:36:49.952+01:00'
 integrity:
@@ -58,9 +94,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:27Z'
-  notes: Texto consolidado 01995L0002-20110120.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:43:53Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1995-2.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -251,16 +287,21 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:27Z'
+  checked_at: '2026-10-22T14:43:53Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01995L0002-19970404: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995L0002-20010224: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995L0002-20030717: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995L0002-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995L0002-20040129: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995L0002-20060815: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01995L0002-20101112: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

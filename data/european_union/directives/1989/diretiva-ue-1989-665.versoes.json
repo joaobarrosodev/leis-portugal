@@ -1,0 +1,422 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0665:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0665-20140417",
+ "dre_path": null,
+ "source_lastmod": "2014-04-17",
+ "versions": [
+  {
+   "date": "1989-12-30",
+   "future": false,
+   "celex": "31989L0665",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b750f4ebbbc93ab8",
+    "408b1eb04f950846",
+    "bff65c624cc832d0",
+    "e3da6d2d8fcd5782",
+    "691a928a6c322a77",
+    "4ae64f066c370a11",
+    "faa7669da8495cf0"
+   ]
+  },
+  {
+   "date": "2008-01-09",
+   "future": false,
+   "celex": "01989L0665-20080109",
+   "acts": [
+    {
+     "id": "eu:celex:31992L0050:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31992L0050"
+    },
+    {
+     "id": "eu:celex:32007L0066:por",
+     "title": "DIRECTIVA 2007/66/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 11 de Dezembro de 2007",
+     "published": null,
+     "celex": "32007L0066"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º — Âmbito de aplicação e acesso ao recurso",
+    "Adita Artigo 2.º — Requisitos do recurso",
+    "Adita Artigo 2.º-A — Prazo suspensivo",
+    "Adita Artigo 2.º-B — Excepções ao prazo suspensivo",
+    "Adita Artigo 2.º-C — Prazos para interposição de recurso",
+    "Adita Artigo 2.º-D — Privação de efeitos",
+    "Adita Artigo 2.º-E — Violação da presente directiva e sanções alternativas",
+    "Adita Artigo 2.º-F — Prazos",
+    "Adita Artigo 3.º — Mecanismo de correcção",
+    "Adita Artigo 3.º-A — Teor do anúncio voluntário de transparência ex ante",
+    "Adita Artigo 3.º-B — Procedimento de comité",
+    "Adita Artigo 4.º — Aplicação",
+    "Adita Artigo 4.º-A — Reexame",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º"
+   ],
+   "fragments": [
+    "462721adbe724d5a",
+    "d3b4ad641abc3f2f",
+    "7526e49fbbb417d7",
+    "2688467ce76bb55b",
+    "adf72e500bc70560",
+    "fcd8c6f44e176e19",
+    "9083fbff64ef4e4f",
+    "ee14b167a8c7cb17",
+    "7c9b5f2c420ba04d",
+    "06ce08dbf21b1797",
+    "ff6b49dc3d4ffcf6",
+    "213d53eab5146535",
+    "ab3ff2f7f758c24d",
+    "d23f2ef1c90abee7",
+    "2c831737d35335dc",
+    "3a993a9374b671a3",
+    "182e4c1c6278977c"
+   ]
+  },
+  {
+   "date": "2014-04-17",
+   "future": false,
+   "celex": "01989L0665-20140417",
+   "acts": [
+    {
+     "id": "eu:celex:32014L0023:por",
+     "title": "DIRETIVA 2014/23/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014",
+     "published": null,
+     "celex": "32014L0023"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Âmbito de aplicação e acesso ao recurso",
+    "Altera Artigo 2.º-A — Prazo suspensivo",
+    "Altera Artigo 2.º-B — Excepções ao prazo suspensivo",
+    "Altera Artigo 2.º-C — Prazos para interposição de recurso",
+    "Altera Artigo 2.º-D — Privação de efeitos",
+    "Altera Artigo 2.º-F — Prazos",
+    "Altera Artigo 3.º — Mecanismo de correcção",
+    "Altera Artigo 3.º-B — Procedimento de comité",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "9e56bfbf6dad07c3",
+    "0b2d9a1f0918158b",
+    "da14104e6c15c0bd",
+    "3bfcee51bdf6f315",
+    "589a2023e7555e5a",
+    "4b9f14366fe591ab",
+    "16c2a43d9947e4d0",
+    "38a77f6f30cb965f",
+    "3d9aa920c2b494aa",
+    "e951ec64e8dea792",
+    "ff6b49dc3d4ffcf6",
+    "9b7d4e31f487e759",
+    "ab3ff2f7f758c24d",
+    "d23f2ef1c90abee7",
+    "2c831737d35335dc",
+    "3a993a9374b671a3",
+    "9b107f4e123a98b1"
+   ]
+  }
+ ],
+ "fragments": {
+  "b750f4ebbbc93ab8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 89/665/CEE do Conselho, de 21 de Dezembro de 1989, que coordena as disposições legislativas, regulamentares e administrativas relativas à aplicação dos processos de recurso em matéria de adjudicação dos contratos de direito público de obras de fornecimentos** *Jornal Oficial nº L 395 de 30/12/1989 p. 0033 - 0035 Edição especial finlandesa: Capítulo 6 Fascículo 3 p. 0048 Edição especial sueca: Capítulo 6 Fascículo 3 p. 0048*\n\nDIRECTIVA DO CONSELHO de 21 de Dezembro de 1989 que coordena as disposições legislativas, regulamentares e administrativas relativas à aplicação dos processos de recurso em matéria de adjudicação dos contratos de direito público de obras de fornecimentos (89/665/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que as directivas comunitárias em matéria de contratos de direito público e, nomeadamente, a Directiva 71/305/CEE do Conselho, de 26 de Julho de 1971, relativa à coordenação dos processos de adjudicação de empreitadas de obras públicas (4), com a última redacção que lhe foi dada pela Directiva 89/440/CEE (5), e a Directiva 77/62/CEE do Conselho, de 21 de Dezembro de 1976, relativa à coordenação dos processos de celebração dos contratos de fornecimento de direito público (6), com a última redacção que lhe foi dada pela Directiva 88/295/CEE (7), não contêm disposições específicas que permitam garantir uma aplicação efectiva;\n\nConsiderando que os mecanismos actualmente existentes, tanto a nível nacional como a nível comunitário, para assegurar essa aplicação, nem sempre permitem garantir o respeito das disposições comunitárias, sobretudo numa fase em que as violações podem ainda ser corrigidas;\n\nConsiderando que a abertura dos contratos de direito público à concorrência comunitária requer um aumento substancial das garantias de transparência e de não discriminação e que convém, para que dessa abertura resultem efeitos concretos, que existam meios de recurso eficazes e rápidos em caso de violação do direito comunitário em matéria de contratos de direito público ou das normas nacionais que transpõem esse direito;\n\nConsiderando que, em determinados Estados-membros, a\n\nausência de meios de recurso eficazes ou o número insufi-\n\nciente dos meios de recurso existentes desencorajam as\n\nempresas comunitárias a tentar a sua sorte no Estado\n\nda entidade adjudicante em causa; que é conveniente, por\n\nisso, que os Estados-membros em questão obstem a essa situação;\n\nConsiderando que, dada a brevidade dos processos de adjudicação dos contratos de direito público, as instâncias de recurso competentes devem nomeadamente estar habilitadas a tomar medidas provisórias para suspender um processo dessa natureza ou a execução de decisões eventualmente tomadas pela entidade adjudicante; que a brevidade dos processos exige um tratamento urgente das violações acima mencionadas;\n\nConsiderando que é necessário assegurar que, em todos os Estados-membros, procedimentos apropriados permitam a anulação das decisões ilegais e a indemnização das pessoas lesadas por uma violação;\n\nConsiderando que, sempre que as empresas não interponham recurso, determinadas infracções apenas podem ser corrigidas mediante o accionamento de um mecanismo específico;\n\nConsiderando que importa, por isso, que, sempre que considerar ter havido infracção clara e manifesta no decorrer de um processo de adjudicação de um contrato de direito público, a Comissão possa intervir junto das autoridades competentes do Estado-membro e da entidade adjudicante em questão a fim de que sejam tomadas medidas apropriadas com vista à correcção rápida de qualquer alegada violação;\n\nConsiderando que a aplicação efectiva do disposto na presente directiva deve ser reanalisada antes do final de um período de quatro anos após o início da aplicação da presente directiva com base em informações a fornecer pelos Estados-membros sobre o funcionamento dos processos nacionais de recurso,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "408b1eb04f950846": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. Os Estados-membros tomarão as medidas necessárias para garantir que, no que se refere aos processos de adjudicação de contratos de direito público abrangidos pelo âmbito de aplicação das Directivas 71/305/CEE e 77//62/CEE, as decisões tomadas pelas entidades adjudicantes possam ser objecto de recursos eficazes e, sobretudo, tão rápidos quanto possível, nas condições previstas nos artigos seguintes e, nomeadamente, no nº 7 do artigo 2º, com base em que essas decisões tenham violado o direito comunitário em matéria de contratos de direito público ou as normas nacionais que transpõem esse direito.\n\n2. Os Estados-membros velarão por que não exista qualquer discriminação entre as empresas que estejam em condições de invocar um prejuízo no âmbito de um processo de atribuição de um contrato devido à distinção feita na presente directiva entre as normas nacionais que transpõem o direito comunitário e as outras normas nacionais.\n\n3. Os Estados-membros garantirão que os processos de recurso sejam acessíveis, de acordo com as regras que os Estados-membros podem determinar, pelo menos a qualquer pessoa que esteja ou tenha estado interessada em obter um determinado contrato de fornecimento público ou de obras públicas e que tenha sido ou possa vir a ser lesada por uma alegada violação. Os Estados-membros podem em particular exigir que a pessoa que pretenda utilizar tal processo tenha informado previamente a entidade adjudicante da alegada violação e da sua intenção de interpor recurso."
+  },
+  "bff65c624cc832d0": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os Estados-membros velarão por que as medidas tomadas para os efeitos dos recursos referidos no artigo 1º prevejam os poderes que permitam:\n\na) Tomar o mais rapidamente possível, através de um processo de urgência, medidas provisórias destinadas a corrigir a alegada violação ou a impedir que sejam causados outros danos aos interesses em causa, incluindo medidas destinadas a suspender ou a fazer suspender o processo de adjudicação do contrato de direito público em causa ou a execução de qualquer decisão tomada pelas entidades adjudicantes;\n\nb) Anular ou fazer anular as decisões ilegais, incluindo suprimir as especificações técnicas, económicas ou financeiras discriminatórias que constem dos documentos do concurso, dos cadernos de encargos ou de qualquer outro documento relacionado com o processo de adjudicação do contrato em causa;\n\nc) Conceder indemnizações às pessoas lesadas por uma violação.\n\n2. Os poderes referidos no nº 1 podem ser atribuídos a instâncias distintas responsáveis por aspectos diferentes dos processos de recurso.\n\n3. Os processos de recurso, por si só, não devem ter necessariamente efeitos suspensivos automáticos sobre os processos de adjudicação de contratos a que se referem.\n\n4. Os Estados-membros podem prever que, sempre que a instância responsável se debruce sobre a necessidade de tomar medidas provisórias, lhe seja possível tomar em consideração as prováveis consequências de tais medidas para todos os interesses susceptíveis de ser lesados, bem como o interesse público, e decidir não conceder essas\n\nmedidas sempre que as consequências negativas possam\n\nsuperar as vantagens. A decisão de recusa de medidas provisórias não prejudicará os outros direitos reclamados pela pessoa que solicita essas medidas.\n\n5. Os Estados-membros podem prever que, sempre que forem reclamadas indemnizações com base em que uma decisão foi tomada ilegalmente, a decisão contestada deva primeiro ser anulada por uma instância que tenha a competência necessária para esse efeito.\n\n6. Os efeitos do exercício dos poderes referidos no nº 1 sobre o contrato celebrado na sequência da atribuição de um contrato de direito público serão determinados pelo direito nacional.\n\nAlém disso, excepto se a decisão tiver de ser anulada antes da concessão de indemnizações, os Estados-membros podem prever que, após a celebração do contrato na sequência da atribuição de um contrato de direito público, os poderes da instância de recurso responsável se limitem à concessão de indemnizações a qualquer pessoa que tenha sido lesada por uma violação.\n\n7. Os Estados-membros garantirão que as decisões tomadas pelas instâncias responsáveis pelos processos de recurso possam ser executadas de modo eficaz.\n\n8. Sempre que as instâncias responsáveis pelos processos de recurso não sejam de natureza jurisdicional, as suas decisões devem ser fundamentadas por escrito em todos os casos. Além disso, nesse caso, devem ser adoptadas disposições para garantir os processos através dos quais qualquer medida presumidamente ilegal tomada pela instância de base competente ou qualquer falta presumida no exercício dos poderes que lhe foram conferidos deva poder ser objecto de recurso jurisdicional ou de recurso junto de outra instância que seja um órgão jurisdicional na acepção do artigo 177º do Tratado e que seja independente em relação à entidade adjudicante e à instância de base.\n\nA nomeação dos membros dessa instância independente e a cessação do seu mandato estão sujeitas às mesmas condições do que as aplicáveis aos juízes, no que se refere à autoridade responsável pela sua nomeação, à duração do seu mandato e à sua inamovibilidade. No mínimo, o presidente dessa instância independente deve possuir as mesmas qualificações jurídicas e profissionais que um juiz. A instância independente tomará as suas decisões na sequência de um processo contraditório e essas decisões produzirão, pelos meios determinados por cada Estado-membro, efeitos jurídicos coercivos."
+  },
+  "e3da6d2d8fcd5782": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. A Comissão pode invocar o processo previsto no presente artigo sempre que, antes da celebração de um contrato, considerar que houve infracção clara e manifesta das disposições comunitárias em matéria de contratos de direito público no decorrer de um processo de adjudicação de contrato abrangido pelo campo de aplicação das Directivas 71/305/CEE e 77/62/CEE.\n\n2. A Comissão notificará ao Estado-membro e à entidade adjudicante em questão as razões pelas quais considera ter sido cometida uma infracção clara e manifesta e solicitará a sua correcção.\n\n3. Nos vinte e um dias que se seguem à recepção da notificação referida no nº 2, o Estado-membro em questão comunicará à Comissão:\n\na) A confirmação de que a infracção foi corrigida;\n\nou\n\nb) Uma conclusão fundamentada, explicando as razões por que não foi efectuada qualquer correcção;\n\nou\n\nc) Uma notificação indicando que o processo de adjudicação do contrato em causa foi suspenso, seja por iniciativa da entidade adjudicante, seja no âmbito do exercício dos poderes previstos no nº 1, alínea a), do artigo 2º\n\n4. Uma conclusão fundamentada na acepção da alínea b) do nº 3 pode basear-se, nomeadamente, no facto de a alegada infracção ser já objecto de um recurso jurisdicional ou de um recurso do tipo previsto no nº 8 do artigo 2º Nesse caso, o Estado-membro informará a Comissão dos resultados desses processos logo que forem conhecidos.\n\n5. Em caso de notificação que indique que um processo de adjudicação de contrato foi suspenso nas condições previstas na alínea c) do nº 3, o Estado-membro notificará a Comissão do levantamento da suspensão ou do início de um outro processo de adjudicação de contrato ligado, na totalidade ou em parte, ao processo anterior. Essa nova notificação deve confirmar que a alegada infracção foi corrigida ou incluir uma conclusão fundamentada que explique por que razões não foi efectuada qualquer correcção."
+  },
+  "691a928a6c322a77": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Antes do final de um período de quatro anos a contar do início da aplicação da presente directiva, a Comissão, em\n\ncolaboração com o Comité Consultivo para os Contratos de Direito Público, reanalisará a aplicação das disposições da presente directiva e proporá, se for caso disso, as alterações que julgar necessárias.\n\n2. Todos os anos, antes de 1 de Março, os Estados-membros comunicarão à Comissão informações sobre o funcionamento dos processos nacionais de recurso que tiveram lugar durante o ano anterior. A Comissão determinará, em consulta com o Comité Consultivo para os Contratos de Direito Público, a natureza dessas informações."
+  },
+  "4ae64f066c370a11": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros porão em vigor as medidas necessárias para dar cumprimento à presente directiva antes de 21 de Dezembro de 1991. Comunicarão à Comissão o texto das disposições essencias de direito interno, de carácter legislativo, regulamentar e administrativo, que adoptarem no domínio regulado pela presente directiva."
+  },
+  "faa7669da8495cf0": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 21 de Dezembro de 1989.\n\nPelo Conselho\n\nO Presidente\n\nE. CRESSON\n\n(1) JO nº C 230 de 28. 8. 1987, p. 6, e JO nº C 15 de 19. 1. 1989, p. 8.\n\n(2) JO nº C 167 de 27. 6. 1988, p. 77, e JO nº C 323 de 27. 12. 1989.\n\n(3) JO nº C 347 de 22. 12. 1987, p. 23.\n\n(4) JO nº L 185 de 16. 8. 1971, p. 5.\n\n(5) JO nº L 210 de 21. 7. 1989, p. 1.\n\n(6) JO nº L 13 de 15. 1. 1977, p. 1.\n\n(7) JO nº L 127 de 20. 5. 1988, p. 1."
+  },
+  "462721adbe724d5a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Dezembro de 1989\n\nque coordena as disposições legislativas, regulamentares e administrativas relativas à aplicação dos procedimentos de recurso em matéria de celebração dos contratos de direito público de fornecimentos e de obras\n\n(89/665/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#E0001)), Em cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#E0003)),\n\nConsiderando que as directivas comunitárias em matéria de contratos de direito público e, nomeadamente, a Directiva 71/305/CEE do Conselho, de 26 de Julho de 1971, relativa à coordenação dos processos de adjudicação de empreitadas de obras públicas ([^4^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#E0004)), com a última redacção que lhe foi dada pela Directiva 89/440/CEE ([^5^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#E0005)), e a Directiva 77/62/CEE do Conselho, de 21 de Dezembro de 1976, relativa à coordenação dos processos de celebração dos contratos de fornecimento de direito público ([^6^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#E0006)), com a última redacção que lhe foi dada pela Directiva 88/295/CEE ([^7^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#E0007)), não contêm disposições específicas que permitam garantir uma aplicação efectiva;\n\nConsiderando que os mecanismos actualmente existentes, tanto a nível nacional como a nível comunitário, para assegurar essa aplicação, nem sempre permitem garantir o respeito das disposições comunitárias, sobretudo numa fase em que as violações podem ainda ser corrigidas;\n\nConsiderando que a abertura das contratos de direito público à concorrência comunitária requer. um aumento substancial das garantias de transparência e de não discriminação e que convém, para que dessa abertura resultem efeitos concretos, que existam meios de recurso eficazes e rápidos em caso de violação do direito comunitário em matéria de contratos de direito público ou das normas nacionais que transpõem esse direito;\n\nConsiderando que, em determinados Estados-membros, a ausência de meios de recurso eficazes ou o número insuficiente dós meios de recurso existentes desencorajam as empresas comunitárias. a tentar a sua sorte no Estado da entidade adjudicante em causa; que é conveniente, por isso, que os Estados-membros em questão obstem a essa situação;\n\nConsiderando que, dada a brevidade dos processos de adjudicação dos contratos de direito público, as instâncias de recurso competentes devem nomeadamente estar habilitadas a tomar medidas provisórias para suspender um processo dessa natureza ou a execução de decisões eventualmente tomadas pela entidade adjudicante; que a brevidade dos processos exige um tratamento urgente das violações acima mencionadas;\n\nConsiderando que é necessário assegurar que, em todos os Estados-membros, procedimentos apropriados permitam a anulação das decisões ilegais e a indemnização das pessoas lesadas por uma violação;\n\nConsiderando que, sempre que as empresas não interponham recurso, determinadas infracções apenas podem ser corrigidas mediante o accionamento de um mecanismo específico;\n\nConsiderando que importa, por isso, que, sempre que considerar ter havido infracção clara e manifesta no decorrer de um processo de adjudicação de um contrato de direito público, a Comissão possa intervir junto das autoridades competentes do Estado-membro e da entidade adjudicante em questão a fim de que sejam tomadas medidas apropriadas com vista à correcção rápida de qualquer alegada violação;\n\nConsiderando que a aplicação efectiva do disposto na presente directiva deve ser reanalisada antes do final de um período de quatro anos após o início da aplicação da presente directiva com base em informações a fornecer pelos Estados-membros sobre o funcionamento dos processos nacionais de recurso,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d3b4ad641abc3f2f": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação e acesso ao recurso",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação e acesso ao recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação e acesso ao recurso\n\n1. A presente directiva é aplicável aos contratos a que se refere a Directiva 2004/18/CE do Parlamento Europeu e do Conselho, de 31 de Março de 2004, relativa à coordenação dos processos de adjudicação dos contratos de empreitada de obras públicas, dos contratos públicos de fornecimento e dos contratos públicos de serviços ([^8^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#E0008)), salvo os contratos excluídos nos termos dos artigos 10.º a 18.º dessa directiva.\n\nOs contratos, na acepção da presente directiva, incluem os contratos públicos, os acordos-quadro, as concessões de obras públicas e os sistemas de aquisição dinâmicos.\n\nOs Estados-Membros devem tomar as medidas necessárias para assegurar que, no que se refere aos contratos abrangidos pelo âmbito de aplicação da Directiva 2004/18/CE, as decisões das entidades adjudicantes possam ser objecto de recursos eficazes e, sobretudo, tão céleres quanto possível, nos termos dos artigos 2.º a 2.º-F da presente directiva, com fundamento na violação, por tais decisões, do direito comunitário em matéria de contratos públicos ou das normas nacionais de transposição desse direito.\n\n2. Os Estados-Membros devem assegurar que não se verifique qualquer discriminação entre as empresas que aleguem um prejuízo no âmbito de um procedimento de adjudicação de um contrato devido à distinção feita na presente directiva entre as normas nacionais de execução do direito comunitário e as outras normas nacionais.\n\n3. Os Estados-Membros devem garantir o acesso ao recurso, de acordo com regras detalhadas que os Estados-Membros podem estabelecer, a qualquer pessoa que tenha ou tenha tido interesse em obter um determinado contrato e que tenha sido, ou possa vir a ser, lesada por uma eventual violação.\n\n4. Os Estados-Membros podem exigir que a pessoa que pretenda interpor recurso tenha informado a entidade adjudicante da alegada violação e da sua intenção de interpor recurso, desde que tal não afecte o prazo suspensivo nos termos do n.º 2 do artigo 2.º-A ou quaisquer outros prazos para interposição de recurso nos termos do artigo 2.º-C.\n\n5. Os Estados-Membros podem exigir que o interessado solicite previamente à entidade adjudicante a alteração da sua decisão. Nesse caso, os Estados-Membros devem assegurar que a apresentação de tal pedido implique a suspensão imediata da possibilidade de celebrar o contrato.\n\nOs Estados-Membros decidem quais os meios de comunicação apropriados, designadamente a telecópia ou os meios electrónicos, que devem ser usados para apresentar o pedido a que se refere o primeiro parágrafo.\n\nA suspensão referida no primeiro parágrafo não cessa antes do termo de um prazo mínimo de 10 dias consecutivos, a contar do dia seguinte à data em que a entidade adjudicante tenha enviado uma resposta, em caso de utilização de telecópia ou de meios electrónicos, ou, em caso de utilização de outros meios de comunicação, alternativamente, um prazo mínimo de 15 dias consecutivos, a contar do dia seguinte à data em que a entidade adjudicante tenha enviado uma resposta, ou de 10 dias consecutivos a contar do dia seguinte à data de recepção da resposta."
+  },
+  "7526e49fbbb417d7": {
+   "fragment_id": "Artigo 2.º — Requisitos do recurso",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Requisitos do recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Requisitos do recurso\n\n1. Os Estados-Membros asseguram que as medidas tomadas relativamente aos recursos a que se refere o artigo 1.º prevejam poderes para:\n\na) Decretar, no mais curto prazo, mediante processo de urgência, medidas provisórias destinadas a corrigir a alegada violação ou a impedir que sejam causados novos danos aos interesses em causa, designadamente medidas destinadas a suspender ou a mandar suspender o procedimento de adjudicação do contrato público em causa ou a execução de quaisquer decisões tomadas pela entidade adjudicante;\n\nb) Anular ou mandar anular as decisões ilegais, incluindo suprimiras especificações técnicas, económicas ou financeiras discriminatórias que constem do convite à apresentação de propostas, dos cadernos de encargos ou de qualquer outro documento relacionado com o procedimento de adjudicação do contrato em causa;\n\nc) Conceder indemnizações aos lesados por uma violação.\n\n2. Os poderes referidos no n.º 1 e nos artigos 2.º-D e 2.º-E podem ser atribuídos a instâncias distintas responsáveis por aspectos diferentes do recurso.\n\n3. Caso seja interposto recurso de uma decisão de adjudicação de um contrato para um órgão que decida em primeira instância, independente da entidade adjudicante, os Estados-Membros devem assegurar que a entidade adjudicante não possa celebrar o contrato antes de a instância de recurso ter tomado uma decisão, quer sobre o pedido de medidas provisórias, quer sobre o pedido de recurso. A suspensão não pode cessar antes do termo do prazo suspensivo a que se referem o n.º 2 do artigo 2.º-A e os n.^os^ 4 e 5 do artigo 2.º-D.\n\n4. Salvo nos casos previstos no n.º 3 do presente artigo e no n.º 5 do artigo 1.º, o recurso não deve ter necessariamente efeitos suspensivos automáticos relativamente aos processos de adjudicação de contratos a que se refere.\n\n5. Os Estados-Membros podem prever que a instância responsável pelo recurso possa ter em conta as consequências prováveis da aplicação das medidas provisórias atendendo a todos os interesses susceptíveis de serem lesados, bem como o interesse público, e decidir não decretar essas medidas caso as consequências negativas das mesmas possam superar as vantagens.\n\nA decisão de recusa de decretamento de medidas provisórias não prejudica os outros direitos reivindicados pelo requerente de tais medidas.\n\n6. Os Estados-Membros podem estabelecer que, caso seja pedida indemnização com fundamento no facto de uma decisão ter sido tomada ilegalmente, a decisão contestada deva primeiro ser anulada por uma instância com a competência necessária para esse efeito.\n\n7. Salvo nos casos previstos nos artigos 2.º-D a 2.º-F, os efeitos do exercício dos poderes a que se refere o n.º 1 do presente artigo sobre o contrato celebrado na sequência de uma adjudicação são determinados pelo direito interno.\n\nAlém disso, excepto se a decisão tiver de ser anulada antes da concessão de indemnização, os Estados-Membros podem prever que, após a celebração do contrato nos termos do n.º 5 do artigo 1.º, do n.º 3 do presente artigo, ou dos artigos 2.º-A a 2.º-F, os poderes da instância responsável pelo recurso se limitem à concessão de indemnização aos lesados por uma violação.\n\n8. Os Estados-Membros devem assegurar que as decisões tomadas pelas instâncias responsáveis pelo recurso possam ser executadas de modo efectivo.\n\n9. Caso as instâncias responsáveis pelo recurso não sejam de natureza jurisdicional, as suas decisões devem sempre ser fundamentadas por escrito. Além disso, nesse caso, devem ser aprovadas disposições para garantir que os processos segundo os quais qualquer medida alegadamente ilegal tomada pela instância de recurso ou qualquer alegado incumprimento no exercício dos poderes que lhe tenham sido conferidos possam ser objecto de recurso jurisdicional ou de recurso para outra instância que seja um órgão jurisdicional na acepção do artigo 234.º do Tratado e que seja independente em relação à entidade adjudicante e à instância de recurso.\n\nA nomeação dos membros de tal instância independente e a cessação das suas funções ficam sujeitas às mesmas condições que as aplicáveis aos juízes, no que se refere à autoridade responsável pela sua nomeação, à duração do seu mandato e à sua exoneração. Pelo menos o presidente da instância independente deve possuir as mesmas qualificações jurídicas e profissionais que um juiz. A instância independente toma as suas decisões na sequência de um processo contraditório e essas decisões são juridicamente vinculativas, nos termos determinados por cada Estado-Membro."
+  },
+  "2688467ce76bb55b": {
+   "fragment_id": "Artigo 2.º-A — Prazo suspensivo",
+   "type": "artigo",
+   "heading": "Artigo 2.º-A — Prazo suspensivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-A — Prazo suspensivo\n\n1. Os Estados-Membros devem garantir que as pessoas a que se refere o n.º 3 do artigo 1.º disponham de um prazo suficiente para assegurar o recurso eficaz das decisões de adjudicação de contratos tomadas por entidades adjudicantes, mediante a aprovação das disposições necessárias que respeitem as condições mínimas estabelecidas no n.º 2 do presente artigo e no artigo 2.º-C.\n\n2. A celebração de um contrato na sequência da decisão de adjudicação de um contrato abrangido pela Directiva 2004/18/CE não pode ter lugar antes do termo de um prazo mínimo de 10 dias consecutivos, a contar do dia seguinte à data em que a decisão de adjudicação do contrato tiver sido enviada aos proponentes e candidatos interessados, em caso de utilização de telecópia ou de meios electrónicos, ou, em caso de utilização de outros meios de comunicação, antes do termo de um prazo mínimo, alternativamente, de 15 dias consecutivos a contar do dia seguinte à data em que a decisão de adjudicação tiver sido comunicada aos proponentes e candidatos interessados ou de 10 dias consecutivos a contar do dia seguinte à data de recepção da decisão de adjudicação do contrato.\n\nConsidera-se que os proponentes estão interessados se ainda não tiverem sido definitivamente excluídos. Uma exclusão é definitiva se tiver sido notificada aos proponentes interessados e se tiver sido considerada legal por uma instância de recurso independente ou já não puder ser objecto de recurso.\n\nConsidera-se que os candidatos estão interessados se a entidade adjudicante não tiver facultado informações sobre a rejeição das suas candidaturas antes da notificação da decisão de adjudicação do contrato aos proponentes interessados.\n\nA comunicação da decisão de adjudicação a cada um dos proponentes e candidatos interessados é acompanhada:\n\n— de uma exposição sintética dos motivos relevantes estabelecidos no n.º 2 do artigo 41.º da Directiva 2004/18/CE, sem prejuízo do disposto no n.º 3 do artigo 41.º da mesma directiva, e\n\n— da indicação exacta do prazo suspensivo aplicável nos termos das disposições de direito interno que transpõem o presente número."
+  },
+  "adf72e500bc70560": {
+   "fragment_id": "Artigo 2.º-B — Excepções ao prazo suspensivo",
+   "type": "artigo",
+   "heading": "Artigo 2.º-B — Excepções ao prazo suspensivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-B — Excepções ao prazo suspensivo\n\nOs Estados-Membros podem prever que os prazos a que se refere o n.º 2 do artigo 2.º-A da presente directiva não sejam aplicáveis nos seguintes casos:\n\na) Se a Directiva 2004/18/CE não exigir a publicação prévia do anúncio de concurso no *Jornal Oficial da União Europeia*;\n\nb) Se o único proponente interessado, na acepção do n.º 2 do artigo 2.º-A da presente directiva, for o adjudicatário do contrato e não houver outros candidatos interessados;\n\nc) Em caso de um contrato baseado num acordo-quadro nos termos do artigo 32.º da Directiva 2004/18/CE e no caso de um contrato específico baseado num sistema de aquisição dinâmico, nos termos do artigo 33.º dessa directiva.\n\nSe esta excepção for invocada, os Estados-Membros devem assegurar que o contrato não produza efeitos nos termos dos artigos 2.º-D e 2.º-F da presente directiva se:\n\n— existir violação do segundo travessão do segundo parágrafo do n.º 4 do artigo 32.º, ou dos n.^os^ 5 e 6 do artigo 33.º da Directiva 2004/18/CE, e\n\n— o valor estimado do contrato for igual ou superior aos limiares estabelecidos no artigo 7.º da Directiva 2004/18/CE."
+  },
+  "fcd8c6f44e176e19": {
+   "fragment_id": "Artigo 2.º-C — Prazos para interposição de recurso",
+   "type": "artigo",
+   "heading": "Artigo 2.º-C — Prazos para interposição de recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-C — Prazos para interposição de recurso\n\nCaso os Estados-Membros disponham que qualquer recurso de uma decisão de uma entidade adjudicante tomada no contexto ou em relação a um procedimento de adjudicação de um contrato abrangido pela Directiva 2004/18/CE deve ser interposto num prazo determinado, esse prazo deve ser, no mínimo, de 10 dias consecutivos a contar do dia seguinte à data em que a entidade adjudicante tenha comunicado a decisão ao proponente ou candidato, em caso de utilização de telecópia ou de meios electrónicos, ou, em caso de utilização de outros meios de comunicação, alternativamente, no mínimo de 15 dias consecutivos a contar do dia seguinte à data em que a entidade adjudicante tenha comunicado a decisão ao proponente ou candidato ou de 10 dias consecutivos a contar do dia seguinte à data de recepção da decisão da entidade adjudicante. A comunicação da decisão da entidade adjudicante a cada um dos proponentes ou candidatos é acompanhada de uma exposição sintética dos motivos relevantes. Em caso de interposição de recurso das decisões a que se refere a alínea b) do n.º 1 do artigo 2.º da presente directiva que não estejam sujeitas a notificação específica, o prazo deve ser, no mínimo, de 10 dias consecutivos a contar da data da publicação da decisão em causa."
+  },
+  "9083fbff64ef4e4f": {
+   "fragment_id": "Artigo 2.º-D — Privação de efeitos",
+   "type": "artigo",
+   "heading": "Artigo 2.º-D — Privação de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-D — Privação de efeitos\n\n1. Os Estados-Membros devem assegurar que o contrato seja considerado desprovido de efeitos por uma instância de recurso independente da entidade adjudicante ou que a não produção de efeitos do contrato resulte de uma decisão dessa instância de recurso em qualquer dos seguintes casos:\n\na) Se a entidade adjudicante tiver adjudicado um contrato sem publicação prévia de um anúncio de concurso no *Jornal Oficial da União Europeia* sem que tal seja permitido nos termos da Directiva 2004/18/CE;\n\nb) Em caso de violação do n.º 5 do artigo 1.º, do n.º 3 do artigo 2.º ou do n.º 2 do artigo 2.º-A da presente directiva, se essa violação tiver privado o proponente que interpôs recurso da possibilidade de prosseguir as vias de impugnação pré-contratuais. Caso tal violação, conjugada com uma violação da Directiva 2004/18/CE, tiver afectado as hipóteses do proponente que interpôs recurso de obter o contrato;\n\nc) Nos casos a que se refere o segundo parágrafo da alínea c) do artigo 2.º-B da presente directiva, se os Estados-Membros tiverem invocado a excepção à aplicação do prazo suspensivo para os contratos baseados num acordo-quadro e num sistema de aquisição dinâmico.\n\n2. As consequências decorrentes do facto de um contrato ser considerado desprovido de efeitos são estabelecidas pelo direito interno.\n\nO direito interno pode dispor a anulação retroactiva de todas as obrigações contratuais ou limitar a anulação às obrigações que ainda devam ser cumpridas. Neste último caso, os Estados-Membros devem prever a aplicação de outras sanções na acepção do n.º 2 do artigo 2.º-E.\n\n3. Os Estados-Membros podem estabelecer que a instância de recurso independente da entidade adjudicante não possa considerar um contrato desprovido de efeitos, ainda que este tenha sido adjudicado ilegalmente pelos motivos mencionados no n.º 1, se a instância de recurso constatar, depois de analisados todos os aspectos relevantes, a existência de razões imperiosas de interesse geral que exijam a manutenção dos efeitos do contrato. Neste caso, os Estados-Membros devem, em vez disso, prever a aplicação de sanções alternativas, na acepção do n.º 2 do artigo 2.º-E.\n\nO interesse económico na manutenção dos efeitos do contrato só pode ser considerado razão imperiosa se, em circunstâncias excepcionais, a privação de efeitos acarretar consequências desproporcionadas.\n\nNo entanto, não deve constituir razão imperiosa de interesse geral o interesse económico directamente relacionado com o contrato em causa. O interesse económico directamente relacionado com o contrato inclui, designadamente, os custos resultantes de atraso na execução do contrato, os custos resultantes da abertura de um novo procedimento de adjudicação, os custos resultantes da mudança do operador económico que executa o contrato e os custos das obrigações legais resultantes da privação de efeitos.\n\n4. Os Estados-Membros devem estabelecer que a alínea a) do n.º 1 do presente artigo não é aplicável caso:\n\n— a entidade adjudicante considere que a adjudicação de um contrato sem publicação prévia de um anúncio de concurso no *Jornal Oficial da União Europeia* é permitida nos termos da Directiva 2004/18/CE,\n\n— a entidade adjudicante tenha publicado no *Jornal Oficial da União Europeia* um anúncio, tal como descrito no artigo 3.º-A da presente directiva, manifestando a sua intenção de celebrar o contrato, e\n\n— o contrato não tenha sido celebrado antes do termo de um prazo mínimo de 10 dias consecutivos a contar do dia seguinte à data da publicação do anúncio.\n\n5. Os Estados-Membros devem estabelecer que a alínea c) do n.º 1 do presente artigo não é aplicável caso:\n\n— a entidade adjudicante considere que a adjudicação do contrato foi feita nos termos do segundo travessão do segundo parágrafo do n.º 4 do artigo 32.º, ou dos n.^os^ 5 e 6 do artigo 33.º da Directiva 2004/18/CE,\n\n— a entidade adjudicante tenha enviado a decisão de adjudicação do contrato, acompanhada da exposição sintética dos motivos a que se refere o primeiro travessão do quarto parágrafo do n.º 2 do artigo 2.º-A da presente directiva, aos proponentes interessados, e\n\n— o contrato não tenha sido celebrado antes do termo de um prazo mínimo de 10 dias consecutivos a contar do dia seguinte à data em que a decisão de adjudicação do contrato foi enviada aos proponentes interessados, em caso de utilização de telecópia ou de meios electrónicos, ou, em caso de utilização de outros meios de comunicação, num prazo mínimo, alternativamente, de 15 dias consecutivos a contar do dia seguinte à data em que a decisão de adjudicação foi enviada aos proponentes interessados ou de 10 dias consecutivos a contar do dia seguinte à data de recepção da decisão de adjudicação do contrato."
+  },
+  "ee14b167a8c7cb17": {
+   "fragment_id": "Artigo 2.º-E — Violação da presente directiva e sanções alternativas",
+   "type": "artigo",
+   "heading": "Artigo 2.º-E — Violação da presente directiva e sanções alternativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-E — Violação da presente directiva e sanções alternativas\n\n1. Em caso de uma violação do n.º 5 do artigo 1.º, do n.º 3 do artigo 2.º ou do n.º 2 do artigo 2.º-A não abrangida pela alínea b) do n.º 1 do artigo 2.º-D, os Estados-Membros devem estabelecer a privação de efeitos, nos termos dos n.^os^ 1 a 3 do artigo 2.º-D, ou impor sanções alternativas. Os Estados-Membros podem estabelecer que a instância de recurso independente da entidade adjudicante decida, depois de avaliados todos os aspectos relevantes, se o contrato deve ser considerado desprovido de efeitos ou se devem ser impostas sanções alternativas.\n\n2. As sanções alternativas devem ser efectivas, proporcionadas e dissuasivas. As sanções alternativas são as seguintes:\n\n— a aplicação de sanções pecuniárias à entidade adjudicante, ou\n\n— a redução da duração do contrato.\n\nOs Estados-Membros podem conferir à instância de recurso amplos poderes discricionários para lhe permitir ter em conta todos os factores relevantes, designadamente a gravidade da violação, o comportamento da entidade adjudicante e, nos casos a que se refere o n.º 2 do artigo 2.º-D, a parte do contrato que continua a produzir efeitos.\n\nA concessão de indemnizações não constitui uma sanção adequada para fins do presente número."
+  },
+  "7c9b5f2c420ba04d": {
+   "fragment_id": "Artigo 2.º-F — Prazos",
+   "type": "artigo",
+   "heading": "Artigo 2.º-F — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-F — Prazos\n\n1. Os Estados-Membros podem estabelecer que o pedido de recurso nos termos do n.º 1 do artigo 2.º-D deva ser apresentado:\n\na) Num prazo mínimo de 30 dias consecutivos a contar do dia seguinte à data em que:\n\n— a entidade adjudicante tenha publicado um anúncio de adjudicação nos termos do n.º 4 do artigo 35.º e dos artigos 36.º e 37.º da Directiva 2004/18/CE, desde que tal anúncio inclua a justificação da decisão da entidade adjudicante de adjudicar o contrato sem publicação prévia de um anúncio de concurso no *Jornal Oficial da União Europeia*, ou\n\n— a entidade adjudicante tenha informado os proponentes e os candidatos interessados da celebração do contrato, desde que essa informação contenha uma exposição sintética dos motivos relevantes indicados no n.º 2 do artigo 41.º da Directiva 2004/18/CE, sem prejuízo do disposto no n.º 3 do artigo 41.º da mesma directiva. Esta alternativa também se aplica aos casos a que se refere a alínea c) do artigo 2.º-B da presente directiva;\n\nb) E, em todo o caso, antes do termo de um prazo mínimo de 6 meses a contar do dia seguinte à data de celebração do contrato.\n\n2. Em todos os outros casos, designadamente em caso de interposição de recurso nos termos do n.º 1 do artigo 2.º-E, os prazos para interposição de recurso são determinados pelo direito interno, sob reserva do disposto no artigo 2.º-C."
+  },
+  "06ce08dbf21b1797": {
+   "fragment_id": "Artigo 3.º — Mecanismo de correcção",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Mecanismo de correcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Mecanismo de correcção\n\n1. A Comissão pode recorrer ao procedimento previsto nos n.^os^ 2 a 5 caso, antes de um contrato ser celebrado, considere que foi cometida uma violação grave do direito comunitário em matéria de contratos públicos no decurso de um procedimento de adjudicação de contratos abrangido pela Directiva 2004/18/CE.\n\n2. A Comissão notifica o Estado-Membro em causa das razões pelas quais considera ter sido cometida uma violação grave e solicita a sua correcção através dos meios adequados.\n\n3. No prazo de 21 dias consecutivos a contar da recepção da notificação a que se refere o n.º 2, o Estado-Membro em causa deve comunicar à Comissão:\n\na) A confirmação de que a violação foi corrigida;\n\nb) Uma exposição fundamentada, explicando as razões pelas quais não foi efectuada qualquer correcção; ou\n\nc) Uma notificação indicando a suspensão do procedimento de adjudicação do contrato em causa, quer por iniciativa da entidade adjudicante, quer no âmbito do exercício dos poderes previstos na alínea a) do n.º 1 do artigo 2.º\n\n4. Uma exposição fundamentada comunicada nos termos da alínea b) do n.º 3 pode basear-se, nomeadamente, no facto de a alegada violação ter sido já objecto de recurso jurisdicional ou de outro recurso ou de um dos recursos a que se refere o n.º 9 do artigo 2.º. Neste caso, o Estado-Membro em causa deve informar a Comissão dos resultados desses processos, logo que sejam conhecidos.\n\n5. Em caso de notificação que indique a suspensão de um procedimento de adjudicação de contrato nos termos da alínea c) do n.º 3, o Estado-Membro deve notificar a Comissão do levantamento da suspensão ou do início de outro procedimento de adjudicação de contrato relacionado, no todo ou em parte, com o mesmo objecto. Esta nova notificação deve confirmar a correcção da alegada violação ou incluir uma exposição fundamentada explicando as razões pelas quais não foi efectuada qualquer correcção."
+  },
+  "ff6b49dc3d4ffcf6": {
+   "fragment_id": "Artigo 3.º-A — Teor do anúncio voluntário de transparência ex ante",
+   "type": "artigo",
+   "heading": "Artigo 3.º-A — Teor do anúncio voluntário de transparência ex ante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-A — Teor do anúncio voluntário de transparência ex ante\n\nO anúncio a que se refere o segundo travessão do n.º 4 do artigo 2.º-D, cujo formato é aprovado pela Comissão pelo procedimento de consulta a que se refere o n.º 2 do artigo 3.º-B, deve conter as seguintes informações:\n\na) O nome e contactos da entidade adjudicante;\n\nb) Uma descrição do objecto do contrato;\n\nc) Uma justificação da decisão da entidade adjudicante de adjudicar o contrato sem publicação prévia de um anúncio de concurso no *Jornal Oficial da União Europeia*;\n\nd) O nome e contactos do operador económico a favor de quem foi tomada a decisão de adjudicação do contrato; e\n\ne) Se adequado, qualquer outra informação considerada útil pela entidade adjudicante."
+  },
+  "213d53eab5146535": {
+   "fragment_id": "Artigo 3.º-B — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 3.º-B — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-B — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité Consultivo para os Contratos Públicos instituído pelo artigo 1.º da Decisão 71/306/CEE do Conselho, de 26 de Julho de 1971 ([^9^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#E0009)) (a seguir designado por «Comité»).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 3.º e 7.º da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^10^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#E0010)), tendo-se em conta o disposto no seu artigo 8.º"
+  },
+  "ab3ff2f7f758c24d": {
+   "fragment_id": "Artigo 4.º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aplicação\n\n1. A Comissão, em consulta com o Comité, pode solicitar aos Estados-Membros que forneçam informações sobre o funcionamento dos processos nacionais de recurso.\n\n2. Os Estados-Membros devem comunicar anualmente à Comissão o texto de todas as decisões, acompanhado da respectiva fundamentação, tomadas pelas respectivas instâncias de recurso, nos termos do n.º 3 do artigo 2.º-D."
+  },
+  "d23f2ef1c90abee7": {
+   "fragment_id": "Artigo 4.º-A — Reexame",
+   "type": "artigo",
+   "heading": "Artigo 4.º-A — Reexame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º-A — Reexame\n\nAté 20 de Dezembro de 2012, a Comissão reexamina a aplicação da presente directiva e apresenta um relatório ao Parlamento Europeu e ao Conselho sobre a sua eficácia, designadamente sobre a eficácia das sanções alternativas e dos prazos."
+  },
+  "2c831737d35335dc": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-membros porão em vigor as medidas necessárias para dar cumprimento à presente directiva antes de 21 de Dezembro de 1991. Comunicarão à Comissão o texto das disposições essencias de direito interno, de carácter legislativo, regulamentar e administrativo, que adoptarem no domínio regulado pela presente directiva."
+  },
+  "3a993a9374b671a3": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n---"
+  },
+  "182e4c1c6278977c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#src.E0001)) JO n.º C 230 de 28.8.1987, p. 6, e JO n.º C 15 de 19.1.1989, p. 8.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#src.E0002)) JO n.º C 167 de 27.6.1988, p. 77, e JO n.º C 323 de 27.12.1989.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#src.E0003)) JO n.º C 347 de 22.12.1987, p. 23.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#src.E0004)) JO n.º L 185 de 16.8.1971, p. 5.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#src.E0005)) JO n.º L 210 de 21.7.1989, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#src.E0006)) JO n.º L 13 de 15.1.1977, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#src.E0007)) JO n.º L 127 de 20.5.1988, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#src.E0008)) JO L 134 de 30.4.2004, p. 114. Directiva com a última redacção que lhe foi dada pela Directiva 2006/97/CE do Conselho (JO L 363 de 20.12.2006, p. 107).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#src.E0009)) JO L 185 de 16.8.1971, p. 15. Decisão alterada pela Decisão 77/63/CEE (JO L 13 de 15.1.1977, p. 15).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/7008d844-aa45-4936-9ce2-6b86202e14ea.0018.03/DOC_1#src.E0010)) JO L 184 de 17.7.1999, p. 23. Decisão alterada pela Decisão 2006/512/CE (JO L 200 de 22.7.2006, p. 11)."
+  },
+  "9e56bfbf6dad07c3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Dezembro de 1989\n\nque coordena as disposições legislativas, regulamentares e administrativas relativas à aplicação dos procedimentos de recurso em matéria de celebração dos contratos de direito público de fornecimentos e de obras\n\n(89/665/CEE)"
+  },
+  "0b2d9a1f0918158b": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação e acesso ao recurso",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação e acesso ao recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação e acesso ao recurso\n\n1. A presente diretiva é aplicável aos contratos a que se refere a Diretiva 2014/24/UE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/a6982287-7298-4880-8b42-dfea5d008a8d.0015.02/DOC_2#E0001)), salvo se esses contratos se encontrarem excluídos nos termos dos artigos 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 15.º, 16.º, 17.º e 37.º dessa diretiva.\n\nA presente diretiva aplica-se ainda às concessões adjudicadas por autoridades adjudicantes, referidas na Diretiva 2014/23/UE do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/a6982287-7298-4880-8b42-dfea5d008a8d.0015.02/DOC_2#E0002)), salvo se essas concessões se encontrem excluídas nos termos os artigos 10.º, 11.º, 12.º, 17.º e 25.º dessa diretiva.\n\nOs contratos na aceção da presente diretiva incluem os contratos públicos, os acordos-quadro, as concessões de obras e de serviços e os sistemas de aquisição dinâmicos.\n\nOs Estados-Membros adotam as medidas necessárias para assegurar que, no que se refere aos contratos abrangidos pelo âmbito de aplicação da Diretiva 2014/24/UE ou da Diretiva 2014/23/UE, as decisões das autoridades adjudicantes possam ser objeto de recursos eficazes, e, sobretudo, tão céleres quanto possível, nos termos dos artigos 2.º a 2.º-F da presente diretiva, com fundamento na violação, por tais decisões, do direito da União em matéria de contratos públicos ou das normas nacionais de transposição desse direito.\n\n2. Os Estados-Membros devem assegurar que não se verifique qualquer discriminação entre as empresas que aleguem um prejuízo no âmbito de um procedimento de adjudicação de um contrato devido à distinção feita na presente directiva entre as normas nacionais de execução do direito comunitário e as outras normas nacionais.\n\n3. Os Estados-Membros devem garantir o acesso ao recurso, de acordo com regras detalhadas que os Estados-Membros podem estabelecer, pelo menos a qualquer pessoa que tenha ou tenha tido interesse em obter um determinado contrato e que tenha sido, ou possa vir a ser, lesada por uma eventual violação.\n\n4. Os Estados-Membros podem exigir que a pessoa que pretenda interpor recurso tenha informado a entidade adjudicante da alegada violação e da sua intenção de interpor recurso, desde que tal não afecte o prazo suspensivo nos termos do n.º 2 do artigo 2.º-A ou quaisquer outros prazos para interposição de recurso nos termos do artigo 2.º-C.\n\n5. Os Estados-Membros podem exigir que o interessado solicite previamente à entidade adjudicante a alteração da sua decisão. Nesse caso, os Estados-Membros devem assegurar que a apresentação de tal pedido implique a suspensão imediata da possibilidade de celebrar o contrato.\n\nOs Estados-Membros decidem quais os meios de comunicação apropriados, designadamente a telecópia ou os meios electrónicos, que devem ser usados para apresentar o pedido a que se refere o primeiro parágrafo.\n\nA suspensão referida no primeiro parágrafo não cessa antes do termo de um prazo mínimo de 10 dias consecutivos, a contar do dia seguinte à data em que a entidade adjudicante tenha enviado uma resposta, em caso de utilização de telecópia ou de meios electrónicos, ou, em caso de utilização de outros meios de comunicação, alternativamente, um prazo mínimo de 15 dias consecutivos, a contar do dia seguinte à data em que a entidade adjudicante tenha enviado uma resposta, ou de 10 dias consecutivos a contar do dia seguinte à data de recepção da resposta."
+  },
+  "da14104e6c15c0bd": {
+   "fragment_id": "Artigo 2.º — Requisitos do recurso",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Requisitos do recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Requisitos do recurso\n\n1.\n\nOs Estados-Membros asseguram que as medidas tomadas relativamente aos recursos a que se refere o artigo 1.º prevejam poderes para:\n\na) Decretar, no mais curto prazo, mediante processo de urgência, medidas provisórias destinadas a corrigir a alegada violação ou a impedir que sejam causados novos danos aos interesses em causa, designadamente medidas destinadas a suspender ou a mandar suspender o procedimento de adjudicação do contrato público em causa ou a execução de quaisquer decisões tomadas pela entidade adjudicante;\n\nb) Anular ou mandar anular as decisões ilegais, incluindo suprimiras especificações técnicas, económicas ou financeiras discriminatórias que constem do convite à apresentação de propostas, dos cadernos de encargos ou de qualquer outro documento relacionado com o procedimento de adjudicação do contrato em causa;\n\nc) Conceder indemnizações aos lesados por uma violação.\n\n2. Os poderes referidos no n.º 1 e nos artigos 2.º-D e 2.º-E podem ser atribuídos a instâncias distintas responsáveis por aspectos diferentes do recurso.\n\n3. Caso seja interposto recurso de uma decisão de adjudicação de um contrato para um órgão que decida em primeira instância, independente da entidade adjudicante, os Estados-Membros devem assegurar que a entidade adjudicante não possa celebrar o contrato antes de a instância de recurso ter tomado uma decisão, quer sobre o pedido de medidas provisórias, quer sobre o pedido de recurso. A suspensão não pode cessar antes do termo do prazo suspensivo a que se referem o n.º 2 do artigo 2.º-A e os n.^os^ 4 e 5 do artigo 2.º-D.\n\n4. Salvo nos casos previstos no n.º 3 do presente artigo e no n.º 5 do artigo 1.º, o recurso não deve ter necessariamente efeitos suspensivos automáticos relativamente aos processos de adjudicação de contratos a que se refere.\n\n5. Os Estados-Membros podem prever que a instância responsável pelo recurso possa ter em conta as consequências prováveis da aplicação das medidas provisórias atendendo a todos os interesses susceptíveis de serem lesados, bem como o interesse público, e decidir não decretar essas medidas caso as consequências negativas das mesmas possam superar as vantagens.\n\nA decisão de recusa de decretamento de medidas provisórias não prejudica os outros direitos reivindicados pelo requerente de tais medidas.\n\n6. Os Estados-Membros podem estabelecer que, caso seja pedida indemnização com fundamento no facto de uma decisão ter sido tomada ilegalmente, a decisão contestada deva primeiro ser anulada por uma instância com a competência necessária para esse efeito.\n\n7. Salvo nos casos previstos nos artigos 2.º-D a 2.º-F, os efeitos do exercício dos poderes a que se refere o n.º 1 do presente artigo sobre o contrato celebrado na sequência de uma adjudicação são determinados pelo direito interno.\n\nAlém disso, excepto se a decisão tiver de ser anulada antes da concessão de indemnização, os Estados-Membros podem prever que, após a celebração do contrato nos termos do n.º 5 do artigo 1.º, do n.º 3 do presente artigo, ou dos artigos 2.º-A a 2.º-F, os poderes da instância responsável pelo recurso se limitem à concessão de indemnização aos lesados por uma violação.\n\n8. Os Estados-Membros devem assegurar que as decisões tomadas pelas instâncias responsáveis pelo recurso possam ser executadas de modo efectivo.\n\n9. Caso as instâncias responsáveis pelo recurso não sejam de natureza jurisdicional, as suas decisões devem sempre ser fundamentadas por escrito. Além disso, nesse caso, devem ser aprovadas disposições para garantir que os processos segundo os quais qualquer medida alegadamente ilegal tomada pela instância de recurso ou qualquer alegado incumprimento no exercício dos poderes que lhe tenham sido conferidos possam ser objecto de recurso jurisdicional ou de recurso para outra instância que seja um órgão jurisdicional na acepção do artigo 234.º do Tratado e que seja independente em relação à entidade adjudicante e à instância de recurso.\n\nA nomeação dos membros de tal instância independente e a cessação das suas funções ficam sujeitas às mesmas condições que as aplicáveis aos juízes, no que se refere à autoridade responsável pela sua nomeação, à duração do seu mandato e à sua exoneração. Pelo menos o presidente da instância independente deve possuir as mesmas qualificações jurídicas e profissionais que um juiz. A instância independente toma as suas decisões na sequência de um processo contraditório e essas decisões são juridicamente vinculativas, nos termos determinados por cada Estado-Membro."
+  },
+  "3bfcee51bdf6f315": {
+   "fragment_id": "Artigo 2.º-A — Prazo suspensivo",
+   "type": "artigo",
+   "heading": "Artigo 2.º-A — Prazo suspensivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-A — Prazo suspensivo\n\n1. Os Estados-Membros devem garantir que as pessoas a que se refere o n.º 3 do artigo 1.º disponham de um prazo suficiente para assegurar o recurso eficaz das decisões de adjudicação de contratos tomadas por entidades adjudicantes, mediante a aprovação das disposições necessárias que respeitem as condições mínimas estabelecidas no n.º 2 do presente artigo e no artigo 2.º-C.\n\n2. [**►M3**](http://publications.europa.eu/resource/celex/32014L0023) A celebração de um contrato na sequência da decisão de adjudicação de um contrato abrangido pela Diretiva 2014/24/UE ou pela Diretiva 2014/23/UE não pode ter lugar antes do termo de um prazo mínimo de 10 dias consecutivos, a contar do dia seguinte à data em que a decisão de adjudicação do contrato tiver sido enviada aos proponentes e candidatos interessados, em caso de utilização de telecópia ou de meios eletrónicos, ou, em caso de utilização de outros meios de comunicação, antes do termo de um prazo mínimo, alternativamente, de 15 dias consecutivos a contar do dia seguinte à data em que a decisão de adjudicação do contrato tiver sido comunicada aos proponentes e candidatos interessados ou de pelo menos 10 dias consecutivos a contar do dia seguinte à data de receção da decisão de adjudicação do contrato.**◄**\n\nConsidera-se que os proponentes estão interessados se ainda não tiverem sido definitivamente excluídos. Uma exclusão é definitiva se tiver sido notificada aos proponentes interessados e se tiver sido considerada legal por uma instância de recurso independente ou já não puder ser objecto de recurso.\n\nConsidera-se que os candidatos estão interessados se a entidade adjudicante não tiver facultado informações sobre a rejeição das suas candidaturas antes da notificação da decisão de adjudicação do contrato aos proponentes interessados.\n\nA comunicação da decisão de adjudicação a cada um dos proponentes e candidatos interessados é acompanhada:\n\n— de uma exposição sintética dos motivos relevantes estabelecidos no artigo 55.º, n.º 2, da Diretiva 2014/24/UE, sem prejuízo do disposto no artigo 55.º, n.º 3, dessa diretiva, ou no artigo 40.º, n.º 1, segundo parágrafo, da Diretiva 2014/23/UE, sem prejuízo do disposto no artigo 40.º, n.º 2, dessa diretiva, e\n\n— da indicação exacta do prazo suspensivo aplicável nos termos das disposições de direito interno que transpõem o presente número."
+  },
+  "589a2023e7555e5a": {
+   "fragment_id": "Artigo 2.º-B — Excepções ao prazo suspensivo",
+   "type": "artigo",
+   "heading": "Artigo 2.º-B — Excepções ao prazo suspensivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-B — Excepções ao prazo suspensivo\n\nOs Estados-Membros podem prever que os prazos a que se refere o n.º 2 do artigo 2.º-A da presente directiva não sejam aplicáveis nos seguintes casos:\n\na) Se a Diretiva 2014/24/UE ou, se for caso disso, a Diretiva 2014/23/UE não exigirem a publicação prévia de um anúncio de concurso no *Jornal Oficial da União Europeia*;\n\nb) Se o único proponente interessado, na acepção do n.º 2 do artigo 2.º-A da presente directiva, for o adjudicatário do contrato e não houver outros candidatos interessados;\n\nc) No caso de contratos baseados em acordos-quadro nos termos do artigo 33.º da Diretiva 2014/24/UE e no caso de contratos específicos baseados em sistemas de aquisição dinâmicos nos termos do artigo 34.º dessa diretiva.\n\nSe esta excepção for invocada, os Estados-Membros devem assegurar que o contrato não produza efeitos nos termos dos artigos 2.º-D e 2.º-F da presente directiva se:\n\n— existir violação do artigo 33.º, n.º 4, alínea c) ou do artigo 34.º, n.º 6 da Diretiva 2014/24/UE,\n\n— o valor estimado do contrato for igual ou superior ao limiar previsto no artigo 4.º da Diretiva 2014/24/UE."
+  },
+  "4b9f14366fe591ab": {
+   "fragment_id": "Artigo 2.º-C — Prazos para interposição de recurso",
+   "type": "artigo",
+   "heading": "Artigo 2.º-C — Prazos para interposição de recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-C — Prazos para interposição de recurso\n\nCaso os Estados-Membros disponham que qualquer recurso de uma decisão de uma entidade adjudicante tomada no contexto ou em relação a um procedimento de adjudicação de um contrato abrangido pela [**►M3**](http://publications.europa.eu/resource/celex/32014L0023) Directiva 2014/24/UE ou Directiva 2014/23/UE**◄** deve ser interposto num prazo determinado, esse prazo deve ser, no mínimo, de 10 dias consecutivos a contar do dia seguinte à data em que a entidade adjudicante tenha comunicado a decisão ao proponente ou candidato, em caso de utilização de telecópia ou de meios electrónicos, ou, em caso de utilização de outros meios de comunicação, alternativamente, no mínimo de 15 dias consecutivos a contar do dia seguinte à data em que a entidade adjudicante tenha comunicado a decisão ao proponente ou candidato ou de 10 dias consecutivos a contar do dia seguinte à data de recepção da decisão da entidade adjudicante. A comunicação da decisão da entidade adjudicante a cada um dos proponentes ou candidatos é acompanhada de uma exposição sintética dos motivos relevantes. Em caso de interposição de recurso das decisões a que se refere a alínea b) do n.º 1 do artigo 2.º da presente directiva que não estejam sujeitas a notificação específica, o prazo deve ser, no mínimo, de 10 dias consecutivos a contar da data da publicação da decisão em causa."
+  },
+  "16c2a43d9947e4d0": {
+   "fragment_id": "Artigo 2.º-D — Privação de efeitos",
+   "type": "artigo",
+   "heading": "Artigo 2.º-D — Privação de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-D — Privação de efeitos\n\n1.\n\nOs Estados-Membros devem assegurar que o contrato seja considerado desprovido de efeitos por uma instância de recurso independente da entidade adjudicante ou que a não produção de efeitos do contrato resulte de uma decisão dessa instância de recurso em qualquer dos seguintes casos:\n\na) Se a entidade adjudicante tiver adjudicado um contrato sem publicação prévia de um anúncio de concurso no *Jornal Oficial da União Europeia* sem que tal seja permitido nos termos da Diretiva 2014/24/UE ou da Diretiva 2014/23/UE;\n\nb) Em caso de violação do n.º 5 do artigo 1.º, do n.º 3 do artigo 2.º ou do n.º 2 do artigo 2.º-A da presente directiva, se essa violação tiver privado o proponente que interpôs recurso da possibilidade de prosseguir as vias de impugnação pré-contratuais. Caso tal violação, conjugada com uma violação da [**►M3**](http://publications.europa.eu/resource/celex/32014L0023) Directiva 2014/24/UE ou Directiva 2014/23/UE**◄**, tiver afectado as hipóteses do proponente que interpôs recurso de obter o contrato;\n\nc) Nos casos a que se refere o segundo parágrafo da alínea c) do artigo 2.º-B da presente directiva, se os Estados-Membros tiverem invocado a excepção à aplicação do prazo suspensivo para os contratos baseados num acordo-quadro e num sistema de aquisição dinâmico.\n\n2. As consequências decorrentes do facto de um contrato ser considerado desprovido de efeitos são estabelecidas pelo direito interno.\n\nO direito interno pode dispor a anulação retroactiva de todas as obrigações contratuais ou limitar a anulação às obrigações que ainda devam ser cumpridas. Neste último caso, os Estados-Membros devem prever a aplicação de outras sanções na acepção do n.º 2 do artigo 2.º-E.\n\n3. Os Estados-Membros podem estabelecer que a instância de recurso independente da entidade adjudicante não possa considerar um contrato desprovido de efeitos, ainda que este tenha sido adjudicado ilegalmente pelos motivos mencionados no n.º 1, se a instância de recurso constatar, depois de analisados todos os aspectos relevantes, a existência de razões imperiosas de interesse geral que exijam a manutenção dos efeitos do contrato. Neste caso, os Estados-Membros devem, em vez disso, prever a aplicação de sanções alternativas, na acepção do n.º 2 do artigo 2.º-E.\n\nO interesse económico na manutenção dos efeitos do contrato só pode ser considerado razão imperiosa se, em circunstâncias excepcionais, a privação de efeitos acarretar consequências desproporcionadas.\n\nNo entanto, não deve constituir razão imperiosa de interesse geral o interesse económico directamente relacionado com o contrato em causa. O interesse económico directamente relacionado com o contrato inclui, designadamente, os custos resultantes de atraso na execução do contrato, os custos resultantes da abertura de um novo procedimento de adjudicação, os custos resultantes da mudança do operador económico que executa o contrato e os custos das obrigações legais resultantes da privação de efeitos.\n\n4.\n\nOs Estados-Membros devem estabelecer que a alínea a) do n.º 1 do presente artigo não é aplicável caso:\n\n— a autoridade adjudicante considere que a adjudicação de um contrato sem publicação prévia de um anúncio de concurso no *Jornal Oficial da União Europeia* é permitida nos termos da Diretiva 2014/24/UE ou da Diretiva 2014/23/UE,\n\n— a entidade adjudicante tenha publicado no *Jornal Oficial da União Europeia* um anúncio, tal como descrito no artigo 3.º-A da presente directiva, manifestando a sua intenção de celebrar o contrato, e\n\n— o contrato não tenha sido celebrado antes do termo de um prazo mínimo de 10 dias consecutivos a contar do dia seguinte à data da publicação do anúncio.\n\n5.\n\nOs Estados-Membros devem estabelecer que a alínea c) do n.º 1 do presente artigo não é aplicável caso:\n\n— a autoridade adjudicante considera que a adjudicação do contrato está de acordo com o artigo 33.º, n.º 4, alínea c), ou com o artigo 34.º, n.º 6, da Diretiva 2014/24/UE,\n\n— a entidade adjudicante tenha enviado a decisão de adjudicação do contrato, acompanhada da exposição sintética dos motivos a que se refere o primeiro travessão do quarto parágrafo do n.º 2 do artigo 2.º-A da presente directiva, aos proponentes interessados, e\n\n— o contrato não tenha sido celebrado antes do termo de um prazo mínimo de 10 dias consecutivos a contar do dia seguinte à data em que a decisão de adjudicação do contrato foi enviada aos proponentes interessados, em caso de utilização de telecópia ou de meios electrónicos, ou, em caso de utilização de outros meios de comunicação, num prazo mínimo, alternativamente, de 15 dias consecutivos a contar do dia seguinte à data em que a decisão de adjudicação foi enviada aos proponentes interessados ou de 10 dias consecutivos a contar do dia seguinte à data de recepção da decisão de adjudicação do contrato."
+  },
+  "38a77f6f30cb965f": {
+   "fragment_id": "Artigo 2.º-E — Violação da presente directiva e sanções alternativas",
+   "type": "artigo",
+   "heading": "Artigo 2.º-E — Violação da presente directiva e sanções alternativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-E — Violação da presente directiva e sanções alternativas\n\n1. Em caso de uma violação do n.º 5 do artigo 1.º, do n.º 3 do artigo 2.º ou do n.º 2 do artigo 2.º-A não abrangida pela alínea b) do n.º 1 do artigo 2.º-D, os Estados-Membros devem estabelecer a privação de efeitos, nos termos dos n.^os^ 1 a 3 do artigo 2.º-D, ou impor sanções alternativas. Os Estados-Membros podem estabelecer que a instância de recurso independente da entidade adjudicante decida, depois de avaliados todos os aspectos relevantes, se o contrato deve ser considerado desprovido de efeitos ou se devem ser impostas sanções alternativas.\n\n2.\n\nAs sanções alternativas devem ser efectivas, proporcionadas e dissuasivas. As sanções alternativas são as seguintes:\n\n— a aplicação de sanções pecuniárias à entidade adjudicante, ou\n\n— a redução da duração do contrato.\n\nOs Estados-Membros podem conferir à instância de recurso amplos poderes discricionários para lhe permitir ter em conta todos os factores relevantes, designadamente a gravidade da violação, o comportamento da entidade adjudicante e, nos casos a que se refere o n.º 2 do artigo 2.º-D, a parte do contrato que continua a produzir efeitos.\n\nA concessão de indemnizações não constitui uma sanção adequada para fins do presente número."
+  },
+  "3d9aa920c2b494aa": {
+   "fragment_id": "Artigo 2.º-F — Prazos",
+   "type": "artigo",
+   "heading": "Artigo 2.º-F — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-F — Prazos\n\n1.\n\nOs Estados-Membros podem estabelecer que o pedido de recurso nos termos do n.º 1 do artigo 2.º-D deva ser apresentado:\n\na) Pelo menos antes do termos de 30 dias a contar do dia seguinte em que:\n\n— a autoridade adjudicante tenha publicado um anúncio de adjudicação do contrato nos termos dos artigos 50.º e 51.º.º da Diretiva 2014/24/UE ou dos artigos 31.º e 32.º da Diretiva 2014/23/UE, desde que tal anúncio inclua a justificação da decisão da autoridade adjudicante no sentido de adjudicar o contrato sem publicação prévia de um anúncio de concurso no *Jornal Oficial da União Europeia*, ou\n\n— a autoridade adjudicante tenha informado os proponentes e candidatos interessados da celebração do contrato, desde que essa informação inclua uma exposição sintética dos motivos relevantes estabelecidos no artigo 55.º, n.º 2, da Diretiva 2014/24/UE, sem prejuízo do disposto no artigo 55.º, n.º 3, dessa diretiva ou no artigo 40.º, n.º 1, segundo parágrafo, da Diretiva 2014/23/UE, sem prejuízo do disposto no artigo 40.º, n.º 2, dessa diretiva. Esta alternativa também se aplica aos casos a que se refere o artigo 2-B.º, primeiro parágrafo, alínea c), da presente diretiva\n\nb) E, em todo o caso, antes do termo de um prazo mínimo de 6 meses a contar do dia seguinte à data de celebração do contrato.\n\n2. Em todos os outros casos, designadamente em caso de interposição de recurso nos termos do n.º 1 do artigo 2.º-E, os prazos para interposição de recurso são determinados pelo direito interno, sob reserva do disposto no artigo 2.º-C."
+  },
+  "e951ec64e8dea792": {
+   "fragment_id": "Artigo 3.º — Mecanismo de correcção",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Mecanismo de correcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Mecanismo de correcção\n\n1. A Comissão pode recorrer ao procedimento previsto nos n.^os^ 2 a 5 caso, antes de um contrato ser celebrado, considere que foi cometida uma violação grave do direito da União em matéria de contratos públicos no decurso de um procedimento de adjudicação de contratos abrangido pela Diretiva 2014/24/UE ou pela Diretiva 2014/23/UE.\n\n2. A Comissão notifica o Estado-Membro em causa das razões pelas quais considera ter sido cometida uma violação grave e solicita a sua correcção através dos meios adequados.\n\n3.\n\nNo prazo de 21 dias consecutivos a contar da recepção da notificação a que se refere o n.º 2, o Estado-Membro em causa deve comunicar à Comissão:\n\na) A confirmação de que a violação foi corrigida;\n\nb) Uma exposição fundamentada, explicando as razões pelas quais não foi efectuada qualquer correcção; ou\n\nc) Uma notificação indicando a suspensão do procedimento de adjudicação do contrato em causa, quer por iniciativa da entidade adjudicante, quer no âmbito do exercício dos poderes previstos na alínea a) do n.º 1 do artigo 2.º\n\n4. Uma exposição fundamentada comunicada nos termos da alínea b) do n.º 3 pode basear-se, nomeadamente, no facto de a alegada violação ter sido já objecto de recurso jurisdicional ou de outro recurso ou de um dos recursos a que se refere o n.º 9 do artigo 2.º. Neste caso, o Estado-Membro em causa deve informar a Comissão dos resultados desses processos, logo que sejam conhecidos.\n\n5. Em caso de notificação que indique a suspensão de um procedimento de adjudicação de contrato nos termos da alínea c) do n.º 3, o Estado-Membro deve notificar a Comissão do levantamento da suspensão ou do início de outro procedimento de adjudicação de contrato relacionado, no todo ou em parte, com o mesmo objecto. Esta nova notificação deve confirmar a correcção da alegada violação ou incluir uma exposição fundamentada explicando as razões pelas quais não foi efectuada qualquer correcção."
+  },
+  "9b7d4e31f487e759": {
+   "fragment_id": "Artigo 3.º-B — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 3.º-B — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-B — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité Consultivo para os Contratos Públicos instituído pelo artigo 1.º da Decisão 71/306/CEE do Conselho, de 26 de Julho de 1971 ([^3^](http://publications.europa.eu/resource/cellar/a6982287-7298-4880-8b42-dfea5d008a8d.0015.02/DOC_2#E0003)) (a seguir designado por «Comité»).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 3.º e 7.º da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^4^](http://publications.europa.eu/resource/cellar/a6982287-7298-4880-8b42-dfea5d008a8d.0015.02/DOC_2#E0004)), tendo-se em conta o disposto no seu artigo 8.º"
+  },
+  "9b107f4e123a98b1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a6982287-7298-4880-8b42-dfea5d008a8d.0015.02/DOC_2#src.E0001)) Diretiva 2014/24/UE do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, relativa aos contratos públicos (JO L 94 de 28.3.2014, p. 65).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/a6982287-7298-4880-8b42-dfea5d008a8d.0015.02/DOC_2#src.E0002)) Diretiva 2014/23/UE do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, relativa à adjudicação de contratos de concessão (JO L 94 de 28.3.2014, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/a6982287-7298-4880-8b42-dfea5d008a8d.0015.02/DOC_2#src.E0003)) JO L 185 de 16.8.1971, p. 15. Decisão alterada pela Decisão 77/63/CEE (JO L 13 de 15.1.1977, p. 15).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/a6982287-7298-4880-8b42-dfea5d008a8d.0015.02/DOC_2#src.E0004)) JO L 184 de 17.7.1999, p. 23. Decisão alterada pela Decisão 2006/512/CE (JO L 200 de 22.7.2006, p. 11)."
+  }
+ }
+}

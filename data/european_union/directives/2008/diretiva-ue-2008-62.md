@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2008-62.versoes.json
+  count: 1
+  source_lastmod: '2008-07-11'
+  versions:
+  - date: '2008-06-21'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32008L0062
   eli: http://data.europa.eu/eli/dir/2008/62/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/102973bb-fd0f-4957-8ddb-09f805286a52.0018
   content_url: http://publications.europa.eu/resource/cellar/102973bb-fd0f-4957-8ddb-09f805286a52.0018.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:45:24Z'
+  retrieved_at: '2026-10-22T15:12:50Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T08:18:32.343+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:24Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:12:50Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2008-62.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -163,21 +172,20 @@ relationships:
   source: null
 article_structure:
   article_count: 25
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:24Z'
+  checked_at: '2026-10-22T15:12:50Z'
   warnings:
-  - Versão consolidada 02008L0062-20080711 indisponível (Sem expressão na língua por para CELEX 02008L0062-20080711.); usado
-    o texto do JO.
+  - '02008L0062-20080711: versão indisponível (Sem expressão na língua por para CELEX 02008L0062-20080711.)'
   errors: []
 ---
 
-# DIRECTIVA 2008/62/CE DA COMISSÃO
+# Directiva 2008/62/CE da Comissão, de 20 de Junho de 2008
 
 de 20 de Junho de 2008
 

@@ -35,6 +35,75 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-01-03'
+version_history:
+  file: regulamento-ue-2006-510.versoes.json
+  count: 4
+  source_lastmod: '2013-01-03'
+  versions:
+  - date: '2006-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1791:por
+    amending_title: REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Denominação de origem e indicação geográfica
+    - Altera Artigo 4.º — Caderno de especificações
+    - Altera Artigo 5.º — Pedido de registo
+    - Altera Artigo 14.º — Relações entre marcas, denominações de origem e indicações geográficas
+    - Altera Artigo 17.º — Disposições transitórias
+    - Altera Artigo 20.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Géneros alimentícios a que se refere o n.º 1 do artigo 1.º
+    - Adita ANEXO II
+    - 'Adita Produtos agrícolas a que se refere o n.º 1 do artigo 1.º:'
+    - Adita ANEXO III
+  - date: '2008-05-29'
+    amending: eu:celex:32008R0417:por
+    amending_title: REGULAMENTO (CE) N. o 417/2008 DA COMISSÃO de 8 de Maio de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 14.º — Relações entre marcas, denominações de origem e indicações geográficas
+    - Altera Artigo 17.º — Disposições transitórias
+    - Altera Géneros alimentícios a que se refere o n.º 1 do artigo 1.º
+    - 'Altera Produtos agrícolas a que se refere o n.º 1 do artigo 1.º:'
+    - Altera Notas
+  - date: '2013-01-03'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Denominação de origem e indicação geográfica
+    - Suprime Artigo 3.º — Carácter genérico, conflito com os nomes de variedades vegetais, raças animais, homónimos e marcas
+    - Suprime Artigo 4.º — Caderno de especificações
+    - Suprime Artigo 5.º — Pedido de registo
+    - Suprime Artigo 6.º — Exame pela Comissão
+    - Suprime Artigo 7.º — Oposição/decisão sobre o registo
+    - Suprime Artigo 8.º — Denominações, menções e símbolos
+    - Suprime Artigo 9.º — Aprovação de alterações ao caderno de especificações
+    - Suprime Artigo 10.º — Controlos oficiais
+    - Suprime Artigo 11.º — Verificação da observância do caderno de especificações
+    - Suprime Artigo 12.º — Cancelamento
+    - Suprime Artigo 13.º — Protecção
+    - Suprime Artigo 14.º — Relações entre marcas, denominações de origem e indicações geográficas
+    - Suprime Artigo 15.º — Procedimento de comitologia
+    - Suprime Artigo 16.º — Regras de execução
+    - Suprime Artigo 17.º — Disposições transitórias
+    - Suprime Artigo 18.º — Taxas
+    - Suprime Artigo 19.º — Revogação
+    - Suprime Artigo 20.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime Géneros alimentícios a que se refere o n.º 1 do artigo 1.º
+    - Suprime ANEXO II
+    - 'Suprime Produtos agrícolas a que se refere o n.º 1 do artigo 1.º:'
+    - Suprime ANEXO III
+    - Suprime Notas
 identifiers:
   celex: 32006R0510
   eli: http://data.europa.eu/eli/reg/2006/510/oj
@@ -49,7 +118,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/988b1794-6d49-4ad4-9d36-44816fe46766.0016
   content_url: http://publications.europa.eu/resource/cellar/eaabf977-a366-4cac-8aef-19f83491d0ff.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R0510-20130103
-  retrieved_at: '2026-10-22T02:37:03Z'
+  retrieved_at: '2026-10-22T15:03:32Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-19T21:23:50.483+01:00'
 integrity:
@@ -58,9 +127,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:03Z'
-  notes: Texto consolidado 02006R0510-20130103.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:03:32Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2006-510.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -270,16 +339,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:03Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:03:32Z'
+  warnings: []
   errors: []
 ---
 

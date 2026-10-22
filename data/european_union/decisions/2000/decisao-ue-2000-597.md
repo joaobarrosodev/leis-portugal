@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: decisao-ue-2000-597.versoes.json
+  count: 1
+  source_lastmod: '2001-01-01'
+  versions:
+  - date: '2000-10-07'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32000D0597
   eli: http://data.europa.eu/eli/dec/2000/597/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7da893d3-b42b-4598-8230-c04a771cd8a8.0009
   content_url: http://publications.europa.eu/resource/cellar/7da893d3-b42b-4598-8230-c04a771cd8a8.0009.01/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:40:29Z'
+  retrieved_at: '2026-10-22T14:48:32Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T19:20:00.120+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:29Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:32Z'
+  notes: 1 versão(ões); histórico completo em decisao-ue-2000-597.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -148,17 +157,15 @@ relationships:
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:29Z'
+  checked_at: '2026-10-22T14:48:32Z'
   warnings:
-  - Versão consolidada 02000D0597-20010101 indisponível (Sem expressão na língua por para CELEX 02000D0597-20010101.); usado
-    o texto do JO.
-  - Não foi detetado o título principal no XHTML.
+  - '02000D0597-20010101: versão indisponível (Sem expressão na língua por para CELEX 02000D0597-20010101.)'
   errors: []
 ---
 

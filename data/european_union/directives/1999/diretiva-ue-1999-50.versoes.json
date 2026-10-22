@@ -1,0 +1,65 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999L0050:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0050-20080101",
+ "dre_path": null,
+ "source_lastmod": "2008-01-01",
+ "versions": [
+  {
+   "date": "1999-06-02",
+   "future": false,
+   "celex": "31999L0050",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6032389fb91bc1b7",
+    "4a8571fb267fb2a1",
+    "27a3b7e5d9586f78",
+    "271594770ecf7591",
+    "1f5748a822073ad6"
+   ]
+  }
+ ],
+ "fragments": {
+  "6032389fb91bc1b7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 1999/50/CE da Comissão de 25 de Maio de 1999 que altera a Directiva 91/321/CEE relativa às fórmulas para lactentes e fórmulas de transição (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 139 de 02/06/1999 p. 0029 - 0031*\n\nDIRECTIVA 1999/50/CE DA COMISSÃO\n\nde 25 de Maio de 1999\n\nque altera a Directiva 91/321/CEE relativa às fórmulas para lactentes e fórmulas de transição\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 89/398/CEE do Conselho, de 3 de Maio de 1989, relativa à aproximação das legislações dos Estados-Membros respeitantes aos géneros alimentícios destinados a uma alimentação especial(1), com a redacção que lhe foi dada pela Directiva 96/84/CE do Parlamento Europeu e do Conselho(2) e, nomeadamente, o n.o 1 do seu artigo 4.o,\n\nApós consulta do Comité Científico da Alimentação Humana,\n\n(1) Considerando que o artigo 6.o da Directiva 91/321/CEE da Comissão(3), com a última redacção que lhe foi dada pela Directiva 96/4/CE(4), estipula que as fórmulas para lactentes e fórmulas de transição não podem conter quaisquer substâncias em quantidades que possam prejudicar a saúde dos lactentes e crianças jovens e que devem estabelecer-se, num prazo tão breve quanto possível, os teores máximos aplicáveis às substâncias em causa;\n\n(2) Considerando que a diversidade das regulamentações sobre os teores máximos de resíduos de pesticidas nos produtos em causa determina entraves ao comércio entre determinados Estados-Membros;\n\n(3) Considerando que os teores máximos de resíduos de pesticidas estabelecidos pela Directiva 76/895/CEE do Conselho, de 23 de Novembro de 1976, relativa à fixação de teores máximos de resíduos de pesticidas nas e sobre as frutas e produtos hortícolas(5), com a última redacção que lhe foi dada pela Directiva 97/41/CE(6), pela Directiva 86/362/CEE, de 24 de Julho de 1986, relativa à fixação de teores máximos para os resíduos de pesticidas à superfície e no interior dos cereais(7), com a última redacção que lhe foi dada pela Directiva 98/82/CE da Comissão(8), pela Directiva 86/363/CEE, de 24 de Julho de 1986, relativa à fixação de teores máximos para os resíduos de pesticidas à superfície e no interior dos géneros alimentícios de origem animal(9), com a última redacção que lhe foi dada pela Directiva 98/82/CE, e pela Directiva 90/642/CEE, de 27 de Novembro de 1990, relativa à fixação de teores máximos de resíduos de pesticidas nos e sobre determinados produtos de origem vegetal, incluindo frutas e produtos hortícolas(10), com a última redacção que lhe foi dada pela Directiva 98/82/CE, não prejudicam as disposições específicas aplicáveis às fórmulas para lactentes e fórmulas de transição;\n\n(4) Considerando que, em virtude das suas obrigações internacionais, o princípio da precaução permite à Comunidade, nos casos em que não existam dados científicos suficientes, adoptar, a título provisório, medidas baseadas nos dados relevantes disponíveis, na expectativa de uma avaliação complementar dos riscos e da revisão das medidas em causa num período razoável;\n\n(5) Considerando que, com base nos dois pareceres emitidos pelo Comité Científico da Alimentação Humana, em 19 de Setembro de 1997 e 4 de Junho de 1998, existem actualmente dúvidas sobre a adequação das doses diárias admissíveis em vigor à protecção da saúde dos lactentes e das crianças jovens; que as dúvidas em causa se referem não apenas aos pesticidas e resíduos de pesticidas mas também a outras substâncias perigosas, pelo que a Comissão deve analisar a possibilidade de estabelecer num prazo tão breve quanto possível teores máximos de metais pesados nos alimentos destinados a lactentes e crianças jovens;\n\n(6) Considerando que, por consequência, deve adoptar-se um teor máximo bastante reduzido de pesticidas totais nos alimentos para fins nutricionais específicos destinados a lactentes e crianças jovens;\n\n(7) Considerando que o referido teor máximo deve ser fixado em 0,01 mg/kg, que constitui o teor mínimo detectável na prática;\n\n(8) Considerando que deve ser exigido uma limitação considerável dos resíduos de pesticidas; que, mediante uma selecção cuidadosa das matérias-primas e tendo em conta que o fabrico de fórmulas para lactentes e fórmulas de transição implica um processamento complexo, é possível obter produtos com teores bastante reduzidos de resíduos de pesticidas;\n\n(9) Considerando, todavia, que, no que respeita a um pequeno número de pesticidas, mesmo os referidos valores-limite reduzidos podem conduzir a que, em casos extremos, as DDA dos pesticidas em causa sejam excedidas; que, por consequência, as fórmulas para lactentes e fórmulas de transição devem ser isentas dos referidos pesticidas específicos e produzidas sem recurso aos mesmos;\n\n(10) Considerando que a presente directiva reflecte os conhecimentos actuais sobre as substâncias em causa; que quaisquer alterações decorrentes do progresso científico e técnico deverão ser decididas através do procedimento estabelecido no artigo 13.o da Directiva 89/398/CEE;\n\n(11) Considerando que a Directiva 91/321/CEE deve ser por conseguinte, alterada;\n\n(12) Considerando que as medidas previstas na presente directiva são conformes com o parecer emitido pelo Comité Científico da Alimentação Humana,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "4a8571fb267fb2a1": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Directiva 91/321/CEE é alterada do seguinte modo:\n\n1. É aditada uma alínea e) com a seguinte redacção:\n\n\"e) 'Resíduo de pesticida' designa uma resíduo de produto fitofarmacêutico, tal como definido pelo n.o 1 do artigo 2.o da Directiva 91/414/CEE do Conselho(11), presente numa fórmula para lactentes ou fórmula de transição, incluindo os produtos do seu metabolismo e os seus produtos de degradação ou reacção;\n\n2. O artigo 6.o passa a ter a seguinte redacção:\n\n\"Artigo 6.o\n\n1. As fórmulas para lactentes e fórmulas de transição não podem conter quaiquer substâncias em quantidades que possam prejudicar a saúde dos lactentes e crianças jovens. Os necessários teores máximos admissíveis serão fixados num prazo tão breve quanto possível.\n\n2. As fórmulas para lactentes e fórmulas de transição não podem conter resíduos de pesticidas específicos em teores superiores a 0,01 mg/kg de produto pronto para consumo ou reconstituído de acordo com as instruções do fabricante.\n\nOs métodos analíticos para determinar os teores dos resíduos de pesticidas serão métodos normalizados geralmente aceites.\n\n3. Os pesticidas referidos no anexo IX não podem ser utilizados nem encontrar-se presentes em produtos agrícolas destinados à produção de fórmulas para lactentes e fórmulas de transição.\n\n4. Serão também estabelecidos critérios microbiológicos em função das necessidades.\"\n\n3. É aditado ao anexo IX o seguinte:\n\n\"ANEXO IX\n\nPesticidas que não podem ser utilizados em produtos agrícolas destinados à produção de fórmulas para lactentes e fórmulas de transição.\n\nDenominação química da substância\n\n[...]\""
+  },
+  "27a3b7e5d9586f78": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, em 30 de Junho de 2000. Desse facto informarão imediatamente a Comissão.\n\nEssas disposições serão aplicadas de modo a:\n\na) Autorizar o comércio dos produtos que sejam conformes com a presente directiva o mais tardar em 30 de Junho de 2000;\n\nb) Proibir o comércio dos produtos que não sejam conformes com a presente directiva, com efeitos a partir de 1 de Julho de 2002.\n\nSempre que os Estados-Membros adoptarem as referidas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros."
+  },
+  "271594770ecf7591": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "1f5748a822073ad6": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 25 de Maio de 1999.\n\nPela Comissão\n\nMartin BANGEMANN\n\nMembro da Comissão\n\n(1) JO L 186 de 30.6.1989, p. 27.\n\n(2) JO L 48 de 19.2.1997, p. 20.\n\n(3) JO L 175 de 4.7.1991, p. 35.\n\n(4) JO L 49 de 28.2.1996, p. 12.\n\n(5) JO L 340 de 9.12.1976, p. 26.\n\n(6) JO L 184 de 12.7.1997, p. 33.\n\n(7) JO L 221 de 7.8.1986, p. 37.\n\n(8) JO L 290 de 29.10.1998, p. 25.\n\n(9) JO L 221 de 7.8.1986, p. 43.\n\n(10) JO L 350 de 14.12.1990, p. 71.\n\n(11) JO L 230 de 19.8.1991, p. 1."
+  }
+ }
+}

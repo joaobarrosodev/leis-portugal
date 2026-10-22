@@ -1,0 +1,448 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0007:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0007-20010730",
+ "dre_path": null,
+ "source_lastmod": "2001-07-30",
+ "versions": [
+  {
+   "date": "1993-03-27",
+   "future": false,
+   "celex": "31993L0007",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "57c38bb6a97c6a0d",
+    "413c8fc2bf457d37",
+    "c473366ffef56913",
+    "34dc44f6c334200c",
+    "7266cf1b1e88a03c",
+    "1f641c87bca199d7",
+    "65c63c6657b7615f",
+    "a3c88785a5d87bf6",
+    "d7adbb46504bcfa2",
+    "743ccc7969e4e381",
+    "7e35a2370cf1d226",
+    "ddb622708a50a343",
+    "a6e38fb5f31c0827",
+    "e3333c377a737e98",
+    "48006921f77f1347",
+    "4357d047e901c5dc",
+    "0074674252fbbe8d",
+    "62f06ba3aee46105",
+    "9651b76bb8685834",
+    "939d329f9c7d1e7c",
+    "c48974dde43dce46"
+   ]
+  },
+  {
+   "date": "2001-07-30",
+   "future": false,
+   "celex": "01993L0007-20010730",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o"
+   ],
+   "fragments": [
+    "b0f34c18668f293d",
+    "d53e55e2ddab03a1",
+    "7823b4fee5c456d3",
+    "cb8b85d86b19ff67",
+    "4343bcf7b9356b61",
+    "c625e29a202ac4e8",
+    "cab03228308d6a85",
+    "2cd566a047ac679c",
+    "9f0f8c4f8ba8b6a6",
+    "3bd3cd781b8c41df",
+    "50acf1a199da5491",
+    "dc14995547967417",
+    "dfd705611ddf549c",
+    "8bed2c08c8c0e6fc",
+    "76d6b4f0a9a73ba7",
+    "dbb7ab8689eb3763",
+    "9e2d2d6c215bd7b0",
+    "2751340799497a67",
+    "71cb3b951b5306cc",
+    "fe23fcede97efb4b",
+    "c1b3306991390311"
+   ]
+  }
+ ],
+ "fragments": {
+  "57c38bb6a97c6a0d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 93/7/CEE do Conselho, de 15 de Março de 1993, relativa à restituição de bens culturais que tenham saído ilicitamente do território de um Estado-membro** *Jornal Oficial nº L 074 de 27/03/1993 p. 0074 - 0079 Edição especial finlandesa: Capítulo 2 Fascículo 9 p. 0012 Edição especial sueca: Capítulo 2 Fascículo 9 p. 0012*\n\nDIRECTIVA 93/7/CEE DO CONSELHO de 15 de Março de 1993 relativa à restituição de bens culturais que tenham saído ilicitamente do território de um Estado-membro\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100oA,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o artigo 8oA do Tratado prevê o estabelecimento do mercado interno o mais tardar até 1 de Janeiro de 1993 e que esse mercado compreende um espaço sem fronteiras internas no qual a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais é assegurada de acordo com as disposições do Tratado;\n\nConsiderando que, nos termos do artigo 36o do Tratado e dentro dos limites nele definidos, os Estados-membros continuarão a ter, após 1992, o direito de definir o seu património nacional e de adoptar as disposições necessárias para garantir a sua protecção nesta área sem fronteiras internas;\n\nConsiderando ser conveniente, portanto, criar um sistema de restituição que permita aos Estados-membros obterem o retorno ao seu território dos bens culturais classificados como património nacional, na acepção do citado artigo 36o, e que tenham saído do seu território em violação das disposições nacionais acima referidas ou do Regulamento (CEE) no 3911/92, de 9 de Dezembro de 1992, relativo à exportação de bens culturais (4); que a aplicação desse sistema deverá ser o mais simples e eficaz possível; que para facilitar a cooperação em matéria de restituição, é necessário limitar o âmbito de aplicação do actual sistema a objectos que pertençam a categorias comuns de bens culturais; que, assim, o anexo da presente directiva não tem por objecto a definição dos bens classificados como « património nacional », na acepção do referido artigo 36o, mas unicamente as categorias de bens susceptíveis de serem classificados como tal e que podem, a esse título, ser objecto de um processo de restituição nos termos da presente directiva;\n\nConsiderando que os objectos culturais classificados como património nacional e que formem parte integrante de colecções oficiais ou de inventários de instituições religiosas, mas não se incluem nestas categorias comuns, devem igualmente ser abrangidos pela presente directiva;\n\nConsiderando que convém estabelecer um mecanismo de cooperação administrativa entre os Estados-membros em matéria de partrimónio nacional, em estreita articulação com a sua cooperação no domínio das obras de arte roubadas e que comporte, nomeadamente, o registo, junto da Interpol e de outros organismos qualificados emissores de listas similares, de objectos culturais perdidos, roubados ou alegadamente removidos, pertencentes aos respectivos patrimónios nacionais e colecções oficiais;\n\nConsiderando que se trata de um primeiro passo na via da cooperação entre Estados-membros neste domínio no quadro do mercado interno; que o objectivo reside num reconhecimento mútuo das legislações nacionais nesta matéria; que, sendo assim, é conveniente prever, nomeadamente, que a Comissão seja assistida por um comité consultivo;\n\nConsiderando que o Regulamento (CEE) no 3911/92, que institui o controlo de bens culturais nas fronteiras externas da Comunidade, em conjunto com a presente directiva, introduz um sistema comunitário de protecção dos bens culturais dos Estados-membros; que a data em que os Estados-membros têm de se adaptar à presente directiva tem de ser o mais próxima possível da data de entrada em vigor daquele regulamento; que, dada a natureza dos seus sistemas legislativos, e a amplitude das alterações a efecturar nas suas legislações, necessárias para aplicar a presente directiva, alguns Estados-membros necessitam de um período mais longo,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "413c8fc2bf457d37": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nPara efeitos da presente directiva, entende-se por:\n\n1. « Bem cultural », um bem:\n\n- classificado, antes ou depois de ter saído ilicitamente do território de um Estado-membro, como « património nacional de valor artístico, histórico ou arqueológico », de harmonia com a respectiva legislação nacional ou os processos administrativos nacionais, na acepção do artigo 36o do Tratado,\n\ne\n\n- que pertença a uma das categorias previstas no anexo da presente directiva ou que, não pertencendo a uma destas categorias, faça parte integrante:\n\n- das colecções públicas repertoriadas nos inventários dos museus, arquivos e fundos de conservação das bibliotecas.\n\nPara efeitos de presente directiva, entende-se por « colecções públicas » as colecções que sejam propriedade de um Estado-membro, de uma autoridade local ou regional de um Estado-membro ou de uma instituição pública situada no território de um Estado-membro e como tal definida na legislação desse Estado-membro, sendo esta instituição propriedade desse Estado-membro, ou de uma autoridade local ou regional, ou por eles financiada de forma significativa,\n\n- dos inventários das instituições religiosas.\n\n2. « Bem que tenha saído ilicitamente do território de um Estado-membro »:\n\n- a saída do território de um Estado-membro em violação da legislação desse Estado-membro em matéria de protecção do património nacional ou em violação do Regulamento (CEE) no 3911/92, bem como\n\n- o não regresso decorrido o prazo de uma expedição temporária lícita, ou qualquer violação de uma das outras condições dessa expedição temporária.\n\n3. « Estado-membro requerente », o Estado-membro de cujo território o bem cultural saiu ilicitamente.\n\n4. « Estado-membro requerido », o Estado-membro em cujo território se encontra o bem cultural saído ilicitamente do território de outro Estado-membro.\n\n5. « Restituição », o regresso material do bem cultural ao território do Estado-membro requerente.\n\n6. « Possuidor », a pressoa que detém materialmente o bem cultural por conta própria.\n\n7. « Detentor », a pessoa que detém materialmente o bem cultural por conta de outrem."
+  },
+  "c473366ffef56913": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs bens culturais que tenham saído ilicitamente do território de um Estado-membro serão restituídos segundo os trâmites e nas condições previstas na presente directiva."
+  },
+  "34dc44f6c334200c": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nCada Estado-membro designará uma ou mais autoridades centrais que exercerão as funções previstas na presente directiva.\n\nQualquer designação efectuada nos termos do presente artigo deve ser comunicada pelo Estado-membro em causa à Comissão.\n\nA Comissão publicará a lista das referidas autoridades centrais, bem como quaisquer alterações nela introduzidas, no Jornal Oficial das Comunidades Europeias, série C."
+  },
+  "7266cf1b1e88a03c": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nAs autoridades centrais dos Estados-membros cooperarão e promoverão a concertação entre as autoridades competentes dos Estados-membros. A estas são nomeadamente cometidas as seguintes funções:\n\n1. Procurar, a pedido do Estado-membro requerente, um dado bem cultural que tenha saído ilicitamente do território e a identificação do possuidor e/ou detentor. Esse pedido deve ser acompanhado de todas as informações úteis que possam facilitar esta procura, nomeadamente no que diz respeito à localização efectiva ou presumível do objecto.\n\n2. Notificar os Estados-membros envolvidos, em caso de descoberta de bens culturais no seu território, se houver motivos razoáveis para presumir que tais bens saíram ilicitamente do território de outros Estados-membros.\n\n3. Facilitar a verificação pelas autoridades competentes do Estado-membro requerente de que o bem em questão constitui um bem cultural na condição de a verificação ser efectuada no prazo de dois meses após a notificação prevista no no 2. Se esta verificação não for efectuada no prazo estipulado, os nos 4 e 5 infra deixarão de ser aplicáveis.\n\n4. Tomar, em caso de necessidade e em cooperação com o Estado-membro interessado, as medidas necessárias à conservação material do bem cultural.\n\n5. Evitar, através de adopção das medidas cautelares necessárias, que o bem cultural seja subtraído ao processo de restituição.\n\n6. Desempenhar a função de intermediário entre o possuidor e/ou o detentor e o Estado-membro requerente da restituição. Neste sentido, sem prejuízo do artigo 5o, as autoridades competentes do Estado-membro requerido poderão facilitar a realização de um processo de arbitragem, em conformidade com o disposto na legislação nacional do Estado requerido e sob a condição de o Estado-membro requerente e o possuidor ou detentor darem formalmente o seu acordo para a respectiva realização."
+  },
+  "1f641c87bca199d7": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nO Estado-membro requerente pode intentar, no tribunal competente do Estado-membro requerido, uma acção judicial contra o possuidor e, na falta deste, contra o detentor para a restituição de um bem cultural que tenha saído ilicitamente do seu território.\n\nPara ser admissível, o requerimento inicial da acção de restituição deve ser instruído com:\n\n- um documento que descreva o bem que é objecto de pedido e que ateste a sua qualidade de bem cultural,\n\n- uma declaração das autoridades competentes do Estado-membro requerente segundo a qual o bem cultural saiu ilicitamente do seu território."
+  },
+  "65c63c6657b7615f": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nA autoridade central do Estado-membro requerente deve informar sem demora a autoridade central do Estado-membro requerido da propositura da acção de restituição.\n\nA autoridade central do Estado-membro requerido deve informar sem demora a autoridade central dos outros Estados-membros."
+  },
+  "a3c88785a5d87bf6": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Os Estados-membros estipulam na sua legislação que a acção de restituição prevista na presente directiva prescreve no prazo de um ano a contar da data em que o Estado-membro requerente teve conhecimento do local em que se encontrava o bem cultural e da identidade do seu possuidor ou detentor.\n\nEm qualquer caso, a acção de restituição prescreve no prazo de trinta anos a contar da data em que o bem cultural saiu ilicitamete do território do Estado-membro requerente. Todavia, no caso dos bens que façam parte das colecções públicas referidas no ponto 1 do artigo 1o e de bens religiosos no Estado-membro em que sejam sujeitos a acordos de protecção especial segundo a lei nacional, as acções de restituição prescrevem num prazo de setenta e cinco anos, excepto nos Estados-membros em que a acção seja imprescritível ou caso o prazo estabelecido em acordos bilaterais entre Estados-membros seja superior a sententa e cinco anos.\n\n2. A acção de restituição não procede se a saída do território do Estado-membro requerente tiver deixado de ser ilícita à data da propositura da acção."
+  },
+  "d7adbb46504bcfa2": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nSem prejuízo no disposto nos artigos 7o e 13o, a restituição do bem cultural será ordenada pelo tribunal competente caso tenha sido determinada a sua qualidade de bem cultural, na acepção do ponto 1 do artigo 1o, e o carácter ilícito da sua saída do território."
+  },
+  "743ccc7969e4e381": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nCaso seja ordenada a restituição, o tribunal competente do Estado-membro requerido concede ao possuidor a indemnização que considere equitativa em função das circunstâncias do caso em apreço, desde que esteja convencido de que o possuidor agiu com a diligência exigida aquando da aquisição.\n\nO ónus da prova rege-se pela legislação do Estado-membro requerido.\n\nEm caso de doação ou sucessão, o possuidor não pode beneficiar de um estatuto mais favorável do que o da pessoa a quem adquiriu, a esse título, o bem.\n\nO Estado-membro requerente é obrigado a pagar a referida indemnização aquando da restituição."
+  },
+  "7e35a2370cf1d226": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nAs despesas incorridas na execução da decisão que ordena a restituição do bem cultural serão suportadas pelo Estado-membro requerente. O mesmo se verifica para as despesas relativas às medidas referidas no 4 do artigo 4o"
+  },
+  "ddb622708a50a343": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nO pagamento da indemnização equitativa referida no artigo 9o e das despesas referidas no artigo 10o em nada prejudica o direito de o Estado-membro requerente reclamar o reembolso dessas quantias aos responsáveis pela saída ilícita do bem cultural do seu território."
+  },
+  "a6e38fb5f31c0827": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nApós a restituição, a propriedade do bem cultural rege-se pela legislação do Estado-membro requerente."
+  },
+  "e3333c377a737e98": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nA presente directiva é aplicável apenas às saídas ilícitas do território de um Estado-membro ocorridas a partir de 1 de Janeiro de 1993."
+  },
+  "48006921f77f1347": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. Os Estados-membros podem alargar a obrigatoriedade de restituição a outras categorias de bens culturais para além das previstas no anexo.\n\n2. Cada Estado-membro pode aplicar o regime previsto na presente directiva aos pedidos de restituição de bens culturais que tenham saído ilicitamente do território de outros Estados-membros anteriormente a 1 de Janeiro de 1993."
+  },
+  "4357d047e901c5dc": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nA presente directiva não prejudica as acções cíveis ou penais que o Estado-membro requerente e/ou o proprietário a quem o bem foi furtado podem intentar nos termos do direito nacional dos Estados-membros."
+  },
+  "0074674252fbbe8d": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\n1. Os Estados-membros apresentarão à Comissão, trienalmente e pela primeira vez em Fevereiro de 1996, um relatório sobre a aplicação da presente directiva.\n\n2. A Comissão apresentará trienalmente ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social um relatório de avaliação da aplicação da presente directiva.\n\n3. No termo de um período de aplicação de três anos, o Conselho avaliará a eficácia da presente directiva e, sob proposta da Comissão, procederá às adaptações necessárias.\n\n4. Em qualquer caso, o Conselho, sob proposta da Comissão, precederá trienalmente à ánalise e, se necessário, à actualização dos montantes mencionados no anexo da presente directiva, em função dos índices económicos e monetários da Comunidade."
+  },
+  "62f06ba3aee46105": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nA Comissão é assistida pelo comité instituído pelo artigo 8o do Regulamento (CEE) no 3911/92.\n\nO comité examinará todas as questões relativas à aplicação do anexo da presente directiva apresentadas pelo seu presidente, quer por iniciativa deste quer a pedido do representante de um Estado-membro."
+  },
+  "9651b76bb8685834": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, no prazo de nove meses a partir da sua adopção, excepto em relação ao Reino da Bélgica, à República Federal da Alemanha e ao Reino dos Países Baixos, que devem adaptar-se à presente directiva, o mais tardar, doze meses a partir da data da sua adopção.\n\nQuando os Estados-membros adoptarem tais disposições, estas deverão incluir um referência à presente directiva ou ser acompanhadas de tal referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "939d329f9c7d1e7c": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 15 de Março de 1993.\n\nPelo Conselho\n\nO Presidente\n\nM. JELVED\n\n(1) JO no C 53 de 28. 2. 1992, p. 11, e JO no C 172 de 8. 7. 1992, p. 7.\n\n(2) JO no C 176 de 13. 7. 1992, p. 129, e JO no C 72 de 15. 3. 1993.\n\n(3) JO no C 223 de 31. 8. 1992, p. 10.\n\n(4) JO no L 395 de 31. 12. 1992, p. 1."
+  },
+  "c48974dde43dce46": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nCategorias previstas no ponto 1, segundo travessão, do artigo 1o a que devem pertencer os bens classificados como « património nacional », na acepção do artigo 36o do Tratado CEE, para que possam ser restituídos nos termos da presente directiva A. 1. Objectos arqueológicos com mais de cem anos, provenientes de:\n\n- escavações ou descobertas terrestres e submarinas,\n\n- estações arqueológicas,\n\n- colecções arqueológicas.\n\n2. Elementos que façam parte integrante de monumentos artísticos, históricos ou religiosos, provenientes do seu desmembramento, com mais de cem anos.\n\n3. Quadros e pinturas feitos inteiramente à mão sobre qualquer suporte e em qualquer material.\n\n4. Mosaicos, para além dos que se encontram abrangidos pelas categorias 1 ou 2, e desenhos feitos inteiramente à mão sobre qualquer suporte e em qualquer material (1).\n\n5. Gravuras, estampas, serigrafias e litografias originais e respectivas matrizes, bem como os cartazes originais (1).\n\n6. Produções originais de estatuária ou de escultura e cópias obtidas pelo mesmo processo que o original (1), para além das que se encontram abrangidas pela categoria 1.\n\n7. Fotografias, filmes e respectivos negativos (1).\n\n8. Incunábulos e manuscritos, incluindo as cartas geográficas e as partituras musicais, isolados ou em colecção (1).\n\n9. Livros com mais de cem anos, isolados ou em colecção.\n\n10. Cartas geográficas impressas com mais de duzentos anos.\n\n11. Arquivos de qualquer natureza contendo elementos com mais de cinquenta anos, independentemente do respectivo suporte.\n\n12. a) Colecções (2) e espécimes provenientes de colecções de zoologia, de botânica, de mineralogia, de anatomia;\n\nb) Colecções (2) de interesse histórico, paleontológico, etnográfico ou numismático.\n\n13. Meios de transporte com mais de 75 anos.\n\n14. Qualquer outra antiguidade não mencionada nas categorias A.1 a A.13 com mais de cinquenta anos.\n\nOs bens culturais previstos nas categorias A.1 a A.14 só são abrangidos pela presente directiva se o seu valor corresponder ou exceder os limiares financeiros apresentados no ponto B.\n\nB. Limiares financeiros aplicáveis a certas categorias referidas no ponto A (em ecus)\n\nVALORES: 0 (zero)\n\n- 1 (objectos arqueológicos)\n\n- 2 (desmembramento de monumentos)\n\n- 8 (incunábulos e manuscritos)\n\n- 11 (arquivos)\n\n15 000\n\n- 4 (mosaicos e desenhos)\n\n- 5 (gravuras)\n\n- 7 (fotografias)\n\n- 10 (cartas geográficas impressas)\n\n50 000\n\n- 6 (estatuária)\n\n- 9 (livros)\n\n- 12 (colecções)\n\n- 13 (meios de transporte)\n\n- 14 (quaisquer outros objectos)\n\n150 000\n\n- 3 (quadros)\n\nO respeito pelas condições relativas aos valores financeiros deve ser julgado no momento da introdução do pedido de restituição. O valor financeiro é o do bem cultural no Estado-membro requerido.\n\nA data para a conversão em divisas nacionais dos valores expressos em ecus no anexo é 1 de Janeiro de 1993.\n\n(1) Com mais de cinquenta anos e que não sejam propriedade dos respectivos autores.\n\n(2) Com a seguinte definição que lhes foi dada pelo Tribunal de Justiça no seu acórdão no 252/84: « Os objectos de colecção a que se refere a posição 99.05 da Pauta Aduaneira Comum devem ser entendidos como aqueles que se revestem das qualidades necessárias para pertencer a uma colecção, isto é, objectos relativamente raros que normalmente já não são utilizados para o fim a que foram inicialmente destinados, sendo susceptíveis de transacção à margem do comércio usual de objectos similares utilizáveis e possuindo elevado valor. »."
+  },
+  "b0f34c18668f293d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1993L0007 — PT — 30.07.2001 — 002.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0007:PT:NOT) [DIRECTIVA 93/7/CEE DO CONSELHO de 15 de Março de 1993 relativa à restituição de bens culturais que tenham saído ilicitamente do território de um Estado-membro](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0007:PT:NOT) (JO L 074, 27.3.1993, p.74)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0100:PT:NOT) | [Directiva 96/100/CE do Parlamento Europeu e do Conselho de 17 de Fevereiro de 1997](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0100:PT:NOT) | L 60 | 59 | 1.3.1997 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0038:PT:NOT) | [Directiva 2001/38/CE do Parlamento Europeu e do Conselho Texto relevante para efeitos do EEE de 5 de Junho de 2001](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0038:PT:NOT) | L 187 | 43 | 10.7.2001 |\n\n| NB: Esta versão consolidada contém referências à unidade de conta europeia e/ou ao ecu, que a partir de 1 de Janeiro de 1999 devem ser interpretadas como referências ao euro — Regulamento (CEE) n.o 3308/80 do Conselho (JO L 345 de 20.12.1980, p. 1) e Regulamento (CE) n.o 1103/97 do Conselho (JO L 162 de 19.6.1997, p. 1). |\n| --- |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0007:PT:NOT)\n\nDIRECTIVA 93/7/CEE DO CONSELHO\n\nde 15 de Março de 1993\n\nrelativa à restituição de bens culturais que tenham saído ilicitamente do território de um Estado-membro\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.oA,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#E0003)),\n\nConsiderando que o artigo 8.oA do Tratado prevê o estabelecimento do mercado interno o mais tardar até 1 de Janeiro de 1993 e que esse mercado compreende um espaço sem fronteiras internas no qual a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais é assegurada de acordo com as disposições do Tratado;\n\nConsiderando que, nos termos do artigo 36.o do Tratado e dentro dos limites nele definidos, os Estados-membros continuarão a ter, após 1992, o direito de definir o seu património nacional e de adoptar as disposições necessárias para garantir a sua protecção nesta área sem fronteiras internas;\n\nConsiderando ser conveniente, portanto, criar um sistema de restituição que permita aos Estados-membros obterem o retorno ao seu território dos bens culturais classificados como património nacional, na acepção do citado artigo 36.o, e que tenham saído do seu território em violação das disposições nacionais acima referidas ou do Regulamento (CEE) n.o 3911/92, de 9 de Dezembro de 1992, relativo à exportação de bens culturais ([4](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#E0004)); que a aplicação desse sistema deverá ser o mais simples e eficaz possível; que para facilitar a cooperação em matéria de restituição, é necessário limitar o âmbito de aplicação do actual sistema a objectos que pertençam a categorias comuns de bens culturais; que, assim, o anexo da presente directiva não tem por objecto a definição dos bens classificados como «património nacional», na acepção do referido artigo 36.o, mas unicamente as categorias de bens susceptíveis de serem classificados como tal e que podem, a esse título, ser objecto de um processo de restituição nos termos da presente directiva;\n\nConsiderando que os objectos culturais classificados como património nacional e que formem parte integrante de colecções oficiais ou de inventários de instituições religiosas, mas não se incluem nestas categorias comuns, devem igualmente ser abrangidos pela presente directiva;\n\nConsiderando que convém estabelecer um mecanismo de cooperação administrativa entre os Estados-membros em matéria de partrimónio nacional, em estreita articulação com a sua cooperação no domínio das obras de arte roubadas e que comporte, nomeadamente, o registo, junto da Interpol e de outros organismos qualificados emissores de listas similares, de objectos culturais perdidos, roubados ou alegadamente removidos, pertencentes aos respectivos patrimónios nacionais e colecções oficiais;\n\nConsiderando que se trata de um primeiro passo na via da cooperação entre Estados-membros neste domínio no quadro do mercado interno; que o objectivo reside num reconhecimento mútuo das legislações nacionais nesta matéria; que, sendo assim, é conveniente prever, nomeadamente, que a Comissão seja assistida por um comité consultivo;\n\nConsiderando que o Regulamento (CEE) n.o 3911/92, que institui o controlo de bens culturais nas fronteiras externas da Comunidade, em conjunto com a presente directiva, introduz um sistema comunitário de protecção dos bens culturais dos Estados-membros; que a data em que os Estados-membros têm de se adaptar à presente directiva tem de ser o mais próxima possível da data de entrada em vigor daquele regulamento; que, dada a natureza dos seus sistemas legislativos, e a amplitude das alterações a efecturar nas suas legislações, necessárias para aplicar a presente directiva, alguns Estados-membros necessitam de um período mais longo,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d53e55e2ddab03a1": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Bem cultural», um bem:\n\n— classificado, antes ou depois de ter saído ilicitamente do território de um Estado-membro, como «património nacional de valor artístico, histórico ou arqueológico», de harmonia com a respectiva legislação nacional ou os processos administrativos nacionais, na acepção do artigo 36.o do Tratado,\n\n— e\n\n— que pertença a uma das categorias previstas no anexo da presente directiva ou que, não pertencendo a uma destas categorias, faça parte integrante:\n\n— das colecções públicas repertoriadas nos inventários dos museus, arquivos e fundos de conservação das bibliotecas.\n\n— Para efeitos de presente directiva, entende-se por «colecções públicas» as colecções que sejam propriedade de um Estado-membro, de uma autoridade local ou regional de um Estado-membro ou de uma instituição pública situada no território de um Estado-membro e como tal definida na legislação desse Estado-membro, sendo esta instituição propriedade desse Estado-membro, ou de uma autoridade local ou regional, ou por eles financiada de forma significativa,\n\n— dos inventários das instituições religiosas.\n\n2. «Bem que tenha saído ilicitamente do território de um Estado-membro»:\n\n— a saída do território de um Estado-membro em violação da legislação desse Estado-membro em matéria de protecção do património nacional ou em violação do Regulamento (CEE) n.o 3911/92, bem como\n\n— o não regresso decorrido o prazo de uma expedição temporária lícita, ou qualquer violação de uma das outras condições dessa expedição temporária.\n\n3. «Estado-membro requerente», o Estado-membro de cujo território o bem cultural saiu ilicitamente.\n\n4. «Estado-membro requerido», o Estado-membro em cujo território se encontra o bem cultural saído ilicitamente do território de outro Estado-membro.\n\n5. «Restituição», o regresso material do bem cultural ao território do Estado-membro requerente.\n\n6. «Possuidor», a pressoa que detém materialmente o bem cultural por conta própria.\n\n7. «Detentor», a pessoa que detém materialmente o bem cultural por conta de outrem."
+  },
+  "7823b4fee5c456d3": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs bens culturais que tenham saído ilicitamente do território de um Estado-membro serão restituídos segundo os trâmites e nas condições previstas na presente directiva."
+  },
+  "cb8b85d86b19ff67": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nCada Estado-membro designará uma ou mais autoridades centrais que exercerão as funções previstas na presente directiva.\n\nQualquer designação efectuada nos termos do presente artigo deve ser comunicada pelo Estado-membro em causa à Comissão.\n\nA Comissão publicará a lista das referidas autoridades centrais, bem como quaisquer alterações nela introduzidas, no Jornal Oficial das Comunidades Europeias, série C."
+  },
+  "4343bcf7b9356b61": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs autoridades centrais dos Estados-membros cooperarão e promoverão a concertação entre as autoridades competentes dos Estados-membros. A estas são nomeadamente cometidas as seguintes funções:\n\n1. Procurar, a pedido do Estado-membro requerente, um dado bem cultural que tenha saído ilicitamente do território e a identificação do possuidor e/ou detentor. Esse pedido deve ser acompanhado de todas as informações úteis que possam facilitar esta procura, nomeadamente no que diz respeito à localização efectiva ou presumível do objecto.\n\n2. Notificar os Estados-membros envolvidos, em caso de descoberta de bens culturais no seu território, se houver motivos razoáveis para presumir que tais bens saíram ilicitamente do território de outros Estados-membros.\n\n3. Facilitar a verificação pelas autoridades competentes do Estado-membro requerente de que o bem em questão constitui um bem cultural na condição de a verificação ser efectuada no prazo de dois meses após a notificação prevista no n.o 2. Se esta verificação não for efectuada no prazo estipulado, os n.os 4 e 5 infra deixarão de ser aplicáveis.\n\n4. Tomar, em caso de necessidade e em cooperação com o Estado-membro interessado, as medidas necessárias à conservação material do bem cultural.\n\n5. Evitar, através de adopção das medidas cautelares necessárias, que o bem cultural seja subtraído ao processo de restituição.\n\n6. Desempenhar a função de intermediário entre o possuidor e/ou o detentor e o Estado-membro requerente da restituição. Neste sentido, sem prejuízo do artigo 5.o, as autoridades competentes do Estado-membro requerido poderão facilitar a realização de um processo de arbitragem, em conformidade com o disposto na legislação nacional do Estado requerido e sob a condição de o Estado-membro requerente e o possuidor ou detentor darem formalmente o seu acordo para a respectiva realização."
+  },
+  "c625e29a202ac4e8": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO Estado-membro requerente pode intentar, no tribunal competente do Estado-membro requerido, uma acção judicial contra o possuidor e, na falta deste, contra o detentor para a restituição de um bem cultural que tenha saído ilicitamente do seu território.\n\nPara ser admissível, o requerimento inicial da acção de restituição deve ser instruído com:\n\n— um documento que descreva o bem que é objecto de pedido e que ateste a sua qualidade de bem cultural,\n\n— uma declaração das autoridades competentes do Estado-membro requerente segundo a qual o bem cultural saiu ilicitamente do seu território."
+  },
+  "cab03228308d6a85": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA autoridade central do Estado-membro requerente deve informar sem demora a autoridade central do Estado-membro requerido da propositura da acção de restituição.\n\nA autoridade central do Estado-membro requerido deve informar sem demora a autoridade central dos outros Estados-membros."
+  },
+  "2cd566a047ac679c": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-membros estipulam na sua legislação que a acção de restituição prevista na presente directiva prescreve no prazo de um ano a contar da data em que o Estado-membro requerente teve conhecimento do local em que se encontrava o bem cultural e da identidade do seu possuidor ou detentor.\n\nEm qualquer caso, a acção de restituição prescreve no prazo de trinta anos a contar da data em que o bem cultural saiu ilicitamete do território do Estado-membro requerente. Todavia, no caso dos bens que façam parte das colecções públicas referidas no ponto 1 do artigo 1.o e de bens religiosos no Estado-membro em que sejam sujeitos a acordos de protecção especial segundo a lei nacional, as acções de restituição prescrevem num prazo de setenta e cinco anos, excepto nos Estados-membros em que a acção seja imprescritível ou caso o prazo estabelecido em acordos bilaterais entre Estados-membros seja superior a sententa e cinco anos.\n\n2. A acção de restituição não procede se a saída do território do Estado-membro requerente tiver deixado de ser ilícita à data da propositura da acção."
+  },
+  "9f0f8c4f8ba8b6a6": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nSem prejuízo no disposto nos artigos 7.o e 13.o, a restituição do bem cultural será ordenada pelo tribunal competente caso tenha sido determinada a sua qualidade de bem cultural, na acepção do ponto 1 do artigo 1.o, e o carácter ilícito da sua saída do território."
+  },
+  "3bd3cd781b8c41df": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nCaso seja ordenada a restituição, o tribunal competente do Estado-membro requerido concede ao possuidor a indemnização que considere equitativa em função das circunstâncias do caso em apreço, desde que esteja convencido de que o possuidor agiu com a diligência exigida aquando da aquisição.\n\nO ónus da prova rege-se pela legislação do Estado-membro requerido.\n\nEm caso de doação ou sucessão, o possuidor não pode beneficiar de um estatuto mais favorável do que o da pessoa a quem adquiriu, a esse título, o bem.\n\nO Estado-membro requerente é obrigado a pagar a referida indemnização aquando da restituição."
+  },
+  "50acf1a199da5491": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs despesas incorridas na execução da decisão que ordena a restituição do bem cultural serão suportadas pelo Estado-membro requerente. O mesmo se verifica para as despesas relativas às medidas referidas n.o 4 do artigo 4.o"
+  },
+  "dc14995547967417": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO pagamento da indemnização equitativa referida no artigo 9.o e das despesas referidas no artigo 10.o em nada prejudica o direito de o Estado-membro requerente reclamar o reembolso dessas quantias aos responsáveis pela saída ilícita do bem cultural do seu território."
+  },
+  "dfd705611ddf549c": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nApós a restituição, a propriedade do bem cultural rege-se pela legislação do Estado-membro requerente."
+  },
+  "8bed2c08c8c0e6fc": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA presente directiva é aplicável apenas às saídas ilícitas do território de um Estado-membro ocorridas a partir de 1 de Janeiro de 1993."
+  },
+  "76d6b4f0a9a73ba7": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Os Estados-membros podem alargar a obrigatoriedade de restituição a outras categorias de bens culturais para além das previstas no anexo.\n\n2. Cada Estado-membro pode aplicar o regime previsto na presente directiva aos pedidos de restituição de bens culturais que tenham saído ilicitamente do território de outros Estados-membros anteriormente a 1 de Janeiro de 1993."
+  },
+  "dbb7ab8689eb3763": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA presente directiva não prejudica as acções cíveis ou penais que o Estado-membro requerente e/ou o proprietário a quem o bem foi furtado podem intentar nos termos do direito nacional dos Estados-membros."
+  },
+  "9e2d2d6c215bd7b0": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Os Estados-membros apresentarão à Comissão, trienalmente e pela primeira vez em Fevereiro de 1996, um relatório sobre a aplicação da presente directiva.\n\n2. A Comissão apresentará trienalmente ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social um relatório de avaliação da aplicação da presente directiva.\n\n3. No termo de um período de aplicação de três anos, o Conselho avaliará a eficácia da presente directiva e, sob proposta da Comissão, procederá às adaptações necessárias.\n\n4. Em qualquer caso, o Conselho, sob proposta da Comissão, precederá trienalmente à ánalise e, se necessário, à actualização dos montantes mencionados no anexo da presente directiva, em função dos índices económicos e monetários da Comunidade."
+  },
+  "2751340799497a67": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nA Comissão é assistida pelo comité instituído pelo artigo 8.o do Regulamento (CEE) n.o 3911/92.\n\nO comité examinará todas as questões relativas à aplicação do anexo da presente directiva apresentadas pelo seu presidente, quer por iniciativa deste quer a pedido do representante de um Estado-membro."
+  },
+  "71cb3b951b5306cc": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, no prazo de nove meses a partir da sua adopção, excepto em relação ao Reino da Bélgica, à República Federal da Alemanha e ao Reino dos Países Baixos, que devem adaptar-se à presente directiva, o mais tardar, doze meses a partir da data da sua adopção.\n\nQuando os Estados-membros adoptarem tais disposições, estas deverão incluir um referência à presente directiva ou ser acompanhadas de tal referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "fe23fcede97efb4b": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "c1b3306991390311": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nCategorias previstas no ponto 1, segundo travessão, do artigo 1.o a que devem pertencer os bens classificados como «património nacional», na acepção do artigo 36.o do Tratado CEE, para que possam ser restituídos nos termos da presente directiva\n\nA.\n\n1. Objectos arqueológicos com mais de cem anos, provenientes de:\n\n— escavações ou descobertas terrestres e submarinas,\n\n— estações arqueológicas,\n\n— colecções arqueológicas.\n\n2. Elementos que façam parte integrante de monumentos artísticos, históricos ou religiosos, provenientes do seu desmembramento, com mais de cem anos.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0100:PT:NOT)\n\n3. Quadros e pinturas, para além dos abrangidos pelas categorias 3A e 4, feitos inteiramente à mão sobre qualquer suporte e em qualquer material (1).\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0100:PT:NOT)\n\n3A. Aguarelas, guaches e pastéis feitos inteiramente à mão sobre qualquer suporte (1).\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0100:PT:NOT)\n\n4. Mosaicos, para além dos classificados nas categorias 1 e 2, realizados inteiramente à mão em qualquer material, e desenhos feitos inteiramente à mão sobre qualquer suporte e em qualquer material (1).\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0007:PT:NOT)\n\n5. Gravuras, estampas, serigrafias e litografias originais e respectivas matrizes, bem como os cartazes originais ([5](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#E0005)).\n\n6. Produções originais de estatuária ou de escultura e cópias obtidas pelo mesmo processo que o original ([6](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#E0006)), para além das que se encontram abrangidas pela categoria 1.\n\n7. Fotografias, filmes e respectivos negativos ([7](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#E0007)).\n\n8. Incunábulos e manuscritos, incluindo as cartas geográficas e as partituras musicais, isolados ou em colecção ([8](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#E0008)).\n\n9. Livros com mais de cem anos, isolados ou em colecção.\n\n10. Cartas geográficas impressas com mais de duzentos anos.\n\n11. Arquivos de qualquer natureza contendo elementos com mais de cinquenta anos, independentemente do respectivo suporte.\n\na) Colecções ([9](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#E0009)) e espécimes provenientes de colecções de zoologia, de botânica, de mineralogia, de anatomia;\n\nb) Colecções ([10](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#E0010)) de interesse histórico, paleontológico, etnográfico ou numismático.\n\n13. Meios de transporte com mais de 75 anos.\n\n14. Qualquer outra antiguidade não mencionada nas categorias A.1 a A.13 com mais de cinquenta anos.\n\nOs bens culturais previstos nas categorias A.1 a A.14 só são abrangidos pela presente directiva se o seu valor corresponder ou exceder os limiares financeiros apresentados no ponto B.\n\nB. Limiares financeiros aplicáveis a certas categorias referidas no ponto A (em ecus)\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0038:PT:NOT)\n\nVALOR:\n\nindependentemente do valor\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0007:PT:NOT)\n\n— 1 (objectos arqueológicos)\n\n— 2 (desmembramento de monumentos)\n\n— 8 (incunábulos e manuscritos)\n\n— 11 (arquivos)\n\n15 000\n\n— 4 (mosaicos e desenhos)\n\n— 5 (gravuras)\n\n— 7 (fotografias)\n\n— 10 (cartas geográficas impressas)\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0100:PT:NOT)\n\n30 000\n\n— 3A (aguarelas, guaches e pastéis)\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0007:PT:NOT)\n\n50 000\n\n— 6 (estatuária)\n\n— 9 (livros)\n\n— 12 (colecções)\n\n— 13 (meios de transporte)\n\n— 14 (quaisquer outros objectos)\n\n150 000\n\n— 3 (quadros)\n\nO respeito pelas condições relativas aos valores financeiros deve ser julgado no momento da introdução do pedido de restituição. O valor financeiro é o do bem cultural no Estado-membro requerido.\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0038:PT:NOT)\n\nNo caso dos Estados-Membros cuja moeda não seja o euro, os valores expressos em euros no anexo são convertidos e expressos em moedas nacionais à taxa de câmbio de 31 de Dezembro de 2001 publicada no Jornal Oficial das Comunidades Europeias. Esse contravalor em moedas nacionais é revisto de dois em dois anos a partir de 31 de Dezembro de 2001. O cálculo desse contravalor basear-se-á no valor diário médio dessas moedas, expresso em euros, durante o período de 24 meses que termine no último dia do mês de Agosto anterior à revisão que produzirá efeitos em 31 de Dezembro. Esse método de cálculo é reexaminado, mediante proposta da Comissão, pelo Comité Consultivo para os bens culturais, em princípio, dois anos após a primeira aplicação. A cada revisão, os valores expressos em euros e nos seus contravalores em moedas nacionais serão publicados no Jornal Oficial das Comunidades Europeias periodicamente nos primeiros dias do mês de Novembro anterior à data em que a revisão produz efeitos.\n\n([1](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#src.E0001)) JO n.o C 53 de 28. 2. 1992, p. 11, e\n\nJO n.o C 172 de 8. 7. 1992, p. 7.\n\n([2](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#src.E0002)) JO n.o C 176 de 13. 7. 1992, p. 129, e\n\nJO n.o C 72 de 15. 3. 1993.\n\n([3](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#src.E0003)) JO n.o C 223 de 31. 8. 1992, p. 10.\n\n([4](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#src.E0004)) JO n.o L 395 de 31. 12. 1992, p. 1.\n\n([5](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#src.E0005)) Com mais de cinquenta anos e que não sejam propriedade dos respectivos autores.\n\n([6](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#src.E0006)) Com mais de cinquenta anos e que não sejam propriedade dos respectivos autores.\n\n([7](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#src.E0007)) Com mais de cinquenta anos e que não sejam propriedade dos respectivos autores.\n\n([8](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#src.E0008)) Com mais de cinquenta anos e que não sejam propriedade dos respectivos autores.\n\n([9](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#src.E0009)) Com a seguinte definição que lhes foi dada pelo Tribunal de Justiça no seu acórdão n.o 252/84:\n\n«Os objectos de colecção a que se refere a posição 99.05 da Pauta Aduaneira Comum devem ser entendidos como aqueles que se revestem das qualidades necessárias para pertencer a uma colecção, isto é, objectos relativamente raros que normalmente já não são utilizados para o fim a que foram inicialmente destinados, sendo susceptíveis de transacção à margem do comércio usual de objectos similares utilizáveis e possuindo elevado valor.».\n\n([10](http://publications.europa.eu/resource/cellar/9359ecc5-9561-4f4c-a917-2cf45375f5a6.0022.02/DOC_1#src.E0010)) Com a seguinte definição que lhes foi dada pelo Tribunal de Justiça no seu acórdão n.o 252/84:\n\n«Os objectos de colecção a que se refere a posição 99.05 da Pauta Aduaneira Comum devem ser entendidos como aqueles que se revestem das qualidades necessárias para pertencer a uma colecção, isto é, objectos relativamente raros que normalmente já não são utilizados para o fim a que foram inicialmente destinados, sendo susceptíveis de transacção à margem do comércio usual de objectos similares utilizáveis e possuindo elevado valor.»."
+  }
+ }
+}

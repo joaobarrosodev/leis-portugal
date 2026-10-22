@@ -33,6 +33,71 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-03-24'
+version_history:
+  file: diretiva-ue-1999-37.versoes.json
+  count: 3
+  source_lastmod: '2022-03-24'
+  versions:
+  - date: '1999-06-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-05-20'
+    amending: eu:celex:32003L0127:por
+    amending_title: DIRECTIVA 2003/127/CE DA COMISSÃO Texto relevante para efeitos do EEE de 23 de Dezembro de 2003; DIRECTIVA
+      2006/103/CE DO CONSELHO de 20 de Novembro de 2006; DIRETIVA 2013/22/UE DO CONSELHO, de 13 de maio de 2013,; DIRETIVA
+      2014/46/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 3 de abril de 2014; ACTO relativo às condições de adesão da República
+      Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República
+      da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações
+      dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Adita Artigo 3.º-A
+    - Adita Artigo 6.º
+    - Adita ANEXO I
+    - Adita PARTE I DO CERTIFICADO DE MATRÍCULA ([^12^](http://publications.europa.eu/resource/cellar/da7e1165-db2a-4055-8ce2-f0a66dcdb447.0015.03/DOC_1#E0012))
+    - Adita ANEXO II
+    - Adita PARTE II DO CERTIFICADO DE MATRÍCULA ([^16^](http://publications.europa.eu/resource/cellar/da7e1165-db2a-4055-8ce2-f0a66dcdb447.0015.03/DOC_1#E0016))
+    - Adita Notas
+    - Suprime Artigo 6.º — Quaisquer alterações necessárias para adaptar os anexos da presente directiva ao progresso técnico
+      devem ser adoptadas nos termos do artigo 7.o
+    - Suprime ANEXO I — PARTE I DO CERTIFICADO DE MATRÍCULA(1)
+    - Suprime ANEXO II — PARTE II DO CERTIFICADO DE MATRÍCULA(1)
+  - date: '2022-03-24'
+    amending: eu:celex:32022L0362:por
+    amending_title: DIRETIVA (UE) 2022/362 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2022; Tratado entre o
+      Reino da Bélgica, o Reino da Dinamarca, a República Federal da Alemanha, a República Helénica, o Reino de Espanha, a
+      República Francesa, a Irlanda, a República Italiana, o Grão-Ducado do Luxemburgo, o Reino dos Países Baixos, a República
+      da Áustria, a República Portuguesa, a República da Finlândia, o Reino da Suécia, o Reino Unido da Grã-Bretanha e Irlanda
+      do Norte (Estados-Membros da União Europeia) e a República Checa, a República da Estónia, a República de Chipre, a República
+      da Letónia, a República da Lituânia, a República da Hungria, a República de Malta, a República da Polónia, a República
+      da Eslovénia, a República Eslovaca relativo à adesão à União Europeia da República Checa, da República da Estónia, da
+      República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta,
+      da República da Polónia, da República da Eslovénia e da República Eslovaca Tratado entre o Reino da Bélgica, o Reino
+      da Dinamarca, a República Federal da Alemanha, a República Helénica, o Reino de Espanha, a República Francesa, a Irlanda,
+      a República Italiana, o Grão-Ducado do Luxemburgo, o Reino dos Países Baixos, a República da Áustria, a República Portuguesa,
+      a República da Finlândia, o Reino da Suécia, o Reino Unido da Grã-Bretanha e Irlanda do Norte (Estados-Membros da União
+      Europeia) e a República Checa, a República da Estónia, a República de Chipre, a República da Letónia, a República da
+      Lituânia, a República da Hungria, a República de Malta, a República da Polónia, a República da Eslovénia, a República
+      Eslovaca relativo à adesão à União Europeia da República Checa, da República da Estónia, da República de Chipre, da
+      República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia,
+      da República da Eslovénia e da República Eslovaca
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 3.º-A
+    - Altera Notas
+    - Adita PARTE I DO CERTIFICADO DE MATRÍCULA ([^8^](http://publications.europa.eu/resource/cellar/53ccd1ed-ba98-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0008))
+    - Adita PARTE II DO CERTIFICADO DE MATRÍCULA ([^14^](http://publications.europa.eu/resource/cellar/53ccd1ed-ba98-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014))
+    - Suprime PARTE I DO CERTIFICADO DE MATRÍCULA ([^12^](http://publications.europa.eu/resource/cellar/da7e1165-db2a-4055-8ce2-f0a66dcdb447.0015.03/DOC_1#E0012))
+    - Suprime PARTE II DO CERTIFICADO DE MATRÍCULA ([^16^](http://publications.europa.eu/resource/cellar/da7e1165-db2a-4055-8ce2-f0a66dcdb447.0015.03/DOC_1#E0016))
 identifiers:
   celex: 31999L0037
   eli: http://data.europa.eu/eli/dir/1999/37/oj
@@ -47,7 +112,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/aee49a23-91c4-4fc5-8e45-a786cc503c5e.0011
   content_url: http://publications.europa.eu/resource/cellar/53ccd1ed-ba98-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0037-20220324
-  retrieved_at: '2026-10-22T02:37:56Z'
+  retrieved_at: '2026-10-22T14:47:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T16:30:11.377+01:00'
 integrity:
@@ -56,9 +121,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:56Z'
-  notes: Texto consolidado 01999L0037-20220324.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:49Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1999-37.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -192,37 +257,23 @@ relationships:
   source: null
 article_structure:
   article_count: 12
-  section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 5
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:56Z'
-  warnings: []
+  checked_at: '2026-10-22T14:47:49Z'
+  warnings:
+  - '01999L0037-20040205: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999L0037-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999L0037-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01999L0037-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 1999/37/CE do Conselho de 29 de Abril de 1999
-
-> 01999L0037 — PT — 24.03.2022 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003L0127) — [DIRECTIVA 2003/127/CE DA COMISSÃO de 23 de Dezembro de 2003](http://publications.europa.eu/resource/celex/32003L0127) — L 10 — 29 — 16.1.2004
-- [►M2](http://publications.europa.eu/resource/celex/32006L0103) — [DIRECTIVA 2006/103/CE DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0103) — L 363 — 344 — 20.12.2006
-- [►M3](http://publications.europa.eu/resource/celex/32013L0022) — [DIRETIVA 2013/22/UE DO CONSELHO, de 13 de maio de 2013,](http://publications.europa.eu/resource/celex/32013L0022) — L 158 — 356 — 10.6.2013
-- [►M4](http://publications.europa.eu/resource/celex/32014L0046) — [DIRETIVA 2014/46/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 3 de abril de 2014](http://publications.europa.eu/resource/celex/32014L0046) — L 127 — 129 — 29.4.2014
-- [►M5](http://publications.europa.eu/resource/celex/32022L0362) — [DIRETIVA (UE) 2022/362 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2022](http://publications.europa.eu/resource/celex/32022L0362) — L 69 — 1 — 4.3.2022
-
-**Alterada por:**
-
-- [►A1](http://publications.europa.eu/resource/celex/12003T%2FACT) — [Tratado entre o Reino da Bélgica, o Reino da Dinamarca, a República Federal da Alemanha, a República Helénica, o Reino de Espanha, a República Francesa, a Irlanda, a República Italiana, o Grão-Ducado do Luxemburgo, o Reino dos Países Baixos, a República da Áustria, a República Portuguesa, a República da Finlândia, o Reino da Suécia, o Reino Unido da Grã-Bretanha e Irlanda do Norte (Estados-Membros da União Europeia) e a República Checa, a República da Estónia, a República de Chipre, a República da Letónia, a República da Lituânia, a República da Hungria, a República de Malta, a República da Polónia, a República da Eslovénia, a República Eslovaca relativo à adesão à União Europeia da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca Tratado entre o Reino da Bélgica, o Reino da Dinamarca, a República Federal da Alemanha, a República Helénica, o Reino de Espanha, a República Francesa, a Irlanda, a República Italiana, o Grão-Ducado do Luxemburgo, o Reino dos Países Baixos, a República da Áustria, a República Portuguesa, a República da Finlândia, o Reino da Suécia, o Reino Unido da Grã-Bretanha e Irlanda do Norte (Estados-Membros da União Europeia) e a República Checa, a República da Estónia, a República de Chipre, a República da Letónia, a República da Lituânia, a República da Hungria, a República de Malta, a República da Polónia, a República da Eslovénia, a República Eslovaca relativo à adesão à União Europeia da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca](http://publications.europa.eu/resource/celex/12003T%2FACT) — L 236 — 33 — 23.9.2003
-
-## DIRECTIVA 1999/37/CE DO CONSELHO
 
 de 29 de Abril de 1999
 

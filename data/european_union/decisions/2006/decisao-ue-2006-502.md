@@ -36,6 +36,87 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-04-14'
+version_history:
+  file: decisao-ue-2006-502.versoes.json
+  count: 10
+  source_lastmod: '2016-04-14'
+  versions:
+  - date: '2007-04-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-04-19'
+    amending: eu:celex:32008D0322:por
+    amending_title: DECISÃO DA COMISSÃO de 18 de Abril de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Notas
+  - date: '2009-03-27'
+    amending: eu:celex:32009D0298:por
+    amending_title: DECISÃO DA COMISSÃO de 26 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Notas
+  - date: '2010-03-17'
+    amending: eu:celex:32010D0157:por
+    amending_title: DECISÃO DA COMISSÃO de 12 de Março de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Notas
+  - date: '2011-03-22'
+    amending: eu:celex:32011D0176:por
+    amending_title: Decisão da Comissão de 21 de Março de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Notas
+  - date: '2012-01-31'
+    amending: eu:celex:32012D0053:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 27 de janeiro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Notas
+  - date: '2013-03-05'
+    amending: eu:celex:32013D0113:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 1 de março de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Notas
+  - date: '2014-02-07'
+    amending: eu:celex:32014D0061:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 5 de fevereiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Notas
+  - date: '2015-02-17'
+    amending: eu:celex:32015D0249:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2015/249 DA COMISSÃO de 10 de fevereiro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Notas
+  - date: '2016-04-14'
+    amending: eu:celex:32016D0575:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2016/575 DA COMISSÃO Texto relevante para efeitos do EEE de 29 de março de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Notas
 identifiers:
   celex: 32006D0502
   eli: http://data.europa.eu/eli/dec/2006/502/oj
@@ -50,7 +131,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ace620c2-7030-4045-b931-38672f0eb0cf.0016
   content_url: http://publications.europa.eu/resource/cellar/ad73d14c-de00-446f-8539-e0f82ae64bcf.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006D0502-20160414
-  retrieved_at: '2026-10-22T02:58:07Z'
+  retrieved_at: '2026-10-22T15:01:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T11:59:53.777+01:00'
 integrity:
@@ -59,9 +140,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:07Z'
-  notes: Texto consolidado 02006D0502-20160414.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:01:14Z'
+  notes: 10 versão(ões); histórico completo em decisao-ue-2006-502.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -149,38 +230,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/a92f44b9-ec33-4dd1-96f9-856f4b889c6a
 article_structure:
   article_count: 7
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:07Z'
+  checked_at: '2026-10-22T15:01:14Z'
   warnings: []
   errors: []
 ---
 
 # 2006/502/CE: Decisão da Comissão, de 11 de Maio de 2006
-
-> 2006D0502 — PT — 14.04.2016 — 010.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007D0231) — [DECISÃO DA COMISSÃO 2007/231/CE de 12 de Abril de 2007](http://publications.europa.eu/resource/celex/32007D0231) — L 99 — 16 — 14.4.2007
-- [M2](http://publications.europa.eu/resource/celex/32008D0322) — [DECISÃO DA COMISSÃO 2008/322/CE de 18 de Abril de 2008](http://publications.europa.eu/resource/celex/32008D0322) — L 109 — 40 — 19.4.2008
-- [M3](http://publications.europa.eu/resource/celex/32009D0298) — [DECISÃO DA COMISSÃO 2009/298/CE de 26 de Março de 2009](http://publications.europa.eu/resource/celex/32009D0298) — L 81 — 23 — 27.3.2009
-- [M4](http://publications.europa.eu/resource/celex/32010D0157) — [DECISÃO DA COMISSÃO 2010/157/UE de 12 de Março de 2010](http://publications.europa.eu/resource/celex/32010D0157) — L 67 — 9 — 17.3.2010
-- [M5](http://publications.europa.eu/resource/celex/32011D0176) — [DECISÃO DA COMISSÃO 2011/176/UE de 21 de Março de 2011](http://publications.europa.eu/resource/celex/32011D0176) — L 76 — 99 — 22.3.2011
-- [M6](http://publications.europa.eu/resource/celex/32012D0053) — [DECISÃO DE EXECUÇÃO DA COMISSÃO 2012/53/UE de 27 de janeiro de 2012](http://publications.europa.eu/resource/celex/32012D0053) — L 27 — 24 — 31.1.2012
-- [M7](http://publications.europa.eu/resource/celex/32013D0113) — [DECISÃO DE EXECUÇÃO DA COMISSÃO 2013/113/UE de 1 de março de 2013](http://publications.europa.eu/resource/celex/32013D0113) — L 61 — 11 — 5.3.2013
-- [M8](http://publications.europa.eu/resource/celex/32014D0061) — [DECISÃO DE EXECUÇÃO DA COMISSÃO 2014/61/UE de 5 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014D0061) — L 38 — 43 — 7.2.2014
-- [M9](http://publications.europa.eu/resource/celex/32015D0249) — [DECISÃO DE EXECUÇÃO (UE) 2015/249 DA COMISSÃO Texto relevante para efeitos do EEE de 10 de fevereiro de 2015](http://publications.europa.eu/resource/celex/32015D0249) — L 41 — 41 — 17.2.2015
-- [►M10](http://publications.europa.eu/resource/celex/32016D0575) — [DECISÃO DE EXECUÇÃO (UE) 2016/575 DA COMISSÃO Texto relevante para efeitos do EEE de 29 de março de 2016](http://publications.europa.eu/resource/celex/32016D0575) — L 98 — 4 — 14.4.2016
-
-## DECISÃO DA COMISSÃO
 
 de 11 de Maio de 2006
 

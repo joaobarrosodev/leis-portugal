@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997L0026:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997L0026-19970608",
+ "dre_path": null,
+ "source_lastmod": "1997-06-08",
+ "versions": [
+  {
+   "date": "1997-06-07",
+   "future": false,
+   "celex": "31997L0026",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5bd3c734f41591ec",
+    "5e82ffba0a70688a",
+    "f2f299a4193d4fef",
+    "fdb572bab30802fe",
+    "a2761beb53cb6d97",
+    "1a17a362b4015e72"
+   ]
+  }
+ ],
+ "fragments": {
+  "5bd3c734f41591ec": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 97/26/CE do Conselho de 2 de Junho de 1997 que altera a Directiva 91/439/CEE relativa à carta de condução** *Jornal Oficial nº L 150 de 07/06/1997 p. 0041 - 0043*\n\nDIRECTIVA 97/26/CE DO CONSELHO de 2 de Junho de 1997 que altera a Directiva 91/439/CEE relativa à carta de condução\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 75º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºC do Tratado (3),\n\n(1) Considerando que a Directiva 91/439/CEE do Conselho, de 29 de Julho de 1991, relativa à carta de condução (4), dispõe que as cartas de condução nacionais são emitidas segundo o modelo comunitário descrito no seu anexo I ou I A e que devem referir as condições em que o condutor está habilitado a conduzir;\n\n(2) Considerando que os referidos anexos I e I A estabelecem que essas eventuais referências adicionais ou restritivas devem ser indicadas sob forma codificada;\n\n(3) Considerando que os códigos e os subcódigos relativos às condições de emissão ao abrigo da Directiva 91/439/CEE se aplicam em todo o território da Comunidade;\n\n(4) Considerando que, em conformidade com o princípio da subsidiariedade, é necessária uma acção comunitária que permita a compreensão e o reconhecimento mútuo das cartas de condução e facilite a livre circulação das pessoas, evitando os problemas práticos que os condutores, as empresas de transporte rodoviário, as administrações e os agentes de controlo teriam de enfrentar em caso de definição de códigos divergentes nos Estados-membros;\n\n(5) Considerando que é conveniente estabelecer um procedimento simplificado para a adaptação dos aspectos técnicos dos códigos comunitários harmonizados enumerados nos anexos I e I A e a adaptação dos anexos II e III da Directiva 91/439/CEE;\n\n(6) Considerando que, por ocasião da presente alteração, importa, por razões de clareza e de conformidade com a Directiva 92/61/CEE do Conselho, de 30 de Junho de 1992, relativa à recepção dos veículos a motor de duas ou três rodas (5), alinhar a definição do termo «motociclo» no que respeita à velocidade de projecto,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "5e82ffba0a70688a": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA Directiva 91/439/CEE é alterada do seguinte modo:\n\n1. No nº 3 do artigo 3º:\n\na) No segundo travessão, a indicação de «50 quilómetros por hora» é substituída pela de «45 quilómetros por hora»;\n\nb) O terceiro travessão passa a ter a seguinte redacção:\n\n«- o termo \"motociclo\" designa qualquer veículo de duas rodas com ou sem carro lateral (side car), equipado com um motor de cilindrada superior a 50 cm³, se se tratar de um motor de combustão interna, e/ou com uma velocidade máxima de projecto superior a 45 quilómetros por hora,».\n\n2. São inseridos os seguintes artigos:\n\n«Artigo 7ºA\n\n1. Uma subdivisão dos códigos comunitários harmonizados que constam dos anexos I e I A, em especial no que diz respeito aos códigos 04, 05, 44 e 55, será definida nos termos do procedimento previsto no artigo 7ºB.\n\nEste procedimento será igualmente seguido para determinar se a utilização de certas subdivisões dos códigos comunitários harmonizados deve eventualmente ser tornada obrigatória.\n\n2. As alterações necessárias para adaptar a parte dos anexos I e I A relativa aos códigos comunitários harmonizados e os anexos II e III ao progresso científico e técnico serão adoptadas nos termos do procedimento previsto no artigo 7ºB."
+  },
+  "f2f299a4193d4fef": {
+   "fragment_id": "Artigo 7ºB",
+   "type": "artigo",
+   "heading": "Artigo 7ºB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7ºB\n\n1. A Comissão é assistida por um comité, designado \"Comité da carta de condução\", composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\n2. O representante da Comissão submete à apreciação do comité um projecto das medidas a tomar. O comité emite o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer é emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\n3. a) A Comissão adopta as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas.».\n\n3. No anexo I, ponto 2, referente à página 4 da carta de condução, e no anexo I A, ponto 2, referente à página 2 da carta de condução, alínea a), rubrica 12, o primeiro travessão passa a ter a seguinte redacção:\n\n«- códigos 01 a 99: códigos comunitários harmonizados\n\n01 Correcção da visão\n\n02 Prótese auditiva/ajuda à comunicação\n\n03 Prótese/ortose dos membros\n\n04 Sujeita à posse de um atestado médico válido\n\n05 Condução sujeita a restrições por razões médicas\n\n10 Caixa de velocidades adaptada\n\n15 Embraiagem adaptada\n\n20 Mecanismos de travagem adaptados\n\n25 Mecanismos de aceleração adaptados\n\n30 Mecanismos de travagem e de aceleração combinados adaptados\n\n35 Dispositivos de comando adaptados\n\n40 Direcção adaptada\n\n42 Espelho(s) retrovisor(es) adaptado(s)\n\n43 Banco de condutor adaptado\n\n44 Adaptações do motociclo\n\n45 Motociclo unicamente com carro lateral (side car)\n\n50 Limitada ao veículo específico/ nº de quadro\n\n51 Limitada ao veículo específico/ nº de chapa de matrícula\n\n55 Combinações de adaptações do veículo\n\n70 Troca de carta de condução nº... emitida por... (símbolo CEE/ONU se se tratar de um país terceiro)\n\n71 Segunda via da carta de condução nº... (símbolo CEE/ONU se se tratar de um país terceiro)\n\n72 Limitada aos veículos da categoria A com uma cilindrada máxima de 125 cm³ e uma potência máxima de 11 kW (A1)\n\n73 Limitada aos veículos da categoria B de tipo triciclo ou quadriciclo a motor (B1)\n\n74 Limitada aos veículos da categoria C cuja massa máxima autorizada não exceda 7 500 kg (C1)\n\n75 Limitada aos veículos da categoria D sem exceder 16 lugares sentados, além do lugar do condutor (D1)\n\n76 Limitada aos veículos da categoria C cuja massa máxima autorizada não exceda 7 500 kg (C1) com um reboque cuja massa máxima autorizada exceda 750 kg, na condição de a massa máxima do conjunto não exceder 12 000 kg e de a massa máxima autorizada do reboque não exceder a massa sem carga do veículo tractor (C1+E)\n\n77 Limitada aos veículos da categoria D que não excedam 16 lugares sentados, além do lugar do condutor (D1), com um reboque cuja massa máxima autorizada exceda 750 kg, na condição de: a) a massa máxima autorizada do conjunto não exceder 12 000 kg e a massa máxima autorizada do reboque não exceder a massa sem carga do veículo tractor; b) o reboque não ser utilizado para o transporte de pessoas (D1+E)\n\n78 Limitada aos veículos com mudança de velocidadas automática (anexo II, ponto 8.1.1, segundo parágrafo)\n\n79 (...) Limitada aos veículos conformes com as especificações indicadas entre parênteses, no âmbito da aplicação do nº 1 do artigo 10º da directiva.»."
+  },
+  "fdb572bab30802fe": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os Estados-membros porão em vigor, após consulta à Comissão, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Janeiro de 1998. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directivas ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio regido pela presente directiva."
+  },
+  "a2761beb53cb6d97": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nA presente directiva entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "1a17a362b4015e72": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 2 de Junho de 1997.\n\nPelo Conselho\n\nO Presidente\n\nH. VAN MIERLO\n\n(1) JO nº C 110 de 16. 4. 1996, p. 7. JO nº C 31 de 31. 1. 1997, p. 3.\n\n(2) JO nº C 204 de 15. 7. 1996, p. 20.\n\n(3) Parecer do Parlamento Europeu de 5 de Setembro de 1996 (JO nº C 277 de 23. 9. 1996, p. 15), posição comum do Conselho de 20 de Dezembro de 1996 (JO nº C 69 de 5. 3. 1997, p. 7) e decisão do Parlamento Europeu de 9 de Abril de 1997 (JO nº C 132 de 28. 4. 1997).\n\n(4) JO nº L 237 de 24. 8. 1991, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 96/47/CE (JO nº L 235 de 17. 9. 1996, p. 1).\n\n(5) JO nº L 225 de 10. 8. 1992, p. 72. Directiva alterada pelo Acto de Adesão de 1994."
+  }
+ }
+}

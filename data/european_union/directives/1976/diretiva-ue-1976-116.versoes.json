@@ -1,0 +1,39 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31976L0116:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0116-20031211",
+ "dre_path": null,
+ "source_lastmod": "2003-12-11",
+ "versions": [
+  {
+   "date": "1976-01-30",
+   "future": false,
+   "celex": "31976L0116",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2003-12-11",
+   "future": false,
+   "celex": "01976L0116-20031211",
+   "acts": [],
+   "changes": [
+    "Adita preambulo"
+   ],
+   "fragments": [
+    "e108c3936a932821"
+   ]
+  }
+ ],
+ "fragments": {
+  "e108c3936a932821": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1976L0116 — PT — 11.12.2003 — 013.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31976L0116) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31976L0116) [de 18 de Dezembro de 1975](http://publications.europa.eu/resource/celex/31976L0116) [relativa à aproximação das legislações dos Estados-membros respeitantes aos adubos](http://publications.europa.eu/resource/celex/31976L0116) [(76/116/CEE)](http://publications.europa.eu/resource/celex/31976L0116) (JO L 024, 30.1.1976, p.21)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 2003/2003 do Parlamento Europeu e do Conselho de 13 de Outubro de 2003](http://publications.europa.eu/resource/celex/32003R2003) — L 304 — 1 — 21.11.2003"
+  }
+ }
+}

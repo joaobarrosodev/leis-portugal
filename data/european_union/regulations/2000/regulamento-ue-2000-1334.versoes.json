@@ -1,0 +1,369 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000R1334:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R1334-20090827",
+ "dre_path": null,
+ "source_lastmod": "2009-08-27",
+ "versions": [
+  {
+   "date": "2000-06-30",
+   "future": false,
+   "celex": "32000R1334",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "68f3a7a8ce5490b1",
+    "92717c850334a51e",
+    "cdb005a24e63d346",
+    "49488284ad5ac0f9",
+    "8372278482c2f910",
+    "6dace7d9870a7630",
+    "a4081acf58b6f9fb",
+    "332069ee9cded3cb",
+    "dca0b26c90709a18",
+    "c9a8e615aeca33ed",
+    "2663ad5ad6569922",
+    "130dc83770ecaa81",
+    "64f14092411852d7",
+    "2a7e524924546958",
+    "05e521bb5d46ea2d",
+    "4406a31259bb760d",
+    "fa2c94497557192b",
+    "702a9748eb3ec7d7",
+    "0687d7b0f9750688",
+    "b91e5df6a02e3aaf",
+    "80ebec27a18ee063",
+    "1b2cd0a1c3da0cb3",
+    "22de92f30f0d0004",
+    "38954e8aa237fa99",
+    "1b8f63412f747645",
+    "9f2ff78879a618d3",
+    "ce98a978f4a9fea8",
+    "6fb557d814976c67",
+    "64689bfdc1ac23f3",
+    "10490cc7c18340c6",
+    "c52a421ce24bb566",
+    "b5cbf95ac726146e",
+    "af5ed52cff3406e5"
+   ]
+  },
+  {
+   "date": "2009-08-27",
+   "future": false,
+   "celex": "02000R1334-20090827",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I — Objecto e definições",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime CAPÍTULO II — Âmbito de aplicação",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime CAPÍTULO III — Autorização de exportação",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime CAPÍTULO IV — Actualização de lista de produtos de dupla utilização",
+    "Suprime Artigo 11.º",
+    "Suprime CAPÍTULO V — Formalidades aduaneiras",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime CAPÍTULO VI — Cooperação administrativa",
+    "Suprime Artigo 15.º",
+    "Suprime CAPÍTULO VII — Medidas de controlo",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime CAPÍTULO VIII — Disposições gerais e finais",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime Artigo 24.º"
+   ],
+   "fragments": [
+    "de60fec36dc97246"
+   ]
+  }
+ ],
+ "fragments": {
+  "68f3a7a8ce5490b1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.o 1334/2000 do Conselho, de 22 de Junho de 2000, que cria um regime comunitário de controlo das exportações de produtos e tecnologias de dupla utilização** *Jornal Oficial nº L 159 de 30/06/2000 p. 0001 - 0215*\n\nRegulamento (CE) n.o 1334/2000 do Conselho\n\nde 22 de Junho de 2000\n\nque cria um regime comunitário de controlo das exportações de produtos e tecnologias de dupla utilização\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 133.o,\n\nTendo em conta a proposta da Comissão(1),\n\nConsiderando o seguinte:\n\n(1) Os produtos de dupla utilização (incluindo suportes lógicos e tecnologia) devem ser sujeitos a um controlo eficaz aquando da sua exportação a partir da Comunidade.\n\n(2) É necessário um regime comum eficaz de controlo das exportações de produtos de dupla utilização para assegurar o respeito dos compromissos e responsabilidades internacionais dos Estados-Membros e da União Europeia, nomeadamente em matéria de não proliferação.\n\n(3) A existência de um regime comum de controlo e de políticas harmonizadas de execução e monitorização em todos os Estados-Membros constitui um requisito prévio da livre circulação dos produtos de dupla utilização no interior da Comunidade.\n\n(4) O actual regime de controlo das exportações de produtos de dupla utilização, criado pelo Regulamento (CE) n.o 3381/94(2) e pela Decisão 94/942/PESC(3), deve ser objecto de uma maior harmonização para continuar a garantir uma aplicação eficaz do referido controlo.\n\n(5) Para um regime eficaz de controlo das exportações, é essencial que haja listas comuns de produtos de dupla utilização, de destinos e de directrizes. As referidas listas foram fixadas pela Decisão 94/942/PESC e pelas suas alterações subsequentes e devem ser incorporadas no presente regulamento.\n\n(6) A responsabilidade pelo deferimento ou indeferimento dos pedidos de autorizações de exportação cabe às autoridades nacionais. As disposições e decisões nacionais em matéria de exportação de produtos de dupla utilização devem ser adoptadas no quadro da política comercial comum, em especial do Regulamento (CEE) n.o 2603/69 do Conselho, de 20 de Dezembro de 1969, que estabelece um regime comum aplicável às exportações(4).\n\n(7) As decisões de actualização das listas comuns de produtos de dupla utilização devem respeitar integralmente as obrigações e compromissos assumidos por cada Estado-Membro no âmbito dos regimes em matéria de não proliferação e de controlo das exportações internacionais pertinentes ou através da ratificação de tratados internacionais pertinentes.\n\n(8) A transmissão de suportes lógicos e de tecnologia por meios electrónicos, por fax ou por telefone para destinos fora da Comunidade deve também ser controlada.\n\n(9) É necessário prestar uma atenção especial às questões da reexportação e da utilização final.\n\n(10) Em 22 de Setembro de 1998, os representantes dos Estados-Membros e da Comissão Europeia assinaram protocolos adicionais aos respectivos acordos de salvaguarda entre os Estados-Membros, a Comunidade Europeia da Energia Atómica e a Agência Internacional da Energia Atómica, que, entre outras medidas, obrigam os Estados-Membros a prestar informações sobre equipamento especificado e materiais não nucleares.\n\n(11) A Comunidade adoptou um conjunto de normas aduaneiras, contidas no Regulamento (CEE) n.o 2913/92 do Conselho, de 12 de Outubro de 1992, que estabelece o código aduaneiro comunitário(5), e no Regulamento (CEE) n.o 2454/93 da Comissão(6) que fixa disposições de aplicação do Regulamento (CEE) n.o 2913/92, que fixam, nomeadamente, disposições relativas à exportação e reexportação de mercadorias. Nada do disposto no presente regulamento limita os poderes conferidos pelo código aduaneiro comunitário e respectivas disposições de aplicação ou deles decorrentes.\n\n(12) Nos termos e no âmbito delimitado pelo artigo 30.o do Tratado e na pendência de um maior grau de harmonização, os Estados-Membros manterão o direito de realizar controlos das transferências de certos produtos de dupla utilização no interior da Comunidade Europeia, a fim de salvaguardar a ordem ou a segurança públicas. Quando estiverem relacionados com a eficácia do controlo das exportações a partir da Comunidade, esses controlos serão periodicamente revistos pelo Conselho.\n\n(13) Para assegurar a correcta aplicação do presente regulamento, cada Estado-Membro deverá tomar medidas para conferir às autoridades competentes os poderes adequados.\n\n(14) Compete a cada Estado-Membro determinar as sanções aplicáveis em caso de violação do disposto no presente regulamento.\n\n(15) O Parlamento Europeu manifestou a sua opinião na resolução de 13 de Abril de 1999(7).\n\n(16) O Regulamento (CE) n.o 3381/94 deve ser revogado, consequentemente,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "92717c850334a51e": {
+   "fragment_id": "CAPÍTULO I — Objecto e definições",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Objecto e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Objecto e definições"
+  },
+  "cdb005a24e63d346": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento cria um regime comunitário de controlo das exportações de produtos de dupla utilização."
+  },
+  "49488284ad5ac0f9": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento, entende-se por:\n\na) \"Produtos de dupla utilização\", quaisquer produtos, incluindo suportes lógicos e tecnologia, que possam ser utilizados tanto para fins civis como para fins militares, incluindo todos os bens que possam ser utilizados tanto para fins não explosivos como para de qualquer modo auxiliar no fabrico de armas nucleares ou outros engenhos explosivos nucleares;\n\nb) \"Exportação\":\n\ni) um regime de exportação nos termos do artigo 161.o do código aduaneiro comunitário,\n\nii) a reexportação, nos termos do artigo 182.o do referido código, e\n\niii) a transmissão de suportes lógicos ou tecnologia por meios electrónicos, fax ou telefone, para destinos fora da Comunidade; isto apenas se aplica à transmissão oral de tecnologia por telefone nos casos em que a tecnologia esteja contida num documento cuja parte relevante seja lida pelo telefone, ou descrita pelo telefone de uma forma que conduza essencialmente ao mesmo resultado;\n\nc) \"Exportador\", qualquer pessoa singular ou colectiva por conta de quem seja feita a declaração de exportação, ou seja, a pessoa que, no momento do deferimento da declaração, é titular do contrato com o destinatário do país terceiro e tem o poder de ordenar o envio do produto para fora do território aduaneiro da Comunidade. Se não tiver sido concluído um contrato de exportação ou se o titular do contrato não estiver a agir por conta própria, é elemento determinante o poder de ordenar o envio do produto para fora do território aduaneiro da Comunidade.\n\nPor \"exportador\" entende-se também a pessoa singular ou colectiva que decida transmitir suportes lógicos ou tecnologia por meios electrónicos, fax ou telefone, para qualquer destino fora da Comunidade.\n\nQuando o benefício do direito de dispor de um produto de dupla utilização pertencer a uma pessoa estabelecida fora da Comunidade nos termos do contrato com base no qual se realiza a exportação, considera-se exportador a parte contratante estabelecida na Comunidade;\n\nd) \"Declaração de exportação\", o acto pelo qual uma pessoa manifesta, na forma e modalidades previstas, a sua vontade de sujeitar um produto de dupla utilização a um regime de exportação."
+  },
+  "8372278482c2f910": {
+   "fragment_id": "CAPÍTULO II — Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Âmbito de aplicação"
+  },
+  "6dace7d9870a7630": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. A exportação dos produtos de dupla utilização referidos no anexo I fica sujeita a autorização.\n\n2. Nos termos dos artigos 4.o ou 5.o, a exportação de certos produtos de dupla utilização não incluídos na lista do anexo I para todos ou determinados destinos pode igualmente ser sujeita a autorização.\n\n3. O presente regulamento não se aplica à prestação de serviços nem à transmissão de tecnologias se essa prestação ou transmissão implicarem a deslocação transfronteiriça de pessoas físicas.\n\n4. O presente regulamento não é aplicável a produtos de dupla utilização que se limitem a atravessar o território da Comunidade, isto é, a produtos a que não tenha sido afectado um tratamento ou destino aduaneiro distintos do regime de trânsito externo ou que tenham sido simplesmente introduzidos numa zona franca ou num entreposto franco, não devendo ser inscritos num registo de existências aprovado."
+  },
+  "a4081acf58b6f9fb": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A exportação de produtos de dupla utilização não incluídos na lista que consta do anexo I está sujeita à obtenção de uma autorização de exportação, sempre que o exportador seja informado pelas autoridades competentes do Estado-Membro em que está estabelecido de que os produtos em questão se destinam ou podem destinar-se, total ou parcialmente, a ser utilizados para o desenvolvimento, produção, manuseamento, accionamento, manutenção, armazenamento, detecção, identificação ou proliferação de armas químicas, biológicas ou nucleares ou de outros engenhos explosivos nucleares, ou para o desenvolvimento, produção, manutenção ou armazenamento de mísseis susceptíveis de transportar essas armas.\n\n2. A exportação de produtos de dupla utilização não incluídos na lista que consta do anexo I está também sujeita à obtenção de uma autorização de exportação se o país comprador ou o país de destino estiverem sujeitos a um embargo ao armamento determinado por uma posição comum ou uma acção comum aprovada pelo Conselho ou por uma decisão da OSCE ou a um embargo ao armamento imposto por uma resolução vinculativa do Conselho de Segurança das Nações Unidas, e se o exportador tiver sido informado pelas autoridades referidas no n.o 1 de que os produtos em questão se destinam, ou podem destinar-se, total ou parcialmente, a uma utilização final militar. Para efeitos do presente número, por \"utilização final militar\" entende-se:\n\na) A incorporação em produtos para fins militares incluídos na lista de material de guerra dos Estados-Membros;\n\nb) A utilização de equipamento de produção, ensaio e análise e dos respectivos componentes para o desenvolvimento, produção ou manutenção de produtos para fins militares incluídos na lista acima referida;\n\nc) A utilização de qualquer tipo de produtos não acabados numa instalação de fabrico de produtos para fins militares incluídos na lista acima referida.\n\n3. A exportação de produtos de dupla utilização não incluídos na lista que consta do anexo I está igualmente sujeita à obtenção de uma autorização de exportação, se o exportador tiver sido informado pelas autoridades referidas no n.o 1 de que os produtos em questão se destinam ou podem destinar-se, total ou parcialmente, a ser utilizados como peças ou componentes para produtos destinados a fins militares incluídos na lista nacional de material de guerra que tenham sido exportados do território do Estado-Membro em causa sem autorização ou em infracção de autorização exigida pela legislação nacional desse Estado-Membro.\n\n4. Se um exportador tiver conhecimento de que produtos de dupla utilização que pretende exportar, não incluídos na lista do anexo I, se destinam, total ou parcialmente, a qualquer das utilizações a que se referem os n.os 1, 2 e 3, informará as autoridades referidas no n.o 1, que decidirão da conveniência de sujeitar a exportação em questão a uma autorização.\n\n5. Qualquer Estado-Membro pode adoptar ou manter leis nacionais que imponham a necessidade de uma autorização para a exportação de produtos de dupla utilização não incluídos na lista do anexo I, se o exportador tiver razões para suspeitar que esses produtos são ou podem ser destinados, total ou parcialmente, a qualquer das utilizações referidas no n.o 1.\n\n6. Qualquer Estado-Membro que exija uma autorização para a exportação de um produto de dupla utilização não incluído na lista do anexo I, em conformidade com o disposto nos n.os 1 a 5, informará do facto, se necessário, os outros Estados-Membros e a Comissão. Os outros Estados-Membros tomarão devidamente em conta tal informação e transmiti-la-ão, na medida do possível, às estâncias aduaneiras e às restantes autoridades nacionais competentes.\n\n7. O disposto nos n.os 2 e 3 do artigo 9.o aplicar-se-á aos casos relacionados com produtos de dupla utilização não incluídos na lista do anexo I.\n\n8. O presente regulamento prejudica o direito dos Estados-Membros de tomarem medidas nacionais ao abrigo do artigo 11.o do Regulamento (CEE) n.o 2603/69."
+  },
+  "332069ee9cded3cb": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Um Estado-Membro pode proibir ou impor a necessidade de uma autorização para a exportação de produtos de dupla utilização não incluídos na lista que consta do anexo I por razões de segurança pública ou considerações relacionadas com os Direitos do Homem.\n\n2. Os Estados-Membros devem notificar a Comissão de quaisquer medidas adoptadas nos termos do n.o 1 imediatamente após a respectiva adopção, indicando com precisão os motivos de tais medidas.\n\n3. Os Estados-Membros devem igualmente notificar de imediato a Comissão de qualquer alteração introduzida nas medidas adoptadas nos termos do n.o 1.\n\n4. A Comissão publicará as medidas que lhe foram notificadas nos termos dos n.os 2 e 3 na série C do Jornal Oficial das Comunidades Europeias."
+  },
+  "dca0b26c90709a18": {
+   "fragment_id": "CAPÍTULO III — Autorização de exportação",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — Autorização de exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Autorização de exportação"
+  },
+  "c9a8e615aeca33ed": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O presente regulamento cria uma autorização geral de exportação comunitária para certas exportações que é descrita no anexo II.\n\n2. Para todas as outras exportações para as quais seja exigida uma autorização nos termos do presente regulamento, essa autorização será concedida pelas autoridades competentes do Estado-Membro em que o exportador se encontrar estabelecido. Sob reserva das restrições previstas no n.o 3, essa autorização pode ser específica, global ou geral.\n\nA autorização será válida em toda a Comunidade.\n\nA autorização pode, se adequado, ser sujeita a certos requisitos e condições, como, por exemplo, a obrigação de apresentar uma declaração de utilização final.\n\n3. Os produtos enumerados na parte 2 do anexo II não serão incluídos numa autorização geral.\n\n4. Os Estados-Membros devem indicar nas autorizações gerais que as mesmas não podem ser utilizadas se o exportador tiver sido informado pelas suas autoridades de que os produtos em questão se destinam ou podem destinar-se, total ou parcialmente, a qualquer das utilizações mencionadas nos n.os 1, 2 e 3 do artigo 4.o, ou se o exportador tiver conhecimento de que os produtos se destinam a tais utilizações.\n\n5. Os Estados-Membros manterão ou introduzirão na respectiva legislação nacional a possibilidade de emitirem uma autorização global para um exportador específico relativamente a um dado tipo ou categoria de produtos de dupla utilização, que pode ser válida para exportações para um ou mais países especificados.\n\n6. Os Estados-Membros fornecerão à Comissão uma lista das autoridades habilitadas a emitir autorizações de exportação de produtos de dupla utilização.\n\nA Comissão publicará a lista das referidas autoridades na série C do Jornal Oficial das Comunidades Europeias."
+  },
+  "2663ad5ad6569922": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Se os produtos de dupla utilização em relação aos quais tenha sido apresentado um pedido de autorização de exportação específica para um destino não enumerado no anexo II, ou para qualquer destino, no caso de determinados produtos muito sensíveis enumerados no anexo IV, se encontrarem ou vierem a encontrar situados noutro ou noutros Estados-Membros, essa circunstância deve ser especificada no pedido. As autoridades competentes do Estado-Membro ao qual a autorização tenha sido pedida consultarão imediatamente as autoridades competentes do Estado-Membro ou Estados-Membros em questão, fornecendo-lhes todas as informações pertinentes. O Estado-Membro ou os Estados-Membros consultados devem comunicar, no prazo de 10 dias úteis, as suas eventuais reservas à concessão dessa autorização, que vincularão o Estado-Membro em que o pedido tenha sido apresentado.\n\nNa falta de resposta no referido prazo de 10 dias úteis, considera-se que o Estado-Membro ou Estados-Membros consultados não têm objecções.\n\nEm casos excepcionais, qualquer Estado-Membro consultado pode solicitar que o prazo de 10 dias seja prorrogado. A prorrogação contudo não poderá exceder 30 dias úteis.\n\n2. Se uma exportação for susceptível de lesar os seus interesses fundamentais em matéria de segurança, qualquer Estado-Membro pode solicitar a outro Estado-Membro que não conceda a autorização de exportação ou, se a autorização já tiver sido concedida, solicitar que a mesma seja anulada, suspensa, alterada ou revogada. O Estado-Membro que receber esse pedido deve proceder imediatamente a consultas sem carácter vinculativo com o Estado requerente, as quais devem concluir-se no prazo de 10 dias úteis."
+  },
+  "130dc83770ecaa81": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAo decidirem da eventual concessão de uma autorização de exportação nos termos do presente regulamento, os Estados-Membros tomarão em consideração todos os aspectos relevantes, incluindo o seguinte:\n\na) As obrigações e compromissos internacionais por si assumidos no âmbito de regimes de não proliferação e de acordos de controlo das exportações internacionais, ou através da ratificação de tratados pertinentes;\n\nb) As obrigações decorrentes de sanções impostas por uma posição comum ou uma acção comum aprovada pelo Conselho ou por uma decisão da OSCE ou ainda por uma resolução vinculativa do Conselho de Segurança das Nações Unidas;\n\nc) Considerações de política externa e de segurança nacional, incluindo as abrangidas pelo código de conduta da União Europeia em matéria de exportações de armamento;\n\nd) Considerações sobre a utilização final prevista e o risco de desvio."
+  },
+  "64f14092411852d7": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os exportadores prestarão às autoridades competentes todas as informações necessárias à instrução dos seus pedidos de autorização de exportação.\n\n2. As autoridades competentes podem, nos termos do presente regulamento, recusar a emissão de uma autorização de exportação e anular, suspender, alterar ou revogar qualquer autorização de exportação já emitida. Havendo medida de recusa, anulação, suspensão, limitação substancial ou revogação de uma autorização, as referidas autoridades informarão as autoridades competentes dos outros Estados-Membros e a Comissão dessa medida e trocarão as informações que considerem úteis com os outros Estados-Membros e a Comissão, respeitando simultaneamente a confidencialidade dessas informações nos termos do n.o 3 do artigo 15.o\n\n3. Antes de um Estado-Membro conceder uma autorização de exportação que tenha sido recusada nos últimos três anos por outro ou outros Estados-Membros para uma transacção essencialmente idêntica, consultará o Estado-Membro ou os Estados-Membros que recusaram essa autorização. Se, apesar das consultas, o primeiro Estado-Membro decidir conceder a autorização, informará os outros Estados-Membros e a Comissão, fornecendo todas as informações pertinentes para explicar a sua decisão."
+  },
+  "2a7e524924546958": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Todas as autorizações de exportação específicas e globais serão emitidas em formulários correspondentes ao modelo reproduzido no anexo III A.\n\n2. A pedido dos exportadores, as autorizações de exportação globais que contenham limitações quantitativas serão fraccionadas.\n\n3. As autorizações gerais de exportação concedidas nos termos do n.o 2 do artigo 6.o devem ser publicadas de acordo com as leis e práticas nacionais e devem ser emitidas em conformidade com as indicações contidas no anexo III B."
+  },
+  "05e521bb5d46ea2d": {
+   "fragment_id": "CAPÍTULO IV — Actualização de lista de produtos de dupla utilização",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — Actualização de lista de produtos de dupla utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Actualização de lista de produtos de dupla utilização"
+  },
+  "4406a31259bb760d": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs listas de produtos de dupla utilização constantes dos anexos I e IV devem ser actualizadas em conformidade com as obrigações e compromissos pertinentes, e com qualquer alteração dos mesmos, que tenham sido aceites por cada Estado-Membro no âmbito de regimes de não proliferação e de acordos em matéria de controlo das exportações internacionais, ou através da ratificação de tratados internacionais pertinentes."
+  },
+  "fa2c94497557192b": {
+   "fragment_id": "CAPÍTULO V — Formalidades aduaneiras",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — Formalidades aduaneiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Formalidades aduaneiras"
+  },
+  "702a9748eb3ec7d7": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Aquando do cumprimento das formalidades de exportação de produtos de dupla utilização na estância aduaneira de tramitação da declaração de exportação, o exportador deve provar que foi obtida a necessária autorização de exportação.\n\n2. Pode ser exigida ao exportador uma tradução dos documentos comprovativos numa língua oficial do Estado-Membro em que a declaração de exportação é apresentada.\n\n3. Sem prejuízo das competências que lhes são atribuídas ao abrigo e para execução do código aduaneiro comunitário, os Estados-Membros podem ainda, durante um prazo não superior aos períodos a que se refere o n.o 4, suspender o processo de exportação a partir do seu território ou, se necessário, impedir de outro modo que os produtos de dupla utilização enumerados no anexo I e cobertos por uma autorização de exportação válida abandonem a Comunidade através do seu território, se tiverem motivos para suspeitar que:\n\na) No momento da concessão da autorização não foram tidas em conta informações relevantes; ou\n\nb) As circunstâncias materiais se alteraram desde o momento em que a autorização foi concedida.\n\n4. No caso do n.o 3, as autoridades competentes do Estado-Membro que tiver concedido a autorização de exportação serão imediatamente consultadas, a fim de poderem tomar providências nos termos do n.o 2 do artigo 9.o Se essas autoridades decidirem manter a autorização, responderão no prazo de 10 dias úteis, o qual poderá, no entanto, a seu pedido e em circunstâncias excepcionais, ser aumentado para 30 dias úteis. Se assim for, ou se não houver resposta nesses 10 ou nesses 30 dias úteis, os produtos de dupla utilização serão imediatamente desembaraçados. O Estado-Membro que tiver concedido a autorização informará os outros Estados-Membros e a Comissão."
+  },
+  "0687d7b0f9750688": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Os Estados-Membros podem prever que as formalidades aduaneiras de exportação de produtos de dupla utilização só possam ser realizadas em estâncias aduaneiras habilitadas para o efeito.\n\n2. Os Estados-Membros que usem da possibilidade prevista no n.o 1 comunicarão à Comissão as estâncias aduaneiras devidamente habilitadas. A Comissão publicará essa informação na série C do Jornal Oficial das Comunidades Europeias."
+  },
+  "b91e5df6a02e3aaf": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO disposto nos artigos 463.o a 470.o e 843.o do Regulamento (CEE) n.o 2454/93 é aplicável às restrições relativas à exportação, reexportação e saída do território aduaneiro dos produtos de dupla utilização para cuja exportação é necessária uma autorização nos termos do presente regulamento."
+  },
+  "80ebec27a18ee063": {
+   "fragment_id": "CAPÍTULO VI — Cooperação administrativa",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — Cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Cooperação administrativa"
+  },
+  "1b2cd0a1c3da0cb3": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Os Estados-Membros, em ligação com a Comissão, tomarão todas as medidas necessárias para estabelecer uma cooperação directa e o intercâmbio de informações entre as autoridades competentes, nomeadamente para eliminar o risco de eventuais disparidades na aplicação dos controlos à exportação aos produtos de dupla utilização originarem desvios de tráfego que possam criar dificuldades a um ou mais Estados-Membros.\n\n2. Os Estados-Membros tomarão todas as medidas necessárias para estabelecer uma cooperação directa e o intercâmbio de informações entre as autoridades competentes sobre os utilizadores finais sensíveis, tendo em vista fornecer uma orientação coerente aos exportadores abrangidos pelo presente regulamento.\n\n3. O Regulamento (CE) n.o 515/97 do Conselho, de 13 de Março de 1997, relativo à assistência mútua entre as autoridades administrativas dos Estados-Membros e à colaboração entre estas e a Comissão, tendo em vista assegurar a correcta aplicação das regulamentações aduaneira e agrícola(8), nomeadamente as disposições relativas à confidencialidade das informações, são aplicáveis mutatis mutandis, sem prejuízo do disposto no artigo 18.o do presente regulamento."
+  },
+  "22de92f30f0d0004": {
+   "fragment_id": "CAPÍTULO VII — Medidas de controlo",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII — Medidas de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Medidas de controlo"
+  },
+  "38954e8aa237fa99": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Os exportadores devem conservar cadastros ou registos pormenorizados das suas exportações, de acordo com a prática seguida nos respectivos Estados-Membros. Esses cadastros ou registos devem conter, nomeadamente, documentos comerciais, tais como facturas, manifestos de carga, documentos de transporte ou outros documentos de expedição, que contenham elementos suficientes para permitir identificar:\n\na) A natureza dos produtos de dupla utilização;\n\nb) A quantidade dos produtos de dupla utilização;\n\nc) O nome e o endereço do exportador e do destinatário;\n\nd) Se forem conhecidos, a utilização final e o utilizador final dos produtos de dupla utilização.\n\n2. Os cadastros ou registos e os documentos referidos no n.o 1 devem ser conservados durante um período de, pelo menos, três anos a contar do termo do ano civil em que foi efectuada a exportação e devem ser exibidos às autoridades competentes do Estado-Membro em que o exportador se encontre estabelecido quando estas o solicitarem."
+  },
+  "1b8f63412f747645": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nA fim de assegurar a correcta aplicação do presente regulamento, cada Estado-Membro adoptará as medidas necessárias para permitir às suas autoridades competentes:\n\na) Recolher informações sobre todas as encomendas ou operações que envolvam produtos de dupla utilização;\n\nb) Verificar a correcta aplicação das medidas de controlo das exportações, o que poderá implicar, designadamente, o direito de acesso aos locais onde se desenvolvem as actividades profissionais das pessoas envolvidas nas operações de exportação."
+  },
+  "9f2ff78879a618d3": {
+   "fragment_id": "CAPÍTULO VIII — Disposições gerais e finais",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII — Disposições gerais e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Disposições gerais e finais"
+  },
+  "ce98a978f4a9fea8": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. É criado um grupo de coordenação presidido por um representante da Comissão. Cada Estado-Membro nomeará um representante para o grupo de coordenação.\n\nO grupo de coordenação apreciará todas as questões relativas à aplicação do presente regulamento, eventualmente apresentadas pelo seu presidente ou pelo representante de um Estado-Membro e, nomeadamente:\n\na) As medidas a tomar pelos Estados-Membros para informar os exportadores das obrigações que lhes incumbem nos termos do presente regulamento;\n\nb) As orientações relativas aos formulários de autorização de exportação.\n\n2. O grupo de coordenação poderá, sempre que considere necessário, consultar organizações representativas dos exportadores abrangidos pelo presente regulamento."
+  },
+  "6fb557d814976c67": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nCada Estado-Membro tomará as medidas necessárias para assegurar uma aplicação adequada de todas as disposições do presente regulamento. Em especial, determinará as sanções a aplicar em caso de infracção às disposições do regulamento ou às medidas adoptadas em sua execução. Tais sanções devem ser eficazes, proporcionadas e dissuasivas."
+  },
+  "64689bfdc1ac23f3": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nCada Estado-Membro informará a Comissão das disposições legislativas, regulamentares e administrativas que adoptar em execução do presente regulamento, incluindo as medidas referidas no artigo 19.o A Comissão transmitirá essas informações aos restantes Estados-Membros. De três em três anos, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do presente regulamento. Os Estados-Membros transmitirão à Comissão todas as informações pertinentes para a elaboração desse relatório."
+  },
+  "10490cc7c18340c6": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Será necessária uma autorização para as transferências intracomunitárias dos produtos de dupla utilização enumerados no anexo IV. Os produtos enumerados na parte 2 do anexo em questão não serão cobertos por uma autorização geral.\n\n2. a) Os Estados-Membros podem impor a necessidade de uma autorização para a transferência de outros produtos de dupla utilização do seu território para o de outro Estado-Membro nos casos em que, no momento da transferência:\n\n- o operador tenha conhecimento de que o destino final dos produtos em causa se situa fora da Comunidade,\n\n- a exportação desses produtos para o destino final em causa esteja sujeita a autorização nos termos dos artigos 3.o, 4.o ou 5.o no Estado-Membro a partir do qual os produtos devem ser transferidos e essa exportação directamente a partir do seu território não esteja autorizada por uma autorização geral ou por uma autorização global,\n\n- não haja qualquer transformação ou operação de complemento de fabrico, na acepção do artigo 24.o do código aduaneiro comunitário, a efectuar nos produtos no Estado-Membro para onde os mesmos vão ser transferidos;\n\nb) A autorização de transferência deve ser requerida no Estado-Membro a partir do qual se vai efectuar a transferência dos produtos de dupla utilização;\n\nc) Nos casos em que a exportação subsequente dos produtos de dupla utilização já tenha sido aceite, no processo de consulta previsto no artigo 7.o, pelo Estado-Membro a partir do qual os produtos vão ser transferidos, a autorização de transferência será imediatamente entregue ao operador, salvo se as circunstâncias tiverem sofrido uma alteração substancial;\n\nd) Todo o Estado-Membro que adopte legislação que imponha a necessidade de uma autorização informará a Comissão e os demais Estados-Membros das medidas que tomar. A Comissão publicará essas informações na série C do Jornal Oficial das Comunidades Europeias.\n\n3. As medidas previstas nos n.os 1 e 2 não implicarão a aplicação de controlos nas fronteiras internas da Comunidade, mas apenas os que fazem parte dos processos usuais de controlo inopinado em todo o território comunitário.\n\n4. A aplicação das medidas previstas nos n.os 1 e 2 não pode, em caso algum, dar origem a que as transferências de um Estado-Membro para outro sejam sujeitas a condições mais restritivas do que as impostas às exportações dos mesmos produtos para Estados terceiros.\n\n5. Os documentos e registos relativos às transferências intracomunitárias de produtos de dupla utilização enumerados no anexo I devem ser conservados durante, pelo menos, três anos a contar do termo do ano civil em que a transferência for realizada e devem ser apresentados às autoridades competentes do Estado-Membro a partir do qual esses bens tiverem sido transferidos, quando estas o solicitarem.\n\n6. Um Estado-Membro pode, na sua legislação nacional, exigir que, relativamente às transferências intracomunitárias a partir do seu território de produtos incluídos na categoria 5, parte 2 do anexo I, que não constem da lista do anexo IV, sejam fornecidas às autoridades competentes desse Estado-Membro informações suplementares sobre esses produtos.\n\n7. Os documentos comerciais relevantes relativos às transferências no interior da Comunidade de produtos de dupla utilização enumerados no anexo I devem indicar claramente se os produtos em questão estão sujeitos a controlo no caso de serem exportados da Comunidade. Os documentos comerciais relevantes incluem, nomeadamente, contratos de venda, confirmações de encomenda, facturas e boletins de expedição."
+  },
+  "c52a421ce24bb566": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nO disposto no presente regulamento não afecta:\n\n- a aplicação do artigo 296.o do Tratado que institui a Comunidade Europeia,\n\n- a aplicação do Tratado que institui a Comunidade Europeia da Energia Atómica."
+  },
+  "b5cbf95ac726146e": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nÉ revogado o Regulamento (CE) n.o 3381/94.\n\nTodavia, as disposições pertinentes do Regulamento (CE) n.o 3381/94 continuam a ser aplicáveis aos pedidos de autorizações de exportação apresentados antes da data de entrada em vigor do presente regulamento."
+  },
+  "af5ed52cff3406e5": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nO presente regulamento entra em vigor 90 dias após a data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito no Luxemburgo, em 22 de Junho de 2000.\n\nPelo Conselho\n\nO Presidente\n\nJ. Sócrates\n\n(1) JO C 399 de 21.12.1998, p. 1.\n\n(2) JO L 367 de 31.12.1994, p. 1. Regulamento alterado pelo Regulamento (CE) n.o 837/95 (JO L 90 de 21.4.1995, p. 1).\n\n(3) JO L 367 de 31.12.1994, p. 8. Decisão com a última redacção que lhe foi dada pela Decisão 2000/243/PESC (JO L 82 de 1.4.2000, p. 1).\n\n(4) JO L 324 de 27.12.1969, p. 25. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) n.o 3918/91 (JO L 372 de 31.12.1991, p. 31).\n\n(5) JO L 302 de 19.10.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 955/1999 do Parlamento Europeu e do Conselho (JO L 119 de 7.5.1999, p. 1).\n\n(6) JO L 253 de 11.10.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1662/1999 (JO L 197 de 29.7.1999, p. 25).\n\n(7) JO C 219 de 30.7.1999, p. 34.\n\n(8) JO L 82 de 22.3.1997, p. 1.\n\n>PIC FILE= \"L_2000159PT.000902.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.001001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.001101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.001201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.001301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.001401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.001501.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.001601.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.001701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.001801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.001901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.002001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.002101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.002201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.002301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.002401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.002501.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.002601.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.002701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.002801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.002901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.003001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.003101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.003201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.003301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.003401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.003501.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.003601.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.003701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.003801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.003901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.004001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.004101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.004201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.004301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.004401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.004501.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.004601.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.004701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.004801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.004901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.005001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.005101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.005201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.005301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.005401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.005501.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.005601.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.005701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.005801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.005901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.006001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.006101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.006201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.006301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.006401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.006501.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.006601.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.006701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.006801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.006901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.007001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.007101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.007201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.007301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.007401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.007501.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.007601.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.007701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.007801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.007901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.008001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.008101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.008201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.008301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.008401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.008501.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.008601.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.008701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.008801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.008901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.009001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.009101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.009201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.009301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.009401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.009501.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.009601.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.009701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.009801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.009901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.010001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.010101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.010201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.010301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.010401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.010501.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.010601.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.010701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.010801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.010901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.011001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.011101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.011201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.011301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.011401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.011501.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.011601.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.011701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.011801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.011901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.012001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.012101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.012201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.012301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.012401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.012501.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.012601.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.012701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.012801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.012901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.013001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.013101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.013201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.013301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.013401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.013501.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.013601.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.013701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.013801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.013901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.014001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.014101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.014201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.014301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.014401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.014501.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.014601.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.014701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.014801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.014901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.015001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.015101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.015201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.015301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.015401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.015501.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.015601.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.015701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.015801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.015901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.016001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.016101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.016201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.016301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.016401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.016501.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.016601.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.016701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.016801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.016901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.017001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.017101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.017201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.017301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.017401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.017501.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.017601.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.017701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.017801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.017901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.018001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.018101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.018201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.018301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.018401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.018501.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.018601.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.018701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.018801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.018901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.019001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.019101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.019201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.019301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.019401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.019501.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.019601.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.019701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.019801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.019901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.020002.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.020101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.020202.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.020301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.020401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.020502.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.020602.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.020701.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.020801.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.020901.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.021001.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.021101.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.021201.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.021301.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.021401.CAMREAD\">\n\n>PIC FILE= \"L_2000159PT.021501.CAMREAD\">"
+  },
+  "de60fec36dc97246": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2000R1334 — PT — 27.08.2009 — 010.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32000R1334) [REGULAMENTO (CE) N.º 1334/2000 DO CONSELHO](http://publications.europa.eu/resource/celex/32000R1334) [de 22 de Junho de 2000](http://publications.europa.eu/resource/celex/32000R1334) [que cria um regime comunitário de controlo das exportações de produtos e tecnologias de dupla utilização](http://publications.europa.eu/resource/celex/32000R1334) (JO L 159, 30.6.2000, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 428/2009 do Conselho de 5 de Maio de 2009](http://publications.europa.eu/resource/celex/32009R0428) — L 134 — 1 — 29.5.2009"
+  }
+ }
+}

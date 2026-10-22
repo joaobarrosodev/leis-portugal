@@ -35,6 +35,26 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-11-01'
+version_history:
+  file: diretiva-ue-1970-221.versoes.json
+  count: 2
+  source_lastmod: '2014-11-01'
+  versions:
+  - date: '1970-04-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-11-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime ANEXO — I. Reservatórios e reservatórios auxiliares de combustível líquido
 identifiers:
   celex: 31970L0221
   eli: http://data.europa.eu/eli/dir/1970/221/oj
@@ -49,7 +69,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6e641c52-27d3-43f0-9ec0-46277049f5e5.0011
   content_url: http://publications.europa.eu/resource/cellar/0c306874-5814-44e8-ac3f-baeb23039b72.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01970L0221-20141101
-  retrieved_at: '2026-10-22T02:40:04Z'
+  retrieved_at: '2026-10-22T14:29:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-27T11:20:20.104+02:00'
 integrity:
@@ -58,9 +78,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:04Z'
-  notes: Texto consolidado 01970L0221-20141101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:29:36Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1970-221.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -173,16 +193,24 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:04Z'
+  checked_at: '2026-10-22T14:29:36Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01970L0221-19700407: versão indisponível (Sem expressão na língua por para CELEX 01970L0221-19700407.)'
+  - '01970L0221-19730101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0221-19790425: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0221-19810428: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0221-19970605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0221-20000523: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0221-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0221-20060310: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01970L0221-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01970L0221-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

@@ -33,6 +33,46 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-14'
+version_history:
+  file: diretiva-ue-2001-110.versoes.json
+  count: 3
+  source_lastmod: '2026-06-14'
+  versions:
+  - date: '2002-01-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-06-23'
+    amending: eu:celex:32014L0063:por
+    amending_title: DIRETIVA 2014/63/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º
+    - Adita ANEXO I
+    - Adita DENOMINAÇÕES E DEFINIÇÕES DOS PRODUTOS
+    - Adita ANEXO II
+    - Adita CRITÉRIOS DE COMPOSIÇÃO DOS MÉIS
+    - Adita Notas
+    - Suprime ANEXO I — DENOMINAÇÕES E DEFINIÇÕES DOS PRODUTOS
+    - Suprime ANEXO II — CRITÉRIOS DE COMPOSIÇÃO DOS MÉIS
+  - date: '2026-06-14'
+    amending: eu:celex:32024L1438:por
+    amending_title: DIRETIVA (UE) 2024/1438 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera DENOMINAÇÕES E DEFINIÇÕES DOS PRODUTOS
+    - Altera CRITÉRIOS DE COMPOSIÇÃO DOS MÉIS
+    - Altera Notas
+    - Adita Artigo 4.º-A
+    - Adita Artigo 4.º-B
 identifiers:
   celex: 32001L0110
   eli: http://data.europa.eu/eli/dir/2001/110/oj
@@ -47,7 +87,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0c790b71-4b07-4e82-8bdb-9d489a3d44d2.0010
   content_url: http://publications.europa.eu/resource/cellar/5f7f7eb2-4358-11f1-8095-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0110-20260614
-  retrieved_at: '2026-10-22T02:40:31Z'
+  retrieved_at: '2026-10-22T14:50:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T11:57:29.733+01:00'
 integrity:
@@ -56,9 +96,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:31Z'
-  notes: Texto consolidado 02001L0110-20260614.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:26Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2001-110.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -157,34 +197,20 @@ relationships:
   source: null
 article_structure:
   article_count: 13
-  section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 5
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:31Z'
-  warnings: []
+  checked_at: '2026-10-22T14:50:26Z'
+  warnings:
+  - '02001L0110-20020201: versão indisponível (Sem expressão na língua por para CELEX 02001L0110-20020201.)'
   errors: []
 ---
 
 # Directiva 2001/110/CE do Conselho, de 20 de Dezembro de 2001
-
-> 02001L0110 — PT — 14.06.2026 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014L0063) — [DIRETIVA 2014/63/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014L0063) — L 164 — 1 — 3.6.2014
-- [►M2](http://publications.europa.eu/resource/celex/32024L1438) — [DIRETIVA (UE) 2024/1438 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024L1438) — L 1438 — 1 — 24.5.2024
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32024L1438R%2801%29) — [Rectificação, JO L 90217, 19.3.2026, p. 1 (2024/1438)](http://publications.europa.eu/resource/celex/32024L1438R%2801%29)
-
-## DIRECTIVA 2001/110/CE DO CONSELHO
 
 de 20 de Dezembro de 2001
 

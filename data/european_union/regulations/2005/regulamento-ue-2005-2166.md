@@ -36,6 +36,36 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-01-01'
+version_history:
+  file: regulamento-ue-2005-2166.versoes.json
+  count: 2
+  source_lastmod: '2011-01-01'
+  versions:
+  - date: '2006-06-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-01'
+    amending: eu:celex:32009R1224:por
+    amending_title: REGULAMENTO (CE) N. o 1224/2009 do Conselho de 20 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Limitação do esforço
+    - Altera Artigo 15.º — Restrições aplicáveis à pesca de lagostins
+    - Altera Artigo 17.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Método de cálculo de um TAC para as divisões CIEM VIIIc e IXa aplicável à pescada do Sul no caso de só existir
+      uma previsão científica de capturas para uma parte da zona
+    - Suprime CAPÍTULO IV
+    - Suprime CONTROLO, INSPECÇÃO E VIGILÂNCIA
+    - Suprime Artigo 9.º — Margem de tolerância
+    - Suprime Artigo 10.º — Pesagem das quantidades desembarcadas
+    - Suprime Artigo 11.º — Notificação prévia
+    - Suprime Artigo 12.º — Estiva separada da pescada do Sul e dos lagostins
+    - Suprime Artigo 13.º — Transporte de pescada do Sul e de lagostins
+    - Suprime Artigo 14.º — Programa de controlo específico
+    - Suprime «Artigo 29.º-B — Restrições aplicáveis à pesca de lagostins
 identifiers:
   celex: 32005R2166
   eli: http://data.europa.eu/eli/reg/2005/2166/oj
@@ -50,7 +80,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/636b3e72-911b-4788-9cbc-56d2ede4916f.0016
   content_url: http://publications.europa.eu/resource/cellar/b806a8e2-b988-41f9-b759-bab69887f92e.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R2166-20110101
-  retrieved_at: '2026-10-22T02:39:42Z'
+  retrieved_at: '2026-10-22T15:00:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-02T09:45:55.123+01:00'
 integrity:
@@ -59,9 +89,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:42Z'
-  notes: Texto consolidado 02005R2166-20110101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:00:58Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2005-2166.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -145,29 +175,19 @@ relationships:
   date: '2019-03-25'
 article_structure:
   article_count: 11
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:42Z'
+  checked_at: '2026-10-22T15:00:58Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 2166/2005 do Conselho, de 20 de Dezembro de 2005
-
-> 2005R2166 — PT — 01.01.2011 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R1224) — [REGULAMENTO (CE) N.º 1224/2009 do Conselho de 20 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1224) — L 343 — 1 — 22.12.2009
-
-## REGULAMENTO (CE) N.º 2166/2005 DO CONSELHO
 
 de 20 de Dezembro de 2005
 

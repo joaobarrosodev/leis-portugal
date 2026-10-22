@@ -1,0 +1,359 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31968R1017:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01968R1017-20090325",
+ "dre_path": null,
+ "source_lastmod": "2009-03-25",
+ "versions": [
+  {
+   "date": "1968-07-23",
+   "future": false,
+   "celex": "31968R1017",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c1d48f23eea0c82e",
+    "d2d3f2f1abc78a74",
+    "2d442c38b69bf177",
+    "d2ab61cd39b18651",
+    "2a9c41a56729832d",
+    "6bb34b7cd866d9de",
+    "cc0421f41f9cb91f",
+    "bbf099a98373c744",
+    "fd6133bbd9e97129",
+    "abb0c9af32a5598c",
+    "6355ac495526d9b9",
+    "f6d3636f70c27204",
+    "8c2f7cd2a7e1f3b1",
+    "8581125bfbb0a7f6",
+    "39bb1280478589ee",
+    "db5802b5329ee49c",
+    "def4ab5755be61a6",
+    "428ea5d340dbbf59",
+    "c50e2e2ee641e239",
+    "9265ad0182891cfb",
+    "f7a1fe47f6611cdb",
+    "26917750c093ae01",
+    "5c86ad4620cff29d",
+    "0201fbcb5561a3e0",
+    "79a7b33a70615a8e",
+    "dcfb5475d2e12b2f",
+    "d6db6bd19e823915",
+    "b5c2860f263ceb76",
+    "b059854c04438b77",
+    "e447be9df2a08e72",
+    "780c1a21bc97221a",
+    "a374253f0fa0ca40"
+   ]
+  },
+  {
+   "date": "2009-03-25",
+   "future": false,
+   "celex": "01968R1017-20090325",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o — Disposições de princípio",
+    "Suprime Artigo 2o — Proibição de acordos entre empresas, decisões de associações de empresas e práticas concertadas",
+    "Suprime Artigo 3o — Excepção em relação aos acordos técnicos",
+    "Suprime Artigo 4o — Isenção em relação aos agrupamentos de pequenas e médias empresas",
+    "Suprime Artigo 5o — Inaplicabilidade da proibição",
+    "Suprime Artigo 6o — Acordos destinados a reduzir as perturbações decorrentes da estrutura do mercado dos transportes",
+    "Suprime Artigo 7o — Nulidade dos acordos e decisões",
+    "Suprime Artigo 8o — Proibição da exploração abusiva de posições dominantes",
+    "Suprime Artigo 9o — Empresas públicas",
+    "Suprime Artigo 10o — Processos com base em denúncia ou por iniciativa da Comissão",
+    "Suprime Artigo 11o — Resultado dos processos com base em denúncia ou por iniciativa da Comissão",
+    "Suprime Artigo 12o — Aplicação do artigo 5o - oposição",
+    "Suprime Artigo 13o — Período de validade e revogação das decisões de aplicação do artigo 5o",
+    "Suprime Artigo 14o — Decisão de aplicação do artigo 6o",
+    "Suprime Artigo 15o — Competência",
+    "Suprime Artigo 16o — Ligação com as autoridades dos Estados-membros",
+    "Suprime Artigo 17o — Exame, pelo Conselho, de uma questão de princípio respeitante à política comum de transportes, suscitada num caso concreto",
+    "Suprime Artigo 18o — Inquéritos por sectores dos transportes",
+    "Suprime Artigo 19o — Pedido de informações",
+    "Suprime Artigo 20o — Diligências de instrução pelas autoridades dos Estados-membros",
+    "Suprime Artigo 21o — Poderes da Comissão em matéria de instrução",
+    "Suprime Artigo 22o — Multas",
+    "Suprime Artigo 23o — Adstrições",
+    "Suprime Artigo 24o — Controlo do Tribunal de Justiça",
+    "Suprime Artigo 25o — Unidade de conta",
+    "Suprime Artigo 26o — Audição dos interessados e de terceiros",
+    "Suprime Artigo 27o — Segredo profissional",
+    "Suprime Artigo 28o — Publicação das decisões",
+    "Suprime Artigo 29o — Disposições de execução",
+    "Suprime Artigo 30o — Entrada em vigor - Acordos, decisões e práticas concertadas existentes",
+    "Suprime Artigo 31o — Revisão do regulamento"
+   ],
+   "fragments": [
+    "109da2b8716cc422"
+   ]
+  }
+ ],
+ "fragments": {
+  "c1d48f23eea0c82e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 1017/68 do Conselho, de 19 de Julho de 1968, relativo à aplicação de regras de concorrência nos sectores dos transportes ferroviários, rodoviários e por via navegável** *Jornal Oficial nº L 175 de 23/07/1968 p. 0001 - 0012 Edição especial finlandesa: Capítulo 7 Fascículo 1 p. 0054 Edição especial dinamarquesa: Série I Capítulo 1968(I) p. 0295 Edição especial sueca: Capítulo 7 Fascículo 1 p. 0054 Edição especial inglesa: Série I Capítulo 1968(I) p. 0302 - 0312 Edição especial grega: Capítulo 07 Fascículo 1 p. 0086 Edição especial espanhola: Capítulo 08 Fascículo 1 p. 0106 Edição especial portuguesa: Capítulo 08 Fascículo 1 p. 0106*\n\nREGULAMENTO (CEE) No 1017/68 DO CONSELHO de 19 de Julho de 1968 relativo à aplicação de regras de concorrência nos sectores dos transportes ferroviários, rodoviários e por via navegável\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 75o e 87o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que, por força do Regulamento no 141 do Conselho, relativo à não aplicação ao sector dos transportes do Regulamento no 17 do Conselho (3), este Regulamento no 17 não se aplica (4) aos acordos, decisões e práticas concertadas no sector dos transportes que tenham por efeito a fixação dos preços e condições de transporte, a limitação ou o controlo da oferta de transportes ou a repartição dos mercados de transportes, nem às posições dominantes, na acepção do artigo 86o do Tratado, no mercado dos transportes;\n\nConsiderando que, no que diz respeito aos transportes ferroviários, rodoviários e por via navegável, esta não aplicação é limitada até 30 de Junho de 1968, por força do Regulamento no 1002/67/CEE (5);\n\nConsiderando que a definição de regras de concorrência aplicáveis aos transportes ferroviários, rodoviários e por via navegável constitui um dos elementos da política comum dos transportes bem como da política económica geral;\n\nConsiderando que, ao adoptar regras de concorrência aplicáveis a este sector, é conveniente ter em conta aspectos especiais dos transportes;\n\nConsiderando que as regras de concorrência para as transportes derrogam as regras gerais de concorrência, tornando-se necessário criar condições que permitam às empresas saber qual a regulamentação aplicável em cada caso concreto;\n\nConsiderando que a instituição de um regime de concorrência para os transportes torna desejável a inclusão, na mesma medida, do financiamento ou da aquisição em comum de material ou de equipamento de transportes para exploração em comum por determinados agrupamentos de empresas, assim como determinadas operações dos auxiliares de transporte para os transportes ferroviários, rodoviários e por via navegável;\n\nConsiderando que, a fim de evitar que o comércio entre Estados-membros seja afectado e que a concorrência no mercado comum seja falseada, é conveniente proibir, em princípio para os três modos de transporte acima indicados, os acordos entre empresas, as decisões de associações de empresas e as práticas concertadas entre empresas assim como a exploração abusiva de uma posição dominante no mercado comum que possa provocar tais efeitos;\n\nConsiderando que certos tipos de acordos, decisões e práticas concertadas no domínio dos transportes, que tenham apenas por objectivo e efeito a aplicação de melhoramentos técnicos ou a cooperação técnica, podem ser subtraídos à proibição de acordos, decisões e práticas concertadas, desde que contribuam para melhorar a produtividade; que à luz da experiência e, como resultado da aplicação do presente regulamento, o Conselho pode ser levado a alterar, mediante proposta da Comissão, a lista destes tipos de acordos;\n\nConsiderando que, a fim de melhorar a estrutura da indústria por vezes demasiado dispersa no sector dos transportes rodoviários e por via navegável, convém igualmente isentar da proibição os acordos, decisões e práticas concertadas que tenham em vista a criação e o funcionamento de agrupamentos de empresas destes dois modos de transporte, que tenham por objectivo o exercício da actividade transportadora, incluindo o financiamento ou a aquisição em comum de material ou de equipamento de transporte para exploração em comum; que esta isenção de carácter global só pode ser concedida desde que a capacidade total de carga do agrupamento não exceda um limite máximo fixado e a capacidade individual das empresas participantes no agrupamento não exceda certos limites estabelecidos, de modo a evitar que uma delas possa ter posição dominante no interior do agrupamento; que, todavia, a Comissão deve ter a possibilidade de intervir se, num caso determinado, tais acordos produzirem efeitos incompatíveis com as condições previstas para que um acordo, decisão ou prática concertada possa ser reconhecido como lícito e constitua um abuso de isenção; que, não obstante, o facto de o agrupamento dispor de uma capacidade total de carga superior ao máximo fixado, ou de não poder beneficiar da isenção de carácter global em consequência da capacidade individual das empresas participantes no agrupamento, não exclui em si que o agrupamento possa constituir um acordo, decisão ou prática concertada lícitos, na medida em que obedeçam às condições exigidas para o efeito pelo presente regulamento;\n\nConsiderando que, sempre que um acordo, uma decisão ou uma prática concertada contribua para melhorar a qualidade dos serviços de transporte, ou para promover maior continuidade e estabilidade na satisfação das necessidades de transporte em mercados que estão sujeitos a consideráveis flutuações no tempo da oferta e da procura, ou para aumentar a produtividade das empresas ou para promover o progresso técnico ou económico, convém poder declarar a inaplicabilidade da proibição, desde que o acordo, decisão ou prática concertada tenha em consideração, de modo equitativo, os interesses dos utilizadores dos transportes, não imponha às empresas interessadas restrições que não sejam indispensáveis para atingir os objectivos já referidos, e não dê a essas empresas a possibilidade de eliminar a concorrência numa parte substancial do mercado dos transportes em causa, tendo igualmente em conta a concorrência de modos alternativos de transporte;\n\nConsiderando que, enquanto o Conselho não aplicar, no âmbito da política comum de transportes, as medidas adequadas a assegurar a estabilidade do mercado de transportes e desde que o Conselho tenha verificado a existência de um estado de crise, é oportuno autorizar no mercado em causa os acordos que se tornem necessários para reduzir as perturbações que decorrem da estrutura do mercado de transportes;\n\nConsiderando que, no domínio dos transportes ferroviários, rodoviários e por via navegável, é conveniente que os Estados-membros não tomem nem mantenham medidas contrárias ao presente regulamento, no que diz respeito às empresas públicas e às empresas às quais concedam direitos especiais ou exclusivos; que é igualmente oportuno que as empresas encarregadas da gestão de serviços de interesse económico geral estejam sujeitas às disposições do regulamento, na medida em que a sua aplicação não constitua obstáculo de direito ou de facto ao cumprimento da missão especial que lhes tenha sido confiada, sem que todavia seja afectado o desenvolvimento das trocas comerciais em sentido contrário ao interesse da Comunidade; que a Comissão deve ter a possibilidade de velar pela aplicação desses princípios e dirigir para esse efeito directivas ou decisões adequadas aos Estados-membros;\n\nConsiderando que é conveniente determinar as modalidades de aplicação das medidas de fundo adoptadas pelo presente regulamento, de tal forma que as mesmas garantam, por um lado, uma fiscalização eficaz simplificando, na medida do possível, o controlo administrativo e obedeçam, por outro lado, às necessidades de segurança jurídica das empresas;\n\nConsiderando que cabe, em primeiro lugar, às empresas avaliar por si próprias se nos respectivos acordos, decisões ou práticas concertadas predominam os efeitos restritivos da concorrência ou os efeitos economicamente benéficos admitidos como justificação dessas restrições e, deste modo, apreciar sob a sua própria responsabilidade a natureza ilícita ou lícita desses acordos, decisões ou práticas concertadas;\n\nConsiderando que as empresas devem, consequentemente, ser autorizadas a concluir e executar acordos sem necessidade de os dar a conhecer, expondo-os assim ao risco de uma declaração retroactiva de nulidade, nos casos em que esses acordos venham a ser examinados na sequência de uma denúncia ou por iniciativa própria da Comissão, mas sem prejuízo de os mesmos poderem ser declarados lícitos retroactivamente, no caso de um tal exame a posteriori;\n\nConsiderando, todavia, que as empresas podem, em certos casos, desejar a assistência das autoridades competentes para se assegurarem da conformidade dos respectivos acordos, decisões ou práticas concertadas com as disposições em vigor; que, para esse efeito, é conveniente colocar à sua disposição um processo que inclua a apresentação de um pedido à Comissão e a publicação do conteúdo essencial desse pedido no Jornal Oficial das Comunidades Europeias, de modo a que terceiros interessados possam apresentar as suas observações a respeito do acordo em causa; que, na ausência de denúncias por parte dos Estados-membros ou de terceiros interessados e se a Comissão não fizer saber, dentro de um prazo fixado, às empresas que tenham apresentado o pedido, que existem sérias dúvidas quanto à natureza lícita do acordo em causa, deve o mesmo ser considerado isento de proibição durante o período anterior e nos três anos seguintes;\n\nConsiderando que, em razão da natureza excepcional dos acordos considerados necessários para reduzir as perturbações que decorrem da estrutura do mercado de transportes, em caso de crise verificada pelo Conselho, convém submeter as empresas que desejam obter autorização para um tal acordo, à obrigação de o notificar à Comissão; que é conveniente que a autorização da Comissão só produza efeitos a partir da data em que foi concedida; que a validade da autorização não exceda três anos a contar da verificação do estado de crise pelo Conselho e que a renovação da decisão seja subordinada a uma nova verificação do estado de crise pelo Conselho; que, em qualquer caso, a autorização deve cessar a sua validade no prazo máximo de seis meses após o Conselho ter aplicado as medidas adequadas para garantir a estabilidade do mercado de transportes abrangido pelo acordo;\n\nConsiderando que, para garantir uma aplicação uniforme no mercado comum de regras de concorrência para os transportes, é necessário fixar as normas segundo as quais a Comissão, agindo em estreita e constante ligação com as autoridades competentes dos Estados-membros, possa tomar as medidas necessárias para aplicação dessas regras de concorrência;\n\nConsiderando que, para esse efeito, a Comissão deve obter o apoio das autoridades competentes dos Estados-membros e, por outro lado, dispor, em todo o mercado comum, do poder de exigir esclarecimentos e proceder às verificações necessárias para a descoberta de acordos, decisões e práticas concertadas proibidos pelo presente regulamento, bem como da exploração abusiva de uma posição dominante proibida pelo mesmo;\n\nConsiderando que, se no momento da aplicação do regulamento a um caso específico, existirem no entender de um Estado-membro questões de princípio respeitantes à política comum de transportes, é oportuno que essas questões de princípio possam ser examinadas pelo Conselho; que é conveniente poder submeter à apreciação do Conselho qualquer questão de carácter geral suscitada pela execução da política de concorrência no domínio dos transportes; que deve prever-se um processo, a fim de assegurar que a decisão de aplicação do regulamento ao caso específico apenas seja tomada pela Comissão após o exame das questões de princípio pelo Conselho e à luz das orientações que resultarem desse exame;\n\nConsiderando que, a fim de cumprir a sua missão de velar pela aplicação das disposições do presente regulamento, a Comissão deve ter poderes para dirigir às empresas ou às associações de empresas recomendações e decisões tendentes a fazer cessar as infracções às disposições do regulamento que proibem certos acordos, decisões ou práticas;\n\nConsiderando que o respeito das proibições estabelecidas no regulamento e o cumprimento das obrigações impostas às empresas e associações de empresas em sua aplicação devem poder ser garantidas por meio de multas e adstrições;\n\nConsiderando que é conveniente garantir às empresas interessadas o direito de serem ouvidas pela Comissão, que deve ser concedida a terceiros, cujos interesses possam ser afectados por uma decisão, a oportunidade de previamente apresentarem as suas observações bem como garantir ampla publicidade das 12 decisções tomadas;\n\nConsiderando que convém atribuir plena jurisdição ao Tribunal de Justiça, em aplicação do disposto no artigo 172o do Tratado, no que diz respeito a decisões que apliquem multas ou adstrições;\n\nConsiderando que convém adiar por seis meses a data de entrada em vigor da proibição estabelecida pelo regulamento, no que diz respeito aos acordos, decisões e práticas concertadas existentes à data da publicação do presente regulamento no Jornal Oficial das Comunidades Europeias, a fim de facilitar a adaptação das empresas às disposições do mesmo;\n\nConsiderando que, na sequência das discussões que se realizarão com os Estados terceiros signatários da Convenção Revista para a Navegação do Reno, e num prazo razoável a contar da conclusão dessas discussões, este regulamento deve na sua generalidade ser alterado em observância das obrigações que resultem da Convenção Revista para a Navegação do Reno;\n\nConsiderando que convirá no prazo de três anos introduzir no regulamento as modificações que se revelem necessárias em função da experiência adquirida; que em especial deve examinar-se, tendo em conta a evolução da política comum de transportes durante esse período, se convém estender a aplicação do regulamento aos acordos, decisões e práticas concertadas, bem como à exploração abusiva de posições dominantes que não afectem o comércio entre Estados-membros,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "d2d3f2f1abc78a74": {
+   "fragment_id": "Artigo 1o — Disposições de princípio",
+   "type": "artigo",
+   "heading": "Artigo 1o — Disposições de princípio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o — Disposições de princípio\n\nNo domínio dos transportes ferroviários, rodoviários e por via navegável, o disposto no presente regulamento aplica-se aos acordos, decisões e práticas concertadas que tenham por objectivo ou efeito a fixação de preços e condições de transporte, a limitação ou o controlo da oferta de transportes, a repartição dos mercados de transportes, a aplicação de melhoramentos técnicos ou a cooperação técnica, o financiamento ou a aquisição em comum de material ou de equipamento de transporte directamente ligados à prestação do serviço de transportes, desde que isso seja necessário para a exploração em comum de um agrupamento de empresas de transportes rodoviários ou por via navegável, nos termos do artigo 4o, bem como às posições dominantes no mercado de transportes. Estas disposições aplicam-se igualmente às operações dos auxiliares de transportes que tenham o mesmo objectivo ou os mesmos efeitos acima referidos."
+  },
+  "2d442c38b69bf177": {
+   "fragment_id": "Artigo 2o — Proibição de acordos entre empresas, decisões de associações de empresas e práticas concertadas",
+   "type": "artigo",
+   "heading": "Artigo 2o — Proibição de acordos entre empresas, decisões de associações de empresas e práticas concertadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o — Proibição de acordos entre empresas, decisões de associações de empresas e práticas concertadas\n\nSem prejuízo do disposto nos artigos 3o a 6o, são incompatíveis com o mercado comum e proibidos, sem que para esse efeito seja necessária uma decisão prévia, todos os acordos entre empresas, todas as decisões de associações de empresas e todas as práticas concertadas que sejam susceptíveis de afectar o comércio entre os Estados-membros e que tenham por objectivo ou efeito impedir, restringir ou falsear a concorrência no mercado comum, designadamente os que consistam em:\n\na) Fixar, de forma directa ou indirecta, os preços e condições de transporte ou outras condições de transacção;\n\nb) Limitar ou controlar a oferta de transportes, os mercados, o desenvolvimento técnico ou os investimentos;\n\nc) Repartir os mercados de transportes;\n\nd) Aplicar, relativamente a parceiros comerciais, condições desiguais no caso de prestações equivalentes, colocando-os por esse facto em desvantagem na concorrência;\n\ne) Subordinar a celebração de contratos à aceitação, por parte dos outros contraentes, de prestações suplementares que, pela sua natureza ou de acordo com os usos comerciais, não têm ligação com a prestação do serviço de transporte;"
+  },
+  "d2ab61cd39b18651": {
+   "fragment_id": "Artigo 3o — Excepção em relação aos acordos técnicos",
+   "type": "artigo",
+   "heading": "Artigo 3o — Excepção em relação aos acordos técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o — Excepção em relação aos acordos técnicos\n\n1. A proibição estabelecida no artigo 2o não se aplica aos acordos, decisões e práticas concertadas que tenham apenas por objectivo ou efeito a aplicação de melhoramentos técnicos ou a cooperação técnica mediante:\n\na) A aplicação uniforme de normas e tipos para o material, o aprovisionamento dos transportes, os meios de transporte e as instalações fixas;\n\nb) A troca ou a utilização em comum, para exploração dos transportes, do pessoal, do material, dos meios de transporte e das instalações fixas;\n\nc) A organização e a execução de transportes sucessivos, complementares, alternativos ou combinados, bem como a determinação e aplicação de preços e condições globais para esses transportes, incluindo os preços de concorrência;\n\nd) A canalização de transportes efectuada por um só modo de transporte para os trajectos mais racionais do ponto de vista da exploração;\n\ne) A coordenação dos horários dos transportes para itinerários sucessivos;\n\nf) O agrupamento de remessas isoladas;\n\ng) A adopção de regras uniformes respeitantes à estrutura e às condições de aplicação das tarifas de transportes desde que essas regras não fixem os preços e condições de transporte.\n\n2. A Comissão submeterá, se for caso disso, à apreciação do Conselho propostas que tenham em vista aumentar ou reduzir a lista referida no no 1."
+  },
+  "2a9c41a56729832d": {
+   "fragment_id": "Artigo 4o — Isenção em relação aos agrupamentos de pequenas e médias empresas",
+   "type": "artigo",
+   "heading": "Artigo 4o — Isenção em relação aos agrupamentos de pequenas e médias empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o — Isenção em relação aos agrupamentos de pequenas e médias empresas\n\n1. Os acordos, decisões e práticas concertadas referidos no artigo 2o serão isentos da proibição estabelecida nesse artigo, sempre que tenham por objectivo:\n\n- a constituição e o funcionamento de agrupamentos e empresas de transportes rodoviários ou por via navegável para a execução de actividades de transporte;\n\n- o financiamento ou a aquisição em comum de material ou de equipamento de transporte directamente ligados à prestação do serviço de transporte, desde que tal seja necessário para a exploração em comum desses agrupamentos\n\ne sempre que a capacidade de carga total do agrupamento não exceda:\n\n- 10 000 toneladas para os transportes rodoviários,\n\n- 500 000 toneladas para os transportes por via navegável.\n\nA capacidade individual de cada empresa participante no agrupamento não pode exceder 1 000 toneladas para os transportes rodoviários ou 50.000 toneladas para os transportes por via navegável.\n\n2. Se a execução dos acordos, decisões ou práticas concertadas referidos no no 1 provocar, em certos casos, efeitos incompatíveis com as condições previstas no artigo 5o e que representem um abuso da isenção prevista no artigo 2o, as empresas e associações de empresas podem ser obrigadas a pr termo a esses efeitos."
+  },
+  "6bb34b7cd866d9de": {
+   "fragment_id": "Artigo 5o — Inaplicabilidade da proibição",
+   "type": "artigo",
+   "heading": "Artigo 5o — Inaplicabilidade da proibição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o — Inaplicabilidade da proibição\n\nA proibição prevista no artigo 2o pode ser declarada inaplicável com efeito retroactivo,\n\n- a qualquer acordo ou categoria de acordos entre empresas;\n\n- a qualquer decisão ou categoria de decisões de associações de empresas;\n\n- a qualquer prática concertada ou categoria de práticas concertadas\n\nque contribuam\n\n- para melhorar a qualidade dos serviços de transportes; ou\n\n- para promover uma maior continuidade e estabilidade na satisfação das necessidades de transportes em mercados sujeitos a consideráveis flutuações no tempo da oferta e da procura; ou\n\n- para aumentar a produtividade das empresas; ou\n\n- para promover o progresso técnico ou económico,\n\ntomando em justa consideração os interesses dos utilizadores de transportes e sem\n\na) Impor às empresas de transportes em causa restrições que não sejam indispensáveis para atingir esses objectivos;\n\nb) Dar a essas empresas a possibilidade de eliminar a concorrência, relativamente a uma parte substancial do mercado de transportes em causa."
+  },
+  "cc0421f41f9cb91f": {
+   "fragment_id": "Artigo 6o — Acordos destinados a reduzir as perturbações decorrentes da estrutura do mercado dos transportes",
+   "type": "artigo",
+   "heading": "Artigo 6o — Acordos destinados a reduzir as perturbações decorrentes da estrutura do mercado dos transportes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o — Acordos destinados a reduzir as perturbações decorrentes da estrutura do mercado dos transportes\n\n1. Enquanto o Conselho, no âmbito da política comum de transportes, não tomar as medidas adequadas para garantir a estabilidade de um mercado de transportes, a proibição prevista no artigo 2o pode ser declarada inaplicável aos acordos, decisões e práticas concertadas que tendam a reduzir as perturbações do mercado em causa.\n\n2. Só pode ser tomada uma decisão de não aplicação da proibição prevista no artigo 2o, adoptada em conformidade com o disposto no artigo 14o, depois de o Conselho, deliberando por maioria qualificada, ou por unanimidade sempre que um Estado-membro considere que estão preenchidas as condições referidas no no 3 do artigo 75o do Tratado, ter verificado, com base em relatório da Comissão, um estado de crise no todo ou em parte do mercado de transportes.\n\n3. Sem prejuízo do disposto no no 2, a decisão de não aplicação da proibição prevista no artigo 2o fica subordinada à condição de:\n\na) Os acordos, decisões ou práticas concertadas não imporem às empresas interessadas restrições que não sejam indispensáveis à redução das perturbações; e\n\nb) Não darem a essas empresas a possibilidade de eliminar a concorrência relativamente a uma parte substancial do mercado de transportes em causa."
+  },
+  "bbf099a98373c744": {
+   "fragment_id": "Artigo 7o — Nulidade dos acordos e decisões",
+   "type": "artigo",
+   "heading": "Artigo 7o — Nulidade dos acordos e decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o — Nulidade dos acordos e decisões\n\nSão nulos os acordos ou decisões proibidos por força das disposições anteriores."
+  },
+  "fd6133bbd9e97129": {
+   "fragment_id": "Artigo 8o — Proibição da exploração abusiva de posições dominantes",
+   "type": "artigo",
+   "heading": "Artigo 8o — Proibição da exploração abusiva de posições dominantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o — Proibição da exploração abusiva de posições dominantes\n\nÉ incompatível com o mercado comum e proibido, na medida em que tal seja susceptível de afectar o comércio entre os Estados-membros, o facto de uma ou mais empresas explorarem de forma abusiva uma posição dominante no mercado comum ou numa parte substancial deste.\n\nEssas práticas abusivas podem, nomeadamente, consistir em:\n\na) Impor, de forma directa ou indirecta, preços ou condições de transporte não equitativos;\n\nb) Limitar a oferta de transportes, os mercados ou o desenvolvimento técnico em prejuízo dos consumidores;\n\nc) Aplicar, relativamente a parceiros comerciais, condições desiguais no caso de prestações equivalentes colocando-os, por esse facto, em desvantagem na concorrência;\n\nd) Subordinar a celebração de contratos à aceitação, por parte dos outros contraentes, de prestações suplementares que, pela sua natureza ou de acordo com os usos comerciais, não têm ligação com a prestação de serviços de transporte."
+  },
+  "abb0c9af32a5598c": {
+   "fragment_id": "Artigo 9o — Empresas públicas",
+   "type": "artigo",
+   "heading": "Artigo 9o — Empresas públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o — Empresas públicas\n\n1. No domínio dos transportes e no que respeita às empresas públicas e às empresas a que concedam direitos especiais ou exclusivos, os Estados-membros não tomarão nem manterão qualquer medida contrária ao disposto nos artigos anteriores.\n\n2. As empresas encarregadas da gestão de serviços de interesse económico geral ficam submetidas ao disposto nos artigos anteriores na medida em que a aplicação dos mesmos não constitua obstáculo, de direito ou de facto, ao cumprimento da missão especial que lhes foi confiada. O desenvolvimento das trocas comerciais não deve ser afectado de maneira que contrarie os interesses da Comunidade.\n\n3. A Comissão velará pela aplicação do disposto no presente artigo e dirigirá aos Estados-membros, quando necessário, directivas ou decisões adequadas."
+  },
+  "6355ac495526d9b9": {
+   "fragment_id": "Artigo 10o — Processos com base em denúncia ou por iniciativa da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 10o — Processos com base em denúncia ou por iniciativa da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o — Processos com base em denúncia ou por iniciativa da Comissão\n\nOs processos com vista à cessação de infracções ao disposto no artigo 2o ou no artigo 8o, bem como o processo que tem vista a aplicação do no 2 do artigo 4o serão iniciados pela Comissão com base em denúncia ou por sua iniciativa.\n\nPodem apresentar uma denúncia\n\na) Os Estados-membros;\n\nb) As pessoas singulares ou colectivas que invoquem um interesse legítimo."
+  },
+  "f6d3636f70c27204": {
+   "fragment_id": "Artigo 11o — Resultado dos processos com base em denúncia ou por iniciativa da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 11o — Resultado dos processos com base em denúncia ou por iniciativa da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o — Resultado dos processos com base em denúncia ou por iniciativa da Comissão\n\n1. Se a Comissão verificar uma infracção ao disposto no artigo 2o ou no artigo 8o, pode, mediante decisão, exigir às empresas e associações de empresas em causa que ponham termo a essa infracção.\n\nSem prejuízo de outras disposições do presente regulamento, a Comissão, antes do tomar a decisão referida no parágrafo anterior, pode dirigir às empresas e associações de empresas em causa recomendações com vista à cessação da infracção.\n\n2. O no 1 aplica-se igualmente no caso previsto no no 2 do artigo 4o.\n\n3. Se a Comissão, no caso de processo iniciado com base em denúncia, chegar à conclusão, em função dos elementos de que tem conhecimento, de que não existe motivo para intervir relativamente a um acordo, a uma decisão ou a uma prática concertada, nos termos do artigo 2o, do no 2 do artigo 4o ou do artigo 8o, proferirá uma decisão rejeitando a denúncia por falta de fundamento.\n\n4. Se a Comissão, no termo de um processo iniciado com base em denúncia ou por sua iniciativa, chegar à conclusão de que um acordo, uma decisão, ou uma prática concertada preenchem as condições previstas nos artigos 2o e 5o, proferirá uma decisão de aplicação do artigo 5o. A decisão indicará a data a partir da qual produzirá efeitos. Essa data pode ser anterior à data da decisão."
+  },
+  "8c2f7cd2a7e1f3b1": {
+   "fragment_id": "Artigo 12o — Aplicação do artigo 5o - oposição",
+   "type": "artigo",
+   "heading": "Artigo 12o — Aplicação do artigo 5o - oposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o — Aplicação do artigo 5o - oposição\n\n1. As empresas e associações de empresas que desejem invocar o disposto no artigo 5o em favor de acordos, decisões e práticas concertadas referidas no artigo 2o, em que participem, podem, nesse sentido, formular um pedido à Comissão.\n\n2. Se a Comissão considerar o pedido admissível e estiver na posse de todos os elementos disponíveis sobre o caso, e desde que não tenha sido iniciado qualquer processo contra o acordo, decisão ou prática concertada, nos termos do artigo 10o, publicará com a brevidade possível, no Jornal Oficial das Comunidades Europeias, um resumo do pedido, convidando os terceiros interessados a comunicarem as suas observações à Comissão, no prazo de 30 dias. A publicação deve ter em conta o legítimo interesse das empresas na protecção de segredos comerciais.\n\n3. Se a Comissão, no prazo de 90 dias a contar da data da publicação no Jornal Oficial das Comunidades Europeias, não notificar as empresas que lhe tenham formulado o pedido, de que existem sérias dúvidas quanto à aplicabilidade do artigo 5o, o acordo, decisão ou prática concertada, descritos no pedido, serão considerados isentos da proibição relativamente ao período anterior e a um período máximo de três anos, a contar da data da publicação do pedido no Jornal Oficial das Comunidades Europeias.\n\nSe a Comissão verificar, depois de decorrido o prazo de 90 dias, mas antes de decorrido o prazo de três anos, que as condições de aplicação do artigo 5o não estão preenchidas, proferirá uma decisão que declare aplicável a proibição prevista no artigo 2o. Esta decisão pode ser retroactiva sempre que os interessados tenham fornecido indicações inexactas ou quando abusem da isenção do disposto no artigo 2o.\n\n4. Se, no prazo de 90 dias, a Comissão notificar, nos termos do primeiro parágrafo do no 3, as empresas que lhe tenham formulado um pedido, examinará se estão preenchidas as condições previstas nos artigos 2o e 5o.\n\nSe a Comissão verificar que estão preenchidas as condições previstas nos artigos 2o e 5o, proferirá uma decisão de aplicação do artigo 5o. A decisão indicará a data a partir da qual produzirá efeitos. Esta data pode ser anterior à data do pedido."
+  },
+  "8581125bfbb0a7f6": {
+   "fragment_id": "Artigo 13o — Período de validade e revogação das decisões de aplicação do artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 13o — Período de validade e revogação das decisões de aplicação do artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o — Período de validade e revogação das decisões de aplicação do artigo 5o\n\n1. A decisão de aplicação do artigo 5o, tomada em conformidade com o disposto no no 4 do artigo 11o ou no no 4, segundo parágrafo, do artigo 12o, deve indicar o período da sua validade; esse período não será em geral inferior a seis anos. A decisão pode ser acompanhada de condições e de obrigações.\n\n2. A decisão pode ser renovada se se mantiverem preenchidas as condições de aplicação do artigo 5o.\n\n3. A Comissão pode revogar ou modificar a sua decisão, ou proibir determinados actos às partes:\n\na) Se a situação de facto se modificar relativamente a um elemento essencial da decisão;\n\nb) Se as partes não cumpriram uma obrigação de que a decisão tenha sido acompanhada;\n\nc) Se a decisão assentar em indicações inexactas ou se foi obtida fraudulentamente; ou\n\nd) Se as partes abusarem da isenção do disposto no artigo 2o que lhes tenha sido concedida pela decisão.\n\nNos casos referidos nas alíneas b), c) e d), a decisão pode ser revogada com efeitos retroactivos."
+  },
+  "39bb1280478589ee": {
+   "fragment_id": "Artigo 14o — Decisão de aplicação do artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 14o — Decisão de aplicação do artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o — Decisão de aplicação do artigo 6o\n\n1. Os acordos, decisões e práticas concertadas mencionados no artigo 2o, relativamente aos quais as partes desejem invocar o disposto no artigo 6o, devem ser notificados à Comissão.\n\n2. A decisão da Comissão, com vista à aplicação do disposto no artigo 6o, só produzirá efeitos a contar da data da sua adopção. A decisão deve indicar o período de validade. Esse período não pode exceder três anos a contar da data de verificação do estado de crise pelo Conselho, nos termos do no 2 do artigo 6o.\n\n3. A decisão pode ser renovada pela Comissão, se o Conselho verificar de novo o estado de crise nos termos do no 2 do artigo 6o e se as outras condições de aplicação do artigo 6o se mantiverem preenchidas.\n\n4. A decisão pode ser acompanhada de condições e obrigações.\n\n5. A decisão da Comissão deixa de produzir efeitos o mais tardar seis meses após a aplicação das medidas referidas no no 1 do artigo 6o.\n\n6. É aplicável o disposto no no 3 do artigo 13o."
+  },
+  "db5802b5329ee49c": {
+   "fragment_id": "Artigo 15o — Competência",
+   "type": "artigo",
+   "heading": "Artigo 15o — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o — Competência\n\nSem prejuízo do controlo da decisão pelo Tribunal de Justiça, a Comissão tem competência exclusiva:\n\n- para impor obrigações nos termos do no 2 do artigo 4o;\n\n- para proferir uma decisão nos termos dos artigos 5o e 6o.\n\nAs autoridades dos Estados-membros mantêm-se competentes para decidir se estão preenchidas as condições previstas no artigo 2o ou no artigo 8o, enquanto a Comissão não tiver iniciado qualquer processo com vista a uma decisão relativa ao caso em questão, ou não tenha procedido à comunicação prevista no no 3, primeiro parágrafo, do artigo 12o."
+  },
+  "def4ab5755be61a6": {
+   "fragment_id": "Artigo 16o — Ligação com as autoridades dos Estados-membros",
+   "type": "artigo",
+   "heading": "Artigo 16o — Ligação com as autoridades dos Estados-membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o — Ligação com as autoridades dos Estados-membros\n\n1. A Comissão conduzirá os processos previstos no presente regulamento em ligação estreita e constante com as autoridades competentes dos Estados-membros que têm o direito de se pronunciar relativamente a esses processos.\n\n2. A Comissão transmitirá imediatamente às autoridades competentes dos Estados-membros cópia das denúncias e dos pedidos, bem como das peças mais importantes que lhe tenham sido enviadas ou que tenha enviado no âmbito desses processos.\n\n3. Previamente a qualquer decisão tomada na sequência de um processo nos termos do artigo 10o, bem como antes de qualquer decisão proferida em aplicação do no 3, segundo parágrafo e do no 4, segundo parágrafo, ambos do artigo 12o e dos no 3 e 4 do artigo 14o, será consultado um Comité Consultivo em matéria de acordos, decisões e práticas concertadas e posições dominantes no domínio dos transportes. O Comité Consultivo será igualmente consultado antes da adopção das disposições de execução previstas no artigo 29o.\n\n4. O Comité Consultivo será composto por funcionários competentes no domínio dos transportes e em matéria de acordos, decisões e práticas concertadas e posições dominantes. Cada Estado-membro designará dois funcionários que o representem e que podem ser substituídos, em caso de impedimento, por outro funcionário.\n\n5. A consulta realizar-se-á durante uma reunião conjunta convocada pela Comissão, em data nunca anterior ao termo do prazo de catorze dias após o envio da convocatória. Esta será acompanhada de um resumo do caso juntamente com indicação das peças mais importantes e de um anteprojecto de decisão para cada caso a examinar.\n\n6. O Comité Consultivo pode emitir parecer ainda que alguns dos seus membros estejam ausentes e não estejam representados. Um relatório escrito do resultado da consulta será anexado ao projecto de decisão. Este relatório não será tornado público."
+  },
+  "428ea5d340dbbf59": {
+   "fragment_id": "Artigo 17o — Exame, pelo Conselho, de uma questão de princípio respeitante à política comum de transportes, suscitada num caso concreto",
+   "type": "artigo",
+   "heading": "Artigo 17o — Exame, pelo Conselho, de uma questão de princípio respeitante à política comum de transportes, suscitada num caso concreto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o — Exame, pelo Conselho, de uma questão de princípio respeitante à política comum de transportes, suscitada num caso concreto\n\n1. A Comissão só tomará uma decisão que exija a consulta referida no artigo 16o depois de decorrido o prazo de vinte dias, a contar da data da emissão do parecer do Comité Consultivo.\n\n2. Antes do termo referido no no 1, qualquer Estado-membro pode pedir a convocação do Conselho para examinar, com a Comissão, as questões de princípio respeitantes à política comum de transportes que considere estarem ligadas ao caso específico objecto da decisão.\n\nO Conselho reunir-se-á no prazo de trinta dias a contar da data do pedido do Estado-membro interessado, com vista a examinar exclusivamente essas questões de princípio.\n\nA Comissão só proferirá a sua decisão após a sessão do Conselho.\n\n3. Por outro lado, o Conselho pode, em qualquer momento, a pedido de um Estado-membro ou da Comissão, examinar as questões de carácter geral suscitadas pela execução da política de concorrência no domínio dos transportes.\n\n4. Em todos os casos em que o Conselho seja chamado a reunir-se para examinar questões de princípio, nos termo do no 2, ou questões de carácter geral, nos termos do no 3, a Comissão deve, para efeitos do presente regulamento, ter em conta as orientações resultantes dessa reunião do Conselho."
+  },
+  "c50e2e2ee641e239": {
+   "fragment_id": "Artigo 18o — Inquéritos por sectores dos transportes",
+   "type": "artigo",
+   "heading": "Artigo 18o — Inquéritos por sectores dos transportes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o — Inquéritos por sectores dos transportes\n\n1. Se a evolução dos transportes, as flutuações, a rigidez dos preços dos transportes ou outras circunstâncias fizerem presumir que a concorrência no domínio dos transportes está restringida ou falseada no mercado comum, numa zona geográfica determinada ou numa ou várias relações de tráfego ou relativamente a transportes de passageiros ou de produtos que pertençam a uma ou várias categorias determinadas, a Comissão pode decidir proceder a um inquérito geral nesse sector e, no âmbito desse inquérito, pedir às empresas de transportes do sector considerado os esclarecimentos e a documentação necessários para a aplicação dos princípios enunciados nos artigos 2o a 8o.\n\n2. Sempre que a Comissão proceda aos inquéritos previstos no no 1, solicitará às empresas e aos grupos de empresas, cuja dimensão faça presumir que ocupam uma posição dominante no mercado comum ou numa parte substancial deste, a declaração dos elementos relativos à estrutura das empresas e seu comportamento, necessários para apreciar a respectiva situação à luz do disposto no artigo 8o.\n\n3. É aplicável o disposto nos no 2 a 6 do artigo 16o e nos artigos 17o, 19o, 20o e 21o."
+  },
+  "9265ad0182891cfb": {
+   "fragment_id": "Artigo 19o — Pedido de informações",
+   "type": "artigo",
+   "heading": "Artigo 19o — Pedido de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o — Pedido de informações\n\n1. No cumprimento dos deveres atribuídos pelo presente regulamento, a Comissão pode obter todas as informações necessárias junto dos governos e das autoridades competentes dos Estados-membros, bem como das empresas e associações de empresas.\n\n2. Sempre que a Comissão formule um pedido de informações a uma empresa ou associação de empresas, enviará simultaneamente uma cópia do mesmo pedido à autoridade competente do Estado-membro no território do qual se situa a sede da empresa ou associação de empresas.\n\n3. No seu pedido, a Comissão indicará os fundamentos jurídicos e o objectivo do pedido, bem como as sanções previstas no no 1, alínea b), do artigo 22o, no caso de prestação de informações inexactas.\n\n4. Os proprietários das empresas ou os seus representantes e, no caso de pessoas colectivas, de sociedades ou de associações sem personalidade jurídica, as pessoas encarregadas de as representar segundo a lei geral ou os estatutos estão obrigados a prestar as informações pedidas.\n\n5. Se uma empresa ou associação de empresas não prestar as informações solicitadas no prazo fixado pela Comissão, ou se as prestar de forma incompleta, a Comissão pedi-las-á por meio de decisão. Essa decisão precisará quais as informações solicitadas, fixará um prazo adequado em que as informações devem ser prestadas e indicará as sanções previstas no no 1, alínea b), do artigo 22o e no no 1, alínea c), do artigo 23o, bem como a possibilidade de recurso da decisão para o Tribunal de Justiça.\n\n6. A Comissão enviará simultaneamente cópia da respectiva decisão à autoridade competente do Estado-membro no território do qual se encontra situada a sede da empresa ou da associação de empresas."
+  },
+  "f7a1fe47f6611cdb": {
+   "fragment_id": "Artigo 20o — Diligências de instrução pelas autoridades dos Estados-membros",
+   "type": "artigo",
+   "heading": "Artigo 20o — Diligências de instrução pelas autoridades dos Estados-membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o — Diligências de instrução pelas autoridades dos Estados-membros\n\n1. A pedido da Comissão, as autoridades competentes dos Estados-membros procederão a diligências de instrução que a Comissão considere adequadas, nos termos do no 1 do artigo 21o, ou que tenham sido ordenadas por decisão tomada em aplicação do no 3 do artigo 21o. Os agentes das autoridades competentes dos Estados-membros incumbidos de proceder a essas diligências exercerão os seus poderes mediante ordem escrita da autoridade competente do Estado-membro no território do qual as diligências de instrução devem ser efectuadas. Essa ordem indicará o objectivo e a finalidade das diligências de instrução.\n\n2. A pedido da Comissão ou da autoridade competente do Estado-membro no território do qual a diligência de instrução deve ser efectuada, podem os agentes da Comissão prestar assitência aos agentes daquela autoridade no exercício das suas funções."
+  },
+  "26917750c093ae01": {
+   "fragment_id": "Artigo 21o — Poderes da Comissão em matéria de instrução",
+   "type": "artigo",
+   "heading": "Artigo 21o — Poderes da Comissão em matéria de instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o — Poderes da Comissão em matéria de instrução\n\n1. No cumprimento dos deveres atribuídos pelo presente regulamento, a Comissão pode proceder às diligências de instrução necessárias junto das empresas e associações de empresas.\n\nPara esse efeito, compete aos agentes incumbidos pela Comissão:\n\na) Inspeccionar os livros e outros documentos profissionais;\n\nb) Tirar cópias ou extractos dos livros e documentos profissionais;\n\nc) Pedir no local explicações orais;\n\nd) Ter acesso às instalações, terrenos e meios de transporte das empresas.\n\n2. Os agentes incumbidos pela Comissão dessas diligências exercerão os seus poderes mediante a apresentação de ordem escrita que indicará o objectivo e a finalidade da diligência, bem como a sanção prevista no no 1, alínea c), do artigo 22o, no caso de os livros ou outros documentos profissionais exigidos serem apresentados de forma incompleta. Em tempo útil e antes da diligência de instrução, a Comissão informará a autoridade competente do Estado-membro, no território do qual a mesma deve ser efectuada, da diligência de instrução e da identidade dos agentes dela incumbidos.\n\n3. As empresas e associações de empresas são obrigadas a sujeitar-se às diligências de instrução que tenham sido ordenadas pela Comissão mediante decisão. A decisão indicará o objectivo e a finalidade da diligência, fixará a data em que tem início e indicará as sanções previstas no no 1, alínea c), do artigo 22o e no no 1, alínea d), do artigo 23o, bem como a possibilidade de recurso da decisão para o Tribunal de Justiça.\n\n4. A Comissão tomará as decisões referidas no no 3, depois de ter ouvido a autoridade competente do Estado-membro no território do qual a diligência de instrução deve ser efectuada.\n\n5. Os agentes da autoridade competente do Estado-membro em cujo território a diligência de instrução deve ser efectuada podem, a pedido desta autoridade ou da Comissão, prestar assistência aos agentes da Comissão no exercício das suas funções.\n\n6. Quando uma empresa se oponha a uma diligência de instrução ordenada por força do presente artigo, o Estado-membro interessado prestará, aos agentes incumbidos pela Comissão, a assistência necessária que lhes permita executar essa diligência. Os Estados-membros, após consulta da Comissão, tomarão as medidas necessárias para o efeito antes de 1 de Janeiro de 1970."
+  },
+  "5c86ad4620cff29d": {
+   "fragment_id": "Artigo 22o — Multas",
+   "type": "artigo",
+   "heading": "Artigo 22o — Multas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o — Multas\n\nA Comissão pode, mediante decisão, aplicar às empresas e associações de empresas multas de cem a cinco mil unidades de conta sempre que, deliberadamente ou por negligência:\n\na) Dêem indicações inexactas ou deformadas aquando de um pedido apresentado nos termos do artigo 12o ou de uma notificação nos termos do artigo 14o;\n\nb) Prestem uma informação inexacta, em resposta a um pedido feito nos termos do artigo 18o ou dos no 3 ou 5 do artigo 19o, ou não prestem uma informação no prazo fixado em decisão tomada por força do no 5 do artigo 19o;\n\nc) Apresentem de forma incompleta os livros ou outros documentos profissionais exigidos, aquando das diligências de instrução efectuadas em conformidade com os artigos 20o ou 21o, ou não se sujeitem às diligências ordenadas mediante decisão tomada em aplicação do no 3 do artigo 21o.\n\n2. A Comissão pode, mediante decisão, aplicar às empresas e associações de empresas multas de mil unidades de conta a um milhão de unidades de conta ou num montante superior, mas que não exceda dez por cento do volume de negócios realizado durante o exercício social anterior por cada uma das empresas que tenham cometido a infracção sempre que, deliberadamente ou por negligência:\n\na) Cometam uma infracção ao disposto nos artigos 2o ou 8o ou não cumpram uma obrigação imposta nos termos do no 2 do artigo 4o;\n\nb) Desrespeitem uma obrigação imposta por força do no 1 do artigo 13o ou do no 4 do artigo 14o.\n\nPara determinar o montante da multa, deve tomar-se em consideração a gravidade e a duração da infracção.\n\n3. É aplicável o disposto nos no 3 a 6 do artigo 16o e no artigo 17o.\n\n4. As decisões tomadas por força dos nos 1 e 2 não têm natureza penal."
+  },
+  "0201fbcb5561a3e0": {
+   "fragment_id": "Artigo 23o — Adstrições",
+   "type": "artigo",
+   "heading": "Artigo 23o — Adstrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o — Adstrições\n\n1. A Comissão pode, mediante decisão, aplicar às empresas e associações de empresas adstrições de cinquenta a mil unidades de conta por dia de atraso, a contar da data fixada na decisão, com o fim de as obrigar:\n\na) A pôr termo a uma infracção ao disposto nos artigos 2o ou 8o de que tenha sido ordenada a cessação nos termos do artigo 11o ou a dar cumprimento a uma obrigação imposta nos termos do no 2 do artigo 4o;\n\nb) A abster-se de qualquer acção proibida, nos termos do no 3 do artigo 13o;\n\nc) A fornecer informações completas e exactas que tenham sido pedidas, mediante decisão, nos termos do no 5 do artigo 19o;\n\nd) A sujeitar-se a diligência de instrução que tenha sido ordenada mediante decisão tomada em aplicação do no 3 do artigo 21o.\n\n2. Sempre que as empresas ou associações de empresas tenham cumprido a obrigação para cuja execução a adstrição tenha sido aplicada, a Comissão pode fixar o montante definitivo da mesma num valor inferior ao que resultaria da decisão inicial.\n\n3. É aplicável o disposto nos nos 3 a 6 do artigo 16o e no artigo 17o."
+  },
+  "79a7b33a70615a8e": {
+   "fragment_id": "Artigo 24o — Controlo do Tribunal de Justiça",
+   "type": "artigo",
+   "heading": "Artigo 24o — Controlo do Tribunal de Justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24o — Controlo do Tribunal de Justiça\n\nO Tribunal de Justiça decide com plena jurisdição, na acepção do artigo 172o do Tratado, os recursos interpostos das decisões em que tenha sido fixada uma multa ou uma adstrição pela Comissão; o Tribunal pode suprimir, reduzir ou aumentar a multa ou a adstrição aplicadas."
+  },
+  "dcfb5475d2e12b2f": {
+   "fragment_id": "Artigo 25o — Unidade de conta",
+   "type": "artigo",
+   "heading": "Artigo 25o — Unidade de conta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25o — Unidade de conta\n\nPara aplicação dos artigos 22o a 24o, a unidade de conta será a utilizada para a elaboração do orçamento da Comunidade, em conformidade com o disposto nos artigos 207o e 209o do Tratado."
+  },
+  "d6db6bd19e823915": {
+   "fragment_id": "Artigo 26o — Audição dos interessados e de terceiros",
+   "type": "artigo",
+   "heading": "Artigo 26o — Audição dos interessados e de terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26o — Audição dos interessados e de terceiros\n\n1. Antes de tomar as decisões previstas no artigo 11o, no no 3, segundo parágrafo e no no 4 do artigo 12o, no no 3 do artigo 13o, nos nos 2 e 3 do artigo 14o e nos artigos 22o e 23o a Comissão dará às empresas e associações de empresas interessadas a oportunidade de se pronunciarem sobre as acusações por ela formuladas.\n\n2. Se a Comissão ou as autoridades competentes dos Estados-membros o considerarem necessário, podem também ouvir outras pessoas singulares ou colectivas. Se estas, justificando um interesse bastante, pedirem para ser ouvidas, o seu pedido deve ser satisfeito.\n\n3. Sempre que a Comissão se proponha tomar uma decisão nos termos dos artigos 5o ou 6o, fará publicar o essencial do conteúdo do acordo, da decisão ou da prática em causa, convidando os terceiros interessados a fazerem conhecer as suas observações no prazo que fixar e que não pode ser inferior a um mês. A publicação deve ter em conta o legítimo interesse das empresas na protecção de segredos comerciais."
+  },
+  "b5c2860f263ceb76": {
+   "fragment_id": "Artigo 27o — Segredo profissional",
+   "type": "artigo",
+   "heading": "Artigo 27o — Segredo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27o — Segredo profissional\n\n1. As informações obtidas nos termos dos artigos 18o, 19o, 20o e 21o só podem ser utilizadas para os fins para que tenham sido pedidas.\n\n2. Sem prejuízo do disposto nos artigos 26o e 28o, a Comissão e as autoridades competentes dos Estados-membros, bem como os seus funcionários e outros agentes, são obrigados a não divulgar as informações obtidas nos termos do presente regulamente e que, pela sua natureza, estejam abrangidos pelo segredo profissional.\n\n3. O disposto nos nos 1 e 2 não prejudica a publicação de informações gerais ou estudos que não contenham informações relativas a empresas ou associações de empresas determinadas."
+  },
+  "b059854c04438b77": {
+   "fragment_id": "Artigo 28o — Publicação das decisões",
+   "type": "artigo",
+   "heading": "Artigo 28o — Publicação das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28o — Publicação das decisões\n\n1. A Comissão publicará as decisões que tomar nos termos do artigo 11o, do no 3, segundo parágrafo e do no 4 do artigo 12o, do no 3 do artigo 13o e dos nos 2 e 3 do artigo 14o.\n\n2. A publicação mencionará as partes interessadas e o essencial da decisão; deve ter em conta o legítimo interesse das empresas na protecção de segredos comerciais."
+  },
+  "e447be9df2a08e72": {
+   "fragment_id": "Artigo 29o — Disposições de execução",
+   "type": "artigo",
+   "heading": "Artigo 29o — Disposições de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29o — Disposições de execução\n\nA Comissão fica autorizada a adoptar as disposições de execução respeitantes à forma, conteúdo e modalidades das denúncias referidas no artigo 10o, dos pedidos referidos no artigo 12o, das notificações referidas no no 1 do artigo 14o, bem como das audições referidas nos nos 1 e 2 do artigo 26o."
+  },
+  "780c1a21bc97221a": {
+   "fragment_id": "Artigo 30o — Entrada em vigor - Acordos, decisões e práticas concertadas existentes",
+   "type": "artigo",
+   "heading": "Artigo 30o — Entrada em vigor - Acordos, decisões e práticas concertadas existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30o — Entrada em vigor - Acordos, decisões e práticas concertadas existentes\n\n1. O presente regulamento entra em vigor em 1 de Julho de 1968.\n\n2. Em derrogação do disposto no no 1, o disposto no artigo 8o entra em vigor no dia seguinte ao da publicação do presente regulamento no Jornal Oficial das Comunidades Europeias.\n\n3. A proibição prevista no artigo 2o aplica-se a partir de 1 de Janeiro de 1969 aos acordos, decisões e práticas concertadas referidas no mesmo artigo que existam à data da entrada em vigor do presente regulamento ou que tenham sido realizadas entre essa data e a data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\n4. O disposto no no 3 não pode ser aplicado às empresas e associações de empresas que tenham denunciado acordos, decisões ou práticas concertadas antes do dia seguinte ao da publicação do presente regulamento no Jornal Oficial das Comunidades Europeias."
+  },
+  "a374253f0fa0ca40": {
+   "fragment_id": "Artigo 31o — Revisão do regulamento",
+   "type": "artigo",
+   "heading": "Artigo 31o — Revisão do regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31o — Revisão do regulamento\n\n1. Na sequência das discussões a realizar com os Estados terceiros signatários da Convenção Revista para a Navegação do Reno e no prazo de seis meses a contar da data do encerramento dessas discussões, o Conselho procederá, sob proposta da Comissão, às alterações do presente regulamento que se revelem necessárias, tendo em conta as obrigações decorrentes da referida Convenção.\n\n2. A Comissão transmitirá ao Conselho, antes de 1 de Janeiro de 1971, um relatório geral sobre a aplicação do presente regulamento e, antes de 1 de Julho de 1971, uma proposta de regulamento tendente a introduzir as alterações que se revelem necessárias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 19 de Julho de 1968.\n\nPelo Conselho\n\nO Presidente\n\nO. L. SCALFARO\n\n(1) JO no 205 de 11. 12. 1964, p. 3505/64.(2) JO no 103 de 12. 6. 1965, p. 1792/65.(3) JO no 124 de 28. 11. 1962, p. 2751/62.(4) JO no 13 de 21. 2. 1962, p. 204/62.(5) JO no 306 de 16. 12. 1967, p. 1."
+  },
+  "109da2b8716cc422": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1968R1017 — PT — 25.03.2009 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31968R1017) [REGULAMENTO (CEE) N.º 1017/68 DO CONSELHO](http://publications.europa.eu/resource/celex/31968R1017) [de 19 de Julho de 1968](http://publications.europa.eu/resource/celex/31968R1017) [relativo à aplicação de regras de concorrência nos sectores dos transportes ferroviários, rodoviários e por via navegável](http://publications.europa.eu/resource/celex/31968R1017) (JO L 175, 23.7.1968, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 169/2009 do Conselho de 26 de Fevereiro de 2009](http://publications.europa.eu/resource/celex/32009R0169) — L 61 — 1 — 5.3.2009"
+  }
+ }
+}

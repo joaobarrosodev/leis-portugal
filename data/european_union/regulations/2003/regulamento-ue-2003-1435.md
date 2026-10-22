@@ -35,6 +35,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2003-08-21'
+version_history:
+  file: regulamento-ue-2003-1435.versoes.json
+  count: 2
+  source_lastmod: '2003-08-21'
+  versions:
+  - date: '2003-08-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-08-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Transferência da sede
+    - Altera Artigo 22.º — Condições da fusão
+    - Altera Artigo 34.º — Legalidade da fusão
+    - Altera Artigo 73.º — Dissolução judicial ou por outra autoridade competente do Estado-Membro da sede da SCE
+    - Altera Artigo 77.º — União Económica e Monetária
+    - Altera Artigo 80.º — Entrada em vigor
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita CAPÍTULO II
+    - Adita CONSTITUIÇÃO
+    - Adita Secção 1
+    - Adita Disposições Gerais
+    - Adita Secção 2
+    - Adita Constituição de uma SCE por meio de fusão
+    - Adita Secção 3
+    - Adita Transformação de uma cooperativa existente em SCE
+    - Adita CAPÍTULO III
+    - Adita ESTRUTURA DA SCE
+    - Adita Sistema dualista
+    - Adita Sistema monista
+    - Adita Regras comuns aos sistemas monista e dualista
+    - Adita Secção 4
+    - Adita Assembleia geral
+    - Adita CAPÍTULO IV
+    - Adita EMISSÃO DE ACÇÕES QUE CONFIRAM VANTAGENS ESPECIAIS
+    - Adita CAPÍTULO V
+    - Adita DISTRIBUIÇÃO DE EXCEDENTES
+    - Adita CAPÍTULO VI
+    - Adita CONTAS ANUAIS E CONTAS CONSOLIDADAS
+    - Adita CAPÍTULO VII
+    - Adita DISSOLUÇÃO, LIQUIDAÇÃO, FALÊNCIA E CESSAÇÃO DE PAGAMENTOS
+    - Adita CAPÍTULO VIII
+    - Adita DISPOSIÇÕES COMPLEMENTARES E TRANSITÓRIAS
+    - Adita CAPÍTULO IX
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita Notas
+    - Suprime CAPÍTULO I — DISPOSIÇÕES GERAIS
+    - Suprime CAPÍTULO II — CONSTITUIÇÃO
+    - Suprime Secção 1 — Disposições Gerais
 identifiers:
   celex: 32003R1435
   eli: http://data.europa.eu/eli/reg/2003/1435/oj
@@ -49,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f1ebc6b9-46ae-4f57-a4b5-4711d9add0cd.0010
   content_url: http://publications.europa.eu/resource/cellar/632c4e34-0efa-46ca-8650-4c2adb90f3d6.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R1435-20030821
-  retrieved_at: '2026-10-22T03:11:31Z'
+  retrieved_at: '2026-10-22T14:55:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T22:04:24.361+01:00'
 integrity:
@@ -58,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:31Z'
-  notes: Texto consolidado 02003R1435-20030821.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:42Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2003-1435.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -175,29 +228,19 @@ relationships:
   date: '2025-06-26'
 article_structure:
   article_count: 80
-  section_count: 32
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 33
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:31Z'
+  checked_at: '2026-10-22T14:55:42Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 1435/2003 do Conselho, de 22 de Julho de 2003
-
-> 2003R1435 — PT — 21.08.2003 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32003R1435R%2801%29) — [Rectificação, JO L 049, 17.2.2007, p. 35 (1435/03)](http://publications.europa.eu/resource/celex/32003R1435R%2801%29)
-
-## REGULAMENTO (CE) N.º 1435/2003 DO CONSELHO
 
 de 22 de Julho de 2003
 

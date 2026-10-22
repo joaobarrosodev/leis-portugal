@@ -1,0 +1,529 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991L0672:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0672-20130701",
+ "dre_path": null,
+ "source_lastmod": "2013-07-01",
+ "versions": [
+  {
+   "date": "1991-12-31",
+   "future": false,
+   "celex": "31991L0672",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "eaaf0038326d2b0a",
+    "e6c196344f6f1d5c",
+    "450103a324c4678b",
+    "8391ee3e8790530e",
+    "8362cc1e4b56d153",
+    "cc8676a64cd55a68",
+    "53c27090a0903c66",
+    "dbc8e76d8b0fe293",
+    "36c97b11db51683a",
+    "91636b944f5b86e3",
+    "f68142d6b7023d14"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01991L0672-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1882:por",
+     "title": "REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1882"
+    },
+    {
+     "id": "eu:celex:32006L0103:por",
+     "title": "DIRECTIVA 2006/103/CE DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006L0103"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO I",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita LISTA DOS CERTIFICADOS NACIONAIS DE CONDUÇÃO PARA O TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS POR NAVEGAÇÃO INTERIOR, A QUE SE REFERE O ARTIGO 1.º DA DIRECTIVA",
+    "Adita ANEXO II",
+    "Adita LISTA DAS VIAS NAVEGÁVEIS DE CARÁCTER MARÍTIMO A QUE SE REFERE O ARTIGO 2.º DA DIRECTIVA",
+    "Adita Reino da Bélgica",
+    "Adita República Federal da Alemanha",
+    "Adita Reino dos Países Baixos",
+    "Adita República da Polónia",
+    "Adita República da Finlândia",
+    "Adita Reino da Suécia",
+    "Adita Roménia",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime ANEXO II — LISTA DAS VIAS NAVEGÁVEIS DE CARÁCTER MARÍTIMO A QUE SE REFERE O ARTIGO 2o DA DIRECTIVA"
+   ],
+   "fragments": [
+    "07da4c0062ed4bac",
+    "a58302773550363e",
+    "954708d3938f13e2",
+    "374defc9dfa8526f",
+    "abae943994d16245",
+    "023c5d3745685671",
+    "91ce190ec016cfcc",
+    "b1769beb940f915d",
+    "b1bdb6eb30e3efe7",
+    "d664376e2a8dcecd",
+    "d637ffc506871919",
+    "852174729551523b",
+    "96bf9dcf8b465c11",
+    "fcddc63b05b5286b",
+    "b63b34806025f694",
+    "6a3dda15adcdcac6",
+    "bc8802a511118ac5",
+    "c9286958a91dfbaa",
+    "eb90993407273351",
+    "788a50e58b162077",
+    "e072f117623922fd"
+   ]
+  },
+  {
+   "date": "2008-12-11",
+   "future": false,
+   "celex": "01991L0672-20081211",
+   "acts": [
+    {
+     "id": "eu:celex:32008R1137:por",
+     "title": "REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE22 de Outubro de 2008 que adapta à Decisão 1999/468/CE do Conselho certos actos sujeitos ao procedimento previsto no artigo 251. o do Tratado, no que se refere ao procedimento de regulamentação com controlo",
+     "published": null,
+     "celex": "32008R1137"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera LISTA DOS CERTIFICADOS NACIONAIS DE CONDUÇÃO PARA O TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS POR NAVEGAÇÃO INTERIOR, A QUE SE REFERE O ARTIGO 1.º DA DIRECTIVA",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "bc80d2d601bada8f",
+    "a58302773550363e",
+    "954708d3938f13e2",
+    "374defc9dfa8526f",
+    "ad0dbe51c25c64f6",
+    "023c5d3745685671",
+    "91ce190ec016cfcc",
+    "ec42750df45d2d9f",
+    "b1bdb6eb30e3efe7",
+    "d664376e2a8dcecd",
+    "4bf13c33d162e7f2",
+    "852174729551523b",
+    "96bf9dcf8b465c11",
+    "fcddc63b05b5286b",
+    "b63b34806025f694",
+    "6a3dda15adcdcac6",
+    "bc8802a511118ac5",
+    "c9286958a91dfbaa",
+    "eb90993407273351",
+    "788a50e58b162077",
+    "18a828bf06d7079c"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "01991L0672-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013L0022:por",
+     "title": "DIRETIVA 2013/22/UE DO CONSELHO, de 13 de maio de 2013,",
+     "published": null,
+     "celex": "32013L0022"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera LISTA DOS CERTIFICADOS NACIONAIS DE CONDUÇÃO PARA O TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS POR NAVEGAÇÃO INTERIOR, A QUE SE REFERE O ARTIGO 1.º DA DIRECTIVA",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "2ea039895beda147",
+    "a58302773550363e",
+    "954708d3938f13e2",
+    "374defc9dfa8526f",
+    "ad0dbe51c25c64f6",
+    "023c5d3745685671",
+    "91ce190ec016cfcc",
+    "ec42750df45d2d9f",
+    "b1bdb6eb30e3efe7",
+    "d664376e2a8dcecd",
+    "480788043bf17e05",
+    "852174729551523b",
+    "96bf9dcf8b465c11",
+    "fcddc63b05b5286b",
+    "b63b34806025f694",
+    "6a3dda15adcdcac6",
+    "bc8802a511118ac5",
+    "eace870a2357fb13",
+    "eb90993407273351",
+    "788a50e58b162077",
+    "72badf852fa32f69"
+   ]
+  }
+ ],
+ "fragments": {
+  "eaaf0038326d2b0a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 91/672/CEE do Conselho, de 16 de Dezembro de 1991, sobre o reconhecimento recíproco dos certificados nacionais de condução de embarcações para transporte de mercadorias e de passageiros por navegação interior** *Jornal Oficial nº L 373 de 31/12/1991 p. 0029 - 0032 Edição especial finlandesa: Capítulo 7 Fascículo 4 p. 0060 Edição especial sueca: Capítulo 7 Fascículo 4 p. 0060*\n\nDIRECTIVA DO CONSELHO de 16 de Dezembro de 1991 sobre o reconhecimento recíproco dos certificados nacionais de condução de embarcações para transporte de mercadorias e de passageiros por navegação interior (91/672/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 75o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3) Considerando que é conveniente avançar na criação de disposições comuns relativas à condução de embarcações de navegação interior em vias navegáveis interiores da Comunidade;\n\nConsiderando que é conveniente, tendo em vista a promoção da livre navegação nas vias navegáveis interiores da Comunidade, conseguir como primeira medida o reconhecimento recíproco dos certificados nacionais de condução de embarcações para o transporte de mercadorias e de passageiros por navegação interior;\n\nConsiderando que a navegação em determinadas vias navegáveis interiores pode requerer a satisfação de exigências suplementares relativas ao conhecimento das situações locais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "e6c196344f6f1d5c": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nPara efeitos da presente directiva, os certificados de condução nacionais para o transporte de mercadorias e de passageiros por navegação interior, tal como mencionados no anexo I, são classificados da seguinte forma:\n\nGrupo A: certificados de condução válidos para as vias navegáveis de carácter marítimo mencionadas no anexo II;\n\nGrupo B: certificados de condução válidos para as outras vias navegáveis da Comunidade, com excepção do Reno, do Lek e do Waal."
+  },
+  "450103a324c4678b": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nSem prejuízo do disposto no n° 5 do artigo 3o, o certificado de bateleiro do Reno, emitido em conformidade com a Convenção Revista para a Navegação no Reno, é válido para todas as vias navegáveis da Comunidade."
+  },
+  "8391ee3e8790530e": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Cada Estado-membro reconhecerá a validade dos certificados de condução em vigor do grupo A do anexo I para a navegação nas vias navegáveis de carácter marítimo mencionadas no anexo II como se ele próprio os tivesse emitido.\n\n2. Os Estados-membros reconhecerão reciprocamente a validade dos certificados de condução em vigor do grupo B do anexo I para a navegação nas suas vias navegáveis interiores, com excepção das que requerem o certificado de bateleiro do Reno e das que figuram no anexo II, como se eles próprios os tivessem emitido.\n\n3. Cada Estado-membro poderá subordinar o reconhecimento de um certificado de condução dos grupos A ou B do anexo I às mesmas condições de idade mínima que as exigidas nesse Estado-membro para a emissão de um certificado de condução do mesmo grupo.\n\n4. Cada Estado-membro poderá limitar o reconhecimento de um certificado de condução às mesmas categorias de embarcações para as quais o certificado é válido no Estado-membro que o emitiu.\n\n5. Sem prejuízo do processo de consulta da Comissão e dos outros Estados-membros, um Estado-membro pode exigir que, para a navegação em certas vias navegáveis que não as vias navegáveis de carácter marítimo mencionadas no anexo II, os bateleiros dos outros Estados-membros preencham as condições suplementares relativas ao conhecimento da situação local equivalentes às exigidas aos seus bateleiros nacionais.\n\n6. A presente directiva não impede que um Estado-membro exija conhecimentos suplementares para a condução de embarcações que transportem substâncias perigosas no seu território.\n\nOs Estados-membros reconhecerão a declaração emitida de acordo com as prescrições da posição 10170 do ADNR como prova dos referidos conhecimentos."
+  },
+  "8362cc1e4b56d153": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nSe necessário a Comissão tomará as medidas necessárias para a adaptação da lista de certificados constante do anexo I, segundo o procedimento definido no artigo 7o"
+  },
+  "cc8676a64cd55a68": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nAté 31 de Dezembro de 1994, o Conselho, deliberando por maioria qualificada, adoptará as normas comuns relativas à condução de navios de navegação interior destinadas ao transporte de mercadorias e de passageiros, com base numa proposta da Comissão a apresentar o mais tardar até 31 de Dezembro de 1993."
+  },
+  "53c27090a0903c66": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros adoptarão, o mais tardar até 1 de Janeiro de 1993, as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva. Desse facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem tais disposicões, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "dbc8e76d8b0fe293": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Para efeitos de aplicação do artigo 4o, a Comissão será assistida por um comité composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto de alteração do anexo I. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no n° 2 do artigo 148o do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\nA Comissão adoptará a alteração do anexo I desde que esta seja conforme com o parecer do comité.\n\nSe a alteração projectada não for conforme com o parecer do Comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este último ainda não tiver deliberado, a Comissão adoptará a alteração proposta."
+  },
+  "36c97b11db51683a": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 16 de Dezembro de 1991.\n\nPelo ConselhoO PresidenteH. MAIJ-WEGGEN\n\n(1)JO n° C 120 de 7. 5. 1988, p. 7.\n\n(2)JO n° C 12 de 16. 1. 1989, p. 41.\n\n(3)JO n° C 318 de 12. 12. 1988, p. 18."
+  },
+  "91636b944f5b86e3": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nLISTA DOS CERTIFICADOS NACIONAIS DE CONDUÇÃO PARA O TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS POR NAVEGAÇÃO INTERIOR, A QUE SE REFERE O ARTIGO 1o DA DIRECTIVA\n\nGRUPO A: certificados de condução válidos para as vias navegáveis de carácter marítimo mencionadas no anexo II\n\nReino da Bélgica - «Brevet de conduite A» (Arrêté royal no... de...)/«Vaarbrevet A» (Koninklijk Besluit nr.... van...).\n\nRepública Federal da Alemanha - «Schifferpatent», com validade também para os «Seeschiffahrtsstrassen» (Binnenschifferpatentverordnung 7. 12. 81).\n\nRepública Francesa - «Certificat général de capacité de catégorie A», com carimbo que especifique a validade do certificado nas vias do grupo A [segunda zona de navegação na acepção da Directiva 82/714/CEE (1)] (Décret de 23 de Julho de 1991, Journal officiel de 28 de Julho de 1991),\n\n- «Certificats spéciaux de capacité», com carimbo que especifique a validade do certificado nas vias do grupo A (segunda zona de navegação na acepção da Directiva 82/714/CEE) (Décret de 23 de Julho de 1991, Journal officiel de 28 de Julho de 1991).\n\nReino dos Países Baixos - «Groot Vaarbewijs II» (Binnenschepenwet, Staatsblad 1981, nr. 678).\n\nGRUPO B: certificados de condução válidos para as vias navegáveis da Comunidade, com excepção do Reno, do Lek e do Waal\n\nReino da Bélgica - «Brevet de conduite B» (Arrêté royal no... de...)/«Vaarbrevet B» (Koninklijk Besluit nr.... van...).\n\nRepública Federal da Alemanha - «Schifferpatent» (Binnenschifferpatentverordnung 7. 12. 81).\n\nRepública Francesa - «Certificat général de capacité de catégorie A», sem carimbo que especifique a validade do certificado nas vias do grupo A (segunda zona de navegação na acepção da Directiva 82/714/CEE) (Décret de 23 de Julho de 1991, Journal officiel de 28 de Julho de 1991),\n\n- «Certificats spéciaux de capacité», sem carimbo que especifique a validade do certificado nas vias do grupo A (segunda zona de navegação na acepção da Directiva 82/714/CEE) (Décret de 23 de Julho de 1991, Journal officiel de 28 de Julho de 1991).\n\nReino dos Países Baixos - «Groot Vaarbewijs I» (Binnenschepenwet, Staatsblad 1981, nr. 678).\n\n(1)JO n° L 301 de 28. 10. 1982, p. 1."
+  },
+  "f68142d6b7023d14": {
+   "fragment_id": "ANEXO II — LISTA DAS VIAS NAVEGÁVEIS DE CARÁCTER MARÍTIMO A QUE SE REFERE O ARTIGO 2o DA DIRECTIVA",
+   "type": "divisao",
+   "heading": "ANEXO II — LISTA DAS VIAS NAVEGÁVEIS DE CARÁCTER MARÍTIMO A QUE SE REFERE O ARTIGO 2o DA DIRECTIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — LISTA DAS VIAS NAVEGÁVEIS DE CARÁCTER MARÍTIMO A QUE SE REFERE O ARTIGO 2o DA DIRECTIVA\n\nReino da Bélgica Escalda marítimo.\n\nRepública Federal da Alemanha Zona 1 e zona 2 do anexo I da Directiva 82/714/CEE.\n\nReino dos Países Baixos Dollard, Eems, Waddenzee, IJsselmeer, Escalda oriental e Escalda ocidental."
+  },
+  "07da4c0062ed4bac": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Dezembro de 1991\n\nsobre o reconhecimento recíproco dos certificados nacionais de condução de embarcações para transporte de mercadorias e de passageiros por navegação interior\n\n(91/672/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 75.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/6cb1b30b-a44c-40e2-91f3-8f9896394675.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/6cb1b30b-a44c-40e2-91f3-8f9896394675.0017.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/6cb1b30b-a44c-40e2-91f3-8f9896394675.0017.03/DOC_1#E0003))\n\nConsiderando que é conveniente avançar na criação de disposições comuns relativas à condução de embarcações de navegação interior em vias navegáveis interiores da Comunidade;\n\nConsiderando que é conveniente, tendo em vista a promoção da livre navegação nas vias navegáveis interiores da Comunidade, conseguir como primeira medida o reconhecimento recíproco dos certificados nacionais de condução de embarcações para o transporte de mercadorias e de passageiros por navegação interior;\n\nConsiderando que a navegação em determinadas vias navegáveis interiores pode requerer a satisfação de exigências suplementares relativas ao conhecimento das situações locais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "a58302773550363e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos da presente directiva, os certificados de condução nacionais para o transporte de mercadorias e de passageiros por navegação interior, tal como mencionados no anexo I, são classificados da seguinte forma:\n\nGrupo A: certificados de condução válidos para as vias navegáveis de carácter marítimo mencionadas no anexo II;\n\nGrupo B: certificados de condução válidos para as outras vias navegáveis da Comunidade, com excepção do Reno, do Lek e do Waal."
+  },
+  "954708d3938f13e2": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSem prejuízo do disposto no n.º 5 do artigo 3.º, o certificado de bateleiro do Reno, emitido em conformidade com a Convenção Revista para a Navegação no Reno, é válido para todas as vias navegáveis da Comunidade."
+  },
+  "374defc9dfa8526f": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Cada Estado-membro reconhecerá a validade dos certificados de condução em vigor do grupo A do anexo I para a navegação nas vias navegáveis de carácter marítimo mencionadas no anexo II como se ele próprio os tivesse emitido.\n\n2. Os Estados-membros reconhecerão reciprocamente a validade dos certificados de condução em vigor do grupo B do anexo I para a navegação nas suas vias navegáveis interiores, com excepção das que requerem o certificado de bateleiro do Reno e das que figuram no anexo II, como se eles próprios os tivessem emitido.\n\n3. Cada Estado-membro poderá subordinar o reconhecimento de um certificado de condução dos grupos A ou B do anexo I às mesmas condições de idade mínima que as exigidas nesse Estado-membro para a emissão de um certificado de condução do mesmo grupo.\n\n4. Cada Estado-membro poderá limitar o reconhecimento de um certificado de condução às mesmas categorias de embarcações para as quais o certificado é válido no Estado-membro que o emitiu.\n\n5. Sem prejuízo do processo de consulta da Comissão e dos outros Estados-membros, um Estado-membro pode exigir que, para a navegação em certas vias navegáveis que não as vias navegáveis de carácter marítimo mencionadas no anexo II, os bateleiros dos outros Estados-membros preencham as condições suplementares relativas ao conhecimento da situação local equivalentes às exigidas aos seus bateleiros nacionais.\n\n6. A presente directiva não impede que um Estado-membro exija conhecimentos suplementares para a condução de embarcações que transportem substâncias perigosas no seu território.\n\nOs Estados-membros reconhecerão a declaração emitida de acordo com as prescrições da posição 10170 do ADNR como prova dos referidos conhecimentos."
+  },
+  "abae943994d16245": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nSe necessário a Comissão tomará as medidas necessárias para a adaptação da lista de certificados constante do anexo I, segundo o procedimento definido no artigo 7.º"
+  },
+  "023c5d3745685671": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAté 31 de Dezembro de 1994, o Conselho, deliberando por maioria qualificada, adoptará as normas comuns relativas à condução de navios de navegação interior destinadas ao transporte de mercadorias e de passageiros, com base numa proposta da Comissão a apresentar o mais tardar até 31 de Dezembro de 1993."
+  },
+  "91ce190ec016cfcc": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros adoptarão, o mais tardar até 1 de Janeiro de 1993, as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva. Desse facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem tais disposicões, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "b1769beb940f915d": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A Comissão é assistida por um Comité.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^4^](http://publications.europa.eu/resource/cellar/6cb1b30b-a44c-40e2-91f3-8f9896394675.0017.03/DOC_1#E0004)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "b1bdb6eb30e3efe7": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "d637ffc506871919": {
+   "fragment_id": "LISTA DOS CERTIFICADOS NACIONAIS DE CONDUÇÃO PARA O TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS POR NAVEGAÇÃO INTERIOR, A QUE SE REFERE O ARTIGO 1.º DA DIRECTIVA",
+   "type": "divisao",
+   "heading": "LISTA DOS CERTIFICADOS NACIONAIS DE CONDUÇÃO PARA O TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS POR NAVEGAÇÃO INTERIOR, A QUE SE REFERE O ARTIGO 1.º DA DIRECTIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA DOS CERTIFICADOS NACIONAIS DE CONDUÇÃO PARA O TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS POR NAVEGAÇÃO INTERIOR, A QUE SE REFERE O ARTIGO 1.º DA DIRECTIVA\n\n| GRUPO A: | certificados de condução válidos para as vias navegáveis de carácter marítimo mencionadas no anexo II[**►M2**](http://publications.europa.eu/resource/celex/32006L0103) *Roménia* — brevet de căpitan fluvial categoria A (certificado de condução de embarcações A) (nos termos do Despacho n.º 984, de 4.7.2001, do Ministro das Obras Públicas, dos Transportes e da Habitação, que aprova o regulamento relativo à questão dos certificados nacionais de habilitações para a tripulação das embarcações fluviais, M.Of., p. I, nr. 441/6.VIII.2001). **◄** *Reino da Bélgica* — «Brevet de conduite A» (Arrêté royal n.º …de …)/«Vaarbrevet A» (Koninklijk Besluit nr. … van …). *República Federal da Alemanha* — «Schifferpatent», com validade também para os «Seeschiffahrtsstraßen» (Binnenschifferpatentverordnung 7. 12. 81). *República Francesa* — «Certificat général de capacité de catégorie A», com carimbo que especifique a validade do certificado nas vias do grupo A [segunda zona de navegação na acepção da Directiva 82/714/CEE [(^1^)](http://publications.europa.eu/resource/cellar/6cb1b30b-a44c-40e2-91f3-8f9896394675.0017.03/DOC_1#E0005)] (Décret de 23 de Julho de 1991, Journal officiel de 28 de Julho de 1991), — «Certificats spéciaux de capacité», com carimbo que especifique a validade do certificado nas vias do grupo A (segunda zona de navegação na acepção da Directiva 82/714/CEE) (Décret de 23 de Julho de 1991, Journal officiel de 28 de Julho de 1991). *Reino dos Países Baixos* — «Groot Vaarbewijs II» (Binnenschepenwet, Staatsblad 1981, nr. 678). [**►**](http://publications.europa.eu/resource/celex/11994N) [**►**](http://publications.europa.eu/resource/celex/31995D0001) *República da Finlândia* — LaivurinkirjaSkepparbrev, — Kuljettajankirjat IFörarbrev I. *Reino da Suécia* — Bevis om behörighet som skeppare B, — Bevis om behörighet som skeppare A, — Bevis om behörighet som styrman B, — Bevis om behörighet som styrman A, — Bevis om behörighet som sjökapten. **◄** **◄** [**►A2**](http://publications.europa.eu/resource/celex/12003T) *República da Hungria* — Hajóskapitányi bizonyítvány (certificado de capitão), — Hajóvezetői A bizonyítvány (certificado de condução de embarcações A) (nos termos do Decreto n.º 15/2001 (IV. 27.) KöViM do Ministro dos Transportes e Gestão das Águas relativo aos certificados de navegação). *República da Polónia* — Patent żeglarski kapitana żeglugi śródlądowej - kategorii A (certificado de condução de embarcações A) (nos termos do Regulamento do Ministro das Infra-estruturas de 23 de Janeiro de 2003 sobre as habilitações profissionais e o número de membros da tripulação das embarcações de navegação interior). **◄** |\n| --- | --- |\n| GRUPO B: | certificados de condução válidos para as vias navegáveis da Comunidade, com excepção do Reno, do Lek e do Waal[**►M2**](http://publications.europa.eu/resource/celex/32006L0103) *República da Bulgária* — Свидетелство за правоспособност «Капитан вътрешно плаване» (certificado de competência de comandante de embarcações de navegação interior) — Свидетелство за правоспособност «Щурман вътрешно плаване» (certificado de competência de oficial chefe de quarto de embarcações de navegação interior) (Наредба № 6 от 25.7.2003 г. на министъра на транспорта и съобщенията за компетентност на морските лица в Република България, обн. ДВ, бр.83 от 2003 г. Nos termos do Decreto n.º 6, de 25 de Julho de 2003, do Ministro dos Transportes e Telecomunicações relativo à competência dos marítimos na República da Bulgária, DV n.º 83/2003). *Roménia* — brevet de căpitan fluvial categoria B (certificado de condução de embarcações B) (nos termos do Despacho n.º 984, de 4.7.2001, do Ministro das Obras Públicas, dos Transportes e da Habitação, que aprova o regulamento relativo à questão dos certificados nacionais de habilitações para a tripulação das embarcações fluviais, M.Of., p. I, nr. 441/6.VIII.2001). **◄** *Reino da Bélgica* — «Brevet de conduite B» (Arrêté royal n.º … de …)/«Vaarbrevet B» (Koninklijk Besluit nr. … van …). *República Federal da Alemanha* — «Schifferpatent» (Binnenschifferpatentverordnung 7. 12. 81). *República Francesa* — «Certificat général de capacité de catégorie A», sem carimbo que especifique a validade do certificado nas vias do grupo A (segunda zona de navegação na acepção da Directiva 82/714/CEE) (Décret de 23 de Julho de 1991, Journal officiel de 28 de Julho de 1991), — «Certificats spéciaux de capacité», sem carimbo que especifique a validade do certificado nas vias do grupo A (segunda zona de navegação na acepção da Directiva 82/714/CEE) (Décret de 23 de Julho de 1991, Journal officiel de 28 de Julho de 1991). *Reino dos Países Baixos* — «Groot Vaarbewijs I» (Binnenschepenwet, Staatsblad 1981, nr. 678). [**►**](http://publications.europa.eu/resource/celex/11994N) [**►**](http://publications.europa.eu/resource/celex/31995D0001) *República da Áustria* — Kapitänspatent A, — Schiffsführerpatent A. *República da Finlândia* — LaivurinkirjaSkepparbrev, — Kuljettajankirjat IFörarbrev I.; *Reino da Suécia* — Bevis om behörighet som skeppare B, — Bevis om behörighet som skeppare A, — Bevis om behörighet som styrman B, — Bevis om behörighet som styrman A, — Bevis om behörighet som sjökapten. **◄** **◄** [**►A2**](http://publications.europa.eu/resource/celex/12003T) República Checa — Průkaz způsobilosti kapitána a průkaz způsobilosti kormidelníka (Lei de 25 de Maio de 1995 relativa à navegação interior (114/1995 Sb.) e Decreto do Ministério dos Transportes de 14 de Setembro de 1995 relativo à Elegibilidade das Pessoas para a Pilotagem e a Condução de Embarcações (224/1995 Sb.)). República da Estónia — Siseveelaeva laevajuhi diplom. República da Lituânia — Diplomas vidaus vandenų transporto specialisto laipsnio (aprovados pelo Despacho n.º 161 de 15 de Maio de 2001 do Ministro dos Transportes e Comunicações sobre as Regras de emissão de diplomas e certificados de habilitação para especialistas em matéria de transportes em vias navegáveis interiores). República da Hungria — Hajóskapitányi bizonyítvány (certificado de capitão), — Hajóvezetői A bizonyítvány (certificados de condução de embarcações A) (nos termos do Decreto n.º 15/2001 (IV. 27.) KöViM do Ministro dos Transportes e Gestão das Águas relativo aos certificados de navegação). República da Polónia — Patent żeglarski kapitana żeglugi śródlądowej - kategorii B (certificado de condução de embarcações B) (nos termos do Regulamento do Ministro das Infrastruturas de 23 de Janeiro de 2003 sobre as habilitações profissionais e o número de membros da tripulação das embarcações de navegação interior). República Eslovaca — Lodný kapitán I. triedy, — Lodný kapitán II. triedy, — (Decreto 182/2001 Z. z. do Ministério dos Transportes, Correios e Telecomunicações da República Eslovaca relativo à especificação dos requisitos em matéria de habilitações e à confirmação da competência profissional dos membros da tripulação de embarcações e do comandante de pequenas embarcações (que remete para o n.º 7 do artigo 30.º e o n.º 3 do artigo 31.º da Lei 338/2000 Z. z. relativa à navegação interior e que altera determinadas leis). **◄** |\n| (^1^)JO n.º L 301 de 28. 10. 1982, p. 1. |  |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "96bf9dcf8b465c11": {
+   "fragment_id": "LISTA DAS VIAS NAVEGÁVEIS DE CARÁCTER MARÍTIMO A QUE SE REFERE O ARTIGO 2.º DA DIRECTIVA",
+   "type": "divisao",
+   "heading": "LISTA DAS VIAS NAVEGÁVEIS DE CARÁCTER MARÍTIMO A QUE SE REFERE O ARTIGO 2.º DA DIRECTIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA DAS VIAS NAVEGÁVEIS DE CARÁCTER MARÍTIMO A QUE SE REFERE O ARTIGO 2.º DA DIRECTIVA"
+  },
+  "fcddc63b05b5286b": {
+   "fragment_id": "Reino da Bélgica",
+   "type": "divisao",
+   "heading": "Reino da Bélgica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Reino da Bélgica\n\nEscalda marítimo."
+  },
+  "b63b34806025f694": {
+   "fragment_id": "República Federal da Alemanha",
+   "type": "divisao",
+   "heading": "República Federal da Alemanha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### República Federal da Alemanha\n\nZona 1 e zona 2 do anexo I da Directiva 82/714/CEE."
+  },
+  "6a3dda15adcdcac6": {
+   "fragment_id": "Reino dos Países Baixos",
+   "type": "divisao",
+   "heading": "Reino dos Países Baixos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Reino dos Países Baixos\n\nDollard, Eems, Waddenzee, IJsselmeer, Escalda oriental e Escalda ocidental."
+  },
+  "bc8802a511118ac5": {
+   "fragment_id": "República da Polónia",
+   "type": "divisao",
+   "heading": "República da Polónia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### República da Polónia\n\nZona 1 e zona 2 do Anexo II da Directiva 82/714/CEE, com excepção da reserva hídrica de Włocławski e dos lagos Śniardwy, Niegocin e Mamry."
+  },
+  "c9286958a91dfbaa": {
+   "fragment_id": "República da Finlândia",
+   "type": "divisao",
+   "heading": "República da Finlândia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### República da Finlândia\n\nSaimaan kanavaSaima kanal, Saimaan vesistöSaimens vattendrag."
+  },
+  "eb90993407273351": {
+   "fragment_id": "Reino da Suécia",
+   "type": "divisao",
+   "heading": "Reino da Suécia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Reino da Suécia\n\nCanal de Trollhätte e rio Göta, lago Vänern, lago Mälaren, canal de Södertälje, canal de Falsterbo,canal de Soten."
+  },
+  "788a50e58b162077": {
+   "fragment_id": "Roménia",
+   "type": "divisao",
+   "heading": "Roménia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Roménia\n\nDanúbio: desde Brăila (km 175) até ao Mar Negro, no canal de Sulina.\n\n---"
+  },
+  "e072f117623922fd": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6cb1b30b-a44c-40e2-91f3-8f9896394675.0017.03/DOC_1#src.E0001)) JO n.º C 120 de 7. 5. 1998, p.7.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6cb1b30b-a44c-40e2-91f3-8f9896394675.0017.03/DOC_1#src.E0002)) JO n.º C 12 de 16. 1. 1989, p. 41.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6cb1b30b-a44c-40e2-91f3-8f9896394675.0017.03/DOC_1#src.E0003)) JO n.º C 318 de 12. 12. 1988, p. 18.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/6cb1b30b-a44c-40e2-91f3-8f9896394675.0017.03/DOC_1#src.E0004)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "bc80d2d601bada8f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Dezembro de 1991\n\nsobre o reconhecimento recíproco dos certificados nacionais de condução de embarcações para transporte de mercadorias e de passageiros por navegação interior\n\n(91/672/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 75.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/bd0c4e44-727e-4322-9b87-0254c2f9b95f.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/bd0c4e44-727e-4322-9b87-0254c2f9b95f.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/bd0c4e44-727e-4322-9b87-0254c2f9b95f.0018.03/DOC_1#E0003))\n\nConsiderando que é conveniente avançar na criação de disposições comuns relativas à condução de embarcações de navegação interior em vias navegáveis interiores da Comunidade;\n\nConsiderando que é conveniente, tendo em vista a promoção da livre navegação nas vias navegáveis interiores da Comunidade, conseguir como primeira medida o reconhecimento recíproco dos certificados nacionais de condução de embarcações para o transporte de mercadorias e de passageiros por navegação interior;\n\nConsiderando que a navegação em determinadas vias navegáveis interiores pode requerer a satisfação de exigências suplementares relativas ao conhecimento das situações locais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "ad0dbe51c25c64f6": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nSe necessário, a Comissão toma as medidas necessárias para a adaptação da lista de certificados constante do anexo I da presente directiva. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, nomeadamente completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 7.º."
+  },
+  "ec42750df45d2d9f": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A Comissão é assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "4bf13c33d162e7f2": {
+   "fragment_id": "LISTA DOS CERTIFICADOS NACIONAIS DE CONDUÇÃO PARA O TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS POR NAVEGAÇÃO INTERIOR, A QUE SE REFERE O ARTIGO 1.º DA DIRECTIVA",
+   "type": "divisao",
+   "heading": "LISTA DOS CERTIFICADOS NACIONAIS DE CONDUÇÃO PARA O TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS POR NAVEGAÇÃO INTERIOR, A QUE SE REFERE O ARTIGO 1.º DA DIRECTIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA DOS CERTIFICADOS NACIONAIS DE CONDUÇÃO PARA O TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS POR NAVEGAÇÃO INTERIOR, A QUE SE REFERE O ARTIGO 1.º DA DIRECTIVA\n\n| GRUPO A: | certificados de condução válidos para as vias navegáveis de carácter marítimo mencionadas no anexo II[**►M2**](http://publications.europa.eu/resource/celex/32006L0103) *Roménia* — brevet de căpitan fluvial categoria A (certificado de condução de embarcações A) (nos termos do Despacho n.º 984, de 4.7.2001, do Ministro das Obras Públicas, dos Transportes e da Habitação, que aprova o regulamento relativo à questão dos certificados nacionais de habilitações para a tripulação das embarcações fluviais, M.Of., p. I, nr. 441/6.VIII.2001). **◄** *Reino da Bélgica* — «Brevet de conduite A» (Arrêté royal n.º …de …)/«Vaarbrevet A» (Koninklijk Besluit nr. … van …). *República Federal da Alemanha* — «Schifferpatent», com validade também para os «Seeschiffahrtsstraßen» (Binnenschifferpatentverordnung 7. 12. 81). *República Francesa* — «Certificat général de capacité de catégorie A», com carimbo que especifique a validade do certificado nas vias do grupo A [segunda zona de navegação na acepção da Directiva 82/714/CEE [(^1^)](http://publications.europa.eu/resource/cellar/bd0c4e44-727e-4322-9b87-0254c2f9b95f.0018.03/DOC_1#E0004)] (Décret de 23 de Julho de 1991, Journal officiel de 28 de Julho de 1991), — «Certificats spéciaux de capacité», com carimbo que especifique a validade do certificado nas vias do grupo A (segunda zona de navegação na acepção da Directiva 82/714/CEE) (Décret de 23 de Julho de 1991, Journal officiel de 28 de Julho de 1991). *Reino dos Países Baixos* — «Groot Vaarbewijs II» (Binnenschepenwet, Staatsblad 1981, nr. 678). [**►**](http://publications.europa.eu/resource/celex/11994N) [**►**](http://publications.europa.eu/resource/celex/31995D0001) *República da Finlândia* — LaivurinkirjaSkepparbrev, — Kuljettajankirjat IFörarbrev I. *Reino da Suécia* — Bevis om behörighet som skeppare B, — Bevis om behörighet som skeppare A, — Bevis om behörighet som styrman B, — Bevis om behörighet som styrman A, — Bevis om behörighet som sjökapten. **◄** **◄** [**►A2**](http://publications.europa.eu/resource/celex/12003T) *República da Hungria* — Hajóskapitányi bizonyítvány (certificado de capitão), — Hajóvezetői A bizonyítvány (certificado de condução de embarcações A) (nos termos do Decreto n.º 15/2001 (IV. 27.) KöViM do Ministro dos Transportes e Gestão das Águas relativo aos certificados de navegação). *República da Polónia* — Patent żeglarski kapitana żeglugi śródlądowej - kategorii A (certificado de condução de embarcações A) (nos termos do Regulamento do Ministro das Infra-estruturas de 23 de Janeiro de 2003 sobre as habilitações profissionais e o número de membros da tripulação das embarcações de navegação interior). **◄** |\n| --- | --- |\n| GRUPO B: | certificados de condução válidos para as vias navegáveis da Comunidade, com excepção do Reno, do Lek e do Waal[**►M2**](http://publications.europa.eu/resource/celex/32006L0103) *República da Bulgária* — Свидетелство за правоспособност «Капитан вътрешно плаване» (certificado de competência de comandante de embarcações de navegação interior) — Свидетелство за правоспособност «Щурман вътрешно плаване» (certificado de competência de oficial chefe de quarto de embarcações de navegação interior) (Наредба № 6 от 25.7.2003 г. на министъра на транспорта и съобщенията за компетентност на морските лица в Република България, обн. ДВ, бр.83 от 2003 г. Nos termos do Decreto n.º 6, de 25 de Julho de 2003, do Ministro dos Transportes e Telecomunicações relativo à competência dos marítimos na República da Bulgária, DV n.º 83/2003). *Roménia* — brevet de căpitan fluvial categoria B (certificado de condução de embarcações B) (nos termos do Despacho n.º 984, de 4.7.2001, do Ministro das Obras Públicas, dos Transportes e da Habitação, que aprova o regulamento relativo à questão dos certificados nacionais de habilitações para a tripulação das embarcações fluviais, M.Of., p. I, nr. 441/6.VIII.2001). **◄** *Reino da Bélgica* — «Brevet de conduite B» (Arrêté royal n.º … de …)/«Vaarbrevet B» (Koninklijk Besluit nr. … van …). *República Federal da Alemanha* — «Schifferpatent» (Binnenschifferpatentverordnung 7. 12. 81). *República Francesa* — «Certificat général de capacité de catégorie A», sem carimbo que especifique a validade do certificado nas vias do grupo A (segunda zona de navegação na acepção da Directiva 82/714/CEE) (Décret de 23 de Julho de 1991, Journal officiel de 28 de Julho de 1991), — «Certificats spéciaux de capacité», sem carimbo que especifique a validade do certificado nas vias do grupo A (segunda zona de navegação na acepção da Directiva 82/714/CEE) (Décret de 23 de Julho de 1991, Journal officiel de 28 de Julho de 1991). *Reino dos Países Baixos* — «Groot Vaarbewijs I» (Binnenschepenwet, Staatsblad 1981, nr. 678). [**►**](http://publications.europa.eu/resource/celex/11994N) [**►**](http://publications.europa.eu/resource/celex/31995D0001) *República da Áustria* — Kapitänspatent A, — Schiffsführerpatent A. *República da Finlândia* — LaivurinkirjaSkepparbrev, — Kuljettajankirjat IFörarbrev I.; *Reino da Suécia* — Bevis om behörighet som skeppare B, — Bevis om behörighet som skeppare A, — Bevis om behörighet som styrman B, — Bevis om behörighet som styrman A, — Bevis om behörighet som sjökapten. **◄** **◄** [**►A2**](http://publications.europa.eu/resource/celex/12003T) República Checa — Průkaz způsobilosti kapitána a průkaz způsobilosti kormidelníka (Lei de 25 de Maio de 1995 relativa à navegação interior (114/1995 Sb.) e Decreto do Ministério dos Transportes de 14 de Setembro de 1995 relativo à Elegibilidade das Pessoas para a Pilotagem e a Condução de Embarcações (224/1995 Sb.)). República da Estónia — Siseveelaeva laevajuhi diplom. República da Lituânia — Diplomas vidaus vandenų transporto specialisto laipsnio (aprovados pelo Despacho n.º 161 de 15 de Maio de 2001 do Ministro dos Transportes e Comunicações sobre as Regras de emissão de diplomas e certificados de habilitação para especialistas em matéria de transportes em vias navegáveis interiores). República da Hungria — Hajóskapitányi bizonyítvány (certificado de capitão), — Hajóvezetői A bizonyítvány (certificados de condução de embarcações A) (nos termos do Decreto n.º 15/2001 (IV. 27.) KöViM do Ministro dos Transportes e Gestão das Águas relativo aos certificados de navegação). República da Polónia — Patent żeglarski kapitana żeglugi śródlądowej - kategorii B (certificado de condução de embarcações B) (nos termos do Regulamento do Ministro das Infrastruturas de 23 de Janeiro de 2003 sobre as habilitações profissionais e o número de membros da tripulação das embarcações de navegação interior). República Eslovaca — Lodný kapitán I. triedy, — Lodný kapitán II. triedy, — (Decreto 182/2001 Z. z. do Ministério dos Transportes, Correios e Telecomunicações da República Eslovaca relativo à especificação dos requisitos em matéria de habilitações e à confirmação da competência profissional dos membros da tripulação de embarcações e do comandante de pequenas embarcações (que remete para o n.º 7 do artigo 30.º e o n.º 3 do artigo 31.º da Lei 338/2000 Z. z. relativa à navegação interior e que altera determinadas leis). **◄** |\n| (^1^)JO n.º L 301 de 28. 10. 1982, p. 1. |  |"
+  },
+  "18a828bf06d7079c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/bd0c4e44-727e-4322-9b87-0254c2f9b95f.0018.03/DOC_1#src.E0001)) JO n.º C 120 de 7. 5. 1998, p.7.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/bd0c4e44-727e-4322-9b87-0254c2f9b95f.0018.03/DOC_1#src.E0002)) JO n.º C 12 de 16. 1. 1989, p. 41.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/bd0c4e44-727e-4322-9b87-0254c2f9b95f.0018.03/DOC_1#src.E0003)) JO n.º C 318 de 12. 12. 1988, p. 18."
+  },
+  "2ea039895beda147": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Dezembro de 1991\n\nsobre o reconhecimento recíproco dos certificados nacionais de condução de embarcações para transporte de mercadorias e de passageiros por navegação interior\n\n(91/672/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 75.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/6f552334-8742-4b14-9676-767191de7d34.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/6f552334-8742-4b14-9676-767191de7d34.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/6f552334-8742-4b14-9676-767191de7d34.0018.03/DOC_1#E0003))\n\nConsiderando que é conveniente avançar na criação de disposições comuns relativas à condução de embarcações de navegação interior em vias navegáveis interiores da Comunidade;\n\nConsiderando que é conveniente, tendo em vista a promoção da livre navegação nas vias navegáveis interiores da Comunidade, conseguir como primeira medida o reconhecimento recíproco dos certificados nacionais de condução de embarcações para o transporte de mercadorias e de passageiros por navegação interior;\n\nConsiderando que a navegação em determinadas vias navegáveis interiores pode requerer a satisfação de exigências suplementares relativas ao conhecimento das situações locais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "480788043bf17e05": {
+   "fragment_id": "LISTA DOS CERTIFICADOS NACIONAIS DE CONDUÇÃO PARA O TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS POR NAVEGAÇÃO INTERIOR, A QUE SE REFERE O ARTIGO 1.º DA DIRECTIVA",
+   "type": "divisao",
+   "heading": "LISTA DOS CERTIFICADOS NACIONAIS DE CONDUÇÃO PARA O TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS POR NAVEGAÇÃO INTERIOR, A QUE SE REFERE O ARTIGO 1.º DA DIRECTIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA DOS CERTIFICADOS NACIONAIS DE CONDUÇÃO PARA O TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS POR NAVEGAÇÃO INTERIOR, A QUE SE REFERE O ARTIGO 1.º DA DIRECTIVA\n\n| GRUPO A: | certificados de condução válidos para as vias navegáveis de carácter marítimo mencionadas no anexo II[**►M2**](http://publications.europa.eu/resource/celex/32006L0103) *Roménia* — brevet de căpitan fluvial categoria A (certificado de condução de embarcações A) (nos termos do Despacho n.º 984, de 4.7.2001, do Ministro das Obras Públicas, dos Transportes e da Habitação, que aprova o regulamento relativo à questão dos certificados nacionais de habilitações para a tripulação das embarcações fluviais, M.Of., p. I, nr. 441/6.VIII.2001). **◄** *Reino da Bélgica* — «Brevet de conduite A» (Arrêté royal n.º …de …)/«Vaarbrevet A» (Koninklijk Besluit nr. … van …). *República Federal da Alemanha* — «Schifferpatent», com validade também para os «Seeschiffahrtsstraßen» (Binnenschifferpatentverordnung 7. 12. 81). *República Francesa* — «Certificat général de capacité de catégorie A», com carimbo que especifique a validade do certificado nas vias do grupo A [segunda zona de navegação na acepção da Directiva 82/714/CEE [(^1^)](http://publications.europa.eu/resource/cellar/6f552334-8742-4b14-9676-767191de7d34.0018.03/DOC_1#E0004)] (Décret de 23 de Julho de 1991, Journal officiel de 28 de Julho de 1991), — «Certificats spéciaux de capacité», com carimbo que especifique a validade do certificado nas vias do grupo A (segunda zona de navegação na acepção da Directiva 82/714/CEE) (Décret de 23 de Julho de 1991, Journal officiel de 28 de Julho de 1991). *Reino dos Países Baixos* — «Groot Vaarbewijs II» (Binnenschepenwet, Staatsblad 1981, nr. 678). [**►**](http://publications.europa.eu/resource/celex/11994N) [**►**](http://publications.europa.eu/resource/celex/31995D0001) *República da Finlândia* — Laivurinkirja/Skepparbrev, — Kuljettajankirjat I/Förarbrev I. *Reino da Suécia* — Bevis om behörighet som skeppare B, — Bevis om behörighet som skeppare A, — Bevis om behörighet som styrman B, — Bevis om behörighet som styrman A, — Bevis om behörighet som sjökapten. **◄** **◄** [**►A2**](http://publications.europa.eu/resource/celex/12003T) *República da Hungria* — Hajóskapitányi bizonyítvány (certificado de capitão), — Hajóvezetői A bizonyítvány (certificado de condução de embarcações A) (nos termos do Decreto n.º 15/2001 (IV. 27.) KöViM do Ministro dos Transportes e Gestão das Águas relativo aos certificados de navegação). *República da Polónia* — Patent żeglarski kapitana żeglugi śródlądowej - kategorii A (certificado de condução de embarcações A) (nos termos do Regulamento do Ministro das Infra-estruturas de 23 de Janeiro de 2003 sobre as habilitações profissionais e o número de membros da tripulação das embarcações de navegação interior). **◄** |\n| --- | --- |\n| GRUPO B: | certificados de condução válidos para as vias navegáveis da Comunidade, com excepção do Reno, do Lek e do Waal[**►M2**](http://publications.europa.eu/resource/celex/32006L0103) *República da Bulgária* — Свидетелство за правоспособност «Капитан вътрешно плаване» (certificado de competência de comandante de embarcações de navegação interior) — Свидетелство за правоспособност «Щурман вътрешно плаване» (certificado de competência de oficial chefe de quarto de embarcações de navegação interior) (Наредба № 6 от 25.7.2003 г. на министъра на транспорта и съобщенията за компетентност на морските лица в Република България, обн. ДВ, бр.83 от 2003 г. Nos termos do Decreto n.º 6, de 25 de Julho de 2003, do Ministro dos Transportes e Telecomunicações relativo à competência dos marítimos na República da Bulgária, DV n.º 83/2003). *Ŕoménia* — brevet de căpitan fluvial categoria B (certificado de condução de embarcações B) (nos termos do Despacho n.º 984, de 4.7.2001, do Ministro das Obras Públicas, dos Transportes e da Habitação, que aprova o regulamento relativo à questão dos certificados nacionais de habilitações para a tripulação das embarcações fluviais, M.Of., p. I, nr. 441/6.VIII.2001). **◄** *Reino da Bélgica* — «Brevet de conduite B» (Arrêté royal n.º … de …)/«Vaarbrevet B» (Koninklijk Besluit nr. … van …). *República Federal da Alemanha* — «Schifferpatent» (Binnenschifferpatentverordnung 7. 12. 81). *República Francesa* — «Certificat général de capacité de catégorie A», sem carimbo que especifique a validade do certificado nas vias do grupo A (segunda zona de navegação na acepção da Directiva 82/714/CEE) (Décret de 23 de Julho de 1991, Journal officiel de 28 de Julho de 1991), — «Certificats spéciaux de capacité», sem carimbo que especifique a validade do certificado nas vias do grupo A (segunda zona de navegação na acepção da Directiva 82/714/CEE) (Décret de 23 de Julho de 1991, Journal officiel de 28 de Julho de 1991). *Reino dos Países Baixos* — «Groot Vaarbewijs I» (Binnenschepenwet, Staatsblad 1981, nr. 678). [**►**](http://publications.europa.eu/resource/celex/11994N) [**►**](http://publications.europa.eu/resource/celex/31995D0001) *República da Áustria* — Kapitänspatent A, — Schiffsführerpatent A. *República da Finlândia* — Laivurinkirja/Skepparbrev, — Kuljettajankirjat I/Förarbrev I.; *Reino da Suécia* — Bevis om behörighet som skeppare B, — Bevis om behörighet som skeppare A, — Bevis om behörighet som styrman B, — Bevis om behörighet som styrman A, — Bevis om behörighet som sjökapten. **◄** **◄** [**►A2**](http://publications.europa.eu/resource/celex/12003T) República Checa — Průkaz způsobilosti kapitána a průkaz způsobilosti kormidelníka (Lei de 25 de Maio de 1995 relativa à navegação interior (114/1995 Sb.) e Decreto do Ministério dos Transportes de 14 de Setembro de 1995 relativo à Elegibilidade das Pessoas para a Pilotagem e a Condução de Embarcações (224/1995 Sb.)). República da Estónia — Siseveelaeva laevajuhi diplom. República da Lituânia — Diplomas vidaus vandenų transporto specialisto laipsnio (aprovados pelo Despacho n.º 161 de 15 de Maio de 2001 do Ministro dos Transportes e Comunicações sobre as Regras de emissão de diplomas e certificados de habilitação para especialistas em matéria de transportes em vias navegáveis interiores). República da Hungria — Hajóskapitányi bizonyítvány (certificado de capitão), — Hajóvezetői A bizonyítvány (certificados de condução de embarcações A) (nos termos do Decreto n.º 15/2001 (IV. 27.) KöViM do Ministro dos Transportes e Gestão das Águas relativo aos certificados de navegação). República da Polónia — Patent żeglarski kapitana żeglugi śródlądowej - kategorii B (certificado de condução de embarcações B) (nos termos do Regulamento do Ministro das Infrastruturas de 23 de Janeiro de 2003 sobre as habilitações profissionais e o número de membros da tripulação das embarcações de navegação interior). República Eslovaca — Lodný kapitán I. triedy, — Lodný kapitán II. triedy, — (Decreto 182/2001 Z. z. do Ministério dos Transportes, Correios e Telecomunicações da República Eslovaca relativo à especificação dos requisitos em matéria de habilitações e à confirmação da competência profissional dos membros da tripulação de embarcações e do comandante de pequenas embarcações (que remete para o n.º 7 do artigo 30.º e o n.º 3 do artigo 31.º da Lei 338/2000 Z. z. relativa à navegação interior e que altera determinadas leis). **◄** [**►M4**](http://publications.europa.eu/resource/celex/32013L0022) República da Croácia — Svjedodžba o stručnoj osposobljenosti/Befähigungszeugnis — Zapovjednik – vrsta A/Schiffsführer – Klasse A — (Certificado de habilitações profissionais – certificado de condução de embarcações A) — Svjedodžba o stručnoj osposobljenosti/Befähigungszeugnis — Zapovjednik – vrsta B/Schiffsführer – Klasse B — (Certificado de habilitações profissionais – certificado de condução de embarcações B) — (em conformidade com a decisão relativa aos títulos e às habilitações profissionais dos barqueiros, Jornal Oficial n.º 73/09). **◄** |\n| (^1^)JO n.º L 301 de 28. 10. 1982, p. 1. |  |"
+  },
+  "eace870a2357fb13": {
+   "fragment_id": "República da Finlândia",
+   "type": "divisao",
+   "heading": "República da Finlândia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### República da Finlândia\n\nSaimaan kanava/Saima kanal, Saimaan vesistö/Saimens vattendrag."
+  },
+  "72badf852fa32f69": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6f552334-8742-4b14-9676-767191de7d34.0018.03/DOC_1#src.E0001)) JO n.º C 120 de 7. 5. 1998, p.7.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6f552334-8742-4b14-9676-767191de7d34.0018.03/DOC_1#src.E0002)) JO n.º C 12 de 16. 1. 1989, p. 41.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6f552334-8742-4b14-9676-767191de7d34.0018.03/DOC_1#src.E0003)) JO n.º C 318 de 12. 12. 1988, p. 18."
+  }
+ }
+}

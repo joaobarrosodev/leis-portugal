@@ -34,6 +34,32 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-08-01'
+version_history:
+  file: diretiva-ue-1991-533.versoes.json
+  count: 2
+  source_lastmod: '2022-08-01'
+  versions:
+  - date: '1991-10-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-08-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Obrigação de informação
+    - Suprime Artigo 3.º — Meios de informação
+    - Suprime Artigo 4.º — Trabalhador expatriado
+    - Suprime Artigo 5.º — Alteração de elementos do contrato ou da relação de trabalho
+    - Suprime Artigo 6.º — Disposições em matéria de forma e de regime de prova do contrato ou da relação de trabalho e em
+      matéria de regras processuais
+    - Suprime Artigo 7.º — Disposições mais favoráveis
+    - Suprime Artigo 8.º — Defesa dos direitos
+    - Suprime Artigo 9.º — Disposições finais
+    - Suprime Artigo 10.º
+    - Suprime Notas
 identifiers:
   celex: 31991L0533
   eli: http://data.europa.eu/eli/dir/1991/533/oj
@@ -48,7 +74,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6efb77a0-ceba-4d4d-a22c-bbc9c027b68b.0011
   content_url: http://publications.europa.eu/resource/cellar/f405cb84-1ef3-11ed-8fa0-01aa75ed71a1.0003.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0533-20220801
-  retrieved_at: '2026-10-22T02:44:15Z'
+  retrieved_at: '2026-10-22T14:39:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-04-16T15:54:49.695+02:00'
 integrity:
@@ -57,9 +83,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:15Z'
-  notes: Texto consolidado 01991L0533-20220801.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:39:27Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1991-533.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -145,16 +171,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:15Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:39:27Z'
+  warnings: []
   errors: []
 ---
 

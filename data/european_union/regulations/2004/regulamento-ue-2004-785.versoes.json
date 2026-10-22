@@ -1,0 +1,480 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004R0785:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0785-20200730",
+ "dre_path": null,
+ "source_lastmod": "2020-07-30",
+ "versions": [
+  {
+   "date": "2004-04-30",
+   "future": false,
+   "celex": "32004R0785",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0880765a14e00f97",
+    "0f38b05307a40f1a",
+    "48429fad96f050cd",
+    "d1f4fe654f7aa8e6",
+    "3da2b42a511bba07",
+    "eea0f70fd6ffcb92",
+    "5341f7c2f606fcc3",
+    "08805edf2bb441e5",
+    "dca31aac567c69bd",
+    "f821e98877a519d0",
+    "f19bc3428ea3287e",
+    "0a7d004750478245"
+   ]
+  },
+  {
+   "date": "2008-12-11",
+   "future": false,
+   "celex": "02004R0785-20081211",
+   "acts": [
+    {
+     "id": "eu:celex:32008R1137:por",
+     "title": "REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE22 de Outubro de 2008",
+     "published": null,
+     "celex": "32008R1137"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Âmbito de aplicação",
+    "Altera Artigo 3.º — Definições",
+    "Altera Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga",
+    "Altera Artigo 7.º — Seguro relativo à responsabilidade por terceiros",
+    "Altera Artigo 9.º — Procedimento de comité",
+    "Altera Artigo 11.º — Entrada em vigor",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "4be11bd057f2c083",
+    "bc7ef30952872db0",
+    "49cea1ade1612dff",
+    "510f50c727ef73a2",
+    "edd76c06b3a92560",
+    "24c520729ad917e2",
+    "b3d72cc0cae63ac6",
+    "f2389649a96b1191",
+    "5f323b4e83466b41",
+    "51d5fdf22906bf28",
+    "f19bc3428ea3287e",
+    "cc6b189d798f605c",
+    "cc86c0d4b198d0df"
+   ]
+  },
+  {
+   "date": "2010-04-08",
+   "future": false,
+   "celex": "02004R0785-20100408",
+   "acts": [
+    {
+     "id": "eu:celex:32010R0285:por",
+     "title": "REGULAMENTO (UE) N. o 285/2010 DA COMISSÃO de 6 de Abril de 2010",
+     "published": null,
+     "celex": "32010R0285"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga",
+    "Altera Artigo 9.º — Procedimento de comité",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "4132c8d0d2fcc0bd",
+    "bc7ef30952872db0",
+    "49cea1ade1612dff",
+    "510f50c727ef73a2",
+    "edd76c06b3a92560",
+    "24c520729ad917e2",
+    "41bab1112b8ea3b4",
+    "f2389649a96b1191",
+    "5f323b4e83466b41",
+    "75f16cf50281cd89",
+    "f19bc3428ea3287e",
+    "cc6b189d798f605c",
+    "ec225d3a5c7c1df9"
+   ]
+  },
+  {
+   "date": "2019-07-26",
+   "future": false,
+   "celex": "02004R0785-20190726",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1243:por",
+     "title": "REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019",
+     "published": null,
+     "celex": "32019R1243"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga",
+    "Altera Artigo 7.º — Seguro relativo à responsabilidade por terceiros",
+    "Altera Artigo 9.º — Procedimento de comité",
+    "Altera Notas",
+    "Adita Artigo 8.º-A — Exercício da delegação"
+   ],
+   "fragments": [
+    "fac68a3a2e2d34c7",
+    "bc7ef30952872db0",
+    "49cea1ade1612dff",
+    "510f50c727ef73a2",
+    "edd76c06b3a92560",
+    "24c520729ad917e2",
+    "fcc1c3fe9ab3e0a1",
+    "68dfec8a1ca842a1",
+    "5f323b4e83466b41",
+    "1b96314c5882e82c",
+    "4c55975059f4c6c7",
+    "f19bc3428ea3287e",
+    "cc6b189d798f605c",
+    "43cec9a76065e4d6"
+   ]
+  },
+  {
+   "date": "2020-07-30",
+   "future": false,
+   "celex": "02004R0785-20200730",
+   "acts": [
+    {
+     "id": "eu:celex:32020R1118:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2020/1118 DA COMISSÃO de 27 de abril de 2020",
+     "published": null,
+     "celex": "32020R1118"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga",
+    "Altera Artigo 8.º-A — Exercício da delegação",
+    "Altera Artigo 9.º — Procedimento de comité",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "fac68a3a2e2d34c7",
+    "bc7ef30952872db0",
+    "49cea1ade1612dff",
+    "510f50c727ef73a2",
+    "edd76c06b3a92560",
+    "24c520729ad917e2",
+    "9cc17a34cbfcc7ee",
+    "68dfec8a1ca842a1",
+    "5f323b4e83466b41",
+    "044bbae674f8228d",
+    "ac7d2b04045e17ee",
+    "f19bc3428ea3287e",
+    "cc6b189d798f605c",
+    "e059e5652a41943f"
+   ]
+  }
+ ],
+ "fragments": {
+  "0880765a14e00f97": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "| 30.4.2004 | PT | Jornal Oficial da União Europeia | L 138/1 |\n| --- | --- | --- | --- |\n\nREGULAMENTO (CE) N.o 785/2004 DO PARLAMENTO EUROPEU E DO CONSELHO\n\nde 21 de Abril de 2004\n\nrelativo aos requisitos de seguro para transportadoras aéreas e operadores de aeronaves\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.o 2 do artigo 80.o,\n\nTendo em conta a proposta da Comissão[(1)](http://publications.europa.eu/resource/cellar/dc08be39-6b2e-4344-9cd8-72d827c26286.0010.04/DOC_1#ntr1-L_2004138PT.01000101-E0001),\n\nTendo em conta o parecer do Comité Económico e Social Europeu[(2)](http://publications.europa.eu/resource/cellar/dc08be39-6b2e-4344-9cd8-72d827c26286.0010.04/DOC_1#ntr2-L_2004138PT.01000101-E0002),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.o do Tratado[(3)](http://publications.europa.eu/resource/cellar/dc08be39-6b2e-4344-9cd8-72d827c26286.0010.04/DOC_1#ntr3-L_2004138PT.01000101-E0003),\n\nConsiderando o seguinte:\n\n(1) No quadro da política comum de transportes, e a fim de promover a protecção dos consumidores, é importante garantir um nível mínimo de seguro adequado para cobrir a responsabilidade das transportadoras aéreas em relação a passageiros, bagagens, carga e terceiros.\n\n(2) No mercado comunitário da aviação, a distinção entre transporte aéreo nacional e internacional foi suprimida, sendo, por conseguinte, conveniente prever requisitos mínimos de seguro para as transportadoras aéreas comunitárias.\n\n(3) É necessária uma actuação comum para garantir que esses requisitos se apliquem igualmente às transportadoras aéreas de países terceiros, de modo a assegurar condições equitativas de concorrência com as transportadoras aéreas comunitárias.\n\n(4) Na sua comunicação de 10 de Outubro de 2001 relativa às consequências para o sector do transporte aéreo dos atentados terroristas nos Estados Unidos, a Comissão anunciou a sua intenção de analisar os montantes e as condições de seguro exigidos para a concessão de licenças de exploração por parte dos Estados-Membros, com o objectivo de assegurar uma abordagem harmonizada. A Comissão declarou igualmente, na sua comunicação de 2 de Julho de 2002, sobre os seguros no sector do transporte aéreo, na sequência dos atentados terroristas de 11 de Setembro de 2001 nos Estados Unidos, que iria continuar a acompanhar a evolução no mercado dos seguros da aviação no que se refere à revisão dos montantes e das condições do seguro exigidos para a concessão de licenças de exploração por parte dos Estados-Membros.\n\n(5) Pela sua Decisão 2001/539/CE do Conselho[(4)](http://publications.europa.eu/resource/cellar/dc08be39-6b2e-4344-9cd8-72d827c26286.0010.04/DOC_1#ntr4-L_2004138PT.01000101-E0004), a Comunidade assinou a Convenção de Montreal para a unificação de certas regras relativas ao transporte aéreo internacional, aprovada em 28 de Maio de 1999, em Montreal, («Convenção de Montreal»), que estabeleceu novas regras relativas à responsabilidade em caso de acidente no transporte aéreo internacional de pessoas, bagagens e carga. Espera-se que tais regras substituam as estabelecidas na Convenção de Varsóvia de 1929 e subsequentes alterações.\n\n(6) O artigo 50.o da Convenção de Montreal impõe às partes a obrigação de garantir que as transportadoras aéreas disponham de um seguro adequado para cobrir as responsabilidades decorrentes dessa convenção. A Convenção de Varsóvia de 1929 e suas subsequentes alterações continuarão em vigor a par da Convenção de Montreal por um prazo indeterminado; ambas as convenções prevêem a possibilidade de responsabilidade ilimitada.\n\n(7) O artigo 7.o do Regulamento (CEE) n.o 2407/92 do Conselho, de 23 de Julho de 1992, relativo à concessão de licenças às transportadoras aéreas[(5)](http://publications.europa.eu/resource/cellar/dc08be39-6b2e-4344-9cd8-72d827c26286.0010.04/DOC_1#ntr5-L_2004138PT.01000101-E0005) impõe a estas a subscrição de um seguro que cubra a responsabilidade em caso de acidente, em especial relativamente a passageiros, bagagens, carga, correio e terceiros sem, no entanto, especificar montantes mínimos nem condições de seguro.\n\n(8) Convém ter em conta que a Conferência Europeia da Aviação Civil adoptou, em 13 de Dezembro de 2000, a resolução CEAC/25-1 sobre os níveis mínimos da cobertura do seguro de responsabilidade civil relativamente a passageiros e a terceiros, que foi alterada em 27 de Novembro de 2002.\n\n(9) É necessário definir requisitos mínimos de seguro para cobrir os passageiros, as bagagens, a carga e terceiros, aplicáveis a transportadoras aéreas e operadores de aeronaves que operam voos no interior de, para, a partir de, ou sobre o território de um Estado-Membro, incluindo as respectivas águas territoriais.\n\n(10) As obrigações de seguro devem recair sobre as transportadoras aéreas que possuem uma licença de exploração válida, e no caso de transportadoras aéreas comunitárias uma licença de exploração concedida nos termos do Regulamento (CEE) n.o 2407/92. A ausência ou expiração da referida licença não liberta a empresa dessa obrigação.\n\n(11) Embora a Convenção de Montreal regulamente especificamente a responsabilidade em relação a passageiros, bagagens e carga, a responsabilidade em relação ao correio está sujeita, nos termos do artigo 2.o da convenção, a «regras aplicáveis à relação entre as transportadoras e as administrações postais». Na Comunidade, o seguro de responsabilidade nesta matéria encontra-se suficientemente regulamentado no artigo 7.o do Regulamento (CEE) n.o 2407/92.\n\n(12) Não deve ser exigido um seguro obrigatório às aeronaves do Estado e a certos outros tipos de aeronaves.\n\n(13) A cobertura mínima de seguro deve ser prevista em situações em que uma transportadora aérea ou um operador de aeronave seja responsável por passageiros, bagagens, carga e terceiros, nos termos das regras constantes das convenções internacionais, do direito comunitário ou do direito nacional, sem interferir com as referidas regras.\n\n(14) O seguro deve cobrir a responsabilidade específica da aviação em relação a passageiros, bagagens, carga e terceiros. No que se refere a passageiros, bagagens e carga, o seguro deve cobrir os casos de morte e de lesões corporais causadas por acidentes bem como os casos de perda, destruição ou danos de bagagens e carga. No tocante a terceiros, o seguro deve cobrir os casos de morte, lesões corporais e danos causados a bens por acidentes.\n\n(15) O presente regulamento não deve ser interpretado no sentido de exigir uma duplicação do seguro. Na medida em que a transportadora contratual e a transportadora de facto na acepção do artigo 39.o da Convenção de Montreal possam ser declaradas responsáveis pelos mesmos danos, os Estados-Membros podem estabelecer medidas específicas para evitar a duplicação do seguro.\n\n(16) Embora os montantes globais constituam uma prática de mercado reconhecida que pode ser favorável à segurabilidade, designadamente para os riscos de guerra e terrorismo, permitindo às seguradoras um melhor controlo das suas responsabilidades, esta prática não isenta uma transportadora aérea ou um operador de aeronave da obrigação de respeitar os requisitos mínimos de seguro quando o montante global fixado no seu contrato de seguro é atingido.\n\n(17) É necessário exigir que as transportadoras aéreas forneçam prova de que respeitam, em qualquer momento, os requisitos mínimos de seguro para cobertura da responsabilidade estabelecidos no presente regulamento. No que se refere às transportadoras aéreas comunitárias e aos operadores de aeronaves que utilizem aeronaves registadas na Comunidade, a apresentação da prova de seguro num Estado-Membro deve ser suficiente para todos os Estados-Membros, uma vez que o referido seguro foi celebrado por uma empresa autorizada para o efeito ao abrigo da legislação em vigor.\n\n(18) No que respeita aos sobrevoos do território de um Estado-Membro por transportadoras aéreas não comunitárias ou por aeronaves registadas fora da Comunidade, que não envolvam a aterragem ou descolagem no território de um Estado-Membro, qualquer Estado-Membro sobrevoado pode, nos termos do direito internacional, exigir prova do cumprimento dos requisitos de seguro previstos no presente regulamento, procedendo nomeadamente à realização de controlos aleatórios.\n\n(19) Os requisitos mínimos de seguro devem ser revistos após um determinado prazo.\n\n(20) Os procedimentos de controlo da aplicação dos requisitos mínimos de seguro devem ser transparentes e nãodiscriminatórios, não devendo impedir, de forma alguma, a livre circulação de mercadorias, pessoas, serviços e capitais.\n\n(21) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras do exercício das competências de execução atribuídas à Comissão[(6)](http://publications.europa.eu/resource/cellar/dc08be39-6b2e-4344-9cd8-72d827c26286.0010.04/DOC_1#ntr6-L_2004138PT.01000101-E0006).\n\n(22) Os Estados-Membros devem dispor da faculdade de introduzir novas regras para estabelecer uma cobertura adequada da responsabilidade específica da aviação relativamente a pontos não abrangidos pelo presente regulamento, sempre que essas regras se afigurem necessárias.\n\n(23) Em declaração conjunta dos respectivos ministros dos Negócios Estrangeiros, feita em Londres em 2 de Dezembro de 1987, o Reino de Espanha e o Reino Unido chegaram a acordo sobre um regime destinado a cooperar mais estreitamente na utilização do aeroporto de Gibraltar. Tal acordo ainda não começou a ser aplicado.\n\n(24) Dado que os objectivos do presente regulamento, nomeadamente a introdução de requisitos mínimos de seguro, pode contribuir para a realização dos objectivos do mercado interno mediante a redução das distorções de concorrência, não podem ser suficientemente alcançados pelos Estados-Membros e podem por isso, sê-lo de forma mais eficaz a nível comunitário, a Comunidade pode aprovar medidas de acordo com o princípio da subsidariedade tal como consta do artigo 5.o do Tratado. De acordo com o princípio da proporcionalidade, enunciado no mesmo artigo, o presente regulamento limita-se ao mínimo exigido para alcançar esses objectivos,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "0f38b05307a40f1a": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\n1. O presente regulamento tem por objectivo estabelecer requisitos mínimos de seguro para as transportadoras aéreas e operadores de aeronaves em relação a passageiros, bagagens, carga e terceiros.\n\n2. Em relação ao transporte de correio, os requisitos de seguro são os previstos no Regulamento (CEE) n.o 2407/92 e na legislação nacional dos Estados-Membros."
+  },
+  "48429fad96f050cd": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento aplica-se a todas as transportadoras aéreas e a todos os operadores de aeronaves que operam voos no interior do, para, a partir do ou sobre o território de um Estado-Membro, a que é aplicável o Tratado.\n\n2. O presente regulamento não se aplica a:\n\na) Aeronaves do Estado a que se refere a alínea b) do artigo 3.o da Convenção relativa à Aviação Civil Internacional, assinada em Chicago em 7 de Dezembro de 1944;\n\nb) Aeromodelos de MTOM inferior a 20 kg;\n\nc) Aeronaves lançadas por impulso humano (incluindo parapentes e asas delta com motores);\n\nd) Balões cativos;\n\ne) Papagaios;\n\nf) Pára-quedas (incluindo pára-quedas ascensionais rebocados);\n\ng) Aeronaves, incluindo os planadores, com um peso máximo à descolagem (MTOM) inferior a 500 kg, bem como os ultraleves, que — sejam utilizados para fins não comerciais, ou que — sejam utilizados em operações de instrução de voo a nível local que não envolvam o cruzamento de fronteiras internacionais, no que diz respeito às obrigações em matéria de seguros decorrentes do presente regulamento e relacionadas com os riscos de guerra e de terrorismo.\n\n— sejam utilizados para fins não comerciais, ou que\n\n— sejam utilizados em operações de instrução de voo a nível local que\n\n3. A aplicação do presente regulamento ao aeroporto de Gibraltar entende-se sem prejuízo das posições jurídicas do Reino de Espanha e do Reino Unido relativamente ao diferendo sobre a soberania do território em que o aeroporto se encontra situado.\n\n4. A aplicação do presente regulamento a Gibraltar fica suspensa até que seja aplicado o regime previsto na declaração conjunta dos ministros dos Negócios Estrangeiros do Reino de Espanha e do Reino Unido, de 2 de Dezembro de 1987. Os Governos de Espanha e do Reino Unido devem informar o Conselho da data de início de aplicação desse regime."
+  },
+  "d1f4fe654f7aa8e6": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na)\n\nb)\n\nc)\n\nd)\n\n— no que se refere a passageiros e bagagens não despachadas, o período de transporte dos passageiros em aeronave, incluindo o seu embarque e desembarque,\n\n— no que se refere à carga e às bagagens despachadas, o período de transporte das bagagens e da carga desde o momento em que estas são confiadas à transportadora aérea, até ao momento em que são entregues ao legítimo destinatário,\n\n— no que se refere a terceiros, a utilização de uma aeronave desde o momento em que os motores são accionados para circulação na placa ou descolagem até ao em que, na placa, os motores ficam completamente parados; adicionalmente, a deslocação de uma aeronave por reboque e veículos de retromovimento assistido em plataformas de elevação de aeronaves, ou por forças que estão normalmente na origem do impulso e do alteamento de uma aeronave, nomeadamente as correntes atmosféricas;\n\ne)\n\nf)\n\ng)\n\nh)\n\ni)"
+  },
+  "3da2b42a511bba07": {
+   "fragment_id": "Artigo 4.º — Princípios do seguro",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Princípios do seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios do seguro\n\n1. As transportadoras aéreas e os operadores de aeronaves referidos no artigo 2.o devem dispor de um seguro, nos termos do presente regulamento, que cubra a responsabilidade específica da aviação em relação a passageiros, bagagens, carga e terceiros. Os riscos cobertos incluirão actos de guerra, terrorismo, sequestro de aeronaves, actos de sabotagem, apreensão ilícita de aeronaves e distúrbios do foro civil.\n\n2. As transportadoras aéreas e os operadores de aeronaves devem assegurar a existência de uma cobertura mínima de seguro para todos os voos, independentemente do facto de a aeronave utilizada ser sua propriedade ou de se encontrar à sua disposição mediante qualquer acordo de locação, ou mediante um acordo de operações conjuntas, de franchise, de partilha de códigos ou de qualquer outro acordo da mesma natureza.\n\n3. O presente regulamento não prejudica as regras relativas à responsabilidade decorrente:\n\n— de convenções internacionais em que são partes os Estados-Membros e/ou a Comunidade,\n\n— da legislação comunitária, e\n\n— da legislação nacional dos Estados-Membros."
+  },
+  "eea0f70fd6ffcb92": {
+   "fragment_id": "Artigo 5.º — Cumprimento do regulamento",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Cumprimento do regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cumprimento do regulamento\n\n1. As transportadoras aéreas e, quando solicitados, os operadores de aeronaves, a que se refere no artigo 2.o, devem produzir prova do cumprimento dos requisitos de seguro estabelecidos no presente regulamento, depositando junto das autoridades competentes do Estado-Membro em causa, um certificado de seguro ou qualquer outro elemento de prova de seguro válido.\n\n2. Para efeitos do presente artigo, «Estado-Membro em questão» é o Estado-Membro que concede a licença de exploração à transportadora comunitária ou o Estado-Membro em que está registada a aeronave do operador de aeronave. Em relação às transportadoras aéreas não comunitárias e aos operadores de aeronaves que utilizam aeronaves registadas fora da Comunidade, «Estado-Membro em questão» é o Estado-Membro de destino ou de partida dos voos.\n\n3. Em derrogação do n.o 1, os Estados-Membros sobrevoados podem exigir que as transportadoras aéreas e os operadores de aeronaves referidos no artigo 2.o produzam prova da existência de seguro válido nos termos do presente regulamento.\n\n4. Em relação às transportadoras aéreas comunitárias e aos operadores de aeronaves que utilizam aeronaves registadas na Comunidade, o depósito da prova de seguro no Estado-Membro a que se refere o n.o 2 é suficiente para todos os Estados-Membros, sem prejuízo da aplicação do n.o 6 do artigo 8.o\n\n5. Em casos excepcionais de ruptura do mercado segurador, a Comissão pode determinar, de acordo com o procedimento previsto no n.o 2 do artigo 9.o, as medidas adequadas para a aplicação do n.o 1."
+  },
+  "5341f7c2f606fcc3": {
+   "fragment_id": "Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga\n\n1. No que respeita à responsabilidade por passageiros, a cobertura mínima do seguro é de 250 000 DSE por passageiro. No entanto, no que se refere a operações não comerciais de aeronaves de MTOM igual ou inferior a 2 700 kg, os Estados-Membros podem fixar uma cobertura mínima do seguro inferior, desde que essa cobertura seja de pelo menos 100 000 DSE por passageiro.\n\n2. No que respeita à responsabilidade por bagagens, a cobertura mínima do seguro é de 1 000 DSE por passageiro em operações comerciais.\n\n3. No que respeita à responsabilidade por danos da carga, destruição, perda ou atraso na entrega desta, a cobertura mínima do seguro é de 17 DSE por quilograma em operações comerciais.\n\n4. Os n.os 1, 2 e 3 não se aplicam aos voos sobre o território dos Estados-Membros, efectuados por transportadoras aéreas não comunitárias e por operadores de aeronaves que utilizem aeronaves registadas fora da Comunidade, que não envolvam a aterragem ou a descolagem no referido território.\n\n5. Em conformidade com o procedimento previsto no n.o 2 do artigo 9.o e sempre que necessário, os montantes referidos no presente artigo podem ser modificados quando as alterações dos acordos internacionais relevantes o justifiquem."
+  },
+  "08805edf2bb441e5": {
+   "fragment_id": "Artigo 7.º — Seguro relativo à responsabilidade por terceiros",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Seguro relativo à responsabilidade por terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Seguro relativo à responsabilidade por terceiros\n\n1. No que diz respeito à responsabilidade por terceiros, é a seguinte a cobertura mínima do seguro por acidente, para qualquer aeronave:\n\n| Categoria | MTOM (kg) | Seguro mínimo (milhões de DSE) |\n| --- | --- | --- |\n| 1 | < 500 | 0,75 |\n| 2 | < 1 000 | 1,5 |\n| 3 | < 2 700 | 3 |\n| 4 | < 6 000 | 7 |\n| 5 | < 12 000 | 18 |\n| 6 | < 25 000 | 80 |\n| 7 | < 50 000 | 150 |\n| 8 | < 200 000 | 300 |\n| 9 | < 500 000 | 500 |\n| 10 | ≥ 500 000 | 700 |\n\nSe, em qualquer momento, um seguro para cobertura de danos a terceiros devido a risco de actos de guerra ou terrorismo não estiver disponível para que a transportadora aérea ou operador de aeronave, numa base por acidente, a referida transportadora aérea ou operador de aeronave pode cumprir a sua obrigação subscrevendo um seguro numa base global. A Comissão acompanhará de perto a aplicação desta disposição a fim de garantir que esse montante global seja pelo menos equivalente ao montante correspondente fixado na tabela.\n\n2. Os valores referidos no presente artigo podem ser modificados, sempre que necessário, quando alterações dos acordos internacionais relevantes justificarem a necessidade de tal modificação, de acordo com o procedimento estabelecido no n.o 2 do artigo 9.o"
+  },
+  "dca31aac567c69bd": {
+   "fragment_id": "Artigo 8.º — Execução e sanções",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Execução e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Execução e sanções\n\n1. Os Estados-Membros devem garantir o cumprimento do disposto no presente regulamento pelas transportadoras aéreas e operadores de aeronaves a que se refere o artigo 2.o\n\n2. Para efeitos do n.o 1 e sem prejuízo do n.o 7, no que respeita aos sobrevoos por transportadoras aéreas não comunitárias ou por aeronaves registadas fora da Comunidade, que não envolvam a aterragem ou descolagem no território de um Estado-Membro, bem como no que se refere às escalas efectuadas por essas aeronaves em Estados-Membros para fins não comerciais, o Estado-Membro em questão pode exigir que lhe seja apresentada prova do cumprimento dos requisitos mínimos de seguro previstos no presente regulamento.\n\n3. Se necessário, os Estados-Membros podem solicitar à transportadora aérea, ao operador da aeronave ou à seguradora em causa a apresentação de provas suplementares.\n\n4. Os Estados-Membros devem instituir um sistema de sanções por infracções ao presente regulamento. Estas sanções devem ser eficazes, proporcionais e dissuasoras.\n\n5. Em relação às transportadoras aéreas comunitárias, estas sanções podem incluir a cancelamento da licença de exploração, nos termos das disposições aplicáveis da legislação comunitária.\n\n6. Em relação às transportadoras aéreas não comunitárias e aos operadores de aeronaves que utilizem aeronaves registadas fora da Comunidade, as sanções podem incluir a recusa de aterragem no território de um Estado-Membro.\n\n7. Sempre que os Estados-Membros considerarem que as condições estabelecidas no presente regulamento não são respeitadas, não devem autorizar a descolagem da aeronave, excepto no caso de a transportadora aérea ou o operador da aeronave em causa terem apresentado prova de um seguro adequado, de acordo com o presente regulamento."
+  },
+  "f821e98877a519d0": {
+   "fragment_id": "Artigo 9.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimento de comité\n\n1. A Comissão será assistida pelo comité instituído no artigo 11.o do Regulamento (CEE) n.o 2408/92, de 23 de Julho de 2003, relativo ao acesso das transportadoras aéreas comunitárias às rotas aéreas intracomunitárias[(7)](http://publications.europa.eu/resource/cellar/dc08be39-6b2e-4344-9cd8-72d827c26286.0010.04/DOC_1#ntr7-L_2004138PT.01000101-E0007).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.o\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno.\n\n4. O comité pode, além disso, ser consultado pela Comissão sobre qualquer outra matéria relacionada com a aplicação do presente regulamento."
+  },
+  "f19bc3428ea3287e": {
+   "fragment_id": "Artigo 10.º — Relatório e cooperação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Relatório e cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Relatório e cooperação\n\n1. A Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do presente regulamento, até 30 de Abril de 2008.\n\n2. Mediante pedido, os Estados-Membros devem fornecer à Comissão informações sobre a aplicação do presente regulamento."
+  },
+  "0a7d004750478245": {
+   "fragment_id": "Artigo 11.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente regulamento entra em vigor 12 meses após a data da sua publicação no Jornal Oficial da União Europeia.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Estrasburgo, em 21 de Abril de 2004.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nP. COX\n\nPelo Conselho\n\nO Presidente\n\nD. ROCHE\n\n[(1)](http://publications.europa.eu/resource/cellar/dc08be39-6b2e-4344-9cd8-72d827c26286.0010.04/DOC_1#ntc1-L_2004138PT.01000101-E0001) [JO C 20 E de 28.1.2003, p. 193](http://publications.europa.eu/resource/oj/JOC_2003_020_E_TOC).\n\n[(2)](http://publications.europa.eu/resource/cellar/dc08be39-6b2e-4344-9cd8-72d827c26286.0010.04/DOC_1#ntc2-L_2004138PT.01000101-E0002) [JO C 95 de 23.4.2003, p. 16](http://publications.europa.eu/resource/oj/JOC_2003_095_R_TOC).\n\n[(3)](http://publications.europa.eu/resource/cellar/dc08be39-6b2e-4344-9cd8-72d827c26286.0010.04/DOC_1#ntc3-L_2004138PT.01000101-E0003) Parecer do Parlamento Europeu de 13 de Maio de 2003 (ainda não publicado no Jornal Oficial), posição comum do Conselho de 5 de Dezembro de 2003 ([JO C 54 E de 2.3.2004, p. 40](http://publications.europa.eu/resource/oj/JOC_2004_054_E_TOC)), posição do Parlamento Europeu de 11 de Março de 2004 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 30 de Março de 2004.\n\n[(4)](http://publications.europa.eu/resource/cellar/dc08be39-6b2e-4344-9cd8-72d827c26286.0010.04/DOC_1#ntc4-L_2004138PT.01000101-E0004) [JO L 194 de 18.7.2001, p. 38](http://publications.europa.eu/resource/oj/JOL_2001_194_R_TOC).\n\n[(5)](http://publications.europa.eu/resource/cellar/dc08be39-6b2e-4344-9cd8-72d827c26286.0010.04/DOC_1#ntc5-L_2004138PT.01000101-E0005) [JO L 240 de 24.8.1992, p. 1](http://publications.europa.eu/resource/oj/JOL_1992_240_R_TOC).\n\n[(6)](http://publications.europa.eu/resource/cellar/dc08be39-6b2e-4344-9cd8-72d827c26286.0010.04/DOC_1#ntc6-L_2004138PT.01000101-E0006) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC) (rectificação na JO L 269 de 19.10.1999, p. 45).\n\n[(7)](http://publications.europa.eu/resource/cellar/dc08be39-6b2e-4344-9cd8-72d827c26286.0010.04/DOC_1#ntc7-L_2004138PT.01000101-E0007) [JO L 240 de 24.8.1992, p. 8](http://publications.europa.eu/resource/oj/JOL_1992_240_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1882/2003 do Parlamento Europeu e do Conselho ([JO L 284 de 31.10.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_284_R_TOC))."
+  },
+  "4be11bd057f2c083": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Abril de 2004\n\nrelativo aos requisitos de seguro para transportadoras aéreas e operadores de aeronaves\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 2 do artigo 80.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/55a552e2-62fe-4609-bff9-d4ab440ee7b8.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/55a552e2-62fe-4609-bff9-d4ab440ee7b8.0018.03/DOC_1#E0002)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/55a552e2-62fe-4609-bff9-d4ab440ee7b8.0018.03/DOC_1#E0003)),\n\n(1) No quadro da política comum de transportes, e a fim de promover a protecção dos consumidores, é importante garantir um nível mínimo de seguro adequado para cobrir a responsabilidade das transportadoras aéreas em relação a passageiros, bagagens, carga e terceiros.\n\n(2) No mercado comunitário da aviação, a distinção entre transporte aéreo nacional e internacional foi suprimida, sendo, por conseguinte, conveniente prever requisitos mínimos de seguro para as transportadoras aéreas comunitárias.\n\n(3) É necessária uma actuação comum para garantir que esses requisitos se apliquem igualmente às transportadoras aéreas de países terceiros, de modo a assegurar condições equitativas de concorrência com as transportadoras aéreas comunitárias.\n\n(4) Na sua comunicação de 10 de Outubro de 2001 relativa às consequências para o sector do transporte aéreo dos atentados terroristas nos Estados Unidos, a Comissão anunciou a sua intenção de analisar os montantes e as condições de seguro exigidos para a concessão de licenças de exploração por parte dos Estados-Membros, com o objectivo de assegurar uma abordagem harmonizada. A Comissão declarou igualmente, na sua comunicação de 2 de Julho de 2002, sobre os seguros no sector do transporte aéreo, na sequência dos atentados terroristas de 11 de Setembro de 2001 nos Estados Unidos, que iria continuar a acompanhar a evolução no mercado dos seguros da aviação no que se refere à revisão dos montantes e das condições do seguro exigidos para a concessão de licenças de exploração por parte dos Estados-Membros.\n\n(5) Pela sua Decisão 2001/539/CE do Conselho ([^4^](http://publications.europa.eu/resource/cellar/55a552e2-62fe-4609-bff9-d4ab440ee7b8.0018.03/DOC_1#E0004)), a Comunidade assinou a Convenção de Montreal para a unificação de certas regras relativas ao transporte aéreo internacional, aprovada em 28 de Maio de 1999, em Montreal, («Convenção de Montreal»), que estabeleceu novas regras relativas à responsabilidade em caso de acidente no transporte aéreo internacional de pessoas, bagagens e carga. Espera-se que tais regras substituam as estabelecidas na Convenção de Varsóvia de 1929 e subsequentes alterações.\n\n(6) O artigo 50.º da Convenção de Montreal impõe às partes a obrigação de garantir que as transportadoras aéreas disponham de um seguro adequado para cobrir as responsabilidades decorrentes dessa convenção. A Convenção de Varsóvia de 1929 e suas subsequentes alterações continuarão em vigor a par da Convenção de Montreal por um prazo indeterminado; ambas as convenções prevêem a possibilidade de responsabilidade ilimitada.\n\n(7) O artigo 7.º do Regulamento (CEE) n.º 2407/92 do Conselho, de 23 de Julho de 1992, relativo à concessão de licenças às transportadoras aéreas ([^5^](http://publications.europa.eu/resource/cellar/55a552e2-62fe-4609-bff9-d4ab440ee7b8.0018.03/DOC_1#E0005)) impõe a estas a subscrição de um seguro que cubra a responsabilidade em caso de acidente, em especial relativamente a passageiros, bagagens, carga, correio e terceiros sem, no entanto, especificar montantes mínimos nem condições de seguro.\n\n(8) Convém ter em conta que a Conferência Europeia da Aviação Civil adoptou, em 13 de Dezembro de 2000, a resolução CEAC/25-1 sobre os níveis mínimos da cobertura do seguro de responsabilidade civil relativamente a passageiros e a terceiros, que foi alterada em 27 de Novembro de 2002.\n\n(9) É necessário definir requisitos mínimos de seguro para cobrir os passageiros, as bagagens, a carga e terceiros, aplicáveis a transportadoras aéreas e operadores de aeronaves que operam voos no interior de, para, a partir de, ou sobre o território de um Estado-Membro, incluindo as respectivas águas territoriais.\n\n(10) As obrigações de seguro devem recair sobre as transportadoras aéreas que possuem uma licença de exploração válida, e no caso de transportadoras aéreas comunitárias uma licença de exploração concedida nos termos do Regulamento (CEE) n.º 2407/92. A ausência ou expiração da referida licença não liberta a empresa dessa obrigação.\n\n(11) Embora a Convenção de Montreal regulamente especificamente a responsabilidade em relação a passageiros, bagagens e carga, a responsabilidade em relação ao correio está sujeita, nos termos do artigo 2.º da convenção, a «regras aplicáveis à relação entre as transportadoras e as administrações postais». Na Comunidade, o seguro de responsabilidade nesta matéria encontra-se suficientemente regulamentado no artigo 7.º do Regulamento (CEE) n.º 2407/92.\n\n(12) Não deve ser exigido um seguro obrigatório às aeronaves do Estado e a certos outros tipos de aeronaves.\n\n(13) A cobertura mínima de seguro deve ser prevista em situações em que uma transportadora aérea ou um operador de aeronave seja responsável por passageiros, bagagens, carga e terceiros, nos termos das regras constantes das convenções internacionais, do direito comunitário ou do direito nacional, sem interferir com as referidas regras.\n\n(14) O seguro deve cobrir a responsabilidade específica da aviação em relação a passageiros, bagagens, carga e terceiros. No que se refere a passageiros, bagagens e carga, o seguro deve cobrir os casos de morte e de lesões corporais causadas por acidentes bem como os casos de perda, destruição ou danos de bagagens e carga. No tocante a terceiros, o seguro deve cobrir os casos de morte, lesões corporais e danos causados a bens por acidentes.\n\n(15) O presente regulamento não deve ser interpretado no sentido de exigir uma duplicação do seguro. Na medida em que a transportadora contratual e a transportadora de facto na acepção do artigo 39.º da Convenção de Montreal possam ser declaradas responsáveis pelos mesmos danos, os Estados-Membros podem estabelecer medidas específicas para evitar a duplicação do seguro.\n\n(16) Embora os montantes globais constituam uma prática de mercado reconhecida que pode ser favorável à segurabilidade, designadamente para os riscos de guerra e terrorismo, permitindo às seguradoras um melhor controlo das suas responsabilidades, esta prática não isenta uma transportadora aérea ou um operador de aeronave da obrigação de respeitar os requisitos mínimos de seguro quando o montante global fixado no seu contrato de seguro é atingido.\n\n(17) É necessário exigir que as transportadoras aéreas forneçam prova de que respeitam, em qualquer momento, os requisitos mínimos de seguro para cobertura da responsabilidade estabelecidos no presente regulamento. No que se refere às transportadoras aéreas comunitárias e aos operadores de aeronaves que utilizem aeronaves registadas na Comunidade, a apresentação da prova de seguro num Estado-Membro deve ser suficiente para todos os Estados-Membros, uma vez que o referido seguro foi celebrado por uma empresa autorizada para o efeito ao abrigo da legislação em vigor.\n\n(18) No que respeita aos sobrevoos do território de um Estado-Membro por transportadoras aéreas não comunitárias ou por aeronaves registadas fora da Comunidade, que não envolvam a aterragem ou descolagem no território de um Estado-Membro, qualquer Estado-Membro sobrevoado pode, nos termos do direito internacional, exigir prova do cumprimento dos requisitos de seguro previstos no presente regulamento, procedendo nomeadamente à realização de controlos aleatórios.\n\n(19) Os requisitos mínimos de seguro devem ser revistos após um determinado prazo.\n\n(20) Os procedimentos de controlo da aplicação dos requisitos mínimos de seguro devem ser transparentes e nãodiscriminatórios, não devendo impedir, de forma alguma, a livre circulação de mercadorias, pessoas, serviços e capitais.\n\n(21) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras do exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/55a552e2-62fe-4609-bff9-d4ab440ee7b8.0018.03/DOC_1#E0006)).\n\n(22) Os Estados-Membros devem dispor da faculdade de introduzir novas regras para estabelecer uma cobertura adequada da responsabilidade específica da aviação relativamente a pontos não abrangidos pelo presente regulamento, sempre que essas regras se afigurem necessárias.\n\n(23) Em declaração conjunta dos respectivos ministros dos Negócios Estrangeiros, feita em Londres em 2 de Dezembro de 1987, o Reino de Espanha e o Reino Unido chegaram a acordo sobre um regime destinado a cooperar mais estreitamente na utilização do aeroporto de Gibraltar. Tal acordo ainda não começou a ser aplicado.\n\n(24) Dado que os objectivos do presente regulamento, nomeadamente a introdução de requisitos mínimos de seguro, pode contribuir para a realização dos objectivos do mercado interno mediante a redução das distorções de concorrência, não podem ser suficientemente alcançados pelos Estados-Membros e podem por isso, sê-lo de forma mais eficaz a nível comunitário, a Comunidade pode aprovar medidas de acordo com o princípio da subsidariedade tal como consta do artigo 5.º do Tratado. De acordo com o princípio da proporcionalidade, enunciado no mesmo artigo, o presente regulamento limita-se ao mínimo exigido para alcançar esses objectivos,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "bc7ef30952872db0": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\n1. O presente regulamento tem por objectivo estabelecer requisitos mínimos de seguro para as transportadoras aéreas e operadores de aeronaves em relação a passageiros, bagagens, carga e terceiros.\n\n2. Em relação ao transporte de correio, os requisitos de seguro são os previstos no Regulamento (CEE) n.º 2407/92 e na legislação nacional dos Estados-Membros."
+  },
+  "49cea1ade1612dff": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento aplica-se a todas as transportadoras aéreas e a todos os operadores de aeronaves que operam voos no interior do, para, a partir do ou sobre o território de um Estado-Membro, a que é aplicável o Tratado.\n\n2. O presente regulamento não se aplica a:\n\na) Aeronaves do Estado a que se refere a alínea b) do artigo 3.º da Convenção relativa à Aviação Civil Internacional, assinada em Chicago em 7 de Dezembro de 1944;\n\nb) Aeromodelos de MTOM inferior a 20 kg;\n\nc) Aeronaves lançadas por impulso humano (incluindo parapentes e asas delta com motores);\n\nd) Balões cativos;\n\ne) Papagaios;\n\nf) Pára-quedas (incluindo pára-quedas ascensionais rebocados);\n\ng) Aeronaves, incluindo os planadores, com um peso máximo à descolagem (MTOM) inferior a 500 kg, bem como os ultraleves, que\n\n— sejam utilizados para fins não comerciais, ou que\n\n— sejam utilizados em operações de instrução de voo a nível local que\n\n3. A aplicação do presente regulamento ao aeroporto de Gibraltar entende-se sem prejuízo das posições jurídicas do Reino de Espanha e do Reino Unido relativamente ao diferendo sobre a soberania do território em que o aeroporto se encontra situado.\n\n4. A aplicação do presente regulamento a Gibraltar fica suspensa até que seja aplicado o regime previsto na declaração conjunta dos ministros dos Negócios Estrangeiros do Reino de Espanha e do Reino Unido, de 2 de Dezembro de 1987. Os Governos de Espanha e do Reino Unido devem informar o Conselho da data de início de aplicação desse regime."
+  },
+  "510f50c727ef73a2": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Transportadora aérea»uma empresa de transporte aéreo titular de uma licença de exploração válida;\n\nb) «Transportadora aérea comunitária»uma transportadora aérea titular de uma licença de exploração válida concedida por um Estado-Membro nos termos do Regulamento (CEE) n.º 2407/92;\n\nc) «Operador de aeronave»a pessoa ou entidade, que não seja uma transportadora aérea, que disponha de forma contínua e real da utilização ou exploração da aeronave; presume que o operador é a pessoa singular ou colectiva em cujo nome está registada a aeronave, a menos que aquela possa provar que o operador é outra pessoa;\n\nd) «Voo» — no que se refere a passageiros e bagagens não despachadas, o período de transporte dos passageiros em aeronave, incluindo o seu embarque e desembarque, — no que se refere à carga e às bagagens despachadas, o período de transporte das bagagens e da carga desde o momento em que estas são confiadas à transportadora aérea, até ao momento em que são entregues ao legítimo destinatário, — no que se refere a terceiros, a utilização de uma aeronave desde o momento em que os motores são accionados para circulação na placa ou descolagem até ao em que, na placa, os motores ficam completamente parados; adicionalmente, a deslocação de uma aeronave por reboque e veículos de retromovimento assistido em plataformas de elevação de aeronaves, ou por forças que estão normalmente na origem do impulso e do alteamento de uma aeronave, nomeadamente as correntes atmosféricas;\n\ne) «DSE»os direitos de saque especiais, tal como definidos pelo Fundo Monetário Internacional;\n\nf) «MTOM»a massa máxima à descolagem («Maximum Take Off Mass»), que corresponde a um valor certificado específico de cada tipo de aeronave, constante do certificado de aeronavegabilidade da aeronave;\n\ng) «Passageiro»qualquer pessoa que efectua um voo com o consentimento da transportadora aérea ou do operador de aeronave, excluindo os elementos do pessoal de voo e de cabine em serviço no voo em questão;\n\nh) «Terceiro»qualquer pessoa colectiva ou singular, com excepção dos passageiros e dos elementos do pessoal de voo e de cabine em serviço no voo em questão;\n\ni) «Operação comercial»uma operação contra remuneração e/ou aluguer."
+  },
+  "edd76c06b3a92560": {
+   "fragment_id": "Artigo 4.º — Princípios do seguro",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Princípios do seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios do seguro\n\n1. As transportadoras aéreas e os operadores de aeronaves referidos no artigo 2.º devem dispor de um seguro, nos termos do presente regulamento, que cubra a responsabilidade específica da aviação em relação a passageiros, bagagens, carga e terceiros. Os riscos cobertos incluirão actos de guerra, terrorismo, sequestro de aeronaves, actos de sabotagem, apreensão ilícita de aeronaves e distúrbios do foro civil.\n\n2. As transportadoras aéreas e os operadores de aeronaves devem assegurar a existência de uma cobertura mínima de seguro para todos os voos, independentemente do facto de a aeronave utilizada ser sua propriedade ou de se encontrar à sua disposição mediante qualquer acordo de locação, ou mediante um acordo de operações conjuntas, de *franchise*, de partilha de códigos ou de qualquer outro acordo da mesma natureza.\n\n3. O presente regulamento não prejudica as regras relativas à responsabilidade decorrente:\n\n— de convenções internacionais em que são partes os Estados-Membros e/ou a Comunidade,\n\n— da legislação comunitária, e\n\n— da legislação nacional dos Estados-Membros."
+  },
+  "24c520729ad917e2": {
+   "fragment_id": "Artigo 5.º — Cumprimento do regulamento",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Cumprimento do regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cumprimento do regulamento\n\n1. As transportadoras aéreas e, quando solicitados, os operadores de aeronaves, a que se refere no artigo 2.º, devem produzir prova do cumprimento dos requisitos de seguro estabelecidos no presente regulamento, depositando junto das autoridades competentes do Estado-Membro em causa, um certificado de seguro ou qualquer outro elemento de prova de seguro válido.\n\n2. Para efeitos do presente artigo, «Estado-Membro em questão» é o Estado-Membro que concede a licença de exploração à transportadora comunitária ou o Estado-Membro em que está registada a aeronave do operador de aeronave. Em relação às transportadoras aéreas não comunitárias e aos operadores de aeronaves que utilizam aeronaves registadas fora da Comunidade, «Estado-Membro em questão» é o Estado-Membro de destino ou de partida dos voos.\n\n3. Em derrogação do n.º 1, os Estados-Membros sobrevoados podem exigir que as transportadoras aéreas e os operadores de aeronaves referidos no artigo 2.º produzam prova da existência de seguro válido nos termos do presente regulamento.\n\n4. Em relação às transportadoras aéreas comunitárias e aos operadores de aeronaves que utilizam aeronaves registadas na Comunidade, o depósito da prova de seguro no Estado-Membro a que se refere o n.º 2 é suficiente para todos os Estados-Membros, sem prejuízo da aplicação do n.º 6 do artigo 8.º\n\n5. Em casos excepcionais de ruptura do mercado segurador, a Comissão pode determinar, de acordo com o procedimento previsto no n.º 2 do artigo 9.º, as medidas adequadas para a aplicação do n.º 1."
+  },
+  "b3d72cc0cae63ac6": {
+   "fragment_id": "Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga\n\n1. No que respeita à responsabilidade por passageiros, a cobertura mínima do seguro é de 250 000 DSE por passageiro. No entanto, no que se refere a operações não comerciais de aeronaves de MTOM igual ou inferior a 2 700 kg, os Estados-Membros podem fixar uma cobertura mínima do seguro inferior, desde que essa cobertura seja de pelo menos 100 000 DSE por passageiro.\n\n2. No que respeita à responsabilidade por bagagens, a cobertura mínima do seguro é de 1 000 DSE por passageiro em operações comerciais.\n\n3. No que respeita à responsabilidade por danos da carga, destruição, perda ou atraso na entrega desta, a cobertura mínima do seguro é de 17 DSE por quilograma em operações comerciais.\n\n4. Os n.^os^ 1, 2 e 3 não se aplicam aos voos sobre o território dos Estados-Membros, efectuados por transportadoras aéreas não comunitárias e por operadores de aeronaves que utilizem aeronaves registadas fora da Comunidade, que não envolvam a aterragem ou a descolagem no referido território.\n\n5. Os montantes referidos no presente artigo podem ser modificados quando as alterações dos acordos internacionais relevantes o justifiquem. Essas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 9.º."
+  },
+  "f2389649a96b1191": {
+   "fragment_id": "Artigo 7.º — Seguro relativo à responsabilidade por terceiros",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Seguro relativo à responsabilidade por terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Seguro relativo à responsabilidade por terceiros\n\n| Categoria | MTOM (kg) | Seguro mínimo (milhões de DSE) |\n| --- | --- | --- |\n| 1 | < 500 | 0,75 |\n| 2 | < 1000 | 1,5 |\n| 3 | < 2700 | 3 |\n| 4 | < 6000 | 7 |\n| 5 | < 12000 | 18 |\n| 6 | < 25000 | 80 |\n| 7 | < 50000 | 150 |\n| 8 | < 200000 | 300 |\n| 9 | < 500000 | 500 |\n| 10 | ≥ 500000 | 700 |\n\nSe, em qualquer momento, um seguro para cobertura de danos a terceiros devido a risco de actos de guerra ou terrorismo não estiver disponível para que a transportadora aérea ou operador de aeronave, numa base por acidente, a referida transportadora aérea ou operador de aeronave pode cumprir a sua obrigação subscrevendo um seguro numa base global. A Comissão acompanhará de perto a aplicação desta disposição a fim de garantir que esse montante global seja pelo menos equivalente ao montante correspondente fixado na tabela.\n\n2. Os valores referidos no presente artigo podem ser modificados, sempre que necessário, quando alterações dos acordos internacionais relevantes justificarem a necessidade de tal modificação. Essas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 9.º."
+  },
+  "5f323b4e83466b41": {
+   "fragment_id": "Artigo 8.º — Execução e sanções",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Execução e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Execução e sanções\n\n1. Os Estados-Membros devem garantir o cumprimento do disposto no presente regulamento pelas transportadoras aéreas e operadores de aeronaves a que se refere o artigo 2.º\n\n2. Para efeitos do n.º 1 e sem prejuízo do n.º 7, no que respeita aos sobrevoos por transportadoras aéreas não comunitárias ou por aeronaves registadas fora da Comunidade, que não envolvam a aterragem ou descolagem no território de um Estado-Membro, bem como no que se refere às escalas efectuadas por essas aeronaves em Estados-Membros para fins não comerciais, o Estado-Membro em questão pode exigir que lhe seja apresentada prova do cumprimento dos requisitos mínimos de seguro previstos no presente regulamento.\n\n3. Se necessário, os Estados-Membros podem solicitar à transportadora aérea, ao operador da aeronave ou à seguradora em causa a apresentação de provas suplementares.\n\n4. Os Estados-Membros devem instituir um sistema de sanções por infracções ao presente regulamento. Estas sanções devem ser eficazes, proporcionais e dissuasoras.\n\n5. Em relação às transportadoras aéreas comunitárias, estas sanções podem incluir a cancelamento da licença de exploração, nos termos das disposições aplicáveis da legislação comunitária.\n\n6. Em relação às transportadoras aéreas não comunitárias e aos operadores de aeronaves que utilizem aeronaves registadas fora da Comunidade, as sanções podem incluir a recusa de aterragem no território de um Estado-Membro.\n\n7. Sempre que os Estados-Membros considerarem que as condições estabelecidas no presente regulamento não são respeitadas, não devem autorizar a descolagem da aeronave, excepto no caso de a transportadora aérea ou o operador da aeronave em causa terem apresentado prova de um seguro adequado, de acordo com o presente regulamento."
+  },
+  "51d5fdf22906bf28": {
+   "fragment_id": "Artigo 9.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimento de comité\n\n1. A Comissão será assistida pelo comité instituído no artigo 11.º do Regulamento (CEE) n.º 2408/92, de 23 de Julho de 2003, relativo ao acesso das transportadoras aéreas comunitárias às rotas aéreas intracomunitárias ([^7^](http://publications.europa.eu/resource/cellar/55a552e2-62fe-4609-bff9-d4ab440ee7b8.0018.03/DOC_1#E0007)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\n4. O comité pode, além disso, ser consultado pela Comissão sobre qualquer outra matéria relacionada com a aplicação do presente regulamento."
+  },
+  "cc6b189d798f605c": {
+   "fragment_id": "Artigo 11.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente regulamento entra em vigor 12 meses após a data da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "cc86c0d4b198d0df": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/55a552e2-62fe-4609-bff9-d4ab440ee7b8.0018.03/DOC_1#src.E0001)) JO C 20 E de 28.1.2003, p. 193.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/55a552e2-62fe-4609-bff9-d4ab440ee7b8.0018.03/DOC_1#src.E0002)) JO C 95 de 23.4.2003, p. 16.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/55a552e2-62fe-4609-bff9-d4ab440ee7b8.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 13 de Maio de 2003 (ainda não publicado no Jornal Oficial), posição comum do Conselho de 5 de Dezembro de 2003 (JO C 54 E de 2.3.2004, p. 40), posição do Parlamento Europeu de 11 de Março de 2004 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 30 de Março de 2004.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/55a552e2-62fe-4609-bff9-d4ab440ee7b8.0018.03/DOC_1#src.E0004)) JO L 194 de 18.7.2001, p. 38.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/55a552e2-62fe-4609-bff9-d4ab440ee7b8.0018.03/DOC_1#src.E0005)) JO L 240 de 24.8.1992, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/55a552e2-62fe-4609-bff9-d4ab440ee7b8.0018.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23 (rectificação na JO L 269 de 19.10.1999, p. 45).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/55a552e2-62fe-4609-bff9-d4ab440ee7b8.0018.03/DOC_1#src.E0007)) JO L 240 de 24.8.1992, p. 8. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1)."
+  },
+  "4132c8d0d2fcc0bd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Abril de 2004\n\nrelativo aos requisitos de seguro para transportadoras aéreas e operadores de aeronaves\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 2 do artigo 80.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/68ebf20b-4878-4452-8052-ab817104147c.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/68ebf20b-4878-4452-8052-ab817104147c.0018.03/DOC_1#E0002)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/68ebf20b-4878-4452-8052-ab817104147c.0018.03/DOC_1#E0003)),\n\n(1) No quadro da política comum de transportes, e a fim de promover a protecção dos consumidores, é importante garantir um nível mínimo de seguro adequado para cobrir a responsabilidade das transportadoras aéreas em relação a passageiros, bagagens, carga e terceiros.\n\n(2) No mercado comunitário da aviação, a distinção entre transporte aéreo nacional e internacional foi suprimida, sendo, por conseguinte, conveniente prever requisitos mínimos de seguro para as transportadoras aéreas comunitárias.\n\n(3) É necessária uma actuação comum para garantir que esses requisitos se apliquem igualmente às transportadoras aéreas de países terceiros, de modo a assegurar condições equitativas de concorrência com as transportadoras aéreas comunitárias.\n\n(4) Na sua comunicação de 10 de Outubro de 2001 relativa às consequências para o sector do transporte aéreo dos atentados terroristas nos Estados Unidos, a Comissão anunciou a sua intenção de analisar os montantes e as condições de seguro exigidos para a concessão de licenças de exploração por parte dos Estados-Membros, com o objectivo de assegurar uma abordagem harmonizada. A Comissão declarou igualmente, na sua comunicação de 2 de Julho de 2002, sobre os seguros no sector do transporte aéreo, na sequência dos atentados terroristas de 11 de Setembro de 2001 nos Estados Unidos, que iria continuar a acompanhar a evolução no mercado dos seguros da aviação no que se refere à revisão dos montantes e das condições do seguro exigidos para a concessão de licenças de exploração por parte dos Estados-Membros.\n\n(5) Pela sua Decisão 2001/539/CE do Conselho ([^4^](http://publications.europa.eu/resource/cellar/68ebf20b-4878-4452-8052-ab817104147c.0018.03/DOC_1#E0004)), a Comunidade assinou a Convenção de Montreal para a unificação de certas regras relativas ao transporte aéreo internacional, aprovada em 28 de Maio de 1999, em Montreal, («Convenção de Montreal»), que estabeleceu novas regras relativas à responsabilidade em caso de acidente no transporte aéreo internacional de pessoas, bagagens e carga. Espera-se que tais regras substituam as estabelecidas na Convenção de Varsóvia de 1929 e subsequentes alterações.\n\n(6) O artigo 50.º da Convenção de Montreal impõe às partes a obrigação de garantir que as transportadoras aéreas disponham de um seguro adequado para cobrir as responsabilidades decorrentes dessa convenção. A Convenção de Varsóvia de 1929 e suas subsequentes alterações continuarão em vigor a par da Convenção de Montreal por um prazo indeterminado; ambas as convenções prevêem a possibilidade de responsabilidade ilimitada.\n\n(7) O artigo 7.º do Regulamento (CEE) n.º 2407/92 do Conselho, de 23 de Julho de 1992, relativo à concessão de licenças às transportadoras aéreas ([^5^](http://publications.europa.eu/resource/cellar/68ebf20b-4878-4452-8052-ab817104147c.0018.03/DOC_1#E0005)) impõe a estas a subscrição de um seguro que cubra a responsabilidade em caso de acidente, em especial relativamente a passageiros, bagagens, carga, correio e terceiros sem, no entanto, especificar montantes mínimos nem condições de seguro.\n\n(8) Convém ter em conta que a Conferência Europeia da Aviação Civil adoptou, em 13 de Dezembro de 2000, a resolução CEAC/25-1 sobre os níveis mínimos da cobertura do seguro de responsabilidade civil relativamente a passageiros e a terceiros, que foi alterada em 27 de Novembro de 2002.\n\n(9) É necessário definir requisitos mínimos de seguro para cobrir os passageiros, as bagagens, a carga e terceiros, aplicáveis a transportadoras aéreas e operadores de aeronaves que operam voos no interior de, para, a partir de, ou sobre o território de um Estado-Membro, incluindo as respectivas águas territoriais.\n\n(10) As obrigações de seguro devem recair sobre as transportadoras aéreas que possuem uma licença de exploração válida, e no caso de transportadoras aéreas comunitárias uma licença de exploração concedida nos termos do Regulamento (CEE) n.º 2407/92. A ausência ou expiração da referida licença não liberta a empresa dessa obrigação.\n\n(11) Embora a Convenção de Montreal regulamente especificamente a responsabilidade em relação a passageiros, bagagens e carga, a responsabilidade em relação ao correio está sujeita, nos termos do artigo 2.º da convenção, a «regras aplicáveis à relação entre as transportadoras e as administrações postais». Na Comunidade, o seguro de responsabilidade nesta matéria encontra-se suficientemente regulamentado no artigo 7.º do Regulamento (CEE) n.º 2407/92.\n\n(12) Não deve ser exigido um seguro obrigatório às aeronaves do Estado e a certos outros tipos de aeronaves.\n\n(13) A cobertura mínima de seguro deve ser prevista em situações em que uma transportadora aérea ou um operador de aeronave seja responsável por passageiros, bagagens, carga e terceiros, nos termos das regras constantes das convenções internacionais, do direito comunitário ou do direito nacional, sem interferir com as referidas regras.\n\n(14) O seguro deve cobrir a responsabilidade específica da aviação em relação a passageiros, bagagens, carga e terceiros. No que se refere a passageiros, bagagens e carga, o seguro deve cobrir os casos de morte e de lesões corporais causadas por acidentes bem como os casos de perda, destruição ou danos de bagagens e carga. No tocante a terceiros, o seguro deve cobrir os casos de morte, lesões corporais e danos causados a bens por acidentes.\n\n(15) O presente regulamento não deve ser interpretado no sentido de exigir uma duplicação do seguro. Na medida em que a transportadora contratual e a transportadora de facto na acepção do artigo 39.º da Convenção de Montreal possam ser declaradas responsáveis pelos mesmos danos, os Estados-Membros podem estabelecer medidas específicas para evitar a duplicação do seguro.\n\n(16) Embora os montantes globais constituam uma prática de mercado reconhecida que pode ser favorável à segurabilidade, designadamente para os riscos de guerra e terrorismo, permitindo às seguradoras um melhor controlo das suas responsabilidades, esta prática não isenta uma transportadora aérea ou um operador de aeronave da obrigação de respeitar os requisitos mínimos de seguro quando o montante global fixado no seu contrato de seguro é atingido.\n\n(17) É necessário exigir que as transportadoras aéreas forneçam prova de que respeitam, em qualquer momento, os requisitos mínimos de seguro para cobertura da responsabilidade estabelecidos no presente regulamento. No que se refere às transportadoras aéreas comunitárias e aos operadores de aeronaves que utilizem aeronaves registadas na Comunidade, a apresentação da prova de seguro num Estado-Membro deve ser suficiente para todos os Estados-Membros, uma vez que o referido seguro foi celebrado por uma empresa autorizada para o efeito ao abrigo da legislação em vigor.\n\n(18) No que respeita aos sobrevoos do território de um Estado-Membro por transportadoras aéreas não comunitárias ou por aeronaves registadas fora da Comunidade, que não envolvam a aterragem ou descolagem no território de um Estado-Membro, qualquer Estado-Membro sobrevoado pode, nos termos do direito internacional, exigir prova do cumprimento dos requisitos de seguro previstos no presente regulamento, procedendo nomeadamente à realização de controlos aleatórios.\n\n(19) Os requisitos mínimos de seguro devem ser revistos após um determinado prazo.\n\n(20) Os procedimentos de controlo da aplicação dos requisitos mínimos de seguro devem ser transparentes e nãodiscriminatórios, não devendo impedir, de forma alguma, a livre circulação de mercadorias, pessoas, serviços e capitais.\n\n(21) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras do exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/68ebf20b-4878-4452-8052-ab817104147c.0018.03/DOC_1#E0006)).\n\n(22) Os Estados-Membros devem dispor da faculdade de introduzir novas regras para estabelecer uma cobertura adequada da responsabilidade específica da aviação relativamente a pontos não abrangidos pelo presente regulamento, sempre que essas regras se afigurem necessárias.\n\n(23) Em declaração conjunta dos respectivos ministros dos Negócios Estrangeiros, feita em Londres em 2 de Dezembro de 1987, o Reino de Espanha e o Reino Unido chegaram a acordo sobre um regime destinado a cooperar mais estreitamente na utilização do aeroporto de Gibraltar. Tal acordo ainda não começou a ser aplicado.\n\n(24) Dado que os objectivos do presente regulamento, nomeadamente a introdução de requisitos mínimos de seguro, pode contribuir para a realização dos objectivos do mercado interno mediante a redução das distorções de concorrência, não podem ser suficientemente alcançados pelos Estados-Membros e podem por isso, sê-lo de forma mais eficaz a nível comunitário, a Comunidade pode aprovar medidas de acordo com o princípio da subsidariedade tal como consta do artigo 5.º do Tratado. De acordo com o princípio da proporcionalidade, enunciado no mesmo artigo, o presente regulamento limita-se ao mínimo exigido para alcançar esses objectivos,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "41bab1112b8ea3b4": {
+   "fragment_id": "Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga\n\n1. No que respeita à responsabilidade por passageiros, a cobertura mínima do seguro é de 250 000 DSE por passageiro. No entanto, no que se refere a operações não comerciais de aeronaves de MTOM igual ou inferior a 2 700 kg, os Estados-Membros podem fixar uma cobertura mínima do seguro inferior, desde que essa cobertura seja de pelo menos 100 000 DSE por passageiro.\n\n2. No que respeita à responsabilidade por bagagens, a cobertura mínima do seguro é de 1 131 DSE por passageiro em operações comerciais.\n\n3. No que respeita à responsabilidade por cargas, a cobertura mínima do seguro é de 19 DSE por quilograma em operações comerciais.\n\n4. Os n.^os^ 1, 2 e 3 não se aplicam aos voos sobre o território dos Estados-Membros, efectuados por transportadoras aéreas não comunitárias e por operadores de aeronaves que utilizem aeronaves registadas fora da Comunidade, que não envolvam a aterragem ou a descolagem no referido território.\n\n5. Os montantes referidos no presente artigo podem ser modificados quando as alterações dos acordos internacionais relevantes o justifiquem. Essas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 9.º."
+  },
+  "75f16cf50281cd89": {
+   "fragment_id": "Artigo 9.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimento de comité\n\n1. A Comissão será assistida pelo comité instituído no artigo 11.º do Regulamento (CEE) n.º 2408/92, de 23 de Julho de 2003, relativo ao acesso das transportadoras aéreas comunitárias às rotas aéreas intracomunitárias ([^7^](http://publications.europa.eu/resource/cellar/68ebf20b-4878-4452-8052-ab817104147c.0018.03/DOC_1#E0007)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\n4. O comité pode, além disso, ser consultado pela Comissão sobre qualquer outra matéria relacionada com a aplicação do presente regulamento."
+  },
+  "ec225d3a5c7c1df9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/68ebf20b-4878-4452-8052-ab817104147c.0018.03/DOC_1#src.E0001)) JO C 20 E de 28.1.2003, p. 193.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/68ebf20b-4878-4452-8052-ab817104147c.0018.03/DOC_1#src.E0002)) JO C 95 de 23.4.2003, p. 16.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/68ebf20b-4878-4452-8052-ab817104147c.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 13 de Maio de 2003 (ainda não publicado no Jornal Oficial), posição comum do Conselho de 5 de Dezembro de 2003 (JO C 54 E de 2.3.2004, p. 40), posição do Parlamento Europeu de 11 de Março de 2004 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 30 de Março de 2004.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/68ebf20b-4878-4452-8052-ab817104147c.0018.03/DOC_1#src.E0004)) JO L 194 de 18.7.2001, p. 38.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/68ebf20b-4878-4452-8052-ab817104147c.0018.03/DOC_1#src.E0005)) JO L 240 de 24.8.1992, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/68ebf20b-4878-4452-8052-ab817104147c.0018.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23 (rectificação na JO L 269 de 19.10.1999, p. 45).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/68ebf20b-4878-4452-8052-ab817104147c.0018.03/DOC_1#src.E0007)) JO L 240 de 24.8.1992, p. 8. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1)."
+  },
+  "fac68a3a2e2d34c7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Abril de 2004\n\nrelativo aos requisitos de seguro para transportadoras aéreas e operadores de aeronaves"
+  },
+  "fcc1c3fe9ab3e0a1": {
+   "fragment_id": "Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga\n\n1. No que respeita à responsabilidade por passageiros, a cobertura mínima do seguro é de 250 000 DSE por passageiro. No entanto, no que se refere a operações não comerciais de aeronaves de MTOM igual ou inferior a 2 700 kg, os Estados-Membros podem fixar uma cobertura mínima do seguro inferior, desde que essa cobertura seja de pelo menos 100 000 DSE por passageiro.\n\n2. No que respeita à responsabilidade por bagagens, a cobertura mínima do seguro é de 1 131 DSE por passageiro em operações comerciais.\n\n3. No que respeita à responsabilidade por cargas, a cobertura mínima do seguro é de 19 DSE por quilograma em operações comerciais.\n\n4. Os n.^os^ 1, 2 e 3 não se aplicam aos voos sobre o território dos Estados-Membros, efectuados por transportadoras aéreas não comunitárias e por operadores de aeronaves que utilizem aeronaves registadas fora da Comunidade, que não envolvam a aterragem ou a descolagem no referido território.\n\n5. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 8.º-A no que diz respeito a alterar os valores referidos nos n.^os^ 1, 2 e 3 do presente artigo nos casos em que as alterações dos acordos internacionais o justificam."
+  },
+  "68dfec8a1ca842a1": {
+   "fragment_id": "Artigo 7.º — Seguro relativo à responsabilidade por terceiros",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Seguro relativo à responsabilidade por terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Seguro relativo à responsabilidade por terceiros\n\n| Categoria | MTOM (kg) | Seguro mínimo (milhões de DSE) |\n| --- | --- | --- |\n| 1 | < 500 | 0,75 |\n| 2 | < 1000 | 1,5 |\n| 3 | < 2700 | 3 |\n| 4 | < 6000 | 7 |\n| 5 | < 12000 | 18 |\n| 6 | < 25000 | 80 |\n| 7 | < 50000 | 150 |\n| 8 | < 200000 | 300 |\n| 9 | < 500000 | 500 |\n| 10 | ≥ 500000 | 700 |\n\nSe, em qualquer momento, um seguro para cobertura de danos a terceiros devido a risco de actos de guerra ou terrorismo não estiver disponível para que a transportadora aérea ou operador de aeronave, numa base por acidente, a referida transportadora aérea ou operador de aeronave pode cumprir a sua obrigação subscrevendo um seguro numa base global. A Comissão acompanhará de perto a aplicação desta disposição a fim de garantir que esse montante global seja pelo menos equivalente ao montante correspondente fixado na tabela.\n\n2. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 8.º-A no que diz respeito a alterar os valores referidos no n.º 1 do presente artigo nos casos em que as alterações dos acordos internacionais o justificam."
+  },
+  "1b96314c5882e82c": {
+   "fragment_id": "Artigo 8.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 8.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 6.º, n.º 5, e no artigo 7.º, n.º 2, é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 6.º, n.º 5, e no artigo 7.º, n.º 2, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^1^](http://publications.europa.eu/resource/cellar/9a41b36d-e606-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 6.º, n.º 5, e do artigo 7.º, n.º 2, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "4c55975059f4c6c7": {
+   "fragment_id": "Artigo 9.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimento de comité\n\n1. A Comissão será assistida pelo comité instituído no artigo 11.º do Regulamento (CEE) n.º 2408/92, de 23 de Julho de 2003, relativo ao acesso das transportadoras aéreas comunitárias às rotas aéreas intracomunitárias ([^2^](http://publications.europa.eu/resource/cellar/9a41b36d-e606-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0002)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n4. O comité pode, além disso, ser consultado pela Comissão sobre qualquer outra matéria relacionada com a aplicação do presente regulamento."
+  },
+  "43cec9a76065e4d6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9a41b36d-e606-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 123 de 12.5.2016, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9a41b36d-e606-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0002)) JO L 240 de 24.8.1992, p. 8. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1)."
+  },
+  "9cc17a34cbfcc7ee": {
+   "fragment_id": "Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga\n\n1. No que respeita à responsabilidade por passageiros, a cobertura mínima do seguro é de 250 000 DSE por passageiro. No entanto, no que se refere a operações não comerciais de aeronaves de MTOM igual ou inferior a 2 700 kg, os Estados-Membros podem fixar uma cobertura mínima do seguro inferior, desde que essa cobertura seja de pelo menos 100 000 DSE por passageiro.\n\n2. No que respeita à responsabilidade por bagagens, a cobertura mínima do seguro é de 1 288 DSE por passageiro em operações comerciais.\n\n3. No que respeita à responsabilidade por cargas, a cobertura mínima do seguro é de 22 DSE por quilograma em operações comerciais.\n\n4. Os n.^os^ 1, 2 e 3 não se aplicam aos voos sobre o território dos Estados-Membros, efectuados por transportadoras aéreas não comunitárias e por operadores de aeronaves que utilizem aeronaves registadas fora da Comunidade, que não envolvam a aterragem ou a descolagem no referido território.\n\n5. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 8.º-A no que diz respeito a alterar os valores referidos nos n.^os^ 1, 2 e 3 do presente artigo nos casos em que as alterações dos acordos internacionais o justificam."
+  },
+  "044bbae674f8228d": {
+   "fragment_id": "Artigo 8.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 8.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 6.º, n.º 5, e no artigo 7.º, n.º 2, é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 6.º, n.º 5, e no artigo 7.º, n.º 2, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^1^](http://publications.europa.eu/resource/cellar/fb0bbd3a-dbdc-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0001)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 6.º, n.º 5, e do artigo 7.º, n.º 2, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "ac7d2b04045e17ee": {
+   "fragment_id": "Artigo 9.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimento de comité\n\n1. A Comissão será assistida pelo comité instituído no artigo 11.º do Regulamento (CEE) n.º 2408/92, de 23 de Julho de 2003, relativo ao acesso das transportadoras aéreas comunitárias às rotas aéreas intracomunitárias ([^2^](http://publications.europa.eu/resource/cellar/fb0bbd3a-dbdc-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0002)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n4. O comité pode, além disso, ser consultado pela Comissão sobre qualquer outra matéria relacionada com a aplicação do presente regulamento."
+  },
+  "e059e5652a41943f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/fb0bbd3a-dbdc-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#src.E0001)) JO L 123 de 12.5.2016, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/fb0bbd3a-dbdc-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#src.E0002)) JO L 240 de 24.8.1992, p. 8. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1)."
+  }
+ }
+}

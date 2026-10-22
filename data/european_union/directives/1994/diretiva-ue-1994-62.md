@@ -36,6 +36,63 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-07-04'
+version_history:
+  file: diretiva-ue-1994-62.versoes.json
+  count: 2
+  source_lastmod: '2018-07-04'
+  versions:
+  - date: '1994-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-07-04'
+    amending: eu:celex:32003R1882:por
+    amending_title: M1; DIRECTIVA 2004/12/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Fevereiro de 2004; DIRECTIVA 2005/20/CE
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de Março de 2005; M4; DIRETIVA 2013/2/UE DA COMISSÃO de 7 de fevereiro de 2013;
+      DIRETIVA (UE) 2015/720 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de abril de 2015; DIRETIVA (UE) 2018/852 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 30 de maio de 2018
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º — Objecto
+    - Adita Artigo 2.º — Âmbito
+    - Adita Artigo 3.º — Definições
+    - Adita Artigo 4.º — Prevenção
+    - Adita Artigo 5.º — Reutilização
+    - Adita Artigo 6.º — Valorização e reciclagem
+    - Adita Artigo 6.º-A — Regras para calcular o cumprimento das metas
+    - Adita Artigo 6.º-B — Relatório de alerta precoce
+    - Adita Artigo 7.º — Sistemas de recuperação, recolha e valorização
+    - Adita Artigo 8.º — Marcação e sistema de identificação
+    - Adita Artigo 8.º-A — Medidas específicas relativas a rótulos ou marcas para sacos de plástico biodegradáveis e compostáveis
+    - Adita Artigo 9.º — Requisitos essenciais
+    - Adita Artigo 10.º — Normalização
+    - Adita Artigo 11.º — Níveis de concentração de metais pesados nas embalagens
+    - Adita Artigo 12.º
+    - Adita Sistemas de informação e relatórios
+    - Adita Artigo 13.º — Informação para os utilizadores das embalagens
+    - Adita Artigo 14.º — Planos de gestão
+    - Adita Artigo 15.º — Instrumentos económicos
+    - Adita Artigo 16.º — Notificação
+    - Adita Artigo 18.º — Liberdade de colocação no mercado
+    - Adita Artigo 19.º — Adaptação ao progresso científico e técnico
+    - Adita Artigo 20.º — Medidas específicas
+    - Adita Artigo 20.º-A — Relatório sobre os sacos de plástico
+    - Adita Artigo 21.º — Procedimento de comité
+    - Adita Artigo 21.º-A — Exercício da delegação
+    - Adita Artigo 22.º — Transposição para o direito nacional
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita ANEXO I
+    - Adita EXEMPLOS ILUSTRATIVOS DOS CRITÉRIOS A QUE SE REFERE O ARTIGO 3.º, N.º 1
+    - Adita Exemplos para o critério referido na alínea i)
+    - Adita Exemplos para o critério referido na alínea ii)
+    - Adita Exemplos para o critério referido na alínea iii)
+    - Adita ANEXO II
+    - Adita REQUISITOS ESSENCIAIS RELATIVOS À COMPOSIÇÃO E À POSSIBILIDADE DE REUTILIZAÇÃO, VALORIZAÇÃO OU RECICLAGEM DAS
+      EMBALAGENS
+    - Adita 1. Requisitos específicos de fabrico e composição das embalagens
+    - Adita 2. Requisitos específicos da possibilidade de reutilização das embalagens
 identifiers:
   celex: 31994L0062
   eli: http://data.europa.eu/eli/dir/1994/62/oj
@@ -50,7 +107,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1d7cd2ba-cce0-4977-be4b-d5042e1dea0c.0011
   content_url: http://publications.europa.eu/resource/cellar/3112a3ea-9e9b-488e-bd5f-80a95e2a6802.0015.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0062-20180704
-  retrieved_at: '2026-10-22T02:35:19Z'
+  retrieved_at: '2026-10-22T14:43:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-13T07:02:30.265+01:00'
 integrity:
@@ -59,9 +116,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:19Z'
-  notes: Texto consolidado 01994L0062-20180704.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:43:23Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1994-62.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -384,35 +441,25 @@ relationships:
   source: null
 article_structure:
   article_count: 29
-  section_count: 26
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 28
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:19Z'
-  warnings: []
+  checked_at: '2026-10-22T14:43:23Z'
+  warnings:
+  - '01994L0062-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01994L0062-20040218: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01994L0062-20050405: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01994L0062-20090420: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01994L0062-20130228: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01994L0062-20150526: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 94/62/CE do Parlamento Europeu e do Conselho, de 20 de Dezembro de 1994
-
-> 01994L0062 — PT — 04.07.2018 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32003R1882) — [REGULAMENTO (CE) N.º 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
-- [►M2](http://publications.europa.eu/resource/celex/32004L0012) — [DIRECTIVA 2004/12/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Fevereiro de 2004](http://publications.europa.eu/resource/celex/32004L0012) — L 47 — 26 — 18.2.2004
-- [►M3](http://publications.europa.eu/resource/celex/32005L0020) — [DIRECTIVA 2005/20/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de Março de 2005](http://publications.europa.eu/resource/celex/32005L0020) — L 70 — 17 — 16.3.2005
-- [M4](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) N.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-- [►M5](http://publications.europa.eu/resource/celex/32013L0002) — [DIRETIVA 2013/2/UE DA COMISSÃO de 7 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013L0002) — L 37 — 10 — 8.2.2013
-- [►M6](http://publications.europa.eu/resource/celex/32015L0720) — [DIRETIVA (UE) 2015/720 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de abril de 2015](http://publications.europa.eu/resource/celex/32015L0720) — L 115 — 11 — 6.5.2015
-- [►M7](http://publications.europa.eu/resource/celex/32018L0852) — [DIRETIVA (UE) 2018/852 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018](http://publications.europa.eu/resource/celex/32018L0852) — L 150 — 141 — 14.6.2018
-
-## DIRECTIVA 94/62/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de Dezembro de 1994
 

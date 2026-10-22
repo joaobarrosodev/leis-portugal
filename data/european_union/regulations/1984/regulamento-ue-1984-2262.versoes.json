@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31984R2262:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01984R2262-20051101",
+ "dre_path": null,
+ "source_lastmod": "2005-11-01",
+ "versions": [
+  {
+   "date": "1984-08-03",
+   "future": false,
+   "celex": "31984R2262",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8879fb8e108f12d3",
+    "a3c98348d6985e6d",
+    "0f7447de65538be6",
+    "ee8fda4013c81e51",
+    "bf8534903f977be1",
+    "2f2f1a01ad935903",
+    "48914811d8e32dd8",
+    "bda3fdd9c7aa80fa"
+   ]
+  },
+  {
+   "date": "2005-11-01",
+   "future": false,
+   "celex": "01984R2262-20051101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o"
+   ],
+   "fragments": [
+    "e4cfb6c187d00039"
+   ]
+  }
+ ],
+ "fragments": {
+  "8879fb8e108f12d3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2262/84 do Conselho, de 17 de Julho de 1984, que prevê medidas especiais no sector do azeite** *Jornal Oficial nº L 208 de 03/08/1984 p. 0011 - 0013 Edição especial finlandesa: Capítulo 3 Fascículo 17 p. 0260 Edição especial sueca: Capítulo 3 Fascículo 17 p. 0260 Edição especial espanhola: Capítulo 03 Fascículo 31 p. 0240 Edição especial portuguesa: Capítulo 03 Fascículo 31 p. 0240*\n\nREGULAMENTO (CEE) No 2262/84 DO CONSELHO de 17 de Julho de 1984 que prevê medidas especiais no sector do azeite\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta a parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o artigo 5o do Regulamento no 136/66/CEE do Conselho, de 22 de Setembro de 1966, que estabelece uma organização comum de mercado no sector das matérias gordas (4), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 2260/84 (5), que institui um regime de ajuda à produção de azeite; que esta ajuda, a título das superfícies existentes em determinada data, é concedida, em função da quantidade de azeite efectivamente produzida, aos oleicultores que sejam membros das organizações de produtores referidas no no 1 do artigo 20o C do Regulamento no 136/66/CEE e cuja produção média seja pelo menos de 100 quilogramas de azeite por campanha, enquanto que para os outros oleicultores a ajuda é concedida em função do número e da capacidade produtiva dos olivicultores, bem como dos rendimentos destes, fixados forfetariamente, e com a condição das azeitonas terem sido colhidas;\n\nConsiderando que a experiência demonstrou que, apesar da existência no plano normativo de um grande número de controlos específicos, existem problemas quanto à execução pontual e eficaz destes controlos; que esta situação poderia originar despesas injustificadas para os fundos comunitários;\n\nConsiderando que, na situação actual, é conveniente prever medidas especiais destinadas a assegurar uma aplicação correcta e uniforme do regime de ajuda à produção;\n\nConsiderando que a experiência mostrou que a estrutura administrativa dos Estados-membros produtores não está suficientemente adaptada para a execução dos controlos previstos pela regulamentação comunitária; que é portanto indispensável que estes Estados-membros contem com órgãos que beneficiem de autonomia administrativa para a execução destas tarefas; que, tendo em conta a obrigatoriedade para os Estados-membros de criarem a curto prazo uma estrutura particular e de confiar a esta estrutura funções que ultrapassem o âmbito dos controlos estabelecidos pelo Regulamento (CEE) no 729/70 do Conselho, de 21 de Abril de 1970, relativo ao financiamento da política agrícola comum (6), com a última redacção que lhe foi dada pelo regulamento (CEE) no 3509/80 (7), e que estão a cargo dos Estados-membros, há que prever uma participação financeira da Comunidade durante um certo período;\n\nConsiderando que existe uma relação entre um regime de controlo eficaz e o de sanções aplicável em casos de irregularidades verificadas; que, por consequência, é necessário reforçar e completar o regime actual de sanções a fim de as tornar mais dissuasoras, tendo em conta as características específicas da organização comum de mercado do azeite; que, com este objectivo, é oportuno prever que os Estados-membros apliquem um sistema de sanções para penalizar as irregularidades verificadas no âmbito do regime de ajuda à produção; que, a fim de assegurar uma aplicação correcta e uniforme das sanções previstas, há que definir certos casos particulares em que as sanções sejam aplicadas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "a3c98348d6985e6d": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Cada Estado-membro produtor criará, de acordo com a sua ordem jurídica, um serviço específico encarregado de certos controlos e actividades no âmbito do regime de ajuda à produção de azeite.\n\nContudo, os Estados-membros cuja produção não ultrapasse as 3 000 toneladas durante um período de referência a determinar, não são obrigados a constituir um serviço específico. Neste caso, os Estados-membros em causa tomarão todas as disposições necessárias para assegurar o cumprimento das tarefas desse serviço referidas no presente artigo.\n\n2. Com vista a assegurar a aplicação correcta do regime de ajuda à produção, o serviço referido no no 1 deverá, de acordo com o programa de actividade referido no no 4:\n\n- verificar a conformidade das actividades das organizações dos produtores e respectivas uniões com o Regulamento (CEE) no 2261/84 do Conselho de 17 de Julho de 1984, que adopta as regras gerais relativas à concessão da ajuda à produção de azeite e às organizações de produtores (8),\n\n- controlar os lagares autorizados,\n\n- averiguar o destino do azeite obtido por trituração das azeitonas, bem como o dos seus subprodutos,\n\n- recolher, verificar e elaborar, a um nível nacional, os elementos necessários ao estabelecimento dos rendimentos referidos no artigo 18o do Regulamento (CEE) no 2261/84,\n\n- realizar inquéritos estatísticos relativos à produção, à transformação e ao consumo de azeite.\n\nO serviço, a pedido do Estado-membro, procede:\n\n- ao exame dos processos referidos no no 2 do artigo 15o do Regulamento (CEE) no 2261/84,\n\n- aos controlos referidos nos nos 2, 3 e 4 do artigo 14o do Regulamento (CEE) no 2261/84,\n\n- aos controlos previstos em matéria de ajuda ao consumo.\n\nO Estado-membro, por iniciativa própria ou a pedido da comissão, pode igualmente encarregar o serviço de inquéritos particulares.\n\n3. O serviço beneficia de plena autonomia administrativa, sendo dotado pelo Estado-membro dos poderes necessários para cumprir as tarefas referidas no no 2.\n\nO serviço será composto de agentes, cujo número e formação serão apropriados para permitir a realização das tarefas indicadas.\n\n4. Antes do início de cada campanha, o Estado-membro em causa, sob proposta do serviço, elabora um orçamento previsional e um programa de actividade, destinados a assegurar a aplicação correcta do regime de ajuda à produção que são transmitidos pelo Estado-membro à Comissão. A Comissão pode pedir ao Estado-membro, sem prejuízo das responsabilidades deste, qualquer modificação do orçamento provisional e do programa que considere oportuno.\n\nOs agentes da Comissão, em qualquer momento, poderão acompanhar todas as actividades realizadas pelo serviço.\n\nO serviço transmite periodicamente ao Estado-membro e à Comissão relatórios sobre as actividades exercidas. Deste relatório devem constar as eventuais dificuldades surgidas, e incluir, se for caso disso, sugestões de aperfeiçoamento do regime de controlo.\n\n5. Durante um período de 3 anos a contar de 1 de Novembro de 1984, as despesas efectivas do serviço serão cobertas pelo orçamento geral das Comunidades Europeias, à razão de:\n\n- 100 % para os dois primeiros anos, até ao limite de uma soma global de 14 milhões de ECUs para o serviço constituído em Itália e de 7 milhões de ECUs para o serviço constituído na Grécia,\n\n- 50 % para o terceiro ano.\n\nOs Estados-membros têm a faculdade, em condições a determinar segundo o procedimento previsto no artigo 38o do Regulamento no 136/66/CEE, de cobrir uma parte dos encargos financeiros que lhes incumbe por uma retenção das ajudas comunitárias concedidas no sector do azeite.\n\nO Conselho, decidindo por maioria qualificada sob proposta da Comissão, adoptará antes de 1 de Janeiro de 1987 o método de financiamento das despesas em causa a partir da campanha de 1987/1988.\n\n6. O montante anual que representa as despesas efectivas referidas no no 5 é decidido pela Comissão, com base em indicações fornecidas pelos Estados-membros em causa. Este montante é concedido depois de verificado pela Comissão que o serviço em questão foi constituído e cumpriu as suas tarefas.\n\nCom vista a facilitar a constituição e funcionamento do serviço, o montante em questão pode ser adiantado por prestações ao longo do ano, com base no orçamento anual do serviço, estabelecido conjuntamente pelo Estado-membro e a Comissão antes do fim do mês de Outubro do ano que se segue."
+  },
+  "0f7447de65538be6": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPor força do artigo 11o A do Regulamento no 136/66/CEE, os Estados-membros produtores tomarão as medidas específicas adequadas para penalizar qualquer infracção ao regime de ajuda à produção, nomeadamente sempre que se verifique:\n\na) Que os dados incluídos na declaração de cultura referida no artigo 3o do Regulamento (CEE) no 2261/84 não correspondem à situação realmente existente;\n\nb) Que a quantidade de azeite admissível para a ajuda é inferior à pedida pelos oleicultores membros de uma organização de produtores que têm direito a uma ajuda em função do azeite efectivamente produzido;\n\nc) Que uma organização de produtores ou uma união não respeitou as obrigações decorrentes do presente regulamento;\n\nd) Que um lagar de azeite não respeitou as obrigações estabelecidas no presente regulamento."
+  },
+  "ee8fda4013c81e51": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Com vista a dar cumprimento às disposições do artigo 2o, os Estados-membros aplicam pelo menos as seguintes medidas específicas:\n\na) No caso referido na alínea a) do artigo 2o, se a declaração de cultura inexacta englobar um aumento da capacidade de produção do oleicultor em causa, que não corresponda à situação realmente existente, este oleicultor deve pagar um montante de acordo com o aumento da capacidade resultante, e suficientemente dissuasor;\n\nb) No caso referido na alínea b) do artigo 2o, o Estado-membro em causa recupera os montantes eventualmente pagos indevidamente a título de ajuda, e o oleicultor em causa deve apagar um montante de acordo com o montante da ajuda pedida para as quantidades de azeite em relação às quais o direito à ajuda não foi reconhecido, que seja suficientemente dissuasor.\n\n2. Nos casos visados no no 1 e sem prejuízo das disposições do artigo 20o C do Regulamento no 136/66/CEE, se a organização de produtores da qual o oleicultor é membro não verificou correctamente, de acordo com as suas obrigações, o pedido à ajuda individual e a declaração de cultura, será solidariamente responsável pelo pagamento dos montantes referidos no no 1.\n\n3. Se, nos casos referidos no no 1, as irregularidades verificadas têm consequências mínimas, os Estados-membros em causa podem não pedir aos oleicultores o pagamento dos montantes referidos no no 1."
+  },
+  "bf8534903f977be1": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Caso uma organização de produtores ou uma união não efectuar os controlos que lhe incumbem por força dos artigos 6o, 8o e 10o do Regulamento (CEE) no 2261/66, o Estado-membro em causa retira o reconhecimento por um período que pode ir de uma a cinco campanhas.\n\n2. Sem prejuízo do disposto no artigo 2o, sempre que o controlo de um lagar de azeite revelar irregularidades que impliquem, entre outras, uma alteração substancial das quantidades de azeitonas trituradas ou das quantidades de azeite produzidas resultando da compatibilidade material, ou a insuficiência da compatibilidade material ou da sua comunicação, o Estado-membro em causa retira a autorização ao lagar em causa por um período que pode ir de uma a cinco campanhas.\n\n3. Para determinar o período de privação do reconhecimento ou da autorização, a autoridade competente para determinar esta sanção toma em consideração, além da gravidade, a duração da infracção.\n\n4. Durante o período de privação do reconhecimento ou da autorização referidos nos nos 1 e 2, o Estado-membro interessado não poderá conceder um novo reconhecimento ou uma nova autorização na sequência de um pedido destinado a iludir a sanção infligida.\n\nCaso a retirada da autorização de um lagar possa ter consequências graves para a possibilidade de trituração numa zona de produção determinada, pode ser decidido permitir o funcionamento deste lagar sob um regime especial."
+  },
+  "2f2f1a01ad935903": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nAs modalidades de aplicação do presente regulamento são decididas segundo o procedimento do artigo 38o do Regulamento no 136/77/CEE."
+  },
+  "48914811d8e32dd8": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros comunicarão à Comissão as medidas tomadas no âmbito do presente regulamento."
+  },
+  "bda3fdd9c7aa80fa": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nO presente regulamento entra em vigor no dia da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é aplicável a partir do dia 1 de Novembro de 1984.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 17 de Julho de 1984.\n\nPelo Conselho\n\nO Presidente\n\nA. DEASY\n\n(1) JO no C 249 de 17. 9. 1983, p. 5.(2) JO no C 104 de 16. 4. 1984, p. 92.(3) JO no C 23 de 30. 1. 1984, p. 20.(4) JO no 172 de 30. 9. 1966, p. 3025/66.(5) JO no L 208 de 3. 8. 1984, p. 1.(6) JO no L 94 de 28. 4. 1970, p. 13.(7) JO no L 367 de 31. 12. 1980, p. 87.(8) JO no L 208 de 3. 8. 1984, p. 3."
+  },
+  "e4cfb6c187d00039": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1984R2262 — PT — 01.11.2005 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31984R2262) [REGULAMENTO (CEE) Nº 2262/84 DO CONSELHO](http://publications.europa.eu/resource/celex/31984R2262) [de 17 de Julho de 1984](http://publications.europa.eu/resource/celex/31984R2262) [que prevê medidas especiais no sector do azeite](http://publications.europa.eu/resource/celex/31984R2262) (JO L 208, 3.8.1984, p.11)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 865/2004 do Conselho de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0865) — L 161 — 97 — 30.4.2004"
+  }
+ }
+}

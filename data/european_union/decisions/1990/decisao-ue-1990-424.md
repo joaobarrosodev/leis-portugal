@@ -33,6 +33,118 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-06-18'
+version_history:
+  file: decisao-ue-1990-424.versoes.json
+  count: 4
+  source_lastmod: '2009-06-18'
+  versions:
+  - date: '2006-02-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006D0965:por
+    amending_title: DECISÃO DO CONSELHO de 19 de Dezembro de 2006; REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro
+      de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 3.º-A
+    - Altera Artigo 6.º
+    - Altera Artigo 11.º
+    - Altera Artigo 16.º
+    - Altera Artigo 19.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 35.º
+    - Altera Artigo 37.ºA
+    - Altera Artigo 40.º-A
+    - Altera Artigo 41.º
+    - Altera Artigo 43.º
+    - Altera Notas
+    - 'Adita O título do Capítulo 3 do Título I passa a ter a seguinte redacção:'
+    - Adita PROGRAMAS DE LUTA, ERRADICAÇÃO E VIGILÂNCIA DAS DOEÇÃO E VIGILÂNCIA DAS DOENÇAS ANIMAIS E ZOONOSES
+    - Adita Artigo 43 º
+    - Adita Doenças animais e zoonoses
+    - Suprime Protecção dos animais
+    - Suprime PROGRAMA DE ERRADICAÇÃO E DE VIGILÂNCIA DAS DOENÇAS ANIMAIS
+    - Suprime Artigo 29.º
+    - Suprime Artigo 29.ºA
+    - Suprime Artigo 32.º
+    - Suprime Artigo 33.º
+    - Suprime Artigo 43.ºA
+    - Suprime LISTA DE DOENÇAS
+    - Suprime Grupo 1
+    - Suprime Doenças endémicas, sujeitas a medidas de combate e/ou de erradicação, compulsivas ou voluntárias, ao nível do
+      rebanho
+    - Suprime Grupo 2
+    - Suprime Zoonoses ou doenças epizoóticas não incluídas noutros grupos
+  - date: '2008-09-01'
+    amending: eu:celex:32006D0782:por
+    amending_title: DECISÃO DO CONSELHO de 24 de Outubro de 2006; DECISÃO DA COMISSÃO de 20 de Agosto de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 3.º-A
+    - Altera Artigo 5.º
+    - Altera Artigo 11.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 35.º
+    - Altera Artigo 40.º-A
+    - Altera Artigo 41.º
+    - Altera Artigo 43.º
+    - Altera Doenças animais e zoonoses
+    - Altera Notas
+    - Adita Artigo 3.º B
+  - date: '2009-06-18'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime TÍTULO I
+    - Suprime ACÇÕES VETERINÁRIAS PONTUAIS
+    - Suprime Artigo 2.º
+    - Suprime Capítulo I
+    - Suprime Intervenções de emergência
+    - Suprime Artigo 3.º
+    - Suprime Artigo 3.º-A
+    - Suprime Artigo 3.º B
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 10.ºA
+    - Suprime Capítulo II
+    - Suprime Luta contra a febre aftosa
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Capítulo III
+    - 'Suprime O título do Capítulo 3 do Título I passa a ter a seguinte redacção:'
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Capítulo IV
+    - Suprime Acções técnicas e científicas
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime TÍTULO II
+    - Suprime PROGRAMAS DE LUTA, ERRADICAÇÃO E VIGILÂNCIA DAS DOEÇÃO E VIGILÂNCIA DAS DOENÇAS ANIMAIS E ZOONOSES
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime Artigo 24.º
 identifiers:
   celex: 31990D0424
   eli: http://data.europa.eu/eli/dec/1990/424/oj
@@ -47,7 +159,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/00756999-790d-4576-a7a8-a53f20e33231.0011
   content_url: http://publications.europa.eu/resource/cellar/588be76a-8a13-4091-b8dc-f3ba1c1168c5.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990D0424-20090618
-  retrieved_at: '2026-10-22T02:39:22Z'
+  retrieved_at: '2026-10-22T14:36:37Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T15:14:07.829+01:00'
 integrity:
@@ -56,9 +168,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:22Z'
-  notes: Texto consolidado 01990D0424-20090618.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:36:37Z'
+  notes: 4 versão(ões); histórico completo em decisao-ue-1990-424.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -309,16 +421,29 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:22Z'
+  checked_at: '2026-10-22T14:36:37Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01990D0424-19900726: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990D0424-19910307: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990D0424-19911227: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990D0424-19920703: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990D0424-19920724: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990D0424-19930106: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990D0424-19930108: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990D0424-19930701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990D0424-19940207: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990D0424-19940702: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990D0424-19990703: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990D0424-20010106: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990D0424-20010728: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990D0424-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990D0424-20031212: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

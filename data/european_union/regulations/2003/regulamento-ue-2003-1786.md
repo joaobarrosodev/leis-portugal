@@ -35,6 +35,85 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-04-01'
+version_history:
+  file: regulamento-ue-2003-1786.versoes.json
+  count: 3
+  source_lastmod: '2008-04-01'
+  versions:
+  - date: '2003-10-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-04-01'
+    amending: eu:celex:32004R0583:por
+    amending_title: REGULAMENTO (CE) N. o 583/2004 DO CONSELHO de 22 de Março de 2004; REGULAMENTO (CE) N. o 456/2006 DO CONSELHO
+      de 20 de Março de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 5.º
+    - Altera Artigo 18.º
+    - Altera Artigo 26.º
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES INTRODUTÓRIAS
+    - Adita CAPÍTULO II
+    - Adita AJUDA
+    - Adita CAPÍTULO III
+    - Adita REGIME COMERCIAL COM PAÍSES TERCEIROS
+    - Adita CAPÍTULO IV
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita Artigo 21.º
+    - Adita ANEXO
+    - Adita QUADRO DE CORRESPONDÊNCIA
+    - Adita Notas
+    - Suprime CAPÍTULO I — DISPOSIÇÕES INTRODUTÓRIAS
+    - Suprime CAPÍTULO II — AJUDA
+    - Suprime CAPÍTULO III — REGIME COMERCIAL COM PAÍSES TERCEIROS
+    - Suprime CAPÍTULO IV — DISPOSIÇÕES GERAIS
+    - Suprime Artigo 21.º — Podem ser adoptadas medidas transitórias nos termos do n.o 2 do artigo 18.o
+    - Suprime ANEXO — QUADRO DE CORRESPONDÊNCIA
+  - date: '2008-04-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES INTRODUTÓRIAS
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime CAPÍTULO II
+    - Suprime AJUDA
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime CAPÍTULO III
+    - Suprime REGIME COMERCIAL COM PAÍSES TERCEIROS
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime CAPÍTULO IV
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime Artigo 24.º
+    - Suprime Artigo 25.º
+    - Suprime Artigo 26.º
+    - Suprime ANEXO
+    - Suprime QUADRO DE CORRESPONDÊNCIA
+    - Suprime Notas
 identifiers:
   celex: 32003R1786
   eli: http://data.europa.eu/eli/reg/2003/1786/oj
@@ -49,7 +128,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9b79f3ed-f182-4b97-a965-5138d580e6e8.0010
   content_url: http://publications.europa.eu/resource/cellar/16125eba-b921-40f2-a514-385361b853ad.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R1786-20080401
-  retrieved_at: '2026-10-22T03:11:32Z'
+  retrieved_at: '2026-10-22T14:55:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T11:31:05.627+01:00'
 integrity:
@@ -58,9 +137,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:32Z'
-  notes: Texto consolidado 02003R1786-20080401.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:54Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2003-1786.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -162,16 +241,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:32Z'
+  checked_at: '2026-10-22T14:55:54Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02003R1786-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

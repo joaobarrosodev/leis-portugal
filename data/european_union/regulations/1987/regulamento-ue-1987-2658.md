@@ -35,6 +35,403 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: regulamento-ue-1987-2658.versoes.json
+  count: 15
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '1987-09-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Adita preambulo
+    - Adita Artigo 1.º — [▼M5](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000R0254:PT:NOT)
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 12.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+  - date: '2016-06-01'
+    amending: eu:celex:31989R3528:por
+    amending_title: REGULAMENTO (CEE) N. o 3528/89 DO CONSELHO de 23 de Novembro de 1989; M2; REGULAMENTO (CEE) N. o 2913/92
+      DO CONSELHO de 12 de Outubro de 1992; REGULAMENTO (CEE) N. o 1969/93 DO CONSELHO de 19 de Julho de 1993; REGULAMENTO
+      (CE) N. o 254/2000 DO CONSELHO de 31 de Janeiro de 2000; REGULAMENTO (UE) N. o 952/2013 DO PARLAMENTO EUROPEU E DO CONSELHO
+      de 9 de outubro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 17.º
+    - Adita Artigo 1.º
+    - Adita Notas
+    - Suprime Artigo 1.º — [▼M5](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000R0254:PT:NOT)
+  - date: '2020-10-03'
+    amending: eu:celex:31987R3985:por
+    amending_title: M1; M2; M3; M4; M5; M6; M7; M8; M9; M10; M11; M12; M13; M14; M17; M18; M19; M20; M21; M22; M23; M24; M25;
+      M26; M27; M28; M29; M30; M31; M32; M33; M34; M35; M36; M37; M38; M39; M40; M42; M43; M44; M45; M46; M47; M48; M49; M51;
+      M52; M53; M54; M55; M56; M57; M58; M59; M60; M61; M62; M63; M64; M65; M66; REGULAMENTO (CE) n. o 1359/95 DA COMISSÃO,
+      de 13 de Junho de 1995,; M68; M69; M70; M71; M72; M73; M74; M75; M76; M77; M78; M79; M80; M81; M82; M83; M84; M85; M86;
+      M87; M88; M89; M90; M91; M92; M93; M94; M95; M96; M97; M98; M99; M100; M101; M102; M103; M104; M105; M106; M107; M109;
+      M110; M111; M112; M113; M114; M115; M116; M117; M118; M119; M120; M121; M122; M123; M124; M125; M126; M127; M128; M129;
+      M130; M131; M132; M133; M134; M135; M136; M137; M138; M139; M140; M141; M142; M143; M144; M145; M146; M147; M148; M149;
+      M150; M151; M152; M153; M154; M155; M156; M157; M158; M159; M160; M161; M162; M163; M164; M165; M166; M167; M168; M169;
+      M170; M171; M172; M173; M174; M175; M176; M177; M178; M179; M180; M181; M182; M183; M184; M186; M187; M188; M189; M190;
+      M191; M192; M193; M194; M195; M196; M197; M198; M199; M200; M201; M202; M203; M204; M205; M206; M207; M208; M209; M210;
+      M211; M212; M213; M214; M215; M216; M217; REGULAMENTO DE EXECUÇÃO (UE) 2019/1776 DA COMISSÃO de 22 de outubro de 2019;
+      REGULAMENTO DE EXECUÇÃO (UE) 2020/523 DA COMISSÃO de 7 de abril de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2020/1369 DA COMISSÃO
+      de 29 de setembro de 2020
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita NOMENCLATURA COMBINADA
+    - Adita PRIMEIRA PARTE
+    - Adita DISPOSIÇÕES PRELIMINARES
+    - Adita TÍTULO I
+    - Adita REGRAS GERAIS
+    - Adita A. Regras Gerais para a interpretação da Nomenclatura Combinada
+    - Adita B. Regras Gerais relativas aos direitos
+    - Adita C. Regras Gerais comuns à Nomenclatura e aos direitos
+    - Adita TÍTULO II
+    - Adita DISPOSIÇÕES ESPECIAIS
+    - Adita A. Produtos destinados a certas categorias de embarcações e de plataformas de perfuração ou de exploração
+    - Adita B. Aeronaves civis e produtos destinados a aeronaves civis
+    - Adita C. Produtos farmacêuticos
+    - Adita D. Tributação forfetária
+    - Adita E. Recetáculos e embalagens
+    - Adita F. Tratamento pautal favorável em função da natureza das mercadorias
+    - Adita SEGUNDA PARTE
+    - Adita TABELA DE DIREITOS
+    - Adita SECÇÃO I
+    - Adita ANIMAIS VIVOS E PRODUTOS DO REINO ANIMAL
+    - Adita SECÇÃO II
+    - Adita PRODUTOS DO REINO VEGETAL
+    - Adita Nota
+    - Adita SECÇÃO III
+    - Adita GORDURAS E ÓLEOS ANIMAIS OU VEGETAIS; PRODUTOS DA SUA DISSOCIAÇÃO; GORDURAS ALIMENTÍCIAS ELABORADAS; CERAS DE
+      ORIGEM ANIMAL OU VEGETAL
+    - Adita SECÇÃO IV
+    - Adita PRODUTOS DAS INDÚSTRIAS ALIMENTARES; BEBIDAS, LÍQUIDOS ALCOÓLICOS E VINAGRES; TABACO E SEUS SUCEDÂNEOS MANUFATURADOS
+    - Adita SECÇÃO V
+    - Adita PRODUTOS MINERAIS
+    - Adita SECÇÃO VI
+    - Adita PRODUTOS DAS INDÚSTRIAS QUÍMICAS OU DAS INDÚSTRIAS CONEXAS
+    - Adita SECÇÃO VII
+    - Adita PLÁSTICO E SUAS OBRAS; BORRACHA E SUAS OBRAS
+    - Adita SECÇÃO VIII
+    - Adita PELES, COUROS, PELES COM PELO E OBRAS DESTAS MATÉRIAS; ARTIGOS DE CORREEIRO OU DE SELEIRO; ARTIGOS DE VIAGEM,
+      BOLSAS E ARTIGOS SEMELHANTES; OBRAS DE TRIPA
+    - Adita SECÇÃO IX
+  - date: '2021-01-01'
+    amending: eu:celex:32020R0712:por
+    amending_title: M220; REGULAMENTO DE EXECUÇÃO (UE) 2020/1577 DA COMISSÃO de 21 de setembro de 2020; REGULAMENTO DE EXECUÇÃO
+      (UE) 2020/2159 DA COMISSÃO de 16 de dezembro de 2020
+    changes:
+    - Altera Artigo 10.º
+    - Altera NOMENCLATURA COMBINADA
+    - Altera REGRAS GERAIS
+    - Altera DISPOSIÇÕES ESPECIAIS
+    - Altera Notas
+    - Altera Nota
+    - Altera GORDURAS E ÓLEOS ANIMAIS OU VEGETAIS; PRODUTOS DA SUA DISSOCIAÇÃO; GORDURAS ALIMENTÍCIAS ELABORADAS; CERAS DE
+      ORIGEM ANIMAL OU VEGETAL
+    - Altera PRODUTOS MINERAIS
+    - Altera MADEIRA, CARVÃO VEGETAL E OBRAS DE MADEIRA; CORTIÇA E SUAS OBRAS; OBRAS DE ESPARTARIA OU DE CESTARIA
+    - Altera Notas de subposições
+    - Altera OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU DE MATÉRIAS SEMELHANTES; PRODUTOS CERÂMICOS; VIDRO E SUAS OBRAS
+    - Altera Notas complementares
+    - Altera INSTRUMENTOS E APARELHOS DE ÓTICA, DE FOTOGRAFIA, DE CINEMATOGRAFIA, DE MEDIDA, DE CONTROLO OU DE PRECISÃO; INSTRUMENTOS
+      E APARELHOS MÉDICO-CIRÚRGICOS; ARTIGOS DE RELOJOARIA; INSTRUMENTOS MUSICAIS; SUAS PARTES E ACESSÓRIOS
+    - Altera MERCADORIAS E PRODUTOS DIVERSOS
+    - Altera OBJETOS DE ARTE, DE COLEÇÃO OU ANTIGUIDADES
+    - Altera ANEXOS RELATIVOS À AGRICULTURA
+    - Altera LISTA DE SUBSTÂNCIAS FARMACÊUTICAS ELEGÍVEIS PARA BENEFICIAR DA ISENÇÃO DE DIREITOS
+    - Altera TRATAMENTO PAUTAL FAVORÁVEL EM FUNÇÃO DA NATUREZA DE UMA MERCADORIA
+    - Suprime A. Regras Gerais para a interpretação da Nomenclatura Combinada
+    - Suprime B. Regras Gerais relativas aos direitos
+    - Suprime C. Regras Gerais comuns à Nomenclatura e aos direitos
+    - Suprime A. Produtos destinados a certas categorias de embarcações e de plataformas de perfuração ou de exploração
+    - Suprime B. Aeronaves civis e produtos destinados a aeronaves civis
+    - Suprime C. Produtos farmacêuticos
+    - Suprime D. Tributação forfetária
+    - Suprime E. Recetáculos e embalagens
+    - Suprime F. Tratamento pautal favorável em função da natureza das mercadorias
+    - Suprime 1. Disposições gerais
+    - Suprime 2. Disposições relativas aos certificados
+  - date: '2022-01-01'
+    amending: eu:celex:32021R1832:por
+    amending_title: M224
+    changes:
+    - Altera Artigo 10.º
+    - Altera NOMENCLATURA COMBINADA
+    - Altera REGRAS GERAIS
+    - Altera DISPOSIÇÕES ESPECIAIS
+    - Altera Notas
+    - Altera Nota
+    - Altera PRODUTOS MINERAIS
+    - Altera PELES, COUROS, PELES COM PELO E OBRAS DESTAS MATÉRIAS; ARTIGOS DE CORREEIRO OU DE SELEIRO; ARTIGOS DE VIAGEM,
+      BOLSAS E ARTIGOS SEMELHANTES; OBRAS DE TRIPA
+    - Altera MADEIRA, CARVÃO VEGETAL E OBRAS DE MADEIRA; CORTIÇA E SUAS OBRAS; OBRAS DE ESPARTARIA OU DE CESTARIA
+    - Altera Notas de subposições
+    - Altera CALÇADO, CHAPÉUS E ARTIGOS DE USO SEMELHANTE, GUARDA-CHUVAS, GUARDA-SÓIS, BENGALAS, CHICOTES, E SUAS PARTES;
+      PENAS PREPARADAS E SUAS OBRAS; FLORES ARTIFICIAIS; OBRAS DE CABELO
+    - Altera OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU DE MATÉRIAS SEMELHANTES; PRODUTOS CERÂMICOS; VIDRO E SUAS OBRAS
+    - Altera PÉROLAS NATURAIS OU CULTIVADAS, PEDRAS PRECIOSAS OU SEMIPRECIOSAS E SEMELHANTES, METAIS PRECIOSOS, METAIS FOLHEADOS
+      OU CHAPEADOS DE METAIS PRECIOSOS (PLAQUÉ), E SUAS OBRAS; BIJUTARIAS; MOEDAS
+    - Altera Notas complementares
+    - Altera INSTRUMENTOS E APARELHOS DE ÓTICA, DE FOTOGRAFIA, DE CINEMATOGRAFIA, DE MEDIDA, DE CONTROLO OU DE PRECISÃO; INSTRUMENTOS
+      E APARELHOS MÉDICO-CIRÚRGICOS; ARTIGOS DE RELOJOARIA; INSTRUMENTOS MUSICAIS; SUAS PARTES E ACESSÓRIOS
+    - Altera ARMAS E MUNIÇÕES; SUAS PARTES E ACESSÓRIOS
+    - Altera MERCADORIAS E PRODUTOS DIVERSOS
+    - Altera OBJETOS DE ARTE, DE COLEÇÃO OU ANTIGUIDADES
+    - Altera ANEXOS RELATIVOS À AGRICULTURA
+    - Altera LISTA DE SUBSTÂNCIAS FARMACÊUTICAS ELEGÍVEIS PARA BENEFICIAR DA ISENÇÃO DE DIREITOS
+    - Altera TRATAMENTO PAUTAL FAVORÁVEL EM FUNÇÃO DA NATUREZA DE UMA MERCADORIA
+    - Adita GORDURAS E ÓLEOS ANIMAIS, VEGETAIS OU DE ORIGEM MICROBIANA E PRODUTOS DA SUA DISSOCIAÇÃO; GORDURAS ALIMENTÍCIAS
+      ELABORADAS; CERAS DE ORIGEM ANIMAL OU VEGETAL
+    - Adita PRODUTOS DAS INDÚSTRIAS ALIMENTARES; BEBIDAS, LÍQUIDOS ALCOÓLICOS E VINAGRES; TABACO E SEUS SUCEDÂNEOS MANUFATURADOS;
+      PRODUTOS, MESMO COM NICOTINA, DESTINADOS À INALAÇÃO SEM COMBUSTÃO; OUTROS PRODUTOS QUE CONTENHAM NICOTINA DESTINADOS
+      À ABSORÇÃO DA NICOTINA PELO CORPO HUMANO
+    - Adita PASTAS DE MADEIRA OU DE OUTRAS MATÉRIAS FIBROSAS CELULÓSICAS; PAPEL OU CARTÃO PARA RECICLAR (DESPERDÍCIOS E RESÍDUOS);
+      PAPEL OU CARTÃO E SUAS OBRAS
+    - Suprime GORDURAS E ÓLEOS ANIMAIS OU VEGETAIS; PRODUTOS DA SUA DISSOCIAÇÃO; GORDURAS ALIMENTÍCIAS ELABORADAS; CERAS DE
+      ORIGEM ANIMAL OU VEGETAL
+    - Suprime PRODUTOS DAS INDÚSTRIAS ALIMENTARES; BEBIDAS, LÍQUIDOS ALCOÓLICOS E VINAGRES; TABACO E SEUS SUCEDÂNEOS MANUFATURADOS
+    - Suprime PASTAS DE MADEIRA OU DE OUTRAS MATÉRIAS FIBROSAS CELULÓSICAS; PAPEL OU CARTÃO PARA RECICLAR (DESPERDÍCIOS E
+      APARAS); PAPEL OU CARTÃO E SUAS OBRAS
+  - date: '2022-06-22'
+    amending: eu:celex:32022R0859:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/859 DA COMISSÃO de 24 de maio de 2022
+    changes:
+    - Altera Artigo 10.º
+    - Altera REGRAS GERAIS
+    - Altera DISPOSIÇÕES ESPECIAIS
+    - Altera Notas
+    - Altera Nota
+    - Altera GORDURAS E ÓLEOS ANIMAIS, VEGETAIS OU DE ORIGEM MICROBIANA E PRODUTOS DA SUA DISSOCIAÇÃO; GORDURAS ALIMENTÍCIAS
+      ELABORADAS; CERAS DE ORIGEM ANIMAL OU VEGETAL
+    - Altera PRODUTOS MINERAIS
+    - Altera MADEIRA, CARVÃO VEGETAL E OBRAS DE MADEIRA; CORTIÇA E SUAS OBRAS; OBRAS DE ESPARTARIA OU DE CESTARIA
+    - Altera Notas de subposições
+    - Altera OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU DE MATÉRIAS SEMELHANTES; PRODUTOS CERÂMICOS; VIDRO E SUAS OBRAS
+    - Altera Notas complementares
+    - Altera INSTRUMENTOS E APARELHOS DE ÓTICA, DE FOTOGRAFIA, DE CINEMATOGRAFIA, DE MEDIDA, DE CONTROLO OU DE PRECISÃO; INSTRUMENTOS
+      E APARELHOS MÉDICO-CIRÚRGICOS; ARTIGOS DE RELOJOARIA; INSTRUMENTOS MUSICAIS; SUAS PARTES E ACESSÓRIOS
+    - Altera MERCADORIAS E PRODUTOS DIVERSOS
+    - Altera OBJETOS DE ARTE, DE COLEÇÃO OU ANTIGUIDADES
+    - Altera ANEXOS RELATIVOS À AGRICULTURA
+    - Altera TRATAMENTO PAUTAL FAVORÁVEL EM FUNÇÃO DA NATUREZA DE UMA MERCADORIA
+  - date: '2022-10-13'
+    amending: eu:celex:32022R1638:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1638 DA COMISSÃO de 20 de setembro de 2022
+    changes:
+    - Altera Artigo 10.º
+    - Altera REGRAS GERAIS
+    - Altera DISPOSIÇÕES ESPECIAIS
+    - Altera Notas
+    - Altera Nota
+    - Altera GORDURAS E ÓLEOS ANIMAIS, VEGETAIS OU DE ORIGEM MICROBIANA E PRODUTOS DA SUA DISSOCIAÇÃO; GORDURAS ALIMENTÍCIAS
+      ELABORADAS; CERAS DE ORIGEM ANIMAL OU VEGETAL
+    - Altera PRODUTOS MINERAIS
+    - Altera MADEIRA, CARVÃO VEGETAL E OBRAS DE MADEIRA; CORTIÇA E SUAS OBRAS; OBRAS DE ESPARTARIA OU DE CESTARIA
+    - Altera Notas de subposições
+    - Altera OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU DE MATÉRIAS SEMELHANTES; PRODUTOS CERÂMICOS; VIDRO E SUAS OBRAS
+    - Altera Notas complementares
+    - Altera INSTRUMENTOS E APARELHOS DE ÓTICA, DE FOTOGRAFIA, DE CINEMATOGRAFIA, DE MEDIDA, DE CONTROLO OU DE PRECISÃO; INSTRUMENTOS
+      E APARELHOS MÉDICO-CIRÚRGICOS; ARTIGOS DE RELOJOARIA; INSTRUMENTOS MUSICAIS; SUAS PARTES E ACESSÓRIOS
+    - Altera MERCADORIAS E PRODUTOS DIVERSOS
+    - Altera OBJETOS DE ARTE, DE COLEÇÃO OU ANTIGUIDADES
+    - Altera ANEXOS RELATIVOS À AGRICULTURA
+    - Altera TRATAMENTO PAUTAL FAVORÁVEL EM FUNÇÃO DA NATUREZA DE UMA MERCADORIA
+  - date: '2023-01-01'
+    amending: eu:celex:32022R1998:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1998 DA COMISSÃO de 20 de setembro de 2022; REGULAMENTO (UE) 2022/2465
+      DO CONSELHO de 12 de dezembro de 2022
+    changes:
+    - Altera Artigo 10.º
+    - Altera NOMENCLATURA COMBINADA
+    - Altera REGRAS GERAIS
+    - Altera DISPOSIÇÕES ESPECIAIS
+    - Altera Notas
+    - Altera Nota
+    - Altera GORDURAS E ÓLEOS ANIMAIS, VEGETAIS OU DE ORIGEM MICROBIANA E PRODUTOS DA SUA DISSOCIAÇÃO; GORDURAS ALIMENTÍCIAS
+      ELABORADAS; CERAS DE ORIGEM ANIMAL OU VEGETAL
+    - Altera PRODUTOS MINERAIS
+    - Altera MADEIRA, CARVÃO VEGETAL E OBRAS DE MADEIRA; CORTIÇA E SUAS OBRAS; OBRAS DE ESPARTARIA OU DE CESTARIA
+    - Altera PASTAS DE MADEIRA OU DE OUTRAS MATÉRIAS FIBROSAS CELULÓSICAS; PAPEL OU CARTÃO PARA RECICLAR (DESPERDÍCIOS E RESÍDUOS);
+      PAPEL OU CARTÃO E SUAS OBRAS
+    - Altera Notas de subposições
+    - Altera OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU DE MATÉRIAS SEMELHANTES; PRODUTOS CERÂMICOS; VIDRO E SUAS OBRAS
+    - Altera Notas complementares
+    - Altera INSTRUMENTOS E APARELHOS DE ÓTICA, DE FOTOGRAFIA, DE CINEMATOGRAFIA, DE MEDIDA, DE CONTROLO OU DE PRECISÃO; INSTRUMENTOS
+      E APARELHOS MÉDICO-CIRÚRGICOS; ARTIGOS DE RELOJOARIA; INSTRUMENTOS MUSICAIS; SUAS PARTES E ACESSÓRIOS
+    - Altera ARMAS E MUNIÇÕES; SUAS PARTES E ACESSÓRIOS
+    - Altera MERCADORIAS E PRODUTOS DIVERSOS
+    - Altera OBJETOS DE ARTE, DE COLEÇÃO OU ANTIGUIDADES
+    - Altera ANEXOS RELATIVOS À AGRICULTURA
+    - Altera LISTA DE SUBSTÂNCIAS FARMACÊUTICAS ELEGÍVEIS PARA BENEFICIAR DA ISENÇÃO DE DIREITOS
+    - Altera TRATAMENTO PAUTAL FAVORÁVEL EM FUNÇÃO DA NATUREZA DE UMA MERCADORIA
+    - Adita OUTROS METAIS COMUNS; CERMETS; OBRAS DESSAS MATÉRIAS
+    - Suprime METAIS COMUNS E SUAS OBRAS
+  - date: '2023-06-17'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 10.º
+    - Altera REGRAS GERAIS
+    - Altera DISPOSIÇÕES ESPECIAIS
+    - Altera Notas
+    - Altera Nota
+    - Altera GORDURAS E ÓLEOS ANIMAIS, VEGETAIS OU DE ORIGEM MICROBIANA E PRODUTOS DA SUA DISSOCIAÇÃO; GORDURAS ALIMENTÍCIAS
+      ELABORADAS; CERAS DE ORIGEM ANIMAL OU VEGETAL
+    - Altera PRODUTOS MINERAIS
+    - Altera MADEIRA, CARVÃO VEGETAL E OBRAS DE MADEIRA; CORTIÇA E SUAS OBRAS; OBRAS DE ESPARTARIA OU DE CESTARIA
+    - Altera Notas de subposições
+    - Altera OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU DE MATÉRIAS SEMELHANTES; PRODUTOS CERÂMICOS; VIDRO E SUAS OBRAS
+    - Altera Notas complementares
+    - Altera INSTRUMENTOS E APARELHOS DE ÓTICA, DE FOTOGRAFIA, DE CINEMATOGRAFIA, DE MEDIDA, DE CONTROLO OU DE PRECISÃO; INSTRUMENTOS
+      E APARELHOS MÉDICO-CIRÚRGICOS; ARTIGOS DE RELOJOARIA; INSTRUMENTOS MUSICAIS; SUAS PARTES E ACESSÓRIOS
+    - Altera MERCADORIAS E PRODUTOS DIVERSOS
+    - Altera OBJETOS DE ARTE, DE COLEÇÃO OU ANTIGUIDADES
+    - Altera ANEXOS RELATIVOS À AGRICULTURA
+    - Altera TRATAMENTO PAUTAL FAVORÁVEL EM FUNÇÃO DA NATUREZA DE UMA MERCADORIA
+  - date: '2024-01-01'
+    amending: eu:celex:32023R2364:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/2364 DA COMISSÃO de 26 de setembro de 2023
+    changes:
+    - Altera Artigo 10.º
+    - Altera NOMENCLATURA COMBINADA
+    - Altera REGRAS GERAIS
+    - Altera DISPOSIÇÕES ESPECIAIS
+    - Altera Notas
+    - Altera Nota
+    - Altera GORDURAS E ÓLEOS ANIMAIS, VEGETAIS OU DE ORIGEM MICROBIANA E PRODUTOS DA SUA DISSOCIAÇÃO; GORDURAS ALIMENTÍCIAS
+      ELABORADAS; CERAS DE ORIGEM ANIMAL OU VEGETAL
+    - Altera PRODUTOS MINERAIS
+    - Altera MADEIRA, CARVÃO VEGETAL E OBRAS DE MADEIRA; CORTIÇA E SUAS OBRAS; OBRAS DE ESPARTARIA OU DE CESTARIA
+    - Altera PASTAS DE MADEIRA OU DE OUTRAS MATÉRIAS FIBROSAS CELULÓSICAS; PAPEL OU CARTÃO PARA RECICLAR (DESPERDÍCIOS E RESÍDUOS);
+      PAPEL OU CARTÃO E SUAS OBRAS
+    - Altera Notas de subposições
+    - Altera OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU DE MATÉRIAS SEMELHANTES; PRODUTOS CERÂMICOS; VIDRO E SUAS OBRAS
+    - Altera Notas complementares
+    - Altera INSTRUMENTOS E APARELHOS DE ÓTICA, DE FOTOGRAFIA, DE CINEMATOGRAFIA, DE MEDIDA, DE CONTROLO OU DE PRECISÃO; INSTRUMENTOS
+      E APARELHOS MÉDICO-CIRÚRGICOS; ARTIGOS DE RELOJOARIA; INSTRUMENTOS MUSICAIS; SUAS PARTES E ACESSÓRIOS
+    - Altera MERCADORIAS E PRODUTOS DIVERSOS
+    - Altera ANEXOS RELATIVOS À AGRICULTURA
+    - Altera LISTA DE SUBSTÂNCIAS FARMACÊUTICAS ELEGÍVEIS PARA BENEFICIAR DA ISENÇÃO DE DIREITOS
+    - Altera TRATAMENTO PAUTAL FAVORÁVEL EM FUNÇÃO DA NATUREZA DE UMA MERCADORIA
+    - Adita OBJETOS DE ARTE, DE COLEÇÃO E ANTIGUIDADES
+    - Suprime OBJETOS DE ARTE, DE COLEÇÃO OU ANTIGUIDADES
+  - date: '2024-07-01'
+    amending: eu:celex:32024R1652:por
+    amending_title: REGULAMENTO (UE) 2024/1652 DO CONSELHO de 30 de maio de 2024
+    changes:
+    - Altera Artigo 10.º
+    - Altera REGRAS GERAIS
+    - Altera DISPOSIÇÕES ESPECIAIS
+    - Altera Notas
+    - Altera Nota
+    - Altera GORDURAS E ÓLEOS ANIMAIS, VEGETAIS OU DE ORIGEM MICROBIANA E PRODUTOS DA SUA DISSOCIAÇÃO; GORDURAS ALIMENTÍCIAS
+      ELABORADAS; CERAS DE ORIGEM ANIMAL OU VEGETAL
+    - Altera PRODUTOS MINERAIS
+    - Altera MADEIRA, CARVÃO VEGETAL E OBRAS DE MADEIRA; CORTIÇA E SUAS OBRAS; OBRAS DE ESPARTARIA OU DE CESTARIA
+    - Altera Notas de subposições
+    - Altera OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU DE MATÉRIAS SEMELHANTES; PRODUTOS CERÂMICOS; VIDRO E SUAS OBRAS
+    - Altera Notas complementares
+    - Altera INSTRUMENTOS E APARELHOS DE ÓTICA, DE FOTOGRAFIA, DE CINEMATOGRAFIA, DE MEDIDA, DE CONTROLO OU DE PRECISÃO; INSTRUMENTOS
+      E APARELHOS MÉDICO-CIRÚRGICOS; ARTIGOS DE RELOJOARIA; INSTRUMENTOS MUSICAIS; SUAS PARTES E ACESSÓRIOS
+    - Altera MERCADORIAS E PRODUTOS DIVERSOS
+    - Altera OBJETOS DE ARTE, DE COLEÇÃO E ANTIGUIDADES
+    - Altera ANEXOS RELATIVOS À AGRICULTURA
+    - Altera TRATAMENTO PAUTAL FAVORÁVEL EM FUNÇÃO DA NATUREZA DE UMA MERCADORIA
+  - date: '2024-10-26'
+    amending: eu:celex:32024R2717:por
+    amending_title: M231
+    changes:
+    - Altera Artigo 10.º
+    - Altera REGRAS GERAIS
+    - Altera DISPOSIÇÕES ESPECIAIS
+    - Altera Notas
+    - Altera Nota
+    - Altera GORDURAS E ÓLEOS ANIMAIS, VEGETAIS OU DE ORIGEM MICROBIANA E PRODUTOS DA SUA DISSOCIAÇÃO; GORDURAS ALIMENTÍCIAS
+      ELABORADAS; CERAS DE ORIGEM ANIMAL OU VEGETAL
+    - Altera PRODUTOS MINERAIS
+    - Altera MADEIRA, CARVÃO VEGETAL E OBRAS DE MADEIRA; CORTIÇA E SUAS OBRAS; OBRAS DE ESPARTARIA OU DE CESTARIA
+    - Altera Notas de subposições
+    - Altera OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU DE MATÉRIAS SEMELHANTES; PRODUTOS CERÂMICOS; VIDRO E SUAS OBRAS
+    - Altera Notas complementares
+    - Altera INSTRUMENTOS E APARELHOS DE ÓTICA, DE FOTOGRAFIA, DE CINEMATOGRAFIA, DE MEDIDA, DE CONTROLO OU DE PRECISÃO; INSTRUMENTOS
+      E APARELHOS MÉDICO-CIRÚRGICOS; ARTIGOS DE RELOJOARIA; INSTRUMENTOS MUSICAIS; SUAS PARTES E ACESSÓRIOS
+    - Altera MERCADORIAS E PRODUTOS DIVERSOS
+    - Altera OBJETOS DE ARTE, DE COLEÇÃO E ANTIGUIDADES
+    - Altera ANEXOS RELATIVOS À AGRICULTURA
+    - Altera TRATAMENTO PAUTAL FAVORÁVEL EM FUNÇÃO DA NATUREZA DE UMA MERCADORIA
+  - date: '2025-01-01'
+    amending: eu:celex:32024R2522:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/2522 DA COMISSÃO de 23 de setembro de 2024
+    changes:
+    - Altera Artigo 10.º
+    - Altera NOMENCLATURA COMBINADA
+    - Altera REGRAS GERAIS
+    - Altera DISPOSIÇÕES ESPECIAIS
+    - Altera Notas
+    - Altera Nota
+    - Altera GORDURAS E ÓLEOS ANIMAIS, VEGETAIS OU DE ORIGEM MICROBIANA E PRODUTOS DA SUA DISSOCIAÇÃO; GORDURAS ALIMENTÍCIAS
+      ELABORADAS; CERAS DE ORIGEM ANIMAL OU VEGETAL
+    - Altera PRODUTOS MINERAIS
+    - Altera MADEIRA, CARVÃO VEGETAL E OBRAS DE MADEIRA; CORTIÇA E SUAS OBRAS; OBRAS DE ESPARTARIA OU DE CESTARIA
+    - Altera Notas de subposições
+    - Altera OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU DE MATÉRIAS SEMELHANTES; PRODUTOS CERÂMICOS; VIDRO E SUAS OBRAS
+    - Altera Notas complementares
+    - Altera INSTRUMENTOS E APARELHOS DE ÓTICA, DE FOTOGRAFIA, DE CINEMATOGRAFIA, DE MEDIDA, DE CONTROLO OU DE PRECISÃO; INSTRUMENTOS
+      E APARELHOS MÉDICO-CIRÚRGICOS; ARTIGOS DE RELOJOARIA; INSTRUMENTOS MUSICAIS; SUAS PARTES E ACESSÓRIOS
+    - Altera MERCADORIAS E PRODUTOS DIVERSOS
+    - Altera OBJETOS DE ARTE, DE COLEÇÃO E ANTIGUIDADES
+    - Altera ANEXOS RELATIVOS À AGRICULTURA
+    - Altera LISTA DE SUBSTÂNCIAS FARMACÊUTICAS ELEGÍVEIS PARA BENEFICIAR DA ISENÇÃO DE DIREITOS
+    - Altera TRATAMENTO PAUTAL FAVORÁVEL EM FUNÇÃO DA NATUREZA DE UMA MERCADORIA
+  - date: '2026-01-01'
+    amending: eu:celex:32025R1926:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/1926 DA COMISSÃO de 22 de setembro de 2025
+    changes:
+    - Altera Artigo 10.º
+    - Altera REGRAS GERAIS
+    - Altera DISPOSIÇÕES ESPECIAIS
+    - Altera Notas
+    - Altera Nota
+    - Altera GORDURAS E ÓLEOS ANIMAIS, VEGETAIS OU DE ORIGEM MICROBIANA E PRODUTOS DA SUA DISSOCIAÇÃO; GORDURAS ALIMENTÍCIAS
+      ELABORADAS; CERAS DE ORIGEM ANIMAL OU VEGETAL
+    - Altera PRODUTOS MINERAIS
+    - Altera MADEIRA, CARVÃO VEGETAL E OBRAS DE MADEIRA; CORTIÇA E SUAS OBRAS; OBRAS DE ESPARTARIA OU DE CESTARIA
+    - Altera PASTAS DE MADEIRA OU DE OUTRAS MATÉRIAS FIBROSAS CELULÓSICAS; PAPEL OU CARTÃO PARA RECICLAR (DESPERDÍCIOS E RESÍDUOS);
+      PAPEL OU CARTÃO E SUAS OBRAS
+    - Altera Notas de subposições
+    - Altera OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU DE MATÉRIAS SEMELHANTES; PRODUTOS CERÂMICOS; VIDRO E SUAS OBRAS
+    - Altera Notas complementares
+    - Altera INSTRUMENTOS E APARELHOS DE ÓTICA, DE FOTOGRAFIA, DE CINEMATOGRAFIA, DE MEDIDA, DE CONTROLO OU DE PRECISÃO; INSTRUMENTOS
+      E APARELHOS MÉDICO-CIRÚRGICOS; ARTIGOS DE RELOJOARIA; INSTRUMENTOS MUSICAIS; SUAS PARTES E ACESSÓRIOS
+    - Altera MERCADORIAS E PRODUTOS DIVERSOS
+    - Altera OBJETOS DE ARTE, DE COLEÇÃO E ANTIGUIDADES
+    - Altera ANEXOS RELATIVOS À AGRICULTURA
+    - Altera LISTA DE SUBSTÂNCIAS FARMACÊUTICAS ELEGÍVEIS PARA BENEFICIAR DA ISENÇÃO DE DIREITOS
+    - Altera TRATAMENTO PAUTAL FAVORÁVEL EM FUNÇÃO DA NATUREZA DE UMA MERCADORIA
 identifiers:
   celex: 31987R2658
   eli: http://data.europa.eu/eli/reg/1987/2658/oj
@@ -49,7 +446,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c5a368fa-fd18-4efb-ae18-e4ac4e83055c.0011
   content_url: http://publications.europa.eu/resource/cellar/6802391f-da8f-11f0-8da2-01aa75ed71a1.0023.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01987R2658-20260101
-  retrieved_at: '2026-10-22T02:36:52Z'
+  retrieved_at: '2026-10-22T14:41:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-16T18:06:00.243+02:00'
 integrity:
@@ -58,9 +455,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:52Z'
-  notes: Texto consolidado 01987R2658-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:11Z'
+  notes: 15 versão(ões); histórico completo em regulamento-ue-1987-2658.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -2481,327 +2878,23 @@ relationships:
   date: '1969-01-21'
 article_structure:
   article_count: 13
-  section_count: 76
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 77
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:52Z'
-  warnings: []
+  checked_at: '2026-10-22T14:41:11Z'
+  warnings:
+  - '01987R2658-19960101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01987R2658-20190101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01987R2658-20200101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01987R2658-20200505: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CEE) nº 2658/87 do Conselho de 23 de Julho de 1987
-
-> 01987R2658 — PT — 01.01.2026 — 018.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/31987R3985) — [REGULAMENTO (CEE) n.º 3985/87 DA COMISSÃO de 22 de Dezembro de 1987](http://publications.europa.eu/resource/celex/31987R3985) — L 376 — 1 — 31.12.1987
-- [M2](http://publications.europa.eu/resource/celex/31988R1045) — [REGULAMENTO (CEE) n.º 1045/88 DO CONSELHO de 18 de Abril de 1988](http://publications.europa.eu/resource/celex/31988R1045) — L 103 — 1 — 22.4.1988
-- [M3](http://publications.europa.eu/resource/celex/31988R1315) — [REGULAMENTO (CEE) n.º 1315/88 DO CONSELHO de 3 de Maio de 1988](http://publications.europa.eu/resource/celex/31988R1315) — L 123 — 2 — 17.5.1988
-- [M4](http://publications.europa.eu/resource/celex/31988R1858) — [REGULAMENTO (CEE) n.º 1858/88 DA COMISSÃO de 30 de Junho de 1988](http://publications.europa.eu/resource/celex/31988R1858) — L 166 — 10 — 1.7.1988
-- [M5](http://publications.europa.eu/resource/celex/31988R2275) — [REGULAMENTO (CEE) n.º 2275/88 DA COMISSÃO de 25 de Julho de 1988](http://publications.europa.eu/resource/celex/31988R2275) — L 200 — 10 — 26.7.1988
-- [M6](http://publications.europa.eu/resource/celex/31988R3174) — [REGULAMENTO (CEE) n.º 3174/88 DA COMISSÃO de 21 de Setembro de 1988](http://publications.europa.eu/resource/celex/31988R3174) — L 298 — 1 — 31.10.1988
-- [M7](http://publications.europa.eu/resource/celex/31988R3468) — [REGULAMENTO (CEE) n.º 3468/88 DO CONSELHO de 7 de Novembro de 1988](http://publications.europa.eu/resource/celex/31988R3468) — L 305 — 1 — 10.11.1988
-- [M8](http://publications.europa.eu/resource/celex/31988R3491) — [REGULAMENTO (CEE) n.º 3491/88 DA COMISSÃO de 9 de Novembro de 1988](http://publications.europa.eu/resource/celex/31988R3491) — L 306 — 18 — 11.11.1988
-- [M9](http://publications.europa.eu/resource/celex/31988R4107) — [REGULAMENTO (CEE) n.º 4107/88 DO CONSELHO de 21 de Dezembro de 1988](http://publications.europa.eu/resource/celex/31988R4107) — L 361 — 1 — 29.12.1988
-- [M10](http://publications.europa.eu/resource/celex/31989R0020) — [REGULAMENTO (CEE) n.º 20/89 DA COMISSAO de 4 de Janeiro de 1989](http://publications.europa.eu/resource/celex/31989R0020) — L 4 — 19 — 6.1.1989
-- [M11](http://publications.europa.eu/resource/celex/31989R1495) — [REGULAMENTO (CEE) n.º 1495/89 DO CONSELHO de 29 de Maio de 1989](http://publications.europa.eu/resource/celex/31989R1495) — L 148 — 1 — 1.6.1989
-- [M12](http://publications.europa.eu/resource/celex/31989R1672) — [REGULAMENTO (CEE) n.º 1672/89 DO CONSELHO, de 29 de Maio de 1989,](http://publications.europa.eu/resource/celex/31989R1672) — L 169 — 1 — 19.6.1989
-- [M13](http://publications.europa.eu/resource/celex/31989R2886) — [REGULAMENTO (CEE) n.º 2886/89 DA COMISSÃO, de 2 de Agosto de 1989,](http://publications.europa.eu/resource/celex/31989R2886) — L 282 — 1 — 2.10.1989
-- [M14](http://publications.europa.eu/resource/celex/31989R3469) — [REGULAMENTO (CEE) n.º 3469/89 DA COMISSÃO de 16 de Novembro de 1989](http://publications.europa.eu/resource/celex/31989R3469) — L 337 — 5 — 21.11.1989
-- [M15](http://publications.europa.eu/resource/celex/31989R3528) — [REGULAMENTO (CEE) n.º 3528/89 DO CONSELHO de 23 de Novembro de 1989](http://publications.europa.eu/resource/celex/31989R3528) — L 347 — 1 — 28.11.1989
-- [M16](http://publications.europa.eu/resource/celex/31989R3845) — [REGULAMENTO (CEE) n.º 3845/89 DO CONSELHO de 18 de Dezembro de 1989](http://publications.europa.eu/resource/celex/31989R3845) — L 374 — 2 — 22.12.1989
-- [M17](http://publications.europa.eu/resource/celex/31990R0323) — [REGULAMENTO (CEE) n.º 323/90 DA COMISSAO de 6 de Fevereiro de 1990](http://publications.europa.eu/resource/celex/31990R0323) — L 36 — 7 — 8.2.1990
-- [M18](http://publications.europa.eu/resource/celex/31990R1119) — [REGULAMENTO (CEE) n.º 1119/90 DA COMISSAO de 2 de Maio de 1990](http://publications.europa.eu/resource/celex/31990R1119) — L 112 — 9 — 3.5.1990
-- [M19](http://publications.europa.eu/resource/celex/31990R1251) — [REGULAMENTO (CEE) n.º 1251/90 DA COMISSAO de 11 de Maio de 1990](http://publications.europa.eu/resource/celex/31990R1251) — L 121 — 29 — 12.5.1990
-- [M20](http://publications.europa.eu/resource/celex/31990R2472) — [REGULAMENTO (CEE) n.º 2472/90 DA COMISSÃO de 31 de Julho de 1990](http://publications.europa.eu/resource/celex/31990R2472) — L 247 — 1 — 10.9.1990
-- [M21](http://publications.europa.eu/resource/celex/31990R2943) — [REGULAMENTO (CEE) n.º 2943/90 DA COMISSÃO de 11 de Outubro de 1990](http://publications.europa.eu/resource/celex/31990R2943) — L 281 — 22 — 12.10.1990
-- [M22](http://publications.europa.eu/resource/celex/31990R3116) — [REGULAMENTO (CEE) n.º 3116/90 DO CONSELHO, de 15 de Outubro de 1990,](http://publications.europa.eu/resource/celex/31990R3116) — L 303 — 1 — 31.10.1990
-- [M23](http://publications.europa.eu/resource/celex/31990R3274) — [REGULAMENTO (CEE) n.º 3274/90 DO CONSELHO de 8 de Novembro de 1990](http://publications.europa.eu/resource/celex/31990R3274) — L 315 — 2 — 15.11.1990
-- [M24](http://publications.europa.eu/resource/celex/31991R0053) — [REGULAMENTO (CEE) n.º 53/91 DA COMISSÃO de 8 de Janeiro de 1991](http://publications.europa.eu/resource/celex/31991R0053) — L 7 — 14 — 10.1.1991
-- [M25](http://publications.europa.eu/resource/celex/31991R0283) — [REGULAMENTO (CEE) n.º 283/91 DO CONSELHO de 4 de Fevereiro de 1991](http://publications.europa.eu/resource/celex/31991R0283) — L 35 — 1 — 7.2.1991
-- [M26](http://publications.europa.eu/resource/celex/31991R0315) — [REGULAMENTO (CEE) n.º 315/91 DA COMISSÃO de 7 de Fevereiro de 1991](http://publications.europa.eu/resource/celex/31991R0315) — L 37 — 24 — 9.2.1991
-- [M27](http://publications.europa.eu/resource/celex/31991R1056) — [REGULAMENTO (CEE) n.º 1056/91 DA COMISSÃO de 25 de Abril de 1991](http://publications.europa.eu/resource/celex/31991R1056) — L 107 — 10 — 27.4.1991
-- [M28](http://publications.europa.eu/resource/celex/31991R2084) — [REGULAMENTO (CEE) n.º 2084/91 DA COMISSÃO de 12 de Julho de 1991](http://publications.europa.eu/resource/celex/31991R2084) — L 193 — 16 — 17.7.1991
-- [M29](http://publications.europa.eu/resource/celex/31991R2242) — [REGULAMENTO (CEE) n.º 2242/91 DA COMISSÃO de 26 de Julho de 1991](http://publications.europa.eu/resource/celex/31991R2242) — L 204 — 21 — 27.7.1991
-- [M30](http://publications.europa.eu/resource/celex/31991R2587) — [REGULAMENTO (CEE) n.º 2587/91 DA COMISSÃO de 26 de Julho de 1991](http://publications.europa.eu/resource/celex/31991R2587) — L 259 — 1 — 16.9.1991
-- [M31](http://publications.europa.eu/resource/celex/31991R3402) — [REGULAMENTO (CEE) n.º 3402/91 do Conselho de 19 de Novembro de 1991r.](http://publications.europa.eu/resource/celex/31991R3402) — L 321 — 1 — 23.11.1991
-- [M32](http://publications.europa.eu/resource/celex/31991R3492) — [REGULAMENTO (CEE) n.º 3492/91 DA COMISSÃO de 29 de Novembro de 1991](http://publications.europa.eu/resource/celex/31991R3492) — L 328 — 80 — 30.11.1991
-- [M33](http://publications.europa.eu/resource/celex/31991R3537) — [REGULAMENTO (CEE) n.º 3492/91 DA COMISSÃO de 4 de Dezembro de 1991](http://publications.europa.eu/resource/celex/31991R3537) — L 335 — 9 — 6.12.1991
-- [M34](http://publications.europa.eu/resource/celex/31991R3693) — [REGULAMENTO (CEE) n.º 3693/91 DA COMISSÃO de 17 de Dezembro de 1991](http://publications.europa.eu/resource/celex/31991R3693) — L 350 — 15 — 19.12.1991
-- [M35](http://publications.europa.eu/resource/celex/31991R3798) — [REGULAMENTO (CEE) n.º 3798/91 DO CONSELHO de 19 de Dezembro de 1991](http://publications.europa.eu/resource/celex/31991R3798) — L 357 — 3 — 28.12.1991
-- [M36](http://publications.europa.eu/resource/celex/31991R3916) — [REGULAMENTO (CEE) n.º 3916/91 DO CONSELHO, de 19 de Dezembro de 1991,](http://publications.europa.eu/resource/celex/31991R3916) — L 372 — 28 — 31.12.1991
-- [M37](http://publications.europa.eu/resource/celex/31991R3917) — [REGULAMENTO (CEE) n.º 3917/91 DO CONSELHO, de 19 de Dezembro de 1991,](http://publications.europa.eu/resource/celex/31991R3917) — L 372 — 29 — 31.12.1991
-- [M38](http://publications.europa.eu/resource/celex/31992R0627) — [REGULAMENTO (CEE) n.º 627/92 DA COMISSÃO de 12 de Março de 1992](http://publications.europa.eu/resource/celex/31992R0627) — L 68 — 9 — 13.3.1992
-- [M39](http://publications.europa.eu/resource/celex/31992R1039) — [REGULAMENTO (CEE) n.º 1039/92 DA COMISSÃO de 27 de Abril de 1992](http://publications.europa.eu/resource/celex/31992R1039) — L 110 — 42 — 28.4.1992
-- [M40](http://publications.europa.eu/resource/celex/31992R2505) — [REGULAMENTO (CEE) n.º 2505/92 DA COMISSÃO de 14 Julho de 1992,](http://publications.europa.eu/resource/celex/31992R2505) — L 267 — 1 — 14.9.1992
-- [►M41](http://publications.europa.eu/resource/celex/31992R2913) — [REGULAMENTO (CEE) n.º 2913/92 DO CONSELHO de 12 de Outubro de 1992](http://publications.europa.eu/resource/celex/31992R2913) — L 302 — 1 — 19.10.1992
-- [M42](http://publications.europa.eu/resource/celex/31992R3800) — [REGULAMENTO (CEE) n.º 3800/92 DA COMISSÃO, de 23 de Dezembro de 1992,](http://publications.europa.eu/resource/celex/31992R3800) — L 384 — 8 — 30.12.1992
-- [M43](http://publications.europa.eu/resource/celex/31993R0558) — [REGULAMENTO (CEE) n.º 558/93 DA COMISSÃO, de 10 de Março de 1993,](http://publications.europa.eu/resource/celex/31993R0558) — L 58 — 50 — 11.3.1993
-- [M44](http://publications.europa.eu/resource/celex/31993R0697) — [REGULAMENTO (CEE) n.º 697/93 DO CONSELHO, de 17 de Março de 1993,](http://publications.europa.eu/resource/celex/31993R0697) — L 76 — 12 — 30.3.1993
-- [M45](http://publications.europa.eu/resource/celex/31993R1001) — [REGULAMENTO (CEE) n.º 1001/93 DA COMISSÃO, de 23 de Abril de 1993,](http://publications.europa.eu/resource/celex/31993R1001) — L 104 — 28 — 29.4.1993
-- [M46](http://publications.europa.eu/resource/celex/31993R1574) — [REGULAMENTO (CEE) n.º 1574/93 DO CONSELHO de 14 de Junho de 1993](http://publications.europa.eu/resource/celex/31993R1574) — L 152 — 1 — 24.6.1993
-- [M47](http://publications.europa.eu/resource/celex/31993R1667) — [REGULAMENTO (CEE) n.º 1667/93 DA COMISSÃO de 29 de Junho de 1993](http://publications.europa.eu/resource/celex/31993R1667) — L 158 — 25 — 30.6.1993
-- [M48](http://publications.europa.eu/resource/celex/31993R1891) — [REGULAMENTO (CEE) n.º 1891/93 DO CONSELHO de 12 de Julho de 1993](http://publications.europa.eu/resource/celex/31993R1891) — L 172 — 1 — 15.7.1993
-- [M49](http://publications.europa.eu/resource/celex/31993R1959) — [REGULAMENTO (CEE) n.º 1959/93 DA COMISSÃO de 19 de Julho de 1993](http://publications.europa.eu/resource/celex/31993R1959) — L 177 — 12 — 21.7.1993
-- [►M50](http://publications.europa.eu/resource/celex/31993R1969) — [REGULAMENTO (CEE) n.º 1969/93 DO CONSELHO de 19 de Julho de 1993](http://publications.europa.eu/resource/celex/31993R1969) — L 180 — 9 — 23.7.1993
-- [M51](http://publications.europa.eu/resource/celex/31993R2593) — [REGULAMENTO (CEE) n.º 2593/93 DA COMISSÃO de 21 de Setembro de 1993](http://publications.europa.eu/resource/celex/31993R2593) — L 238 — 18 — 23.9.1993
-- [M52](http://publications.europa.eu/resource/celex/31993R2551) — [REGULAMENTO (CEE) n.º 2551/93 DA COMISSÃO de 10 de Agosto de 1993](http://publications.europa.eu/resource/celex/31993R2551) — L 241 — 1 — 27.9.1993
-- [M53](http://publications.europa.eu/resource/celex/31993R2976) — [REGULAMENTO (CEE) n.º 2976/93 DA COMISSÃO de 27 de Outubro de 1993](http://publications.europa.eu/resource/celex/31993R2976) — L 268 — 21 — 29.10.1993
-- [M54](http://publications.europa.eu/resource/celex/31993R3080) — [REGULAMENTO (CEE) n.º 3080/93 DO CONSELHO de 5 de Novembro de 1993](http://publications.europa.eu/resource/celex/31993R3080) — L 277 — 1 — 10.11.1993
-- [M55](http://publications.europa.eu/resource/celex/31994R0535) — [REGULAMENTO (CEE) n.º 535/94 DA COMISSÃO de 9 de Março de 1994](http://publications.europa.eu/resource/celex/31994R0535) — L 68 — 15 — 11.3.1994
-- [M56](http://publications.europa.eu/resource/celex/31994R0779) — [REGULAMENTO (CEE) n.º 779/94 DA COMISSÃO de 6 de Abril de 1994](http://publications.europa.eu/resource/celex/31994R0779) — L 91 — 12 — 8.4.1994
-- [M57](http://publications.europa.eu/resource/celex/31994R0882) — [REGULAMENTO (CEE) n.º 882/94 DA COMISSÃO de 20 de Abril de 1994](http://publications.europa.eu/resource/celex/31994R0882) — L 103 — 5 — 22.4.1994
-- [M58](http://publications.europa.eu/resource/celex/31994R1641) — [REGULAMENTO (CEE) n.º 1641/94 DA COMISSÃO de 6 de Julho de 1994](http://publications.europa.eu/resource/celex/31994R1641) — L 172 — 12 — 7.7.1994
-- [M59](http://publications.europa.eu/resource/celex/31994R1706) — [REGULAMENTO (CEE) n.º 1706/94 DA COMISSÃO de 11 de Julho de 1994](http://publications.europa.eu/resource/celex/31994R1706) — L 180 — 17 — 14.7.1994
-- [M60](http://publications.europa.eu/resource/celex/31994R1737) — [REGULAMENTO (CEE) n.º 1737/94 DA COMISSÃO de 15 de Julho de 1994](http://publications.europa.eu/resource/celex/31994R1737) — L 182 — 9 — 16.7.1994
-- [M61](http://publications.europa.eu/resource/celex/31994R1785) — [REGULAMENTO (CEE) n.º 1785/94 DA COMISSÃO de 19 de Julho de 1994](http://publications.europa.eu/resource/celex/31994R1785) — L 186 — 20 — 21.7.1994
-- [M62](http://publications.europa.eu/resource/celex/31994R3115) — [REGULAMENTO (CE) n.º 3115/94 DA COMISSÃO de 20 de Dezembro de 1994](http://publications.europa.eu/resource/celex/31994R3115) — L 345 — 1 — 31.12.1994
-- [M63](http://publications.europa.eu/resource/celex/31994R3330) — [REGULAMENTO (CE) n.º 3330/94 DA COMISSÃO, de 21 de Dezembro de 1994,](http://publications.europa.eu/resource/celex/31994R3330) — L 350 — 52 — 31.12.1994
-- [M64](http://publications.europa.eu/resource/celex/31995R0656) — [REGULAMENTO (CE) n.º 656/95 DA COMISSÃO de 28 de Março de 1995](http://publications.europa.eu/resource/celex/31995R0656) — L 69 — 1 — 29.3.1995
-- [M65](http://publications.europa.eu/resource/celex/31995R1165) — [REGULAMENTO (CE) n.º 1165/95 DA COMISSÃO, de 23 de Maio de 1995,](http://publications.europa.eu/resource/celex/31995R1165) — L 117 — 15 — 24.5.1995
-- [M66](http://publications.europa.eu/resource/celex/31995R1305) — [REGULAMENTO (CE) n.º 1305/95 DA COMISSÃO, de 8 de Junho de 1995,](http://publications.europa.eu/resource/celex/31995R1305) — L 126 — 11 — 9.6.1995
-- [►M67](http://publications.europa.eu/resource/celex/31995R1359) — [REGULAMENTO (CE) n.º 1359/95 DA COMISSÃO, de 13 de Junho de 1995,](http://publications.europa.eu/resource/celex/31995R1359) — L 142 — 1 — 26.6.1995
-- [M68](http://publications.europa.eu/resource/celex/31995R1562) — [REGULAMENTO (CE) n.º 1562/95 DA COMISSÃO, de 29 de Junho de 1995,](http://publications.europa.eu/resource/celex/31995R1562) — L 150 — 16 — 1.7.1995
-- [M69](http://publications.europa.eu/resource/celex/31995R1739) — [REGULAMENTO (CE) N.O 1739/95 DA COMISSÃO, de 17 de Julho de 1995,](http://publications.europa.eu/resource/celex/31995R1739) — L 167 — 7 — 18.7.1995
-- [M70](http://publications.europa.eu/resource/celex/31995R2458) — [REGULAMENTO (CE) N.O 2458/95 DA COMISSÃO, de 19 de Outubro de 1995,](http://publications.europa.eu/resource/celex/31995R2458) — L 253 — 1 — 21.10.1995
-- [M71](http://publications.europa.eu/resource/celex/31995R2448) — [REGULAMENTO (CE) N.O 2448/95 DA COMISSÃO, de 10 de Outubro de 1995,](http://publications.europa.eu/resource/celex/31995R2448) — L 259 — 1 — 30.10.1995
-- [M72](http://publications.europa.eu/resource/celex/31995R2587) — [REGULAMENTO (CE) N.O 2587/95 DA COMISSÃO, de 3 de Novembro de 1995,](http://publications.europa.eu/resource/celex/31995R2587) — L 264 — 1 — 7.11.1995
-- [M73](http://publications.europa.eu/resource/celex/31995R2588) — [REGULAMENTO (CE) N.O 2588/95 DA COMISSÃO, de 3 de Novembro de 1995,](http://publications.europa.eu/resource/celex/31995R2588) — L 264 — 4 — 7.11.1995
-- [M74](http://publications.europa.eu/resource/celex/31995R2810) — [REGULAMENTO (CE) N.O 2810/95 DA COMISSÃO, de 5 de Dezembro de 1995,](http://publications.europa.eu/resource/celex/31995R2810) — L 291 — 24 — 6.12.1995
-- [M75](http://publications.europa.eu/resource/celex/31995R3009) — [REGULAMENTO (CE) N.O 3009/95 DA COMISSÃO, de 22 de Dezembro de 1995,](http://publications.europa.eu/resource/celex/31995R3009) — L 319 — 1 — 30.12.1995
-- [M76](http://publications.europa.eu/resource/celex/31996R0192) — [REGULAMENTO (CE) N.O 192/96 DA COMISSÃO, de 31 de Janeiro de 1996,](http://publications.europa.eu/resource/celex/31996R0192) — L 26 — 5 — 2.2.1996
-- [M77](http://publications.europa.eu/resource/celex/31996R0344) — [REGULAMENTO (CE) N.O 344/96 DO CONSELHO, de 26 de Fevereiro de 1996,](http://publications.europa.eu/resource/celex/31996R0344) — L 49 — 1 — 28.2.1996
-- [M78](http://publications.europa.eu/resource/celex/31996R0586) — [REGULAMENTO (CE) N.O 586/96 DA COMISSÃO, de 1 de Abril de 1996,](http://publications.europa.eu/resource/celex/31996R0586) — L 84 — 18 — 3.4.1996
-- [M79](http://publications.europa.eu/resource/celex/31996R1035) — [REGULAMENTO (CE) n.º 1035/96 DA COMISSÃO de 8 de Maio de 1996](http://publications.europa.eu/resource/celex/31996R1035) — L 152 — 1 — 26.6.1996
-- [M80](http://publications.europa.eu/resource/celex/31996R1191) — [REGULAMENTO (CE) N.O 1191/96 DO CONSELHO de 26 de Junho de 1996](http://publications.europa.eu/resource/celex/31996R1191) — L 156 — 11 — 29.6.1996
-- [M81](http://publications.europa.eu/resource/celex/31996R1192) — [REGULAMENTO (CE) N.O 1192/96 DO CONSELHO de 25 de Junho de 1996](http://publications.europa.eu/resource/celex/31996R1192) — L 156 — 15 — 29.6.1996
-- [M82](http://publications.europa.eu/resource/celex/31996R1734) — [REGULAMENTO (CE) n.º 1734/96 DA COMISSÃO de 9 de Setembro de 1996](http://publications.europa.eu/resource/celex/31996R1734) — L 238 — 1 — 19.9.1996
-- [M83](http://publications.europa.eu/resource/celex/31996R2445) — [REGULAMENTO (CE) n.º 2445/96 DO CONSELHO de 17 de Dezembro de 1996](http://publications.europa.eu/resource/celex/31996R2445) — L 333 — 5 — 21.12.1996
-- [M84](http://publications.europa.eu/resource/celex/31996R2491) — [REGULAMENTO (CE) N.O 2491/96 DA COMISSÃO de 23 de Dezembro de 1996](http://publications.europa.eu/resource/celex/31996R2491) — L 338 — 14 — 28.12.1996
-- [M85](http://publications.europa.eu/resource/celex/31996R2492) — [REGULAMENTO (CE) N.O 2492/96 DA COMISSÃO de 23 de Dezembro de 1996](http://publications.europa.eu/resource/celex/31996R2492) — L 338 — 16 — 28.12.1996
-- [M86](http://publications.europa.eu/resource/celex/31996R2493) — [REGULAMENTO (CE) N.O 2493/96 DA COMISSÃO de 23 de Dezembro de 1996](http://publications.europa.eu/resource/celex/31996R2493) — L 338 — 27 — 28.12.1996
-- [M87](http://publications.europa.eu/resource/celex/31997R0288) — [REGULAMENTO (CE) N.O 288/97 DA COMISSÃO de 17 de Fevereiro de 1997](http://publications.europa.eu/resource/celex/31997R0288) — L 48 — 7 — 19.2.1997
-- [M88](http://publications.europa.eu/resource/celex/31997R0480) — [REGULAMENTO (CE) n.º 480/97 DA COMISSÃO de 14 de Março de 1997](http://publications.europa.eu/resource/celex/31997R0480) — L 75 — 9 — 15.3.1997
-- [M89](http://publications.europa.eu/resource/celex/31997R0866) — [REGULAMENTO (CE) n.º 866/97 DO CONSELHO de 12 de Maio de 1997](http://publications.europa.eu/resource/celex/31997R0866) — L 124 — 1 — 16.5.1997
-- [M90](http://publications.europa.eu/resource/celex/31997R1153) — [REGULAMENTO (CE) n.º 1153/97 DA COMISSÃO de 24 de Junho de 1997](http://publications.europa.eu/resource/celex/31997R1153) — L 168 — 35 — 26.6.1997
-- [M91](http://publications.europa.eu/resource/celex/31997R1194) — [REGULAMENTO (CE) n.º 1194/97 DA COMISSÃO de 27 de Junho de 1997](http://publications.europa.eu/resource/celex/31997R1194) — L 170 — 10 — 28.6.1997
-- [M92](http://publications.europa.eu/resource/celex/31997R1195) — [REGULAMENTO (CE) n.º 1195/97 DA COMISSÃO de 27 de Junho de 1997](http://publications.europa.eu/resource/celex/31997R1195) — L 170 — 11 — 28.6.1997
-- [M93](http://publications.europa.eu/resource/celex/31997R1624) — [REGULAMENTO (CE) n.º 1624/97 DA COMISSÃO de 13 de Agosto de 1997](http://publications.europa.eu/resource/celex/31997R1624) — L 224 — 16 — 14.8.1997
-- [M94](http://publications.europa.eu/resource/celex/31997R2216) — [REGULAMENTO (CE) n.º 2216/97 DO CONSELHO de 3 de Novembro de 1997](http://publications.europa.eu/resource/celex/31997R2216) — L 305 — 1 — 8.11.1997
-- [M95](http://publications.europa.eu/resource/celex/31997R2086) — [REGULAMENTO (CE) n.º 2086/97 DA COMISSÃO de 4 de Novembro de 1997](http://publications.europa.eu/resource/celex/31997R2086) — L 312 — 1 — 14.11.1997
-- [M96](http://publications.europa.eu/resource/celex/31997R2308) — [REGULAMENTO (CE) n.º 2308/97 DO CONSELHO de 17 de Novembro de 1997](http://publications.europa.eu/resource/celex/31997R2308) — L 321 — 1 — 22.11.1997
-- [M97](http://publications.europa.eu/resource/celex/31997R2472) — [REGULAMENTO (CE) n.º 2472/97 DA COMISSÃO de 11 de Dezembro de 1997](http://publications.europa.eu/resource/celex/31997R2472) — L 341 — 25 — 12.12.1997
-- [M98](http://publications.europa.eu/resource/celex/31997R2509) — [REGULAMENTO (CE) n.º 2509/97 DA COMISSÃO de 15 de Dezembro de 1997](http://publications.europa.eu/resource/celex/31997R2509) — L 345 — 44 — 16.12.1997
-- [M99](http://publications.europa.eu/resource/celex/31998R1048) — [REGULAMENTO (CE) n.º 1048/98 DO CONSELHO de 18 de Maio de 1998](http://publications.europa.eu/resource/celex/31998R1048) — L 151 — 1 — 21.5.1998
-- [M100](http://publications.europa.eu/resource/celex/31998R2248) — [REGULAMENTO (CE) n.º 2248/98 DA COMISSÃO de 19 de Outubro de 1998](http://publications.europa.eu/resource/celex/31998R2248) — L 282 — 55 — 20.10.1998
-- [M101](http://publications.europa.eu/resource/celex/31998R2261) — [REGULAMENTO (CE) n.º 2261/98 DA COMISSÃO de 26 de Outubro de 1998](http://publications.europa.eu/resource/celex/31998R2261) — L 292 — 1 — 30.10.1998
-- [M102](http://publications.europa.eu/resource/celex/31999R0860) — [REGULAMENTO (CE) n.º 860/1999 DO CONSELHO, de 22 de Abril de 1999,](http://publications.europa.eu/resource/celex/31999R0860) — L 108 — 10 — 27.4.1999
-- [M103](http://publications.europa.eu/resource/celex/31999R0861) — [REGULAMENTO (CE) n.º 861/1999 DO CONSELHO, de 22 de Abril de 1999,](http://publications.europa.eu/resource/celex/31999R0861) — L 108 — 11 — 27.4.1999
-- [M104](http://publications.europa.eu/resource/celex/31999R1372) — [REGULAMENTO (CE) n.º 1372/1999 DA COMISSÃO, de 25 de Junho de 1999,](http://publications.europa.eu/resource/celex/31999R1372) — L 162 — 46 — 26.6.1999
-- [M105](http://publications.europa.eu/resource/celex/31999R1835) — [REGULAMENTO (CE) n.º 1835/1999 DA COMISSÃO, de 24 de Agosto de 1999,](http://publications.europa.eu/resource/celex/31999R1835) — L 224 — 5 — 25.8.1999
-- [M106](http://publications.europa.eu/resource/celex/31999R2204) — [REGULAMENTO (CE) n.º 2204/1999 DA COMISSÃO, de 12 de Outubro de 1999,](http://publications.europa.eu/resource/celex/31999R2204) — L 278 — 1 — 28.10.1999
-- [M107](http://publications.europa.eu/resource/celex/31999R2626) — [REGULAMENTO (CE) n.º 2626/1999 DA COMISSÃO, de 13 de Dezembro de 1999,](http://publications.europa.eu/resource/celex/31999R2626) — L 321 — 3 — 14.12.1999
-- [►M108](http://publications.europa.eu/resource/celex/32000R0254) — [REGULAMENTO (CE) N.º 254/2000 DO CONSELHO de 31 de Janeiro de 2000](http://publications.europa.eu/resource/celex/32000R0254) — L 28 — 16 — 3.2.2000
-- [M109](http://publications.europa.eu/resource/celex/32000R1228) — [REGULAMENTO (CE) n.º 1228/2000 DA COMISSÃO de 31 de Maio de 2000](http://publications.europa.eu/resource/celex/32000R1228) — L 143 — 22 — 16.6.2000
-- [M110](http://publications.europa.eu/resource/celex/32000R1264) — [REGULAMENTO (CE) n.º 1264/2000 DO CONSELHO de 8 de Junho de 2000](http://publications.europa.eu/resource/celex/32000R1264) — L 144 — 6 — 17.6.2000
-- [M111](http://publications.europa.eu/resource/celex/32000R2388) — [REGULAMENTO (CE) n.º 2263/2000 DA COMISSÃO de 13 de Outubro de 2000](http://publications.europa.eu/resource/celex/32000R2388) — L 264 — 1 — 18.10.2000
-- [M112](http://publications.europa.eu/resource/celex/32000R2559) — [REGULAMENTO (CE) n.º 2559/2000 DO CONSELHO de 16 de Novembro de 2000](http://publications.europa.eu/resource/celex/32000R2559) — L 293 — 1 — 22.11.2000
-- [M113](http://publications.europa.eu/resource/celex/32001R1229) — [RÈGLEMENT (CE) n.º 1229/2000 DE LA COMMISSION du 19 juin 2001](http://publications.europa.eu/resource/celex/32001R1229) — L 168 — 5 — 23.6.2001
-- [M114](http://publications.europa.eu/resource/celex/32001R1230) — [REGULAMENTO (CE) n.º 1230/2001 DA COMISSÃO de 21 de Junho de 2001](http://publications.europa.eu/resource/celex/32001R1230) — L 168 — 6 — 23.6.2001
-- [M115](http://publications.europa.eu/resource/celex/32001R1776) — [REGULAMENTO (CE) n.º 1776/2001 DA COMISSÃO de 7 de Setembro de 2001](http://publications.europa.eu/resource/celex/32001R1776) — L 240 — 3 — 8.9.2001
-- [M116](http://publications.europa.eu/resource/celex/32001R1777) — [REGULAMENTO (CE) n.º 1777/2001 DA COMISSÃO de 7 de Setembro de 2001](http://publications.europa.eu/resource/celex/32001R1777) — L 240 — 4 — 8.9.2001
-- [M117](http://publications.europa.eu/resource/celex/32001R1783) — [REGULAMENTO (CE) n.º 1783/2001 DA COMISSÃO de 10 de Agosto de 2001](http://publications.europa.eu/resource/celex/32001R1783) — L 241 — 7 — 11.9.2001
-- [M118](http://publications.europa.eu/resource/celex/32001R2042) — [REGULAMENTO (CE) n.º 2042/2001 DA COMISSÃO de 18 de Outubro de 2001](http://publications.europa.eu/resource/celex/32001R2042) — L 276 — 8 — 19.10.2001
-- [M119](http://publications.europa.eu/resource/celex/32001R2031) — [REGULAMENTO (CE) n.º 2031/2001 DA COMISSÃO de 6 de Agosto de 2001](http://publications.europa.eu/resource/celex/32001R2031) — L 279 — 1 — 23.10.2001
-- [M120](http://publications.europa.eu/resource/celex/32001R2433) — [REGULAMENTO (CE) n.º 2433/2001 DO CONSELHO de 6 de Dezembro de 2001](http://publications.europa.eu/resource/celex/32001R2433) — L 329 — 4 — 14.12.2001
-- [M121](http://publications.europa.eu/resource/celex/32002R0578) — [REGULAMENTO (CE) n.º 578/2002 DA COMISSÃO de 20 de Março de 2002](http://publications.europa.eu/resource/celex/32002R0578) — L 97 — 1 — 13.4.2002
-- [M122](http://publications.europa.eu/resource/celex/32002R0796) — [REGULAMENTO (CE) n.º 796/2002 DA COMISSÃO de 6 de Maio de 2002](http://publications.europa.eu/resource/celex/32002R0796) — L 128 — 8 — 15.5.2002
-- [M123](http://publications.europa.eu/resource/celex/32002R0969) — [REGULAMENTO (CE) n.º 969/2002 DA COMISSÃO de 6 de Junho de 2002](http://publications.europa.eu/resource/celex/32002R0969) — L 149 — 20 — 7.6.2002
-- [M124](http://publications.europa.eu/resource/celex/32002R1832) — [REGULAMENTO (CE) n.º 1832/2002 DA COMISSÃO de 1 de Agosto de 2002](http://publications.europa.eu/resource/celex/32002R1832) — L 290 — 1 — 28.10.2002
-- [M125](http://publications.europa.eu/resource/celex/32002R2176) — [REGULAMENTO (CE) n.º 2176/2002 DA COMISSÃO de 6 de Dezembro de 2002](http://publications.europa.eu/resource/celex/32002R2176) — L 331 — 3 — 7.12.2002
-- [M126](http://publications.europa.eu/resource/celex/32003R1871) — [REGULAMENTO (CE) n.º 1871/2003 DA COMISSÃO de 23 de Outubro de 2003](http://publications.europa.eu/resource/celex/32003R1871) — L 275 — 5 — 25.10.2003
-- [M127](http://publications.europa.eu/resource/celex/32003R1789) — [REGULAMENTO (CE) n.º 1789/2003 DA COMISSÃO de 11 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1789) — L 281 — 1 — 30.10.2003
-- [M128](http://publications.europa.eu/resource/celex/32003R1949) — [REGULAMENTO (CE) n.º 1949/2003 DA COMISSÃO de 3 de Novembro de 2003](http://publications.europa.eu/resource/celex/32003R1949) — L 287 — 15 — 5.11.2003
-- [M129](http://publications.europa.eu/resource/celex/32003R2205) — [REGULAMENTO (CE) n.º 2205/2003 DA COMISSÃO de 17 de Dezembro de 2003](http://publications.europa.eu/resource/celex/32003R2205) — L 330 — 10 — 18.12.2003
-- [M130](http://publications.europa.eu/resource/celex/32003R2344) — [REGULAMENTO (CE) n.º 2344/2003 DA COMISSÃO de 30 de Dezembro de 2003](http://publications.europa.eu/resource/celex/32003R2344) — L 346 — 38 — 31.12.2003
-- [M131](http://publications.europa.eu/resource/celex/32004R1340) — [REGULAMENTO (CE) n.º 1340/2004 DA COMISSÃO de 22 de Julho de 2004](http://publications.europa.eu/resource/celex/32004R1340) — L 249 — 5 — 23.7.2004
-- [M132](http://publications.europa.eu/resource/celex/32004R1558) — [REGULAMENTO (CE) N.º 1558/2004 DA COMISSÃO de 30 de Agosto de 2004](http://publications.europa.eu/resource/celex/32004R1558) — L 283 — 7 — 2.9.2004
-- [M133](http://publications.europa.eu/resource/celex/32004R1810) — [REGULAMENTO (CE) N.º 1810/2004 DA COMISSÃO de 7 de Setembro de 2004](http://publications.europa.eu/resource/celex/32004R1810) — L 327 — 1 — 30.10.2004
-- [M134](http://publications.europa.eu/resource/celex/32004R1989) — [REGULAMENTO (CE) N.º 1989/2004 DA COMISSÃO de 19 de Novembro de 2004](http://publications.europa.eu/resource/celex/32004R1989) — L 344 — 5 — 20.11.2004
-- [M135](http://publications.europa.eu/resource/celex/32004R2147) — [REGULAMENTO (CE) N.º 2147/2004 DA COMISSÃO de 16 de Dezembro de 2004](http://publications.europa.eu/resource/celex/32004R2147) — L 370 — 19 — 17.12.2004
-- [M136](http://publications.europa.eu/resource/celex/32005R0493) — [REGULAMENTO (CE) N.º 493/2005 DO CONSELHO de 16 de Março de 2005](http://publications.europa.eu/resource/celex/32005R0493) — L 82 — 1 — 31.3.2005
-- [M137](http://publications.europa.eu/resource/celex/32005R1719) — [REGULAMENTO (CE) n.º 1719/2005 DA COMISSÃO de 27 de Outubro de 2005](http://publications.europa.eu/resource/celex/32005R1719) — L 286 — 1 — 28.10.2005
-- [M138](http://publications.europa.eu/resource/celex/32005R2175) — [REGULAMENTO (CE) N.º 2175/2005 DO CONSELHO de 21 de Dezembro de 2005](http://publications.europa.eu/resource/celex/32005R2175) — L 347 — 9 — 30.12.2005
-- [M139](http://publications.europa.eu/resource/celex/32006R0267) — [REGULAMENTO (CE) N.º 267/2006 DO CONSELHO de 30 de Janeiro de 2006](http://publications.europa.eu/resource/celex/32006R0267) — L 47 — 1 — 17.2.2006
-- [M140](http://publications.europa.eu/resource/celex/32006R0426) — [REGULAMENTO (CE) N.º 426/2006 DO CONSELHO de 9 de Março de 2006](http://publications.europa.eu/resource/celex/32006R0426) — L 79 — 1 — 16.3.2006
-- [M141](http://publications.europa.eu/resource/celex/32006R0486) — [REGULAMENTO (CE) N.º 486/2006 DO CONSELHO de 20 de Março de 2006](http://publications.europa.eu/resource/celex/32006R0486) — L 88 — 1 — 25.3.2006
-- [M142](http://publications.europa.eu/resource/celex/32006R0683) — [REGULAMENTO (CE) N.º 683/2006 DO CONSELHO de 27 de Fevereiro de 2006](http://publications.europa.eu/resource/celex/32006R0683) — L 120 — 1 — 5.5.2006
-- [M143](http://publications.europa.eu/resource/celex/32006R0711) — [REGULAMENTO (CE) N.º 711/2006 DO CONSELHO de 20 de Março de 2006](http://publications.europa.eu/resource/celex/32006R0711) — L 124 — 1 — 11.5.2006
-- [M144](http://publications.europa.eu/resource/celex/32006R0838) — [REGULAMENTO (CE) N.º 838/2006 DO CONSELHO de 20 de Março de 2006](http://publications.europa.eu/resource/celex/32006R0838) — L 154 — 1 — 8.6.2006
-- [M145](http://publications.europa.eu/resource/celex/32006R0949) — [REGULAMENTO (CE) N.º 949/2006 DA COMISSÃO de 27 de Junho de 2006](http://publications.europa.eu/resource/celex/32006R0949) — L 174 — 3 — 28.6.2006
-- [M146](http://publications.europa.eu/resource/celex/32006R0996) — [REGULAMENTO (CE) N.º 996/2006 DA COMISSÃO de 29 de Junho de 2006](http://publications.europa.eu/resource/celex/32006R0996) — L 179 — 26 — 1.7.2006
-- [M147](http://publications.europa.eu/resource/celex/32006R1549) — [REGULAMENTO (CE) n.º 1549/2006 DA COMISSÃO de 17 de Outubro de 2006](http://publications.europa.eu/resource/celex/32006R1549) — L 301 — 1 — 31.10.2006
-- [M148](http://publications.europa.eu/resource/celex/32006R1758) — [REGULAMENTO (CE) N.º 1758/2006 DO CONSELHO de 22 de Maio de 2006](http://publications.europa.eu/resource/celex/32006R1758) — L 335 — 1 — 1.12.2006
-- [M149](http://publications.europa.eu/resource/celex/32006R1839) — [REGULAMENTO (CE) N.º 1839/2006 DO CONSELHO de 28 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006R1839) — L 355 — 1 — 15.12.2006
-- [M150](http://publications.europa.eu/resource/celex/32006R1894) — [REGULAMENTO (CE) n.º 1894/2006 DO CONSELHO de 18 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1894) — L 397 — 1 — 30.12.2006
-- [M151](http://publications.europa.eu/resource/celex/32006R1929) — [REGULAMENTO (CE) n.º 1929/2006 DO CONSELHO de 23 Outubro de 2006](http://publications.europa.eu/resource/celex/32006R1929) — L 406 — 8 — 30.12.2006
-- [M152](http://publications.europa.eu/resource/celex/32006R1930) — [REGULAMENTO (CE) n.º 1930/2006 DO CONSELHO de 20 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1930) — L 406 — 9 — 30.12.2006
-- [M153](http://publications.europa.eu/resource/celex/32007R0129) — [REGULAMENTO (CE) n.º 129/2007 DO CONSELHO de 12 de Fevereiro de 2007](http://publications.europa.eu/resource/celex/32007R0129) — L 56 — 1 — 23.2.2007
-- [M154](http://publications.europa.eu/resource/celex/32007R0301) — [REGULAMENTO (CE) N.º 301/2007 DO CONSELHO de 19 de Março de 2007](http://publications.europa.eu/resource/celex/32007R0301) — L 81 — 11 — 22.3.2007
-- [M155](http://publications.europa.eu/resource/celex/32007R0501) — [REGULAMENTO (CE) N.º 501/2007 DO CONSELHO de 7 de Maio de 2007](http://publications.europa.eu/resource/celex/32007R0501) — L 119 — 1 — 9.5.2007
-- [M156](http://publications.europa.eu/resource/celex/32007R0580) — [REGULAMENTO (CE) N.º 580/2007 DO CONSELHO de 29 de Maio de 2007](http://publications.europa.eu/resource/celex/32007R0580) — L 138 — 1 — 30.5.2007
-- [M157](http://publications.europa.eu/resource/celex/32007R0733) — [REGULAMENTO (CE) N.º 733/2007 DO CONSELHO de 22 de Fevereiro de 2007](http://publications.europa.eu/resource/celex/32007R0733) — L 169 — 1 — 29.6.2007
-- [M158](http://publications.europa.eu/resource/celex/32007R1214) — [REGULAMENTO (CE) N.º 1214/2007 DA COMISSÃO de 20 de Setembro de 2007](http://publications.europa.eu/resource/celex/32007R1214) — L 286 — 1 — 31.10.2007
-- [M159](http://publications.europa.eu/resource/celex/32007R1352) — [REGULAMENTO (CE) N.º 1352/2007 DA COMISSÃO de 16 de Novembro de 2007](http://publications.europa.eu/resource/celex/32007R1352) — L 303 — 3 — 21.11.2007
-- [M160](http://publications.europa.eu/resource/celex/32008R0275) — [REGULAMENTO (CE) N.º 275/2008 DO CONSELHO de 17 de Março de 2008](http://publications.europa.eu/resource/celex/32008R0275) — L 85 — 3 — 27.3.2008
-- [M161](http://publications.europa.eu/resource/celex/32008R0360) — [REGULAMENTO (CE) N.º 360/2008 DA COMISSÃO de 18 de Abril de 2008](http://publications.europa.eu/resource/celex/32008R0360) — L 111 — 9 — 23.4.2008
-- [M162](http://publications.europa.eu/resource/celex/32008R1031) — [REGULAMENTO (CE) N.º 1031/2008 DA COMISSÃO de 19 de Setembro de 2008](http://publications.europa.eu/resource/celex/32008R1031) — L 291 — 1 — 31.10.2008
-- [M163](http://publications.europa.eu/resource/celex/32008R1138) — [REGULAMENTO (CE) N.º 1138/2008 DO CONSELHO de 13 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1138) — L 308 — 1 — 19.11.2008
-- [M164](http://publications.europa.eu/resource/celex/32009R0179) — [REGULAMENTO (CE) N.º 179/2009 DO CONSELHO de 5 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0179) — L 63 — 1 — 7.3.2009
-- [M165](http://publications.europa.eu/resource/celex/32009R0332) — [REGULAMENTO (CE) N.º 332/2009 DA COMISSÃO de 23 de Abril de 2009](http://publications.europa.eu/resource/celex/32009R0332) — L 104 — 3 — 24.4.2009
-- [M166](http://publications.europa.eu/resource/celex/32009R0880) — [REGULAMENTO (CE) N.º 880/2009 DO CONSELHO de 7 de Setembro de 2009](http://publications.europa.eu/resource/celex/32009R0880) — L 254 — 1 — 26.9.2009
-- [M167](http://publications.europa.eu/resource/celex/32009R0948) — [REGULAMENTO (CE) N.º 948/2009 DA COMISSÃO de 30 de Setembro de 2009](http://publications.europa.eu/resource/celex/32009R0948) — L 287 — 1 — 31.10.2009
-- [M168](http://publications.europa.eu/resource/celex/32010R0033) — [REGULAMENTO (UE) N.º 33/2010 DA COMISSÃO de 12 de Janeiro de 2010](http://publications.europa.eu/resource/celex/32010R0033) — L 10 — 9 — 15.1.2010
-- [M169](http://publications.europa.eu/resource/celex/32010R0211) — [REGULAMENTO (UE) N.º 211/2010 DA COMISSÃO de 11 de Março de 2010](http://publications.europa.eu/resource/celex/32010R0211) — L 65 — 14 — 13.3.2010
-- [M170](http://publications.europa.eu/resource/celex/32010R0494) — [REGULAMENTO (UE) N.º 494/2010 DA COMISSÃO de 25 de Maio de 2010](http://publications.europa.eu/resource/celex/32010R0494) — L 140 — 19 — 8.6.2010
-- [M171](http://publications.europa.eu/resource/celex/32010R0861) — [REGULAMENTO (UE) n.º 861/2010 DA COMISSÃO, de 5 de Outubro de 2010,](http://publications.europa.eu/resource/celex/32010R0861) — L 284 — 1 — 29.10.2010
-- [M172](http://publications.europa.eu/resource/celex/32010R1228) — [REGULAMENTO (UE) n.º 1228/2010 DA COMISSÃO, de 15 de Dezembro de 2010,](http://publications.europa.eu/resource/celex/32010R1228) — L 336 — 17 — 21.12.2010
-- [M173](http://publications.europa.eu/resource/celex/32010R1238) — [REGULAMENTO (UE) N.º 1238/2010 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Dezembro de 2010](http://publications.europa.eu/resource/celex/32010R1238) — L 348 — 36 — 31.12.2010
-- [M174](http://publications.europa.eu/resource/celex/32011R0555) — [REGULAMENTO (UE) n.º 555/2011 DO CONSELHO, de 6 de Junho de 2011,](http://publications.europa.eu/resource/celex/32011R0555) — L 150 — 3 — 9.6.2011
-- [M175](http://publications.europa.eu/resource/celex/32011R0620) — [REGULAMENTO DE EXECUÇÃO (UE) n.º 620/2011 DA COMISSÃO de 24 de Junho de 2011](http://publications.europa.eu/resource/celex/32011R0620) — L 166 — 16 — 25.6.2011
-- [M176](http://publications.europa.eu/resource/celex/32011R1006) — [REGULAMENTO (UE) n.º 1006/2011 DA COMISSÃO, de 27 de Setembro de 2011,](http://publications.europa.eu/resource/celex/32011R1006) — L 282 — 1 — 28.10.2011
-- [M177](http://publications.europa.eu/resource/celex/32012R0155) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 155/2012 DA COMISSÃO de 21 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012R0155) — L 50 — 1 — 23.2.2012
-- [M178](http://publications.europa.eu/resource/celex/32012R0927) — [REGULAMENTO DE EXECUÇÃO (UE) n.º 927/2012 DA COMISSÃO, de 9 de outubro de 2012,](http://publications.europa.eu/resource/celex/32012R0927) — L 304 — 1 — 31.10.2012
-- [M179](http://publications.europa.eu/resource/celex/32012R1055) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1055/2012 DA COMISSÃO de 9 de novembro de 2012](http://publications.europa.eu/resource/celex/32012R1055) — L 313 — 8 — 13.11.2012
-- [M180](http://publications.europa.eu/resource/celex/32012R1113) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1113/2012 DA COMISSÃO de 23 de novembro de 2012](http://publications.europa.eu/resource/celex/32012R1113) — L 329 — 11 — 29.11.2012
-- [M181](http://publications.europa.eu/resource/celex/32012R1218) — [REGULAMENTO (UE) N.º 1218/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2012](http://publications.europa.eu/resource/celex/32012R1218) — L 351 — 36 — 20.12.2012
-- [M182](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [M183](http://publications.europa.eu/resource/celex/32013R0698) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 698/2013 DA COMISSÃO de 19 de julho de 2013](http://publications.europa.eu/resource/celex/32013R0698) — L 198 — 35 — 23.7.2013
-- [M184](http://publications.europa.eu/resource/celex/32013R0953) — [REGULAMENTO (UE) N.º 953/2013 DO CONSELHO de 26 de setembro de 2013](http://publications.europa.eu/resource/celex/32013R0953) — L 263 — 4 — 5.10.2013
-- [►M185](http://publications.europa.eu/resource/celex/32013R0952) — [REGULAMENTO (UE) N.º 952/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R0952) — L 269 — 1 — 10.10.2013
-- [M186](http://publications.europa.eu/resource/celex/32013R1001) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1001/2013 DA COMISSÃO de 4 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R1001) — L 290 — 1 — 31.10.2013
-- [M187](http://publications.europa.eu/resource/celex/32013R1325) — [REGULAMENTO (UE) N.º 1325/2013 DO CONSELHO de 9 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1325) — L 334 — 2 — 13.12.2013
-- [M188](http://publications.europa.eu/resource/celex/32013R1326) — [REGULAMENTO (UE) N.º 1326/2013 DO CONSELHO de 9 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1326) — L 334 — 4 — 13.12.2013
-- [M189](http://publications.europa.eu/resource/celex/32014R0365) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 365/2014 DA COMISSÃO de 7 de abril de 2014](http://publications.europa.eu/resource/celex/32014R0365) — L 108 — 9 — 11.4.2014
-- [M190](http://publications.europa.eu/resource/celex/32014R0366) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 366/2014 DA COMISSÃO de 7 de abril de 2014](http://publications.europa.eu/resource/celex/32014R0366) — L 108 — 11 — 11.4.2014
-- [M191](http://publications.europa.eu/resource/celex/32014R0388) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 388/2014 DA COMISSÃO de 10 de abril de 2014](http://publications.europa.eu/resource/celex/32014R0388) — L 113 — 17 — 16.4.2014
-- [M192](http://publications.europa.eu/resource/celex/32014R0626) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 626/2014 DA COMISSÃO de 10 de junho de 2014](http://publications.europa.eu/resource/celex/32014R0626) — L 174 — 26 — 13.6.2014
-- [M193](http://publications.europa.eu/resource/celex/32014R0861) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 861/2014 DA COMISSÃO de 5 de agosto de 2014](http://publications.europa.eu/resource/celex/32014R0861) — L 235 — 10 — 8.8.2014
-- [M194](http://publications.europa.eu/resource/celex/32014R0920) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 920/2014 DA COMISSÃO de 21 de agosto de 2014](http://publications.europa.eu/resource/celex/32014R0920) — L 252 — 1 — 26.8.2014
-- [M195](http://publications.europa.eu/resource/celex/32014R0975) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 975/2014 DA COMISSÃO de 11 de setembro de 2014](http://publications.europa.eu/resource/celex/32014R0975) — L 274 — 11 — 16.9.2014
-- [M196](http://publications.europa.eu/resource/celex/32014R1101) — [REGULAMENTO DE EXECUÇÃO (UE) N.O 1101/2014 DA COMISSÃO de 16 de outubro de 2014](http://publications.europa.eu/resource/celex/32014R1101) — L 312 — 1 — 31.10.2014
-- [M197](http://publications.europa.eu/resource/celex/32015R0389) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/389 DA COMISSÃO de 5 de março de 2015](http://publications.europa.eu/resource/celex/32015R0389) — L 65 — 11 — 10.3.2015
-- [M198](http://publications.europa.eu/resource/celex/32015R0390) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/390 DA COMISSÃO de 5 de março de 2015](http://publications.europa.eu/resource/celex/32015R0390) — L 65 — 13 — 10.3.2015
-- [M199](http://publications.europa.eu/resource/celex/32015R1754) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1754 DA COMISSÃO de 6 de outubro de 2015](http://publications.europa.eu/resource/celex/32015R1754) — L 285 — 1 — 30.10.2015
-- [M200](http://publications.europa.eu/resource/celex/32016R0533) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/533 DA COMISSÃO de 31 de março de 2016](http://publications.europa.eu/resource/celex/32016R0533) — L 89 — 4 — 6.4.2016
-- [M201](http://publications.europa.eu/resource/celex/32016R0534) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/534 DA COMISSÃO de 31 de março de 2016](http://publications.europa.eu/resource/celex/32016R0534) — L 89 — 6 — 6.4.2016
-- [M202](http://publications.europa.eu/resource/celex/32016R1047) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1047 DA COMISSÃO de 28 de junho de 2016](http://publications.europa.eu/resource/celex/32016R1047) — L 170 — 36 — 29.6.2016
-- [M203](http://publications.europa.eu/resource/celex/32016R1638) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1638 DA COMISSÃO de 6 de setembro de 2016](http://publications.europa.eu/resource/celex/32016R1638) — L 244 — 1 — 13.9.2016
-- [M204](http://publications.europa.eu/resource/celex/32016R1821) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1821 DA COMISSÃO de 6 de outubro de 2016](http://publications.europa.eu/resource/celex/32016R1821) — L 294 — 1 — 28.10.2016
-- [M205](http://publications.europa.eu/resource/celex/32016R1956) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1956 DA COMISSÃO de 4 de novembro de 2016](http://publications.europa.eu/resource/celex/32016R1956) — L 301 — 5 — 9.11.2016
-- [M206](http://publications.europa.eu/resource/celex/32016R2222) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/2222 DA COMISSÃO de 5 de dezembro de 2016](http://publications.europa.eu/resource/celex/32016R2222) — L 336 — 17 — 10.12.2016
-- [M207](http://publications.europa.eu/resource/celex/32016R2293) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/2293 DA COMISSÃO de 16 de dezembro de 2016](http://publications.europa.eu/resource/celex/32016R2293) — L 344 — 79 — 17.12.2016
-- [M208](http://publications.europa.eu/resource/celex/32017R0705) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/705 DA COMISSÃO de 19 de abril de 2017](http://publications.europa.eu/resource/celex/32017R0705) — L 104 — 6 — 20.4.2017
-- [M209](http://publications.europa.eu/resource/celex/32017R1343) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1343 DA COMISSÃO de 18 de julho de 2017](http://publications.europa.eu/resource/celex/32017R1343) — L 186 — 1 — 19.7.2017
-- [M210](http://publications.europa.eu/resource/celex/32017R1344) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1344 DA COMISSÃO de 18 de julho de 2017](http://publications.europa.eu/resource/celex/32017R1344) — L 186 — 3 — 19.7.2017
-- [M211](http://publications.europa.eu/resource/celex/32017R1925) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1925 DA COMISSÃO de 12 de outubro de 2017](http://publications.europa.eu/resource/celex/32017R1925) — L 282 — 1 — 31.10.2017
-- [M212](http://publications.europa.eu/resource/celex/32018R0125) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/125 DA COMISSÃO de 24 de janeiro de 2018](http://publications.europa.eu/resource/celex/32018R0125) — L 22 — 10 — 26.1.2018
-- [M213](http://publications.europa.eu/resource/celex/32018R0396) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/396 DA COMISSÃO de 13 de março de 2018](http://publications.europa.eu/resource/celex/32018R0396) — L 71 — 36 — 14.3.2018
-- [M214](http://publications.europa.eu/resource/celex/32018R0507) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/507 DA COMISSÃO de 26 de março de 2018](http://publications.europa.eu/resource/celex/32018R0507) — L 83 — 11 — 27.3.2018
-- [M215](http://publications.europa.eu/resource/celex/32018R0549) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/549 DA COMISSÃO de 6 de abril de 2018](http://publications.europa.eu/resource/celex/32018R0549) — L 91 — 11 — 9.4.2018
-- [M216](http://publications.europa.eu/resource/celex/32018R1602) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1602 DA COMISSÃO de 11 de outubro de 2018](http://publications.europa.eu/resource/celex/32018R1602) — L 273 — 1 — 31.10.2018
-- [M217](http://publications.europa.eu/resource/celex/32019R0013) — [REGULAMENTO DE EXECUÇÃO(UE) 2019/13 DA COMISSÃO, de 4 de janeiro de 2019,](http://publications.europa.eu/resource/celex/32019R0013) — L 3 — 1 — 7.1.2019
-- [M218](http://publications.europa.eu/resource/celex/32019R1776) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1776 DA COMISSÃO de 22 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R1776) — L 280 — 1 — 31.10.2019
-- [M219](http://publications.europa.eu/resource/celex/32020R0523) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/523 DA COMISSÃO de 7 de abril de 2020](http://publications.europa.eu/resource/celex/32020R0523) — L 116 — 1 — 15.4.2020
-- [M220](http://publications.europa.eu/resource/celex/32020R0712) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/712 DA COMISSÃO de 25 de maio de 2020](http://publications.europa.eu/resource/celex/32020R0712) — L 167 — 1 — 29.5.2020
-- [M221](http://publications.europa.eu/resource/celex/32020R1369) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1369 DA COMISSÃO de 29 de setembro de 2020](http://publications.europa.eu/resource/celex/32020R1369) — L 319 — 2 — 2.10.2020
-- [M222](http://publications.europa.eu/resource/celex/32020R1577) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1577 DA COMISSÃO de 21 de setembro de 2020](http://publications.europa.eu/resource/celex/32020R1577) — L 361 — 1 — 30.10.2020
-- [M223](http://publications.europa.eu/resource/celex/32020R2159) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/2159 DA COMISSÃO de 16 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2159) — L 431 — 34 — 21.12.2020
-- [M224](http://publications.europa.eu/resource/celex/32021R1832) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1832 DA COMISSÃO de 12 de outubro de 2021](http://publications.europa.eu/resource/celex/32021R1832) — L 385 — 1 — 29.10.2021
-- [M225](http://publications.europa.eu/resource/celex/32022R0859) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/859 DA COMISSÃO de 24 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0859) — L 151 — 34 — 2.6.2022
-- [M226](http://publications.europa.eu/resource/celex/32022R1638) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1638 DA COMISSÃO de 20 de setembro de 2022](http://publications.europa.eu/resource/celex/32022R1638) — L 247 — 67 — 23.9.2022
-- [M227](http://publications.europa.eu/resource/celex/32022R1998) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1998 DA COMISSÃO de 20 de setembro de 2022](http://publications.europa.eu/resource/celex/32022R1998) — L 282 — 1 — 31.10.2022
-- [M228](http://publications.europa.eu/resource/celex/32022R2465) — [REGULAMENTO (UE) 2022/2465 DO CONSELHO de 12 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022R2465) — L 322 — 81 — 16.12.2022
-- [M229](http://publications.europa.eu/resource/celex/32023R2364) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2364 DA COMISSÃO de 26 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R2364) — L 2364 — 1 — 31.10.2023
-- [M230](http://publications.europa.eu/resource/celex/32024R1652) — [REGULAMENTO (UE) 2024/1652 DO CONSELHO de 30 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1652) — L 1652 — 1 — 10.6.2024
-- [M231](http://publications.europa.eu/resource/celex/32024R2717) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2717 DA COMISSÃO de 24 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R2717) — L 2717 — 1 — 25.10.2024
-- [M232](http://publications.europa.eu/resource/celex/32024R2522) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2522 DA COMISSÃO de 23 de setembro de 2024](http://publications.europa.eu/resource/celex/32024R2522) — L 2522 — 1 — 31.10.2024
-- [►M233](http://publications.europa.eu/resource/celex/32025R1926) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1926 DA COMISSÃO de 22 de setembro de 2025](http://publications.europa.eu/resource/celex/32025R1926) — L 1926 — 1 — 31.10.2025
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/31987R2658R%2801%29) — [Rectificação, JO L 341, 3.12.1987, p. 38 (2658/1987)](http://publications.europa.eu/resource/celex/31987R2658R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/31987R2658R%2802%29) — [Rectificação, JO L 378, 31.12.1987, p. 120 (2658/1987)](http://publications.europa.eu/resource/celex/31987R2658R%2802%29)
-- [C3](http://publications.europa.eu/resource/celex/31987R2658R%2804%29) — [Rectificação, JO L 130, 26.5.1988, p. 42 (2658/1987)](http://publications.europa.eu/resource/celex/31987R2658R%2804%29)
-- [C4](http://publications.europa.eu/resource/celex/31988R3174R%2801%29) — [Rectificação, JO L 102, 14.4.1989, p. 56 (3174/1988)](http://publications.europa.eu/resource/celex/31988R3174R%2801%29)
-- [C5](http://publications.europa.eu/resource/celex/31990R1251R%2801%29) — [Rectificação, JO L 149, 13.6.1990, p. 24 (1251/1990)](http://publications.europa.eu/resource/celex/31990R1251R%2801%29)
-- [C6](http://publications.europa.eu/resource/celex/31991R2587R%2801%29) — [Rectificação, JO L 230, 13.8.1992, p. 32 (2587/1991)](http://publications.europa.eu/resource/celex/31991R2587R%2801%29)
-- [C7](http://publications.europa.eu/resource/celex/31991R2587R%2802%29) — [Rectificação, JO L 312, 29.10.1992, p. 38 (2587/1991)](http://publications.europa.eu/resource/celex/31991R2587R%2802%29)
-- [C8](http://publications.europa.eu/resource/celex/31991R2587R%2803%29) — [Rectificação, JO L 328, 14.11.1992, p. 50 (2587/1991)](http://publications.europa.eu/resource/celex/31991R2587R%2803%29)
-- [C9](http://publications.europa.eu/resource/celex/31994R3115R%2801%29) — [Rectificação, JO L 048, 3.3.1995, p. 26 (3115/1994)](http://publications.europa.eu/resource/celex/31994R3115R%2801%29)
-- [C10](http://publications.europa.eu/resource/celex/31994R3115R%2802%29) — [Rectificação, JO L 092, 25.4.1995, p. 34 (3115/1994)](http://publications.europa.eu/resource/celex/31994R3115R%2802%29)
-- [C11](http://publications.europa.eu/resource/celex/31994R3115R%2803%29) — [Rectificação, JO L 123, 3.6.1995, p. 30 (3115/1994)](http://publications.europa.eu/resource/celex/31994R3115R%2803%29)
-- [C12](http://publications.europa.eu/resource/celex/31994R3330R%2801%29) — [Rectificação, JO L 123, 3.6.1995, p. 31 (3330/1994)](http://publications.europa.eu/resource/celex/31994R3330R%2801%29)
-- [C13](http://publications.europa.eu/resource/celex/31995R1305R%2801%29) — [Rectificação, JO L 141, 24.6.1995, p. 84 (1305/1995)](http://publications.europa.eu/resource/celex/31995R1305R%2801%29)
-- [C14](http://publications.europa.eu/resource/celex/31995R3009R%2801%29) — [Rectificação, JO L 077, 27.3.1996, p. 42 (3009/1995)](http://publications.europa.eu/resource/celex/31995R3009R%2801%29)
-- [C15](http://publications.europa.eu/resource/celex/31996R1734R%2801%29) — [Rectificação, JO L 319, 10.12.1996, p. 16 (1734/1996)](http://publications.europa.eu/resource/celex/31996R1734R%2801%29)
-- [C16](http://publications.europa.eu/resource/celex/31996R1734R%2802%29) — [Rectificação, JO L 126, 17.5.1997, p. 30 (1734/1996)](http://publications.europa.eu/resource/celex/31996R1734R%2802%29)
-- [C17](http://publications.europa.eu/resource/celex/31996R1734R%2803%29) — [Rectificação, JO L 214, 6.8.1997, p. 56 (1734/1996)](http://publications.europa.eu/resource/celex/31996R1734R%2803%29)
-- [C18](http://publications.europa.eu/resource/celex/31997R2086R%2801%29) — [Rectificação, JO L 347, 18.12.1997, p. 59 (2086/1997)](http://publications.europa.eu/resource/celex/31997R2086R%2801%29)
-- [C19](http://publications.europa.eu/resource/celex/31997R2086R%2802%29) — [Rectificação, JO L 062, 3.3.1998, p. 39 (2086/1997)](http://publications.europa.eu/resource/celex/31997R2086R%2802%29)
-- [C20](http://publications.europa.eu/resource/celex/31998R2261R%2801%29) — [Rectificação, JO L 007, 13.1.1999, p. 46 (2261/1998)](http://publications.europa.eu/resource/celex/31998R2261R%2801%29)
-- [C21](http://publications.europa.eu/resource/celex/31998R2261R%2802%29) — [Rectificação, JO L 040, 13.2.1999, p. 51 (2261/1998)](http://publications.europa.eu/resource/celex/31998R2261R%2802%29)
-- [C22](http://publications.europa.eu/resource/celex/31998R2261R%2803%29) — [Rectificação, JO L 181, 16.7.1999, p. 38 (2261/1998)](http://publications.europa.eu/resource/celex/31998R2261R%2803%29)
-- [C23](http://publications.europa.eu/resource/celex/31999R2204R%2801%29) — [Rectificação, JO L 012, 18.1.2000, p. 36 (2204/1999)](http://publications.europa.eu/resource/celex/31999R2204R%2801%29)
-- [C24](http://publications.europa.eu/resource/celex/32000R2263R%2801%29) — [Rectificação, JO L 276, 28.10.2000, p. 92 (2263/2000)](http://publications.europa.eu/resource/celex/32000R2263R%2801%29)
-- [C25](http://publications.europa.eu/resource/celex/32000R2388R%2802%29) — [Rectificação, JO L 010, 13.1.2001, p. 78 (2388/2000)](http://publications.europa.eu/resource/celex/32000R2388R%2802%29)
-- [C26](http://publications.europa.eu/resource/celex/32000R2388R%2807%29) — [Rectificação, JO L 248, 18.9.2001, p. 63 (2388/2000)](http://publications.europa.eu/resource/celex/32000R2388R%2807%29)
-- [C27](http://publications.europa.eu/resource/celex/31999R2204R%2803%29) — [Rectificação, JO L 335, 19.12.2001, p. 24 (2204/1999)](http://publications.europa.eu/resource/celex/31999R2204R%2803%29)
-- [C28](http://publications.europa.eu/resource/celex/32001R2031R%2802%29) — [Rectificação, JO L 015, 17.1.2002, p. 58 (2031/2001)](http://publications.europa.eu/resource/celex/32001R2031R%2802%29)
-- [C29](http://publications.europa.eu/resource/celex/32001R2031R%2804%29) — [Rectificação, JO L 213, 9.8.2002, p. 46 (2031/2001)](http://publications.europa.eu/resource/celex/32001R2031R%2804%29)
-- [C30](http://publications.europa.eu/resource/celex/32002R1832R%2803%29) — [Rectificação, JO L 024, 29.1.2003, p. 18 (1832/2002)](http://publications.europa.eu/resource/celex/32002R1832R%2803%29)
-- [C31](http://publications.europa.eu/resource/celex/32000R2388R%2808%29) — [Rectificação, JO L 025, 30.1.2003, p. 43 (2388/2000)](http://publications.europa.eu/resource/celex/32000R2388R%2808%29)
-- [C32](http://publications.europa.eu/resource/celex/32001R2031R%2806%29) — [Rectificação, JO L 032, 7.2.2003, p. 15 (2031/2001)](http://publications.europa.eu/resource/celex/32001R2031R%2806%29)
-- [C33](http://publications.europa.eu/resource/celex/32002R1832R%2804%29) — [Rectificação, JO L 069, 13.3.2003, p. 36 (1832/2002)](http://publications.europa.eu/resource/celex/32002R1832R%2804%29)
-- [C34](http://publications.europa.eu/resource/celex/32002R1832R%2805%29) — [Rectificação, JO L 003, 7.1.2004, p. 43 (1832/2002)](http://publications.europa.eu/resource/celex/32002R1832R%2805%29)
-- [C35](http://publications.europa.eu/resource/celex/32003R1789R%2801%29) — [Rectificação, JO L 006, 10.1.2004, p. 57 (1789/2003)](http://publications.europa.eu/resource/celex/32003R1789R%2801%29)
-- [C36](http://publications.europa.eu/resource/celex/31998R2261R%2804%29) — [Rectificação, JO L 118, 23.4.2004, p. 78 (2261/1998)](http://publications.europa.eu/resource/celex/31998R2261R%2804%29)
-- [C37](http://publications.europa.eu/resource/celex/31999R2204R%2804%29) — [Rectificação, JO L 118, 23.4.2004, p. 78 (2204/1999)](http://publications.europa.eu/resource/celex/31999R2204R%2804%29)
-- [C38](http://publications.europa.eu/resource/celex/32000R2388R%2809%29) — [Rectificação, JO L 118, 23.4.2004, p. 79 (2388/2000)](http://publications.europa.eu/resource/celex/32000R2388R%2809%29)
-- [C39](http://publications.europa.eu/resource/celex/32001R2031R%2808%29) — [Rectificação, JO L 118, 23.4.2004, p. 79 (2031/2001)](http://publications.europa.eu/resource/celex/32001R2031R%2808%29)
-- [C40](http://publications.europa.eu/resource/celex/32004R1810R%2801%29) — [Rectificação, JO L 043, 15.2.2005, p. 30 (1810/2004)](http://publications.europa.eu/resource/celex/32004R1810R%2801%29)
-- [C41](http://publications.europa.eu/resource/celex/32005R1719R%2801%29) — [Rectificação, JO L 341, 23.12.2005, p. 111 (n.o 1719/2005)](http://publications.europa.eu/resource/celex/32005R1719R%2801%29)
-- [C42](http://publications.europa.eu/resource/celex/32006R0711R%2801%29) — [Rectificação, JO L 051, 26.2.2008, p. 26 (711/2006)](http://publications.europa.eu/resource/celex/32006R0711R%2801%29)
-- [C43](http://publications.europa.eu/resource/celex/32006R0838R%2801%29) — [Rectificação, JO L 051, 26.2.2008, p. 26 (838/2006)](http://publications.europa.eu/resource/celex/32006R0838R%2801%29)
-- [C44](http://publications.europa.eu/resource/celex/32007R1214R%2801%29) — [Rectificação, JO L 164, 25.6.2008, p. 46 (o 1214/2007)](http://publications.europa.eu/resource/celex/32007R1214R%2801%29)
-- [C45](http://publications.europa.eu/resource/celex/32008R1031R%2802%29) — [Rectificação, JO L 179, 10.7.2009, p. 68 (o 1031/2008)](http://publications.europa.eu/resource/celex/32008R1031R%2802%29)
-- [C46](http://publications.europa.eu/resource/celex/32009R0948R%2803%29) — [Rectificação, JO L 149, 15.6.2010, p. 27 (n.o 948/2009)](http://publications.europa.eu/resource/celex/32009R0948R%2803%29)
-- [C47](http://publications.europa.eu/resource/celex/32011R1006R%2803%29) — [Rectificação, JO L 052, 24.2.2012, p. 32 (1006/2011)](http://publications.europa.eu/resource/celex/32011R1006R%2803%29)
-- [C48](http://publications.europa.eu/resource/celex/32011R1006R%2806%29) — [Rectificação, JO L 226, 22.8.2012, p. 8 (1006/2011)](http://publications.europa.eu/resource/celex/32011R1006R%2806%29)
-- [C49](http://publications.europa.eu/resource/celex/32012R0927R%2801%29) — [Rectificação, JO L 034, 5.2.2013, p. 20 (927/2012)](http://publications.europa.eu/resource/celex/32012R0927R%2801%29)
-- [C50](http://publications.europa.eu/resource/celex/32015R1754R%2801%29) — [Rectificação, JO L 288, 4.11.2015, p. 16 (2015/1754)](http://publications.europa.eu/resource/celex/32015R1754R%2801%29)
-- [C51](http://publications.europa.eu/resource/celex/32016R1047R%2801%29) — [Rectificação, JO L 259, 27.9.2016, p. 79 (2016/1047)](http://publications.europa.eu/resource/celex/32016R1047R%2801%29)
-- [C52](http://publications.europa.eu/resource/celex/32015R1754R%2802%29) — [Rectificação, JO L 010, 14.1.2017, p. 10 (2015/1754)](http://publications.europa.eu/resource/celex/32015R1754R%2802%29)
-- [C53](http://publications.europa.eu/resource/celex/32016R1821R%2802%29) — [Rectificação, JO L 039, 16.2.2017, p. 60 (2016/1821)](http://publications.europa.eu/resource/celex/32016R1821R%2802%29)
-- [C54](http://publications.europa.eu/resource/celex/32016R1821R%2803%29) — [Rectificação, JO L 150, 14.6.2017, p. 19 (2016/1821)](http://publications.europa.eu/resource/celex/32016R1821R%2803%29)
-- [C55](http://publications.europa.eu/resource/celex/32019R1776R%2801%29) — [Rectificação, JO L 296, 15.11.2019, p. 63 (2019/1776)](http://publications.europa.eu/resource/celex/32019R1776R%2801%29)
-- [C56](http://publications.europa.eu/resource/celex/32019R1776R%2806%29) — [Rectificação, JO L 013, 17.1.2020, p. 58 (2019/1776)](http://publications.europa.eu/resource/celex/32019R1776R%2806%29)
-- [C57](http://publications.europa.eu/resource/celex/32019R1776R%2807%29) — [Rectificação, JO C 013, 17.1.2020, p. 59 (2019/1776)](http://publications.europa.eu/resource/celex/32019R1776R%2807%29)
-- [C58](http://publications.europa.eu/resource/celex/32019R1776R%2808%29) — [Rectificação, JO L 031, 4.2.2020, p. 10 (2019/1776)](http://publications.europa.eu/resource/celex/32019R1776R%2808%29)
-- [C59](http://publications.europa.eu/resource/celex/32020R1577R%2801%29) — [Rectificação, JO L 011, 14.1.2021, p. 21 (2020/1577)](http://publications.europa.eu/resource/celex/32020R1577R%2801%29)
-- [C60](http://publications.europa.eu/resource/celex/32021R1832R%2801%29) — [Rectificação, JO L 414, 19.11.2021, p. 1 (2021/1832)](http://publications.europa.eu/resource/celex/32021R1832R%2801%29)
-- [C61](http://publications.europa.eu/resource/celex/32021R1832R%2804%29) — [Rectificação, JO L 013, 20.1.2022, p. 75 (2021/1832)](http://publications.europa.eu/resource/celex/32021R1832R%2804%29)
-- [C62](http://publications.europa.eu/resource/celex/32021R1832R%2805%29) — [Rectificação, JO L 119, 21.4.2022, p. 115 (2021/1832)](http://publications.europa.eu/resource/celex/32021R1832R%2805%29)
-- [C63](http://publications.europa.eu/resource/celex/32022R1998R%2801%29) — [Rectificação, JO L 159, 22.6.2023, p. 150 ((UE) 2022/1998)](http://publications.europa.eu/resource/celex/32022R1998R%2801%29)
-
-## REGULAMENTO (CEE) N.º 2658/87 DO CONSELHO
 
 de 23 de Julho de 1987
 

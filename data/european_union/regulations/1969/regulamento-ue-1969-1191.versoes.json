@@ -1,0 +1,309 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31969R1191:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01969R1191-20091203",
+ "dre_path": null,
+ "source_lastmod": "2009-12-03",
+ "versions": [
+  {
+   "date": "1969-06-28",
+   "future": false,
+   "celex": "31969R1191",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "698428adf0c1cc90",
+    "0f7791c15411df69",
+    "e80b9139d0539fd8",
+    "c6dfd08f9c575de9",
+    "4205a310e9348e6d",
+    "573ca39c56e57756",
+    "4657be5679bc03bb",
+    "62ac4407ce2ac88b",
+    "491e98aaaf2f8887",
+    "f2226b758fcbf49c",
+    "448c958a7209820d",
+    "4da05fab31acc35d",
+    "49cd68a3d77c00bd",
+    "1c70171b0705c135",
+    "182cb3b22bfdb431",
+    "792ade2ed163f95b",
+    "01fcdaf5e66ec01e",
+    "cb93b3df3bbc0aa1",
+    "afd2c440d32fc0ae",
+    "6b93e9357b9cb6a8",
+    "e5f506f9effa1045",
+    "df0778e8bf550764",
+    "92b6f816074301aa",
+    "e038311a55d75cdd",
+    "257e30c89f8ac172",
+    "3fca44ca17046c21",
+    "ffda8ccc5257cf30"
+   ]
+  },
+  {
+   "date": "2009-12-03",
+   "future": false,
+   "celex": "01969R1191-20091203",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime SECÇÃO I — Disposições gerais",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime SECÇÃO II — Princípios comuns para a eliminação ou manutenção das obrigações de serviço público",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime SECÇÃO III",
+    "Suprime Artigo 9o",
+    "Suprime SECÇÃO IV — Procedimentos comuns de compensação",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime SECÇÃO V — Imposição de novas obrigações de serviço público",
+    "Suprime Artigo 14o",
+    "Suprime SECÇÃO VI — Disposições finais",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o"
+   ],
+   "fragments": [
+    "e911bcde2260d3e1"
+   ]
+  }
+ ],
+ "fragments": {
+  "698428adf0c1cc90": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 1191/69 do Conselho, de 26 de Junho de 1969, relativo à acção dos Estados-membros em matéria de obrigações inerentes à noção de serviço público no domínio dos transportes ferroviários, rodoviários e por via navegável** *Jornal Oficial nº L 156 de 28/06/1969 p. 0001 - 0007 Edição especial finlandesa: Capítulo 7 Fascículo 1 p. 0064 Edição especial dinamarquesa: Série I Capítulo 1969(I) p. 0258 Edição especial sueca: Capítulo 7 Fascículo 1 p. 0064 Edição especial inglesa: Série I Capítulo 1969(I) p. 0276 Edição especial grega: Capítulo 07 Fascículo 1 p. 0100 Edição especial espanhola: Capítulo 08 Fascículo 1 p. 0131 Edição especial portuguesa: Capítulo 08 Fascículo 1 p. 0131*\n\nREGULAMENTO (CEE) No 1191/69 DO CONSELHO de 26 de Junho de 1969 relativo à acção dos Estados-membros em matéria de obrigações inerentes à noção de serviço público no domínio dos transportes ferroviários, rodoviários e por via navegável\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 75o e 94o,\n\nTendo em conta a Decisão do Conselho de 13 de Maio de 1965, relativa à harmonização de determinadas disposições com incidência sobre a concorrência no domínio dos transportes ferroviários, rodoviários e por via navegável (1),\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que um dos objectivos da política comum de transportes é a eliminação das disparidades que se manifestam pela imposição, às empresas de transportes, pelos Estados-membros, de obrigações inerentes à noção de serviço público e que sejam de natureza a falsear substancialmente as condições de concorrência;\n\nConsiderando que é necessário, por conseguinte, suprimir as obrigações de serviço público definidas no presente regulamento; que, todavia, a manutenção de tais obrigações é indispensável em determinados casos, para garantir o fornecimento de serviços de transporte suficientes; que este fornecimento deve ser apreciado em função da oferta e da procura de transporte existentes, bem como das necessidades da colectividade;\n\nConsiderando que estas medidas de supressão não abrangem os preços e condições de transporte impostos às empresas no domínio dos transportes de passageiros no interesse de uma ou várias categorias sociais específicas;\n\nConsiderando que é necessário, para a aplicação destas medidas, definir as diferentes obrigações de serviço público referidas no presente regulamento; que estas obrigações compreendem a obrigação de explorar, a obrigação de transportar e a obrigação tarifária;\n\nConsiderando que é necessário deixar aos Estados-membros a iniciativa de tomar medidas para extinguir ou para manter as obrigações de serviço público; que, contudo, sendo estas obrigações susceptíveis de gerar encargos para as empresas de transporte, estas devem poder apresentar pedidos de extinção às autoridades competentes dos Estados-membros;\n\nConsiderando que é oportuno prever que as empresas de transporte só possam apresentar pedidos de extinção de obrigações de serviço público, no caso de estas obrigações gerarem para as empresas desvantagens económicas determinadas de acordo com procedimentos comuns definidos no presente regulamento;\n\nConsiderando que, tendo em vista uma melhoria da exploração, as empresas de transporte devem ter a possibilidade de propor, no seu pedido, a utilização de uma outra técnica de transporte melhor adaptada ao tráfego;\n\nConsiderando que ao decidir a manutenção de obrigações de serviço público, as autoridades competentes dos Estados-membros devem poder complementar a sua decisão com condições susceptíveis de melhorar o rendimento das prestações em causa; que é necessário que as autoridades competentes, ao decidirem a extinção de uma obrigação de serviço público, possam contudo prever, para garantir o fornecimento de serviços de transporte suficientes, a instauração de um serviço alternativo;\n\nConsiderando que, para ter em conta os interesses de todos os Estados-membros, importa instaurar um procedimento comunitário para o caso em que a extinção de uma obrigação de explorar ou transportar seja susceptível de interferir com os interesses de um outro Estado-membro;\n\nConsiderando que é desejável para permitir uma organização adequada do exame dos pedidos de extinção das obrigações de serviço público apresentados pelas empresas, é conveniente estabelecer, por um lado, o prazo em que estes pedidos devem ser apresentados e, por outro, o prazo para o exame desses pedidos pelos Estados-membros;\n\nConsiderando que, por força do artigo 5o da Decisão do Conselho, de 13 de Maio de 1965, relativa à harmonização de determinadas disposições com incidência sobre a concorrência no domínio dos transportes ferroviários, rodoviários e por via navegável, a manutenção de uma obrigação de serviço público definida no presente regulamento decidida pelas autoridades competentes, implica a obrigação de compensar os encargos que daí resultem para as empresas de transporte;\n\nConsiderando que o direito à compensação dos encargos deve ter início para as empresas de transporte, desde a decisão tomada pelos Estados-membros de manter uma obrigação do serviço público; que, devido ao sistema de anuidade orçamental, este direito não pode, todavia, ter início no período inicial da aplicação do presente regulamento, antes de 1 de Janeiro de 1971, podendo esta data ser prorrogada em função de eventuais prorrogações dos prazos de exame dos pedidos das empresas de transporte;\n\nConsiderando que, além disso, o artigo 6o da Decisão do Conselho, de 13 de Maio de 1965, relativa à harmonização de determinadas disposições com incidência sobre a concorrência no domínio dos transportes ferroviários, rodoviários e por via navegável, prevê que os Estados-membros devem proceder à compensação dos encargos que decorram, no domínio dos transportes de passageiros, da aplicação de preços e condições de transporte impostos no interesse de uma categoria social específica; que esta compensação deve ter lugar a partir de 1 de Janeiro de 1971, podendo esta data ser diferida de um ano, por meio de um procedimento comunitário, no caso de um Estado-membro experimentar dificuldades especiais;\n\nConsiderando que a compensação dos encargos para as empresas de transportes que decorram da manutenção das obrigações de serviço público deve ser efectuada de acordo com procedimentos comuns; que, para estabelecer essas compensações, é preciso ter em conta as repercussões que a extinção da obrigação teria sobre a actividade da empresa;\n\nConsiderando que é necessário aplicar o disposto no presente regulamento a todas as novas obrigações de serviço público definidas no presente regulamento que sejam impostas a uma empresa de transporte;\n\nConsiderando que, sendo as compensações resultantes da aplicação do presente regulamento concedidas pelos Estados-membros de acordo com procedimentos comuns estabelecidos no presente regulamento, devem essas compensações ser dispensadas do processo de informação prévia previsto no no 3 do artigo 93o do Tratado que institui a Comunidade Económica Europeia;\n\nConsiderando que a Comissão deve poder obter dos Estados-membros todas as informações relevantes relativas à aplicação do presente regulamento;\n\nConsiderando que, tendo em vista permitir ao Conselho examinar a situação existente em cada Estado-membro relativamente à execução do presente regulamento, a Comissão deve, para o efeito, enviar ao Conselho um relatório antes de 31 de Dezembro de 1972;\n\nConsiderando que é conveniente garantir que os Estados-membros coloquem à disposição das empresas de transporte meios adequados tendo em vista permitir-lhes defender os seus interesses relativamente a decisões individuais tomadas pelos Estados-membros em execução do presente regulamento;\n\nConsiderando que, por enquanto, o presente regulamento é aplicável às actividades de transporte ferroviário das seis empresas nacionais de caminhos de ferro dos Estados-membros e, em relação às empresas de outros meios de transporte, àquelas que não efectuem principalmente transportes de carácter local ou regional, devendo o Conselho decidir, no prazo de 3 anos a contar da entrada em vigor do presente regulamento, das acções a empreender em matéria de obrigações de serviço público quanto às prestações de transporte que não sejam abrangidas pelo presente regulamento,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "0f7791c15411df69": {
+   "fragment_id": "SECÇÃO I — Disposições gerais",
+   "type": "divisao",
+   "heading": "SECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições gerais"
+  },
+  "e80b9139d0539fd8": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Os Estados-membros eliminarão as obrigações inerentes à noção de serviço público, definidas no presente regulamento, impostas no domínio dos transportes ferroviários, rodoviários e por via navegável.\n\n2. As obrigações podem, todavia, ser mantidas na medida em que sejam indispensáveis para garantir o fornecimento de serviços de transporte suficientes.\n\n3. O no 1 não é aplicável, no domínio dos transportes de passageiros, aos preços e condições de transporte impostos por um Estado-membro no interesse de uma ou várias categorias sociais específicas.\n\n4. Os encargos que decorram para as empresas de transporte, em resultado da manutenção das obrigações referidas no no 2, bem como da aplicação dos preços e condições de transporte referidas no no 3, serão objecto de compensações de acordo com os procedimentos comuns estabelecidos no presente regulamento."
+  },
+  "c6dfd08f9c575de9": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Por obrigações de serviço público, entendem-se as obrigações que a empresa de transporte, se considerasse os seus próprios interesses comerciais, não assumiria ou não teria assumido na mesma medida ou nas mesmas condições.\n\n2. As obrigações de serviço público, na acepção do no 1, envolvem a obrigação de explorar, a obrigação de transportar e a obrigação tarifária.\n\n3. Para efeitos do disposto no presente regulamento considera-se obrigação de explorar qualquer obrigação que recaia sobre as empresas de transportes de tomar, relativamente a linhas ou instalações cuja exploração lhes tenha sido atribuída por concessão ou autorização equivalente, todas as medidas necessárias para assegurar um serviço de transporte que satisfaça as normas estabelecidas de continuidade, regularidade e capacidade. A obrigação de explorar abrange também a obrigação de assegurar a exploração de serviços complementares, bem como a obrigação de manter em bom estado linhas, material desde que este seja excedentário quanto às exigências da rede no seu conjunto e instalações após a supressão dos serviços de transporte.\n\n4. Para efeitos do disposto no presente regulamento considera-se obrigação de transportar a obrigação que as empresas de transporte têm, de aceitar e efectuar quaisquer transportes de passageiros ou de mercadorias a preços e condições de transporte determinados.\n\n5. Para efeitos do disposto no presente regulamento considera-se obrigação tarifária, as obrigações que as empresas de transporte têm, de aplicar os preços fixados ou homologados pela autoridade pública, contrários ao interesse comercial da empresa e resultantes quer de imposição, quer de recusa da alteração de medidas tarifárias especiais nomeadamente para determinadas categorias de passageiros, para determinadas categorias de produtos ou para determinadas relações de tráfego.\n\nO disposto no parágrafo anterior não é aplicável às obrigações decorrentes de medidas gerais de política de preços aplicáveis ao conjunto das actividades económicas ou de medidas tomadas em matéria de preços e condições gerais de transporte tendo em vista a organização do mercado de transportes ou de uma parte deste."
+  },
+  "4205a310e9348e6d": {
+   "fragment_id": "SECÇÃO II — Princípios comuns para a eliminação ou manutenção das obrigações de serviço público",
+   "type": "divisao",
+   "heading": "SECÇÃO II — Princípios comuns para a eliminação ou manutenção das obrigações de serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Princípios comuns para a eliminação ou manutenção das obrigações de serviço público"
+  },
+  "573ca39c56e57756": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Quando as autoridades competentes dos Estados-membros decidam a manutenção da totalidade ou de parte de uma obrigação de serviço público e quando várias soluções garantam, em condições análogas, o fornecimento de serviços de transportes suficientes, as autoridades competentes optarão pela que represente o menor custo para a colectividade.\n\n2. O fornecimento de serviços de transporte suficientes será avaliado tendo em conta:\n\na) O interesse geral;\n\nb) A possibilidade de recurso a outras técnicas de transporte e a aptidão destas para satisfazer as necessidades de transporte consideradas;\n\nc) Os preços e condições de transporte que possam ser oferecidos aos utentes."
+  },
+  "4657be5679bc03bb": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Compete às empresas de transporte apresentar às autoridades competentes dos Estados-membros pedidos de extinção da totalidade ou parte de uma obrigação de serviço público, se tal obrigação para elas implicar desvantagens económicas.\n\n2. As empresas de transporte podem propor, nos respectivos pedidos, a substituição do meio actualmente utilizado por um outro meio de transporte. As empresas aplicarão o disposto no artigo 5o para o cálculo das económias susceptíveis de melhorar os resultados da sua gestão financeira."
+  },
+  "62ac4407ce2ac88b": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Considera-se que uma obrigação de explorar ou transportar implica desvantagens económicas quando a diminuição dos encargos susceptível de ser realizada pela extinção total ou parcial dessa obrigação, relativamente a uma prestação ou a um conjunto de prestações a ela submetidas, for superior à diminuição das receitas resultantes desta extinção.\n\nAs desvantagens económicas serão determinadas com base num balanço, actualizado se for caso disso, das desvantagens económicas anuais constituídas pela diferença entre a diminuição dos encargos anuais e a diminuição das receitas anuais resultantes da extinção da obrigação.\n\nTodavia, se as obrigações de explorar ou transportar respeitarem a uma ou várias categorias de tráfego de passageiros ou de mercadorias quer de uma rede, quer de parte importante de uma rede, a estimativa dos encargos susceptíveis de desaparecerem em caso de extinção da obrigação, far-se-á com base numa repartição dos custos totais suportados pela empresa a título da sua actividade de transporte, pelas diferentes categorias de tráfego.\n\nA desvantagem económica será, neste caso, igual à diferença entre os custos imputáveis à parte da actividade da empresa abrangida pela obrigação de serviço público e a receita correspondente.\n\nA determinação das desvantagens económicas será feita tendo em conta as repercussões da obrigação no conjunto da actividade da empresa.\n\n2. Considera-se que uma obrigação tarifária implica desvantagens económicas quando a diferença entre as receitas e os encargos do tráfego sujeitos à obrigação é inferior à diferença entre as receitas e os encargos do tráfego resultante de uma gestão comercial que tenha em conta os custos das prestações sujeitas a esta obrigação bem como a situação do mercado."
+  },
+  "491e98aaaf2f8887": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. No prazo de um ano a contar da entrada em vigor do presente regulamento, as empresas de transporte apresentarão às autoridades competentes dos Estados-membros os pedidos referidos no artigo 4o.\n\nAs empresas de transporte podem apresentar pedidos depois de decorrido o prazo atrás previsto, se verificarem que estão preenchidas as condições referidas no no 1 do artigo 4o.\n\n2. As decisões de manter uma obrigação ou parte de uma obrigação de serviço público, ou de a extinguir decorrido certo prazo, deverão prever a atribuição de uma compensação dos encargos financeiros que daí resultem, cujo montante será determinado em conformidade com os procedimentos comuns estabelecidos nos artigos 10o a 13o.\n\n3. As autoridades competentes dos Estados-membros decidirão no prazo de um ano a contar da data de apresentação do pedido, relativamente às obrigações de explorar e de transportar, e num prazo de 6 meses no que diz respeito às obrigações tarifárias.\n\nO direito à compensação é adquirido na data da decisão das autoridades competentes, mas nunca antes de 1 de Janeiro de 1971.\n\n4. Todavia, se as autoridades competentes dos Estados-membros o considerarem necessário, por motivo do número e da importância dos pedidos apresentados por cada empresa, podem prorrogar o prazo previsto no primeiro parágrafo do no 3, o mais tardar até 1 de Janeiro de 1972. Neste caso, o direito à compensação adquire-se na mesma data.\n\nQuando as autoridades competentes dos Estados-membros pretendam utilizar essa faculdade, informarão desse facto as empresas interessadas, num prazo de seis meses após a apresentação dos pedidos.\n\nEm caso de dificuldades especiais de um Estado-membro e a pedido deste, o Conselho, sob proposta da Comissão, pode autorizar esse Estado a prorrogar até 1 de Janeiro de 1973 o prazo que consta do primeiro parágrafo.\n\n5. Se as autoridades competentes não tiverem tomado uma decisão nos prazos previstos, a obrigação cuja extinção tenha sido pedida nos termos do no 1 do artigo 4o, extinguir-se-á.\n\n6. O Conselho examinará, com base num relatório apresentado pela Comissão antes de 31 de Dezembro de 1972, a situação existente em cada Estado-membro relativamente à execução do presente regulamento."
+  },
+  "f2226b758fcbf49c": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. A decisão de manter uma obrigação pode ser acompanhada de condições destinadas a melhorar o rendimento das prestações sujeitas à obrigação em causa.\n\n2. A decisão de extinguir uma obrigação pode prever a introdução de um serviço alternativo. Neste caso, a extinção só produzirá efeito a partir do momento em que o serviço de substituição comece a funcionar."
+  },
+  "448c958a7209820d": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. O Estado-membro comunicará à Comissão, antes de serem postas em execução, as medidas de extinção das obrigações de explorar ou transportar que tenciona tomar em relação às linhas ou serviços de transporte susceptíveis de afectar o comércio ou o tráfego entre Estados-membros. Deste facto informará os outros Estados-membros.\n\n2. Se a Comissão o considerar necessário ou se um Estado-membro o requerer, a Comissão consultará os Estados-membros sobre as medidas projectadas.\n\n3. A Comissão enviará a todos os Estados-membros interessados um parecer ou uma recomendação nos dois meses seguintes à recepção da comunicação referida no no 1."
+  },
+  "4da05fab31acc35d": {
+   "fragment_id": "SECÇÃO III",
+   "type": "divisao",
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III\n\nAplicação, aos transportes de passageiros, de preços e condições de transporte impostos no interesse de uma ou de várias categorias sociais específicas"
+  },
+  "49cd68a3d77c00bd": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. O montante da compensação dos encargos das empresas que decorram da aplicação aos transportes de passageiros de preços e condições de transporte impostos no interesse de uma ou de várias categorias sociais específicas, será determinado em conformidade com os procedimentos comuns previstos nos artigos 11o a 13o.\n\n2. A compensação é devida a partir de 1 de Janeiro de 1971.\n\nEm caso de dificuldades especiais de um Estado-membro e a seu pedido, o Conselho, sob proposta da Comissão, pode autorizar esse Estado a prorrogar esta data até 1 de Janeiro de 1972.\n\n3. Os pedidos de compensação serão apresentados às autoridades competentes dos Estados-membros."
+  },
+  "1c70171b0705c135": {
+   "fragment_id": "SECÇÃO IV — Procedimentos comuns de compensação",
+   "type": "divisao",
+   "heading": "SECÇÃO IV — Procedimentos comuns de compensação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Procedimentos comuns de compensação"
+  },
+  "182cb3b22bfdb431": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. O montante da compensação prevista no artigo 6o será, no caso de uma obrigação de explorar ou de transportar, igual à diferença entre a diminuição dos encargos e a diminuição das receitas da empresa que possam resultar da extinção da totalidade ou da parte relevante da obrigação em causa durante o período de tempo considerado.\n\nTodavia, se o cálculo das desvantagens económicas tiver sido efectuado repartindo os custos totais suportados pela empresa a título da sua actividade de transporte entre as diferentes partes desta actividade, o montante da compensação será igual à diferença entre os custos imputáveis à parte da actividade da empresa abrangida pela obrigação de serviço público e a receita correspondente.\n\n2. Para a determinação dos encargos e receitas referidos no no 1, tomar-se-ao em conta as repercussões que a extinção da obrigação em causa teria sobre o conjunto da actividade da empresa."
+  },
+  "792ade2ed163f95b": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. O montante da compensação prevista no artigo 6o e no no 1 do artigo 9o será, no caso de uma obrigação tarifária, igual à diferença entre os dois montantes seguintes:\n\na) O primeiro montante será igual à diferença entre, por um lado, o produto do número de unidades de transporte previstas:\n\n- ou a tarifa mais favorável que pudesse ser reivindicada pelos utentes, se a obrigação em causa não existisse,\n\n- ou na ausência dessa tarifa, a tarifa que a empresa teria aplicado no âmbito de uma gestão comercial que tivesse em conta os custos da prestação em causa bem como a situação do mercado; e, por outro lado, o produto do número de unidades de transporte reais pela tarifa imposta durante o período de tempo considerado.\n\nb) O segundo termo será igual à diferença entre o custo que resultaria da aplicação quer da tarifa mais favorável, quer da tarifa que a empresa teria aplicado no âmbito de uma gestão comercial, e o custo que resulta da aplicação da tarifa realmente imposta.\n\n2. Sempre que por força da situação do mercado a compensação calculada por aplicação do no 1 não permita cobrir os custos totais do tráfego sujeito à obrigação tarifária em causa, o montante da compensação prevista no no 1 do artigo 9o será igual à diferença entre esses custos e as receitas desse tráfego. As eventuais compensações já efectuadas ao abrigo do artigo 10o serão tomadas em consideração nesse cálculo.\n\n3. Ao proceder-se ao cálculo dos encargos e receitas previstas no no 1, ter-se-ao em conta as repercussões que a eliminação da obrigação em causa teria sobre o conjunto da actividade da empresa."
+  },
+  "01fcdaf5e66ec01e": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nO cálculo dos custos que resultam da manutenção das obrigações terá como base uma gestão eficaz da empresa e uma prestação de serviços de transporte de qualidade adequada.\n\nOs juros respeitantes ao capital próprio podem ser deduzidos dos juros considerados no cálculo dos custos."
+  },
+  "cb93b3df3bbc0aa1": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. As decisões tomadas por força dos artigos 6o e 9o fixarão antecipadamente o montante da compensação para um período mínimo de um ano. Estas decisões determinarão ao mesmo tempo os factores de que pode resultar uma correcção do montante.\n\n2. A correcção do montante referido no no 1, será efectuada todos os anos após o fecho das contas de exercício da empresa.\n\n3. O pagamento das compensações fixadas antecipadamente será efectuado por meio de pagamentos escalonados. O pagamento dos montantes devidos em resultado da correcção feita de acordo com o no 2 será efectuado imediatamente após fixação do montante das correcções."
+  },
+  "afd2c440d32fc0ae": {
+   "fragment_id": "SECÇÃO V — Imposição de novas obrigações de serviço público",
+   "type": "divisao",
+   "heading": "SECÇÃO V — Imposição de novas obrigações de serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Imposição de novas obrigações de serviço público"
+  },
+  "6b93e9357b9cb6a8": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. Com excepção dos casos referidos no no 3 do artigo 1o, após a data de entrada em vigor do presente regulamento, os Estados-membros não podem impor obrigações de serviço público a uma empresa de transporte a não ser na medida em que estas obrigações sejam indispensáveis para garantir o fornecimento de serviços de transporte suficientes.\n\n2. Quando as obrigações assim impostas impliquem para as empresas de transporte desvantagens económicas na acepção dos nos 1 e 2 do artigo 5o ou encargos na acepção do artigo 9o, as autoridades competentes dos Estados-membros, ao decidir a imposição de tais obrigações, devem prever a concessão de uma compensação relativa aos encargos que daí resultem."
+  },
+  "e5f506f9effa1045": {
+   "fragment_id": "SECÇÃO VI — Disposições finais",
+   "type": "divisao",
+   "heading": "SECÇÃO VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Disposições finais"
+  },
+  "df0778e8bf550764": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nAs decisões das autoridades competentes dos Estados-membros tomadas em conformidade com as disposições do presente regulamento serão fundamentadas e objecto de publicação adequada."
+  },
+  "92b6f816074301aa": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nOs Estados-membros assegurarão que às empresas de transporte, nessa qualidade, seja concedida a oportunidade de defenderem os seus interesses, através de meios adequados, no que respeita às decisões tomadas em aplicação do presente regulamento."
+  },
+  "e038311a55d75cdd": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\n1. A Comissão pode pedir aos Estados-membros todas as informações relevantes sobre a aplicação do presente regulamento. A Comissão procederá a uma consulta dos Estados-membros interessados, sempre que o considere necessário.\n\n2. As compensações que resultarem da aplicação do presente regulamento estão dispensadas do processo de informação prévia, previsto no no 3 do artigo 93o do Tratado que institui a Comunidade Económica Europeia.\n\nOs Estados-membros comunicarão imediatamente à Comissão, por categoria de obrigações, as compensações dos encargos decorrentes para as empresas de transporte de manutenção das obrigações de serviço público, referidas no artigo 2o, e da aplicação aos transportes de passageiros de preços e condições de transporte impostos no interesse de uma ou de várias categorias sociais específicas."
+  },
+  "257e30c89f8ac172": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\n1. Os Estados-membros adoptarão em tempo útil, após consulta da Comissão, as disposições legislativas, regulamentares ou administrativas necessárias à execução do presente regulamento e nomeadamente do seu artigo 4o.\n\n2. Se um Estado-membro o solicitar ou se a Comissão o considerar oportuno, esta consultará os Estados-membros em causa sobre os projectos relativos às disposições referidas no no 1."
+  },
+  "3fca44ca17046c21": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\n1. No que diz respeito às empresas ferroviárias, o presente regulamento é aplicável, para a sua actividade de transporte por caminho de ferro, às empresas seguintes:\n\n- Société Nationale des Chemins de Fer Belges (SNCB) /Nationale Maatschappij der Belgische Spoorwegen (NMBS);\n\n- Deutsche Bundesbahn (DB);\n\n- Société Nationale des Chemins de Fer Français (SNCF);\n\n- Azienda Autonoma delle Ferrovie dello Stato (FS);\n\n- Société Nationale des Chemins de Fer Luxembourgeois (CFL);\n\n- Naamloze Vennootschap Nederlandse Spoorwegen (NS).\n\n2. No que diz respeito às empresas dos outros modos de transporte, o regulamento não é aplicável às empresas que efectuem principalmente transportes de carácter local ou regional.\n\n3. No prazo de três anos após a entrada em vigor do presente regulamento, o Conselho decidirá, com base nos princípios e objectivos enunciados na Secção II da sua Decisão de 13 de Maio de 1965, das acções a empreender em matéria de obrigações inerentes à noção de serviço público quanto às operações de transporte não abrangidas pelo presente regulamento."
+  },
+  "ffda8ccc5257cf30": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\nO presente regulamento entra em vigor em 1 de Julho de 1969.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo em 26 de Junho de 1969.\n\nPelo Conselho\n\nO Presidente\n\nG. THORN\n\n(1) JO no 88 de 24. 5. 1965, p. 1500/65.(2) JO no C 27 de 28. 3. 1968, p. 18.(3) JO no C 49 de 17. 5. 1968, p. 15."
+  },
+  "e911bcde2260d3e1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1969R1191 — PT — 03.12.2009 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31969R1191) [REGULAMENTO (CEE) N.º 1191/69 DO CONSELHO](http://publications.europa.eu/resource/celex/31969R1191) [de 26 de Junho de 1969](http://publications.europa.eu/resource/celex/31969R1191) [relativo à acção dos Estados-membros em matéria de obrigações inerentes à noção de serviço público no domínio dos transportes ferroviários, rodoviários e por via navegável](http://publications.europa.eu/resource/celex/31969R1191) (JO L 156, 28.6.1969, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1370/2007 do Parlamento Europeu e do Conselho de 23 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1370) — L 315 — 1 — 3.12.2007"
+  }
+ }
+}

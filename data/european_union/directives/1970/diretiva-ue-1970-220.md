@@ -35,6 +35,33 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-01-02'
+version_history:
+  file: diretiva-ue-1970-220.versoes.json
+  count: 2
+  source_lastmod: '2013-01-02'
+  versions:
+  - date: '1970-04-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-01-02'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º.
+    - Suprime Artigo 2º.
+    - Suprime Artigo 3º.
+    - Suprime Artigo 4º.
+    - Suprime Artigo 5º.
+    - Suprime Artigo 6º.
+    - Suprime Artigo 7º.
+    - Suprime ANEXO I — DEFINIÇÕES, PEDIDO DE HOMOLOGAÇÃO E PRESCRIÇÕES DE ENSAIO
+    - Suprime ANEXO II — >PIC FILE= "T0002198"> >PIC FILE= "T0002156">
+    - Suprime ANEXO III — ENSAIO DO TIPO I
+    - Suprime ANEXO IV — ENSAIO DO TIPO II
+    - Suprime ANEXO V — ENSAIO DO TIPO III
+    - Suprime ANEXO VI — >PIC FILE= "T0002168""PIC FILE= "T0002169">
 identifiers:
   celex: 31970L0220
   eli: http://data.europa.eu/eli/dir/1970/220/oj
@@ -49,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/74aff344-5915-4985-b56e-a38a647c828d.0011
   content_url: http://publications.europa.eu/resource/cellar/cb099afa-e16b-4bb4-b02d-de8ac3e23a7c.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01970L0220-20130102
-  retrieved_at: '2026-10-22T02:36:29Z'
+  retrieved_at: '2026-10-22T14:29:37Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2017-06-14T15:22:41.280+02:00'
 integrity:
@@ -58,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:29Z'
-  notes: Texto consolidado 01970L0220-20130102.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:29:37Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1970-220.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -292,16 +319,38 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:29Z'
+  checked_at: '2026-10-22T14:29:37Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01970L0220-19700407: versão indisponível (Sem expressão na língua por para CELEX 01970L0220-19700407.)'
+  - '01970L0220-19730101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-19740604: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-19761202: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-19780714: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-19830623: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-19871216: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-19880628: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-19890724: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-19890725: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-19910725: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-19930708: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-19940509: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-19960909: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-19961121: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-19981112: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-19981228: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-19991231: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-20010206: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-20020121: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-20021031: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-20030904: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0220-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

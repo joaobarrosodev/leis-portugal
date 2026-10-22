@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-10-01'
+version_history:
+  file: diretiva-ue-2007-5.versoes.json
+  count: 1
+  source_lastmod: '2007-10-01'
+  versions:
+  - date: '2007-10-01'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32007L0005
   eli: http://data.europa.eu/eli/dir/2007/5/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e5f150a9-0ad5-47b3-a78a-9b4be94a48b3.0017
   content_url: http://publications.europa.eu/resource/cellar/2fa3d86c-b9af-4e94-bb99-cc04a6a9642d.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007L0005-20071001
-  retrieved_at: '2026-10-22T02:52:21Z'
+  retrieved_at: '2026-10-22T15:07:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T14:50:29.427+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:21Z'
-  notes: Texto consolidado 02007L0005-20071001.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:07:02Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2007-5.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -110,29 +119,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/14186bfd-c84b-4909-a60b-036a514a74d8
 article_structure:
   article_count: 5
-  section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 2
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:21Z'
+  checked_at: '2026-10-22T15:07:02Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2007/5/CE da Comissão, de 7 de Fevereiro de 2007
-
-> 2007L0005 — PT — 01.10.2007 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008D0782) — [DECISÃO DA COMISSÃO de 7 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008D0782) — L 268 — 31 — 9.10.2008
-
-## DIRECTIVA 2007/5/CE DA COMISSÃO
 
 de 7 de Fevereiro de 2007
 

@@ -34,6 +34,54 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-10-14'
+version_history:
+  file: regulamento-ue-1998-994.versoes.json
+  count: 3
+  source_lastmod: '2015-10-14'
+  versions:
+  - date: '1998-05-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-08-20'
+    amending: eu:celex:32013R0733:por
+    amending_title: REGULAMENTO (UE) N. o 733/2013 DO CONSELHO de 22 de julho de 2013
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º — Isenções por categoria
+    - Adita Artigo 2.º — De minimis
+    - Adita Artigo 3.º — Transparência e controlo
+    - Adita Artigo 4.º — Período de vigência e alteração dos regulamentos
+    - Adita Artigo 5.º — Relatório de avaliação
+    - Adita Artigo 6.º — Audição das partes interessadas
+    - Adita Artigo 7.º — Comité Consultivo
+    - Adita Artigo 8.º — Consulta do Comité Consultivo
+    - Adita Artigo 9.º — Disposições finais
+    - Adita Notas
+    - Suprime Artigo 1º — Isenções por categoria
+    - Suprime Artigo 2º — De minimis
+    - Suprime Artigo 3º — Transparência e controlo
+    - Suprime Artigo 4º — Período de vigência e alteração dos regulamentos
+    - Suprime Artigo 5º — Relatório de avaliação
+    - Suprime Artigo 6º — Audição das partes interessadas
+    - Suprime Artigo 7º — Comité Consultivo
+    - Suprime Artigo 8º — Consulta do Comité Consultivo
+    - Suprime Artigo 9º — Disposições finais
+  - date: '2015-10-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Isenções por categoria
+    - Suprime Artigo 2.º — De minimis
+    - Suprime Artigo 3.º — Transparência e controlo
+    - Suprime Artigo 4.º — Período de vigência e alteração dos regulamentos
+    - Suprime Artigo 5.º — Relatório de avaliação
+    - Suprime Artigo 6.º — Audição das partes interessadas
+    - Suprime Artigo 7.º — Comité Consultivo
+    - Suprime Artigo 8.º — Consulta do Comité Consultivo
+    - Suprime Artigo 9.º — Disposições finais
+    - Suprime Notas
 identifiers:
   celex: 31998R0994
   eli: http://data.europa.eu/eli/reg/1998/994/oj
@@ -48,7 +96,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/654195d8-74fb-40ee-bf6c-416daec79936.0011
   content_url: http://publications.europa.eu/resource/cellar/a439d713-06ff-4467-98f1-a5279fa16742.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998R0994-20151014
-  retrieved_at: '2026-10-22T03:09:11Z'
+  retrieved_at: '2026-10-22T14:47:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T14:57:07.485+01:00'
 integrity:
@@ -57,9 +105,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:09:11Z'
-  notes: Texto consolidado 01998R0994-20151014.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:16Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1998-994.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -111,16 +159,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:09:11Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:47:16Z'
+  warnings: []
   errors: []
 ---
 

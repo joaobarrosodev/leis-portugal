@@ -36,6 +36,203 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-11-26'
+version_history:
+  file: regulamento-ue-2006-1925.versoes.json
+  count: 14
+  source_lastmod: '2025-11-26'
+  versions:
+  - date: '2006-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-03-04'
+    amending: eu:celex:32008R0108:por
+    amending_title: REGULAMENTO (CE) N. o 108/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Janeiro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos aplicáveis à adição de vitaminas e minerais
+    - Altera Artigo 4.º — Restrições aplicáveis à adição de vitaminas e minerais
+    - Altera Artigo 5.º — Critérios de pureza
+    - Altera Artigo 6.º — Condições de adição de vitaminas e de minerais
+    - Altera Artigo 7.º — Rotulagem, apresentação e publicidade
+    - Altera Artigo 8.º — Substâncias sujeitas a restrições, proibidas ou sob controlo comunitário
+    - Altera Artigo 18.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 14.º
+    - Adita ANEXO I
+    - Adita VITAMINAS E MINERAIS QUE PODEM SER ADICIONADOS AOS ALIMENTOS
+    - Adita 1. Vitaminas
+    - Adita 2. Minerais
+    - Adita ANEXO II
+    - Adita PREPARADOS VITAMÍNICOS E SUBSTÂNCIAS MINERAIS QUE PODEM SER ADICIONADOS AOS ALIMENTOS
+    - Adita 1. Preparados vitamínicos
+    - Adita VITAMINA A
+    - Adita VITAMINA D
+    - Adita VITAMINA E
+    - Adita VITAMINA K
+    - Adita VITAMINA B1
+    - Adita VITAMINA B2
+    - Adita NIACINA
+    - Adita ÁCIDO PANTOTÉNICO
+    - Adita VITAMINA B6
+    - Adita ÁCIDO FÓLICO
+    - Adita VITAMINA B12
+    - Adita BIOTINA
+    - Adita VITAMINA C
+    - Adita 2. Substâncias minerais
+    - Adita ANEXO III
+    - Adita SUBSTÂNCIAS CUJA UTILIZAÇÃO NOS ALIMENTOS É PROIBIDA, ESTÁ SUJEITA A RESTRIÇÕES OU ESTÁ SOB CONTROLO COMUNITÁRIO
+    - Suprime Artigo 14.º — Procedimento de comité
+  - date: '2009-12-21'
+    amending: eu:celex:32009R1170:por
+    amending_title: REGULAMENTO (CE) N. o 1170/2009 DA COMISSÃO de 30 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Restrições aplicáveis à adição de vitaminas e minerais
+    - Altera 2. Minerais
+    - Altera 1. Preparados vitamínicos
+    - Altera 2. Substâncias minerais
+    - Altera Notas
+    - Adita Preparados vitamínicos e substâncias minerais que podem ser adicionados aos alimentos
+    - Suprime PREPARADOS VITAMÍNICOS E SUBSTÂNCIAS MINERAIS QUE PODEM SER ADICIONADOS AOS ALIMENTOS
+    - Suprime VITAMINA A
+    - Suprime VITAMINA D
+    - Suprime VITAMINA E
+    - Suprime VITAMINA K
+    - Suprime VITAMINA B1
+    - Suprime VITAMINA B2
+    - Suprime NIACINA
+    - Suprime ÁCIDO PANTOTÉNICO
+    - Suprime VITAMINA B6
+    - Suprime ÁCIDO FÓLICO
+    - Suprime VITAMINA B12
+    - Suprime BIOTINA
+    - Suprime VITAMINA C
+  - date: '2011-12-05'
+    amending: eu:celex:32011R1161:por
+    amending_title: REGULAMENTO (UE) N. o 1161/2011 DA COMISSÃO de 14 de Novembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Restrições aplicáveis à adição de vitaminas e minerais
+    - Altera 1. Preparados vitamínicos
+    - Altera 2. Substâncias minerais
+    - Altera Notas
+  - date: '2014-02-28'
+    amending: eu:celex:32014R0119:por
+    amending_title: REGULAMENTO (UE) N. o 119/2014 DA COMISSÃO de 7 de fevereiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Restrições aplicáveis à adição de vitaminas e minerais
+    - Altera 1. Preparados vitamínicos
+    - Altera 2. Substâncias minerais
+    - Altera Notas
+  - date: '2014-12-13'
+    amending: eu:celex:32011R1169:por
+    amending_title: REGULAMENTO (UE) N. o 1169/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de Outubro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Restrições aplicáveis à adição de vitaminas e minerais
+    - Altera Artigo 7.º — Rotulagem, apresentação e publicidade
+    - Altera 1. Preparados vitamínicos
+    - Altera 2. Substâncias minerais
+    - Altera Notas
+  - date: '2015-04-01'
+    amending: eu:celex:32015R0403:por
+    amending_title: REGULAMENTO (UE) 2015/403 DA COMISSÃO de 11 de março de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Restrições aplicáveis à adição de vitaminas e minerais
+    - Altera Artigo 7.º — Rotulagem, apresentação e publicidade
+    - Altera 1. Preparados vitamínicos
+    - Altera 2. Substâncias minerais
+    - Altera SUBSTÂNCIAS CUJA UTILIZAÇÃO NOS ALIMENTOS É PROIBIDA, ESTÁ SUJEITA A RESTRIÇÕES OU ESTÁ SOB CONTROLO COMUNITÁRIO
+    - Altera Notas
+  - date: '2017-07-26'
+    amending: eu:celex:32017R1203:por
+    amending_title: REGULAMENTO (UE) 2017/1203 DA COMISSÃO de 5 de julho de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Restrições aplicáveis à adição de vitaminas e minerais
+    - Altera Artigo 7.º — Rotulagem, apresentação e publicidade
+    - Altera 1. Preparados vitamínicos
+    - Altera 2. Substâncias minerais
+    - Altera Notas
+  - date: '2021-04-08'
+    amending: eu:celex:32019R0649:por
+    amending_title: REGULAMENTO (UE) 2019/649 DA COMISSÃO de 24 de abril de 2019; REGULAMENTO (UE) 2019/650 DA COMISSÃO de
+      24 de abril de 2019; REGULAMENTO (UE) 2021/468 DA COMISSÃO de 18 de março de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Restrições aplicáveis à adição de vitaminas e minerais
+    - Altera Artigo 7.º — Rotulagem, apresentação e publicidade
+    - Altera 1. Preparados vitamínicos
+    - Altera 2. Substâncias minerais
+    - Altera SUBSTÂNCIAS CUJA UTILIZAÇÃO NOS ALIMENTOS É PROIBIDA, ESTÁ SUJEITA A RESTRIÇÕES OU ESTÁ SOB CONTROLO COMUNITÁRIO
+    - Altera Notas
+    - Adita PARTE B
+    - Adita Substâncias sujeitas a restrições
+  - date: '2022-06-22'
+    amending: eu:celex:32022R0860:por
+    amending_title: REGULAMENTO (UE) 2022/860 DA COMISSÃO de 1 de junho de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Restrições aplicáveis à adição de vitaminas e minerais
+    - Altera Artigo 7.º — Rotulagem, apresentação e publicidade
+    - Altera 1. Preparados vitamínicos
+    - Altera 2. Substâncias minerais
+    - Altera Substâncias sujeitas a restrições
+    - Altera Notas
+  - date: '2022-12-21'
+    amending: eu:celex:32022R2340:por
+    amending_title: REGULAMENTO (UE) 2022/2340 DA COMISSÃO de 30 de novembro de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Restrições aplicáveis à adição de vitaminas e minerais
+    - Altera Artigo 7.º — Rotulagem, apresentação e publicidade
+    - Altera 1. Preparados vitamínicos
+    - Altera 2. Substâncias minerais
+    - Altera Substâncias sujeitas a restrições
+    - Altera Notas
+  - date: '2023-06-22'
+    amending: eu:celex:32023R1065:por
+    amending_title: REGULAMENTO (UE) 2023/1065 DA COMISSÃO de 1 de junho de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Restrições aplicáveis à adição de vitaminas e minerais
+    - Altera Artigo 7.º — Rotulagem, apresentação e publicidade
+    - Altera 1. Preparados vitamínicos
+    - Altera 2. Substâncias minerais
+    - Altera Substâncias sujeitas a restrições
+    - Altera Notas
+  - date: '2024-07-17'
+    amending: eu:celex:32024R1821:por
+    amending_title: REGULAMENTO (UE) 2024/1821 DA COMISSÃO de 25 de junho de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Restrições aplicáveis à adição de vitaminas e minerais
+    - Altera Artigo 7.º — Rotulagem, apresentação e publicidade
+    - Altera 1. Preparados vitamínicos
+    - Altera 2. Substâncias minerais
+    - Altera Substâncias sujeitas a restrições
+    - Altera Notas
+  - date: '2025-11-26'
+    amending: eu:celex:32025R2224:por
+    amending_title: REGULAMENTO (UE) 2025/2224 DA COMISSÃO de 5 de novembro de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Restrições aplicáveis à adição de vitaminas e minerais
+    - Altera Artigo 7.º — Rotulagem, apresentação e publicidade
+    - Altera 1. Preparados vitamínicos
+    - Altera 2. Substâncias minerais
+    - Altera Substâncias sujeitas a restrições
+    - Altera Notas
 identifiers:
   celex: 32006R1925
   eli: http://data.europa.eu/eli/reg/2006/1925/oj
@@ -50,7 +247,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3f4a1a6e-a2f1-4bab-8a1f-89d2e3b6d9dc.0017
   content_url: http://publications.europa.eu/resource/cellar/775779c4-d51b-11f0-8da2-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1925-20251126
-  retrieved_at: '2026-10-22T02:47:50Z'
+  retrieved_at: '2026-10-22T15:05:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T14:27:23.449+01:00'
 integrity:
@@ -59,9 +256,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:50Z'
-  notes: Texto consolidado 02006R1925-20251126.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:05:55Z'
+  notes: 14 versão(ões); histórico completo em regulamento-ue-2006-1925.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -222,43 +419,19 @@ relationships:
   date: '2025-05-07'
 article_structure:
   article_count: 18
-  section_count: 20
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 21
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:50Z'
+  checked_at: '2026-10-22T15:05:55Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1925/ 2006 do Parlamento Europeu e do Conselho, de 20 de Dezembro de 2006
-
-> 02006R1925 — PT — 26.11.2025 — 014.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008R0108) — [REGULAMENTO (CE) N.º 108/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Janeiro de 2008](http://publications.europa.eu/resource/celex/32008R0108) — L 39 — 11 — 13.2.2008
-- [►M2](http://publications.europa.eu/resource/celex/32009R1170) — [REGULAMENTO (CE) N.º 1170/2009 DA COMISSÃO de 30 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1170) — L 314 — 36 — 1.12.2009
-- [►M3](http://publications.europa.eu/resource/celex/32011R1161) — [REGULAMENTO (UE) N.º 1161/2011 DA COMISSÃO de 14 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1161) — L 296 — 29 — 15.11.2011
-- [►M4](http://publications.europa.eu/resource/celex/32011R1169) — [REGULAMENTO (UE) N.º 1169/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de Outubro de 2011](http://publications.europa.eu/resource/celex/32011R1169) — L 304 — 18 — 22.11.2011
-- [►M5](http://publications.europa.eu/resource/celex/32014R0119) — [REGULAMENTO (UE) N.º 119/2014 DA COMISSÃO de 7 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0119) — L 39 — 44 — 8.2.2014
-- [►M6](http://publications.europa.eu/resource/celex/32015R0403) — [REGULAMENTO (UE) 2015/403 DA COMISSÃO de 11 de março de 2015](http://publications.europa.eu/resource/celex/32015R0403) — L 67 — 4 — 12.3.2015
-- [►M7](http://publications.europa.eu/resource/celex/32017R1203) — [REGULAMENTO (UE) 2017/1203 DA COMISSÃO de 5 de julho de 2017](http://publications.europa.eu/resource/celex/32017R1203) — L 173 — 9 — 6.7.2017
-- [►M8](http://publications.europa.eu/resource/celex/32019R0649) — [REGULAMENTO (UE) 2019/649 DA COMISSÃO de 24 de abril de 2019](http://publications.europa.eu/resource/celex/32019R0649) — L 110 — 17 — 25.4.2019
-- [►M9](http://publications.europa.eu/resource/celex/32019R0650) — [REGULAMENTO (UE) 2019/650 DA COMISSÃO de 24 de abril de 2019](http://publications.europa.eu/resource/celex/32019R0650) — L 110 — 21 — 25.4.2019
-- [►M10](http://publications.europa.eu/resource/celex/32021R0468) — [REGULAMENTO (UE) 2021/468 DA COMISSÃO de 18 de março de 2021](http://publications.europa.eu/resource/celex/32021R0468) — L 96 — 6 — 19.3.2021
-- [►M11](http://publications.europa.eu/resource/celex/32022R0860) — [REGULAMENTO (UE) 2022/860 DA COMISSÃO de 1 de junho de 2022](http://publications.europa.eu/resource/celex/32022R0860) — L 151 — 37 — 2.6.2022
-- [►M12](http://publications.europa.eu/resource/celex/32022R2340) — [REGULAMENTO (UE) 2022/2340 DA COMISSÃO de 30 de novembro de 2022](http://publications.europa.eu/resource/celex/32022R2340) — L 310 — 7 — 1.12.2022
-- [►M13](http://publications.europa.eu/resource/celex/32023R1065) — [REGULAMENTO (UE) 2023/1065 DA COMISSÃO de 1 de junho de 2023](http://publications.europa.eu/resource/celex/32023R1065) — L 143 — 6 — 2.6.2023
-- [►M14](http://publications.europa.eu/resource/celex/32024R1821) — [REGULAMENTO (UE) 2024/1821 DA COMISSÃO de 25 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1821) — L 1821 — 1 — 27.6.2024
-- [►M15](http://publications.europa.eu/resource/celex/32025R2224) — [REGULAMENTO (UE) 2025/2224 DA COMISSÃO de 5 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2224) — L 2224 — 1 — 6.11.2025
-
-## REGULAMENTO (CE) N.º 1925/ 2006 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de Dezembro de 2006
 

@@ -1,0 +1,179 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31980L0876:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01980L0876-20031211",
+ "dre_path": null,
+ "source_lastmod": "2003-12-11",
+ "versions": [
+  {
+   "date": "1980-09-23",
+   "future": false,
+   "celex": "31980L0876",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7d12c9fa55dc6345",
+    "8df8aebccf33c0b8",
+    "a943a0eda90b7d0e",
+    "513d5afde2128898",
+    "b00a95919989d0d0",
+    "d1cf45c0a05802ad",
+    "cc9058dd4020edcc",
+    "4ef421e8cfc97dbc",
+    "a5470f3ebc5f27f8",
+    "ce3e437fc1cb34af",
+    "56b0303a666f90fa",
+    "b06b9cc56273b12b",
+    "060767b0fc2658b7",
+    "fd6aaddd45ba8705"
+   ]
+  },
+  {
+   "date": "2003-12-11",
+   "future": false,
+   "celex": "01980L0876-20031211",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime ANEXO I — CARACTERISTICAS E LIMITES DE UM ADUBO ELEMENTAR À BASE DE NITRATO DE AMONIO COM ELEVADO TEOR DE AZOTO",
+    "Suprime ANEXO II — DESCRIÇÃO DO ENSAIO DE EXPLOSIVIDADE REFERIDO NO ARTIGO 7o"
+   ],
+   "fragments": [
+    "e6f47da557977530"
+   ]
+  }
+ ],
+ "fragments": {
+  "7d12c9fa55dc6345": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 80/876/CEE do Conselho, de 15 de Julho de 1980, relativa à aproximação das legislações dos Estados-Membros respeitantes aos adubos elementares à base de nitrato de amónio com elevado teor de azoto** *Jornal Oficial nº L 250 de 23/09/1980 p. 0007 - 0011 Edição especial finlandesa: Capítulo 13 Fascículo 11 p. 0003 Edição especial espanhola: Capítulo 13 Fascículo 11 p. 0071 Edição especial sueca: Capítulo 13 Fascículo 11 p. 0003 Edição especial portuguesa: Capítulo 13 Fascículo 11 p. 0071*\n\nDIRECTIVA DO CONSELHO de 15 de Julho de 1980 relativa à aproximação das legislações dos Estados-membros respeitantes aos adubos elementares à base de nitrato de amónio com elevado teor de azoto\n\n(80/876/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta a parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a Directiva 76/116/CEE do Conselho, de 18 de Dezembro de 1975, relativa à aproximação das legislações dos Estados-membros respeitantes aos adubos (4), determinou já as regras comunitárias respeitantes à designação, composição, rotulagem e embalagem dos adubos elementares e compostos mais importantes na Comunidade; que os adubos à base de nitrato de amónio são nomeadamente, abrangidos por certas directivas; que, no entanto, pareceu necessário, devido à natureza especial deste tipo de adubo e às exigências que dela decorrem no que respeita à segurança pública, à saúde e à protecção dos trabalhadores, estabelecer regras comunitárias complementares para estes adubos;\n\nConsiderando que o nitrato de amónio constitui o ingrediente principal de toda uma série de produtos dos quais alguns são utilizados como adubos e outros como explosivos; que, em consequência das divergências entre as disposições nacionais respeitantes à classificação dos produtos utilizados como adubos e as relativas aos outros produtos à base de nitrato de amónio, as disposições que regulam a comercialização dos adubos à base de nitrato de amónio diferem de um Estado-membro para outro; que, pela sua disparidade, estas disposições são de natureza a entravar o comércio dos adubos elementares à base de nitrato de amónio e com elevado teor de azoto na Comunidade Económica Europeia;\n\nConsiderando que estes obstáculos ao estabelecimento do mercado comum podem ser reduzidos ou mesmo eliminados, se forem adoptadas as mesmas prescrições em todos os Estados-membros, quer em complemento, quer em substituição das suas legislações actuais;\n\nConsiderando que alguns dos produtos abrangidos pela presente directiva podem, em certos casos, ser utilizados para fins diferentes daqueles a que se destinam e ser susceptível de fazer perigar a segurança das pessoas e bens; que é, portanto, conveniente não impedir os Estados-membros de tomar as medidas adequadas para evitar estas utilizações;\n\nConsiderando que, com esse fim, é sobretudo necessário determinar a nível comunitário, no interesse da segurança pública, as características e as propriedades que distinguem os adubos elementares à base de nitrato de amónio e com elevado teor de azoto das variedades de nitrato de amónio que servem para o fabrico de produtos utilizados como explosivos;\n\nConsiderando que os adubos elementares à base de nitrato de amónio e com elevado teor de azoto devem corresponder a certas características que garantam a sua inocuidade; que, além disso, vários Estados-membros desejam poder submeter estes adubos a um ensaio de explosividade antes ou depois da sua comercialização;\n\nConsiderando que a determinação dos métodos de análise e de controlo bem como quaisquer alterações ou aditamentos que lhes devam ser feitos, devido ao progresso técnico, constituem medidas de natureza técnica cuja adopção é conveniente atribuir à Comissão, a fim de simplificar e acelerar o processo;\n\nConsiderando que o progresso técnico exige uma rápida adaptação das disposições técnicas da presente directiva; que já se encontra instituído um procedimento em conformidade com os artigos 10o e 11o da Directiva 76/116/CEE com vista a adaptar ao progresso técnico as directivas respeitantes ao sector dos adubos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "8df8aebccf33c0b8": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Sem prejuízo da aplicação da Directiva 76/116/CEE, a presente directiva é aplicável aos adubos elementares à base de nitrato de amónio e com elevado teor de azoto, colocados no mercado dos Estados-membros da Comunidade.\n\n2. Para efeitos do disposto na presente directiva entende-se por «adubo» qualquer produto à base de nitrato de amónio, fabricado por via química para utilização como adubo, tendo um teor de azoto superior a 28 % em peso e podendo conter aditivos inorgânicos ou substâncias inertes tais como calcário, dolomite moída, sulfato de magnésio, Kieserite.\n\n3. Os aditivos inorgânicos ou substâncias inertes que não sejam os mencionados no no 2 e que entrem na composição do adubo não devem aumentar a sua sensibilidade térmica nem a sua tendência à detonação."
+  },
+  "a943a0eda90b7d0e": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPara poder receber a indicação «adubo CEE», o adubo deve corresponder às características e aos limites fixados no Anexo I. A pessoa responsável pela colocação do adubo do mercado, com sede na Comunidade, certificará esta conformidade mediante a indicação «adubo CEE»."
+  },
+  "513d5afde2128898": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nSó o adubo embalado pode ser colocado à disposição do utilizador definitivo.\n\nPara o transporte destes adubos continuarão a aplicar-se as regulamentações internacionais relativas ao transporte de substâncias perigosas."
+  },
+  "b00a95919989d0d0": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs Estados-membros não podem, por motivos relacionados com as condições estabelecidas na presente directiva, proibir, restringir ou entravar a colocação no mercado de um adubo munido da indicação «adubo CEE» que corresponda às prescrições da presente directiva."
+  },
+  "d1cf45c0a05802ad": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nAs disposições da presente directiva não impedem que sejam tomadas medidas, justificadas por motivos de segurança pública, com vista a proibir, restringir ou entravar a colocação de adubos no mercado."
+  },
+  "cc9058dd4020edcc": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros tomarão todas as medidas necessárias para assegurar que os adubos colocados no mercado com a indicação «adubo CEE» estão conformes às disposições da presente directiva e do seu Anexo I."
+  },
+  "4ef421e8cfc97dbc": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Sem prejuízo das medidas referidas no artigo 6o, os Estados-membros podem, se assim o desejarem, proceder a controlos suplementares dos «adubos CEE». Estes controlos podem ser efectuados quer antes da colocação dos adubos no mercado, quer após a sua comercialização, quer concorrentemente nestas duas fases.\n\n2. Relativamente a estes controlos, só pode ser utilizado o ensaio previsto no Anexo II.\n\n3. Os «adubos CEE» que correspondem às prescrições da presente directiva e, quando o Estado-membro o exija, às do ensaio de explosividade previsto no Anexo II não podem ser submetidos a disposições nacionais tão restritivas como as que se aplicam aos produtos que não correspondam a estas prescrições, em especial no que se refere ao armazenamento."
+  },
+  "a5470f3ebc5f27f8": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Serão estabelecidos de acordo com o procedimento previsto no artigo 11o da Directiva 76/116/CEE:\n\n- o método de controlo das prescrições dos pontos 1, 2 e 6 do Anexo I, bem como o método de realização do ensaio previsto no Anexo II,\n\n- o número de ciclos térmicos previstos no Anexo II aos quais são submetidos os adubos. Devem ser previstos pelo menos dois ciclos térmicos,\n\n- os métodos de análise e de amostragem,\n\n- a taxa máxima admissível de metais pesados.\n\n2. As alterações necessárias para adaptar ao progresso técnico os métodos de determinação da composição e das propriedades dos adubos e o método de execução do ensaio de explosividade serão adoptadas de acordo com o mesmo procedimento.\n\n3. De acordo com o mesmo procedimento decidir-se-á, três anos após a entrada em vigor da presente directiva, se é conveniente manter a exigência de dois ciclos térmicos para o ensaio referido no ponto 1 do Anexo I."
+  },
+  "ce3e437fc1cb34af": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Se um Estado-membro verificar, com base numa fundamentação circunstanciada, que um adubo, apesar de corresponder às prescrições da presente directiva, constitui um perigo para a segurança ou para a saúde, pode provisoriamente proibir ou submeter a condições especiais a colocação desse adubo no mercado, no seu território. Desse facto informará imediatamente os outros Estados-membros e a Comissão, especificando os motivos que justificaram a sua decisão.\n\n2. A Comissão procederá no prazo de seis semanas à consulta dos Estados-membros interessados, após o que emitirá sem demora o seu parecer e tomará as medidas adequadas.\n\n3. Se a Comissão considerar que são necessárias adaptações técnicas à presente directiva, essas adaptações serão adoptadas quer pela Comissão, quer pelo Conselho, de acordo com o procedimento previsto no artigo 8o. Neste caso, o Estado-membro que tomou medidas de protecção pode mantê-las até à entrada em vigor dessas adaptações."
+  },
+  "56b0303a666f90fa": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. Os Estados-membros adoptarão e publicarão as disposições necessárias para darem cumprimento à presente directiva no prazo de dezoito meses a contar da sua notificação, e desse facto informarão imediatamente a Comissão.\n\nAplicarão essas disposições a partir de 1 de Janeiro de 1984.\n\n2. Os Estados-membros devem assegurar que seja comunicado à Comissão o texto das disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "b06b9cc56273b12b": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 15 de Julho de 1980.\n\nPelo Conselho\n\nO Presidente\n\nJ. SANTER\n\n(1) JO no C 16 de 23. 01. 1976, p. 4.(2) JO no C 125 de 8. 06. 1976, p. 43.(3) JO no C 204 de 30. 08. 1976, p. 10.(4) JO no L 24 de 30. 01. 1976, p. 21."
+  },
+  "060767b0fc2658b7": {
+   "fragment_id": "ANEXO I — CARACTERISTICAS E LIMITES DE UM ADUBO ELEMENTAR À BASE DE NITRATO DE AMONIO COM ELEVADO TEOR DE AZOTO",
+   "type": "divisao",
+   "heading": "ANEXO I — CARACTERISTICAS E LIMITES DE UM ADUBO ELEMENTAR À BASE DE NITRATO DE AMONIO COM ELEVADO TEOR DE AZOTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — CARACTERISTICAS E LIMITES DE UM ADUBO ELEMENTAR À BASE DE NITRATO DE AMONIO COM ELEVADO TEOR DE AZOTO\n\n1. Porosidade (retenção de óleo)\n\nA retenção de óleo pelo adubo, que deve ter sido previamente submetido a dois ciclos térmicos a temperaturas de 25 a 50 ° C, não deve ultrapassar 4 % em peso.\n\n2. Componentes combustíveis\n\nA percentagem em peso de matéria combustível, determinada sob a forma de carbono, não deve ultrapassar 0,2 % para os adubos com teor de azoto igual ou superior a 31,5 % em peso, e não deve ultrapassar 0,4 % para os adubos com teor igual ou superior a 28 % mas inferior a 31,5 % em peso.\n\n3. pH\n\nUma solução de 10 g de adubo em 100 ml de água deve apresentar um pH igual ou superior a 4,5.\n\n4. Análise granulométrica\n\nA fracção de adubo que atravessa um peneiro de malha de 1 mm não deve ultrapassar 5 % em peso, nem 3 % se a malha for de 0,5 mm.\n\n5. Cloro\n\nO teor máximo de cloro é fixado em 0,02 % em peso.\n\n6. Metais pesados\n\nNão deve verificar-se nenhuma adição deliberada de metais pesados e, para quaisquer vestígios destes metais que possam resultar do processo de fabrico, o limite fixado pelo Comité não deve ser ultrapassado."
+  },
+  "fd6aaddd45ba8705": {
+   "fragment_id": "ANEXO II — DESCRIÇÃO DO ENSAIO DE EXPLOSIVIDADE REFERIDO NO ARTIGO 7o",
+   "type": "divisao",
+   "heading": "ANEXO II — DESCRIÇÃO DO ENSAIO DE EXPLOSIVIDADE REFERIDO NO ARTIGO 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — DESCRIÇÃO DO ENSAIO DE EXPLOSIVIDADE REFERIDO NO ARTIGO 7o\n\nO ensaio é efectuado sobre uma amostra representativa do adubo. Antes da execução do ensaio de explosividade, a amostra será submetida na sua totalidade a um máximo de cinco ciclos térmicos.\n\nO adubo é submetido ao ensaio de explosividade num tubo de aço horizontal, nas condições seguintes:\n\nTubo de aço sem soldadura\n\nComprimento do tubo: 1 000 mm, pelo menos\n\nDiâmetro nominal exterior: 114 mm, pelo menos\n\nEspessura nominal da parede: 5 mm, pelo menos\n\nDetonador: a natureza da matéria explosiva e as dimensões da carga detonadora devem ser escolhidas por forma a obter, ao nível da amostra (de matéria) a ensaiar, a solicitação detonante mais forte do ponto de vista da propagação da detonação.\n\nTemperatura de ensaio: 15 - 25 ° C\n\nCilindros testemunha de chumbo 50 mm de diâmetro\n\npara a explosividade: 100 mm de altura\n\nColocados a intervalos de 150 mm e suportando o tubo horizontalmente. Far-se-ao dois ensaios. O ensaio é considerado concludente se o esmagamento de um ou mais cilindros de suporte de chumbo for inferior a 5 % em cada ensaio."
+  },
+  "e6f47da557977530": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1980L0876 — PT — 11.12.2003 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31980L0876) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31980L0876) [de 15 de Julho de 1980 relativa à aproximação das legislações dos Estados-membros respeitantes aos adubos elementares à base de nitrato de amónio com elevado teor de azoto](http://publications.europa.eu/resource/celex/31980L0876) [(80/876/CEE)](http://publications.europa.eu/resource/celex/31980L0876) (JO L 250, 23.9.1980, p.7)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 2003/2003 do Parlamento Europeu e do Conselho de 13 de Outubro de 2003](http://publications.europa.eu/resource/celex/32003R2003) — L 304 — 1 — 21.11.2003"
+  }
+ }
+}

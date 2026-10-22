@@ -35,6 +35,55 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-12-11'
+version_history:
+  file: diretiva-ue-2001-96.versoes.json
+  count: 2
+  source_lastmod: '2008-12-11'
+  versions:
+  - date: '2002-01-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-11'
+    amending: eu:celex:32002L0084:por
+    amending_title: DIRECTIVA 2002/84/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5 de Novembro
+      de 2002; REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Requisitos de aptidão dos terminais
+    - Altera Artigo 8.º — Procedimentos entre navios graneleiros e terminais
+    - Altera Artigo 15.º — Procedimento de alteração
+    - Altera Artigo 19.º — Destinatários
+    - Adita Artigo 14.º — Procedimento de comité
+    - Adita ANEXO I
+    - Adita REQUISITOS RELATIVOS À APTIDÃO OPERACIONAL DOS NAVIOS GRANELEIROS PARA CARREGAR E DESCARREGAR CARGAS SÓLIDAS A
+      GRANEL
+    - Adita (conforme previsto no artigo 4.º)
+    - Adita ANEXO II
+    - Adita REQUISITOS DE APTIDÃO DOS TERMINAIS PARA A CARGA E DESCARGA DE CARGAS SÓLIDAS A GRANEL
+    - Adita (conforme previsto no ponto 1 do artigo 5.º)
+    - Adita ANEXO III
+    - Adita INFORMAÇÕES A FORNECER PELO COMANDANTE AO TERMINAL
+    - Adita [conforme previsto no ponto 1, alínea b), do artigo 7.º]
+    - Adita ANEXO IV
+    - Adita OBRIGAÇÕES DO COMANDANTE ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA
+    - Adita [conforme previsto no ponto 1, alínea d), do artigo 7.º]
+    - Adita ANEXO V
+    - Adita INFORMAÇÕES A FORNECER PELO TERMINAL AO COMANDANTE
+    - Adita [conforme previsto no ponto 2, alínea a), do artigo 7.º]
+    - Adita ANEXO VI
+    - Adita OBRIGAÇÕES DO REPRESENTANTE DO TERMINAL ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA
+    - Adita [conforme previsto no ponto 2, alínea d), do artigo 7.º]
+    - Adita Notas
+    - Suprime Artigo 14.º — Comité de regulamentação
+    - Suprime ANEXO I — REQUISITOS RELATIVOS À APTIDÃO OPERACIONAL DOS NAVIOS GRANELEIROS PARA CARREGAR E DESCARREGAR CARGAS
+      SÓLIDAS A GRANEL
+    - Suprime ANEXO II — REQUISITOS DE APTIDÃO DOS TERMINAIS PARA A CARGA E DESCARGA DE CARGAS SÓLIDAS A GRANEL
+    - Suprime ANEXO III — INFORMAÇÕES A FORNECER PELO COMANDANTE AO TERMINAL
+    - Suprime ANEXO IV — OBRIGAÇÕES DO COMANDANTE ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA
+    - Suprime ANEXO V — INFORMAÇÕES A FORNECER PELO TERMINAL AO COMANDANTE
+    - Suprime ANEXO VI — OBRIGAÇÕES DO REPRESENTANTE DO TERMINAL ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA
 identifiers:
   celex: 32001L0096
   eli: http://data.europa.eu/eli/dir/2001/96/oj
@@ -49,7 +98,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/15205e94-1b8f-43a0-b8d6-e94b785c7334.0010
   content_url: http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0096-20081211
-  retrieved_at: '2026-10-22T02:51:19Z'
+  retrieved_at: '2026-10-22T14:50:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T05:05:50.124+01:00'
 integrity:
@@ -58,9 +107,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:19Z'
-  notes: Texto consolidado 02001L0096-20081211.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:21Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2001-96.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -136,30 +185,20 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/f9830283-df4c-4576-b043-875dce0385ce
 article_structure:
   article_count: 19
-  section_count: 18
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 19
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:19Z'
-  warnings: []
+  checked_at: '2026-10-22T14:50:21Z'
+  warnings:
+  - '02001L0096-20021129: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 2001/96/CE do Parlamento Europeu e do Conselho, de 4 de Dezembro de 2001
-
-> 2001L0096 — PT — 11.12.2008 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32002L0084) — [DIRECTIVA 2002/84/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5 de Novembro de 2002](http://publications.europa.eu/resource/celex/32002L0084) — L 324 — 53 — 29.11.2002
-- [►M2](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-
-## DIRECTIVA 2001/96/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 4 de Dezembro de 2001
 

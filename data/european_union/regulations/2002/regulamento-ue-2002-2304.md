@@ -34,6 +34,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-12-05'
+version_history:
+  file: regulamento-ue-2002-2304.versoes.json
+  count: 1
+  source_lastmod: '2007-12-05'
+  versions:
+  - date: '2007-12-05'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32002R2304
   eli: http://data.europa.eu/eli/reg/2002/2304/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e21c1e4a-3e88-4aeb-a5b4-86ea1b0b6293.0010
   content_url: http://publications.europa.eu/resource/cellar/2c1f1569-6d32-4da9-a67d-296ad9128fca.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R2304-20071205
-  retrieved_at: '2026-10-22T03:11:02Z'
+  retrieved_at: '2026-10-22T14:53:37Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T22:54:41.134+01:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:02Z'
-  notes: Texto consolidado 02002R2304-20071205.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:53:37Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2002-2304.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -106,33 +115,20 @@ relationships:
   date: '2003-01-17'
 article_structure:
   article_count: 31
-  section_count: 52
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 53
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:02Z'
-  warnings: []
+  checked_at: '2026-10-22T14:53:37Z'
+  warnings:
+  - '02002R2304-20021221: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 2304/2002 da Comissão, de 20 de Dezembro de 2002
-
-> 2002R2304 — PT — 05.12.2007 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007R1424) — [REGULAMENTO (CE) N.º 1424/2007 DA COMISSÃO de 4 de Dezembro de 2007](http://publications.europa.eu/resource/celex/32007R1424) — L 317 — 38 — 5.12.2007
-
-**Rectificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32002R2304R%2801%29) — [Rectificação, JO L 008, 14.1.2003, p. 46 (2304/02)](http://publications.europa.eu/resource/celex/32002R2304R%2801%29)
-
-## REGULAMENTO (CE) N.º 2304/2002 DA COMISSÃO
 
 de 20 de Dezembro de 2002
 

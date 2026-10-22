@@ -35,6 +35,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-10'
+version_history:
+  file: regulamento-ue-2006-1967.versoes.json
+  count: 2
+  source_lastmod: '2026-01-10'
+  versions:
+  - date: '2019-08-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-01-10'
+    amending: eu:celex:32023R2842:por
+    amending_title: REGULAMENTO (UE) 2023/2842 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023
+    changes:
+    - Altera Notas
+    - Adita Artigo 1.º — Âmbito de aplicação
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 4.º — Habitats protegidos
+    - Adita Artigo 5.º — Procedimento de informação para criação de zonas de pesca protegidas
+    - Adita Artigo 6.º — Zonas de pesca [►M2](http://publications.europa.eu/resource/celex/32015R0812) da União◄ protegidas
+    - Adita Artigo 7.º — Zonas de pesca nacionais protegidas
+    - Adita Artigo 13.º — Distâncias e profundidades mínimas para a utilização de artes de pesca
+    - Adita Artigo 17.º — Pesca de lazer
+    - Adita Artigo 18.º — Planos de gestão ao nível [►M2](http://publications.europa.eu/resource/celex/32015R0812) da União◄
+    - Adita Artigo 19.º — Planos de gestão para determinadas pescarias exercidas nas águas territoriais
+    - Adita Artigo 20.º — Captura de espécies-alvo
+    - Adita Artigo 22.º — Portos designados
+    - Adita Artigo 23.º — Controlo das capturas
+    - Adita Artigo 26.º — Zona de gestão de 25 milhas marítimas em torno de Malta
+    - Adita Artigo 27.º — Pesca de doirados
+    - Adita Artigo 28.º — Processo de tomada de decisão
+    - Adita Artigo 29.º — Regras de execução
+    - Adita Artigo 30.º — Alterações
+    - Adita Artigo 31.º — Revogação
+    - Adita Artigo 32.º — Entrada em vigor
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime Artigo 26.º
+    - Suprime Artigo 27.º
+    - Suprime Artigo 28.º
+    - Suprime Artigo 29.º
+    - Suprime Artigo 30.º
 identifiers:
   celex: 32006R1967
   eli: http://data.europa.eu/eli/reg/2006/1967/oj
@@ -49,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f7b0a754-4a19-4cf9-8040-aeae2faace38.0017
   content_url: http://publications.europa.eu/resource/cellar/29e99612-0c5a-11f1-8870-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1967-20260110
-  retrieved_at: '2026-10-22T02:58:24Z'
+  retrieved_at: '2026-10-22T15:06:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-11-18T18:17:17.817+01:00'
 integrity:
@@ -58,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:24Z'
-  notes: Texto consolidado 02006R1967-20260110.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:06:05Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2006-1967.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -189,38 +242,24 @@ relationships:
   date: '1994-07-06'
 article_structure:
   article_count: 23
-  section_count: 30
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 31
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:24Z'
-  warnings: []
+  checked_at: '2026-10-22T15:06:05Z'
+  warnings:
+  - '32006R1967: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02006R1967-20070129: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1967-20120119: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1967-20150601: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1967-20190715: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n.º 1967/2006 do Conselho, de 21 de Dezembro de 2006
-
-> 02006R1967 — PT — 10.01.2026 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011R1343) — [REGULAMENTO (UE) N.º 1343/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de Dezembro de 2011](http://publications.europa.eu/resource/celex/32011R1343) — L 347 — 44 — 30.12.2011
-- [►M2](http://publications.europa.eu/resource/celex/32015R0812) — [REGULAMENTO (UE) 2015/812 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2015](http://publications.europa.eu/resource/celex/32015R0812) — L 133 — 1 — 29.5.2015
-- [M3](http://publications.europa.eu/resource/celex/32019R1154) — [REGULAMENTO (UE) 2019/1154 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1154) — L 188 — 1 — 12.7.2019
-- [►M4](http://publications.europa.eu/resource/celex/32019R1241) — [REGULAMENTO (UE) 2019/1241 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1241) — L 198 — 105 — 25.7.2019
-- [►M5](http://publications.europa.eu/resource/celex/32023R2842) — [REGULAMENTO (UE) 2023/2842 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2842) — L 2842 — 1 — 20.12.2023
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32006R1967R%2801%29) — [Rectificação, JO L 036, 8.2.2007, p. 6 (1967/2006)](http://publications.europa.eu/resource/celex/32006R1967R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32006R1967R%2804%29) — [Rectificação, JO L 196, 28.7.2011, p. 42 (1967/2006)](http://publications.europa.eu/resource/celex/32006R1967R%2804%29)
-
-## REGULAMENTO (CE) N.º 1967/2006 DO CONSELHO
 
 de 21 de Dezembro de 2006
 

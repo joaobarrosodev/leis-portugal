@@ -35,6 +35,80 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: regulamento-ue-2008-683.versoes.json
+  count: 3
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2008-07-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-11-09'
+    amending: eu:celex:32010R0912:por
+    amending_title: REGULAMENTO (UE) N. o 912/2010 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Setembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 12.º — Quadro geral da governação dos programas
+    - Altera Artigo 13.º — Governação das questões de segurança
+    - Altera Artigo 14.º — Aplicação das regras de segurança
+    - Altera Artigo 19.º — Procedimento de comité
+    - Altera Artigo 21.º — Protecção dos interesses financeiros da Comunidade
+    - Altera Artigo 23.º — Revogação
+    - Altera Artigo 24.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 16.º — Papel da [►M1](http://publications.europa.eu/resource/celex/32010R0912) Agência do GNSS Europeu◄
+    - Adita ANEXO
+    - Adita OBJECTIVOS ESPECÍFICOS DOS PROGRAMAS EUROPEUS DE NAVEGAÇÃO POR SATÉLITE
+    - Adita DECLARAÇÃO COMUM
+    - Adita do Parlamento Europeu, do Conselho e da Comissão
+    - Adita sobre o
+    - Adita «PAINEL INTERINSTITUCIONAL GALILEO»
+    - Suprime Artigo 16.º — Papel da Autoridade Supervisora do GNSS Europeu
+  - date: '2014-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime OBJECTO E PRINCÍPIOS GERAIS
+    - Suprime Artigo 1.º — Sistemas e programas europeus de navegação por satélite
+    - Suprime Artigo 2.º — Objecto
+    - Suprime Artigo 3.º — Fases do programa Galileo
+    - Suprime Artigo 4.º — Financiamento do programa Galileo
+    - Suprime Artigo 5.º — Exploração do sistema EGNOS
+    - Suprime Artigo 6.º — Financiamento da exploração do sistema EGNOS
+    - Suprime Artigo 7.º — Compatibilidade e interoperabilidade dos sistemas
+    - Suprime Artigo 8.º — Propriedade
+    - Suprime CAPÍTULO II
+    - Suprime CONTRIBUIÇÃO E MECANISMOS ORÇAMENTAIS
+    - Suprime Artigo 9.º — Actividades em causa
+    - Suprime Artigo 10.º — Recursos orçamentais
+    - Suprime Artigo 11.º — Receitas de exploração
+    - Suprime CAPÍTULO III
+    - Suprime GOVERNAÇÃO PÚBLICA DOS PROGRAMAS
+    - Suprime Artigo 12.º — Quadro geral da governação dos programas
+    - Suprime Artigo 13.º — Governação das questões de segurança
+    - Suprime Artigo 14.º — Aplicação das regras de segurança
+    - Suprime Artigo 15.º — Programação
+    - Suprime Artigo 16.º — Papel da [►M1](http://publications.europa.eu/resource/celex/32010R0912) Agência do GNSS Europeu◄
+    - Suprime Artigo 17.º — Princípios relativos aos contratos aplicáveis à fase de implantação do programa Galileo
+    - Suprime Artigo 18.º — Papel da Agência Espacial Europeia
+    - Suprime Artigo 19.º — Procedimento de comité
+    - Suprime Artigo 20.º — Protecção dos dados pessoais e da vida privada
+    - Suprime CAPÍTULO IV
+    - Suprime DISPOSIÇÕES FINAIS
+    - Suprime Artigo 21.º — Protecção dos interesses financeiros da Comunidade
+    - Suprime Artigo 22.º — Informação do Parlamento Europeu e do Conselho
+    - Suprime Artigo 23.º — Revogação
+    - Suprime Artigo 24.º — Entrada em vigor
+    - Suprime ANEXO
+    - Suprime OBJECTIVOS ESPECÍFICOS DOS PROGRAMAS EUROPEUS DE NAVEGAÇÃO POR SATÉLITE
+    - Suprime DECLARAÇÃO COMUM
+    - Suprime do Parlamento Europeu, do Conselho e da Comissão
+    - Suprime sobre o
+    - Suprime «PAINEL INTERINSTITUCIONAL GALILEO»
+    - Suprime Notas
 identifiers:
   celex: 32008R0683
   eli: http://data.europa.eu/eli/reg/2008/683/oj
@@ -49,7 +123,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019
   content_url: http://publications.europa.eu/resource/cellar/b302d3bb-1301-41a6-94a0-377d4273baea.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0683-20140101
-  retrieved_at: '2026-10-22T02:59:00Z'
+  retrieved_at: '2026-10-22T15:16:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T13:28:29.215+01:00'
 integrity:
@@ -58,9 +132,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:00Z'
-  notes: Texto consolidado 02008R0683-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:16:26Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2008-683.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -150,16 +224,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:00Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:16:26Z'
+  warnings: []
   errors: []
 ---
 

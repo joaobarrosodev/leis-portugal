@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-03-02'
+version_history:
+  file: regulamento-ue-2002-1360.versoes.json
+  count: 1
+  source_lastmod: '2016-03-02'
+  versions:
+  - date: '2016-03-02'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32002R1360
   eli: http://data.europa.eu/eli/reg/2002/1360/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b13faac8-3b91-4341-b88d-92ddd1ce794c.0010
   content_url: http://publications.europa.eu/resource/cellar/4144bbcd-c4dc-48be-b57e-1eb536183f49.0006.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R1360-20160302
-  retrieved_at: '2026-10-22T03:10:59Z'
+  retrieved_at: '2026-10-22T14:53:01Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2018-10-13T04:59:12.156+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:10:59Z'
-  notes: Texto consolidado 02002R1360-20160302.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:53:01Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2002-1360.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -118,16 +127,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:10:59Z'
+  checked_at: '2026-10-22T14:53:01Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '32002R1360: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R1360-20020825: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

@@ -1,0 +1,361 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999L0004:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0004-20131118",
+ "dre_path": null,
+ "source_lastmod": "2013-11-18",
+ "versions": [
+  {
+   "date": "1999-03-13",
+   "future": false,
+   "celex": "31999L0004",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5b46fc4adf621bbc",
+    "90376b7c884e39c5",
+    "f116d7ecba6b3625",
+    "4409489dde8bf106",
+    "237574b43369d5c6",
+    "003da285311a27c7",
+    "43fd6176f0b4a0ba",
+    "b3f520a6afc9778e",
+    "cc5e9ef8bdd91fd1",
+    "48dc3c1f88771a48",
+    "984bcd4b4e2a0ac2"
+   ]
+  },
+  {
+   "date": "2008-12-11",
+   "future": false,
+   "celex": "01999L0004-20081211",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1882:por",
+     "title": "M1",
+     "published": null,
+     "celex": "32003R1882"
+    },
+    {
+     "id": "eu:celex:32008R1137:por",
+     "title": "REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE 22 de Outubro de 2008",
+     "published": null,
+     "celex": "32008R1137"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita ANEXO",
+    "Adita DENOMINAÇÕES, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS",
+    "Adita 1. «Extracto de café», «extracto de café solúvel», «café solúvel» ou «café instantâneo»",
+    "Adita 2. «Extracto de chicória», «chicória solúvel» ou «chicória instantânea»",
+    "Adita Notas",
+    "Suprime Artigo 1.°",
+    "Suprime Artigo 2.°",
+    "Suprime Artigo 3.°",
+    "Suprime Artigo 4.°",
+    "Suprime Artigo 5.°",
+    "Suprime Artigo 6.°",
+    "Suprime Artigo 7.°",
+    "Suprime Artigo 8.°",
+    "Suprime Artigo 9.°",
+    "Suprime ANEXO — DENOMINAÇÕES, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS"
+   ],
+   "fragments": [
+    "0170c1895ec30d75",
+    "99273695d584ab01",
+    "78d104e9eb690019",
+    "35e6821b35b41d8a",
+    "967ee613eb347a16",
+    "ac48b32709097779",
+    "bd7864cf4461c7d6",
+    "23bc13e45ca9de28",
+    "27387a8a07397e95",
+    "b01ab9fc5035bd76",
+    "10220b9774fa9034",
+    "35b7327a9048bdbe",
+    "e4c97da1b248e676",
+    "4608e82b78156521",
+    "68f54cf3fe2b339d"
+   ]
+  },
+  {
+   "date": "2013-11-18",
+   "future": false,
+   "celex": "01999L0004-20131118",
+   "acts": [
+    {
+     "id": "eu:celex:32013R1021:por",
+     "title": "REGULAMENTO (UE) N. o 1021/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2013",
+     "published": null,
+     "celex": "32013R1021"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera 1. «Extracto de café», «extracto de café solúvel», «café solúvel» ou «café instantâneo»",
+    "Altera Notas",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º"
+   ],
+   "fragments": [
+    "5154ce78d779da3c",
+    "99273695d584ab01",
+    "78d104e9eb690019",
+    "35e6821b35b41d8a",
+    "bd7864cf4461c7d6",
+    "23bc13e45ca9de28",
+    "27387a8a07397e95",
+    "b01ab9fc5035bd76",
+    "10220b9774fa9034",
+    "35b7327a9048bdbe",
+    "3f0a1010245c751c",
+    "4608e82b78156521",
+    "8fb28e2e7ba259d4"
+   ]
+  }
+ ],
+ "fragments": {
+  "5b46fc4adf621bbc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 1999/4/CE do Parlamento Europeu e do Conselho de 22 de Fevereiro de 1999 relativa aos extractos de café e aos extractos de chicória** *Jornal Oficial nº L 066 de 13/03/1999 p. 0026 - 0029*\n\nDIRECTIVA 1999/4/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Fevereiro de 1999 relativa aos extractos de café e aos extractos de chicória\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 100.°A,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do artigo 189.°B do Tratado (3), segundo o projecto comum aprovado pelo Comité de Conciliação em 8 de Dezembro de 1998,\n\nConsiderando que, segundo as conclusões do Conselho Europeu de Edimburgo, de 11 e 12 de Dezembro de 1992, confirmadas pelas do Conselho Europeu de Bruxelas, de 10 e 11 de Dezembro de 1993, é necessário proceder à simplificação de determinadas directivas verticais no domínio dos géneros alimentícios, a fim de tomar exclusivamente em conta os requisitos essenciais que os produtos por elas abrangidos devem preencher para poderem circular livremente no mercado interno;\n\nConsiderando que a adopção da Directiva 77/436/CEE do Conselho, de 27 de Junho de 1977, relativa à aproximação das legislações dos Estados-membros respeitantes aos extractos de café e aos extractos de chicória (4), foi justificada pelo facto de as diferenças existentes entre as legislações nacionais sobre extractos de café e extractos de chicória poderem criar condições de concorrência desleal e induzir os consumidores em erro, influenciando deste modo directamente a realização e o funcionamento do mercado comum;\n\nConsiderando que, neste contexto, a referida directiva teve por objectivo definir «extractos de café» e «extractos de chicória», especificar as substâncias que podem ser adicionadas durante o seu fabrico, fixar regras comuns no que respeita ao seu acondicionamento e rotulagem e precisar as condições em que podem ser utilizadas denominações específicas para alguns destes produtos, por forma a garantir a sua livre circulação na Comunidade;\n\nConsiderando que a Directiva 77/436/CEE deve ser adaptada à legislação comunitária geral aplicável aos géneros alimentícios, nomeadamente à legislação relativa à rotulagem e aos métodos de análise;\n\nConsiderando que a Comissão prevê propor, tão rapidamente quanto possível, nunca antes de 1 de Julho de 2000, a inclusão na Directiva 80/232/CEE (5) de uma gama dos pesos nominais dos produtos definidos na presente directiva;\n\nConsiderando que as regras gerais de rotulagem dos géneros alimentícios previstas na Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios destinados ao consumidor final (6), são aplicáveis sob reserva de certas condições;\n\nConsiderando que, em aplicação do princípio da proporcionalidade, a presente directiva se limita ao necessário para alcançar os objectivos prosseguidos, nos termos do terceiro parágrafo do artigo 3.°B do Tratado;\n\nConsiderando que, nas futuras adaptações da presente directiva à legislação comunitária geral aplicável aos géneros alimentícios, a Comissão será assistida pelo Comité Permanente dos Géneros Alimentícios, criado pela Decisão 69/414/CEE (7);\n\nConsiderando que, para evitar que sejam criados novos entraves à livre circulação, os Estados-membros não adoptarão, para os produtos em causa, disposições nacionais que não estejam previstas na presente directiva,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "90376b7c884e39c5": {
+   "fragment_id": "Artigo 1.°",
+   "type": "artigo",
+   "heading": "Artigo 1.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.°\n\nA presente directiva é aplicável aos extractos de café e aos extractos de chicória tal como definidos no anexo.\n\nA presente directiva não é aplicável ao «café torrefacto soluble»."
+  },
+  "f116d7ecba6b3625": {
+   "fragment_id": "Artigo 2.°",
+   "type": "artigo",
+   "heading": "Artigo 2.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.°\n\nA Directiva 79/112/CEE é aplicável aos produtos definidos no anexo, sob as seguintes condições:\n\na) As denominações previstas no anexo são reservadas aos produtos nele referidos e devem ser utilizadas no comércio para designar esses produtos. Essas denominações serão completadas pelos termos:\n\n- «em pasta» ou «sob forma de pasta» ou\n\n- «líquido» ou «sob forma líquida»\n\nconsoante o caso.\n\nContudo, as denominações poderão ser completadas pelo qualificativo «concentrado»:\n\n- no caso do produto definido no ponto 1, alínea c), do anexo, se o teor de matéria seca proveniente do café exceder 25 %, em massa,\n\n- no caso do produto definido no ponto 2, alínea c), do anexo, se o teor de matéria seca proveniente da chicória exceder 45 %, em massa;\n\nb) No caso dos produtos definidos no ponto 1 do anexo cujo teor de cafeína anidra não exceda 0,3 %, em massa, da matéria seca proveniente do café, a indicação «descafeinado» deve figurar na rotulagem e fazer parte do mesmo campo visual que a denominação de venda;\n\nc) No caso dos produtos definidos no ponto 1, alínea c), e no ponto 2, alínea c), do anexo, devem figurar na rotulagem os termos «com...» ou «conservado com...» ou «com adição de...» ou «torrado com...», acompanhados da denominação do tipo de açúcar ou açúcares utilizados.\n\nEstas indicações devem figurar no mesmo campo visual que a denominação de venda;\n\nd) No caso dos produtos definidos no ponto 1, alíneas b) e c), e no ponto 2, alíneas b) e c), do anexo, devem figurar na rotulagem, respectivamente, o teor mínimo de matéria seca proveniente do café e o teor mínimo de matéria seca proveniente da chicória, ambos expressos em percentagem mássica do produto acabado."
+  },
+  "4409489dde8bf106": {
+   "fragment_id": "Artigo 3.°",
+   "type": "artigo",
+   "heading": "Artigo 3.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.°\n\nOs Estados-membros não adoptarão, para os produtos definidos no anexo, disposições nacionais que não estejam previstas na presente directiva."
+  },
+  "237574b43369d5c6": {
+   "fragment_id": "Artigo 4.°",
+   "type": "artigo",
+   "heading": "Artigo 4.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.°\n\nA conformidade da presente directiva com as disposições comunitárias gerais aplicáveis aos géneros alimentícios será decidida nos termos do artigo 5.°"
+  },
+  "003da285311a27c7": {
+   "fragment_id": "Artigo 5.°",
+   "type": "artigo",
+   "heading": "Artigo 5.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.°\n\n1. A Comissão será assistida pelo Comité Permanente dos Géneros Alimentícios, a seguir designado «Comité», composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão. O parecer será emitido por maioria, nos termos previstos no n.° 2 do artigo 148.° do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\nA Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do Comité.\n\nSe as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este último ainda não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "43fd6176f0b4a0ba": {
+   "fragment_id": "Artigo 6.°",
+   "type": "artigo",
+   "heading": "Artigo 6.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.°\n\nA Directiva 77/436/CEE é revogada, com efeitos a partir de 13 de Setembro de 2000.\n\nAs referências à directiva revogada devem entender-se como sendo feitas à presente directiva."
+  },
+  "b3f520a6afc9778e": {
+   "fragment_id": "Artigo 7.°",
+   "type": "artigo",
+   "heading": "Artigo 7.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.°\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 13 de Setembro de 2000. Do facto informarão imediatamente a Comissão.\n\nEstas disposições serão aplicadas de modo a:\n\n- autorizar, com efeitos a partir de 13 de Setembro de 2000, a comercialização dos produtos definidos no anexo que obedeçam às definições e regras previstas na presente directiva,\n\n- proibir, com efeitos a partir de 13 de Setembro de 2001, a comercialização dos produtos não conformes com a presente directiva. Contudo, até ao esgotamento das existências, é autorizada a comercialização dos produtos não conformes com a presente directiva que tiverem sido rotulados nos termos da Directiva 77/436/CEE antes de 13 de Setembro de 2001.\n\nQuando os Estados-membros adoptarem essas disposições, estas incluirão uma referência à presente directiva ou serão acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão as principais disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "cc5e9ef8bdd91fd1": {
+   "fragment_id": "Artigo 8.°",
+   "type": "artigo",
+   "heading": "Artigo 8.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.°\n\nA presente directiva entra em vigor no dia da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "48dc3c1f88771a48": {
+   "fragment_id": "Artigo 9.°",
+   "type": "artigo",
+   "heading": "Artigo 9.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.°\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 22 de Fevereiro de 1999.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nJ. M. GIL-ROBLES\n\nPelo Conselho\n\nO Presidente\n\nK.-H. FUNKE\n\n(1) JO C 231 de 9. 8. 1996, p. 24.\n\n(2) JO C 56 de 24. 2. 1997, p. 20.\n\n(3) Parecer do Parlamento Europeu de 23 de Outubro de 1997 (JO C 339 de 10. 11. 1997, p. 129), posição comum do Conselho de 30 de Abril de 1998 (JO C 204 de 30. 6. 1998, p. 25), e decisão do Parlamento Europeu de 16 de Setembro de 1998 (JO C 313 de 12. 10. 1998, p. 90). Decisão do Conselho de 25 de Janeiro de 1999. Decisão do Parlamento Europeu de 11 de Fevereiro de 1999.\n\n(4) JO L 172 de 12. 7. 1977, p. 20. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1985.\n\n(5) JO L 51 de 25. 2. 1980. Directiva com a última redacção que lhe foi dada pela Directiva 87/356/CEE (JO L 192 de 11. 7. 1987, p. 48).\n\n(6) JO L 33 de 8. 2. 1979, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 97/4/CE do Parlamento Europeu e do Conselho (JO L 43 de 14. 2. 1997, p. 21).\n\n(7) JO L 291 de 19. 11. 1969, p. 9."
+  },
+  "984bcd4b4e2a0ac2": {
+   "fragment_id": "ANEXO — DENOMINAÇÕES, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS",
+   "type": "divisao",
+   "heading": "ANEXO — DENOMINAÇÕES, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — DENOMINAÇÕES, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS\n\n1. «Extracto de café», «extracto de café solúvel», «café solúvel» ou «café instantâneo»\n\nProduto concentrado obtido por extracção a partir de grãos de café torrados, utilizando unicamente água como agente de extracção e excluindo todos os processos de hidrólise por adição de ácidos ou de bases. Para além das substâncias insolúveis tecnologicamente inevitáveis e dos óleos insolúveis provenientes do café, o extracto de café só deve conter os componentes solúveis e aromáticos do café. Os Estados-membros garantirão que os métodos utilizados na determinação dos teores em hidratos de carbono livres e totais dos cafés solúveis cumpram o disposto nos n.os 1 e 2 do anexo da Directiva 85/591/CEE do Conselho, de 20 de Dezembro de 1985, relativa à introdução de modos de colheita de amostras e de métodos de análise comunitários para o controlo dos géneros destinados à alimentação humana e sejam validados ou normalizados logo que possível (1).\n\nO teor de matéria seca proveniente do café deve ser:\n\na) No caso do extracto de café: de, pelo menos, 95 %, em massa;\n\nb) No caso do extracto de café em pasta: de 70 % a 85 %, em massa;\n\nc) No caso do extracto de café líquido: de 15 % a 55 %, em massa.\n\nOs extractos de café no estado sólido ou em pasta não poderão conter substâncias que não tenham sido extraídas do café. Os extractos de café líquidos poderão conter açúcares alimentares, torrados ou não, desde que estes não representem mais de 12 %, em massa.\n\n2. «Extracto de chicória», «chicória solúvel» ou «chicória instantânea»\n\nProduto concentrado obtido por extracção a partir de chicória torrada, utilizando unicamente água como agente de extracção e excluindo todos os processos de hidrólise por adição de ácidos ou de bases.\n\nPor «chicória» entende-se as raízes de Chichorium intybus L., não utilizadas na produção de endívias (chicória witloof), habitualmente destinadas à preparação de bebidas, convenientemente limpas para posterior secagem e torrefacção.\n\nO teor de matéria seca proveniente da chicória deve ser:\n\na) No caso do extracto de chicória: de, pelo menos, 95 %, em massa;\n\nb) No caso do extracto de chicória em pasta: de 70 % a 85 %, em massa;\n\nc) No caso do extracto de chicória líquido: de 25 % a 55 %, em massa.\n\nNos extractos de chicória no estado sólido ou em pasta, as substâncias não extraídas da chicória não poderão representar mais de 1 %, em massa.\n\nOs extractos de chicória líquidos poderão conter açúcares alimentares, torrados ou não, desde que estes não representem mais de 35 %, em massa.\n\n(1) JO L 372 de 31. 12. 1985, p. 50."
+  },
+  "0170c1895ec30d75": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Fevereiro de 1999\n\nrelativa aos extractos de café e aos extractos de chicória\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 100.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/f2ccf00f-55a6-4d98-b898-fe52c14f6ca2.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/f2ccf00f-55a6-4d98-b898-fe52c14f6ca2.0018.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 189.ºB do Tratado ([^3^](http://publications.europa.eu/resource/cellar/f2ccf00f-55a6-4d98-b898-fe52c14f6ca2.0018.03/DOC_1#E0003)), segundo o projecto comum aprovado pelo Comité de Conciliação em 8 de Dezembro de 1998,\n\nConsiderando que, segundo as conclusões do Conselho Europeu de Edimburgo, de 11 e 12 de Dezembro de 1992, confirmadas pelas do Conselho Europeu de Bruxelas, de 10 e 11 de Dezembro de 1993, é necessário proceder à simplificação de determinadas directivas verticais no domínio dos géneros alimentícios, a fim de tomar exclusivamente em conta os requisitos essenciais que os produtos por elas abrangidos devem preencher para poderem circular livremente no mercado interno;\n\nConsiderando que a adopção da Directiva 77/436/CEE do Conselho, de 27 de Junho de 1977, relativa à aproximação das legislações dos Estados-membros respeitantes aos extractos de café e aos extractos de chicória ([^4^](http://publications.europa.eu/resource/cellar/f2ccf00f-55a6-4d98-b898-fe52c14f6ca2.0018.03/DOC_1#E0004)), foi justificada pelo facto de as diferenças existentes entre as legislações nacionais sobre extractos de café e extractos de chicória poderem criar condições de concorrência desleal e induzir os consumidores em erro, influenciando deste modo directamente a realização e o funcionamento do mercado comum;\n\nConsiderando que, neste contexto, a referida directiva teve por objectivo definir «extractos de café» e «extractos de chicória», especificar as substâncias que podem ser adicionadas durante o seu fabrico, fixar regras comuns no que respeita ao seu acondicionamento e rotulagem e precisar as condições em que podem ser utilizadas denominações específicas para alguns destes produtos, por forma a garantir a sua livre circulação na Comunidade;\n\nConsiderando que a Directiva 77/436/CEE deve ser adaptada à legislação comunitária geral aplicável aos géneros alimentícios, nomeadamente à legislação relativa à rotulagem e aos métodos de análise;\n\nConsiderando que a Comissão prevê propor, tão rapidamente quanto possível, nunca antes de 1 de Julho de 2000, a inclusão na Directiva 80/232/CEE ([^5^](http://publications.europa.eu/resource/cellar/f2ccf00f-55a6-4d98-b898-fe52c14f6ca2.0018.03/DOC_1#E0005)) de uma gama dos pesos nominais dos produtos definidos na presente directiva;\n\nConsiderando que as regras gerais de rotulagem dos géneros alimentícios previstas na Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios destinados ao consumidor final ([^6^](http://publications.europa.eu/resource/cellar/f2ccf00f-55a6-4d98-b898-fe52c14f6ca2.0018.03/DOC_1#E0006)), são aplicáveis sob reserva de certas condições;\n\nConsiderando que, em aplicação do princípio da proporcionalidade, a presente directiva se limita ao necessário para alcançar os objectivos prosseguidos, nos termos do terceiro parágrafo do artigo 3.ºB do Tratado;\n\nConsiderando que, nas futuras adaptações da presente directiva à legislação comunitária geral aplicável aos géneros alimentícios, a Comissão será assistida pelo Comité Permanente dos Géneros Alimentícios, criado pela Decisão 69/414/CEE ([^7^](http://publications.europa.eu/resource/cellar/f2ccf00f-55a6-4d98-b898-fe52c14f6ca2.0018.03/DOC_1#E0007));\n\nConsiderando que, para evitar que sejam criados novos entraves à livre circulação, os Estados-membros não adoptarão, para os produtos em causa, disposições nacionais que não estejam previstas na presente directiva,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "99273695d584ab01": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva é aplicável aos extractos de café e aos extractos de chicória tal como definidos no anexo.\n\nA presente directiva não é aplicável ao «café torrefacto soluble»."
+  },
+  "78d104e9eb690019": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Directiva 79/112/CEE é aplicável aos produtos definidos no anexo, sob as seguintes condições:\n\na) As denominações previstas no anexo são reservadas aos produtos nele referidos e devem ser utilizadas no comércio para designar esses produtos. Essas denominações serão completadas pelos termos:\n\n— «em pasta» ou «sob forma de pasta» ou\n\n— «líquido» ou «sob forma líquida»\n\n— no caso do produto definido no ponto 1, alínea c), do anexo, se o teor de matéria seca proveniente do café exceder 25 %, em massa,\n\n— no caso do produto definido no ponto 2, alínea c), do anexo, se o teor de matéria seca proveniente da chicória exceder 45 %, em massa;\n\nb) No caso dos produtos definidos no ponto 1 do anexo cujo teor de cafeína anidra não exceda 0,3 %, em massa, da matéria seca proveniente do café, a indicação «descafeinado» deve figurar na rotulagem e fazer parte do mesmo campo visual que a denominação de venda;\n\nc) No caso dos produtos definidos no ponto 1, alínea c), e no ponto 2, alínea c), do anexo, devem figurar na rotulagem os termos «com…» ou «conservado com…» ou «com adição de…» ou «torrado com…», acompanhados da denominação do tipo de açúcar ou açúcares utilizados.\n\nd) No caso dos produtos definidos no ponto 1, alíneas b) e c), e no ponto 2, alíneas b) e c), do anexo, devem figurar na rotulagem, respectivamente, o teor mínimo de matéria seca proveniente do café e o teor mínimo de matéria seca proveniente da chicória, ambos expressos em percentagem mássica do produto acabado."
+  },
+  "35e6821b35b41d8a": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-membros não adoptarão, para os produtos definidos no anexo, disposições nacionais que não estejam previstas na presente directiva."
+  },
+  "967ee613eb347a16": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA harmonização do conteúdo da presente directiva com as disposições comunitárias gerais aplicáveis aos géneros alimentícios é decidida pela Comissão. Essa medida, que tem por objecto alterar elementos não essenciais da presente directiva, é aprovada pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 5.º."
+  },
+  "ac48b32709097779": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/f2ccf00f-55a6-4d98-b898-fe52c14f6ca2.0018.03/DOC_1#E0008)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "bd7864cf4461c7d6": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA Directiva 77/436/CEE é revogada, com efeitos a partir de 13 de Setembro de 2000.\n\nAs referências à directiva revogada devem entender-se como sendo feitas à presente directiva."
+  },
+  "23bc13e45ca9de28": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 13 de Setembro de 2000. Do facto informarão imediatamente a Comissão.\n\nEstas disposições serão aplicadas de modo a:\n\n— autorizar, com efeitos a partir de 13 de Setembro de 2000, a comercialização dos produtos definidos no anexo que obedeçam às definições e regras previstas na presente directiva,\n\n— proibir, com efeitos a partir de 13 de Setembro de 2001, a comercialização dos produtos não conformes com a presente directiva. Contudo, até ao esgotamento das existências, é autorizada a comercialização dos produtos não conformes com a presente directiva que tiverem sido rotulados nos termos da Directiva 77/436/CEE antes de 13 de Setembro de 2001.\n\nQuando os Estados-membros adoptarem essas disposições, estas incluirão uma referência à presente directiva ou serão acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão as principais disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "27387a8a07397e95": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA presente directiva entra em vigor no dia da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "b01ab9fc5035bd76": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "35b7327a9048bdbe": {
+   "fragment_id": "DENOMINAÇÕES, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS",
+   "type": "divisao",
+   "heading": "DENOMINAÇÕES, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DENOMINAÇÕES, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS"
+  },
+  "e4c97da1b248e676": {
+   "fragment_id": "1. «Extracto de café», «extracto de café solúvel», «café solúvel» ou «café instantâneo»",
+   "type": "divisao",
+   "heading": "1. «Extracto de café», «extracto de café solúvel», «café solúvel» ou «café instantâneo»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. «Extracto de café», «extracto de café solúvel», «café solúvel» ou «café instantâneo»\n\nProduto concentrado obtido por extracção a partir de grãos de café torrados, utilizando unicamente água como agente de extracção e excluindo todos os processos de hidrólise por adição de ácidos ou de bases. Para além das substâncias insolúveis tecnologicamente inevitáveis e dos óleos insolúveis provenientes do café, o extracto de café só deve conter os componentes solúveis e aromáticos do café. Os Estados-membros garantirão que os métodos utilizados na determinação dos teores em hidratos de carbono livres e totais dos cafés solúveis cumpram o disposto nos n.^os^ 1 e 2 do anexo da Directiva 85/591/CEE do Conselho, de 20 de Dezembro de 1985, relativa à introdução de modos de colheita de amostras e de métodos de análise comunitários para o controlo dos géneros destinados à alimentação humana e sejam validados ou normalizados logo que possível ([^9^](http://publications.europa.eu/resource/cellar/f2ccf00f-55a6-4d98-b898-fe52c14f6ca2.0018.03/DOC_1#E0009)).\n\nO teor de matéria seca proveniente do café deve ser:\n\na) No caso do extracto de café: de, pelo menos, 95 %, em massa;\n\nb) No caso do extracto de café em pasta: de 70 % a 85 %, em massa;\n\nc) No caso do extracto de café líquido: de 15 % a 55 %, em massa.\n\nOs extractos de café no estado sólido ou em pasta não poderão conter substâncias que não tenham sido extraídas do café. Os extractos de café líquidos poderão conter açúcares alimentares, torrados ou não, desde que estes não representem mais de 12 %, em massa."
+  },
+  "4608e82b78156521": {
+   "fragment_id": "2. «Extracto de chicória», «chicória solúvel» ou «chicória instantânea»",
+   "type": "divisao",
+   "heading": "2. «Extracto de chicória», «chicória solúvel» ou «chicória instantânea»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. «Extracto de chicória», «chicória solúvel» ou «chicória instantânea»\n\nProduto concentrado obtido por extracção a partir de chicória torrada, utilizando unicamente água como agente de extracção e excluindo todos os processos de hidrólise por adição de ácidos ou de bases.\n\nPor «chicória» entende-se as raízes de *Chichorium intybus* L., não utilizadas na produção de endívias (chicória *witloof*), habitualmente destinadas à preparação de bebidas, convenientemente limpas para posterior secagem e torrefacção.\n\nO teor de matéria seca proveniente da chicória deve ser:\n\na) No caso do extracto de chicória: de, pelo menos, 95 %, em massa;\n\nb) No caso do extracto de chicória em pasta: de 70 % a 85 %, em massa;\n\nc) No caso do extracto de chicória líquido: de 25 % a 55 %, em massa.\n\nNos extractos de chicória no estado sólido ou em pasta, as substâncias não extraídas da chicória não poderão representar mais de 1 %, em massa.\n\nOs extractos de chicória líquidos poderão conter açúcares alimentares, torrados ou não, desde que estes não representem mais de 35 %, em massa.\n\n---"
+  },
+  "68f54cf3fe2b339d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f2ccf00f-55a6-4d98-b898-fe52c14f6ca2.0018.03/DOC_1#src.E0001)) JO C 231 de 9.8.1996, p. 24.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f2ccf00f-55a6-4d98-b898-fe52c14f6ca2.0018.03/DOC_1#src.E0002)) JO C 56 de 24.2.1997, p. 20.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f2ccf00f-55a6-4d98-b898-fe52c14f6ca2.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 23 de Outubro de 1997 (JO C 339 de 10.11.1997, p. 129), posição comum do Conselho de 30 de Abril de 1998 (JO C 204 de 30.6.1998, p. 25), e decisão do Parlamento Europeu de 16 de Setembro de 1998 (JO C 313 de 12.10.1998, p. 90). Decisão do Conselho de 25 de Janeiro de 1999. Decisão do Parlamento Europeu de 11 de Fevereiro de 1999.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f2ccf00f-55a6-4d98-b898-fe52c14f6ca2.0018.03/DOC_1#src.E0004)) JO L 172 de 12.7.1977, p. 20. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1985.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/f2ccf00f-55a6-4d98-b898-fe52c14f6ca2.0018.03/DOC_1#src.E0005)) JO L 51 de 25.2.1980. Directiva com a última redacção que lhe foi dada pela Directiva 87/356/CEE (JO L 192 de 11.7.1987, p. 48).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/f2ccf00f-55a6-4d98-b898-fe52c14f6ca2.0018.03/DOC_1#src.E0006)) JO L 33 de 8.2.1979, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 97/4/CE do Parlamento Europeu e do Conselho (JO L 43 de 14.2.1997, p. 21).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/f2ccf00f-55a6-4d98-b898-fe52c14f6ca2.0018.03/DOC_1#src.E0007)) JO L 291 de 19.11.1969, p. 9.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/f2ccf00f-55a6-4d98-b898-fe52c14f6ca2.0018.03/DOC_1#src.E0008)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/f2ccf00f-55a6-4d98-b898-fe52c14f6ca2.0018.03/DOC_1#src.E0009)) JO L 372 de 31.12.1985, p. 50."
+  },
+  "5154ce78d779da3c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Fevereiro de 1999\n\nrelativa aos extractos de café e aos extractos de chicória\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 100.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/b1438d4c-b9f0-4cd0-9158-7529848c76ea.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/b1438d4c-b9f0-4cd0-9158-7529848c76ea.0018.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 189.ºB do Tratado ([^3^](http://publications.europa.eu/resource/cellar/b1438d4c-b9f0-4cd0-9158-7529848c76ea.0018.03/DOC_1#E0003)), segundo o projecto comum aprovado pelo Comité de Conciliação em 8 de Dezembro de 1998,\n\nConsiderando que, segundo as conclusões do Conselho Europeu de Edimburgo, de 11 e 12 de Dezembro de 1992, confirmadas pelas do Conselho Europeu de Bruxelas, de 10 e 11 de Dezembro de 1993, é necessário proceder à simplificação de determinadas directivas verticais no domínio dos géneros alimentícios, a fim de tomar exclusivamente em conta os requisitos essenciais que os produtos por elas abrangidos devem preencher para poderem circular livremente no mercado interno;\n\nConsiderando que a adopção da Directiva 77/436/CEE do Conselho, de 27 de Junho de 1977, relativa à aproximação das legislações dos Estados-membros respeitantes aos extractos de café e aos extractos de chicória ([^4^](http://publications.europa.eu/resource/cellar/b1438d4c-b9f0-4cd0-9158-7529848c76ea.0018.03/DOC_1#E0004)), foi justificada pelo facto de as diferenças existentes entre as legislações nacionais sobre extractos de café e extractos de chicória poderem criar condições de concorrência desleal e induzir os consumidores em erro, influenciando deste modo directamente a realização e o funcionamento do mercado comum;\n\nConsiderando que, neste contexto, a referida directiva teve por objectivo definir «extractos de café» e «extractos de chicória», especificar as substâncias que podem ser adicionadas durante o seu fabrico, fixar regras comuns no que respeita ao seu acondicionamento e rotulagem e precisar as condições em que podem ser utilizadas denominações específicas para alguns destes produtos, por forma a garantir a sua livre circulação na Comunidade;\n\nConsiderando que a Directiva 77/436/CEE deve ser adaptada à legislação comunitária geral aplicável aos géneros alimentícios, nomeadamente à legislação relativa à rotulagem e aos métodos de análise;\n\nConsiderando que a Comissão prevê propor, tão rapidamente quanto possível, nunca antes de 1 de Julho de 2000, a inclusão na Directiva 80/232/CEE ([^5^](http://publications.europa.eu/resource/cellar/b1438d4c-b9f0-4cd0-9158-7529848c76ea.0018.03/DOC_1#E0005)) de uma gama dos pesos nominais dos produtos definidos na presente directiva;\n\nConsiderando que as regras gerais de rotulagem dos géneros alimentícios previstas na Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios destinados ao consumidor final ([^6^](http://publications.europa.eu/resource/cellar/b1438d4c-b9f0-4cd0-9158-7529848c76ea.0018.03/DOC_1#E0006)), são aplicáveis sob reserva de certas condições;\n\nConsiderando que, em aplicação do princípio da proporcionalidade, a presente directiva se limita ao necessário para alcançar os objectivos prosseguidos, nos termos do terceiro parágrafo do artigo 3.ºB do Tratado;\n\nConsiderando que, nas futuras adaptações da presente directiva à legislação comunitária geral aplicável aos géneros alimentícios, a Comissão será assistida pelo Comité Permanente dos Géneros Alimentícios, criado pela Decisão 69/414/CEE ([^7^](http://publications.europa.eu/resource/cellar/b1438d4c-b9f0-4cd0-9158-7529848c76ea.0018.03/DOC_1#E0007));\n\nConsiderando que, para evitar que sejam criados novos entraves à livre circulação, os Estados-membros não adoptarão, para os produtos em causa, disposições nacionais que não estejam previstas na presente directiva,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "3f0a1010245c751c": {
+   "fragment_id": "1. «Extracto de café», «extracto de café solúvel», «café solúvel» ou «café instantâneo»",
+   "type": "divisao",
+   "heading": "1. «Extracto de café», «extracto de café solúvel», «café solúvel» ou «café instantâneo»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. «Extracto de café», «extracto de café solúvel», «café solúvel» ou «café instantâneo»\n\nProduto concentrado obtido por extracção a partir de grãos de café torrados, utilizando unicamente água como agente de extracção e excluindo todos os processos de hidrólise por adição de ácidos ou de bases. Para além das substâncias insolúveis tecnologicamente inevitáveis e dos óleos insolúveis provenientes do café, o extracto de café só deve conter os componentes solúveis e aromáticos do café. Os Estados-membros garantirão que os métodos utilizados na determinação dos teores em hidratos de carbono livres e totais dos cafés solúveis cumpram o disposto nos n.^os^ 1 e 2 do anexo da Directiva 85/591/CEE do Conselho, de 20 de Dezembro de 1985, relativa à introdução de modos de colheita de amostras e de métodos de análise comunitários para o controlo dos géneros destinados à alimentação humana e sejam validados ou normalizados logo que possível ([^8^](http://publications.europa.eu/resource/cellar/b1438d4c-b9f0-4cd0-9158-7529848c76ea.0018.03/DOC_1#E0009)).\n\nO teor de matéria seca proveniente do café deve ser:\n\na) No caso do extracto de café: de, pelo menos, 95 %, em massa;\n\nb) No caso do extracto de café em pasta: de 70 % a 85 %, em massa;\n\nc) No caso do extracto de café líquido: de 15 % a 55 %, em massa.\n\nOs extractos de café no estado sólido ou em pasta não poderão conter substâncias que não tenham sido extraídas do café. Os extractos de café líquidos poderão conter açúcares alimentares, torrados ou não, desde que estes não representem mais de 12 %, em massa."
+  },
+  "8fb28e2e7ba259d4": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b1438d4c-b9f0-4cd0-9158-7529848c76ea.0018.03/DOC_1#src.E0001)) JO C 231 de 9.8.1996, p. 24.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b1438d4c-b9f0-4cd0-9158-7529848c76ea.0018.03/DOC_1#src.E0002)) JO C 56 de 24.2.1997, p. 20.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b1438d4c-b9f0-4cd0-9158-7529848c76ea.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 23 de Outubro de 1997 (JO C 339 de 10.11.1997, p. 129), posição comum do Conselho de 30 de Abril de 1998 (JO C 204 de 30.6.1998, p. 25), e decisão do Parlamento Europeu de 16 de Setembro de 1998 (JO C 313 de 12.10.1998, p. 90). Decisão do Conselho de 25 de Janeiro de 1999. Decisão do Parlamento Europeu de 11 de Fevereiro de 1999.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b1438d4c-b9f0-4cd0-9158-7529848c76ea.0018.03/DOC_1#src.E0004)) JO L 172 de 12.7.1977, p. 20. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1985.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b1438d4c-b9f0-4cd0-9158-7529848c76ea.0018.03/DOC_1#src.E0005)) JO L 51 de 25.2.1980. Directiva com a última redacção que lhe foi dada pela Directiva 87/356/CEE (JO L 192 de 11.7.1987, p. 48).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b1438d4c-b9f0-4cd0-9158-7529848c76ea.0018.03/DOC_1#src.E0006)) JO L 33 de 8.2.1979, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 97/4/CE do Parlamento Europeu e do Conselho (JO L 43 de 14.2.1997, p. 21).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b1438d4c-b9f0-4cd0-9158-7529848c76ea.0018.03/DOC_1#src.E0007)) JO L 291 de 19.11.1969, p. 9.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/b1438d4c-b9f0-4cd0-9158-7529848c76ea.0018.03/DOC_1#src.E0009)) JO L 372 de 31.12.1985, p. 50."
+  }
+ }
+}

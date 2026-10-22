@@ -34,6 +34,44 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-04-20'
+version_history:
+  file: regulamento-ue-1992-2082.versoes.json
+  count: 2
+  source_lastmod: '2006-04-20'
+  versions:
+  - date: '1992-07-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-04-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime Artigo 17º
+    - Suprime Artigo 18º
+    - Suprime Artigo 19º
+    - Suprime Artigo 20º — As normas de execução do presente regulamento serão adoptadas segundo o procedimento previsto no
+      artigo 19º
+    - Suprime Artigo 21º
+    - Suprime Artigo 22º
+    - Suprime ANEXO — Géneros alimentícios previstos no nº 1 do artigo 1º
 identifiers:
   celex: 31992R2082
   eli: http://data.europa.eu/eli/reg/1992/2082/oj
@@ -48,7 +86,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a109261e-f10f-4710-a609-5d4a0a282252.0011
   content_url: http://publications.europa.eu/resource/cellar/346ec9e4-ac71-4d17-8d61-2ea08cc470dc.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R2082-20060420
-  retrieved_at: '2026-10-22T02:37:23Z'
+  retrieved_at: '2026-10-22T14:41:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T04:30:12.928+01:00'
 integrity:
@@ -57,9 +95,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:23Z'
-  notes: Texto consolidado 01992R2082-20060420.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:34Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1992-2082.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -188,16 +226,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:23Z'
+  checked_at: '2026-10-22T14:41:34Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01992R2082-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R2082-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R2082-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

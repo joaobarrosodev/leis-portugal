@@ -35,6 +35,109 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-09-01'
+version_history:
+  file: diretiva-ue-1996-25.versoes.json
+  count: 3
+  source_lastmod: '2010-09-01'
+  versions:
+  - date: '1996-05-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-04-20'
+    amending: eu:celex:31998L0067:por
+    amending_title: DIRECTIVA 98/67/CE DA COMISSÃO Texto relevante para efeitos do EEE de 7 de Setembro de 1998; DIRECTIVA
+      1999/29/CE DO CONSELHO de 22 de Abril de 1999; DIRECTIVA 1999/61/CE DA COMISSÃO Texto relevante para efeitos do EEE
+      de 18 de Junho de 1999; DIRECTIVA 2000/16/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de Abril de 2000; DIRECTIVA 2001/46/CE
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de Julho de 2001; REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril
+      de 2003; REGULAMENTO (CE) N. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita ANEXO
+    - Adita PARTE A
+    - Adita Generalidades
+    - Adita I. NOTAS EXPLICATIVAS
+    - Adita II. DISPOSIÇÕES RELATIVAS À PUREZA BOTÂNICA E QUÍMICA
+    - Adita III. DlSPOSIÇÕES RELATIVAS À DESIGNAÇÃO
+    - Adita IV. DlSPOSlÇÕES RELATIVAS AO GLOSSÁRIO
+    - Adita V. DlSPOSlÇÕES RELATIVAS AOS TEORES INDICADOS OU A DECLARAR EM CONFORMIDADE COM AS PARTES B E C
+    - Adita VI. DlSPOSlÇÕES RELATIVAS AOS AGENTES DESNATURANTES OU AGLOMERANTES
+    - Adita VII. DISPOSlÇÕES RELATIVAS ÀS TOLERÂNCIAS INDICADAS OU A DECLARAR, CONFORME ESPECIFICADO NAS PARTES B E C
+    - Adita VIII. DISPOSlÇÕES RELATIVAS À ROTULAGEM DAS MATÉRIAS-PRIMAS PARA ALIMENTAÇÃO ANIMAL OBTIDAS A PARTIR DE PRODUTOS
+      PROTEICOS PROVENIENTES DE TECIDOS DE MAMÍFEROS
+    - Adita PARTE B
+    - Adita Lista não exaustiva das principais matérias-primas para alimentação animal
+    - Adita 1. GRÃOS DE CEREAIS, RESPECTIVOS PRODUTOS E SUBPRODUTOS
+    - Adita 2. SEMENTES OU FRUTOS OLEAGINOSOS, RESPECTIVOS PRODUTOS E SUBPRODUTOS
+    - Adita 3. SEMENTES DE LEGUMINOSAS, RESPECTIVOS PRODUTOS E SUBPRODUTOS
+    - Adita 4. TUBÉRCULOS E RAÍZES, RESPECTIVOS PRODUTOS E SUBPRODUTOS
+    - Adita 5. OUTRAS SEMENTES E FRUTOS, RESPECTIVOS PRODUTOS E SUBPRODUTOS
+    - Adita 6. FORRAGENS E OUTROS ALIMENTOS GROSSEIROS
+  - date: '2010-09-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime ANEXO
+    - Suprime PARTE A
+    - Suprime Generalidades
+    - Suprime I. NOTAS EXPLICATIVAS
+    - Suprime II. DISPOSIÇÕES RELATIVAS À PUREZA BOTÂNICA E QUÍMICA
+    - Suprime III. DlSPOSIÇÕES RELATIVAS À DESIGNAÇÃO
+    - Suprime IV. DlSPOSlÇÕES RELATIVAS AO GLOSSÁRIO
+    - Suprime V. DlSPOSlÇÕES RELATIVAS AOS TEORES INDICADOS OU A DECLARAR EM CONFORMIDADE COM AS PARTES B E C
+    - Suprime VI. DlSPOSlÇÕES RELATIVAS AOS AGENTES DESNATURANTES OU AGLOMERANTES
+    - Suprime VII. DISPOSlÇÕES RELATIVAS ÀS TOLERÂNCIAS INDICADAS OU A DECLARAR, CONFORME ESPECIFICADO NAS PARTES B E C
+    - Suprime VIII. DISPOSlÇÕES RELATIVAS À ROTULAGEM DAS MATÉRIAS-PRIMAS PARA ALIMENTAÇÃO ANIMAL OBTIDAS A PARTIR DE PRODUTOS
+      PROTEICOS PROVENIENTES DE TECIDOS DE MAMÍFEROS
+    - Suprime PARTE B
+    - Suprime Lista não exaustiva das principais matérias-primas para alimentação animal
+    - Suprime 1. GRÃOS DE CEREAIS, RESPECTIVOS PRODUTOS E SUBPRODUTOS
+    - Suprime 2. SEMENTES OU FRUTOS OLEAGINOSOS, RESPECTIVOS PRODUTOS E SUBPRODUTOS
+    - Suprime 3. SEMENTES DE LEGUMINOSAS, RESPECTIVOS PRODUTOS E SUBPRODUTOS
+    - Suprime 4. TUBÉRCULOS E RAÍZES, RESPECTIVOS PRODUTOS E SUBPRODUTOS
+    - Suprime 5. OUTRAS SEMENTES E FRUTOS, RESPECTIVOS PRODUTOS E SUBPRODUTOS
+    - Suprime 6. FORRAGENS E OUTROS ALIMENTOS GROSSEIROS
 identifiers:
   celex: 31996L0025
   eli: http://data.europa.eu/eli/dir/1996/25/oj
@@ -49,7 +152,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/bdd221a0-681c-4802-adc8-d7ffc03c4c8a.0011
   content_url: http://publications.europa.eu/resource/cellar/c6a5f048-a908-4b74-8950-d58c4bcdac71.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0025-20100901
-  retrieved_at: '2026-10-22T02:41:11Z'
+  retrieved_at: '2026-10-22T14:45:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T06:36:48.899+01:00'
 integrity:
@@ -58,9 +161,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:11Z'
-  notes: Texto consolidado 01996L0025-20100901.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:45:03Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1996-25.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -221,16 +324,21 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:11Z'
+  checked_at: '2026-10-22T14:45:03Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01996L0025-19960612: versão indisponível (Sem expressão na língua por para CELEX 01996L0025-19960612.)'
+  - '01996L0025-19980701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996L0025-19990504: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996L0025-19990629: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996L0025-20000503: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996L0025-20010901: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996L0025-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -35,6 +35,30 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2003-12-14'
+version_history:
+  file: regulamento-ue-2000-1896.versoes.json
+  count: 2
+  source_lastmod: '2003-12-14'
+  versions:
+  - date: '2000-09-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-12-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Notificação das substâncias activas existentes
+    - Altera Artigo 6.º — Consequências da identificação e notificação
+    - Altera Artigo 8.º — Substâncias de base
+    - Altera Artigo 9.º — Entrada em vigor
+    - Altera ANEXO I — INFORMAÇÕES EXIGIDAS PARA A IDENTIFICAÇÃO EM CONFORMIDADE COM O ARTIGO 3.o OU PARA A DESIGNAÇÃO EM
+      CONFORMIDADE COM O N.o 3 OU O N.o 4 DO ARTIGO 8.o
+    - Altera ANEXO II — INFORMAÇÕES EXIGIDAS PARA AS NOTIFICAÇÕES EM CONFORMIDADE COM O ARTIGO 4.o OU COM O N.o 1 DO ARTIGO
+      8.o
+    - Suprime Artigo 7.º — Apresentação de processos com vista à inclusão no anexo I, IA ou IB da directiva de substâncias
+      activas de certos tipos de produtos
 identifiers:
   celex: 32000R1896
   eli: http://data.europa.eu/eli/reg/2000/1896/oj
@@ -49,7 +73,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4bfaf25d-b526-4924-9298-0aafe9521cd9.0009
   content_url: http://publications.europa.eu/resource/cellar/d9236e4a-35cb-4b66-bef4-56f86d39b906.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R1896-20031214
-  retrieved_at: '2026-10-22T02:56:59Z'
+  retrieved_at: '2026-10-22T14:49:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-12T11:43:10.193+02:00'
 integrity:
@@ -58,9 +82,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:59Z'
-  notes: Texto consolidado 02000R1896-20031214.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:33Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2000-1896.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -103,15 +127,15 @@ relationships:
 article_structure:
   article_count: 8
   section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:59Z'
+  checked_at: '2026-10-22T14:49:33Z'
   warnings:
-  - Não foi detetado o título principal no XHTML.
+  - '02000R1896-20000928: versão indisponível (Sem expressão na língua por para CELEX 02000R1896-20000928.)'
   errors: []
 ---
 

@@ -1,0 +1,206 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002L0004:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0004-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "2002-01-31",
+   "future": false,
+   "celex": "32002L0004",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8dacd58a768393fa",
+    "3a6ec676793d406b",
+    "d15839fa0213b4dd",
+    "271594770ecf7591",
+    "fa2e4b2b4262fd5e",
+    "12922b661da10477"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "02002L0004-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32006L0083:por",
+     "title": "DIRECTIVA 2006/83/CE DA COMISSÃO de 23 de Outubro de 2006",
+     "published": null,
+     "celex": "32006L0083"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Altera ANEXO",
+    "Adita 1. DADOS EXIGIDOS PARA O REGISTO",
+    "Adita 2. NÚMERO PRÓPRIO",
+    "Adita 2.1. Código para o modo de criação",
+    "Adita 2.2. Código do Estado-Membro de registo",
+    "Adita 2.3. Identificação do estabelecimento",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "cc9ee4a03695888c",
+    "387d771d862bcb9b",
+    "d15839fa0213b4dd",
+    "61cb88ec116cd1f1",
+    "5c8b3cd719ea97c8",
+    "d6cdabd71fb56250",
+    "7228c39b3c2aea4c",
+    "54dfcfa23d2c86b6",
+    "ebb68bc244d3a454",
+    "d7c04f398b34d03e",
+    "6710341034db8ef4",
+    "9a2cd14d8abf193d"
+   ]
+  }
+ ],
+ "fragments": {
+  "8dacd58a768393fa": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2002/4/CE da Comissão, de 30 de Janeiro de 2002, relativa ao registo de estabelecimentos de criação de galinhas poedeiras abrangidos pela Directiva 1999/74/CE do Conselho** *Jornal Oficial nº L 030 de 31/01/2002 p. 0044 - 0046*\n\nDirectiva 2002/4/CE da Comissão\n\nde 30 de Janeiro de 2002\n\nrelativa ao registo de estabelecimentos de criação de galinhas poedeiras abrangidos pela Directiva 1999/74/CE do Conselho\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 1999/74/CE do Conselho, de 19 de Julho de 1999, que estabelece as normas mínimas relativas à protecção das galinhas poedeiras(1), e, nomeadamente, o seu artigo 7.o,\n\nConsiderando o seguinte:\n\n(1) A Directiva 1999/74/CE estabelece requisitos específicos para a protecção das galinhas poedeiras em vários sistemas de criação e permite que os Estados-Membros escolham o sistema ou sistemas mais adequados.\n\n(2) O artigo 7.o da Directiva 1999/74/CE requer que cada um dos estabelecimentos abrangidos pelo âmbito de aplicação dessa mesma directiva seja registado pela autoridade competente do Estado-Membro através de um número próprio que permita a rastreabilidade dos ovos colocados no mercado para o consumo humano.\n\n(3) O Regulamento (CEE) n.o 1907/90 do Conselho, de 26 de Junho de 1990, relativo a certas normas de comercialização aplicáveis aos ovos(2), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 5/2001(3) torna obrigatória a aposição nos ovos de um código que designa o número distintivo do produtor, que permite identificar o modo de criação.\n\n(4) Os modos de criação são definidos pelo Regulamento (CEE) n.o 1274/91 da Comissão, de 15 de Maio de 1991, que estabelece as regras de execução do Regulamento (CEE) n.o 1907/90 do Conselho relativo a certas normas de comercialização aplicáveis aos ovos(4), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1651/2001(5), e também pelo Regulamento (CEE) n.o 2092/91 do Conselho, de 24 de Junho de 1991, relativo ao modo de produção biológico de produtos agrícolas e à sua indicação nos produtos agrícolas e nos géneros alimentícios(6), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2491/2001, da Comissão(7), no que diz respeito ao modo de produção biológico.\n\n(5) O registo dos estabelecimentos sob números próprios constitui uma condição para o rastreio dos ovos colocados no mercado para o consumo humano.\n\n(6) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "3a6ec676793d406b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os Estados-Membros:\n\na) Estabelecerão um sistema de registo de cada unidade de produção (a seguir denominada \"estabelecimento\") abrangida pelo âmbito de aplicação da Directiva 1999/74/CE, atribuindo a cada uma delas um número próprio em conformidade com o anexo da presente directiva;\n\nb) Assegurarão que, para cada um desses estabelecimentos, sejam fornecidas às autoridades competentes do Estado-Membro pelo menos as informações referidas no ponto 1 do anexo, até uma data determinada pelo Estado-Membro; essa data deverá proporcionar tempo suficiente para o registo dos estabelecimentos em conformidade com a alínea c);\n\nc) Assegurarão que cada estabelecimento relativamente ao qual as informações exigidas forem fornecidas até à data determinada em conformidade com a alínea b) seja registado e que lhe seja atribuído um número próprio até 31 de Maio de 2003.\n\n2. Os Estados-Membros devem prever que, a partir de 1 de Junho de 2003:\n\na) Os estabelecimentos relativamente aos quais não tenham sido fornecidas as informações exigidas em conformidade com a alínea b) do n.o 1 até à data determinada nessa alínea não possam continuar a ser utilizados; e\n\nb) Nenhum novo estabelecimento inicie a sua actividade antes de terminado o registo e da recepção do número próprio.\n\n3. Os Estados-Membros assegurarão que o registo dos estabelecimentos constituído em conformidade com o n.o 1 seja acessível à autoridade competente do Estado-Membro para efeitos de rastreio dos ovos colocados no mercado para o consumo humano.\n\n4. Os Estados-Membros assegurarão que as alterações respeitantes aos dados registados sejam notificadas à autoridade competente sem demora e que o registo seja actualizado assim que essas informações forem recebidas."
+  },
+  "d15839fa0213b4dd": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 31 de Março de 2003. Os Estados-Membros comunicarão à Comissão o texto dessas disposições.\n\nSempre que os Estados-Membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros."
+  },
+  "271594770ecf7591": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "fa2e4b2b4262fd5e": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 30 de Janeiro de 2002.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 203 de 3.8.1999, p. 53.\n\n(2) JO L 173 de 6.7.1990, p. 5.\n\n(3) JO L 2 de 5.1.2001, p. 1.\n\n(4) JO L 121 de 16.5.1991, p. 11.\n\n(5) JO L 220 de 15.8.2001, p. 5.\n\n(6) JO L 198 de 22.7.1991, p. 1.\n\n(7) JO L 337 de 20.12.2001, p. 9."
+  },
+  "12922b661da10477": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nAs definições do artigo 2.o da Directiva 1999/74/CE são aplicáveis sempre que necessário.\n\n1. DADOS EXIGIDOS PARA O REGISTO\n\nPara cada estabelecimento serão registados, pelo menos, os seguintes dados:\n\n- Estabelecimento:\n\n- nome do estabelecimento,\n\n- endereço.\n\n- Pessoa singular responsável pelas galinhas poedeiras (a seguir denominada \"responsável\"):\n\n- nome,\n\n- endereço,\n\n- número ou números de registo dos outros estabelecimentos abrangidos pelo âmbito de aplicação da Directiva 1999/74/CE geridos pelo responsável ou dos quais este seja proprietário.\n\n- Proprietário do estabelecimento, caso seja diferente do responsável:\n\n- nome,\n\n- endereço,\n\n- número ou números de registo dos outros estabelecimentos abrangidos pelo âmbito de aplicação da Directiva 1999/74/CE geridos pelo proprietário ou que lhe pertençam.\n\n- Outras informações sobre o estabelecimento:\n\n- modo(s) de criação em conformidade com as definições referidas no ponto 2.1,\n\n- capacidade máxima do estabelecimento em número de aves presentes num determinado momento; se forem utilizados diferentes modos de criação, o número de aves presentes num determinado momento por modo de criação.\n\n2. NÚMERO PRÓPRIO\n\nO número próprio será composto de um dígito que indique o modo de criação determinado em conformidade com o ponto 2.1, seguido do código do Estado-Membro em conformidade com o ponto 2.2 e de um número de identificação definido pelo Estado-Membro em que o estabelecimento se localiza.\n\n2.1. Código para o modo de criação\n\nOs modos de criação conforme definidos no Regulamento (CEE) n.o 1274/91, e respectivas alterações, utilizados no estabelecimento serão indicados pelo seguinte código:\n\n>POSIÇÃO NUMA TABELA>\n\nO modo de criação utilizado nos estabelecimentos cuja produção obedece às condições especificadas no Regulamento (CEE) n.o 2092/91 será indicado por:\n\n>POSIÇÃO NUMA TABELA>\n\n2.2. Código do Estado-Membro de registo\n\n>POSIÇÃO NUMA TABELA>\n\n2.3. Identificação do estabelecimento\n\nCada Estado-Membro instituirá um sistema de atribuição de um número único a cada estabelecimento a registar, que pode igualmente ser utilizado para efeitos que não os da presente directiva, desde que a identificação do estabelecimento seja garantida.\n\nOs Estados-Membros podem acrescentar outros caracteres ao número de identificação para a identificação de bandos individuais criados em edifícios separados de um estabelecimento."
+  },
+  "cc9ee4a03695888c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Janeiro de 2002\n\nrelativa ao registo de estabelecimentos de criação de galinhas poedeiras abrangidos pela Directiva 1999/74/CE do Conselho\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 1999/74/CE do Conselho, de 19 de Julho de 1999, que estabelece as normas mínimas relativas à protecção das galinhas poedeiras ([^1^](http://publications.europa.eu/resource/cellar/8023156a-9e11-4f2b-b57d-fb3180fc2a48.0017.03/DOC_1#E0001)), e, nomeadamente, o seu artigo 7.º,\n\n(1) A Directiva 1999/74/CE estabelece requisitos específicos para a protecção das galinhas poedeiras em vários sistemas de criação e permite que os Estados-Membros escolham o sistema ou sistemas mais adequados.\n\n(2) O artigo 7.º da Directiva 1999/74/CE requer que cada um dos estabelecimentos abrangidos pelo âmbito de aplicação dessa mesma directiva seja registado pela autoridade competente do Estado-Membro através de um número próprio que permita a rastreabilidade dos ovos colocados no mercado para o consumo humano.\n\n(3) O Regulamento (CEE) n.º 1907/90 do Conselho, de 26 de Junho de 1990, relativo a certas normas de comercialização aplicáveis aos ovos ([^2^](http://publications.europa.eu/resource/cellar/8023156a-9e11-4f2b-b57d-fb3180fc2a48.0017.03/DOC_1#E0002)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 5/2001 ([^3^](http://publications.europa.eu/resource/cellar/8023156a-9e11-4f2b-b57d-fb3180fc2a48.0017.03/DOC_1#E0003)) torna obrigatória a aposição nos ovos de um código que designa o número distintivo do produtor, que permite identificar o modo de criação.\n\n(4) Os modos de criação são definidos pelo Regulamento (CEE) n.º 1274/91 da Comissão, de 15 de Maio de 1991, que estabelece as regras de execução do Regulamento (CEE) n.º 1907/90 do Conselho relativo a certas normas de comercialização aplicáveis aos ovos ([^4^](http://publications.europa.eu/resource/cellar/8023156a-9e11-4f2b-b57d-fb3180fc2a48.0017.03/DOC_1#E0004)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1651/2001 ([^5^](http://publications.europa.eu/resource/cellar/8023156a-9e11-4f2b-b57d-fb3180fc2a48.0017.03/DOC_1#E0005)), e também pelo Regulamento (CEE) n.º 2092/91 do Conselho, de 24 de Junho de 1991, relativo ao modo de produção biológico de produtos agrícolas e à sua indicação nos produtos agrícolas e nos géneros alimentícios ([^6^](http://publications.europa.eu/resource/cellar/8023156a-9e11-4f2b-b57d-fb3180fc2a48.0017.03/DOC_1#E0006)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2491/2001, da Comissão ([^7^](http://publications.europa.eu/resource/cellar/8023156a-9e11-4f2b-b57d-fb3180fc2a48.0017.03/DOC_1#E0007)), no que diz respeito ao modo de produção biológico.\n\n(5) O registo dos estabelecimentos sob números próprios constitui uma condição para o rastreio dos ovos colocados no mercado para o consumo humano.\n\n(6) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "387d771d862bcb9b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os Estados-Membros:\n\na) Estabelecerão um sistema de registo de cada unidade de produção (a seguir denominada «estabelecimento») abrangida pelo âmbito de aplicação da Directiva 1999/74/CE, atribuindo a cada uma delas um número próprio em conformidade com o anexo da presente directiva;\n\nb) Assegurarão que, para cada um desses estabelecimentos, sejam fornecidas às autoridades competentes do Estado-Membro pelo menos as informações referidas no ponto 1 do anexo, até uma data determinada pelo Estado-Membro; essa data deverá proporcionar tempo suficiente para o registo dos estabelecimentos em conformidade com a alínea c);\n\nc) Assegurarão que cada estabelecimento relativamente ao qual as informações exigidas forem fornecidas até à data determinada em conformidade com a alínea b) seja registado e que lhe seja atribuído um número próprio até 31 de Maio de 2003.\n\n2. Os Estados-Membros devem prever que, a partir de 1 de Junho de 2003:\n\na) Os estabelecimentos relativamente aos quais não tenham sido fornecidas as informações exigidas em conformidade com a alínea b) do n.º 1 até à data determinada nessa alínea não possam continuar a ser utilizados; e\n\nb) Nenhum novo estabelecimento inicie a sua actividade antes de terminado o registo e da recepção do número próprio.\n\n3. Os Estados-Membros assegurarão que o registo dos estabelecimentos constituído em conformidade com o n.º 1 seja acessível à autoridade competente do Estado-Membro para efeitos de rastreio dos ovos colocados no mercado para o consumo humano.\n\n4. Os Estados-Membros assegurarão que as alterações respeitantes aos dados registados sejam notificadas à autoridade competente sem demora e que o registo seja actualizado assim que essas informações forem recebidas."
+  },
+  "61cb88ec116cd1f1": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "5c8b3cd719ea97c8": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d6cdabd71fb56250": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nAs definições do artigo 2.º da Directiva 1999/74/CE são aplicáveis sempre que necessário."
+  },
+  "7228c39b3c2aea4c": {
+   "fragment_id": "1. DADOS EXIGIDOS PARA O REGISTO",
+   "type": "divisao",
+   "heading": "1. DADOS EXIGIDOS PARA O REGISTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. DADOS EXIGIDOS PARA O REGISTO\n\nPara cada estabelecimento serão registados, pelo menos, os seguintes dados:\n\n— Estabelecimento:\n\n— nome do estabelecimento,\n\n— endereço.\n\n— Pessoa singular responsável pelas galinhas poedeiras (a seguir denominada «responsável»):\n\n— nome,\n\n— endereço,\n\n— número ou números de registo dos outros estabelecimentos abrangidos pelo âmbito de aplicação da Directiva 1999/74/CE geridos pelo responsável ou dos quais este seja proprietário.\n\n— Proprietário do estabelecimento, caso seja diferente do responsável:\n\n— nome,\n\n— endereço,\n\n— número ou números de registo dos outros estabelecimentos abrangidos pelo âmbito de aplicação da Directiva 1999/74/CE geridos pelo proprietário ou que lhe pertençam.\n\n— Outras informações sobre o estabelecimento:\n\n— modo(s) de criação em conformidade com as definições referidas no ponto 2.1,\n\n— capacidade máxima do estabelecimento em número de aves presentes num determinado momento; se forem utilizados diferentes modos de criação, o número de aves presentes num determinado momento por modo de criação."
+  },
+  "54dfcfa23d2c86b6": {
+   "fragment_id": "2. NÚMERO PRÓPRIO",
+   "type": "divisao",
+   "heading": "2. NÚMERO PRÓPRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. NÚMERO PRÓPRIO\n\nO número próprio será composto de um dígito que indique o modo de criação determinado em conformidade com o ponto 2.1, seguido do código do Estado-Membro em conformidade com o ponto 2.2 e de um número de identificação definido pelo Estado-Membro em que o estabelecimento se localiza."
+  },
+  "ebb68bc244d3a454": {
+   "fragment_id": "2.1. Código para o modo de criação",
+   "type": "divisao",
+   "heading": "2.1. Código para o modo de criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Código para o modo de criação\n\nOs modos de criação conforme definidos no Regulamento (CEE) n.º 1274/91, e respectivas alterações, utilizados no estabelecimento serão indicados pelo seguinte código:\n\n1 Ar livre\n\n2 Solo\n\n3 Gaiolas.\n\nO modo de criação utilizado nos estabelecimentos cuja produção obedece às condições especificadas no Regulamento (CEE) n.º 2092/91 será indicado por:\n\n0 Modo de produção biológico."
+  },
+  "d7c04f398b34d03e": {
+   "fragment_id": "2.2. Código do Estado-Membro de registo",
+   "type": "divisao",
+   "heading": "2.2. Código do Estado-Membro de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2. Código do Estado-Membro de registo\n\nAT Áustria\n\nBE Bélgica\n\nBG Bulgária\n\nCY Chipre\n\nCZ República Checa\n\nDE Alemanha\n\nDK Dinamarca\n\nEE Estónia\n\nEL Grécia\n\nES Espanha\n\nFI Finlândia\n\nFR França\n\nHU Hungria\n\nIE Irlanda\n\nIT Itália\n\nLT Lituânia\n\nLU Luxemburgo\n\nLV Letónia\n\nMT Malta\n\nNL Países Baixos\n\nPL Polónia\n\nPT Portugal\n\nRO Roménia\n\nSE Suécia\n\nSI Eslovénia\n\nSK Eslováquia\n\nUK Reino Unido"
+  },
+  "6710341034db8ef4": {
+   "fragment_id": "2.3. Identificação do estabelecimento",
+   "type": "divisao",
+   "heading": "2.3. Identificação do estabelecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.3. Identificação do estabelecimento\n\nCada Estado-Membro instituirá um sistema de atribuição de um número único a cada estabelecimento a registar, que pode igualmente ser utilizado para efeitos que não os da presente directiva, desde que a identificação do estabelecimento seja garantida.\n\nOs Estados-Membros podem acrescentar outros caracteres ao número de identificação para a identificação de bandos individuais criados em edifícios separados de um estabelecimento.\n\n---"
+  },
+  "9a2cd14d8abf193d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8023156a-9e11-4f2b-b57d-fb3180fc2a48.0017.03/DOC_1#src.E0001)) JO L 203 de 3.8.1999, p. 53.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8023156a-9e11-4f2b-b57d-fb3180fc2a48.0017.03/DOC_1#src.E0002)) JO L 173 de 6.7.1990, p. 5.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/8023156a-9e11-4f2b-b57d-fb3180fc2a48.0017.03/DOC_1#src.E0003)) JO L 2 de 5.1.2001, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/8023156a-9e11-4f2b-b57d-fb3180fc2a48.0017.03/DOC_1#src.E0004)) JO L 121 de 16.5.1991, p. 11.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/8023156a-9e11-4f2b-b57d-fb3180fc2a48.0017.03/DOC_1#src.E0005)) JO L 220 de 15.8.2001, p. 5.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/8023156a-9e11-4f2b-b57d-fb3180fc2a48.0017.03/DOC_1#src.E0006)) JO L 198 de 22.7.1991, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/8023156a-9e11-4f2b-b57d-fb3180fc2a48.0017.03/DOC_1#src.E0007)) JO L 337 de 20.12.2001, p. 9."
+  }
+ }
+}

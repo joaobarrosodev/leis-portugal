@@ -33,6 +33,163 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-01'
+version_history:
+  file: regulamento-ue-2002-6.versoes.json
+  count: 5
+  source_lastmod: '2026-07-01'
+  versions:
+  - date: '2002-01-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1891(01):por
+    amending_title: REGULAMENTO (CE) n. o 1891/2006 DO CONSELHO de 18 de Dezembro de 2006; Acto relativo às condições de adesão
+      da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia,
+      da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca
+      e às adaptações dos Tratados em que se funda a União Europeia; ►A2
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Instituto
+    - Altera Artigo 25.º — Causas de nulidade
+    - Altera Artigo 79.º — Aplicação da Convenção de Execução
+    - Altera Artigo 111.º — Entrada em vigor
+    - Adita TÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita TÍTULO II
+    - Adita DIREITO RELATIVO AOS DESENHOS E MODELOS
+    - Adita Secção 1
+    - Adita Requisitos de protecção
+    - Adita Secção 2
+    - Adita Âmbito e duração da protecção
+    - Adita Secção 3
+    - Adita Direito ao desenho ou modelo comunitário
+    - Adita Secção 4
+    - Adita Efeitos do desenho ou modelo comunitário
+    - Adita Secção 5
+    - Adita Nulidade
+    - Adita TÍTULO III
+    - Adita OS DESENHOS E MODELOS COMUNITÁRIOS ENQUANTO OBJECTO DE PROPRIEDADE
+    - Adita TÍTULO IV
+    - Adita PEDIDO DE REGISTO DE UM DESENHO OU DE UM MODELO COMUNITÁRIO
+    - Adita Depósito do pedido e condições que este deve satisfazer
+    - Adita Prioridade
+    - Adita TÍTULO V
+    - Adita PROCESSO DE REGISTO
+    - Adita TÍTULO VI
+    - Adita RENÚNCIA E NULIDADE DO DESENHO OU MODELO COMUNITÁRIO REGISTADO
+    - Adita TÍTULO VII
+    - Adita RECURSOS
+    - Adita TÍTULO VIII
+    - Adita PROCESSO PERANTE O INSTITUTO
+    - Adita Disposições Gerais
+    - Adita Custas
+    - Adita Informação do público e das autoridades dos Estados-Membros
+    - Adita Representação
+    - Adita TÍTULO IX
+    - Adita COMPETÊNCIA E PROCEDIMENTO EM ACÇÕES JUDICIAIS RELATIVAS A DESENHOS E MODELOS COMUNITÁRIOS
+    - Adita Competência judiciária e execução das decisões
+  - date: '2013-07-01'
+    amending: null
+    amending_title: ►A3
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Instituto
+    - Altera Artigo 79.º — Aplicação da Convenção de Execução
+    - Altera Artigo 110.º-A — Disposições relativas ao alargamento da Comunidade
+    - Altera Notas
+  - date: '2025-05-01'
+    amending: eu:celex:32024R2822:por
+    amending_title: REGULAMENTO (UE) 2024/2822 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024; ACTO relativo
+      às condições de adesão da República da Bulgária e da Roménia e às adaptações dos tratados em que se funda a União Europeia;
+      ATO relativo às condições de adesão da República da Croácia e às adaptações do Tratado da União Europeia, do Tratado
+      sobre o Funcionamento da União Europeia e do Tratado que institui a Comunidade Europeia da Energia Atómica
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Requisitos da protecção
+    - Altera Artigo 5.º — Novidade
+    - Altera Artigo 6.º — Carácter singular
+    - Altera Artigo 7.º — Divulgação
+    - Altera Artigo 8.º — Desenhos ou modelos ditados pela sua função técnica e desenhos ou modelos de interconexões
+    - Altera Artigo 9.º — Desenhos e modelos contrários à ordem pública ou aos bons costumes
+    - Altera Artigo 10.º — Âmbito da protecção
+    - Altera Artigo 17.º — Presunção a favor do titular do desenho ou modelo que efectuou o registo
+    - Altera Artigo 18.º — Direito do criador a ser mencionado
+    - Altera Artigo 21.º — Esgotamento dos direitos
+    - Altera Artigo 23.º — Utilização pelo Governo
+    - Altera Artigo 24.º — Declaração de nulidade
+    - Altera Artigo 25.º — Causas de nulidade
+    - Altera Artigo 26.º — Efeitos da declaração de nulidade
+    - Altera Artigo 30.º — Execução forçada
+    - Altera Artigo 31.º — Processos de insolvência
+    - Altera Artigo 32.º — Licenças
+    - Altera Artigo 33.º — Oponibilidade a terceiros
+    - Altera Artigo 36.º — Condições que o pedido deve satisfazer
+    - Altera Artigo 37.º — Pedidos múltiplos
+    - Altera Artigo 41.º — Direito de prioridade
+    - Altera Artigo 42.º — Reivindicação de prioridade
+    - Altera Artigo 44.º — Prioridade de exposição
+    - Altera Artigo 45.º — Verificação dos requisitos formais de depósito de um pedido
+    - Altera Artigo 47.º — Fundamentos para a recusa do pedido de registo
+    - Altera Artigo 48.º — Registo
+    - Altera Artigo 49.º — Publicação
+    - Altera Artigo 50.º — Adiamento da publicação
+    - Altera Artigo 51.º — Renúncia
+    - Altera Artigo 52.º — Pedido de declaração de nulidade
+    - Altera Artigo 53.º — Exame do pedido
+    - Altera Artigo 54.º — Participação do contrafactor presumido no processo
+    - Altera Artigo 63.º — Exame oficioso dos factos pelo Instituto
+    - Altera Artigo 64.º — Processo oral
+    - Altera Artigo 67.º — Restituição integral
+    - Altera Artigo 68.º — Referência a princípios gerais
+    - Altera Artigo 69.º — Prescrição das obrigações financeiras
+    - Altera Artigo 70.º — Repartição das custas
+  - date: '2026-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Instituto da Propriedade Intelectual da União Europeia
+    - Altera Artigo 19.º — Direitos conferidos pelo desenho ou modelo da UE
+    - Altera Artigo 26.º — Efeitos da declaração de nulidade
+    - Altera Artigo 33.º — Oponibilidade a terceiros
+    - Altera Artigo 36.º — Condições que o pedido deve satisfazer
+    - Altera Artigo 37.º — Pedidos múltiplos
+    - Altera Artigo 41.º — Direito de prioridade
+    - Altera Artigo 44.º — Prioridade de exposição
+    - Altera Artigo 49.º — Publicação
+    - Altera Artigo 51.º — Renúncia
+    - Altera Artigo 65.º — Instrução
+    - Altera Artigo 66.º — Notificação
+    - Altera Artigo 67.º — Restituição integral
+    - Altera Artigo 70.º — Repartição das custas
+    - Altera Artigo 70.º-A — Atribuição de poderes de execução no que respeita às taxas máximas das custas
+    - Altera Artigo 72.º — Registo dos desenhos ou modelos da UE
+    - Altera Artigo 73.º — Publicações periódicas
+    - Altera Artigo 78.º — Representação profissional
+    - Altera Artigo 79.º — Aplicação das normas da União em matéria de jurisdição e de reconhecimento e execução das decisões
+      em matéria civil e comercial
+    - Altera Artigo 98.º — Língua do processo
+    - Altera Notas
+    - Adita Artigo 25.º — Causas de invalidade
+    - Adita Artigo 28.º — Transmissão do desenho ou modelo da UE registado
+    - Adita Artigo 31.º — Processo de insolvência
+    - Adita Artigo 32.º — Licença
+    - Adita Artigo 32.º-A — Procedimento de inscrição de licenças e outros direitos no registo
+    - Adita Artigo 33.º-A — Procedimento de cancelamento ou de alteração dos registos de licenças e de outros direitos
+    - Adita Artigo 34.º — Pedido de registo de desenho ou modelo da UE como objeto de propriedade
+    - Adita Artigo 40.º — Classificação e indicações do produto
+    - Adita Artigo 42.º — Reivindicação da prioridade
+    - Adita PROCESSO DE REGISTO, RENOVAÇÃO E ALTERAÇÃO
+    - Adita Artigo 47.º — Motivos de recusa de registo
+    - Adita Artigo 47.º-A — Desistência e alteração do pedido
+    - Adita Artigo 50.º-A — Publicação após o período de adiamento
+    - Adita Artigo 50.º-B — Certificados de registo
+    - Adita Artigo 50.º-E — Alteração
+    - Adita Artigo 50.º-G — Alteração do nome ou do endereço
+    - Adita Artigo 53.º — Análise do pedido
+    - Adita Artigo 55.º — Decisões suscetíveis de recurso
+    - Adita Artigo 62.º — Decisões e comunicações do Instituto
 identifiers:
   celex: 32002R0006
   eli: http://data.europa.eu/eli/reg/2002/6/oj
@@ -47,7 +204,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1610a369-c96b-422c-bf5e-6547a2e025d4.0010
   content_url: http://publications.europa.eu/resource/cellar/55fb0d72-3d8f-11f1-814f-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R0006-20260701
-  retrieved_at: '2026-10-22T02:37:58Z'
+  retrieved_at: '2026-10-22T14:52:38Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-18T20:56:50.341+01:00'
 integrity:
@@ -56,9 +213,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:58Z'
-  notes: Texto consolidado 02002R0006-20260701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:38Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2002-6.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -357,36 +514,21 @@ relationships:
   date: '2026-03-30'
 article_structure:
   article_count: 163
-  section_count: 68
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 71
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:58Z'
-  warnings: []
+  checked_at: '2026-10-22T14:52:38Z'
+  warnings:
+  - '02002R0006-20020306: versão indisponível (Sem expressão na língua por para CELEX 02002R0006-20020306.)'
+  - '02002R0006-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 6/2002 do Conselho, de 12 de Dezembro de 2001
-
-> 02002R0006 — PT — 01.07.2026 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006R1891%2801%29) — [REGULAMENTO (CE) n.º 1891/2006 DO CONSELHO de 18 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1891%2801%29) — L 386 — 14 — 29.12.2006
-- [►M2](http://publications.europa.eu/resource/celex/32024R2822) — [REGULAMENTO (UE) 2024/2822 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R2822) — L 2822 — 1 — 18.11.2024
-
-**Alterado por:**
-
-- [►A1](http://publications.europa.eu/resource/celex/12003T) — [ACTO relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T%2FTXT) — L 236 — 33 — 23.9.2003
-- [A2](http://publications.europa.eu/resource/celex/12005S%2FACT) — [ACTO relativo às condições de adesão da República da Bulgária e da Roménia e às adaptações dos tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12005S%2FACT) — L 157 — 203 — 21.6.2005
-- [►A3](http://publications.europa.eu/resource/celex/12012J%2FACT) — [ATO relativo às condições de adesão da República da Croácia e às adaptações do Tratado da União Europeia, do Tratado sobre o Funcionamento da União Europeia e do Tratado que institui a Comunidade Europeia da Energia Atómica](http://publications.europa.eu/resource/celex/12012J%2FACT) — L 112 — 21 — 24.4.2012
-
-## REGULAMENTO (CE) N.º 6/2002 DO CONSELHO
 
 de 12 de dezembro de 2001
 

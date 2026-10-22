@@ -35,6 +35,127 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-11-28'
+version_history:
+  file: diretiva-ue-2002-32.versoes.json
+  count: 10
+  source_lastmod: '2019-11-28'
+  versions:
+  - date: '2002-05-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-07-01'
+    amending: eu:celex:32003L0057:por
+    amending_title: M1; M2; M3; M4; M5; M6; M7; M8; M9; REGULAMENTO (CE) N. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
+      de 11 de Março de 2009; M11; M12; M13; REGULAMENTO (UE) N. o 574/2011 DA COMISSÃO de 16 de Junho de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 17.º
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita Notas
+    - Suprime Artigo 12.º
+    - Suprime ANEXO I — >POSIÇÃO NUMA TABELA>
+    - Suprime ANEXO II — >PIC FILE= "L_2002140PT.001902.TIF">
+    - Suprime ANEXO III — TABELA DE CORRESPONDÊNCIA
+  - date: '2012-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2012-04-18'
+    amending: eu:celex:32012R0277:por
+    amending_title: REGULAMENTO (UE) N. o 277/2012 DA COMISSÃO de 28 de março de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2012-09-06'
+    amending: eu:celex:32012R0744:por
+    amending_title: REGULAMENTO (UE) N. o 744/2012 DA COMISSÃO de 16 de agosto de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2013-02-26'
+    amending: eu:celex:32013R0107:por
+    amending_title: REGULAMENTO (UE) N. o 107/2013 DA COMISSÃO de 5 de fevereiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2013-12-27'
+    amending: eu:celex:32013R1275:por
+    amending_title: REGULAMENTO (UE) N. o 1275/2013 DA COMISSÃO de 6 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2015-02-27'
+    amending: eu:celex:32015R0186:por
+    amending_title: REGULAMENTO (UE) 2015/186 DA COMISSÃO de 6 de fevereiro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2019-07-26'
+    amending: eu:celex:32017R2229:por
+    amending_title: REGULAMENTO (UE) 2017/2229 DA COMISSÃO de 4 de dezembro de 2017; REGULAMENTO (UE) 2019/1243 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita Artigo 10.º-A
+    - Adita Artigo 10.º-B
+  - date: '2019-11-28'
+    amending: eu:celex:32019R1869:por
+    amending_title: REGULAMENTO (UE) 2019/1869 DA COMISSÃO de 7 de novembro de 2019
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 10.º-A
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
 identifiers:
   celex: 32002L0032
   eli: http://data.europa.eu/eli/dir/2002/32/oj
@@ -49,7 +170,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/aca28b8c-bf9d-444f-b470-268f71df28fb.0010
   content_url: http://publications.europa.eu/resource/cellar/1c7a05da-307f-11ea-af81-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0032-20191128
-  retrieved_at: '2026-10-22T02:39:37Z'
+  retrieved_at: '2026-10-22T14:51:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-16T19:31:50.328+01:00'
 integrity:
@@ -58,9 +179,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:37Z'
-  notes: Texto consolidado 02002L0032-20191128.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:47Z'
+  notes: 10 versão(ões); histórico completo em diretiva-ue-2002-32.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -295,50 +416,31 @@ relationships:
   source: null
 article_structure:
   article_count: 18
-  section_count: 3
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 4
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:37Z'
-  warnings: []
+  checked_at: '2026-10-22T14:51:47Z'
+  warnings:
+  - '02002L0032-20030709: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002L0032-20031121: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002L0032-20050218: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002L0032-20051226: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002L0032-20060224: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002L0032-20061020: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002L0032-20080815: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002L0032-20090303: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002L0032-20090420: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002L0032-20091016: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002L0032-20091214: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002L0032-20100302: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 2002/32/CE do Parlamento Europeu e do Conselho, de 7 de Maio de 2002
-
-> 02002L0032 — PT — 28.11.2019 — 022.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32003L0057) — [DIRECTIVA 2003/57/CE DA COMISSÃO Texto relevante para efeitos do EEE de 17 de Junho de 2003](http://publications.europa.eu/resource/celex/32003L0057) — L 151 — 38 — 19.6.2003
-- [M2](http://publications.europa.eu/resource/celex/32003L0100) — [DIRECTIVA 2003/100/CE DA COMISSÃO Texto relevante para efeitos do EEE de 31 de Outubro de 2003](http://publications.europa.eu/resource/celex/32003L0100) — L 285 — 33 — 1.11.2003
-- [M3](http://publications.europa.eu/resource/celex/32005L0008) — [DIRECTIVA 2005/8/CE DA COMISSÃO Texto relevante para efeitos do EEE de 27 de Janeiro de 2005](http://publications.europa.eu/resource/celex/32005L0008) — L 27 — 44 — 29.1.2005
-- [M4](http://publications.europa.eu/resource/celex/32005L0086) — [DIRECTIVA 2005/86/CE DA COMISSÃO Texto relevante para efeitos do EEE de 5 de Dezembro de 2005](http://publications.europa.eu/resource/celex/32005L0086) — L 318 — 16 — 6.12.2005
-- [M5](http://publications.europa.eu/resource/celex/32005L0087) — [DIRECTIVA 2005/87/CE DA COMISSÃO Texto relevante para efeitos do EEE de 5 de Dezembro de 2005](http://publications.europa.eu/resource/celex/32005L0087) — L 318 — 19 — 6.12.2005
-- [M6](http://publications.europa.eu/resource/celex/32006L0013) — [DIRECTIVA 2006/13/CE DA COMISSÃO Texto relevante para efeitos do EEE de 3 de Fevereiro de 2006](http://publications.europa.eu/resource/celex/32006L0013) — L 32 — 44 — 4.2.2006
-- [M7](http://publications.europa.eu/resource/celex/32006L0077) — [DIRECTIVA 2006/77/CE DA COMISSÃO Texto relevante para efeitos do EEE de 29 de Setembro de 2006](http://publications.europa.eu/resource/celex/32006L0077) — L 271 — 53 — 30.9.2006
-- [M8](http://publications.europa.eu/resource/celex/32008L0076) — [DIRECTIVA 2008/76/CE DA COMISSÃO Texto relevante para efeitos do EEE de 25 de Julho de 2008](http://publications.europa.eu/resource/celex/32008L0076) — L 198 — 37 — 26.7.2008
-- [M9](http://publications.europa.eu/resource/celex/32009L0008) — [DIRECTIVA 2009/8/CE DA COMISSÃO Texto relevante para efeitos do EEE de 10 de Fevereiro de 2009](http://publications.europa.eu/resource/celex/32009L0008) — L 40 — 19 — 11.2.2009
-- [►M10](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) N.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-- [M11](http://publications.europa.eu/resource/celex/32009L0124) — [DIRECTIVA 2009/124/CE DA COMISSÃO Texto relevante para efeitos do EEE de 25 de Setembro de 2009](http://publications.europa.eu/resource/celex/32009L0124) — L 254 — 100 — 26.9.2009
-- [M12](http://publications.europa.eu/resource/celex/32009L0141) — [DIRECTIVA 2009/141/CE DA COMISSÃO Texto relevante para efeitos do EEE de 23 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009L0141) — L 308 — 20 — 24.11.2009
-- [M13](http://publications.europa.eu/resource/celex/32010L0006) — [DIRECTIVA 2010/6/UE DA COMISSÃO Texto relevante para efeitos do EEE de 9 de Fevereiro de 2010](http://publications.europa.eu/resource/celex/32010L0006) — L 37 — 29 — 10.2.2010
-- [►M14](http://publications.europa.eu/resource/celex/32011R0574) — [REGULAMENTO (UE) N.º 574/2011 DA COMISSÃO de 16 de Junho de 2011](http://publications.europa.eu/resource/celex/32011R0574) — L 159 — 7 — 17.6.2011
-- [►M15](http://publications.europa.eu/resource/celex/32012R0277) — [REGULAMENTO (UE) N.º 277/2012 DA COMISSÃO de 28 de março de 2012](http://publications.europa.eu/resource/celex/32012R0277) — L 91 — 1 — 29.3.2012
-- [►M16](http://publications.europa.eu/resource/celex/32012R0744) — [REGULAMENTO (UE) N.º 744/2012 DA COMISSÃO de 16 de agosto de 2012](http://publications.europa.eu/resource/celex/32012R0744) — L 219 — 5 — 17.8.2012
-- [►M17](http://publications.europa.eu/resource/celex/32013R0107) — [REGULAMENTO (UE) N.º 107/2013 DA COMISSÃO de 5 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0107) — L 35 — 1 — 6.2.2013
-- [►M18](http://publications.europa.eu/resource/celex/32013R1275) — [REGULAMENTO (UE) N.º 1275/2013 DA COMISSÃO de 6 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1275) — L 328 — 86 — 7.12.2013
-- [►M19](http://publications.europa.eu/resource/celex/32015R0186) — [REGULAMENTO (UE) 2015/186 DA COMISSÃO de 6 de fevereiro de 2015](http://publications.europa.eu/resource/celex/32015R0186) — L 31 — 11 — 7.2.2015
-- [►M20](http://publications.europa.eu/resource/celex/32017R2229) — [REGULAMENTO (UE) 2017/2229 DA COMISSÃO de 4 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2229) — L 319 — 6 — 5.12.2017
-- [►M21](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [►M22](http://publications.europa.eu/resource/celex/32019R1869) — [REGULAMENTO (UE) 2019/1869 DA COMISSÃO de 7 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R1869) — L 289 — 32 — 8.11.2019
-
-## DIRECTIVA 2002/32/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 7 de Maio de 2002
 

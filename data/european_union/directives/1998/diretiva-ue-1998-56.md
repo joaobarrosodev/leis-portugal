@@ -34,6 +34,104 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-06-30'
+version_history:
+  file: diretiva-ue-1998-56.versoes.json
+  count: 3
+  source_lastmod: '2014-06-30'
+  versions:
+  - date: '1998-08-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-07-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera TÍTULO IX — COMITOLOGIA
+    - Altera ANEXO — PARTE A
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita PARTE B — Quadro de correspondências
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Artigo 15º
+  - date: '2014-06-30'
+    amending: eu:celex:32003R0806:por
+    amending_title: REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003; DIRECTIVA 2003/61/CE DO CONSELHO de
+      18 de Junho de 2003; REGULAMENTO (UE) N. o 652/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Adita TÍTULO I
+    - Adita ÂMBITO DE APLICAÇÃO
+    - Adita TÍTULO II
+    - Adita DEFINIÇÕES
+    - Adita TÍTULO III
+    - Adita REQUISITOS PARA O MATERIAL DE PROPAGAÇÃO
+    - Adita TÍTULO IV
+    - Adita REQUISITOS PARA OS FORNECEDORES DE MATERIAL DE PROPAGAÇÃO
+    - Adita TÍTULO V
+    - Adita COMERCIALIZAÇÃO E ETIQUETAGEM DO MATERIAL DE PROPAGAÇÃO
+    - Adita TÍTULO VI
+    - Adita MATERIAL DE PROPAGAÇÃO QUE PREENCHE REQUISITOS MENOS RIGOROSOS
+    - Adita TÍTULO VII
+    - Adita MATERIAL DE PROPAGAÇÃO PRODUZIDO EM PAÍSES TERCEIROS
+    - Adita TÍTULO VIII
+    - Adita MEDIDAS DE CONTROLO E DISPOSIÇÕES GERAIS
+    - Adita TÍTULO IX
+    - Adita COMITOLOGIA
+    - Adita TÍTULO X
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita ANEXO
+    - Adita PARTE A
+    - Adita Prazos de transposição para o direito interno e execução
+    - Adita PARTE B
+    - Adita Quadro de correspondências
+    - Adita Notas
+    - Suprime TÍTULO I — ÂMBITO DE APLICAÇÃO
+    - Suprime TÍTULO II — DEFINIÇÕES
+    - Suprime TÍTULO III — REQUISITOS PARA O MATERIAL DE PROPAGAÇÃO
+    - Suprime TÍTULO IV — REQUISITOS PARA OS FORNECEDORES DE MATERIAL DE PROPAGAÇÃO
+    - Suprime TÍTULO V — COMERCIALIZAÇÃO E ETIQUETAGEM DO MATERIAL DE PROPAGAÇÃO
+    - Suprime TÍTULO VI — MATERIAL DE PROPAGAÇÃO QUE PREENCHE REQUISITOS MENOS RIGOROSOS
 identifiers:
   celex: 31998L0056
   eli: http://data.europa.eu/eli/dir/1998/56/oj
@@ -48,7 +146,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/664a64de-8ba6-4be5-baf0-67a0d19291ef.0011
   content_url: http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0056-20140630
-  retrieved_at: '2026-10-22T02:47:09Z'
+  retrieved_at: '2026-10-22T14:46:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-13T15:01:25.294+02:00'
 integrity:
@@ -57,9 +155,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:09Z'
-  notes: Texto consolidado 01998L0056-20140630.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:53Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1998-56.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -139,31 +237,20 @@ relationships:
   source: null
 article_structure:
   article_count: 21
-  section_count: 25
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 26
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:09Z'
-  warnings: []
+  checked_at: '2026-10-22T14:46:53Z'
+  warnings:
+  - '01998L0056-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 98/56/CE do Conselho de 20 de Julho de 1998
-
-> 1998L0056 — PT — 30.06.2014 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003R0806) — [REGULAMENTO (CE) N.º 806/2003 DO CONSELHO de 14 de Abril de 2003](http://publications.europa.eu/resource/celex/32003R0806) — L 122 — 1 — 16.5.2003
-- [►M2](http://publications.europa.eu/resource/celex/32003L0061) — [DIRECTIVA 2003/61/CE DO CONSELHO de 18 de Junho de 2003](http://publications.europa.eu/resource/celex/32003L0061) — L 165 — 23 — 3.7.2003
-- [►M3](http://publications.europa.eu/resource/celex/32014R0652) — [REGULAMENTO (UE) N.º 652/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0652) — L 189 — 1 — 27.6.2014
-
-## DIRECTIVA 98/56/CE DO CONSELHO
 
 de 20 de Julho de 1998
 

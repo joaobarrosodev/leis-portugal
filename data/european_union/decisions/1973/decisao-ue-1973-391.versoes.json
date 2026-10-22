@@ -1,0 +1,337 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31973D0391:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01973D0391-20061118",
+ "dre_path": null,
+ "source_lastmod": "2006-11-18",
+ "versions": [
+  {
+   "date": "1973-12-17",
+   "future": false,
+   "celex": "31973D0391",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1e858f84a8be1d99",
+    "e536e5777b12f836",
+    "36c93b21988418da",
+    "73815625f09e89d4",
+    "346aa4995e517f10",
+    "23f89629e2c82d42",
+    "8a436642e21a0c1c",
+    "56bacb5bf854f91b",
+    "d7ad5a0eabc5ffba",
+    "74e8b5e2cae8170c",
+    "b599d15b966edcfb",
+    "afe5f71188931867",
+    "a213d05641668a9a",
+    "1d164d068823d150",
+    "38f1e0f9d1a138f2",
+    "ac81e6b95246f352",
+    "6a03ef8bf402f7f1",
+    "bf1aa51af060badc",
+    "513d2e00e0dcfa87",
+    "1a64f26b6e600cce",
+    "1d2c6cdf2593ae94",
+    "280f38395b8127d3",
+    "852abe129a54f269",
+    "8b8c8a91b9b7f8f0",
+    "2b6d007bea91b576",
+    "f76a66ef07a72606",
+    "4fccbccca9c42672",
+    "d598113c9cd8e6f7",
+    "0c46153f8431c2ce",
+    "95721fabd3bb0bf4"
+   ]
+  },
+  {
+   "date": "2006-11-18",
+   "future": false,
+   "celex": "01973D0391-20061118",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime ANEXO — PROCEDIMENTOS DE CONSULTA E INFORMAÇÃO NOS DOMÍNIOS DO SEGURO DE CRÉDITO, DAS GARANTIAS E DOS CRÉDITOS FINANCEIROS",
+    "Suprime TÍTULO I — PROCEDIMENTO GERAL",
+    "Suprime Secção I — Âmbito de aplicação",
+    "Suprime Artigo 3o",
+    "Suprime Secção II — Procedimento",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime TÍTULO II — PROCEDIMENTOS ESPECIAIS",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime TÍTULO III — RELATÓRIOS PERIÓDICOS",
+    "Suprime Artigo 19o",
+    "Suprime ANEXO 1 — NORMAS COMUNITÁRIAS QUE NO NAO PODEM SER DERROGADAS SEM CONSULTA",
+    "Suprime ANEXO 2 — TABELA DE VALORES A UTILIZAR"
+   ],
+   "fragments": [
+    "e7d82a803f497d01"
+   ]
+  }
+ ],
+ "fragments": {
+  "1e858f84a8be1d99": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**73/391/CEE: Decisão do Conselho, de 3 de Dezembro de 1973, relativa aos procedimentos de consulta e de informação nos domínios do seguro de crédito das garantias e dos créditos financeiros** *Jornal Oficial nº L 346 de 17/12/1973 p. 0001 - 0006 Edição especial finlandesa: Capítulo 11 Fascículo 1 p. 0206 Edição especial grega: Capítulo 11 Fascículo 6 p. 0019 Edição especial sueca: Capítulo 11 Fascículo 1 p. 0206 Edição especial espanhola: Capítulo 11 Fascículo 5 p. 0019 Edição especial portuguesa: Capítulo 11 Fascículo 5 p. 0019*\n\nDECISÃO DO CONSELHO de 3 de Dezembro de 1973 relativa aos procedimentos de consulta e de informação nos domínios do seguro de crédito das garantias e dos créditos financeiros\n\n(73/391/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, seu artigo 113o,\n\nTendo em conta a proposta da Comissão;\n\nConsiderando que, pela sua Decisão de 27 de Setembro de 1960, o Conselho instituiu um Grupo de Coordenação das Políticas de Seguro de Crédito, das Garantias e dos Créditos Financeiros (1);\n\nConsiderando que, pela sua Decisão de 26 de Janeiro de 1965, o Conselho instituiu um procedimento de consulta nos dominios do seguro de crédito, das garantias e dos créditos financeiros (2);\n\nConsiderando que é conveniente adaptar este procedimento, com base na experiência adquirida na sua aplicação,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "e536e5777b12f836": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nAs disposições constantes do anexo são aplicáveis a partir de 1 de Janeiro de 1974.\n\nEstas disposições substituem as estabelecidas anteriormente pelo Conselho no que diz respeito ao procedimento de consulta nos dominios do seguro de crédito, das garantias e dos créditos financeiros."
+  },
+  "36c93b21988418da": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros são destinatários da presente decisão.\n\nFeito em Bruxelas em 3 de Dezembro de 1973.\n\nPelo Conselho\n\nO Presidente\n\nI. NOERGAARD\n\n(1) JO no 66 de 27. 10. 1960, p. 1339/60.(2) JO no 19 de 5. 2. 1965, p. 255/65."
+  },
+  "73815625f09e89d4": {
+   "fragment_id": "ANEXO — PROCEDIMENTOS DE CONSULTA E INFORMAÇÃO NOS DOMÍNIOS DO SEGURO DE CRÉDITO, DAS GARANTIAS E DOS CRÉDITOS FINANCEIROS",
+   "type": "divisao",
+   "heading": "ANEXO — PROCEDIMENTOS DE CONSULTA E INFORMAÇÃO NOS DOMÍNIOS DO SEGURO DE CRÉDITO, DAS GARANTIAS E DOS CRÉDITOS FINANCEIROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — PROCEDIMENTOS DE CONSULTA E INFORMAÇÃO NOS DOMÍNIOS DO SEGURO DE CRÉDITO, DAS GARANTIAS E DOS CRÉDITOS FINANCEIROS"
+  },
+  "346aa4995e517f10": {
+   "fragment_id": "TÍTULO I — PROCEDIMENTO GERAL",
+   "type": "divisao",
+   "heading": "TÍTULO I — PROCEDIMENTO GERAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — PROCEDIMENTO GERAL"
+  },
+  "23f89629e2c82d42": {
+   "fragment_id": "Secção I — Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "Secção I — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Âmbito de aplicação"
+  },
+  "8a436642e21a0c1c": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nRealizar-se-ao consultas de acordo com o procedimento previsto na secção II, quando um Estado, qualquer entidade pública ou qualquer organismo de seguro de crédito ou de financiamento dependente do Estado ou de qualquer entidade pública tencionar conceder ou garantir, total ou parcialmente, créditos externos:\n\n- ligados à exportação de bense serviços,\n\n- que se afastem das normas fixadas no Anexo I ou que se afastem de quaisquer outras normas adoptadas pelos Estados-membros."
+  },
+  "56bacb5bf854f91b": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nO procedimento de consulta é aplicável:\n\n- que se trate de créditos de fornecedores ou de créditos financeiros,\n\n- quer estes créditos sejam objecto de contratos individuais ou de compromissos globais de créditos definidos no artigo 3o,\n\n- quer os créditos sejam totalmente privados ou recorram, no todo ou em parte, a fundos públicos.\n\nOs créditos mistos que associem fundos públicos e privados, bem como os compromissos globais de créditos privados acompanhados de uma bonificação de juros a cargo de fundos públicos são, para efeitos da aplicação do presente procedimento, considerados como créditos públicos."
+  },
+  "d7ad5a0eabc5ffba": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Por «compromisso global de créditos», entende-se qualquer acordo ou declaração, independentemente da forma que revista, através dos quais seja levada ao conhecimento de um pais terceiro, dos exportadores ou dos estabelecimentos financeiros, a intenção de garantir créditos de fornecedores ou créditos financeiros ou de conceder créditos financeiros até um limite máximo determinado ou determinável em beneficio de um conjunto de operações.\n\nO procedimento de consulta é aplicável a estes compromissos globais, mesmo se a natureza das operações não tiver sido definida e se não tiver sido assumido qualquer compromisso formal, tendo sido reservado o direito de decidir sobre cada contrato individual.\n\n2. Se, durante as consultas sobre a concessão de um compromisso global - de natureza pública ou privada -, um Estado-membro ou a Comissão solicitar a abertura de uma consulta oral e se, no decurso desta, cinco Estados-membros peirem que todos os contratos individuais, ou alguns de entre eles a incluir nesse compromisso, sejam objecto de consultas prévias, o procedimento de consulta será aplicável a tais contratos.\n\n3. O Estado-membro que tenha concedido um compromisso global notificará a posteriori, de seis em seis meses, o estado de utilização de tal compromisso."
+  },
+  "74e8b5e2cae8170c": {
+   "fragment_id": "Secção II — Procedimento",
+   "type": "divisao",
+   "heading": "Secção II — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Procedimento"
+  },
+  "b599d15b966edcfb": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nSe se tratar de um contrato individual, o Estado-membro que dá inicio às consultas comunicará os seguintes elementos:\n\na) País de destino;\n\nb) Localização da operação ou, na sua falta, indicação da sede social do contratante do pais de destino;\n\nc) Características da operação:\n\n- natureza da operação: tipo de material e número aproximativo de unidades a fornecer,\n\n- ordem de grandeza em função da tabela constante do Anexo 2,\n\n- qualidade pública ou privada dos compradores e eventuais fiadores,\n\n- se se trata de um operação objecto de um concurso internacional, a data limite de apresentação das propostas;\n\nd) Principais condições de crédito solicitadas pelo eventual beneficiário;\n\ne) Condições de crédito que as autoridades do país exportador tencionam conceder:\n\n- porcentagem a pagar a crédito,\n\n- duração do crédito e inicio do crédito (por exemplo, cada entrega, última entrega, envio),\n\n- periodicidade do reembolso,\n\n- se os reembolso não fossem escalonados por parcelas de igual montante espaçadas de modo regular desde a abertura até ao fim do crédito: modalidades precisas de reembolso (percentagem de cada parcela e data exacta do reembolso),\n\n- bonificação efectiva de juros, quando não se inscrever no regime de direito geral; taxas de juros, se o crédito devesse ter sido concedido sobre fundos públicos,\n\n- encargos do seguro de crédito, se derrogarem o direito geral,\n\n- âmbito e condições de qualquer apoio para custos locais;\n\nf) Razões precisas invocadas para não aplicar as normas referidas no artigo 1o ou as derrogar. A verificarem-se estas razões, devem ser obrigatoriamente mencionadas as seguintes circunstâncias: crédito de auxílio, concorrência de um país terceiro (precisando se é apoiada ou não), operação a imputar num compromisso global que foi objecto de uma consulta prévia."
+  },
+  "afe5f71188931867": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nSe se tratar de compromissos globais de crédito, o Estado-membro que dá início às consultas, comunicará os elementos seguintes:\n\na) País de destino;\n\nb) Montante global do acordo;\n\nc) Destino dos créditos:\n\n- na medida do possível, a localização,\n\n- tipo de material cujo fornecimento está eventualmente previsto,\n\n- qualidade pública ou privada das pessoas que contream os empréstimos e eventuais fiadores;\n\nd) Condições dos créditos por analogia com as informações referidas na alinea e) do artigo 4o, bem como as condições em que os contratos individuais podem ser seleccionados (por exemplo, datas limite para imputação no compromisso global, montante mínimo eventualmente previsto para os contratos);\n\ne) Razões precisas invocadas para não se aplicar as normas referidas no artigo 1o ou as derrogar. A verificarem-se, estas razões devem ser obrigatoriamente mencionadas as seguintes circunstâncias: crédito de auxílio; concorrência de um país terceiro (precisando se é apoiada ou não)."
+  },
+  "a213d05641668a9a": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nA transmissão das informações efectua-se pela seguinte ordem:\n\n- contratos individuais: letra correspondente ao Estado-membro consultante seguida de um número de ordem por ano; se o contrato se integrar num compromisso global, deve ser igualmente indicada a numeração deste compromisso global,\n\n- compromissos globais de créditos privatos: letra «X», seguida da letra correspondente ao Estado-membro consultante e de um número de ordem por ano,\n\n- créditos públicos ou mistos: letra «A» seguida da letra correspondente ao Estado-membro consultante e de um número de ordem por ano."
+  },
+  "1d164d068823d150": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nA fim de permitir uma coordenação em tempo útil da posição dos Estados-membros, as informações referidas nos artigos 4o e 5o devem ser transmitidas logo que possível após o inicio do exame quer das próprias garantias ou créditos, quer de qualquer outra decisão que, nos termos de uma regulamentação nacional ou de práticas administrativas nacionais, constitua uma condição prévia da posterior instrução das garantias e dos créditos."
+  },
+  "38f1e0f9d1a138f2": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nEm caso de alteração dos elementos que fundamentaram uma derrogação das normas ou se forem previstas novas condições essenciais de crédito, diferentes das inicialmente comunicadas pelo Estado-membro consultante, realizar-se-ao novas consultas com uma referência revista.\n\nSe, todavia, as novas condições previstas forem mais restritivas, o Estado-membro em causa só é obrigado a proceder a uma informação imediata com referência inicial."
+  },
+  "ac81e6b95246f352": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nAs informações referidas nos artigos 4o e 5o, as respostas referidas no artigo 10o, bem como as notificações no artigo 15o serão transmitidas por telex aos destinatários designados, respectivamente, por cada Estado-membro, pela Comissão e pelo Secretariado do Conselho.\n\nDe toda a correspondência relativa a uma consulta deve constar a respectiva numeração, bem como a indicação do país de destino."
+  },
+  "6a03ef8bf402f7f1": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. Os Estados-membros, bem como a Comissão, podem:\n\n- indicar que as condições que o Estado-membro consultante tenciona aplicar, não suscitam observações,\n\n- solicitar ao Estado-membro consultante precisões complementares,\n\n- formular observações e reservas ou emitir um parecer desfavorável; só é considerado parecer desfavorável, o parecer formulado expressamente como «parecer desfavorável»,\n\n- solicitar a realização de uma reunião de consultas.\n\n2. A reunião de consultas realizar-se-à obrigatoriamente, se a operação objecto de consulta foi objecto de parecer desfavorável de cinco Estados-membros.\n\n3. Sem prejuízo da aplicação do artigo 13o, o Estado-membro consultante é obrigado a suspender a sua decisão até ao termo dos prazos fixados no artigo 11o ou se for obrigatória a realização de um reunião de consulta, por força do no 2, até que seja realizada essa reunião."
+  },
+  "bf1aa51af060badc": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nO procedimento referido no no 1 do artigo 10o deve ser realizado no prazo de sete dias-calendário a contar da data da comunicação introdutória do Estado-membro consultante.\n\nEm caso de pedidos de informações complementares dirigidos ao Estado-membro consultante, o mais tardar no termo do prazo sete dias-calendário, o Estado-membro consultante deve responder o mais tardar no prazo de cinco dias-calendário.\n\nQualquer participante no procedimento dispõe de um prazo máximo de três dias úteis a contar da recepção da informação complementar para transmitir o seu parecer."
+  },
+  "513d2e00e0dcfa87": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nA falta de resposta por parte dos Estados-membros consultados e da Comissão nos prazos previstos no artigo 11o considera-se como significando a ausência de observações na acepção do no 1, primeiro travessão, do artigo 10o.\n\nSe um Estado-membro que procedeu a pedidos de informação complementares notificar os destinatários referidos no artigo 9o de que não recebeu resposta no termo do prazo fixado no segundo parágrafo do artigo 11o, a reunião de consulta é obrigatória, sendo aplicável o no 3 do artigo 10o."
+  },
+  "1a64f26b6e600cce": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nA titulo excepcional, o Estado-membro consultante pode tomar uma decisão imediata em relação à operação prevista, se considerar que esta decisão não pode continuar a ser adiada.\n\nTodavia, excepto se se tratar de créditos públicos, esta disposição não é aplicável:\n\n- se a decisão de conceder ou de garantir o crédito só se fundamenta numa concorrência intracomunitária. A possibilidade de tomar uma decisão imediata sobre a operação é admitida, no entanto, desde que um outro Estado-membro tenha já decidido apoiá-la,\n\n- na medida em que um procedimento, definido numa instância internacional e na qual todos os Estados-membros sejam parte, pareja para os participantes apenas a possibilidade de, em caso de urgência, reduzirem os prazos normais de resposta."
+  },
+  "1d2c6cdf2593ae94": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nAs reuniões de consulta realizam-se por ocasião das reuniões do Grupo de coordenação das Políticas Seguro de Crédito, das Garantias e dos Créditos Financeiros, criado pela Decisão do Conselho de 27 de Setembro de 1960, ou des reuniões dos seus subgrupos. Para além disso, a pedido de um Estado-membro, podem ser convocadas reuniões especiais entre as sessões do grupo ou dos seus sub-grupos.\n\nOs Estados-membros e a Comissão comunicarão aos destinatários referidos ao artigo 9o, se possível até quatro dias antes das reuniões de consulta, a lista dos asuntos que tencionam apresentar a discussão.\n\nAs reuniões de consulta são convocadas para asede do secretariado do Conselho."
+  },
+  "280f38395b8127d3": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nEm todos os casos, a decisão final tomada em relação a cada operação será comunicada aos outros Estados-membros. A notificação desta decisão será acompanhada da indicação dos motivos pelos quais o Estado-membro consultante não pôde eventualmente seguir as observações, reservas ou pareceres defavoráveis dos parceiros consultados."
+  },
+  "852abe129a54f269": {
+   "fragment_id": "TÍTULO II — PROCEDIMENTOS ESPECIAIS",
+   "type": "divisao",
+   "heading": "TÍTULO II — PROCEDIMENTOS ESPECIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — PROCEDIMENTOS ESPECIAIS"
+  },
+  "8b8c8a91b9b7f8f0": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nUm Estado-membro pode perguntar a um outro Estado-membro se tem conhecimento de uma operação que não foi objecto até esse momento de consulta e, nomeadamente, das condições de crédito apresentados por um exportador ou por uma instituição financeira. Se não for dada resposta a estes pedidos de precisões no prazo de sete dias-calendário o Estado-membro requerente pode considerar que o Estado-membro consultado tem conhecimento do assunto e que as condições de crédito apresentadas são tidas como existentes. O Estado-membro requerente pode fazer uma consulta nos termos do procedimento previsto no titulo I, referindo expressamente que aquela se fundamenta numa situação concorrencial tida como adquirida.\n\nSe já tiver sido feita uma consulta por um Estado-membro e se um outro Estado-membro chamado a dar o seu apoio à mesma operação consultar o primeiro sobre a sua posição definitiva, a falta de resposta a tal consulta no termo do prazo de cinco dias úteis permite que o Estado-membro requerente considere que o Estado-membro consultado apoiou a operação nas condições indicadas na consulta."
+  },
+  "2b6d007bea91b576": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nOs créditos não ligados que se afastem das normas constantes do Anexo I ou que se afastem de qualquer outra norma adoptada pelos Estados-membros implicam, no âmbito do Grupo de Coordenação das Politicas de Seguros de Crédito, das Garantias e dos Créditos Financeiros, a notificação:\n\n- dos elementos essenciais dos créditos concedidos durante o trimestre anterior,\n\n- da situação de utilização, no final do ano anterior, dos créditos não ligados."
+  },
+  "f76a66ef07a72606": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nSe um Estado-membro concluir com um país terceiro um acordo que se refira a uma possível concessão de créditos sem fixar as assuas condições precisas:\n\n- se se tratar de créditos lígados, é obrigatório comunicar, a partir da conclusão do acordo, os seus elementos essenciais aos destinatários referidos no artigo 9o,\n\n- se se tratar de créditos não ligados, as notificações previstas no artigo 17o devem igualmente incidir sobre tais créditos."
+  },
+  "4fccbccca9c42672": {
+   "fragment_id": "TÍTULO III — RELATÓRIOS PERIÓDICOS",
+   "type": "divisao",
+   "heading": "TÍTULO III — RELATÓRIOS PERIÓDICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — RELATÓRIOS PERIÓDICOS"
+  },
+  "d598113c9cd8e6f7": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nO Grupo de Coordenação das Políticas de Seguro de Crédito, das Garantias e dos Créditos Financeiros apresenta semestralmente relatórios sobre a aplicação dos procedimentos referidos nos títulos I e II.\n\nSem prejuízo destes relatórios, serão elaborados relatórios complementares, se a natureza e importância dos problemas detectados na aplicação dos procedimentos assim o exigir."
+  },
+  "0c46153f8431c2ce": {
+   "fragment_id": "ANEXO 1 — NORMAS COMUNITÁRIAS QUE NO NAO PODEM SER DERROGADAS SEM CONSULTA",
+   "type": "divisao",
+   "heading": "ANEXO 1 — NORMAS COMUNITÁRIAS QUE NO NAO PODEM SER DERROGADAS SEM CONSULTA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 1 — NORMAS COMUNITÁRIAS QUE NO NAO PODEM SER DERROGADAS SEM CONSULTA\n\nA. Duração dos créditos\n\nO crédito concedido, quer se trate de crédito de fornecedor ou de crédito financeiro, não deve exceder cinco anos contados a partir das seguintes datas:\n\n1. Bens de equipamento utilizáveis individualmente:\n\n(por exemplo locomotivas): data média ou datas efectivas nas quais o comprador deve realmente tomar posse dos bens no seu próprio pais;\n\n2. Bens de equipamento destinados a instalações ou fábricas completas:\n\ndata na qual o comprador deve realmente tomar posse da totalidade do equipamento (com exclusão das peças sobressalentes) fornecido nos termos do contrato;\n\n3. Contratos de construção ou de instalação:\n\na primeira das duas seguintes datas:\n\n- a data em que o vendedor deveria ter construído ou terminado a instalação,\n\n- doze meses a contar da data em que a totalidade do equipamento (com exclusão das peças sobressalentes) que deve ser fornecido.\n\nB. Percentagem de despesas locais\n\nDesde que se trate de créditos-garantia privados, a fracção residual a pagar a crédito pela parte local não deve exceder 5 % do montante do contrato;\n\n- todavia, não é necessário efectuar consultas em relação a contratos em que o pagamento da parte local seja efectuado o mais tardar no prazo de 3 meses contar do final a obras ou das entregas,\n\n- para efeitos da interpretação desta regra, entende-se por:\n\n- «fracção residual a pagar a crédito», a fracção que subsiste após imputação na parte local do conjunto dos adiantamentos relativos ao contrato,\n\n- «parte local», a parte do preçó contratual correspondente às despesas que o exportador prevé fazer no local para pagar aos seus empregados, a terceiros u os fornecimentos,\n\n- «contrato», qualquer tipo de contrato (de fornecimentos, de empreitada, misto),\n\n- «antiantamentos», a toalidade das somas a pagar entre a encomenda e o final das obras ou entregas.\n\nC. Contratos de locação financeira «leasing»\n\nPara efeitos da aplicação das regras da presente decisão, estes contratos são equiparados a créditos. Se a sua duração total não for expressamente limitada, esta duração é considerada como excedendo cinco anos."
+  },
+  "95721fabd3bb0bf4": {
+   "fragment_id": "ANEXO 2 — TABELA DE VALORES A UTILIZAR",
+   "type": "divisao",
+   "heading": "ANEXO 2 — TABELA DE VALORES A UTILIZAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 2 — TABELA DE VALORES A UTILIZAR\n\nCategoria I: até 750 000 UC\n\nCategoria II: de 600 000 a 1 500 000 UC\n\nCategoria III: de 1 250 000 a 3 000 000 UC\n\nCategoria IV: de 2 500 000 a 5 000 000 UC\n\nCategoria V: de 4 500 000 a 10 000 000 UC\n\nCategoria VI: de 8 000 000 a 22 000 000 UC\n\nCategoria VII: de 20 000 000 a 44 000 000 UC\n\nCategoria VIII: mais de 40 000 000 UC"
+  },
+  "e7d82a803f497d01": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1973D0391 — PT — 18.11.2006 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31973D0391) [DECISÃO DO CONSELHO](http://publications.europa.eu/resource/celex/31973D0391) [de 3 de Dezembro de 1973](http://publications.europa.eu/resource/celex/31973D0391) [relativa aos procedimentos de consulta e de informação nos domínios do seguro de crédito das garantias e dos créditos financeiros](http://publications.europa.eu/resource/celex/31973D0391) [(73/391/CEE)](http://publications.europa.eu/resource/celex/31973D0391) (JO L 346, 17.12.1973, p.1)\n\n**revogado por:**\n\n- [Decisão do Conselho de 13 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006D0789) — L 319 — 37 — 18.11.2006"
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006L0008:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0008-20060213",
+ "dre_path": null,
+ "source_lastmod": "2006-02-13",
+ "versions": [
+  {
+   "date": "2006-01-24",
+   "future": false,
+   "celex": "32006L0008",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e4870b28dc7ce089",
+    "041efd7348ea0ed4",
+    "0dd147975701b751",
+    "121bc7f29193c6b3",
+    "7e4e80cf7c199264",
+    "0aae8f80bbda6e10"
+   ]
+  }
+ ],
+ "fragments": {
+  "e4870b28dc7ce089": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Janeiro de 2006\n\nque altera, para efeitos de adaptação ao progresso técnico, os anexos II, III e V da Directiva 1999/45/CE do Parlamento Europeu e do Conselho relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros respeitantes à classificação, embalagem e rotulagem das preparações perigosas\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 1999/45/CE do Parlamento Europeu e do Conselho, de 31 de Maio de 1999, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros respeitantes à classificação, embalagem e rotulagem das preparações perigosas [([^1])](http://publications.europa.eu/resource/cellar/64f1d598-b064-4683-b7d2-527efed99279.0016.03/DOC_1#ntr1-L_2006019PT.01001201-E0001), em particular o primeiro parágrafo do artigo 20.º,\n\nConsiderando o seguinte:\n\n(1) As preparações que contenham várias substâncias classificadas no anexo I da Directiva 67/548/CEE do Conselho, de 27 de Junho de 1967, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem das substâncias perigosas [([^2])](http://publications.europa.eu/resource/cellar/64f1d598-b064-4683-b7d2-527efed99279.0016.03/DOC_1#ntr2-L_2006019PT.01001201-E0002) como cancerígenas, mutagénicas e/ou tóxicas para a reprodução são actualmente obrigadas a ser rotuladas com frases R para indicar a sua classificação nas categorias 1 ou 2 e na categoria 3. Contudo, dado que a apresentação das duas frases R pode dar azo a confusão, as preparações devem apenas ser classificadas e rotuladas com a categoria mais alta.\n\n(2) No caso das substâncias muito tóxicas para o ambiente aquático (classificadas com o símbolo «N») e qualificadas pelas frases R50 ou R50/53, actualmente são aplicados limites de concentração específicos às substâncias enumeradas no anexo I da Directiva 67/548/CEE do Conselho, para evitar a subestimação dos perigos. Esta medida cria distorções entre as preparações que contêm substâncias enumeradas no anexo I da Directiva 67/548/CEE, às quais são aplicados limites de concentração específicos, e as preparações que contêm substâncias ainda não incluídas no anexo I, mas classificadas e rotuladas provisoriamente em conformidade com o artigo 6.º da Directiva 67/548/CEE e às quais não são aplicáveis limites de concentração específicos. Consequentemente, é necessário garantir que sejam de igual forma aplicados limites de concentração específicos a todas as preparações que contenham substâncias muito tóxicas para o ambiente aquático.\n\n(3) Em 6 de Agosto de 2001, a Comissão adoptou a Directiva 2001/59/CE [([^3])](http://publications.europa.eu/resource/cellar/64f1d598-b064-4683-b7d2-527efed99279.0016.03/DOC_1#ntr3-L_2006019PT.01001201-E0003) que adapta ao progresso técnico a Directiva 67/548/CEE. A Directiva 2001/59/CE reviu os critérios do anexo VI da Directiva 67/548/CEE respeitantes à classificação e rotulagem das substâncias que empobrecem a camada de ozono. O anexo III revisto actualmente prevê apenas a atribuição do símbolo «N» em conjunto com a frase R59.\n\n(4) A terminologia usada para descrever os requisitos de embalagem e de rotulagem no anexo V da Directiva 1999/45/CE originou preocupações devido à falta de coerência. É, pois, conveniente modificar a redacção do anexo V da Directiva 1999/45/CE, para aumentar a sua precisão.\n\n(5) É necessário, por conseguinte, alterar em conformidade os anexos II, III e V da Directiva 1999/45/CEE.\n\n(6) O disposto na presente directiva está em conformidade com o parecer do Comité para a adaptação ao progresso técnico das directivas que visam a eliminação dos entraves técnicos ao comércio no sector das substâncias e preparações perigosas, criado pelo artigo 20.º da Directiva 1999/45/CE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "041efd7348ea0ed4": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs anexos II, III e V da Directiva 1999/45/CE são alterados em conformidade com o anexo da presente directiva."
+  },
+  "0dd147975701b751": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar até 1 de Março de 2007. Devem comunicar de imediato à Comissão o teor das referidas disposições e apresentar-lhe um quadro com as correspondências entre as disposições adoptadas e a presente directiva.\n\nQuando os Estados-Membros adoptarem essas disposições, elas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "121bc7f29193c6b3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "7e4e80cf7c199264": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 23 de Janeiro de 2006.\n\n***Pela Comissão***\n\n**Günter VERHEUGEN**\n\n***Vice-Presidente***\n\n---"
+  },
+  "0aae8f80bbda6e10": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/64f1d598-b064-4683-b7d2-527efed99279.0016.03/DOC_1#ntc1-L_2006019PT.01001201-E0001) [JO L 200 de 30.7.1999, p. 1](http://publications.europa.eu/resource/oj/JOL_1999_200_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2004/66/CE do Conselho ([JO L 168 de 1.5.2004, p. 35](http://publications.europa.eu/resource/oj/JOL_2004_168_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/64f1d598-b064-4683-b7d2-527efed99279.0016.03/DOC_1#ntc2-L_2006019PT.01001201-E0002) [JO 196 de 16.8.1967, p. 1](http://publications.europa.eu/resource/oj/JOP_1967_196_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2004/73/CE da Comissão ([JO L 152 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_152_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/64f1d598-b064-4683-b7d2-527efed99279.0016.03/DOC_1#ntc3-L_2006019PT.01001201-E0003) [JO L 225 de 21.8.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_225_R_TOC)."
+  }
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997R2550:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R2550-20030214",
+ "dre_path": null,
+ "source_lastmod": "2003-02-14",
+ "versions": [
+  {
+   "date": "1997-12-19",
+   "future": false,
+   "celex": "31997R2550",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "59add645d3c4bf4b",
+    "07404de41f73e1b6",
+    "d7faa0245859b237",
+    "42cbd567e3e4c83d",
+    "a1f19ee4b02c5ff5",
+    "9d32a2ca473e27fe",
+    "c9db1cd2849902a6",
+    "adafc5fa39f72908"
+   ]
+  }
+ ],
+ "fragments": {
+  "59add645d3c4bf4b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 2550/97 da Comissão de 16 de Dezembro de 1997 que altera o Regulamento (CEE) nº 2108/84 que prevê regras pormenorizadas para a determinação da malhagem das redes de pesca** *Jornal Oficial nº L 349 de 19/12/1997 p. 0001 - 0003*\n\nREGULAMENTO (CE) Nº 2550/97 DA COMISSÃO de 16 de Dezembro de 1997 que altera o Regulamento (CEE) nº 2108/84 que prevê regras pormenorizadas para a determinação da malhagem das redes de pesca\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) nº 894/97 do Conselho, de 29 de Abril de 1997, que prevê determinadas medidas técnicas de conservação dos recursos da pesca (1), e, nomeadamente, o seu artigo 3º,\n\nConsiderando que, nos termos do artigo 2º do Regulamento (CEE) nº 894/97, as malhagens mínimas são aplicáveis às artes passivas; que as regras de execução relativas à determinação da malhagem das artes de pesca rebocadas estão pouco adaptadas às características das redes utilizadas como artes passivas nem às condições de medição das malhagens destas últimas;\n\nConsiderando que é necessário especificar o tipo de bitola a utilizar para a medição das malhagens das redes utilizadas como artes passivas, bem como o método das malhagens e o cálculo da malhagem.\n\nConsiderando que, sempre que um capitão conteste o resultado de uma medição aquando de uma inspecção, é necessário prever uma nova medição.\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão das Pescas e da Aquicultura,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "07404de41f73e1b6": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO Regulamento (CEE) nº 2108/84 da Comissão (2) é alterado do seguinte modo:\n\n1. Antes do artigo 1º, é inscrito o seguinte título:\n\n«PARTE I - REDES DE ARRASTO, REDES DE CERCO DINAMARQUESAS OU REDES DE CERCO IDÊNTICAS».\n\n2. Após o artigo 6º, é inserido o seguinte título:\n\n«PARTES II - ARTES PASSIVAS"
+  },
+  "d7faa0245859b237": {
+   "fragment_id": "Artigo 6ºA — Definições",
+   "type": "artigo",
+   "heading": "Artigo 6ºA — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6ºA — Definições\n\nPara efeitos da presente Parte, entende-se por:\n\n\"arte passiva\" qualquer rede de emalhar, rede de enredar e tresmalho, constituída por um ou vários panos distintos, armada com entralhes superiores, inferiores e de ligação, e pode estar equipada com dispositivos de fundamento e boias de flutuação e sinalização."
+  },
+  "42cbd567e3e4c83d": {
+   "fragment_id": "Artigo 6ºB — Bitola",
+   "type": "artigo",
+   "heading": "Artigo 6ºB — Bitola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6ºB — Bitola\n\n1. A bitola será feita de material durável e indeformável. A construção da bitola encontra-se no anexo.\n\n2. Quando aberta, a bitola deverá medir malhagens até 300 mm. A escala será graduada com uma resolução de 1 mm, apresentando intervalos de 5 e 10 milímetros.\n\n3. As bitolas, conformes com os nºs 1 e 2, terão aposta a menção \"bitola CE\".\n\n4. As maxilas da bitola utilizadas para medir a abertura da malha deverão ter uma espessura mínima de 1 mm e máxima de 3 mm, devendo as arestas das maxilas ser curvas.\n\n5. Aquando da medição de um malha estirada, não será utilizada outra força senão a da abertura manual da bitola."
+  },
+  "a1f19ee4b02c5ff5": {
+   "fragment_id": "Artigo 6ºC — Método de medição",
+   "type": "artigo",
+   "heading": "Artigo 6ºC — Método de medição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6ºC — Método de medição\n\n1. As redes serão medidas não congeladas. O inspector seleccionará 20 malhas de rede, no caso de uma rede de trasmalho será seleccionada a parte da rede em que se encontram as malhas mais pequenas.\n\n2. O inspector medirá a abertura de cada malha, inserindo a bitola na direcção de maior comprimento, estirado a malha manualmente até que os respectivos lados da malha estejam direitos e distendidos.\n\n3. A malhagem da rede será a média aritmética em milímetros, aproximada ao milímetro seguinte, da soma dos resultados da medição de cada uma das malhas seleccionadas e medidas.\n\n4. A medição nunca incluirá as seguintes malhas:\n\n- malhas do entralhe superior ou inferior da rede fixada ao longo de um cabo ou num quadro de apoio, ou qualquer outra costura,\n\n- malhas a 2 malhas de distância dos cabos de entralhe e dos outros cabos;\n\n- malhas que tenham sido partidas ou reparadas."
+  },
+  "9d32a2ca473e27fe": {
+   "fragment_id": "Artigo 6ºD — Medição em caso de contestação",
+   "type": "artigo",
+   "heading": "Artigo 6ºD — Medição em caso de contestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6ºD — Medição em caso de contestação\n\nSempre que o o capitão/mestre conteste os resultados da medição, o inspector seleccionará e medirá novamente 20 malhas numa outra parte da rede, nos termos do disposto do artigo 6ºC. A malhagem será então novamente calculada nos termos do nº 3 do artigo 6ºC, com base nas 40 malhas medidas. Este resultado será definitivo.»"
+  },
+  "c9db1cd2849902a6": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1998.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 16 de Dezembro de 1997.\n\nPela Comissão\n\nEmma BONINO\n\nMembro da Comissão\n\n(1) JO L 132 de 23. 5. 1997, p. 5.\n\n(2) JO L 194 de 24. 7. 1984, p. 22."
+  },
+  "adafc5fa39f72908": {
+   "fragment_id": "ANEXO — Malhas com e sem nó",
+   "type": "divisao",
+   "heading": "ANEXO — Malhas com e sem nó",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Malhas com e sem nó\n\nBitola\n\nMalha aberta\n\nMalha estirada\n\n>REFERÊNCIA A UMA IMAGEN>"
+  }
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31984L0005:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01984L0005-20091027",
+ "dre_path": null,
+ "source_lastmod": "2009-10-27",
+ "versions": [
+  {
+   "date": "2005-06-11",
+   "future": false,
+   "celex": "01984L0005-20050611",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ca92afcedfc1261f",
+    "0ebe1f2e582c5a08",
+    "2bc6671fb35fd240",
+    "45d86abadd8623d2",
+    "723a1a746dcb26aa",
+    "e6d20c2b44380260",
+    "6efe63ac7d8c547a",
+    "6e784378a80fdb42",
+    "d634160cdcae7e3c"
+   ]
+  },
+  {
+   "date": "2009-10-27",
+   "future": false,
+   "celex": "01984L0005-20091027",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "3adb904ff3736072"
+   ]
+  }
+ ],
+ "fragments": {
+  "ca92afcedfc1261f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Dezembro de 1983\n\nrelativa à aproximação das legislações dos Estados-membros respeitantes ao seguro de responsabilidade civil que resulta da circulação de veículos automóveis\n\n(84/5/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, ao seu artigo 100.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/dc144aac-c1a4-4feb-967c-1756aea0c032.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/dc144aac-c1a4-4feb-967c-1756aea0c032.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/dc144aac-c1a4-4feb-967c-1756aea0c032.0018.03/DOC_1#E0003)),\n\nConsiderando que, pela Directiva 72/166/CEE ([^4^](http://publications.europa.eu/resource/cellar/dc144aac-c1a4-4feb-967c-1756aea0c032.0018.03/DOC_1#E0004)), alterada pela Directiva 72/430/CEE ([^5^](http://publications.europa.eu/resource/cellar/dc144aac-c1a4-4feb-967c-1756aea0c032.0018.03/DOC_1#E0005)), o Conselho procedeu à aproximação das legislações dos Estados membros relativas ao seguro de responsabilidade civil que resulta da circulação de veículos automóveis e à fiscalização do cumprimento da obrigação de segurar esta responsabilidade;\n\nConsiderando que a Directiva 72/166/CEE impõe, no seu artigo 3.º, que cada Estado-membro tome todas as medidas adequadas para que a reponsabilidade civil relativa à circulação de veículos cujo estacionamento habitual seja no seu território, se encontre coberta por um contrato de seguro; que os danos cobertos e as modalidades desse seguro são determinados no âmbito destas medidas;\n\nConsiderando, todavia, que, entre as legislações dos diversos Estados-membros, subsistem importantes divergências quanto à extensão desse seguro obrigatório; que estas divergências têm uma incidência directa sobre o estabelecimento e o funcionamento do mercado comum;\n\nConsiderando que se justifica o alargamento da obrigação de segurar, nomeadamente à responsabilidade por danos materiais;\n\nConsiderando que os montantes até cujo limite o seguro é obrigatório devem permitir, em toda e qualquer circunstância, que seja garantida às vítimas uma indemnização suficiente, seja qual for o Estado-membro onde o sinistro ocorra;\n\nConsiderando que é necessáro prever a existência de um organismo que garanta que a vítima não ficará sem indemnização, no caso do veículo causador do sinistro não estar seguro ou não ser identificado; que, sem prejuízo das disposições aplicadas pelos Estados-membros relativamente à natureza, subsidiária ou não, da intervenção deste organismo, bem como às normas aplicáveis en matéria de subrogação, é importante prever que a vítima de um sinistro ocorrido naquelas circunstâncias se possa dirigir directa e prioritariamente a esse organismo; que é, todavia, conveniente, dar aos Estados-membros a possibilidade de aplicarem certas exclusões limitativas no que respeita à intervenção deste organismo e de prever, no caso de danos materiais causados por um veículo não identificado, devido aos riscos de fraude, que a indemnização por tais danos possa ser limitada ou excluída;\n\nConsiderando que é do interesse das vítimas que os efeitos de certas cláusulas de exclusão sejam limitados às relações entre a seguradora e o responsável pelo ([^6^](http://publications.europa.eu/resource/cellar/dc144aac-c1a4-4feb-967c-1756aea0c032.0018.03/DOC_1#E0006))acidente; que os Estados-membros podem, todavia, prever-que, no caso de veículos roubados ou obtidos por meios violentos, o referido organismo possa intervir para indemnizar a vítima;\n\nConsiderando que, para aliviar o encargo financeiro a ser suportado por este organismo, os Estados-membros podem prever a aplicação de certas franquias, sempre que o mesmo intervenha para indemnizar danos materiais causados por veículos não seguros, ou, se for caso disso, por veículos roubados ou obtidos por meios violentos;\n\nConsiderando que é conveniente conceder aos membros da família do tomador do seguro, do condutor ou de toda e qualquer outra pessoa responsável, uma protecção comparável à de outros terceiros vítimas, pelo menos no que respeita aos danos corporais;\n\nConsiderando que abolição da fiscalização do seguro está subordinada à concessão, pelo Serviço Nacional de Seguros do país visitado, de uma garantia de indemnização pelos danos causados por veículos que tenham o seu estacionamento habiual num outro Estado-membro; que, para determinar se um veículo temo o seu estacionamento habitual num dado Estado-membo, o critério mais simples é o da chapa de matrícula desse mesmo Estado; que, consequentemente, convém alterar neste sentido o n.º 4, primeiro travessão, do artigo 1.º da Directiva 72/166/CEE;\n\nConsiderando que, dada a situação actual de certos Estados-membos em relação, por um lado, aos montantes mínimos e, por outro, à cobertura e às franquias aplicáveis pelo organismo acima referido em matéria de danos materiais, é conveniente estabelecer medidas transitórias quanto à aplicação progressiva nesses Estados-membros das disposições da presente Directiva relativas aos montantes mínimos e à indemnização dos danos materiais a ser concedida pelo referido organismo;\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "0ebe1f2e582c5a08": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O seguro referido no n.º 1 do artigo 3.º da Directiva 72/166/CEE deve, obrigatoriamente, cobrir danos materiais e pessoais.\n\n2. Sem prejuízo de montantes de garantia superiores eventualmente estabelecidos pelos Estados-Membros, cada Estado-Membro deve exigir que o seguro seja obrigatório pelo menos no que se refere aos seguintes montantes:\n\na) Relativamente a danos pessoais, um montante mínimo de 1 000 000 de euros por vítima ou de 5 000 000 de euros por sinistro, independentemente do número de vítimas;\n\nb) Relativamente a danos materiais, 1 000 000 de euros por sinistro, independentemente do número de vítimas.\n\nSe necessário, os Estados-Membros podem estabelecer um período transitório de cinco anos, no máximo, a contar da data do início da aplicação da Directiva 2005/14/CE do Parlamento Europeu e do Conselho, de 11 de Maio de 2005, que altera as Directivas 72/166/CEE, 84/5/CEE, 88/357/CEE e 90/232/CEE do Conselho e a Directiva 2000/26/CE relativas ao seguro de responsabilidade civil resultante da circulação de veículos automóveis ([^7^](http://publications.europa.eu/resource/cellar/dc144aac-c1a4-4feb-967c-1756aea0c032.0018.03/DOC_1#E0013)), para adaptar os respectivos montantes mínimos de cobertura aos montantes previstos no presente número.\n\nOs Estados-Membros que estabeleçam esse período de transição devem informar a Comissão do facto e indicar a duração desse período.\n\nNo prazo de 30 meses a contar da data do início da aplicação da Directiva 2005/14/CE, os Estados-Membros deverão elevar os montantes de garantia para pelo menos metade dos níveis previstos no presente número.\n\n3. De cinco em cinco anos a contar da data de entrada em vigor da Directiva 2005/14/CE ou do termo de qualquer dos períodos de transição previstos no n.º 2, os montantes referidos no citado número serão revistos, sob proposta da Comissão, em função do índice europeu de preços no consumidor (IEPC), nos termos do Regulamento (CE) n.º 2494/95 do Conselho, de 23 de Outubro de 1995, relativo aos índices harmonizados de preços no consumidor ([^8^](http://publications.europa.eu/resource/cellar/dc144aac-c1a4-4feb-967c-1756aea0c032.0018.03/DOC_1#E0014)).\n\nOs montantes serão automaticamente ajustados. Devem ser aumentados em função da taxa de variação percentual indicada pelo IEPC para o período de referência, ou seja, o período de cinco anos imediatamente anterior à revisão, e arredondados para um valor múltiplo de 10 000 euros.\n\nA Comissão comunicará os montantes ajustados ao Parlamento Europeu e ao Conselho, e garantirá a respectiva publicação no *Jornal Oficial da União Europeia*.\n\n4. Cada Estado-Membro deve criar ou autorizar a criação de um organismo que tenha por função reparar, pelo menos dentro dos limites da obrigação de seguro, os danos materiais e pessoais causados por veículos não identificados ou relativamente aos quais não tenha sido satisfeita a obrigação de seguro referida no n.º 1.\n\nO primeiro parágrafo não prejudica o direito que assiste aos Estados-Membros de atribuírem ou não à intervenção desse organismo um carácter subsidiário, nem o direito de regulamentarem os direitos de regresso entre este organismo e o responsável ou responsáveis pelo sinistro e outras seguradoras ou organismos de segurança social obrigados a indemnizar a vítima pelo mesmo sinistro. Todavia, os Estados-Membros não permitirão que o organismo em questão subordine o pagamento da indemnização à condição de a vítima provar, seja por que meio for, que a pessoa responsável não pode ou não quer pagar.\n\n5. A vítima pode, em qualquer caso, dirigir-se directamente ao organismo que, com base nas informações fornecidas a seu pedido pela vítima, é obrigado a dar-lhe uma resposta fundamentada quanto ao pagamento de indemnizações.\n\nOs Estados-Membros podem, todavia, excluir o pagamento de indemnizações por este organismo, relativamente a pessoas que, por sua livre vontade, se encontravam no veículo causador do sinistro, sempre que o organismo possa provar que tinham conhecimento de que o veículo não tinha seguro.\n\n6. Os Estados-Membros podem limitar ou excluir o pagamento de indemnizações pelo organismo relativamente a danos materiais causados por veículos não identificados.\n\nContudo, quando o organismo tiver pago uma indemnização por danos pessoais significativos a qualquer vítima do mesmo acidente no qual o dano material foi causado por um veículo não identificado, os Estados-Membros não podem excluir o pagamento da indemnização pelo dano patrimonial com base no facto de o veículo não ter sido identificado. No entanto, os Estados-Membros podem fixar uma franquia não superior a 500 euros oponível à vítima desse dano material.\n\nOs termos em que os danos pessoais devem ser considerados como significativos serão determinados de acordo com a legislação ou as disposições administrativas do Estado-Membro em que o sinistro teve lugar. Nesta matéria, os Estados-Membros poderão ter em conta, nomeadamente, se os danos sofridos exigiram ou não a prestação de cuidados hospitalares.\n\n7. Cada Estado-Membro pode aplicar ao pagamento de indemnizações pelo referido organismo as respectivas disposições legislativas, regulamentares e administrativas, sem prejuízo de qualquer outra prática mais favorável às vítimas."
+  },
+  "2bc6671fb35fd240": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Cada Estado-membro tomará as medidas adequadas para que qualquer disposição legal ou cláusula contratual contida numa apólice de seguro, emitida em conformidade com o n.º 1 do artigo 3.º da Directiva 72/166/CEE, que exclua do seguro a utilização ou a condução de veículos por\n\n— pessoas que não estejam expressa ou implicitamente autorizadas para o fazer;\n\n— ou\n\n— pessoas que não sejam titulares de uma carta de condução que lhes permita conduzir o veículo em causa;\n\n— ou\n\n— pessoas que não cumpram as obrigações legais de carácter técnico relativamente ao estado e condições de segurança do veículo em causa,\n\nseja, por aplicação do n.º 1 do artigo 3.º da Directiva 72/ 166/CEE, considerada sem efeito no que se refere ao recurso de terceiros vítimas de um sinistro.\n\nTodavia, a disposição ou a cláusula a que se refere o primeiro travessão do n.º 1 poder ser oponível às pessoas que, por sua livre vontade se encontrassem no veículo causador do sinistro, sempre que a seguradora possa provar que elas tinham conhecimento de que o veículo tinha sido roubado.\n\nOs Estados-membros têm a faculdade — relativamente aos sinistros ocorridos no seu território — de não aplicar o disposto no n.º 1 no caso de, e na medida em que, a vítima possa obter a indemnização pelo seu prejuízo através de um organismo de segurança social.\n\n2. No caso de veículos roubados ou obtidos por meios violentos, os Estados-membros podem estabelecer que o organismo previsto no n.º 4 do artigo 1.º intervirá em substituição da seguradora nas condições estabelecidas no n.º 1 do presente artigo; se o veículo tiver o seu estacionamento habitual num outro Estado-membro, este organismo não terá possibilidade de recurso contra qualquer organismo desse Estado-membro.\n\nOs Estados-membros que, no caso de veículos roubados ou obtidos por meios violentos, prevejam a intervenção do organismo referido no n.º 4 do artigo 1.º podem fixar uma franquia para os danos materiais oponível à vítima não superior a 250 ECUs."
+  },
+  "45d86abadd8623d2": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs membros da família do tomador do seguro, do condutor ou de qualquer outra pessoa cuja responsabilidade civil decorrente de um sinistro se encontre coberta pelo seguro mencionado do n.º 1 do artigo 1.º não podem por força desse parentesco, ser excluídos da garantia do seguro, relativamente aos danos corporais sofridos."
+  },
+  "723a1a746dcb26aa": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO n.º 4, primeiro travessão, do artigo 1.º da Directiva 72/166/CEE passa a ter a seguinte redacção:\n\n«— território de cujo Estado o veículo é portador de uma chapa de matrícula, ou»"
+  },
+  "e6d20c2b44380260": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-membros alterarão as suas disposições nacionais para darem cumprimento a presente Directiva o mais tardar até 31 de Dezembro de 1987. Desse facto informarão imediatamente a Comissão.\n\n2. As disposições alteradas nos termos acima referidos serão aplicadas o mais tardar em 31 de Dezembro de 1988.\n\n3. Por derrogação do n.º 2:\n\na) O Reino de Espanha, a República Helénica e a República Portuguesa dispõem do período até 31 de Dezembro de 1995 para aumentarem os montantes das garantias até aos montantes previstos no n.º 2 do artigo 1.º Se fizerem uso dessa faculdade, os montantes de garantia devem, em relação aos montantes previstos no referido artigo, atingir:\n\n— uma percentagem superior a 16 %, o mais tardar em 31 de Dezembro de 1988,\n\n— uma percentagem de 31 %, o mais tardar em 31 de Dezembro de 1992;\n\nb) Os outros Estados-membros dispõem de um prazo até 31 de Dezembro de 1990 para aumentar os montantes de garantia para os valores previstos no n.º 2 do artigo 1.º. Os Estados-membros que fizerem uso dessa faculdade devem, dentro do prazo referido no n.º l, aumentar as garantias pelo menos em metada da diferança entre os montantes de garantia em vigor em 1 de Janeiro de 1984 e os montantes previstos no n.º 2 do artigo 1.º\n\n4. Por derrogação do n.º 2:\n\na) A República Italiana pode prever que a franquia referida no n.º 4, quinto parágrafo, do artigo 1.º ascenda a 1 000 ECUs até 31 de Dezembro de 1990;\n\nb) O Reino de Espanha, a República Helénica, a Irlanda e a República Portuguesa podem prever que:\n\n— a intervenção do organismo referido no n.º 4 do artigo 1.º para a indemnização por danos materiais seja excluída até 31 de Dezembro de 1992,\n\n— a franquia referida no n.º 4, quinto parágrafo, do artigo 1.º e a franquia referida no n.º 2, segundo parágrafo, do artigo 2.º elevam-se a 1 500 ECUs até 31 de Dezembro de 1995."
+  },
+  "6efe63ac7d8c547a": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A Comissão apresentará ao Conselho, o mais tardar até 31 de Dezembro de 1989, um relatório sobre a situação nos Estados-membros que beneficiem das medidas transitórias previstas no n.º 3, alínea a) e n.º 4, alínea b), do artigo 5.º propondo, se for caso disso, a revisão dessas medidas, tendo em conta e evolução da situação.\n\n2. A Comissão apresentará ao Conselho, o mais tardar até 31 de Dezembro de 1993, um relatório sobre a situação da aplicação da presente directiva, formulando, se for caso disso, propostas, nomeadamente no que respeita à adaptação dos montantes previstos nos n.^os^ 2 e 4 do artigo 1.º"
+  },
+  "6e784378a80fdb42": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-membros são destinatários da presente directiva.\n\n---"
+  },
+  "d634160cdcae7e3c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/dc144aac-c1a4-4feb-967c-1756aea0c032.0018.03/DOC_1#src.E0001)) JO n.º C 214 de 21. 8. 1980, e JO n.º C 78 de 30. 3. 1982, p. 17.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/dc144aac-c1a4-4feb-967c-1756aea0c032.0018.03/DOC_1#src.E0002)) JO n.º C 287 de 9. 11. 1981, p. 44.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/dc144aac-c1a4-4feb-967c-1756aea0c032.0018.03/DOC_1#src.E0003)) JO n.º C 138 de 9. 6. 1981, p. 15.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/dc144aac-c1a4-4feb-967c-1756aea0c032.0018.03/DOC_1#src.E0004)) JO N.º L 103 de 2. 5. 1972, p. 2.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/dc144aac-c1a4-4feb-967c-1756aea0c032.0018.03/DOC_1#src.E0005)) JO n.º L 291 de 28. 12. 1972, p. 161.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/dc144aac-c1a4-4feb-967c-1756aea0c032.0018.03/DOC_1#src.E0006)) JO n.º L 379 de 30. 12. 1978, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/dc144aac-c1a4-4feb-967c-1756aea0c032.0018.03/DOC_1#src.E0013)) JO L 149 de 11.6.2005, p. 14.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/dc144aac-c1a4-4feb-967c-1756aea0c032.0018.03/DOC_1#src.E0014)) JO L 257 de 27.10.1995, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1)."
+  },
+  "3adb904ff3736072": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1984L0005 — PT — 27.10.2009 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31984L0005) [SEGUNDA DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31984L0005) [de 30 de Dezembro de 1983](http://publications.europa.eu/resource/celex/31984L0005) [relativa à aproximação das legislações dos Estados-membros respeitantes ao seguro de responsabilidade civil que resulta da circulação de veículos automóveis](http://publications.europa.eu/resource/celex/31984L0005) [(84/5/CEE)](http://publications.europa.eu/resource/celex/31984L0005) (JO L 008, 11.1.1984, p.17)\n\n**revogado por:**\n\n- [Directiva 2009/103/CE do Parlamento Europeu e do Conselho de 16 de Setembro de 2009](http://publications.europa.eu/resource/celex/32009L0103) — L 263 — 11 — 7.10.2009"
+  }
+ }
+}

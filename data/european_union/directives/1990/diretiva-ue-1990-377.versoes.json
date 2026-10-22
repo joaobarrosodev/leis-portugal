@@ -1,0 +1,391 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990L0377:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0377-20081127",
+ "dre_path": null,
+ "source_lastmod": "2008-11-27",
+ "versions": [
+  {
+   "date": "1990-07-17",
+   "future": false,
+   "celex": "31990L0377",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "19be831bdb41f5e0",
+    "fdd6c25a025d418b",
+    "d847e93ae4cd9dc1",
+    "77caa1ca5bef8855",
+    "5d55b54faaae57ab",
+    "9f84b18c3db831e8",
+    "55211268432efd86",
+    "87731f9859d9fce5",
+    "ad6940758519bdb7",
+    "a28685c42d7f9c38",
+    "b1c450d8edc0270e",
+    "3ea9536c8fe1a838",
+    "410e098876584c42"
+   ]
+  },
+  {
+   "date": "2007-06-29",
+   "future": false,
+   "celex": "01990L0377-20070629",
+   "acts": [
+    {
+     "id": "eu:celex:31993L0087:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31993L0087"
+    },
+    {
+     "id": "eu:celex:32003R1882:por",
+     "title": "REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1882"
+    },
+    {
+     "id": "eu:celex:32006L0108:por",
+     "title": "M3",
+     "published": null,
+     "celex": "32006L0108"
+    },
+    {
+     "id": "eu:celex:32007D0394:por",
+     "title": "DECISÃO DA COMISSÃO de 7 de Junho de 2007",
+     "published": null,
+     "celex": "32007D0394"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita ANEXO I",
+    "Adita PREÇOS DO GÁS",
+    "Adita ANEXO II",
+    "Adita PREÇOS DA ELECTRICIDADE",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º — A Comissão apresentará anualmente ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social um",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime ANEXO I DISPOSIÇÕES PARTICULARES RELATIVAS AO GÁS",
+    "Suprime ANEXO II DISPOSIÇÕES PARTICULARES RELATIVAS À ELECTRICIDADE"
+   ],
+   "fragments": [
+    "a7be2984b692d4a6",
+    "0d40975e78fcbf88",
+    "c0b5df2127780526",
+    "b933df3332980713",
+    "22aebb39d687f216",
+    "252778283eb8b64f",
+    "ec12dea2cd5da188",
+    "13f571de329deaa5",
+    "001bf523ef584e96",
+    "32d308fd2401191a",
+    "04406bc216af5287",
+    "d664376e2a8dcecd",
+    "14238af0d6ee34d6",
+    "852174729551523b",
+    "a8e971ff70a789b2",
+    "63baef57b7e82a01"
+   ]
+  },
+  {
+   "date": "2008-11-27",
+   "future": false,
+   "celex": "01990L0377-20081127",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime ANEXO I",
+    "Suprime PREÇOS DO GÁS",
+    "Suprime ANEXO II",
+    "Suprime PREÇOS DA ELECTRICIDADE",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "1964950d782e3427"
+   ]
+  }
+ ],
+ "fragments": {
+  "19be831bdb41f5e0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 90/377/CEE do Conselho, de 29 de Junho de 1990, que estabelece um processo comunitário que assegure a transparência dos preços no consumidor final industrial de gás e electricidade** *Jornal Oficial nº L 185 de 17/07/1990 p. 0016 - 0024 Edição especial finlandesa: Capítulo 15 Fascículo 9 p. 0236 Edição especial sueca: Capítulo 15 Fascículo 9 p. 0236*\n\nDIRECTIVA DO CONSELHO de 29 de Junho de 1990 que estabelece um processo comunitário que assegure a transparência dos preços no consumidor final industrial de gás e electricidade (90/377/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 213o.,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a transparência dos preços da energia,\n\nna medida em que reforça as condições que garantem que\n\na concorrência não seja falseada no mercado comum, é essencial para a realização e o bom funcionamento do mercado interno da energia;\n\nConsiderando que esta transparência pode contribuir para eliminar as discriminações aplicadas em relação aos consumidores, facilitando-lhes a livre escolha entre fontes de energia e entre fornecedores;\n\nConsiderando que a transparência actual varia segundo as fontes de energia e segundo os países e regiões da Comunidade, o que compromete a realização do mercado interno da energia;\n\nConsiderando, no entanto, que os preços que a indústria da Comunidade paga pela energia consumida constituem um dos factores da sua competitividade devendo, por isso, ser preservada a sua confidencialidade;\n\nConsiderando que o sistema de consumidores-tipo utilizado pelo Serviço de Estatísticas das Comunidades Europeias (SECE) nas suas publicações de preços e o sistema de preços-referência que será utilizado relativamente aos grandes consumidores industriais de electricidade permitem que a transparência não constitua um obstáculo à protecção da confidencialidade;\n\nConsiderando que convém alargar as categorias de consumidores utilizadas pelo SECE até aos limites superiores em que a representatividade dos consumidores continua a ser assegurada;\n\nConsiderando que, procedendo deste modo, se alcançará a transparência dos preços no consumo final sem que tal ponha em perigo a necessária confidencialidade dos contratos; que, a fim de respeitar a confidencialidade, é preciso haver pelo menos três consumidores numa determinada categoria de consumidores para que um preço possa ser publicado;\n\nConsiderando que tais informações, que dizem respeito ao gás e à electricidade consumidos pela indústria em utilizações energéticas finais, permitirão também a comparação com as outras fontes de energia (petróleo, carvão, energia fósseis e renováveis) e com os outros consumidores;\n\nConsiderando que as empresas que garantem o fornecimento de gás e electricidade bem como os consumidores industriais de gás ou electricidade continuam, independentemente da aplicação da presente directiva, sujeitos à aplicação das regras de concorrência do Tratado e que, assim, a Comissão pode exigir a comunicação dos preços e das condições de venda;\n\nConsiderando que o conhecimento dos sistemas de preços em vigor faz parte da transparência dos preços;\n\nConsiderando que o conhecimento da repartição dos consumidores por categorias e das respectivas partes de mercado faz igualmente parte desta transparência;\n\nConsiderando que a comunicação da Comissão ao SECE dos preços e condições de venda aos consumidores, acompanhada pela comunicação dos sistemas de preços em vigor e da repartição dos consumidores por categorias de consumo, deve permitir que a Comissão se mantenha informada de modo a determinar, quando necessário, as acções ou propostas adequadas tendo em conta a situação do mercado interno da energia;\n\nConsiderando que a fiabilidade dos dados comunicados ao SECE será melhor garantida se as próprias empresas procederem à elaboração desses dados;\n\nConsiderando que o conhecimento da fiscalidade e das taxas parafiscais existentes em cada Estado-membro é importante para assegurar a transparência dos preços;\n\nConsiderando que convém prever meios que permitam controlar a fiabilidade dos dados comunicados ao SECE;\n\nConsiderando que a realização da transparência pressupõe a publicação e a mais ampla difusão possível dos preços e sistemas de preços junto dos consumidores;\n\nConsiderando que, para a aplicação da transparência dos preços da energia, importa tomar como base os métodos e técnicas reconhecidos, elaborados e aplicados pelo SECE, tanto ao nível do tratamento e do controlo da validade dos dados como ao nível da sua publicação;\n\nConsiderando que, na perspectiva da realização do mercado interno da energia, importa tornar operacional o sistema da transparência dos preços o mais brevemente possível;\n\nConsiderando que a aplicação uniforme da presente directiva só poderá ser efectuada em todos os Estados-membros quando o mercado de gás natural, nomeadamente no que se refere às infra-estruturas, tiver atingido um nível de desenvolvimento suficiente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "fdd6c25a025d418b": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nOs Estados-membros tomarão as medidas necessárias para que as empresas que asseguram o fornecimento de gás e de electricidade aos consumidores finais da indústria, tal como definidos nos anexos I e II, comuniquem ao SECE, nas formas previstas no artigo 3o.:\n\n1. Os preços e condições de venda aos consumidores industriais finais de gás e electricidade;\n\n2. Os sistemas de preços em vigor;\n\n3. A repartição dos consumidores e dos volumes correspondentes por categorias de consumo, de modo a assegurar a representatividade dessas categorias a nível nacional."
+  },
+  "d847e93ae4cd9dc1": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. No dia 1 de Janeiro e no dia 1 de Julho de cada ano, as empresas indicadas no artigo 1o. procederão ao levantamento dos dados previstos nos pontos 1 e 2 do mesmo artigo. Estes dados, elaborados nos termos do disposto no artigo 3o., serão comunicados ao SECE e às autoridades competentes dos Estados-membros no prazo de dois meses.\n\n2. Com base nos dados referidos no no. 1, o SECE publicará em Maio e Novembro de cada ano, sob forma adequada, os preços do gás e da electricidade para utilização industrial nos Estados-membros e os sistemas de preços que serviram de base à sua elaboração.\n\n3. A informação prevista no no. 3 do artigo 1o. será comunicada de dois em dois anos ao SECE e às autoridades competentes dos Estados-membros. A primeira comunicação dirá respeito à situação em 1 de Janeiro de 1991. Esta informação não se destina a ser publicada."
+  },
+  "77caa1ca5bef8855": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nAs disposições de aplicação relativas à forma e ao conteúdo, bem como a todas as outras características das informações previstas no artigo 1o., constam dos anexos I e II."
+  },
+  "5d55b54faaae57ab": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nO SECE fica obrigado a não divulgar os dados que lhe forem transmitidos nos termos do artigo 1o. e que, pela sua natureza, possam inserir-se no âmbito do segredo comercial das empresas. Esses dados estatísticos confidenciais transmitidos ao SECE apenas serão acessíveis aos funcionários deste serviço e só poderão ser utilizados para fins exclusivamente estatísticos.\n\nNo entanto esta disposição não obsta à publicação desses dados sob forma agregada que não permita identificar as transacções comerciais individuais."
+  },
+  "9f84b18c3db831e8": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nNo caso de verificar anomalias ou incoerências estatisticamente significativas nos dados comunicados nos termos da presente directiva, o SECE pode solicitar às instâncias nacionais que lhe permitam tomar conhecimento dos dados desagregados pertinentes e dos métodos de cálculo ou de avaliação em que se baseiam os dados agregados, a fim de apreciar e, se necessário, corrigir as informações consideradas anormais."
+  },
+  "55211268432efd86": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nA Comissão introduzirá nos anexos da presente directiva as alterações tornadas necessárias pela identificação de problemas específicos. Todavia, tais alterações apenas poderão incidir sobre os elementos técnicos dos anexos, não podendo ser susceptíveis de alterar a economia geral do sistema."
+  },
+  "87731f9859d9fce5": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nNo que se refere às alterações a que se refere o artigo 6o., a Comissão será assistida por um comité consultivo composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\nO representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa, se necessário procedendo a uma votação.\n\nEsse parecer deve ser exarado em acta; além disso, cada Estado-membro tem o direito de solicitar que a sua posição conste da acta.\n\nA Comissão tomará na melhor conta o parecer emitido pelo comité. O comité será por ela informado do modo como tomou em consideração o seu parecer."
+  },
+  "ad6940758519bdb7": {
+   "fragment_id": "Artigo 8º — A Comissão apresentará anualmente ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social um",
+   "type": "artigo",
+   "heading": "Artigo 8º — A Comissão apresentará anualmente ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social um",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º — A Comissão apresentará anualmente ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social um\n\nrelatório de síntese sobre a aplicação da presente directiva."
+  },
+  "a28685c42d7f9c38": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nOs Estados-membros tomarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até, o mais tardar, 1 de Julho de 1991. Desse facto informarão imediatamente a Comissão.\n\nNo que se refere ao gás natural, a presente directiva apenas será posta em aplicação em cada Estado-membro cinco anos após a introdução deste tipo de energia no mercado nacional. A data de introdução desta fonte de energia no mercado nacional será objecto de uma declaração explícita e imediata dirigida à Comissão pelo Estado-membro em causa."
+  },
+  "b1c450d8edc0270e": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 29 de Junho de 1990.\n\nPelo Conselho\n\nO Presidente\n\nM. SMITH\n\n(1) JO no. C 257 de 10. 10. 1989, p. 7.(2)\n\nJO no. C 149 de 18. 6. 1990.(3)\n\nJO no. C 75 de 26. 3. 1990, p. 18."
+  },
+  "3ea9536c8fe1a838": {
+   "fragment_id": "ANEXO I DISPOSIÇÕES PARTICULARES RELATIVAS AO GÁS",
+   "type": "divisao",
+   "heading": "ANEXO I DISPOSIÇÕES PARTICULARES RELATIVAS AO GÁS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I DISPOSIÇÕES PARTICULARES RELATIVAS AO GÁS\n\n1. São abrangidos dois tipos de gás:\n\na) gás natural;\n\nb) gas manufacturado (¹).\n\n2. Se estes dois tipos de gás forem distribuídos na mesma zona urbana ou na mesma região, devem ser apresentados dados relativamente a cada um deles, excepto se o seu consumo for inferior a 10 % do consumo total de gás manufacturado nas zonas ou regiões referidas no no. 11.\n\n3. Apenas é tomada em consideração a distribuição por canalização.\n\n4. Os preços a apresentar são os pagos pelo consumidor final.\n\n5. As utilizações tomadas em consideração são todas as utilizações industriais.\n\n6. São excluídos do sistema os consumidores de gás cujo consumo:\n\na) Se destine à produção de electricidade em centrais eléctricas públicas;\n\nb)\n\nSe destine a fins não energéticos (por exemplo indústria química);\n\nc)\n\nSeja superior a 4 186 000 GJ/ano (= 1 163 GWh/ano).\n\n7. Os preços registados devem basear-se num sistema de consumidores-tipo definidos basicamente pelo nível e modulação (²) (ou factor de carga) do respectivo consumo.\n\n8. As outras características que podem eventualmente contribuir para a fixação dos preços (por exemplo interruptibilidade) serão estabelecidas para cada caso, adoptando-se sempre a solução verificada mais frequentemente na prática.\n\n9. Os preços devem incluir o aluguer do contador, a taxa fixa e a taxa de utilização. O custo inicial de ligação do utilizador não deve ser incluído.\n\n10. Foram seleccionados os seguintes consumidores-tipo industriais, codificados de I1 a I5:\n\n.\n\nConsumo anual\n\nModulação\n\nI1-1 418,60 GJ (ou 116 300, KWh)\n\nmodulação não prescrita (*)\n\nI2-1 4 186, GJ\n\n(ou\n\n1 163 000,\n\nKWh)\n\n200 dias horas\n\nI3-1 41 860, GJ\n\n(ou\n\n11,63\n\nGWh)\n\n200 dias 1 600 horas\n\nI3-2 41 860, GJ\n\n(ou\n\n11,63\n\nGWh)\n\n250 dias 4 000 horas\n\nI4-1 418 600, GJ\n\n(ou\n\n116,3\n\nGWh)\n\n250 dias 4 000 horas\n\nI4-2 418 600, GJ\n\n(ou\n\n116,3\n\nGWh)\n\n330 dias 8 000 horas\n\nI5-4 4 186 000, GJ\n\n(ou\n\n1 163,\n\nGWh)\n\n330 dias 8 000 horas\n\n(*) Se necessário 115-200 dias.\n\nNão estão abrangidos no âmbito de aplicação da presente directiva o gás de petróleo liquefeito (butano, propano), o gás de coqueria nem o gás de altos-fornos.\n\nQa\n\n=\n\nvolume anual do consumo,\n\nQdmáx\n\n=\n\ndébito diário máximo,\n\nQhmáx\n\n=\n\ndébito horário máximo.\n\n11. O levantamento dos preços deve ser efectuado nas seguintes zonas ou regiões:\n\n- Bélgica:\n\nBruxelas;\n\n- Dinamarca:\n\nCopenhaga;\n\n- República Federal\n\nda Alemanha:\n\nHamburgo, Hanover, Weser-Ems, Dortmund, Dusseldórfia, Francoforte\n\nEstugarda, Munique;\n\n- Espanha\n\nMadrid, Barcelona, Valência, o Norte e o Leste;\n\n- França:\n\nLille, Paris, Estrasburgo, Marselha, Lião, Toulouse;\n\n- Irlanda:\n\nDublim;\n\n- Itália:\n\nMilão, Turim, Génova, Roma, Nápoles;\n\n- Luxemburgo:\n\nCidade do Luxemburgo;\n\n- Países Baixos:\n\nRoterdão;\n\n- Portugal:\n\nLisboa;\n\n- Reino Unido:\n\nLondres, Leeds, Birmingham.\n\n12. Os preços registados são os preços baseados nas tarifas, contratos, condições e regras em vigor no início de cada período semestral (Janeiro e Julho) incluindo os eventuais descontos.\n\n13. Na eventualidade da aplicação de várias tarifas, será tomada em consideração a tarifa mais vantajosa para o consumidor, depois de eliminadas as tarifas que, na prática, não são utilizadas ou que se aplicam apenas a um número insignificante de utilizadores.\n\n14. Se apenas existirem quase-tarifas, contratos especiais ou preços negociados livremente, deverá ser registado o preço mais frequentemente praticado (o mais representativo das condições de fornecimento praticadas).\n\n15. Os preços devem ser indicados na moeda nacional por unidade física de gás (1). A unidade de energia utilizada será medida com base no poder calorífico superior (PCS), tal como é habitual na indústria do gás.\n\n16. Devem ser indicados dois níveis de preços (2):\n\n- o preço excluindo taxas e impostos,\n\n- o preço excluindo o IVA recuperável, mas incluindo todas as taxas e impostos.\n\n17. Devem ser indicados igualmente os níveis e métodos de cálculo das taxas e impostos nacionais, regionais ou locais, aplicados à venda de gás ao consumidor.\n\n18. Deve ser anexada uma explicação suficientemente pormenorizada para ilustrar com exactidão o sistema de preços. As alterações eventualmente introduzidas desde o último registo devem ser objecto de especial destaque.\n\n19. Nos Estados-membros em que uma única empresa de gás efectua praticamente todas as vendas industriais do país as informações devem ser comunicadas por essa empresa. Nos Estados-membros em que várias empresas assegurem a distribuição a uma ou várias regiões, as informações devem ser comunicadas por um organismo estatístico independente.\n\n20. Tendo em vista o respeito da confidencialidade, os dados relativos aos preços só serão comunicados desde que haja, no Estado-membro ou na região em causa, pelo menos três consumidores em cada uma das categorias referidas no no. 10.\n\n(1) Entende-se por «gás manufacturado» uma energia derivada, manufacturada a partir do carvão, de produtos petrolíferos ou ainda de gás natural submetido a um processo de cracking, reformado ou misturado.(2) A modulação diária é o número de dias necessário para atingir o consumo anual total com o débito diário máximo:(3)\n\nmd = Qdmax\n\nmd =\n\nQa\n\nQdmax\n\nA modulação horária é o número de horas necessário para atingir o consumo anual total com o débito horário máximo:(4)\n\nmh = Qhmax\n\nmh =\n\nQa\n\nQhmax\n\nNas fórmulas acima indicadas:(5) Se for utilizado o metro cúbico, é necessário definir o seu conteúdo energético em GJ, KWh ou, até 1999, em therm.(6)\n\nO preço excluindo as taxas e impostos é obtido directamente a partir das tarifas ou dos contratos. O preço excluindo o IVA recuperável inclui outras taxas e impostos específicos, quando estes forem aplicáveis."
+  },
+  "410e098876584c42": {
+   "fragment_id": "ANEXO II DISPOSIÇÕES PARTICULARES RELATIVAS À ELECTRICIDADE",
+   "type": "divisao",
+   "heading": "ANEXO II DISPOSIÇÕES PARTICULARES RELATIVAS À ELECTRICIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II DISPOSIÇÕES PARTICULARES RELATIVAS À ELECTRICIDADE\n\nA comunicação das informações relativas à electricidade prevista pela presente directiva deve conter os seguintes elementos:\n\nII. Levantamento do consumidor de referência (consumidores com uma potência máxima solicitada de 10 MW)\n\n1. O levantamento actual dos preços da electricidade facturados aos consumidores-tipo de referência da Comunidade efectuado pela Comissão deve ser alargado de modo a incluir duas categorias de consumidores industriais de referência com uma potência máxima solicitada de 10 MW e deve ser incluído na presente directiva.\n\n2.\n\nNos Estados-membros em que se aplica uma tarifa nacional única, o levantamento dos preços da electricidade deve ser efectuado apenas numa zona. Nos Estados-membros em que as tarifas variam de região para região, o levantamento deve ser efectuado numa amostra representativa, tal como a seguir se indica:\n\n- Bélgica:\n\ntodo o país;\n\n- República Federal\n\nda Alemanha:\n\nHamburgo, Hanover, Dusseldórfia, Francoforte, Estugarda, Munique,\n\nZona Oeste, Zona Sul;\n\n- Dinamarca:\n\ntodo o país;\n\n- Espanha:\n\nMadrid;\n\n- França:\n\nLille, Paris, Marselha, Lião, Toulouse, Estrasburgo;\n\n- Grécia:\n\nAtenas;\n\n- Irlanda:\n\nDublim;\n\n- Itália:\n\nItália do Norte e Central, Itália do Sul e ilhas;\n\n- Luxemburgo:\n\ntodo o país;\n\n- Países Baixos:\n\nRoterdão (GEB), Holanda do Norte (PEN), Brabante do Norte (PNEM);\n\n- Portugal:\n\nLisboa, Ponta Delgada (Região Autónoma dos Açores);\n\n- Reino Unido:\n\nLondres, Glasgow, Leeds, Birmingham.\n\n3.\n\nO levantamento dos preços da electricidade deve ser efectuado relativamente às nove categorias de consumidor industrial de referência seguintes:\n\nII. 3.\n\nConsumidor de\n\nreferência\n\nConsumo anual\n\nKWh\n\nPotência máxima\n\nKW\n\nUtilização anual\n\nhoras\n\nIa\n\n30 000\n\n30\n\n1 000\n\nIb\n\n50 000\n\n50\n\n1 000\n\nIc\n\n160 000\n\n100\n\n1 600\n\nId\n\n1 250 000\n\n500\n\n2 500\n\nIe\n\n2 000 000\n\n500\n\n4 000\n\nIf\n\n10 000 000\n\n2 500\n\n4 000\n\nIg\n\n24 000 000\n\n4 000\n\n6 000\n\nIh\n\n50 000 000\n\n10 000\n\n5 000\n\nIi\n\n70 000 000\n\n10 000\n\n7 000\n\nA potência máxima solicitada é a potência máxima absorvida num quarto de hora registada num ano, expressa em KW. O preço de fornecimento é calculado com cosf = 0,90. No caso de tarifas baseadas na potência máxima solicitada por meia hora, a potência máxima do consumidor de referência é multiplicada pelo coeficiente 0,98. No caso de tarifas baseadas na potência medida em KVA, é necessário proceder a um ajustamento dividindo a potência máxima solicitada pelo consumidor de referência, expressa em KW, pelo coeficiente cosf = 0,90.\n\n4.\n\nNo caso de tarifas baseadas em medições da potência máxima solicitada com frequência superior a uma vez por ano, o valor da potência efectivamente consumida é multiplicado pelos seguintes coeficientes:\n\nQUADRO DOS COEFICIENTES CORRECTORES DA POTÊNCIA\n\nII. 4.\n\nUtilização\n\n(horas)\n\nPotência\n\nmáxima\n\nmensal\n\nPotência\n\nmáxima\n\nbimensal\n\nPotência\n\nmáxima\n\ntrimestral\n\nMédia das\n\n3 potências\n\nmensais\n\nmais\n\nelevadas\n\nMédia das\n\n2 potências\n\nmensais\n\nmais\n\nelevadas\n\nPotência\n\nmáxima\n\nanual\n\n1 000\n\n0,81\n\n0,83\n\n0,86\n\n0,94\n\n0,96\n\n1,0\n\n1 600\n\n0,83\n\n0,85\n\n0,88\n\n0,95\n\n0,97\n\n1,0\n\n2 500\n\n0,85\n\n0,87\n\n0,90\n\n0,96\n\n0,98\n\n1,0\n\n4 000\n\n0,90\n\n0,91\n\n0,95\n\n0,98\n\n0,99\n\n1,0\n\n5 000\n\n0,90\n\n0,91\n\n0,95\n\n0,98\n\n0,99\n\n1,0\n\n6 000\n\n0,96\n\n0,97\n\n0,98\n\n0,99\n\n0,995\n\n1,0\n\n7 000\n\n0,96\n\n0,97\n\n0,98\n\n0,99\n\n0,995\n\n1,0\n\n5.\n\nNo caso de tarifas que beneficiem de reduções nos períodos fora de horas de ponta, utilizam-se, para calcular o preço médio por KWh, os seguintes valores do consumo fora de horas de ponta:\n\nII. 5.\n\nConsumidor\n\ntipo\n\nModulação\n\nanual\n\nConsumo\n\nanual\n\nConsumo anual (em 1 000 KWh) facturado ao preço de fora de\n\nhoras de ponta segundo a duração média diária dos períodos fora\n\nde horas de ponta da tarifa por 24 horas\n\nhoras\n\n1 000 KWh\n\n7 h\n\n8 h\n\n9 h\n\n10 h\n\n11 h\n\n12 h\n\nIa\n\n1 000\n\n30\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\nIb\n\n1 000\n\n50\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\nIc\n\n1 600\n\n160\n\n11\n\n13\n\n16\n\n19\n\n22\n\n25\n\nId\n\n2 500\n\n1 250\n\n197\n\n225\n\n262\n\n300\n\n338\n\n375\n\nIe\n\n4 000\n\n2 000\n\n438\n\n500\n\n580\n\n660\n\n740\n\n820\n\nIf\n\n4 000\n\n10 000\n\n2 190\n\n2 500\n\n2 900\n\n3 300\n\n3 700\n\n4 100\n\nIg\n\n6 000\n\n24 000\n\n7 140\n\n8 160\n\n9 120\n\n10 080\n\n11 040\n\n12 000\n\nIh\n\n5 000\n\n50 000\n\n13 100\n\n15 000\n\n17 000\n\n19 000\n\n21 000\n\n23 000\n\nIi\n\n7 000\n\n70 000\n\n23 300\n\n26 600\n\n29 400\n\n32 200\n\n35 000\n\n37 800\n\nPara os períodos fora de horas de ponta situados entre os períodos acima mencionados, o consumo anual de KWh fora de horas de ponta será estimado por extrapolação.\n\nSe a facturação se alargar a outros períodos fora de horas de ponta como, por exemplo, durante todo o dia de domingo, apenas será considerado metade desse período fora de horas de ponta suplementar, calculando-se a média dessas horas para todo o ano e adicionando-se o resultado ao período fora de horas de ponta normal antes de utilizar a tabela acima.\n\n6.\n\nSempre que possível, o preço indicado deve basear-se numa tarifa publicada aplicável à categoria de consumidor de referência em causa. Se forem aplicáveis várias tarifas, deve ser aplicada a tarifa mais vantajosa para o consumidor, depois de eliminadas as tarifas que, na prática, não são utilizadas ou que se apliquem apenas a um número marginal ou insignificante de consumidores. Nos casos em que apenas existam quase-tarifas, contratos especiais ou preços negociados livremente, deve ser indicado o preço utilizado com maior frequência (o mais representativo) para as condições de fornecimento consideradas.\n\n7.\n\nSe, para uma determinada categoria de consumidor de referência, a electricidade puder ser fornecida a várias tensões, comunicar-se-á a tensão mais representativa para a categoria de consumidor de referência em questão. Este princípio deve ser igualmente aplicado aos outros parâmetros não especificados na presente directiva.\n\n8.\n\nO preço por KWh deve ser calculado de modo a incluir todos os custos fixos a pagar (por exemplo, aluguer do contador, custo fixo ou taxa de capacidade, etc.), bem como o custo dos KWh consumidos. Por conseguinte, para a categoria de consumo em questão, é a quantia total a pagar depois de deduzidos quaisquer descontos ou reduções, dividida pelo consumo total. No entanto, o custo da ligação inicial não deve ser incluído. Embora as informações devam ser transmitidas duas vezes por ano, o cálculo deve basear-se nos dados de consumo anuais, a fim de suprimir as variações sazonais.\n\n9.\n\nOs preços devem ser expressos na moeda nacional, por KWh (1):\n\n- excluindo taxas e impostos,\n\n- incluindo taxas e impostos (excepto o IVA recuperável).\n\nDevem ser indicados igualmente os níveis e métodos de cálculo das taxas e impostos nacionais, regionais ou locais, aplicados à venda da electricidade ao consumidor.\n\n10.\n\nDeve também ser apresentada uma explicação tão pormenorizada quanto possível do sistema de preços e do seu modo de aplicação. Quaisquer modificações do sistema desde o levantamento anterior devem ser objecto de especial destaque.\n\n11.\n\nNos Estados-membros em que uma única empresa de gás efectua todas as vendas industriais do país, as informações devem ser comunicadas por essa empresa. Nos Estados-membros em que várias empresas asseguram a distribuição a uma ou várias regiões, as informações devem ser comunicadas por um organismo estatístico independente.\n\nII. Levantamento dos preços de referência (consumidores com uma potência máxima solicitada superior\n\na 10 MW)\n\n12.\n\nA fim de efectuar o levantamento dos consumidores industriais cuja potência máxima solicitada exceda 10 KW, é introduzido um novo sistema baseado em preços de referência, tal como a seguir definidos.\n\n13.\n\nEm todos os Estados-membros, com excepção da República Federal da Alemanha e do Reino Unido, os preços aplicáveis aos grandes consumidores industriais de electricidade variam relativamente pouco no interior do país, pelo que os preços de referência e as informações conexas devem ser comunicados e publicados relativamente ao Estado-membro no seu conjunto. No caso da República Federal da Alemanha e do Reino Unido, podem verificar-se variações geográficas significativas devendo, pois, as informações relativas a estes dois Estados-membros ser comunicadas e publicadas para três regiões, tal como a seguir se indica:\n\nEstado-membro\n\nRegiões\n\nRepública Federal da Alemanha (2):\n\n- Norte/Centro\n\n- Oeste\n\n- Sul\n\nReino Unido:\n\n- Inglaterra e País de Gales\n\n- Escócia\n\n- Irlanda do Norte\n\n14.\n\nOs preços de referência e as informações associadas devem ser apresentados por Estado-membro, tal como indicado no ponto 13 anterior, com discriminação de três categorias de grandes consumidores industriais, ou seja, os consumidores industriais cuja potência máxima solicitada se eleva a cerca de:\n\n- 25 MW, abrangendo os consumidores com uma potência máxima solicitada entre 17,5 MW e 37,5 MW,\n\n- 50 MW, abrangendo os consumidores com uma potência máxima solicitada entre 37,5 MW e 62,5 MW,\n\n- 75 MW, abrangendo os consumidores com uma potência máxima solicitada entre 62,5 MW e 75 MW.\n\nEstas categorias incluem igualmente os consumidores industriais que produzem também uma parte da sua própria electricidade, embora apenas deva ser comunicado o consumo de electricidade proveniente de empresas de serviço público.\n\n15.\n\nO preço de referência para uma determinada categoria de MW (por exemplo 25 MW) é o preço médio por KWh facturado a um consumidor industrial teórico ou ao qual se aplica o preço de referência cuja potência solicitada normal seja de cerca de 25 MW, antes de deduzidas quaisquer reduções especiais, que devem ser apresentadas separadamente (ver no. 16). As características de potência solicitada deste consumidor industrial ao qual se aplica o preço de referência devem ser tão representativas quanto possível (sem ter em conta as reduções especiais) de todos os consumidores industriais da categoria em questão.\n\nA fim de obter uma certa homogeneidade, a Comissão indicará as características de potência solicitada destes consumidores a quem se aplica o preço de referência para cada categoria (ou seja, 25 MW, 50 MW e 75 MW). Essas características serão utilizadas pela empresa distribuidora, se for caso disso. Se elas\n\n- Norte/Centro: Schleswig-Holstein, Hamburgo, Brema, Berlim, Baixa Saxónia e Hesse do Norte;\n\n- Oeste: Renânia do Norte-Vestefália, Renânia-Palatinado, Sarre e Hesse do Sul, Sarre;\n\n- Sul: Bade-Vurtemberga e Baviera.\n\nnão forem adequadas às condições próprias da empresa distribuidora, esta pode definir as características de potência solicitada do consumidor a quem se aplica o preço de referência, sob reserva do acordo da Comissão. As características da potência solicitada referem-se, em especial, ao factor de carga (por exemplo, «7 000 horas», em que 7 000 é o número de horas de consumo máximo necessárias para atingir o consumo anual) e à distribuição do consumo pelos diversos escalões tarifários diários (por exemplo horas de ponta, período fora de horas de ponta, etc.).\n\n16.\n\nOs preços de referência apresentados devem ser calculados de modo a incluir todos os custos fixos a pagar (por exemplo aluguer do contador, custos fixos ou custo de capacidade, etc.), bem como o custo dos KWh consumidos. No entanto, o custo da ligação inicial não deve ser incluído. A fim de suprimir as variações sazonais, devem ser utilizados os dados do consumo anual, embora as informações devam ser transmitidas duas vezes por ano. Deve ser explicado o modo de cálculo do preço de referência, incluindo todos os custos fixos.\n\n17.\n\nPara cada preço de referência, devem ser descritos os vários factores especiais susceptíveis de conduzir a uma redução do preço da electricidade (por exemplo, cláusulas de interruptibilidade), mencionando-se\n\na importância dessa redução (em princípio 6 %, 8 %, 10 %). Estes factores especiais devem ser representativos dos factores aplicáveis aos consumidores da categoria de MW em questão abastecidos pelo serviço público em causa.\n\n18.\n\nNos Estados-membros em que existam vários empresas distribuidoras, cada um deles deve apresentar os preços de referência e as informações associadas (na rubrica características da potência solicitada pelo consumidor teórico) (ver no. 15), os factores especiais e as reduções de preço (ver no. 17), a um organismo estatístico independente. Estes organismos comunicarão, em seguida, à administração nacional e à SECE o preço de referência mais elevado e mais reduzido do Estado-membro em questão (ou de cada região, se tal for o caso) para cada categoria de MW, juntamente com as informações associadas a\n\nesses preços de referência. Para os Estados-membros em que um só distribuidor cobre todo o país, as informações devem ser directa e simultaneamente apresentadas à administração nacional e ao SECE.\n\n19.\n\nA fim de preservar a confidencialidade, os preços de referência e as informações associadas devem ser apresentados pelas empresas ou pelo organismo estatístico independente, conforme o caso (ver no. 18 anterior), para uma determinada categoria de MW, apenas quando existirem pelo menos três consumidores dessa categoria no Estado-membro ou na região em questão.\n\n20.\n\nOs preços de referência devem ser expressos segundo as indicações do no. 9.\n\n21.\n\nDe dois em dois anos, as empresas distribuidoras devem igualmente apresentar dados relativos ao número de consumidores de cada categoria de MW (ou seja, 17,5-37,5 MW, 37,5-62,5 MW e 62,5-75,0 MW) e ao consumo anual total desses consumidores, discriminados por categorias (em GWh). No caso de informações exigidas por força do no. 18, essas informações devem ser transmitidas quer através do organismo estatístico independente que coligirá as informações para o Estado-membro considerado no seu conjunto quer directa e simultaneamente à administração nacional e ao SECE. As informações exigidas no âmbito deste número serão transmitidas confidencialmente e não serão publicadas.\n\n(1) O preço excluindo taxas e impostos resulta directamente da aplicação das tarifas ou dos contratos. O preço sem IVA recuperável inclui, se necessário, as restantes taxas e impostos específicos.(2)\n\nOs Laender são agrupados em três zonas, a saber:"
+  },
+  "a7be2984b692d4a6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Junho de 1990\n\nque estabelece um processo comunitário que assegure a transparência dos preços no consumidor final industrial de gás e electricidade\n\n(90/377/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 213.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/fae0393b-831b-49ec-b9fd-2a13ecc8cd0e.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/fae0393b-831b-49ec-b9fd-2a13ecc8cd0e.0017.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/fae0393b-831b-49ec-b9fd-2a13ecc8cd0e.0017.03/DOC_1#E0003)),\n\nConsiderando que a transparência dos preços da energia, na medida em que reforça as condições que garantem que a concorrência não seja falseada no mercado comum, é essencial para a realização e o bom funcionamento do mercado interno da energia;\n\nConsiderando que esta transparência pode contribuir para eliminar as discriminações aplicadas em relação aos consumidores, facilitando-lhes a livre escolha entre fontes de energia e entre fornecedores;\n\nConsiderando que a transparência actual varia segundo as fontes de energia e segundo os países e regiões da Comunidade, o que compromete a realização do mercado interno da energia;\n\nConsiderando, no entanto, que os preços que a indústria da Comunidade paga pela energia consumida constituem um dos factores da sua competitividade devendo, por isso, ser preservada a sua confidencialidade;\n\nConsiderando que o sistema de consumidores-tipo utilizado pelo Serviço de Estatísticas das Comunidades Europeias (SECE) nas suas publicações de preços e o sistema de preços-referência que será utilizado relativamente aos grandes consumidores industriais de electricidade permitem que a transparência não constitua um obstáculo à protecção da confidencialidade;\n\nConsiderando que convém alargar as categorias de consumidores utilizadas pelo SECE até aos limites superiores em que a representatividade dos consumidores continua a ser assegurada;\n\nConsiderando que, procedendo deste modo, se alcançará a transparência dos preços no consumo final sem que tal ponha em perigo a necessária confidencialidade dos contratos; que, a fim de respeitar a confidencialidade, é preciso haver pelo menos três consumidores numa determinada categoria de consumidores para que um preço possa ser publicado;\n\nConsiderando que tais informações, que dizem respeito ao gás e à electricidade consumidos pela indústria em utilizações energéticas finais, permitirão também a comparação com as outras fontes de energia (petróleo, carvão, energia fósseis e renováveis) e com os outros consumidores;\n\nConsiderando que as empresas que garantem o fornecimento de gás e electricidade bem como os consumidores industriais de gás ou electricidade continuam, independentemente da aplicação da presente directiva, sujeitos à aplicação das regras de concorrência do Tratado e que, assim, a Comissão pode exigir a comunicação dos preços e das condições de venda;\n\nConsiderando que o conhecimento dos sistemas de preços em vigor faz parte da transparência dos preços;\n\nConsiderando que o conhecimento da repartição dos consumidores por categorias e das respectivas partes de mercado faz igualmente parte desta transparência;\n\nConsiderando que a comunicação da Comissão ao SECE dos preços e condições de venda aos consumidores, acompanhada pela comunicação dos sistemas de preços em vigor e da repartição dos consumidores por categorias de consumo, deve permitir que a Comissão se mantenha informada de modo a determinar, quando necessário, as acções ou propostas adequadas tendo em conta a situação do mercado interno da energia;\n\nConsiderando que a fiabilidade dos dados comunicados ao SECE será melhor garantida se as próprias empresas procederem à elaboração desses dados;\n\nConsiderando que o conhecimento da fiscalidade e das taxas parafiscais existentes em cada Estado-membro é importante para assegurar a transparência dos preços;\n\nConsiderando que convém prever meios que permitam controlar a fiabilidade dos dados comunicados ao SECE;\n\nConsiderando que a realização da transparência pressupõe a publicação e a mais ampla difusão possível dos preços e sistemas de preços junto dos consumidores;\n\nConsiderando que, para a aplicação da transparência dos preços da energia, importa tomar como base os métodos e técnicas reconhecidos, elaborados e aplicados pelo SECE, tanto ao nível do tratamento e do controlo da validade dos dados como ao nível da sua publicação;\n\nConsiderando que, na perspectiva da realização do mercado interno da energia, importa tornar operacional o sistema da transparência dos preços o mais brevemente possível;\n\nConsiderando que a aplicação uniforme da presente directiva só poderá ser efectuada em todos os Estados-membros quando o mercado de gás natural, nomeadamente no que se refere às infra-estruturas, tiver atingido um nível de desenvolvimento suficiente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "0d40975e78fcbf88": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs Estados-membros tomarão as medidas necessárias para que as empresas que asseguram o fornecimento de gás e de electricidade aos consumidores finais da indústria, tal como definidos nos anexos I e II, comuniquem ao SECE, nas formas previstas no artigo 3.º:\n\n1. Os preços e condições de venda aos consumidores industriais finais de gás e electricidade;\n\n2. Os sistemas de preços em vigor;\n\n3. A repartição dos consumidores e dos volumes correspondentes por categorias de consumo, de modo a assegurar a representatividade dessas categorias a nível nacional."
+  },
+  "c0b5df2127780526": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. No dia 1 de Janeiro e no dia 1 de Julho de cada ano, as empresas indicadas no artigo 1.º procederão ao levantamento dos dados previstos nos pontos 1 e 2 do mesmo artigo. Estes dados, elaborados nos termos do disposto no artigo 3.º, serão comunicados ao SECE e às autoridades competentes dos Estados-membros no prazo de dois meses.\n\n2. Com base nos dados referidos no n.º 1, o SECE publicará em Maio e Novembro de cada ano, sob forma adequada, os preços do gás e da electricidade para utilização industrial nos Estados-membros e os sistemas de preços que serviram de base à sua elaboração.\n\n3. A informação prevista no n.º 3 do artigo 1.º será comunicada de dois em dois anos ao SECE e às autoridades competentes dos Estados-membros. A primeira comunicação dirá respeito à situação em 1 de Janeiro de 1991. Esta informação não se destina a ser publicada."
+  },
+  "b933df3332980713": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs disposições de aplicação relativas à forma e ao conteúdo, bem como a todas as outras características das informações previstas no artigo 1.º, constam dos anexos I e II."
+  },
+  "22aebb39d687f216": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO SECE fica obrigado a não divulgar os dados que lhe forem transmitidos nos termos do artigo 1.º e que, pela sua natureza, possam inserir-se no âmbito do segredo comercial das empresas. Esses dados estatísticos confidenciais transmitidos ao SECE apenas serão acessíveis aos funcionários deste serviço e só poderão ser utilizados para fins exclusivamente estatísticos.\n\nNo entanto esta disposição não obsta à publicação desses dados sob forma agregada que não permita identificar as transacções comerciais individuais."
+  },
+  "252778283eb8b64f": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nNo caso de verificar anomalias ou incoerências estatisticamente significativas nos dados comunicados nos termos da presente directiva, o SECE pode solicitar às instâncias nacionais que lhe permitam tomar conhecimento dos dados desagregados pertinentes e dos métodos de cálculo ou de avaliação em que se baseiam os dados agregados, a fim de apreciar e, se necessário, corrigir as informações consideradas anormais."
+  },
+  "ec12dea2cd5da188": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA Comissão introduzirá nos anexos da presente directiva as alterações tornadas necessárias pela identificação de problemas específicos. Todavia, tais alterações apenas poderão incidir sobre os elementos técnicos dos anexos, não podendo ser susceptíveis de alterar a economia geral do sistema."
+  },
+  "13f571de329deaa5": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A Comissão é assistida por um comité na adopção das alterações previstas no artigo 6.º\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 3.º e 7.º da Decisão 1999/468/CE ([^4^](http://publications.europa.eu/resource/cellar/fae0393b-831b-49ec-b9fd-2a13ecc8cd0e.0017.03/DOC_1#E0004)), tendo-se em conta o disposto no seu artigo 8.º\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "001bf523ef584e96": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA Comissão apresentará anualmente ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social um relatório de síntese sobre a aplicação da presente directiva."
+  },
+  "32d308fd2401191a": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros tomarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até, o mais tardar, 1 de Julho de 1991. Desse facto informarão imediatamente a Comissão.\n\nNo que se refere ao gás natural, a presente directiva apenas será posta em aplicação em cada Estado-membro cinco anos após a introdução deste tipo de energia no mercado nacional. A data de introdução desta fonte de energia no mercado nacional será objecto de uma declaração explícita e imediata dirigida à Comissão pelo Estado-membro em causa."
+  },
+  "04406bc216af5287": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "14238af0d6ee34d6": {
+   "fragment_id": "PREÇOS DO GÁS",
+   "type": "divisao",
+   "heading": "PREÇOS DO GÁS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PREÇOS DO GÁS\n\nOs preços do gás para os consumidores finais industriais ([^5^](http://publications.europa.eu/resource/cellar/fae0393b-831b-49ec-b9fd-2a13ecc8cd0e.0017.03/DOC_1#E0005)) devem ser reunidos e compilados de acordo com a seguinte metodologia:\n\na) Os preços a comunicar são os preços pagos pelos consumidores finais industriais pela aquisição do gás natural distribuído por conduta para utilização própria.\n\nb) São tidas em conta todas as utilizações industriais de gás. Contudo, o sistema exclui os consumidores de gás cujo consumo:\n\n— se destine à produção de electricidade em centrais, incluindo as centrais de PCCE,\n\n— se destine a fins não energéticos (por exemplo, indústria química),\n\n— seja superior a 4 000 000 gigajoules (GJ) por ano.\n\nc) Os preços registados devem basear-se num sistema de categorias de consumo definidas com base em segmentos de consumo anual de gás.\n\nd) Os preços devem ser reunidos duas vezes por ano, no início de cada semestre (Janeiro e Julho) e referir-se-ão aos preços médios do gás pagos pelos consumidores industriais finais durante os seis meses anteriores. A primeira comunicação de dados relativos aos preços a enviar ao Serviço de Estatística das Comunidades Europeias dirá respeito à situação em 1 de Janeiro de 2008.\n\ne) Os preços devem ser expressos em moeda nacional por gigajoule. A unidade de energia utilizada será medida com base no poder calorífico superior (PCS).\n\nf) Os preços devem incluir todos os encargos a pagar: encargos de utilização da rede e preço da energia consumida, depois de deduzidos eventuais descontos ou prémios e adicionados outros encargos (aluguer do contador, taxas fixas, etc.). Não deve ser incluído o custo da ligação inicial.\n\ng) Os preços a registar são os preços médios nacionais.\n\nh) Os Estados-Membros desenvolvem e aplicam procedimentos eficientes para garantir um sistema de compilação de dados representativo com base nas seguintes regras:\n\n— os preços correspondem a preços médios ponderados em função das partes de mercado detidas pelas empresas fornecedoras de gás; se não for possível calcular os preços ponderados, e unicamente nesse caso, utilizar-se-á a média aritmética; em ambos os casos, os Estados-Membros assegurarão que os dados compilados sejam relativos a uma parte representativa do mercado nacional,\n\n— as partes de mercado devem ser calculadas com base no volume de gás facturado pelas empresas fornecedoras aos consumidores finais industriais; se for possível, as partes de mercado serão calculadas separadamente para cada categoria de consumo; as informações utilizadas para o cálculo dos preços médios ponderados são geridas pelos Estados-Membros no respeito das regras de confidencialidade,\n\n— para assegurar a confidencialidade, os dados relativos aos preços só serão comunicados desde que haja, no Estado-Membro em causa, pelo menos três consumidores finais em cada uma das categorias a seguir referidas na alínea j).\n\ni) Devem ser indicados três níveis de preços:\n\n— preços excluindo impostos e taxas,\n\n— preços excluindo o IVA e outros impostos recuperáveis,\n\n— preços incluindo todos os impostos, taxas e IVA.\n\nj) Os preços do gás serão examinados relativamente às seguintes categorias de consumidores finais industriais:\n\n| Consumidor final industrial | Consumo anual de gás (GJ) |  |\n| --- | --- | --- |\n| Mínimo | Máximo |  |\n| Segmento I1 |  | < 1 000 |\n| Segmento I2 | 1 000 | < 10 000 |\n| Segmento I3 | 10 000 | < 100 000 |\n| Segmento I4 | 100 000 | < 1 000 000 |\n| Segmento I5 | 1 000 000 | <= 4 000 000 |\n\nk) De dois em dois anos, juntamente com as informações de Janeiro relativas aos preços, serão comunicadas ao Serviço de Estatística das Comunidades Europeias informações sobre o sistema de compilação aplicado, incluindo nomeadamente: uma descrição do estudo e do seu âmbito (número de empresas fornecedoras abrangidas, percentagem total do mercado representado, etc.) bem como os critérios utilizados para calcular os preços médios ponderados e o volume total de consumo correspondente a cada segmento. A primeira comunicação relativa ao sistema de compilação dirá respeito à situação em 1 de Janeiro de 2008.\n\nl) Uma vez por ano, juntamente com a comunicação de Janeiro relativa aos preços, serão comunicadas ao Serviço de Estatística das Comunidades Europeias, informações sobre os principais factores e características médias que afectam os preços comunicados para cada um dos segmentos de consumo.\n\n— factores de carga médios dos consumidores finais industriais de cada segmento de consumo, calculados com base na energia total fornecida e no valor médio da procura máxima,\n\n— uma descrição dos descontos concedidos para os fornecimentos interruptíveis,\n\n— uma descrição das taxas fixas, do aluguer dos contadores e de outros encargos relevantes a nível nacional.\n\nm) Uma vez por ano, juntamente com a comunicação de Janeiro, devem também ser comunicados os níveis de tributação e o método de cálculo, bem como uma descrição dos impostos cobrados sobre as vendas de gás aos consumidores finais industriais. A descrição deve incluir todos os encargos não fiscais que cubram os custos do sistema e as obrigações de serviço público.\n\n— impostos, taxas, encargos não fiscais, direitos e outros encargos fiscais não indicados nas facturas entregues aos consumidores industriais finais; estes elementos serão incluídos nos valores comunicados relativamente ao nível de preços: «preços excluindo impostos e taxas»,\n\n— impostos e encargos indicados nas facturas entregues aos consumidores finais industriais e considerados não recuperáveis; estes elementos serão incluídos nos valores comunicados relativamente ao nível de preços: «preços excluindo o IVA e outros impostos recuperáveis»,\n\n— imposto sobre o valor acrescentado (IVA) e outros impostos recuperáveis indicados nas facturas entregues aos consumidores finais industriais; estes elementos serão incluídos nos valores comunicados relativamente ao nível de preços: «preços incluindo todos os impostos, taxas e IVA».\n\n— imposto sobre o valor acrescentado,\n\n— direitos de concessão: trata-se geralmente de licenças e taxas relativas à ocupação de terrenos e edifícios públicos e privados por redes ou outras instalações de gás,\n\n— impostos ou taxas ambientais: trata-se, em geral, quer de promover fontes de energia renováveis e a PCCE, quer de penalizar as emissões de CO2, SO2 ou outras emissões que estão na origem das alterações climáticas,\n\n— outros impostos e taxas relacionados com o sector da energia: encargos/obrigações de serviço público, taxas destinadas a financiar as autoridades reguladoras do sector da energia, etc.,\n\n— outros impostos e taxas não relacionados com o sector da energia: impostos nacionais, locais ou regionais sobre o consumo de energia, impostos sobre a distribuição do gás, etc.\n\nn) Nos Estados-Membros onde uma única empresa de gás efectua todas as vendas industriais, as informações podem ser comunicadas por essa empresa. Nos Estados-Membros onde funciona mais de uma empresa, as informações devem ser comunicadas por um organismo estatístico independente."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "a8e971ff70a789b2": {
+   "fragment_id": "PREÇOS DA ELECTRICIDADE",
+   "type": "divisao",
+   "heading": "PREÇOS DA ELECTRICIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PREÇOS DA ELECTRICIDADE\n\nOs preços da electricidade para os consumidores finais industriais ([^6^](http://publications.europa.eu/resource/cellar/fae0393b-831b-49ec-b9fd-2a13ecc8cd0e.0017.03/DOC_1#E0006)) devem ser reunidos e compilados de acordo com a seguinte metodologia:\n\na) Os preços a comunicar são os preços pagos pelos consumidores finais industriais pela aquisição de electricidade para utilização própria.\n\nb) São tidas em conta todas as utilizações industriais de electricidade.\n\nc) Os preços registados devem basear-se num sistema de categorias de consumo definidas com base em segmentos de consumo anual de electricidade.\n\nd) Os preços devem ser reunidos duas vezes por ano, no início de cada semestre (Janeiro e Julho) e referir-se-ão aos preços médios da electricidade pagos pelos consumidores industriais finais durante os seis meses anteriores. A primeira comunicação de dados relativos aos preços a enviar ao Serviço de Estatística das Comunidades Europeias dirá respeito à situação em 1 de Janeiro de 2008.\n\ne) Os preços devem ser expressos em moeda nacional por kWh.\n\nf) Os preços devem incluir todos os encargos a pagar: encargos de utilização da rede e preço da energia consumida, depois de deduzidos eventuais descontos ou prémios e adicionados outros encargos (taxa de capacidade, comercialização, aluguer do contador, etc.). Não deve ser incluído o custo da ligação inicial.\n\ng) Os preços a registar são os preços médios nacionais.\n\nh) Os Estados-Membros desenvolvem e aplicam procedimentos eficientes para garantir um sistema de compilação de dados representativo com base nas seguintes regras:\n\n— os preços correspondem a preços médios ponderados em função das partes de mercado detidas pelas empresas fornecedoras de electricidade; se não for possível calcular os preços ponderados, e unicamente nesse caso, utilizar-se-á a média aritmética; em ambos os casos, os Estados-Membros assegurarão que os dados compilados sejam relativos a uma parte representativa do mercado nacional,\n\n— as partes de mercado devem ser calculadas com base na quantidade de electricidade facturada pelas empresas fornecedoras aos consumidores finais industriais; se for possível, as partes de mercado serão calculadas separadamente para cada segmento de consumo; as informações utilizadas para o cálculo dos preços médios ponderados são geridas pelos Estados-Membros no respeito das regras de confidencialidade,\n\n— para assegurar a confidencialidade, os dados relativos aos preços só serão comunicados desde que haja, no Estado-Membro em causa, pelo menos três consumidores finais em cada uma das categorias a seguir referidas na alínea j).\n\ni) Devem ser indicados três níveis de preços:\n\n— preços excluindo impostos e taxas,\n\n— preços excluindo o IVA e outros impostos recuperáveis,\n\n— preços incluindo todos os impostos, taxas e IVA.\n\nj) Os preços da electricidade serão examinados relativamente às seguintes categorias de consumidores finais industriais:\n\n| Consumidor final industrial | Consumo anual de electricidade (MWh) |  |\n| --- | --- | --- |\n| Mínimo | Máximo |  |\n| Segmento IA |  | < 20 |\n| Segmento IB | 20 | < 500 |\n| Segmento IC | 500 | < 2 000 |\n| Segmento ID | 2 000 | < 20 000 |\n| Segmento IE | 20 000 | < 70 000 |\n| Segmento IF | 70 000 | <= 150 000 |\n\nk) De dois em dois anos, juntamente com as informações de Janeiro relativas aos preços, serão comunicadas ao Serviço de Estatística das Comunidades Europeias informações sobre o sistema de compilação aplicado, incluindo nomeadamente: uma descrição do estudo e do seu âmbito (número de empresas fornecedoras abrangidas, percentagem total do mercado representado, etc.) bem como os critérios utilizados para calcular os preços médios ponderados e o volume total de consumo correspondente a cada segmento. A primeira comunicação relativa ao sistema de compilação dirá respeito à situação em 1 de Janeiro de 2008.\n\nl) Uma vez por ano, juntamente com a comunicação de Janeiro relativa aos preços, serão comunicadas ao Serviço de Estatística das Comunidades Europeias, informações sobre os principais factores e características médias que afectam os preços comunicados para cada um dos segmentos de consumo.\n\n— factores de carga médios dos consumidores finais industriais de cada segmento de consumo, calculados com base na energia total fornecida e no valor médio da procura máxima,\n\n— um quadro indicando os limites da tensão eléctrica por país,\n\n— uma descrição das taxas fixas, do aluguer dos contadores e de outros encargos relevantes a nível nacional.\n\nm) Uma vez por ano, juntamente com a comunicação de Janeiro, devem também ser comunicados os níveis de tributação e o método de cálculo, bem como uma descrição dos impostos cobrados sobre as vendas de electricidade aos consumidores finais industriais. A descrição deve incluir todos os encargos não fiscais que cubram os custos do sistema e as obrigações de serviço público.\n\n— impostos, taxas, encargos não fiscais, direitos e outros encargos fiscais não indicados nas facturas entregues aos consumidores industriais finais; estes elementos serão incluídos nos valores comunicados relativamente ao nível de preços: «preços excluindo impostos e taxas»,\n\n— impostos e encargos indicados nas facturas entregues aos consumidores finais industriais e considerados não recuperáveis; estes elementos serão incluídos nos valores comunicados relativamente ao nível de preços: «preços excluindo o IVA e outros impostos recuperáveis»,\n\n— imposto sobre o valor acrescentado (IVA) e outros impostos recuperáveis indicados nas facturas entregues aos consumidores finais industriais; estes elementos serão incluídos nos valores comunicados relativamente ao nível de preços: «preços incluindo todos os impostos, taxas e IVA».\n\n— imposto sobre o valor acrescentado,\n\n— direitos de concessão: trata-se geralmente de licenças e taxas relativas à ocupação de terrenos e edifícios públicos e privados por redes ou outras instalações eléctricas,\n\n— impostos ou taxas ambientais: trata-se, em geral, quer de promover fontes de energia renováveis e a PCCE, quer de penalizar as emissões de CO2, SO2 ou outras emissões na origem das alterações climáticas,\n\n— impostos nucleares e outros impostos relativos às inspecções: encargos de desmantelamento nuclear, inspecção e taxas relativas às instalações nucleares, etc.,\n\n— outros impostos e taxas relacionados com o sector da energia: encargos/obrigações de serviço público, taxas destinadas a financiar as autoridades reguladoras do sector da energia, etc.,\n\n— outros impostos e taxas não relacionados com o sector da energia: impostos nacionais, locais ou regionais sobre o consumo de energia, impostos sobre a distribuição de electricidade, etc.\n\nn) Uma vez por ano, juntamente com a comunicação de Janeiro, será comunicada ao Serviço de Estatística das Comunidades Europeias uma ventilação dos preços de electricidade de acordo com as suas principais componentes. Essa ventilação será efectuada com base na seguinte metodologia:\n\n— o preço «rede» é o rácio entre as receitas relativas às tarifas para o transporte e distribuição e (se possível) o volume correspondente em kWh por segmento de consumo; se não estiverem disponíveis volumes em kWh separados por segmento, devem ser apresentadas estimativas,\n\n— o preço «energia e fornecimento» é o preço total menos o preço «rede», depois de deduzidos todos os impostos e taxas,\n\n— impostos e taxas – será apresentada uma ventilação suplementar para esta componente:\n\n— impostos e taxas sobre os preços «rede»,\n\n— impostos e taxas sobre os preços «energia e fornecimento»,\n\n— IVA e outros impostos recuperáveis.\n\nNOTA: Se forem indicados separadamente serviços complementares, podem ser incluídos numa das duas principais componentes, como segue:\n\n— o preço «rede» incluirá os custos seguintes: tarifas para o transporte e a distribuição, perdas no transporte e na distribuição, custos das redes, serviços pós-venda, custos de manutenção dos serviços de rede e aluguer dos contadores,\n\n— o preço «energia e fornecimento» incluirá os custos seguintes: geração, agregação, energia de equilibração, custos da energia fornecida, serviços ao cliente, gestão dos serviços pós-venda, contagem e outros custos de abastecimento,\n\n— outros custos específicos: este elemento representa os custos que não são custos «rede», custos «energia e fornecimento» nem impostos; se existirem tais custos, devem ser comunicados separadamente.\n\no) Nos Estados-Membros onde uma única empresa efectua todas as vendas industriais, as informações podem ser comunicadas por essa empresa. Nos Estados-Membros onde funciona mais de uma empresa, as informações devem ser comunicadas por um organismo estatístico independente.\n\n---"
+  },
+  "63baef57b7e82a01": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/fae0393b-831b-49ec-b9fd-2a13ecc8cd0e.0017.03/DOC_1#src.E0001)) JO n.º C 257 de 10. 10. 1989, p. 7.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/fae0393b-831b-49ec-b9fd-2a13ecc8cd0e.0017.03/DOC_1#src.E0002)) JO n.º C 149 de 18. 6. 1990.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/fae0393b-831b-49ec-b9fd-2a13ecc8cd0e.0017.03/DOC_1#src.E0003)) JO n.º C 75 de 26. 3. 1990, p. 18.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/fae0393b-831b-49ec-b9fd-2a13ecc8cd0e.0017.03/DOC_1#src.E0004)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/fae0393b-831b-49ec-b9fd-2a13ecc8cd0e.0017.03/DOC_1#src.E0005)) Nos consumidores finais industriais, podem incluir-se outros consumidores não residentes.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/fae0393b-831b-49ec-b9fd-2a13ecc8cd0e.0017.03/DOC_1#src.E0006)) Nos consumidores finais industriais, podem incluir-se outros consumidores não residentes."
+  },
+  "1964950d782e3427": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1990L0377 — PT — 27.11.2008 — 007.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31990L0377) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31990L0377) [de 29 de Junho de 1990](http://publications.europa.eu/resource/celex/31990L0377) [que estabelece um processo comunitário que assegure a transparência dos preços no consumidor final industrial de gás e electricidade](http://publications.europa.eu/resource/celex/31990L0377) [(90/377/CEE)](http://publications.europa.eu/resource/celex/31990L0377) (JO L 185, 17.7.1990, p.16)\n\n**revogado por:**\n\n- [Directiva 2008/92/CE do Parlamento Europeu e do Conselho de 22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008L0092) — L 298 — 9 — 7.11.2008"
+  }
+ }
+}

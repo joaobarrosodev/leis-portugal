@@ -35,6 +35,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-05-01'
+version_history:
+  file: regulamento-ue-1998-2135.versoes.json
+  count: 2
+  source_lastmod: '2006-05-01'
+  versions:
+  - date: '1998-10-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-05-01'
+    amending: eu:celex:32002R1360:por
+    amending_title: REGULAMENTO (CE) N. o 1360/2002 DA COMISSÃO de 13 de Junho de 2002; REGULAMENTO (CE) N. o 561/2006 DO
+      PARLAMENTO EUROPEU E DO CONSELHO de 15 de Março de 2006
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita I. DEFINIÇÕES
+    - Adita II. CARACTERÍSTICAS GERAIS E FUNÇÕES DO APARELHO DE CONTROLO
+    - Adita 1. Características gerais
+    - Adita 2. Funções
+    - Adita 3. Modos de funcionamento
+    - Adita 4. Segurança
+    - Adita III. REQUISITOS DE CONSTRUÇÃO E DE FUNCIONAMENTO DO APARELHO DE CONTROLO
+    - Adita 1. Controlo da inserção e da retirada de cartões
+    - Adita 2. Medição da velocidade e da distância
+    - Adita 3. Medição do tempo
+    - Adita 4. Controlo das actividades do condutor
+    - Adita 5. Controlo da situação de condução
+    - Adita 6. Entradas efectuadas manualmente pelos condutores
+    - Adita 7. Gestão dos bloqueamentos da empresa
+    - Adita 8. Vigilância das actividades de controlo
+    - Adita 9. Detecção de incidentes e/ou falhas
+    - Adita 10. Ensaios incorporados e auto-ensaios
+    - Adita 11. Leitura da memória de dados
+    - Adita 12. Registo e memorização de dados na memória
+    - Adita 13. Leitura de cartões tacográficos
+    - Adita 14. Registo e memorização de dados nos cartões tacográficos
+    - Adita 15. Visualização (displaying)
+    - Adita 16. Impressão (printing)
+    - Adita 17. Avisos ou alertas (warnings)
+    - Adita 18. Descarregamento de dados para meios externos
+    - Adita 19. Transmissão ou saída (output) de dados para dispositivos externos adicionais
+    - Adita 20. Calibração
+    - Adita 21. Ajustamento do tempo
+    - Adita 22. Características de desempenho
+    - Adita 23. Materiais
+    - Adita 24. Marcações
+    - Adita IV. REQUISITOS DE CONSTRUÇÃO E DE FUNCIONAMENTO DOS CARTÕES TACOGRÁFICOS
+    - Adita 1. Dados visíveis
+    - Adita 2. Segurança
 identifiers:
   celex: 31998R2135
   eli: http://data.europa.eu/eli/reg/1998/2135/oj
@@ -49,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/421de911-3a8b-4f69-802d-92be16287d63.0011
   content_url: http://publications.europa.eu/resource/cellar/3a834f6f-b434-4796-a09f-526ab760bc80.0041.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998R2135-20060501
-  retrieved_at: '2026-10-22T02:39:39Z'
+  retrieved_at: '2026-10-22T14:47:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T00:34:22.241+01:00'
 integrity:
@@ -58,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:39Z'
-  notes: Texto consolidado 01998R2135-20060501.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:33Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1998-2135.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -163,30 +217,21 @@ relationships:
   date: '2014-02-28'
 article_structure:
   article_count: 4
-  section_count: 372
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 373
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:39Z'
-  warnings: []
+  checked_at: '2026-10-22T14:47:33Z'
+  warnings:
+  - '01998R2135-19991010: versão indisponível (Sem expressão na língua por para CELEX 01998R2135-19991010.)'
+  - '01998R2135-20020825: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) nº 2135/98 do Conselho de 24 de Setembro de 1998
-
-> 01998R2135 — PT — 01.05.2006 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32002R1360) — [REGULAMENTO (CE) N.º 1360/2002 DA COMISSÃO de 13 de Junho de 2002](http://publications.europa.eu/resource/celex/32002R1360) — L 207 — 1 — 5.8.2002
-- [►M2](http://publications.europa.eu/resource/celex/32006R0561) — [REGULAMENTO (CE) N.º 561/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Março de 2006](http://publications.europa.eu/resource/celex/32006R0561) — L 102 — 1 — 11.4.2006
-
-## REGULAMENTO (CE) N.º 2135/98 DO CONSELHO
 
 de 24 de Setembro de 1998
 

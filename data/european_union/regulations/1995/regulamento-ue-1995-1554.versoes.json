@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31995R1554:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995R1554-20010901",
+ "dre_path": null,
+ "source_lastmod": "2001-09-01",
+ "versions": [
+  {
+   "date": "1995-06-30",
+   "future": false,
+   "celex": "31995R1554",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ef9a1295b05b964b",
+    "3691145bd98c67af",
+    "ec31952f091ffbce",
+    "d3f634458bad0ee1",
+    "89a76ecdf66ccc11",
+    "af093a758c2c2820",
+    "4036c665988b63f2",
+    "6ab831d0c11be75b",
+    "b27d4a38f236303a",
+    "1b4af245eeb34932",
+    "293725c3157260d2",
+    "16248555590a64e7",
+    "1e6dc4feccf5a2af",
+    "334e112f02b79001",
+    "83c7a45710c59a44"
+   ]
+  },
+  {
+   "date": "2001-09-01",
+   "future": false,
+   "celex": "01995R1554-20010901",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º"
+   ],
+   "fragments": [
+    "a8d9e6c10d2e2cb1"
+   ]
+  }
+ ],
+ "fragments": {
+  "ef9a1295b05b964b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 1554/95 do Conselho, de 29 de Junho de 1995, que fixa as regras gerais do regime de ajuda ao algodão e revoga o Regulamento (CEE) nº 2169/81** *Jornal Oficial nº L 148 de 30/06/1995 p. 0048 - 0051*\n\nREGULAMENTO (CE) Nº 1554/95 DO CONSELHO de 29 de Junho de 1995 que fixa as regras gerais do regime de ajuda ao algodão e revoga o Regulamento (CEE) nº 2169/81\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Acto de Adesão da Grécia e, nomeadamente, o nº 9 do protocolo nº 4, relativo ao algodão, com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1553/95 (1),\n\nTendo em conta a proposta da Comissão (2),\n\nConsiderando que o protocolo nº 4 do Acto de Adesão da Grécia e o Regulamento (CEE) nº 1964/87 do Conselho, de 2 de Julho de 1987, que adapta o regime de ajuda para o algodão instituído pelo protocolo nº 4 anexo ao Acto de Adesão da Grécia (3), foram alterados pelo Regulamento (CE) nº 1553/95; que é necessário, por conseguinte, alterar o Regulamento (CEE) nº 2169/81 do Conselho, de 27 de Julho de 1981, que fixa as regras gerais do regime de ajuda para o algodão (4); que, dado o carácter substancial das adaptações a realizar, bem como o elevado número de alterações de que aquele regulamento foi objecto, é conveniente, por uma questão de clareza e transparência, proceder à sua reformulação; que é necessário, consequentemente, revogar o Regulamento (CEE) nº 2169/81;\n\nConsiderando que, nos termos do nº 9 do protocolo, é necessário fixar, nomeadamente, as regras processuais e de boa gestão para a sua aplicação, as regras gerais do regime de ajuda à produção e os critérios para determinação do preço do mercado mundial, bem como as regras relativas ao financiamento das medidas previstas;\n\nConsiderando que é conveniente, para facilitar a aplicação e a correcta gestão do regime de ajuda à produção, prever um processo de colaboração estreita entre os Estados-membros e a Comissão no âmbito de um comité de gestão; que é oportuno recorrer ao Comité de gestão do linho e do cânhamo previsto no Regulamento (CEE) nº 1308/70 do Conselho, de 29 de Junho de 1970, que estabelece a organização comum de mercado no sector do linho e do cânhamo (5);\n\nConsiderando que, nos termos do artigo 2º do Regulamento (CEE) nº 1964/87, a ajuda será afectada de adaptações a determinar caso a produção comunitária exceda uma quantidade previamente fixada; que, assim, o montante da ajuda a conceder só pode ser conhecido após verificação da quantidade produzida; que, para atenuar os inconvenientes para os interessados do pagamento tardio da ajuda, é necessário prever um pagamento parcial antecipado;\n\nConsiderando que, nos termos do terceiro parágrafo do nº 3 do protocolo, o montante da ajuda é determinado com base na diferença existente entre um preço de objectivo fixado para o algodão não descaroçado e o preço do mercado mundial; que, na ausência de trocas internacionais e, por conseguinte, de ofertas e cotações para o algodão não descaroçado, é necessário adoptar disposições que permitam estabelecer o preço do mercado mundial daquele produto; que o referido preço pode ser determinado com base na relação tradicionalmente existente entre o preço do algodão descaroçado e o preço calculado para o algodão não descaroçado;\n\nConsiderando que é conveniente, na determinação do preço do algodão descaroçado, ter em conta as ofertas verificadas no mercado mundial, bem como as cotações registadas nas bolsas importantes para o comércio internacional; que o preço do mercado mundial deve ser determinado com base nas ofertas e cotações mais favoráveis entre aquelas consideradas representativas da tendência real daquele mercado;\n\nConsiderando que, para assegurar o bom funcionamento do regime de ajuda, o preço do mercado mundial deve ser verificado para um lugar de passagem na fronteira da Comunidade; que, para a determinação deste lugar, convém ter em conta a sua representatividade relativamente à origem do produto em questão; que convém, em consequência, escolher os portos da Europa do Norte, quando se tratar de origens múltiplas, e o porto do Pireu quando se tratar de um número restrito de origens ou de ofertas e cotações verificadas numa bolsa situada fora da Europa; que, neste último caso, as ofertas e cotações consideradas devem ser ajustadas se se referirem a um lugar de passagem na fronteira diferente do porto do Pireu;\n\nConsiderando que, para as ofertas e cotações consideradas, convém proceder igualmente a ajustamentos destinados a compensar eventuais diferenças de apresentação e qualidade relativamente aos critérios utilizados na fixação do preço de objectivo;\n\nConsiderando que é conveniente prever que os Estados-membros produtores devam tomar as medidas de controlo necessárias para assegurar o bom funcionamento do regime de ajuda;\n\nConsiderando que, a fim de submeter as despesas comunitárias ligadas à aplicação da medida considerada a regras financeiras e monetárias e a procedimentos adequados, é conveniente tornar aplicáveis neste domínio, mutatis mutandis, tendo em conta o carácter especificamente agrícola do algodão, o Regulamento (CEE) nº 729/70 do Conselho, de 21 de Abril de 1970, relativo ao financiamento da política agrícola comum (1), bem como os regulamentos relativos ao valor da unidade de conta e às taxas de câmbio a aplicar no âmbito da política agrícola comum;\n\nConsiderando que é necessário que o disposto no presente regulamento seja aplicável a partir da campanha de 1995/1996 para permitir a execução a partir dessa data das adaptações do regime previstas no Regulamento (CE) nº 1553/95;\n\nConsiderando que a aplicação das adaptações ao regime previstas no presente regulamento deve realizar-se nas melhores condições; que, para tal, podem revelar-se necessárias medidas de transição,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3691145bd98c67af": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nNa acepção do presente regulamento, entende-se por:\n\na) «Algodão não descaroçado», os frutos do algodoeiro (Gossypium) que atingiram a maturação, colhidos e contendo resíduos de cápsulas, de folhas e de matérias terrosas;\n\nb) «Algodão descaroçado», as fibras de algodão (com excepção do linter e dos detritos) separadas das sementes e da maior parte dos resíduos de cápsulas, de folhas e de matérias terrosas, não cardadas nem penteadas."
+  },
+  "ec31952f091ffbce": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nO preço de objectivo para uma qualidade determinada de algodão não descaroçado é aplicável durante toda a respectiva campanha de comercialização; esta abrange o período compreendido entre 1 de Setembro e 31 de Agosto."
+  },
+  "d3f634458bad0ee1": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. O preço do mercado mundial do algodão não descaroçado será determinado tendo em conta a relação tradicionalmente existente entre o preço do mercado mundial do algodão descaroçado e preço calculado para o algodão não descaroçado. A sua determinação é feita periodicamente a partir do preço do mercado mundial verificado para o algodão descaroçado.\n\n2. Caso o preço do mercado mundial do algodão não descaroçado não possa ser determinado nos termos do nº 1, este preço será estabelecido com base no último preço determinado."
+  },
+  "89a76ecdf66ccc11": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. O preço do mercado mundial do algodão descaroçado é determinado para um produto do grau nº 5 («white middling») com um comprimento de fibra de 28 milímetros (1-3/320), tendo em conta as ofertas feitas nesse mercados, e as cotações numa ou em várias bolsas europeias importantes para o comércio internacional. O preço do mercado mundial do algodão descaroçado é determinado com base nas ofertas e cotações mais favoráveis de entre as consideradas representativas da tendência real daquele mercado.\n\n2. Para efeitos da referida determinação, é estabelecida uma média das ofertas e cotações verificadas numa ou em várias bolsas europeias para um produto entregue CIF num porto do norte da Europa em proveniência dos diferentes países fornecedores considerados mais representativos para o comércio internacional.\n\nNo entanto, caso não possa ser determinado nos termos do primeiro parágrafo, o preço do mercado mundial será determinado:\n\n- com base num número restrito de ofertas e cotações mais representativos verificados na bolsa de Liverpool ou noutra bolsa europeia, relativos a um produto entregue CIF no Pireu, ou - com base nas ofertas e cotações de uma bolsa não europeia, quer calculando a média das ofertas e cotações para um produto entregue CIF no Pireu, proveniente de diferentes países fornecedores considerados como os mais representativos para o comércio internacional, quer seleccionando um número estrito de entre as ofertas e cotações mais representativas para um produto entregue CIF no Pireu.\n\n3. Caso as ofertas e cotações verificadas não correspondam às condições referidas nos números anteriores, proceder-se-á aos necessários ajustamentos."
+  },
+  "af093a758c2c2820": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Quando o preço do mercado mundial determinado nos termos do artigo 3º for inferior ao preço de objectivo, será concedida, relativamente ao algodão não descaroçado colhido na Comunidade, uma ajuda igual à diferença entre os dois preços, sem prejuízo do disposto nos nºs 3 e 4 do artigo 2º do Regulamento (CEE) nº 1964/87.\n\n2. O montante da ajuda a pagar será o que vigora no dia de apresentação do pedido de ajuda. Todavia, o montante da ajuda aplicável no dia da apresentação do pedido será ajustado em função da diferença entre o preço de objectivo válido nesse mesmo dia e o que for válido no dia em que o algodão for colocado sob controlo.\n\nCaso seja entregue antes da apresentação do pedido de colocação sob controlo, o pedido de ajuda só poderá ser aceite na condição de ser constituída uma garantia suficiente, que assegure a entrega do pedido de colocação sob controlo no prazo fixado.\n\n3. O direito à ajuda é adquirido no momento do descaroçamento. A ajuda pode, no entanto, ser paga antecipadamente a partir do dia 16 do mês de Outubro seguinte ao início da campanha, depois do algodão não descaroçado ter entrado na empresa de descaroçamento, desde que seja constituída uma garantia suficiente. O montante do adiantamento será determinado nos termos do procedimento previsto no nº 1 do artigo 11º tendo em conta, por um lado, a produção estimada de algodão não descaroçado e, por outro, o montante previsível da ajuda. O montante do adiantamento não pode exceder 40% do preço de objectivo. O saldo eventual da ajuda será pago após determinação da produção efectiva e das eventuais adaptações da ajuda referidas nos nºs 3 e 4 do artigo 2º do Regulamento (CEE) nº 1964/87, devendo ser pago antes do fim da campanha.\n\n4. A ajuda é paga pelo Estado-membro produtor em cujo território teve lugar o descaroçamento.\n\n5. Só será concedida ajuda relativamente a um produto de qualidade sã, íntegra e comercializável.\n\n6. Se a quantidade de algodão descaroçado for inferior ou igual a 33% da quantidade de algodão não descaroçado entrada na empresa de descaroçamento, a ajuda será concedida relativamente à quantidade de algodão descaroçado multiplicada por 100 e dividida por 32.\n\nSe a quantidade de algodão descaroçado for superior a 33% da quantidade de algodão não descaroçado entrada na empresa de descaroçamento, a ajuda será concedida relativamente à quantidade de algodão não descaroçado multiplicada por 33 e dividida por 32.\n\nA quantidade de algodão descaroçado é calculada com base no peso, sendo este adaptado em função da diferença eventual entre:\n\n- a percentagem de impurezas verificada e a percentagem representativa do grau nº 5,\n\ne - a percentagem de humidade verificada e a percentagem representativa da fibra comercializada.\n\nAs percentagens representativas referidas nos travessões anteriores são determinadas nos termos do procedimento previsto no nº 1 do artigo 11º"
+  },
+  "4036c665988b63f2": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nA redução do preço de objectivo referida no nº 3 do artigo 2º do Regulamento (CEE) nº 1964/87 é estabelecida da seguinte forma:\n\na) Caso a produção efectiva exceda, na Espanha e na Grécia, a quantidade nacional garantida (QNG), o excesso registado em cada Estado-membro é expresso em percentagem da QNG, sendo o preço de objectivo diminuído de uima percentagem igual a metade da percentagem do excesso;\n\nb) Nos restantes casos, o excesso da produção efectiva relativamente à quantidade máxima garantida (QMG) é expresso em percentagem da QNG do Estado-membro em causa, sendo o preço de objectivo diminuído numa percentagem igual a metade da percentagem do excesso."
+  },
+  "6ab831d0c11be75b": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nA ajuda só é concedida às empresas de descaroçamento que tenham feito o pedido e que:\n\n1. Tenham apresentado:\n\na) Quer um contrato prevendo, nomeadamente, o pagamento ao produtor de um preço pelo menos igual ao preço mínimo referido no nº 8-A do protocolo nº 4 e que inclua uma cláusula que preveja que:\n\n- caso seja aplicado o nº 3 e/ou o nº 4 do artigo 2º do Regulamento (CEE) nº 1964/87, o preço acordado seja adaptado em função da incidência na ajuda do disposto no presente artigo,\n\n- caso a qualidade do algodão seja diferente da qualidade-tipo referida no nº 8 do protocolo nº 4, o preço acordado seja proporcionalmente ajustado de comum acordo entre as partes contratantes;\n\nb) Quer, caso procedam ao descaroçamento por conta de um produtor individual ou associado, uma declaração especificando as condições nas quais o descaroçamento é efectuado e a ajuda repercutida ao nível dos produtores.\n\n2. Tenham uma contabilidade de existências relativa ao algodão não descaroçado e ao algodão descaroçado, que corresponda a prescrições a determinar, e destinada ao controlo do direito à ajuda.\n\n3. Forneçam os demais documentos justificativos necessários para o controlo do direito à ajuda.\n\n4. Façam prova de que o algodão entregue em execução do contrato ou ao qual se refere a declaração referida na alínea b) do ponto 1, é objecto da declaração de superfícies referida no artigo 8º"
+  },
+  "b27d4a38f236303a": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nAntes de 1 de Outubro, será estabelecida, nos termos do procedimento previsto no nº 1 do artigo 11º e tendo em conta as previsões da colheita, a produção estimada de algodão referida no nº 3 do artigo 5º.\n\nTendo em vista a elaboração dessas previsões, é criado um regime de declaração de superfícies semeadas."
+  },
+  "1b4af245eeb34932": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nAntes do fim do mês de Junho da campanha em curso, será determinada a produção efectiva dessa campanha, nos termos do procedimento previsto nº 1 do artigo 11º e tendo em conta nomeadamente as quantidades relativamente às quais a ajuda foi pedida."
+  },
+  "293725c3157260d2": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros produtores criarão um regime de controlo que permita, nomeadamente:\n\n- determinar a quantidade de algodão comunitário não descaroçado que deu entrada em cada empresa de descaroçamento,\n\n- determinar a quantidade de algodão comunitário não descaroçado que foi submetida a descaroçamento,\n\n- determinar a quantidade de algodão descaroçado obtida em cada empresa de descaroçamento a partir da quantidade referida no primeiro travessão,\n\n- verificar o respeito do preço mínimo."
+  },
+  "16248555590a64e7": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. As regras de execução do presente regulamento serão determinadas nos termos do procedimento previsto no artigo 12º do Regulamento (CEE) nº 1308/70.\n\nEssas regras dizem nomeadamente respeito a qualquer medida de controlo necessária, podendo essas medidas utilizar elementos previstos pelo sistema integrado.\n\n2. Caso sejam necessárias medidas de transição para facilitar a aplicação das adaptações ao regime previstas pelo presente regulamento, essas medidas serão adoptadas nos termos do procedimento previsto no nº 1. As medidas serão aplicáveis o mais tardar até ao fim da campanha de 1995/1996."
+  },
+  "1e6dc4feccf5a2af": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. É revogado o Regulamento (CEE) nº 2169/81.\n\n2. Todas as remissões em actos comunitários para o Regulamento (CEE) nº 2169/81, ou para determinados artigos desse regulamento, entendem-se feitas para o presente regulamento ou para os artigos correspondentes do presente regulamento."
+  },
+  "334e112f02b79001": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nAs disposições dos regulamentos relativos ao valor da unidade de conta e à taxa de câmbio a aplicar no âmbito da política agrícola comum, por um lado, e do Regulamento (CEE) nº 729/70, por outro, aplicam-se, mutatis mutandis, no domínio do presente regulamento."
+  },
+  "83c7a45710c59a44": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nO presente regulamento entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é aplicável a partir da campanha de 1995/1996. Contudo, o nº 2 do artigo 11º é aplicável a partir da data de entrada em vigor do presente regulamento.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo, em 29 de Junho de 1995.\n\nPelo Conselho O Presidente J. BARROT\n\n(1) Ver página 45 do presente Jornal Oficial.\n\n(2) JO nº C 94 de 14. 4. 1995, p. 6.\n\n(3) JO nº L 184 de 3. 7. 1987, p. 14.\n\n(4) JO nº L 211 de 31. 7. 1981, p. 2. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 1554/93 (JO nº L 154 de 25. 6. 1993, p. 23).\n\n(5) JO nº L 146 de 4. 7. 1970, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) nº 3290/94 (JO nº L 349 de 31. 12. 1994, p. 105).\n\n(1) JO nº L 94 de 28. 4. 1970, p. 13. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 2048/88 (JO nº L 185 de 15. 7. 1988, p. 1)."
+  },
+  "a8d9e6c10d2e2cb1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1995R1554 — PT — 01.09.2001 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31995R1554) [REGULAMENTO (CE) N.º 1554/95 DO CONSELHO](http://publications.europa.eu/resource/celex/31995R1554) [de 29 de Junho de 1995](http://publications.europa.eu/resource/celex/31995R1554) [que fixa as regras gerais do regime de ajuda ao algodão e revoga o Regulamento (CEE) n.º 2169/81](http://publications.europa.eu/resource/celex/31995R1554) (JO L 148, 30.6.1995, p.48)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1051/2001 do Conselho de 22 de Maio de 2001](http://publications.europa.eu/resource/celex/32001R1051) — L 148 — 3 — 1.6.2001"
+  }
+ }
+}

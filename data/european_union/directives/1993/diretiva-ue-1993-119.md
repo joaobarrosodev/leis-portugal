@@ -33,6 +33,104 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-01-01'
+version_history:
+  file: diretiva-ue-1993-119.versoes.json
+  count: 3
+  source_lastmod: '2013-01-01'
+  versions:
+  - date: '1993-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-05'
+    amending: eu:celex:32003R0806:por
+    amending_title: REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003; REGULAMENTO(CE) N. o 1/2005 DO CONSELHO
+      de 22 de Dezembro de 2004
+    changes:
+    - Altera preambulo
+    - Adita CAPÍTULO I
+    - Adita Disposições gerais
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita CAPÍTULO II
+    - Adita Requisitos aplicáveis aos matadouros
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita CAPÍTULO III
+    - Adita Abate e occisão fora de matadouros
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita CAPÍTULO IV
+    - Adita Disposições finais
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita ANEXO A
+    - Adita REQUISITOS APLICÁVEIS AO ENCAMINHAMENTO E À ESTABULAÇÃO DOS ANIMAIS NOS MATADOUROS
+    - Adita I. Requisitos gerais
+    - Adita II. Requisitos relativos aos animais não transportados em contentores
+    - Adita III. Requisitos relativos aos animais transportados em contentores
+    - Adita ANEXO B
+    - Adita IMOBILIZAÇÃO DOS ANIMAIS ANTES DO ATORDOAMENTO, ABATE OU OCCISÃO
+    - Adita ANEXO C
+    - Adita ATORDOAMENTO E OCCISÃO DOS ANIMAIS, À EXCEPÇÃO DOS ANIMAIS DESTINADOS AO APROVEITAMENTO DA PELE
+    - Adita I. MÉTODOS AUTORIZADOS
+    - Adita A. Atordoamento
+    - Adita B. Occisão
+  - date: '2013-01-01'
+    amending: eu:celex:32009R1099:por
+    amending_title: REGULAMENTO (CE) N. o 1099/2009 DO CONSELHO de 24 de Setembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera I. Requisitos gerais
+    - Altera II. Requisitos relativos aos animais não transportados em contentores
+    - Altera II. REQUISITOS ESPECÍFICOS RELATIVOS AO ATORDOAMENTO
+    - Altera A. Eléctrodos
+    - Altera B. Tanques de imersão
+    - Altera 4. Exposição ao dióxido de carbono
+    - Suprime CAPÍTULO I
+    - Suprime Disposições gerais
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime CAPÍTULO II
+    - Suprime Requisitos aplicáveis aos matadouros
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime CAPÍTULO III
+    - Suprime Abate e occisão fora de matadouros
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime CAPÍTULO IV
+    - Suprime Disposições finais
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime III. Requisitos relativos aos animais transportados em contentores
+    - Suprime ANEXO B
+    - Suprime IMOBILIZAÇÃO DOS ANIMAIS ANTES DO ATORDOAMENTO, ABATE OU OCCISÃO
+    - Suprime I. MÉTODOS AUTORIZADOS
+    - Suprime A. Atordoamento
+    - Suprime B. Occisão
 identifiers:
   celex: 31993L0119
   eli: http://data.europa.eu/eli/dir/1993/119/oj
@@ -47,7 +145,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2c08a7f4-e9a4-4c6c-bbf6-e436e7b4f154.0011
   content_url: http://publications.europa.eu/resource/cellar/3282c5bf-3613-486c-a875-2647c52614ce.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0119-20130101
-  retrieved_at: '2026-10-22T02:50:36Z'
+  retrieved_at: '2026-10-22T14:42:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-16T09:45:20.136+02:00'
 integrity:
@@ -56,9 +154,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:50:36Z'
-  notes: Texto consolidado 01993L0119-20130101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:22Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1993-119.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -143,31 +241,19 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 11
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:50:36Z'
+  checked_at: '2026-10-22T14:42:22Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
+  - '01993L0119-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 93/119/CE do Conselho, de 22 de Dezembro de 1993
-
-> 1993L0119 — PT — 01.01.2013 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32003R0806) — [REGULAMENTO (CE) N.º 806/2003 DO CONSELHO de 14 de Abril de 2003](http://publications.europa.eu/resource/celex/32003R0806) — L 122 — 1 — 16.5.2003
-- [►M2](http://publications.europa.eu/resource/celex/32005R0001) — [REGULAMENTO(CE) N.º 1/2005 DO CONSELHO de 22 de Dezembro de 2004](http://publications.europa.eu/resource/celex/32005R0001) — L 3 — 1 — 5.1.2005
-- [►M3](http://publications.europa.eu/resource/celex/32009R1099) — [REGULAMENTO (CE) N.º 1099/2009 DO CONSELHO de 24 de Setembro de 2009](http://publications.europa.eu/resource/celex/32009R1099) — L 303 — 1 — 18.11.2009
-
-## DIRECTIVA 93/119/CE DO CONSELHO
 
 de 22 de Dezembro de 1993
 

@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31971L0348:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01971L0348-20061030",
+ "dre_path": null,
+ "source_lastmod": "2006-10-30",
+ "versions": [
+  {
+   "date": "2006-10-30",
+   "future": false,
+   "celex": "01971L0348-20061030",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3b157d0f466fb3ee"
+   ]
+  }
+ ],
+ "fragments": {
+  "3b157d0f466fb3ee": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1971L0348 — PT — 30.10.2006 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31971L0348) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31971L0348) [de 12 de Outubro de 1971](http://publications.europa.eu/resource/celex/31971L0348) [relativa à aproximação das legislações dos Estados-membros respeitantes aos dispositivos complementares para contadores de líquidos com exclusão da água](http://publications.europa.eu/resource/celex/31971L0348) [(71/348/CEE)](http://publications.europa.eu/resource/celex/31971L0348) (JO L 239, 25.10.1971, p.9)\n\n**revogado por:**\n\n- [Directiva 2004/22/CE do Parlamento Europeu e do Conselho de 31 de Março de 2004](http://publications.europa.eu/resource/celex/32004L0022) — L 135 — 1 — 30.4.2004"
+  }
+ }
+}

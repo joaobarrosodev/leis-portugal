@@ -1,0 +1,239 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991R1538:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991R1538-20080701",
+ "dre_path": null,
+ "source_lastmod": "2008-07-01",
+ "versions": [
+  {
+   "date": "1991-06-07",
+   "future": false,
+   "celex": "31991R1538",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c1ab4a8911ae10a9",
+    "e0e14eee79f2286e",
+    "615052f7989dda9d",
+    "2fdd61235c47258a",
+    "1c39bcd2cfe81b27",
+    "a7d7ea36dc0ed4a7",
+    "991b187684489d11",
+    "bb0adf3497962f0f",
+    "994f2de1600ad529",
+    "85ab87c69235249a",
+    "0b6ea144fa359ef1",
+    "21ff5b9bab9e8def",
+    "56b86cc014247edb",
+    "bfed2351e8ff33c2",
+    "0a8274e89942b985",
+    "df9359ead3a9a9b6",
+    "2dd0d6cdf2a99682",
+    "b0da8d7842113918",
+    "0fe447ed1b2c77f6",
+    "f4caf8438b8f0162"
+   ]
+  },
+  {
+   "date": "2008-07-01",
+   "future": false,
+   "celex": "01991R1538-20080701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime ANEXO I — ARTIGO 1.1 - DESIGNAÇÕES DAS CARCAÇAS DE AVES DE CAPOEIRA",
+    "Suprime ANEXO II — ARTIGO 9 - MÉTODOS DE REFRIGERAÇÃO",
+    "Suprime ANEXO III — ARTIGO 10.1 - MÉTODOS DE REFRIGERAÇÃO",
+    "Suprime ANEXO IV — a) Tipo de alimentação"
+   ],
+   "fragments": [
+    "7bc978910b1ddb80"
+   ]
+  }
+ ],
+ "fragments": {
+  "c1ab4a8911ae10a9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 1538/91 da Comissão, de 5 de Junho de 1991, que estatui regras de execução do Regulamento (CEE) nº 1906/90 que estabelece normas de comercialização para as aves de capoeira** *Jornal Oficial nº L 143 de 07/06/1991 p. 0011 - 0022 Edição especial finlandesa: Capítulo 3 Fascículo 37 p. 0214 Edição especial sueca: Capítulo 3 Fascículo 37 p. 0214*\n\nREGULAMENTO (CEE) No 1538/91 DA COMISSÃO de 5 de Junho de 1991 que estatui regras de execução do Regulamento (CEE) no 1906/90 que estabelece normas de comercialização para as aves de capoeira\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) no 1906/90 do Conselho, de 26 de Junho de 1990, que estabelece normas de comercialização para as aves de capoeira (1), e, nomeadamente o seu artigo 9o,\n\nConsiderando que o Regulamento (CEE) no 1906/90, de 26 de Junho de 1990, estatuiu determinadas normas de comercialização para as aves de capoeira cuja aplicação exige a adopção de disposições respeitantes, em especial, à lista de carcaças, partes e miudezas dessas aves de capoeira objecto do regulamento mencionado, à classificação através da configuração, aspecto e peso, aos tipos de apresentação, à indicação da designação com que os produtos em causa são vendidos, à utilização facultativa de indicações respeitantes aos métodos de refrigeração e ao tipo de criação, e às condições de armazenagem e de transporte de determinados tipos de carne de aves de capoeira; que é necessário assegurar a vigilância destas disposições a fim de garantir a sua aplicação uniforme em toda a Comunidade;\n\nConsiderando que, com vista à comercialização de aves de capoeira de diferentes categorias de acordo com a configuração e o aspecto, é necessário establecer definições respeitantes às espécies, idade e apresentação no caso dos pedaços de aves de capoeira; que, no caso do produto conhecido por foie gras, o seu elevado valor e, em consequência, o risco de práticas fraudulentas tornam necessário estatuir normas mínimas de comercialização especialmente precisas;\n\nConsiderando que não é necessária a aplicação destas normas a determinados produtos e tipos de apresentação de importância local ou, de qualquer outra forma, restrita; que, no entanto, as designações com que tais produtos são vendidos não devem induzir o consumidor em erro essencial, provocando a confusão entre esses produtos e os produtos sujeitos às presentes disposições; que, de igual modo, os termos descritivos adicionais utilizados na qualificação das designações desses produtos devem ser também sujeitos às presentes disposições;\n\nConsiderando que a temperatura de armazenagem e de manipulação tem uma importância crucial para a manutenção de elevados níveis de qualidade; que, por isso, é adequado definir uma temperatura mínima à qual devem ser mantidos os produtos congelados de aves de capoeira;\n\nConsiderando que as disposições do presente regulamento e, em especial, as relacionadas com a vigilância e a execução, devem ser aplicadas uniformemente em toda a Comunidade; que as regras de pormenor adoptadas para esse fim devem, igualmente, ser uniformes; que, por conseguinte, é necessário definir medidas comuns em matéria de processos de amostragem e de tolerâncias;\n\nConsiderando que é necessário, a fim de proporcionar ao consumidor informações suficientes, inequívocas e objectivas relativas a esses produtos propostos para venda e de assegurar a sua livre circulação em toda a Comunidade, garantir que as normas de comercialização das aves de capoeira tenham em conta, na medida do possível, as disposições da Directiva 76/211/CEE do Conselho de 20 de Janeiro de 1976, relativa à aproximação das legislações dos Estados-membros respeitantes ao pré-acondicionamento em massa ou em volume de certos produtos em pré-embalagens (1), alterada pela Directiva 78/891/CEE (2);\n\nConsiderando que, dentre as indicações a utilizar facultativamente na rotulagem, se encontram as respeitantes ao método de refrigeração e aos tipos especiais de criação; que, no intuito da protecção do consumidor, a utilização destes últimos deve ser sujeita ao respeito de critérios definidos estritamente relativos tanto às condições de produção animal como aos limiares quantitativos para a definição de certos critérios, tais como a idade de abate, a duração do período de engorda ou o teor de determinados ingredientes dos alimentos;\n\nConsiderando que é adequado que a Comissão exerça uma vigilância permanente da compatibilidade com a legislação comunitária, incluindo as normas de comercialização, nomeadamente de quaisquer medidas nacionais adoptadas nos termos destas disposições; que devem ser igualmente adoptadas disposições respeitantes ao registo e à inspecção regular das explorações autorizadas a utilizar os termos relativos a tipos especiais de criação; que, por isso, essas explorações devem, para o efeito, ser obrigadas a manter registos regulares e pormenorizados;\n\nConsiderando que, atendendo à natureza especializada destas inspecções, a responsabilidade por estas deve ser delegada pelas autoridades competentes do Estado-membro em causa em organismos exteriores devidamente qualificados e com as devidas licenças, sujeitos à vigilância e protecção adequadas;\n\nConsiderando que os operadores de países terceiros podem desejar utilizar indicações facultativas respeitantes aos métodos de refrigeração e aos tipos de criação; que devem ser adoptadas disposições nesse sentido, submetendo-os a certificação adequada pela autoridade competente do país terceiro em questão, constante da lista estabelecida pela Comissão;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão das Aves de Capoeira e dos Ovos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "e0e14eee79f2286e": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nOs produtos referidos no no 2 do artigo 1o do Regulamento (CEE) no 1906/90 do Conselho são definidos do seguinte modo:\n\n1. Carcaças de aves de capoeira\n\na) GALOS, GALINHAS E FRANGOS (Gallus domesticus)\n\n- Frango: ave em que a extremidade do esterno é flexível (não ossificada).\n\n- Galo, galinha: aves em que a extremidade do esterno é rígida (ossificada).\n\n- Capão: ave macho castrada cirurgicamente antes de atingir a maturidade sexual.\n\n- Pinto, coquelet: frango com peso inferior a 750 gramas/carcaça (sem miudezas, cabeça e patas).\n\nb) PERUS (Meleagris gallopavo dom.)\n\n- Peru: ave em que a extremidade do esterno é flexível (não ossificada).\n\n- Peru adulto: ave em que a extremidade do esterno é rígida (ossificada).\n\nc) PATOS (Anas platyrhynchos, dom., cairina muschata)\n\n- Pato, pato Barbary: ave em que a extremidade do esterno é flexível (não ossificada).\n\n- Pato adulto, pato adulto Barbary: ave em que a extremidade do esterno é rígida (ossificada).\n\nd) GANSOS (Anser anser dom.)\n\n- Ganso: ave em que a extremidade do esterno é flexível (não ossificada). A camada adiposa em torno de toda a carcaça é fina ou pouco espessa. A gordura do ganso jovem pode ter uma cor indicativa de uma dieta especial.\n\n- Ganso adulto: ave em que a extremidade do esterno é rígida (ossificada); deve observa-se à volta de toda a carcaça uma camada adiposa de pouco espessa a espessa.\n\ne) PINTADAS (Numida meleagris domesticus)\n\n- Pintada: ave em que extremidade do esterno é flexível (não ossificada).\n\n- Pintada adulta: ave em que a extremidade do esterno é rígida (ossificada).\n\nPara efeitos do disposto no presente regulamento, são consideradas equivalentes as formas masculina e feminina dos termos acima definidos.\n\n2. Pedaços de aves de capoeira\n\na) Metade: metade da carcaça, obtida por um corte longitudinal no plano formado pelo esterno e pela coluna vertebral.\n\nb) Quarto: uma metade dividida por um corte transversal, através do qual são obtidos os quartos da coxa e do peito.\n\nc) Quartos de coxa não separados: ambos os quartos de coxa ligados por uma porção do dorso, com ou sem o uropígio.\n\nd) Peito: o esterno e as costelas, ou parte destes, distribuídas de ambos os lados, com a massa muscular envolvente. O peito pode ser apresentado na sua totalidade ou como uma metade.\n\ne) Perna inteira: o fémur, a tíbia e o perónio com a massa muscular envolvente. Os dois cortes devem ser feitos nas articulações.\n\nf) Perna inteira de frango com uma porção do dorso a ela ligada, não excedendo o peso desta última 25 % deste pedaço.\n\ng) Coxa: o fémur com a massa muscular anvolvente. Os dois cortes devem ser feitos nas articulações.\n\nh) Perna: a tíbia e o perónio com a massa muscular envolvente. Os dois cortes devem ser feitos nas articulações.\n\ni) Asa: o úmero, o rádio e o cúbito, com a massa muscular envolvente. A estremidade, incluindo os ossos cárpicos, pode ser ou não retirada. No caso das asas de perus, o úmero ou o rádio/cúbito, com a massa muscular envolvente, podem apresentar-se separadamente. Os cortes devem ser feitos nas articulações.\n\nj) Asas não separadas: ambas as asas ligadas por uma porção de dorso, não excedendo o peso desta última 45 % de todo o pedaço.\n\nk) Carne de peito: a totalidade ou metade do peito desossado, sem esterno e costelas. No caso de peito de peru, a carne pode incluir apenas o músculo peitoral profundo.\n\nl) Carne de peito com fúrcula: a carne de peito sem pele, apenas com a clavícula e o ponto cartilaginoso do esterno, não excedendo o peso da clavícula e da cartilagem 3 % do pedaço.\n\nAté 31 de Dezembro de 1991, no caso dos produtos definidos nas alíneas e), g) e h), os dois cortes podem ser feitos próximo das articulações.\n\nOs produtos definidos nas alíneas d) a k) podem ser apresentados com ou sem pele. No rótulo, na acepção do no 3, alínea a), do artigo 1o da Directiva 79/112/CEE do Conselho (1), devem ser mencionadas a ausência de pele, no caso dos produtos definidos nas alíneas d) a j), ou a presença de pele, no caso do produto definido na alínea k).\n\n3. Foie gras:\n\nOs fígados de ganso ou de pato das espécies Cairina muschata ou c.m. x Anas platyrynchos que foram alimentados de modo a produzir uma hipertrofia das células hepáticas adiposas.\n\nAs aves cujos figados são removidos devem ser completamente sangradas, e os fígados devem apresentar uma cor uniforme.\n\nOs fígados devem apresentar o seguinte peso:\n\n- os fígados de pato devem pesar pelo menos 250 gramas líquidos,\n\n- o fígados de ganso devem pesar pelo menos 400 gramas líquidos."
+  },
+  "615052f7989dda9d": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. As carcaças de aves de capoeira, a fim de serem comercializadas em conformidade com o presente regulamento, devem apresentar-se para venda numa das seguintes formas:\n\n- parcialmente evisceradas (« effilé », « roped »),\n\n- evisceradas, com miudezas,\n\n- evisceradas, sem miudezas.\n\n2. As carcaças parcialmente evisceradas são aquelas de que não foram removidos o coração o fígado, os pulmões, a moela, o esófago e os rins.\n\n3. Em todos os tipos de apresentação, no caso de a cabeça não ser removida, a traqueia e o esófago podem ficar na carcaça.\n\n4. As miudezas devem apenas incluir o seguinte:\n\nO coração, o pescoço, a moela e o fígado e todas as outras partes consideradas comestíveis pelo mercado a que o produto se destina para consumo final. A vesícula deve ser retirada do fígado. A moela deve apresentar-se sem a membrana rija e o seu conteúdo deve ter sido retirado. O coração pode apresentar-se com ou sem o saco pericárdico. Se o pescoço permanecer ligado à carcaça, não é considerado coma uma miudeza.\n\nSe um destes quatro órgãos não for habitualmente incluído na carcaça para venda, a sua ausência deve ser mencionada no rótulo."
+  },
+  "2fdd61235c47258a": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. As designações com que os produtos abrangidos pelo presente regulamento são vendidos, na acepção do no 1, alínea 1, do artigo 3o da Directiva 79/112/CEE, devem ser as enumeradas no artigo 1o e os termos correspondentes nas outras línguas comunitárias constantes do anexo I, qualificadas, no caso:\n\n- das carcaças inteiras, por referência a uma das formas de apresentação definidas no no 1 do artigo 2o,\n\n- dos pedaços de aves de capoeira, por referência às respectivas espécies.\n\n2. As designações referidas nos nos 1 e 2 do artigo 1o podem ser completadas por outros termos, desde que estes não induzam o consumidor em erro essencial e, em especial, não provoquem a confusão com outros produtos definidos no nos 1 e 2 do artigo 1o ou com as indicações previstas no artigo 10o"
+  },
+  "1c39bcd2cfe81b27": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs produtos diferentes dos definidos no artigo 1o podem ser comercializados na Comunidade com designações que não induzam o consumidor em erro essencial por permitirem a confusão com os produtos referidos no artigo 1o ou com as indicações previstas no artigo 10o"
+  },
+  "a7d7ea36dc0ed4a7": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nSão aplicadas as seguintes disposições suplementares à carne de aves de capoeira, definida no no 6 do artigo 2o do Regulamento (CEE) no 1906/90:\n\nA temperatura da carne congelada de aves de capoeira abrangida pelo presente regulamento deve ser estável e mantida, em todos os pontos do produto, a -12 °C ou menos, sendo possíveis breves flutuações não superiores a 3 °C. Estas tolerâncias respeitantes à temperatura do produto serão permitidas em conformidade com práticas correctas de armazenagem e de distribuição durante a distribuição local e nas instalações de retalho."
+  },
+  "991b187684489d11": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. As carcaças e os pedaços de aves de capoeira objecto do presente regulamento devem satisfazer as seguintes exigências mínimas, para serem classificados nas categorias A e B:\n\n- intactos, atendendo à apresentação,\n\n- limpos, isentos de matéria estranha visível, sujidade ou sangue,\n\n- isentos de qualquer cheiro estranho,\n\n- isentos de manchas visíveis de sangue, excepto aquelas que sejam pequenas e pouco visíveis,\n\n- isentos de ossos partidos salientes,\n\n- isentos de contusões graves.\n\nNos caso das aves de capoeira frescas não deve haver vestígios de congelamento prévio.\n\n2. Para serem classificados na categoria A, as carcaças e os pedaços devem, além disso, satisfazer os seguintes critérios:\n\n- ter boa configuração. A carne deve ser abundante: o peito, bem desenvolvido, largo, longo e carnudo; as pernas inteiras, carnudas. Os frangos, patos e perus devem apresentar uma camada adiposa fina e regular no peito, dorso e coxa. Nos galos, galinhas, patos adultos e gansos, é admitida uma camada adiposa mais espessa. Nos gansos adultos, deve observar-se à volta de toda a carcaça uma camada adiposa reduzida a espessa,\n\n- no peito, pernas, uropígio, articulações das patas e extremidades das asas podem estar presentes algumas pequenas penas, extremidades do cálamo das penas e filoplumas. No caso dos galos e galinhas, patos, perus e gansos podem também estar presentes algumas penas noutras partes,\n\n- são permitidos alguns danos, contusões e descolorações desde que os mesmos sejam pequenos e pouco visíveis e não se localizem no peito ou nas pernas. Pode faltar a extremidade da asa. É admitida uma ligeira vermelhidão na extremidade das asas e folículos,\n\n- no caso das aves de capoeira congeladas ou ultracongeladas não deve haver vestígios de queimadura de congelador (1), excepto aquelas que são casuais, pequenas, pouco visíveis e não localizadas no peito ou em toda a perna."
+  },
+  "bb0adf3497962f0f": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. As decisões decorrentes do incumprimento dos artigos 1o e 6o só podem ser tomadas em relação à totalidade do lote, controlado em conformidade com o disposto no presente artigo.\n\n2. Um lote deve ser constituído por carne de aves de capoeira do mesmo tipo, categoria e série de produção ou do mesmo matadouro ou instalação de corte, situados no mesmo local, a inspeccionar.\n\n3. Uma amostra composta pelos seguintes números de produtos individuais, como definidos no artigo 1o, deve ser constituída aleatoriamente a partir de cada lote a inspeccionar nos matadouros, instalações de corte, estabelecimentos de venda a granel e a retalho ou, no caso das importações de países terceiros, aquando do desembaraço aduaneiro:\n\nDimensão do lote Dimensão da amostra Número tolerável de unidades defeituosas 100 500 30 5 501 3 200 50 7 > 3 200 80 10\n\n4. Por ocasião do controlo de um lote de carne de aves de capoeira da classe A, o número tolerável de unidades defeituosas referidas no no 3 é permitido no que diz respeito:\n\na) Aos cortes que não sejam efectuados nas articulações no caso das pernas inteiras, coxas, pernas e asas;\n\nb) À presença de, no máximo, 2 % em peso de cartilagem (extremidade flexível do esterno) no caso da carne de peito;\n\nc) À presença de danos, contusões e descolorações pequenos e pouco visíveis e de vestígios de queimaduras de congelador nos peitos e pernas inteiras.\n\n5. No controlo de um lote de carne de aves de capoeira da categoria B, o número tolerável de unidades defeituosas, no que diz respeito aos produtos mencionados nas alíneas a) e b) do no 4, pode ser duplicado.\n\n6. Quando o lote inspeccionado não seja considerado em conformidade com as disposições anteriores, o organismo de vigilância deve proibir a sua comercialização ou importação se o lote for proveniente de um país terceiro, até que seja apresentada uma prova de que o mesmo ficou em conformidade com os artigos 1o e 6o"
+  },
+  "994f2de1600ad529": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. A carne de aves de capoeira pré-embalada, congelada ou ultracongelada pode ser classificada por categorias de peso, em conformidade com o no 3 do artigo 3o do Regulamento (CEE) no 1906/90, em pré-embalagens na acepção do artigo 2o da Directiva 76/211/CEE do Conselho.\n\nEstas pré-embalagens podem conter:\n\n- uma carcaça de aves de capoeira ou\n\n- um ou vários pedaços de aves de capoeira do mesmo tipo e espécie, como definido no artigo 1o\n\n2. Em conformidade com os nos 3 e 4, todas as pré-embalagens devem ostentar uma indicação do peso do produto, designado « peso nominal », que devem contar.\n\n3. As pré-embalagens de carne de aves de capoeira, congelada ou ultracongelada, podem ser classificadas em categorias de peso nominal do seguinte modo:\n\ncarcaças < 1 100 gramas: classes de 50 gramas (1 100 - 1 050 - 1 000 etc.),\n\ncarcaças > 1 100 gramas: classes de 100 gramas (1 100 - 1 200 - 1 300 etc.),\n\npedaços: 250 gramas - 500 gramas - 750 gramas - 1 000 gramas - 1 500 gramas - 2 000 gramas - 2 500 gramas - 3 000 gramas - 5 000 gramas.\n\n4. As pré-embalagens referidas no no 1 devem ser elaboradas de modo a satisfazerem as seguintes exigências:\n\n- o conteúdo efectivo não deve ser inferior, em média, ao peso nominal,\n\n- a proporção de pré-embalagens com um erro negativo superior ao erro negativo admissível definido nos nos 9 e 10 deve ser suficientemente pequena para permitir aos lotes de pré-embalagens satisfazer as exigências dos testes especificados no no 11,\n\n- não pode ser comercializada nenhuma pré-embalagem que apresente um erro negativo superior a duas vezes o erro negativo admissível, indicado nos nos 9 e 10.\n\nSão aplicáveis ao presente regulamento as definições de peso nominal, conteúdo efectivo e erro negativo constantes do anexo I da Directiva 76/211/CEE.\n\n5. No que diz respeito à responsabilidade do acondicionador ou do importador de carne de aves de capoeira, congelada ou ultracongelada, e aos controlos a efectuar pelas autoridades competentes, são aplicáveis, mutatis mutandis, os pontos 4, 5 e 6 do anexo I da Directiva 76/211/CEE.\n\n6. O controlo das pré-embalagens deve ser efectuado por amostragem e incluir duas partes:\n\n- um controlo relativo ao conteúdo efectivo de cada pré-embalagem na amostra,\n\n- um controlo do conteúdo efectivo médio das pré-embalagens da amostra.\n\nUm lote de pré-embalagens será considerado aceitável se os resultados de ambos os controlos satisfizerem os critérios de aceitação referidos nos nos 11 e 12.\n\n7. Um lote é constituído por todas as pré-embalagens com o mesmo peso nominal, o mesmo tipo e correspondentes ao mesmo grupo de produção, embaladas no mesmo local, a inspeccionar.\n\nA dimensão do lote deve ser limitada às quantidades a seguir definidas:\n\n- quando as pré-embalagens são controladas no fim da linha de embalagem, o número de cada lote deve ser igual à produção horária máxima da linha de embalagem, sem qualquer restrição quanto à dimensão do lote,\n\n- noutros casos, a dimensão do lote deve ser limitada a 10 000.\n\n8. Será constituída aleatoriamente, a partir de cada lote a controlar, uma amostra que consista nos seguintes números de pré-embalagens:\n\nDimensão do lote Dimensão da amostra 100 500 30 501 3 200 50 > 3 201 80\n\nEm relação aos lotes com menos de 100 pré-embalagens, o controlo não destrutivo, na acepção do anexo II da Directiva 76/211/CEE, quando efectuado, deve incidir sobre 100 %.\n\n9. No caso de carcaças individuais pré-embaladas, são permitidos os seguintes erros negativos admissíveis:\n\n(em gramas)\n\nPeso nominal Erro negativo admissível menos de 1 100 25 1 100 e mais 50\n\n10. No caso de pedaços pré-embalados de aves de capoeira, são permitidos os seguintes erros negativos admissíveis:\n\nPeso nominal (em gramas) Erro negativo admissível (em gramas) (em %) 250 9 500 15 750 15 1 000 1,5 1 500 1,5 2 000 1,5 2 500 1,5 3 000 1,5 5 000 1,5\n\n11. Para o controlo do conteúdo efectivo de cada pré-embalagem da amostra, o conteúdo mínimo aceitável será calculado subtraindo ao peso nominal da pré-embalagem o erro negativo admissível do conteúdo em causa.\n\nAs pré-embalagens da amostra cujo conteúdo efectivo seja inferior ao conteúdo mínimo admissível serão consideradas defeituosas.\n\nO lote de pré-embalagens controlado será considerado aceitável ou rejeitado consoante o número de unidades defeituosas encontradas na amostra on seja, respectivamente, inferior ou igual ao critério de aceitação ou igual ou superior ao critério de rejeição, a seguir indicados.\n\nNúmero na amostra Número de unidades defeituosas Critério de aceitação Critério de rejeição 30 2 3 50 3 4 80 5 6\n\n12. Para o controlo do conteúdo efectivo médio, um lote de pré-embalagens será considerado aceitável se o conteúdo efectivo médio das pré-embalagens que constituem a amostra for superior ao critério de aceitação a seguir indicado:\n\nDimensão da amostra Critério de aceitação para o conteúdo efectivo médio 30 x ' Qn 0,503s 50 x ' Qn 0,379s 80 x ' Qn 0,295s\n\nem que:\n\nx = conteúdo efectivo médio das embalagens, Qn = quantidade nominal da pré-embalagem, s = desvio-padrão do conteúdo efectivo das pré-embalagens do lote.\n\nO desvio-padrão será calculado do modo estabelecido no ponto 2.3.2.2 do anexo II da Directiva 76/211/CEE.\n\n13. São aplicáveis as disposições do no 4 do artigo 4o da Directiva 76/211/CEE."
+  },
+  "85ab87c69235249a": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nA utilização de um dos métodos de refrigeração a seguir definidos e os termos correspondentes nas outras línguas comunitárias enumerados no anexo II podem ser indicados no rótulo, na acepção do no 3, alínea a), do artigo 1o da Directiva 79/112/CEE:\n\nrefrigeração por ventilação: refrigeração das carcaças de aves de capoeira com ar frio, refrigeração por aspersão e ventilação: refrigeração das carcaças de aves de capoeira com ar frio intercalado com neblina de água ou aerossol, refrigeração por imersão: refrigeração das carcaças de aves de capoeira em tanques de água ou de gelo e água em conformidade com o processo de fluxo de água em contracorrente definido no anexo I, alíneas a) e b), do ponto 28 do capítulo V, da Directiva 71/118/CEE do Conselho (1)."
+  },
+  "0b6ea144fa359ef1": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. A fim de indicar os tipos de criação, excluindo a criação biológica, apenas podem constar do rótulo, na acepção do no 3, alínea a), do artigo 1o da Directiva 79/112/CEE, os termos seguintes, ou os correspondentes nas outras línguas comunitárias e enumerados no anexo III, se preenchidas as condições definidas no anexo IV:\n\na) « Alimentado com...% de... »,\n\nb) « Produção extensiva em interior »,\n\nc) « Produção em semiliberdade »,\n\nd) « Produção ao ar livre »,\n\ne) « Produção em liberdade ».\n\nEstes termos podem ser completados por indicações relativcas às características especiais dos respectivos tipos de criação.\n\n2. A menção da idade de abate ou da duração do período de engorda só será permitida se for utilizado um dos termos referidos no no 1 e para idades não inferiores às indicadas nas alíneas b), c) ou d) do anexo IV. No entanto, esta disposição não é aplicada aos pintos nem aos perus recém-nascidos.\n\n3. As presentes disposições aplicam-se sem prejuízo de medidas técnicas nacionais que vão para além das exigências mínimas supracitadas aplicáveis exclusivamente aos produtores do Estado-membro em questão, desde que sejam compatíveis com o direito comunitário e conformes às normas de comercialização de carne de aves de capoeira.\n\n4. As medidas nacionais referidas no no 3 serão comunicadas à Comissão.\n\n5. Em qualquer momento e a pedido da Comissão, os Estados-membros fornecerão todas as informações necessárias à apreciação da compatibilidade das medidas referidas no presente artigo com o direito comunitário e da sua conformidade com as normas comuns de comercialização da carne de aves de capoeira."
+  },
+  "21ff5b9bab9e8def": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. Os matadouros autorizados a utilizarem os termos referidos no artigo 10o devem ser sujeitos a um registo especial. Os mesmos devem manter um registo separado, por modo de criação:\n\n- dos nomes e endereços dos produtores dessas aves, registados após uma inspecção efectuada pela autoridade competente do Estado-membro,\n\n- a pedido dessa autoridade, do número de aves mantidas por cada produtor, por lote de produção.\n\n2. Os referidos produtores devem ser posteriormente inspeccionados com regularidade. Devem manter registos actualizados do número de aves, repartidos por sistema de criação de aves de capoeira, apresentando igualmente o número de aves vendidas e o nome dos compradores.\n\n3. Devem ser efectuadas inspecções regulares no que diz respeito ao cumprimento do disposto nos artigos 10o e 11o:\n\n- na exploração: pelo menos uma vez por cada lote de produção,\n\n- ração: pelo menos uma análise por fórmula alimentar utilizada e pelo menos uma vez por ano,\n\n- no matadouro: pelo menos quatro vezes por ano,\n\n- nos centros de incubação: pelo menos uma vez por ano, para os tipos de criação referidos no no 1, alíneas d) e e), do artigo 10o\n\n4. Cada Estado-membro enviará aos outros Estados-membros e à Comissão, antes de 1 de Julho de 1991, uma lista dos matadouros aprovados, registados em conformidade com o no 1, que indique o nome, endereço, e número de registo de cada um. Qualquer alteração a essa lista será comunicada no início de cada trimestre do ano civil aos outros Estados-membros e à Comissão."
+  },
+  "56b86cc014247edb": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nEm caso de controlo da indicação do modo de criação utilizado, como referido no no 6, segundo parágrafo, do artigo 5o do Regulamento (CEE) no 1906/90, os organismos designados pelos Estados-membros devem respeitar os critérios definidos na norma europeia no NE/45 011, de 26 de Junho de 1989, e enquanto tal devem ser alvo de licença e fiscalização pelas autoridades competentes do Estado-membro em causa."
+  },
+  "bfed2351e8ff33c2": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nAs aves de capoeira importadas de países terceiros podem apresentar uma ou mais indicações facultativas previstas nos artigos 9o e 10o, desde que sejam acompanhadas de um certificado emitido pela autoridade competente do país de origem que ateste a conformidade dos produtos em questão com as disposições do presente regulamento.\n\nA pedido de um país terceiro à Comissão, será elaborada por esta uma lista dessas autoridades."
+  },
+  "0a8274e89942b985": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nAs designações dos produtos e outros termos previstos no presente regulamento serão indicados, pelo menos, na ou nas línguas do Estado-membro em que se realiza a venda a retalho ou outra utilização."
+  },
+  "df9359ead3a9a9b6": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nO presente regulamento entra em vigor em 20 de Junho de 1991.\n\nÉ aplicável a partir de 1 de Julho de 1991.\n\nAté 31 de Dezembro de 1991, os operadores podem, no entanto, embalar os produtos abrangidos pelo presente regulamento em material de embalagem com indicações previstas na legislação comunitária ou nacional aplicável antes da entrada em vigor do presente regulamento. Estes produtos podem ser comercializados até 31 de Dezembro de 1992. O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 5 de Junho de 1991. Pela Comissão\n\nRay MAC SHARRY\n\nMembro da Comissão\n\n(1) JO no L 173 de 6. 7. 1990, p. 1. (2) JO no L 46 de 21. 2. 1976, p. 1. (3) JO no L 311 de 4. 11. 1978, p. 21. (4) JO no L 33 de 8. 2. 1979, p. 1. (5) Queimadura de congelador: (no sentido de uma redução de qualidade) é uma desidradatação irreversível local ou numa determinada área da pele e/ou a alteração da carne no que respeita: - à cor original (tornando-se geralmente mais pálida) ou - ao sabor e cheiro (perda de sabor ou sabor a ranço) ou - à consistência (seca, esponjosa). (6) JO no L 55 de 8. 3. 1971, p. 23."
+  },
+  "2dd0d6cdf2a99682": {
+   "fragment_id": "ANEXO I — ARTIGO 1.1 - DESIGNAÇÕES DAS CARCAÇAS DE AVES DE CAPOEIRA",
+   "type": "divisao",
+   "heading": "ANEXO I — ARTIGO 1.1 - DESIGNAÇÕES DAS CARCAÇAS DE AVES DE CAPOEIRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — ARTIGO 1.1 - DESIGNAÇÕES DAS CARCAÇAS DE AVES DE CAPOEIRA\n\nE F D DK ESP GR I NL P 1. Chicken, broiler Poulet (de chair) Haehnchen Kylling, slagtekylling Pollo (de carne) Kotopoylo Peteinoi kai kotes (kreatoparagogis) Pollo, « Broiler » Kuiken, braadkuiken Frango 2. Cock, hen, casserole, or boiling fowl Coq, poule (à bouillir) Suppenhuhn Hane, hoene, suppehoene Gallo, gallina Peteinoi kai kotes (gia vrasimo) Gallo, gallina Pollame da brodo Haan, hen, soep- of stoofkip Galo, galinha 3. Capon Chapon Kapaun Kapun Capón Kaponia Cappone Kapoen Capão 4. Poussin, Coquelet Poussin, coquelet Stubenkueken Poussin, Coquelet Polluelo Neossos, peteinari Galletto Piepkuiken Pinto, coquelet 1. (Young) turkey Dindonneau, (jeune) dinde (Junge) Pute, (Junger) Truthahn (Mini)kalkun Pavo (joven) (Nearoi) galoi kai galopoyles (Giovane) tacchino (Jonge) kalkoen Peru 2. Turkey Dinde (à bouillir) Pute, Truthahn Avlskalkun Pavo Galoi kai galopoyles Tacchino/a Kalkoen Peru adulto 1. (Young) duck, duckling, (Young) Muscovy duck (Jeune) canard, caneton, (jeune) canard de Barbarie Fruehmastente, Jungente, (Junge) Flugente (Ung) and (Ung) berberand Pato (joven o anadino), pato de Berberia (joven) (Neares) papies i papakia (Giovane) anatra (Giovana) anatra muta (Jonge) eend, (jonge) Barbarijse eend Pato, Pato Barbary 2. Duck Canard, canard de Barbarie (à bouillir) Ente, Flugente Avlsand Berberand Pato, pato de Berberia Papies Anatra Anatra muta Eend Pato adulto, Pato adulto Barbary 1. (Young) goose, gosling (Jeune) oie ou oison Fruehmastgans, (Junge) Gans (Ung) gaas Oca (joven), ansarón (Neares) chines i chinakia (Giovane) oca (Jonge) gans Ganso 2. Goose Oie Gans Avlsgaas Oca Chines Oca Gans Ganso adulto 1. (Young) guinea fowl (Jeune) pintade Pintadeau (Junges) Perlhuhn (Ung) perlehoene Pintada (joven) (Neares) fragkokotes (Giovane) farãona (Jonge) parelhoen Pintada 2. Guinea fowl Pintade Perlhuhn Avlsperlehoene Pintada Fragkokotes Farãona Parelhoen Pintada adulta\n\nARTIGO 1.2 - DESIGNAÇÕES DOS PEDAÇOS DE AVES DE CAPOEIRA\n\nE F D DK ESP GR I NL P a) Half Demi ou moitié Haelfte oder Halbes Halvt Medio Misa Metà Helft Metade b) Quarter Quart (Vorder-, Hinter-) Viertel Kvart Cuarto Tetartimorio Quarto Kwart Quarto c) Unseparated leg quarters Quarts postérieurs non séparés Hinterviertel am Stueck Sammenhaengende laarstykker Cuartos traseros unidos Adiachorista tetartimoria podion Cosciotto Niet-gescheiden achterkwarten Quartos de coxa não separados d) Breast Poitrine, blanc ou filet sur os Brust, halbe Brust, halbierte Brust Bryst Pechuga Stithos Petto con osso Borst Peito e) Leg Cuisse Schenkel, Keule Helt laar Muslo y contramuslo Podi Coscia Hele poot, hele dij Perna inteira f) Chicken leg with a portion of the back Cuisse de poulet avec une portion du dos Haehnchenschenkel mit Rueckenstueck Kyllingelaar med en del af ryggen Cuarto trasero de pollo Podi apo kotopoylo me ena kommati tis rachis Coscetta Poot/dij met rugdeel (bout) Perna inteira de frango com uma porção do dorso g) Thigh Haut de cuisse Oberschenkel, Oberkeule Overlaar Contramuslo Miros (mpoyti) Sovraccoscia Bovenpoot, bovendij Coxa h) Drumstick Pilon Unterschenkel, Unterkeule Underlaar Muslo Knimi Fuso Onderpoot, onderdij (Drumstick) Perna i) Wing Aile Fluegel Vinge Ala Fteroyga Ala Vleugel Asa j) Unseparated wings Ailes non séparées Beide Fluegel, ungetrennt Sammenhaengende vinger Alas unidas Adiachoristes fteroyges Ali non separate Niet-gescheiden vleugels Asas não separadas k) Breast fillet Filet de poitrine, blanc, filet, noix Brustfilet, Filet aus der Brust Brystfilet Filete de pechuga Fileto stithoys Filetto, fesa (tacchino) Borstfilet Carne de peito l) Breast fillet with wishbone Filet de poitrine avec clavicule Brustfilet mit Schluesselbein Brystfilet med oenskeben Filete de pechuga con clavícula Fileto stithoys me kleidokokalo Petto (con forcella), fesa (con forcella) Borstfilet met vorkbeen Carne de peito com fúrcula"
+  },
+  "b0da8d7842113918": {
+   "fragment_id": "ANEXO II — ARTIGO 9 - MÉTODOS DE REFRIGERAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO II — ARTIGO 9 - MÉTODOS DE REFRIGERAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — ARTIGO 9 - MÉTODOS DE REFRIGERAÇÃO\n\nE F D DK ESP GR I NL P 1. Air chilling Refroidissement à l'air Luftkuehlung Luftkoeling Refrigeración por aire Psyxi me aera Raffreddamento ad aria Luchtkoeling Refrigeração por ventilação 2. Air spray chilling Refroidissement par aspersion ventilée Luft-Sprueh-Kuehlung Luftspraykoeling Refrigeración por aspersión ventilada Psyxi me psekasmo Raffreddamento per aspersione e ventilazione Lucht-sproeikoeling Refrigeração por aspersão e ventilação 3. Immersion chilling Refroidissement par immersion Gegenstrom- Tauchkuehlung Neddypningskoeling Refrigeración por immersión Psyxi me vythisi Raffreddamento per immersione Dompelkoeling Refrigeração por imersão"
+  },
+  "0fe447ed1b2c77f6": {
+   "fragment_id": "ANEXO III — ARTIGO 10.1 - MÉTODOS DE REFRIGERAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO III — ARTIGO 10.1 - MÉTODOS DE REFRIGERAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — ARTIGO 10.1 - MÉTODOS DE REFRIGERAÇÃO\n\nE F D DK ESP GR I NL P a) Fed with... % of... Oats fed goose Alimenté avec... % de... Oie nourrie à l'avoine Mast mit... %... Hafermastgans Fodret med... %... Havrefodret gaas Alimentado con... % Oca engordada con avena Echei trafei me... %... China poy pachainetai me vromi Alimentato con il... % di... Oca ingrassata con avena Gevoed met... %... Met haver vetgemeste gans Alimentado com... % de... Ganso engordado com aveia b) Extensive indoor (Barn-reared) Élevé à l'intérieur: système extensif Extensive Bodenhaltung Ekstensivt staldopdraet (skrabe...) Sistema extensivo en gallinero Ektatikis ektrofis Estensivo al coperto Scharrel... Produção extensiva em interior c) Free range Sortant à l'extérieur Auslaufhaltung Fritgaaende Gallinero con salida libre Eleftheris voskis All'aperto Scharrel... met uitloop Produção em semiliberdade d) Traditional free range Fermier-élevé en plein air Baeuerliche Auslaufhaltung Frilands... Granja al aire libre Ptinotrofeio periorismenis voskis Rurale all'aperto Boerderij... met uitloop Hoeve... met uitloop Produção ao ar livre e) Free range - total freedom Fermier-élevé en liberté Baeuerliche Freilandhaltung Frilands... opdraettet i fuld frihed Granja de cría en libertad Ptinotrofeio aperioristis trofis Rurale in libertà Boerderij... met vrije uitloop Hoeve... met vrije uitloop Produção em liberdade"
+  },
+  "f4caf8438b8f0162": {
+   "fragment_id": "ANEXO IV — a) Tipo de alimentação",
+   "type": "divisao",
+   "heading": "ANEXO IV — a) Tipo de alimentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — a) Tipo de alimentação\n\nA referência aos seguintes ingredientes alimentares especiais apenas pode ser feita quando:\n\n- no caso do cereais, estes correspondam a pelo menos 65 % em peso da fórmula alimentar administrada durante a maior parte do período de engorda, não podendo incluir mais de 15 % de subprodutos de cereais; no entanto, quando seja feita referência a um cereal específico, este deve corresponder a pelo menos 35 % da fórmula alimentar utilizada e a pelo menos 50 % no caso do milho,\n\n- no caso das leguminosas ou dos vegetais verdes, estes correspondam a pelo menos 5 % em peso da fórmula alimentar administrada durante a maior parte do período de engorda,\n\n- no caso dos produtos lácteos, estes correspondam a pelo menos 5 % em peso da fórmula alimentar administrada durante a fase de acabamento.\n\nO termo « gansos engordados com aveia » pode, no entanto, ser utilizado quando os gansos são alimentados na fase de acabamento de três semanas com pelo menos 500 gramas de aveia por dia.\n\nb) Produção extensiva em interior\n\nEste termo só pode ser utilizado se:\n\n- a densidade populacional por metro quadrado de chão não exceder no caso:\n\n- dos frangos: 12 aves, mas não mais de 25 kg de peso vivo,\n\n- dos patos, pintadas e perus: 25 kg de peso vivo,\n\n- dos gansos: 15 kg de peso vivo,\n\n- as aves forem abatidas no caso:\n\n- dos frangos: com pelo menos 56 dias,\n\n- dos perus: com pelo menos 70 dias,\n\n- dos gansos: com pelo menos 112 dias,\n\n- dos patos de Pequim: com pelo menos 49 dias,\n\n- dos patos Barbary: com pelo menos 77 dias, no caso das fêmeas, e com pelo menos 84 dias, no caso dos machos,\n\n- das pintadas: com 82 dias.\n\nc) Produção em semiliberdade\n\nEste termo só pode ser utilizado se:\n\n- a densidade populacional na instalação e a idade de abate estiverem em conformidade com os limites fixados na alínea b), excepto no caso dos frangos em relação aos quais a densidade populacional pode ser aumentada para 13, não podendo ser superior a 27,5 kg de peso vivo por metro quadrado,\n\n- as aves tiverem tido, durante pelo menos metade da sua vida, acesso contínuo durante o dia a um espaço ao ar livre com uma área, coberta sobretudo por vegetação, não inferior a:\n\n- 1 m2 por frango ou pintada,\n\n- 4 m2 por peru ou ganso,\n\n- 2 m2 por pato,\n\n- a fórmula alimentar utilizada no período de engorda contiver pelo menos 70 % de cereais,\n\n- as gaiolas dispuserem de aberturas com um comprimento total maior ou igual à dimensão mais comprida dessa instalação, no caso dos frangos.\n\nd) Produção ao ar livre\n\nEste termo só pode ser utilizado se:\n\n- a densidade populacional no interior, por metro quadrado, não exceder no caso:\n\n- dos frangos: 12 aves, mas não mais de 25 kg de peso vivo; no entanto, no caso das instalações móveis com área de pavimento não superior a 150 m2, que permaneça aberta durante a noite, a densidade populacional pode aumentar para 20 aves, não podendo corresponder a mais de 40 kg de peso vivo por metro quadrado,\n\n- dos capões: 6,25 (até 81 dias de idade: 12) mas não mais de 25 kg de peso vivo,\n\n- dos patos Barbary: 8 machos, mas não mais de 28 kg de peso vivo, e\n\n10 fêmeas, mas não mais de 20 kg de peso vivo,\n\n- das pintadas: 13 aves, mas não mais de 20 kg de peso vivo,\n\n- dos perus: 6 aves (até 7 semanas de idade: 10), mas não mais de 25 kg de peso vivo,\n\n- dos gansos: 3 aves se a fase final for em cativeiro durante as últimas 3 semanas do período de engorda (até 7 semanas: 10), mas não mais de 15 kg de peso vivo,\n\n- a área total utilizável da instalação para aves numa única unidade de produção não exceder 1 600 m2,\n\n- cada instalação para aves de capoeira não contiver mais de:\n\n- 4 800 frangos,\n\n- 5 200 pintadas nas instalações com acesso ao ar livre ou 2 000 em cativeiro,\n\n- 4 000 patas Barbary ou 3 200 patos Barbary,\n\n- 2 500 capões, gansos e perus,\n\n- houver um acesso contínuo durante o dia a um espaço ao ar livre pelo menos a partir da idade de:\n\n- 6 semanas, no caso dos frangos e capões,\n\n- 8 semanas, no caso dos patos, gansos, pintadas e perus,\n\n- o espaço ao ar livre corresponder a uma área coberta sobretudo por vegetação com pelo menos:\n\n- 2 m2 por frango, pato ou pintada,\n\n- 4 m2 por capão, galo, galinha ou peru,\n\n- 6 m2 por peru,\n\n- 10 m2 por ganso.\n\nNo caso das pintadas, a área ao ar livre pode ser substituída por uma zona com poleiros com uma superfície de pelo menos o dobro da instalação e um comprimento de pelo menos 2 metros, equipada com poleiros de pelo menos 10 centímetros de comprimento por ave,\n\n- as aves engordadas forem de uma variedade de crescimento lento,\n\n- a fórmula alimentar utilizada na fase de engorda contiver pelo menos 70 % de cereais,\n\n- a idade mínima de abate for de:\n\n- 81 dias para frangos,\n\n- 150 dias para os capões,\n\n- 77 dias para as patas Barbary,\n\n- 84 dias para os patos Barbary,\n\n- 94 dias para as pintadas,\n\n- 140 dias para os perus e os gansos para cozinhar,\n\n- 102 dias para os gansos destinados à produção de foie gras e magret.\n\ne) Produção em liberdade\n\nA utilização deste termo exige o respeito dos critérios definidos na alínea d), à excepção de que as aves devem ter um acesso contínuo durante o dia a uma área ao ar livre sem vedação."
+  },
+  "7bc978910b1ddb80": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991R1538 — PT — 01.07.2008 — 010.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31991R1538) [REGULAMENTO (CEE) N.º 1538/91 DA COMISSÃO](http://publications.europa.eu/resource/celex/31991R1538) [de 5 de Junho de 1991](http://publications.europa.eu/resource/celex/31991R1538) [que estatui regras de execução do Regulamento (CEE) nº 1906/90 que estabelece normas de comercialização para a carne de aves de capoeira](http://publications.europa.eu/resource/celex/31991R1538) (JO L 143, 7.6.1991, p.11)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 543/2008 da Comissão de 16 de Junho de 2008](http://publications.europa.eu/resource/celex/32008R0543) — L 157 — 46 — 17.6.2008"
+  }
+ }
+}

@@ -35,6 +35,50 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-11-18'
+version_history:
+  file: diretiva-ue-2000-36.versoes.json
+  count: 3
+  source_lastmod: '2013-11-18'
+  versions:
+  - date: '2000-08-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-11'
+    amending: eu:celex:32008R1137:por
+    amending_title: REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008; Acto relativo
+      às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia,
+      da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia
+      e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Adita ANEXO I
+    - Adita DENOMINAÇÕES DE VENDA, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS
+    - Adita A. DENOMINAÇÕES DE VENDA DEFINIÇÕES
+    - Adita 1. Manteiga de cacau
+    - Adita B. INGREDIENTES FACULTATIVOS AUTORIZADOS
+    - Adita Adição de matérias comestíveis
+    - Adita C. CÁLCULO DOS TEORES PERCENTUAIS
+    - Adita D. AÇÚCARES
+    - Adita ANEXO II
+    - Adita GORDURAS VEGETAIS REFERIDAS NO N.º 1 DO ARTIGO 2.º
+    - Adita Notas
+    - Suprime ANEXO I — DENOMINAÇÕES DE VENDA, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS
+    - Suprime ANEXO II — GORDURAS VEGETAIS REFERIDAS NO N.o 1 DO ARTIGO 2.o
+  - date: '2013-11-18'
+    amending: eu:celex:32013R1021:por
+    amending_title: REGULAMENTO (UE) N. o 1021/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera D. AÇÚCARES
+    - Altera GORDURAS VEGETAIS REFERIDAS NO N.º 1 DO ARTIGO 2.º
+    - Altera Notas
 identifiers:
   celex: 32000L0036
   eli: http://data.europa.eu/eli/dir/2000/36/oj
@@ -49,7 +93,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4cad5cf4-0825-484e-8a99-102f8a9b5113.0009
   content_url: http://publications.europa.eu/resource/cellar/4ec22cc4-4db5-4bbe-bf53-354eacaae15c.0018.04/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0036-20131118
-  retrieved_at: '2026-10-22T02:56:52Z'
+  retrieved_at: '2026-10-22T14:48:51Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T16:24:13.303+01:00'
 integrity:
@@ -58,9 +102,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:52Z'
-  notes: Texto consolidado 02000L0036-20131118.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:51Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2000-36.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -137,34 +181,20 @@ relationships:
   source: null
 article_structure:
   article_count: 10
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:52Z'
-  warnings: []
+  checked_at: '2026-10-22T14:48:51Z'
+  warnings:
+  - '02000L0036-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 2000/36/CE do Parlamento Europeu e do Conselho, de 23 de Junho de 2000
-
-> 2000L0036 — PT — 18.11.2013 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [►M2](http://publications.europa.eu/resource/celex/32013R1021) — [REGULAMENTO (UE) N.º 1021/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R1021) — L 287 — 1 — 29.10.2013
-
-**Alterado por:**
-
-- [►A1](http://publications.europa.eu/resource/celex/12003T) — L 236 — 33 — 23.9.2003
-
-## DIRECTIVA 2000/36/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de Junho de 2000
 

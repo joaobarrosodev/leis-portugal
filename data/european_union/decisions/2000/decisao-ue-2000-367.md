@@ -35,6 +35,33 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-04-12'
+version_history:
+  file: decisao-ue-2000-367.versoes.json
+  count: 2
+  source_lastmod: '2011-04-12'
+  versions:
+  - date: '2003-08-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-04-12'
+    amending: eu:celex:32003D0629:por
+    amending_title: Decisão da Comissão de 27 de Agosto de 2003; Decisão da Comissão de 11 de Abril de 2011
+    changes:
+    - Altera preambulo
+    - Adita ANEXO
+    - Adita DEFINIÇÕES, ENSAIOS E CRITÉRIOS DE DESEMPENHO
+    - Adita SÍMBOLO
+    - Adita Notas
+    - Adita CLASSIFICAÇÃO
+    - Adita 1. Elementos com funções de suporte de carga e sem função de compartimentação resistente ao fogo
+    - Adita 2. Elementos com funções de suporte de carga e com função de compartimentação resistente ao fogo
+    - Adita 3. Produtos e sistemas para protecção de elementos ou partes de obras com funções de suporte de carga
+    - Adita 4. Elementos ou partes de obras sem funções de suporte de carga e produtos a eles destinados
+    - Adita 5. Produtos destinados a sistemas de ventilação (excluindo exaustores de fumos e de calor)
+    - Adita 6. Produtos incorporados em instalações
+    - Adita 7. Produtos destinados a sistemas de controlo de fumos e de calor
+    - Suprime ANEXO — DEFINIÇÕES, ENSAIOS E CRITÉRIOS DE DESEMPENHO
 identifiers:
   celex: 32000D0367
   eli: http://data.europa.eu/eli/dec/2000/367/oj
@@ -49,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7a0aa21a-6a8f-49b2-b42b-d6c052af3aec.0009
   content_url: http://publications.europa.eu/resource/cellar/af79b558-bcd0-453f-a751-f42f03b5ec43.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000D0367-20110412
-  retrieved_at: '2026-10-22T03:09:40Z'
+  retrieved_at: '2026-10-22T14:48:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T16:09:43.543+01:00'
 integrity:
@@ -58,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:09:40Z'
-  notes: Texto consolidado 02000D0367-20110412.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:31Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2000-367.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -105,34 +132,20 @@ relationships:
   date: '2024-06-13'
 article_structure:
   article_count: 2
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:09:40Z'
-  warnings: []
+  checked_at: '2026-10-22T14:48:31Z'
+  warnings:
+  - '02000D0367-20000606: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # 2000/367/CE: Decisão da Comissão, de 3 de Maio de 2000
-
-> 2000D0367 — PT — 12.04.2011 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003D0629) — [Decisão da Comissão de 27 de Agosto de 2003](http://publications.europa.eu/resource/celex/32003D0629) — L 218 — 51 — 30.8.2003
-- [►M2](http://publications.europa.eu/resource/celex/32011D0232) — [Decisão da Comissão de 11 de Abril de 2011](http://publications.europa.eu/resource/celex/32011D0232) — L 97 — 49 — 12.4.2011
-
-**Rectificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32000D0367R%2801%29) — [Rectificação, JO L 219, 14.8.2001, p. 30 (367/2000)](http://publications.europa.eu/resource/celex/32000D0367R%2801%29)
-
-## DECISÃO DA COMISSÃO
 
 de 3 de Maio de 2000
 

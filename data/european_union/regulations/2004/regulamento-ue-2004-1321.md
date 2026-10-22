@@ -34,6 +34,61 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-11-09'
+version_history:
+  file: regulamento-ue-2004-1321.versoes.json
+  count: 3
+  source_lastmod: '2010-11-09'
+  versions:
+  - date: '2006-05-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-12-22'
+    amending: eu:celex:32006R1942:por
+    amending_title: REGULAMENTO (CE) N. o 1942/2006 DO CONSELHO de 12 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Funções
+    - Altera Artigo 3.º — Propriedade
+    - Altera Artigo 5.º — Conselho de Administração
+    - Altera Artigo 10.º — Comité de Protecção e Segurança do Sistema
+    - Altera Artigo 13.º — Disposições financeiras
+    - Altera Artigo 14.º — Luta contra a fraude
+    - Altera Artigo 18.º — Regime linguístico
+    - Altera Artigo 19.º — Acesso aos documentos e protecção dos dados de carácter pessoal
+    - Altera Artigo 20.º — Regras de segurança
+    - Altera Artigo 23.º — Entrada em vigor
+    - Altera Notas
+  - date: '2010-11-09'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Funções
+    - Suprime Artigo 3.º — Propriedade
+    - Suprime Artigo 4.º — Estatuto jurídico, delegações locais
+    - Suprime Artigo 5.º — Conselho de Administração
+    - Suprime Artigo 6.º — Funções do Conselho de Administração
+    - Suprime Artigo 7.º — Director executivo
+    - Suprime Artigo 8.º — Funções do director executivo
+    - Suprime Artigo 9.º — Comité Científico e Técnico
+    - Suprime Artigo 10.º — Comité de Protecção e Segurança do Sistema
+    - Suprime Artigo 11.º — Orçamento
+    - Suprime Artigo 12.º — Execução e controlo do orçamento
+    - Suprime Artigo 13.º — Disposições financeiras
+    - Suprime Artigo 14.º — Luta contra a fraude
+    - Suprime Artigo 15.º — Privilégios e imunidades
+    - Suprime Artigo 16.º — Pessoal
+    - Suprime Artigo 17.º — Responsabilidade
+    - Suprime Artigo 18.º — Regime linguístico
+    - Suprime Artigo 19.º — Acesso aos documentos e protecção dos dados de carácter pessoal
+    - Suprime Artigo 20.º — Regras de segurança
+    - Suprime Artigo 21.º — Participação de países terceiros
+    - Suprime Artigo 22.º — Aspectos relacionados com a segurança da União Europeia ou dos seus Estados-Membros
+    - Suprime Artigo 23.º — Entrada em vigor
+    - Suprime Notas
 identifiers:
   celex: 32004R1321
   eli: http://data.europa.eu/eli/reg/2004/1321/oj
@@ -48,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/79cede46-1031-410b-b01f-4b4078fb4a86.0016
   content_url: http://publications.europa.eu/resource/cellar/833a6ee1-e3ec-4a8d-8a2f-26de7f6e4076.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R1321-20101109
-  retrieved_at: '2026-10-22T03:12:00Z'
+  retrieved_at: '2026-10-22T14:58:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-06-04T01:03:20.113+02:00'
 integrity:
@@ -57,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:00Z'
-  notes: Texto consolidado 02004R1321-20101109.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:58:54Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2004-1321.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -169,16 +224,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:00Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:58:54Z'
+  warnings: []
   errors: []
 ---
 

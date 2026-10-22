@@ -1,0 +1,622 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992D0438:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992D0438-20191214",
+ "dre_path": null,
+ "source_lastmod": "2019-12-14",
+ "versions": [
+  {
+   "date": "1992-08-25",
+   "future": false,
+   "celex": "31992D0438",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "df89886b4b415f9d",
+    "aa6dbf69480b5f92",
+    "cf8160b45b25ab83",
+    "68ef91724da32235",
+    "6d084da49081aa53",
+    "7ab85e53c5909faa",
+    "373231b1f5376b91",
+    "de7a7e674663e7a2",
+    "7c3233b6a58423e9",
+    "8a4e86422423a456",
+    "5a195efff0711a94",
+    "70804d5ba9310b38",
+    "51c16aa2c3d04c3d",
+    "6808186ec06edf06",
+    "27b294d81c7ea291",
+    "82436ed15d7db460",
+    "c81061274446949a",
+    "d1b8dc4a4f47a5f9",
+    "df5ace1c7e55bc11"
+   ]
+  },
+  {
+   "date": "2003-06-05",
+   "future": false,
+   "celex": "01992D0438-20030605",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO II",
+    "Altera ANEXO III",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º — As modalidades de aplicação da presente decisão serão adoptadas na medida do necessário, de acordo com o procedimento previsto no artigo 13.o",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o — As modalidades de aplicação da presente decisão serão adoptadas na medida do necessário, de acordo com o procedimento previsto no artigo 13o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o — Os Estados-membros são destinatários da presente decisão. Feito em Bruxelas, em 13 de Julho de 1992. Pelo Conselho"
+   ],
+   "fragments": [
+    "dc754e8281e1086b",
+    "8cfb4a86af60be44",
+    "d54b60248e69837b",
+    "a9a4910e036da2bb",
+    "f88fb51ef2cb7a14",
+    "c8bf4394c4e8ed12",
+    "e9009ad1b06be553",
+    "c3df86650e82fede",
+    "30d97fc25149cbdf",
+    "d1b9b1dffb5cf3d3",
+    "5ba378dab773ae46",
+    "a14cf0779bbabca8",
+    "f2f649c10db6a986",
+    "d80324f1eb1aad44",
+    "dd4f45941aaaf1a2",
+    "4a4e33f9a8632f66",
+    "8c00628fbed7aafc",
+    "c6f258bd0749301f",
+    "d1740be4409185a9"
+   ]
+  },
+  {
+   "date": "2009-06-18",
+   "future": false,
+   "celex": "01992D0438-20090618",
+   "acts": [
+    {
+     "id": "eu:celex:32003R0806:por",
+     "title": "REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003",
+     "published": null,
+     "celex": "32003R0806"
+    },
+    {
+     "id": "eu:celex:32009D0470:por",
+     "title": "DECISÃO DO CONSELHO de 25 de Maio de 2009",
+     "published": null,
+     "celex": "32009D0470"
+    },
+    {
+     "id": null,
+     "title": "A1",
+     "published": null,
+     "celex": "11994N"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º",
+    "Altera ANEXO III",
+    "Adita Artigo 12.º",
+    "Adita Notas",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º — As modalidades de aplicação da presente decisão serão adoptadas na medida do necessário, de acordo com o procedimento previsto no artigo 13.o"
+   ],
+   "fragments": [
+    "d411d89a03ed764c",
+    "f5066d91d7bba964",
+    "d54b60248e69837b",
+    "2991f197068b0707",
+    "73ea189b878bb5f4",
+    "21070107ce575af1",
+    "a351aa02ca20d38e",
+    "c3df86650e82fede",
+    "4292920460570398",
+    "888bfccf17550b5f",
+    "8252ade71b7c433a",
+    "868e6275b0944cc4",
+    "4c20ab1be5025707",
+    "dd4f45941aaaf1a2",
+    "4a4e33f9a8632f66",
+    "ae422bf07346d00b",
+    "a118e020dc342c83",
+    "2b883252bf7dca96",
+    "a1afa92e5cb6da94"
+   ]
+  },
+  {
+   "date": "2019-12-14",
+   "future": false,
+   "celex": "01992D0438-20191214",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime ANEXO III",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "6fb41cd647fd801f"
+   ]
+  }
+ ],
+ "fragments": {
+  "df89886b4b415f9d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**92/438/CEE: Decisão do Conselho, de 13 de Julho de 1992, relativa à informatização dos procedimentos veterinários de importação (projecto Shift) e que altera as Directivas 90/675/CEE, 91/496/CEE e 91/628/CEE e a Decisão 90/424/CEE e revoga a Decisão 88/192/CEE** *Jornal Oficial nº L 243 de 25/08/1992 p. 0027 - 0031 Edição especial finlandesa: Capítulo 3 Fascículo 44 p. 0181 Edição especial sueca: Capítulo 3 Fascículo 44 p. 0181*\n\nDECISÃO DO CONSELHO de 13 de Julho de 1992 relativa à informatização dos procedimentos veterinários de importação (projecto Shift) e que altera as Directivas 90/675/CEE, 91/496/CEE e 91/628/CEE e a Decisão 90/424/CEE e revoga a Decisão 88/192/CEE (92/438/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente o seu artigo 43o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nConsiderando que, desde a adopção da Decisão 88/192/CEE do Conselho, de 28 de Março de 1988, relativa ao regime de controlo sanitário das importações provenientes de países terceiros nos postos de controlo fronteiriço (projecto Shift) (2), foram efectuados progressos consideráveis na harmonização no domínio veterinário; que, em especial, o Conselho adoptou a Directiva 90/675/CEE, de 10 de Dezembro de 1990, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade (3), a Directiva 91/496/CEE, de 15 de Julho de 1991, que fixa os princípios relativos à organização dos controlos veterinários dos animais provenientes de países terceiros introduzidos na Comunidade (4), e a Directiva 91/628/CEE, de 19 de Novembro de 1991, relativa à protecção dos animais durante o transporte (5);\n\nConsiderando que, à luz da evolução favorável da harmonização no domínio veterinário, é necessário prever novas disposições em matéria de informatização dos procedimentos veterinários de importação e revogar, pois, a Decisão 88/192/CEE;\n\nConsiderando que estas novas disposições devem contribuir para garantir a protecção da saúde das pessoas e dos animais, permitindo simultaneamente a realização do mercado interno para os animais e produtos animais;\n\nConsiderando que a supressão dos controlos fronteiriços internos torna ainda mais necessárias estas novas disposições;\n\nConsiderando que a informatização dos procedimentos veterinários de importação deve compreender um regime de informação eficaz em caso de rejeição de um lote pelo veterinário oficial de um posto de inspecção fronteiriço, bem como a manutenção de bases de dados relativos às condições de importação e às importações de animais e de produtos animais;\n\nConsiderando que é necessário alterar em consequência as Directivas 90/675/CEE, 91/496/CEE e 91/628/CEE;\n\nConsiderando que é conveniente prever, no âmbito da Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário (6), uma participação financeira da Comunidade na aplicação das novas disposições em matéria de informatização dos procedimentos veterinários de importação;\n\nConsiderando que é conveniente confiar à Comissão a responsabilidade pela tomada das medidas de aplicação necessárias,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "aa6dbf69480b5f92": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A informatização dos procedimentos veterinários de importação compreende:\n\n- a criação de um regime de informação nos casos de reexpedição de lotes pelo veterinário oficial de um posto de inspecção fronteiriço,\n\n- a manutenção e exploração de bases de dados relativas às condições de importação para a Comunidade de animais e produtos,\n\n- a manutenção e exploração de bases de dados relativas às importações para a Comunidade de animais e produtos.\n\n2. A informatização prevista no no 1 satisfaz as normas internacionais existentes."
+  },
+  "cf8160b45b25ab83": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPara efeitos da presente decisão, são aplicáveis as definições constantes das Directivas 90/675/CEE, 91/496/CEE e 91/628/CEE."
+  },
+  "68ef91724da32235": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. O regime de informação referido no no 1, primeiro travessão, do artigo 1o diz respeito aos postos de inspecção fronteiriços, às autoridades centrais dos Estados-membros e aos serviços da Comissão.\n\n2. O regime de informação referido no no 1, primeiro travessão, do artigo 1o será organizado em conformidade com os princípios constantes do anexo I."
+  },
+  "6d084da49081aa53": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. As bases de dados a que se refere o no 1, segundo travessão, do artigo 1o conterão todas as informações relativas às condições de importação para a Comunidade de animais e produtos, nomeadamente as relativas às listas de países terceiros autorizados, estabelecimentos aprovados, medidas de protecção adoptadas e as relativas aos modelos de certificados autorizados.\n\n2. A manutenção e exploração das bases de dados previstas no no 1, segundo travessão, do artigo 1o serão organizadas de acordo com os princípios constantes do anexo II."
+  },
+  "7ab85e53c5909faa": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. As bases de dados previstas no no 1, terceiro travessão, do artigo 1o, conterão todas as informações relativas a cada lote de animais e de produtos introduzidos na Comunidade, nomeadamente as relativas às condições de transporte de animais previstas no capítulo III da Directiva 91/628/CEE e as relativas aos resultados dos controlos efectuados de acordo com as Directivas 90/675/CEE e 91/496/CEE.\n\n2. A manutenção e a exploração das bases de dados a que se refere o no 1, terceiro travessão, do artigo 1o, serão organizadas em conformidade com os princípios constantes do anexo III."
+  },
+  "373231b1f5376b91": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs equipamentos utilizados nos postos de inspecção fronteiriços para efeitos da presente decisão podem ser os previstos no no 2 do artigo 2o da Decisão 91/398/CEE da Comissão, de 19 de Julho de 1991, relativa à rede informatizada de ligação entre as autoridades veterinárias (ANIMO) (7)."
+  },
+  "de7a7e674663e7a2": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nÉ revogada a Decisão 88/192/CEE."
+  },
+  "7c3233b6a58423e9": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nA Directiva 90/675/CEE é alterada do seguinte modo:\n\n1. Ao no 1 do artigo 4o é aditado o seguinte travessão:\n\n« - que o lote não foi rejeitado de acordo com as informações fornecidas pelo regime previsto no no 1, primeiro travessão, do artigo 1o da Decisão 92/438/CEE do Conselho, de 13 de Julho de 1992, relativa à informatização dos procedimentos veterinários de importação (projecto Shift) (*),\n\n(*) JO no L 243 de 25. 8. 1992, p. 27. ».\n\n2. Ao no 2 do artigo 8o é aditada a seguinte alínea:\n\n« d) A consulta das bases de dados previstas no no 1, segundo travessão, do artigo 1o da Decisão 92/438/CEE. ».\n\n3. Ao no 2, subalínea iii), do artigo 9o é aditado o seguinte período:\n\n« O veterinário oficial zelará por que sejam efectuadas todas as operações necessárias para a manutenção das bases de dados previstas no no 1, terceiro travessão, do artigo 1o da Decisão 92/438/CEE. ».\n\n4. No no 4, alínea b), do artigo 11o, o primeiro travessão passa a ter a seguinte redacção:\n\n« - assinalar ao veterinário oficial do posto de inspecção do local de destino a passagem e a data de chegada previsível dos produtos, por meio da rede informatizada de ligação entre as autoridades veterinárias (ANIMO). ».\n\n5. Ao no 4, alínea b), do artigo 11o é aditado o seguinte período:\n\n« Nesta hipótese, a autoridade competente será informada por meio da rede informatizada de ligação entre as autoridades veterinárias (ANIMO). ».\n\n6. No no 1, alínea a), do artigo 16o, o primeiro travessão passa a ter a seguinte redacção:\n\n« - recorrer ao regime de informação previsto no no 1, primeiro travessão, do artigo 1o da Decisão 92/438/CEE. ».\n\n7. No no 1, alínea a), do artigo 16o, é revogado o terceiro travessão.\n\n8. O no 5 do artigo 16o passa a ter a seguinte redacção:\n\n« 5. São aplicáveis as disposições da Decisão 92/438/CEE. »."
+  },
+  "8a4e86422423a456": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nA Directiva 91/496/CEE passa a ter a seguinte redacção:\n\n1. Ao no 1 do artigo 4o é aditado o seguinte travessão:\n\n« - que o lote não foi rejeitado de acordo com as informações fornecidas pelo regime previsto no no 1, primeiro travessão, do artigo 1o da Decisão 92/438/CEE do Conselho, de 13 de Julho de 1992, relativa à informatização dos procedimentos veterinários de importação (projecto Shift) (*).\n\n(*) JO no L 243 de 25. 8. 1992, p. 27. ».\n\n2. Ao no 2 do artigo 4o é aditado o seguinte parágrafo:\n\n« Uma consulta prévia das bases de dados previstas no no 1, segundo travessão, do artigo 1o da Decisão 92/438/CEE. ».\n\n3. Ao no 2 do artigo 6o é aditado o seguinte período:\n\n« O veterinário oficial zelará por que sejam efectuadas todas as operações necessárias para a manutenção das bases de dados previstas no no 1, terceiro travessão, do artigo 1o da Decisão 92/438/CEE. ».\n\n4. No no 1, alínea d), do artigo 9o, os termos « previsto no no 4, alínea b), do artigo 12o » são substituídos por « previsto no artigo 20o da Directiva 90/425/CEE ».\n\n5. No no 1, alínea c), do artigo 12o, o primeiro travessão passa a ter a seguinte redacção:\n\n« - recorrer ao regime de informação previsto no no 1, primeiro travessão, do artigo 1o da Decisão 92/438/CEE. ».\n\n6. No no 1, alínea c), do artigo 12o, é revogado o terceiro travessão.\n\n7. O no 4 do artigo 12o passa a ter a seguinte redacção:\n\n« 4. São aplicáveis as disposições da Decisão 92/438/CEE. ».\n\n8. No no 2, primeiro parágrafo, do artigo 30o, são suprimidos os termos « alínea b) »."
+  },
+  "5a195efff0711a94": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nAo artigo 11o da Directiva 91/628/CEE, é aditado o seguinte número:\n\n« 5. São aplicáveis as disposições da Decisão 92/438/CEE do Conselho, de 13 de Julho de 1992, relativa à informatização dos procedimentos veterinários de importação (projecto Shift) (*).\n\n(*) JO no L 243 de 25. 8. 1992, p. 27. »."
+  },
+  "70804d5ba9310b38": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nÀ Decisão 90/424/CEE, é aditado o seguinte artigo:\n\n« Artigo 37oA\n\n1. A informatização dos procedimentos veterinários de importação (projecto Shift), tal como prevista pela Decisão 92/438/CEE (*), pode beneficiar de uma ajuda financeira da Comunidade.\n\n2. As modalidades de organização da acção prevista no no 1 e o nível da participação financeira da Comunidade são fixados de acordo com o procedimento previsto no artigo 41o\n\n(*) JO no L 243 de 25. 8. 1992, p. 27. »."
+  },
+  "51c16aa2c3d04c3d": {
+   "fragment_id": "Artigo 12o — As modalidades de aplicação da presente decisão serão adoptadas na medida do necessário, de acordo com o procedimento previsto no artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 12o — As modalidades de aplicação da presente decisão serão adoptadas na medida do necessário, de acordo com o procedimento previsto no artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o — As modalidades de aplicação da presente decisão serão adoptadas na medida do necessário, de acordo com o procedimento previsto no artigo 13o"
+  },
+  "6808186ec06edf06": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. A Comissão será assistida pelo Comité veterinário permanente, instituído pela Decisão 68/361/CEE (8), doravante designado por « comité ».\n\n2. Caso se faça referência ao procedimento definido no presente artigo, o Comité veterinário permanente será chamado a pronunciar-se sem demora pelo seu presidente, quer por iniciativa deste último quer a pedido do representante de um Estado-membro.\n\n3. O representante da Comissão submeterá um projecto de medidas a tomar. O comité formulará o seu parecer sobre este projecto no prazo fixado pelo presidente em função da urgência da questão. O comité pronuncia-se por maioria de cinquenta e quatro votos, tendo os votos dos Estados-membros a ponderação prevista no no 2 do artigo 148o do Tratado. O presidente não tem direito de voto.\n\n4. a) A Comissão adoptará as medidas e aplicá-las-á imediatamente se estiverem conformes com o parecer do comité.\n\nb) Se não estiverem conformes com o referido parecer, ou na falta do mesmo, a Comissão submeterá ao Conselho imediatamente uma proposta de medidas a tomar. O Conselho adoptará as medidas por maioria qualificada.\n\nSe, expirado o prazo de três meses a contar da data em que a questão lhe tiver sido submetida, o Conselho não tiver adoptado medidas, a Comissão adoptará as medidas propostas e aplicá-las-á imediatamente."
+  },
+  "27b294d81c7ea291": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nAs disposições da presente decisão serão reanalisadas até 1 de Julho de 1995, para que seja tido em consideração o progresso tecnológico e sejam introduzidas as melhorias necessárias atendendo designadamente à evolução que poderá ter sido registada nos Estados-membros mais avançados."
+  },
+  "82436ed15d7db460": {
+   "fragment_id": "Artigo 15o — Os Estados-membros são destinatários da presente decisão. Feito em Bruxelas, em 13 de Julho de 1992. Pelo Conselho",
+   "type": "artigo",
+   "heading": "Artigo 15o — Os Estados-membros são destinatários da presente decisão. Feito em Bruxelas, em 13 de Julho de 1992. Pelo Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o — Os Estados-membros são destinatários da presente decisão. Feito em Bruxelas, em 13 de Julho de 1992. Pelo Conselho\n\nO Presidente\n\nJ. GUMMER\n\n(1) Parecer emitido em 10 de Julho de 1992 (ainda não publicado no Jornal Oficial). (2) JO no L 89 de 6. 4. 1988, p. 32. (3) JO no L 373 de 31. 12. 1990, p. 1. Directiva alterada pela Directiva 91/496/CEE (JO no L 268 de 24. 9. 1991, p. 56). (4) JO no L 268 de 24. 9. 1991, p. 56. Directiva alterada pela Directiva 91/628/CEE (JO no L 340 de 12. 12. 1991, p. 17). (5) JO no L 340 de 11. 12. 1991, p. 17. (6) JO no L 224 de 18. 8. 1990, p. 19. Decisão com a última redacção que lhe foi dada pelo Regulamento (CEE) no 3763/91 (JO no L 356 de 24. 12. 1991, p. 1). (7) JO no L 221 de 9. 8. 1991, p. 30. (8) JO no L 255 de 18. 10. 1968, p. 23."
+  },
+  "c81061274446949a": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n1. O sistema baseia-se na possibilidade dada a cada autoridade envolvida (posto de inspecção fronteiriço, autoridade central dos Estados-membros, Comissão) de consultar de forma selectiva um ficheiro informatizado relativo aos lotes de animais ou de produtos que tenham sido reexpedidos de acordo com o disposto no no 1, alínea c), do artigo 12o da Directiva 91/496/CEE e do no 1, alínea a), do artigo 16o da Directiva 90/675/CEE.\n\n2. O ficheiro será alimentado pelas autoridades competentes dos Estados-membros. A informação deve ser comunicada com a maior brevidade possível pela rede pública de transmissão por pacotes.\n\n3. O ficheiro ficará sob a responsabilidade da Comissão. A escolha do operador e a fixação do conjunto das especificações técnicas relativas à rede serão efectuadas em conformidade com o procedimento previsto no artigo 13o da presente decisão.\n\n4. Os motivos de reexpedição dos lotes constarão do ficheiro. As modalidades de aplicação do presente número serão adoptadas de acordo com o procedimento previsto no artigo 13o"
+  },
+  "d1b8dc4a4f47a5f9": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n1. A Comissão estabelecerá uma base de dados relativa às condições comunitárias de importação dos animais vivos e produtos. A Comissão colocará essas informações à disposição de cada Estado-membro e de cada posto de inspecção fronteiriço.\n\n2. Cada Estado-membro estabelecerá uma base de dados relativa às condições nacionais de importação dos animais vivos e produtos no seu território não abrangidas pelo no 1. Essas informações serão postas à disposição dos outros Estados-membros, da Comissão e de todos os postos de inspecção fronteiriços da Comunidade.\n\n3. Cada Estado-membro determinará as regras de acesso dos seus postos de inspecção fronteiriços às bases de dados referidos nos nos 1 e 2.\n\n4. A Comissão zelará por que a base de dados referida no no 1 esteja em permanência actualizada. Os Estados-membros zelarão pela actualização, nas suas áreas de competência, das bases de dados referidas no no 2.\n\n5. As exigências técnicas necessárias à harmonização das bases de dados, bem como as que presidem à sua actualização, serão fixadas de acordo com o procedimento previsto no artigo 13o"
+  },
+  "df5ace1c7e55bc11": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\n1. Os Estados-membros estabelecerão bases de dados relativas aos animais e produtos introduzidos nos seus territórios.\n\n2. Os Estados-membros transmitirão à Comissão, com frequência a determinar de acordo com o procedimento previsto no artigo 13o, as informações extraídas das bases de dados referidas no no 1.\n\n3. As exigências técnicas necessárias à harmonização das bases de dados, bem como as relativas à transmissão das informações à Comissão, serão fixadas de acordo com o procedimento previsto no artigo 13o"
+  },
+  "dc754e8281e1086b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1992D0438 — PT — 05.06.2003 — 002.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992D0438:PT:NOT) [DECISÃO DO CONSELHO de 13 de Julho de 1992 relativa à informatização dos procedimentos veterinários de importação (projecto Shift) e que altera as Directivas 90/675/CEE, 91/496/CEE e 91/628/CEE e a Decisão 90/424/CEE e revoga a Decisão 88/192/CEE (92/438/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992D0438:PT:NOT) (JO L 243, 25.8.1992, p.27)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0806:PT:NOT) | [Regulamento (CE) n.o 806/2003 do Conselho de 14 de Abril de 2003](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0806:PT:NOT) | L 122 | 1 | 16.5.2003 |\n\nAlterado por:\n\n| [A1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N:PT:NOT) | [Acto de Adesão da Áustria, da Finlândia e da Suécia](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N:PT:NOT) | C 241 | 21 | 29.8.1994 |\n| --- | --- | --- | --- | --- |\n|  | (adaptado pela Decisão 95/1/CE, Euratom, CECA do Conselho) | L 001 | 1 | .. |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992D0438:PT:NOT)\n\nDECISÃO DO CONSELHO\n\nde 13 de Julho de 1992\n\nrelativa à informatização dos procedimentos veterinários de importação (projecto Shift) e que altera as Directivas 90/675/CEE, 91/496/CEE e 91/628/CEE e a Decisão 90/424/CEE e revoga a Decisão 88/192/CEE\n\n(92/438/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente o seu artigo 43.o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([1](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#E0001)),\n\nConsiderando que, desde a adopção da Decisão 88/192/CEE do Conselho, de 28 de Março de 1988, relativa ao regime de controlo sanitário das importações provenientes de países terceiros nos postos de controlo fronteiriço (projecto Shift) ([2](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#E0002)), foram efectuados progressos consideráveis na harmonização no domínio veterinário; que, em especial, o Conselho adoptou a Directiva 90/675/CEE, de 10 de Dezembro de 1990, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade ([3](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#E0003)), a Directiva 91/496/CEE, de 15 de Julho de 1991, que fixa os princípios relativos à organização dos controlos veterinários dos animais provenientes de países terceiros introduzidos na Comunidade ([4](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#E0004)), e a Directiva 91/628/CEE, de 19 de Novembro de 1991, relativa à protecção dos animais durante o transporte ([5](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#E0005));\n\nConsiderando que, à luz da evolução favorável da harmonização no domínio veterinário, é necessário prever novas disposições em matéria de informatização dos procedimentos veterinários de importação e revogar, pois, a Decisão 88/192/CEE;\n\nConsiderando que estas novas disposições devem contribuir para garantir a protecção da saúde das pessoas e dos animais, permitindo simultaneamente a realização do mercado interno para os animais e produtos animais;\n\nConsiderando que a supressão dos controlos fronteiriços internos torna ainda mais necessárias estas novas disposições;\n\nConsiderando que a informatização dos procedimentos veterinários de importação deve compreender um regime de informação eficaz em caso de rejeição de um lote pelo veterinário oficial de um posto de inspecção fronteiriço, bem como a manutenção de bases de dados relativos às condições de importação e às importações de animais e de produtos animais;\n\nConsiderando que é necessário alterar em consequência as Directivas 90/675/CEE, 91/496/CEE e 91/628/CEE;\n\nConsiderando que é conveniente prever, no âmbito da Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário ([6](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#E0006)), uma participação financeira da Comunidade na aplicação das novas disposições em matéria de informatização dos procedimentos veterinários de importação;\n\nConsiderando que é conveniente confiar à Comissão a responsabilidade pela tomada das medidas de aplicação necessárias,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "8cfb4a86af60be44": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A informatização dos procedimentos veterinários de importação compreende:\n\n— a criação de um regime de informação nos casos de reexpedição de lotes pelo veterinário oficial de um posto de inspecção fronteiriço,\n\n— a manutenção e exploração de bases de dados relativas às condições de importação para a Comunidade de animais e produtos,\n\n— a manutenção e exploração de bases de dados relativas às importações para a Comunidade de animais e produtos.\n\n2. A informatização prevista no n.o 1 satisfaz as normas internacionais existentes."
+  },
+  "d54b60248e69837b": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente decisão, são aplicáveis as definições constantes das Directivas 90/675/CEE, 91/496/CEE e 91/628/CEE."
+  },
+  "a9a4910e036da2bb": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O regime de informação referido no n.o 1, primeiro travessão, do artigo 1.o diz respeito aos postos de inspecção fronteiriços, às autoridades centrais dos Estados-membros e aos serviços da Comissão.\n\n2. O regime de informação referido no n.o 1, primeiro travessão, do artigo 1.o será organizado em conformidade com os princípios constantes do anexo I."
+  },
+  "f88fb51ef2cb7a14": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. As bases de dados a que se refere o n.o 1, segundo travessão, do artigo 1.o conterão todas as informações relativas às condições de importação para a Comunidade de animais e produtos, nomeadamente as relativas às listas de países terceiros autorizados, estabelecimentos aprovados, medidas de protecção adoptadas e as relativas aos modelos de certificados autorizados.\n\n2. A manutenção e exploração das bases de dados previstas no n.o 1, segundo travessão, do artigo 1.o serão organizadas de acordo com os princípios constantes do anexo II."
+  },
+  "c8bf4394c4e8ed12": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. As bases de dados previstas no n.o 1, terceiro travessão, do artigo 1.o, conterão todas as informações relativas a cada lote de animais e de produtos introduzidos na Comunidade, nomeadamente as relativas às condições de transporte de animais previstas no capítulo III da Directiva 91/628/CEE e as relativas aos resultados dos controlos efectuados de acordo com as Directivas 90/675/CEE e 91/496/CEE.\n\n2. A manutenção e a exploração das bases de dados a que se refere o n.o 1, terceiro travessão, do artigo 1.o, serão organizadas em conformidade com os princípios constantes do anexo III."
+  },
+  "e9009ad1b06be553": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs equipamentos utilizados nos postos de inspecção fronteiriços para efeitos da presente decisão podem ser os previstos no n.o 2 do artigo 2.o da Decisão 91/398/CEE da Comissão, de 19 de Julho de 1991, relativa à rede informatizada de ligação entre as autoridades veterinárias (ANIMO) ([7](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#E0007))."
+  },
+  "c3df86650e82fede": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nÉ revogada a Decisão 88/192/CEE."
+  },
+  "30d97fc25149cbdf": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA Directiva 90/675/CEE é alterada do seguinte modo:\n\n1. Ao n.\n\no\n\n1 do artigo 4.\n\no\n\né aditado o seguinte travessão:\n\n«— que o lote não foi rejeitado de acordo com as informações fornecidas pelo regime previsto no n.o 1, primeiro travessão, do artigo 1.o da Decisão 92/438/CEE do Conselho, de 13 de Julho de 1992, relativa à informatização dos procedimentos veterinários de importação (projecto Shift) ([8](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#E0008)),»\n\n.\n\n2. Ao n.\n\no\n\n2 do artigo 8.\n\no\n\né aditada a seguinte alínea:\n\n«d) A consulta das bases de dados previstas no n.o1, segundo travessão, do artigo 1.o da Decisão 92/438/CEE.»\n\n.\n\n3. Ao n.\n\no\n\n2, subalínea iii), do artigo 9.\n\no\n\né aditado o seguinte período:\n\n«O veterinário oficial zelará por que sejam efectuadas todas as operações necessárias para a manutenção das bases de dados previstas no n.o 1, terceiro travessão, do artigo 1.o da Decisão 92/438/CEE.»\n\n.\n\n4. No n.\n\no\n\n4, alínea b), do artigo 11.\n\no\n\n, o primeiro travessão passa a ter a seguinte redacção:\n\n«— assinalar ao veterinário oficial do posto de inspecção do local de destino a passagem e a data de chegada previsível dos produtos, por meio da rede informatizada de ligação entre as autoridades veterinárias (ANIMO).»\n\n.\n\n5. Ao n.\n\no\n\n4, alínea b), do artigo 11.\n\no\n\né aditado o seguinte período:\n\n«Nesta hipótese, a autoridade competente será informada por meio da rede informatizada de ligação entre as autoridades veterinárias (ANIMO).»\n\n.\n\n6. No n.\n\no\n\n1, alínea a), do artigo 16.\n\no\n\n, o primeiro travessão passa a ter a seguinte redacção:\n\n«— recorrer ao regime de informação previsto no n.o 1, primeiro travessão, do artigo 1.o da Decisão 92/438/CEE.»\n\n.\n\n7. No n.o 1, alínea a), do artigo 16.o, é revogado o terceiro travessão.\n\n8. O n.\n\no\n\n5 do artigo 16.\n\no\n\npassa a ter a seguinte redacção:\n\n«5. São aplicáveis as disposições da Decisão 92/438/CEE.»\n\n."
+  },
+  "d1b9b1dffb5cf3d3": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA Directiva 91/496/CEE passa a ter a seguinte redacção:\n\n1. Ao n.\n\no\n\n1 do artigo 4.\n\no\n\né aditado o seguinte travessão:\n\n«— que o lote não foi rejeitado de acordo com as informações fornecidas pelo regime previsto no n.o 1, primeiro travessão, do artigo 1.o da Decisão 92/438/CEE do Conselho, de 13 de Julho de 1992, relativa à informatização dos procedimentos veterinários de importação (projecto Shift) ([9](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#E0009)).»\n\n.\n\n2. Ao n.\n\no\n\n2 do artigo 4.\n\no\n\né aditado o seguinte parágrafo:\n\n«Uma consulta prévia das bases de dados previstas no n.o 1, segundo travessão, do artigo 1.o da Decisão 92/438/CEE.»\n\n.\n\n3. Ao n.\n\no\n\n2 do artigo 6.\n\no\n\né aditado o seguinte período:\n\n«O veterinário oficial zelará por que sejam efectuadas todas as operações necessárias para a manutenção das bases de dados previstas no n.o 1, terceiro travessão, do artigo 1.o da Decisão 92/438/CEE.»\n\n.\n\n4. No n.o 1, alínea d), do artigo 9.o, os termos «previsto no n.o 4, alínea b), do artigo 12.o» são substituídos por «previsto no artigo 20.o da Directiva 90/425/CEE».\n\n5. No n.\n\no\n\n1, alínea c), do artigo 12.\n\no\n\n, o primeiro travessão passa a ter a seguinte redacção:\n\n«— recorrer ao regime de informação previsto no n.o 1, primeiro travessão, do artigo 1.o da Decisão 92/438/CEE.»\n\n.\n\n6. No n.o 1, alínea c), do artigo 12.o, é revogado o terceiro travessão.\n\n7. O n.\n\no\n\n4 do artigo 12.\n\no\n\npassa a ter a seguinte redacção:\n\n«4. São aplicáveis as disposições da Decisão 92/438/CEE.»\n\n.\n\n8. No n.o 2, primeiro parágrafo, do artigo 30.o, são suprimidos os termos «alínea b)»."
+  },
+  "5ba378dab773ae46": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAo artigo 11.o da Directiva 91/628/CEE, é aditado o seguinte número:\n\n«5. São aplicáveis as disposições da Decisão 92/438/CEE do Conselho, de 13 de Julho de 1992, relativa à informatização dos procedimentos veterinários de importação (projecto Shift) ([10](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#E0010)).»\n\n."
+  },
+  "a14cf0779bbabca8": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nÀ Decisão 90/424/CEE, é aditado o seguinte artigo:\n\n«Artigo 37.oA\n\n1. A informatização dos procedimentos veterinários de importação (projecto Shift), tal como prevista pela Decisão 92/438/CEE ([11](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#E0011)), pode beneficiar de uma ajuda financeira da Comunidade.\n\n2. As modalidades de organização da acção prevista no n.o 1 e o nível da participação financeira da Comunidade são fixados de acordo com o procedimento previsto no artigo 41.o»\n\n."
+  },
+  "f2f649c10db6a986": {
+   "fragment_id": "Artigo 12.º — As modalidades de aplicação da presente decisão serão adoptadas na medida do necessário, de acordo com o procedimento previsto no artigo 13.o",
+   "type": "artigo",
+   "heading": "Artigo 12.º — As modalidades de aplicação da presente decisão serão adoptadas na medida do necessário, de acordo com o procedimento previsto no artigo 13.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — As modalidades de aplicação da presente decisão serão adoptadas na medida do necessário, de acordo com o procedimento previsto no artigo 13.o\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0806:PT:NOT)"
+  },
+  "d80324f1eb1aad44": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.o do Regulamento (CE) n.o 178/2002 ([12](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#E0012)).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE ([13](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#E0013)).\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992D0438:PT:NOT)"
+  },
+  "dd4f45941aaaf1a2": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nAs disposições da presente decisão serão reanalisadas até 1 de Julho de 1995, para que seja tido em consideração o progresso tecnológico e sejam introduzidas as melhorias necessárias atendendo designadamente à evolução que poderá ter sido registada nos Estados-membros mais avançados."
+  },
+  "4a4e33f9a8632f66": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs Estados-membros são destinatários da presente decisão."
+  },
+  "8c00628fbed7aafc": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n1. O sistema baseia-se na possibilidade dada a cada autoridade envolvida (posto de inspecção fronteiriço, autoridade central dos Estados-membros, Comissão) de consultar de forma selectiva um ficheiro informatizado relativo aos lotes de animais ou de produtos que tenham sido reexpedidos de acordo com o disposto no n.o 1, alínea c), do artigo 12.o da Directiva 91/496/CEE e do n.o 1, alínea a), do artigo 16.o da Directiva 90/675/CEE.\n\n2. O ficheiro será alimentado pelas autoridades competentes dos Estados-membros. A informação deve ser comunicada com a maior brevidade possível pela rede pública de transmissão por pacotes.\n\n3. O ficheiro ficará sob a responsabilidade da Comissão. A escolha do operador e a fixação do conjunto das especificações técnicas relativas à rede serão efectuadas em conformidade com o procedimento previsto no artigo 13.o da presente decisão.\n\n4. Os motivos de reexpedição dos lotes constarão do ficheiro. As modalidades de aplicação do presente número serão adoptadas de acordo com o procedimento previsto no artigo 13.o"
+  },
+  "c6f258bd0749301f": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n1. A Comissão estabelecerá uma base de dados relativa às condições comunitárias de importação dos animais vivos e produtos. A Comissão colocará essas informações à disposição de cada Estado-membro e de cada posto de inspecção fronteiriço.\n\n2. Cada Estado-membro estabelecerá uma base de dados relativa às condições nacionais de importação dos animais vivos e produtos no seu território não abrangidas pelo n.o 1. Essas informações serão postas à disposição dos outros Estados-membros, da Comissão e de todos os postos de inspecção fronteiriços da Comunidade.\n\n3. Cada Estado-membro determinará as regras de acesso dos seus postos de inspecção fronteiriços às bases de dados referidos nos n.o 1 e 2.\n\n4. A Comissão zelará por que a base de dados referida no n.o 1 esteja em permanência actualizada. Os Estados-membros zelarão pela actualização, nas suas áreas de competência, das bases de dados referidas no n.o 2.\n\n5. As exigências técnicas necessárias à harmonização das bases de dados, bem como as que presidem à sua actualização, serão fixadas de acordo com o procedimento previsto no artigo 13.o"
+  },
+  "d1740be4409185a9": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\n1. Os Estados-membros estabelecerão bases de dados relativas aos animais e produtos introduzidos nos seus territórios.\n\n2. Os Estados-membros transmitirão à Comissão, com frequência a determinar de acordo com o procedimento previsto no artigo 13.o, as informações extraídas das bases de dados referidas no n.o 1.\n\n3. As exigências técnicas necessárias à harmonização das bases de dados, bem como as relativas à transmissão das informações à Comissão, serão fixadas de acordo com o procedimento previsto no artigo 13.o\n\n([1](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#src.E0001)) Parecer emitido em 10 de Julho de 1992 (ainda não publicado no Jornal Oficial).\n\n([2](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#src.E0002)) JO n.o L 89 de 6. 4. 1988, p. 32.\n\n([3](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#src.E0003)) JO n.o L 373 de 31. 12. 1990, p. 1. Directiva alterada pela Directiva 91/496/CEE (JO n.oL 268 de 24. 9. 1991, p. 56).\n\n([4](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#src.E0004)) JO n.o L 268 de 24. 9. 1991, p. 56. Directiva alterada pela Directiva 91/628/CEE (JO n.oL 340 de 12. 12. 1991, p. 17).\n\n([5](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#src.E0005)) JO n.o L 340 de 11. 12. 1991, p. 17.\n\n([6](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#src.E0006)) JO n.o L 224 de 18. 8. 1990, p. 19. Decisão com a última redacção que lhe foi dada pelo Regulamento (CEE) n.o 3763/91 (JO n.o L 356 de 24. 12. 1991, p. 1).\n\n([7](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#src.E0007)) JO n.o L 221 de 9. 8. 1991, p. 30.\n\n([8](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#src.E0008)) JO n.o L 243 de 25. 8. 1992, p. 27.\n\n([9](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#src.E0009)) JO n.o L 243 de 25. 8. 1992, p. 27.\n\n([10](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#src.E0010)) JO n.o L 243 de 25. 8. 1992, p. 27.\n\n([11](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#src.E0011)) JO n.oL 243 de 25. 8. 1992, p. 27.\n\n([12](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#src.E0012)) JO L 31 de 1.2.2002, p. 1.\n\n([13](http://publications.europa.eu/resource/cellar/29833a99-7cce-47ad-8ecc-2161f5f27558.0018.02/DOC_1#src.E0013)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "d411d89a03ed764c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Julho de 1992\n\nrelativa à informatização dos procedimentos veterinários de importação (projecto Shift) e que altera as Directivas 90/675/CEE, 91/496/CEE e 91/628/CEE e a Decisão 90/424/CEE e revoga a Decisão 88/192/CEE\n\n(92/438/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente o seu artigo 43.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#E0001)),\n\nConsiderando que, desde a adopção da Decisão 88/192/CEE do Conselho, de 28 de Março de 1988, relativa ao regime de controlo sanitário das importações provenientes de países terceiros nos postos de controlo fronteiriço (projecto Shift) ([^2^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#E0002)), foram efectuados progressos consideráveis na harmonização no domínio veterinário; que, em especial, o Conselho adoptou a Directiva 90/675/CEE, de 10 de Dezembro de 1990, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade ([^3^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#E0003)), a Directiva 91/496/CEE, de 15 de Julho de 1991, que fixa os princípios relativos à organização dos controlos veterinários dos animais provenientes de países terceiros introduzidos na Comunidade ([^4^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#E0004)), e a Directiva 91/628/CEE, de 19 de Novembro de 1991, relativa à protecção dos animais durante o transporte ([^5^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#E0005));\n\nConsiderando que, à luz da evolução favorável da harmonização no domínio veterinário, é necessário prever novas disposições em matéria de informatização dos procedimentos veterinários de importação e revogar, pois, a Decisão 88/192/CEE;\n\nConsiderando que estas novas disposições devem contribuir para garantir a protecção da saúde das pessoas e dos animais, permitindo simultaneamente a realização do mercado interno para os animais e produtos animais;\n\nConsiderando que a supressão dos controlos fronteiriços internos torna ainda mais necessárias estas novas disposições;\n\nConsiderando que a informatização dos procedimentos veterinários de importação deve compreender um regime de informação eficaz em caso de rejeição de um lote pelo veterinário oficial de um posto de inspecção fronteiriço, bem como a manutenção de bases de dados relativos às condições de importação e às importações de animais e de produtos animais;\n\nConsiderando que é necessário alterar em consequência as Directivas 90/675/CEE, 91/496/CEE e 91/628/CEE;\n\nConsiderando que é conveniente prever, no âmbito da Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário ([^6^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#E0006)), uma participação financeira da Comunidade na aplicação das novas disposições em matéria de informatização dos procedimentos veterinários de importação;\n\nConsiderando que é conveniente confiar à Comissão a responsabilidade pela tomada das medidas de aplicação necessárias,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "f5066d91d7bba964": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A informatização dos procedimentos veterinários de importação compreende:\n\n— a criação de um regime de informação nos casos de reexpedição de lotes pelo veterinário oficial de um posto de inspecção fronteiriço,\n\n— a manutenção e exploração de bases de dados relativas às condições de importação para a Comunidade de animais e produtos,\n\n— a manutenção e exploração de bases de dados relativas às importações para a Comunidade de animais e produtos.\n\n2. A informatização prevista no n.º 1 satisfaz as normas internacionais existentes."
+  },
+  "2991f197068b0707": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O regime de informação referido no n.º 1, primeiro travessão, do artigo 1.º diz respeito aos postos de inspecção fronteiriços, às autoridades centrais dos Estados-membros e aos serviços da Comissão.\n\n2. O regime de informação referido no n.º 1, primeiro travessão, do artigo 1.º será organizado em conformidade com os princípios constantes do anexo I."
+  },
+  "73ea189b878bb5f4": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. As bases de dados a que se refere o n.º 1, segundo travessão, do artigo 1.º conterão todas as informações relativas às condições de importação para a Comunidade de animais e produtos, nomeadamente as relativas às listas de países terceiros autorizados, estabelecimentos aprovados, medidas de protecção adoptadas e as relativas aos modelos de certificados autorizados.\n\n2. A manutenção e exploração das bases de dados previstas no n.º 1, segundo travessão, do artigo 1.º serão organizadas de acordo com os princípios constantes do anexo II."
+  },
+  "21070107ce575af1": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. As bases de dados previstas no n.º 1, terceiro travessão, do artigo 1.º, conterão todas as informações relativas a cada lote de animais e de produtos introduzidos na Comunidade, nomeadamente as relativas às condições de transporte de animais previstas no capítulo III da Directiva 91/628/CEE e as relativas aos resultados dos controlos efectuados de acordo com as Directivas 90/675/CEE e 91/496/CEE.\n\n2. A manutenção e a exploração das bases de dados a que se refere o n.º 1, terceiro travessão, do artigo 1.º, serão organizadas em conformidade com os princípios constantes do anexo III."
+  },
+  "a351aa02ca20d38e": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs equipamentos utilizados nos postos de inspecção fronteiriços para efeitos da presente decisão podem ser os previstos no n.º 2 do artigo 2.º da Decisão 91/398/CEE da Comissão, de 19 de Julho de 1991, relativa à rede informatizada de ligação entre as autoridades veterinárias (ANIMO) ([^7^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#E0007))."
+  },
+  "4292920460570398": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA Directiva 90/675/CEE é alterada do seguinte modo:\n\n1. Ao n.º 1 do artigo 4.º é aditado o seguinte travessão:\n\n«— que o lote não foi rejeitado de acordo com as informações fornecidas pelo regime previsto no n.º 1, primeiro travessão, do artigo 1.º da Decisão 92/438/CEE do Conselho, de 13 de Julho de 1992, relativa à informatização dos procedimentos veterinários de importação (projecto Shift) ([^8^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#E0008)).\n\n2. Ao n.º 2 do artigo 8.º é aditada a seguinte alínea:\n\n«d) A consulta das bases de dados previstas no n.º1, segundo travessão, do artigo 1.º da Decisão 92/438/CEE.».\n\n3. Ao n.º 2, subalínea iii), do artigo 9.º é aditado o seguinte período:\n\n«O veterinário oficial zelará por que sejam efectuadas todas as operações necessárias para a manutenção das bases de dados previstas no n.º 1, terceiro travessão, do artigo 1.º da Decisão 92/438/CEE.».\n\n4. No n.º 4, alínea b), do artigo 11.º, o primeiro travessão passa a ter a seguinte redacção:\n\n«— assinalar ao veterinário oficial do posto de inspecção do local de destino a passagem e a data de chegada previsível dos produtos, por meio da rede informatizada de ligação entre as autoridades veterinárias (ANIMO).».\n\n5. Ao n.º 4, alínea b), do artigo 11.º é aditado o seguinte período:\n\n«Nesta hipótese, a autoridade competente será informada por meio da rede informatizada de ligação entre as autoridades veterinárias (ANIMO).».\n\n6. No n.º 1, alínea a), do artigo 16.º, o primeiro travessão passa a ter a seguinte redacção:\n\n«— recorrer ao regime de informação previsto no n.º 1, primeiro travessão, do artigo 1.º da Decisão 92/438/CEE.».\n\n7. No n.º 1, alínea a), do artigo 16.º, é revogado o terceiro travessão.\n\n8. O n.º 5 do artigo 16.º passa a ter a seguinte redacção:\n\n«5. São aplicáveis as disposições da Decisão 92/438/CEE.»."
+  },
+  "888bfccf17550b5f": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA Directiva 91/496/CEE passa a ter a seguinte redacção:\n\n1. Ao n.º 1 do artigo 4.º é aditado o seguinte travessão:\n\n«— que o lote não foi rejeitado de acordo com as informações fornecidas pelo regime previsto no n.º 1, primeiro travessão, do artigo 1.º da Decisão 92/438/CEE do Conselho, de 13 de Julho de 1992, relativa à informatização dos procedimentos veterinários de importação (projecto Shift) ([^9^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#E0009)).\n\n2. Ao n.º 2 do artigo 4.º é aditado o seguinte parágrafo:\n\n«Uma consulta prévia das bases de dados previstas no n.º 1, segundo travessão, do artigo 1.º da Decisão 92/438/CEE.».\n\n3. Ao n.º 2 do artigo 6.º é aditado o seguinte período:\n\n«O veterinário oficial zelará por que sejam efectuadas todas as operações necessárias para a manutenção das bases de dados previstas no n.º 1, terceiro travessão, do artigo 1.º da Decisão 92/438/CEE.».\n\n4. No n.º 1, alínea d), do artigo 9.º, os termos «previsto no n.º 4, alínea b), do artigo 12.º» são substituídos por «previsto no artigo 20.º da Directiva 90/425/CEE».\n\n5. No n.º 1, alínea c), do artigo 12.º, o primeiro travessão passa a ter a seguinte redacção:\n\n«— recorrer ao regime de informação previsto no n.º 1, primeiro travessão, do artigo 1.º da Decisão 92/438/CEE.».\n\n6. No n.º 1, alínea c), do artigo 12.º, é revogado o terceiro travessão.\n\n7. O n.º 4 do artigo 12.º passa a ter a seguinte redacção:\n\n«4. São aplicáveis as disposições da Decisão 92/438/CEE.».\n\n8. No n.º 2, primeiro parágrafo, do artigo 30.º, são suprimidos os termos «alínea b)»."
+  },
+  "8252ade71b7c433a": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAo artigo 11.º da Directiva 91/628/CEE, é aditado o seguinte número:\n\n«5. São aplicáveis as disposições da Decisão 92/438/CEE do Conselho, de 13 de Julho de 1992, relativa à informatização dos procedimentos veterinários de importação (projecto Shift) ([^10^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#E0010))."
+  },
+  "868e6275b0944cc4": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAs modalidades de aplicação da presente decisão serão adoptadas na medida do necessário, de acordo com o procedimento previsto no artigo 13.º"
+  },
+  "4c20ab1be5025707": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^11^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#E0012)).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^12^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#E0013)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "ae422bf07346d00b": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n1. O sistema baseia-se na possibilidade dada a cada autoridade envolvida (posto de inspecção fronteiriço, autoridade central dos Estados-membros, Comissão) de consultar de forma selectiva um ficheiro informatizado relativo aos lotes de animais ou de produtos que tenham sido reexpedidos de acordo com o disposto no n.º 1, alínea c), do artigo 12.º da Directiva 91/496/CEE e do n.º 1, alínea a), do artigo 16.º da Directiva 90/675/CEE.\n\n2. O ficheiro será alimentado pelas autoridades competentes dos Estados-membros. A informação deve ser comunicada com a maior brevidade possível pela rede pública de transmissão por pacotes.\n\n3. O ficheiro ficará sob a responsabilidade da Comissão. A escolha do operador e a fixação do conjunto das especificações técnicas relativas à rede serão efectuadas em conformidade com o procedimento previsto no artigo 13.º da presente decisão.\n\n4. Os motivos de reexpedição dos lotes constarão do ficheiro. As modalidades de aplicação do presente número serão adoptadas de acordo com o procedimento previsto no artigo 13.º"
+  },
+  "a118e020dc342c83": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n1. A Comissão estabelecerá uma base de dados relativa às condições comunitárias de importação dos animais vivos e produtos. A Comissão colocará essas informações à disposição de cada Estado-membro e de cada posto de inspecção fronteiriço.\n\n2. Cada Estado-membro estabelecerá uma base de dados relativa às condições nacionais de importação dos animais vivos e produtos no seu território não abrangidas pelo n.º 1. Essas informações serão postas à disposição dos outros Estados-membros, da Comissão e de todos os postos de inspecção fronteiriços da Comunidade.\n\n3. Cada Estado-membro determinará as regras de acesso dos seus postos de inspecção fronteiriços às bases de dados referidos nos n.º 1 e 2.\n\n4. A Comissão zelará por que a base de dados referida no n.º 1 esteja em permanência actualizada. Os Estados-membros zelarão pela actualização, nas suas áreas de competência, das bases de dados referidas no n.º 2.\n\n5. As exigências técnicas necessárias à harmonização das bases de dados, bem como as que presidem à sua actualização, serão fixadas de acordo com o procedimento previsto no artigo 13.º"
+  },
+  "2b883252bf7dca96": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\n1. Os Estados-membros estabelecerão bases de dados relativas aos animais e produtos introduzidos nos seus territórios.\n\n2. Os Estados-membros transmitirão à Comissão, com frequência a determinar de acordo com o procedimento previsto no artigo 13.º, as informações extraídas das bases de dados referidas no n.º 1.\n\n3. As exigências técnicas necessárias à harmonização das bases de dados, bem como as relativas à transmissão das informações à Comissão, serão fixadas de acordo com o procedimento previsto no artigo 13.º\n\n---"
+  },
+  "a1afa92e5cb6da94": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#src.E0001)) Parecer emitido em 10 de Julho de 1992 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#src.E0002)) JO n.º L 89 de 6. 4. 1988, p. 32.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#src.E0003)) JO n.º L 373 de 31. 12. 1990, p. 1. Directiva alterada pela Directiva 91/496/CEE (JO n.ºL 268 de 24. 9. 1991, p. 56).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#src.E0004)) JO n.º L 268 de 24. 9. 1991, p. 56. Directiva alterada pela Directiva 91/628/CEE (JO n.ºL 340 de 12. 12. 1991, p. 17).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#src.E0005)) JO n.º L 340 de 11. 12. 1991, p. 17.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#src.E0006)) JO n.º L 224 de 18. 8. 1990, p. 19. Decisão com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 3763/91 (JO n.º L 356 de 24. 12. 1991, p. 1).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#src.E0007)) JO n.º L 221 de 9. 8. 1991, p. 30.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#src.E0008)) JO n.º L 243 de 25. 8. 1992, p. 27.»\n\n> ([^9^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#src.E0009)) JO n.º L 243 de 25. 8. 1992, p. 27.»\n\n> ([^10^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#src.E0010)) JO n.º L 243 de 25. 8. 1992, p. 27.»\n\n> ([^11^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#src.E0012)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/926b4caf-f010-443c-a051-a0905549b481.0018.03/DOC_1#src.E0013)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "6fb41cd647fd801f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01992D0438 — PT — 14.12.2019 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31992D0438) [DECISÃO DO CONSELHO](http://publications.europa.eu/resource/celex/31992D0438) [de 13 de Julho de 1992](http://publications.europa.eu/resource/celex/31992D0438) [relativa à informatização dos procedimentos veterinários de importação (projecto Shift) e que altera as Directivas 90/675/CEE, 91/496/CEE e 91/628/CEE e a Decisão 90/424/CEE e revoga a Decisão 88/192/CEE](http://publications.europa.eu/resource/celex/31992D0438) [(92/438/CEE)](http://publications.europa.eu/resource/celex/31992D0438) (JO L 243, 25.8.1992, p.27)\n\n**Revogada por:**\n\n- [Regulamento (UE) 2017/625 do Parlamento Europeu e do Conselho de 15 de março de 2017](http://publications.europa.eu/resource/celex/32017R0625) — L 95 — 1 — 7.4.2017"
+  }
+ }
+}

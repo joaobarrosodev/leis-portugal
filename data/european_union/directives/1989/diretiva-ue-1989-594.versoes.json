@@ -1,0 +1,726 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0594:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0594-20071020",
+ "dre_path": null,
+ "source_lastmod": "2007-10-20",
+ "versions": [
+  {
+   "date": "1989-11-23",
+   "future": false,
+   "celex": "31989L0594",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "98e3ea16a207a197",
+    "9064bb66a25e8015",
+    "0eb94f5de03bbc31",
+    "e91138183ab431f2",
+    "7f068e4c24829202",
+    "1aeb1ff682cb25bb",
+    "772f2cf2a21b7006",
+    "d869c6785f9abba8",
+    "46b20a53e9486631",
+    "7eb503776dfe29d4",
+    "a35f3dd9205deeea",
+    "d7f475e90e224893",
+    "69c59cd91c6ef6bb",
+    "4a4b7e76492e7950",
+    "c0a65f5b817cfd51",
+    "90ad40f5bf01e379",
+    "7572091e199ac791",
+    "ded7ad2bd3d830d3",
+    "1c94509ac12547e4",
+    "462e9e3bf1813e40",
+    "2beb8d9ad6181849",
+    "1be4dd1efa7c75b0",
+    "1694de2b1a67c5fb",
+    "e2b62242ea65fef3",
+    "3d7d97a6024301bd",
+    "52880b2cfb7ea134",
+    "106aa4162be1bc31",
+    "eb1313c400e0fd63",
+    "957c516cdc6058ed",
+    "3a21cc7ecd18aed7",
+    "7c8c98e581ef4d57",
+    "297346d8ef5bace4",
+    "be989a3739db5d24",
+    "5b5f945f7a4cdd72",
+    "0d75f9eeccc7d385",
+    "61c46eaaf4931ad4",
+    "f1d525aeb7b4a394"
+   ]
+  },
+  {
+   "date": "1993-04-15",
+   "future": false,
+   "celex": "01989L0594-19930415",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita CAPITULO 1",
+    "Adita CAPITULO 2 — Alteraçoes da Directiva 77/452/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais)",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita CAPITULO 3 — Alteraçoes da Directiva 78/686/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de dentista)",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita CAPITULO 4",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Adita Artigo 20.º",
+    "Adita CAPITULO 5",
+    "Adita Artigo 21.º",
+    "Adita Artigo 22.º",
+    "Adita Artigo 23.º",
+    "Adita Artigo 24.º",
+    "Adita Artigo 25.º",
+    "Adita Artigo 26.º",
+    "Adita Artigo 27.º",
+    "Adita CAPITULO 6 — Disposiçoes finais",
+    "Adita Artigo 28.º",
+    "Adita Artigo 29.º",
+    "Adita ANEXO",
+    "Suprime artigo 66º, — Tendo em conta a proposta da Comissão (1),",
+    "Suprime CAPÍTULO 1",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime CAPÍTULO 2 — Alterações da Directiva 77/452/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime CAPÍTULO 3 — Alterações da Directiva 78/686/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime CAPÍTULO 4",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime Artigo 20º",
+    "Suprime CAPÍTULO 5",
+    "Suprime Artigo 21º",
+    "Suprime Artigo 22º",
+    "Suprime Artigo 23º",
+    "Suprime Artigo 24º",
+    "Suprime Artigo 25º — No artigo 4º da Directiva 80/155/CEE, o ponto 6, na versão linguística espanhola, passa a ter a seguinte redac-",
+    "Suprime Artigo 26º",
+    "Suprime Artigo 27º",
+    "Suprime CAPÍTULO 6 — Disposições finais",
+    "Suprime Artigo 28º",
+    "Suprime Artigo 29º"
+   ],
+   "fragments": [
+    "e67f19addb471481",
+    "ba00231ad948698f",
+    "131827b524ff9409",
+    "910862ad46f64169",
+    "4c5def2b5645622e",
+    "36f01d2ee19113b4",
+    "574c842d3561a4f5",
+    "9043fbb183fc19a4",
+    "1b83cce36ffd4b95",
+    "1a751faab1ad9f2f",
+    "14f6bc0265dc083f",
+    "caf66f257a83c6e5",
+    "67936f64639984e6",
+    "3cec8c29564e8d36",
+    "899dbe8714da864f",
+    "de90e14befa16bf0",
+    "8fe21723cdd3344d",
+    "f33565abd9316626",
+    "bde274edfde8ad74",
+    "01f2d2b2faaa4d75",
+    "52f68ad050089251",
+    "bca2ed331f64fca4",
+    "dcc8c59af780323a",
+    "931a9530787bbb7d",
+    "dcbf38545ce1bc01",
+    "d6990c1033a42fac",
+    "8201afa6ae3168b7",
+    "6867d2d319644a4b"
+   ]
+  },
+  {
+   "date": "2007-10-20",
+   "future": false,
+   "celex": "01989L0594-20071020",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPITULO 1",
+    "Suprime CAPITULO 2 — Alteraçoes da Directiva 77/452/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais)",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime CAPITULO 3 — Alteraçoes da Directiva 78/686/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de dentista)",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime CAPITULO 4",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime CAPITULO 5",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime Artigo 24.º",
+    "Suprime Artigo 25.º",
+    "Suprime Artigo 26.º",
+    "Suprime Artigo 27.º",
+    "Suprime CAPITULO 6 — Disposiçoes finais",
+    "Suprime Artigo 28.º",
+    "Suprime Artigo 29.º",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "829d1e4dc516a923"
+   ]
+  }
+ ],
+ "fragments": {
+  "98e3ea16a207a197": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 89/594/CEE do Conselho de 30 de Outubro de 1989 que altera as Directivas 75/362/CEE, 77/452/CEE, 78/686/CEE, 78/1026/CEE e 80/154/CEE, relativas ao reconhecimento mútuo dos diplomas, certificados e outros títulos de médico, enfermeiro responsável por cuidados gerais, dentista, veterinário e parteira, respectivamente, bem como as Directivas 75/363/CEE, 78/1027/CEE e 80/155/CEE, que têm por objectivo a coordenação das disposições legislativas, regulamentares e administrativas respeitantes às actividades de médico, de veterinário e de parteira** *Jornal Oficial nº L 341 de 23/11/1989 p. 0019 - 0029 Edição especial finlandesa: Capítulo 6 Fascículo 3 p. 0013 Edição especial sueca: Capítulo 6 Fascículo 3 p. 0013*\n\nDIRECTIVA DO CONSELHO de 30 de Outubro de 1989 que altera as Directivas 75/362/CEE, 77/452/CEE, 78/686/CEE, 78/1026/CEE e 80/154/CEE, relativas ao reconhecimento mútuo dos diplomas, certificados e outros títulos de médico, enfermeiro responsável por cuidados gerais, dentista, veterinário e parteira, respectivamente, bem como as Directivas 75/363/CEE, 78/1027/CEE e 80/155/CEE, que têm por objectivo a coordenação das disposições legislativas, regulamentares e administrativas respeitantes às actividades de médico, de veterinário e de parteira (89/594/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 49º, 57º nº 1 e primeira a terceira frases do nº 2 e o seu"
+  },
+  "9064bb66a25e8015": {
+   "fragment_id": "artigo 66º, — Tendo em conta a proposta da Comissão (1),",
+   "type": "artigo",
+   "heading": "artigo 66º, — Tendo em conta a proposta da Comissão (1),",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### artigo 66º, — Tendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que há que introduzir determinadas altera-\n\nções de ordem técnica nas Directivas 75/362/CEE (4),\n\n77/452/CEE (5), 78/686/CEE (6), 78/1026/CEE (7) e\n\n80/154/CEE (8), com a última redacção que lhes foi dada pelo Acto de Adesão de Espanha e Portugal, relativas ao reconhecimento mútuo dos diplomas de médico, enfermeiro\n\n¹\n\n¹\n\n¹\n\n¹\n\n¹\n\n¹\n\n¹\n\n¹\n\nresponsável por cuidados gerais, dentista, veterinário e\n\nparteira, respectivamente, bem como na Directiva 75/\n\n/363/CEE (9), com a última redacção que lhe foi dada\n\npela Directiva 82/76/CEE (10), e nas Directivas 78/\n\n/1027/CEE (11) e 80/155/CEE (12), que têm por objectivo a coordenação das disposições legislativas, regulamentares e administrativas relativas às actividades de médico, veterinário e parteira, a fim de ter em conta, nomeadamente, as alterações na denominação dos diplomas, certificados e outros títulos dessas profissões ou na denominação de determinadas especialidades médicas, bem como a criação de algumas especialidades médicas novas ou o abandono de certas especialidades médicas antigas ocorridos em alguns Estados-membros;\n\nConsiderando que há que proteger os direitos adquiridos a nível comunitário pelos detentores de antigos títulos que já não são emitidos, na sequência das alterações acima referidas e introduzidas na regulamentação do Estado-membro que emitiu o título, e que completar, nesse sentido, se necessário, as directivas acima referidas com disposições adequadas;\n\nConsiderando que, por razões de equidade, é conveniente prever medidas transitórias em benefício de certos detentores de diplomas, certificados e outros títulos de veterinário e de\n\n¹\n\nparteira, emitidos, respectivamente, pela Itália e pela Espanha, e que sancionam formações não inteiramente conformes com as Directivas 78/1027/CEE e 80/155/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "0eb94f5de03bbc31": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 1\n\nAlterações relativas às Directivas 75/362/CEE e 75/363//CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de médico e coordenação das disposições legislativas, regulamentares e administrativas relativas às actividades de médico)"
+  },
+  "e91138183ab431f2": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO artigo 3º da Directiva 75/362/CEE é alterado do seguinte modo:\n\n1. Na alínea a) («Na Alemanha»):\n\n- o ponto 2 passa a ter a seguinte redacção:\n\n«2. O certificado de exame de Estado de médico emitido pelas autoridades competentes após 30 de Junho de 1988 e o atestado comprovativo do exercício da actividade de médico durante um período de estágio (\"Arzt im Praktikum\").»,\n\n- o antigo ponto 2 passa a ser o novo ponto 3, e os termos «títulos enumerados no ponto 1» são substituídos pelos termos «títulos enumerados nos pontos 1 e 2».\n\n2. A alínea f) («Na Itália») passa a ter a seguinte redacção:\n\n«f) Na Itália:\n\n\"diploma di laurea in medicina e chirurgia\" (diploma de licenciatura em medicina e cirurgia) emitido pela universidade e acompanhado do \"diploma di abilitazione all'esercizio della medicina e chirurgia\" (diploma de habilitação para o exercício da medicina e da cirurgia) emitido pela Comissão de exame de Estado;».\n\n3. A alínea j) («Na Grécia») passa a ter a seguinte redacção:\n\n«j) Na Grécia:\n\n\"Ptychio Iatrikis\" (diploma de licenciatura em medicina) emitido pela:\n\n- faculdade de medicina de uma universidade, ou\n\n- pela faculdade de ciências da saúde, departamento de medicina, de uma universidade;»\n\n4. A alínea k) («Em Espanha») passa a ter a seguinte redacção:\n\n«k) Em Espanha:\n\n\"Título de Licenciado en Medicina y Cirugía\" (título de licenciado em medicina e cirurgia) emitido pelo Ministério da Educação e da Ciência ou pelo reitor de uma universidade;»."
+  },
+  "7f068e4c24829202": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nNo artigo 5º da Directiva 75/362/CEE, o nº 2 é alterado do seguinte modo:\n\n1. Na rubrica «Na Bélgica», o texto passa a ter a seguinte redacção:\n\n«Na Bélgica:\n\n\"le titre d'agréation en qualité de médecin spécialiste - erkenningstitel van geneesheer specialist\" (título de aprovação na qualidade de médico especialista) emitido pelo ministro responsável pelo pelouro da saúde pública;».\n\n2. À rubrica «Em França» é aditado o seguinte travessão:\n\n«- \"le diplôme d'études spécialisées de médecine\" (diploma de estudos especializados de medicina) emitido pelas universidades,».\n\n3. A rubrica «Nos Países Baixos» passa a ter a seguinte redacção:\n\n- o texto existente passa a constituir o primeiro travessão,\n\n- é aditado o seguinte travessão:\n\n«- \"Het door de Sociaal-geneeskundigen Registratiecommissie (SGRC) afgegeven getuigschrift van erkenning en inschrijving in het Register van sociaalgeneeskundigen\" (certificado de aprovação e inscrição no registo dos médicos de medicina social emitido pela comissão de registo dos médicos de medicina social);»\n\n4. A rubrica «Na Grécia» passa a ter a seguinte redacção:\n\n«Na Grécia:\n\n\",títlow Iatrikhw eidikóthtaw xorhgozmenow apó tiw Nomarxíew\" (título de especialização em medicina emitido pelas circunscrições administrativas);»."
+  },
+  "1aeb1ff682cb25bb": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nNo artigo 5º da Directiva 75/362/CEE, o nº 3 é alterado do seguinte modo:\n\n1. Na rubrica «anestesiologia»:\n\n- o item relativo à França passa a ter a seguinte redacção:\n\n«França: anesthésiologie - réanimation chirurgicale»,\n\n- o item relativo aos Países Baixos passa a ter a seguinte redacção:\n\n«Países Baixos: anesthesiologie,».\n\n2. Na rubrica «cirurgia geral»:\n\n- o item relativo a Espanha passa a ter a seguinte redacção:\n\n«Espanha: cirugía general y del aparato digestivo,».\n\n3. Na rubrica «oftalmologia»:\n\n- o item relativo à Bélgica passa a ter a seguinte redacção:\n\n«Bélgica: ophtalmologie/oftalmologie,».\n\n4. Na rubrica «pneumologia»:\n\n- o item relativo à França passa a ter a seguinte redacção:\n\n«França: pneumologie,»,\n\n- o item relativo aos Países Baixos passa a ter a seguinte redacção:\n\n«Países Baixos: longziekten en tuberculose,».\n\n5. Na rubrica «urologia»:\n\n- o item relativo à França passa a ter a seguinte redacção:\n\n«França: chirurgie urologique,».\n\n6. Na rubrica «ortopedia»:\n\n- o item relativo à França passa a ter a seguinte redacção:\n\n«França: chirurgie orthopédique et traumatologie».\n\n7. São aditadas as seguintes rubricas:\n\n«- Anatomia patológica:\n\n. «-\n\nAlemanha:\n\nPathologie,\n\nBélgica:\n\nanatomie pathologique/\n\npathologische anatomie,\n\nDinamarca:\n\npatologisk anatomi og histo-\n\nlogi eller vaevsundersoegelse,\n\nFrança:\n\nanatomie et cythologie patho-\n\nlogique,\n\nIrlanda:\n\nmorbid anatomy\n\nand histopathology,\n\nItália:\n\nanatomia patologica,\n\nLuxemburgo:\n\nanatomie pathologique,\n\nPaíses Baixos:\n\npathologische anatomie,\n\nReino Unido:\n\nmorbid anatomy and histo-\n\npathology,\n\nGrécia:\n\npathologiki anatomiki,\n\nEspanha:\n\nanatomía patologica,\n\nPortugal:\n\nanatomia patológica,\n\n«- neurologia:\n\nAlemanha:\n\nNeurologie,\n\nBélgica:\n\nneurologie/neurologie,\n\nDinamarca:\n\nneuromedicin eller medicin-\n\nske, nervesygdomme,\n\nFrança:\n\nneurologie,\n\nIrlanda:\n\nneurology,\n\nItália:\n\nneurologia,\n\nLuxemburgo:\n\nneurologie,\n\nPaíses Baixos:\n\nneurologie,\n\nReino Unido:\n\nneurology,\n\nGrécia:\n\nNenrologia,\n\nEspanha:\n\nneurología,\n\nPortugal:\n\nneurologia,\n\n«- psiquiatria:\n\nAlemanha:\n\nPsychiatrie,\n\nBélgica:\n\npsychiatrie/psychiatrie,\n\nDinamarca:\n\npsykiatri,\n\nFrança:\n\npsychiatrie,\n\nIrlanda:\n\npsychiatry,\n\nItália:\n\npsichiatria,\n\nLuxemburgo:\n\npsychiatrie,\n\nPaíses Baixos:\n\npsychiatrie,\n\nReino Unido:\n\npsychiatry,\n\nGrécia:\n\nPsychiatriki,\n\nEspanha:\n\npsiquiatría,\n\nPortugal:\n\npsiquiatria.»"
+  },
+  "772f2cf2a21b7006": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nNo artigo 7º da Directiva 75/362/CEE, o nº 2 é alterado do seguinte modo:\n\n1. Na rubrica «hematologia biológica»:\n\n- é aditado o seguinte item relativo à França:\n\n«França: hématologie,»,\n\n- o texto relativo à Espanha é suprimido em todas as versões linguísticas, com excepção do francês e do português.\n\n2. É suprimida a rubrica «anatomia patológica».\n\n3. À rubrica «cirurgia plástica»:\n\n- é aditado o seguinte item:\n\n«França: chirurgie plastique, reconstructrice et\n\nesthéthique,».\n\n4. Na rubrica «cirurgia cárdio-torácica»:\n\n- o item relativo à França passa a ter a seguinte redacção:\n\n«França: chirurgie thoracique et cardio-vascu-\n\nlaire,».\n\n5. À rubrica «cirurgia pediátrica»:\n\n- é aditado o seguinte item:\n\n«França: chirurgie infantile,».\n\n6. Na rubrica «cirurgia vascular»:\n\n- na versão linguística neerlandesa, o título da rubrica passa a ter a seguinte redacção «chirurgie van bloedvaten»,\n\n- é aditado o seguinte item:\n\n«França: chirurgie vasculaire,»,\n\n- o item relativo à Itália passa a ter a seguinte redacção:\n\n«Itália: chirurgia vascolare,».\n\n7. Na rubrica «cardiologia», o item seguinte relativo à França passa a ter a seguinte redacção:\n\n«França: pathologie cardio-vasculaire,».\n\n8. Na rubrica «gastro-enterologia»:\n\n- o item relativo à França passa a ter a seguinte redacção:\n\n«França: gastro-entérologie et hépatologie,»,\n\n- o item relativo ao Luxemburgo passa a ter a seguinte redacção:\n\n«Luxemburgo: gastro-entérologie,»,\n\n- o item relativo aos Países Baixos passa a ter a seguinte redacção:\n\n«Países Baixos: gastro-enterologie,»,\n\n- o item relativo à Grécia passa a ter a seguinte redacção:\n\n«Grécia: gastrenterologia,».\n\n9. ^À rubrica «reumatologia»:\n\n- é aditado o seguinte item relativo à Dinamarca:\n\n«Dinamarca: reumatologi,».\n\n10. À rubrica «endocrinologia»:\n\n- é aditado o seguinte item:\n\n«França: endocrinologie - maladies métaboliques,»,\n\n- o item relativo ao Luxemburgo passa a ter a seguinte redacção:\n\n«Luxemburgo: endocrinologie, maladies du métabolisme et de la nutrition,».\n\n11. Na rubrica «fisioterapia»:\n\n- o item relativo à Grécia passa a ter a seguinte redacção:\n\n«Grécia: fysiki iatriki kai apokatastasi,».\n\n12. São suprimidas as rubricas «neurologia» e «psiquiatria».\n\n13. Na rubrica «neuropsiquiatria»:\n\n- o item relativo à Grécia passa a ter a seguinte redacção:\n\n«Grécia: nevrologia - fychiatriki».\n\n14. Na rubrica «dermatovenereologia»:\n\n- o item relativo à França passa a ter a seguinte redacção:\n\n«França: dermatologie et vénéréologie,»,\n\n- o item relativo aos Países Baixos passa a ter a seguinte redacção:\n\n«Países Baixos: dermatologie en venerologie,».\n\n15. Na rubrica «radiologia»:\n\n- o item relativo à França passa a ter a seguinte redacção:\n\n«França: électro-radiologie,».\n\n16. À rubrica «radiodiagnóstico»:\n\n- é aditado o seguinte item:\n\n«Alemanha: Radiologische Diagnostik,»,\n\n- o item relativo à França passa a ter a seguinte redacção:\n\n«França: radiodiagnostic et imagerie médicale,».\n\n17. À rubrica «radioterapia»:\n\n- é aditado o seguinte item:\n\n«Alemanha: Strahlentherapie,»,\n\n- o item relativo à França passa a ter a seguinte redacção:\n\n«França: oncologie, option radiothérapie,».\n\n18. Na rubrica «medicina tropical»:\n\n- é suprimido o item «Bélgica: médicine-tropicale//tropische geneeskunde».\n\n19. À rubrica «pedopsiquiatria»:\n\n- é aditado o seguinte item:\n\n«Irlanda: child and adolescent psychiatry,».\n\n20. À rubrica «geriatria»:\n\n- é aditado o seguinte item:\n\n«Países Baixos: klinische geriatrie,».\n\n21. À rubrica «nefrologia»:\n\n- é aditado o seguinte item:\n\n«França: néphrologie,»,\n\n- é aditado o seguinte item relativo ao Luxemburgo:\n\n«Luxemburgo: néphrologie,».\n\n22. À rubrica «medicina comunitária»:\n\n- é aditado o seguinte item:\n\n«França: santé publique et médecine sociale,».\n\n23. A rubrica «medicina ocupacional» é alterada do seguinte modo:\n\na) O título passa a ser o seguinte em todas as versões linguísticas, com excepção da inglesa:\n\n23. a) - versão linguística\n\n- versão linguística\n\ndinamarquesa:\n\n«arbejdsmedicin»,\n\n- versão linguística\n\nalemã:\n\n«Arbeitsmedizin»,\n\n- versão linguística\n\ngrega:\n\n«iatriki tis ergasias»,\n\n- versão linguística\n\nespanhola:\n\n«medicina del trabajo»,\n\n- versão linguística\n\nfrancesa:\n\n«médecine du travail»,\n\n- versão linguística\n\nitaliana:\n\n«medicina del lavoro»,\n\n- versão linguística\n\nneerlandesa:\n\n«arbeidsgeneeskunde»,\n\n- versão linguística\n\nportuguesa:\n\n«medicina do trabalho».\n\nb) São aditados sob o título referido na alínea anterior os seguintes items:\n\n23. b Países Baixos\n\n«Alemanha:\n\nArbeitsmedizin»,\n\n«Dinamarca:\n\nsamfundsmedicin/\n\n/arbejdsmedecin»,\n\n«França:\n\nmédecine du travail»,\n\n«Itália:\n\nmedicina del lavoro»,\n\n«Países Baixos:\n\narbeids- en bedrijfsgeneeskunde»,\n\n«Grécia:\n\niatriki tis ergasias»,\n\n«Portugal:\n\nmedicina do trabalho».\n\n24. Na rubrica «imuno-alergologia»:\n\n- o item relativo à Grécia passa a ter a seguinte redacção:\n\n«Grécia: allergiologia».\n\n25. À rubrica «cirurgia gastro-enterológica»:\n\n- é aditado o seguinte item:\n\n«França: chirurgie viscérale,».\n\n26. São aditadas as seguintes rubricas:\n\n«medicina nuclear:\n\n26. Países Baixos:\n\nAlemanha:\n\nNuklearmedizin,\n\nBélgica:\n\nmédecine nucléaire/\n\n/nucleaire geneeskunde,\n\nFrança:\n\nmédecine nucléaire,\n\nItália:\n\nmedicina nucleare,\n\nPaíses Baixos:\n\nnucleaire geneeskunde,\n\nReino Unido:\n\nnuclear medicine,\n\nGrécia:\n\npyriniki iatriki,\n\nEspanha:\n\nmedicina nuclear,\n\nPortugal:\n\nmedicina nuclear;\n\nCirurgia maxilofacial\n\n(formação de base de médico)\n\nFrança:\n\nchirurgie maxillo-faciale et\n\nstomatologie,\n\nItália:\n\nchirurgia maxillo-facciale,\n\nEspanha:\n\ncirugía oral y maxilofacial;\n\nCirurgia dentária, da boca e maxilofacial\n\n(formação de base de médico e de dentista)\n\nAlemanha:\n\nZahn-, Mund-, Kiefer- und Gesichtschirurgie,\n\nBélgica:\n\nStomatologie/chirurgie orale et\n\nmaxillo-faciale,\n\nStomatologie/orale en\n\nmaxillo-faciale chirurgie,\n\nIrlanda:\n\nOral and maxillo-facial surgery,\n\nReino Unido:\n\nOral and maxillo-facial surgery.»."
+  },
+  "d869c6785f9abba8": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nNo artigo 9º da Directiva 75/362/CEE, o nº 3 passa a ter a seguinte redacção:\n\n«3. Os Estados-membros reconhecerão como prova suficiente, no que respeita aos nacionais dos Estados-\n\n-membros cujos diplomas, certificados e outros títulos de médico ou de médico especialista não correspondam às denominações que figuram relativamente a cada\n\nEstado-membro nos artigos 3º, 5º ou 7º, os diplomas, certificados e outros títulos emitidos por esses Estados-membros, acompanhados de um certificado emitido pelas autoridades ou organismos competentes. Este certificado atestará que esses diplomas, certificados e outros títulos de médico ou de médico especialista sancionam uma formação conforme às disposições da Directiva 75/363/CEE referidas, consoante o caso, nos artigos 2º, 4º ou 6º da presente directiva, e que são equiparados pelo Estado-membro que os emitiu àqueles cujas denominações figuram, consoante o caso, nos artigos 3º, 5º e 7º da presente directiva.»"
+  },
+  "46b20a53e9486631": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nO artigo 2º da Directiva 75/363/CEE é alterado do seguinte modo:\n\n- à alínea a) do nº 1, é aditada a seguinte frase:\n\n«Quanto à formação conducente à emissão do diploma, certificado ou outro título de especialista em cirurgia dentária, da boca e maxilofacial (formação de base de médico e de dentista), ela pressupõe, além disso, a frequência e a validação do ciclo de formação de dentista referido no artigo 1º da Directiva 78/687/CEE (13);»,\n\n- é inserida a seguinte nota de pé-de-página:\n\n«(14) JO no L 233 de 24. 8. 1978, p. 10.»,\n\n- ao nº 2, é aditada a seguinte frase:\n\n«Quanto à emissão do diploma, certificado ou outro título de especialista em cirurgia dentária, da boca e\n\nmaxilofacial (formação de base de médico e de dentista), ela depende, além disso, da posse de um dos diplomas, certificados ou outros títulos de dentista referidos no artigo 1º da Directiva 78/687/CEE.»,\n\n- o nº 3 passa a ter a seguinte redacção:\n\n«3. Os Estados-membros designarão, no prazo previsto no artigo 9º, as autoridades ou organismos competentes para a emissão dos diplomas, certificados e outros títulos referidos no nº 1.»."
+  },
+  "7eb503776dfe29d4": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nAo terceiro parágrafo («2º grupo») do artigo 4º da Directiva 75/363/CEE, são aditados os seguintes travessões:\n\n«- anatomia patológica,\n\n- neurologia,\n\n- psiquiatria»."
+  },
+  "a35f3dd9205deeea": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nO artigo 5º da Directiva 75/363/CEE é alterado do seguinte modo:\n\n1. No segundo parágrafo («1º grupo»):\n\n- na versão linguística neerlandesa, o travessão «-chirurgie van hart- en bloedvaten» passa a ter a seguinte redacção: «- chirurgie van bloedvaten»,\n\n- é aditado o seguinte travessão:\n\n«- cirurgia maxilofacial (formação de base de médico)»;\n\n2. No terceiro parágrafo («2º grupo»):\n\n- são suprimidos os travessões «neurologia», «psiquiatria» e «anatomia patológica»,\n\n- em todas as versões linguísticas, com excepção da inglesa, o travessão «medicina ocupacional» passa a ter a seguinte redacção:\n\n2. - - versão linguística\n\n- versão linguística\n\ndinamarquesa:\n\n«arbejdsmedicin»,\n\n- versão linguística\n\nalemã:\n\n«Arbeitsmedizin»,\n\n- versão linguística\n\ngrega:\n\n«iatriki tis ergasias»,\n\n- versão linguística\n\nespanhola:\n\n«medicina del trabajo»,\n\n- versão linguística\n\nfrancesa:\n\n«médecine du travail»,\n\n- versão linguística\n\nitaliana:\n\n«medicina del lavoro»,\n\n- versão linguística\n\nneerlandesa:\n\n«arbeidsgeneeskunde»,\n\n- versão linguística\n\nportuguesa:\n\n«medicina do trabalho»,\n\n- são aditados os seguintes travessões:\n\n«- medicina nuclear,\n\n«- cirurgia dentária, da boca e maxilofacial (formação de base de médico e de dentista).»."
+  },
+  "d7f475e90e224893": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Os Estados-membros que tenham revogado as disposições legislativas, regulamentares e administrativas relativas à emissão dos diplomas, certificados e outros títulos de neuropsiquiatria, de radiologia, de cirurgia cárdio-torácica, de cirurgia vascular, de cirurgia gastrintestinal, de hematologia biológica, de fisioterapia ou de medicina tropical e tomado medidas relativas a direitos adquiridos a favor dos seus próprios nacionais, reconhecerão aos nacionais dos outros Estados-membros o direito de beneficiar dessas mesmas medidas, desde que os diplomas, certificados e outros títulos de neuropsiquiatria, de radiologia, de cirurgia cárdio-torácica, de cirurgia vascular, de cirurgia gastrintestinal, de hematologia biológica, de fisioterapia ou de medicina tropical destes últimos reúnam as condições pertinentes referidas quer no nº 2 do artigo 9º da Directiva 75//362/CEE quer nos artigos 2º, 3º e 5º da Directiva 75/362/CEE quer nos artigos 2º, 3º e 5º da Directiva 75/363/CEE, e na medida em que estes diplomas, certificados e outros títulos tenham sido emitidos antes da data a partir da qual o Estado-membro de acolhimento deixou de emitir os seus diplomas, certificados ou outros títulos para a especialidade em causa.\n\n2. As datas em que os Estados-membros em causa revogaram as disposições legislativas, regulamentares e administrativas relativas aos diplomas, certificados e outros títulos referidos no nº 1 constam do anexo.\n\n3. Ficam revogados o no 4 do artigo 9º da Directiva 75/362/CEE e o artigo 15º da Directiva 82/76/CEE."
+  },
+  "69c59cd91c6ef6bb": {
+   "fragment_id": "CAPÍTULO 2 — Alterações da Directiva 77/452/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2 — Alterações da Directiva 77/452/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 2 — Alterações da Directiva 77/452/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de\n\nenfermeiro responsável por cuidados gerais)"
+  },
+  "4a4b7e76492e7950": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nO nº 2 do artigo 1º da Directiva 77/452/CEE é alterado do seguinte modo:\n\n1. Na rubrica «No Reino Unido» o item «State Registered Nurse» passa a ter a seguinte redacção: «State Registered Nurse» ou «Registered General Nurse».\n\n2. Na rubrica «Na Grécia» o item «Diplomatoychos adelfi nosokomos» passa a ter a seguinte redacção: Diplomatoychos i ptychioychos yosokomos, yosileftis i nosileftria»."
+  },
+  "c0a65f5b817cfd51": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nO artigo 3º da Directiva 77/452/CEE é alterado do seguinte modo:\n\n1. A alínea f) («Na Itália») passa a ter a seguinte redac-\n\nção:\n\n«f) Em Itália:\n\n- o \"diploma di infermiere professionale\" emitido pelas escolas reconhecidas pelo Estado».\n\n2. A alínea i) («No Reino Unido») passa a ter a seguinte redacção:\n\n«i) No Reino Unido:\n\n- um \"Statement of Registration as a Registered General Nurse \"na parte I do registo do \"United Kingdom Central Council for Nursing, Midwifery and Health Visiting\",».\n\n3. A alínea j) («Na Grécia») passa a ter a seguinte redac-\n\nção:\n\n«j) Na Grécia:\n\n- o \"diploma Adelfis Nosokomas tis Anoteras Scholis Adelfon Nosokomon\" (diploma de enfermeira de cuidados gerais da Escola Superior dos Enfermeiros Responsáveis por Cuidados Gerais) autenticado pelo Ministério dos Serviços Sociais ou pelo Ministério da Saúde e da Previdência, ou então:\n\n- o \"ptychio Nosokomon toy Tmimatos Adelfon Nosokomon ton Paraiatrikon Scholon ton Kentron Anotera Technikis kai Epangelmatikis Ekpaidefsis\" (licença de enfermeiro da secção de enfermagem das escolas paramédicas dos centros de ensino superior técnico e profissional, emitida pelo Ministério da Educação Nacional e dos Assuntos Religiosos, ou então\n\n- o \"ptychio nosilefti i nosileftrias ton Technologikon Ekpaideftikon Idrymaton (T.E.I.)\" (licença de enfermeiro dos estabelecimentos de ensino tecnológico) do Ministério da Educação Nacional e dos Assuntos Religiosos, ou então\n\n- o \"ptzxío thw Anvtáthw Noshleztikhw thw Sxolhw Epaggelmátvn Zgeíaw, Tmhma Noshleztikhw toz Paneptisthmíoz Auhnvn\" (licença de enfermeiro da Faculdade de Ciências da Saúde, secção de Enfermagem, da Universidade de Atenas),».\n\n4. A alínea k) («Em Espanha») passa a ter a seguinte redacção:\n\n«k) Em Espanha:\n\n\"Título de Diplomado en Enfermería\" (título de diplomado universitário em enfermagem), emitido pelo Ministério da Educação e da Ciência ou pelo reitor de uma universidade»."
+  },
+  "90ad40f5bf01e379": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nO artigo 4º da Directiva 77/452/CEE é alterado do seguinte modo:\n\n- os dois parágrafos actuais passam a ser o nº 1 do artigo,\n\n- é aditado um novo número com a seguinte redacção:\n\n«2. Os Estados-membros reconhecerão como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais não correspondam às denominações que figuram relativamente a esses Estados-membros no artigo 3º, os diplomas, certificados e outros títulos emitidos por esses Estados-membros, acompanhados de um certificado emitido pelas autoridades ou organismos competentes. Este certificado atestará que esses diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais sancionam uma formação conforme às disposições da Directiva 77/453/CEE referidas no artigo 2º da presente directiva e são equiparados pelo Estado-membro que os emitiu àqueles cujas denominações figuram no artigo 3º da presente directiva.»."
+  },
+  "7572091e199ac791": {
+   "fragment_id": "CAPÍTULO 3 — Alterações da Directiva 78/686/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3 — Alterações da Directiva 78/686/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 3 — Alterações da Directiva 78/686/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de\n\ndentista)"
+  },
+  "ded7ad2bd3d830d3": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nNo artigo 1º da Directiva 78/686/CEE, a rubrica «- em Itália» passa a ter a seguinte redacção:\n\n«- em Itália:\n\nodontoiatra,»."
+  },
+  "1c94509ac12547e4": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nNo artigo 5º da Directiva 78/686/CEE, no nº 1, «1. Ortodontia», é aditado o seguinte item relativo à Grécia:\n\n«- na Grécia:\n\n\"Titlos tis Odontiatrikis eidikotitas tis Orthodontikis\" (título comprovativo de formação específica em ortodontia) emitido pela autoridade competente para o efeito.»."
+  },
+  "462e9e3bf1813e40": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nAo artigo 7º da Directiva 78/686/CEE é aditado um número, com a seguinte redacção:\n\n«3. Os Estado-membros reconhecerão como prova suficiente, no que respeita aos nacionais dos Esta-\n\ndos-membros cujos diplomas, certificados e outros títulos de dentista ou de dentista especialista em ortodontia e em cirurgia da boca não correspondam às denominações que figuram relativamente a esses Estados-membros nos artigos 3º e 5º, os diplomas, certificados e outros títulos emitidos por esses Estados-membros, acompanhados de um certificado emitido pelas autoridades ou organismos competentes. Este certificado atestará que esses diplomas, certificados e outros títulos de dentista ou de dentista especialista em ortodontia e em cirurgia da boca sancionam uma formação conforme às disposições da Directiva 78/687/CEE, referidas, consoante os casos, nos artigos 2º ou 4º da presente directiva e que são equiparados pelo Estado-membro que os emitiu àqueles cujas denominações figuram, consoante os casos, nos artigos 3º ou 5º da presente directiva.»."
+  },
+  "2beb8d9ad6181849": {
+   "fragment_id": "CAPÍTULO 4",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 4\n\nAlterações das Directivas 78/1026/CEE e 78/1027/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de veterinário e coordenação das disposições legislativas, regulamentares e administrativas respeitantes às\n\nactividades de veterinário)"
+  },
+  "1be4dd1efa7c75b0": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nNo artigo 2º da Directiva 78/1026/CEE, o segundo parágrafo passa a ter a seguinte redacção:\n\n«Sempre que um dos diplomas, certificados ou outros títulos enunciados no artigo 3º tiver sido emitido antes da entrada em vigor da presente directiva, ou tiver sido emitido após esta data mas sancionar uma formação iniciada anteriormente, deve ser acompanhado de um certificado passado pelas autoridades competentes do Estado-membro de emissão, que ateste a sua conformidade com o disposto no artigo 1º da Directiva\n\n78/1027/CEE.»."
+  },
+  "1694de2b1a67c5fb": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nO artigo 3º da Directiva 78/1026/CEE é alterado do seguinte modo:\n\n1. A alínea j) («Na Grécia») passa a ter a seguinte redac-\n\nção:\n\n«j) Na Grécia:\n\n\"Ptychio ktiniatrikis\" (diploma de veterinário) da Faculdade de Ciências Geotécnicas da Universidade Aristóteles de Salónica ou da Escola de Veterinária da Universidade Aristóteles de Salónica;».\n\n2. A alínea k) («Em Espanha») passa a ter a seguinte redacção:\n\n«k)\n\nEm Espanha:\n\n\"Título de Licenciado en Veterinaria\" (título de licenciado em medicina veterinária), emitido pelo Ministério da Educação e da Ciência ou pelo reitor de uma universidade;»."
+  },
+  "e2b62242ea65fef3": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\nO artigo 4º da Directiva 78/1026/CEE passa a ter a seguinte redacção:\n\n«Artigo 4º\n\n1. Os Estados-membros renconhecerão com prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos não satisfaçam o conjunto de exigências mínimas de formação previstas no artigo 1º da Directiva 78/1027//CEE, os diplomas, certificados e outros títulos de veterinário emitidos por esses Estados-membros antes da entrada em vigor da Directiva 78/1027/CEE, ou emitidos após esta data mas que sancionam uma formação iniciada antes dessa mesma data, acompanhados de um atestado comprovativo de que aqueles nacionais se dedicaram efectiva e licitamente às actividades em causa durante, pelo menos, três anos consecutivos no decurso dos cinco que precederam a emissão do atestado.\n\n2. Os Estados-membros reconhecerão como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de veterinário não correspondam às denominações que figuram relativamente a esses Estados-membros no artigo 3º, os diplomas, certificados e outros títulos emitidos por esses Estados-membros, acompanhados de um certificado emitido pelas autoridades ou organismos competentes. Este certificado atestará que esses diplomas, certificados e outros títulos de veterinário sancionam uma formação conforme às disposições da Directiva 78//1027/CEE, referidas no artigo 2º da presente directiva e que são equiparados, pelo Estado-membro que os emitiu, àqueles cujas denominações figuram no artigo 3º da presente directiva.»."
+  },
+  "3d7d97a6024301bd": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\nAo artigo 1º da Directiva 78/1027/CEE, é aditado um novo número com a seguinte redacção:\n\n«5. A título transitório e em derrogação ao disposto no nº 2, a Itália, cujas disposições legislativas, regulamentares e administrativas previam um programa de formação que, no momento da entrada em vigor da Directiva 78/1026/CEE e da presente directiva, não estava inteiramente em conformidade com o programa que figura no anexo, pode manter a aplicação destas disposições relativamente às pessoas que iniciaram a sua formação de veterinário, o mais tardar, em 31 de Dezembro de 1984.\n\nOs Estados-membro de acolhimento estão autorizados a exigir aos detentores de diplomas, certificados e outros títulos de veterinário emitidos pela Itália e que sancionam formações iniciadas antes de 1 de Janeiro de 1985 que esses diplomas, certificados e outros títulos sejam acompanhados de um atestado comprovativo de que se dedicaram efectiva e licitamente às actividades de veterinário durante, pelo menos, três anos consecutivos no\n\ndecurso dos cinco que precederam a emissão do atestado, a não ser que esse diploma, certificado ou outro título seja acompanhado de um atestado passado pelas autoridades competentes italianas, certificando que sanciona uma formação inteiramente conforme ão presente artigo e ao anexo.»."
+  },
+  "52880b2cfb7ea134": {
+   "fragment_id": "Artigo 20º",
+   "type": "artigo",
+   "heading": "Artigo 20º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º\n\nNo anexo da Directiva 78/1027/CEE, na versão linguística grega, no primeiro travessão, «2º grupo: ciências clínicas» do capítulo «B) Matérias específicas», o termo «Cheiroyrgiki» é substituído por «Maieftiki»."
+  },
+  "106aa4162be1bc31": {
+   "fragment_id": "CAPÍTULO 5",
+   "type": "divisao",
+   "heading": "CAPÍTULO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 5\n\nAlterações das Directivas 80/154/CEE e 80/155/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de parteira e coordenação das disposições legislativas, regulamentares e administrativas relativas ao acesso às actividades de parteira e ão seu exercício)"
+  },
+  "eb1313c400e0fd63": {
+   "fragment_id": "Artigo 21º",
+   "type": "artigo",
+   "heading": "Artigo 21º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21º\n\nO artigo 1º da Directiva 80/154/CEE é alterado do seguinte modo:\n\n1. A rubrica «na República Federal da Alemanha» passa a ter a seguinte redacção:\n\n«na República Federal da Alemanha: \"Hebamme\" ou \"Entbindungspfleger\",».\n\n2. A rubrica «na Grécia» passa a ter a seguinte redacção:\n\n«Na Grécia:\" Maia\" ou \"Maiezthw\",»."
+  },
+  "957c516cdc6058ed": {
+   "fragment_id": "Artigo 22º",
+   "type": "artigo",
+   "heading": "Artigo 22º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22º\n\nO artigo 3º da Directiva 80/154/CEE é alterado do seguinte modo:\n\n1. A alínea a) («Na República Federal da Alemanha») passa a ter a seguinte redacção:\n\n«- O \"Zeugnis ueber die staatliche Pruefung fuer Hebammen und Entbindungspfleger\", emitido pelo júri de exame de Estado,».\n\n2. Na alínea h) («nos Países Baixos»), em todas as versões linguísticas, com excepção da neerlandesa, a designação «vroedvrouwdiploma» é substituída por «diploma van verloskundige».\n\n3. A alínea i) («no Reino Unido») passa a ter a seguinte redacção:\n\n«i) No Reino Unido:\n\num \"Statement of registration as a Midwife\" na parte 10 do registo do \"United Kingdom Central\n\nCouncil for Nursing, Midwifery and Health Visiting\";».\n\n4. A alínea j) («na Grécia») passa a ter a seguinte redac-\n\nção:\n\n«j) Na Grécia:\n\n- O \"Ptzxío Maíaw h Maiezth\" autenticado pelo Ministério da Saúde e da Previdência,\n\n- O \"Ptzxío Anvtéraw Sxolhw Stelexvn Zgeíaw kai Koinvnikhw Prónoiaw, Tmhmatow Maieztikhw\" emitido quer pela Faculdade dos Quadros da Saúde e da Previdência Social, secção de obstetrícia, dos centros de ensino superior técnico e profissional, quer pelos estabelecimentos de ensino tecnológico e profissional do Ministério da Educação Nacional e dos Assuntos Religiosos;».\n\n5. A alínea k) («em Espanha») passa a ter a seguinte redacção:\n\n«k) Em Espanha:\n\no diploma de \"matrona\" ou \"assistente obstétrico (matrona)\" ou \"enfermería obstétrica-ginecológica\", emitido pelo Ministério da Educação e da Ciência;»."
+  },
+  "3a21cc7ecd18aed7": {
+   "fragment_id": "Artigo 23º",
+   "type": "artigo",
+   "heading": "Artigo 23º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23º\n\nAo artigo 5º da Directiva 80/154/CEE é aditado um número, com a seguinte redacção:\n\n«3. Sem prejuízo do disposto no artigo 4º, os Estados-membros reconhecerão como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de parteira não correspondem às denominações que figuram relativamente a esses Estados-membros no artigo 3º, os diplomas, certificados e outros títulos emitidos por esses Estados-membros, acompanhados de um certificado emitido pelas autoridades ou organismos competentes. Este certificado atestará que os diplomas, certificados e outros títulos de parteira sancionam uma formação conforme às disposições da Directiva 80/155/CEE, referidas no artigo 2º da presente directiva e que são equiparados pelo Estado-membro que os emitiu àqueles cujas denominações figuram no artigo 3º da presente directiva.»."
+  },
+  "7c8c98e581ef4d57": {
+   "fragment_id": "Artigo 24º",
+   "type": "artigo",
+   "heading": "Artigo 24º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24º\n\nAo artigo 1º da Directiva 80/155/CEE são aditados dois números, com a seguinte redacção:\n\n«5. A presente directiva não prejudica a possibilidade de os Estados-membros concederem o acesso, no seu território e segundo a sua regulamentação, às actividades de parteira e ao seu exercício aos titulares de diplomas, certificados ou outros títulos que não tenham sido obtidos num Estado-membro.\n\n6. A título transitório e em derrogação do disposto nos no.s 1 e 4, a Espanha, cujas disposições legislativas,\n\nregulamentares e administrativas previam uma formação que, no momento da entrada em vigor da Directiva 80/154/CEE e da presente directiva, não estava em conformidade com a presente directiva, pode manter a aplicação dessas disposições às pessoas que iniciaram a sua formação específica de parteira, o mais tardar, em\n\n31 de Dezembro de 1985.\n\nOs Estados-membros de acolhimento estão autorizados a exigir aos detentores de diplomas, certificados e outros títulos de parteira, emitidos pela Espanha e que sancionam formações específicas iniciadas antes de 1 de Janeiro de 1986, que esses diplomas, certificados e outros títulos sejam acompanhados de um atestado comprovativo de que se dedicaram efectiva e licitamente às actividades de parteira durante, pelo menos, três anos consecutivos no decurso dos cinco que precederam a emissão do atestado, a não ser que esse diploma, certificado ou outro título seja acompanhado de um atestado passado pelas autoridades competentes espanholas, certificando que sanciona uma formação inteiramente conforme ao presente artigo e ao anexo.»."
+  },
+  "297346d8ef5bace4": {
+   "fragment_id": "Artigo 25º — No artigo 4º da Directiva 80/155/CEE, o ponto 6, na versão linguística espanhola, passa a ter a seguinte redac-",
+   "type": "artigo",
+   "heading": "Artigo 25º — No artigo 4º da Directiva 80/155/CEE, o ponto 6, na versão linguística espanhola, passa a ter a seguinte redac-",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25º — No artigo 4º da Directiva 80/155/CEE, o ponto 6, na versão linguística espanhola, passa a ter a seguinte redac-\n\nção:\n\n«6. Llevar a cabo el parto normal cuando se trate de una presentación de vértice, incluyendo, si es necesario, la episiotomía, y, en caso de urgencia, realizar el parto en presentación de nalgas.»."
+  },
+  "be989a3739db5d24": {
+   "fragment_id": "Artigo 26º",
+   "type": "artigo",
+   "heading": "Artigo 26º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26º\n\nO artigo 8º da Directiva 80/155/CEE, na versão linguística alemã, passa a ter a seguinte redacção:\n\n«Artigo 8º\n\nSpaetestens sechs Jahre nach Bekanntgabe dieser Richtlinie beschliesst der Rat auf Vorschlag der Kommission und nach Stellungnahme des Beratenden Ausschusses, ob die Ausnahme nach Teil B Nummer 3 des Anhangs geaendert oder aufgehoben werden soll.»."
+  },
+  "5b5f945f7a4cdd72": {
+   "fragment_id": "Artigo 27º",
+   "type": "artigo",
+   "heading": "Artigo 27º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27º\n\nO texto do ponto B do anexo à Directiva 80/155/CEE passa a ter a seguinte redacção:\n\n«B. ENSINO PRÁTICO E ENSINO CLÍNICO\n\nEste ensino é ministrado sob vigilância apropriada:\n\n1. Consultas de grávidas incluindo, pelo menos, cem exames pré-natais.\n\n2. Vigilância e prestação de cuidados a, pelo menos, quarenta parturientes.\n\n3. Realização pelo aluno de, pelo menos, quarenta partos; quando este número não puder ser atingido por falta de parturientes, poderá ser reduzido no mínimo a trinta, desde que o aluno participe activamente, para além daqueles, em mais vinte partos.\n\n4. Participação activa em partos de apresentação pélvica. Em caso de impossibilidade, devido a número insuficiente de partos pélvicos, deve recorrer-se à situação simulada para esta formação.\n\n5. Prática de episiotomia e iniciação à sutura. A iniciação deverá compreender ensino teórico e exercícios clínicos. A prática da sutura deverá compreender a sutura das episiotomias e roturas simples do períneo, que pode ser simulada, se absolutamente indispensável.\n\n6. Vigilância e cuidados prestados a quarenta grávidas, durante ou depois do parto, em situação de risco.\n\n7. Vigilância e prestação de cuidados, incluindo exame, a pelo menos cem puérperas e recém-nascidos saudáveis.\n\n8. Observação e prestação de cuidados a recém-nascidos que necessitem cuidados especiais, incluindo crianças nascidas antes do tempo e depois do tempo, bem como a recém-nascidos de peso inferior ao normal e a recém-nascidos doentes.\n\n9. Prestação de cuidados a mulheres com situações patológicas no campo da ginecologia e obstetrícia.\n\n10. Iniciação à prestação de cuidados no campo da medicina e cirurgia. A iniciação deverá compreender ensino teórico e exercícios clínicos.»."
+  },
+  "0d75f9eeccc7d385": {
+   "fragment_id": "CAPÍTULO 6 — Disposições finais",
+   "type": "divisao",
+   "heading": "CAPÍTULO 6 — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 6 — Disposições finais"
+  },
+  "61c46eaaf4931ad4": {
+   "fragment_id": "Artigo 28º",
+   "type": "artigo",
+   "heading": "Artigo 28º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28º\n\nOs Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva, o mais tardar, em 8 de Maio de 1991. Desse facto informarão imediatamente a Comissão."
+  },
+  "f1d525aeb7b4a394": {
+   "fragment_id": "Artigo 29º",
+   "type": "artigo",
+   "heading": "Artigo 29º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29º\n\nOs Estados-membros são destinatários da presente directiva. Feito em Bruxelas, em 30 de Outubro de 1989.\n\nPelo Conselho\n\nO Presidente\n\nJ.-P. SOISSON\n\n(1) JO no C 353 de 30. 12. 1987, p. 17, e JO no C 322 de 15. 12. 1988, p. 22.\n\n(2) JO no C 235 de 12. 9. 1988, p. 67, e JO no C 256 de 9. 10. 1989.\n\n(3) JO no C 134 de 24. 5. 1988, p. 29.\n\n(4) JO no L 167 de 30. 6. 1975, p. 1.\n\n(5) JO no L 176 de 15. 7. 1977, p. 1.\n\n(6) JO no L 233 de 24. 8. 1978, p. 1.\n\n(7) JO no L 362 de 23. 12. 1978, p. 1.\n\n(8) JO no L 33 de 11. 2. 1980, p. 1.\n\n(9) JO no L 167 de 30. 6. 1975, p. 14.\n\n(10) JO no L 43 de 15. 2. 1982, p. 21.\n\n(11) JO no L 362 de 23. 12. 1978, p. 7.\n\n(12) JO no L 33 de 11. 2. 1982, p. 8.\n\nANEXO Datas a partir das quais certos Estados-membros revogaram as disposições legislativas, regulamentares e administrativas relativas à emissão de diplomas, certificados e outros títulos referidos no artigo 9º da directiva 31 de Dezembro 1971\n\nBÉLGICA\n\nCirurgia cárdio-torácica\n\n1 de Janeiro de 1983\n\nCirurgia vascular\n\n1 de Janeiro de 1983\n\nNeuropsiquiatria\n\n1 de Agosto de 1987,\n\nexcepto para as pessoas que iniciaram a formação antes desta data\n\nCirurgia gastrintestinal\n\n1 de Janeiro de 1983\n\nDINAMARCA\n\nHematologia biológica\n\nNeuropsiquiatria\n\n1 de Janeiro de 1983,\n\nexcepto para as pessoas que iniciaram a formação antes desta data e que a tenham terminado antes do final de 1988\n\nMedicina tropical\n\n1 de Agosto de 1987,\n\nexcepto para as pessoas que iniciaram a formação antes desta data\n\nFRANÇA\n\nRadiologia\n\n3 de Dezembro de 1971\n\nNeuropsiquiatria\n\n31 de Dezembro de 1971\n\nLUXEMBURGO\n\nRadiologia\n\nNeuropsiquiatria\n\nOs diplomas, certificados e outros títulos deixaram de ser emitidos para as formações iniciadas após 5 de Março de 1982\n\nPAÍSES BAIXOS\n\nRadiologia\n\n8 de Julho de 1984\n\nNeuropsiquiatria\n\n9 de Julho de 1984"
+  },
+  "e67f19addb471481": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1989L0594 — PT — 15.04.1993 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0594:PT:NOT) [DIRECTIVA DO CONSELHO de 30 de Outubro de 1989 que altera as Directivas 75/362/CEE, 77/452/CEE, 78/686/CEE, 78/1026/CEE e 80/154/CEE, relativas ao reconhecimento mútuo dos diplomas, certificados e outros títulos de médico, enfermeiro responsável por cuidados gerais, dentista, veterinário e parteira, respectivamente, bem como as Directivas 75/363/CEE, 78/1027/CEE e 80/155/CEE, que têm por objectivo a coordenaçao das disposiçoes legislativas, regulamentares e administrativas respeitantes às actividades de médico, de veterinário e de parteira (89/594/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0594:PT:NOT) (JO L 341, 23.11.1989, p.19)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0016:PT:NOT) | [Directiva 93/16/CEE do Conselho de 5 de Abril de 1993](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0016:PT:NOT) | L 165 | 1 | 7.7.1993 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0594:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 30 de Outubro de 1989\n\nque altera as Directivas 75/362/CEE, 77/452/CEE, 78/686/CEE, 78/1026/CEE e 80/154/CEE, relativas ao reconhecimento mútuo dos diplomas, certificados e outros títulos de médico, enfermeiro responsável por cuidados gerais, dentista, veterinário e parteira, respectivamente, bem como as Directivas 75/363/CEE, 78/1027/CEE e 80/155/CEE, que têm por objectivo a coordenaçao das disposiçoes legislativas, regulamentares e administrativas respeitantes às actividades de médico, de veterinário e de parteira\n\n(89/594/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 49.o, 57.o n.o 1 e primeira a terceira frases do n.o 2 e o seu artigo 66.o,\n\nTendo em conta a proposta da Comissao ([1](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#E0001)),\n\nEm cooperaçao com o Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#E0003)),\n\nConsiderando que há que introduzir determinadas alteraçoes de ordem técnica nas Directivas 75/362/CEE ([4](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#E0004)), 77/452/CEE ([5](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#E0005)), 78/686/CEE ([6](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#E0006)), 78/1026/CEE ([7](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#E0007)) e 80/154/CEE ([8](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#E0008)), com a última redacçao que lhes foi dada pelo Acto de Adesao de Espanha e Portugal, relativas ao reconhecimento mútuo dos diplomas de médico, enfermeiro responsável por cuidados gerais, dentista, veterinário e parteira, respectivamente, bem como na Directiva 75/363/CEE ([9](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#E0009)), com a última redacçao que lhe foi dada pela Directiva 82/76/CEE ([10](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#E0010)), e nas Directivas 78/1027/CEE ([11](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#E0011)) e 80/155/CEE ([12](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#E0012)), que têm por objectivo a coordenaçao das disposiçoes legislativas, regulamentares e administrativas relativas às actividades de médico, veterinário e parteira, a fim de ter em conta, nomeadamente, as alteraçoes na denominaçao dos diplomas, certificados e outros títulos dessas profissoes ou na denominaçao de determinadas especialidades médicas, bem como a criaçao de algumas especialidades médicas novas ou o abandono de certas especialidades médicas antigas ocorridos em alguns Estados-membros;\n\nConsiderando que há que proteger os direitos adquiridos a nível comunitário pelos detentores de antigos títulos que já nao sao emitidos, na sequência das alteraçoes acima referidas e introduzidas na regulamentaçao do Estado-membro que emitiu o título, e que completar, nesse sentido, se necessário, as directivas acima referidas com disposiçoes adequadas;\n\nConsiderando que, por razoes de equidade, é conveniente prever medidas transitórias em benefício de certos detentores de diplomas, certificados e outros títulos de veterinário e de parteira, emitidos, respectivamente, pela Itália e pela Espanha, e que sancionam formaçoes nao inteiramente conformes com as Directivas 78/1027/CEE e 80/155/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "ba00231ad948698f": {
+   "fragment_id": "CAPITULO 1",
+   "type": "divisao",
+   "heading": "CAPITULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPITULO 1\n\nAlteraçoes relativas às Directivas 75/362/CEE e 75/363/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de médico e coordenaçao das disposiçoes legislativas, regulamentares e administrativas relativas às actividades de médico)\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0016:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0594:PT:NOT)"
+  },
+  "131827b524ff9409": {
+   "fragment_id": "CAPITULO 2 — Alteraçoes da Directiva 77/452/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais)",
+   "type": "divisao",
+   "heading": "CAPITULO 2 — Alteraçoes da Directiva 77/452/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPITULO 2 — Alteraçoes da Directiva 77/452/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais)"
+  },
+  "910862ad46f64169": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO n.o 2 do artigo 1.o da Directiva 77/452/CEE é alterado do seguinte modo:\n\n1. Na rubrica «No Reino Unido» o item «State Registered Nurse» passa a ter a seguinte redacçao: «State Registered Nurse» ou «Registered General Nurse».\n\n2. Na rubrica «Na Grécia» o item «Διπλωματούχος αδελφή νοσοκόμος» passa a ter a seguinte redacçao: Διπλωματούχος ή πτυχιούχος υοσοκόμος, υοσηλευτής ή νοσηλεύτρια»."
+  },
+  "4c5def2b5645622e": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO artigo 3.o da Directiva 77/452/CEE é alterado do seguinte modo:\n\n1. A alínea f) (\n\n«Na Itália»\n\n) passa a ter a seguinte redacçao:\n\n«f) Em Itália:\n\n— o “diploma di infermiere professionale” emitido pelas escolas reconhecidas pelo Estado»\n\n.\n\n2. A alínea i) (\n\n«No Reino Unido»\n\n) passa a ter a seguinte redacçao:\n\n«i) No Reino Unido:\n\n— um “Statement of Registration as a Registered General Nurse” na parte I do registo do “United Kingdom Central Council for Nursing, Midwifery and Health Visiting”,»\n\n.\n\n3. A alínea j) (\n\n«Na Grécia»\n\n) passa a ter a seguinte redacçao:\n\n«j) Na Grécia:\n\n— o“δίπλωμα Αδελφής Νοσοκόμας της Ανωτέρας Σχολής Αδελφών Νοσοκόμων” (diploma de enfermeira de cuidados gerais da Escola Superior dos Enfermeiros Responsáveis por Cuidados Gerais) autenticado pelo Ministério dos Serviços Sociais ou pelo Ministério da Saúde e da Previdência, ou entao:\n\n— o “πτυχίο Νοσοκόμον του Τμήματος Αδελφών Νοσοκόμων των Παραιατρικών Σχολών των Κέντρων Ανωτέρα Τεχνικής και Επαγγελματικής Εκπαίδευσης” (licença de enfermeiro da secçao de enfermagem das escolas paramédicas dos centros de ensino superior técnico e profissional, emitida pelo Ministério da Educaçao Nacional e dos Assuntos Religiosos, ou entao\n\n— o “πτυχίο νοσηλευτή ή νοσηλεύτριας των Τεχνολογικών Εκπαιδευτικών Ιδρυμάτων (Τ.Ε.Ι.)” (licença de enfermeiro dos estabelecimentos de ensino tecnológico) do Ministério da Educaçao Nacional e dos Assuntos Religiosos, ou entao\n\n— o “πτυχίο της Ανωτάτης Νοσηλευτικής της Σχολής Επαγγελμάτων Υγείας, Τμήμα Νοσηλευτικής του Πανεπτιστημίου Αθηνών” (licença de enfermeiro da Faculdade de Ciências da Saúde, secçao de Enfermagem, da Universidade de Atenas),»\n\n.\n\n4. A alínea k) (\n\n«Em Espanha»\n\n) passa a ter a seguinte redacçao:\n\n«k) Em Espanha:\n\n“Título de Diplomado en Enfermería” (título de diplomado universitário em enfermagem), emitido pelo Ministério da Educaçao e da Ciência ou pelo reitor de uma universidade»\n\n."
+  },
+  "36f01d2ee19113b4": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO artigo 4.o da Directiva 77/452/CEE é alterado do seguinte modo:\n\n— os dois parágrafos actuais passam a ser o n.o 1 do artigo,\n\n— é aditado um novo número com a seguinte redacçao:\n\n«2. Os Estados-membros reconhecerao como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais nao correspondam às denominaçoes que figuram relativamente a esses Estados-membros no artigo 3.o, os diplomas, certificados e outros títulos emitidos por esses Estados-membros, acompanhados de um certificado emitido pelas autoridades ou organismos competentes. Este certificado atestará que esses diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais sancionam uma formaçao conforme às disposiçoes da Directiva 77/453/CEE referidas no artigo 2.o da presente directiva e sao equiparados pelo Estado-membro que os emitiu àqueles cujas denominaçoes figuram no artigo 3.o da presente directiva.»\n\n—."
+  },
+  "574c842d3561a4f5": {
+   "fragment_id": "CAPITULO 3 — Alteraçoes da Directiva 78/686/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de dentista)",
+   "type": "divisao",
+   "heading": "CAPITULO 3 — Alteraçoes da Directiva 78/686/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de dentista)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPITULO 3 — Alteraçoes da Directiva 78/686/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de dentista)"
+  },
+  "9043fbb183fc19a4": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nNo artigo 1.o da Directiva 78/686/CEE, a rubrica «— em Itália» passa a ter a seguinte redacçao:\n\n«— em Itália:\n\nodontoiatra,»\n\n."
+  },
+  "1b83cce36ffd4b95": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nNo artigo 5.o da Directiva 78/686/CEE, no n.o 1, «1. Ortodontia», é aditado o seguinte item relativo à Grécia:\n\n«— na Grécia:\n\n“Τίτλος της Οδοντιατρικής ειδικότητας της Ορθοδοντικής” (título comprovativo de formaçao específica em ortodontia) emitido pela autoridade competente para o efeito.»\n\n."
+  },
+  "1a751faab1ad9f2f": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nAo artigo 7.o da Directiva 78/686/CEE é aditado um número, com a seguinte redacçao:\n\n«3. Os Estado-membros reconhecerao como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de dentista ou de dentista especialista em ortodontia e em cirurgia da boca nao correspondam às denominaçoes que figuram relativamente a esses Estados-membros nos artigos 3.o e 5.o, os diplomas, certificados e outros títulos emitidos por esses Estados-membros, acompanhados de um certificado emitido pelas autoridades ou organismos competentes. Este certificado atestará que esses diplomas, certificados e outros títulos de dentista ou de dentista especialista em ortodontia e em cirurgia da boca sancionam uma formaçao conforme às disposiçoes da Directiva 78/687/CEE, referidas, consoante os casos, nos artigos 2.o ou 4.o da presente directiva e que sao equiparados pelo Estado-membro que os emitiu àqueles cujas denominaçoes figuram, consoante os casos, nos artigos 3.o ou 5.o da presente directiva.»\n\n."
+  },
+  "14f6bc0265dc083f": {
+   "fragment_id": "CAPITULO 4",
+   "type": "divisao",
+   "heading": "CAPITULO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPITULO 4\n\nAlteraçoes das Directivas 78/1026/CEE e 78/1027/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de veterinário e coordenaçao das disposiçoes legislativas, regulamentares e administrativas respeitantes às actividades de veterinário)"
+  },
+  "caf66f257a83c6e5": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nNo artigo 2.o da Directiva 78/1026/CEE, o segundo parágrafo passa a ter a seguinte redacçao:\n\n«Sempre que um dos diplomas, certificados ou outros títulos enunciados no artigo 3.o tiver sido emitido antes da entrada em vigor da presente directiva, ou tiver sido emitido após esta data mas sancionar uma formaçao iniciada anteriormente, deve ser acompanhado de um certificado passado pelas autoridades competentes do Estado-membro de emissao, que ateste a sua conformidade com o disposto no artigo 1.o da Directiva 78/1027/CEE.»\n\n."
+  },
+  "67936f64639984e6": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nO artigo 3.o da Directiva 78/1026/CEE é alterado do seguinte modo:\n\n1. A alínea j) (\n\n«Na Grécia»\n\n) passa a ter a seguinte redacçao:\n\n«j) Na Grécia:\n\n“Πτυχίο κτηνιατρικής” (diploma de veterinário) da Faculdade de Ciências Geotécnicas da Universidade Aristóteles de Salónica ou da Escola de Veterinária da Universidade Aristóteles de Salónica;»\n\n.\n\n2. A alínea k) (\n\n«Em Espanha»\n\n) passa a ter a seguinte redacçao:\n\n«k) Em Espanha:\n\n“Título de Licenciado en Veterinaria” (título de licenciado em medicina veterinária), emitido pelo Ministério da Educaçao e da Ciência ou pelo reitor de uma universidade;»\n\n."
+  },
+  "3cec8c29564e8d36": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nO artigo 4.o da Directiva 78/1026/CEE passa a ter a seguinte redacçao:\n\n«Artigo 4.o\n\n1. Os Estados-membros renconhecerao com prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos nao satisfaçam o conjunto de exigências mínimas de formaçao previstas no artigo 1.o da Directiva 78/1027/CEE, os diplomas, certificados e outros títulos de veterinário emitidos por esses Estados-membros antes da entrada em vigor da Directiva 78/1027/CEE, ou emitidos após esta data mas que sancionam uma formaçao iniciada antes dessa mesma data, acompanhados de um atestado comprovativo de que aqueles nacionais se dedicaram efectiva e licitamente às actividades em causa durante, pelo menos, três anos consecutivos no decurso dos cinco que precederam a emissao do atestado.\n\n2. Os Estados-membros reconhecerao como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de veterinário nao correspondam às denominaçoes que figuram relativamente a esses Estados-membros no artigo 3.o, os diplomas, certificados e outros títulos emitidos por esses Estados-membros, acompanhados de um certificado emitido pelas autoridades ou organismos competentes. Este certificado atestará que esses diplomas, certificados e outros títulos de veterinário sancionam uma formaçao conforme às disposiçoes da Directiva 78/1027/CEE, referidas no artigo 2.o da presente directiva e que sao equiparados, pelo Estado-membro que os emitiu, àqueles cujas denominaçoes figuram no artigo 3.o da presente directiva.»\n\n."
+  },
+  "899dbe8714da864f": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nAo artigo 1.o da Directiva 78/1027/CEE, é aditado um novo número com a seguinte redacçao:\n\n«5. A título transitório e em derrogaçao ao disposto no n.o 2, a Itália, cujas disposiçoes legislativas, regulamentares e administrativas previam um programa de formaçao que, no momento da entrada em vigor da Directiva 78/1026/CEE e da presente directiva, nao estava inteiramente em conformidade com o programa que figura no anexo, pode manter a aplicaçao destas disposiçoes relativamente às pessoas que iniciaram a sua formaçao de veterinário, o mais tardar, em 31 de Dezembro de 1984.\n\nOs Estados-membro de acolhimento estao autorizados a exigir aos detentores de diplomas, certificados e outros títulos de veterinário emitidos pela Itália e que sancionam formaçoes iniciadas antes de 1 de Janeiro de 1985 que esses diplomas, certificados e outros títulos sejam acompanhados de um atestado comprovativo de que se dedicaram efectiva e licitamente às actividades de veterinário durante, pelo menos, três anos consecutivos no decurso dos cinco que precederam a emissao do atestado, a nao ser que esse diploma, certificado ou outro título seja acompanhado de um atestado passado pelas autoridades competentes italianas, certificando que sanciona uma formaçao inteiramente conforme ao presente artigo e ao anexo.»\n\n."
+  },
+  "de90e14befa16bf0": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nNo anexo da Directiva 78/1027/CEE, na versao linguística grega, no primeiro travessao, «2.o grupo: ciências clínicas» do capítulo «B) Matérias específicas», o termo «Χειρουργική» é substituído por «Μαιευτική»."
+  },
+  "8fe21723cdd3344d": {
+   "fragment_id": "CAPITULO 5",
+   "type": "divisao",
+   "heading": "CAPITULO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPITULO 5\n\nAlteraçoes das Directivas 80/154/CEE e 80/155/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos de parteira e coordenaçao das disposiçoes legislativas, regulamentares e administrativas relativas ao acesso às actividades de parteira e ao seu exercício)"
+  },
+  "f33565abd9316626": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nO artigo 1.o da Directiva 80/154/CEE é alterado do seguinte modo:\n\n1. A rubrica «na República Federal da Alemanha» passa a ter a seguinte redacçao: «na República Federal da Alemanha: “Hebamme” ou “Entbindungspfleger”,».\n\n2. A rubrica «na Grécia» passa a ter a seguinte redacçao: «Na Grécia: “Μαία” ou “Μαιευτής”,»."
+  },
+  "bde274edfde8ad74": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nO artigo 3.o da Directiva 80/154/CEE é alterado do seguinte modo:\n\n1. A alínea a) (\n\n«Na República Federal da Alemanha»\n\n) passa a ter a seguinte redacçao:\n\n«— O “Zeugnis über die staatliche Prüfung für Hebammen und Entbindungspfleger”, emitido pelo júri de exame de Estado,»\n\n.\n\n2. Na alínea h) («nos Países Baixos»), em todas as versoes linguísticas, com excepçao da neerlandesa, a designaçao «vroedvrouwdiploma» é substituída por «diploma van verloskundige».\n\n3. A alínea i) (\n\n«no Reino Unido»\n\n) passa a ter a seguinte redacçao:\n\n«i) No Reino Unido:\n\num “Statement of registration as a Midwife” na parte 10 do registo do “United Kingdom Central Council for Nursing, Midwifery and Health Visiting”;»\n\n.\n\n4. A alínea j) (\n\n«na Grécia»\n\n) passa a ter a seguinte redacçao:\n\n«j) Na Grécia:\n\n— O “Πτυχίο Μαίας ή Μαιευτή” autenticado pelo Ministério da Saúde e da Previdência,\n\n— O “Πτυχίο Ανωτέρας Σχολής Στελεχών Υγείας και Κοινωνικής Πρόνοιας, Τμήματος Μαιευτικής” emitido quer pela Faculdade dos Quadros da Saúde e da Previdência Social, secçao de obstetrícia, dos centros de ensino superior técnico e profissional, quer pelos estabelecimentos de ensino tecnológico e profissional do Ministério da Educaçao Nacional e dos Assuntos Religiosos;»\n\n.\n\n5. A alínea k) (\n\n«em Espanha»\n\n) passa a ter a seguinte redacçao:\n\n«k) Em Espanha:\n\no diploma de “matrona” ou “assistente obstétrico (matrona)” ou “enfermería obstétrica-ginecológica”, emitido pelo Ministério da Educaçao e da Ciência;»\n\n."
+  },
+  "01f2d2b2faaa4d75": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nAo artigo 5.o da Directiva 80/154/CEE é aditado um número, com a seguinte redacçao:\n\n«3. Sem prejuízo do disposto no artigo 4.o, os Estados-membros reconhecerao como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de parteira nao correspondem às denominaçoes que figuram relativamente a esses Estados-membros no artigo 3.o, os diplomas, certificados e outros títulos emitidos por esses Estados-membros, acompanhados de um certificado emitido pelas autoridades ou organismos competentes. Este certificado atestará que os diplomas, certificados e outros títulos de parteira sancionam uma formaçao conforme às disposiçoes da Directiva 80/155/CEE, referidas no artigo 2.o da presente directiva e que sao equiparados pelo Estado-membro que os emitiu àqueles cujas denominaçoes figuram no artigo 3.o da presente directiva.»\n\n."
+  },
+  "52f68ad050089251": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nAo artigo 1.o da Directiva 80/155/CEE sao aditados dois números, com a seguinte redacçao:\n\n«5. A presente directiva nao prejudica a possibilidade de os Estados-membros concederem o acesso, no seu território e segundo a sua regulamentaçao, às actividades de parteira e ao seu exercício aos titulares de diplomas, certificados ou outros títulos que nao tenham sido obtidos num Estado-membro.\n\n6. A título transitório e em derrogaçao do disposto nos n.os 1 e 4, a Espanha, cujas disposiçoes legislativas, regulamentares e administrativas previam uma formaçao que, no momento da entrada em vigor da Directiva 80/154/CEE e da presente directiva, nao estava em conformidade com a presente directiva, pode manter a aplicaçao dessas disposiçoes às pessoas que iniciaram a sua formaçao específica de parteira, o mais tardar, em 31 de Dezembro de 1985.\n\nOs Estados-membros de acolhimento estao autorizados a exigir aos detentores de diplomas, certificados e outros títulos de parteira, emitidos pela Espanha e que sancionam formaçoes específicas iniciadas antes de 1 de Janeiro de 1986, que esses diplomas, certificados e outros títulos sejam acompanhados de um atestado comprovativo de que se dedicaram efectiva e licitamente às actividades de parteira durante, pelo menos, três anos consecutivos no decurso dos cinco que precederam a emissao do atestado, a nao ser que esse diploma, certificado ou outro título seja acompanhado de um atestado passado pelas autoridades competentes espanholas, certificando que sanciona uma formaçao inteiramente conforme ao presente artigo e ao anexo.»\n\n."
+  },
+  "bca2ed331f64fca4": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nNo artigo 4.o da Directiva 80/155/CEE, o ponto 6, na versao linguística espanhola, passa a ter a seguinte redacçao:\n\n«6. Llevar a cabo el parto normal cuando se trate de una presentación de vértice, incluyendo, si es necesario, la episiotomía, y, en caso de urgencia, realizar el parto en presentación de nalgas.»\n\n."
+  },
+  "dcc8c59af780323a": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nO artigo 8.o da Directiva 80/155/CEE, na versao linguística alema, passa a ter a seguinte redacçao:\n\n«Artigo 8.o\n\nSpätestens sechs Jahre nach Bekanntgabe dieser Richtlinie beschließt der Rat auf Vorschlag der Kommission und nach Stellungnahme des Beratenden Ausschusses, ob die Ausnahme nach Teil B Nummer 3 des Anhangs geändert oder aufgehoben werden soll.»\n\n."
+  },
+  "931a9530787bbb7d": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nO texto do ponto B do anexo à Directiva 80/155/CEE passa a ter a seguinte redacçao:\n\n«B. ENSINO PRATICO E ENSINO CLINICO\n\nEste ensino é ministrado sob vigilância apropriada:\n\n1. Consultas de grávidas incluindo, pelo menos, cem exames pré-natais.\n\n2. Vigilância e prestaçao de cuidados a, pelo menos, quarenta parturientes.\n\n3. Realizaçao pelo aluno de, pelo menos, quarenta partos; quando este número nao puder ser atingido por falta de parturientes, poderá ser reduzido no mínimo a trinta, desde que o aluno participe activamente, para além daqueles, em mais vinte partos.\n\n4. Participaçao activa em partos de apresentaçao pélvica. Em caso de impossibilidade, devido a número insuficiente de partos pélvicos, deve recorrer-se à situaçao simulada para esta formaçao.\n\n5. Prática de episiotomia e iniciaçao à sutura. A iniciaçao deverá compreender ensino teórico e exercícios clínicos. A prática da sutura deverá compreender a sutura das episiotomias e roturas simples do períneo, que pode ser simulada, se absolutamente indispensável.\n\n6. Vigilância e cuidados prestados a quarenta grávidas, durante ou depois do parto, em situaçao de risco.\n\n7. Vigilância e prestaçao de cuidados, incluindo exame, a pelo menos cem puérperas e recém-nascidos saudáveis.\n\n8. Observaçao e prestaçao de cuidados a recém-nascidos que necessitem cuidados especiais, incluindo crianças nascidas antes do tempo e depois do tempo, bem como a recém-nascidos de peso inferior ao normal e a recém-nascidos doentes.\n\n9. Prestaçao de cuidados a mulheres com situaçoes patológicas no campo da ginecologia e obstetrícia.\n\n10. Iniciaçao à prestaçao de cuidados no campo da medicina e cirurgia. A iniciaçao deverá compreender ensino teórico e exercícios clínicos.»\n\n."
+  },
+  "dcbf38545ce1bc01": {
+   "fragment_id": "CAPITULO 6 — Disposiçoes finais",
+   "type": "divisao",
+   "heading": "CAPITULO 6 — Disposiçoes finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPITULO 6 — Disposiçoes finais"
+  },
+  "d6990c1033a42fac": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nOs Estados-membros tomarao as medidas necessárias para darem cumprimento à presente directiva, o mais tardar, em 8 de Maio de 1991. Desse facto informarao imediatamente a Comissao."
+  },
+  "8201afa6ae3168b7": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nOs Estados-membros sao destinatários da presente directiva."
+  },
+  "6867d2d319644a4b": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nDatas a partir das quais certos Estados-membros revogaram as disposições legislativas, regulamentares e administrativas relativas à emissão de diplomas, certificados e outros títulos referidos no artigo 9.o da directiva\n\n| BÉLGICA |  |  |\n| --- | --- | --- |\n| Cirurgia cárdio-torácica | 1 de Janeiro de 1983 |  |\n| Cirurgia vascular | 1 de Janeiro de 1983 |  |\n| Neuropsiquiatria | 1 de Agosto de 1987, | excepto para as pessoas que iniciaram a formação antes desta data |\n| Cirurgia gastrintestinal | 1 de Janeiro de 1983 |  |\n| DINAMARCA |  |  |\n| Hematologia biológica Neuropsiquiatria | 1 de Janeiro de 1983, | excepto para as pessoas que iniciaram a formação antes desta data e que a tenham terminado antes do final de 1988 |\n| Medicina tropical | 1 de Agosto de 1987, | excepto para as pessoas que iniciaram a formação antes desta data |\n| FRANÇA |  |  |\n| Radiologia | 3 de Dezembro de 1971 |  |\n| Neuropsiquiatria | 31 de Dezembro de 1971 |  |\n| LUXEMBURGO |  |  |\n| Radiologia Neuropsiquiatria |  | Os diplomas, certificados e outros títulos deixaram de ser emitidos para as formações iniciadas após 5 de Março de 1982 |\n| PAÍSES BAIXOS |  |  |\n| Radiologia | 8 de Julho de 1984 |  |\n| Neuropsiquiatria | 9 de Julho de 1984 |  |\n\n([1](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#src.E0001)) JO n.o C 353 de 30. 12. 1987, p. 17, e JO n.o C 322 de 15. 12. 1988, p. 22.\n\n([2](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#src.E0002)) JO n.o C 235 de 12. 9. 1988, p. 67, e JO n.o C 256 de 9. 10. 1989.\n\n([3](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#src.E0003)) JO n.o C 134 de 24. 5. 1988, p. 29.\n\n([4](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#src.E0004)) JO n.o L 167 de 30. 6. 1975, p. 1.\n\n([5](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#src.E0005)) JO n.o L 176 de 15. 7. 1977, p. 1.\n\n([6](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#src.E0006)) JO n.o L 233 de 24. 8. 1978, p. 1.\n\n([7](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#src.E0007)) JO n.o L 362 de 23. 12. 1978, p. 1.\n\n([8](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#src.E0008)) JO n.o L 33 de 11. 2. 1980, p. 1.\n\n([9](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#src.E0009)) JO n.o L 167 de 30. 6. 1975, p. 14.\n\n([10](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#src.E0010)) JO n.o L 43 de 15. 2. 1982, p. 21.\n\n([11](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#src.E0011)) JO n.o L 362 de 23. 12. 1978, p. 7.\n\n([12](http://publications.europa.eu/resource/cellar/4ac6ee08-b84c-4845-898b-50c820e8695d.0018.02/DOC_1#src.E0012)) JO n.o L 33 de 11. 2. 1982, p. 8."
+  },
+  "829d1e4dc516a923": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1989L0594 — PT — 20.10.2007 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31989L0594) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31989L0594) [de 30 de Outubro de 1989](http://publications.europa.eu/resource/celex/31989L0594) [que altera as Directivas 75/362/CEE, 77/452/CEE, 78/686/CEE, 78/1026/CEE e 80/154/CEE, relativas ao reconhecimento mútuo dos diplomas, certificados e outros títulos de médico, enfermeiro responsável por cuidados gerais, dentista, veterinário e parteira, respectivamente, bem como as Directivas 75/363/CEE, 78/1027/CEE e 80/155/CEE, que têm por objectivo a coordenaçao das disposiçoes legislativas, regulamentares e administrativas respeitantes às actividades de médico, de veterinário e de parteira](http://publications.europa.eu/resource/celex/31989L0594) [(89/594/CEE)](http://publications.europa.eu/resource/celex/31989L0594) (JO L 341, 23.11.1989, p.19)\n\n**revogado por:**\n\n- [Directiva 2005/36/CE do Parlamento Europeu e do Conselho de 7 de Setembro de 2005](http://publications.europa.eu/resource/celex/32005L0036) — L 255 — 22 — 30.9.2005"
+  }
+ }
+}

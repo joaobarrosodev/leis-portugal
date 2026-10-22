@@ -36,6 +36,105 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: decisao-ue-2006-1719.versoes.json
+  count: 3
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2006-11-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-25'
+    amending: eu:celex:32008D1349:por
+    amending_title: DECISÃO N. o 1349/2008/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita ANEXO
+    - Adita ACÇÕES
+    - Adita Acção 1 — Juventude para a Europa
+    - Adita 1.1. Intercâmbio de jovens
+    - Adita 1.2. Apoio às iniciativas dos jovens
+    - Adita 1.3. Projectos de democracia participativa
+    - Adita Acção 2 — Serviço Voluntário Europeu
+    - Adita Acção 3 — Juventude no Mundo
+    - Adita 3.1. Cooperação com os países vizinhos da União Europeia
+    - Adita 3.2. Cooperação com outros países
+    - Adita Acção 4 — Sistemas de apoio à juventude
+    - Adita 4.1. Apoio aos organismos activos a nível europeu no domínio da juventude
+    - Adita 4.2. Apoio ao Fórum Europeu da Juventude
+    - Adita 4.3. Formação e ligação em rede das pessoas que trabalham no sector da juventude e em organizações de juventude
+    - Adita 4.4. Projectos destinados a fomentar a inovação e a qualidade
+    - Adita 4.5. Acções de informação destinadas aos jovens e às pessoas que trabalham no sector da juventude e em organizações
+      de juventude
+    - Adita 4.6. Parcerias
+    - Adita 4.7. Apoio às estruturas do programa
+    - Adita 4.8. Valorização do programa
+    - Adita Acção 5 — Apoio à cooperação europeia em áreas relacionadas com a juventude
+    - Adita 5.1. Encontros de jovens e de responsáveis pelas políticas de juventude
+  - date: '2014-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime ANEXO
+    - Suprime ACÇÕES
+    - Suprime Acção 1 — Juventude para a Europa
+    - Suprime 1.1. Intercâmbio de jovens
+    - Suprime 1.2. Apoio às iniciativas dos jovens
+    - Suprime 1.3. Projectos de democracia participativa
+    - Suprime Acção 2 — Serviço Voluntário Europeu
+    - Suprime Acção 3 — Juventude no Mundo
+    - Suprime 3.1. Cooperação com os países vizinhos da União Europeia
+    - Suprime 3.2. Cooperação com outros países
+    - Suprime Acção 4 — Sistemas de apoio à juventude
+    - Suprime 4.1. Apoio aos organismos activos a nível europeu no domínio da juventude
+    - Suprime 4.2. Apoio ao Fórum Europeu da Juventude
+    - Suprime 4.3. Formação e ligação em rede das pessoas que trabalham no sector da juventude e em organizações de juventude
+    - Suprime 4.4. Projectos destinados a fomentar a inovação e a qualidade
+    - Suprime 4.5. Acções de informação destinadas aos jovens e às pessoas que trabalham no sector da juventude e em organizações
+      de juventude
+    - Suprime 4.6. Parcerias
+    - Suprime 4.7. Apoio às estruturas do programa
+    - Suprime 4.8. Valorização do programa
+    - Suprime Acção 5 — Apoio à cooperação europeia em áreas relacionadas com a juventude
+    - Suprime 5.1. Encontros de jovens e de responsáveis pelas políticas de juventude
+    - Suprime 5.2. Apoio a actividades que visem uma melhor compreensão e conhecimento da problemática juvenil
 identifiers:
   celex: 32006D1719
   eli: http://data.europa.eu/eli/dec/2006/1719/oj
@@ -50,7 +149,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017
   content_url: http://publications.europa.eu/resource/cellar/51a0996b-c742-4196-a6d2-e27d7669f372.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006D1719-20140101
-  retrieved_at: '2026-10-22T03:12:29Z'
+  retrieved_at: '2026-10-22T15:01:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T04:51:24.521+01:00'
 integrity:
@@ -59,9 +158,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:29Z'
-  notes: Texto consolidado 02006D1719-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:01:26Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-2006-1719.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -131,16 +230,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:29Z'
+  checked_at: '2026-10-22T15:01:26Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02006D1719-20061214: versão indisponível (Sem expressão na língua por para CELEX 02006D1719-20061214.)'
   errors: []
 ---
 

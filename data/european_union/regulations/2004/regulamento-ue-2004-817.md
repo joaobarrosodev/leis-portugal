@@ -36,6 +36,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-01-01'
+version_history:
+  file: regulamento-ue-2004-817.versoes.json
+  count: 2
+  source_lastmod: '2010-01-01'
+  versions:
+  - date: '2005-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime MEDIDAS DE DESENVOLVIMENTO RURAL
+    - Suprime SECÇÃO 1
+    - Suprime Investimentos nas explorações agrícolas
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime SECÇÃO 2
+    - Suprime Instalação de jovens agricultores
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime SECÇÃO 3
+    - Suprime Formação
+    - Suprime Artigo 6.º
+    - Suprime SECÇÃO 4
+    - Suprime Reforma antecipada
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime SECÇÃO 5
+    - Suprime Zonas desfavorecidas e regiões com condicionantes ambientais
+    - Suprime Artigo 11.º
+    - Suprime SECÇÃO 6
+    - Suprime Cumprimento das normas
+    - Suprime Artigo 12.º
+    - Suprime SECÇÃO 7
+    - Suprime Agroambiente e bem-estar dos animais
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime SECÇÃO 8
+    - Suprime Qualidade dos alimentos
 identifiers:
   celex: 32004R0817
   eli: http://data.europa.eu/eli/reg/2004/817/oj
@@ -50,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9b2daf06-944d-4e3e-8d52-c4800fa0e710.0010
   content_url: http://publications.europa.eu/resource/cellar/4d0e0ac4-b286-4811-b05b-0204443b4b55.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0817-20100101
-  retrieved_at: '2026-10-22T02:47:38Z'
+  retrieved_at: '2026-10-22T14:58:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-31T07:52:58.762+01:00'
 integrity:
@@ -59,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:38Z'
-  notes: Texto consolidado 02004R0817-20100101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:58:02Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2004-817.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -205,16 +258,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:38Z'
+  checked_at: '2026-10-22T14:58:02Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '32004R0817: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02004R0817-20040507: versão indisponível (Sem expressão na língua por para CELEX 02004R0817-20040507.)'
   errors: []
 ---
 

@@ -1,0 +1,239 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0056:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0056-20141101",
+ "dre_path": null,
+ "source_lastmod": "2014-11-01",
+ "versions": [
+  {
+   "date": "2001-11-09",
+   "future": false,
+   "celex": "32001L0056",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "811aadf271742e88",
+    "2bdf97d724621c1d",
+    "fc1980fd03df4ef8",
+    "ae5bc7a28fa95046",
+    "6ddd1315bb15ea64",
+    "4891c699d481ca4f",
+    "61f9f03206562fc6",
+    "cec61a70980f404e",
+    "3fac49b535de61c1",
+    "9660cb70f6367aae",
+    "d1b33f996af6f664",
+    "899d00f32f02a4a7",
+    "59596c3a10145a1b",
+    "1b2ccf499af4e20e",
+    "32f0f959965c854c",
+    "101b8536b1390975",
+    "8b249d98f0741241",
+    "9d1849f2cd9bd943",
+    "41a14128a55cdad3",
+    "ec2466ab404285df"
+   ]
+  },
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "celex": "02001L0056-20141101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime ANEXO I — DISPOSIÇÕES ADMINISTRATIVAS RELATIVAS À HOMOLOGAÇÃO CE",
+    "Suprime ANEXO II — ÂMBITO, DEFINIÇÕES E REQUISITOS",
+    "Suprime ANEXO III — REQUISITOS APLICÁVEIS AOS SISTEMAS DE AQUECIMENTO POR APROVEITAMENTO DE CALOR RESIDUAL - AR",
+    "Suprime ANEXO IV — MÉTODO DE ENSAIO DA QUALIDADE DO AR",
+    "Suprime ANEXO V — MÉTODO DE ENSAIO DA TEMPERATURA",
+    "Suprime ANEXO VI — MÉTODO DE ENSAIO DAS EMISSÕES PRODUZIDAS",
+    "Suprime ANEXO VII — REQUISITOS APLICÁVEIS AOS AQUECEDORES DE COMBUSTÃO E SUA INSTALAÇÃO",
+    "Suprime ANEXO VIII — REQUISITOS DE SEGURANÇA APLICÁVEIS AOS AQUECEDORES DE COMBUSTÃO A GPL"
+   ],
+   "fragments": [
+    "a39d294a275ff171"
+   ]
+  }
+ ],
+ "fragments": {
+  "811aadf271742e88": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2001/56/CE do Parlamento Europeu e do Conselho, de 27 de Setembro de 2001, relativa aos sistemas de aquecimento dos veículos a motor e seus reboques, que altera a Directiva 70/156/CEE do Conselho e que revoga a Directiva 78/548/CEE do Conselho** *Jornal Oficial nº L 292 de 09/11/2001 p. 0021 - 0040*\n\nDirectiva 2001/56/CE do Parlamento Europeu e do Conselho\n\nde 27 de Setembro de 2001\n\nrelativa aos sistemas de aquecimento dos veículos a motor e seus reboques, que altera a Directiva 70/156/CEE do Conselho e que revoga a Directiva 78/548/CEE do Conselho\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente, o seu artigo 95.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social(2),\n\nDeliberando nos termos do artigo 251.o do Tratado(3),\n\nConsiderando o seguinte:\n\n(1) A Directiva 78/548/CEE do Conselho, de 12 de Junho de 1978, relativa à aproximação das legislações dos Estados-Membros respeitantes ao aquecimento do habitáculo dos veículos a motor(4), foi aprovada como uma das directivas específicas do processo de homologação CE criado pela Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-Membros respeitantes à homologação dos veículos a motor e seus reboques(5). Por conseguinte, as disposições da Directiva 70/156/CEE respeitantes aos sistemas, componentes e unidades técnicas dos veículos são aplicáveis no que respeita à Directiva 78/548/CEE.\n\n(2) Em especial, o n.o 4 do artigo 3.o e o n.o 3 do artigo 4.o da Directiva 70/156/CEE determinam que cada directiva específica seja acompanhada de uma ficha de informações que inclua os pontos relevantes do anexo I daquela directiva e de um certificado de homologação baseado no seu anexo VI, a fim de facilitar a informatização da homologação.\n\n(3) Graças ao progresso técnico, são já numerosos os veículos equipados com aquecedores de combustão (normalmente a gasóleo, gasolina ou gás de petróleo liquefeito) para o aquecimento do habitáculo (por exemplo, nos autocarros), da zona de transporte de carga (por exemplo, nos camiões e nos reboques) ou do compartimento de repouso (por exemplo, nos camiões e nas autocaravanas), de uma forma eficiente e sem o ruído e as emissões gasosas produzidos pelo funcionamento do motor de propulsão quando o veículo se encontra estacionado. Por razões de segurança, é necessário alargar o âmbito de aplicação para passar a contemplar os requisitos aplicáveis aos aquecedores de combustão e à sua instalação. Os referidos requisitos devem ser representativos das normas mais estritas compatíveis com a tecnologia actual.\n\n(4) É necessário prever a homologação de aquecedores de combustão como componentes e de veículos equipados com aquecedores de combustão.\n\n(5) Vai ser necessário completar a presente directiva com requisitos de segurança adicionais aplicáveis aos aquecedores de combustão a GPL mediante o aditamento de um anexo.\n\n(6) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(6).\n\n(7) Por razões de clareza, é conveniente revogar a Directiva 78/548/CEE e substituí-la pela presente directiva,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "2bdf97d724621c1d": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos da presente directiva, entende-se por \"veículo\" qualquer veículo ao qual a Directiva 70/156/CEE seja aplicável."
+  },
+  "fc1980fd03df4ef8": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros não podem recusar a homologação CE ou a homologação de âmbito nacional a um modelo de veículo ou a um tipo de sistema de aquecimento por motivos relacionados com o sistema de aquecimento do habitáculo ou da zona de transporte de carga se o sistema em questão satisfizer os requisitos dos anexos."
+  },
+  "ae5bc7a28fa95046": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros não podem recusar ou proibir a venda, a matrícula, a entrada em circulação ou a utilização de um veículo ou a venda, a entrada em serviço ou a utilização de um sistema de aquecimento por motivos relacionados com o sistema de aquecimento do habitáculo ou da zona de transporte de carga se o sistema em questão satisfizer os requisitos dos anexos."
+  },
+  "6ddd1315bb15ea64": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A partir de 9 de Maio de 2003 os Estados-Membros não podem, por motivos relacionados com os sistemas de aquecimento:\n\n- recusar a homologação CE ou a homologação de âmbito nacional a um modelo de veículo ou a um tipo de sistema de aquecimento, nem\n\n- proibir a venda, a matrícula ou a entrada em circulação de veículos ou a venda ou a entrada em serviço de sistemas de aquecimento,\n\nse o sistema de aquecimento em questão satisfizer os requisitos da presente directiva.\n\n2. A partir de 9 de Maio de 2004 os Estados-Membros:\n\n- deixam de poder conceder a homologação CE e\n\n- podem recusar a homologação de âmbito nacional\n\na um modelo de veículo, por motivos relacionados com sistemas de aquecimento, ou a um tipo de aquecedor de combustão, se não forem satisfeitos os requisitos da presente directiva.\n\n3. A partir de 9 de Maio de 2005 os Estados-Membros:\n\n- devem considerar que os certificados de conformidade que acompanham os veículos novos nos termos da Directiva 70/156/CEE deixam de ser eficazes para efeitos do disposto no n.o 1 do artigo 7.o dessa directiva, e\n\n- podem recusar a venda, a matrícula e a entrada em circulação de veículos novos,\n\npor motivos relacionados com sistemas de aquecimento, se não forem satisfeitos os requisitos da presente directiva.\n\nO presente número não se aplica a modelos de veículos equipados com sistemas de aquecimento por aproveitamento de calor residual - que utilizam água como fluído de transferência.\n\n4. A partir de 9 de Maio de 2005 os requisitos da presente directiva relativos aos aquecedores de combustão enquanto componentes são aplicáveis para efeitos do disposto no n.o 2 do artigo 7.o da Directiva 70/156/CEE."
+  },
+  "4891c699d481ca4f": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAté 9 de Novembro de 2002, a Comissão deve estudar requisitos de segurança adicionais relativamente aos sistemas de aquecimento a gás de petróleo liquefeito (GPL) dos veículos a motor e, se adequado, alterar a presente directiva nos termos do n.o 2 do artigo 6.o"
+  },
+  "61f9f03206562fc6": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A Comissão é assistida pelo Comité para a Adaptação ao Progresso Técnico, criado pelo artigo 13.o da Directiva 70/156/CEE, a seguir designado \"Comité\".\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.o da mesma.\n\nO período previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "cec61a70980f404e": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA Directiva 70/156/CEE é alterada do seguinte modo:\n\n1. O ponto 36 da parte 1 do anexo IV passa a ter a seguinte redacção:\n\n\">POSIÇÃO NUMA TABELA>\"\n\n2. No anexo XI:\n\na) O ponto 36 do apêndice 1 passa a ter a seguinte redacção:\n\n\">POSIÇÃO NUMA TABELA>\"\n\nb) O ponto 36 do apêndice 2 passa a ter a seguinte redacção:\n\n\">POSIÇÃO NUMA TABELA>\""
+  },
+  "3fac49b535de61c1": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA Directiva 78/548/CEE é revogada com efeitos a partir de 9 de Maio de 2004. As referências feitas à referida directiva devem entender-se como sendo feitas à presente directiva."
+  },
+  "9660cb70f6367aae": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 9 de Maio de 2004 e informar imediatamente a Comissão do facto.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência quando da sua publicação oficial. As modalidades da referência são aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "d1b33f996af6f664": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA presente directiva entra em vigor no dia da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "899d00f32f02a4a7": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 27 de Setembro de 2001.\n\nPelo Parlamento Europeu\n\nA Presidente\n\nN. Fontaine\n\nPelo Conselho\n\nO Presidente\n\nC. Picqué\n\n(1) JO C 326 de 24.10.1998, p. 4, e JO C 116 E de 26.4.2000, p. 2.\n\n(2) JO C 101 de 12.4.1999, p. 15.\n\n(3) Parecer do Parlamento Europeu de 13 de Abril de 1999 (JO C 219 de 30.7.1999, p. 58), posição comum do Conselho de 17 de Novembro de 2000 (JO C 36 de 2.2.2001, p. 1) e decisão do Parlamento Europeu de 14 de Março de 2001 (ainda não publicada no Jornal Oficial). Decisão do Conselho de 26 de Junho de 2001.\n\n(4) JO L 168 de 26.6.1978, p. 40.\n\n(5) JO L 42 de 23.2.1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 98/91/CE do Parlamento Europeu e do Conselho (JO L 11 de 16.1.1999, p. 25).\n\n(6) JO L 184 de 17.7.1999, p. 23.\n\nLISTA DE ANEXOS\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "59596c3a10145a1b": {
+   "fragment_id": "ANEXO I — DISPOSIÇÕES ADMINISTRATIVAS RELATIVAS À HOMOLOGAÇÃO CE",
+   "type": "divisao",
+   "heading": "ANEXO I — DISPOSIÇÕES ADMINISTRATIVAS RELATIVAS À HOMOLOGAÇÃO CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — DISPOSIÇÕES ADMINISTRATIVAS RELATIVAS À HOMOLOGAÇÃO CE\n\n1. PEDIDO DE HOMOLOGAÇÃO CE DE UM MODELO DE VEÍCULO\n\n1.1. O pedido de homologação CE, em conformidade com o n.o 4 do artigo 3.o da Directiva 70/156/CEE, de um modelo de veículo no que diz respeito ao seu sistema de aquecimento deve ser apresentado pelo fabricante.\n\n1.2. No apêndice 1 figura um modelo de ficha de informações.\n\n1.3. Deve ser apresentado ao serviço técnico responsável pela realização dos ensaios de homologação:\n\n1.3.1. Um veículo representativo do modelo a homologar.\n\n2. DEFERIMENTO DO PEDIDO DE HOMOLOGAÇÃO CE DE UM MODELO DE VEÍCULO\n\n2.1. Se os requisitos relevantes forem satisfeitos, deve ser deferido o pedido de homologação CE em conformidade com o n.o 3 do artigo 4.o da Directiva 70/156/CEE.\n\n2.2. No apêndice 2 figura um modelo de certificado de homologação CE.\n\n2.3. A cada modelo de veículo homologado deve ser atribuído um número de homologação conforme com o anexo VII da Directiva 70/156/CEE. Um Estado-Membro não pode atribuir o mesmo número a outro modelo de veículo.\n\n3. PEDIDO DE HOMOLOGAÇÃO CE DE UM TIPO DE AQUECEDOR DE COMBUSTÃO\n\n3.1. O pedido de homologação CE como componente, em conformidade com o n.o 4 do artigo 3.o da Directiva 70/156/CEE, de um tipo de aquecedor de combustão deve ser apresentado pelo fabricante do sistema de aquecimento em questão.\n\n3.2. No apêndice 3 figura um modelo de ficha de informações.\n\n3.3. Devem ser apresentados ao serviço técnico responsável pela realização dos ensaios de homologação:\n\n3.3.1. Um aquecedor de combustão representativo do tipo a homologar.\n\n4. DEFERIMENTO DO PEDIDO DE HOMOLOGAÇÃO CE DE UM TIPO DE AQUECEDOR DE COMBUSTÃO\n\n4.1. Se os requisitos relevantes forem satisfeitos, deve ser deferido o pedido de homologação CE em conformidade com o n.o 3 do artigo 4.o e, se aplicável, o n.o 4 do artigo 4.o da Directiva 70/156/CEE.\n\n4.2. No apêndice 4 figura um modelo de certificado de homologação CE.\n\n4.3. A cada tipo de aquecedor de combustão homologado deve ser atribuído um número de homologação conforme com o anexo VII da Directiva 70/156/CEE. Um Estado-Membro não pode atribuir o mesmo número a outro tipo de aquecedor de combustão.\n\n4.4. Todos os aquecedores de combustão conformes com um tipo homologado com base na presente directiva devem ostentar a marca de homologação CE como componente prevista no apêndice 5.\n\n5. MODIFICAÇÃO DE MODELOS E ALTERAÇÃO DE HOMOLOGAÇÕES\n\n5.1. No caso de modificações do modelo de veículo ou do tipo de aquecedor de combustão homologado nos termos da presente directiva, aplicam-se as disposições do artigo 5.o da Directiva 70/156/CEE.\n\n6. CONFORMIDADE DA PRODUÇÃO\n\n6.1. As medidas destinadas a garantir a conformidade da produção devem ser tomadas de acordo com o disposto no artigo 10.o da Directiva 70/156/CEE.\n\nApêndice 1\n\n>PIC FILE= \"L_2001292PT.002602.TIF\">\n\n>PIC FILE= \"L_2001292PT.002701.TIF\">\n\nApêndice 2\n\nMODELO\n\n[formato máximo: A4 (210 mm x 297 mm)]\n\n>PIC FILE= \"L_2001292PT.002802.TIF\">\n\nAdenda\n\nao certificado de homologação CE n.o... relativo à homologação de um modelo de veículo no que diz respeito à Directiva 2001/56/CE\n\n>PIC FILE= \"L_2001292PT.002902.TIF\">\n\nApêndice 3\n\n>PIC FILE= \"L_2001292PT.003002.TIF\">\n\nApêndice 4\n\nMODELO\n\n[formato máximo: A4 (210 mm x 297 mm)]\n\n>PIC FILE= \"L_2001292PT.003102.TIF\">\n\nAdenda\n\nao certificado de homologação CE n.o... relativo à homologação como componente de um tipo de aquecedor de combustão no que diz respeito à Directiva 2001/56/CE\n\n>PIC FILE= \"L_2001292PT.003202.TIF\">\n\nApêndice 5\n\nMARCA DE HOMOLOGAÇÃO CE COMO COMPONENTE\n\n1. GENERALIDADES\n\n1.1. A marca de homologação CE como componente é constituída:\n\n1.1.1. Por um rectângulo envolvendo a letra minúscula \"e\", seguida das letras ou número distintivos do Estado-Membro que procedeu à homologação CE como componente:\n\n1 para a Alemanha\n\n2 para a França\n\n3 para a Itália\n\n4 para os Países Baixos\n\n5 para a Suécia\n\n6 para a Bélgica\n\n9 para a Espanha\n\n11 para o Reino Unido\n\n12 para a Áustria\n\n13 para o Luxemburgo\n\n17 para a Finlândia\n\n18 para a Dinamarca\n\n21 para Portugal\n\n23 para a Grécia\n\n24 para a Irlanda\n\n1.1.2. Pelo \"número de homologação de base\" que constitui a secção 4 do número de homologação objecto do anexo VII da Directiva 70/156/CEE, precedido do número sequencial de dois algarismos atribuído à mais recente alteração técnica significativa da Directiva 78/548/CEE à data da concessão da homologação CE como componente, ambos a figurar na proximidade do rectângulo. O número sequencial correspondente à presente directiva é 00.\n\n1.2. A marca de homologação CE como componente deve ser claramente legível e indelével.\n\n2. EXEMPLO DE UMA MARCA DE HOMOLOGAÇÃO CE COMO COMPONENTE\n\n2.1.\n\n>PIC FILE= \"L_2001292PT.003302.TIF\">\n\nA marca de homologação como componente acima ilustrada indica que o aquecedor de combustão em questão foi homologado na Alemanha (e1) sob o número de homologação de base 2439. Os dois primeiros algarismos (00) indicam que o componente foi homologado com base na presente directiva."
+  },
+  "1b2ccf499af4e20e": {
+   "fragment_id": "ANEXO II — ÂMBITO, DEFINIÇÕES E REQUISITOS",
+   "type": "divisao",
+   "heading": "ANEXO II — ÂMBITO, DEFINIÇÕES E REQUISITOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — ÂMBITO, DEFINIÇÕES E REQUISITOS\n\n1. ÂMBITO\n\n1.1. A presente directiva é aplicável a todos os veículos das categorias M, N e O equipados com um sistema de aquecimento.\n\n2. DEFINIÇÕES\n\nPara efeitos do disposto na presente directiva, entende-se por:\n\n2.1. \"Sistema de aquecimento\", qualquer tipo de dispositivo concebido para elevar a temperatura no interior de um veículo, incluindo em quaisquer zonas destinadas ao transporte de carga;\n\n2.2. \"Aquecedor de combustão\", um dispositivo que utiliza directamente um combustível líquido ou gasoso, e não o calor residual do motor de propulsão do veículo;\n\n2.3. \"Modelo de veículo no que diz respeito ao sistema de aquecimento\", veículos que não diferem entre si em aspectos essenciais como:\n\n- princípio(s) de funcionamento do sistema de aquecimento,\n\n- tipo do aquecedor de combustão, quando exista.\n\n2.4. \"Tipo de aquecedor de combustão\", dispositivos que não diferem entre si em aspectos essenciais como:\n\n- tipo de combustível (isto é, líquido ou gasoso)\n\n- o fluido de transferência (isto é, ar ou água)\n\n- localização no veículo (isto é, habitáculo ou zona de carga)\n\n2.5. \"Sistema de aquecimento por aproveitamento de calor residual\", qualquer tipo de dispositivo que utilize o calor residual do motor de propulsão do veículo para elevar a temperatura no interior do veículo; o fluido de transferência poderá ser água, óleo ou ar;\n\n2.6. \"Interior\", a parte interna do veículo reservada aos seus ocupantes e/ou carga;\n\n2.7. \"Sistema de aquecimento do habitáculo\", qualquer tipo de dispositivo concebido para elevar a temperatura do habitáculo;\n\n2.8. \"Sistema de aquecimento da zona destinada ao transporte de carga\", qualquer tipo de dispositivo concebido para elevar a temperatura na zona destinada ao transporte de carga;\n\n2.9. \"Habitáculo\", a parte interior do veículo reservada ao condutor e eventuais passageiros;\n\n2.10. \"Combustível gasoso\", os combustíveis que são gasosos à temperatura e pressão normais (288,2 K e 101,33 kPa), como o gás de petróleo liquefeito (GPL) e o gás natural comprimido (GNC).\n\n2.11. \"Sobreaquecimento\", a condição que existe quando a captação de ar para o ar de aquecimento do aquecedor de combustão está completamente obstruída.\n\n3. REQUISITOS PARA OS SISTEMAS DE AQUECIMENTO\n\n3.1. Os habitáculos de todos os veículos das categorias M e N devem ser equipados com um sistema de aquecimento.\n\n3.2. Os requisitos gerais para os sistemas de aquecimento são os seguintes:\n\n- o ar aquecido introduzido no habitáculo não poderá apresentar-se mais poluído do que o ar no ponto de entrada no veículo;\n\n- quando em circulação, o condutor e os passageiros não poderão entrar em contacto com partes do veículo ou ar aquecido que possam causar-lhes queimaduras;\n\n- as emissões produzidas pelos aquecedores de combustão devem manter-se dentro de limites aceitáveis.\n\nOs métodos de ensaio a utilizar na verificação destes requisitos são descritos nos anexos IV, V e VI.\n\n3.2.1. No quadro seguinte indicam-se os anexos que são aplicáveis a cada tipo de sistema de aquecimento, em função da categoria do veículo:\n\n>POSIÇÃO NUMA TABELA>\n\n3.3. O anexo VII contém outros requisitos relativos aos aquecedores de combustão e sua instalação nos veículos.\n\nNota 1:\n\nOs veículos que satisfaçam os requisitos do anexo III ficam isentos da aplicação destes requisitos de ensaio.\n\nNota 2:\n\nUm novo anexo VIII \"Requisitos de segurança aplicáveis aos aquecedores de combustão a GPL\" será aditado à presente directiva nos termos do artigo 5.o\n\nNota 3:\n\nOs aquecedores de combustão instalados fora do habitáculo e utilizem água como meio de transferência serão considerados conformes com os anexos IV e V."
+  },
+  "32f0f959965c854c": {
+   "fragment_id": "ANEXO III — REQUISITOS APLICÁVEIS AOS SISTEMAS DE AQUECIMENTO POR APROVEITAMENTO DE CALOR RESIDUAL - AR",
+   "type": "divisao",
+   "heading": "ANEXO III — REQUISITOS APLICÁVEIS AOS SISTEMAS DE AQUECIMENTO POR APROVEITAMENTO DE CALOR RESIDUAL - AR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — REQUISITOS APLICÁVEIS AOS SISTEMAS DE AQUECIMENTO POR APROVEITAMENTO DE CALOR RESIDUAL - AR\n\n1. Considera-se que os sistemas de aquecimento equipados com um permutador de calor cujo circuito primário é percorrido por gases de escape ou ar poluído satisfazem os requisitos do ponto 3.2 do anexo II se forem satisfeitas as seguintes condições:\n\n2. As paredes do circuito primário do permutador de calor devem ser à prova de fugas até à pressão de 2 bar, inclusive;\n\n3. As paredes do circuito primário do permutador de calor não devem ter qualquer componente desmontável;\n\n4. Quando fabricada num aço não-ligado, a parede do permutador de calor na qual tem lugar a transferência de calor deve ter pelo menos 2 mm de espessura;\n\n4.1. Se forem utilizados outros materiais (incluindo materiais compósitos ou materiais revestidos), a espessura da parede terá de garantir um tempo de vida útil do permutador idêntico ao do permutador previsto no ponto 4;\n\n4.2. Se a parede do permutador de calor na qual tem lugar a transferência de calor for esmaltada, a parede sobre a qual o esmalte foi aplicado deve ter pelo menos 1 mm de espessura e o esmalte deve ser durável, à prova de fugas e não-poroso;\n\n5. A tubagem por onde circulam os gases de escape deve incluir uma zona de controlo da corrosão com pelo menos 30 mm de comprimento; a zona em questão deve estar situada imediatamente a jusante do permutador de calor, deve estar exposta e deve ser facilmente acessível;\n\n5.1. A espessura da parede da zona de controlo da corrosão acima referida não poderá ser superior à das tubagens de circulação dos gases de escape no interior do permutador de calor; os materiais e as propriedades de superfície dessa zona de controlo devem ser equivalentes aos dessas mesmas tubagens;\n\n5.2. Se o permutador de calor for solidário com o silencioso do sistema de escape do veículo, a parede exterior deste último constituirá a zona na qual, nas condições previstas no ponto 5.1, se deverá manifestar uma eventual corrosão.\n\n6. Tratando-se de sistemas de aquecimento por aproveitamento de calor residual que utilizem o ar de arrefecimento do motor para fins de aquecimento sem recurso a um permutador de calor, considera-se que os requisitos do ponto 3.2 do anexo II são satisfeitos se forem satisfeitas as seguintes condições:\n\n- O ar de arrefecimento utilizado no aquecimento só entra em contacto com superfícies do motor que não incluem qualquer elemento desmontável, e\n\n- as ligações entre as paredes do circuito do ar de arrefecimento e as superfícies utilizadas para a transferência de calor devem ser à prova de qualquer fuga gasosa e resistentes aos óleos.\n\nEstas condições consideram-se satisfeitas se, designadamente:\n\n6.1. Em volta de cada vela de ignição existir uma bainha de evacuação de eventuais fugas gasosas para fora do circuito do ar de aquecimento;\n\n6.2. A junta entre a cabeça do cilindro e o colector de escape estiver situada fora do circuito do ar de aquecimento;\n\n6.3. Existir uma vedação dupla entre a cabeça do cilindro e o cilindro e todas as fugas provenientes da primeira junta forem evacuadas para fora do circuito do ar de aquecimento, ou:\n\na vedação entre a cabeça do cilindro e o cilindro continuar a ser assegurada quando as porcas de fixação da cabeça do cilindro forem apertadas a frio a um terço do binário nominal prescrito pelo fabricante; ou:\n\na zona de junção da cabeça do cilindro com o cilindro estiver situada fora do circuito do ar de aquecimento."
+  },
+  "101b8536b1390975": {
+   "fragment_id": "ANEXO IV — MÉTODO DE ENSAIO DA QUALIDADE DO AR",
+   "type": "divisao",
+   "heading": "ANEXO IV — MÉTODO DE ENSAIO DA QUALIDADE DO AR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — MÉTODO DE ENSAIO DA QUALIDADE DO AR\n\n1. Tratando-se de veículos completos, procede-se ao seguinte ensaio:\n\n1.1. Faz-se funcionar o aquecedor no máximo durante uma hora em condições de calmaria (velocidade do vento &lt;= 2 m/s), com todas as janelas fechadas e, no caso de um aquecedor de combustão, o motor de propulsão desligado. Se, todavia, o aquecedor se desligar automaticamente em menos de uma hora após se ter seleccionado a regulação máxima, as medições podem ser efectuadas antes de desligar.\n\n1.2. Determina-se a concentração de CO no ar ambiente recolhendo amostras:\n\na) Num ponto situado fora do veículo, tão próximo quanto possível da captação do ar do aquecedor, e\n\nb) Num ponto situado no interior do veículo, a menos de um metro da saída do ar aquecido.\n\n1.3. As leituras devem ser efectuadas durante um período representativo de 10 minutos.\n\n1.4. A concentração na posição b) só poderá exceder a concentração na posição a) num valor inferior a 20 ppm.\n\n2. Tratando-se de aquecedores de combustão entendidos como componentes, procede-se ao seguinte ensaio após os ensaios dos anexos V e VI e do ponto 1.3 do VII.\n\n2.1. Submete-se o circuito primário do permutador de calor a um ensaio de fugas, para confirmar que não é possível a passagem de ar poluído para o circuito do ar quente destinado ao habitáculo.\n\n2.2. Este requisito considera-se satisfeito se, para uma pressão manométrica de 0,5 hPa, as fugas do permutador de calor não excederem &lt;= 30 dm3/h."
+  },
+  "8b249d98f0741241": {
+   "fragment_id": "ANEXO V — MÉTODO DE ENSAIO DA TEMPERATURA",
+   "type": "divisao",
+   "heading": "ANEXO V — MÉTODO DE ENSAIO DA TEMPERATURA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — MÉTODO DE ENSAIO DA TEMPERATURA\n\n1. Faz-se funcionar o aquecedor no máximo durante uma hora em condições de calmaria (velocidade do vento &lt;= 2 m/s), com todas as janelas fechadas. Se, todavia, o aquecedor se desligar automaticamente em menos de uma hora após se ter seleccionado a regulação máxima, as medições podem ser efectuadas antes. Se o ar aquecido provier do exterior do veículo, o ensaio deve ser realizado a uma temperatura ambiente não inferior a 15 °C.\n\n2. Com um termómetro de contacto, mede-se a temperatura à superfície de todos os elementos do sistema de aquecimento com os quais o condutor do veículo possa entrar em contacto quando em circulação normal. A temperatura não poderá ser superior a 70 °C em metal não revestido ou a 80 °C noutros materiais.\n\n2.1. No caso de haver elementos do sistema de aquecimento atrás do banco do condutor, ou em caso de sobre aquecimento, essa temperatura não poderá exceder 110 °C.\n\n3.1. No caso dos veículos das categorias M1 e N, nenhum elemento do sistema susceptível de entrar em contacto com passageiros sentados durante a utilização rodoviária normal do veículo, com excepção da grelha de saída, deve exceder a temperatura de 110 °C.\n\n3.2. No caso dos veículos das categorias M2 e M3, nenhum elemento do sistema susceptível de entrar em contacto com passageiros durante a utilização rodoviária normal do veículo, deve exceder a temperatura de 70 °C em metal não revestido ou 80 °C noutros materiais.\n\n4. A temperatura do ar aquecido introduzido no habitáculo não poderá ser superior a 150 °C, a medir no centro da saída."
+  },
+  "9d1849f2cd9bd943": {
+   "fragment_id": "ANEXO VI — MÉTODO DE ENSAIO DAS EMISSÕES PRODUZIDAS",
+   "type": "divisao",
+   "heading": "ANEXO VI — MÉTODO DE ENSAIO DAS EMISSÕES PRODUZIDAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — MÉTODO DE ENSAIO DAS EMISSÕES PRODUZIDAS\n\n1. Faz-se funcionar o aquecedor no máximo durante uma hora em condições de calmaria (velocidade do vento &lt;= 2 m/s), à temperatura ambiente de 20 ± 10 °C. Se, todavia, o aquecedor se desligar automaticamente em menos de uma hora após se ter seleccionado a regulação máxima, as medidas podem ser efectuadas antes.\n\n2. As emissões de escape secas e não diluídas, medidas com um aparelho apropriado, não poderão exceder os valores indicados no quadro seguinte:\n\n>POSIÇÃO NUMA TABELA>\n\n3. Repete-se o ensaio em condições equivalentes a uma velocidade do veículo de 100 km/h. Em tais condições, a concentração de CO não poderá exceder 0,2 %, em volume. Se o ensaio tiver sido efectuado com o aquecedor entendido como componente, não é necessário repeti-lo no caso do modelo de veículo em que o aquecedor está instalado."
+  },
+  "41a14128a55cdad3": {
+   "fragment_id": "ANEXO VII — REQUISITOS APLICÁVEIS AOS AQUECEDORES DE COMBUSTÃO E SUA INSTALAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO VII — REQUISITOS APLICÁVEIS AOS AQUECEDORES DE COMBUSTÃO E SUA INSTALAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — REQUISITOS APLICÁVEIS AOS AQUECEDORES DE COMBUSTÃO E SUA INSTALAÇÃO\n\n1. REQUISITOS GERAIS\n\n1.1. Devem ser fornecidas com cada aquecedor instruções de funcionamento e de manutenção e, no caso de aquecedores destinados ao mercado de substituição, instruções de instalação.\n\n1.2. Deve ser instalado equipamento de segurança (quer como parte do aquecedor de combustão quer como parte do veículo) para controlar o funcionamento de cada aquecedor de combustão numa emergência. Deve ser concebido de modo tal que, se não se obtiver nenhuma chama no arranque ou se a chama se extinguir durante o funcionamento, os tempos de ignição e de ligação do abastecimento de combustível não sejam excedidos em 4 minutos no caso dos aquecedores a combustíveis líquidos ou no caso dos aquecedores a combustíveis gasosos, 1 minuto se o dispositivo de controlo de chama for termoeléctrico ou 10 segundos se for automático.\n\n1.3. A câmara de combustão e o permutador de calor dos aquecedores que utilizem água como vector térmico devem ser capazes de suportar uma pressão dupla da pressão normal de funcionamento ou uma pressão barométrica de 2 bar (nível), conforme o valor maior. A pressão de ensaio deve ser inscrita na ficha de informações.\n\n1.4. O aquecedor deve ser portador de um dístico do fabricante que indique o nome deste, o tipo e o número do modelo e ainda a potência nominal em kilowatts. Também devem ser indicados o tipo de combustível e, quando relevante, a tensão de funcionamento e a pressão do gás.\n\n1.5. Continuação do funcionamento do ventilador de ar de combustão quando se desliga o motor\n\n1.5.1. No caso de existir um ventilador de ar de combustão, este deverá continuar a funcionar depois de se desligar o motor, mesmo em caso de sobreaquecimento ou de interrupção da alimentação de combustível.\n\n1.5.2. Poderão ser aplicadas outras medidas para impedir avarias resultantes de detonações ou da corrosão, se o fabricante fornecer a prova de que as mesmas são equivalentes.\n\n1.6. Requisitos a observar pelo equipamento eléctrico\n\n1.6.1. Todos os requisitos técnicos, afectados pela tensão eléctrica devem ser satisfeitos dentro de um intervalo de ± 16 % em relação à tensão de serviço. No caso de existir uma protecção de sub ou sobretensão, todos os requisitos deverão ser verificados na proximidade imediata dos pontos de corte da corrente.\n\n1.7. Indicador do estado do funcionamento\n\n1.7.1. Um indicador claramente visível no campo de visão do operador deve informá-lo se o aquecedor está ligado ou desligado.\n\n2. REQUISITOS DE INSTALAÇÃO NO VEÍCULO\n\n2.1. Âmbito\n\n2.1.1. Sem prejuízo do ponto 2.1.2, os aquecedores de combustão devem ser instalados de forma a satisfazer os requisitos do presente anexo.\n\n2.1.2. Considera-se que os veículos da categoria O equipados com aquecedores a combustíveis líquidos satisfazem os requisitos do presente anexo.\n\n2.2. Localização do aquecedor\n\n2.2.1. As partes da carroçaria e quaisquer outros componentes situados na vizinhança do aquecedor devem ser protegidos do calor excessivo e contra qualquer risco de contaminação com combustíveis ou óleos.\n\n2.2.2. O aquecedor de combustão não deve constituir um risco de incêndio, mesmo no caso de sobreaquecimento. Considera-se que este requisito é satisfeito se a instalação assegurar uma distância adequada a todos os elementos e uma ventilação adequada, através da utilização de materiais resistentes ao fogo ou de protecções contra o calor.\n\n2.2.3. No caso dos veículos das categorias M2 e M3, o aquecedor não poderá estar instalado no habitáculo. Admite-se, no entanto, a instalação numa caixa convenientemente selada que satisfaça os requisitos do ponto 2.2.2.\n\n2.2.4. O dístico referido no ponto 1.4, ou um duplicado, deve estar colocado numa posição que o torne facilmente visível quando o aquecedor estiver instalado no veículo.\n\n2.2.5. No que respeita à localização do aquecedor, devem ser tomadas as devidas precauções para minimizar o risco de lesões ou danos de bens pessoais.\n\n2.3. Alimentação de combustível\n\n2.3.1. O orifício de abastecimento do depósito de combustível não deve estar situado no habitáculo e deve estar equipado com um tampão eficaz de modo a evitar o derramamento de combustível.\n\n2.3.2. No caso de aquecedores a combustíveis líquidos, se a alimentação de combustível for independente da alimentação do veículo, o tipo de combustível e o seu ponto de abastecimento devem estar claramente identificados.\n\n2.3.3. Junto do ponto de abastecimento deve estar afixada uma mensagem que alerte para o facto de ser indispensável desligar o aquecedor antes do abastecimento. Além disso, o manual de utilização do fabricante deve conter uma instrução no mesmo sentido.\n\n2.4. Sistema de escape\n\n2.4.1. A localização da saída de escape deve ser tal que não haja entrada de emissões no veículo através de ventiladores, entradas de ar aquecido ou janelas de abrir.\n\n2.5. Captação do ar de combustão\n\n2.5.1. O ar destinado à câmara de combustão do aquecedor não poderá ser aspirado do habitáculo do veículo.\n\n2.5.2. A captação de ar deve estar localizada ou protegida de forma a evitar a sua obstrução por detritos ou bagagem.\n\n2.6. Captação do ar de aquecimento\n\n2.6.1. O ar destinado a ser aquecido poderá ser ar fresco ou ar recirculado, mas terá de ser aspirado de uma zona limpa, não susceptível de ser contaminada por fumos de escape emitidos pelo motor de propulsão, elo aquecedor de combustão ou qualquer outra fonte do veículo.\n\n2.6.2. A conduta de captação deve estar protegida por uma rede ou qualquer outro meio adequado.\n\n2.7. Saída do ar de aquecimento\n\n2.7.1. As tubagens eventualmente utilizadas para circular o ar quente pelo veículo devem estar localizadas ou protegidas de forma a evitar lesões ou danos por contacto.\n\n2.7.2. A saída de ar deve estar localizada ou protegida de forma a evitar a sua obstrução por detritos ou bagagem.\n\n2.8. Controlo automático do sistema de aquecimento\n\nO sistema de aquecimento deve desligar-se automaticamente e a alimentação de combustível deve ser interrompida num período máximo de 5 segundos após a interrupção do motor do veículo. Se tiver sido activado um dispositivo manual, o sistema de aquecimento pode manter-se em funcionamento."
+  },
+  "ec2466ab404285df": {
+   "fragment_id": "ANEXO VIII — REQUISITOS DE SEGURANÇA APLICÁVEIS AOS AQUECEDORES DE COMBUSTÃO A GPL",
+   "type": "divisao",
+   "heading": "ANEXO VIII — REQUISITOS DE SEGURANÇA APLICÁVEIS AOS AQUECEDORES DE COMBUSTÃO A GPL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII — REQUISITOS DE SEGURANÇA APLICÁVEIS AOS AQUECEDORES DE COMBUSTÃO A GPL\n\n(Ver anexo II, ponto 3.3., nota 2)"
+  },
+  "a39d294a275ff171": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2001L0056 — PT — 01.11.2014 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32001L0056) [DIRECTIVA 2001/56/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32001L0056) [de 27 de Setembro de 2001](http://publications.europa.eu/resource/celex/32001L0056) [relativa aos sistemas de aquecimento dos veículos a motor e seus reboques, que altera a Directiva 70/156/CEE do Conselho e que revoga a Directiva 78/548/CEE do Conselho](http://publications.europa.eu/resource/celex/32001L0056) (JO L 292, 9.11.2001, p.21)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 661/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0661) — L 200 — 1 — 31.7.2009"
+  }
+ }
+}

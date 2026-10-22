@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004R0850:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0850-20190715",
+ "dre_path": null,
+ "source_lastmod": "2019-07-15",
+ "versions": [
+  {
+   "date": "2019-07-15",
+   "future": false,
+   "celex": "02004R0850-20190715",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "25bb6c89894e080a"
+   ]
+  }
+ ],
+ "fragments": {
+  "25bb6c89894e080a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02004R0850 — PT — 15.07.2019 — 010.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32004R0850) [REGULAMENTO (CE) N.º 850/2004 DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32004R0850) [de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0850) [relativo a poluentes orgânicos persistentes e que altera a Directiva 79/117/CEE](http://publications.europa.eu/resource/celex/32004R0850) (JO L 158, 30.4.2004, p.7)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2019/1021 do Parlamento Europeu e do Conselho de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1021) — L 169 — 45 — 25.6.2019"
+  }
+ }
+}

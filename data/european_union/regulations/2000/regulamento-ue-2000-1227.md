@@ -36,6 +36,53 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-08-01'
+version_history:
+  file: regulamento-ue-2000-1227.versoes.json
+  count: 2
+  source_lastmod: '2008-08-01'
+  versions:
+  - date: '2000-06-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-08-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I — Âmbito de aplicação
+    - Suprime Artigo 1.º
+    - Suprime CAPÍTULO II — Plantação de vinha
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime CAPÍTULO III — Prémios de abandono
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime CAPÍTULO IV — Reestruturação e reconversão
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime CAPÍTULO V — Disposições gerais e relativas à informação
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime CAPÍTULO VI — Disposições transitórias e finais
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime Artigo 24.º
+    - Suprime Artigo 25.º
+    - Suprime Artigo 26.º
+    - Suprime ANEXO — Modelo das comunicações a apresentar no âmbito da aplicação do presente regulamento
 identifiers:
   celex: 32000R1227
   eli: http://data.europa.eu/eli/reg/2000/1227/oj
@@ -50,7 +97,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/bd762a60-a0b3-4618-9c37-e9b7a40e4ea6.0009
   content_url: http://publications.europa.eu/resource/cellar/01d6578a-25aa-46b6-88b3-7935d4e8e841.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R1227-20080801
-  retrieved_at: '2026-10-22T02:37:27Z'
+  retrieved_at: '2026-10-22T14:49:20Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T16:17:47.378+01:00'
 integrity:
@@ -59,9 +106,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:27Z'
-  notes: Texto consolidado 02000R1227-20080801.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:20Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2000-1227.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -259,16 +306,24 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:27Z'
+  checked_at: '2026-10-22T14:49:20Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02000R1227-20010425: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000R1227-20010628: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000R1227-20020801: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000R1227-20021214: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000R1227-20030223: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000R1227-20030401: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000R1227-20030708: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000R1227-20031021: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000R1227-20040801: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000R1227-20050801: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

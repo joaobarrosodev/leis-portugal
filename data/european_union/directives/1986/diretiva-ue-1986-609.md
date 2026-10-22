@@ -35,6 +35,21 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-05-10'
+version_history:
+  file: diretiva-ue-1986-609.versoes.json
+  count: 2
+  source_lastmod: '2013-05-10'
+  versions:
+  - date: '2013-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-05-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 13.º
 identifiers:
   celex: 31986L0609
   eli: http://data.europa.eu/eli/dir/1986/609/oj
@@ -49,7 +64,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cc3a8ccb-5a30-4b6e-8da8-b13348caeb0c.0011
   content_url: http://publications.europa.eu/resource/cellar/a444e78d-1de2-49e9-98c1-a2dab9833632.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01986L0609-20130510
-  retrieved_at: '2026-10-22T02:41:02Z'
+  retrieved_at: '2026-10-22T14:34:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-11-13T09:26:12.972+01:00'
 integrity:
@@ -58,9 +73,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:02Z'
-  notes: Texto consolidado 01986L0609-20130510.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:54Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1986-609.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -128,16 +143,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:02Z'
+  checked_at: '2026-10-22T14:34:54Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01986L0609-19861128: versão indisponível (Sem expressão na língua por para CELEX 01986L0609-19861128.)'
+  - '01986L0609-20030916: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

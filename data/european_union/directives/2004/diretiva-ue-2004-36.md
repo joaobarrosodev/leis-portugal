@@ -35,6 +35,83 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-04-08'
+version_history:
+  file: diretiva-ue-2004-36.versoes.json
+  count: 4
+  source_lastmod: '2012-04-08'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-04-20'
+    amending: eu:celex:32005R2111:por
+    amending_title: REGULAMENTO (CE) N. o 2111/2005 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de Dezembro de 2005; DIRECTIVA
+      2008/49/CE DA COMISSÃO Texto relevante para efeitos do EEE de 16 de Abril de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 15.º
+    - Altera ANEXO II
+    - Adita ANEXO I
+    - Adita Manual de procedimentos CE para as inspecções SAFA na plataforma de estacionamento — Elementos centrais
+    - Adita 1. INSTRUÇÕES GERAIS
+    - Adita 2. QUALIFICAÇÕES DOS INSPECTORES
+    - Adita 3. NORMAS
+    - Adita 4. PROCESSO DE INSPECÇÃO
+    - Adita 5. CATEGORIZAÇÃO DAS CONSTATAÇÕES
+    - Adita 6. ACÇÕES DE SEGUIMENTO
+    - Adita Apenso 1
+    - Adita Relatório da inspecção SAFA na plataforma de estacionamento
+    - Adita Apenso 2
+    - Adita Formulário do certificado de inspecção
+    - Adita Notas
+    - Suprime Artigo 9.º — Imposição de uma proibição ou de condições de exploração
+    - Suprime ANEXO I — >PIC FILE= "L_2004143PT.008202.TIF">
+  - date: '2009-08-07'
+    amending: eu:celex:32009R0596:por
+    amending_title: REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera Artigo 6.º — Protecção e divulgação das informações
+    - Altera Artigo 8.º — Melhoria da segurança e medidas de execução
+    - Altera 2. QUALIFICAÇÕES DOS INSPECTORES
+    - Altera Notas
+    - Adita Artigo 10.º
+    - Adita Artigo 12.º
+    - Suprime Artigo 10.º — Comité
+    - Suprime Artigo 12.º — Alteração dos Anexos
+  - date: '2012-04-08'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Âmbito e objectivo
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Recolha de informações
+    - Suprime Artigo 4.º — Inspecção na plataforma de estacionamento
+    - Suprime Artigo 5.º — Intercâmbio de informações
+    - Suprime Artigo 6.º — Protecção e divulgação das informações
+    - Suprime Artigo 7.º — Imobilização de aeronaves
+    - Suprime Artigo 8.º — Melhoria da segurança e medidas de execução
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º — Transposição
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º — Relatório
+    - Suprime Artigo 14.º — Entrada em vigor
+    - Suprime Artigo 15.º
+    - Suprime ANEXO I
+    - Suprime ANEXO II
+    - Suprime Manual de procedimentos CE para as inspecções SAFA na plataforma de estacionamento — Elementos centrais
+    - Suprime 1. INSTRUÇÕES GERAIS
+    - Suprime 2. QUALIFICAÇÕES DOS INSPECTORES
+    - Suprime 3. NORMAS
+    - Suprime 4. PROCESSO DE INSPECÇÃO
+    - Suprime 5. CATEGORIZAÇÃO DAS CONSTATAÇÕES
+    - Suprime 6. ACÇÕES DE SEGUIMENTO
+    - Suprime Apenso 1
+    - Suprime Relatório da inspecção SAFA na plataforma de estacionamento
+    - Suprime Apenso 2
+    - Suprime Formulário do certificado de inspecção
+    - Suprime Notas
 identifiers:
   celex: 32004L0036
   eli: http://data.europa.eu/eli/dir/2004/36/oj
@@ -49,7 +126,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3c82f641-b105-498c-9ea9-a9f742cc9fae.0010
   content_url: http://publications.europa.eu/resource/cellar/eece1b5a-f57c-4633-b7b4-7f4a898903ac.0018.04/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0036-20120408
-  retrieved_at: '2026-10-22T02:40:36Z'
+  retrieved_at: '2026-10-22T14:57:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-31T08:15:42.351+01:00'
 integrity:
@@ -58,9 +135,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:36Z'
-  notes: Texto consolidado 02004L0036-20120408.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:09Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2004-36.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -157,16 +234,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:36Z'
+  checked_at: '2026-10-22T14:57:09Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02004L0036-20060116: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

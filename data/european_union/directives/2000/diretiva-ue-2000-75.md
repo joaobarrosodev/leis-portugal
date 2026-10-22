@@ -34,6 +34,148 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-07-14'
+version_history:
+  file: diretiva-ue-2000-75.versoes.json
+  count: 8
+  source_lastmod: '2021-07-14'
+  versions:
+  - date: '2000-12-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-12-12'
+    amending: eu:celex:32006D0911:por
+    amending_title: DECISÃO DA COMISSÃO de 5 de Dezembro de 2006; Acto relativo às condições de adesão da República Checa,
+      da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da
+      Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações
+      dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 20.º
+    - Altera Artigo 23.º
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Adita Artigo 11.º
+    - Adita B. FUNÇÕES DOS LABORATÓRIOS NACIONAIS DA FEBRE CATARRAL OVINA
+    - Adita A. LABORATORIO COMUNITARIO DE REFERENCIA DE LA FIEBRE CATARRAL OVINAEF-REFERENCELABORATORIUM FOR BLUETONGUEGEMEINSCHAFTLICHES
+      REFERENZLABORATORIUM FÜR DIE BLAUZUNGENKRANKHEITΚΟΙΝΟΤΙΚΟ ΕΡΓΑΣΤΗΡΙΟ ΑΝΑΦΟΡΑΣ ΓΙΑ ΤΟΝ ΚΑΤΑΡΡΟΪΚΟ ΠΥΡΕΤΟ ΤΟΥ ΠΡΟΒΑΤΟΥCOMMUNITY
+      REFERENCE LABORATORY FOR BLUETONGUELABORATOIRE COMMUNAUTAIRE DE RÉFÉRENCE POUR LA FIÈVRE CATARRHALE DU MOUTONLABORATORIO
+      COMUNITARIO DI RIFERIMENTO PER LA FEBBRE CATARRALE DEGLI OVINICOMMUNAUTAIR REFERENTIELABORATORIUM VOOR BLUETONGUELABORATÓRIO
+      COMUNITÁRIO DE REFERÊNCIA EM RELAÇÃO À FEBRE CATARRAL OVINALAMPAAN BLUETONGUE-TAUTIA VARTEN NIMETTY YHTEISÖN VERTAILULABORATORIOGEMENSKAPENS
+      REFERENSLABORATORIUM FÖR BLUETONGUE
+    - Adita B. FUNÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA DA FEBRE CATARRAL OVINA
+    - Adita ANEXO III
+    - Adita CRITÉRIOS MÍNIMOS PARA A ELABORAÇÃO DOS PLANOS DE INTERVENÇÃO
+    - Adita Notas
+    - Suprime Artigo 11.º — As medidas tomadas em virtude dos artigos 6.o, 8.o, 9.o e 10.o serão alteradas ou revogadas nos
+      termos do n.o 2 do artigo 20.o
+    - Suprime ANEXO III — CRITÉRIOS MÍNIMOS PARA A ELABORAÇÃO DOS PLANOS DE INTERVENÇÃO
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0104:por
+    amending_title: DIRECTIVA 2006/104/CE DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 20.º
+    - Altera ANEXO I
+    - Altera Notas
+  - date: '2007-11-13'
+    amending: eu:celex:32007D0729:por
+    amending_title: DECISÃO DA COMISSÃO de 7 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 20.º
+    - Altera ANEXO I
+    - Altera Notas
+  - date: '2008-09-03'
+    amending: eu:celex:32008L0073:por
+    amending_title: DIRECTIVA 2008/73/CE DO CONSELHO Texto relevante para efeitos do EEE de 15 de Julho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 15.º
+    - Altera Artigo 20.º
+    - Altera ANEXO I
+    - Altera Notas
+  - date: '2012-03-22'
+    amending: eu:celex:32012L0005:por
+    amending_title: DIRETIVA 2012/5/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de março de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 20.º
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0020:por
+    amending_title: DIRETIVA 2013/20/UE DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 20.º
+    - Altera Notas
+    - Adita A. LABORATORIO COMUNITARIO DE REFERENCIA DE LA FIEBRE CATARRAL OVINAEF-REFERENCELABORATORIUM FOR BLUETONGUEGEMEINSCHAFTLICHES
+      REFERENZLABORATORIUM FÜR DIE BLAUZUNGENKRANKHEITΚΟΙΝΟΤΙΚΟ ΕΡΓΑΣΤΗΡΙΟ ΑΝΑΦΟΡΑΣ ΓΙΑ ΤΟΝ ΚΑΤΑΡΡΟΪΚΟ ΠΥΡΕΤΟ ΤΟΥ ΠΡΟΒΑΤΟΥCOMMUNITY
+      REFERENCE LABORATORY FOR BLUETONGUELABORATOIRE COMMUNAUTAIRE DE RÉFÉRENCE POUR LA FIÈVRE CATARRHALE DU MOUTON[►M6](http://publications.europa.eu/resource/celex/32013L0020)
+      REFERENTNI LABORATORIJ ZAJEDNICE ZA BOLEST PLAVOG JEZIKA◄LABORATORIO COMUNITARIO DI RIFERIMENTO PER LA FEBBRE CATARRALE
+      DEGLI OVINICOMMUNAUTAIR REFERENTIELABORATORIUM VOOR BLUETONGUELABORATÓRIO COMUNITÁRIO DE REFERÊNCIA EM RELAÇÃO À FEBRE
+      CATARRAL OVINALAMPAAN BLUETONGUE-TAUTIA VARTEN NIMETTY YHTEISÖN VERTAILULABORATORIOGEMENSKAPENS REFERENSLABORATORIUM
+      FÖR BLUETONGUE
+    - Suprime A. LABORATORIO COMUNITARIO DE REFERENCIA DE LA FIEBRE CATARRAL OVINAEF-REFERENCELABORATORIUM FOR BLUETONGUEGEMEINSCHAFTLICHES
+      REFERENZLABORATORIUM FÜR DIE BLAUZUNGENKRANKHEITΚΟΙΝΟΤΙΚΟ ΕΡΓΑΣΤΗΡΙΟ ΑΝΑΦΟΡΑΣ ΓΙΑ ΤΟΝ ΚΑΤΑΡΡΟΪΚΟ ΠΥΡΕΤΟ ΤΟΥ ΠΡΟΒΑΤΟΥCOMMUNITY
+      REFERENCE LABORATORY FOR BLUETONGUELABORATOIRE COMMUNAUTAIRE DE RÉFÉRENCE POUR LA FIÈVRE CATARRHALE DU MOUTONLABORATORIO
+      COMUNITARIO DI RIFERIMENTO PER LA FEBBRE CATARRALE DEGLI OVINICOMMUNAUTAIR REFERENTIELABORATORIUM VOOR BLUETONGUELABORATÓRIO
+      COMUNITÁRIO DE REFERÊNCIA EM RELAÇÃO À FEBRE CATARRAL OVINALAMPAAN BLUETONGUE-TAUTIA VARTEN NIMETTY YHTEISÖN VERTAILULABORATORIOGEMENSKAPENS
+      REFERENSLABORATORIUM FÖR BLUETONGUE
+  - date: '2021-07-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime ANEXO I
+    - Suprime B. FUNÇÕES DOS LABORATÓRIOS NACIONAIS DA FEBRE CATARRAL OVINA
+    - Suprime ANEXO II
+    - Suprime A. LABORATORIO COMUNITARIO DE REFERENCIA DE LA FIEBRE CATARRAL OVINAEF-REFERENCELABORATORIUM FOR BLUETONGUEGEMEINSCHAFTLICHES
+      REFERENZLABORATORIUM FÜR DIE BLAUZUNGENKRANKHEITΚΟΙΝΟΤΙΚΟ ΕΡΓΑΣΤΗΡΙΟ ΑΝΑΦΟΡΑΣ ΓΙΑ ΤΟΝ ΚΑΤΑΡΡΟΪΚΟ ΠΥΡΕΤΟ ΤΟΥ ΠΡΟΒΑΤΟΥCOMMUNITY
+      REFERENCE LABORATORY FOR BLUETONGUELABORATOIRE COMMUNAUTAIRE DE RÉFÉRENCE POUR LA FIÈVRE CATARRHALE DU MOUTON[►M6](http://publications.europa.eu/resource/celex/32013L0020)
+      REFERENTNI LABORATORIJ ZAJEDNICE ZA BOLEST PLAVOG JEZIKA◄LABORATORIO COMUNITARIO DI RIFERIMENTO PER LA FEBBRE CATARRALE
+      DEGLI OVINICOMMUNAUTAIR REFERENTIELABORATORIUM VOOR BLUETONGUELABORATÓRIO COMUNITÁRIO DE REFERÊNCIA EM RELAÇÃO À FEBRE
+      CATARRAL OVINALAMPAAN BLUETONGUE-TAUTIA VARTEN NIMETTY YHTEISÖN VERTAILULABORATORIOGEMENSKAPENS REFERENSLABORATORIUM
+      FÖR BLUETONGUE
+    - Suprime B. FUNÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA DA FEBRE CATARRAL OVINA
+    - Suprime ANEXO III
+    - Suprime CRITÉRIOS MÍNIMOS PARA A ELABORAÇÃO DOS PLANOS DE INTERVENÇÃO
+    - Suprime Notas
 identifiers:
   celex: 32000L0075
   eli: http://data.europa.eu/eli/dir/2000/75/oj
@@ -48,7 +190,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/eb3d7752-427e-4aad-809a-c582ce9fa192.0009
   content_url: http://publications.europa.eu/resource/cellar/4a68d63f-0669-11ec-b5d3-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0075-20210714
-  retrieved_at: '2026-10-22T02:56:56Z'
+  retrieved_at: '2026-10-22T14:49:12Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T17:36:24.648+01:00'
 integrity:
@@ -57,9 +199,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:56Z'
-  notes: Texto consolidado 02000L0075-20210714.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:12Z'
+  notes: 8 versão(ões); histórico completo em diretiva-ue-2000-75.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -146,16 +288,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:56Z'
+  checked_at: '2026-10-22T14:49:12Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02000L0075-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

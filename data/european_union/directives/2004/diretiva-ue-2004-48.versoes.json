@@ -1,0 +1,434 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004L0048:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0048-20040430",
+ "dre_path": null,
+ "source_lastmod": "2004-04-30",
+ "versions": [
+  {
+   "date": "2004-04-30",
+   "future": false,
+   "celex": "02004L0048-20040430",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5101b63001416304",
+    "226c39ffd0a88dad",
+    "bb751842acb7fc3b",
+    "d0208047805af776",
+    "07fd21d29d771922",
+    "f0f8c960bfdbce9b",
+    "1004ce8d176c475f",
+    "3869c2effa545d25",
+    "7fabed8a0a46afb5",
+    "aa216177c0cfd57f",
+    "3387804826579a37",
+    "640c02b27fbf74ae",
+    "18e5b2282eff7afa",
+    "1dc958d4b3d732bf",
+    "de390625572eee66",
+    "2e2a818afe968a9b",
+    "b426821733183e1b",
+    "aebedfa7e3d681df",
+    "cf32bdbae71e0d77",
+    "b5d7193d82983e30",
+    "788d95faaac9ed66",
+    "f93692fa4c3388fa",
+    "744a62350cf0c0fd",
+    "40d0f05db5afaf27",
+    "7c0161899c27745a",
+    "ea8b4f5b7ab1abc8",
+    "573f1305b634ae46",
+    "6b50f1e0d1ff625f",
+    "4e79b1f8ff6ca390",
+    "83ebf704b2c8c683",
+    "ca0b36494085e8fc",
+    "deac5fef93f0e7bd",
+    "8f02ec1355722221",
+    "1e7a0903d2eed348",
+    "b4d6a16312bd34e8",
+    "8c2859be4dc053c4",
+    "1ecfc79da3f1ac7f",
+    "4f829d1957856b31",
+    "f70439960f330734",
+    "d75dbaa0ed361dfc",
+    "cc380c7b1fdbfee7",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "363b6b03841553ef",
+    "f724e57b06b83a34",
+    "05c0c15c739403db"
+   ]
+  }
+ ],
+ "fragments": {
+  "5101b63001416304": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nrelativa ao respeito dos direitos de propriedade intelectual\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "bb751842acb7fc3b": {
+   "fragment_id": "OBJECTO E ÂMBITO DE APLICAÇÃO",
+   "type": "divisao",
+   "heading": "OBJECTO E ÂMBITO DE APLICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTO E ÂMBITO DE APLICAÇÃO"
+  },
+  "d0208047805af776": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente directiva estabelece as medidas, procedimentos e recursos necessários para assegurar o respeito pelos direitos de propriedade intelectual. Para efeitos da presente directiva, a expressão «direitos de propriedade intelectual» engloba os direitos da propriedade industrial."
+  },
+  "07fd21d29d771922": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. Sem prejuízo dos meios já previstos ou que possam vir a ser previstos na legislação comunitária ou nacional e desde que esses meios sejam mais favoráveis aos titulares de direitos, as medidas, procedimentos e recursos previstos na presente directiva são aplicáveis, nos termos do artigo 3.º, a qualquer violação dos direitos de propriedade intelectual previstos na legislação comunitária e/ou na legislação nacional do Estado-Membro em causa.\n\n2. A presente directiva não prejudica as disposições específicas, previstas na legislação comunitária, relativas ao respeito pelos direitos e às excepções no domínio do direito de autor e direitos conexos, nomeadamente na Directiva 91/250/CEE, nomeadamente, no seu artigo 7.º, ou na Directiva 2001/29/CE, nomeadamente, nos seus artigos 2.º a 6.º e 8.º\n\n3.\n\nA presente directiva não prejudica:\n\na) As disposições comunitárias que regulam o direito material da propriedade intelectual, a Directiva 95/46/CE, a Directiva 1999/93/CE, a Directiva 2000/31/CE em geral e o disposto nos artigos 12.º a 15.º desta última em especial;\n\nb) As obrigações decorrentes das convenções internacionais, designadamente do Acordo sobre os Aspectos dos Direitos de Propriedade Intelectual relacionados com o Comércio (Acordo TRIPS), incluindo as que se relacionem com os processos e as sanções penais;\n\nc) As disposições nacionais em vigor nos Estados-Membros em matéria de processos e sanções penais aplicáveis à violação dos direitos de propriedade intelectual."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "1004ce8d176c475f": {
+   "fragment_id": "MEDIDAS, PROCEDIMENTOS E RECURSOS",
+   "type": "divisao",
+   "heading": "MEDIDAS, PROCEDIMENTOS E RECURSOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS, PROCEDIMENTOS E RECURSOS"
+  },
+  "3869c2effa545d25": {
+   "fragment_id": "Secção 1",
+   "type": "divisao",
+   "heading": "Secção 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 1"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "aa216177c0cfd57f": {
+   "fragment_id": "Artigo 3.º — Obrigação geral",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Obrigação geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Obrigação geral\n\n1. Os Estados-Membros devem estabelecer as medidas, procedimentos e recursos necessários para assegurar o respeito pelos direitos de propriedade intelectual abrangidos pela presente directiva. Essas medidas, procedimentos e recursos devem ser justos e equitativos, não devendo ser desnecessariamente complexos ou onerosos, comportar prazos que não sejam razoáveis ou implicar atrasos injustificados.\n\n2. As medidas, procedimentos e recursos também devem ser eficazes, proporcionados e dissuasivos e aplicados de forma a evitar que se criem obstáculos ao comércio lícito e a prever salvaguardas contra os abusos."
+  },
+  "3387804826579a37": {
+   "fragment_id": "Artigo 4.º — Legitimidade para requerer a aplicação das medidas, procedimentos e recursos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Legitimidade para requerer a aplicação das medidas, procedimentos e recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Legitimidade para requerer a aplicação das medidas, procedimentos e recursos\n\n1.\n\nOs Estados-Membros reconhecem legitimidade para requerer a aplicação das medidas, procedimentos e recursos referidos no presente Capítulo, às seguintes pessoas:\n\na) Titulares de direitos de propriedade intelectual, nos termos da legislação aplicável,\n\nb) Todas as outras pessoas autorizadas a utilizar esses direitos, em particular os titulares de licenças, na medida do permitido pela legislação aplicável e nos termos da mesma,\n\nc) Os organismos de gestão coletiva dos direitos de propriedade intelectual regularmente reconhecidos como tendo o direito de representar os titulares de direitos de propriedade intelectual, na medida do permitido pela legislação aplicável e nos termos da mesma.\n\nd) Os organismos de defesa da profissão regularmente reconhecidos como tendo o direito de representar os titulares de direitos de propriedade intelectual, na medida do permitido pela legislação aplicável nos termos da mesma."
+  },
+  "640c02b27fbf74ae": {
+   "fragment_id": "Artigo 5.º — Presunção de autoria ou da posse",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Presunção de autoria ou da posse",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Presunção de autoria ou da posse\n\nPara efeitos das medidas, procedimentos e recursos previstos na presente directiva,\n\na) A fim de que, na falta de prova em contrário, o autor de uma obra literária ou artística seja considerado como tal e, por conseguinte, tenha direito a intentar um processo por violação, será considerado suficiente que o seu nome apareça na obra do modo habitual;\n\nb) O disposto na alínea a) é aplicável *mutatis mutandis* aos titulares de direitos conexos com o direito de autor, relativamente à matéria sujeita a protecção."
+  },
+  "18e5b2282eff7afa": {
+   "fragment_id": "Secção 2",
+   "type": "divisao",
+   "heading": "Secção 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 2"
+  },
+  "1dc958d4b3d732bf": {
+   "fragment_id": "Provas",
+   "type": "divisao",
+   "heading": "Provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Provas"
+  },
+  "de390625572eee66": {
+   "fragment_id": "Artigo 6.º — Prova",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prova\n\n1. Os Estados-Membros devem garantir que, a pedido da parte que tiver apresentado provas razoavelmente disponíveis e suficientes para fundamentar as suas alegações e especificado as provas susceptíveis de as apoiar que se encontram sob o controlo da parte contrária, as autoridades judiciais competentes podem ordenar que esses elementos de prova sejam apresentados pela parte contrária, desde que a protecção das informações confidenciais seja salvaguardada. Para efeitos do presente número, os Estados-Membros podem estabelecer que as autoridades judiciais competentes considerem que uma amostra razoável de um número substancial de cópias de uma obra ou de qualquer outro objecto protegido constitui um elemento de prova razoável.\n\n2. Nas mesmas condições e em caso de violação à escala comercial, os Estados-Membros devem tomar as medidas necessárias para permitir que, se necessário e a pedido de uma das partes, as autoridades judiciais competentes ordenem a apresentação de documentos bancários, financeiros ou comerciais que se encontrem sob o controlo da parte contrária, desde que a protecção das informações confidenciais seja salvaguardada."
+  },
+  "2e2a818afe968a9b": {
+   "fragment_id": "Artigo 7.º — Medidas de preservação da prova",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Medidas de preservação da prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Medidas de preservação da prova\n\n1. Antes de se intentar uma acção relativa ao mérito da causa, os Estados-Membros devem garantir que as autoridades judiciais competentes possam, a pedido de uma parte que tenha apresentado provas razoavelmente disponíveis para fundamentar as alegações de que o seu direito de propriedade intelectual foi ou está prestes a ser violado, ordenar medidas provisórias prontas e eficazes para preservar provas relevantes da alegada violação, desde que a protecção das informações confidenciais seja salvaguardada. Essas medidas podem incluir, a descrição pormenorizada, com ou sem recolha de amostras, a apreensão efectiva dos bens litigiosos e, sempre que adequado, dos materiais e instrumentos utilizados na produção e/ou distribuição desses bens e dos documentos a eles referentes. Essas medidas devem ser tomadas, se necessário, sem ouvir a outra parte, sobretudo sempre que um eventual atraso possa causar danos irreparáveis ao titular do direito ou quando exista um risco demonstrável de destruição da prova.\n\nQuando as medidas de protecção da prova tenham sido adoptadas sem ouvir a outra parte, esta será avisada do facto, imediatamente após a execução das medidas. A pedido do requerido, proceder-se-á a uma revisão, que incluirá o direito de audição, a fim de se decidir, num prazo razoável após a comunicação das medidas, se as mesmas devem ser alteradas, revogadas ou confirmadas.\n\n2. Os Estados-Membros devem garantir a possibilidade de as medidas de protecção da prova dependerem da constituição de uma garantia ou outra caução equivalente adequada, pelo requerente, destinada a assegurar a eventual indemnização do prejuízo sofrido pelo requerido, nos termos do n.º 4.\n\n3. Os Estados-Membros devem garantir que as medidas de preservação da prova sejam revogadas ou deixem de produzir efeitos, a pedido do requerido, sem prejuízo das indemnizações por perdas e danos que possam ser reclamadas, se o requerente não intentar uma acção relativa ao mérito junto da autoridade judicial competente num prazo razoável, a determinar pela autoridade judicial que ordenar essas medidas, e desde que a legislação do Estado-Membro o permita ou, na falta desta determinação, num prazo não superior a 20 dias úteis ou a 31 dias de calendário, consoante o que for mais longo.\n\n4. Nos casos em que as medidas de preservação da prova tenham sido revogadas ou deixem de produzir efeitos por força de qualquer acção ou omissão do requerente, bem como nos casos em que se venha a verificar posteriormente não ter havido violação ou ameaça de violação de um direito de propriedade intelectual, as autoridades judiciais deverão ter competência para ordenar ao requerente, a pedido do requerido, que pague a este último uma indemnização adequada para reparar qualquer dano causado por essas medidas.\n\n5. Os Estados-Membros podem tomar medidas para proteger a identidade das testemunhas."
+  },
+  "b426821733183e1b": {
+   "fragment_id": "Secção 3",
+   "type": "divisao",
+   "heading": "Secção 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 3"
+  },
+  "aebedfa7e3d681df": {
+   "fragment_id": "Direito de informação",
+   "type": "divisao",
+   "heading": "Direito de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Direito de informação"
+  },
+  "cf32bdbae71e0d77": {
+   "fragment_id": "Artigo 8.º — Direito de informação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Direito de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direito de informação\n\n1.\n\nOs Estados-Membros devem assegurar que, no contexto dos procedimentos relativos à violação de um direito de propriedade intelectual, e em resposta a um pedido justificado e razoável do queixoso, as autoridades judiciais competentes possam ordenar que as informações sobre a origem e as redes de distribuição dos bens ou serviços que violam um direito de propriedade intelectual sejam fornecidas pelo infractor e/ou por qualquer outra pessoa que:\n\na) Tenha sido encontrada na posse de bens litigiosos à escala comercial;\n\nb) Tenha sido encontrada a utilizar serviços litigiosos à escala comercial;\n\nc) Tenha sido encontrada a prestar, à escala comercial, serviços utilizados em actividades litigiosas;\n\nd) Tenha sido indicada pela pessoa referida nas alíneas a), b) ou c) como tendo participado na produção, fabrico ou distribuição desses bens ou na prestação desses serviços.\n\n2.\n\nAs informações referidas no n.º 1 incluem, se necessário:\n\na) Os nomes e endereços dos produtores, fabricantes, distribuidores, fornecedores e outros possuidores anteriores dos bens ou serviços, bem como dos grossistas e dos retalhistas destinatários;\n\nb) Informações sobre as quantidades produzidas, fabricadas, entregues, recebidas ou encomendadas, bem como sobre o preço obtido pelos bens ou serviços em questão.\n\n3.\n\nOs n.^os^ 1 e 2 são aplicáveis, sem prejuízo de outras disposições legislativas ou regulamentares que:\n\na) Confiram ao titular direitos à informação mais extensos;\n\nb) Regulem a utilização em processos cíveis ou penais das informações comunicadas por força do presente artigo;\n\nc) Regulem a responsabilidade por abuso do direito à informação;\n\nd) Confiram a possibilidade de recusar o fornecimento de informações que possa obrigar a pessoa referida no n.º 1 a admitir a sua própria participação ou de familiares próximos na violação de um direito de propriedade intelectual;\n\ne) Regulem a protecção da confidencialidade das fontes de informação ou o tratamento dos dados pessoais."
+  },
+  "b5d7193d82983e30": {
+   "fragment_id": "Secção 4",
+   "type": "divisao",
+   "heading": "Secção 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 4"
+  },
+  "788d95faaac9ed66": {
+   "fragment_id": "Medidas provisórias e cautelares",
+   "type": "divisao",
+   "heading": "Medidas provisórias e cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medidas provisórias e cautelares"
+  },
+  "f93692fa4c3388fa": {
+   "fragment_id": "Artigo 9.º — Medidas provisórias e cautelares",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Medidas provisórias e cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Medidas provisórias e cautelares\n\n1.\n\nOs Estados-Membros devem garantir que as autoridades judiciais competentes possam, a pedido do requerente:\n\na) Decretar contra o infractor presumível uma medida inibitória de qualquer violação iminente de direitos de propriedade intelectual ou de proibição, a título provisório e eventualmente sujeita a quaisquer sanções pecuniárias compulsivas previstas na legislação nacional, da continuação da alegada violação dos referidos direitos, ou fazer depender essa continuação da constituição de garantias destinadas a assegurar a indemnização do titular; pode igualmente ser decretada uma medida inibitória, nas mesmas condições, contra qualquer intermediário cujos serviços estejam a ser utilizados por um terceiro para violar direitos de propriedade intelectual; as medidas inibitórias contra intermediários cujos serviços estejam a ser utilizados por terceiros para violar direitos de autor ou direitos conexos são abrangidas pela Directiva 2001/29/CE;\n\nb) Ordenar a apreensão ou a entrega dos bens que se suspeite violarem direitos de propriedade intelectual, a fim de impedir a sua entrada ou circulação nos circuitos comerciais.\n\n2. Em caso de infracções à escala comercial, os Estados-Membros devem assegurar que, se a parte lesada provar a existência de circunstâncias susceptíveis de comprometer a cobrança de indemnizações por perdas e danos, as autoridades judiciais competentes possam ordenar a apreensão preventiva dos bens móveis e imóveis do alegado infractor, incluindo o congelamento das suas contas bancárias e outros bens. Para o efeito, as autoridades competentes podem ordenar a comunicação de documentos bancários, financeiros ou comerciais, ou o devido acesso às informações pertinentes.\n\n3. Relativamente às medidas a que se referem os n.^os^ 1 e 2, as autoridades judiciais devem ter competência para exigir que o requerente forneça todos os elementos de prova razoavelmente disponíveis, a fim de adquirirem, com suficiente certeza, a convicção de que o requerente é o titular do direito em causa e de que este último é objecto de uma violação actual ou iminente.\n\n4. Os Estados-Membros devem garantir que as medidas provisórias referidas nos n.^os^ 1 e 2 possam, sempre que adequado, ser adoptadas sem audição da parte contrária, em particular quando qualquer atraso possa prejudicar de forma irreparável o titular do direito. Nesse caso, as partes devem ser informadas do facto imediatamente após a execução das medidas.\n\nA pedido do requerido, deve proceder-se a uma revisão, incluindo o direito de ser ouvido, a fim de decidir, num prazo razoável após a notificação das medidas, se estas devem ser alteradas, revogadas ou confirmadas.\n\n5. Os Estados-Membros devem assegurar que as medidas provisórias a que se referem os n.^os^ 1 e 2 sejam revogadas ou deixem de produzir efeitos, a pedido do requerido, se o requerente não intentar uma acção relativa ao mérito junto da autoridade judicial competente, num prazo razoável a determinar pela autoridade judicial que ordenar essas medidas, e desde que a legislação do Estado-Membro o permita ou, na falta dessa determinação, num prazo não superior a vinte dias úteis ou a trinta e um dias de calendário, consoante o que for mais longo.\n\n6. As autoridades judiciais competentes podem sujeitar as medidas provisórias a que se referem os n.^os^ 1 e 2, à constituição, pelo requerente, de garantias ou de outras cauções equivalentes adequadas, destinadas a assegurar a eventual indemnização do prejuízo sofrido pelo requerido, tal como previsto no n.º 7.\n\n7. Quando as medidas provisórias tenham sido revogadas ou deixem de produzir efeitos por força de qualquer acto ou omissão do requerente, bem como nos casos em que se venha a verificar posteriormente não ter havido violação ou ameaça de violação de um direito de propriedade intelectual, as autoridades judiciais deverão ter competência para ordenar ao requerente, a pedido do requerido, que pague a este último uma indemnização adequada para reparar qualquer dano causado por essas medidas."
+  },
+  "744a62350cf0c0fd": {
+   "fragment_id": "Secção 5",
+   "type": "divisao",
+   "heading": "Secção 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 5"
+  },
+  "40d0f05db5afaf27": {
+   "fragment_id": "Medidas decorrentes da decisão de mérito",
+   "type": "divisao",
+   "heading": "Medidas decorrentes da decisão de mérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medidas decorrentes da decisão de mérito"
+  },
+  "7c0161899c27745a": {
+   "fragment_id": "Artigo 10.º — Medidas correctivas",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Medidas correctivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas correctivas\n\n1.\n\nSem prejuízo de quaisquer indemnizações por perdas e danos devidas ao titular do direito em virtude da violação e sem qualquer compensação, os Estados-Membros devem assegurar que as autoridades judiciais competentes possam, a pedido do requerente, ordenar medidas adequadas relativamente aos bens que se tenha verificado violarem o direito de propriedade intelectual, bem como, se for caso disso, relativamente aos materiais e instrumentos que tenham predominantemente servido para a criação ou o fabrico dos bens em causa. Essas medidas incluem:\n\na) A retirada dos circuitos comerciais;\n\nb) A exclusão definitiva dos circuitos comerciais;\n\nc) A destruição.\n\n2. As autoridades judiciais devem ordenar que essas medidas sejam executadas a expensas do infractor, a não ser que sejam invocadas razões específicas que a tal se oponham.\n\n3. Na análise dos pedidos de medidas correctivas, deve-se ter em conta a necessária proporcionalidade entre a gravidade da violação e as sanções ordenadas, bem como os interesses de terceiros."
+  },
+  "ea8b4f5b7ab1abc8": {
+   "fragment_id": "Artigo 11.º — Medidas inibitórias",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Medidas inibitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Medidas inibitórias\n\nOs Estados-Membros devem garantir que, nos casos em que tenha sido tomada uma decisão judicial que constate uma violação de um direito de propriedade intelectual, as autoridades judiciais competentes possam impor ao infractor uma medida inibitória da continuação dessa violação. Quando esteja previsto na legislação nacional, o incumprimento de uma medida inibitória deve, se for caso disso, ficar sujeito à aplicação de uma sanção pecuniária compulsória, destinada a assegurar a respectiva execução. Os Estados-Membros devem garantir igualmente que os titulares dos direitos possam requerer uma medida inibitória contra intermediários cujos serviços sejam utilizados por terceiros para violar direitos de propriedade intelectual, sem prejuízo do n.º 3 do artigo 8.º da Directiva 2001/29/CE."
+  },
+  "573f1305b634ae46": {
+   "fragment_id": "Artigo 12.º — Medidas alternativas",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Medidas alternativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Medidas alternativas\n\nOs Estados-Membros podem estabelecer que, se for caso disso e a pedido da pessoa eventualmente afectada pelas medidas previstas na presente Secção, as autoridades judiciais competentes possam ordenar o pagamento à parte lesada de uma compensação pecuniária, em alternativa à aplicação das medidas previstas na presente Secção, se essa pessoa tiver actuado sem dolo nem negligência e a execução das medidas em questão implicar para ela um dano desproporcionado e a referida compensação pecuniária se afigurar razoavelmente satisfatória para a parte lesada."
+  },
+  "6b50f1e0d1ff625f": {
+   "fragment_id": "Secção 6",
+   "type": "divisao",
+   "heading": "Secção 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 6"
+  },
+  "4e79b1f8ff6ca390": {
+   "fragment_id": "Artigo 13.º — Indemnizações por perdas e danos",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Indemnizações por perdas e danos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Indemnizações por perdas e danos\n\n1. Os Estados-Membros devem assegurar que, a pedido da parte lesada, as autoridades judiciais competentes ordenem ao infractor que, sabendo-o ou tendo motivos razoáveis para o saber, tenha desenvolvido uma actividade ilícita, pague ao titular do direito uma indemnização por perdas e danos adequada ao prejuízo por este efectivamente sofrido devido à violação.\n\nAo estabelecerem o montante das indemnizações por perdas e danos, as autoridades judiciais:\n\na) Devem ter em conta todos os aspectos relevantes, como as consequências económicas negativas, nomeadamente os lucros cessantes, sofridas pela parte lesada, quaisquer lucros indevidos obtidos pelo infractor e, se for caso disso, outros elementos para além dos factores económicos, como os danos morais causados pela violação ao titular do direito; ou\n\nb) Em alternativa à alínea a), podem, se for caso disso, estabelecer a indemnização por perdas e danos como uma quantia fixa, com base em elementos como, no mínimo, o montante das remunerações ou dos direitos que teriam sido auferidos se o infractor tivesse solicitado autorização para utilizar o direito de propriedade intelectual em questão.\n\n2. Quando, sem o saber ou tendo motivos razoáveis para o saber, o infractor tenha desenvolvido uma actividade ilícita, os Estados-Membros podem prever a possibilidade de as autoridades judiciais ordenarem a recuperação dos lucros ou o pagamento das indemnizações por perdas e danos, que podem ser pré-estabelecidos."
+  },
+  "83ebf704b2c8c683": {
+   "fragment_id": "Artigo 14.º — Custas",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Custas\n\nOs Estados-Membros devem assegurar que as custas judiciais e outras despesas, razoáveis e proporcionadas, da parte vencedora no processo, sejam geralmente custeados pela parte vencida, excepto se, por uma questão de equidade, tal não for possível."
+  },
+  "ca0b36494085e8fc": {
+   "fragment_id": "Secção 7",
+   "type": "divisao",
+   "heading": "Secção 7",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 7"
+  },
+  "deac5fef93f0e7bd": {
+   "fragment_id": "Medidas de publicidade",
+   "type": "divisao",
+   "heading": "Medidas de publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medidas de publicidade"
+  },
+  "8f02ec1355722221": {
+   "fragment_id": "Artigo 15.º — Publicação das decisões judiciais",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Publicação das decisões judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Publicação das decisões judiciais\n\nOs Estados-Membros devem assegurar que, no âmbito de acções judiciais por violação de um direito de propriedade intelectual, as autoridades judiciais possam ordenar, a pedido do requerente e a expensas do infractor, medidas adequadas para divulgar todas as informações respeitantes à decisão, nomeadamente a sua afixação e publicação integral ou parcial. Os Estados-Membros podem prever outras medidas de publicidade adicionais adequadas à especificidade das circunstâncias, nomeadamente publicidade notória."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "b4d6a16312bd34e8": {
+   "fragment_id": "SANÇÕES DOS ESTADOS-MEMBROS",
+   "type": "divisao",
+   "heading": "SANÇÕES DOS ESTADOS-MEMBROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SANÇÕES DOS ESTADOS-MEMBROS"
+  },
+  "8c2859be4dc053c4": {
+   "fragment_id": "Artigo 16.º — Sanções dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Sanções dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Sanções dos Estados-Membros\n\nSem prejuízo das medidas, procedimentos e recursos cíveis e administrativos previstos na presente directiva, os Estados-Membros podem aplicar outras sanções adequadas em caso de violação de direitos de propriedade intelectual."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "4f829d1957856b31": {
+   "fragment_id": "CÓDIGOS DE CONDUTA E COOPERAÇÃO ADMINISTRATIVA",
+   "type": "divisao",
+   "heading": "CÓDIGOS DE CONDUTA E COOPERAÇÃO ADMINISTRATIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CÓDIGOS DE CONDUTA E COOPERAÇÃO ADMINISTRATIVA"
+  },
+  "f70439960f330734": {
+   "fragment_id": "Artigo 17.º — Códigos de conduta",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Códigos de conduta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Códigos de conduta\n\nOs Estados-Membros devem promover:\n\na) A elaboração, pelas associações ou organizações empresariais ou profissionais, de códigos de conduta a nível comunitário, destinados a contribuir para o respeito dos direitos de propriedade intelectual, nomeadamente recomendando a utilização, nos discos ópticos, de um código que permita identificar a origem do seu fabrico;\n\nb) A transmissão à Comissão de projectos de códigos de conduta, a nível nacional ou comunitário, e das eventuais avaliações relativas à respectiva aplicação."
+  },
+  "d75dbaa0ed361dfc": {
+   "fragment_id": "Artigo 18.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Avaliação\n\n1. Três anos a contar da data prevista no n.º 1 do artigo 20.º, cada Estado-Membro transmite à Comissão um relatório sobre a aplicação da presente directiva.\n\nA Comissão deve elaborar, nessa base, um relatório sobre a aplicação da presente directiva, incluindo uma avaliação da eficácia das medidas adoptadas e uma apreciação do seu impacto sobre a inovação e o desenvolvimento da sociedade da informação. Este relatório deve ser transmitido ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social Europeu, e acompanhado, se necessário e em função da evolução da ordem jurídica comunitária, de propostas de alteração da presente directiva.\n\n2. Os Estados-Membros devem prestar à Comissão o auxílio e a assistência de que esta instituição possa necessitar para a elaboração do relatório referido no segundo parágrafo do n.º 1."
+  },
+  "cc380c7b1fdbfee7": {
+   "fragment_id": "Artigo 19.º — Troca de informações e correspondentes",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Troca de informações e correspondentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Troca de informações e correspondentes\n\nA fim de promover a cooperação, incluindo a troca de informações, entre os Estados-Membros e entre estes e a Comissão, cada Estado-Membro designa um ou vários correspondentes nacionais para quaisquer questões relacionadas com a aplicação das medidas previstas na presente directiva e comunica os contactos dos correspondentes nacionais aos outros Estados-Membros e à Comissão."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "363b6b03841553ef": {
+   "fragment_id": "Artigo 20.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Transposição\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar até 29 de Abril de 2006. Os Estados-Membros devem informar imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser dela acompanhadas aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "f724e57b06b83a34": {
+   "fragment_id": "Artigo 21.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "05c0c15c739403db": {
+   "fragment_id": "Artigo 22.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  }
+ }
+}

@@ -39,6 +39,43 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-01-28'
+version_history:
+  file: regulamento-ue-2006-1901.versoes.json
+  count: 3
+  source_lastmod: '2019-01-28'
+  versions:
+  - date: '2006-12-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-26'
+    amending: eu:celex:32006R1902:por
+    amending_title: REGULAMENTO (CE) N.O 1902/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 20.º
+    - Altera Artigo 47.º
+    - Altera Artigo 49.º
+    - Altera Artigo 51.º
+    - Altera Artigo 52.º
+    - Altera Artigo 53.º
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 57.º
+    - Altera Notas
+    - Adita DECLARAÇÃO DA COMISSÃO
+  - date: '2019-01-28'
+    amending: eu:celex:32019R0005:por
+    amending_title: REGULAMENTO (EU) 2019/5 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 47.º
+    - Altera Artigo 49.º
+    - Altera Artigo 52.º
+    - Altera Artigo 53.º
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Notas
 identifiers:
   celex: 32006R1901
   eli: http://data.europa.eu/eli/reg/2006/1901/oj
@@ -53,7 +90,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2b688364-769b-4529-ab41-ba530e266466.0017
   content_url: http://publications.europa.eu/resource/cellar/48d24bd5-4c10-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1901-20190128
-  retrieved_at: '2026-10-22T02:47:49Z'
+  retrieved_at: '2026-10-22T15:05:39Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T00:28:43.055+01:00'
 integrity:
@@ -62,9 +99,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:49Z'
-  notes: Texto consolidado 02006R1901-20190128.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:05:39Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2006-1901.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -180,30 +217,19 @@ relationships:
   date: '2018-06-21'
 article_structure:
   article_count: 57
-  section_count: 53
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 54
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:49Z'
+  checked_at: '2026-10-22T15:05:39Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1901/2006 do Parlamento Europeu e do Conselho, de 12 de Dezembro de 2006
-
-> 02006R1901 — PT — 28.01.2019 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006R1902) — [REGULAMENTO (CE) N.O 1902/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1902) — L 378 — 20 — 27.12.2006
-- [►M2](http://publications.europa.eu/resource/celex/32019R0005) — [REGULAMENTO (EU) 2019/5 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018](http://publications.europa.eu/resource/celex/32019R0005) — L 4 — 24 — 7.1.2019
-
-## REGULAMENTO (CE) N.O 1901/2006 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 12 de Dezembro de 2006
 

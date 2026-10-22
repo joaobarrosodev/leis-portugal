@@ -1,0 +1,199 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31976L0160:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0160-20081211",
+ "dre_path": null,
+ "source_lastmod": "2008-12-11",
+ "versions": [
+  {
+   "date": "1976-02-05",
+   "future": false,
+   "celex": "31976L0160",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bbd99388ae14dc3e",
+    "2bf0e0901149ccfc",
+    "312f1d5fdaf47dd5",
+    "13f1127c141b361a",
+    "aa43d4ebedcf7612",
+    "7731a484b787d2b0",
+    "f7acc5f498ae911a",
+    "5e10fff76c2c5e22",
+    "777d526b71cb63b7",
+    "814965bacfdadf08",
+    "c5ca29f8fabfa6e2",
+    "3954d7272c51b2f5",
+    "488e2bad4f394e75",
+    "66a29c6a8d0f448c",
+    "dae4e3e290425fdd",
+    "91a2219fe0225201"
+   ]
+  },
+  {
+   "date": "2008-12-11",
+   "future": false,
+   "celex": "01976L0160-20081211",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "460523496166702c"
+   ]
+  }
+ ],
+ "fragments": {
+  "bbd99388ae14dc3e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 76/160/CEE do Conselho, de 8 de Dezembro de 1975, relativa à qualidade das águas balneares** *Jornal Oficial nº L 031 de 05/02/1976 p. 0001 - 0007 Edição especial grega: Capítulo 15 Fascículo 1 p. 0108 Edição especial espanhola: Capítulo 15 Fascículo 1 p. 0133 Edição especial portuguesa: Capítulo 15 Fascículo 1 p. 0133 Edição especial finlandesa: Capítulo 15 Fascículo 2 p. 0003 Edição especial sueca: Capítulo 15 Fascículo 2 p. 0003*\n\nDIRECTIVA DO CONSELHO de 8 de Dezembro de 1975 relativa à qualidade das águas balneares\n\n(76/160/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100o e 235o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que a protecção do ambiente e da saúde pública torna necessárias a redução da poluição das águas balneares e a sua protecção contra uma degradação posterior;\n\nConsiderando que a realização, no âmbito do funcionamento do mercado comum, dos objectivos da Comunidade nos domínios da melhoria das condições de vida, de um desenvolvimento harmonioso das actividades económicas no conjunto da Comunidade e de uma expansão contínua e equilibrada, torna necessário um controlo das águas balneares;\n\nConsiderando que existem neste domínio disposições legislativas, regulamentares ou administrativas dos Estados-membros que têm incidência directa no funcionamento do mercado comum, mas que nem todos os poderes de acção exigidos nesta matéria foram previstos no Tratado;\n\nConsiderando que o programa de acção das Comunidades Europeias em matéria de ambiente (3) prevê que sejam estabelecidos em comum objectivos de qualidade que fixem as diferentes condições a que um ambiente deve satisfazer e, nomeadamente, a definição de parâmetros válidos para a água, incluindo as águas balneares;\n\nConsiderando que, para se atingirem estes objectivos de qualidade, os Estados-membros devem fixar valores-limite correspondentes a certos parâmetros; que as águas balneares devem estar em conformidade com estes valores num prazo de dez anos após a notificação da presente directiva;\n\nConsiderando que é necessário prever que as águas balneares serão, em certas condições, consideradas conformes aos valores dos parâmetros que lhes dizem respeito, mesmo no caso de uma percentagem de amostras, recolhidas durante a época balnear, não respeitar os limites especificados no anexo;\n\nConsiderando que, a fim de se obter uma certa flexibilidade na aplicação da presente directiva, os Estados-membros devem ter a possibilidade de prever derrogações; que estas derrogações não podem, todavia, negligenciar os imperativos de protecção da saúde pública;\n\nConsiderando que o progresso da técnica impõe uma adaptação rápida das prescrições técnicas definidas no anexo; que é conveniente, para facilitar a execução das medidas necessárias para o efeito, prever um procedimento que estabeleça uma cooperação estreita entre os Estados-membros e a Comissão no âmbito de um Comité para a Adaptação ao Progresso Técnico;\n\nConsiderando que a opinião pública manifesta um interesse crescente pelas questões relativas ao ambiente e à melhoria da sua qualidade; que é, pois, conveniente, informá-la objectivamente sobre a qualidade das águas balneares,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "2bf0e0901149ccfc": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva é relativa à qualidade das águas balneares, com excepção de águas destinadas a usos terapêuticos e das águas de piscinas.\n\n2. Na acepção da presente directiva, entende-se por:\n\na) «Águas balneares» - as águas, no seu total ou em parte, doces, correntes ou estagnadas, assim como a água do mar nas quais o banho:\n\n- é expressamente autorizado pelas autoridades competentes de cada Estado-membro,\n\nou\n\n- não é proíbido e é habitualmente praticado por um número considerável de banhistas;\n\nb) «Zona balnear» o local onde se situam as águas balneares;\n\nc) «Época balnear» o período durante o qual se prevê uma afluência importante de banhistas, tendo em conta os usos locais, incluindo eventuais disposições locais respeitantes à prática de banhos, bem como as condições meteorológicas."
+  },
+  "312f1d5fdaf47dd5": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs parâmetros físico-químicos e microbiológicos aplicáveis às águas balneares constam do anexo que faz parte integrante da presente directiva."
+  },
+  "13f1127c141b361a": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os Estados-membros fixarão, para todas as zonas balneares ou para cada uma delas, os valores aplicáveis às águas balneares no que respeita aos parâmetros indicados no anexo.\n\nNo que respeita aos parâmetros em relação aos quais não constam do anexo nenhuns valores, os Estados-membros podem não fixar valores nos termos do primeiro parágrafo, enquanto os valores numéricos não tiverem sido determinados.\n\n2. Os valores fixados por força do no 1 não podem ser menos rigorosos que os indicados na coluna I do anexo.\n\n3. Sempre que existam valores na coluna G do anexo, com ou sem valor correspondente na coluna I do mesmo anexo, os Estados-membros esforçar-se-ao por respeitá-los como valores-guia, sem prejuízo do disposto no artigo 7o."
+  },
+  "aa43d4ebedcf7612": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Os Estados-membros tomarão as disposições necessárias para que a qualidade das águas balneares satisfaça os valores-limite fixados nos termos do artigo 3o no prazo de dez anos após a notificação da presente Directiva.\n\n2. Os Estados-membros velarão por que, nas zonas balneares que forem criadas pelas autoridades competentes dos Estados-membros após a notificação da presente directiva e que forem especialmente concebidas tendo em vista a prática balnear, sejam respeitados os valores previstos no anexo desde a abertura da zona para a prática balnear. Todavia, nas zonas balneares criadas nos dois anos subsequentes à referida notificação, estes valores podem ser respeitados no fim desse período.\n\n3. Em casos excepcionais, os Estados-membros podem conceber derrogações relativamente ao prazo de dez anos previsto no no 1. As justificações para uma tal derrogação, fundamentadas num plano de gestão das águas na zona em questão, devem ser notificadas à Comissão no mais curto prazo e o mais tardar 6 anos após a notificação da presente Directiva. A Comissão procederá a uma análise pormenorizada destas justificações e, se for caso disso, apresentará ao Conselho propostas adequadas.\n\n4. No que respeita à água do mar nas proximidades das fronteiras e às águas que transpõem fronteiras e afectam a qualidade das águas balneares de outro Estado-membro, serão determinadas concertadamente pelos Estados ribeirinhos as consequências a tirar dos objectivos de qualidade comuns, para as zonas balneares.\n\nA Comissão pode participar nessa concertação."
+  },
+  "7731a484b787d2b0": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Para a aplicação do artigo 4o, as águas balneares serão declaradas em conformidade com os parâmetros que se lhes referem:\n\nse amostras destas águas, recolhidas com a frequência prevista no anexo, num mesmo local, mostrarem que as águas estão conformes aos valores dos parâmetros respeitantes à qualidade da água em questão em:\n\n- 95 % das amostras, no caso dos parâmetros conformes aos especificados na coluna I do anexo,\n\n- 90 % das amostras nos outros casos, excepto para os parâmetros «coliformes totais» e «coliformes fecais», para os quais a percentagem das amostras pode ser de 80 %;\n\ne se, para os 5 %, 10 % ou 20 % das amostras que, segundo o caso, não estão conformes:\n\n- a água não se afastar de mais de 50 % do valor dos parâmetros em questão, com excepção dos parâmetros microbiológicos, o pH e o oxigénio dissolvido,\n\n- as amostras de água recolhidas consecutivamente, com uma frequência estatisticamente adequada, não se afastarem dos valores dos parâmetros correspondentes.\n\n2. Os desvios relativamente aos valores referidos no artigo 3o não são tomados em consideração na dedução das percentagens previstas no no 1 quando são consequência de inundações, catástrofes naturais ou de condições meteorológicas excepcionais."
+  },
+  "f7acc5f498ae911a": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. As autoridades competentes dos Estados-membros realizarão as colheitas de amostras, cuja frequência mínima está fixada no anexo.\n\n2. As amostras serão recolhidas nos locais em que a densidade média diária de banhistas é mais elevada. Serão recolhidas de preferência a 30 centímetros abaixo da superfície da água, com excepção das amostras de óleos minerais que serão recolhidas à superfície. A colheita de amostras deve começar quinze dias antes do início da época balnear.\n\n3. O exame local das condições que prevalecem a montante no caso de águas doces correntes, e das condições ambientes, no caso das águas doces estagnadas e da água do mar, deve ser minuciosamente efectuado e repetido periodicamente tendo em vista determinar os dados geográficos e topográficos, o volume e natureza de todas as descargas poluidoras e potencialmente poluentes, bem como os seus efeitos em função da distância em relação à zona balnear.\n\n4. Se a inspecção efectuada por uma autoridade competente ou a colheita e análise de amostras revelarem a existência ou a probabilidade de descargas de substâncias susceptíveis de diminuir a qualidade da água balnear, será conveniente efectuar colheitas suplementares. Estas colheitas devem ser igualmente efectuadas se existir qualquer outra razão que faça suspeitar de uma diminuição da qualidade da água.\n\n5. Os métodos de análise de referência para os parâmetros considerados são indicados no anexo. Os laboratórios que utilizam outros métodos devem assegurar-se de que os resultados obtidos sejam equivalentes ou comparáveis aos indicados no anexo."
+  },
+  "5e10fff76c2c5e22": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. A aplicação das disposições tomadas por força da presente directiva não pode, em caso algum, ter como efeito o aumento directo ou indirecto da degradação da qualidade actual das águas balneares.\n\n2. Os Estados-membros têm a liberdade de determinar em qualquer momento, para as águas balneares, valores mais rigorosos que os previstos na presente directiva."
+  },
+  "777d526b71cb63b7": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nSão previstas derrogações à presente directiva:\n\na) Para certos parâmetros assinalados com (O) no anexo, devido a circunstâncias meteorológicas excepcionais;\n\nb) Quando as águas balneares estejam sujeitas a um enriquecimento natural em certas substâncias que faça com que sejam excedidos os limites fixados no Anexo I.\n\nEntende-se por enriquecimento natural o processo pelo qual uma determinada massa de água recebe do solo certas substâncias nele contidas, sem intervenção do homem.\n\nAs derrogações previstas no presente artigo não podem em caso algum negligenciar os imperativos de protecção da saúde pública.\n\nQuando um Estado-membro recorre a uma derrogação, deve imediatamente informar desse facto a Comissão, especificando os motivos e os prazos."
+  },
+  "814965bacfdadf08": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nAs modificações necessárias para adaptar a presente directiva ao progresso técnico dizem respeito:\n\n- aos métodos de análise\n\n- aos valores dos parâmetros G e I que constam do anexo.\n\nAs modificações serão adoptadas em conformidade com o procedimento previsto no artigo 11o."
+  },
+  "c5ca29f8fabfa6e2": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. É instituído um Comité para Adaptação ao Progresso Técnico, a seguir denominado «Comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. O Comité estabelece o seu regulamento interno."
+  },
+  "3954d7272c51b2f5": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. No caso em que se faça referência ao procedimento definido no presente artigo, o Comité é convocado pelo seu presidente, quer por iniciativa deste, quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submete ao Comité um projecto das medidas a tomar. O Comité emite o seu parecer sobre este projecto, num prazo que o presidente pode fixar em função da urgência da questão em causa. O Comité delibera por uma maioria de quarenta e um votos, sendo atribuída aos votos dos Estados-membros a ponderação prevista no no 2 do artigo 148o do Tratado. O presidente não participa na votação.\n\n3. a) A Comissão adoptará as medidas propostas sempre que estejam em conformidade com o parecer do Comité;\n\nb) Quando as medidas propostas não estiverem em conformidade com o parecer do Comité ou na falta de parecer, a Comissão submeterá de imediato ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada;\n\nc) Se, decorrido o prazo de 3 meses a contar da apresentação do assunto ao Conselho, este não tiver deliberado, as medidas propostas serão adoptadas pela Comissão."
+  },
+  "488e2bad4f394e75": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva, no prazo de dois anos a contar da sua notificação. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptam no domínio regulado pela presente directiva."
+  },
+  "66a29c6a8d0f448c": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nOs Estados-membros enviarão à Comissão regularmente e, pela primeira vez, quatro anos após a notificação da presente directiva, um relatório de síntese sobre as águas balneares e as suas características mais significativas.\n\nA Comissão publicará, com o acordo prévio do Estado-membro em causa, as informações obtidas sobre a matéria."
+  },
+  "dae4e3e290425fdd": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 8 de Dezembro de 1975.\n\nPelo Conselho\n\nO Presidente\n\nM. PEDINI\n\n(1) JO no C 128 de 9. 6. 1975, p. 13.(2) JO no C 286 de 15. 12. 1975, p. 5.(3) JO no C 112 de 20. 12. 1973, p. 3."
+  },
+  "91a2219fe0225201": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nQUALIDADE EXIGIDA PARA AS ÁGUAS BALNEARES \"\" ID=\"2\">Microbiológicos:\" ID=\"1\">1> ID=\"2\">Coliformes totais /100 ml> ID=\"3\">500> ID=\"4\">10 000> ID=\"5\">bimensal (1)> ID=\"6\" ASSV=\"2\">Fermentação em tubos múltiplos. Subcultura dos tubos positivos em meio de confirmação\n\nDeterminação por NMP (número mais provável)\n\nou filtração através de membrana e cultura em meio apropriado, tal como agar de lactose tergitol, agar de endo, caldo com teepol a 0,4 %, subcultura e identificação de colónias suspeitas\n\nPara os pontos 1 e 2, temperatura de incubação variável, conforme se procura detectar coliformes totais ou coliformes fecais\"> ID=\"1\">2> ID=\"2\">Coliformes fecais /100 ml> ID=\"3\">100> ID=\"4\">2 000> ID=\"5\">bimensal (1)\"> ID=\"1\">3> ID=\"2\">Estreptococos fecais /100 ml> ID=\"3\">100> ID=\"4\">-> ID=\"5\">(2)> ID=\"6\">Método de Litsky\n\nDeterminação por NMP (número mais provável)\n\nou filtração através de membrana. Cultura em meio apropriado\"> ID=\"1\">4> ID=\"2\">Salmonelas /1 l> ID=\"3\">-> ID=\"4\">0> ID=\"5\">(2)> ID=\"6\">Concentração por filtração membrana. Inoculação em meio tipo. Enriquecimento, subcultura em agar de isolamento e identificação\"> ID=\"1\">5> ID=\"2\">Enterovírus PFU/10 ml> ID=\"3\">-> ID=\"4\">0> ID=\"5\">(2)> ID=\"6\">Concentração por filtração, por floculação ou por centrifugação e confirmação\"\" ID=\"2\">Físico-químicos:\" ID=\"1\">6> ID=\"2\">pH> ID=\"3\">-> ID=\"4\">6-9 (0)> ID=\"5\">(2)> ID=\"6\">Electrometria com calibração a pH 7 e 9\"> ID=\"1\" ASSV=\"2\">7> ID=\"2\" ASSV=\"2\">Cor> ID=\"3\">-> ID=\"4\">Sem alteração anormal da cor (0)> ID=\"5\">bimensal (1)> ID=\"6\">Inspecção visual\n\nou\n\nfotometria aos padrões da escala Pt.Co\"> ID=\"3\">-> ID=\"4\">-> ID=\"5\">(2)\"> ID=\"1\" ASSV=\"2\">8> ID=\"2\" ASSV=\"2\">Óleos minerais mg/l> ID=\"3\">-> ID=\"4\">ausência de manchas visíveis à superfície da água e de cheiro> ID=\"5\">bimensal (1)> ID=\"6\">Inspecção visual e olfactiva\n\nou\n\nextracção a partir de um volume suficiente e pesagem do resíduo seco\"> ID=\"3\">& le; 0,3> ID=\"4\">-> ID=\"5\">(2)\"> ID=\"1\" ASSV=\"2\">9> ID=\"2\" ASSV=\"2\">Substâncias tensioactivas que reagem com azul de metileno mg/l (sulfato de laurilo)> ID=\"3\">-> ID=\"4\">ausência de espuma persistente> ID=\"5\">bimensal (1)> ID=\"6\">Inspecção visual\n\nou\n\nespectrofotometria de absorção com azul de metileno\"> ID=\"3\">& le; 0,3> ID=\"4\">-> ID=\"5\">(2)\"> ID=\"1\" ASSV=\"2\">10> ID=\"2\" ASSV=\"2\">Fenoís (indices de fenóis) mg/l C6H5OH> ID=\"3\">-> ID=\"4\">ausência de cheiro específico> ID=\"5\">bimensal (1)> ID=\"6\">Verificação da ausência de cheiro específico devido ao fenol\n\nou\n\nespectrofotometria de absorção. Método da 4-aminoantipirina (4 A.A.P.)\"> ID=\"3\">& le; 0,005> ID=\"4\">& le; 0,05> ID=\"5\">(2)\"> ID=\"1\">11> ID=\"2\">Transparência m> ID=\"3\">2> ID=\"4\">1 (0)> ID=\"5\">bimensal (1)> ID=\"6\">Disco de Secchi\"> ID=\"1\">12> ID=\"2\">Oxigénio dissolvido % saturação de O2> ID=\"3\">80-120> ID=\"4\">-> ID=\"5\">(2)> ID=\"6\">Método de Winkler ou método electrométrico (oxigenómetro)\"> ID=\"1\">13> ID=\"2\">Resíduos de alcatrão e materias flutuantes tais como madeira, plastico, garrafas, recipientes de vidro, de plastico, de borracha ou de outro material. Detritos ou fragmentos> ID=\"3\">ausência> ID=\"5\">bimensal (1)> ID=\"6\">Inspecção visual\"> ID=\"1\">14> ID=\"2\">Amoníaco mg/l NH4> ID=\"5\">(3)> ID=\"6\">Espectrofotometria de absorção com reagente de Nesseler, ou método com azul de indofenol\"> ID=\"1\">15> ID=\"2\">Azoto Kjeldahl mg/l N> ID=\"5\">(3)> ID=\"6\">Método de Kjeldahl\"\" ID=\"2\">Outras substâncias consideradas como indicadoras de poluição:\" ID=\"1\">16> ID=\"2\">Pesticidas (paratião, HCH, dieldrina) mg/l> ID=\"5\">(2)> ID=\"6\">Extracção por solventes apropriados e determinação por cromatografia\"> ID=\"1\" ASSV=\"5\">17> ID=\"2\">Metais pesados tais como:\n\nArsénio mg/l As> ID=\"6\" ASSV=\"5\" ACCV=\"5.5.6\">Absorção atómica eventualmente precedida de uma extracção\"> ID=\"2\">Cádmio Cd\"> ID=\"2\">Crómio Cr VI> ID=\"5\">(2)\"> ID=\"2\">Chumbo Pb\"> ID=\"2\">Mercurio Hg\"> ID=\"1\">18> ID=\"2\">Cianetos mg/l Cn> ID=\"5\">(2)> ID=\"6\">Espectrofotometria de absorção com reagente especifico\"> ID=\"1\">19> ID=\"2\">Nitratos e fosfatos mg/l NO3 PO4> ID=\"5\">(3)> ID=\"6\">Espectrofotometria de absorção com reagente especifico\"\">G = valor guia.\n\nI = valor imperativo.>\n\n(0) Os limites fixados podem ser excedidos no caso de condições geográficas ou meteorológicas excepcionais.\n\n(1) Quando uma amostragem efectuada em anos anteriores tenha dado resultados sensivelmente melhores que os especificados neste Anexo e não se verificando nenhum fenómeno susceptível de provocar uma degradação da qualidade da água, as autoridades competentes podem reduzir a frequência de amostragem de um factor 2.\n\n(2) Este teor deve ser verificado pelas autoridades competentes quando um inquérito local na zona balnear revele a sua presença ou que a qualidade da água se deteriorou.\n\n(3) Estes parâmetros devem ser verificados pelas autoridades competentes sempre que haja tendência para a eutroficação das águas."
+  },
+  "460523496166702c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1976L0160 — PT — 11.12.2008 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/376L0160) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/376L0160) [de 8 de Dezembro de 1975](http://publications.europa.eu/resource/celex/376L0160) [relativa à qualidade das águas balneares](http://publications.europa.eu/resource/celex/376L0160) [(76/160/CEE)](http://publications.europa.eu/resource/celex/376L0160) (JO L 031, 5.2.1976, p.1)\n\n**revogado por:**"
+  }
+ }
+}

@@ -1,0 +1,390 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989R3906:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989R3906-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "1989-12-23",
+   "future": false,
+   "celex": "31989R3906",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a45e081345c5b1c7",
+    "78424da54d83fd00",
+    "6c670d3b1566de8e",
+    "a4cba0ee530a6e26",
+    "b9890cf345165ff2",
+    "93859bfcc154b9ea",
+    "a36457a3ab411057",
+    "2d142c7b4825c50a",
+    "58d2dc197f029228",
+    "a1b829d259e8e973",
+    "716e915829bd36cf",
+    "aa353a2473e83606"
+   ]
+  },
+  {
+   "date": "2005-01-02",
+   "future": false,
+   "celex": "01989R3906-20050102",
+   "acts": [
+    {
+     "id": "eu:celex:31990R2698:por",
+     "title": "REGULAMENTO (CEE) N. o 2698/90 DO CONSELHO de 17 de Setembro de 1990",
+     "published": null,
+     "celex": "31990R2698"
+    },
+    {
+     "id": "eu:celex:31991R3800:por",
+     "title": "M2",
+     "published": null,
+     "celex": "31991R3800"
+    },
+    {
+     "id": "eu:celex:31992R2334:por",
+     "title": "M3",
+     "published": null,
+     "celex": "31992R2334"
+    },
+    {
+     "id": "eu:celex:31993R1764:por",
+     "title": "M4",
+     "published": null,
+     "celex": "31993R1764"
+    },
+    {
+     "id": "eu:celex:31995R1366:por",
+     "title": "M5",
+     "published": null,
+     "celex": "31995R1366"
+    },
+    {
+     "id": "eu:celex:31996R0463:por",
+     "title": "M6",
+     "published": null,
+     "celex": "31996R0463"
+    },
+    {
+     "id": "eu:celex:31996R0753:por",
+     "title": "M7",
+     "published": null,
+     "celex": "31996R0753"
+    },
+    {
+     "id": "eu:celex:31999R1266:por",
+     "title": "M8",
+     "published": null,
+     "celex": "31999R1266"
+    },
+    {
+     "id": "eu:celex:32000R2666:por",
+     "title": "M9",
+     "published": null,
+     "celex": "32000R2666"
+    },
+    {
+     "id": "eu:celex:32001R2500:por",
+     "title": "M10",
+     "published": null,
+     "celex": "32001R2500"
+    },
+    {
+     "id": "eu:celex:32003R0807:por",
+     "title": "REGULAMENTO (CE) N. o 807/2003 DO CONSELHO de 14 de Abril de 2003",
+     "published": null,
+     "celex": "32003R0807"
+    },
+    {
+     "id": "eu:celex:32004R0769:por",
+     "title": "REGULAMENTO (CE) N. o 769/2004 DO CONSELHO de 21 de Abril de 2004",
+     "published": null,
+     "celex": "32004R0769"
+    },
+    {
+     "id": "eu:celex:32004R2257:por",
+     "title": "REGULAMENTO (CE) N. o 2257/2004 DO CONSELHO de 20 de Dezembro de 2004",
+     "published": null,
+     "celex": "32004R2257"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita ANEXO",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º"
+   ],
+   "fragments": [
+    "e6bdc15a738a12e7",
+    "ec1d6cc23c05d8f5",
+    "321e859f50d57d50",
+    "07e7ed299a0cf704",
+    "2ebb6ce2e0510c23",
+    "e039070d0daae344",
+    "3e1aea8e6641455d",
+    "ce558695e52a9301",
+    "2c4588241afff85d",
+    "789422c8b6f3e5a5",
+    "6263c23cff5d36d0",
+    "b4f4bc11c2368c33",
+    "efa2b9ceae2260c3"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01989R3906-20070101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "239e4f43de8dff1f"
+   ]
+  }
+ ],
+ "fragments": {
+  "a45e081345c5b1c7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 3906/89 do Conselho, de 18 de Dezembro de 1989, relativo à ajuda económica a favor da República da Hungria e da República Popular da Polónia** *Jornal Oficial nº L 375 de 23/12/1989 p. 0011 - 0012 Edição especial finlandesa: Capítulo 11 Fascículo 15 p. 0172 Edição especial sueca: Capítulo 11 Fascículo 15 p. 0172*\n\n*****\n\nREGULAMENTO (CEE) Nº 3906/89 DO CONSELHO\n\nde 18 de Dezembro de 1989\n\nrelativo à ajuda económica a favor da República da Hungria e da República Popular da Polónia\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 235º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nConsiderando que a Comunidade e os seus Estados-membros decidiram empreender um esforço concertado com certos países terceiros, a fim de conduzir acções destinadas a apoiar o processo de reforma económica e social em curso na Hungria e na Polónia;\n\nConsiderando que a Comunidade celebrou acordos de comércio e de cooperação comercial e económica com a República da Hungria e com a República Popular da Polónia;\n\nConsiderando que é necessário que a Comunidade disponha dos meios necessários à condução das referidas acções;\n\nConsiderando que é necessário definir os domínios em que devem ser empreendidas acções;\n\nConsiderando que é necessário proceder a uma estimativa do montante dos meios financeiros comunitários necessários à realização desta acção para o ano de 1990;\n\nConsiderando que a realização de tais acções é de natureza a contribuir para a realização dos objectivos da Comunidade e que, para a acção em questão, o Tratado não prevê outros poderes para além dos do artigo 235º,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "78424da54d83fd00": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA Comunidade empreenderá uma acção de ajuda económica a favor da República da Hungria e da República Popular da Polónia, de acordo com os critérios previstos no presente regulamento."
+  },
+  "6c670d3b1566de8e": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nO montante dos recursos financeiros comunitários considerado necessário para a realização da acção instituída pelo presente regulamento eleva-se a 300 milhões de ecus, para o período que termina em 31 de Dezembro de 1990."
+  },
+  "a4cba0ee530a6e26": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. A ajuda será prioritariamente utilizada para o apoio ao processo de reforma na Polónia e na Hungria, especialmente mediante o financiamento ou a participação no financiamento dos projectos que tenham por objecto a reestruturação económica.\n\nEstes projectos ou acções de cooperação devem nomeadamente incidir nos domínios da agricultura, da indústria, dos investimentos, da energia, da formação e da protecção do ambiente, bem como do comércio e dos serviços; devem beneficiar, em especial, o sector privado da Hungria e da Polónia.\n\n2. A escolha das acções a financiar com base no presente regulamento será feita tendo em conta as preferências e os desejos manifestados pelos países beneficiários em questão."
+  },
+  "b9890cf345165ff2": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nA ajuda será concedida pela Comunidade, quer de modo autónomo quer em co-financiamento com Estados-membros, com o Banco Europeu de Investimento, com países terceiros, com organismos multilaterais ou com os próprios países beneficiários."
+  },
+  "93859bfcc154b9ea": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nA ajuda da Comunidade assumirá, regra geral, a forma de ajudas não reembolsáveis. Estas ajudas podem gerar fundos utilizáveis no financiamento de projectos ou de acções de cooperação."
+  },
+  "a36457a3ab411057": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. A ajuda pode cobrir as despesas de importação, bem como as despesas locais necessárias à realização dos projectos e dos programas.\n\nOs impostos, direitos e taxas, bem como o preço de compra de terrenos, estão excluídos do financiamento comunitário.\n\n2. As despesas de manutenção e funcionamento podem ser tomadas a cargo quanto aos programas de formação e de investigação e demais projectos, entendendo-se que, relativamente a estes últimos, a tomada a cargo apenas pode ocorrer na fase de arranque e de modo degressivo.\n\n3. No entanto, em caso de co-financiamento, serão considerados, em cada caso, os procedimentos aplicados na matéria pelos demais financiadores."
+  },
+  "2d142c7b4825c50a": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. No tocante às intervenções superiores a 50 000 ecus relativamente às quais a Comunidade seja a única fonte de ajuda externa, a participação em concursos públicos, adjudicações, contratos de direito público e contratos em geral será aberta, em igualdade de condições, a todas as pessoas singulares e colectivas dos Estados-membros, da Polónia e da Hungria.\n\n2. O disposto no número anterior é igualmente aplicável aos co-financiamentos.\n\n3. Todavia, em caso de co-financiamento, a participação de países terceiros em concursos públicos, adjudicações, contratos de direito público, e contratos em geral só pode ser autorizada pela Comissão após exame caso a caso."
+  },
+  "58d2dc197f029228": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nA Comissão assegurará a gestão da ajuda tendo em conta o procedimento definido no artigo 9º As orientações gerais a que será sujeita a ajuda e os programas sectoriais serão adoptadas segundo o mesmo procedimento."
+  },
+  "a1b829d259e8e973": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. É criado junto da Comissão um comité consultivo da ajuda à reestruturação económica da Polónia e da Hungria, composto por representantes dos Estados-membros e presidido pelo representante da Comissão. Participará nos trabalhos do comité um observador do Banco Europeu de Investimento, quando os assuntos lhe digam respeito.\n\n2. O representante da Comissão submeterá à apreciação do Comité um projecto das medidas a tomar. O Comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no seio do Comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\n3. A Comissão adoptará medidas que são imediatamente aplicáveis. Todavia, se tais medidas não forem conformes ao parecer emitido pelo Comité, serão imediatamente comunicadas pela Comissão ao Conselho. Neste caso, a Comissão difere a aplicação das medidas que aprovou por um prazo de seis semanas.\n\nO Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo previsto no primeiro parágrafo."
+  },
+  "716e915829bd36cf": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nA partir de 1990, a Comissão elaborará anualmente um relatório de execução das acções de cooperação. Este relatório será apresentado ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social."
+  },
+  "aa353a2473e83606": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 18 de Dezembro de 1989.\n\nPelo Conselho\n\nO Presidente\n\nR. DUMAS\n\n(1) Parecer emitido em 14 de Dezembro de 1989 (ainda não publicado no Jornal Oficial)."
+  },
+  "e6bdc15a738a12e7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Dezembro de 1989\n\nrelativo à ajuda económica a favor de certos países da Europa Central e Oriental\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 235.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/de201832-8b63-4a86-9b35-3b2d011d77e6.0017.03/DOC_1#E0001)),\n\nConsiderando que a Comunidade e os seus Estados-membros decidiram empreender um esforço concertado com certos países terceiros, a fim de conduzir acções destinadas a apoiar o processo de reforma económica e social em curso na Hungria e na Polónia;\n\nConsiderando que a Comunidade celebrou acordos de comércio e de cooperação comercial e económica com a República da Hungria e com a República Popular da Polónia;\n\nConsiderando que é necessário que a Comunidade disponha dos meios necessários à condução das referidas acções;\n\nConsiderando que é necessário definir os domínios em que devem ser empreendidas acções;\n\nConsiderando que é necessário proceder a uma estimativa do montante dos meios financeiros comunitários necessários à realização desta acção para o ano de 1990;\n\nConsiderando que a realização de tais acções é de natureza a contribuir para a realização dos objectivos da Comunidade e que, para a acção em questão, o Tratado não prevê outros poderes para além dos do artigo 235.º,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ec1d6cc23c05d8f5": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Comunidade empreenderá uma acção de ajuda económica a favor dos países da Europa Central e Oriental enumerados no anexo, de acordo com os critérios previstos no presente regulamento."
+  },
+  "321e859f50d57d50": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. A ajuda será prioritariamente utilizada para o apoio ao processo de reforma [**►M1**](http://publications.europa.eu/resource/celex/31990R2698) nos países referidos no artigo 1.º **◄**, especialmente mediante o financiamento ou a participação no financiamento dos projectos que tenham por objecto a reestruturação económica.\n\nEstes projectos ou acções de cooperação devem nomeadamente incidir nos domínios da agricultura, da indústria, dos investimentos, da energia, da formação e da protecção do ambiente, bem como do comércio e dos serviços; devem beneficiar, em especial, o sector privado [**►M1**](http://publications.europa.eu/resource/celex/31990R2698) dos países referidos no artigo 1.º **◄**.\n\nA ajuda pode igualmente ser utilizada para acções de ajuda humanitária.\n\n2. A escolha das acções a financiar com base no presente regulamento será feita tendo em conta as preferências e os desejos manifestados pelos países beneficiários em questão.\n\n3. No que se refere aos países candidatos com parcerias de adesão com a União Europeia, os financiamentos concedidos no quadro do programa PHARE concentrar-se-ão nas principais prioridades tendo em vista a adopção do acervo comunitário, nomeadamente o reforço das capacidades administrativas e institucionais dos países candidatos à adesão e a promoção dos investimentos, com excepção do tipo de investimentos financiados ao abrigo dos Regulamentos (CE) n.º 1267/1999 do Conselho, de 21 de Junho de 1999, que cria um instrumento estrutural de pré-adesão ([^2^](http://publications.europa.eu/resource/cellar/de201832-8b63-4a86-9b35-3b2d011d77e6.0017.03/DOC_1#E0006)) e (CE) n.º 1268/1999 do Conselho, de 21 de Junho de 1999, relativo ao apoio comunitário a medidas de pré-adesão em matéria de agricultura e de desenvolvimento rural nos países candidatos da Europa Central e Oriental durante o período de pré-adesão ([^3^](http://publications.europa.eu/resource/cellar/de201832-8b63-4a86-9b35-3b2d011d77e6.0017.03/DOC_1#E0007)), desde que estejam reunidas as condições relativas ao financiamento de medidas previstas nesses dois regulamentos. As verbas do PHARE poderão igualmente ser utilizadas para financiar medidas nos domínios do ambiente, dos transportes e do desenvolvimento agrícola e rural que, se bem que de importância menor, sejam indispensáveis à execução dos programas integrados de reestruturação industrial ou de desenvolvimento regional.\n\n4. A assistência pode ser utilizada para financiar a participação dos países beneficiários a título do presente regulamento, em acções de cooperação regional, transfronteiriça e, se necessário, transnacional e inter-regional, entre si e com os Estados-Membros da União Europeia.\n\n5. Sempre que adequado, a assistência pode igualmente ser utilizada para financiar a participação de um país beneficiário em programas regionais a título de outros instrumentos jurídicos."
+  },
+  "07e7ed299a0cf704": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA ajuda será concedida pela Comunidade, quer de modo autónomo quer em co-financiamento com Estados-membros, com o Banco Europeu de Investimento, com países terceiros, com organismos multilaterais ou com os próprios países beneficiários."
+  },
+  "2ebb6ce2e0510c23": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA ajuda da Comunidade assumirá, regra geral, a forma de ajudas não reembolsáveis. Estas ajudas podem gerar fundos utilizáveis no financiamento de projectos ou de acções de cooperação."
+  },
+  "e039070d0daae344": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A ajuda pode cobrir as despesas de importação, bem como as despesas locais necessárias à realização dos projectos e dos programas.\n\nOs impostos, direitos e taxas, bem como o preço de compra de terrenos, estão excluídos do financiamento comunitário.\n\n2. As despesas de manutenção e funcionamento podem ser tomadas a cargo quanto aos programas de formação e de investigação e demais projectos, entendendo-se que, relativamente a estes últimos, a tomada a cargo apenas pode ocorrer na fase de arranque e de modo degressivo.\n\n3. No entanto, em caso de co-financiamento, serão considerados, em cada caso, os procedimentos aplicados na matéria pelos demais financiadores."
+  },
+  "3e1aea8e6641455d": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A participação em concursos e contratos estará aberta, em igualdade de condições, a todas as pessoas singulares e colectivas dos Estados-Membros abrangidas pelo âmbito de aplicação dos Tratados, dos países candidatos à adesão à União Europeia e dos países beneficiários de ajuda ao abrigo do Regulamento (CE) n.º 2666/2000 do Conselho, de 5 de Dezembro de 2000, relativo à ajuda à Albânia, à Bósnia-Herzegovina, à Croácia, à República Federativa da Jugoslávia e à antiga República jugoslava da Macedónia ([^4^](http://publications.europa.eu/resource/cellar/de201832-8b63-4a86-9b35-3b2d011d77e6.0017.03/DOC_1#E0004)). A entidade adjudicante pode, em casos devidamente fundamentados e após exame caso a caso, autorizar a participação de pessoas singulares e colectivas de países terceiros em concursos e contratos.\n\n2. Os fornecimentos devem, dentro do âmbito de aplicação dos Tratados, ser originários dos Estados-Membros, dos países candidatos à adesão à União Europeia ou dos países que beneficiam de ajuda ao abrigo do Regulamento (CE) n.º 2666/2000. Em casos devidamente fundamentados e após exame caso a caso, a entidade adjudicante pode derrogar a esta disposição."
+  },
+  "ce558695e52a9301": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA Comissão assegurará a gestão da ajuda tendo em conta o procedimento definido no artigo 9.º As orientações gerais a que será sujeita a ajuda e os programas sectoriais serão adoptadas segundo o mesmo procedimento.\n\nA Comissão pode, dentro dos limites estabelecidos no artigo 54.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, relativo ao regulamento financeiro aplicável ao orçamento Geral das Comunidades Europeias ([^5^](http://publications.europa.eu/resource/cellar/de201832-8b63-4a86-9b35-3b2d011d77e6.0017.03/DOC_1#E0008)), decidir confiar tarefas inerentes ao poder público, e nomeadamente tarefas ligadas à execução do orçamento, aos organismos enumerados no n.º 2 do artigo 54.º desse regulamento. Aos organismos definidos na alínea c) do n.º 2 do artigo 54.º do Regulamento (CE, Euratom) n.º 1605/2002 podem ser confiadas tarefas inerentes ao poder público se esses organismos forem reconhecidos a nível internacional, observarem os sistemas de gestão e controlo internacionalmente aceites e forem supervisionados por uma autoridade pública."
+  },
+  "2c4588241afff85d": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. A Comissão é assistida pelo Comité de Ajuda à Reestruturação Económica dos Países referidos no artigo 1.º Um observador do Banco Europeu de Investimento participará nos trabalhos do comité quando este debata questões que lhe digam respeito.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE ([^6^](http://publications.europa.eu/resource/cellar/de201832-8b63-4a86-9b35-3b2d011d77e6.0017.03/DOC_1#E0005)).\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de seis semanas.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "789422c8b6f3e5a5": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA partir de 1990, a Comissão elaborará anualmente um relatório de execução das acções de cooperação. Este relatório será apresentado ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social."
+  },
+  "6263c23cff5d36d0": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "b4f4bc11c2368c33": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nBulgária\n\nCroácia\n\nRoménia\n\n---"
+  },
+  "efa2b9ceae2260c3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/de201832-8b63-4a86-9b35-3b2d011d77e6.0017.03/DOC_1#src.E0001)) Parecer emitido em 14 de Dezembro de 1989 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/de201832-8b63-4a86-9b35-3b2d011d77e6.0017.03/DOC_1#src.E0006)) JO L 161 de 26.6.1999, p. 73. (JO L 123 de 27.4.2004, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/de201832-8b63-4a86-9b35-3b2d011d77e6.0017.03/DOC_1#src.E0007)) JO L 161 de 26.6.1999, p. 87. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 769/2004.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/de201832-8b63-4a86-9b35-3b2d011d77e6.0017.03/DOC_1#src.E0004)) JO L 306 de 7.12.2000, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 2415/2001 (JO L 327 de 13.12.2001, p. 3).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/de201832-8b63-4a86-9b35-3b2d011d77e6.0017.03/DOC_1#src.E0008)) JO L 248 de 16.9.2002, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/de201832-8b63-4a86-9b35-3b2d011d77e6.0017.03/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "239e4f43de8dff1f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1989R3906 — PT — 01.01.2007 — 014.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31989R3906) [REGULAMENTO (CEE) N.º 3906/89 DO CONSELHO](http://publications.europa.eu/resource/celex/31989R3906) [de 18 de Dezembro de 1989](http://publications.europa.eu/resource/celex/31989R3906) [relativo à ajuda económica a favor de certos países da Europa Central e Oriental](http://publications.europa.eu/resource/celex/31989R3906) (JO L 375, 23.12.1989, p.11)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1085/2006 do Conselho de 17 de Julho de 2006](http://publications.europa.eu/resource/celex/32006R1085) — L 210 — 82 — 31.7.2006"
+  }
+ }
+}

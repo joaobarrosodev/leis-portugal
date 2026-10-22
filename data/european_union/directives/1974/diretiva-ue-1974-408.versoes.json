@@ -1,0 +1,149 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31974L0408:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01974L0408-20141101",
+ "dre_path": null,
+ "source_lastmod": "2014-11-01",
+ "versions": [
+  {
+   "date": "1974-08-12",
+   "future": false,
+   "celex": "31974L0408",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "80ff52cfd297fbc3",
+    "c011f54a94982820",
+    "23ae77e82f113d23",
+    "6a63046005ec4200",
+    "a721d0b7fbad2d23",
+    "1a37f5a3a8227165",
+    "fef9e8eaca6ac2e8",
+    "be96e17692d42b4d",
+    "fee9d15b55aa6b0d",
+    "a244f77385db16ff",
+    "9605bc08b95138ba"
+   ]
+  },
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "celex": "01974L0408-20141101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime ANEXO II",
+    "Suprime ANEXO III — GENERALIDADES, ESPECIFICAÇÕES GERAIS",
+    "Suprime ANEXO IV — MODELO"
+   ],
+   "fragments": [
+    "ee7fd07f374eac6d"
+   ]
+  }
+ ],
+ "fragments": {
+  "80ff52cfd297fbc3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 74/408/CEE do Conselho, de 22 de Julho de 1974, relativa à aproximação das legislações dos Estados-Membros respeitantes ao arranjo interior dos veículos a motor (resistência dos bancos e da sua fixação)** *Jornal Oficial nº L 221 de 12/08/1974 p. 0001 - 0009 Edição especial finlandesa: Capítulo 13 Fascículo 4 p. 0042 Edição especial grega: Capítulo 13 Fascículo 3 p. 0003 Edição especial sueca: Capítulo 13 Fascículo 4 p. 0042 Edição especial espanhola: Capítulo 13 Fascículo 4 p. 0015 Edição especial portuguesa: Capítulo 13 Fascículo 4 p. 0015*\n\nDIRECTIVA DO CONSELHO de 22 de Julho de 1974 relativa à aproximação das legislações dos Estados-membros respeitantes ao arranjo interior dos veículos a motor (resistência dos bancos e da sua fixação)\n\n(74/408/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social,\n\nConsiderando que as prescrições técnicas exigidas para os veículos a motor pelas legislações nacionais respeitam, nomeadamente, ao arranjo interior para a resistência dos bancos e da sua fixação;\n\nConsiderando que estas prescrições diferem de um Estado-membro para outro; que daí resulta a necessidade de que sejam adoptadas as mesmas prescrições por todos os Estados-membros, quer em complemento, quer em substituição das suas regulamentações actuais, tendo em vista nomeadamente permitir a aplicação, para cada modelo de veículo, do processo de recepção CEE que é objecto da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques (2);\n\nConsiderando que as prescrições comuns respeitantes às partes interiores do habitáculo, à disposição dos comandos, ao tecto, ao encosto e à parte traseira dos bancos foram adoptadas pela Directiva 74/60/CEE do Conselho, de 17 de Dezembro de 1973 (3); que as respeitantes ao arranjo interior relativas ao comportamento do dispositivo de direcção em caso de colisão foram adoptadas pela Directiva 74/297/CEE do Conselho, de 4 de Junho de 1974 (4); que serão adoptadas posteriormente outras prescrições respeitantes ao arranjo interior e nomeadamente as relativas ao apoio de cabeça, à fixação dos cintos de segurança e à identificação dos comandos;\n\nConsiderando que, no que respeita às prescrições técnicas, é oportuno retomar no essencial as adoptadas pela Comissão Económica para a Europa da ONU no seu Regulamento no 17 («prescrições uniformes relativas à homologação de veículos no que respeita à resistência dos bancos e da sua fixação») (5) anexado ao Acordo, de 20 de Março de 1958, respeitante à adopção de condições uniformes de homologação e ao reconhecimento recíproco da homologação dos equipamentos e peças de veículos a motor;\n\nConsiderando que a aproximação das legislações nacionais respeitantes aos veículos a motor implica um reconhecimento recíproco pelos Estados-membros dos controlos efectuados por cada um deles com base nas prescrições comuns; que um tal sistema implica para um bom funcionamento que estas prescrições sejam aplicadas por todos os Estados-membros a partir de uma mesma data,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "c011f54a94982820": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Para efeitos do disposto na presente directiva, entende-se por veículo qualquer veículo a motor destinado a transitar na estrada, com ou sem carroçaria, tendo pelo menos quatro rodas e uma velocidade máxima, por construção, superior a 25 km/h, com excepção dos veículos que se deslocam sobre carris, das máquinas e tractores agrícolas ou florestais, bem como das máquinas de obras públicas.\n\n2. A presente directiva não se aplica nem aos bancos que tenham fixações para cintos de segurança incorporadas, nem aos bancos rebatíveis, nem aos bancos virados para os lados ou para trás."
+  },
+  "23ae77e82f113d23": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros não podem recusar a recepção CEE nem a recepção de âmbito nacional de um veículo por motivos relacionados com a resistência dos bancos e da sua fixação, se esta obedecer às prescrições dos Anexos I e II, quando o veículo pertencer à categoria M1, e às prescrições do Anexo III, quando o veículo pertencer às categorias M2, M3, N1, N2 ou N3. As categorias dos veículos estão definidas no Anexo I da Directiva 70/156/CEE."
+  },
+  "6a63046005ec4200": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros não podem recusar ou proibir a venda, a matrícula, a entrada em circulação ou a utilização dos veículos por motivos relacionados com a resistência dos bancos e da sua fixação, se esta obedecer às prescrições dos Anexos I e II, quando o veículo pertencer à categoria M1, e às prescrições do Anexo III, quando o veículo pertencer às categorias M2, M3, N1, N2 ou N3."
+  },
+  "a721d0b7fbad2d23": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nO Estado-membro que tiver procedido à recepção tomará as medidas necessárias para ser informado de qualquer alteração de um dos elementos ou de uma das características referidas no ponto 2 do Anexo I. As autoridades competentes deste Estado-membro decidirão se devem ser efectuados novos ensaios no modelo de veículo alterado, acompanhados por um novo relatório. Se os ensaios revelarem que as prescrições da presente directiva não foram cumpridas, a alteração não é autorizada."
+  },
+  "1a37f5a3a8227165": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nAs alterações necessárias para adaptar ao progresso técnico as prescrições dos Anexos I, II, III e IV serão adoptadas em conformidade com o procedimento previsto no artigo 13o da Directiva 70/156/CEE."
+  },
+  "fef9e8eaca6ac2e8": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os Estados-membros adoptarão e publicarão, antes de 1 de Março de 1975, as disposições necessárias para darem cumprimento à presente directiva e desse facto informarão imediatamente a Comissão.\n\nAplicarão estas disposições a partir de 1 de Outubro de 1975.\n\n2. A partir da notificação da presente directiva, os Estados-membros devem assegurar que a Comissão seja informada, em tempo útil que lhe permita apresentar as suas observações, de qualquer projecto de disposições de natureza legislativa, regulamentar ou administrativa que tenham a intenção de adoptar no domínio regulado pela presente directiva."
+  },
+  "be96e17692d42b4d": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 22 de Julho de 1974.\n\nPelo Conselho\n\nO Presidente\n\nJ. SAUVAGNARGUES\n\n(1) JO no C 108 de 10. 12. 1973, p. 75.(2) JO no L 42 de 23. 2. 1970, p. 1.(3) JO no L 38 de 11. 2. 1974, p. 2.(4) JO no L 165 de 20. 6. 1974, p. 16.(5) Documento CEE de Genebra.\n\n(E/ECE/324) rev. 1/Add. 16.\n\n(E/ECE/TRANS/505) rev. 1/Add. 16.\n\n(1) ANEXO I\n\nGENERALIDADES, DEFINIÇÕES, PEDIDO DE RECEPÇÃO CEE, RECEPÇÃO CEE, ESPECIFICAÇÕES GERAIS, ENSAIOS, VERIFICAÇÕES, CONFORMIDADE DA PRODUÇÃO\n\n1. GENERALIDADES\n\n1.1. As prescrições do presente anexo só se aplicam aos veículos da categoria M1.\n\n2. DEFINIÇÕES\n\nPara efeitos do disposto na presente directiva, entende-se por:\n\n(2.1.)\n\n2.2. «Modelo de veículo no que respeita à resistência dos bancos e da sua fixação» os veículos a motor que não apresentem entre si diferenças essenciais, nomeadamente quanto aos seguintes pontos:\n\n2.2.1. Estruturas, formas, dimensões e materiais dos bancos.\n\n2.2.2. Tipos e dimensões dos sistemas de regulação e de bloqueamento do encosto.\n\n2.2.3. Tipos e dimensões da fixação do banco e das partes em causa da estrutura do veículo.\n\n2.3. «Fixação» o sistema de fixação do conjunto do banco à estrutura do veículo incluindo as partes em causa da estrutura do veículo.\n\n2.4. «Sistema de regulação» o dispositivo que permite regular o banco ou as suas partes para uma posição sentada do ocupante adaptada à sua morfologia. Este dispositivo de regulação pode permitir nomeadamente:\n\n2.4.1. Uma deslocação longitudinal.\n\n2.4.2. Uma deslocação em altura.\n\n2.4.3. Uma deslocação angular.\n\n2.5. «Sistema de deslocação» um dispositivo que permite uma deslocação angular ou longitudinal, sem posição intermédia fixa, do banco ou de uma das suas partes, para facilitar o acesso dos passageiros.\n\n2.6. «Sistema de bloqueamento» um dispositivo que assegura a manutenção na posição de utilização do banco e das suas partes.\n\n2.7. «Banco rebatível» um banco em que não só o encosto pode ser dobrado para a frente sobre o assento, mas também o assento pode rodar para a frente em relação ao chão.\n\n3. PEDIDO DE RECEPÇÃO CEE\n\n3.1. O pedido de recepção CEE de um modelo de veículo no que respeita à resistência dos bancos e da sua fixação será apresentado pelo fabricante ou pelo seu mandatário.\n\n3.2. O pedido será acompanhado dos documentos abaixo mencionados, em triplicado, e das seguintes indicações:\n\n3.2.1. Descrição pormenorizada do modelo de veículo no que respeita à construção dos bancos, da sua fixação e dos respectivos sistemas de regulação e de bloqueamento.\n\n3.2.2. Desenhos dos bancos, da sua fixação ao veículo e dos respectivos sistemas de regulação e de bloqueamento, a uma escala apropriada, e suficientemente pormenorizados.\n\n3.3. Deve ser apresentado ao serviço técnico encarregado dos ensaios de recepção:\n\n3.3.1. Um veículo representativo do modelo de veículo a recepcionar.\n\n3.3.2. Um conjunto suplementar dos bancos que equipam o veículo, com a sua fixação.\n\n4. RECEPÇÃO CEE\n\n(4.1.)\n\n(4.2.)\n\n4.3. Uma ficha conforme ao modelo que figura no Anexo IV será anexada à ficha de recepção CEE.\n\n(4.4.)\n\n(4.4.1.)\n\n(4.4.2.)\n\n(4.5.)\n\n(4.6.)\n\n5. ESPECIFICAÇÕES GERAIS\n\n5.1. Qualquer sistema de regulação e de deslocação, se existir, deve incluir um sistema de bloqueamento de funcionamento automático.\n\n5.2. O comando para desbloquear o dispositivo referido no ponto 2.5 deve estar colocado no lado exterior do banco, na proximidade da porta. Deve ser fácilmente acessível, mesmo para o ocupante do banco situado imediatamente atrás do banco considerado.\n\n6. ENSAIOS\n\n6.1. Ensaio de resistência do encosto e dos seus sistemas de bloqueamento\n\n6.1.1. Para este ensaio, o encosto, se for regulável, será bloqueado numa posição correspondente à inclinação para trás da linha de referência do tronco do manequim referido no ponto 3 do Anexo II mais próxima de 25 ° em relação à vertical, salvo indicação contrária do fabricante.\n\n6.1.2. Aplica-se à parte superior da estrutura do encosto, por intermédio de um elemento que reproduza o dorso do manequim referido no ponto 3 do Anexo II, uma força na direcção longitudinal, orientada para trás, que produza um momento de 53 mdaN em relação ao ponto H.\n\n6.2. Ensaio de resistência da fixação do banco e dos sistemas de bloqueamento no que respeita ao assento\n\n6.2.1. Estes sistemas devem resistir, em todas as posições sentadas, às forças prescritas no ponto 6.2.2. Contudo, considera-se preenchida esta condição se o ensaio efectuado nas posições referidas no ponto 6.2.5, e, se for caso disso, no ponto 6.2.6, for satisfatório.\n\n6.2.2. Uma força longitudinal horizontal que passe pelo centro de gravidade do banco completo, e igual a 20 vezes o peso do banco completo, será aplicada à estrutura do banco. Procede-se, no mesmo banco, a dois ensaios, sendo a força dirigida uma vez para a frente e uma vez para trás. Se o banco for composto por partes separadas fixadas cada uma delas à estrutura, os ensaios serão efectuados sobre cada parte nas condições acima especificadas. Se o banco for composto por elementos parcialmente fixados à estrutura do veículo e mantidos entre si por algumas das suas partes, os ensaios serão efectuados simultaneamente aplicando, no centro de gravidade de cada parte, as forças correspondentes a cada elemento considerado isoladamente.\n\n6.2.3. Para o ensaio previsto no ponto 6.2.1, é autorizado um reforço da ligação do encosto ao assento, na condição de que as peças de reforço sejam fixadas à estrutura do encosto, ao nível do ponto de aplicação da força e ao ponto da estrutura mais avançada do assento.\n\n6.2.4. As condições fixadas no ponto 6.2.2 podem considerar-se preenchidas se duas forças, cada uma igual a metade da força prescrita, forem aplicadas, ao nível do centro de gravidade, aos elementos laterais de resistência da estrutura do banco.\n\n6.2.5. O banco deve ser ensaiado:\n\n6.2.5.1. Na posição sentada mais avançada do ocupante, com o assento colocado na posição mais alta para a frente quando a força for aplicada para a frente.\n\n6.2.5.2. Na posição sentada mais recuada do ocupante, com o assento na posição mais baixa para trás quando a força for aplicada para trás.\n\n6.2.6. Nos casos especiais em que a disposição dos sistemas de bloqueamento tivesse como resultado que, numa posição diferente da indicada nos pontos 6.2.5.1 e 6.2.5.2, a repartição das forças sobre os sistemas de bloqueamento e sobre a fixação do banco fosse mais desfavorável do que a que resulta das configurações referidas naqueles pontos, repetir-se-ao os ensaios para esta posição do banco.\n\n6.3. Ensaios de resistência dos sistemas de bloqueamento aos efeitos de inércia\n\n6.3.1. Quando uma aceleração longitudinal horizontal com um valor de 20 g for aplicada ao conjunto do banco, para a frente e para trás, não deve verificar-se um desengate dos sistemas de bloqueamento.\n\n6.3.2. Em substituição do ensaio dinâmico previsto no ponto 6.3.1, pode ser aceite um cálculo dos efeitos de inércia sobre todos os elementos dos sistemas de bloqueamento. Para este cálculo não serão consideradas as forças de atrito.\n\n6.4. São permitidos métodos equivalentes de ensaio, na condição de os resultados referidos nos pontos 6.1, 6.2 e 6.3 poderem ser obtidos, quer inteiramente por meio do ensaio de substituição, quer por cálculo a partir dos resultados do ensaio de substituição. Se for utilizado um método diferente do descrito nos pontos 6.1, 6.2 e 6.3, deve ser demonstrada a sua equivalência.\n\n7. VERIFICAÇÕES\n\n7.1. No decurso dos ensaios previstos nos pontos 6.1 e 6.2 não deve ser detectada nenhuma deficiência tanto na estrutura como nos sistemas de fixação, de regulação e de deslocação, assim como nos seus bloqueamentos. Contudo, não é exigido que os sistemas de regulação, de deslocação e de bloqueamento estejam em estado de funcionamento depois destes ensaios. Todavia, o sistema de deslocação referido no ponto 2.5 deve poder ser desbloqueado após o ensaio.\n\n(8.)\n\n9. CONFORMIDADE DA PRODUÇÃO\n\n(9.1.)\n\n9.2. A fim de verificar a conformidade com o modelo recepcionado, proceder-se-á a um número suficiente de controlos por amostragem em veículos de série.\n\n9.3. Regra geral, estas verificações limitam-se a medições dimensionais. Contudo, se necessário, os veículos ou os bancos serão sujeitos aos ensaios relativos às prescrições do ponto 6.\n\n(10.)\n\n(11.)\n\n(1) O texto do presente anexo é análogo no essencial ao do Regulamento no 17 da Comissão Económica para a Europa da ONU; em especial, as subdivisões em pontos são as mesmas; se um ponto do Regulamento no 17 não tiver correspondência no presente anexo, o seu número está indicado, pro memoria, entre parêntesis."
+  },
+  "fee9d15b55aa6b0d": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nPROCESSO A SEGUIR PARA DETERMINAR O PONTO H E O ÂNGULO REAL DE INCLINAÇÃO DO ENCOSTO E CONTROLAR A SUA RELAÇÃO COM O PONTO R E O ÂNGULO PREVISTO DE INCLINAÇÃO DO ENCOSTO\n\n0. GENERALIDADES\n\nAs prescrições do presente anexo só se aplicam aos veículos da categoria M1.\n\n1. DEFINIÇÕES\n\n1.1. Ponto «H»: ver o ponto 1.1 do Anexo IV da Directiva 74/60/CEE.\n\n1.2. Ponto «R»: ver o ponto 1.2 do Anexo IV da Directiva 74/60/CEE.\n\n1.3. Por «ângulo de inclinação do encosto» entende-se a inclinação do encosto em relação à vertical.\n\n1.4. Por «ângulo real de inclinação do encosto» entende-se o ângulo formado pela vertical que passa pelo ponto H e a linha de referência do tronco do corpo humano representado pelo manequim referido no ponto 3.\n\n1.5. Por «ângulo previsto de inclinação do encosto» entende-se o ângulo indicado pelo fabricante que:\n\n1.5.1. Determina o ângulo de inclinação do encosto para a posição de condução ou de utilização normal mais baixa e mais recuada dada a cada um dos bancos pelo fabricante do veículo.\n\n1.5.2. É formado no ponto R pela vertical e pela linha de referência do tronco.\n\n1.5.3. Corresponde teoricamente ao ângulo real de inclinação.\n\n2. DETERMINAÇÃO DOS PONTOS H\n\nVer o ponto 2 do Anexo IV da Directiva 74/60/CEE.\n\n3. CARACTERÍSTICAS DO MANEQUIM\n\nVer o ponto 3 do Anexo IV da Directiva 74/60/CEE.\n\n4. COLOCAÇÃO DO MANEQUIM\n\nVer o ponto 4 do Anexo IV da Directiva 74/60/CEE.\n\n5. RESULTADOS\n\n5.1. Com o manequim colocado em conformidade com o ponto 4, o ponto H e o ângulo real de inclinação do encosto considerado são constituídos pelo ponto H e pelo ângulo de inclinação da linha de referência do tronco do manequim.\n\n5.2. Cada uma das coordenadas do ponto H e o ângulo real de inclinação do encosto serão medidos com a maior precisão possível. O mesmo se aplica às coordenadas dos pontos característicos e bem determinados do habitáculo. As projecções destes pontos num plano vertical longitudinal serão representadas num gráfico, no qual se indicará igualmente o ângulo de inclinação medido.\n\n6. VERIFICAÇÃO DA POSIÇÃO RELATIVA DOS PONTOS R E H E DA RELAÇÃO ENTRE O ÂNGULO PREVISTO E O ÂNGULO REAL DE INCLINAÇÃO DO ENCOSTO DO BANCO\n\n6.1. Os resultados das medições efectuadas em conformidade com o ponto 5.2 para o ponto H e para o ângulo real de inclinação do encosto devem ser comparados com as coordenadas do ponto R e com o ângulo previsto de inclinação do encosto indicados pelo fabricante do veículo.\n\n6.2. A verificação da relação existente entre os dois pontos considera-se satisfatória para a posição sentada em causa se as coordenadas do ponto H estiverem situadas num rectângulo longitudinal cujos lados horizontais e verticais tenham 30 mm e 20 mm respectivamente, e cujas diagonais se interseptem no ponto R. A verificação do ângulo de inclinação do encosto considera-se satisfatória se o ângulo real de inclinação do encosto não se afastar mais de 3 ° do ângulo de inclinação previsto. Se estas condições forem preenchidas, o ponto R e o ângulo de inclinação previsto serão utilizados para o ensaio e, se necessário, o manequim será ajustado para que o ponto H coincida com o ponto R e o ângulo real de inclinação do encosto coincida com o ângulo previsto.\n\n6.3. Se o ponto H ou o ângulo real de inclinação não satisfizer as prescrições do ponto 6.2, proceder-se-á a duas outras determinações do ponto H ou do ângulo de inclinação (três determinações ao todo).\n\nSe os resultados obtidos no decurso de duas destas três operações satisfizerem as prescrições, o resultado do ensaio será considerado não satisfatório.\n\n6.4. Se os resultados de pelo menos duas das três operações não satisfizerem as prescrições do ponto 6.2, o resultado do ensaio será considerado não satisfatório.\n\n6.5. No caso referido no ponto 6.3 e no caso em que a verificação não possa ser efectuada em virtude da ausência de informações sobre a posição do ponto R ou do ângulo previsto de inclinação do encosto, fornecidas pelo fabricante do veículo, a média dos resultados de três determinações pode ser utilizada e considerada como aplicável em todos os casos em que o ponto R ou o ângulo previsto de inclinação do encosto for mencionado na presente directiva.\n\n6.6. Para verificação da posição relativa dos pontos R e H e da relação entre o ângulo previsto e o ângulo real de inclinação do encosto num veículo de produção corrente, o rectângulo mencionado no ponto 6.2 será substituído por um quadrado de 50 mm de lado e o ângulo real de inclinação do encosto não deverá diferir mais de 5 ° do ângulo previsto."
+  },
+  "a244f77385db16ff": {
+   "fragment_id": "ANEXO III — GENERALIDADES, ESPECIFICAÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "ANEXO III — GENERALIDADES, ESPECIFICAÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — GENERALIDADES, ESPECIFICAÇÕES GERAIS\n\n1. GENERALIDADES\n\n1.1. As prescrições do presente anexo aplicam-se aos veículos das categorias M2, M3, N1, N2 ou N3.\n\n2. ESPECIFICAÇÕES GERAIS\n\n2.1. Os bancos e os bancos corridos devem estar solidamente fixados ao veículo.\n\n2.2. Os bancos e os bancos corridos deslizantes devem bloquear-se automaticamente em todas as posições previstas.\n\n2.3. Os encostos reguláveis devem poder ser bloqueados em todas as posições previstas.\n\n2.4. Os bancos e os bancos corridos rebatíveis e os respectivos encostos rebatíveis devem bloquear-se automaticamente na posição normal."
+  },
+  "9605bc08b95138ba": {
+   "fragment_id": "ANEXO IV — MODELO",
+   "type": "divisao",
+   "heading": "ANEXO IV — MODELO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — MODELO\n\nDenominação da autoridade administrativa\n\nANEXO À FICHA DE RECEPÇÃO CEE DE UM MODELO DE VEÍCULO NO QUE RESPEITA À RESISTÊNCIA DOS BANCOS E DA SUA FIXAÇÃO\n\n(no 2 do artigo 4o e artigo 10o da Directiva do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques)\n\nNo de recepção:...\n\n1. Marca de fabrico ou comercial do veículo a motor:...\n\n2. Modelo do veículo:...\n\n3. Nome e morada do fabricante:...\n\n4. Se for caso disso, nome e morada do mandatário do fabricante:...\n\n5. Descrição dos bancos:...\n\n6. Descrição dos sistemas de regulação, de deslocação e de bloqueamento do banco, ou suas partes:...\n\n7. Descrição da fixação do banco:...\n\n8. Veículo apresentado para recepção em:...\n\n9. Serviço técnico encarregado dos ensaios de recepção:...\n\n10. Data do relatório emitido por este serviço:...\n\n11. Número do relatório emitido por este serviço:...\n\n12. A recepção, no que respeita à resistência dos bancos e da sua fixação, é concedida/recusada (1):...\n\n13. Local:...\n\n14. Data:...\n\n15. Assinatura:...\n\n16. São anexados os seguintes documentos, que ostentam o número de recepção acima indicado:\n\n... desenhos, esquemas e planos dos bancos e da sua fixação no veículo, dos sistemas de regulação, de deslocação dos bancos e das suas partes e dos seus bloqueamentos;\n\n... fotografias dos bancos e da sua fixação, dos sistemas de regulação, de deslocação dos bancos e das suas partes e dos seus bloqueamentos.\n\n(1) Riscar o que não interessa."
+  },
+  "ee7fd07f374eac6d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1974L0408 — PT — 01.11.2014 — 007.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31974L0408) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31974L0408) [de 22 de Julho de 1974](http://publications.europa.eu/resource/celex/31974L0408) [relativa aos bancos, suas fixações e aos apoios de cabeça dos veículos a motor](http://publications.europa.eu/resource/celex/31974L0408) [(74/408/CEE)](http://publications.europa.eu/resource/celex/31974L0408) (JO L 221, 12.8.1974, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 661/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0661) — L 200 — 1 — 31.7.2009"
+  }
+ }
+}

@@ -34,6 +34,23 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-06-30'
+version_history:
+  file: diretiva-ue-1989-604.versoes.json
+  count: 2
+  source_lastmod: '2009-06-30'
+  versions:
+  - date: '1989-11-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-06-30'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
 identifiers:
   celex: 31989L0604
   eli: http://data.europa.eu/eli/dir/1989/604/oj
@@ -48,7 +65,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f9eb4159-0e3d-4ddc-b9f3-e955ce28f06d.0011
   content_url: http://publications.europa.eu/resource/cellar/a6d01ae2-ac82-470b-8235-399cde535d36.0005.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0604-20090630
-  retrieved_at: '2026-10-22T02:50:08Z'
+  retrieved_at: '2026-10-22T14:36:01Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T21:17:36.533+01:00'
 integrity:
@@ -57,9 +74,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:50:08Z'
-  notes: Texto consolidado 01989L0604-20090630.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:36:01Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1989-604.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -108,16 +125,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:50:08Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:36:01Z'
+  warnings: []
   errors: []
 ---
 

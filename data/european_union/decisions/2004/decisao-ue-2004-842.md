@@ -36,6 +36,30 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-06-18'
+version_history:
+  file: decisao-ue-2004-842.versoes.json
+  count: 3
+  source_lastmod: '2021-06-18'
+  versions:
+  - date: '2005-10-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-04-01'
+    amending: eu:celex:32016D0320:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2016/320 DA COMISSÃO Texto relevante para efeitos do EEE de 3 de março de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Rotulagem
+    - Altera Artigo 25.º — Variedades geneticamente modificadas
+    - Altera Artigo 39.º — Destinatários
+    - Altera Notas
+  - date: '2021-06-18'
+    amending: eu:celex:32021D0985:por
+    amending_title: M2
+    changes:
+    - Altera Artigo 25.º — Variedades geneticamente modificadas
+    - Altera Notas
 identifiers:
   celex: 32004D0842
   eli: http://data.europa.eu/eli/dec/2004/842/oj
@@ -50,7 +74,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/eb242c02-d5a7-4858-9d85-bcff8a39d60e.0016
   content_url: http://publications.europa.eu/resource/cellar/418b477f-de87-11eb-895a-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004D0842-20210618
-  retrieved_at: '2026-10-22T02:42:36Z'
+  retrieved_at: '2026-10-22T14:56:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-06-04T05:00:17.623+02:00'
 integrity:
@@ -59,9 +83,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:36Z'
-  notes: Texto consolidado 02004D0842-20210618.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:33Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-2004-842.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -148,30 +172,19 @@ relationships:
   date: '2021-01-28'
 article_structure:
   article_count: 39
-  section_count: 7
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 8
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:36Z'
+  checked_at: '2026-10-22T14:56:33Z'
   warnings: []
   errors: []
 ---
 
 # 2004/842/CE: Decisão da Comissão, de 1 de Dezembro de 2004
-
-> 02004D0842 — PT — 18.06.2021 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016D0320) — [DECISÃO DE EXECUÇÃO (UE) 2016/320 DA COMISSÃO de 3 de março de 2016](http://publications.europa.eu/resource/celex/32016D0320) — L 60 — 88 — 5.3.2016
-- [M2](http://publications.europa.eu/resource/celex/32021D0985) — [DECISÃO DE EXECUÇÃO (UE) 2021/985 DA COMISSÃO de 3 de junho de 2021](http://publications.europa.eu/resource/celex/32021D0985) — L 216 — 204 — 18.6.2021
-
-## DECISÃO DA COMISSÃO
 
 de 1 de Dezembro de 2004
 

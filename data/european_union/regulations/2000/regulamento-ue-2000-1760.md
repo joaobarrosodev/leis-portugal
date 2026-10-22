@@ -36,6 +36,143 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-04-21'
+version_history:
+  file: regulamento-ue-2000-1760.versoes.json
+  count: 6
+  source_lastmod: '2021-04-21'
+  versions:
+  - date: '2000-08-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1791:por
+    amending_title: REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006; Acto relativo às condições de adesão
+      da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia,
+      da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca
+      e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 13.º — Normas gerais
+    - Altera Artigo 20.º — Designação das autoridades competentes
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Adita TÍTULO I
+    - Adita Identificação e registo de bovinos
+    - Adita TÍTULO II
+    - Adita Rotulagem da carne de bovino e dos produtos à base de carne de bovino
+    - Adita SECÇÃO I
+    - Adita Regime comunitário de rotulagem obrigatória da carne de bovino
+    - Adita SECÇÃO II
+    - Adita Regime de rotulagem facultativa
+    - Adita SECÇÃO III
+    - Adita Disposições gerais
+    - Adita TÍTULO III
+    - Adita Disposições comuns
+    - Adita ANEXO
+    - Adita Notas
+    - Suprime TÍTULO I — Identificação e registo de bovinos
+    - Suprime TÍTULO II — Rotulagem da carne de bovino e dos produtos à base de carne de bovino
+    - Suprime SECÇÃO I — Regime comunitário de rotulagem obrigatória da carne de bovino
+    - Suprime SECÇÃO II — Regime de rotulagem facultativa
+    - Suprime SECÇÃO III — Disposições gerais
+    - Suprime TÍTULO III — Disposições comuns
+    - Suprime ANEXO — Tabela de correspondência
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 20.º — Designação das autoridades competentes
+    - Altera Artigo 23.º
+    - Altera Notas
+  - date: '2014-07-17'
+    amending: eu:celex:32014R0653:por
+    amending_title: REGULAMENTO (UE) N. o 653/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º — Normas gerais
+    - Altera Artigo 14.º — Derrogações do regime de rotulagem obrigatória
+    - Altera Artigo 15.º — Rotulagem obrigatória da carne de bovino proveniente de países terceiros
+    - Altera Artigo 23.º
+    - Altera Notas
+    - Adita Artigo 4.º — Obrigação de identificar animais
+    - Adita Artigo 4.º-A — Prazo para a aplicação dos meios de identificação
+    - Adita Artigo 4.º-B — Identificação dos animais provenientes de países terceiros
+    - Adita Artigo 4.º-C — Identificação de animais transferidos entre Estados-Membros
+    - Adita Artigo 4.º-D — Remoção, modificação ou substituição dos meios de identificação
+    - Adita Artigo 6.º-A
+    - Adita Artigo 9.º-A — Formação
+    - Suprime Artigo 4.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 10.º
+  - date: '2014-12-13'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 22.º
+    - Altera Notas
+    - Adita Rotulagem facultativa
+    - Adita Artigo 15.º-A — Normas gerais
+    - Adita Artigo 22.º-A — Autoridades competentes
+    - Adita Artigo 22.º-B — Exercício da delegação
+    - Adita Artigo 23.º — Procedimento de comité
+    - Adita Artigo 23.º-A — Relatórios e evolução legislativa
+    - Adita ANEXO –I
+    - Adita MEIOS DE IDENTIFICAÇÃO
+    - Suprime Regime de rotulagem facultativa
+    - Suprime Artigo 16.º — Normas gerais
+    - Suprime Artigo 17.º — Regime de rotulagem facultativa de carne de bovino proveniente de países terceiros
+    - Suprime Artigo 18.º — Sanções
+    - Suprime Artigo 19.º — Normas de execução
+    - Suprime Artigo 20.º — Designação das autoridades competentes
+    - Suprime Artigo 21.º
+    - Suprime Artigo 23.º
+  - date: '2021-04-21'
+    amending: eu:celex:32016R0429:por
+    amending_title: REGULAMENTO (UE) 2016/429 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de março de 2016; ACT concerning the
+      conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia,
+      the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia
+      and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded
+    changes:
+    - Altera preambulo
+    - Altera Artigo 13.º — Normas gerais
+    - Altera Artigo 15.º-A — Normas gerais
+    - Altera Artigo 22.º
+    - Altera Artigo 22.º-B — Exercício da delegação
+    - Altera Artigo 23.º — Procedimento de comité
+    - Altera Notas
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º — Obrigação de identificar animais
+    - Suprime Artigo 4.º-A — Prazo para a aplicação dos meios de identificação
+    - Suprime Artigo 4.º-B — Identificação dos animais provenientes de países terceiros
+    - Suprime Artigo 4.º-C — Identificação de animais transferidos entre Estados-Membros
+    - Suprime Artigo 4.º-D — Remoção, modificação ou substituição dos meios de identificação
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 6.º-A
+    - Suprime Artigo 7.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 9.º-A — Formação
 identifiers:
   celex: 32000R1760
   eli: http://data.europa.eu/eli/reg/2000/1760/oj
@@ -50,7 +187,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c0b254d3-1a9a-46ac-af2b-4243ea07d5ec.0009
   content_url: http://publications.europa.eu/resource/cellar/a3e61ebf-b7d0-11eb-8aca-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R1760-20210421
-  retrieved_at: '2026-10-22T02:36:50Z'
+  retrieved_at: '2026-10-22T14:49:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T14:32:13.365+01:00'
 integrity:
@@ -59,9 +196,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:50Z'
-  notes: Texto consolidado 02000R1760-20210421.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:34Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2000-1760.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -287,36 +424,20 @@ relationships:
   date: '1997-05-14'
 article_structure:
   article_count: 13
-  section_count: 15
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 16
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:50Z'
-  warnings: []
+  checked_at: '2026-10-22T14:49:34Z'
+  warnings:
+  - '02000R1760-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) n.o 1760/2000 do Parlamento Europeu e do Conselho, de 17 de Julho de 2000
-
-> 02000R1760 — PT — 21.04.2021 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32006R1791) — [REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006R1791) — L 363 — 1 — 20.12.2006
-- [M2](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [►M3](http://publications.europa.eu/resource/celex/32014R0653) — [REGULAMENTO (UE) N.º 653/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0653) — L 189 — 33 — 27.6.2014
-- [►M4](http://publications.europa.eu/resource/celex/32016R0429) — [REGULAMENTO (UE) 2016/429 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de março de 2016](http://publications.europa.eu/resource/celex/32016R0429) — L 84 — 1 — 31.3.2016
-
-**Alterado por:**
-
-- [A1](http://publications.europa.eu/resource/celex/12003T%2FACT) — [ACT concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded](http://publications.europa.eu/resource/celex/12003T%2FACT) — L 236 — 33 — 23.9.2003
-
-## REGULAMENTO (CE) N.º 1760/2000 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de Julho de 2000
 

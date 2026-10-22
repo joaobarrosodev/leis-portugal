@@ -34,6 +34,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-09-05'
+version_history:
+  file: diretiva-ue-1986-635.versoes.json
+  count: 1
+  source_lastmod: '2006-09-05'
+  versions:
+  - date: '2006-09-05'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31986L0635
   eli: http://data.europa.eu/eli/dir/1986/635/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c369af21-66bb-4af0-9a81-ffc99e4052fb.0011
   content_url: http://publications.europa.eu/resource/cellar/7f1ba687-0ba2-4d04-b70a-8bb861e9cbbc.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01986L0635-20060905
-  retrieved_at: '2026-10-22T02:39:20Z'
+  retrieved_at: '2026-10-22T14:34:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-27T16:32:43.956+02:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:20Z'
-  notes: Texto consolidado 01986L0635-20060905.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:54Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-1986-635.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -173,31 +182,22 @@ relationships:
   date: '1988-11-23'
 article_structure:
   article_count: 50
-  section_count: 24
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 25
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:20Z'
-  warnings: []
+  checked_at: '2026-10-22T14:34:54Z'
+  warnings:
+  - '01986L0635-19861223: versão indisponível (Sem expressão na língua por para CELEX 01986L0635-19861223.)'
+  - '01986L0635-20011116: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01986L0635-20030717: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 86/635/CEE do Conselho de 8 de Dezembro de 1986
-
-> 1986L0635 — PT — 05.09.2006 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32001L0065) — [DIRECTIVA 2001/65/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de Setembro de 2001](http://publications.europa.eu/resource/celex/32001L0065) — L 283 — 28 — 27.10.2001
-- [►M2](http://publications.europa.eu/resource/celex/32003L0051) — [DIRECTIVA 2003/51/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 18 de Junho de 2003](http://publications.europa.eu/resource/celex/32003L0051) — L 178 — 16 — 17.7.2003
-- [►M3](http://publications.europa.eu/resource/celex/32006L0046) — [DIRECTIVA 2006/46/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14 de Junho de 2006](http://publications.europa.eu/resource/celex/32006L0046) — L 224 — 1 — 16.8.2006
-
-## DIRECTIVA DO CONSELHO
 
 de 8 de Dezembro de 1986
 

@@ -33,6 +33,89 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-01'
+version_history:
+  file: regulamento-ue-1999-1267.versoes.json
+  count: 4
+  source_lastmod: '2007-01-01'
+  versions:
+  - date: '1999-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-02'
+    amending: eu:celex:32001R2382:por
+    amending_title: REGULAMENTO (CE) N. o 2382/2001 DO CONSELHO de 4 de Dezembro de 2001; REGULAMENTO (CE) N. o 2500/2001
+      DO CONSELHO de 17 de Dezembro de 2001; REGULAMENTO (CE) N. o 769/2004 DO CONSELHO de 21 de Abril de 2004; REGULAMENTO
+      (CE) N. o 2257/2004 DO CONSELHO de 20 de Dezembro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definição e objectivo
+    - Altera Artigo 3.º — Recursos financeiros
+    - Altera Artigo 4.º — Repartição indicativa
+    - Altera Artigo 7.º — Apreciação e aprovação das medidas
+    - Altera Artigo 8.º — Autorizações e pagamentos
+    - Altera Artigo 9.º — Gestão e controlo
+    - Altera Artigo 14.º — Comité
+    - Altera Artigo 17.º — Entrada em vigor
+    - Adita Artigo 6.º-A — Adjudicação de contratos
+    - Adita ANEXO I
+    - Adita Conteúdo dos pedidos [n.º 3, alínea a), do artigo 7.º]
+    - Adita ANEXO II
+    - Adita Apreciação das medidas [n.º 3, alínea b), e n.º 4 do artigo 7.º]
+    - Adita ANEXO III
+    - Adita Gestão e controlo financeiros (n.º 5 do artigo 9.º)
+    - Adita ANEXO IV
+    - Adita Acompanhamento e avaliação subsequente (artigo 11.º)
+    - Adita ANEXO V
+    - Adita Relatório anual da Comissão (artigo 12.º)
+    - Adita Notas
+    - Suprime ANEXO I — Conteúdo dos pedidos [n.o 3, alínea a), do artigo 7.o]
+    - Suprime ANEXO II — Apreciação das medidas [n.o 3, alínea b), e n.o 4 do artigo 7.o]
+    - Suprime ANEXO III — Gestão e controlo financeiros (n.o 5 do artigo 9.o)
+    - Suprime ANEXO IV — Acompanhamento e avaliação subsequente (artigo 11.o)
+    - Suprime ANEXO V — Relatório anual da Comissão (artigo 12.o)
+  - date: '2005-12-28'
+    amending: eu:celex:32005R2112:por
+    amending_title: REGULAMENTO (CE) N. o 2112/2005 DO CONSELHO de 21 de Novembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º-A — Adjudicação de contratos
+    - Altera Conteúdo dos pedidos [n.º 3, alínea a), do artigo 7.º]
+    - Altera Notas
+  - date: '2007-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Definição e objectivo
+    - Suprime Artigo 2.º — Medidas elegíveis
+    - Suprime Artigo 3.º — Recursos financeiros
+    - Suprime Artigo 4.º — Repartição indicativa
+    - Suprime Artigo 5.º — Compatibilidade com as políticas comunitárias
+    - Suprime Artigo 6.º — Formas e taxa de assistência
+    - Suprime Artigo 6.º-A — Adjudicação de contratos
+    - Suprime Artigo 7.º — Apreciação e aprovação das medidas
+    - Suprime Artigo 8.º — Autorizações e pagamentos
+    - Suprime Artigo 9.º — Gestão e controlo
+    - Suprime Artigo 10.º — Utilização do euro
+    - Suprime Artigo 11.º — Acompanhamento e avaliação subsequente
+    - Suprime Artigo 12.º — Relatório anual
+    - Suprime Artigo 13.º — Informação e publicidade
+    - Suprime Artigo 14.º — Comité
+    - Suprime Artigo 15.º — Reafectação de recursos
+    - Suprime Artigo 16.º — Disposições finais e transitórias
+    - Suprime Artigo 17.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime Conteúdo dos pedidos [n.º 3, alínea a), do artigo 7.º]
+    - Suprime ANEXO II
+    - Suprime Apreciação das medidas [n.º 3, alínea b), e n.º 4 do artigo 7.º]
+    - Suprime ANEXO III
+    - Suprime Gestão e controlo financeiros (n.º 5 do artigo 9.º)
+    - Suprime ANEXO IV
+    - Suprime Acompanhamento e avaliação subsequente (artigo 11.º)
+    - Suprime ANEXO V
+    - Suprime Relatório anual da Comissão (artigo 12.º)
+    - Suprime Notas
 identifiers:
   celex: 31999R1267
   eli: http://data.europa.eu/eli/reg/1999/1267/oj
@@ -47,7 +130,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/62020d47-ba85-4e6e-8e4c-668d51a27a41.0011
   content_url: http://publications.europa.eu/resource/cellar/bd47041c-a137-4a05-b365-ed536d249657.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R1267-20070101
-  retrieved_at: '2026-10-22T02:56:47Z'
+  retrieved_at: '2026-10-22T14:48:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T19:39:38.270+01:00'
 integrity:
@@ -56,9 +139,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:47Z'
-  notes: Texto consolidado 01999R1267-20070101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:14Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-1999-1267.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -146,16 +229,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:47Z'
+  checked_at: '2026-10-22T14:48:14Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01999R1267-20011207: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1267-20011230: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1267-20040430: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -1,0 +1,679 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996L0062:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0062-20100611",
+ "dre_path": null,
+ "source_lastmod": "2010-06-11",
+ "versions": [
+  {
+   "date": "1996-11-21",
+   "future": false,
+   "celex": "31996L0062",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0a41338dee369e5f",
+    "d7071abd9ec96d3e",
+    "68e7337053bfe656",
+    "2e855e776c01f7da",
+    "0f900cfe1ecb86a1",
+    "c14a5856c54ea277",
+    "7f160e50c72baa96",
+    "2e96266e8917fdf6",
+    "ec26db11cc9145d5",
+    "ed5cd7ba5bbf3ba9",
+    "13b53646c0d83ba3",
+    "d1fbdac9fd9ab217",
+    "3c2f5ca8ca45eae2",
+    "006a1c6a2c7407e5",
+    "6188cfa25d93332b",
+    "fdeea4c3e8b83a2d",
+    "e2e67a90c80f7d9d",
+    "f36d706a4361e067",
+    "2a393f6bfcab8927",
+    "324a737b9d800612"
+   ]
+  },
+  {
+   "date": "2008-06-11",
+   "future": false,
+   "celex": "01996L0062-20080611",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1882:por",
+     "title": "REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1882"
+    },
+    {
+     "id": "eu:celex:32008L0050:por",
+     "title": "DIRECTIVA 2008/50/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Maio de 2008",
+     "published": null,
+     "celex": "32008L0050"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º — Objectivos",
+    "Adita Artigo 2.º — Definições",
+    "Adita Artigo 3.º — Aplicação e responsabilidades",
+    "Adita Artigo 4.º — Fixação dos valores-limite e dos limiares de alerta para o ar ambiente",
+    "Adita Artigo 5.º — Avaliação preliminar da qualidade do ar ambiente",
+    "Adita Artigo 6.º — Avaliação da qualidade do ar ambiente",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º — Medidas aplicáveis nas zonas onde os níveis são superiores ao valor-limite",
+    "Adita Artigo 9.º — Requisitos aplicáveis nas zonas em que os níveis são inferiores ao valor-limite",
+    "Adita Artigo 10.º — Medidas aplicáveis em caso de ultrapassagem dos limiares de alerta",
+    "Adita Artigo 11.º — Envio de informações e relatórios",
+    "Adita Artigo 12.º — Comité e funções do Comité",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita ANEXO I",
+    "Adita LISTA DOS POLUENTES ATMOSFÉRICOS QUE DEVEM SER TOMADOS EM CONSIDERAÇÃO NO ÂMBITO DA AVALIAÇÃO E GESTÃO DA QUALIDADE DO AR AMBIENTE",
+    "Adita I. Poluentes a analisar na fase inicial, incluindo os abrangidos pelas directivas comunitárias existentes no domínio da qualidade do ar ambiente",
+    "Adita II. Outros poluentes atmosféricos",
+    "Adita ANEXO II",
+    "Adita FACTORES A CONSIDERAR NA FIXAÇÃO DOS VALORES-LIMITE E DOS LIMIARES DE ALERTA",
+    "Adita ANEXO III",
+    "Adita CRITÉRIOS PARA A SELECÇÃO DOS POLUENTES ATMOSFÉRICOS A TOMAR EM CONSIDERAÇÃO",
+    "Adita ANEXO IV",
+    "Adita INFORMAÇÕES A INCLUIR NOS PROGRAMAS LOCAIS, REGIONAIS OU NACIONAIS PARA O MELHORAMENTO DA QUALIDADE DO AR AMBIENTE",
+    "Adita Informações a fornecer por força do n.º 3 do artigo 8.º",
+    "Adita 1. Localização da ultrapassagem",
+    "Adita 2. Informações gerais",
+    "Adita 3. Autoridades responsáveis",
+    "Adita 4. Natureza e avaliação da poluição",
+    "Adita 5. Origem da poluição",
+    "Adita 6. Análise da situação",
+    "Adita 7. Informações sobre as medidas ou projectos de melhoramento da qualidade do ar que já existiam antes da entrada em vigor da presente directiva",
+    "Adita 8. Informações sobre as medidas ou projectos adoptados com vista a reduzir a poluição, na sequência da entrada em vigor da presente directiva",
+    "Adita 9. Informações sobre as medidas ou projectos a longo prazo, previstos ou planeados",
+    "Adita 10. Lista das publicações, documentos, trabalhos, etc. utilizados para completar o presente anexo",
+    "Adita Notas",
+    "Suprime Artigo 1º — Objectivos",
+    "Suprime Artigo 2º — Definições",
+    "Suprime Artigo 3º — Aplicação e responsabilidades",
+    "Suprime Artigo 4º — Fixação dos valores-limite e dos limiares de alerta para o ar ambiente",
+    "Suprime Artigo 5º — Avaliação preliminar da qualidade do ar ambiente",
+    "Suprime Artigo 6º — Avaliação da qualidade do ar ambiente",
+    "Suprime Artigo 7º — Melhoramento da qualidade do ar ambiente",
+    "Suprime Artigo 8º — Medidas aplicáveis nas zonas onde os níveis são superiores ao valor-limite",
+    "Suprime Artigo 9º — Requisitos aplicáveis nas zonas em que os níveis são inferiores ao valor-limite",
+    "Suprime Artigo 10º — Medidas aplicáveis em caso de ultrapassagem dos limiares de alerta",
+    "Suprime Artigo 11º — Envio de informações e relatórios",
+    "Suprime Artigo 12º — Comité e funções do comité",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime ANEXO I — LISTA DOS POLUENTES ATMOSFÉRICOS QUE DEVEM SER TOMADOS EM CONSIDERAÇÃO NO ÂMBITO DA AVALIAÇÃO E GESTÃO DA QUALIDADE DO AR AMBIENTE",
+    "Suprime ANEXO II — FACTORES A CONSIDERAR NA FIXAÇÃO DOS VALORES-LIMITE E DOS LIMIARES DE ALERTA",
+    "Suprime ANEXO III — CRITÉRIOS PARA A SELECÇÃO DOS POLUENTES ATMOSFÉRICOS A TOMAR EM CONSIDERAÇÃO",
+    "Suprime ANEXO IV — INFORMAÇÕES A INCLUIR NOS PROGRAMAS LOCAIS, REGIONAIS OU NACIONAIS PARA O MELHORAMENTO DA QUALIDADE DO AR AMBIENTE"
+   ],
+   "fragments": [
+    "b33a93014b5c21fe",
+    "97d185e005db1f5c",
+    "12ddb02fc60df95d",
+    "fd7e22e00d38c5f8",
+    "dbf398564543de2d",
+    "06b5c3325b7f246c",
+    "3871748b8e80bd84",
+    "25e2f313f24213b8",
+    "a69da5bbd9318403",
+    "203bbe5ac88a9170",
+    "16f819b3b57fbe08",
+    "798d78e17663f67b",
+    "6a6ee017682d6996",
+    "f6144f4e97a68c33",
+    "9ebe9ce4c9b08dca",
+    "5459240020eddcf5",
+    "d664376e2a8dcecd",
+    "ca253e20ddef3325",
+    "e4e0bf8ff529f31a",
+    "bb08b49d07c033b1",
+    "852174729551523b",
+    "0327ecf8c6254336",
+    "720af75c92791b10",
+    "bac5c465b964e9c5",
+    "e03a0eb4d5b2eef3",
+    "3fe183fa95dbc1c6",
+    "b01ff6b19648b284",
+    "b3c6e98d4e21744d",
+    "6512677cb5e637cf",
+    "a5ed1c961f39a7fe",
+    "373a5eae632a6e82",
+    "5e366fc1b400e07f",
+    "c569215635272b5c",
+    "58d3c3e7baaef503",
+    "f0e8b5f529f2324a",
+    "8fcdf17db1d61ce8",
+    "caed82512e7bcd9a",
+    "9b6df15517cd1a1f"
+   ]
+  },
+  {
+   "date": "2010-06-11",
+   "future": false,
+   "celex": "01996L0062-20100611",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objectivos",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Aplicação e responsabilidades",
+    "Suprime Artigo 4.º — Fixação dos valores-limite e dos limiares de alerta para o ar ambiente",
+    "Suprime Artigo 5.º — Avaliação preliminar da qualidade do ar ambiente",
+    "Suprime Artigo 6.º — Avaliação da qualidade do ar ambiente",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º — Medidas aplicáveis nas zonas onde os níveis são superiores ao valor-limite",
+    "Suprime Artigo 9.º — Requisitos aplicáveis nas zonas em que os níveis são inferiores ao valor-limite",
+    "Suprime Artigo 10.º — Medidas aplicáveis em caso de ultrapassagem dos limiares de alerta",
+    "Suprime Artigo 11.º — Envio de informações e relatórios",
+    "Suprime Artigo 12.º — Comité e funções do Comité",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime ANEXO I",
+    "Suprime LISTA DOS POLUENTES ATMOSFÉRICOS QUE DEVEM SER TOMADOS EM CONSIDERAÇÃO NO ÂMBITO DA AVALIAÇÃO E GESTÃO DA QUALIDADE DO AR AMBIENTE",
+    "Suprime I. Poluentes a analisar na fase inicial, incluindo os abrangidos pelas directivas comunitárias existentes no domínio da qualidade do ar ambiente",
+    "Suprime II. Outros poluentes atmosféricos",
+    "Suprime ANEXO II",
+    "Suprime FACTORES A CONSIDERAR NA FIXAÇÃO DOS VALORES-LIMITE E DOS LIMIARES DE ALERTA",
+    "Suprime ANEXO III",
+    "Suprime CRITÉRIOS PARA A SELECÇÃO DOS POLUENTES ATMOSFÉRICOS A TOMAR EM CONSIDERAÇÃO",
+    "Suprime ANEXO IV",
+    "Suprime INFORMAÇÕES A INCLUIR NOS PROGRAMAS LOCAIS, REGIONAIS OU NACIONAIS PARA O MELHORAMENTO DA QUALIDADE DO AR AMBIENTE",
+    "Suprime Informações a fornecer por força do n.º 3 do artigo 8.º",
+    "Suprime 1. Localização da ultrapassagem",
+    "Suprime 2. Informações gerais",
+    "Suprime 3. Autoridades responsáveis",
+    "Suprime 4. Natureza e avaliação da poluição",
+    "Suprime 5. Origem da poluição",
+    "Suprime 6. Análise da situação",
+    "Suprime 7. Informações sobre as medidas ou projectos de melhoramento da qualidade do ar que já existiam antes da entrada em vigor da presente directiva",
+    "Suprime 8. Informações sobre as medidas ou projectos adoptados com vista a reduzir a poluição, na sequência da entrada em vigor da presente directiva",
+    "Suprime 9. Informações sobre as medidas ou projectos a longo prazo, previstos ou planeados",
+    "Suprime 10. Lista das publicações, documentos, trabalhos, etc. utilizados para completar o presente anexo",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "7f1afc3da658c7fe"
+   ]
+  }
+ ],
+ "fragments": {
+  "0a41338dee369e5f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 96/62/CE do Conselho de 27 de Setembro de 1996 relativa à avaliação e gestão da qualidade do ar ambiente** *Jornal Oficial nº L 296 de 21/11/1996 p. 0055 - 0063*\n\nDIRECTIVA 96/62/CE DO CONSELHO de 27 de Setembro de 1996 relativa à avaliação e gestão da qualidade do ar ambiente\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o primeiro parágrafo do seu artigo 130ºS,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºC do Tratado (3),\n\nConsiderando que o quinto programa de acção de 1992 em matéria de ambiente, cuja abordagem geral foi aprovada pelo Conselho e os representantes dos governos dos Estados-membros reunidos em Conselho, através da Resolução 93/C 138/01, de 1 de Fevereiro de 1993 (4), prevê alterações à legislação existente relativa aos poluentes atmosféricos; considerando que o citado programa recomenda o estabelecimento de objectivos a longo prazo em matéria de qualidade do ar;\n\nConsiderando que, para proteger o ambiente como um todo, assim como a saúde humana, é necessário evitar, impedir ou reduzir as concentrações dos poluentes atmosféricos nocivos e estabelecer valores-limite e/ou limiares de alerta para os níveis de poluição do ar ambiente;\n\nConsiderando que, para ter em conta os mecanismos específicos de formação de ozono, poderá vir a revelar-se necessário complementar ou substituir esses valores-limite e esses limiares de alerta por valores-alvo;\n\nConsiderando que os valores numéricos adoptados para os valores-limite, para os limiares de alerta e, no que respeita ao ozono, os valores-alvo e/ou os valores-limite e os limiares de alerta devem basear-se nos resultados de trabalhos efectuados por grupos científicos internacionais que operam neste domínio;\n\nConsiderando que a Comissão deverá efectuar estudos destinados a analisar os efeitos da acção combinada dos vários poluentes ou fontes de poluição, bem como os efeitos do clima na actividade dos diferentes poluentes analisados no contexto da presente directiva;\n\nConsiderando que a qualidade do ar ambiente deve ser avaliada em função de valores-limite e/ou de limiares de alerta e, no que respeita ao ozono, de valores-alvo e/ou valores-limite, tendo em conta a dimensão das populações e dos ecossistemas expostos à poluição atmosférica, bem como o ambiente;\n\nConsiderando que, para permitir a comparação das avaliações de qualidade do ar ambiente baseadas nas medições efectuadas nos Estados-membros, devem ser especificados a localização e o número de pontos de amostragem e os métodos de referência utilizados, sempre que forem fixados valores para os limiares de alerta, os valores-limite e os valores-alvo;\n\nConsiderando que, para permitir a utilização de outras técnicas de avaliação da qualidade do ar ambiente para além da medição directa, é necessário definir os critérios de utilização e o grau de exactidão requerido por essas práticas;\n\nConsiderando que as medidas gerais fixadas pela presente directiva devem ser completadas por medidas específicas adaptadas a cada substância;\n\nConsiderando que estas medidas específicas devem ser adoptadas o mais rapidamente possível, a fim de satisfazer os objectivos globais da presente directiva;\n\nConsiderando que é necessário recolher dados preliminares representativos dos níveis dos poluentes;\n\nConsiderando que, para proteger o ambiente como um todo, assim como a saúde humana, é necessário que os Estados-membros tomem medidas sempre que os valores-limite forem excedidos, de modo a respeitar estes valores dentro dos prazos fixados;\n\nConsiderando que as medidas tomadas pelos Estados-membros devem ter em conta os requisitos constantes dos regulamentos relativos ao funcionamento das instalações industriais, de acordo com a legislação comunitária no domínio da prevenção e da redução integradas da poluição, sempre que essa legislação seja aplicável;\n\nConsiderando que pode ser útil, tendo em conta o tempo necessário para a aplicação dessas medidas e a respectiva produção de efeitos, fixar margens temporárias de tolerância do valor-limite;\n\nConsiderando que podem existir nos Estados-membros zonas onde os níveis de poluentes sejam superiores ao valor-limite, permanecendo todavia dentro da margem de tolerância permitida; que o valor-limite deve ser cumprido nos prazos fixados;\n\nConsiderando que os Estados-membros devem proceder a consultas recíprocas no caso de o nível de um poluente exceder ou se encontrar em vias de exceder os valores-limite e as margens de tolerância ou, consoante os casos, o limiar de alerta na sequência de uma poluição significativa proveniente de outro Estado-membro;\n\nConsiderando que o estabelecimento de limiares de alerta, a partir dos quais seja conveniente a adopção de medidas de precaução, tornará possível limitar os efeitos do impacte dos episódios de poluição sobre a saúde humana;\n\nConsiderando que, nas zonas e aglomerações em que os níveis de poluentes se encontram abaixo dos valores-limite, os Estados-membros devem envidar todos os esforços no sentido de preservar a melhor qualidade do ar ambiente, compatível com um desenvolvimento sustentável;\n\nConsiderando que, para facilitar o processamento e a comparação dos dados recolhidos, estes devem ser fornecidos à Comissão de forma normalizada;\n\nConsiderando que a aplicação de uma vasta política global de avaliação e gestão da qualidade do ar ambiente deve assentar em bases técnicas e científicas sólidas e num intercâmbio permanente de pontos de vista entre os Estados-membros;\n\nConsiderando que é necessário evitar aumentar desnecessariamente o volume de informação que deve ser transmitida pelos Estados-membros; que as informações recolhidas pela Comissão em cumprimento da presente directiva são de utilidade para a Agência Europeia do Ambiente (AEA) e podem, por conseguinte, ser-lhe transmitidas pela Comissão;\n\nConsiderando que pode ser conveniente proceder à adaptação ao progresso científico e técnico das técnicas e critérios utilizados para a avaliação da qualidade do ar ambiente e elaborar disposições necessárias ao intercâmbio de informações a prestar ao abrigo da presente directiva; que, a fim de facilitar a realização dos trabalhos necessários para o efeito, deve ser instituído um sistema de estreita cooperação entre os Estados-membros e a Comissão no âmbito de um comité;\n\nConsiderando que, a fim de promover o intercâmbio recíproco de informações entre os Estados-membros e a AEA, a Comissão, assistida por esta, deve publicar de três em três anos um relatório sobre a qualidade do ar ambiente na Comunidade;\n\nConsiderando que é conveniente tratar prioritariamente as substâncias que já se encontram abrangidas pela Directiva 80/779/CEE do Conselho, de 15 de Julho de 1980, relativa a valores-limite e a valores-guia de qualidade do ar para o dióxido de enxofre e as partículas em suspensão (5), pela Directiva 82/884/CEE do Conselho, de 3 de Dezembro de 1982, relativa a um valor-limite para o chumbo contido na atmosfera (6), pela Directiva 85/203/CEE do Conselho, de 7 de Março de 1985, relativa às normas de qualidade do ar para o dióxido de azoto (7), e pela Directiva 92/72/CEE do Conselho, de 21 de Setembro de 1992, relativa à poluição atmosférica pelo ozono (8),\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d7071abd9ec96d3e": {
+   "fragment_id": "Artigo 1º — Objectivos",
+   "type": "artigo",
+   "heading": "Artigo 1º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º — Objectivos\n\nO objectivo geral da presente directiva consiste em definir os princípios de base de uma estratégia comum destinada a:\n\n- definir e estabelecer objectivos para a qualidade do ar ambiente na Comunidade, a fim de evitar, prevenir ou limitar os efeitos nocivos sobre a saúde humana e sobre o ambiente na sua globalidade,\n\n- avaliar, com base em métodos e critérios comuns, a qualidade do ar ambiente nos Estados-membros,\n\n- dispor de informações adequadas sobre a qualidade do ar ambiente e proceder de modo a que o público seja delas informado, designadamente através de limiares de alerta,\n\n- manter a qualidade do ar ambiente, quando esta é boa, e melhorá-la nos outros casos."
+  },
+  "68e7337053bfe656": {
+   "fragment_id": "Artigo 2º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Ar ambiente»: o ar exterior da troposfera, excepto o ar dos locais de trabalho;\n\n2. «Poluente»: as substâncias introduzidas directa ou indirectamente pelo homem no ar ambiente capazes de produzir efeitos nocivos sobre a saúde humana ou o meio ambiente;\n\n3. «Nível»: a concentração no ar ambiente ou a deposição superficial de um poluente num dado intervalo de tempo;\n\n4. «Avaliação»: os métodos utilizados para medir, calcular, prever ou estimar o nível de um poluente no ar ambiente;\n\n5. «Valor-limite»: o nível fixado com base em conhecimentos científicos com o intuito de evitar, prevenir ou reduzir os efeitos nocivos sobre a saúde humana e/ou o ambiente na sua globalidade, susceptível de ser atingido num prazo determinado e que, quando atingido, não deverá ser excedido;\n\n6. «Valor-alvo»: o nível fixado com o intuito de evitar a longo prazo mais efeitos nocivos para a saúde humana e/ou o ambiente na sua globalidade, a alcançar, na medida do possível, no decurso de um período determinado;\n\n7. «Limiar de alerta»: o nível acima do qual uma exposição de curta duração acarreta riscos para a saúde humana e a partir do qual os Estados-membros tomarão medidas imediatas, tal como estipulado na presente directiva;\n\n8. «Margem de tolerância»: a percentagem do valor-limite em que este valor pode ser excedido de acordo com as condições constantes da presente directiva;\n\n9. «Zona»: parte do território dos Estados-membros, delimitada por eles próprios;\n\n10. «Aglomeração»: uma zona caracterizada por uma concentração de população superior a 250 000 habitantes ou, quando a concentração da população for inferior ou igual a 250 000 habitantes, uma densidade populacional por quilómetro quadrado que justifique que os Estados-membros avaliem e giram a qualidade do ar ambiente."
+  },
+  "2e855e776c01f7da": {
+   "fragment_id": "Artigo 3º — Aplicação e responsabilidades",
+   "type": "artigo",
+   "heading": "Artigo 3º — Aplicação e responsabilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º — Aplicação e responsabilidades\n\nPara efeitos de aplicação da presente directiva, os Estados-membros devem designar, para os níveis apropriados, as autoridades competentes e os organismos encarregados de:\n\n- aplicar a presente directiva,\n\n- avaliar a qualidade do ar ambiente,\n\n- aprovar os dispositivos de medição (métodos, aparelhos, redes, laboratórios),\n\n- assegurar a qualidade da medição efectuada pelos dispositivos de medição, verificando a observância dessa qualidade através de tais dispositivos, particularmente mediante controlos de qualidade internos conforme, nomeadamente, os requisitos das normas europeias de garantia da qualidade,\n\n- analisar os métodos de avaliação,\n\n- coordenar no respectivo território os programas de garantia da qualidade a nível comunitário organizados pela Comissão.\n\nQuando os Estados-membros fornecerem à Comissão as informações a que se refere o primeiro parágrafo, torná-las-ão acessíveis ao público."
+  },
+  "0f900cfe1ecb86a1": {
+   "fragment_id": "Artigo 4º — Fixação dos valores-limite e dos limiares de alerta para o ar ambiente",
+   "type": "artigo",
+   "heading": "Artigo 4º — Fixação dos valores-limite e dos limiares de alerta para o ar ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — Fixação dos valores-limite e dos limiares de alerta para o ar ambiente\n\n1. No que diz respeito aos poluentes enumerados no anexo I, a Comissão apresentará ao Conselho propostas relativas à fixação dos valores-limite e, de modo apropriado, aos limiares de alerta, de acordo com o seguinte calendário:\n\n- o mais tardar até 31 de Dezembro de 1996, no que diz respeito às substâncias 1 a 5,\n\n- de acordo com o artigo 8º da Directiva 92/72/CEE para o ozono,\n\n- o mais tardar até 31 de Dezembro de 1997, para os poluentes 7 e 8,\n\n- o mais brevemente possível, e o mais tardar até 31 de Dezembro de 1999, no que diz respeito aos poluentes 9 a 13.\n\nPara fixar os valores-limite e, de forma adequada, os limiares de alerta, serão tomados em consideração, a título de exemplo, os factores constantes do anexo II.\n\nNo que respeita ao ozono, as referidas propostas tomarão em consideração os mecanismos específicos de formação desse poluente e, para o efeito, poderão prever valores-alvo e/ou valores-limite.\n\nSe for ultrapassado um «valor-alvo» fixado para o ozono, os Estados-membros informarão a Comissão das medidas tomadas para atingir este valor. Com base nesta informação, a Comissão avaliará se é necessário tomar medidas adicionais a nível comunitário e, eventualmente, apresentará propostas ao Conselho.\n\nQuanto aos outros poluentes, a Comissão apresentará ao Conselho propostas relativas à fixação de valores-limite e, de modo apropriado, de limiares de alerta sempre que, com base na evolução dos conhecimentos científicos e tendo em conta os critérios do anexo III, se verificar a necessidade de evitar, prevenir ou reduzir na Comunidade os efeitos nocivos desses poluentes para a saúde humana e/ou para o meio ambiente.\n\n2. Tomando em consideração os dados mais recentes da investigação científica nos domínios apropriados da epidemiologia e do ambiente, assim como os mais recentes progressos da metrologia, a Comissão providenciará para que sejam reavaliados os elementos sobre os quais se fundamentam os valores-limite e os limiares de alerta mencionados no número precedente.\n\n3. A fixação dos valores-limite e dos limiares de alerta deve ser acompanhada pela fixação dos critérios e técnicas para:\n\na) As medições a utilizar no âmbito da aplicação da legislação referida no nº 1:\n\n- a localização dos pontos de amostragem,\n\n- o número mínimo de pontos de amostragem,\n\n- as técnicas de medição de referência e de amostragem;\n\nb) A utilização de outras técnicas de avaliação, nomeadamente a modelização da qualidade do ar ambiente:\n\n- a resolução espacial para a modelização e os métodos de avaliação objectiva,\n\n- as técnicas de referência para a modelização.\n\nEstes critérios e técnicas devem ser estabelecidos para cada um dos poluentes, tomando em consideração a ordem de grandeza das aglomerações ou dos níveis de poluentes nas zonas avaliadas.\n\n4. De modo a tomar em consideração os níveis efectivos de um determinado poluente na fixação dos valores-limite, bem como os prazos necessários para aplicar as medidas destinadas a melhorar a qualidade do ar ambiente, poderá igualmente ser fixada pelo Conselho uma margem de tolerância temporária para o valor-limite.\n\nEsta margem será reduzida segundo normas a definir para cada poluente, de forma a que o valor-limite seja atingido o mais tardar no termo de um prazo a determinar no momento da fixação desse valor.\n\n5. O Conselho adoptará a legislação prevista no nº 1 e as disposições previstas nos nºs 3 e 4 de acordo com as disposições do Tratado.\n\n6. Sempre que um Estado-membro tomar medidas mais estritas que as previstas no nº 5 deve informar desse facto a Comissão.\n\n7. Sempre que um Estado-membro tencionar fixar valores-limite ou limiares de alerta relativamente a poluentes não referidos no anexo I e não abrangidos pelas disposições comunitárias relativas à qualidade do ar ambiente da Comunidade deve informar do facto a Comissão, em tempo útil. A Comissão deverá em tempo útil dar uma resposta à questão da necessidade de uma acção a nível comunitário segundo os critérios constantes do anexo III."
+  },
+  "c14a5856c54ea277": {
+   "fragment_id": "Artigo 5º — Avaliação preliminar da qualidade do ar ambiente",
+   "type": "artigo",
+   "heading": "Artigo 5º — Avaliação preliminar da qualidade do ar ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Avaliação preliminar da qualidade do ar ambiente\n\nOs Estados-membros que não disponham, para todas as zonas e aglomerações, de medições representativas dos níveis dos poluentes, procederão a campanhas de medição representativas, inquéritos ou avaliações, de modo a disporem desses dados atempadamente para a aplicação da legislação a que se refere o nº 1 do artigo 4º"
+  },
+  "7f160e50c72baa96": {
+   "fragment_id": "Artigo 6º — Avaliação da qualidade do ar ambiente",
+   "type": "artigo",
+   "heading": "Artigo 6º — Avaliação da qualidade do ar ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º — Avaliação da qualidade do ar ambiente\n\n1. Uma vez definidos os valores-limite e os limiares de alerta, a qualidade do ar ambiente deverá ser avaliada em todo o território dos Estados-membros, nos termos das disposições do presente artigo.\n\n2. De acordo com os critérios previstos no nº 3 do artigo 4º, e quanto aos poluentes pertinentes por força do disposto nesse número, as medições são obrigatórias nas seguintes zonas:\n\n- aglomerações tal como as define o nº 10 do artigo 2º,\n\n- zonas em que os níveis se situam entre os valores-limite e os níveis previstos no nº 3,\n\ne\n\n- nas restantes zonas em que os níveis ultrapassem os valores-limite.\n\nAs medidas previstas podem ser completadas por meio de técnicas de modelização destinadas a fornecer a informação adequada sobre a qualidade do ar ambiente.\n\n3. Para avaliar a qualidade do ar ambiente pode ser utilizada uma combinação de medidas e de técnicas de modelização quando, durante um período representativo, os níveis forem inferiores a um nível, inferior ao valor-limite, a determinar de acordo com o disposto no nº 5 do artigo 4º\n\n4. No caso de os níveis serem inferiores a um nível a determinar de acordo com o disposto no nº 5 do artigo 4º, poderão utilizar-se apenas técnicas de modelização ou de estimativa objectiva para avaliar os níveis. Esta disposição não se aplica nas aglomerações quanto aos poluentes para os quais os limiares de alerta tenham sido fixados de acordo com o disposto no nº 5 do artigo 4º\n\n5. Quando os poluentes devam ser medidos, essas medições devem ser efectuadas em locais fixos, quer de modo contínuo quer por amostragem aleatória; o número de medições deve ser suficiente para permitir a determinação dos níveis observados."
+  },
+  "2e96266e8917fdf6": {
+   "fragment_id": "Artigo 7º — Melhoramento da qualidade do ar ambiente",
+   "type": "artigo",
+   "heading": "Artigo 7º — Melhoramento da qualidade do ar ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — Melhoramento da qualidade do ar ambiente\n\nRequisitos gerais\n\n1. Os Estados-membros tomarão as medidas necessárias para garantir a observância dos valores-limite.\n\n2. As acções empreendidas para realizar os objectivos da presente directiva devem:\n\na) Ter em conta uma abordagem integrada da protecção do ar, da água e do solo;\n\nb) Não infringir a legislação comunitária relativa à protecção da segurança e saúde dos trabalhadores no local de trabalho;\n\nc) Não produzir efeitos negativos e relevantes no ambiente dos outros Estados-membros.\n\n3. Os Estados-membros devem estabelecer planos de acções a tomar de imediato para os casos de risco de ultrapassagem dos valores-limite e/ou dos limiares de alerta, a fim de reduzir o risco de ultrapassagem e limitar a sua duração. Estes planos podem prever, conforme o caso, medidas de controlo e, se necessário, de suspensão das actividades, inclusive do trânsito automóvel, que contribuam para a ultrapassagem dos valores-limite."
+  },
+  "ec26db11cc9145d5": {
+   "fragment_id": "Artigo 8º — Medidas aplicáveis nas zonas onde os níveis são superiores ao valor-limite",
+   "type": "artigo",
+   "heading": "Artigo 8º — Medidas aplicáveis nas zonas onde os níveis são superiores ao valor-limite",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º — Medidas aplicáveis nas zonas onde os níveis são superiores ao valor-limite\n\n1. Os Estados-membros devem estabelecer a lista das zonas e aglomerações em que os níveis de um ou mais poluentes são superiores ao valor-limite acrescido da margem de tolerância.\n\nQuando, em relação a determinado poluente, não tiver sido fixada uma margem de tolerância, as zonas e aglomerações em que o nível desse poluente ultrapassar o valor-limite serão assimiladas às zonas e aglomerações referidas no parágrafo anterior, sendo-lhes aplicáveis os nºs 3, 4 e 5.\n\n2. Os Estados-membros devem estabelecer a lista das zonas e aglomerações em que os níveis de um ou vários poluentes se situam entre o valor-limite e o valor-limite acrescido da margem de tolerância.\n\n3. Nas zonas e aglomerações referidas no nº 1, os Estados-membros devem tomar medidas para garantir que seja elaborado ou aplicado um plano ou programa destinado a fazer cumprir o valor-limite dentro do prazo fixado.\n\nEste plano ou programa, a que o público deve ter acesso, incluirá pelo menos as informações enumeradas no anexo IV.\n\n4. Nas zonas e aglomerações referidas no nº 1 em que os níveis de mais de um poluente excedem os valores-limite, os Estados-membros estabelecerão um plano integrado abrangendo todos os poluentes em questão.\n\n5. A Comissão verificará regularmente a aplicação dos planos ou programas apresentados em execução do nº 3, examinando os progressos alcançados e as tendências da poluição atmosférica.\n\n6. Sempre que, na sequência de poluição significativa com origem noutro Estado-membro, o nível de um poluente for superior, ou tender a ser superior, ao valor-limite acrescido da margem de tolerância, ou, eventualmente, ao limiar de alerta, os Estados-membros interessados consultar-se-ão mutuamente para dar remédio à situação. A Comissão poderá assistir a essas consultas."
+  },
+  "ed5cd7ba5bbf3ba9": {
+   "fragment_id": "Artigo 9º — Requisitos aplicáveis nas zonas em que os níveis são inferiores ao valor-limite",
+   "type": "artigo",
+   "heading": "Artigo 9º — Requisitos aplicáveis nas zonas em que os níveis são inferiores ao valor-limite",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º — Requisitos aplicáveis nas zonas em que os níveis são inferiores ao valor-limite\n\nOs Estados-membros estabelecerão a lista das zonas e aglomerações em que os níveis dos poluentes são inferiores aos valores-limite.\n\nNessas zonas e aglomerações, os Estados-membros manterão os níveis dos poluentes abaixo dos valores-limite e esforçar-se-ão por preservar a melhor qualidade do ar ambiente compatível com o desenvolvimento sustentável."
+  },
+  "13b53646c0d83ba3": {
+   "fragment_id": "Artigo 10º — Medidas aplicáveis em caso de ultrapassagem dos limiares de alerta",
+   "type": "artigo",
+   "heading": "Artigo 10º — Medidas aplicáveis em caso de ultrapassagem dos limiares de alerta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º — Medidas aplicáveis em caso de ultrapassagem dos limiares de alerta\n\nQuando são excedidos os limiares de alerta, os Estados-membros garantirão que são tomadas as medidas necessárias para informar o público (por exemplo, através da rádio, televisão ou imprensa). Os Estados-membros enviarão igualmente à Comissão, a título provisório, informações relativas aos níveis registados e à duração do episódio ou episódios de poluição no prazo máximo de três meses após a sua ocorrência. A lista das informações mínimas a divulgar ao público deverá ser elaborada conjuntamente com os limiares de alerta."
+  },
+  "d1fbdac9fd9ab217": {
+   "fragment_id": "Artigo 11º — Envio de informações e relatórios",
+   "type": "artigo",
+   "heading": "Artigo 11º — Envio de informações e relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º — Envio de informações e relatórios\n\nApós adopção pelo Conselho da primeira proposta referida no nº 1 do artigo 4º:\n\n1. Os Estados-membros darão a conhecer à Comissão quais as autoridades competentes, laboratórios, e organismos referidos no artigo 3º, e:\n\na) Nas zonas referidas no nº 1 do artigo 8º:\n\ni) assinalar-lhe-ão a ocorrência de níveis acima do valor-limite acrescido da margem de tolerância, datas ou períodos da ocorrência desses níveis e valores registados no prazo de nove meses após o final de cada ano;\n\nQuando não for fixada uma margem de tolerância para um determinado poluente, as zonas e aglomerações em que o nível desse poluente ultrapassar o valor-limite serão assimiladas às zonas e aglomerações referidas no parágrafo anterior;\n\nii) assinalar-lhe-ão as razões de cada uma das ocorrências no prazo de nove meses após o final de cada ano;\n\niii) enviar-lhe-ão os planos ou programas previstos no nº 3 do artigo 8º, o mais tardar no prazo de dois anos após o final do ano no decurso do qual se registaram os níveis em questão;\n\niv) informá-la-ão, de três em três anos, acerca dos progressos registados na aplicação do plano ou programa;\n\nb) Enviar-lhe-ão anualmente, e o mais tardar nove meses após o final de cada ano, a lista das zonas e aglomerações referidas nos nºs 1 e 2 do artigo 8º e no artigo 9º;\n\nc) No âmbito do relatório sectorial referido no artigo 4º da Directiva 91/692/CEE, de 23 de Dezembro de 1991, relativa à normalização e à racionalização dos relatórios sobre a aplicação de determinadas directivas respeitantes ao ambiente (9), enviar-lhe-ão, de três em três anos, e o mais tardar nove meses após cada período de três anos, informações que resumam os níveis observados ou avaliados, conforme o caso, nas zonas e aglomerações referidas nos artigos 8º e 9º;\n\nd) Comunicar-lhe-ão os métodos utilizados na avaliação preliminar da qualidade do ar, prevista no artigo 5º\n\n2. A Comissão publicará:\n\na) Anualmente, uma lista das zonas e aglomerações referidas no nº 1 do artigo 8º;\n\nb) De três em três anos, um relatório relativo à qualidade do ar ambiente na Comunidade. Este relatório deverá apresentar de uma forma resumida as informações recebidas no âmbito de um mecanismo de troca de informações entre a Comissão e os Estados-membros.\n\n3. A Comissão deverá apelar tanto quanto necessário para a competência disponível na Agência Europeia do Ambiente para redigir o relatório a que se refere a alínea b) do ponto 2."
+  },
+  "3c2f5ca8ca45eae2": {
+   "fragment_id": "Artigo 12º — Comité e funções do comité",
+   "type": "artigo",
+   "heading": "Artigo 12º — Comité e funções do comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º — Comité e funções do comité\n\n1. As alterações necessárias para adaptar ao progresso científico e técnico os critérios e técnicas referidos no nº 2 do artigo 4º e as modalidades de envio das informações a fornecer em conformidade com o artigo 11º, bem como quaisquer outras tarefas especificadas nas disposições referidas no nº 3 do artigo 4º serão aprovadas nos termos do nº 2 do presente artigo.\n\nEsta adaptação não deve ter por efeito modificar, directa ou indirectamente, os valores-limite ou os limiares de alerta.\n\n2. A Comissão será assistida por um comité composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\nO representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\nA Comissão adoptará as medidas projectada desde que sejam conformes com o parecer do comité.\n\nSe as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este último ainda não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "006a1c6a2c7407e5": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar dezoito meses após a sua entrada em vigor, no que diz respeito às disposições relativas aos artigos 1º a 4º e 12º e aos anexos I, II, III e IV, e, no que diz respeito às disposições relativas aos restantes artigos, o mais tardar à data em que as disposições referidas no nº 5 do artigo 4º sejam aplicáveis.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão os textos das disposições essenciais de direito interno que adoptarem no domínio regido pela presente directiva."
+  },
+  "6188cfa25d93332b": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "fdeea4c3e8b83a2d": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 27 de Setembro de 1996.\n\nPelo Conselho\n\nO Presidente\n\nM LOWRY\n\n(1) JO nº C 216 de 6. 8. 1994, p. 4.\n\n(2) JO nº C 110 de 2. 5. 1995, p. 5.\n\n(3) Parecer do Parlamento Europeu de 16 de Junho de 1995 (JO nº C 166 de 3. 7. 1995, p. 173), posição comum do Conselho de 30 de Novembro de 1995 (JO nº C 59 de 28. 2. 1996, p. 24) e decisão do Parlamento Europeu de 22 de Maio de 1996 (JO nº C 166 de 10. 6. 1996, p. 63).\n\n(4) JO nº C 138 de 17. 5. 1993, p. 1.\n\n(5) JO nº L 229 de 30. 8. 1980, p. 30. Directiva com a última redacção que lhe foi dada pela Directiva 91/692/CEE (JO nº L 377 de 31. 12. 1991, p. 48).\n\n(6) JO nº L 378 de 31. 12. 1982, p. 15. Directiva com a última redacção que lhe foi dada pela Directiva 91/692/CEE.\n\n(7) JO nº L 87 de 27. 3. 1985, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 91/692/CEE.\n\n(8) JO nº L 297 de 13. 10. 1992, p. 1.\n\n(9) JO nº L 377 de 31. 12. 1991, p. 48."
+  },
+  "e2e67a90c80f7d9d": {
+   "fragment_id": "ANEXO I — LISTA DOS POLUENTES ATMOSFÉRICOS QUE DEVEM SER TOMADOS EM CONSIDERAÇÃO NO ÂMBITO DA AVALIAÇÃO E GESTÃO DA QUALIDADE DO AR AMBIENTE",
+   "type": "divisao",
+   "heading": "ANEXO I — LISTA DOS POLUENTES ATMOSFÉRICOS QUE DEVEM SER TOMADOS EM CONSIDERAÇÃO NO ÂMBITO DA AVALIAÇÃO E GESTÃO DA QUALIDADE DO AR AMBIENTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — LISTA DOS POLUENTES ATMOSFÉRICOS QUE DEVEM SER TOMADOS EM CONSIDERAÇÃO NO ÂMBITO DA AVALIAÇÃO E GESTÃO DA QUALIDADE DO AR AMBIENTE\n\nI. Poluentes a analisar na fase inicial, incluindo os abrangidos pelas directivas comunitárias existentes no domínio da qualidade do ar ambiente\n\n1. Dióxido de enxofre\n\n2. Dióxido de azoto\n\n3. Partículas finas, tais como fumos negros (incluindo PM 10)\n\n4. Partículas em suspensão\n\n5. Chumbo\n\n6. Ozono\n\nII. Outros poluentes atmosféricos\n\n7. Benzeno\n\n8. Monóxido de carbono\n\n9. Hidrocarbonetos aromáticos policíclicos\n\n10. Cádmio\n\n11. Arsénio\n\n12. Níquel\n\n13. Mercúrio"
+  },
+  "f36d706a4361e067": {
+   "fragment_id": "ANEXO II — FACTORES A CONSIDERAR NA FIXAÇÃO DOS VALORES-LIMITE E DOS LIMIARES DE ALERTA",
+   "type": "divisao",
+   "heading": "ANEXO II — FACTORES A CONSIDERAR NA FIXAÇÃO DOS VALORES-LIMITE E DOS LIMIARES DE ALERTA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — FACTORES A CONSIDERAR NA FIXAÇÃO DOS VALORES-LIMITE E DOS LIMIARES DE ALERTA\n\nNa fixação do valor-limite e, de modo apropriado, do limiar de alerta, os factores a seguir referidos a título de exemplo poderão, nomeadamente, ser considerados:\n\n- grau de exposição das populações, nomeadamente dos subgrupos sensíveis,\n\n- condições climáticas,\n\n- sensibilidade da fauna e da flora e dos respectivos habitats,\n\n- património histórico expostos aos poluentes,\n\n- viabilidade económica e técnica,\n\n- transporte dos poluentes a longa distância, nomeadamente dos poluentes secundários, incluindo o ozono."
+  },
+  "2a393f6bfcab8927": {
+   "fragment_id": "ANEXO III — CRITÉRIOS PARA A SELECÇÃO DOS POLUENTES ATMOSFÉRICOS A TOMAR EM CONSIDERAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO III — CRITÉRIOS PARA A SELECÇÃO DOS POLUENTES ATMOSFÉRICOS A TOMAR EM CONSIDERAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — CRITÉRIOS PARA A SELECÇÃO DOS POLUENTES ATMOSFÉRICOS A TOMAR EM CONSIDERAÇÃO\n\n1. Possibilidade, gravidade e frequência dos efeitos; no que diz respeito à saúde humana e ao ambiente, deverão ser objecto de uma atenção especial os efeitos irreversíveis.\n\n2. Presença generalizada e concentração elevada do poluente na atmosfera.\n\n3. Transformações ambientais ou alterações metabólicas, na medida em que essas alterações possam conduzir à produção de substâncias químicas mais tóxicas.\n\n4. Persistência no ambiente, em especial se o poluente não for biodegradável e se for susceptível de se acumular nos seres humanos, no ambiente ou nas cadeias alimentares.\n\n5. Impacte do poluente:\n\n- dimensão da população, recursos vivos ou ecossistemas expostos,\n\n- existência de alvos particularmente sensíveis na zona em questão.\n\n6. Podem também ser utilizados métodos de avaliação do risco.\n\nOs critérios relevantes de perigo estabelecidos no âmbito da Directiva 67/548/CEE (1) e suas sucessivas adaptações deverão ser tomados em consideração dos poluentes.\n\n(1) JO nº 196 de 16. 8. 1967, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 91/632/CEE da Comissão (JO nº L 338 de 10. 12. 1991, p. 23)."
+  },
+  "324a737b9d800612": {
+   "fragment_id": "ANEXO IV — INFORMAÇÕES A INCLUIR NOS PROGRAMAS LOCAIS, REGIONAIS OU NACIONAIS PARA O MELHORAMENTO DA QUALIDADE DO AR AMBIENTE",
+   "type": "divisao",
+   "heading": "ANEXO IV — INFORMAÇÕES A INCLUIR NOS PROGRAMAS LOCAIS, REGIONAIS OU NACIONAIS PARA O MELHORAMENTO DA QUALIDADE DO AR AMBIENTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — INFORMAÇÕES A INCLUIR NOS PROGRAMAS LOCAIS, REGIONAIS OU NACIONAIS PARA O MELHORAMENTO DA QUALIDADE DO AR AMBIENTE\n\nInformações a fornecer por força do nº 3 do artigo 8º\n\n1. Localização da ultrapassagem\n\n- Região\n\n- Cidade (mapa)\n\n- Estação de medição (mapa, coordenadas geográficas)\n\n2. Informações gerais\n\n- Tipo de zona (zona urbana, industrial ou rural)\n\n- Estimativa da área poluída (em quilómetros quadrados) e da população exposta à poluição\n\n- Dados climáticos úteis\n\n- Dados topográficos úteis\n\n- Informações suficientes relativas ao tipo de alvos que requerem protecção na zona\n\n3. Autoridades responsáveis\n\nNomes e endereços das entidades responsáveis pelo desenvolvimento e aplicação dos planos de melhoramento da qualidade do ar\n\n4. Natureza e avaliação da poluição\n\n- Concentrações registadas nos anos anteriores (antes da aplicação das medidas de melhoramento da qualidade do ar)\n\n- Concentrações medidas desde o início do projecto\n\n- Técnicas utilizadas na avaliação\n\n5. Origem da poluição\n\n- Listas das principais fontes de emissão responsáveis pela poluição (mapa)\n\n- Quantidade total das emissões provenientes dessas fontes (toneladas por ano)\n\n- Informações relativas à poluição provenientes de outras regiões\n\n6. Análise da situação\n\n- Esclarecimentos sobre os factores responsáveis pela ultrapassagem (transporte, incluindo transporte transfronteiras, formação)\n\n- Esclarecimentos sobre as possíveis medidas de melhoramento da qualidade do ar\n\n7. Informações sobre as medidas ou projectos de melhoramento da qualidade do ar que já existiam antes da entrada em vigor da presente directiva\n\n- Medidas locais, regionais, nacionais e internacionais\n\n- Efeitos observados das referidas medidas\n\n8. Informações sobre as medidas ou projectos adoptados com vista a reduzir a poluição, na sequência da entrada em vigor da presente directiva\n\n- Enumeração e descrição de todas as medidas previstas no projecto\n\n- Calendário da sua aplicação\n\n- Estimativa do melhoramento da qualidade do ar planeado ou do prazo previsto para a realização de tais objectivos\n\n9. Informações sobre as medidas ou projectos a longo prazo, previstos ou planeados\n\n10. Lista das publicações, documentos, trabalhos, etc. utilizados para completar o presente anexo"
+  },
+  "b33a93014b5c21fe": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Setembro de 1996\n\nrelativa à avaliação e gestão da qualidade do ar ambiente\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o primeiro parágrafo do seu artigo 130.ºS,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#E0002)),\n\nDeliberando nos termos do procedimento previsto no artigo 189.ºC do Tratado ([^3^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#E0003)),\n\nConsiderando que o quinto programa de acção de 1992 em matéria de ambiente, cuja abordagem geral foi aprovada pelo Conselho e os representantes dos governos dos Estados-membros reunidos em Conselho, através da Resolução 93/C 138/01, de 1 de Fevereiro de 1993 ([^4^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#E0004)), prevê alterações à legislação existente relativa aos poluentes atmosféricos; considerando que o citado programa recomenda o estabelecimento de objectivos a longo prazo em matéria de qualidade do ar;\n\nConsiderando que, para proteger o ambiente como um todo, assim como a saúde humana, é necessário evitar, impedir ou reduzir as concentrações dos poluentes atmosféricos nocivos e estabelecer valores-limite e/ou limiares de alerta para os níveis de poluição do ar ambiente;\n\nConsiderando que, para ter em conta os mecanismos específicos de formação de ozono, poderá vir a revelar-se necessário complementar ou substituir esses valores-limite e esses limiares de alerta por valores-alvo;\n\nConsiderando que os valores numéricos adoptados para os valores-limite, para os limiares de alerta e, no que respeita ao ozono, os valores-alvo e/ou os valores-limite e os limiares de alerta devem basear-se nos resultados de trabalhos efectuados por grupos científicos internacionais que operam neste domínio;\n\nConsiderando que a Comissão deverá efectuar estudos destinados a analisar os efeitos da acção combinada dos vários poluentes ou fontes de poluição, bem como os efeitos do clima na actividade dos diferentes poluentes analisados no contexto da presente directiva;\n\nConsiderando que a qualidade do ar ambiente deve ser avaliada em função de valores-limite e/ou de limiares de alerta e, no que respeita ao ozono, de valores-alvo e/ou valores-limite, tendo em conta a dimensão das populações e dos ecossistemas expostos à poluição atmosférica, bem como o ambiente;\n\nConsiderando que, para permitir a comparação das avaliações de qualidade do ar ambiente baseadas nas medições efectuadas nos Estados-membros, devem ser especificados a localização e o número de pontos de amostragem e os métodos de referência utilizados, sempre que forem fixados valores para os limiares de alerta, os valores-limite e os valores-alvo;\n\nConsiderando que, para permitir a utilização de outras técnicas de avaliação da qualidade do ar ambiente para além da medição directa, é necessário definir os critérios de utilização e o grau de exactidão requerido por essas prácticas;\n\nConsiderando que as medidas gerais fixadas pela presente directiva devem ser completadas por medidas específicas adaptadas a cada substância;\n\nConsiderando que estas medidas específicas devem ser adoptadas o mais rapidamente possível, a fim de satisfazer os objectivos globais da presente directiva;\n\nConsiderando que é necessário recolher dados preliminares representativos dos níveis dos poluentes;\n\nConsiderando que, para proteger o ambiente como um todo, assim como a saúde humana, é necessário que os Estados-membros tomem medidas sempre que os valores-limite forem excedidos, de modo a respeitar estes valores dentro dos prazos fixados;\n\nConsiderando que as medidas tomadas pelos Estados-membros devem ter em conta os requisitos constantes dos regulamentos relativos ao funcionamento das instalações industriais, de acordo com a legislação comunitária no domínio da prevenção e da redução integradas da poluição, sempre que essa legislação seja aplicável;\n\nConsiderando que pode ser útil, tendo em conta o tempo necessário para a aplicação dessas medidas e a respectiva produção de efeitos, fixar margens temporárias de tolerância do valor-limite;\n\nConsiderando que podem existir nos Estados-membros zonas onde os níveis de poluentes sejam superiores ao valor-limite, permanecendo todavia dentro da margem de tolerância permitida; que o valor-limite deve ser cumprido nos prazos fixados;\n\nConsiderando que os Estados-membros devem proceder a consultas recíprocas no caso de o nível de um poluente exceder ou se encontrar em vias de exceder os valores-limite e as margens de tolerância ou, consoante os casos, o limiar de alerta na sequência de uma poluição significativa proveniente de outro Estado-membro;\n\nConsiderando que o estabelecimento de limiares de alerta, a partir dos quais seja conveniente a adopção de medidas de precaução, tornará possível limitar os efeitos do impacte dos episódios de poluição sobre a saúde humana;\n\nConsiderando que, nas zonas e aglomerações em que os níveis de poluentes se encontram abaixo dos valores-limite, os Estados-membros devem envidar todos os esforços no sentido de preservar a melhor qualidade do ar ambiente, compatível com um desenvolvimento sustentável;\n\nConsiderando que, para facilitar o processamento e a comparação dos dados recolhidos, estes devem ser fornecidos à Comissão de forma normalizada;\n\nConsiderando que a aplicação de uma vasta política global de avaliação e gestão da qualidade do ar ambiente deve assentar em bases técnicas e científicas sólidas e num intercâmbio permanente de pontos de vista entre os Estados-membros;\n\nConsiderando que é necessário evitar aumentar desnecessariamente o volume de informação que deve ser transmitida pelos Estados-membros; que as informações recolhidas pela Comissão em cumprimento da presente directiva são de utilidade para a Agência Europeia do Ambiente (AEA) e podem, por conseguinte, ser-lhe transmitidas pela Comissão;\n\nConsiderando que pode ser conveniente proceder à adaptação ao progresso científico e técnico das técnicas e critérios utilizados para a avaliação da qualidade do ar ambiente e elaborar disposições necessárias ao intercâmbio de informações a prestar ao abrigo da presente directiva; que, a fim de facilitar a realização dos trabalhos necessários para o efeito, deve ser instituído um sistema de estreita cooperação entre os Estados-membros e a Comissão no âmbito de um comité;\n\nConsiderando que, a fim de promover o intercâmbio recíproco de informações entre os Estados-membros e a AEA, a Comissão, assistida por esta, deve publicar de três em três anos um relatório sobre a qualidade do ar ambiente na Comunidade;\n\nConsiderando que é conveniente tratar prioritariamente as substâncias que já se encontram abrangidas pela Directiva 80/779/CEE do Conselho, de 15 de Julho de 1980, relativa a valores-limite e a valores-guia de qualidade do ar para o dióxido de enxofre e as partículas em suspensão ([^5^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#E0005)), pela Directiva 82/884/CEE do Conselho, de 3 de Dezembro de 1982, relativa a um valor-limite para o chumbo contido na atmosfera ([^6^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#E0006)), pela Directiva 85/203/CEE do Conselho, de 7 de Março de 1985, relativa às normas de qualidade do ar para o dióxido de azoto ([^7^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#E0007)), e pela Directiva 92/72/CEE do Conselho, de 21 de Setembro de 1992, relativa à poluição atmosférica pelo ozono ([^8^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#E0008)),\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "97d185e005db1f5c": {
+   "fragment_id": "Artigo 1.º — Objectivos",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos\n\nO objectivo geral da presente directiva consiste em definir os princípios de base de uma estratégia comum destinada a:\n\n— definir e estabelecer objectivos para a qualidade do ar ambiente na Comunidade, a fim de evitar, prevenir ou limitar os efeitos nocivos sobre a saúde humana e sobre o ambiente na sua globalidade,\n\n— avaliar, com base em métodos e critérios comuns, a qualidade do ar ambiente nos Estados-membros,\n\n— dispor de informações adequadas sobre a qualidade do ar ambiente e proceder de modo a que o público seja delas informado, designadamente através de limiares de alerta,\n\n— manter a qualidade do ar ambiente, quando esta é boa, e melhorá-la nos outros casos."
+  },
+  "12ddb02fc60df95d": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Ar ambiente»: o ar exterior da troposfera, excepto o ar dos locais de trabalho;\n\n2. «Poluente»: as substâncias introduzidas directa ou indirectamente pelo homem no ar ambiente capazes de produzir efeitos nocivos sobre a saúde humana ou o meio ambiente;\n\n3. «Nível»: a concentração no ar ambiente ou a deposição superficial de um poluente num dado intervalo de tempo;\n\n4. «Avaliação»: os métodos utilizados para medir, calcular, prever ou estimar o nível de um poluente no ar ambiente;\n\n5. «Valor-limite»: o nível fixado com base em conhecimentos científicos com o intuito de evitar, prevenir ou reduzir os efeitos nocivos sobre a saúde humana e/ou o ambiente na sua globalidade, susceptível de ser atingido num prazo determinado e que, quando atingido, não deverá ser excedido;\n\n6. «Valor-alvo»: o nível fixado com o intuito de evitar a longo prazo mais efeitos nocivos para a saúde humana e/ou o ambiente na sua globalidade, a alcançar, na medida do possível, no decurso de um período determinado;\n\n7. «Limiar de alerta»: o nível acima do qual uma exposição de curta duração acarreta riscos para a saúde humana e a partir do qual os Estados-membros tomarão medidas imediatas, tal como estipulado na presente directiva;\n\n8. «Margem de tolerância»: a percentagem do valor-limite em que este valor pode ser excedido de acordo com as condições constantes da presente directiva;\n\n9. «Zona»: parte do território dos Estados-membros, delimitada por eles próprios;\n\n10. «Aglomeração»: uma zona caracterizada por uma concentração de população superior a 250 000 habitantes ou, quando a concentração da população for inferior ou igual a 250 000 habitantes, uma densidade populacional por quilómetro quadrado que justifique que os Estados-membros avaliem e giram a qualidade do ar ambiente."
+  },
+  "fd7e22e00d38c5f8": {
+   "fragment_id": "Artigo 3.º — Aplicação e responsabilidades",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Aplicação e responsabilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aplicação e responsabilidades\n\nPara efeitos de aplicação da presente directiva, os Estados-membros devem designar, para os níveis apropriados, as autoridades competentes e os organismos encarregados de:\n\n— aplicar a presente directiva,\n\n— avaliar a qualidade do ar ambiente,\n\n— aprovar os dispositivos de medição (métodos, aparelhos, redes, laboratórios),\n\n— assegurar a qualidade da medição efectuada pelos dispositivos de medição, verificando a observância dessa qualidade através de tais dispositivos, particularmente mediante controlos de qualidade internos conforme, nomeadamente, os requisitos das normas europeias de garantia da qualidade,\n\n— analisar os métodos de avaliação,\n\n— coordenar no respectivo território os programas de garantia da qualidade a nível comunitário organizados pela Comissão.\n\nQuando os Estados-membros fornecerem à Comissão as informações a que se refere o primeiro parágrafo, torná-las-ão acessíveis ao público."
+  },
+  "dbf398564543de2d": {
+   "fragment_id": "Artigo 4.º — Fixação dos valores-limite e dos limiares de alerta para o ar ambiente",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Fixação dos valores-limite e dos limiares de alerta para o ar ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fixação dos valores-limite e dos limiares de alerta para o ar ambiente\n\n1. No que diz respeito aos poluentes enumerados no anexo I, a Comissão apresentará ao Conselho propostas relativas à fixação dos valores-limite e, de modo apropriado, aos limiares de alerta, de acordo com o seguinte calendário:\n\n— o mais tardar até 31 de Dezembro de 1996, no que diz respeito às substâncias 1 a 5,\n\n— de acordo com o artigo 8.º da Directiva 92/72/CEE para o ozono,\n\n— o mais tardar até 31 de Dezembro de 1997, para os poluentes 7 e 8,\n\n— o mais brevemente possível, e o mais tardar até 31 de Dezembro de 1999, no que diz respeito aos poluentes 9 a 13.\n\nPara fixar os valores-limite e, de forma adequada, os limiares de alerta, serão tomados em consideração, a título de exemplo, os factores constantes do anexo II.\n\nNo que respeita ao ozono, as referidas propostas tomarão em consideração os mecanismos específicos de formação desse poluente e, para o efeito, poderão prever valores-alvo e/ou valores-limite.\n\nSe for ultrapassado um «valor-alvo» fixado para o ozono, os Estados-membros informarão a Comissão das medidas tomadas para atingir este valor. Com base nesta informação, a Comissão avaliará se é necessário tomar medidas adicionais a nível comunitário e, eventualmente, apresentará propostas ao Conselho.\n\nQuanto aos outros poluentes, a Comissão apresentará ao Conselho propostas relativas à fixação de valores-limite e, de modo apropriado, de limiares de alerta sempre que, com base na evolução dos conhecimentos científicos e tendo em conta os critérios do anexo III, se verificar a necessidade de evitar, prevenir ou reduzir na Comunidade os efeitos nocivos desses poluentes para a saúde humana e/ou para o meio ambiente.\n\n2. Tomando em consideração os dados mais recentes da investigação científica nos domínios apropriados da epidemiologia e do ambiente, assim como os mais recentes progressos da metrologia, a Comissão providenciará para que sejam reavaliados os elementos sobre os quais se fundamentam os valores-limite e os limiares de alerta mencionados no número precedente.\n\n3. A fixação dos valores-limite e dos limiares de alerta deve ser acompanhada pela fixação dos critérios e técnicas para:\n\na) As medições a utilizar no âmbito da aplicação da legislação referida no n.º 1:\n\n— a localização dos pontos de amostragem,\n\n— o número mínimo de pontos de amostragem,\n\n— as técnicas de medição de referência e de amostragem;\n\nb) A utilização de outras técnicas de avaliação, nomeadamente a modelização da qualidade do ar ambiente:\n\n— a resolução espacial para a modelização e os métodos de avaliação objectiva,\n\n— as técnicas de referência para a modelização.\n\nEstes critérios e técnicas devem ser estabelecidos para cada um dos poluentes, tomando em consideração a ordem de grandeza das aglomerações ou dos níveis de poluentes nas zonas avaliadas.\n\n4. De modo a tomar em consideração os níveis efectivos de um determinado poluente na fixação dos valores-limite, bem como os prazos necessários para aplicar as medidas destinadas a melhorar a qualidade do ar ambiente, poderá igualmente ser fixada pelo Conselho uma margem de tolerância temporária para o valor-limite.\n\nEsta margem será reduzida segundo normas a definir para cada poluente, de forma a que o valor-limite seja atingido o mais tardar no termo de um prazo a determinar no momento da fixação desse valor.\n\n5. O Conselho adoptará a legislação prevista no n.º 1 e as disposições previstas nos n.^os^ 3 e 4 de acordo com as disposições do Tratado.\n\n6. Sempre que um Estado-membro tomar medidas mais estritas que as previstas no n.º 5 deve informar desse facto a Comissão.\n\n7. Sempre que um Estado-membro tencionar fixar valores-limite ou limiares de alerta relativamente a poluentes não referidos no anexo I e não abrangidos pelas disposições comunitárias relativas à qualidade do ar ambiente da Comunidade deve informar do facto a Comissão, em tempo útil. A Comissão deverá em tempo útil dar uma resposta à questão da necessidade de uma acção a nível comunitário segundo os critérios constantes do anexo III."
+  },
+  "06b5c3325b7f246c": {
+   "fragment_id": "Artigo 5.º — Avaliação preliminar da qualidade do ar ambiente",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Avaliação preliminar da qualidade do ar ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Avaliação preliminar da qualidade do ar ambiente\n\nOs Estados-membros que não disponham, para todas as zonas e aglomerações, de medições representativas dos níveis dos poluentes, procederão a campanhas de medição representativas, inquéritos ou avaliações, de modo a disporem desses dados atempadamente para a aplicação da legislação a que se refere o n.º 1 do artigo 4.º"
+  },
+  "3871748b8e80bd84": {
+   "fragment_id": "Artigo 6.º — Avaliação da qualidade do ar ambiente",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Avaliação da qualidade do ar ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Avaliação da qualidade do ar ambiente\n\n1. Uma vez definidos os valores-limite e os limiares de alerta, a qualidade do ar ambiente deverá ser avaliada em todo o território dos Estados-membros, nos termos das disposições do presente artigo.\n\n2. De acordo com os critérios previstos no n.º 3 do artigo 4.º, e quanto aos poluentes pertinentes por força do disposto nesse número, as medições são obrigatórias nas seguintes zonas:\n\n— aglomerações tal como as define o n.º 10 do artigo 2.º,\n\n— zonas em que os níveis se situam entre os valores-limite e os níveis previstos no n.º 3,\n\n— e\n\n— nas restantes zonas em que os níveis ultrapassem os valores-limite.\n\nAs medidas previstas podem ser completadas por meio de técnicas de modelização destinadas a fornecer a informação adequada sobre a qualidade do ar ambiente.\n\n3. Para avaliar a qualidade do ar ambiente pode ser utilizada uma combinação de medidas e de técnicas de modelização quando, durante um período representativo, os níveis forem inferiores a um nível, inferior ao valor-limite, a determinar de acordo com o disposto no n.º 5 do artigo 4.º\n\n4. No caso de os níveis serem inferiores a um nível a determinar de acordo com o disposto no n.º 5 do artigo 4.º, poderão utilizar-se apenas técnicas de modelização ou de estimativa objectiva para avaliar os níveis. Esta disposição não se aplica nas aglomerações quanto aos poluentes para os quais os limiares de alerta tenham sido fixados de acordo com o disposto no n.º 5 do artigo 4.º\n\n5. Quando os poluentes devam ser medidos, essas medições devem ser efectuadas em locais fixos, quer de modo contínuo quer por amostragem aleatória; o número de medições deve ser suficiente para permitir a determinação dos níveis observados."
+  },
+  "25e2f313f24213b8": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nMelhoramento da qualidade do ar ambiente\n\nRequisitos gerais\n\n1. Os Estados-membros tomarão as medidas necessárias para garantir a observância dos valores-limite.\n\n2. As acções empreendidas para realizar os objectivos da presente directiva devem:\n\na) Ter em conta uma abordagem integrada da protecção do ar, da água e do solo;\n\nb) Não infringir a legislação comunitária relativa à protecção da segurança e saúde dos trabalhadores no local de trabalho;\n\nc) Não produzir efeitos negativos e relevantes no ambiente dos outros Estados-membros.\n\n3. Os Estados-membros devem estabelecer planos de acções a tomar de imediato para os casos de risco de ultrapassagem dos valores-limite e/ou dos limiares de alerta, a fim de reduzir o risco de ultrapassagem e limitar a sua duração. Estes planos podem prever, conforme o caso, medidas de controlo e, se necessário, de suspensão das actividades, inclusive do trânsito automóvel, que contribuam para a ultrapassagem dos valores-limite."
+  },
+  "a69da5bbd9318403": {
+   "fragment_id": "Artigo 8.º — Medidas aplicáveis nas zonas onde os níveis são superiores ao valor-limite",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Medidas aplicáveis nas zonas onde os níveis são superiores ao valor-limite",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Medidas aplicáveis nas zonas onde os níveis são superiores ao valor-limite\n\n1. Os Estados-membros devem estabelecer a lista das zonas e aglomerações em que os níveis de um ou mais poluentes são superiores ao valor-limite acrescido da margem de tolerância.\n\nQuando, em relação a determinado poluente, não tiver sido fixada uma margem de tolerância, as zonas e aglomerações em que o nível desse poluente ultrapassar o valor-limite serão assimiladas às zonas e aglomerações referidas no parágrafo anterior, sendo-lhes aplicáveis os n.^os^ 3, 4 e 5.\n\n2. Os Estados-membros devem estabelecer a lista das zonas e aglomerações em que os níveis de um ou vários poluentes se situam entre o valor-limite e o valor-limite acrescido da margem de tolerância.\n\n3. Nas zonas e aglomerações referidas no n.º 1, os Estados-membros devem tomar medidas para garantir que seja elaborado ou aplicado um plano ou programa destinado a fazer cumprir o valor-limite dentro do prazo fixado.\n\nEste plano ou programa, a que o público deve ter acesso, incluirá pelo menos as informações enumeradas no anexo IV.\n\n4. Nas zonas e aglomerações referidas no n.º 1 em que os níveis de mais de um poluente excedem os valores-limite, os Estados-membros estabelecerão um plano integrado abrangendo todos os poluentes em questão.\n\n5. A Comissão verificará regularmente a aplicação dos planos ou programas apresentados em execução do n.º 3, examinando os progressos alcançados e as tendências da poluição atmosférica.\n\n6. Sempre que, na sequência de poluição significativa com origem noutro Estado-membro, o nível de um poluente for superior, ou tender a ser superior, ao valor-limite acrescido da margem de tolerância, ou, eventualmente, ao limiar de alerta, os Estados-membros interessados consultar-se-ão mutuamente para dar remédio à situação. A Comissão poderá assistir a essas consultas."
+  },
+  "203bbe5ac88a9170": {
+   "fragment_id": "Artigo 9.º — Requisitos aplicáveis nas zonas em que os níveis são inferiores ao valor-limite",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Requisitos aplicáveis nas zonas em que os níveis são inferiores ao valor-limite",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Requisitos aplicáveis nas zonas em que os níveis são inferiores ao valor-limite\n\nOs Estados-membros estabelecerão a lista das zonas e aglomerações em que os níveis dos poluentes são inferiores aos valores-limite.\n\nNessas zonas e aglomerações, os Estados-membros manterão os níveis dos poluentes abaixo dos valores-limite e esforçar-se-ão por preservar a melhor qualidade do ar ambiente compatível com o desenvolvimento sustentável."
+  },
+  "16f819b3b57fbe08": {
+   "fragment_id": "Artigo 10.º — Medidas aplicáveis em caso de ultrapassagem dos limiares de alerta",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Medidas aplicáveis em caso de ultrapassagem dos limiares de alerta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas aplicáveis em caso de ultrapassagem dos limiares de alerta\n\nQuando são excedidos os limiares de alerta, os Estados-membros garantirão que são tomada as medidas necessárias para informar o público (por exemplo, através da rádio, televisão ou imprensa). Os Estados-membros enviarão igualmente à Comissão, a título provisório, informações relativas aos níveis registados e à duração do episódio ou episódios de poluição no prazo máximo de três meses após a sua ocorrência. A lista das informações mínimas a divulgar ao público deverá ser elaborada conjuntamente com os limiares de alerta."
+  },
+  "798d78e17663f67b": {
+   "fragment_id": "Artigo 11.º — Envio de informações e relatórios",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Envio de informações e relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Envio de informações e relatórios\n\nApós adopção pelo Conselho da primeira proposta referida no n.º 1 do artigo 4.º:\n\n1. Os Estados-membros darão a conhecer à Comissão quais as autoridades competentes, laboratórios, e organismos referidos no artigo 3.º, e:\n\na) Nas zonas referidas no n.º 1 do artigo 8.º:\n\ni) assinalar-lhe-ão a ocorrência de níveis acima do valor-limite acrescido da margem de tolerância, datas ou períodos da ocorrência desses níveis e valores registados no prazo de nove meses após o final de cada ano;\n\nii) assinalar-lhe-ão as razões de cada uma das ocorrências no prazo de nove meses após o final de cada ano;\n\niii) enviar-lhe-ão os planos ou programas previstos no n.º 3 do artigo 8.º, o mais tardar no prazo de dois anos após o final do ano no decurso do qual se registaram os níveis em questão;\n\niv) informá-la-ão, de três em três anos, acerca dos progressos registados na aplicação do plano ou programa;\n\nb) Enviar-lhe-ão anualmente, e o mais tardar nove meses após o final de cada ano, a lista das zonas e aglomerações referidas nos n.^os^ 1 e 2 do artigo 8.º e no artigo 9.º;\n\nc) No âmbito do relatório sectorial referido no artigo 4.º da Directiva 91/692/CEE, de 23 de Dezembro de 1991, relativa à normalização e à racionalização dos relatórios sobre a aplicação de determinadas directivas respeitantes ao ambiente ([^9^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#E0009)), enviar-lhe-ão, de três em três anos, e o mais tardar nove meses após cada período de três anos, informações que resumam os níveis observados ou avaliados, conforme o caso, nas zonas e aglomerações referidas nos artigos 8.º e 9.º;\n\nd) Comunicar-lhe-ão os métodos utilizados na avaliação preliminar da qualidade do ar, prevista no artigo 5.º\n\n2. A Comissão publicará:\n\na) Anualmente, uma lista das zonas e aglomerações referidas no n.º 1 do artigo 8.º;\n\nb) De três em três anos, um relatório relativo à qualidade do ar ambiente na Comunidade. Este relatório deverá apresentar de uma forma resumida as informações recebidas no âmbito de um mecanismo de troca de informações entre a Comissão e os Estados-membros.\n\n3. A Comissão deverá apelar tanto quanto necessário para a competência disponível na Agência Europeia do Ambiente para redigir o relatório a que se refere a alínea b) do ponto 2."
+  },
+  "6a6ee017682d6996": {
+   "fragment_id": "Artigo 12.º — Comité e funções do Comité",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Comité e funções do Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comité e funções do Comité\n\n1. As disposições circunstanciadas aplicáveis à apresentação das informações a prestar nos termos do artigo 11.º são aprovadas nos termos do n.º 3.\n\n2. A Comissão é assistida por um Comité.\n\n3. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^10^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#E0010)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n4. O Comité aprovará o seu regulamento interno."
+  },
+  "f6144f4e97a68c33": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar dezoito meses após a sua entrada em vigor, no que diz respeito às disposições relativas aos artigos 1.º a 4.º e 12.º e aos anexos I, II, III e IV, e, no que diz respeito às disposições relativas aos restantes artigos, o mais tardar à data em que as disposições referidas no n.º 5 do artigo 4.º sejam aplicáveis.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão os textos das disposições essenciais de direito interno que adoptarem no domínio regido pela presente directiva."
+  },
+  "9ebe9ce4c9b08dca": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "5459240020eddcf5": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "ca253e20ddef3325": {
+   "fragment_id": "LISTA DOS POLUENTES ATMOSFÉRICOS QUE DEVEM SER TOMADOS EM CONSIDERAÇÃO NO ÂMBITO DA AVALIAÇÃO E GESTÃO DA QUALIDADE DO AR AMBIENTE",
+   "type": "divisao",
+   "heading": "LISTA DOS POLUENTES ATMOSFÉRICOS QUE DEVEM SER TOMADOS EM CONSIDERAÇÃO NO ÂMBITO DA AVALIAÇÃO E GESTÃO DA QUALIDADE DO AR AMBIENTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA DOS POLUENTES ATMOSFÉRICOS QUE DEVEM SER TOMADOS EM CONSIDERAÇÃO NO ÂMBITO DA AVALIAÇÃO E GESTÃO DA QUALIDADE DO AR AMBIENTE"
+  },
+  "e4e0bf8ff529f31a": {
+   "fragment_id": "I. Poluentes a analisar na fase inicial, incluindo os abrangidos pelas directivas comunitárias existentes no domínio da qualidade do ar ambiente",
+   "type": "divisao",
+   "heading": "I. Poluentes a analisar na fase inicial, incluindo os abrangidos pelas directivas comunitárias existentes no domínio da qualidade do ar ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Poluentes a analisar na fase inicial, incluindo os abrangidos pelas directivas comunitárias existentes no domínio da qualidade do ar ambiente\n\n1. Dióxido de enxofre\n\n2. Dióxido de azoto\n\n3. Partículas finas, tais como fumos negros (incluindo PM 10)\n\n4. Partículas em suspensão\n\n5. Chumbo\n\n6. Ozono"
+  },
+  "bb08b49d07c033b1": {
+   "fragment_id": "II. Outros poluentes atmosféricos",
+   "type": "divisao",
+   "heading": "II. Outros poluentes atmosféricos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Outros poluentes atmosféricos\n\n7. Benzeno\n\n8. Monóxido de carbono\n\n9. Hidrocarbonetos aromáticos policíclicos\n\n10. Cádmio\n\n11. Arsénio\n\n12. Níquel\n\n13. Mercúrio"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "0327ecf8c6254336": {
+   "fragment_id": "FACTORES A CONSIDERAR NA FIXAÇÃO DOS VALORES-LIMITE E DOS LIMIARES DE ALERTA",
+   "type": "divisao",
+   "heading": "FACTORES A CONSIDERAR NA FIXAÇÃO DOS VALORES-LIMITE E DOS LIMIARES DE ALERTA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FACTORES A CONSIDERAR NA FIXAÇÃO DOS VALORES-LIMITE E DOS LIMIARES DE ALERTA\n\nNa fixação do valor-limite e, de modo apropriado, do limiar de alerta, os factores a seguir referidos a título de exemplo poderão, nomeadamente, ser considerados:\n\n— grau de exposição das populações, nomeadamente dos subgrupos sensíveis,\n\n— condições climáticas,\n\n— sensibilidade da fauna e da flora e dos respectivos habitats,\n\n— património histórico expostos aos poluentes,\n\n— viabilidade económica e técnica,\n\n— transporte dos poluentes a longa distância, nomeadamente dos poluentes secundários, incluindo o ozono."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "bac5c465b964e9c5": {
+   "fragment_id": "CRITÉRIOS PARA A SELECÇÃO DOS POLUENTES ATMOSFÉRICOS A TOMAR EM CONSIDERAÇÃO",
+   "type": "divisao",
+   "heading": "CRITÉRIOS PARA A SELECÇÃO DOS POLUENTES ATMOSFÉRICOS A TOMAR EM CONSIDERAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRITÉRIOS PARA A SELECÇÃO DOS POLUENTES ATMOSFÉRICOS A TOMAR EM CONSIDERAÇÃO\n\n1. Possibilidade, gravidade e frequência dos efeitos; no que diz respeito à saúde humana e ao ambiente, deverão ser objecto de uma atenção especial os efeitos irreversíveis.\n\n2. Presença generalizada e concentração elevada do poluente na atmosfera.\n\n3. Transformações ambientais ou alterações metabólicas, na medida em que essas alterações possam conduzir à produção de substâncias químicas mais tóxicas.\n\n4. Persistência no ambiente, em especial se o poluente não for biodegradável e se for susceptível de se acumular nos seres humanos, no ambiente ou nas cadeias alimentares.\n\n5. Impacte do poluente: — dimensão da população, recursos vivos ou ecossistemas expostos, — existência de alvos particularmente sensíveis na zona em questão.\n\n6. Podem também ser utilizados métodos de avaliação do risco. Os critérios relevantes de perigo estabelecidos no âmbito da Directiva 67/548/CEE ([^11^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#E0011)) e suas sucessivas adaptações deverão ser tomados em consideração dos poluentes."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "3fe183fa95dbc1c6": {
+   "fragment_id": "INFORMAÇÕES A INCLUIR NOS PROGRAMAS LOCAIS, REGIONAIS OU NACIONAIS PARA O MELHORAMENTO DA QUALIDADE DO AR AMBIENTE",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES A INCLUIR NOS PROGRAMAS LOCAIS, REGIONAIS OU NACIONAIS PARA O MELHORAMENTO DA QUALIDADE DO AR AMBIENTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÕES A INCLUIR NOS PROGRAMAS LOCAIS, REGIONAIS OU NACIONAIS PARA O MELHORAMENTO DA QUALIDADE DO AR AMBIENTE"
+  },
+  "b01ff6b19648b284": {
+   "fragment_id": "Informações a fornecer por força do n.º 3 do artigo 8.º",
+   "type": "divisao",
+   "heading": "Informações a fornecer por força do n.º 3 do artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informações a fornecer por força do n.º 3 do artigo 8.º"
+  },
+  "b3c6e98d4e21744d": {
+   "fragment_id": "1. Localização da ultrapassagem",
+   "type": "divisao",
+   "heading": "1. Localização da ultrapassagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Localização da ultrapassagem\n\n— Região\n\n— Cidade (mapa)\n\n— Estação de medição (mapa, coordenadas geográficas)"
+  },
+  "6512677cb5e637cf": {
+   "fragment_id": "2. Informações gerais",
+   "type": "divisao",
+   "heading": "2. Informações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Informações gerais\n\n— Tipo de zona (zona urbana, industrial ou rural)\n\n— Estimativa da área poluída (em quilómetros quadrados) e da população exposta à poluição\n\n— Dados climáticos úteis\n\n— Dados topográficos úteis\n\n— Informações suficientes relativas ao tipo de alvos que requerem protecção na zona"
+  },
+  "a5ed1c961f39a7fe": {
+   "fragment_id": "3. Autoridades responsáveis",
+   "type": "divisao",
+   "heading": "3. Autoridades responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Autoridades responsáveis\n\nNomes e endereços das entidades responsáveis pelo desenvolvimento e aplicação dos planos de melhoramento da qualidade do ar"
+  },
+  "373a5eae632a6e82": {
+   "fragment_id": "4. Natureza e avaliação da poluição",
+   "type": "divisao",
+   "heading": "4. Natureza e avaliação da poluição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Natureza e avaliação da poluição\n\n— Concentrações registadas nos anos anteriores (antes da aplicação das medidas de melhoramento da qualidade do ar)\n\n— Concentrações medidas desde o início do projecto\n\n— Técnicas utilizadas na avaliação"
+  },
+  "5e366fc1b400e07f": {
+   "fragment_id": "5. Origem da poluição",
+   "type": "divisao",
+   "heading": "5. Origem da poluição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Origem da poluição\n\n— Listas das principais fontes de emissão responsáveis pela poluição (mapa)\n\n— Quantidade total das emissões provenientes dessas fontes (toneladas por ano)\n\n— Informações relativas à poluição proveniente de outras regiões"
+  },
+  "c569215635272b5c": {
+   "fragment_id": "6. Análise da situação",
+   "type": "divisao",
+   "heading": "6. Análise da situação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. Análise da situação\n\n— Esclarecimentos sobre os factores responsáveis pela ultrapassagem (transporte, incluindo transporte transfronteiras, formação)\n\n— Esclarecimentos sobre as possíveis medidas de melhoramento da qualidade do ar"
+  },
+  "58d3c3e7baaef503": {
+   "fragment_id": "7. Informações sobre as medidas ou projectos de melhoramento da qualidade do ar que já existiam antes da entrada em vigor da presente directiva",
+   "type": "divisao",
+   "heading": "7. Informações sobre as medidas ou projectos de melhoramento da qualidade do ar que já existiam antes da entrada em vigor da presente directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. Informações sobre as medidas ou projectos de melhoramento da qualidade do ar que já existiam antes da entrada em vigor da presente directiva\n\n— Medidas locais, regionais, nacionais e internacionais\n\n— Efeitos observados das referidas medidas"
+  },
+  "f0e8b5f529f2324a": {
+   "fragment_id": "8. Informações sobre as medidas ou projectos adoptados com vista a reduzir a poluição, na sequência da entrada em vigor da presente directiva",
+   "type": "divisao",
+   "heading": "8. Informações sobre as medidas ou projectos adoptados com vista a reduzir a poluição, na sequência da entrada em vigor da presente directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. Informações sobre as medidas ou projectos adoptados com vista a reduzir a poluição, na sequência da entrada em vigor da presente directiva\n\n— Enumeração e descrição de todas as medidas previstas no projecto\n\n— Calendário da sua aplicação\n\n— Estimativa do melhoramento da qualidade do ar planeado ou do prazo previsto para a realização de tais objectivos"
+  },
+  "8fcdf17db1d61ce8": {
+   "fragment_id": "9. Informações sobre as medidas ou projectos a longo prazo, previstos ou planeados",
+   "type": "divisao",
+   "heading": "9. Informações sobre as medidas ou projectos a longo prazo, previstos ou planeados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9. Informações sobre as medidas ou projectos a longo prazo, previstos ou planeados"
+  },
+  "caed82512e7bcd9a": {
+   "fragment_id": "10. Lista das publicações, documentos, trabalhos, etc. utilizados para completar o presente anexo",
+   "type": "divisao",
+   "heading": "10. Lista das publicações, documentos, trabalhos, etc. utilizados para completar o presente anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10. Lista das publicações, documentos, trabalhos, etc. utilizados para completar o presente anexo\n\n---"
+  },
+  "9b6df15517cd1a1f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#src.E0001)) JO n.º C 216 de 6.8.1994, p. 4.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#src.E0002)) JO n.º C 110 de 2.5.1995, p. 5.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 16 de Junho de 1995 (JO n.º C 166 de 3.7.1995, p. 173), posição comum do Conselho de 30 de Novembro de 1995 (JO n.º C 59 de 28.2.1996, p. 24) e decisão do Parlamento Europeu de 22 de Maio de 1996 (JO n.º C 166 de 10.6.1996, p. 63).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#src.E0004)) JO n.º C 138 de 17.5.1993, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#src.E0005)) JO n.º L 229 de 30.8.1980, p. 30. Directiva com a última redacção que lhe foi dada pela Directiva 91/692/CEE (JO n.º L 377 de 31.12.1991, p. 48).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#src.E0006)) JO n.º L 378 de 31.12.1982, p. 15. Directiva com a última redacção que lhe foi dada pela Directiva 91/692/CEE.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#src.E0007)) JO n.º L 87 de 27.3.1985, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 91/692/CEE.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#src.E0008)) JO n.º L 297 de 13.10.1992, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#src.E0009)) JO n.º L 377 de 31.12.1991, p. 48.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#src.E0010)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/1cbb29dc-b4f7-404c-ad60-3a157a9ab712.0018.03/DOC_1#src.E0011)) JO n.º 196 de 16.8.1967, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 91/632/CEE da Comissão (JO n.º L 338 de 10.12.1991, p. 23)."
+  },
+  "7f1afc3da658c7fe": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1996L0062 — PT — 11.06.2008 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31996L0062) [DIRECTIVA 96/62/CE DO CONSELHO](http://publications.europa.eu/resource/celex/31996L0062) [de 27 de Setembro de 1996](http://publications.europa.eu/resource/celex/31996L0062) [relativa à avaliação e gestão da qualidade do ar ambiente](http://publications.europa.eu/resource/celex/31996L0062) (JO L 296, 21.11.1996, p.55)\n\n**revogado por:**\n\n- [Directiva 2008/50/CE do Parlamento Europeu e do Conselho de 21 de Maio de 2008](http://publications.europa.eu/resource/celex/32008L0050) — L 152 — 1 — 11.6.2008"
+  }
+ }
+}

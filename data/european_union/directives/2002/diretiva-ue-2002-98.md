@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-08-07'
+version_history:
+  file: diretiva-ue-2002-98.versoes.json
+  count: 1
+  source_lastmod: '2009-08-07'
+  versions:
+  - date: '2009-08-07'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32002L0098
   eli: http://data.europa.eu/eli/dir/2002/98/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/408e3121-2694-467b-905b-dfa95f554d4a.0010
   content_url: http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0098-20090807
-  retrieved_at: '2026-10-22T02:37:40Z'
+  retrieved_at: '2026-10-22T14:52:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-27T18:05:00.350+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:40Z'
-  notes: Texto consolidado 02002L0098-20090807.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:29Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2002-98.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -228,29 +237,20 @@ relationships:
   date: '2024-07-17'
 article_structure:
   article_count: 34
-  section_count: 30
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 31
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:40Z'
-  warnings: []
+  checked_at: '2026-10-22T14:52:29Z'
+  warnings:
+  - '02002L0098-20030208: versão indisponível (Sem expressão na língua por para CELEX 02002L0098-20030208.)'
   errors: []
 ---
 
 # Directiva 2002/98/CE do Parlamento Europeu e do Conselho, de 27 de Janeiro de 2003
-
-> 2002L0098 — PT — 07.08.2009 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0596) — [REGULAMENTO (CE) N.º 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0596) — L 188 — 14 — 18.7.2009
-
-## DIRECTIVA 2002/98/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 27 de Janeiro de 2003
 

@@ -35,6 +35,92 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-01-01'
+version_history:
+  file: regulamento-ue-1993-404.versoes.json
+  count: 3
+  source_lastmod: '2008-01-01'
+  versions:
+  - date: '1993-02-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:31993R3518:por
+    amending_title: M1; REGULAMENTO (CE) N.O 3290/94 DO CONSELHO de 22 de Dezembro de 1994; REGULAMENTO (CE) N.O 1637/98 DO
+      CONSELHO de 20 de Julho de 1998; M4; REGULAMENTO (CE) N. o 216/2001 DO CONSELHO de 29 de Janeiro de 2001; REGULAMENTO
+      (CE) N. o 2587/2001 DO CONSELHO de 19 de Dezembro de 2001; REGULAMENTO (CE) N. o 2013/2006 DO CONSELHO de 19 de Dezembro
+      de 2006; Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da
+      República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia,
+      da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita TÍTULO I
+    - Adita Das normas comuns de qualidade e de comercialização
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita TÍTULO IV
+    - Adita Do regime comercial com países terceiros
+    - Adita Artigo 15.º
+    - Adita TÍTULO V
+    - Adita Das disposições gerais
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 27.º
+    - Adita Artigo 28.º
+    - Adita Artigo 29.º
+    - Adita Artigo 29.º-A
+    - Adita Artigo 33.º
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime TÍTULO I Das normas comuns de qualidade e de comercialização — Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime TÍTULO II Das organizações de produtores e dos mecanismos de concertação — Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o — As normas de execução do presente título serão adoptadas de acordo com o processo previsto no artigo
+      27o
+    - Suprime TÍTULO III Do regime das ajudas — Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o — As modalidades de aplicação do presente título serão adoptadas de acordo com o procedimento previsto
+      no artigo 27o
+    - Suprime TÍTULO IV Do regime comercial com países terceiros — Artigo 15o
+    - Suprime Artigo 16o
+    - Suprime Artigo 17o
+    - Suprime Artigo 18o
+  - date: '2008-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime TÍTULO I
+    - Suprime Das normas comuns de qualidade e de comercialização
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime TÍTULO IV
+    - Suprime Do regime comercial com países terceiros
+    - Suprime Artigo 15.º
+    - Suprime TÍTULO V
+    - Suprime Das disposições gerais
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime Artigo 24.º
+    - Suprime Artigo 27.º
+    - Suprime Artigo 28.º
+    - Suprime Artigo 29.º
+    - Suprime Artigo 29.º-A
+    - Suprime Artigo 33.º
+    - Suprime Notas
 identifiers:
   celex: 31993R0404
   eli: http://data.europa.eu/eli/reg/1993/404/oj
@@ -49,7 +135,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4287706a-0bd9-47f4-b37d-0e522227aa28.0011
   content_url: http://publications.europa.eu/resource/cellar/fb192afc-18bb-41ce-8772-5cf1c594ab48.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R0404-20080101
-  retrieved_at: '2026-10-22T03:07:21Z'
+  retrieved_at: '2026-10-22T14:42:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T04:45:40.442+01:00'
 integrity:
@@ -58,9 +144,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:07:21Z'
-  notes: Texto consolidado 01993R0404-20080101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:26Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1993-404.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -211,16 +297,21 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:07:21Z'
+  checked_at: '2026-10-22T14:42:26Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01993R0404-19930701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R0404-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R0404-19990101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R0404-19990703: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R0404-20010701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R0404-20020101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R0404-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

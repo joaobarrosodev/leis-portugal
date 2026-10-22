@@ -36,6 +36,83 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-12-13'
+version_history:
+  file: regulamento-ue-2001-2065.versoes.json
+  count: 5
+  source_lastmod: '2014-12-13'
+  versions:
+  - date: '2001-10-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-01'
+    amending: null
+    amending_title: Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre,
+      da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia,
+      da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 10.º
+    - Adita CAPÍTULO I
+    - Adita Âmbito
+    - Adita CAPÍTULO II
+    - Adita Alteração da lista de denominações comerciais e regras de informação do consumidor
+    - Adita CAPÍTULO III
+    - Adita Rastreio e controlo
+    - Adita CAPÍTULO IV
+    - Adita Disposições finais
+    - Adita ANEXO
+    - Adita Notas
+    - Suprime CAPÍTULO I — Âmbito
+    - Suprime CAPÍTULO II — Alteração da lista de denominações comerciais e regras de informação do consumidor
+    - Suprime CAPÍTULO III — Rastreio e controlo
+    - Suprime CAPÍTULO IV — Disposições finais
+    - Suprime ANEXO — >POSIÇÃO NUMA TABELA>
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1792:por
+    amending_title: REGULAMENTO (CE) N. o 1792/2006 DA COMISSÃO de 23 de Outubro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0519:por
+    amending_title: REGULAMENTO (UE) N. o 519/2013 DA COMISSÃO de 21 de fevereiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2014-12-13'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime Âmbito
+    - Suprime Artigo 1.º
+    - Suprime CAPÍTULO II
+    - Suprime Alteração da lista de denominações comerciais e regras de informação do consumidor
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime CAPÍTULO III
+    - Suprime Rastreio e controlo
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime CAPÍTULO IV
+    - Suprime Disposições finais
+    - Suprime Artigo 10.º
+    - Suprime ANEXO
+    - Suprime Notas
 identifiers:
   celex: 32001R2065
   eli: http://data.europa.eu/eli/reg/2001/2065/oj
@@ -50,7 +127,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a247b622-87bb-40e4-9702-921ce4f32248.0010
   content_url: http://publications.europa.eu/resource/cellar/36ee874a-8de0-4e36-bb01-b61a17811fb3.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R2065-20141213
-  retrieved_at: '2026-10-22T02:41:18Z'
+  retrieved_at: '2026-10-22T14:50:56Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-15T17:54:06.745+01:00'
 integrity:
@@ -59,9 +136,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:18Z'
-  notes: Texto consolidado 02001R2065-20141213.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:56Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2001-2065.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -160,16 +237,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:18Z'
+  checked_at: '2026-10-22T14:50:56Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02001R2065-20011030: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

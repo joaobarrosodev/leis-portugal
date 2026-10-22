@@ -36,6 +36,104 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-04-08'
+version_history:
+  file: regulamento-ue-2002-1592.versoes.json
+  count: 3
+  source_lastmod: '2008-04-08'
+  versions:
+  - date: '2002-09-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-03-29'
+    amending: eu:celex:32003R1701:por
+    amending_title: M1; REGULAMENTO (CE) N. o 1643/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Julho de 2003; REGULAMENTO
+      (CE) N. o 334/2007 DA COMISSÃO de 28 de Março de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Requisitos essenciais de protecção ambiental
+    - Altera Artigo 9.º — Aceitação de homologação concedida por países terceiros
+    - Altera Artigo 24.º — Competência do Conselho de Administração
+    - Altera Artigo 47.º — Transparência e comunicação
+    - Altera Artigo 48.º — Orçamento
+    - Altera Artigo 50.º — Luta contra a fraude
+    - Altera Artigo 52.º — Disposições financeiras
+    - Altera Artigo 58.º — Entrada em vigor
+    - Adita CAPÍTULO I
+    - Adita PRINCÍPIOS
+    - Adita CAPÍTULO II
+    - Adita REQUISITOS ESSENCIAIS
+    - Adita CAPÍTULO III
+    - Adita AGÊNCIA EUROPEIA PARA A SEGURANÇA DA AVIAÇÃO
+    - Adita SECÇÃO I
+    - Adita ATRIBUIÇÕES
+    - Adita SECÇÃO II
+    - Adita ESTRUTURA INTERNA
+    - Adita SECÇÃO III
+    - Adita MÉTODOS DE TRABALHO
+    - Adita SECÇÃO IV
+    - Adita DISPOSIÇÕES FINANCEIRAS
+    - Adita Artigo 49.º — Execução e controlo do orçamento
+    - Adita CAPÍTULO IV
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita ANEXO I
+    - Adita Requisitos essenciais de aeronavegabilidade (previstos no artigo 5.º)
+    - Adita ANEXO II
+    - Adita Aeronaves, a que se refere o n.º 2 do artigo 4.º
+    - Adita Notas
+    - Suprime CAPÍTULO I — PRINCÍPIOS
+    - Suprime CAPÍTULO II — REQUISITOS ESSENCIAIS
+    - Suprime CAPÍTULO III — AGÊNCIA EUROPEIA PARA A SEGURANÇA DA AVIAÇÃO
+    - Suprime SECÇÃO I — ATRIBUIÇÕES
+    - Suprime SECÇÃO II — ESTRUTURA INTERNA
+    - Suprime SECÇÃO III — MÉTODOS DE TRABALHO
+    - Suprime SECÇÃO IV — DISPOSIÇÕES FINANCEIRAS
+    - Suprime Artigo 49.º — Execução e controlo orçamental
+    - Suprime CAPÍTULO IV — DISPOSIÇÕES FINAIS
+  - date: '2008-04-08'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime PRINCÍPIOS
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Objectivos
+    - Suprime Artigo 3.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime REQUISITOS ESSENCIAIS
+    - Suprime Artigo 4.º — Princípios básicos e aplicabilidade
+    - Suprime Artigo 5.º — Aeronavegabilidade
+    - Suprime Artigo 6.º — Requisitos essenciais de protecção ambiental
+    - Suprime Artigo 7.º — Operações aéreas e licenciamento da tripulação
+    - Suprime Artigo 8.º — Reconhecimento de certificados
+    - Suprime Artigo 9.º — Aceitação de homologação concedida por países terceiros
+    - Suprime Artigo 10.º — Flexibilidade
+    - Suprime Artigo 11.º — Rede de informação
+    - Suprime CAPÍTULO III
+    - Suprime AGÊNCIA EUROPEIA PARA A SEGURANÇA DA AVIAÇÃO
+    - Suprime SECÇÃO I
+    - Suprime ATRIBUIÇÕES
+    - Suprime Artigo 12.º — Criação e atribuições da Agência
+    - Suprime Artigo 13.º — Diligências da Agência
+    - Suprime Artigo 14.º — Pareceres, especificações de certificação e documentos de orientação
+    - Suprime Artigo 15.º — Certificação de aeronavegabilidade e certificação ambiental
+    - Suprime Artigo 16.º — Controlo da aplicação das regras
+    - Suprime Artigo 17.º — Investigação
+    - Suprime Artigo 18.º — Relações internacionais
+    - Suprime SECÇÃO II
+    - Suprime ESTRUTURA INTERNA
+    - Suprime Artigo 19.º — Estatuto jurídico, sede, delegações
+    - Suprime Artigo 20.º — Pessoal
+    - Suprime Artigo 21.º — Privilégios e imunidades
+    - Suprime Artigo 22.º — Responsabilidade
+    - Suprime Artigo 23.º — Publicação de documentos
+    - Suprime Artigo 24.º — Competência do Conselho de Administração
+    - Suprime Artigo 25.º — Composição do Conselho de Administração
+    - Suprime Artigo 26.º — Presidência do Conselho de Administração
+    - Suprime Artigo 27.º — Reuniões
+    - Suprime Artigo 28.º — Votação
+    - Suprime Artigo 29.º — Funções e competência do director executivo
 identifiers:
   celex: 32002R1592
   eli: http://data.europa.eu/eli/reg/2002/1592/oj
@@ -50,7 +148,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d64fc51e-4bcc-4b7c-b833-fafed49e7f61.0010
   content_url: http://publications.europa.eu/resource/cellar/4bd01802-af63-4e3c-a44f-6a520a562440.0013.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R1592-20080408
-  retrieved_at: '2026-10-22T02:39:05Z'
+  retrieved_at: '2026-10-22T14:53:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T08:06:50.062+01:00'
 integrity:
@@ -59,9 +157,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:05Z'
-  notes: Texto consolidado 02002R1592-20080408.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:53:04Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2002-1592.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -232,16 +330,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:05Z'
+  checked_at: '2026-10-22T14:53:04Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02002R1592-20030928: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R1592-20031001: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

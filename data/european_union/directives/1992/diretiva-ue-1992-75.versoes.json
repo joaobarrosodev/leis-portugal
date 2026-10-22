@@ -1,0 +1,408 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992L0075:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0075-20110721",
+ "dre_path": null,
+ "source_lastmod": "2011-07-21",
+ "versions": [
+  {
+   "date": "1992-10-13",
+   "future": false,
+   "celex": "31992L0075",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3be5aac8d9794c22",
+    "acd1d6dd4940dd3d",
+    "f91863b56e2b6722",
+    "000a86e9b31c1e08",
+    "acc4d25fb4de262a",
+    "7e5bada588939174",
+    "6e677342bb9d57bf",
+    "d64c5f839ab6de6d",
+    "7506c050b9af13b3",
+    "d12c2f6703f4fa30",
+    "521333691971c417",
+    "ed627e5a657b4c65",
+    "bd4680b99e7e54fa",
+    "07132204deb20f17",
+    "85131765cd1b5bd3",
+    "19c640f3cf27c622"
+   ]
+  },
+  {
+   "date": "2008-12-11",
+   "future": false,
+   "celex": "01992L0075-20081211",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1882:por",
+     "title": "M1",
+     "published": null,
+     "celex": "32003R1882"
+    },
+    {
+     "id": "eu:celex:32008R1137:por",
+     "title": "REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE 22 de Outubro de 2008",
+     "published": null,
+     "celex": "32008R1137"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Notas",
+    "Suprime Artigo 1o.",
+    "Suprime Artigo 2o.",
+    "Suprime Artigo 3o.",
+    "Suprime Artigo 4o.",
+    "Suprime Artigo 5o.",
+    "Suprime Artigo 6o.",
+    "Suprime Artigo 7o.",
+    "Suprime Artigo 8o.",
+    "Suprime Artigo 9o.",
+    "Suprime Artigo 10o.",
+    "Suprime Artigo 11o.",
+    "Suprime Artigo 12o.",
+    "Suprime Artigo 13o.",
+    "Suprime Artigo 14o.",
+    "Suprime Artigo 15o."
+   ],
+   "fragments": [
+    "d1efb18f5eb471b6",
+    "30aa794299c6006d",
+    "d726c04267f9d4f2",
+    "d733c91dd8c8bf08",
+    "c691078ef8766d90",
+    "2b30ca83c9988554",
+    "4a6b34eb889a3e64",
+    "ba886d5087038166",
+    "c002594aba8e9933",
+    "59dc21b2f6fd79de",
+    "57144b5aa51f0571",
+    "19abf72dc02aa29e",
+    "578376a7029277cd",
+    "4d652c6cb087f2f6",
+    "fe4bac4afc651c18",
+    "4eeb78257d8bd1b3",
+    "699910b855ee1c3b"
+   ]
+  },
+  {
+   "date": "2011-07-21",
+   "future": false,
+   "celex": "01992L0075-20110721",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "41afa7df2e6b122a"
+   ]
+  }
+ ],
+ "fragments": {
+  "3be5aac8d9794c22": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 92/75/CEE do Conselho, de 22 de Setembro de 1992, relativa à indicação do consumo de energia dos aparelhos domésticos por meio de rotulagem e outras indicações uniformes relativas aos produtos** *Jornal Oficial nº L 297 de 13/10/1992 p. 0016 - 0019 Edição especial finlandesa: Capítulo 13 Fascículo 23 p. 0195 Edição especial sueca: Capítulo 13 Fascículo 23 p. 0195*\n\nDIRECTIVA 92/75/CEE DO CONSELHO de 22 de Setembro de 1992 relativa à indicação do consumo de energia dos aparelhos domésticos por meio de rotulagem e outras indicações uniformes relativas aos produtos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o.A,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que é ncessário tomar medidas destinadas a concluir progressivamente o mercado interno até 31 de Dezembro de 1992;\n\nConsiderando que alguns Estados-membros dispõem já do seu próprio sistema facultativo de informação sobre o consumo de energia dos aparelhos domésticos, nomeadamente por meio de rotulagem; que um Estado-membro propôs formalmente tornar o seu próprio sistema de rotulagem obrigatório e que outros Estados-membros estão a analisar a hipótese de proceder de modo semelhante; que a existência de diferentes sistemas nacionais obrigatórios iria criar entraves ao comércio intracomunitário;\n\nConsiderando que o artigo 130o.R do Tratado exige uma utilização prudente e racional dos recursos naturais; que a utilização racional da energia é um dos principais meios para alcançar este objectivo e reduzir a poluição do ambiente;\n\nConsiderando que a existência de uma informação rigorosa, adequada e comparável sobre o consumo específico de energia dos aparelhos domésticos pode orientar a escolha do consumidor em benefício dos aparelhos que consumam menos energia, incitando assim os fabricantes a tomar medidas destinadas a reduzir o consumo dos aparelhos que fabricam; que esta informação incentivará igualmente, de forma indirecta, a utilização racional desses aparelhos; que, na ausência dessa informação, o funcionamento das forças de mercado não promoverá, só por si, a utilização racional de energia, no que se refere a esses aparelhos;\n\nConsiderando que a informação desempenha um papel fundamental no funcionamento das forças do mercado e que, para esse efeito, é necessário introduzir um rótulo uniforme para todos os aparelhos do mesmo tipo, proporcionar aos potenciais compradores informações suplementares normalizadas sobre o custo em energia e o consumo de outros recursos por estes aparelhos e tomar medidas para que essas informações sejam igualmente fornecidas aos potenciais compradores que, não vendo o aparelho exposto, não têm a possibilidade de ver o rótulo;\n\nConsiderando que, para esse fim, o consumo de energia e as demais informações respeitantes a cada tipo de aparelho devem-se basear em medições feitas de acordo com normas e métodos harmonizados e que, na fase de comercialização, deve ser possível verificar a aplicação destas normas e métodos;\n\nConsiderando que a Directiva 79/530/CEE (4) visava promover estes objectivos no domínio dos aparelhos domésticos; que, contudo, só foi aprovada uma única directiva de aplicação relativa a fornos eléctricos e que poucos Estados-membros introduziram aquele rótulo; que é portanto necessário aprender com a experiência adquirida e reforçar as disposições da referida directiva; que, por conseguinte, a Directiva 79/530/CEE deve ser substituída e que a Directiva 79/531/CEE (5), relativa à aplicação a esses fornos eléctricos, deve ser revista e subsequentemente integrada no presente sistema;\n\nConsiderando que um sistema exclusivamente voluntário levaria a que apenas alguns aparelhos fossem rotulados ou fornecidos com informações normalizadas sobre o produto; que existe o perigo de tal situação criar confusões em alguns consumidores; que o presente sistema deve, pois, garantir que, quanto a todos os aparelhos em causa, o consumo de energia seja indicado por rotulagem e sejam fornecidas fichas informativas normalizadas sobre os produtos;\n\nConsiderando que os aparelhos domésticos utilizam uma grande variedade de formas de energia, sendo as mais importantes a electricidade e o gás; que, por conseguinte, a directiva deve abranger, em princípio, aparelhos que utilizam qualquer forma de energia;\n\nConsiderando que a Directiva 86/594/CEE do Conselho, de 1 de Dezembro de 1986, relativa ao ruído aéreo emitido pelos aparelhos domésticos (6), prevê a inclusão de uma indicação da emissão de ruído nos rótulos sobre consumo de energia, caso necessário; que, por conseguinte, deve ser prevista a inclusão de todas as outras informações e rotulagens abrangidas por sistemas comunitários;\n\nConsiderando que só devem ser abrangidos os tipos de aparelhos cujo consumo total de energia seja significativo e para os quais existam suficientes possibilidades de aumento do rendimento energético,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "acd1d6dd4940dd3d": {
+   "fragment_id": "Artigo 1o.",
+   "type": "artigo",
+   "heading": "Artigo 1o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o.\n\n1. A presente directiva tem como objectivo permitir a harmonização das medidas nacionais relativas à publicação, nomeadamente através de rotulagem e de informações sobre o produto, de informações sobre o consumo de energia e de outros recursos essenciais, bem como de informações suplementares relativas a determinados tipos de aparelhos domésticos, dando assim aos consumidores a possibilidade de escolherem aparelhos mais eficazes do ponto de vista energético. A presente directiva aplica-se aos seguintes tipos de aparelhos domésticos, mesmo quando vendidos para fins não domésticos:\n\n- frigoríficos, congeladores e suas combinações,\n\n- máquinas de lavar roupa, secadores de roupa e suas combinações,\n\n- máquinas de lavar louça,\n\n- fornos,\n\n- esquentadores e termoacumuladores,\n\n- fontes de iluminação,\n\n- aparelhos de ar condicionado.\n\n2. Nos termos da alínea b) do artigo 9o., podem ser aditados outros tipos de aparelhos domésticos à presente lista.\n\n3. A presente directiva não se aplica à chapa de características ou ao seu equivalente afixada naqueles aparelhos por razões de segurança.\n\n4. Para efeitos da presente directiva, entende-se por:\n\n- distribuidor: o retalhista ou outra pessoa que venda, alugue, ofereça para locação com opção de compra ou exponha aparelhos domésticos destinados ao utilizador final,\n\n- fornecedor: o fabricante ou o seu representante autorizado na Comunidade ou a pessoa que coloca o produto no mercado comunitário,\n\n- ficha: um quadro normalizado de informação relativa ao aparelho em causa,\n\n- outros recursos essenciais: água, produtos químicos ou quaisquer outros consumidos por um aparelho durante a sua utilização normal,\n\n- informações suplementares: as outras informações relativas ao rendimento de um aparelho que digam respeito ou que possam ser úteis para avaliar o seu consumo de energia ou de outros recursos essenciais.\n\n5. Não será exigida a aposição de rótulos ou o fornecimento de fichas em relação aos modelos de aparelhos cuja produção tenha cessado antes da entrada em aplicação da directiva de aplicação pertinente, nem aos aparelhos em segunda mão."
+  },
+  "f91863b56e2b6722": {
+   "fragment_id": "Artigo 2o.",
+   "type": "artigo",
+   "heading": "Artigo 2o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o.\n\n1. A informação relativa ao consumo de energia eléctrica e de outras formas de energia, bem como de outros recursos essenciais e as informações suplementares devem ser dadas a conhecer aos consumidores através de uma ficha de informação e de um rótulo relativo aos aparelhos domésticos postos em venda, em locação, em locação com opção de compra ou colocados em exposição tendo em vista o utilizador final.\n\n2. As modalidades relativas ao rótulo e à ficha serão definidas através de directivas respeitantes a cada tipo de aparelhos, adoptadas em aplicação da presente directiva, nos termos do artigo 9o.\n\n3. Será organizada uma documentação técnica que deve ser suficiente para permitir avaliar a exactidão das informações constantes do rótulo e da ficha. Essa documentação incluirá:\n\n- uma descrição geral do produto,\n\n- os resultados dos cálculos de projecto efectuados, sempre que sejam pertinentes,\n\n- relatórios de ensaios, quando disponíveis, incluindo os realizados por organismos notificados competentes nos termos de outras regulamentações comunitárias,\n\n- quando os valores se baseiem nos obtidos para modelos similares, as mesmas informações referentes a esses últimos.\n\n4. O fornecedor elaborará a documentação técnica descrita no no. 3. Para esse efeito, pode utilizar a documentação já exigida com base na legislação comunitária pertinente. O fornecedor facultará o acesso a essa documentação para efeitos de controlo por um período máximo de cinco anos após o fabrico do último produto."
+  },
+  "000a86e9b31c1e08": {
+   "fragment_id": "Artigo 3o.",
+   "type": "artigo",
+   "heading": "Artigo 3o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o.\n\n1. Todos os fornecedores que coloquem no mercado os aparelhos domésticos referidos nas directivas de aplicação fornecerão um rótulo de acordo com a presente directiva. Os rótulos utilizados devem obedecer, sob todos os aspectos, ao disposto na presente directiva e nas directivas de aplicação.\n\n2. Além dos rótulos, os fornecedores facultarão uma ficha de informação sobre o produto. Esta ficha será incluída em todas as brochuras relativas ao produto ou, se o fornecedor não fornecer brochuras, noutra literatura fornecida com o aparelho pelo fornecedor. As fichas utilizadas devem obedecer, sob todos os aspectos, ao disposto na presente directiva e nas directivas de aplicação.\n\n3. Os fornecedores são responsáveis pela exactidão das informações constantes dos rótulos e das fichas que forneçam.\n\n4. Considera-se que os fornecedores deram o seu consentimento à publicação das informações constantes do rótulo ou da ficha."
+  },
+  "acc4d25fb4de262a": {
+   "fragment_id": "Artigo 4o.",
+   "type": "artigo",
+   "heading": "Artigo 4o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o.\n\nNo que se refere à rotulagem e às informações relativas ao produto, são aplicáveis as seguintes disposições:\n\na) Sempre que um aparelho previsto numa directiva de aplicação esteja em exposição, os distribuidores aporão nele um rótulo adequado, em local claramente visível, previsto na correspondente directiva de aplicação e na língua apropriada;\n\nb) O fornecedor fornecerá gratuitamente aos distribuidores os rótulos necessários a que se refere a alínea a). Os fornecedores escolherão livremente o seu próprio sistema de entrega dos rótulos. Contudo, sempre que um distribuidor envie um pedido de rótulos, o fornecedor deve procurar que os rótulos solicitados sejam prontamente entregues."
+  },
+  "7e5bada588939174": {
+   "fragment_id": "Artigo 5o.",
+   "type": "artigo",
+   "heading": "Artigo 5o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o.\n\nSempre que os aparelhos em questão sejam postos à venda, em locação ou em locação com opção de compra por correspondência, por catálogo ou por qualquer outro meio que não implique que não existe a expectativa de que o potencial comprador veja o aparelho exposto, as directivas de aplicação conterão disposições destinadas a garantir que os potenciais compradores disponham das informações essenciais constantes do rótulo ou da ficha antes de comprarem um aparelho."
+  },
+  "6e677342bb9d57bf": {
+   "fragment_id": "Artigo 6o.",
+   "type": "artigo",
+   "heading": "Artigo 6o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o.\n\nAs directivas de aplicação devem prever a inclusão no rótulo ou na ficha das informações relativas ao ruído aéreo, sempre que estas informações devam ser fornecidas nos termos da Directiva 86/594/CEE, bem como de outras informações de natureza pública relativas ao aparelho em causa e fornecidas nos termos de outros actos comunitários."
+  },
+  "d64c5f839ab6de6d": {
+   "fragment_id": "Artigo 7o.",
+   "type": "artigo",
+   "heading": "Artigo 7o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o.\n\nOs Estados-membros tomarão todas as medidas necessárias para garantir que:\n\na) Todos os fornecedores e distribuidores estabelecidos no seu território cumpram as obrigações que lhes incumbem por força da presente directiva;\n\nb) Se puder induzir em erro ou criar confusões, seja proibida a aposição de outros rótulos, marcas, símbolos ou inscrições relativos ao consumo de energia que não obedeçam aos requisitos da presente directiva e das correspondentes directivas de aplicação. Esta proibição não se aplica aos sistemas de rótulos ecológicos comunitários ou nacionais;\n\nc) A introdução do sistema de rótulos e fichas relativas ao consumo de energia seja acompanhada de campanhas de informação de carácter educativo e promocional destinadas a fomentar uma utilização mais responsável da energia por parte dos consumidores privados."
+  },
+  "7506c050b9af13b3": {
+   "fragment_id": "Artigo 8o.",
+   "type": "artigo",
+   "heading": "Artigo 8o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o.\n\n1. Os Estados-membros não podem proibir nem restringir a colocação no mercado dos aparelhos domésticos abrangidos por uma directiva de aplicação, sempre que as disposições da presente directiva e das directivas de aplicação sejam observadas.\n\n2. Até prova em contrário, os Estados-membros considerarão que os rótulos e as fichas obedecem ao disposto na presente directiva e nas directivas de aplicação. Os Estados-membros podem exigir que os fornecedores apresentem provas, na acepção do no. 3 do artigo 2o., quanto à exactidão das informações constantes dos rótulos ou fichas, sempre que tiverem motivos para presumir que são incorrectas."
+  },
+  "d12c2f6703f4fa30": {
+   "fragment_id": "Artigo 9o.",
+   "type": "artigo",
+   "heading": "Artigo 9o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o.\n\nAs medidas relativas ao estabelecimento e ao funcionamento do sistema serão adoptadas e adaptadas ao progresso técnico de acordo com o procedimento previsto no artigo 10o. Essas medidas são:\n\na) As directivas de aplicação;\n\nb) O aditamento de outros aparelhos domésticos à lista constante do no. 1 do artigo 1o., na perspectiva de poupanças de energia importantes."
+  },
+  "521333691971c417": {
+   "fragment_id": "Artigo 10o.",
+   "type": "artigo",
+   "heading": "Artigo 10o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o.\n\nPara o adopção das medidas a que se refere a presente directiva e, nomeadamente, o artigo 9o., a Comissão será assistida por um comité composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\nO representante da Comissão submete à apreciação do comité um projecto das medidas a tomar. O comité emite o seu parecer sobre este projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer é emitido por maioria, nos termos previstos no no. 2 do artigo 148o. do Tratado para a adopção das decisões que o Conselho é convidado a tomar sob proposta da Comissão. Nas votações no seio do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\nA Comissão adopta as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nSe as medidas proejectadas não forem conformes com o parecer do comité ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas, excepto no caso de o Conselho se ter pronunciado por maioria simples contra as referidas medidas."
+  },
+  "ed627e5a657b4c65": {
+   "fragment_id": "Artigo 11o.",
+   "type": "artigo",
+   "heading": "Artigo 11o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o.\n\nNo termo de um prazo de três anos a contar da entrada em aplicação da presente directiva, a Comissão avaliará a aplicação desta e os resultados obtidos. Esta avaliação será objecto de relatório a apresentar ao Parlamento Europeu e ao Conselho."
+  },
+  "bd4680b99e7e54fa": {
+   "fragment_id": "Artigo 12o.",
+   "type": "artigo",
+   "heading": "Artigo 12o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o.\n\nAs directivas de aplicação especificarão:\n\na) A definição exacta do tipo de aparelhos abrangidos;\n\nb) As normas e os métodos de medição a utilizar para obtenção das informações a que se refere o no. 1 do artigo 1o.;\n\nc) As especificações relativas à documentação técnica exigida ao abrigo do no. 3 do artigo 2o.;\n\nd) O formato e o conteúdo do rótulo previsto no artigo 2o., que deve, sempre que possível, apresentar características gráficas uniformes;\n\ne) O local em que o rótulo deve ser afixado no aparelho; se necessário, podem prever a afixação ou impressão do rótulo na embalagem;\n\nf) O conteúdo e, se for caso disso, o formato e outras especificações da ficha ou das informações suplementares previstas no no. 2 do artigo 3o. As informações constantes do rótulo devem constar igualmente da ficha;\n\ng) As informações a fornecer nos casos de colocações à venda abrangidas pelo artigo 5o., assim como o modo como tais informações devem ser fornecidas."
+  },
+  "07132204deb20f17": {
+   "fragment_id": "Artigo 13o.",
+   "type": "artigo",
+   "heading": "Artigo 13o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o.\n\nÉ revogada a Directiva 79/530/CEE, com efeitos a 1 de Janeiro de 1994.\n\nA Directiva 79/531/CEE é considerada como directiva de aplicação da presente directiva em relação aos fornos eléctricos; contudo, os Estados-membros podem-se abster de lhe dar força obrigatória até uma data a fixar numa directiva de aplicação revista relativa aos fornos, adoptada de acordo com o procedimento previsto no artigo 10o."
+  },
+  "85131765cd1b5bd3": {
+   "fragment_id": "Artigo 14o.",
+   "type": "artigo",
+   "heading": "Artigo 14o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o.\n\n1. Os Estados-membros adoptarão as disposições necessárias para dar cumprimento à presente directiva até 1 de Julho de 1993 e desse facto informarão imediatamente a Comissão.\n\nOs Estados-membros aplicarão essas disposições a partir de 1 de Janeiro de 1994, o mais tardar.\n\n2. Quando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência quando da sua publicação oficial. As modalidades dessa referência serão adoptados pelos Estados-membros.\n\n3. Os Estados-membros comunicarão à Comissão o texto das disposições que adoptem no domínio regido pela presente directiva."
+  },
+  "19c640f3cf27c622": {
+   "fragment_id": "Artigo 15o.",
+   "type": "artigo",
+   "heading": "Artigo 15o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o.\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 22 de Setembro de 1992.\n\nPelo Conselho\n\nO Presidente\n\nR. NEEDHAM\n\n(1) JO no. C 235 de 10. 9. 1991, p. 5.(2) JO no. C 125 de 18. 5. 1992, p. 172; e JO no. C 241 de 21. 9. 1992.(3) JO no. C 49 de 24. 2. 1992, p. 32.(4) JO no. L 145 de 13. 6. 1979, p. 1.(5) JO no. L 145 de 13. 6. 1979, p. 7.(6) JO no. L 344 de 6. 12. 1986, p. 24."
+  },
+  "d1efb18f5eb471b6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Setembro de 1992\n\nrelativa à indicação do consumo de energia dos aparelhos domésticos por meio de rotulagem e outras indicações uniformes relativas aos produtos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/cbb2e6b7-48c6-4ccf-aabf-179d8ce1abfe.0018.03/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/cbb2e6b7-48c6-4ccf-aabf-179d8ce1abfe.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/cbb2e6b7-48c6-4ccf-aabf-179d8ce1abfe.0018.03/DOC_1#E0003)),\n\nConsiderando que é ncessário tomar medidas destinadas a concluir progressivamente o mercado interno até 31 de Dezembro de 1992;\n\nConsiderando que alguns Estados-membros dispõem já do seu próprio sistema facultativo de informação sobre o consumo de energia dos aparelhos domésticos, nomeadamente por meio de rotulagem; que um Estado-membro propôs formalmente tornar o seu próprio sistema de rotulagem obrigatório e que outros Estados-membros estão a analisar a hipótese de proceder de modo semelhante; que a existência de diferentes sistemas nacionais obrigatórios iria criar entraves ao comércio intracomunitário;\n\nConsiderando que o artigo 130.ºR do Tratado exige uma utilização prudente e racional dos recursos naturais; que a utilização racional da energia é um dos principais meios para alcançar este objectivo e reduzir a poluição do ambiente;\n\nConsiderando que a existência de uma informação rigorosa, adequada e comparável sobre o consumo específico de energia dos aparelhos domésticos pode orientar a escolha do consumidor em benefício dos aparelhos que consumam menos energia, incitando assim os fabricantes a tomar medidas destinadas a reduzir o consumo dos aparelhos que fabricam; que esta informação incentivará igualmente, de forma indirecta, a utilização racional desses aparelhos; que, na ausência dessa informação, o funcionamento das forças de mercado não promoverá, só por si, a utilização racional de energia, no que se refere a esses aparelhos;\n\nConsiderando que a informação desempenha um papel fundamental no funcionamento das forças do mercado e que, para esse efeito, é necessário introduzir um rótulo uniforme para todos os aparelhos do mesmo tipo, proporcionar aos potenciais compradores informações suplementares normalizadas sobre o custo em energia e o consumo de outros recursos por estes aparelhos e tomar medidas para que essas informações sejam igualmente fornecidas aos potenciais compradores que, não vendo o aparelho exposto, não têm a possibilidade de ver o rótulo;\n\nConsiderando que, para esse fim, o consumo de energia e as demais informações respeitantes a cada tipo de aparelho devem-se basear em medições feitas de acordo com normas e métodos harmonizados e que, na fase de comercialização, deve ser possível verificar a aplicação destas normas e métodos;\n\nConsiderando que a Directiva 79/530/CEE ([^4^](http://publications.europa.eu/resource/cellar/cbb2e6b7-48c6-4ccf-aabf-179d8ce1abfe.0018.03/DOC_1#E0004)) visava promover estes objectivos no domínio dos aparelhos domésticos; que, contudo, só foi aprovada uma única directiva de aplicação relativa a fornos eléctricos e que poucos Estados-membros introduziram aquele rótulo; que é portanto necessário aprender com a experiência adquirida e reforçar as disposições da referida directiva; que, por conseguinte, a Directiva 79/530/CEE deve ser substituída e que a Directiva 79/531/CEE ([^5^](http://publications.europa.eu/resource/cellar/cbb2e6b7-48c6-4ccf-aabf-179d8ce1abfe.0018.03/DOC_1#E0005)), relativa à aplicação a esses fornos eléctricos, deve ser revista e subsequentemente integrada no presente sistema;\n\nConsiderando que um sistema exclusivamente voluntário levaria a que apenas alguns aparelhos fossem rotulados ou fornecidos com informações normalizadas sobre o produto; que existe o perigo de tal situação criar confusões em alguns consumidores; que o presente sistema deve, pois, garantir que, quanto a todos os aparelhos em causa, o consumo de energia seja indicado por rotulagem e sejam fornecidas fichas informativas normalizadas sobre os produtos;\n\nConsiderando que os aparelhos domésticos utilizam uma grande variedade de formas de energia, sendo as mais importantes a electricidade e o gás; que, por conseguinte, a directiva deve abranger, em princípio, aparelhos que utilizam qualquer forma de energia;\n\nConsiderando que a Directiva 86/594/CEE do Conselho, de 1 de Dezembro de 1986, relativa ao ruído aéreo emitido pelos aparelhos domésticos ([^6^](http://publications.europa.eu/resource/cellar/cbb2e6b7-48c6-4ccf-aabf-179d8ce1abfe.0018.03/DOC_1#E0006)), prevê a inclusão de uma indicação da emissão de ruído nos rótulos sobre consumo de energia, caso necessário; que, por conseguinte, deve ser prevista a inclusão de todas as outras informações e rotulagens abrangidas por sistemas comunitários;\n\nConsiderando que só devem ser abrangidos os tipos de aparelhos cujo consumo total de energia seja significativo e para os quais existam suficientes possibilidades de aumento do rendimento energético,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "30aa794299c6006d": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva tem como objectivo permitir a harmonização das medidas nacionais relativas à publicação, nomeadamente através de rotulagem e de informações sobre o produto, de informações sobre o consumo de energia e de outros recursos essenciais, bem como de informações suplementares relativas a determinados tipos de aparelhos domésticos, dando assim aos consumidores a possibilidade de escolherem aparelhos mais eficazes do ponto de vista energético. A presente directiva aplica-se aos seguintes tipos de aparelhos domésticos, mesmo quando vendidos para fins não domésticos:\n\n— frigoríficos, congeladores e suas combinações,\n\n— máquinas de lavar roupa, secadores de roupa e suas combinações,\n\n— máquinas de lavar louça,\n\n— fornos,\n\n— esquentadores e termoacumuladores,\n\n— fontes de iluminação,\n\n— aparelhos de ar condicionado.\n\n2. Podem ser aditados outros tipos de aparelhos domésticos à lista do presente artigo. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 10.º.\n\n3. A presente directiva não se aplica à chapa de características ou ao seu equivalente afixada naqueles aparelhos por razões de segurança.\n\n4. Para efeitos da presente directiva, entende-se por:\n\n— *distribuidor*: o retalhista ou outra pessoa que venda, alugue, ofereça para locação com opção de compra ou exponha aparelhos domésticos destinados ao utilizador final,\n\n— *fornecedor*: o fabricante ou o seu representante autorizado na Comunidade ou a pessoa que coloca o produto no mercado comunitário,\n\n— *ficha*: um quadro normalizado de informação relativa ao aparelho em causa,\n\n— *outros recursos essenciais*: água, produtos químicos ou quaisquer outros consumidos por um aparelho durante a sua utilização normal,\n\n— *informações suplementares*: as outras informações relativas ao rendimento de um aparelho que digam respeito ou que possam ser úteis para avaliar o seu consumo de energia ou de outros recursos essenciais.\n\n5. Não será exigida a aposição de rótulos ou o fornecimento de fichas em relação aos modelos de aparelhos cuja produção tenha cessado antes da entrada em aplicação da directiva de aplicação pertinente, nem aos aparelhos em segunda mão."
+  },
+  "d726c04267f9d4f2": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A informação relativa ao consumo de energia eléctrica e de outras formas de energia, bem como de outros recursos essenciais e as informações suplementares devem ser dadas a conhecer aos consumidores através de uma ficha de informação e de um rótulo relativo aos aparelhos domésticos postos em venda, em locação, em locação com opção de compra ou colocados em exposição tendo em vista o utilizador final.\n\n2. As modalidades relativas ao rótulo e à ficha são definidas através de directivas respeitantes a cada tipo de aparelhos, aprovadas em execução da presente directiva. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 10.º.\n\n3. Será organizada uma documentação técnica que deve ser suficiente para permitir avaliar a exactidão das informações constantes do rótulo e da ficha. Essa documentação incluirá:\n\n— uma descrição geral do produto,\n\n— os resultados dos cálculos de projecto efectuados, sempre que sejam pertinentes,\n\n— relatórios de ensaios, quando disponíveis, incluindo os realizados por organismos notificados competentes nos termos de outras regulamentações comunitárias,\n\n— quando os valores se baseiem nos obtidos para modelos similares, as mesmas informações referentes a esses últimos.\n\n4. O fornecedor elaborará a documentação técnica descrita no n.º 3. Para esse efeito, pode utilizar a documentação já exigida com base na legislação comunitária pertinente. O fornecedor facultará o acesso a essa documentação para efeitos de controlo por um período máximo de cinco anos após o fabrico do último produto."
+  },
+  "d733c91dd8c8bf08": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Todos os fornecedores que coloquem no mercado os aparelhos domésticos referidos nas directivas de aplicação fornecerão um rótulo de acordo com a presente directiva. Os rótulos utilizados devem obedecer, sob todos os aspectos, ao disposto na presente directiva e nas directivas de aplicação.\n\n2. Além dos rótulos, os fornecedores facultarão uma ficha de informação sobre o produto. Esta ficha será incluída em todas as brochuras relativas ao produto ou, se o fornecedor não fornecer brochuras, noutra literatura fornecida com o aparelho pelo fornecedor. As fichas utilizadas devem obedecer, sob todos os aspectos, ao disposto na presente directiva e nas directivas de aplicação.\n\n3. Os fornecedores são responsáveis pela exactidão das informações constantes dos rótulos e das fichas que forneçam.\n\n4. Considera-se que os fornecedores deram o seu consentimento à publicação das informações constantes do rótulo ou da ficha."
+  },
+  "c691078ef8766d90": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nNo que se refere à rotulagem e às informações relativas ao produto, são aplicáveis as seguintes disposições:\n\na) Sempre que um aparelho previsto numa directiva de aplicação esteja em exposição, os distribuidores aporão nele um rótulo adequado, em local claramente visível, previsto na correspondente directiva de aplicação e na língua apropriada;\n\nb) O fornecedor fornecerá gratuitamente aos distribuidores os rótulos necessários a que se refere a alínea a). Os fornecedores escolherão livremente o seu próprio sistema de entrega dos rótulos. Contudo, sempre que um distribuidor envie um pedido de rótulos, o fornecedor deve procurar que os rótulos solicitados sejam prontamente entregues."
+  },
+  "2b30ca83c9988554": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSempre que os aparelhos em questão sejam postos à venda, em locação ou em locação com opção de compra por correspondência, por catálogo ou por qualquer outro meio que não implique que não existe a expectativa de que o potencial comprador veja o aparelho exposto, as directivas de aplicação conterão disposições destinadas a garantir que os potenciais compradores disponham das informações essenciais constantes do rótulo ou da ficha antes de comprarem um aparelho."
+  },
+  "4a6b34eb889a3e64": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs directivas de aplicação devem prever a inclusão no rótulo ou na ficha das informações relativas ao ruído aéreo, sempre que estas informações devam ser fornecidas nos termos da Directiva 86/594/CEE, bem como de outras informações de natureza pública relativas ao aparelho em causa e fornecidas nos termos de outros actos comunitários."
+  },
+  "ba886d5087038166": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-membros tomarão todas as medidas necessárias para garantir que:\n\na) Todos os fornecedores e distribuidores estabelecidos no seu território cumpram as obrigações que lhes incumbem por força da presente directiva;\n\nb) Se puder induzir em erro ou criar confusões, seja proibida a aposição de outros rótulos, marcas, símbolos ou inscrições relativos ao consumo de energia que não obedeçam aos requisitos da presente directiva e das correspondentes directivas de aplicação. Esta proibição não se aplica aos sistemas de rótulos ecológicos comunitários ou nacionais;\n\nc) A introdução do sistema de rótulos e fichas relativas ao consumo de energia seja acompanhada de campanhas de informação de carácter educativo e promocional destinadas a fomentar uma utilização mais responsável da energia por parte dos consumidores privados."
+  },
+  "c002594aba8e9933": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os Estados-membros não podem proibir nem restringir a colocação no mercado dos aparelhos domésticos abrangidos por uma directiva de aplicação, sempre que as disposições da presente directiva e das directivas de aplicação sejam observadas.\n\n2. Até prova em contrário, os Estados-membros considerarão que os rótulos e as fichas obedecem ao disposto na presente directiva e nas directivas de aplicação. Os Estados-membros podem exigir que os fornecedores apresentem provas, na acepção do n.º 3 do artigo 2.º, quanto à exactidão das informações constantes dos rótulos ou fichas, sempre que tiverem motivos para presumir que são incorrectas."
+  },
+  "59dc21b2f6fd79de": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA Comissão aprova e adapta ao progresso técnico medidas relativas ao estabelecimento e ao funcionamento do sistema, mediante directivas de aplicação e mediante o aditamento de outros aparelhos domésticos à lista constante do n.º 1 do artigo 1.º, se dessa forma for provável alcançar economias de energia significativas.\n\nEssas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, nomeadamente completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 10.º."
+  },
+  "57144b5aa51f0571": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A Comissão é assistida por um Comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "19abf72dc02aa29e": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nNo termo de um prazo de três anos a contar da entrada em aplicação da presente directiva, a Comissão avaliará a aplicação desta e os resultados obtidos. Esta avaliação será objecto de relatório a apresentar ao Parlamento Europeu e ao Conselho."
+  },
+  "578376a7029277cd": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAs directivas de aplicação especificarão:\n\na) A definição exacta do tipo de aparelhos abrangidos;\n\nb) As normas e os métodos de medição a utilizar para obtenção das informações a que se refere o n.º 1 do artigo 1.º;\n\nc) As especificações relativas à documentação técnica exigida ao abrigo do n.º 3 do artigo 2.º;\n\nd) O formato e o conteúdo do rótulo previsto no artigo 2.º, que deve, sempre que possível, apresentar características gráficas uniformes;\n\ne) O local em que o rótulo deve ser afixado no aparelho; se necessário, podem prever a afixação ou impressão do rótulo na embalagem;\n\nf) O conteúdo e, se for caso disso, o formato e outras especificações da ficha ou das informações suplementares previstas no n.º 2 do artigo 3.º As informações constantes do rótulo devem constar igualmente da ficha;\n\ng) As informações a fornecer nos casos de colocações à venda abrangidas pelo artigo 5.º, assim como o modo como tais informações devem ser fornecidas."
+  },
+  "4d652c6cb087f2f6": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nÉ revogada a Directiva 79/530/CEE, com efeitos a 1 de Janeiro de 1994.\n\nA Directiva 79/531/CEE é considerada como directiva de aplicação da presente directiva em relação aos fornos eléctricos; contudo, os Estados-membros podem-se abster de lhe dar força obrigatória até uma data a fixar numa directiva de aplicação revista relativa aos fornos, adoptada de acordo com o procedimento previsto no artigo 10.º"
+  },
+  "fe4bac4afc651c18": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Os Estados-membros adoptarão as disposições necessárias para dar cumprimento à presente directiva até 1 de Julho de 1993 e desse facto informarão imediatamente a Comissão.\n\nOs Estados-membros aplicarão essas disposições a partir de 1 de Janeiro de 1994, o mais tardar.\n\n2. Quando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência quando da sua publicação oficial. As modalidades dessa referência serão adoptados pelos Estados-membros.\n\n3. Os Estados-membros comunicarão à Comissão o texto das disposições que adoptem no domínio regido pela presente directiva."
+  },
+  "4eeb78257d8bd1b3": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n---"
+  },
+  "699910b855ee1c3b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/cbb2e6b7-48c6-4ccf-aabf-179d8ce1abfe.0018.03/DOC_1#src.E0001)) JO n.º C 235 de 10.9.1991, p. 5.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/cbb2e6b7-48c6-4ccf-aabf-179d8ce1abfe.0018.03/DOC_1#src.E0002)) JO n.º C 125 de 18.5.1992, p. 172; e\n\n> JO n.º C 241 de 21.9.1992.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/cbb2e6b7-48c6-4ccf-aabf-179d8ce1abfe.0018.03/DOC_1#src.E0003)) JO n.º C 49 de 24.2.1992, p. 32.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/cbb2e6b7-48c6-4ccf-aabf-179d8ce1abfe.0018.03/DOC_1#src.E0004)) JO n.º L 145 de 13.6.1979, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/cbb2e6b7-48c6-4ccf-aabf-179d8ce1abfe.0018.03/DOC_1#src.E0005)) JO n.º L 145 de 13.6.1979, p. 7.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/cbb2e6b7-48c6-4ccf-aabf-179d8ce1abfe.0018.03/DOC_1#src.E0006)) JO n.º L 344 de 6.12.1986, p. 24."
+  },
+  "41afa7df2e6b122a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992L0075 — PT — 21.07.2011 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992L0075) [DIRECTIVA 92/75/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31992L0075) [de 22 de Setembro de 1992](http://publications.europa.eu/resource/celex/31992L0075) [relativa à indicação do consumo de energia dos aparelhos domésticos por meio de rotulagem e outras indicações uniformes relativas aos produtos](http://publications.europa.eu/resource/celex/31992L0075) (JO L 297, 13.10.1992, p.16)\n\n**revogado por:**\n\n- [Directiva 2010/30/UE do Parlamento Europeu e do Conselho de 19 de Maio de 2010](http://publications.europa.eu/resource/celex/32010L0030) — L 153 — 1 — 18.6.2010"
+  }
+ }
+}

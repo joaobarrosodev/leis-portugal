@@ -34,6 +34,32 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-11-30'
+version_history:
+  file: diretiva-ue-1994-2.versoes.json
+  count: 2
+  source_lastmod: '2011-11-30'
+  versions:
+  - date: '1994-02-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-11-30'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime ANEXO I — ETIQUETA
+    - Suprime ANEXO II — FICHA
+    - Suprime ANEXO III — VENDAS POR CORREIO E OUTRAS VENDAS À DISTÂNCIA
+    - Suprime ANEXO IV — CATEGORIAS
+    - Suprime ANEXO V — CLASSE DE EFICIÊNCIA ENERGÉTICA
+    - Suprime ANEXO VI — >POSIÇÃO NUMA TABELA>
 identifiers:
   celex: 31994L0002
   eli: http://data.europa.eu/eli/dir/1994/2/oj
@@ -48,7 +74,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f6193ff7-e343-4591-9cbf-53e27c02873b.0011
   content_url: http://publications.europa.eu/resource/cellar/f2481553-402d-48bb-9ed4-a7779c46eab0.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0002-20111130
-  retrieved_at: '2026-10-22T02:42:17Z'
+  retrieved_at: '2026-10-22T14:42:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-26T00:07:58.337+01:00'
 integrity:
@@ -57,9 +83,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:17Z'
-  notes: Texto consolidado 01994L0002-20111130.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:55Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1994-2.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -138,16 +164,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:17Z'
+  checked_at: '2026-10-22T14:42:55Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01994L0002-20030729: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01994L0002-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

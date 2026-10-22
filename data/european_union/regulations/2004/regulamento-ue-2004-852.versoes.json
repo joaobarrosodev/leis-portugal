@@ -1,0 +1,1009 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004R0852:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0852-20210324",
+ "dre_path": null,
+ "source_lastmod": "2021-03-24",
+ "versions": [
+  {
+   "date": "2008-10-28",
+   "future": false,
+   "celex": "02004R0852-20081028",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a8b0f2b297ff238b",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "1fe3addf399eecc4",
+    "6ba12c8e13550207",
+    "f0f8c960bfdbce9b",
+    "e983af1347735481",
+    "cb26eb18a62f4d0f",
+    "95bbabd576c348a3",
+    "0e186fc63fea24a1",
+    "7244811e4f01b2cb",
+    "1e7a0903d2eed348",
+    "c2696281213e555e",
+    "0da956c0582d4cc8",
+    "cd90038385c05075",
+    "7f3a9874a0083e86",
+    "1ecfc79da3f1ac7f",
+    "e807bdb1feac73be",
+    "3d51248a41155a82",
+    "df080305b2795eff",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "d565a7843ff7f693",
+    "3c8d77f951787d87",
+    "b31ec1b9ebce1b6f",
+    "50e28b595f305a43",
+    "8f6a40599690db8f",
+    "07e25b7f99f0c1fc",
+    "37cfea1b0959f7cd",
+    "d664376e2a8dcecd",
+    "5a8c07662d9718b0",
+    "f1d5a257963e60ba",
+    "74f677a037b2c59d",
+    "d8aee4575dcb27f0",
+    "6e8530bf82f6644d",
+    "98335a85807056af",
+    "852174729551523b",
+    "b1e6774725a7cfeb",
+    "8177abf7cb0be064",
+    "6da92fe0e02efe2c",
+    "f6035a9d675a94bb",
+    "48fa5f7b94dc8eb9",
+    "d895cf7f5a8735e2",
+    "993e4e9a046500e2",
+    "66b27115ff935f95",
+    "f14dcd73d9901e73",
+    "a96c9d4e75ecbd28",
+    "e2b9a1d26ccd77d2",
+    "f88ade3cdec90890",
+    "228a029237c7a56e",
+    "50e83c041e58cf4c",
+    "f4f31f885dabbddf",
+    "75a517363bfc8f9e",
+    "c27dc841de524fe6",
+    "08437abcaf2083bf",
+    "5d7f3c7f6d87b235",
+    "61bf742ede6eef87",
+    "92e89eff5b7a8a32",
+    "70466e300f76978f",
+    "fa5b7e0dc9c121b6",
+    "5981c0bbaa44a642",
+    "c9b0fc916d864e8a",
+    "abfa6a8b0b529bdf",
+    "e982a462385fd4a6"
+   ]
+  },
+  {
+   "date": "2009-04-20",
+   "future": false,
+   "celex": "02004R0852-20090420",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0219:por",
+     "title": "REGULAMENTO (CE) N. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009",
+     "published": null,
+     "celex": "32009R0219"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 4.º — Requisitos gerais e específicos de higiene",
+    "Altera Artigo 6.º — Controlos oficiais, registo e aprovação dos estabelecimentos",
+    "Altera Artigo 8.º — Códigos nacionais",
+    "Altera Artigo 13.º — Alteração e adaptação dos anexos I e II",
+    "Altera Artigo 14.º — Comité",
+    "Altera Artigo 18.º — Entrada em vigor",
+    "Altera Abastecimento de água",
+    "Altera Notas",
+    "Adita Artigo 12.º",
+    "Suprime Artigo 12.º — Medidas de execução e disposições transitórias"
+   ],
+   "fragments": [
+    "f8c713793e32674b",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "309390556c95c445",
+    "b68148b0e8d86d39",
+    "f0f8c960bfdbce9b",
+    "e983af1347735481",
+    "cb26eb18a62f4d0f",
+    "19242742d7f0c56f",
+    "f4620b20ff8cde1f",
+    "abc036c59861f0d4",
+    "1e7a0903d2eed348",
+    "c2696281213e555e",
+    "0da956c0582d4cc8",
+    "bc5ec25403de676e",
+    "8d7126653aba6761",
+    "1ecfc79da3f1ac7f",
+    "e807bdb1feac73be",
+    "3d51248a41155a82",
+    "df080305b2795eff",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "5290d5ece333eacd",
+    "892f1ede125882e1",
+    "729f7e5c87564724",
+    "50e28b595f305a43",
+    "8f6a40599690db8f",
+    "07e25b7f99f0c1fc",
+    "646d3e304d858082",
+    "d664376e2a8dcecd",
+    "5a8c07662d9718b0",
+    "f1d5a257963e60ba",
+    "c7e0c6b44dc0beac",
+    "11387e6a6829bf7d",
+    "a4301e95d2e57886",
+    "98335a85807056af",
+    "852174729551523b",
+    "b1e6774725a7cfeb",
+    "8177abf7cb0be064",
+    "6da92fe0e02efe2c",
+    "f6035a9d675a94bb",
+    "48fa5f7b94dc8eb9",
+    "d895cf7f5a8735e2",
+    "993e4e9a046500e2",
+    "66b27115ff935f95",
+    "f14dcd73d9901e73",
+    "a96c9d4e75ecbd28",
+    "e2b9a1d26ccd77d2",
+    "f88ade3cdec90890",
+    "228a029237c7a56e",
+    "50e83c041e58cf4c",
+    "f4f31f885dabbddf",
+    "85b4a090c0b723ec",
+    "c27dc841de524fe6",
+    "08437abcaf2083bf",
+    "5d7f3c7f6d87b235",
+    "61bf742ede6eef87",
+    "92e89eff5b7a8a32",
+    "70466e300f76978f",
+    "fa5b7e0dc9c121b6",
+    "5981c0bbaa44a642",
+    "c9b0fc916d864e8a",
+    "abfa6a8b0b529bdf",
+    "1790914a2e06e0ae"
+   ]
+  },
+  {
+   "date": "2021-03-24",
+   "future": false,
+   "celex": "02004R0852-20210324",
+   "acts": [
+    {
+     "id": "eu:celex:32021R0382:por",
+     "title": "REGULAMENTO (UE) 2021/382 DA COMISSÃO de 3 de março de 2021",
+     "published": null,
+     "celex": "32021R0382"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 8.º — Códigos nacionais",
+    "Altera Artigo 18.º — Entrada em vigor",
+    "Altera II. Disposições relativas à higiene",
+    "Altera INTRODUÇÃO",
+    "Altera Disposições aplicáveis aos géneros alimentícios",
+    "Altera Notas",
+    "Adita CAPÍTULO V-A",
+    "Adita Redistribuição de alimentos",
+    "Adita CAPÍTULO XI-A",
+    "Adita Cultura de segurança dos alimentos"
+   ],
+   "fragments": [
+    "f8c713793e32674b",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "309390556c95c445",
+    "5ad527b1d9b7cd1b",
+    "f0f8c960bfdbce9b",
+    "e983af1347735481",
+    "cb26eb18a62f4d0f",
+    "19242742d7f0c56f",
+    "f4620b20ff8cde1f",
+    "abc036c59861f0d4",
+    "1e7a0903d2eed348",
+    "c2696281213e555e",
+    "0da956c0582d4cc8",
+    "09de943187da5165",
+    "8d7126653aba6761",
+    "1ecfc79da3f1ac7f",
+    "e807bdb1feac73be",
+    "3d51248a41155a82",
+    "df080305b2795eff",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "5290d5ece333eacd",
+    "892f1ede125882e1",
+    "729f7e5c87564724",
+    "50e28b595f305a43",
+    "8f6a40599690db8f",
+    "07e25b7f99f0c1fc",
+    "672ee58590c6cc3f",
+    "d664376e2a8dcecd",
+    "5a8c07662d9718b0",
+    "f1d5a257963e60ba",
+    "c7e0c6b44dc0beac",
+    "c98f16af11ad8cf0",
+    "a4301e95d2e57886",
+    "98335a85807056af",
+    "852174729551523b",
+    "b1e6774725a7cfeb",
+    "f13304532e9a69f2",
+    "6da92fe0e02efe2c",
+    "f6035a9d675a94bb",
+    "48fa5f7b94dc8eb9",
+    "d895cf7f5a8735e2",
+    "993e4e9a046500e2",
+    "66b27115ff935f95",
+    "f14dcd73d9901e73",
+    "a96c9d4e75ecbd28",
+    "e2b9a1d26ccd77d2",
+    "f88ade3cdec90890",
+    "79813e109ba8156c",
+    "beec63caafa0f4f9",
+    "228a029237c7a56e",
+    "50e83c041e58cf4c",
+    "f4f31f885dabbddf",
+    "85b4a090c0b723ec",
+    "c27dc841de524fe6",
+    "08437abcaf2083bf",
+    "5d7f3c7f6d87b235",
+    "715f5d512fadee75",
+    "92e89eff5b7a8a32",
+    "70466e300f76978f",
+    "fa5b7e0dc9c121b6",
+    "5981c0bbaa44a642",
+    "dd2f9a150e4486a4",
+    "c97f6a392bc7a483",
+    "c9b0fc916d864e8a",
+    "abfa6a8b0b529bdf",
+    "c84d8b54e786f78d"
+   ]
+  }
+ ],
+ "fragments": {
+  "a8b0f2b297ff238b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nrelativo à higiene dos géneros alimentícios\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 95.º e a alínea b) do n.º 4 do seu artigo 152.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#E0002)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#E0003)),\n\n(1) A procura de um elevado nível de protecção da vida e da saúde humanas é um dos objectivos fundamentais da legislação alimentar, tal como se encontra estabelecida no Regulamento (CE) n.º 178/2002 ([^4^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#E0004)). Este regulamento estabelece igualmente os princípios e definições comuns para a legislação alimentar nacional e comunitária, incluindo o objectivo de alcançar a livre circulação dos alimentos na Comunidade.\n\n(2) A Directiva 93/43/CEE do Conselho, de 14 de Junho de 1993, relativa à higiene dos géneros alimentícios ([^5^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#E0005)), estabelece as regras gerais de higiene aplicáveis aos alimentos e os processos de controlo do cumprimento dessas regras.\n\n(3) A experiência indicou que estas regras e estes processos constituem uma base sólida para garantir a segurança alimentar. No âmbito da política agrícola comum, foram aprovadas muitas directivas destinadas a estabelecer regras sanitárias específicas para a produção e a colocação no mercado dos produtos enumerados no anexo I do Tratado. Essas regras sanitárias reduziram os entraves comerciais aos produtos em questão, contribuindo para a criação do mercado interno enquanto asseguravam simultaneamente um elevado nível de protecção da saúde pública.\n\n(4) Essas regras e esses processos contêm princípios comuns em matéria de saúde pública, em especial em relação às responsabilidades dos fabricantes e das autoridades competentes, aos requisitos estruturais, operacionais e em matéria de higiene para os estabelecimentos, aos processos para a aprovação de estabelecimentos, aos requisitos de armazenagem e transporte e à marcação de salubridade.\n\n(5) Esses princípios constituem uma base comum para a produção higiénica de todos os géneros alimentícios, incluindo os produtos de origem animal enumerados no anexo I do Tratado.\n\n(6) Além desta base comum são necessárias regras específicas de higiene para certos géneros alimentícios. Essas regras estão previstas no Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, que estabelece regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal ([^6^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#E0006)).\n\n(7) As novas regras gerais e específicas de higiene têm por principal objectivo garantir um elevado nível de protecção do consumidor em matéria de segurança dos géneros alimentícios.\n\n(8) É necessária uma abordagem integrada para garantir a segurança alimentar desde o local da produção primária até à colocação no mercado ou à exportação, inclusive. Todos os operadores de empresas do sector alimentar ao longo da cadeia de produção devem garantir que a segurança dos géneros alimentícios não seja comprometida.\n\n(9) As regras comunitárias não se deverão aplicar nem à produção primária para consumo doméstico, nem à preparação, manuseamento ou armazenagem domésticos de géneros alimentícios para consumo doméstico privado. Além disso, aplicar-se-ão unicamente às empresas, o que implica uma certa continuidade nas actividades e um certo grau de organização.\n\n(10) Os riscos alimentares presentes a nível da produção primária devem ser identificados e controlados adequadamente, a fim de assegurar a consecução dos objectivos do presente regulamento. Todavia, em caso de fornecimento directo de pequenas quantidades de produtos da produção primária pelo operador da empresa do sector alimentar que os produz ao consumidor final ou a um estabelecimento local de venda a retalho, é adequado proteger a saúde pública através da legislação nacional, em especial devido à relação estreita entre o produtor e o consumidor.\n\n(11) A aplicação dos princípios da análise dos perigos e do controlo dos pontos críticos (HACCP) à produção primária não é ainda exequível de um modo geral. No entanto, os códigos de boas práticas deverão incentivar a utilização das práticas higiénicas adequadas nas explorações agrícolas. Sempre que necessário, tais códigos serão complementados por regras específicas de higiene para a produção primária. É apropriado que os requisitos de higiene aplicáveis à produção primária e às operações associadas sejam diversos dos requisitos aplicáveis a outras operações.\n\n(12) A segurança dos géneros alimentícios é resultado de vários factores: a legislação deve determinar os requisitos mínimos de higiene, deverão ser instaurados controlos oficiais para verificar a sua observância por parte dos operadores de empresas do sector alimentar e os operadores de empresas do sector alimentar deverão ainda criar e aplicar programas de segurança dos géneros alimentícios e processos baseados nos princípios HACCP.\n\n(13) A implementação bem sucedida dos processos baseados nos princípios HACCP requer a plena cooperação e o empenhamento do pessoal das empresas do sector alimentar. Para tanto, esse pessoal deverá receber formação. O sistema HACCP é um instrumento que auxilia os operadores de empresas do sector alimentar a alcançar padrões mais elevados de segurança dos géneros alimentícios. O sistema HACCP não deve ser encarado como um método de auto-regulação e não substitui os controlos oficiais.\n\n(14) Os requisitos para estabelecer processos baseados nos princípios HACCP não deverão inicialmente aplicar-se à produção primária, porém a viabilidade da sua extensão será um dos elementos da revisão que a Comunidade levará a cabo na sequência da implementação do presente regulamento. Todavia, convém que os Estados-Membros encorajem os operadores a nível da produção primária a aplicar esses princípios na medida do possível.\n\n(15) Os requisitos do sistema HACCP deverão tomar em consideração os princípios constantes do *Codex Alimentarius*. Deverão ter a flexibilidade suficiente para ser aplicáveis em todas as situações, incluindo em pequenas empresas. Em especial, é necessário reconhecer que, em certas empresas do sector alimentar, não é possível identificar pontos críticos de controlo e que, em certos casos, as boas práticas de higiene podem substituir a monitorização dos pontos críticos de controlo. Do mesmo modo, o requisito que estabelece «limites críticos» não implica que é necessário fixar um limite numérico em cada caso. Além disso, o requisito de conservar documentos tem de ser flexível para evitar uma sobrecarga desnecessária para as empresas muito pequenas.\n\n(16) A flexibilidade é também apropriada para permitir a continuação da utilização de métodos tradicionais em qualquer das fases de produção e em relação aos requisitos estruturais para os estabelecimentos. A flexibilidade é particularmente importante para as regiões sujeitas a condicionalismos geográficos especiais, incluindo as regiões ultraperiféricas a que se refere o artigo 299.º do Tratado. No entanto, a flexibilidade não deve comprometer os objectivos de higiene dos géneros alimentícios. Além do mais, uma vez que todos os géneros alimentícios produzidos de acordo com as regras de higiene estarão em livre circulação em toda a Comunidade, o processo que permite aos Estados-Membros darem mostras de flexibilidade deverá ser plenamente transparente. O processo deverá prever, sempre que necessário, para resolver qualquer diferendo, a possibilidade de discussão a nível do Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo Regulamento (CE) n.º 178/2002.\n\n(17) O estabelecimento de objectivos, tais como a redução dos organismos patogénicos ou a definição de níveis de desempenho deverá orientar a implementação de regras de higiene. É por conseguinte necessário prever os processos necessários para esse efeito. Estes objectivos complementarão a legislação alimentar existente, tal como o Regulamento (CEE) n.º 315/93 do Conselho, de 8 de Fevereiro de 1993, que estabelece procedimentos comunitários para os contaminantes presentes nos géneros alimentícios ([^7^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#E0007)), que prevê o estabelecimento de tolerâncias máximas para contaminantes específicos, e o Regulamento (CE) n.º 178/2002, que proíbe a colocação no mercado de géneros alimentícios não seguros e prevê uma base uniforme para a aplicação do princípio de precaução.\n\n(18) Para tomar em consideração o progresso científico e técnico, deve assegurar-se uma cooperação estreita e eficaz entre a Comissão e os Estados-Membros no âmbito do Comité Permanente da Cadeia Alimentar e da Saúde Animal. O presente regulamento tem em conta as obrigações internacionais estabelecidas no Acordo Sanitário e Fitossanitário da OMC e as normas internacionais de segurança dos alimentos constantes do *Codex Alimentarius*.\n\n(19) O registo dos estabelecimentos e a cooperação dos operadores das empresas do sector alimentar são necessários para permitir que as autoridades competentes levem a cabo com eficácia os controlos oficiais.\n\n(20) A rastreabilidade dos géneros alimentícios e respectivos ingredientes ao longo da cadeia alimentar constitui um elemento essencial para garantir a segurança dos mesmos. Constam do Regulamento (CE) n.º 178/2002 regras em matéria de rastreabilidade dos géneros alimentícios e dos seus ingredientes, bem como o procedimento para a adopção das regras de execução a aplicar a esses princípios no que se refere a sectores específicos.\n\n(21) Os géneros alimentícios importados na Comunidade devem respeitar as disposições gerais do Regulamento (CE) n.º 178/2002 ou disposições equivalentes às disposições comunitárias. O presente regulamento define certos requisitos de higiene específicos para os géneros alimentícios importados na Comunidade.\n\n(22) Os géneros alimentícios exportados da Comunidade para países terceiros devem respeitar as disposições gerais do Regulamento (CE) n.º 178/2002. O presente regulamento define certos requisitos de higiene específicos para os géneros alimentícios exportados da Comunidade.\n\n(23) A legislação comunitária sobre higiene alimentar deve ser sustentada por pareceres científicos. Para tanto, a Autoridade Europeia para a Segurança dos Alimentos deve ser consultada sempre que necessário.\n\n(24) Uma vez que o presente regulamento substitui a Directiva 93/43/CEE, esta deve ser revogada.\n\n(25) Os requisitos do presente regulamento só deverão aplicar-se quando todas as partes da nova legislação em matéria de higiene alimentar tiverem entrado em vigor. É também adequado prever um período de tempo de, pelo menos, 18 meses entre a entrada em vigor e a aplicação das novas regras, de forma a dar tempo as indústrias afectadas para se adaptarem.\n\n(26) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que estabelece os procedimentos necessários para o exercício das competências de execução atribuídas à Comissão ([^8^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#E0008)),\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "1fe3addf399eecc4": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1. O presente regulamento estabelece as regras gerais destinadas aos operadores das empresas do sector alimentar no que se refere à higiene dos géneros alimentícios, tendo em particular consideração os seguintes princípios:\n\na) Os operadores do sector alimentar são os principais responsáveis pela segurança dos géneros alimentícios;\n\nb) A necessidade de garantir a segurança dos géneros alimentícios ao longo da cadeia alimentar, com início na produção primária;\n\nc) No caso dos géneros alimentícios que não possam ser armazenados com segurança à temperatura ambiente, a importância da manutenção da cadeia do frio, em especialmente para os alimentos congelados;\n\nd) A aplicação geral dos procedimentos baseados nos princípios HACCP, associadas à observância de boas práticas de higiene, deve reforçar a responsabilidade dos operadores das empresas do sector alimentar;\n\ne) Os códigos de boas práticas constituem um instrumento valioso para auxiliar os operadores das empresas do sector alimentar, a todos os níveis da cadeia alimentar, na observância das regras de higiene e dos princípios HACCP;\n\nf) A necessidade de serem estabelecidos critérios microbiológicos e requisitos de controlo da temperatura baseados numa avaliação científica do risco;\n\ng) A necessidade de assegurar que os géneros alimentícios importados respeitem, pelo menos, os mesmos padrões em termos de higiene que os géneros alimentícios produzidos na Comunidade ou padrões equivalentes.\n\nO presente regulamento aplica-se em todas as fases da produção, transformação e distribuição de alimentos, sem prejuízo de requisitos mais específicos em matéria de higiene dos géneros alimentícios.\n\n2. O presente regulamento não se aplica:\n\na) À produção primária destinada a uso doméstico privado;\n\nb) À preparação, manipulação e armazenagem doméstica de alimentos para consumo doméstico privado;\n\nc) Ao fornecimento directo, pelo produtor, de pequenas quantidades de produtos de produção primária ao consumidor final ou ao comércio a retalho local que fornece directamente o consumidor final;\n\nd) Aos centros de recolha e fábricas de curtumes abrangidos pela definição de empresa do sector alimentar apenas por tratarem materiais crus para a produção de gelatina ou colagéneo.\n\n3. Ao abrigo da legislação nacional, os Estados-Membros estabelecem regras que regulamentem as actividades referidas na alínea c) do n.º 2. Essas regras nacionais devem assegurar a realização dos objectivos do presente regulamento."
+  },
+  "6ba12c8e13550207": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1. Para efeitos do presente regulamento, entende-se por:\n\na) «Higiene dos géneros alimentícios», a seguir designada por «higiene», as medidas e condições necessárias para controlar os riscos e assegurar que os géneros alimentícios sejam próprios para consumo humano tendo em conta a sua utilização;\n\nb) «Produtos primários»: produtos da produção primária, incluindo os produtos da agricultura, da pecuária, da caça e da pesca;\n\nc) «Estabelecimento», qualquer unidade de uma empresa do sector alimentar;\n\nd) «Autoridade competente», a autoridade central de um Estado-Membro competente para assegurar o respeito dos requisitos do presente regulamento ou qualquer outra autoridade em que essa autoridade central tenha delegado essa competência; inclui, se for caso disso, a autoridade correspondente de um país terceiro;\n\ne) «Equivalente», em relação a diferentes sistemas, capaz de alcançar os mesmos objectivos;\n\nf) «Contaminação», a presença ou introdução de um risco;\n\ng) «Água potável», água que cumpre os requisitos estabelecidos na Directiva 98/83/CE do Conselho, de 3 de Novembro de 1998, para a água destinada ao consumo humano ([^9^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#E0009));\n\nh) «Água do mar limpa», água do mar ou salobre, natural, artificial ou depurada, que não contenha microrganismos, substâncias nocivas nem plâncton marinho tóxico em quantidades susceptíveis de terem uma incidência directa ou indirecta sobre a qualidade sanitária dos géneros alimentícios;\n\ni) «Água limpa», água do mar limpa e água doce limpa, de qualidade semelhante;\n\nj) «Acondicionamento», colocação de um produto num invólucro inicial ou recipiente inicial em contacto directo com o produto em questão, bem como o próprio invólucro ou recipiente inicial;\n\nk) «Embalagem», colocação de um ou mais géneros alimentícios acondicionados num segundo recipiente, bem como o próprio recipiente;\n\nl) «Recipiente hermeticamente fechado», um recipiente concebido para impedir a entrada de substâncias ou organismos perigosos;\n\nm) «Transformação», acção que assegura uma modificação substancial do produto inicial por aquecimento, fumagem, cura, maturação, secagem, marinagem, extracção, extrusão ou uma combinação destes processos;\n\nn) «Produtos não transformados», géneros alimentícios que não tenham sofrido transformação, incluindo produtos que tenham sido divididos, separados, seccionados, desossados, picados, esfolados, moídos, cortados, limpos, aparados, descascados, triturados, refrigerados, congelados ou ultracongelados;\n\no) «Produtos transformados», géneros alimentícios resultantes da transformação de produtos não transformados. Estes produtos podem conter ingredientes que sejam necessários ao seu fabrico, por forma a dar-lhes características específicas.\n\n2. São aplicáveis igualmente as definições estabelecidas no Regulamento (CE) n.º 178/2002.\n\n3. Nos anexos, as expressões «sempre que necessário», «sempre que adequado»«apropriado» e «suficiente» significam, respectivamente, sempre que necessário, sempre que adequado, apropriado ou suficiente para alcançar os objectivos do presente regulamento."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "e983af1347735481": {
+   "fragment_id": "OBRIGAÇÕES DOS OPERADORES DAS EMPRESAS DO SECTOR ALIMENTAR",
+   "type": "divisao",
+   "heading": "OBRIGAÇÕES DOS OPERADORES DAS EMPRESAS DO SECTOR ALIMENTAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBRIGAÇÕES DOS OPERADORES DAS EMPRESAS DO SECTOR ALIMENTAR"
+  },
+  "cb26eb18a62f4d0f": {
+   "fragment_id": "Artigo 3.º — Obrigação geral",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Obrigação geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Obrigação geral\n\nOs operadores das empresas do sector alimentar asseguram que todas as fases da produção, transformação e distribuição de géneros alimentícios sob o seu controlo satisfaçam os requisitos pertinentes em matéria de higiene estabelecidos no presente regulamento."
+  },
+  "95bbabd576c348a3": {
+   "fragment_id": "Artigo 4.º — Requisitos gerais e específicos de higiene",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Requisitos gerais e específicos de higiene",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos gerais e específicos de higiene\n\n1. Os operadores das empresas do sector alimentar que se dediquem à produção primária e a determinadas actividades conexas enumeradas no anexo I cumprem as disposições gerais de higiene previstas na parte A do anexo I e em quaisquer outras disposições específicas previstas no Regulamento (CE) n.º 853/2004.\n\n2. Os operadores das empresas do sector alimentar que se dediquem a qualquer fase da produção, transformação e distribuição de géneros alimentícios a seguir às fases a que se aplica o n.º 1, cumprem os requisitos gerais de higiene previstos no anexo II e em quaisquer outras disposições específicas previstas no Regulamento (CE) n.º 853/2004.\n\n3. Os operadores das empresas do sector alimentar, tomarão, se for caso disso, as seguintes medidas específicas de higiene:\n\na) Respeito dos critérios microbiológicos aplicáveis aos géneros alimentícios;\n\nb) Os processos necessários para respeitar os alvos estabelecidos para cumprir os objectivos do presente regulamento;\n\nc) Respeito dos critérios de temperatura aplicáveis aos géneros alimentícios;\n\nd) Manutenção da cadeia de frio;\n\ne) Recolha de amostras e análises.\n\n4. Os critérios, requisitos e alvos a que se refere o n.º 3 são adoptados nos termos do n.º 2 do artigo 14.º\n\nOs métodos de amostragem e análise que lhes estão associados são estabelecidos nos mesmos termos.\n\n5. Quando o presente regulamento, o Regulamento (CE) n.º 853/2004, e as suas medidas de execução não especificarem os métodos de amostragem ou de análise, os operadores das empresas do sector alimentar podem utilizar métodos adequados estabelecidos noutras regulamentações comunitárias ou nacionais ou, à falta destes, métodos que atinjam resultados equivalentes aos obtidos com o método de referência, caso sejam cientificamente validados em conformidade com regras ou protocolos internacionalmente reconhecidos.\n\n6. Os operadores das empresas do sector alimentar podem utilizar os códigos previstos nos artigos 7.º, 8.º e 9.º para os auxiliar no cumprimento das suas obrigações a título do presente regulamento."
+  },
+  "0e186fc63fea24a1": {
+   "fragment_id": "Artigo 5.º — Análise dos perigos e controlo dos pontos críticos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Análise dos perigos e controlo dos pontos críticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Análise dos perigos e controlo dos pontos críticos\n\n1. Os operadores das empresas do sector alimentar criam, aplicam e mantêm um processo ou processos permanentes baseados nos princípios HACCP.\n\n2. Os princípios HACCP referidos no n.º 1 são os seguintes:\n\na) Identificação de quaisquer perigos que devam ser evitados, eliminados ou reduzidos para níveis aceitáveis;\n\nb) Identificação dos pontos críticos de controlo na fase ou fases em que o controlo é essencial para evitar ou eliminar um risco ou para o reduzir para níveis aceitáveis;\n\nc) Estabelecimento de limites críticos em pontos críticos de controlo, que separem a aceitabilidade da não aceitabilidade com vista à prevenção, eliminação ou redução dos riscos identificados;\n\nd) Estabelecimento e aplicação de processos eficazes de vigilância em pontos críticos de controlo;\n\ne) Estabelecimento de medidas correctivas quando a vigilância indicar que um ponto crítico de controlo não se encontra sob controlo;\n\nf) Estabelecimento de processos, a efectuar regularmente, para verificar que as medidas referidas nas alíneas a) a e) funcionam eficazmente;\n\ng) Elaboração de documentos e registos adequados à natureza e dimensão das empresas, a fim de demonstrar a aplicação eficaz das medidas referidas nas alíneas a) a f).\n\nSempre que seja efectuada qualquer alteração nos produtos, no processo, ou em qualquer fase da produção, os operadores das empresas do sector alimentar procedem a uma revisão do processo e introduzem as alterações necessárias.\n\n3. O n.º 1 apenas se aplica aos operadores das empresas do sector alimentar que efectuem qualquer fase de produção, transformação e distribuição dos géneros alimentícios a seguir à produção primária e às operações conexas enumeradas no anexo I.\n\n4. Os operadores das empresas do sector alimentar:\n\na) Fornecem à autoridade competente as provas da sua observância do requisito estabelecido no n.º 1, sob a forma exigida pela autoridade competente, tendo em conta a natureza e a dimensão da empresa do sector alimentar;\n\nb) Asseguram que todos os documentos que descrevem os processos desenvolvidos em conformidade com o presente artigo se encontram sempre actualizados;\n\nc) Conservam quaisquer outros documentos e registos durante um período adequado.\n\n5. Podem ser aprovadas nos termos do n.º 2 do artigo 14.º regras de execução do presente artigo. Tais regras podem facilitar a execução do presente artigo por certos operadores de empresas do sector alimentar, em especial estabelecendo a utilização de processos estabelecidos nos códigos para a aplicação dos princípios HACCP para dar cumprimento ao n.º 1. Essas regras podem igualmente especificar o período durante o qual os operadores das empresas do sector alimentar devem conservar os documentos e registos em conformidade com a alínea c) do n.º 4."
+  },
+  "7244811e4f01b2cb": {
+   "fragment_id": "Artigo 6.º — Controlos oficiais, registo e aprovação dos estabelecimentos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Controlos oficiais, registo e aprovação dos estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Controlos oficiais, registo e aprovação dos estabelecimentos\n\n1. Os operadores das empresas do sector alimentar cooperam com as autoridades competentes em conformidade com a demais legislação comunitária aplicável ou, caso esta não exista, com a legislação nacional.\n\n2. Em particular, os operadores das empresas do sector alimentar notificam a autoridade competente, sob a forma por esta requerida, de todos os estabelecimentos sob o seu controlo que se dedicam a qualquer das fases de produção, transformação e distribuição de géneros alimentícios, tendo em vista o registo de cada estabelecimento.\n\nOs operadores das empresas do sector alimentar asseguram igualmente que a autoridade competente disponha em permanência de informações actualizadas sobre os estabelecimentos, incluindo mediante a notificação de qualquer alteração significativa das actividades e do eventual encerramento de um estabelecimento existente.\n\n3. Todavia, os operadores das empresas do sector alimentar asseguram que os estabelecimentos são aprovados pela autoridade competente, na sequência de pelo menos uma visita *in loco*, sempre que a aprovação seja exigida:\n\na) Pela legislação nacional dos Estados-Membros em que o estabelecimento está situado;\n\nb) Pelo Regulamento (CE) n.º 853/2004;\n\nc) Por uma decisão aprovada nos termos do n.º 2 do artigo 14.º\n\nOs Estados-Membros que, nos termos da sua legislação nacional, obrigarem à aprovação de determinados estabelecimentos situados no seu território, como previsto na alínea a), informam a Comissão e os restantes Estados-Membros das regras nacionais relevantes."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "c2696281213e555e": {
+   "fragment_id": "CÓDIGOS DE BOAS PRÁTICAS",
+   "type": "divisao",
+   "heading": "CÓDIGOS DE BOAS PRÁTICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CÓDIGOS DE BOAS PRÁTICAS"
+  },
+  "0da956c0582d4cc8": {
+   "fragment_id": "Artigo 7.º — Elaboração, divulgação e utilização dos códigos",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Elaboração, divulgação e utilização dos códigos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Elaboração, divulgação e utilização dos códigos\n\nOs Estados-Membros incentivam a elaboração de códigos nacionais de boas práticas para a higiene e aplicação dos princípios HACCP em conformidade com o artigo 8.º Os códigos comunitários serão elaborados em conformidade com o artigo 9.º\n\nA divulgação e utilização dos códigos nacionais e comunitários são incentivadas. Todavia, estes códigos podem ser utilizados voluntariamente pelos operadores das empresas do sector alimentar."
+  },
+  "cd90038385c05075": {
+   "fragment_id": "Artigo 8.º — Códigos nacionais",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Códigos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Códigos nacionais\n\n1. Sempre que forem preparados códigos nacionais de boas práticas, estes são elaborados e divulgados por empresas dos sectores alimentares:\n\na) Consultando representantes de partes cujos interesses possam ser substancialmente afectados, tais como as autoridades competentes e as associações de consumidores;\n\nb) Tendo em conta os códigos de práticas pertinentes do *Codex Alimentarius*;\n\nc) Sempre que digam respeito à produção primária e às operações conexas enumeradas no anexo I, tomando em consideração as recomendações estabelecidas na parte B do anexo I.\n\n2. Os códigos nacionais podem ser elaborados sob a égide de um dos organismos nacionais de normalização referidos no anexo II da Directiva 98/34/CE ([^10^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#E0010)).\n\n3. Os Estados-Membros avaliam os códigos nacionais para se assegurarem de que:\n\na) Foram elaborados em conformidade com o n.º 1;\n\nb) O seu teor permite que sejam aplicados na prática pelos sectores a que se destinam;\n\nc) São adequados enquanto códigos para o cumprimento dos artigos 3.º, 4.º e 5.º nos sectores e para os géneros alimentícios abrangidos.\n\n4. Os Estados-Membros enviam à Comissão os códigos nacionais que estejam em conformidade com os requisitos estabelecidos no n.º 3. A Comissão cria e mantém um sistema de registo desses códigos, que põe à disposição dos Estados-Membros.\n\n5. Os códigos de boas práticas elaborados em conformidade com as disposições da Directiva 93/43/CEE continuam a ser aplicáveis após a entrada em vigor do presente regulamento, desde que sejam compatíveis com os seus objectivos."
+  },
+  "7f3a9874a0083e86": {
+   "fragment_id": "Artigo 9.º — Códigos comunitários",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Códigos comunitários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Códigos comunitários\n\n1. Antes de serem elaborados códigos comunitários de boas práticas em matéria de higiene ou de aplicação dos princípios HACCP, a Comissão consultará o comité a que se refere o artigo 14.º Essa consulta terá por objectivo determinar o interesse desses códigos e os respectivos âmbito e teor.\n\n2. Sempre que forem preparados códigos comunitários, a Comissão assegura que estes sejam elaborados e divulgados:\n\na) Por, ou em consulta com, representantes adequados das empresas dos sectores alimentares europeus, incluindo PME, e de outras partes interessadas, tais como associações de consumidores;\n\nb) Em colaboração com partes cujos interesses possam ser substancialmente afectados, incluindo as autoridades competentes;\n\nc) Tendo em conta os códigos de práticas pertinentes do *Codex Alimentarius*;\n\nd) Sempre que digam respeito à produção primária e às operações conexas enumeradas no anexo I, tomando em consideração as recomendações estabelecidas na parte B do anexo I.\n\n3. O comité a que se refere o artigo 14.º avalia os projectos de códigos comunitários para se assegurar de que:\n\na) Foram elaborados em conformidade com o n.º 2;\n\nb) O seu teor permite que sejam aplicados na prática, em toda a Comunidade, pelos sectores a que se destinam;\n\nc) São adequados enquanto códigos para o cumprimento dos artigos 3.º, 4.º e 5.º nos sectores e para os géneros alimentícios abrangidos.\n\n4. A Comissão convidará o comité a que se refere o artigo 14.º a rever periodicamente quaisquer códigos comunitários preparados em conformidade com o presente artigo, em cooperação com os organismos mencionados no n.º 2.\n\nO objectivo desta revisão é assegurar que os códigos continuam a ser aplicados na prática e a tomar em consideração os desenvolvimentos científicos e tecnológicos.\n\n5. Os títulos e as referências dos códigos comunitários preparados de acordo com o presente artigo serão publicados na série C do *Jornal Oficial da União Europeia*."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "e807bdb1feac73be": {
+   "fragment_id": "IMPORTAÇÕES E EXPORTAÇÕES",
+   "type": "divisao",
+   "heading": "IMPORTAÇÕES E EXPORTAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IMPORTAÇÕES E EXPORTAÇÕES"
+  },
+  "3d51248a41155a82": {
+   "fragment_id": "Artigo 10.º — Importações",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Importações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Importações\n\nNo que se refere à higiene dos géneros alimentícios importados, os requisitos pertinentes da legislação alimentar referidos no artigo 11.º do Regulamento (CE) n.º 178/2002 incluem os requisitos estabelecidos nos artigos 3.º a 6.º do presente regulamento."
+  },
+  "df080305b2795eff": {
+   "fragment_id": "Artigo 11.º — Exportações",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Exportações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Exportações\n\nNo que se refere à higiene dos géneros alimentícios destinados à exportação ou à reexportação, os requisitos pertinentes da legislação alimentar referidos no artigo 12.º do Regulamento (CE) n.º 178/2002 incluem os requisitos estabelecidos nos artigos 3.º a 6.º do presente regulamento."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "d565a7843ff7f693": {
+   "fragment_id": "Artigo 12.º — Medidas de execução e disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Medidas de execução e disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Medidas de execução e disposições transitórias\n\nPodem ser estabelecidas medidas de execução e disposições transitórias nos termos do n.º 2 do artigo 14.º"
+  },
+  "3c8d77f951787d87": {
+   "fragment_id": "Artigo 13.º — Alteração e adaptação dos anexos I e II",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Alteração e adaptação dos anexos I e II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração e adaptação dos anexos I e II\n\n1. As disposições dos anexos I e II podem ser adaptadas ou actualizadas nos termos do n.º 2 do artigo 14.º, tomando em consideração:\n\na) A necessidade de rever as recomendações do n.º 2 da parte B do anexo I;\n\nb) A experiência adquirida com a implementação de sistemas baseados no sistema HACCP nos termos do artigo 5.º;\n\nc) O desenvolvimento tecnológico e as suas consequências práticas, bem como as expectativas dos consumidores relativamente à composição dos alimentos;\n\nd) Pareceres científicos, nomeadamente novas avaliações de risco;\n\ne) Os critérios microbiológicos e de temperatura relativos aos géneros alimentícios.\n\n2. Podem ser concedidas derrogações do disposto nos anexos I e II, especialmente para facilitar a aplicação do artigo 5.º às pequenas empresas, nos termos do n.º 2 do artigo 14.º, tendo em conta os factores de risco relevantes, desde que essas derrogações não afectem a concretização dos objectivos do presente regulamento.\n\n3. Desde que não comprometam a concretização dos objectivos do presente regulamento, os Estados-Membros podem adoptar medidas nacionais para adaptar os requisitos previstos no anexo II, nos termos dos n.º ^s^ 4 a 7 do presente artigo.\n\na) As medidas nacionais a que se refere o n.º 3 devem ter por objectivo:\n\ni) Permitir a continuação da utilização dos métodos tradicionais em qualquer das fases da produção, transformação ou distribuição dos géneros alimentícios;\n\nii) Satisfazer as necessidades das empresas do sector alimentar situadas em regiões sujeitas a condicionalismos geográficos especiais.\n\nb) Noutras circunstâncias, estas medidas nacionais apenas se aplicam à construção, concepção e equipamento dos estabelecimentos.\n\n5. Qualquer Estado-Membro que pretenda adoptar medidas nacionais para adaptar os requisitos estabelecidos no anexo II, tal como referido no n.º 4, notifica do facto a Comissão e os restantes Estados-Membros. Da notificação consta:\n\na) A descrição pormenorizada dos requisitos que o Estado-Membro considere que devem ser adaptados e a natureza da adaptação pretendida;\n\nb) A descrição dos géneros alimentícios e dos estabelecimentos em causa;\n\nc) A explicação das razões da adaptação, incluindo, se relevante, um resumo da análise dos perigos efectuada e quaisquer medidas a tomar para garantir que a adaptação não comprometa os objectivos do presente regulamento;\n\nd) Qualquer outra informação pertinente.\n\n6. Os outros Estados-Membros dispõem do prazo de três meses a contar da recepção da notificação referida no n.º 5 para enviar os seus comentários por escrito à Comissão. No caso das adaptações referidas na alínea b) do n.º 4, o prazo é aumentado para quatro meses a pedido de qualquer Estado-Membro. A Comissão pode consultar os Estados-Membros no âmbito do comité a que se refere o n.º 1 do artigo 14.º, devendo efectuar essa consulta ao receber comentários por escrito de um ou mais Estados-Membros. A Comissão pode decidir, nos termos do n.º 2 do artigo 14.º, se as medidas previstas podem ser postas em prática, se necessário, após as devidas alterações. Se for adequado, a Comissão pode propor medidas de aplicação geral em conformidade com os n.º ^s^ 1 ou 2 do presente artigo.\n\n7. Um Estado-Membro só pode adoptar medidas nacionais para adaptar os requisitos do anexo II:\n\na) Para dar cumprimento a uma decisão aprovada nos termos do n.º 6;\n\nb) Se, um mês após o termo do prazo referido no n.º 6, a Comissão não tiver informado os Estados-Membros de que recebeu quaisquer comentários por escrito ou de que tenciona propor a aprovação de uma decisão, nos termos do n.º 6."
+  },
+  "b31ec1b9ebce1b6f": {
+   "fragment_id": "Artigo 14.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Comité\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "50e28b595f305a43": {
+   "fragment_id": "Artigo 15.º — Consulta da Autoridade Europeia da Segurança dos Alimentos",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Consulta da Autoridade Europeia da Segurança dos Alimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Consulta da Autoridade Europeia da Segurança dos Alimentos\n\nA Comissão consulta a Autoridade Europeia para a Segurança dos Alimentos sobre qualquer questão do âmbito do presente regulamento que possa ter um impacto significativo na saúde pública, especialmente antes de propor critérios, requisitos ou alvos em conformidade com o n.º 4 do artigo 4.º"
+  },
+  "8f6a40599690db8f": {
+   "fragment_id": "Artigo 16.º — Relatório ao Parlamento Europeu e ao Conselho",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Relatório ao Parlamento Europeu e ao Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Relatório ao Parlamento Europeu e ao Conselho\n\n1. A Comissão apresentará um relatório ao Parlamento Europeu e ao Conselho, até 20 de Maio de 2009.\n\n2. O relatório analisará, em especial, a experiência adquirida com a aplicação do presente regulamento e ponderará se é desejável e viável prever o alargamento dos requisitos do artigo 5.º aos operadores das empresas do sector alimentar que se dedicam à produção primária e às operações conexas enumeradas no anexo I.\n\n3. Se adequado, a Comissão pode fazer acompanhar o relatório de propostas pertinentes."
+  },
+  "07e25b7f99f0c1fc": {
+   "fragment_id": "Artigo 17.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Revogação\n\n1. A Directiva 93/43/CEE é revogada com efeitos à data de aplicação do presente regulamento.\n\n2. As remissões feitas para a directiva revogada entendem-se feitas para o presente regulamento.\n\n3. Todavia, as decisões aprovadas nos termos do n.º 3 do artigo 3.º e do artigo 10.º da Directiva 93/43/CEE continuarão em vigor até serem substituídas por decisões aprovadas em conformidade com o presente regulamento ou com o Regulamento (CE) n.º 178/2002. Na pendência da fixação dos critérios ou requisitos a que se referem as alíneas a) a e) do n.º 3 do artigo 4.º do presente regulamento, os Estados-Membros podem manter quaisquer regras nacionais para a fixação de tais critérios ou requisitos que tenham aprovado em conformidade com a Directiva 93/43/CEE.\n\n4. Até à aplicação da nova legislação comunitária que estabelece regras para os controlos oficiais de géneros alimentícios, os Estados-Membros tomam as medidas adequadas para assegurar o cumprimento das obrigações estabelecidas no presente regulamento ou por força do mesmo."
+  },
+  "37cfea1b0959f7cd": {
+   "fragment_id": "Artigo 18.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável 18 meses após a data de entrada em vigor dos seguintes actos:\n\na) Regulamento (CE) n.º 853/2004;\n\nb) Regulamento (CE) n.º 854/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, que estabelece as regras específicas de execução dos controlos oficiais de produtos de origem animal destinados ao consumo humano ([^11^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#E0011));\n\nc) Directiva 2004/41/CE do Parlamento Europeu e do Conselho, de 21 de Abril de 2004, que revoga certas directivas relativas à higiene dos géneros alimentícios e às regras sanitárias aplicáveis à produção e à comercialização de determinados produtos de origem animal destinados ao consumo humano ([^12^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#E0012)).\n\nNo entanto, o presente regulamento não é aplicável antes de 1 de Janeiro de 2006.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "5a8c07662d9718b0": {
+   "fragment_id": "PRODUÇÃO PRIMÁRIA",
+   "type": "divisao",
+   "heading": "PRODUÇÃO PRIMÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRODUÇÃO PRIMÁRIA"
+  },
+  "f1d5a257963e60ba": {
+   "fragment_id": "PARTE A: DISPOSIÇÕES GERAIS DE HIGIENE APLICÁVEIS À PRODUÇÃO PRIMÁRIA E OPERAÇÕES CONEXAS",
+   "type": "divisao",
+   "heading": "PARTE A: DISPOSIÇÕES GERAIS DE HIGIENE APLICÁVEIS À PRODUÇÃO PRIMÁRIA E OPERAÇÕES CONEXAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A: DISPOSIÇÕES GERAIS DE HIGIENE APLICÁVEIS À PRODUÇÃO PRIMÁRIA E OPERAÇÕES CONEXAS"
+  },
+  "74f677a037b2c59d": {
+   "fragment_id": "I. Âmbito",
+   "type": "divisao",
+   "heading": "I. Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Âmbito\n\n1. O disposto na presente parte aplica-se à produção primária e às seguintes operações conexas:\n\na) Transporte, armazenagem e manuseamento de produtos de produção primária produzidos no local de produção, desde que tal não altere substancialmente a sua natureza;\n\nb) Transporte de animais vivos, sempre que tal seja necessário para alcançar os objectivos do presente regulamento;\n\nc) No caso dos produtos de origem vegetal, dos produtos da pesca e da caça selvagem, operações de transporte para entrega de produtos da produção primária cuja natureza não foi substancialmente alterada, desde o local de produção até ao estabelecimento."
+  },
+  "d8aee4575dcb27f0": {
+   "fragment_id": "II. Disposições relativas à higiene",
+   "type": "divisao",
+   "heading": "II. Disposições relativas à higiene",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Disposições relativas à higiene\n\n2. Os operadores das empresas do sector alimentar devem assegurar, tanto quanto possível, que os produtos da produção primária sejam protegidos de contaminações, atendendo a qualquer transformação que esses produtos sofram posteriormente.\n\n3. Não obstante a obrigação geral prevista no ponto anterior, os operadores das empresas do sector alimentar devem respeitar as disposições legislativas, comunitárias e nacionais, aplicáveis ao controlo dos riscos na produção primária e operações conexas, incluindo:\n\na) Medidas para controlar a contaminação pelo ar, pelos solos, pela água, pelos alimentos para animais, pelos fertilizantes, pelos medicamentos veterinários, pelos produtos fitossanitários e biocidas, pela armazenagem, manuseamento e eliminação de resíduos;\n\nb) Medidas ligadas à saúde e ao bem-estar dos animais e à fitossanidade que tenham implicações para a saúde humana, incluindo programas de vigilância e controlo das zoonoses e agentes zoonóticos.\n\n4. Os operadores das empresas do sector alimentar que criem, explorem ou cacem animais, ou produzam produtos da produção primária de origem animal, devem tomar as medidas adequadas a fim de:\n\na) Manter limpas todas as instalações utilizadas na produção primária e operações conexas, incluindo instalações utilizadas na armazenagem e no manuseamento de alimentos para animais e, se necessário, depois de limpas, desinfectá-las devidamente;\n\nb) Manter limpos e, se necessário, depois de limpos, desinfectar devidamente os equipamentos, contentores, grades, veículos e navios;\n\nc) Assegurar, tanto quanto possível, a higiene dos animais que vão ser abatidos e, se necessário, dos animais de rendimento;\n\nd) Utilizar água potável, ou água limpa, sempre que necessário para prevenir qualquer contaminação;\n\ne) Assegurar que o pessoal que vai manusear os géneros alimentícios está de boa saúde e recebe formação em matéria de riscos sanitários;\n\nf) Prevenir, tanto quanto possível, a contaminação causada por animais e parasitas;\n\ng) Manusear os resíduos e as substâncias perigosas de modo a prevenir qualquer contaminação;\n\nh) Evitar a introdução e a propagação de doenças contagiosas transmissíveis ao homem através dos alimentos, incluindo pela tomada de medidas de precaução aquando da introdução de novos animais e dando a conhecer qualquer surto suspeito dessas doenças às autoridades competentes;\n\ni) Ter em conta os resultados de quaisquer análises pertinentes efectuadas em amostras colhidas dos animais ou outras amostras que se possam revestir de importância para a saúde humana;\n\nj) Utilizar correctamente aditivos nos alimentos para animais e medicamentos veterinários, tal como exigido pela legislação pertinente.\n\n5. Os operadores das empresas do sector alimentar que produzam ou colham produtos vegetais devem tomar as medidas adequadas para:\n\na) Manter limpos e, se necessário, depois de limpos, desinfectar devidamente as instalações, equipamentos, contentores, grades, veículos e embarcações;\n\nb) Assegurar, se necessário, a higiene da produção, do transporte e das condições de armazenagem dos produtos vegetais, e biolimpeza desses produtos;\n\nc) Utilizar água potável, ou água limpa, sempre que necessário para prevenir qualquer contaminação;\n\nd) Assegurar que o pessoal que vai manusear os géneros alimentícios está de boa saúde e recebe formação em matéria de riscos sanitários;\n\ne) Prevenir, tanto quanto possível, a contaminação causada por animais e parasitas;\n\nf) Manusear os resíduos e as substâncias perigosas de modo a prevenir qualquer contaminação;\n\ng) Ter em conta os resultados de quaisquer análises pertinentes efectuadas em amostras colhidas das plantas ou outras amostras que se possam revestir de importância para a saúde humana;\n\nh) Utilizar correctamente os produtos fitossanitários e biocidas, tal como exigido pela legislação pertinente.\n\n6. Os operadores das empresas do sector alimentar devem tomar medidas de reparação adequadas quando sejam informados dos problemas identificados durante os controlos oficiais."
+  },
+  "6e8530bf82f6644d": {
+   "fragment_id": "III. Manutenção de registos",
+   "type": "divisao",
+   "heading": "III. Manutenção de registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. Manutenção de registos\n\n7. Os operadores das empresas do sector alimentar devem manter e conservar registos das medidas tomadas para controlar os riscos de forma adequada e durante um período apropriado, compatível com a natureza e dimensão da empresa do sector alimentar. Os operadores das empresas do sector alimentar devem disponibilizar quaisquer informações relevantes contidas nesses registos à autoridade competente e aos operadores das empresas do sector alimentar receptoras, a seu pedido.\n\n8. Os operadores das empresas do sector alimentar que criem animais ou produzam produtos da produção primária de origem animal devem, em especial, manter registos sobre:\n\na) A natureza e origem dos alimentos com que os animais são alimentados;\n\nb) Os medicamentos veterinários ou outros tratamentos administrados aos animais, data(s) de administração e intervalo(s) de segurança;\n\nc) A ocorrência de doenças que possam afectar a segurança dos produtos de origem animal;\n\nd) Os resultados de quaisquer análises de amostras colhidas dos animais ou de outras amostras para efeitos de diagnóstico que se possam revestir de importância para a saúde humana;\n\ne) Quaisquer relatórios sobre os controlos efectuados nos animais ou nos produtos de origem animal.\n\n9. Os operadores do sector alimentar que produzam ou colham produtos vegetais devem, em especial, manter registos sobre:\n\na) Qualquer utilização de produtos fitossanitários e biocidas;\n\nb) Qualquer ocorrência de parasitas ou doenças que possam afectar a segurança dos produtos de origem vegetal;\n\nc) Os resultados de quaisquer análises pertinentes efectuadas em amostras colhidas das plantas ou outras amostras que se possam revestir de importância para a saúde humana.\n\n10. Os operadores das empresas do sector alimentar podem ser auxiliados por outras pessoas, tais como veterinários, agrónomos e técnicos agrícolas."
+  },
+  "98335a85807056af": {
+   "fragment_id": "PARTE B: RECOMENDAÇÕES PARA OS CÓDIGOS DE BOAS PRÁTICAS DE HIGIENE",
+   "type": "divisao",
+   "heading": "PARTE B: RECOMENDAÇÕES PARA OS CÓDIGOS DE BOAS PRÁTICAS DE HIGIENE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B: RECOMENDAÇÕES PARA OS CÓDIGOS DE BOAS PRÁTICAS DE HIGIENE\n\n1. Os códigos nacionais e comunitários a que se referem os artigos 7.º a 9.º do presente regulamento deverão conter orientações sobre as boas práticas de higiene para o controlo dos riscos na produção primária e operações conexas.\n\n2. Os códigos de boas práticas de higiene deverão conter informações adequadas sobre os riscos que possam resultar da produção primária e operações conexas e sobre as acções para controlar os referidos riscos, incluindo as medidas relevantes estabelecidas na legislação nacional e comunitária ou nos programas nacionais e comunitários. Entre esses riscos e medidas podem incluir-se:\n\na) O controlo da contaminação por produtos tais como micotoxinas, metais pesados e materiais radioactivos;\n\nb) A utilização da água, de resíduos orgânicos e de fertilizantes;\n\nc) O uso correcto e adequado de produtos fitossanitários e biocidas e a sua rastreabilidade;\n\nd) O uso correcto e adequado de medicamentos veterinários e de aditivos de alimentos para animais e a sua rastreabilidade;\n\ne) A preparação, armazenagem e rastreabilidade dos alimentos para animais;\n\nf) A eliminação adequada de animais mortos, resíduos e camas;\n\ng) As medidas de protecção para evitar a introdução de doenças contagiosas transmissíveis ao homem através dos alimentos, assim como qualquer obrigação de notificar as autoridades competentes;\n\nh) Os processos, práticas e métodos para assegurar que os géneros alimentícios são produzidos, manuseados, embalados, armazenados e transportados em condições de higiene adequadas, incluindo uma limpeza eficaz e o controlo de parasitas;\n\ni) Medidas relativas à higiene dos animais para abate e de rendimento;\n\nj) Medidas relativas à manutenção de registos."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "b1e6774725a7cfeb": {
+   "fragment_id": "REQUISITOS GERAIS DE HIGIENE APLICÁVEIS A TODOS OS OPERADORES DAS EMPRESAS DO SECTOR ALIMENTAR (EXCEPTO QUANDO SE APLICA O ANEXO I)",
+   "type": "divisao",
+   "heading": "REQUISITOS GERAIS DE HIGIENE APLICÁVEIS A TODOS OS OPERADORES DAS EMPRESAS DO SECTOR ALIMENTAR (EXCEPTO QUANDO SE APLICA O ANEXO I)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS GERAIS DE HIGIENE APLICÁVEIS A TODOS OS OPERADORES DAS EMPRESAS DO SECTOR ALIMENTAR (EXCEPTO QUANDO SE APLICA O ANEXO I)"
+  },
+  "8177abf7cb0be064": {
+   "fragment_id": "INTRODUÇÃO",
+   "type": "divisao",
+   "heading": "INTRODUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INTRODUÇÃO\n\nOs capítulos V a XII aplicam-se a todas as fases da produção, transformação e distribuição de géneros alimentícios e os restantes capítulos aplicam-se do seguinte modo:\n\n— o capítulo I aplica-se a todas as instalações do sector alimentar, excepto as abrangidas pelo capítulo III,\n\n— o capítulo II aplica-se a todos os locais onde se procede à preparação, tratamento ou transformação dos alimentos, excepto as salas de refeições e as instalações a que se aplica o capítulo III,\n\n— o capítulo III aplica-se às instalações enumeradas no cabeçalho do capítulo,\n\n— o capítulo IV aplica-se a todos os meios de transporte."
+  },
+  "6da92fe0e02efe2c": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I"
+  },
+  "f6035a9d675a94bb": {
+   "fragment_id": "Requisitos gerais aplicáveis às instalações do sector alimentar (com excepção das especificadas no capítulo III)",
+   "type": "divisao",
+   "heading": "Requisitos gerais aplicáveis às instalações do sector alimentar (com excepção das especificadas no capítulo III)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos gerais aplicáveis às instalações do sector alimentar (com excepção das especificadas no capítulo III)\n\n1. As instalações do sector alimentar devem ser mantidas limpas e em boas condições.\n\n2. Pela sua disposição relativa, concepção, construção, localização e dimensões, as instalações do sector alimentar devem:\n\na) Permitir a manutenção e a limpeza e/ou desinfecção adequadas, evitar ou minimizar a contaminação por via atmosférica e facultar um espaço de trabalho adequado para permitir a execução higiénica de todas as operações;\n\nb) Permitir evitar a acumulação de sujidade, o contacto com materiais tóxicos, a queda de partículas nos géneros alimentícios e a formação de condensação e de bolores indesejáveis nas superfícies;\n\nc) Possibilitar a aplicação de boas práticas de higiene e evitar nomeadamente a contaminação e, em especial, o controlo dos parasitas;\n\nd) Sempre que necessário, proporcionar condições adequadas de manuseamento e armazenagem a temperatura controlada, com uma capacidade suficiente para manter os géneros alimentícios a temperaturas adequadas e ser concebidas de forma a permitir que essas temperaturas sejam controladas e, se necessário, registadas.\n\n3. Devem existir instalações sanitárias em número suficiente, munidas de autoclismo e ligadas a um sistema de esgoto eficaz. As instalações sanitárias não devem dar directamente para os locais onde se manuseiam os alimentos.\n\n4. Deve existir um número adequado de lavatórios devidamente localizados e indicados para a lavagem das mãos. Os lavatórios para a lavagem das mãos devem estar equipados com água corrente quente e fria, materiais de limpeza das mãos e dispositivos de secagem higiénica. Sempre que necessário, as instalações de lavagem dos alimentos devem ser separadas das que se destinam à lavagem das mãos.\n\n5. Deve ser prevista uma ventilação natural ou mecânica adequada e suficiente. Deve ser evitado o fluxo mecânico de ar de zonas contaminadas para zonas limpas. Os sistemas de ventilação devem ser construídos de forma a proporcionar um acesso fácil aos filtros e a outras partes que necessitem de limpeza ou de substituição.\n\n6. As instalações sanitárias devem ter ventilação adequada, natural ou mecânica.\n\n7. As instalações do sector alimentar devem dispor de luz natural e/ou artificial adequada.\n\n8. Os sistemas de esgoto devem ser adequados ao fim a que se destinam. Devem ser projectados e construídos de forma a evitar o risco de contaminação. Se os canais de evacuação forem total ou parcialmente abertos, devem ser concebidos de forma a assegurar que não haja fluxos de resíduos de zonas contaminadas para zonas limpas, em especial para zonas onde sejam manuseados alimentos susceptíveis de apresentarem um elevado risco para o consumidor final.\n\n9. Sempre que necessário, o pessoal deverá dispor de vestiários adequados.\n\n10. Os produtos de limpeza e os desinfectantes não devem ser armazenados em áreas onde são manuseados géneros alimentícios."
+  },
+  "48fa5f7b94dc8eb9": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II"
+  },
+  "d895cf7f5a8735e2": {
+   "fragment_id": "Requisitos específicos aplicáveis aos locais em que os géneros alimentícios são preparados, tratados ou transformados (excepto as salas de refeições e as instalações especificadas no capítulo III)",
+   "type": "divisao",
+   "heading": "Requisitos específicos aplicáveis aos locais em que os géneros alimentícios são preparados, tratados ou transformados (excepto as salas de refeições e as instalações especificadas no capítulo III)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos específicos aplicáveis aos locais em que os géneros alimentícios são preparados, tratados ou transformados (excepto as salas de refeições e as instalações especificadas no capítulo III)\n\n1. A disposição relativa e a concepção dos locais em que os géneros alimentícios são preparados, tratados ou transformados (excepto as salas de refeições e as instalações especificadas no capítulo III, mas incluindo os locais que fazem parte de meios de transporte) devem permitir a aplicação de boas práticas de higiene, incluindo a protecção contra a contaminação entre e durante as operações, devendo nomeadamente ser cumpridos seguintes requisitos:\n\na) As superfícies do solo devem ser mantidas em boas condições e poder ser facilmente limpas e, sempre que necessário, desinfectadas. Para o efeito, deverão ser utilizados materiais impermeáveis, não absorventes, laváveis e não tóxicos, a não ser que os operadores das empresas do sector alimentar possam provar à autoridade competente que os outros materiais utilizados são adequados. Se for caso disso, a superfície dos solos deve permitir um escoamento adequado;\n\nb) As superfícies das paredes devem ser mantidas em boas condições e poder ser facilmente limpas e, sempre que necessário, desinfectadas. Para o efeito, deverão ser utilizados materiais impermeáveis, não absorventes, laváveis e não tóxicos, devendo as superfícies ser lisas até uma altura adequada às operações, a não ser que os operadores das empresas do sector alimentar possam provar à autoridade competente que os outros materiais utilizados são adequados;\n\nc) Os tectos (ou caso não haja tectos, a superfície interna do telhado) e equipamentos neles montados devem ser construídos e preparados por forma a evitar a acumulação de sujidade e reduzir a condensação, o desenvolvimento de bolores indesejáveis e o desprendimento de partículas;\n\nd) As janelas e outras aberturas devem ser construídas de modo a evitar a acumulação de sujidade. As que puderem abrir para o exterior devem estar equipadas, sempre que necessário, com redes de protecção contra insectos, facilmente removíveis para limpeza. Se da sua abertura puder resultar qualquer contaminação, as janelas devem ficar fechadas com ferrolho durante a produção;\n\ne) As portas devem poder ser facilmente limpas e, sempre que necessário, desinfectadas. Para o efeito, deverão ser utilizadas superfícies lisas e não absorventes, a menos que os operadores das empresas do sector alimentar possam provar à autoridade competente que os outros materiais utilizados são adequados;\n\nf) As superfícies (incluindo as dos equipamentos) das zonas em que os géneros alimentícios são manuseados, nomeadamente as que entram em contacto com os géneros alimentícios, devem ser mantidas em boas condições e devem poder ser facilmente limpas e, sempre que necessário, desinfectadas. Para o efeito, deverão ser utilizados materiais lisos, laváveis, resistentes à corrosão e não tóxicos, a não ser que os operadores das empresas do sector alimentar possam provar à autoridade competente que os outros materiais utilizados são adequados.\n\n2. Sempre que necessário, devem existir instalações adequadas para a limpeza, desinfecção e armazenagem dos utensílios e equipamento de trabalho. Essas instalações devem ser constituídas por materiais resistentes à corrosão, ser fáceis de limpar e dispor de um abastecimento adequado de água quente e fria.\n\n3. Sempre que necessário, devem ser previstos meios adequados para a lavagem dos alimentos. Todos os lavatórios ou outros equipamentos do mesmo tipo destinados à lavagem de alimentos devem dispor de um abastecimento adequado de água potável quente e/ou fria conforme com os requisitos do capítulo VII e devem estar limpos e, sempre que necessário, desinfectados."
+  },
+  "993e4e9a046500e2": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III"
+  },
+  "66b27115ff935f95": {
+   "fragment_id": "Requisitos aplicáveis às instalações amovíveis e/ou temporárias (tais como marquises, tendas de mercado, veículos para venda ambulante), às instalações utilizadas essencialmente como habitação privada mas nas quais os géneros alimentícios são regularmente preparados para a colocação no mercado e às máquinas de venda automática",
+   "type": "divisao",
+   "heading": "Requisitos aplicáveis às instalações amovíveis e/ou temporárias (tais como marquises, tendas de mercado, veículos para venda ambulante), às instalações utilizadas essencialmente como habitação privada mas nas quais os géneros alimentícios são regularmente preparados para a colocação no mercado e às máquinas de venda automática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos aplicáveis às instalações amovíveis e/ou temporárias (tais como marquises, tendas de mercado, veículos para venda ambulante), às instalações utilizadas essencialmente como habitação privada mas nas quais os géneros alimentícios são regularmente preparados para a colocação no mercado e às máquinas de venda automática\n\n1. As instalações e as máquinas de venda automática devem, na medida em que for razoavelmente praticável, estar localizadas e ser concebidas, construídas, e mantidas limpas e em boas condições, de forma a evitar o risco de contaminação, nomeadamente através de animais e parasitas.\n\n2. Mais particularmente, sempre que necessário:\n\na) Devem existir instalações adequadas que permitam a manutenção de uma higiene pessoal adequada (incluindo instalações de lavagem e secagem higiénica das mãos, instalações sanitárias em boas condições de higiene e vestiários);\n\nb) As superfícies em contacto com os alimentos devem ser mantidas em boas condições e devem poder ser facilmente limpas e, sempre que necessário, desinfectadas. Para o efeito, deverão ser utilizados materiais lisos, laváveis, resistentes à corrosão e não tóxicos, a menos que os operadores das empresas do sector alimentar possam provar à autoridade competente que os outros materiais utilizados são adequados;\n\nc) Devem existir meios adequados para a lavagem e, sempre que necessário, desinfecção dos utensílios e equipamentos de trabalho;\n\nd) Sempre que a limpeza dos géneros alimentícios for realizada pela empresa do sector alimentar, devem existir meios adequados para que essa operação possa decorrer de forma higiénica;\n\ne) Deve existir um abastecimento adequado de água potável quente e/ou fria;\n\nf) Devem existir instalações e/ou equipamentos adequados de armazenagem e eliminação higiénicas de substâncias perigosas e/ou não comestíveis, bem como de resíduos (líquidos ou sólidos);\n\ng) Devem existir equipamentos e/ou instalações que permitam a manutenção dos alimentos a temperatura adequada, bem como o controlo dessa temperatura;\n\nh) Os géneros alimentícios devem ser colocados em locais que impeçam, na medida em que for razoavelmente praticável, o risco de contaminação."
+  },
+  "f14dcd73d9901e73": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV"
+  },
+  "a96c9d4e75ecbd28": {
+   "fragment_id": "Transporte",
+   "type": "divisao",
+   "heading": "Transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Transporte\n\n1. Os veículos de transporte e/ou os contentores utilizados para o transporte de géneros alimentícios devem ser mantidos limpos e em boas condições, a fim proteger os géneros alimentícios da contaminação, devendo, sempre que necessário, ser concebidos e construídos de forma a permitir uma limpeza e/ou desinfecção adequadas.\n\n2. As caixas de carga dos veículos e/ou contentores não devem transportar senão géneros alimentícios se desse transporte puder resultar qualquer contaminação.\n\n3. Sempre que os veículos e/ou os contentores forem utilizados para o transporte de outros produtos para além do de géneros alimentícios ou para o transporte simultâneo de diferentes géneros alimentícios, deverá existir, sempre que necessário, uma efectiva separação dos produtos.\n\n4. Os géneros alimentícios a granel no estado líquido, em grânulos ou em pó devem ser transportados em caixas de carga e/ou contentores/cisternas reservados ao transporte de géneros alimentícios. Os contentores devem ostentar uma referência claramente visível e indelével, numa ou mais línguas da Comunidade, indicativa de que se destinam ao transporte de géneros alimentícios, ou a menção «destinado exclusivamente a géneros alimentícios».\n\n5. Sempre que os veículos e/ou os contentores tiverem sido utilizados para o transporte de produtos que não sejam géneros alimentícios ou para o transporte de géneros alimentícios diferentes, dever-se-á proceder a uma limpeza adequada entre os carregamentos, para evitar o risco de contaminação.\n\n6. A colocação e a protecção dos géneros alimentícios dentro dos veículos e/ou contentores devem ser de molde a minimizar o risco de contaminação.\n\n7. Sempre que necessário, os veículos e/ou os contentores utilizados para o transporte de géneros alimentícios devem ser capazes de manter os géneros alimentícios a temperaturas adequadas e permitir que essas temperaturas sejam controladas."
+  },
+  "e2b9a1d26ccd77d2": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V"
+  },
+  "f88ade3cdec90890": {
+   "fragment_id": "Requisitos aplicáveis ao equipamento",
+   "type": "divisao",
+   "heading": "Requisitos aplicáveis ao equipamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos aplicáveis ao equipamento\n\n1. Todos os utensílios, aparelhos e equipamento que entrem em contacto com os alimentos devem:\n\na) Estar efectivamente limpos e, sempre que necessário, desinfectados. Deverão ser limpos e desinfectados com uma frequência suficiente para evitar qualquer risco de contaminação;\n\nb) Ser fabricados com materiais adequados e mantidos em boas condições de arrumação e bom estado de conservação, de modo a minimizar qualquer risco de contaminação;\n\nc) Exceptuando os recipientes e embalagens não recuperáveis, ser fabricados com materiais adequados e mantidos em boas condições de arrumação e bom estado de conservação, de modo a permitir a sua limpeza e, sempre que necessário, a sua desinfecção;\n\nd) Ser instalados de forma a permitir a limpeza adequada do equipamento e da área circundante.\n\n2. Sempre que necessário, o equipamento deve conter dispositivos de controlo capazes de assegurar o cumprimento dos objectivos do presente regulamento.\n\n3. Sempre que devam ser utilizados aditivos químicos para prevenir a corrosão de equipamento e de contentores, deverão ser seguidas as boas práticas de aplicação."
+  },
+  "228a029237c7a56e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI"
+  },
+  "50e83c041e58cf4c": {
+   "fragment_id": "Resíduos alimentares",
+   "type": "divisao",
+   "heading": "Resíduos alimentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Resíduos alimentares\n\n1. Os resíduos alimentares, os subprodutos não comestíveis e os outros resíduos deverão ser retirados das salas em que se encontrem alimentos, o mais depressa possível de forma a evitar a sua acumulação.\n\n2. Os resíduos alimentares, os subprodutos não comestíveis e os demais resíduos devem ser depositados em contentores que se possam fechar, a menos que os operadores das empresas do sector alimentar possam provar à autoridade competente que outros tipos de contentores ou de sistemas de evacuação utilizados são adequados. Esses contentores devem ser de fabrico conveniente, ser mantidos em boas condições e ser fáceis de limpar e, sempre que necessário, de desinfectar.\n\n3. Devem ser tomadas as medidas adequadas para a recolha e a eliminação dos resíduos alimentares, dos subprodutos não comestíveis e dos outros resíduos. Os locais de recolha dos resíduos devem ser concebidos e utilizados de modo a que possam ser mantidos limpos e, sempre que necessário, livres de animais e parasitas.\n\n4. Todas as águas residuais devem ser eliminadas de um modo higiénico e respeitador do ambiente, em conformidade com a legislação comunitária aplicável para o efeito, e não devem constituir uma fonte directa ou indirecta de contaminação."
+  },
+  "f4f31f885dabbddf": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII"
+  },
+  "75a517363bfc8f9e": {
+   "fragment_id": "Abastecimento de água",
+   "type": "divisao",
+   "heading": "Abastecimento de água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Abastecimento de água\n\na) Deve ser providenciado um abastecimento adequado de água potável, a qual deve ser utilizada sempre que necessário para garantir a não contaminação dos géneros alimentícios.\n\nb) Pode ser utilizada água limpa nos produtos da pesca inteiros.\n\n2. Quando for utilizada água não potável para, por exemplo, o combate a incêndios, a produção de vapor, a refrigeração ou outros objectivos similares, a água deve circular em sistemas separados, devidamente identificados. A água não potável não poderá ter qualquer ligação com os sistemas de água potável, nem possibilidade de refluxo para esses sistemas.\n\n3. A água reciclada utilizada na transformação, ou como ingrediente, não deve acarretar um risco de contaminação. Deve obedecer aos mesmos padrões que a água potável, a não ser que a autoridade competente tenha garantias de que a qualidade da água não pode afectar a integridade do género alimentício na sua forma final.\n\n4. O gelo que entre em contacto com alimentos ou que possa contaminar os alimentos deve ser fabricado com água potável ou, quando utilizado para refrigerar produtos da pesca inteiros, com água limpa. Esse gelo deve ser fabricado, manuseado e armazenado em condições que o protejam de qualquer contaminação.\n\n5. O vapor utilizado em contacto directo com os alimentos não deve conter substâncias que representem um risco para a saúde ou que possam contaminar os alimentos.\n\n6. Quando o tratamento térmico for aplicado a géneros alimentícios em recipientes hermeticamente fechados, deve assegurar-se que a água utilizada para o arrefecimento dos recipientes após o tratamento térmico não constitui uma fonte de contaminação para o género alimentício."
+  },
+  "c27dc841de524fe6": {
+   "fragment_id": "CAPÍTULO VIII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII"
+  },
+  "08437abcaf2083bf": {
+   "fragment_id": "Higiene pessoal",
+   "type": "divisao",
+   "heading": "Higiene pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Higiene pessoal\n\n1. Qualquer pessoa que trabalhe num local em que sejam manuseados alimentos deve manter um elevado grau de higiene pessoal e deverá usar vestuário adequado, limpo e, sempre que necessário, que confira protecção.\n\n2. Qualquer pessoa que sofra ou seja portadora de uma doença facilmente transmissível através dos alimentos ou que esteja afectada, por exemplo, por feridas infectadas, infecções cutâneas, inflamações ou diarreia será proibida de manipular géneros alimentícios e entrar em locais onde se manuseiem alimentos, seja a que título for, se houver probabilidades de contaminação directa ou indirecta. Qualquer pessoa afectada deste modo e empregada no sector alimentar e que possa entrar em contacto com géneros alimentícios deverá informar imediatamente o operador do sector alimentar de tal doença ou sintomas e, se possível, das suas causas."
+  },
+  "5d7f3c7f6d87b235": {
+   "fragment_id": "CAPÍTULO IX",
+   "type": "divisao",
+   "heading": "CAPÍTULO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX"
+  },
+  "61bf742ede6eef87": {
+   "fragment_id": "Disposições aplicáveis aos géneros alimentícios",
+   "type": "divisao",
+   "heading": "Disposições aplicáveis aos géneros alimentícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições aplicáveis aos géneros alimentícios\n\n1. Um operador do sector alimentar não deve aceitar matérias-primas nem ingredientes para além de animais vivos, nem quaisquer outras matérias utilizadas para a transformação dos produtos que apresentem ou que se possa razoavelmente esperar que apresentem contaminação por parasitas, microrganismos patogénicos ou substâncias tóxicas, substâncias em decomposição ou substâncias estranhas na medida em que, mesmo depois de ter aplicado higienicamente os processos normais de triagem e/ou preparação ou transformação, o produto final esteja impróprio para consumo humano.\n\n2. As matérias-primas e todos os ingredientes armazenados nas empresas do sector alimentar devem ser conservados em condições adequadas que evitem a sua deterioração e os protejam de qualquer contaminação.\n\n3. Em todas as fases da produção, transformação e distribuição, os alimentos devem ser protegidos de qualquer contaminação que os possa tornar impróprios para consumo humano, perigosos para a saúde ou contaminados de tal forma que não seja razoável esperar que sejam consumidos nesse estado.\n\n4. Devem ser instituídos procedimentos adequados para controlar os parasitas. Devem ser igualmente instituídos procedimentos adequados para prevenir que animais domésticos tenham acesso a locais onde os alimentos são preparados, manuseados ou armazenados (ou, sempre que a autoridade competente o permita em casos especiais, para prevenir que esse acesso possa ser fonte de contaminação).\n\n5. As matérias-primas, os ingredientes e os produtos intermédios e acabados susceptíveis de permitirem a reprodução de microrganismos patogénicos ou a formação de toxinas não devem ser conservados a temperaturas de que possam resultar riscos para a saúde. A cadeia de frio não deve ser interrompida. No entanto, desde que daí não resulte um risco para a saúde, são permitidos períodos limitados sem controlo da temperatura, sempre que tal seja necessário para permitir o manuseamento durante a preparação, o transporte, a armazenagem, a exposição e a apresentação dos alimentos ao consumidor. As empresas do sector alimentar que fabriquem, manuseiem e acondicionem géneros alimentícios transformados devem dispor de salas com dimensões suficientes para a armazenagem separada de matérias-primas e matérias transformadas e de armazenagem refrigerada separada suficiente.\n\n6. Quando se destinarem a ser conservados ou servidos frios, os géneros alimentícios devem ser arrefecidos o mais rapidamente possível após a fase de transformação pelo calor, ou após a fase final de preparação se a transformação pelo calor não for utilizada, até atingirem uma temperatura de que não resultem riscos para a saúde.\n\n7. A descongelação dos géneros alimentícios deve ser efectuada de forma a minimizar o risco de desenvolvimento de microrganismos patogénicos ou a formação de toxinas nos alimentos. Durante a descongelação, os alimentos devem ser submetidos a temperaturas das quais não resulte um risco para a saúde. Os líquidos de escorrimento resultantes da descongelação devem ser adequadamente drenados caso apresentem um risco para a saúde. Depois da descongelação, os alimentos devem ser manuseados de forma a minimizar o risco de desenvolvimento de microrganismos patogénicos ou a formação de toxinas.\n\n8. As substâncias perigosas e/ou não comestíveis, incluindo os alimentos para animais, devem ser adequadamente rotuladas e armazenadas em contentores separados e seguros."
+  },
+  "92e89eff5b7a8a32": {
+   "fragment_id": "CAPÍTULO X",
+   "type": "divisao",
+   "heading": "CAPÍTULO X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO X"
+  },
+  "70466e300f76978f": {
+   "fragment_id": "Disposições aplicáveis ao acondicionamento e embalagem dos géneros alimentícios",
+   "type": "divisao",
+   "heading": "Disposições aplicáveis ao acondicionamento e embalagem dos géneros alimentícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições aplicáveis ao acondicionamento e embalagem dos géneros alimentícios\n\n1. Os materiais de acondicionamento e embalagem não devem constituir fonte de contaminação.\n\n2. Todo o material de acondicionamento deve ser armazenado por forma a não ficar exposto a risco de contaminação.\n\n3. As operações de acondicionamento e embalagem devem ser executadas de forma a evitar a contaminação dos produtos. Sempre que necessário, como nomeadamente no caso de os recipientes serem caixas metálicas ou frascos de vidro, a sua integridade e limpeza têm de ser verificadas antes do enchimento.\n\n4. Os materiais de acondicionamento e embalagem reutilizados para os géneros alimentícios devem ser fáceis de limpar e, sempre que necessário, fáceis de desinfectar."
+  },
+  "fa5b7e0dc9c121b6": {
+   "fragment_id": "CAPÍTULO XI",
+   "type": "divisao",
+   "heading": "CAPÍTULO XI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XI"
+  },
+  "5981c0bbaa44a642": {
+   "fragment_id": "Tratamento térmico",
+   "type": "divisao",
+   "heading": "Tratamento térmico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Tratamento térmico\n\nOs requisitos a seguir indicados aplicam-se apenas aos alimentos colocados no mercado em recipientes hermeticamente fechados.\n\n1. Qualquer processo de tratamento térmico utilizado para transformar um produto não transformado ou para outra transformação de um produto transformado deve:\n\na) Fazer subir a temperatura de todas as partes do produto tratado até uma determinada temperatura durante um determinado período de tempo;\n\nb) Impedir o produto de ser contaminado durante o processo.\n\n2. A fim de assegurar que o processo utilizado atinja os objectivos pretendidos, os operadores das empresas do sector alimentar devem controlar regularmente os principais parâmetros pertinentes (em especial, a temperatura, a pressão, a hermeticidade e a microbiologia), nomeadamente através da utilização de dispositivos automáticos.\n\n3. O processo utilizado deve obedecer a uma norma internacionalmente reconhecida (por exemplo, pasteurização, ultra-pasteurização ou esterilização)."
+  },
+  "c9b0fc916d864e8a": {
+   "fragment_id": "CAPÍTULO XII",
+   "type": "divisao",
+   "heading": "CAPÍTULO XII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XII"
+  },
+  "abfa6a8b0b529bdf": {
+   "fragment_id": "Formação",
+   "type": "divisao",
+   "heading": "Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Formação\n\nOs operadores das empresas do sector alimentar devem assegurar que:\n\n1. O pessoal que manuseia os alimentos seja supervisado e disponha, em matéria de higiene dos géneros alimentícios, de instrução e/ou formação adequadas para o desempenho das sua funções;\n\n2. Os responsáveis pelo desenvolvimento e manutenção do processo referido no n.º 1 do artigo 5.º do presente regulamento ou pela aplicação das orientações pertinentes tenham recebido formação adequada na aplicação dos princípios HACCP;\n\n3. Todos os requisitos da legislação nacional relacionados com programas de formação de pessoas que trabalhem em determinados sectores alimentares sejam respeitados.\n\n---"
+  },
+  "e982a462385fd4a6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#src.E0001)) JO C 365 E de 19.12.2000, p. 43.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#src.E0002)) JO C 155 de 29.5.2001, p. 39.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 15 de Maio de 2002 (JO C 180 E de 31.7.2003, p. 267), posição comum do Conselho de 27 de Outubro de 2003 (JO C 48 E de 24.2.2004, p. 1.), posição do Parlamento Europeu de 30 de Março de 2004 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 16 de Abril de 2004.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#src.E0004)) Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios (JO L 31 de 1.2.2002, p. 1). Regulamento alterado pelo Regulamento (CE) n.º 1642/2003 (JO L 245 de 29.9.2003, p. 4).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#src.E0005)) JO L 175 de 19.7.1993, p. 1. Directiva alterada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 22).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#src.E0006)) Ver página 22 do presente Jornal Oficial.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#src.E0007)) JO L 37 de 13.2.1993, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 1882/2003.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#src.E0008)) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#src.E0009)) JO L 330 de 5.12.1998, p. 32. Regulamento alterado pelo Regulamento (CE) n.º 1882/2003.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#src.E0010)) Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação (JO L 204 de 21.7.1998, p. 37). Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 2003.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#src.E0011)) Ver página 83 do presente Jornal Oficial.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/e682cba3-4313-4436-949c-85bdf59947d4.0018.03/DOC_1#src.E0012)) JO L 157 de 30.4.2004, p. 33."
+  },
+  "f8c713793e32674b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nrelativo à higiene dos géneros alimentícios"
+  },
+  "309390556c95c445": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1.\n\nO presente regulamento estabelece as regras gerais destinadas aos operadores das empresas do sector alimentar no que se refere à higiene dos géneros alimentícios, tendo em particular consideração os seguintes princípios:\n\na) Os operadores do sector alimentar são os principais responsáveis pela segurança dos géneros alimentícios;\n\nb) A necessidade de garantir a segurança dos géneros alimentícios ao longo da cadeia alimentar, com início na produção primária;\n\nc) No caso dos géneros alimentícios que não possam ser armazenados com segurança à temperatura ambiente, a importância da manutenção da cadeia do frio, em especialmente para os alimentos congelados;\n\nd) A aplicação geral dos procedimentos baseados nos princípios HACCP, associadas à observância de boas práticas de higiene, deve reforçar a responsabilidade dos operadores das empresas do sector alimentar;\n\ne) Os códigos de boas práticas constituem um instrumento valioso para auxiliar os operadores das empresas do sector alimentar, a todos os níveis da cadeia alimentar, na observância das regras de higiene e dos princípios HACCP;\n\nf) A necessidade de serem estabelecidos critérios microbiológicos e requisitos de controlo da temperatura baseados numa avaliação científica do risco;\n\ng) A necessidade de assegurar que os géneros alimentícios importados respeitem, pelo menos, os mesmos padrões em termos de higiene que os géneros alimentícios produzidos na Comunidade ou padrões equivalentes.\n\nO presente regulamento aplica-se em todas as fases da produção, transformação e distribuição de alimentos, sem prejuízo de requisitos mais específicos em matéria de higiene dos géneros alimentícios.\n\n2.\n\nO presente regulamento não se aplica:\n\na) À produção primária destinada a uso doméstico privado;\n\nb) À preparação, manipulação e armazenagem doméstica de alimentos para consumo doméstico privado;\n\nc) Ao fornecimento directo, pelo produtor, de pequenas quantidades de produtos de produção primária ao consumidor final ou ao comércio a retalho local que fornece directamente o consumidor final;\n\nd) Aos centros de recolha e fábricas de curtumes abrangidos pela definição de empresa do sector alimentar apenas por tratarem materiais crus para a produção de gelatina ou colagéneo.\n\n3. Ao abrigo da legislação nacional, os Estados-Membros estabelecem regras que regulamentem as actividades referidas na alínea c) do n.º 2. Essas regras nacionais devem assegurar a realização dos objectivos do presente regulamento."
+  },
+  "b68148b0e8d86d39": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1.\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Higiene dos géneros alimentícios», a seguir designada por «higiene», as medidas e condições necessárias para controlar os riscos e assegurar que os géneros alimentícios sejam próprios para consumo humano tendo em conta a sua utilização;\n\nb) «Produtos primários»: produtos da produção primária, incluindo os produtos da agricultura, da pecuária, da caça e da pesca;\n\nc) «Estabelecimento», qualquer unidade de uma empresa do sector alimentar;\n\nd) «Autoridade competente», a autoridade central de um Estado-Membro competente para assegurar o respeito dos requisitos do presente regulamento ou qualquer outra autoridade em que essa autoridade central tenha delegado essa competência; inclui, se for caso disso, a autoridade correspondente de um país terceiro;\n\ne) «Equivalente», em relação a diferentes sistemas, capaz de alcançar os mesmos objectivos;\n\nf) «Contaminação», a presença ou introdução de um risco;\n\ng) «Água potável», água que cumpre os requisitos estabelecidos na Directiva 98/83/CE do Conselho, de 3 de Novembro de 1998, para a água destinada ao consumo humano ([^1^](http://publications.europa.eu/resource/cellar/5d24973d-52c7-4ef2-85dd-f2e10a5549eb.0018.02/DOC_2#E0001));\n\nh) «Água do mar limpa», água do mar ou salobre, natural, artificial ou depurada, que não contenha microrganismos, substâncias nocivas nem plâncton marinho tóxico em quantidades susceptíveis de terem uma incidência directa ou indirecta sobre a qualidade sanitária dos géneros alimentícios;\n\ni) «Água limpa», água do mar limpa e água doce limpa, de qualidade semelhante;\n\nj) «Acondicionamento», colocação de um produto num invólucro inicial ou recipiente inicial em contacto directo com o produto em questão, bem como o próprio invólucro ou recipiente inicial;\n\nk) «Embalagem», colocação de um ou mais géneros alimentícios acondicionados num segundo recipiente, bem como o próprio recipiente;\n\nl) «Recipiente hermeticamente fechado», um recipiente concebido para impedir a entrada de substâncias ou organismos perigosos;\n\nm) «Transformação», acção que assegura uma modificação substancial do produto inicial por aquecimento, fumagem, cura, maturação, secagem, marinagem, extracção, extrusão ou uma combinação destes processos;\n\nn) «Produtos não transformados», géneros alimentícios que não tenham sofrido transformação, incluindo produtos que tenham sido divididos, separados, seccionados, desossados, picados, esfolados, moídos, cortados, limpos, aparados, descascados, triturados, refrigerados, congelados ou ultracongelados;\n\no) «Produtos transformados», géneros alimentícios resultantes da transformação de produtos não transformados. Estes produtos podem conter ingredientes que sejam necessários ao seu fabrico, por forma a dar-lhes características específicas.\n\n2. São aplicáveis igualmente as definições estabelecidas no Regulamento (CE) n.º 178/2002.\n\n3. Nos anexos, as expressões «sempre que necessário», «sempre que adequado»«apropriado» e «suficiente» significam, respectivamente, sempre que necessário, sempre que adequado, apropriado ou suficiente para alcançar os objectivos do presente regulamento."
+  },
+  "19242742d7f0c56f": {
+   "fragment_id": "Artigo 4.º — Requisitos gerais e específicos de higiene",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Requisitos gerais e específicos de higiene",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos gerais e específicos de higiene\n\n1. Os operadores das empresas do sector alimentar que se dediquem à produção primária e a determinadas actividades conexas enumeradas no anexo I cumprem as disposições gerais de higiene previstas na parte A do anexo I e em quaisquer outras disposições específicas previstas no Regulamento (CE) n.º 853/2004.\n\n2. Os operadores das empresas do sector alimentar que se dediquem a qualquer fase da produção, transformação e distribuição de géneros alimentícios a seguir às fases a que se aplica o n.º 1, cumprem os requisitos gerais de higiene previstos no anexo II e em quaisquer outras disposições específicas previstas no Regulamento (CE) n.º 853/2004.\n\n3.\n\nOs operadores das empresas do sector alimentar, tomarão, se for caso disso, as seguintes medidas específicas de higiene:\n\na) Respeito dos critérios microbiológicos aplicáveis aos géneros alimentícios;\n\nb) Os processos necessários para respeitar os alvos estabelecidos para cumprir os objectivos do presente regulamento;\n\nc) Respeito dos critérios de temperatura aplicáveis aos géneros alimentícios;\n\nd) Manutenção da cadeia de frio;\n\ne) Recolha de amostras e análises.\n\n4. Os critérios, requisitos e alvos a que se refere o n.º 3 assim como os métodos de amostragem e análise que lhes estão associados são estabelecidos pela Comissão. Essas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 14.º.\n\n5. Quando o presente regulamento, o Regulamento (CE) n.º 853/2004, e as suas medidas de execução não especificarem os métodos de amostragem ou de análise, os operadores das empresas do sector alimentar podem utilizar métodos adequados estabelecidos noutras regulamentações comunitárias ou nacionais ou, à falta destes, métodos que atinjam resultados equivalentes aos obtidos com o método de referência, caso sejam cientificamente validados em conformidade com regras ou protocolos internacionalmente reconhecidos.\n\n6. Os operadores das empresas do sector alimentar podem utilizar os códigos previstos nos artigos 7.º, 8.º e 9.º para os auxiliar no cumprimento das suas obrigações a título do presente regulamento."
+  },
+  "f4620b20ff8cde1f": {
+   "fragment_id": "Artigo 5.º — Análise dos perigos e controlo dos pontos críticos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Análise dos perigos e controlo dos pontos críticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Análise dos perigos e controlo dos pontos críticos\n\n1. Os operadores das empresas do sector alimentar criam, aplicam e mantêm um processo ou processos permanentes baseados nos princípios HACCP.\n\n2.\n\nOs princípios HACCP referidos no n.º 1 são os seguintes:\n\na) Identificação de quaisquer perigos que devam ser evitados, eliminados ou reduzidos para níveis aceitáveis;\n\nb) Identificação dos pontos críticos de controlo na fase ou fases em que o controlo é essencial para evitar ou eliminar um risco ou para o reduzir para níveis aceitáveis;\n\nc) Estabelecimento de limites críticos em pontos críticos de controlo, que separem a aceitabilidade da não aceitabilidade com vista à prevenção, eliminação ou redução dos riscos identificados;\n\nd) Estabelecimento e aplicação de processos eficazes de vigilância em pontos críticos de controlo;\n\ne) Estabelecimento de medidas correctivas quando a vigilância indicar que um ponto crítico de controlo não se encontra sob controlo;\n\nf) Estabelecimento de processos, a efectuar regularmente, para verificar que as medidas referidas nas alíneas a) a e) funcionam eficazmente;\n\ng) Elaboração de documentos e registos adequados à natureza e dimensão das empresas, a fim de demonstrar a aplicação eficaz das medidas referidas nas alíneas a) a f).\n\nSempre que seja efectuada qualquer alteração nos produtos, no processo, ou em qualquer fase da produção, os operadores das empresas do sector alimentar procedem a uma revisão do processo e introduzem as alterações necessárias.\n\n3. O n.º 1 apenas se aplica aos operadores das empresas do sector alimentar que efectuem qualquer fase de produção, transformação e distribuição dos géneros alimentícios a seguir à produção primária e às operações conexas enumeradas no anexo I.\n\n4.\n\nOs operadores das empresas do sector alimentar:\n\na) Fornecem à autoridade competente as provas da sua observância do requisito estabelecido no n.º 1, sob a forma exigida pela autoridade competente, tendo em conta a natureza e a dimensão da empresa do sector alimentar;\n\nb) Asseguram que todos os documentos que descrevem os processos desenvolvidos em conformidade com o presente artigo se encontram sempre actualizados;\n\nc) Conservam quaisquer outros documentos e registos durante um período adequado.\n\n5. Podem ser aprovadas nos termos do n.º 2 do artigo 14.º regras de execução do presente artigo. Tais regras podem facilitar a execução do presente artigo por certos operadores de empresas do sector alimentar, em especial estabelecendo a utilização de processos estabelecidos nos códigos para a aplicação dos princípios HACCP para dar cumprimento ao n.º 1. Essas regras podem igualmente especificar o período durante o qual os operadores das empresas do sector alimentar devem conservar os documentos e registos em conformidade com a alínea c) do n.º 4."
+  },
+  "abc036c59861f0d4": {
+   "fragment_id": "Artigo 6.º — Controlos oficiais, registo e aprovação dos estabelecimentos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Controlos oficiais, registo e aprovação dos estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Controlos oficiais, registo e aprovação dos estabelecimentos\n\n1. Os operadores das empresas do sector alimentar cooperam com as autoridades competentes em conformidade com a demais legislação comunitária aplicável ou, caso esta não exista, com a legislação nacional.\n\n2. Em particular, os operadores das empresas do sector alimentar notificam a autoridade competente, sob a forma por esta requerida, de todos os estabelecimentos sob o seu controlo que se dedicam a qualquer das fases de produção, transformação e distribuição de géneros alimentícios, tendo em vista o registo de cada estabelecimento.\n\nOs operadores das empresas do sector alimentar asseguram igualmente que a autoridade competente disponha em permanência de informações actualizadas sobre os estabelecimentos, incluindo mediante a notificação de qualquer alteração significativa das actividades e do eventual encerramento de um estabelecimento existente.\n\n3.\n\nTodavia, os operadores das empresas do sector alimentar asseguram que os estabelecimentos são aprovados pela autoridade competente, na sequência de pelo menos uma visita *in loco*, sempre que a aprovação seja exigida:\n\na) Pela legislação nacional dos Estados-Membros em que o estabelecimento está situado;\n\nb) Pelo Regulamento (CE) n.º 853/2004;\n\nc) Por uma decisão da Comissão; essa medida, que tem por objecto alterar elementos não essenciais do presente regulamento, é aprovada pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 14.º.\n\nOs Estados-Membros que, nos termos da sua legislação nacional, obrigarem à aprovação de determinados estabelecimentos situados no seu território, como previsto na alínea a), informam a Comissão e os restantes Estados-Membros das regras nacionais relevantes."
+  },
+  "bc5ec25403de676e": {
+   "fragment_id": "Artigo 8.º — Códigos nacionais",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Códigos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Códigos nacionais\n\n1.\n\nSempre que forem preparados códigos nacionais de boas práticas, estes são elaborados e divulgados por empresas dos sectores alimentares:\n\na) Consultando representantes de partes cujos interesses possam ser substancialmente afectados, tais como as autoridades competentes e as associações de consumidores;\n\nb) Tendo em conta os códigos de práticas pertinentes do *Codex Alimentarius*;\n\nc) Sempre que digam respeito à produção primária e às operações conexas enumeradas no anexo I, tomando em consideração as recomendações estabelecidas na parte B do anexo I.\n\n2.\n\nOs códigos nacionais podem ser elaborados sob a égide de um dos organismos nacionais de normalização referidos no anexo II da Directiva 98/34/CE ([^2^](http://publications.europa.eu/resource/cellar/5d24973d-52c7-4ef2-85dd-f2e10a5549eb.0018.02/DOC_2#E0002)).\n\n3.\n\nOs Estados-Membros avaliam os códigos nacionais para se assegurarem de que:\n\na) Foram elaborados em conformidade com o n.º 1;\n\nb) O seu teor permite que sejam aplicados na prática pelos sectores a que se destinam;\n\nc) São adequados enquanto códigos para o cumprimento dos artigos 3.º, 4.º e 5.º nos sectores e para os géneros alimentícios abrangidos.\n\n4. Os Estados-Membros enviam à Comissão os códigos nacionais que estejam em conformidade com os requisitos estabelecidos no n.º 3. A Comissão cria e mantém um sistema de registo desses códigos, que põe à disposição dos Estados-Membros.\n\n5. Os códigos de boas práticas elaborados em conformidade com as disposições da Directiva 93/43/CEE continuam a ser aplicáveis após a entrada em vigor do presente regulamento, desde que sejam compatíveis com os seus objectivos."
+  },
+  "8d7126653aba6761": {
+   "fragment_id": "Artigo 9.º — Códigos comunitários",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Códigos comunitários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Códigos comunitários\n\n1. Antes de serem elaborados códigos comunitários de boas práticas em matéria de higiene ou de aplicação dos princípios HACCP, a Comissão consultará o comité a que se refere o artigo 14.º Essa consulta terá por objectivo determinar o interesse desses códigos e os respectivos âmbito e teor.\n\n2.\n\nSempre que forem preparados códigos comunitários, a Comissão assegura que estes sejam elaborados e divulgados:\n\na) Por, ou em consulta com, representantes adequados das empresas dos sectores alimentares europeus, incluindo PME, e de outras partes interessadas, tais como associações de consumidores;\n\nb) Em colaboração com partes cujos interesses possam ser substancialmente afectados, incluindo as autoridades competentes;\n\nc) Tendo em conta os códigos de práticas pertinentes do *Codex Alimentarius*;\n\nd) Sempre que digam respeito à produção primária e às operações conexas enumeradas no anexo I, tomando em consideração as recomendações estabelecidas na parte B do anexo I.\n\n3.\n\nO comité a que se refere o artigo 14.º avalia os projectos de códigos comunitários para se assegurar de que:\n\na) Foram elaborados em conformidade com o n.º 2;\n\nb) O seu teor permite que sejam aplicados na prática, em toda a Comunidade, pelos sectores a que se destinam;\n\nc) São adequados enquanto códigos para o cumprimento dos artigos 3.º, 4.º e 5.º nos sectores e para os géneros alimentícios abrangidos.\n\n4. A Comissão convidará o comité a que se refere o artigo 14.º a rever periodicamente quaisquer códigos comunitários preparados em conformidade com o presente artigo, em cooperação com os organismos mencionados no n.º 2.\n\nO objectivo desta revisão é assegurar que os códigos continuam a ser aplicados na prática e a tomar em consideração os desenvolvimentos científicos e tecnológicos.\n\n5. Os títulos e as referências dos códigos comunitários preparados de acordo com o presente artigo serão publicados na série C do *Jornal Oficial da União Europeia*."
+  },
+  "5290d5ece333eacd": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAs medidas transitórias de alcance geral, que têm por objecto alterar elementos não essenciais do presente regulamento, nomeadamente completando-o mediante o aditamento de novos elementos não essenciais, designadamente especificações complementares dos requisitos previstos no presente regulamento, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 14.º.\n\nPodem ser aprovadas outras medidas de execução ou transitórias pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 14.º."
+  },
+  "892f1ede125882e1": {
+   "fragment_id": "Artigo 13.º — Alteração e adaptação dos anexos I e II",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Alteração e adaptação dos anexos I e II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração e adaptação dos anexos I e II\n\n1.\n\n[**►M2**](http://publications.europa.eu/resource/celex/32009R0219) A Comissão pode adaptar ou actualizar as disposições dos anexos I e II, tomando em consideração:**◄**\n\na) A necessidade de rever as recomendações do n.º 2 da parte B do anexo I;\n\nb) A experiência adquirida com a implementação de sistemas baseados no sistema HACCP nos termos do artigo 5.º;\n\nc) O desenvolvimento tecnológico e as suas consequências práticas, bem como as expectativas dos consumidores relativamente à composição dos alimentos;\n\nd) Pareceres científicos, nomeadamente novas avaliações de risco;\n\ne) Os critérios microbiológicos e de temperatura relativos aos géneros alimentícios.\n\nEssas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, nomeadamente completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 14.º.\n\n2. A Comissão pode conceder derrogações ao disposto nos anexos I e II, especialmente para facilitar a aplicação do artigo 5.º às pequenas empresas, tendo em conta os factores de risco relevantes, desde que essas derrogações não afectem a concretização dos objectivos do presente regulamento. Essas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 14.º.\n\n3. Desde que não comprometam a concretização dos objectivos do presente regulamento, os Estados-Membros podem adoptar medidas nacionais para adaptar os requisitos previstos no anexo II, nos termos dos n.º ^s^ 4 a 7 do presente artigo.\n\n4.\n\na) As medidas nacionais a que se refere o n.º 3 devem ter por objectivo:\n\ni) Permitir a continuação da utilização dos métodos tradicionais em qualquer das fases da produção, transformação ou distribuição dos géneros alimentícios;\n\nii) Satisfazer as necessidades das empresas do sector alimentar situadas em regiões sujeitas a condicionalismos geográficos especiais.\n\nb) Noutras circunstâncias, estas medidas nacionais apenas se aplicam à construção, concepção e equipamento dos estabelecimentos.\n\n5.\n\nQualquer Estado-Membro que pretenda adoptar medidas nacionais para adaptar os requisitos estabelecidos no anexo II, tal como referido no n.º 4, notifica do facto a Comissão e os restantes Estados-Membros. Da notificação consta:\n\na) A descrição pormenorizada dos requisitos que o Estado-Membro considere que devem ser adaptados e a natureza da adaptação pretendida;\n\nb) A descrição dos géneros alimentícios e dos estabelecimentos em causa;\n\nc) A explicação das razões da adaptação, incluindo, se relevante, um resumo da análise dos perigos efectuada e quaisquer medidas a tomar para garantir que a adaptação não comprometa os objectivos do presente regulamento;\n\nd) Qualquer outra informação pertinente.\n\n6. Os outros Estados-Membros dispõem do prazo de três meses a contar da recepção da notificação referida no n.º 5 para enviar os seus comentários por escrito à Comissão. No caso das adaptações referidas na alínea b) do n.º 4, o prazo é aumentado para quatro meses a pedido de qualquer Estado-Membro. A Comissão pode consultar os Estados-Membros no âmbito do comité a que se refere o n.º 1 do artigo 14.º, devendo efectuar essa consulta ao receber comentários por escrito de um ou mais Estados-Membros. A Comissão pode decidir, nos termos do n.º 2 do artigo 14.º, se as medidas previstas podem ser postas em prática, se necessário, após as devidas alterações. Se for adequado, a Comissão pode propor medidas de aplicação geral em conformidade com os n.º ^s^ 1 ou 2 do presente artigo.\n\n7.\n\nUm Estado-Membro só pode adoptar medidas nacionais para adaptar os requisitos do anexo II:\n\na) Para dar cumprimento a uma decisão aprovada nos termos do n.º 6;\n\nb) Se, um mês após o termo do prazo referido no n.º 6, a Comissão não tiver informado os Estados-Membros de que recebeu quaisquer comentários por escrito ou de que tenciona propor a aprovação de uma decisão, nos termos do n.º 6."
+  },
+  "729f7e5c87564724": {
+   "fragment_id": "Artigo 14.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Comité\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "646d3e304d858082": {
+   "fragment_id": "Artigo 18.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável 18 meses após a data de entrada em vigor dos seguintes actos:\n\na) Regulamento (CE) n.º 853/2004;\n\nb) Regulamento (CE) n.º 854/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, que estabelece as regras específicas de execução dos controlos oficiais de produtos de origem animal destinados ao consumo humano ([^3^](http://publications.europa.eu/resource/cellar/5d24973d-52c7-4ef2-85dd-f2e10a5549eb.0018.02/DOC_2#E0003));\n\nc) Directiva 2004/41/CE do Parlamento Europeu e do Conselho, de 21 de Abril de 2004, que revoga certas directivas relativas à higiene dos géneros alimentícios e às regras sanitárias aplicáveis à produção e à comercialização de determinados produtos de origem animal destinados ao consumo humano ([^4^](http://publications.europa.eu/resource/cellar/5d24973d-52c7-4ef2-85dd-f2e10a5549eb.0018.02/DOC_2#E0004)).\n\nNo entanto, o presente regulamento não é aplicável antes de 1 de Janeiro de 2006.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "c7e0c6b44dc0beac": {
+   "fragment_id": "I. Âmbito",
+   "type": "divisao",
+   "heading": "I. Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### I. Âmbito\n\n1. O disposto na presente parte aplica-se à produção primária e às seguintes operações conexas:\n\na) Transporte, armazenagem e manuseamento de produtos de produção primária produzidos no local de produção, desde que tal não altere substancialmente a sua natureza;\n\nb) Transporte de animais vivos, sempre que tal seja necessário para alcançar os objectivos do presente regulamento;\n\nc) No caso dos produtos de origem vegetal, dos produtos da pesca e da caça selvagem, operações de transporte para entrega de produtos da produção primária cuja natureza não foi substancialmente alterada, desde o local de produção até ao estabelecimento."
+  },
+  "11387e6a6829bf7d": {
+   "fragment_id": "II. Disposições relativas à higiene",
+   "type": "divisao",
+   "heading": "II. Disposições relativas à higiene",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### II. Disposições relativas à higiene\n\n2. Os operadores das empresas do sector alimentar devem assegurar, tanto quanto possível, que os produtos da produção primária sejam protegidos de contaminações, atendendo a qualquer transformação que esses produtos sofram posteriormente.\n\n3. Não obstante a obrigação geral prevista no ponto anterior, os operadores das empresas do sector alimentar devem respeitar as disposições legislativas, comunitárias e nacionais, aplicáveis ao controlo dos riscos na produção primária e operações conexas, incluindo:\n\na) Medidas para controlar a contaminação pelo ar, pelos solos, pela água, pelos alimentos para animais, pelos fertilizantes, pelos medicamentos veterinários, pelos produtos fitossanitários e biocidas, pela armazenagem, manuseamento e eliminação de resíduos;\n\nb) Medidas ligadas à saúde e ao bem-estar dos animais e à fitossanidade que tenham implicações para a saúde humana, incluindo programas de vigilância e controlo das zoonoses e agentes zoonóticos.\n\n4. Os operadores das empresas do sector alimentar que criem, explorem ou cacem animais, ou produzam produtos da produção primária de origem animal, devem tomar as medidas adequadas a fim de:\n\na) Manter limpas todas as instalações utilizadas na produção primária e operações conexas, incluindo instalações utilizadas na armazenagem e no manuseamento de alimentos para animais e, se necessário, depois de limpas, desinfectá-las devidamente;\n\nb) Manter limpos e, se necessário, depois de limpos, desinfectar devidamente os equipamentos, contentores, grades, veículos e navios;\n\nc) Assegurar, tanto quanto possível, a higiene dos animais que vão ser abatidos e, se necessário, dos animais de rendimento;\n\nd) Utilizar água potável, ou água limpa, sempre que necessário para prevenir qualquer contaminação;\n\ne) Assegurar que o pessoal que vai manusear os géneros alimentícios está de boa saúde e recebe formação em matéria de riscos sanitários;\n\nf) Prevenir, tanto quanto possível, a contaminação causada por animais e parasitas;\n\ng) Manusear os resíduos e as substâncias perigosas de modo a prevenir qualquer contaminação;\n\nh) Evitar a introdução e a propagação de doenças contagiosas transmissíveis ao homem através dos alimentos, incluindo pela tomada de medidas de precaução aquando da introdução de novos animais e dando a conhecer qualquer surto suspeito dessas doenças às autoridades competentes;\n\ni) Ter em conta os resultados de quaisquer análises pertinentes efectuadas em amostras colhidas dos animais ou outras amostras que se possam revestir de importância para a saúde humana;\n\nj) Utilizar correctamente aditivos nos alimentos para animais e medicamentos veterinários, tal como exigido pela legislação pertinente.\n\n5. Os operadores das empresas do sector alimentar que produzam ou colham produtos vegetais devem tomar as medidas adequadas para:\n\na) Manter limpos e, se necessário, depois de limpos, desinfectar devidamente as instalações, equipamentos, contentores, grades, veículos e embarcações;\n\nb) Assegurar, se necessário, a higiene da produção, do transporte e das condições de armazenagem dos produtos vegetais, e biolimpeza desses produtos;\n\nc) Utilizar água potável, ou água limpa, sempre que necessário para prevenir qualquer contaminação;\n\nd) Assegurar que o pessoal que vai manusear os géneros alimentícios está de boa saúde e recebe formação em matéria de riscos sanitários;\n\ne) Prevenir, tanto quanto possível, a contaminação causada por animais e parasitas;\n\nf) Manusear os resíduos e as substâncias perigosas de modo a prevenir qualquer contaminação;\n\ng) Ter em conta os resultados de quaisquer análises pertinentes efectuadas em amostras colhidas das plantas ou outras amostras que se possam revestir de importância para a saúde humana;\n\nh) Utilizar correctamente os produtos fitossanitários e biocidas, tal como exigido pela legislação pertinente.\n\n6. Os operadores das empresas do sector alimentar devem tomar medidas de reparação adequadas quando sejam informados dos problemas identificados durante os controlos oficiais."
+  },
+  "a4301e95d2e57886": {
+   "fragment_id": "III. Manutenção de registos",
+   "type": "divisao",
+   "heading": "III. Manutenção de registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### III. Manutenção de registos\n\n7. Os operadores das empresas do sector alimentar devem manter e conservar registos das medidas tomadas para controlar os riscos de forma adequada e durante um período apropriado, compatível com a natureza e dimensão da empresa do sector alimentar. Os operadores das empresas do sector alimentar devem disponibilizar quaisquer informações relevantes contidas nesses registos à autoridade competente e aos operadores das empresas do sector alimentar receptoras, a seu pedido.\n\n8. Os operadores das empresas do sector alimentar que criem animais ou produzam produtos da produção primária de origem animal devem, em especial, manter registos sobre:\n\na) A natureza e origem dos alimentos com que os animais são alimentados;\n\nb) Os medicamentos veterinários ou outros tratamentos administrados aos animais, data(s) de administração e intervalo(s) de segurança;\n\nc) A ocorrência de doenças que possam afectar a segurança dos produtos de origem animal;\n\nd) Os resultados de quaisquer análises de amostras colhidas dos animais ou de outras amostras para efeitos de diagnóstico que se possam revestir de importância para a saúde humana;\n\ne) Quaisquer relatórios sobre os controlos efectuados nos animais ou nos produtos de origem animal.\n\n9. Os operadores do sector alimentar que produzam ou colham produtos vegetais devem, em especial, manter registos sobre:\n\na) Qualquer utilização de produtos fitossanitários e biocidas;\n\nb) Qualquer ocorrência de parasitas ou doenças que possam afectar a segurança dos produtos de origem vegetal;\n\nc) Os resultados de quaisquer análises pertinentes efectuadas em amostras colhidas das plantas ou outras amostras que se possam revestir de importância para a saúde humana.\n\n10. Os operadores das empresas do sector alimentar podem ser auxiliados por outras pessoas, tais como veterinários, agrónomos e técnicos agrícolas."
+  },
+  "85b4a090c0b723ec": {
+   "fragment_id": "Abastecimento de água",
+   "type": "divisao",
+   "heading": "Abastecimento de água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Abastecimento de água\n\n1.\n\na) Deve ser providenciado um abastecimento adequado de água potável, a qual deve ser utilizada sempre que necessário para garantir a não contaminação dos géneros alimentícios.\n\nb) Pode ser utilizada água limpa nos produtos da pesca inteiros.\n\n2. Quando for utilizada água não potável para, por exemplo, o combate a incêndios, a produção de vapor, a refrigeração ou outros objectivos similares, a água deve circular em sistemas separados, devidamente identificados. A água não potável não poderá ter qualquer ligação com os sistemas de água potável, nem possibilidade de refluxo para esses sistemas.\n\n3. A água reciclada utilizada na transformação, ou como ingrediente, não deve acarretar um risco de contaminação. Deve obedecer aos mesmos padrões que a água potável, a não ser que a autoridade competente tenha garantias de que a qualidade da água não pode afectar a integridade do género alimentício na sua forma final.\n\n4. O gelo que entre em contacto com alimentos ou que possa contaminar os alimentos deve ser fabricado com água potável ou, quando utilizado para refrigerar produtos da pesca inteiros, com água limpa. Esse gelo deve ser fabricado, manuseado e armazenado em condições que o protejam de qualquer contaminação.\n\n5. O vapor utilizado em contacto directo com os alimentos não deve conter substâncias que representem um risco para a saúde ou que possam contaminar os alimentos.\n\n6. Quando o tratamento térmico for aplicado a géneros alimentícios em recipientes hermeticamente fechados, deve assegurar-se que a água utilizada para o arrefecimento dos recipientes após o tratamento térmico não constitui uma fonte de contaminação para o género alimentício."
+  },
+  "1790914a2e06e0ae": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5d24973d-52c7-4ef2-85dd-f2e10a5549eb.0018.02/DOC_2#src.E0001)) JO L 330 de 5.12.1998, p. 32. Regulamento alterado pelo Regulamento (CE) n.º 1882/2003.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5d24973d-52c7-4ef2-85dd-f2e10a5549eb.0018.02/DOC_2#src.E0002)) Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação (JO L 204 de 21.7.1998, p. 37). Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 2003.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5d24973d-52c7-4ef2-85dd-f2e10a5549eb.0018.02/DOC_2#src.E0003)) Ver página 83 do presente Jornal Oficial.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5d24973d-52c7-4ef2-85dd-f2e10a5549eb.0018.02/DOC_2#src.E0004)) JO L 157 de 30.4.2004, p. 33."
+  },
+  "5ad527b1d9b7cd1b": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1.\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Higiene dos géneros alimentícios», a seguir designada por «higiene», as medidas e condições necessárias para controlar os riscos e assegurar que os géneros alimentícios sejam próprios para consumo humano tendo em conta a sua utilização;\n\nb) «Produtos primários»: produtos da produção primária, incluindo os produtos da agricultura, da pecuária, da caça e da pesca;\n\nc) «Estabelecimento», qualquer unidade de uma empresa do sector alimentar;\n\nd) «Autoridade competente», a autoridade central de um Estado-Membro competente para assegurar o respeito dos requisitos do presente regulamento ou qualquer outra autoridade em que essa autoridade central tenha delegado essa competência; inclui, se for caso disso, a autoridade correspondente de um país terceiro;\n\ne) «Equivalente», em relação a diferentes sistemas, capaz de alcançar os mesmos objectivos;\n\nf) «Contaminação», a presença ou introdução de um risco;\n\ng) «Água potável», água que cumpre os requisitos estabelecidos na Directiva 98/83/CE do Conselho, de 3 de Novembro de 1998, para a água destinada ao consumo humano ([^1^](http://publications.europa.eu/resource/cellar/4d28fc3c-ce02-11eb-ac72-01aa75ed71a1.0019.02/DOC_1#E0001));\n\nh) «Água do mar limpa», água do mar ou salobre, natural, artificial ou depurada, que não contenha microrganismos, substâncias nocivas nem plâncton marinho tóxico em quantidades susceptíveis de terem uma incidência directa ou indirecta sobre a qualidade sanitária dos géneros alimentícios;\n\ni) «Água limpa», água do mar limpa e água doce limpa, de qualidade semelhante;\n\nj) «Acondicionamento», colocação de um produto num invólucro inicial ou recipiente inicial em contacto directo com o produto em questão, bem como o próprio invólucro ou recipiente inicial;\n\nk) «Embalagem», colocação de um ou mais géneros alimentícios acondicionados num segundo recipiente, bem como o próprio recipiente;\n\nl) «Recipiente hermeticamente fechado», um recipiente concebido para impedir a entrada de substâncias ou organismos perigosos;\n\nm) «Transformação», acção que assegura uma modificação substancial do produto inicial por aquecimento, fumagem, cura, maturação, secagem, marinagem, extracção, extrusão ou uma combinação destes processos;\n\nn) «Produtos não transformados», géneros alimentícios que não tenham sofrido transformação, incluindo produtos que tenham sido divididos, separados, seccionados, desossados, picados, esfolados, moídos, cortados, limpos, aparados, descascados, triturados, refrigerados, congelados ou ultracongelados;\n\no) «Produtos transformados», géneros alimentícios resultantes da transformação de produtos não transformados. Estes produtos podem conter ingredientes que sejam necessários ao seu fabrico, por forma a dar-lhes características específicas.\n\n2. São aplicáveis igualmente as definições estabelecidas no Regulamento (CE) n.º 178/2002.\n\n3. Nos anexos, as expressões «sempre que necessário», «sempre que adequado»«apropriado» e «suficiente» significam, respectivamente, sempre que necessário, sempre que adequado, apropriado ou suficiente para alcançar os objectivos do presente regulamento."
+  },
+  "09de943187da5165": {
+   "fragment_id": "Artigo 8.º — Códigos nacionais",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Códigos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Códigos nacionais\n\n1.\n\nSempre que forem preparados códigos nacionais de boas práticas, estes são elaborados e divulgados por empresas dos sectores alimentares:\n\na) Consultando representantes de partes cujos interesses possam ser substancialmente afectados, tais como as autoridades competentes e as associações de consumidores;\n\nb) Tendo em conta os códigos de práticas pertinentes do *Codex Alimentarius*;\n\nc) Sempre que digam respeito à produção primária e às operações conexas enumeradas no anexo I, tomando em consideração as recomendações estabelecidas na parte B do anexo I.\n\n2.\n\nOs códigos nacionais podem ser elaborados sob a égide de um dos organismos nacionais de normalização referidos no anexo II da Directiva 98/34/CE ([^2^](http://publications.europa.eu/resource/cellar/4d28fc3c-ce02-11eb-ac72-01aa75ed71a1.0019.02/DOC_1#E0002)).\n\n3.\n\nOs Estados-Membros avaliam os códigos nacionais para se assegurarem de que:\n\na) Foram elaborados em conformidade com o n.º 1;\n\nb) O seu teor permite que sejam aplicados na prática pelos sectores a que se destinam;\n\nc) São adequados enquanto códigos para o cumprimento dos artigos 3.º, 4.º e 5.º nos sectores e para os géneros alimentícios abrangidos.\n\n4. Os Estados-Membros enviam à Comissão os códigos nacionais que estejam em conformidade com os requisitos estabelecidos no n.º 3. A Comissão cria e mantém um sistema de registo desses códigos, que põe à disposição dos Estados-Membros.\n\n5. Os códigos de boas práticas elaborados em conformidade com as disposições da Directiva 93/43/CEE continuam a ser aplicáveis após a entrada em vigor do presente regulamento, desde que sejam compatíveis com os seus objectivos."
+  },
+  "672ee58590c6cc3f": {
+   "fragment_id": "Artigo 18.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável 18 meses após a data de entrada em vigor dos seguintes actos:\n\na) Regulamento (CE) n.º 853/2004;\n\nb) Regulamento (CE) n.º 854/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, que estabelece as regras específicas de execução dos controlos oficiais de produtos de origem animal destinados ao consumo humano ([^3^](http://publications.europa.eu/resource/cellar/4d28fc3c-ce02-11eb-ac72-01aa75ed71a1.0019.02/DOC_1#E0003));\n\nc) Directiva 2004/41/CE do Parlamento Europeu e do Conselho, de 21 de Abril de 2004, que revoga certas directivas relativas à higiene dos géneros alimentícios e às regras sanitárias aplicáveis à produção e à comercialização de determinados produtos de origem animal destinados ao consumo humano ([^4^](http://publications.europa.eu/resource/cellar/4d28fc3c-ce02-11eb-ac72-01aa75ed71a1.0019.02/DOC_1#E0004)).\n\nNo entanto, o presente regulamento não é aplicável antes de 1 de Janeiro de 2006.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "c98f16af11ad8cf0": {
+   "fragment_id": "II. Disposições relativas à higiene",
+   "type": "divisao",
+   "heading": "II. Disposições relativas à higiene",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### II. Disposições relativas à higiene\n\n2. Os operadores das empresas do sector alimentar devem assegurar, tanto quanto possível, que os produtos da produção primária sejam protegidos de contaminações, atendendo a qualquer transformação que esses produtos sofram posteriormente.\n\n3. Não obstante a obrigação geral prevista no ponto anterior, os operadores das empresas do sector alimentar devem respeitar as disposições legislativas, comunitárias e nacionais, aplicáveis ao controlo dos riscos na produção primária e operações conexas, incluindo:\n\na) Medidas para controlar a contaminação pelo ar, pelos solos, pela água, pelos alimentos para animais, pelos fertilizantes, pelos medicamentos veterinários, pelos produtos fitossanitários e biocidas, pela armazenagem, manuseamento e eliminação de resíduos;\n\nb) Medidas ligadas à saúde e ao bem-estar dos animais e à fitossanidade que tenham implicações para a saúde humana, incluindo programas de vigilância e controlo das zoonoses e agentes zoonóticos.\n\n4. Os operadores das empresas do sector alimentar que criem, explorem ou cacem animais, ou produzam produtos da produção primária de origem animal, devem tomar as medidas adequadas a fim de:\n\na) Manter limpas todas as instalações utilizadas na produção primária e operações conexas, incluindo instalações utilizadas na armazenagem e no manuseamento de alimentos para animais e, se necessário, depois de limpas, desinfectá-las devidamente;\n\nb) Manter limpos e, se necessário, depois de limpos, desinfectar devidamente os equipamentos, contentores, grades, veículos e navios;\n\nc) Assegurar, tanto quanto possível, a higiene dos animais que vão ser abatidos e, se necessário, dos animais de rendimento;\n\nd) Utilizar água potável, ou água limpa, sempre que necessário para prevenir qualquer contaminação;\n\ne) Assegurar que o pessoal que vai manusear os géneros alimentícios está de boa saúde e recebe formação em matéria de riscos sanitários;\n\nf) Prevenir, tanto quanto possível, a contaminação causada por animais e parasitas;\n\ng) Manusear os resíduos e as substâncias perigosas de modo a prevenir qualquer contaminação;\n\nh) Evitar a introdução e a propagação de doenças contagiosas transmissíveis ao homem através dos alimentos, incluindo pela tomada de medidas de precaução aquando da introdução de novos animais e dando a conhecer qualquer surto suspeito dessas doenças às autoridades competentes;\n\ni) Ter em conta os resultados de quaisquer análises pertinentes efectuadas em amostras colhidas dos animais ou outras amostras que se possam revestir de importância para a saúde humana;\n\nj) Utilizar correctamente aditivos nos alimentos para animais e medicamentos veterinários, tal como exigido pela legislação pertinente.\n\n5. Os operadores das empresas do sector alimentar que produzam ou colham produtos vegetais devem tomar as medidas adequadas para:\n\na) Manter limpos e, se necessário, depois de limpos, desinfectar devidamente as instalações, equipamentos, contentores, grades, veículos e embarcações;\n\nb) Assegurar, se necessário, a higiene da produção, do transporte e das condições de armazenagem dos produtos vegetais, e biolimpeza desses produtos;\n\nc) Utilizar água potável, ou água limpa, sempre que necessário para prevenir qualquer contaminação;\n\nd) Assegurar que o pessoal que vai manusear os géneros alimentícios está de boa saúde e recebe formação em matéria de riscos sanitários;\n\ne) Prevenir, tanto quanto possível, a contaminação causada por animais e parasitas;\n\nf) Manusear os resíduos e as substâncias perigosas de modo a prevenir qualquer contaminação;\n\ng) Ter em conta os resultados de quaisquer análises pertinentes efectuadas em amostras colhidas das plantas ou outras amostras que se possam revestir de importância para a saúde humana;\n\nh) Utilizar correctamente os produtos fitossanitários e biocidas, tal como exigido pela legislação pertinente.\n\n5-A. Os equipamentos, os veículos e/ou os contentores utilizados para a recolha, o transporte ou a armazenagem de uma das substâncias ou produtos que provocam alergias ou intolerâncias, referidos no anexo II do Regulamento (UE) n.º 1169/2011, não devem ser utilizados para a colheita, o transporte ou a armazenagem de alimentos que não contenham essa substância ou produto, a menos que o equipamento, o veículo e/ou os contentores tenham sido limpos e controlados, pelo menos em relação à ausência de quaisquer detritos visíveis dessa substância ou produto.\n\n6. Os operadores das empresas do sector alimentar devem tomar medidas de reparação adequadas quando sejam informados dos problemas identificados durante os controlos oficiais."
+  },
+  "f13304532e9a69f2": {
+   "fragment_id": "INTRODUÇÃO",
+   "type": "divisao",
+   "heading": "INTRODUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INTRODUÇÃO\n\nOs capítulos V, V-A, VI, VII, VIII, IX, X, XI, XI-A e XII aplicam-se a todas as fases da produção, transformação e distribuição de alimentos. Os restantes capítulos aplicam-se do seguinte modo:\n\n— o capítulo I aplica-se a todas as instalações do setor alimentar, exceto as abrangidas pelo capítulo III,\n\n— o capítulo II aplica-se a todos os locais onde se procede à preparação, tratamento ou transformação dos alimentos, exceto as salas de refeições e as instalações a que se aplica o capítulo III,\n\n— o capítulo III aplica-se às instalações enumeradas no cabeçalho desse capítulo,\n\n— o capítulo IV aplica-se a todos os meios de transporte."
+  },
+  "79813e109ba8156c": {
+   "fragment_id": "CAPÍTULO V-A",
+   "type": "divisao",
+   "heading": "CAPÍTULO V-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V-A"
+  },
+  "beec63caafa0f4f9": {
+   "fragment_id": "Redistribuição de alimentos",
+   "type": "divisao",
+   "heading": "Redistribuição de alimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Redistribuição de alimentos\n\nOs operadores das empresas do setor alimentar podem redistribuir os alimentos para fins de doação, sob reserva das seguintes condições:\n\n1) Os operadores das empresas do setor alimentar devem controlar regularmente se os alimentos sob a sua responsabilidade não são prejudiciais para a saúde e se são próprios para consumo humano em conformidade com o artigo 14.º, n.º 2, do Regulamento (CE) n.º 178/2002 ([^5^](http://publications.europa.eu/resource/cellar/4d28fc3c-ce02-11eb-ac72-01aa75ed71a1.0019.02/DOC_1#E0005)). Se o controlo efetuado for satisfatório, os operadores das empresas do setor alimentar podem redistribuir os alimentos em conformidade com o ponto 2):\n\n— em relação aos alimentos para os quais é aplicada uma data-limite de consumo em conformidade com o artigo 24.º do Regulamento (UE) n.º 1169/2011, antes do termo dessa data,\n\n— em relação aos alimentos para os quais é aplicada uma data de durabilidade mínima em conformidade com o artigo 2.º, n.º 2, alínea r), do Regulamento (UE) n.º 1169/2011, até essa data, ou após essa data, ou\n\n— em relação aos alimentos para os quais não é exigida uma data de durabilidade mínima em conformidade com o anexo X, ponto 1, alínea d), do Regulamento (UE) n.º 1169/2011, em qualquer momento indicado.\n\n2) Os operadores das empresas do setor alimentar que manuseiem alimentos referidos no ponto 1 devem avaliar se os alimentos não são prejudiciais para a saúde e se são próprios para consumo humano, tendo em conta, pelo menos, os seguintes elementos:\n\n— a data de durabilidade mínima ou a data-limite de consumo, garantindo um prazo de validade restante suficiente para permitir a redistribuição e a utilização seguras pelo consumidor final,\n\n— a integridade da embalagem, se aplicável,\n\n— as condições de armazenagem e transporte adequadas, incluindo os requisitos de temperatura aplicáveis,\n\n— a data de congelação em conformidade com o anexo II, secção IV, ponto 2, alínea b), do Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/4d28fc3c-ce02-11eb-ac72-01aa75ed71a1.0019.02/DOC_1#E0006)), se aplicável,\n\n— as condições organoléticas,\n\n— a garantia de rastreabilidade em conformidade com o Regulamento de Execução (UE) n.º 931/2011 da Comissão ([^7^](http://publications.europa.eu/resource/cellar/4d28fc3c-ce02-11eb-ac72-01aa75ed71a1.0019.02/DOC_1#E0007)), no caso de produtos de origem animal."
+  },
+  "715f5d512fadee75": {
+   "fragment_id": "Disposições aplicáveis aos géneros alimentícios",
+   "type": "divisao",
+   "heading": "Disposições aplicáveis aos géneros alimentícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições aplicáveis aos géneros alimentícios\n\n1. Um operador do sector alimentar não deve aceitar matérias-primas nem ingredientes para além de animais vivos, nem quaisquer outras matérias utilizadas para a transformação dos produtos que apresentem ou que se possa razoavelmente esperar que apresentem contaminação por parasitas, microrganismos patogénicos ou substâncias tóxicas, substâncias em decomposição ou substâncias estranhas na medida em que, mesmo depois de ter aplicado higienicamente os processos normais de triagem e/ou preparação ou transformação, o produto final esteja impróprio para consumo humano.\n\n2. As matérias-primas e todos os ingredientes armazenados nas empresas do sector alimentar devem ser conservados em condições adequadas que evitem a sua deterioração e os protejam de qualquer contaminação.\n\n3. Em todas as fases da produção, transformação e distribuição, os alimentos devem ser protegidos de qualquer contaminação que os possa tornar impróprios para consumo humano, perigosos para a saúde ou contaminados de tal forma que não seja razoável esperar que sejam consumidos nesse estado.\n\n4. Devem ser instituídos procedimentos adequados para controlar os parasitas. Devem ser igualmente instituídos procedimentos adequados para prevenir que animais domésticos tenham acesso a locais onde os alimentos são preparados, manuseados ou armazenados (ou, sempre que a autoridade competente o permita em casos especiais, para prevenir que esse acesso possa ser fonte de contaminação).\n\n5. As matérias-primas, os ingredientes e os produtos intermédios e acabados susceptíveis de permitirem a reprodução de microrganismos patogénicos ou a formação de toxinas não devem ser conservados a temperaturas de que possam resultar riscos para a saúde. A cadeia de frio não deve ser interrompida. No entanto, desde que daí não resulte um risco para a saúde, são permitidos períodos limitados sem controlo da temperatura, sempre que tal seja necessário para permitir o manuseamento durante a preparação, o transporte, a armazenagem, a exposição e a apresentação dos alimentos ao consumidor. As empresas do sector alimentar que fabriquem, manuseiem e acondicionem géneros alimentícios transformados devem dispor de salas com dimensões suficientes para a armazenagem separada de matérias-primas e matérias transformadas e de armazenagem refrigerada separada suficiente.\n\n6. Quando se destinarem a ser conservados ou servidos frios, os géneros alimentícios devem ser arrefecidos o mais rapidamente possível após a fase de transformação pelo calor, ou após a fase final de preparação se a transformação pelo calor não for utilizada, até atingirem uma temperatura de que não resultem riscos para a saúde.\n\n7. A descongelação dos géneros alimentícios deve ser efectuada de forma a minimizar o risco de desenvolvimento de microrganismos patogénicos ou a formação de toxinas nos alimentos. Durante a descongelação, os alimentos devem ser submetidos a temperaturas das quais não resulte um risco para a saúde. Os líquidos de escorrimento resultantes da descongelação devem ser adequadamente drenados caso apresentem um risco para a saúde. Depois da descongelação, os alimentos devem ser manuseados de forma a minimizar o risco de desenvolvimento de microrganismos patogénicos ou a formação de toxinas.\n\n8. As substâncias perigosas e/ou não comestíveis, incluindo os alimentos para animais, devem ser adequadamente rotuladas e armazenadas em contentores separados e seguros.\n\n9. Os equipamentos, os veículos e/ou os contentores utilizados para a transformação, o manuseamento, o transporte ou a armazenagem de uma das substâncias ou produtos que provocam alergias ou intolerâncias, referidos no anexo II do Regulamento (UE) n.º 1169/2011, não devem ser utilizados para a transformação, o manuseamento, o transporte ou a armazenagem de alimentos que não contenham essa substância ou produto, a menos que o equipamento, o veículo e/ou os contentores tenham sido limpos e controlados, pelo menos, em relação à ausência de quaisquer detritos visíveis dessa substância ou produto."
+  },
+  "dd2f9a150e4486a4": {
+   "fragment_id": "CAPÍTULO XI-A",
+   "type": "divisao",
+   "heading": "CAPÍTULO XI-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XI-A"
+  },
+  "c97f6a392bc7a483": {
+   "fragment_id": "Cultura de segurança dos alimentos",
+   "type": "divisao",
+   "heading": "Cultura de segurança dos alimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Cultura de segurança dos alimentos\n\n1. Os operadores das empresas do setor alimentar devem estabelecer, manter e apresentar elementos de prova relativos a uma cultura de segurança dos alimentos adequada, cumprindo os seguintes requisitos:\n\na) Compromisso da gerência, em conformidade com o ponto 2, e de todos os trabalhadores no sentido da produção e da distribuição seguras de alimentos;\n\nb) Liderança que conduza à produção de alimentos seguros e ao envolvimento de todos os trabalhadores nas práticas de segurança dos alimentos;\n\nc) Sensibilização de todos os trabalhadores da empresa em relação aos perigos para a segurança dos alimentos e à importância da segurança e higiene dos alimentos;\n\nd) Comunicação aberta e clara entre todos os trabalhadores da empresa durante uma atividade e entre atividades consecutivas, incluindo a comunicação de desvios e expectativas;\n\ne) Disponibilidade de recursos suficientes para garantir o manuseamento seguro e higiénico dos alimentos.\n\n2. O compromisso da gerência consiste em:\n\na) Assegurar que as funções e responsabilidades são claramente comunicadas no âmbito de cada atividade da empresa do setor alimentar;\n\nb) Manter a integridade do sistema de higiene dos alimentos quando são planeadas e implementadas alterações;\n\nc) Verificar se os controlos são realizados em tempo útil e de forma eficiente e se a documentação está atualizada;\n\nd) Assegurar que os trabalhadores recebem formação adequada e são devidamente supervisionados;\n\ne) Garantir a conformidade com os requisitos regulamentares aplicáveis;\n\nf) Incentivar a melhoria contínua do sistema de gestão da empresa relativo à segurança dos alimentos, tomando em consideração, quando aplicável, os progressos em matéria de ciência, tecnologia e melhores práticas.\n\n3. A implementação da cultura de segurança dos alimentos deve ter em conta a natureza e a dimensão da empresa do setor alimentar."
+  },
+  "c84d8b54e786f78d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4d28fc3c-ce02-11eb-ac72-01aa75ed71a1.0019.02/DOC_1#src.E0001)) JO L 330 de 5.12.1998, p. 32. Regulamento alterado pelo Regulamento (CE) n.º 1882/2003.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4d28fc3c-ce02-11eb-ac72-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação (JO L 204 de 21.7.1998, p. 37). Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 2003.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4d28fc3c-ce02-11eb-ac72-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Ver página 83 do presente Jornal Oficial.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4d28fc3c-ce02-11eb-ac72-01aa75ed71a1.0019.02/DOC_1#src.E0004)) JO L 157 de 30.4.2004, p. 33.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/4d28fc3c-ce02-11eb-ac72-01aa75ed71a1.0019.02/DOC_1#src.E0005)) Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios (JO L 31 de 1.2.2002, p. 1).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/4d28fc3c-ce02-11eb-ac72-01aa75ed71a1.0019.02/DOC_1#src.E0006)) Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho, de 29 de abril de 2004, que estabelece regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal (JO L 139 de 30.4.2004, p. 55).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/4d28fc3c-ce02-11eb-ac72-01aa75ed71a1.0019.02/DOC_1#src.E0007)) Regulamento de Execução (UE) n.º 931/2011 da Comissão, de 19 de setembro de 2011, relativo aos requisitos de rastreabilidade estabelecidos pelo Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho para os géneros alimentícios de origem animal (JO L 242 de 20.9.2011, p. 2)."
+  }
+ }
+}

@@ -34,6 +34,74 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: regulamento-ue-1998-2866.versoes.json
+  count: 9
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '1998-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32000R1478:por
+    amending_title: REGULAMENTO (CE) N. o 1478/2000 DO CONSELHO de 19 de Junho de 2000; REGULAMENTO (CE) N. o 1086/2006 DO
+      CONSELHO de 11 de Julho de 2006
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+  - date: '2008-01-01'
+    amending: eu:celex:32007R1135:por
+    amending_title: REGULAMENTO (CE) N. o 1135/2007 DO CONSELHO de 10 de Julho de 2007; REGULAMENTO (CE) N. o 1134/2007 DO
+      CONSELHO de 10 de Julho de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Notas
+  - date: '2009-01-01'
+    amending: eu:celex:32008R0694:por
+    amending_title: REGULAMENTO (CE) N. o 694/2008 DO CONSELHO de 8 de Julho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Notas
+  - date: '2011-01-01'
+    amending: eu:celex:32010R0671:por
+    amending_title: REGULAMENTO (UE) N. o 671/2010 DO CONSELHO de 13 de Julho de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Notas
+  - date: '2014-01-01'
+    amending: eu:celex:32013R0870:por
+    amending_title: REGULAMENTO (UE) N. o 870/2013 DO CONSELHO de 9 de julho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Notas
+  - date: '2015-01-01'
+    amending: eu:celex:32014R0851:por
+    amending_title: REGULAMENTO (UE) N. o 851/2014 DO CONSELHO de 23 de julho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Notas
+  - date: '2023-01-01'
+    amending: eu:celex:32022R1208:por
+    amending_title: REGULAMENTO (UE) 2022/1208 DO CONSELHO de 12 de julho de 2022
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Suprime Notas
+  - date: '2026-01-01'
+    amending: eu:celex:32025R1409:por
+    amending_title: REGULAMENTO (UE) 2025/1409 DO CONSELHO de 8 de julho de 2025
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: 31998R2866
   eli: http://data.europa.eu/eli/reg/1998/2866/oj
@@ -48,7 +116,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/43cd6b36-b6da-4475-8a85-c11c43fc41e6.0011
   content_url: http://publications.europa.eu/resource/cellar/6939a281-e022-11f0-8439-01aa75ed71a1.0012.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998R2866-20260101
-  retrieved_at: '2026-10-22T02:47:11Z'
+  retrieved_at: '2026-10-22T14:47:30Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T14:29:10.930+01:00'
 integrity:
@@ -57,9 +125,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:11Z'
-  notes: Texto consolidado 01998R2866-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:30Z'
+  notes: 9 versão(ões); histórico completo em regulamento-ue-1998-2866.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -166,37 +234,19 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:11Z'
-  warnings: []
+  checked_at: '2026-10-22T14:47:30Z'
+  warnings:
+  - '01998R2866-20010101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) nº 2866/98 do Conselho de 31 de Dezembro de 1998
-
-> 01998R2866 — PT — 01.01.2026 — 009.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32000R1478) — [REGULAMENTO (CE) N.º 1478/2000 DO CONSELHO de 19 de Junho de 2000](http://publications.europa.eu/resource/celex/32000R1478) — L 167 — 1 — 7.7.2000
-- [►M2](http://publications.europa.eu/resource/celex/32006R1086) — [REGULAMENTO (CE) N.º 1086/2006 DO CONSELHO de 11 de Julho de 2006](http://publications.europa.eu/resource/celex/32006R1086) — L 195 — 1 — 15.7.2006
-- [►M3](http://publications.europa.eu/resource/celex/32007R1134) — [REGULAMENTO (CE) N.º 1134/2007 DO CONSELHO de 10 de Julho de 2007](http://publications.europa.eu/resource/celex/32007R1134) — L 256 — 1 — 2.10.2007
-- [►M4](http://publications.europa.eu/resource/celex/32007R1135) — [REGULAMENTO (CE) N.º 1135/2007 DO CONSELHO de 10 de Julho de 2007](http://publications.europa.eu/resource/celex/32007R1135) — L 256 — 2 — 2.10.2007
-- [►M5](http://publications.europa.eu/resource/celex/32008R0694) — [REGULAMENTO (CE) N.º 694/2008 DO CONSELHO de 8 de Julho de 2008](http://publications.europa.eu/resource/celex/32008R0694) — L 195 — 3 — 24.7.2008
-- [►M6](http://publications.europa.eu/resource/celex/32010R0671) — [REGULAMENTO (UE) N.º 671/2010 DO CONSELHO de 13 de Julho de 2010](http://publications.europa.eu/resource/celex/32010R0671) — L 196 — 4 — 28.7.2010
-- [►M7](http://publications.europa.eu/resource/celex/32013R0870) — [REGULAMENTO (UE) N.º 870/2013 DO CONSELHO de 9 de julho de 2013](http://publications.europa.eu/resource/celex/32013R0870) — L 243 — 1 — 12.9.2013
-- [►M8](http://publications.europa.eu/resource/celex/32014R0851) — [REGULAMENTO (UE) N.º 851/2014 DO CONSELHO de 23 de julho de 2014](http://publications.europa.eu/resource/celex/32014R0851) — L 233 — 21 — 6.8.2014
-- [►M9](http://publications.europa.eu/resource/celex/32022R1208) — [REGULAMENTO (UE) 2022/1208 DO CONSELHO de 12 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1208) — L 187 — 18 — 14.7.2022
-- [►M10](http://publications.europa.eu/resource/celex/32025R1409) — [REGULAMENTO (UE) 2025/1409 DO CONSELHO de 8 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1409) — L 1409 — 1 — 14.7.2025
-
-## REGULAMENTO (CE) N.º 2866/98 DO CONSELHO
 
 de 31 de Dezembro de 1998
 

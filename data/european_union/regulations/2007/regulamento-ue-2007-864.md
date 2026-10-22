@@ -36,6 +36,30 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-01-11'
+version_history:
+  file: regulamento-ue-2007-864.versoes.json
+  count: 2
+  source_lastmod: '2009-01-11'
+  versions:
+  - date: '2007-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Concorrência desleal e actos que restrinjam a livre concorrência
+    - Altera Artigo 14.º — Liberdade de escolha
+    - Altera Artigo 30.º — Cláusula de revisão
+    - Altera Artigo 32.º — Data de aplicação
+    - Altera Notas
+    - Adita Artigo 5.º — Responsabilidade pelos produtos
+    - Adita Declaração da Comissão sobre a cláusula de revisão (artigo 30.º)
+    - Adita Declaração da Comissão em matéria de acidentes de viação
+    - Adita Declaração da Comissão sobre o tratamento da lei estrangeira
+    - Suprime Artigo 5.º — Responsabilidade por produtos defeituosos
 identifiers:
   celex: 32007R0864
   eli: http://data.europa.eu/eli/reg/2007/864/oj
@@ -50,7 +74,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0e830168-524b-43dd-b73d-a87d367c14ad.0019
   content_url: http://publications.europa.eu/resource/cellar/2abbc202-21ce-4cac-a842-f4bb3b10a6ba.0006.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0864-20090111
-  retrieved_at: '2026-10-22T03:13:10Z'
+  retrieved_at: '2026-10-22T15:09:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T09:38:26.533+01:00'
 integrity:
@@ -59,9 +83,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:10Z'
-  notes: Texto consolidado 02007R0864-20090111.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:09:18Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2007-864.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -189,29 +213,19 @@ relationships:
   date: '2024-09-05'
 article_structure:
   article_count: 32
-  section_count: 17
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 18
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:10Z'
+  checked_at: '2026-10-22T15:09:18Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 864/2007 do Parlamento Europeu e do Conselho, de 11 de Julho de 2007
-
-> 02007R0864 — PT — 11.01.2009 — 000.004
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32007R0864R%2805%29) — [Rectificação, JO L, 8.11.2023, p. 1 (n.o 864/2007)](http://publications.europa.eu/resource/celex/32007R0864R%2805%29)
-
-## REGULAMENTO (CE) n.º 864/2007 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de Julho de 2007
 

@@ -35,6 +35,64 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-07-17'
+version_history:
+  file: diretiva-ue-2003-98.versoes.json
+  count: 3
+  source_lastmod: '2021-07-17'
+  versions:
+  - date: '2003-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-17'
+    amending: eu:celex:32013L0037:por
+    amending_title: DIRETIVA 2013/37/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 26 de junho
+      de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Princípio geral
+    - Altera Artigo 4.º — Requisitos para o tratamento dos pedidos de reutilização
+    - Altera Artigo 5.º — Formatos disponíveis
+    - Altera Artigo 6.º — Princípios aplicáveis aos emolumentos
+    - Altera Artigo 7.º — Transparência
+    - Altera Artigo 8.º — Licenças
+    - Altera Artigo 9.º — Disposições práticas
+    - Altera Artigo 11.º — Proibição de acordos exclusivos
+    - Altera Artigo 13.º — Exame
+    - Altera Notas
+  - date: '2021-07-17'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Princípio geral
+    - Suprime CAPÍTULO II
+    - Suprime PEDIDOS DE REUTILIZAÇÃO
+    - Suprime Artigo 4.º — Requisitos para o tratamento dos pedidos de reutilização
+    - Suprime CAPÍTULO III
+    - Suprime CONDIÇÕES DE REUTILIZAÇÃO
+    - Suprime Artigo 5.º — Formatos disponíveis
+    - Suprime Artigo 6.º — Princípios aplicáveis aos emolumentos
+    - Suprime Artigo 7.º — Transparência
+    - Suprime Artigo 8.º — Licenças
+    - Suprime Artigo 9.º — Disposições práticas
+    - Suprime CAPÍTULO IV
+    - Suprime NÃO DISCRIMINAÇÃO E CONCORRÊNCIA LEAL
+    - Suprime Artigo 10.º — Não discriminação
+    - Suprime Artigo 11.º — Proibição de acordos exclusivos
+    - Suprime CAPÍTULO V
+    - Suprime DISPOSIÇÕES FINAIS
+    - Suprime Artigo 12.º — Execução
+    - Suprime Artigo 13.º — Exame
+    - Suprime Artigo 14.º — Entrada em vigor
+    - Suprime Artigo 15.º — Destinatários
+    - Suprime Notas
 identifiers:
   celex: 32003L0098
   eli: http://data.europa.eu/eli/dir/2003/98/oj
@@ -49,7 +107,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/350e0397-8df1-4857-986c-7ad8542c8469.0010
   content_url: http://publications.europa.eu/resource/cellar/d15999d8-0660-11ec-b5d3-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0098-20210717
-  retrieved_at: '2026-10-22T02:51:47Z'
+  retrieved_at: '2026-10-22T14:55:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-26T08:34:42.365+01:00'
 integrity:
@@ -58,9 +116,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:47Z'
-  notes: Texto consolidado 02003L0098-20210717.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:18Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2003-98.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -174,16 +232,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:47Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:55:18Z'
+  warnings: []
   errors: []
 ---
 

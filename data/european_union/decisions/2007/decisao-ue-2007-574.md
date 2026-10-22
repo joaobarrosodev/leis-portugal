@@ -36,6 +36,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-03-23'
+version_history:
+  file: decisao-ue-2007-574.versoes.json
+  count: 2
+  source_lastmod: '2013-03-23'
+  versions:
+  - date: '2007-06-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-03-23'
+    amending: eu:celex:32013D0259:por
+    amending_title: DECISÃO N. o 259/2013/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2013
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Adita Artigo 28.º
+    - Adita Artigo 29.º
+    - Adita Artigo 30.º
+    - Adita Artigo 31.º
+    - Adita Artigo 32.º
+    - Adita Artigo 33.º
+    - Adita Artigo 34.º
+    - Adita Artigo 35.º
+    - Adita Artigo 36.º
+    - Adita Artigo 37.º
+    - Adita Artigo 38.º
 identifiers:
   celex: 32007D0574
   eli: http://data.europa.eu/eli/dec/2007/574/oj
@@ -50,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7950cdd3-4faa-4650-af9c-d3bff7dfac7a.0018
   content_url: http://publications.europa.eu/resource/cellar/149ee936-8a5c-42cc-b9f5-0d4840ca5142.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007D0574-20130323
-  retrieved_at: '2026-10-22T02:52:19Z'
+  retrieved_at: '2026-10-22T15:06:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T14:18:50.133+01:00'
 integrity:
@@ -59,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:19Z'
-  notes: Texto consolidado 02007D0574-20130323.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:06:40Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2007-574.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -186,29 +239,19 @@ relationships:
   date: '2014-05-20'
 article_structure:
   article_count: 59
-  section_count: 22
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 23
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:19Z'
+  checked_at: '2026-10-22T15:06:40Z'
   warnings: []
   errors: []
 ---
 
 # Decisão n. o 574/2007/CE do Parlamento Europeu e do Conselho, de 23 de Maio de 2007
-
-> 2007D0574 — PT — 23.03.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013D0259) — [DECISÃO N.º 259/2013/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2013](http://publications.europa.eu/resource/celex/32013D0259) — L 82 — 6 — 22.3.2013
-
-## DECISÃO N.º 574/2007/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de Maio de 2007
 

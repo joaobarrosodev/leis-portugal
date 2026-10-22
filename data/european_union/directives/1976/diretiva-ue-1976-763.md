@@ -34,6 +34,37 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-09-02'
+version_history:
+  file: diretiva-ue-1976-763.versoes.json
+  count: 2
+  source_lastmod: '2010-09-02'
+  versions:
+  - date: '1976-09-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-09-02'
+    amending: eu:celex:31982L0890:por
+    amending_title: DIRECTIVA DO CONSELHO 82/890/CEE de 17 de Dezembro de 1982; DIRECTIVA 97/54/CE DO PARLAMENTO EUROPEU E
+      DO CONSELHO de 23 de Setembro de 1997; M3; DIRECTIVA 2010/52/UE DA COMISSÃO Texto relevante para efeitos do EEE de 11
+      de Agosto de 2010
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita ANEXO
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime ANEXO — I. PRESCRIÇÕES GERAIS DE CONSTRUÇÃO E DE INSTALAÇÃO
 identifiers:
   celex: 31976L0763
   eli: http://data.europa.eu/eli/dir/1976/763/oj
@@ -48,7 +79,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/66000dae-3211-4086-ba73-6c40c3027803.0011
   content_url: http://publications.europa.eu/resource/cellar/b8e946df-864c-41d2-be98-b85ffa6e53bd.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0763-20100902
-  retrieved_at: '2026-10-22T03:02:44Z'
+  retrieved_at: '2026-10-22T14:31:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T08:39:27.510+01:00'
 integrity:
@@ -57,9 +88,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:02:44Z'
-  notes: Texto consolidado 01976L0763-20100902.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:31:49Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1976-763.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -114,32 +145,22 @@ relationships:
   date: '2013-03-01'
 article_structure:
   article_count: 6
-  section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 2
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:02:44Z'
-  warnings: []
+  checked_at: '2026-10-22T14:31:49Z'
+  warnings:
+  - '01976L0763-19821221: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0763-19971030: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0763-19991118: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 76/763/CEE do Conselho, de 27 de Julho de 1976
-
-> 1976L0763 — PT — 02.09.2010 — 004.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/31982L0890) — [DIRECTIVA DO CONSELHO 82/890/CEE de 17 de Dezembro de 1982](http://publications.europa.eu/resource/celex/31982L0890) — L 378 — 45 — 31.12.1982
-- [►M2](http://publications.europa.eu/resource/celex/31997L0054) — [DIRECTIVA 97/54/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de Setembro de 1997](http://publications.europa.eu/resource/celex/31997L0054) — L 277 — 24 — 10.10.1997
-- [M3](http://publications.europa.eu/resource/celex/31999L0086) — [DIRECTIVA 1999/86/CE DO CONSELHO de 11 de Novembro de 1999](http://publications.europa.eu/resource/celex/31999L0086) — L 297 — 22 — 18.11.1999
-- [►M4](http://publications.europa.eu/resource/celex/32010L0052) — [DIRECTIVA 2010/52/UE DA COMISSÃO Texto relevante para efeitos do EEE de 11 de Agosto de 2010](http://publications.europa.eu/resource/celex/32010L0052) — L 213 — 37 — 13.8.2010
-
-## DIRECTIVA DO CONSELHO
 
 de 27 de Julho de 1976
 

@@ -35,6 +35,104 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-12-02'
+version_history:
+  file: decisao-ue-2004-4.versoes.json
+  count: 9
+  source_lastmod: '2011-12-02'
+  versions:
+  - date: '2004-01-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-12-07'
+    amending: eu:celex:32004D0836:por
+    amending_title: DECISÃO DA COMISSÃO de 6 de Dezembro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera ANEXO
+    - Adita Notas
+  - date: '2005-11-29'
+    amending: eu:celex:32005D0840:por
+    amending_title: DECISÃO DA COMISSÃO de 25 de Novembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2006-11-01'
+    amending: eu:celex:32006D0749:por
+    amending_title: DECISÃO DA COMISSÃO de 31 de Outubro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2007-12-18'
+    amending: eu:celex:32007D0842:por
+    amending_title: DECISÃO DA COMISSÃO de 6 de Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2008-11-13'
+    amending: eu:celex:32008D0857:por
+    amending_title: DECISÃO DA COMISSÃO de 10 de Novembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2009-11-17'
+    amending: eu:celex:32009D0839:por
+    amending_title: DECISÃO DA COMISSÃO de 13 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2010-11-26'
+    amending: eu:celex:32010D0714:por
+    amending_title: DECISÃO DA COMISSÃO de 25 de Novembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2011-12-02'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime ANEXO
+    - Suprime Notas
 identifiers:
   celex: 32004D0004
   eli: http://data.europa.eu/eli/dec/2004/4(1)/oj
@@ -49,7 +147,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0da0ab60-c719-481c-a6f5-ea8d06374f3d.0010
   content_url: http://publications.europa.eu/resource/cellar/fdfb878e-82e3-4370-b792-cb4aa1776393.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004D0004-20111202
-  retrieved_at: '2026-10-22T02:39:39Z'
+  retrieved_at: '2026-10-22T14:56:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T11:45:52.741+01:00'
 integrity:
@@ -58,9 +156,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:39Z'
-  notes: Texto consolidado 02004D0004-20111202.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:27Z'
+  notes: 9 versão(ões); histórico completo em decisao-ue-2004-4.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -194,16 +292,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:39Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:56:27Z'
+  warnings: []
   errors: []
 ---
 

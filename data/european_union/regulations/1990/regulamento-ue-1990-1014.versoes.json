@@ -1,0 +1,249 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990R1014:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990R1014-19981010",
+ "dre_path": null,
+ "source_lastmod": "1998-10-10",
+ "versions": [
+  {
+   "date": "1990-04-25",
+   "future": false,
+   "celex": "31990R1014",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70811980da1c8ed8",
+    "d60a71c16982b096",
+    "03d653885046806e",
+    "4c25328d1e4babac",
+    "2ab87ed5438343a3",
+    "474bc766d8522675",
+    "6c0b22e8582c777a",
+    "8220619947b9057e",
+    "e6235038d30fc394"
+   ]
+  },
+  {
+   "date": "1998-10-10",
+   "future": false,
+   "celex": "01990R1014-19981010",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 7.oA",
+    "Adita Artigo 7.oB — [▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991R1781:PT:NOT)",
+    "Adita Artigo 7.oC",
+    "Adita Artigo 8.º",
+    "Adita ANEXO",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º"
+   ],
+   "fragments": [
+    "7253559d61883c61",
+    "a6985f563bc55a25",
+    "fecbcb791f7bd41a",
+    "0786d4a8f9974851",
+    "a84a19dd4f8b14be",
+    "57a58419005d0097",
+    "e7e6853dfaa81974",
+    "7325da7af22a9e93",
+    "0bbf5b6ad8d9eadf",
+    "b89e96f64ad997cc",
+    "d1f1d0f792578b18",
+    "95fe7d29cf3acd51",
+    "ce92e39b316a3a66"
+   ]
+  }
+ ],
+ "fragments": {
+  "70811980da1c8ed8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 1014/90 da Comissão, de 24 de Abril de 1990, que estabelece as normas de aplicação para a definição, designação e apresentação das bebidas espirituosas** *Jornal Oficial nº L 105 de 25/04/1990 p. 0009 - 0010 Edição especial finlandesa: Capítulo 3 Fascículo 32 p. 0133 Edição especial sueca: Capítulo 3 Fascículo 32 p. 0133*\n\n*****\n\nREGULAMENTO (CEE) Nº 1014/90 DA COMISSÃO\n\nde 24 de Abril de 1990\n\nque estabelece as normas de aplicação para a definição, designação e apresentação das bebidas espirituosas\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) nº 1576/89 do Conselho, de 29 de Maio de 1989, que estabelece as regras gerais relativas à definição, à designação e à apresentação das bebidas espirituosas (1), e, nomeadamente, o nº 4, subalínea a) do ponto 1 da alínea f), alínea g), subalínea d) do ponto 1 da alínea i), ponto 2 da alínea i), ponto 1 da alínea l), subalínea b) do ponto 1 da alínea i) e ponto 1 da alínea r), do seu artigo 1º,\n\nConsiderando que é necessário adoptar as normas de aplicação do Regulamento (CEE) nº 1576/89, que se traduzem nas especificações indispensáveis e normas complementares aos princípios definidos no referido regulamento;\n\nConsiderando que na determinação dessas especificações e dessas normas complementares é conveniente, em primeiro lugar, tomar em consideração os critérios seguidos aquando da adopção do Regulamento (CEE) nº 1576/89; que é, além disso, adequado basear-se nas tradições e nos usos das diferentes regiões da Comunidade, na medida compatível com um mercado único; que outro critério deve ser o da preocupação de evitar qualquer possibilidade de confusão nas menções que constam do rótulo, bem como o de garantir ao consumidor uma informação tanto quanto possível clara e completa na rotulagem;\n\nConsiderando que o presente regulamento deve aplicar-se sem prejuízo das disposições transitórias previstas no Regulamento (CEE) nº 3773/89 da Comissão, de 14 de Dezembro de 1989, que estabelece as medidas transitórias relativas às bebidas espirituosas (2);\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Execução para as Bebidas Espirituosas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "d60a71c16982b096": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nEm aplicação do disposto no nº 4, subalínea a) do ponto 1 da alínea f), do artigo 1º do Regulamento (CEE) nº 1576/89, a proporção de borras que podem ser acrescentadas ao bagaço de uva para o fabrico de aguardente de bagaço de uva é de 25 quilogramas de borras, no máximo, por 100 quilogramas de bagaço de uva utilizados. A quantidade de álcool proveniente das borras não deve ser superior a 35 % da quantidade total de álcool no produto acabado."
+  },
+  "03d653885046806e": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nEm aplicação do disposto no nº 4, alínea g), do artigo 1º do Regulamento (CEE) nº 1576/89, a aguardente de bagaço de frutos é a bebida espirituosa obtida exclusivamente por fermentação e destilação, a menos de 86 % vol, de bagaço de frutos, excepto uva. É autorizada a redestilação a esse mesmo título alcoométrico.\n\nO teor mínimo de substâncias voláteis é de 200 gramas por hectolitro de álcool a 100 % vol.\n\nO teor máximo de álcool metílico é de 1 500 gramas por hectolitro de álcool a 100 % vol.\n\nO teor máximo de ácido cianídrico é de 10 gramas por hectolitro de álcool a 100 % vol, quando se tratar de aguardente de bagaço de frutos com caroço.\n\nA denominação de venda destes produtos é « aguardente de bagaço de », seguida do nome do fruto em causa. Se forem utilizados bagaços de vários frutos diferentes, a denominação de venda será « aguardente de bagaço de frutos »."
+  },
+  "4c25328d1e4babac": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nEm aplicação do disposto no nº 4, subalínea d) do ponto 1 da alínea i), do artigo 1º do Regulamento (CEE) nº 1576/89, o nome do fruto pode substituir a denominação « aguardente de » seguida do nome do fruto, apenas no caso dos frutos seguintes:\n\n- mirabela (Prunus domestica L. var syriaca),\n\n- ameixa (Prunus domestica L),\n\n- ameixa quetsch (Prunus domestica L),\n\n- medronho (Arbutus unedo L),\n\n- maçã Golden delicious.\n\nCaso exista o risco de o consumidor final não compreender facilmente uma das referidas denominações, a menção « aguardente » deve constar do rótulo, eventualmente completada por uma explicação."
+  },
+  "2ab87ed5438343a3": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nUma bebida expirituosa referida no nº 4, ponto 2 da alínea i), do artigo 1º do Regulamento (CEE) nº 1576/89 pode ser denominada « aguardente de » seguida do nome do fruto, se a menção suplementar « obtida por maceração e destilação » constar do rótulo.\n\nSão abrangidas pelo disposto no primeiro parágrafo as bebidas espirituosas obtidas a partir dos seguintes frutos:\n\n- amora (Rubus fruticosus L.),\n\n- morango (Fragaria L.),\n\n- mirtilo (Vaccinium myrtillus L.),\n\n- framboesa (Robus idaeus L.),\n\n- groselha (Ribes vulgare Lam.),\n\n- abrunho (Prunus spinosa L.),\n\n- Sorbus (Sorbus domestica L.),\n\n- Sorbus Domestica (Sorbus domestica L.),\n\n- baga de azevinho (ilex cassine L.),\n\n- Sorbus Aria (Sorbus torminalis L.),\n\n- baga de sabugueiro (Sambucus nigra L.),\n\n- rosa canina (Rosa canina L.),\n\n- groselha negra (Ribes nigrum L.)."
+  },
+  "474bc766d8522675": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nEm aplicação do disposto no nº 4, ponto 1 da alínea l), do artigo 1º do Regulamento (CEE) nº 1576/89, a quantidade de frutos utilizada deve ser de 5 quilogramas no mínimo, por 20 litros de álcool a 100 % vol utilizados."
+  },
+  "6c0b22e8582c777a": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. As derrogações referidas no nº 4, subalínea b) do ponto 1 da alínea i), do artigo 1º do Regulamento (CEE) nº 1576/89 dizem respeito ao teor máximo de álcool metílico das aguardentes de frutos, que é aumentado para 1 500 gramas por hectolitro de álcool a 100 % vol quando se trate de aguardentes obtidas por produtores particulares de frutos em destilarias cuja produção total anual de aguardente não seja superior a 500 hectolitros de álcool a 100 % vol e seja proveniente dos seguintes frutos:\n\n- ameixa (Prunus domestica L.),\n\n- mirabela (Prunus domestica L. var. syriaca),\n\n- ameixa quetsch (Prunus domestica L.),\n\n- maçã (Malus domestica Bockh.),\n\n- medronho (Arbutus unedo L.).\n\n2. O nº 1 é igualmente aplicável até 31 de Dezembro de 1992 às aguardentes de pêra (Pyrus lomunis) sem limite de produção anual das destilarias."
+  },
+  "8220619947b9057e": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nEm derrogação do disposto no nº 4, ponto 1 da alínea r), do artigo 1º do Regulamento (CEE) nº 1576/89, o teor mínimo de açúcar de 100 gramas por litro é reduzido para:\n\n- 80 gramas por litro para os licores de genciana produzidos exclusivamente com genciana como única substância aromatizante,\n\n- 70 gramas por litro para os licores de cereja cujo álcool etílico consista, exclusivamente, em aguardentes de cerejas."
+  },
+  "e6235038d30fc394": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nO presente regulamento entra em vigor em 1 de Maio de 1990.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 24 de Abril de 1990.\n\nPela Comissão\n\nRay MAC SHARRY\n\nMembro da Comissão\n\n(1) JO nº L 160 de 12. 6. 1989, p. 1.\n\n(2) JO nº L 365 de 15. 12. 1989, p. 48."
+  },
+  "7253559d61883c61": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1990R1014 — PT — 10.10.1998 — 008.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990R1014:PT:NOT) [REGULAMENTO (CEE) N.o 1014/90 DA COMISSÃO de 24 de Abril de 1990 que estabelece as normas de aplicação para a definição, designação e apresentação das bebidas espirituosas](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990R1014:PT:NOT) (JO L 105, 25.4.1990, p.9)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991R1180:PT:NOT) | [Regulamento (CEE) n.o 1180/91 da Comissão de 6 de Maio de 1991](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991R1180:PT:NOT) | L 115 | 5 | 8.5.1991 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991R1781:PT:NOT) | [Regulamento (CEE) n.o 1781/91 da Comissão de 19 de Junho de 1991](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991R1781:PT:NOT) | L 160 | 5 | 25.6.1991 |\n| [►M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992R3458:PT:NOT) | [Regulamento (CEE) n.o 3458/92 da Comissão de 30 de Novembro de 1992](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992R3458:PT:NOT) | L 350 | 59 | 1.12.1992 |\n| [►M4](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994R2675:PT:NOT) | [Regulamento (CE) n.o 2675/94 da Comissão de 3 de Novembro de 1994](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994R2675:PT:NOT) | L 285 | 5 | 4.11.1994 |\n| [M5](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995R1712:PT:NOT) | [Regulamento (CE) n.o 1712/95 da Comissão de 13 de Julho de 1995](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995R1712:PT:NOT) | L 163 | 4 | 14.7.1995 |\n| [►M6](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995R2626:PT:NOT) | [Regulamento (CE) n.o 2626/95 da Comissão de 10 de Novembro de 1995](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995R2626:PT:NOT) | L 269 | 5 | 11.11.1995 |\n| [►M7](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997R2523:PT:NOT) | [Regulamento (CE) n.o 2523/97 da Comissão de 16 de Dezembro de 1997](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997R2523:PT:NOT) | L 346 | 46 | 17.12.1997 |\n| [►M8](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R2140:PT:NOT) | [Regulamento (CE) n.o 2140/98 da Comissão de 6 de Outubro de 1998](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R2140:PT:NOT) | L 270 | 9 | 7.10.1998 |\n\nRectificado por:\n\n[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991R1781R(01):PT:NOT) [Rectificação, JO L 291, 7.10.1992, p. 22 (1781/91)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991R1781R(01):PT:NOT)\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990R1014:PT:NOT)\n\nREGULAMENTO (CEE) N.o 1014/90 DA COMISSÃO\n\nde 24 de Abril de 1990\n\nque estabelece as normas de aplicação para a definição, designação e apresentação das bebidas espirituosas\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) n.o 1576/89 do Conselho, de 29 de Maio de 1989, que estabelece as regras gerais relativas à definição, à designação e à apresentação das bebidas espirituosas ([1](http://publications.europa.eu/resource/cellar/11b91d10-597f-4461-afe3-26f3072d4707.0018.02/DOC_1#E0001)), e, nomeadamente, o n.o 4, subalínea a) do ponto 1 da alínea f), alínea g), subalínea d) do ponto 1 da alínea i), ponto 2 da alínea i), ponto 1 da alínea l), subalínea b) do ponto 1 da alínea i) e ponto 1 da alínea r), do seu artigo 1.o,\n\nConsiderando que é necessário adoptar as normas de aplicação do Regulamento (CEE) n.o 1576/89, que se traduzem nas especificações indispensáveis e normas complementares aos princípios definidos no referido regulamento;\n\nConsiderando que na determinação dessas especificações e dessas normas complementares é conveniente, em primeiro lugar, tomar em consideração os critérios seguidos aquando da adopção do Regulamento (CEE) n.o 1576/89; que é, além disso, adequado basear-se nas tradições e nos usos das diferentes regiões da Comunidade, na medida compatível com um mercado único; que outro critério deve ser o da preocupação de evitar qualquer possibilidade de confusão nas menções que constam do rótulo, bem como o de garantir ao consumidor uma informação tanto quanto possível clara e completa na rotulagem;\n\nConsiderando que o presente regulamento deve aplicar-se sem prejuízo das disposições transitórias previstas no Regulamento (CEE) n.o 3773/89 da Comissão, de 14 de Dezembro de 1989, que estabelece as medidas transitórias relativas às bebidas espirituosas ([2](http://publications.europa.eu/resource/cellar/11b91d10-597f-4461-afe3-26f3072d4707.0018.02/DOC_1#E0002));\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Execução para as Bebidas Espirituosas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "a6985f563bc55a25": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nEm aplicação do disposto no n.o 4, subalínea a) do ponto 1 da alínea f), do artigo 1.o do Regulamento (CEE) n.o 1576/89, a proporção de borras que podem ser acrescentadas ao bagaço de uva para o fabrico de aguardente de bagaço de uva é de 25 quilogramas de borras, no máximo, por 100 quilogramas de bagaço de uva utilizados. A quantidade de álcool proveniente das borras não deve ser superior a 35 % da quantidade total de álcool no produto acabado."
+  },
+  "fecbcb791f7bd41a": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nEm aplicação do disposto no n.o 4, alínea g), do artigo 1.o do Regulamento (CEE) n.o 1576/89, a aguardente de bagaço de frutos é a bebida espirituosa obtida exclusivamente por fermentação e destilação, a menos de 86 % vol, de bagaço de frutos, excepto uva. É autorizada a redestilação a esse mesmo título alcoométrico.\n\nO teor mínimo de substâncias voláteis é de 200 gramas por hectolitro de álcool a 100 % vol.\n\nO teor máximo de álcool metílico é de 1 500 gramas por hectolitro de álcool a 100 % vol.\n\nO teor máximo de ácido cianídrico é de 10 gramas por hectolitro de álcool a 100 % vol, quando se tratar de aguardente de bagaço de frutos com caroço.\n\nA denominação de venda destes produtos é «aguardente de bagaço de», seguida do nome do fruto em causa. Se forem utilizados bagaços de vários frutos diferentes, a denominação de venda será «aguardente de bagaço de frutos»."
+  },
+  "0786d4a8f9974851": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nEm aplicação do disposto no n.o 4, subalínea d) do ponto 1 da alínea i), do artigo 1.o do Regulamento (CEE) n.o 1576/89, o nome do fruto pode substituir a denominação «aguardente de» seguida do nome do fruto, apenas no caso dos frutos seguintes:\n\n— mirabela (Prunus domestica L. var syriaca),\n\n— ameixa (Prunus domestica L.),\n\n— ameixa quetsch (Prunus domestica L.),\n\n— medronho (Arbutus unedo L.),\n\n— maçã Golden delicious.\n\nCaso exista o risco de o consumidor final não compreender facilmente uma das referidas denominações, a menção «aguardente» deve constar do rótulo, eventualmente completada por uma explicação."
+  },
+  "a84a19dd4f8b14be": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nUma bebida expirituosa referida no n.o 4, ponto 2 da alínea i), do artigo 1.o do Regulamento (CEE) n.o 1576/89 pode ser denominada «aguardente de» seguida do nome do fruto, se a menção suplementar «obtida por maceração e destilação» constar do rótulo.\n\nSão abrangidas pelo disposto no primeiro parágrafo as bebidas espirituosas obtidas a partir dos seguintes frutos:\n\n— amora (Rubus fruticosus L.),\n\n— morango (Fragaria L.),\n\n— mirtilo (Vaccinium myrtillus L.),\n\n— framboesa (Robus idaeus L.),\n\n— groselha (Ribes vulgare Lam.),\n\n— abrunho (Prunus spinosa L.),\n\n— Sorbus (Sorbus domestica L.),\n\n— Sorbus Domestica (Sorbus domestica L.),\n\n— baga de azevinho (ilex cassine L.),\n\n— Sorbus Aria (Sorbus torminalis L.),\n\n— baga de sabugueiro (Sambucus nigra L.),\n\n— rosa canina (Rosa canina L.),\n\n— groselha negra (Ribes nigrum L.).\n\n[▼M4](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994R2675:PT:NOT)\n\nSão abrangidos pelo primeiro parágrafo os produtos elaborados nos territórios e departamentos ultramarinos franceses também obtidos a partir dos frutos seguintes:\n\n— banana (Musa paradisiaca),\n\n— maracujá (Passiflora edulis),\n\n— cajá-manga (Spondias dulcis),\n\n— mombina (Spondias mombin).\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990R1014:PT:NOT)"
+  },
+  "57a58419005d0097": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nEm aplicação do disposto no n.o 4, ponto 1 da alínea l), do artigo 1.o do Regulamento (CEE) n.o 1576/89, a quantidade de frutos utilizada deve ser de 5 quilogramas no mínimo, por 20 litros de álcool a 100 % vol utilizados.\n\n[▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992R3458:PT:NOT)"
+  },
+  "e7e6853dfaa81974": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Nos termos do disposto no n.o 4, alínea b) do ponto 1 da alínea i), do artigo 1.o do Regulamento (CEE) n.o 1576/89, o teor máximo de álcool metílico das aguardentes de frutos é aumentado para 1 500 gramas por hectolitro de álcool a 100 % vol quando se tratar de aguardentes provenientes dos seguintes frutos:\n\n— ameixa (Prunus domestica L.),\n\n— mirabela (Prunus domestica L. var syriaca),\n\n— ameixa quetsch (Prunus domestica L.),\n\n— maçã (Malus domestica Borkh.),\n\n— pêra (Pyrus communis L.).\n\n[▼M6](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995R2626:PT:NOT)\n\n2. O teor máximo de álcool metílico das aguardentes de frutos, relativamente aos frutos referidos no n.o 1, é fixado:\n\n— em 1 350 gramas por hectolitro de álcool a 100 % vol a partir de 1 de Janeiro de 1998,\n\n— e\n\n— em 1 200 gramas por hectolitro de álcool a 100 % vol a partir de 1 de Janeiro de 2000, com excepção do que diz respeito às peras Williams (Pyrus communis Williams).\n\n[▼M6](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995R2626:PT:NOT)\n\n3. Os produtos comunitários e importados referidos no n.o 1, engarrafados, consoante o caso, antes de 1 de Janeiro de 1998 ou antes de 1 de Janeiro de 2000, em conformidade com o disposto relativamente ao teor de metanol em vigor antes destas datas, podem ser possuídos com vista à sua venda, colocados em circulação e exportados até ao esgotamento das existências.\n\n[▼M7](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997R2523:PT:NOT)\n\n4. Em aplicação do disposto no n.o 4, alínea i), ponto 1, subalínea b), do artigo 1.o do Regulamento (CEE) n.o 1576/89 o teor máximo de álcool metílico das aguardentes de groselhas de cachos vermelhos e de cachos negros (Ribes species), de Vogelbeere (Sorbus aucuparia) e de bagas de sabugueiro (Sambucus nigra) é fixado em 1 350 gramas por hectolitro de álcool a 100 % e o teor máximo de álcool metílico das aguardentes de framboesas (Rubus idaeus L.) e de amoras (Rubus fruticosus L.) em 1 200 gramas por hectolitro de álcool a 100 % vol.\n\n5. As aguardentes de frutas referidas no n.o 4, elaboradas na Áustria e detidas no estádio de venda ao consumidor final em 31 de Dezembro de 1997, em conformidade com o disposto no que se refere ao teor de metanol em vigor nessa data na Áustria, podem ser postas em circulação e exportadas até esgotamento das existências\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990R1014:PT:NOT)"
+  },
+  "7325da7af22a9e93": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nEm derrogação do disposto no n.o 4, ponto 1 da alínea r), do artigo 1.o do Regulamento (CEE) n.o 1576/89, o teor mínimo de açúcar de 100 gramas por litro é reduzido para:\n\n— 80 gramas por litro para os licores de genciana produzidos exclusivamente com genciana como única substância aromatizante,\n\n— 70 gramas por litro para os licores de cereja cujo álcool etílico consista, exclusivamente, em aguardentes de cerejas.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991R1180:PT:NOT)"
+  },
+  "0bbf5b6ad8d9eadf": {
+   "fragment_id": "Artigo 7.oA",
+   "type": "artigo",
+   "heading": "Artigo 7.oA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.oA\n\nOs termos que se juntam à denominação de venda referidos no anexo são reservados aos produtos aí definidos.\n\nAs bebidas espirituosas que não correspondam às especificações adoptadas para os produtos definidos no anexo não podem receber as denominações aí enumeradas.\n\n[▼C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:20::NOT)"
+  },
+  "b89e96f64ad997cc": {
+   "fragment_id": "Artigo 7.oB — [▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991R1781:PT:NOT)",
+   "type": "artigo",
+   "heading": "Artigo 7.oB — [▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991R1781:PT:NOT)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.oB — [▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991R1781:PT:NOT)\n\n1. Em aplicação do n.o 1, segundo travessão, do artigo 6.o do Regulamento (CEE) n.o 1576/89, uma denominação genérica que entre na composição de um termo composto só pode ser utilizada na apresentação de uma bebida espirituosa se o álcool desta bebida provier exclusivamente da bebida espirituosa citada no termo composto.\n\n2. Todavia, em função da situação existente aquando da entrada em vigor do presente regulamento, só podem ser utilizados na apresentação dos licores elaborados na Comunidade os seguintes termos compostos:\n\nprune-brandy\n\norange-brandy\n\napricot-brandy\n\ncherry-brandy\n\nsolbaerrom, também denominado blackcurrant rum.\n\n3. No que diz respeito à rotulagem e apresentação dos licores referidos no n.o 2, os termos compostos devem figurar na rotulagem numa mesma linha, com caracteres de tipo, dimensão e cor idênticos, e a denominação «licor» deve figurar na proximidade imediata, com caracteres de dimensão não inferior aos utilizados para os termos compostos.\n\nAlém disso, nestes licores, a rotulagem deve incluir uma referência à natureza do álcool utilizado, caso o álcool não seja proveniente da bebida espirituosa indicada, no mesmo campo visual que as menções referidas no parágrafo anterior. Essa referência será expressa quer através da menção da natureza do álcool agrícola utilizado, quer da menção: «álcool agrícola» sempre antecedida dos termos «fabricado a partir de …» ou «elaborado com recurso a …» ou «à base de …».\n\n[▼M4](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994R2675:PT:NOT)"
+  },
+  "d1f1d0f792578b18": {
+   "fragment_id": "Artigo 7.oC",
+   "type": "artigo",
+   "heading": "Artigo 7.oC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.oC\n\nSempre que uma das bebidas espirituosas enumeradas no artigo 9.o do Regulamento (CEE) n.o 1576/89 seja misturada com:\n\n— uma ou várias bebidas espirituosas definidas ou não no n.o 4 do artigo 1.o do Regulamento (CEE) n.o 1576/89 e/ou\n\n— um ou vários destilados de origem agrícola,\n\na denominação de venda «espirituoso» ou «bebida espirituosa» deve ser utilizada sem outros termos qualificativos na rotulagem, em local patente, de forma bem visível e claramente legível.\n\nO primeiro parágrafo não é aplicável à designação e apresentação do produto resultante de tal mistura, se este corresponder a uma das definições previstas no n.o 4 do artigo 1.o do Regulamento (CEE) n.o 1576/89 e sem prejuízo do disposto no artigo 7.oB.\n\nSem prejuízo das disposições relativas à rotulagem dos ingredientes de bebidas espirituosas ao abrigo da Directiva 79/112/CEE do Conselho ([3](http://publications.europa.eu/resource/cellar/11b91d10-597f-4461-afe3-26f3072d4707.0018.02/DOC_1#E0003)), só pode ser feita referência, na rotulagem e na apresentação dos produtos resultantes das misturas acima referidas, a um dos termos genéricos mencionados no n.o 4 do artigo 1.o do Regulamento (CEE) n.o 1576/89 fora da denominação de venda, mas no mesmo campo visual, numa lista que enumere todos os componentes alcoólicos, seguida, relativamente a cada um deles, da sua parte na mistura e precedida dos termos «espirituoso proveniente de uma mistura». O conjunto deve figurar em caracteres uniformes e do mesmo tipo e cor do dos caracteres da denominação de venda. No entanto, a sua dimensão não pode exceder metade da dos caracteres da denominação de venda.\n\nA parte de cada um dos componentes alcoólicos será igual ao volume de álcool puro que representa no volume total de álcool puro da mistura. É expressa em «% vol», por ordem descrescente das quantidades utilizadas.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990R1014:PT:NOT)"
+  },
+  "95fe7d29cf3acd51": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO presente regulamento entra em vigor em 1 de Maio de 1990.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991R1180:PT:NOT)"
+  },
+  "ce92e39b316a3a66": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1. Vruchtenjenever ou Jenever met vruchten é o licor ou outra bebida espirituosa: — obtida quer por aromatização da «genebra» por frutos ou por plantas e/ou partes de frutos ou de plantas quer por adição de sumo de frutos e/ou de destilados ou destilados de aromas concentrados, extraídos de frutos ou de plantas, — em que a aromatização pode ser completada pela adição de substâncias aromatizantes naturais e/ou idênticas às naturais, — eventualmente edulcorada, — que possui as características organolépticas do fruto em causa, — com um título alcoométrico volúmico mínimo de 20 % de vol. O termo «vruchten» pode ser substituído pelo nome do fruto em causa.\n\n2. Berenburg ou Beerenburg é a bebida espirituosa: — obtida a partir de álcool etílico de origem agrícola, — macerada com frutos ou plantas e/ou partes de frutos ou de plantas, — que contém, como aroma específico, simultaneamente, o destilado de raízes de genciana (Gentiana lutea L.) e de bagas de zimbro (Juniperus communis L.) e de folhas de loureiro (Laurus nobilis L.), — com uma cor que varia do castanho claro ao castanho escuro, — eventualmente edulcorada, no máximo de 20 gramas/litro, expresso em açúcar invertido, — com um título alcoométrico mínimo de 30 % vol.\n\n3. Guignolet: O licor obtido a partir da maceração de cerejas no álcool etílico de origem agrícola.\n\n4. Punch au rhum: O licor cujo teor de álcool resulta da utilização exclusiva de rum.\n\n5. Pastis de Marseille: O tipo de Pastis cujo teor de anetol é de 2 gramas por litro e o título alcoométrico volúmico de 45 % vol.\n\n6. Sloe Gin: O licor obtido a partir da maceração de abrunhos bravos em gin, eventualmente adicionado de sumo de abrunhos bravos: — obtido por aromatização unicamente com substâncias aromatizantes naturais, — com um título alcoométrico volúmico mínimo de 25 % vol.\n\n7. Topinambur: A bebida espirituosa obtida exclusivamente pela fermentação e destilação de tubérculos de tupinambo (Helianthus tuberosus), com um título alcoométrico volúmico mínimo de 38 % vol.\n\n8. Hefebrand: A bebida espirituosa obtida exclusivamente por destilação das borras de vinho ou de borras de frutos fermentados. O título alcoométrico mínimo é de 38 % vol. O termo «Hefebrand» é completado pelo nome da matéria-prima utilizada.\n\n9. Sambuca: O licor incolor aromatizado com anis: — que contém destilados de anis verde (Pimpinella anisum L.) e/ou de anis estrelado (Illicum verum L.) e, eventualmente, de outras ervas aromáticas, — com um título alcoométrico volúmico não inferior a 38 % vol, — com um teor de açúcares não inferior a 350 gramas por litro, expresso em açúcar invertido, — com um teor de anetol natural não inferior a 1 grama por litro e não superior a 2 gramas por litro.\n\n10. Mistrá: A bebida espirituosa incolor, aromatizada com anis ou anetol natural: — com um teor de anetol não inferior a 1 grama por litro e não superior a 2 gramas por litro, — eventualmente adicionada de um destilado de ervas aromáticas, — com um título alcoométrico volúmico não inferiro a 40 % vol e não superior a 47 % vol, — que não contém açúcares adicionados.\n\n11. Maraschino ou Marrasquino: O licor incolor cuja aromatização é obtida, principalmente, através da utilização de destilado de marascas e/ou do destilado ou do produto da maceração de cerejas em álcool e/ou do produto da maceração de uma parte deste fruto no álcool: — com um título alcoométrico mínimo de 24 % vol, — com um teor mínimo de açúcares de 250 gramas por litro, expresso em açúcar invertido.\n\n12. Nocino: O licor cuja aromatização é obtida, principalmente, através da destilação e maceração de miolos de noz inteiros (Juglans regia L.): — com um título alcoométrico mínimo de 30 % vol, — com um teor mínimo de açúcares de 100 gramas por litro, expresso em açúcar invertido.\n\n[▼M8](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R2140:PT:NOT)\n\nBierbrand ou Eau de vie de bière é a bebida espirituosa:\n\n— obtida exclusivamente pela destilação directa da cerveja fresca, até alcançar um grau alcoométrico inferior a 86 % vol, de forma a que o destilado obtido apresente características organolépticas provenientes da cerveja,\n\n— com um título alcoométrico volúmico mínimo de 38 % vol para poder ser distribuído para consumo humano na Comunidade.\n\n([1](http://publications.europa.eu/resource/cellar/11b91d10-597f-4461-afe3-26f3072d4707.0018.02/DOC_1#src.E0001)) JO n.o L 160 de 12. 6. 1989, p. 1.\n\n([2](http://publications.europa.eu/resource/cellar/11b91d10-597f-4461-afe3-26f3072d4707.0018.02/DOC_1#src.E0002)) JO n.o L 365 de 15. 12. 1989, p. 48.\n\n([3](http://publications.europa.eu/resource/cellar/11b91d10-597f-4461-afe3-26f3072d4707.0018.02/DOC_1#src.E0003)) JO n.o L 33 de 8. 2. 1979, p. 1."
+  }
+ }
+}

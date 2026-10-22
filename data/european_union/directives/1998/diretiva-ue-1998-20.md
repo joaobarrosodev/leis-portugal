@@ -35,6 +35,41 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-16'
+version_history:
+  file: diretiva-ue-1998-20.versoes.json
+  count: 3
+  source_lastmod: '2007-01-16'
+  versions:
+  - date: '1998-04-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-04-27'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Alterações
+    - Altera Artigo 2.º — Regimes de sanções
+    - Altera Artigo 5.º — Destinatários
+    - Altera ANEXO
+    - Adita «ANEXO
+    - Adita LISTA DE AVIÕES QUE BENEFICIAM DE UMA ISENÇÃO EM CONFORMIDADE COM O ARTIGO 3.º
+    - Adita Notas
+  - date: '2007-01-16'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Alterações
+    - Suprime Artigo 2.º — Regimes de sanções
+    - Suprime Artigo 3.º — Aplicação
+    - Suprime Artigo 4.º — Entrada em vigor
+    - Suprime Artigo 5.º — Destinatários
+    - Suprime ANEXO
+    - Suprime «ANEXO
+    - Suprime LISTA DE AVIÕES QUE BENEFICIAM DE UMA ISENÇÃO EM CONFORMIDADE COM O ARTIGO 3.º
+    - Suprime Notas
 identifiers:
   celex: 31998L0020
   eli: http://data.europa.eu/eli/dir/1998/20/oj
@@ -49,7 +84,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/00478b0d-bd38-4da0-9c60-03bf4cad99d2.0011
   content_url: http://publications.europa.eu/resource/cellar/1d658169-3535-4256-a0ce-9e10f5fba795.0006.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0020-20070116
-  retrieved_at: '2026-10-22T02:51:02Z'
+  retrieved_at: '2026-10-22T14:46:39Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:23:20.560+02:00'
 integrity:
@@ -58,9 +93,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:02Z'
-  notes: Texto consolidado 01998L0020-20070116.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:39Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1998-20.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -132,16 +167,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:02Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:46:39Z'
+  warnings: []
   errors: []
 ---
 

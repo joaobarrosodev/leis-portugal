@@ -35,6 +35,40 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2002-01-01'
+version_history:
+  file: regulamento-ue-1992-3567.versoes.json
+  count: 2
+  source_lastmod: '2002-01-01'
+  versions:
+  - date: '1992-12-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I Limites individuais — Artigo 1°
+    - Suprime Artigo 2°
+    - Suprime Artigo 3°
+    - Suprime Artigo 4°
+    - Suprime TÍTULO II — Reservas nacionais
+    - Suprime Artigo 5°
+    - Suprime Artigo 6°
+    - Suprime TÍTULO III — Transferência dos direitos e cessões temporárias
+    - Suprime Artigo 7°
+    - Suprime Artigo 8°
+    - Suprime Artigo 9°
+    - Suprime Artigo 10°
+    - Suprime Artigo 11°
+    - Suprime TÍTULO IV — Disposições transitórias e finais
+    - Suprime Artigo 12°
+    - Suprime Artigo 13°
+    - Suprime Artigo 14°
+    - Suprime Artigo 15°
+    - Suprime Artigo 16°
+    - Suprime Artigo 17°
 identifiers:
   celex: 31992R3567
   eli: http://data.europa.eu/eli/reg/1992/3567/oj
@@ -49,7 +83,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/dcf2894f-7ff9-4207-a7d4-25846cd3269c.0011
   content_url: http://publications.europa.eu/resource/cellar/59097e2e-5523-4871-a994-5c2280d20f5c.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R3567-20020101
-  retrieved_at: '2026-10-22T02:55:46Z'
+  retrieved_at: '2026-10-22T14:41:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T14:24:26.143+01:00'
 integrity:
@@ -58,9 +92,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:55:46Z'
-  notes: Texto consolidado 01992R3567-20020101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:42Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1992-3567.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -182,16 +216,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:55:46Z'
+  checked_at: '2026-10-22T14:41:42Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01992R3567-19990104: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R3567-20000712: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

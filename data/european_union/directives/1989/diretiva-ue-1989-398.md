@@ -34,6 +34,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-06-09'
+version_history:
+  file: diretiva-ue-1989-398.versoes.json
+  count: 2
+  source_lastmod: '2009-06-09'
+  versions:
+  - date: '1989-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-06-09'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime anexo II. — Artigo 15º
+    - Suprime Artigo 16º — Os Estados-membros são os destinatários da presente
+    - Suprime ANEXO II TABELA DE CORRESPONDÊNCIA — Directiva 77/94/CEE
+    - Suprime Artigo 1º — ., nº 1
+    - Suprime Artigo 1º — ., nº 2
+    - Suprime Artigo 2º — ., nº 2
+    - Suprime Artigo 1º — ., nº 3
+    - Suprime Artigo 2º — ., nº 1
+    - Suprime Artigo 3º — ., nº 1
+    - Suprime Artigo 2º — ., nº 2, primeiro parágrafo
+    - Suprime Artigo 2º — ., nº 2, segundo parágrafo
+    - Suprime Artigo 2º — ., nº 3
+    - Suprime Artigo 2º — ., nº 4
+    - Suprime Artigo 3º — ., nº 2
+    - Suprime Artigo 4º — ., nº 1
+    - Suprime Artigo 6º — ., nº 1
+    - Suprime Artigo 4º — ., nº 2
+    - Suprime Artigo 4º — ., nº 3
+    - Suprime Artigo 6º — ., nº 2
+    - Suprime Artigo 5º — ., nº 1
+    - Suprime Artigo 7º — ., nº 1
+    - Suprime Artigo 5º — ., nº 2, alínea a)
+    - Suprime Artigo 7º — ., nº 2
+    - Suprime Artigo 5º — ., nº 2, alíneas b) e c)
+    - Suprime Artigo 7º — ., nº 3, alíneas a) e b)
 identifiers:
   celex: 31989L0398
   eli: http://data.europa.eu/eli/dir/1989/398/oj
@@ -48,7 +101,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9efdc24b-805a-40a7-a2bb-450e836dd006.0011
   content_url: http://publications.europa.eu/resource/cellar/36665129-6e1d-4a25-817b-6405b5a3620c.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0398-20090609
-  retrieved_at: '2026-10-22T02:36:20Z'
+  retrieved_at: '2026-10-22T14:35:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T01:50:36.328+01:00'
 integrity:
@@ -57,9 +110,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:20Z'
-  notes: Texto consolidado 01989L0398-20090609.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:35:54Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1989-398.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -231,16 +284,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:20Z'
+  checked_at: '2026-10-22T14:35:54Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01989L0398-19970311: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01989L0398-19990708: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01989L0398-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

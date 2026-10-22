@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31975L0322:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01975L0322-20100101",
+ "dre_path": null,
+ "source_lastmod": "2010-01-01",
+ "versions": [
+  {
+   "date": "2010-01-01",
+   "future": false,
+   "celex": "01975L0322-20100101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f9afd2530c3928f9"
+   ]
+  }
+ ],
+ "fragments": {
+  "f9afd2530c3928f9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1975L0322 — PT — 01.01.2010 — 007.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31975L0322) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31975L0322) [de 20 de Maio de 1975](http://publications.europa.eu/resource/celex/31975L0322) [relativa à supressão das interferências radioeléctricas (compatibilidade electromagnética) produzidas pelos tractores agrícolas ou florestais](http://publications.europa.eu/resource/celex/31975L0322) [(75/322/CEE)](http://publications.europa.eu/resource/celex/31975L0322) (JO L 147, 9.6.1975, p.28)\n\n**revogado por:**\n\n- [Directiva 2009/64/CE do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009L0064) — L 216 — 1 — 20.8.2009"
+  }
+ }
+}

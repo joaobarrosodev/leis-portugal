@@ -34,6 +34,56 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-06-01'
+version_history:
+  file: diretiva-ue-1996-82.versoes.json
+  count: 2
+  source_lastmod: '2015-06-01'
+  versions:
+  - date: '1997-01-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-06-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º — Objecto
+    - Suprime Artigo 2º — Âmbito de aplicação
+    - Suprime Artigo 3º — Definições
+    - Suprime Artigo 4º — Exclusões
+    - Suprime Artigo 5º — Obrigações gerais do operador
+    - Suprime Artigo 6º — Notificação
+    - Suprime Artigo 7º — Política de prevenção dos acidentes graves
+    - Suprime Artigo 8º — Efeito de «dominó»
+    - Suprime Artigo 9º — Relatório de segurança
+    - Suprime Artigo 10º — Alteração de uma instalação, de um estabelecimento ou de um local de armazenagem
+    - Suprime Artigo 11º — Planos de emergência
+    - Suprime Artigo 12º — Controlo da urbanização
+    - Suprime Artigo 13º — Informação sobre as medidas de segurança
+    - Suprime Artigo 14º — Informações a prestar pelo operador após um acidente grave
+    - Suprime Artigo 15º — Informações a prestar pelos Estados-membros à Comissão
+    - Suprime Artigo 16º — Autoridade competente
+    - Suprime Artigo 17º — Proibição de funcionamento
+    - Suprime Artigo 18º — Inspecção
+    - Suprime Artigo 19º — Intercâmbio e sistema de informações
+    - Suprime Artigo 20º — Confidencialidade
+    - Suprime Artigo 21º — Atribuições do comité
+    - Suprime Artigo 22º — Comité
+    - Suprime Artigo 23º — Revogação da Directiva 82/501/CEE
+    - Suprime Artigo 24º — Aplicação
+    - Suprime Artigo 25º — Entrada em vigor
+    - Suprime Artigo 26º
+    - Suprime Anexo I - Aplicação da directiva 24 — Anexo II - Dados e informações mínimas a considerar no relatório de segurança
+      previsto no artigo 9º 29
+    - Suprime ANEXO I — APLICAÇÃO DA DIRECTIVA
+    - Suprime PARTE 1 — Substâncias designadas
+    - Suprime PARTE 2 — Categorias de substâncias e preparações não designadas especificamente na parte 1
+    - Suprime ANEXO II — DADOS E INFORMAÇÕES MÍNIMAS A CONSIDERAR NO RELATÓRIO DE SEGURANÇA PREVISTO NO ARTIGO 9º
+    - Suprime ANEXO III
+    - Suprime ANEXO IV — DADOS E INFORMAÇÕES QUE DEVEM CONSTAR DOS PLANOS DE EMERGÊNCIA PREVISTOS NO ARTIGO 11º
+    - Suprime ANEXO V — INFORMAÇÕES A COMUNICAR AO PÚBLICO EM APLICAÇÃO DO DISPOSTO NO Nº 1 DO ARTIGO 13º
+    - Suprime ANEXO VI — CRITÉRIOS PARA A NOTIFICAÇÃO DE ACIDENTES À COMISSÃO PREVISTA NO Nº 1 DO ARTIGO 15º
 identifiers:
   celex: 31996L0082
   eli: http://data.europa.eu/eli/dir/1996/82/oj
@@ -48,7 +98,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/29981c05-b75d-4799-82d2-be83f9bdb50e.0011
   content_url: http://publications.europa.eu/resource/cellar/625d3d8c-38f7-4e0d-87fc-ac87d340d67b.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0082-20150601
-  retrieved_at: '2026-10-22T02:39:01Z'
+  retrieved_at: '2026-10-22T14:45:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T15:15:07.969+01:00'
 integrity:
@@ -57,9 +107,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:01Z'
-  notes: Texto consolidado 01996L0082-20150601.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:45:27Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1996-82.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -199,16 +249,19 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:01Z'
+  checked_at: '2026-10-22T14:45:27Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01996L0082-19970203: versão indisponível (Sem expressão na língua por para CELEX 01996L0082-19970203.)'
+  - '01996L0082-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996L0082-20031231: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996L0082-20081211: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01996L0082-20120813: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

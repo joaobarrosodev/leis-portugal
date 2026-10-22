@@ -34,6 +34,45 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '1990-12-17'
+version_history:
+  file: regulamento-ue-1986-4055.versoes.json
+  count: 2
+  source_lastmod: '1990-12-17'
+  versions:
+  - date: '1986-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-12-17'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Suprime Artigo 1g.
+    - Suprime Artigo 2g. — Em derrogação do n° 1 do artigo 1g., as restrições nacionais unilaterais existentes antes de 1
+      de Julho de 1986 aplicáveis ao
+    - Suprime Artigo 3g.
+    - Suprime Artigo 4°.
+    - Suprime Artigo 5g.
+    - Suprime Artigo 6g.
+    - Suprime Artigo 7g.
+    - Suprime Artigo 8g.
+    - Suprime Artigo 9g.
+    - Suprime Artigo 10g.
+    - Suprime Artigo 11g.
+    - Suprime Artigo 12g.
 identifiers:
   celex: 31986R4055
   eli: http://data.europa.eu/eli/reg/1986/4055/oj
@@ -48,7 +87,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/61914cd0-b99b-448d-bf2a-7d07bffb205f.0011
   content_url: http://publications.europa.eu/resource/cellar/bfd4b0b2-2f43-4f3f-8200-408c7f8c0172.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01986R4055-19901217
-  retrieved_at: '2026-10-22T02:46:35Z'
+  retrieved_at: '2026-10-22T14:35:01Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-27T16:30:20.110+02:00'
 integrity:
@@ -57,9 +96,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:35Z'
-  notes: Texto consolidado 01986R4055-19901217.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:35:01Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1986-4055.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -207,15 +246,15 @@ relationships:
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:35Z'
+  checked_at: '2026-10-22T14:35:01Z'
   warnings:
-  - Não foi detetado o título principal no XHTML.
+  - '01986R4055-19870101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -35,6 +35,33 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2003-10-28'
+version_history:
+  file: regulamento-ue-1999-1259.versoes.json
+  count: 2
+  source_lastmod: '2003-10-28'
+  versions:
+  - date: '1999-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-10-28'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Pagamento integral
+    - Suprime Artigo 3.º — Exigências de protecção do ambiente
+    - Suprime Artigo 4.º — Modulação
+    - Suprime Artigo 5.º — Disposição comum
+    - Suprime Artigo 6.º — Revisão
+    - Suprime Artigo 7.º — Restrição dos pagamentos
+    - Suprime Artigo 8.º — Avaliação
+    - Suprime Artigo 9.º — Informação da Comissão
+    - Suprime Artigo 10.º — Definições
+    - Suprime Artigo 11.º — Normas de execução
+    - Suprime Artigo 12.º — Entrada am vigor
+    - Suprime ANEXO — LISTA DOS REGIMES DE APOIO QUE PREENCHEM OS CRITÉRIOS FIXADOS NO ARTIGO 1.o
 identifiers:
   celex: 31999R1259
   eli: http://data.europa.eu/eli/reg/1999/1259/oj
@@ -49,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/27d8d034-5718-4d90-8899-9e37a14ecc4d.0009
   content_url: http://publications.europa.eu/resource/cellar/a91ebc77-7e4a-47f1-89cd-500ecf6e1453.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R1259-20031028
-  retrieved_at: '2026-10-22T02:47:16Z'
+  retrieved_at: '2026-10-22T14:48:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T23:21:42.496+01:00'
 integrity:
@@ -58,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:16Z'
-  notes: Texto consolidado 01999R1259-20031028.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:11Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1999-1259.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -134,16 +161,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:16Z'
+  checked_at: '2026-10-22T14:48:11Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01999R1259-20010704: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

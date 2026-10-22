@@ -1,0 +1,716 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997R1466:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R1466-20111213",
+ "dre_path": null,
+ "source_lastmod": "2011-12-13",
+ "versions": [
+  {
+   "date": "1997-08-02",
+   "future": false,
+   "celex": "31997R1466",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e6cc9ae53588741b",
+    "17ae648a138bb020",
+    "323013a52888ab60",
+    "97262654da5daea3",
+    "7b89297bd4207b6f",
+    "b63480f2da9eda65",
+    "546f0bbea910bf96",
+    "8e2b281d90f06eb5",
+    "2cd83654f850de24",
+    "96b486282742edbd",
+    "fe4596b5606e4dac",
+    "fea057ed6e3c0922",
+    "82a5d30dc3518ab7",
+    "2f5dd853843ee7aa",
+    "0e337b6b52efbded",
+    "6e5f3ad7f32bbcd6",
+    "e137468210e83679",
+    "e1340d33e75769da"
+   ]
+  },
+  {
+   "date": "2005-07-27",
+   "future": false,
+   "celex": "01997R1466-20050727",
+   "acts": [
+    {
+     "id": "eu:celex:32005R1055:por",
+     "title": "REGULAMENTO (CE) N. o 1055/2005 DO CONSELHO de 27 de Junho de 2005",
+     "published": null,
+     "celex": "32005R1055"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Adita SECÇÃO 1",
+    "Adita OBJECTO DE DEFINIÇÕES",
+    "Adita SECÇÃO 1A",
+    "Adita OBJECTIVOS ORÇAMENTAIS DE MÉDIO PRAZO",
+    "Adita Artigo 2.ºA",
+    "Adita SECÇÃO 2",
+    "Adita PROGRAMAS DE ESTABILIDADE",
+    "Adita SECÇÃO 3",
+    "Adita PROGRAMAS DE CONVERGÊNCIA",
+    "Adita SECÇÃO 4",
+    "Adita DISPOSIÇÕES COMUNS",
+    "Adita Notas",
+    "Suprime SECÇÃO 1 — OBJECTO DE DEFINIÇÕES",
+    "Suprime SECÇÃO 2 — PROGRAMAS DE ESTABILIDADE",
+    "Suprime SECÇÃO 3 — PROGRAMAS DE CONVERGÊNCIA",
+    "Suprime SECÇÃO 4 — DISPOSIÇÕES COMUNS"
+   ],
+   "fragments": [
+    "2cec8dbaef91d6df",
+    "9b406af514eb9164",
+    "b9cb19439a99595a",
+    "323013a52888ab60",
+    "97262654da5daea3",
+    "5a8a0254dcf50a25",
+    "d7c2275097ab0869",
+    "bf5deb056d8c92ea",
+    "c42c0c2b3cabd519",
+    "3e8ccbfaf86c406e",
+    "e51aae0bdb226f9d",
+    "546f0bbea910bf96",
+    "46e84a7a0b5a3cef",
+    "0639d015d78dd612",
+    "ac8387eef8dd0a6f",
+    "723fee4ec5ed806e",
+    "c6535d14680fe2b1",
+    "fea057ed6e3c0922",
+    "fd8e0b5e6e7435d3",
+    "97fe1450144e6ad0",
+    "2a6934845bb7c573",
+    "3a2293c837b31c16",
+    "3611a793400f4f06",
+    "a2d6732d9b148a59",
+    "cbd92df72e282f4a",
+    "df08f62a8f7e6445"
+   ]
+  },
+  {
+   "date": "2011-12-13",
+   "future": false,
+   "celex": "01997R1466-20111213",
+   "acts": [
+    {
+     "id": "eu:celex:32011R1175:por",
+     "title": "REGULAMENTO (UE) N. o 1175/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Novembro de 2011",
+     "published": null,
+     "celex": "32011R1175"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Notas",
+    "Adita SECÇÃO 1- –A",
+    "Adita SEMESTRE EUROPEU PARA A COORDENAÇÃO DAS POLÍTICAS ECONÓMICAS",
+    "Adita Artigo 2.º- –A",
+    "Adita SECÇÃO 1- –AA",
+    "Adita DIÁLOGO ECONÓMICO",
+    "Adita Artigo 2.º- –AB",
+    "Adita Artigo 2.º-A",
+    "Adita SECÇÃO 3-A",
+    "Adita PRINCÍPIO DA INDEPENDÊNCIA ESTATÍSTICA",
+    "Adita Artigo 10.º-A",
+    "Adita Artigo –11.º",
+    "Adita Artigo 12.º-A",
+    "Suprime Artigo 2.ºA"
+   ],
+   "fragments": [
+    "2cf9f5986d8ea785",
+    "9b406af514eb9164",
+    "b9cb19439a99595a",
+    "d583d3b59ec07352",
+    "992e532f650af293",
+    "540489590b3da3fb",
+    "b4d6dd259a15bcf6",
+    "786f3840c91162d1",
+    "61700d2cb2bf250f",
+    "63471bed4462be35",
+    "2530a775d344d65e",
+    "5a8a0254dcf50a25",
+    "d7c2275097ab0869",
+    "5722fbb4f869f31c",
+    "c42c0c2b3cabd519",
+    "3e8ccbfaf86c406e",
+    "9c4acf49743f4632",
+    "6613b46e1955f1e1",
+    "c506d51446e3ff1b",
+    "9fbf08762c241ddd",
+    "ac8387eef8dd0a6f",
+    "723fee4ec5ed806e",
+    "f1f65bab10699fce",
+    "bfefefc8a462ca54",
+    "2e2050bee55ce615",
+    "c12fcfc71addf998",
+    "d5a63191baf88d69",
+    "a28aad23a712fa11",
+    "13cce7cd59e07c5f",
+    "2a6934845bb7c573",
+    "3a2293c837b31c16",
+    "3a999d292459691c",
+    "2b6f73f99c592dec",
+    "5104a248194e202d",
+    "95fead3851c2db7a",
+    "cbd92df72e282f4a",
+    "81908483e632f8cc"
+   ]
+  }
+ ],
+ "fragments": {
+  "e6cc9ae53588741b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "| 2.8.1997 | PT | Jornal Oficial da União Europeia | L 209/1 |\n| --- | --- | --- | --- |\n\nRegulAMENTO (CE) N.o 1466/97 DO CONSELHO\n\nde 7 de Julho de 1997\n\nrelativo ao reforço da supervisão das situações orçamentais e à supervisão e coordenação das políticas económicas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.o 5 do seu artigo 103.o,\n\nTendo em conta a proposta da Comissão[(1)](http://publications.europa.eu/resource/cellar/509d41f6-5829-4bf9-aa9c-880ddb96cecb.0011.05/DOC_1#ntr1-L_1997209PT.01000101-E0001),\n\nDeliberando nos termos do artigo 189.oC do Tratado[(2)](http://publications.europa.eu/resource/cellar/509d41f6-5829-4bf9-aa9c-880ddb96cecb.0011.05/DOC_1#ntr2-L_1997209PT.01000101-E0002),\n\n(1) Considerando que o Pacto de Estabilidade e Crescimento se baseia no objectivo de manter finanças públicas sãs como meio de reforçar as condições propícias à estabilidade dos preços e a um forte crescimento sustentável conducente à criação de emprego;\n\n(2) Considerando que o Pacto de Estabilidade e Crescimento compreende o presente regulamento, que se destina a reforçar a supervisão das situações orçamentais e a supervisão e coordenação das políticas económicas, o Regulamento (CE) n.o 1467/97 do Conselho[(3)](http://publications.europa.eu/resource/cellar/509d41f6-5829-4bf9-aa9c-880ddb96cecb.0011.05/DOC_1#ntr3-L_1997209PT.01000101-E0003), que se destina a acelerar e a clarificar a aplicação do procedimento relativo aos défices excessivos, e a Resolução do Conselho Europeu, de 17 de Junho de 1997, sobre o Pacto de Estabilidade e Crescimento[(4)](http://publications.europa.eu/resource/cellar/509d41f6-5829-4bf9-aa9c-880ddb96cecb.0011.05/DOC_1#ntr4-L_1997209PT.01000101-E0004), em que, nos termos do artigo D do Tratado da União Europeia, foram estabelecidas directrizes políticas firmes tendo em vista uma aplicação rigorosa e atempada do Pacto de Estabilidade e Crescimento e nomeadamente a adesão ao objectivo de médio prazo que visa alcançar situações orçamentais próximas do equilíbrio ou excedentárias e com o qual todos os Estados-membros se comprometeram e a adopção das medidas orçamentais correctivas que os mesmos Estados considerem necessárias para cumprir os objectivos dos seus programas de estabilidade e convergência sempre que tenham informações que indiciem um desvio significativo, observado ou previsível, em relação aos objectivos orçamentais de médio prazo;\n\n(3) Considerando que na terceira fase da União Económica e Monetária (UEM), o artigo 104.oC do Tratado vincula claramente os Estados-membros a evitarem défices orçamentais excessivos; que, nos termos do artigo 5.o do Protocolo n.o 11 do Tratado relativo a certas disposições relacionadas com o Reino Unido da Grã-Bretanha e da Irlanda do Norte, o n.o l do artigo 104.oC não é aplicável ao Reino Unido a não ser que este passe para a terceira fase; que a obrigação prevista no n.o 4 do artigo 109.oE de envidar esforços para evitar défices excessivos continuará a ser aplicável ao Reino Unido;\n\n(4) Considerando que a adesão ao objectivo de médio prazo de manter situações orçamentais próximas do equilíbrio ou excedentárias permitirá aos Estados-membros gerir as flutuações cíclicas normais mantendo ao mesmo tempo o défice orçamental dentro do valor de referência de 3 % do PIB;\n\n(5) Considerando que é conveniente complementar o procedimento de supervisão multilateral revisto nos n.os 3 e 4 do artigo 103.o com um sistema de alerta rápido, nos termos do qual o Conselho alertará rapidamente um Estado-membro para a necessidade de tomar as medidas orçamentais correctivas para evitar que um défice orçamental se torne excessivo;\n\n(6) Considerando que o procedimento de supervisão multilateral previsto nos n.os 3 e 4 do artigo 103.o deverá além disso continuar a acompanhar todos os aspectos da evolução económica em cada Estado-membro e na Comunidade bem como a compatibilidade das políticas económicas com as orientações económicas gerais a que se refere o n.o 2 do artigo 103.o; que, para o acompanhamento dessa evolução, é conveniente que as informações sejam apresentadas sob a forma de programas de estabilidade e convergência;\n\n(7) Considerando que é necessário partir da útil experiência adquirida durante as duas primeiras fases da União Económica e Monetária com a aplicação dos programas de convergência;\n\n(8) Considerando que os Estados-membros que adoptarem a moeda única, adiante designados «Estados-membros participantes», serão aqueles que, nos termos do artigo 109.oJ, tiverem atingido um elevado grau de convergência sustentável e, em especial, uma situação sustentável em matéria de finanças públicas; que nesses Estados-membros será necessário preservar situações orçamentais sólidas para assegurar a estabilidade dos preços e reforçar as condições propícias ao crescimento sustentado da produção e do emprego; que é necessário que os Estados-membros, participantes apresentem programas de médio prazo, adiante designados «programas de estabilidade»; que é necessário definir os principais elementos desses programas;\n\n(9) Considerando que os Estados-membros que não adoptarem a moeda única, adiante designados «Estados-membros não participantes», terão que prosseguir políticas orientadas para um grau mais elevado de convergência sustentada; que é necessário que os Estados-membros não participantes apresentem programas de médio prazo, adiante designados «programas de convergência», que é necessário definir os principais elementos desses programas;\n\n(10) Considerando que, na sua resolução de 16 de Junho de 1997 sobre a criação de um mecanismo de taxas de câmbio na terceira fase da União Económica e Monetária, o Conselho Europeu emitiu directrizes políticas firmes segundo as quais é estabelecido um mecanismo de taxa de câmbio na terceira fase da UEM, adiante designado MTC2; que as moedas dos Estados-membros não participantes que adiram ao MTC2 terão uma taxa central em relação ao euro, propiciando assim um ponto de referência para avaliar a adequação das suas políticas; que o MTC2 também contribuirá para proteger estes últimos Estados-membros e os Estados-membros participantes de pressões injustificadas nos mercados cambiais; que, para permitir uma supervisão apropriada pelo Conselho, os Estados-membros não participantes que não adiram ao MTC2 deverão em todo o caso apresentar, nos respectivos programas de convergência, políticas orientadas para a estabilidade, evitando assim distorções das taxas de câmbio reais e flutuações excessivas das taxas de câmbio nominais;\n\n(11) Considerando que a convergência duradoura dos dados económicos de base é um requisito prévio para a estabilidade sustentável das taxas de câmbio;\n\n(12) Considerando que é necessário fixar um calendário para a apresentação dos programas de estabilidade e dos programas de convergência, bem como das respectivas actualizações;\n\n(13) Considerando que, no interesse da transparência e de um debate público esclarecido, é necessário que os Estados-membros divulguem os seus programas de estabilidade e de convergência;\n\n(14) Considerando que, na análise e acompanhamento dos programas de estabilidade e em particular do seu objectivo orçamental de médio prazo ou da trajectória de ajustamento programada para esse objectivo, o Conselho deverá ter em conta as pertinentes características cíclicas e estruturais da economia de cada Estado-membro;\n\n(15) Considerando que neste contexto se deverá prestar especial atenção aos desvios significativos das situações orçamentais em relação ao objectivo de manter os orçamentos próximos do equilíbrio ou excedentários; que é conveniente um alerta rápido do Conselho para evitar que o défice orçamental de um Estado-membro se torne excessivo; que, em caso de derrapagem orçamental persistente, será conveniente que o Conselho reforce a sua recomendação e a torne pública; que o Conselho pode fazer recomendações aos Estados-membros não participantes sobre as medidas a tomar para cumprirem os seus programas de convergência;\n\n(16) Considerando que os programas de convergência e estabilidade conduzem ao cumprimento das condições de convergência económica referidas no artigo 104.oC do Tratado,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "17ae648a138bb020": {
+   "fragment_id": "SECÇÃO 1 — OBJECTO DE DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "SECÇÃO 1 — OBJECTO DE DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 1 — OBJECTO DE DEFINIÇÕES"
+  },
+  "323013a52888ab60": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece as normas que regulam o conteúdo, a apresentação, o exame e o acompanhamento dos programas de estabilidade e dos programas de convergência, no âmbito da supervisão multilateral a exercer pelo Conselho para evitar, numa fase precoce, a ocorrência de défices orçamentais excessivos e promover a supervisão e coordenação das políticas económicas."
+  },
+  "97262654da5daea3": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento, entende-se por «Estados-membros participantes», os Estados-membros que adoptarem a moeda única nos termos do Tratado e por «Estados-membros não participantes», os Estados--membros que a não adoptarem."
+  },
+  "7b89297bd4207b6f": {
+   "fragment_id": "SECÇÃO 2 — PROGRAMAS DE ESTABILIDADE",
+   "type": "divisao",
+   "heading": "SECÇÃO 2 — PROGRAMAS DE ESTABILIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 2 — PROGRAMAS DE ESTABILIDADE"
+  },
+  "b63480f2da9eda65": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Cada um dos Estados-membros participantes apresentará ao Conselho e à Comissão as informações necessárias ao exercício da supervisão multilateral regular prevista no artigo 103.o do Tratado, sob a forma de um «programa de estabilidade» que proporcione uma base essencial para a estabilidade dos preços e um crescimento sustentável forte que conduza à criação de emprego.\n\nO programa de estabilidade incluirá as seguintes informações:\n\na) O objectivo a médio prazo de uma situação orçamental próxima do equilíbrio ou excedentária e uma trajectória de ajustamento que conduza ao objectivo fixado para o excedente/défice orçamental e a evolução prevista do rácio da dívida pública;\n\nb) As principais hipóteses relativas à evolução previsível da economia e de outras importantes variáveis económicas susceptíveis de influenciar a realização do programa de estabilidade, nomeadamente a despesa com o investimento público, o crescimento do PIB em termos reais, o emprego e a inflação;\n\nc) Uma descrição das medidas orçamentais e de outras medidas de política económica adoptadas e/ou propostas para a realização dos objectivos do programa e, no caso das principais medidas orçamentais, uma avaliação dos seus efeitos quantitativos no orçamento;\n\nd) Uma análise das implicações das alterações das principais hipóteses económicas sobre a situação orçamental e de endividamento.\n\n3. As informações relativas à trajectória da evolução do rácio do excedente/défice orçamental e do rácio da dívida pública, bem como as principais hipóteses de natureza económica a que se referem as alíneas a) e b) do n.o 2, serão estabelecidas numa base anual e abrangerão, para além do ano em curso e do ano precedente, pelo menos os três anos seguintes."
+  },
+  "546f0bbea910bf96": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os programas de estabilidade serão apresentados antes de l de Março de 1999. Após essa data, serão apresentados anualmente programas actualizados. Um Estado-membro que adopte a moeda única numa fase posterior deverá apresentar um programa de estabilidade no prazo de seis meses a contar da data da decisão do Conselho relativa à sua participação na moeda única.\n\n2. Os Estados-membros tornarão públicos os seus programas de estabilidade e os respectivos programas actualizados."
+  },
+  "8e2b281d90f06eb5": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Com base em avaliações efectuadas pela Comissão e pelo comité previsto no artigo 109.oC do Tratado, o Conselho examinará, no quadro da supervisão multilateral prevista no artigo 103.o, se o objectivo orçamental a médio prazo fixado no programa de estabilidade oferece uma margem de segurança para garantir a prevenção de um défice excessivo, se as hipóteses de natureza económica em que o programa se baseia são realistas e se as medidas tomadas e/ou propostas são suficientes para completar a trajectória de ajustamento programada a fim de alcançar o objectivo orçamental a médio prazo.\n\nO Conselho examinará ainda se o conteúdo do programa de estabilidade promove uma coordenação mais estreita das políticas económicas e se as políticas económicas do Estado-membro em causa são compatíveis com as orientações gerais de política económica.\n\n2. O Conselho procederá ao exame do programa de estabilidade referido no n.o 1, o mais tardar no prazo de dois meses a contar da data da sua apresentação. O Conselho, deliberando sob recomendação da Comissão e após consulta ao comité previsto no artigo 109.oC, emitirá um parecer sobre o programa. Se, nos termos do artigo 103.o, considerar que os objectivos e o conteúdo de um programa devem ser reforçados, o Conselho convidará, no seu parecer, o Estado-membro em causa a ajustar o respectivo programa.\n\n3. Os programas de estabilidade actualizados serão examinados pelo comité previsto no artigo 109.oC, com base em avaliações da Comissão; se necessário, os programas actualizados podem igualmente ser examinados pelo Conselho, nos termos dos n.os l e 2 do presente artigo."
+  },
+  "2cd83654f850de24": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. No âmbito da supervisão multilateral prevista no n.o 3 do artigo 103.o, o Conselho acompanhará a aplicação dos programas de estabilidade com base nas informações fornecidas pêlos Estados-membros participantes e nas avaliações da Comissão e do comité previsto no artigo 109.oC, nomeadamente com o objectivo de identificar qualquer desvio significativo, efectivo ou previsível, da situação orçamental em relação ao objectivo a médio prazo, ou em relação à respectiva trajectória de ajustamento, tal como previsto no programa relativo ao excedente/défice orçamental.\n\n2. Se identificar um desvio significativo da situação orçamental em relação ao objectivo orçamental de médio prazo, ou em relação à respectiva trajectória de ajustamento, o Conselho, a fim de lançar um alerta rápido para evitar a ocorrência de um défice excessivo, apresentará, nos termos do n.o 4 do artigo 103.o, urna recomendação ao Estado-membro em causa para que esse tome as medidas de ajustamento necessárias.\n\n3. Se, posteriormente, na sua actividade de acompanhamento, o Conselho considerar que persiste ou se agravou o desvio da situação orçamental em relação ao objectivo orçamental de médio prazo, ou em relação à respectiva trajectória de ajustamento, o Conselho apresentará então, nos termos do n.o 4 do artigo 103.o, uma recomendação ao Estado-membro em causa para que este tome imediatamente medidas correctivas, podendo, nos termos daquele artigo, tornar pública a sua recomendação."
+  },
+  "96b486282742edbd": {
+   "fragment_id": "SECÇÃO 3 — PROGRAMAS DE CONVERGÊNCIA",
+   "type": "divisao",
+   "heading": "SECÇÃO 3 — PROGRAMAS DE CONVERGÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 3 — PROGRAMAS DE CONVERGÊNCIA"
+  },
+  "fe4596b5606e4dac": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Cada um dos Estados-membros não participantes apresentará ao Conselho e à Comissão as informações necessárias ao exercício da supervisão multilateral regular prevista no artigo 103.o do Tratado, sob a forma de um «programa de convergência» que proporcione uma base essencial para a estabilidade dos preços e um crescimento sustentável forte que conduza à criação de emprego.\n\n2. O programa de convergência incluirá as seguintes informações, em especial no que se refere às variáveis relacionadas com os critérios de convergência:\n\na) O objectivo a médio prazo de uma situação orçamental próxima do equilíbrio ou excedentária e uma trajectória de ajustamento que conduza ao objectivo fixado para o excedente/défice orçamental; a evolução prevista do rácio da dívida pública; os objectivos da política monetária a médio prazo; a relação entre esses objectivos e a estabilidade dos preços e da taxa de câmbio;\n\nb) As principais hipóteses relativas à evolução previsível da economia e de outras importantes variáveis económicas susceptíveis de influenciar a realização do programa de convergência, nomeadamente a despesa com o investimento público, o crescimento do PIB em termos reais, o emprego e a inflação;\n\nc) Uma descrição das medidas orçamentais e de outras medidas de política económica adoptadas e/ou propostas para a realização dos objectivos do programa e, no caso das principais medidas orçamentais, uma avaliação dos seus efeitos quantitativos no orçamento;\n\nd) Uma análise das implicações das alterações das principais hipóteses económicas sobre a situação orçamental e de endividamento.\n\n3. As informações relativas à trajectória da evolução do rácio do excedente/défice orçamental e do rácio da dívida pública, bem como as principais hipóteses de natureza económica a que se referem as alíneas a) e b) do n.o 2, serão estabelecidas numa base anual e abrangerão, para além do ano em curso e do ano precedente, pelo menos os três anos seguintes."
+  },
+  "fea057ed6e3c0922": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os programas de convergência serão apresentados antes de l de Março de 1999. Após essa data, serão apresentados anualmente programas actualizados.\n\n2. Os Estados-membros tornarão públicos os seus programas de convergência e os respectivos programas actualizados."
+  },
+  "82a5d30dc3518ab7": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Com base em avaliações efectuadas pela Comissão e pelo comité previsto no artigo 109.oC do Tratado, o Conselho examinará, no quadro da supervisão multilateral prevista no artigo 103.o, se o objectivo orçamental a médio prazo fixado no programa de convergência oferece uma margem de segurança para garantir a prevenção de um défice excessivo, se as hipóteses de natureza económica em que o programa se baseia são realistas e se as medidas tomadas e/ou propostas são suficientes para completar a trajectória de ajustamento programada a fim de alcançar o objectivo orçamental a médio prazo e uma convergência sustentada.\n\nO Conselho examinará ainda se o conteúdo do programa de convergência promove uma coordenação mais estreita das políticas económicas e se as políticas económicas do Estado-membro em causa são compatíveis com as orientações gerais de política económica.\n\n2. O Conselho procederá ao exame do programa de convergência referido no n.o 1, o mais tardar no prazo de dois meses a contar da data da sua apresentação. O Conselho, deliberando sob recomendação da Comissão e após consulta ao comité previsto no artigo 109.oC, emitirá um parecer sobre o programa. Se, nos termos do artigo 103.o, considerar que os objectivos e o conteúdo de um programa devem ser reforçados, o Conselho convidará, no seu parecer, o Estado-membro em causa a ajustar o respectivo programa.\n\n3. Os programas de convergência actualizados serão examinados pelo comité previsto no artigo 109.oC com base em avaliações da Comissão; se necessário, os programas actualizados podem igualmente ser examinados pelo Conselho, nos termos dos n.os 1 e 2 do presente artigo."
+  },
+  "2f5dd853843ee7aa": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. No âmbito da supervisão multilateral prevista no n.o 3 do artigo 103.o, o Conselho acompanhará a aplicação dos programas de convergência com base nas informações fornecidas pêlos Estados-membros não participantes nos termos do n.o 2, alínea a), do artigo 7.o do presente regulamento e nas avaliações da Comissão e do comité previsto no artigo 109.oC, nomeadamente com o objectivo de identificar qualquer desvio significativo, efectivo ou previsível, da situação orçamental em relação ao objectivo a médio prazo, ou em relação à respectiva trajectória de ajustamento, tal como previsto no programa relativo ao excedente/défice orçamental.\n\nAlém disso, o Conselho acompanhará as políticas económicas dos Estados-membros não participantes em função dos objectivos do programa de convergência, a fim de garantir que as suas políticas estejam orientadas para a estabilidade e de evitar, assim, distorções das taxas de câmbio reais e excessivas flutuações das taxas de câmbio nominais.\n\n2. Se identificar um desvio significativo da situação orçamental em relação ao objectivo orçamental de médio prazo, ou em relação à respectiva trajectória de ajustamento, o Conselho, a fim de lançar um alerta rápido para evitar a ocorrência de um défice excessivo apresentará, nos termos do n.o 4 do artigo 103.o, uma recomendação ao Estado-membro em causa para que este tome as medidas de ajustamento necessárias.\n\n3. Se, posteriormente, na sua actividade de acompanhamento, o Conselho considerar que persiste ou se agravou o desvio da situação orçamental em relação ao objectivo orçamental de médio prazo, ou em relação à respectiva trajectória de ajustamento, o Conselho apresentará então, nos termos do n.o 4 do artigo 103.o, uma recomendação ao Estado-membro em causa para que este tome imediatamente medidas correctivas, podendo, nos termos daquele artigo, tornar pública a sua recomendação."
+  },
+  "0e337b6b52efbded": {
+   "fragment_id": "SECÇÃO 4 — DISPOSIÇÕES COMUNS",
+   "type": "divisao",
+   "heading": "SECÇÃO 4 — DISPOSIÇÕES COMUNS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 4 — DISPOSIÇÕES COMUNS"
+  },
+  "6e5f3ad7f32bbcd6": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO Conselho procederá à avaliação global prevista no n.o 3 do artigo 103.o do Tratado, no âmbito da supervisão multilateral prevista no presente regulamento."
+  },
+  "e137468210e83679": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO presidente do Conselho e a Comissão incluirão nos seus relatórios para o Parlamento Europeu, nos termos do n.o 4, segundo parágrafo, do artigo 103.o, os resultados da supervisão multilateral realizada no âmbito do presente regulamento."
+  },
+  "e1340d33e75769da": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO presente regulamento entra em vigor em l de Julho de 1998.\n\nO presidente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 7 de Julho de 1997.\n\nPelo Conselho\n\nO Presidente\n\nJ.-C. JUNCKER\n\n[(1)](http://publications.europa.eu/resource/cellar/509d41f6-5829-4bf9-aa9c-880ddb96cecb.0011.05/DOC_1#ntc1-L_1997209PT.01000101-E0001) [JO n.o C 368 de 6. 12. 1996, p. 9.](http://publications.europa.eu/resource/oj/JOC_1996_368_R_TOC)\n\n[(2)](http://publications.europa.eu/resource/cellar/509d41f6-5829-4bf9-aa9c-880ddb96cecb.0011.05/DOC_1#ntc2-L_1997209PT.01000101-E0002) Parecer do Parlamento Europeu de 28 de Novembro de 1996 ([JO n.o C 380 de 16. 12. 1996, p. 28](http://publications.europa.eu/resource/oj/JOC_1996_380_R_TOC)), posição comum do Conselho de 14 de Abril de 1997 ([JO n.o C 146 de 30. 5. 1997, p. 26](http://publications.europa.eu/resource/oj/JOC_1997_146_R_TOC)) e decisão do Parlamento Europeu de 29 de Maio de 1997 ([JO n.o C 182 de 16. 6. 1997](http://publications.europa.eu/resource/oj/JOC_1997_182_R_TOC)).\n\n[(3)](http://publications.europa.eu/resource/cellar/509d41f6-5829-4bf9-aa9c-880ddb96cecb.0011.05/DOC_1#ntc3-L_1997209PT.01000101-E0003) Ver página 6 do presente Jornal Oficial.\n\n[(4)](http://publications.europa.eu/resource/cellar/509d41f6-5829-4bf9-aa9c-880ddb96cecb.0011.05/DOC_1#ntc4-L_1997209PT.01000101-E0004) [JO n.o C 236 de 2. 8. 1997, p. 1.](http://publications.europa.eu/resource/oj/JOC_1997_236_R_TOC)"
+  },
+  "2cec8dbaef91d6df": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Julho de 1997\n\nrelativo ao reforço da supervisão das situações orçamentais e à supervisão e coordenação das políticas económicas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 5 do seu artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 99**◄**.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/7eb33380-cdc5-40df-bcf8-98125dbc2b7b.0018.03/DOC_1#E0001)),\n\nDeliberando nos termos do artigo 189.ºC do Tratado ([^2^](http://publications.europa.eu/resource/cellar/7eb33380-cdc5-40df-bcf8-98125dbc2b7b.0018.03/DOC_1#E0002)),\n\n(1) Considerando que o Pacto de Estabilidade e Crescimento se baseia no objectivo de manter finanças públicas sãs como meio de reforçar as condições propícias à estabilidade dos preços e a um forte crescimento sustentável conducente à criação de emprego;\n\n(2) Considerando que o Pacto de Estabilidade e Crescimento compreende o presente regulamento, que se destina a reforçar a supervisão das situações orçamentais e a supervisão e coordenação das políticas económicas, o Regulamento (CE) n.º 1467/97 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/7eb33380-cdc5-40df-bcf8-98125dbc2b7b.0018.03/DOC_1#E0003)), que se destina a acelerar e a clarificar a aplicação do procedimento relativo aos défices excessivos, e a Resolução do Conselho Europeu, de 17 de Junho de 1997, sobre o Pacto de Estabilidade e Crescimento ([^4^](http://publications.europa.eu/resource/cellar/7eb33380-cdc5-40df-bcf8-98125dbc2b7b.0018.03/DOC_1#E0004)), em que, nos termos do artigo D do Tratado da União Europeia, foram estabelecidas directrizes políticas firmes tendo em vista uma aplicação rigorosa e atempada do Pacto de Estabilidade e Crescimento e nomeadamente a adesão ao objectivo de médio prazo que visa alcançar situações orçamentais próximas do equilíbrio ou excedentárias e com o qual todos os Estados-membros se comprometeram e a adopção das medidas orçamentais correctivas que os mesmos Estados considerem necessárias para cumprir os objectivos dos seus programas de estabilidade e convergência sempre que tenham informações que indiciem um desvio significativo, observado ou previsível, em relação aos objectivos orçamentais de médio prazo;\n\n(3) Considerando que na terceira fase da União Económica e Monetária (UEM), o artigo 104.ºC do Tratado vincula claramente os Estados-membros a evitarem défices orçamentais excessivos; que, nos termos do artigo 5.º do Protocolo n.º 11 do Tratado relativo a certas disposições relacionadas com o Reino Unido da Grã-Bretanha e da Irlanda do Norte, o n.º l do artigo 104.ºC não é aplicável ao Reino Unido a não ser que este passe para a terceira fase; que a obrigação prevista no n.º 4 do artigo 109.ºE de envidar esforços para evitar défices excessivos continuará a ser aplicável ao Reino Unido;\n\n(4) Considerando que a adesão ao objectivo de médio prazo de manter situações orçamentais próximas do equilíbrio ou excedentárias permitirá aos Estados-membros gerir as flutuações cíclicas normais mantendo ao mesmo tempo o défice orçamental dentro do valor de referência de 3 % do PIB;\n\n(5) Considerando que é conveniente complementar o procedimento de supervisão multilateral revisto nos n.^os^ 3 e 4 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 99.º **◄** com um sistema de alerta rápido, nos termos do qual o Conselho alertará rapidamente um Estado-membro para a necessidade de tomar as medidas orçamentais correctivas para evitar que um défice orçamental se torne excessivo;\n\n(6) Considerando que o procedimento de supervisão multilateral previsto nos n.^os^ 3 e 4 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 99.º **◄** deverá além disso continuar a acompanhar todos os aspectos da evolução económica em cada Estado-membro e na Comunidade bem como a compatibilidade das políticas económicas com as orientações económicas gerais a que se refere o n.º 2 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 99.º **◄**; que, para o acompanhamento dessa evolução, é conveniente que as informações sejam apresentadas sob a forma de programas de estabilidade e convergência;\n\n(7) Considerando que é necessário partir da útil experiência adquirida durante as duas primeiras fases da União Económica e Monetária com a aplicação dos programas de convergência;\n\n(8) Considerando que os Estados-membros que adoptarem a moeda única, adiante designados «Estados-membros participantes», serão aqueles que, nos termos do artigo 109.ºJ, tiverem atingido um elevado grau de convergência sustentável e, em especial, uma situação sustentável em matéria de finanças públicas; que nesses Estados-membros será necessário preservar situações orçamentais sólidas para assegurar a estabilidade dos preços e reforçar as condições propícias ao crescimento sustentado da produção e do emprego; que é necessário que os Estados-membros, participantes apresentem programas de médio prazo, adiante designados «programas de estabilidade»; que é necessário definir os principais elementos desses programas;\n\n(9) Considerando que os Estados-membros que não adoptarem a moeda única, adiante designados «Estados-membros não participantes», terão que prosseguir políticas orientadas para um grau mais elevado de convergência sustentada; que é necessário que os Estados-membros não participantes apresentem programas de médio prazo, adiante designados «programas de convergência», que é necessário definir os principais elementos desses programas;\n\n(10) Considerando que, na sua resolução de 16 de Junho de 1997 sobre a criação de um mecanismo de taxas de câmbio na terceira fase da União Económica e Monetária, o Conselho Europeu emitiu directrizes políticas firmes segundo as quais é estabelecido um mecanismo de taxa de câmbio na terceira fase da UEM, adiante designado MTC2; que as moedas dos Estados-membros não participantes que adiram ao MTC2 terão uma taxa central em relação ao euro, propiciando assim um ponto de referência para avaliar a adequação das suas políticas; que o MTC2 também contribuirá para proteger estes últimos Estados-membros e os Estados-membros participantes de pressões injustificadas nos mercados cambiais; que, para permitir uma supervisão apropriada pelo Conselho, os Estados-membros não participantes que não adiram ao MTC2 deverão em todo o caso apresentar, nos respectivos programas de convergência, políticas orientadas para a estabilidade, evitando assim distorções das taxas de câmbio reais e flutuações excessivas das taxas de câmbio nominais;\n\n(11) Considerando que a convergência duradoura dos dados económicos de base é um requisito prévio para a estabilidade sustentável das taxas de câmbio;\n\n(12) Considerando que é necessário fixar um calendário para a apresentação dos programas de estabilidade e dos programas de convergência, bem como das respectivas actualizações;\n\n(13) Considerando que, no interesse da transparência e de um debate público esclarecido, é necessário que os Estados-membros divulguem os seus programas de estabilidade e de convergência;\n\n(14) Considerando que, na análise e acompanhamento dos programas de estabilidade e em particular do seu objectivo orçamental de médio prazo ou da trajectória de ajustamento programada para esse objectivo, o Conselho deverá ter em conta as pertinentes características cíclicas e estruturais da economia de cada Estado-membro;\n\n(15) Considerando que neste contexto se deverá prestar especial atenção aos desvios significativos das situações orçamentais em relação ao objectivo de manter os orçamentos próximos do equilíbrio ou excedentários; que é conveniente um alerta rápido do Conselho para evitar que o défice orçamental de um Estado-membro se torne excessivo; que, em caso de derrapagem orçamental persistente, será conveniente que o Conselho reforce a sua recomendação e a torne pública; que o Conselho pode fazer recomendações aos Estados-membros não participantes sobre as medidas a tomar para cumprirem os seus programas de convergência;\n\n(16) Considerando que os programas de convergência e estabilidade conduzem ao cumprimento das condições de convergência económica referidas no artigo 104.ºC do Tratado,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "b9cb19439a99595a": {
+   "fragment_id": "OBJECTO DE DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "OBJECTO DE DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTO DE DEFINIÇÕES"
+  },
+  "5a8a0254dcf50a25": {
+   "fragment_id": "SECÇÃO 1A",
+   "type": "divisao",
+   "heading": "SECÇÃO 1A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1A"
+  },
+  "d7c2275097ab0869": {
+   "fragment_id": "OBJECTIVOS ORÇAMENTAIS DE MÉDIO PRAZO",
+   "type": "divisao",
+   "heading": "OBJECTIVOS ORÇAMENTAIS DE MÉDIO PRAZO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTIVOS ORÇAMENTAIS DE MÉDIO PRAZO"
+  },
+  "bf5deb056d8c92ea": {
+   "fragment_id": "Artigo 2.ºA",
+   "type": "artigo",
+   "heading": "Artigo 2.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.ºA\n\nCada um dos Estados-Membros terá um objectivo de médio prazo diferenciado para a sua situação orçamental. Estes objectivos orçamentais de médio prazo, específicos de cada país, poderão divergir da exigência de uma situação orçamental próxima do equilíbrio ou excedentária. Tais objectivos facultarão uma margem de segurança em relação ao rácio de 3 % do PIB do défice orçamental. Permitirão progredir rapidamente na via da sustentabilidade orçamental e, tendo em conta este aspecto, proporcionarão uma margem de manobra orçamental, em especial para atender às necessidades de investimento público.\n\nTomando estes factores em consideração, para os Estados-Membros que adoptaram o euro e para os Estados-Membros do MTC2 será especificado um intervalo de variação definido para os objectivos de médio prazo específicos de cada país entre – 1 % do PIB e uma situação de equilíbrio ou excedentária, em termos corrigidos de variações cíclicas e líquidos de medidas pontuais e temporárias.\n\nOs objectivos orçamentais de médio prazo de um Estado-Membro poderão ser revistos sempre que seja implementada uma reforma estrutural importante e, de qualquer forma, de quatro em quatro anos."
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "3e8ccbfaf86c406e": {
+   "fragment_id": "PROGRAMAS DE ESTABILIDADE",
+   "type": "divisao",
+   "heading": "PROGRAMAS DE ESTABILIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROGRAMAS DE ESTABILIDADE"
+  },
+  "e51aae0bdb226f9d": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Cada um dos Estados-membros participantes apresentará ao Conselho e à Comissão as informações necessárias ao exercício da supervisão multilateral regular prevista no artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 99.º **◄** do Tratado, sob a forma de um «programa de estabilidade» que proporcione uma base essencial para a estabilidade dos preços e um crescimento sustentável forte que conduza à criação de emprego.\n\nO programa de estabilidade incluirá as seguintes informações:\n\n(a) The medium-term budgetary objective and the adjustment path towards this objective for the general government surplus/deficit and the expected path of the general government debt ratio;\n\na) O objectivo orçamental de médio prazo e uma trajectória de ajustamento que conduza ao objectivo fixado para o excedente/défice orçamental e a evolução prevista do rácio da dívida pública;\n\nc) Uma avaliação quantitativa pormenorizada das medidas orçamentais e de outras medidas de política económica aplicadas e/ou propostas para a realização dos objectivos do programa, incluindo uma análise custo-benefício pormenorizada das reformas estruturais importantes aplicadas que induzam economias directas a longo prazo, inclusive através do reforço do crescimento potencial;\n\nd) Uma análise das implicações das alterações das principais hipóteses económicas sobre a situação orçamental e de endividamento;\n\ne) Sendo o caso, as razões para o desvio em relação à trajectória de ajustamento ao objectivo de médio prazo.\n\n3. As informações relativas à trajectória da evolução do rácio do excedente/défice orçamental e do rácio da dívida pública, bem como as principais hipóteses de natureza económica a que se referem as alíneas a) e b) do n.º 2, serão estabelecidas numa base anual e abrangerão, para além do ano em curso e do ano precedente, pelo menos os três anos seguintes."
+  },
+  "46e84a7a0b5a3cef": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Com base em avaliações efectuadas pela Comissão e pelo comité instituído pelo artigo 114.º do Tratado, o Conselho examinará, no quadro da supervisão multilateral prevista no artigo 99.º do Tratado, o objectivo orçamental de médio prazo apresentado pelo Estado-Membro e apreciará se as hipóteses de natureza económica em que o programa se baseia são realistas, se a trajectória de ajustamento ao objectivo de médio prazo prevista no programa é adequada e se as medidas tomadas e/ou propostas são suficientes para respeitar essa trajectória de ajustamento a fim de alcançar o objectivo orçamental de médio prazo durante o ciclo.\n\nAo apreciar a trajectória de ajustamento para alcançar o objectivo orçamental de médio prazo, o Conselho analisará se o Estado-Membro em causa prossegue a melhoria anual do seu saldo, em termos corrigidos de variações cíclicas e líquidos de medidas pontuais ou temporárias, para alcançar o seu objectivo orçamental de médio prazo, tendo 0,5 % do PIB como valor de referência. O Conselho tomará em consideração se os esforços de ajustamento são maiores em períodos de conjuntura económica favorável, podendo ser mais limitados em períodos desfavoráveis.\n\nAo definir a trajectória de ajustamento ao objectivo orçamental de médio prazo no que se refere aos países que ainda não alcançaram este objectivo e, no que se refere aos países que já o alcançaram, ao autorizar um desvio temporário em relação ao objectivo, na condição de ser garantida uma margem de segurança para assegurar a observância do valor de referência para o défice e de a situação orçamental regressar ao objectivo de médio prazo dentro do período do programa, o Conselho tomará em conta as reformas estruturais importantes aplicadas que induzam economias directas a longo prazo, inclusive através do reforço do crescimento potencial, e que tenham assim um impacto verificável na sustentabilidade a longo prazo das finanças públicas.\n\nDeve ser dada especial atenção às reformas dos sistemas de pensões, com a introdução de um sistema em vários pilares que inclua um pilar obrigatório de capitalização integral. Os Estados-Membros que implementem tais reformas serão autorizados a desviar-se da trajectória de ajustamento ao objectivo orçamental de médio prazo, ou do próprio objectivo, devendo o desvio reflectir os custos líquidos da reforma para o pilar do sistema de pensões de gestão pública, desde que esse desvio seja temporário e que seja preservada uma margem de segurança adequada relativamente ao valor de referência do défice.\n\nO Conselho examinará ainda se o conteúdo do programa de estabilidade promove uma coordenação mais estreita das políticas económicas e se as políticas económicas do Estado-membro em causa são compatíveis com as orientações gerais de política económica.\n\n2. O Conselho procederá ao exame do programa de estabilidade referido no n.º 1, o mais tardar no prazo de [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) três meses**◄** a contar da data da sua apresentação. O Conselho, deliberando sob recomendação da Comissão e após consulta ao comité previsto no artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 114.º **◄**, emitirá um parecer sobre o programa. Se, nos termos do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 99.º **◄**, considerar que os objectivos e o conteúdo de um programa devem ser reforçados, o Conselho convidará, no seu parecer, o Estado-membro em causa a ajustar o respectivo programa.\n\n3. Os programas de estabilidade actualizados serão examinados pelo comité previsto no artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 114.º **◄**, com base em avaliações da Comissão; se necessário, os programas actualizados podem igualmente ser examinados pelo Conselho, nos termos dos n.^os^ l e 2 do presente artigo."
+  },
+  "0639d015d78dd612": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. No âmbito da supervisão multilateral prevista no n.º 3 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 99.º **◄**, o Conselho acompanhará a aplicação dos programas de estabilidade com base nas informações fornecidas pêlos Estados-membros participantes e nas avaliações da Comissão e do comité previsto no artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 114º **◄**, nomeadamente com o objectivo de identificar qualquer desvio significativo, efectivo ou previsível, da situação orçamental em relação ao objectivo a médio prazo, ou em relação à respectiva trajectória de ajustamento, tal como previsto no programa relativo ao excedente/défice orçamental.\n\n2. Se identificar um desvio significativo da situação orçamental em relação ao objectivo orçamental de médio prazo, ou em relação à respectiva trajectória de ajustamento, o Conselho, a fim de lançar um alerta rápido para evitar a ocorrência de um défice excessivo, apresentará, nos termos do n.º 4 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 99.º **◄**, urna recomendação ao Estado-membro em causa para que esse tome as medidas de ajustamento necessárias.\n\n3. Se, posteriormente, na sua actividade de acompanhamento, o Conselho considerar que persiste ou se agravou o desvio da situação orçamental em relação ao objectivo orçamental de médio prazo, ou em relação à respectiva trajectória de ajustamento, o Conselho apresentará então, nos termos do n.º 4 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 99.º **◄**, uma recomendação ao Estado-membro em causa para que este tome imediatamente medidas correctivas, podendo, nos termos daquele artigo, tornar pública a sua recomendação."
+  },
+  "ac8387eef8dd0a6f": {
+   "fragment_id": "SECÇÃO 3",
+   "type": "divisao",
+   "heading": "SECÇÃO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 3"
+  },
+  "723fee4ec5ed806e": {
+   "fragment_id": "PROGRAMAS DE CONVERGÊNCIA",
+   "type": "divisao",
+   "heading": "PROGRAMAS DE CONVERGÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROGRAMAS DE CONVERGÊNCIA"
+  },
+  "c6535d14680fe2b1": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Cada um dos Estados-membros não participantes apresentará ao Conselho e à Comissão as informações necessárias ao exercício da supervisão multilateral regular prevista no artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 99.º **◄** do Tratado, sob a forma de um «programa de convergência» que proporcione uma base essencial para a estabilidade dos preços e um crescimento sustentável forte que conduza à criação de emprego.\n\n2. O programa de convergência incluirá as seguintes informações, em especial no que se refere às variáveis relacionadas com os critérios de convergência:\n\na) O objectivo orçamental de médio prazo e uma trajectória de ajustamento que conduza ao objectivo fixado para o excedente/défice orçamental; os objectivos da política monetária a médio prazo; a relação entre esses objectivos e a estabilidade dos preços e da taxa de câmbio;\n\nb) As principais hipóteses relativas à evolução previsível da economia e de outras importantes variáveis económicas susceptíveis de influenciar a realização do programa de convergência, nomeadamente a despesa com o investimento público, o crescimento do PIB em termos reais, o emprego e a inflação;\n\nc) Uma avaliação quantitativa pormenorizada das medidas orçamentais e de outras medidas de política económica aplicadas e/ou propostas para a realização dos objectivos do programa, incluindo uma análise custo-benefício pormenorizada das reformas estruturais importantes aplicadas que induzam economias directas a longo prazo, inclusive através do reforço do crescimento potencial;\n\nd) Uma análise das implicações das alterações das principais hipóteses económicas sobre a situação orçamental e de endividamento;\n\ne) Sendo o caso, as razões para o desvio em relação à trajectória de ajustamento ao objectivo de médio prazo.\n\n3. As informações relativas à trajectória da evolução do rácio do excedente/défice orçamental e do rácio da dívida pública, bem como as principais hipóteses de natureza económica a que se referem as alíneas a) e b) do n.º 2, serão estabelecidas numa base anual e abrangerão, para além do ano em curso e do ano precedente, pelo menos os três anos seguintes."
+  },
+  "fd8e0b5e6e7435d3": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Com base em avaliações efectuadas pela Comissão e pelo comité instituído pelo artigo 114.º do Tratado, o Conselho examinará, no quadro da supervisão multilateral prevista no artigo 99.º do Tratado, o objectivo orçamental de médio prazo apresentado pelo Estado-Membro e apreciará se as hipóteses de natureza económica em que o programa se baseia são realistas, se a trajectória de ajustamento ao objectivo orçamental de médio prazo prevista no programa é adequada e se as medidas tomadas e/ou propostas são suficientes para respeitar essa trajectória de ajustamento a fim de alcançar o objectivo orçamental de médio prazo durante o ciclo.\n\nAo apreciar a trajectória de ajustamento para alcançar o objectivo orçamental de médio prazo, o Conselho tomará em consideração se os esforços são maiores em períodos de conjuntura económica favorável, podendo ser mais limitados em períodos desfavoráveis. No que se refere aos Estados-Membros do MTC2, o Conselho analisará se o Estado-Membro em causa prossegue a melhoria anual do seu saldo em termos corrigidos de variações cíclicas e líquidos de medidas pontuais ou temporárias, para alcançar o seu objectivo orçamental de médio prazo, tendo 0,5 % do PIB como valor de referência.\n\nAo definir a trajectória de ajustamento ao objectivo orçamental de médio prazo no que se refere aos países que ainda não alcançaram este objectivo e, no que se refere aos países que já o alcançaram, ao autorizar um desvio temporário em relação ao objectivo, na condição de ser garantida uma margem de segurança para assegurar a observância do valor de referência para o défice e de a situação orçamental regressar ao objectivo de médio prazo dentro do período do programa, o Conselho tomará em conta as reformas estruturais importantes aplicadas que induzam directamente economias a longo prazo, inclusive através do reforço do crescimento potencial, e que tenham assim um impacto verificável na sustentabilidade a longo prazo das finanças públicas.\n\nDeve ser dada especial atenção às reformas dos sistemas de pensões, com a introdução de um sistema em vários pilares que inclua um pilar obrigatório de capitalização integral. Os Estados-Membros que implementem tais reformas serão autorizados a desviar-se da trajectória de ajustamento ao objectivo orçamental de médio prazo, ou do próprio objectivo, devendo o desvio reflectir os custos líquidos da reforma para o pilar do sistema de pensões de gestão pública, desde que esse desvio seja temporário e que seja preservada uma margem de segurança adequada relativamente ao valor de referência do défice.\n\nO Conselho examinará ainda se o conteúdo do programa de convergência promove uma coordenação mais estreita das políticas económicas e se as políticas económicas do Estado-membro em causa são compatíveis com as orientações gerais de política económica.\n\n2. O Conselho procederá ao exame do programa de convergência referido no n.º 1, o mais tardar no prazo de [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) três meses**◄** a contar da data da sua apresentação. O Conselho, deliberando sob recomendação da Comissão e após consulta ao comité previsto no artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 114.º **◄**, emitirá um parecer sobre o programa. Se, nos termos do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 99.º **◄**, considerar que os objectivos e o conteúdo de um programa devem ser reforçados, o Conselho convidará, no seu parecer, o Estado-membro em causa a ajustar o respectivo programa.\n\n3. Os programas de convergência actualizados serão examinados pelo comité previsto no artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 114.º **◄** com base em avaliações da Comissão; se necessário, os programas actualizados podem igualmente ser examinados pelo Conselho, nos termos dos n.^os^ 1 e 2 do presente artigo."
+  },
+  "97fe1450144e6ad0": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. No âmbito da supervisão multilateral prevista no n.º 3 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 99.º **◄**, o Conselho acompanhará a aplicação dos programas de convergência com base nas informações fornecidas pêlos Estados-membros não participantes nos termos do n.º 2, alínea a), do artigo 7.º do presente regulamento e nas avaliações da Comissão e do comité previsto no artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 114.º **◄**, nomeadamente com o objectivo de identificar qualquer desvio significativo, efectivo ou previsível, da situação orçamental em relação ao objectivo a médio prazo, ou em relação à respectiva trajectória de ajustamento, tal como previsto no programa relativo ao excedente/défice orçamental.\n\nAlém disso, o Conselho acompanhará as políticas económicas dos Estados-membros não participantes em função dos objectivos do programa de convergência, a fim de garantir que as suas políticas estejam orientadas para a estabilidade e de evitar, assim, distorções das taxas de câmbio reais e excessivas flutuações das taxas de câmbio nominais.\n\n2. Se identificar um desvio significativo da situação orçamental em relação ao objectivo orçamental de médio prazo, ou em relação à respectiva trajectória de ajustamento, o Conselho, a fim de lançar um alerta rápido para evitar a ocorrência de um défice excessivo apresentará, nos termos do n.º 4 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 99.º **◄**, uma recomendação ao Estado-membro em causa para que este tome as medidas de ajustamento necessárias.\n\n3. Se, posteriormente, na sua actividade de acompanhamento, o Conselho considerar que persiste ou se agravou o desvio da situação orçamental em relação ao objectivo orçamental de médio prazo, ou em relação à respectiva trajectória de ajustamento, o Conselho apresentará então, nos termos do n.º 4 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 99.º **◄**, uma recomendação ao Estado-membro em causa para que este tome imediatamente medidas correctivas, podendo, nos termos daquele artigo, tornar pública a sua recomendação."
+  },
+  "2a6934845bb7c573": {
+   "fragment_id": "SECÇÃO 4",
+   "type": "divisao",
+   "heading": "SECÇÃO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 4"
+  },
+  "3a2293c837b31c16": {
+   "fragment_id": "DISPOSIÇÕES COMUNS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES COMUNS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES COMUNS"
+  },
+  "3611a793400f4f06": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO Conselho procederá à avaliação global prevista no n.º 3 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 99.º **◄** do Tratado, no âmbito da supervisão multilateral prevista no presente regulamento."
+  },
+  "a2d6732d9b148a59": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO presidente do Conselho e a Comissão incluirão nos seus relatórios para o Parlamento Europeu, nos termos do n.º 4, segundo parágrafo, do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1055) 99.º **◄**, os resultados da supervisão multilateral realizada no âmbito do presente regulamento."
+  },
+  "cbd92df72e282f4a": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO presente regulamento entra em vigor em l de Julho de 1998.\n\nO presidente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n---"
+  },
+  "df08f62a8f7e6445": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7eb33380-cdc5-40df-bcf8-98125dbc2b7b.0018.03/DOC_1#src.E0001)) JO n.º C 368 de 6. 12. 1996, p. 9.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7eb33380-cdc5-40df-bcf8-98125dbc2b7b.0018.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 28 de Novembro de 1996 (JO n.º C 380 de 16. 12. 1996, p. 28), posição comum do Conselho de 14 de Abril de 1997 (JO n.º C 146 de 30. 5. 1997, p. 26) e decisão do Parlamento Europeu de 29 de Maio de 1997 (JO n.º C 182 de 16. 6. 1997).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7eb33380-cdc5-40df-bcf8-98125dbc2b7b.0018.03/DOC_1#src.E0003)) Ver página 6 do presente Jornal Oficial.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7eb33380-cdc5-40df-bcf8-98125dbc2b7b.0018.03/DOC_1#src.E0004)) JO n.º C 236 de 2. 8. 1997, p. 1."
+  },
+  "2cf9f5986d8ea785": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Julho de 1997\n\nrelativo ao reforço da supervisão das situações orçamentais e à supervisão e coordenação das políticas económicas"
+  },
+  "d583d3b59ec07352": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece as normas que regulam o conteúdo, a apresentação, a apreciação e o acompanhamento dos programas de estabilidade e dos programas de convergência no âmbito da supervisão multilateral a exercer pelo Conselho e a Comissão para evitar, numa fase precoce, a ocorrência de défices públicos excessivos e promover a supervisão e coordenação das políticas económicas, apoiando assim a consecução dos objectivos da União em matéria de crescimento e emprego."
+  },
+  "992e532f650af293": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento entende-se por:\n\na) «Estados-Membros participantes», os Estados-Membros cuja moeda é o euro;\n\nb) «Estados-Membros não participantes», os Estados-Membros cuja moeda não é o euro."
+  },
+  "540489590b3da3fb": {
+   "fragment_id": "SECÇÃO 1- –A",
+   "type": "divisao",
+   "heading": "SECÇÃO 1- –A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1- –A"
+  },
+  "b4d6dd259a15bcf6": {
+   "fragment_id": "SEMESTRE EUROPEU PARA A COORDENAÇÃO DAS POLÍTICAS ECONÓMICAS",
+   "type": "divisao",
+   "heading": "SEMESTRE EUROPEU PARA A COORDENAÇÃO DAS POLÍTICAS ECONÓMICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SEMESTRE EUROPEU PARA A COORDENAÇÃO DAS POLÍTICAS ECONÓMICAS"
+  },
+  "786f3840c91162d1": {
+   "fragment_id": "Artigo 2.º- –A",
+   "type": "artigo",
+   "heading": "Artigo 2.º- –A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º- –A\n\n1. A fim de garantir uma coordenação mais estreita das políticas económicas e uma convergência sustentada dos comportamentos das economias dos Estados-Membros, o Conselho procede à supervisão multilateral como parte integrante do Semestre Europeu para a coordenação das políticas económicas, de acordo com os objectivos e requisitos previstos no Tratado sobre o Funcionamento da União Europeia (TFUE).\n\n2. O Semestre Europeu inclui:\n\na) A formulação e a supervisão da aplicação das orientações gerais das políticas económicas dos Estados-Membros e da União (Orientações Gerais para as Políticas Económicas), nos termos do artigo 121.º, n.º 2, do TFUE;\n\nb) A formulação e a apreciação da aplicação das orientações em matéria de emprego que os Estados-Membros devem ter em conta (orientações para o emprego), nos termos do artigo 148.º, n.º 2, do TFUE;\n\nc) A apresentação e a avaliação dos programas de estabilidade e convergência dos Estados-Membros, nos termos do presente regulamento;\n\nd) A apresentação e a avaliação dos programas nacionais de reforma dos Estados-Membros de prestação de apoio à estratégia da União para o crescimento e o emprego, estabelecidos em consonância com as orientações referidas nas alíneas a) e b) e com as orientações gerais emitidas pela Comissão e pelo Conselho Europeu para os Estados-Membros no início do ciclo anual de supervisão;\n\ne) A supervisão para prevenir e corrigir desequilíbrios macroeconómicos nos termos do Regulamento (UE) n.º 1176/2011 do Parlamento Europeu e do Conselho, de 16 de Novembro de 2011, relativo à prevenção e correcção dos desequilíbrios macroeconómicos ([^1^](http://publications.europa.eu/resource/cellar/29dc8d07-3f22-4497-9703-c9d803360a9f.0019.03/DOC_3#E0001)).\n\n3. Durante o Semestre Europeu, a fim de prestar aconselhamento político atempado e integrado relativamente às políticas macro-orçamentais e macro-estruturais previstas, o Conselho deve, por princípio, na sequência da avaliação destes programas com base em recomendações da Comissão, dar orientações aos Estados-Membros para fazendo pleno uso dos instrumentos legais previstos nos artigos 121.º e 148.º do TFUE, ao abrigo do presente regulamento e do Regulamento (UE) N.º 1176/2011.\n\nOs Estados-Membros devem ter na devida conta as orientações que lhes forem dadas no desenvolvimento das respectivas políticas económicas, orçamentais e de emprego, antes de tomarem decisões fundamentais sobre os seus orçamentos nacionais para os anos subsequentes. Os progressos efectuados devem ser acompanhados pela Comissão.\n\nO incumprimento, por parte de um Estado-Membro, das orientações que lhe foram dadas pode resultar:\n\na) Em novas recomendações para que sejam tomadas medidas concretas;\n\nb) Numa advertência da Comissão nos termos do artigo 121.º, n.º 4, do TFUE;\n\nc) Na imposição de medidas ao abrigo do presente regulamento, do Regulamento (CE) n.º 1467/97 ou do Regulamento (UE) n.º 1176/2011.\n\nA aplicação das medidas fica sujeita a uma supervisão reforçada por parte da Comissão e pode incluir missões de supervisão nos termos do artigo –11.º do presente regulamento.\n\n4. O Parlamento Europeu deve participar de forma adequada no Semestre Europeu, a fim de aumentar a transparência, a apropriação e a responsabilização pelas decisões tomadas, nomeadamente através do diálogo económico instituído nos termos do artigo 2.º-AA do presente regulamento. O Comité Económico e Financeiro, o Comité de Política Económica, o Comité do Emprego e o Comité da Protecção Social devem ser consultados no âmbito do Semestre Europeu, caso tal se afigure adequado. As partes interessadas, nomeadamente os parceiros sociais, devem participar, no âmbito do Semestre Europeu, no debate das principais questões políticas, se for caso disso, nos termos do TFUE, da legislação nacional e das disposições políticas acordadas.\n\nO Presidente do Conselho e a Comissão, nos termos do artigo 121.º do TFUE, e, se necessário, o Presidente do Eurogrupo devem apresentar anualmente ao Parlamento Europeu e ao Conselho Europeu um relatório sobre os resultados da supervisão multilateral. Estes relatórios devem integrar o Diálogo Económico a que se refere o artigo 2.º-AA do presente regulamento."
+  },
+  "61700d2cb2bf250f": {
+   "fragment_id": "SECÇÃO 1- –AA",
+   "type": "divisao",
+   "heading": "SECÇÃO 1- –AA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1- –AA"
+  },
+  "63471bed4462be35": {
+   "fragment_id": "DIÁLOGO ECONÓMICO",
+   "type": "divisao",
+   "heading": "DIÁLOGO ECONÓMICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DIÁLOGO ECONÓMICO"
+  },
+  "2530a775d344d65e": {
+   "fragment_id": "Artigo 2.º- –AB",
+   "type": "artigo",
+   "heading": "Artigo 2.º- –AB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º- –AB\n\n1. A fim de melhorar o diálogo entre as instituições da União, em particular o Parlamento Europeu, o Conselho e a Comissão, e de assegurar uma maior transparência e responsabilização, a comissão competente do Parlamento Europeu pode convidar o Presidente do Conselho, a Comissão e, se for caso disso, o Presidente do Conselho Europeu e o Presidente do Eurogrupo a comparecerem perante a comissão para debater:\n\na) As informações prestadas à comissão pelo Conselho a respeito das orientações gerais para as políticas económicas, nos termos do artigo 121.º, n.º 2, do TFUE;\n\nb) As orientações gerais para os Estados-Membros dadas pela Comissão no início do ciclo anual de supervisão;\n\nc) As conclusões apresentadas pelo Conselho Europeu sobre as orientações para as políticas económicas no contexto do Semestre Europeu;\n\nd) Os resultados da supervisão multilateral exercida nos termos do presente regulamento;\n\ne) As conclusões apresentadas pelo Conselho Europeu sobre as orientações e os resultados da supervisão multilateral;\n\nf) As eventuais revisões do exercício da supervisão multilateral no final do Semestre Europeu;\n\ng) As recomendações dirigidas pelo Conselho aos Estados-Membros nos termos do artigo 121.º, n.º 4, do TFUE em caso de desvio significativo, bem como o relatório apresentado pelo Conselho ao Conselho Europeu nos termos dos artigos 6.º, n.º 2 e 10.º, n.º 2, do presente regulamento;\n\n2. Espera-se que, por princípio, o Conselho siga as recomendações e propostas da Comissão ou exponha a sua posição publicamente.\n\n3. A comissão competente do Parlamento Europeu pode dar aos Estados-Membros destinatários de recomendações emitidas pelo Conselho nos termos dos artigos 6.º, n.º 2 ou 10.º, n.º 2 a oportunidade de participarem numa troca de pontos de vista.\n\n4. O Conselho e a Comissão devem informar regularmente o Parlamento Europeu quanto à aplicação do presente regulamento."
+  },
+  "5722fbb4f869f31c": {
+   "fragment_id": "Artigo 2.º-A",
+   "type": "artigo",
+   "heading": "Artigo 2.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-A\n\nCada Estado-Membro deve ter um objectivo de médio prazo diferenciado para a sua situação orçamental. Estes objectivos orçamentais de médio prazo específicos de cada país poderão divergir da exigência de uma situação orçamental próxima do equilíbrio ou excedentária, mas devem facultar uma margem de segurança em relação ao rácio de 3 % do PIB para o défice orçamental. Os objectivos orçamentais de médio prazo devem assegurar a sustentabilidade das finanças públicas ou um rápido progresso na via dessa sustentabilidade, conservando simultaneamente uma margem de manobra orçamental, em especial para atender às necessidades de investimento público.\n\nTomando estes factores em consideração, para os Estados-Membros participantes e para os Estados-Membros do MTC2 deve ser especificado um intervalo de variação definido para os objectivos de médio prazo específicos de cada país entre – 1 % do PIB e uma situação de equilíbrio ou excedentária, em termos corrigidos de variações cíclicas e líquidos de medidas pontuais e temporárias.\n\nOs objectivos orçamentais de médio prazo serão revistos de três em três anos. O objectivo orçamental de médio prazo de um Estado-Membro pode ser submetido a uma nova revisão se for posta em prática uma reforma estrutural que tenha um impacto considerável na sustentabilidade das finanças públicas.\n\nO cumprimento do objectivo orçamental de médio prazo deve ser incluído nos quadros orçamentais nacionais de médio prazo, nos termos do capítulo IV, artigo 5.º da Directiva 2011/85/UE do Conselho, de 8 November 2011 que estabelece requisitos aplicáveis aos quadros orçamentais dos Estados-Membros ([^2^](http://publications.europa.eu/resource/cellar/29dc8d07-3f22-4497-9703-c9d803360a9f.0019.03/DOC_3#E0002))."
+  },
+  "9c4acf49743f4632": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Cada Estado-Membro participante presta ao Conselho e à Comissão as informações necessárias ao exercício da supervisão multilateral regular prevista no artigo 121.º do TFUE sob a forma de um «programa de estabilidade» que proporcione uma base essencial para a sustentabilidade das finanças públicas que conduza à estabilidade dos preços, a um crescimento sustentável forte e à criação de emprego.\n\n2. O programa de estabilidade incluirá as seguintes informações:\n\na) O objectivo orçamental a médio prazo e a trajectória de ajustamento conducente ao objectivo fixado para o saldo da administração pública expresso em percentagem do PIB, a trajectória prevista do rácio da dívida pública, a trajectória de crescimento planeada da despesa pública, incluindo a dotação correspondente para a formação bruta de capital fixo, em particular, em especial tendo presentes as condições e os critérios para determinar o crescimento da despesa nos termos do artigo 5.º, n.º 1, a trajectória de crescimento planeada das receitas públicas numa política inalterada e a quantificação das medidas discricionárias previstas em matéria de receitas;\n\na-A) Informações sobre os passivos implícitos, ligados ao envelhecimento demográfico, e contingentes, como as garantias públicas, com impacto potencialmente forte nas contas gerais da administração pública;\n\na-B) Informações sobre a coerência do programa de estabilidade com as orientações gerais para as políticas económicas e os programas nacionais de reforma;\n\nb) As principais hipóteses relativas à evolução prevista da economia e a outras importantes variáveis económicas susceptíveis de influenciar a realização do programa de estabilidade, nomeadamente a despesa com o investimento público, o crescimento do PIB em termos reais, o emprego e a inflação;\n\nc) Uma avaliação quantitativa das medidas orçamentais e de outras medidas de política económica adoptadas ou propostas para a realização dos objectivos do programa, incluindo uma análise dos custos/benefícios das reformas estruturais importantes que tenham efeitos orçamentais positivos a longo prazo, inclusive através do reforço do crescimento sustentável potencial;\n\nd) Uma análise das implicações das alterações das principais hipóteses económicas sobre a situação orçamental e de endividamento;\n\ne) Sendo o caso, as razões para o desvio em relação à trajectória de ajustamento ao objectivo de médio prazo.\n\n2-A. O programa de estabilidade deve basear-se no cenário macro-orçamental mais provável ou num cenário mais prudente. As previsões macroeconómicas e orçamentais serão comparadas com as previsões mais actualizadas da Comissão e, se for caso disso, de outros órgãos independentes. Quaisquer divergências significativas entre o cenário macroeconómico escolhido e as previsões da Comissão devem ser descritas e fundamentadas, em particular se o nível ou o crescimento das hipóteses externas divergir significativamente dos valores constantes das previsões da Comissão.\n\nA natureza exacta das informações incluídas no n.º 2, alíneas a), a-A), b), c) e d, deve ser apresentada num quadro harmonizado, a estabelecer pela Comissão em cooperação com os Estados-Membros.\n\n3. As informações relativas à trajectória do saldo da administração pública e do rácio da dívida pública, o crescimento da despesa pública, a trajectória planeada de crescimento das receitas públicas numa política inalterada, as medidas de planeamento das receitas discricionárias, adequadamente quantificadas, e as principais hipóteses de natureza económica a que se refere o n.º 2, alíneas a) e b), devem ser estabelecidas numa base anual e abranger, para além do ano em curso e do ano precedente, pelo menos os três anos seguintes.\n\n4. Cada programa incluirá informações sobre o seu estatuto no contexto dos procedimentos nacionais, nomeadamente se o programa foi apresentado ao parlamento nacional e se este último teve oportunidade de debater o parecer do Conselho sobre o programa anterior ou, se for o caso, qualquer recomendação ou advertência, e se o parlamento aprovou o programa."
+  },
+  "6613b46e1955f1e1": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os programas de estabilidade devem ser apresentados anualmente em Abril, de preferência até meados e no máximo até 30 de Abril.\n\n2. Os Estados-Membros devem tornar públicos os seus programas de estabilidade."
+  },
+  "c506d51446e3ff1b": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Com base em avaliações efectuadas pela Comissão e pelo Comité Económico e Financeiro, o Conselho deve examinar, no quadro da supervisão multilateral prevista no artigo 121.º do TFUE, os objectivos orçamentais de médio prazo apresentados pelos Estados-Membros em causa nos respectivos programas de estabilidade, e apreciar se as hipóteses de natureza económica em que o programa se baseia são realistas, se a trajectória de ajustamento ao objectivo orçamental de médio prazo é adequada, incluindo a apreciação da trajectória acompanhante do rácio da dívida, e se as medidas adoptadas ou propostas para respeitar essa trajectória de ajustamento são suficientes para alcançar o objectivo orçamental de médio prazo durante o ciclo.\n\nAo apreciarem a trajectória de ajustamento para alcançar o objectivo orçamental de médio prazo, o Conselho e a Comissão devem analisar se o Estado-Membro em causa prossegue uma melhoria anual adequada do seu saldo orçamental, corrigido de variações cíclicas e líquido de medidas extraordinárias e temporárias, exigido para alcançar o seu objectivo orçamental de médio prazo, tendo 0,5 % do PIB como valor de referência. Quanto aos Estados-Membros com um nível de endividamento superior a 60 % do PIB ou com riscos acentuados ao nível da sustentabilidade global da dívida, o Conselho e a Comissão devem analisar se a melhoria anual do saldo orçamental corrigido das variações cíclicas, líquido das medidas extraordinárias ou temporárias, é superior a 0,5 % do PIB. O Conselho e a Comissão devem tomar em consideração se os esforços de ajustamento são maiores em períodos de conjuntura económica favorável, podendo ser mais limitados em períodos de conjuntura económica desfavorável. Devem ser tidas em conta, em particular, as receitas e perdas de receitas excepcionais.\n\nA realização de progressos suficientes para atingir o objectivo orçamental de médio prazo deve ser apreciada com base numa avaliação global que tenha como referência o saldo estrutural, incluindo uma análise da despesa líquida de medidas discricionárias em matéria de receitas. Para este efeito, o Conselho e a Comissão devem avaliar se a trajectória de crescimento da despesa pública, considerada em conjunto com o efeito das medidas adoptadas ou planeadas no lado da receita, respeita as seguintes condições:\n\na) No que respeita aos Estados-Membros que tiverem alcançado o seu objectivo orçamental de médio prazo, o crescimento anual da despesa não exceder uma taxa de referência a médio prazo de crescimento do PIB potencial, a não ser que o excedente seja compensado por medidas discricionárias em matéria de receitas;\n\nb) No que respeita aos Estados-Membros que ainda não tiverem alcançado o objectivo orçamental de médio prazo, o crescimento anual da despesa não exceder uma taxa abaixo da taxa de referência a médio prazo de crescimento do PIB potencial, a não ser que o excedente seja compensado por medidas discricionárias em matéria de receitas. A dimensão da diferença da taxa de crescimento da despesa pública em relação à taxa de referência a médio prazo do crescimento do PIB potencial deve assegurar um ajustamento adequado e direccionado para a concretização do objectivo orçamental de médio prazo;\n\nc) No que respeita aos Estados-Membros que ainda não tiverem alcançado o objectivo orçamental de médio prazo, as reduções discricionárias de elementos das receitas públicas serem compensadas por reduções da despesa, por aumentos discricionários de outros elementos das receitas públicas ou por ambos.\n\nO agregado da despesa deve excluir as despesas com juros, as despesas relativas a programas da União inteiramente cobertas por receitas provenientes de fundos da União e as alterações não discricionárias nas despesas com subsídios de desemprego.\n\nO excedente do crescimento da despesa em relação à referência de médio prazo não é considerado um incumprimento do valor de referência na medida em que seja totalmente compensado por aumentos de receitas impostos por lei.\n\nA taxa de referência de médio prazo do crescimento do PIB potencial deve ser determinada com base em projecções e em estimativas retrospectivas. As projecções devem ser objecto de actualização periódica. A Comissão deve tornar público o método de cálculo dessas projecções, bem como a taxa de referência de médio prazo do crescimento do PIB potencial que daí resulta.\n\nAo definir a trajectória de ajustamento ao objectivo orçamental de médio prazo no que se refere aos Estados-Membros que ainda não alcançaram este objectivo e, no que se refere aos países que já o alcançaram, ao autorizar um desvio temporário em relação ao objectivo, na condição de ser garantida uma margem de segurança suficiente para assegurar a observância do valor de referência para o défice e de se esperar que a situação orçamental regresse ao objectivo de médio prazo dentro do período do programa, o Conselho e a Comissão devem ter em conta as reformas estruturais importantes cuja aplicação tenha efeitos orçamentais positivos directos a longo prazo, inclusive através do reforço do crescimento sustentável potencial, e que, consequentemente, tenham um impacto verificável na sustentabilidade a longo prazo das finanças públicas.\n\nDeve ser dada especial atenção às reformas dos sistemas de pensões, com a introdução de um sistema em vários pilares que inclua um pilar obrigatório de capitalização integral. Os Estados-Membros que apliquem tais reformas devem ser autorizados a desviar-se da trajectória de ajustamento ao objectivo orçamental de médio prazo, ou do próprio objectivo, devendo o desvio reflectir o montante da incidência adicional directa da reforma no saldo da administração pública, desde que seja preservada uma margem de segurança adequada relativamente ao valor de referência do défice.\n\nO Conselho e a Comissão devem igualmente analisar se o programa de estabilidade facilita a consecução de uma convergência sustentável e efectiva na área do euro e uma coordenação estreita das políticas económicas e se as políticas económicas dos Estados-Membros em causa são consentâneas com as orientações gerais das políticas económicas e as orientações de emprego dos Estados-Membros e da União.\n\nEm caso de ocorrência excepcional não controlável pelo Estado-Membro em causa e que tenha um impacto significativo na situação das finanças públicas, ou em períodos de recessão económica grave que afecte a área do euro ou toda a União, os Estados-Membros podem ser autorizados a desviarem-se temporariamente da trajectória de ajustamento ao objectivo orçamental de médio prazo a que se refere o terceiro parágrafo, desde que tal não ponha em risco a sustentabilidade orçamental a médio prazo.\n\n2. O Conselho e a Comissão devem analisar o programa de estabilidade no prazo máximo de três meses a contar da data da sua apresentação. O Conselho, deliberando sob recomendação da Comissão e após consulta do Comité Económico e Financeiro, aprova, se necessário, um parecer sobre o programa. Se, nos termos do artigo 121.º do TFUE, considerar que os objectivos e o conteúdo do programa devem ser reforçados, sobretudo em relação à trajectória de ajustamento ao objectivo orçamental de médio prazo, o Conselho deve, no seu parecer, convidar o Estado-Membro em causa a ajustar o seu programa."
+  },
+  "9fbf08762c241ddd": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. No âmbito da supervisão multilateral prevista no artigo 121.º, n.º 3, do TFUE, o Conselho e a Comissão devem acompanhar a aplicação dos programas de estabilidade com base nas informações prestadas pelos Estados-Membros participantes e nas avaliações da Comissão e do Comité Económico e Financeiro, nomeadamente com o objectivo de identificar qualquer desvio significativo, efectivo ou previsível, da situação orçamental em relação ao objectivo a médio prazo ou à trajectória de ajustamento a esse objectivo.\n\n2. Se identificar um desvio significativo em relação à trajectória de ajustamento ao objectivo orçamental de médio prazo a que se refere o artigo 5.º, n.º 1, terceiro parágrafo, do presente regulamento, e a fim de evitar a ocorrência de um défice excessivo, a Comissão deve dirigir ao Estado-Membro em causa uma advertência nos termos do artigo 121.º, n.º 4, do TFUE.\n\nO Conselho, no prazo de um mês a contar da data de adopção da advertência referida no primeiro parágrafo, analisa a situação e adopta uma recomendação indicando as medidas políticas necessárias, com base numa recomendação da Comissão, nos termos do artigo 121.º, n.º 4, do TFUE. A recomendação deve fixar um prazo não superior a cinco meses para a correcção do desvio. O prazo deve ser reduzido para três meses se a Comissão, na sua advertência, considerar que a situação é particularmente grave e requer acção imediata. O Conselho, sob proposta da Comissão, torna pública a sua recomendação.\n\nNo prazo fixado pelo Conselho na recomendação feita ao abrigo do artigo 121.º, n.º 4, do TFUE, o Estado-Membro em causa deve comunicar ao Conselho as medidas tomadas em resposta à recomendação.\n\nSe o Estado-Membro em causa não tomar as medidas adequadas dentro do prazo fixado na recomendação feita pelo Conselho nos termos do segundo parágrafo, a Comissão recomenda imediatamente ao Conselho que adopte, por maioria qualificada, uma decisão constatando que não foram tomadas medidas eficazes. Simultaneamente, a Comissão pode recomendar ao Conselho que adopte uma recomendação revista, nos termos do artigo 121.º, n.º 4, do TFUE, indicando as medidas políticas necessárias.\n\nCaso o Conselho não adopte a decisão com base na recomendação da Comissão que tiver constatado que não foram tomadas medidas eficazes e o Estado-Membro em causa persista em não adoptar as medidas apropriadas, a Comissão, um mês após a sua recomendação anterior, recomenda ao Conselho que adopte a decisão constatando que não foram tomadas medidas eficazes. Considera-se a decisão como adoptada pelo Conselho salvo se, por maioria simples, este decidir rejeitar a recomendação no prazo de dez dias a contar da sua adopção pela Comissão. Simultaneamente, a Comissão pode recomendar ao Conselho que adopte uma recomendação revista, nos termos do artigo 121.º, n.º 4, do TFUE, indicando as medidas políticas necessárias.\n\nNa votação da decisão sobre incumprimento a que se referem os quarto e quinto parágrafos só podem votar os membros do Conselho representantes dos Estados-Membros participantes, devendo o Conselho deliberar sem ter em conta o voto do membro do Conselho que represente o Estado-Membro em causa.\n\nO Conselho deve apresentar ao Conselho Europeu um relatório formal sobre as decisões tomadas.\n\n3. Os desvios em relação ao objectivo orçamental de médio prazo ou à trajectória de ajustamento a tal objectivo deve ser apreciado com base numa avaliação global que tenha como referência o saldo estrutural, incluindo uma análise da despesa líquida de medidas discricionárias em matéria de receitas, nos termos do artigo 5.º, n.º 1.\n\nA avaliação para determinar se um desvio é significativo deve basear-se, nomeadamente, nos seguintes critérios:\n\na) Para Estados-Membros que não tenham atingido o objectivo orçamental de médio prazo, ao avaliar a variação do saldo estrutural, o desvio ser de pelo menos 0,5 % do PIB num só ano, ou de pelo menos 0,25 % do PIB em média anual em dois anos consecutivos;\n\nb) Ao avaliar a evolução da despesa, líquida de medidas discricionárias em matéria de receitas, o desvio ter um impacto total sobre o saldo da administração pública de pelo menos 0,5 % do PIB num único ano ou, cumulativamente, em dois anos consecutivos.\n\nO desvio da evolução da despesa não é considerado significativo se o Estado-Membro em causa tiver ultrapassado o objectivo orçamental de médio prazo, tendo em conta a possibilidade de receitas excepcionais significativas, e se os planos orçamentais estabelecidos no programa de estabilidade não colocarem em risco aquele objectivo ao longo do período de vigência do programa.\n\nDo mesmo modo, o desvio pode não ser tido em consideração caso resulte de ocorrência excepcional não controlável pelo Estado-Membro em causa e que tenha um impacto significativo na situação das finanças públicas, ou em caso de recessão económica grave que afecte a área do euro ou toda a União, desde que tal não ponha em risco a sustentabilidade orçamental a médio prazo."
+  },
+  "f1f65bab10699fce": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Cada um dos Estados-Membros não participantes presta periodicamente ao Conselho e à Comissão as informações necessárias ao exercício da supervisão multilateral prevista no artigo 121.º do TFUE sob a forma de um «programa de convergência» que proporcione uma base essencial para a sustentabilidade das finanças públicas que conduza à estabilidade dos preços, a um crescimento sustentável forte e à criação de emprego.\n\n2. O programa de convergência incluirá as seguintes informações, em especial no que se refere às variáveis relacionadas com os critérios de convergência:\n\na) O objectivo orçamental de médio prazo e a trajectória de ajustamento a tal objectivo fixados para o saldo das administrações públicas expresso em percentagem do PIB, a trajectória prevista do rácio da dívida pública, a trajectória planeada de crescimento da despesa pública, incluindo a dotação correspondente para a formação bruta de capital fixo, em particular tendo presentes as condições e os critérios para calcular o crescimento da despesa nos termos do artigo 9.º, n.º 1, a trajectória planeada de crescimento da receita pública numa política inalterada e a quantificação das medidas discricionárias planeadas em matéria de receitas, os objectivos da política monetária a médio prazo, a relação entre estes objectivos e a estabilidade dos preços e da taxa de câmbio e a concretização de uma convergência sustentada;\n\na-A) Informações sobre os passivos implícitos, ligados ao envelhecimento demográfico, e contingentes, como as garantias públicas, com impacto potencialmente forte nas contas gerais da administração pública;\n\na-B) Informações sobre a coerência do programa de convergência com as orientações gerais para as políticas económicas e os programas nacionais de reformas;\n\nb) As principais hipóteses relativas à evolução esperada da economia e a outras importantes variáveis económicas susceptíveis de influenciar a realização do programa de convergência, nomeadamente a despesa com o investimento público, o crescimento do PIB em termos reais, o emprego e a inflação;\n\nc) Uma avaliação quantitativa das medidas orçamentais e de outras medidas de política económica adoptadas ou propostas para a realização dos objectivos do programa, incluindo uma análise dos custos/benefícios das reformas estruturais importantes que tenham efeitos orçamentais positivos directos a longo prazo, inclusive através do reforço do crescimento sustentável potencial;\n\nd) Uma análise das implicações das alterações das principais hipóteses económicas sobre a situação orçamental e de endividamento;\n\ne) Sendo o caso, as razões para o desvio em relação à trajectória de ajustamento ao objectivo de médio prazo.\n\n2-A. O programa de convergência deve basear-se no cenário macro-orçamental mais provável ou num cenário mais prudente. As previsões macroeconómicas e orçamentais serão comparadas com as previsões mais actualizadas da Comissão e, se for caso disso, de outros órgãos independentes. Quaisquer divergências significativas entre o cenário macroeconómico escolhido e as previsões da Comissão devem ser descritas e fundamentadas, em particular, se o nível ou o crescimento das hipóteses externas divergir significativamente dos valores constantes das previsões da Comissão.\n\nA natureza exacta das informações incluídas no n.º 2, alíneas a), a-A), b), c) e d), deve ser apresentada num quadro harmonizado, a estabelecer pela Comissão em cooperação com os Estados-Membros.\n\n3. As informações relativas à trajectória do saldo da administração pública e do rácio da dívida pública, o crescimento da despesa pública, a trajectória planeada de crescimento das receitas públicas numa política inalterada, as medidas de planeamento das receitas discricionárias, adequadamente quantificadas, e as principais hipóteses de natureza económica a que se refere o n.º 2, alíneas a) e b), devem ser estabelecidas numa base anual e abranger, para além do ano em curso e do ano precedente, pelo menos os três anos seguintes.\n\n4. Cada programa incluirá informações sobre o seu estatuto no contexto dos procedimentos nacionais, nomeadamente se o programa foi apresentado ao parlamento nacional e se este último teve oportunidade de debater o parecer do Conselho sobre o programa anterior ou, se for o caso, qualquer recomendação ou advertência, e se o parlamento aprovou o programa."
+  },
+  "bfefefc8a462ca54": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os programas de convergência devem ser apresentados anualmente em Abril, de preferência até meados e no máximo até 30 de Abril.\n\n2. Os Estados-Membros tornarão públicos os seus programas de convergência."
+  },
+  "2e2050bee55ce615": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Com base em avaliações efectuadas pela Comissão e pelo Comité Económico e Financeiro, o Conselho deve examinar, no quadro da supervisão multilateral prevista no artigo 121.º do TFUE, os objectivos orçamentais de médio prazo apresentados pelos Estados-Membros em causa nos respectivos programas de convergência, e apreciar se as hipóteses de natureza económica em que o programa se baseia são realistas, se a trajectória de ajustamento ao objectivo orçamental de médio prazo é adequada, incluindo a apreciação da trajectória acompanhante do rácio da dívida, e se as medidas adoptadas ou propostas para respeitar essa trajectória de ajustamento são suficientes para alcançar o objectivo orçamental de médio prazo durante o ciclo e concretizar o processo de convergência sustentada.\n\nAo apreciarem a trajectória de ajustamento para alcançar o objectivo orçamental de médio prazo, o Conselho e a Comissão devem tomar em consideração se os esforços são maiores em períodos de conjuntura económica favorável, podendo ser mais limitados em períodos de conjuntura económica desfavorável. Devem ser tidas em conta, em particular, as receitas e perdas de receitas excepcionais. No que respeita aos Estados-Membros que apresentam um nível de endividamento superior a 60 % do PIB ou com riscos acentuados ao nível da sustentabilidade global da dívida, o Conselho e a Comissão devem analisar se a melhoria anual do saldo orçamental corrigido das variações cíclicas, líquido de medidas extraordinárias ou temporárias, é superior a 0,5 % do PIB. No que respeita aos Estados-Membros do MTC2, o Conselho e a Comissão devem analisar se o Estado-Membro em causa prossegue uma melhoria anual adequada do seu saldo, corrigido de variações cíclicas e líquido de medidas extraordinárias ou temporárias, necessária para atingir o seu objectivo orçamental de médio prazo, tendo 0,5 % do PIB como valor de referência.\n\nA realização de progressos suficientes para atingir o objectivo orçamental de médio prazo deve ser apreciada com base numa avaliação global que tenha como referência o saldo estrutural, incluindo uma análise da despesa líquida de medidas discricionárias em matéria de receitas. Para este efeito, o Conselho e a Comissão devem avaliar se a trajectória de crescimento da despesa pública, considerada em conjunto com o efeito das medidas adoptadas ou planeadas no lado da receita, respeita as seguintes condições:\n\na) No que respeita aos Estados-Membros que tiverem alcançado o objectivo orçamental de médio prazo, o crescimento anual da despesa não exceder uma taxa de referência a médio prazo de crescimento do PIB potencial, a não ser que o excedente seja compensado por medidas discricionárias em matéria de receitas;\n\nb) No que respeita aos Estados-Membros que ainda não tiverem alcançado o objectivo orçamental de médio prazo, o crescimento anual da despesa não exceder uma taxa abaixo da taxa de referência a médio prazo de crescimento do PIB potencial, a não ser que o excedente seja compensado por medidas discricionárias em matéria de receitas. A dimensão da diferença da taxa de crescimento da despesa pública em relação à taxa de referência a médio prazo do crescimento do PIB potencial deve assegurar um ajustamento adequado e direccionado para a concretização do objectivo orçamental de médio prazo;\n\nc) No que respeita aos Estados-Membros que ainda não tiverem alcançado o objectivo orçamental de médio prazo, as reduções discricionárias de elementos das receitas públicas serem compensadas por reduções da despesa, por aumentos discricionários de outros elementos das receitas públicas ou por ambos.\n\nO agregado da despesa deve excluir as despesas com juros, as despesas relativas a programas da União inteiramente cobertas por receitas de fundos da União e as alterações não discricionárias das despesas com subsídios de desemprego.\n\nO excedente de crescimento da despesa em relação à referência de médio prazo não deve ser considerado um incumprimento do valor de referência, na medida em que seja totalmente compensado por aumentos de receitas impostos por lei.\n\nA taxa de referência de médio prazo do crescimento do PIB potencial deve ser determinada com base em projecções e em estimativas retrospectivas. As projecções devem ser objecto de actualização periódica. A Comissão deve tornar público o método de cálculo dessas projecções, bem como a taxa de referência de médio prazo do crescimento do PIB potencial que daí resulta.\n\nAo definir a trajectória de ajustamento ao objectivo orçamental de médio prazo no que se refere aos Estados-Membros que ainda não alcançaram este objectivo e, no que se refere aos países que já o alcançaram, ao autorizar um desvio temporário em relação ao objectivo, na condição de ser garantida uma margem de segurança suficiente para assegurar a observância do valor de referência para o défice e de se esperar que a situação orçamental regresse ao objectivo de médio prazo dentro do período do programa, o Conselho e a Comissão devem ter em conta as reformas estruturais importantes cuja aplicação tenha efeitos orçamentais positivos directos a longo prazo, inclusive através do reforço do crescimento sustentável potencial, e que, consequentemente, tenham um impacto verificável na sustentabilidade a longo prazo das finanças públicas.\n\nDeve ser dada especial atenção às reformas dos sistemas de pensões, com a introdução de um sistema em vários pilares que inclua um pilar obrigatório de capitalização integral. Os Estados-Membros que apliquem tais reformas devem ser autorizados a desviar-se da trajectória de ajustamento ao objectivo orçamental de médio prazo, ou do próprio objectivo, devendo o desvio reflectir o montante da incidência adicional directa da reforma no saldo da administração pública, desde que seja preservada uma margem de segurança adequada relativamente ao valor de referência do défice.\n\nO Conselho e a Comissão devem igualmente analisar se o programa de convergência facilita a consecução de uma convergência sustentável e efectiva e uma coordenação estreita das políticas económicas, e se as políticas económicas dos Estados-Membros em causa são consentâneas com as orientações gerais das políticas económicas e as orientações para o emprego dos Estados-Membros e da União. Além disso, no que diz respeito aos Estados-Membros do MTC2, o Conselho deve analisar se o programa de convergência assegura uma participação normal no mecanismo de taxas de câmbio.\n\nEm caso de ocorrência excepcional não controlável pelo Estado-Membro em causa e que tenha um impacto significativo na situação das finanças públicas, ou em períodos de recessão económica grave que afecte a área do euro ou toda a União, os Estados-Membros podem ser autorizados a desviarem-se temporariamente da trajectória de ajustamento ao objectivo orçamental de médio prazo a que se refere o terceiro parágrafo, desde que tal não ponha em risco a sustentabilidade orçamental a médio prazo.\n\n2. O Conselho e a Comissão devem analisar o programa de convergência no prazo máximo de três meses a contar da data da sua apresentação. O Conselho, deliberando sob recomendação da Comissão e após consulta do Comité Económico e Financeiro, aprova, se necessário, um parecer sobre o programa. Se, nos termos do artigo 121.º do TFUE, considerar que os objectivos e o conteúdo do programa devem ser reforçados, sobretudo em relação à trajectória de ajustamento ao objectivo orçamental de médio prazo, o Conselho deve, no seu parecer, convidar o Estado-Membro em causa a ajustar o seu programa."
+  },
+  "c12fcfc71addf998": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. No âmbito da supervisão multilateral prevista no artigo 121.º, n.º 3, do TFUE, o Conselho e a Comissão devem acompanhar a aplicação dos programas de convergência com base nas informações prestadas pelos Estados-Membros isentos e nas avaliações da Comissão e do Comité Económico e Financeiro, nomeadamente com o objectivo de identificar qualquer desvio significativo, efectivo ou previsível, da situação orçamental em relação ao objectivo de médio prazo ou à respectiva trajectória de ajustamento a esse objectivo.\n\nAlém disso, o Conselho e a Comissão devem acompanhar as políticas económicas dos Estados-Membros não participantes em função dos objectivos dos programas de convergência, a fim de garantir que as suas políticas sejam orientadas para a estabilidade e desse modo evitar distorções das taxas de câmbio reais e flutuações excessivas das taxas de câmbio nominais.\n\n2. Se identificar um desvio significativo em relação à trajectória de ajustamento ao objectivo orçamental de médio prazo a que se refere o artigo 9.º, n.º 1, terceiro parágrafo, do presente regulamento, e a fim de evitar a ocorrência de um défice excessivo, a Comissão deve dirigir ao Estado-Membro em causa uma advertência nos termos do artigo 121.º, n.º 4, do TFUE.\n\nO Conselho, no prazo de um mês a contar da data de adopção da advertência referida no primeiro parágrafo, analisa a situação e adopta uma recomendação indicando as medidas políticas necessárias, com base numa recomendação da Comissão, nos termos do artigo 121.º, n.º 4, do TFUE. A recomendação deve fixar um prazo não superior a cinco meses para a correcção do desvio. O prazo deve ser reduzido para três meses se a Comissão, na sua advertência, considerar que a situação é particularmente grave e requer acção imediata. O Conselho, sob proposta da Comissão, torna pública a sua recomendação.\n\nNo prazo fixado pelo Conselho na recomendação feita ao abrigo do artigo 121.º, n.º 4, do TFUE, o Estado-Membro em causa deve comunicar ao Conselho as medidas tomadas em resposta à recomendação.\n\nSe o Estado-Membro em causa não tomar as medidas adequadas dentro do prazo fixado na recomendação feita pelo Conselho nos termos do segundo parágrafo, a Comissão recomenda imediatamente ao Conselho que adopte, por maioria qualificada, uma decisão constatando que não foram tomadas medidas eficazes. Simultaneamente, a Comissão pode recomendar ao Conselho que adopte uma recomendação revista, nos termos do artigo 121.º, n.º 4, do TFUE indicando as medidas políticas necessárias.\n\nCaso o Conselho não adopte a decisão com base na recomendação da Comissão que tiver constatado que não foram tomadas medidas eficazes e o Estado-Membro em causa persista em não adoptar as medidas apropriadas, a Comissão, um mês após a sua recomendação anterior, recomenda ao Conselho que adopte a decisão constatando que não foram tomadas medidas eficazes. Considera-se a decisão como adoptada pelo Conselho salvo se, por maioria simples, este decidir rejeitar a recomendação no prazo de dez dias a contar da sua adopção pela Comissão. Simultaneamente, a Comissão pode recomendar ao Conselho que adopte uma recomendação revista, nos termos do artigo 121.º, n.º 4, do TFUE, indicando as medidas políticas necessárias.\n\nNa votação da decisão sobre incumprimento a que se referem os quarto e quinto parágrafos, o Conselho delibera sem ter em conta o voto do membro do Conselho que represente o Estado-Membro em causa.\n\nO Conselho deve apresentar ao Conselho Europeu um relatório formal sobre as decisões tomadas.\n\n3. O desvio em relação ao objectivo orçamental de médio prazo ou à respectiva trajectória de ajustamento será apreciado com base numa avaliação global que tenha como referência o saldo estrutural, incluindo uma análise da despesa líquida de medidas discricionárias em matéria de receitas, tal como definido no artigo 9.º, n.º 1.\n\nA avaliação para determinar se um desvio é significativo deve basear-se, nomeadamente, nos seguintes critérios:\n\na) Para Estados-Membros que não tenham atingido o objectivo orçamental de médio prazo, ao avaliar a variação do saldo estrutural, o desvio ser de pelo menos 0,5 % do PIB num só ano, ou de pelo menos 0,25 % do PIB em média anual em dois anos consecutivos;\n\nb) Ao avaliar a evolução da despesa, líquida de medidas discricionárias em matéria de receitas, o desvio ter um impacto total sobre o saldo da administração pública de pelo menos 0,5 % do PIB num único ano ou, cumulativamente, em dois anos consecutivos.\n\nO desvio da evolução da despesa não é considerado significativo se o Estado-Membro em causa tiver ultrapassado o objectivo orçamental de médio prazo, tendo em conta a possibilidade de receitas excepcionais significativas, e se os planos orçamentais estabelecidos no programa de convergência não colocarem em risco aquele objectivo ao longo do período de vigência do programa.\n\nDo mesmo modo, o desvio pode não ser tido em consideração caso resulte de ocorrência excepcional não controlável pelo Estado-Membro em causa e que tenha um impacto significativo na situação das finanças públicas, ou em caso de recessão económica grave que afecte a área do euro ou toda a União, desde que tal não ponha em risco a sustentabilidade orçamental a médio prazo."
+  },
+  "d5a63191baf88d69": {
+   "fragment_id": "SECÇÃO 3-A",
+   "type": "divisao",
+   "heading": "SECÇÃO 3-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 3-A"
+  },
+  "a28aad23a712fa11": {
+   "fragment_id": "PRINCÍPIO DA INDEPENDÊNCIA ESTATÍSTICA",
+   "type": "divisao",
+   "heading": "PRINCÍPIO DA INDEPENDÊNCIA ESTATÍSTICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRINCÍPIO DA INDEPENDÊNCIA ESTATÍSTICA"
+  },
+  "13cce7cd59e07c5f": {
+   "fragment_id": "Artigo 10.º-A",
+   "type": "artigo",
+   "heading": "Artigo 10.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-A\n\nA fim de assegurar que a supervisão multilateral se baseie em estatísticas sólidas e independentes, os Estados-Membros devem assegurar a independência das autoridades estatísticas nacionais, que deve ser coerente com o Código de Prática das Estatísticas Europeias, estabelecido no Regulamento (CE) n.º 223/2009 do Parlamento Europeu e do Conselho, de 11 de Março de 2009, relativo às Estatísticas Europeias ([^3^](http://publications.europa.eu/resource/cellar/29dc8d07-3f22-4497-9703-c9d803360a9f.0019.03/DOC_3#E0003)). Isto exige, no mínimo:\n\na) Procedimentos de contratação e despedimento transparentes e baseados exclusivamente em critérios profissionais;\n\nb) Dotações orçamentais que devem ser feitas numa base anual ou plurianual;\n\nc) A data da publicação das informações estatísticas essenciais, a qual deve ser indicada com antecedência significativa."
+  },
+  "3a999d292459691c": {
+   "fragment_id": "Artigo –11.º",
+   "type": "artigo",
+   "heading": "Artigo –11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo –11.º\n\n1. A Comissão garante um diálogo permanente com as autoridades competentes dos Estados-Membros de acordo com os objectivos do presente regulamento. Para este efeito, a Comissão deve, em particular, realizar missões para avaliar a situação económica dos Estados-Membros e identificar eventuais riscos ou dificuldades no cumprimento dos objectivos do presente regulamento.\n\n2. A Comissão pode realizar missões de supervisão reforçada a Estados-Membros objecto de recomendações feitas nos termos dos artigos 6.º, n.º 2 ou 10.º, n.º 2 para fins de acompanhamento «in loco». Os Estados-Membros em causa devem prestar todas as informações necessárias à preparação e realização de tais missões.\n\n3. Se o Estado-Membro em causa for um Estado-Membro participante ou um Estado-Membro do MTC2, a Comissão pode convidar representantes do Banco Central Europeu, se o considerar adequado, para participarem nas missões de supervisão.\n\n4. A Comissão apresenta ao Conselho um relatório sobre o resultado das missões referidas no n.º 2 e, se for caso disso, pode tornar públicas as suas conclusões.\n\n5. Ao organizar as missões referidas no n.º 2, a Comissão deve transmitir os respectivos resultados provisórios aos Estados-Membros em causa, para que estes apresentem as suas observações."
+  },
+  "2b6f73f99c592dec": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO Conselho procederá à avaliação global prevista no n.º 3 do [**►M2**](http://publications.europa.eu/resource/celex/32011R1175) artigo 121.º **◄** do Tratado, no âmbito da supervisão multilateral prevista no presente regulamento."
+  },
+  "5104a248194e202d": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO presidente do Conselho e a Comissão incluirão nos seus relatórios para o Parlamento Europeu, nos termos do n.º 4, segundo parágrafo, do n.º 3 do [**►M2**](http://publications.europa.eu/resource/celex/32011R1175) artigo 121.º **◄**, os resultados da supervisão multilateral realizada no âmbito do presente regulamento."
+  },
+  "95fead3851c2db7a": {
+   "fragment_id": "Artigo 12.º-A",
+   "type": "artigo",
+   "heading": "Artigo 12.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º-A\n\n1. Até 14 de Novembro de 2014 e, posteriormente, de cinco em cinco anos, a Comissão publica um relatório sobre a aplicação do presente regulamento.\n\nEsse relatório deve avaliar, nomeadamente:\n\na) A eficácia do presente regulamento, em particular se as disposições que regem o processo de tomada de decisões demonstraram ser suficientemente sólidas;\n\nb) Os progressos verificados no sentido de uma coordenação mais estreita das políticas económicas e uma convergência sustentada dos comportamentos das economias dos Estados-Membros nos termos do TFUE.\n\n2. O relatório em causa deve ser acompanhado, se for caso disso, de uma proposta de alteração do presente regulamento, nomeadamente quanto aos procedimentos de tomada de decisões.\n\n3. O relatório é transmitido ao Parlamento Europeu e ao Conselho."
+  },
+  "81908483e632f8cc": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/29dc8d07-3f22-4497-9703-c9d803360a9f.0019.03/DOC_3#src.E0001)) JO L 306 de 23.11.2011, p. 25.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/29dc8d07-3f22-4497-9703-c9d803360a9f.0019.03/DOC_3#src.E0002)) JO L 306 de 23.11.2011, p. 41.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/29dc8d07-3f22-4497-9703-c9d803360a9f.0019.03/DOC_3#src.E0003)) JO L 87 de 31.3.2009, p. 164."
+  }
+ }
+}

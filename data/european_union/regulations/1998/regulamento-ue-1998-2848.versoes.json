@@ -1,0 +1,909 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998R2848:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998R2848-20060101",
+ "dre_path": null,
+ "source_lastmod": "2006-01-01",
+ "versions": [
+  {
+   "date": "1998-12-31",
+   "future": false,
+   "celex": "31998R2848",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bfb22a1b573e7220",
+    "da403d465bb5a192",
+    "b423df48af10f8ef",
+    "5cf85517000fd157",
+    "a6c8f17db8431dde",
+    "fb49f3a1e76d5d5e",
+    "23f34661097cad72",
+    "4211eec3683cc6b1",
+    "84c2279bf1e58404",
+    "5949b4973d1b8122",
+    "4f3fb211709a006a",
+    "381268a19cddce53",
+    "2ac96e220e83a85e",
+    "faeafb046a8daead",
+    "b9f7d066cbfea450",
+    "bf58eca95660344a",
+    "fb80b24b5fe82777",
+    "80240474ea2e9910",
+    "58fcc20040e78164",
+    "4986d91bb2156fd3",
+    "7c992df378afaebc",
+    "8b0c177b0382afd9",
+    "9a78d1752b4491ee",
+    "991cd21b1b3c6f0b",
+    "cbbb1172cc74d346",
+    "3ab3ff354ef85ab2",
+    "45d27def15052983",
+    "814386653cce3f8a",
+    "af1ee88792aaa943",
+    "3ebdf876e6dcef48",
+    "49a7ae3d2424e029",
+    "20326cfe78fe5b57",
+    "852e6b50ac239aad",
+    "4155b79abaefc87d",
+    "9c999aa47f7c929d",
+    "d17cdd225581f6bd",
+    "f42f91549e197fd0",
+    "5cf3db1cfcc9cd1c",
+    "412bc78f18da9db1",
+    "167430cd0f67c6d4",
+    "99e9d3abb2f94776",
+    "0d33020e9b87cd0e",
+    "623e7f28b1d80790",
+    "4de56c2a6ae23aeb",
+    "6bfb973c6b644752",
+    "892daf342076b675",
+    "d28ee89bbb67f4f5",
+    "64e33e4503718b9c",
+    "6af999cfeb795ceb",
+    "c2fb7c3bf21f15cf",
+    "b9d1435d28a2a652",
+    "c8b2809188025cb3",
+    "2a7a03893d5a93fa",
+    "91b7b74d647ccfc6",
+    "1243da4285cc830b",
+    "bbcdb3e97bac0721",
+    "015c3a9300517ecd",
+    "6cbd4890344440ad",
+    "c7a3b4732e0e2013",
+    "80c7c05aa4f8d355",
+    "d6209142ba0a880f",
+    "6649eb7268afadd1",
+    "f421e7ae6cfa50a6",
+    "21127f10f37f98e2",
+    "2646a0cb5f3f8e9b",
+    "04336fa1ab744558",
+    "fb3b9a37ecb65794",
+    "dcbfdf87277f468a",
+    "e10c745bb023aff8",
+    "65cb29737e9b2f00",
+    "90bd77eb40b6cf55",
+    "be3cc2e845b1b9ff",
+    "435d891102743498",
+    "9df90d0b980e5586",
+    "7775483d0c89e03f",
+    "72144b200eaf5e9f",
+    "115f244973ec7aec",
+    "a10406228d535d42",
+    "bdd9a7047b9b029c",
+    "35caf30af7d7ce18",
+    "8d49489021653065",
+    "f1dcd38a5979a2f4",
+    "17bd5a7b0a91ad4d",
+    "e28cc9c64256668d",
+    "eddb18c95de65103",
+    "c8eda423d0e34a3e",
+    "09b80049795e6898"
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "celex": "01998R2848-20060101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime TÍTULO I — Definições",
+    "Suprime Artigo 1º",
+    "Suprime TÍTULO II — Agrupamentos de produtores",
+    "Suprime CAPÍTULO I — Reconhecimento",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime CAPÍTULO II — Retirada do reconhecimento",
+    "Suprime Artigo 6º",
+    "Suprime TÍTULO III — Empresa de primeira transformação",
+    "Suprime Artigo 7º",
+    "Suprime TÍTULO IV — Regime de prémios",
+    "Suprime CAPÍTULO I — Zonas de produção",
+    "Suprime Artigo 8º",
+    "Suprime CAPÍTULO II — Contrato de cultura",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 12º",
+    "Suprime CAPÍTULO III — Exigências qualitativas mínimas",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime CAPÍTULO IV — Pagamento dos prémios e adiantamentos",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime Artigo 20º",
+    "Suprime Artigo 21º",
+    "Suprime TÍTULO V — Regime de quotas de produção",
+    "Suprime CAPÍTULO I — Repartição das quotas",
+    "Suprime Artigo 22º",
+    "Suprime Artigo 23º",
+    "Suprime Artigo 24º",
+    "Suprime Artigo 25º",
+    "Suprime Artigo 26º",
+    "Suprime CAPÍTULO II — Declaração de quota",
+    "Suprime Artigo 27º",
+    "Suprime CAPÍTULO III — Alteração do limiar de garantia",
+    "Suprime Artigo 28º",
+    "Suprime CAPÍTULO IV — Reserva nacional",
+    "Suprime Artigo 29º",
+    "Suprime CAPÍTULO V — Transferência e cessão de quotas",
+    "Suprime Artigo 30º",
+    "Suprime Artigo 31º",
+    "Suprime Artigo 32º",
+    "Suprime Artigo 33º",
+    "Suprime CAPÍTULO VI — Resgate de quota",
+    "Suprime Artigo 34º",
+    "Suprime Artigo 35º",
+    "Suprime Artigo 36º",
+    "Suprime CAPÍTULO VII — Outras disposições",
+    "Suprime Artigo 37º",
+    "Suprime Artigo 38º",
+    "Suprime Artigo 39º",
+    "Suprime TÍTULO VI — Ajuda específica",
+    "Suprime Artigo 40º",
+    "Suprime Artigo 41º",
+    "Suprime Artigo 42º",
+    "Suprime TÍTULO VII — Controlos e sanções",
+    "Suprime CAPÍTULO I — Controlo",
+    "Suprime Artigo 43º",
+    "Suprime Artigo 44º",
+    "Suprime Artigo 45º",
+    "Suprime Artigo 46º",
+    "Suprime Artigo 47º",
+    "Suprime Artigo 48º",
+    "Suprime CAPÍTULO II — Sanções",
+    "Suprime Artigo 49º",
+    "Suprime Artigo 50º",
+    "Suprime Artigo 51º",
+    "Suprime Artigo 52º",
+    "Suprime Artigo 53º",
+    "Suprime TÍTULO VIII — Comunicações à Comissão",
+    "Suprime Artigo 54º",
+    "Suprime TÍTULO IX — Disposições transitórias e finais",
+    "Suprime Artigo 55º",
+    "Suprime Artigo 56º",
+    "Suprime Artigo 57º",
+    "Suprime ANEXO I — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO II — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO III — EXIGÊNCIAS QUALITATIVAS MÍNIMAS",
+    "Suprime ANEXO IV — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO V — A. Regras de repartição do prémio",
+    "Suprime ANEXO VI — MÉTODOS COMUNITÁRIOS PARA DETERMINAR O GRAU DE HUMIDADE DO TABACO EM RAMA"
+   ],
+   "fragments": [
+    "abf929ef1541d39a"
+   ]
+  }
+ ],
+ "fragments": {
+  "bfb22a1b573e7220": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 2848/98 da Comissão de 22 de Dezembro de 1998 que estabelece normas de execução do Regulamento (CEE) nº 2075/92 do Conselho no que se refere ao regime de prémios, às quotas de produção e à ajuda específica a conceder aos agrupamentos de produtores no sector do tabaco em rama** *Jornal Oficial nº L 358 de 31/12/1998 p. 0017 - 0042*\n\nREGULAMENTO (CE) Nº 2848/98 DA COMISSÃO de 22 de Dezembro de 1998 que estabelece normas de execução do Regulamento (CEE) nº 2075/92 do Conselho no que se refere ao regime de prémios, às quotas de produção e à ajuda específica a conceder aos agrupamentos de produtores no sector do tabaco em rama\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CEE) nº 2075/92 do Conselho, de 30 de Junho de 1992, que estabelece a organização comum de mercado no sector do tabaco em rama (1), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1636/98 (2), e, nomeadamente, o seu artigo 7º, o nº 5 do seu artigo 9º, os seus artigos 11º e 14ºA, o nº 5 do seu artigo 17º e o seu artigo 27º,\n\nConsiderando que o Regulamento (CE) nº 1636/98 instituiu uma reforma fundamental do sector do tabaco em rama, com o objectivo de melhorar a situação económica deste sector; que a reforma em causa consiste em modular a ajuda comunitária em função da qualidade da produção, flexibilizar e simplificar o regime de quotas, permitir um reforço dos controlos e melhorar a observância dos imperativos de saúde pública e de protecção do ambiente;\n\nConsiderando que, na sequência dessa reforma, é necessário adoptar normas de execução; que, no contexto da simplificação dos actos agrícolas, é conveniente substituir os Regulamentos (CEE) nº 3478/92 (3), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1578/98 (4), (CEE) nº 84/93 (5), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 621/96 (6) e (CE) nº 1066/95 (7), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1578/98 da Comissão por um único regulamento;\n\nConsiderando que, no que se refere às condições de reconhecimento dos agrupamento de produtores, é conveniente fixar a dimensão mínima em termos de percentagem das quantidades abrangidas por declarações de quota em relação ao limiar de garantia de cada Estado-membro; que é igualmente conveniente prever, para efeitos de reconhecimento dos agrupamentos de produtores, a possibilidade de os Estados-membros, em relação ao seu território, aumentarem a percentagem de declarações de quota e fixarem condições mínimas respeitantes ao número de produtores;\n\nConsiderando que é necessário definir as condições em que os agrupamentos de produtores serão reconhecidos para poder beneficiar desta ajuda específica;\n\nConsiderando que, para respeitar a estrutura do mercado, é necessário especificar que um produtor apenas pode pertencer a um agrupamento; que é, pois, conveniente prever, a título transitório, a possibilidade de os produtores membros de vários agrupamentos de produtores renunciarem à qualidade de membro até 31 de Janeiro de 1999;\n\nConsiderando que, para melhor respeitar o espírito do artigo 12º do Regulamento (CEE) nº 2075/92 e, nomeadamente, para evitar distorções de concorrência e dificuldades de controlo, é conveniente especificar que o agrupamento de produtores não pode exercer a actividade de primeira transformação;\n\nConsiderando que para assegurar uma certa uniformidade do processo administrativo é conveniente acertar alguns pormenores relativos ao pedido, concessão e revogação, bem como o controlo das condições do reconhecimento;\n\nConsiderando que é conveniente instaurar um mecanismo de aprovação das empresas de transformação habilitadas a celebrar contratos de cultura, bem como de retirada da aprovação em caso de não respeito das normas, e precisar as condições específicas que regem a transformação de tabaco nos Estados-membros;\n\nConsiderando que, com vista à concessão do prémio com base nas zonas tradicionais de produção, é conveniente fixar, para cada grupo de variedades de tabaco, as zonas de produção reconhecidas; que, atendendo à área relativamente pequena dos municípios em França, é conveniente limitar essas zonas aos cantões e não aos municípios; que os Estados-membros devem, contudo, ser autorizados a restringir as zonas de produção, a fim, nomeadamente, de melhorar a qualidade da produção;\n\nConsiderando que os elementos essenciais do contrato de cultura devem ser especificados; que esses contratos devem ser limitados a uma colheita, a fim de se poder ter em conta a evolução do mercado; que, além disso, é conveniente fixar suficientemente cedo as datas-limite de conclusão e de registo dos contratos, de modo a se poder garantir, desde o início do ano da colheita, simultaneamente, um escoamento estável da sua futura colheita aos produtores e o abastecimento regular das empresas de transformação;\n\nConsiderando que, para efeitos de uma boa gestão e de controlo, sempre que o contrato de cultura for celebrado com um agrupamento de produtores devem igualmente ser comunicados os dados essenciais relativos a cada produtor individual;\n\nConsiderando que é oportuno instaurar um sistema de leilão para os contratos de cultura, facultativo para os Estados-membros, a fim de possibilitar que os preços contratuais acompanhem as condições de mercado;\n\nConsiderando que o tabaco elegível para o prémio deve ter uma qualidade sã, íntegra e comercializável e encontrar-se isento de certas características que impedem uma comercialização normal;\n\nConsiderando que o prémio é composto de uma parte fixa, de uma parte variável e de uma ajuda específica, e que a relação entre as diversas partes do prémio pode variar em função das variedades e dos Estados-membros de produção; que a parte fixa deve ser paga relativamente à quantidade de tabaco em folha entregue pelo produtor à empresa de transformação, independentemente das diferentes qualidades, desde que a qualidade mínima seja respeitada; que, a fim de fomentar o melhoramento da qualidade e de aumentar o valor da produção comunitária, é conveniente que a parte variável seja paga pelos agrupamentos de produtores aos seus membros, comparando o preço de mercado obtido para cada lote entregue pelo produtor individual membro do agrupamento; que, para que o sistema seja eficaz, é conveniente que os lotes que obtiverem preços compreendidos entre o preço mínimo para cada grupo de variedades e esse preço mínimo acrescido de 50 % recebam um prémio variável igual a zero;\n\nConsiderando que é conveniente adaptar o prémio sempre que a taxa de humidade do tabaco entregue se afaste, no máximo, 4 % da taxa de humidade fixada para cada grupo de variedades com base em exigências qualitativas razoáveis; que, para simplificar o controlo aquando da entrega, é conveniente fixar os níveis, a frequência da colheita de amostras e o modo de cálculo do peso adaptado previstos para a determinação da taxa de humidade;\n\nConsiderando que, no respeito das exigências dos diferentes grupos de variedades, é necessário limitar o período de entrega do tabaco às empresas de transformação, a fim de evitar o reporte fraudulento de uma colheita para outra;\n\nConsiderando que é conveniente precisar as condições de pagamento do prémio e do preço de compra, de modo a prevenir a fraude; que, no respeitante ao excedente, cabe aos Estados-membros, nos termos do nº 1 do artigo 17º do Regulamento (CEE) nº 2075/92, determinar as regras de gestão e de controlo;\n\nConsiderando que, o prémio só pode ser pago após um controlo das entregas, a fim de garantir a realidade das operações e o respeito do regime de quotas; que é, no entanto, conveniente prever o pagamento de adiantamentos aos produtores, até ao limite de 50 % do prémio a pagar, desde que seja constituída uma garantia suficiente; que, para que possam igualmente ser pagos adiantamentos aos agrupamentos para os quais os custos das garantias são insustentáveis, é conveniente tomar esses custos elegíveis para a utilização da ajuda específica;\n\nConsiderando que o Regulamento (CEE) nº 2075/92 prevê que os Estados-membros paguem directamente o prémio aos produtores e que os produtores tenham a possibilidade de reportar para a colheita seguinte a sua produção excedentária, até ao limite de 10 % da quota que lhes tenha sido atribuída;\n\nConsiderando que o artigo 9º do Regulamento (CEE) nº 2075/92 estabelece um regime de quotas para os diferentes grupos de variedades de tabaco; que é conveniente fixar suficientemente cedo os prazos para a distribuição das quotas, de modo a que, na medida do possível, os produtores possam ter em conta esses dados aquando da produção do tabaco;\n\nConsiderando que o nº 3 do artigo 9º do Regulamento (CEE) nº 2075/92 prevê a distribuição de quotas de produção aos produtores proporcionalmente à média das quantidades entregues durante os três anos anteriores à última colheita; que essa distribuição deve ser válida por um período de três anos; que a atribuição de uma determinada quantidade que dê direito ao pagamento do prémio em relação a uma dada colheita não implica a aquisição de qualquer direito no que respeita às colheitas posteriores;\n\nConsiderando que é conveniente criar uma reserva nacional de quotas em cada Estado-membro, a fim de tornar o sistema de distribuição de quotas mais flexível e de facilitar a reconversão dos produtores e a reestruturação das explorações agrícolas nos Estados-membros; que essa reserva nacional deve ser alimentada através de uma redução linear do conjunto das quotas atribuídas aos produtores, pelo que deve ser dada aos Estados-membros a possibilidade de procederem a uma redução linear das quantidades inscritas nas declarações de quotas de produção que tenham sido objecto de cessões definitivas, bem como das quotas não utilizadas para a celebração de contratos de cultura e das quantidades inscritas nas declarações de quotas de produção que tenham sido objecto de cessões temporárias;\n\nConsiderando que é necessário determinar o método de cálculo da quota dos produtores que iniciaram a cultura do tabaco ou que aumentaram a sua quota;\n\nConsiderando que é necessário prever disposições que permitam ter em conta a transformação do tabaco num Estado-membro que não o da sua produção; que, nesse caso, convém que a quantidade de tabaco em rama em questão seja tomada a cargo no Estado-membro em que foi produzida, em benefício dos produtores desse Estado-membro;\n\nConsiderando que convém prever declarações de quota de produção a fornecer aos produtores com base nas suas entregas de tabaco aquando das colheitas dos anos de referência; que os Estados-membros devem poder adaptar, aumentando-as, as quantidades a considerar para ter em conta a situação especial de certos produtores;\n\nConsiderando que os limiares aplicáveis no âmbito de uma colheita podem ser superiores aos fixados para a colheita anterior em relação a certos grupos de variedades, mas inferiores em relação a outros; que convém repartir as quantidades suplementares entre os interessados de acordo com critérios objectivos, tendo em conta certas prioridades a determinar pelos Estados-membros em função da sua situação;\n\nConsiderando que é conveniente permitir a transmissibilidade e a cessão de quotas de produção dentro de um mesmo grupo de variedades, numa base anual ou definitiva, e estabelecer um direito de prioridade entre produtores, a fim de facilitar a cessão de quotas entre produtores membros do mesmo agrupamento de produtores; que é conveniente não ter em conta, no cálculo da quota de cada produtor, as quantidades entregues no âmbito de uma cessão anual;\n\nConsiderando que convém ter em conta a exploração comum de uma unidade de produção pelos membros de uma família, nomeadamente no que respeita às quantidades mínimas por declaração de quota de produção e à prevenção da fraude;\n\nConsiderando que a troca voluntária de quotas de produção entre produtores interessados pode facilitar a racionalização da produção;\n\nConsiderando que convém prever disposições que permitam resolver eventuais litígios através do recurso a comissões paritárias;\n\nConsiderando que é conveniente instituir um programa de resgate de quotas, com a correspondente redução dos limiares de garantia, a fim de facilitar a reconversão dos produtores que decidam, numa base individual e voluntária, abandonar o sector; que é conveniente fixar os montantes a que terão direito os produtores cujas quotas sejam resgatadas, sem prejuízo de futuras alterações; que é conveniente estabelecer um direito de prioridade entre produtores para a compra das quotas propostas no âmbito do programa de resgate, a fim de, na medida do possível, manter a produção na mesma fieira produtiva;\n\nConsiderando que, para efeitos de boa gestão, transparência e controlo, os produtores não membros de um agrupamento de produtores devem entregar o tabaco de um dado grupo de variedades e da mesma colheita a uma única empresa de transformação, os pagamentos aos agrupamentos de produtores e do preço de, compra pago aos produtores pelas empresas de primeira transformação devem ser efectuados por transferência bancária ou postal para uma única conta ligada ao pagamento dos produtores individuais e a quota de produção atribuída a cada produtor deve ser tomada pública;\n\nConsiderando que o nº 5 do artigo 4ºA do Regulamento (CEE) nº 2075/92 prevê a concessão, aos agrupamentos de produtores, de uma ajuda específica não superior a 2 % do total do prémio; que é conveniente definir a percentagem máxima para assegurar a correcta realização das tarefas atribuídas aos agrupamentos de produtores, nomeadamente as acções tendentes a reforçar o respeito do ambiente;\n\nConsiderando que, por força do nº 1 do artigo 17º do Regulamento (CEE) nº 2075/92, cabe aos Estados-membros determinar as medidas necessárias para garantir o cumprimento das disposições comunitárias no sector do tabaco em rama; que, não obstante, as medidas de controlo devem satisfazer determinadas exigências destinadas a garantir uma aplicação, nos Estados-membros, em larga medida uniforme e inspirada no sistema integrado de gestão e de controlo previsto no Regulamento (CEE) nº 3508/92 do Conselho, de 27 de Novembro de 1992, que estabelece um sistema integrado de gestão e de controlo relativo a determinados regimes de ajudas comunitários (8), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 820/97 (9), e no Regulamento (CEE) nº 3887/92 da Comissão, de 23 de Dezembro de 1992, que estabelece as normas de execução do sistema integrado de gestão e de controlo relativo a determinados regimes de ajudas comunitárias (10), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1678/98 (11);\n\nConsiderando que, em diversos Estados-membros, os controlos são realizados não no local onde o tabaco é transformado mas no local onde este é entregue; que estes controlos não são considerados suficientes; que é conveniente definir os locais onde o tabaco deve ser entregue e precisar os controlos a efectuar;\n\nConsiderando que o respeito das disposições em matéria de ajudas comunitárias deve ser eficazmente controlado; que, neste contexto, é conveniente determinar com rigor os critérios e as normas técnicas para a realização dos controlos administrativos e no local; que, dada a experiência adquirida em matéria de controlo no local, se afigura adequado completar as taxas mínimas de controlo com o instrumento da análise de riscos e definir os elementos a tomar em consideração;\n\nConsiderando que, em conformidade com o disposto nas alíneas a) e c) do artigo 5º do Regulamento (CEE) nº 2075/92, a concessão do prémio está subordinada à condição de o tabaco em folha provir de uma zona de produção determinada e ser entregue com base num contrato de cultura; que estas condições podem facilmente ser contornadas se não existir um controlo destinado a verificar que as superfícies declaradas num contrato são efectivamente cultivadas com a variedade indicada; que convém, por conseguinte, determinar um nível mínimo de controlo das superfícies cultivadas a efectuar pelos Estados-membros, bem como as consequências das irregularidades eventualmente detectadas; que essas consequências devem ser suficientemente dissuasivas, a fim de prevenir qualquer falsa declaração, respeitando, simultaneamente, o princípio da proporcionalidade;\n\nConsiderando que, para prevenir as fraudes, o tabaco em folha deve ser colocado sob controlo no momento em que é entregue pelo produtor à empresa de primeira transformação; que o tabaco deve permanecer sob controlo até ao final dos estádios de transformação e de acondicionamento; que é necessário igualmente controlar o tabaco em folha importado de países terceiros que seja submetido às operações de primeira transformação e acondicionamento na empresa em que é realizada a transformação do tabaco em folha de origem comunitária;\n\nConsiderando que convém prever que os dados e os documentos das empresas de transformação e dos produtores sejam acessíveis e utilizados para os controlos a efectuar;\n\nConsiderando que é conveniente determinar as consequências de eventuais constatações de irregularidades; que essas consequências devem ser suficientemente dissuasivas para prevenir qualquer utilização ilegal das ajudas comunitárias e, simultaneamente, respeitar o princípio da proporcionalidade;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão do Tabaco,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "da403d465bb5a192": {
+   "fragment_id": "TÍTULO I — Definições",
+   "type": "divisao",
+   "heading": "TÍTULO I — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Definições"
+  },
+  "b423df48af10f8ef": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nPara efeitos do presente regulamento, entende-se por:\n\n- «entrega», qualquer operação, realizada num único dia, que inclua a entrega de tabaco em rama a uma empresa de transformação por parte de um produtor, no âmbito de um contrato de cultura,\n\n- «agrupamentos de produtores», os agrupamentos de produtores reconhecidos pelo Estado-membro, na acepção do artigo 4º,\n\n- «cessão temporária», a cessão das quantidades inscritas nas declarações de quota de produção por um período máximo de um ano, não renovável, durante o período trienal de distribuição de quotas,\n\n- «cessão definitiva», a cessão das quantidades inscritas nas declarações de quota de produção por um período superior a um ano, durante o período trienal de distribuição de quotas,\n\n- «primeiro comprador», a empresa de primeira transformação primeira signatária do contrato de cultura,\n\n- «lote», a parte ou a totalidade da produção objecto de entrega por cada produtor, dividida por grau qualitativo de modo a formar uma ou várias partes distintas, efectivamente separadas ou não, com peso e taxa de humidade bem definidos, e numeradas de modo a possibilitar a identificação do preço de compra pago e do produtor individual,\n\n- «atestado de controlo», o documento emitido pelo organismo de controlo competente que atesta da tomada a cargo da quantidade de tabaco em causa pela empresa de primeira transformação, da entrega dessa quantidade no âmbito das declarações de quota atribuídas aos produtores e da conformidade das operações com as disposições em vigor."
+  },
+  "5cf85517000fd157": {
+   "fragment_id": "TÍTULO II — Agrupamentos de produtores",
+   "type": "divisao",
+   "heading": "TÍTULO II — Agrupamentos de produtores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Agrupamentos de produtores"
+  },
+  "a6c8f17db8431dde": {
+   "fragment_id": "CAPÍTULO I — Reconhecimento",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Reconhecimento"
+  },
+  "fb49f3a1e76d5d5e": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os Estados-membros reconhecerão, a seu pedido, os agrupamentos de produtores.\n\n2. Os agrupamentos de produtores não podem exercer a actividade de primeira transformação de tabaco.\n\n3. Os produtores de tabaco não podem pertencer a vários agrupamentos."
+  },
+  "23f34661097cad72": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. O agrupamento de produtores deve obedecer às seguintes condições:\n\na) Ser constituído por iniciativa dos seus membros;\n\nb) Ser constituído com o objectivo de, em comum, adaptar a produção dos produtores membros às exigências do mercado;\n\nc) Determinar e fazer aplicar através dos seus membros as regras comuns de produção e de colocação no mercado, nomeadamente em matéria de qualidade de produtos e de utilização de práticas culturais, bem como proceder, eventualmente, à aquisição de sementes, de adubos e de outros meios de produção;\n\nd) Dispor de um estatuto relativo ao funcionamento do agrupamento que limite os seus objectivos ao sector do tabaco em rama. O estatuto deverá incluir, pelo menos a obrigação para os produtores membros:\n\n- de efectuarem a colocação no mercado da totalidade da produção destinada à comercialização por intermédio do agrupamento,\n\n- de se conformarem às regras comuns de produção;\n\ne) Dispor, pelo menos, de declarações de quota para uma quantidade, expressa em toneladas, igual ou superior à percentagem fixada no anexo do limiar de garantia do Estado-membro em que o agrupamento se encontra estabelecido. Os Estados-membros podem fixar uma percentagem mais elevada e prever condições mínimas relativas ao número de produtores;\n\nf) Incluir no seu estatuto disposições que tenham por objectivo garantir que os membros do agrupamento que queiram renunciar à sua qualidade de membros o possam fazer:\n\n- depois de terem participado no agrupamento, após o seu reconhecimento, durante pelo menos um ano\n\ne\n\n- na condição de o comunicarem, por escrito, ao agrupamento, o mais tardar em 31 de Outubro, com efeitos na colheita seguinte. Estas disposições aplicam-se sem prejuízo das disposições legislativas ou regulamentares nacionais que tenham por objectivo proteger, em determinados casos, o agrupamento ou os seus credores das consequências financeiras que podem advir da saída de um aderente ou impedir a saída de um aderente durante o ano orçamental;\n\ng) Excluir, relativamente à sua constituição e ao conjunto das suas actividades, qualquer discriminação que se oponha ao funcionamento do mercado comum e à realização dos objectivos gerais do Tratado e, nomeadamente, qualquer discriminação relativa à nacionalidade ou local de estabelecimento:\n\n- dos produtores ou dos agrupamentos susceptíveis de se tornar membros\n\nou\n\n- dos seus parceiros económicos;\n\nh) Ter personalidade jurídica ou uma capacidade suficiente para ser, de acordo com a legislação nacional, sujeito de direitos e de obrigações;\n\ni) Manter uma contabilidade que permita à autoridade competente proceder a um controlo completo da utilização dada pelo agrupamento à ajuda específica;\n\nj) Não ter uma posição dominante na Comunidade, a menos que tal seja necessário para a prossecução dos objectivos referidos no artigo 39º do Tratado;\n\nk) Incluir, além disso, no seu estatuto a obrigação de impor aos seus membros a observação das condições previstas nas alíneas c) e d), o mais tardar a partir da data:\n\n- em que o reconhecimento produz efeitos\n\nou\n\n- da sua adesão, caso esta seja posterior ao reconhecimento.\n\n2. A colocação da produção no mercado pelo agrupamento, nos termos da alínea d) do nº 1, abrangerá pelo menos as seguintes operações:\n\n- a celebração pelo agrupamento, em seu próprio nome e por sua conta, de contratos de cultura relativos à totalidade da produção dos membros do agrupamento,\n\n- o fornecimento da totalidade da produção dos membros ao agrupamento, preparada segundo normas comuns para a entrega aos transformadores."
+  },
+  "4211eec3683cc6b1": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. O Estado-membro em cujo território o agrupamento de produtores tem a sua sede social é competente para o reconhecimento dos agrupamentos de produtores.\n\n2. O Estado-membro em causa tomará uma decisão acerca do pedido de reconhecimento no prazo de 60 dias a contar da data da apresentação do pedido, com base no respeito das condições referidas no artigo 3º\n\n3. O Estado-membro determinará a data a partir da qual o reconhecimento produz efeitos. Essa data não pode ser anterior à data de início de funcionamento efectivo do agrupamento."
+  },
+  "84c2279bf1e58404": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Anualmente, antes de 15 de Novembro, os agrupamentos de produtores actualizarão os dados relativos ao reconhecimento e comunicarão ao Estado-membro as eventuais alterações em relação ao período anterior.\n\n2. Os agrupamentos de produtores que satisfaçam as condições de reconhecimento em 15 de Novembro poderão manter o reconhecimento em relação à colheita do ano seguinte.\n\n3. Os agrupamentos de produtores que, em 15 de Novembro, tenham deixado de reunir as condições do reconhecimento poderão apresentar, antes da data-limite para a celebração dos contratos de cultura fixada no nº 1 do artigo 10º, um pedido de reconhecimento, conforme previsto no artigo 4º, com vista a manterem o reconhecimento em relação à colheita do mesmo ano."
+  },
+  "5949b4973d1b8122": {
+   "fragment_id": "CAPÍTULO II — Retirada do reconhecimento",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Retirada do reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Retirada do reconhecimento"
+  },
+  "4f3fb211709a006a": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. O reconhecimento dos agrupamentos de produtores será retirado pelo Estado-membro em causa se:\n\na) A ajuda específica for utilizada para fins diferentes dos previstos no nº 2 do artigo 40º;\n\nb) As condições para o reconhecimento deixarem de estar reunidas;\n\nc) O reconhecimento se tiver baseado em indicações falsas;\n\nd) O agrupamento tiver obtido o reconhecimento de forma irregular;\n\ne) A Comissão verificar que o nº 1 do artigo 85º do Tratado é aplicável aos acordos, decisões e práticas concertadas;\n\nf) São aplicáveis os casos previstos no artigo 51º\n\n2. O reconhecimento será retirado pelo Estado-membro com efeitos a contar da data a partir da qual deixaram de estar reunidas as condições para o reconhecimento, sem prejuízo do disposto nos nºs 2 e 3 do artigo 5º\n\nAs ajudas pagas após essa data serão recuperadas, acrescidas de juros a contar da data do pagamento das ajudas até à data da sua recuperação. A taxa de juro aplicada será a que se encontrar em vigor para operações de recuperação análogas em direito nacional.\n\n3. No caso de o reconhecimento ser retirado devido a faltas graves, o montante das ajudas a recuperar será acrescido de 30 %.\n\nNeste caso, bem como nos casos previstos no artigo 51º, o reconhecimento só poderá ser restabelecido 12 meses após a data da retirada.\n\n4. Após a retirada do reconhecimento, os agrupamentos de produtores devem apresentar um novo pedido de reconhecimento."
+  },
+  "381268a19cddce53": {
+   "fragment_id": "TÍTULO III — Empresa de primeira transformação",
+   "type": "divisao",
+   "heading": "TÍTULO III — Empresa de primeira transformação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Empresa de primeira transformação"
+  },
+  "2ac96e220e83a85e": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. O Estado-membro em cujo território se encontra a sede da empresa de primeira transformação é competente para a aprovação das empresas de primeira transformação autorizadas a celebrar contratos de cultura.\n\n2. O Estado-membro em causa tomará uma decisão acerca do pedido de aprovação, no respeito do nº 2 do artigo 6º do Regulamento (CEE) nº 2075/92 e de outras condições por si definidas, no prazo de 60 dias a contar da data da apresentação do pedido e fixará a data a partir da qual, no caso de o pedido ser aceite, a aprovação produz efeitos. A aprovação de uma empresa de primeira transformação não pode ser anterior à data da apresentação do pedido.\n\n3. A aprovação da empresa de primeira transformação será retirada pelo Estado-membro, com efeitos na colheita seguinte, a partir da data em que uma ou várias das condições de aprovação deixarem de ser satisfeitas ou nos casos previstos no artigo 53º"
+  },
+  "faeafb046a8daead": {
+   "fragment_id": "TÍTULO IV — Regime de prémios",
+   "type": "divisao",
+   "heading": "TÍTULO IV — Regime de prémios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Regime de prémios"
+  },
+  "b9f7d066cbfea450": {
+   "fragment_id": "CAPÍTULO I — Zonas de produção",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Zonas de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Zonas de produção"
+  },
+  "bf58eca95660344a": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nPara cada grupo de variedades, são fixadas no anexo II do presente regulamento as zonas de produção referidas na alínea a) do artigo 5º do Regulamento (CEE) nº 2075/92.\n\nOs Estados-membros determinarão zonas de produção mais restritas, atendendo, nomeadamente, a critérios qualitativos. Uma zona de produção restrita não pode ter uma superfície superior à de um município ou, no caso da França, à de um cantão."
+  },
+  "fb80b24b5fe82777": {
+   "fragment_id": "CAPÍTULO II — Contrato de cultura",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Contrato de cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Contrato de cultura"
+  },
+  "80240474ea2e9910": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. O contrato de cultura referido na alínea c) do artigo 5º do Regulamento (CEE) nº 2075/92 é celebrado entre uma empresa de primeira transformação de tabaco, por um lado, e um agrupamento de produtores ou um produtor individual não membro de um agrupamento, por outro.\n\n2. O contrato de cultura é celebrado por grupo de variedades. Por força deste contrato, a empresa de transformação é obrigada a aceitar a entrega da quantidade de tabaco em folha prevista no contrato e o produtor individual não membro de um agrupamento ou o agrupamento de produtores a entregar à empresa de transformação essa quantidade, no limite da sua produção efectiva.\n\n3. O contrato de cultura deve incluir, pelo menos, os seguintes elementos:\n\na) As partes no contrato;\n\nb) A referência à declaração de quota do produtor;\n\nc) O grupo de variedades que é objecto do contrato e, se for caso disso, a variedade de tabaco;\n\nd) A quantidade máxima a entregar;\n\ne) O local exacto em que o tabaco é produzido (zona de produção referida no artigo 8º, província, município e identificação da parcela, com base no sistema integrado de controlo referido no artigo 43º);\n\nf) A superfície da parcela em causa, com exclusão das serventias e das cercas;\n\ng) O preço de compra por grau qualitativo, com exclusão do montante do prémio, dos serviços eventuais e dos impostos;\n\nh) As exigências qualitativas mínimas acordadas por grau qualitativo, com um número mínimo de três graus, irem como o compromisso do produtor de entregar à empresa de transformação; tabaco em rama que corresponda, no mínimo a essas exigências qualitativas;\n\ni) O compromisso da empresa de primeira transformação de pagar ao produtor o preço de compra por grau qualitativo;\n\nj) O prazo de pagamento do preço de compra. Este prazo não pode ser superior a 30 dias a contar do tenho de cada entrega;\n\nk) A cláusula que prevê um sistema de leilão para os contratos, no caso de o Estado-membro decidir aplicar o artigo 12º\n\nNo caso de o Estado-membro ter decidido, em aplicação do nº 4, segundo travessão, do artigo 6º do Regulamento (CEE) nº 2075/92, pagar os prémios aos produtores por intermédio das empresas de primeira transformação, o contrato de cultura deve também incluir o compromisso da empresa de primeira transformação de pagar ao produtor, para além do preço, um montante igual ao prémio relativo à quantidade objecto do contrato e efectivamente entregue.\n\n4. O período de vigência do contrato não pode ser superior a uma colheita.\n\n5. Em aplicação do nº 2 do artigo 10º do Regulamento (CEE) nº 2075/92, as partes num contrato de cultura podem aumentar, mediante aditamento escrito, as quantidades inicialmente especificadas nesse contrato, desde que o aditamento:\n\na) Especifique a produção excedentária obtida pelo produtor, em relação a cada grupo de variedades, nas parcelas e na colheita abrangidas pelo contrato, até ao limite máximo de 10 % da quota atribuída ao produtor para essa colheita;\n\nb) Seja apresentado, para registo, à autoridade competente, o mais tardar, no décimo dia seguinte à data que consta do nº 1 do artigo 16º do presente regulamento.\n\nO aditamento referido no primeiro parágrafo será registado pela autoridade competente após verificação de que o produtor não beneficiou de um reporte de excedentes na colheita anterior."
+  },
+  "58fcc20040e78164": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Os contratos de cultura devem ser celebrados, salvo caso de força maior, o mais tardar no dia 30 de Maio do ano da colheita.\n\n2. Salvo caso de força maior, os contratos de cultura celebrados devem ser apresentados para registo ao organismo competente nos 10 dias úteis seguintes à data-limite fixada para a sua celebração.\n\n3. No caso de o prazo para a assinatura do contrato previsto no nº 1 ou para o registo do contrato de cultura previsto no nº 2 ser ultrapassado de, no máximo, 15 dias, o prémio a reembolsar será reduzido de 20 %.\n\n4. O organismo competente é o do Estado-membro em que a transformação for efectuada. Sempre que a transfomação for efectuada num Estado-membro que não aquele em que o tabaco é cultivado, o organismo competente do Estado-membro de transformação enviará imediatamente uma cópia do contrato registado ao organismo competente do Estado-membro de produção.\n\nSe não proceder directamente aos controlos do regime de prémios, este organismo enviará uma cópia dos contratos registados ao serviço encarregado do controlo.\n\nAntigo 11º\n\nNo caso de o contrato de cultura ser celebrado entre uma empresa de transformação e um agrupamento de produtores, o contrato será acompanhado de uma lista nominativa dos produtores e das respectivas superfícies, em conformidade com o nº 3, alíneas e) e f), do artigo 9º, bem como de um recapitulativo das suas quotas."
+  },
+  "4986d91bb2156fd3": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. Os Estados-membros decidirão, antes de 31 de Janeiro do ano da colheita, da aplicação aos contratos de cultura de um sistema de leilão que cubra a totalidade dos contratos celebrados no seu território.\n\n2. O sistema de leilão implica a inclusão nos contratos referidos no nº 1 do artigo 9º de uma cláusula que preveja a possibilidade de o produtor substituir o primeiro comprador por outra empresa de primeira transformação até vinte dias antes da data do início da entrega de tabaco.\n\nA substituição poderá realizar-se no caso de serem apresentadas uma ou mais ofertas formais por parte de uma empresa de primeira transformação que tenha declarado a sua disponibilidade para retomar integralmente o contrato em causa. Os novos preços, com exclusão do montante do prémio, de eventuais serviços e de impostos, devem ser, no mínimo, 10 % mais elevados do que os preços indicados no contrato.\n\n3. O produtor que receber ofertas formais comunicará ao primeiro comprador, por carta registada, os novos preços, com exclusão do montante do prémio, de serviços eventuais e de impostos.\n\n4. Se, nos sete dias úteis seguintes à recepção da comunicação referida no nº 3, comunicar ao produtor a aceitação dos novos preços resultantes do leilão, o primeiro comprador não será substituído no contrato. No caso de não aceitar os novos preços ou de não responder no prazo previsto, o primeiro comprador será substituído no contrato pela empresa de primeira transformação que tiver apresentado ao produtor a oferta formal mais elevada.\n\n5. O produto informará o primeiro comprador e o Estado-membro da substituição antes da data do início da entrega do tabaco, enviando ao Estado-membro uma cópia do contrato original rubricada pelas partes.\n\n6. Sempre que o tabaco produzido num Estado-membro seja transformado noutro Estado-membro, o sistema de leilão para os contratos será aplicado com base nas disposições adoptadas pelo Estado-membro de produção."
+  },
+  "7c992df378afaebc": {
+   "fragment_id": "CAPÍTULO III — Exigências qualitativas mínimas",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — Exigências qualitativas mínimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Exigências qualitativas mínimas"
+  },
+  "8b0c177b0382afd9": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nO tabaco entregue à empresa de transformação deve ser de qualidade sã, íntegra e comercializável e encontrar-se isento das características constantes do anexo III. As partes contratantes podem acordar em exigências qualitativas mais estritas."
+  },
+  "9a78d1752b4491ee": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nOs Estados-membros podem prever que os litígios respeitantes à qualidade do tabaco entregue à empresa de primeira transformação devam ser submetidos a um organismo de arbitragem. Os Estados-membros determinarão as regras que regulam a composição e as deliberações destes organismos, os quais devem ser constituídos por um ou vários representantes de produtores e de transformadores, em igual número."
+  },
+  "991cd21b1b3c6f0b": {
+   "fragment_id": "CAPÍTULO IV — Pagamento dos prémios e adiantamentos",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — Pagamento dos prémios e adiantamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Pagamento dos prémios e adiantamentos"
+  },
+  "cbbb1172cc74d346": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\n1. As regras de repartição do prémio referido no nº 1 do artigo 4ºA do Regulamento (CEE) nº 2075/92, a relação mínima entre a parte variável e o prémio, bem como as regras para o cálculo da parte variável do prémio constam do anexo V do presente regulamento. Os Estados-membros podem aumentar a relação entre a parte variável e o prémio até 45 %.\n\n2. Os montantes da parte fixa do prémio a pagar ao agrupamento de produtores, que a redistribuirá integralmente pelos membros do agrupamento, ou a cada produtor individual não membro de um agrupamento, bem como a quantidade a imputar à declaração de quota de produção do interessado, serão calculados com base no peso do tabaco em folha do grupo de variedades em causa correspondente à qualidade mínima exigida e tomado a cargo pela empresa de primeira transformação.\n\nSe a taxa de humidade for superior ou inferior à taxa fixada no anexo IV para a variedade em causa, o peso será adaptado por cada ponto de diferença, até ao limite máximo de 4 % de humidade.\n\n3. Os métodos para a determinação da taxa de humidade, os níveis e a frequência da colheita de amostras e o modo de cálculo do peso adaptado constam do anexo VI.\n\n4. O montante da parte variável do prémio a pagar ao agrupamento de produtores, que o redistribuirá integralmente pelos membros do agrupamento, será calculado para cada lote entregue em função do preço de compra pago pela empresa de primeira transformação para aquisição do lote em causa."
+  },
+  "3ab3ff354ef85ab2": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\n1. Salvo em caso de força maior, o produtor deve entregar a totalidade da sua produção à empresa de primeira transformação, o mais tardar, em 30 de Abril do ano seguinte ao ano da colheita, para os grupos de variedades VI, VII e VIII, e em 15 de Março do ano seguinte ao ano da colheita, para os demais grupos de variedades, sob pena de perder o direito ao pagamento do prémio.\n\nA entrega deve ser efectuada quer directamente no próprio local onde o tabaco será transformado quer, se o Estado-membro o permitir, num centro de compra aprovado. O organismo de controlo competente aprovará esses centros de compra, que devem, simultaneamente, dispor de instalações e de instrumentos de pesagem, bem como de locais adequados.\n\n2. Cada produtor indicará ao organismo de controlo competente, por escrito e até 10 de Maio, em relação aos grupos de variedades VI, VII e VIII, e até 25 de Março, em relação aos demais grupos de variedades, as quantidades de tabaco em folha não entregues a uma empresa de primeira transformação nas datas fixadas no nº 1, bem como o local em que o tabaco se encontra armazenado. O organismo competente tomará as medidas necessárias para evitar que o tabaco não entregue a uma empresa de primeira transformação nas datas fixadas no nº 1 possa ser declarado como proveniente da colheita seguinte."
+  },
+  "45d27def15052983": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nOs produtores não membros de um agrupamento de produtores só podem entregar tabaco de um determinado grupo de variedades da mesma colheita a uma única empresa de transformação."
+  },
+  "814386653cce3f8a": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\n1. Com base num atestado de controlo emitido pelo organismo de controlo competente que ateste da entrega do tabaco e numa prova de pagamento do preço de compra referido no nº 3, alínea i), do artigo 9º do presente regulamento, o organismo competente do Estado-membro pagará:\n\n- a parte fixa do prémio ao agrupamento de produtores ou aos produtores individuais não membros de um agrupamento,\n\n- a parte variável do prémio e a ajuda específica ao agrupamento de produtores.\n\n2. Os montantes da parte fixa do prémio e da ajuda específica devem ser pagos pelo Estado-membro ao produtor no prazo de 30 dias a contar da data de apresentação dos documentos referidos no nº 1.\n\nO montante da parte variável do prémio deve ser pago ao agrupamento de produtores no prazo de 30 dias a contar da data de apresentação dos documentos referidos no nº 1 e de uma declaração do agrupamento que certifique, em relação a cada grupo de variedades, a conclusão das entregas.\n\n3. Os agrupamentos de produtores pagarão, por transferência bancária ou postal, a parte fixa e a parte variável do prémio aos produtores membros do agrupamento no prazo de 30 dias a contar da data de recepção do montante correspondente.\n\n4. O pagamento aos agrupamentos de produtores dos montantes referidos nos nºs 1 e 2, bem como do preço de venda devido ao produtor por uma empresa de primeira transformação só pode ser realizado por transferência bancária ou postal para uma única e mesma conta que, no âmbito de um agrupamento de produtores, deve estar ligada ao pagamento dos produtores individuais membros do agrupamento.\n\n5. Em derrogação do disposto no nº 1, a prova do pagamento do preço de compra referido no nº 3, alínea i), do artigo 9º não será exigida, desde que fique provado que a empresa de primeira transformação signatária do contrato é objecto de um processo ou de uma declaração de falência, ou de um processo equivalente."
+  },
+  "af1ee88792aaa943": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\n1. Os Estados-membros aplicarão um sistema de adiantamentos sobre o prémio a favor dos produtores, em conformidade com o disposto nos nºs 2 a 8.\n\n2. O adiantamento referido no nº 1 será pago, a pedido do produtor, com base num certificado de elegibilidade para o adiantamento, emitido pelo organismo competente para o controlo.\n\n3. Salvo disposições contrárias adoptadas pelo Estado-membro, devido ao facto de este já deles dispor, o pedido de adiantamento sobre o prémio deve ser acompanhado dos seguintes documentos:\n\na) Cópia do contrato de cultura celebrado pelo produtor emitida em seu nome;\n\nb) Cópia da declaração de quota emitida ao produtor e abrangida por esse contrato de cultura;\n\nc) Uma declaração escrita do produtor em causa, indicando as quantidades de tabaco que está em condições de entregar durante a colheita em curso.\n\n4. O certificado referido no nº 2 será emitido pelos organismos de controlo após verificação dos documentos referidos no número anterior e da exactidão da declaração escrita fornecida pelo produtor.\n\n5. O pagamento do adiantamento, cujo montante máximo é igual a 50 % do prémio a pagar, está sujeito à condição de que seja constituída uma garantia num montante igual ao montante do adiantamento, acrescido de 15 %.\n\nO adiantamento será pago a partir de 16 de Outubro do ano da colheita e, o mais tardar, 30 dias após a apresentação do pedido referido no nº 2 e da prova da constituição da garantia, excepto se o pedido for apresentado antes de 16 de Setembro, caso em que o prazo será prolongado para 60 dias.\n\n6. Sempre que o adiantamento for concedido a um agrupamento de produtores e que, no prazo de 30 dias a contar da sua recepção, o montante do adiantamento não tenha sido pago aos membros que a ele tenham direito ou reembolsado ao Estado-membro, o montante ainda disponível dará lugar ao pagamento de juros, cuja taxa será fixada pelo Estado-membro. Esses juros, calculados a partir da data de recepção do adiantamento, serão creditados ao Fundo Europeu de Orientação e Garantia Agrícola (FEOGA).\n\n7. O montante do adiantamento pago será deduzido do montante do prémio a pagar, em conformidade com o disposto no nº 1 do artigo 18º, a partir da primeira entrega efectuada.\n\nA garantia constituída será liberada mediante a apresentação do atestado de controlo da quantidade de tabaco em causa e da prova do pagamento do montante correspondente ao prémio dos produtores que a ele tenham direito. Os Estados-membros determinarão as condições complementares, nomeadamente os períodos de entrega do tabaco ou as quantidades mínimas que podem dar lugar à emissão de um atestado de controlo. Uma parte da garantia, igual a 50 % da garantia constituída, será liberada no momento em que tiverem sido alcançados 50 % do prémio a pagar.\n\nA garantia constituída será liberada no momento em que a totalidade do adiantamento concedido tenha sido deduzida do montante dos prémios a pagar.\n\n8. Salvo em caso de força maior, sempre que um produtor não tiver efectuado, no prazo previsto no nº 1 do artigo 16º, entregas que permitam deduzir a totalidade do adiantamento concedido sobre o montante dos prémios a pagar, a garantia constituída por esse produtor ficará perdida no que respeita ao montante do adiantamento não recuperado.\n\n9. Os Estados-membros determinarão as condições complementares que regem a concessão dos adiantamentos, nomeadamente a data-limite para a apresentação dos pedidos. Nenhum pedido de adiantamento pode ser apresentado por um produtor depois de este ter iniciado as entregas."
+  },
+  "3ebdf876e6dcef48": {
+   "fragment_id": "Artigo 20º",
+   "type": "artigo",
+   "heading": "Artigo 20º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º\n\n1. Em relação às colheitas de 1999 e 2000, os Estados-membros podem proceder ao pagamento dos prémios aos produtores por intermédio das empresas de primeira transformação. Nesse caso, e com base num atestado de controlo e numa prova do pagamento do preço de compra referido no nº 3, alínea i), do artigo 9º, o organismo competente do Estado-membro pagará ao transformador:\n\n- o montante da parte fixa do prémio relativo aos agrupamentos de produtores ou aos produtores individuais não membros de um agrupamento,\n\n- o montante da parte variável do prémio e a ajuda específica relativa aos agrupamentos de produtores.\n\n2. O Estado-membro pagará o prémio à empresa de primeira transformação nos seguintes prazos:\n\na) Nos 30 dias seguintes à data de apresentação dos documentos previstos no nº 1, no que se refere à parte fixa do prémio e à ajuda específica;\n\nb) Nos 30 dias seguintes à data de apresentação de uma declaração do agrupamento de produtores em causa e dos documentos previstos no nº 1, no que se refere à parte variável do prémio.\n\n3. A empresa de primeira transformação pagará aos produtores em causa a parte fixa e, se for caso disso, a parte variável do prémio, bem como a ajuda específica, no prazo de 10 dias úteis a contar da data de recepção dos montantes correspondentes.\n\n4. O pagamento dos montantes referidos no nº 1 só pode ser efectuado por transferência bancária ou postal para uma única e mesma conta, a qual deve estar ligada, no caso dos agrupamentos de produtores, ao pagamento dos produtores individuais membros do agrupamento."
+  },
+  "49a7ae3d2424e029": {
+   "fragment_id": "Artigo 21º",
+   "type": "artigo",
+   "heading": "Artigo 21º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21º\n\n1. Os prémios serão pagos ou adiantados pelo Estado-membro em que o tabaco tenha sido produzido. Os prémios serão pagos ao produtor na moeda do Estado-membro em que o tabaco tenha sido produzido.\n\n2. Sempre que o tabaco seja transformado num Estado-membro que não aquele em que tenha sido produzido, o Estado-membro de transformação comunicará, após controlo, todos os elementos que permitam ao Estado-membro de produção proceder ao pagamento dos prémios ou à liberação das garantias."
+  },
+  "20326cfe78fe5b57": {
+   "fragment_id": "TÍTULO V — Regime de quotas de produção",
+   "type": "divisao",
+   "heading": "TÍTULO V — Regime de quotas de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — Regime de quotas de produção"
+  },
+  "852e6b50ac239aad": {
+   "fragment_id": "CAPÍTULO I — Repartição das quotas",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Repartição das quotas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Repartição das quotas"
+  },
+  "4155b79abaefc87d": {
+   "fragment_id": "Artigo 22º",
+   "type": "artigo",
+   "heading": "Artigo 22º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22º\n\n1. No limite dos limiares de garantia estabelecidos em conformidade com o nº 2 do artigo 9º do Regulamento (CEE) nº 2075/92, os Estados-membros distribuirão, durante três colheitas consecutivas, as quotas de produção pelos produtores individuais não membros de um agrupamento e pelos agrupamentos de produtores, proporcionalmente à média das quantidades entregues para transformação por cada produtor individual ou agrupamento de produtores durante os três anos anteriores ao ano da última colheita.\n\n2. Os Estados-membros podem repartir directamente as quotas de produção pelos produtores individuais não membros de um agrupamento e pelos agrupamentos de produtores ou exigir que os produtores individuais não membros de um agrupamento e os agrupamentos de produtores lhes apresentem pedidos com vista à obtenção de uma quota de produção.\n\n3. Os Estados-membros emitirão as declarações de quota para os produtores individuais não membros de um agrupamento e para os agrupamentos de produtores até 31 de Janeiro do ano da colheita."
+  },
+  "9c999aa47f7c929d": {
+   "fragment_id": "Artigo 23º",
+   "type": "artigo",
+   "heading": "Artigo 23º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23º\n\nA atribuição de uma quota de produção não prejudica a atribuição de quotas a título dos anos seguintes."
+  },
+  "d17cdd225581f6bd": {
+   "fragment_id": "Artigo 24º",
+   "type": "artigo",
+   "heading": "Artigo 24º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24º\n\n1. A quota de cada produtor é igual à percentagem que representa a sua quantidade média em relação à soma das quantidades médias calculadas em conformidade com o artigo 9º do Regulamento (CEE) nº 2075/92 e com os artigos 22º e 25º do presente regulamento, percentagem aplicada ao limiar de garantia específica do Estado-membro para o grupo de variedades em causa.\n\n2. No caso dos agrupamentos de produtores, cada produtor membro de um agrupamento conserva, aquando da sua saída do agrupamento, o direito à sua própria quota, que constitui o resultado do cálculo referido no nº 1.\n\n3. Relativamente aos produtores que iniciaram a cultura do tabaco ou que aumentaram a sua quota em aplicação do nº 3 do artigo 29º, o cálculo das quotas de produção deve ser efectuado do seguinte modo:\n\n- nas colheitas seguintes à repartição efectuada a título do nº 3 do artigo 29º, e até à distribuição subsequente das quotas de produção trienais, as quotas modificadas permanecem inalteradas,\n\n- aquando da distribuição das quotas, o produtor receberá uma quota de produção em conformidade com o nº 1.\n\n4. Os produtores que tiverem aumentado a sua quota na sequência de uma cessão temporária obterão, aquando da distribuição das quotas, uma quota de produção proporcional à média das quantidades entregues, não incluindo as quotas de produção objecto da cessão.\n\n5. Os produtores que tiverem aumentado a sua quota na sequência de uma cessão definitiva obterão, aquando da distribuição das quotas, uma quota de produção proporcional à média das quantidades entregues, incluindo as quotas de produção objecto da cessão.\n\n6. A percentagem do produtor é expressa com, pelo menos, quatro decimais. As quotas são fixadas em quilogramas."
+  },
+  "f42f91549e197fd0": {
+   "fragment_id": "Artigo 25º",
+   "type": "artigo",
+   "heading": "Artigo 25º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25º\n\n1. Para o cálculo da média das quantidades entregues para transformação, todo o tabaco de uma colheita será considerado entregue no decurso do ano civil da colheita em causa. Todavia, as quantidades entregues para transformação com base no disposto no nº 5 do artigo 9º serão consideradas entregues durante o ano de colheita no decurso do qual tenham sido admitidas para benefício do prémio. Apenas será tido em conta o tabaco efectivamente entregue que tenha dado direito ao prémio.\n\n2. As quantidades de tabaco entregues por produtores estabelecidos fora das zonas de produção reconhecidas em conformidade com a alínea a) do artigo 5º do Regulamento (CEE) nº 2075/92 não serão tidas em conta para o cálculo referido no nº 1."
+  },
+  "5cf3db1cfcc9cd1c": {
+   "fragment_id": "Artigo 26º",
+   "type": "artigo",
+   "heading": "Artigo 26º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26º\n\n1. No caso de o tabaco produzido num Estado-membro ter sido transformado noutro Estado-membro, a repartição das quotas será efectuada de acordo com o disposto nos nºs 2, 3 e 4.\n\n2. O Estado-membro de transfomação comunicará ao Estado-membro de produção em causa, em relação a cada produtor e por grupo de variedades, as quantidades de tabaco em rama provenientes do Estado-membro de produção entregues para transformação durante os anos de referência a utilizar para o cálculo das quotas de produção, em conformidade com o disposto no nº 3 do artigo 9º do Regulamento (CEE) nº 2075/92.\n\n3. Essa comunicação será efectuada, o mais tardar, em 15 de Novembro do ano anterior à colheita em causa.\n\n4. O Estado-membro de produção atribuirá a quantidade correspondente à sua quantidade de limiar de garantia específico aos produtores que tenham entregue tabaco a transformadores estabelecidos noutro Estado-membro durante os anos de referência referidos no nº 2.\n\nPara atribuição da quota de produção, os produtores que tenham entregue tabaco a transformadores estabelecidos noutro Estado-membro nos anos de referência serão equiparados aos produtores que tenham entregue a sua produção a uma empresa estabelecida no seu Estado-membro."
+  },
+  "412bc78f18da9db1": {
+   "fragment_id": "CAPÍTULO II — Declaração de quota",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Declaração de quota",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Declaração de quota"
+  },
+  "167430cd0f67c6d4": {
+   "fragment_id": "Artigo 27º",
+   "type": "artigo",
+   "heading": "Artigo 27º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27º\n\n1. Para cada grupo de variedades, o Estado-membro emitirá até ao limite das quantidades dos limiares de garantia, declarações de quota de produção aos produtores estabelecidos numa zona de produção reconhecida nos termos da alínea a) do artigo 5º do Regulamento (CEE) nº 2075/92.\n\nAs declarações de quota de produção indicarão, nomeadamente, o titular, o grupo de variedades e as quantidades para que são válidas.\n\n2. Os Estados-membros deteminarão o procedimento de emissão das declarações de quota de produção e as medidas de prevenção da fraude tomadas em conformidade com o nº 1 do artigo 17º do Regulamento (CEE) nº 2075/92.\n\n3. Para efeitos da emissão das declarações de quota de produção, os Estados-membros podem prever quantidades mínimas, que não podem ser superiores a 500 quilogramas.\n\n4. Sempre que um produtor apresente a prova de que, numa colheita que faça parte do seu período de referência, a sua produção foi anormalmente baixa devido a circunstâncias excepcionais, o Estado-membro determinará, a pedido do interessado, a quantidade a tomar em consideração a título dessa colheita para efeitos da sua declaração de quota; essa quantidade não pode ser superior às quantidades inscritas nas declarações de quota atribuídas ao produtor para a colheita em questão."
+  },
+  "99e9d3abb2f94776": {
+   "fragment_id": "CAPÍTULO III — Alteração do limiar de garantia",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — Alteração do limiar de garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Alteração do limiar de garantia"
+  },
+  "0d33020e9b87cd0e": {
+   "fragment_id": "Artigo 28º",
+   "type": "artigo",
+   "heading": "Artigo 28º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28º\n\n1. Sempre que, em relação a uma colheita e a um Estado-membro, o limiar de garantia fixado para um grupo de variedades seja superior ao limiar de garantia aplicável à colheita anterior, a quantidade em excesso em relação a este último limiar de garantia será repartida de acordo com critérios objectivos e coerentes a adoptar e a publicar pelo Estado-membro.\n\nOs Estados-membros podem, nomeadamente, prever que as quantidades suplementares sejam atribuídas prioritariamente aos produtores que:\n\na) Sofram uma redução das quantidades cobertas pelas suas declarações de quota em relação à colheita anterior no que respeita a um outro grupo de variedades;\n\nb) Graças à quantidade suplementar, possam racionalizar de modo significativo a sua produção de tabaco do grupo de variedades em causa;\n\n2. Sempre que, em relação a uma colheita e a um Estado-membro, o limiar de garantia fixado para um grupo de variedades seja inferior ao limiar de garantia aplicável à colheita anterior, a redução será repartida entre os produtores, proporcionalmente à média das quantidades entregues para transformação por cada produtor individual durante os três anos anteriores ao da última colheita, sem prejuízo dos casos em que é aplicável o programa de resgate de quotas previstos no artigo 14º do Regulamento (CEE) nº 2075/92."
+  },
+  "623e7f28b1d80790": {
+   "fragment_id": "CAPÍTULO IV — Reserva nacional",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — Reserva nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Reserva nacional"
+  },
+  "4de56c2a6ae23aeb": {
+   "fragment_id": "Artigo 29º",
+   "type": "artigo",
+   "heading": "Artigo 29º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29º\n\n1. A fim de facilitar a reconversão dos produtores e a reestruturação das explorações agrícolas, os Estados-membros constituirão, para cada colheita, uma reserva nacional de quotas por grupo de variedades.\n\n2. A reserva é alimentada com as quotas liberadas através de uma redução linear do conjunto das quotas atribuídas aos produtores individuais e aos agrupamentos de produtores, a fixar pelos Estados-membros entre 0,5 e 2 % do limiar de garantia fixado anualmente no mesmo grupo de variedades.\n\nAlém disso, os Estados-membros podem recorrer a:\n\n- uma redução linear a fixar por cada Estado-membro até ao limite de 2 % das quantidades inscritas nas declarações de quota de produção que tenham sido objecto de cessão definitiva,\n\ne/ou\n\n- as quotas de produção que não tenham sido utilizadas para a celebração de contratos de cultura até à data fixada para a sua celebração.\n\n3. A reserva nacional será repartida, no respeito do disposto no capítulo I do presente título e das zonas de produção reconhecidas nos termos da alínea a) do artigo 5º do Regulamento (CEE) nº 2075/92, entre produtores, ou indivíduos que pretendam tornar-se produtores, com base em critérios objectivos determinados por cada Estado-membro."
+  },
+  "6bfb973c6b644752": {
+   "fragment_id": "CAPÍTULO V — Transferência e cessão de quotas",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — Transferência e cessão de quotas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Transferência e cessão de quotas"
+  },
+  "892daf342076b675": {
+   "fragment_id": "Artigo 30º",
+   "type": "artigo",
+   "heading": "Artigo 30º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30º\n\nAs quotas podem ser transferidas ou cedidas, a título temporário ou definitivo."
+  },
+  "d28ee89bbb67f4f5": {
+   "fragment_id": "Artigo 31º",
+   "type": "artigo",
+   "heading": "Artigo 31º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31º\n\n1. Sempre que uma exploração de produção de tabaco seja transferida para um terceiro, a qualquer título, o novo empresário terá direito à declaração de quota de produção a partir da data da transferência e para todo o período de referência, excepto em caso de disposições contratuais contrárias.\n\n2. Sempre que apenas uma parte de uma exploração de produção de tabaco seja transferida para um terceiro, o novo empresário terá direito à declaração de quota de produção proporcionalmente às superfícies agrícolas adquiridas. Todavia, as partes interessadas podem acordar em que esse direito permaneça atribuído na totalidade ao antigo ou ao novo titular.\n\n3. Sem prejuízo do disposto no nº 1, os direitos à quota adquiridos por um produtor que tenha arrendado as superfícies exploradas permanecerão atribuídos a esse produtor após o termo do contrato de arrendamento.\n\n4. Sempre que vários membros de uma família explorem, ou tenham explorado, em comum uma exploração de tabaco, devem solicitar que apenas uma declaração de quota de produção seja emitida com base nas quantidades cumuladas a que tenham direito."
+  },
+  "64e33e4503718b9c": {
+   "fragment_id": "Artigo 32º",
+   "type": "artigo",
+   "heading": "Artigo 32º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32º\n\n1. Com a permissão do Estado-membro em causa, os produtores podem trocar entre si os seus direitos a uma declaração de quota de produção para um grupo de variedades pelos direitos a uma declaração relativa a outro grupo de variedades.\n\n2. O intercâmbio do direito a uma declaração de quota de produção, em conformidade com o disposto no nº 1, equivale à cessão definitiva entre os produtores em causa das quantidades de referência que tenham estado na base da declaração de quota de produção."
+  },
+  "6af999cfeb795ceb": {
+   "fragment_id": "Artigo 33º",
+   "type": "artigo",
+   "heading": "Artigo 33º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33º\n\n1. Num mesmo Estado-membro, um produtor individual pode ceder a outro produtor individual, a título temporário ou definitivo, uma parte ou a totalidade das quantidades inscritas nas declarações de quota de produção que lhe tenham sido atribuídas, desde que estejam satisfeitas as seguintes condições:\n\na) A declaração de quota em causa não esteja ainda abrangida por um contrato de cultura;\n\nb) O beneficiário da cessão já disponha de uma quota de produção para o grupo de variedades em causa;\n\nc) A cessão tenha sido objecto de um acordo escrito entre as partes em causa, de que conste a referência à declaração de quota de produção de que uma parte ou a totalidade das quantidades inscritas seja objecto da cessão;\n\nd) O acordo escrito referido na alínea c) tenha sido apresentado, para registo, à autoridade competente no prazo de 30 dias a contar da data prevista no nº 3 do artigo 22º do presente regulamento;\n\ne) O original da declaração de quota de produção, de que uma parte ou a totalidade das quantidades inscritas seja objecto de cessão, seja devolvido à autoridade competente aquando da apresentação do acordo de cessão;\n\nf) No caso de o produtor que ceda a declaração de quota ser membro de um agrupamento de produtores, a cessão deve ser autorizada pelo agrupamento sempre que o beneficiário da cessão não for membro do mesmo agrupamento de produtores. O agrupamento de produtores deve conceder a autorização quando nenhum dos seus membros tiver manifestado interesse em utilizar as quantidades objecto de cessão nas condições propostas. No caso de a cessão ser efectuada entre produtores membros do mesmo agrupamento de produtores, o agrupamento deve ser informado da cessão.\n\ng) A cessão definitiva é aplicável, exclusivamente, aos produtores que fizerem prova de que celebraram, nos três anos anteriores, contratos de cultura relativos às quotas abrangidas pela cessão.\n\n2. A autoridade competente do Estado-membro regista o acordo referido na alínea c) do primeiro parágrafo nos vinte dias seguintes à sua apresentação, após ter verificado que estão preenchidas as condições previstas nas alíneas a), b), d), e), f) e g) do mesmo parágrafo. Na mesma data, a autoridade competente do Estado-membro emitirá:\n\n- para o beneficiário da cessão, uma declaração de quota de produção complementar, correspondente às quantidades de quota de produção que tenham sido objecto da cessão,\n\n- para o produtor que cedeu apenas uma parte das quantidades inscritas na sua declaração de quota, uma declaração de quota substitutiva, correspondente às quantidades que não tenham sido objecto da cessão.\n\n3. As cessões de quota de produção referidas no nº 1 não podem incidir em quantidades inferiores a 100 quilogramas."
+  },
+  "c2fb7c3bf21f15cf": {
+   "fragment_id": "CAPÍTULO VI — Resgate de quota",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — Resgate de quota",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Resgate de quota"
+  },
+  "b9d1435d28a2a652": {
+   "fragment_id": "Artigo 34º",
+   "type": "artigo",
+   "heading": "Artigo 34º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34º\n\n1. Em aplicação do nº 1 do artigo 14º do Regulamento (CEE) nº 2075/92, e com exclusão das zonas de produção sensíveis e/ou dos grupos de variedades de alta qualidade definidos em conformidade com o nº 2, é instituído um programa de resgate de quotas, com a correspondente redução dos limiares de garantia referidos no artigo 8º do Regulamento (CEE) nº 2075/92, a fim de facilitar a reconversão dos produtores que, numa base individual e voluntária, decidam abandonar o sector.\n\n2. Com base nas propostas apresentadas pelos Estados-membros antes de 30 de Maio de cada ano de colheita, e no limite de 25 % do limiar de garantia de cada Estado-membro, a Comissão determinará as zonas de produção sensíveis e/ou os grupos de variedades de alta qualidade a excluir da aplicação do nº 1.\n\n3. O nº 1 é aplicável, exclusivamente, aos produtores que fizerem prova de que celebraram, nos três anos anteriores, contratos de cultura relativos às quotas abrangidas pelo programa de resgate."
+  },
+  "c8b2809188025cb3": {
+   "fragment_id": "Artigo 35º",
+   "type": "artigo",
+   "heading": "Artigo 35º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35º\n\n1. Os produtores que decidam abandonar o sector em aplicação do artigo 34º devem comunicá-lo por escrito à autoridade competente do Estado-membro, bem como ao agrupamento de produtores em causa, no caso de produtores individuais membros de um agrupamento, antes do dia 1 de Setembro de cada colheita.\n\n2. De 1 de Setembro a 31 de Dezembro, o Estado-membro tornará pública a intenção de venda, por forma a que outros produtores possam comprar a quota antes de esta ser efectivamente resgatada.\n\nOs produtores individuais que pertençam ao mesmo agrupamento que um produtor que tenha decidido abandonar o sector, bem como o próprio agrupamento, têm, por esta ordem, prioridade sobre os demais produtores na compra das quotas propostas no âmbito do programa de resgate.\n\n3. Se, no termo do referido período de quatro meses, não tiverem sido compradas por produtores, as quotas serão definitivamente resgatadas.\n\n4. A partir do ano de colheita seguinte à data de comunicação do produtor que tenha decidido abandonar o sector, o limiar de garantia para o grupo de variedades em causa será diminuído da quantidade resgatada."
+  },
+  "2a7a03893d5a93fa": {
+   "fragment_id": "Artigo 36º",
+   "type": "artigo",
+   "heading": "Artigo 36º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36º\n\nOs produtores cujas quotas tenham sido resgatadas a título da colheita de 1999 terão direito a receber anualmente, aquando do pagamento dos prémios relativos às colheitas de 2000, 2001 e 2002, os seguintes montantes:\n\n- quotas do grupo I 0,67741 EUR/kg,\n\n- quotas do grupo II 0,54187 EUR/kg,\n\n- quotas do grupo III 0,54187 EUR/kg,\n\n- quotas do grupo IV 0,59591 EUR/kg,\n\n- quotas do grupo V 0,54187 EUR/kg,\n\n- quotas do grupo VI 0,93854 EUR/kg,\n\n- quotas do grupo VII 0,79635 EUR/kg,\n\n- quotas do grupo VIII 0,56904 EUR/kg,"
+  },
+  "91b7b74d647ccfc6": {
+   "fragment_id": "CAPÍTULO VII — Outras disposições",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII — Outras disposições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Outras disposições"
+  },
+  "1243da4285cc830b": {
+   "fragment_id": "Artigo 37º",
+   "type": "artigo",
+   "heading": "Artigo 37º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37º\n\nOs Estados-membros podem prever que os litígios respeitantes à distribuição ou à transferência de quotas de produção sejam submetidos a um organismo de arbitragem. Os Estados-membros determinarão as regras que regulam a composição e as deliberações destes organismos."
+  },
+  "bbcdb3e97bac0721": {
+   "fragment_id": "Artigo 38º",
+   "type": "artigo",
+   "heading": "Artigo 38º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38º\n\n1. Os Estados-membros constituirão uma base de dados informatizada em que serão registadas, para cada empresa de transformação, para cada produtor e para os agrupamentos de produtores, as indicações que permitam a identificação dos seus estabelecimentos ou explorações, as quotas ou quantidades que constam das declarações de quota de produção que lhes sejam atribuídas, bem como qualquer outra indicação útil para efeitos do controlo do regime de quotas.\n\n2. Os Estados-membros assegurarão:\n\n- a conservação dos dados que constam da base de dados informatizada,\n\n- que a base de dados seja exclusivamente utilizada para aplicação do nº 1,\n\n- a aplicação de medidas que garantam a protecção dos dados, nomeadamente contra furtos e manipulações;\n\n- o acesso, sem demoras ou custos excessivos, dos interessados aos processos que lhes dizem respeito,\n\n- aos interessados o direito de que seja tida em conta qualquer alteração justificada das informações que lhes digam respeito, nomeadamente o direito de que sejam periodicamente eliminados os dados que tenham deixado de ter interesse.\n\n3. As empresas de transformação e os produtores:\n\n- não devem levantar qualquer obstáculo à criação da base de dados informatizada pelos agentes qualificados para o efeito,\n\n- devem fornecer a esses agentes todas as informações exigidas para aplicação do presente regulamento.\n\n4. Os Estados-membros assegurar-se-ão de que, sem prejuízo das suas legislações em matéria de protecção dos dados de carácter pessoal, a quota de cada produtor individual utilizada para a celebração de contratos de cultura, ou, se for caso disso, a quota de cada produtor membro de um agrupamento de produtores seja tornada pública, de modo a que seja conhecida por todos os produtores interessados de uma zona de produção restrita tal como definida no artigo 9º do presente regualmento."
+  },
+  "015c3a9300517ecd": {
+   "fragment_id": "Artigo 39º",
+   "type": "artigo",
+   "heading": "Artigo 39º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39º\n\nSempre que as quotas de produção sejam fixadas em benefício de um agrupamento de produtores que seja ele próprio produtor, o Estado-membro velará por que a repartição da quantidade em causa entre todos os membros do agrupamento seja equitativa. Os Estados-membros devem também dispor dos dados exactos relativos à produção de todos os produtores individuais, para que, se for caso disso, as quotas de produção possam ser atribuídas a estes último.\n\nNesse caso, o disposto no capítulo I aplica-se mutatis mutandis à repartição entre os membros do agupamento; todavia, com o acordo de todos os membros do agrupamento, este pode proceder a uma repartição diferente, com vista a uma melhor organização da produção."
+  },
+  "6cbd4890344440ad": {
+   "fragment_id": "TÍTULO VI — Ajuda específica",
+   "type": "divisao",
+   "heading": "TÍTULO VI — Ajuda específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI — Ajuda específica"
+  },
+  "c7a3b4732e0e2013": {
+   "fragment_id": "Artigo 40º",
+   "type": "artigo",
+   "heading": "Artigo 40º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40º\n\n1. A ajuda específica referida no nº 5 do artigo 4ºA do Regulamento (CE) nº 2075/92 é igual a 2 % do prémio.\n\n2. A ajuda específica só pode ser utilizada pelos agrupamentos, até 30 de Junho do ano seguinte ao ano da colheita, para os grupos de variedades VI, VII e VIII, e até 15 de Junho do ano seguinte ao ano da colheita, para os demais grupos de variedades para os seguintes fins:\n\n- emprego de pessoal técnico que assista os membros no melhoramento qualitativo da produção e no respeito ao ambiente,\n\n- colocação à disposição dos membros de sementes ou de plantas certificadas, bem como de outros meios de produção que contribuam para o melhoramento qualitativo do produto,\n\n- medidas de protecção do ambiente,\n\n- aplicação de medidas infra-estmturais que permitam uma melhor valorização dos produtos entregues pelos membros, nomeadamente instalações de triagem de tabaco,\n\n- emprego de pessoal administrativo para a gestão do prémio e para assegurar o respeito da regulamentação comunitária no interior do grupo,\n\n- reembolso dos custos relativos às garantias constituídas em conformidade com o artigo 42º\n\n3. As despesas referidas no primeiro, segundo e terceiro travessões do nº 2 devem corresponder, no mínimo, a 50 % do montante total da ajuda específica."
+  },
+  "80c7c05aa4f8d355": {
+   "fragment_id": "Artigo 41º",
+   "type": "artigo",
+   "heading": "Artigo 41º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41º\n\nNo caso de a ajuda específica ser paga por um Estado-membro que não aquele em que foi efectuada a transformação, este último transmitirá ao Estado-membro encarregado do pagamento da ajuda, mediante pedido, as provas e documentos comprovativos referidos no nº 1 do artigo 18º"
+  },
+  "d6209142ba0a880f": {
+   "fragment_id": "Artigo 42º",
+   "type": "artigo",
+   "heading": "Artigo 42º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42º\n\n1. A seu pedido, os Estados-membros pagarão ao agrupamento de produtores um adiantamento sobre a ajuda específica. O montante do adiantamento será determinado com base na quantidade de tabaco entregue pelo agrupamento à empresa de transformação no momento da apresentação do pedido. Os Estados-membros determinarão as condições complementares para o pagamento do adiantamento.\n\n2. O pagamento do adiantamento da ajuda específica será sujeito à constituição de uma garantia, cujo montante será pelo menos igual ao montante desse adiantamento, acrescido de 15 %.\n\n3. A garantia será liberada mediante apresentação dos elementos de prova referidos no nº 1 do artigo 18º do presente regulamento para o pagamento da ajuda específica."
+  },
+  "6649eb7268afadd1": {
+   "fragment_id": "TÍTULO VII — Controlos e sanções",
+   "type": "divisao",
+   "heading": "TÍTULO VII — Controlos e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VII — Controlos e sanções"
+  },
+  "f421e7ae6cfa50a6": {
+   "fragment_id": "CAPÍTULO I — Controlo",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Controlo"
+  },
+  "21127f10f37f98e2": {
+   "fragment_id": "Artigo 43º",
+   "type": "artigo",
+   "heading": "Artigo 43º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43º\n\nEm matéria de controlo do respeito das disposições do presente regulamento, são aplicáveis os seguintes artigos do Regulamento (CEE) nº 3887/92 da Comissão:\n\n- nº 1 do artigo 6º, para a verificação eficaz do respeito das condições de concessão das ajudas,\n\n- artigo 11º, relativo às sanções suplementares a nível nacional e aos casos de força maior,\n\n- artigo 12º, relativo ao relatório da visita de controlo,\n\n- artigo 13º, relativo ao controlo no local,\n\n- artigo 14º, relativo aos pagamentos indevidos."
+  },
+  "2646a0cb5f3f8e9b": {
+   "fragment_id": "Artigo 44º",
+   "type": "artigo",
+   "heading": "Artigo 44º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44º\n\n1. Os Estados-membros instaurarão um sistema de controlo destinado a assegurar a verificação eficaz do respeito das disposições previstas no presente regulamento e no Regulamento (CEE) nº 2075/92, e tomarão as medidas suplementares necessárias para a aplicação destes regulamentos.\n\nOs controlos incluirão os seguintes elementos:\n\na) Controlos administrativos;\n\nb) Controlos no local;\n\nc) Controlos das entregas de tabaco em folha;\n\nd) Controlos no estádio da primeira transformação e do acondicionamento do tabaco.\n\n2. Os Estados-membros prestar-se-ão, mutuamente, assistência consoante as necessidades impostas pelos controlos previstos no presente regulamento, bem como sempre que o tabaco em folha seja objecto de comércio entre Estados-membros."
+  },
+  "04336fa1ab744558": {
+   "fragment_id": "Artigo 45º",
+   "type": "artigo",
+   "heading": "Artigo 45º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45º\n\nOs controlos administrativos comportarão controlos cruzados:\n\na) Relativos às parcelas declaradas com tabaco e com a base de dados prevista no artigo 2º do Regulamento (CEE) nº 3508/92 do Conselho, a fim de evitar qualquer dupla concessão injustificada da ajuda a titulo da mesma colheita. Estes controlos devem incidir na totalidade das parcelas declaradas com tabaco;\n\nb) Para verificar o respeito do nº 3 do artigo 2º do presente regulamento.\n\nRelativamente à colheita de 1999, estes controlos podem ser realizados por amostragem."
+  },
+  "fb3b9a37ecb65794": {
+   "fragment_id": "Artigo 46º",
+   "type": "artigo",
+   "heading": "Artigo 46º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46º\n\n1. Os controlos no local serão efectuados após uma análise de risco. Os Estados-membros realizarão controlos inopinados no local, a fim de verificar:\n\na) Os elementos constantes dos contratos de cultura, nomeadamente a superfície e os grupos de variedades cultivados, bem como as quantidades de tabaco armazenado referidas no nº 2 do artigo 16º\n\nA determinação da superfície será efectuada por qualquer meio apropriado definido pela autoridade competente e que garanta um rigor de medição pelo menos equivalente ao exigido pelas medições oficiais de acordo com as disposições nacionais. Esta autoridade fixará uma margem de tolerância, tendo, designadamente, em conta a técnica de medição utilizada, a precisão dos documentos oficiais disponíveis e a situação local (por exemplo, o declive ou a forma das parcelas).\n\nPara cada empresa de transformação, esse controlo incidirá em, pelo menos, 5 % dos produtores individuais relacionados com os contratos registados por grupo de variedades; a amostra objecto de controlo deve ser determinada pela autoridade competente, nomeadamente com base numa análise de risco e num elemento de representatividade dos diferentes volumes de contratos. O Estado-membro pode decidir controlar por teledetecção a totalidade ou parte da amostra;\n\nb) O respeito dos nºs 2 e 3 do artigo 40º e dos nºs 3 e 4 do artigo 18º do presente regulamento.\n\nEm cada Estado-membro, este controlo incidirá anualmente em, pelo menos, 30 % dos agrupamentos de produtores. A amostra objecto de controlo deve ser determinada pela autoridade competente, nomeadamente com base num elemento de representatividade das diferentes dimensões dos agrupamentos de produtores.\n\n2. A análise de risco terá em conta:\n\n- as quantidades de tabaco em rama objecto de contrato, em relação com as superfícies declaradas com tabaco,\n\n- os resultados dos controlos nos anos anteriores,\n\n- outros parâmetros a determinar pelos Estados-membros.\n\n3. No caso de os controlos no local revelarem irregularidades significativas numa zona de produção ou parte de zona de produção, as autoridades competentes procederão a controlos suplementares no ano em curso e aumentarão a percentagem de controlos a efectuar no ano seguinte nessa zona ou parte de zona de produção."
+  },
+  "dcbfdf87277f468a": {
+   "fragment_id": "Artigo 47º",
+   "type": "artigo",
+   "heading": "Artigo 47º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47º\n\n1. Todas as entregas devem ser controladas pelo organismo de controlo competente. Todas as entregas devem ser autorizadas pelo organismo de controlo competente, que deve ser previamente informado, de modo a poder identificar a data da entrega. Durante esse controlo, deve verificar-se, nomeadamente, se o organismo de controlo competente autorizou previamente a entrega.\n\n2. Sempre que a entrega se efectuar num centro de compra aprovado referido no nº 1, segundo parágrafo, do artigo 16º, o tabaco não transformado, uma vez controlado, só pode deixar o centro de compra para ser transferido para o estabelecimento de transformação. Após o controlo, o tabaco deve ser reunido em quantidades distintas. A transferência destas quantidades para o estabelecimento de transformação deve ser autorizada, por escrito, pelo organismo de controlo competente, que deve ser previamente informado, de modo a poder identificar com exactidão o meio de transporte utilizado e os respectivos trajecto e horas de partida e de chegada, bem como as quantidades distintas de tabaco transportadas.\n\n3. Aquando da recepção desse tabaco no estabelecimento de transformação, o organismo de controlo competente verificará, nomeadamente mediante pesagem, que as quantidades distintas entregues são efectivamente as quantidades distintas controladas nos centros de compra.\n\nO organismo de controlo competente determinará as condições específicas que considere necessárias para os controlos das operações."
+  },
+  "e10c745bb023aff8": {
+   "fragment_id": "Artigo 48º",
+   "type": "artigo",
+   "heading": "Artigo 48º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48º\n\n1. Os controlos no estádio da primeira transformação e do acondicionamento do tabaco serão efectuados após uma análise de risco. Os Estados-membros procederão a controlos inopinados a fim de verificar o respeito do artigo 7º, do prazo para o pagamento do preço de compra, previsto no nº 3, alínea j), do artigo 9º, e do prazo para o pagamento do montante previsto no nº 3 do artigo 20º do presente regulamento.\n\n2. Os controlos no estádio da primeira transformação e do acondicionamento do tabaco devem ainda permitir verificar, em relação às empresas objecto de controlo, as quantidades de tabaco em folha produzidas na Comunidade, ou originárias ou provenientes de países terceiros, colocadas sob controlo e garantir que o tabaco a controlar não seja subtraído ao controlo enquanto as operações de primeira transformação e acondicionamento não estiverem concluídas e que nenhum tabaco possa ser apresentado várias vezes para controlo. Os controlos incluem:\n\na) Um controlo inopinado das existências da empresa de transformação;\n\nb) Um controlo aquando da saída do local de controlo do tabaco que foi sujeito às operações de primeira transformação e de acondicionamento;\n\nc) Todas as medidas de controlo suplementares que o Estado-membro considere necessárias, nomeadamente para evitar o pagamento de qualquer prémio em relação ao tabaco em rama originário ou proveniente de países terceiros.\n\n3. Os controlos no estádio da primeira transformação e do acondicionamento do tabaco incidirão em, pelo menos, 5 % das empresas de primeira transformação; a amostra objecto de controlo deve ser determinada pela autoridade competente, nomeadamente com base numa análise de risco e num elemento de representatividade das diferentes dimensões das empresas.\n\n4. A análise de risco terá em conta:\n\n- os resultados dos controlos nos anos anteriores,\n\n- a evolução registada em relação ao ano anterior,\n\n- outros parâmetros a determinar pelos Estados-membros.\n\nOs controlos referidos no nº 2 devem ser efectuados no próprio local em que é transformado o tabaco em folha. Num prazo definido pelo Estado-membro, as empresas interessadas indicarão por escrito aos organismos competentes os locais onde será realizada a transformação. Para o efeito, os Estados-membros podem definir as informações a fornecer pelas empresas de primeira transformação aos organismos competentes."
+  },
+  "65cb29737e9b2f00": {
+   "fragment_id": "CAPÍTULO II — Sanções",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Sanções"
+  },
+  "90bd77eb40b6cf55": {
+   "fragment_id": "Artigo 49º",
+   "type": "artigo",
+   "heading": "Artigo 49º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49º\n\nAs disposições do presente capítulo não são aplicáveis em casos de força maior."
+  },
+  "be3cc2e845b1b9ff": {
+   "fragment_id": "Artigo 50º",
+   "type": "artigo",
+   "heading": "Artigo 50º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50º\n\n1. Se não cultivar tabaco, o produtor individual perderá o direito de beneficiar do prémio em relação à colheita em curso e de receber uma quota de produção para a colheita seguinte.\n\n2. Se a superfície efectivamente cultivada for inferior em mais de 10 % à superfície declarada, o prémio a pagar ao produtor em causa a título da colheita em curso e a quota a atribuir eventualmente ao mesmo produtor a título da colheita seguinte serão diminuídos do dobro da diferença verificada.\n\n3. Se as sanções referidas nos nºs 1 e 2 forem aplicadas e o produtor individual for membro de um agrupamento de produtores, as quotas de produção indicadas na declaração de quota serão deduzidas das quantidades exactas objecto da sanção e relativas à quota de produção do produtor a penalizar na colheita em causa, sem que seja possível proceder a uma repartição diferente entre os membros do agrupamento de produtores.\n\n4. Se o controlo não puder ser efectuado por razões imputáveis ao produtor, a superfície será considerada não cultivada.\n\nAs sanções referidas nos nºs 1 e 2 não são aplicáveis no caso de o produtor, ou o transformador, ter comunicado as divergências, por escrito, aos organismos competentes antes da realização dos controlos e se, no que se refere à determinação da superfície, o produtor provar que se baseou correctamente em informações reconhecidas pela autoridade competente para determinar a superfície da percela em causa, com exclusão das serventias e das cercas.\n\n5. Se o organismo de controlo competente verificar a existência de tabaco que não tenha sido objecto da declaração referida no nº 2 do artigo 16º, a quantidade que deve constar da declaração de quota a que o produtor tem direito a título da colheita seguinte será diminuída do dobro da quantidade não declarada."
+  },
+  "435d891102743498": {
+   "fragment_id": "Artigo 51º",
+   "type": "artigo",
+   "heading": "Artigo 51º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51º\n\n1. No caso de não respeitarem as regras relativas à concessão de prémios constantes do anexo V do presente regulamento, os agrupamentos de produtores perderão o direito a beneficiar da ajuda específica relativa à campanha em curso. Será retirado o reconhecimento aos agrupamentos de produtores que, aquando de um segundo controlo, reincidam.\n\nOs erros materiais implicarão uma redução da ajuda específica relativa à colheita em curso. Essa redução, que será fixada pelo Estado-membro, irá de 1 % a 20 %, consoante a gravidade do erro. O agrupamento de produtores deve corrigir as consequências dos erros detectados.\n\n2. Se um agrupamento de produtores não respeitar as regras previstas nos nºs 2 e ao artigo 40º, a sua ajuda específica será reduzida de 20 % a 50 %, consoante a gravidade do erro. Será retirado o reconhecimento aos agrupamentos de produtores que reincidam.\n\nSe o prazo para o pagamento aos produtores membros de um agrupamento de produtores do montante total da parte fixa e da parte variável do prémio referido no nº 3 do artigo 18º do presente regulamento for ultrapassado em 30 dias, a ajuda específica será reduzida de 20 %. Cada período adicional de 30 dias, até um total de 150 dias, no máximo, implica a redução da ajuda específica de uma fracção suplementar de 20 %.\n\n3. Os administradores de um agrupamento de produtores responsáveis, deliberadamente ou por negligência grave, pela retirada do reconhecimento em aplicação dos nºs 1 e 2 não podem administrar outros agrupamentos de produtores nem apresentar um pedido de reconhecimento durante o ano de aplicação da sanção.\n\n4. O reconhecimento é retirado com base no disposto no artigo 6º"
+  },
+  "9df90d0b980e5586": {
+   "fragment_id": "Artigo 52º",
+   "type": "artigo",
+   "heading": "Artigo 52º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52º\n\nSe o tabaco não transformado não tiver sido entregue nos locais referidos no nº 1, segundo parágrafo, do artigo 16º ou se, no âmbito da transferência das quantidades distintas de tabaco referidas no nº 2 do artigo 47º do centro de compra para o estabelecimento de transformação, o transportador não possuir autorização de transporte, a empresa de transformação que tiver tomado a cargo o tabaco em infracção deve pagar ao Estado-membro um montante igual aos prémios correspondentes à quantidade de tabaco em causa. Esse montante será contabilizado a favor do Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA)."
+  },
+  "7775483d0c89e03f": {
+   "fragment_id": "Artigo 53º",
+   "type": "artigo",
+   "heading": "Artigo 53º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53º\n\n1. Se o prazo para o pagamento do preço de compra, previsto no nº 3, alínea j), do artigo 9º e o prazo para o pagamento do montante previsto no nº 3 do artigo 20º forem ultrapassados em 30 dias, a aprovação da empresa de primeira transformação será retirada por um ano. Cada período adicional, de 30 dias implica a retirada da aprovação por um período suplementar de um ano, até um máximo de três anos.\n\n2. Após um período de retirada, a empresa de primeira transformação deve apresentar um novo pedido de aprovação.\n\n3. Os administradores de uma empresa de primeira transformação responsáveis, deliberadamente e ou por negligência grave, pela retirada da aprovação não podem administrar outras empresas de primeira transformação aprovadas nem apresentar pedidos de aprovação durante o primeiro ano de aplicação da sanção."
+  },
+  "72144b200eaf5e9f": {
+   "fragment_id": "TÍTULO VIII — Comunicações à Comissão",
+   "type": "divisao",
+   "heading": "TÍTULO VIII — Comunicações à Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VIII — Comunicações à Comissão"
+  },
+  "115f244973ec7aec": {
+   "fragment_id": "Artigo 54º",
+   "type": "artigo",
+   "heading": "Artigo 54º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54º\n\nOs Estados-membros em causa comunicarão sem demora à Comissão:\n\na) A aplicação do disposto no nº l, segundo parágrafo da alínea e), do artigo 3º;\n\nb) A recusa ou a retirada do reconhecimento a um agrupamento de produtores, indicando os motivos da recusa ou da retirada;\n\nc) Os nomes e os endereços dos organismos competentes para o registo dos contratos de cultura, bem como das empresas de primeira transformação aprovadas em cada Estado-membro. A Comissão publicará a lista desses organismos e das empresas de primeira transformação aprovadas no Jornal Oficial das Comunidades Europeias, série C;\n\nd) A aplicação do disposto no nº 1 do artigo 12º;\n\ne) A aplicação do disposto no nº 1 do artigo 20º;\n\nf) As decisões que pretendam tomar em aplicação do nº 4 do artigo 27º;\n\ng) As medidas tomadas em conformidade com o artigo 28º;\n\nh) As regras de alimentação da reserva nacional e os critérios objectivos de repartição da reserva nacional adoptados em aplicação dos nºs 2 e 3 do artigo 29º;\n\ni) As quantidades definitivamente cedidas, por grupo de variedades, em aplicação do artigo 33º;\n\nj) As quantidades objecto de pedido de resgate de quotas e as quantidades resgatadas, por grupo de variedades, em aplicação do artigo 35º;\n\nk) As medidas nacionais adoptadas em aplicação do presente regulamento;\n\nl) Outras informações requeridas pela Comissão para a boa gestão do regime.\n\nA base de dados informatizada criada no âmbito do regime integrado servirá de suporte à comunicação das informações especificadas no presente artigo."
+  },
+  "a10406228d535d42": {
+   "fragment_id": "TÍTULO IX — Disposições transitórias e finais",
+   "type": "divisao",
+   "heading": "TÍTULO IX — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IX — Disposições transitórias e finais"
+  },
+  "bdd9a7047b9b029c": {
+   "fragment_id": "Artigo 55º",
+   "type": "artigo",
+   "heading": "Artigo 55º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55º\n\nEm relação à colheita de 1999, e em derrogação do nº 1, segundo travessão da alínea f), do artigo 3º, os produtores membros de vários agrupamentos de produtores poderão notificar o agrupamento, por escrito, da sua renúncia à qualidade de membros até 31 de Janeiro de 1999."
+  },
+  "35caf30af7d7ce18": {
+   "fragment_id": "Artigo 56º",
+   "type": "artigo",
+   "heading": "Artigo 56º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56º\n\nSão revogados, com efeitos a partir da data de aplicação do presente regulamento, os Regulamentos (CEE) nº 3478/92, (CEE) nº 84/93 e (CE) nº 1066/95."
+  },
+  "8d49489021653065": {
+   "fragment_id": "Artigo 57º",
+   "type": "artigo",
+   "heading": "Artigo 57º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir da colheita de 1999.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 22 de Dezembro de 1998.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO L 215 de 30. 7. 1992, p. 70.\n\n(2) JO L 210 de 20. 7. 1998, p. 23.\n\n(3) JO L 351 de 2. 12. 1992, p. 17.\n\n(4) JO L 206 de 23. 7. 1998, p. 19.\n\n(5) JO L 12 de 20. 1. 1993, p. 5.\n\n(6) JO L 89 de 10. 4. 1996, p. 8.\n\n(7) JO L 108 de 13. 5. 1995, p. 5.\n\n(8) JO L 355 de 5. 12. 1992, p. 1.\n\n(9) JO L 117 de 7. 5. 1997, p. 1.\n\n(10) JO L 391 de 31. 12. 1992, p. 36.\n\n(11) JO L 212 de 30. 7. 1998, p. 23."
+  },
+  "f1dcd38a5979a2f4": {
+   "fragment_id": "ANEXO I — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO I — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — >POSIÇÃO NUMA TABELA>"
+  },
+  "17bd5a7b0a91ad4d": {
+   "fragment_id": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >POSIÇÃO NUMA TABELA>"
+  },
+  "e28cc9c64256668d": {
+   "fragment_id": "ANEXO III — EXIGÊNCIAS QUALITATIVAS MÍNIMAS",
+   "type": "divisao",
+   "heading": "ANEXO III — EXIGÊNCIAS QUALITATIVAS MÍNIMAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — EXIGÊNCIAS QUALITATIVAS MÍNIMAS\n\nÉ elegível ao prémio previsto no artigo 3º do Regulamento (CEE) nº 2075/92 o tabaco de qualidade sã, íntegra e comercializável, atendendo às características típicas da variedade em causa e isento das características seguintes:\n\na) Pedaços de folhas;\n\nb) Folhas muito danificadas pelo granizo;\n\nc) Folhas com graves defeitos de integridade e cuja superfície danificada é superior a um terço;\n\nd) Folhas atingidas em mais de 25 % da sua superfície por doenças ou pelo ataque de insectos;\n\ne) Folhas com resíduos de pesticidas;\n\nf) Folhas com maturação insuficiente ou de coloração nitidamente verde;\n\ng) Folhas queimadas pela geada;\n\nh) Folhas com bolor ou apodrecidas;\n\ni) Folhas com nervuras não secas, húmidas ou afectadas por podridões ou com nervuras polpudas ou não reduzidas;\n\nj) Folhas provenientes de gomos;\n\nk) Folhas com um cheiro anormal para a variedade em questão;\n\nl) Folhas sujas com terra aderente;\n\nm) Folhas cuja taxa de humidade excede em mais de 4 pontos a taxa de humidade fixada no anexo IV."
+  },
+  "eddb18c95de65103": {
+   "fragment_id": "ANEXO IV — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO IV — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — >POSIÇÃO NUMA TABELA>"
+  },
+  "c8eda423d0e34a3e": {
+   "fragment_id": "ANEXO V — A. Regras de repartição do prémio",
+   "type": "divisao",
+   "heading": "ANEXO V — A. Regras de repartição do prémio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — A. Regras de repartição do prémio\n\n1. O prémio inclui:\n\n- ajuda específica = 2 % do prémio,\n\n- parte variável do prémio = percentagem do prémio adaptada por grupo varietal por Estado-membro, como fixado no ponto B) e no respeito do nº 1 do artigo 15º do presente regulamento,\n\n- parte fixa do prémio = diferença entre o prémio após dedução da retenção para o fundo e a adição da ajuda específica à parte variável do prémio.\n\n2. O montante suplementar fixado no nº 2 do artigo 3º do Regulamento (CEE) nº 2075/92 é adicionado à parte fixa do prémio.\n\nB. Relação entre a parte variável e o prémio\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\nC. Parte variável do prémio\n\nA parte variável do prémio é igual a:\n\n[\n\n>NUM>A/\n\n>DEN>soma(QL × PP)\n\n] × (QL × PP).\n\nSendo A o montante total do prémio variável à disposição do agrupamento de produtores para um grupo de variedades, QL a quantidade entregue por lote e PP o preço de compra de cada lote do membro do agrupamento de produtores para o grupo em causa.\n\nEm relação a cada grupo de variedades, o agrupamento de produtores deve dividir o montante total do prémio variável disponível para o grupo de variedades em causa pela soma das quantidades entregues por lote multiplicado pelo preço de compra de cada lote. O resultado dessa divisão deve ser multiplicado pelo produto da quantidade de cada lote multiplicada pelo seu preço de compra. Os lotes que obtiverem preços compreendidos entre o preço mínimo para cada grupo de variedades do agrupamento de produtores e esse preço mínimo acrescido de 40 % recebem um prémio variável igual a zero."
+  },
+  "09b80049795e6898": {
+   "fragment_id": "ANEXO VI — MÉTODOS COMUNITÁRIOS PARA DETERMINAR O GRAU DE HUMIDADE DO TABACO EM RAMA",
+   "type": "divisao",
+   "heading": "ANEXO VI — MÉTODOS COMUNITÁRIOS PARA DETERMINAR O GRAU DE HUMIDADE DO TABACO EM RAMA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — MÉTODOS COMUNITÁRIOS PARA DETERMINAR O GRAU DE HUMIDADE DO TABACO EM RAMA\n\nI. PROCESSOS A UTILIZAR\n\nA. Processo Beaudesson\n\n1. Equipamento\n\nEstufa Beaudesson EM 10\n\nSecador eléctrico a ar quente, em que o ar atravessa a amostra a secar por convecção forçada com o auxílio de um ventilador ad hoc. O grau de humidade é determinado por pesagem antes e depois da secagem, devendo a balança ser graduada de maneira a que a indicação obtida para a massa de 10 gramas com que se trabalha corresponda directamente ao valor do grau de humidade em % (percentagem).\n\n2. Modo operatório\n\nPesa-se uma amostra de 10 gramas num cadinho de fundo perfurado, introduzindo-o depois na coluna de secagem onde é fixado por anel metálico. Põe-se a estufa em funcionamento por cinco minutos, durante os quais o ar quente provoca a secagem da amostra a uma temperatura próxima de 100 graus Celsius. Passados cinco minutos, o processo pára automaticamente. Um termómetro incorporado permite ler a temperatura atingida pelo ar no fim da secagem. Pesa-se a amostra, cuja humidade é lida directamente e corrigida, se necessário, mediante a adição ou a subtracção de alguns décimos de % consoante a temperatura obtida, de acordo com uma tabela fixada no aparelho.\n\nB. Processo Brabender\n\n1. Equipamento\n\nEstufa Brabender\n\nSecador eléctrico constituído por uma câmara cilíndrica termoregulada e ventilada por convecção forçada em que se colocam simultaneamente dez recipientes metálicos com 10 gramas de tabaco cada um. Estes recipientes são colocados sobre um prato giratório com dez posições equipado com um volante de manobra central que permite levar sucessivamente cada um dos recipientes, após a secagem, a um posto de pesagem incorporado no aparelho; um sistema de alavancas permite colocar sucessivamente os recipientes no braço de uma balança incorporada, sem ter de tirar as amostras da câmara. A balança tem indicador óptico e permite a leitura directa do grau de humidade. Anexa ao aparelho existe uma segunda balança que serve apenas para a preparação das amostras iniciais.\n\n2. Modo operatório\n\nRegular o termómetro para 110° Celsius.\n\nPré-aquecer a câmara pelo menos durante 15 minutos.\n\nPreparar 10 amostras de 10 gramas por pesagem.\n\nIntroduzir as amostras na estufa.\n\nSecar durante 50 minutos.\n\nLer os pesos para determinar os graus de humidade brutos.\n\nC. Outros métodos\n\nOs Estados-membros podem utilizar outros métodos de medição, baseados, nomeadamente, na determinação da resistência eléctrica ou na propriedade dieléctrica do lote em causa, na condição de calibrar esses resultados com base na análise de uma amostragem representativa, utilizando um dos métodos referidos nos pontos A e B.\n\nII. COLHEITA DE AMOSTRAS\n\nPara a colheita de amostras de tabaco em folha, com vista à determinação do respectivo grau de humidade, segundo um dos métodos referidos em I.A e B, proceder-se-á da maneira seguinte:\n\n1. Estratificação do lote\n\nRetirar de cada um dos pacotes um número de folhas proporcional ao peso respectivo. O número de folhas deve ser suficiente para representar correctamente o pacote.\n\nÉ necessário retirar o mesmo número de folhas exteriores, folhas interiores e folhas intermédias.\n\n2. Homogeneização\n\nTodas as folhas retiradas são misturadas num saco plástico, procedendo-se seguidamente ao corte de alguns quilogramas (largura de corte de 0,4 a 2 milímetros).\n\n3. Segunda colheita de amostras\n\nApós o corte, misturar o tabaco com muito cuidado e tirar uma amostra representativa.\n\n4. Medições\n\nAs medições devem ser efectuadas na totalidade da amostra assim reduzida, devendo ser tomadas precauções para que:\n\n- não haja variações de humidade (recipiente ou saco estanque),\n\n- não haja perda de homogeneidade por decantação (resíduos).\n\nIII. NÍVEIS E FREQUÊNCIA DA COLHEITA DE AMOSTRAS E MODO DE CÁLCULO DO PRESO ADAPTADO\n\n- O número de amostras a colher para determinar o grau de humidade do tabaco em rama deve ser, para cada entrega, pelo menos igual a três por produtor e por grupo de variedades. O produtor, bem como a empresa de primeira transformação, pode solicitar, aquando da entrega do tabaco, o aumento do número de amostras a colher.\n\n- O peso do tabaco entregue durante um mesmo dia por grupo de variedades é adaptado com base na média do grau de humidade medido. Se o grau médio de humidade medido for inferior ou superior em menos de um ponto à humidade de referência não se procederá à adaptação do peso para efeitos de prémio.\n\n- O peso adaptado é o peso total líquido do tabaco entregue durante um mesmo dia por grupo de variedades × >NUM>(100 - índice de humidade médio)/\n\n>DEN>(100 - índice de humidade de referência para a variedade em causa)\n\n. O índice de humidade médio deve ser um valor inteiro, arredondado para a unidade inferior para as decimais entre 0,01 e 0,49 e para a unidade superior para as decimais entre 0,50 e 0,99."
+  },
+  "abf929ef1541d39a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1998R2848 — PT — 01.01.2006 — 013.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31998R2848) [REGULAMENTO (CE) N.º 2848/98 DA COMISSÃO](http://publications.europa.eu/resource/celex/31998R2848) [de 22 de Dezembro de 1998](http://publications.europa.eu/resource/celex/31998R2848) [que estabelece normas de execução do Regulamento (CEE) n.º 2075/92 do Conselho no que se refere ao regime de prémios, às quotas de produção e à ajuda específica a conceder aos agrupamentos de produtores no sector do tabaco em rama](http://publications.europa.eu/resource/celex/31998R2848) (JO L 358, 31.12.1998, p.17)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 2182/2005 da Comissão de 22 de Dezembro de 2005](http://publications.europa.eu/resource/celex/32005R2182) — L 347 — 31 — 30.12.2005"
+  }
+ }
+}

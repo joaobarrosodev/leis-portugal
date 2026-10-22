@@ -35,6 +35,55 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2002-12-19'
+version_history:
+  file: diretiva-ue-1990-619.versoes.json
+  count: 2
+  source_lastmod: '2002-12-19'
+  versions:
+  - date: '1990-11-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-12-19'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I Disposições gerais — Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime TÍTULO II Disposições complementares da Primeira Directiva — Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime TÍTULO IIIA
+    - Suprime TÍTULO IIIB
+    - Suprime Artigo 9o
+    - Suprime Artigo 32oB
+    - Suprime TÍTULO III Disposições específicas para a livre prestação de serviços — Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+    - Suprime Artigo 15o
+    - Suprime Artigo 16o
+    - Suprime Artigo 17o
+    - Suprime Artigo 18o
+    - Suprime Artigo 19o
+    - Suprime Artigo 20o
+    - Suprime Artigo 21o
+    - Suprime Artigo 22o
+    - Suprime Artigo 23o
+    - Suprime Artigo 24o
+    - Suprime Artigo 25o
+    - Suprime TÍTULO IV Disposições transitórias — Artigo 26o
+    - Suprime Artigo 27o
+    - Suprime TÍTULO V Disposições finais — Artigo 28o
+    - Suprime Artigo 29o
+    - Suprime Artigo 30o
+    - Suprime Artigo 31o
+    - Suprime Artigo 32o
 identifiers:
   celex: 31990L0619
   eli: http://data.europa.eu/eli/dir/1990/619/oj
@@ -49,7 +98,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c5c97cc3-2038-4942-b897-a351ed81e5d6.0011
   content_url: http://publications.europa.eu/resource/cellar/f03aac26-476a-47fd-8b40-e7c1ba14a5c4.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0619-20021219
-  retrieved_at: '2026-10-22T02:55:22Z'
+  retrieved_at: '2026-10-22T14:37:08Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T02:32:57.510+01:00'
 integrity:
@@ -58,9 +107,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:55:22Z'
-  notes: Texto consolidado 01990L0619-20021219.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:37:08Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1990-619.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -142,16 +191,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:55:22Z'
+  checked_at: '2026-10-22T14:37:08Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01990L0619-19921121: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0619-20021009: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

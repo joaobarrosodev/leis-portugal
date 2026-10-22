@@ -1,0 +1,59 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31985L0007:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01985L0007-20000526",
+ "dre_path": null,
+ "source_lastmod": "2000-05-26",
+ "versions": [
+  {
+   "date": "1985-01-03",
+   "future": false,
+   "celex": "31985L0007",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2000-05-26",
+   "future": false,
+   "celex": "01985L0007-20000526",
+   "acts": [],
+   "changes": [
+    "Adita preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º"
+   ],
+   "fragments": [
+    "287e45845d37cf61",
+    "adc8a2ff2712c35c",
+    "097716b4d97abf63"
+   ]
+  }
+ ],
+ "fragments": {
+  "287e45845d37cf61": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1985L0007 — PT — 26.05.2000 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31985L0007:PT:NOT) [DIRECTIVA DO CONSELHO de 19 de Dezembro de 1984 que altera uma primeira série de directivas relativas à aproximação das legislações dos Estados-membros no domínio dos géneros alimentícios no que respeita à intervenção do Comité Permanente dos Géneros Alimentícios (85/7/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31985L0007:PT:NOT) (JO L 002, 3.1.1985, p.22)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000L0013:PT:NOT) | [Directiva 2000/13/CE do Parlamento Europeu e do Conselho de 20 de Março de 2000](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000L0013:PT:NOT) | L 109 | 29 | 6.5.2000 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31985L0007:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 19 de Dezembro de 1984\n\nque altera uma primeira série de directivas relativas à aproximação das legislações dos Estados-membros no domínio dos géneros alimentícios no que respeita à intervenção do Comité Permanente dos Géneros Alimentícios\n\n(85/7/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.o,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que, por força do primeiro parágrafo do artigo 2.o da Decisão 69/414/CEE do Conselho, de 13 de Novembro de 1969, que institui um Comité Permanente dos Géneros Alimentícios ([1](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#E0001)), este último exerce as funções que lhe são atribuídas pelas disposições adoptadas pelo Conselho no domínio dos géneros alimentícios, nos casos e nas condições previstas nessas disposições;\n\nConsiderando que, além das funções consultivas, o Comité é chamado a assegurar uma colaboração estreita entre os Estados-membros e a Comissão nos casos em que esta exerce a competência que o Conselho lhe atribuir para execução das regras por ele estabelecidas;\n\nConsiderando que a maior parte das disposições que foram adoptadas pelo Conselho atribuiram ao Comité o exercício de funções, no domínio que lhes diz respeito, durante um período de dezoito meses;\n\nConsiderando que a fixação deste período tinha por objectivo verificar na prática legislativa se o processo de intervenção do Comité era satisfatório e que é conveniente, com a mesma finalidade, aumentar para dois anos o referido período,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "adc8a2ff2712c35c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNas disposições seguintes:\n\n1. Artigo 11.o da Directiva do Conselho de 23 de Outubro de 1962, relativa à aproximação das regulamentações dos Estados-membros respeitantes aos corantes que podem ser utilizados nos géneros destinados à alimentação humana ([2](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#E0002)), com a última redacção que lhe foi dada pela Directiva 81/20/CEE ([3](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#E0003));\n\n2. Artigo 8.o da Directiva 64/54/CEE do Conselho, de 5 de Novembro de 1963, relativa à aproximação das legislações dos Estados-membros respeitantes aos conservantes que podem ser utilizados nos géneros destinados à alimentação humana ([4](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#E0004)), com a última redacção que lhe foi dada pela Directiva 84/86/CEE ([5](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#E0005));\n\n3. Artigo 7.o da Directiva 70/357/CEE do Conselho, de 13 de Julho de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes às substâncias antioxidantes, que podem ser utilizadas nos géneros destinados à alimentação humana ([6](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#E0006)), com a última redacção que lhe foi dada pela Directiva 81/962/CEE ([7](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#E0007));\n\n4. Artigo 13.o da Directiva 73/241/CEE do Conselho, de 24 de Julho de 1973, relativa à aproximação das legislações dos Estados-membros respeitantes aos produtos de cacau e de chocolate destinados à alimentação humana ([8](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#E0008)), com a última redacção que lhe foi dada pela Directiva 80/608/CEE ([9](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#E0009));\n\n5. Artigo 11.o da Directiva 74/329/CEE do Conselho, de 18 de Junho de 1974, relativa à aproximação das legislações dos Estados-membros respeitantes aos emulsionantes, estabilizadores, espessantes e gelificantes que podem ser utilizados nos géneros alimentícios ([10](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#E0010)), com a última redacção que lhe foi dada pela Directiva 80/597/CEE ([11](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#E0011));\n\n6. Artigo 11.o da Directiva 76/893/CEE do Conselho, de 23 de Novembro de 1976, relativa à aproximação das legislações dos Estados-membros respeitantes aos materiais e objectos destinados a entrar em contacto com os géneros alimentícios ([12](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#E0012)), com a última redacção que lhe foi dada pela Directiva 80/1276/CEE ([13](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#E0013));\n\n7. Artigo 10.o da Directiva 77/94/CEE do Conselho, de 21 de Dezembro de 1976, relativa à aproximação das legislações dos Estados-membros respeitantes aos géneros alimentícios destinados a uma alimentação especial ([14](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#E0014)), alterada pelo Acto de Adesão de 1979;\n\n8. Artigo 10.o da Directiva 77/436/CEE do Conselho, de 27 de Junho de 1977, relativa à aproximação das legislações dos Estados-membros respeitantes aos extractos de café e aos extractos de chicória ([15](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#E0015)), alterada pelo Acto de Adesão de 1979;\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000L0013:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31985L0007:PT:NOT)\n\n10. Artigo 13.o da Directiva 80/777/CEE do Conselho, de 15 de Julho de 1980, relativa à aproximação das legislações dos Estados-membros repeitantes à exploração e comercialização das águas minerais naturais ([16](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#E0017)), alterada pela Directiva 80/1276/CEE;\n\nA expressão «durante um período de dezoito meses a contar da data em que o assunto foi submetido pela primeira vez à apreciação do Comité» é substituída pela expressão «durante um período de dois anos a contar da data em que o assunto foi submetido pela primeira vez à apreciação do Comité, depois de 1 de Janeiro de 1985»."
+  },
+  "097716b4d97abf63": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-membros são destinatários da presente Directiva.\n\n([1](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#src.E0001)) JO n.o L 291 de 19.11.1969, p. 9.\n\n([2](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#src.E0002)) JO n.o 115 de 11.11.1962, p. 2645/62.\n\n([3](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#src.E0003)) JO n.o L 43 de 14.2.1981, p. 11.\n\n([4](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#src.E0004)) JO n.o 12 de 27.1.1964, p. 161/64.\n\n([5](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#src.E0005)) JO n.o L 40 de 11.2.1984, p. 29.\n\n([6](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#src.E0006)) JO n.o L 157 de 18.7.1970, p. 31.\n\n([7](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#src.E0007)) JO n.o L 354 de 9.12.1981, p. 22.\n\n([8](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#src.E0008)) JO n.o L 228 de 16.8.1973, p. 23.\n\n([9](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#src.E0009)) JO n.o L 170 de 3.7.1980, p. 33.\n\n([10](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#src.E0010)) JO n.o L 189 de 12.7.1974, p. 1.\n\n([11](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#src.E0011)) JO n.o L 155 de 23.6.1980, p. 23.\n\n([12](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#src.E0012)) JO n.o L 340 de 9.12.1976, p. 19.\n\n([13](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#src.E0013)) JO n.o L 375 de 31.12.1980, p. 77.\n\n([14](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#src.E0014)) JO n.o L 26 de 31.1.1977, p. 55.\n\n([15](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#src.E0015)) JO n.o L 172 de 12.7.1977, p. 20.\n\n([16](http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1#src.E0017)) JO n.o L 229 de 30.8.1980, p. 1."
+  }
+ }
+}

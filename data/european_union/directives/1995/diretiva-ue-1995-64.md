@@ -34,6 +34,117 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-06-26'
+version_history:
+  file: diretiva-ue-1995-64.versoes.json
+  count: 4
+  source_lastmod: '2009-06-26'
+  versions:
+  - date: '1995-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-01-01'
+    amending: eu:celex:31998D0385:por
+    amending_title: DECISÃO DA COMISSÃO de 13 de Maio de 1998; M2; REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E
+      DO CONSELHO de 29 de Setembro de 2003; DECISÃO DA COMISSÃO de 4 de Março de 2005
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 3.º — Características da recolha de dados
+    - Adita Artigo 4.º — Portos
+    - Adita Artigo 5.º — Exactidão das estatísticas
+    - Adita Artigo 6.º — Tratamento dos resultados da recolha de dados
+    - Adita Artigo 7.º — Transmissão dos resultados da recolha de dados
+    - Adita Artigo 8.º — Relatórios
+    - Adita Artigo 9.º — Divulgação dos dados estatísticos
+    - Adita Artigo 10.º — Período de transição
+    - Adita Artigo 11.º — Contribuição financeira
+    - Adita Artigo 12.º — Regras de aplicação
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º — Aplicação
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita ANEXO I
+    - Adita VARIÁVEIS E DEFINIÇÕES
+    - Adita 1. Variáveis estatísticas
+    - 'Adita a) Informações relativas às mercadorias e passageiros:'
+    - 'Adita b) Informações relativas aos navios:'
+    - Adita 2. Definições
+    - Adita ANEXO II
+    - Adita CLASSIFICAÇÃO DO TIPO DE CARGA
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Adita ZONAS COSTEIRAS MARÍTIMAS
+    - Adita Com os códigos suplementares
+    - Adita ANEXO V
+    - Adita NACIONALIDADE DE REGISTO DO NAVIO
+    - Adita ANEXO VI
+    - Adita NOMENCLATURA DO TIPO DE NAVIO (ICST-COM)
+    - Adita ANEXO VII
+    - Adita CLASSES DOS NAVIOS
+    - Adita expressas em toneladas de porte bruto (TPB) ou em arqueação bruta (TB)
+    - Adita ANEXO VIII
+    - Adita ESTRUTURA DOS CONJUNTOS DE DADOS ESTATÍSTICOS
+    - Adita ESTATÍSTICAS SUMÁRIAS E PORMENORIZADAS
+    - 'Adita Conjunto de dados A1: Transportes marítimos nos principais portos europeus, por porto, tipo de carga e relação'
+  - date: '2008-01-01'
+    amending: eu:celex:32007R1304:por
+    amending_title: REGULAMENTO (CE) N. o 1304/2007 DA COMISSÃO de 7 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Transmissão dos resultados da recolha de dados
+    - Altera Artigo 13.º
+    - Altera CLASSIFICAÇÃO DO TIPO DE CARGA
+    - Altera ANEXO III
+    - Altera ZONAS COSTEIRAS MARÍTIMAS
+    - Altera NACIONALIDADE DE REGISTO DO NAVIO
+    - Altera NOMENCLATURA DO TIPO DE NAVIO (ICST-COM)
+    - Altera Notas
+  - date: '2009-06-26'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Características da recolha de dados
+    - Suprime Artigo 4.º — Portos
+    - Suprime Artigo 5.º — Exactidão das estatísticas
+    - Suprime Artigo 6.º — Tratamento dos resultados da recolha de dados
+    - Suprime Artigo 7.º — Transmissão dos resultados da recolha de dados
+    - Suprime Artigo 8.º — Relatórios
+    - Suprime Artigo 9.º — Divulgação dos dados estatísticos
+    - Suprime Artigo 10.º — Período de transição
+    - Suprime Artigo 11.º — Contribuição financeira
+    - Suprime Artigo 12.º — Regras de aplicação
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º — Aplicação
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime ANEXO I
+    - Suprime VARIÁVEIS E DEFINIÇÕES
+    - Suprime 1. Variáveis estatísticas
+    - 'Suprime a) Informações relativas às mercadorias e passageiros:'
+    - 'Suprime b) Informações relativas aos navios:'
+    - Suprime 2. Definições
+    - Suprime ANEXO II
+    - Suprime CLASSIFICAÇÃO DO TIPO DE CARGA
+    - Suprime ANEXO III
+    - Suprime ANEXO IV
+    - Suprime ZONAS COSTEIRAS MARÍTIMAS
+    - Suprime Com os códigos suplementares
+    - Suprime ANEXO V
+    - Suprime NACIONALIDADE DE REGISTO DO NAVIO
+    - Suprime ANEXO VI
+    - Suprime NOMENCLATURA DO TIPO DE NAVIO (ICST-COM)
+    - Suprime ANEXO VII
+    - Suprime CLASSES DOS NAVIOS
+    - Suprime expressas em toneladas de porte bruto (TPB) ou em arqueação bruta (TB)
+    - Suprime ANEXO VIII
+    - Suprime ESTRUTURA DOS CONJUNTOS DE DADOS ESTATÍSTICOS
+    - Suprime ESTATÍSTICAS SUMÁRIAS E PORMENORIZADAS
+    - 'Suprime Conjunto de dados A1: Transportes marítimos nos principais portos europeus, por porto, tipo de carga e relação'
 identifiers:
   celex: 31995L0064
   eli: http://data.europa.eu/eli/dir/1995/64/oj
@@ -48,7 +159,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1f16cd6e-4287-4dc2-91a8-972d8639539f.0011
   content_url: http://publications.europa.eu/resource/cellar/eb15a714-8adb-4515-be83-34b02b2f66a0.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0064-20090626
-  retrieved_at: '2026-10-22T02:46:59Z'
+  retrieved_at: '2026-10-22T14:44:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T17:36:38.294+01:00'
 integrity:
@@ -57,9 +168,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:59Z'
-  notes: Texto consolidado 01995L0064-20090626.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:44:19Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1995-64.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -143,16 +254,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:59Z'
+  checked_at: '2026-10-22T14:44:19Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01995L0064-19980514: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995L0064-20000605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995L0064-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

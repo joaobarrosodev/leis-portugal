@@ -1,0 +1,127 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003L0083:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0083-20031015",
+ "dre_path": null,
+ "source_lastmod": "2003-10-15",
+ "versions": [
+  {
+   "date": "2003-09-25",
+   "future": false,
+   "celex": "32003L0083",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3847389ce27e60ae",
+    "6165115f28e59f7e",
+    "681a7bba7f2371e1",
+    "625a57e2122e0309",
+    "e94d405d25e46d3e",
+    "10714e25e8ff4f0e",
+    "a5f3b5913c24fcb5"
+   ]
+  },
+  {
+   "date": "2003-10-15",
+   "future": false,
+   "celex": "02003L0083-20031015",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º",
+    "Altera ANEXO"
+   ],
+   "fragments": [
+    "19edd315f30f5cc7",
+    "6165115f28e59f7e",
+    "681a7bba7f2371e1",
+    "625a57e2122e0309",
+    "e94d405d25e46d3e",
+    "c2768784123201be",
+    "4c386964b424acbf"
+   ]
+  }
+ ],
+ "fragments": {
+  "3847389ce27e60ae": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2003/83/CE da Comissão, de 24 de Setembro de 2003, que adapta ao progresso técnico os anexos II, III e VI da Directiva 76/768/CEE do Conselho relativa à aproximação das legislações dos Estados-Membros respeitantes aos produtos cosméticos (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 238 de 25/09/2003 p. 0023 - 0027*\n\nDirectiva 2003/83/CE da Comissão\n\nde 24 de Setembro de 2003\n\nque adapta ao progresso técnico os anexos II, III e VI da Directiva 76/768/CEE do Conselho relativa à aproximação das legislações dos Estados-Membros respeitantes aos produtos cosméticos\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 76/768/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-Membros respeitantes aos produtos cosméticos(1) com a última redacção que lhe foi dada pela Directiva 2003/80/CE da Comissão(2), e, nomeadamente, o n.o 2 do seu artigo 8.o,\n\nApós consulta do Comité Científico dos produtos cosméticos e dos produtos não-alimentares destinados aos consumidores,\n\nConsiderando o seguinte:\n\n(1) Peróxido de benzoílo e hidroquinona metiléter (sinónimo de 4-metoxifenol) constam actualmente da lista do anexo II; a hidroquinona já está sujeita às restrições e condições estabelecidas no anexo III. O Comité Científico dos produtos cosméticos e dos produtos não-alimentares destinados aos consumidores, em seguida designado CCPCPNA, concluiu que, dado que a exposição do consumidor era muito baixa, a utilização de peróxido de benzoílo, hidroquinona e hidroquinona metiléter em conjuntos de unhas artificiais não representa um risco. Por conseguinte, o número de ordem 178 do anexo II e o número de ordem 14 do anexo III, primeira parte, devem ser alterados em conformidade; o número de ordem 382 do anexo II deve ser eliminado e os números de ordem 94 e 95 aditados ao anexo III, primeira parte.\n\n(2) O CCPCPNA é de opinião que os efeitos toxicológicos dos sais de dialcanolamina, e, em particular, a sua prontidão para a formação de nitrosaminas são similares às respectivas propriedades das dialcanolaminas e que as dialquilaminas e os seus sais têm propriedades muito similares às dos respectivos análogos de dialcanolaminas, no que diz respeito à formação de nitrosaminas. Os termos \"dialcanolaminas\" e \"dialquilaminas\" são sinónimos de \"alcanolaminas secundárias\" e \"alquilaminas secundárias\", sendo os últimos menos ambíguos. Por conseguinte, o número de ordem 411 do anexo II e os números de ordem 60, 61 e 62 do anexo III, primeira parte, devem ser alterados em conformidade.\n\n(3) O CCPCPNA concluiu que o composto 3-óxido de 2,4-diaminopirimidina (número CAS 74638-76-9) pode ser utilizado com segurança nos produtos cosméticos até à concentração máxima de 1,5 %. Por conseguinte, o 3-óxido de 2,4-diaminopirimidina deve ser incluído no anexo III, primeira parte, com o número de ordem 93.\n\n(4) O CCPCPNA é de opinião que a utilização de 1,2-dibromo-2,4-dicianobutano deve ser restringida aos produtos destinados a serem enxaguados, ao nível máximo actualmente permitido de 0,1 %. Assim, o número de ordem 36 do anexo VI, primeira parte, deve ser alterado em conformidade.\n\n(5) Por conseguinte, a Directiva 76/768/CEE deve ser alterada em conformidade.\n\n(6) As medidas previstas na presente directiva são conformes ao parecer do Comité Permanente dos produtos cosméticos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "6165115f28e59f7e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs anexos II, III e VI da Directiva 76/768/CEE são alterados como definido no anexo da presente directiva."
+  },
+  "681a7bba7f2371e1": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros tomarão as medidas necessárias para que, a partir de 24 de Março de 2005, não sejam introduzidos no mercado, pelos fabricantes comunitários ou pelos importadores estabelecidos na Comunidade, produtos cosméticos que não cumpram a presente directiva.\n\n2. Os Estados-Membros tomarão as medidas necessárias para que os produtos mencionados no n.o 1 não sejam vendidos ou disponibilizados ao consumidor final após 24 de Setembro de 2005."
+  },
+  "625a57e2122e0309": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar até 24 de Setembro de 2004. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-Membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou serem acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros."
+  },
+  "e94d405d25e46d3e": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia."
+  },
+  "10714e25e8ff4f0e": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 24 de Setembro de 2003.\n\nPela Comissão\n\nErkki Liikanen\n\nMembro da Comissão\n\n(1) JO L 262 de 27.9.1976, p. 169.\n\n(2) JO L 224 de 6.9.2003, p. 27."
+  },
+  "a5f3b5913c24fcb5": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nOs anexos II, III e VI da Directiva 76/768/CEE do Conselho são alterados do seguinte modo:\n\n1. O anexo II é alterado do seguinte modo:\n\na) O número de ordem 178 passa a ter a seguinte redacção:\n\n\"178. 4-Benzoíloxifenol e 4-etoxifenol\";\n\nb) O número de ordem 382 é eliminado.\n\nc) O número de ordem 411 passa a ter a seguinte redacção:\n\n\"411. Alquil- e alcanolaminas secundárias e seus sais\".\n\n2. A primeira parte do anexo III é alterada do seguinte modo:\n\na) O número de ordem 14 passa a ter a seguinte redacção:\n\n\">POSIÇÃO NUMA TABELA>\"\n\nb) Os números de ordem 60, 61 e 62 passam a ter a seguinte redacção:\n\n\">POSIÇÃO NUMA TABELA>\"\n\nc) Os números de ordem 93, 94 e 95 são aditados:\n\n\">POSIÇÃO NUMA TABELA>\"\n\n3. No anexo VI, primeira parte, o número de ordem 36 passa a ter a seguinte redacção:\n\n\">POSIÇÃO NUMA TABELA>\""
+  },
+  "19edd315f30f5cc7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "2003L0083 — PT — 15.10.2003 — 000.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0083:PT:NOT) [DIRECTIVA 2003/83/CE DA COMISSÃO de 24 de Setembro de 2003 que adapta ao progresso técnico os anexos II, III e VI da Directiva 76/768/CEE do Conselho relativa à aproximação das legislações dos Estados-Membros respeitantes aos produtos cosméticos (Texto relevante para efeitos do EEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0083:PT:NOT) (JO L 238, 25.9.2003, p.23)\n\nRectificado por:\n\n[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0083R(01):PT:NOT) [Rectificação, JO L 058, 26.2.2004, p. 28 (03/83)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0083R(01):PT:NOT)\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0083:PT:NOT)\n\nDIRECTIVA 2003/83/CE DA COMISSÃO\n\nde 24 de Setembro de 2003\n\nque adapta ao progresso técnico os anexos II, III e VI da Directiva 76/768/CEE do Conselho relativa à aproximação das legislações dos Estados-Membros respeitantes aos produtos cosméticos\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 76/768/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-Membros respeitantes aos produtos cosméticos ([1](http://publications.europa.eu/resource/cellar/6010e985-ff85-416b-985d-fa1ceb1529f8.0005.02/DOC_1#E0001)) com a última redacção que lhe foi dada pela Directiva 2003/80/CE da Comissão ([2](http://publications.europa.eu/resource/cellar/6010e985-ff85-416b-985d-fa1ceb1529f8.0005.02/DOC_1#E0002)), e, nomeadamente, o n.o 2 do seu artigo 8.o,\n\nApós consulta do Comité Científico dos produtos cosméticos e dos produtos não-alimentares destinados aos consumidores,\n\n(1) Peróxido de benzoílo e hidroquinona metiléter (sinónimo de 4-metoxifenol) constam actualmente da lista do anexo II; a hidroquinona já está sujeita às restrições e condições estabelecidas no anexo III. O Comité Científico dos produtos cosméticos e dos produtos não-alimentares destinados aos consumidores, em seguida designado CCPCPNA, concluiu que, dado que a exposição do consumidor era muito baixa, a utilização de peróxido de benzoílo, hidroquinona e hidroquinona metiléter em conjuntos de unhas artificiais não representa um risco. Por conseguinte, o número de ordem 178 do anexo II e o número de ordem 14 do anexo III, primeira parte, devem ser alterados em conformidade; o número de ordem 382 do anexo II deve ser eliminado e os números de ordem 94 e 95 aditados ao anexo III, primeira parte.\n\n(2) O CCPCPNA é de opinião que os efeitos toxicológicos dos sais de dialcanolamina, e, em particular, a sua prontidão para a formação de nitrosaminas são similares às respectivas propriedades das dialcanolaminas e que as dialquilaminas e os seus sais têm propriedades muito similares às dos respectivos análogos de dialcanolaminas, no que diz respeito à formação de nitrosaminas. Os termos «dialcanolaminas» e «dialquilaminas» são sinónimos de «alcanolaminas secundárias» e «alquilaminas secundárias», sendo os últimos menos ambíguos. Por conseguinte, o número de ordem 411 do anexo II e os números de ordem 60, 61 e 62 do anexo III, primeira parte, devem ser alterados em conformidade.\n\n(3) O CCPCPNA concluiu que o composto 3-óxido de 2,4-diaminopirimidina (número CAS 74638-76-9) pode ser utilizado com segurança nos produtos cosméticos até à concentração máxima de 1,5 %. Por conseguinte, o 3-óxido de 2,4-diaminopirimidina deve ser incluído no anexo III, primeira parte, com o número de ordem 93.\n\n(4) O CCPCPNA é de opinião que a utilização de 1,2-dibromo-2,4-dicianobutano deve ser restringida aos produtos destinados a serem enxaguados, ao nível máximo actualmente permitido de 0,1 %. Assim, o número de ordem 36 do anexo VI, primeira parte, deve ser alterado em conformidade.\n\n(5) Por conseguinte, a Directiva 76/768/CEE deve ser alterada em conformidade.\n\n(6) As medidas previstas na presente directiva são conformes ao parecer do Comité Permanente dos produtos cosméticos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "c2768784123201be": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "4c386964b424acbf": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nOs anexos II, III e VI da Directiva 76/768/CEE do Conselho são alterados do seguinte modo:\n\n1. O anexo II é alterado do seguinte modo:\n\na) O número de ordem 178 passa a ter a seguinte redacção:\n\n«178. [►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0083R(01):PT:NOT) 4-Benziloxifenol e 4-etoxifenol» ◄\n\n;\n\nb) O número de ordem 382 é eliminado.\n\nc) O número de ordem 411 passa a ter a seguinte redacção:\n\n«411. Alquil- e alcanolaminas secundárias e seus sais»\n\n.\n\n2. A primeira parte do anexo III é alterada do seguinte modo:\n\na) O número de ordem 14 passa a ter a seguinte redacção:\n\n| «Número de ordem | Substâncias | RESTRIÇÕES | Condições de utilização e advertências a fazer obrigatoriamente na rotulagem |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Domínio de aplicação e/ou utilização | Concentração máxima autorizada no produto cosmético final | Outras limitações e exigências |  |  |  |\n| a | b | c | d | e | f |\n| 14 | Hidroquinona [(1)](http://publications.europa.eu/resource/cellar/6010e985-ff85-416b-985d-fa1ceb1529f8.0005.02/DOC_1#E0003) | a) Agente corante oxidante para coloração capilar | 0,3 % |  | a)1. — Não utilizar na coloração de pestanas ou sobrancelhas |\n| 1. Uso geral |  | — Enxaguar imediatamente se o produto entrar em contacto com os olhos — Contém hidroquinona |  |  |  |\n| 2. Uso profissional |  | 2. — Reservado aos profissionais — Contém hidroquinona — Enxaguar imediatamente se o produto entrar em contacto com os olhos |  |  |  |\n| b) Conjuntos de unhas artificiais | 0,02 % (após mistura para utilização) | Reservado aos profissionais | b) — Reservado aos profissionais — Evitar o contacto com a pele — Ler as instruções de utilização com cuidado |  |  |\n| (*) «Esta substância podem ser utilizadas, isoladas ou misturadas entre si numa quantidade tal que a soma das relações dos teores do produto cosmético em cada uma desta substância com teor máximo autorizado para cada uma não ultrapasse 2.» |  |  |  |  |  |\n\nb) Os números de ordem 60, 61 e 62 passam a ter a seguinte redacção:\n\n| «Número de ordem | Substâncias | RESTRIÇÕES | Condições de utilização e advertências a fazer obrigatoriamente na rotulagem |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Domínio de aplicação e/ou utilização | Concentração máxima autorizada no produto cosmético final | Outras limitações e exigências |  |  |  |\n| a | b | c | d | e | f |\n| 60 | Dialquilamidas e dialcanolamidas de ácidos gordos |  | Teor máximo de aminas secundárias: 0,5 % | — Não utilizar com agentes nitrosantes — Teor máximo de aminas secundárias: 5 % (aplica-se às matérias-primas) — Teor máximo de nitrosaminas: 50 μg/kg — Conservar em recipientes que não contenham nitritos |  |\n| 61 | Monoalquilaminas, monoalcanolaminas e seus sais |  | Teor máximo de aminas secundárias: 0,5 % | — Não utilizar com agentes nitrosantes — Pureza mínima: 99 % — Teor máximo de aminas secundárias: 0,5 % (aplica-se às matérias-primas) — Teor máximo de nitrosaminas: 50 μg/kg — Conservar em recipientes que não contenham nitritos |  |\n| 62 | Trialquilaminas, trialcanolaminas e seus sais | a) Produtos que não se destinem a ser enxaguados b) Outros produtos | a) 2,5 % | a) b) — Não utilizar com agentes nitrosantes — Pureza mínima: 99 % — Teor máximo de aminas secundárias: 0,5 % (aplica-se às matérias-primas) — Teor máximo de nitrosaminas: 50 μg/kg — Conservar em recipientes que não contenham nitritos» |  |\n\nc) Os números de ordem 93, 94 e 95 são aditados:\n\n| «Número de ordem | Substâncias | RESTRIÇÕES | Condições de utilização e advertências a fazer obrigatoriamente na rotulagem |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Domínio de aplicação e/ou utilização | Concentração máxima autorizada no produto cosmético final | Outras limitações e exigências |  |  |  |\n| a | b | c | d | e | f |\n| 93 | 3-Óxido de 2,4-diaminopirimidina (número CAS 74638-76-9) | Preparações para tratamentos capilares | 1,5 % |  |  |\n| 94 | Peróxido de benzoílo | Conjuntos de unhas artificiais | 0,7 % (após mistura) | Reservado aos profissionais | — Reservado aos profissionais — Evitar o contacto com a pele — Ler as instruções de utilização com cuidado |\n| 95 | Hidroquinona metiléter | Conjuntos de unhas artificiais | 0,02 % (após mistura para utilização) | Reservado aos profissionais | — Reservado aos profissionais — Evitar o contacto com a pele — Ler as instruções de utilização com cuidado» |\n\n3. No anexo VI, primeira parte, o número de ordem 36 passa a ter a seguinte redacção:\n\n| «Número de ordem | Substâncias | Concentração máxima autorizada | Outras limitações e exigências | Condições de utilização e advertências a fazer obrigatoriamente na rotulagem |\n| --- | --- | --- | --- | --- |\n| a | b | c | d | e |\n| 36 | 1,2-Dibromo-2,4-dicianobutano (methyldibromo glutaronitrile) | 0,1 % | Apenas produtos destinados a serem enxaguados» |  |\n\n([1](http://publications.europa.eu/resource/cellar/6010e985-ff85-416b-985d-fa1ceb1529f8.0005.02/DOC_1#src.E0001)) JO L 262 de 27.9.1976, p. 169.\n\n([2](http://publications.europa.eu/resource/cellar/6010e985-ff85-416b-985d-fa1ceb1529f8.0005.02/DOC_1#src.E0002)) JO L 224 de 6.9.2003, p. 27."
+  }
+ }
+}

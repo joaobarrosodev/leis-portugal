@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997D0836:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997D0836-20130917",
+ "dre_path": null,
+ "source_lastmod": "2013-09-17",
+ "versions": [
+  {
+   "date": "1997-12-17",
+   "future": false,
+   "celex": "31997D0836",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9b017aaeb36d00e9",
+    "4e7eb6cd5659fab5",
+    "dbca154f102cffc7",
+    "4fed88f6254c9269",
+    "d7d1a368cacb3a82",
+    "5910d5d533557e43",
+    "82d8c19f9385c8f6"
+   ]
+  }
+ ],
+ "fragments": {
+  "9b017aaeb36d00e9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**97/836/CE: Decisão do Conselho de 27 de Novembro de 1997 relativa à adesão da Comunidade Europeia ao Acordo da Comissão Económica para a Europa da Organização das Nações Unidas relativo à adopção de prescrições técnicas uniformes aplicáveis aos veículos de rodas, aos equipamentos e às peças susceptíveis de serem montados ou utilizados num veículo de rodas e às condições de reconhecimento recíproco das homologações emitidas em conformidade com essas prescrições («acordo de 1958 revisto»)** *Jornal Oficial nº L 346 de 17/12/1997 p. 0078 - 0094*\n\nDECISÃO DO CONSELHO de 27 de Novembro de 1997 relativa à adesão da Comunidade Europeia ao Acordo da Comissão Económica para a Europa da Organização das Nações Unidas relativo à adopção de prescrições técnicas uniformes aplicáveis aos veículos de rodas, aos equipamentos e às peças susceptíveis de serem montados ou utilizados num veículo de rodas e às condições de reconhecimento recíproco das homologações emitidas em conformidade com essas prescrições («acordo de 1958 revisto») (97/836/CE)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 100ºA e 113º, conjugados com o nº 2, primeira frase, o nº 3, segundo parágrafo, e o nº 4 do seu artigo 228º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\n(1) Considerando que, por decisão de 23 de Outubro de 1990, o Conselho tinha autorizado a Comissão a participar na negociação sobre a revisão do Acordo da Comissão Económica para a Europa das Nações Unidas (UNECE) relativo à adopção de condições uniformes de homologação e ao reconhecimento recíproco da homologação dos equipamentos e peças de veículos a motor, concluído em Genebra a 20 de Março de 1958;\n\n(2) Considerando que o acordo de 1958 foi revisto;\n\n(3) Considerando que, na sequência da referida negociação, a Comunidade tem a possibilidade de se tornar parte contratante no acordo revisto enquanto organização de integração económica regional para a qual os Estados-membros procederam a uma tranferência de competências no domínio abrangido pelo acordo;\n\n(4) Considerando que a adesão ao acordo revisto se insere num objectivo de política comercial comum, em conformidade com o artigo 113º do Tratado, que visa eliminar os entraves técnicos ao comércio dos veículos a motor entre as partes contratantes; que a participação da Comunidade dará maior importância ao trabalho de harmonização realizado no âmbito deste acordo e permitirá, assim, um acesso facilitado ao mercado de países terceiros; que esta participação deve estabelecer uma coerência entre os actos designados por «regulamentos», adoptados no âmbito do acordo revisto, e a legislação comunitária nesta matéria;\n\n(5) Considerando que a homologação dos veículos a motor e a harmonização técnica se processam com base nas directivas relativas aos sistemas, componentes e unidades técnicas dos véiculos que assentam no artigo 100ºA do Tratado, o qual tem por objecto o estabelecimento e o funcionamento do mercado interno; que, desde 1 de Janeiro de 1996, no que respeita aos veículos da categoria M1, a harmonização é total e de aplicação obrigatória ao abrigo da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques (3), e das directivas específicas para esta categoria de veículos;\n\n(6) Considerando que a adesão da Comunidade ao acordo revisto implica alterações dos actos adoptados nos termos do artigo 189ºB do Tratado; que, por conseguinte, é necessário o parecer favorável do Parlamento Europeu;\n\n(7) Considerando que os actos designados por «regulamentos», adoptados ao nível dos órgãos do acordo revisto, vincularão a Comunidade no termo de um prazo de seis meses subsequente à sua notificação se esta não manifestar a sua oposição; que convém, por conseguinte, prever que a votação da Comunidade sobre estes actos, caso estes não constituam uma simples adaptação ao progresso técnico, seja procedida de uma decisão adoptada segundo o mesmo procedimento aplicável à adesão ao acordo revisto;\n\n(8) Considerando, contudo, que, na hipótese de a adopção de um tal regulamento constituir apenas uma adaptação ao progresso técnico, a votação da Comunidade pode ser decidida mediante o procedimento utilizado para a adaptação técnica das directivas relativas à homologação de veículos;\n\n(9) Considerando que é adequado estabelecer modalidades práticas de participação da Comunidade e dos Estados-membros no acordo revisto;\n\n(10) Considerando que o acordo revisto prevê um procedimento simplificado para a sua alteração; que convém assegurar uma tomada de decisão a nível comunitário que tenha em conta as condicionantes deste procedimento;\n\n(11) Considerando que, em conformidade com o disposto no acordo revisto, qualquer nova parte contratante tem a possibilidade de, por ocasião do depósito dos respectivos instrumentos de adesão, declarar simultaneamente que não deseja ser vinculada por alguns regulamentos da UNECE que lhe cabe especificar; que a Comunidade deseja fazer uso desta disposição no sentido de, por um lado, aderir imediatamente à lista dos regulamentos considerados essenciais para o bom funcionamento do sistema de homologação de veículos, tal como definido anteriormente nas Directivas 70/156/CEE, 74/150/CEE (4) e 92/61/CEE (5), e, por outro lado, examinar caso a caso a possibilidade de aderir posteriormente a outros regulamentos, tendo em conta a sua importância relativamente à homologação de veículos a nível comunitário e, igualmente, a nível internacional;\n\n(12) Considerando que esta adesão não prejudica a possibilidade de pôr termo à aplicação dos regulamentos da UNECE que figuram na lista aceite pela Comunidade, em conformidade com o nº 6 do artigo 1º do acordo revisto; que tal cessação de aplicação ocorrerá em particular nos casos em que forem pela Comunidade adoptados valores-limite mais rigorosos para as emissões de poluentes e de ruídos, sem que os correspondentes regulamentos da UNECE sejam alterados em conformidade;\n\n(13) Considerando que, embora a Comunidade não adira ao conjunto dos regulamento da UNECE mas a uma lista definida desses regulamentos considerados essenciais ao bom funcionamento do procedimento de homologação de veículos, é conveniente permitir aos Estados-membros que aceitem esses regulamentos, aos quais a Comunidade não adere, que continuem a assegurar a respectiva gestão e evolução;\n\n(14) Considerando que, em conformidade com o artigo 234º do Tratado, os Estados-membros deveriam certificar-se da não incompatibilidade actual entre os regulamentos da UNECE anteriormente assinados, mas aos quais a Comunidade não adere, e a regulamentação comunitária actual correspondente;\n\n(15) Considerando que a aceitação dos regulamentos da UNECE pelos Estados-membros não deveria ser incompatível com as disposições das Directivas 70/156/CEE, 74/150/CEE e 92/61/CEE, e deveria ter em conta os procedimentos da Directiva 83/189/CEE do Conselho, de 28 de Março de 1983, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas (6);\n\n(16) Considerando que, nos termos do direito comunitário, compete aos Estados-membros dar cumprimento às obrigações decorrentes dos artigos 2º, 4º e 5º do acordo revisto,\n\nDECIDE:"
+  },
+  "4e7eb6cd5659fab5": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA Comunidade adere ao Acordo da Comissão Económica para a Europa das Nações Unidas (UNECE) relativo à adopção de prescrições técnicas uniformes aplicáveis aos veículos de rodas, aos equipamentos e às peças susceptíveis de serem montados ou utilizados num veículo de rodas e às condições de reconhecimento recíproco das homologações emitidas em conformidade com essas prescrições a seguir designado «acordo revisto».\n\nO texto do acordo revisto consta do anexo I da presente decisão."
+  },
+  "dbca154f102cffc7": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nO presidente do Conselho fica autorizado a designar a pessoa habilitada a depositar o instrumento de adesão exigido no nº 3 do artigo 6º do acordo revisto e a fazer a notificação contida no anexo IV da presente decisão."
+  },
+  "4fed88f6254c9269": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Em conformidade com o nº 5 do artigo 1º do acordo revisto, a Comunidade declarará limitar a sua adesão à aplicação dos regulamentos da UNECE cuja lista figura no anexo II da presente decisão.\n\n2. Em conformidade com o nº 6 do artigo 1º do Acordo revisto, a Comunidade pode decidir, nos termos do nº 2, segundo travessão, do artigo 4º da presente decisão, pôr termo à aplicação de um regulamento da UNECE que previamente aceitara.\n\n3. Em conformidade com o nº 7 do artigo 1º do acordo revisto, a Comunidade pode decidir, nos termos do nº 2, segundo travessão, do artigo 4º da presente decisão, aplicar um, alguns ou todos os regulamentos da UNECE a que não tenha aderido no momento da sua adesão ao acordo revisto."
+  },
+  "d7d1a368cacb3a82": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. As modalidades práticas da participação da Comunidade e dos Estados-membros nos trabalhos da UNECE encontram-se definidas no anexo III.\n\nA contribuição da Comunidade no que se refere às prioridades do programa de trabalho da UNECE será estabelecida de acordo com o procedimento previsto no ponto 1 do anexo III.\n\n2. A Comunidade votará a favor da adopção de um projecto de regulamento da UNECE ou de um projecto de alteração de um regulamento da UNECE:\n\n- quando, no caso de adaptação ao progresso técnico de um regulamento existente ao qual tenha aderido, o projecto tiver sido aprovado em conformidade com o procedimento do artigo 13º da Directiva 70/156/CEE,\n\n- nos demais casos, quando, sob proposta da Comissão e após parecer favorável do Parlamento Europeu, o Conselho tiver aprovado o projecto por maioria qualificada.\n\n3. Sempre que um regulamento da UNECE ou uma alteração a tal regulamento sejam adoptados sem que a Comunidade o tenha votado favoravelmente, esta manifestará a sua objecção de acordo com o disposto no nº 2, segundo parágrafo, do artigo 1º do acordo revisto.\n\n4. Quando se entender que a Comunidade votará favoravelmente um regulamento da UNECE ou uma alteração a um tal regulamento, a decisão deverá igualmente determinar se esse regulamento passará a fazer parte do sistema de homologação CE do veículo completo e a substituir a legislação vigente na Comunidade.\n\n5. Os regulamento da UNECE e respectivas alterações que vinculem a Comunidade serão publicados nas línguas oficiais da Comunidade, antes da sua entrada em vigor, no Jornal Oficial das Comunidades Europeias."
+  },
+  "5910d5d533557e43": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. As propostas de alteração do acordo revisto submetidas às partes contratantes em nome da Comunidade são decididas pelo Conselho por maioria qualificada, sob proposta da Comissão e após parecer do Parlamento Europeu.\n\n2. A decisão de levantar ou não uma objecção a propostas de alteração do acordo revisto apresentadas por outras partes contratantes é tomada nos mesmos termos da adesão ao referido acordo. Caso este procedimento não esteja conclusído uma semana antes do termo do prazo previsto no nº 2 do artigo 13º do acordo revisto, a Comissão apresentará, em nome da Comunidade, uma objecção contra a alteração antes do termo daquele prazo."
+  },
+  "82d8c19f9385c8f6": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs Estados-membros que aceitarem ou tiverem aceite regulamentos da UNECE aos quais a Comunidade não esteja vinculada podem continuar a assegurar a respectiva gestão e evolução mediante a adopção de alterações em função do progresso técnico, sem deixar de garantir que:\n\n- a aplicação desses regulamentos não seja incompatível com as disposições das Directivas 70/156/CEE, 74/150/CEE e 92/61/CEE, e\n\n- sejam observados os procedimentos da Directiva 83/189/CEE.\n\nFeito em Bruxelas, em 27 de Novembro de 1997.\n\nPelo Conselho\n\nO Presidente\n\nG. WOHLFART\n\n(1) JO C 69 de 7. 3. 1996, p. 4.\n\n(2) Parecer favorável emitido em 21 de Novembro de 1997 (ainda não publicado no Jornal Oficial).\n\n(3) JO L 42 de 23. 2. 1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 96/27/CE (JO L 169 de 8. 7. 1996, p. 1).\n\n(4) JO L 84 de 24. 3. 1974, p. 10. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n(5) JO L 225 de 10. 8. 1992, p. 72. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n(6) JO L 109 de 26. 4. 1983, p. 8. Directiva com a última redacção que lhe foi dada pela Decisão 96/139/CE da Comissão (JO L 32 de 10. 2. 1996, p. 31)."
+  }
+ }
+}

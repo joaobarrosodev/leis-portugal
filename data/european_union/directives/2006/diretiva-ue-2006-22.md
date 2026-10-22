@@ -37,6 +37,87 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-06-20'
+version_history:
+  file: diretiva-ue-2006-22.versoes.json
+  count: 5
+  source_lastmod: '2024-06-20'
+  versions:
+  - date: '2006-04-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-02-20'
+    amending: eu:celex:32009L0004:por
+    amending_title: DIRECTIVA 2009/4/CE DA COMISSÃO Texto relevante para efeitos do EEE de 23 de Janeiro de 2009; DIRECTIVA
+      2009/5/CE DA COMISSÃO Texto relevante para efeitos do EEE de 30 de Janeiro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Estatísticas
+    - Altera Artigo 19.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Parte A
+    - Adita CONTROLOS NA ESTRADA
+    - Adita Parte B
+    - Adita CONTROLOS EM INSTALAÇÕES DE EMPRESAS
+    - Adita ANEXO II
+    - Adita Equipamento normalizado a disponibilizar às unidades responsáveis pelos controlos
+    - Adita ANEXO III
+    - Adita Infracções
+  - date: '2017-01-01'
+    amending: eu:celex:32016R0403:por
+    amending_title: REGULAMENTO (UE) 2016/403 DA COMISSÃO de 18 de março de 2016
+    changes:
+    - Altera preambulo
+    - Altera CONTROLOS NA ESTRADA
+    - Altera Notas
+    - Adita 1. Grupos de infrações ao Regulamento (CE) n.º 561/2006
+    - Adita 2. Grupos de infrações ao Regulamento (CE) n.º 165/2014 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/6d411be1-d1c3-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#E0003))(Tacógrafo)
+    - Suprime Infracções
+  - date: '2022-02-02'
+    amending: eu:celex:32020L1057:por
+    amending_title: Diretiva (UE) 2020/1057 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de julho de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Sistemas de controlo
+    - Altera Artigo 3.º — Estatísticas
+    - Altera Artigo 5.º — Controlos concertados
+    - Altera Artigo 6.º — Controlos nas instalações das empresas
+    - Altera Artigo 7.º — Ligação intracomunitária
+    - Altera Artigo 8.º — Troca de informações
+    - Altera Artigo 9.º — Sistema comum de classificação dos riscos
+    - Altera Artigo 11.º — Melhores práticas
+    - Altera Artigo 12.º — Procedimento de comité
+    - Altera Artigo 13.º — Medidas de execução
+    - Altera Artigo 14.º — Negociações com países terceiros
+    - Altera CONTROLOS NA ESTRADA
+    - Altera CONTROLOS EM INSTALAÇÕES DE EMPRESAS
+    - Altera 1. Grupos de infrações ao Regulamento (CE) n.º 561/2006
+    - Altera Notas
+    - Adita Artigo 1.º — Objeto
+    - Adita Artigo 15.º — Atualização dos anexos
+    - Adita Artigo 15.º-A — Exercício da delegação
+    - Adita 2. Grupos de infrações ao Regulamento (CE) n.º 165/2014 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#E0010))(Tacógrafo)
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 15.º — Actualização dos anexos
+    - Suprime 2. Grupos de infrações ao Regulamento (CE) n.º 165/2014 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/6d411be1-d1c3-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#E0003))(Tacógrafo)
+  - date: '2024-06-20'
+    amending: eu:celex:32024L0846:por
+    amending_title: DIRETIVA DELEGADA (UE) 2024/846 DA COMISSÃO de 14 de março de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 8.º — Troca de informações
+    - Altera Artigo 12.º — Procedimento de comité
+    - Altera Artigo 15.º-A — Exercício da delegação
+    - Altera CONTROLOS NA ESTRADA
+    - Altera ANEXO III
+    - Altera Notas
+    - Adita PARTE A
+    - Adita PARTE B
+    - Suprime Parte A
+    - Suprime Parte B
+    - Suprime 1. Grupos de infrações ao Regulamento (CE) n.º 561/2006
+    - Suprime 2. Grupos de infrações ao Regulamento (CE) n.º 165/2014 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#E0010))(Tacógrafo)
 identifiers:
   celex: 32006L0022
   eli: http://data.europa.eu/eli/dir/2006/22/oj
@@ -51,7 +132,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1e51f726-b0a9-4887-8fb3-7956a4f49223.0017
   content_url: http://publications.europa.eu/resource/cellar/51e7bb27-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0022-20240620
-  retrieved_at: '2026-10-22T02:39:43Z'
+  retrieved_at: '2026-10-22T15:01:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-21T02:05:20.935+01:00'
 integrity:
@@ -60,9 +141,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:43Z'
-  notes: Texto consolidado 02006L0022-20240620.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:01:42Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2006-22.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -168,37 +249,19 @@ relationships:
   source: null
 article_structure:
   article_count: 20
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:43Z'
+  checked_at: '2026-10-22T15:01:42Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2006/22/CE do Parlamento Europeu e do Conselho, de 15 de Março de 2006
-
-> 02006L0022 — PT — 20.06.2024 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009L0004) — [DIRECTIVA 2009/4/CE DA COMISSÃO de 23 de Janeiro de 2009](http://publications.europa.eu/resource/celex/32009L0004) — L 21 — 39 — 24.1.2009
-- [M2](http://publications.europa.eu/resource/celex/32009L0005) — [DIRECTIVA 2009/5/CE DA COMISSÃO de 30 de Janeiro de 2009](http://publications.europa.eu/resource/celex/32009L0005) — L 29 — 45 — 31.1.2009
-- [M3](http://publications.europa.eu/resource/celex/32016R0403) — [REGULAMENTO (UE) 2016/403 DA COMISSÃO de 18 de março de 2016](http://publications.europa.eu/resource/celex/32016R0403) — L 74 — 8 — 19.3.2016
-- [►M4](http://publications.europa.eu/resource/celex/32020L1057) — [Diretiva (UE) 2020/1057 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de julho de 2020](http://publications.europa.eu/resource/celex/32020L1057) — L 249 — 49 — 31.7.2020
-- [►M5](http://publications.europa.eu/resource/celex/32024L0846) — [DIRETIVA DELEGADA (UE) 2024/846 DA COMISSÃO de 14 de março de 2024](http://publications.europa.eu/resource/celex/32024L0846) — L 846 — 1 — 31.5.2024
-
-**Retificada por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32009L0005R%2802%29) — [Rectificação, JO L 256, 29.9.2009, p. 38 (2009/5/CE)](http://publications.europa.eu/resource/celex/32009L0005R%2802%29)
-
-## DIRECTIVA 2006/22/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de Março de 2006
 

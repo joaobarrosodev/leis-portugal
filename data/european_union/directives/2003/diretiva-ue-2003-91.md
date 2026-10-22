@@ -35,6 +35,228 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-01'
+version_history:
+  file: diretiva-ue-2003-91.versoes.json
+  count: 21
+  source_lastmod: '2026-07-01'
+  versions:
+  - date: '2003-10-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-12-28'
+    amending: eu:celex:32006L0127:por
+    amending_title: DIRECTIVA 2006/127/CE DA COMISSÃO Texto relevante para efeitos do EEE de 7 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Notas
+    - Suprime ANEXO I — LISTA DE ESPÉCIES QUE DEVEM OBEDECER AOS PRINCÍPIOS DIRECTORES DO ICVV
+    - Suprime ANEXO II — LISTA DE ESPÉCIES QUE DEVEM OBEDECER AOS PRINCÍPIOS DIRECTORES DA UPOV
+  - date: '2007-08-16'
+    amending: eu:celex:32007L0049:por
+    amending_title: DIRECTIVA 2007/49/CE DA COMISSÃO Texto relevante para efeitos do EEE de 26 de Julho de 2007
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita Lista de espécies, referidas no n.º 2, alínea a), do artigo 1.º, que devem respeitar os protocolos de ensaio emitidos
+      pelo ICVV
+    - Adita Lista de espécies, referidas no n.º 2, alínea b), do artigo 1.º, que devem respeitar os princípios directores
+      emitidos pela UPOV
+  - date: '2008-09-03'
+    amending: eu:celex:32008L0083:por
+    amending_title: DIRECTIVA 2008/83/CE DA COMISSÃO Texto relevante para efeitos do EEE de 13 de Agosto de 2008
+    changes:
+    - Altera preambulo
+    - Altera Lista de espécies, referidas no n.º 2, alínea a), do artigo 1.º, que devem respeitar os protocolos de ensaio
+      emitidos pelo ICVV
+    - Altera Notas
+    - Adita Lista de espécies, referidas no n.º 2, alínea b), do artigo 1.º, que devem obedecer aos princípios directores
+      da UPOV
+    - Suprime Lista de espécies, referidas no n.º 2, alínea b), do artigo 1.º, que devem respeitar os princípios directores
+      emitidos pela UPOV
+  - date: '2009-08-24'
+    amending: eu:celex:32009L0097:por
+    amending_title: DIRECTIVA 2009/97/CE DA COMISSÃO Texto relevante para efeitos do EEE de 3 de Agosto de 2009
+    changes:
+    - Altera preambulo
+    - Altera Lista de espécies, referidas no n.º 2, alínea b), do artigo 1.º, que devem obedecer aos princípios directores
+      da UPOV
+    - Altera Notas
+    - Adita Lista de espécies, referidas no n.º 2, alínea a), do artigo 1.º, que devem obedecer aos protocolos de ensaio do
+      ICVV
+    - Suprime Lista de espécies, referidas no n.º 2, alínea a), do artigo 1.º, que devem respeitar os protocolos de ensaio
+      emitidos pelo ICVV
+  - date: '2010-07-23'
+    amending: eu:celex:32010L0046:por
+    amending_title: DIRECTIVA 2010/46/UE DA COMISSÃO Texto relevante para efeitos do EEE de 2 de Julho de 2010
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV
+    - Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios directores da
+      UPOV
+    - Suprime Lista de espécies, referidas no n.º 2, alínea a), do artigo 1.º, que devem obedecer aos protocolos de ensaio
+      do ICVV
+    - Suprime Lista de espécies, referidas no n.º 2, alínea b), do artigo 1.º, que devem obedecer aos princípios directores
+      da UPOV
+  - date: '2011-07-22'
+    amending: eu:celex:32011L0068:por
+    amending_title: DIRECTIVA DE EXECUÇÃO 2011/68/UE DA COMISSÃO Texto relevante para efeitos do EEE de 1 de Julho de 2011
+    changes:
+    - Altera preambulo
+    - Altera Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do
+      ICVV
+    - Altera Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios directores da
+      UPOV
+    - Altera Notas
+  - date: '2012-12-17'
+    amending: eu:celex:32012L0044:por
+    amending_title: DIRETIVA DE EXECUÇÃO 2012/44/UE DA COMISSÃO Texto relevante para efeitos do EEE de 26 de novembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+    - Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do
+      ICVV
+    - Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios directores da
+      UPOV
+  - date: '2013-12-11'
+    amending: eu:celex:32013L0057:por
+    amending_title: DIRETIVA DE EXECUÇÃO 2013/57/UE DA COMISSÃO Texto relevante para efeitos do EEE de 20 de novembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2014-12-25'
+    amending: eu:celex:32014L0105:por
+    amending_title: DIRETIVA DE EXECUÇÃO 2014/105/UE DA COMISSÃO Texto relevante para efeitos do EEE de 4 de dezembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV
+    - Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios directores da
+      UPOV
+  - date: '2016-07-01'
+    amending: eu:celex:32015L1168:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2015/1168 DA COMISSÃO Texto relevante para efeitos do EEE de 15 de julho de
+      2015
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+    - Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do
+      ICVV
+    - Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios directores da
+      UPOV
+  - date: '2017-07-01'
+    amending: eu:celex:32016L1914:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2016/1914 DA COMISSÃO Texto relevante para efeitos do EEE de 31 de outubro de
+      2016
+    changes:
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV
+    - Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV
+    - Suprime Notas
+  - date: '2019-09-01'
+    amending: eu:celex:32018L0100:por
+    amending_title: M12; DIRETIVA DE EXECUÇÃO (UE) 2019/114 DA COMISSÃO Texto relevante para efeitos do EEE de 24 de janeiro
+      de 2019
+    changes:
+    - Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV
+      1 ([^1^](http://publications.europa.eu/resource/cellar/506ab1fa-f12e-11e9-a32c-01aa75ed71a1.0019.03/DOC_1#E0001))
+    - Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV
+      ([^2^](http://publications.europa.eu/resource/cellar/506ab1fa-f12e-11e9-a32c-01aa75ed71a1.0019.03/DOC_1#E0002))
+    - Adita Notas
+    - Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do
+      ICVV
+    - Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da
+      UPOV
+  - date: '2020-06-01'
+    amending: eu:celex:32019L1985:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2019/1985 DA COMISSÃO Texto relevante para efeitos do EEE de 28 de novembro
+      de 2019
+    changes:
+    - Altera Notas
+    - Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos técnicos do ICVV
+      ([^1^](http://publications.europa.eu/resource/cellar/d1346e18-9f77-11ea-9d2d-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV
+      para a realização de ensaios ([^2^](http://publications.europa.eu/resource/cellar/d1346e18-9f77-11ea-9d2d-01aa75ed71a1.0019.02/DOC_1#E0002))
+    - Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do
+      ICVV 1 ([^1^](http://publications.europa.eu/resource/cellar/506ab1fa-f12e-11e9-a32c-01aa75ed71a1.0019.03/DOC_1#E0001))
+    - Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da
+      UPOV ([^2^](http://publications.europa.eu/resource/cellar/506ab1fa-f12e-11e9-a32c-01aa75ed71a1.0019.03/DOC_1#E0002))
+  - date: '2022-01-01'
+    amending: eu:celex:32021L0746:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2021/746 DA COMISSÃO de 6 de maio de 2021
+    changes:
+    - Altera Notas
+    - Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos técnicos do ICVV
+      ([^1^](http://publications.europa.eu/resource/cellar/8835a6b2-53c6-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV
+      para a realização de ensaios ([^2^](http://publications.europa.eu/resource/cellar/8835a6b2-53c6-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0002))
+    - Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos técnicos do
+      ICVV ([^1^](http://publications.europa.eu/resource/cellar/d1346e18-9f77-11ea-9d2d-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da
+      UPOV para a realização de ensaios ([^2^](http://publications.europa.eu/resource/cellar/d1346e18-9f77-11ea-9d2d-01aa75ed71a1.0019.02/DOC_1#E0002))
+  - date: '2023-01-01'
+    amending: eu:celex:32022L0905:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2022/905 DA COMISSÃO de 9 de junho de 2022
+    changes:
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos técnicos do
+      ICVV ([^1^](http://publications.europa.eu/resource/cellar/8835a6b2-53c6-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da
+      UPOV para a realização de ensaios ([^2^](http://publications.europa.eu/resource/cellar/8835a6b2-53c6-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0002))
+    - Suprime Notas
+  - date: '2023-07-01'
+    amending: eu:celex:32022L1648:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2022/1648 DA COMISSÃO de 23 de setembro de 2022
+    changes:
+    - Altera Artigo 1.º
+    - Adita ANEXO III
+    - Adita PARTE A
+    - Adita Lista de espécies referidas no artigo 1.º, n.º 2, segundo parágrafo
+    - Adita PARTE B
+    - Adita Disposições específicas respeitantes a ensaios de distinção, homogeneidade e estabilidade para as variedades biológicas
+      de espécies hortícolas adequadas à produção biológica
+    - Adita 1. Regra geral
+    - Adita 2. Derrogação dos protocolos técnicos
+  - date: '2024-01-01'
+    amending: eu:celex:32023L1438:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2023/1438 DA COMISSÃO de 10 de julho de 2023
+    changes:
+    - Altera ANEXO I
+    - Altera ANEXO II
+  - date: '2025-06-01'
+    amending: eu:celex:32024L2963:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2024/2963 DA COMISSÃO de 29 de novembro de 2024
+    changes:
+    - Altera ANEXO I
+  - date: '2026-01-01'
+    amending: eu:celex:32025L1079:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2025/1079 DA COMISSÃO de 2 de junho de 2025
+    changes:
+    - Altera ANEXO I
+  - date: '2026-07-01'
+    amending: eu:celex:32025L2449:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2025/2449 DA COMISSÃO de 4 de dezembro de 2025
+    changes:
+    - Altera ANEXO I
+    - Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos técnicos do ICVV
+      ([^1^](http://publications.europa.eu/resource/cellar/23f37c98-4e3c-11f1-b3e2-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Adita Notas
 identifiers:
   celex: 32003L0091
   eli: http://data.europa.eu/eli/dir/2003/91/oj
@@ -49,7 +271,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/96ad709c-768f-48cd-bb09-4bd470540773.0010
   content_url: http://publications.europa.eu/resource/cellar/23f37c98-4e3c-11f1-b3e2-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0091-20260701
-  retrieved_at: '2026-10-22T02:36:24Z'
+  retrieved_at: '2026-10-22T14:55:12Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-10T17:47:20.177+01:00'
 integrity:
@@ -58,9 +280,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:24Z'
-  notes: Texto consolidado 02003L0091-20260701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:12Z'
+  notes: 21 versão(ões); histórico completo em diretiva-ue-2003-91.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -279,49 +501,19 @@ relationships:
   source: null
 article_structure:
   article_count: 8
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:24Z'
+  checked_at: '2026-10-22T14:55:12Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2003/91/CE da Comissão, de 6 de Outubro de 2003
-
-> 02003L0091 — PT — 01.07.2026 — 021.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32006L0127) — [DIRECTIVA 2006/127/CE DA COMISSÃO de 7 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006L0127) — L 343 — 82 — 8.12.2006
-- [M2](http://publications.europa.eu/resource/celex/32007L0049) — [DIRECTIVA 2007/49/CE DA COMISSÃO de 26 de Julho de 2007](http://publications.europa.eu/resource/celex/32007L0049) — L 195 — 33 — 27.7.2007
-- [M3](http://publications.europa.eu/resource/celex/32008L0083) — [DIRECTIVA 2008/83/CE DA COMISSÃO de 13 de Agosto de 2008](http://publications.europa.eu/resource/celex/32008L0083) — L 219 — 55 — 14.8.2008
-- [M4](http://publications.europa.eu/resource/celex/32009L0097) — [DIRECTIVA 2009/97/CE DA COMISSÃO de 3 de Agosto de 2009](http://publications.europa.eu/resource/celex/32009L0097) — L 202 — 29 — 4.8.2009
-- [M5](http://publications.europa.eu/resource/celex/32010L0046) — [DIRECTIVA 2010/46/UE DA COMISSÃO de 2 de Julho de 2010](http://publications.europa.eu/resource/celex/32010L0046) — L 169 — 7 — 3.7.2010
-- [M6](http://publications.europa.eu/resource/celex/32011L0068) — [DIRECTIVA DE EXECUÇÃO 2011/68/UE DA COMISSÃO de 1 de Julho de 2011](http://publications.europa.eu/resource/celex/32011L0068) — L 175 — 17 — 2.7.2011
-- [M7](http://publications.europa.eu/resource/celex/32012L0044) — [DIRETIVA DE EXECUÇÃO 2012/44/UE DA COMISSÃO de 26 de novembro de 2012](http://publications.europa.eu/resource/celex/32012L0044) — L 327 — 37 — 27.11.2012
-- [M8](http://publications.europa.eu/resource/celex/32013L0057) — [DIRETIVA DE EXECUÇÃO 2013/57/UE DA COMISSÃO de 20 de novembro de 2013](http://publications.europa.eu/resource/celex/32013L0057) — L 312 — 38 — 21.11.2013
-- [M9](http://publications.europa.eu/resource/celex/32014L0105) — [DIRETIVA DE EXECUÇÃO 2014/105/UE DA COMISSÃO de 4 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014L0105) — L 349 — 44 — 5.12.2014
-- [M10](http://publications.europa.eu/resource/celex/32015L1168) — [DIRETIVA DE EXECUÇÃO (UE) 2015/1168 DA COMISSÃO de 15 de julho de 2015](http://publications.europa.eu/resource/celex/32015L1168) — L 188 — 39 — 16.7.2015
-- [M11](http://publications.europa.eu/resource/celex/32016L1914) — [DIRETIVA DE EXECUÇÃO (UE) 2016/1914 DA COMISSÃO de 31 de outubro de 2016](http://publications.europa.eu/resource/celex/32016L1914) — L 296 — 7 — 1.11.2016
-- [M12](http://publications.europa.eu/resource/celex/32018L0100) — [DIRETIVA DE EXECUÇÃO (UE) 2018/100 DA COMISSÃO de 22 de janeiro de 2018](http://publications.europa.eu/resource/celex/32018L0100) — L 17 — 34 — 23.1.2018
-- [M13](http://publications.europa.eu/resource/celex/32019L0114) — [DIRETIVA DE EXECUÇÃO (UE) 2019/114 DA COMISSÃO de 24 de janeiro de 2019](http://publications.europa.eu/resource/celex/32019L0114) — L 23 — 35 — 25.1.2019
-- [M14](http://publications.europa.eu/resource/celex/32019L1985) — [DIRETIVA DE EXECUÇÃO (UE) 2019/1985 DA COMISSÃO de 28 de novembro de 2019](http://publications.europa.eu/resource/celex/32019L1985) — L 308 — 86 — 29.11.2019
-- [M15](http://publications.europa.eu/resource/celex/32021L0746) — [DIRETIVA DE EXECUÇÃO (UE) 2021/746 DA COMISSÃO de 6 de maio de 2021](http://publications.europa.eu/resource/celex/32021L0746) — L 160 — 94 — 7.5.2021
-- [M16](http://publications.europa.eu/resource/celex/32022L0905) — [DIRETIVA DE EXECUÇÃO (UE) 2022/905 DA COMISSÃO de 9 de junho de 2022](http://publications.europa.eu/resource/celex/32022L0905) — L 157 — 1 — 10.6.2022
-- [►M17](http://publications.europa.eu/resource/celex/32022L1648) — [DIRETIVA DE EXECUÇÃO (UE) 2022/1648 DA COMISSÃO de 23 de setembro de 2022](http://publications.europa.eu/resource/celex/32022L1648) — L 248 — 52 — 26.9.2022
-- [M18](http://publications.europa.eu/resource/celex/32023L1438) — [DIRETIVA DE EXECUÇÃO (UE) 2023/1438 DA COMISSÃO de 10 de julho de 2023](http://publications.europa.eu/resource/celex/32023L1438) — L 176 — 17 — 11.7.2023
-- [M19](http://publications.europa.eu/resource/celex/32024L2963) — [DIRETIVA DE EXECUÇÃO (UE) 2024/2963 DA COMISSÃO de 29 de novembro de 2024](http://publications.europa.eu/resource/celex/32024L2963) — L 2963 — 1 — 2.12.2024
-- [►M20](http://publications.europa.eu/resource/celex/32025L1079) — [DIRETIVA DE EXECUÇÃO (UE) 2025/1079 DA COMISSÃO de 2 de junho de 2025](http://publications.europa.eu/resource/celex/32025L1079) — L 1079 — 1 — 3.6.2025
-- [►M21](http://publications.europa.eu/resource/celex/32025L2449) — [DIRETIVA DE EXECUÇÃO (UE) 2025/2449 DA COMISSÃO de 4 de dezembro de 2025](http://publications.europa.eu/resource/celex/32025L2449) — L 2449 — 1 — 5.12.2025
-
-## DIRECTIVA 2003/91/CE DA COMISSÃO
 
 de 6 de Outubro de 2003
 

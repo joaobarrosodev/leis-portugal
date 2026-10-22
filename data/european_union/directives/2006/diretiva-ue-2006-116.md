@@ -35,6 +35,57 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-10-31'
+version_history:
+  file: diretiva-ue-2006-116.versoes.json
+  count: 2
+  source_lastmod: '2011-10-31'
+  versions:
+  - date: '2006-12-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-10-31'
+    amending: eu:celex:32011L0077:por
+    amending_title: DIRECTIVA 2011/77/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de Setembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 10.º-A — Medidas transitórias
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita ANEXO I
+    - Adita PARTE A
+    - Adita Directiva revogada e a sua alteração
+    - Adita PARTE B
+    - Adita Lista dos prazos de transposição para o direito interno e de aplicação
+    - Adita (referidos no artigo 12.º)
+    - Adita ANEXO II
+    - Suprime Artigo 1.º — Duração do direito de autor
+    - Suprime Artigo 2.º — Obras cinematográficas ou audiovisuais
+    - Suprime Artigo 3.º — Prazo dos direitos conexos
+    - Suprime Artigo 4.º — Protecção de obras não publicadas anteriormente
+    - Suprime Artigo 5.º — Edições críticas e científicas
+    - Suprime Artigo 6.º — Protecção das fotografias
+    - Suprime Artigo 7.º — Protecção relativamente a países terceiros
+    - Suprime Artigo 8.º — Cálculo dos prazos
+    - Suprime Artigo 9.º — Direitos morais
+    - Suprime Artigo 10.º — Aplicação no tempo
+    - Suprime Artigo 11.º — Notificação e comunicação
+    - Suprime Artigo 12.º — Norma revogatória
+    - Suprime Artigo 13.º — Entrada em vigor
+    - Suprime Artigo 14.º — Destinatários
 identifiers:
   celex: 32006L0116
   eli: http://data.europa.eu/eli/dir/2006/116/oj
@@ -49,7 +100,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/55214a8a-6268-409c-ae5e-59c8241cf445.0017
   content_url: http://publications.europa.eu/resource/cellar/01c55da7-5d85-43d7-8767-30f2a6797a16.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0116-20111031
-  retrieved_at: '2026-10-22T03:12:39Z'
+  retrieved_at: '2026-10-22T15:02:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T21:14:56.560+01:00'
 integrity:
@@ -58,9 +109,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:39Z'
-  notes: Texto consolidado 02006L0116-20111031.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:02:42Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2006-116.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -142,29 +193,19 @@ relationships:
   date: '1993-11-24'
 article_structure:
   article_count: 15
-  section_count: 7
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 8
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:39Z'
+  checked_at: '2026-10-22T15:02:42Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2006/116/CE do Parlamento Europeu e do Conselho, de 12 de Dezembro de 2006
-
-> 2006L0116 — PT — 31.10.2011 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011L0077) — [DIRECTIVA 2011/77/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de Setembro de 2011](http://publications.europa.eu/resource/celex/32011L0077) — L 265 — 1 — 11.10.2011
-
-## DIRECTIVA 2006/116/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 12 de Dezembro de 2006
 

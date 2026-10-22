@@ -34,6 +34,35 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2005-04-13'
+version_history:
+  file: diretiva-ue-1987-328.versoes.json
+  count: 2
+  source_lastmod: '2005-04-13'
+  versions:
+  - date: '1987-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-04-13'
+    amending: eu:celex:32005L0024:por
+    amending_title: DIRECTIVA 2005/24/CE DO CONSELHO de 14 de Março de 2005
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1º.
+    - Adita Artigo 2º.
+    - Adita Artigo 3º.
+    - Adita Artigo 4º.
+    - Adita Artigo 5º.
+    - Adita Artigo 6º.
+    - Adita Artigo 7º.
+    - Adita Notas
+    - Suprime Artigo 1o.
+    - Suprime Artigo 2o.
+    - Suprime Artigo 3o.
+    - Suprime Artigo 4o.
+    - Suprime Artigo 5o.
+    - Suprime Artigo 6o.
+    - Suprime Artigo 7o.
 identifiers:
   celex: 31987L0328
   eli: http://data.europa.eu/eli/dir/1987/328/oj
@@ -48,7 +77,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d4cafc70-73f6-4f49-9e1c-d1fb683f4708.0011
   content_url: http://publications.europa.eu/resource/cellar/6779add9-2355-423f-90aa-d900ec15f778.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01987L0328-20050413
-  retrieved_at: '2026-10-22T03:05:23Z'
+  retrieved_at: '2026-10-22T14:35:07Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:42:04.468+02:00'
 integrity:
@@ -57,9 +86,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:05:23Z'
-  notes: Texto consolidado 01987L0328-20050413.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:35:07Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1987-328.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -118,29 +147,19 @@ relationships:
   date: '2016-06-29'
 article_structure:
   article_count: 7
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:05:23Z'
+  checked_at: '2026-10-22T14:35:07Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 87/328/CEE do Conselho de 18 de Junho de 1987
-
-> 1987L0328 — PT — 13.04.2005 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32005L0024) — [DIRECTIVA 2005/24/CE DO CONSELHO de 14 de Março de 2005](http://publications.europa.eu/resource/celex/32005L0024) — L 78 — 43 — 24.3.2005
-
-## DIRECTIVA DO CONSELHO
 
 de 18 de Junho de 1987
 

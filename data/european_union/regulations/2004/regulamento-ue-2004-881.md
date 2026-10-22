@@ -35,6 +35,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-06-15'
+version_history:
+  file: regulamento-ue-2004-881.versoes.json
+  count: 2
+  source_lastmod: '2016-06-15'
+  versions:
+  - date: '2009-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-06-15'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO 1
+    - Suprime OS PRINCÍPIOS
+    - Suprime Artigo 1.º — Criação e objectivos da Agência
+    - Suprime Artigo 2.º — Tipologia dos actos da Agência
+    - Suprime Artigo 3.º — Composição dos grupos de trabalho
+    - Suprime Artigo 4.º — Consulta dos parceiros sociais
+    - Suprime Artigo 5.º — Consulta dos clientes dos serviços de transporte ferroviário de mercadorias e dos passageiros
+    - Suprime CAPÍTULO 2
+    - Suprime SEGURANÇA
+    - Suprime Artigo 6.º — Apoio técnico
+    - Suprime Artigo 7.º — Certificados de segurança
+    - Suprime Artigo 9.º — Acompanhamento dos desempenhos em matéria de segurança
+    - Suprime CAPÍTULO 2-A
+    - Suprime NORMAS NACIONAIS, ACEITAÇÃO CRUZADA E PARECERES TÉCNICOS
+    - Suprime Artigo 9.º-A — Normas nacionais
+    - Suprime Artigo 9.º-B — Classificação das normas nacionais
+    - Suprime Artigo 10.º — Pareceres técnicos
+    - Suprime CAPÍTULO 3
+    - Suprime INTEROPERABILIDADE
+    - Suprime Artigo 12.º — Apoio técnico fornecido pela Agência
+    - Suprime Artigo 13.º — Organismos notificados
+    - Suprime Artigo 14.º — Acompanhamento da interoperabilidade
+    - Suprime Artigo 15.º — Interoperabilidade no interior do sistema ferroviário comunitário
+    - Suprime CAPÍTULO 3-A
+    - Suprime MANUTENÇÃO DOS VEÍCULOS
+    - Suprime Artigo 16.º — Certificação das oficinas de manutenção
+    - Suprime Artigo 16.º-A — Certificação das entidades responsáveis pela manutenção
+    - Suprime CAPÍTULO 3-B
+    - Suprime PESSOAL FERROVIÁRIO
+    - Suprime Artigo 16.º-B — Maquinistas
+    - Suprime Artigo 16.º-C — Pessoal de acompanhamento
+    - Suprime Artigo 17.º — Competências e formação profissionais
+    - Suprime CAPÍTULO 3-C
+    - Suprime REGISTOS E BASE DE DADOS PÚBLICA DA AGÊNCIA
+    - Suprime Artigo 18.º — Registos
+    - Suprime Artigo 19.º — Acessibilidade de documentos e registos
+    - Suprime CAPÍTULO 4
+    - Suprime ATRIBUIÇÕES ESPECÍFICAS
+    - Suprime Artigo 20.º — Estudos
 identifiers:
   celex: 32004R0881
   eli: http://data.europa.eu/eli/reg/2004/881/oj
@@ -49,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/502e4cd5-7967-44ea-9c5d-1f9ff7d98419.0010
   content_url: http://publications.europa.eu/resource/cellar/47e12f46-a798-447c-aa51-dda37e866cec.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0881-20160615
-  retrieved_at: '2026-10-22T02:40:37Z'
+  retrieved_at: '2026-10-22T14:58:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-31T10:26:10.202+01:00'
 integrity:
@@ -58,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:37Z'
-  notes: Texto consolidado 02004R0881-20160615.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:58:23Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2004-881.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -211,16 +264,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:37Z'
+  checked_at: '2026-10-22T14:58:23Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '32004R0881: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

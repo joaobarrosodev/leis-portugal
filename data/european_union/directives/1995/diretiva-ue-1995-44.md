@@ -36,6 +36,33 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-07-08'
+version_history:
+  file: diretiva-ue-1995-44.versoes.json
+  count: 2
+  source_lastmod: '2008-07-08'
+  versions:
+  - date: '1995-08-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-07-08'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime ANEXO I
+    - Suprime ANEXO II
+    - Suprime ANEXO III — MEDIDAS DE QUARENTENA, INCLUINDO TESTES, DE PLANTAS, PRODUTOS VEGETAIS E OUTROS MATERIAIS DESTINADOS
+      A DISSEMINAÇÃO APÓS QUARENTENA
+    - Suprime PARTE A — Para determinadas plantas, produtos vegetais e outros materiais constantes do anexo III da Directiva
+      77/93/CEE
+    - Suprime PARTE B — Para as plantas, produtos vegetais e outros materiais constantes dos anexos II e IV da Directiva 77/93/CEE
 identifiers:
   celex: 31995L0044
   eli: http://data.europa.eu/eli/dir/1995/44/oj
@@ -50,7 +77,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/890cbb5d-2232-4640-947e-ab9037f3a325.0011
   content_url: http://publications.europa.eu/resource/cellar/56fc96bd-1794-46e9-b1c8-37cc51a76f5b.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0044-20080708
-  retrieved_at: '2026-10-22T02:50:48Z'
+  retrieved_at: '2026-10-22T14:44:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T05:53:20.377+01:00'
 integrity:
@@ -59,9 +86,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:50:48Z'
-  notes: Texto consolidado 01995L0044-20080708.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:44:09Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1995-44.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -127,16 +154,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:50:48Z'
+  checked_at: '2026-10-22T14:44:09Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01995L0044-19950823: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995L0044-19970820: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

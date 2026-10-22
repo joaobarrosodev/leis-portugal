@@ -1,0 +1,285 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004R0639:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0639-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "2004-04-07",
+   "future": false,
+   "celex": "32004R0639",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7c863d8c8397c46b",
+    "7ebb5a81df2a65f6",
+    "62d871dc53fb8c60",
+    "5cea6b0261ed0291",
+    "2a5c4e6d088156c0",
+    "9dd24c3564637da1",
+    "e3f8ce5747a521e9",
+    "affd07f1c13472b2"
+   ]
+  },
+  {
+   "date": "2006-11-10",
+   "future": false,
+   "celex": "02004R0639-20061110",
+   "acts": [
+    {
+     "id": "eu:celex:32006R1646:por",
+     "title": "REGULAMENTO (CE) N. o 1646/2006 DO CONSELHO de 7 de Novembro de 2006",
+     "published": null,
+     "celex": "32006R1646"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Renovação e modernização das frotas",
+    "Altera Artigo 6.º — Relatório",
+    "Altera Artigo 7.º — Entrada em vigor",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "4cecc197f4c56e6f",
+    "66216a7856950fe9",
+    "392d7847bd956f23",
+    "46ad8c5fc82c88d6",
+    "795fc767b0b2f12f",
+    "066e8a7ea2706bb3",
+    "db0b9c0959f6f471",
+    "89e91058a7bf2ef6",
+    "7485b9bfb257fd3a"
+   ]
+  },
+  {
+   "date": "2008-12-05",
+   "future": false,
+   "celex": "02004R0639-20081205",
+   "acts": [
+    {
+     "id": "eu:celex:32008R1207:por",
+     "title": "REGULAMENTO (CE) N. o 1207/2008 DO CONSELHO de 28 de Novembro de 2008",
+     "published": null,
+     "celex": "32008R1207"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Renovação e modernização das frotas",
+    "Altera Artigo 6.º — Relatório",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "0e5e99c48283d1e5",
+    "66216a7856950fe9",
+    "ff15867391b83b82",
+    "46ad8c5fc82c88d6",
+    "795fc767b0b2f12f",
+    "066e8a7ea2706bb3",
+    "4b685db68ebbbecd",
+    "89e91058a7bf2ef6",
+    "50cad09137919079"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "02004R0639-20140101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Níveis específicos de referência",
+    "Suprime Artigo 2.º — Renovação e modernização das frotas",
+    "Suprime Artigo 3.º — Transferência de navios para o continente",
+    "Suprime Artigo 4.º — Gestão das capacidades",
+    "Suprime Artigo 5.º — Procedimento de comité",
+    "Suprime Artigo 6.º — Relatório",
+    "Suprime Artigo 7.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "31832695181a1558"
+   ]
+  }
+ ],
+ "fragments": {
+  "7c863d8c8397c46b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 639/2004 do Conselho, de 30 de Março de 2004, relativo à gestão das frotas de pesca registadas nas regiões ultraperiféricas da Comunidade** *Jornal Oficial nº L 102 de 07/04/2004 p. 0009 - 0011*\n\nRegulamento (CE) n.o 639/2004 do Conselho\n\nde 30 de Março de 2004\n\nrelativo à gestão das frotas de pesca registadas nas regiões ultraperiféricas da Comunidade\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 37.o e 299.o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu(1),\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.o 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da política comum das pescas(2), nomeadamente o capítulo III, estabelece um regime comunitário para ajustar as capacidades das frotas de pesca dos Estados-Membros, para um nível globalmente compatível com as possibilidades de pesca.\n\n(2) O Regulamento (CE) n.o 2792/1999 do Conselho, de 17 de Dezembro de 1999, que define os critérios e condições das acções estruturais comunitárias no sector das pescas(3), inclui disposições relativamente à modernização dos navios de pesca com ajudas públicas e às ajudas públicas para a renovação dos navios de pesca.\n\n(3) Atendendo à importância relativa do sector das pescas nas regiões ultraperiféricas comunitárias (\"regiões ultraperiféricas\"), justifica-se que seja tomada em consideração a situação estrutural, social e económica específica dessas regiões no respeitante à gestão das frotas de pesca. Para o efeito, é necessário adaptar às necessidades dessas regiões as disposições relativas à gestão dos regimes de entrada/saída da frota e à retirada obrigatória de capacidades, previstas no Regulamento (CE) n.o 2371/2002, assim como as condições de acesso às ajudas públicas para a modernização e para a renovação dos navios de pesca.\n\n(4) É igualmente necessário limitar qualquer aumento da capacidade das frotas registadas nos portos das regiões ultraperiféricas ao justificado pelas possibilidades de pesca locais e manter as dimensões das frotas em equilíbrio com as referidas possibilidades de pesca. Para o efeito, os objectivos fixados pelos programas de orientação plurianuais IV (POP IV) para cada segmento da frota, estabelecidos no anexo da Decisão 2002/652/CE da Comissão, de 29 de Julho de 2002, que altera as Decisões 98/119/CE a 98/131/CE a fim de prorrogar os programas de orientação plurianuais das frotas de pesca dos Estados-Membros até 31 de Dezembro de 2002(4), deverão ser considerados níveis de referência ou limites máximos para a expansão das frotas registadas nos departamentos ultramarinos franceses, nos Açores e na Madeira.\n\n(5) Deverão ser determinados níveis de referência específicos no respeitante aos segmentos de navios registados nas ilhas Canárias para os quais não tenham sido fixados objectivos específicos no âmbito do POP IV. Esses níveis de referência deverão ter em conta a capacidade da frota local em relação às possibilidades de pesca.\n\n(6) É necessário evitar que os navios registados nas regiões ultraperiféricas sejam transferidos e utilizados no continente após terem beneficiado de um tratamento mais favorável no respeitante à concessão de ajudas públicas e/ou condições de entrada na frota.\n\n(7) Logo que sejam atingidos os níveis de referência definidos no presente regulamento e, em todo o caso, a partir de 1 de Janeiro de 2007, justifica-se que sejam aplicadas às frotas registadas nas regiões ultraperiféricas regras relativas à gestão das capacidades da frota e aos regimes de ajudas públicas idênticas às aplicadas aos navios registados no resto da Comunidade, excepto no caso dos navios que tenham beneficiado de ajudas públicas para a renovação, para os quais a entrada na frota poderá ter lugar até 31 de Dezembro de 2007.\n\n(8) Para facilitar a execução do presente regulamento, os Estados-Membros deverão reunir informações sobre os navios registados nas regiões ultraperiféricas. Essas informações deverão ser comunicadas à Comissão, que elaborará o correspondente relatório a fim de assegurar a plena transparência das medidas executadas.\n\n(9) Dado que as novas regras gerais em matéria de gestão das capacidades das frotas e de ajudas públicas foram introduzidas pelos Regulamentos (CE) n.o 2371/2002 e (CE) n.o 2792/1999 com efeitos desde 1 de Janeiro de 2003, os regimes específicos deverão ser aplicados às regiões ultraperiféricas igualmente desde essa data.\n\n(10) As medidas necessárias para a execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(5),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "7ebb5a81df2a65f6": {
+   "fragment_id": "Artigo 1.º — Níveis específicos de referência",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Níveis específicos de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Níveis específicos de referência\n\n1. São aplicáveis os seguintes níveis de referência específicos de capacidades de pesca aos segmentos de frota registados nas regiões ultraperiféricas, referidas no n.o 2 do artigo 299.o do Tratado:\n\na) Para os departamentos ultramarinos franceses, os Açores e a Madeira: a soma dos respectivos objectivos dos POP IV para cada segmento de frota expressos em kW e GT para cada região ultraperiférica no final de 2002;\n\nb) Para as ilhas Canárias: os níveis de referência que tomam como ponto de partida as capacidades em kW e GT dos segmentos de frota em causa para os navios registados nos portos das ilhas Canárias em 1 de Janeiro de 2003 e que podem ser aumentados com base nas possibilidades de pesca para os referidos segmentos. Os aumentos podem ser justificados até ao limite dos objectivos que teriam sido adoptados se os procedimentos previstos no POP IV tivessem sido aplicados a esses segmentos e devem ser conformes aos mais recentes pareceres científicos validados pelo Comité Científico, Técnico e Económico das Pescas instituído pelo artigo 33.o do Regulamento (CE) n.o 2371/2002.\n\n2. As regras de execução do presente artigo são aprovadas nos termos do n.o 2 do artigo 5.o"
+  },
+  "62d871dc53fb8c60": {
+   "fragment_id": "Artigo 2.º — Renovação e modernização das frotas",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Renovação e modernização das frotas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Renovação e modernização das frotas\n\nNo respeitante aos segmentos de frota abrangidos pelo n.o 1 do artigo 1.o:\n\n1. Em derrogação do artigo 13.o do Regulamento (CE) n.o 2371/2002:\n\na) É autorizada a entrada de novas capacidades na frota, com ou sem ajudas públicas, nos limites dos níveis de referência específicos indicados no artigo 1.o;\n\nb) Não é aplicável a obrigação de obter uma redução da capacidade global da frota de 3 % dos níveis de referência.\n\n2. Em derrogação da subalínea i) da alínea c) do n.o 1 do artigo 9.o do Regulamento (CE) n.o 2792/1999, podem ser concedidos ajudas públicas para a modernização da frota em termos de arqueação e/ou potência.\n\n3. As derrogações estabelecidas nos n.os 1 e 2 deixam de ser aplicáveis logo que sejam atingidos os níveis de referência e, em todo o caso, o mais tardar em 31 de Dezembro de 2006.\n\n4. Em derrogação da alínea a) do n.o 1 do artigo 9.o do Regulamento (CE) n.o 2792/1999, as ajudas públicas para a renovação dos navios de pesca podem ser concedidas até 31 de Dezembro de 2005.\n\n5. Não obstante o n.o 3, no caso dos navios de pesca que tenham beneficiado de ajudas públicas para a renovação, a derrogação prevista na alínea a) do n.o 1 deixará de ser aplicável dois anos após terem sido concedidos essas ajudas e, em todo o caso, o mais tardar em 31 de Dezembro de 2007."
+  },
+  "5cea6b0261ed0291": {
+   "fragment_id": "Artigo 3.º — Transferência de navios para o continente",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Transferência de navios para o continente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Transferência de navios para o continente\n\nQualquer transferência de um navio de uma região ultraperiférica para o continente deve ser tratada como uma entrada na frota continental na acepção do artigo 13.o do Regulamento (CE) n.o 2371/2002. As ajudas públicas para a renovação da frota e para o equipamento ou modernização dos navios de pesca devem ser reembolsadas pro rata temporis no caso da transferência de um navio para o continente antes do final de um período de:\n\na) 10 anos, no caso de ajuda pública à renovação da frota; e\n\nb) Cinco anos, no caso de ajuda pública para o equipamento ou modernização dos navios de pesca,\n\na contar da data em que a decisão administrativa de concessão da ajuda tenha sido tomada."
+  },
+  "2a5c4e6d088156c0": {
+   "fragment_id": "Artigo 4.º — Gestão das capacidades",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Gestão das capacidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Gestão das capacidades\n\n1. Os Estados-Membros gerem as frotas registadas nas regiões ultraperiféricas por forma a dar cumprimento ao disposto no presente regulamento.\n\n2. Os Estados-Membros facultam à Comissão informações sobre os navios registados nas respectivas regiões ultraperiféricas, em conformidade com o artigo 15.o do Regulamento (CE) n.o 2371/2002.\n\n3. As regras de execução do presente artigo são aprovadas nos termos do n.o 2 do artigo 5.o"
+  },
+  "9dd24c3564637da1": {
+   "fragment_id": "Artigo 5.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité das Pescas e da Aquacultura.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.o e 7.o da Decisão 1999/468/CE.\n\nO prazo previsto no n.o 3 do artigo 4.o da Decisão 1999/468/CE é de 20 dias úteis.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "e3f8ce5747a521e9": {
+   "fragment_id": "Artigo 6.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Relatório\n\nA Comissão deve apresentar ao Parlamento Europeu e ao Conselho um relatório sobre a execução do presente regulamento até 31 de Dezembro de 2006."
+  },
+  "affd07f1c13472b2": {
+   "fragment_id": "Artigo 7.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente regulamento entra em vigor sete dias após o da sua publicação no Jornal Oficial da União Europeia.\n\nÉ aplicável com efeitos desde 1 de Janeiro de 2003.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 30 de Março de 2004.\n\nPelo Conselho\n\nO Presidente\n\nM. McDowell\n\n(1) Parecer emitido em 4 de Dezembro de 2003 (ainda não publicado no Jornal Oficial).\n\n(2) JO L 358 de 31.12.2002, p. 59.\n\n(3) JO L 337 de 30.12.1999, p. 10. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2369/2002 (JO L 358 de 31.12.2002, p. 49).\n\n(4) JO L 215 de 10.8.2002, p. 23.\n\n(5) JO L 184 de 17.7.1999, p. 23."
+  },
+  "4cecc197f4c56e6f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Março de 2004\n\nrelativo à gestão das frotas de pesca registadas nas regiões ultraperiféricas da Comunidade\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 37.º e 299.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/73ecedf7-5fa7-450c-a20f-61d053ee5092.0018.03/DOC_1#E0001)),\n\n(1) O Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da política comum das pescas ([^2^](http://publications.europa.eu/resource/cellar/73ecedf7-5fa7-450c-a20f-61d053ee5092.0018.03/DOC_1#E0002)), nomeadamente o capítulo III, estabelece um regime comunitário para ajustar as capacidades das frotas de pesca dos Estados-Membros, para um nível globalmente compatível com as possibilidades de pesca.\n\n(2) O Regulamento (CE) n.º 2792/1999 do Conselho, de 17 de Dezembro de 1999, que define os critérios e condições das acções estruturais comunitárias no sector das pescas ([^3^](http://publications.europa.eu/resource/cellar/73ecedf7-5fa7-450c-a20f-61d053ee5092.0018.03/DOC_1#E0003)), inclui disposições relativamente à modernização dos navios de pesca com ajudas públicas e às ajudas públicas para a renovação dos navios de pesca.\n\n(3) Atendendo à importância relativa do sector das pescas nas regiões ultraperiféricas comunitárias («regiões ultraperiféricas»), justifica-se que seja tomada em consideração a situação estrutural, social e económica específica dessas regiões no respeitante à gestão das frotas de pesca. Para o efeito, é necessário adaptar às necessidades dessas regiões as disposições relativas à gestão dos regimes de entrada/saída da frota e à retirada obrigatória de capacidades, previstas no Regulamento (CE) n.º 2371/2002, assim como as condições de acesso às ajudas públicas para a modernização e para a renovação dos navios de pesca.\n\n(4) É igualmente necessário limitar qualquer aumento da capacidade das frotas registadas nos portos das regiões ultraperiféricas ao justificado pelas possibilidades de pesca locais e manter as dimensões das frotas em equilíbrio com as referidas possibilidades de pesca. Para o efeito, os objectivos fixados pelos programas de orientação plurianuais IV (POP IV) para cada segmento da frota, estabelecidos no anexo da Decisão 2002/652/CE da Comissão, de 29 de Julho de 2002, que altera as Decisões 98/119/CE a 98/131/CE a fim de prorrogar os programas de orientação plurianuais das frotas de pesca dos Estados-Membros até 31 de Dezembro de 2002 ([^4^](http://publications.europa.eu/resource/cellar/73ecedf7-5fa7-450c-a20f-61d053ee5092.0018.03/DOC_1#E0004)), deverão ser considerados níveis de referência ou limites máximos para a expansão das frotas registadas nos departamentos ultramarinos franceses, nos Açores e na Madeira.\n\n(5) Deverão ser determinados níveis de referência específicos no respeitante aos segmentos de navios registados nas ilhas Canárias para os quais não tenham sido fixados objectivos específicos no âmbito do POP IV. Esses níveis de referência deverão ter em conta a capacidade da frota local em relação às possibilidades de pesca.\n\n(6) É necessário evitar que os navios registados nas regiões ultraperiféricas sejam transferidos e utilizados no continente após terem beneficiado de um tratamento mais favorável no respeitante à concessão de ajudas públicas e/ou condições de entrada na frota.\n\n(7) Logo que sejam atingidos os níveis de referência definidos no presente regulamento e, em todo o caso, a partir de 1 de Janeiro de 2007, justifica-se que sejam aplicadas às frotas registadas nas regiões ultraperiféricas regras relativas à gestão das capacidades da frota e aos regimes de ajudas públicas idênticas às aplicadas aos navios registados no resto da Comunidade, excepto no caso dos navios que tenham beneficiado de ajudas públicas para a renovação, para os quais a entrada na frota poderá ter lugar até 31 de Dezembro de 2007.\n\n(8) Para facilitar a execução do presente regulamento, os Estados-Membros deverão reunir informações sobre os navios registados nas regiões ultraperiféricas. Essas informações deverão ser comunicadas à Comissão, que elaborará o correspondente relatório a fim de assegurar a plena transparência das medidas executadas.\n\n(9) Dado que as novas regras gerais em matéria de gestão das capacidades das frotas e de ajudas públicas foram introduzidas pelos Regulamentos (CE) n.º 2371/2002 e (CE) n.º 2792/1999 com efeitos desde 1 de Janeiro de 2003, os regimes específicos deverão ser aplicados às regiões ultraperiféricas igualmente desde essa data.\n\n(10) As medidas necessárias para a execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^5^](http://publications.europa.eu/resource/cellar/73ecedf7-5fa7-450c-a20f-61d053ee5092.0018.03/DOC_1#E0005)),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "66216a7856950fe9": {
+   "fragment_id": "Artigo 1.º — Níveis específicos de referência",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Níveis específicos de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Níveis específicos de referência\n\n1. São aplicáveis os seguintes níveis de referência específicos de capacidades de pesca aos segmentos de frota registados nas regiões ultraperiféricas, referidas no n.º 2 do artigo 299.º do Tratado:\n\na) Para os departamentos ultramarinos franceses, os Açores e a Madeira: a soma dos respectivos objectivos dos POP IV para cada segmento de frota expressos em kW e GT para cada região ultraperiférica no final de 2002;\n\nb) Para as ilhas Canárias: os níveis de referência que tomam como ponto de partida as capacidades em kW e GT dos segmentos de frota em causa para os navios registados nos portos das ilhas Canárias em 1 de Janeiro de 2003 e que podem ser aumentados com base nas possibilidades de pesca para os referidos segmentos. Os aumentos podem ser justificados até ao limite dos objectivos que teriam sido adoptados se os procedimentos previstos no POP IV tivessem sido aplicados a esses segmentos e devem ser conformes aos mais recentes pareceres científicos validados pelo Comité Científico, Técnico e Económico das Pescas instituído pelo artigo 33.º do Regulamento (CE) n.º 2371/2002.\n\n2. As regras de execução do presente artigo são aprovadas nos termos do n.º 2 do artigo 5.º"
+  },
+  "392d7847bd956f23": {
+   "fragment_id": "Artigo 2.º — Renovação e modernização das frotas",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Renovação e modernização das frotas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Renovação e modernização das frotas\n\nNo respeitante aos segmentos de frota abrangidos pelo n.º 1 do artigo 1.º:\n\n1. Em derrogação do artigo 13.º do Regulamento (CE) n.º 2371/2002:\n\na) É autorizada a entrada de novas capacidades na frota, com ou sem ajudas públicas, nos limites dos níveis de referência específicos indicados no artigo 1.º;\n\nb) Não é aplicável a obrigação de obter uma redução da capacidade global da frota de 3 % dos níveis de referência.\n\n2. Em derrogação da subalínea i) da alínea c) do n.º 1 do artigo 9.º do Regulamento (CE) n.º 2792/1999, podem ser concedidos ajudas públicas para a modernização da frota em termos de arqueação e/ou potência.\n\n3. As derrogações estabelecidas nos n.^os^ 1 e 2 deixam de ser aplicáveis logo que sejam atingidos os níveis de referência e, em todo o caso, o mais tardar em 31 de Dezembro de 2006.\n\n4. Em derrogação da alínea a) do n.º 1 do artigo 9.º do Regulamento (CE) n.º 2792/1999, as ajudas públicas para a renovação dos navios de pesca podem ser concedidas até [**►M1**](http://publications.europa.eu/resource/celex/32006R1646) 31 de Dezembro de 2006**◄**.\n\n5. Não obstante o n.º 3, no caso dos navios de pesca que tenham beneficiado de ajudas públicas para a renovação, a derrogação prevista na alínea a) do n.º 1 deixará de ser aplicável dois anos após terem sido concedidos essas ajudas e, em todo o caso, o mais tardar em [**►M1**](http://publications.europa.eu/resource/celex/32006R1646) 31 de Dezembro de 2008**◄**."
+  },
+  "46ad8c5fc82c88d6": {
+   "fragment_id": "Artigo 3.º — Transferência de navios para o continente",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Transferência de navios para o continente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Transferência de navios para o continente\n\nQualquer transferência de um navio de uma região ultraperiférica para o continente deve ser tratada como uma entrada na frota continental na acepção do artigo 13.º do Regulamento (CE) n.º 2371/2002. As ajudas públicas para a renovação da frota e para o equipamento ou modernização dos navios de pesca devem ser reembolsadas *pro rata temporis* no caso da transferência de um navio para o continente antes do final de um período de:\n\na) 10 anos, no caso de ajuda pública à renovação da frota; e\n\nb) Cinco anos, no caso de ajuda pública para o equipamento ou modernização dos navios de pesca,\n\na contar da data em que a decisão administrativa de concessão da ajuda tenha sido tomada."
+  },
+  "795fc767b0b2f12f": {
+   "fragment_id": "Artigo 4.º — Gestão das capacidades",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Gestão das capacidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Gestão das capacidades\n\n1. Os Estados-Membros gerem as frotas registadas nas regiões ultraperiféricas por forma a dar cumprimento ao disposto no presente regulamento.\n\n2. Os Estados-Membros facultam à Comissão informações sobre os navios registados nas respectivas regiões ultraperiféricas, em conformidade com o artigo 15.º do Regulamento (CE) n.º 2371/2002.\n\n3. As regras de execução do presente artigo são aprovadas nos termos do n.º 2 do artigo 5.º"
+  },
+  "066e8a7ea2706bb3": {
+   "fragment_id": "Artigo 5.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité das Pescas e da Aquacultura.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de 20 dias úteis.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "db0b9c0959f6f471": {
+   "fragment_id": "Artigo 6.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Relatório\n\nA Comissão deve apresentar ao Parlamento Europeu e ao Conselho um relatório sobre a execução do presente regulamento até [**►M1**](http://publications.europa.eu/resource/celex/32006R1646) 31 de Dezembro de 2007**◄**."
+  },
+  "89e91058a7bf2ef6": {
+   "fragment_id": "Artigo 7.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente regulamento entra em vigor sete dias após o da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável com efeitos desde 1 de Janeiro de 2003.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "7485b9bfb257fd3a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/73ecedf7-5fa7-450c-a20f-61d053ee5092.0018.03/DOC_1#src.E0001)) Parecer emitido em 4 de Dezembro de 2003 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/73ecedf7-5fa7-450c-a20f-61d053ee5092.0018.03/DOC_1#src.E0002)) JO L 358 de 31.12.2002, p. 59.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/73ecedf7-5fa7-450c-a20f-61d053ee5092.0018.03/DOC_1#src.E0003)) JO L 337 de 30.12.1999, p. 10. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2369/2002 (JO L 358 de 31.12.2002, p. 49).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/73ecedf7-5fa7-450c-a20f-61d053ee5092.0018.03/DOC_1#src.E0004)) JO L 215 de 10.8.2002, p. 23.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/73ecedf7-5fa7-450c-a20f-61d053ee5092.0018.03/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 23."
+  },
+  "0e5e99c48283d1e5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Março de 2004\n\nrelativo à gestão das frotas de pesca registadas nas regiões ultraperiféricas da Comunidade\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 37.º e 299.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/dbbe32ce-18bc-4fd3-9430-e72addc7caf8.0018.03/DOC_1#E0001)),\n\n(1) O Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da política comum das pescas ([^2^](http://publications.europa.eu/resource/cellar/dbbe32ce-18bc-4fd3-9430-e72addc7caf8.0018.03/DOC_1#E0002)), nomeadamente o capítulo III, estabelece um regime comunitário para ajustar as capacidades das frotas de pesca dos Estados-Membros, para um nível globalmente compatível com as possibilidades de pesca.\n\n(2) O Regulamento (CE) n.º 2792/1999 do Conselho, de 17 de Dezembro de 1999, que define os critérios e condições das acções estruturais comunitárias no sector das pescas ([^3^](http://publications.europa.eu/resource/cellar/dbbe32ce-18bc-4fd3-9430-e72addc7caf8.0018.03/DOC_1#E0003)), inclui disposições relativamente à modernização dos navios de pesca com ajudas públicas e às ajudas públicas para a renovação dos navios de pesca.\n\n(3) Atendendo à importância relativa do sector das pescas nas regiões ultraperiféricas comunitárias («regiões ultraperiféricas»), justifica-se que seja tomada em consideração a situação estrutural, social e económica específica dessas regiões no respeitante à gestão das frotas de pesca. Para o efeito, é necessário adaptar às necessidades dessas regiões as disposições relativas à gestão dos regimes de entrada/saída da frota e à retirada obrigatória de capacidades, previstas no Regulamento (CE) n.º 2371/2002, assim como as condições de acesso às ajudas públicas para a modernização e para a renovação dos navios de pesca.\n\n(4) É igualmente necessário limitar qualquer aumento da capacidade das frotas registadas nos portos das regiões ultraperiféricas ao justificado pelas possibilidades de pesca locais e manter as dimensões das frotas em equilíbrio com as referidas possibilidades de pesca. Para o efeito, os objectivos fixados pelos programas de orientação plurianuais IV (POP IV) para cada segmento da frota, estabelecidos no anexo da Decisão 2002/652/CE da Comissão, de 29 de Julho de 2002, que altera as Decisões 98/119/CE a 98/131/CE a fim de prorrogar os programas de orientação plurianuais das frotas de pesca dos Estados-Membros até 31 de Dezembro de 2002 ([^4^](http://publications.europa.eu/resource/cellar/dbbe32ce-18bc-4fd3-9430-e72addc7caf8.0018.03/DOC_1#E0004)), deverão ser considerados níveis de referência ou limites máximos para a expansão das frotas registadas nos departamentos ultramarinos franceses, nos Açores e na Madeira.\n\n(5) Deverão ser determinados níveis de referência específicos no respeitante aos segmentos de navios registados nas ilhas Canárias para os quais não tenham sido fixados objectivos específicos no âmbito do POP IV. Esses níveis de referência deverão ter em conta a capacidade da frota local em relação às possibilidades de pesca.\n\n(6) É necessário evitar que os navios registados nas regiões ultraperiféricas sejam transferidos e utilizados no continente após terem beneficiado de um tratamento mais favorável no respeitante à concessão de ajudas públicas e/ou condições de entrada na frota.\n\n(7) Logo que sejam atingidos os níveis de referência definidos no presente regulamento e, em todo o caso, a partir de 1 de Janeiro de 2007, justifica-se que sejam aplicadas às frotas registadas nas regiões ultraperiféricas regras relativas à gestão das capacidades da frota e aos regimes de ajudas públicas idênticas às aplicadas aos navios registados no resto da Comunidade, excepto no caso dos navios que tenham beneficiado de ajudas públicas para a renovação, para os quais a entrada na frota poderá ter lugar até 31 de Dezembro de 2007.\n\n(8) Para facilitar a execução do presente regulamento, os Estados-Membros deverão reunir informações sobre os navios registados nas regiões ultraperiféricas. Essas informações deverão ser comunicadas à Comissão, que elaborará o correspondente relatório a fim de assegurar a plena transparência das medidas executadas.\n\n(9) Dado que as novas regras gerais em matéria de gestão das capacidades das frotas e de ajudas públicas foram introduzidas pelos Regulamentos (CE) n.º 2371/2002 e (CE) n.º 2792/1999 com efeitos desde 1 de Janeiro de 2003, os regimes específicos deverão ser aplicados às regiões ultraperiféricas igualmente desde essa data.\n\n(10) As medidas necessárias para a execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^5^](http://publications.europa.eu/resource/cellar/dbbe32ce-18bc-4fd3-9430-e72addc7caf8.0018.03/DOC_1#E0005)),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ff15867391b83b82": {
+   "fragment_id": "Artigo 2.º — Renovação e modernização das frotas",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Renovação e modernização das frotas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Renovação e modernização das frotas\n\nNo respeitante aos segmentos de frota abrangidos pelo n.º 1 do artigo 1.º:\n\n1. Em derrogação do artigo 13.º do Regulamento (CE) n.º 2371/2002:\n\na) É autorizada a entrada de novas capacidades na frota, com ou sem ajudas públicas, nos limites dos níveis de referência específicos indicados no artigo 1.º;\n\nb) Não é aplicável a obrigação de obter uma redução da capacidade global da frota de 3 % dos níveis de referência.\n\n2. Em derrogação da subalínea i) da alínea c) do n.º 1 do artigo 9.º do Regulamento (CE) n.º 2792/1999, podem ser concedidos ajudas públicas para a modernização da frota em termos de arqueação e/ou potência.\n\n3. As derrogações estabelecidas nos n.^os^ 1 e 2 deixam de ser aplicáveis logo que sejam atingidos os níveis de referência e, em todo o caso, o mais tardar em 31 de Dezembro de 2006.\n\n4. Em derrogação da alínea a) do n.º 1 do artigo 9.º do Regulamento (CE) n.º 2792/1999, as ajudas públicas para a renovação dos navios de pesca podem ser concedidas até [**►M1**](http://publications.europa.eu/resource/celex/32006R1646) 31 de Dezembro de 2006**◄**.\n\n5. Não obstante o n.º 3, no caso dos navios de pesca que tenham beneficiado de uma ajuda pública para a renovação, a derrogação prevista na alínea a) do n.º 1 deixará de ser aplicável três anos após ter sido concedida a ajuda pública para a renovação e, em todo o caso, o mais tardar em 31 de Dezembro de 2011."
+  },
+  "4b685db68ebbbecd": {
+   "fragment_id": "Artigo 6.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Relatório\n\nA Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório sobre a execução do presente regulamento o mais tardar em 30 de Junho de 2012."
+  },
+  "50cad09137919079": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/dbbe32ce-18bc-4fd3-9430-e72addc7caf8.0018.03/DOC_1#src.E0001)) Parecer emitido em 4 de Dezembro de 2003 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/dbbe32ce-18bc-4fd3-9430-e72addc7caf8.0018.03/DOC_1#src.E0002)) JO L 358 de 31.12.2002, p. 59.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/dbbe32ce-18bc-4fd3-9430-e72addc7caf8.0018.03/DOC_1#src.E0003)) JO L 337 de 30.12.1999, p. 10. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2369/2002 (JO L 358 de 31.12.2002, p. 49).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/dbbe32ce-18bc-4fd3-9430-e72addc7caf8.0018.03/DOC_1#src.E0004)) JO L 215 de 10.8.2002, p. 23.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/dbbe32ce-18bc-4fd3-9430-e72addc7caf8.0018.03/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 23."
+  },
+  "31832695181a1558": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2004R0639 — PT — 01.01.2014 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32004R0639) [REGULAMENTO (CE) N.º 639/2004 DO CONSELHO](http://publications.europa.eu/resource/celex/32004R0639) [de30 de Março de 2004](http://publications.europa.eu/resource/celex/32004R0639) [relativo à gestão das frotas de pesca registadas nas regiões ultraperiféricas da Comunidade](http://publications.europa.eu/resource/celex/32004R0639) (JO L 102, 7.4.2004, p.9)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 1380/2013 do Parlamento Europeu e do Conselho de 11 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1380) — L 354 — 22 — 28.12.2013"
+  }
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31976L0767:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0767-20110701",
+ "dre_path": null,
+ "source_lastmod": "2011-07-01",
+ "versions": [
+  {
+   "date": "2011-07-01",
+   "future": false,
+   "celex": "01976L0767-20110701",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b0147f079e477cc2"
+   ]
+  }
+ ],
+ "fragments": {
+  "b0147f079e477cc2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1976L0767 — PT — 01.07.2011 — 009.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31976L0767) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31976L0767) [de 27 de Julho de 1976](http://publications.europa.eu/resource/celex/31976L0767) [relativa à aproximação das legislações dos Estados-membros respeitantes às disposições comuns sobre os recipientes sob pressão e os métodos de controlo desses recipientes](http://publications.europa.eu/resource/celex/31976L0767) [(76/767/CEE)](http://publications.europa.eu/resource/celex/31976L0767) (JO L 262, 27.9.1976, p.153)\n\n**revogado por:**\n\n- [Directiva 2010/35/UE do Parlamento Europeu e do Conselho de 16 de Junho de 2010](http://publications.europa.eu/resource/celex/32010L0035) — L 165 — 1 — 30.6.2010"
+  }
+ }
+}

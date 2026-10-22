@@ -36,6 +36,66 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-11-01'
+version_history:
+  file: diretiva-ue-2006-126.versoes.json
+  count: 2
+  source_lastmod: '2020-11-01'
+  versions:
+  - date: '2006-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-11-01'
+    amending: eu:celex:32009L0113:por
+    amending_title: DIRECTIVA 2009/113/CE DA COMISSÃO de 25 de Agosto de 2009; DIRECTIVA 2011/94/UE DA COMISSÃO de 28 de Novembro
+      de 2011; DIRETIVA 2012/36/UE DA COMISSÃO Texto relevante para efeitos do EEE de 19 de novembro de 2012; DIRETIVA 2013/22/UE
+      DO CONSELHO, de 13 de maio de 2013,; DIRETIVA 2013/47/UE DA COMISSÃO Texto relevante para efeitos do EEE de 2 de outubro
+      de 2013; DIRETIVA 2014/85/UE DA COMISSÃO Texto relevante para efeitos do EEE de 1 de julho de 2014; DIRETIVA (UE) 2015/653
+      DA COMISSÃO Texto relevante para efeitos do EEE de 24 de abril de 2015; DIRETIVA (UE) 2016/1106 DA COMISSÃO Texto relevante
+      para efeitos do EEE de 7 de julho de 2016; DIRETIVA (UE) 2018/645 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante
+      para efeitos do EEE de 18 de abril de 2018; M10; DIRETIVA (UE) 2020/612 DA COMISSÃO Texto relevante para efeitos do
+      EEE de 4 de maio de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Categorias, definições e idades mínimas
+    - Altera Artigo 6.º — Ordenamento e equivalências entre categorias
+    - Altera Artigo 7.º — Emissão, validade e renovação
+    - Altera Artigo 10.º — Examinadores
+    - Altera Artigo 19.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 15.º — Assistência mútua
+    - Adita ANEXO I
+    - Adita DISPOSIÇÕES RELATIVAS AO MODELO DE CARTA DE CONDUÇÃO DA UNIÃO EUROPEIA
+    - 'Adita 4. Disposições especiais:'
+    - Adita MODELO DE CARTA DE CONDUÇÃO DA UNIÃO EUROPEIA
+    - Adita Página 1
+    - Adita Página 2
+    - Adita ANEXO II
+    - Adita I. REQUISITOS MÍNIMOS PARA OS EXAMES DE CONDUÇÃO
+    - Adita A. EXAME TEÓRICO
+    - Adita 1. Forma
+    - Adita 2. Teor do exame teórico para todas as categorias de veículos
+    - Adita 3. Disposições específicas relativas às categorias A1, A2 e A
+    - Adita 4. Disposições específicas relativas às categorias C, CE, C1, C1E, D, DE, D1 e D1E
+    - Adita B. EXAME DAS APTIDÕES E DO COMPORTAMENTO
+    - Adita 5. Veículo e seu equipamento
+    - Adita 5.1 Sistema de transmissão do veículo
+    - Adita 6. Exame das aptidões e do comportamento para as categorias A1, A2 e A
+    - Adita 6.1 Preparação e inspecção técnica do veículo no que se refere à segurança rodoviária
+    - Adita 6.2 Manobras especiais a executar no exame no que se refere à segurança rodoviária
+    - Adita 6.3 Comportamento no tráfego
+    - Adita 7. Exame das aptidões e do comportamento para as categorias B, B1 e BE
+    - Adita 7.1 Preparação e inspecção técnica do veículo no que se refere à segurança rodoviária
+    - 'Adita 7.2 Categorias B e B1: Manobras especiais a executar no exame no que se refere, à segurança rodoviária.'
+    - 'Adita 7.3 Categoria BE: Manobras especiais, a executar no exame no que se refere à segurança rodoviária.'
+    - Adita 7.4 Comportamento no tráfego
+    - Adita 8. Exame das aptidões e do comportamento para as categorias C, CE, C1, C1E, D, DE, D1 e D1E
+    - Adita 8.1 Preparação e inspecção técnica do veículo, no que se refere à segurança rodoviária
+    - 'Adita 8.2 Manobras especiais a executar no exame no que se refere à segurança rodoviária:'
+    - Adita 8.3 Comportamento no tráfego
+    - Adita 8.4 Condução segura e eficiente em termos de consumo de energia
+    - Adita 9. Atribuição da classificação no exame de aptidões e comportamento
+    - Adita 10. Duração do exame
 identifiers:
   celex: 32006L0126
   eli: http://data.europa.eu/eli/dir/2006/126/oj
@@ -50,7 +110,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/466ee020-0598-45b2-8fdd-65aa905668f1.0017
   content_url: http://publications.europa.eu/resource/cellar/15ad518b-12db-11eb-9a54-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0126-20201101
-  retrieved_at: '2026-10-22T02:37:43Z'
+  retrieved_at: '2026-10-22T15:03:07Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T19:03:29.467+01:00'
 integrity:
@@ -59,9 +119,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:43Z'
-  notes: Texto consolidado 02006L0126-20201101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:03:07Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2006-126.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -365,39 +425,29 @@ relationships:
   source: null
 article_structure:
   article_count: 19
-  section_count: 95
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 96
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:43Z'
-  warnings: []
+  checked_at: '2026-10-22T15:03:07Z'
+  warnings:
+  - '02006L0126-20090826: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0126-20111219: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0126-20121121: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0126-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0126-20131023: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0126-20140722: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0126-20150515: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0126-20180101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0126-20180522: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0126-20180722: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 2006/126/CE do Parlamento Europeu e do Conselho, de 20 de Dezembro de 2006
-
-> 02006L0126 — PT — 01.11.2020 — 011.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009L0113) — [DIRECTIVA 2009/113/CE DA COMISSÃO de 25 de Agosto de 2009](http://publications.europa.eu/resource/celex/32009L0113) — L 223 — 31 — 26.8.2009
-- [►M2](http://publications.europa.eu/resource/celex/32011L0094) — [DIRECTIVA 2011/94/UE DA COMISSÃO de 28 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011L0094) — L 314 — 31 — 29.11.2011
-- [►M3](http://publications.europa.eu/resource/celex/32012L0036) — [DIRETIVA 2012/36/UE DA COMISSÃO Texto relevante para efeitos do EEE de 19 de novembro de 2012](http://publications.europa.eu/resource/celex/32012L0036) — L 321 — 54 — 20.11.2012
-- [►M4](http://publications.europa.eu/resource/celex/32013L0022) — [DIRETIVA 2013/22/UE DO CONSELHO, de 13 de maio de 2013,](http://publications.europa.eu/resource/celex/32013L0022) — L 158 — 356 — 10.6.2013
-- [►M5](http://publications.europa.eu/resource/celex/32013L0047) — [DIRETIVA 2013/47/UE DA COMISSÃO Texto relevante para efeitos do EEE de 2 de outubro de 2013](http://publications.europa.eu/resource/celex/32013L0047) — L 261 — 29 — 3.10.2013
-- [►M6](http://publications.europa.eu/resource/celex/32014L0085) — [DIRETIVA 2014/85/UE DA COMISSÃO Texto relevante para efeitos do EEE de 1 de julho de 2014](http://publications.europa.eu/resource/celex/32014L0085) — L 194 — 10 — 2.7.2014
-- [►M7](http://publications.europa.eu/resource/celex/32015L0653) — [DIRETIVA (UE) 2015/653 DA COMISSÃO Texto relevante para efeitos do EEE de 24 de abril de 2015](http://publications.europa.eu/resource/celex/32015L0653) — L 107 — 68 — 25.4.2015
-- [►M8](http://publications.europa.eu/resource/celex/32016L1106) — [DIRETIVA (UE) 2016/1106 DA COMISSÃO Texto relevante para efeitos do EEE de 7 de julho de 2016](http://publications.europa.eu/resource/celex/32016L1106) — L 183 — 59 — 8.7.2016
-- [►M9](http://publications.europa.eu/resource/celex/32018L0645) — [DIRETIVA (UE) 2018/645 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 18 de abril de 2018](http://publications.europa.eu/resource/celex/32018L0645) — L 112 — 29 — 2.5.2018
-- [M10](http://publications.europa.eu/resource/celex/32018L0933) — [DIRETIVA (UE) 2018/933 DA COMISSÃO Texto relevante para efeitos do EEE de 29 de junho de 2018](http://publications.europa.eu/resource/celex/32018L0933) — L 165 — 35 — 2.7.2018
-- [►M11](http://publications.europa.eu/resource/celex/32020L0612) — [DIRETIVA (UE) 2020/612 DA COMISSÃO Texto relevante para efeitos do EEE de 4 de maio de 2020](http://publications.europa.eu/resource/celex/32020L0612) — L 141 — 9 — 5.5.2020
-
-## DIRECTIVA 2006/126/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de Dezembro de 2006
 

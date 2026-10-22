@@ -35,6 +35,69 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-12-28'
+version_history:
+  file: decisao-ue-2007-533.versoes.json
+  count: 4
+  source_lastmod: '2020-12-28'
+  versions:
+  - date: '2007-08-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-08-27'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Arquitectura técnica e modos de funcionamento do SIS II
+    - Altera Artigo 15.º — Gestão operacional
+    - Altera Artigo 32.º — Objectivos das indicações e condições de inserção
+    - Altera Artigo 36.º — Objectivos das indicações e condições de inserção
+    - Altera Artigo 37.º — Execução da medida a tomar com base numa indicação
+    - Altera Artigo 40.º — Autoridades com direito de acesso às indicações
+    - Altera Artigo 68.º — Alteração das disposições do Acervo de Schengen
+    - Altera Artigo 71.º — Entrada em vigor, aplicabilidade e migração
+    - Altera Notas
+    - Adita [►C1](http://publications.europa.eu/resource/celex/32007D0533R%2801%29) INDICAÇÕES DE PESSOAS E OBJECTOS PARA
+      EFEITOS DE CONTROLO DISCRETO OU DE CONTROLO ESPECÍFICO◄
+    - Suprime INDICAÇÕES DE PESSOAS E OBJECTOS PARA EFEITOS DE VIGILÂNCIA DISCRETA OU DE CONTROLO ESPECÍFICO
+  - date: '2019-12-28'
+    amending: eu:celex:32018R1726:por
+    amending_title: REGULAMENTO (UE) 2018/1726 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de novembro de 2018; REGULAMENTO
+      (UE) 2018/1862 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de novembro de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Sistemas nacionais
+    - Altera Artigo 11.º — Confidencialidade — Estados-Membros
+    - Altera Artigo 15.º — Gestão operacional
+    - Altera Artigo 17.º — Confidencialidade — Autoridade de gestão
+    - Altera Artigo 21.º — Proporcionalidade
+    - Altera Artigo 40.º — Autoridades com direito de acesso às indicações
+    - Altera Artigo 41.º — Acesso da Europol aos dados do SIS II
+    - Altera Artigo 68.º — Alteração das disposições do Acervo de Schengen
+    - Altera Notas
+    - Adita INDICAÇÕES DE PESSOAS E OBJECTOS PARA EFEITOS DE CONTROLO DISCRETO OU DE CONTROLO ESPECÍFICO
+    - Adita Artigo 42.º-A — Acesso aos dados no SIS II pelas equipas europeias de guardas de fronteiras e costeiros, pelas
+      equipas que participam na execução de funções relacionadas com o regresso e pelos membros das equipas de apoio à gestão
+      dos fluxos migratórios
+    - Suprime [►C1](http://publications.europa.eu/resource/celex/32007D0533R%2801%29) INDICAÇÕES DE PESSOAS E OBJECTOS PARA
+      EFEITOS DE CONTROLO DISCRETO OU DE CONTROLO ESPECÍFICO◄
+  - date: '2020-12-28'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 15.º — Gestão operacional
+    - Altera Artigo 40.º — Autoridades com direito de acesso às indicações
+    - Altera Artigo 41.º — Acesso da Europol aos dados do SIS II
+    - Altera Artigo 42.º-A — Acesso aos dados no SIS II pelas equipas europeias de guardas de fronteiras e costeiros, pelas
+      equipas que participam na execução de funções relacionadas com o regresso e pelos membros das equipas de apoio à gestão
+      dos fluxos migratórios
+    - Altera Artigo 68.º — Alteração das disposições do Acervo de Schengen
+    - Altera Notas
+    - Adita Artigo 22.º — Regras específicas para a introdução, verificação ou consulta com recurso a fotografias e impressões
+      digitais
+    - Suprime Artigo 22.º — Disposições específicas aplicáveis a fotografias e impressões digitais
 identifiers:
   celex: 32007D0533
   eli: http://data.europa.eu/eli/dec/2007/533/oj
@@ -49,7 +112,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/64814c7c-de12-4d72-a6c2-b0c8e3c53bb4.0018
   content_url: http://publications.europa.eu/resource/cellar/e0ce6387-3949-11eb-b27b-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007D0533-20201228
-  retrieved_at: '2026-10-22T02:52:17Z'
+  retrieved_at: '2026-10-22T15:06:35Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T11:29:23.651+01:00'
 integrity:
@@ -58,9 +121,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:17Z'
-  notes: Texto consolidado 02007D0533-20201228.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:06:35Z'
+  notes: 4 versão(ões); histórico completo em decisao-ue-2007-533.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -252,35 +315,19 @@ relationships:
   date: '2006-09-21'
 article_structure:
   article_count: 72
-  section_count: 28
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 29
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:17Z'
+  checked_at: '2026-10-22T15:06:35Z'
   warnings: []
   errors: []
 ---
 
 # Decisão 2007/533/JAI do Conselho, de 12 de Junho de 2007
-
-> 02007D0533 — PT — 28.12.2020 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018R1726) — [REGULAMENTO (UE) 2018/1726 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de novembro de 2018](http://publications.europa.eu/resource/celex/32018R1726) — L 295 — 99 — 21.11.2018
-- [►M2](http://publications.europa.eu/resource/celex/32018R1862) — [REGULAMENTO (UE) 2018/1862 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de novembro de 2018](http://publications.europa.eu/resource/celex/32018R1862) — L 312 — 56 — 7.12.2018
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32007D0533R%2801%29) — [Rectificação, JO L 211, 18.8.2011, p. 35 (2007/533/JAI)](http://publications.europa.eu/resource/celex/32007D0533R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32007D0533R%2802%29) — [Rectificação, JO L 299, 17.10.2014, p. 33 (2007/533/JAI)](http://publications.europa.eu/resource/celex/32007D0533R%2802%29)
-
-## DECISÃO 2007/533/JAI DO CONSELHO
 
 de 12 de Junho de 2007
 

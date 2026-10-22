@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-01-01'
+version_history:
+  file: diretiva-ue-2000-25.versoes.json
+  count: 1
+  source_lastmod: '2016-01-01'
+  versions:
+  - date: '2016-01-01'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32000L0025
   eli: http://data.europa.eu/eli/dir/2000/25/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e4ed5652-a6ff-4070-bae7-ab03724c1a68.0009
   content_url: http://publications.europa.eu/resource/cellar/14e93c63-52b8-4e54-9003-5a3c452525a5.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0025-20160101
-  retrieved_at: '2026-10-22T02:39:34Z'
+  retrieved_at: '2026-10-22T14:48:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T15:12:16.002+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:34Z'
-  notes: Texto consolidado 02000L0025-20160101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:49Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2000-25.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -194,16 +203,23 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:34Z'
+  checked_at: '2026-10-22T14:48:49Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02000L0025-20000712: versão indisponível (Sem expressão na língua por para CELEX 02000L0025-20000712.)'
+  - '02000L0025-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000L0025-20050321: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0025-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0025-20100430: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0025-20111013: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0025-20111208: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0025-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0025-20140409: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

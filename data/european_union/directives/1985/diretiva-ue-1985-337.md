@@ -34,6 +34,58 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-02-17'
+version_history:
+  file: diretiva-ue-1985-337.versoes.json
+  count: 2
+  source_lastmod: '2012-02-17'
+  versions:
+  - date: '2009-06-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-02-17'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 10.ºA
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 14.º
+    - Suprime ANEXO I
+    - Suprime PROJECTOS ABRANGIDOS PELO N.º 1 DO ARTIGO 4.º
+    - Suprime ANEXO II
+    - Suprime PROJECTOS ABRANGIDOS PELO N.º 2 DO ARTIGO 4.º
+    - Suprime 1. Agricultura, silvicultura e aquicultura
+    - Suprime 2. Indústria extractiva
+    - Suprime 3. Indústria da energia
+    - Suprime 4. Produção e transformação de metais
+    - Suprime 5. Indústria mineral
+    - Suprime 6. Indústria química (projectos não incluídos no anexo I)
+    - Suprime 7. Indústria alimentar
+    - Suprime 8. Indústrias têxtil, dos curtumes, da madeira e do papel
+    - Suprime 9. Indústria da borracha
+    - Suprime 10. Projectos de infra-estruturas
+    - Suprime 11. Outros projectos
+    - Suprime 12. Turismo e tempos livres
+    - Suprime ANEXO III
+    - Suprime CRITÉRIOS DE SELECÇÃO REFERIDOS NO N.º 3 DO ARTIGO 4.º
+    - Suprime 1. Características dos projectos
+    - Suprime 2. Localização dos projectos
+    - Suprime 3. Características do impacte potencial
+    - Suprime ANEXO IV
+    - Suprime INFORMAÇÕES REFERIDAS NO N.º 1 DO ARTIGO 5.º
+    - Suprime Notas
 identifiers:
   celex: 31985L0337
   eli: http://data.europa.eu/eli/dir/1985/337/oj
@@ -48,7 +100,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/92497bd3-ff88-4f06-8ffd-3715f9795a58.0011
   content_url: http://publications.europa.eu/resource/cellar/d19d099b-d3c3-4bc6-9003-4321688b7ae8.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01985L0337-20120217
-  retrieved_at: '2026-10-22T02:37:51Z'
+  retrieved_at: '2026-10-22T14:34:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-20T08:44:47.483+01:00'
 integrity:
@@ -57,9 +109,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:51Z'
-  notes: Texto consolidado 01985L0337-20120217.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:26Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1985-337.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -362,16 +414,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:51Z'
+  checked_at: '2026-10-22T14:34:26Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01985L0337-19850703: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01985L0337-19970403: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01985L0337-20030625: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

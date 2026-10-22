@@ -1,0 +1,428 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31995R2494:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995R2494-20170101",
+ "dre_path": null,
+ "source_lastmod": "2017-01-01",
+ "versions": [
+  {
+   "date": "1995-10-27",
+   "future": false,
+   "celex": "31995R2494",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "69a7bcff55f68a19",
+    "c034fbf26a9a4ed0",
+    "cce00cdd696dd19b",
+    "71a0b3c5f1b45c28",
+    "839e90c17d26d71f",
+    "f37ab8d33210b045",
+    "ff662b47babd65ef",
+    "80e8e8a5edebc210",
+    "ad3771e0ec6527a1",
+    "b4d251f998b5b658",
+    "da822663119594d3",
+    "109aa041e92d2e7a",
+    "620a3384f6eacc7c",
+    "5fe3518db6f581e8",
+    "93829ec967ab8d6a",
+    "39bbb4d821b405b8",
+    "9701025e42d3c4d7"
+   ]
+  },
+  {
+   "date": "2009-08-07",
+   "future": false,
+   "celex": "01995R2494-20090807",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1882:por",
+     "title": "M1",
+     "published": null,
+     "celex": "32003R1882"
+    },
+    {
+     "id": "eu:celex:32009R0596:por",
+     "title": "REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009",
+     "published": null,
+     "celex": "32009R0596"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 11 — Publicação",
+    "Adita Artigo 1.º — Objectivo",
+    "Adita Artigo 2.º — Definições",
+    "Adita Artigo 3.º — Âmbito de aplicação",
+    "Adita Artigo 4.º — Requisitos de comparabilidade",
+    "Adita Artigo 5.º — Calendário e derrogações",
+    "Adita Artigo 6.º — Informações de base",
+    "Adita Artigo 7.º — Fontes",
+    "Adita Artigo 8.º — Frequência",
+    "Adita Artigo 9.º — Produção de resultados",
+    "Adita Artigo 10.º — Transmissão de resultados",
+    "Adita Artigo 12.º — Comparabilidade dos dados",
+    "Adita Artigo 13.º — Financiamento",
+    "Adita Artigo 14.º — Procedimento de comité",
+    "Adita Artigo 15.º — Revisão",
+    "Adita Artigo 16.º — Entrada em vigor",
+    "Adita Notas",
+    "Suprime Artigo 1º — Objectivo",
+    "Suprime Artigo 2º — Definições",
+    "Suprime Artigo 3º — Âmbito de aplicação",
+    "Suprime Artigo 4º — Requisitos de comparabilidade",
+    "Suprime Artigo 5º — Calendário e derrogações",
+    "Suprime Artigo 6º — Informações de base",
+    "Suprime Artigo 7º — Fontes",
+    "Suprime Artigo 8º — Frequência",
+    "Suprime Artigo 9º — Produção de resultados",
+    "Suprime Artigo 10º — Transmissão de resultados",
+    "Suprime Artigo 12º — Comparabilidade dos dados",
+    "Suprime Artigo 13º — Financiamento",
+    "Suprime Artigo 14º — Processo",
+    "Suprime Artigo 15º — Revisão",
+    "Suprime Artigo 16º — Entrada em vigor"
+   ],
+   "fragments": [
+    "f4a60f004aba1232",
+    "b907353827755671",
+    "bee7cb31d0239de6",
+    "b3cecfc06970865b",
+    "8404d3a5155bdeed",
+    "ac1eebf38eb7b999",
+    "f795f4fb15b5f888",
+    "4102f977993e11d5",
+    "c7141f5bc6dd9194",
+    "71331b892df821bb",
+    "104aa37544689095",
+    "8e5818a5e02be087",
+    "5300dada4765f0c3",
+    "9f210bce9ed2e6a8",
+    "5cb719d890641dfd",
+    "dfd07e3158f47c9e",
+    "76100019b7e13d8f",
+    "d161b311e6caf2d4"
+   ]
+  },
+  {
+   "date": "2017-01-01",
+   "future": false,
+   "celex": "01995R2494-20170101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objectivo",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Âmbito de aplicação",
+    "Suprime Artigo 4.º — Requisitos de comparabilidade",
+    "Suprime Artigo 5.º — Calendário e derrogações",
+    "Suprime Artigo 6.º — Informações de base",
+    "Suprime Artigo 7.º — Fontes",
+    "Suprime Artigo 8.º — Frequência",
+    "Suprime Artigo 9.º — Produção de resultados",
+    "Suprime Artigo 10.º — Transmissão de resultados",
+    "Suprime Artigo 11 — Publicação",
+    "Suprime Artigo 12.º — Comparabilidade dos dados",
+    "Suprime Artigo 13.º — Financiamento",
+    "Suprime Artigo 14.º — Procedimento de comité",
+    "Suprime Artigo 15.º — Revisão",
+    "Suprime Artigo 16.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "9558f10f9c9bbe71"
+   ]
+  }
+ ],
+ "fragments": {
+  "69a7bcff55f68a19": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 2494/95 do Conselho, de 23 de Outubro de 1995, relativo aos índices harmonizados de preços no consumidor** *Jornal Oficial nº L 257 de 27/10/1995 p. 0001 - 0004*\n\nREGULAMENTO (CE) Nº 2494/95 DO CONSELHO de 23 de Outubro de 1995 relativo aos índices harmonizados de preços no consumidor\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 213º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Instituto Monetário Europeu (3),\n\nTendo em conta o parecer do Comité Económico e Social (4),\n\nConsiderando que o nº 1 do artigo 109ºJ do Tratado determina que a Comissão e o Instituto Monetário Europeu (IME) devem apresentar relatórios ao Conselho sobre os progressos alcançados pelos Estados-membros no cumprimento das suas obrigações relativas à realização da União Económica e Monetária tendo em vista alcançar um elevado grau de estabilidade dos preços;\n\nConsiderando que o artigo 1º do protocolo relativo aos critérios de convergência a que se refere o artigo 109ºJ do Tratado estabelece que a estabilidade dos preços sustentável atingida pelos Estados-membros é função da inflação calculada com base no índice de preços no consumidor numa base comparável, tomando em conta as diferenças nas definições nacionais; que os índices de preços no consumidor existentes não são estabelecidos em bases directamente comparáveis;\n\nConsiderando que é necessário que a Comunidade, nomeadamente as suas instâncias fiscais e monetárias, disponha, regular e atempadamente, de índices de preços no consumidor, a fim de estabelecer comparações de taxas de inflação no contexto macro-económico e internacional, diferentes dos destinados a fins nacionais e micro-económicos;\n\nConsiderando que se aceita que a inflação é um fenómeno que se manifesta em todas as formas de transacções comerciais, incluindo as adquisições de bens de investimento, os contratos públicos, o custo da mão-de-obra e as aquisições efectuadas pelo consumidor; que é necessário dispor de uma série de estatísticas, das quais os índices de preços no consumidor constituem um elemento essencial, para a compreensão do processo inflaccionista ao nível nacional e entre os Estados-membros;\n\nConsiderando que é possível estabelecer índices de preços no consumidor comparáveis em vez, ou para além, dos índices de preços no consumidor similares já estabelecidos ou a estabelecer futuramente pelos Estados-membros;\n\nConsiderando que o estabelecimento de índices comparáveis acarreta despesas cujo encargo se reparte entre a Comunidade e os Estados-membros;\n\nConsiderando que, em conformidade com o princípio da subsidiariedade, a criação de normas estatísticas comuns aplicáveis aos índices de preços no consumidor é uma acção que só pode ser eficazmente realizada ao nível comunitário e que a recolha de dados e o estabelecimento de índices de preços no consumidor comparáveis se efectuarão em cada Estado-membro sob a autoridade dos organismos e instituições responsáveis pela elaboração de estatísticas ao nível nacional;\n\nConsiderando que, com vista à realização da União Económica e Monetária, é necessário dispor de um índice de preços no consumidor válido para toda a Comunidade;\n\nConsiderando que o Comité do Programa Estatístico (CPE), instituído pela Decisão 89/382/CEE, Euratom do Conselho (5), emitiu parecer favorável sobre o projecto do presente regulamento,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "c034fbf26a9a4ed0": {
+   "fragment_id": "Artigo 1º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º — Objectivo\n\nO presente regulamento tem por objectivo estabelecer as bases estatísticas necessárias para se efectuar o cálculo de índices comparáveis dos preços no consumidor ao nível comunitário."
+  },
+  "cce00cdd696dd19b": {
+   "fragment_id": "Artigo 2º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) « Índice harmonizado de preços no consumidor » (IHPC), o índice comparável de preços no consumidor elaborado por cada Estado-membro;\n\nb) « Índice europeu de preços no consumidor » (IEPC), o índice de preços no consumidor elaborado pela Comissão (Eurostat) para a Comunidade com base nos IHPC dos Estados-membros;\n\nc) « Índice de preços no consumidor da União Monetária » (IPCUM), o índice de preços no consumidor elaborado pela Comissão (Eurostat) no âmbito da União Económica e Monetária com base nos IHPC dos Estados-membros não abrangidos por qualquer derrogação ao abrigo do artigo 109ºK do Tratado, enquanto existirem tais derrogações."
+  },
+  "71a0b3c5f1b45c28": {
+   "fragment_id": "Artigo 3º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 3º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º — Âmbito de aplicação\n\nO IHPC tem por base os preços dos bens e serviços disponíveis para aquisição no território económico dos Estados-membros, destinados à satisfação directa da procura dos consumidores. As questões relativas à ponderação são determinadas pela Comissão nos termos do procedimento previsto no artigo 14º"
+  },
+  "839e90c17d26d71f": {
+   "fragment_id": "Artigo 4º — Requisitos de comparabilidade",
+   "type": "artigo",
+   "heading": "Artigo 4º — Requisitos de comparabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — Requisitos de comparabilidade\n\nOs IHPC são considerados comparáveis se reflectirem apenas as diferenças entre as variações de preços ou os padrões de consumo nacionais.\n\nOs IHPC que diferirem devido a diferenças de conceitos, métodos ou práticas utilizados para a respectiva definição e elaboração não são considerados comparáveis.\n\nA Comissão (Eurostat) adopta, nos termos do procedimento previsto no artigo 14º, as regras a observar para a obtenção de IHPC comparáveis."
+  },
+  "f37ab8d33210b045": {
+   "fragment_id": "Artigo 5º — Calendário e derrogações",
+   "type": "artigo",
+   "heading": "Artigo 5º — Calendário e derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Calendário e derrogações\n\n1. As medidas necessárias para a obtenção de índices comparáveis de preços no consumidor são aplicadas de acordo com as seguintes fases:\n\na) Fase I O mais tardar durante Março de 1996, a Comissão (Eurostat) elabora, em colaboração com os Estados-membros, para efeitos do relatório referido no artigo 109ºJ do Tratado (« critérios de convergência »), um conjunto provisório de índices de preços no consumidor para cada Estado-membro. Estes índices baseiam-se integralmente em dados subjacentes aos índices nacionais de preços no consumidor existentes, ajustados nomeadamente de forma a:\n\ni) excluírem as habitações ocupadas pelo respectivo proprietário,\n\nii) excluírem a saúde e o ensino,\n\niii) excluírem outras rubricas não abrangidas ou tratadas de forma diferente por vários Estados-membros.\n\nb) Fase II O IHPC é aplicável a partir do índice de Janeiro de 1997. O período de referência comum do índice é o ano de 1996. As estimativas das variações de preços ao longo dos doze meses que antecedem Janeiro de 1997 e durante os meses seguintes são elaboradas em função dos índices de 1996.\n\n2. Se necessário, a Comissão (Eurostat) pode conceder, a pedido de um Estado-membro e após consulta do IME, pelo período máximo de um ano, derrogações ao disposto no nº 1 sempre que o Estado-membro em causa tenha que efectuar adaptações significativas do seu sistema estatístico por forma a cumprir as obrigações que lhe são impostas pelo presente regulamento.\n\n3. As medidas de aplicação do presente regulamento, necessárias para garantir a comparabilidade dos IHPC e para preservar e reforçar a sua fiabilidade e relevância, são adoptadas, após consulta do IME, nos termos do procedimento previsto no artigo 14º"
+  },
+  "ff662b47babd65ef": {
+   "fragment_id": "Artigo 6º — Informações de base",
+   "type": "artigo",
+   "heading": "Artigo 6º — Informações de base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º — Informações de base\n\nAs informações de base são constituídas pelos preços e as ponderações dos bens e serviços que devem ser tidos em consideração para garantir a comparabilidade dos índices de acordo com os requisitos definidos no artigo 4º Estes dados são obtidos a partir de inquéritos às unidades estatísticas definidas no Regulamento (CEE) nº 696/93 do Conselho, de 15 de Março de 1993, relativo às unidades estatísticas de observação e de análise do sistema produtivo da Comunidade (1), ou de outras fontes que permitam garantir o respeito dos requisitos de comparabilidade referidos no artigo 4º do presente regulamento."
+  },
+  "80e8e8a5edebc210": {
+   "fragment_id": "Artigo 7º — Fontes",
+   "type": "artigo",
+   "heading": "Artigo 7º — Fontes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — Fontes\n\nAs unidades estatísticas designadas pelos Estados-membros para colaborarem na recolha ou fornecimento de dados sobre os preços são obrigadas a permitir a observação dos preços efectivamente praticados e a fornecer informações verdadeiras e completas na altura em que estas forem solicitadas."
+  },
+  "ad3771e0ec6527a1": {
+   "fragment_id": "Artigo 8º — Frequência",
+   "type": "artigo",
+   "heading": "Artigo 8º — Frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º — Frequência\n\n1. O IHPC, o IEPC e o IPCUM são estabelecidos mensalmente.\n\n2. A recolha de preços é efectuada mensalmente. Se uma recolha menos frequente não prejudicar o estabelecimento de um IHPC que preencha os requisitos de comparabilidade referidos no artigo 4º, a Comissão (Eurostat) pode autorizar derrogações à recolha mensal. O disposto no presente número não obsta a uma recolha de preços mais frequente.\n\n3. As ponderações do IHPC são actualizadas com frequência suficiente para satisfazer os requisitos de comparabilidade referidos no artigo 4º Tal não implica a obrigação de efectuar mais do que um inquérito sobre os orçamentos familiares de cinco em cinco anos, salvo para os Estados-membros relativamente aos quais se reconheça, nos termos do procedimento previsto no artigo 14º, as alterações dos padrões de consumo imporem inquéritos mais frequentes."
+  },
+  "b4d251f998b5b658": {
+   "fragment_id": "Artigo 9º — Produção de resultados",
+   "type": "artigo",
+   "heading": "Artigo 9º — Produção de resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º — Produção de resultados\n\nOs Estados-membros processam os dados recolhidos a fim de elaborarem o IHPC com base num índice do tipo de Laspeyres, cobrindo as categorias da classificação internacional COICOP (Classification of Individual Consumption by Purpose) (1), adaptadas nos termos do procedimento no artigo 14º com vista a estabelecer IHPC comparáveis. São igualmente definidos nestes termos os métodos, processos e fórmulas que garantem o respeito dos requisitos de comparabilidade."
+  },
+  "da822663119594d3": {
+   "fragment_id": "Artigo 10º — Transmissão de resultados",
+   "type": "artigo",
+   "heading": "Artigo 10º — Transmissão de resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º — Transmissão de resultados\n\nOs Estados-membros transmitem os IHPC à Comissão (Eurostat) num prazo não superior a 30 dias a contar do final do mês de referência dos índices."
+  },
+  "109aa041e92d2e7a": {
+   "fragment_id": "Artigo 11 — Publicação",
+   "type": "artigo",
+   "heading": "Artigo 11 — Publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11 — Publicação\n\nO IHPC, o IEPC, o IPCUM e os índices de preços correspondentes a um subconjunto das categorias referidas no artigo 9º, seleccionadas nos termos do procedimento previsto no artigo 14º, são publicados pela Comissão (Eurostat) num prazo não superior a cinco dias úteis a contar do final do período referido no artigo 10º"
+  },
+  "620a3384f6eacc7c": {
+   "fragment_id": "Artigo 12º — Comparabilidade dos dados",
+   "type": "artigo",
+   "heading": "Artigo 12º — Comparabilidade dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º — Comparabilidade dos dados\n\nOs Estados-membros comunicam à Comissão (Eurostat), a pedido desta, informações, entre as quais as recolhidas em conformidade com o artigo 6º, suficientemente pormenorizadas para permitir avaliar o respeito dos requisitos de comparabilidade referidos no artigo 4º e a qualidade dos IHPC."
+  },
+  "5fe3518db6f581e8": {
+   "fragment_id": "Artigo 13º — Financiamento",
+   "type": "artigo",
+   "heading": "Artigo 13º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º — Financiamento\n\nAs medidas de aplicação do presente regulamento são adoptadas tendo o mais possível em consideração o rácio custo/eficácia e na condição de não exigirem recursos suplementares importantes num Estado-membro, salvo se a Comissão (Eurostat) tomar a seu cargo dois terços das despesas suplementares até ao final do segundo ano de aplicação dessas medidas."
+  },
+  "93829ec967ab8d6a": {
+   "fragment_id": "Artigo 14º — Processo",
+   "type": "artigo",
+   "heading": "Artigo 14º — Processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º — Processo\n\n1. A Comissão é assistida pelo Comité do programa estatístico (a seguir designado « comité »).\n\n2. O representante da Comissão submeterá ao comité um projecto de medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\nA Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nSe as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este último ainda não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "39bbb4d821b405b8": {
+   "fragment_id": "Artigo 15º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 15º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º — Revisão\n\nApós consulta ao comité, a Comissão (Eurostat) apresenta, no prazo de dois anos a contar da data de entrada em vigor do presente regulamento e, posteriormente, no termo de um novo prazo de dois anos, um relatório ao Conselho sobre os IHPC elaborados em conformidade com o presente regulamento, em especial sobre a fiabilidade e o respeito dos requisitos de comparabilidade.\n\nNo âmbito destes relatórios, a Comissão toma posição sobre o andamento do procedimento previsto no artigo 14º e propõe, se necessário, as alterações que julgar adequadas."
+  },
+  "9701025e42d3c4d7": {
+   "fragment_id": "Artigo 16º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 16º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo, em 23 de Outubro de 1995.\n\nPelo Conselho O Presidente P. SOLBES MIRA"
+  },
+  "f4a60f004aba1232": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Outubro de 1995\n\nrelativo aos índices harmonizados de preços no consumidor\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 213.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/ecc458ef-0b64-4a8e-bf11-b3408b66b963.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/ecc458ef-0b64-4a8e-bf11-b3408b66b963.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Instituto Monetário Europeu ([^3^](http://publications.europa.eu/resource/cellar/ecc458ef-0b64-4a8e-bf11-b3408b66b963.0018.03/DOC_1#E0003)),\n\nTendo em conta o parecer do Comité Económico e Social ([^4^](http://publications.europa.eu/resource/cellar/ecc458ef-0b64-4a8e-bf11-b3408b66b963.0018.03/DOC_1#E0004)),\n\nConsiderando que o n.º 1 do artigo 109.ºJ do Tratado determina que a Comissão e o Instituto Monetário Europeu (IME) devem apresentar relatórios ao Conselho sobre os progressos alcançados pelos Estados-membros no cumprimento das suas obrigações relativas à realização da União Económica e Monetária tendo em vista alcançar um elevado grau de estabilidade dos preços;\n\nConsiderando que o artigo 1.º do protocolo relativo aos critérios de convergência a que se refere o artigo 109.ºJ do Tratado estabelece que a estabilidade dos preços sustentável atingida pelos Estados-membros é função da inflação calculada com base no índice de preços no consumidor numa base comparável, tomando em conta as diferenças nas definições nacionais; que os índices de preços no consumidor existentes não são estabelecidos em bases directamente comparáveis;\n\nConsiderando que é necessário que a Comunidade, nomeadamente as suas instâncias fiscais e monetárias, disponha, regular e atempadamente, de índices de preços no consumidor, a fim de estabelecer comparações de taxas de inflação no contexto macro-económico e internacional, diferentes dos destinados a fins nacionais e micro-económicos;\n\nConsiderando que se aceita que a inflação é um fenómeno que se manifesta em todas as formas de transacções comerciais, incluindo as adquisições de bens de investimento, os contratos públicos, o custo da mão-de-obra e as aquisições efectuadas pelo consumidor; que é necessário dispor de uma série de estatísticas, das quais os índices de preços no consumidor constituem um elemento essencial, para a compreensão do processo inflaccionista ao nível nacional e entre os Estados-membros;\n\nConsiderando que é possível estabelecer índices de preços no consumidor comparáveis em vez, ou para além, dos índices de preços no consumidor similares já estabelecidos ou a estabelecer futuramente pelos Estados-membros;\n\nConsiderando que o estabelecimento de índices comparáveis acarreta despesas cujo encargo se reparte entre a Comunidade e os Estados-membros;\n\nConsiderando que, em conformidade com o princípio da subsidiariedade, a criação de normas estatísticas comuns aplicáveis aos índices de preços no consumidor é uma acção que só pode ser eficazmente realizada ao nível comunitário e que a recolha de dados e o estabelecimento de índices de preços no consumidor comparáveis se efectuarão em cada Estado-membro sob a autoridade dos organismos e instituições responsáveis pela elaboração de estatísticas ao nível nacional;\n\nConsiderando que, com vista à realização da União Económica e Monetária, é necessário dispor de um índice de preços no consumidor válido para toda a Comunidade;\n\nConsiderando que o Comité do Programa Estatístico (CPE), instituído pela Decisão 89/382/CEE, Euratom do Conselho ([^5^](http://publications.europa.eu/resource/cellar/ecc458ef-0b64-4a8e-bf11-b3408b66b963.0018.03/DOC_1#E0005)), emitiu parecer favorável sobre o projecto do presente regulamento,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "b907353827755671": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO presente regulamento tem por objectivo estabelecer as bases estatísticas necessárias para se efectuar o cálculo de índices comparáveis dos preços no consumidor ao nível comunitário."
+  },
+  "bee7cb31d0239de6": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Índice harmonizado de preços no consumidor» (IHPC), o índice comparável de preços no consumidor elaborado por cada Estado-membro;\n\nb) «Índice europeu de preços no consumidor» (IEPC), o índice de preços no consumidor elaborado pela Comissão (Eurostat) para a Comunidade com base nos IHPC dos Estados-membros;\n\nc) «Índice de preços no consumidor da União Monetária» (IPCUM), o índice de preços no consumidor elaborado pela Comissão (Eurostat) no âmbito da União Económica e Monetária com base nos IHPC dos Estados-membros não abrangidos por qualquer derrogação ao abrigo do artigo 109.ºK do Tratado, enquanto existirem tais derrogações."
+  },
+  "b3cecfc06970865b": {
+   "fragment_id": "Artigo 3.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\nO IHPC tem por base os preços dos bens e serviços disponíveis para aquisição no território económico dos Estados-membros, destinados à satisfação directa da procura dos consumidores. As questões relativas à ponderação são determinadas pela Comissão nos termos do procedimento previsto [**►M2**](http://publications.europa.eu/resource/celex/32009R0596) no n.º 2 do artigo 14.º.**◄**"
+  },
+  "8404d3a5155bdeed": {
+   "fragment_id": "Artigo 4.º — Requisitos de comparabilidade",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Requisitos de comparabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de comparabilidade\n\nOs IHPC são considerados comparáveis se reflectirem apenas as diferenças entre as variações de preços ou os padrões de consumo nacionais.\n\nOs IHPC que diferirem devido a diferenças de conceitos, métodos ou práticas utilizados para a respectiva definição e elaboração não são considerados comparáveis.\n\nA Comissão (Eurostat) adopta as regras a observar para a obtenção de IHPC comparáveis. Estas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, completando-o, são aprovadas pelo procedimento de regulamentação com controlo referido no n.º 3 do artigo 14.º."
+  },
+  "ac1eebf38eb7b999": {
+   "fragment_id": "Artigo 5.º — Calendário e derrogações",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Calendário e derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Calendário e derrogações\n\n1. As medidas necessárias para a obtenção de índices comparáveis de preços no consumidor são aplicadas de acordo com as seguintes fases:\n\na) *Fase I*\n\ni) excluírem as habitações ocupadas pelo respectivo proprietário,\n\nii) excluírem a saúde e o ensino,\n\niii) excluírem outras rubricas não abrangidas ou tratadas de forma diferente por vários Estados-membros.\n\nb) *Fase II*\n\n2. Se necessário, a Comissão (Eurostat) pode conceder, a pedido de um Estado-membro e após consulta do IME, pelo período máximo de um ano, derrogações ao disposto no n.º 1 sempre que o Estado-membro em causa tenha que efectuar adaptações significativas do seu sistema estatístico por forma a cumprir as obrigações que lhe são impostas pelo presente regulamento.\n\n3. A Comissão adopta as medidas de aplicação do presente regulamento, necessárias para garantir a comparabilidade dos IHPC e para preservar e reforçar a sua fiabilidade e relevância, após consulta do IME. Estas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 14.º. A Comissão solicitará à BCE um parecer sobre as medidas que pretende apresentar ao Comité."
+  },
+  "f795f4fb15b5f888": {
+   "fragment_id": "Artigo 6.º — Informações de base",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Informações de base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Informações de base\n\nAs informações de base são constituídas pelos preços e as ponderações dos bens e serviços que devem ser tidos em consideração para garantir a comparabilidade dos índices de acordo com os requisitos definidos no artigo 4.º\n\nEstes dados são obtidos a partir de inquéritos às unidades estatísticas definidas no Regulamento (CEE) n.º 696/93 do Conselho, de 15 de Março de 1993, relativo às unidades estatísticas de observação e de análise do sistema produtivo da Comunidade ([^6^](http://publications.europa.eu/resource/cellar/ecc458ef-0b64-4a8e-bf11-b3408b66b963.0018.03/DOC_1#E0006)), ou de outras fontes que permitam garantir o respeito dos requisitos de comparabilidade referidos no artigo 4.º do presente regulamento."
+  },
+  "4102f977993e11d5": {
+   "fragment_id": "Artigo 7.º — Fontes",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Fontes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Fontes\n\nAs unidades estatísticas designadas pelos Estados-membros para colaborarem na recolha ou fornecimento de dados sobre os preços são obrigadas a permitir a observação dos preços efectivamente praticados e a fornecer informações verdadeiras e completas na altura em que estas forem solicitadas."
+  },
+  "c7141f5bc6dd9194": {
+   "fragment_id": "Artigo 8.º — Frequência",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Frequência\n\n1. O IHPC, o IEPC e o IPCUM são estabelecidos mensalmente.\n\n2. A recolha de preços é efectuada mensalmente. Se uma recolha menos frequente não prejudicar o estabelecimento de um IHPC que preencha os requisitos de comparabilidade referidos no artigo 4.º, a Comissão (Eurostat) pode autorizar derrogações à recolha mensal. O disposto no presente número não obsta a uma recolha de preços mais frequente.\n\n3. As ponderações do IHPC são actualizadas com frequência suficiente para satisfazer os requisitos de comparabilidade referidos no artigo 4.º Tal não implica a obrigação de efectuar mais do que um inquérito sobre os orçamentos familiares de cinco em cinco anos, salvo para os Estados-membros relativamente aos quais se reconheça, nos termos do procedimento previsto [**►M2**](http://publications.europa.eu/resource/celex/32009R0596) no n.º 2 do artigo 14.º,**◄** as alterações dos padrões de consumo imporem inquéritos mais frequentes."
+  },
+  "71331b892df821bb": {
+   "fragment_id": "Artigo 9.º — Produção de resultados",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Produção de resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Produção de resultados\n\nOs Estados-Membros processam os dados recolhidos a fim de elaborarem o IHPC com base num índice do tipo de Laspeyres, cobrindo as categorias da classificação internacional COICOP (Classification of Individual Consumption by Purpose) ([^7^](http://publications.europa.eu/resource/cellar/ecc458ef-0b64-4a8e-bf11-b3408b66b963.0018.03/DOC_1#E0007)), adaptadas pela Comissão com vista a estabelecer IHPC comparáveis. A Comissão deve definir os métodos, processos e fórmulas que garantem o respeito dos requisitos de comparabilidade. Estas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, nomeadamente completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 14.º."
+  },
+  "104aa37544689095": {
+   "fragment_id": "Artigo 10.º — Transmissão de resultados",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Transmissão de resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Transmissão de resultados\n\nOs Estados-membros transmitem os IHPC à Comissão (Eurostat) num prazo não superior a 30 dias a contar do final do mês de referência dos índices."
+  },
+  "8e5818a5e02be087": {
+   "fragment_id": "Artigo 11 — Publicação",
+   "type": "artigo",
+   "heading": "Artigo 11 — Publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11 — Publicação\n\nO IHPC, o IEPC, o IPCUM e os índices de preços correspondentes a um subconjunto das categorias referidas no artigo 9.º, seleccionadas nos termos do procedimento previsto [**►M2**](http://publications.europa.eu/resource/celex/32009R0596) no n.º 2 do artigo 14.º **◄**, são publicados pela Comissão (Eurostat) num prazo não superior a cinco dias úteis a contar do final do período referido no artigo 10.º"
+  },
+  "5300dada4765f0c3": {
+   "fragment_id": "Artigo 12.º — Comparabilidade dos dados",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Comparabilidade dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comparabilidade dos dados\n\nOs Estados-membros comunicam à Comissão (Eurostat), a pedido desta, informações, entre as quais as recolhidas em conformidade com o artigo 6.º, suficientemente pormenorizadas para permitir avaliar o respeito dos requisitos de comparabilidade referidos no artigo 4.º e a qualidade dos IHPC."
+  },
+  "9f210bce9ed2e6a8": {
+   "fragment_id": "Artigo 13.º — Financiamento",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Financiamento\n\nAs medidas de aplicação do presente regulamento são adoptadas tendo o mais possível em consideração o rácio custo/eficácia e na condição de não exigirem recursos suplementares importantes num Estado-membro, salvo se a Comissão (Eurostat) tomar a seu cargo dois terços das despesas suplementares até ao final do segundo ano de aplicação dessas medidas."
+  },
+  "5cb719d890641dfd": {
+   "fragment_id": "Artigo 14.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité para o Programa Estatístico instituído pela Decisão 89/382/CEE, Euratom do Conselho ([^8^](http://publications.europa.eu/resource/cellar/ecc458ef-0b64-4a8e-bf11-b3408b66b963.0018.03/DOC_1#E0008)), a seguir designado «Comité».\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE do Conselho ([^9^](http://publications.europa.eu/resource/cellar/ecc458ef-0b64-4a8e-bf11-b3408b66b963.0018.03/DOC_1#E0009)), tendo-se em conta o disposto no artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º."
+  },
+  "dfd07e3158f47c9e": {
+   "fragment_id": "Artigo 15.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revisão\n\nApós consulta ao comité, a Comissão (Eurostat) apresenta, no prazo de dois anos a contar da data de entrada em vigor do presente regulamento e, posteriormente, no termo de um novo prazo de dois anos, um relatório ao Conselho sobre os IHPC elaborados em conformidade com o presente regulamento, em especial sobre a fiabilidade e o respeito dos requisitos de comparabilidade.\n\nNo âmbito destes relatórios, a Comissão toma posição sobre o andamento dos procedimentos previstos no artigo 14.º e propõe, se necessário, as alterações que julgar adequadas."
+  },
+  "76100019b7e13d8f": {
+   "fragment_id": "Artigo 16.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "d161b311e6caf2d4": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ecc458ef-0b64-4a8e-bf11-b3408b66b963.0018.03/DOC_1#src.E0001)) JO n.º C 84 de 6. 4. 1995, p. 7.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ecc458ef-0b64-4a8e-bf11-b3408b66b963.0018.03/DOC_1#src.E0002)) JO n.º C 249 de 25. 9. 1995.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ecc458ef-0b64-4a8e-bf11-b3408b66b963.0018.03/DOC_1#src.E0003)) Parecer emitido em 31 de Março de 1995 (JO n.º C 236 de 11. 9. 1995, p. 11).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ecc458ef-0b64-4a8e-bf11-b3408b66b963.0018.03/DOC_1#src.E0004)) JO n.º C 236 de 11. 9. 1995, p. 11.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/ecc458ef-0b64-4a8e-bf11-b3408b66b963.0018.03/DOC_1#src.E0005)) JO n.º L 181 de 28. 6. 1989, p. 47.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/ecc458ef-0b64-4a8e-bf11-b3408b66b963.0018.03/DOC_1#src.E0006)) JO n.º L 76 de 30. 3. 1993, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/ecc458ef-0b64-4a8e-bf11-b3408b66b963.0018.03/DOC_1#src.E0007)) Publicado pelas Nações Unidas, na série F n.º 2, revisão 3, quadro 6.1, alterado pela OCDE (DES/NI/86.9), Paris 1986.;\n\n> ([^8^](http://publications.europa.eu/resource/cellar/ecc458ef-0b64-4a8e-bf11-b3408b66b963.0018.03/DOC_1#src.E0008)) JO L 181 de 28.6.1989, p. 47.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/ecc458ef-0b64-4a8e-bf11-b3408b66b963.0018.03/DOC_1#src.E0009)) JO L 184 de 17.7.1999, p. 23."
+  },
+  "9558f10f9c9bbe71": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1995R2494 — PT — 01.01.2017 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31995R2494) [REGULAMENTO (CE) N.º 2494/95 DO CONSELHO](http://publications.europa.eu/resource/celex/31995R2494) [de 23 de Outubro de 1995](http://publications.europa.eu/resource/celex/31995R2494) [relativo aos índices harmonizados de preços no consumidor](http://publications.europa.eu/resource/celex/31995R2494) (JO L 257, 27.10.1995, p.1)\n\n**revogado por:**\n\n- [Regulamento (UE) 2016/792 do Parlamento Europeu e do Conselho de 11 de maio de 2016](http://publications.europa.eu/resource/celex/32016R0792) — L 135 — 11 — 24.5.2016"
+  }
+ }
+}

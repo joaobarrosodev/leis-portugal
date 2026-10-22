@@ -35,6 +35,104 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: regulamento-ue-2006-861.versoes.json
+  count: 3
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2006-06-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-07-23'
+    amending: eu:celex:32011R0693:por
+    amending_title: Regulamento (UE) n. o 693/2011 do Parlamento Europeu e do Conselho de 6 de Julho de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Objectivos gerais
+    - Altera Artigo 4.º — Objectivos específicos no domínio do controlo e da execução
+    - Altera Artigo 7.º — Objectivos específicos no domínio das relações internacionais
+    - Altera Artigo 8.º — Medidas no domínio do controlo e da execução
+    - Altera Artigo 11.º — Medidas no domínio dos pareceres científicos
+    - Altera Artigo 12.º — Medidas no domínio da governação
+    - Altera Artigo 13.º — Medidas no domínio das relações internacionais
+    - Altera Artigo 18.º — Taxas de financiamento das despesas de viagem e alojamento dos membros do CCPA
+    - Altera Artigo 20.º — Programação
+    - Altera Artigo 22.º — Disposição preliminar
+    - Altera Artigo 32.º — Revogação de actos obsoletos
+    - Altera Artigo 33.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 5.º — Objectivos específicos no domínio da recolha, gestão e utilização de dados e do aconselhamento científico
+    - Adita Artigo 9.º — Medidas no domínio da recolha, gestão e utilização de dados de base
+    - Adita Artigo 10.º
+    - Adita Medidas no domínio da recolha, gestão e utilização de dados suplementares
+    - Adita Artigo 16.º
+    - Adita Taxas de co-financiamento no domínio da recolha, gestão e utilização de dados de base
+    - Adita Artigo 17.º
+    - Adita Taxas de co-financiamento no domínio da recolha, gestão e utilização de dados suplementares
+    - Adita Procedimentos aplicáveis no domínio da recolha, gestão e utilização de dados
+    - Adita Artigo 24.º
+    - Adita Decisão de financiamento da Comissão
+    - Adita Artigo 27.º — Protecção dos interesses financeiros da [►M1](http://publications.europa.eu/resource/celex/32011R0693)
+      União◄
+    - Adita Artigo 30.º — Procedimento de comité
+    - Suprime Artigo 5.º — Objectivos específicos no domínio da recolha de dados e pareceres científicos
+    - Suprime Artigo 9.º — Medidas no domínio da recolha de dados de base
+    - Suprime Artigo 10.º — Medidas no domínio da recolha de dados suplementares
+    - Suprime Artigo 16.º — Taxas de co-financiamento no domínio da recolha de dados de base
+    - Suprime Artigo 17.º — Taxas de co-financiamento no domínio da recolha de dados suplementares
+    - Suprime Procedimentos aplicáveis no domínio da recolha de dados
+    - Suprime Artigo 23.º — Programação
+    - Suprime Artigo 24.º — Decisão da Comissão
+    - Suprime Artigo 27.º — Protecção dos interesses financeiros da Comunidade
+    - Suprime Artigo 30.º — Comité
+    - Suprime Artigo 31.º — Regras de execução
+  - date: '2014-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime OBJECTO E ÂMBITO DE APLICAÇÃO
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime CAPÍTULO II
+    - Suprime OBJECTIVOS
+    - Suprime Artigo 3.º — Objectivos gerais
+    - Suprime Artigo 4.º — Objectivos específicos no domínio do controlo e da execução
+    - Suprime Artigo 5.º — Objectivos específicos no domínio da recolha, gestão e utilização de dados e do aconselhamento
+      científico
+    - Suprime Artigo 6.º — Objectivos específicos no domínio da governação
+    - Suprime Artigo 7.º — Objectivos específicos no domínio das relações internacionais
+    - Suprime CAPÍTULO III
+    - Suprime MEDIDAS FINANCEIRAS COMUNITÁRIAS
+    - Suprime Artigo 8.º — Medidas no domínio do controlo e da execução
+    - Suprime Artigo 9.º — Medidas no domínio da recolha, gestão e utilização de dados de base
+    - Suprime Artigo 10.º
+    - Suprime Medidas no domínio da recolha, gestão e utilização de dados suplementares
+    - Suprime Artigo 11.º — Medidas no domínio dos pareceres científicos
+    - Suprime Artigo 12.º — Medidas no domínio da governação
+    - Suprime Artigo 13.º — Medidas no domínio das relações internacionais
+    - Suprime Artigo 14.º — Assistência técnica
+    - Suprime CAPÍTULO IV
+    - Suprime TAXAS DE CO-FINANCIAMENTO
+    - Suprime Artigo 15.º — Taxas de co-financiamento no domínio dos regimes de acompanhamento e de controlo
+    - Suprime Artigo 16.º
+    - Suprime Taxas de co-financiamento no domínio da recolha, gestão e utilização de dados de base
+    - Suprime Artigo 17.º
+    - Suprime Taxas de co-financiamento no domínio da recolha, gestão e utilização de dados suplementares
+    - Suprime Artigo 18.º — Taxas de financiamento das despesas de viagem e alojamento dos membros do CCPA
+    - Suprime CAPÍTULO V
+    - Suprime PROCEDIMENTOS FINANCEIROS
+    - Suprime SECÇÃO 1
+    - Suprime Procedimentos aplicáveis no domínio do regime de acompanhamento e de controlo
+    - Suprime Artigo 19.º — Disposição preliminar
+    - Suprime Artigo 20.º — Programação
+    - Suprime Artigo 21.º — Decisão da Comissão
+    - Suprime SECÇÃO 2
+    - Suprime Procedimentos aplicáveis no domínio da recolha, gestão e utilização de dados
+    - Suprime Artigo 22.º — Disposição preliminar
 identifiers:
   celex: 32006R0861
   eli: http://data.europa.eu/eli/reg/2006/861/oj
@@ -49,7 +147,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016
   content_url: http://publications.europa.eu/resource/cellar/64a5fcb8-b41b-44f5-bef3-771a582dc791.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R0861-20140101
-  retrieved_at: '2026-10-22T03:12:46Z'
+  retrieved_at: '2026-10-22T15:04:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T16:41:42.948+01:00'
 integrity:
@@ -58,9 +156,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:46Z'
-  notes: Texto consolidado 02006R0861-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:04:09Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2006-861.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -142,16 +240,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:46Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:04:09Z'
+  warnings: []
   errors: []
 ---
 

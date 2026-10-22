@@ -35,6 +35,93 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-07-10'
+version_history:
+  file: regulamento-ue-2002-2195.versoes.json
+  count: 5
+  source_lastmod: '2022-07-10'
+  versions:
+  - date: '2002-12-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-12-20'
+    amending: eu:celex:32003R2151:por
+    amending_title: REGULAMENTO (CE) N. o 2151/2003 DA COMISSÃO de 16 de Dezembro de 2003
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera ANEXO III
+    - Adita Artigo 2.º
+    - Adita ANEXO I
+    - Adita VOCABULÁRIO COMUM PARA OS CONTRATOS PÚBLICOS (CPV)
+    - Adita Estrutura do sistema de classificação
+    - Adita ANEXO II
+    - Adita ALTERAÇÕES AOS CÓDIGOS CPV OU DESCRIÇÕES DO ANEXO DO REGULAMENTO (CE) N.º 2195/2002
+    - Adita ANEXO IV
+    - Adita ANEXO V
+    - Adita Notas
+    - Suprime Artigo 2.º — As disposições necessárias para a revisão do CPV serão adoptadas pela Comissão nos termos do procedimento
+      previsto no n.o 2 do artigo 3.o
+    - Suprime ANEXO I — VOCABULÁRIO COMUM PARA OS CONTRATOS PÚBLICOS (CPV)
+    - Suprime ANEXO II — TABELA DE CORRESPONDÊNCIA ENTRE O CPV E A CPA 96
+    - Suprime ANEXO IV — TABELA DE CORRESPONDÊNCIA ENTRE O CPV E A NACE Rev. 1
+    - Suprime ANEXO V — TABELA DE CORRESPONDÊNCIA ENTRE O CPV E A NC
+  - date: '2008-09-15'
+    amending: eu:celex:32008R0213:por
+    amending_title: REGULAMENTO (CE) N. o 213/2008 DA COMISSÃO de 28 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Estrutura do sistema de classificação
+    - Altera ANEXO III
+    - Altera ANEXO IV
+    - Altera Notas
+    - Adita VOCABULÁRIO PRINCIPAL
+    - Adita VOCABULÁRIO SUPLEMENTAR
+    - 'Adita Secção A: Materiais'
+    - 'Adita Secção B: Apresentação, forma, embalagem e acondicionamento'
+    - 'Adita Secção C: Material/produto com qualidades e modo de funcionamento especiais'
+    - 'Adita Secção D: Generalidades, administração'
+    - 'Adita Secção E: Utilizadores/beneficiários'
+    - 'Adita Secção F: Utilização designada'
+    - 'Adita Secção G: Escala e dimensões'
+    - 'Adita Secção H: Atributos residuais para alimentos, bebidas e refeições'
+    - 'Adita Secção I: Atributos residuais para construção/obras'
+    - 'Adita Secção J: Atributos residuais para computação, tecnologias da informação ou comunicação'
+    - 'Adita Secção K: Atributos residuais para distribuição de energia e água'
+    - 'Adita Secção L: Atributos residuais médicos e laboratoriais'
+    - 'Adita Secção M: Atributos residuais para transportes'
+    - 'Adita Secção P: Serviços de aluguer'
+    - 'Adita Secção Q: Atributos residuais para serviços de publicidade e assessoria jurídica'
+    - 'Adita Secção R: Atributos residuais para serviços de investigação'
+    - 'Adita Secção S: Atributos residuais para serviços financeiros'
+    - 'Adita Secção T: Atributos residuais para serviços de impressão'
+    - 'Adita Secção U: Atributos residuais para serviços de comércio a retalho'
+    - Adita TABELA DE CORRESPONDÊNCIA ENTRE O CPV E A CPC PROV.
+    - Adita TABELA DE CORRESPONDÊNCIA ENTRE O CPV E A NACE REV. 1
+    - Adita TABELA DE CORRESPONDÊNCIA ENTRE O CPV E A NC
+    - Suprime ALTERAÇÕES AOS CÓDIGOS CPV OU DESCRIÇÕES DO ANEXO DO REGULAMENTO (CE) N.º 2195/2002
+    - Suprime ANEXO V
+  - date: '2009-08-07'
+    amending: eu:celex:32009R0596:por
+    amending_title: REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera VOCABULÁRIO PRINCIPAL
+    - Altera TABELA DE CORRESPONDÊNCIA ENTRE O CPV E A CPC PROV.
+    - Altera Notas
+  - date: '2022-07-10'
+    amending: eu:celex:32022R0943:por
+    amending_title: M4
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera VOCABULÁRIO PRINCIPAL
+    - Altera TABELA DE CORRESPONDÊNCIA ENTRE O CPV E A CPC PROV.
+    - Altera Notas
 identifiers:
   celex: 32002R2195
   eli: http://data.europa.eu/eli/reg/2002/2195/oj
@@ -49,7 +136,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/db017622-134c-4c3f-b4a5-851ecf4866a5.0010
   content_url: http://publications.europa.eu/resource/cellar/3309a7b7-1d85-11ed-8fa0-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R2195-20220710
-  retrieved_at: '2026-10-22T02:39:41Z'
+  retrieved_at: '2026-10-22T14:54:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T07:43:30.277+01:00'
 integrity:
@@ -58,9 +145,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:41Z'
-  notes: Texto consolidado 02002R2195-20220710.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:19Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2002-2195.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -175,36 +262,19 @@ relationships:
   date: '2015-10-29'
 article_structure:
   article_count: 4
-  section_count: 30
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 31
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:41Z'
+  checked_at: '2026-10-22T14:54:19Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 2195/2002 do Parlamento Europeu e do Conselho de 5 de Novembro de 2002
-
-> 02002R2195 — PT — 10.07.2022 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32003R2151) — [REGULAMENTO (CE) N.º 2151/2003 DA COMISSÃO de 16 de Dezembro de 2003](http://publications.europa.eu/resource/celex/32003R2151) — L 329 — 1 — 17.12.2003
-- [►M2](http://publications.europa.eu/resource/celex/32008R0213) — [REGULAMENTO (CE) N.º 213/2008 DA COMISSÃO de 28 de Novembro de 2007](http://publications.europa.eu/resource/celex/32008R0213) — L 74 — 1 — 15.3.2008
-- [►M3](http://publications.europa.eu/resource/celex/32009R0596) — [REGULAMENTO (CE) N.º 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0596) — L 188 — 14 — 18.7.2009
-- [M4](http://publications.europa.eu/resource/celex/32022R0943) — [REGULAMENTO (UE) 2022/943 DA COMISSÃO de 17 de junho de 2022](http://publications.europa.eu/resource/celex/32022R0943) — L 164 — 6 — 20.6.2022
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32003R2151R%2801%29) — [Rectificação, JO L 330, 18.12.2003, p. 34 (2151/2003)](http://publications.europa.eu/resource/celex/32003R2151R%2801%29)
-
-## REGULAMENTO (CE) N.º 2195/2002 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 5 de Novembro de 2002
 

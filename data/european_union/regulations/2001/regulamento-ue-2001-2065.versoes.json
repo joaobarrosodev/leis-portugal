@@ -1,0 +1,579 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001R2065:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R2065-20141213",
+ "dre_path": null,
+ "source_lastmod": "2014-12-13",
+ "versions": [
+  {
+   "date": "2001-10-23",
+   "future": false,
+   "celex": "32001R2065",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "77b3353f9010b88c",
+    "ad34073adc3d28c9",
+    "0831869de83604aa",
+    "4870db9428ccbd81",
+    "dfd41484d1b5555c",
+    "cece982a53cbc0d0",
+    "abf0f26ec37102dc",
+    "94a1d49af0002fcf",
+    "58f0db87ffaab368",
+    "140084558e33978e",
+    "3ca4bd0eb40ed692",
+    "48f7af81fcac8b8b",
+    "5b9978aa5fce4105",
+    "a60b8f89ef6f683a",
+    "121d58ce2041d403",
+    "8cb2d838f9b75997"
+   ]
+  },
+  {
+   "date": "2004-05-01",
+   "future": false,
+   "celex": "02001R2065-20040501",
+   "acts": [
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 10.º",
+    "Adita CAPÍTULO I",
+    "Adita Âmbito",
+    "Adita CAPÍTULO II",
+    "Adita Alteração da lista de denominações comerciais e regras de informação do consumidor",
+    "Adita CAPÍTULO III",
+    "Adita Rastreio e controlo",
+    "Adita CAPÍTULO IV",
+    "Adita Disposições finais",
+    "Adita ANEXO",
+    "Adita Notas",
+    "Suprime CAPÍTULO I — Âmbito",
+    "Suprime CAPÍTULO II — Alteração da lista de denominações comerciais e regras de informação do consumidor",
+    "Suprime CAPÍTULO III — Rastreio e controlo",
+    "Suprime CAPÍTULO IV — Disposições finais",
+    "Suprime ANEXO — >POSIÇÃO NUMA TABELA>"
+   ],
+   "fragments": [
+    "8af4180bd9c320bc",
+    "226c39ffd0a88dad",
+    "3e6569657b5c1c95",
+    "52f076a524c7deb3",
+    "f0f8c960bfdbce9b",
+    "5bce50368aba4436",
+    "dfd41484d1b5555c",
+    "4937cdda1a79adc4",
+    "440552ea557d5ea7",
+    "517d0cb98ec5671a",
+    "0c2612f3e79b60ac",
+    "f6a3469504c72b0f",
+    "1e7a0903d2eed348",
+    "1d8e5f0346739ea5",
+    "48f7af81fcac8b8b",
+    "d3fecb38a31e13cb",
+    "1ecfc79da3f1ac7f",
+    "bbdde795c58f027f",
+    "009814140ac6de1f",
+    "727021a7d3585597",
+    "003a6ef338eebb15"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "02001R2065-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32006R1792:por",
+     "title": "REGULAMENTO (CE) N. o 1792/2006 DA COMISSÃO de 23 de Outubro de 2006",
+     "published": null,
+     "celex": "32006R1792"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera ANEXO",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "ad69c0140441c3b0",
+    "226c39ffd0a88dad",
+    "3e6569657b5c1c95",
+    "e65f217b71071f09",
+    "f0f8c960bfdbce9b",
+    "5bce50368aba4436",
+    "dfd41484d1b5555c",
+    "4937cdda1a79adc4",
+    "9015805deae0b0a6",
+    "517d0cb98ec5671a",
+    "0c2612f3e79b60ac",
+    "f6a3469504c72b0f",
+    "1e7a0903d2eed348",
+    "1d8e5f0346739ea5",
+    "48f7af81fcac8b8b",
+    "d3fecb38a31e13cb",
+    "1ecfc79da3f1ac7f",
+    "bbdde795c58f027f",
+    "009814140ac6de1f",
+    "0aa9b5b73f430c98",
+    "e05f19a82c654553"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "02001R2065-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0519:por",
+     "title": "REGULAMENTO (UE) N. o 519/2013 DA COMISSÃO de 21 de fevereiro de 2013",
+     "published": null,
+     "celex": "32013R0519"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera ANEXO",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "a86500b4d08f66ea",
+    "226c39ffd0a88dad",
+    "3e6569657b5c1c95",
+    "37bbc826ed6e7ce2",
+    "f0f8c960bfdbce9b",
+    "5bce50368aba4436",
+    "dfd41484d1b5555c",
+    "4937cdda1a79adc4",
+    "249a24c5fe8c6b4b",
+    "517d0cb98ec5671a",
+    "0c2612f3e79b60ac",
+    "f6a3469504c72b0f",
+    "1e7a0903d2eed348",
+    "1d8e5f0346739ea5",
+    "48f7af81fcac8b8b",
+    "d3fecb38a31e13cb",
+    "1ecfc79da3f1ac7f",
+    "bbdde795c58f027f",
+    "009814140ac6de1f",
+    "3f99c4657f35b74f",
+    "da98d684243c6fa3"
+   ]
+  },
+  {
+   "date": "2014-12-13",
+   "future": false,
+   "celex": "02001R2065-20141213",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime Âmbito",
+    "Suprime Artigo 1.º",
+    "Suprime CAPÍTULO II",
+    "Suprime Alteração da lista de denominações comerciais e regras de informação do consumidor",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime CAPÍTULO III",
+    "Suprime Rastreio e controlo",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime CAPÍTULO IV",
+    "Suprime Disposições finais",
+    "Suprime Artigo 10.º",
+    "Suprime ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "2dd47a6ae7439443"
+   ]
+  }
+ ],
+ "fragments": {
+  "77b3353f9010b88c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 2065/2001 da Comissão, de 22 de Outubro de 2001, que estabelece as regras de execução do Regulamento (CE) n.° 104/2000 do Conselho no respeitante à informação do consumidor no sector dos produtos da pesca e da aquicultura (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 278 de 23/10/2001 p. 0006 - 0008*\n\nRegulamento (CE) n.o 2065/2001 da Comissão\n\nde 22 de Outubro de 2001\n\nque estabelece as regras de execução do Regulamento (CE) n.o 104/2000 do Conselho no respeitante à informação do consumidor no sector dos produtos da pesca e da aquicultura\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.o 104/2000 do Conselho, de 17 de Dezembro de 1999, que estabelece a organização comum de mercado no sector dos produtos da pesca e da aquicultura(1), alterado pelo Regulamento (CE) n.o 939/2001 da Comissão(2), e, nomeadamente, o n.o 4 do seu artigo 4.o,\n\nConsiderando o seguinte:\n\n(1) O artigo 4.o do Regulamento (CE) n.o 104/2000 sujeita a venda a retalho de determinados produtos da pesca ao respeito de um certo número de condições cujo objectivo é o de informar o consumidor. Convém precisar o âmbito de aplicação das obrigações a elas atinentes.\n\n(2) A lista das denominações comerciais permitidas no território dos Estados-Membros deve poder ser adaptada em função das necessidades do mercado.\n\n(3) É necessário precisar as regras de informação do consumidor, designadamente no respeitante à denominação comercial da espécie, ao método de produção e à zona de captura.\n\n(4) As pequenas quantidades de produtos só podem ser isentas do dever de marcação ou rotulagem se for respeitado um certo número de exigências que há que estatuir.\n\n(5) É conveniente precisar a extensão das informações que devem ser transmitidas ao longo de toda a cadeia de comercialização.\n\n(6) É necessário prever a aplicação, pelos Estados-Membros, de um sistema de rastreio dos produtos objecto do presente regulamento.\n\n(7) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão dos Produtos da Pesca,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ad34073adc3d28c9": {
+   "fragment_id": "CAPÍTULO I — Âmbito",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Âmbito"
+  },
+  "0831869de83604aa": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSem prejuízo das normas aplicáveis nos termos da Directiva 2000/13/CE do Parlamento Europeu e do Conselho(3), o presente regulamento é aplicável a todos os produtos da pesca e da aquicultura constantes das listas e apresentações de códigos do capítulo 3 da Nomenclatura Combinada, comercializados no território comunitário, independentemente da sua origem, mesmo pré-embalados."
+  },
+  "4870db9428ccbd81": {
+   "fragment_id": "CAPÍTULO II — Alteração da lista de denominações comerciais e regras de informação do consumidor",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Alteração da lista de denominações comerciais e regras de informação do consumidor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Alteração da lista de denominações comerciais e regras de informação do consumidor"
+  },
+  "dfd41484d1b5555c": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Qualquer espécie não incluída na lista das denominações comerciais permitidas por um Estado-Membro pode ser comercializada sob uma denominação comercial com carácter provisório, estabelecida pela autoridade competente do Estado-Membro. O Estado-Membro deve estabelecer uma denominação comercial definitiva e incluí-la na lista das denominações permitidas, no prazo de cinco meses a contar da data de atribuição da denominação comercial provisória da espécie em causa.\n\n2. Quaisquer alterações da lista das denominações comerciais permitidas por um Estado-Membro devem ser imediatamente notificadas à Comissão, que delas informará os outros Estados-Membros."
+  },
+  "cece982a53cbc0d0": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara efeitos do n.o 1, alínea a), do artigo 4.o do Regulamento (CE) n.o 104/2000, a denominação comercial de uma espécie é a estabelecida, em cada Estado-Membro, nos termos do n.o 2 do artigo 4.o do referido regulamento.\n\nO operador pode também indicar, na venda ao consumidor final, o nome científico da espécie em causa."
+  },
+  "abf0f26ec37102dc": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A indicação do método de produção, nos termos do n.o 1, alínea b), do artigo 4.o do Regulamento (CE) n.o 104/2000, deve incluir, conforme se trate de pesca no mar ou em águas interiores, ou de aquicultura uma das seguintes menções:\n\n- em língua espanhola:\n\n\"... pescado...\" ou \"... pescado en aguas dulces...\" ou \"... criado...\",\n\n- na língua dinamarquesa:\n\n\"... fanget...\" ou \"... fanget i ferskvand...\" ou \"... opdrættet...\",\n\n- na língua alemã:\n\n\"... gefangen...\" ou \"... aus Binnenfischerei...\" ou \"... aus Aquakultur...\" ou \"gezüchtet...\",\n\n- na língua grega:\n\n\"... αλιευμένο...\" ou \"... αλιευμένο σε γλυκά νερά...\" ou \"... υδατοκαλλιέργειας...\",\n\n- na língua inglesa:\n\n\"... caught...\" ou \"... caught in freshwater...\" ou \"... farmed...\" ou \"... cultivated...\",\n\n- na língua francesa:\n\n\"... pêché...\" ou \"... pêché en eaux douces...\" ou \"... élevé...\",\n\n- na língua italiana:\n\n\"... prodotto della pesca...\" ou \"... prodotto della pesca in acque dolci...\" ou \"... prodotto di acquacoltura...\",\n\n- na língua neerlandesa:\n\n\"... gevangen\" ou \"... gevangen in zoet water...\" ou \"... aquacultuurproduct...\",\n\n- na língua portuguesa:\n\n\"... capturado...\" ou \"... capturado em água doce...\" ou \"... de aquicultura...\",\n\n- na língua finlandesa:\n\n\"... pyydetty...\" ou \"... pyydetty makeasta vedestä...\" ou \"... viljelty...\",\n\n- na língua sueca:\n\n\"... fiskad...\" ou \"... fiskad i sötvatten...\" ou \"... odlad...\".\n\n2. Relativamente às espécies pescadas no mar, o Estado-Membro pode permitir a omissão do método de produção na venda ao consumidor final, desde que resulte claramente da denominação comercial, assim como da zona de captura, que se trata de uma espécie pescada no mar. Tal permissão não pode ser concedida em caso de dúvida sobre o método de produção.\n\n3. Para efeitos de indicação do método de produção, os produtos da aquicultura são os resultantes da actividade aquícola prevista no n.o 2, alínea a), do ponto 2 do anexo III do Regulamento (CE) n.o 2792/1999 do Conselho(4)"
+  },
+  "94a1d49af0002fcf": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A indicação da zona de captura, em conformidade com o n.o 1, alínea c), do artigo 4.o do Regulamento (CE) n.o 104/2000, deve incluir as seguintes menções:\n\na) Relativamente aos produtos pescados no mar, a menção de uma das zonas constantes do anexo.\n\nb) Relativamente aos produtos pescados em água doce, a menção do Estado-Membro ou do país terceiro de origem do produto;\n\nc) Relativamente aos produtos da aquicultura, a menção do Estado-Membro ou do país terceiro de cultura em que decorreu a fase de desenvolvimento final do produto. Nos casos em que a cultura for feita em vários Estados-Membros ou países terceiros, o Estado-Membro em que se realizar a venda ao consumidor final pode permitir, aquando da venda, a indicação dos vários Estados-Membros ou países terceiros de cultura.\n\n2. Pode ser mencionada por qualquer operador uma zona de captura mais precisa"
+  },
+  "58f0db87ffaab368": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Em caso de oferta à venda de uma mistura de espécies diferentes, as indicações referidas no n.o 1 do artigo 4.o do Regulamento (CE) n.o 104/2000 devem ser dadas para cada espécie.\n\n2. Em caso de oferta à venda de uma mistura de espécies idênticas cujo método de produção seja diferente, é necessário indicar o método de produção relativo a cada lote. Em caso de oferta à venda de uma mistura de espécies idênticas cuja zona de captura ou país de cultura seja diferente, é necessário indicar, pelo menos, a zona do lote mais representativo em quantidade, juntamente com a menção de que o produto provém também, se se tratar de um produto da pesca, de zonas diferentes de captura, e, se se tratar de produtos da aquicultura, de países diferentes."
+  },
+  "140084558e33978e": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nPara efeitos do disposto no n.o 1 do artigo 4.o do Regulamento (CE) n.o 104/2000, os Estados-Membros devem fixar as pequenas quantidades de produtos escoadas directamente para os consumidores, desde que essas quantidades não excedam em caso algum um valor igual a 20 euros por compra. Essas pequenas quantidades apenas podem provir da própria exploração do vendedor."
+  },
+  "3ca4bd0eb40ed692": {
+   "fragment_id": "CAPÍTULO III — Rastreio e controlo",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — Rastreio e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Rastreio e controlo"
+  },
+  "48f7af81fcac8b8b": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs informações exigidas, relativas à denominação comercial, ao método de produção e à zona de captura, devem estar disponíveis em cada fase da comercialização da espécie em causa. Tais informações, assim como o nome científico da espécie em causa, devem ser dadas pela rotulagem ou embalagem do produto ou por qualquer outro documento comercial de acompanhamento da mercadoria, incluindo a factura."
+  },
+  "5b9978aa5fce4105": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os Estados-Membros devem criar um regime de controlo de aplicação do artigo 8.o\n\n2. Os Estados-Membros devem comunicar à Comissão, aquando da sua aprovação e, em qualquer caso, até 31 de Março de 2002, as medidas de execução do n.o 1 aprovadas. Devem comunicar igualmente à Comissão, até 31 de Março de 2002, as medidas existentes no domínio do artigo 8.o"
+  },
+  "a60b8f89ef6f683a": {
+   "fragment_id": "CAPÍTULO IV — Disposições finais",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais"
+  },
+  "121d58ce2041d403": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Janeiro de 2002. Todavia, os produtos colocados no mercado ou rotulados antes dessa data e as embalagens não conformes ao disposto no presente regulamento podem ser comercializados até ao esgotamento das existências.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 22 de Outubro de 2001.\n\nPela Comissão\n\nFranz Fischler\n\nMembro da Comissão\n\n(1) JO L 17 de 21.1.2000, p. 22.\n\n(2) JO L 132 de 15.5.2001, p. 10.\n\n(3) JO L 109 de 6.5.2000, p. 29.\n\n(4) JO L 337 de 30.12.1999, p. 10."
+  },
+  "8cb2d838f9b75997": {
+   "fragment_id": "ANEXO — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — >POSIÇÃO NUMA TABELA>"
+  },
+  "8af4180bd9c320bc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Outubro de 2001\n\nque estabelece as regras de execução do Regulamento (CE) n.º 104/2000 do Conselho no respeitante à informação do consumidor no sector dos produtos da pesca e da aquicultura\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 104/2000 do Conselho, de 17 de Dezembro de 1999, que estabelece a organização comum de mercado no sector dos produtos da pesca e da aquicultura ([^1^](http://publications.europa.eu/resource/cellar/aa3caa2a-90f8-4e0a-abb2-0778df24e45e.0017.03/DOC_1#E0001)), alterado pelo Regulamento (CE) n.º 939/2001 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/aa3caa2a-90f8-4e0a-abb2-0778df24e45e.0017.03/DOC_1#E0002)), e, nomeadamente, o n.º 4 do seu artigo 4.º,\n\n(1) O artigo 4.º do Regulamento (CE) n.º 104/2000 sujeita a venda a retalho de determinados produtos da pesca ao respeito de um certo número de condições cujo objectivo é o de informar o consumidor. Convém precisar o âmbito de aplicação das obrigações a elas atinentes.\n\n(2) A lista das denominações comerciais permitidas no território dos Estados-Membros deve poder ser adaptada em função das necessidades do mercado.\n\n(3) É necessário precisar as regras de informação do consumidor, designadamente no respeitante à denominação comercial da espécie, ao método de produção e à zona de captura.\n\n(4) As pequenas quantidades de produtos só podem ser isentas do dever de marcação ou rotulagem se for respeitado um certo número de exigências que há que estatuir.\n\n(5) É conveniente precisar a extensão das informações que devem ser transmitidas ao longo de toda a cadeia de comercialização.\n\n(6) É necessário prever a aplicação, pelos Estados-Membros, de um sistema de rastreio dos produtos objecto do presente regulamento.\n\n(7) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão dos Produtos da Pesca,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "3e6569657b5c1c95": {
+   "fragment_id": "Âmbito",
+   "type": "divisao",
+   "heading": "Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Âmbito"
+  },
+  "52f076a524c7deb3": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSem prejuízo das normas aplicáveis nos termos da Directiva 2000/13/CE do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/aa3caa2a-90f8-4e0a-abb2-0778df24e45e.0017.03/DOC_1#E0003)), o presente regulamento é aplicável a todos os produtos da pesca e da aquicultura constantes das listas e apresentações de códigos do capítulo 3 da Nomenclatura Combinada, comercializados no território comunitário, independentemente da sua origem, mesmo pré-embalados."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "5bce50368aba4436": {
+   "fragment_id": "Alteração da lista de denominações comerciais e regras de informação do consumidor",
+   "type": "divisao",
+   "heading": "Alteração da lista de denominações comerciais e regras de informação do consumidor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Alteração da lista de denominações comerciais e regras de informação do consumidor"
+  },
+  "4937cdda1a79adc4": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara efeitos do n.º 1, alínea a), do artigo 4.º do Regulamento (CE) n.º 104/2000, a denominação comercial de uma espécie é a estabelecida, em cada Estado-Membro, nos termos do n.º 2 do artigo 4.º do referido regulamento.\n\nO operador pode também indicar, na venda ao consumidor final, o nome científico da espécie em causa."
+  },
+  "440552ea557d5ea7": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A indicação do método de produção, nos termos do n.º 1, alínea b), do artigo 4.º do Regulamento (CE) n.º 104/2000, deve incluir, conforme se trate de pesca no mar ou em águas interiores, ou de aquicultura uma das seguintes menções:\n\n— em língua espanhola:\n\n«… pescado …» ou «… pescado en aguas dulces …» ou «… criado …»,\n\n— na língua checa:\n\n«… *uloveno v moři* …» ou «… *uloveno ve sladkých vodách* …» ou «… *pochází z chovu* …»,\n\n— na língua dinamarquesa:\n\n«… fanget …» ou «… fanget i ferskvand …» ou «… opdrættet …»,\n\n— na língua alemã:\n\n«… gefangen …» ou «… aus Binnenfischerei …» ou «… aus Aquakultur …» ou «gezüchtet …»,\n\n— na língua estónia:\n\n«… *püütud merest* …» ou «… *püütud sisevetest* …» ou «… *kasvatatud* …»,\n\n— na língua grega:\n\n«… αλιευμένο …» ou «… αλιευμένο σε γλυκά νερά …» ou «… υδατοκαλλιέργειας …»,\n\n— na língua inglesa:\n\n«… caught …» ou «… caught in freshwater …» ou «… farmed …» ou «… cultivated …»,\n\n— na língua francesa:\n\n«… pêché …» ou «… pêché en eaux douces …» ou «… élevé …»,\n\n— na língua italiana:\n\n[**►C1**](http://publications.europa.eu/resource/celex/32001R2065R%2801%29) «… pescato …», …«… pescatto in acque dolci …», …«… allevato…»**◄**,\n\n— na língua letã:\n\n«… *nozvejots jūrā* …» ou «… *nozvejots saldūdeņos* …» ou «… *izaudzēts* …»,\n\n— na língua lituana:\n\n«… *sužvejota* …» ou «… *sužvejota gėluose vandenyse* …» ou «… *užauginta* …»,\n\n— na língua húngara:\n\n«… *tengeri halzsákmányból* …» ou «… *édesvízi halzsákmányból* …» ou «… *akvakultúrából* …»,\n\n— na língua maltesa:\n\n«… *maqbud mill- baħar* …» ou «… *maqbud mill- ilma ħelu* …» ou «… *prodott ta*»«*l-akwakultura* …»,\n\n— na língua neerlandesa:\n\n«… gevangen» ou «… gevangen in zoet water …» ou «… aquacultuurproduct …»,\n\n— na língua polaca:\n\n«… *poławiane w morzu* …» ou «… *poławiane w wodach śródlądowych* …» ou «… *produkty pochodzące z chowu lub hodowli* …»,\n\n— na língua portuguesa:\n\n«… capturado …» ou «… capturado em água doce …» ou «… de aquicultura …»,\n\n— na língua eslovaca:\n\n«… *produkt morského rybolovu* …» ou «… *produkt zo sladkovodného rybárstva* …» ou «… *produkt farmového chovu rýb* …»,\n\n— na língua eslovena:\n\n«… *ujeto* …» ou «… *ujeto v celinskih vodah* …» ou «… *vzrejeno* …» ou «… *gojeno* …»,\n\n— na língua finlandesa:\n\n«… pyydetty …» ou «… pyydetty makeasta vedestä …» ou «… viljelty …»,\n\n— na língua sueca:\n\n«… fiskad …» ou «… fiskad i sötvatten …» ou «… odlad …».\n\n2. Relativamente às espécies pescadas no mar, o Estado-Membro pode permitir a omissão do método de produção na venda ao consumidor final, desde que resulte claramente da denominação comercial, assim como da zona de captura, que se trata de uma espécie pescada no mar. Tal permissão não pode ser concedida em caso de dúvida sobre o método de produção.\n\n3. Para efeitos de indicação do método de produção, os produtos da aquicultura são os resultantes da actividade aquícola prevista no n.º 2, alínea a), do ponto 2 do anexo III do Regulamento (CE) n.º 2792/1999 do Conselho ([^4^](http://publications.europa.eu/resource/cellar/aa3caa2a-90f8-4e0a-abb2-0778df24e45e.0017.03/DOC_1#E0004))"
+  },
+  "517d0cb98ec5671a": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A indicação da zona de captura, em conformidade com o n.º 1, alínea c), do artigo 4.º do Regulamento (CE) n.º 104/2000, deve incluir as seguintes menções:\n\na) Relativamente aos produtos pescados no mar, a menção de uma das zonas constantes do anexo.\n\nb) Relativamente aos produtos pescados em água doce, a menção do Estado-Membro ou do país terceiro de origem do produto;\n\nc) Relativamente aos produtos da aquicultura, a menção do Estado-Membro ou do país terceiro de cultura em que decorreu a fase de desenvolvimento final do produto. Nos casos em que a cultura for feita em vários Estados-Membros ou países terceiros, o Estado-Membro em que se realizar a venda ao consumidor final pode permitir, aquando da venda, a indicação dos vários Estados-Membros ou países terceiros de cultura.\n\n2. Pode ser mencionada por qualquer operador uma zona de captura mais precisa"
+  },
+  "0c2612f3e79b60ac": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Em caso de oferta à venda de uma mistura de espécies diferentes, as indicações referidas no n.º 1 do artigo 4.º do Regulamento (CE) n.º 104/2000 devem ser dadas para cada espécie.\n\n2. Em caso de oferta à venda de uma mistura de espécies idênticas cujo método de produção seja diferente, é necessário indicar o método de produção relativo a cada lote. Em caso de oferta à venda de uma mistura de espécies idênticas cuja zona de captura ou país de cultura seja diferente, é necessário indicar, pelo menos, a zona do lote mais representativo em quantidade, juntamente com a menção de que o produto provém também, se se tratar de um produto da pesca, de zonas diferentes de captura, e, se se tratar de produtos da aquicultura, de países diferentes."
+  },
+  "f6a3469504c72b0f": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nPara efeitos do disposto no n.º 1 do artigo 4.º do Regulamento (CE) n.º 104/2000, os Estados-Membros devem fixar as pequenas quantidades de produtos escoadas directamente para os consumidores, desde que essas quantidades não excedam em caso algum um valor igual a 20 euros por compra. Essas pequenas quantidades apenas podem provir da própria exploração do vendedor."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "1d8e5f0346739ea5": {
+   "fragment_id": "Rastreio e controlo",
+   "type": "divisao",
+   "heading": "Rastreio e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Rastreio e controlo"
+  },
+  "d3fecb38a31e13cb": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os Estados-Membros devem criar um regime de controlo de aplicação do artigo 8.º\n\n2. Os Estados-Membros devem comunicar à Comissão, aquando da sua aprovação e, em qualquer caso, até 31 de Março de 2002, as medidas de execução do n.º 1 aprovadas. Devem comunicar igualmente à Comissão, até 31 de Março de 2002, as medidas existentes no domínio do artigo 8.º"
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "bbdde795c58f027f": {
+   "fragment_id": "Disposições finais",
+   "type": "divisao",
+   "heading": "Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições finais"
+  },
+  "009814140ac6de1f": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nÉ aplicável a partir de 1 de Janeiro de 2002. Todavia, os produtos colocados no mercado ou rotulados antes dessa data e as embalagens não conformes ao disposto no presente regulamento podem ser comercializados até ao esgotamento das existências.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "727021a7d3585597": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| Zonas de captura | Definição da zona [(^1^)](http://publications.europa.eu/resource/cellar/aa3caa2a-90f8-4e0a-abb2-0778df24e45e.0017.03/DOC_1#E0005) |\n| --- | --- |\n| Atlântico Noroeste | Zona FAO n.º 21 |\n| Atlântico Nordeste [(^2^)](http://publications.europa.eu/resource/cellar/aa3caa2a-90f8-4e0a-abb2-0778df24e45e.0017.03/DOC_1#E0006) | Zona FAO n.º 27 |\n| Mar Báltico | Zona FAO n.º 27.IIId |\n| [**►C2**](http://publications.europa.eu/resource/celex/32001R2065R%2803%29) Atlântico Centro-Oeste**◄** | Zona FAO n.º 31 |\n| Atlântico Centro-Este | Zona FAO n.º 34 |\n| Atlântico Sudoeste | Zona FAO n.º 41 |\n| Atlântico Sudeste | Zona FAO n.º 47 |\n| Mar Mediterrâneo | Zonas FAO n.^os^ 37.1, 37.2 e 37.3 |\n| Mar Negro | Zona FAO n.º 37.4 |\n| Oceano Índico | Zonas FAO n.^os^ 51, e 57 |\n| Oceano Pacífico | Zonas FAO n.^os^ 61, 67, 71, 77, 81 e 87 |\n| Antácrtico | Zonas FAO n.^os^ 48, 58 e 88 |\n| (^1^)FAO: Anuário. Estatísticas das pescas. Capturas. VOL. 86/1, 2000. (^2^)Excepto mar Báltico. |  |\n\n---"
+  },
+  "003a6ef338eebb15": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/aa3caa2a-90f8-4e0a-abb2-0778df24e45e.0017.03/DOC_1#src.E0001)) JO L 17 de 21.1.2000, p. 22.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/aa3caa2a-90f8-4e0a-abb2-0778df24e45e.0017.03/DOC_1#src.E0002)) JO L 132 de 15.5.2001, p. 10.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/aa3caa2a-90f8-4e0a-abb2-0778df24e45e.0017.03/DOC_1#src.E0003)) JO L 109 de 6.5.2000, p. 29.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/aa3caa2a-90f8-4e0a-abb2-0778df24e45e.0017.03/DOC_1#src.E0004)) JO L 337 de 30.12.1999, p. 10."
+  },
+  "ad69c0140441c3b0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Outubro de 2001\n\nque estabelece as regras de execução do Regulamento (CE) n.º 104/2000 do Conselho no respeitante à informação do consumidor no sector dos produtos da pesca e da aquicultura\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 104/2000 do Conselho, de 17 de Dezembro de 1999, que estabelece a organização comum de mercado no sector dos produtos da pesca e da aquicultura ([^1^](http://publications.europa.eu/resource/cellar/f1d1777f-d345-4609-ba26-9bc070114a72.0017.03/DOC_1#E0001)), alterado pelo Regulamento (CE) n.º 939/2001 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/f1d1777f-d345-4609-ba26-9bc070114a72.0017.03/DOC_1#E0002)), e, nomeadamente, o n.º 4 do seu artigo 4.º,\n\n(1) O artigo 4.º do Regulamento (CE) n.º 104/2000 sujeita a venda a retalho de determinados produtos da pesca ao respeito de um certo número de condições cujo objectivo é o de informar o consumidor. Convém precisar o âmbito de aplicação das obrigações a elas atinentes.\n\n(2) A lista das denominações comerciais permitidas no território dos Estados-Membros deve poder ser adaptada em função das necessidades do mercado.\n\n(3) É necessário precisar as regras de informação do consumidor, designadamente no respeitante à denominação comercial da espécie, ao método de produção e à zona de captura.\n\n(4) As pequenas quantidades de produtos só podem ser isentas do dever de marcação ou rotulagem se for respeitado um certo número de exigências que há que estatuir.\n\n(5) É conveniente precisar a extensão das informações que devem ser transmitidas ao longo de toda a cadeia de comercialização.\n\n(6) É necessário prever a aplicação, pelos Estados-Membros, de um sistema de rastreio dos produtos objecto do presente regulamento.\n\n(7) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão dos Produtos da Pesca,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "e65f217b71071f09": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSem prejuízo das normas aplicáveis nos termos da Directiva 2000/13/CE do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/f1d1777f-d345-4609-ba26-9bc070114a72.0017.03/DOC_1#E0003)), o presente regulamento é aplicável a todos os produtos da pesca e da aquicultura constantes das listas e apresentações de códigos do capítulo 3 da Nomenclatura Combinada, comercializados no território comunitário, independentemente da sua origem, mesmo pré-embalados."
+  },
+  "9015805deae0b0a6": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A indicação do método de produção, nos termos do n.º 1, alínea b), do artigo 4.º do Regulamento (CE) n.º 104/2000, deve incluir, conforme se trate de pesca no mar ou em águas interiores, ou de aquicultura uma das seguintes menções:\n\n— na língua búlgara:\n\n«… уловени …» ou «… уловени в сладки води …» ou «… отгледани …»,\n\n— em língua espanhola:\n\n«… pescado …» ou «… pescado en aguas dulces …» ou «… criado …»,\n\n— na língua checa:\n\n«… *uloveno v moři* …» ou «… *uloveno ve sladkých vodách* …» ou «… *pochází z chovu* …»,\n\n— na língua dinamarquesa:\n\n«… fanget …» ou «… fanget i ferskvand …» ou «… opdrættet …»,\n\n— na língua alemã:\n\n«… gefangen …» ou «… aus Binnenfischerei …» ou «… aus Aquakultur …» ou «gezüchtet …»,\n\n— na língua estónia:\n\n«… *püütud merest* …» ou «… *püütud sisevetest* …» ou «… *kasvatatud* …»,\n\n— na língua grega:\n\n«… αλιευμένο …» ou «… αλιευμένο σε γλυκά νερά …» ou «… υδατοκαλλιέργειας …»,\n\n— na língua inglesa:\n\n«… caught …» ou «… caught in freshwater …» ou «… farmed …» ou «… cultivated …»,\n\n— na língua francesa:\n\n«… pêché …» ou «… pêché en eaux douces …» ou «… élevé …»,\n\n— na língua italiana:\n\n[**►C1**](http://publications.europa.eu/resource/celex/32001R2065R%2801%29) «… pescato …», …«… pescatto in acque dolci …», …«… allevato…»**◄**,\n\n— na língua letã:\n\n«… *nozvejots jūrā* …» ou «… *nozvejots saldūdeņos* …» ou «… *izaudzēts* …»,\n\n— na língua lituana:\n\n«… *sužvejota* …» ou «… *sužvejota gėluose vandenyse* …» ou «… *užauginta* …»,\n\n— na língua húngara:\n\n«… *tengeri halzsákmányból* …» ou «… *édesvízi halzsákmányból* …» ou «… *akvakultúrából* …»,\n\n— na língua maltesa:\n\n«… *maqbud mill- baħar* …» ou «… *maqbud mill- ilma ħelu* …» ou «… *prodott ta*»«*l-akwakultura* …»,\n\n— na língua neerlandesa:\n\n«… gevangen» ou «… gevangen in zoet water …» ou «… aquacultuurproduct …»,\n\n— na língua polaca:\n\n«… *poławiane w morzu* …» ou «… *poławiane w wodach śródlądowych* …» ou «… *produkty pochodzące z chowu lub hodowli* …»,\n\n— na língua portuguesa:\n\n«… capturado …» ou «… capturado em água doce …» ou «… de aquicultura …»,\n\n— na língua romena:\n\n«… pescuit …» ou «… pescuit în ape dulci …» ou «… produs de acvacultură …»,\n\n— na língua eslovaca:\n\n«… *produkt morského rybolovu* …» ou «… *produkt zo sladkovodného rybárstva* …» ou «… *produkt farmového chovu rýb* …»,\n\n— na língua eslovena:\n\n«… *ujeto* …» ou «… *ujeto v celinskih vodah* …» ou «… *vzrejeno* …» ou «… *gojeno* …»,\n\n— na língua finlandesa:\n\n«… pyydetty …» ou «… pyydetty makeasta vedestä …» ou «… viljelty …»,\n\n— na língua sueca:\n\n«… fiskad …» ou «… fiskad i sötvatten …» ou «… odlad …».\n\n2. Relativamente às espécies pescadas no mar, o Estado-Membro pode permitir a omissão do método de produção na venda ao consumidor final, desde que resulte claramente da denominação comercial, assim como da zona de captura, que se trata de uma espécie pescada no mar. Tal permissão não pode ser concedida em caso de dúvida sobre o método de produção.\n\n3. Para efeitos de indicação do método de produção, os produtos da aquicultura são os resultantes da actividade aquícola prevista no n.º 2, alínea a), do ponto 2 do anexo III do Regulamento (CE) n.º 2792/1999 do Conselho ([^4^](http://publications.europa.eu/resource/cellar/f1d1777f-d345-4609-ba26-9bc070114a72.0017.03/DOC_1#E0004))"
+  },
+  "0aa9b5b73f430c98": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| Zonas de captura | Definição da zona [(^1^)](http://publications.europa.eu/resource/cellar/f1d1777f-d345-4609-ba26-9bc070114a72.0017.03/DOC_1#E0005) |\n| --- | --- |\n| Atlântico Noroeste | Zona FAO n.º 21 |\n| Atlântico Nordeste [(^2^)](http://publications.europa.eu/resource/cellar/f1d1777f-d345-4609-ba26-9bc070114a72.0017.03/DOC_1#E0006) | Zona FAO n.º 27 |\n| Mar Báltico | Zona FAO n.º 27.IIId |\n| [**►C2**](http://publications.europa.eu/resource/celex/32001R2065R%2803%29) Atlântico Centro-Oeste**◄** | Zona FAO n.º 31 |\n| Atlântico Centro-Este | Zona FAO n.º 34 |\n| Atlântico Sudoeste | Zona FAO n.º 41 |\n| Atlântico Sudeste | Zona FAO n.º 47 |\n| Mar Mediterrâneo | Zonas FAO n.^os^ 37.1, 37.2 e 37.3 |\n| Mar Negro | Zona FAO n.º 37.4 |\n| Oceano Índico | Zonas FAO n.^os^ 51, e 57 |\n| Oceano Pacífico | Zonas FAO n.^os^ 61, 67, 71, 77, 81 e 87 |\n| Antácrtico | Zonas FAO n.^os^ 48, 58 e 88 |\n| (^1^)FAO: Anuário. Estatísticas das pescas. Capturas. VOL. 86/1, 2000. (^2^)Excepto mar Báltico. |  |\n\n---"
+  },
+  "e05f19a82c654553": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f1d1777f-d345-4609-ba26-9bc070114a72.0017.03/DOC_1#src.E0001)) JO L 17 de 21.1.2000, p. 22.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f1d1777f-d345-4609-ba26-9bc070114a72.0017.03/DOC_1#src.E0002)) JO L 132 de 15.5.2001, p. 10.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f1d1777f-d345-4609-ba26-9bc070114a72.0017.03/DOC_1#src.E0003)) JO L 109 de 6.5.2000, p. 29.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f1d1777f-d345-4609-ba26-9bc070114a72.0017.03/DOC_1#src.E0004)) JO L 337 de 30.12.1999, p. 10."
+  },
+  "a86500b4d08f66ea": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Outubro de 2001\n\nque estabelece as regras de execução do Regulamento (CE) n.º 104/2000 do Conselho no respeitante à informação do consumidor no sector dos produtos da pesca e da aquicultura\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 104/2000 do Conselho, de 17 de Dezembro de 1999, que estabelece a organização comum de mercado no sector dos produtos da pesca e da aquicultura ([^1^](http://publications.europa.eu/resource/cellar/63cbbd9d-6b47-49ae-898d-39ec7494a0f6.0018.04/DOC_1#E0001)), alterado pelo Regulamento (CE) n.º 939/2001 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/63cbbd9d-6b47-49ae-898d-39ec7494a0f6.0018.04/DOC_1#E0002)), e, nomeadamente, o n.º 4 do seu artigo 4.º,\n\n(1) O artigo 4.º do Regulamento (CE) n.º 104/2000 sujeita a venda a retalho de determinados produtos da pesca ao respeito de um certo número de condições cujo objectivo é o de informar o consumidor. Convém precisar o âmbito de aplicação das obrigações a elas atinentes.\n\n(2) A lista das denominações comerciais permitidas no território dos Estados-Membros deve poder ser adaptada em função das necessidades do mercado.\n\n(3) É necessário precisar as regras de informação do consumidor, designadamente no respeitante à denominação comercial da espécie, ao método de produção e à zona de captura.\n\n(4) As pequenas quantidades de produtos só podem ser isentas do dever de marcação ou rotulagem se for respeitado um certo número de exigências que há que estatuir.\n\n(5) É conveniente precisar a extensão das informações que devem ser transmitidas ao longo de toda a cadeia de comercialização.\n\n(6) É necessário prever a aplicação, pelos Estados-Membros, de um sistema de rastreio dos produtos objecto do presente regulamento.\n\n(7) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão dos Produtos da Pesca,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "37bbc826ed6e7ce2": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSem prejuízo das normas aplicáveis nos termos da Directiva 2000/13/CE do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/63cbbd9d-6b47-49ae-898d-39ec7494a0f6.0018.04/DOC_1#E0003)), o presente regulamento é aplicável a todos os produtos da pesca e da aquicultura constantes das listas e apresentações de códigos do capítulo 3 da Nomenclatura Combinada, comercializados no território comunitário, independentemente da sua origem, mesmo pré-embalados."
+  },
+  "249a24c5fe8c6b4b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A indicação do método de produção, nos termos do n.º 1, alínea b), do artigo 4.º do Regulamento (CE) n.º 104/2000, deve incluir, conforme se trate de pesca no mar ou em águas interiores, ou de aquicultura uma das seguintes menções:\n\n— na língua búlgara:\n\n«… уловени …» ou «… уловени в сладки води …» ou «… отгледани …»,\n\n— em língua espanhola:\n\n«… pescado …» ou «… pescado en aguas dulces …» ou «… criado …»,\n\n— na língua checa:\n\n«… *uloveno v moři* …» ou «… *uloveno ve sladkých vodách* …» ou «… *pochází z chovu* …»,\n\n— na língua dinamarquesa:\n\n«… fanget …» ou «… fanget i ferskvand …» ou «… opdrættet …»,\n\n— na língua alemã:\n\n«… gefangen …» ou «… aus Binnenfischerei …» ou «… aus Aquakultur …» ou «gezüchtet …»,\n\n— na língua estónia:\n\n«… *püütud merest* …» ou «… *püütud sisevetest* …» ou «… *kasvatatud* …»,\n\n— na língua grega:\n\n«… αλιευμένο …» ou «… αλιευμένο σε γλυκά νερά …» ou «… υδατοκαλλιέργειας …»,\n\n— na língua inglesa:\n\n«… caught …» ou «… caught in freshwater …» ou «… farmed …» ou «… cultivated …»,\n\n— na língua francesa:\n\n«… pêché …» ou «… pêché en eaux douces …» ou «… élevé …»,\n\n— em croata:\n\n«… ulovljeno u moru …» or «… ulovljeno u kopnenim vodama …» or «… uzgojeno …»,\n\n— na língua italiana:\n\n[**►C1**](http://publications.europa.eu/resource/celex/32001R2065R%2801%29) «… pescato …», …«… pescatto in acque dolci …», …«… allevato…»**◄**,\n\n— na língua letã:\n\n«… *nozvejots jūrā* …» ou «… *nozvejots saldūdeņos* …» ou «… *izaudzēts* …»,\n\n— na língua lituana:\n\n«… *sužvejota* …» ou «… *sužvejota gėluose vandenyse* …» ou «… *užauginta* …»,\n\n— na língua húngara:\n\n«… *tengeri halzsákmányból* …» ou «… *édesvízi halzsákmányból* …» ou «… *akvakultúrából* …»,\n\n— na língua maltesa:\n\n«… *maqbud mill- baħar* …» ou «… *maqbud mill- ilma ħelu* …» ou «… *prodott ta*»«*l-akwakultura* …»,\n\n— na língua neerlandesa:\n\n«… gevangen» ou «… gevangen in zoet water …» ou «… aquacultuurproduct …»,\n\n— na língua polaca:\n\n«… *poławiane w morzu* …» ou «… *poławiane w wodach śródlądowych* …» ou «… *produkty pochodzące z chowu lub hodowli* …»,\n\n— na língua portuguesa:\n\n«… capturado …» ou «… capturado em água doce …» ou «… de aquicultura …»,\n\n— na língua romena:\n\n«… pescuit …» ou «… pescuit în ape dulci …» ou «… produs de acvacultură …»,\n\n— na língua eslovaca:\n\n«… *produkt morského rybolovu* …» ou «… *produkt zo sladkovodného rybárstva* …» ou «… *produkt farmového chovu rýb* …»,\n\n— na língua eslovena:\n\n«… *ujeto* …» ou «… *ujeto v celinskih vodah* …» ou «… *vzrejeno* …» ou «… *gojeno* …»,\n\n— na língua finlandesa:\n\n«… pyydetty …» ou «… pyydetty makeasta vedestä …» ou «… viljelty …»,\n\n— na língua sueca:\n\n«… fiskad …» ou «… fiskad i sötvatten …» ou «… odlad …».\n\n2. Relativamente às espécies pescadas no mar, o Estado-Membro pode permitir a omissão do método de produção na venda ao consumidor final, desde que resulte claramente da denominação comercial, assim como da zona de captura, que se trata de uma espécie pescada no mar. Tal permissão não pode ser concedida em caso de dúvida sobre o método de produção.\n\n3. Para efeitos de indicação do método de produção, os produtos da aquicultura são os resultantes da actividade aquícola prevista no n.º 2, alínea a), do ponto 2 do anexo III do Regulamento (CE) n.º 2792/1999 do Conselho ([^4^](http://publications.europa.eu/resource/cellar/63cbbd9d-6b47-49ae-898d-39ec7494a0f6.0018.04/DOC_1#E0004))"
+  },
+  "3f99c4657f35b74f": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| Zonas de captura | Definição da zona [(^1^)](http://publications.europa.eu/resource/cellar/63cbbd9d-6b47-49ae-898d-39ec7494a0f6.0018.04/DOC_1#E0005) |\n| --- | --- |\n| Atlântico Noroeste | Zona FAO n.º 21 |\n| Atlântico Nordeste [(^2^)](http://publications.europa.eu/resource/cellar/63cbbd9d-6b47-49ae-898d-39ec7494a0f6.0018.04/DOC_1#E0006) | Zona FAO n.º 27 |\n| Mar Báltico | Zona FAO n.º 27.IIId |\n| [**►C2**](http://publications.europa.eu/resource/celex/32001R2065R%2803%29) Atlântico Centro-Oeste**◄** | Zona FAO n.º 31 |\n| Atlântico Centro-Este | Zona FAO n.º 34 |\n| Atlântico Sudoeste | Zona FAO n.º 41 |\n| Atlântico Sudeste | Zona FAO n.º 47 |\n| Mar Mediterrâneo | Zonas FAO n.^os^ 37.1, 37.2 e 37.3 |\n| Mar Negro | Zona FAO n.º 37.4 |\n| Oceano Índico | Zonas FAO n.^os^ 51, e 57 |\n| Oceano Pacífico | Zonas FAO n.^os^ 61, 67, 71, 77, 81 e 87 |\n| Antácrtico | Zonas FAO n.^os^ 48, 58 e 88 |\n| (^1^)FAO: Anuário. Estatísticas das pescas. Capturas. VOL. 86/1, 2000. (^2^)Excepto mar Báltico. |  |\n\n---"
+  },
+  "da98d684243c6fa3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/63cbbd9d-6b47-49ae-898d-39ec7494a0f6.0018.04/DOC_1#src.E0001)) JO L 17 de 21.1.2000, p. 22.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/63cbbd9d-6b47-49ae-898d-39ec7494a0f6.0018.04/DOC_1#src.E0002)) JO L 132 de 15.5.2001, p. 10.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/63cbbd9d-6b47-49ae-898d-39ec7494a0f6.0018.04/DOC_1#src.E0003)) JO L 109 de 6.5.2000, p. 29.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/63cbbd9d-6b47-49ae-898d-39ec7494a0f6.0018.04/DOC_1#src.E0004)) JO L 337 de 30.12.1999, p. 10."
+  },
+  "2dd47a6ae7439443": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2001R2065 — PT — 13.12.2014 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32001R2065) [REGULAMENTO (CE) N.º 2065/2001 DA COMISSÃO](http://publications.europa.eu/resource/celex/32001R2065) [de 22 de Outubro de 2001](http://publications.europa.eu/resource/celex/32001R2065) [que estabelece as regras de execução do Regulamento (CE) n.º 104/2000 do Conselho no respeitante à informação do consumidor no sector dos produtos da pesca e da aquicultura](http://publications.europa.eu/resource/celex/32001R2065) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32001R2065) (JO L 278, 23.10.2001, p.6)\n\n**revogado por:**\n\n- [Regulamento de Execução (UE) n.o 1420/2013 da Comissão de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1420) — L 353 — 48 — 28.12.2013"
+  }
+ }
+}

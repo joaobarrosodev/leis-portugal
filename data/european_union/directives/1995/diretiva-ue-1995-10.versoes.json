@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31995L0010:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0010-19990810",
+ "dre_path": null,
+ "source_lastmod": "1999-08-10",
+ "versions": [
+  {
+   "date": "1995-04-22",
+   "future": false,
+   "celex": "31995L0010",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0e73fd3fa9b166f5",
+    "392b04f11bd334d2",
+    "ef1f59c0bf12a54c",
+    "e255ba2f3df264de",
+    "aebd09116833a1f5",
+    "5a9e47037324f93f",
+    "1eb1fbb2ec99df71"
+   ]
+  }
+ ],
+ "fragments": {
+  "0e73fd3fa9b166f5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 95/10/CE da Comissão, de 7 de Abril de 1995, que fixa o método de cálculo do valor energético dos alimentos para cães e gatos com objectivos nutricionais específicos** *Jornal Oficial nº L 091 de 22/04/1995 p. 0039 - 0040*\n\nDIRECTIVA 95/10/CE DA COMISSÃO de 7 de Abril de 1995 que fixa o método de cálculo do valor energético dos alimentos para cães e gatos com objectivos nutricionais específicos (Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 79/373/CEE do Conselho, de 2 de Abril de 1979, respeitante à comercialização dos alimentos compostos para animais (1), com a última redacção que lhe foi dada pela Directiva 93/74/CEE (2), e, nomeadamente, a alínea d) do seu artigo 10º,\n\nConsiderando que a Directiva 93/74/CEE do Conselho, relativa aos alimentos para animais com objectivos nutricionais específicos, prevê, no ponto 1, alínea d), do seu artigo 5º, declarações de rotulagem relativas aos alimentos para animais com objectivos nutricionais específicos;\n\nConsiderando que, aquando da adopção da Directiva 94/39/CE da Comissão, de 25 de Julho de 1994, que estabelece uma lista das utilizações previstas para os alimentos com objectivos nutricionais específicos destinados a animais (3), com a última redacção que lhe foi dada pela Directiva 95/9/CE (4), determinados objectivos nutricionais, para os quais o valor energético constitui uma característica nutricional essencial, não puderam ser incluídos devido à inexistência de método comunitário de controlo do valor energético dos alimentos para animais de estimação;\n\nConsiderando que os métodos de cálculo do valor energético actualmente disponíveis não são inteiramente satisfatórios, tanto ao nível do controlo como da precisão das informações obtidas;\n\nConsiderando, no entanto, que na pendência do estabelecimento de um método satisfatório, é necessário fixar um método provisório que permita, por um período limitado, declarar o valor energético dos alimentos com determinados objectivos nutricionais específicos de modo a permitir a utilização destes alimentos em animais que se encontram em situações particulares e que necessitam o recurso a uma alimentação adaptada ao seu estado;\n\nConsiderando que as medidas previstas na presente directiva estão em conformidade com o parecer do Comité permanente dos alimentos para animais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "392b04f11bd334d2": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nNa medida em que seja necessário, em conformidade com o disposto no ponto 1, alínea d), do artigo 5º da Directiva 93/74/CEE, declarar o valor energético dos alimentos para cães e gatos com certos objectivos nutricionais específicos, os Estados-membros determinarão que o referido valor seja calculado segundo o método descrito no anexo da presente directiva."
+  },
+  "ef1f59c0bf12a54c": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nOs Estados-membros determinarão que o método de cálculo do valor energético dos alimentos para cães e gatos com objectivos nutricionais específicos, constante do anexo, seja eficaz até 30 de Junho de 1998."
+  },
+  "e255ba2f3df264de": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 30 de Junho de 1995. Do facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem tais disposições, estas deverão incluir uma referência à presente directiva, ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio regido pela presente directiva."
+  },
+  "aebd09116833a1f5": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nA presente directiva entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "5a9e47037324f93f": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 7 de Abril de 1995.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO nº L 86 de 6. 4. 1979, p. 30.\n\n(2) JO nº L 237 de 22. 9. 1993, p. 23.\n\n(3) JO nº L 207 de 10. 8. 1994, p. 20.\n\n(4) Ver página 35 do presente Jornal Oficial."
+  },
+  "1eb1fbb2ec99df71": {
+   "fragment_id": "ANEXO — MÉTODO DE CÁLCULO DO VALOR ENERGÉTICO DOS ALIMENTOS PARA CÃES E GATOS COM OBJECTIVOS NUTRICIONAIS ESPECÍFICOS",
+   "type": "divisao",
+   "heading": "ANEXO — MÉTODO DE CÁLCULO DO VALOR ENERGÉTICO DOS ALIMENTOS PARA CÃES E GATOS COM OBJECTIVOS NUTRICIONAIS ESPECÍFICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — MÉTODO DE CÁLCULO DO VALOR ENERGÉTICO DOS ALIMENTOS PARA CÃES E GATOS COM OBJECTIVOS NUTRICIONAIS ESPECÍFICOS\n\n1. Método de cálculo e expressão do valor energético\n\nO valor energético dos alimentos para cães e gatos com objectivos nutricionais específicos deve ser calculado segundo a fórmula a seguir indicada, com base nas percentagens de determinados constituintes analíticos dos alimentos; o referido valor é expresso em megajoules (MJ) de energia metabolizável (EM) por quilograma de alimento composto, sendo:\n\na) Alimentos para cães e gatos, com excepção dos alimentos para gatos com um teor em humidade superior a 14 %:\n\nMJ/kg de EM = 0,1464 × % proteína bruta + 0,3556 × % matérias gordas + 0,1464 × % extracto não azotado\n\nb) Alimentos para gatos com um teor em humidade superior a 14 %:\n\nMJ/kg de EM = (0,1632 × % proteína bruta + 0,3222 × % matérias gordas + 0,1255 × % extracto não azotado) - 0,2092\n\nA percentagem de extracto não azotado a utilizar na fórmula é a diferença entre 100 e as percentagens de humidade, de cinza total, de proteína bruta, de gordura bruta e de celulose bruta.\n\n2. Tolerâncias aplicáveis aos valores declarados\n\nSe, na sequência dos controlos oficiais prescritos no artigo 12º da Directiva 79/373/CEE, for constatada uma diferença, que constitua um aumento ou uma diminuição do valor energético do alimento, entre o resultado do controlo e o valor declarado, é aplicada uma tolerância de 15 %.\n\n3. Expressão do resultado\n\nApós a aplicação da fórmula acima indicada, o resultado obtido é aproximado às décimas.\n\n4. Métodos de colheita de amostras e de análise\n\nA colheita da amostra do alimento composto e a dosagem do teor dos constituintes analíticos indicados no método de cálculo são realizados, respectivamente, segundo os métodos de colheita de amostras e os métodos de análise comunitários para o controlo oficial dos alimentos para animais."
+  }
+ }
+}

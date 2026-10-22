@@ -34,6 +34,46 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-07-31'
+version_history:
+  file: diretiva-ue-1994-39.versoes.json
+  count: 3
+  source_lastmod: '2008-07-31'
+  versions:
+  - date: '1994-08-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-01-30'
+    amending: eu:celex:31995L0009:por
+    amending_title: DIRECTIVA 95/9/CE DA COMISSÃO Texte relevante para efeitos do EEE de 7 de Abril de 1995; DIRECTIVA 2002/1/CE
+      DA COMISSÃO Texto relevante para efeitos do EEE de 7 de Janeiro de 2002; DIRECTIVA 2008/4/CE DA COMISSÃO Texto relevante
+      para efeitos do EEE de 9 de Janeiro de 2008
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera PARTE B
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita PARTE A
+    - Adita Condições gerais
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+  - date: '2008-07-31'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime ANEXO
+    - Suprime PARTE A
+    - Suprime Condições gerais
+    - Suprime PARTE B
+    - Suprime Notas
 identifiers:
   celex: 31994L0039
   eli: http://data.europa.eu/eli/dir/1994/39/oj
@@ -48,7 +88,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8982de63-c878-4b16-af39-35a70b0ab0a1.0011
   content_url: http://publications.europa.eu/resource/cellar/252454cb-a6bd-4201-834a-e5cf9e919a38.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0039-20080731
-  retrieved_at: '2026-10-22T02:50:43Z'
+  retrieved_at: '2026-10-22T14:43:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T05:27:05.653+01:00'
 integrity:
@@ -57,9 +97,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:50:43Z'
-  notes: Texto consolidado 01994L0039-20080731.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:43:10Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1994-39.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -114,16 +154,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:50:43Z'
+  checked_at: '2026-10-22T14:43:10Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01994L0039-19950407: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01994L0039-20020129: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

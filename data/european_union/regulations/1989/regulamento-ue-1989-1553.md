@@ -35,6 +35,53 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-01-01'
+version_history:
+  file: regulamento-ue-1989-1553.versoes.json
+  count: 3
+  source_lastmod: '2021-01-01'
+  versions:
+  - date: '1989-06-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-06-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+  - date: '2021-01-01'
+    amending: eu:celex:31999R1026:por
+    amending_title: M1; M2; REGULAMENTO (UE, Euratom) 2021/769 DO CONSELHO de 30 de abril de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Adita Artigo 13.º-A
+    - Adita Notas
+    - Suprime TÍTULO I — Disposições gerais
+    - Suprime TÍTULO II — Âmbito de aplicação
+    - Suprime TÍTULO III — Método de cálculo
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime TÍTULO IV — Disposições relativas à contabilização e à colocação à disposição
+    - Suprime TÍTULO V — Disposições relativas ao controlo
+    - Suprime TÍTULO VI — Disposições finais
 identifiers:
   celex: 31989R1553
   eli: http://data.europa.eu/eli/reg/1989/1553/oj
@@ -49,7 +96,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a4369ba7-af71-49da-87f1-6304efebdff1.0011
   content_url: http://publications.europa.eu/resource/cellar/09e5ef6b-d36a-11eb-895a-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989R1553-20210101
-  retrieved_at: '2026-10-22T03:05:54Z'
+  retrieved_at: '2026-10-22T14:36:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:30:05.921+02:00'
 integrity:
@@ -58,9 +105,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:05:54Z'
-  notes: Texto consolidado 01989R1553-20210101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:36:21Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1989-1553.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -135,34 +182,20 @@ relationships:
   date: '1999-05-26'
 article_structure:
   article_count: 13
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:05:54Z'
-  warnings: []
+  checked_at: '2026-10-22T14:36:21Z'
+  warnings:
+  - '01989R1553-19990521: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CEE, Euratom) nº 1553/89 do Conselho, de 29 de Maio de 1989
-
-> 01989R1553 — PT — 01.01.2021 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/31999R1026) — [REGULAMENTO (CE, EURATOM) Nº 1026/1999 DO CONSELHO, de 10 de Maio de 1999](http://publications.europa.eu/resource/celex/31999R1026) — L 126 — 1 — 20.5.1999
-- [M2](http://publications.europa.eu/resource/celex/32003R0807) — [REGULAMENTO (CE) Nº 807/2003 DO CONSELHO, de 14 de Abril de 2003](http://publications.europa.eu/resource/celex/32003R0807) — L 122 — 36 — 16.5.2003
-- [►M3](http://publications.europa.eu/resource/celex/32021R0769) — [REGULAMENTO (UE, Euratom) 2021/769 DO CONSELHO de 30 de abril de 2021](http://publications.europa.eu/resource/celex/32021R0769) — L 165 — 9 — 11.5.2021
-
-| NB: Esta versão consolidada contém referências à unidade de conta europeia e/ou ao ecu, que a partir de 1 de Janeiro de 1999 devem ser interpretadas como referências ao euro — Regulamento (CEE) n.o 3308/80 do Conselho (JO L 345 de 20.12.1980, p. 1) e Regulamento (CE) n.o 1103/97 do Conselho (JO L 162 de 19.6.1997, p. 1). |
-| --- |
-
-## REGULAMENTO (CEE, EURATOM) N.º 1553/89 DO CONSELHO
 
 de 29 de Maio de 1989
 

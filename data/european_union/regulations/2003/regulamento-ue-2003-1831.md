@@ -36,6 +36,167 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-03-27'
+version_history:
+  file: regulamento-ue-2003-1831.versoes.json
+  count: 9
+  source_lastmod: '2021-03-27'
+  versions:
+  - date: '2003-10-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-03-25'
+    amending: eu:celex:32005R0378:por
+    amending_title: REGULAMENTO (CE) N. o 378/2005 DA COMISSÃO de 4 de Março de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Colocação no mercado, transformação e utilização
+    - Altera Artigo 8.º — Parecer da autoridade
+    - Altera Artigo 9.º — Autorização pela Comunidade
+    - Altera Artigo 18.º — Confidencialidade
+    - Altera Artigo 26.º — Entrada em vigor
+    - Adita CAPÍTULO I
+    - Adita ÂMBITO E DEFINIÇÕES
+    - Adita CAPÍTULO II
+    - Adita AUTORIZAÇÃO, UTILIZAÇÃO, MONITORIZAÇÃO E MEDIDAS TRANSITÓRIAS APLICÁVEIS AOS ADITIVOS PARA A ALIMENTAÇÃO ANIMAL
+    - Adita CAPÍTULO III
+    - Adita ROTULAGEM E EMBALAGEM
+    - Adita CAPÍTULO IV
+    - Adita DISPOSIÇÕES GERAIS E FINAIS
+    - Adita ANEXO I
+    - Adita GRUPOS DE ADITIVOS
+    - Adita ANEXO II
+    - Adita COMPETÊNCIAS E TAREFAS DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA
+    - Adita ANEXO III
+    - Adita REQUISITOS ESPECÍFICOS EM MATÉRIA DE ROTULAGEM DE DETERMINADOS ADITIVOS PARA A ALIMENTAÇÃO ANIMAL E DE PRÉ-MISTURAS
+    - Adita ANEXO IV
+    - Adita CONDIÇÕES GERAIS DE UTILIZAÇÃO
+    - Adita Notas
+    - Suprime CAPÍTULO I — ÂMBITO E DEFINIÇÕES
+    - Suprime CAPÍTULO II — AUTORIZAÇÃO, UTILIZAÇÃO, MONITORIZAÇÃO E MEDIDAS TRANSITÓRIAS APLICÁVEIS AOS ADITIVOS PARA A ALIMENTAÇÃO
+      ANIMAL
+    - Suprime CAPÍTULO III — ROTULAGEM E EMBALAGEM
+    - Suprime CAPÍTULO IV — DISPOSIÇÕES GERAIS E FINAIS
+    - Suprime ANEXO I — GRUPOS DE ADITIVOS
+    - Suprime ANEXO II — COMPETÊNCIAS E TAREFAS DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA
+    - Suprime ANEXO III — REQUISITOS ESPECÍFICOS EM MATÉRIA DE ROTULAGEM DE DETERMINADOS ADITIVOS PARA A ALIMENTAÇÃO ANIMAL
+      E DE PRÉ-MISTURAS
+    - Suprime ANEXO IV — CONDIÇÕES GERAIS DE UTILIZAÇÃO
+  - date: '2009-06-02'
+    amending: eu:celex:32009R0386:por
+    amending_title: REGULAMENTO (CE) N. o 386/2009 DA COMISSÃO de 12 de Maio de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Colocação no mercado, transformação e utilização
+    - Altera Artigo 8.º — Parecer da autoridade
+    - Altera Artigo 9.º — Autorização pela Comunidade
+    - Altera Artigo 18.º — Confidencialidade
+    - Altera GRUPOS DE ADITIVOS
+    - Altera COMPETÊNCIAS E TAREFAS DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA
+    - Altera Notas
+  - date: '2009-08-07'
+    amending: eu:celex:32009R0596:por
+    amending_title: REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Colocação no mercado, transformação e utilização
+    - Altera Artigo 6.º — Categorias de aditivos para a alimentação animal
+    - Altera Artigo 7.º — Pedido de autorização
+    - Altera Artigo 8.º — Parecer da autoridade
+    - Altera Artigo 9.º — Autorização pela Comunidade
+    - Altera Artigo 16.º — Rotulagem e embalagem dos aditivos para a alimentação animal e pré-misturas
+    - Altera Artigo 18.º — Confidencialidade
+    - Altera Artigo 21.º — Laboratórios de referência
+    - Altera Artigo 22.º — Comité
+    - Altera COMPETÊNCIAS E TAREFAS DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA
+    - Altera Notas
+  - date: '2010-09-01'
+    amending: eu:celex:32009R0767:por
+    amending_title: REGULAMENTO (CE) N. o 767/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de Julho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Colocação no mercado, transformação e utilização
+    - Altera Artigo 8.º — Parecer da autoridade
+    - Altera Artigo 9.º — Autorização pela Comunidade
+    - Altera Artigo 16.º — Rotulagem e embalagem dos aditivos para a alimentação animal e pré-misturas
+    - Altera Artigo 18.º — Confidencialidade
+    - Altera COMPETÊNCIAS E TAREFAS DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA
+    - Altera Notas
+  - date: '2015-03-23'
+    amending: eu:celex:32015R0327:por
+    amending_title: REGULAMENTO (UE) 2015/327 DA COMISSÃO de 2 de março de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Colocação no mercado, transformação e utilização
+    - Altera Artigo 8.º — Parecer da autoridade
+    - Altera Artigo 9.º — Autorização pela Comunidade
+    - Altera Artigo 16.º — Rotulagem e embalagem dos aditivos para a alimentação animal e pré-misturas
+    - Altera Artigo 18.º — Confidencialidade
+    - Altera COMPETÊNCIAS E TAREFAS DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA
+    - Altera ANEXO III
+    - Altera CONDIÇÕES GERAIS DE UTILIZAÇÃO
+    - Altera Notas
+    - Suprime REQUISITOS ESPECÍFICOS EM MATÉRIA DE ROTULAGEM DE DETERMINADOS ADITIVOS PARA A ALIMENTAÇÃO ANIMAL E DE PRÉ-MISTURAS
+  - date: '2019-07-03'
+    amending: eu:celex:32015R2294:por
+    amending_title: REGULAMENTO (UE) 2015/2294 DA COMISSÃO de 9 de dezembro de 2015; REGULAMENTO (UE) 2019/962 DA COMISSÃO
+      de 12 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Colocação no mercado, transformação e utilização
+    - Altera Artigo 8.º — Parecer da autoridade
+    - Altera Artigo 9.º — Autorização pela Comunidade
+    - Altera Artigo 16.º — Rotulagem e embalagem dos aditivos para a alimentação animal e pré-misturas
+    - Altera Artigo 18.º — Confidencialidade
+    - Altera GRUPOS DE ADITIVOS
+    - Altera COMPETÊNCIAS E TAREFAS DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA
+    - Altera Notas
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 1.º — Âmbito
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Colocação no mercado, transformação e utilização
+    - Altera Artigo 6.º — Categorias de aditivos para a alimentação animal
+    - Altera Artigo 7.º — Pedido de autorização
+    - Altera Artigo 8.º — Parecer da autoridade
+    - Altera Artigo 9.º — Autorização pela Comunidade
+    - Altera Artigo 16.º — Rotulagem e embalagem dos aditivos para a alimentação animal e pré-misturas
+    - Altera Artigo 18.º — Confidencialidade
+    - Altera Artigo 21.º — Laboratórios de referência
+    - Altera Artigo 22.º — Comité
+    - Altera COMPETÊNCIAS E TAREFAS DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA
+    - Altera Notas
+    - Adita Artigo 21.º-A — Exercício da delegação
+  - date: '2021-03-27'
+    amending: eu:celex:32019R1381:por
+    amending_title: REGULAMENTO (UE) 2019/1381 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 1.º — Âmbito
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Colocação no mercado, transformação e utilização
+    - Altera Artigo 7.º — Pedido de autorização
+    - Altera Artigo 8.º — Parecer da autoridade
+    - Altera Artigo 9.º — Autorização pela Comunidade
+    - Altera Artigo 16.º — Rotulagem e embalagem dos aditivos para a alimentação animal e pré-misturas
+    - Altera Artigo 21.º-A — Exercício da delegação
+    - Altera COMPETÊNCIAS E TAREFAS DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA
+    - Altera Notas
+    - Adita Artigo 18.º — Transparência e confidencialidade
+    - Suprime Artigo 18.º — Confidencialidade
 identifiers:
   celex: 32003R1831
   eli: http://data.europa.eu/eli/reg/2003/1831/oj
@@ -50,7 +211,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c746ceb6-1330-4b77-9a2e-5a7705b22c33.0010
   content_url: http://publications.europa.eu/resource/cellar/850d1546-8698-11eb-ac4c-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R1831-20210327
-  retrieved_at: '2026-10-22T02:57:39Z'
+  retrieved_at: '2026-10-22T14:56:08Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:30:49.013+02:00'
 integrity:
@@ -59,9 +220,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:39Z'
-  notes: Texto consolidado 02003R1831-20210327.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:08Z'
+  notes: 9 versão(ões); histórico completo em regulamento-ue-2003-1831.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -270,37 +431,19 @@ relationships:
   date: '1987-03-07'
 article_structure:
   article_count: 27
-  section_count: 15
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 16
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:39Z'
+  checked_at: '2026-10-22T14:56:08Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 1831/2003 do Parlamento Europeu e do Conselho, de 22 de Setembro de 2003
-
-> 02003R1831 — PT — 27.03.2021 — 009.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32005R0378) — [REGULAMENTO (CE) N.º 378/2005 DA COMISSÃO de 4 de Março de 2005](http://publications.europa.eu/resource/celex/32005R0378) — L 59 — 8 — 5.3.2005
-- [►M2](http://publications.europa.eu/resource/celex/32009R0386) — [REGULAMENTO (CE) N.º 386/2009 DA COMISSÃO de 12 de Maio de 2009](http://publications.europa.eu/resource/celex/32009R0386) — L 118 — 66 — 13.5.2009
-- [►M3](http://publications.europa.eu/resource/celex/32009R0596) — [REGULAMENTO (CE) N.º 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0596) — L 188 — 14 — 18.7.2009
-- [►M4](http://publications.europa.eu/resource/celex/32009R0767) — [REGULAMENTO (CE) N.º 767/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0767) — L 229 — 1 — 1.9.2009
-- [►M5](http://publications.europa.eu/resource/celex/32015R0327) — [REGULAMENTO (UE) 2015/327 DA COMISSÃO de 2 de março de 2015](http://publications.europa.eu/resource/celex/32015R0327) — L 58 — 46 — 3.3.2015
-- [►M6](http://publications.europa.eu/resource/celex/32015R2294) — [REGULAMENTO (UE) 2015/2294 DA COMISSÃO de 9 de dezembro de 2015](http://publications.europa.eu/resource/celex/32015R2294) — L 324 — 3 — 10.12.2015
-- [►M7](http://publications.europa.eu/resource/celex/32019R0962) — [REGULAMENTO (UE) 2019/962 DA COMISSÃO de 12 de junho de 2019](http://publications.europa.eu/resource/celex/32019R0962) — L 156 — 1 — 13.6.2019
-- [►M8](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [►M9](http://publications.europa.eu/resource/celex/32019R1381) — [REGULAMENTO (UE) 2019/1381 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1381) — L 231 — 1 — 6.9.2019
-
-## REGULAMENTO (CE) N.º 1831/2003 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 22 de Setembro de 2003
 

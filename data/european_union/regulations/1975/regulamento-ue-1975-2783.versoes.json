@@ -1,0 +1,179 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31975R2783:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01975R2783-20090803",
+ "dre_path": null,
+ "source_lastmod": "2009-08-03",
+ "versions": [
+  {
+   "date": "1975-11-01",
+   "future": false,
+   "celex": "31975R2783",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2c915cf019bf75b8",
+    "9ebadde5f0917309",
+    "68ec2e01b862a65f",
+    "1e67fdfdc290d3da",
+    "dc66cb2dad09db7e",
+    "e04045e49841fd22",
+    "6bb5f9474a0975af",
+    "592e965b33fb81f2",
+    "1c85f871b51bef70",
+    "2064f3ce3d2f9b37",
+    "68523be6e2b6e888",
+    "bc7a0fcd54737c2b",
+    "6ea63450b84a6295",
+    "33f537fcadd6519d"
+   ]
+  },
+  {
+   "date": "2009-08-03",
+   "future": false,
+   "celex": "01975R2783-20090803",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime ANEXO — Quadro de equivalência"
+   ],
+   "fragments": [
+    "757223c9d51a435c"
+   ]
+  }
+ ],
+ "fragments": {
+  "2c915cf019bf75b8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2783/75 do Conselho, de 29 de Outubro de 1975, relativo ao regime comum de trocas comerciais para a ovalbumina e para a lactalbumina** *Jornal Oficial nº L 282 de 01/11/1975 p. 0104 - 0107 Edição especial finlandesa: Capítulo 3 Fascículo 6 p. 0236 Edição especial grega: Capítulo 03 Fascículo 14 p. 0094 Edição especial sueca: Capítulo 3 Fascículo 6 p. 0236 Edição especial espanhola: Capítulo 03 Fascículo 9 p. 0174 Edição especial portuguesa: Capítulo 03 Fascículo 9 p. 0174*\n\nREGULAMENTO (CEE) No 2783/75 DO CONSELHO de 29 de Outubro de 1975 relativo ao regime comum de trocas comerciais para a ovalbumina e para a lactoalbumina\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o no 7 do seu artigo 14o e os seus artigos 28o, 92o a 94o, 111o e seguintes e 235o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nConsiderando que a ovalbumina, não constando no Anexo II do Tratado está assim fora da aplicação das disposições agrícolas do Tratado enquanto a gema de ovo nele se encontra;\n\nConsiderando que daí resulta uma situação susceptível de comprometer a eficácia da política agrícola comum seguida no sector dos ovos;\n\nConsiderando que, para obter uma solução equilibrada é conveniente estabelecer um regime comum de trocas para a ovalbumina, análogo ao previsto para os ovos; que é oportuno tornar extensiva a aplicação deste regime à lactoalbumina dado que esta pode substituir em larga medida a ovalbumina;\n\nConsiderando que pelo Regulamento (CEE) no 2771/75 do Conselho, de 29 de Outubro de 1975, que estabelece a organização comum de mercado no sector dos ovos (1), é instaurado um regime de mercado único dos ovos na Comunidade contendo nomeadamente direitos niveladores únicos e restituições únicas nas trocas comerciais para países terceiros para os ovos e gema de ovo em natureza ou sob a forma de produtos de transformação contendo clara de ovo;\n\nConsiderando que o regime de trocas aplicável às albuminas deve seguir o regime em vigor para os ovos, dada a dependência dos primeiros produtos em relação a estes últimos;\n\nConsiderando que os preços da ovalbumina se formam em princípio em função do preço dos ovos e que estes preços são siferentes na Comunidade e no mercado mundial; que, a fim de evitar distorções de concorrência imputáveis a esta diversidade, é necessário prever uma imposição à importação cujo montante tem por fim compensar aquela diferença; que parece que o método mais adequado para a determinação do montante desta imposição consiste em fazê-lo derivar do direito nivelador aplicável aos ovos em casca;\n\nConsiderando que é necessário prever coeficientes tendo em conta a apresentação do produto transformado;\n\nConsiderando que, no mercado mundial o preço dos ovos não é o único factor que influencia o preço da albumina, além dos custos de transformação; que a fim de garantir a eficácia do sistema de imposição à importação é necessário prever o montante suplementar a adicionar à imposição quando as ofertas no mercado mundial são feitas a preços anormalmente baixos;\n\nConsiderando que em razão da estreita relação económica existente entre os diversos produtos à base de ovos é necessário prever a possibilidade de adoptar para a ovalbumina e lactoalbumina normas de comercialização que correspondam na medida do possível às normas de comercialização previstas para os produtos indicados no no 1, alínea b) do artigo 1o do Regulamento (CEE) no 2771/75;\n\nConsiderando que é conveniente prever na medida necessária ao bom funcionamento do mecanismo das restituições à exportação previsto para os ovos no Regulamento (CEE) no 2771/75, bem como do sistema do presente regulamento, a possibilidade de regulamentar o recurso ao regime de aperfeiçoamento activo e, na medida em que a situação do mercado o exigir, a interdição deste recurso;\n\nConsiderando que o regime de imposição à importação permite renunciar a qualquer outra medida de protecção nas fronteiras exteriores da Comunidade; que a realização do mercado único implica a supressão nas fronteiras interiores da Comunidade de qualquer obstáculo à livre circulação das mercadorias em causa,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "9ebadde5f0917309": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nNas trocas entre a Comunidade e países terceiros, são aplicadas imposições à importação para os produtos seguintes:\n\n\"\" ID=\"1\">ex 35.02> ID=\"2\">Albuminas\"> ID=\"1\">ex A II> ID=\"2\">Outras (que impróprias ou que se tornaram impróprias para a alimentação humana):\n\na) Ovalbumina e lactoalbumina:\n\n1. desidratadas (em folhas, escamas, cristais, pós, etc.)\n\n2. outras\">"
+  },
+  "68ec2e01b862a65f": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. O montante da tributação à importação na Comunidade de cada um dos produtos referidos no artigo 1o é igual ao montante do direito nivealador aplicável aos ovos em casca e fixado de acordo com as disposições do no 1 do artigo 4o do Regulamento (CEE) no 2771/75, sendo este montante efectuado pelo coeficiente indicado no artigo 3o relativo ao produto em causa.\n\n2. Os montantes das imposições são fixados antecipadamente para um período de três meses segundo o procedimento previsto no artigo 17o do Regulamento (CEE) no 2771/75."
+  },
+  "1e67fdfdc290d3da": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nEm relação aos produtos referidos no artigo 1o os coeficientes são fixados segundo o procedimento previsto no artigo 17o do Regulamento (CEE) no 2771/75, que estabelece o valor complementar aos coeficientes fixados para a gema de ovo segundo a proporção definida no no 1, segundo travessão, do artigo 5o do Regulamento (CEE) no 2771/75."
+  },
+  "dc66cb2dad09db7e": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nQuando se verifica no mercado da Comunidade um aumento sensível dos preços, que esta situação é susceptível de persistir e que, por este facto, esse mercado é perturbado ou ameaçado de ser perturbado, podem ser tomadas as medidas necessárias.\n\nO Conselho, sob proposta da Comissão, deliberando por maioria qualificada, adopta as regras gerais de aplicação do presente artigo."
+  },
+  "e04045e49841fd22": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. É fixado um preço-limite relativamente aos produtos mencionados no artigo 1o, líquidos ou congelados, assim como o preço-limite respeitante aos produtos indicados no artigo 1o, desidratados. A fixação efectua-se tendo por base o preço-limite determinado para os ovos em casca segundo as disposições do no 2 artigo 7o do Regulamento (CEE) no 2771/75, tendo em consideração a menor-valia da matéria de base, os coeficientes indicados no artigo 3o e os custos de transformação.\n\n2. Os preços-limite são fixados antecipadamente para um período de três meses.\n\n3. Quando, relativamente a um produto, o preço de oferta franco fronteira desça além do preço-limite, a imposição à importação aplicável a este produto é aumentada de um montante suplementar igual à diferença entre o preço-limite e o preço de oferta franco fronteira.\n\nTodavia, este montante suplementar não é aplicável relativamente a países terceiros que estão dispostos a garantir, e estão em condições de assim proceder para a importação de produtos originários e provenientes ao seu território, que o preço praticado não será inferior ao preço-limite do produto em causa e que será evitado qualquer desvio de tráfico.\n\n4. O preço de oferta franco fronteira é estabelecido relativamente a todas as importações provenientes de todos os países terceiros.\n\nTodavia, se as exportações de um ou vários países terceiros se efectuarem a preços anormalmente baixos, inferiores aos preços praticados pelos outros países terceiros, é estabelecido um segundo preço de oferta franco fronteira relativamente às exportações destes últimos países.\n\n5. As modalidades de aplicação do presente artigo são adoptadas segundo o procedimento previsto no artigo 17o do Regulamento (CEE) no 2771/75.\n\nSegundo o mesmo procedimento são fixados:\n\n- os preços-limite;\n\n- os montantes suplementares, se necessários."
+  },
+  "6bb5f9474a0975af": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nRelativamente aos produtos enumerados no artigo 1o, podem ser adoptadas normas de comercialização; estas, salvo a necessidade de ter em conta particularidades destes produtos, devem corresponder às normas de comercialização previstas no no 2 do artigo 2o do Regulamento (CEE) no 2771/75 quanto aos produtos mencionados no no 1, alínea b) do artigo 1o do referido regulamento.\n\nEstas normas podem incidir sobre a classificação por categorias de qualidade, a embalagem, a armazenagem, o transporte, o acondicionamento e a marcação.\n\nAs normas, o seu âmbito de aplicação, bem como as regras gerais da sua aplicação, são adoptadas pelo Conselho, sob proposta da Comissão, deliberando por maioria qualificada."
+  },
+  "592e965b33fb81f2": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nNa medida necessária ao bom funcionamento da organização comum de mercados no sector dos ovos e do presente regulamento, o Conselho, sob proposta da Comissão, deliberando por maioria qualificada, pode excluir total ou parcialmente o recurso ao regime dito de aperfeiçoamento activo para os produtos referidos no artigo 1o, destinados ao fabrico de produtos indicados no mesmo artigo."
+  },
+  "1c85f871b51bef70": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. As regras gerais para a interpretação da pauta aduaneira comum e as regras especiais para a sua aplicação são aplicáveis à classificação dos produtos abrangidos pelo presente regulamento; a nomenclatura aduaneira resultante da aplicação do presente regulamento é retomada na pauta aduaneira comum.\n\n2. Salvo disposições contrárias ao presente regulamento ou derrogação decidida pelo Conselho, sob proposta da Comissão deliberando por maioria qualificada, ficam interditos:\n\n- o recebimento de qualquer direito aduaneiro ou taxa de efeito equivalente;\n\n- a aplicação de qualquer restrição quantitativa ou medida de efeito equivalente.\n\nÉ considerada como medida de efeito equivalente a uma restrição quantitativa, entre outras, a limitação da concessão de certificados de importação e exportação a uma categoria determinada de beneficiários."
+  },
+  "2064f3ce3d2f9b37": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nNão são admitidas à livre circulação na Comunidade, as mercadorias referidas no artigo 1o fabricadas ou obtidas a partir de produtos não referidos no no 2 do artigo 9o e no no 1 do artigo 10o do Tratado."
+  },
+  "68523be6e2b6e888": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nOs Estados-membros e a Comissão comunicam reciprocamente os dados necessários à aplicação do presente regulamento. As modalidades da comunicação e da difusão destes dados são adoptadas segundo o precesso previsto no artigo 17o do Regulamento (CEE) no 2771/75."
+  },
+  "bc7a0fcd54737c2b": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. É revogado o Regulamento no 170/67/CEE do Conselho, de 27 de Junho de 1967, relativo ao regime comum de trocas para a ovalbumina e a lactoalbumina e que revoga o Regulamento no 48/67/CEE (3), alterado pelo Regulamento (CEE) no 1081/71 (4).\n\n2. As referências ao regulamento revogado nos termos do no 1 devem entender-se como feitas ao presente regulamento.\n\nAs referências e os fundamentos que se referem aos artigos desses regulamentos são as indicadas no quadro de equivalência que consta do anexo."
+  },
+  "6ea63450b84a6295": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nO presente regulamento entra em vigor no dia 1 de Novembro de 1975.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo em 29 de Outubro de 1975.\n\nPelo Conselho\n\nO Presidente\n\nG. MARCORA\n\n(1) JO no C 128 de 9. 6. 1975, p. 39.(2) JO no L 282 de 1. 11. 1975, p. 49.(3) JO no 130 de 28. 6. 1967, p. 2596/67.(4) JO no L 116 de 28. 5. 1971, p. 9."
+  },
+  "33f537fcadd6519d": {
+   "fragment_id": "ANEXO — Quadro de equivalência",
+   "type": "divisao",
+   "heading": "ANEXO — Quadro de equivalência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Quadro de equivalência\n\n\"\" ID=\"1\">artigo 5o> ID=\"2\">artigo 6o\"> ID=\"1\">artigo 6o> ID=\"2\">artigo 7o\"> ID=\"1\">artigo 7o> ID=\"2\">artigo 8o\"> ID=\"1\">artigo 8o, no 2> ID=\"2\">artigo 9o\"> ID=\"1\">artigo 9o> ID=\"2\">artigo 10o\">"
+  },
+  "757223c9d51a435c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1975R2783 — PT — 03.08.2009 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31975R2783) [REGULAMENTO (CEE) Nº 2783/75 DO CONSELHO](http://publications.europa.eu/resource/celex/31975R2783) [de 29 de Outubro de 1975](http://publications.europa.eu/resource/celex/31975R2783) [relativo ao regime comum de trocas comerciais para a ovalbumina e para a lactoalbumina](http://publications.europa.eu/resource/celex/31975R2783) (JO L 282, 1.11.1975, p.104)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 614/2009 do Conselho de 7 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0614) — L 181 — 8 — 14.7.2009"
+  }
+ }
+}

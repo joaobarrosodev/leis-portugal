@@ -35,6 +35,206 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-11-26'
+version_history:
+  file: diretiva-ue-2002-46.versoes.json
+  count: 14
+  source_lastmod: '2025-11-26'
+  versions:
+  - date: '2002-07-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-04-21'
+    amending: eu:celex:32006L0037:por
+    amending_title: DIRECTIVA 2006/37/CE DA COMISSÃO Texto relevante para efeitos do EEE de 30 de Março de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 13.º
+    - Altera Artigo 17.º
+    - Adita ANEXO I
+    - Adita Vitaminas e minerais que podem ser utilizados no fabrico de suplementos alimentares
+    - Adita 1. Vitaminas
+    - Adita 2. Minerais
+    - Adita ANEXO II
+    - Adita A. Vitaminas
+    - Adita 1. VITAMINA A
+    - Adita 2. VITAMINA D
+    - Adita 3. VITAMINA E
+    - Adita 4. VITAMINA K
+    - Adita 5. VITAMINA B1
+    - Adita 6. VITAMINA B2
+    - Adita 7. NIACINA
+    - Adita 8. ÁCIDO PANTOTÉNICO
+    - Adita 9. VITAMINA B6
+    - Adita 10. FOLATO
+    - Adita 11. VITAMINA B12
+    - Adita 12. BIOTINA
+    - Adita 13. VITAMINA C
+    - Adita B. Minerais
+    - Adita Notas
+    - Suprime ANEXO I — Vitaminas e minerais que podem ser utilizados no fabrico de suplementos alimentares
+    - Suprime ANEXO II — Vitaminas e minerais que podem ser utilizados no fabrico de suplementos alimentares
+  - date: '2008-12-11'
+    amending: eu:celex:32008R1137:por
+    amending_title: REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE 22 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Notas
+  - date: '2009-12-21'
+    amending: eu:celex:32009R1170:por
+    amending_title: REGULAMENTO (CE) N. o 1170/2009 DA COMISSÃO de 30 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 13.º
+    - Altera 1. Vitaminas
+    - Altera 2. Minerais
+    - Altera 1. VITAMINA A
+    - Altera 3. VITAMINA E
+    - Altera 4. VITAMINA K
+    - Altera 5. VITAMINA B1
+    - Altera 7. NIACINA
+    - Altera 8. ÁCIDO PANTOTÉNICO
+    - Altera 9. VITAMINA B6
+    - Altera 11. VITAMINA B12
+    - Altera 13. VITAMINA C
+    - Altera B. Minerais
+    - Altera Notas
+    - Adita Preparados vitamínicos e substâncias minerais que podem ser utilizados no fabrico de suplementos alimentares
+  - date: '2011-12-05'
+    amending: eu:celex:32011R1161:por
+    amending_title: REGULAMENTO (UE) N. o 1161/2011 DA COMISSÃO de 14 de Novembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 13.º
+    - Altera 1. Vitaminas
+    - Altera 3. VITAMINA E
+    - Altera 4. VITAMINA K
+    - Altera 13. VITAMINA C
+    - Altera B. Minerais
+    - Altera Notas
+  - date: '2014-02-28'
+    amending: eu:celex:32014R0119:por
+    amending_title: REGULAMENTO (UE) N. o 119/2014 DA COMISSÃO de 7 de fevereiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 13.º
+    - Altera 1. Vitaminas
+    - Altera 3. VITAMINA E
+    - Altera 4. VITAMINA K
+    - Altera 13. VITAMINA C
+    - Altera B. Minerais
+    - Altera Notas
+  - date: '2015-04-02'
+    amending: eu:celex:32015R0414:por
+    amending_title: REGULAMENTO (UE) 2015/414 DA COMISSÃO de 12 de março de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 13.º
+    - Altera 1. Vitaminas
+    - Altera 3. VITAMINA E
+    - Altera 4. VITAMINA K
+    - Altera 10. FOLATO
+    - Altera 13. VITAMINA C
+    - Altera B. Minerais
+    - Altera Notas
+  - date: '2017-07-26'
+    amending: eu:celex:32017R1203:por
+    amending_title: REGULAMENTO (UE) 2017/1203 DA COMISSÃO de 5 de julho de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 13.º
+    - Altera 1. Vitaminas
+    - Altera 3. VITAMINA E
+    - Altera 4. VITAMINA K
+    - Altera 13. VITAMINA C
+    - Altera B. Minerais
+    - Altera Notas
+  - date: '2021-03-30'
+    amending: eu:celex:32021R0418:por
+    amending_title: REGULAMENTO (UE) 2021/418 DA COMISSÃO de 9 de março de 2021
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 13.º
+    - Altera 1. Vitaminas
+    - Altera A. Vitaminas
+    - Altera B. Minerais
+    - Altera Notas
+    - Suprime 1. VITAMINA A
+    - Suprime 2. VITAMINA D
+    - Suprime 3. VITAMINA E
+    - Suprime 4. VITAMINA K
+    - Suprime 5. VITAMINA B1
+    - Suprime 6. VITAMINA B2
+    - Suprime 7. NIACINA
+    - Suprime 8. ÁCIDO PANTOTÉNICO
+    - Suprime 9. VITAMINA B6
+    - Suprime 10. FOLATO
+    - Suprime 11. VITAMINA B12
+    - Suprime 12. BIOTINA
+    - Suprime 13. VITAMINA C
+  - date: '2022-09-30'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 13.º
+    - Altera 1. Vitaminas
+    - Altera 2. Minerais
+    - Altera A. Vitaminas
+    - Altera B. Minerais
+    - Altera Notas
+  - date: '2024-02-06'
+    amending: eu:celex:32024R0248:por
+    amending_title: REGULAMENTO (UE) 2024/248 DA COMISSÃO de 16 de janeiro de 2024
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 13.º
+    - Altera 1. Vitaminas
+    - Altera A. Vitaminas
+    - Altera B. Minerais
+    - Altera Notas
+  - date: '2024-07-17'
+    amending: eu:celex:32024R1821:por
+    amending_title: REGULAMENTO (UE) 2024/1821 DA COMISSÃO de 25 de junho de 2024
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 13.º
+    - Altera 1. Vitaminas
+    - Altera A. Vitaminas
+    - Altera B. Minerais
+    - Altera Notas
+  - date: '2025-03-16'
+    amending: eu:celex:32025R0352:por
+    amending_title: REGULAMENTO (UE) 2025/352 DA COMISSÃO de 21 de fevereiro de 2025
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 13.º
+    - Altera 1. Vitaminas
+    - Altera A. Vitaminas
+    - Altera B. Minerais
+    - Altera Notas
+  - date: '2025-11-26'
+    amending: eu:celex:32025R2224:por
+    amending_title: REGULAMENTO (UE) 2025/2224 DA COMISSÃO de 5 de novembro de 2025; REGULAMENTO (UE) 2025/2225 DA COMISSÃO
+      de 5 de novembro de 2025
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 13.º
+    - Altera 1. Vitaminas
+    - Altera A. Vitaminas
+    - Altera B. Minerais
+    - Altera Notas
 identifiers:
   celex: 32002L0046
   eli: http://data.europa.eu/eli/dir/2002/46/oj
@@ -49,7 +249,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3a775fb5-a3e3-4442-92c9-bf002088c961.0010
   content_url: http://publications.europa.eu/resource/cellar/2932c627-d518-11f0-8da2-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0046-20251126
-  retrieved_at: '2026-10-22T02:45:03Z'
+  retrieved_at: '2026-10-22T14:51:45Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-04T11:35:20.265+02:00'
 integrity:
@@ -58,9 +258,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:03Z'
-  notes: Texto consolidado 02002L0046-20251126.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:45Z'
+  notes: 14 versão(ões); histórico completo em diretiva-ue-2002-46.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -237,41 +437,19 @@ relationships:
   source: null
 article_structure:
   article_count: 17
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:03Z'
+  checked_at: '2026-10-22T14:51:45Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2002/46/CE do Parlamento Europeu e do Conselho, de 10 de Junho de 2002
-
-> 02002L0046 — PT — 26.11.2025 — 013.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32006L0037) — [DIRECTIVA 2006/37/CE DA COMISSÃO de 30 de Março de 2006](http://publications.europa.eu/resource/celex/32006L0037) — L 94 — 32 — 1.4.2006
-- [►M2](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE 22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [►M3](http://publications.europa.eu/resource/celex/32009R1170) — [REGULAMENTO (CE) N.º 1170/2009 DA COMISSÃO de 30 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1170) — L 314 — 36 — 1.12.2009
-- [►M4](http://publications.europa.eu/resource/celex/32011R1161) — [REGULAMENTO (UE) N.º 1161/2011 DA COMISSÃO de 14 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1161) — L 296 — 29 — 15.11.2011
-- [►M5](http://publications.europa.eu/resource/celex/32014R0119) — [REGULAMENTO (UE) N.º 119/2014 DA COMISSÃO de 7 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0119) — L 39 — 44 — 8.2.2014
-- [►M6](http://publications.europa.eu/resource/celex/32015R0414) — [REGULAMENTO (UE) 2015/414 DA COMISSÃO de 12 de março de 2015](http://publications.europa.eu/resource/celex/32015R0414) — L 68 — 26 — 13.3.2015
-- [►M7](http://publications.europa.eu/resource/celex/32017R1203) — [REGULAMENTO (UE) 2017/1203 DA COMISSÃO de 5 de julho de 2017](http://publications.europa.eu/resource/celex/32017R1203) — L 173 — 9 — 6.7.2017
-- [►M8](http://publications.europa.eu/resource/celex/32021R0418) — [REGULAMENTO (UE) 2021/418 DA COMISSÃO de 9 de março de 2021](http://publications.europa.eu/resource/celex/32021R0418) — L 83 — 1 — 10.3.2021
-- [►M9](http://publications.europa.eu/resource/celex/32024R0248) — [REGULAMENTO (UE) 2024/248 DA COMISSÃO de 16 de janeiro de 2024](http://publications.europa.eu/resource/celex/32024R0248) — L 248 — 1 — 17.1.2024
-- [►M10](http://publications.europa.eu/resource/celex/32024R1821) — [REGULAMENTO (UE) 2024/1821 DA COMISSÃO de 25 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1821) — L 1821 — 1 — 27.6.2024
-- [►M11](http://publications.europa.eu/resource/celex/32025R0352) — [REGULAMENTO (UE) 2025/352 DA COMISSÃO de 21 de fevereiro de 2025](http://publications.europa.eu/resource/celex/32025R0352) — L 352 — 1 — 24.2.2025
-- [►M12](http://publications.europa.eu/resource/celex/32025R2224) — [REGULAMENTO (UE) 2025/2224 DA COMISSÃO de 5 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2224) — L 2224 — 1 — 6.11.2025
-- [►M13](http://publications.europa.eu/resource/celex/32025R2225) — [REGULAMENTO (UE) 2025/2225 DA COMISSÃO de 5 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2225) — L 2225 — 1 — 6.11.2025
-
-## DIRECTIVA 2002/46/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 10 de Junho de 2002
 

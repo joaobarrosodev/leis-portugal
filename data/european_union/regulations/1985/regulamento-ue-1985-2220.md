@@ -34,6 +34,106 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-04-19'
+version_history:
+  file: regulamento-ue-1985-2220.versoes.json
+  count: 3
+  source_lastmod: '2012-04-19'
+  versions:
+  - date: '1985-08-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:31987R1181:por
+    amending_title: Regulamento (CEE) n o 1181/87 da Comissão de 29 de Abril de 1987; M2; Regulamento (CE) n o 3403/93 da
+      Comissão de 10 de Dezembro de 1993; REGULAMENTO (CE) N.O 1932/1999 DA COMISSÃO de 9 de Setembro de 1999; REGULAMENTO
+      (CE) N. o 673/2004 DA COMISSÃO de 13 de Abril de 2004; REGULAMENTO (CE) N. o 1713/2006 DA COMISSÃO de 20 de Novembro
+      de 2006; REGULAMENTO (CE) N. o 1913/2006 DA COMISSÃO de 20 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Adita TÍTULO I
+    - Adita Campo de aplicação do regulamento
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3º
+    - Adita TÍTULO II
+    - Adita Exigência de garantia
+    - Adita Artigo 4º
+    - Adita Artigo 5º
+    - Adita Artigo 6º
+    - Adita TÍTULO III
+    - Adita Formas de garantia
+    - Adita Artigo 8º
+    - Adita Artigo 9º
+    - Adita Artigo 10º
+    - Adita Artigo 11º
+    - Adita Artigo 12.º
+    - Adita Artigo 13º
+    - Adita Artigo 14º
+    - Adita Artigo 15º
+    - Adita Artigo 16º
+    - Adita Artigo 17º
+    - Adita TÍTULO IV
+    - Adita Adiantamentos
+    - Adita Artigo 18º
+    - Adita Artigo 19º
+    - Adita TÍTULO V
+    - Adita Garantias liberadas, outras garantias adquiridas diferentes das referidas no âmbito do Título IV
+    - Adita Artigo 20º
+    - Adita Artigo 21º
+    - Adita Artigo 22º
+    - Adita Artigo 23º
+    - Adita Artigo 24º
+    - Adita Artigo 25º
+    - Adita Artigo 26º
+    - Adita TÍTULO VI
+    - Adita Normas gerais
+    - Adita Artigo 27º
+    - Adita Artigo 28º
+  - date: '2012-04-19'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime Campo de aplicação do regulamento
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3º
+    - Suprime TÍTULO II
+    - Suprime Exigência de garantia
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime TÍTULO III
+    - Suprime Formas de garantia
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime Artigo 17º
+    - Suprime TÍTULO IV
+    - Suprime Adiantamentos
+    - Suprime Artigo 18º
+    - Suprime Artigo 19º
+    - Suprime TÍTULO V
+    - Suprime Garantias liberadas, outras garantias adquiridas diferentes das referidas no âmbito do Título IV
+    - Suprime Artigo 20º
+    - Suprime Artigo 21º
+    - Suprime Artigo 22º
+    - Suprime Artigo 23º
+    - Suprime Artigo 24º
+    - Suprime Artigo 25º
+    - Suprime Artigo 26º
+    - Suprime TÍTULO VI
+    - Suprime Normas gerais
+    - Suprime Artigo 27º
+    - Suprime Artigo 28º
 identifiers:
   celex: 31985R2220
   eli: http://data.europa.eu/eli/reg/1985/2220/oj
@@ -48,7 +148,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4d873b18-c927-4cf0-a3b2-50e3a10ccab6.0011
   content_url: http://publications.europa.eu/resource/cellar/54dfae1d-a3b6-43ac-a22e-70630299410f.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01985R2220-20120419
-  retrieved_at: '2026-10-22T02:49:59Z'
+  retrieved_at: '2026-10-22T14:34:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-22T22:16:01.875+01:00'
 integrity:
@@ -57,9 +157,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:59Z'
-  notes: Texto consolidado 01985R2220-20120419.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:36Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1985-2220.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -209,16 +309,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:59Z'
+  checked_at: '2026-10-22T14:34:36Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01985R2220-19931221: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01985R2220-19990917: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01985R2220-20040504: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

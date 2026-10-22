@@ -1,0 +1,206 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31987L0328:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01987L0328-20050413",
+ "dre_path": null,
+ "source_lastmod": "2005-04-13",
+ "versions": [
+  {
+   "date": "1987-06-26",
+   "future": false,
+   "celex": "31987L0328",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2f9bdc0d37b486e2",
+    "afe8c910aba443fe",
+    "673f10ee721f8058",
+    "209356781172e8e3",
+    "f53366aa5e7b5ba4",
+    "2c67c80be141e473",
+    "2fcbfec373a4d7d5",
+    "1a577d1b34427a40"
+   ]
+  },
+  {
+   "date": "2005-04-13",
+   "future": false,
+   "celex": "01987L0328-20050413",
+   "acts": [
+    {
+     "id": "eu:celex:32005L0024:por",
+     "title": "DIRECTIVA 2005/24/CE DO CONSELHO de 14 de Março de 2005",
+     "published": null,
+     "celex": "32005L0024"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1º.",
+    "Adita Artigo 2º.",
+    "Adita Artigo 3º.",
+    "Adita Artigo 4º.",
+    "Adita Artigo 5º.",
+    "Adita Artigo 6º.",
+    "Adita Artigo 7º.",
+    "Adita Notas",
+    "Suprime Artigo 1o.",
+    "Suprime Artigo 2o.",
+    "Suprime Artigo 3o.",
+    "Suprime Artigo 4o.",
+    "Suprime Artigo 5o.",
+    "Suprime Artigo 6o.",
+    "Suprime Artigo 7o."
+   ],
+   "fragments": [
+    "5cbe8061bdeaf56e",
+    "3c8ef09d49080764",
+    "ff9790a85718efc6",
+    "ea96f535c83b2468",
+    "c26ae158bb3733a2",
+    "01ba4924ba086a89",
+    "0cd4b3c0d31da871",
+    "d9ba80514618186b",
+    "038e096070aac55c"
+   ]
+  }
+ ],
+ "fragments": {
+  "2f9bdc0d37b486e2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "| 26.6.1987 | PT | Jornal Oficial das Comunidades Europeias | L 167/54 |\n| --- | --- | --- | --- |\n\nDIRECTIVA DO CONSELHO\n\nde 18 de Junho de 1987\n\nrelativa à admissão à reprodução de bovinos reprodutores de raça pura\n\n(87/328/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 77/504/CEE do Conselho, de 25 de Julho de 1977, respeitante aos animais da espécie bovina reprodutores de raça pura[(1)](http://publications.europa.eu/resource/cellar/d4cafc70-73f6-4f49-9e1c-d1fb683f4708.0011.05/DOC_1#ntr1-L_1987167PT.01005401-E0001), com a última redacção que lhe foi dada pelo Regulamento (CEE) no. 3768/85[(2)](http://publications.europa.eu/resource/cellar/d4cafc70-73f6-4f49-9e1c-d1fb683f4708.0011.05/DOC_1#ntr2-L_1987167PT.01005401-E0002), e, nomeadamente, o seu artigo 3o.,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que a Directiva 77/504/CEE decidiu liberalizar progressivamente o comércio intracomunitário de bovinos reprodutores de raça pura; que, para aquele efeito, torna-se necessária uma harmonização complementar no que respeita à admissão daqueles animais e do respectivo sémen à reprodução;\n\nConsiderando que, naquele sentido, convém evitar que as disposições nacionais relativas à admissão à reprodução de bovinos reprodutores de raça pura e do respectivo sémen não constituam uma proibição, restrição ou entrave ao comércio intracomunitário, quer se trate de cobrição natural ou de inseminação artificial;\n\nConsiderando que as vacas reprodutoras de raça pura não devem ser objecto de qualquer proibição, restrição ou entrave por força da reprodução;\n\nConsiderando que a inseminação artificial representa uma técnica importante para a difusão dos melhores reprodutores e, como tal, para o melhoramento da espécie bovina; que convém, todavia, evitar qualquer deterioração do património genético, nomeadamente no que respeita aos reprodutores machos que devem apresentar todas as garantias do seu valor genético e a ausência em si de taras hereditárias;\n\nConsiderando que é necessário distinguir entre a admissão à inseminação artificial dos touros de raça pura e do respectivo sémen que tenham sido objecto de todas as provas da testagem oficial prevista para a sua raça num Estado-membro e a simples admissão dos touros e do respectivo sémen à prestação de provas;\n\nConsiderando que é útil estabelecer um procedimento de resolução dos problemas, nomeadamente em caso de dificuldades que possam surgir com a apreciação de resultados;\n\nConsiderando que a prescrição no sentido de que os sémens devem provir dos centros encarregados da inseminação artificial oficialmente aprovados é de molde a fornecer as garantias necessárias à realização do fim a prosseguir;\n\nConsiderando que é desejável que os touros de raça pura e o respectivo sémen sejam identificados pela análise do respectivo grupo sanguíneo ou por qualquer outro método adequado;\n\nConsiderando que é oportuno prever a designação de certos organismos chamados a colaborar com a uniformização dos métodos de análise e a avaliação dos resultados;\n\nConsiderando que, dados os condicionalismos particulares existentes em Espanha e em Portugal, é necessário prever um prazo suplementar para a execução da presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "afe8c910aba443fe": {
+   "fragment_id": "Artigo 1o.",
+   "type": "artigo",
+   "heading": "Artigo 1o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o.\n\nOs Estados-membros assegurar-se-ão de que, sem prejuízo das regras de polícia sanitária, não sejam proibidas, restringidas ou entravadas a admissão à reprodução das vacas de raça pura e a admissão à cobrição natural dos touros de raça pura."
+  },
+  "673f10ee721f8058": {
+   "fragment_id": "Artigo 2o.",
+   "type": "artigo",
+   "heading": "Artigo 2o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o.\n\n1. Nenhum Estado-membro pode proibir, restringir ou entravar:\n\n— a admissão para efeitos de testagem oficial de touros de raça pura ou a utilização do seu sémen dentro dos limites quantitativos necessários para a execução daqueles testes oficiais por parte de organismos ou associações acreditadas,\n\n— a admissão à inseminação artificial de touros de raça pura no seu território ou a utilização do respectivo sémen quando tais touros tenham sido admitidos à inseminação artificial num Estado-membro com base em testes efectuados nos termos da Decisão 86/130/CEE[(3)](http://publications.europa.eu/resource/cellar/d4cafc70-73f6-4f49-9e1c-d1fb683f4708.0011.05/DOC_1#ntr3-L_1987167PT.01005401-E0003).\n\n2. Caso a aplicação do no. 1 ocasione conflitos, nomeadamente no que toca à interpretação dos resultados dos testes, os operadores dispõem do direito de obter o parecer de um perito.\n\nTendo em conta o parecer do perito, podem ser tomadas medidas a pedido de um Estado-membro, de acordo com o disposto no artigo 8o. da Directiva 77/504/CEE.\n\n3. As modalidades gerais de aplicação do no. 2 serão adoptadas de acordo com o disposto no artigo 8o. da Directiva 77/504/CEE."
+  },
+  "209356781172e8e3": {
+   "fragment_id": "Artigo 3o.",
+   "type": "artigo",
+   "heading": "Artigo 3o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o.\n\nOs Estados-membros assegurar-se-ão de que a utilização dos touros de raça pura e do respectivo sémen, previstos no artigo 2o, fique subordinada a uma identificação daqueles touros através da análise do grupo sanguíneo, ou através de qualquer outro método adequado, a adoptar segundo o disposto no artigo 8o. da Directiva 77/504/CEE."
+  },
+  "f53366aa5e7b5ba4": {
+   "fragment_id": "Artigo 4o.",
+   "type": "artigo",
+   "heading": "Artigo 4o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o.\n\nOs Estados-membros assegurar-se-ão de que, no que se refere às trocas intracomunitárias, o sémen referido no artigo 2o. seja recolhido, tratado e armazenado num centro de inseminação artificial aprovado oficialmente."
+  },
+  "2c67c80be141e473": {
+   "fragment_id": "Artigo 5o.",
+   "type": "artigo",
+   "heading": "Artigo 5o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o.\n\nO Conselho, deliberando por maioria qualificada sobre proposta da Comissão, designa o ou os organismos de referência encarregados de colaborar na uniformização dos métodos de testagem e de avaliação dos resultados."
+  },
+  "2fcbfec373a4d7d5": {
+   "fragment_id": "Artigo 6o.",
+   "type": "artigo",
+   "heading": "Artigo 6o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o.\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente decisão, o mais tardar em 1 de Janeiro de 1989, e informarão do facto imediatamente a Comissão.\n\nNo entanto, o Reino de Espanha e a República Portuguesa beneficiam de um prazo suplementar de três anos para dar cumprimento à presente directiva."
+  },
+  "1a577d1b34427a40": {
+   "fragment_id": "Artigo 7o.",
+   "type": "artigo",
+   "heading": "Artigo 7o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o.\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo, em 18 de Junho de 1987.\n\nPelo Conselho\n\nO Presidente\n\nP. DE KEERSMAEKER\n\n[(1)](http://publications.europa.eu/resource/cellar/d4cafc70-73f6-4f49-9e1c-d1fb683f4708.0011.05/DOC_1#ntc1-L_1987167PT.01005401-E0001) [JO no. L 206 de 12. 8. 1977, p. 8.](http://publications.europa.eu/resource/oj/JOL_1977_206_R_TOC)\n\n[(2)](http://publications.europa.eu/resource/cellar/d4cafc70-73f6-4f49-9e1c-d1fb683f4708.0011.05/DOC_1#ntc2-L_1987167PT.01005401-E0002) [JO no. L 362 de 31. 12. 1985, p. 8.](http://publications.europa.eu/resource/oj/JOL_1985_362_R_TOC)\n\n[(3)](http://publications.europa.eu/resource/cellar/d4cafc70-73f6-4f49-9e1c-d1fb683f4708.0011.05/DOC_1#ntc3-L_1987167PT.01005401-E0003) [JO no. L 101 de 17. 4. 1986, p. 37.](http://publications.europa.eu/resource/oj/JOL_1986_101_R_TOC)"
+  },
+  "5cbe8061bdeaf56e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Junho de 1987\n\nrelativa à admissão à reprodução de bovinos reprodutores de raça pura\n\n(87/328/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 77/504/CEE do Conselho, de 25 de Julho de 1977, respeitante aos animais da espécie bovina reprodutores de raça pura ([^1^](http://publications.europa.eu/resource/cellar/6779add9-2355-423f-90aa-d900ec15f778.0018.03/DOC_1#E0001)), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº. 3768/85 ([^2^](http://publications.europa.eu/resource/cellar/6779add9-2355-423f-90aa-d900ec15f778.0018.03/DOC_1#E0002)), e, nomeadamente, o seu artigo 3º.,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que a Directiva 77/504/CEE decidiu liberalizar progressivamente o comércio intracomunitário de bovinos reprodutores de raça pura; que, para aquele efeito, torna-se necessária uma harmonização complementar no que respeita à admissão daqueles animais e do respectivo sémen à reprodução;\n\nConsiderando que, naquele sentido, convém evitar que as disposições nacionais relativas à admissão à reprodução de bovinos reprodutores de raça pura e do respectivo sémen não constituam uma proibição, restrição ou entrave ao comércio intracomunitário, quer se trate de cobrição natural ou de inseminação artificial;\n\nConsiderando que as vacas reprodutoras de raça pura não devem ser objecto de qualquer proibição, restrição ou entrave por força da reprodução;\n\nConsiderando que a inseminação artificial representa uma técnica importante para a difusão dos melhores reprodutores e, como tal, para o melhoramento da espécie bovina; que convém, todavia, evitar qualquer deterioração do património genético, nomeadamente no que respeita aos reprodutores machos que devem apresentar todas as garantias do seu valor genético e a ausência em si de taras hereditárias;\n\nConsiderando que é necessário distinguir entre a admissão à inseminação artificial dos touros de raça pura e do respectivo sémen que tenham sido objecto de todas as provas da testagem oficial prevista para a sua raça num Estado-membro e a simples admissão dos touros e do respectivo sémen à prestação de provas;\n\nConsiderando que é útil estabelecer um procedimento de resolução dos problemas, nomeadamente em caso de dificuldades que possam surgir com a apreciação de resultados;\n\nConsiderando que a prescrição no sentido de que os sémens devem provir dos centros encarregados da inseminação artificial oficialmente aprovados é de molde a fornecer as garantias necessárias à realização do fim a prosseguir;\n\nConsiderando que é desejável que os touros de raça pura e o respectivo sémen sejam identificados pela análise do respectivo grupo sanguíneo ou por qualquer outro método adequado;\n\nConsiderando que é oportuno prever a designação de certos organismos chamados a colaborar com a uniformização dos métodos de análise e a avaliação dos resultados;\n\nConsiderando que, dados os condicionalismos particulares existentes em Espanha e em Portugal, é necessário prever um prazo suplementar para a execução da presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "3c8ef09d49080764": {
+   "fragment_id": "Artigo 1º.",
+   "type": "artigo",
+   "heading": "Artigo 1º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º.\n\nOs Estados-Membros devem assegurar-se de que, sem prejuízo das normas sanitárias, não sejam proibidas, restringidas ou entravadas:\n\n— a admissão à reprodução de fêmeas de bovinos de raça pura,\n\n— a admissão à cobrição natural de touros de raça pura, e\n\n— a utilização de óvulos e embriões provenientes de fêmeas de bovinos de raça pura."
+  },
+  "ff9790a85718efc6": {
+   "fragment_id": "Artigo 2º.",
+   "type": "artigo",
+   "heading": "Artigo 2º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º.\n\n1. Nenhum Estado-membro pode proibir, restringir ou entravar:\n\n— a admissão para efeitos de testagem oficial de touros de raça pura ou a utilização do seu sémen dentro dos limites quantitativos necessários para a execução daqueles testes oficiais por parte de organismos ou associações acreditadas,\n\n— a admissão à inseminação artificial de touros de raça pura no seu território ou a utilização do respectivo sémen quando tais touros tenham sido admitidos à inseminação artificial num Estado-membro com base em testes efectuados nos termos da Decisão 86/130/CEE ([^3^](http://publications.europa.eu/resource/cellar/6779add9-2355-423f-90aa-d900ec15f778.0018.03/DOC_1#E0003)).\n\n2. Caso a aplicação do nº. 1 ocasione conflitos, nomeadamente no que toca à interpretação dos resultados dos testes, os operadores dispõem do direito de obter o parecer de um perito.\n\nTendo em conta o parecer do perito, podem ser tomadas medidas a pedido de um Estado-membro, de acordo com o disposto no artigo 8º. da Directiva 77/504/CEE.\n\n3. As modalidades gerais de aplicação do nº. 2 serão adoptadas de acordo com o disposto no artigo 8º. da Directiva 77/504/CEE."
+  },
+  "ea96f535c83b2468": {
+   "fragment_id": "Artigo 3º.",
+   "type": "artigo",
+   "heading": "Artigo 3º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º.\n\nOs Estados-membros assegurar-se-ão de que a utilização dos touros de raça pura e do respectivo sémen, previstos no artigo 2º, fique subordinada a uma identificação daqueles touros através da análise do grupo sanguíneo, ou através de qualquer outro método adequado, a adoptar segundo o disposto no artigo 8º. da Directiva 77/504/CEE."
+  },
+  "c26ae158bb3733a2": {
+   "fragment_id": "Artigo 4º.",
+   "type": "artigo",
+   "heading": "Artigo 4º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º.\n\nOs Estados-Membros devem assegurar-se de que, no que se refere às trocas intracomunitárias, o sémen referido no artigo 2.º seja recolhido, tratado e armazenado em centros de colheita ou, se necessário, em centros de armazenagem aprovados nos termos da Directiva 88/407/CEE do Conselho, de 14 de Junho de 1988, que fixa as exigências de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações de sémen de animais de espécie bovina ([^4^](http://publications.europa.eu/resource/cellar/6779add9-2355-423f-90aa-d900ec15f778.0018.03/DOC_1#E0004))."
+  },
+  "01ba4924ba086a89": {
+   "fragment_id": "Artigo 5º.",
+   "type": "artigo",
+   "heading": "Artigo 5º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º.\n\nO Conselho, deliberando por maioria qualificada sobre proposta da Comissão, designa o ou os organismos de referência encarregados de colaborar na uniformização dos métodos de testagem e de avaliação dos resultados."
+  },
+  "0cd4b3c0d31da871": {
+   "fragment_id": "Artigo 6º.",
+   "type": "artigo",
+   "heading": "Artigo 6º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º.\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente decisão, o mais tardar em 1 de Janeiro de 1989, e informarão do facto imediatamente a Comissão.\n\nNo entanto, o Reino de Espanha e a República Portuguesa beneficiam de um prazo suplementar de três anos para dar cumprimento à presente directiva."
+  },
+  "d9ba80514618186b": {
+   "fragment_id": "Artigo 7º.",
+   "type": "artigo",
+   "heading": "Artigo 7º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º.\n\nOs Estados-membros são destinatários da presente directiva.\n\n---"
+  },
+  "038e096070aac55c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6779add9-2355-423f-90aa-d900ec15f778.0018.03/DOC_1#src.E0001)) JO nº. L 206 de 12. 8. 1977, p. 8.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6779add9-2355-423f-90aa-d900ec15f778.0018.03/DOC_1#src.E0002)) JO nº. L 362 de 31. 12. 1985, p. 8.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6779add9-2355-423f-90aa-d900ec15f778.0018.03/DOC_1#src.E0003)) JO nº. L 101 de 17. 4. 1986, p. 37.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/6779add9-2355-423f-90aa-d900ec15f778.0018.03/DOC_1#src.E0004)) JO L 194 de 22.7.1988, p. 10. Directiva com a última redacção que lhe foi dada pela Decisão 2004/101/CE da Comissão (JO L 30 de 4.2.2004, p. 15)."
+  }
+ }
+}

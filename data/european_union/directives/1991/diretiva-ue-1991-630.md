@@ -32,6 +32,86 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-03-10'
+version_history:
+  file: diretiva-ue-1991-630.versoes.json
+  count: 3
+  source_lastmod: '2009-03-10'
+  versions:
+  - date: '1991-12-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-06-05'
+    amending: eu:celex:32001L0088:por
+    amending_title: DIRECTIVA 2001/88/CE DO CONSELHO de 23 de Outubro de 2001; DIRECTIVA 2001/93/CE DA COMISSÃO de 9 de Novembro
+      de 2001; REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 5.ºA
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita ANEXO
+    - Adita CAPÍTULO I
+    - Adita CONDIÇÕES GERAIS
+    - Adita CAPÍTULO II
+    - Adita DISPOSIÇÕES ESPECÍFICAS PARA VÁRIAS CATEGORIAS DE SUÍNOS
+    - Adita A. VARRASCOS
+    - Adita B. PORCAS E MARRÃS
+    - Adita C. LEITÕES
+    - Adita D. LEITÕES DESMAMADOS E PORCOS DE CRIAÇÃO
+    - Adita Notas
+    - Suprime Artigo 1o.
+    - Suprime Artigo 2o.
+    - Suprime Artigo 3o.
+    - Suprime Artigo 4o.
+    - Suprime Artigo 5o.
+    - Suprime Artigo 6o.
+    - Suprime Artigo 7o.
+    - Suprime Artigo 8o.
+    - Suprime Artigo 9o.
+    - Suprime Artigo 10o.
+    - Suprime Artigo 11o.
+    - Suprime Artigo 12o.
+    - Suprime ANEXO — CAPÍTULO I CONDIÇÕES GERAIS
+    - Suprime CAPÍTULO II DISPOSIÇÕES ESPECÍFICAS APLICÁVEIS ÀS VÁRIAS CATEGORIAS DE PORCOS — I. VARRASCOS
+  - date: '2009-03-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 5.ºA
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime ANEXO
+    - Suprime CAPÍTULO I
+    - Suprime CONDIÇÕES GERAIS
+    - Suprime CAPÍTULO II
+    - Suprime DISPOSIÇÕES ESPECÍFICAS PARA VÁRIAS CATEGORIAS DE SUÍNOS
+    - Suprime A. VARRASCOS
+    - Suprime B. PORCAS E MARRÃS
+    - Suprime C. LEITÕES
+    - Suprime D. LEITÕES DESMAMADOS E PORCOS DE CRIAÇÃO
+    - Suprime Notas
 identifiers:
   celex: 31991L0630
   eli: http://data.europa.eu/eli/dir/1991/630/oj
@@ -46,7 +126,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/489b38d0-82a4-4e51-a67e-1c0d9566c899.0011
   content_url: http://publications.europa.eu/resource/cellar/b41a0cbe-c600-4df8-8f7b-98f2cdcc430d.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0630-20090310
-  retrieved_at: '2026-10-22T02:44:16Z'
+  retrieved_at: '2026-10-22T14:39:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T02:44:36.077+01:00'
 integrity:
@@ -55,9 +135,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:16Z'
-  notes: Texto consolidado 01991L0630-20090310.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:39:31Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1991-630.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -139,16 +219,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:16Z'
+  checked_at: '2026-10-22T14:39:31Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01991L0630-20011201: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0630-20011221: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

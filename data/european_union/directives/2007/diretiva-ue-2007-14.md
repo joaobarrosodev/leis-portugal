@@ -35,6 +35,65 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-11-26'
+version_history:
+  file: diretiva-ue-2007-14.versoes.json
+  count: 2
+  source_lastmod: '2013-11-26'
+  versions:
+  - date: '2008-12-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-11-26'
+    amending: eu:celex:32013L0050:por
+    amending_title: DIRETIVA 2013/50/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 22 de outubro
+      de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 26.º
+    - Altera Notas
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Suprime Artigo 2.º — Disposições processuais aplicáveis à escolha do Estado-Membro de origem
+    - Suprime Artigo 3.º — Conteúdo mínimo das demonstrações financeiras semestrais não consolidadas
+    - Suprime Artigo 4.º — Principais transacções pertinentes entre as partes relacionadas
+    - Suprime Artigo 5.º — Duração máxima do «ciclo curto de liquidação» habitual
+    - Suprime Artigo 6.º — Mecanismos do controlo a exercer pelas autoridades competentes sobre os criadores de mercado
+    - Suprime Artigo 7.º — Calendário dos dias de negociação
+    - Suprime Artigo 8.º — Accionistas e pessoas singulares ou colectivas referidas no artigo 10.º da Directiva «Transparência»,
+      que têm a obrigação de notificar participações qualificadas
+    - Suprime Artigo 9.º — Circunstâncias em que a pessoa que procede à notificação deve ter conhecimento prévio da aquisição,
+      alienação ou possibilidade do exercício de direitos de voto
+    - Suprime Artigo 10.º — Condições de independência a satisfazer pelas sociedades gestoras e empresas de investimento envolvidas
+      na gestão individualizada de carteiras
+    - Suprime Artigo 11.º — Tipos de instrumentos financeiros que conferem o direito de aquisição, por exclusiva iniciativa
+      do titular, de acções às quais estejam associados direitos de voto
+    - Suprime Artigo 12.º — Requisitos mínimos
+    - Suprime Artigo 13.º — Requisitos equivalentes aos do n.º 2, alínea b), do artigo 4.º da Directiva 2004/109/CE
+    - Suprime Artigo 14.º — Requisitos equivalentes aos do n.º 4 do artigo 5.º da Directiva 2004/109/CE
+    - Suprime Artigo 15.º — Requisitos equivalentes aos do n.º 2, alínea c), do artigo 4.º e do n.º 2, alínea c), do artigo
+      5.º da Directiva 2004/109/CE
+    - Suprime Artigo 16.º — Requisitos equivalentes aos do artigo 6.º da Directiva 2004/109/CE
+    - Suprime Artigo 17.º — Requisitos equivalentes aos do n.º 3 do artigo 4.º da Directiva 2004/109/CE
+    - Suprime Artigo 18.º — Requisitos equivalentes aos do n.º 3, segundo parágrafo, do artigo 4.º da Directiva 2004/109/CE
 identifiers:
   celex: 32007L0014
   eli: http://data.europa.eu/eli/dir/2007/14/oj
@@ -49,7 +108,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3785080a-2539-4f3f-8478-9ac6e999ed89.0017
   content_url: http://publications.europa.eu/resource/cellar/6b502bcd-b952-481c-814d-7004751e2c21.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007L0014-20131126
-  retrieved_at: '2026-10-22T02:41:31Z'
+  retrieved_at: '2026-10-22T15:07:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T04:02:18.462+01:00'
 integrity:
@@ -58,9 +117,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:31Z'
-  notes: Texto consolidado 02007L0014-20131126.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:07:06Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2007-14.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -129,29 +188,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/92b29dfd-b224-46b3-87d6-049271484e62
 article_structure:
   article_count: 24
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:31Z'
+  checked_at: '2026-10-22T15:07:06Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2007/14/CE da Comissão, de 8 de Março de 2007
-
-> 2007L0014 — PT — 26.11.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013L0050) — [DIRETIVA 2013/50/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 22 de outubro de 2013](http://publications.europa.eu/resource/celex/32013L0050) — L 294 — 13 — 6.11.2013
-
-## DIRECTIVA 2007/14/CE DA COMISSÃO
 
 de 8 de Março de 2007
 

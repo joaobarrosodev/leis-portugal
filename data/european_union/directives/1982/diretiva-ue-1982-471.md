@@ -34,6 +34,104 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-09-01'
+version_history:
+  file: diretiva-ue-1982-471.versoes.json
+  count: 4
+  source_lastmod: '2010-09-01'
+  versions:
+  - date: '1982-07-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-12-31'
+    amending: eu:celex:31984L0443:por
+    amending_title: DIRECTIVA DA COMISSÃO 84/443/CEE de 26 de Julho de 1984; DIRECTIVA DA COMISSÃO 85/509/CEE de 6 de Novembro
+      de 1985; M3; DIRECTIVA DA COMISSÃO 86/530/CEE de 28 de Outubro de 1986; M5; M6; DIRECTIVA DA COMISSÃO 90/439/CEE de
+      24 de Julho de 1990; DIRECTIVA DO CONSELHO 90/654/CEE de 4 de Dezembro de 1990; M9; DIRECTIVA 93/56/CEE DA COMISSÃO
+      de 29 de Junho de 1993; DIRECTIVA 93/74/CEE DO CONSELHO de 13 de Setembro de 1993; DIRECTIVA 95/33/CE DA COMISSÃO de
+      10 de Julho de 1995; DIRECTIVA 95/69/CE DO CONSELHO de 22 de Dezembro de 1995; DIRECTIVA 96/25/CE DO CONSELHO de 29
+      de Abril de 1996; DIRECTIVA 1999/20/CE DO CONSELHO de 22 de Março de 1999; REGULAMENTO (CE) N. o 1829/2003 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 22 de Setembro de 2003; REGULAMENTO (CE) N. o 1831/2003 DO PARLAMENTO EUROPEU E DO CONSELHO
+      de 22 de Setembro de 2003; REGULAMENTO(CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003;
+      M20; DIRECTIVA 2004/116/CE DA COMISSÃO Texto relevante para efeitos do EEE de 23 de Dezembro de 2004; Acto de Adesão
+      da Áustria, da Finlândia e da Suécia
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Adita Artigo 1º
+    - Adita Artigo 2º
+    - Adita Artigo 3º
+    - Adita Artigo 4º
+    - Adita Artigo 5º
+    - Adita Artigo 6º
+    - Adita Artigo 7º
+    - Adita Artigo 8º
+    - Adita Artigo 9º
+    - Adita Artigo 10º
+    - Adita Artigo 11º
+    - Adita Artigo 12º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15º
+    - Adita Artigo 16º
+    - Adita Artigo 17º
+    - Adita Artigo 18º
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+    - Suprime Artigo 15o
+    - Suprime Artigo 16o
+    - Suprime Artigo 17o
+    - Suprime Artigo 18o
+  - date: '2009-04-20'
+    amending: eu:celex:32009R0219:por
+    amending_title: REGULAMENTO (CE) N. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1º
+    - Altera Artigo 3º
+    - Altera Artigo 6º
+    - Altera Artigo 7º
+    - Altera Artigo 8º
+    - Altera Artigo 13.º
+    - Altera Notas
+    - Suprime Artigo 14.º
+  - date: '2010-09-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime Artigo 17º
+    - Suprime Artigo 18º
+    - Suprime ANEXO
+    - Suprime Notas
 identifiers:
   celex: 31982L0471
   eli: http://data.europa.eu/eli/dir/1982/471/oj
@@ -48,7 +146,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cc1569db-8cb0-474e-9339-eab1ea66dabe.0011
   content_url: http://publications.europa.eu/resource/cellar/f0f0f42a-72d4-40dd-9741-ff5a5d0d733a.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01982L0471-20100901
-  retrieved_at: '2026-10-22T02:46:27Z'
+  retrieved_at: '2026-10-22T14:33:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T22:02:33.113+01:00'
 integrity:
@@ -57,9 +155,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:27Z'
-  notes: Texto consolidado 01982L0471-20100901.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:33:40Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1982-471.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -239,16 +337,19 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:27Z'
+  checked_at: '2026-10-22T14:33:40Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01982L0471-19960612: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01982L0471-20000503: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01982L0471-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01982L0471-20040418: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01982L0471-20041018: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

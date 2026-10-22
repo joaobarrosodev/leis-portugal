@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0002:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0002-20010117",
+ "dre_path": null,
+ "source_lastmod": "2001-01-17",
+ "versions": [
+  {
+   "date": "2001-01-10",
+   "future": false,
+   "celex": "32001L0002",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "776c167d57a63f6b",
+    "c9c7aa26e5169fae",
+    "f98138954174f511",
+    "96b4ff4ec036465e",
+    "0bed719b1cbcc2cc",
+    "f56afaf2120c2bdb"
+   ]
+  }
+ ],
+ "fragments": {
+  "776c167d57a63f6b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2001/2/CE da Comissão, de 4 de Janeiro de 2001, que adapta ao progresso técnico a Directiva 1999/36/CE do Conselho relativa aos equipamentos sob pressão transportáveis (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 005 de 10/01/2001 p. 0004 - 0005*\n\nDirectiva 2001/2/CE da Comissão\n\nde 4 de Janeiro de 2001\n\nque adapta ao progresso técnico a Directiva 1999/36/CE do Conselho relativa aos equipamentos sob pressão transportáveis\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 1999/36/CE do Conselho, de 29 de Abril de 1999, relativa aos equipamentos sob pressão transportáveis(1),\n\nConsiderando o seguinte:\n\n(1) O n.o 1 do artigo 3.o da Directiva 1999/36/CE estipula que os recipientes novos e as cisternas novas deverão respeitar as disposições pertinentes da Directiva 94/55/CE do Conselho, de 21 de Novembro de 1994, relativa à aproximação das legislações dos Estados-Membros respeitantes ao transporte rodoviário de mercadorias perigosas(2), com a última redacção que lhe foi dada pela Directiva 2000/61/CE do Parlamento Europeu e do Conselho(3), bem como da Directiva 96/49/CE do Conselho, de 23 de Julho de 1996, relativa à aproximação das legislações dos Estados-Membros respeitantes ao transporte ferroviário de mercadorias perigosas(4), com a última redacção que lhe foi dada pela Directiva 2000/62/CE do Parlamento Europeu e do Conselho(5).\n\n(2) As disposições do Acordo Europeu relativo ao transporte internacional de mercadorias perigosas por estrada (a seguir designado ADR) e do regulamento relativo ao transporte ferroviário internacional de mercadorias perigosas (a seguir designado RID)(6), com as respectivas alterações, estão anexadas respectivamente à Directiva 94/55/CE e à Directiva 96/49/CE. Em 1 de Julho de 2001 entrará em vigor uma nova versão do ADR e do RID.\n\n(3) O anexo V da Directiva 1996/36/CE fixa os módulos a seguir para a avaliação da conformidade dos recipientes novos e das cisternas novas. Estas disposições já não são conformes com a nova versão do ADR e do RID. Por conseguinte, convém alterar o referido anexo.\n\n(4) As alterações necessárias à adaptação dos anexos da Directiva 1999/36/CE são adoptadas, por força do disposto no seu artigo 14.o, em conformidade com o procedimento previsto no artigo 15.o da mesma directiva.\n\n(5) As disposições da presente directiva estão em conformidade com o parecer do Comité a que se refere o artigo 15.o da Directiva 1999/36/CE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "c9c7aa26e5169fae": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO texto do anexo V da Directiva 1999/36/CE é substítuido pelo texto do anexo da presente directiva."
+  },
+  "f98138954174f511": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 1 de Julho de 2001. Desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-Membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência quando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio regido pela presente directiva."
+  },
+  "96b4ff4ec036465e": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "0bed719b1cbcc2cc": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 4 de Janeiro de 2001.\n\nPela Comissão\n\nLoyola De Palacio\n\nVice-Presidente\n\n(1) JO L 138 de 1.6.1999, p. 20.\n\n(2) JO L 319 de 12.12.1994, p. 7.\n\n(3) JO L 279 de 1.11.2000, p. 40.\n\n(4) JO L 235 de 17.9.1996, p. 25.\n\n(5) JO L 279 de 1.11.2000, p. 44.\n\n(6) Regulamento constante do anexo 1 do apêndice B da Convenção relativa aos transportes internacionais ferroviários (COTIF)."
+  },
+  "f56afaf2120c2bdb": {
+   "fragment_id": "ANEXO — \"ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO — \"ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — \"ANEXO V\n\nMÓDULOS A SEGUIR PARA A AVALIAÇÃO DA CONFORMIDADE\n\nO quadro que se segue indica os módulos de avaliação da conformidade, nos termos da parte I do anexo IV, que deverão ser aplicados aos equipamentos sob pressão transportáveis definidos no ponto 1 do artigo 2.o\n\n>POSIÇÃO NUMA TABELA>\n\nNota 1:\n\nOs equipamentos sob pressão transportáveis devem ser sujeitos a um dos processos de avaliação da conformidade, à escolha do fabricante, previstos para a categoria em que forem classificados. No caso dos recipientes e respectivas válvulas ou outros acessórios utilizados para o transporte, o fabricante pode igualmente decidir utilizar um dos procedimentos previstos para as categorias superiores.\n\nNota 2:\n\nNo âmbito dos processos relativos à garantia da qualidade, o organismo notificado, ao efectuar visitas sem aviso prévio, deve colher uma amostra do equipamento nas instalações de fabrico ou nos armazéns, a fim de efectuar ou mandar efectuar uma verificação da conformidade com os requisitos da presente directiva. Para o efeito, o fabricante deve informar o organismo notificado do programa de produção previsto. O organismo notificado deve efectuar pelo menos duas visitas durante o primeiro ano de fabrico. A frequência das visitas seguintes será determinada pelo organismo notificado com base nos critérios definidos no ponto 4.4 dos módulos aplicáveis da parte I do anexo IV.\""
+  }
+ }
+}

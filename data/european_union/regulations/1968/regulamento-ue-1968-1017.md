@@ -36,6 +36,52 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-03-25'
+version_history:
+  file: regulamento-ue-1968-1017.versoes.json
+  count: 2
+  source_lastmod: '2009-03-25'
+  versions:
+  - date: '1968-07-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-03-25'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o — Disposições de princípio
+    - Suprime Artigo 2o — Proibição de acordos entre empresas, decisões de associações de empresas e práticas concertadas
+    - Suprime Artigo 3o — Excepção em relação aos acordos técnicos
+    - Suprime Artigo 4o — Isenção em relação aos agrupamentos de pequenas e médias empresas
+    - Suprime Artigo 5o — Inaplicabilidade da proibição
+    - Suprime Artigo 6o — Acordos destinados a reduzir as perturbações decorrentes da estrutura do mercado dos transportes
+    - Suprime Artigo 7o — Nulidade dos acordos e decisões
+    - Suprime Artigo 8o — Proibição da exploração abusiva de posições dominantes
+    - Suprime Artigo 9o — Empresas públicas
+    - Suprime Artigo 10o — Processos com base em denúncia ou por iniciativa da Comissão
+    - Suprime Artigo 11o — Resultado dos processos com base em denúncia ou por iniciativa da Comissão
+    - Suprime Artigo 12o — Aplicação do artigo 5o - oposição
+    - Suprime Artigo 13o — Período de validade e revogação das decisões de aplicação do artigo 5o
+    - Suprime Artigo 14o — Decisão de aplicação do artigo 6o
+    - Suprime Artigo 15o — Competência
+    - Suprime Artigo 16o — Ligação com as autoridades dos Estados-membros
+    - Suprime Artigo 17o — Exame, pelo Conselho, de uma questão de princípio respeitante à política comum de transportes,
+      suscitada num caso concreto
+    - Suprime Artigo 18o — Inquéritos por sectores dos transportes
+    - Suprime Artigo 19o — Pedido de informações
+    - Suprime Artigo 20o — Diligências de instrução pelas autoridades dos Estados-membros
+    - Suprime Artigo 21o — Poderes da Comissão em matéria de instrução
+    - Suprime Artigo 22o — Multas
+    - Suprime Artigo 23o — Adstrições
+    - Suprime Artigo 24o — Controlo do Tribunal de Justiça
+    - Suprime Artigo 25o — Unidade de conta
+    - Suprime Artigo 26o — Audição dos interessados e de terceiros
+    - Suprime Artigo 27o — Segredo profissional
+    - Suprime Artigo 28o — Publicação das decisões
+    - Suprime Artigo 29o — Disposições de execução
+    - Suprime Artigo 30o — Entrada em vigor - Acordos, decisões e práticas concertadas existentes
+    - Suprime Artigo 31o — Revisão do regulamento
 identifiers:
   celex: 31968R1017
   eli: http://data.europa.eu/eli/reg/1968/1017/oj
@@ -50,7 +96,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4f9c4a2a-0caa-4179-a44e-4e4f0e41e358.0011
   content_url: http://publications.europa.eu/resource/cellar/50acfcf3-1972-4513-9009-bd9afa9b8b39.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01968R1017-20090325
-  retrieved_at: '2026-10-22T03:01:59Z'
+  retrieved_at: '2026-10-22T14:29:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T19:22:56.390+01:00'
 integrity:
@@ -59,9 +105,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:59Z'
-  notes: Texto consolidado 01968R1017-20090325.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:29:22Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1968-1017.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -161,16 +207,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:59Z'
+  checked_at: '2026-10-22T14:29:22Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01968R1017-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01968R1017-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

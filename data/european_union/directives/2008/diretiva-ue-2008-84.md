@@ -34,6 +34,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-12-01'
+version_history:
+  file: diretiva-ue-2008-84.versoes.json
+  count: 2
+  source_lastmod: '2012-12-01'
+  versions:
+  - date: '2008-09-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-12-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Notas
 identifiers:
   celex: 32008L0084
   eli: http://data.europa.eu/eli/dir/2008/84/oj
@@ -48,7 +67,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e0a5326a-7664-420c-8cf0-b8af8d041ef6.0018
   content_url: http://publications.europa.eu/resource/cellar/9e449418-42d3-4884-9881-a1fbf188ce1e.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0084-20121201
-  retrieved_at: '2026-10-22T02:58:50Z'
+  retrieved_at: '2026-10-22T15:13:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T23:53:45.078+01:00'
 integrity:
@@ -57,9 +76,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:50Z'
-  notes: Texto consolidado 02008L0084-20121201.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:13:16Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2008-84.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -150,16 +169,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:50Z'
+  checked_at: '2026-10-22T15:13:16Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02008L0084-20090306: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008L0084-20101110: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

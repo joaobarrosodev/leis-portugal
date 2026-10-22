@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008L0039:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0039-20110501",
+ "dre_path": null,
+ "source_lastmod": "2011-05-01",
+ "versions": [
+  {
+   "date": "2008-03-07",
+   "future": false,
+   "celex": "32008L0039",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d63696c7515da7f3",
+    "0c128f2036a3500d",
+    "5cc7b6e059f6999c",
+    "121bc7f29193c6b3",
+    "a1c8530f267da476",
+    "44807678de3b727d"
+   ]
+  }
+ ],
+ "fragments": {
+  "d63696c7515da7f3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Março de 2008\n\nque altera a Directiva 2002/72/CE relativa aos materiais e objectos de matéria plástica destinados a entrar em contacto com os géneros alimentícios\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1935/2004 do Parlamento Europeu e do Conselho, de 27 de Outubro de 2004, relativo aos materiais e objectos destinados a entrar em contacto com os alimentos e que revoga as Directivas 80/590/CEE e 89/109/CEE [([^1])](http://publications.europa.eu/resource/cellar/41e7f1d6-53c4-4164-ba10-e582ddc76650.0018.02/DOC_1#ntr1-L_2008063PT.01000601-E0001), nomeadamente o n.º 2 do artigo 5.º,\n\nConsiderando o seguinte:\n\n(1) A Directiva 2002/72/CE da Comissão [([^2])](http://publications.europa.eu/resource/cellar/41e7f1d6-53c4-4164-ba10-e582ddc76650.0018.02/DOC_1#ntr2-L_2008063PT.01000601-E0002) é uma directiva específica na acepção do Regulamento (CE) n.º 1935/2004, que harmoniza as normas aplicáveis à autorização de materiais e objectos de matéria plástica destinados a entrar em contacto com os géneros alimentícios.\n\n(2) A Directiva 2002/72/CE estabelece uma lista de substâncias autorizadas no fabrico desses materiais e objectos, em particular aditivos e monómeros, as restrições à sua utilização, bem como as regras sobre a rotulagem e sobre a informação a dar aos consumidores ou aos operadores das empresas do sector alimentar para uma utilização correcta desses materiais e objectos.\n\n(3) A lista actual de aditivos contida na Directiva 2002/72/CE está incompleta na medida em que não contém todas as substâncias actualmente aceites num ou mais Estados-Membros.\n\n(4) De acordo com o n.º 1 do artigo 4.º da Directiva 2002/72/CE, com a sua redacção actual, a lista de aditivos será considerada incompleta até a Comissão decidir, em conformidade com o artigo 4.º-A, que se tornará uma lista positiva comunitária de aditivos autorizados.\n\n(5) No que diz respeito aos aditivos actualmente permitidos nos Estados-Membros, o prazo para a apresentação dos dados necessários para que a Autoridade Europeia para a Segurança dos Alimentos («Autoridade») possa realizar a avaliação da segurança com vista à sua inclusão na lista comunitária expirou em 31 de Dezembro de 2006. Por conseguinte, pode agora ser definida a data em que a lista comunitária de aditivos se torna uma lista positiva. Tendo em conta o tempo necessário à Autoridade para avaliar todos os pedidos válidos apresentados atempadamente, esta data deverá ser Janeiro de 2010.\n\n(6) Importa também clarificar o papel da lista provisória referida nos n.^os^ 4 e 5 do artigo 4.º-A da Directiva 2002/72/CE, com a sua redacção actual, e a forma como a mesma será actualizada. A lista provisória contém os aditivos para os quais foram apresentados atempadamente os dados necessários em conformidade com os requisitos da Autoridade, mas para os quais ainda não foi tomada uma decisão relativa à sua inclusão na lista positiva.\n\n(7) Esta lista provisória fornece informação ao público sobre os aditivos que se encontram em fase de avaliação com vista à sua possível inclusão na lista comunitária de aditivos. Visto ser impossível saber se as avaliações de todos os aditivos incluídos na lista provisória estarão concluídas até à data em que a lista de aditivos se torna uma lista positiva, deve ser possível continuar a utilizar aqueles aditivos, em conformidade com a legislação nacional, até que esteja concluída a respectiva avaliação e tenha sido tomada uma decisão relativa à sua inclusão na lista positiva de aditivos.\n\n(8) Sempre que um aditivo incluído na lista provisória seja inserido na lista comunitária de aditivos ou sempre que se decida não o incluir na lista comunitária, o aditivo deve ser retirado da lista provisória de aditivos.\n\n(9) Se, durante o exame dos dados relativos a um aditivo incluído na lista provisória, a Autoridade solicitar informações suplementares, esse aditivo deve continuar na lista provisória até ter sido tomada uma decisão, desde que a informação seja apresentada dentro dos prazos especificados pela Autoridade.\n\n(10) Com base em novas informações relacionadas com a avaliação de riscos dos monómeros e aditivos examinadas pela Autoridade [([^3])](http://publications.europa.eu/resource/cellar/41e7f1d6-53c4-4164-ba10-e582ddc76650.0018.02/DOC_1#ntr3-L_2008063PT.01000601-E0003), devem ser incluídos nas respectivas listas comunitárias de substâncias autorizadas certos aditivos admitidos a nível nacional, bem como novos monómeros e aditivos. Para outras substâncias, as restrições e/ou especificações já estabelecidas a nível comunitário devem ser alteradas com base nestas novas informações. É necessário, por conseguinte, alterar em conformidade os anexos II, III, IV A, V e VI da Directiva 2002/72/CE.\n\n(11) A Directiva 2005/79/CE da Comissão [([^4])](http://publications.europa.eu/resource/cellar/41e7f1d6-53c4-4164-ba10-e582ddc76650.0018.02/DOC_1#ntr4-L_2008063PT.01000601-E0004) introduziu na lista de aditivos o aditivo com a referência n.º 30340 com a designação «ácido 12-(acetoxi)esteárico, éster 2,3-bis(acetoxi)propílico» e o número CAS 330198-91-9. O nome e o número CAS introduzido naquela directiva reflectem apenas o componente principal do pedido. No entanto, o parecer emitido pela Autoridade abrange a mistura de substâncias referidas no pedido e não apenas o seu componente principal. A mistura de substâncias está agora registada no registo CAS com o número CAS 736150-63-3 com o nome «acetatos de monoglicéridos de óleo de rícino hidrogenado». Por este motivo, importa agora alterar o nome e o número CAS para actualizar a autorização para todas as substâncias na mistura. Tendo em conta a alteração do nome, é atribuída uma nova referência n.º 55910. Visto que a substância é agora abrangida pela referência n.º 55910, a referência n.º 30340 deve ser suprimida.\n\n(12) Consequentemente, a Directiva 2002/72/CE deve ser actualizada para ter em conta as novas informações relacionadas com a avaliação de riscos das substâncias examinadas pela Autoridade, para definir a data em que a lista de aditivos se torna lista positiva e para clarificar o papel da lista provisória de aditivos.\n\n(13) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "0c128f2036a3500d": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Directiva 2002/72/CE é alterada do seguinte modo:\n\n1. No artigo 4.º, o n.º 1 passa a ter a seguinte redacção: «1. O anexo III contém uma lista comunitária de aditivos que podem ser utilizados no fabrico de materiais e objectos de matéria plástica, bem como as restrições e/ou especificações relativas à sua utilização. Até 31 de Dezembro de 2009, os aditivos que não estiverem incluídos na lista comunitária de aditivos podem continuar a ser utilizados nas condições previstas na legislação nacional. A partir de 1 de Janeiro de 2010, apenas os aditivos incluídos na lista comunitária de aditivos podem ser utilizados no fabrico de materiais e objectos de matéria plástica (lista positiva).».\n\n2. O artigo 4.ºA é alterado da seguinte forma: a) Os n.^os^ 3 e 4 passam a ter a seguinte redacção: «3. A Comissão publicará, o mais tardar, em 11 de Abril de 2008 uma lista provisória de aditivos que se encontram em fase de avaliação pela Autoridade. A mesma será mantida actualizada. 4. Em derrogação do disposto no terceiro parágrafo do n.º 1 do artigo 4.º, os aditivos não incluídos na lista comunitária referida naquele artigo podem continuar a ser utilizados nas condições previstas na legislação nacional após 1 de Janeiro de 2010 enquanto estiverem incluídos na lista provisória.»; b) É aditado o n.º 6 seguinte: «6. Um aditivo será retirado da lista provisória: a) Quando for incluído na lista comunitária de aditivos; ou b) Quando a Comissão tomar uma decisão de não o incluir na lista comunitária de aditivos; ou c) Se, durante o exame dos dados, a Autoridade solicitar informações suplementares e essas informações não forem apresentadas nos prazos especificados pela Autoridade.».\n\na) Os n.^os^ 3 e 4 passam a ter a seguinte redacção: «3. A Comissão publicará, o mais tardar, em 11 de Abril de 2008 uma lista provisória de aditivos que se encontram em fase de avaliação pela Autoridade. A mesma será mantida actualizada. 4. Em derrogação do disposto no terceiro parágrafo do n.º 1 do artigo 4.º, os aditivos não incluídos na lista comunitária referida naquele artigo podem continuar a ser utilizados nas condições previstas na legislação nacional após 1 de Janeiro de 2010 enquanto estiverem incluídos na lista provisória.»;\n\nb) É aditado o n.º 6 seguinte: «6. Um aditivo será retirado da lista provisória: a) Quando for incluído na lista comunitária de aditivos; ou b) Quando a Comissão tomar uma decisão de não o incluir na lista comunitária de aditivos; ou c) Se, durante o exame dos dados, a Autoridade solicitar informações suplementares e essas informações não forem apresentadas nos prazos especificados pela Autoridade.».\n\na) Quando for incluído na lista comunitária de aditivos; ou\n\nb) Quando a Comissão tomar uma decisão de não o incluir na lista comunitária de aditivos; ou\n\nc) Se, durante o exame dos dados, a Autoridade solicitar informações suplementares e essas informações não forem apresentadas nos prazos especificados pela Autoridade.».\n\n3. Os anexos II, III, IV A, V e VI são alterados em conformidade com os anexos I, II, III, IV e V da presente directiva."
+  },
+  "5cc7b6e059f6999c": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros adoptarão e publicarão, o mais tardar em 7 de Março de 2009, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Os Estados-Membros comunicarão imediatamente à Comissão o texto das referidas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nQuando os Estados-Membros adoptarem essas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Os Estados-Membros determinarão as modalidades dessa referência.\n\nOs Estados-Membros aplicarão as referidas disposições de forma a:\n\na) Permitir o comércio e a utilização de materiais e objectos de matéria plástica destinados a entrar em contacto com os géneros alimentícios e que estejam conformes com a Directiva 2002/72/CE, com a redacção que lhe é dada pela presente directiva, a partir de 7 de Março de 2009;\n\nb) Proibir o fabrico e a importação para a Comunidade de materiais e objectos de matéria plástica destinados a entrar em contacto com os géneros alimentícios e que não estejam conformes com a Directiva 2002/72/CE, com a redacção que lhe é dada pela presente directiva, a partir de 7 de Março de 2010.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "121bc7f29193c6b3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "a1c8530f267da476": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 6 de Março de 2008.\n\n***Pela Comissão***\n\n**Androulla VASSILIOU**\n\n***Membro da Comissão***\n\n---"
+  },
+  "44807678de3b727d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/41e7f1d6-53c4-4164-ba10-e582ddc76650.0018.02/DOC_1#ntc1-L_2008063PT.01000601-E0001) [JO L 338 de 13.11.2004, p. 4](http://publications.europa.eu/resource/oj/JOL_2004_338_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/41e7f1d6-53c4-4164-ba10-e582ddc76650.0018.02/DOC_1#ntc2-L_2008063PT.01000601-E0002) [JO L 220 de 15.8.2002, p. 18](http://publications.europa.eu/resource/oj/JOL_2002_220_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2007/19/CE ([JO L 97 de 12.4.2007, p. 50](http://publications.europa.eu/resource/oj/JOL_2007_097_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/41e7f1d6-53c4-4164-ba10-e582ddc76650.0018.02/DOC_1#ntc3-L_2008063PT.01000601-E0003) The EFSA Journal (2007) 555 a 563, 1-32.\n\n> The EFSA Journal (2007) 516 a 518, 1-12.\n\n> The EFSA Journal (2007) 452 a 454, 1-10.\n\n> The EFSA Journal (2006) 418 a 427, 1-25.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/41e7f1d6-53c4-4164-ba10-e582ddc76650.0018.02/DOC_1#ntc4-L_2008063PT.01000601-E0004) [JO L 302 de 19.11.2005, p. 35](http://publications.europa.eu/resource/oj/JOL_2005_302_R_TOC)."
+  }
+ }
+}

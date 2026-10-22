@@ -35,6 +35,71 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-06-26'
+version_history:
+  file: diretiva-ue-2004-35.versoes.json
+  count: 4
+  source_lastmod: '2019-06-26'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-05-01'
+    amending: eu:celex:32006L0021:por
+    amending_title: DIRECTIVA 2006/21/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Março de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 18.º — Relatório e revisão
+    - Altera Artigo 21.º — Destinatários
+    - Adita ANEXO I
+    - Adita CRITÉRIOS REFERIDOS NA ALÍNEA A) DO PONTO 1 DO ARTIGO 2.º
+    - Adita ANEXO II
+    - Adita REPARAÇÃO DOS DANOS AMBIENTAIS
+    - Adita 1. Reparação de danos causados à água, às espécies e habitats naturais protegidos
+    - Adita 1.1. Objectivos da reparação
+    - Adita 1.2. Identificação das medidas de reparação
+    - Adita 1.3. Escolha das opções de reparação
+    - Adita 2. Reparação de danos causados ao solo
+    - Adita ANEXO III
+    - Adita ACTIVIDADES REFERIDAS NO N.º 1 DO ARTIGO 3.º
+    - Adita ANEXO IV
+    - Adita CONVENÇÕES INTERNACIONAIS REFERIDAS NO N.º 2 DO ARTIGO 4.º
+    - Adita ANEXO V
+    - Adita INSTRUMENTOS INTERNACIONAIS REFERIDAS NO N.º 4 DO ARTIGO 4.º
+    - Adita ANEXO VI
+    - Adita DADOS E INFORMAÇÕES REFERIDOS NO N.º 1 DO ARTIGO 18.º
+    - Adita Declaração da Comissão sobre o n.º 2 do artigo 14.º — Directiva relativa à responsabilidade ambiental
+    - Adita Notas
+    - Suprime ANEXO I — CRITÉRIOS REFERIDOS NA ALÍNEA A) DO PONTO 1 DO ARTIGO 2.o
+    - Suprime ANEXO II — REPARAÇÃO DOS DANOS AMBIENTAIS
+    - Suprime ANEXO III — ACTIVIDADES REFERIDAS NO N.o 1 DO ARTIGO 3.o
+    - Suprime ANEXO IV — CONVENÇÕES INTERNACIONAIS REFERIDAS NO N.o 2 DO ARTIGO 4.o
+    - Suprime ANEXO V — INSTRUMENTOS INTERNACIONAIS REFERIDAS NO N.o 4 DO ARTIGO 4.o
+    - Suprime ANEXO VI — DADOS E INFORMAÇÕES REFERIDOS NO N.o 1 DO ARTIGO 18.o
+  - date: '2009-06-25'
+    amending: eu:celex:32009L0031:por
+    amending_title: DIRECTIVA 2009/31/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 23 de
+      Abril de 2009
+    changes:
+    - Altera preambulo
+    - Altera ACTIVIDADES REFERIDAS NO N.º 1 DO ARTIGO 3.º
+    - Altera DADOS E INFORMAÇÕES REFERIDOS NO N.º 1 DO ARTIGO 18.º
+    - Altera Notas
+    - Suprime Declaração da Comissão sobre o n.º 2 do artigo 14.º — Directiva relativa à responsabilidade ambiental
+  - date: '2019-06-26'
+    amending: eu:celex:32013L0030:por
+    amending_title: DIRETIVA 2013/30/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 12 de junho
+      de 2013; REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 14.º — Garantia financeira
+    - Altera ACTIVIDADES REFERIDAS NO N.º 1 DO ARTIGO 3.º
+    - Altera Notas
+    - Adita Artigo 18.º — Informações sobre a aplicação e base factual
+    - Adita DADOS E INFORMAÇÕES A QUE SE REFERE O ARTIGO 18.º, N.º 1
+    - Suprime Artigo 18.º — Relatório e revisão
+    - Suprime DADOS E INFORMAÇÕES REFERIDOS NO N.º 1 DO ARTIGO 18.º
 identifiers:
   celex: 32004L0035
   eli: http://data.europa.eu/eli/dir/2004/35/oj
@@ -49,7 +114,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ab920b5e-50a6-49c9-8ffc-880a6bbfc20f.0010
   content_url: http://publications.europa.eu/resource/cellar/73014a75-b29b-11e9-9d01-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0035-20190626
-  retrieved_at: '2026-10-22T02:42:39Z'
+  retrieved_at: '2026-10-22T14:56:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-13T07:29:47.602+01:00'
 integrity:
@@ -58,9 +123,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:39Z'
-  notes: Texto consolidado 02004L0035-20190626.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:53Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2004-35.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -233,32 +298,19 @@ relationships:
   source: null
 article_structure:
   article_count: 21
-  section_count: 17
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 18
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:39Z'
+  checked_at: '2026-10-22T14:56:53Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2004/35/CE do Parlamento Europeu e do Conselho, de 21 de Abril de 2004
-
-> 02004L0035 — PT — 26.06.2019 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006L0021) — [DIRECTIVA 2006/21/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Março de 2006](http://publications.europa.eu/resource/celex/32006L0021) — L 102 — 15 — 11.4.2006
-- [►M2](http://publications.europa.eu/resource/celex/32009L0031) — [DIRECTIVA 2009/31/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 23 de Abril de 2009](http://publications.europa.eu/resource/celex/32009L0031) — L 140 — 114 — 5.6.2009
-- [►M3](http://publications.europa.eu/resource/celex/32013L0030) — [DIRETIVA 2013/30/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 12 de junho de 2013](http://publications.europa.eu/resource/celex/32013L0030) — L 178 — 66 — 28.6.2013
-- [►M4](http://publications.europa.eu/resource/celex/32019R1010) — [REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1010) — L 170 — 115 — 25.6.2019
-
-## DIRECTIVA 2004/35/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 21 de Abril de 2004
 

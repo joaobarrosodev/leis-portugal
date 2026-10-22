@@ -34,6 +34,102 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: regulamento-ue-2006-1198.versoes.json
+  count: 3
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2006-08-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: eu:celex:32012R0387:por
+    amending_title: REGULAMENTO (UE) N. o 387/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de abril de 2012; ►A1
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Complementaridade, coerência e cumprimento
+    - Altera Artigo 10.º — Gestão partilhada
+    - Altera Artigo 14.º — Repartição financeira
+    - Altera Artigo 19.º — Princípios orientadores para o programa operacional
+    - Altera Artigo 20.º — Teor do programa operacional
+    - Altera Artigo 21.º — Âmbito de aplicação
+    - Altera Artigo 25.º — Investimentos a bordo dos navios de pesca e selectividade
+    - Altera Artigo 26.º — Pequena pesca costeira
+    - Altera Artigo 27.º — Compensações socioeconómicas para efeitos de gestão da frota de pesca comunitária
+    - Altera Artigo 28.º — Âmbito da intervenção na produção aquícola
+    - Altera Artigo 29.º — Medidas de apoio aos investimentos produtivos na aquicultura
+    - Altera Artigo 30.º — Medidas aquiambientais
+    - Altera Artigo 32.º — Medidas de saúde animal
+    - Altera Artigo 35.º — Medidas elegíveis nos domínios da transformação e da comercialização
+    - Altera Artigo 37.º — Acções colectivas
+    - Altera Artigo 38.º — Medidas destinadas a proteger e a desenvolver a fauna e a flora aquáticas
+    - Altera Artigo 40.º — Desenvolvimento de novos mercados e campanhas promocionais
+    - Altera Artigo 43.º — Âmbito de intervenção
+    - Altera Artigo 47.º — Disposições gerais
+    - Altera Artigo 53.º — Participação do FEP
+    - Altera Artigo 55.º — Elegibilidade das despesas
+    - Altera Artigo 56.º — Durabilidade das operações
+    - Altera Artigo 60.º — Funções da autoridade de certificação
+    - Altera Artigo 61.º — Funções da autoridade de auditoria
+    - Altera Artigo 67.º — Relatórios anuais e finais de execução
+    - Altera Artigo 76.º — Regras para o cálculo dos pagamentos intermédios
+    - Altera Artigo 77.º — Regras para o cálculo dos pagamentos do saldo
+    - Altera Artigo 86.º — Condições de pagamento do saldo
+    - Altera Artigo 89.º — Suspensão dos pagamentos
+    - Altera Artigo 99.º — Obrigações dos Estados-Membros
+    - Altera Artigo 103.º — Disposições transitórias
+    - Altera Artigo 106.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 77.º-A — Limite da contribuição da União sob a forma de pagamentos intermédios e de pagamentos do saldo
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Intensidade da ajuda
+  - date: '2014-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime OBJECTIVOS E REGRAS GERAIS DA INTERVENÇÃO
+    - Suprime CAPÍTULO I
+    - Suprime Âmbito de aplicação e definições
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Âmbito geográfico
+    - Suprime Artigo 3.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime Objectivos e missões
+    - Suprime Artigo 4.º — Objectivos
+    - Suprime Artigo 5.º — Missões
+    - Suprime CAPÍTULO III
+    - Suprime Princípios da intervenção
+    - Suprime Artigo 6.º — Complementaridade, coerência e cumprimento
+    - Suprime Artigo 7.º — Ajudas estatais
+    - Suprime Artigo 8.º — Parceria
+    - Suprime Artigo 9.º — Proporcionalidade
+    - Suprime Artigo 10.º — Gestão partilhada
+    - Suprime Artigo 11.º — Igualdade entre homens e mulheres
+    - Suprime CAPÍTULO IV
+    - Suprime Quadro financeiro
+    - Suprime Artigo 12.º — Recursos e concentração
+    - Suprime Artigo 13.º — Limites máximos relativos às transferências
+    - Suprime Artigo 14.º — Repartição financeira
+    - Suprime TÍTULO II
+    - Suprime ABORDAGEM ESTRATÉGICA
+    - Suprime Plano estratégico nacional
+    - Suprime Artigo 15.º — Plano estratégico nacional
+    - Suprime Acompanhamento dos planos estratégicos
+    - Suprime Artigo 16.º — Debate sobre os planos estratégicos
+    - Suprime TÍTULO III
+    - Suprime PROGRAMAÇÃO
+    - Suprime Disposições gerais relativas ao FEP
+    - Suprime Artigo 17.º — Preparação e aprovação do programa operacional
+    - Suprime Artigo 18.º — Vigência e revisão do programa operacional
+    - Suprime Artigo 19.º — Princípios orientadores para o programa operacional
+    - Suprime Artigo 20.º — Teor do programa operacional
+    - Suprime TÍTULO IV
+    - Suprime EIXOS PRIORITÁRIOS
 identifiers:
   celex: 32006R1198
   eli: http://data.europa.eu/eli/reg/2006/1198/oj
@@ -48,7 +144,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3aa4fce8-0547-47d0-add3-4ee7b1e60608.0017
   content_url: http://publications.europa.eu/resource/cellar/afad7cf7-fc81-11e3-831f-01aa75ed71a1.0014.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1198-20140101
-  retrieved_at: '2026-10-22T02:36:36Z'
+  retrieved_at: '2026-10-22T15:05:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-19T22:52:33.453+01:00'
 integrity:
@@ -57,9 +153,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:36Z'
-  notes: Texto consolidado 02006R1198-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:05:06Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2006-1198.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -333,16 +429,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:36Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:05:06Z'
+  warnings: []
   errors: []
 ---
 

@@ -1,0 +1,196 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32007R1516:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R1516-20080109",
+ "dre_path": null,
+ "source_lastmod": "2008-01-09",
+ "versions": [
+  {
+   "date": "2007-12-20",
+   "future": false,
+   "celex": "32007R1516",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4c414401ca8c66bc",
+    "e9f5a56ff405f7a8",
+    "5bbd733a826f0aed",
+    "1433e76cf1833709",
+    "86a0e95c58a697b1",
+    "b69d9682631bed3e",
+    "2e4b7edb67e2c209",
+    "453580c7f1d0bae0",
+    "705f342a29a48fbb",
+    "499f2dd6b955d0a9",
+    "8f37c7a55c094f81",
+    "8316b7ae19305cbe",
+    "1a899a2a2b39d654"
+   ]
+  },
+  {
+   "date": "2008-01-09",
+   "future": false,
+   "celex": "02007R1516-20080109",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objecto e âmbito de aplicação",
+    "Altera Artigo 11.º — Entrada em vigor",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "abb785809672cd8a",
+    "074bb54c1781a614",
+    "5bbd733a826f0aed",
+    "1433e76cf1833709",
+    "86a0e95c58a697b1",
+    "b69d9682631bed3e",
+    "2e4b7edb67e2c209",
+    "453580c7f1d0bae0",
+    "705f342a29a48fbb",
+    "499f2dd6b955d0a9",
+    "8f37c7a55c094f81",
+    "294a168fc56bd6c4",
+    "4b72a9acad8ffd75"
+   ]
+  }
+ ],
+ "fragments": {
+  "4c414401ca8c66bc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Dezembro de 2007\n\nque estabelece, nos termos do Regulamento (CE) n.º 842/2006 do Parlamento Europeu e do Conselho, disposições normalizadas para a detecção de fugas em equipamentos fixos de refrigeração, ar condicionado e bombas de calor que contenham determinados gases fluorados com efeito de estufa\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 842/2006 do Parlamento Europeu e do Conselho, de 17 de Maio de 2006, relativo a determinados gases fluorados com efeito de estufa [([^1])](http://publications.europa.eu/resource/cellar/909debf8-702d-45dc-9c52-9f5a5dcc1886.0018.02/DOC_1#ntr1-L_2007335PT.01001001-E0001), nomeadamente o n.º 7 do artigo 3.º,\n\nConsiderando o seguinte:\n\n(1) Nos termos do Regulamento (CE) n.º 842/2006, os registos de equipamentos de refrigeração, ar condicionado e bombas de calor devem conter determinadas informações. Para garantir a boa execução do Regulamento (CE) n.º 842/2006, é conveniente fornecer mais informações nos registos dos equipamentos.\n\n(2) Os registos dos equipamentos devem incluir informações sobre a carga de gases fluorados com efeito de estufa. Quando se desconheça a carga de gases fluorados com efeito de estufa, o operador do equipamento em causa deve assegurar que a carga seja determinada por pessoal acreditado, para facilitar a detecção de fugas.\n\n(3) Antes de proceder à detecção de fugas, o pessoal acreditado deve analisar as informações que constem dos registos do equipamento, de modo a determinar ocorrências anteriores, e consultar relatórios precedentes.\n\n(4) Para assegurar uma boa detecção de fugas, os controlos devem incidir nas partes do equipamento com maior probabilidade de as registarem.\n\n(5) As detecções devem ser efectuadas através de métodos de medição directos ou indirectos. Os métodos de medição directos identificam fugas através da utilização de dispositivos de detecção que determinam a existência de fugas da carga de gases fluorados com efeito de estufa. Os métodos de medição indirectos baseiam-se na identificação do desempenho anormal do sistema e na análise de parâmetros relevantes.\n\n(6) Os métodos de medição indirectos devem aplicar-se nos casos em que a fuga ocorra muito lentamente e o equipamento esteja colocado num ambiente bem ventilado que dificulte a detecção de gases fluorados com efeito de estufa que se escapem do sistema para o ar. São necessários métodos de medição directos para localizar a fuga com precisão. A decisão quanto ao método de medição a utilizar deve ser tomada por pessoal acreditado, com a formação e experiência devidas para determinar, caso a caso, qual o método de medição mais adequado.\n\n(7) Sempre que haja suspeitas de fuga, estas devem ser verificadas para poderem ser identificadas e reparadas.\n\n(8) Para garantir a segurança do sistema reparado, o controlo pós-reparação previsto no Regulamento (CE) n.º 842/2006 deve incidir nas partes do sistema onde se detectou a fuga e nas partes contíguas.\n\n(9) A instalação defeituosa de novos sistemas constitui importante risco de fuga. Consequentemente, devem controlar-se as fugas nos sistemas recentemente instalados imediatamente após a sua entrada em funcionamento.\n\n(10) As medidas previstas no presente regulamento estão conformes com o parecer do Comité das Comunicações criado pelo n.º 1 do artigo 18.º do Regulamento (CE) n.º 2037/2000 do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/909debf8-702d-45dc-9c52-9f5a5dcc1886.0018.02/DOC_1#ntr2-L_2007335PT.01001001-E0002),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "e9f5a56ff405f7a8": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\nO presente regulamento estabelece, nos termos do Regulamento (CE) n.º 842/2006, as disposições normalizadas para a detecção de fugas em equipamentos fixos de refrigeração, ar condicionado e bombas de calor, activos e temporariamente fora de serviço, que contenham determinados gases fluorados com efeito de estufa.\n\nO presente regulamento não se aplica aos equipamentos com sistemas hermeticamente fechados que estejam rotulados como tal e contenham menos de 6 kg de gases fluorados com efeito de estufa."
+  },
+  "5bbd733a826f0aed": {
+   "fragment_id": "Artigo 2.º — Registos dos equipamentos",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Registos dos equipamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Registos dos equipamentos\n\n1. O operador deve indicar o seu nome, endereço postal e número de telefone nos registos mencionados no n.º 6 do artigo 3.º do Regulamento (CE) n.º 842/2006, seguidamente designados por «registos dos equipamentos».\n\n2. A carga de gás fluorado com efeito de estufa para os equipamentos de refrigeração, ar condicionado e bombas de calor deve ser indicada nos registos dos equipamentos.\n\n3. Quando a carga de gás fluorado com efeito de estufa para equipamentos de refrigeração, ar condicionado e bombas de calor não constar nas especificações técnicas do fabricante, o operador deve assegurar a sua determinação por pessoal acreditado.\n\n4. Quando a causa da fuga seja identificada, esta informação deve constar dos registos dos equipamentos."
+  },
+  "1433e76cf1833709": {
+   "fragment_id": "Artigo 3.º — Controlo dos registos dos equipamentos",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Controlo dos registos dos equipamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Controlo dos registos dos equipamentos\n\n1. Antes de proceder à detecção de fugas, o pessoal acreditado deve controlar os registos dos equipamentos.\n\n2. Deve dar-se especial atenção às informações pertinentes sobre questões reincidentes e áreas problemáticas."
+  },
+  "86a0e95c58a697b1": {
+   "fragment_id": "Artigo 4.º — Controlos sistemáticos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Controlos sistemáticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Controlos sistemáticos\n\nDevem ser controladas sistematicamente as seguintes partes dos equipamentos de refrigeração, ar condicionado e bombas de calor:\n\n1. Juntas;\n\n2. Válvulas, incluindo hastes;\n\n3. Vedantes, incluindo em secadores e filtros amovíveis;\n\n4. Partes do sistema sujeitas a vibração;\n\n5. Ligações a dispositivos de segurança ou funcionamento."
+  },
+  "b69d9682631bed3e": {
+   "fragment_id": "Artigo 5.º — Selecção do método de medição",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Selecção do método de medição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Selecção do método de medição\n\n1. Ao proceder à detecção de fugas relativamente a equipamentos de refrigeração, ar condicionado ou bombas de calor, cabe ao pessoal acreditado aplicar um método de medição directo, nos termos do previsto no artigo 6.º ou um método de medição indirecto, nos termos do previsto no artigo 7.º\n\n2. Podem aplicar-se sempre métodos de medição directa.\n\n3. Os métodos de medição indirecta só podem ser aplicados quando os parâmetros dos equipamentos a analisar, referidos no n.º 1 do artigo 7.º, contenham informações seguras sobre a carga de gases fluorados com efeito de estufa indicada nos registos dos equipamentos e a probabilidade de fuga."
+  },
+  "2e4b7edb67e2c209": {
+   "fragment_id": "Artigo 6.º — Métodos de medição directos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Métodos de medição directos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Métodos de medição directos\n\n1. Para detectar fugas, o pessoal acreditado deve usar um ou mais dos seguintes métodos de medição directos:\n\na) Verificação dos circuitos e componentes que apresentam risco de fuga, com dispositivos de detecção de gases adaptados ao refrigerante do sistema;\n\nb) Aplicação de fluido de detecção de ultravioletas (UV) ou de um corante adequado no circuito;\n\nc) Soluções exclusivas de espuma/água com sabão.\n\n2. Os dispositivos de detecção de gases mencionados no n.º 1, alínea a), devem ser verificados de 12 em 12 meses, de modo a assegurar o respectivo funcionamento. A sensibilidade mínima dos dispositivos portáteis de detecção de gases deve ser de 5 gramas por ano.\n\n3. A aplicação de fluidos de detecção UV ou corantes adequados no circuito de refrigeração está dependente da aprovação do fabricante dos equipamentos, indicando que tais métodos são tecnicamente possíveis. O método será aplicado apenas por pessoal acreditado para o exercício de actividades que impliquem a violação de circuitos de refrigeração que contêm gases fluorados com efeito de estufa.\n\n4. Quando os métodos especificados no n.º 1 do presente artigo não identifiquem uma fuga e as partes referidas no artigo 4.º não revelem nenhum sinal de fuga, mas o pessoal acreditado entender que existe uma fuga, este deve proceder à inspecção de outras partes dos equipamentos.\n\n5. Antes de verificar a pressão com azoto isento de oxigénio ou outro gás adequado para verificar a pressão na detecção de fugas, o pessoal acreditado para o efeito deve proceder à recuperação dos gases fluorados com efeito de estufa de todo o sistema."
+  },
+  "453580c7f1d0bae0": {
+   "fragment_id": "Artigo 7.º — Métodos de medição indirectos",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Métodos de medição indirectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Métodos de medição indirectos\n\n1. Para identificar fugas, o pessoal acreditado procede a controlos visuais e manuais dos equipamentos e analisa um ou mais dos parâmetros seguintes:\n\na) Pressão;\n\nb) Temperatura;\n\nc) Corrente do compressor;\n\nd) Níveis de líquido;\n\ne) Volume de recarga.\n\n2. À menor suspeita de fuga de gás fluorado com efeito de estufa deve proceder-se à respectiva verificação usando um método directo, nos termos do especificado no artigo 6.º\n\n3. Constitui suspeita de fuga uma ou mais das situações seguintes:\n\na) Indicação de fuga pelo sistema fixo de detecção de fugas;\n\nb) O equipamento produz ruídos inabituais, vibração, formação de gelo ou capacidade de refrigeração insuficiente;\n\nc) Indicações de corrosão, fugas de óleo e danos nos componentes ou material, em pontos de fuga possíveis;\n\nd) Indicações de fuga em visores ou indicadores de nível ou outros dispositivos visuais;\n\ne) Indicações de danos em interruptores de segurança ou pressão, contadores e ligações de sensores;\n\nf) Desvios das condições operacionais normais indicadas pelos parâmetros analisados, incluindo pelas leituras de sistemas electrónicos em tempo real;\n\ng) Outros indícios de perda de carga de refrigeração."
+  },
+  "705f342a29a48fbb": {
+   "fragment_id": "Artigo 8.º — Reparação de fugas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Reparação de fugas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reparação de fugas\n\n1. O operador deve assegurar que as reparações sejam efectuadas por pessoal acreditado para o desempenho dessas actividades específicas.\n\nAntes de proceder à reparação, e sempre que necessário, deve proceder-se a bombagem ou a recuperação.\n\n2. Quando necessário, o operador deve assegurar a realização de um ensaio de estanqueidade com azoto isento de oxigénio ou outro gás adequado para a verificação da pressão e secante, seguido da evacuação, recarga e detecção de fugas.\n\nAntes de verificar a pressão com azoto isento de oxigénio ou outro gás adequado para verificar a pressão, quando necessário, deve proceder-se à recuperação dos gases fluorados com efeito de estufa de toda a aplicação.\n\n3. Na medida do possível, deve identificar-se a causa da fuga, para evitar repetições."
+  },
+  "499f2dd6b955d0a9": {
+   "fragment_id": "Artigo 9.º — Controlo pós-reparação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Controlo pós-reparação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Controlo pós-reparação\n\nAo efectuar o controlo pós-reparação mencionado no n.º 2, segundo parágrafo, do artigo 3.º do Regulamento (CE) n.º 842/2006, o pessoal acreditado deve concentrar-se nas áreas onde foram detectadas e reparadas fugas, bem como nas áreas contíguas, quando tenha sido exercida pressão durante a reparação."
+  },
+  "8f37c7a55c094f81": {
+   "fragment_id": "Artigo 10.º — Requisitos dos equipamentos recentemente instalados",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Requisitos dos equipamentos recentemente instalados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Requisitos dos equipamentos recentemente instalados\n\nDevem controlar-se as fugas nos equipamentos recentemente instalados imediatamente após a respectiva entrada em funcionamento."
+  },
+  "8316b7ae19305cbe": {
+   "fragment_id": "Artigo 11.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 19 de Dezembro de 2007.\n\n***Pela Comissão***\n\n**Stavros DIMAS**\n\n***Membro da Comissão***\n\n---"
+  },
+  "1a899a2a2b39d654": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/909debf8-702d-45dc-9c52-9f5a5dcc1886.0018.02/DOC_1#ntc1-L_2007335PT.01001001-E0001) [JO L 161 de 14.6.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_161_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/909debf8-702d-45dc-9c52-9f5a5dcc1886.0018.02/DOC_1#ntc2-L_2007335PT.01001001-E0002) [JO L 244 de 29.9.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_244_R_TOC). Regulamento com a última redacção que lhe foi dada pela Decisão 2007/540/CE da Comissão ([JO L 198 de 31.7.2007, p. 35](http://publications.europa.eu/resource/oj/JOL_2007_198_R_TOC))."
+  },
+  "abb785809672cd8a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Dezembro de 2007\n\nque estabelece, nos termos do Regulamento (CE) n.º 842/2006 do Parlamento Europeu e do Conselho, disposições normalizadas para a detecção de fugas em equipamentos fixos de refrigeração, ar condicionado e bombas de calor que contenham determinados gases fluorados com efeito de estufa\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 842/2006 do Parlamento Europeu e do Conselho, de 17 de Maio de 2006, relativo a determinados gases fluorados com efeito de estufa ([^1^](http://publications.europa.eu/resource/cellar/9d946133-0eb1-4095-a065-9197ebd230e4.0001.03/DOC_1#E0001)), nomeadamente o n.º 7 do artigo 3.º,\n\n(1) Nos termos do Regulamento (CE) n.º 842/2006, os registos de equipamentos de refrigeração, ar condicionado e bombas de calor devem conter determinadas informações. Para garantir a boa execução do Regulamento (CE) n.º 842/2006, é conveniente fornecer mais informações nos registos dos equipamentos.\n\n(2) Os registos dos equipamentos devem incluir informações sobre a carga de gases fluorados com efeito de estufa. Quando se desconheça a carga de gases fluorados com efeito de estufa, o operador do equipamento em causa deve assegurar que a carga seja determinada por pessoal acreditado, para facilitar a detecção de fugas.\n\n(3) Antes de proceder à detecção de fugas, o pessoal acreditado deve analisar as informações que constem dos registos do equipamento, de modo a determinar ocorrências anteriores, e consultar relatórios precedentes.\n\n(4) Para assegurar uma boa detecção de fugas, os controlos devem incidir nas partes do equipamento com maior probabilidade de as registarem.\n\n(5) As detecções devem ser efectuadas através de métodos de medição directos ou indirectos. Os métodos de medição directos identificam fugas através da utilização de dispositivos de detecção que determinam a existência de fugas da carga de gases fluorados com efeito de estufa. Os métodos de medição indirectos baseiam-se na identificação do desempenho anormal do sistema e na análise de parâmetros relevantes.\n\n(6) Os métodos de medição indirectos devem aplicar-se nos casos em que a fuga ocorra muito lentamente e o equipamento esteja colocado num ambiente bem ventilado que dificulte a detecção de gases fluorados com efeito de estufa que se escapem do sistema para o ar. São necessários métodos de medição directos para localizar a fuga com precisão. A decisão quanto ao método de medição a utilizar deve ser tomada por pessoal acreditado, com a formação e experiência devidas para determinar, caso a caso, qual o método de medição mais adequado.\n\n(7) Sempre que haja suspeitas de fuga, estas devem ser verificadas para poderem ser identificadas e reparadas.\n\n(8) Para garantir a segurança do sistema reparado, o controlo pós-reparação previsto no Regulamento (CE) n.º 842/2006 deve incidir nas partes do sistema onde se detectou a fuga e nas partes contíguas.\n\n(9) A instalação defeituosa de novos sistemas constitui importante risco de fuga. Consequentemente, devem controlar-se as fugas nos sistemas recentemente instalados imediatamente após a sua entrada em funcionamento.\n\n(10) As medidas previstas no presente regulamento estão conformes com o parecer do Comité das Comunicações criado pelo n.º 1 do artigo 18.º do Regulamento (CE) n.º 2037/2000 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/9d946133-0eb1-4095-a065-9197ebd230e4.0001.03/DOC_1#E0002)),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "074bb54c1781a614": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\nO presente regulamento estabelece, nos termos do Regulamento (CE) n.º 842/2006, as disposições normalizadas para a deteção de fugas em equipamentos fixos de refrigeração, ar condicionado e bombas de calor, ativos e temporariamente fora de serviço, que contenham 3 kg ou mais de gases fluorados com efeito de estufa.\n\nO presente regulamento não se aplica aos equipamentos com sistemas hermeticamente fechados que estejam rotulados como tal e contenham menos de 6 kg de gases fluorados com efeito de estufa."
+  },
+  "294a168fc56bd6c4": {
+   "fragment_id": "Artigo 11.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "4b72a9acad8ffd75": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9d946133-0eb1-4095-a065-9197ebd230e4.0001.03/DOC_1#src.E0001)) JO L 161 de 14.6.2006, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9d946133-0eb1-4095-a065-9197ebd230e4.0001.03/DOC_1#src.E0002)) JO L 244 de 29.9.2000, p. 1. Regulamento com a última redacção que lhe foi dada pela Decisão 2007/540/CE da Comissão (JO L 198 de 31.7.2007, p. 35)."
+  }
+ }
+}

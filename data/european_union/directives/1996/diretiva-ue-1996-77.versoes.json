@@ -1,0 +1,109 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996L0077:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0077-20081010",
+ "dre_path": null,
+ "source_lastmod": "2008-10-10",
+ "versions": [
+  {
+   "date": "1996-12-30",
+   "future": false,
+   "celex": "31996L0077",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8705922061231e1a",
+    "8a14ea38425b8c13",
+    "32a7bb5fa363a013",
+    "1286e33f69686ee2",
+    "bdf913f3c7407289",
+    "55981e806728a105",
+    "8cb2d838f9b75997"
+   ]
+  },
+  {
+   "date": "2008-10-10",
+   "future": false,
+   "celex": "01996L0077-20081010",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime ANEXO — >POSIÇÃO NUMA TABELA>"
+   ],
+   "fragments": [
+    "4f9e7a6f6073a339"
+   ]
+  }
+ ],
+ "fragments": {
+  "8705922061231e1a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 96/77/CE da Comissão de 2 de Dezembro de 1996 que estabelece os critérios de pureza específicos dos aditivos alimentares com excepção dos corantes e dos edulcorantes (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 339 de 30/12/1996 p. 0001 - 0069*\n\nDIRECTIVA 96/77/CE DA COMISSÃO de 2 de Dezembro de 1996 que estabelece os critérios de pureza específicos dos aditivos alimentares com excepção dos corantes e dos edulcorantes (Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 89/107/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-membros respeitantes aos aditivos que podem ser utilizados nos géneros destinados à alimentação humana (1), com a redacção que lhe foi dada pela Directiva 94/34/CE do Parlamento Europeu e do Conselho (2), e, nomeadamente, o nº 3, alínea a), do seu artigo 3º,\n\nApós consulta do Comité científico da alimentação humana,\n\nConsiderando que é necessário estabelecer critérios de pureza para todos os aditivos que não sejam os corantes e edulcorantes previstos na Directiva 95/2/CE do Parlamento Europeu e do Conselho, de 20 de Fevereiro de 1995, relativa aos aditivos alimentares com excepção dos corantes e dos edulcorantes (3);\n\nConsiderando que é necessário substituir os critérios de pureza estabelecidos na Directiva 65/66/CEE do Conselho, de 26 de Janeiro de 1995, que estabelece critérios de pureza específicos para os conservantes que podem ser utilizados nos géneros destinados à alimentação humana (4), com a última redacção que lhe foi dada pela Directiva 86/604/CEE (5);\n\nConsiderando que é necessário substituir os critérios de pureza estabelecidos na Directiva 78/664/CEE do Conselho, de 25 de Julho de 1978, que estabelece critérios de pureza específicos para as substâncias antioxidantes que podem ser utilizadas nos géneros destinados à alimentação humana (6), alterada pela Directiva 82/712/CEE (7);\n\nConsiderando que as Directivas 65/66/CEE e 78/664/CEE deverão ser consequentemente revogadas;\n\nConsiderando que é necessário ter em conta as especificações e as técnicas de análise dos aditivos do Codex Alimentarius estabelecidas pelo Comité misto FAO/OMS de peritos no domínio dos aditivos alimentares (JECFA);\n\nConsiderando que os aditivos alimentares preparados por recurso a outros métodos de produção ou a matérias-primas substancialmente diferentes dos abrangidos pela avaliação do Comité científico da alimentação humana e diferentes dos referidos na presente directiva devem ser objecto de uma avaliação completa por parte deste comité, com especial relevo para os critérios de pureza;\n\nConsiderando que as medidas previstas na presente directiva são conformes com o parecer do Comité permanente dos géneros alimentícios,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "8a14ea38425b8c13": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nOs critérios de pureza mencionados no nº 3, alínea a), do artigo 3º da Directiva 89/107/CEE, aplicáveis aos aditivos alimentares à excepção dos corantes e dos edulcorantes mencionados na Directiva 95/2/CE, figuram em anexo."
+  },
+  "32a7bb5fa363a013": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nAs Directivas 65/66/CEE e 78/664/CEE são revogadas."
+  },
+  "1286e33f69686ee2": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Julho de 1997. Desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os produtos colocados no mercado ou rotulados antes de 1 de Julho de 1997 que não se conformem com a presente directiva podem ser comercializados até ao esgotamento das respectivas existências."
+  },
+  "bdf913f3c7407289": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "55981e806728a105": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 2 de Dezembro de 1996.\n\nPela Comissão\n\nMartin BANGEMANN\n\nMembro da Comissão\n\n(1) JO nº L 40 de 11. 2. 1989, p. 27.\n\n(2) JO nº L 237 de 10. 9. 1994, p. 1.\n\n(3) JO nº L 61 de 18. 3. 1995, p. 1.\n\n(4) JO nº 22 de 9. 2. 1965, p. 373.\n\n(5) JO nº L 352 de 13. 12. 1986, p. 45.\n\n(6) JO nº L 223 de 14. 8. 1978, p. 30.\n\n(7) JO nº L 297 de 23. 10. 1982, p. 31."
+  },
+  "8cb2d838f9b75997": {
+   "fragment_id": "ANEXO — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — >POSIÇÃO NUMA TABELA>"
+  },
+  "4f9e7a6f6073a339": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1996L0077 — PT — 10.10.2008 — 008.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31996L0077) [DIRECTIVA 96/77/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/31996L0077) [de 2 de Dezembro de 1996](http://publications.europa.eu/resource/celex/31996L0077) [que estabelece os critérios de pureza específicos dos aditivos alimentares com excepção dos corantes e dos edulcorantes](http://publications.europa.eu/resource/celex/31996L0077) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/31996L0077) (JO L 339, 30.12.1996, p.1)\n\n**revogado por:**\n\n- [Directiva 2008/84/CE da Comissão de 27 de Agosto de 2008](http://publications.europa.eu/resource/celex/32008L0084) — L 253 — 1 — 20.9.2008"
+  }
+ }
+}

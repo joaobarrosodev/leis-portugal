@@ -1,0 +1,169 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994R2978:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994R2978-20071231",
+ "dre_path": null,
+ "source_lastmod": "2007-12-31",
+ "versions": [
+  {
+   "date": "1994-12-12",
+   "future": false,
+   "celex": "31994R2978",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7951024b70b25692",
+    "730e4c67accb8380",
+    "45315d9f63fed4cb",
+    "7c1c4b80671aa381",
+    "61278e5eeb9bd69e",
+    "e6c641a9af0adfee",
+    "5dd776aed2e09550",
+    "ced3a40f1b28f2ad",
+    "6ba6ded867fb0966",
+    "ef57b8b44e288e9a",
+    "1265a593ab4e6c8d",
+    "35de208a10b2c93f",
+    "94d8e0d528e7eb95"
+   ]
+  },
+  {
+   "date": "2007-12-31",
+   "future": false,
+   "celex": "01994R2978-20071231",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II — Definições da convenção Marpol 73/78 relativamente aos conceitos do nº 1, alíneas a), b), e) e f), do artigo 3º Ad alínea a) do nº 1"
+   ],
+   "fragments": [
+    "74823a5972e6ed1a"
+   ]
+  }
+ ],
+ "fragments": {
+  "7951024b70b25692": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 2978/94 do Conselho, de 21 de Novembro de 1994, relativo à aplicação da resolução A.747 (18) da OMI sobre o cálculo da arqueação dos tanques de lastro dos navios petroleiros com tanques de lastro segregado** *Jornal Oficial nº L 319 de 12/12/1994 p. 0001 - 0006 Edição especial finlandesa: Capítulo 7 Fascículo 5 p. 0159 Edição especial sueca: Capítulo 7 Fascículo 5 p. 0159*\n\nREGULAMENTO (CE) Nº 2978/94 DO CONSELHO de 21 de Novembro de 1994 relativo à aplicação da resolução A.747(18) da OMI sobre o cálculo da arqueação dos tanques de lastro dos navios petroleiros com tanques de lastro segregado\n\nO CONSELHO DA UNIAO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o nº 2 do seu artigo 84º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºC do Tratado (3),\n\nConsiderando que o tráfego marítimo de navios petroleiros continua a dar lugar a uma poluição operacional e acidental, e que o transporte de petróleo por navios petroleiros com tanques de concepção convencional representa uma ameaça constante para o ambiente marinho;\n\nConsiderando que foram adoptadas sob os auspícios da Organização Marítima Internacional, a seguir designada «OMI», regras internacionalmente aceites aplicáveis à concepção e operação de navios petroleiros respeitadores do ambiente;\n\nConsiderando que a utilização de navios petroleiros respeitadores do ambiente beneficia tanto os Estados costeiros como a indústria;\n\nConsiderando que várias convenções internacionais estabelecem requisitos em matéria de certificação de navios petroleiros; e que o cálculo da arqueação dos tanques de lastro segregado dos navios petroleiros foi objecto de nova análise por parte da OMI;\n\nConsiderando que, com uma excepção, todos os Estados-membros ratificaram e aplicam a Convenção internacional para a prevenção da poluição por navios de 1973 e o seu protocolo de 1978, a seguir designados «convenção Marpol 73/78»; e que todos os Estados-membros ratificaram e aplicam a Convenção internacional sobre a arqueação dos navios de 1969;\n\nConsiderando que a resolução A.722(17), adoptada pela Assembleia da OMI em 6 de Novembro de 1991, e a resolução A.747(18) que a substitui, sobre o cálculo da arqueação dos tanques de lastro dos navios petroleiros com tanques de lastro segregado, adoptada pela Assembleia da OMI em 4 de Novembro de 1993, exprimem o desejo generalizado de incentivar a concepção de navios-tanque respeitadores do ambiente e a utilização de tanques de lastro segregado nos navios petroleiros;\n\nConsiderando que a Assembleia da OMI, através da resolução A.747(18), convidou os governos a i) dar instruções às autoridades portuárias no sentido de aplicarem a sua recomendação de deduzir a arqueação dos tanques de lastro segregado no cálculo das taxas baseadas na arqueação bruta aplicáveis a todos os navios-tanque com tanques de lastro segregado que observem a regra 13 do anexo I da convenção Marpol 73/78, e ii) dar instruções às autoridades de pilotagem no sentido de agirem de acordo com a mesma recomendação;\n\nConsiderando que o Conselho reconheceu a necessidade de intensificar a actuação da Comunidade ou das autoridades nacionais, consoante adequado, de modo a garantir uma resposta apropriada às exigências de segurança marítima e de prevenção da poluição marinha; e que é desejável promover a utilização de navios petroleiros de casco duplo ou de concepção alternativa que satisfaçam os requisitos da regra 13F do anexo I da convenção Marpol 73/78, tal como alterada em 6 de Março de 1992, bem como a utilização de navios petroleiros com tanques de lastro segregado;\n\nConsiderando que para efeitos do presente regulamento, os navios petroleiros de casco duplo ou de concepção alternativo deverão ser tratados como se os seus tanques de lastro segregado cumprissem os requisitos da regra 13 do anexo I da convenção Marpol 73/78;\n\nConsiderando que é inadequado penalizar os armadores e os operadores que utilizam navios petroleiros respeitadores do ambiente em termos de concepção e operação;\n\nConsiderando, em particular, que a cobrança de taxas calculadas com base na arqueação dos tanques de lastro segregado dos navios petroleiros constitui, nos casos em que esses tanques não são utilizados para o transporte de carga, uma desvantagem financeira para quem tomou importantes medidas com vista a um ambiente mais limpo;\n\nConsiderando que, por razões económicas, as autoridades portuárias, individualmente, não desejam ser colocadas numa posição de desvantagem no caso de serem as únicas a aplicar a resolução da OMI;\n\nConsiderando que, embora tendo sido aprovadas, as resoluções A.722(17) e A.747(18) da OMI não são aplicadas por todos os Estados-membros;\n\nConsiderando que, com vista à protecção do ambiente marinho contra a poluição por navios petroleiros de concepção convencional, as regras aprovadas internacionalmente em matéria de cobrança de taxas aos navios petroleiros pelas autoridades portuárias e de pilotagem devem ser aplicadas de modo uniforme em toda a Comunidade;\n\nConsiderando que, para evitar distorções da concorrência na Comunidade e para que possam ser alcançadas soluções eficazes e económicas, a melhor via para estabelecer uma acção concertada tendente à aplicação uniforme no respeito pelo princípio da subsidiariedade das regras internacionalmente aprovadas será a de um regulamento;\n\nConsiderando que o Estado de pavilhão ou os organismos que emitem o certificado internacional de prevenção da poluição por hidrocarbonetos e o certificado internacional de arqueação (1969), bem como os armadores e entidades que cobram taxas aos navios petroleiros, devem actuar conjuntamente na aplicação da resolução A.748(18) da OMI por forma a aumentar a protecção do ambiente marinho;\n\nConsiderando que em alguns Estados-membros já foram criados sistemas destinados a reduzir as taxas aplicadas aos navios respeitadores do ambiente, numa base diferente da utilizada pela resolução A.747(18) da OMI; que, em conformidade com o espírito dessa resolução, deverá ser previsto um regime alternativo de cálculo das taxas baseadas na arqueação, que consista num diferencial percentual em relação à tarifa normal, de modo a que a redução média seja pelo menos idêntica à prevista nessa resolução; que deverá, além disso, ser assegurado que os navios petroleiros com tanques de lastro segregado sejam sempre objecto de um tratamento não menos favorável, mesmo quando as taxas não sejam calculadas com base na arqueação,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "730e4c67accb8380": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nAs autoridades portuárias e as autoridades de pilotagem na Comunidade deverão, em conformidade com o disposto no presente regulamento:\n\na) Dar execução na Comunidade à resolução A.747(18) sobre o cálculo de arqueação dos tanques de lastro segregado dos navios petroleiros, adoptada pela Assembleia da OMI em 4 de Novembro de 1993, cujo anexo consta do anexo I ao presente regulamento, de modo a incentivar a utilização de navios petroleiros com tanques de lastro segregado, incluindo navios petroleiros de casco duplo ou de concepção alternativa;\n\nb) Aplicar um regime de redução das taxas cobradas aos navios petroleiros com tanques de lastro segregado, calculado numa base diferente, mas no mesmo espírito, da resolução A.747(18) da OMI."
+  },
+  "45315d9f63fed4cb": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nO presente regulamento é aplicável aos navios petroleiros:\n\n- que possam transportar lastro segregado em tanques para esse efeito,\n\n- que tenham sido concebidos, construídos, adaptados, equipados e sejam explorados como navios petroleiros com tanques de lastro segregado, incluindo navios petroleiros de casco duplo e de concepção alternativa,\n\n- que satisfaçam os requisitos da Convenção internacional sobre a arqueação dos navios de 1969 e\n\n- que disponham do certificado internacional de arqueação (1969)."
+  },
+  "7c1c4b80671aa381": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Para efeitos do presente regulamento, entende-se por:\n\na) «Navio petroleiro», qualquer navio que corresponda à definição de navio petroleiro do nº 4 da regra 1 do anexo I da convenção Marpol 73/78;\n\nb) «Lastro segregado», o lastro que corresponda à definição de lastro segregado do nº 17 da regra 1 do anexo I da convenção Marpol 73/78;\n\nc) «Tanque de lastro segregado», um tanque utilizado exclusivamente para o transporte de lastro segregado;\n\nd) «Navio petroleiro com tanques de lastro segregado», qualquer navio petroleiro equipado com tanques de lastro segregado que possua um certificado emitido pelo governo do Estado de pavilhão ou por outros organismos autorizados por esse Estado a emitir esse certificado, que comprove a sua qualidade de navio petroleiro dotado de tanques de lastro segregado. O cumprimento deste requisito deve ser expressamente mencionado pela entidade emissora na rubrica pertinente do suplemento do certificado internacional de prevenção da poluição por hidrocarbonetos;\n\ne) «Navio petroleiro de casco duplo», qualquer navio petroleiro dotado de tanques de lastro segregado construído de acordo com os requisitos estabelecidos no nº 3 da regra 13 F do anexo I da convenção Marpol 73/78;\n\nf) «Navio petroleiro de concepção alternativa», qualquer petroleiro com tanques de lastro segregado construído de acordo com os requisitos estabelecidos nos nºs 4 e 5 da regra 13 F do anexo I da convenção Marpol 73/78;\n\ng) «Convenção Marpol 73/78», a Convenção internacional para a prevenção da poluição por navios de 1973, com a redacção que lhe foi dada pelo respectivo protocolo de 1978, na versão em vigor no momento da adopção do presente regulamento;\n\nh) «Autoridade portuária», qualquer entidade pública ou privada que cobre taxas aos navios pela disponibilização de instalações e pela prestação de serviços à navegação;\n\ni) «Autoridade de pilotagem», qualquer entidade pública ou privada habilitada a prestar serviços de pilotagem à navegação;\n\nj) «Arqueação bruta», a medida do tamanho total de um navio nos termos da Convenção internacional sobre a arqueação dos navios de 1969;\n\nk) «Arqueação bruta reduzida», a arqueação bruta de um navio petroleiro obtida deduzindo da arqueação bruta total do navio a arqueação bruta dos tanques de lastro segregado determinada de acordo com a fórmula indicada no nº 4 do anexo I ao presente regulamento.\n\n2. Constam do anexo II as definições da convenção Marpol 73/78 relativamente aos conceitos das alíneas a), b), e) e f) do nº 1."
+  },
+  "61278e5eeb9bd69e": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nPara efeitos do presente regulamento, o organismo competente que emitir o certificado internacional de arqueação (1969) de um navio petroleiro com tanques de lastro segregado, cuja arqueação tenha sido calculada segundo as regras da Convenção internacional sobre a arqueação dos navios de 1969, deve inserir na rubrica «Observações» uma declaração nos termos do nº 3 do anexo I do presente regulamento que indique:\n\ni) a arqueação dos tanques de lastro segregado do navio; a arqueação deve ser calculada de acordo com o método e o procedimento fixados no nº 4 do anexo I do presente regulamento e\n\nii) a arqueação bruta reduzida do navio."
+  },
+  "e6c641a9af0adfee": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Ao calcular taxas aplicáveis a navios petroleiros total ou parcialmente baseadas no valor da arqueação bruta (AB) do navio, as autoridades portuárias e de pilotagem devem excluir a arqueação dos tanques de lastro segregado dos petroleiros, de modo a basear os seus cálculos na arqueação bruta reduzida do navio indicada na rubrica «Observações» do respectivo certificado internacional de arqueação (1969).\n\n2. Em alternativa, as autoridades portuárias e de pilotagem assegurarão que a taxa aplicável aos navios petroleiros abrangidos pelo presente regulamento nos termos do artigo 2º será, pelo menos, 17% inferior à taxa aplicável aos navios-tanque de igual arqueação bruta não equipados com tanques de lastro segregado.\n\nAs autoridades portuárias e de pilotagem que já apliquem, em 13 de Junho de 1994, um sistema de taxa fixa tal como estabelecido no primeiro parágrafo, mas baseado numa percentagem inferior, deverão aplicar o valor mínimo de 17% o mais tardar em 1 de Janeiro de 1997.\n\n3. Se as taxas forem calculadas com base diferente da arqueação bruta, as autoridades portuárias e de pilotagem assegurarão que os navios petroleiros com tanques de lastro segregado terão um tratamento não menos favorável do que o concedido nos casos em que as taxas sejam calculadas nos termos dos nºs 1 ou 2.\n\n4. As autoridades portuárias e de pilotagem deverão aplicar a todos os navios petroleiros com tanques de lastro segregado apenas um dos métodos referidos nos nºs 1, 2 e 3."
+  },
+  "5dd776aed2e09550": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nO anexo I do presente regulamento pode ser alterado nos termos do procedimento previsto no artigo 7º, a fim de tomar em consideração as alterações à resolução A.747(18) da OMI e às convenções internacionais pertinentes que vierem a entrar em vigor."
+  },
+  "ced3a40f1b28f2ad": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. A Comissão será assistida por um comité composto por representantes dos Estados-membros e presidido pelo representante da Comissão. O comité será convocado pela Comissão sempre que necessário para a aplicação do presente regulamento.\n\n2. O comité adoptará o seu regulamento interno.\n\n3. No que se refere às questões abrangidas pelo artigo 6º, é aplicável o seguinte procedimento:\n\na) O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\nb) A Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nc) Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada. Se, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "6ba6ded867fb0966": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Os Estados-membros adoptarão oportunamente, embora antes de 31 de Dezembro de 1995, as disposições legislativas, regulamentares ou administrativas necessárias para a execução do presente regulamento.\n\nEssas medidas devem abranger, nomeadamente, a organização, os procedimentos e os meios de controlo.\n\n2. Os Estados-membros transmitirão anualmente à Comissão todas as informações disponíveis relativas à aplicação do presente regulamento, incluindo as infrações cometidas pelas suas autoridades portuárias e de pilotagem.\n\n3. Quando os Estados-membros adoptarem as medidas referidas no nº 1, estas devem incluir uma referência ao presente regulamento ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n4. Os Estados-membros comunicarão imediatamente à Comissão todas as disposições de direito interno que adoptarem no domínio regido pelo presente regulamento. A Comissão informará do facto os outros Estados-membros."
+  },
+  "ef57b8b44e288e9a": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. A Comissão efectuará anualmente uma análise da execução do presente regulamento, depois de ter recebido os relatórios apresentados pelos Estados-membros tal como prescrito no artigo 8º\n\n2. A Comissão apresentará até 31 de Dezembro de 1998 ao Parlamento Europeu e ao Conselho um relatório de avaliação do funcionamento do regime estabelecido no artigo 5º"
+  },
+  "1265a593ab4e6c8d": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1996.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 21 de Novembro de 1994.\n\nPelo Conselho\n\nO Presidente\n\nM. WISSMANN\n\n(1) JO nº C 5 de 7. 1. 1994, p. 4.(2) JO nº C 295 de 22. 10. 1994, p. 26.(3) Parecer do Parlamento Europeu de 3 de Maio de 1994 (JO nº C 205 de 25. 7. 1994, p. 59), posição comum do Conselho de 19 de Setembro de 1994 (JO nº C 301 de 27. 10. 1994, p. 34) e decisão do Parlamento Europeu de 16 de Novembro de 1994 (ainda não publicada no Jornal Oficial)."
+  },
+  "35de208a10b2c93f": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nCálculo de arqueação dos tanques de lastro segregado dos navios petroleiros A fim de utilizarem uma base uniforme para o cálculo de arqueação dos tanques de lastro segregado dos navios petroleiros, as administrações, os organismos habilitados para emitir certificados internacionais e as entidades que cobram taxas aos petroleiros devem reger-se pelos seguintes princípios:\n\n1. O navio deve ser certificado como navio petroleiro com tanques de lastro segregado tal como consta do ponto 5 do suplemento do certificado internacional de prevenção contra a poluição por hidrocarbonetos, devendo a localização dos tanques de lastro segregado ser indicada no ponto 5.2 desse suplemento.\n\n2. Os tanques de lastro segregado são os tanques destinados exclusivamente a água de lastro segregado, tal como definido no nº 17 da regra 1 do anexo I da convenção Marpol 73/78. Os tanques de lastro segregado devem dispor de um sistema independente de bombagem e de condutas, destinado exclusivamente à tomada de água de lastro do mar e à descarga dessa mesma água para o mar. Não pode haver nenhuma ligação entre os tanques de lastro segregado e o sistema de água doce. Os tanques de lastro segregado não podem ser utilizados para o transporte de carga ou para o armazenamento de materiais do navio.\n\n3. No certificado internacional de arqueação (1969), na rubrica «Observações», deve ser feita a seguinte menção para indicar a arqueação dos tanques de lastro segregado dos navios petroleiros:\n\n«Os tanques de lastro segregado estão conformes com a regra 13 do anexo I da Convenção internacional sobre a prevenção da poluição por navios de 1973, com a redacção que lhe foi dada pelo respectivo protocolo de 1978, sendo a arqueação total desses tanques utilizados exclusivamente para água de lastro segregado de...\n\nA arqueação bruta reduzida a utilizar para efeitos do cálculo das taxas baseadas na arqueação é de...».\n\n4. A arqueação dos tanques de lastro segregado acima referidos deve ser calculada através da seguinte fórmula:\n\nK1 x Vb\n\nsendo:\n\nK1 = 0,2 + 0,02 log10 V (ou utilizando os coeficientes indicados na tabela do apêndice 2 da Convenção internacional sobre a arqueação dos navios de 1969).\n\nV = volume total de todos os espaços fechados do navio, expresso em metros cúbicos, tal como definido na regra 3 da Convenção internacional sobre a arqueação dos navios de 1969.\n\nVb = o volume total dos tanques de lastro segregado, expresso em metros cúbicos, determinado de acordo com a regra 6 da Convenção internacional sobre a arqueação dos navios de 1969."
+  },
+  "94d8e0d528e7eb95": {
+   "fragment_id": "ANEXO II — Definições da convenção Marpol 73/78 relativamente aos conceitos do nº 1, alíneas a), b), e) e f), do artigo 3º Ad alínea a) do nº 1",
+   "type": "divisao",
+   "heading": "ANEXO II — Definições da convenção Marpol 73/78 relativamente aos conceitos do nº 1, alíneas a), b), e) e f), do artigo 3º Ad alínea a) do nº 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Definições da convenção Marpol 73/78 relativamente aos conceitos do nº 1, alíneas a), b), e) e f), do artigo 3º Ad alínea a) do nº 1\n\n«Navio petroleiro», significa um navio construído ou adaptado fundamentalmente para transporte de hidrocarbonetos a granel nos seus espaços de carga, incluindo navios de carga combinada e qualquer «navio-tanque para transporte de produtos químicos», tal como definido no anexo II à presente convenção, quando transporte um carregamento total ou parcial de hidrocarbonetos a granel.\n\n«Navio de carga combinada» significa um navio projectado para transporte quer de hidrocarbonetos quer de carga sólida a granel.\n\n«Navio-tanque para transporte de produtos químicos», significa um navio construído ou adaptado fundamentalmente para transporte de substâncias líquidas nocivas a granel, incluindo qualquer navio petroleiro, tal como definido no anexo I à presente convenção, quando transporte um carregamento total ou parcial de substâncias líquidas nocivas a granel.\n\nAd alínea b) do nº 1\n\n«Lastro segregado» significa a água de lastro contida num tanque, que está completamente separado dos sistemas de carga de hidrocarbonetos e de combustível líquido, e que é exclusivamente utilizado para lastro, ou para lastro e outras cargas que não sejam hidrocarbonetos ou substâncias nocivas, tal como definidos nos anexos à presente convenção.\n\nAd alínea e) do nº 1\n\n«Navio petroleiro de casco duplo» significa um navio petroleiro cujo tanque de carga está protegido em todo o seu comprimento por tanques de lastro ou outros espaços que não sejam os tanques para combustível ou carga.\n\nAd alínea f) do nº 1\n\n«Navio petroleiro de concepção alternativa» significa um navio petroleiro:\n\n- concebido de forma a que a pressão da carga e do vapor exercida na chaparia do fundo do casco que constitui uma separação única entre a carga e o mar não exceda a pressão hidrostática exterior da água,\n\n- construído segundo métodos que garantam pelo menos o mesmo nível de protecção contra a poluição por hidrocarbonetos em caso de abalroamento ou de encalhe e sejam, em princípio, aprovados pelo Comité para a protecção do meio marinho, com base em directrizes definidas pela organização."
+  },
+  "74823a5972e6ed1a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1994R2978 — PT — 31.12.2007 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31994R2978) [REGULAMENTO (CE) N.º 2978/94 DO CONSELHO](http://publications.europa.eu/resource/celex/31994R2978) [de 21 de Novembro de 1994](http://publications.europa.eu/resource/celex/31994R2978) [relativo à aplicação da resolução A.747(18) da OMI sobre o cálculo da arqueação dos tanques de lastro dos navios petroleiros com tanques de lastro segregado](http://publications.europa.eu/resource/celex/31994R2978) (JO L 319, 12.12.1994, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 417/2002 do Parlamento Europeu e do Conselho de 18 de Fevereiro de 2002](http://publications.europa.eu/resource/celex/32002R0417) — L 64 — 1 — 7.3.2002"
+  }
+ }
+}

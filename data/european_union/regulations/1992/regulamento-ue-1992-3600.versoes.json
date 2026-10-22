@@ -1,0 +1,420 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R3600:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R3600-20080510",
+ "dre_path": null,
+ "source_lastmod": "2008-05-10",
+ "versions": [
+  {
+   "date": "1992-12-15",
+   "future": false,
+   "celex": "31992R3600",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "dbef9f042676ba70",
+    "9a8b8bbb481c01fd",
+    "f8e98ab9d5d33904",
+    "c0eec0ad4c3036f6",
+    "058f43d8c7a9bbeb",
+    "7ef7d8a7401adb3f",
+    "ac6ecfa4ab7cf201",
+    "e825de02f9da2c91",
+    "b1cb49daf3e84b5b",
+    "43ff42f0e8a50d79",
+    "37b77e6d01060022",
+    "82e362d531762cc7",
+    "1784b89c68e80fb4"
+   ]
+  },
+  {
+   "date": "2008-05-10",
+   "future": false,
+   "celex": "01992R3600-20080510",
+   "acts": [
+    {
+     "id": "eu:celex:31995R0491:por",
+     "title": "REGULAMENTO (CE) N. o 491/95 DA COMISSÃO de 3 de Março de 1995",
+     "published": null,
+     "celex": "31995R0491"
+    },
+    {
+     "id": "eu:celex:31997R1199:por",
+     "title": "REGULAMENTO (CE) N. o 1199/97 DA COMISSÃO de 27 de Junho de 1997",
+     "published": null,
+     "celex": "31997R1199"
+    },
+    {
+     "id": "eu:celex:31999R1972:por",
+     "title": "REGULAMENTO (CE) N. o 1972/1999 DA COMISSÃO de 15 de Setembro de 1999",
+     "published": null,
+     "celex": "31999R1972"
+    },
+    {
+     "id": "eu:celex:32000R2266:por",
+     "title": "REGULAMENTO (CE) N. o 2266/2000 DA COMISSÃO de 12 de Outubro de 2000",
+     "published": null,
+     "celex": "32000R2266"
+    },
+    {
+     "id": "eu:celex:32008R0416:por",
+     "title": "REGULAMENTO (CE) N. o 416/2008 DA COMISSÃO de 8 de Maio de 2008",
+     "published": null,
+     "celex": "32008R0416"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita ANEXO I",
+    "Adita LISTA DAS SUBSTÂNCIAS ABRANGIDAS PELA PRIMEIRA FASE DO PROGRAMA DE TRABALHO PREVISTO NO N.º 2, ÚLTIMO PARÁGRAFO, DO ARTIGO 8.º DA DIRECTIVA 91/414/CEE",
+    "Adita Designação",
+    "Adita ANEXO II",
+    "Adita MODELO",
+    "Adita Notificação de uma substância activa em conformidade com o n.º 1 do artigo 4.º do Regulamento (CEE) n.º 3600/92",
+    "Adita 1. Identificação do notificante",
+    "Adita 2. Informações destinadas a facilitar a identificação",
+    "Adita 3. Informações referentes às condições de utilização a garantir através da inclusão no anexo I e indicadas pelo requerente",
+    "Adita 4. Informações referentes às utilizações autorizadas do conhecimento do notificante",
+    "Adita 5. Compromisso de apresentação de processos",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime ANEXO I — LISTA DAS SUBSTÂNCIAS ABRANGIDAS PELA PRIMEIRA FASE DO PROGRAMA DE TRABALHO PREVISTO NO No 2, ÚLTIMO PARÁGRAFO, DO ARTIGO 8o DA DIRECTIVA 91/414/CEE",
+    "Suprime ANEXO II — MODELO"
+   ],
+   "fragments": [
+    "5ad64d964ebcf47a",
+    "a26116f3570b2629",
+    "9518abb8cfbf0719",
+    "9d961d0b3dc14634",
+    "d3f9681931228e9b",
+    "b56e4a32edf40343",
+    "6049aea70e73d1d0",
+    "844ce8564032d8d1",
+    "4148de46677e7db4",
+    "bd5919da270d48ee",
+    "6186b907303609f2",
+    "d664376e2a8dcecd",
+    "3454f03196e349fb",
+    "a4d41c94fefa521c",
+    "852174729551523b",
+    "dcc81eb4be73e5dc",
+    "41cc6ade1c81cbf9",
+    "51cc04dd90f71243",
+    "776c2f54cfa9773e",
+    "d99e1c161def66a0",
+    "7655fd31f74932a5",
+    "257f41a630055006",
+    "8a500215f894a0ea"
+   ]
+  }
+ ],
+ "fragments": {
+  "dbef9f042676ba70": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 3600/92 da Comissão, de 11 de Dezembro de 1992, que estabelece normas de execução para a primeira fase do programa de trabalho referido no nº 2 do artigo 8º da Directiva 91/414/CEE do Conselho relativa à colocação dos produtos fitofarmacêuticos no mercado** *Jornal Oficial nº L 366 de 15/12/1992 p. 0010 - 0016 Edição especial finlandesa: Capítulo 3 Fascículo 46 p. 0203 Edição especial sueca: Capítulo 3 Fascículo 46 p. 0203*\n\nREGULAMENTO (CEE) No 3600/92 DA COMISSÃO de 11 de Dezembro de 1992 que estabelece normas de execução para a primeira fase do programa de trabalho referido no no 2 do artigo 8o da Directiva 91/414/CEE do Conselho relativa à colocação dos produtos fitofarmacêuticos no mercado\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado (1), e, nomeadamente, o no 2 do seu artigo 8o,\n\nConsiderando que a Comissão deve estabelecer um programa de trabalho para a análise progressiva das substâncias activas que se encontrem já no mercado dois anos após a data de notificação da referida Directiva 91/414/CEE;\n\nConsiderando que, perante o número muito elevado de substâncias activas no mercado naquela data, foi necessário efectuar uma selecção para ter em conta, de forma equilibrada, aspectos como os efeitos a nível da saúde e/ou ambiente, a possibilidade de ficarem resíduos em produtos tratados, a importância para a agricultura, a falta óbvia de dados ou, pelo contrário, a existência de dados completos e actualizados e, ainda, a semelhança de propriedades químicas ou biológicas;\n\nConsiderando que devem ser definidas as relações entre os produtores, os Estados-membros e a Comissão, bem como as obrigações de cada uma das partes no que se refere à execução do programa;\n\nConsiderando que é necessário prever um processo de notificação através do qual os produtores tenham a possibilidade de informar a Comissão do seu interesse em garantir a inclusão de uma substância activa no anexo I da directiva e do seu compromisso de apresentar todas as informações necessárias para permitir a avaliação e decisão adequadas relativamente a essa substância activa quanto à satisfação dos critérios para a sua inclusão previstos no artigo 5o da Directiva 91/414/CEE;\n\nConsiderando que é necessário definir as obrigações dos notificantes relativamente aos modelos, períodos e entidades públicas a que se destinam as informações a apresentar; que é necessário definir as consequências administrativas a aplicar quando aquelas obrigações não forem satisfeitas;\n\nConsiderando que devem também ser tidas em conta, para essa avaliação, informações técnicas ou científicas relativas aos efeitos potencialmente perigosos de uma substância activa ou dos seus resíduos apresentadas em tempo devido por quaisquer outros interessados directos;\n\nConsiderando que os trabalhos de avaliação devem ser distribuídos pelas entidades competentes dos Estados-membros; que, para cada substância activa, deve, pois, ser designado um Estado-membro relator para examinar e avaliar, em estreita consulta com peritos de outros Estados-membros, as informações apresentadas e para comunicar à Comissão os resultados da avaliação e apresentar uma recomendação relativamente à decisão a tomar quanto à substância activa em questão;\n\nConsiderando que os processos previstos no presente regulamento não podem prejudicar os processos a adoptar no âmbito de outras normas comunitárias;\n\nConsiderando que, para se evitar uma duplicação de trabalho, nomeadamente no que se refere à realização de experiências com vertebrados, têm de ser previstas disposições que estimulem os produtores a apresentarem processos colectivos;\n\nConsiderando que os processos definidos no presente regulamento não devem prejudicar a possibilidade de investigação, ou de proibição, nos termos da Directiva 79/117/CEE do Conselho (2), com a última redacção que lhe foi dada pela Directiva 91/188/CEE da Comissão (3), nos casos em que a Comissão passar a dispor de informações que revelem que as condições necessárias para uma proibição, previstas na Directiva 79/117/CEE, podem estar reunidas; que, à data de adopção do presente regulamento, informação desse tipo está a ser examinada em relação à atrazina e ao quintozeno;\n\nConsiderando que têm de ser tomadas, desde já, medidas processuais e administrativas para garantir que a análise das substâncias activas possa efectivamente começar a partir da data de aplicação da Directiva 91/414/CEE;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité fitossanitário permanente,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "9a8b8bbb481c01fd": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. O presente regulamento estabelece normas de execução para a primeira fase do programa de trabalho referido no no 2 do artigo 8o da Directiva 91/414/CEE, a seguir denominada « directiva ». A primeira fase compreende a análise das substâncias enumeradas no anexo A do presente regulamento, tendo em vista a sua eventual inclusão no anexo I da Directiva 91/414/CEE. Para qualquer substância do anexo A do presente regulamento, as disposições dos nos 2, 3 e 4, segundo parágrafo, do artigo 6o da directiva não se aplicam enquanto os processos definidos no presente regulamento relativamente a essa substância não tiverem sido concluídos.\n\n2. O presente regulamento aplica-se sem prejuízo:\n\na) Da possibilidade de verificação pelos Estados-membros, nomeadamente para renovação das autorizações em conformidade com o no 4 do artigo 4o da directiva;\n\nb) Da possibilidade de revisão pela Comissão por força do no 5 do artigo 5o da directiva;\n\nc) De processos de análise realizados nos termos da Directiva 79/117/CEE."
+  },
+  "f8e98ab9d5d33904": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Para efeitos do presente regulamento, as expressões « produtos fitofarmacêuticos », « substâncias », « substâncias activas », « preparações » e « autorização de um produto fitofarmacêutico » são utilizadas na acepção do artigo 2o da directiva.\n\n2. Para efeitos do presente regulamento, entende-se por:\n\na) « Produtor »:\n\n- no caso das substâncias activas produzidas na Comunidade, o fabricante ou uma pessoa estabelecida na Comunidade designada pelo fabricante como seu único representante,\n\n- no caso das substâncias activas produzidas fora da Comunidade, uma pessoa estabelecida na Comunidade designada pelo fabricante como seu único representante, ou, sempre que este não tenha sido designado, o ou os importadores da substância activa, estreme ou incorporada numa preparação, para a Comunidade;\n\nb) « Comité »:\n\nO Comité fitossanitário permanente referido no artigo 19o da directiva."
+  },
+  "c0eec0ad4c3036f6": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros designarão uma entidade pública responsável pela coordenação da cooperação com os produtores, os outros Estados-membros e a Comissão e, em geral, pela execução do programa de trabalho referido no no 2 do artigo 8o da directiva. Os Estados-membros informarão a Comissão da entidade pública designada para o efeito."
+  },
+  "058f43d8c7a9bbeb": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Qualquer produtor que pretenda que uma substância activa referida no anexo A do presente regulamento, ou quaisquer sais, ésteres ou aminas dessa substância, sejam incluídos no anexo I da directiva notificará a Comissão nesse sentido, o mais tardar seis meses após a data de entrada em vigor do presente regulamento.\n\nSem prejuízo do disposto no primeiro parágrafo, caso os produtores de uma substância activa incluída no anexo A do presente regulamento renunciem à sua inclusão no anexo I da directiva, terão, no mesmo prazo, de informar a Comissão dessa renúncia.\n\n2. A notificação deve ser dirigida à Comissão das Comunidades Europeias, DG VI, rue de la Loi 200, 1049 Bruxelas, em conformidade com o modelo do anexo B do presente regulamento, incluindo, nomeadamente, o compromisso do ponto 5 do modelo.\n\n3. Os produtores que não tenham procedido atempadamente à notificação de uma determinada substância activa referida no no 1 só podem participar no programa referido no artigo 1o em conjunto com outros notificantes dessa substância activa, ou, no caso referido no no 4, prestar assistência ao Estado-membro notificante, com o acordo dos notificantes originais.\n\n4. Quando, em relação a uma dada substância activa, nenhum produtor tiver procedido a uma notificação nos termos do no 2, a Comissão informará desse facto os Estados-membros através do comité. Os Estados-membros podem notificar o seu interesse na inclusão da substância activa em causa no anexo I da directiva, utilizando o modelo do anexo B do presente regulamento. A notificação deve ser enviada à Comissão tão rapidamente quanto possível, o mais tardar seis meses após a data em que os Estados-membros tenham sido informados pela Comissão. Um Estado-membro que proceda a uma notificação assumirá os deveres de um produtor, em conformidade com os artigos 5o a 8o do presente regulamento.\n\n5. Nos casos em que nenhum produtor ou Estado-membro, de acordo com o processo atrás descrito, tenha notificado o seu interesse na inclusão de uma determinada substância activa no anexo I da directiva, pode ser tomada uma decisão de não inclusão dessa substância activa, em conformidade com o no 2, último parágrafo, do artigo 8o da directiva."
+  },
+  "7ef7d8a7401adb3f": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. A Comissão, em conjunto com o comité, examinará as notificações referidas nos nos 2 e 4 do artigo 4o\n\n2. Na sequência do exame referido no no 1 e em conformidade com o processo do artigo 19o da directiva, será decidido, através de um regulamento, o seguinte:\n\na) A lista de substâncias activas adoptadas para análise, tendo em vista a sua eventual inclusão no anexo I da directiva;\n\nb) A designação de um Estado-membro relator para cada substância activa incluída na lista referida na alínea a).\n\n3. Na lista referida na alínea a) do no 2, certas substâncias com estruturas ou propriedades químicas semelhantes podem ser agrupadas; se uma substância activa tiver sido notificada com diferentes composições que possam implicar propriedades toxicológicas ou ambientais distintas, estas podem ser incluídas separadamente na lista.\n\n4. A decisão referida no no 2 indicará, em relação a cada substância adoptada:\n\n- os nomes de todos os produtores que tenham procedido a uma notificação em conformidade com o no 1 do artigo 2o, ou, se tal for o caso, os Estados-membros que tenham procedido a uma notificação em conformidade com o no 4 do artigo 4o,\n\n- o nome do Estado-membro designado Estado-membro relator,\n\n- o prazo para apresentação dos processos referidos no artigo 6o ao Estado-membro relator, estabelecendo, em geral, um período de 12 meses para a reunião da documentação e para a apresentação, por quaisquer interessados directos, de informações de carácter técnico ou científico referentes aos efeitos potencialmente perigosos da substância ou dos seus resíduos para a saúde humana e/ou dos animais e/ou para o ambiente.\n\n5. Quando, durante o processo de análise referido nos artigos 6o, 7o e 8o do presente regulamento, se tornar evidente a existência de um desequilíbrio no âmbito das responsabilidades assumidas pelos Estados-membros como relatores, pode ser decidido, em conformidade com o processo do artigo 19o da directiva, designar outro Estado-membro para relator em relação a uma determinada substância."
+  },
+  "ac6ecfa4ab7cf201": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os notificantes mencionados no regulamento referido no artigo 5o, devem, no prazo estabelecido no no 4, terceiro travessão, do artigo 5o, enviar, individual ou colectivamente, à entidade pública designada do Estado-membro relator em relação a uma determinada substância activa:\n\na) O processo sucinto referido no no 2;\n\nb) O processo completo referido no no 3.\n\nOs notificantes também enviarão essas informações aos peritos referidos no no 2 do artigo 7o e, se necessário, à autoridade competente de qualquer Estado-membro referido no artigo 3o\n\n1. Nos casos em que, para uma determinada substância, o regulamento mencionado no no 4 do artigo 5o se referir a diversas notificações, os notificantes em causa realizarão todos os esforços razoáveis para apresentarem colectivamente os processos referidos no primeiro parágrafo. Nos casos em que um processo não represente todos os notificantes interessados, deve referir os esforços efectuados e os motivos pelos quais alguns dos produtores não participaram no processo colectivo.\n\n2. Do processo sucinto deve fazer parte o seguinte:\n\na) Uma cópia da notificação; tratando-se de um pedido conjunto apresentado por vários produtores, uma cópia das notificações efectuadas em conformidade com o artigo 4o e o nome da pessoa designada pelos produtores interessados como responsável pelo processo colectivo e pelo tratamento do processo, em conformidade com o presente regulamento;\n\nb) As condições de utilização indicadas para efeitos de inclusão da substância activa no anexo I da directiva;\n\nc) Para cada ponto do anexo II da directiva, os resumos e resultados de ensaios disponíveis e o nome da pessoa ou entidade que efectuou esses ensaios; idêntica informação para cada ponto do anexo III da directiva relevante para avaliação dos critérios referidos no artigo 5o da directiva para uma ou mais preparações representativas das condições de utilização referidas na alínea b);\n\nd) Nos casos em que algumas das informações referidas na alínea c) não estejam disponíveis:\n\n- em conformidade com as disposições introdutórias dos anexos II e III da directiva, as razões de carácter técnico ou científico que justifiquem não serem tais informações necessárias para a análise da substância activa segundo os critérios do artigo 5o da directiva, ou\n\n- um compromisso do produtor ou produtores que apresentam o processo, nos termos do qual se comprometem a enviar ulteriormente as informações em falta; devem ser apresentados um calendário pormenorizado e documentos que demonstrem a possibilidade de cumprimento do compromisso assumido.\n\n3. O processo completo deve incluir os protocolos e os relatórios completos dos estudos efectuados, referentes às informações previstas no no 2, alínea c).\n\n4. Nos casos em que, para uma determinada substância activa, os processos referidos no no 1 não sejam enviados no prazo estabelecido no no 4 do artigo 5o ou não satisfaçam claramente as condições definidas nos nos 2 e 3, o Estado-membro relator informará a Comissão, indicando as justificações apresentadas pelos notificantes.\n\n5. A Comissão, com base no relatório do Estado-membro relator referido no no 4, apresentará ao comité um projecto de decisão relativa à não inclusão da substância activa no anexo I, em conformidade com o do no 2, último parágrafo, do artigo 8o da directiva, salvo se:\n\n- tiver sido concedido um novo prazo para apresentação de um processo que preencha as condições definidas nos nos 2 e 3; esse novo prazo só será concedido nos casos em que o atraso tenha sido comprovadamente causado pelos esforços realizados para apresentação de processos colectivos ou por razões de força maior;\n\n- um determinado Estado-membro informar a Comissão do seu desejo de que a substância activa em questão seja incluída no anexo I da directiva e da sua disposição de assegurar a preparação dos processos referidos no primeiro travessão e de assumir os deveres de notificante, tal como definidos nos artigos 7o e 8o do presente regulamento."
+  },
+  "e825de02f9da2c91": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Relativamente a cada substância activa para que tenha sido designado relator, o Estado-membro deve:\n\na) Examinar os processos referidos nos nos 2 e 3 do artigo 6o pela ordem em que tenham sido recebidos do ou dos notificantes em causa, bem como quaisquer das informações referidas no no 4, terceiro travessão, do artigo 5o e outras informações disponíveis; se, para uma determinada substância activa, tiverem sido apresentados vários conjuntos de documentação, a ordem por que serão examinados será determinada pela última comunicação no âmbito do processo;\n\nb) Imediatamente após a conclusão do exame de um processo, certificar-se de que os notificantes enviam o processo sucinto actualizado aos outros Estados-membros e à Comissão;\n\nc) Logo que possível, o mais tardar doze meses após a recepção de um processo, conforme referido nos nos 2 e 3 do artigo 6o, enviar à Comissão um relatório da sua avaliação que compreenda uma recomendação no sentido de se:\n\n- incluir a substância activa no anexo I da directiva, indicando as condições dessa inclusão, ou\n\n- retirar a substância activa do mercado, ou\n\n- suspender a substância activa do mercado, ressalvando a possibilidade de se reconsiderar a sua inclusão no anexo I depois da apresentação dos resultados de ensaios adicionais ou de outras informações especificados no relatório, ou\n\n- adiar a decisão de eventual inclusão, enquanto se aguarda a apresentação dos resultados de ensaios adicionais ou de outras informações especificados no relatório.\n\n2. Logo que inicie o exame referido no no 1, alínea a), o Estado-membro relator pode convidar os notificantes a melhorarem ou complementarem o processo. Além disso, durante esse exame, o Estado-membro relator deve consultar peritos de outros Estados-membros, aceites pela Comissão sob proposta dos Estados-membros em causa, sobre a totalidade ou partes do processo.\n\n3. Depois de receber o processo sucinto e o relatório referido no no 1, a Comissão deve apresentá-los ao Comité fitossanitário permanente para serem examinados.\n\nConcluído esse exame, a Comissão, sem prejuízo da possibilidade de apresentar propostas de alteração do anexo da Directiva 79/117/CEE, apresentará ao comité um projecto de decisão relativa à inclusão e, se for caso disso, à definição das condições que regulam essa inclusão, ou um projecto de decisão relativa à não inclusão da substância activa em causa no anexo I da directiva, em conformidade com o no 2, último parágrafo, do artigo 8o da referida directiva.\n\n4. Contudo, nos casos em que, na sequência do exame referido no no 3, seja necessária a apresentação dos resultados de ensaios adicionais ou de outras informações, a Comissão fixará:\n\n- o prazo de apresentação desses resultados ou informações ao Estado-membro relator e aos peritos designados pela Comissão em conformidade com o no 2,\n\n- o prazo de comunicação pelos notificantes em causa, ao Estado-membro relator e à Comissão, do seu compromisso de apresentação dos resultados ou informações requeridos no prazo fixado no primeiro travessão.\n\n5. A Comissão apresentará ao comité um projecto de decisão relativa à não inclusão no anexo I, em conformidade com o no 2, último parágrafo, do artigo 8o da directiva, nos casos em que:\n\n- os notificantes em causa não tenham comunicado comprometerem-se a apresentar os resultados requeridos dentro do prazo referido no no 4, segundo travessão,\n\n- o Estado-membro relator tenha informado a Comissão de que os resultados referidos no no 4, primeiro travessão, não foram apresentados no prazo fixado."
+  },
+  "b1cb49daf3e84b5b": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Depois de receber os resultados dos ensaios adicionais ou outras informações, o Estado-membro relator:\n\na) Examinará esses resultados e informações em conjunto com os resultados incluídos no processo já apresentado para a substância em questão;\n\nb) Logo que concluído esse exame, deve assegurar que o resumo dos ensaios adicionais e os respectivos resultados ou outras informações sejam enviados pelo notificante aos outros Estados-membros e à Comissão;\n\nc) Logo que possível, o mais tardar nove meses após a última recepção de resultados ou informações, deve comunicar à Comissão o relatório da sua avaliação do processo completo, incluindo uma recomendação no sentido de se:\n\n- incluir a substância activa no anexo I, indicando as condições dessa inclusão, ou\n\n- manter ou alterar as condições de inclusão, no caso de a substância já ter sido incluída no anexo I, ou\n\n- retirar a substância activa do mercado, ou\n\n- retirar provisoriamente a substância activa do mercado, ressalvando a possibilidade de se reconsiderar a sua inclusão no anexo I depois da apresentação dos resultados de mais ensaios adicionais ou informações, tendo em vista a clarificação de quaisquer aspectos ainda não esclarecidos pelos ensaios adicionais ou informações apresentados em conformidade com o no 4 do artigo 7o, ou\n\n- nos casos em que os resultados dos ensaios adicionais ou as outras informações não permitam retirar conclusões definitivas, adiar a decisão, enquanto se aguarda a apresentação dos resultados de mais ensaios adicionais destinados a esclarecer as questões não resolvidas pelos resultados dos ensaios adicionais apresentados em conformidade com o no 4 do artigo 7o\n\n2. O processo previsto no no 2 do artigo 7o aplica-se aos exames referidos no no 1, alínea a).\n\n3. Depois de receber o resumo e o relatório referidos no no 1, a Comissão enviá-los-á ao comité para serem analisados à luz do exame já efectuado em conformidade com o no 3, primeiro parágrafo, do artigo 7o\n\nConcluída essa análise, a Comissão, sem prejuízo da possibilidade de apresentar propostas de alteração do anexo da Directiva 79/117/CEE, apresentará ao comité um projecto de decisão relativa à inclusão e, se for caso disso, à definição das condições que regulam essa inclusão, ou um projecto de decisão relativa à não inclusão da substância activa em causa no anexo I da directiva, em conformidade com o no 2, último parágrafo, do artigo 8o da directiva, ou, tratando-se de uma substância activa já incluída no referido anexo, à alteração das condições que regulam essa inclusão.\n\n4. Nos casos em que, na sequência da análise do Comité referida no no 3, primeiro parágrafo, se revelem necessários resultados de mais ensaios adicionais, aplicam-se os nos 4 e 5 do artigo 7o e o no 1 do artigo 8o Em tais casos, a Comissão fornecerá aos notificantes envolvidos as razões pormenorizadas do pedido desses ensaios adicionais."
+  },
+  "43ff42f0e8a50d79": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nQuando, relativamente a uma substância do anexo A, a Comissão apresentar uma proposta no sentido da sua proibição total nos termos da Directiva 79/117/CEE, os prazos fixados no presente regulamento serão suspensos até à data em que seja tomada uma decisão com base nessa proposta. Quando o Conselho decidir a proibição total da inclusão da substância no anexo da Directiva 79/117/CEE, o processo definido no presente regulamento será interrompido."
+  },
+  "37b77e6d01060022": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nO presente regulamento entra em vigor em 1 de Fevereiro de 1993. O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 11 de Dezembro de 1992. Pela Comissão\n\nRay MAC SHARRY\n\nMembro da Comissão\n\n(1) JO no L 230 de 19. 8. 1991, p. 1; rectificada no JO no L 170 de 25. 6. 1992, p. 40. (2) JO no L 33 de 8. 2. 1979, p. 36. (3) JO no L 92 de 13. 4. 1991, p. 42."
+  },
+  "82e362d531762cc7": {
+   "fragment_id": "ANEXO I — LISTA DAS SUBSTÂNCIAS ABRANGIDAS PELA PRIMEIRA FASE DO PROGRAMA DE TRABALHO PREVISTO NO No 2, ÚLTIMO PARÁGRAFO, DO ARTIGO 8o DA DIRECTIVA 91/414/CEE",
+   "type": "divisao",
+   "heading": "ANEXO I — LISTA DAS SUBSTÂNCIAS ABRANGIDAS PELA PRIMEIRA FASE DO PROGRAMA DE TRABALHO PREVISTO NO No 2, ÚLTIMO PARÁGRAFO, DO ARTIGO 8o DA DIRECTIVA 91/414/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — LISTA DAS SUBSTÂNCIAS ABRANGIDAS PELA PRIMEIRA FASE DO PROGRAMA DE TRABALHO PREVISTO NO No 2, ÚLTIMO PARÁGRAFO, DO ARTIGO 8o DA DIRECTIVA 91/414/CEE\n\nDesignação\n\n1. Acetato\n\n2. Metamidofos\n\n3. Aldicarbe\n\n4. Amitraze\n\n5. Azinfos-etilo\n\n6. Azinfos-metilo\n\n7. Carbendazime\n\n8. Benomil\n\n9. Tiofanato-metilo\n\n10. Cloropirifos\n\n11. Cloropirifos-metilo\n\n12. Ciflutrina\n\n13. Beta-ciflutrina\n\n14. Cialotrina\n\n15. Lambda-cialotrina\n\n16. Cipermetrina\n\n17. Alfa-cipermetrina\n\n18. DNOC\n\n19. Delta-metrina\n\n20. Dinoterbe\n\n21. Endossulfão\n\n22. Fentião\n\n23. Fenvalerato\n\n24. Esfenvalerato\n\n25. Lindano\n\n26. Paratião\n\n27. Paratião-metilo\n\n28. Permetrina\n\n29. Benalaxil\n\n30. Metalaxil\n\n31. Clorotalonil\n\n32. Dinocape\n\n33. Fenarimol\n\n34. Acetato de fentina\n\n35. Hidróxido de fentina\n\n36. Flusilazol\n\n37. Imazalil\n\n38. Mancozebe\n\n39. Manebe\n\n40. Zinebe\n\n41. Metirame\n\n42. Propinebe\n\n43. Tirame\n\n44. Ferbame\n\n45. Zirame\n\n46. Propiconazol\n\n47. Pirazofos\n\n48. Quintozeno\n\n49. Tiabendazol\n\n50. Vinclozolina\n\n51. Procimidona\n\n52. Iprodiona\n\n53. Clozolinato\n\n54. Clorprofame\n\n55. Profame\n\n56. Daminozida\n\n57. Hidrazida maleica\n\n58. Tecnazeno\n\n59. Alacloro\n\n60. Amitrol (Aminotriazolo)\n\n61. Atrazina\n\n62. Simazina\n\n63. Bentazona\n\n64. Clortolurão\n\n65. 2,4-D\n\n66. 2,4-DB\n\n67. Etofumesato\n\n68. Fluroxipur\n\n69. Glifosato\n\n70. Ioxinil\n\n71. Bromoxinil\n\n72. Isoproturão\n\n73. MCPA\n\n74. MCPB\n\n75. Mecoprope\n\n76. Mecoprope-P\n\n77. Metssulfurão-metilo\n\n78. Tifensulfurão\n\n79. Triassulfurão\n\n80. Molinato\n\n81. Monolinurão\n\n82. Linurão\n\n83. Paraquato\n\n84. Diquato\n\n85. Pendimetalina\n\n86. Desmedifame\n\n87. Fenemedifame\n\n88. Propizamida\n\n89. Piridato\n\n90. Warfarina"
+  },
+  "1784b89c68e80fb4": {
+   "fragment_id": "ANEXO II — MODELO",
+   "type": "divisao",
+   "heading": "ANEXO II — MODELO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — MODELO\n\nNotificação de uma substância activa em conformidade com o no 1 do artigo 4o do Regulamento (CEE) no 3600/92\n\n1. Identificação do notificante 1.1. Fabricante da substância activa (nome, endereço, localização da fábrica). 1.2. Empresa notificante (nome, endereço, etc.), (se diferente de 1.1). 1.2.a) Exercendo funções: - de único representante, designado pelo fabricante, - de importador, não designado pelo fabricante como seu único representante. 1.3. Nome de pessoa (física) responsável pela notificação e pelo cumprimento de outras obrigações decorrentes do Regulamento (CEE) no 3600/92. 1.3.1. Endereço para envio de correspondência. 1.3.2. a) Telefone: b) Telex: c) Telecópia: 1.3.3. a) Contacto: b) Contacto alternativo: 2. Informações destinadas a facilitar a identificação 2.1. Nome vulgar proposto ou aceite pela ISO e seus sinónimos, especificando, se for caso disso, os sais ou ésteres produzidos pelo fabricante. 2.2. Designação química (nomenclatura IUPAC). 2.3. Código(s) de desenvolvimento do produto estabelecido(s) pelo fabricante. 2.4. Números CAS, CIPAC e CEE (se disponíveis). 2.5. Fórmulas empírica e estrutural; massa molecular. 2.6. Especificação do grau de pureza da substância activa, em g/kg ou g/l, consoante os casos. 2.7. Identificação de isómeros, impurezas e aditivos (por exemplo, estabilizadores), incluindo as respectivas fórmulas estruturais e as gamas de concentração possíveis, expressas em g/kg ou g/l. 3. Informações referentes às condições de utilização a garantir através da inclusão no anexo I e indicadas pelo requerente 3.1. Função (por exemplo, fungicida, herbicida, insecticida, repelente, regulador do crescimento). 3.2. Utilização prevista (por exemplo, nos campos, estufas, armazenamento de produtos para a alimentação humana ou animal, jardins). 3.3. Se for caso disso, quaisquer condições específicas sanitárias, agrícolas, fitossanitárias ou ambientais, em que a substância activa pode ou não ser utilizada. 3.4. Organismos nocivos combatidos e culturas ou produtos pretegidos ou tratados. 4. Informações referentes às utilizações autorizadas do conhecimento do notificante 4.1. Estados-membros onde a substância activa está registada. 4.2. Países não comunitários onde a substância activa está registada. 4.3. Utilisações registadas na Comunidade, incluindo todas as condições relevantes. 4.4. Nome das formulações, tipo (código GIFAP/FAO) e teor de substância activa (em g/kg ou g/l). 5. Compromisso de apresentação de processos O notificante confirma a honestidade e correcção das informações prestadas e compromete-se a apresentar os processos indicados no artigo 6o do Regulamento (CEE) no 3600/92 às autoridades competentes do Estado-membro relator designado, no período de 12 meses definido pela decisão da Comissão prevista no no 4 do artigo 5o do presente regulamento. Sempre que a decisão mencionar vários notificantes da substância activa em questão, o notificante fará todos os esforços razoáveis para, em conjunto com os outros notificantes, apresentar um processo colectivo.\n\nAssinatura (da pessoa competente, em representação da empresa referida em 1.1)."
+  },
+  "5ad64d964ebcf47a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Dezembro de 1992\n\nque estabelece normas de execução para a primeira fase do programa de trabalho referido no n.º 2 do artigo 8.º da Directiva 91/414/CEE do Conselho relativa à colocação dos produtos fitofarmacêuticos no mercado\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado ([^1^](http://publications.europa.eu/resource/cellar/c344a3bd-0905-4b2d-8154-21e24c91766c.0018.03/DOC_1#E0001)), e, nomeadamente, o n.º 2 do seu artigo 8.º,\n\nConsiderando que a Comissão deve estabelecer um programa de trabalho para a análise progressiva das substâncias activas que se encontrem já no mercado dois anos após a data de notificação da referida Directiva 91/414/CEE;\n\nConsiderando que, perante o número muito elevado de substâncias activas no mercado naquela data, foi necessário efectuar uma selecção para ter em conta, de forma equilibrada, aspectos como os efeitos a nível da saúde e/ou ambiente, a possibilidade de ficarem resíduos em produtos tratados, a importância para a agricultura, a falta óbvia de dados ou, pelo contrário, a existência de dados completos e actualizados e, ainda, a semelhança de propriedades químicas ou biológicas;\n\nConsiderando que devem ser definidas as relações entre os produtores, os Estados-membros e a Comissão, bem como as obrigações de cada uma das partes no que se refere à execução do programa;\n\nConsiderando que é necessário prever um processo de notificação através do qual os produtores tenham a possibilidade de informar a Comissão do seu interesse em garantir a inclusão de uma substância activa no anexo I da directiva e do seu compromisso de apresentar todas as informações necessárias para permitir a avaliação e decisão adequadas relativamente a essa substância activa quanto à satisfação dos critérios para a sua inclusão previstos no artigo 5.º da Directiva 91/414/CEE;\n\nConsiderando que é necessário definir as obrigações dos notificantes relativamente aos modelos, períodos e entidades públicas a que se destinam as informações a apresentar; que é necessário definir as consequências administrativas a aplicar quando aquelas obrigações não forem satisfeitas;\n\nConsiderando que devem também ser tidas em conta, para essa avaliação, informações técnicas ou científicas relativas aos efeitos potencialmente perigosos de uma substância activa ou dos seus resíduos apresentadas em tempo devido por quaisquer outros interessados directos;\n\nConsiderando que os trabalhos de avaliação devem ser distribuídos pelas entidades competentes dos Estados-membros; que, para cada substância activa, deve, pois, ser designado um Estado-membro relator para examinar e avaliar, em estreita consulta com peritos de outros Estados-membros, as informações apresentadas e para comunicar à Comissão os resultados da avaliação e apresentar uma recomendação relativamente à decisão a tomar quanto à substância activa em questão;\n\nConsiderando que os processos previstos no presente regulamento não podem prejudicar os processos a adoptar no âmbito de outras normas comunitárias;\n\nConsiderando que, para se evitar uma duplicação de trabalho, nomeadamente no que se refere à realização de experiências com vertebrados, têm de ser previstas disposições que estimulem os produtores a apresentarem processos colectivos;\n\nConsiderando que os processos definidos no presente regulamento não devem prejudicar a possibilidade de investigação, ou de proibição, nos termos da Directiva 79/117/CEE do Conselho ([^2^](http://publications.europa.eu/resource/cellar/c344a3bd-0905-4b2d-8154-21e24c91766c.0018.03/DOC_1#E0002)), com a última redacção que lhe foi dada pela Directiva 91/188/CEE da Comissão ([^3^](http://publications.europa.eu/resource/cellar/c344a3bd-0905-4b2d-8154-21e24c91766c.0018.03/DOC_1#E0003)), nos casos em que a Comissão passar a dispor de informações que revelem que as condições necessárias para uma proibição, previstas na Directiva 79/117/CEE, podem estar reunidas; que, à data de adopção do presente regulamento, informação desse tipo está a ser examinada em relação à atrazina e ao quintozeno;\n\nConsiderando que têm de ser tomadas, desde já, medidas processuais e administrativas para garantir que a análise das substâncias activas possa efectivamente começar a partir da data de aplicação da Directiva 91/414/CEE;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité fitossanitário permanente,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "a26116f3570b2629": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O presente regulamento estabelece normas de execução para a primeira fase do programa de trabalho referido no n.º 2 do artigo 8.º da Directiva 91/414/CEE, a seguir denominada «directiva». A primeira fase compreende a análise das substâncias enumeradas no anexo A do presente regulamento, tendo em vista a sua eventual inclusão no anexo I da Directiva 91/414/CEE. Para qualquer substância do anexo A do presente regulamento, as disposições dos n.^os^ 2, 3 e 4, segundo parágrafo, do artigo 6.º da directiva não se aplicam enquanto os processos definidos no presente regulamento relativamente a essa substância não tiverem sido concluídos.\n\n2. O presente regulamento aplica-se sem prejuízo:\n\na) Da possibilidade de verificação pelos Estados-membros, nomeadamente para renovação das autorizações em conformidade com o n.º 4 do artigo 4.º da directiva;\n\nb) Da possibilidade de revisão pela Comissão por força do n.º 5 do artigo 5.º da directiva;\n\nc) De processos de análise realizados nos termos da Directiva 79/117/CEE."
+  },
+  "9518abb8cfbf0719": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Para efeitos do presente regulamento, as expressões «produtos fitofarmacêuticos», «substâncias», «substâncias activas», «preparações» e «autorização de um produto fitofarmacêutico» são utilizadas na acepção do artigo 2.º da directiva.\n\n2. Para efeitos do presente regulamento, entende-se por:\n\na) «Produtor»:\n\n— no caso das substâncias activas produzidas na Comunidade, o fabricante ou uma pessoa estabelecida na Comunidade designada pelo fabricante como seu único representante,\n\n— no caso das substâncias activas produzidas fora da Comunidade, uma pessoa estabelecida na Comunidade designada pelo fabricante como seu único representante, ou, sempre que este não tenha sido designado, o ou os importadores da substância activa, estreme ou incorporada numa preparação, para a Comunidade;\n\nb) «Comité»:"
+  },
+  "9d961d0b3dc14634": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-membros designarão uma entidade pública responsável pela coordenação da cooperação com os produtores, os outros Estados-membros e a Comissão e, em geral, pela execução do programa de trabalho referido no n.º 2 do artigo 8.º da directiva. Os Estados-membros informarão a Comissão da entidade pública designada para o efeito."
+  },
+  "d3f9681931228e9b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Qualquer produtor que pretenda que uma substância activa referida no anexo A do presente regulamento, ou quaisquer sais, ésteres ou aminas dessa substância, sejam incluídos no anexo I da directiva notificará a Comissão nesse sentido, o mais tardar seis meses após a data de entrada em vigor do presente regulamento.\n\nSem prejuízo do disposto no primeiro parágrafo, caso os produtores de uma substância activa incluída no anexo A do presente regulamento renunciem à sua inclusão no anexo I da directiva, terão, no mesmo prazo, de informar a Comissão dessa renúncia.\n\n1a. Sem prejuízo do disposto no número anterior, os produtores que disponham de um escritório permanente na Áustria, na Finlândia ou na Suécia podem notificar a Comissão até 30 de Abril de 1995.\n\n2. A notificação deve ser dirigida à Comissão das Comunidades Europeias, DG VI, rue de la Loi 200, 1049 Bruxelas, em conformidade com o modelo do anexo B do presente regulamento, incluindo, nomeadamente, o compromisso do ponto 5 do modelo.\n\n3. Os produtores que não tenham procedido atempadamente à notificação de uma determinada substância activa referida no n.º 1 só podem participar no programa referido no artigo 1.º em conjunto com outros notificantes dessa substância activa, ou, no caso referido no n.º 4, prestar assistência ao Estado-membro notificante, com o acordo dos notificantes originais.\n\n4. Quando, em relação a uma dada substância activa, nenhum produtor tiver procedido a uma notificação nos termos do n.º 2, a Comissão informará desse facto os Estados-membros através do comité. Os Estados-membros podem notificar o seu interesse na inclusão da substância activa em causa no anexo I da directiva, utilizando o modelo do anexo B do presente regulamento. A notificação deve ser enviada à Comissão tão rapidamente quanto possível, o mais tardar seis meses após a data em que os Estados-membros tenham sido informados pela Comissão. Um Estado-membro que proceda a uma notificação assumirá os deveres de um produtor, em conformidade com os artigos 5.º a 8.º do presente regulamento.\n\n5. Nos casos em que nenhum produtor ou Estado-membro, de acordo com o processo atrás descrito, tenha notificado o seu interesse na inclusão de uma determinada substância activa no anexo I da directiva, pode ser tomada uma decisão de não inclusão dessa substância activa, em conformidade com o n.º 2, último parágrafo, do artigo 8.º da directiva."
+  },
+  "b56e4a32edf40343": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A Comissão, em conjunto com o comité, examinará as notificações referidas nos n.^os^ 2 e 4 do artigo 4.º.\n\n2. Na sequência do exame referido no n.º 1 e em conformidade com o processo do artigo 19.º da directiva, será decidido, através de um regulamento, o seguinte:\n\na) A lista de substâncias activas adoptadas para análise, tendo em vista a sua eventual inclusão no anexo I da directiva;\n\nb) A designação de um Estado-membro relator para cada substância activa incluída na lista referida na alínea a).\n\n3. Na lista referida na alínea a) do n.º 2, certas substâncias com estruturas ou propriedades químicas semelhantes podem ser agrupadas; se uma substância activa tiver sido notificada com diferentes composições que possam implicar propriedades toxicológicas ou ambientais distintas, estas podem ser incluídas separadamente na lista.\n\n4. A decisão referida no n.º 2 indicará, em relação a cada substância adoptada:\n\n— os nomes de todos os produtores que tenham procedido a uma notificação em conformidade com o n.º 1 do artigo 2.º, ou, se tal for o caso, os Estados-membros que tenham procedido a uma notificação em conformidade com o n.º 4 do artigo 4.º,\n\n— o nome do Estado-membro designado Estado-membro relator,\n\n— o prazo para apresentação dos processos referidos no artigo 6.º ao Estado-membro relator, estabelecendo, em geral, um período de 12 meses para a reunião da documentação e para a apresentação, por quaisquer interessados directos, de informações de carácter técnico ou científico referentes aos efeitos potencialmente perigosos da substância ou dos seus resíduos para a saúde humana e/ou dos animais e/ou para o ambiente.\n\n4A. A partir do momento em que seja adoptado o regulamento referido no n.º 2 quando o Estado-membro tiver a intenção de retirar do mercado ou de restringir severamente a utilização de um produto fitofarmacêutico que contenha uma das substâncias activas referidas no presente regulamento, com base em informações contidas nos processos referidos no artigo 6.ºou nos relatórios referidos no artigo 7.º, informará assim que possível a Comissão e os restantes Estados-membros do facto, indicando a motivação dessa sua intenção.\n\n5. Quando, durante o processo de análise referido nos artigos 6.º, 7.º e 8.º do presente regulamento, se tornar evidente a existência de um desequilíbrio no âmbito das responsabilidades assumidas pelos Estados-membros como relatores, pode ser decidido, em conformidade com o processo do artigo 19.º da directiva, designar outro Estado-membro para relator em relação a uma determinada substância.\n\nCaso tenha sido designado outro Estado-membro como relator, o Estado-membro relator inicial informará desse facto os notificantes interessados e transmitirá ao novo Estado-membro relator toda a correspondência e informações que tiver recebido na qualidade de Estado-membro relator para a substância activa em questão.\n\n6. Sempre que um notificante decida retirar a sua participação no programa de trabalho relativamente a uma substância activa, deve informar dessa sua decisão o Estado-membro relator, a Comissão e os demais notificantes para a substância em questão.\n\nSempre que um notificante decida, de comum acordo com outro produtor, que este passe a participar em seu lugar no programa de trabalho abrangido pelo presente regulamento, o notificante e esse outro produtor devem informar do facto o Estado-membro relator e a Comissão, através de uma declaração comum na qual afirmem concordar em que o novo produtor substitua o notificante inicial no cumprimento dos deveres de notificante, tal como definidos nos artigos 6.º a 8.º e garantam que os restantes notificantes para a substância em questão estão informados."
+  },
+  "6049aea70e73d1d0": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os notificantes mencionados no regulamento referido no artigo 5.º, devem, no prazo estabelecido no n.º 4, terceiro travessão, do artigo 5.º, enviar, individual ou colectivamente, à entidade pública designada do Estado-membro relator em relação a uma determinada substância activa:\n\na) O processo sucinto referido no n.º 2;\n\nb) O processo completo referido no n.º 3.\n\nOs notificantes também enviarão essas informações aos peritos referidos no n.º 2 do artigo 7.º e, se necessário, à autoridade competente de qualquer Estado-membro referido no artigo 3.º.\n\nNos casos em que, para uma determinada substância, o regulamento mencionado no n.º 4 do artigo 5.º se referir a diversas notificações, os notificantes em causa realizarão todos os esforços razoáveis para apresentarem colectivamente os processos referidos no primeiro parágrafo. Nos casos em que um processo não represente todos os notificantes interessados, deve referir os esforços efectuados e os motivos pelos quais alguns dos produtores não participaram no processo colectivo.\n\n2. Do processo sucinto deve fazer parte o seguinte:\n\na) Uma cópia da notificação; tratando-se de um pedido conjunto apresentado por vários produtores, uma cópia das notificações efectuadas em conformidade com o artigo 4.º e o nome da pessoa designada pelos produtores interessados como responsável pelo processo colectivo e pelo tratamento do processo, em conformidade com o presente regulamento;\n\nb) As condições de utilização indicadas para efeitos de inclusão da substância activa no anexo I da directiva.\n\nc) Para cada ponto do anexo II da directiva, os resumos e resultados de ensaios disponíveis e o nome da pessoa ou entidade que efectuou esses ensaios; idêntica informação para cada ponto do anexo III da directiva relevante para avaliação dos critérios referidos no artigo 5.º da directiva para uma ou mais preparações representativas das condições de utilização referidas na alínea b);\n\nd) Nos casos em que algumas das informações referidas na alínea c) não estejam disponíveis:\n\n— em conformidade com as disposições introdutórias dos anexos II e III da directiva, as razões de carácter técnico ou científico que justifiquem não serem tais informações necessárias para a análise da substância activa segundo os critérios do artigo 5.º da directiva, ou\n\n— um compromisso do produtor ou produtores que apresentam o processo, nos termos do qual se comprometem a enviar ulteriormente as informações em falta; devem ser apresentados um calendário pormenorizado e documentos que demonstrem a possibilidade de cumprimento do compromisso assumido.\n\n3. O processo completo deve incluir os protocolos e os relatórios completos dos estudos efectuados, referentes às informações previstas no n.º 2, alínea c).\n\n4. Nos casos em que, para uma determinada substância activa, os processos referidos no n.º 1 não sejam enviados no prazo estabelecido no n.º 4 do artigo 5.º ou não satisfaçam claramente as condições definidas nos n.^os^ 2 e 3, o Estado-membro relator informará a Comissão, indicando as justificações apresentadas pelos notificantes.\n\n5. A Comissão, com base no relatório do Estado-membro relator referido no n.º 4, apresentará ao comité um projecto de decisão relativa à não inclusão da substância activa no anexo I, em conformidade com o do n.º 2, último parágrafo, do artigo 8.º da directiva, salvo se:\n\n— tiver sido concedido um novo prazo para apresentação de um processo que preencha as condições definidas nos n.^os^ 2 e 3; esse novo prazo só será concedido nos casos em que o atraso tenha sido comprovadamente causado pelos esforços realizados para apresentação de processos colectivos, pelo esforço adicional exigido ao(s) notificante(s) pela decisão de designar outro Estado-membro relator em conformidade com o n.º 5 do artigo 5.º ou por razões de força maior;\n\n— um determinado Estado-membro informar a Comissão do seu desejo de que a substância activa em questão seja incluída no anexo I da directiva e da sua disposição de assegurar a preparação dos processos referidos no primeiro travessão e de assumir os deveres de notificante, tal como definidos nos artigos 7.º e 8.º do presente regulamento."
+  },
+  "844ce8564032d8d1": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Relativamente a cada substância activa para que tenha sido designado relator, o Estado-membro deve:\n\na) Examinar os processos referidos nos n.^os^ 2 e 3 do artigo 6.º pela ordem em que tenham sido recebidos do ou dos notificantes em causa, bem como quaisquer das informações referidas no n.º 4, terceiro travessão, do artigo 5.º e outras informações disponíveis; se, para uma determinada substância activa, tiverem sido apresentados vários conjuntos de documentação, a ordem por que serão examinados será determinada pela última comunicação no âmbito do processo; [**►M1**](http://publications.europa.eu/resource/celex/31995R0491) todavia, a ordem pela qual os processos serão examinados não será afectada pela apresentação de processos pelos notificantes referidos no n.º 1.ºa do artigo 4.º;**◄**\n\nb) Imediatamente após a conclusão do exame de um processo, certificar-se de que os notificantes enviam o processo sucinto actualizado aos outros Estados-membros e à Comissão;\n\nc) Logo que possível, o mais tardar doze meses após a recepção de um processo, conforme referido nos n.^os^ 2 e 3 do artigo 6.º, enviar à Comissão um relatório da sua avaliação que compreenda uma recomendação no sentido de se:\n\n— incluir a substância activa no anexo I da directiva, indicando as condições dessa inclusão, ou\n\n— retirar a substância activa do mercado, ou\n\n— suspender a substância activa do mercado, ressalvando a possibilidade de se reconsiderar a sua inclusão no anexo I depois da apresentação dos resultados de ensaios adicionais ou de outras informações especificados no relatório, ou\n\n— adiar a decisão de eventual inclusão, enquanto se aguarda a apresentação dos resultados de ensaios adicionais ou de outras informações especificados no relatório;\n\nd) Em especial, incluir no relatório uma referência aos relatórios de ensaios ou estudos relativos a cada ponto do anexo II da directiva utilizados para a avaliação, sob forma de uma lista de relatórios de ensaios e estudos, incluindo o título, o autor ou autores, a data do estudo ou ensaio e a data de publicação, o método utilizado na realização dos ensaios ou estudos, o nome do detentor e qualquer pedido de protecção dos dados apresentado pelo detentor ou notificante.\n\n2. Logo que inicie o exame referido no n.º 1, o Estado-membro relator pode convidar os notificantes a melhorarem ou complementarem o processo. Além disso, a partir do momento em que esse exame tem início, o Estado-membro relator pode consultar peritos de outros Estados-membros ou solicitar informações técnicas ou científicas adicionais a outros Estados-membros, com o objectivo de apoiar a avaliação.\n\n3. Depois de receber o processo sucinto e o relatório referido no n.º 1, a Comissão deve apresentá-los ao comité para serem examinados.\n\nAntes de apresentar o processo e o relatório ao Comité fitossanitário permanente, a Comissão distribuirá o relatório do Estado-membro relator aos restantes Estados-membros para informação.\n\nO Estado-Membro relator facultará às partes interessadas que o solicitarem especificamente, ou manterá à disposição das mesmas para consulta:\n\n— as informações referidas no n.º 1, alínea d), com excepção dos elementos das mesmas que tenham sido considerados confidenciais em conformidade com o artigo 14.º da directiva,\n\n— o nome da substância activa,\n\n— o teor da substância activa pura no produto fabricado,\n\n— a lista de todos os dados necessários para a análise da eventual inclusão da substância activa no anexo I da directiva, constantes, por um lado, do relatório do relator e, por outro, na forma final, decorrente da consulta, por parte da Comissão, dos peritos referidos no parágrafo seguinte.\n\nAntes de o processo e o relatório serem enviados ao comité, pode ser organizada uma consulta de peritos dos Estados-membros e a Comissão pode consultar alguns ou todos os notificantes de substâncias activas especificadas no regulamento referido no n.º 2 do artigo 5.º em relação ao relatório ou a partes do relatório referentes à substância activa em causa.\n\n3.A Depois do exame referido no n.º 3, a Comissão, sem prejuízo de qualquer proposta que possa apresentar com vista à alteração do anexo da Directiva 79/117/CEE, apresentará ao comité:\n\na) Um projecto de directiva para incluir a substância activa no anexo I da directiva, indicando as condições apropriadas para essa inclusão, nomeadamente em termos de prazo;\n\nb) Um projecto de decisão dirigido aos Estado-membros para revogar as autorizações de produtos fitofarmacêuticos que contenham a substância activa, em conformidade com o n.º 2, quarto parágrafo, do artigo 8.º da directiva, através da não inclusão da substância no anexo I da directiva;\n\nc) Um projecto de decisão dirigido aos Estados-membros para suspender do mercado os produtos fitofarmacêuticos que contenham a substância activa, ressalvando a possibilidade de se reconsiderar a sua inclusão no anexo I da directiva depois da apresentação dos resultados de ensaios adicionais ou de informações suplementares, ou\n\nd) Um projecto de decisão para adiar a inclusão da substância activa no anexo I da directiva, na pendência da apresentação dos resultados de ensaios adicionais ou de informações suplementares.\n\n4. Contudo, nos casos em que, na sequência do exame referido no n.º 3, seja necessária a apresentação dos resultados de ensaios adicionais ou de outras informações, a Comissão fixará:\n\n— o prazo de apresentação desses resultados ou informações ao Estado-Membro relator e aos peritos designados pela Comissão em conformidade com o n.º 2, esta data-limite é fixada em 25 de Maio de 2002, embora para o metalaxil esse prazo seja, o mais tardar, 31 de Outubro de 2008, excepto se a Comissão estabelecer uma data-limite anterior para uma determinada substância activa, salvo para os resultados de estudos a longo prazo considerados necessários pelo Estado-Membro relator e pela Comissão na sequência do exame do processo e que não se preveja estarem totalmente concluídos no prazo estabelecido, na condição de as informações fornecidas incluírem provas de que os referidos estudos foram solicitados e os seus resultados serão apresentados, o mais tardar, em 25 de Maio de 2003. Em casos excepcionais, em que o Estado-Membro relator e a Comissão não tenham podido identificar tais estudos até 25 de Maio de 2001, pode ser estabelecida outra data-limite para a conclusão dos mesmos, desde que o notificante faculte ao Estado-Membro relator provas de que os referidos estudos foram solicitados nos três meses seguintes ao pedido de execução daqueles, bem como um protocolo e um relatório de acompanhamento dos estudos, até 25 de Maio de 2002;\n\n— o prazo de comunicação pelos notificantes em causa ao Estado-Membro relator e à Comissão do seu compromisso de apresentação dos resultados ou informações requeridos no prazo fixado no primeiro travessão. Todavia, no que diz respeito ao metalaxil, esse prazo é de um mês após a entrada em vigor do presente regulamento.\n\nSem prejuízo do artigo 7.º da directiva, não será aceite a apresentação de novos estudos. Mediante acordo da Comissão, o Estado-Membro relator pode solicitar aos notificantes a apresentação de novos dados necessários para clarificar o processo.\n\nO Estado-Membro relator informará de imediato a Comissão das substâncias activas relativamente às quais os resultados ou informações referidos no primeiro travessão não tenham sido apresentados no prazo estabelecido. Em conformidade com o n.º 2, último parágrafo, do artigo 8.º da directiva, a Comissão decidirá a não-inclusão das referidas substâncias activas no anexo I da directiva, especificando os motivos para tal. Os Estados-Membros revogarão até 25 de Julho de 2003 as autorizações dos produtos fitofarmacêuticos que contenham as substâncias activas em causa.\n\n5. A Comissão apresentará ao comité um projecto de decisão relativa à não inclusão no anexo I, em conformidade com o n.º 2, último parágrafo, do artigo 8.º da directiva, nos casos em que:\n\n— os notificantes em causa não tenham comunicado comprometerem-se a apresentar os resultados requeridos dentro do prazo referido no n.º 4, segundo travessão,\n\n— o Estado-membro relator tenha informado a Comissão de que os resultados referidos no n.º 4, primeiro travessão, não foram apresentados no prazo fixado.\n\n6. Quando a Comissão apresentar um projecto de directiva ou de decisão em conformidade com o n.º 3A ou um projecto de decisão em conformidade com o n.º 5, apresentará simultaneamente, as conclusões do exame do comité, sob a forma de um relatório de avaliação actualizado que deve ficar registado nas actas da reunião.\n\nCada Estado-membro colocará à disposição, mediante pedido específico, ou manterá disponível relativamente aos interessados directos o relatório de avaliação, com exclusão das partes que façam referência a informações confidenciais contidas nos processos, definidas em conformidade com o artigo 14.º da directiva."
+  },
+  "4148de46677e7db4": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Depois de receber os resultados dos ensaios adicionais ou outras informações, o Estado-membro relator:\n\na) Examinará esses resultados e informações em conjunto com os resultados incluídos no processo já apresentado para a substância em questão;\n\nb) Logo que concluído esse exame, deve assegurar que o resumo dos ensaios adicionais e os respectivos resultados ou outras informações sejam enviados pelo notificante aos outros Estados-membros e à Comissão;\n\nc) [**►M4**](http://publications.europa.eu/resource/celex/32000R2266)\n\n— no sentido da inclusão da substância activa no anexo I da directiva, especificando as condições de inclusão,\n\n— ou no sentido da não-inclusão da substância activa no anexo I da directiva, especificando os motivos para tal.\n\n2. O processo previsto no n.º 2 do artigo 7.º aplica-se aos exames referidos no n.º 1, alínea a).\n\nDepois de receber o resumo e o relatório referidos no n.º 1, a Comissão remetê-los-á, para serem analisados, ao Comité Fitossanitário Permanente.\n\nAntes de remeter o processo e o relatório ao Comité, a Comissão enviará o relatório do Estado-Membro relator aos outros Estados-Membros, a título informativo, e poderá organizar uma consulta a peritos de um ou mais Estados-Membros. A Comissão pode, igualmente, consultar alguns ou a totalidade dos notificantes de substâncias activas sobre o relatório ou partes deste referentes à substância activa em causa. O Estado-Membro relator facultará a assistência técnica e científica necessária durante tais consultas.\n\nSem prejuízo do artigo 7.º da directiva, não será aceite a apresentação de novos estudos. Após consulta da Comissão, o Estado-Membro relator pode solicitar aos notificantes a apresentação de novos dados necessários para clarificar o processo.\n\nUma vez concluída a análise referida no n.º 3 do artigo 7.º, e sem prejuízo das propostas que entenda apresentar com vista à alteração do anexo da Directiva 79/117/CEE, a Comissão apresentará ao comité:\n\na) Um projecto de directiva com vista à inclusão da substância activa no anexo I da directiva, do qual constarão, se for caso disso, as condições, incluindo prazos, de tal inclusão; ou\n\nb) Um projecto de decisão, relativo à não-inclusão da substância activa no anexo I da directiva, dirigido aos Estados-Membros, com vista ao cancelamento das autorizações dos produtos fitofarmacêuticos que contenham a substância activa em causa, em conformidade com o n.º 2, quarto parágrafo, do artigo 8.º da directiva, do qual constará uma explicação das razões da não-inclusão."
+  },
+  "bd5919da270d48ee": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nQuando, relativamente a uma substância do anexo A, a Comissão apresentar uma proposta no sentido da sua proibição total nos termos da Directiva 79/117/CEE, os prazos fixados no presente regulamento serão suspensos até à data em que seja tomada uma decisão com base nessa proposta. Quando o Conselho decidir a proibição total da inclusão da substância no anexo da Directiva 79/117/CEE, o processo definido no presente regulamento será interrompido."
+  },
+  "6186b907303609f2": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO presente regulamento entra em vigor em 1 de Fevereiro de 1993.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "3454f03196e349fb": {
+   "fragment_id": "LISTA DAS SUBSTÂNCIAS ABRANGIDAS PELA PRIMEIRA FASE DO PROGRAMA DE TRABALHO PREVISTO NO N.º 2, ÚLTIMO PARÁGRAFO, DO ARTIGO 8.º DA DIRECTIVA 91/414/CEE",
+   "type": "divisao",
+   "heading": "LISTA DAS SUBSTÂNCIAS ABRANGIDAS PELA PRIMEIRA FASE DO PROGRAMA DE TRABALHO PREVISTO NO N.º 2, ÚLTIMO PARÁGRAFO, DO ARTIGO 8.º DA DIRECTIVA 91/414/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA DAS SUBSTÂNCIAS ABRANGIDAS PELA PRIMEIRA FASE DO PROGRAMA DE TRABALHO PREVISTO NO N.º 2, ÚLTIMO PARÁGRAFO, DO ARTIGO 8.º DA DIRECTIVA 91/414/CEE"
+  },
+  "a4d41c94fefa521c": {
+   "fragment_id": "Designação",
+   "type": "divisao",
+   "heading": "Designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Designação\n\n1. Acetato\n\n2. Metamidofos\n\n3. Aldicarbe\n\n4. Amitraze\n\n5. Azinfos-etilo\n\n6. Azinfos-metilo\n\n7. Carbendazime\n\n8. Benomil\n\n9. Tiofanato-metilo\n\n10. Cloropirifos\n\n11. Cloropirifos-metilo\n\n12. Ciflutrina\n\n13. Beta-ciflutrina\n\n14. Cialotrina\n\n15. Lambda-cialotrina\n\n16. Cipermetrina\n\n17. Alfa-cipermetrina\n\n18. DNOC\n\n19. Delta-metrina\n\n20. Dinoterbe\n\n21. Endossulfão\n\n22. Fentião\n\n23. Fenvalerato\n\n24. Esfenvalerato\n\n25. Lindano\n\n26. Paratião\n\n27. Paratião-metilo\n\n28. Permetrina\n\n29. Benalaxil\n\n30. Metalaxil\n\n31. Clorotalonil\n\n32. Dinocape\n\n33. Fenarimol\n\n34. Acetato de fentina\n\n35. Hidróxido de fentina\n\n36. Flusilazol\n\n37. Imazalil\n\n38. Mancozebe\n\n39. Manebe\n\n40. Zinebe\n\n41. Metirame\n\n42. Propinebe\n\n43. Tirame\n\n44. Ferbame\n\n45. Zirame\n\n46. Propiconazol\n\n47. Pirazofos\n\n48. Quintozeno\n\n49. Tiabendazol\n\n50. Vinclozolina\n\n51. Procimidona\n\n52. Iprodiona\n\n53. Clozolinato\n\n54. Clorprofame\n\n55. Profame\n\n56. Daminozida\n\n57. Hidrazida maleica\n\n58. Tecnazeno\n\n59. Alacloro\n\n60. Amitrol (Aminotriazolo)\n\n61. Atrazina\n\n62. Simazina\n\n63. Bentazona\n\n64. Clortolurão\n\n65. 2,4-D\n\n66. 2,4-DB\n\n67. Etofumesato\n\n68. Fluroxipur\n\n69. Glifosato\n\n70. Ioxinil\n\n71. Bromoxinil\n\n72. Isoproturão\n\n73. MCPA\n\n74. MCPB\n\n75. Mecoprope\n\n76. Mecoprope-P\n\n77. Metssulfurão-metilo\n\n78. Tifensulfurão\n\n79. Triassulfurão\n\n80. Molinato\n\n81. Monolinurão\n\n82. Linurão\n\n83. Paraquato\n\n84. Diquato\n\n85. Pendimetalina\n\n86. Desmedifame\n\n87. Fenemedifame\n\n88. Propizamida\n\n89. Piridato\n\n90. Warfarina"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "dcc81eb4be73e5dc": {
+   "fragment_id": "MODELO",
+   "type": "divisao",
+   "heading": "MODELO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODELO"
+  },
+  "41cc6ade1c81cbf9": {
+   "fragment_id": "Notificação de uma substância activa em conformidade com o n.º 1 do artigo 4.º do Regulamento (CEE) n.º 3600/92",
+   "type": "divisao",
+   "heading": "Notificação de uma substância activa em conformidade com o n.º 1 do artigo 4.º do Regulamento (CEE) n.º 3600/92",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Notificação de uma substância activa em conformidade com o n.º 1 do artigo 4.º do Regulamento (CEE) n.º 3600/92"
+  },
+  "51cc04dd90f71243": {
+   "fragment_id": "1. Identificação do notificante",
+   "type": "divisao",
+   "heading": "1. Identificação do notificante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Identificação do notificante\n\n1.1. Fabricante da substância activa (nome, endereço, localização da fábrica).\n\n1.2. Empresa notificante (nome, endereço, etc. ), (se diferente de 1. 1). 1.2. a) Exercendo funções: — de único representante, designado pelo fabricante, — de importador, não designado pelo fabricante como seu único representante.\n\n1.3. Nome de pessoa (física) responsável pela notificação e pelo cumprimento de outras obrigações decorrentes do Regulamento (CEE) n.º 3600/92. 1.3.1. Endereço para envio de correspondência. 1.3.2. a) Telefone: b) Telex: c) Telecópia: 1.3.3. a) Contacto: b) Contacto alternativo:"
+  },
+  "776c2f54cfa9773e": {
+   "fragment_id": "2. Informações destinadas a facilitar a identificação",
+   "type": "divisao",
+   "heading": "2. Informações destinadas a facilitar a identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Informações destinadas a facilitar a identificação\n\n2.1. Nome vulgar proposto ou aceite pela ISO e seus sinónimos, especificando, se for caso disso, os sais ou ésteres produzidos pelo fabricante.\n\n2.2. Designação química (nomenclatura IUPAC).\n\n2.3. Código(s) de desenvolvimento do produto estabelecido(s) pelo fabricante.\n\n2.4. Números CAS, CIPAC e CEE (se disponíveis).\n\n2.5. Fórmulas empírica e estrutural; massa molecular.\n\n2.6. Especificação do grau de pureza da substância activa, em g/kg ou g/l, consoante os casos.\n\n2.7. Identificação de isómeros, impurezas e aditivos (por exemplo, estabilizadores), incluindo as respectivas fórmulas estruturais e as gamas de concentração possíveis, expressas em g/kg ou g/l."
+  },
+  "d99e1c161def66a0": {
+   "fragment_id": "3. Informações referentes às condições de utilização a garantir através da inclusão no anexo I e indicadas pelo requerente",
+   "type": "divisao",
+   "heading": "3. Informações referentes às condições de utilização a garantir através da inclusão no anexo I e indicadas pelo requerente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Informações referentes às condições de utilização a garantir através da inclusão no anexo I e indicadas pelo requerente\n\n3.1. Função (por exemplo, fungicida, herbicida, insecticida, repelente, regulador do crescimento).\n\n3.2. Utilização prevista (por exemplo, nos campos, estufas, armazenamento de produtos para a alimentação humana ou animal, jardins).\n\n3.3. Se for caso disso, quaisquer condições específicas sanitárias, agrícolas, fitossanitárias ou ambientais, em que a substância activa pode ou não ser utilizada.\n\n3.4. Organismos nocivos combatidos e culturas ou produtos protegidos ou tratados."
+  },
+  "7655fd31f74932a5": {
+   "fragment_id": "4. Informações referentes às utilizações autorizadas do conhecimento do notificante",
+   "type": "divisao",
+   "heading": "4. Informações referentes às utilizações autorizadas do conhecimento do notificante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Informações referentes às utilizações autorizadas do conhecimento do notificante\n\n4.1. Estados-membros onde a substância activa está registada.\n\n4.2. Países não comunitários onde a substância activa está registada.\n\n4.3. Utilizações registadas na Comunidade, incluindo todas as condições relevantes.\n\n4.4. Nome das formulações, tipo (código GIFAP/FAO) e teor de substância activa (em g/kg ou g/l)."
+  },
+  "257f41a630055006": {
+   "fragment_id": "5. Compromisso de apresentação de processos",
+   "type": "divisao",
+   "heading": "5. Compromisso de apresentação de processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Compromisso de apresentação de processos\n\nO notificante confirma a honestidade e correcção das informações prestadas e compromete-se a apresentar os processos indicados no artigo 6.º do Regulamento (CEE) n.º 3600/92 às autoridades competentes do Estado-membro relator designado, no período de 12 meses definido pela decisão da Comissão prevista no n.º 4 do artigo 5.º do presente regulamento. Sempre que a decisão mencionar vários notificantes da substância activa em questão, o notificante fará todos os esforços razoáveis para, em conjunto com os outros notificantes, apresentar um processo colectivo.\n\nAssinatura (da pessoa competente, em representação da empresa referida em 1. 1).\n\n---"
+  },
+  "8a500215f894a0ea": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c344a3bd-0905-4b2d-8154-21e24c91766c.0018.03/DOC_1#src.E0001)) JO n.º L 230 de 19.8.1991, p. 1; rectificada no JO n.º L 170 de 25.6.1992, p. 40.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/c344a3bd-0905-4b2d-8154-21e24c91766c.0018.03/DOC_1#src.E0002)) JO n.º L 33 de 8.2.1979, p. 36.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/c344a3bd-0905-4b2d-8154-21e24c91766c.0018.03/DOC_1#src.E0003)) JO n.º L 92 de 13.4.1991, p. 42."
+  }
+ }
+}

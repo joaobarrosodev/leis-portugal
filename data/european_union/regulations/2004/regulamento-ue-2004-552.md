@@ -36,6 +36,103 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-09-11'
+version_history:
+  file: regulamento-ue-2004-552.versoes.json
+  count: 3
+  source_lastmod: '2018-09-11'
+  versions:
+  - date: '2004-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-04'
+    amending: eu:celex:32009R1070:por
+    amending_title: REGULAMENTO (CE) N. o 1070/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Outubro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Especificações comunitárias
+    - Altera Artigo 9.º — Revisão dos anexos
+    - Altera Artigo 10.º — Disposições transitórias
+    - Altera Artigo 12.º — Entrada em vigor
+    - 'Altera Parte A: Requisitos gerais'
+    - 'Altera Parte B: Requisitos específicos'
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita CAPÍTULO II
+    - Adita REQUISITOS ESSENCIAIS, REGRAS DE EXECUÇÃO EM MATÉRIA DE INTEROPERABILIDADE E ESPECIFICAÇÕES COMUNITÁRIAS
+    - Adita CAPÍTULO III
+    - Adita VERIFICAÇÃO DA CONFORMIDADE
+    - Adita Artigo 6.º-A — Verificação alternativa do cumprimento
+    - Adita CAPÍTULO IV
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita ANEXO I
+    - Adita LISTAS DE SISTEMAS PARA SERVIÇOS DE NAVEGAÇÃO AÉREA
+    - Adita ANEXO II
+    - Adita REQUISITOS ESSENCIAIS
+    - Adita 1. Operação uniforme
+    - Adita 2. Apoio a novos conceitos operacionais
+    - Adita 3. Segurança
+    - Adita 4. Coordenação civil-militar
+    - Adita 5. Limitações ambientais
+    - Adita 6. Princípios que regem a arquitectura lógica dos sistemas
+    - Adita 7. Princípios que regem o fabrico dos sistemas
+    - Adita 1. Sistemas e procedimentos para a gestão do espaço aéreo
+    - Adita 1.1. Operação uniforme
+    - Adita 2. Sistemas e procedimentos para a gestão do fluxo de tráfego aéreo
+    - Adita 2.1. Operação uniforme
+    - Adita 3. Sistemas e procedimentos para os serviços de tráfego aéreo
+    - Adita 3.1. Sistemas de processamento dos dados de voo
+    - Adita 3.1.1. Operação uniforme
+    - Adita 3.1.2. Apoio a novos conceitos operacionais
+    - Adita 3.2. Sistemas de processamento dos dados de vigilância
+    - Adita 3.2.1. Operação uniforme
+    - Adita 3.2.2. Apoio a novos conceitos operacionais
+    - Adita 3.3. Sistemas de interface homem-máquina
+    - Adita 3.3.1. Operação uniforme
+  - date: '2018-09-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objectivo e âmbito de aplicação
+    - Suprime CAPÍTULO II
+    - Suprime REQUISITOS ESSENCIAIS, REGRAS DE EXECUÇÃO EM MATÉRIA DE INTEROPERABILIDADE E ESPECIFICAÇÕES COMUNITÁRIAS
+    - Suprime Artigo 2.º — Requisitos essenciais
+    - Suprime Artigo 3.º — Regras de execução em matéria de interoperabilidade
+    - Suprime Artigo 4.º — Especificações comunitárias
+    - Suprime CAPÍTULO III
+    - Suprime VERIFICAÇÃO DA CONFORMIDADE
+    - Suprime Artigo 5.º — Declaração CE de conformidade ou de adequação para utilização de componentes
+    - Suprime Artigo 6.º — Declaração CE de verificação de sistemas
+    - Suprime Artigo 6.º-A — Verificação alternativa do cumprimento
+    - Suprime Artigo 7.º — Salvaguardas
+    - Suprime Artigo 8.º — Organismos notificados
+    - Suprime CAPÍTULO IV
+    - Suprime DISPOSIÇÕES FINAIS
+    - Suprime Artigo 9.º — Revisão dos anexos
+    - Suprime Artigo 10.º — Disposições transitórias
+    - Suprime Artigo 11.º — Revogação
+    - Suprime Artigo 12.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime LISTAS DE SISTEMAS PARA SERVIÇOS DE NAVEGAÇÃO AÉREA
+    - Suprime ANEXO II
+    - Suprime REQUISITOS ESSENCIAIS
+    - 'Suprime Parte A: Requisitos gerais'
+    - Suprime 1. Operação uniforme
+    - Suprime 2. Apoio a novos conceitos operacionais
+    - Suprime 3. Segurança
+    - Suprime 4. Coordenação civil-militar
+    - Suprime 5. Limitações ambientais
+    - Suprime 6. Princípios que regem a arquitectura lógica dos sistemas
+    - Suprime 7. Princípios que regem o fabrico dos sistemas
+    - 'Suprime Parte B: Requisitos específicos'
+    - Suprime 1. Sistemas e procedimentos para a gestão do espaço aéreo
+    - Suprime 1.1. Operação uniforme
+    - Suprime 2. Sistemas e procedimentos para a gestão do fluxo de tráfego aéreo
+    - Suprime 2.1. Operação uniforme
+    - Suprime 3. Sistemas e procedimentos para os serviços de tráfego aéreo
 identifiers:
   celex: 32004R0552
   eli: http://data.europa.eu/eli/reg/2004/552/oj
@@ -50,7 +147,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/bd42c03c-4275-4718-b84b-3202795ba7da.0010
   content_url: http://publications.europa.eu/resource/cellar/5a02f7a9-71c2-4a85-82bf-190e4d1b5d7d.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0552-20180911
-  retrieved_at: '2026-10-22T02:40:37Z'
+  retrieved_at: '2026-10-22T14:57:37Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-30T03:36:17.585+01:00'
 integrity:
@@ -59,9 +156,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:37Z'
-  notes: Texto consolidado 02004R0552-20180911.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:37Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2004-552.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -174,16 +271,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:37Z'
+  checked_at: '2026-10-22T14:57:37Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02004R0552-20040420: versão indisponível (Sem expressão na língua por para CELEX 02004R0552-20040420.)'
   errors: []
 ---
 

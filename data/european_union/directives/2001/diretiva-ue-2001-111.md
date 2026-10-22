@@ -34,6 +34,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-11-18'
+version_history:
+  file: diretiva-ue-2001-111.versoes.json
+  count: 1
+  source_lastmod: '2013-11-18'
+  versions:
+  - date: '2013-11-18'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32001L0111
   eli: http://data.europa.eu/eli/dir/2001/111/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fd6ea92f-ef98-491e-b105-d8109f55857f.0010
   content_url: http://publications.europa.eu/resource/cellar/4eb3c839-4ad7-468e-8eec-b22125aa1ab5.0018.04/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0111-20131118
-  retrieved_at: '2026-10-22T02:47:23Z'
+  retrieved_at: '2026-10-22T14:50:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T23:49:18.585+01:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:23Z'
-  notes: Texto consolidado 02001L0111-20131118.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:26Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2001-111.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -140,29 +149,20 @@ relationships:
   source: null
 article_structure:
   article_count: 9
-  section_count: 20
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 21
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:23Z'
-  warnings: []
+  checked_at: '2026-10-22T14:50:26Z'
+  warnings:
+  - '02001L0111-20020112: versão indisponível (Sem expressão na língua por para CELEX 02001L0111-20020112.)'
   errors: []
 ---
 
 # Directiva 2001/111/CE do Conselho, de 20 de Dezembro de 2001
-
-> 2001L0111 — PT — 18.11.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R1021) — [REGULAMENTO (UE) N.º 1021/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R1021) — L 287 — 1 — 29.10.2013
-
-## DIRECTIVA 2001/111/CE DO CONSELHO
 
 de 20 de Dezembro de 2001
 

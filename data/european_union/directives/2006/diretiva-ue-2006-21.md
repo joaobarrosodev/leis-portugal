@@ -35,6 +35,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-08-07'
+version_history:
+  file: diretiva-ue-2006-21.versoes.json
+  count: 2
+  source_lastmod: '2009-08-07'
+  versions:
+  - date: '2006-04-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-07'
+    amending: eu:celex:32009R0596:por
+    amending_title: REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Adita ANEXO I
+    - Adita Política de prevenção de acidentes graves e informações a comunicar ao público interessado
+    - Adita 1. Política de prevenção de acidentes graves
+    - Adita 2. Informações a comunicar ao público interessado
+    - Adita ANEXO II
+    - Adita Caracterização dos resíduos
+    - Adita ANEXO III
+    - Adita Critérios de classificação das instalações de resíduos
+    - Adita DECLARAÇÃO DO PARLAMENTO EUROPEU, DO CONSELHO E DA COMISSÃO
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Âmbito de aplicação
 identifiers:
   celex: 32006L0021
   eli: http://data.europa.eu/eli/dir/2006/21/oj
@@ -49,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c370006a-063e-4dc7-9b05-52c37720740c.0017
   content_url: http://publications.europa.eu/resource/cellar/155b2a2a-1aa0-44d3-9348-d6427d513b3a.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0021-20090807
-  retrieved_at: '2026-10-22T02:41:28Z'
+  retrieved_at: '2026-10-22T15:01:39Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T01:20:54.289+01:00'
 integrity:
@@ -58,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:28Z'
-  notes: Texto consolidado 02006L0021-20090807.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:01:39Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2006-21.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -197,29 +250,20 @@ relationships:
   source: null
 article_structure:
   article_count: 27
-  section_count: 9
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 10
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:28Z'
-  warnings: []
+  checked_at: '2026-10-22T15:01:39Z'
+  warnings:
+  - '02006L0021-20060501: versão indisponível (Sem expressão na língua por para CELEX 02006L0021-20060501.)'
   errors: []
 ---
 
 # Directiva 2006/21/CE do Parlamento Europeu e do Conselho, de 15 de Março de 2006
-
-> 2006L0021 — PT — 07.08.2009 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0596) — [REGULAMENTO (CE) N.º 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0596) — L 188 — 14 — 18.7.2009
-
-## DIRECTIVA 2006/21/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de Março de 2006
 

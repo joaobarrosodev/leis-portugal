@@ -36,6 +36,123 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-09-02'
+version_history:
+  file: diretiva-ue-2007-46.versoes.json
+  count: 3
+  source_lastmod: '2020-09-02'
+  versions:
+  - date: '2007-10-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-09-01'
+    amending: eu:celex:32008R1060:por
+    amending_title: REGULAMENTO (CE) N. o 1060/2008 DA COMISSÃO de 7 de Outubro de 2008; REGULAMENTO (CE) N. o 78/2009 DO
+      PARLAMENTO EUROPEU E DO CONSELHO de 14 de Janeiro de 2009; M3; M4; REGULAMENTO (CE) N. o 595/2009 DO PARLAMENTO EUROPEU
+      E DO CONSELHO de 18 de Junho de 2009; REGULAMENTO (CE) N. o 661/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de Julho
+      de 2009; M7; M8; REGULAMENTO (UE) N. o 371/2010 DA COMISSÃO de 16 de Abril de 2010; REGULAMENTO (UE) N. o 183/2011 DA
+      COMISSÃO de 22 de Fevereiro de 2011; REGULAMENTO (UE) N. o 582/2011 DA COMISSÃO de 25 Maio de 2011; REGULAMENTO (UE)
+      N. o 678/2011 DA COMISSÃO de 14 de Julho de 2011; REGULAMENTO (UE) N. o 65/2012 DA COMISSÃO de 24 de janeiro de 2012;
+      REGULAMENTO (UE) N. o 1229/2012 DA COMISSÃO de 10 de dezembro de 2012; REGULAMENTO (UE) N. o 1230/2012 DA COMISSÃO de
+      12 de dezembro de 2012; REGULAMENTO (UE) N. o 143/2013 DA COMISSÃO de 19 de fevereiro de 2013; M17; REGULAMENTO (UE)
+      N. o 195/2013 DA COMISSÃO de 7 de março de 2013; DIRETIVA 2013/15/UE DO CONSELHO de 13 de maio de 2013; REGULAMENTO
+      (UE) N. o 136/2014 DA COMISSÃO de 11 de fevereiro de 2014; REGULAMENTO (UE) N. o 133/2014 DA COMISSÃO de 31 de janeiro
+      de 2014; REGULAMENTO (UE) N. o 214/2014 DA COMISSÃO de 25 de fevereiro de 2014; REGULAMENTO (UE) N. o 540/2014 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 16 de abril de 2014; REGULAMENTO (UE) N. o 1171/2014 DA COMISSÃO de 31 de outubro de 2014;
+      REGULAMENTO (UE) 2015/45 DA COMISSÃO de 14 de janeiro de 2015; REGULAMENTO (UE) 2015/166 DA COMISSÃO de 3 de fevereiro
+      de 2015; REGULAMENTO (UE) 2015/758 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de abril de 2015; REGULAMENTO (UE) 2017/1151
+      DA COMISSÃO de 1 de junho de 2017; REGULAMENTO (UE) 2017/1154 DA COMISSÃO de 7 de junho de 2017; REGULAMENTO (UE) 2017/1347
+      DA COMISSÃO de 13 de julho de 2017; REGULAMENTO (UE) 2017/2400 DA COMISSÃO de 12 de dezembro de 2017; REGULAMENTO (UE)
+      2018/1832 DA COMISSÃO de 5 de novembro de 2018; REGULAMENTO (UE) 2019/318 DA COMISSÃO de 19 de fevereiro de 2019; REGULAMENTO
+      (UE) 2019/543 DA COMISSÃO de 3 de abril de 2019; M35
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Procedimento a seguir para a homologação CE de veículos
+    - Altera Artigo 24.º — Homologações individuais
+    - Altera Artigo 51.º — Destinatários
+    - Altera Notas
+    - Adita LISTA DE ANEXOS
+    - Adita ANEXO I
+    - Adita LISTA COMPLETA DE INFORMAÇÕES PARA EFEITOS DE HOMOLOGAÇÃO CE DE VEÍCULOS, COMPONENTES OU UNIDADES TÉCNICAS ([^5^](http://publications.europa.eu/resource/cellar/fb9a39fc-ec62-11ea-b3c6-01aa75ed71a1.0002.02/DOC_1#E0005))
+    - Adita 0. GENERALIDADES
+    - Adita 1. CARACTERÍSTICAS GERAIS DE CONSTRUÇÃO
+    - Adita 2. MASSAS E DIMENSÕES ([^11^](http://publications.europa.eu/resource/cellar/fb9a39fc-ec62-11ea-b3c6-01aa75ed71a1.0002.02/DOC_1#E0011))
+      ([^12^](http://publications.europa.eu/resource/cellar/fb9a39fc-ec62-11ea-b3c6-01aa75ed71a1.0002.02/DOC_1#E0012)) ([^13^](http://publications.europa.eu/resource/cellar/fb9a39fc-ec62-11ea-b3c6-01aa75ed71a1.0002.02/DOC_1#E0013))
+    - Adita 2.1. Distância(s) entre os eixos (em carga máxima) ([^14^](http://publications.europa.eu/resource/cellar/fb9a39fc-ec62-11ea-b3c6-01aa75ed71a1.0002.02/DOC_1#E0014))
+    - Adita 2.2. Cabeçote de engate
+    - Adita 2.3. Via(s) e largura(s) dos eixos
+    - Adita 2.4. Gama de dimensões (exteriores) do veículo
+    - Adita 3. CONVERSOR DE ENERGIA DE PROPULSÃO ([^34^](http://publications.europa.eu/resource/cellar/fb9a39fc-ec62-11ea-b3c6-01aa75ed71a1.0002.02/DOC_1#E0034))
+    - 'Adita 3.1. Fabricante do(s) conversor(es) da energia de propulsão: …'
+    - Adita 3.2. Motor de combustão interna
+    - Adita 3.2.1. Características
+    - Adita 3.2.2. Combustível
+    - Adita 3.2.3. Reservatório(s) de combustível
+    - Adita 3.2.4. Alimentação de combustível
+    - Adita 3.2.5. Sistema eléctrico
+    - Adita 3.2.6. Sistema de ignição (unicamente motores de ignição comandada)
+    - 'Adita 3.2.7. Sistema de arrefecimento: líquido/ar [(10)](http://publications.europa.eu/resource/cellar/fb9a39fc-ec62-11ea-b3c6-01aa75ed71a1.0002.02/DOC_1#E0010)'
+    - Adita 3.2.8. Sistema de admissão
+    - Adita 3.2.9. Sistema de escape
+    - Adita 3.2.11. Regulação das válvulas ou dados equivalentes
+    - Adita 3.2.12. Medidas tomadas contra a poluição do ar
+    - Adita 3.2.13. Opacidade dos fumos
+    - 'Adita 3.2.15. Sistema de alimentação a GPL: sim/não [(10)](http://publications.europa.eu/resource/cellar/fb9a39fc-ec62-11ea-b3c6-01aa75ed71a1.0002.02/DOC_1#E0010)
+      …'
+    - 'Adita 3.2.16. Sistema de alimentação a GN: sim/não [(10)](http://publications.europa.eu/resource/cellar/fb9a39fc-ec62-11ea-b3c6-01aa75ed71a1.0002.02/DOC_1#E0010)'
+    - Adita 3.2.17. Informação específica relativa a motores a gás e com duplo combustível para veículos pesados (em caso
+      de sistemas dispostos de forma diferente, fornecer informações correspondentes) (se aplicável)
+    - Adita 3.3. Máquina elétrica
+    - Adita 3.4. Combinação de conversores de energia de propulsão
+    - 'Adita 3.4.3. Comutador do modo operativo: com/sem [(10)](http://publications.europa.eu/resource/cellar/fb9a39fc-ec62-11ea-b3c6-01aa75ed71a1.0002.02/DOC_1#E0010)'
+    - 'Adita 3.4.4. Descrição do dispositivo de armazenamento de energia: (REESS, condensador, volante de inércia/gerador)'
+    - Adita 3.4.5. Máquinas elétricas (descrever cada tipo de máquina elétrica separadamente)
+  - date: '2020-09-02'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime OBRIGAÇÕES GERAIS
+    - Suprime Artigo 4.º — Obrigações dos Estados-Membros
+    - Suprime Artigo 5.º — Obrigações dos fabricantes
+    - Suprime CAPÍTULO III
+    - Suprime PROCEDIMENTOS DE HOMOLOGAÇÃO CE
+    - Suprime Artigo 6.º — Procedimento a seguir para a homologação CE de veículos
+    - Suprime Artigo 7.º — Procedimento a seguir para a homologação CE de sistemas, componentes ou unidades técnicas
+    - Suprime CAPÍTULO IV
+    - Suprime REALIZAÇÃO DOS PROCEDIMENTOS DE HOMOLOGAÇÃO CE
+    - Suprime Artigo 8.º — Disposições gerais
+    - Suprime Artigo 9.º — Disposições específicas aplicáveis aos veículos
+    - Suprime Artigo 10.º — Disposições específicas aplicáveis a sistemas, componentes ou unidades técnicas
+    - Suprime Artigo 11.º — Ensaios exigidos para a homologação CE
+    - Suprime Artigo 12.º — Disposições relativas à conformidade da produção
+    - Suprime CAPÍTULO V
+    - Suprime ALTERAÇÃO DAS HOMOLOGAÇÕES CE
+    - Suprime Artigo 13.º — Disposições gerais
+    - Suprime Artigo 14.º — Disposições específicas aplicáveis aos veículos
+    - Suprime Artigo 15.º — Disposições específicas aplicáveis a sistemas, componentes ou unidades técnicas
+    - Suprime Artigo 16.º — Emissão e notificação das alterações
+    - Suprime CAPÍTULO VI
+    - Suprime VALIDADE DA HOMOLOGAÇÃO CE DE VEÍCULOS
+    - Suprime Artigo 17.º — Caducidade
+    - Suprime CAPÍTULO VII
+    - Suprime CERTIFICADO DE CONFORMIDADE E MARCAÇÕES
+    - Suprime Artigo 18.º — Certificado de conformidade
+    - Suprime Artigo 19.º — Marca de homologação CE
+    - Suprime CAPÍTULO VIII
+    - Suprime NOVOS CONCEITOS OU TECNOLOGIAS INCOMPATÍVEIS COM AS DIRECTIVAS ESPECÍFICAS
+    - Suprime Artigo 20.º — Isenções relativas a novas tecnologias ou novos conceitos
+    - Suprime Artigo 21.º — Medidas necessárias
+    - Suprime CAPÍTULO IX
+    - Suprime VEÍCULOS PRODUZIDOS EM PEQUENAS SÉRIES
 identifiers:
   celex: 32007L0046
   eli: http://data.europa.eu/eli/dir/2007/46/oj
@@ -50,7 +167,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/540b8f36-b823-4895-b364-eab55ac0d1ce.0018
   content_url: http://publications.europa.eu/resource/cellar/b8e5f2ed-fe5e-11ea-b44f-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007L0046-20200902
-  retrieved_at: '2026-10-22T02:52:25Z'
+  retrieved_at: '2026-10-22T15:08:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T21:39:21.205+01:00'
 integrity:
@@ -59,9 +176,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:25Z'
-  notes: Texto consolidado 02007L0046-20200902.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:08:42Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2007-46.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -423,16 +540,38 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:25Z'
+  checked_at: '2026-10-22T15:08:42Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02007L0046-20090429: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20091124: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20100409: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20100429: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20110224: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20110804: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20120226: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20121231: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20130110: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20130319: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20140101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20140701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20141101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02007L0046-20150204: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02007L0046-20150224: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20160101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20160701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20170727: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20171101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20180118: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20180331: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20190424: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007L0046-20190901: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

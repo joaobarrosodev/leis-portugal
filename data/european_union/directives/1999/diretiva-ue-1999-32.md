@@ -34,6 +34,144 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-06-10'
+version_history:
+  file: diretiva-ue-1999-32.versoes.json
+  count: 7
+  source_lastmod: '2016-06-10'
+  versions:
+  - date: '1999-05-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-08-11'
+    amending: eu:celex:32003R1882:por
+    amending_title: M1; DIRECTIVA 2005/33/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de Julho de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivo e âmbito
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Teor máximo de enxofre do gasóleo
+    - Altera Artigo 6.º — Amostragens e análises
+    - Altera Artigo 13.º — Destinatários
+    - Adita Artigo 3.º
+    - Adita Artigo 4.ºA
+    - Adita Artigo 4.ºB
+    - Adita Artigo 4.ºC
+    - Adita Artigo 7.º
+    - Adita Artigo 9.º
+    - Adita ANEXO
+    - Adita NAVIOS GREGOS
+    - Adita Notas
+    - Suprime Artigo 3.º — Teor de enxofre máximo do fuelóleo pesado
+    - Suprime Artigo 7.º — Relatórios e revisão
+    - Suprime Artigo 9.º — Comité Consultivo
+  - date: '2009-04-20'
+    amending: eu:celex:32009R0219:por
+    amending_title: REGULAMENTO (CE) n. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º
+    - Altera Artigo 4.ºC
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Notas
+  - date: '2009-06-25'
+    amending: eu:celex:32009L0030:por
+    amending_title: DIRECTIVA 2009/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 23 de
+      Abril de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º
+    - Altera Artigo 4.ºB
+    - Altera Artigo 4.ºC
+    - Altera Artigo 6.º — Amostragens e análises
+    - Altera Notas
+  - date: '2010-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º — Teor máximo de enxofre do gasóleo
+    - Altera Artigo 4.ºC
+    - Altera Notas
+  - date: '2012-12-17'
+    amending: eu:celex:32012L0033:por
+    amending_title: DIRETIVA 2012/33/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de novembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivo e âmbito
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º — Teor máximo de enxofre do gasóleo
+    - Altera Artigo 4.ºA
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º — Sanções
+    - Altera Notas
+    - Adita Artigo 3.º-A — Teor máximo de enxofre do combustível naval
+    - Adita Teor de enxofre máximo dos combustíveis navais utilizados em mares territoriais, zonas económicas exclusivas e
+      zonas de controlo da poluição, dos Estados-Membros, incluindo zonas de controlo das emissões de SOx, e pelos navios
+      de passageiros que efetuam serviços regulares com partida ou destino em portos da União Europeia
+    - Adita Artigo 4.º-B — Teor máximo de enxofre dos combustíveis navais utilizados pelos navios atracados em portos da União
+    - Adita Artigo 4.º-C — Métodos de redução de emissões
+    - Adita Artigo 4.º-D — Aprovação de métodos de redução de emissões destinados a ser utilizados a bordo de navios que arvorem
+      pavilhão de um Estado-Membro
+    - Adita Artigo 4.º-E — Ensaios de novos métodos de redução de emissões
+    - Adita Artigo 4.º-F — Medidas financeiras
+    - Adita Artigo 6.º — Amostragem e análise
+    - Adita Artigo 9.º — Procedimento de comitologia
+    - Adita Artigo 9.º-A — Exercício da delegação
+    - Adita ANEXO I
+    - Adita LIMITES EQUIVALENTES DE EMISSÃO PARA OS MÉTODOS DE REDUÇÃO DE EMISSÕES REFERIDOS NO ARTIGO 4.º-C, N.º 2
+    - 'Adita Nota:'
+    - Adita ANEXO II
+    - Adita CRITÉRIOS DE UTILIZAÇÃO DOS MÉTODOS DE REDUÇÃO DE EMISSÕES REFERIDOS NO ARTIGO 4.º-C, N.º 3
+    - Suprime Artigo 4.ºB
+    - Suprime Artigo 4.ºC
+    - Suprime Artigo 6.º — Amostragens e análises
+    - Suprime Artigo 8.º — Alterações à Directiva 93/12/CEE
+    - Suprime Artigo 9.º
+    - Suprime ANEXO
+    - Suprime NAVIOS GREGOS
+  - date: '2016-06-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objectivo e âmbito
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º
+    - Suprime Artigo 3.º-A — Teor máximo de enxofre do combustível naval
+    - Suprime Artigo 4.º — Teor máximo de enxofre do gasóleo
+    - Suprime Artigo 4.ºA
+    - Suprime Teor de enxofre máximo dos combustíveis navais utilizados em mares territoriais, zonas económicas exclusivas
+      e zonas de controlo da poluição, dos Estados-Membros, incluindo zonas de controlo das emissões de SOx, e pelos navios
+      de passageiros que efetuam serviços regulares com partida ou destino em portos da União Europeia
+    - Suprime Artigo 4.º-B — Teor máximo de enxofre dos combustíveis navais utilizados pelos navios atracados em portos da
+      União
+    - Suprime Artigo 4.º-C — Métodos de redução de emissões
+    - Suprime Artigo 4.º-D — Aprovação de métodos de redução de emissões destinados a ser utilizados a bordo de navios que
+      arvorem pavilhão de um Estado-Membro
+    - Suprime Artigo 4.º-E — Ensaios de novos métodos de redução de emissões
+    - Suprime Artigo 4.º-F — Medidas financeiras
+    - Suprime Artigo 5.º — Alterações no abastecimento de combustíveis
+    - Suprime Artigo 6.º — Amostragem e análise
+    - Suprime Artigo 7.º
+    - Suprime Artigo 9.º — Procedimento de comitologia
+    - Suprime Artigo 9.º-A — Exercício da delegação
+    - Suprime Artigo 10.º — Transposição
+    - Suprime Artigo 11.º — Sanções
+    - Suprime Artigo 12.º — Entrada em vigor
+    - Suprime Artigo 13.º — Destinatários
+    - Suprime ANEXO I
+    - Suprime LIMITES EQUIVALENTES DE EMISSÃO PARA OS MÉTODOS DE REDUÇÃO DE EMISSÕES REFERIDOS NO ARTIGO 4.º-C, N.º 2
+    - 'Suprime Nota:'
+    - Suprime ANEXO II
+    - Suprime CRITÉRIOS DE UTILIZAÇÃO DOS MÉTODOS DE REDUÇÃO DE EMISSÕES REFERIDOS NO ARTIGO 4.º-C, N.º 3
+    - Suprime Notas
 identifiers:
   celex: 31999L0032
   eli: http://data.europa.eu/eli/dir/1999/32/oj
@@ -48,7 +186,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a093e44c-bf78-434b-92c7-d726dc5ad012.0011
   content_url: http://publications.europa.eu/resource/cellar/fc8d03f0-6a63-439d-8f39-b0186779160e.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0032-20160610
-  retrieved_at: '2026-10-22T02:39:33Z'
+  retrieved_at: '2026-10-22T14:47:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T19:29:16.916+01:00'
 integrity:
@@ -57,9 +195,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:33Z'
-  notes: Texto consolidado 01999L0032-20160610.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:44Z'
+  notes: 7 versão(ões); histórico completo em diretiva-ue-1999-32.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -194,16 +332,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:33Z'
+  checked_at: '2026-10-22T14:47:44Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01999L0032-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

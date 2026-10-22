@@ -34,6 +34,102 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-09-10'
+version_history:
+  file: regulamento-ue-1985-3820.versoes.json
+  count: 3
+  source_lastmod: '2009-09-10'
+  versions:
+  - date: '1985-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-09-10'
+    amending: eu:celex:32003L0059:por
+    amending_title: DIRECTIVA 2003/59/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Julho de 2003
+    changes:
+    - Altera preambulo
+    - Adita SECÇÃO I
+    - Adita Definições
+    - Adita Artigo 1.º
+    - Adita SECÇÃO II
+    - Adita Âmbito de aplicação
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita SECÇÃO III
+    - Adita Tripulações
+    - Adita Artigo 5.º
+    - Adita SECÇÃO IV
+    - Adita Período de condução
+    - Adita Artigo 6.º
+    - Adita SECÇÃO V
+    - Adita Interrupções e períodos de repouso
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita SECÇÃO VI
+    - Adita Proibição de certos tipos de remunerações
+    - Adita Artigo 10.º
+    - Adita SECÇÃO VII
+    - Adita Derrogações
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita SECÇÃO VIII
+    - Adita Controlo e sanções
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita SECÇÃO IX
+    - Adita Disposições finais
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Notas
+    - Suprime SECÇÃO I — Definições
+  - date: '2009-09-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime SECÇÃO I
+    - Suprime Definições
+    - Suprime Artigo 1.º
+    - Suprime SECÇÃO II
+    - Suprime Âmbito de aplicação
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime SECÇÃO III
+    - Suprime Tripulações
+    - Suprime Artigo 5.º
+    - Suprime SECÇÃO IV
+    - Suprime Período de condução
+    - Suprime Artigo 6.º
+    - Suprime SECÇÃO V
+    - Suprime Interrupções e períodos de repouso
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime SECÇÃO VI
+    - Suprime Proibição de certos tipos de remunerações
+    - Suprime Artigo 10.º
+    - Suprime SECÇÃO VII
+    - Suprime Derrogações
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime SECÇÃO VIII
+    - Suprime Controlo e sanções
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime SECÇÃO IX
+    - Suprime Disposições finais
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Notas
 identifiers:
   celex: 31985R3820
   eli: http://data.europa.eu/eli/reg/1985/3820/oj
@@ -48,7 +144,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b5c6d0d2-11ad-4024-a63a-8d232325a880.0011
   content_url: http://publications.europa.eu/resource/cellar/ae66acad-cf95-4f9f-980a-564f06a5809f.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01985R3820-20090910
-  retrieved_at: '2026-10-22T02:37:51Z'
+  retrieved_at: '2026-10-22T14:34:38Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T15:02:49.281+01:00'
 integrity:
@@ -57,9 +153,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:51Z'
-  notes: Texto consolidado 01985R3820-20090910.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:38Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1985-3820.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -247,16 +343,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:51Z'
+  checked_at: '2026-10-22T14:34:38Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01985R3820-19860929: versão indisponível (Sem expressão na língua por para CELEX 01985R3820-19860929.)'
   errors: []
 ---
 

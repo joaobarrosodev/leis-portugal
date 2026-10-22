@@ -35,6 +35,56 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2003-04-30'
+version_history:
+  file: diretiva-ue-1990-667.versoes.json
+  count: 2
+  source_lastmod: '2003-04-30'
+  versions:
+  - date: '1990-12-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-04-30'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I — DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1°.
+    - Suprime Artigo 2°.
+    - Suprime CAPÍTULO II — NORMAS PARA A TRANSFORMAÇÃO DE RESÍDUOS ANIMAIS E A COLOCAÇÃO NO MERCADO DOS PRODUTOS FINAIS
+    - Suprime Artigo 3°.
+    - Suprime Artigo 4°.
+    - Suprime Artigo 5°.
+    - Suprime capítulo I; — b)
+    - Suprime Artigo 6°.
+    - Suprime Artigo 7°. — Em casos especiais e sob o controlo veterinário das autoridades competentes, os Estados-membros
+      podem autorizar,
+    - Suprime Artigo 8°.
+    - Suprime CAPÍTULO III — CONTROLOS E INSPECÇÕES A EFECTUAR POR CADA ESTADO-MEMBRO NAS INSTALAÇÕES DE TRANSFORMAÇÃO DE
+      ALTO E BAIXO RISCO EM FUNCIONAMENTO NO SEU TERRITÓRIO
+    - Suprime Artigo 9°.
+    - Suprime Artigo 10°.
+    - Suprime Artigo 11°.
+    - Suprime CAPÍTULO IV
+    - Suprime Artigo 12°.
+    - Suprime Artigo 13°.
+    - Suprime Artigo 14°.
+    - Suprime CAPÍTULO V — DISPOSIÇÕES FINAIS
+    - Suprime Artigo 15°.
+    - Suprime Artigo 16°.
+    - Suprime Artigo 17°.
+    - Suprime Artigo 18°.
+    - Suprime Artigo 19°.
+    - Suprime Artigo 20°. — O Conselho, deliberando por maioria qualificada sob proposta da Comissão, aprovará, o mais tardar
+      até 31 de
+    - Suprime Artigo 21°.
+    - Suprime Artigo 22°. — Os Estados-membros são os destinatários da presente
+    - Suprime ANEXO I — EXIGÊNCIAS SANITÁRIAS PARA A RECOLHA E O TRANSPORTE DE RESÍDUOS ANIMAIS
+    - Suprime ANEXO II — EXIGÊNCIAS SANITÁRIAS PARA AS INSTALAÇÕES DE TRANSFORMAÇÃO DE RESÍDUOS ANIMAIS
+    - Suprime CAPÍTULO I — Condições exigidas para a aprovação das instalações de transformação de resíduos animais
+    - Suprime CAPÍTULO II — Higiene das operações efectuadas nas instalações de transformação de resíduos animais
+    - Suprime CAPÍTULO III — Exigências relativas aos produtos resultantes da transformação
 identifiers:
   celex: 31990L0667
   eli: http://data.europa.eu/eli/dir/1990/667/oj
@@ -49,7 +99,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e89bc3e2-aca9-40a1-8cee-1d06d6d368a3.0011
   content_url: http://publications.europa.eu/resource/cellar/9e4c0a93-63bf-4988-9e84-eabdf539648c.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0667-20030430
-  retrieved_at: '2026-10-22T02:38:53Z'
+  retrieved_at: '2026-10-22T14:37:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T03:05:40.313+01:00'
 integrity:
@@ -58,9 +108,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:53Z'
-  notes: Texto consolidado 01990L0667-20030430.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:37:13Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1990-667.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -165,16 +215,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:53Z'
+  checked_at: '2026-10-22T14:37:13Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01990L0667-19930106: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0667-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

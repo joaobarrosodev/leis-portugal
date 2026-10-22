@@ -1,0 +1,209 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31976L0464:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0464-20060324",
+ "dre_path": null,
+ "source_lastmod": "2006-03-24",
+ "versions": [
+  {
+   "date": "1976-05-18",
+   "future": false,
+   "celex": "31976L0464",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70816acfdd9c3eb6",
+    "596bc312a6f82797",
+    "2e8cb35804abf5f9",
+    "52fac053fbbaaa50",
+    "d29fb108ddac8426",
+    "8091f93d4bb6900b",
+    "7431d5226dd14d49",
+    "59598f814883e8ca",
+    "d59cc245f16b02b5",
+    "6321ee0df699853d",
+    "b7ef8fe41ea69387",
+    "a0ec362985311881",
+    "28f4568c54657b3d",
+    "066f21485b7c913b",
+    "ba208376ada84e6a",
+    "0a3b7e38a74f5cb5",
+    "e1d182fd83183930"
+   ]
+  },
+  {
+   "date": "2006-03-24",
+   "future": false,
+   "celex": "01976L0464-20060324",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime ANEXO — Lista I de famílias e grupos de substâncias"
+   ],
+   "fragments": [
+    "009ee968ba7d7b7f"
+   ]
+  }
+ ],
+ "fragments": {
+  "70816acfdd9c3eb6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 76/464/CEE do Conselho, de 4 de Maio de 1976, relativa à poluição causada por determinadas substâncias perigosas lançadas no meio aquático da Comunidade** *Jornal Oficial nº L 129 de 18/05/1976 p. 0023 - 0029 Edição especial grega: Capítulo 15 Fascículo 1 p. 0138 Edição especial espanhola: Capítulo 15 Fascículo 1 p. 0165 Edição especial portuguesa: Capítulo 15 Fascículo 1 p. 0165 Edição especial finlandesa: Capítulo 15 Fascículo 2 p. 0046 Edição especial sueca: Capítulo 15 Fascículo 2 p. 0046*\n\nDIRECTIVA DO CONSELHO de 4 de Maio de 1976 relativa à poluição causada por determinadas substâncias perigosas lançadas o meio aquático da Comunidade\n\n(76/464/CEE)\n\nCONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100o 235o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2)\n\nConsiderando que se impõe urgentemente uma acção geral e simultânea por parte dos Estados-membros, com vista à protecção do meio aquático da Comunidade contra a poluição, nomeadamente contra a poluição causada por determinadas substâncias persistentes, tóxicas e bioacumuláveis;\n\nConsiderando que várias convenções ou projectos de convenção, entre os quais a Convenção sobre a Prevenção da Poluição Marinha de Origem Telúrica, o projecto de convenção para a protecção do Reno contra a poluição química e o projecto de convenção europeia para a protecção dos cursos de água internacionais contra a poluição, têm por fim proteger os cursos de água internacionais e o meio marinho contra a poluição; que é importante assegurar a aplicação harmoniosa dessas convenções;\n\nConsiderando que uma disparidade entre as disposições já aplicáveis ou em preparação nos diversos Estados-membros relativas à descarga de determinadas substâncias perigosas no meio aquático pode criar condições de concorrência desiguais e ter, por isso, uma incidência directa no funcionamento do mercado comum; que é conveniente, pois, proceder, nesse domínio, à aproximação das legislações prevista no artigo 100o do Tratado;\n\nConsiderando que se afigura necessário conjugar essa aproximação das legislações com uma acção por parte da Comunidade que tenha em vista realizar, mediante uma regulamentação mais vasta, um dos objectivos da Comunidade no âmbito da protecção do ambiente e da melhoria da qualidade de vida; que é conveniente, portanto, prever determinadas disposições específicas; que, não tendo sido previstos no Tratado os poderes de acção necessários para o efeito, é conveniente recorrer ao artigo 235o do Tratado;\n\nConsiderando que o programa de acção das Comunidades Europeias em matéria de ambiente (3) prevê um certo número de medidas para proteger as água doces e marinhas contra determinados poluentes;\n\nConsiderando que, para assegurar uma protecção eficaz do meio aquático da Comunidade, é necessário estabelecer uma primeira lista - dita Lista I -, que inclua determinadas substâncias individuais cuja escolha deve ser feita principalmente com base na sua toxicidade, persistência e bioacumulação, com excepção das que são biologicamente inofensivas ou que se transformam rapidamente em substâncias biologicamente inofensivas, assim como uma segunda lista - Lista II -, que inclua substâncias que têm um efeito prejudicial sobre o meio aquático, efeito esse que pode, todavia, ser limitado a uma determinada zona e que depende das características das águas de recepção e da sua localização; que qualquer descarga dessas substâncias deve estar submetida a uma autorização prévia que fixe as normas de emissão;\n\nConsiderando que deve ser eliminada a poluição causada pela descarga das diversas substâncias perigosas enunciadas na Lista I; que o Conselho deve, em prazos determinados, fixar, sob proposta da Comissão, os valores limite que as normas de emissão não devem ultrapassar, os métodos de medição e os prazos a respeitar pelos autores das descargas actuais;\n\nConsiderando que os Estados-membros devem aplicar esses valores-limite, com excepção dos casos em que o Estado-membro pode provar à Comissão, segundo um processo de fiscalização estabelecido pelo Conselho, que os objectivos de qualidade fixados pelo Conselho, sob proposta da Comissão, foram atingidos e mantidos em permanência, na sequência de acções realizadas, entre outros, por esse Estado-membro, em toda a região geográfica eventualmente afectada pelas descargas;\n\nConsiderando que é necessário reduzir a poluição das águas causada pelas substâncias enunciadas na Lista II; que, para esse fim, os Estados-membros devem adoptar programas que incluam objectivos de qualidade para as águas e que respeitem as directivas do Conselho quando existam; que as normas de emissão aplicáveis às referidas substâncias devem ser calculadas em função desses objectivos de qualidade;\n\nConsiderando que é importante aplicar a presente directiva às descargas efectuadas nas águas subterrâneas, sob reserva de determinadas excepções e alterações, enquanto não for fixada uma regulamentação comunitária específica sobre a matéria;\n\nConsiderando que é importante que um ou vários Estados-membros possam estabelecer, individual ou conjuntamente, disposições mais severas do que as previstas na presente directiva;\n\nConsiderando que é importante elaborar um inventário das descargas de determinadas substâncias especialmente perigosas no meio aquático da Comunidade, a fim de se conhecer a sua origem;\n\nConsiderando que pode ser necessário rever e, eventualmente, completar as Listas I e II, tendo em conta a experiência adquirida, transferindo, se for caso disso, determinadas substâncias da Lista II para a Lista I,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "596bc312a6f82797": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Sob reserva do disposto no artigo 8o, a presente directiva aplica-se:\n\n- às águas interiores superficiais,\n\n- às águas de mar territoriais,\n\n- às águas interiores do litoral,\n\n- às águas subterrâneas.\n\n2. Na acepção da presente Directiva, entende-se por:\n\na) «Aguas interiores superficiais»: todas as águas doces superficiais estagnadas ou correntes, situadas no território de um ou vários Estados-membros;\n\nb) «Aguas interiores do litoral»: as águas que estão situadas aquém da linha de base que serve para medir a largura do mar territorial e que se estendem, nos casos dos cursos de água, até ao limite das águas doces;\n\nc) «Limite das águas doces»: o local do curso de água onde, na maré baixa e em período de fraco caudal de água doce, o grau de salinidade aumenta sensivelmente em consequência da presença de água do mar;\n\nd) «Descarga»: introdução nas águas referidas no no 1 das substâncias enunciadas na Lista I ou na Lista II do anexo, com excepção:\n\n- das descargas de lodos de dragagem,\n\n- das descargas operacionais nas águas de mar territoriais, efectuadas a partir de navios,\n\n- da imersão de resíduos nas águas de mar territoriais, efectuada a partir de navios;\n\ne) «Poluição»: a descarga de substâncias ou de energia efectuada pelo homem no meio aquático, directa ou indirectamente, que tenha consequências de natureza a pôr em perigo a saúde humana, a prejudicar os recursos vivos, o sistema ecológico aquático e as actividades recreativas ou a dificultar outras utilizações legítimas das águas."
+  },
+  "2e8cb35804abf5f9": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros tomarão as medidas adequadas para eliminar a poluição das águas mencionadas no artigo 1o por substâncias perigosas incluídas nas famílias ou grupos de substâncias enunciados na Lista I do anexo, assim como para reduzir a poluição das referidas águas pelas substâncias perigosas incluídas nas famílias e grupos de substâncias enunciados na Lista II do anexo, nos termos da presente Directiva, cujas disposições constituem apenas um primeiro passo para atingir esse objectivo."
+  },
+  "52fac053fbbaaa50": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nQuanto às substâncias pertencentes às famílias e grupos de substâncias enumerados na Lista I, a seguir denominadas «substâncias constante da Lista I»:\n\n1. Qualquer descarga nas águas mencionadas no artigo 1o e susceptível de conter uma dessas substâncias será submetida a uma autorização prévia concedida pela autoridade competente do Estado-membro em causa.\n\n2. A autorização fixará normas de emissão para as descargas dessas substâncias nas águas mencionadas no artigo 1o e, quando for necessário para efeitos da aplicação da presente Directiva, para as descargas dessas substâncias nos esgotos.\n\n3. No que se refere às descargas actuais dessas substâncias nas águas mencionadas no artigo 1o, os autores das descargas devem respeitar, no prazo fixado pela autorização, as condições nela previstas. Esse prazo não pode exceder os limites fixados nos termos do no 4 do artigo 6o.\n\n4. A autorização só pode ser concedida por um período limitado. Pode ser renovada, tendo em conta modificações eventuais dos valores-limite referidos no artigo 6o."
+  },
+  "d29fb108ddac8426": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Os Estados-membros aplicarão um regime de emissão zero às descargas das substâncias enunciadas da Lista I, efectuadas nas águas subterrâneas.\n\n2. Os Estados-membros aplicarão às águas subterrâneas as disposições da presente directiva relativas às substâncias pertencentes às famílias e grupos de substâncias constantes na Lista II, a seguir denominadas «substâncias constantes da Lista II».\n\n3. Os nos 1 e 2 não se aplicarão aos efluentes domésticos, nem às injecções efectuadas nas camadas profundas, salgadas e inutilizáveis.\n\n4. Deixarão de ser aplicáveis as disposições da presente directiva relativas às águas subterrâneas quando for aplicada uma directiva específica relativa às águas subterrâneas."
+  },
+  "8091f93d4bb6900b": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. As normas de emissão fixadas pelas autorizações concedidas nos termos do artigo 3o, fixarão:\n\na) A concentração máxima de uma substância admissível nas descargas. No caso de diluição, o valor-limite previsto no no 1, alínea a), do artigo 6o, deve ser dividido pelo factor de diluição;\n\nb) A quantidade máxima de uma substância admissível nas descargas durante um ou vários períodos determinados. Se necessário, essa quantidade máxima pode, ainda, ser expressa em unidade de peso do poluente por unidade de elemento característico da actividade poluente (por exemplo, unidade de peso por matéria-prima ou por unidade de produto).\n\n2. Para cada autorização, a autoridade competente do Estado-membro em causa pode fixar, se necessário, normas de emissão mais severas do que as resultantes da aplicação dos valores-limite fixados pelo Conselho nos termos do artigo 6o, designadamente tendo em conta a toxicidade, a persistência e a bioacumulação da substância em questão no meio no qual a descarga é efectuada.\n\n3. A autorização será recusada se o autor da descarga declarar que não lhe é possível respeitar as normas de emissão impostas ou se a autoridade competente do Estado-membro em causa verificar essa impossibilidade.\n\n4. Se as normas de emissão não forem respeitadas, a autoridade competente do Estado-membro em causa tomará todas as medidas necessárias para que as condições da autorização sejam cumpridas e, se necessário, para que a descarga seja proíbida."
+  },
+  "7431d5226dd14d49": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. O Conselho, deliberando sob proposta da Comissão, fixará, para as diversas substâncias perigosas incluídas nas famílias e grupos de subtâncias constantes da Lista I, os valores-limite que as normas de emissão não devem ultrapassar. Esses valores-limite serão definidos:\n\na) Pela concentração máxima de uma substância admissível nas descargas e,\n\nb) Se for caso disso, por quantidade máxima dessa substância, expressa em unidade de peso do poluente por unidade de elemento característico da actividade poluente (por exemplo, unidade de peso por matéria-prima ou por unidade de produto).\n\nSe for caso disso, os valores-limite aplicáveis aos efluentes industriais serão fixados por sector e por tipo de produto.\n\nOs valores-limite aplicáveis às substâncias constantes da Lista I serão fixados com base:\n\n- na toxicidade - na persistência,\n\n- na bioacumulação,\n\ntendo em conta os melhores meios técnicos disponíveis.\n\n2. O Conselho, deliberando sob proposta da Comissão, fixará os objectivos de qualidade para as substâncias constantes da Lista I.\n\nEsses objectivos serão fixados principalmente em função da toxicidade, persistência e acumulação dessas substâncias nos organismos vivos e nos sedimentos, tal como resultam dos dados científicos concludentes mais recentes, tendo em conta as diferenças que existem entre as características das águas do mar e as das águas doces.\n\n3. Os valores-limite fixados nos termos do no 1 aplicar-se-ao, excepto nos casos em que um Estado-membro puder provar à Comissão, segundo um processo de fiscalização estabelecido pelo Conselho, deliberando sob proposta da Comissão, que os objectivos de qualidade fixados nos termos do no 2, ou os objectivos de qualidade mais rigorosos estabelecidos pela Comunidade, foram atingidos e mantidos em permanência, na sequência da acção empreendida, entre outros, por esse Estado-membro em toda a região geográfica eventualmente afectada por essas descargas.\n\nA Comissão apresentará relatório ao Conselho acerca dos casos em que ela aceita o recurso ao método dos objectivos de qualidade. De cinco em cinco anos, o Conselho examinará de novo os casos de aplicação do referido método, com base numa proposta da Comissão, nos termos do artigo 148o do Tratado.\n\n4. Para as substâncias incluídas nas famílias e grupos de substâncias referidos no no 1, o Conselho fixará, de acordo com o artigo 12o, os limites dos prazos previstos no ponto 3, do artigo 3o, em função das características específicas dos sectores industriais em causa e, se for caso disso, dos tipos de produtos."
+  },
+  "59598f814883e8ca": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. A fim de reduzir a poluição das águas referidas no artigo 1o por substâncias constantes da Lista II, os Estados-membros estabelecem programas para cuja execução aplicam designadamente os meios referidos nos nos 2 e 3.\n\n2. Qualquer descarga efectuada nas águas referidas no artigo 1o e susceptível de conter uma das substâncias constantes da Lista II fica sujeita a uma autorização prévia, concedida pela autoridade competente do Estado-membro em causa, que fixará as normas de emissão. Estas são calculadas em função dos objectivos de qualidade estabelecidos nos termos do no 3.\n\n3. Os programas referidos no no 1 incluirão objectivos de qualidade para as águas, estabelecidos segundo as directivas do Conselho quando existam.\n\n4. Os programas podem igualmente incluir disposições específicas relativas à composição e à utilização de substâncias ou grupos de substâncias assim como de produtos e terão em conta os últimos progressos técnicos economicamente viáveis.\n\n5. Os programas fixarão os prazos da sua própria execução.\n\n6. Os programas e os resultados da respectiva aplicação serão comunicados à Comissão de forma sucinta.\n\n7. A Comissão organizará, regularmente, com os Estados-membros, uma confrontação dos programas com vista a assegurar uma aplicação suficientemente harmoniosa e, se julgar necessário, apresentará ao Conselho, para esse efeito, propostas sobre a matéria."
+  },
+  "d59cc245f16b02b5": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros tomarão todas as medidas adequadas para aplicar as medidas que tenham adoptado nos termos da presente directiva, de uma forma que não aumente a poluição das águas que não estão abrangidas pelo artigo 1o. Proíbem, além disso, qualquer acto que tenha como objectivo ou como efeito contornar as disposições da presente directiva."
+  },
+  "6321ee0df699853d": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nA aplicação das medidas tomadas nos termos da presente directiva não pode em caso algum ter como efeito permitir o aumento directo ou indirecto da poluição das águas referidas no artigo 1o."
+  },
+  "b7ef8fe41ea69387": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nUm ou vários Estados-membros podem, se for caso disso, fixar individual ou conjuntamente medidas mais severas do que as previstas na presente Directiva."
+  },
+  "a0ec362985311881": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nA autoridade competente elabora um inventário das descargas efectuadas nas águas referidas no artigo 1o que são susceptíveis de conter substâncias constantes da Lista I e às quais são aplicáveis normas de emissão."
+  },
+  "28f4568c54657b3d": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. O Conselho, deliberando por unanimidade, pronunciar-se-á no prazo de nove meses sobre qualquer proposta da Comissão feita nos termos do artigo 6o, assim como sobre as propostas relativas aos métodos de medição aplicáveis.\n\nSerão apresentadas pela Comissão, no prazo máximo de dois anos após notificação da presente Directiva, propostas referentes a uma primeira série de substâncias assim como aos métodos de medição aplicáveis e aos prazos previstos no no 4 do artigo 6o.\n\n2. A Comissão transmitirá, se possível no prazo de vinte e sete meses após a notificação da presente directiva, as primeiras propostas feitas nos termos do no 7, do artigo 7o. O Conselho, deliberando por unanimidade, pronunciar-se-á no prazo de nove meses."
+  },
+  "066f21485b7c913b": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. Para efeitos de aplicação da presente directiva, os Estados-membros fornecerão à Comissão, a seu pedido, caso a caso, todas as informações necessárias e, designadamente:\n\n- pormenores sobre as autorizações concedidas nos termos do artigo 3o e do no 2 do artigo 7o,\n\n- os resultados do inventário previsto no artigo 11o,\n\n- os resultados da vigilância efectuada pela rede nacional,\n\n- informações complementares referentes aos programas previstos no artigo 7o.\n\n2. As informações recolhidas nos termos do presente artigo só podem ser utilizadas para o fim para o qual foram pedidas.\n\n3. A Comissão e as autoridades competentes dos Estados-membros, assim como os respectivos funcionários e outros agentes, não podem divulgar as informações que recolheram nos termos da presente directiva e que, devido à sua natureza, estão abrangidas pelo segredo profissional.\n\n4. O disposto nos nos 2 e 3 não obsta à publicação de informações gerais ou de estudos que não incluam indicações individuais sobre as empresas ou associações de empresas."
+  },
+  "ba208376ada84e6a": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nO Conselho, deliberando sob proposta da Comissão, que actua por iniciativa própria ou a pedido de um Estado-membro, revê e, se necessário, completa, as Listas I e II, tendo em conta a experiência adquirida, transferindo, se for caso disso, determinadas substâncias da Lista II para a Lista I."
+  },
+  "0a3b7e38a74f5cb5": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nOs Estados-membros são destinatários da presente Directiva.\n\nFeito em Bruxelas em 4 de Maio de 1976.\n\nPelo Conselho\n\nO Presidente\n\nG. THORN\n\n(1) JO no C 5 de 8. 1. 1975, p. 62.(2) JO no C 108 de 15. 5. 1975, p. 76.(3) JO no C 112 de 20. 12. 1973, p. 1."
+  },
+  "e1d182fd83183930": {
+   "fragment_id": "ANEXO — Lista I de famílias e grupos de substâncias",
+   "type": "divisao",
+   "heading": "ANEXO — Lista I de famílias e grupos de substâncias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Lista I de famílias e grupos de substâncias\n\nA Lista I inclui determinadas substâncias individuais que fazem parte das famílias e grupos de substâncias a seguir indicados, a escolher principalmente com base na toxicidade, persistência e bioacumulação, com excepção das que são biologicamente inofensivas ou que se transformam rapidamente em substâncias biologicamente inofensivas:\n\n1. Compostos orgânicos de halogénio e substâncias que podem produzir tais compostos no meio aquático\n\n2. Compostos orgânicos de fósforo\n\n3. Compostos orgânicos de estanho\n\n4. Substâncias em relação às quais se provou que possuem um poder cancerígeno no meio aquático ou por intermédio deste (4)\n\n5. Mercúrio e compostos do mercúrio\n\n6. Cádmio e compostos do cádmio\n\n7. Óleos minerais persistentes e hidrocarbonetos de origem petrolífera persistentes\n\ne, no que se refere à aplicação dos artigos 2o, 8o, 9o e 14o da presente Directiva:\n\n8. Matérias sintéticas persistentes que podem flutuar, ficar em suspensão ou afundar-se e que podem prejudicar qualquer utilização das águas.\n\nLista II de famílias e grupos de substâncias\n\nA Lista II inclui:\n\n- as substâncias que fazem parte das famílias e grupos de substâncias constantes da Lista I e para as quais os valores-limite referidos no artigo 6o da directiva não foram fixados,\n\n- determinadas substâncias individuais e determinadas categorias de substâncias que fazem parte das famílias e grupos de substâncias a seguir enumerados,\n\ne que têm um efeito prejudicial no meio aquático que pode todavia ser limitado a uma certa zona e que depende das características das águas de recepção e da respectiva localização.\n\nFamílias e grupos de substâncias referidos no segundo travessão:\n\n1. Metalóides e metais a seguir mencionados, assim como os respectivos compostos:\n\n1. Zinco\n\n2. Cobre\n\n3. Níquel\n\n4. Crómio\n\n5. Chumbo\n\n6. Selénio\n\n7. Arsénico\n\n8. Antimónio\n\n9. Molibdeno\n\n10. Titânio\n\n11. Estanho\n\n12. Bário\n\n13. Berílio\n\n14. Boro\n\n15. Urânio\n\n16. Vanádio\n\n17. Cobalto\n\n18. Tálio\n\n19. Telúrio\n\n20. Prata.\n\n2. Biócidos\n\ne respectivos derivados que não figuram na Lista I.\n\n3. Substâncias que têm um efeito prejudicial no gosto e/ou no cheiro dos produtos para o consumo do homem derivados do meio aquático, assim como os compostos susceptíveis de produzir tais substâncias nas águas.\n\n4. Compostos orgânicos de silício tóxicos ou persistentes e substâncias que podem produzir tais compostos nas águas, com exclusão dos que são biologicamente inofensivos ou que se transformam rapidamente na água em substâncias inofensivas.\n\n5. Compostos inorgânicos de fósforo e fósforo elementar.\n\n6. Óleos minerais não persistentes e hidrocarbonetos de origem petrolífera não persistentes.\n\n7. Cianetos, Fluoretos.\n\n8. Substâncias que exercem uma influência desfavorável no balanço de oxigénio, designadamente:\n\nAmoníaco, Nítritos.\n\nDeclaração relativa ao artigo 8o\n\nOs Estados-membros comprometem-se a impor, para as descargas no alto mar de canalizações de águas usadas, exigências que não podem ser menos severas do que as previstas na presente Directiva.\n\n(4) Determinadas substâncias enunciadas na Lista II ficam incluídas na categoria 4, na medida em que têm um poder cancerígeno."
+  },
+  "009ee968ba7d7b7f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1976L0464 — PT — 24.03.2006 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31976L0464) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31976L0464) [de 4 de Maio de 1976](http://publications.europa.eu/resource/celex/31976L0464) [relativa à poluição causada por determinadas substâncias perigosas lançadas o meio aquático da Comunidade](http://publications.europa.eu/resource/celex/31976L0464) [(76/464/CEE)](http://publications.europa.eu/resource/celex/31976L0464) (JO L 129, 18.5.1976, p.23)\n\n**revogado por:**\n\n- [Directiva 2006/11/CE do Parlamento Europeu e do Conselho de 15 de Fevereiro de 2006](http://publications.europa.eu/resource/celex/32006L0011) — L 64 — 52 — 4.3.2006"
+  }
+ }
+}

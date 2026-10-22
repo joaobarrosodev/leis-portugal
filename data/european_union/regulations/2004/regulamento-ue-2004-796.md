@@ -36,6 +36,490 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-01-01'
+version_history:
+  file: regulamento-ue-2004-796.versoes.json
+  count: 13
+  source_lastmod: '2010-01-01'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-01'
+    amending: eu:celex:32005R0239:por
+    amending_title: REGULAMENTO (CE) N. o 239/2005 DA COMISSÃO de 11 de Fevereiro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2º — Definições
+    - Altera Artigo 3º — Manutenção das terras ocupadas por pastagens permanentes à escala do Estado-Membro
+    - Altera Artigo 4º — Manutenção das terras ocupadas por pastagens permanentes à escala do agricultor
+    - Altera Artigo 11º — Data de apresentação do pedido único
+    - Altera Artigo 13º — Requisitos especificamente aplicáveis ao pedido único
+    - Altera Artigo 14º — Regras gerais aplicáveis ao pedido único e declarações relativas a utilizações específicas das superfícies
+    - Altera Artigo 15º — Alterações aos pedidos únicos
+    - Altera Artigo 16º — Requisitos relativos aos pedidos de ajudas «animais»
+    - Altera Artigo 20º — Derrogações da data-limite de apresentação dos pedidos de ajudas, dos documentos comprovativos dos
+      contratos e das declarações
+    - Altera Artigo 21º — Apresentação tardia
+    - Altera Artigo 24º — Controlos cruzados
+    - Altera Artigo 26º — Taxa de controlo
+    - Altera Artigo 31º — Elementos dos controlos in loco relativos aos pedidos de ajudas às sementes
+    - Altera Artigo 33º — Verificação do teor de tetra-hidrocanabinol do cânhamo
+    - Altera Artigo 35º — Elementos dos controlos in loco
+    - Altera Artigo 37º — Medidas de controlo no que respeita ao prémio concedido após exportação
+    - Altera Artigo 48º — Relatórios dos controlos
+    - Altera Artigo 49º — Princípios gerais
+    - Altera Artigo 50º — Base de cálculo no que diz respeito às superfícies declaradas
+    - Altera Artigo 66º — Aplicação de reduções em caso de negligência
+    - Altera Artigo 71º — Cumulação de reduções
+    - Altera Artigo 78º — Chave de repartição
+    - Altera Artigo 81.º — Entrada em vigor
+    - Altera Notas
+    - Adita CAPÍTULO IA
+    - Adita PEDIDOS DE AJUDA REFERENTES A PAGAMENTOS PARA O LÚPULO APRESENTADOS POR AGRUPAMENTOS DE PRODUTORES RECONHECIDOS
+    - Adita Artigo 15.ºA — Pedidos de ajuda
+    - Adita Artigo 21.ºA — Apresentação tardia de pedidos de candidatura ao regime de pagamento único
+    - Adita Subsecção IIA
+    - Adita Controlos in loco de pedidos de ajuda referentes a pagamentos para o lúpulo apresentados por agrupamentos de produtores
+      reconhecidos
+    - Adita Artigo 33.ºA — Elementos dos controlos no local
+    - Adita Artigo 73.ºA — Recuperação de pagamentos indevidos
+    - Adita ANEXO I
+    - Adita MÉTODO COMUNITÁRIO PARA A DETERMINAÇÃO QUANTITATIVA DO Δ^9^-TETRA-HIDROCANABINOL DAS VARIEDADES DE CÂNHAMO
+    - Adita 1. Objecto e âmbito de aplicação
+    - Adita 1.1. Procedimento A
+    - Adita 1.2. Procedimento B
+    - Adita 2. Amostragem
+    - Adita 2.1. Colheita de amostras
+  - date: '2005-03-25'
+    amending: eu:celex:32005R0436:por
+    amending_title: REGULAMENTO (CE) N. o 436/2005 DA COMISSÃO de 17 de Março de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2º — Definições
+    - Altera Artigo 3º — Manutenção das terras ocupadas por pastagens permanentes à escala do Estado-Membro
+    - Altera Artigo 4º — Manutenção das terras ocupadas por pastagens permanentes à escala do agricultor
+    - Altera Artigo 13º — Requisitos especificamente aplicáveis ao pedido único
+    - Altera Artigo 15.ºA — Pedidos de ajuda
+    - Altera Artigo 20º — Derrogações da data-limite de apresentação dos pedidos de ajudas, dos documentos comprovativos dos
+      contratos e das declarações
+    - Altera Artigo 24º — Controlos cruzados
+    - Altera Artigo 71º — Cumulação de reduções
+    - Altera Artigo 78º — Chave de repartição
+    - Altera VARIEDADES DE CÂNHAMO DESTINADO À PRODUÇÃO DE FIBRAS ELEGÍVEIS PARA OS PAGAMENTOS DIRECTOS
+    - Altera Notas
+    - Suprime A) Variedades de cânhamo destinado à produção de fibras
+    - Suprime B) Variedades de cânhamo destinado à produção de fibras admitidas durante a campanha de 2004/2005
+  - date: '2006-01-06'
+    amending: eu:celex:32005R1954:por
+    amending_title: REGULAMENTO (CE) N. o 1954/2005 DA COMISSÃO de 29 de Novembro de 2005; REGULAMENTO (CE) N. o 2184/2005
+      DA COMISSÃO de 23 de Dezembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2º — Definições
+    - Altera Artigo 3º — Manutenção das terras ocupadas por pastagens permanentes à escala do Estado-Membro
+    - Altera Artigo 4º — Manutenção das terras ocupadas por pastagens permanentes à escala do agricultor
+    - Altera Artigo 12º — Conteúdo do pedido único
+    - Altera Artigo 13º — Requisitos especificamente aplicáveis ao pedido único
+    - Altera Artigo 14º — Regras gerais aplicáveis ao pedido único e declarações relativas a utilizações específicas das superfícies
+    - Altera Artigo 15.ºA — Pedidos de ajuda
+    - Altera Artigo 20º — Derrogações da data-limite de apresentação dos pedidos de ajudas, dos documentos comprovativos dos
+      contratos e das declarações
+    - Altera Artigo 24º — Controlos cruzados
+    - Altera Artigo 26º — Taxa de controlo
+    - Altera Artigo 27º — Selecção da amostra de controlo
+    - Altera Artigo 28º — Relatórios dos controlos
+    - Altera Artigo 30º — Determinação das superfícies
+    - Altera Artigo 44º — Taxa mínima de controlo
+    - Altera Artigo 50º — Base de cálculo no que diz respeito às superfícies declaradas
+    - Altera Artigo 51º — Reduções e exclusões nos casos de sobredeclaração
+    - Altera Artigo 64º — Prémio aos produtos lácteos e pagamentos complementares
+    - Altera Artigo 76º — Comunicações
+    - Altera Artigo 78º — Chave de repartição
+    - Altera Artigo 79º — Montante suplementar de ajuda
+    - Altera VARIEDADES DE CÂNHAMO DESTINADO À PRODUÇÃO DE FIBRAS ELEGÍVEIS PARA OS PAGAMENTOS DIRECTOS
+    - Altera Notas
+    - Adita Artigo 31.ºA — Controlos in loco a organizações interprofissionais aprovadas
+    - Adita Subsecção IIB
+    - Adita Controlos in loco relativos aos pedidos a título da ajuda ao tabaco
+    - Adita Artigo 33.ºB — Controlo das entregas
+    - Adita Artigo 33.ºC — Colocação sob controlo e controlo no estádio da primeira transformação e acondicionamento
+    - Adita Artigo 38.º — Disposições especiais relativas aos pagamentos complementares
+    - Adita Artigo 52º — Reduções por irregularidades no que respeita às dimensões das superfícies declaradas para o pagamento
+      da ajuda à batata para fécula, às sementes e ao tabaco
+    - Adita Artigo 54.ºA — Reduções e exclusões relativas aos pedidos de ajuda ao tabaco
+    - Adita Artigo 54.ºB — Reduções e exclusões relativas ao pagamento específico para o algodão
+    - Adita Artigo 63.º — Constatações relativas aos pagamentos complementares
+    - Adita Artigo 71.º — Cumulação de reduções
+    - Adita Artigo 71.º-A — Aplicação de reduções
+    - Adita Artigo 77.º — Base de cálculo da redução
+    - Suprime Artigo 38º — Disposições especiais relativas aos pagamentos complementares
+    - Suprime Artigo 52º — Reduções relativamente aos pedidos de ajudas à batata para fécula e às sementes
+    - Suprime Artigo 63º — Verificações relativas aos pagamentos complementares
+    - Suprime Artigo 71º — Cumulação de reduções
+  - date: '2006-08-01'
+    amending: eu:celex:32006R0263:por
+    amending_title: REGULAMENTO (CE) N. o 263/2006 DA COMISSÃO de 15 de Fevereiro de 2006; REGULAMENTO (CE) N. o 489/2006
+      DA COMISSÃO de 24 de Março de 2006; REGULAMENTO (CE) N. o 659/2006 DA COMISSÃO de 27 de Abril de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2º — Definições
+    - Altera Artigo 3º — Manutenção das terras ocupadas por pastagens permanentes à escala do Estado-Membro
+    - Altera Artigo 4º — Manutenção das terras ocupadas por pastagens permanentes à escala do agricultor
+    - Altera Artigo 6º — Identificação das parcelas agrícolas
+    - Altera Artigo 12º — Conteúdo do pedido único
+    - Altera Artigo 13º — Requisitos especificamente aplicáveis ao pedido único
+    - Altera Artigo 14º — Regras gerais aplicáveis ao pedido único e declarações relativas a utilizações específicas das superfícies
+    - Altera Artigo 15º — Alterações aos pedidos únicos
+    - Altera Artigo 15.ºA — Pedidos de ajuda
+    - Altera Artigo 16º — Requisitos relativos aos pedidos de ajudas «animais»
+    - Altera Artigo 20º — Derrogações da data-limite de apresentação dos pedidos de ajudas, dos documentos comprovativos dos
+      contratos e das declarações
+    - Altera Artigo 21.ºA — Apresentação tardia de pedidos de candidatura ao regime de pagamento único
+    - Altera Artigo 24º — Controlos cruzados
+    - Altera Artigo 26º — Taxa de controlo
+    - Altera Artigo 27º — Selecção da amostra de controlo
+    - Altera Artigo 32º — Teledetecção
+    - Altera Artigo 36º — Medidas de controlo no que respeita aos controlos in loco em matadouros
+    - Altera Artigo 45º — Selecção da amostra de controlo
+    - Altera Artigo 50º — Base de cálculo no que diz respeito às superfícies declaradas
+    - Altera Artigo 51º — Reduções e exclusões nos casos de sobredeclaração
+    - Altera Artigo 53º — Sobredeclaração deliberada
+    - Altera Artigo 59º — Reduções e exclusões no que respeita aos bovinos objecto de pedidos de ajudas
+    - Altera Artigo 60º — Reduções e exclusões no que respeita aos ovinos ou caprinos objecto de pedidos de ajudas
+    - Altera Artigo 62º — Declarações e certificados falsos emitidos por matadouros
+    - Altera Artigo 64º — Prémio aos produtos lácteos e pagamentos complementares
+    - Altera Artigo 71.º — Cumulação de reduções
+    - Altera Artigo 71.º-A — Aplicação de reduções
+    - Altera Artigo 73º — Recuperação de pagamentos indevidos
+    - Altera Artigo 76º — Comunicações
+    - Altera Artigo 78º — Chave de repartição
+    - Altera Artigo 80º — Revogações
+    - Altera Notas
+    - Adita CAPÍTULO III-A
+    - Adita PAGAMENTO PARA O AÇÚCAR E PAGAMENTO ESPECÍFICO PARA O AÇÚCAR
+    - Adita Artigo 17.º-A — Requisitos relativos aos pedidos de ajudas a título do pagamento para o açúcar e do pagamento
+      específico para o açúcar
+    - Adita Artigo 31.º-B — Controlos in loco a fabricantes de açúcar
+    - Adita VARIEDADES DE CÂNHAMO, DESTINADO À PRODUÇÃO DE FIBRAS, ELEGÍVEIS PARA OS PAGAMENTOS DIRECTOS
+    - Suprime VARIEDADES DE CÂNHAMO DESTINADO À PRODUÇÃO DE FIBRAS ELEGÍVEIS PARA OS PAGAMENTOS DIRECTOS
+  - date: '2007-08-01'
+    amending: eu:celex:32006R2025:por
+    amending_title: REGULAMENTO (CE) N. o 2025/2006 DA COMISSÃO de 22 de Dezembro de 2006; REGULAMENTO (CE) N. o 381/2007
+      DA COMISSÃO de 4 de Abril de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2º — Definições
+    - Altera Artigo 3º — Manutenção das terras ocupadas por pastagens permanentes à escala do Estado-Membro
+    - Altera Artigo 4º — Manutenção das terras ocupadas por pastagens permanentes à escala do agricultor
+    - Altera Artigo 12º — Conteúdo do pedido único
+    - Altera Artigo 13º — Requisitos especificamente aplicáveis ao pedido único
+    - Altera Artigo 15.ºA — Pedidos de ajuda
+    - Altera Artigo 20º — Derrogações da data-limite de apresentação dos pedidos de ajudas, dos documentos comprovativos dos
+      contratos e das declarações
+    - Altera Artigo 24º — Controlos cruzados
+    - Altera Artigo 26º — Taxa de controlo
+    - Altera Artigo 30º — Determinação das superfícies
+    - Altera Artigo 33º — Verificação do teor de tetra-hidrocanabinol do cânhamo
+    - Altera Artigo 50º — Base de cálculo no que diz respeito às superfícies declaradas
+    - Altera Artigo 51º — Reduções e exclusões nos casos de sobredeclaração
+    - Altera Artigo 52º — Reduções por irregularidades no que respeita às dimensões das superfícies declaradas para o pagamento
+      da ajuda à batata para fécula, às sementes e ao tabaco
+    - Altera Artigo 53º — Sobredeclaração deliberada
+    - Altera Artigo 59º — Reduções e exclusões no que respeita aos bovinos objecto de pedidos de ajudas
+    - Altera Artigo 60º — Reduções e exclusões no que respeita aos ovinos ou caprinos objecto de pedidos de ajudas
+    - Altera Artigo 64º — Prémio aos produtos lácteos e pagamentos complementares
+    - Altera Artigo 73º — Recuperação de pagamentos indevidos
+    - Altera Artigo 78º — Chave de repartição
+    - Altera Notas
+    - Adita CAPÍTULO IIIA
+    - Adita PAGAMENTO PARA O AÇÚCAR, AJUDA PARA OS PRODUTORES DE BETERRABA AÇUCAREIRA E DE CANA-DE-AÇÚCAR E PAGAMENTO ESPECÍFICO
+      PARA O AÇÚCAR
+    - Adita Artigo 17.ºA — Requisitos relativos aos pedidos de ajudas a título do pagamento para o açúcar, da ajuda para os
+      produtores de beterraba açucareira e de cana-de-açúcar e do pagamento específico para o açúcar
+    - Adita Artigo 31.ºB — Controlos in loco a fabricantes de açúcar
+    - Adita Artigo 38º — Disposições especiais relativas aos pagamentos complementares
+    - Adita Artigo 63º — Constatações relativas aos pagamentos complementares
+    - Adita Artigo 71º — Cumulação de reduções
+    - Adita Artigo 71.ºA — Aplicação de reduções
+    - Adita Artigo 77º — Base de cálculo da redução
+    - Adita Artigo 81º — Entrada em vigor
+    - Adita VARIEDADES DE CÂNHAMO ELEGÍVEIS PARA OS PAGAMENTOS DIRECTOS
+    - Adita a) Variedades de cânhamo
+    - Adita b) Variedades de cânhamo autorizadas durante a campanha de comercialização de 2007/2008
+    - Suprime CAPÍTULO III-A
+    - Suprime PAGAMENTO PARA O AÇÚCAR E PAGAMENTO ESPECÍFICO PARA O AÇÚCAR
+    - Suprime Artigo 17.º-A — Requisitos relativos aos pedidos de ajudas a título do pagamento para o açúcar e do pagamento
+      específico para o açúcar
+    - Suprime Artigo 31.º-B — Controlos in loco a fabricantes de açúcar
+    - Suprime Artigo 38.º — Disposições especiais relativas aos pagamentos complementares
+  - date: '2007-08-21'
+    amending: eu:celex:32007R0972:por
+    amending_title: REGULAMENTO (CE) N. o 972/2007 DA COMISSÃO de 20 de Agosto de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2º — Definições
+    - Altera Artigo 3º — Manutenção das terras ocupadas por pastagens permanentes à escala do Estado-Membro
+    - Altera Artigo 4º — Manutenção das terras ocupadas por pastagens permanentes à escala do agricultor
+    - Altera Artigo 8º — Princípios gerais relativos às parcelas agrícolas
+    - Altera Artigo 12º — Conteúdo do pedido único
+    - Altera Artigo 13º — Requisitos especificamente aplicáveis ao pedido único
+    - Altera Artigo 15º — Alterações aos pedidos únicos
+    - Altera Artigo 15.ºA — Pedidos de ajuda
+    - Altera Artigo 17.ºA — Requisitos relativos aos pedidos de ajudas a título do pagamento para o açúcar, da ajuda para
+      os produtores de beterraba açucareira e de cana-de-açúcar e do pagamento específico para o açúcar
+    - Altera Artigo 20º — Derrogações da data-limite de apresentação dos pedidos de ajudas, dos documentos comprovativos dos
+      contratos e das declarações
+    - Altera Artigo 21º — Apresentação tardia
+    - Altera Artigo 24º — Controlos cruzados
+    - Altera Artigo 26º — Taxa de controlo
+    - Altera Artigo 27º — Selecção da amostra de controlo
+    - Altera Artigo 28º — Relatórios dos controlos
+    - Altera Artigo 30º — Determinação das superfícies
+    - Altera Artigo 33.ºA — Elementos dos controlos no local
+    - Altera Artigo 35º — Elementos dos controlos in loco
+    - Altera Artigo 38º — Disposições especiais relativas aos pagamentos complementares
+    - Altera Artigo 49º — Princípios gerais
+    - Altera Artigo 50º — Base de cálculo no que diz respeito às superfícies declaradas
+    - Altera Artigo 53º — Sobredeclaração deliberada
+    - Altera Artigo 54.ºA — Reduções e exclusões relativas aos pedidos de ajuda ao tabaco
+    - Altera Artigo 58º — Substituição
+    - Altera Artigo 71º — Cumulação de reduções
+    - Altera Artigo 71.ºA — Aplicação de reduções
+    - Altera Artigo 73.ºA — Recuperação de pagamentos indevidos
+    - Altera Artigo 76º — Comunicações
+    - Altera Artigo 78º — Chave de repartição
+    - Altera b) Variedades de cânhamo autorizadas durante a campanha de comercialização de 2007/2008
+    - Altera Notas
+    - Adita Artigo 29.º — Elementos dos controlos in loco
+    - Adita Artigo 32.º — Teledetecção
+    - Adita Artigo 63.º — Constatações relativas aos pagamentos complementares
+    - Suprime Artigo 29º — Elementos dos controlos in loco
+    - Suprime Artigo 32º — Teledetecção
+    - Suprime Artigo 55º — Cálculo da superfície forrageira com vista aos prémios referidos no artigo 131.º do Regulamento
+      (CE) n.º 1782/2003
+    - Suprime Artigo 56º — Cálculo da superfície forrageira com vista ao pagamento por extensificação em conformidade com
+      o artigo 132.º do Regulamento (CE) n.º 1782/2003
+    - Suprime Artigo 63º — Constatações relativas aos pagamentos complementares
+  - date: '2007-12-24'
+    amending: eu:celex:32007R1550:por
+    amending_title: REGULAMENTO (CE) N. o 1550/2007 DA COMISSÃO de 20 de Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2º — Definições
+    - Altera Artigo 3º — Manutenção das terras ocupadas por pastagens permanentes à escala do Estado-Membro
+    - Altera Artigo 4º — Manutenção das terras ocupadas por pastagens permanentes à escala do agricultor
+    - Altera Artigo 12º — Conteúdo do pedido único
+    - Altera Artigo 13º — Requisitos especificamente aplicáveis ao pedido único
+    - Altera Artigo 15º — Alterações aos pedidos únicos
+    - Altera Artigo 15.ºA — Pedidos de ajuda
+    - Altera Artigo 20º — Derrogações da data-limite de apresentação dos pedidos de ajudas, dos documentos comprovativos dos
+      contratos e das declarações
+    - Altera Artigo 24º — Controlos cruzados
+    - Altera Artigo 47º — Elementos dos controlos in loco
+    - Altera Artigo 48º — Relatórios dos controlos
+    - Altera Artigo 66º — Aplicação de reduções em caso de negligência
+    - Altera Artigo 71º — Cumulação de reduções
+    - Altera Artigo 71.ºA — Aplicação de reduções
+    - Altera Artigo 73.ºA — Recuperação de pagamentos indevidos
+    - Altera Artigo 76º — Comunicações
+    - Altera Artigo 78º — Chave de repartição
+    - Altera b) Variedades de cânhamo autorizadas durante a campanha de comercialização de 2007/2008
+    - Altera Notas
+    - Adita AJUDA PARA OS PRODUTORES DE BETERRABA AÇUCAREIRA E DE CANA-DE-AÇÚCAR, PAGAMENTO ESPECÍFICO PARA O AÇÚCAR E PAGAMENTO
+      ESPECÍFICO PARA AS FRUTAS E PRODUTOS HORTÍCOLAS
+    - Adita Artigo 17.ºA — [►M11](http://publications.europa.eu/resource/celex/32007R1550) Requisitos relativos aos pedidos
+      da ajuda para os produtores de beterraba açucareira e de cana-de-açúcar, do pagamento específico para o açúcar e do
+      pagamento específico para as frutas e produtos hortícolas◄
+    - Adita Artigo 23.ºA
+    - Adita Artigo 44.º — Taxa mínima de controlo
+    - Adita Artigo 45.º — Selecção da amostra de controlo
+    - Suprime PAGAMENTO PARA O AÇÚCAR, AJUDA PARA OS PRODUTORES DE BETERRABA AÇUCAREIRA E DE CANA-DE-AÇÚCAR E PAGAMENTO ESPECÍFICO
+      PARA O AÇÚCAR
+    - Suprime Artigo 17.ºA — Requisitos relativos aos pedidos de ajudas a título do pagamento para o açúcar, da ajuda para
+      os produtores de beterraba açucareira e de cana-de-açúcar e do pagamento específico para o açúcar
+    - Suprime Artigo 25º — Princípios gerais
+    - Suprime Artigo 44º — Taxa mínima de controlo
+    - Suprime Artigo 45º — Selecção da amostra de controlo
+  - date: '2008-08-01'
+    amending: eu:celex:32008R0145:por
+    amending_title: REGULAMENTO (CE) N. o 145/2008 DA COMISSÃO de 19 de Fevereiro de 2008; REGULAMENTO (CE) N. o 319/2008
+      DA COMISSÃO de 7 de Abril de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2º — Definições
+    - Altera Artigo 3º — Manutenção das terras ocupadas por pastagens permanentes à escala do Estado-Membro
+    - Altera Artigo 4º — Manutenção das terras ocupadas por pastagens permanentes à escala do agricultor
+    - Altera Artigo 12º — Conteúdo do pedido único
+    - Altera Artigo 13º — Requisitos especificamente aplicáveis ao pedido único
+    - Altera Artigo 15º — Alterações aos pedidos únicos
+    - Altera Artigo 15.ºA — Pedidos de ajuda
+    - Altera Artigo 20º — Derrogações da data-limite de apresentação dos pedidos de ajudas, dos documentos comprovativos dos
+      contratos e das declarações
+    - Altera Artigo 24º — Controlos cruzados
+    - Altera Artigo 44.º — Taxa mínima de controlo
+    - Altera Artigo 48º — Relatórios dos controlos
+    - Altera Artigo 65º — Princípios gerais e definições
+    - Altera Artigo 66º — Aplicação de reduções em caso de negligência
+    - Altera Artigo 71º — Cumulação de reduções
+    - Altera Artigo 71.ºA — Aplicação de reduções
+    - Altera Artigo 74º — Cedência de explorações
+    - Altera Artigo 78º — Chave de repartição
+    - Altera a) Variedades de cânhamo
+    - Altera Notas
+    - Adita b) Variedades de cânhamo autorizadas durante a campanha de comercialização de 2008/2009
+    - Suprime b) Variedades de cânhamo autorizadas durante a campanha de comercialização de 2007/2008
+  - date: '2008-11-17'
+    amending: eu:celex:32008R1124:por
+    amending_title: REGULAMENTO (CE) N. o 1124/2008 DA COMISSÃO de 12 de Novembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2º — Definições
+    - Altera Artigo 3º — Manutenção das terras ocupadas por pastagens permanentes à escala do Estado-Membro
+    - Altera Artigo 4º — Manutenção das terras ocupadas por pastagens permanentes à escala do agricultor
+    - Altera Artigo 12º — Conteúdo do pedido único
+    - Altera Artigo 13º — Requisitos especificamente aplicáveis ao pedido único
+    - Altera Artigo 15º — Alterações aos pedidos únicos
+    - Altera Artigo 15.ºA — Pedidos de ajuda
+    - Altera Artigo 20º — Derrogações da data-limite de apresentação dos pedidos de ajudas, dos documentos comprovativos dos
+      contratos e das declarações
+    - Altera Artigo 24º — Controlos cruzados
+    - Altera Artigo 71º — Cumulação de reduções
+    - Altera Artigo 71.ºA — Aplicação de reduções
+    - Altera Artigo 78º — Chave de repartição
+    - Altera Notas
+    - Adita Artigo 33.º
+    - Suprime Artigo 33º — Verificação do teor de tetra-hidrocanabinol do cânhamo
+    - Suprime ANEXO II
+    - Suprime VARIEDADES DE CÂNHAMO ELEGÍVEIS PARA OS PAGAMENTOS DIRECTOS
+    - Suprime a) Variedades de cânhamo
+    - Suprime b) Variedades de cânhamo autorizadas durante a campanha de comercialização de 2008/2009
+  - date: '2009-01-01'
+    amending: eu:celex:32008R1266:por
+    amending_title: REGULAMENTO (CE) N. o 1266/2008 DA COMISSÃO de 16 de Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2º — Definições
+    - Altera Artigo 3º — Manutenção das terras ocupadas por pastagens permanentes à escala do Estado-Membro
+    - Altera Artigo 4º — Manutenção das terras ocupadas por pastagens permanentes à escala do agricultor
+    - Altera Artigo 11º — Data de apresentação do pedido único
+    - Altera Artigo 12º — Conteúdo do pedido único
+    - Altera Artigo 13º — Requisitos especificamente aplicáveis ao pedido único
+    - Altera Artigo 14º — Regras gerais aplicáveis ao pedido único e declarações relativas a utilizações específicas das superfícies
+    - Altera Artigo 15º — Alterações aos pedidos únicos
+    - Altera Artigo 15.ºA — Pedidos de ajuda
+    - Altera Artigo 20º — Derrogações da data-limite de apresentação dos pedidos de ajudas, dos documentos comprovativos dos
+      contratos e das declarações
+    - Altera Artigo 24º — Controlos cruzados
+    - Altera Artigo 44.º — Taxa mínima de controlo
+    - Altera Artigo 45.º — Selecção da amostra de controlo
+    - Altera Artigo 65º — Princípios gerais e definições
+    - Altera Artigo 66º — Aplicação de reduções em caso de negligência
+    - Altera Artigo 67º — Aplicação de reduções e exclusões em casos de incumprimento deliberado
+    - Altera Artigo 71º — Cumulação de reduções
+    - Altera Artigo 71.ºA — Aplicação de reduções
+    - Altera Artigo 78º — Chave de repartição
+    - Altera Notas
+    - Adita Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 1º — Âmbito de aplicação
+  - date: '2009-05-16'
+    amending: eu:celex:32009R0380:por
+    amending_title: REGULAMENTO (CE) N. o 380/2009 DA COMISSÃO de 8 de Maio de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2º — Definições
+    - Altera Artigo 3º — Manutenção das terras ocupadas por pastagens permanentes à escala do Estado-Membro
+    - Altera Artigo 4º — Manutenção das terras ocupadas por pastagens permanentes à escala do agricultor
+    - Altera Artigo 7º — Identificação e registo dos direitos ao pagamento
+    - Altera Artigo 8º — Princípios gerais relativos às parcelas agrícolas
+    - Altera Artigo 11º — Data de apresentação do pedido único
+    - Altera Artigo 12º — Conteúdo do pedido único
+    - Altera Artigo 13º — Requisitos especificamente aplicáveis ao pedido único
+    - Altera Artigo 14º — Regras gerais aplicáveis ao pedido único e declarações relativas a utilizações específicas das superfícies
+    - Altera Artigo 15º — Alterações aos pedidos únicos
+    - Altera Artigo 15.ºA — Pedidos de ajuda
+    - Altera Artigo 17.ºA — [►M11](http://publications.europa.eu/resource/celex/32007R1550) Requisitos relativos aos pedidos
+      da ajuda para os produtores de beterraba açucareira e de cana-de-açúcar, do pagamento específico para o açúcar e do
+      pagamento específico para as frutas e produtos hortícolas◄
+    - Altera Artigo 21.ºA — Apresentação tardia de pedidos de candidatura ao regime de pagamento único
+    - Altera Artigo 24º — Controlos cruzados
+    - Altera Artigo 38º — Disposições especiais relativas aos pagamentos complementares
+    - Altera Artigo 49º — Princípios gerais
+    - Altera Artigo 50º — Base de cálculo no que diz respeito às superfícies declaradas
+    - Altera Artigo 51º — Reduções e exclusões nos casos de sobredeclaração
+    - Altera Artigo 52º — Reduções por irregularidades no que respeita às dimensões das superfícies declaradas para o pagamento
+      da ajuda à batata para fécula, às sementes e ao tabaco
+    - Altera Artigo 53º — Sobredeclaração deliberada
+    - Altera Artigo 59º — Reduções e exclusões no que respeita aos bovinos objecto de pedidos de ajudas
+    - Altera Artigo 60º — Reduções e exclusões no que respeita aos ovinos ou caprinos objecto de pedidos de ajudas
+    - Altera Artigo 63.º — Constatações relativas aos pagamentos complementares
+    - Altera Artigo 64º — Prémio aos produtos lácteos e pagamentos complementares
+    - Altera Artigo 65º — Princípios gerais e definições
+    - Altera Artigo 71º — Cumulação de reduções
+    - Altera Artigo 73º — Recuperação de pagamentos indevidos
+    - Altera Artigo 78º — Chave de repartição
+    - Altera Notas
+    - Adita Artigo 10º — Pagamento das ajudas e controlos relativos à condicionalidade
+    - Adita Artigo 20.º — Derrogações da data-limite de apresentação dos pedidos de ajudas, dos documentos comprovativos,
+      dos contratos e das declarações, bem como da última data para a alteração do pedido único
+    - Adita Artigo 31.ºA — Controlos in loco às organizações interprofissionais aprovadas
+    - Adita Artigo 71.ºA — Aplicação de reduções em cada regime de apoio
+    - Adita Artigo 71.ºB — Base de cálculo das reduções decorrentes da modulação, da disciplina financeira e da condicionalidade
+    - Suprime Artigo 10º — Pagamento das ajudas
+    - Suprime Artigo 20º — Derrogações da data-limite de apresentação dos pedidos de ajudas, dos documentos comprovativos
+      dos contratos e das declarações
+    - Suprime Artigo 31.ºA — Controlos in loco a organizações interprofissionais aprovadas
+    - Suprime Artigo 71.ºA — Aplicação de reduções
+  - date: '2010-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime PARTE I
+    - Suprime ÂMBITO DE APLICAÇÃO E DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2º — Definições
+    - Suprime Artigo 3º — Manutenção das terras ocupadas por pastagens permanentes à escala do Estado-Membro
+    - Suprime Artigo 4º — Manutenção das terras ocupadas por pastagens permanentes à escala do agricultor
+    - Suprime PARTE II
+    - Suprime O SISTEMA INTEGRADO DE GESTÃO E DE CONTROLO
+    - Suprime TÍTULO I
+    - Suprime GENERALIDADES
+    - Suprime Artigo 5º — Identificação dos agricultores
+    - Suprime Artigo 6º — Identificação das parcelas agrícolas
+    - Suprime Artigo 7º — Identificação e registo dos direitos ao pagamento
+    - Suprime Artigo 8º — Princípios gerais relativos às parcelas agrícolas
+    - Suprime Artigo 9º — Sistema de controlo da condicionalidade
+    - Suprime Artigo 10º — Pagamento das ajudas e controlos relativos à condicionalidade
+    - Suprime TÍTULO II
+    - Suprime PEDIDOS DE AJUDAS
+    - Suprime CAPÍTULO I
+    - Suprime O PEDIDO ÚNICO
+    - Suprime Artigo 11º — Data de apresentação do pedido único
+    - Suprime Artigo 12º — Conteúdo do pedido único
+    - Suprime Artigo 13º — Requisitos especificamente aplicáveis ao pedido único
+    - Suprime Artigo 14º — Regras gerais aplicáveis ao pedido único e declarações relativas a utilizações específicas das
+      superfícies
+    - Suprime Artigo 15º — Alterações aos pedidos únicos
+    - Suprime CAPÍTULO IA
+    - Suprime PEDIDOS DE AJUDA REFERENTES A PAGAMENTOS PARA O LÚPULO APRESENTADOS POR AGRUPAMENTOS DE PRODUTORES RECONHECIDOS
+    - Suprime Artigo 15.ºA — Pedidos de ajuda
+    - Suprime CAPÍTULO II
+    - Suprime PEDIDOS DE AJUDAS «ANIMAIS»
+    - Suprime Artigo 16º — Requisitos relativos aos pedidos de ajudas «animais»
+    - Suprime CAPÍTULO III
+    - Suprime PEDIDO DE AJUDAS A TÍTULO DO PRÉMIO AOS PRODUTOS LÁCTEOS E DOS PAGAMENTOS COMPLEMENTARES
+    - Suprime Artigo 17º — Requisitos relativos aos pedidos de ajudas a título do prémio aos produtos lácteos e dos pagamentos
+      complementares
+    - Suprime CAPÍTULO IIIA
+    - Suprime AJUDA PARA OS PRODUTORES DE BETERRABA AÇUCAREIRA E DE CANA-DE-AÇÚCAR, PAGAMENTO ESPECÍFICO PARA O AÇÚCAR E PAGAMENTO
+      ESPECÍFICO PARA AS FRUTAS E PRODUTOS HORTÍCOLAS
+    - Suprime Artigo 17.ºA — [►M11](http://publications.europa.eu/resource/celex/32007R1550) Requisitos relativos aos pedidos
+      da ajuda para os produtores de beterraba açucareira e de cana-de-açúcar, do pagamento específico para o açúcar e do
+      pagamento específico para as frutas e produtos hortícolas◄
+    - Suprime CAPÍTULO IV
+    - Suprime DISPOSIÇÕES COMUNS
 identifiers:
   celex: 32004R0796
   eli: http://data.europa.eu/eli/reg/2004/796/oj
@@ -50,7 +534,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b3b0963f-025f-4584-9eef-50f49fc3507d.0010
   content_url: http://publications.europa.eu/resource/cellar/70d56fdd-8653-4718-8d34-fdeb30e4d536.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0796-20100101
-  retrieved_at: '2026-10-22T02:35:08Z'
+  retrieved_at: '2026-10-22T14:58:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-06-04T04:10:44.619+02:00'
 integrity:
@@ -59,9 +543,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:08Z'
-  notes: Texto consolidado 02004R0796-20100101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:58:06Z'
+  notes: 13 versão(ões); histórico completo em regulamento-ue-2004-796.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -517,16 +1001,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:08Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:58:06Z'
+  warnings: []
   errors: []
 ---
 

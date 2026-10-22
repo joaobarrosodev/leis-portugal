@@ -34,6 +34,119 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-12-19'
+version_history:
+  file: regulamento-ue-1983-2290.versoes.json
+  count: 3
+  source_lastmod: '2011-12-19'
+  versions:
+  - date: '1983-08-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:31985R1745:por
+    amending_title: REGULAMENTO (CEE) N.O 1745/85 DA COMISSÃO de 26 de Junho de 1985; REGULAMENTO (CEE) N.O 3399/85 DA COMISSÃO
+      de 28 de Novembro de 1985; REGULAMENTO (CEE) N.O 3893/88 DA COMISSÃO de 14 de Dezembro de 1988; REGULAMENTO (CEE) N.O
+      1843/89 DA COMISSÃO de 26 de Junho de 1989; REGULAMENTO (CEE) N.O 734/92 DA COMISSÃO de 25 de Março de 1992; REGULAMENTO
+      (CE) N. o 1792/2006 DA COMISSÃO de 23 de Outubro de 2006; A1; Acto de Adesão da Áustria, da Finlândia e da Suécia; Acto
+      relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da
+      Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República
+      da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera TÍTULO II
+    - Altera TÍTULO III
+    - Altera TÍTULO V
+    - Adita Artigo 1.º
+    - Adita TÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita A.
+    - Adita Obrigações do estabelecimento ou organismo destinatário
+    - Adita Artigo 2.º
+    - Adita B.
+    - Adita Disposições aplicáveis no caso de empréstimo, aluguer ou cessão
+    - Adita Artigo 3.º
+    - Adita DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE UM OBJECTO COM CARÁCTER EDUCATIVO; CIENTIFICO OU CULTURAL
+      AO ABRIGO DO ARTIGO 51.º DO REGULAMENTO DE BASE
+    - Adita Artigo 4.º
+    - Adita DISPOSIÇÕES ESPECIAIS RELATIVAS À IMPORTAÇÃO COM FRANQUIA DE DIREITOS DE INSTRUMENTOS E APARELHOS AO ABRIGO DOS
+      ARTIGOS 52.º E 54.º DO REGULAMENTO DE BASE
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE PEÇAS SOBRESSELENTES, ELEMENTOS OU ACESSÓRIOS ESPECÍFICOS
+      OU DE FERRAMENTAS AO ABRIGO DO ARTIGO 53.º DO REGULAMENTO DE BASE
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita TÍTULO V A
+    - Adita NORMAS ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE INSTRUMENTOS OU APARELHOS MÉDICOS AO ABRIGO DOS ARTIGOS
+      63.ºA E 63.ºB DO REGULAMENTO DE BASE
+    - Adita Artigo 15.ºA
+    - Adita Artigo 15.ºC
+    - Adita Artigo 15.ºD
+    - Adita Artigo 15.ºE
+    - Adita TÍTULO VI
+    - Adita DISPOSIÇÕES RELATIVAS À INFORMAÇÃO DA COMISSÃO E DOS ESTADOS-MEMBROS
+    - Adita Artigo 16.º
+    - Adita Artigo 18.º
+    - Adita TÍTULO VI A
+    - Adita DISPOSIÇÕES ESPECIAIS RELATIVAS À IMPORTAÇÃO COM FRANQUIA DE EQUIPAMENTOS EM CONFORMIDADE COM OS ARTIGOS 59.º
+      A E 59.º B DO REGULAMENTO DE BASE
+    - Adita Artigo 18.º A
+    - Adita Artigo 18.º B
+    - Adita Artigo 18.ºC
+  - date: '2011-12-19'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime A.
+    - Suprime Obrigações do estabelecimento ou organismo destinatário
+    - Suprime Artigo 2.º
+    - Suprime B.
+    - Suprime Disposições aplicáveis no caso de empréstimo, aluguer ou cessão
+    - Suprime Artigo 3.º
+    - Suprime TÍTULO II
+    - Suprime DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE UM OBJECTO COM CARÁCTER EDUCATIVO; CIENTIFICO OU
+      CULTURAL AO ABRIGO DO ARTIGO 51.º DO REGULAMENTO DE BASE
+    - Suprime Artigo 4.º
+    - Suprime TÍTULO III
+    - Suprime DISPOSIÇÕES ESPECIAIS RELATIVAS À IMPORTAÇÃO COM FRANQUIA DE DIREITOS DE INSTRUMENTOS E APARELHOS AO ABRIGO
+      DOS ARTIGOS 52.º E 54.º DO REGULAMENTO DE BASE
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime TÍTULO V
+    - Suprime DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE PEÇAS SOBRESSELENTES, ELEMENTOS OU ACESSÓRIOS ESPECÍFICOS
+      OU DE FERRAMENTAS AO ABRIGO DO ARTIGO 53.º DO REGULAMENTO DE BASE
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime TÍTULO V A
+    - Suprime NORMAS ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE INSTRUMENTOS OU APARELHOS MÉDICOS AO ABRIGO DOS ARTIGOS
+      63.ºA E 63.ºB DO REGULAMENTO DE BASE
+    - Suprime Artigo 15.ºA
+    - Suprime Artigo 15.ºC
+    - Suprime Artigo 15.ºD
+    - Suprime Artigo 15.ºE
+    - Suprime TÍTULO VI
+    - Suprime DISPOSIÇÕES RELATIVAS À INFORMAÇÃO DA COMISSÃO E DOS ESTADOS-MEMBROS
+    - Suprime Artigo 16.º
+    - Suprime Artigo 18.º
+    - Suprime TÍTULO VI A
+    - Suprime DISPOSIÇÕES ESPECIAIS RELATIVAS À IMPORTAÇÃO COM FRANQUIA DE EQUIPAMENTOS EM CONFORMIDADE COM OS ARTIGOS 59.º
+      A E 59.º B DO REGULAMENTO DE BASE
+    - Suprime Artigo 18.º A
+    - Suprime Artigo 18.º B
+    - Suprime Artigo 18.ºC
 identifiers:
   celex: 31983R2290
   eli: http://data.europa.eu/eli/reg/1983/2290/oj
@@ -48,7 +161,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a9c8717c-26d1-4121-9eaf-f998bb3ec859.0011
   content_url: http://publications.europa.eu/resource/cellar/1c6c1118-ad70-4580-ba1f-47316c04d66c.0014.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01983R2290-20111219
-  retrieved_at: '2026-10-22T03:04:31Z'
+  retrieved_at: '2026-10-22T14:34:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T09:10:10.183+01:00'
 integrity:
@@ -57,9 +170,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:04:31Z'
-  notes: Texto consolidado 01983R2290-20111219.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:02Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1983-2290.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -138,16 +251,21 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:04:31Z'
+  checked_at: '2026-10-22T14:34:02Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01983R2290-19850701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R2290-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R2290-19890101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R2290-19890701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R2290-19920101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R2290-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R2290-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

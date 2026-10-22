@@ -35,6 +35,22 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2000-05-26'
+version_history:
+  file: diretiva-ue-1985-7.versoes.json
+  count: 2
+  source_lastmod: '2000-05-26'
+  versions:
+  - date: '1985-01-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-05-26'
+    amending: null
+    amending_title: null
+    changes:
+    - Adita preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
 identifiers:
   celex: 31985L0007
   eli: http://data.europa.eu/eli/dir/1985/7/oj
@@ -49,7 +65,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e0a9094e-23f7-44af-b4b9-b8ccafe1af7e.0011
   content_url: http://publications.europa.eu/resource/cellar/ecb4695e-ffed-4b26-a242-f91d198eef3d.0010.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01985L0007-20000526
-  retrieved_at: '2026-10-22T03:05:00Z'
+  retrieved_at: '2026-10-22T14:34:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T22:54:46.489+01:00'
 integrity:
@@ -58,9 +74,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:05:00Z'
-  notes: Texto consolidado 01985L0007-20000526.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:24Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1985-7.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -150,15 +166,14 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:05:00Z'
-  warnings:
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:34:24Z'
+  warnings: []
   errors: []
 ---
 

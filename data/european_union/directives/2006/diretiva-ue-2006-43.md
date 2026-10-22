@@ -36,6 +36,179 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-03-18'
+version_history:
+  file: diretiva-ue-2006-43.versoes.json
+  count: 7
+  source_lastmod: '2026-03-18'
+  versions:
+  - date: '2006-06-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-03-21'
+    amending: eu:celex:32008L0030:por
+    amending_title: DIRECTIVA 2008/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 11 de
+      Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Prova de conhecimentos teóricos
+    - Altera Artigo 14.º — Aprovação dos revisores oficiais de contas de outros Estados-Membros
+    - Altera Artigo 19.º — Responsabilidade pelas informações contidas no registo público
+    - Altera Artigo 21.º — Deontologia profissional
+    - Altera Artigo 22.º — Independência e objectividade
+    - Altera Artigo 26.º — Normas de auditoria
+    - Altera Artigo 28.º — Relatório de auditoria ou certificação legal das contas
+    - Altera Artigo 29.º — Sistemas de controlo de qualidade
+    - Altera Artigo 36.º — Sigilo profissional e cooperação regulamentar entre Estados-Membros
+    - Altera Artigo 41.º — Comité de auditoria
+    - Altera Artigo 45.º — Registo e supervisão de auditores e de entidades de auditoria de países terceiros
+    - Altera Artigo 46.º — Dispensa em caso de equivalência
+    - Altera Artigo 47.º — Cooperação com as autoridades competentes de países terceiros
+    - Altera Artigo 48.º — Procedimento de comité
+    - Altera Artigo 49.º — Alteração da Directiva 78/660/CEE e da Directiva 83/349/CEE
+    - Altera Artigo 55.º — Destinatários
+    - Altera Notas
+  - date: '2013-07-19'
+    amending: eu:celex:32013L0034:por
+    amending_title: DIRETIVA 2013/34/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 26 de junho
+      de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 14.º — Aprovação dos revisores oficiais de contas de outros Estados-Membros
+    - Altera Artigo 19.º — Responsabilidade pelas informações contidas no registo público
+    - Altera Artigo 41.º — Comité de auditoria
+    - Altera Artigo 45.º — Registo e supervisão de auditores e de entidades de auditoria de países terceiros
+    - Altera Artigo 49.º — Alteração da Directiva 78/660/CEE e da Directiva 83/349/CEE
+    - Altera Notas
+    - Adita Artigo 28.º — Relatório de auditoria
+    - Suprime Artigo 28.º — Relatório de auditoria ou certificação legal das contas
+  - date: '2014-06-16'
+    amending: eu:celex:32014L0056:por
+    amending_title: DIRETIVA 2014/56/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 16 de abril
+      de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Aprovação dos revisores oficiais de contas e das sociedades de revisores oficiais de contas
+    - Altera Artigo 5.º — Revogação da aprovação
+    - Altera Artigo 6.º — Qualificações académicas
+    - Altera Artigo 8.º — Prova de conhecimentos teóricos
+    - Altera Artigo 10.º — Formação prática
+    - Altera Artigo 13.º — Formação contínua
+    - Altera Artigo 14.º — Aprovação dos revisores oficiais de contas de outros Estados-Membros
+    - Altera Artigo 15.º — Registo público
+    - Altera Artigo 17.º — Registo das sociedades de revisores oficiais de contas
+    - Altera Artigo 19.º — Responsabilidade pelas informações contidas no registo público
+    - Altera Artigo 22.º — Independência e objectividade
+    - Altera Artigo 23.º — Confidencialidade e sigilo profissional
+    - Altera Artigo 26.º — Normas de auditoria
+    - Altera Artigo 29.º — Sistemas de controlo de qualidade
+    - Altera Artigo 32.º — Princípios da supervisão pública
+    - Altera Artigo 34.º — Reconhecimento mútuo de disposições regulamentares entre Estados-Membros
+    - Altera Artigo 36.º — Sigilo profissional e cooperação regulamentar entre Estados-Membros
+    - Altera Artigo 37.º — Designação dos revisores oficiais de contas ou das sociedades de revisores oficiais de contas
+    - Altera Artigo 38.º — Destituição e demissão dos revisores oficiais de contas ou das sociedades de revisores oficiais
+      de contas
+    - Altera Artigo 45.º — Registo e supervisão de auditores e de entidades de auditoria de países terceiros
+    - Altera Artigo 46.º — Dispensa em caso de equivalência
+    - Altera Artigo 47.º — Cooperação com as autoridades competentes de países terceiros
+    - Altera Artigo 48.º — Procedimento de comité
+    - Altera Notas
+    - Adita Artigo 3.º-A — Reconhecimento das sociedades de revisores oficiais de contas
+    - Adita Artigo 21.º
+    - Adita Deontologia e ceticismo profissional
+    - Adita Artigo 22.º-A — Contratação pelas entidades auditadas de antigos revisores oficiais de contas ou de empregados
+      de revisores oficiais de contas ou de sociedades de revisores oficiais de contas
+    - Adita Artigo 22.º-B — Preparação para a revisão legal de contas e avaliação das ameaças à independência
+    - Adita Artigo 24.º-A — Organização interna dos revisores oficiais de contas e das sociedades de revisores oficiais de
+      contas
+    - Adita Artigo 24.º-B — Organização do trabalho
+    - Adita Artigo 25.º-A — Âmbito da revisão legal de contas
+    - Adita Artigo 27.º — Revisão legal de demonstrações financeiras consolidadas
+    - Adita Artigo 28.º — Relatório de auditoria ou certificação legal das contas
+    - Adita INSPEÇÕES E SANÇÕES
+    - Adita Artigo 30.º — Sistemas de inspeção e de sanções
+    - Adita Artigo 30.º-A — Poderes sancionatórios
+  - date: '2023-01-05'
+    amending: eu:celex:32022L2464:por
+    amending_title: DIRETIVA (UE) 2022/2464 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Qualificações académicas
+    - Altera Artigo 8.º — Prova de conhecimentos teóricos
+    - Altera Artigo 10.º — Formação prática
+    - Altera Artigo 12.º — Combinação de formação prática e da instrução teórica
+    - Altera Artigo 14.º — Aprovação dos revisores oficiais de contas de outros Estados-Membros
+    - Altera Artigo 16.º — Registo dos revisores oficiais de contas
+    - Altera Artigo 17.º — Registo das sociedades de revisores oficiais de contas
+    - Altera Artigo 19.º — Responsabilidade pelas informações contidas no registo público
+    - Altera Artigo 22.º — Independência e objectividade
+    - Altera Artigo 24.º-B — Organização do trabalho
+    - Altera Artigo 28.º — Relatório de auditoria ou certificação legal das contas
+    - Altera Artigo 29.º — Sistemas de controlo de qualidade
+    - Altera Artigo 30.º — Sistemas de inspeção e de sanções
+    - Altera Artigo 30.º-A — Poderes sancionatórios
+    - Altera Artigo 32.º — Princípios da supervisão pública
+    - Altera Artigo 37.º — Designação dos revisores oficiais de contas ou das sociedades de revisores oficiais de contas
+    - Altera Artigo 38.º — Destituição e demissão dos revisores oficiais de contas ou das sociedades de revisores oficiais
+      de contas
+    - Altera Artigo 39.º — Comité de auditoria
+    - Altera Artigo 45.º — Registo e supervisão de auditores e de entidades de auditoria de países terceiros
+    - Altera Artigo 48.º — Procedimento de comité
+    - Altera Artigo 48.º-A — Exercício da delegação
+    - Altera Notas
+    - Adita Artigo 1.º — Objeto
+    - Adita Artigo 7.º — Exame de aptidão profissional
+    - Adita Artigo 14.º-A — Revisores oficiais de contas aprovados ou reconhecidos antes de 1 de janeiro de 2024 e pessoas
+      em processo de aprovação para revisores oficiais de contas em 1 de janeiro de 2024
+    - Adita Artigo 25.º — Honorários de auditoria e de garantia de fiabilidade
+    - Adita Artigo 25.º-B — Deontologia profissional, independência, objetividade, confidencialidade e sigilo profissional
+      no que respeita à garantia de fiabilidade do relato de sustentabilidade
+    - Adita Artigo 25.º-C — Serviços distintos da auditoria proibidos nos casos em que o revisor oficial de contas realize
+      a garantia de fiabilidade do relato de sustentabilidade de uma entidade de interesse público
+    - Adita Artigo 25.º-D — Irregularidades
+    - Adita Artigo 26.º-A — Normas de garantia de fiabilidade do relato de sustentabilidade
+    - Adita Artigo 27.º-A — Garantia de fiabilidade do relato de sustentabilidade a nível consolidado
+    - Adita Artigo 28.º-A — Relatório de garantia de fiabilidade relativo ao relato de sustentabilidade
+    - Adita Artigo 36.º-A — Acordos regulamentares entre Estados-Membros no que respeita à garantia de fiabilidade do relato
+      de sustentabilidade
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 7.º — Exame da aptidão profissional
+    - Suprime Artigo 25.º — Honorários de auditoria
+  - date: '2024-01-09'
+    amending: eu:celex:32023L2864:por
+    amending_title: DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 14.º — Aprovação dos revisores oficiais de contas de outros Estados-Membros
+    - Altera Artigo 19.º — Responsabilidade pelas informações contidas no registo público
+    - Altera Artigo 22.º — Independência e objectividade
+    - Altera Artigo 39.º — Comité de auditoria
+    - Altera Artigo 45.º — Registo e supervisão de auditores e de entidades de auditoria de países terceiros
+    - Altera Artigo 48.º — Procedimento de comité
+    - Altera Notas
+    - Adita Artigo 20.º-A — Acessibilidade da informação no ponto de acesso único europeu
+  - date: '2026-03-18'
+    amending: eu:celex:32026L0470:por
+    amending_title: DIRETIVA (UE) 2026/470 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Aprovação dos revisores oficiais de contas e das sociedades de revisores oficiais de contas
+    - Altera Artigo 14.º — Aprovação dos revisores oficiais de contas de outros Estados-Membros
+    - Altera Artigo 19.º — Responsabilidade pelas informações contidas no registo público
+    - Altera Artigo 20.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 22.º — Independência e objectividade
+    - Altera Artigo 24.º-B — Organização do trabalho
+    - Altera Artigo 26.º-A — Normas de garantia de fiabilidade do relato de sustentabilidade
+    - Altera Artigo 39.º — Comité de auditoria
+    - Altera Artigo 45.º — Registo e supervisão de auditores e de entidades de auditoria de países terceiros
+    - Altera Artigo 48.º — Procedimento de comité
+    - Altera Artigo 48.º-A — Exercício da delegação
+    - Altera Notas
 identifiers:
   celex: 32006L0043
   eli: http://data.europa.eu/eli/dir/2006/43/oj
@@ -50,7 +223,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a8cd02f3-13f5-4235-bb66-2be2a8d42ef5.0017
   content_url: http://publications.europa.eu/resource/cellar/2e7cc5b4-22b5-11f1-8c3a-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0043-20260318
-  retrieved_at: '2026-10-22T02:36:36Z'
+  retrieved_at: '2026-10-22T15:01:56Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T19:29:42.110+01:00'
 integrity:
@@ -59,9 +232,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:36Z'
-  notes: Texto consolidado 02006L0043-20260318.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:01:56Z'
+  notes: 7 versão(ões); histórico completo em diretiva-ue-2006-43.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -311,34 +484,19 @@ relationships:
   source: null
 article_structure:
   article_count: 70
-  section_count: 24
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 26
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:36Z'
+  checked_at: '2026-10-22T15:01:56Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2006/43/CE do Parlamento Europeu e do Conselho, de 17 de Maio de 2006
-
-> 02006L0043 — PT — 18.03.2026 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008L0030) — [DIRECTIVA 2008/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2008](http://publications.europa.eu/resource/celex/32008L0030) — L 81 — 53 — 20.3.2008
-- [M2](http://publications.europa.eu/resource/celex/32013L0034) — [DIRETIVA 2013/34/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de junho de 2013](http://publications.europa.eu/resource/celex/32013L0034) — L 182 — 19 — 29.6.2013
-- [►M3](http://publications.europa.eu/resource/celex/32014L0056) — [DIRETIVA 2014/56/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de abril de 2014](http://publications.europa.eu/resource/celex/32014L0056) — L 158 — 196 — 27.5.2014
-- [►M4](http://publications.europa.eu/resource/celex/32022L2464) — [DIRETIVA (UE) 2022/2464 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022L2464) — L 322 — 15 — 16.12.2022
-- [►M5](http://publications.europa.eu/resource/celex/32023L2864) — [DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023L2864) — L 2864 — 1 — 20.12.2023
-- [►M6](http://publications.europa.eu/resource/celex/32026L0470) — [DIRETIVA (UE) 2026/470 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026L0470) — L 470 — 1 — 26.2.2026
-
-## DIRECTIVA 2006/43/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de Maio de 2006
 

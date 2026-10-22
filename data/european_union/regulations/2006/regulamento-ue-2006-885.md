@@ -36,6 +36,87 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-01-01'
+version_history:
+  file: regulamento-ue-2006-885.versoes.json
+  count: 4
+  source_lastmod: '2015-01-01'
+  versions:
+  - date: '2007-10-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-10-29'
+    amending: eu:celex:32008R1034:por
+    amending_title: REGULAMENTO (CE) N. o 1034/2008 DA COMISSÃO de 21 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Conteúdo das contas anuais
+    - Altera Artigo 18.º — Revogação
+    - Altera D) Procedimentos relativos aos adiantamentos e garantias
+    - Altera Modelo de quadro referido na alínea h) do artigo 6.º
+    - Altera Notas
+    - Adita CAPÍTULO 1-A
+    - Adita COBRANÇA DE DÍVIDAS
+    - Adita Artigo 5.º-A — De minimis
+    - Adita Artigo 5.º-B — Método de cobrança
+  - date: '2012-05-10'
+    amending: eu:celex:32012R0375:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 375/2012 DA COMISSÃO de 2 de maio de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º-A — De minimis
+    - Altera Artigo 6.º — Conteúdo das contas anuais
+    - Altera Artigo 9.º — Conservação das informações contabilísticas
+    - Altera Artigo 10.º — Apuramento financeiro
+    - Altera Artigo 11.º — Apuramento da conformidade
+    - Altera Artigo 18.º — Revogação
+    - Altera D) Procedimentos relativos aos adiantamentos e garantias
+    - Altera Modelo de quadro referido na alínea h) do artigo 6.º
+    - Altera Notas
+  - date: '2015-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO 1
+    - Suprime ORGANISMOS PAGADORES E OUTROS ORGANISMOS
+    - Suprime Artigo 1.º — Acreditação dos organismos pagadores
+    - Suprime Artigo 2.º — Revisão da acreditação
+    - Suprime Artigo 3.º — Declaração de fiabilidade
+    - Suprime Artigo 4.º — Organismo de coordenação
+    - Suprime Artigo 5.º — Certificação
+    - Suprime CAPÍTULO 1-A
+    - Suprime COBRANÇA DE DÍVIDAS
+    - Suprime Artigo 5.º-A — De minimis
+    - Suprime Artigo 5.º-B — Método de cobrança
+    - Suprime CAPÍTULO 2
+    - Suprime APURAMENTO DAS CONTAS
+    - Suprime Artigo 6.º — Conteúdo das contas anuais
+    - Suprime Artigo 7.º — Transmissão das informações
+    - Suprime Artigo 8.º — Forma e conteúdo das informações contabilísticas
+    - Suprime Artigo 9.º — Conservação das informações contabilísticas
+    - Suprime Artigo 10.º — Apuramento financeiro
+    - Suprime Artigo 11.º — Apuramento da conformidade
+    - Suprime CAPÍTULO 3
+    - Suprime PROCEDIMENTO DE CONCILIAÇÃO
+    - Suprime Artigo 12.º — Órgão de conciliação
+    - Suprime Artigo 13.º — Composição do órgão de conciliação
+    - Suprime Artigo 14.º — Independência do órgão de conciliação
+    - Suprime Artigo 15.º — Funcionamento
+    - Suprime Artigo 16.º — Procedimento de conciliação
+    - Suprime CAPÍTULO 4
+    - Suprime DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+    - Suprime Artigo 17.º — Disposições transitórias
+    - Suprime Artigo 18.º — Revogação
+    - Suprime Artigo 19.º — Entrada em vigor e execução
+    - Suprime ANEXO I
+    - Suprime CRITÉRIOS DE ACREDITAÇÃO
+    - Suprime 1. Ambiente interno
+    - Suprime A) Estrutura organizativa
+    - Suprime B) Recursos humanos
+    - Suprime C) Delegação
+    - Suprime 2. Actividades de controlo
+    - Suprime A) Procedimentos para a autorização dos pedidos
 identifiers:
   celex: 32006R0885
   eli: http://data.europa.eu/eli/reg/2006/885/oj
@@ -50,7 +131,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/780f70b8-1595-4339-97cf-c139045730dc.0016
   content_url: http://publications.europa.eu/resource/cellar/e6a68974-5256-4e3e-8d8a-77e314ab2c84.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R0885-20150101
-  retrieved_at: '2026-10-22T02:35:56Z'
+  retrieved_at: '2026-10-22T15:04:17Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-21T03:21:36.271+01:00'
 integrity:
@@ -59,9 +140,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:56Z'
-  notes: Texto consolidado 02006R0885-20150101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:04:17Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2006-885.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -289,16 +370,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:56Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:04:17Z'
+  warnings: []
   errors: []
 ---
 

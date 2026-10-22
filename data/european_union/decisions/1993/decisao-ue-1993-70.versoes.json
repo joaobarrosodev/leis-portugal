@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993D0070:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993D0070-19991213",
+ "dre_path": null,
+ "source_lastmod": "1999-12-13",
+ "versions": [
+  {
+   "date": "1993-02-02",
+   "future": false,
+   "celex": "31993D0070",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "be60d604a8ccdcae",
+    "8eaef0fbe4e361dd",
+    "32244be36176d920",
+    "e49664fd5f75f8bb"
+   ]
+  }
+ ],
+ "fragments": {
+  "be60d604a8ccdcae": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**93/70/CEE: Decisão da Comissão, de 21 de Dezembro de 1992, relativa à codificação da mensagem Animo** *Jornal Oficial nº L 025 de 02/02/1993 p. 0034 - 0038*\n\nDECISÃO DA COMISSÃO de 21 de Dezembro de 1992 relativa à codificação da mensagem Animo\n\n(93/70/CEE)A COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 90/425/CEE do Conselho, de 26 de Junho de 1990, relativa aos controlos veterinários e zootécnicos aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno (1), com a última redacção que lhe foi dada pela Directiva 92/65/CEE (2), e, nomeadamente, o no 3 do seu artigo 20o,\n\nConsiderando que a Comissão adoptou, para garantir o funcionamento da rede, a Decisão 91/637/CEE, de 3 de Dezembro de 1991, que define o modelo da mensagem a transmitir através da rede informatizada Animo (3);\n\nConsiderando que é conveniente, para facilitar a compreensão rápida da mensagem Animo e garantir uma protecção sanitária eficaz dos animais, especificar a codificação a utilizar para as mercadorias referidas no ponto 4 do anexo da Decisão 91/637/CEE;\n\nConsiderando que o facto de inserir, na codificação prevista na presente decisão, determinados animais vivos ou produtos, não implica, por si só, o envio de uma mensagem através da rede informatizada Animo;\n\nConsiderando que as medidas previstas na presente decisão estão em conformidade com o parecer do Comité veterinário permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "8eaef0fbe4e361dd": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nOs códigos a utilizar para as mercadorias referidas no ponto 4, primeiro travessão, do anexo da Decisão 91/637/CEE encontram-se definidos no anexo da presente decisão."
+  },
+  "32244be36176d920": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 21 de Dezembro de 1992.\n\nPela Comissão\n\nRay MAC SHARRY\n\nMembro da Comissão\n\n(1) JO no L 224 de 18. 8. 1990, p. 29.\n\n(2) JO no L 268 de 14. 9. 1992, p. 54.\n\n(3) JO no L 343 de 13. 12. 1991, p. 46."
+  },
+  "e49664fd5f75f8bb": {
+   "fragment_id": "ANEXO — NOMES E NÚMEROS DAS MERCADORIAS A UTILIZAR PARA A MENSAGEM ANIMO EQUÍDEOS (1) (código NC: 0101)",
+   "type": "divisao",
+   "heading": "ANEXO — NOMES E NÚMEROS DAS MERCADORIAS A UTILIZAR PARA A MENSAGEM ANIMO EQUÍDEOS (1) (código NC: 0101)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — NOMES E NÚMEROS DAS MERCADORIAS A UTILIZAR PARA A MENSAGEM ANIMO EQUÍDEOS (1) (código NC: 0101)\n\n- cavalos registados 21.01.01.09\n\n- cavalos de criação ou de rendimento 21.01.01.01\n\n- cavalos de talho 21.01.01.02\n\n- cavalos em regime temporário 21.01.01.10\n\n- outros eqiídeos 21.01.09\n\nBOVINOS (código NC: 0102)\n\n- vitelos com menos de 15 dias 21.02.01\n\n- bovinos de criação e de reprodução 21.02.02\n\n- bovinos de rendimento 21.02.04\n\n- bovinos de talho 21.02.03\n\n- outros bovinos 21.02.09\n\nOVINOS-CAPRINOS (código NC: 0104)\n\n- ovinos de reprodução ou de criação 21.03.02\n\n- ovinos de engorda 21.03.01\n\n- ovinos de talho 21.03.03\n\n- caprinos de reprodução ou de criação 21.04.02\n\n- caprinos de engorda 21.04.01\n\n- caprinos de talho 21.04.03\n\nSUÍNOS (código NC: 0103)\n\n- porcos de criação e de reprodução 21.05.02\n\n- porcos de rendimento 21.05.01\n\n- porcos de talho 21.05.03\n\nAVES (2) (código NC: 0105 ou 0106)\n\n- pintos do dia (20 unidades ou mais) 22.01.09\n\n- aves de reprodução e rendimento (20 unidades ou mais) 22.02.09\n\n- aves de reconstituição do stock de caça (20 unidades ou mais) 22.04.09\n\n- aves quando o lote é inferior a 20 unidades 22.09.09\n\n- aves para abate 22.03.09\n\nPEIXES VIVOS (3) (código NC: 0301)\n\n- espécies de peixes sensíveis 23.04.01.09\n\n- outras espécies de peixes 23.04.02\n\nCRUSTÁCEOS (3) (código NC: 0306)\n\n- espécies de crustáceos sensíveis 23.04.03.09\n\n- outras espécies de crustáceos 23.04.04\n\nMOLUSCOS (3) (código NC: 0307)\n\n- espécies de moluscos sensíveis 23.04.05.09\n\n- outras espécies de moluscos 23.04.06\n\nOVOS DE PEIXES VIVOS (3) (código NC: 0301)\n\n- ovos de espécies sensíveis 23.06.01\n\n- ovos de outras espécies 23.06.09\n\nOVOS PARA INCUBAÇÃO (código NC: 0407 00 11 ou 0407 00 19)\n\n- ovos a incubar quando o lote é inferior a 20 unidades 41.01.01\n\n- ovos a incubar quando o lote é igual ou superior a 20 unidades 41.01.02\n\nSÉMEN-ÓVULOS-EMBRIÕES (código NC: 0511)\n\n- sémen da espécie bovina 46.01.01\n\n- sémen da espécie suína 46.01.02\n\n- sémen de outras espécies:\n\n- equinos 46.01.09.01\n\n- ovinos 46.01.09.02\n\n- caprinos 46.01.09.03\n\n- outras (4) 46.01.09.99\n\n- óvulos da espécie bovina 46.02.01\n\n- óvulos de outras espécies:\n\n- suínos 46.02.09.01\n\n- equinos 46.02.09.02\n\n- ovinos 46.02.09.03\n\n- caprinos 46.02.09.04\n\n- outras (1) 46.02.09.99\n\n- embriões da espécie bovina 46.03.01\n\n- embriões de outras espécies:\n\n- suínos 46.03.09.01\n\n- equinos 46.03.09.02\n\n- ovinos 46.03.09.03\n\n- caprinos 46.03.09.04\n\n- outras (1) 46.03.09.99\n\nOUTROS MAMÍFEROS (5) (código NC: 0106)\n\n- Primatas 11.01\n\n- Artiodáctilos:\n\nRuminantes:\n\n- bovídeos 11.03.01.01\n\n- antílopes biungulados 11.03.01.02\n\n- girafas 11.03.01.03\n\n- cervídeos 11.03.01.04\n\n- outros ruminantes 11.03.01.05\n\nCamelideos:\n\n- camelídeos 11.03.02\n\nSuídeos:\n\n- hipopotamídeos 11.03.03.01\n\n- suínos 11.03.03.03\n\n- outros 11.03.03.02\n\n- Perissodáctilos:\n\n- rinocerontes 11.04.01\n\n- tapires 11.04.02\n\n- Sirénios 11.05\n\n- Hiracoídeos 11.06\n\n- Proboscídeos:\n\n- elefante de África 11.07.01\n\n- elefante da Ásia 11.07.02\n\n- Tubulidentes:\n\n- oricetorepes 11.08.01\n\n- Carnívoros:\n\nFelídeos:\n\n- gatos (6) 11.09.01\n\n- outros felídeos 11.09.02\n\nCanídeos:\n\n- caes (1) 11.09.03\n\n- outros canídeos 11.09.04\n\nOutros carnívoros:\n\n- hienídeos 11.09.05\n\n- viverrídeos 11.09.06\n\n- mustelídeos 11.09.07\n\n- procionídeos 11.09.08\n\n- ursídeos 11.09.09\n\n- Pinípedes:\n\n- focas 11.10.01\n\n- otárias 11.10.03\n\n- odobenídeos 11.10.02\n\n- Cetáceos 11.11\n\n- Roedores:\n\n- caviídeos 11.12.01.01\n\n- outros histricídeos 11.12.01.99\n\n- murídeos 11.12.02\n\n- outros murídeos 11.12.02.99\n\n- ciuromorfos 11.12.03\n\n- Lagomorfos:\n\n- lebres de repovoamento 11.12.04.01\n\n- outras lebres 11.12.04.02\n\n- coelhos bravos 11.12.04.03\n\n- octonídeos 11.12.04.04\n\n- Folidotes 11.13\n\n- Desdendatos 11.14\n\n- Quirópteros 11.15\n\n- Insectívoros 11.16\n\n- Dermópteros 11.17\n\n- Marsupiais 11.18\n\n- Monotrématos 11.19\n\nOUTRAS AVES (7) (código NC: 0106)\n\n- Anseriformes 12.16\n\n- Apodiformes 12.06\n\n- Apterygiformes 12.23\n\n- Caprimulgiformes 12.07\n\n- Caslariiformes 12.24\n\n- Charadriiformes 12.13\n\n- Ciconiiformes 12.17\n\n- Coliiformes 12.05\n\n- Columbiformes 12.11\n\n- Coraciiformes 12.03\n\n- Cuculiformes 12.09\n\n- Falconiformes 12.15\n\n- Galliformes 12.14\n\n- Gaviiformes 12.21\n\n- Grisiformes 12.12\n\n- Passeriformes 12.01\n\n- Pelecaniformes 12.18\n\n- Piciformes 12.02\n\n- Podicipediformes 12.20\n\n- Procellariiformes 12.19\n\n- Psittaciformes 12.10\n\n- Rheiformes 12.25\n\n- Sphenisciformes 12.27\n\n- Strigiformes 12.08\n\n- Struthioniformes 12.26\n\n- Tinamiformes 12.22\n\n- Trogoniformes 12.04\n\nRÉPTEIS (8) (código NC: 0106)\n\n- Sáurios 13.01\n\n- Ofídeos 13.02\n\n- Crocodilos 13.04\n\n- Quelónios:\n\n- quelonídeos 13.03.01\n\n- outros quelónios 13.03.99\n\nANFÍBIOS (1) (código NC: 0106)\n\n- Anuros:\n\n- ranídeos 14.01.01\n\n- outros anuros 14.01.99\n\n- Urodelos 14.02\n\n- Ápodes 14.03\n\nOUTROS VERTEBRADOS (1) (código NC: 0106) 19.01\n\nINVERTEBRADOS (1) (código NC: 0106)\n\n- Insectos:\n\n- abelha-rainha 24.01.01\n\n- abelhas 24.01.02\n\n- bicho-da-seda 24.01.03\n\n- outros insectos 24.01.99\n\n- Outros invertebrados 24.02\n\nDESPOJOS ANIMAIS (9) (código NC: 0511)\n\n- matérias de alto risco não tratadas 49.01\n\n- matérias de alto risco tratadas 49.02\n\n- matérias de baixo risco não tratadas 49.03\n\n- matérias de baixo risco tratadas 49.04\n\nGLÂNDULAS E ÓRGAOS (10) (código NC: 0510)\n\n- destinados à indústria de transformação farmacêutica 48.07.01\n\n(1) Espécies equina, incluindo as zebras, asinina ou animais provenientes dos seus cruzamentos.\n\n(2) Galinhas, perus, pintadas, patos, gansos, codornizes, pombos, faisões e perdizes.\n\n(3) Em relação com as doenças das listas I e II do anexo A da Directiva 91/67/CEE do Conselho.\n\n(4) Precisar se se trata de mercadorias: a) Provenientes e destinadas a organismos, institutos ou centros aprovados; b) Destinadas a um zoo.\n\n(5) Precisar se se trata de animais: a) De criação; b) Provenientes e destinados a organismos, institutos ou centros aprovados; c) Destinados a um zoo; d) Acompanhantes de circos ou de feirantes.\n\n(6) Precisar se se trata de animais: a) De menos de três meses; b) De três meses ou mais.\n\n(7) Precisar se se trata de animais: a) De criação; b) Provenientes e destinados a organismos, institutos ou centros aprovados; c) Destinados a um zoo; d) Acompanhantes de circos ou feirantes.\n\n(8) Precisar se se trata de animais: a) De criação; b) Provenientes e destinados a organismos, institutos ou centros aprovados; c) Destinados a um zoo; d) Acompanhantes de circos ou feirantes.\n\n(9) Segundo a definição do artigo 2o, no 1 o da Directiva 90/667/CEE do Conselho.\n\n(10) De acordo com a Decisão 92/183/CEE da Comissão, artigo 1o, alínea a)."
+  }
+ }
+}

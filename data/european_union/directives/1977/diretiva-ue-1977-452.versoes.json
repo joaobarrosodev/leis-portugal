@@ -1,0 +1,339 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31977L0452:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977L0452-20071020",
+ "dre_path": null,
+ "source_lastmod": "2007-10-20",
+ "versions": [
+  {
+   "date": "1977-07-15",
+   "future": false,
+   "celex": "31977L0452",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f9b6495369867960",
+    "211b08437e1244df",
+    "834065343c267d8f",
+    "6fef5d7d4dec1d12",
+    "28422ca53df64b37",
+    "ce3f7f28cc813d98",
+    "6ef6e79356aa1316",
+    "c4f6f2e0320d05f3",
+    "88cda348beb219b0",
+    "56542674322b24cc",
+    "83d5a1f047612bda",
+    "b661b6d059f910e4",
+    "80de6545d17875d4",
+    "97ac4cddabf83948",
+    "ff402917fb79a3bf",
+    "af74748c271251b5",
+    "fe659dce38cea6b2",
+    "1fb46c8cc563a929",
+    "b35aaeecd0a5130a",
+    "cfb9535985eecfe6",
+    "1cdf5eafc23a3179",
+    "32baf2639af3f126",
+    "490cf43794f73e05",
+    "a424d02ed270e11f",
+    "b19196d05498e492",
+    "4f26dc9724c85b0f",
+    "d5261479392e71af",
+    "a2b649014fc336d2"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01977L0452-20070101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I — ÂMBITO DE APLICAÇÃO",
+    "Suprime Artigo 1o",
+    "Suprime CAPÍTULO II — DIPLOMAS, CERTIFICADOS E OUTROS",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime CAPÍTULO III — DIREITOS ADQUIRIDOS",
+    "Suprime Artigo 4o",
+    "Suprime CAPÍTULO IV — USO DO",
+    "Suprime TÍTULO DE FORMAÇÃO — Artigo 5o",
+    "Suprime CAPÍTULO V",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime CAPÍTULO VI — DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o",
+    "Suprime Artigo 21o"
+   ],
+   "fragments": [
+    "c7e5f9b3c1a99264"
+   ]
+  },
+  {
+   "date": "2007-10-20",
+   "future": false,
+   "celex": "01977L0452-20071020",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "5fdc5d57d059a0b9"
+   ]
+  }
+ ],
+ "fragments": {
+  "f9b6495369867960": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 77/452/CEE do Conselho, de 27 de Junho de 1977, que tem por objectivo o reconhecimento mútuo dos diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais e inclui medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento e da livre prestação de serviços** *Jornal Oficial nº L 176 de 15/07/1977 p. 0001 - 0007 Edição especial finlandesa: Capítulo 6 Fascículo 1 p. 0198 Edição especial grega: Capítulo 06 Fascículo 1 p. 0251 Edição especial sueca: Capítulo 6 Fascículo 1 p. 0198 Edição especial espanhola: Capítulo 06 Fascículo 2 p. 0003 Edição especial portuguesa: Capítulo 06 Fascículo 2 p. 0003*\n\nDIRECTIVA DO CONSELHO de 27 de Junho de 1977 que tem por objectivo o reconhecimento mútuo dos diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais e inclui medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento e da livre prestação de serviços\n\n(77/452/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 49o, 57o, 66o e 235o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que, nos termos do Tratado, é proibido, após o termo do período de transição, qualquer tratamento discriminatório em razão da nacionalidade em matéria de estabelecimento e de prestação de serviços; que este princípio do tratamento nacional se aplica, nomeadamente, à concessão das autorizações eventualmente exigidas para o acesso às actividades de enfermeiro responsável por cuidados gerais, bem como para a inscrição ou filiação em organizações ou organismos profissionais;\n\nConsiderando que é, no entanto, oportuno estabelecer normas tendentes a facilitar o exercício efectivo do direito de estabelecimento e da livre prestação de serviços dos enfermeiros responsáveis por cuidados gerais;\n\nConsiderando que, nos termos do Tratado, os Estados-membros não devem conceder qualquer auxílio susceptível de falsear as condições de estabelecimento;\n\nConsiderando que o no 1 do artigo 57o do Tratado prevê a adopção de directivas que tenham por objectivo o reconhecimento mútuo dos diplomas, certificados e outros títulos;\n\nConsiderando que é oportuno proceder simultaneamente com o reconhecimento mútuo dos diplomas, à coordenação das condições de formação dos enfermeiros responsáveis por cuidados gerais; que tal coordenação é objecto da Directiva 77/453/CEE (3);\n\nConsiderando que, em vários Estados-membros, a lei faz depender o acesso às actividades de enfermeiro responsável por cuidados gerais e o seu exercício da posse de um diploma de enfermeiro; que, noutros Estados-membros onde não se exige essa condição, o direito ao uso do título de enfermeiro responsável por cuidados gerais é, todavia, regulamentado por lei;\n\nConsiderando que, no que respeita ao uso do título de formação, e pelo facto de uma directiva de reconhecimento mútuo de diplomas não implicar necessariamente a equivalência material das formações a que tais diplomas se referem, é conveniente autorizá-lo apenas na língua do Estado-membro de origem ou de proveniência;\n\nConsiderando que, para facilitar a aplicação da presente directiva pelas administrações nacionais, os Estados-membros podem determinar que as pessoas que preencham as condições de formação por esta exigidas apresentem, juntamente com o respectivo título de formação, um certificado das autoridades competentes do país de origem ou de proveniência, comprovando que tais títulos são os referidos na presente directiva;\n\nConsiderando que, em matéria de moralidade e honorabilidade, é conveniente distinguir entre as condições exigíveis, por um lado, para o primeiro acesso à profissão e, por outro lado, para o seu exercício;\n\nConsiderando que, em caso de prestação de serviços, a exigência de inscrição ou filiação em organizações ou organismos profissionais, que está ligada ao carácter estável e permanente da actividade exercida no país de acolhimento, constituiria incontestavelmente um obstáculo para o prestador de serviços em virtude do carácter temporário da sua actividade; que é, portanto, conveniente afastá-la; que, contudo, é necessário assegurar, neste caso, o controlo da disciplina profissional que compete a tais organizações ou organismos profissionais; que é conveniente prever, para o efeito, e sem prejuízo da aplicação do artigo 62o do Tratado, a possibilidade de impor ao beneficiário a obrigação de notificar a prestação de serviços à autoridade competente do Estado-membro de acolhimento;\n\nConsiderando que, no que respeita às actividades assalariadas do enfermeiro responsável por cuidados gerais, o Regulamento (CEE) no 1612/68 do Conselho, de 15 de Outubro de 1968, relativo à livre circulação dos trabalhadores na Comunidade (4), não estabelece, para as profissões regulamentadas, normas específicas em matéria de moralidade e de honorabilidade, de disciplina profissional e de uso de um título; que, segundo os Estados-membros, as regulamentações em causa são ou podem ser aplicáveis tanto aos assalariados como aos não assalariados; que as actividades do enfermeiro responsável por cuidados gerais estão subordinadas em vários Estados-membros à posse de um diploma, certificado ou outro título de enfermeiro; que tais actividades são exercidas tanto por independentes como por assalariados ou ainda, alternadamente, na qualidade de assalariado e não assalariado, pelas mesmas pessoas, no decurso da respectiva carreira profissional; que, para favorecer plenamente a livre circulação destes profissionais na Comunidade é, consequentemente, necessário tornar extensiva aos enfermeiros assalariados a aplicação da presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "211b08437e1244df": {
+   "fragment_id": "CAPÍTULO I — ÂMBITO DE APLICAÇÃO",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — ÂMBITO DE APLICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — ÂMBITO DE APLICAÇÃO"
+  },
+  "834065343c267d8f": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva é aplicável às actividades de enfermeiro responsável por cuidados gerais.\n\n2. Para efeitos do disposto na presente directiva, entende-se por «actividades de enfermeiro responsável por cuidados gerais» as actividades exercidas sob os seguintes títulos profissionais:\n\nNa República Federal da Alemanha:\n\n«Krankenschwester», «Krankenpfleger»;\n\nNa Bélgica:\n\n«Hospitalier(ère)» «verpleegassistent(e)», «infirmier(ère)» «hospitalier(ère)» «ziekenhuisverpleger(-verpleegster)»;\n\nNa Dinamarca:\n\n«Sygeplejerske»;\n\nEm França:\n\n«Infirmier(ère)»;\n\nNa Irlanda:\n\n«Registered general nurse»;\n\nNa Itália:\n\n«Infermiere professionale»;\n\nNo Luxemburgo:\n\n«Infirmier»;\n\nNos Países Baixos:\n\n«Verpleegkundige»;\n\nNo Reino Unido:\n\n- Inglaterra, País de Gales e Irlanda do Norte:\n\n«State registered nurse»;\n\n- Na Escócia:\n\n«Registered general nurse»."
+  },
+  "6fef5d7d4dec1d12": {
+   "fragment_id": "CAPÍTULO II — DIPLOMAS, CERTIFICADOS E OUTROS",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — DIPLOMAS, CERTIFICADOS E OUTROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — DIPLOMAS, CERTIFICADOS E OUTROS\n\nTÍTULOS DE ENFERMEIRO RESPONSÁVEL POR CUIDADOS GERAIS"
+  },
+  "28422ca53df64b37": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nCada Estado-membro reconhece os diplomas, certificados e outros títulos, referidos no artigo 3o, concedidos aos nacionais dos Estados-membros pelos outros Estados-membros que sejam conformes com o artigo 1o da Directiva 77/453/CEE, e confere-lhes, no que respeita ao acesso às actividades não assalariadas do enfermeiro responsável por cuidados gerais e ao seu exercício, o mesmo efeito, no seu território, que o conferido aos diplomas, certificados e outros títulos que ele próprio concede."
+  },
+  "ce3f7f28cc813d98": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs diplomas, certificados e outros títulos referidos no artigo 2o são:\n\na) Na República Federal da Alemanha:\n\n- os certificados concedidos pelas autoridades competentes após o «Staatliche Pruefung in der Krankenpflege» (exame de Estado de enfermeiro/a),\n\n- os atestados das autoridades competentes da República Federal da Alemanha comprovativos da equivalência dos títulos de formação concedidos depois de 8 de Maio de 1945 pelas autoridades competentes da República Democrática Alema aos títulos enumerados no primeiro travessão;\n\nb) Na Bélgica:\n\n- a carta de «hospitalier(ère)» «verpleegassistent(e)» concedida pelo Estado ou pelas escolas criadas ou reconhecidas pelo Estado,\n\n- a carta de «infirmier(ère)» «hospitalier(ère)/ziekenhuisverpleger (verpleegster)» concedida pelo Estado ou pelas escolas criadas ou reconhecidas pelo Estado,\n\n- o diploma de «infirmier(ère)» «hospitalier(ère)» / «gegradueerd ziekenhuisverpleger(-verpleegster)» concedido pelo Estado ou por escolas superiores paramédicas criadas ou reconhecidas pelo Estado;\n\nc) Na Dinamarca:\n\n- o diploma de «sygeplejerske» concedido por uma escola de enfermagem reconhecida pelo Sundhedsstyrelsen (Instituto Nacional de Saúde);\n\nd) Em França:\n\n- o diploma de Estado de «infirmier(ère)» concedido pelo Ministério da Saúde;\n\ne) Na Irlanda:\n\n- o certificado de «Registered General Nurse» concedido por «An Bord Altranais (Nursing Board)»;\n\nf) Na Itália:\n\n- o «diploma di abilitazione professionale per infermiere professionale» concedido pelas escolas reconhecidas pelo Estado;\n\ng) No Luxemburgo:\n\n- o diploma de Estado de «infirmier»,\n\n- o diploma de Estado de «infirmier hospitalier gradué»,\n\nconcedidos pelo Ministro da Saúde Pública com base na decisão do júri de exame;\n\nh) Nos Países Baixos:\n\n- os diplomas de «verpleger A», «verpleegster A», «verpleegkundige A»,\n\n- o diploma de «verpleegkundige MBOV» (Middelbare Beroepsopleiding Verpleegkundige),\n\n- o diploma de «verpleegkundige HBOV» (Hogere Beroepsopleiding Verpleegkundige),\n\nconcedidos por uma das comissões de exame nomeadas pelos poderes públicos;\n\ni) No Reino Unido:\n\n- o certificado de admissão na parte geral do Registo, concedido na Inglaterra e no País de Gales, por «The General Nursing Council for England and Wales», na Escócia por «The General Nursing Council for Scotland» e na Irlanda do Norte por «The Northern Ireland Council for Nurses and Midwives»."
+  },
+  "6ef6e79356aa1316": {
+   "fragment_id": "CAPÍTULO III — DIREITOS ADQUIRIDOS",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — DIREITOS ADQUIRIDOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — DIREITOS ADQUIRIDOS"
+  },
+  "c4f6f2e0320d05f3": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs Estados-membros reconhecerão como prova suficiente, para os nacionais dos Estados-membros cujos diplomas, certificados e outros títulos não satisfaçam o conjunto de exigências mínimas de formação previstas no artigo 1o da Directiva 77/453/CEE, os diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais concedidos por esses Estados-membros antes da aplicação da Directiva 77/453/CEE, acompanhados de um atestado certificativo de que aqueles nacionais se dedicaram efectiva e licitamente às actividades de enfermeiro responsável por cuidados gerais, durante, pelo menos, três dos cinco anos que precederam a emissão do atestado.\n\nTais actividades devem ter incluído a responsabilidade total pela programação, organização e administração dos cuidados de enfermagem ao doente."
+  },
+  "88cda348beb219b0": {
+   "fragment_id": "CAPÍTULO IV — USO DO",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — USO DO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — USO DO"
+  },
+  "56542674322b24cc": {
+   "fragment_id": "TÍTULO DE FORMAÇÃO — Artigo 5o",
+   "type": "divisao",
+   "heading": "TÍTULO DE FORMAÇÃO — Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO DE FORMAÇÃO — Artigo 5o\n\n1. Sem prejuízo do disposto no artigo 13o, os Estados-membros de acolhimento velarão por que seja reconhecido aos nacionais dos Estados-membros que preencham as condições fixadas nos artigos 2o e 4o, o direito a usarem o respectivo título legal de formação, desde que este não seja idêntico ao título profissional, e eventualmente a sua abreviatura, do Estado-membro de origem ou de proveniência, na língua deste Estado. Os Estados-membros de acolhimento podem exigir que esse título seja seguido do nome e local do estabelecimento ou júri que o concedeu.\n\n2. Quando o título de formação do Estado-membro de origem ou de proveniência puder ser confundido no Estado-membro de acolhimento com qualquer título que exija, neste Estado, formação complementar não obtida pelo interessado, o Estado-membro de acolhimento pode exigir que aquele use o respectivo título de formação do Estado-membro de origem ou de proveniência em forma adequada, a indicar pelo Estado-membro de acolhimento."
+  },
+  "83d5a1f047612bda": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V\n\nDISPOSIÇÕES DESTINADAS A FACILITAR O EXERCÍCIO EFECTIVO DO DIREITO DE ESTABELECIMENTO E DA LIVRE PRESTAÇÃO DE SERVIÇOS DO ENFERMEIRO RESPONSÁVEL POR CUIDADOS GERAIS\n\nA. Disposições específicas relativas ao direito de estabelecimento"
+  },
+  "b661b6d059f910e4": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. O Estado-membro de acolhimento que exigir aos seus nacionais prova de moralidade ou de honorabilidade para o primeiro acesso a uma das actividades referidas no artigo 1o, aceitará como prova suficiente para os nacionais dos outros Estados-membros um atestado passado por uma autoridade competente do Estado-membro de origem ou de proveniência comprovativo de que estão preenchidas as condições de moralidade ou de honorabilidade exigidas neste Estado-membro para o acesso à actividade em causa.\n\n2. Quando o Estado-membro de origem ou de proveniência não exigir prova de moralidade ou de honorabilidade para o primeiro acesso à actividade em causa, o Estado-membro de acolhimento pode exigir aos nacionais do Estado-membro de origem ou de proveniência um certificado de registo criminal ou, na sua falta, documento equivalente passado por uma autoridade competente do Estado-membro de origem ou de proveniência.\n\n3. Se o Estado-membro de acolhimento tiver conhecimento de factos graves e concretos ocorridos fora do seu território e susceptíveis de terem consequências neste Estado relativamente ao acesso à actividade em causa, pode informar desses factos o Estado-membro de origem ou de proveniência.\n\nO Estado-membro de origem ou de proveniência investigará a veracidade dos factos, na medida em que sejam susceptíveis de terem consequências neste Estado-membro, relativamente ao acesso à actividade em causa. As autoridades deste Estado decidirão da natureza e da extensão das investigações a efectuar e comunicarão ao Estado-membro de acolhimento as medidas que, em consequência, tomarem quanto às declarações ou documentos que tenham passado.\n\nOs Estados-membros assegurarão a confidencialidade das informações comunicadas."
+  },
+  "80de6545d17875d4": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Quando, num Estado-membro de acolhimento, estiverem em vigor disposições legislativas, regulamentares e administrativas em matéria de moralidade ou de honorabilidade, incluindo as que prevejam sanções disciplinares em caso de falta profissional grave ou de condenação por crime relativas ao exercício de uma das actividades referidas no artigo 1o, o Estado-membro de origem ou de proveniência transmitirá ao Estado-membro de acolhimento as informações necessárias respeitantes às medidas ou sanções de carácter profissional ou administrativo aplicadas ao interessado, bem como às sanções penais susceptíveis de influir no exercício da profissão, no Estado-membro de origem ou de proveniência.\n\n2. Se o Estado-membro de acolhimento tiver conhecimento de factos graves e concretos ocorridos fora do seu território e susceptíveis de terem consequências, neste Estado, relativamente ao exercício da actividade em causa, pode informar desses factos o Estado-membro de origem ou de proveniência.\n\nO Estado-membro de origem ou de proveniência investigará a veracidade dos factos na medida em que sejam susceptíveis de terem consequências neste Estado-membro relativamente ao exercício da actividade em causa. As autoridades deste Estado decidirão da natureza e extensão das investigações a efectuar e comunicarão ao Estado-membro de acolhimento as medidas que, em consequência, tomarem quanto às informações comunicadas por força do no 1.\n\n3. Os Estados-membros assegurarão a confidencialidade das informações comunicadas."
+  },
+  "97ac4cddabf83948": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nQuando o Estado-membro de acolhimento exigir aos seus nacionais, para o acesso a uma das actividades referidas no artigo 1o, ou para o seu exercício, documento relativo à saúde física ou psíquica, tal Estado aceitará como suficiente, para o efeito, a apresentação do documento exigido no Estado-membro de origem ou de proveniência.\n\nQuando o Estado-membro de origem ou de proveniência não exigir documento daquela natureza para o acesso à actividade em causa, ou para o seu exercício, o Estado-membro de acolhimento aceitará dos nacionais do Estado-membro de origem ou de proveniência um atestado passado por autoridade competente desse Estado, correspondente aos atestados do Estado-membro de acolhimento."
+  },
+  "ff402917fb79a3bf": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs documentos referidos nos artigos 6o, 7o e 8o não podem, aquando da sua apresentação, ter sido emitidos há mais de três meses."
+  },
+  "af74748c271251b5": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. O processo para autorizar o acesso do interessado a uma das actividades referidas no artigo 1o, nos termos dos artigos 6o, 7o e 8o, deve ser concluído rapidamente e, o mais tardar, três meses após a apresentação da documentação completa do interessado, sem prejuízo dos atrasos que resultem de um eventual recurso introduzido no final daquele processo.\n\n2. Nos casos referidos no no 3 do artigo 6o e no no 2 do artigo 7o, o pedido de revisão suspende o prazo fixado no no 1.\n\nO Estado-membro consultado deve dar a sua resposta no prazo de três meses.\n\nAo receber a resposta, ou decorrido este prazo, o Estado-membro de acolhimento dará andamento ao processo referido no no 1.\n\nB. Disposições específicas relativas à prestação de serviços"
+  },
+  "fe659dce38cea6b2": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. Quando um Estado-membro exigir aos seus nacionais, para o acesso a uma das actividades referidas no artigo 1o, ou para o seu exercício, uma autorização, ou a inscrição ou filiação numa organização ou organismo profissional, tal Estado-membro dispensará dessa exigência, em caso de prestação de serviços, os nacionais dos Estados-membros.\n\nO interessado efectuará a prestação de serviços com os mesmos direitos e obrigações que os nacionais do Estado-membro de acolhimento; encontra-se, designadamente, sujeito às disposições disciplinares de carácter profissional ou administrativo aplicáveis nesse Estado-membro.\n\nQuando o Estado-membro de acolhimento tomar uma medida nos termos do segundo parágrafo ou tiver conhecimento de factos que contrariem tais disposições, informará desses factos imediatamente o Estado-membro onde se encontra estabelecido o interessado.\n\n2. O Estado-membro de acolhimento pode exigir que o interessado faça às autoridades competentes uma declaração prévia relativa à sua prestação de serviços, no caso de a execução de tal prestação implicar uma estada temporária no seu território.\n\nEm caso de urgência, tal declaração pode ser feita, logo que possível, após a prestação de serviços.\n\n3. Nos termos dos nos 1 e 2, o Estado-membro de acolhimento pode exigir ao interessado a apresentação de um ou mais documentos com as seguintes indicações:\n\n- a declaração referida no no 2,\n\n- atestado comprovativo de que o interessado exerce legalmente as actividades em causa no Estado-membro onde se encontra estabelecido,\n\n- atestado comprovativo de que o interessado possui o ou os diplomas, certificados ou outros títulos exigidos para a prestação de serviços em causa e referidos na presente directiva.\n\n4. O documento ou os documentos referidos no no 3 não podem, aquando da sua apresentação, ter sido emitidos há mais de doze meses.\n\n5. Quando um Estado-membro privar, no todo ou em parte, a título temporário ou definitivo, um dos seus nacionais ou um nacional de outro Estado-membro estabelecido no seu território, da faculdade de exercer qualquer uma das actividades referidas no artigo 1o, assegurará a suspensão ou revogação, conforme o caso, do atestado referido no segundo travessão do no 3."
+  },
+  "1fb46c8cc563a929": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nQuando, no Estado-membro de acolhimento, for necessária a inscrição num organismo de segurança social de direito público para regularizar, com um organismo segurador, as contas relativas a actividades exercidas em proveito de pessoas abrangidas por um sistema de segurança social, tal Estado-membro dispensará dessa exigência os nacionais dos Estados-membros estabelecidos noutro Estado-membro, quando se trate de prestação de serviços que implique a deslocação do interessado.\n\nTodavia, o interessado informará, previamente ou em caso de urgência posteriormente, aquele organismo da prestação de serviços.\n\nC. Disposições comuns ao direito de estabelecimento e à livre prestação de serviços"
+  },
+  "b35aaeecd0a5130a": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nQuando, no Estado-membro de acolhimento, estiver regulado o uso do título profissional relativo a uma das actividades referidas no artigo 1o, os nacionais dos Estados-membros que preencham as condições fixadas nos artigos 2o e 4o usarão o título profissional do Estado-membro de acolhimento que, neste Estado, corresponda àquelas condições de formação, e utilizarão a sua abreviatura."
+  },
+  "cfb9535985eecfe6": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nQuando o Estado-membro de acolhimento exigir aos seus nacionais um juramento ou uma declaração solene para o acesso a uma das actividades referidas no artigo 1o, ou para o seu exercício, e no caso de a fórmula de tal juramento ou declaração não puder ser utilizada pelos nacionais de outros Estados-membros, o Estado-membro de acolhimento velará por que seja facultada aos interessados uma fórmula adequada e equivalente."
+  },
+  "1cdf5eafc23a3179": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\n1. Os Estados-membros tomarão as medidas necessárias a fim de permitir que os interessados sejam informados da legislação sanitária e social, bem como, se for caso disso, da deontologia do Estado-membro de acolhimento.\n\nPara o efeito, podem criar serviços de informação junto dos quais os interessados possam obter as necessárias informações. Em caso de estabelecimento, os Estados-membros de acolhimento podem obrigar os interessados a entrar em contacto com tais serviços.\n\n2. Os Estados-membros podem criar os serviços referidos no no 1 junto das autoridades e organismos competentes, que designarão no prazo fixado no no 1 do artigo 19o.\n\n3. Se for caso disso, os Estados-membros providenciarão por que os interessados adquiram, no seu próprio interesse e no dos seus pacientes, os conhecimentos da língua necessários ao exercício da actividade profissional no Estado-membro de acolhimento."
+  },
+  "32baf2639af3f126": {
+   "fragment_id": "CAPÍTULO VI — DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — DISPOSIÇÕES FINAIS"
+  },
+  "490cf43794f73e05": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nO Estado-membro de acolhimento pode, em caso de dúvida justificada, exigir das autoridades competentes de outro Estado-membro a confirmação da autenticidade dos diplomas, certificados e outros títulos concedidos neste Estado-membro e referidos nos capítulos II e III, bem como a confirmação do facto de o interessado ter cumprido todas as condições de formação previstas na Directiva 77/453/CEE."
+  },
+  "a424d02ed270e11f": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nOs Estados-membros designarão, no prazo fixado no no 1 do artigo 19o, as autoridades e organismos habilitados a conceder ou a receber os diplomas, certificados e outros títulos, bem como os documentos ou informações referidos na presente directiva e informarão imediatamente desse facto os outros Estados-membros e a Comissão."
+  },
+  "b19196d05498e492": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nA presente directiva é igualmente aplicável aos nacionais dos Estados-membros que, nos termos do Regulamento (CEE) no 1612/68, exerçam ou venham a exercer como assalariados uma das actividades referidas no artigo 1o."
+  },
+  "4f26dc9724c85b0f": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\n1. Os Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva no prazo de dois anos a contar da data da sua notificação. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "d5261479392e71af": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\nSe num Estado-membro surgirem, na aplicação da presente directiva, graves dificuldades em certos domínios, a Comissão são examinará tais dificuldades em colaborarção com esse Estado e solicitará o parecer do Comité de Altos Funcionários da Saúde Pública instituído pela Decisão 75/365/CEE (5), com a última redacção que lhe foi dada pela Decisão 77/455/CEE (6).\n\nA Comissão submeterá ao Conselho, quando necessário, propostas adequadas."
+  },
+  "a2b649014fc336d2": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo em 27 de Junho de 1977.\n\nPelo Conselho\n\nO Presidente\n\nJ. SILKIN\n\n(1) JO no C 65 de 5. 6. 1970, p. 12.(2) JO no C 108 de 26. 8. 1970, p. 23.(3) JO no L 176 de 15. 7. 1977, p. 8.(4) JO no L 257 de 19. 10. 1968, p. 2.(5) JO no L 167 de 30. 6. 1975, p. 19.(6) JO no L 176 de 15. 7. 1977, p. 13."
+  },
+  "c7e5f9b3c1a99264": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1977L0452 — PT — 01.01.2007 — 009.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/377L0452) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/377L0452) [de 27 de Junho de 1977](http://publications.europa.eu/resource/celex/377L0452) [que tem por objectivo o reconhecimento mútuo dos diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais e inclui medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento e da livre prestação de serviços](http://publications.europa.eu/resource/celex/377L0452) [(77/452/CEE)](http://publications.europa.eu/resource/celex/377L0452) (JO L 176, 15.7.1977, p.1)\n\n**revogado por:**"
+  },
+  "5fdc5d57d059a0b9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1977L0452 — PT — 20.10.2007 — 010.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31977L0452) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31977L0452) [de 27 de Junho de 1977](http://publications.europa.eu/resource/celex/31977L0452) [que tem por objectivo o reconhecimento mútuo dos diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais e inclui medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento e da livre prestação de serviços](http://publications.europa.eu/resource/celex/31977L0452) [(77/452/CEE)](http://publications.europa.eu/resource/celex/31977L0452) (JO L 176, 15.7.1977, p.1)\n\n**revogado por:**\n\n- [Directiva 2005/36/CE do Parlamento Europeu e do Conselho de 7 de Setembro de 2005](http://publications.europa.eu/resource/celex/32005L0036) — L 255 — 22 — 30.9.2005"
+  }
+ }
+}

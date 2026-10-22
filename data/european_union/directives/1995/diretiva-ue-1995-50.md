@@ -34,6 +34,43 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-11-13'
+version_history:
+  file: diretiva-ue-1995-50.versoes.json
+  count: 2
+  source_lastmod: '2022-11-13'
+  versions:
+  - date: '2019-07-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-11-13'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 9.º-A
+    - Suprime Artigo 9.º-AA
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime ANEXO I
+    - Suprime ANEXO II
+    - Suprime INFRACÇÕES
+    - Suprime 1. Categoria de risco I
+    - Suprime 2. Categoria de risco II
+    - Suprime 3. Categoria de risco III
+    - Suprime ANEXO III
+    - Suprime MODELO DE FORMULÁRIO NORMALIZADO PARA A ELABORAÇÃO DO RELATÓRIO A ENVIAR À COMISSÃO SOBRE INFRACÇÕES E SANÇÕES
+    - Suprime Notas
 identifiers:
   celex: 31995L0050
   eli: http://data.europa.eu/eli/dir/1995/50/oj
@@ -48,7 +85,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4f09b0fc-323d-4cff-8b2e-a444900f2bbf.0011
   content_url: http://publications.europa.eu/resource/cellar/d8bef145-b36e-11ed-8912-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0050-20221113
-  retrieved_at: '2026-10-22T02:44:29Z'
+  retrieved_at: '2026-10-22T14:44:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:08:10.230+02:00'
 integrity:
@@ -57,9 +94,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:29Z'
-  notes: Texto consolidado 01995L0050-20221113.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:44:19Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1995-50.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -173,16 +210,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:29Z'
+  checked_at: '2026-10-22T14:44:19Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01995L0050-19951017: versão indisponível (Sem expressão na língua por para CELEX 01995L0050-19951017.)'
+  - '01995L0050-20010623: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995L0050-20050103: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01995L0050-20080711: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

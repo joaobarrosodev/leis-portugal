@@ -35,6 +35,185 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-11-20'
+version_history:
+  file: diretiva-ue-1998-70.versoes.json
+  count: 6
+  source_lastmod: '2023-11-20'
+  versions:
+  - date: '2009-06-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-06-22'
+    amending: eu:celex:32011L0063:por
+    amending_title: DIRECTIVA 2011/63/UE DA COMISSÃO de 1 de Junho de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.ºA — Redução das emissões de gases com efeito de estufa
+    - Altera Artigo 7.ºB — Critérios de sustentabilidade para os biocombustíveis
+    - Altera Artigo 7.ºD — Cálculo das emissões de gases com efeito de estufa ao longo do ciclo de vida dos biocombustíveis
+    - Altera Artigo 9.º — Relatórios
+    - Altera ESPECIFICAÇÕES AMBIENTAIS PARA OS COMBUSTÍVEIS DE MERCADO A UTILIZAR NOS VEÍCULOS EQUIPADOS COM MOTORES DE IGNIÇÃO
+      COMANDADA
+    - Altera ESPECIFICAÇÕES AMBIENTAIS PARA OS COMBUSTÍVEIS DE MERCADO A UTILIZAR NOS VEÍCULOS EQUIPADOS COM MOTORES DE IGNIÇÃO
+      POR COMPRESSÃO
+    - Altera ANEXO III
+    - Altera A. Valores típicos e por defeito para os biocombustíveis produzidos sem emissões líquidas de carbono devidas
+      a alterações da afectação dos solos
+    - Altera C. Metodologia
+    - 'Altera Valores desagregados por defeito para o cultivo: «eec», definido na parte C do presente anexo'
+    - Altera Notas
+    - Suprime VALORES AUTORIZADOS POR DERROGAÇÃO PARA A TENSÃO DE VAPOR DA GASOLINA QUE CONTÉM BIOETANOL
+  - date: '2014-07-01'
+    amending: eu:celex:32014L0077:por
+    amending_title: DIRETIVA 2014/77/UE DA COMISSÃÓ, Texto relevante para efeitos do EEE de 10 de junho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.ºA — Redução das emissões de gases com efeito de estufa
+    - Altera Artigo 7.ºB — Critérios de sustentabilidade para os biocombustíveis
+    - Altera Artigo 7.ºD — Cálculo das emissões de gases com efeito de estufa ao longo do ciclo de vida dos biocombustíveis
+    - Altera Artigo 9.º — Relatórios
+    - Altera ESPECIFICAÇÕES AMBIENTAIS PARA OS COMBUSTÍVEIS DE MERCADO A UTILIZAR NOS VEÍCULOS EQUIPADOS COM MOTORES DE IGNIÇÃO
+      COMANDADA
+    - Altera ESPECIFICAÇÕES AMBIENTAIS PARA OS COMBUSTÍVEIS DE MERCADO A UTILIZAR NOS VEÍCULOS EQUIPADOS COM MOTORES DE IGNIÇÃO
+      POR COMPRESSÃO
+    - Altera ANEXO III
+    - Altera A. Valores típicos e por defeito para os biocombustíveis produzidos sem emissões líquidas de carbono devidas
+      a alterações da afectação dos solos
+    - Altera C. Metodologia
+    - 'Altera Valores desagregados por defeito para o cultivo: «eec», definido na parte C do presente anexo'
+    - Altera Notas
+  - date: '2015-10-05'
+    amending: eu:celex:32015L1513:por
+    amending_title: DIRETIVA (UE) 2015/1513 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 9 de
+      setembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.ºA — Redução das emissões de gases com efeito de estufa
+    - Altera Artigo 7.ºB — Critérios de sustentabilidade para os biocombustíveis
+    - Altera Artigo 7.ºC — Verificação do cumprimento dos critérios de sustentabilidade para os biocombustíveis
+    - Altera Artigo 7.ºD — Cálculo das emissões de gases com efeito de estufa ao longo do ciclo de vida dos biocombustíveis
+    - Altera Artigo 7.ºE — Medidas de execução e relatórios sobre a sustentabilidade dos biocombustíveis
+    - Altera Artigo 8.º — Controlo do cumprimento e relatórios
+    - Altera Artigo 8.ºA — Aditivos metálicos
+    - Altera Artigo 9.º — Relatórios
+    - Altera Artigo 11.º — Procedimento de comité
+    - Altera ESPECIFICAÇÕES AMBIENTAIS PARA OS COMBUSTÍVEIS DE MERCADO A UTILIZAR NOS VEÍCULOS EQUIPADOS COM MOTORES DE IGNIÇÃO
+      COMANDADA
+    - Altera ESPECIFICAÇÕES AMBIENTAIS PARA OS COMBUSTÍVEIS DE MERCADO A UTILIZAR NOS VEÍCULOS EQUIPADOS COM MOTORES DE IGNIÇÃO
+      POR COMPRESSÃO
+    - Altera ANEXO III
+    - Altera A. Valores típicos e por defeito para os biocombustíveis produzidos sem emissões líquidas de carbono devidas
+      a alterações da afectação dos solos
+    - Altera C. Metodologia
+    - 'Altera Valores desagregados por defeito para o cultivo: «eec», definido na parte C do presente anexo'
+    - Altera Notas
+    - Adita Artigo 10.º
+    - Adita Procedimento de adaptação dos métodos analíticos autorizados e derrogações à pressão de vapor autorizada
+    - Adita Artigo 10.º-A — Exercício da delegação
+    - Adita ANEXO V
+    - Adita Parte A. Estimativas provisórias das emissões de biocombustíveis decorrentes da alteração indireta do uso do solo
+      (gCO2eq/MJ) ([^27^](http://publications.europa.eu/resource/cellar/9ecb0336-545d-42c6-aa26-da6b704080aa.0015.02/DOC_1#E0040))
+    - Adita Parte B. Biocombustíveis cujas emissões estimadas decorrentes da alteração indireta do uso do solo são consideradas
+      nulas
+    - Adita (^+^) Os valores médios aqui indicados representam uma média ponderada dos valores das matérias-primas modelados
+      individualmente. A magnitude dos valores no presente anexo é sensível ao conjunto de pressupostos (como o tratamento
+      de coprodutos, evolução dos rendimentos, teor de carbono e deslocação de outras produções) que são utilizados nos modelos
+      económicos elaborados para a sua estimação. Por conseguinte, embora não seja possível caracterizar por completo a variância
+      de incerteza associada a tais estimativas, foi realizada uma análise de sensibilidade dos resultados com base na variação
+      aleatória de parâmetros chave, a chamada análise de Monte Carlo.
+    - Suprime Artigo 10.º — Processo de adaptação ao progresso técnico
+  - date: '2018-12-24'
+    amending: eu:celex:32018R1999:por
+    amending_title: REGULAMENTO (UE) 2018/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Dezembro de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.ºA — Redução das emissões de gases com efeito de estufa
+    - Altera Artigo 7.ºB — Critérios de sustentabilidade para os biocombustíveis
+    - Altera Artigo 7.ºD — Cálculo das emissões de gases com efeito de estufa ao longo do ciclo de vida dos biocombustíveis
+    - Altera Artigo 8.º — Controlo do cumprimento e relatórios
+    - Altera Artigo 9.º — Relatórios
+    - Altera Artigo 11.º — Procedimento de comité
+    - Altera ESPECIFICAÇÕES AMBIENTAIS PARA OS COMBUSTÍVEIS DE MERCADO A UTILIZAR NOS VEÍCULOS EQUIPADOS COM MOTORES DE IGNIÇÃO
+      COMANDADA
+    - Altera ESPECIFICAÇÕES AMBIENTAIS PARA OS COMBUSTÍVEIS DE MERCADO A UTILIZAR NOS VEÍCULOS EQUIPADOS COM MOTORES DE IGNIÇÃO
+      POR COMPRESSÃO
+    - Altera ANEXO III
+    - Altera A. Valores típicos e por defeito para os biocombustíveis produzidos sem emissões líquidas de carbono devidas
+      a alterações da afectação dos solos
+    - Altera C. Metodologia
+    - 'Altera Valores desagregados por defeito para o cultivo: «eec», definido na parte C do presente anexo'
+    - Altera Parte B. Biocombustíveis cujas emissões estimadas decorrentes da alteração indireta do uso do solo são consideradas
+      nulas
+    - Altera Notas
+    - Altera (^+^) Os valores médios aqui indicados representam uma média ponderada dos valores das matérias-primas modelados
+      individualmente. A magnitude dos valores no presente anexo é sensível ao conjunto de pressupostos (como o tratamento
+      de coprodutos, evolução dos rendimentos, teor de carbono e deslocação de outras produções) que são utilizados nos modelos
+      económicos elaborados para a sua estimação. Por conseguinte, embora não seja possível caracterizar por completo a variância
+      de incerteza associada a tais estimativas, foi realizada uma análise de sensibilidade dos resultados com base na variação
+      aleatória de parâmetros chave, a chamada análise de Monte Carlo.
+    - Adita Parte A. Estimativas provisórias das emissões de biocombustíveis decorrentes da alteração indireta do uso do solo
+      (gCO2eq/MJ) ([^15^](http://publications.europa.eu/resource/cellar/2e2956b2-3436-11e9-8d04-01aa75ed71a1.0019.03/DOC_1#E0028))
+    - Suprime Parte A. Estimativas provisórias das emissões de biocombustíveis decorrentes da alteração indireta do uso do
+      solo (gCO2eq/MJ) ([^27^](http://publications.europa.eu/resource/cellar/9ecb0336-545d-42c6-aa26-da6b704080aa.0015.02/DOC_1#E0040))
+  - date: '2023-11-20'
+    amending: eu:celex:32023L2413:por
+    amending_title: DIRETIVA (UE) 2023/2413 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de outubro de 2023
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Gasóleo
+    - Altera Artigo 9.º — Relatórios
+    - Altera Artigo 11.º — Procedimento de comité
+    - Altera ESPECIFICAÇÕES AMBIENTAIS PARA OS COMBUSTÍVEIS DE MERCADO A UTILIZAR NOS VEÍCULOS EQUIPADOS COM MOTORES DE IGNIÇÃO
+      COMANDADA
+    - Altera ESPECIFICAÇÕES AMBIENTAIS PARA OS COMBUSTÍVEIS DE MERCADO A UTILIZAR NOS VEÍCULOS EQUIPADOS COM MOTORES DE IGNIÇÃO
+      POR COMPRESSÃO
+    - Altera ANEXO III
+    - Altera Notas
+    - Suprime Artigo 7.ºA — Redução das emissões de gases com efeito de estufa
+    - Suprime Artigo 7.ºB — Critérios de sustentabilidade para os biocombustíveis
+    - Suprime Artigo 7.ºC — Verificação do cumprimento dos critérios de sustentabilidade para os biocombustíveis
+    - Suprime Artigo 7.ºD — Cálculo das emissões de gases com efeito de estufa ao longo do ciclo de vida dos biocombustíveis
+    - Suprime Artigo 7.ºE — Medidas de execução e relatórios sobre a sustentabilidade dos biocombustíveis
+    - Suprime ANEXO IV
+    - Suprime REGRAS DE CÁLCULO DAS EMISSÕES DE GASES COM EFEITO DE ESTUFA AO LONGO DO CICLO DE VIDA PROVENIENTES DOS BIOCOMBUSTÍVEIS
+    - Suprime A. Valores típicos e por defeito para os biocombustíveis produzidos sem emissões líquidas de carbono devidas
+      a alterações da afectação dos solos
+    - Suprime B. Valores típicos e por defeito estimados para os futuros biocombustíveis, que em Janeiro de 2008, não existiam
+      no mercado ou nele estavam presentes em quantidades pouco significativas, produzidos sem emissões líquidas de carbono
+      devidas a alterações da afectação dos solos
+    - Suprime C. Metodologia
+    - 'Suprime D. Valores desagregados por defeito para os biocombustíveis:'
+    - 'Suprime Valores desagregados por defeito para o cultivo: «eec», definido na parte C do presente anexo'
+    - 'Suprime Valores por defeito discriminados para o processamento (incluindo electricidade excedentária): «ep – eee»,
+      definido na parte C do presente anexo'
+    - 'Suprime Valores por defeito discriminados para o transporte e distribuição: «etd», definido na parte C do presente
+      anexo'
+    - Suprime Total para o cultivo, processamento e transporte e distribuição
+    - Suprime E. Estimativa dos valores por defeito discriminados para os futuros biocombustíveis que, em Janeiro de 2008,
+      não existiam no mercado ou nele estavam presentes em quantidades pouco significativas
+    - 'Suprime Valores discriminados para o cultivo: «eec», definido na parte C do presente anexo'
+    - Suprime Valores discriminados para o processamento (incluindo a electricidade excedentária)«ep – eee», definido na parte
+      C do presente anexo
+    - Suprime Valores discriminados para o transporte e distribuição «etd», definido na parte C do presente anexo
+    - Suprime Total para o cultivo, o processamento e o transporte e distribuição
+    - Suprime ANEXO V
+    - Suprime Parte A. Estimativas provisórias das emissões de biocombustíveis decorrentes da alteração indireta do uso do
+      solo (gCO2eq/MJ) ([^15^](http://publications.europa.eu/resource/cellar/2e2956b2-3436-11e9-8d04-01aa75ed71a1.0019.03/DOC_1#E0028))
+    - Suprime Parte B. Biocombustíveis cujas emissões estimadas decorrentes da alteração indireta do uso do solo são consideradas
+      nulas
+    - Suprime (^+^) Os valores médios aqui indicados representam uma média ponderada dos valores das matérias-primas modelados
+      individualmente. A magnitude dos valores no presente anexo é sensível ao conjunto de pressupostos (como o tratamento
+      de coprodutos, evolução dos rendimentos, teor de carbono e deslocação de outras produções) que são utilizados nos modelos
+      económicos elaborados para a sua estimação. Por conseguinte, embora não seja possível caracterizar por completo a variância
+      de incerteza associada a tais estimativas, foi realizada uma análise de sensibilidade dos resultados com base na variação
+      aleatória de parâmetros chave, a chamada análise de Monte Carlo.
 identifiers:
   celex: 31998L0070
   eli: http://data.europa.eu/eli/dir/1998/70/oj
@@ -49,7 +228,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9cdbfc9b-d814-4e9e-b05d-49dbb7c97ba1.0011
   content_url: http://publications.europa.eu/resource/cellar/dbea39ae-8e12-11ee-8aa6-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0070-20231120
-  retrieved_at: '2026-10-22T02:36:24Z'
+  retrieved_at: '2026-10-22T14:47:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-13T15:01:25.283+02:00'
 integrity:
@@ -58,9 +237,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:24Z'
-  notes: Texto consolidado 01998L0070-20231120.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:03Z'
+  notes: 6 versão(ões); histórico completo em diretiva-ue-1998-70.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -303,42 +482,23 @@ relationships:
   source: null
 article_structure:
   article_count: 18
-  section_count: 5
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:24Z'
-  warnings: []
+  checked_at: '2026-10-22T14:47:03Z'
+  warnings:
+  - '01998L0070-19981228: versão indisponível (Sem expressão na língua por para CELEX 01998L0070-19981228.)'
+  - '01998L0070-20001204: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998L0070-20030322: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998L0070-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 98/70/CE do Parlamento Europeu e do Conselho de 13 de Outubro de 1998
-
-> 01998L0070 — PT — 20.11.2023 — 009.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32000L0071) — [DIRECTIVA 2000/71/CE DA COMISSÃO, de 7 de Novembro de 2000](http://publications.europa.eu/resource/celex/32000L0071) — L 287 — 46 — 14.11.2000
-- [►M2](http://publications.europa.eu/resource/celex/32003L0017) — [DIRECTIVA 2003/17/CE DO PARLAMENTO EUROPEU E DO CONSELHO, de 3 de Março de 2003](http://publications.europa.eu/resource/celex/32003L0017) — L 76 — 10 — 22.3.2003
-- [M3](http://publications.europa.eu/resource/celex/32003R1882) — [REGULAMENTO (CE) N.º 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO, de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
-- [►M4](http://publications.europa.eu/resource/celex/32009L0030) — [DIRECTIVA 2009/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO, de 23 de Abril de 2009](http://publications.europa.eu/resource/celex/32009L0030) — L 140 — 88 — 5.6.2009
-- [►M5](http://publications.europa.eu/resource/celex/32011L0063) — [DIRECTIVA 2011/63/UE DA COMISSÃO, de 1 de Junho de 2011](http://publications.europa.eu/resource/celex/32011L0063) — L 147 — 15 — 2.6.2011
-- [M6](http://publications.europa.eu/resource/celex/32014L0077) — [DIRECTIVA 2014/77/UE DA COMISSÃO, de 10 de Junho de 2014](http://publications.europa.eu/resource/celex/32014L0077) — L 170 — 62 — 11.6.2014
-- [►M7](http://publications.europa.eu/resource/celex/32015L1513) — [DIRECTIVA (UE) 2015/1513 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de Setembro de 2015](http://publications.europa.eu/resource/celex/32015L1513) — L 239 — 1 — 15.9.2015
-- [►M8](http://publications.europa.eu/resource/celex/32018R1999) — [REGULAMENTO (UE) 2018/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1999) — L 328 — 1 — 21.12.2018
-- [►M9](http://publications.europa.eu/resource/celex/32023L2413) — [DIRETIVA (UE) 2023/2413 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de outubro de 2023](http://publications.europa.eu/resource/celex/32023L2413) — L — 1 — 31.10.2023
-
-**Retificada por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32003L0017R%2801%29) — [Rectificação, JO L 185, 24.7.2003, p. 61 (2003/17/CE)](http://publications.europa.eu/resource/celex/32003L0017R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32009L0030R%2803%29) — [Rectificação, JO L 116, 7.5.2015, p. 25 (2009/30/CE)](http://publications.europa.eu/resource/celex/32009L0030R%2803%29)
-
-## DIRECTIVA 98/70/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 13 de Outubro de 1998
 

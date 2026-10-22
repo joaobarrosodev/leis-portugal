@@ -34,6 +34,36 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-03-08'
+version_history:
+  file: diretiva-ue-1996-34.versoes.json
+  count: 3
+  source_lastmod: '2012-03-08'
+  versions:
+  - date: '1996-06-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-02-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera ANEXO — ACORDO-QUADRO SOBRE A LICENÇA PARENTAL
+    - Adita Artigo 1o — Aplicação do Acordo-quadro
+    - Adita Artigo 2o — Disposições finais
+    - Adita Artigo 3o
+    - Suprime Artigo 1º — Aplicação do Acordo-quadro
+    - Suprime Artigo 2º — Disposições finais
+    - Suprime Artigo 3º
+  - date: '2012-03-08'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o — Aplicação do Acordo-quadro
+    - Suprime Artigo 2o — Disposições finais
+    - Suprime Artigo 3o
+    - Suprime ANEXO — ACORDO-QUADRO SOBRE A LICENÇA PARENTAL
 identifiers:
   celex: 31996L0034
   eli: http://data.europa.eu/eli/dir/1996/34/oj
@@ -48,7 +78,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8c458993-2618-4620-ad6f-8b30f6b583c3.0011
   content_url: http://publications.europa.eu/resource/cellar/1376576d-31d6-4d84-ac8e-1b058381d58d.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0034-20120308
-  retrieved_at: '2026-10-22T02:56:15Z'
+  retrieved_at: '2026-10-22T14:45:07Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T13:14:16.828+01:00'
 integrity:
@@ -57,9 +87,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:15Z'
-  notes: Texto consolidado 01996L0034-20120308.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:45:07Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1996-34.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -181,16 +211,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:15Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:45:07Z'
+  warnings: []
   errors: []
 ---
 

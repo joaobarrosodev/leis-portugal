@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0101:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0101-20021127",
+ "dre_path": null,
+ "source_lastmod": "2002-11-27",
+ "versions": [
+  {
+   "date": "2001-11-28",
+   "future": false,
+   "celex": "32001L0101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2810e640af1acd2b",
+    "cb83ed6609f86c51",
+    "13248b5ed416b543",
+    "88f71c5a75b1dd49",
+    "648967540239fe62",
+    "bf03f49b4fce7634",
+    "69a65d3e3d3834b6"
+   ]
+  },
+  {
+   "date": "2002-11-27",
+   "future": false,
+   "celex": "02001L0101-20021127",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera ANEXO"
+   ],
+   "fragments": [
+    "30d71a8e6e7660be",
+    "957d2a36e969cfa7",
+    "fc8ec8bcf7cd81bf",
+    "88f71c5a75b1dd49",
+    "648967540239fe62",
+    "c2768784123201be",
+    "946501d1c24b846b"
+   ]
+  }
+ ],
+ "fragments": {
+  "2810e640af1acd2b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2001/101/CE da Comissão, de 26 de Novembro de 2001, que altera a Directiva 2000/13/CE do Parlamento Europeu e do Conselho relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios** *Jornal Oficial nº L 310 de 28/11/2001 p. 0019 - 0021*\n\nDirectiva 2001/101/CE da Comissão\n\nde 26 de Novembro de 2001\n\nque altera a Directiva 2000/13/CE do Parlamento Europeu e do Conselho relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 95.o,\n\nTendo em conta a Directiva 2000/13/CE do Parlamento Europeu e do Conselho, de 20 de Março de 2000, relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios(1), e, nomeadamente, o seu artigo 6.o, n.o 6, segundo parágrafo, primeiro travessão, segundo parágrafo,\n\nConsiderando o seguinte:\n\n(1) A Directiva 64/433/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas sanitários em matéria de comércio intracomunitário de carne fresca(2), com a última redacção que lhe foi dada pela Directiva 95/23/CE(3) prevê uma definição de carne que foi estabelecida para efeitos de higiene e protecção da saúde pública. A definição abrange todas as partes animais que sejam próprias para consumo humano, mas não corresponde à percepção que o consumidor tem da carne e não permite informá-lo sobre a natureza real do produto designado pelo termo \"carne(s)\".\n\n(2) Vários Estados-Membros adoptaram uma definição normativa do termo \"carne(s)\" destinada à rotulagem de produtos que contêm carne. No entanto, a diversidade das abordagens nacionais deu origem a divergências que prejudicam o funcionamento do mercado interno e tornam necessária a elaboração de uma definição harmonizada.\n\n(3) A Directiva 2000/13/CE define no seu anexo I certas categorias de ingredientes cujo nome de categoria pode substituir o nome específico do ingrediente considerado para a indicação da lista de ingredientes.\n\n(4) A categoria \"carne(s)\" não é definida no referido anexo, o que coloca dificuldades em relação à aplicação da Directiva 2000/13/CE e, nomeadamente, no que diz respeito à indicação da lista dos ingredientes e à sua declaração quantitativa. Importa, assim, estabelecer uma definição harmonizada que corresponda ao nome da categoria \"carne(s) de\" para a aplicação das diferentes disposições da Directiva 2000/13/CE.\n\n(5) Tendo em conta o direito dos consumidores a uma informação correcta e clara para que possam escolher os seus alimentos e apreciar as diferenças de preço de venda, a menção da(s) espécie(s) utilizada(s) deve acompanhar a indicação desse nome de categoria.\n\n(6) A definição é aplicável apenas para a rotulagem de produtos que contenham carne como ingrediente. Por conseguinte, não se aplica no que respeita à rotulagem dos cortes de carne e das peças anatómicas, quando são comercializadas sem transformação.\n\n(7) As carnes separadas mecanicamente diferem de maneira significativa da percepção que os consumidores têm de \"carne(s)\". Devem, por conseguinte, ser excluídas do âmbito da definição.\n\n(8) Assim, devem ser designadas pelo seu nome específico, \"carnes separadas mecanicamente\", e o nome da espécie, em conformidade com a regra prevista no n.o 6 do artigo 6.o da Directiva 2000/13/CE. Esta disposição de rotulagem é aplicável aos produtos abrangidos pela definição comunitária das \"carnes separadas mecanicamente\".\n\n(9) As outras partes animais, que são próprias para consumo humano mas não fazem parte dos produtos abrangidos pela definição do termo \"carne(s)\" para efeitos de rotulagem, devem também ser designadas pelo nome específico de acordo com o mesmo princípio.\n\n(10) A fim de determinar de modo harmonizado o teor em \"carne(s)\", importa estabelecer limites máximos para os teores em matéria gorda e em tecido conjuntivo dos produtos que podem ser designados pelo nome de categoria \"carne(s) de\". Estes limites não prejudicam as disposições específicas para a carne picada nem para os preparados à base de carne picada previstas na Directiva 94/65/CE do Conselho, de 14 de Dezembro de 1994, que institui os requisitos de produção e de colocação no mercado de carnes picadas e de preparados de carnes(4).\n\n(11) Se os referidos limites máximos forem ultrapassados mas forem respeitados todos os demais critérios da definição de \"carne(s) de\", o teor em \"carne(s) de\" deve ser ajustado, diminuindo-o em conformidade, e a lista de ingredientes deve mencionar, para além dos termos \"carne(s) de\", a presença de matéria gorda e/ou de tecido conjuntivo.\n\n(12) Afigura-se igualmente necessário estabelecer um método harmonizado de determinação do teor em tecido conjuntivo.\n\n(13) Convém, consequentemente, alterar a Directiva 2000/13/CE.\n\n(14) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente dos Géneros Alimentícios,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "cb83ed6609f86c51": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 2000/13/CE é alterado em conformidade com o texto que figura em anexo."
+  },
+  "13248b5ed416b543": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros autorizarão o comércio de produtos conformes com a Directiva 2000/13/CE, alterada pela presente directiva, o mais tardar em 31 de Dezembro de 2002.\n\n2. Proibirão o comércio de produtos não conformes com a Directiva 2000/13/CE, alterada pela presente directiva, com efeitos a partir de 1 de Janeiro de 2003.\n\nTodavia, são permitidos, até ao esgotamento das existências, os produtos não conformes com a directiva, rotulados antes de 1 de Janeiro de 2003."
+  },
+  "88f71c5a75b1dd49": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar em 31 de Dezembro de 2002. Desse facto informarão imediatamente a Comissão.\n\nAs disposições adoptadas pelos Estados-Membros incluirão uma referência à presente directiva ou serão acompanhadas da referida referência aquando da publicação oficial. O modo da referência incumbe aos Estados-Membros."
+  },
+  "648967540239fe62": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "bf03f49b4fce7634": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 26 de Novembro de 2001.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 109 de 6.5.2000, p. 29.\n\n(2) JO 121 de 29.7.1964, p. 2012/64.\n\n(3) JO L 243 de 11.10.1995, p. 7.\n\n(4) JO L 368 de 31.12.1994, p. 10."
+  },
+  "69a65d3e3d3834b6": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nNo anexo I da Directiva 2000/13/CE é aditado o texto seguinte:\n\n\">POSIÇÃO NUMA TABELA>\""
+  },
+  "30d71a8e6e7660be": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "2001L0101 — PT — 27.11.2002 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0101:PT:NOT) [DIRECTIVA 2001/101/CE DA COMISSÃO de 26 de Novembro de 2001 que altera a Directiva 2000/13/CE do Parlamento Europeu e do Conselho relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0101:PT:NOT) (JO L 310, 28.11.2001, p.19)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0086:PT:NOT) | [Directiva 2002/86/CE da Comissão de 6 de Novembro de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0086:PT:NOT) | L 305 | 19 | 7.11.2002 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0101:PT:NOT)\n\nDIRECTIVA 2001/101/CE DA COMISSÃO\n\nde 26 de Novembro de 2001\n\nque altera a Directiva 2000/13/CE do Parlamento Europeu e do Conselho relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 95.o,\n\nTendo em conta a Directiva 2000/13/CE do Parlamento Europeu e do Conselho, de 20 de Março de 2000, relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios ([1](http://publications.europa.eu/resource/cellar/34819123-5724-44b9-9778-539aa52a7c1c.0018.02/DOC_1#E0001)), e, nomeadamente, o seu artigo 6.o, n.o 6, segundo parágrafo, primeiro travessão, segundo parágrafo,\n\n(1) A Directiva 64/433/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas sanitários em matéria de comércio intracomunitário de carne fresca ([2](http://publications.europa.eu/resource/cellar/34819123-5724-44b9-9778-539aa52a7c1c.0018.02/DOC_1#E0002)), com a última redacção que lhe foi dada pela Directiva 95/23/CE ([3](http://publications.europa.eu/resource/cellar/34819123-5724-44b9-9778-539aa52a7c1c.0018.02/DOC_1#E0003)) prevê uma definição de carne que foi estabelecida para efeitos de higiene e protecção da saúde pública. A definição abrange todas as partes animais que sejam próprias para consumo humano, mas não corresponde à percepção que o consumidor tem da carne e não permite informá-lo sobre a natureza real do produto designado pelo termo «carne(s)».\n\n(2) Vários Estados-Membros adoptaram uma definição normativa do termo «carne(s)» destinada à rotulagem de produtos que contêm carne. No entanto, a diversidade das abordagens nacionais deu origem a divergências que prejudicam o funcionamento do mercado interno e tornam necessária a elaboração de uma definição harmonizada.\n\n(3) A Directiva 2000/13/CE define no seu anexo I certas categorias de ingredientes cujo nome de categoria pode substituir o nome específico do ingrediente considerado para a indicação da lista de ingredientes.\n\n(4) A categoria «carne(s)» não é definida no referido anexo, o que coloca dificuldades em relação à aplicação da Directiva 2000/13/CE e, nomeadamente, no que diz respeito à indicação da lista dos ingredientes e à sua declaração quantitativa. Importa, assim, estabelecer uma definição harmonizada que corresponda ao nome da categoria «carne(s) de» para a aplicação das diferentes disposições da Directiva 2000/13/CE.\n\n(5) Tendo em conta o direito dos consumidores a uma informação correcta e clara para que possam escolher os seus alimentos e apreciar as diferenças de preço de venda, a menção da(s) espécie(s) utilizada(s) deve acompanhar a indicação desse nome de categoria.\n\n(6) A definição é aplicável apenas para a rotulagem de produtos que contenham carne como ingrediente. Por conseguinte, não se aplica no que respeita à rotulagem dos cortes de carne e das peças anatómicas, quando são comercializadas sem transformação.\n\n(7) As carnes separadas mecanicamente diferem de maneira significativa da percepção que os consumidores têm de «carne(s)». Devem, por conseguinte, ser excluídas do âmbito da definição.\n\n(8) Assim, devem ser designadas pelo seu nome específico, «carnes separadas mecanicamente», e o nome da espécie, em conformidade com a regra prevista no n.o 6 do artigo 6.o da Directiva 2000/13/CE. Esta disposição de rotulagem é aplicável aos produtos abrangidos pela definição comunitária das «carnes separadas mecanicamente».\n\n(9) As outras partes animais, que são próprias para consumo humano mas não fazem parte dos produtos abrangidos pela definição do termo «carne(s)» para efeitos de rotulagem, devem também ser designadas pelo nome específico de acordo com o mesmo princípio.\n\n(10) A fim de determinar de modo harmonizado o teor em «carne(s)», importa estabelecer limites máximos para os teores em matéria gorda e em tecido conjuntivo dos produtos que podem ser designados pelo nome de categoria «carne(s) de». Estes limites não prejudicam as disposições específicas para a carne picada nem para os preparados à base de carne picada previstas na Directiva 94/65/CE do Conselho, de 14 de Dezembro de 1994, que institui os requisitos de produção e de colocação no mercado de carnes picadas e de preparados de carnes ([4](http://publications.europa.eu/resource/cellar/34819123-5724-44b9-9778-539aa52a7c1c.0018.02/DOC_1#E0004)).\n\n(11) Se os referidos limites máximos forem ultrapassados mas forem respeitados todos os demais critérios da definição de «carne(s) de», o teor em «carne(s) de» deve ser ajustado, diminuindo-o em conformidade, e a lista de ingredientes deve mencionar, para além dos termos «carne(s) de», a presença de matéria gorda e/ou de tecido conjuntivo.\n\n(12) Afigura-se igualmente necessário estabelecer um método harmonizado de determinação do teor em tecido conjuntivo.\n\n(13) Convém, consequentemente, alterar a Directiva 2000/13/CE.\n\n(14) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente dos Géneros Alimentícios,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "957d2a36e969cfa7": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 2000/13/CE é alterado em conformidade com o texto que figura em anexo.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0086:PT:NOT)"
+  },
+  "fc8ec8bcf7cd81bf": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros autorizarão o comércio de produtos conformes com a Directiva 2000/13/CE, alterada pela presente directiva, o mais tardar em 1 de Janeiro de 2003.\n\n2. Proibirão o comércio de produtos não conformes com a Directiva 2000/13/CE, alterada pela presente directiva, com efeitos a partir de 1 de Julho de 2003.\n\nTodavia, são permitidos, até ao esgotamento das existências, os produtos não conformes com a directiva, rotulados antes de 1 de Julho de 2003.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0101:PT:NOT)"
+  },
+  "c2768784123201be": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "946501d1c24b846b": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nNo anexo I da Directiva 2000/13/CE é aditado o texto seguinte:\n\n([1](http://publications.europa.eu/resource/cellar/34819123-5724-44b9-9778-539aa52a7c1c.0018.02/DOC_1#src.E0001)) JO L 109 de 6.5.2000, p. 29.\n\n([2](http://publications.europa.eu/resource/cellar/34819123-5724-44b9-9778-539aa52a7c1c.0018.02/DOC_1#src.E0002)) JO 121 de 29.7.1964, p. 2012/64.\n\n([3](http://publications.europa.eu/resource/cellar/34819123-5724-44b9-9778-539aa52a7c1c.0018.02/DOC_1#src.E0003)) JO L 243 de 11.10.1995, p. 7.\n\n([4](http://publications.europa.eu/resource/cellar/34819123-5724-44b9-9778-539aa52a7c1c.0018.02/DOC_1#src.E0004)) JO L 368 de 31.12.1994, p. 10."
+  }
+ }
+}

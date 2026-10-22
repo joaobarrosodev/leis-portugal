@@ -1,0 +1,489 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008R0504:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0504-20160101",
+ "dre_path": null,
+ "source_lastmod": "2016-01-01",
+ "versions": [
+  {
+   "date": "2008-06-07",
+   "future": false,
+   "celex": "32008R0504",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7eecf8ecbf636593",
+    "226c39ffd0a88dad",
+    "d2b5912d6b5e8e4e",
+    "2a275b8c250d249a",
+    "485f9957180fe75f",
+    "f0f8c960bfdbce9b",
+    "c7529c5b274b5f6f",
+    "d69420fc3b57dcbd",
+    "3030bb579368d40e",
+    "0744eadfa2eca41d",
+    "a1d9a61941ac7983",
+    "2b2ea1933518a647",
+    "13483724b5d3a394",
+    "1e7a0903d2eed348",
+    "c79afa043bcd0225",
+    "2def863eebee9d27",
+    "f61d9de9a40b90f6",
+    "1ce193e8ddca6036",
+    "ca9396d0738e2be2",
+    "1ecfc79da3f1ac7f",
+    "cd4f26973d464ab0",
+    "023ef14558d64f35",
+    "9838dda5a3171ae2",
+    "5ee653fa98890500",
+    "40ed6b62e188ac6f",
+    "f03ee9b926a75c24",
+    "5982eed2f7f7a977",
+    "6de3b68964ef5070",
+    "56f3d80c823282e0",
+    "b76d202a844f758e",
+    "e8a9747b3b144b8b",
+    "79f69267bb8b2533",
+    "fd59964a39b6a45f",
+    "7fd045ac4f655f13",
+    "e81f183ed244a404",
+    "99645be30b7f55aa",
+    "eb806c4e728646d9",
+    "3221a010b73eb6cc",
+    "1a8799df9e1d2fc0",
+    "99973826fcc02605",
+    "fee7c0f6661bbf52",
+    "ac92454b442646ed",
+    "62b4b0b4c81fa7ac",
+    "1011aae77efdbeaf",
+    "4efe9df803c888fe"
+   ]
+  },
+  {
+   "date": "2016-01-01",
+   "future": false,
+   "celex": "02008R0504-20160101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime OBJECTO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+    "Suprime Artigo 1.º — Objecto e âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime CAPÍTULO II",
+    "Suprime DOCUMENTO DE IDENTIFICAÇÃO",
+    "Suprime Artigo 3.º — Princípios gerais e obrigação de identificação dos equídeos",
+    "Suprime Artigo 4.º — Organismos emissores de documentos de identificação de equídeos",
+    "Suprime Artigo 5.º — Identificação dos equídeos nascidos na Comunidade",
+    "Suprime Artigo 6.º — Derrogação ao preenchimento integral da secção I do documento de identificação",
+    "Suprime Artigo 7.º — Derrogações relativas à identificação de determinados equídeos em estado selvagem ou semi-selvagem",
+    "Suprime Artigo 8.º — Identificação de equídeos importados",
+    "Suprime CAPÍTULO III",
+    "Suprime CONTROLOS EXIGIDOS ANTES DA EMISSÃO DOS DOCUMENTOS DE IDENTIFICAÇÃO E REPETIDORES",
+    "Suprime Artigo 9.º — Verificação dos documentos de identificação únicos emitidos para os equídeos",
+    "Suprime Artigo 10.º — Medidas para detectar anterior marcação electrónica nos equídeos",
+    "Suprime Artigo 11.º — Métodos electrónicos de verificação da identidade",
+    "Suprime Artigo 12.º — Métodos alternativos para verificação da identidade",
+    "Suprime CAPÍTULO IV",
+    "Suprime CIRCULAÇÃO E TRANSPORTE DE EQUÍDEOS",
+    "Suprime Artigo 13.º — Circulação e transporte de equídeos registados e de equídeos de criação e de rendimento",
+    "Suprime Artigo 14.º — Derrogação aplicável a determinadas situações de deslocação ou transporte com ou sem documentos de identificação simplificados",
+    "Suprime Artigo 15.º — Circulação e transporte de equídeos destinados a abate",
+    "Suprime CAPÍTULO V",
+    "Suprime DUPLICAÇÃO, SUBSTITUIÇÃO E SUSPENSÃO DO DOCUMENTO DE IDENTIFICAÇÃO",
+    "Suprime Artigo 16.º — Duplicata do documento de identificação",
+    "Suprime Artigo 17.º — Documento de identificação substituto",
+    "Suprime Artigo 18.º — Suspensão do documento de identificação para efeitos de deslocação",
+    "Suprime CAPÍTULO VI",
+    "Suprime MORTE DO EQUÍDEO, EQUÍDEO DESTINADO A ABATE PARA CONSUMO HUMANO E REGISTO DE MEDICAMENTOS",
+    "Suprime Artigo 19.º — Morte do equídeo",
+    "Suprime Artigo 20.º — Equídeos destinados a abate para consumo humano e registo de medicação",
+    "Suprime CAPÍTULO VII",
+    "Suprime REGISTOS E SANÇÕES",
+    "Suprime Artigo 21.º — Base de dados",
+    "Suprime Artigo 22.º — Comunicação do código das bases de dados dos organismos emissores",
+    "Suprime Artigo 23.º — Bases de dados centrais e respectivos pontos de contacto e cooperação",
+    "Suprime Artigo 24.º — Sanções",
+    "Suprime CAPÍTULO VIII",
+    "Suprime DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+    "Suprime Artigo 25.º — Revogação",
+    "Suprime Artigo 26.º — Disposições transitórias",
+    "Suprime Artigo 27.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "4deccfd02d789fb0"
+   ]
+  }
+ ],
+ "fragments": {
+  "7eecf8ecbf636593": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Junho de 2008\n\nque aplica as Directivas 90/426/CEE e 90/427/CEE do Conselho no que respeita a métodos para identificação de equídeos\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 90/426/CEE do Conselho, de 26 de Junho de 1990, relativa às condições de polícia sanitária que regem a circulação de equídeos e as importações de equídeos provenientes de países terceiros [([^1])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr1-L_2008149PT.01000301-E0001), e, nomeadamente o n.º 4 do seu artigo 4.º,\n\nTendo em conta a Directiva 90/427/CEE do Conselho, de 26 de Junho de 1990, relativa às condições zootécnicas e genealógicas que regem o comércio intracomunitário de equídeos [([^2])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr2-L_2008149PT.01000301-E0002), e, nomeadamente, o n.º 2, alíneas c) e d), do seu artigo 4.º, o n.º 2, segundo travessão, do seu artigo 6.º e o n.º 1, primeiro parágrafo, do seu artigo 8.º,\n\nTendo em conta a Directiva 94/28/CE do Conselho, de 23 de Junho de 1994, que fixa os princípios relativos às condições zootécnicas e genealógicas aplicáveis às importações de animais, sémen, óvulos e embriões provenientes de países terceiros, e que altera a Directiva 77/504/CEE, que diz respeito aos animais da espécie bovina reprodutores de raça pura [([^3])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr3-L_2008149PT.01000301-E0003), e, nomeadamente o n.º 4 do seu artigo 3.º,\n\nConsiderando o seguinte:\n\n(1) A Decisão 93/623/CEE da Comissão, de 20 de Outubro de 1993, que estabelece o documento de identificação (passaporte) que acompanha os equídeos registados [([^4])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr4-L_2008149PT.01000301-E0004), introduz um método para identificação de equídeos registados em circulação, para fins de controlo da saúde animal.\n\n(2) A Decisão 2000/68/CE da Comissão, de 22 de Dezembro de 1999, que altera a Decisão 93/623/CEE da Comissão e estabelece a identificação dos equídeos de criação e de rendimento [([^5])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr5-L_2008149PT.01000301-E0005), define regras a aplicar ao documento de identificação que acompanha os equídeos durante a circulação.\n\n(3) As Decisões 93/623/CEE e 2000/68/CE foram aplicadas de maneira diferente consoante o Estado-Membro. Além disso, a identificação dos equídeos nessas decisões está ligada à circulação, enquanto na legislação comunitária relativa a outras espécies de gado, os animais são identificados, entre outros, para efeitos de controlo de doenças, independentemente do seu estatuto em termos de circulação. Além do mais, este sistema bifacetado de equídeos para efeitos de criação e de rendimento, por um lado, e equídeos registados, por outro, pode levar à emissão de mais de um documento de identificação respeitante a um só animal, o que é apenas evitável através da aplicação ao animal de uma marca indelével, mas não necessariamente visível, por ocasião da sua primeira identificação.\n\n(4) O esquema incluído no documento de identificação estabelecido na Decisão 93/623/CEE não é completamente compatível com informações semelhantes requeridas por organizações internacionais que lidam com os equídeos para concursos e corridas e pela Organização Mundial da Saúde Animal (OIE). O presente regulamento deve, por conseguinte, estabelecer um esquema adequado às necessidades da Comunidade e em consonância com os requisitos internacionalmente aceites.\n\n(5) As importações de equídeos continuam a estar sujeitas às condições estabelecidas na Directiva 90/426/CEE e, em especial, na Decisão 93/196/CEE da Comissão, de 5 de Fevereiro de 1993, relativa as condições sanitárias e à certificação veterinária a que estão sujeitas as importações de equídeos para abate [([^6])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr6-L_2008149PT.01000301-E0006) e na Decisão 93/197/CEE da Comissão, de 5 de Fevereiro de 1993, relativa às condições sanitárias e à certificação veterinária a que estão sujeitas as importações de equídeos registados e de equídeos de criação e de rendimento [([^7])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr7-L_2008149PT.01000301-E0007).\n\n(6) Sempre que se aplicarem os procedimentos aduaneiros estabelecidos no Regulamento (CEE) n.º 2913/92 do Conselho, de 12 de Outubro de 1992, que estabelece o Código Aduaneiro Comunitário [([^8])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr8-L_2008149PT.01000301-E0008), é necessário remeter adicionalmente para o Regulamento (CEE) n.º 706/73 do Conselho, de 12 de Março de 1973, relativo à regulamentação comunitária aplicável às ilhas anglo-normandas e à Ilha de Man no que diz respeito às trocas comerciais de produtos agrícolas [([^9])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr9-L_2008149PT.01000301-E0009). O Regulamento (CEE) n.º 706/73 estabelece que, a partir de 1 de Setembro de 1973, são aplicáveis, no domínio da legislação veterinária, as regras comunitárias, mas exclui a legislação comunitária relativa à zootecnia. O presente regulamento deve aplicar-se sem prejuízo do Regulamento (CEE) n.º 706/73.\n\n(7) O Regulamento (CE) n.º 1760/2000 do Parlamento Europeu e do Conselho, de 17 de Julho de 2000, que estabelece um regime de identificação e registo de bovinos e relativo à rotulagem da carne de bovino e dos produtos à base de carne de bovino [([^10])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr10-L_2008149PT.01000301-E0010) contém uma definição de detentor de animais. Em contrapartida, o n.º 2 do artigo 4.º da Directiva 90/426/CEE remete para o proprietário ou criador do animal. A Directiva 92/35/CEE do Conselho, de 29 de Abril de 1992, que define as regras de controlo e as medidas de luta contra a peste equina [([^11])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr11-L_2008149PT.01000301-E0011) prevê uma definição combinada de proprietário e detentor. Como, ao abrigo da legislação nacional e comunitária, o proprietário de um equídeo não é necessariamente a pessoa responsável por ele, é adequado esclarecer que, em primeiro lugar, cabe ao detentor do animal, que pode ser o seu proprietário, responsabilizar-se pela identificação dos equídeos, em conformidade com o presente regulamento.\n\n(8) No interesse da coerência da legislação comunitária, os métodos para identificação de equídeos previstos no âmbito do presente regulamento devem aplicar-se sem prejuízo da Decisão 96/78/CE da Comissão, de 10 de Janeiro de 1996, que determina os critérios de inscrição e registo de equídeos em livros genealógicos para fins de reprodução [([^12])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr12-L_2008149PT.01000301-E0012).\n\n(9) Estes métodos devem estar em consonância com os princípios estabelecidos pelas organizações de criadores aprovadas em conformidade com a Decisão 92/353/CEE da Comissão, de 11 de Junho de 1992, que determina os critérios de aprovação ou de reconhecimento das organizações ou associações que mantêm ou criam livros genealógicos dos equídeos registados [([^13])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr13-L_2008149PT.01000301-E0013). Em conformidade com essa decisão, cabe à organização ou associação que mantém o livro de origem da raça estabelecer princípios relativos a um sistema de identificação dos equídeos, à divisão do livro genealógico em classes e ao registo dos ascendentes no livro genealógico.\n\n(10) Além disso, o certificado de origem, referido no n.º 2, alínea d), do artigo 4.º da Directiva 90/427/CEE, a aditar ao documento de identificação, deve referir todas as informações necessárias para assegurar que os equídeos que transitam entre diferentes livros genealógicos são registados na classe cujos critérios preenchem.\n\n(11) Em conformidade com o terceiro travessão do artigo 1.º da Decisão 96/510/CE da Comissão, de 18 de Julho de 1996, que estabelece os certificados genealógicos e zootécnicos exigíveis aquando da importação de reprodutores ou dos respectivos sémen, óvulos e embriões [([^14])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr14-L_2008149PT.01000301-E0014), o certificado genealógico e zootécnico para equídeos registados deve estar em conformidade com o documento de identificação na acepção da Decisão 93/623/CEE. É, por conseguinte, necessário esclarecer que qualquer remissão para a Decisão 93/623/CEE, mas igualmente para a Decisão 2000/68/CE, deve ser entendida como uma remissão para o presente regulamento.\n\n(12) Como todos os equídeos nascidos ou importados na Comunidade em conformidade com o presente regulamento devem ser identificados por um só documento de identificação, é necessário prever disposições especiais sempre que o estatuto dos animais enquanto equídeos para criação e rendimento é alterado para o de equídeos registados, na acepção da alínea c) do artigo 2.º da Directiva 90/426/CEE.\n\n(13) Os Estados-Membros devem estar aptos a estabelecer regimes específicos para a identificação dos equídeos que evoluem em condições selvagens ou semi-selvagens em áreas ou territórios definidos, incluindo reservas naturais, a fim de garantir a coerência com o segundo parágrafo do artigo 2.º da Directiva 92/35/CEE.\n\n(14) A utilização de identificadores electrónicos («repetidores») em equídeos já é prática corrente a nível internacional. Esta tecnologia deve ser utilizada para assegurar a existência de uma ligação estreita entre o animal e os meios de identificação. Devem marcar-se os equídeos com um repetidor, embora se devam prever métodos alternativos para verificação da identidade do animal, desde que esses métodos alternativos dêem garantias equivalentes de que se pode impedir a múltipla emissão de documentos de identificação.\n\n(15) Embora os equídeos devam estar sempre acompanhados do seu documento de identificação, em conformidade com a actual legislação comunitária, devem prever-se disposições de derrogação a este requisito sempre que seja impossível, ou até pouco prático, manter o documento de identificação durante toda a vida do animal, ou no caso em que tal documento não tiver sido emitido, devido ao facto de o abate do animal ter ocorrido antes de este chegar à idade máxima a partir da qual é requerida identificação.\n\n(16) Estas derrogações devem aplicar-se sem prejuízo do artigo 14.º da Directiva 2003/85/CE do Conselho, de 29 de Setembro de 2003, relativa a medidas comunitárias de luta contra a febre aftosa [([^15])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr15-L_2008149PT.01000301-E0015), que prevê derrogações a determinadas medidas de controlo da doença no caso dos equídeos identificados presentes em explorações onde tenha sido confirmado um foco de febre aftosa.\n\n(17) Os Estados-Membros devem igualmente permitir a utilização de um documento de identificação simplificado no caso dos equídeos que são deslocados no interior do seu território. Os cartões plásticos com pastilha electrónica integrada («cartões inteligentes») foram introduzidos como dispositivos de armazenagem de dados em diversas áreas. Deve ser possível emitir estes cartões inteligentes, como opção, além do documento de identificação e utilizá-los em determinadas condições no lugar daquele, que acompanha os equídeos na sua circulação num Estado-Membro.\n\n(18) Ao abrigo do artigo 8.º do Regulamento (CE) n.º 2076/2005 da Comissão, de 5 de Dezembro de 2005, que estabelece disposições transitórias de execução dos Regulamentos (CE) n.º 853/2004, (CE) n.º 854/2004 e (CE) n.º 882/2004 do Parlamento Europeu e do Conselho e que altera os Regulamentos (CE) n.º 853/2004 e (CE) n.º 854/2004 [([^16])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr16-L_2008149PT.01000301-E0016), as exigências de informações relativas à cadeia alimentar respeitantes aos equídeos devem ser aplicadas até final de 2009.\n\n(19) É necessário prever disposições para o caso de perda do documento de identificação original emitido em conformidade com o presente regulamento. Essas disposições devem, tanto quanto possível, excluir a posse ilegal de mais do que um documento de identificação, a fim de descrever correctamente o estatuto do animal enquanto animal destinado a abate para consumo humano. Caso exista informação suficiente e verificável disponível, deve ser emitida uma duplicata do documento, assinalada enquanto tal, que, exclua, de forma global, o animal da cadeia alimentar. Nos restantes casos, deve ser emitido um documento substituto, igualmente assinalado enquanto tal, que, além disso, desclassificará o antigo equídeo registado, remetendo-o para o estatuto de equídeo de criação e de rendimento.\n\n(20) Em conformidade com os artigos 4.º e 5.º da Directiva 90/426/CEE, o documento de identificação consiste num instrumento para imobilizar os equídeos no caso de um foco de uma doença nas explorações onde estes permanecem ou são criados. É, pois, necessário prever a suspensão da validade daquele documento, para efeitos de circulação na eventualidade de um foco de determinadas doenças, através de uma entrada apropriada no documento de identificação.\n\n(21) Por morte do equídeo, que não por abate num matadouro, o documento de identificação deve ser devolvido pela autoridade que supervisionou a transformação do animal morto em conformidade com o Regulamento (CE) n.º 1774/2002 do Parlamento Europeu e do Conselho, de 3 de Outubro de 2002, que estabelece regras sanitárias relativas aos subprodutos animais não destinados ao consumo humano [([^17])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr17-L_2008149PT.01000301-E0017), e deve assegurar-se que o repetidor, ou eventuais métodos alternativos, incluindo marcas, utilizados para verificar a identidade do equídeo, não podem ser reciclados.\n\n(22) Para impedir que os repetidores entrem na cadeia alimentar, a carne dos animais dos quais não foi possível remover o repetidor por ocasião do abate deve ser declarada imprópria para consumo humano, em conformidade com a secção II, capítulo V, do anexo I do Regulamento (CE) n.º 854/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, que estabelece regras específicas de organização dos controlos oficiais de produtos de origem animal destinados ao consumo humano [([^18])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr18-L_2008149PT.01000301-E0018).\n\n(23) A normalização do local de implantação dos repetidores e o registo desse local nos documentos de identificação deverá tornar mais fácil a localização dos repetidores implantados.\n\n(24) Em conformidade com o artigo 2.º do Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios [([^19])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr19-L_2008149PT.01000301-E0019), os animais vivos preparados para a colocação no mercado da alimentação humana são definidos como géneros alimentícios. O mesmo regulamento prevê responsabilidades muito abrangentes para os operadores das empresas do sector alimentar em todas as fases da produção de alimentos, incluindo a rastreabilidade dos animais produtores de géneros alimentícios.\n\n(25) Os equídeos de criação e de rendimento, bem como os equídeos registados, podem tornar-se equídeos de talho, definidos na alínea d) do artigo 2.º da Directiva 90/426/CEE, num momento determinado das suas vidas. A carne de solípedes, grupo de que os equídeos fazem parte, é definida no anexo I do Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, que estabelece regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal [([^20])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr20-L_2008149PT.01000301-E0020).\n\n(26) Em conformidade com a secção III, ponto 7, do anexo II do Regulamento (CE) n.º 853/2004, os operadores responsáveis por matadouros devem receber, verificar e actuar em função das informações sobre a cadeia alimentar relativas à origem, percurso e gestão dos animais destinados à produção de géneros alimentícios. A autoridade competente pode autorizar que as informações sobre a cadeia alimentar relativas aos solípedes sejam enviadas para o matadouro ao mesmo tempo que os próprios animais, em vez de antes deles. O documento de identificação que acompanha os equídeos destinados a abate deve, por conseguinte, fazer parte dessas informações sobre a cadeia alimentar.\n\n(27) Ao abrigo do disposto na secção II, n.º 1 do capítulo III, do anexo I do Regulamento (CE) n.º 854/2004, o veterinário oficial deve verificar o cumprimento por parte do operador da empresa do sector alimentar da obrigação que lhe incumbe de assegurar que todos os animais aceites para abate destinados ao consumo humano sejam devidamente identificados.\n\n(28) Em conformidade com a secção III, ponto 8, do anexo II do Regulamento (CE) n.º 853/2004, os operadores das empresas do sector alimentar devem verificar os passaportes que acompanham os solípedes domésticos para assegurar que o animal se destina ao abate para o consumo humano e, se aceitarem o animal para o abate, devem entregar o passaporte ao veterinário oficial.\n\n(29) Sem prejuízo do Regulamento (CEE) n.º 2377/90 do Conselho, de 26 de Junho de 1990, que prevê um processo comunitário para o estabelecimento de limites máximos de resíduos de medicamentos veterinários nos alimentos de origem animal [([^21])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr21-L_2008149PT.01000301-E0021) e da Directiva 96/22/CE do Conselho, de 29 Abril de 1996, relativa à proibição de utilização de certas substâncias com efeitos hormonais ou tireostáticos e de substâncias ß-agonistas em produção animal [([^22])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr22-L_2008149PT.01000301-E0022), a administração de medicamentos veterinários a equídeos está sujeita à Directiva 2001/82/CE do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, que estabelece um código comunitário relativo aos medicamentos veterinários [([^23])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr23-L_2008149PT.01000301-E0023).\n\n(30) Os n.^os^ 2 e 3 do artigo 10.º da Directiva 2001/82/CE prevêem derrogações específicas do artigo 11.º daquela directiva aplicáveis aos equídeos, relativas ao tratamento de animais produtores de géneros alimentícios com medicamentos com um limite máximo de resíduos estabelecido para espécies que não as espécies-alvo ou autorizados no âmbito de outro quadro clínico, desde que os equídeos sejam identificados em conformidade com a legislação comunitária e que seja especificamente assinalado no seu documento de identificação que não são destinados a abate para consumo humano ou que são destinados a abate para consumo humano após um intervalo de segurança de pelo menos seis meses posteriores ao seu tratamento com as substâncias enumeradas no Regulamento (CE) n.º 1950/2006 da Comissão, de 13 de Dezembro de 2006, que fixa, em conformidade com a Directiva 2001/82/CE do Parlamento Europeu e do Conselho que estabelece um código comunitário relativo aos medicamentos veterinários, uma lista de substâncias essenciais para o tratamento de equídeos [([^24])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr24-L_2008149PT.01000301-E0024).\n\n(31) Para que se mantenha o controlo sobre a emissão dos documentos de identificação, deve registar-se numa base de dados um conjunto mínimo de dados relevantes sobre a emissão de tais documentos. As bases de dados dos diferentes Estados-Membros deveriam cooperar nos termos do disposto na Directiva 89/608/CEE do Conselho, de 21 de Novembro de 1989, relativa à assistência mútua entre as autoridades administrativas dos Estados-Membros e à colaboração entre estas e a Comissão, tendo em vista assegurar a correcta aplicação das legislações veterinária e zootécnica [([^25])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr25-L_2008149PT.01000301-E0025), de modo a facilitar o intercâmbio de dados.\n\n(32) O sistema *Universal Equine Life Number* (UELN) foi objecto de acordo a nível mundial entre as principais organizações de criadores de cavalos e de concursos equinos. Foi desenvolvido por iniciativa da *World Breeding Federation for Sport Horses* (WBFSH), do *International Stud-Book Committee* (ISBC), da *World Arabian Horse Organization* (WAHO), da *European Conference of Arabian Horse Organisations* (ECAHO), da *Conférence Internationale de l’Anglo-Arabe* (CIAA), da Federação Equestre Internacional (FEI) e da *Union Européenne du Trot* (UET), podendo ser consultadas informações acerca deste sistema no sítio Internet do UELN [([^26])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr26-L_2008149PT.01000301-E0026).\n\n(33) O sistema UELN adequa-se ao registo, tanto dos equídeos registados, como dos equídeos de criação e de rendimento e permite uma instalação gradual de redes informáticas, assegurando que a identidade dos animais possa continuar a ser verificada em conformidade com o artigo 6.º da Directiva 90/427/CEE, no caso dos equídeos registados.\n\n(34) Sempre que são atribuídos códigos a bases de dados, esses códigos, assim como o formato dos números de identificação registados relativos a cada animal, não devem, de modo algum, entrar em conflito com o sistema estabelecido no âmbito do UELN. Por conseguinte, a lista dos códigos UELN atribuídos deve ser consultada antes de ser dado qualquer eventual novo código a uma base de dados.\n\n(35) O n.º 3 do artigo 7.º da Directiva 90/426/CEE requer que o veterinário oficial anote num registo o número de identificação ou o número do documento de identificação do equídeo abatido e envie à autoridade competente do local de expedição, a pedido desta, uma certidão que ateste o abate do equídeo. Em conformidade com o n.º 4, subalínea i), do artigo 4.º da mesma directiva, o documento de identificação deve ser restituído à autoridade que o emitiu após o abate do cavalo registado. Estas exigências devem igualmente aplicar-se aos documentos de identificação emitidos para os equídeos de criação e de rendimento. Instituir um número de registo compatível com o UELN e utilizá-lo para identificar as autoridades ou os organismos que emitiram o documento de identificação deverá facilitar a conformidade com estas exigências. Sempre que possível, os Estados-Membros devem utilizar os organismos de ligação que nomearam em conformidade com o artigo 35.º do Regulamento (CE) n.º 882/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, relativo aos controlos oficiais realizados para assegurar a verificação do cumprimento da legislação relativa aos alimentos para animais e aos géneros alimentícios e das normas relativas à saúde e ao bem-estar dos animais [([^27])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr27-L_2008149PT.01000301-E0027).\n\n(36) A supervisão veterinária necessária para veicular as garantias de saúde animal em conformidade com os artigos 4.º e 5.º da Directiva 90/426/CEE só pode ficar assegurada se a exploração, na acepção da alínea a) do artigo 2.º do mesmo diploma, for conhecida pela autoridade competente. A aplicação da legislação alimentar engendra exigências semelhantes no que diz respeito aos equídeos enquanto animais produtores de géneros alimentícios. Contudo, devido à frequência das deslocações dos equídeos, em comparação com outros animais de gado, não se deve tentar estabelecer uma rastreabilidade habitual em tempo real relativa aos equídeos. A sua identificação deve, por conseguinte, constituir uma primeira fase de um sistema de identificação e registo de equídeos, a completar no quadro da nova política comunitária em matéria de sanidade animal.\n\n(37) Com vista à aplicação uniforme da legislação comunitária sobre identificação de equídeos nos Estados-Membros e para assegurar a sua clareza e transparência, as Decisões 93/623/CEE e 2000/68/CE devem ser revogadas e substituídas pelo presente regulamento.\n\n(38) Devem ser previstas medidas transitórias por forma a permitir que os Estados-Membros se adaptem às regras constantes do presente regulamento.\n\n(39) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal e do Comité Zootécnico Permanente,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "d2b5912d6b5e8e4e": {
+   "fragment_id": "OBJECTO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "OBJECTO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES"
+  },
+  "2a275b8c250d249a": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. O presente regulamento estabelece regras para a identificação dos equídeos:\n\na) Nascidos na Comunidade; ou\n\nb) Introduzidos em livre prática na Comunidade em conformidade com o regime aduaneiro definido no n.º 16, alínea a), do artigo 4.º do Regulamento (CEE) n.º 2913/92.\n\n2. O presente regulamento aplica-se sem prejuízo:\n\na) Do Regulamento (CEE) n.º 706/73 e da Decisão 96/78/CE; bem como\n\nb) Das medidas tomadas pelos Estados-Membros para registar as explorações que mantêm equídeos."
+  },
+  "485f9957180fe75f": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1. Para efeitos do presente regulamento, aplicam-se as definições constantes do artigo 2.º, alíneas a) e c) a f), h) e i), da Directiva 90/426/CEE e do artigo 2.º, alínea c), da Directiva 90/427/CEE.\n\n2. Também são aplicáveis as definições seguintes, entendendo-se por:\n\na) «Detentor», qualquer pessoa singular ou colectiva que seja proprietária, ou esteja na posse de, ou esteja encarregada de um animal da espécie equina, com ou sem contrapartidas financeiras, temporária ou permanentemente, incluindo durante o transporte, em mercados, ou durante concursos, corridas, ou eventos culturais;\n\nb) «Repetidor», um dispositivo passivo de identificação por radiofrequências, reservado à leitura: i) Conforme à norma ISO 11784 e utilizando uma tecnologia HDX ou FDX-B; bem como ii) Capaz de ser lido por um aparelho de leitura compatível com a norma ISO 11785 a uma distância mínima de 12 cm;\n\ni) Conforme à norma ISO 11784 e utilizando uma tecnologia HDX ou FDX-B; bem como\n\nii) Capaz de ser lido por um aparelho de leitura compatível com a norma ISO 11785 a uma distância mínima de 12 cm;\n\nc) «Equídeo» ou «animal da espécie equina», um mamífero solípede selvagem ou domesticado, de todas as espécies compreendidas no género *Equus* da família dos equídeos, e respectivos cruzamentos;\n\nd) «Número único vitalício», um código alfanumérico único, de quinze dígitos, que compile informações sobre um único equídeo, bem como sobre a base de dados e o país onde dessas informações foram pela primeira vez registadas, em conformidade com o sistema de codificação *Universal Equine Life Number* (UELN) e que inclua: i) Um código de identificação compatível UELN, de seis dígitos, relativo à base de dados referida no n.º 1 do artigo 21.º; seguido de ii) Um número de identificação individual de nove dígitos, atribuído ao equídeo.\n\ni) Um código de identificação compatível UELN, de seis dígitos, relativo à base de dados referida no n.º 1 do artigo 21.º; seguido de\n\nii) Um número de identificação individual de nove dígitos, atribuído ao equídeo.\n\ne) «Cartão inteligente», um cartão plástico com pastilha electrónica integrada, capaz de armazenar dados e de os transmitir electronicamente a sistemas informáticos compatíveis."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "c7529c5b274b5f6f": {
+   "fragment_id": "DOCUMENTO DE IDENTIFICAÇÃO",
+   "type": "divisao",
+   "heading": "DOCUMENTO DE IDENTIFICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DOCUMENTO DE IDENTIFICAÇÃO"
+  },
+  "d69420fc3b57dcbd": {
+   "fragment_id": "Artigo 3.º — Princípios gerais e obrigação de identificação dos equídeos",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Princípios gerais e obrigação de identificação dos equídeos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios gerais e obrigação de identificação dos equídeos\n\n1. Os equídeos referidos no n.º 1 do artigo 1.º não podem ser mantidos a não ser que estejam identificados em conformidade com o presente regulamento.\n\n2. Sempre que o detentor não for proprietário do equídeo, não deixa de agir em conformidade com o presente regulamento, em nome da pessoa singular ou colectiva proprietária do animal («o proprietário») e com o seu acordo.\n\n3. Para efeitos do presente regulamento, o sistema de identificação de equídeos é composto dos seguintes elementos:\n\na) Um documento de identificação único e vitalício;\n\nb) Um método que assegure a ligação inequívoca entre o documento de identificação e o equídeo;\n\nc) Uma base de dados que registe, sob um número de identificação único, os elementos de identificação relativos ao animal que deu origem a um documento de identificação emitido em intenção de uma pessoa registada nessa base de dados."
+  },
+  "3030bb579368d40e": {
+   "fragment_id": "Artigo 4.º — Organismos emissores de documentos de identificação de equídeos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Organismos emissores de documentos de identificação de equídeos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Organismos emissores de documentos de identificação de equídeos\n\n1. Os Estados-Membros asseguram que o documento de identificação referido no n.º 1 do artigo 5.º, para equídeos registados, é emitido pelos seguintes organismos («organismos emissores»):\n\na) Pela organização ou associação oficialmente acreditada ou reconhecida pelo Estado-Membro ou por um serviço oficial do Estado-Membro em causa, ambos na acepção da alínea c), primeiro travessão, do artigo 2.º da Directiva 90/427/CEE, responsáveis pelo livro genealógico da raça desse equídeo, tal como se refere na alínea c) do artigo 2.º da Directiva 90/426/CEE; ou\n\nb) Por uma representação, com sede num Estado-Membro, de qualquer associação ou organização internacional responsável por cavalos para concursos ou corridas, nos termos da alínea c) do artigo 2.º da Directiva 90/426/CEE.\n\n2. Os documentos de identificação emitidos pelas autoridades de um país terceiro competentes para a emissão de certificados genealógicos em conformidade com o terceiro travessão do artigo 1.º da Decisão 96/510/CE são considerados válidos, em conformidade com o presente regulamento, para os equídeos registados referidos no n.º 1, alínea b), do artigo 1.º\n\n3. O organismo emissor do documento de identificação referido no n.º 1 do artigo 5.º, respeitante a equídeos de criação e de rendimento, é nomeado pela autoridade competente.\n\n4. Os organismos emissores referidos nos n.^os^ 1, 2 e 3 agem em conformidade com o presente regulamento, nomeadamente com as disposições constantes dos artigos 5.º, 8.º a 12.º, 14.º, 16.º, 17.º, 21.º e 23.º\n\n5. Os Estados-Membros coligem e mantêm actualizada a lista dos organismos emissores, disponibilizando estas informações aos demais Estados-Membros e ao público, através de um sítio Internet.\n\nAs informações relativas aos organismos emissores incluem, pelo menos, os elementos de contacto necessários ao cumprimento das exigências constantes do artigo 19.º\n\nPor forma a assistir os Estados-Membros na disponibilização dessas listas actualizadas, a Comissão estabelece um sítio Internet, a partir do qual cada Estado-Membro institui uma ligação ao seu sítio Internet nacional.\n\n6. As listas dos organismos emissores em países terceiros, referidos no n.º 2, são estabelecidas e actualizadas em conformidade com as seguintes condições:\n\na) A autoridade competente do país terceiro no qual o organismo emissor está situado garante que: i) O organismo emissor cumpre o disposto no n.º 2; ii) O organismo emissor aprovado em conformidade com a Directiva 94/28/CE deve cumprir as exigências de informação referidas no n.º 3 do artigo 21.º do presente regulamento; iii) As listas dos organismos emissores são estabelecidas, actualizadas e comunicadas à Comissão;\n\ni) O organismo emissor cumpre o disposto no n.º 2;\n\nii) O organismo emissor aprovado em conformidade com a Directiva 94/28/CE deve cumprir as exigências de informação referidas no n.º 3 do artigo 21.º do presente regulamento;\n\niii) As listas dos organismos emissores são estabelecidas, actualizadas e comunicadas à Comissão;\n\nb) A Comissão: i) Envia periodicamente aos Estados-Membros notificações sobre as novas listas ou actualizações que recebe das autoridades competentes dos países terceiros em causa nos termos da subalínea iii) da alínea a); ii) Cuida de que sejam disponibilizadas ao público versões actualizadas dessas listas; iii) Se necessário, inclui o assunto relativo à lista de organismos emissores em países terceiros, sem atrasos indevidos, na ordem de trabalhos do Comité Zootécnico Permanente, para decisão em conformidade com o procedimento referido no n.º 2 do artigo 11.º da Directiva 88/661/CEE do Conselho [([^28])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr28-L_2008149PT.01000301-E0028).\n\ni) Envia periodicamente aos Estados-Membros notificações sobre as novas listas ou actualizações que recebe das autoridades competentes dos países terceiros em causa nos termos da subalínea iii) da alínea a);\n\nii) Cuida de que sejam disponibilizadas ao público versões actualizadas dessas listas;\n\niii) Se necessário, inclui o assunto relativo à lista de organismos emissores em países terceiros, sem atrasos indevidos, na ordem de trabalhos do Comité Zootécnico Permanente, para decisão em conformidade com o procedimento referido no n.º 2 do artigo 11.º da Directiva 88/661/CEE do Conselho [([^28])](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntr28-L_2008149PT.01000301-E0028)."
+  },
+  "0744eadfa2eca41d": {
+   "fragment_id": "Artigo 5.º — Identificação dos equídeos nascidos na Comunidade",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Identificação dos equídeos nascidos na Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Identificação dos equídeos nascidos na Comunidade\n\n1. Os equídeos nascidos na Comunidade são identificados através de um documento de identificação único em conformidade com o modelo de documento de identificação de equídeos estabelecido no anexo I («documento de identificação» ou «passaporte»). O documento é válido para toda a vida do equídeo.\n\nO documento de identificação é impresso num formato indivisível, com entradas para inserção das informações exigidas nas seguintes secções que o compõem:\n\na) No caso dos equídeos registados, secções I a X;\n\nb) No caso dos equídeos de criação e de rendimento, pelo menos as secções I, III, IV e VI a IX.\n\n2. O organismo emissor assegura-se de que o documento de identificação só é emitido para um animal da espécie equina se estiver devidamente preenchida, pelo menos, a respectiva secção I.\n\n3. Sem prejuízo do n.º 1 do artigo 1.º da Decisão 96/78/CE, e em derrogação do disposto na alínea a) do n.º 1 e no n.º 2 do presente artigo, os equídeos registados são identificados no documento de identificação de acordo com as regras emanadas dos organismos emissores referidos nos n.^os^ 1 ou 2 do artigo 4.º do presente regulamento.\n\n4. Relativamente aos equídeos registados, o organismo emissor, tal como referido na alínea a) do n.º 1 e no n.º 2 do artigo 4.º do presente regulamento, preenche a secção II do documento de identificação com as informações constantes do certificado de origem, tal como se estabelece no n.º 2, alínea d), do artigo 4.º da Directiva 90/427/CEE.\n\nEm conformidade com os princípios da organização de criadores aprovada ou reconhecida que mantém o livro de origem da raça do equídeo registado em causa, o certificado de origem inclui informações genealógicas completas, a secção do livro genealógico referida no artigo 2.º ou 3.º da Decisão 96/78/CE e, sempre que tiver sido definida, a classe da secção principal na qual o equídeo foi inscrito.\n\n5. Para efeitos da obtenção de um documento de identificação, o detentor ou, sempre que for especificamente exigido pela legislação do Estado-Membro onde o animal nasceu, o proprietário apresentam um pedido dentro dos prazos estabelecidos no n.º 6 do presente artigo e no n.º 1 do artigo 7.º, no sentido de obter o documento de identificação referido no n.º 1 do presente artigo, ao organismo emissor referido nos n.^os^ 1, 2 ou 3 do artigo 4.º, e fornecem igualmente todas as informações necessárias para cumprir o disposto no presente regulamento.\n\n6. Sem prejuízo do disposto no n.º 1 do artigo 13.º, os equídeos nascidos na Comunidade são identificados em conformidade com o presente regulamento antes de 31 de Dezembro do ano do nascimento do animal, ou no prazo de seis meses a contar da data de nascimento, consoante a data que ocorrer mais tarde.\n\nEm derrogação do disposto no primeiro parágrafo, os Estados-Membros são livres de decidir limitar o período máximo permitido para identificação do animal a seis meses.\n\nOs Estados-Membros que recorram à derrogação prevista no segundo parágrafo informam desse facto a Comissão e os demais Estados-Membros.\n\n7. A ordem das secções e a sua numeração permanecem inalteradas no documento de identificação, excepto no caso da secção I, que pode ser colocada nas páginas centrais do documento de identificação.\n\n8. O documento de identificação não pode ser duplicado ou substituído, excepto de acordo com o estabelecido nos artigos 16.º e 17.º"
+  },
+  "a1d9a61941ac7983": {
+   "fragment_id": "Artigo 6.º — Derrogação ao preenchimento integral da secção I do documento de identificação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Derrogação ao preenchimento integral da secção I do documento de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Derrogação ao preenchimento integral da secção I do documento de identificação\n\nEm derrogação do n.º 2 do artigo 5.º, sempre que um repetidor for implantado em conformidade com o disposto no artigo 11.º, ou, em alternativa, for aplicada uma marca individual, indelével e visível, em conformidade com o artigo 12.º, não é necessário providenciar as informações constantes do n.º 3, alíneas b) a h), da parte A da secção I e dos pontos 12 a 18 do esquema constante da parte B da secção I do documento de identificação, podendo, em sua substituição, ser utilizada uma fotografia ou imagem contendo pormenores suficientes para que se possa identificar o equídeo.\n\nA derrogação prevista no primeiro parágrafo aplica-se sem prejuízo das regras de identificação de equídeos estabelecidas pelos organismos emissores referidos nos n.^os^ 1, 2 e 3 do artigo 4.º"
+  },
+  "2b2ea1933518a647": {
+   "fragment_id": "Artigo 7.º — Derrogações relativas à identificação de determinados equídeos em estado selvagem ou semi-selvagem",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Derrogações relativas à identificação de determinados equídeos em estado selvagem ou semi-selvagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Derrogações relativas à identificação de determinados equídeos em estado selvagem ou semi-selvagem\n\n1. Em derrogação dos n.^os^ 1, 3 e 5 do artigo 5.º, a autoridade competente pode decidir que os equídeos que fazem parte de populações que evoluem em estado selvagem ou semi-selvagem, em determinadas áreas, incluindo reservas naturais, a definir pela autoridade, sejam identificados em conformidade com o artigo 5.º apenas quando forem removidos dessas áreas, incluindo para utilização doméstica.\n\n2. Os Estados-Membros que pretendam pôr em prática a derrogação prevista no n.º 1 notificam a Comissão acerca da população e das áreas em causa:\n\na) No prazo de seis meses a contar da data de entrada em vigor do presente regulamento; ou\n\nb) Antes de porem em prática a derrogação."
+  },
+  "13483724b5d3a394": {
+   "fragment_id": "Artigo 8.º — Identificação de equídeos importados",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Identificação de equídeos importados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Identificação de equídeos importados\n\n1. O detentor ou, sempre que for especificamente exigido pela legislação do Estado-Membro onde o animal é importado, o proprietário, apresenta um pedido de emissão de documento de identificação, ou de registo do documento de identificação existente na base de dados do organismo emissor adequado, em conformidade com o artigo 21.º, no prazo de 30 dias a contar da data de finalização dos procedimentos aduaneiros, tal como definido no n.º 16, alínea a), do artigo 4.º do Regulamento (CEE) n.º 2913/92, sendo que:\n\na) Os equídeos são importados na Comunidade; ou\n\nb) A admissão temporária definida no artigo 2.º, alínea i), da Directiva 90/426/CEE converte-se em admissão definitiva, em conformidade com o artigo 19.º, subalínea iii), do mesmo diploma.\n\n2. Sempre que um equídeo, na acepção do n.º 1 do presente artigo, seja acompanhado de documentos não conformes ao n.º 1 do artigo 5.º, ou falhos de determinadas informações exigidas em conformidade com o presente regulamento, o organismo emissor, a pedido do detentor ou, se tal for especificamente exigido pela legislação do Estado-Membro onde o animal é importado, a pedido do proprietário:\n\na) Completa o preenchimento desses documentos, para que passem a cumprir as exigências constantes do artigo 5.º; bem como\n\nb) Regista os elementos de identificação do equídeo em causa e as informações complementares na base de dados, em conformidade com o artigo 21.º\n\n3. Na eventualidade de os documentos que acompanham os equídeos, referidos no n.º 1 do presente artigo, não poderem ser alterados de forma a cumprir as exigências dos n.^os^ 1 e 2 do artigo 5.º, não são considerados válidos para efeitos de identificação em conformidade com o presente regulamento.\n\nQuando os documentos referidos no parágrafo anterior são devolvidos ao organismo emissor, ou sempre que este os inutilizar, esse facto fica registado na base de dados referida no artigo 21.º, sendo os equídeos identificados em conformidade com o artigo 5.º"
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "c79afa043bcd0225": {
+   "fragment_id": "CONTROLOS EXIGIDOS ANTES DA EMISSÃO DOS DOCUMENTOS DE IDENTIFICAÇÃO E REPETIDORES",
+   "type": "divisao",
+   "heading": "CONTROLOS EXIGIDOS ANTES DA EMISSÃO DOS DOCUMENTOS DE IDENTIFICAÇÃO E REPETIDORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTROLOS EXIGIDOS ANTES DA EMISSÃO DOS DOCUMENTOS DE IDENTIFICAÇÃO E REPETIDORES"
+  },
+  "2def863eebee9d27": {
+   "fragment_id": "Artigo 9.º — Verificação dos documentos de identificação únicos emitidos para os equídeos",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Verificação dos documentos de identificação únicos emitidos para os equídeos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Verificação dos documentos de identificação únicos emitidos para os equídeos\n\nAntes de emitir um documento de identificação, o organismo emissor ou a pessoa que o representa tomam todas as medidas adequadas no sentido de:\n\na) Verificar que nenhum documento de identificação foi ainda emitido naqueles termos para aquele equídeo em particular;\n\nb) Impedir a emissão fraudulenta de múltiplos documentos de identificação para um só equídeo.\n\nEstas medidas acarretam, pelo menos, a consulta dos documentos adequados e dos registos electrónicos disponíveis, o exame do animal para detecção de eventuais sinais ou marcas que indiquem ter havido uma identificação anterior e a aplicação das medidas previstas no artigo 10.º"
+  },
+  "f61d9de9a40b90f6": {
+   "fragment_id": "Artigo 10.º — Medidas para detectar anterior marcação electrónica nos equídeos",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Medidas para detectar anterior marcação electrónica nos equídeos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas para detectar anterior marcação electrónica nos equídeos\n\n1. As medidas referidas no artigo 9.º incluem, pelo menos, medidas para detectar:\n\na) Eventuais repetidores anteriormente implantados, utilizando um equipamento de leitura conforme à norma ISO 11785 e capaz de ler repetidores HDX e FDX-B, pelo menos sempre que o leitor estiver em contacto directo com a superfície corporal no sítio onde, em circunstâncias normais, são implantados os repetidores;\n\nb) Eventuais sinais clínicos que indiquem que um repetidor anteriormente implantado foi removido mediante procedimento cirúrgico;\n\nc) Qualquer outra marca alternativa que o animal comporte, aplicada em conformidade com o n.º 3, alínea b), do artigo 12.º\n\n2. Sempre que as medidas previstas no n.º 1 indiquem a existência de um repetidor anteriormente implantado, ou de qualquer outra marca alternativa aplicada em conformidade com o n.º 3, alínea b), do artigo 12.º, o organismo emissor toma as seguintes medidas:\n\na) No caso de um equídeo nascido num Estado-Membro, o organismo emite uma duplicata ou um documento de identificação substituto, em conformidade com os artigos 16.º ou 17.º;\n\nb) No caso de um equídeo importado, o organismo age em conformidade com o n.º 2 do artigo 8.º\n\n3. Sempre que as medidas previstas na alínea b) do n.º 1 indicarem a existência de um repetidor anteriormente implantado, ou que as medidas previstas na alínea c) do n.º 1 indicarem a existência de qualquer outra marca alternativa, o organismo emissor regista estas informações de forma adequada na parte A e no esquema constante da parte B da secção I do documento de identificação.\n\n4. Sempre que se confirmar ter havido remoção não documentada de um repetidor ou de uma marca alternativa, referidos no n.º 3 do presente artigo, num equídeo nascido na Comunidade, o organismo emissor, referido nos n.^os^ 1 ou 3 do artigo 4.º, emite um documento de identificação substituto em conformidade com o artigo 17.º"
+  },
+  "1ce193e8ddca6036": {
+   "fragment_id": "Artigo 11.º — Métodos electrónicos de verificação da identidade",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Métodos electrónicos de verificação da identidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Métodos electrónicos de verificação da identidade\n\n1. O organismo emissor assegura-se que, quando é identificado pela primeira vez, o equídeo é electronicamente marcado através da implantação de um repetidor.\n\nOs Estados-Membros estabelecem o nível mínimo de qualificações exigido para a intervenção referida no primeiro parágrafo ou designam a pessoa ou profissão a quem caberá responsabilizar-se por tais operações.\n\n2. O repetidor é implantado por via parentérica em condições de assepsia, entre a nuca e o garrote, a meio do pescoço, na área do ligamento nucal.\n\nContudo, a autoridade competente pode autorizar a implantação do repetidor num local diferente do pescoço do equídeo, desde que esta alternativa não comprometa o bem-estar do animal e não aumente o risco de migração do repetidor, comparativamente ao método referido no primeiro parágrafo.\n\n3. Quando o repetidor estiver implantado em conformidade com os n.^os^ 1 e 2, o organismo emissor regista as seguintes informações no documento de identificação:\n\na) Na secção I, ponto 5 da parte A, pelo menos os últimos 15 dígitos do código transmitido pelo repetidor e visualizado no leitor após a implantação, acompanhado, se for caso disso, de um autocolante com um código de barras ou a reprodução desse código, contendo pelo menos os últimos 15 dígitos do código transmitido pelo repetidor;\n\nb) Na secção I, ponto 11 da parte A, a assinatura e o carimbo da pessoa referida no n.º 1, que se encarregou da identificação e da implantação do repetidor;\n\nc) Na secção I, pontos 12 ou 13 do esquema constante da parte B, o local onde o repetidor foi implantado, tendo em atenção se foi do lado direito ou esquerdo do animal.\n\n4. Em derrogação da alínea a) do n.º 3 do presente artigo, sempre que as medidas previstas no n.º 2 do artigo 26.º forem aplicadas relativamente a um equídeo marcado com um repetidor que tenha sido previamente implantado e que não cumpra as normas definidas no n.º 2, alínea b), do artigo 2.º, o nome do fabricante ou sistema de leitura são inseridos na secção I, ponto 5 da parte A, do documento de identificação.\n\n5. Sempre que os Estados-Membros estabelecem regras para assegurar, em conformidade com as normas referidas no n.º 2, alínea b), do artigo 2.º, o carácter único dos números revelados pelos repetidores implantados pelos organismos emissores referidos no n.º 1, alínea a), do artigo 4.º, aprovados em conformidade com a Decisão 92/353/CEE pelas autoridades competentes desses mesmos Estados-Membros, essas regras são aplicadas sem comprometer o sistema de identificação estabelecido pelo organismo emissor de outro Estado-Membro ou país terceiro que se tenha encarregado da identificação em conformidade com o presente regulamento a pedido do detentor ou, sempre que tal seja especificamente requerido pela legislação do Estado-Membro em que o animal nasceu, pelo proprietário."
+  },
+  "ca9396d0738e2be2": {
+   "fragment_id": "Artigo 12.º — Métodos alternativos para verificação da identidade",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Métodos alternativos para verificação da identidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Métodos alternativos para verificação da identidade\n\n1. Em derrogação do n.º 1 do artigo 11.º, os Estados-Membros podem autorizar a identificação dos equídeos através de métodos alternativos adequados, incluindo marcas, que dêem garantias científicas equivalentes de que, sós ou em combinação, asseguram que a identidade do equídeo pode ser verificada e que impedem eficazmente a dupla emissão de documentos de identificação («método alternativo»).\n\nO organismo emissor assegura que não é emitido qualquer documento de identificação respeitante a um equídeo, a não ser que o método alternativo referido no primeiro parágrafo seja registado na secção I, pontos 6 ou 7 da parte A, do documento de identificação e na base de dados em conformidade com o n.º 1, alínea f), do artigo 21.º\n\n2. Sempre que é utilizado um método alternativo, o detentor possibilita o acesso às informações de identificação ou, se for caso disso, arca com os custos da verificação da identidade do animal.\n\n3. Os Estados-Membros asseguram que:\n\na) Não são utilizados métodos alternativos enquanto único meio de verificação da identidade da maior parte dos equídeos identificados em conformidade com o presente regulamento;\n\nb) As marcas visíveis aplicadas aos equídeos de criação e de rendimento não podem ser confundidas com as reservadas, no seu território, aos equídeos registados.\n\n4. Os Estados-Membros que pretendam pôr em prática a derrogação prevista no n.º 1, transmitem essa intenção à Comissão, aos demais Estados-Membros e ao público através de um sítio Internet.\n\nPor forma a assistir os Estados-Membros na disponibilização desta informação, a Comissão estabelece um sítio Internet, a partir do qual cada Estado-Membro institui uma ligação ao seu sítio Internet nacional."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "cd4f26973d464ab0": {
+   "fragment_id": "CIRCULAÇÃO E TRANSPORTE DE EQUÍDEOS",
+   "type": "divisao",
+   "heading": "CIRCULAÇÃO E TRANSPORTE DE EQUÍDEOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CIRCULAÇÃO E TRANSPORTE DE EQUÍDEOS"
+  },
+  "023ef14558d64f35": {
+   "fragment_id": "Artigo 13.º — Circulação e transporte de equídeos registados e de equídeos de criação e de rendimento",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Circulação e transporte de equídeos registados e de equídeos de criação e de rendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Circulação e transporte de equídeos registados e de equídeos de criação e de rendimento\n\n1. Os equídeos registados e os equídeos de criação e de rendimento devem estar sempre acompanhados do respectivo documento de identificação.\n\n2. Em derrogação do disposto no n.º 1, o documento de identificação não precisa de acompanhar os equídeos aí referidos quando estes:\n\na) Se encontram estabulados ou em pastoreio, podendo o documento de identificação ser exibido sem demoras pelo detentor;\n\nb) São deslocados a pé, temporariamente: i) Ou na vizinhança da exploração, num Estado-Membro, de maneira a que o documento de identificação possa ser exibido no prazo de três horas; ou ii) Ou durante a transumância dos equídeos de e para pastagens de Verão, podendo o documento de identificação ser exibido na exploração de partida;\n\ni) Ou na vizinhança da exploração, num Estado-Membro, de maneira a que o documento de identificação possa ser exibido no prazo de três horas; ou\n\nii) Ou durante a transumância dos equídeos de e para pastagens de Verão, podendo o documento de identificação ser exibido na exploração de partida;\n\nc) Não são desmamados e acompanham a mãe ou progenitora;\n\nd) Participam num treino ou numa prova incluídos numa competição ou num evento equestres, que requeira o abandono dos locais da competição ou do evento;\n\ne) São deslocados ou transportados em situação de emergência relativa aos próprios equídeos ou, sem prejuízo do n.º 1, segundo parágrafo, do artigo 14.º da Directiva 2003/85/CE, para a exploração onde habitualmente se encontram."
+  },
+  "9838dda5a3171ae2": {
+   "fragment_id": "Artigo 14.º — Derrogação aplicável a determinadas situações de deslocação ou transporte com ou sem documentos de identificação simplificados",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Derrogação aplicável a determinadas situações de deslocação ou transporte com ou sem documentos de identificação simplificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Derrogação aplicável a determinadas situações de deslocação ou transporte com ou sem documentos de identificação simplificados\n\n1. Em derrogação do n.º 1 do artigo 13.º, a autoridade competente pode autorizar a deslocação ou o transporte, no mesmo Estado-Membro, dos equídeos referidos naquele número, não acompanhados do respectivo documento de identificação, desde que, em sua substituição, se façam acompanhar de um cartão inteligente emitido pelo organismo emissor do documento de identificação, que contenha o conjunto de informações estabelecido no anexo II.\n\n2. Os Estados-Membros, em aplicação da derrogação prevista no n.º 1 do presente artigo, podem conceder derrogações entre si que abranjam as deslocações ou o transporte dos equídeos referidos no n.º 1 do artigo 13.º no espaço dos seus próprios territórios.\n\nOs Estados-Membros notificam a Comissão da sua intenção de conceder as referidas derrogações.\n\n3. O organismo emissor emite um documento provisório que inclua pelo menos uma remissão para o número único vitalício e, se disponível, para o código do repetidor, permitindo que o equídeo seja deslocado ou transportado no território do mesmo Estado-Membro durante um período que não pode exceder os 45 dias, durante o qual o documento de identificação é entregue ao organismo emissor ou à autoridade competente para que os elementos de identificação sejam actualizados.\n\n4. Sempre que, durante o período referido no n.º 3, um equídeo é transportado para outro Estado-Membro ou através de outro Estado-Membro para um país terceiro, faz-se acompanhar, independentemente do seu estatuto de registo, além do documento temporário, de um certificado sanitário em conformidade com o anexo C da Directiva 90/426/CEE. Se o equídeo não estiver marcado com um repetidor ou não estiver identificado por um método alternativo conforme ao artigo 12.º do presente regulamento, o certificado sanitário mencionado tem de ser completado com uma descrição em conformidade com a secção I do documento de identificação."
+  },
+  "5ee653fa98890500": {
+   "fragment_id": "Artigo 15.º — Circulação e transporte de equídeos destinados a abate",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Circulação e transporte de equídeos destinados a abate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Circulação e transporte de equídeos destinados a abate\n\n1. O documento de identificação emitido em conformidade com o n.º 1 do artigo 5.º ou com o artigo 8.º acompanha os equídeos destinados a abate na deslocação ou no transporte para o matadouro.\n\n2. Em derrogação do n.º 1, a autoridade competente pode autorizar, relativamente a um equídeo destinado a abate que não tenha sido identificado em conformidade com o artigo 5.º, que aquele seja transportado directamente da exploração de nascimento para o matadouro no mesmo Estado-Membro, desde que:\n\na) O equídeo tenha menos de 12 meses de idade e exiba estrelas radiculares visíveis nos incisivos laterais caducos;\n\nb) Haja rastreabilidade ininterrupta a partir da exploração de nascimento até ao matadouro;\n\nc) Durante o transporte para o matadouro, o equídeo seja individualmente identificável em conformidade com os artigos 11.º ou 12.º;\n\nd) A remessa seja acompanhada pelas informações relativas à cadeia alimentar em conformidade com a secção III do anexo II do Regulamento (CE) n.º 853/2004, que devem incluir uma remissão para a identificação individual referida na alínea c) do presente número.\n\n3. O n.º 1, alíneas b), c) e d), do artigo 19.º não se aplica no caso da deslocação ou do transporte de equídeos para abate em conformidade com o n.º 2 do presente artigo."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "f03ee9b926a75c24": {
+   "fragment_id": "DUPLICAÇÃO, SUBSTITUIÇÃO E SUSPENSÃO DO DOCUMENTO DE IDENTIFICAÇÃO",
+   "type": "divisao",
+   "heading": "DUPLICAÇÃO, SUBSTITUIÇÃO E SUSPENSÃO DO DOCUMENTO DE IDENTIFICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DUPLICAÇÃO, SUBSTITUIÇÃO E SUSPENSÃO DO DOCUMENTO DE IDENTIFICAÇÃO"
+  },
+  "5982eed2f7f7a977": {
+   "fragment_id": "Artigo 16.º — Duplicata do documento de identificação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Duplicata do documento de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Duplicata do documento de identificação\n\n1. Sempre que o documento de identificação original se perca mas que a identidade do equídeo possa ser estabelecida, nomeadamente através do código transmitido pelo repetidor, ou através do método alternativo, e esteja disponível uma declaração de propriedade, o organismo emissor, nos termos do n.º 1 do artigo 4.º, emite uma duplicata do documento de identificação com uma referência ao número único vitalício e assinala claramente o documento enquanto tal («duplicata do documento de identificação»).\n\nNeste caso, o equídeo é classificado na parte II da secção IX da duplicata do documento de identificação enquanto não sendo destinado a abate para consumo humano.\n\nOs elementos constantes da duplicata do documento de identificação, incluindo a classificação do equídeo na sua secção IX, são inseridos tendo em conta o número único vitalício constante da base de dados, tal como se refere no artigo 21.º\n\n2. Em derrogação do segundo parágrafo do n.º 1, a autoridade competente pode decidir suspender o estatuto do equídeo enquanto animal destinado a abate para consumo humano, por um período de seis meses, tendo o detentor a oportunidade de demonstrar satisfatoriamente, no prazo de 30 dias a contar da data de declaração de perda do documento de identificação, que o estatuto do equídeo enquanto animal destinado a abate para consumo humano não foi comprometido por nenhum tratamento medicamentoso.\n\nPara esse efeito, a autoridade competente insere a data do início do período de suspensão de seis meses na primeira coluna da parte III da secção IX da duplicata do documento de identificação e preenche a sua terceira coluna.\n\n3. Sempre que o documento de identificação original perdido tenha sido emitido por um organismo emissor de um país terceiro nos termos do n.º 2 do artigo 4.º, a duplicata do documento de identificação é emitida por esse organismo e encaminhada para o detentor ou, se tal for especificamente exigido pela legislação do Estado-Membro onde o animal se encontra, para o proprietário, através do organismo emissor ou da autoridade competente desse Estado-Membro.\n\nNeste caso, o equídeo é classificado na parte II da secção IX da duplicata do documento de identificação enquanto não sendo destinado a abate para consumo humano e a entrada na base de dados, como referido no n.º 1, alínea l), do artigo 21.º, é adaptada em conformidade.\n\nNão obstante, a duplicata do documento de identificação pode ser emitida por um organismo emissor, referido no n.º 1, alínea a), do artigo 4.º, que registe equídeos daquela raça, ou por um organismo emissor, referido no n.º 1, alínea b), do artigo 4.º, que registe equídeos para esse efeito no Estado-Membro onde o animal se encontra, tendo o organismo emissor original do país terceiro manifestado o seu acordo.\n\n4. Sempre que o documento de identificação original perdido tiver sido emitido por um organismo emissor que já não exista, a duplicata do documento de identificação é emitida por um organismo emissor do Estado-Membro onde o animal se encontra, em conformidade com o n.º 1."
+  },
+  "6de3b68964ef5070": {
+   "fragment_id": "Artigo 17.º — Documento de identificação substituto",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Documento de identificação substituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Documento de identificação substituto\n\nSempre que o documento de identificação original se perca e que a identidade do equídeo não possa ser estabelecida, o organismo emissor do Estado-Membro onde animal se encontra emite, nos termos do n.º 3 do artigo 4.º, um documento de identificação substituto («documento de identificação substituto») que é claramente marcado enquanto tal e que cumpre as exigências do n.º 1, alínea b), do artigo 5.º\n\nNeste caso, o equídeo é classificado na parte II da secção IX do documento de identificação substituto enquanto não sendo destinado a abate para consumo humano.\n\nOs elementos constantes do documento de identificação substituto, incluindo o estatuto de registo do equídeo e a classificação do animal na sua secção IX, são adaptados em conformidade na base de dados, tal como se refere no artigo 21.º, tendo em conta o número único vitalício."
+  },
+  "56f3d80c823282e0": {
+   "fragment_id": "Artigo 18.º — Suspensão do documento de identificação para efeitos de deslocação",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Suspensão do documento de identificação para efeitos de deslocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Suspensão do documento de identificação para efeitos de deslocação\n\nO veterinário oficial suspende a validade do documento de identificação para efeitos de deslocação inserindo uma nota própria na sua secção VIII sempre que a exploração onde o equídeo habitualmente se encontra ou de onde provém estiver:\n\na) Sujeita a uma medida de proibição nos termos do n.º 5 do artigo 4.º da Directiva 90/426/CEE; ou\n\nb) Situada num Estado-Membro ou em parte de um Estado-Membro que não esteja indemne de peste equina."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "e8a9747b3b144b8b": {
+   "fragment_id": "MORTE DO EQUÍDEO, EQUÍDEO DESTINADO A ABATE PARA CONSUMO HUMANO E REGISTO DE MEDICAMENTOS",
+   "type": "divisao",
+   "heading": "MORTE DO EQUÍDEO, EQUÍDEO DESTINADO A ABATE PARA CONSUMO HUMANO E REGISTO DE MEDICAMENTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MORTE DO EQUÍDEO, EQUÍDEO DESTINADO A ABATE PARA CONSUMO HUMANO E REGISTO DE MEDICAMENTOS"
+  },
+  "79f69267bb8b2533": {
+   "fragment_id": "Artigo 19.º — Morte do equídeo",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Morte do equídeo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Morte do equídeo\n\n1. Por morte ou abate do equídeo, são tomadas as seguintes medidas:\n\na) O repetidor é protegido de utilização fraudulenta subsequente, nomeadamente através de recuperação, destruição ou eliminação *in situ*;\n\nb) O documento de identificação é invalidado, pelo menos mediante aposição, na primeira página, de carimbo com a menção «caducado»;\n\nc) É comunicado um certificado ao organismo emissor, directamente ou através do ponto de contacto referido no n.º 4 do artigo 23.º, fazendo-se referência ao número único vitalício do equídeo e informando acerca do abate, occisão ou morte do mesmo, incluindo a data da morte do animal; bem como\n\nd) O documento de identificação caducado deve ser destruído.\n\n2. As medidas previstas no n.º 1 são executadas por ou sob a supervisão:\n\na) Do veterinário oficial: i) Em caso de abate ou occisão para efeitos de controlo de doenças, em conformidade com o n.º 4, subalínea i), do artigo 4.º da Directiva 90/426/CEE; ou ii) Após o abate, em conformidade com o n.º 3 do artigo 7.º da Directiva 90/426/CEE; ou\n\ni) Em caso de abate ou occisão para efeitos de controlo de doenças, em conformidade com o n.º 4, subalínea i), do artigo 4.º da Directiva 90/426/CEE; ou\n\nii) Após o abate, em conformidade com o n.º 3 do artigo 7.º da Directiva 90/426/CEE; ou\n\nb) Da autoridade competente, definida no n.º 1, alínea i), do artigo 2.º do Regulamento (CE) n.º 1774/2002, em caso de eliminação ou tratamento da carcaça em conformidade com os artigos 4.º ou 5.º do mesmo diploma.\n\n3. Sempre que, tal como é exigido na alínea a) do n.º 1, o repetidor não puder ser recuperado de um equídeo abatido para consumo humano, o veterinário oficial declara a carne, ou a parte da carne que contenha o repetidor, imprópria para consumo humano, em conformidade com o capítulo V, alínea n) do ponto 1, da secção II do anexo I do Regulamento (CE) n.º 854/2004.\n\n4. Em derrogação do disposto na alínea d) do n.º 1, e sem prejuízo das regras exaradas no documento de identificação pelo organismo emissor, os Estados-Membros podem prever procedimentos para devolução do documento caducado ao organismo emissor.\n\n5. Em todos os casos de morte ou perda do equídeo não referidos no presente artigo, o detentor deve devolver o documento de identificação ao organismo emissor apropriado referido nos n.^os^ 1, 2 ou 3 do artigo 4.º, no prazo de 30 dias a contar da morte ou perda do animal."
+  },
+  "fd59964a39b6a45f": {
+   "fragment_id": "Artigo 20.º — Equídeos destinados a abate para consumo humano e registo de medicação",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Equídeos destinados a abate para consumo humano e registo de medicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Equídeos destinados a abate para consumo humano e registo de medicação\n\n1. Entende-se que o equídeo se destina a abate para consumo humano, excepto em caso de declaração irreversível do contrário na parte II da secção IX do documento de identificação, pela assinatura:\n\na) Do detentor ou proprietário, se assim o entender, ou\n\nb) Do detentor e do veterinário responsável, agindo nos termos do n.º 2 do artigo 10.º da Directiva 2001/82/CE.\n\n2. Antes de qualquer tratamento em conformidade com o n.º 2 do artigo 10.º da Directiva 2001/82/CE, ou de qualquer tratamento mediante a administração de um medicamento autorizado em conformidade com o n.º 3 do artigo 6.º da mesma directiva, o veterinário responsável indica que o equídeo se destina a abate para consumo humano, como é habitual, ou que o animal não se destina a abate para consumo humano, como indicado na parte II da secção IX do documento de identificação.\n\n3. Se o tratamento referido no n.º 2 do presente artigo não for permitido num equídeo destinado a abate para consumo humano, o veterinário responsável assegura que, em conformidade com a derrogação prevista no n.º 2 do artigo 10.º da Directiva 2001/82/CE, o equídeo em causa é irreversivelmente declarado enquanto não destinado a abate para consumo humano:\n\na) Preenchendo e assinando a parte II da secção IX do documento de identificação; bem como\n\nb) Inutilizando a parte III da secção IX do documento de identificação.\n\n4. Sempre que tiver de ser administrado a um equídeo um tratamento, ao abrigo do n.º 3 do artigo 10.º da Directiva 2001/82/CE, o veterinário responsável preenche a parte III da secção IX do documento de identificação com os elementos exigidos acerca do medicamento com substâncias essenciais para o tratamento de equídeos, enumeradas no Regulamento (CE) n.º 1950/2006.\n\nO veterinário responsável assinala a data da última administração, de acordo com prescrição, do medicamento e, em conformidade com o n.º 4 do artigo 11.º da Directiva 2001/82/CE, informa o detentor da data em que terminará o intervalo de segurança estabelecido em conformidade com o n.º 3 do artigo 10.º do mesmo diploma."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "e81f183ed244a404": {
+   "fragment_id": "REGISTOS E SANÇÕES",
+   "type": "divisao",
+   "heading": "REGISTOS E SANÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGISTOS E SANÇÕES"
+  },
+  "99645be30b7f55aa": {
+   "fragment_id": "Artigo 21.º — Base de dados",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Base de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Base de dados\n\n1. Na emissão do documento de identificação, ou ao registar documentos de identificação já emitidos, o organismo emissor regista, pelo menos, as seguintes informações relativas ao equídeo na sua base de dados:\n\na) O número único vitalício;\n\nb) A espécie;\n\nc) O sexo;\n\nd) A pelagem;\n\ne) A data de nascimento (dia/mês/ano);\n\nf) Se aplicável, pelo menos os últimos 15 dígitos do código transmitido pelo repetidor ou o código transmitido por um dispositivo de identificação por radiofrequências não conforme à norma definida no n.º 2, alínea b), do artigo 2.º, juntamente com informação sobre o sistema de leitura necessário ou o método alternativo;\n\ng) O país de nascimento;\n\nh) A data de emissão e eventuais alterações ao documento de identificação;\n\ni) O nome e a morada da pessoa a quem o documento de identificação é emitido;\n\nj) O estatuto de equídeo registado ou de equídeo de criação e de rendimento;\n\nk) O nome do animal (à nascença ou, se for caso disso, o nome comercial);\n\nl) O estatuto conhecido do animal enquanto não destinado a abate para consumo humano;\n\nm) Informação relativa a eventuais duplicatas ou documentos de identificação substitutos, em conformidade com os artigos 16.º e 17.º;\n\nn) A data em que a morte do animal foi notificada.\n\n2. O organismo emissor mantém as informações referidas no n.º 1 do presente artigo em arquivo na sua base de dados durante, pelo menos, 35 anos, ou, pelo menos, durante dois anos a contar da data da morte do equídeo, comunicada em conformidade com o n.º 1, alínea c), do artigo 19.º\n\n3. Imediatamente após registar as informações referidas no n.º 1 do presente artigo, o organismo emissor comunica as informações referidas nas alíneas a) a f) e n) do mesmo número à base de dados central do Estado-Membro onde o animal nasceu, caso essa base de dados central tiver sido disponibilizada em conformidade com o artigo 23.º"
+  },
+  "eb806c4e728646d9": {
+   "fragment_id": "Artigo 22.º — Comunicação do código das bases de dados dos organismos emissores",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Comunicação do código das bases de dados dos organismos emissores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Comunicação do código das bases de dados dos organismos emissores\n\nOs Estados-Membros disponibilizam aos demais Estados-Membros e ao público, através de um sítio Internet, os nomes, endereços, incluindo pormenores de contacto, e o código de identificação compatível UELN de seis dígitos relativo às bases de dados dos organismos emissores.\n\nPor forma a assistir os Estados-Membros na disponibilização desta informação, a Comissão estabelece um sítio Internet, a partir do qual cada Estado-Membro institui uma ligação ao seu sítio Internet nacional."
+  },
+  "3221a010b73eb6cc": {
+   "fragment_id": "Artigo 23.º — Bases de dados centrais e respectivos pontos de contacto e cooperação",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Bases de dados centrais e respectivos pontos de contacto e cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Bases de dados centrais e respectivos pontos de contacto e cooperação\n\n1. Qualquer Estado-Membro pode decidir que o organismo emissor deve inserir as informações referidas no artigo 21.º, relativas aos equídeos nascidos ou identificados no seu território, numa base de dados central, ou que a base de dados do organismo emissor deve passar a estar ligada em rede a essa base de dados central («base de dados central»).\n\n2. Os Estados-Membros cooperam na operação das suas bases de dados centrais em conformidade com a Directiva 89/608/CEE.\n\n3. Os Estados-Membros disponibilizam aos demais Estados-Membros e ao público, através de um sítio Internet, o nome, endereço e código de identificação compatível UELN de seis dígitos das suas bases de dados centrais.\n\nPor forma a assistir os Estados-Membros na disponibilização desta informação, a Comissão estabelece um sítio Internet, a partir do qual cada Estado-Membro institui uma ligação ao seu sítio Internet nacional.\n\n4. Os Estados-Membros fornecem um ponto de contacto que proceda à recepção do certificado referido no n.º 1, alínea c), do artigo 19.º, para posterior distribuição aos respectivos organismos emissores aprovados no seu território.\n\nEsse ponto de contacto pode ser um organismo de ligação referido no artigo 35.º do Regulamento (CE) n.º 882/2004.\n\nOs pormenores acerca do ponto de contacto, que podem ser inseridos na base de dados central, são disponibilizados aos demais Estados-Membros e ao público através de um sítio Internet.\n\nPor forma a assistir os Estados-Membros na disponibilização desta informação, a Comissão estabelece um sítio Internet, a partir do qual cada Estado-Membro institui uma ligação ao seu sítio Internet nacional."
+  },
+  "1a8799df9e1d2fc0": {
+   "fragment_id": "Artigo 24.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Sanções\n\nOs Estados-Membros estabelecem as regras relativas às sanções aplicáveis em caso de inobservância do presente regulamento e adoptam todas as medidas necessárias para garantir a sua aplicação. As sanções previstas devem ser efectivas, proporcionais e dissuasivas.\n\nOs Estados-Membros notificam as referidas disposições à Comissão até 30 Junho 2009. Quaisquer alterações subsequentes que as afectem devem ser imediatamente notificadas à Comissão."
+  },
+  "99973826fcc02605": {
+   "fragment_id": "CAPÍTULO VIII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VIII"
+  },
+  "fee7c0f6661bbf52": {
+   "fragment_id": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+  },
+  "ac92454b442646ed": {
+   "fragment_id": "Artigo 25.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Revogação\n\nA Decisão 93/623/CEE e a Decisão 2000/68/CE são revogadas a partir de 1 de Julho de 2009.\n\nAs referências às decisões revogadas são consideradas como sendo feitas ao presente regulamento."
+  },
+  "62b4b0b4c81fa7ac": {
+   "fragment_id": "Artigo 26.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Disposições transitórias\n\n1. Os equídeos nascidos até 30 de Junho de 2009 e identificados até essa data em conformidade com a Decisão 93/623/CEE ou a Decisão 2000/68/CE são considerados identificados em conformidade com o presente regulamento.\n\nOs documentos de identificação desses equídeos são registados, em conformidade com o n.º 1 do artigo 21.º do presente regulamento, até 31 de Dezembro de 2009.\n\n2. Os equídeos nascidos até 30 de Junho de 2009, mas que não tenham sido identificados até essa data em conformidade com a Decisão 93/623/CEE ou a Decisão 2000/68/CE devem ser identificados em conformidade com o presente regulamento até 31 de Dezembro de 2009."
+  },
+  "1011aae77efdbeaf": {
+   "fragment_id": "Artigo 27.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Julho de 2009.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 6 de Junho de 2008.\n\n***Pela Comissão***\n\n**Androulla VASSILIOU**\n\n***Membro da Comissão***\n\n---"
+  },
+  "4efe9df803c888fe": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc1-L_2008149PT.01000301-E0001) [JO L 224 de 18.8.1990, p. 42](http://publications.europa.eu/resource/oj/JOL_1990_224_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2006/104/CE ([JO L 363 de 20.12.2006, p. 352](http://publications.europa.eu/resource/oj/JOL_2006_363_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc2-L_2008149PT.01000301-E0002) [JO L 224 de 18.8.1990, p. 55](http://publications.europa.eu/resource/oj/JOL_1990_224_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc3-L_2008149PT.01000301-E0003) [JO L 178 de 12.7.1994, p. 66](http://publications.europa.eu/resource/oj/JOL_1994_178_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc4-L_2008149PT.01000301-E0004) [JO L 298 de 3.12.1993, p. 45](http://publications.europa.eu/resource/oj/JOL_1993_298_R_TOC). Decisão com a redacção que lhe foi dada pela Decisão 2000/68/CE ([JO L 23 de 28.1.2000, p. 72](http://publications.europa.eu/resource/oj/JOL_2000_023_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc5-L_2008149PT.01000301-E0005) [JO L 23 de 28.1.2000, p. 72](http://publications.europa.eu/resource/oj/JOL_2000_023_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc6-L_2008149PT.01000301-E0006) [JO L 86 de 6.4.1993, p. 7](http://publications.europa.eu/resource/oj/JOL_1993_086_R_TOC). Decisão com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1792/2006 ([JO L 362 de 20.12.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_362_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc7-L_2008149PT.01000301-E0007) [JO L 86 de 6.4.1993, p. 16](http://publications.europa.eu/resource/oj/JOL_1993_086_R_TOC). Decisão com a última redacção, que lhe foi dada pelo Regulamento (CE) n.º 1792/2006.\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc8-L_2008149PT.01000301-E0008) [JO L 302 de 19.10.1992, p. 1](http://publications.europa.eu/resource/oj/JOL_1992_302_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1791/2006 ([JO L 363 de 20.12.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_363_R_TOC)).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc9-L_2008149PT.01000301-E0009) [JO L 68 de 15.3.1973, p. 1](http://publications.europa.eu/resource/oj/JOL_1973_068_R_TOC). Regulamento com a redacção que lhe foi dada pelo Regulamento (CEE) n.º 1174/86 ([JO L 107 de 24.4.1986, p. 1](http://publications.europa.eu/resource/oj/JOL_1986_107_R_TOC)).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc10-L_2008149PT.01000301-E0010) [JO L 204 de 11.8.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_204_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1791/2006.\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc11-L_2008149PT.01000301-E0011) [JO L 157 de 10.6.1992, p. 19](http://publications.europa.eu/resource/oj/JOL_1992_157_R_TOC). Directiva com a última redacção que lhe foi dada pela Decisão 2007/729/CE da Comissão ([JO L 294 de 13.11.2007, p. 26](http://publications.europa.eu/resource/oj/JOL_2007_294_R_TOC)).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc12-L_2008149PT.01000301-E0012) [JO L 19 de 25.1.1996, p. 39](http://publications.europa.eu/resource/oj/JOL_1996_019_R_TOC).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc13-L_2008149PT.01000301-E0013) [JO L 192 de 11.7.1992, p. 63](http://publications.europa.eu/resource/oj/JOL_1992_192_R_TOC).\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc14-L_2008149PT.01000301-E0014) [JO L 210 de 20.8.1996, p. 53](http://publications.europa.eu/resource/oj/JOL_1996_210_R_TOC). Decisão com a redacção que lhe foi dada pela Decisão 2004/186/CE ([JO L 57 de 25.2.2004, p. 27](http://publications.europa.eu/resource/oj/JOL_2004_057_R_TOC)).\n\n> [(^15^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc15-L_2008149PT.01000301-E0015) [JO L 306 de 22.11.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_306_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2006/104/CE.\n\n> [(^16^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc16-L_2008149PT.01000301-E0016) [JO L 338 de 22.12.2005, p. 83](http://publications.europa.eu/resource/oj/JOL_2005_338_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1246/2007 ([JO L 281 de 25.10.2007, p. 21](http://publications.europa.eu/resource/oj/JOL_2007_281_R_TOC)).\n\n> [(^17^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc17-L_2008149PT.01000301-E0017) [JO L 273 de 10.10.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_273_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1432/2007 da Comissão ([JO L 320 de 6.12.2007, p. 13](http://publications.europa.eu/resource/oj/JOL_2007_320_R_TOC)).\n\n> [(^18^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc18-L_2008149PT.01000301-E0018) [JO L 139 de 30.4.2004, p. 206](http://publications.europa.eu/resource/oj/JOL_2004_139_R_TOC). Versão rectificada no [JO L 226 de 25.6.2004, p. 83](http://publications.europa.eu/resource/oj/JOL_2004_226_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1791/2006.\n\n> [(^19^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc19-L_2008149PT.01000301-E0019) [JO L 31 de 1.2.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_031_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 575/2006 da Comissão ([JO L 100 de 8.4.2006, p. 3](http://publications.europa.eu/resource/oj/JOL_2006_100_R_TOC)).\n\n> [(^20^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc20-L_2008149PT.01000301-E0020) [JO L 139 de 30.4.2004, p. 55](http://publications.europa.eu/resource/oj/JOL_2004_139_R_TOC). Versão rectificada no [JO L 226 de 25.6.2004, p. 22](http://publications.europa.eu/resource/oj/JOL_2004_226_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1243/2007 da Comissão ([JO L 281 de 25.10.2007, p. 8](http://publications.europa.eu/resource/oj/JOL_2007_281_R_TOC)).\n\n> [(^21^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc21-L_2008149PT.01000301-E0021) [JO L 224 de 18.8.1990, p. 1](http://publications.europa.eu/resource/oj/JOL_1990_224_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 61/2008 da Comissão ([JO L 22 de 25.1.2008, p. 8](http://publications.europa.eu/resource/oj/JOL_2008_022_R_TOC)).\n\n> [(^22^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc22-L_2008149PT.01000301-E0022) [JO L 125 de 23.5.1996, p. 3](http://publications.europa.eu/resource/oj/JOL_1996_125_R_TOC). Directiva alterada pela Directiva 2003/74/CE do Parlamento Europeu e do Conselho ([JO L 262 de 14.10.2003, p. 17](http://publications.europa.eu/resource/oj/JOL_2003_262_R_TOC)).\n\n> [(^23^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc23-L_2008149PT.01000301-E0023) [JO L 311 de 28.11.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_311_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2004/28/CE ([JO L 136 de 30.4.2004, p. 58](http://publications.europa.eu/resource/oj/JOL_2004_136_R_TOC)).\n\n> [(^24^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc24-L_2008149PT.01000301-E0024) [JO L 367 de 22.12.2006, p. 33](http://publications.europa.eu/resource/oj/JOL_2006_367_R_TOC).\n\n> [(^25^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc25-L_2008149PT.01000301-E0025) [JO L 351 de 2.12.1989, p. 34](http://publications.europa.eu/resource/oj/JOL_1989_351_R_TOC).\n\n> [(^26^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc26-L_2008149PT.01000301-E0026) http://www.ueln.net\n\n> [(^27^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc27-L_2008149PT.01000301-E0027) [JO L 165 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_165_R_TOC). Versão rectificada no [JO L 191 de 28.5.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_191_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1791/2006.\n\n> [(^28^)](http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018.02/DOC_1#ntc28-L_2008149PT.01000301-E0028) [JO L 382 de 31.12.1988, p. 36](http://publications.europa.eu/resource/oj/JOL_1988_382_R_TOC)."
+  },
+  "4deccfd02d789fb0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02008R0504 — PT — 01.01.2016 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32008R0504) [REGULAMENTO (CE) N.º 504/2008 DA COMISSÃO](http://publications.europa.eu/resource/celex/32008R0504) [de 6 de Junho de 2008](http://publications.europa.eu/resource/celex/32008R0504) [que aplica as Directivas 90/426/CEE e 90/427/CEE do Conselho no que respeita a métodos para identificação de equídeos](http://publications.europa.eu/resource/celex/32008R0504) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32008R0504) (JO L 149, 7.6.2008, p.3)\n\n**revogado por:**\n\n- [Regulamento de Execução (UE) 2015/262 da Comissão de 17 de fevereiro de 2015](http://publications.europa.eu/resource/celex/32015R0262) — L 59 — 1 — 3.3.2015"
+  }
+ }
+}

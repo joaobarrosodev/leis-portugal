@@ -34,6 +34,46 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '1997-12-09'
+version_history:
+  file: decisao-ue-1983-247.versoes.json
+  count: 2
+  source_lastmod: '1997-12-09'
+  versions:
+  - date: '1983-05-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-12-09'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
 identifiers:
   celex: 31983D0247
   eli: http://data.europa.eu/eli/dec/1983/247/oj
@@ -48,7 +88,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ff4e117c-990a-4f33-8bc5-bc629f5842bb.0009
   content_url: http://publications.europa.eu/resource/cellar/7e8f118d-de3f-45ca-9d1e-4d3792f7a815.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01983D0247-19971209
-  retrieved_at: '2026-10-22T03:04:17Z'
+  retrieved_at: '2026-10-22T14:33:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T16:45:19.018+01:00'
 integrity:
@@ -57,9 +97,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:04:17Z'
-  notes: Texto consolidado 01983D0247-19971209.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:33:48Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-1983-247.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -89,15 +129,14 @@ relationships:
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:04:17Z'
-  warnings:
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:33:48Z'
+  warnings: []
   errors: []
 ---
 

@@ -1,0 +1,539 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998R0850:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998R0850-20190814",
+ "dre_path": null,
+ "source_lastmod": "2019-08-14",
+ "versions": [
+  {
+   "date": "1998-04-27",
+   "future": false,
+   "celex": "31998R0850",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4bb11a0e7cdc359d",
+    "3b01d1f6dd90841f",
+    "ae71f6b2b676d93d",
+    "cea4381f0e9fe1a4",
+    "0eb9bd3cd0810652",
+    "8eb7009155f8548d",
+    "5725f1c6802764b4",
+    "99a9fe063ee6ed8f",
+    "23ec40a61bb50747",
+    "5ff8f536f6951be7",
+    "7a53df8e9f2728a3",
+    "d296b6930c50fc58",
+    "83d39b61cbba4a9f",
+    "c621ae41a9967d40",
+    "913d386dccaf8e25",
+    "5295b971be4327df",
+    "7e37414e5ac78086",
+    "b56e7b4bb613b0a7",
+    "bfc10d6b86076dd7",
+    "b02855e9152afd8a",
+    "81db7e962b3dce63",
+    "a7b2ae253cc8312f",
+    "9b4d1d23a7cec5c6",
+    "7c80cbee30b528aa",
+    "8b2cf321780d034c",
+    "be59bed810ef315f",
+    "8424290fc8d6f131",
+    "f7949e2ad2ef3def",
+    "c2eb1389378d42e7",
+    "e7565d3f340278b7",
+    "0252b45786fc4cc7",
+    "87ee2ef131749d08",
+    "16edb5635fd2dfbd",
+    "fa859a2ed7e6f13f",
+    "7d30ca0faba9d86f",
+    "7ddb2b4aabe1aa24",
+    "1194774e8c105bcf",
+    "34963c233f9f6765",
+    "277514da1515d72a",
+    "98557f63ac6382f0",
+    "28c384790aeab9f5",
+    "c4e05061ebfe97f4",
+    "3364ec6f3403d58c",
+    "a9ec04c1637d92e9",
+    "703163386f64e2c1",
+    "22eb377158cbabb1",
+    "6681636a6b8716b3",
+    "d3ae222b4a1f0ea7",
+    "ffbfd43d98f472f9",
+    "e5e34ed6a207be2a"
+   ]
+  },
+  {
+   "date": "2019-08-14",
+   "future": false,
+   "celex": "01998R0850-20190814",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime TÍTULO I DEFINIÇÕES — Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime TÍTULO II REDES E CONDIÇÕES DE UTILIZAÇÃO — CAPÍTULO I DISPOSIÇÕES APLICÁVEIS ÀS ARTES REBOCADAS",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime CAPÍTULO II DISPOSIÇÕES APLICÁVEIS ÀS ARTES FIXAS — Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime TÍTULO III TAMANHO MÍNIMO DOS ORGANISMOS MARINHOS — Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime TÍTULO VI DISPOSIÇÕES ESPECÍFICAS APLICÁVEIS AO SKAGERRAK E AO KATTEGAT — Artigo 35º",
+    "Suprime Artigo 36º",
+    "Suprime Artigo 37º",
+    "Suprime Artigo 38º",
+    "Suprime Artigo 39º",
+    "Suprime Artigo 40º",
+    "Suprime Artigo 41º",
+    "Suprime TÍTULO VII DISPOSIÇÕES TÉCNICAS — Artigo 42º Operações de transformação",
+    "Suprime TÍTULO VIII DISPOSIÇÕES FINAIS — Artigo 45º",
+    "Suprime Artigo 46º",
+    "Suprime Artigo 47º",
+    "Suprime Artigo 48º",
+    "Suprime Artigo 49º",
+    "Suprime Artigo 50º",
+    "Suprime ANEXO I — ARTES REBOCADAS: Regiões 1 e 2, excepto Skagerrak e Kattegat",
+    "Suprime ANEXO II — ARTES REBOCADAS: Região 3, excepto divisão CIEM IXa a leste de 7° 23' 48&Prime; de longitude oeste",
+    "Suprime ANEXO III — ARTES REBOCADAS: Divisão CIEM IXa a leste de 7° 23' 48&Prime; de longitude oeste",
+    "Suprime ANEXO IV — ARTES REBOCADAS: Skagerrak e Kattegat",
+    "Suprime ANEXO V — ARTES REBOCADAS: Regiões 4, 5 e 6",
+    "Suprime ANEXO VI — ARTES FIXAS: Regiões 1 e 2",
+    "Suprime ANEXO VII — ARTES FIXAS: Região 3",
+    "Suprime ANEXO VIII — Combinações de categorias de malhagens autorizadas para as regiões 1 e 2, excepto Skagerrak e Kattegat",
+    "Suprime ANEXO IX — Combinações de categorias de malhagens autorizadas para a região 3, excepto divisão CIEM IXa a leste de 7° 23' 48&Prime; de longitude oeste",
+    "Suprime ANEXO X — Condições de utilização das combinações de categorias de malhagens nas regiões 1 e 2, excepto Skagerrat e Kattegat",
+    "Suprime ANEXO XI",
+    "Suprime ANEXO XII — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO XIII — MEDIÇÃO DO TAMANHO DOS ORGANISMOS MARINHOS",
+    "Suprime ANEXO XIV — NOMES VULGARES E CIENTÍFICOS",
+    "Suprime ANEXO XV — >POSIÇÃO NUMA TABELA>"
+   ],
+   "fragments": [
+    "c48fc12da2aa350c"
+   ]
+  }
+ ],
+ "fragments": {
+  "4bb11a0e7cdc359d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 850/98 do Conselho de 30 de Março de 1998 relativo à conservação dos recursos da pesca através de determinadas medidas técnicas de protecção dos juvenis de organismos marinhos** *Jornal Oficial nº L 125 de 27/04/1998 p. 0001 - 0036*\n\nREGULAMENTO (CE) Nº 850/98 DO CONSELHO de 30 de Março de 1998 relativo à conservação dos recursos da pesca através de determinadas medidas técnicas de protecção dos juvenis de organismos marinhos\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\n(1) Considerando que o Regulamento (CE) nº 894/97 (4) constitui a versão codificada do Regulamento (CEE) nº 3094/86, que prevê determinadas medidas técnicas de conservação dos recursos da pesca e foi várias vezes substancialmente alterado;\n\n(2) Considerando que a experiência da aplicação do Regulamento (CEE) nº 3094/86 veio evidenciar certas deficiências que originam problemas de aplicação e execução e devem ser rectificadas, nomeadamente reduzindo o número das diversas especificações sobre as malhagens, suprimindo o conceito de espécies protegidas e restringindo o número de malhagens diferentes autorizadas a bordo; que é, pois, conveniente substituir o Regulamento (CE) nº 894/97 por um novo texto com excepção dos artigos 11º, 18º, 19º e 20º;\n\n(3) Considerando que é necessário definir determinados princípios e processos para estabelecer medidas técnicas de conservação a nível comunitário, de modo a que cada Estado-membro possa gerir as actividades de pesca nas águas marítimas sob sua jurisdição ou soberania;\n\n(4) Considerando que é necessário estabelecer um equilíbrio entre a adaptação das medidas técnicas de conservação à diversidade das pescarias e a necessidade de existência de regras homogéneas e fáceis de aplicar;\n\n(5) Considerando que o nº 2 do artigo 130ºR do Tratado estabelece o princípio de que todas as medidas comunitárias devem integrar requisitos em matéria de protecção do ambiente, nomeadamente à luz do princípio da precaução;\n\n(6) Considerando que a prática das devoluções deve ser reduzida ao mínimo;\n\n(7) Considerando que deve ser assegurada a protecção das zonas de alevinagem, tendo em conta as condições biológicas específicas nas várias zonas abrangidas;\n\n(8) Considerando que na Directiva 92/43/CEE (5) o Conselho estabeleceu medidas de preservação dos habitats naturais e da fauna e da flora selvagens; que a lista de organismos marinhos abrangidos pelo âmbito do presente regulamento contém nomes de espécies protegidas para efeitos dessa directiva;\n\n(9) Considerando que, em 25 de Outubro de 1996, o Parlamento Europeu adoptou a sua resolução sobre a comunicação da Comissão sobre a implementação de medidas técnicas na política comum de pesca;\n\n(10) Considerando que, para assegurar a protecção dos recursos biológicos marinhos e a exploração equilibrada dos recursos haliêuticos, tanto no interesse dos pescadores como dos consumidores, devem ser fixadas medidas técnicas de conservação que especifiquem, nomeadamente, as malhagens e respectivas combinações adequadas para a captura de determinadas espécies e outras características das artes de pesca, os tamanhos mínimos dos organismos marinhos, bem como as restrições aplicáveis à pesca em determinadas zonas e períodos e com determinadas artes e equipamentos;\n\n(11) Considerando que, à luz dos pareceres científicos, devem ser estabelecidas disposições para aumentar as malhagens das artes rebocadas na pesca de determinadas espécies de organismos marinhos e devem ser estabelecidas disposições para a utilização obrigatória de panos de rede de malha quadrada, atendendo a que tal pode desempenhar um papel significativo na redução das capturas de juvenis dos organismos marinhos;\n\n(12) Considerando que, para evitar que se utilizem malhagens cada vez mais pequenas nas artes fixas, que resultam num aumento das taxas de mortalidade dos juvenis das espécies-alvo das pescarias em causa, devem ser estabelecidas malhagens para as artes fixas;\n\n(13) Considerando que a composição das capturas por espécies e as práticas a elas associadas diferem consoante as zonas geográficas; que essas diferenças justificam a diversificação das medidas aplicadas nessas zonas;\n\n(14) Considerando que a captura de determinadas espécies para transformação em farinha de peixe ou óleo de peixe pode realizar-se com malhagens pequenas, desde que essas operações de captura não tenham consequências negativas para outras espécies;\n\n(15) Considerando que é necessário prever tamanhos mínimos para as espécies que constituem a principal parcela dos desembarques das frotas comunitárias e para as espécies que sobrevivem às devoluções;\n\n(16) Considerando que o tamanho mínimo de uma espécie deve estar em conformidade com a selectividade da malhagem aplicável a essa espécie;\n\n(17) Considerando que é necessário definir o modo de medição do tamanho dos organismos marinhos;\n\n(18) Considerando que, para efeitos de protecção do arenque juvenil, é necessário adoptar disposições específicas sobre a captura da espadilha e a sua manutenção a bordo;\n\n(19) Considerando que, para tomar em consideração as práticas de pesca tradicionais em determinadas zonas, é necessário adoptar disposições específicas sobre a captura e a manutenção a bordo de biqueirão e atum;\n\n(20) Considerando que, para garantir a fiscalização das actividades de pesca exercidas em certas zonas por navios que cumpram determinadas condições, o acesso a essas zonas deve ficar sujeito a uma autorização especial de pesca tal como referido no Regulamento (CE) nº 1627/94 do Conselho, de 27 de Junho de 1994, que estabelece as disposições gerais relativas às autorizações de pesca especiais (6);\n\n(21) Considerando que a utilização de redes de cerco com retenida na pesca de cardumes encontrados em associação com mamíferos marinhos pode resultar na captura e morte destes mamíferos; que, contudo, quando utilizadas de modo adequado, as redes de cerco com retenida constituem um método eficaz para capturar exclusivamente as espécies-alvo pretendidas; que deve ser proibido o cerco de mamíferos marinhos com redes de cerco com retenida;\n\n(22) Considerando que, para não afectar a investigação científica, o repovoamento artificial ou a transplantação, o presente regulamento não deve ser aplicável a operações que possam tornar-se necessárias para o exercício destas actividades;\n\n(23) Considerando que determinadas medidas necessárias para a conservação estão contempladas no Regulamento (CEE) nº 2930/86 do Conselho, de 22 de Setembro de 1986, que define as características dos navios de pesca (7), e no Regulamento (CEE) nº 2847/93 do Conselho, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum de pescas (8), não sendo pois necessário reiterá-las;\n\n(24) Considerando que, em caso de grave ameaça à conservação, a Comissão e os Estados-membros devem ser autorizados a adoptar medidas provisórias adequadas;\n\n(25) Considerando que podem ser mantidas ou adoptadas medidas nacionais suplementares de carácter estritamente local, sob reserva do exame pela Comissão da sua compatibilidade com a legislação comunitária e conformidade com a política comum da pesca;\n\n(26) Considerando que, sempre que sejam necessárias regras de execução do presente regulamento, estas devem ser adoptadas nos termos do artigo 18º do Regulamento (CEE) nº 3760/92 (9),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3b01d1f6dd90841f": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO presente regulamento, que prevê determinadas medidas técnicas de conservação, é aplicável à captura e ao desembarque de recursos haliêuticos em águas marítimas sob a soberania ou jurisdição dos Estados-membros e situadas numa das regiões especificadas no artigo 2º, salvo o disposto em contrário nos artigos 26º e 33º"
+  },
+  "ae71f6b2b676d93d": {
+   "fragment_id": "TÍTULO I DEFINIÇÕES — Artigo 2º",
+   "type": "divisao",
+   "heading": "TÍTULO I DEFINIÇÕES — Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I DEFINIÇÕES — Artigo 2º\n\n1. Para efeitos do presente regulamento, são aplicáveis as seguintes definições de águas marítimas:\n\na) Região 1:\n\nTodas as águas situadas a norte e a oeste de uma linha traçada a partir de um ponto situado a 48° de latitude norte e a 18° de longitude oeste, e que se prolonga em seguida para norte até 60° de latitude norte, seguindo depois para leste até 5° de longitude oeste, em seguida para norte até 60° 30' de latitude norte, em seguida para leste até 4° de longitude oeste, em seguida para norte até 64° de latitude norte e por fim para leste até à costa da Noruega;\n\nb) Região 2:\n\nTodas as águas situadas a norte de 48° de latitude norte, com exclusão das águas da região 1 e das divisões CIEM IIIb, IIIc e IIId;\n\nc) Região 3:\n\nTodas as águas correspondentes às subzonas CIEM VIII e IX;\n\nd) Região 4:\n\nTodas as águas correspondentes à subzona CIEM X;\n\ne) Região 5:\n\nTodas as águas situadas na parte do Atlântico Centro-Leste que compreende as divisões 34.1.1, 34.1.2 e 34.1.3 e a subzona 34.2.0 da zona de pesca 34 da região COPACE;\n\nf) Região 6:\n\nTodas as águas situadas ao largo das costas do departamento francês da Guiana sob a soberania ou jurisdição da França;\n\ng) Região 7:\n\nTodas as águas situadas ao largo das costas dos departamentos franceses da Martinica e Guadalupe sob a soberania ou jurisdição da França;\n\nh) Região 8:\n\nTodas as águas situadas ao largo das costas do departamento francês da Reunião sob a soberania ou jurisdição da França.\n\n2. As zonas geográficas designadas no presente regulamento pelas siglas «CIEM» e «COPACE» são as definidas, respectivamente, pelo Conselho Internacional para a Exploração do Mar e pelo Comité das Pescas do Atlântico Centro-Leste. Encontram-se descritas, sem prejuízo de posteriores alterações, nas comunicações 85/C 335/02 (10) e 85/C 347/05 (11) da Comissão.\n\n3. As regiões referidas no nº 1 podem ser divididas em zonas geográficas, nomeadamente com base nas definições referidas no nº 2, nos termos do artigo 48º\n\n4. Não obstante o nº 2, para efeitos do presente regulamento:\n\n- o Kattegat é limitado, ao norte, pela linha que une o farol de Skagen ao farol de Tistlarna e se prolonga, em seguida, até ao ponto mais próximo da costa sueca e, ao sul, pela linha que vai de Hasenøre Head até Gniben Point, de Korshage a Spodsbjerg e do Gilbjerg Head até Kullen,\n\n- o Skagerrak é limitado, a oeste, pela linha que vai do farol de Hanstholm ao farol de Lindesnes e, ao sul, pela linha que une o farol de Skagen ao farol de Tistlarna e se prolonga, em seguida, até ao ponto mais próximo da costa sueca,\n\n- o mar do Norte inclui a subzona CIEM IV, bem como a parte contígua da divisão CIEM IIa situada ao sul de 64° de latitude norte e a parte da divisão CIEM IIIa não abrangida pela definição do Skagerrak dada no segundo travessão."
+  },
+  "cea4381f0e9fe1a4": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nPara efeitos do presente regulamento, entende-se por:\n\na) Organismos marinhos: todos os peixes marinhos, incluindo as espécies anádromas e catádromas durante a sua vida marinha, os crustáceos e moluscos e as respectivas partes;\n\nb) Malhagem de uma rede rebocada, a malhagem de qualquer cuada ou boca do saco que se encontrem a bordo de um navio de pesca e ligados ou susceptíveis de serem ligados a qualquer rede rebocada. A malhagem, determinada nos termos do Regulamento (CEE) nº 2108/84 (12), não se aplica à malhagem das redes de malha quadrada;\n\nc) Pano de rede de fio torcido múltiplo: a rede confeccionada com dois ou mais fios, quando estes possam ser separados entre os nós sem que a estrutura constituída pelos fios fique por tal facto alterada;\n\nd) Rede de malha quadrada: uma confecção de rede montada de forma a que, das duas séries de linhas paralelas formadas pelos lados das malhas, uma seja paralela e a outra perpendicular ao eixo longitudinal da rede;\n\ne) Malhagem de um pano ou janela de malha quadrada: a maior malhagem determinável dessa janela ou pano inserido numa rede rebocada, determinada nos termos do Regulamento (CEE) nº 2108/84;\n\nf) Rede sem nós: a rede composta por malhas quadriculares de lados aproximadamente iguais e em que os cantos das malhas são constituídos pelo entrelaçado dos fios de dois lados contíguos da malha;\n\ng) Rede de emalhar fundeada ou rede de enredar: qualquer arte fixa constituída por um só pano de rede, fixada ou susceptível de ser fixada por qualquer meio no fundo do mar;\n\nh) Tresmalho: qualquer arte fixa constituída por um conjunto de dois ou mais panos de rede suspensos paralelamente de uma única talha, fixada ou susceptível de ser fixada por qualquer meio no fundo do mar."
+  },
+  "0eb9bd3cd0810652": {
+   "fragment_id": "TÍTULO II REDES E CONDIÇÕES DE UTILIZAÇÃO — CAPÍTULO I DISPOSIÇÕES APLICÁVEIS ÀS ARTES REBOCADAS",
+   "type": "divisao",
+   "heading": "TÍTULO II REDES E CONDIÇÕES DE UTILIZAÇÃO — CAPÍTULO I DISPOSIÇÕES APLICÁVEIS ÀS ARTES REBOCADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II REDES E CONDIÇÕES DE UTILIZAÇÃO — CAPÍTULO I DISPOSIÇÕES APLICÁVEIS ÀS ARTES REBOCADAS"
+  },
+  "8eb7009155f8548d": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Em cada uma das regiões ou zonas geográficas referidas nos anexos I a V e, se for caso disso, em função do período em causa, as espécies-alvo para cada categoria de malhagem são as definidas no anexo pertinente.\n\n2. Dentro de cada uma das regiões ou zonas geográficas referidas nos anexos I, II, III, IV e V, é proibido utilizar ou ter a bordo, em qualquer saída de pesca, redes rebocadas de malhagens diferentes das que são referidas no anexo pertinente.\n\n3. a) Para cada uma das regiões ou zonas geográficas referidas nos anexos VIII e IX e, se for caso disso, em função do período em causa, é proibido utilizar ou ter a bordo, em qualquer saída de pesca, redes de arrasto, redes de cerco dinamarquesas ou redes rebocadas idênticas, a não ser que as malhagens das artes transportadas a bordo respeitem as condições estabelecidas no anexo pertinente.\n\nb) Contudo, os navios comunitários podem ter a bordo, em águas de pesca comunitárias e em qualquer saída de pesca, redes com malhagem inferior a 120 milímetros que não respeitem as condições estabelecidas nos anexos VIII e IX, desde que:\n\n- possam apresentar uma autorização para pescar fora das águas comunitárias durante essa saída e\n\n- no período passado em águas comunitárias, todas as redes de malhagens que não respeitem as condições estabelecidas nos anexos VIII e IX estejam atadas e arrumadas em conformidade com o nº 1 do artigo 20º do Regulamento (CEE) nº 2847/93.\n\n4. As capturas existentes a bordo e pescadas em cada uma das regiões ou zonas geográficas referidas nos anexos I a V, X e XI não podem ser desembarcadas, a não ser que a sua composição em percentagem respeite as condições estabelecidas no anexo pertinente.\n\n5. A percentagem de espécies-alvo e de outras espécies deve ser obtida através da acumulação de todas as quantidades das espécies-alvo e outras espécies a bordo, ou que tenham sido objecto de transbordo, conforme previsto nos anexos I a V."
+  },
+  "5725f1c6802764b4": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. O cálculo das percentagens referidas nos anexos I a V, X e XI deve ser efectuado em termos da proporção em peso vivo de todos os organismos marinhos a bordo, após separação ou aquando do desembarque.\n\n2. Contudo, ao calcular as percentagens no caso de navios de pesca dos quais tenham sido transbordadas determinadas quantidades de organismos marinhos, deverão ser tomadas em consideração essas mesmas quantidades.\n\n3. Os capitães de navios de pesca que não preencham um diário de bordo, em conformidade com o artigo 6º do Regulamento (CEE) nº 2874/93, não poderão proceder a transbordos de organismos marinhos para qualquer outro navio nem receber de qualquer outro navio transbordos de tais organismos.\n\n4. As percentagens referidas no nº 1 podem ser calculadas com base numa ou mais amostras representativas.\n\n5. Não obstante o nº 1, a percentagem de capturas de galeota a bordo e realizadas com redes de malhagem inferior a 16 milímetros pode ser calculada antes da separação.\n\n6. Para efeitos do presente artigo, o peso equivalente de lagostim inteiro é obtido multiplicando por três o peso das caudas de lagostim."
+  },
+  "99a9fe063ee6ed8f": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. É proibido ter a bordo ou utilizar qualquer rede de arrasto demersal, rede de cerco dinamarquesa ou rede rebocada idêntica com mais de 100 malhas em qualquer circunferência do saco, excluindo os pegamentos e ourelas. A presente disposição aplica-se às redes de arrasto demersais, redes de cerco dinamarquesas ou redes rebocadas idênticas cuja malhagem se situe entre os 90 e os 119 milímetros.\n\nO primeiro parágrafo não se aplica às redes de arrasto de vara.\n\n2. Em qualquer cuada individual, o número de malhas em qualquer circunferência do saco não pode aumentar entre a extremidade anterior e a extremidade posterior. A presente disposição aplica-se a todas as redes rebocadas com malhagem igual ou superior a 55 milímetros.\n\n3. O número de malhas, excluindo as das ourelas, em qualquer ponto de qualquer circunferência de uma qualquer peça de alargamento ou de alongamento não deve ser menor do que o número de malhas na circunferência da extremidade dianteira da cuada, excluídas as malhas das ourelas. A presente disposição aplica-se a todas as redes rebocadas com malhagem igual ou superior a 55 milímetros."
+  },
+  "23ec40a61bb50747": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. a) Em qualquer rede rebocada podem ser inseridos panos de malha quadrada com uma malhagem de pelo menos 80 milímetros.\n\nb) Em alternativa, qualquer rede de arrasto demersal, rede de cerco dinamarquesa ou rede rebocada idêntica com malhagem igual ou superior a 100 milímetros pode ser equipada com os panos autorizados em conformidade com o Regulamento (CEE) nº 1866/86 do Conselho, de 12 de Junho de 1986, que fixa determinadas medidas técnicas de conservação dos recursos haliêuticos nas águas do mar Báltico, dos seus estreitos (Belts) e do Øresund (13).\n\n2. Os panos de malha quadrada:\n\na) Serão colocados na metade superior ou face superior de uma rede, à frente da boca da rede ou em qualquer ponto situado entre a frente da boca da rede e a parte posterior do saco;\n\nb) Não poderão ficar obstruídos, seja de que maneira for, por elementos internos ou externos;\n\nc) Devem ter pelo menos três metros de comprimento, excepto quando incorporados em redes rebocadas por navios de menos de 112 quilowatts; neste caso, terão obrigatoriamente, pelo menos, dois metros de comprimento;\n\nd) Deverão ser formados por rede sem nós ou por rede feita com nós não deslizantes e deverão ser inseridos de modo a que as malhas se mantenham completa e permanentemente abertas durante a pesca;\n\ne) Deverão ser formados por forma a que, para cada pano, o número de malhas da primeira fila de malhas seja igual ou superior ao número de malhas da última fila de malhas.\n\n3. Em qualquer rede em que, numa parte não afunilada, esteja inserido um pano de malha quadrada, haverá, no máximo, cinco malhas losangulares abertas entre cada lado do pano e as ourelas adjacentes da rede.\n\nEm qualquer rede em que, numa parte afunilada, esteja, total ou parcialmente, inserido um pano de malha quadrada, haverá, no máximo, cinco malhas losangulares abertas entre a última fila de malhas no pano de malhas quadradas e as ourelas adjacentes da rede.\n\n4. Não obstante a alínea a) do nº 1 e da alínea a) do nº 2, as redes de arrasto demersais, redes de cerco dinamarquesas ou redes rebocadas idênticas cuja malhagem se situe entre os 70 e os 79 milímetros deverão estar equipadas com um pano de malha quadrada, situado à frente do saco, de malhagem igual ou superior a 80 milímetros.\n\n5. Não obstante a alínea a) do nº 1, é proibido ter a bordo qualquer quantidade de crustáceos do género Pandalus capturados com rede de arrasto demersal de malhagem situada na categoria de 32 a 54 milímetros, a não ser que a rede esteja equipada com um pano ou janela de malha quadrada de malhagem igual ou superior a 70 milímetros.\n\n6. As condições previstas nos nºs 4 e 5 são aplicáveis apenas nas regiões 1 e 2.\n\n7. As medições da malhagem de uma rede de malha quadrada inserida em qualquer parte de uma rede não serão tomadas em consideração aquando da medição da malhagem de uma rede rebocada."
+  },
+  "5ff8f536f6951be7": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. É proibido ter a bordo ou utilizar qualquer rede rebocada confeccionada, totalmente ou em parte do saco, com materiais constituídos por fio entrançado simples de espessura superior a 8 milímetros.\n\n2. É proibido ter a bordo ou utilizar qualquer rede rebocada cujo pano seja confeccionado, totalmente ou em parte do saco, com materiais constituídos por fio entrançado multifilar, a não ser que os fios entrançados multifilares possuam aproximadamente a mesma espessura e que a soma das espessuras dos fios entrançados multifilares em qualquer dos lados de qualquer malha não seja superior a 12 milímetros.\n\n3. Os nºs 1 e 2 não são aplicáveis aos arrastões pelágicos."
+  },
+  "7a53df8e9f2728a3": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. É proibido ter a bordo ou utilizar qualquer rede rebocada cujo saco seja confeccionado totalmente ou em parte com qualquer tipo de material de pano constituído por malhas diferentes da malha quadrada ou da malha em losango.\n\n2. O nº 1 não é aplicável a nenhuma rede rebocada cujo saco tenha uma malhagem igual ou inferior a 31 milímetros."
+  },
+  "d296b6930c50fc58": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nAs dragas ficam isentas do disposto no artigo 4º, desde que as quantidades de organismos marinhos a bordo e capturadas com essas redes, com exclusão dos moluscos bivalves, não excedam 5 % do peso total dos organismos marinhos a bordo."
+  },
+  "83d39b61cbba4a9f": {
+   "fragment_id": "CAPÍTULO II DISPOSIÇÕES APLICÁVEIS ÀS ARTES FIXAS — Artigo 11º",
+   "type": "divisao",
+   "heading": "CAPÍTULO II DISPOSIÇÕES APLICÁVEIS ÀS ARTES FIXAS — Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II DISPOSIÇÕES APLICÁVEIS ÀS ARTES FIXAS — Artigo 11º\n\n1. Em cada uma das regiões ou zonas geográficas mencionadas nos anexos VI e VII e, se for caso disso, em função do período em causa, é proibido utilizar ou ter a bordo qualquer rede de emalhar fundeada, rede de enredar ou tresmalho, a não ser que:\n\na) As capturas realizadas com essas redes, existentes a bordo, incluam uma percentagem de espécies-alvo não inferior a 70 %; e\n\nb) - no caso das redes de emalhar fundeadas e das redes de enredar, as suas malhagens correspondam a uma das categorias estabelecidas nos anexos pertinentes,\n\n- no caso dos tresmalhos, a malhagem na parte da rede de mais pequena malhagem corresponda a uma das categorias estabelecidas nos anexos pertinentes.\n\n2. A percentagem mínima de espécies-alvo pode ser obtida através da cumulação das quantidades de todas as espécies-alvo capturadas."
+  },
+  "c621ae41a9967d40": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. O cálculo da percentagem referida no nº 1 do artigo 11º deve ser efectuado em termos da proporção em peso vivo de todos os organismos marinhos a bordo, após separação ou aquando do desembarque.\n\n2. A percentagem referida no nº 1 pode ser calculada com base numa ou mais amostras representativas."
+  },
+  "913d386dccaf8e25": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nOs artigos 11º e 12º não são aplicáveis às capturas de salmonídeos, lampreias ou Myxinidae.\n\nCAPÍTULO III DISPOSIÇÕES GERAIS APLICÁVEIS ÀS REDES E ÀS CONDIÇÕES DE UTILIZAÇÃO"
+  },
+  "5295b971be4327df": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nA separação deve ser feita imediatamente após os organismos marinhos capturados terem sido retirados da rede ou redes."
+  },
+  "7e37414e5ac78086": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\n1. As quantidades de organismos marinhos capturadas que excedam as percentagens indicadas nos anexos I a VII, X e XI devem ser devolvidas ao mar antes do regresso ao porto.\n\n2. Em qualquer momento antes do regresso ao porto, a percentagem de espécies-alvo definida nos anexos I a VII, X e XI a bordo deverá ser igual, a pelo menos, metade das percentagens mínimas das espécies-alvo referidas nos citados anexos.\n\n3. Após o termo das primeiras 24 horas de uma saída de pesca, a percentagem mínima de espécies-alvo prevista nos anexos I a VII, X e XI deverá ser atingida, até ao encerramento da inscrição diária no diário de bordo em conformidade com o artigo 6º do Regulamento (CEE) nº 2847/93."
+  },
+  "b56e7b4bb613b0a7": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nÉ proibida a utilização de dispositivos que permitam obstruir as malhas de qualquer parte da rede ou reduzir efectivamente as suas dimensões de qualquer outro modo.\n\nEsta disposição não exclui a utilização de determinados dispositivos cuja lista e descrição técnica serão estabelecidas nos termos do artigo 48º"
+  },
+  "bfc10d6b86076dd7": {
+   "fragment_id": "TÍTULO III TAMANHO MÍNIMO DOS ORGANISMOS MARINHOS — Artigo 17º",
+   "type": "divisao",
+   "heading": "TÍTULO III TAMANHO MÍNIMO DOS ORGANISMOS MARINHOS — Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III TAMANHO MÍNIMO DOS ORGANISMOS MARINHOS — Artigo 17º\n\nUm organismo marinho é de tamanho inferior ao regulamentar sempre que as suas dimensões forem inferiores às dimensões mínimas especificadas no anexo XII para a espécie e a zona geográfica em causa."
+  },
+  "b02855e9152afd8a": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\n1. A medição do tamanho de um organismo marinho será feita em conformidade com o anexo XIII.\n\n2. Sempre que se preveja mais de um método de medição do tamanho de um organismo marinho, considerar-se-á que este tem o tamanho mínimo exigido se a aplicação de qualquer um dos métodos resultar num tamanho igual ou superior ao tamanho mínimo correspondente.\n\n3. As lagostas, os lavagantes e os moluscos bivalves e gastrópodes pertencentes a qualquer das espécies para os quais é fixado um tamanho mínimo no anexo XII apenas podem ser mantidos a bordo e desembarcados inteiros.\n\n4. a) As sapateiras apenas podem ser mantidas a bordo e desembarcadas inteiras.\n\nb) Todavia, um máximo de 5 % do peso da captura total de sapateiras ou partes de sapateiras a bordo ou desembarcada pode ser constituído por pinças separadas."
+  },
+  "81db7e962b3dce63": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\n1. Os organismos marinhos de tamanho inferior ao regulamentar não devem ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, vendidos, expostos ou colocados à venda, mas devem ser imediatamente devolvidos ao mar.\n\n2. O nº 1 não é aplicável:\n\na) À sardinha, ao biqueirão, ao arenque, aos carapaus e à sarda/cavala, até ao limite de 10 % em peso vivo do total das capturas de cada uma destas espécies, mantidas a bordo. O cálculo da percentagem de sardinha, biqueirão, arenque, carapaus e sarda/cavala de tamanho inferior ao regulamentar deve ser efectuado em termos da proporção em peso vivo de todos os organismos marinhos a bordo, após separação ou aquando do desembarque. A percentagem pode ser calculada com base numa ou mais amostras representativas. O limite de 10 % não deverá ser excedido durante o transbordo, o desembarque, o transporte, o armazenamento, a exposição ou a venda;\n\nb) Aos organismos marinhos que não os definidos nos anexos I a V como espécies-alvo para as categorias de malhagem inferior a 18 milímetros ou de 16 a 31 milímetros, capturados com artes rebocadas de malhagem inferior a 32 milímetros, desde que tais organismos não tenham sido separados e não sejam vendidos, expostos ou colocados à venda para consumo humano.\n\n3. Contudo, é permitido ter a bordo sardinha, biqueirão, carapaus ou sarda/cavala de tamanho inferior ao regulamentar capturados para utilização como isco vivo, desde que sejam mantidos vivos.\n\nTÍTULO IV DISPOSIÇÕES ESPECIAIS RELATIVAS À PESCA DE DETERMINADOS ORGANISMOS MARINHOS\n\nArtigo 20º Restrições aplicáveis à pesca do arenque\n\n1. É proibido ter a bordo arenque capturado nas zonas geográficas e nos períodos a seguir mencionados:\n\na) De 1 de Janeiro a 30 de Abril, na zona geográfica situada a nordeste da linha que une o promontório de Kintyre e Corsewall Point;\n\nb) De 1 de Julho a 31 de Outubro, na zona geográfica delimitada pelas seguintes coordenadas:\n\n- costa oeste da Dinamarca a 55° 30' de latitude norte,\n\n- 55° 30' de latitude norte, 07° 00' de longitude este,\n\n- 57° 00' de latitude norte, 07° 00' de longitude este,\n\n- costa oeste da Dinamarca a 57° 00' de latitude norte;\n\nc) De 15 de Agosto a 15 de Setembro, na zona de 6 a 12 milhas ao largo da costa leste do Reino Unido, medidas a partir das linhas de base entre 55° 30' e 55° 45' de latitude norte;\n\nd) De 15 de Agosto a 30 de Setembro, na zona geográfica delimitada pela linha que passa pelos seguintes pontos:\n\n- Butt of Lewis,\n\n- Cabo Wrath,\n\n- 58° 55' de latitude norte, 05° 00' de longitude oeste,\n\n- 58° 55' de latitude norte, 07° 10' de longitude oeste,\n\n- 58° 20' de latitude norte, 08° 20' de longitude oeste,\n\n- 57° 40' de latitude norte, 08° 20' de longitude oeste,\n\n- costa oeste da ilha de North Uist a 57° 40' de latitude norte, em seguida ao longo da costa norte desta ilha até 57° 40' 36&Prime; de latitude norte e 07° 20' 39&Prime; de longitude oeste,\n\n- 57° 50' 3&Prime; de latitude norte e 07° 8' 6&Prime; de longitude oeste,\n\n- em direcção nordeste, ao longo da costa oeste da ilha de Lewis até ao ponto de partida (Butt of Lewis);\n\ne) De 15 de Agosto a 30 de Setembro, na zona de 6 a 12 milhas ao largo da costa leste do Reino Unido, medidas a partir das linhas de base entre 54° 10' e 54° 45' de latitude norte;\n\nf) De 21 de Setembro a 31 de Dezembro, na parte da divisão CIEM VIIa delimitada pelas seguintes coordenadas:\n\ni) - costa leste da ilha de Man a 54° 20' de latitude norte,\n\n- 54° 20' de latitude norte, 03° 40' de longitude oeste,\n\n- 53° 50' de latitude norte, 03° 50' de longitude oeste,\n\n- 53° 50' de latitude norte, 04° 50' de longitude oeste,\n\n- costa sudoeste da ilha de Man a 04° 50' de longitude oeste,\n\ne\n\nii) - costa leste da Irlanda do Norte a 54° 15' de latitude norte,\n\n- 54° 15' de latitude norte, 05° 15' de longitude oeste,\n\n- 53° 50' de latitude norte, 05° 50' de longitude oeste,\n\n- costa leste da Irlanda a 53° 50' de latitude norte;\n\ng) Durante todo o ano, na divisão CIEM VIIa, na zona geográfica situada entre as costas oeste da Escócia, da Inglaterra e do País de Gales e uma linha traçada a 12 milhas das linhas de base destas costas, delimitada a sul por um ponto situado a 53° 20' de latitude norte e a noroeste por uma linha que une o promontório de Galloway (Escócia) e o Point of Ayre (ilha de Man);\n\nh) Durante todo o ano na zona de Logan Bay, definida como as águas que se encontram a leste de uma linha que une o promontório de Logan, situado a 54° 44' de latitude norte e 4° 59' de longitude oeste, a Laggantalluch Head, situado a 54° 41' de latitude norte e 4° 58' de longitude oeste;\n\ni) De três em três anos, a começar em 1997, por um período de 16 dias consecutivos com início na segunda sexta-feira de Janeiro, na zona delimitada pelas seguintes coordenadas:\n\n- costa sudeste da Irlanda a 52° 00' de latitude norte,\n\n- 52° 00' de latitude norte, 06° 00' de longitude oeste,\n\n- 52° 30' de latitude norte, 06° 00' de longitude oeste,\n\n- costa sudeste da Irlanda a 52° 30' de latitude norte;\n\nj) De três em três anos, a começar em 1997, por um período de 16 dias consecutivos com início na primeira sexta-feira de Novembro, na zona delimitada pelas seguintes coordenadas:\n\n- costa sul da Irlanda a 9° 00' de longitude oeste,\n\n- 51° 15' de latitude norte, 09° 00' de longitude oeste,\n\n- 51° 15' de latitude norte, 11° 00' de longitude oeste,\n\n- 52° 30' de latitude norte, 11° 00' de longitude oeste,\n\n- costa oeste da Irlanda a 52° 30' de latitude norte;\n\nk) De três em três anos, a começar em 1998, por um período de 16 dias consecutivos com início na primeira sexta-feira de Novembro, na zona delimitada pelas seguintes coordenadas:\n\n- costa sul da Irlanda a 9° 00' de longitude oeste,\n\n- 51° 15' de latitude norte, 09° 00' de longitude oeste,\n\n- 51° 15' de latitude norte, 07° 30' de longitude oeste,\n\n- costa sul da Irlanda a 52° 00' de latitude norte.\n\n2. Contudo, é permitido ter a bordo quantidades de arenque de uma das zonas descritas, desde que não excedam 5 % do peso total dos organismos marinhos a bordo, capturados em cada uma das várias zonas nos períodos especificados.\n\n3. Não obstante a alínea f), subalínea ii), e a alínea h) do nº 1, os navios de comprimento não superior a 12,2 metros sediados em portos situados na costa oriental da Irlanda e na Irlanda do Norte entre 53° 00' e 55° 00' de latitude norte podem ter a bordo quantidades de arenque das zonas referidas na alínea f), subalínea ii), e na alínea h) do nº 1. O único método de pesca autorizado é a pesca com redes de deriva de malhagem igual ou superior a 54 milímetros.\n\nArtigo 21º Restrições aplicáveis à pesca de espadilha para efeito de protecção do arenque\n\n1. É proibido ter a bordo espadilha capturada nas zonas geográficas e nos períodos a seguir mencionados:\n\na) De 1 de Janeiro a 31 de Março e de 1 de Outubro a 31 de Dezembro, no rectângulo estatístico CIEM 39E8. Para efeitos do presente regulamento, o referido rectângulo CIEM é delimitado pela linha traçada, para leste, a partir da costa leste do Reino Unido, ao longo do paralelo 55° 00' de latitude norte, até ao ponto situado a 1° 00' de longitude oeste, em seguida para norte até ao ponto situado a 55° 30' de latitude norte e, por último, para oeste até à costa do Reino Unido;\n\nb) De 1 de Janeiro a 31 de Março e de 1 de Outubro a 31 de Dezembro, nas águas interiores de Moray Firth, situadas a oeste de 3° 30' de longitude oeste, e nas águas interiores de Firth of Forth, situadas a oeste de 3° 00' de longitude oeste;\n\nc) De 1 de Julho a 31 de Outubro, na zona geográfica delimitada pelas seguintes coordenadas:\n\n- costa oeste da Dinamarca a 55° 30' de latitude norte,\n\n- 55° 30' de latitude norte, 07° 00' de longitude este,\n\n- 57° 00' de latitude norte, 07° 00' de longitude este,\n\n- costa oeste da Dinamarca a 57° 00' de latitude norte.\n\n2. Contudo, é permitido ter a bordo quantidades de espadilha de uma das zonas descritas, desde que não excedam 5 % do peso vivo total dos organismos marinhos a bordo capturados em cada uma das várias zonas em qualquer dos períodos especificados.\n\nArtigo 22º Restrições aplicáveis à pesca da sarda/cavala\n\n1. É proibido ter a bordo sarda/cavala capturada na zona geográfica delimitada pelas seguintes coordenadas:\n\n- um ponto da costa sul do Reino Unido a 02° 00' de longitude oeste,\n\n- 49° 30' de latitude norte, 02° 00' de longitude oeste,\n\n- 49° 30' de latitude norte, 07° 00' de longitude oeste,\n\n- 52° 00' de latitude norte, 07° 00' de longitude oeste,\n\n- um ponto da costa oeste do Reino Unido a 52° 00' de latitude norte,\n\nexcepto se o peso da sarda/cavala não exceder 15 % do peso vivo das quantidades totais de sarda/cavala e outros organismos marinhos a bordo capturados nesta zona.\n\n2. O nº 1 não é aplicável:\n\na) Aos navios que pescam exclusivamente com redes de emalhar e/ou linhas de mão;\n\nb) Aos navios que pescam com redes de arrasto demersal, redes de cerco dinamarquesas ou outras redes rebocadas idênticas, desde que tenham a bordo uma quantidade mínima de 75 % em peso vivo de organismos marinhos, com excepção do biqueirão, do arenque, dos carapaus, da sarda/cavala, dos cefalópodes pelágicos e da sardinha, calculada em percentagem do peso vivo total de todos os organismos marinhos a bordo;\n\nc) Aos navios não equipados para a pesca para os quais esteja a ser transbordada sarda/cavala.\n\n3. Toda a sarda/cavala a bordo é considerada como tendo sido capturada na zona referida no nº 1, com excepção daquela cuja existência a bordo tenha sido declarada, nos termos dos parágrafos seguintes, antes de o navio ter entrado nesta zona.\n\nO capitão de um navio que pretenda entrar nesta zona a fim de nela pescar e que tenha sarda/cavala a bordo deve notificar à autoridade de controlo do Estado-membro em cuja zona pretende pescar a hora e o local de chegada previstos nesta zona. Esta notificação deve ser efectuada com uma antecedência nunca superior a 36 horas nem inferior a 24 horas relativamente ao momento em que o barco entre nesta zona.\n\nAo entrar na zona, o capitão do navio deve transmitir à autoridade de controlo competente a notificação da quantidade de sarda/cavala que tem a bordo e que se encontra registada no diário de bordo. O capitão pode ser convidado a apresentar para verificação o seu diário de bordo e as capturas a bordo, em momento e local a determinar pela autoridade de controlo competente. No entanto, o momento da verificação nunca pode exceder em mais de seis horas o momento da recepção, pela autoridade de controlo, da mensagem que notifica a quantidade de sarda/cavala a bordo, e o local deve estar situado o mais perto possível do ponto de entrada nesta zona.\n\nO capitão de um navio que pretenda entrar nesta zona a fim de proceder a um transbordo de sarda/cavala para o seu navio deve notificar à autoridade de controlo do Estado-membro em cuja zona se efectue o transbordo a hora e o local para que está previsto tal transbordo. Esta notificação deve ser efectuada com uma antecedência nunca superior a 36 horas nem inferior a 24 horas relativamente ao início do transbordo. Logo que o transbordo esteja concluído o capitão deve informar a autoridade de controlo competente da quantidade de sarda/cavala transbordada para o seu navio.\n\nSão as seguintes as autoridades de controlo competentes:\n\n- para a França:\n\nMimer, telex: Paris 25 08 23,\n\n- para a Irlanda:\n\nDepartment of Marine, telex: Dublin 91 798 MRNE,\n\n- para o Reino Unido:\n\nMinistry of Agriculture, Fisheries and Food, telex: London 21 274.\n\nArtigo 23º Restrições aplicáveis à pesca do biqueirão\n\n1. É proibido ter a bordo biqueirão capturado com redes de arrasto pelágico na divisão CIEM VIIIc ou pescar biqueirão com redes de arrasto pelágico nesta divisão.\n\n2. Na divisão referida no nº 1, é proibido ter simultaneamente a bordo redes de arrasto pelágico e redes de cerco com retenida.\n\nArtigo 24º Restrições aplicáveis à pesca do atum\n\n1. É proibido ter a bordo qualquer quantidade de atum gaiado, patudo ou albacora, capturada com redes de cerco com retenida nas águas sob a soberania ou jurisdição de Portugal na subzona CIEM X a norte de 36° 30' de latitude norte, bem como nas zonas COPACE a norte de 31° de latitude norte e a leste de 17° 30' de longitude oeste, ou pescar as espécies referidas nas referidas zonas e com as referidas artes.\n\n2. É proibido ter a bordo atum capturado com redes de emalhar de deriva nas águas sob a soberania ou jurisdição de Espanha ou Portugal nas subzonas CIEM VIII, IX ou X, ou nas zonas COPACE ao largo das ilhas Canárias e do arquipélago da Madeira, ou pescar as espécies referidas nas referidas zonas e com as referidas artes.\n\nArtigo 25º Restrições aplicáveis à pesca do camarão para efeito de protecção dos peixes chatos\n\n1. É proibido ter a bordo qualquer quantidade de camarão negro e camarão boreal capturada com redes rebocadas demersais com malhagem compreendida entre 16 e 31 milímetros, excepto se estiver instalado a bordo do navio um dispositivo em estado de funcionamento destinado a separar os peixes chatos do camarão negro e do camarão boreal, após a captura.\n\n2. Deverá ser utilizada uma rede de arrasto selectiva ou uma rede com uma grelha separadora para a captura de camarão negro e camarão boreal. As regras de execução do presente número serão estabelecidas nos termos do artigo 48º\n\n3. Contudo, é permitido ter quantidades de camarão negro ou camarão boreal a bordo dos navios de pesca que não observem o disposto nos nºs 1 e 2 desde que as quantidades não excedam 5 % do peso total dos organismos marinhos a bordo.\n\nArtigo 26º Restrições aplicáveis à pesca do salmão e da truta marisca\n\n1. O salmão e a truta marisca não devem ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, vendidos, expostos ou colocados à venda, devendo ser imediatamente devolvidos ao mar quando capturados:\n\n- nas águas situadas para além do limite de 6 milhas medidas a partir das linhas de base dos Estados-membros nas regiões 1, 2, 3 e 4,\n\n- em derrogação do nº 1 do artigo 2º, fora das águas sob a soberania ou jurisdição dos Estados-membros, nas regiões 1, 2, 3 e 4, excepto nas águas sob a jurisdição da Gronelândia e das ilhas Faroé,\n\n- na pesca com qualquer rede rebocada.\n\n2. O nº 1 não é aplicável ao salmão e à truta marisca capturados no Skagerrak e Kattegat.\n\nArtigo 27º Restrições aplicáveis à pesca da faneca da Noruega para efeito de protecção de outros peixes redondos\n\n1. É proibido ter a bordo faneca da Noruega capturada com qualquer arte rebocada na zona delimitada por uma linha que une os seguintes pontos:\n\n- de 56° de latitude norte na costa leste do Reino Unido até 2° de longitude este,\n\n- prolongando-se em seguida para norte até 58° de latitude norte, para oeste até 0° 30' de longitude oeste, para norte até 59°15' de latitude norte, para leste até 1° de longitude este, para norte até 60° de latitude norte, para oeste até 00° 00' de longitude,\n\n- daí para norte até 60° 30' de latitude norte, para oeste até à costa das ilhas Shetland, em seguida para oeste a partir de 60° de latitude norte na costa oeste das ilhas Shetland até 3° de longitude oeste, para sul até 58° 30' de latitude norte,\n\n- e, por último, para oeste até à costa do Reino Unido.\n\n2. Contudo, é permitido ter a bordo quantidades de faneca da Noruega da zona descrita no nº 1, capturadas com as artes referidas no mesmo número, desde que não excedam 5 % do peso total dos organismos marinhos a bordo capturados na zona em causa com as artes em causa.\n\nArtigo 28º Restrições aplicáveis à pesca da pescada\n\n1. É proibido pescar com qualquer rede de arrasto, rede de cerco dinamarquesa ou rede rebocada idêntica nas zonas geográficas e nos períodos a seguir mencionados:\n\na) De 1 de Setembro a 31 de Dezembro, na zona geográfica delimitada pelas seguintes coordenadas:\n\n- o ponto da costa norte de Espanha designado por Cabo Prior (43° 34' de latitude norte, 8° 19' de longitude oeste),\n\n- 43° 50' de latitude norte, 8° 19' de longitude oeste,\n\n- 43° 25' de latitude norte, 9° 12' de longitude oeste,\n\n- o ponto da costa oeste de Espanha designado por Cabo Villano (43° 10' de latitude norte, 9° 12' de longitude oeste);\n\nb) De 1 de Outubro a 31 de Dezembro, na zona geográfica delimitada pelas seguintes coordenadas:\n\n- o ponto da costa oeste de Espanha designado por Cabo Corrubedo (42° 35' de latitude norte, 9° 05' de longitude oeste),\n\n- 42° 35' de latitude norte, 9° 25' de longitude oeste,\n\n- 43° 00' de latitude norte, 9° 30' de longitude oeste,\n\n- o ponto da costa oeste de Espanha a 43° 00' de latitude norte;\n\nc) De 1 de Dezembro até ao último dia do mês de Fevereiro do ano seguinte, na zona geográfica delimitada por uma linha que une as seguintes coordenadas:\n\n- o ponto da costa oeste de Portugal a 37° 50' de latitude norte,\n\n- 37° 50' de latitude norte, 9° 08' de longitude oeste,\n\n- 37° 00' de latitude norte, 9° 07' de longitude oeste,\n\n- o ponto da costa oeste de Portugal a 37° 00' de latitude norte.\n\n2. Nas zonas e nos períodos referidos no nº 1, é proibido ter a bordo qualquer rede de arrasto, rede de cerco dinamarquesa ou rede rebocada idêntica, excepto se estas artes estiverem atadas e arrumadas em conformidade com o nº 1 do artigo 20º do Regulamento (CEE) nº 2847/93.\n\nArtigo 29º Restrições aplicáveis à pesca da solha\n\n1. É proibido a qualquer navio com mais de 8 metros de comprimento de fora a fora utilizar qualquer rede de arrasto demersal, rede de cerco dinamarquesa ou arte rebocada similar nas seguintes zonas geográficas:\n\na) Na zona das 12 milhas ao largo das costas de França, a norte de 51° 00' de latitude norte, da Bélgica e dos Países Baixos até 53° 00' de latitude norte, medida a partir das linhas de base;\n\nb) Na zona delimitada por uma linha que une as seguintes coordenadas:\n\n- o ponto da costa oeste da Dinamarca a 57° 00' de latitude norte,\n\n- 57° 00' de latitude norte, 7° 15' de longitude leste,\n\n- 55° 00' de latitude norte, 7° 15' de longitude leste,\n\n- 55° 00' de latitude norte, 7° 00' de longitude leste,\n\n- 54° 30' de latitude norte, 7° 00' de longitude leste,\n\n- 54° 30' de latitude norte, 7° 30' de longitude leste,\n\n- 54° 00' de latitude norte, 7° 30' de longitude leste,\n\n- 54° 00' de latitude norte, 6° 00' de longitude leste,\n\n- 53° 50' de latitude norte, 6° 00' de longitude leste,\n\n- 53° 50' de latitude norte, 5° 00' de longitude leste,\n\n- 53° 30' de latitude norte, 5° 00' de longitude leste,\n\n- 53° 30' de latitude norte, 4° 15' de longitude leste,\n\n- 53° 00' de latitude norte, 4° 15' de longitude leste,\n\n- o ponto da costa dos Países Baixos a 53° 00' de latitude norte;\n\nc) Na zona das 12 milhas ao largo da costa oeste da Dinamarca a partir de 57° 00' de latitude norte em direcção ao norte até ao farol de Hirtshals, medidas a partir das linhas de base.\n\n2. a) Contudo, os navios para os quais tenha sido emitida uma autorização especial de pesca em conformidade com o nº 3 do artigo 7º do Regulamento (CE) nº 1627/94 estão autorizados a pescar nas zonas referidas no nº 1 com redes de arrasto de vara. É proibido utilizar redes de arrasto de vara cujo comprimento total da vara, ou conjuntos de redes de arrasto de vara cujo comprimento total das varas, constituído pela soma do comprimento de cada vara, seja superior a 9 metros ou possa ser aumentado para mais de 9 metros, excepto quando forem utilizadas redes de malhagem compreendida entre 16 e 31 milímetros. O comprimento da vara deve ser medido entre as suas extremidades, incluindo todos os seus acessórios.\n\nb) Não obstante o nº 2 do artigo 1º do Regulamento (CE) nº 1627/94, podem ser emitidas autorizações especiais de pesca para os efeitos referidos na alínea a) para navios com mais de 8 metros de comprimento de fora a fora.\n\nc) Os navios para os quais tenha sido emitida a autorização especial de pesca referida nas alíneas a) e b), devem satisfazer as seguintes condições:\n\n- constar de uma lista a fornecer por cada Estado-membro à Comissão, por forma a que o total da potência motriz dos navios de cada lista não exceda a potência motriz total anunciada por cada Estado-membro em 1 de Janeiro de 1998,\n\n- não exceder 221 quilowatts (kW) de potência motriz em nenhum momento e, no caso dos motores a que tenha sido reduzida a potência, esta não ter sido superior a 300 kW antes da referida redução.\n\nd) Qualquer navio constante da lista pode ser substituído por outro navio ou navios, desde que:\n\n- a substituição não implique o aumento, para cada Estado-membro, da respectiva potência motriz total indicada no primeiro travessão da alínea c),\n\n- a potência motriz de qualquer navio de substituição não exceda 221 kW em nenhum momento,\n\n- a potência do motor do navio de substituição não tenha sido reduzida e\n\n- o comprimento de fora a fora do navio de substituição não exceda 24 metros.\n\ne) Um motor de qualquer navio constante da lista de cada Estado-membro pode ser substituído, desde que:\n\n- a substituição desse motor não conduza à obtenção de uma potência motriz do navio superior a 221 kW, em qualquer momento,\n\n- a potência do motor de substituição não tenha sido reduzida e\n\n- a potência do motor de substituição não seja tal que a substituição resulte num aumento da potência motriz total indicada no primeiro travessão da alínea c) para esse Estado-membro.\n\nf) Será retirada a autorização especial de pesca a todos navios de pesca que não satisfaçam os critérios enunciados no presente número.\n\n3. Não obstante a alínea a) do nº 2, os navios cuja actividade primordial seja a pesca do camarão negro e que tenham obtido uma autorização especial de pesca ficam autorizados a utilizar conjuntos de redes de arrasto de vara cujo comprimento total das varas, constituído pela soma do comprimento de cada vara, seja superior a 9 metros quando pesquem com redes de malhagem compreendida entre 80 e 99 milímetros, desde que, para o efeito, lhes tenha sido emitida uma autorização especial de pesca suplementar. Esta autorização especial de pesca suplementar será renovada anualmente.\n\nO navio ou navios para os quais tenha sido emitida uma autorização especial de pesca suplementar podem ser substituídos por outro navio, desde que:\n\n- o navio de substituição não exceda as 70 TAB e não exceda o comprimento de fora a fora de 20 metros ou\n\n- a capacidade do navio de substituição não exceda os 180 kW e que o navio de substituição não exceda um comprimento de fora a fora de 20 metros.\n\nAos navios de pesca que deixem de satisfazer os critérios enunciados no presente número será retirada, a título permanente, a autorização especial de pesca suplementar.\n\n4. a) Em derrogação do nº 1:\n\n- os navios cuja potência motriz não seja superior a 221 kW em qualquer momento e, no caso dos motores cuja potência tenha sido reduzida, não fosse superior a 300 kW antes da redução, são autorizados a pescar nas zonas referidas naquele número com redes de arrasto demersais com portas,\n\n- os navios de arrasto em parelha cuja potência motriz combinada não seja superior a 221 kW em qualquer momento e, no caso dos motores cuja potência tenha sido reduzida, não fosse superior a 300 kW antes da redução, são autorizados a pescar nas referidas zonas com redes de arrasto demersais de parelha.\n\nb) Contudo, os navios cuja potência motriz seja superior a 221 kW são autorizados a utilizar redes de arrasto demersais com portas e os navios de arrasto parelha cuja potência motriz combinada exceda 221 kW são autorizados a utilizar redes de arrasto demersais de parelha, desde que:\n\ni) - as capturas de galeota e/ou espadilha a bordo e capturadas nas referidas zonas constituam, pelo menos, 90 % do peso vivo total dos organismos marinhos a bordo e capturados nas referidas zonas e\n\n- as quantidades de solha e/ou linguado a bordo e capturadas nesta zona não excedam 2 % do peso vivo total dos organismos marinhos a bordo e capturados nas referidas zonas;\n\nou\n\nii) - a malhagem utilizada seja, pelo menos, de 100 milímetros e\n\n- as quantidades de solha e/ou linguado a bordo e capturadas nesta zona não excedam 5 % do peso total dos organismos marinhos a bordo e capturados nas referidas zonas,\n\nou\n\niii) - a malhagem utilizada seja pelo menos de 80 milímetros e\n\n- a utilização dessas malhagens seja restringida à zona até 12 milhas da costa norte da França a 51° 00' de latitude norte e\n\n- as quantidades de solhas e linguados a bordo e capturadas nesta zona não excedam 5 % do peso total dos organismos marinhos a bordo e capturados nas referidas zonas.\n\n5. Nas zonas em que não seja autorizada a utilização de redes de arrasto de vara, redes de arrasto com portas ou redes de arrasto pelo fundo de parelha, é proibido ter a bordo essas redes, excepto se estiverem atadas e arrumadas em conformidade com o nº 1 do artigo 20º do Regulamento (CEE) nº 2847/93.\n\n6. As regras de execução do presente artigo serão estabelecidas nos termos do artigo 48º\n\nTÍTULO V RESTRIÇÕES APLICÁVEIS A DETERMINADOS TIPOS DE PESCA E ACTIVIDADES CONEXAS\n\nArtigo 30º Restrições aplicáveis à utilização de artes rebocadas demersais\n\n1. É proibido ter a bordo ou utilizar redes de arrasto de vara cujo comprimento total da vara, ou conjuntos de redes de arrasto de vara cujo comprimento total das varas, constituído pela soma do comprimento de cada vara, seja superior a 24 metros ou possa ser aumentado para mais de 24 metros. O comprimento de uma vara deve ser medido entre as suas extremidades, incluindo todos os seus acessórios.\n\n2. É proibido ter a bordo ou utilizar qualquer rede de arrasto de vara com malhagem compreendida entre 32 e 99 milímetros, nas seguintes zonas geográficas:\n\na) No mar do Norte, a norte de uma linha que une os seguintes pontos:\n\n- um ponto da costa leste do Reino Unido a 55° de latitude norte,\n\n- em seguida para leste até 55° de latitude norte, 05° de longitude este,\n\n- em seguida para norte até 56° de latitude norte,\n\n- e, por último, para leste até ao ponto da costa oeste da Dinamarca situado a 56° de latitude norte;\n\nb) Na divisão CIEM Vb, na subzona CIEM VI a norte de 56° de latitude norte e na subzona CIEM XII a norte de 56° de latitude norte.\n\nNas zonas referidas nas alíneas a) e b), é proibido ter a bordo qualquer rede de arrasto de vara com malhagem compreendida entre 32 e 99 milímetros, excepto se essas redes estiverem atadas e arrumadas em conformidade com o nº 1 do artigo 20º do Regulamento (CEE) nº 2874/93.\n\n3. É proibido utilizar redes de arrasto demersais com portas, redes de arrasto demersais na zona geográfica definida na alínea a) do nº 2 de parelha e redes de cerco dinamarquesas com malhagem compreendida entre 80 e 99 milímetros. É proibido nesta zona ter a bordo redes de arrasto demersais com portas, redes de arrasto demersais de parelha e redes de cerco dinamarquesas com malhagem compreendida entre 80 e 99 milímetros, excepto se essas redes estiverem atadas e arrumadas em conformidade com o nº 1 do artigo 20º do Regulamento (CEE) nº 2874/93.\n\nArtigo 31º Métodos de pesca não convencionais\n\n1. É proibido capturar organismos marinhos por métodos que incluam o recurso a explosivos, veneno ou substâncias soporíferas ou corrente eléctrica.\n\n2. É proibido vender, expor ou colocar à venda organismos marinhos capturados por métodos que incluam o recurso a qualquer tipo de projéctil.\n\nArtigo 32º Restrições aplicáveis à utilização de aparelhos de calibragem automática\n\n1. É proibido ter ou utilizar a bordo de um navio de pesca equipamento destinado à calibragem automática, por peso e sexo, do arenque, da sarda/cavala e do carapau.\n\n2. Contudo, é permitido a existência e a utilização desse equipamento, desde que:\n\na) O navio não tenha ou não utilize a bordo simultaneamente artes rebocadas com malhagem inferior a 70 milímetros ou uma ou mais redes de cerco com retenida ou artes de pesca semelhantes;\n\nou\n\nb) i) A totalidade das capturas que podem ser legalmente conservadas a bordo sejam armazenadas congeladas, o peixe calibrado seja imediatamente congelado após calibragem e o peixe calibrado não seja devolvido ao mar, excepto nos casos referidos no artigo 19º\n\ne\n\nii) o equipamento esteja instalado e localizado no navio de forma a assegurar o congelamento imediato e não para permitir a devolução ao mar.\n\n3. Qualquer navio autorizado a pescar no Báltico, nos seus estreitos ou no Øresund pode ter a bordo aparelhos de calibragem automática no Kattegat, desde que tenha sido emitida uma autorização especial de pesca para esse efeito.\n\nA autorização especial de pesca deverá definir as espécies, zonas, períodos de tempo e quaisquer outros requisitos aplicáveis ao uso e transporte a bordo de aparelhos de calibragem.\n\nArtigo 33º Restrições aplicáveis à utilização de redes de cerco com retenida\n\n1. É proibido realizar o cerco de qualquer grupo de mamíferos marinhos por meio de redes de cerco com retenida.\n\n2. O nº 1 do presente artigo é aplicável, não obstante o artigo 1º, a todos os navios que arvorem pavilhão dum Estado-membro, ou que aí estejam registados, em todas as águas.\n\nArtigo 34º Restrições aplicáveis às actividades de pesca na zona das 12 milhas ao largo do Reino Unido e da Irlanda\n\n1. É proibido utilizar redes de arrasto de vara na zona das 12 milhas ao largo das costas do Reino Unido e da Irlanda, medidas a partir das linhas de base utilizadas para a delimitação das águas territoriais.\n\n2. Contudo, os navios de qualquer uma das seguintes categorias são autorizados a pescar na zona referida no nº 1 com redes de arrasto de vara:\n\na) Navios que tenham entrado em serviço antes de 1 de Janeiro de 1987 cuja potência motriz não exceda 221 kW e, no caso dos motores cuja potência tenha sido reduzida, não excedesse 300 kW antes da redução;\n\nb) Navios que tenham entrado em serviço após 31 de Dezembro de 1986 cuja potência motriz não tenha sido reduzida e não exceda 221 kW e cujo comprimento de fora a fora não seja superior a 24 metros;\n\nc) Navios cujo motor tenha sido substituído após 31 de Dezembro de 1986 por um motor cuja potência não tenha sido reduzida e não exceda 221 kW.\n\n3. Não obstante o nº 2, é proibido utilizar redes de arrasto de vara cujo comprimento total da vara, ou conjuntos de redes de arrasto de vara cujo comprimento total das varas, constituído pela soma do comprimento de cada vara, seja superior a 9 metros ou possa ser aumentado para mais de 9 metros, excepto quando forem utilizadas redes de malhagem compreendida entre 16 e 31 milímetros. O comprimento da vara deve ser medido entre as suas extremidades, incluindo todos os seus acessórios.\n\n4. É proibido aos navios de pesca que não satisfaçam os requisitos dos nºs 2 e 3 exercer as actividades de pesca referidas nesses números.\n\n5. Nas zonas referidas no presente artigo, é proibido ter redes de arrasto com vara a bordo de navios não autorizados a utilizar essas redes, excepto se estiverem atadas e arrumadas em conformidade com o nº 1 do artigo 20º do Regulamento (CEE) nº 2847/93.\n\n6. As regras de execução do presente artigo serão estabelecidas nos termos do artigo 48º"
+  },
+  "a7b2ae253cc8312f": {
+   "fragment_id": "TÍTULO VI DISPOSIÇÕES ESPECÍFICAS APLICÁVEIS AO SKAGERRAK E AO KATTEGAT — Artigo 35º",
+   "type": "divisao",
+   "heading": "TÍTULO VI DISPOSIÇÕES ESPECÍFICAS APLICÁVEIS AO SKAGERRAK E AO KATTEGAT — Artigo 35º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI DISPOSIÇÕES ESPECÍFICAS APLICÁVEIS AO SKAGERRAK E AO KATTEGAT — Artigo 35º\n\nNão obstante o nº 1 do artigo 19º, os organismos marinhos de tamanho inferior ao regulamentar capturados no Skagerrak ou no Kattegat podem ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, vendidos, expostos ou colocados à venda, até ao limite de 10 % em peso vivo das capturas totais a bordo."
+  },
+  "9b4d1d23a7cec5c6": {
+   "fragment_id": "Artigo 36º",
+   "type": "artigo",
+   "heading": "Artigo 36º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36º\n\nO salmão e a truta marisca não devem ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, vendidos, expostos ou colocados à venda, devendo ser imediatamente devolvidos ao mar quando capturados em qualquer parte do Skagerrak e do Kattegat situada fora do limite das 4 milhas medidas a partir das linhas de base dos Estados-membros."
+  },
+  "7c80cbee30b528aa": {
+   "fragment_id": "Artigo 37º",
+   "type": "artigo",
+   "heading": "Artigo 37º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37º\n\n1. De 1 de Julho a 15 de Setembro, é proibido utilizar redes de arrasto com malhagem inferior a 32 milímetros nas águas situadas dentro do limite das 3 milhas medidas a partir das linhas de base no Skagerrak e no Kattegat.\n\n2. Contudo, na pesca de arrasto nas referidas águas e no mesmo período:\n\n- para o camarão árctico (Pandalus borealis), podem ser utilizadas redes com malhagem mínima de 30 milímetros,\n\n- para o peixe-carneiro europeu (Zoarces viviparus), os cabozes (Gobiidae) ou os escorpiões (Cottus spp.) destinados a isco, podem ser utilizadas redes com qualquer malhagem."
+  },
+  "8b2cf321780d034c": {
+   "fragment_id": "Artigo 38º",
+   "type": "artigo",
+   "heading": "Artigo 38º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38º\n\nÉ proibido ter a bordo qualquer quantidade de arenque, sarda/cavala ou espadilha capturada com redes de arrasto ou redes de cerco com retenida entre a meia-noite de sábado e a meia-noite de domingo no Skagerrak e entre a meia-noite de sexta-feira e a meia-noite de domingo no Kattegat."
+  },
+  "be59bed810ef315f": {
+   "fragment_id": "Artigo 39º",
+   "type": "artigo",
+   "heading": "Artigo 39º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39º\n\nÉ proibido utilizar qualquer rede de arrasto de vara no Kattegat."
+  },
+  "8424290fc8d6f131": {
+   "fragment_id": "Artigo 40º",
+   "type": "artigo",
+   "heading": "Artigo 40º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40º\n\nNas zonas e períodos referidos nos artigos 37º, 38º e 39º do presente regulamento em que não possam ser utilizadas redes de arrasto ou redes de arrasto de vara, é proibido ter a bordo essas redes, excepto se estiverem atadas e arrumadas em conformidade com o nº 1 do artigo 20º do Regulamento (CEE) nº 2847/93."
+  },
+  "f7949e2ad2ef3def": {
+   "fragment_id": "Artigo 41º",
+   "type": "artigo",
+   "heading": "Artigo 41º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41º\n\nNão obstante o artigo 31º, é autorizada a utilização de corrente eléctrica ou arpões mecanizados lançados por canhão para capturar atum e tubarão-frade (Cetorhinus maximus) no Skagerrak e no Kattegat."
+  },
+  "c2eb1389378d42e7": {
+   "fragment_id": "TÍTULO VII DISPOSIÇÕES TÉCNICAS — Artigo 42º Operações de transformação",
+   "type": "divisao",
+   "heading": "TÍTULO VII DISPOSIÇÕES TÉCNICAS — Artigo 42º Operações de transformação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VII DISPOSIÇÕES TÉCNICAS — Artigo 42º Operações de transformação\n\n1. É proibido realizar a bordo de navios de pesca qualquer transformação física ou química dos peixes para a produção de farinha, óleo ou produtos similares, ou transbordar as capturas para esses efeitos. Esta proibição não é aplicável à transformação ou transbordo dos resíduos de peixes.\n\n2. O nº 1 não é aplicável à produção de surimi e polpa de peixe a bordo dos navios de pesca.\n\nArtigo 43º Investigação científica\n\n1. O presente regulamento não é aplicável às operações de pesca exclusivamente para efeitos de investigação científica com autorização e sob a autoridade do Estado-membro ou dos Estados-membros em causa e após informação prévia da Comissão e do Estado-membro ou dos Estados-membros em cujas águas se realizem as investigações.\n\n2. Os organismos marinhos capturados para os fins especificados no nº 1 podem ser vendidos, armazenados, expostos ou colocados à venda, desde que:\n\n- satisfaçam as normas estabelecidas no anexo XII do presente regulamento e as normas de comercialização adoptadas em conformidade com o artigo 2º do Regulamento (CEE) nº 3759/92 do Conselho, de 17 de Dezembro de 1992, que estabelece a organização comum de mercado no sector dos produtos da pesca e da aquicultura (14), ou\n\n- sejam vendidos directamente para outros fins que não o consumo humano.\n\nArtigo 44º Repovoamento artificial e transplantação\n\n1. O presente regulamento não é aplicável às operações de pesca exclusivamente realizadas para efeitos de repovoamento artificial ou de transplantação de organismos marinhos com autorização e sob a autoridade do Estado-membro ou dos Estados-membros em causa. Quando o repovoamento artificial for realizado nas águas de outro Estado-membro ou Estados-membros, a Comissão e todos os Estados-membros em causa deverão ser previamente informados do facto.\n\n2. Os organismos marinhos capturados para os efeitos especificados no nº 1 e subsequentemente devolvidos vivos ao mar podem ser vendidos, armazenados, expostos ou colocados à venda, desde que satisfaçam as normas de comercialização adoptadas em conformidade com o artigo 2º do Regulamento (CEE) nº 3759/92\n\n."
+  },
+  "e7565d3f340278b7": {
+   "fragment_id": "TÍTULO VIII DISPOSIÇÕES FINAIS — Artigo 45º",
+   "type": "divisao",
+   "heading": "TÍTULO VIII DISPOSIÇÕES FINAIS — Artigo 45º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VIII DISPOSIÇÕES FINAIS — Artigo 45º\n\n1. Sempre que a conservação de unidades populacionais de organismos marinhos requeira acções imediatas, a Comissão pode adoptar, nos termos do artigo 48º, quaisquer medidas necessárias não previstas no presente regulamento ou que o derroguem.\n\n2. Sempre que a conservação de determinadas espécies ou pesqueiros esteja gravemente ameaçada, implicando qualquer adiamento um prejuízo dificilmente reparável, um Estado-membro pode adoptar relativamente às águas sob a sua jurisdição medidas de conservação não discriminatórias.\n\n3. As medidas referidas no nº 2, bem como e a respectiva fundamentação, deverão ser comunicadas à Comissão e aos demais Estados-membros logo após a sua adopção.\n\nA Comissão confirmará as medidas referidas no nº 1 ou exigirá a sua anulação ou alteração no prazo de dez dias úteis a contar da recepção de tal notificação. A decisão da Comissão será imediatamente notificada aos Estados-membros.\n\nOs Estados-membros podem submeter a decisão da Comissão ao Conselho no prazo de dez dias úteis a contar da recepção da referida notificação.\n\nO Conselho, deliberando por maioria qualificada, pode adoptar uma decisão diferente no prazo de um mês."
+  },
+  "0252b45786fc4cc7": {
+   "fragment_id": "Artigo 46º",
+   "type": "artigo",
+   "heading": "Artigo 46º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46º\n\n1. Os Estados-membros podem adoptar medidas para a conservação e gestão das unidades populacionais que digam respeito:\n\na) As unidades populacionais estritamente locais que apenas apresentem interesse para os pescadores do Estado-membro em causa, ou\n\nb) As condições ou disposições destinadas a limitar as capturas através de medidas técnicas:\n\ni) que completem as definidas na legislação comunitária sobre as pescas, ou\n\nii) que sejam mais estritas do que os requisitos mínimos estabelecidos na referida legislação,\n\ndesde que tais medidas sejam exclusivamente aplicáveis aos pescadores do Estado-membro em causa, sejam compatíveis com o direito comunitário e estejam em conformidade com a política comum da pesca.\n\n2. A Comissão será informada de qualquer projecto de introdução ou alteração de medidas técnicas nacionais, em tempo que lhe permita apresentar as suas observações.\n\nSe, no prazo de um mês a contar dessa notificação, a Comissão o solicitar, o Estado-membro em causa suspenderá a entrada em vigor das medidas projectadas por um prazo de três meses a contar da data da notificação, de modo a que a Comissão possa, nesse prazo, decidir se tais medidas estão em conformidade com o nº 1.\n\nSempre que a Comissão considerar, por decisão que comunicará a todos os Estados-membros, que determinada medida prevista não está em conformidade com o nº 1, o Estado-membro em causa não poderá fazer entrar em vigor essa medida sem lhe introduzir as necessárias alterações.\n\nO Estado-membro em causa informará imediatamente os outros Estados-membros e a Comissão das medidas adoptadas, após ter introduzido as eventuais alterações necessárias.\n\n3. Os Estados-membros fornecerão à Comissão, a pedido desta, todas as informações necessárias para verificar se as respectivas medidas técnicas nacionais estão em conformidade com o nº 1.\n\n4. Por iniciativa da Comissão ou a pedido de qualquer Estado-membro, a questão da conformidade de uma medida técnica aplicada por um Estado-membro com o nº 1 pode ser objecto de uma decisão adoptada nos termos do artigo 48º Se for adoptada tal decisão, os terceiro e quarto parágrafos do nº 2 são aplicáveis mutatis mutandis.\n\n5. As medidas relativas à pesca a partir da costa serão comunicadas à Comissão pelos Estados-membros interessados apenas a título de informação."
+  },
+  "87ee2ef131749d08": {
+   "fragment_id": "Artigo 47º",
+   "type": "artigo",
+   "heading": "Artigo 47º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47º\n\n1. O Conselho decidirá, no prazo de um ano a contar da data de entrada em vigor do presente regulamento, com base numa proposta da Comissão, sobre a criação de regras de utilização de combinações de malhagens aplicáveis a partir da data de aplicação do presente regulamento.\n\nO Conselho decidirá, no prazo de três anos a contar da data de aplicação do presente regulamento, com base numa proposta da Comissão, sobre as revisões e alterações às condições previstas nos anexos I a XI, aplicáveis no prazo de um ano a contar dessa decisão.\n\n2. Durante os anos de 1998, 1999 e 2000, sempre que se candidatem a financiamento da Comissão para projectos experimentais, os Estados-membros deverão dar prioridade a projectos que tenham a ver com a utilidade dos panos de malha quadrada ou outros dispositivos para aumentar a selectividade das artes rebocadas. Ao avaliar os projectos experimentais para financiamento, a Comissão deverá dar prioridade a tais projectos.\n\nA Comissão deverá apresentar ao Conselho um relatório sobre os resultados dos referidos projectos experimentais, juntamente com propostas adequadas, no prazo de quatro anos a contar da data de adopção do presente regulamento.\n\nO Conselho decidirá sobre essas propostas no prazo de um ano a contar da sua apresentação."
+  },
+  "16edb5635fd2dfbd": {
+   "fragment_id": "Artigo 48º",
+   "type": "artigo",
+   "heading": "Artigo 48º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48º\n\nAs regras de execução do presente regulamento serão adoptadas nos termos do artigo 18º do Regulamento (CEE) nº 3760/92. Essas regras poderão incluir, nomeadamente:\n\n- normas técnicas para a determinação da espessura do fio,\n\n- normas técnicas para a determinação da malhagem,\n\n- normas de amostragem,\n\n- listas e descrições técnicas dos dispositivos que podem ser fixados nas redes,\n\n- normas técnicas para a medição da potência do motor,\n\n- normas técnicas relativas às redes de malha quadrada,\n\n- normas técnicas relativas aos materiais dos panos de rede,\n\n- alterações das normas de utilização das combinações de malhagens."
+  },
+  "fa859a2ed7e6f13f": {
+   "fragment_id": "Artigo 49º",
+   "type": "artigo",
+   "heading": "Artigo 49º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49º\n\nSão revogados os seguintes artigos e anexos do Regulamento (CE) nº 894/97, com efeitos a partir de 1 de Janeiro de 2000:\n\n- artigos 1º a 10º,\n\n- artigos 12º a 17º,\n\n- anexos I a VII.\n\nAs remissões para o regulamento em causa devem ser entendidas como feitas para o presente regulamento e lidas de acordo com o quadro de correspondências constante do anexo XV.\n\nNo anexo XIV apresentam-se os nomes científicos dos organismos marinhos especificamente mencionados no presente regulamento."
+  },
+  "7d30ca0faba9d86f": {
+   "fragment_id": "Artigo 50º",
+   "type": "artigo",
+   "heading": "Artigo 50º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável com efeitos a partir de 1 de Janeiro de 2000, excepto o nº 3 do artigo 32º e o artigo 47º que são aplicáveis com efeitos a partir da data de entrada em vigor do presente regulamento.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 30 de Março de 1998.\n\nPelo Conselho\n\nO Presidente\n\nLord SIMON of HIGHBURY\n\n(1) JO C 292 de 4.10.1996, p. 1, e\n\nJO C 245 de 12.8.1997, p. 10.\n\n(2) JO C 132 de 28.4.1997, p. 235.\n\n(3) JO C 30 de 30.1.1997, p. 26.\n\n(4) JO L 132 de 23.5.1997, p. 1.\n\n(5) JO L 206 de 22.7.1992, p. 7. Directiva alterada pelo Acto de Adesão de 1994.\n\n(6) JO L 171 de 6.7.1994, p. 7.\n\n(7) JO L 274 de 25.9.1986, p. 1. Regulamento alterado pelo Regulamento (CE) nº 3259/94 (JO L 339 de 29.12.1994, p. 11).\n\n(8) JO L 261 de 20.10.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) nº 686/97 (JO L 102 de 19.4.1997, p. 1).\n\n(9) JO L 389 de 31.12.1992, p. 1. Regulamento alterado pelo Acto de Adesão de 1994.\n\n(10) JO C 335 de 24.12.1985, p. 2.\n\n(11) JO C 347 de 31.12.1985, p. 14.\n\n(12) JO L 194 de 24.7.1984, p. 22.\n\n(13) JO L 162 de 18.6.1986, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1821/96 (JO L 241 de 21.9.1996, p. 8).\n\n(14) JO L 388 de 31.12.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) nº 3318/94 (JO L 350 de 31.12.1994, p. 15)."
+  },
+  "7ddb2b4aabe1aa24": {
+   "fragment_id": "ANEXO I — ARTES REBOCADAS: Regiões 1 e 2, excepto Skagerrak e Kattegat",
+   "type": "divisao",
+   "heading": "ANEXO I — ARTES REBOCADAS: Regiões 1 e 2, excepto Skagerrak e Kattegat",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — ARTES REBOCADAS: Regiões 1 e 2, excepto Skagerrak e Kattegat\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "1194774e8c105bcf": {
+   "fragment_id": "ANEXO II — ARTES REBOCADAS: Região 3, excepto divisão CIEM IXa a leste de 7° 23' 48&Prime; de longitude oeste",
+   "type": "divisao",
+   "heading": "ANEXO II — ARTES REBOCADAS: Região 3, excepto divisão CIEM IXa a leste de 7° 23' 48&Prime; de longitude oeste",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — ARTES REBOCADAS: Região 3, excepto divisão CIEM IXa a leste de 7° 23' 48&Prime; de longitude oeste\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "34963c233f9f6765": {
+   "fragment_id": "ANEXO III — ARTES REBOCADAS: Divisão CIEM IXa a leste de 7° 23' 48&Prime; de longitude oeste",
+   "type": "divisao",
+   "heading": "ANEXO III — ARTES REBOCADAS: Divisão CIEM IXa a leste de 7° 23' 48&Prime; de longitude oeste",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — ARTES REBOCADAS: Divisão CIEM IXa a leste de 7° 23' 48&Prime; de longitude oeste\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "277514da1515d72a": {
+   "fragment_id": "ANEXO IV — ARTES REBOCADAS: Skagerrak e Kattegat",
+   "type": "divisao",
+   "heading": "ANEXO IV — ARTES REBOCADAS: Skagerrak e Kattegat",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — ARTES REBOCADAS: Skagerrak e Kattegat\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "98557f63ac6382f0": {
+   "fragment_id": "ANEXO V — ARTES REBOCADAS: Regiões 4, 5 e 6",
+   "type": "divisao",
+   "heading": "ANEXO V — ARTES REBOCADAS: Regiões 4, 5 e 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — ARTES REBOCADAS: Regiões 4, 5 e 6\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "28c384790aeab9f5": {
+   "fragment_id": "ANEXO VI — ARTES FIXAS: Regiões 1 e 2",
+   "type": "divisao",
+   "heading": "ANEXO VI — ARTES FIXAS: Regiões 1 e 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — ARTES FIXAS: Regiões 1 e 2\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "c4e05061ebfe97f4": {
+   "fragment_id": "ANEXO VII — ARTES FIXAS: Região 3",
+   "type": "divisao",
+   "heading": "ANEXO VII — ARTES FIXAS: Região 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — ARTES FIXAS: Região 3\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "3364ec6f3403d58c": {
+   "fragment_id": "ANEXO VIII — Combinações de categorias de malhagens autorizadas para as regiões 1 e 2, excepto Skagerrak e Kattegat",
+   "type": "divisao",
+   "heading": "ANEXO VIII — Combinações de categorias de malhagens autorizadas para as regiões 1 e 2, excepto Skagerrak e Kattegat",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII — Combinações de categorias de malhagens autorizadas para as regiões 1 e 2, excepto Skagerrak e Kattegat\n\nMilímetros\n\n&lt; 16 + 16-31\n\n16-31 + 32-54\n\n16-31 + 70-79\n\n16-31 + 80-99\n\n16-31 + &ge; 100\n\n32-54 + 70-79\n\n32-54 + 80-99\n\n32-54 + &ge; 100\n\n70-79 + 80-99\n\n70-79 + &ge; 100\n\n80-99 + &ge; 100"
+  },
+  "a9ec04c1637d92e9": {
+   "fragment_id": "ANEXO IX — Combinações de categorias de malhagens autorizadas para a região 3, excepto divisão CIEM IXa a leste de 7° 23' 48&Prime; de longitude oeste",
+   "type": "divisao",
+   "heading": "ANEXO IX — Combinações de categorias de malhagens autorizadas para a região 3, excepto divisão CIEM IXa a leste de 7° 23' 48&Prime; de longitude oeste",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX — Combinações de categorias de malhagens autorizadas para a região 3, excepto divisão CIEM IXa a leste de 7° 23' 48&Prime; de longitude oeste\n\nMilímetros\n\n16-31 + 32-54\n\n16-31 + &ge; 70\n\n32-54 + &ge; 70\n\n55-59 + &ge; 70\n\n70-79 + &ge; 70"
+  },
+  "703163386f64e2c1": {
+   "fragment_id": "ANEXO X — Condições de utilização das combinações de categorias de malhagens nas regiões 1 e 2, excepto Skagerrat e Kattegat",
+   "type": "divisao",
+   "heading": "ANEXO X — Condições de utilização das combinações de categorias de malhagens nas regiões 1 e 2, excepto Skagerrat e Kattegat",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO X — Condições de utilização das combinações de categorias de malhagens nas regiões 1 e 2, excepto Skagerrat e Kattegat\n\np.m."
+  },
+  "22eb377158cbabb1": {
+   "fragment_id": "ANEXO XI",
+   "type": "divisao",
+   "heading": "ANEXO XI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XI\n\nCondições de utilização das combinações de categorias de malhagens na região 3, excepto divisão CIEM IXa a leste de 7° 23' 48&Prime; de longitude oeste\n\np.m."
+  },
+  "6681636a6b8716b3": {
+   "fragment_id": "ANEXO XII — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO XII — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XII — >POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n(1) Comprimento total (comprimento da carapaça).\n\n(2) 30 cm, apenas para fins industriais.\n\n(3) A partir de 1 de Janeiro de 2002, o comprimento de carapaça aplicável será de 87 mm.\n\n(4) É proibido desembarcar mais de 15 %, em número, de espadarte com menos de 25 kg ou 125 cm.\n\n(5) É proibido desembarcar mais de 15 %, em número, de rabilho com menos de 6,4 kg ou 70 cm. Além disso, é proibido desembarcar qualquer rabilho com menos de 1,8 kg."
+  },
+  "d3ae222b4a1f0ea7": {
+   "fragment_id": "ANEXO XIII — MEDIÇÃO DO TAMANHO DOS ORGANISMOS MARINHOS",
+   "type": "divisao",
+   "heading": "ANEXO XIII — MEDIÇÃO DO TAMANHO DOS ORGANISMOS MARINHOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XIII — MEDIÇÃO DO TAMANHO DOS ORGANISMOS MARINHOS\n\n1. As dimensões dos peixes são medidas como indicado na figura 1, da ponta do focinho até à extremidade da barbatana caudal.\n\n2. As dimensões dos lagostins são medidas como indicado na figura 2:\n\n- desde o bordo da carapaça, paralelamente à linha mediana que parte do ponto posterior de uma das órbitas até ao bordo distal da carapaça, e/ou\n\n- da ponta do rostro até à extremidade posterior do telso, excluindo as sedas (comprimento total), e/ou\n\n- no caso das caudas de lagostins separadas: a partir do bordo anterior do primeiro segmento de cauda encontrado até à extremidade posterior do telso, com exclusão das sedas. A cauda é medida pousada, não esticada e do lado dorsal.\n\n3. As dimensões das lagostas das regiões 1 a 5, excepto Skagerrak/Kattegat, são medidas como indicado na figura 3, desde o bordo da carapaça, paralelamente à linha mediana que parte do ponto posterior de uma das órbitas até ao bordo distal da carapaça.\n\n4. As dimensões das lagostas de Skagerrak ou Kattegat são medidas como indicado na figura 3:\n\n- desde o bordo a carapaça, paralelamente à linha mediana que parte do ponto posterior de uma das órbitas até ao bordo distal da carapaça,\n\n- da ponta do rostro até à extremidade posterior do telso, excluindo as sedas (comprimento total).\n\n5. As dimensões das santolas ou sapateiras são medidas, como indicado nas figuras 4A e 4B, respectivamente, pela largura máxima da carapaça, medida perpendicularmente à sua mediana antero-posterior.\n\n6. As dimensões dos moluscos bivalves são medidas como indicado na figura 5, ao longo da maior dimensão da concha.\n\n7. As dimensões do buzo são medidas pelo comprimento da concha, como indicado na figura 6.\n\nFigura 1\n\n>REFERÊNCIA A UM GRÁFICO>\n\nFigura 2\n\n>REFERÊNCIA A UM GRÁFICO>\n\nFigura 3\n\n>REFERÊNCIA A UM GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\na) Comprimento do cefalotórax\n\nb) Comprimento total>FIM DE GRÁFICO>\n\nFigura 4 A\n\n>REFERÊNCIA A UM GRÁFICO>\n\nFigura 4 B\n\n>REFERÊNCIA A UM GRÁFICO>\n\nFigura 5\n\n>REFERÊNCIA A UM GRÁFICO>\n\nFigura 6\n\n>REFERÊNCIA A UM GRÁFICO>"
+  },
+  "ffbfd43d98f472f9": {
+   "fragment_id": "ANEXO XIV — NOMES VULGARES E CIENTÍFICOS",
+   "type": "divisao",
+   "heading": "ANEXO XIV — NOMES VULGARES E CIENTÍFICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XIV — NOMES VULGARES E CIENTÍFICOS\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "e5e34ed6a207be2a": {
+   "fragment_id": "ANEXO XV — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO XV — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XV — >POSIÇÃO NUMA TABELA>"
+  },
+  "c48fc12da2aa350c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01998R0850 — PT — 14.08.2019 — 013.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31998R0850) [REGULAMENTO (CE) N.º 850/98 DO CONSELHO](http://publications.europa.eu/resource/celex/31998R0850) [de 30 de Março de 1998](http://publications.europa.eu/resource/celex/31998R0850) [relativo à conservação dos recursos da pesca através de determinadas medidas técnicas de protecção dos juvenis de organismos marinhos](http://publications.europa.eu/resource/celex/31998R0850) (JO L 125, 27.4.1998, p.1)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2019/1241 do Parlamento Europeu e do Conselho de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1241) — L 198 — 105 — 25.7.2019"
+  }
+ }
+}

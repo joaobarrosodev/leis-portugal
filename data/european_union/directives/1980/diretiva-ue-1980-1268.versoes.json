@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31980L1268:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01980L1268-20130102",
+ "dre_path": null,
+ "source_lastmod": "2013-01-02",
+ "versions": [
+  {
+   "date": "1980-12-31",
+   "future": false,
+   "celex": "31980L1268",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e58710279591bda1",
+    "c983e8b4f1bbdd23",
+    "a654a0445f3a0e5a",
+    "aa37386f694a1e32",
+    "97479c81a2f173dd",
+    "f9deba6f3ad7b43e",
+    "124751cf3969e08e",
+    "e94ce26c1116a3dc"
+   ]
+  },
+  {
+   "date": "2013-01-02",
+   "future": false,
+   "celex": "01980L1268-20130102",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º.",
+    "Suprime Artigo 2º.",
+    "Suprime Artigo 3º.",
+    "Suprime Artigo 4º.",
+    "Suprime Artigo 5º.",
+    "Suprime ANEXO I DETERMINAÇÃO DO CONSUMO DE COMBUSTÍVEL",
+    "Suprime ANEXO II — >PIC FILE= \"T0013823\"\"PIC FILE= \"T0013824\">"
+   ],
+   "fragments": [
+    "28d06bd857ef6764"
+   ]
+  }
+ ],
+ "fragments": {
+  "e58710279591bda1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 80/1268/CEE do Conselho, de 16 de Dezembro de 1980, relativa à aproximação das legislações dos Estados-Membros respeitantes ao consumo de combustível dos veículos a motor** *Jornal Oficial nº L 375 de 31/12/1980 p. 0036 - 0045 Edição especial finlandesa: Capítulo 13 Fascículo 11 p. 0050 Edição especial grega: Capítulo 13 Fascículo 10 p. 0107 Edição especial sueca: Capítulo 13 Fascículo 11 p. 0050 Edição especial espanhola: Capítulo 13 Fascículo 11 p. 0124 Edição especial portuguesa: Capítulo 13 Fascículo 11 p. 0124*\n\nDIRECTIVA DO CONSELHO de 16 de Dezembro de 1980 relativa à aproximação das legislações dos Estados-membros respeitantes ao consumo de combustível dos veículos a motor (80/1268/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100º.,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que as prescrições técnicas exigidas para os veículos a motor por algumas legislações nacionais respeitam, nomeadamente, ao método de medição do consumo de combustível que deve ser utilizado para a indicação do consumo de combustível de um modelo de veículo;\n\nConsiderando que estas prescrições diferem de um Estado-membro para outro; que dai resultam entraves técnicos ao comércio para cuja eliminação devem ser adoptadas as mesmas prescrições por todos os Estados-membros, quer em complemento, quer em substituição das suas regulamentações actuais, tendo em vista nomeadamente permitir a aplicação, para cada modelo de veículo, do processo de recepção CEE que é objecto da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques (4), com a última redacção que lhe foi dada pela Directiva 80/1267/CEE (5);\n\nConsiderando que é de primordial importância estabelecer nas normas comunitárias um método para a medição do consumo de combustível pelos veículos a motor;\n\nConsiderando que um método comunitário de medição do consumo de combustível é também necessário para garantir, sobretudo, uma informação objectiva e rigorosa aos compradores e utilizadores;\n\nConsiderando que as normas da presente directiva só se aplicam aos veículos a motor de categoria M1, segundo a classificação internacional dos veículos a motor que figura na Directiva 70/156/CEE; que, para as outras categorias de veículos a motor, será estabelecido um método de medição do consumo de combustível logo que certas dificuldades técnicas sejam resolvidas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "c983e8b4f1bbdd23": {
+   "fragment_id": "Artigo 1º.",
+   "type": "artigo",
+   "heading": "Artigo 1º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º.\n\nPara efeitos do disposto na presente directiva, entende-se par veículo qualquer veículo a motor destinado a transitar na estrada, com ou sem carroçaria, tendo pelo menos quatro rodas e uma velocidade máxima, por construção, superior a 25 quilómetros por hora, com excepção dos veículos que se deslocam sobre carris, bem como dos tractores e máquinas agrícolas."
+  },
+  "a654a0445f3a0e5a": {
+   "fragment_id": "Artigo 2º.",
+   "type": "artigo",
+   "heading": "Artigo 2º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º.\n\nOs Estrados-membros não podem recusar a recepção CEE nem a recepção de âmbito nacional de um veículo, nem recusar ou proibir a venda, a matricula, a entrada em circulação ou a utilização de um veículo por motivos relacionados com o consumo de combustível, se os valores do consumo tiverem sido determinados nos termos dos Anexos I e II e constarem de um documento entregue ao automobilista na ocasião da compra, segundo as modalidades definidas por cada Estado-membro."
+  },
+  "aa37386f694a1e32": {
+   "fragment_id": "Artigo 3º.",
+   "type": "artigo",
+   "heading": "Artigo 3º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º.\n\nAs alterações necessárias para adaptar ao progresso técnico as prescrições dos anexos serão adoptadas em conformidade com o procedimento previsto no artigo 13º. da Directiva 70/156/CEE. (1)JO nº. C 104 de 28.4.1980, p. 1. (2)JO nº. C 265 de 13.10.1980, p. 76. (3)JO nº. C 182 de 21.7.1980, p. 3. (4)JO nº. L 42 de 23.2.1970, p. 1. (5)JO nº. L 375 de 31.12.1980, p. 34."
+  },
+  "97479c81a2f173dd": {
+   "fragment_id": "Artigo 4º.",
+   "type": "artigo",
+   "heading": "Artigo 4º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º.\n\n1. Os Estados-membros porão em vigor as disposições necessárias para darem cumprimento à presente directiva no prazo de dezoito meses a contar da sua notificação. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros devem assegurar que a Comissão seja informada do texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "f9deba6f3ad7b43e": {
+   "fragment_id": "Artigo 5º.",
+   "type": "artigo",
+   "heading": "Artigo 5º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º.\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 16 de Dezembro de 1980.\n\nPelo Conselho\n\nO Presidente\n\nColette FLESCH"
+  },
+  "124751cf3969e08e": {
+   "fragment_id": "ANEXO I DETERMINAÇÃO DO CONSUMO DE COMBUSTÍVEL",
+   "type": "divisao",
+   "heading": "ANEXO I DETERMINAÇÃO DO CONSUMO DE COMBUSTÍVEL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I DETERMINAÇÃO DO CONSUMO DE COMBUSTÍVEL\n\n1. RECEPÇÃO CEE\n\n1.1. Pedido de recepção CEE\n\n1.1.1. O pedido de recepção CEE de um modelo de veículo no que respeita ao consumo de combustível do motor será apresentado pelo fabricante do veículo ou pelo seu mandatário.\n\n1.1.2. O pedido será acompanhado dos documentos abaixo mencionados e das seguintes informações, em triplicado: 1.1.2.1. Ficha de informações devidamente preenchida.\n\n1.1.2.2. Informações necessárias para a emissão do documento previsto no Anexo II.\n\n1.1.3. Se o serviço técnico encarregado dos ensaios efectuar ele próprio os ensaios, deve ser-lhe apresentado um veículo representativo do modelo de veículo a recepcionar.\n\n1.2 Documentação\n\nSe for aceite um pedido nos termos do ponto 1.1, a autoridade competente emitirá o documento cujo modelo se encontra no Anexo II. Para a emissão deste documento, a autoridade competente do\n\nEstado-membro que proceder à recepção CEE pode utilizar o relatório emitido por um laboratório aprovado ou reconhecido de acordo com as disposições da presente directiva.\n\n2. ÂMBITO DE APLICAÇÃO\n\nO presente método aplica-se aos veículos da categoria M, equipados com um motor de combustão interna.\n\n3. ESPECIFICAÇÕES GERAIS\n\n3.1. O consumo de combustível será determinado pelos seguintes ensaios: 3.1.1. Ciclo simulador de condução urbana, descrito no Anexo III da Directiva 70/220/CEE do Conselho, de 20 de Março de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes às medidas a tomar contra a poluição do ar pelos gases provenientes dos motores de ignição comandada que equipam os veículos a motor (1), com a última redacção que lhe foi dada pela Directiva 78/665/CEE (2) (ponto 5).\n\n3.1.2. Velocidade constante de 90 quilómetros por hora (ponto 6)\n\n3.1.3. Velocidade constante de 120 quilómetros por hora (ponto 6). Este ensaio não será efectuado se o veículo tiver, por construção, uma velocidade máxima inferior a 130 quilómetros por hora.\n\n3.2. Os resultados dos ensaios devem ser expressos em litros por 100 quilómetros, arredondados ao décimo mais próximo.\n\n3.3. As distâncias devem ser medidas com uma precisão de 5 % e os tempos, com uma precisão de dois décimos de segundo. (1)JO nº. L 76 de 6.4.1970, p. 1. (2)JO nº. L 223 de 14.8.1978, p. 48.\n\n3.4. Combustível de ensaio\n\nO combustível utilizado deve ser, consoante o caso, o combustível de referência definido no Anexo VI da Directiva 70/220/CEE ou o definido no Anexo V da Directiva 72/306/CEE do Conselho, de 2 de Agosto de 1972, relativa à aproximação das legislações dos Estados-membros respeitantes às medidas a tomar contra a emissão de poluentes provenientes dos motores Diesel destinados à propulsão de veículos (1)\n\n4. CONDIÇÕES DO ENSAIO\n\n4.1. Estado geral do veículo\n\n4.1.1. O veículo deve estar limpo, as janelas e entradas de ar fechadas, e só devem ser accionados os equipamentos necessários ao funcionamento do veículo para a execução do ensaio. Se existir um dispositivo de comando manual de aquecimento do ar na admissão do carburador, deve ser colocado na posição «verão». Em geral, devem estar em funcionamento os dispositivos auxiliares necessários para a marcha normal de veículo.\n\n4.1.2. Se a ventoinha do radiador funcionar com termostato, deve estar nas condições normais de funcionamento no veículo. O sistema de aquecimento do habitáculo não deve estar em funcionamento, o mesmo acontecendo com o sistema de condicionamento de ar, cujo compressor, todavia, deve estar a funcionar normalmente.\n\n4.1.3. Se estiver equipado com um dispositivo de sobrealimentação, este deve estar nas condições normais de funcionamento para a velocidade do ensaio.\n\n4.1.4. O veículo deve estar rodado e ter percorrido pelo menos 3 000 quilómetros antes de ensaio.\n\n4.2. Lubrificantes\n\nTodos os lubrificantes devem ser os recomendados pelo fabricante do veículo e devem ser indicados no relatório do ensaio.\n\n4.3 Pneumáticos\n\nOs pneumáticos devem ser de um dos tipos especificados como equipamento de origem pelo fabricante do veículo, e cheios à pressão recomendada para a carga e para as velocidades do ensaio (sendo estas adaptadas, se for caso disso, para o funcionamento no banco nas condições de ensaio). Estas pressões devem ser indicadas no relatório do ensaio.\n\n4.4. Medição do consumo de combustível\n\n4.4.1. O combustível deve ser fornecido ao motor por intermédio de um dispositivo capaz de medir a quantidade consumida com uma precisão de ± 2 %; este dispositivo não deve alterar as condições normais de alimentação. Se o sistema de medição for volumétrico, a temperatura do combustível deve ser medida no ponto de medição do volume.\n\n4.4.2 Um sistema de válvula deve permitir a passagem rápida do sistema de alimentação geral de combustível para o sistema de medição. O tempo de passagem não deve exceder 0,2 segundos.\n\n4.5. Condições de referência\n\nPressão: Ho = 1 000 mbar.\n\nTemperatura: To = 293º K (20 ºC).\n\n4.5.1 Densidade do ar\n\n4.5.1.1. A densidade do ar no momento do ensaio, calculada nos termos do ponto 4.5.1.2., não deve desviar-se mais de 7,5 % da densidade do ar às condições de referência. (1)JO nº. L 190 de 20.8.1972, p. 1.\n\n4.5.1.2. A densidade do ar será calculada pela fórmula: >PIC FILE= \"T0013816\">\n\ndT = densidade do ar às condições do ensaio,\n\ndo = densidade do ar às condições de referência,\n\nHT = pressão na ocasião do ensaio,\n\nTT = temperatura absoluta na ocasião do ensaio (º K).\n\n5. MEDIÇÃO DO CONSUMO DE COMBUSTÍVEL NUM CICLO SIMULADOR DE CONDUÇÃO URBANA\n\n5.1. O ciclo de ensaio é o descrito no Anexo III da Directiva 70/220/CEE.\n\n5.1.1. No caso de um veículo equipado com um motor Diesel, a regulação do freio é determinada pela correspondente versão a gasolina ou por um método alternativo reconhecido como equivalente.\n\n5.1.2. Massa de referência do veículo\n\nA massa do veículo é a massa de referência, tal como é definida no ponto 1.2 do Anexo I da Directiva 70/220/CEE.\n\n5.2. O banco dinamométrico deve ser regulado para a inércia equivalente, como é preconizado no ponto 4.2. do Anexo III da Directiva 70/220/CEE.\n\n5.3. Medição do consumo\n\n5.3.1. O consumo é calculado com base na quantidade de combustível consumido durante a realização de dois ciclos consecutivos.\n\n5.3.2. Antes de se efectuarem as medições, o motor deve ser aquecido a partir das condições de arranque a frio pela realização de cinco ciclos de ensaio completos. As medições podem também efectuar-se imediatamente após ensaios do tipo I e do tipo II descritos na Directiva 70/220/CEE. A temperatura deve ser mantida nos limites da gama de valores normais de funcionamento do motor, utilizando-se, quando necessário, o dispositivo de arrefecimento auxiliar.\n\n5.3.3. A duração do período de funcionamento sem carga entre dois ciclos consecutivos pode ser prolongada até um máximo de 60 segundos, a fim de facilitar a medição do consumo de combustível.\n\n5.4. Cálculo do consumo\n\n5.4.1. Se o consumo for determinado por medição gravimétrica, será expresso em litros por 100 quilómetros pela conversão do valor M (combustível consumido expresso em quilogramas) mediante a seguinte fórmula: >PIC FILE= \"T0013817\">\n\nSg = massa específica do combustível nas condições de referência (kg/dm3),\n\nD = Distância percorrida durante o ensaio (km).\n\n5.4.2. Se o consumo de combustível for determinado por medição volumétrica, o consumo será expresso em litros por 100 quilómetros pela seguinte fórmula: >PIC FILE= \"T0013818\">\n\nTo = temperatura de referência expressa em graus Celsius,\n\nTF = temperatura do combustível medida no ponto de medição do volume, expressa em graus Celsius,\n\n5.5. Expressão dos resultados\n\n5.5.1. O consumo padrão em circuito urbano é a média aritmética de três medições sucessivas efectuadas segundo o procedimento atrás descrito.\n\n5.5.2. Se os valores extremos se afastarem mais de 5 % do valor médio, devem ser realizados mais ensaios de acordo com este procedimento, até se obter um grau de rigor da medição pelo menos igual a 5 %.\n\n5.5.3. A precisão da medição é calculada com a ajuda da fórmula: >PIC FILE= \"T0013819\">\n\nO valor de k é fornecido pela tabela seguinte: >PIC FILE= \"T0013821\">\n\n5.5.4. Se depois de 10 medições não se tiver obtido uma precisão de pelo menos 5 %, o consumo será determinado com outro veículo do mesmo modelo.\n\n6. MEDIÇÃO DO CONSUMO DE COMBUSTÍVEL A VELOCIDADE CONSTANTE\n\n6.1 Estes ensaios podem ser efectuados quer num banco dinamométrico quer em estrada.\n\n6.1.1. Massa do veículo\n\n6.1.1.1. A massa do veículo é a massa em ordem de marcha, definida no ponto 6.1.1.2, aumentada de 180 quilogramas ou de um valor equivalente a metade da carga se este valor for superior a 180 quilogramas, incluindo o material de medição e os ocupantes. A altura da suspensão do veículo será a que se obtiver quando o centro de gravidade desta carga estiver situado ao meio do segmento de recta que une os pontos R dos lugares laterais da frente.\n\n6.1.1.2. Para efeitos do disposto na presente directiva, entende-se por «massa em ordem de marcha do veículo» a massa total de veículo sem carga, com todos os seus reservatórios cheios, com excepção do reservatório de combustível que se deve encontrar cheio a 90 % da capacidade especificada pelo fabricante, e com o seu jogo de ferramentas e a sua roda sobresselente.\n\n6.2. Caixa de velocidades\n\nSe o veículo estiver equipado com comando manual de velocidades, deve utilizar-se a relação de transmissão mais elevada recomendada pelo fabricante para a condução a cada uma das velocidades de ensaio.\n\n6.3. Procedimento de ensaio\n\n6.3.1. Ensaio na estrada\n\n6.3.1.1. Condições metereológicas\n\n6.3.1.1.1. A humidade relativa deve ser inferior a 95 %; a estrada deve estar seca; a superfície da estrada pode, contudo, ter vestígios de humidade desde que não haja uma película apreciável de água em qualquer ponto.\n\n6.3.1.1.2. A velocidade média do vento deve ser inferior a 3 metros por segundo e as rajadas devem ser inferiores a 8 metros por segundo.\n\n6.3.1.2. Antes de se efectuarem as medições, o veículo deve percorrer, sobre o circuito escolhido e a uma velocidade próxima da de ensaio, uma distância suficiente para atingir as temperaturas de marcha, não devendo esta distância em caso algum ser inferior a 10 quilómetros.\n\n6.3.1.3. Percurso de ensaio\n\nO percurso de ensaio deve permitir rodar a uma velocidade estabilizada e deve ter, pelo menos, 2 quilómetros. O percurso deve formar um circuito fechado e o pavimento deve estar em bom estado. Pode utilizar-se uma estrada rectilínea com a condição de que o percurso de dois quilómetros seja efectuado nos dois sentidos. A inclinação não deve ser superior a ± 2 % entre dois pontos quaisquer.\n\n6.3.1.4. Durante cada percurso de ensaio, deve manter-se uma velocidade estabilizada sem variações superiores a ±2 quilómetros por hora. A velocidade média para cada ensaio não se deve desviar da velocidade de referência em mais de 2 quilómetros por hora.\n\n6.3.1.5. Para determinar o consumo correspondente a cada uma das velocidades de referência (ver o gráfico abaixo), efectuam-se quatro ensaios: dois a uma velocidade média inferior à velocidade de referência e dois a uma velocidade média superior à velocidade de referência.\n\n6.3.1.6. O consumo de combustível em cada percurso de ensaio é calculado segundo as fórmulas definidas no ponto 5.4.\n\n6.3.1.7. O desvio entre os dois valores calculados para a velocidade inferior não deve ser superior a 5 % do seu valor médio, e esta mesma condição aplicar-se-á aos dois valores calculados para a velocidade superior. O valor do consumo de combustível à velocidade de referência considerada será calculado por interpolação linear, como mostra o gráfico abaixo. 6.3.1.7.1. Se as condições do ponto 6.3.1.7 não forem obtidas para um dos pares de valores calculados, os quatro ensaios devem ser repetidos. Se depois de 10 tentativas não for atingida a constância desejada, deve ser escolhido um outro veículo para ser submetido a todos os ensaios especificados neste procedimento.\n\nExemplo: Cálculo para uma velocidade média de 90 quilómetros por hora. >PIC FILE= \"T0013822\">\n\nAs quatro cruzes correspondem voaos valores calculados para cada percurso do ensaio. Coé o valor do consumo calculado à velocidade de referência Vona distância de ensaio percorrida.\n\n6.3.2. Ensaio em banco dinamométrico\n\n6.3.2.1. Regulação do banco dinamométrico\n\nO banco deve ser regulado da maneira descrita no ponto 4.1 do Anexo III da Directiva 70/220/CEE, com as seguintes alterações: - o banco deve ser regulado para a velocidade de ensaio apropriada,\n\n- o estado do veículo durante os ciclos do ensaio deve estar de acordo com o especificado nos pontos 4.1, 4.2. e 4.3, e as condições metereológicas durante o ensaio na estrada devem estar de acordo com o especificado no ponto 6.3.1.1, de modo a determinar a regulação correcta da depressão no interior da tubagem de admissão.\n\nNo caso de um veículo equipado com um motor Diesel, o banco deve ser regulado segundo as prescrições do ponto 5.1.1.\n\n6.3.2.2. Arrefecimento\n\nPodem utilizar-se dispositivos adicionais de arrefecimento de ar para manter as condições de marcha e as temperaturas dos lubrificantes e do líquido de arrefecimento dentro dos limites normalmente atingidos à mesma velocidade na estrada.\n\n6.3.2.3. Antes de se efectuarem as medições, o veículo deve percorrer no banco, a uma velocidade próxima da de ensaio, uma distância suficiente para atingir as temperaturas de marcha, não devendo esta distância ser inferior, em caso algum, a 10 quilómetros.\n\n6.3.2.4. A distância de ensaio não deve ser inferior a 2 quilómetros, sendo medida por meio de um contarotações instalado no banco dinamométrico.\n\n6.4. O tipo de banco de ensaio utilizado deve ser indicado no relatório do ensaio.\n\n6.5. Expressão dos resultados\n\nQualquer que seja o método de medição empregado, os resultados devem ser expressos em litros por 100 quilómetros nas condições de referência especificadas no ponto 4.5."
+  },
+  "e94ce26c1116a3dc": {
+   "fragment_id": "ANEXO II — >PIC FILE= \"T0013823\"\"PIC FILE= \"T0013824\">",
+   "type": "divisao",
+   "heading": "ANEXO II — >PIC FILE= \"T0013823\"\"PIC FILE= \"T0013824\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >PIC FILE= \"T0013823\"\"PIC FILE= \"T0013824\">"
+  },
+  "28d06bd857ef6764": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1980L1268 — PT — 02.01.2013 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31980L1268) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31980L1268) [de 16 de Dezembro de 1980](http://publications.europa.eu/resource/celex/31980L1268) [relativa às emissões de dióxido de carbono e ao consumo de combustível dos veículos a motor](http://publications.europa.eu/resource/celex/31980L1268) [(80/1268/CEE)](http://publications.europa.eu/resource/celex/31980L1268) (JO L 375, 31.12.1980, p.36)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 715/2007 do Parlamento Europeu e do Conselho de 20 de Junho de 2007](http://publications.europa.eu/resource/celex/32007R0715) — L 171 — 1 — 29.6.2007"
+  }
+ }
+}

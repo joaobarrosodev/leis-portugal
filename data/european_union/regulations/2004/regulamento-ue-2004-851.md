@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-12-26'
+version_history:
+  file: regulamento-ue-2004-851.versoes.json
+  count: 1
+  source_lastmod: '2022-12-26'
+  versions:
+  - date: '2022-12-26'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32004R0851
   eli: http://data.europa.eu/eli/reg/2004/851/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/77d98344-249e-486a-a9a9-88931b01aa7c.0010
   content_url: http://publications.europa.eu/resource/cellar/20f4e793-8b87-11ed-999b-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0851-20221226
-  retrieved_at: '2026-10-22T03:11:59Z'
+  retrieved_at: '2026-10-22T14:58:08Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-06-04T02:57:19.314+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:59Z'
-  notes: Texto consolidado 02004R0851-20221226.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:58:08Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2004-851.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -110,29 +119,20 @@ relationships:
   date: '2022-03-24'
 article_structure:
   article_count: 40
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:59Z'
-  warnings: []
+  checked_at: '2026-10-22T14:58:08Z'
+  warnings:
+  - '02004R0851-20040430: versão indisponível (Sem expressão na língua por para CELEX 02004R0851-20040430.)'
   errors: []
 ---
 
 # Regulamento (CE) n.°851/2004 do Parlamento Europeu e do Conselho de 21 de Abril de 2004
-
-> 02004R0851 — PT — 26.12.2022 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022R2370) — [REGULAMENTO (UE) 2022/2370 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de novembro de 2022](http://publications.europa.eu/resource/celex/32022R2370) — L 314 — 1 — 6.12.2022
-
-## REGULAMENTO (CE) N.º 851/2004 DO PARLAMENTO EUROPEU
 
 E Do Conselhode 21 de Abril de 2004
 

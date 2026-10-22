@@ -34,6 +34,41 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-06-14'
+version_history:
+  file: diretiva-ue-1994-79.versoes.json
+  count: 3
+  source_lastmod: '2011-06-14'
+  versions:
+  - date: '1994-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-02-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+  - date: '2011-06-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime ANEXO I
+    - Suprime ANEXO II
 identifiers:
   celex: 31994L0079
   eli: http://data.europa.eu/eli/dir/1994/79/oj
@@ -48,7 +83,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/17c8f595-cd62-4018-8216-bc64fba116e2.0011
   content_url: http://publications.europa.eu/resource/cellar/910f2359-e400-44ee-a2f9-49de64e3d597.0004.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0079-20110614
-  retrieved_at: '2026-10-22T03:07:46Z'
+  retrieved_at: '2026-10-22T14:43:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-16T09:45:20.113+02:00'
 integrity:
@@ -57,9 +92,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:07:46Z'
-  notes: Texto consolidado 01994L0079-20110614.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:43:24Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1994-79.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -96,16 +131,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:07:46Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:43:24Z'
+  warnings: []
   errors: []
 ---
 

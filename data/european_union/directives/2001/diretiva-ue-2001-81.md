@@ -35,6 +35,92 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-07-01'
+version_history:
+  file: diretiva-ue-2001-81.versoes.json
+  count: 6
+  source_lastmod: '2018-07-01'
+  versions:
+  - date: '2001-11-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0105:por
+    amending_title: DIRECTIVA 2006/105/CE DO CONSELHO de 20 de Novembro de 2006; Acto relativo às condições de adesão da República
+      Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República
+      da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações
+      dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Objectivos ambientais intermédios
+    - Altera Artigo 9.º — Relatórios da Comissão
+    - Altera Artigo 17.º — Destinatários
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Valores-limite de emissão aplicáveis ao SO2, NOx e COV
+    - Adita ANEXO III
+    - Adita Metodologias para a elaboração dos inventários e projecções de emissões
+    - Adita Notas
+    - Suprime ANEXO I — Valores-limite nacionais de emissão aplicáveis ao SO2, NOx, COV e NH3, a cumprir até 2010(1)
+    - Suprime ANEXO II — Valores-limite de emissão aplicáveis ao SO2, NOx e COV
+    - Suprime ANEXO III — Metodologias para a elaboração dos inventários e projecções de emissões
+  - date: '2009-04-20'
+    amending: eu:celex:32009R0219:por
+    amending_title: REGULAMENTO (CE) n. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Inventários e previsões de emissões
+    - Altera Artigo 9.º — Relatórios da Comissão
+    - Altera Artigo 13.º — Comité
+    - Altera ANEXO I
+    - Altera Valores-limite de emissão aplicáveis ao SO2, NOx e COV
+    - Altera Metodologias para a elaboração dos inventários e projecções de emissões
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0017:por
+    amending_title: DIRETIVA 2013/17/UE DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Relatórios da Comissão
+    - Altera ANEXO I
+    - Altera Valores-limite de emissão aplicáveis ao SO2, NOx e COV
+    - Altera Metodologias para a elaboração dos inventários e projecções de emissões
+    - Altera Notas
+  - date: '2016-12-31'
+    amending: eu:celex:32016L2284:por
+    amending_title: DIRETIVA (UE) 2016/2284 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14
+      de dezembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Relatórios da Comissão
+    - Altera ANEXO I
+    - Altera Valores-limite de emissão aplicáveis ao SO2, NOx e COV
+    - Altera Notas
+    - Suprime Artigo 7.º — Inventários e previsões de emissões
+    - Suprime Artigo 8.º — Relatórios dos Estados-Membros
+    - Suprime ANEXO III
+    - Suprime Metodologias para a elaboração dos inventários e projecções de emissões
+  - date: '2018-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera ANEXO I
+    - Suprime Artigo 2.º — Âmbito
+    - Suprime Artigo 3.º — Definições
+    - Suprime Artigo 5.º — Objectivos ambientais intermédios
+    - Suprime Artigo 6.º — Programas nacionais
+    - Suprime Artigo 9.º — Relatórios da Comissão
+    - Suprime Artigo 10.º — Revisão
+    - Suprime Artigo 11.º — Cooperação com países terceiros
+    - Suprime Artigo 12.º — Relatórios sobre as emissões de navios e aeronaves
+    - Suprime Artigo 13.º — Comité
+    - Suprime Artigo 14.º — Sanções
+    - Suprime Artigo 15.º — Transposição
+    - Suprime Artigo 16.º — Entrada em vigor
+    - Suprime Artigo 17.º — Destinatários
+    - Suprime ANEXO II
+    - Suprime Valores-limite de emissão aplicáveis ao SO2, NOx e COV
+    - Suprime Notas
 identifiers:
   celex: 32001L0081
   eli: http://data.europa.eu/eli/dir/2001/81/oj
@@ -49,7 +135,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5723340b-4d97-4a75-86bc-e47910295a27.0010
   content_url: http://publications.europa.eu/resource/cellar/91f1aa40-716f-4f86-b3f9-cd279ed82272.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0081-20180701
-  retrieved_at: '2026-10-22T02:42:28Z'
+  retrieved_at: '2026-10-22T14:50:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-05T23:01:33.031+01:00'
 integrity:
@@ -58,9 +144,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:28Z'
-  notes: Texto consolidado 02001L0081-20180701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:14Z'
+  notes: 6 versão(ões); histórico completo em diretiva-ue-2001-81.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -174,35 +260,19 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:28Z'
-  warnings: []
+  checked_at: '2026-10-22T14:50:14Z'
+  warnings:
+  - '02001L0081-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 2001/81/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2001
-
-> 02001L0081 — PT — 01.07.2018 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32006L0105) — [DIRECTIVA 2006/105/CE DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0105) — L 363 — 368 — 20.12.2006
-- [M2](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) n.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-- [►M3](http://publications.europa.eu/resource/celex/32013L0017) — [DIRETIVA 2013/17/UE DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0017) — L 158 — 193 — 10.6.2013
-- [►M4](http://publications.europa.eu/resource/celex/32016L2284) — [DIRETIVA (UE) 2016/2284 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14 de dezembro de 2016](http://publications.europa.eu/resource/celex/32016L2284) — L 344 — 1 — 17.12.2016
-
-**Alterada por:**
-
-- [A1](http://publications.europa.eu/resource/celex/12003T) — [ACTO relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T%2FTXT) — L 236 — 33 — 23.9.2003
-
-## DIRECTIVA 2001/81/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de Outubro de 2001
 

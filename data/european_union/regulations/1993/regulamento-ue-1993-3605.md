@@ -34,6 +34,92 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-06-30'
+version_history:
+  file: regulamento-ue-1993-3605.versoes.json
+  count: 3
+  source_lastmod: '2009-06-30'
+  versions:
+  - date: '1993-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-12-23'
+    amending: eu:celex:32000R0475:por
+    amending_title: REGULAMENTO (CE) N. o 475/2000 DO CONSELHO de 28 de Fevereiro de 2000; REGULAMENTO (CE) N. o 351/2002
+      DA COMISSÃO de 25 de Fevereiro de 2002; REGULAMENTO (CE) N. o 2103/2005 DO CONSELHO de 12 de Dezembro de 2005
+    changes:
+    - Altera preambulo
+    - Adita SECÇÃO 1
+    - Adita Definições
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita SECÇÃO 2
+    - Adita Regras e âmbito de aplicação da notificação
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita SECÇÃO 2-A
+    - Adita Qualidade dos dados
+    - Adita Artigo 8.º-A
+    - Adita Artigo 8.º-B
+    - Adita Artigo 8.º-C
+    - Adita Artigo 8.º-D
+    - Adita Artigo 8.º-E
+    - Adita Artigo 8.º-F
+    - Adita SECÇÃO 2-B
+    - Adita Fornecimento de dados pela comissão
+    - Adita Artigo 8.º-G
+    - Adita Artigo 8.º-H
+    - Adita SECÇÃO 2-C
+    - Adita Disposições gerais
+    - Adita Artigo 8.º-I
+    - Adita Artigo 8.º-J
+    - Adita Notas
+    - Suprime SECÇÃO 1 Definições — Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime SECÇÃO 2 Regras e âmbito de aplicação da notificação — Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+  - date: '2009-06-30'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime SECÇÃO 1
+    - Suprime Definições
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime SECÇÃO 2
+    - Suprime Regras e âmbito de aplicação da notificação
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime SECÇÃO 2-A
+    - Suprime Qualidade dos dados
+    - Suprime Artigo 8.º-A
+    - Suprime Artigo 8.º-B
+    - Suprime Artigo 8.º-C
+    - Suprime Artigo 8.º-D
+    - Suprime Artigo 8.º-E
+    - Suprime Artigo 8.º-F
+    - Suprime SECÇÃO 2-B
+    - Suprime Fornecimento de dados pela comissão
+    - Suprime Artigo 8.º-G
+    - Suprime Artigo 8.º-H
+    - Suprime SECÇÃO 2-C
+    - Suprime Disposições gerais
+    - Suprime Artigo 8.º-I
+    - Suprime Artigo 8.º-J
+    - Suprime Notas
 identifiers:
   celex: 31993R3605
   eli: http://data.europa.eu/eli/reg/1993/3605/oj
@@ -48,7 +134,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a78d3c6d-3e41-4117-b284-489af110dd65.0009
   content_url: http://publications.europa.eu/resource/cellar/c14dbcae-9344-4b24-b903-84fd85969f44.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R3605-20090630
-  retrieved_at: '2026-10-22T02:36:14Z'
+  retrieved_at: '2026-10-22T14:42:45Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T03:18:27.368+01:00'
 integrity:
@@ -57,9 +143,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:14Z'
-  notes: Texto consolidado 01993R3605-20090630.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:45Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1993-3605.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -198,16 +284,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:14Z'
+  checked_at: '2026-10-22T14:42:45Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01993R3605-20000101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R3605-20020101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

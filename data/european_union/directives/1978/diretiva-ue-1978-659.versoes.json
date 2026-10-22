@@ -1,0 +1,251 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31978L0659:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01978L0659-20061015",
+ "dre_path": null,
+ "source_lastmod": "2006-10-15",
+ "versions": [
+  {
+   "date": "1978-08-14",
+   "future": false,
+   "celex": "31978L0659",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9d4ed2d6d2b61c5f",
+    "5e3615026aed7d36",
+    "28ab65960aabe312",
+    "5532b495ea4a1c40",
+    "810c2c2754972b31",
+    "d2a518b943ffdfb1",
+    "43382dd10884a60f",
+    "a3d6987ace4f59c7",
+    "83fb366820821c21",
+    "fba5f6dda1da1c26",
+    "f77e62236430773d",
+    "e65ed9a5406a2cc9",
+    "ed30fdd9a27ecac9",
+    "0bf3dee96e136efb",
+    "959fb0412d19f0b1",
+    "84594609c70dfa0e",
+    "3c7e55a9fca2d3e2",
+    "ed4e866ed1afbcfb",
+    "957ddbc5eddbd2ef",
+    "b61009a265dddf0a",
+    "fe6ed8f0870693c1",
+    "b61009a265dddf0a",
+    "fe6ed8f0870693c1"
+   ]
+  },
+  {
+   "date": "2006-10-15",
+   "future": false,
+   "celex": "01978L0659-20061015",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II — INDICAÇÕES PARTICULARES RELATIVAS AO ZINCO TOTAL E AO COBRE SOLÚVEL"
+   ],
+   "fragments": [
+    "728383ddaa828a9f"
+   ]
+  }
+ ],
+ "fragments": {
+  "9d4ed2d6d2b61c5f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 78/659/CEE do Conselho, de 18 de Julho de 1978, relativa à qualidade das águas doces que necessitam de ser protegidas ou melhoradas a fim de estarem aptas para a vida dos peixes** *Jornal Oficial nº L 222 de 14/08/1978 p. 0001 - 0010 Edição especial grega: Capítulo 15 Fascículo 1 p. 0172 Edição especial espanhola: Capítulo 15 Fascículo 2 p. 0111 Edição especial portuguesa: Capítulo 15 Fascículo 2 p. 0111 Edição especial finlandesa: Capítulo 15 Fascículo 2 p. 0093 Edição especial sueca: Capítulo 15 Fascículo 2 p. 0093*\n\nDirectiva do Conselho de 18 de Julho de 1978 relativa à qualidade das águas doces que necessitam de ser protegidas ou melhoradas a fim de estarem aptas para a vida dos peixes\n\n(78/659/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100o e 235o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que a protecção e melhoria do ambiente tornam necessárias medidas concretas destinadas a proteger as águas contra a poluição, incluindo as águas doces aptas para a vida dos peixes;\n\nConsiderando que, do ponto de vista ecológico e económico, é necessário salvaguardar os povoamentos de peixes das várias consequências nefastas resultantes da descarga de substâncias poluentes nas águas, tais como, a diminuição do número de indivíduos de certas espécies e, por vezes mesmo, a extinção de algumas delas;\n\nConsiderando que os programas de acção das Comunidades Europeias em matéria de ambiente de 1973 (3) e 1977 (4), prevêem o estabelecimento em comum de objectivos de qualidade que fixem as diferentes exigências que um meio aquático deve satisfazer, nomeadamente a definição dos parâmetros válidos para a água, incluindo as águas doces aptas para a vida dos peixes;\n\nConsiderando que uma disparidade entre as disposições já aplicáveis ou em preparação nos diferente Estados-membros, relativas à qualidade das águas doces aptas para a vida dos peixes, pode criar condições de concorrência desiguais e ter, por esse facto, uma incidência directa no funcionamento do mercado comum; que é conveniente, pois, proceder, nesse domínio, à aproximação das legislações prevista no artigo 100o do Tratado;\n\nConsiderando que se torna necessário conjugar essa aproximação das legislações com uma acção da Comunidade que vise realizar, por meio de uma regulamentação mais vasta, um dos objectivos da Comunidade no domínio da protecção do ambiente e da melhoria da qualidade de vida; que é conveniente, portanto, prever certas disposições específicas com esse fim; que, não tendo sido previstos no Tratado os poderes de acção específicos necessários para o efeito, convém recorrer ao artigo 235o;\n\nConsiderando que, para atingir os objectivos da directiva, os Estados-membros devem designar as águas às quais se aplica e fixar os valores-limite correspondentes a certos parâmetros; que as águas designadas devem estar em conformidade com esses valores no prazo de cinco anos após essa designação;\n\nConsiderando que é necessário prever que as águas doces aptas para a vida dos peixes devem, em certas condições, estar em conformidade com os valores dos respectivos parâmetros, mesmo se determinada percentagem das amostras colhidas não respeitar os limites especificados no anexo;\n\nConsiderando que, para assegurar o controlo da qualidade das águas doces aptas para a vida dos peixes, deve ser efectuado um número mínimo de colheitas de amostras e realizadas as medições dos parâmetros especificados no anexo; que essas colheitas podem ser reduzidas ou suprimidas em função da qualidade das águas;\n\nConsiderando que certas circunstâncias naturais escapam ao controlo dos Estados-membros e que, por isso, é necessário prever em certos casos a possibilidade de derrogações à presente Directiva;\n\nConsiderando que o progresso técnico e científico pode tornar necessária uma adaptação rápida de certas disposições que figuram no anexo à presente Directiva; que é conveniente, para facilitar a aplicação dessas medidas, prever um processo que estabeleça uma estreita cooperação entre os Estados-membros e a Comissão, no âmbito de um comité para a adaptação ao progresso técnico e científico,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "5e3615026aed7d36": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva refere-se à qualidade das águas doces e aplica-se às águas que os Estados-membros designaram como necessitando de ser protegidas ou melhoradas a fim de estarem aptas para a vida dos peixes.\n\n2. A presente directiva não se aplica às águas das bacias naturais ou artificiais utilizadas para a criação intensiva de peixes.\n\n3. A presente directiva tem por fim proteger ou melhorar a qualidade das águas doces correntes ou estagnadas onde vivem ou poderiam viver, se a poluição fosse reduzida ou eliminada, os peixes pertencendo:\n\n- a espécies indígenas que apresentem uma diversidade natural,\n\n- a espécies cuja presença as autoridades competentes dos Estados-membros julguem conveniente para a gestão das águas;\n\n4. Na acepção da presente directiva, entende-se por:\n\n- águas salmonícolas, as águas onde vivem ou poderiam viver os peixes pertencentes a espécies tais como o salmão (Salmo salar), trutas (Salmo trutta), umbla (Thymallus thymallus) e corégonos (Coregonus).\n\n- águas ciprinícolas, as águas onde vivem ou poderiam viver os peixes pertencentes às ciprinidas (Cyprinidae), ou outras espécies como os lúcios (Esox lucius), percas (Perca fluviatilis) e enguias (Anguilla anguilla)."
+  },
+  "28ab65960aabe312": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Os parâmetros físico-químicos aplicáveis às águas designadas pelos Estados-membros figuram no Anexo I.\n\n2. Para aplicação desses parâmetros, as águas dividem-se em águas salmonícolas e ciprinícolas."
+  },
+  "5532b495ea4a1c40": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os Estados-membros fixarão, para as águas designadas, valores para os parâmetros indicados no Anexo I, na medida em que esses valores constem da coluna G ou da coluna I. Conformam-se-ao às observações que figuram nessas 2 colunas.\n\n2. Os Estados-membros não fixarão valores menos rigorosos do que os que figuram na coluna I do Anexo I e esforçam-se por respeitar os valores que figuram na coluna G, tendo em conta o princípio enunciado no artigo 8o."
+  },
+  "810c2c2754972b31": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Os Estados-membros procedem a uma primeira designação das águas salmonícolas e das águas ciprinícolas no prazo de dois anos a contar da notificação da presente directiva.\n\n2. Os Estados-membros podem efectuar, em seguida, designações suplementares.\n\n3. Os Estados-membros podem proceder à revisão da designação de certas águas, em virtude da existência de factores não previstos à data da designação, tendo em conta o princípio enunciado no artigo 8o."
+  },
+  "d2a518b943ffdfb1": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nOs Estados-membros adoptarão programas com vista a reduzir a poluição e a assegurar que, no prazo de cinco anos a contar da designação efectuada nos termos do artigo 4o, as águas designadas estejam em conformidade com os valores fixados pelos Estados-membros nos termos do artigo 3o e com as observações que figuram nas colunas G e I do Anexo I."
+  },
+  "43382dd10884a60f": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Para a aplicação do artigo 5o, as águas designadas são consideradas em conformidade com a presente directiva se as respectivas amostras, colhidas segundo a frequência mínima prevista no Anexo I, num mesmo local de colheita e durante um período de doze meses, revelarem que elas respeitam os valores fixados pelos Estados-membros de acordo com o artigo 3o e com as observações que figuram nas colunas G e I do Anexo I, no que se refere:\n\n- a 95 % das amostras para os parâmetros seguintes: PH, OBD5, amoníaco não ionisado, amónio total, nitritos, cloro residual total, zinco total e cobre solúvel. Se a frequência de colheitas for inferior a uma colheita por mês, os valores e as observações acima referidos devem ser respeitados para todas as amostras,\n\n- às percentagens especificadas no Anexo I para os parâmetros seguintes: temperatura e oxigénio dissolvidos,\n\n- à concentração média fixada para o parâmetro «matérias em suspensão»,\n\n2. A não-observância dos valores fixados pelos Estados-membros em conformidade com o artigo 3o ou das observações que figuram nas colunas G e I do Anexo I, não é considerada para o cálculo das percentagens previstas no no 1, se for consequência de inundações ou outras catástrofes naturais."
+  },
+  "a3d6987ace4f59c7": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. As autoridades competentes dos Estados-membros efectuam as amostragens com a frequência mínima fixada no Anexo I.\n\n2. A frequência das colheitas pode ser reduzida quando a autoridade competente verificar que a qualidade das águas designadas é sensivelmente superior à que resultaria da aplicação dos valores fixados nos termos do artigo 3o e no das observações que figuram nas colunas G e I do Anexo I. Se não existir qualquer poluição ou perigo de deterioração da qualidade das águas, a autoridade competente pode decidir que não é necessária qualquer colheita.\n\n3. Se se verificar após uma colheita, que um valor fixado por um Estado-membro nos termos do artigo 3o ou uma observação que figura nas colunas G e I do Anexo I não foi respeitado, o Estado-membro determina se essa situação é devida a uma circunstância fortuita, se é consequência de um fenómeno natural ou se é devida a uma poluição, e adopta as medidas adequadas.\n\n4. O lugar exacto de colheita de amostras, a distância deste ao ponto mais próximo de descarga de poluentes, assim como a profundidade a que as amostras devem ser colhidas, são definidos pela autoridade competente de cada Estado-membro em função, nomeadamente, das condições locais do ambiente.\n\n5. São especificados no Anexo I alguns dos métodos padrão de análise a utilizar para o cálculo do valor dos parâmetros em questão. Os laboratórios que utilizarem outros métodos devem certificar-se se os resultados obtidos são equivalentes ou comparáveis aos indicados no Anexo I."
+  },
+  "83fb366820821c21": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nA aplicação das medidas adoptadas em virtude da presente directiva não pode, em caso algum, ter como efeito o aumento directo ou indirecto da poluição das águas doces."
+  },
+  "fba5f6dda1da1c26": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros podem, em qualquer ocasião, fixar, para as águas designadas, valores mais rigorosos do que os previstos na presente directiva. Os Estados-membros podem igualmente adoptar disposições relativas a parâmetros diferentes dos previstos na presente directiva."
+  },
+  "f77e62236430773d": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nNo caso de um dos Estados-membros pretender designar águas doces que atravessam ou constituem fronteira entre Estados-membros, estes devem consultar-se a fim de definir a parte dessas águas à qual a directiva se poderia aplicar, assim como as consequências a tirar dos objectivos de qualidade comuns, que serão determinados, após concertação, por cada um dos Estados em questão. A Comissão pode participar nessas deliberações."
+  },
+  "e65ed9a5406a2cc9": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nOs Estados-membros podem adoptar derrogações à presente directiva:\n\na) Para certos parâmetros marcados (O) no Anexo I, em virtude de circunstâncias meteorológicas excepcionais ou de circunstâncias geográficas especiais;\n\nb) Quando as águas designadas sofrerem um enriquecimento natural de certas substâncias que provoque o não cumprimento dos valores indicados no Anexo I.\n\nEntende-se por enriquecimento natural o processo pelo qual uma determinada massa de água recebe do solo certas substâncias nele contidas, sem intervenção humana."
+  },
+  "ed30fdd9a27ecac9": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nAs modificações necessárias para adaptar ao processo técnico e científico:\n\n- os valores G dos parâmetros\n\ne\n\n- os métodos de análise\n\nque figuram no Anexo I, são fixados segundo o processo previsto no artigo 14o."
+  },
+  "0bf3dee96e136efb": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. Para efeitos do artigo 12o é instituído um Comité para adaptação ao progresso técnico e científico, a seguir denominado «Comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. O Comité adopta o seu regulamento interno."
+  },
+  "959fb0412d19f0b1": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. No caso em que seja feita referência ao procedimento definido no presente artigo, o Comité é convocado pelo seu presidente, quer por sua iniciativa, quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submete ao Comité um projecto de medidas a adoptar. O Comité emite o seu parecer acerca desse projecto num prazo que o presidente fixa em função da urgência do assunto. O Comité pronuncia-se por uma maioria de quarenta e um votos, sendo atribuída aos votos dos Estados-membros a ponderação prevista no no 2 do artigo 148o do Tratado. O presidente não participa na votação.\n\n3. a) A Comissão adopta as medidas propostas, desde que estejam em conformidade com o parecer do Comité;\n\nb) Quando as medidas propostas não estiverem em conformidade com o parecer do Comité, ou na falta de parecer, a Comissão submete imediatamente ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada;\n\nc) Se, decorrido o prazo de 3 meses a contar da apresentação da proposta ao Conselho, este não tiver deliberado, as medidas propostas serão adoptadas pela Comissão."
+  },
+  "84594609c70dfa0e": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nPara efeitos da aplicação da presente directiva, os Estados-membros fornecem à Comissão as informações relativas:\n\n- às águas designadas, nos termos dos nos 1 e 2 do artigo 4o, de uma forma resumida,\n\n- à revisão da designação de certas águas, nos termos do no 3 do artigo 4o,\n\n- às disposições tomadas para serem fixados novos parâmetros, nos termos do artigo 9o,\n\n- à aplicação das derrogações aos valores que figuram na coluna I do anexo I.\n\nDe um modo mais geral, os Estados-membros fornecem à Comissão, mediante pedido fundamentado desta, as informações necessárias à aplicação da presente Directiva."
+  },
+  "3c7e55a9fca2d3e2": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\n1. Os Estados-membros comunicam regularmente à Comissão, e pela primeira vez cinco anos após a designação inicial efectuada nos termos do no no 1 do artigo 4o, um relatório pormenorizado sobre as águas designadas e respectivas características essenciais.\n\n2. A Comissão publica, com o acordo prévio do Estado-membro interessado, as informações obtidas sobre o assunto."
+  },
+  "ed4e866ed1afbcfb": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva no prazo de 2 anos a contar da sua notificação. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente Directiva."
+  },
+  "957ddbc5eddbd2ef": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 18 de Julho de 1978.\n\nPelo Conselho\n\nO Presidente\n\nM. LAHNSTEIN\n\n(1) JO no C 30 de 7. 2. 1977, p. 37.(2) JO no C 77 de 30. 3. 1977, p. 2.(3) JO no C 112 de 20. 12. 1973, p. 3.(4) JO no C 139 de 13. 6. 1977, p. 3."
+  },
+  "b61009a265dddf0a": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nLISTA DOS PARÁMETROS \"\" ID=\"1\">1. Temperatura (C)> ID=\"2\" ASSH=\"4\">1. A temperatura medida a jusante de um punto de descarga térmica (no limite da zona de mistura) não deve ultrapassar a temperatura natural em mais de:> ID=\"6\">Termometria> ID=\"7\">Semanal, a montante e a jusante do ponto de descarga térmica> ID=\"8\">Devem ser evitadas variações de temperatura demasiado bruscas\"> ID=\"3\">1,5 C> ID=\"5\">3 C\"> ID=\"2\" ASSH=\"4\">Podem ser decididas pelos Estados-membros derrogações limitadas geograficamente em condições especiais, se a autoridade competente puder provar que essas derrogações não terão consequências prejudiciais para o desenvolvimento equilibrado dos povoamentos de peixes\"> ID=\"2\" ASSH=\"4\">2. A descarga térmica não deve levar a temperatura na zona situada a jusante do ponto de descarga térmica (no limite da zona de mistura) a ultrapassar os seguintes valores:\"> ID=\"3\">21,5 (0)> ID=\"5\">28 (0)\"> ID=\"3\">10 (0)> ID=\"5\">10 (0)\"> ID=\"2\" ASSH=\"4\">O limite de temperatura de 10 C só se aplica nos períodos de reprodução das espécies que necessitam de água fria para se reproduzirem e unicamente nas águas suspectíveis de conter tais espécies\"> ID=\"2\" ASSH=\"4\">Os limites de temperatura podem todavia ser ultrapassados durante 2 % do tempo\"> ID=\"1\">2. Oxigénio dissolvido (mg/l O2)> ID=\"2\">50 % & ge; 9\n\n100 % & ge; 7> ID=\"3\">50 % & ge; 9\n\nQuando o teor de oxigénio descer abaixo de 6 mg/l, os Estados-membros aplicam o disposto no no 3 do artigo 7o. A autoridade competente deve provar que esta situação não terá consequências prejudiciais para o desenvolvimento equilibrado dos povoamentos de peixes> ID=\"4\">50 % & ge; 8\n\n100 % & ge; 5> ID=\"5\">50 % & ge; 7\n\nQuando o teor de oxigénio descer abaixo de 4 mg/l, os Estados-membros aplicam o disposto no no 3 do artigo 7o. A autoridade competente deve provar que esta situação não terá consequências prejudiciais para o desenvolvimento equilibrado dos povoamentos de peixes> ID=\"6\">Método de Winkler ou eléctrodos específicos (método electroquímico)> ID=\"7\">Mensal, com pelo menos, uma amostra representativa dos baixos teores de oxigenio presentes no diada colheita. Toda via, se houver suspeita de variações diurnas significativas, serão efectuadas, pelo menos, duas colheitas por dia\"> ID=\"1\">3. pH> ID=\"3\">6-9 (0) (1)> ID=\"5\">6-9 (0) (1)> ID=\"6\">Electrometria: avaliação por meio de duas soluções-tampão de pH conhecido vizinhos, e de preferência situados aquém e além do valor do pH a medir> ID=\"7\">Mensal\"> ID=\"1\">4. Materias em suspensão (mg/l)> ID=\"2\">& le; 25 (0)> ID=\"4\">& le; 25 (0)> ID=\"6\">Por filtração através de membrana filtrante 0,45 µm ou por centrifugação (tempo mínimo de 5 minutos, aceleração média de 2 800 a 3 200 g), secagem a 105 C e pesagem> ID=\"8\">Os valores indicados referemse a concentrações e não se aplicam às matérias em suspensão que tenham propriedades químicas nocivas. As inundações são susceptíveis de provocar concentrações muito elevadas\"> ID=\"1\">5. OBD5 (mg/l O2)> ID=\"2\">& le; 3> ID=\"4\">& le; 6> ID=\"6\">Determinação de O2 pelo método de Winkler antes e depois de 5 dias de incubação na obscuridade total, a 20 ± 1 C (sem impedir a nitrificação)\"> ID=\"1\">6. Fósforo total (mg/l P)> ID=\"6\">Espectrofotometria de absorção molecular> ID=\"8\">No que respeita aos lagos cuja profundidade média se situa entre 18 e 300 m, pode aplicar-se a fórmula seguinte:\n\nL & le; 10 (1 + & radic; TW)\n\nonde:\n\nL = carga expressa em mg P por metro quadrado de superfície do lago durante um ano\n\nZ = profundidade média do lago expressa em metros\n\nTW = tempo teórico de renovação da água do lago expresso em anos\n\nNos outros casos, os valores-limite de 0,2 mg/l para as águas salmonícolas e de 0,4 mg/l para as águas ciprinícolas expressos em PO4, podem ser considerados como valores indicativos que permitem reduzir a entrofisação\"> ID=\"1\">7. Nitritos (mg/l NO2)> ID=\"2\">& le; 0,01> ID=\"4\">& le; 0,03> ID=\"6\">Espectrofotometria de absorção molecular\"> ID=\"1\">8. Compostos fenólicos (mg/l C6H5OH)> ID=\"3\">(2)> ID=\"5\">(2)> ID=\"6\">Exame gustativo> ID=\"8\">O exame gustativo só é efectuado se se presumir a presença de compostos fenólicos\"> ID=\"1\">9. Hidrocarbonetos do petróleo> ID=\"3\">(3)> ID=\"5\">(3)> ID=\"6\">Exame visual\n\nExame gustativo> ID=\"7\">Mensal> ID=\"8\">É feito mensalmente um exame visual; o exame gustativo só se efectua se se presumir a presença de hidrocarbonetos\"> ID=\"1\">10. Amoníaco não ionisado (mg/l NH3)> ID=\"2\">& le; 0,005> ID=\"3\">& le; 0,025> ID=\"4\">& le; 0,005> ID=\"5\">& le; 0,025> ID=\"6\">Espectrofotometria de absorção molecular do azul de indofenol ou segundo o método de Nessler associado à determinação do pH e de temperatura> ID=\"7\">Mensual> ID=\"8\">Os valores para o amoníaco não ionisado podem ser ultrapassados desde que se trate de doses de pouca importância que apareçam durante o dia\"> ID=\"2\" ASSH=\"4\">A fim de diminuir o perigo de uma toxicidade devido ao amoníaco não ionisado, de um consumo de oxigénio devido à nitrificação e de uma entrofisação, as concentrações de amónio total não devem ultrapassar os seguintes valores:\"> ID=\"1\">11. Amónio total (mg/l NH4)> ID=\"2\">& le; 0,04> ID=\"3\">& le; 1 (4)> ID=\"4\">& le; 0,2> ID=\"5\">& le; 1 (4)\"> ID=\"1\">12. Cloro residual total (mg/l HOCl)> ID=\"3\">& le; 0,005> ID=\"5\">& le; 0,005> ID=\"6\">Método DPD (dietil-p-fenileno-diamina)> ID=\"7\">Mensual> ID=\"8\">Os valores I correspondem a um pH6. Concentrações superiores de cloro total podem se o pH for superior\"> ID=\"1\">13. Zinco total (mg/l Zn)> ID=\"3\">& le; 0,3> ID=\"5\">& le; 1,0> ID=\"6\">Espectrometria de absorção atómica> ID=\"7\">Mensual> ID=\"8\">Os valores I correspondem a uma dureza da água de 100 mg/l de CaCO3. Para durezas compreendidas entre 10 e 500 mg/l, os valores limites correspondentes podem ser encontrados no Anexo II\"> ID=\"1\">14. Cobre solúvel (mg/l Cu)> ID=\"2\">& le; 0,04> ID=\"4\">& le; 0,04> ID=\"6\">Espectrometria de absorção atómica> ID=\"8\">Os valores G correspodem a uma dureza da água de 100 mg/l de CaCO3. Para durezas compreendidas entre 10 e 300 mg/l, os valores limites correspondentes podem ser encontrados no Anexo II\"\">\n\nObservação geral\n\nSublinha-se que, no que respeita à fixação dos valores dos parâmetros, partiu-se da hipótese que os outros parâmetros, mencionados ou não no presente anexo, são favoráveis. Isto implica, designadamente, que são muito fracas as outras concentrações de substâncias novicas não enumeradas.\n\nSe duas ou mais substâncias novicas estiverem presentes misturadas, podem aparecer efeitos cumulativos importantes (efeitos de adição, de sinergia ou efeitos antagónicos).\n\nAbreviaturas\n\nG = guia.\n\nI = imperativo.\n\n(0) = derrogações possíveis nos termos do artigo 11o.\n\n(1) As variações artificiais do pH em relação aos valores constantes não devem ultrapassar ± 0,5 unidades pH nos limites compreendidos entre 6,0 e 9,0, desde que essas variações não aumentem a nocividade de outras substâncias presentes na água.\n\n(2) Os compostos fenólicos não devem estar presentes em concentrações que alterem o sabor do peixe.\n\n(3) Os produtos de origem petrolífera não devem estar presentes nas águas em quantidades tais:\n\n- que formem um filme visível na superfície da água ou que se depositem em camadas no leito dos cursos de água e dos lagos,\n\n- que dêem aos peixes um sabor perceptível de hidrocarbonetos, que provoquem efeitos nocivos nos peixes.\n\n(4) Os Estados-membros podem fixar valores superiores a 1 mg/l, em condições geográficas ou climatológicas particulares e especialmente em caso de baixas temperaturas da água e de reduzida nitrificação ou quando a autoridade competente puder provar que não há consequências prejudiciais para o desenvolvimento equilibrado dos povoamentos de peixes."
+  },
+  "fe6ed8f0870693c1": {
+   "fragment_id": "ANEXO II — INDICAÇÕES PARTICULARES RELATIVAS AO ZINCO TOTAL E AO COBRE SOLÚVEL",
+   "type": "divisao",
+   "heading": "ANEXO II — INDICAÇÕES PARTICULARES RELATIVAS AO ZINCO TOTAL E AO COBRE SOLÚVEL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — INDICAÇÕES PARTICULARES RELATIVAS AO ZINCO TOTAL E AO COBRE SOLÚVEL\n\nZinco total\n\n(ver Anexo I, no 13, coluna «observações»)\n\nConcentrações de zinco (mg/l Zn) em função de diferentes valores de dureza de água compreendidos entre 10 e 500 mg/l CaCO3:\n\n\"\" ID=\"1\">Águas salmonícolas (mg/l Zn)> ID=\"2\">0,03> ID=\"3\">0,2> ID=\"4\">0,3> ID=\"5\">0,5\"> ID=\"1\">Águas ciprinícolas (mg/l Zn)> ID=\"2\">0,3> ID=\"3\">0,7> ID=\"4\">1,0> ID=\"5\">2,0\">\n\nCobre solúvel\n\n(ver Anexo I, no 14, coluna «observações»)\n\nConcentrações de cobre solúvel (mg/l Cu) em função de diferentes valores de dureza da água compreendidos entre 10 e 300 mg/l CaCO3:\n\n\"\" ID=\"1\">mg/l Cu> ID=\"2\">0,005 (1)> ID=\"3\">0,022> ID=\"4\">0,04> ID=\"5\">0,112\"\">\n\n(1) A presença de peixes em águas contendo mais fortes concentrações de cobre pode indicar a predominância de complexos organo-cúpricos solúveis."
+  },
+  "728383ddaa828a9f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1978L0659 — PT — 15.10.2006 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31978L0659) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31978L0659) [de 18 de Julho de 1978](http://publications.europa.eu/resource/celex/31978L0659) [relativa à qualidade das águas doces que necessitam de ser protegidas ou melhoradas a fim de estarem aptas para a vida dos peixes](http://publications.europa.eu/resource/celex/31978L0659) [(78/659/CEE)](http://publications.europa.eu/resource/celex/31978L0659) (JO L 222, 14.8.1978, p.1)\n\n**revogado por:**\n\n- [Directiva 2006/44/CE do Parlamento Europeu e do Conselho de 6 de Setembro de 2006](http://publications.europa.eu/resource/celex/32006L0044) — L 264 — 20 — 25.9.2006"
+  }
+ }
+}

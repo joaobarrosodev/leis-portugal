@@ -34,6 +34,44 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-06-01'
+version_history:
+  file: regulamento-ue-1993-793.versoes.json
+  count: 2
+  source_lastmod: '2008-06-01'
+  versions:
+  - date: '1993-04-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-06-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o — Objectivos e âmbito de aplicação
+    - Suprime Artigo 2o — Definições
+    - Suprime Artigo 3o — Comunicação de dados relativos às substâncias existentes produzidas ou importadas em grandes quantidades
+    - Suprime Artigo 4o — Comunicação de dados relativos às substâncias existentes produzidas ou importadas em quantidades
+      mais reduzidas
+    - Suprime Artigo 5o — Isenções
+    - Suprime Artigo 6o — Processo de comunicação dos dados
+    - Suprime Artigo 7o — Actualização das informações transmitidas e obrigação de comunicar automaticamente certas informações
+    - Suprime Artigo 8o — Listas prioritárias
+    - Suprime Artigo 9o — Dados a comunicar sobre as substâncias que constam das listas prioritárias
+    - Suprime PARTE 2 AVALIAÇÃO DOS RISCOS — Artigo 10o
+    - Suprime Artigo 11o — Avaliação dos riscos associados às substâncias incluídas nas listas prioritárias a nível comunitário
+    - Suprime Artigo 12o — Obrigações relativas à comunicação de informações complementares e à realização de ensaios complementares
+    - Suprime Artigo 13o — Colaboração entre os Estados-membros e a Comissão
+    - Suprime PARTE 3 GESTAO, CONFIDENCIALIDADE, DISPOSIÇÕES DIVERSAS E FINAIS — Artigo 14o
+    - Suprime Artigo 15o — Comité
+    - Suprime Artigo 16o — Confidencialidade das informações
+    - Suprime Artigo 17o
+    - Suprime Artigo 18o
+    - Suprime ANEXO I
+    - Suprime ANEXO II — LISTA DAS SUBSTÂNCIAS ISENTAS DA APLICAÇÃO DO DISPOSTO NOS ARTIGOS 3o E 4o
+    - Suprime ANEXO III — INFORMAÇÕES REFERIDAS NO ARTIGO 3o 1. Informação genérica
+    - Suprime ANEXO IV — INFORMAÇÕES REQUERIDAS PARA A FICHA DE DADOS REFERIDA NO No1 DO ARTIGO 4o 1. Informação genética
+    - Suprime ANEXO V
 identifiers:
   celex: 31993R0793
   eli: http://data.europa.eu/eli/reg/1993/793/oj
@@ -48,7 +86,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/37bc38b8-f2ff-4005-a9dc-f3dc7b65e63b.0011
   content_url: http://publications.europa.eu/resource/cellar/3dbda3a1-8112-407f-930b-729ba8b5e70a.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R0793-20080601
-  retrieved_at: '2026-10-22T02:44:26Z'
+  retrieved_at: '2026-10-22T14:42:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T23:38:49.484+01:00'
 integrity:
@@ -57,9 +95,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:26Z'
-  notes: Texto consolidado 01993R0793-20080601.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:29Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1993-793.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -142,16 +180,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:26Z'
+  checked_at: '2026-10-22T14:42:29Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01993R0793-19930604: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R0793-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

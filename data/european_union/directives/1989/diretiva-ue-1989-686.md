@@ -34,6 +34,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-1989-686.versoes.json
+  count: 1
+  source_lastmod: '2013-01-01'
+  versions:
+  - date: '1989-12-30'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31989L0686
   eli: http://data.europa.eu/eli/dir/1989/686/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/104c5d00-6c1b-44b0-b2b6-4f41284f4b99.0011
   content_url: http://publications.europa.eu/resource/cellar/104c5d00-6c1b-44b0-b2b6-4f41284f4b99.0011.01/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:38:30Z'
+  retrieved_at: '2026-10-22T14:36:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T08:15:38.410+01:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:30Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:36:16Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-1989-686.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -186,17 +195,17 @@ relationships:
 article_structure:
   article_count: 18
   section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:30Z'
+  checked_at: '2026-10-22T14:36:16Z'
   warnings:
-  - 'Versão consolidada 01989L0686-20130101 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
-  - Não foi detetado o título principal no XHTML.
+  - '01989L0686-19961008: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01989L0686-20031120: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01989L0686-20130101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

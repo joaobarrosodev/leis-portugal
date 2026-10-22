@@ -1,0 +1,369 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000R2729:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R2729-20080801",
+ "dre_path": null,
+ "source_lastmod": "2008-08-01",
+ "versions": [
+  {
+   "date": "2000-12-15",
+   "future": false,
+   "celex": "32000R2729",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f7d904f642a3c478",
+    "484519ea5b61c366",
+    "90daadb1e1c39e8d",
+    "8650943f340564ab",
+    "4f8f5886377f242e",
+    "50c746ba2c7ad18c",
+    "327cf8afae4bcbc3",
+    "ffec3d11b38d0c50",
+    "3452b8e265e8a882",
+    "4c9c06576a23119f",
+    "5793a5e1c3c08734",
+    "839b8bf89c58ac2d",
+    "7d37b65eaee0ee52",
+    "56c6c326d976eced",
+    "a5d5814ebb444639",
+    "0898e5636aa7f062",
+    "b744ba11f3441c05",
+    "19438e18979b4f94",
+    "2e540b0a9e40466f",
+    "6f81457ac3089846",
+    "f9292278027c9c36",
+    "bd2e4e0f83e40c87",
+    "54f268021af6a72c",
+    "2537a9fdc32c07d1",
+    "2d41d0cc1d16312b",
+    "5fcda0ac70de020d",
+    "6f022b67f87726b1",
+    "a5c04401e290cb81",
+    "b88177c9e406ad5c",
+    "7824ab9f97d21573",
+    "52e728ab12c6fdf8",
+    "3336a549c0a5d365",
+    "7abd48e0677abec5"
+   ]
+  },
+  {
+   "date": "2008-08-01",
+   "future": false,
+   "celex": "02000R2729-20080801",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Controlos e sanções",
+    "Suprime TÍTULO I — CONTROLOS A EFECTUAR PELOS ESTADOS-MEMBROS",
+    "Suprime Artigo 2.º — Princípios",
+    "Suprime Artigo 3.º — Instâncias de controlo",
+    "Suprime Artigo 4.º — Poderes dos agentes de controlo",
+    "Suprime Artigo 5.º — Potencial vitícola",
+    "Suprime TÍTULO II — ESTRUTURA COMUNITÁRIA DE CONTROLO",
+    "Suprime Artigo 6.º — Corpo de agentes específicos da Comissão,",
+    "Suprime TÍTULO III — ASSISTÊNCIA ENTRE AS INSTÂNCIAS DE CONTROLO",
+    "Suprime Artigo 7.º — Assistência a pedido",
+    "Suprime Artigo 8.º — Assistência espontânea",
+    "Suprime Artigo 9.º — Disposições comuns",
+    "Suprime TÍTULO IV — BANCO DE DADOS ANALÍTICOS",
+    "Suprime Artigo 10.º — Finalidades do banco de dados",
+    "Suprime Artigo 11.º — Amostras",
+    "Suprime Artigo 12.º — Análises isotópicas",
+    "Suprime Artigo 13.º — Comunicação dos resultados",
+    "Suprime Artigo 14.º — Respeito dos procedimentos",
+    "Suprime TÍTULO V — COLHEITA DE AMOSTRAS PARA EFEITOS DE CONTROLO",
+    "Suprime Artigo 15.º — Pedido de colheita de amostras",
+    "Suprime Artigo 16.º — Despesas relativas à colheita, envio e análise das amostras",
+    "Suprime TÍTULO VI — DISPOSIÇÕES GERAIS E FINAIS",
+    "Suprime Artigo 17.º — Força probatória",
+    "Suprime Artigo 18.º — Sanções",
+    "Suprime Artigo 19.º — Destinatários dos controlos",
+    "Suprime Artigo 20.º — Revogações",
+    "Suprime Artigo 21.º",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II — >PIC FILE= \"L_2000316PT.002402.EPS\">",
+    "Suprime ANEXO III — >PIC FILE= \"L_2000316PT.002602.EPS\">",
+    "Suprime ANEXO IV — Colheita de amostras no âmbito da assistência entre instâncias de controlo",
+    "Suprime ANEXO V — >PIC FILE= \"L_2000316PT.002902.EPS\">"
+   ],
+   "fragments": [
+    "d9e54a23531756b6"
+   ]
+  }
+ ],
+ "fragments": {
+  "f7d904f642a3c478": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.o 2729/2000 da Comissão, de 14 de Dezembro de 2000, que estabelece normas de execução relativas aos controlos no sector vitivinícola** *Jornal Oficial nº L 316 de 15/12/2000 p. 0016 - 0029*\n\nRegulamento (CE) n.o 2729/2000 da Comissão\n\nde 14 de Dezembro de 2000\n\nque estabelece normas de execução relativas aos controlos no sector vitivinícola\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.o 1493/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum do mercado vitivinícola(1), e, nomeadamente, o n.o 4 do seu artigo 72.o, alterado pelo Regulamento (CE) n.o 1622/2000 da Comissão(2),\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.o 1493/1999, que substituiu o Regulamento (CEE) n.o 822/87 do Conselho(3), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1677/1999(4), e cuja aplicação teve início em 1 de Agosto de 2000, contém, no seu artigo 72.o, disposições relativas aos controlos no sector vitivinícola. É necessário completar com normas de execução o enquadramento então delineado e revogar os regulamentos que tratavam dessa matéria, isto é, os Regulamentos (CEE) n.o 2347/91 da Comissão, de 29 de Julho de 1991, relativo à colheita de amostras de produtos do sector vitivinícola, destinadas a ser examinadas no âmbito da colaboração das entidades competentes dos diferentes Estados-Membros ou a ser analisadas pelos métodos isotópicos(5), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1754/97(6), e (CEE) n.o 2348/91 da Comissão, de 29 de Julho de 1991, que cria um banco de dados dos resultados das análises isotópicas dos produtos do sector vitivinícola(7), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1932/97(8).\n\n(2) O Regulamento (CE) n.o 1608/2000 da Comissão, de 24 de Julho de 2000, que, na pendência das medidas definitivas de execução do Regulamento (CE) n.o 1493/1999 que estabelece a organização comum do mercado vitivinícola, fixa medidas transitórias(9), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2631/2000(10), prevê que o Regulamento (CEE) n.o 2048/89 do Conselho, de 19 de Junho de 1989, que estabelece regras gerais relativas aos controlos no sector vitivinícola(11) se mantenha aplicável até 30 de Novembro de 2000. As novas normas de execução na matéria devem, portanto, entrar em vigor em 1 de Dezembro de 2000.\n\n(3) Tendo em vista a aplicação uniforme das disposições do sector vitivinícola, é necessário estabelecer regras que, por um lado, precisem os procedimentos de controlo já em vigor a nível nacional e comunitário e, por outro, garantam a colaboração directa entre as instâncias incumbidas dos controlos no sector.\n\n(4) É, além disso, necessário estabelecer regras específicas para a constituição e funcionamento da estrutura comunitária incumbida, ao nível da Comissão, de assegurar a aplicação uniforme das disposições comunitárias, composta por um corpo de agentes de controlo vitivinícola.\n\n(5) Torna-se necessário estabelecer regras que prevejam a assistência recíproca das instâncias nacionais e da Comissão, para garantir a correcta aplicação da regulamentação vitivinícola. Essas regras não constituem obstáculo à aplicação das disposições específicas em matéria de despesas comunitárias ou de desqualificação dos vinhos de qualidade produzidos em regiões determinadas (vqprd) ou em matéria penal ou de sanções administrativas nacionais. Os Estados-Membros devem zelar por que a aplicação das disposições específicas nestas duas últimas matérias não comprometa o objectivo do presente regulamento, nem a eficácia dos controlos previstos.\n\n(6) Importa que cada Estado-Membro garanta a eficácia de acção das instâncias incumbidas dos controlos vitivinícolas. Cada Estado-Membro designará, para o efeito, a instância que estabelecerá os contactos com os outros Estados-Membros e com a Comissão. Nos Estados-Membros em que os controlos vitivinícolas estejam cometidos a várias instâncias competentes, é, além disso, indispensável que as acções de controlo sejam coordenadas entre essas instâncias.\n\n(7) Como contributo para a aplicação uniforme da regulamentação em toda a Comunidade, compete, designadamente, aos Estados-Membros tomar as medidas necessárias para que o pessoal das instâncias competentes disponha do mínimo de poderes de investigação indispensável para assegurar o cumprimento da regulamentação.\n\n(8) É igualmente necessário estabelecer regras relativas à constituição e funcionamento do corpo de agentes específicos da Comissão para os controlos vitivinícolas.\n\n(9) Quando os agentes específicos da Comissão se defrontarem com dificuldades repetidas e injustificadas no exercício das suas funções, a Comissão deve poder solicitar ao Estado em causa, além de explicações, meios que permitam levar a bom termo a sua acção. O Estado-Membro em questão deve cumprir as obrigações que lhe incumbam em virtude do presente regulamento de modo a facilitar a esses agentes a realização das tarefas respectivas.\n\n(10) Há que estabelecer disposições específicas no respeitante aos controlos a efectuar em relação ao potencial vitícola. É, designadamente, necessário que as acções que beneficiem de apoios financeiros da Comunidade sejam objecto de verificações sistemáticas no local.\n\n(11) O desenvolvimento do comércio entre os Estados-Membros, designadamente a progressão constante do número de sociedades multinacionais neste ramo de actividade, e a possibilidade prevista pelas regras de gestão de mandar executar ou de transferir operações, subsidiadas ou não, num local ou para um local diferente do de proveniência do produto, reflectem a interdependência dos mercados vitícolas. Esta situação torna necessária uma maior harmonização dos métodos de controlo e uma colaboração mais estreita entre as várias instâncias incumbidas dos controlos.\n\n(12) Para tornar eficaz a colaboração dos Estados-Membros na aplicação das disposições do sector vitivinícola, importa que a instância competente de um Estado-Membro possa colaborar, a pedido, com a instância ou instâncias competentes de outro Estado-Membro. É, pois, necessário estabelecer as regras dessa colaboração e assistência.\n\n(13) Dado o carácter complexo de certos casos e a urgência da resolução dos mesmos, afigura-se indispensável que uma instância competente que tenha apresentado um pedido de assistência possa, mediante acordo da instância competente objecto do pedido, fazer comparecer ao desenrolar das investigações os agentes habilitados que designe.\n\n(14) Em caso de risco grave de fraude ou de fraude que afecte um ou mais Estados-Membros, as instâncias em causa devem desencadear oficiosamente um procedimento dito de assistência espontânea.\n\n(15) Dada a natureza das informações trocadas em aplicação do presente regulamento, importa que o carácter confidencial das mesmas seja coberto pelo segredo profissional.\n\n(16) O Regulamento (CEE) n.o 2348/91 criou um banco de dados analíticos no Centro Comum de Investigação (CCI), destinado a receber amostras e boletins de análise dos Estados-Membros e a contribuir para a harmonização dos controlos analíticos no conjunto da Comunidade. As disposições que regem essa estrutura devem ser retomadas, ponderada a experiência adquirida desde a sua instituição.\n\n(17) A aplicação dos métodos de análise de referência isotópicos é susceptível de garantir um melhor controlo do enriquecimento dos produtos vinícolas ou a detecção da adição de água a esses produtos, podendo ainda contribuir, em concomitância com os resultados da análise de outras características isotópicas dos mesmos, para a verificação da conformidade com a origem indicada na designação dos produtos em causa. Para uma mais fácil interpretação dos resultados obtidos por esses métodos de análise, importa poder comparar tais resultados com os resultados obtidos anteriormente por aplicação dos mesmos métodos na análise de produtos de características similares cuja origem e elaboração sejam autenticadas.\n\n(18) A análise isotópica dos vinhos e dos produtos derivados do vinho é efectuada pelos métodos de análise de referência previstos no Regulamento (CEE) n.o 2676/90 da Comissão, de 17 de Setembro de 1990, que determina os métodos de análise comunitários aplicáveis no sector do vinho(12), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 761/1999(13).\n\n(19) Para facilitar a interpretação dos resultados obtidos nessas análises, efectuadas nos laboratórios da Comunidade equipados para o fazerem, e para assegurar a comparabilidade dos resultados analíticos obtidos por esses laboratórios, é necessário estabelecer regras uniformes para a colheita das amostras de uvas e para a vinificação e conservação das mesmas.\n\n(20) Para garantir a qualidade e a comparabilidade dos dados analíticos, torna-se necessário aplicar um sistema de normas de qualidade reconhecidas aos laboratórios incumbidos pelos Estados-Membros da análise isotópica das amostras para o banco de dados.\n\n(21) A análise isotópica de produtos vitivinícolas e a sua interpretação são processos delicados, pelo que, para possibilitar uma interpretação harmonizada dos resultados analíticos, deve estabelecer-se que o banco de dados do CCI seja acessível aos laboratórios oficiais que praticam esse método de análise e, mediante pedido nesse sentido, a outras instâncias oficiais dos Estados-Membros, no respeito dos princípios da protecção dos dados privados.\n\n(22) O Regulamento (CEE) n.o 2347/91 contém regras relativas à colheita das amostras destinadas a ser enviadas a um laboratório oficial de outro Estado-Membro e regras comuns para a colheita de amostras a analisar por métodos isotópicos, pelo que é conveniente retomar tais procedimentos e considerar a colheita de amostras para o banco de dados comunitário como caso particular da colheita de amostras de um produto vitivinícola no quadro da colaboração directa das instâncias.\n\n(23) Para garantir objectividade nos controlos, torna-se necessário que os agentes específicos da Comissão ou os agentes pertencentes a uma instância competente de um Estado-Membro possam pedir a uma instância competente de outro Estado-Membro que proceda a uma colheita de amostras. O agente requerente deve poder dispor das amostras colhidas e definir, nomeadamente, o laboratório em que serão examinadas.\n\n(24) Devem ser estabelecidas normas relativas à colheita oficial de amostras no âmbito da colaboração das instâncias competentes dos Estados-Membros e à utilização de tais amostras que garantam a representatividade das mesmas e possibilitem a verificação dos resultados das análises oficiais em toda a Comunidade.\n\n(25) Para simplificar, em termos administrativos, a liquidação das despesas relativas à colheita e expedição das amostras, aos exames analíticos e organolépticos e à contratação de peritos, deve ser estabelecido o princípio de que essas despesas sejam tomadas a cargo pela instância que ordenou a colheita da amostra ou a contratação do perito.\n\n(26) Importa precisar a força probatória das verificações efectuadas durante os controlos realizados no âmbito do presente regulamento.\n\n(27) Sem prejuízo de disposições específicas da legislação comunitária, compete aos Estados-Membros estabelecer as sanções aplicáveis às violações das disposições do sector vitivinícola. As sanções aplicadas devem ser efectivas, proporcionadas e dissuasivas e não devem tornar a aplicação do direito comunitário mais difícil, comparativamente às infracções previstas no direito nacional.\n\n(28) Para que os controlos e a colheita de amostras de uvas nas vinhas possa decorrer com normalidade, deve ser estabelecido que as pessoas em causa não devem colocar obstáculos aos controlos que lhes digam respeito e devem facilitar as colheitas e fornecer as informações solicitadas em aplicação do presente regulamento.\n\n(29) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão dos Vinhos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "484519ea5b61c366": {
+   "fragment_id": "Artigo 1.º — Controlos e sanções",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Controlos e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Controlos e sanções\n\n1. O presente regulamento estabelece as normas específicas dos controlos e sanções no sector vitivinícola.\n\n2. O presente regulamento não prejudica a aplicação:\n\n- das disposições específicas que regem as relações entre Estados-Membros no domínio da luta contra a fraude vitivinícola, na medida em que forem de molde a facilitar a aplicação do mesmo,\n\n- das regras relativas:\n\n- ao processo penal e à cooperação judiciária entre Estados-Membros em matéria penal,\n\n- ao processo relativo às sanções administrativas."
+  },
+  "90daadb1e1c39e8d": {
+   "fragment_id": "TÍTULO I — CONTROLOS A EFECTUAR PELOS ESTADOS-MEMBROS",
+   "type": "divisao",
+   "heading": "TÍTULO I — CONTROLOS A EFECTUAR PELOS ESTADOS-MEMBROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — CONTROLOS A EFECTUAR PELOS ESTADOS-MEMBROS"
+  },
+  "8650943f340564ab": {
+   "fragment_id": "Artigo 2.º — Princípios",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípios\n\n1. Os Estados-Membros tomarão as medidas necessárias para garantir o controlo do cumprimento da regulamentação vitivinícola comunitária e nacional de execução.\n\n2. Os Estados-Membros efectuarão controlos administrativos e controlos no local de modo a ser eficazmente verificado o respeito das condições necessárias.\n\n3. Em função da natureza desse apoio, os Estados-Membros definirão os métodos e meios a utilizar no seu controlo, bem como as pessoas a controlar.\n\n4. Os controlos serão executados quer sistematicamente, quer por amostragem. No caso dos controlos por amostragem, os Estados-Membros certificar-se-ão, pelo número, natureza e frequência dos controlos, de que estes são representativos do conjunto do seu território e correspondentes à importância do volume dos produtos vitivinícolas comercializados ou destinados à comercialização."
+  },
+  "4f8f5886377f242e": {
+   "fragment_id": "Artigo 3.º — Instâncias de controlo",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Instâncias de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Instâncias de controlo\n\n1. Quando um Estado-Membro designar várias instâncias competentes para o controlo do cumprimento da regulamentação vitivinícola, assegurará a coordenação das acções entre essas instâncias.\n\n2. Cada Estado-Membro designará uma única instância de contacto para assegurar a ligação com as instâncias de contacto dos outros Estados-Membros e com a Comissão. Essa instância ficará, nomeadamente, incumbida da transmissão e recepção dos pedidos de colaboração com vista à aplicação do presente título e representará o Estado-Membro de que depende perante os demais Estados-Membros ou a Comissão.\n\n3. A Comissão assegurará uma difusão apropriada e regular das informações que lhe forem comunicadas pelos Estados-Membros em aplicação do n.o 2 do artigo 72.o do Regulamento (CE) n.o 1493/1999."
+  },
+  "50c746ba2c7ad18c": {
+   "fragment_id": "Artigo 4.º — Poderes dos agentes de controlo",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Poderes dos agentes de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Poderes dos agentes de controlo\n\nCada Estado-Membro tomará todas as medidas necessárias para facilitar a realização das tarefas dos agentes das suas instâncias competentes e velará, nomeadamente, por que esses agentes, eventualmente com a colaboração de agentes dos seus serviços que habilitará para esse fim:\n\n- tenham acesso às vinhas, às instalações de vinificação, de armazenagem e de transformação dos produtos vitivinícolas e aos meios de transporte desses produtos,\n\n- tenham acesso aos locais comerciais ou entrepostos e aos meios de transporte de quem detenha para venda, comercialize ou transporte produtos vitivinícolas ou produtos que se possam destinar a utilização no sector vitivinícola,\n\n- possam proceder ao recenseamento dos produtos vitivinícolas e das substâncias ou produtos que possam destinar-se à sua elaboração,\n\n- possam recolher amostras dos produtos vitivinícolas, das substâncias e produtos susceptíveis de serem destinados à elaboração daqueles e dos produtos detidos com vista à venda, comercializados ou transportados,\n\n- possam tomar conhecimento de dados contabilísticos ou de outros documentos úteis aos controlos e deles possam fazer cópias ou extractos,\n\n- possam tomar medidas cautelares apropriadas, no referente à elaboração, detenção, transporte, designação, apresentação e comercialização de produtos vitivinícolas ou de produtos destinados a ser utilizados na elaboração de tais produtos, se houver suspeitas fundamentadas de infracção grave às disposições comunitárias, nomeadamente em caso de práticas fraudulentas ou risco para a saúde."
+  },
+  "327cf8afae4bcbc3": {
+   "fragment_id": "Artigo 5.º — Potencial vitícola",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Potencial vitícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Potencial vitícola\n\n1. Tendo em vista o respeito das disposições relativas ao potencial de produção referidas no título II do Regulamento (CE) n.o 1493/1999, os Estados-Membros utilizarão, consoante o caso, o cadastro vitícola ou a base gráfica de referência, em conformidade com o Regulamento (CEE) n.o 2392/86 do Conselho(14).\n\nO abandono definitivo e as reestruturações e reconversões que beneficiem de uma participação comunitária serão objecto de verificações sistemáticas no local. Essas verificações incidirão sobre as parcelas objecto de pedidos de apoio.\n\n2. O controlo do respeito da proibição de novas plantações enunciada no n.o 1 do artigo 2.o do Regulamento (CE) n.o 1493/1999 será efectuado com o auxílio da base gráfica de referência estabelecida em conformidade com o n.o 4 do artigo 4.o do Regulamento (CEE) n.o 2392/86.\n\nOs Estados-Membros que não disponham de base gráfica de referência comunicarão à Comissão, antes de 1 de Janeiro de 2001, as medidas postas em prática a fim de assegurar o respeito da proibição de novas plantações."
+  },
+  "ffec3d11b38d0c50": {
+   "fragment_id": "TÍTULO II — ESTRUTURA COMUNITÁRIA DE CONTROLO",
+   "type": "divisao",
+   "heading": "TÍTULO II — ESTRUTURA COMUNITÁRIA DE CONTROLO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — ESTRUTURA COMUNITÁRIA DE CONTROLO"
+  },
+  "3452b8e265e8a882": {
+   "fragment_id": "Artigo 6.º — Corpo de agentes específicos da Comissão,",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Corpo de agentes específicos da Comissão,",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Corpo de agentes específicos da Comissão,\n\n1. Os agentes específicos da Comissão previstos no n.o 3 do artigo 72.o do Regulamento (CE) n.o 1493/1999 podem colaborar nos controlos previstos pelas instâncias competentes dos Estados-Membros.\n\nOs controlos serão efectuados em conformidade com o n.o 2 do artigo 9.o do Regulamento (CE) n.o 1258/1999 do Conselho(15).\n\nA Comissão poderá solicitar aos Estados-Membros:\n\n- informações sobre os controlos que tencionam efectuar,\n\n- que efectuem controlos em que possam colaborar os seus agentes específicos.\n\nOs agentes dos Estados-Membros são responsáveis em qualquer momento pelas operações de controlo referidas no primeiro e segundo parágrafos.\n\n2. No cumprimento das suas funções, os agentes específicos da Comissão gozam dos direitos e poderes referidos no primeiro, segundo, terceiro e quinto travessões do artigo 4.o, sem prejuízo das limitações impostas pelos Estados-Membros aos seus próprios agentes no exercício dos controlos em questão.\n\nOs agentes específicos da Comissão adoptarão, durante os controlos, uma atitude compatível com as regras e usos profissionais que se impõem no Estado-Membro em causa, ficando obrigados ao sigilo profissional.\n\n3. Após cada acção de controlo, a Comissão transmitirá à instância de contacto do Estado-Membro em questão uma comunicação sobre os resultados das actividades exercidas pelos seus agentes específicos; essa comunicação registará os obstáculos e as infracções às normas em vigor eventualmente encontrados."
+  },
+  "4c9c06576a23119f": {
+   "fragment_id": "TÍTULO III — ASSISTÊNCIA ENTRE AS INSTÂNCIAS DE CONTROLO",
+   "type": "divisao",
+   "heading": "TÍTULO III — ASSISTÊNCIA ENTRE AS INSTÂNCIAS DE CONTROLO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — ASSISTÊNCIA ENTRE AS INSTÂNCIAS DE CONTROLO"
+  },
+  "5793a5e1c3c08734": {
+   "fragment_id": "Artigo 7.º — Assistência a pedido",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Assistência a pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Assistência a pedido\n\n1. Sempre que uma instância competente de um Estado-Membro empreenda, no seu território, acções de controlo, pode requerer informações junto da Comissão ou da instância competente de outro Estado-Membro a que a comercialização possa dizer respeito.\n\nA Comissão será informada sempre que o produto sujeito às acções de controlo referidas no primeiro parágrafo seja originário de um país terceiro e a comercialização desse produto possa apresentar um interesse específico para outros Estados-Membros.\n\nA instância requerida comunicará todas as informações de forma a permitir à instância requerente desempenhar a sua missão.\n\n2. Mediante pedido fundamentado da instância requerente, a instância requerida exercerá ou tomará as medidas necessárias para que se exerça uma vigilância especial ou um controlo que permitam alcançar os objectivos perseguidos.\n\n3. A instância requerida procederá como se agisse por sua própria iniciativa.\n\n4. Com o acordo da instância requerida, a instância requerente poderá designar agentes:\n\n- quer para recolher, junto das autoridades administrativas do Estado-Membro em que a instância requerida está estabelecida, informações relativas à aplicação da regulamentação vitivinícola ou a acções de controlo, incluindo fazer cópias dos documentos de transporte e de outros documentos, ou fazer extractos de registos,\n\n- quer para assistir às acções requeridas por força do n.o 2, após ter notificado a instância requerida desse facto com a devida antecedência relativamente ao início das mesmas.\n\nAs cópias referidas no primeiro travessão só podem ser feitas de acordo com a instância requerida.\n\nOs agentes da instância requerida são responsáveis em qualquer momento pelas operações de controlo.\n\nOs agentes da instância requerente:\n\n- apresentarão um mandato escrito que defina a sua identidade e a sua qualidade,\n\n- gozam, sem prejuízo das limitações impostas pelo Estado-Membro de que depende a instância requerida aos seus próprios agentes no exercício dos controlos em questão:\n\n- dos direitos de acesso previstos nos primeiro e segundo travessões do artigo 4.o,\n\n- de um direito de informação sobre os resultados dos controlos efectuados pelos agentes da instância requerida ao abrigo dos terceiro e quinto travessões do artigo 4.o,\n\n- adoptarão, durante os controlos, uma atitude compatível com as regras e usos profissionais que se impõem no Estado-Membro em causa, ficando obrigados ao sigilo profissional.\n\n5. Os pedidos referidos no presente artigo serão transmitidos à instância requerida do Estado-Membro em questão através da instância de contacto desse Estado-Membro. O mesmo se verificará em relação:\n\n- às respostas aos referidos pedidos,\n\n- às comunicações relativas à aplicação dos n.os 2 e 4.\n\nEm derrogação do disposto no primeiro parágrafo, e com vista a tornar a colaboração entre os Estados-Membros mais eficaz e rápida, os Estados-Membros poderão permitir que uma instância competente possa:\n\n- dirigir directamente os seus pedidos ou comunicações a uma instância competente de outro Estado-Membro,\n\n- responder directamente aos pedidos ou comunicações que lhe forem dirigidos por uma instância competente de outro Estado-Membro."
+  },
+  "839b8bf89c58ac2d": {
+   "fragment_id": "Artigo 8.º — Assistência espontânea",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Assistência espontânea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Assistência espontânea\n\nQuando uma instância competente de um Estado-Membro tiver uma suspeita fundamentada ou tomar conhecimento:\n\n- de que o produto referido no n.o 2 do artigo 1.o do Regulamento (CE) n.o 1493/1999 não é conforme à regulamentação vitivinícola ou é objecto de acções fraudulentas para a sua obtenção ou comercialização, e\n\n- de que essa não conformidade se reveste de interesse específico para um ou vários outros Estados-Membros e pode vir a dar origem a medidas administrativas ou a procedimentos judiciais,\n\na referida instância competente informará sem demora desse facto a instância de contacto do Estado-Membro em questão e a Comissão, através da instância de contacto de que depende."
+  },
+  "7d37b65eaee0ee52": {
+   "fragment_id": "Artigo 9.º — Disposições comuns",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições comuns\n\n1. As informações referidas no n.o 1 do artigo 7.o e no artigo 8.o serão acompanhadas e completadas, logo que possível, pelos documentos ou outros elementos de prova úteis, bem como pela indicação das eventuais medidas administrativas ou procedimentos judiciais, e indicarão, nomeadamente:\n\n- a composição e as características organolépticas do produto em questão,\n\n- a designação e a apresentação do mesmo,\n\n- o cumprimento das regras impostas para a elaboração e a comercialização do produto em causa.\n\n2. As instâncias de contacto implicadas na situação que motivou o processo de assistência informar-se-ão reciprocamente e sem demora sobre:\n\n- o desenrolar das investigações,\n\n- os procedimentos administrativos ou contenciosos reservados às operações em causa.\n\n3. As despesas de deslocação ocasionadas pela aplicação dos n.os 2 e 4 do artigo 7.o ficam a cargo:\n\n- do Estado-Membro que tiver designado um agente para as medidas referidas nas citadas disposições, ou\n\n- do orçamento comunitário, a pedido da instância de contacto desse Estado-Membro, se a Comissão tiver reconhecido formalmente, antes da sua realização, o interesse comunitário da referida acção de controlo."
+  },
+  "56c6c326d976eced": {
+   "fragment_id": "TÍTULO IV — BANCO DE DADOS ANALÍTICOS",
+   "type": "divisao",
+   "heading": "TÍTULO IV — BANCO DE DADOS ANALÍTICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — BANCO DE DADOS ANALÍTICOS"
+  },
+  "a5d5814ebb444639": {
+   "fragment_id": "Artigo 10.º — Finalidades do banco de dados",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Finalidades do banco de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Finalidades do banco de dados\n\n1. O Centro Comum de Investigação (CCI) gere um banco de dados analíticos dos produtos do sector vitivinícola.\n\n2. Este banco de dados comporta os dados obtidos através da análise isotópica dos componentes do etanol e da água dos produtos vitícolas de acordo com os métodos de análise de referência previstos no Regulamento (CEE) n.o 2676/90.\n\n3. O banco de dados contribui para a harmonização da interpretação dos resultados obtidos pelos laboratórios oficiais dos Estados-Membros através da aplicação dos métodos de análise de referência previstos no Regulamento (CEE) n.o 2676/90."
+  },
+  "0898e5636aa7f062": {
+   "fragment_id": "Artigo 11.º — Amostras",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Amostras\n\n1. Para efeitos do banco de dados, as amostras de uvas frescas a analisar serão colhidas, tratadas e transformadas em vinho em conformidade com as instruções constantes do anexo I.\n\n2. As amostras de uvas frescas serão colhidas em vinhas localizadas numa área de produção bem caracterizada no que se refere ao solo, à situação, ao modo de condução, à casta, à idade e às práticas culturais aplicadas.\n\nO número de amostras a colher anualmente para o banco de dados é de, pelo menos:\n\n- 400 amostras em França,\n\n- 400 amostras em Itália,\n\n- 200 amostras na Alemanha,\n\n- 200 amostras em Espanha,\n\n- 50 amostras em Portugal,\n\n- 50 amostras na Grécia,\n\n- 50 amostras na Áustria,\n\n- 4 amostras no Luxemburgo,\n\n- 4 amostras no Reino Unido.\n\nA repartição das amostras a colher deve ter em conta a situação geográfica das vinhas dos Estados-Membros citados.\n\nAnualmente, pelo menos 25 % das amostras serão colhidas em parcelas onde tenham sido colhidas as amostras nos anos anteriores.\n\n3. As amostras serão analisadas pelos métodos descritos no anexo do Regulamento (CEE) n.o 2676/90 pelos laboratórios designados pelos Estados-Membros. Os laboratórios designados devem satisfazer os critérios gerais de funcionamento dos laboratórios de ensaios enunciados na norma europeia NE 45001 ou na norma ISO/IEC 17025, nomeadamente a participação num regime de ensaios de aptidão respeitante aos métodos de análise isotópica.\n\n4. Será elaborado um boletim de análise em conformidade com o anexo III. Para cada amostra será estabelecida uma ficha sinalética em conformidade com o anexo II.\n\n5. Serão enviadas ao CCI uma cópia do boletim de análise, com os resultados e a interpretação das análises, e uma cópia da ficha sinalética.\n\n6. Os Estados-Membros e o CCI assegurarão:\n\n- a conservação dos dados que constem do banco de dados analíticos,\n\n- a conservação de, pelo menos, uma amostra de controlo de cada uma das amostras que tenham sido enviadas ao CCI para análise durante um período de, pelo menos, três anos após a data da colheita,\n\n- que o banco de dados apenas será utilizado para fiscalizar a aplicação da regulamentação vitivinícola comunitária e nacional ou para fins estatísticos ou científicos,\n\n- a aplicação de medidas que garantam a protecção dos dados, em especial contra roubos e manipulações,\n\n- o acesso dos interessados, sem prazos ou encargos excessivos, aos processos que lhes digam respeito, para, se for caso disso, rectificação dos dados quando estes forem inexactos."
+  },
+  "b744ba11f3441c05": {
+   "fragment_id": "Artigo 12.º — Análises isotópicas",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Análises isotópicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Análises isotópicas\n\n1. Os Estados-Membros produtores de vinho que não estejam equipados para efectuar análises isotópicas enviarão as suas amostras de vinho ao CCI para que aí seja realizada a análise. Nesse caso, poderão designar uma instância competente habilitada a dispor das informações relativas às amostras colhidas nos territórios respectivos.\n\n2. Os Estados-Membros que realizem eles próprios as análises isotópicas dos produtos vitivinícolas enviarão, para uma análise de verificação, pelo menos 10 % das amostras ao CCI ou a qualquer outro laboratório designado pelo CCI."
+  },
+  "19438e18979b4f94": {
+   "fragment_id": "Artigo 13.º — Comunicação dos resultados",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Comunicação dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Comunicação dos resultados\n\n1. As informações contidas no banco de dados serão colocadas à disposição dos laboratórios designados para o efeito pelos Estados-Membros quando os mesmos o solicitarem.\n\n2. Em casos devidamente justificados, as informações referidas no n.o 1, quando forem representativas, podem ser colocadas à disposição, a pedido, de outras instâncias oficiais dos Estados-Membros.\n\n3. A comunicação de informações dirá apenas respeito aos resultados das análises pertinentes necessários para a interpretação de uma análise realizada a partir de uma amostra com características e origem similares. As comunicações de informações serão sempre acompanhadas de uma recapitulação das exigências mínimas a que se subordina a utilização do banco de dados."
+  },
+  "2e540b0a9e40466f": {
+   "fragment_id": "Artigo 14.º — Respeito dos procedimentos",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Respeito dos procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Respeito dos procedimentos\n\nOs Estados-Membros velarão por que os resultados das análises isotópicas contidos nos seus próprios bancos de dados sejam obtidos através da análise das amostras colhidas e tratadas em conformidade com as disposições do presente título."
+  },
+  "6f81457ac3089846": {
+   "fragment_id": "TÍTULO V — COLHEITA DE AMOSTRAS PARA EFEITOS DE CONTROLO",
+   "type": "divisao",
+   "heading": "TÍTULO V — COLHEITA DE AMOSTRAS PARA EFEITOS DE CONTROLO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — COLHEITA DE AMOSTRAS PARA EFEITOS DE CONTROLO"
+  },
+  "f9292278027c9c36": {
+   "fragment_id": "Artigo 15.º — Pedido de colheita de amostras",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Pedido de colheita de amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Pedido de colheita de amostras\n\n1. No âmbito de aplicação dos títulos II e III, os agentes específicos da Comissão ou os agentes de uma instância competente de um Estado-Membro poderão solicitar a uma instância competente de outro Estado-Membro que proceda à colheita de amostras em conformidade com as disposições em vigor nesse Estado-Membro.\n\n2. A instância requerente disporá das amostras colhidas e determinará, nomeadamente, o laboratório em que serão analisadas.\n\n3. As amostras serão colhidas e tratadas em conformidade com as instruções constantes do anexo V."
+  },
+  "bd2e4e0f83e40c87": {
+   "fragment_id": "Artigo 16.º — Despesas relativas à colheita, envio e análise das amostras",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Despesas relativas à colheita, envio e análise das amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Despesas relativas à colheita, envio e análise das amostras\n\n1. As despesas relativas à colheita, ao tratamento e ao envio da amostra, bem como aos exames analítico e organoléptico, serão suportadas pela instância do Estado-Membro que solicitou a colheita da amostra. Essas despesas serão calculadas em função das tarifas aplicáveis no Estado-Membro em cujo território essas operações foram realizadas.\n\n2. As despesas relativas ao envio das amostras referidas no artigo 12.o ao CCI ou a qualquer outro laboratório designado pelo CCI, para análise por métodos isotópicos, serão suportadas pela Comunidade.\n\nNo que se refere aos Estados-Membros em cujo território não exista um laboratório equipado para a análise dos vinhos por métodos isotópicos, as despesas de envio de todas as amostras, a colher nos termos do n.o 1 do artigo 14.o, ao CCI serão suportadas pela Comunidade."
+  },
+  "54f268021af6a72c": {
+   "fragment_id": "TÍTULO VI — DISPOSIÇÕES GERAIS E FINAIS",
+   "type": "divisao",
+   "heading": "TÍTULO VI — DISPOSIÇÕES GERAIS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI — DISPOSIÇÕES GERAIS E FINAIS"
+  },
+  "2537a9fdc32c07d1": {
+   "fragment_id": "Artigo 17.º — Força probatória",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Força probatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Força probatória\n\nAs verificações efectuadas pelos agentes específicos da Comissão ou pelos agentes de uma instância competente de um Estado-Membro no âmbito da aplicação do presente título podem ser invocadas pelas instâncias competentes dos outros Estados-Membros ou pela Comissão. Neste caso, não pode ser atribuída a essas verificações um valor probatório menor pelo simples facto de não terem sido feitas pelo Estado-Membro em questão."
+  },
+  "2d41d0cc1d16312b": {
+   "fragment_id": "Artigo 18.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Sanções\n\nSem prejuízo das disposições específicas previstas no Regulamento (CE) n.o 1493/1999 ou nos regulamentos de execução do mesmo, os Estados-Membros estabelecerão o regime das sanções aplicáveis às violações das disposições relativas ao sector vitivinícola e tomarão todas as medidas necessárias para assegurar a respectiva aplicação. As sanções assim decididas devem ser efectivas, proporcionadas e dissuasivas."
+  },
+  "5fcda0ac70de020d": {
+   "fragment_id": "Artigo 19.º — Destinatários dos controlos",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Destinatários dos controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Destinatários dos controlos\n\n1. As pessoas singulares ou colectivas bem como os agrupamentos dessas pessoas cujas actividades profissionais possam ser sujeitas aos controlos referidos no presente regulamento não devem levantar qualquer obstáculo a esses controlos e são sempre obrigados a facilitá-los.\n\n2. Os agricultores que explorem vinhas em que seja efectuada uma colheita de amostras por agentes de uma instância competente:\n\n- não devem opor qualquer obstáculo à realização dessas colheitas, e\n\n- devem fornecer a esses agentes todas as informações necessárias, em aplicação do presente regulamento."
+  },
+  "6f022b67f87726b1": {
+   "fragment_id": "Artigo 20.º — Revogações",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Revogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Revogações\n\nSão revogados os regulamentos (CEE) n.o 2347/91 e (CEE) n.o 2348/91."
+  },
+  "a5c04401e290cb81": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nO presente regulamento entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Dezembro de 2000.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 14 de Dezembro de 2000.\n\nPela Comissão\n\nFranz Fischler\n\nMembro da Comissão\n\n(1) JO L 179 de 14.7.1999, p. 1.\n\n(2) JO L 194 de 31.7.2000, p. 1.\n\n(3) JO L 84 de 27.3.1987, p. 1.\n\n(4) JO L 199 de 30.7.1999, p. 8.\n\n(5) JO L 214 de 2.8.1991, p. 32.\n\n(6) JO L 248 de 11.9.1997, p. 3.\n\n(7) JO L 214 de 2.8.1991, p. 39.\n\n(8) JO L 272 de 4.10.1997, p. 10.\n\n(9) JO L 185 de 25.7.2000, p. 24.\n\n(10) JO L 302 de 1.12.2000, p. 36.\n\n(11) JO L 202 de 14.7.1989, p. 32.\n\n(12) JO L 272 de 3.10.1990, p. 1.\n\n(13) JO L 99 de 14.4.1999, p. 4.\n\n(14) JO L 208 de 31.7.1986, p. 1.\n\n(15) JO L 160 de 26.6.1999, p. 103."
+  },
+  "b88177c9e406ad5c": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nInstruções para a colheita de uvas frescas, seu tratamento e transformação em vinho destinado a ser analisado pelos métodos isotópicos referidos no artigo 11.o\n\nI. COLHEITA DAS UVAS\n\nA. Cada amostra compreenderá, pelo menos, 10 kg de uvas sãs e maduras da mesma casta. Devem evitar-se as colheitas com orvalho matinal e após queda de chuva. As uvas não devem apresentar humidade exterior. As uvas serão colhidas no estado em que se encontrem.\n\nA colheita será efectuada durante o período da vindima da parcela em questão. As uvas colhidas devem ser representativas do conjunto da parcela. A amostra de uvas frescas assim colhida, se for caso disso transformada em mosto de uvas, pode ser conservada até à vinificação por congelação.\n\nOs Estados-Membros podem fixar, em relação às amostras a colher no seu território, quantidades mínimas que ultrapassem 10 kg, quando tal se justifique pelas necessidades da colaboração científica entre diferentes laboratórios.\n\nB. Aquando da colheita de amostras, será elaborada uma ficha sinalética. Esta ficha compreenderá uma parte I, relativa à colheita das uvas, e uma parte II, relativa à vinificação, será conservada com a amostra e acompanhá-la-á durante todos os transportes. Deve ser actualizada através da menção de cada um dos tratamentos sofridos pela amostra.\n\nA ficha sinalética relativa à colheita da amostra será estabelecida em conformidade com a parte I do questionário que consta do anexo II.\n\nII. VINIFICAÇÃO\n\nA. A vinificação será efectuada pela instância competente ou por um serviço habilitado pela mesma para o efeito, na medida do possível em condições comparáveis com as condições habituais da área de produção de que a amostra é representativa. A vinificação deve levar à transformação total do açúcar em álcool, ou seja, a menos de dois gramas de açúcares residuais por litro. A partir da altura em que o vinho seja clarificado e estabilizado com SO2, será colocado em garrafas de 75 cl e rotulado.\n\nB. A ficha sinalética relativa à vinificação será estabelecida em conformidade com a parte II do questionário que figura no anexo II."
+  },
+  "7824ab9f97d21573": {
+   "fragment_id": "ANEXO II — >PIC FILE= \"L_2000316PT.002402.EPS\">",
+   "type": "divisao",
+   "heading": "ANEXO II — >PIC FILE= \"L_2000316PT.002402.EPS\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >PIC FILE= \"L_2000316PT.002402.EPS\">\n\n>PIC FILE= \"L_2000316PT.002501.EPS\">"
+  },
+  "52e728ab12c6fdf8": {
+   "fragment_id": "ANEXO III — >PIC FILE= \"L_2000316PT.002602.EPS\">",
+   "type": "divisao",
+   "heading": "ANEXO III — >PIC FILE= \"L_2000316PT.002602.EPS\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — >PIC FILE= \"L_2000316PT.002602.EPS\">\n\n>PIC FILE= \"L_2000316PT.002701.EPS\">"
+  },
+  "3336a549c0a5d365": {
+   "fragment_id": "ANEXO IV — Colheita de amostras no âmbito da assistência entre instâncias de controlo",
+   "type": "divisao",
+   "heading": "ANEXO IV — Colheita de amostras no âmbito da assistência entre instâncias de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Colheita de amostras no âmbito da assistência entre instâncias de controlo\n\n1. Aquando da colheita das amostras de um vinho, de um mosto de uvas ou de outro produto vinícola líquido no âmbito da assistência entre instâncias de controlo, a instância competente assegurará que essas amostras:\n\n- são representativas de todo o lote, no que respeita aos produtos contidos em recipientes de 60 litros ou menos e armazenados em conjunto num único lote,\n\n- são representativas do produto contido no recipiente em que a amostra é colhida, no que respeita aos produtos contidos em recipientes com um volume nominal superior a 60 litros.\n\n2. As colheitas de amostras far-se-ão deitando o produto em questão em pelo menos cinco recipientes limpos com um volume nominal de, no mínimo, 75 centilitros. No caso dos produtos referidos no primeiro travessão do ponto 1, a colheita de amostras pode igualmente fazer-se mediante a retirada de, pelo menos, cinco recipientes, com um volume nominal de, no mínimo, 75 centilitros, que façam parte do lote a examinar.\n\nQuando as amostras de destilado de vinho forem destinadas à análise por ressonância magnética nuclear do deutério, o volume nominal dos recipientes para as amostras será de 25 centilitros, ou mesmo cinco centilitros, quando o mesmo for expedido de um laboratório oficial para um outro.\n\nAs amostras serão colhidas, fechadas, se for caso disso, e seladas em presença de um representante do estabelecimento onde se realizar a colheita ou de um representante do transportador, se a colheita se realizar no decurso do transporte. Em caso de ausência desse representante, o facto será mencionado no relatório referido no n.o 4.\n\nCada amostra deve estar munida de um dispositivo de fecho, que deve ser inerte e não recuperável.\n\n3. Cada amostra será munida de um rótulo conforme à parte A do anexo V.\n\nQuando as dimensões do recipiente não permitirem a aposição do rótulo prescrito, será aposto no recipiente um número indelével, sendo as indicações prescritas indicadas numa ficha separada.\n\nO representante do estabelecimento onde a colheita das amostras se realizar ou, se for caso disso, o representante do transportador será convidado a assinar o rótulo ou, se for caso disso, a ficha.\n\n4. O agente da instância competente autorizado a efectuar as colheitas de amostras elaborará um relatório escrito, em que incluirá todas as observações que lhe pareçam importantes para a apreciação das amostras. Se for caso disso, indicará igualmente as declarações do representante do transportador ou do estabelecimento em que a colheita das amostras se realizar e convidará esse representante a assinar. Indicará a quantidade de produto que foi objecto da colheita. O relatório indicará se as assinaturas referidas no presente ponto e no terceiro parágrafo do ponto 3 foram recusadas.\n\n5. Para cada colheita, uma das amostras será conservada, a título de amostra de controlo, no estabelecimento onde a colheita foi efectuada e uma outra ficará na posse da instância de que depende o agente que colheu a amostra. Três das amostras serão enviadas ao laboratório oficial que efectuará o exame analítico ou organoléptico. Uma das amostras será submetida a análise. Uma outra será conservada como amostra de controlo. As amostras de controlo serão conservadas durante um período de, pelo menos, três anos após a data da colheita.\n\n6. Os volumes constituídos pelas amostras serão munidos, na embalagem exterior, de um rótulo vermelho conforme ao modelo que figura na parte B do anexo V. O formato do rótulo é de cerca de 50 por 25 milímetros.\n\nAquando do envio das amostras, a instância competente do Estado-Membro expedidor aporá o seu carimbo de modo que metade fique sobre a embalagem exterior do volume e a outra metade sobre o rótulo vermelho."
+  },
+  "7abd48e0677abec5": {
+   "fragment_id": "ANEXO V — >PIC FILE= \"L_2000316PT.002902.EPS\">",
+   "type": "divisao",
+   "heading": "ANEXO V — >PIC FILE= \"L_2000316PT.002902.EPS\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — >PIC FILE= \"L_2000316PT.002902.EPS\">"
+  },
+  "d9e54a23531756b6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2000R2729 — PT — 01.08.2008 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32000R2729) [REGULAMENTO (CE) N.º 2729/2000 DA COMISSÃO](http://publications.europa.eu/resource/celex/32000R2729) [de 14 de Dezembro de 2000](http://publications.europa.eu/resource/celex/32000R2729) [que estabelece normas de execução relativas aos controlos no sector vitivinícola](http://publications.europa.eu/resource/celex/32000R2729) (JO L 316, 15.12.2000, p.16)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 555/2008 da Comissão de 27 de Junho de 2008](http://publications.europa.eu/resource/celex/32008R0555) — L 170 — 1 — 30.6.2008"
+  }
+ }
+}

@@ -35,6 +35,87 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-01-09'
+version_history:
+  file: diretiva-ue-2007-36.versoes.json
+  count: 5
+  source_lastmod: '2024-01-09'
+  versions:
+  - date: '2007-07-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-02'
+    amending: eu:celex:32014L0059:por
+    amending_title: DIRETIVA 2014/59/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 15 de maio
+      de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Informação prévia à assembleia-geral
+    - Altera Artigo 17.º — Destinatários
+    - Altera Notas
+  - date: '2017-06-09'
+    amending: eu:celex:32017L0828:por
+    amending_title: DIRETIVA (UE) 2017/828 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 17 de
+      maio de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Informação prévia à assembleia-geral
+    - Altera Notas
+    - Adita CAPÍTULO I-A
+    - Adita IDENTIFICAÇÃO DOS ACIONISTAS, TRANSMISSÃO DE INFORMAÇÕES E FACILITAÇÃO DO EXERCÍCIO DOS DIREITOS DOS ACIONISTAS
+    - Adita Artigo 3.º-A — Identificação dos acionistas
+    - Adita Artigo 3.º-B — Transmissão de informações
+    - Adita Artigo 3.º-C — Facilitação do exercício dos direitos dos acionistas
+    - Adita Artigo 3.º-D — Não discriminação, proporcionalidade e transparência dos custos
+    - Adita Artigo 3.º-E — Intermediários de países terceiros
+    - Adita Artigo 3.º-F — Informações sobre a aplicação
+    - Adita CAPÍTULO I-B
+    - Adita TRANSPARÊNCIA DOS INVESTIDORES INSTITUCIONAIS, DOS GESTORES DE ATIVOS E DOS CONSULTORES EM MATÉRIA DE VOTAÇÃO
+    - Adita Artigo 3.º-G — Política de envolvimento
+    - Adita Artigo 3.º-H — Estratégia de investimento dos investidores institucionais e acordos com os gestores de ativos
+    - Adita Artigo 3.º-I — Transparência dos gestores de ativos
+    - Adita Artigo 3.º-J — Transparência dos consultores em matéria de votação
+    - Adita Artigo 3.º-K — Revisão
+    - Adita Artigo 9.º-A — Direito de voto relativamente à política de remuneração
+    - Adita Artigo 9.º-B — Informações a fornecer no relatório sobre as remunerações e direito de voto sobre o relatório
+    - Adita Artigo 9.º-C — Transparência e aprovação das transações com partes relacionadas
+    - Adita CAPÍTULO II-A
+    - Adita ATOS DE EXECUÇÃO E SANÇÕES
+    - Adita Artigo 14.º-A — Procedimento de comité
+    - Adita Artigo 14.º-B — Medidas e sanções
+  - date: '2022-08-12'
+    amending: eu:celex:32021R0023:por
+    amending_title: REGULAMENTO (UE) 2021/23 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020
+    changes:
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º-A — Identificação dos acionistas
+    - Altera Artigo 3.º-F — Informações sobre a aplicação
+    - Altera Artigo 5.º — Informação prévia à assembleia-geral
+    - Altera Artigo 9.º-B — Informações a fornecer no relatório sobre as remunerações e direito de voto sobre o relatório
+    - Altera Artigo 9.º-C — Transparência e aprovação das transações com partes relacionadas
+    - Altera Artigo 14.º-A — Procedimento de comité
+    - Altera Notas
+  - date: '2024-01-09'
+    amending: eu:celex:32023L2864:por
+    amending_title: DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º-A — Identificação dos acionistas
+    - Altera Artigo 3.º-F — Informações sobre a aplicação
+    - Altera Artigo 5.º — Informação prévia à assembleia-geral
+    - Altera Artigo 9.º-B — Informações a fornecer no relatório sobre as remunerações e direito de voto sobre o relatório
+    - Altera Artigo 9.º-C — Transparência e aprovação das transações com partes relacionadas
+    - Altera Artigo 14.º-A — Procedimento de comité
+    - Altera Notas
+    - Adita CAPÍTULO II-B
+    - Adita PONTO DE ACESSO ÚNICO EUROPEU
+    - Adita Artigo 14.º-C — Acessibilidade da informação no ponto de acesso único europeu
 identifiers:
   celex: 32007L0036
   eli: http://data.europa.eu/eli/dir/2007/36/oj
@@ -49,7 +130,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2624447f-8c17-4208-8889-a98c49d39339.0018
   content_url: http://publications.europa.eu/resource/cellar/d52030d7-c57b-11ee-95d9-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007L0036-20240109
-  retrieved_at: '2026-10-22T02:41:31Z'
+  retrieved_at: '2026-10-22T15:07:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T13:32:25.642+01:00'
 integrity:
@@ -58,9 +139,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:31Z'
-  notes: Texto consolidado 02007L0036-20240109.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:07:21Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2007-36.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -181,32 +262,20 @@ relationships:
   date: '2010-07-20'
 article_structure:
   article_count: 34
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:31Z'
-  warnings: []
+  checked_at: '2026-10-22T15:07:21Z'
+  warnings:
+  - '02007L0036-20070803: versão indisponível (Sem expressão na língua por para CELEX 02007L0036-20070803.)'
   errors: []
 ---
 
 # Directiva 2007/36/CE do Parlamento Europeu e do Conselho, de 11 de Julho de 2007
-
-> 02007L0036 — PT — 09.01.2024 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014L0059) — [DIRETIVA 2014/59/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014L0059) — L 173 — 190 — 12.6.2014
-- [►M2](http://publications.europa.eu/resource/celex/32017L0828) — [DIRETIVA (UE) 2017/828 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de maio de 2017](http://publications.europa.eu/resource/celex/32017L0828) — L 132 — 1 — 20.5.2017
-- [►M3](http://publications.europa.eu/resource/celex/32021R0023) — [REGULAMENTO (UE) 2021/23 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020](http://publications.europa.eu/resource/celex/32021R0023) — L 22 — 1 — 22.1.2021
-- [►M4](http://publications.europa.eu/resource/celex/32023L2864) — [DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023L2864) — L — 1 — 20.12.2023
-
-## DIRECTIVA 2007/36/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de Julho de 2007
 

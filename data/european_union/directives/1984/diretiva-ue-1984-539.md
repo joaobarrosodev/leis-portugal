@@ -34,6 +34,35 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-12-31'
+version_history:
+  file: diretiva-ue-1984-539.versoes.json
+  count: 2
+  source_lastmod: '2008-12-31'
+  versions:
+  - date: '1984-11-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-31'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime ANEXO I
+    - Suprime ANEXO II — LISTA DOS APARELHOS REFERIDOS NO ARTIGO 1o
+    - Suprime ANEXO III — MODELO DE MARCA DE CONFORMIDADE AFIXADA PELO FABRICANTE
+    - Suprime ANEXO IV — MODELO DE DECLARAÇÃO DE CONFORMIDADE (1)
 identifiers:
   celex: 31984L0539
   eli: http://data.europa.eu/eli/dir/1984/539/oj
@@ -48,7 +77,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0b174f76-3a46-4f79-baed-4e9be9bcc895.0011
   content_url: http://publications.europa.eu/resource/cellar/4be69fc1-a30c-434b-a27f-ccad8ce05602.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01984L0539-20081231
-  retrieved_at: '2026-10-22T02:54:51Z'
+  retrieved_at: '2026-10-22T14:34:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T08:50:30.804+01:00'
 integrity:
@@ -57,9 +86,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:54:51Z'
-  notes: Texto consolidado 01984L0539-20081231.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:15Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1984-539.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -114,16 +143,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:54:51Z'
+  checked_at: '2026-10-22T14:34:15Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01984L0539-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01984L0539-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

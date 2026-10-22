@@ -34,6 +34,57 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-12-12'
+version_history:
+  file: diretiva-ue-1984-450.versoes.json
+  count: 3
+  source_lastmod: '2007-12-12'
+  versions:
+  - date: '1984-09-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-06-12'
+    amending: eu:celex:31997L0055:por
+    amending_title: DIRECTIVA 97/55/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de Outubro de 1997; DIRECTIVA 2005/29/CE DO
+      PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 11 de Maio de 2005
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 3.ºA
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+  - date: '2007-12-12'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 3.ºA
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Notas
 identifiers:
   celex: 31984L0450
   eli: http://data.europa.eu/eli/dir/1984/450/oj
@@ -48,7 +99,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/84562917-1ad5-43a3-9b5e-eaf61780821d.0011
   content_url: http://publications.europa.eu/resource/cellar/275d5864-858a-4e0b-b274-9581a8145f79.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01984L0450-20071212
-  retrieved_at: '2026-10-22T02:46:29Z'
+  retrieved_at: '2026-10-22T14:34:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T22:48:57.717+01:00'
 integrity:
@@ -57,9 +108,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:29Z'
-  notes: Texto consolidado 01984L0450-20071212.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:11Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1984-450.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -182,16 +233,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:29Z'
+  checked_at: '2026-10-22T14:34:11Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01984L0450-19971112: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

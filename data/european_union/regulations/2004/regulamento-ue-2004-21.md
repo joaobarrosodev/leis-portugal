@@ -35,6 +35,121 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: regulamento-ue-2004-21.versoes.json
+  count: 8
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '2004-01-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1791:por
+    amending_title: REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Adita ANEXO
+    - Adita A. Meios de identificação
+    - Adita B. Registo da exploração
+    - Adita C. Documento de circulação
+    - Adita D. Base de dados informatizada
+    - Adita Notas
+    - Suprime ANEXO — A. Meios de identificação
+  - date: '2007-12-22'
+    amending: eu:celex:32007R1560:por
+    amending_title: REGULAMENTO (CE) N. o 1560/2007 DO CONSELHO de 17 de Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 9.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera A. Meios de identificação
+    - Altera Notas
+  - date: '2008-10-14'
+    amending: eu:celex:32008R0933:por
+    amending_title: REGULAMENTO (CE) N. o 933/2008 DA COMISSÃO de 23 de Setembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Notas
+    - Adita A. MEIOS DE IDENTIFICAÇÃO
+    - Adita B. REGISTO DA EXPLORAÇÃO
+    - Adita C. DOCUMENTO DE CIRCULAÇÃO
+    - Adita D. BASE DE DADOS INFORMATIZADA
+    - Suprime A. Meios de identificação
+    - Suprime B. Registo da exploração
+    - Suprime C. Documento de circulação
+    - Suprime D. Base de dados informatizada
+  - date: '2009-09-09'
+    amending: eu:celex:32009R0759:por
+    amending_title: REGULAMENTO (CE) N. o 759/2009 DA COMISSÃO de 19 de Agosto de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera A. MEIOS DE IDENTIFICAÇÃO
+    - Altera C. DOCUMENTO DE CIRCULAÇÃO
+    - Altera D. BASE DE DADOS INFORMATIZADA
+    - Altera Notas
+  - date: '2010-07-05'
+    amending: eu:celex:32010R0506:por
+    amending_title: REGULAMENTO (UE) N. o 506/2010 DA COMISSÃO de 14 de Junho de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera A. MEIOS DE IDENTIFICAÇÃO
+    - Altera Notas
+  - date: '2012-01-01'
+    amending: eu:celex:32012R0045:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 45/2012 DA COMISSÃO de 19 de janeiro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera A. MEIOS DE IDENTIFICAÇÃO
+    - Altera C. DOCUMENTO DE CIRCULAÇÃO
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera A. MEIOS DE IDENTIFICAÇÃO
+    - Altera B. REGISTO DA EXPLORAÇÃO
+    - Altera C. DOCUMENTO DE CIRCULAÇÃO
+    - Altera Notas
 identifiers:
   celex: 32004R0021
   eli: http://data.europa.eu/eli/reg/2004/21/oj
@@ -49,7 +164,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/21f81a30-ea13-4b0b-b3ba-da00be06d862.0010
   content_url: http://publications.europa.eu/resource/cellar/8b1ebaf6-2fc5-449a-a25a-f7dfe32a52c8.0018.04/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0021-20130701
-  retrieved_at: '2026-10-22T02:38:39Z'
+  retrieved_at: '2026-10-22T14:57:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T23:07:48.168+01:00'
 integrity:
@@ -58,9 +173,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:39Z'
-  notes: Texto consolidado 02004R0021-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:33Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-2004-21.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -231,39 +346,19 @@ relationships:
   date: '2016-03-31'
 article_structure:
   article_count: 17
-  section_count: 5
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 6
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:39Z'
+  checked_at: '2026-10-22T14:57:33Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 21/2004 do Conselho, de 17 de Dezembro de 2003
-
-> 2004R0021 — PT — 01.07.2013 — 007.003
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32006R1791) — [REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006R1791) — L 363 — 1 — 20.12.2006
-- [►M2](http://publications.europa.eu/resource/celex/32007R1560) — [REGULAMENTO (CE) N.º 1560/2007 DO CONSELHO de 17 de Dezembro de 2007](http://publications.europa.eu/resource/celex/32007R1560) — L 340 — 25 — 22.12.2007
-- [►M3](http://publications.europa.eu/resource/celex/32008R0933) — [REGULAMENTO (CE) N.º 933/2008 DA COMISSÃO de 23 de Setembro de 2008](http://publications.europa.eu/resource/celex/32008R0933) — L 256 — 5 — 24.9.2008
-- [►M4](http://publications.europa.eu/resource/celex/32009R0759) — [REGULAMENTO (CE) N.º 759/2009 DA COMISSÃO de 19 de Agosto de 2009](http://publications.europa.eu/resource/celex/32009R0759) — L 215 — 3 — 20.8.2009
-- [►M5](http://publications.europa.eu/resource/celex/32010R0506) — [REGULAMENTO (UE) N.º 506/2010 DA COMISSÃO de 14 de Junho de 2010](http://publications.europa.eu/resource/celex/32010R0506) — L 149 — 3 — 15.6.2010
-- [►M6](http://publications.europa.eu/resource/celex/32012R0045) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 45/2012 DA COMISSÃO de 19 de janeiro de 2012](http://publications.europa.eu/resource/celex/32012R0045) — L 17 — 1 — 20.1.2012
-- [►M7](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32004R0021R%2802%29) — [Rectificação, JO L 116, 30.4.2016, p. 39 (21/2004)](http://publications.europa.eu/resource/celex/32004R0021R%2802%29)
-
-## REGULAMENTO (CE) N.º 21/2004 DO CONSELHO
 
 de 17 de Dezembro de 2003
 

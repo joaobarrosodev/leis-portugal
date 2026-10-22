@@ -36,6 +36,45 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-12-04'
+version_history:
+  file: regulamento-ue-2004-551.versoes.json
+  count: 2
+  source_lastmod: '2009-12-04'
+  versions:
+  - date: '2004-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-04'
+    amending: eu:celex:32009R1070:por
+    amending_title: REGULAMENTO (CE) N. o 1070/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Outubro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivo e âmbito de aplicação
+    - Altera Artigo 3.º — Região europeia superior de informação de voo (RESIV)
+    - Altera Artigo 11.º — Entrada em vigor
+    - Adita CAPÍTULO I
+    - Adita ASPECTOS GERAIS
+    - Adita CAPÍTULO II
+    - Adita ARQUITECTURA DO ESPAÇO AÉREO
+    - Adita Artigo 3.º-A — Informação aeronáutica electrónica
+    - Adita Artigo 4.º — Regras do ar e classificação do espaço aéreo
+    - Adita Artigo 6.º — Gestão e concepção da rede
+    - Adita CAPÍTULO III
+    - Adita UTILIZAÇÃO FLEXÍVEL DO ESPAÇO AÉREO NO CÉU ÚNICO EUROPEU
+    - Adita CAPÍTULO IV
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita DECLARAÇÃO DA COMISSÃO
+    - Adita Notas
+    - Suprime CAPÍTULO I — ASPECTOS GERAIS
+    - Suprime CAPÍTULO II — ARQUITECTURA DO ESPAÇO AÉREO
+    - Suprime Artigo 2.º — Nível de divisão
+    - Suprime Artigo 4.º — Classificação do espaço aéreo
+    - Suprime Artigo 5.º — Reconfiguração do espaço aéreo superior
+    - Suprime Artigo 6.º — Rotas optimizadas e configuração dos sectores no espaço aéreo superior
+    - Suprime CAPÍTULO III — UTILIZAÇÃO FLEXÍVEL DO ESPAÇO AÉREO NO CÉU ÚNICO EUROPEU
+    - Suprime Artigo 9.º — Gestão do fluxo do tráfego aéreo
+    - Suprime CAPÍTULO IV — DISPOSIÇÕES FINAIS
 identifiers:
   celex: 32004R0551
   eli: http://data.europa.eu/eli/reg/2004/551/oj
@@ -50,7 +89,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2004b8f3-6635-455b-b600-2178b7023ace.0010
   content_url: http://publications.europa.eu/resource/cellar/ccca46aa-2dc7-4448-b2e0-c71c094226d4.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0551-20091204
-  retrieved_at: '2026-10-22T02:41:27Z'
+  retrieved_at: '2026-10-22T14:57:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T13:06:50.240+02:00'
 integrity:
@@ -59,9 +98,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:27Z'
-  notes: Texto consolidado 02004R0551-20091204.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:36Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2004-551.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -134,29 +173,20 @@ relationships:
   date: '2024-11-11'
 article_structure:
   article_count: 9
-  section_count: 9
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 10
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:27Z'
-  warnings: []
+  checked_at: '2026-10-22T14:57:36Z'
+  warnings:
+  - '02004R0551-20040420: versão indisponível (Sem expressão na língua por para CELEX 02004R0551-20040420.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 551/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004
-
-> 2004R0551 — PT — 04.12.2009 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R1070) — [REGULAMENTO (CE) N.º 1070/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009R1070) — L 300 — 34 — 14.11.2009
-
-## REGULAMENTO (CE) N.º 551/2004 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 10 de Março de 2004
 

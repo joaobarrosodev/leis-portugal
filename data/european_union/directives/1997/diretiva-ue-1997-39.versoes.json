@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997L0039:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997L0039-19970725",
+ "dre_path": null,
+ "source_lastmod": "1997-07-25",
+ "versions": [
+  {
+   "date": "1997-07-05",
+   "future": false,
+   "celex": "31997L0039",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "42eb96280d561a12",
+    "4b0f75c7ea27f911",
+    "9497e7d4991193bc",
+    "dde251ed1bea6e8c",
+    "bdf913f3c7407289",
+    "e33ac42a17dc269c",
+    "8673360291e95cc5",
+    "36a79b3e1e4e4be4",
+    "0e901cfa55372c4f",
+    "8e9ac4aa5919d79d"
+   ]
+  }
+ ],
+ "fragments": {
+  "42eb96280d561a12": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 97/39/CE da Comissão de 24 de Junho de 1997 que adapta ao progresso técnico a Directiva 75/443/CEE do Conselho relativa à marcha atrás e ao aparelho indicador de velocidade dos veículos a motor (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 177 de 05/07/1997 p. 0015 - 0021*\n\nDIRECTIVA 97/39/CE DA COMISSÃO de 24 de Junho de 1997 que adapta ao progresso técnico a Directiva 75/443/CEE do Conselho relativa à marcha atrás e ao aparelho indicador de velocidade dos veículos a motor (Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques (1), com a última redacção que lhe foi dada pela Directiva 96/79/CE do Parlamento Europeu e do Conselho (2), e, nomeadamente, o nº 2 do seu artigo 13º,\n\nTendo em conta a Directiva 75/443/CEE do Conselho, de 26 de Junho de 1975, relativa à aproximação das legislações dos Estados-membros respeitantes à marcha atrás e ao aparelho indicador de velocidade dos veículos a motor (3), e, nomeadamente, o seu artigo 6º,\n\nConsiderando que a Directiva 75/443/CEE é uma das directivas específicas do procedimento de recepção CEE que foi instituído pela Directiva 70/156/CEE; que, em consequência, as disposições da Directiva 70/156/CEE relativas aos sistemas, componentes e unidades técnicas dos veículos se aplicam à presente directiva;\n\nConsiderando, em especial, que o nº 4 do artigo 3º e o nº 3 do artigo 4º da Directiva 70/156/CEE exigem que cada directiva específica tenha anexada uma ficha de informações que inclua os pontos relevantes do anexo I dessa directiva e também uma ficha de recepção baseada no anexo VI dessa directiva de modo a que a recepção possa ser informatizada;\n\nConsiderando que é também desejável alinhar as especificações técnicas da presente directiva com as do Regulamento da CEE/ONU nº 39 correspondente;\n\nConsiderando que as disposições da presente directiva estão de acordo com o parecer do Comité de Adaptação ao Progresso Técnico instituído pela Directiva 70/156/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "4b0f75c7ea27f911": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA Directiva 75/443/CEE passa a ter a seguinte redacção:\n\n1. A parte final do artigo 1º passa a ter a seguinte redacção:\n\n«... carris e dos tractores agrícolas e florestais e de todas as máquinas móveis.».\n\n2. Os anexos são alterados de acordo com o anexo da presente directiva."
+  },
+  "9497e7d4991193bc": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. A partir de 1 de Outubro de 1997, os Estados-membros não podem, por motivos relacionados com a marcha atrás e o aparelho indicador de velocidade:\n\n- recusar a recepção CE ou a recepção de âmbito nacional a um modelo de veículo,\n\nnem\n\n- proibir a matrícula, venda ou entrada em circulação de veículos,\n\nse os veículos satisfizerem os requisitos da Directiva 75/443/CEE, com a redacção que lhe é dada pela presente directiva.\n\n2. A partir de 1 de Outubro de 1998, os Estados-membros:\n\n- deixam de poder conceder a recepção CE,\n\ne\n\n- podem recusar a recepção de âmbito nacional\n\na um modelo de veículo, por motivos relacionados com a marcha atrás e o aparelho indicador de velocidade, se não forem satisfeitos os requisitos da Directiva 75/443/CEE, com a redacção que lhe é dada pela presente directiva."
+  },
+  "dde251ed1bea6e8c": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Outubro de 1997. Desse facto informarão imediatamente a Comissão.\n\n2. Quando os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n3. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "bdf913f3c7407289": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "e33ac42a17dc269c": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 24 de Junho de 1997.\n\nPela Comissão\n\nMartin BANGEMANN\n\nMembro da Comissão\n\n(1) JO nº L 42 de 23. 2. 1970, p. 1.\n\n(2) JO nº L 18 de 21. 1. 1997, p. 7.\n\n(3) JO nº L 196 de 26. 7. 1975, p. 1."
+  },
+  "8673360291e95cc5": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n- Após os artigos é inserida uma lista de anexos com a seguinte redacção:\n\n«LISTA DE ANEXOS"
+  },
+  "36a79b3e1e4e4be4": {
+   "fragment_id": "ANEXO I: Marcha atrás — ANEXO II: Aparelho indicador de velocidade",
+   "type": "divisao",
+   "heading": "ANEXO I: Marcha atrás — ANEXO II: Aparelho indicador de velocidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I: Marcha atrás — ANEXO II: Aparelho indicador de velocidade\n\nApêndice 1: Ficha de informações\n\nApêndice 2: Ficha de recepção»\n\n- Alterações do anexo II:\n\n- O ponto 3 passa a ter a seguinte redacção:\n\n«3. PEDIDO DE RECEPÇÃO CE DE UM MODELO DE VEÍCULO\n\n3.1. O pedido de recepção CE, em conformidade com o nº 4 do artigo 3º da Directiva 70/156/CEE, de um modelo de veículo no que diz respeito ao seu aparelho indicador de velocidade, deve ser apresentado pelo fabricante.\n\n3.2. No apêndice 1 figura um modelo da ficha de informações.\n\n3.3. Deve ser apresentado ao serviço técnico responsável pela realização dos ensaios de recepção:\n\n3.3.1. Um veículo representativo do modelo a recepcionar.»\n\n- Os pontos 4.2.1 e 4.2.2 passam a ter a seguinte redacção:\n\n«4.2.1. As graduações da escala devem ser de 1, 2, 5 ou 10 km/h. Os valores da velocidade devem ser indicados no mostrador do seguinte modo:\n\n4.2.1.1. Quando o valor mais elevado no mostrador não exceder 200 km/h, os valores da velocidade devem ser indicados a intervalos não superiores a 20 km/h.\n\n4.2.1.2. Quando o valor mais elevado no mostrador exceder 200 km/h, então os valores da velocidade devem ser indicados a intervalos não superiores a 30 km/h;\n\n4.2.2. Nos casos em que um indicador de velocidade esteja destinado a ser posto à venda num Estado-membro que utilize as unidades de medida do sistema imperial, e no qual disposições transitórias estejam em vigor de acordo com o artigo 5º, o indicador de velocidade deve também ser graduado em mph (milhas por hora), devendo as graduações ser de 1, 2, 5 ou mph. Os valores de velocidade devem ser indicados no mostrador a intervalos não superiores a 20 mph.\n\n4.2.3. Os intervalos dos valores da velocidade indicada não precisam de ser uniformes.»\n\n- São inseridos três novos pontos com a seguinte redacção:\n\n«5. RECEPÇÃO CE DE UM MODELO DE VEÍCULO\n\n5.1. Se os requisitos relevantes forem satisfeitos, deve ser concedida a recepção CE em conformidade com o nº 3 e, se aplicável, o nº 4 do artigo 4º da Directiva 70/156/CEE.\n\n5.2. No apêndice 2 figura um modelo da ficha de recepção CE.\n\n5.3. A cada modelo de veículo recepcionado deve ser atribuído um número de recepção conforme com o anexo VII da Directiva 70/156/CEE. Um Estado-membro não pode atribuir o mesmo número a outro modelo de veículo.\n\n6. MODIFICAÇÕES DO TIPO E ALTERAÇÕES DAS RECEPÇÕES\n\n6.1. No caso de modificações do modelo recepcionado nos termos da presente directiva, aplicam-se as disposições do artigo 5º da Directiva 70/156/CEE.\n\n7. CONFORMIDADE DA PRODUÇÃO\n\n7.1. Em regra geral, as medidas destinadas a garantir a conformidade da produção devem ser tomadas de acordo com o disposto no artigo 10º da Directiva 70/156/CEE.»\n\n- São inseridos os apêndices 1 e 2 com a seguinte redacção:\n\nApêndice 1\n\n>INÍCIO DE GRÁFICO>\n\nFicha de informações nº......... (*)\n\n(de acordo com o anexo I da Directiva 70/156/CEE do Conselho)\n\nrelativa à recepção CE de um veículo no que diz respeito à marcha atrás e ao aparelho indicador de velocidade (*)\n\n(Directiva 75/443/CEE, com a última redacção que lhe foi dada pela Directiva... /... /CE)\n\nAs seguintes informações, se aplicáveis, devem ser fornecidas em triplicado e incluir um índice. Se houver desenhos, devem ser fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, estas devem ter o pormenor suficiente.\n\nNo caso de os sistemas, componentes ou unidades técnicas possuírem controlos electrónicos, fornecer as informações relevantes relacionadas com o seu desempenho.\n\n0. GENERALIDADES\n\n0.1. Marca (firma do fabricante):\n\n0.2. Modelo e designação(ões) comercial(is) geral(is):\n\n0.3. Meios de identificação do modelo, se marcados no veículo (b):\n\n0.3.1. Localização dessa marcação:\n\n0.4. Categoria do veículo (c):\n\n0.5. Nome e morada do fabricante:\n\n0.8. Morada(s) da(s) linha(s) de montagem:\n\n1. CONSTITUIÇÃO GERAL DO VEÍCULO\n\n1.1. Fotografias e/ou desenhos de um veículo representativo:\n\n2. MASSA E DIMENSÕES (e) (em kg e mm)\n\n(Ver desenho quando aplicável)\n\n2.6. Massa do veículo com carroçaria e dispositivo de engate, no caso de um veículo tractor de categoria diferente da M1, em ordem de marcha, ou massa do quadro com cabina, se o fabricante não fornecer a carroçaria e/ou o dispositivo de engate (incluindo líquido de arrefecimento, lubrificantes, combustível, ferramentas, roda de reserva e condutor e, para os autocarros, a massa do tripulante (75 kg) se houver um banco de tripulante no veículo) (o) (máximo e mínimo para cada variante):\n\n2.6.1. Distribuição dessa massa pelos eixos e, no caso de um semi-reboque ou reboque de eixo(s) central(is), carga sobre o ponto de engate (máximo e mínimo):\n\n(*) Os números dos pontos e as notas de pé de página utilizados nesta ficha de informações correspondem aos do anexo da Directiva 70/156/CEE. Os pontos não relevantes para efeitos da presente directiva são omitidos.\n\n4. TRANSMISSÃO (v)\n\n4.2. Tipo (mecânica, hidráulica, eléctrica, etc.):\n\n4.5. Caixa de velocidades:\n\n4.5.3. Método de controlo:\n\n4.6. Relações de transmissão\n\n>POSIÇÃO NUMA TABELA>\n\n4.7. Velocidade máxima de veículo (em km/h) (w):\n\n4.8. Velocímetro (no caso de se tratar de um tacógrafo, indicar a marca de recepção apenas):\n\n4.8.1. Método de funcionamento e descrição do mecanismo de comando:\n\n4.8.2. Constante do instrumento:\n\n4.8.3. Tolerância do mecanismo de medição (de acordo com o ponto 2.1.3 do anexo II da Directiva 75/443/CEE):\n\n4.8.4. Relação total de transmissão (de acordo com o ponto 2.1.2 do anexo II da Directiva 75/443/CEE) ou dados equivalentes:\n\n4.8.5. Diagrama da escala do velocímetro ou outras formas de visualização:\n\n6. SUSPENSÃO\n\n6.6. Pneumáticos e rodas\n\n6.6.2. Limites superior e inferior dos raios de rolamento:\n\n6.6.2.1. Eixo 1:\n\n6.6.2.2. Eixo 2:\n\n6.6.2.3. Eixo 3:\n\n6.6.2.4. Eixo 4:\n\n6.6.3. Pressão(ões) dos pneumáticos recomendada(s) pelo fabricante do veículo:.......... kPa\n\nData, Processo\n\n>FIM DE GRÁFICO>\n\nApêndice 2\n\n>INÍCIO DE GRÁFICO>\n\nMODELO\n\n[formato máximo: A4 (210 × 297 mm)]\n\nFICHA DE RECEPÇÃO CE\n\nCarimbo da autoridade administrativa\n\nComunicação relativa à:\n\n- recepção (1)\n\n- extensão da recepção (1)\n\n- recusa da recepção (1)\n\n- revogação da recepção (1)\n\nde um modelo/tipo (1) de veículo/componente/unidade técnica (1) no que diz respeito à Directiva 75/443/CEE, com a última redacção que lhe foi dada pela Directiva... /... /CE.\n\nNúmero de recepção:\n\nRazão da extensão:"
+  },
+  "0e901cfa55372c4f": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I\n\n0.1. Marca (firma):\n\n0.2. Modelo/tipo (1) e designação(ões) comercial(is) geral(is):\n\n0.3. Meios de identificação do modelo/tipo (1), se marcados no veículo/componente/unidade técnica (1) (2):\n\n0.3.1. Localizão dessa marcação:\n\n0.4. Categoria de veículo (1) (3):\n\n0.5. Nome e morada do fabricante:\n\n0.7. No caso de componentes e unidades técnicas, localização e método de fixação da marca de recepção CE:\n\n0.8. Morada(s) da(s) linha(s) de montagem:"
+  },
+  "8e9ac4aa5919d79d": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II\n\n1. Informações adicionais (se aplicável): ver adenda\n\n2. Serviço técnico responsável pela realização dos ensaios:\n\n3. Data do relatório de ensaio:\n\n4. Número do relatório de ensaio:\n\n5. Eventuais observações: ver adenda\n\n6. Local:\n\n7. Data:\n\n8. Assinatura:\n\n9. Está anexado o índice do dossier de recepção, que está arquivado nas autoridades de recepção e pode ser obtido a pedido.\n\n(1) Riscar o que não interessa.\n\n(2) Se os meios de identificação do modelo/tipo contiverem caracteres não relevantes para a descrição dos modelos/tipos de veículo, componente ou unidade técnica abrangidos por esta ficha de recepção, tais caracteres devem ser representados na documentação por meio do símbolo \"?\" (por exemplo, ABC??123??).\n\n(3) Conforme definida na parte A do anexo II da Directiva 70/156/CEE.\n\nAdenda\n\nà ficha de recepção CE nº...\n\nrelativa à recepção de um veículo no que diz respeito à Directiva 75/443/CEE,\n\ncom a última redacção que lhe foi dada pela Directiva... /... /CE\n\n1. INFORMAÇÕES ADICIONAIS\n\n1.1. Indicador de velocidade (velocímetro)\n\n1.1.1 Meios de identificação, se disponíveis, e respectiva localização:\n\n5. OBSERVAÇÕES\n\n(por exemplo: válido para veículos de condução à esquerda e à direita)\n\n>FIM DE GRÁFICO>"
+  }
+ }
+}

@@ -34,6 +34,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-07-08'
+version_history:
+  file: diretiva-ue-1995-31.versoes.json
+  count: 2
+  source_lastmod: '2008-07-08'
+  versions:
+  - date: '1995-07-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-07-08'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime ANEXO — >POSIÇÃO NUMA TABELA>
 identifiers:
   celex: 31995L0031
   eli: http://data.europa.eu/eli/dir/1995/31/oj
@@ -48,7 +67,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8bfa3967-c553-4b80-b2e2-bb95f492935b.0011
   content_url: http://publications.europa.eu/resource/cellar/43483c49-559c-46a4-93b6-9083401fbec2.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0031-20080708
-  retrieved_at: '2026-10-22T02:40:20Z'
+  retrieved_at: '2026-10-22T14:44:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T05:36:49.303+01:00'
 integrity:
@@ -57,9 +76,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:20Z'
-  notes: Texto consolidado 01995L0031-20080708.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:44:06Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1995-31.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -152,16 +171,19 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:20Z'
+  checked_at: '2026-10-22T14:44:06Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01995L0031-19981009: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995L0031-20000824: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995L0031-20010801: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995L0031-20040511: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995L0031-20061229: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

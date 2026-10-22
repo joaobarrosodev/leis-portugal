@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0052:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0052-20080708",
+ "dre_path": null,
+ "source_lastmod": "2008-07-08",
+ "versions": [
+  {
+   "date": "2001-07-12",
+   "future": false,
+   "celex": "32001L0052",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a156727d6610dc6a",
+    "45fc4514c82deed0",
+    "667a75a0dea4ee18",
+    "271594770ecf7591",
+    "58d09dc3abde198b",
+    "a970dbe7b096c12d"
+   ]
+  }
+ ],
+ "fragments": {
+  "a156727d6610dc6a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2001/52/CE da Comissão, de 3 de Julho de 2001, que altera a Directiva 95/31/CE que estabelece os critérios de pureza específicos dos edulcorantes que podem ser utilizados nos géneros alimentícios (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 190 de 12/07/2001 p. 0018 - 0020*\n\nDirectiva 2001/52/CE da Comissão\n\nde 3 de Julho de 2001\n\nque altera a Directiva 95/31/CE que estabelece os critérios de pureza específicos dos edulcorantes que podem ser utilizados nos géneros alimentícios\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 89/107/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-Membros respeitantes aos aditivos que podem ser utilizados nos géneros destinados à alimentação humana(1) alterada pela Directiva 94/34/CE do Parlamento Europeu e do Conselho(2), e, nomeadamente, o n.o 3, alínea a), do seu artigo 3.o,\n\nApós consulta do Comité Científico da Alimentação Humana,\n\nConsiderando que:\n\n(1) A Directiva 94/35/CE do Parlamento Europeu e do Conselho, de 30 de Junho de 1994, relativa aos edulcorantes para utilização nos géneros alimentares(3), alterada pela Directiva 96/83/CE(4), apresenta uma lista das substâncias que podem ser utilizadas como edulcorantes nos géneros alimentícios.\n\n(2) A Directiva 95/31/CE, de 5 de Julho de 1995, que estabelece os critérios de pureza específicos dos edulcorantes que podem ser utilizados nos géneros alimentícios(5), com a última redacção que lhe foi dada pela Directiva 2000/51/CE(6), estabelece os critérios de pureza dos edulcorantes mencionados na Directiva 94/35/CE.\n\n(3) É necessário, à luz dos progressos técnicos, alterar os critérios de pureza estabelecidos na Directiva 95/31/CE respeitantes ao manitol (E 421) e ao acessulfamo K (E 950).\n\n(4) É necessário ter em conta as especificações e as técnicas de análise dos edulcorantes, do Codex Alimentarius e do Comité Misto FAO/OMS de peritos no domínio dos aditivos alimentares (JECFA).\n\n(5) É, consequentemente, necessário adaptar a Directiva 95/31/CE.\n\n(6) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente dos Géneros Alimentícios,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "45fc4514c82deed0": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNo anexo à Directiva 95/31/CE, o texto relativo ao E 421 - manitol - e ao E 950 - acessulfamo K - passa a ter a redacção constante do anexo da presente directiva."
+  },
+  "667a75a0dea4ee18": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva o mais tardar em 30 de Junho de 2002. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-Membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros."
+  },
+  "271594770ecf7591": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "58d09dc3abde198b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 3 de Julho de 2001.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 40 de 11.2.1989, p. 27.\n\n(2) JO L 237 de 10.9.1994, p. 1.\n\n(3) JO L 237 de 10.9.1994, p. 3.\n\n(4) JO L 48 de 19.2.1997, p. 16.\n\n(5) JO L 178 de 28.7.1995, p. 1.\n\n(6) JO L 198 de 4.8.2000, p. 41."
+  },
+  "a970dbe7b096c12d": {
+   "fragment_id": "ANEXO — \">POSIÇÃO NUMA TABELA>\"",
+   "type": "divisao",
+   "heading": "ANEXO — \">POSIÇÃO NUMA TABELA>\"",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — \">POSIÇÃO NUMA TABELA>\""
+  }
+ }
+}

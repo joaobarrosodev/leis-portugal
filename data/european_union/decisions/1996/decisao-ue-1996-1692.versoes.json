@@ -1,0 +1,449 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996D1692:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996D1692-20100825",
+ "dre_path": null,
+ "source_lastmod": "2010-08-25",
+ "versions": [
+  {
+   "date": "1996-09-09",
+   "future": false,
+   "celex": "31996D1692",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e4b4e2f643a03c65",
+    "68b1c5a88118d62b",
+    "3b6145e355fadaab",
+    "43e315da7d8b8a59",
+    "2b5fa86df83cfee2",
+    "c73ab651a08f5131",
+    "59a29885dd334b23",
+    "7ba4aaaa616a3cdb",
+    "ad6d816c87c1d62e",
+    "0c10d778097658e7",
+    "b9e07f23d3793529",
+    "8c0449b20c15093b",
+    "ad5f37554441ce0e",
+    "e694f407b8349285",
+    "12132be58a3e4606",
+    "b405ccb169bea7a5",
+    "c77d37a40df2190e",
+    "7e8a532b4f346682",
+    "e4696ecdb63cc29b",
+    "200e4270a6054de0",
+    "27ebabdece6eb3b8",
+    "d8bd19848d53c31c",
+    "2fb10604dd8498a9",
+    "ff01ed98569c38f0",
+    "5beffac195d2c6fb",
+    "10cd1d31df8b6f24",
+    "ac7cf44410f9bde6",
+    "76668471323576cc",
+    "2e177f5825546528",
+    "e162b25bc31b6e65",
+    "f1c882d10a452187",
+    "6c700d8b40de9e1d",
+    "164bc99907119651",
+    "6b4130a177805bf0",
+    "8f6fb0dedf4e1686",
+    "0bb8e2f531194fb7",
+    "0ed2e531022b0c10",
+    "46d69de90811dc73",
+    "adb606364b6fa4b8",
+    "5b5fe479d12ad33b",
+    "22eeba84809299b8"
+   ]
+  },
+  {
+   "date": "2010-08-25",
+   "future": false,
+   "celex": "01996D1692-20100825",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime SECÇÃO 1 PRINCÍPIOS GERAIS — Artigo 1º Objecto",
+    "Suprime SECÇÃO 2 REDE RODOVIÁRIA — Artigo 9º Características",
+    "Suprime SECÇÃO 3 REDE FERROVIÁRIA — Artigo 10º Características",
+    "Suprime SECÇÃO 4 REDE DE VIAS NAVEGÁVEIS E PORTOS DE NAVEGAÇÃO INTERIOR — Artigo 11º Características",
+    "Suprime SECÇÃO 5 PORTOS MARÍTIMOS — Artigo 12º Características",
+    "Suprime SECÇÃO 6 AEROPORTOS — Artigo 13º Características",
+    "Suprime SECÇÃO 7 REDE DE TRANSPORTE COMBINADO — Artigo 14º Características",
+    "Suprime SECÇÃO 8 REDE DE GESTÃO E DE INFORMAÇÃO DO TRÁFEGO MARÍTIMO — Artigo 15º Características",
+    "Suprime SECÇÃO 9 REDE DE GESTÃO DO TRÁFEGO AÉREO — Artigo 16º Características",
+    "Suprime SECÇÃO 10 REDE DE DETERMINAÇÃO DA POSIÇÃO E DE NAVEGAÇÃO — Artigo 17º Características",
+    "Suprime SECÇÃO 11 DISPOSIÇÕES COMUNS — Artigo 18º Comité para a troca de informações e relatório",
+    "Suprime Artigo 23º",
+    "Suprime Artigo 24º",
+    "Suprime ANEXO I — PLANOS DAS REDES ILUSTRADOS COM MAPAS (1*)",
+    "Suprime Secção 2: Rede rodoviária",
+    "Suprime Secção 3: Rede ferroviária",
+    "Suprime Secção 4: Rede de vias navegáveis",
+    "Suprime Secção 5: Portos marítimos",
+    "Suprime Secção 6: Aeroportos",
+    "Suprime Secção 7: Rede de transporte combinado",
+    "Suprime SECÇÃO 2 REDE RODOVIÁRIA — >REFERÊNCIA A UMA IMAGEN>",
+    "Suprime SECÇÃO 3 REDE FERROVIÁRIA — >REFERÊNCIA A UMA IMAGEN>",
+    "Suprime SECÇÃO 4 REDE DE VIAS NAVEGÁVEIS — >REFERÊNCIA A UMA IMAGEN>",
+    "Suprime SECÇÃO 6 AEROPORTOS — >REFERÊNCIA A UMA IMAGEN>",
+    "Suprime SECÇÃO 7 REDE DE TRANSPORTE COMBINADO — >REFERÊNCIA A UMA IMAGEN>",
+    "Suprime ANEXO II — CRITÉRIOS E ESPECIFICAÇÕES DOS PROJECTOS DE INTERESSE COMUM (1)",
+    "Suprime Secção 2: Rede rodoviária — Secção 3: Rede ferroviária",
+    "Suprime Secção 4: Rede de vias navegáveis e portos de navegação interior — Secção 5: Portos marítimos",
+    "Suprime Secção 6: Aeroportos — Secção 7: Rede de transporte combinado",
+    "Suprime Secção 8: Rede de gestão e de informação do tráfego marítimo — Secção 9: Rede de gestão do tráfego aéreo",
+    "Suprime Secção 10: Rede de determinação da posição e de navegação — Secção 2 Rede rodoviária",
+    "Suprime Secção 3 Rede ferroviária",
+    "Suprime Secção 4 Rede de vias navegáveis e portos de navegação interior — Portos de navegação interior",
+    "Suprime Secção 5 Portos marítimos",
+    "Suprime Secção 6 Aeroportos — I. Critérios de selecção dos aeroportos de interesse comum",
+    "Suprime Secção 7 Rede de transporte combinado",
+    "Suprime Secção 8 Rede de gestão e de informação do tráfego marítimo",
+    "Suprime Secção 9 Rede de gestão do tráfego aéreo",
+    "Suprime Secção 10 Rede de determinação da posição e de navegação",
+    "Suprime ANEXO III — LISTA DOS CATORZE PROJECTOS APROVADOS PELO CONSELHO EUROPEU DE ESSEN EM 9/10 DE DEZEMBRO DE 1994"
+   ],
+   "fragments": [
+    "ea9947c715957554"
+   ]
+  }
+ ],
+ "fragments": {
+  "e4b4e2f643a03c65": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Decisão nº 1692/96/CE do Parlamento Europeu e do Conselho de 23 de Julho de 1996 sobre as orientações comunitárias para o desenvolvimento da rede transeuropeia de transportes** *Jornal Oficial nº L 228 de 09/09/1996 p. 0001 - 0104*\n\nDECISÃO Nº 1692/96/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de Julho de 1996 sobre as orientações comunitárias para o desenvolvimento da rede transeuropeia de transportes\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o primeiro parágrafo do seu artigo 129ºD,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nTendo em conta o parecer do Comité das Regiões (3),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºB do Tratado (4),\n\n(1) Considerando que o estabelecimento e o desenvolvimento das redes transeuropeias contribuem para a realização de importantes objectivos comunitários, como o bom funcionamento do mercado interno e o reforço da coesão económica e social;\n\n(2) Considerando que o estabelecimento e o desenvolvimento, em todo o território comunitário, de redes transeuropeias no sector dos transportes têm igualmente como objectivos específicos garantir uma mobilidade sustentável das pessoas e das mercadorias nas melhores condições sociais, ambientais e de segurança possíveis e integrar todos os modos de transporte tendo em conta as suas vantagens relativas; que a criação de postos de trabalho é uma das consequências possíveis da rede transeuropeia;\n\n(3) Considerando que o Livro Branco da Comissão sobre o desenvolvimento de uma política comum dos transportes preconiza a melhor utilização possível das capacidades existentes e a integração de todas as redes relativas aos vários modos de transporte numa rede transeuropeia de transportes rodoviário, ferroviário, de navegação interna, marítimo e aéreo, tanto de mercadorias como de passageiros, bem como de transportes combinados;\n\n(4) Considerando que a navegação de curta distância pode, nomeadamente, contribuir para aliviar as vias de transportes terrestres;\n\n(5) Considerando que a integração das redes à escala europeia só pode ser desenvolvida progressivamente, com base numa interligação dos vários modos de transporte, tendo em vista uma melhor utilização das vantagens inerentes a cada um desses modos;\n\n(6) Considerando que, para atingir esses objectivos, é necessária uma acção comunitária de orientação que respeite o princípio da subsidiariedade; que é conveniente definir as grandes linhas e as prioridades da acção comunitária prevista no domínio das redes transeuropeias de transportes;\n\n(7) Considerando que é necessário identificar os projectos de interesse comum que correspondem a esses objectivos e se inscrevem nas prioridades da acção assim fixadas; que devem apenas ser tomados em consideração os projectos que apresentem boas perspectivas de viabilidade económica;\n\n(8) Considerando que é necessário que os Estados-membros tenham em conta a protecção do ambiente, mediante a realização de estudos de impacto ambiental, nos termos da Directiva 85/337/CEE do Conselho, de 27 de Junho de 1985, relativa à avaliação dos efeitos de determinados projectos públicos e privados no ambiente (5), e a aplicação da Directiva 92/43/CEE do Conselho, de 21 de Maio de 1992, relativa à preservação dos habitats naturais e da fauna e da flora selvagens (6), aquando da realização dos projectos de interesse comum;\n\n(9) Considerando que a autorização de determinados projectos públicos e privados susceptíveis de terem incidências significativas no ambiente só deverá ser concedida após avaliação prévia dos efeitos significativos que esses projectos são susceptíveis de ter no ambiente, na observância da regulamentação comunitária em vigor;\n\n(10) Considerando que é conveniente identificar projectos de interesse comum respeitantes, não apenas aos diversos modos de transporte numa abordagem multimodal, mas também aos sistemas de gestão do tráfego e de informação do utente e aos sistemas de determinação da posição e de navegação;\n\n(11) Considerando que a presente decisão tem por objectivo, entre outros aspectos, a identificação desses projectos de interesse comum; que esses projectos são identificados no anexo I, no anexo II e no articulado da presente decisão; que o Conselho Europeu de Essen atribuiu especial importância a catorze desses projectos;\n\n(12) Considerando que é conveniente que a Comissão apresente de dois em dois anos um relatório sobre a aplicação da presente decisão e de cinco em cinco anos um relatório indicando se as orientações carecem ou não de revisão;\n\n(13) Considerando que é necessário instituir junto da Comissão um comité encarregado nomeadamente de assistir a Comissão aquando da análise da aplicação e do desenvolvimento das presentes orientações,\n\nADOPTARAM A PRESENTE DECISÃO:"
+  },
+  "68b1c5a88118d62b": {
+   "fragment_id": "SECÇÃO 1 PRINCÍPIOS GERAIS — Artigo 1º Objecto",
+   "type": "divisao",
+   "heading": "SECÇÃO 1 PRINCÍPIOS GERAIS — Artigo 1º Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 1 PRINCÍPIOS GERAIS — Artigo 1º Objecto\n\n1. A presente decisão destina-se a estabelecer as orientações quanto aos objectivos, prioridades e grandes linhas de acção previstas no domínio da rede transeuropeia de transportes; estas orientações identificarão projectos de interesse comum cuja realização deverá contribuir para o desenvolvimento da rede à escala comunitária.\n\n2. As orientações referidas no nº 1 constituem um quadro geral de referência destinado a incentivar as acções dos Estados-membros e, eventualmente, da Comunidade, tendo em vista a realização de projectos de interesse comum que assegurem a coerência, a interconexão e a interoperabilidade da rede transeuropeia de transportes, assim como o acesso a essa rede. Esses projectos constituem um objectivo comum cuja realização depende do seu grau de maturidade e da disponibilidade de recursos financeiros, sem condicionar a participação financeira de um Estado-membro ou da Comunidade. Estas orientações têm igualmente por objectivo facilitar a participação do sector privado.\n\n3. As exigências essenciais em matéria de:\n\n- interoperabilidade da rede transeuropeia de transportes,\n\n- telemática dos transportes e dos serviços associados,\n\nserão definidas nos termos do Tratado e noutro acto que não a presente decisão.\n\nArtigo 2º Objectivos\n\n1. A rede transeuropeia de transportes será progressivamente criada até ao ano 2010, à escala comunitária, integrando redes de infra-estruturas de transportes terrestres, marítimos e aéreos, de acordo com os planos descritos nos mapas do anexo I e/ou com as especificações previstas no anexo II.\n\n2. Essa rede deve:\n\na) Assegurar, num espaço sem fronteiras internas, uma mobilidade sustentável das pessoas e das mercadorias nas melhores condições sociais e de segurança possíveis, concorrendo simultaneamente para a realização dos objectivos comunitários, nomeadamente em matéria de ambiente e de concorrência, bem como contribuir para o reforço da coesão económica e social;\n\nb) Oferecer aos utentes infra-estruturas de grande qualidade em condições económicas aceitáveis;\n\nc) Incluir todos os modos de transporte, tendo em conta as vantagens comparativas;\n\nd) Permitir a melhor utilização possível das capacidades existentes;\n\ne) Ser, na medida do possível, interoperável dentro dos modos de transporte e favorecer a intermodalidade entre os diferentes modos de transporte;\n\nf) Ser economicamente viável, na medida do possível;\n\ng) Cobrir a totalidade do território dos Estados-membros da Comunidade, por forma a facilitar o acesso em geral, a ligar as regiões insulares ou periféricas e as regiões enclavadas às regiões centrais e a unir entre si as grandes zonas urbanas e as regiões da Comunidade, sem pontos de estrangulamento;\n\nh) Poder ser ligada às redes dos Estados da Associação Europeia de Comércio Livre (EFTA), dos países da Europa Central e Oriental e dos países mediterrânicos, promovendo simultaneamente a interoperabilidade e o acesso a essas redes, na medida em que tal corresponda aos interesses da Comunidade.\n\nArtigo 3º Extensão da rede\n\n1. A rede transeuropeia de transportes compreenderá infra-estruturas de transporte e sistemas de gestão do tráfego, bem como sistemas de determinação da posição e de navegação.\n\n2. As infra-estruturas de transportes incluem redes de estradas, de vias férreas e de vias navegáveis, portos de navegação marítima e interior, aeroportos e outros pontos de interconexão.\n\n3. Os sistemas de gestão do tráfego e os sistemas de determinação da posição e de navegação abrangem as instalações técnicas, informáticas e de telecomunicações necessárias para assegurar o funcionamento harmonioso da rede e a gestão eficaz do tráfego.\n\nArtigo 4º Grandes linhas de acção\n\nAs grandes linhas de acção da Comunidade incidem sobre os seguintes aspectos:\n\na) Criação e revisão dos planos-directores da rede;\n\nb) Identificação de projectos de interesse comum;\n\nc) Modernização da rede existente;\n\nd) Promoção da interoperabilidade da rede;\n\ne) Combinação optimizada dos modos de transporte, também pela via da criação de centros de interconexão que se deverão situar, para a carga, na medida do possível, fora dos centros das cidades, por forma a permitir um funcionamento eficaz da intermodalidade;\n\nf) Procura da coerência e complementaridade das intervenções financeiras, na observância das regras aplicáveis a cada instrumento financeiro;\n\ng) Acções de investigação e desenvolvimento;\n\nh) Cooperação e celebração de acordos com os países terceiros abrangidos pelo desenvolvimento da rede;\n\ni) Incentivo dos Estados-membros e das organizações internacionais a favorecerem os objectivos da Comunidade;\n\nj) Promoção de uma cooperação constante entre as partes interessadas;\n\nk) Todas as acções que se revelem necessárias para alcançar os objectivos referidos no artigo 2º\n\nArtigo 5º Prioridades\n\nTendo em conta os objectivos enunciados no artigo 2º, as prioridades de acção serão as seguintes:\n\na) Criação e desenvolvimento de ligações, nós e interconexões que permitam eliminar os pontos de estrangulamento, concluir os troços que faltam e completar os grandes eixos;\n\nb) Criação e desenvolvimento das infra-estruturas de acesso à rede para ligar as regiões insulares, enclavadas e periféricas às regiões centrais da Comunidade;\n\nc) Combinação e integração optimizadas dos diferentes modos de transporte;\n\nd) Integração da dimensão ambiental na concretização e no desenvolvimento da rede;\n\ne) Realização progressiva da interoperabilidade dos elementos da rede;\n\nf) Optimização das capacidades e da eficácia das infra-estruturas existentes;\n\ng) Criação e adaptação dos nós de interconexão e das plataformas intermodais;\n\nh) Melhoria da segurança e da fiabilidade da rede;\n\ni) Desenvolvimento e instalação de sistemas de gestão e de controlo do tráfego na rede e de informação dos utentes de modo a optimizar a utilização das infra-estruturas;\n\nj) Realização de estudos que contribuam para uma melhor concepção e implementação da rede transeuropeia de transportes.\n\nArtigo 6º Redes de países terceiros\n\nA promoção pela Comunidade de projectos de interesse comum, da interconexão e da interoperabilidade das redes, a fim de garantir a compatibilidade entre as redes de países terceiros e a rede transeuropeia de transportes será decidida caso a caso, segundo os procedimentos adequados do Tratado.\n\nArtigo 7º Projectos de interesse comum\n\n1. No respeito pelas regras do Tratado, designadamente em matéria de concorrência, serão considerados de interesse comum todos os projectos que:\n\n- tenham em vista os objectivos enunciados no artigo 2º,\n\n- digam respeito à rede descrita no artigo 3º,\n\n- correspondam às prioridades enumeradas no artigo 5º, e\n\n- apresentem uma viabilidade económica potencial com base em análises dos custos e benefícios socioeconómicos.\n\n2. Todos os projectos devem referir-se a um elemento da rede descrito nos artigos 9º a 17º, e, em especial:\n\n- referir-se às ligações identificadas nos mapas do anexo I, e/ou\n\n- corresponder às especificações ou critérios do anexo II.\n\n3. Os Estados-membros tomarão todas as medidas que considerarem necessárias no âmbito dos princípios previstos no nº 2 do artigo 1º\n\nArtigo 8º Protecção do ambiente\n\n1. Ao desenvolverem e realizarem os projectos, os Estados-membros deverão ter em conta a protecção do ambiente, efectuando avaliações do impacto no ambiente dos projectos de interesse comum a implementar, nos termos da Directiva 85/337/CEE do Conselho, de 27 de Julho de 1985, relativa à avaliação dos efeitos de determinados projectos públicos e privados no ambiente, e aplicando a Directiva 92/43/CEE do Conselho, de 21 de Maio de 1992, relativa à preservação dos habitats naturais e da fauna e da flora selvagens.\n\n2. A Comissão:\n\na) Desenvolverá métodos adequados de análise tendo em vista uma avaliação estratégica do impacto de toda a rede no ambiente;\n\nb) Desenvolverá métodos adequados de análise dos corredores que abranjam todos os métodos de transporte em causa, sem prejuízo da determinação dos próprios corredores. Para a elaboração do conceito de corredor, será conveniente ter em conta a necessidade de ligar o conjunto dos Estados-membros e das regiões à rede transeuropeia de transportes e, em especial, a necessidade de ligar as regiões insulares, enclavadas e periféricas às regiões centrais da Comunidade.\n\nNa medida do necessário, a Comissão tomará em consideração o resultado desses trabalhos no seu relatório sobre as orientações previsto no artigo 21º, tendo em vista realizar os objectivos enunciados no artigo 2º"
+  },
+  "3b6145e355fadaab": {
+   "fragment_id": "SECÇÃO 2 REDE RODOVIÁRIA — Artigo 9º Características",
+   "type": "divisao",
+   "heading": "SECÇÃO 2 REDE RODOVIÁRIA — Artigo 9º Características",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 2 REDE RODOVIÁRIA — Artigo 9º Características\n\n1. A rede rodoviária transeuropeia será formada por auto-estradas e estradas de grande qualidade, existentes, novas ou a adaptar, que:\n\n- desempenhem um papel importante no tráfego de longa distância, ou\n\n- permitam contornar os principais nós urbanos, nos eixos identificados pela rede, ou\n\n- assegurem a interconexão com os outros modos de transporte, ou\n\n- permitam ligar as regiões enclavadas e periféricas às regiões centrais da Comunidade.\n\n2. A rede garantirá aos utentes um nível de serviços, de conforto e de segurança elevado, homogéneo e constante.\n\n3. A rede compreenderá a infra-estrutura de gestão do trânsito e de informação dos utentes e apoiar-se-á numa cooperação activa dos sistemas de gestão da circulação à escala europeia, nacional e regional."
+  },
+  "43e315da7d8b8a59": {
+   "fragment_id": "SECÇÃO 3 REDE FERROVIÁRIA — Artigo 10º Características",
+   "type": "divisao",
+   "heading": "SECÇÃO 3 REDE FERROVIÁRIA — Artigo 10º Características",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 3 REDE FERROVIÁRIA — Artigo 10º Características\n\n1. A rede ferroviária será composta pela rede ferroviária de alta velocidade e pela rede ferroviária convencional.\n\n2. A rede ferroviária de alta velocidade será composta por:\n\n- linhas especialmente construídas para a alta velocidade, equipadas para velocidades geralmente iguais ou superiores a 250 km/h, recorrendo a tecnologias actuais ou novas,\n\n- linhas especialmente adaptadas para a alta velocidade, equipadas para velocidades da ordem dos 200 km/h,\n\n- linhas especialmente adaptadas para a alta velocidade, de carácter específico devido a condicionalismos topográficos, relacionados com o relevo ou com o ambiente urbano, cuja velocidade deverá ser adaptada caso a caso.\n\nEssa rede será definida pelas linhas referidas no anexo I como linhas de alta velocidade ou linhas adaptadas para a alta velocidade.\n\n3. A rede ferroviária convencional será composta por linhas destinadas ao transporte ferroviário convencional, incluindo as ligações ferroviárias do transporte combinado referidas no artigo 14º\n\n4. A rede:\n\n- desempenhará um papel importante no tráfego ferroviário de longa distância de mercadorias e passageiros,\n\n- desempenhará um papel importante na exploração do transporte combinado de longa distância,\n\n- permitirá a interconexão com as redes dos outros modos de transporte e o acesso às redes ferroviárias regionais e locais.\n\n5. Esta rede oferecerá aos utentes um elevado nível de qualidade e de segurança, graças à sua continuidade e à criação progressiva da sua interoperabilidade, nomeadamente através da harmonização técnica e de um sistema harmonizado de controlo e comando."
+  },
+  "2b5fa86df83cfee2": {
+   "fragment_id": "SECÇÃO 4 REDE DE VIAS NAVEGÁVEIS E PORTOS DE NAVEGAÇÃO INTERIOR — Artigo 11º Características",
+   "type": "divisao",
+   "heading": "SECÇÃO 4 REDE DE VIAS NAVEGÁVEIS E PORTOS DE NAVEGAÇÃO INTERIOR — Artigo 11º Características",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 4 REDE DE VIAS NAVEGÁVEIS E PORTOS DE NAVEGAÇÃO INTERIOR — Artigo 11º Características\n\n1. A rede transeuropeia de vias navegáveis será constituída por rios e canais, bem como por diferentes intercepções e ramificações que assegurarão a respectiva ligação. Essa rede permitirá nomeadamente a interconexão entre as regiões industriais e as aglomerações importantes e a sua ligação aos portos.\n\n2. As características técnicas mínimas estabelecidas para as vias que farão parte da rede serão as correspondentes à classe IV, que permite a passagem de uma embarcação ou de um comboio empurrado de 80 a 85 m de comprimento e 9,50 m de largura. Se se modernizar ou criar uma via navegável integrada nesta rede, as suas especificações técnicas deverão corresponder pelo menos às da classe IV e permitir atingir posteriormente a classe Va/Vb, possibilitando ainda a passagem, de forma satisfatória, das embarcações utilizadas no transporte combinado. As características da classe Va permitem a passagem de uma embarcação ou de um comboio empurrado de 110 m de comprimento e 11,40 m de largura, e as da classe Vb a de um comboio empurrado de 172 a 185 m de comprimento e de 11,40 m de largura.\n\n3. Os portos de navegação interior, nomeadamente enquanto pontos de interconexão entre as vias navegáveis referidas no nº 2 e os outros modos de transporte, constituirão um elemento da rede.\n\n4. A rede compreenderá a infra-estrutura de gestão do tráfego."
+  },
+  "c73ab651a08f5131": {
+   "fragment_id": "SECÇÃO 5 PORTOS MARÍTIMOS — Artigo 12º Características",
+   "type": "divisao",
+   "heading": "SECÇÃO 5 PORTOS MARÍTIMOS — Artigo 12º Características",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 5 PORTOS MARÍTIMOS — Artigo 12º Características\n\nOs portos marítimos permitirão o desenvolvimento do transporte marítimo e constituirão os pontos de ligação marítima com as ilhas e de interconexão entre o transporte marítimo e os outros modos de transporte; fornecerão equipamentos e serviços aos operadores de transporte. As suas infra-estruturas oferecerão uma série de serviços para o transporte de passageiros e de mercadorias, compreendendo serviços de ferry, de navegação de curta e longa distância, abrangendo a navegação costeira no interior da Comunidade e entre esta e países terceiros."
+  },
+  "59a29885dd334b23": {
+   "fragment_id": "SECÇÃO 6 AEROPORTOS — Artigo 13º Características",
+   "type": "divisao",
+   "heading": "SECÇÃO 6 AEROPORTOS — Artigo 13º Características",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 6 AEROPORTOS — Artigo 13º Características\n\n1. A rede transeuropeia de aeroportos será constituída pelos aeroportos situados no território da Comunidade e abertos ao tráfego aéreo comercial que respeitem as especificações do anexo II. Esses aeroportos serão designados de forma diferente, consoante o nível e o tipo de tráfego que assegurem e de acordo com as funções que desempenhem dentro da rede. Estes aeroportos permitirão o desenvolvimento de ligações aéreas e a interconexão do transporte aéreo com os outros modos de transporte.\n\n2. Os pontos de conexão internacionais e os pontos de conexão comunitários constituirão o núcleo da rede transeuropeia de aeroportos. As ligações entre a Comunidade e o resto do mundo serão asseguradas na maior parte dos casos pelos pontos de conexão internacionais. Os pontos de conexão comunitários assegurarão essencialmente ligações no interior da Comunidade, sendo as ligações extra-comunitárias uma parte ainda secundária da sua actividade. Os pontos de conexão regionais e de acesso facilitarão o acesso ao núcleo da rede ou contribuirão para desenclavar as regiões periféricas e isoladas."
+  },
+  "7ba4aaaa616a3cdb": {
+   "fragment_id": "SECÇÃO 7 REDE DE TRANSPORTE COMBINADO — Artigo 14º Características",
+   "type": "divisao",
+   "heading": "SECÇÃO 7 REDE DE TRANSPORTE COMBINADO — Artigo 14º Características",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 7 REDE DE TRANSPORTE COMBINADO — Artigo 14º Características\n\nA rede transeuropeia de transporte combinado incluirá:\n\n- vias férreas e navegáveis adequadas ao transporte combinado e a via marítima que, em ligação com eventuais percursos rodoviários iniciais e/ou terminais, permitirão transportar mercadorias a longa distância,\n\n- as instalações que permitam o transbordo entre vias férreas, vias navegáveis, vias marítimas e estradas,\n\n- provisoriamente, o material circulante adequado, quando as características da infra-estrutura, ainda não adaptadas, o exigirem."
+  },
+  "ad6d816c87c1d62e": {
+   "fragment_id": "SECÇÃO 8 REDE DE GESTÃO E DE INFORMAÇÃO DO TRÁFEGO MARÍTIMO — Artigo 15º Características",
+   "type": "divisao",
+   "heading": "SECÇÃO 8 REDE DE GESTÃO E DE INFORMAÇÃO DO TRÁFEGO MARÍTIMO — Artigo 15º Características",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 8 REDE DE GESTÃO E DE INFORMAÇÃO DO TRÁFEGO MARÍTIMO — Artigo 15º Características\n\nA rede transeuropeia de gestão e de informação do tráfego marítimo será constituída pelos:\n\n- sistemas de gestão do tráfego marítimo costeiro ou portuário,\n\n- sistemas de determinação da posição dos navios,\n\n- sistemas de comunicação da situação de navios que transportem mercadorias perigosas ou poluentes,\n\n- sistemas de comunicações de socorro e de segurança marítima,\n\npara garantir um nível elevado de segurança e de eficácia do tráfego marítimo e de protecção do ambiente nas zonas marítimas dependentes dos Estados-membros da Comunidade."
+  },
+  "0c10d778097658e7": {
+   "fragment_id": "SECÇÃO 9 REDE DE GESTÃO DO TRÁFEGO AÉREO — Artigo 16º Características",
+   "type": "divisao",
+   "heading": "SECÇÃO 9 REDE DE GESTÃO DO TRÁFEGO AÉREO — Artigo 16º Características",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 9 REDE DE GESTÃO DO TRÁFEGO AÉREO — Artigo 16º Características\n\nA rede transeuropeia de gestão do tráfego aéreo incluirá o espaço aéreo destinado ao tráfego aéreo em geral, as rotas aéreas, os instrumentos de navegação aérea, os sistemas de planeamento e de gestão dos fluxos de tráfego e o sistema de controlo do tráfego aéreo (centros de controlo, meios de vigilância e comunicação) necessários ao escoamento seguro e eficaz do tráfego aéreo no espaço aéreo europeu."
+  },
+  "b9e07f23d3793529": {
+   "fragment_id": "SECÇÃO 10 REDE DE DETERMINAÇÃO DA POSIÇÃO E DE NAVEGAÇÃO — Artigo 17º Características",
+   "type": "divisao",
+   "heading": "SECÇÃO 10 REDE DE DETERMINAÇÃO DA POSIÇÃO E DE NAVEGAÇÃO — Artigo 17º Características",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 10 REDE DE DETERMINAÇÃO DA POSIÇÃO E DE NAVEGAÇÃO — Artigo 17º Características\n\nA rede transeuropeia de sistemas de determinação da posição e de navegação incluirá os sistemas de determinação da posição e de navegação por satélite, assim como os sistemas definidos no futuro plano europeu de radionavegação. Esses sistemas proporcionarão um serviço de determinação da posição e de navegação que poderá ser utilizado por todos os modos de transporte de forma fiável e eficaz."
+  },
+  "8c0449b20c15093b": {
+   "fragment_id": "SECÇÃO 11 DISPOSIÇÕES COMUNS — Artigo 18º Comité para a troca de informações e relatório",
+   "type": "divisao",
+   "heading": "SECÇÃO 11 DISPOSIÇÕES COMUNS — Artigo 18º Comité para a troca de informações e relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 11 DISPOSIÇÕES COMUNS — Artigo 18º Comité para a troca de informações e relatório\n\n1. Os Estados-membros comunicarão regularmente à Comissão os planos e programas nacionais que tenham elaborado para o desenvolvimento da rede transeuropeia de transportes, nomeadamente em relação aos projectos de interesse comum identificados na presente decisão.\n\n2. É instituído junto da Comissão um «Comité da rede transeuropeia de transportes», adiante designado «Comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão. Esse Comité procederá à troca de informações sobre os planos e programas comunicados pelos Estados-membros e sobre qualquer questão relativa ao desenvolvimento da rede transeuropeia de transportes.\n\n3. A Comissão apresentará ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social e ao Comité das Regiões um relatório bienal sobre a aplicação das orientações definidas na presente decisão.\n\nNa elaboração deste relatório, a Comissão será assistida pelo Comité a que se refere o nº 2.\n\nArtigo 19º Projectos específicos\n\nNo anexo III figuram, a título indicativo, os projectos identificados nos anexos I e II e nas outras disposições da presente decisão, aos quais o Conselho Europeu de Essen atribuiu especial importância.\n\nArtigo 20º Transporte multimodal e gestão do tráfego\n\nEntre os projectos de interesse comum constantes dos anexos I e II, será prestada especial atenção aos que se referem ao transporte multimodal e às novas tecnologias de gestão do tráfego, na perspectiva da realização da rede.\n\nArtigo 21º Revisão das orientações\n\n1. A Comissão apresentará ao Parlamento Europeu e ao Conselho, de cinco em cinco anos após a entrada em vigor da presente decisão e pela primeira vez antes de 1 de Julho de 1999, um relatório sobre a eventual necessidade de adaptação das orientações à evolução da economia e das tecnologias em matéria de transportes, nomeadamente de transportes ferroviários.\n\nNa elaboração desse relatório, a Comissão será assistida pelo Comité referido no artigo 18º\n\n2. Na sequência do relatório referido no nº 1, a Comissão apresentará, se necessário, as propostas adequadas.\n\nArtigo 22º Revogação\n\nÉ revogada a Decisão 78/174/CEE do Conselho, de 20 de Fevereiro de 1978, que institui um processo de consulta e cria um comité em matéria de infra-estrutura de transportes (7)."
+  },
+  "ad5f37554441ce0e": {
+   "fragment_id": "Artigo 23º",
+   "type": "artigo",
+   "heading": "Artigo 23º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23º\n\nA presente decisão entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "e694f407b8349285": {
+   "fragment_id": "Artigo 24º",
+   "type": "artigo",
+   "heading": "Artigo 24º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24º\n\nOs Estados-membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 23 de Julho de 1996.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nK. HÄNSCH\n\nPelo Conselho\n\nO Presidente\n\nM. LOWRY\n\n(1) JO nº C 220 de 8. 8. 1994, p. 1 e JO nº C 97 de 20. 4. 1995, p. 1.\n\n(2) JO nº C 397 de 31. 12. 1994, p. 23.\n\n(3) JO nº C 210 de 14. 8. 1995, p. 34.\n\n(4) Parecer do Parlamento Europeu de 18 de Maio de 1995 (JO nº C 151 de 19. 6. 1995, p. 234), posição comum do Conselho de 28 de Setembro de 1995 (JO nº C 331 de 8. 12. 1995, p. 1) e decisão do Parlamento Europeu de 13 de Dezembro de 1995 (JO nº C 17 de 22. 1. 1996, p. 58). Decisão do Conselho de 15 de Julho de 1996 e decisão do Parlamento Europeu de 17 de Julho de 1996 (ainda não publicada no Jornal Oficial).\n\n(5) JO nº L 175 de 5. 7. 1985, p. 40.\n\n(6) JO nº L 206 de 22. 7. 1992, p. 7.\n\n(7) JO nº L 54 de 25. 2. 1978, p. 16."
+  },
+  "12132be58a3e4606": {
+   "fragment_id": "ANEXO I — PLANOS DAS REDES ILUSTRADOS COM MAPAS (1*)",
+   "type": "divisao",
+   "heading": "ANEXO I — PLANOS DAS REDES ILUSTRADOS COM MAPAS (1*)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — PLANOS DAS REDES ILUSTRADOS COM MAPAS (1*)"
+  },
+  "b405ccb169bea7a5": {
+   "fragment_id": "Secção 2: Rede rodoviária",
+   "type": "divisao",
+   "heading": "Secção 2: Rede rodoviária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 2: Rede rodoviária\n\n2.0. Europa\n\n2.1. Bélgica/Luxemburgo\n\n2.2. Dinamarca\n\n2.3. Alemanha\n\n2.4. Grécia\n\n2.5. Espanha\n\n2.6. França\n\n2.7. Irlanda\n\n2.8. Itália\n\n2.9. Países Baixos\n\n2.10. Áustria\n\n2.11. Portugal\n\n2.12. Finlândia\n\n2.13. Suécia\n\n2.14. Reino Unido"
+  },
+  "c77d37a40df2190e": {
+   "fragment_id": "Secção 3: Rede ferroviária",
+   "type": "divisao",
+   "heading": "Secção 3: Rede ferroviária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 3: Rede ferroviária\n\n3.0. Europa\n\n3.1. Bélgica\n\n3.2. Dinamarca\n\n3.3. Alemanha\n\n3.4. Grécia\n\n3.5. Espanha\n\n3.6. França\n\n3.7. Irlanda\n\n3.8. Itália\n\n3.9. Luxemburgo\n\n3.10. Países Baixos\n\n3.11. Áustria\n\n3.12. Portugal\n\n3.13. Finlândia\n\n3.14. Suécia\n\n3.15. Reino Unido"
+  },
+  "7e8a532b4f346682": {
+   "fragment_id": "Secção 4: Rede de vias navegáveis",
+   "type": "divisao",
+   "heading": "Secção 4: Rede de vias navegáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 4: Rede de vias navegáveis\n\n4. Europa"
+  },
+  "e4696ecdb63cc29b": {
+   "fragment_id": "Secção 5: Portos marítimos",
+   "type": "divisao",
+   "heading": "Secção 5: Portos marítimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 5: Portos marítimos\n\nOs projectos de interesse comum relativos aos portos marítimos estão identificados na presente decisão pelos critérios que figuram no anexo II e podem situar-se em qualquer porto de um Estado-membro da Comunidade. Dada a impossibilidade de reproduzir o conjunto dos portos num mapa, o presente anexo I não contém nenhum mapa de portos marítimos."
+  },
+  "200e4270a6054de0": {
+   "fragment_id": "Secção 6: Aeroportos",
+   "type": "divisao",
+   "heading": "Secção 6: Aeroportos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 6: Aeroportos\n\n6.0. Europa\n\n6.1. Bélgica/Dinamarca/Alemanha/Luxemburgo/ Países Baixos/Áustria\n\n6.2. Grécia\n\n6.3. Espanha/Portugal\n\n6.4. França\n\n6.5. Irlanda/Reino Unido\n\n6.6. Itália\n\n6.7. Finlândia/Suécia"
+  },
+  "27ebabdece6eb3b8": {
+   "fragment_id": "Secção 7: Rede de transporte combinado",
+   "type": "divisao",
+   "heading": "Secção 7: Rede de transporte combinado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 7: Rede de transporte combinado\n\n7.1. A. Caminho-de-ferro\n\nB. Caminho-de-ferro (escala maior)\n\n7.2. Vias navegáveis\n\nNB: O termo «planeado» nas legendas dos mapas abrange todas as fases de um projecto de infra-estruturas de interesse comum, desde os primeiros estudos até à construção."
+  },
+  "d8bd19848d53c31c": {
+   "fragment_id": "SECÇÃO 2 REDE RODOVIÁRIA — >REFERÊNCIA A UMA IMAGEN>",
+   "type": "divisao",
+   "heading": "SECÇÃO 2 REDE RODOVIÁRIA — >REFERÊNCIA A UMA IMAGEN>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 2 REDE RODOVIÁRIA — >REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>"
+  },
+  "2fb10604dd8498a9": {
+   "fragment_id": "SECÇÃO 3 REDE FERROVIÁRIA — >REFERÊNCIA A UMA IMAGEN>",
+   "type": "divisao",
+   "heading": "SECÇÃO 3 REDE FERROVIÁRIA — >REFERÊNCIA A UMA IMAGEN>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 3 REDE FERROVIÁRIA — >REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>"
+  },
+  "ff01ed98569c38f0": {
+   "fragment_id": "SECÇÃO 4 REDE DE VIAS NAVEGÁVEIS — >REFERÊNCIA A UMA IMAGEN>",
+   "type": "divisao",
+   "heading": "SECÇÃO 4 REDE DE VIAS NAVEGÁVEIS — >REFERÊNCIA A UMA IMAGEN>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 4 REDE DE VIAS NAVEGÁVEIS — >REFERÊNCIA A UMA IMAGEN>"
+  },
+  "5beffac195d2c6fb": {
+   "fragment_id": "SECÇÃO 6 AEROPORTOS — >REFERÊNCIA A UMA IMAGEN>",
+   "type": "divisao",
+   "heading": "SECÇÃO 6 AEROPORTOS — >REFERÊNCIA A UMA IMAGEN>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 6 AEROPORTOS — >REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>"
+  },
+  "10cd1d31df8b6f24": {
+   "fragment_id": "SECÇÃO 7 REDE DE TRANSPORTE COMBINADO — >REFERÊNCIA A UMA IMAGEN>",
+   "type": "divisao",
+   "heading": "SECÇÃO 7 REDE DE TRANSPORTE COMBINADO — >REFERÊNCIA A UMA IMAGEN>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 7 REDE DE TRANSPORTE COMBINADO — >REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n(1*) Os mapas referem-se às secções correspondentes referidas no articulado e/ou no anexo II."
+  },
+  "ac7cf44410f9bde6": {
+   "fragment_id": "ANEXO II — CRITÉRIOS E ESPECIFICAÇÕES DOS PROJECTOS DE INTERESSE COMUM (1)",
+   "type": "divisao",
+   "heading": "ANEXO II — CRITÉRIOS E ESPECIFICAÇÕES DOS PROJECTOS DE INTERESSE COMUM (1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — CRITÉRIOS E ESPECIFICAÇÕES DOS PROJECTOS DE INTERESSE COMUM (1)"
+  },
+  "76668471323576cc": {
+   "fragment_id": "Secção 2: Rede rodoviária — Secção 3: Rede ferroviária",
+   "type": "divisao",
+   "heading": "Secção 2: Rede rodoviária — Secção 3: Rede ferroviária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 2: Rede rodoviária — Secção 3: Rede ferroviária"
+  },
+  "2e177f5825546528": {
+   "fragment_id": "Secção 4: Rede de vias navegáveis e portos de navegação interior — Secção 5: Portos marítimos",
+   "type": "divisao",
+   "heading": "Secção 4: Rede de vias navegáveis e portos de navegação interior — Secção 5: Portos marítimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 4: Rede de vias navegáveis e portos de navegação interior — Secção 5: Portos marítimos"
+  },
+  "e162b25bc31b6e65": {
+   "fragment_id": "Secção 6: Aeroportos — Secção 7: Rede de transporte combinado",
+   "type": "divisao",
+   "heading": "Secção 6: Aeroportos — Secção 7: Rede de transporte combinado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 6: Aeroportos — Secção 7: Rede de transporte combinado"
+  },
+  "f1c882d10a452187": {
+   "fragment_id": "Secção 8: Rede de gestão e de informação do tráfego marítimo — Secção 9: Rede de gestão do tráfego aéreo",
+   "type": "divisao",
+   "heading": "Secção 8: Rede de gestão e de informação do tráfego marítimo — Secção 9: Rede de gestão do tráfego aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 8: Rede de gestão e de informação do tráfego marítimo — Secção 9: Rede de gestão do tráfego aéreo"
+  },
+  "6c700d8b40de9e1d": {
+   "fragment_id": "Secção 10: Rede de determinação da posição e de navegação — Secção 2 Rede rodoviária",
+   "type": "divisao",
+   "heading": "Secção 10: Rede de determinação da posição e de navegação — Secção 2 Rede rodoviária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 10: Rede de determinação da posição e de navegação — Secção 2 Rede rodoviária\n\nPara além dos projectos relativos às ligações que constam do anexo I, considera-se de interesse comum qualquer projecto de infra-estrutura relativo a essas ligações que incida sobre:\n\nA. O desenvolvimento da rede, em especial:\n\n- o alargamento de auto-estradas ou a adaptação de estradas de grande qualidade,\n\n- a construção ou a adaptação de cinturas urbanas ou peri-urbanas,\n\n- o reforço da interoperabilidade das redes nacionais.\n\nB. O desenvolvimento dos sistemas de gestão do tráfego e de informação dos utentes, em especial:\n\n- a criação de infra-estruturas telemáticas de recolha de dados sobre o tráfego,\n\n- o desenvolvimento dos centros de informação sobre o tráfego e dos centros de controlo do tráfego, incluindo o intercâmbio de dados entre centros de informação sobre tráfego de países diferentes,\n\n- a criação de serviços de informação rodoviária, nomeadamente RDS-TMC, (2)\n\n- a interoperabilidade técnica das infra-estruturas telemáticas."
+  },
+  "164bc99907119651": {
+   "fragment_id": "Secção 3 Rede ferroviária",
+   "type": "divisao",
+   "heading": "Secção 3 Rede ferroviária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 3 Rede ferroviária\n\nPara além dos projectos relativos às ligações que constam do anexo I, considera-se de interesse comum qualquer projecto de infra-estrutura relativo a essas ligações que incida sobre:\n\n- a interoperabilidade dos sistemas ferroviários transeuropeus,\n\n- a interconexão com as redes dos outros modos de transporte."
+  },
+  "6b4130a177805bf0": {
+   "fragment_id": "Secção 4 Rede de vias navegáveis e portos de navegação interior — Portos de navegação interior",
+   "type": "divisao",
+   "heading": "Secção 4 Rede de vias navegáveis e portos de navegação interior — Portos de navegação interior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 4 Rede de vias navegáveis e portos de navegação interior — Portos de navegação interior\n\nPara além dos projectos relativos às ligações incluídas no anexo I, considera-se de interesse comum qualquer projecto de infra-estrutura que incida sobre:\n\nA. Os portos de navegação interior na acepção do nº 3 do artigo 11º que preencham os seguintes critérios:\n\n1. Estarem situados na rede de vias navegáveis, de acordo com o plano do anexo I.\n\n2. Estarem em interconexão com outras vias transeuropeias.\n\n3. Compreenderem instalações de transbordo, nomeadamente:\n\n- centros de transbordo,\n\n- terminais de contentores,\n\n- roll-on/roll-off.\n\nB. Categorias de projectos:\n\n1. Acesso fluvial do porto.\n\n2. Infra-estrutura portuária dentro da zona portuária.\n\n3. Outras infra-estruturas de transporte dentro da zona portuária.\n\n4. Outras infra-estruturas de transporte de ligação do porto aos vários elementos da rede transeuropeia de transporte.\n\nGestão do tráfego\n\nConsidera-se de interesse comum qualquer projecto de infra-estrutura que incida, nomeadamente, sobre:\n\n- sistemas de sinalização e orientação de navios, designadamente os que transportam mercadorias perigosas ou poluentes,\n\n- sistemas de comunicação para situações de perigo e para a segurança nas vias navegáveis."
+  },
+  "8f6fb0dedf4e1686": {
+   "fragment_id": "Secção 5 Portos marítimos",
+   "type": "divisao",
+   "heading": "Secção 5 Portos marítimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 5 Portos marítimos\n\n1. Categorias de projectos portuários e conexos de interesse comum\n\nOs projectos de infra-estrutura portuária ou conexa devem enquadrar-se numa ou em várias das seguintes categorias:\n\nA. Acessos marítimos ou fluviais aos portos, incluindo as despesas de equipamento respeitantes à realização de trabalhos de quebra de gelo no Inverno.\n\nB. Infra-estrutura portuária dentro da zona portuária.\n\nC. Infra-estruturas de transporte terrestre dentro da zona portuária.\n\nD. Infra-estruturas de transporte terrestre de ligação do porto aos vários elementos da rede transeuropeia de transporte.\n\n2. Objectivos dos projectos\n\nOs projectos de infra-estrutura portuária e conexos de interesse comum deverão ter como objectivo único ou comum:\n\n- facilitar o desenvolvimento do comércio intracomunitário e do comércio entre a Comunidade e o resto do mundo,\n\n- contribuir para a mobilidade, ajudando a descongestionar os corredores terrestres com maior densidade de tráfego e a reduzir os custos externos dos transportes europeus, aumentando, por exemplo, a parte marítima do tráfego total, principalmente pela promoção da navegação costeira,\n\n- melhorar o acesso e reforçar a coesão económica e social da Comunidade Europeia, favorecendo o desenvolvimento das ligações marítimas intracomunitárias e prestando especial atenção às regiões insulares e periféricas da Comunidade,\n\n- permitir um acesso permanente aos portos do mar Báltico situados aproximadamente a 60 ° de latitude norte ou a uma latitude superior, que em geral se encontram bloqueados pelo gelo durante o Inverno.\n\n3. Condições específicas a preencher\n\nOs projectos devem contribuir para:\n\n- integrar o tráfego numa rede transeuropeia de transportes ou numa cadeia de transporte multimodal,\n\nou\n\n- desenvolver a utilização de modos de transporte não poluentes."
+  },
+  "0bb8e2f531194fb7": {
+   "fragment_id": "Secção 6 Aeroportos — I. Critérios de selecção dos aeroportos de interesse comum",
+   "type": "divisao",
+   "heading": "Secção 6 Aeroportos — I. Critérios de selecção dos aeroportos de interesse comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 6 Aeroportos — I. Critérios de selecção dos aeroportos de interesse comum\n\nOs aeroportos de interesse comum devem corresponder aos critérios de um dos seguintes pontos de conexão:\n\n1. Os pontos de conexão internacionais incluirão:\n\n- qualquer aeroporto ou sistema (3) de aeroportos,\n\n- cujo movimento anual seja igual ou superior a 5 000 000 de passageiros menos 10 %, ou\n\n- cujo movimento anual seja igual ou superior a 100 000 aviões comerciais, ou\n\n- cujo volume anual de carga seja igual ou superior a 150 000 toneladas, ou\n\n- cujo movimento anual seja igual ou superior a 1 000 000 de passageiros extracomunitários\n\nou\n\n- qualquer novo aeroporto criado para substituir um ponto de conexão internacional existente que não possa continuar a expandir-se no mesmo local.\n\n2. Os pontos de conexão comunitários incluirão:\n\n- todos os aeroportos ou sistema de aeroportos\n\n- cujo volume anual esteja compreendido entre 1 000 000 menos 10 % e 4 499 999 passageiros ou\n\n- cujo volume anual de carga esteja compreendido entre 50 000 e 149 999 toneladas, ou\n\n- cujo volume anual esteja compreendido entre 500 000 e 899 999 passageiros com, pelo menos, 30 % de tráfego não nacional, ou\n\n- cujo volume anual esteja compreendido entre 300 000 e 899 999 passageiros e situado no exterior do continente europeu a mais de 500 km do ponto de conexão internacional mais próximo,\n\nou\n\n- qualquer novo aeroporto criado para substituir um ponto de conexão comunitário existente que não possa continuar a expandir-se no mesmo local.\n\n3. Os pontos de conexão regionais e de acesso incluirão qualquer aeroporto:\n\n- cujo volume anual esteja compreendido entre 500 000 e 899 999 passageiros, com menos de 30 % de tráfego não nacional, ou\n\n- cujo volume anual esteja compreendido entre 250 000 menos 10 % e 499 999 passageiros, ou\n\n- cujo volume anual de carga esteja compreendido entre 10 000 e 49 999 toneladas, ou\n\n- que esteja situado numa ilha de um Estado-membro, ou\n\n- que esteja situado numa região enclavada da Comunidade e ofereça serviços comerciais com aviões cuja massa máxima na descolagem seja superior a 10 toneladas.\n\nUm aeroporto será considerado situado numa região enclavada se se encontrar a uma distância superior a 100 km em linha recta do ponto de conexão internacional ou comunitário mais próximo. Esta distância poderá ser reduzida excepcionalmente a 75 km se existirem dificuldades reais de acesso em consequência do relevo ou do estado das infra-estruturas de transporte terrestre.\n\nII. Especificações dos projectos de interesse comum relativos à rede de aeroportos\n\nSerá considerado de interesse comum qualquer projecto que corresponda às seguintes especificações:\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "0ed2e531022b0c10": {
+   "fragment_id": "Secção 7 Rede de transporte combinado",
+   "type": "divisao",
+   "heading": "Secção 7 Rede de transporte combinado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 7 Rede de transporte combinado\n\nPara além dos projectos respeitantes às ligações constantes do anexo I, considera-se de interesse comum qualquer projecto relativo a essas ligações que incida sobre:\n\n- a realização ou adaptação de infra-estruturas ferroviárias ou de vias navegáveis a fim de tornar tecnicamente possível e economicamente rentável o transporte de unidades de carga intermodais,\n\n- a realização ou adaptação de centros de transferência entre modos terrestres, incluindo a instalação de material de transbordo, fixo ou móvel,\n\n- a adaptação das zonas portuárias para desenvolver ou melhorar a transferência de contentores entre a via marítima e o caminho-de-ferro, as vias navegáveis ou a estrada,\n\n- o material de transporte ferroviário especialmente adaptado ao transporte combinado sempre que as características da infra-estrutura o exijam, nomeadamente do ponto de vista dos custos da eventual adaptação dessa infra-estrutura e sob reserva de a utilização do referido material ser associada à infra-estrutura em causa e de os operadores envolvidos poderem dela beneficiar de modo não discriminatório."
+  },
+  "46d69de90811dc73": {
+   "fragment_id": "Secção 8 Rede de gestão e de informação do tráfego marítimo",
+   "type": "divisao",
+   "heading": "Secção 8 Rede de gestão e de informação do tráfego marítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 8 Rede de gestão e de informação do tráfego marítimo\n\nSerá considerado de interesse comum qualquer projecto:\n\n- que se enquadre nos objectivos da política comunitária de segurança marítima,\n\nou\n\n- destinado a aplicar as convenções internacionais e resoluções da Organização marítima internacional (OMI) no domínio da segurança marítima, e respeitante:\n\n- à aplicação do sistema comunitário de notificação dos navios que se dirijam a portos da Comunidade ou que deles provenham, bem como ao tráfego ao largo das costas da Comunidade, através de um sistema electrónico de intercâmbio de dados, incluindo igualmente a transmissão de dados entre navios e instalações em terra, através de transpondedores; prestar-se-á especial atenção aos sistemas electrónicos de intercâmbio de informações IDI (intercâmbio de dados informatizados), incluindo interfaces compatíveis,\n\n- ao desenvolvimento e à melhoria das cadeias de radionavegação terrestres LORAN-C,\n\n- ao desenvolvimento ou à melhoria de sistemas costeiros e portuários de gestão e informação sobre o tráfego marítimo (STM) e à sua interconexão, tendo em vista um acompanhamento e uma gestão mais segura e eficaz do tráfego marítimo, em especial nas zonas de convergência de forte densidade de tráfego ou ambientalmente sensíveis,\n\n- ao desenvolvimento de instrumentos que permitam melhorar o conhecimento do tráfego: bases de dados sobre os fluxos de tráfego e acidentes marítimos, desenvolvimento do instrumento de análise dos fluxos de tráfego EPTO (European Permanent Traffic Observatory),\n\n- ao desenvolvimento de infra-estruturas e de equipamento destinados a contribuir para a aplicação do Sistema mundial de socorro e segurança marítima (GMDSS),\n\n- ao reforço dos sistemas telemáticos de intercâmbio de dados no âmbito do controlo dos navios pelo Estado do porto."
+  },
+  "adb606364b6fa4b8": {
+   "fragment_id": "Secção 9 Rede de gestão do tráfego aéreo",
+   "type": "divisao",
+   "heading": "Secção 9 Rede de gestão do tráfego aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 9 Rede de gestão do tráfego aéreo\n\nSerá considerado de interesse comum qualquer projecto que permita aumentar a capacidade do sistema e optimizar a sua utilização, que se inscreva numa lógica de harmonização e de integração dos meios e dos processos dos diferentes pontos de conexão nacionais e seja conforme com as normas internacionais aplicáveis definidas pela Organização da aviação civil internacional (OACI) e pelos organismos europeus competentes, tendo especialmente em conta os trabalhos da Organização europeia para a segurança da navegação aérea (EUROCONTROL).\n\nEsses projectos incidem sobre:\n\n- os estudos relativos a uma melhor utilização do espaço aéreo pelos vários utentes e à criação de um sistema de corredores aéreos coerente e eficaz,\n\n- a planificação e gestão dos fluxos de tráfego aéreo por forma a melhorar a adequação entre a oferta e a procura e a optimizar a utilização das capacidades de controlo disponíveis,\n\n- os estudos e trabalhos necessários à harmonização dos meios e procedimentos, de forma a integrar os vários prestadores de serviços, tendo nomeadamente em conta as orientações estabelecidas a nível da Conferência europeia da aviação civil (CEAC),\n\n- a melhoria da produtividade do sistema, graças, nomeadamente, à assistência automatizada ao controlo e a sistemas de detecção e de resolução de conflitos potenciais,\n\n- a contribuição para a instalação dos meios de comunicação, navegação e vigilância necessários ao controlo do tráfego aéreo, incluindo a promoção das novas tecnologias, nomeadamente os satélites e as redes de dados digitais, na medida em que tal permita a conformidade com as especificações europeias comuns."
+  },
+  "5b5fe479d12ad33b": {
+   "fragment_id": "Secção 10 Rede de determinação da posição e de navegação",
+   "type": "divisao",
+   "heading": "Secção 10 Rede de determinação da posição e de navegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 10 Rede de determinação da posição e de navegação\n\nSerá considerado de interesse comum qualquer projecto que diga respeito à criação de qualquer ponto de conexão do futuro plano europeu de radionavegação ou de um sistema global de determinação da posição e de navegação por satélite que se integre no seguinte quadro:\n\n- centro de controlo constituído por um sistema de tratamento e de controlo,\n\n- rede de estações terrestres de navegação,\n\n- segmento espacial constituído por satélites para a transmissão de sinais de navegação,\n\n- rede de estações de vigilância.\n\n(1) Estes critérios e especificações referem-se às secções correspondentes mencionadas no articulado e/ou no anexo I.\n\n(2) Sistema de mensagens digitais de circulação rodoviária baseado na rádio e que permite adaptar o fluxo geral de mensagens às necessidades de cada um dos utentes da estrada.\n\n(3) Sistema de aeroportos: JO nº L 240 de 24. 8. 1992, p. 14."
+  },
+  "22eeba84809299b8": {
+   "fragment_id": "ANEXO III — LISTA DOS CATORZE PROJECTOS APROVADOS PELO CONSELHO EUROPEU DE ESSEN EM 9/10 DE DEZEMBRO DE 1994",
+   "type": "divisao",
+   "heading": "ANEXO III — LISTA DOS CATORZE PROJECTOS APROVADOS PELO CONSELHO EUROPEU DE ESSEN EM 9/10 DE DEZEMBRO DE 1994",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — LISTA DOS CATORZE PROJECTOS APROVADOS PELO CONSELHO EUROPEU DE ESSEN EM 9/10 DE DEZEMBRO DE 1994\n\n1. Comboio de alta velocidade/transporte combinado Norte-Sul\n\nNuremberga-Erfurt-Halle/Leipzig-Berlim\n\nEixo de Brenner: Verona-Munique\n\n2. Comboio de alta velocidade (Paris)-Bruxelas-Colónia-Amesterdão-Londres\n\nBélgica: fronteira F/B-Bruxelas-Liège-fronteira B/D\n\nBruxelas-fronteira B/NL\n\nReino Unido: Londres-acesso ao túnel da Mancha\n\nPaíses Baixos: fronteira B/NL-Roterdão-Amesterdão\n\nAlemanha: (Aachen) G27 Colónia-Rhein/Main\n\n3. Comboio de alta velocidade Sul\n\nMadrid-Barcelona-Perpignan-Montpellier\n\nMadrid-Vitoria-Dax\n\n4. Comboio de alta velocidade Este\n\nParis-Metz-Estrasburgo-Appenweier-(Karlsruhe) com ligações a Metz-Saarbrücken-Mannheim e Metz-Luxemburgo\n\n5. Caminho-de-ferro clássico/transporte combinado: Linha de Betuwe\n\nRoterdão-fronteira NL/D-(Rhein/Ruhr)\n\n6. Comboio de alta velocidade/transporte combinado França-Itália\n\nLião-Turim\n\nTurim-Milão-Veneza-Trieste\n\n7. Auto-estradas gregas: Patra: Rio Antirio, Patras-Atenas-Salónica-Promahmon (fronteira greco-búlgara) e Via Egnatia: Igoumenitsa-Salónica-Alexandroupolis-Ormenio (fronteira greco-búlgara)-Kipi (fronteira greco-turca)\n\n8. Auto-estrada Lisboa-Valladolid\n\n9. Ligação ferroviária clássica Cork-Dublin-Belfast-Larne-Stranraer\n\n10. Aeroporto de Malpensa (Milão)\n\n11. Ligação ferroviária entre a Dinamarca e a Suécia (ligação permanente de Øresund) incluindo vias de acesso para os transportes rodoviários, ferroviários e aéreos\n\n12. Triângulo Nórdico (caminho-de-ferro/rodovia)\n\n13. Ligação rodoviária Irlanda/Reino Unido/Benelux\n\n14. Linha principal da Costa Ocidental (caminho-de-ferro)\n\nDECLARAÇÃO COMUM\n\nO Parlamento Europeu, o Conselho e a Comissão salientam a importância que atribuem ao estabelecimento e ao desenvolvimento coerente da rede transeuropeia de transportes, e congratulam-se com a adopção da presente decisão, que estabelece a referida rede, identifica designadamente os projectos de interesse comum e permite ultimar o quadro legislativo que se aplica à rede transeuropeia de transportes.\n\nO Parlamento Europeu, o Conselho e a Comissão registam que estes projectos contribuem para a realização dos objectivos constantes do artigo 2º, podendo designadamente dar um contributo essencial para a competitividade, a criação de emprego e a coesão da União, e satisfazem igualmente a necessidade de ligar as regiões insulares, encravadas e periféricas às regiões centrais da Comunidade. O Parlamento Europeu, o Conselho e a Comissão salientam, neste contexto, que o facto de esses projectos serem identificados pelos anexos I e II e pelo dispositivo da presente decisão torna-os elegíveis para uma contribuição financeira comunitária, susceptível de permitir que seja facilitada e acelerada a sua realização efectiva pelos Estados-membros em causa.\n\nO Parlamento Europeu, o Conselho e a Comissão convidam os Estados-membros a atribuírem a maior importância à realização destes projectos que são alvo da sua especial atenção. A Comissão compromete-se a manter os referidos Estados-membros periodicamente informados quanto à concretização desses projectos, inclusivamente através dos relatórios previstos nos artigos 18º e 21º\n\nO Parlamento Europeu, o Conselho e a Comissão tomam conhecimento dos projectos votados pelo Parlamento Europeu em segunda leitura na perspectiva do desenvolvimento da rede transeuropeia de transportes.\n\nDECLARAÇÕES DA COMISSÃO\n\n- Ad secção 5 do anexo I: portos marítimos\n\nApós consulta das partes interessadas e dos Estados-membros implicados, a Comissão apresentará em 1997 um relatório e, se necessário, uma proposta relativa aos projectos portuários, utilizando uma abordagem semelhante à seguida na secção 6 no tocante aos aeroportos.\n\n- Ad normas ambientais e rede de condutas\n\nA Comissão:\n\na) Continuará a estudar normas ambientais para cada modo de transporte;\n\nb) Estudará a possibilidade de estabelecer uma rede de condutas para produtos não abrangidos pelas orientações aplicáveis às redes transeuropeias de energia e de a integrar na rede transeuropeia de transportes\n\ne, se necessário, apresentará propostas neste sentido.\n\n- Ad anexo I\n\nA Comissão analisará os projectos votados pelo Parlamento em segunda leitura a fim de determinar se preenchem as condições de inclusão no anexo I. A análise destes projectos será efectuada no âmbito do processo de revisão nos termos do artigo 21º\n\n- Ad artigo 19º e 20º e anexo III\n\nA Comissão confirma que esta decisão não prejudica de forma alguma o compromisso financeiro de um Estado-membro ou da Comunidade.\n\n- Ad artigo 20º\n\nNos termos do nº 1 do artigo 6º do Regulamento (CE) nº 2236/95 que determina as regras gerais para a concessão de apoio financeiro comunitário no domínio das redes transeuropeias, a Comissão declara que, na avaliação dos projectos elegíveis para o orçamento a título das redes transeuropeias, centrará toda a atenção que lhes é devida nos projectos de natureza multimodal e em especial nos que dizem respeito às ligações de longa distância com as zonas periféricas."
+  },
+  "ea9947c715957554": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01996D1692 — PT — 25.08.2010 — 005.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31996D1692) [DECISÃO N.º 1692/96/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/31996D1692) [de 23 de Julho de 1996](http://publications.europa.eu/resource/celex/31996D1692) [sobre as orientações comunitárias para o desenvolvimento da rede transeuropeia de transportes](http://publications.europa.eu/resource/celex/31996D1692) (JO L 228, 9.9.1996, p.1)\n\n**revogado por:**\n\n- [Decisãon.o 661/2010/UE do Parlamento Europeu e do Conselho de 7 de Julho de 2010](http://publications.europa.eu/resource/celex/32010D0661) — L 204 — 1 — 5.8.2010"
+  }
+ }
+}

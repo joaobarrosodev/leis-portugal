@@ -1,0 +1,722 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31982L0471:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01982L0471-20100901",
+ "dre_path": null,
+ "source_lastmod": "2010-09-01",
+ "versions": [
+  {
+   "date": "1982-07-21",
+   "future": false,
+   "celex": "31982L0471",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0790d0203339d59e",
+    "8afe29ffc269cffa",
+    "21bbe1948a566c1f",
+    "159bda8bfd369982",
+    "e7bbd941b2224ece",
+    "d486f2ff892a8a79",
+    "3cc734fd023b5a87",
+    "2e15b59444131692",
+    "ec313d68cbab56f0",
+    "e4a4612e4159a0b1",
+    "6470499fe7758690",
+    "dae24a307e60ff63",
+    "e5a7f2e545e074eb",
+    "b30c79b37f40be06",
+    "93a9b1f162ad9797",
+    "369cb0ea693a51e8",
+    "5aafd3d5ec9e519a",
+    "6cc1cbabc3e8950d",
+    "a7d99093c9e919c6",
+    "72c6d9a31d861dfa"
+   ]
+  },
+  {
+   "date": "2004-12-31",
+   "future": false,
+   "celex": "01982L0471-20041231",
+   "acts": [
+    {
+     "id": "eu:celex:31984L0443:por",
+     "title": "DIRECTIVA DA COMISSÃO 84/443/CEE de 26 de Julho de 1984",
+     "published": null,
+     "celex": "31984L0443"
+    },
+    {
+     "id": "eu:celex:31985L0509:por",
+     "title": "DIRECTIVA DA COMISSÃO 85/509/CEE de 6 de Novembro de 1985",
+     "published": null,
+     "celex": "31985L0509"
+    },
+    {
+     "id": "eu:celex:31985R3768:por",
+     "title": "M3",
+     "published": null,
+     "celex": "31985R3768"
+    },
+    {
+     "id": "eu:celex:31986L0530:por",
+     "title": "DIRECTIVA DA COMISSÃO 86/530/CEE de 28 de Outubro de 1986",
+     "published": null,
+     "celex": "31986L0530"
+    },
+    {
+     "id": "eu:celex:31988L0485:por",
+     "title": "M5",
+     "published": null,
+     "celex": "31988L0485"
+    },
+    {
+     "id": "eu:celex:31989L0520:por",
+     "title": "M6",
+     "published": null,
+     "celex": "31989L0520"
+    },
+    {
+     "id": "eu:celex:31990L0439:por",
+     "title": "DIRECTIVA DA COMISSÃO 90/439/CEE de 24 de Julho de 1990",
+     "published": null,
+     "celex": "31990L0439"
+    },
+    {
+     "id": "eu:celex:31990L0654:por",
+     "title": "DIRECTIVA DO CONSELHO 90/654/CEE de 4 de Dezembro de 1990",
+     "published": null,
+     "celex": "31990L0654"
+    },
+    {
+     "id": "eu:celex:31993L0026:por",
+     "title": "M9",
+     "published": null,
+     "celex": "31993L0026"
+    },
+    {
+     "id": "eu:celex:31993L0056:por",
+     "title": "DIRECTIVA 93/56/CEE DA COMISSÃO de 29 de Junho de 1993",
+     "published": null,
+     "celex": "31993L0056"
+    },
+    {
+     "id": "eu:celex:31993L0074:por",
+     "title": "DIRECTIVA 93/74/CEE DO CONSELHO de 13 de Setembro de 1993",
+     "published": null,
+     "celex": "31993L0074"
+    },
+    {
+     "id": "eu:celex:31995L0033:por",
+     "title": "DIRECTIVA 95/33/CE DA COMISSÃO de 10 de Julho de 1995",
+     "published": null,
+     "celex": "31995L0033"
+    },
+    {
+     "id": "eu:celex:31995L0069:por",
+     "title": "DIRECTIVA 95/69/CE DO CONSELHO de 22 de Dezembro de 1995",
+     "published": null,
+     "celex": "31995L0069"
+    },
+    {
+     "id": "eu:celex:31996L0025:por",
+     "title": "DIRECTIVA 96/25/CE DO CONSELHO de 29 de Abril de 1996",
+     "published": null,
+     "celex": "31996L0025"
+    },
+    {
+     "id": "eu:celex:31999L0020:por",
+     "title": "DIRECTIVA 1999/20/CE DO CONSELHO de 22 de Março de 1999",
+     "published": null,
+     "celex": "31999L0020"
+    },
+    {
+     "id": "eu:celex:32003R1829:por",
+     "title": "REGULAMENTO (CE) N. o 1829/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1829"
+    },
+    {
+     "id": "eu:celex:32003R1831:por",
+     "title": "REGULAMENTO (CE) N. o 1831/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1831"
+    },
+    {
+     "id": "eu:celex:32003R1882:por",
+     "title": "REGULAMENTO(CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1882"
+    },
+    {
+     "id": "eu:celex:32003L0104:por",
+     "title": "M20",
+     "published": null,
+     "celex": "32003L0104"
+    },
+    {
+     "id": "eu:celex:32004L0116:por",
+     "title": "DIRECTIVA 2004/116/CE DA COMISSÃO Texto relevante para efeitos do EEE de 23 de Dezembro de 2004",
+     "published": null,
+     "celex": "32004L0116"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO",
+    "Adita Artigo 1º",
+    "Adita Artigo 2º",
+    "Adita Artigo 3º",
+    "Adita Artigo 4º",
+    "Adita Artigo 5º",
+    "Adita Artigo 6º",
+    "Adita Artigo 7º",
+    "Adita Artigo 8º",
+    "Adita Artigo 9º",
+    "Adita Artigo 10º",
+    "Adita Artigo 11º",
+    "Adita Artigo 12º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15º",
+    "Adita Artigo 16º",
+    "Adita Artigo 17º",
+    "Adita Artigo 18º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o"
+   ],
+   "fragments": [
+    "cb7213a0e803ea66",
+    "6bd4a374233bc889",
+    "b75424b1ae4dbdc1",
+    "c5be7131f61e2c27",
+    "4174a77ab04106e7",
+    "25dc9b4ed06eee4c",
+    "5b0bc0db481b4e2e",
+    "08b788d46b79dfed",
+    "89a1f2c674f1c3dd",
+    "41b08dda8c80dd25",
+    "16da19d1b564d46b",
+    "f30dbfca342d0917",
+    "001bc40cfeda0b5b",
+    "00c98cbf1cb8aa95",
+    "e1a6bc92acbec665",
+    "f127de3324f1abc5",
+    "381814f2aebbea62",
+    "d5c4f92f00bbbe6f",
+    "84612b12a0668abd",
+    "31d4754d07fa9dd8",
+    "6c76567001c89b4b"
+   ]
+  },
+  {
+   "date": "2009-04-20",
+   "future": false,
+   "celex": "01982L0471-20090420",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0219:por",
+     "title": "REGULAMENTO (CE) N. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009",
+     "published": null,
+     "celex": "32009R0219"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1º",
+    "Altera Artigo 3º",
+    "Altera Artigo 6º",
+    "Altera Artigo 7º",
+    "Altera Artigo 8º",
+    "Altera Artigo 13.º",
+    "Altera Notas",
+    "Suprime Artigo 14.º"
+   ],
+   "fragments": [
+    "1cf22a03f7d0d7fe",
+    "7097182408ed8faf",
+    "b75424b1ae4dbdc1",
+    "1da4bfa11c6e3f4f",
+    "4174a77ab04106e7",
+    "25dc9b4ed06eee4c",
+    "f55f768255eb76a5",
+    "54a736be19a734c4",
+    "c3ef3d89838ce077",
+    "41b08dda8c80dd25",
+    "16da19d1b564d46b",
+    "f30dbfca342d0917",
+    "001bc40cfeda0b5b",
+    "8d6342d4908fa7fc",
+    "f127de3324f1abc5",
+    "381814f2aebbea62",
+    "d5c4f92f00bbbe6f",
+    "84612b12a0668abd",
+    "a5993a73c3d03105",
+    "bc197d702334177f"
+   ]
+  },
+  {
+   "date": "2010-09-01",
+   "future": false,
+   "celex": "01982L0471-20100901",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "64f681f31882558e"
+   ]
+  }
+ ],
+ "fragments": {
+  "0790d0203339d59e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 82/471/CEE do Conselho, de 30 de Junho de 1982, relativa a certos produtos utilizados na alimentação dos animais** *Jornal Oficial nº L 213 de 21/07/1982 p. 0008 - 0014 Edição especial espanhola: Capítulo 03 Fascículo 25 p. 0311 Edição especial portuguesa: Capítulo 03 Fascículo 25 p. 0311 Edição especial finlandesa: Capítulo 3 Fascículo 15 p. 0098 Edição especial sueca: Capítulo 3 Fascículo 15 p. 0098*\n\nDIRECTIVA DO CONSELHO de 30 de Junho de 1982 relativa a certos produtos utilizados na alimentação dos animais\n\n(82/471/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 43o e 100o,\n\nTendo em conta a Proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a produção animal ocupa um lugar muito importante na agricultura da Comunidade e que os resultados satisfatórios dependem, em larga medida, da utilização de alimentos dos animais de boa qualidade e adequados;\n\nConsiderando que uma regulamentação do domínio dos alimentos dos animais é um factor essencial de aumento da produtividade da agricultura;\n\nConsiderando que na Comunidade o consumo das proteínas forrageiras não deixou de aumentar em consequência das necessidades, sempre crescentes, do seu efectivo pecuário;\n\nConsiderando que no decurso dos últimos anos esse aumento da procura foi acompanhado por uma baixa sensível da oferta no mercado mundial de certos alimentos proteicos;\n\nConsiderando que tal situação de penúria conduziu a indústria da alimentação animal a pesquisar produtos de substituição que garantam a segurança dos seus aprovisionamentos;\n\nConsiderando que, na medida em que os Estados-membros já possuem algumas disposições legislativas, regulamentares ou administrativas relativas a esses produtos as quais divergem nos princípios essenciais; que por esta razão essas disposições têm uma incidência directa sobre o estabelecimento e o funcionamento do mercado comum e que convém harmonizar as referidas disposições;\n\nConsiderando que, sendo esses produtos de substituição obtidos segundo as novas técnicas de fabrico, convém regulamentar a sua entrada em circulação na Comunidade como alimentos ou como componentes dos alimentos, ao prescrever, para cada um dos respectivos grupos, quais os produtos autorizados e as condições, mediante as quais os produtos autorizados devam ser utilizados;\n\nConsiderando que antes da inscrição de um produto num dos respectivos grupos, é necessário assegurar que possui os elementos nutritivos pesquisados; que importa igualmente verificar que, quando correctamente utilizados, esses produtos não exercem qualquer influência desfavorável na saúde humana ou animal ou no ambiente e que não prejudicam o consumidor pela alteração das características dos produtos animais;\n\nConsiderando que, para garantir o respeito dos princípios fundamentais impostos para a autorização, convém que seja, oficialmente, apresentado por um Estado-membro um processo para os produtos que pertencem a certos grupos; que a fim de facilitar o exame das substâncias em causa, esses processos deverão ser estabelecidos segundo as orientações comuns a adoptar pelo Conselho, o mais tardar na data da aplicação da presente directiva;\n\nConsiderando que, até ao momento em que seja tomada uma decisão comunitária sobre o assunto, convém permitir, provisoriamente, aos Estados-membros que mantenham as autorizações nacionais que tenham concedido relativamente quer aos produtos que, actualmente, não constam do anexo da presente directiva, quer a determinados produtos que, em certos casos, correspondem a outras condições; que, todavia, no caso dos produtos obtidos a partir de levaduras do género «Candida» cultivados em n-alcanos deverá ser tomada uma decisão comunitária, num prazo de dois anos, a contar da notificação da presente directiva;\n\nConsiderando que, em consequência da sua contribuição indirecta em proteínas, os compostos azotados não proteicos devem ser submetidos às disposições da presente directiva; que, consequentemente, convém alterar desde já a Directiva 70/524/CEE do Conselho, de 23 de Novembro 1970, relativamente aos aditivos na alimentação dos animais (4) no que respeita aos anexos que regulamentam, provisoriamente, o emprego dos produtos deste grupo;\n\nConsiderando que o valor nutritivo dos produtos em causa, assim como a sua inocuidade, depende em larga medida das características de composição, das condições de emprego ou dos processos de fabrico dos produtos; donde se revela indispensável, em certos casos, a obrigação de marcação para que o utilizador seja protegido contra as fraudes e utilize, o melhor possível, os produtos postos à sua disposição;\n\nConsiderando que convém não aplicar as regras comunitárias aos produtos em causa ou aos alimentos dos animais que contêm esses produtos destinados à exportação para países terceiros que, geralmente, possuem regulamentações diferentes;\n\nConsiderando que os Estados-membros deverão prever fiscalização adequada para garantir o respeito das disposições da presente directiva desde a entrada em circulação desses produtos ou dos alimentos dos animais que contenham esses produtos;\n\nConsiderando que, se os produtos corresponderem às condições impostas, os produtos ou os alimentos dos animais contendo esses produtos apenas deverão ser submetidos às restrições de comercialização previstas na presente directiva;\n\nConsiderando que é indispensável um procedimento comunitário adequado, por um lado, para adaptar as disposições do anexo e das linhas directrizes fixadas para a apresentação dos processos relativos a alguns produtos e, por outro, adoptar, eventualmente, os critérios de composição e de pureza, assim como as propriedades físico-químicas e biológicas desses produtos em função da evolução dos conhecimentos científicos e técnicos;\n\nConsiderando que, com vista a rodear-se de todas as garantias necessárias, o procedimento comunitário adoptado deverá prever a consulta obrigatória do Comité Científico da Alimentação Animal e do Comité Científico da Alimentação Humana instituídos pela Comissão, em certos casos de alteração do anexo;\n\nConsiderando que se deve deixar aos Estados-membros a faculdade de suspender, temporariamente, a autorização de emprego de um produto ou de modificar as disposições eventualmente fixadas a seu respeito, desde que a saúde humana ou animal se encontre ameaçada;\n\nConsiderando que, para evitar que um Estado-membro faça uma utilização abusiva desta faculdade, importa decidir, mediante um processo comunitário de urgência e baseado em documentos justificativos, as alterações do anexo;\n\nConsiderando que, para facilitar a aplicação da presente directiva, convém aplicar um processo que estabeleça uma estreita cooperação entre os Estados-membros e a Comissão no seio do Comité Permanente dos alimentos dos animais, instituído pela Decisão 70/372/CEE (5),\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "8afe29ffc269cffa": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva diz respeito aos produtos fabricados segundo certos processos técnicos com vista ao seu contributo directo ou indirecto em proteínas e postos em circulação no interior da Comunidade na qualidade de alimentos dos animais ou neles incorporados.\n\n2. A presente directiva aplica-se sem prejuízo das disposições comunitárias relativamente:\n\na) Aos aditivos na alimentação dos animais;\n\nb) À fixação dos teores máximos para as substâncias e produtos indesejáveis nos alimentos dos animais;\n\nc) À fixação dos teores máximos para os resíduos de pesticidas sobre e nos produtos destinados à alimentação humana ou animal;\n\nd) À comercialização dos alimentos simples e compostos;\n\ne) Aos microrganismos patogénicos nos alimentos dos animais."
+  },
+  "21bbe1948a566c1f": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nAs definições previstas no artigo 2o da Directiva 70/524/CEE aplicam-se à presente directiva."
+  },
+  "159bda8bfd369982": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os Estados-membros determinam que os alimentos dos animais que pertencem a um dos grupos de produtos enumerados no anexo ou que contenham produtos tais que apenas podem ser postos em circulação se:\n\na) O produto em causa constar do anexo;\n\nb) As exigências eventualmente fixadas no anexo estiverem satisfeitas.\n\n2. Os Estados-membros podem prever derrogação do no 1 para ensaios práticos ou com fins científicos desde que seja efectuado um controlo oficial satisfatório."
+  },
+  "e7bbd941b2224ece": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Em derrogação do no 1 do artigo 3o, os Estados-membros podem manter, até ao momento em que, em conformidade com o artigo 6o, seja tomada uma decisão, as autorizações concedidas no seu território:\n\na) Antes da data da aplicação da presente directiva no que respeita aos produtos não incluídos nos grupos de produtos indicados no anexo, com excepção dos produtos obtidos a partir de levaduras do género «Candida» cultivadas em n-alcanos;\n\nb) Antes da data de notificação da presente directiva no que respeita, por um lado, aos produtos obtidos a partir de levaduras do género «Candida» cultivadas em n-alcanos e, por outro lado, os produtos enumerados no ponto 1.2.1 do Anexo que satisfaçam exigências diferentes das que aí são previstas.\n\n2. Os Estados-membros comunicam aos outros Estados-membros e à Comissão a lista dos produtos admitidos no seu território em conformidade com o disposto no no 1."
+  },
+  "d486f2ff892a8a79": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Sem prejuízo das disposições de marcação aplicáveis aos alimentos simples e aos alimentos compostos, os Estados-membros prescrevem que os produtos enumerados no anexo só podem ser postos em circulação na qualidade de alimentos dos animais ou após terem sido incorporados naqueles se as indicações eventualmente previstas no anexo forem colocadas na embalagem, no recipiente ou no rótulo nele fixado.\n\n2. Os Estados-membros determinam que, no caso das mercadorias postas em circulação a granel, as indicações referidas no no 1 devem constar do documento de acompanhamento."
+  },
+  "3cc734fd023b5a87": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. As alterações a introduzir no anexo em consequência da evolução dos conhecimentos científicos ou técnicos são adoptadas segundo o procedimento previsto no artigo 13o. Para esse efeito, a Comissão consulta o Comité Científico da Alimentação Animal e o Comité Científico da Alimentação Humana, no que respeita aos produtos referidos nos pontos 1.1 e 1.2 do Anexo.\n\nTodavia, no que respeita aos produtos obtidos a partir de leveduras do género «Candida» cultivadas em n-alcanos e referidas no no 1 do artigo 4o, essas deliberações são deliberadas segundo o procedimento previsto no artigo 13o num prazo de dois anos a contar da notificação da presente directiva e após consulta do Comité Científico da Alimentação Animal e do Comité Científico da Alimentação Humana.\n\n2. Para a alteração do anexo são observados os seguintes princípios:\n\nA. Um produto só é inscrito no anexo desde que:\n\na) Possua um valor nutritivo para os animais em consequência do seu contributo azotado ou proteico;\n\nb) Quando usado racionalmente, não tenha influência desfavorável na saúde humana ou animal ou no ambiente e não acarrete prejuízo para o consumidor alterando as características dos produtos animais;\n\nc) Seja controlável nos alimentos.\n\nB. O produto relativamente ao qual não se encontre preenchida alguma das condições enumeradas no ponto A é eliminado do anexo.\n\n3. Os critérios que permitem caracterizar os produtos referidos na presente directiva, nomeadamente os critérios de composição e de pureza assim como as propriedades físico-químicas e biológicas podem ser fixados, tendo em conta os conhecimentos científicos ou técnicos segundo o procedimento previsto no artigo 13o."
+  },
+  "2e15b59444131692": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Com vista a garantir que os produtos referidos nos pontos 1.1 e 1.2 do Anexo correspondam aos princípios definidos no no 2 do artigo 6o, os Estados-membros velam por que, em conformidade com as disposições previstas no no 2 do presente artigo, seja oficialmente transmitido um processo aos Estados-membros, à Comissão e aos membros dos Comités Científicos instituídos pela Comissão, se tiverem sido consultados.\n\n2. O Conselho, sob proposta da Comissão, adopta as linhas directrizes segundo as quais devem ser elaborados os processos referidos no no 1, de modo a que essas linhas directrizes sejam aplicáveis, o mais tardar, na data da aplicação da presente directiva.\n\nAs modificações a introduzir, posteriormente, nas linhas directrizes, em consequência da evolução dos conhecimentos científicos ou técnicos, são adoptados segundo o procedimento previsto no artigo 13o.\n\n3. Os Estados-membros e a Comissão, assim como os outros destinatários do processo, referidos no no 1, velam, mediante pedido justificado do requerente, por que as informações cuja difusão poderia atentar contra os direitos da propriedade industrial ou comercial sejam consideradas confidenciais.\n\nNão podem incluir-se no segredo industrial e comercial:\n\n- as denominações e a composição do produto e, eventualmente, a indicação do substracto e do microrganismo,\n\n- as propriedades físico-químicas e biológicas do produto,\n\n- a interpretação dos dados farmacológicos, toxicológicos e ecotoxicológicos,\n\n- os métodos de análise para o controlo do produto nos alimentos."
+  },
+  "ec313d68cbab56f0": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Se um Estado-membro verifica, com base em motivação circunstanciada em consequência de novos dados ou de uma nova avaliação dos dados existentes introduzidos depois da adopção da presente directiva, que um dos produtos enumerados no anexo ou o seu emprego nas condições eventualmente indicadas representa um perigo para a saúde humana ou animal, mesmo estando em conformidade com as disposições da presente directiva, esse Estado-membro pode, provisoriamente, suspender ou restringir, no seu território, a aplicação das respectivas disposições. Do facto informa, imediatamente, os outros Estados-membros e a Comissão, especificando os motivos que justificam a sua decisão.\n\n2. A Comissão examina, no mais curto prazo, os motivos invocados pelo Estado-membro interessado e procede à consulta dos Estados-membros através do Comité Permanente dos Alimentos dos Animais e emite de imediato o seu parecer e toma as medidas adequadas.\n\n3. Se a Comissão considera que são necessárias alterações à presente directiva para atenuar as dificuldades referidas no no 1 e para assegurar a protecção da saúde humana ou animal, desencadeia o procedimento previsto no artigo 14o com vista a adoptar essas modificações; nesse caso, o Estado-membro que tiver adoptado as medidas de salvaguarda pode mantê-las até à entrada em vigor dessas alterações."
+  },
+  "e4a4612e4159a0b1": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nPara a entrada em circulação entre os Estados-membros, as indicações referidas no artigo 5o são redigidas, pelo menos, numa das línguas oficiais do país destinatário."
+  },
+  "6470499fe7758690": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nOs Estados-membros velam por que os alimentos que estão em conformidade com o disposto na presente directiva só estejam submetidos, no que respeita à presença dos produtos enumerados no anexo e à marcação, às restituições de colocação em circulação previstas pela presente directiva."
+  },
+  "dae24a307e60ff63": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nOs Estados-membros velam por que os produtos animais não sejam submetidos a qualquer restrição de comercialização devida à aplicação da presente directiva."
+  },
+  "e5a7f2e545e074eb": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nOs Estados-membros tomam todas as disposições úteis para que, no decurso da colocação em circulação, seja feito, pelo menos por amostragem, o controlo oficial dos alimentos dos animais, no que respeita ao cumprimento das condições previstas pela presente directiva."
+  },
+  "b30c79b37f40be06": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. Sempre que seja feita referência ao procedimento definido no presente artigo, o Comité Permanente dos Alimentos dos Animais, a seguir designado «Comité», é convocado pelo seu presidente, quer por iniciativa deste, quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão apresenta ao Comité um projecto das medidas a tomar. O Comité formula o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência das questões submetidas à sua apreciação. O Comité delibera por maioria de quarenta e cinco votos, sendo os votos dos Estados-membros sujeitos à ponderação prevista no no 2 do artigo 148o do Tratado. O presidente participa na votação.\n\n3. a) A Comissão aprova as medidas previstas desde que estejam em conformidade com o parecer do Comité;\n\nb) Se as medidas previstas não estiverem em conformidade com o parecer do Comité ou na ausência de parecer, a Comissão submete de imediato ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada;\n\nc) Se, no termo do prazo de três meses a contar da data em que o assunto lhe foi submetido, o Conselho não tiver aprovado estas medidas, a Comissão aprova as medidas propostas, excepto no caso do Conselho se ter pronunciado por maioria simples contra as referidas medidas."
+  },
+  "93a9b1f162ad9797": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. Sempre que seja feita referência ao procedimento definido no presente artigo, o Comité é convocado pelo seu presidente, quer por iniciativa deste, quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão apresenta ao comité um projecto das medidas a tomar. O Comité formula o seu parecer sobre esse projecto num prazo de dois dias. O Comité delibera por maioria de quarenta e cinco votos, sendo os votos dos Estados-membros sujeitos à ponderação prevista no no 2 do artigo 148o do Tratado. O presidente não participa na votação.\n\n3. a) A Comissão aprova as medidas previstas desde que estejam em conformidade com o parecer do Comité;\n\nb) Se as medidas previstas não estiverem em conformidade com o parecer do Comité, ou na ausência de parecer, a Comissão submete de imediato ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada;\n\nc) Se, no termo do prazo de quinze dias a contar da data em que o assunto lhe foi submetido, o Conselho não tiver aprovado estas medidas, a Comissão aprova as medidas propostas, excepto no caso de o Conselho se ter pronunciado por simples maioria contra as referidas medidas."
+  },
+  "369cb0ea693a51e8": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nNa parte K do Anexo I e na parte D-B do Anexo II da Directiva 70/524/CEE, são suprimidas todas as referências relativas aos compostos azotados não proteicos."
+  },
+  "5aafd3d5ec9e519a": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nA presente directiva não se aplica aos alimentos dos animais, em relação aos quais seja provado, ao menos por uma indicação adequada, que se destinam à exportação para países terceiros."
+  },
+  "6cc1cbabc3e8950d": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nOs Estados-membros põem em vigor, dois anos após a notificação da presente directiva, as disposições legislativas, regulamentares ou administrativas necessários para darem cumprimento à presente directiva e informar do facto imediatamente a Comissão."
+  },
+  "a7d99093c9e919c6": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo em 30 de Junho de 1982.\n\nPelo Conselho\n\nO Presidente\n\nPh. MAYSTADT\n\n(1) JO no C 197 de 18. 8. 1977, p. 3.(2) JO no C 63 de 13. 3. 1978, p. 53.(3) JO no C 84 de 8. 4. 1978, p. 4.(4) JO no L 270 de 14. 12. 1970, p. 1.(5) JO no L 170 de 3. 8. 1970, p. 1."
+  },
+  "72c6d9a31d861dfa": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n\"\" ID=\"1\">1. Produtos proteicos obtidos a partir dos microrganismos dos grupos seguintes:\"> ID=\"1\">1.1. Bactérias\"> ID=\"1\">1.2. Leveduras> ID=\"2\">Todas as leveduras> ID=\"3\" ASSV=\"2\" ACCV=\"2.2.3\">Saccharomyces cerevisiae, Saccharomyces carlsbergiensis\n\nKluyveromyces lactis, Kluyveromyces fragilis> ID=\"4\" ASSV=\"2\" ACCV=\"2.3.4\">Melaços, «vinasses» cereais e produtos amiláceos, sumos de frutos, lactosoro, ácido láctico, hidrolisatos de fibras vegetais> ID=\"5\" ASSV=\"2\" ACCV=\"2.4.5\">-> ID=\"6\" ASSV=\"2\" ACCV=\"2.5.6\">Todas as espécies animais\"> ID=\"1\" ASSV=\"2\">1.2.1. Leveduras cultivadas em substratos de origem animal ou vegetal> ID=\"2\">- Obtidas a partir dos microrganismos e dos substratos enumerados nas colunas 3 e 4\"> ID=\"2\">- e cujas células foram mortas\"> ID=\"1\">1.2.2. Leveduras cultivadas em substratos exceptuando os referidos em 1.2.1\"> ID=\"1\">1.3. Algas\"> ID=\"1\">1.4. Cogumelos inferiores\"> ID=\"1\">2. Compostos azotados não proteícos e produtos análogos dos grupos seguintes:\"> ID=\"1\" ASSV=\"4\">2.1. Ureia e seus derivados> ID=\"2\">2.1.1. Ureia> ID=\"3\">CO (NH2)2> ID=\"4\">-> ID=\"5\" ASSV=\"4\" ACCV=\"4.4.5\">Pureza mínima de 98 %> ID=\"6\" ASSV=\"4\" ACCV=\"4.5.6\">Ruminantes desde o início da ruminação> ID=\"7\">Declaração na etiqueta ou embalagem dos alimentos compostos:\n\n- denominação do produto e, eventualmente, a sua taxa de incorporação no alimento composto desde que existam métodos de análise oficiais\n\n- parte de azoto expressa em equivalente proteíco introduzida pelo ou pelos azotados não proteicos\n\n- modo de emprego adequado, incluindo nomeadamente os animais aos quais o alimento é destinado, assim como o teor máximo de azoto não proteico total, a não ultrapassar na ração diária\"> ID=\"2\">2.1.2. Biureto> ID=\"3\">C2H5O2N3> ID=\"4\">-\"> ID=\"2\">2.1.3. Fosfato de ureia> ID=\"3\">CO (NH2)2H3PO4> ID=\"4\">-\"> ID=\"2\">2.1.4. Diuredoisobutano> ID=\"3\">(CH3)2-CH-CH\n\n(NHCONH2)2> ID=\"4\">-\"> ID=\"1\" ASSV=\"4\">2.2. Aminoacidos e produtos análogos> ID=\"2\">2.2.1. D, L-metionina> ID=\"3\">CH3S(CH2)2-CH(NH2)-COOH> ID=\"4\">-> ID=\"5\" ASSV=\"4\" ACCV=\"4.4.5\">Pureza mínima 98 %> ID=\"6\" ASSV=\"4\" ACCV=\"4.5.6\">Todas as espécies animais> ID=\"7\">-\"> ID=\"2\">2.2.2. L-lisina> ID=\"3\">NH2-(CH2)4-CH(NH2)-COOH> ID=\"4\">-> ID=\"7\">-\"> ID=\"2\">2.2.3. Cloridrato de L-lisine> ID=\"3\">NH2(CH2)4- CH(NH2)-COOH.HCL> ID=\"4\">-> ID=\"7\">-\"> ID=\"2\">2.2.4. Análogo hidróxido da D, L-metionina> ID=\"3\">(CH3-S-(CH2)2-CH(OH)-COO)2Ca> ID=\"4\">-> ID=\"7\">-\">"
+  },
+  "cb7213a0e803ea66": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Junho de 1982\n\nrelativa a certos produtos utilizados na alimentação dos animais\n\n(82/471/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 43º e 100º,\n\nTendo em conta a Proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#E0003)),\n\nConsiderando que a produção animal ocupa um lugar muito importante na agricultura da Comunidade e que os resultados satisfatórios dependem, em larga medida, da utilização de alimentos dos animais de boa qualidade e adequados;\n\nConsiderando que uma regulamentação do domínio dos alimentos dos animais é um factor essencial de aumento da produtividade da agricultura;\n\nConsiderando que na Comunidade o consumo das proteínas forrageiras não deixou de aumentar em consequência das necessidades, sempre crescentes, do seu efectivo pecuário;\n\nConsiderando que no decurso dos últimos anos esse aumento da procura foi acompanhado por uma baixa sensível da oferta no mercado mundial de certos alimentos proteicos;\n\nConsiderando que tal situação de penúria conduziu a indústria da alimentação animal a pesquisar produtos de substituição que garantam a segurança dos seus aprovisionamentos;\n\nConsiderando que, na medida em que os Estados-membros já possuem algumas disposições legislativas, regulamentares ou administrativas relativas a esses produtos as quais divergem nos princípios essenciais; que por esta razão essas disposições têm uma incidência directa sobre o estabelecimento e o funcionamento do mercado comum e que convém harmonizar as referidas disposições;\n\nConsiderando que, sendo esses produtos de substituição obtidos segundo as novas técnicas de fabrico, convém regulamentar a sua entrada em circulação na Comunidade como alimentos ou como componentes dos alimentos, ao prescrever, para cada um dos respectivos grupos, quais os produtos autorizados e as condições, mediante as quais os produtos autorizados devam ser utilizados;\n\nConsiderando que antes da inscrição de um produto num dos respectivos grupos, é necessário assegurar que possui os elementos nutritivos pesquisados; que importa igualmente verificar que, quando correctamente utilizados, esses produtos não exercem qualquer influência desfavorável na saúde humana ou animal ou no ambiente e que não prejudicam o consumidor pela alteração das características dos produtos animais;\n\nConsiderando que, para garantir o respeito dos princípios fundamentais impostos para a autorização, convém que seja, oficialmente, apresentado por um Estado-membro um processo para os produtos que pertencem a certos grupos; que a fim de facilitar o exame das substâncias em causa, esses processos deverão ser estabelecidos segundo as orientações comuns a adoptar pelo Conselho, o mais tardar na data da aplicação da presente directiva;\n\nConsiderando que, até ao momento em que seja tomada uma decisão comunitária sobre o assunto, convém permitir, provisoriamente, aos Estados-membros que mantenham as autorizações nacionais que tenham concedido relativamente quer aos produtos que, actualmente, não constam do anexo da presente directiva, quer a determinados produtos que, em certos casos, correspondem a outras condições; que, todavia, no caso dos produtos obtidos a partir de leveduras do género «Candida» cultivados em n-alcanos deverá ser tomada uma decisão comunitária, num prazo de dois anos, a contar da notificação da presente directiva;\n\nConsiderando que, em consequência da sua contribuição indirecta em proteínas, os compostos azotados não proteicos devem ser submetidos às disposições da presente directiva; que, consequentemente, convém alterar desde já a Directiva 70/524/CEE do Conselho, de 23 de Novembro 1970, relativamente aos aditivos na alimentação dos animais ([^4^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#E0004)) no que respeita aos anexos que regulamentam, provisoriamente, o emprego dos produtos deste grupo;\n\nConsiderando que o valor nutritivo dos produtos em causa, assim como a sua inocuidade, depende em larga medida das características de composição, das condições de emprego ou dos processos de fabrico dos produtos; donde se revela indispensável, em certos casos, a obrigação de marcação para que o utilizador seja protegido contra as fraudes e utilize, o melhor possível, os produtos postos à sua disposição;\n\nConsiderando que convém não aplicar as regras comunitárias aos produtos em causa ou aos alimentos dos animais que contêm esses produtos destinados à exportação para países terceiros que, geralmente, possuem regulamentações diferentes;\n\nConsiderando que os Estados-membros deverão prever fiscalização adequada para garantir o respeito das disposições da presente directiva desde a entrada em circulação desses produtos ou dos alimentos dos animais que contenham esses produtos;\n\nConsiderando que, se os produtos corresponderem às condições impostas, os produtos ou os alimentos dos animais contendo esses produtos apenas deverão ser submetidos às restrições de comercialização previstas na presente directiva;\n\nConsiderando que é indispensável um procedimento comunitário adequado, por um lado, para adaptar as disposições do anexo e das linhas directrizes fixadas para a apresentação dos processos relativos a alguns produtos e, por outro, adoptar, eventualmente, os critérios de composição e de pureza, assim como as propriedades físico-químicas e biológicas desses produtos em função da evolução dos conhecimentos científicos e técnicos;\n\nConsiderando que, com vista a rodear-se de todas as garantias necessárias, o procedimento comunitário adoptado deverá prever a consulta obrigatória do Comité Científico da Alimentação Animal e do Comité Científico da Alimentação Humana instituídos pela Comissão, em certos casos de alteração do anexo;\n\nConsiderando que se deve deixar aos Estados-membros a faculdade de suspender, temporariamente, a autorização de emprego de um produto ou de modificar as disposições eventualmente fixadas a seu respeito, desde que a saúde humana ou animal se encontre ameaçada;\n\nConsiderando que, para evitar que um Estado-membro faça uma utilização abusiva desta faculdade, importa decidir, mediante um processo comunitário de urgência e baseado em documentos justificativos, as alterações do anexo;\n\nConsiderando que, para facilitar a aplicação da presente directiva, convém aplicar um processo que estabeleça uma estreita cooperação entre os Estados-membros e a Comissão no seio do Comité Permanente dos alimentos dos animais, instituído pela Decisão 70/372/CEE ([^5^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#E0005)),\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "6bd4a374233bc889": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva diz respeito aos produtos fabricados segundo certos processos técnicos com vista ao seu contributo directo ou indirecto em proteínas e postos em circulação no interior da Comunidade na qualidade de alimentos dos animais ou neles incorporados.\n\n2. A presente directiva aplica-se sem prejuízo das disposições comunitárias relativamente:\n\na) Aos aditivos na alimentação dos animais;\n\nb) À fixação dos teores máximos para as substâncias e produtos indesejáveis nos alimentos dos animais;\n\nc) À fixação dos teores máximos para os resíduos de pesticidas sobre e nos produtos destinados à alimentação humana ou animal;\n\nd) À comercialização dos alimentos [**►M14**](http://publications.europa.eu/resource/celex/31996L0025) **◄**compostos;\n\ne) Aos microrganismos patogénicos nos alimentos dos animais.\n\nf) Aos alimentos para animais com objectivos nutricionais específicos.\n\ng) A circulação de matérias-primas para alimentação animal;\n\n3. A presente directiva não se aplica aos produtos que actuem como fontes directas ou indirectas de proteínas abrangidos pelo Regulamento (CE) n.º 1829/2003 do Parlamento Europeu e do Conselho, de 22 de Setembro de 2003, relativo aos géneros alimentícios e alimentos para animais geneticamente modificados ([^6^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#E0006))."
+  },
+  "b75424b1ae4dbdc1": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nAs definições previstas no artigo 2º da Directiva 70/524/CEE aplicam-se à presente directiva."
+  },
+  "c5be7131f61e2c27": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros determinam que os alimentos dos animais que pertencem a um dos grupos de produtos enumerados no anexo ou que contenham produtos tais que apenas podem ser postos em circulação se:\n\na) O produto em causa constar do anexo;\n\nb) As exigências eventualmente fixadas no anexo estiverem satisfeitas.\n\n2. Os Estados-membros podem prever derrogação do nº 1 para ensaios práticos ou com fins científicos desde que seja efectuado um controlo oficial satisfatório.\n\n3. Os Estados-membros determinarão que os produtos referidos no capítulo I. 1. a) do anexo da Directiva 95/69/CE do Conselho, de 22 de Dezembro de 1995, que estabelece as condições e regras aplicáveis à aprovação e ao registo de certos estabelecimentos e intermediários no sector da alimentação animal ([^7^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#E0007)) só possam ser postos em circulação por estabelecimentos ou intermediários que preencham as condições previstas, consoante o caso, nos artigos 2º ou 3º da referida directiva.\n\n4. O n.º 3 é aplicável sem prejuízo do disposto no n.º 2 do artigo 4.º da Directiva 95/69/CE."
+  },
+  "4174a77ab04106e7": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Em derrogação do nº 1 do artigo 3º, os Estados- -membros podem manter, até ao momento em que, em conformidade com o artigo 6º, seja tomada uma decisão, as autorizações concedidas no seu território:\n\na) Antes da data da aplicação da presente directiva no que respeita aos produtos não incluídos nos grupos de produtos indicados no anexo, com excepção dos produtos obtidos a partir de leveduras do género «Candida» cultivadas em n-alcanos;\n\nb) Antes da data de notificação da presente directiva no que respeita, por um lado, aos produtos obtidos a partir de leveduras do género «Candida» cultivadas em n-alcanos e, por outro lado, os produtos enumerados no ponto 1.2.1 do Anexo que satisfaçam exigências diferentes das que aí são previstas.\n\n2. Os Estados-membros comunicam aos outros Estados-membros e à Comissão a lista dos produtos admitidos no seu território em conformidade com o disposto no nº 1.\n\n3. No território da antiga República Democrática Alemã, a utilização na alimentação animal de produtos proteicos obtidos a partir de leveduras do género «Cândida» cultivadas em n-alcanos só é proibida a partir de 31 de Dezembro de 1991. A Alemanha assegurará que os produtos em causa não sejam expedidos para outras partes da Comunidade."
+  },
+  "25dc9b4ed06eee4c": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Sem prejuízo das disposições de marcação aplicáveis aos alimentos simples e aos alimentos compostos, os Estados-membros prescrevem que os produtos enumerados no anexo só podem ser postos em circulação na qualidade de alimentos dos animais ou após terem sido incorporados naqueles se as indicações eventualmente previstas no anexo forem colocadas na embalagem, no recipiente ou no rótulo nele fixado.\n\n2. Os Estados-membros determinam que, no caso das mercadorias postas em circulação a granel, as indicações referidas no nº 1 devem constar do documento de acompanhamento."
+  },
+  "5b0bc0db481b4e2e": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. As alterações a introduzir no anexo em consequência da evolução dos conhecimentos científicos ou técnicos são adoptadas segundo o procedimento previsto no artigo 13º. Para esse efeito, a Comissão consulta o Comité Científico da Alimentação Animal e o Comité Científico da Alimentação Humana, no que respeita aos produtos referidos nos pontos 1.1 e 1.2 do Anexo.\n\nTodavia, no que respeita aos produtos obtidos a partir de leveduras do género «Candida» cultivadas em n-alcanos e referidas no nº 1 do artigo 4º, essas deliberações são deliberadas segundo o procedimento previsto no artigo 13º num prazo de dois anos a contar da notificação da presente directiva e após consulta do Comité Científico da Alimentação Animal e do Comité Científico da Alimentação Humana.\n\n2. Para a alteração do anexo são observados os seguintes princípios:\n\nA. Um produto só é inscrito no anexo desde que:\n\na) Possua um valor nutritivo para os animais em consequência do seu contributo azotado ou proteico;\n\nb) Quando usado racionalmente, não tenha influência desfavorável na saúde humana ou animal ou no ambiente e não acarrete prejuízo para o consumidor alterando as características dos produtos animais;\n\nc) Seja controlável nos alimentos.\n\nB. O produto relativamente ao qual não se encontre preenchida alguma das condições enumeradas no ponto A é eliminado do anexo.\n\n3. Os critérios que permitem caracterizar os produtos referidos na presente directiva, nomeadamente os critérios de composição e de pureza assim como as propriedades físico-químicas e biológicas podem ser fixados, tendo em conta os conhecimentos científicos ou técnicos segundo o procedimento previsto no artigo 13º."
+  },
+  "08b788d46b79dfed": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Com vista a garantir que os produtos referidos nos pontos 1.1 e 1.2 do Anexo correspondam aos princípios definidos no nº 2 do artigo 6º, os Estados-membros velam por que, em conformidade com as disposições previstas no nº 2 do presente artigo, seja oficialmente transmitido um processo aos Estados-membros, à Comissão e aos membros dos Comités Científicos instituídos pela Comissão, se tiverem sido consultados.\n\n2. O Conselho, sob proposta da Comissão, adopta as linhas directrizes segundo as quais devem ser elaborados os processos referidos no nº 1, de modo a que essas linhas directrizes sejam aplicáveis, o mais tardar, na data da aplicação da presente directiva.\n\nAs modificações a introduzir, posteriormente, nas linhas directrizes, em consequência da evolução dos conhecimentos científicos ou técnicos, são adoptados segundo o procedimento previsto no artigo 13º.\n\n3. Os Estados-membros e a Comissão, assim como os outros destinatários do processo, referidos no nº 1, velam, mediante pedido justificado do requerente, por que as informações cuja difusão poderia atentar contra os direitos da propriedade industrial ou comercial sejam consideradas confidenciais.\n\nNão podem incluir-se no segredo industrial e comercial:\n\n— as denominações e a composição do produto e, eventualmente, a indicação do substracto e do microrganismo,\n\n— as propriedades físico-químicas e biológicas do produto,\n\n— a interpretação dos dados farmacológicos, toxicológicos e ecotoxicológicos,\n\n— os métodos de análise para o controlo do produto nos alimentos."
+  },
+  "89a1f2c674f1c3dd": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Se um Estado-membro verifica, com base em motivação circunstanciada em consequência de novos dados ou de uma nova avaliação dos dados existentes introduzidos depois da adopção da presente directiva, que um dos produtos enumerados no anexo ou o seu emprego nas condições eventualmente indicadas representa um perigo para a saúde humana ou animal, mesmo estando em conformidade com as disposições da presente directiva, esse Estado-membro pode, provisoriamente, suspender ou restringir, no seu território, a aplicação das respectivas disposições. Do facto informa, imediatamente, os outros Estados-membros e a Comissão, especificando os motivos que justificam a sua decisão.\n\n2. A Comissão examina, no mais curto prazo, os motivos invocados pelo Estado-membro interessado e procede à consulta dos Estados-membros através do Comité Permanente dos Alimentos dos Animais e emite de imediato o seu parecer e toma as medidas adequadas.\n\n3. Se a Comissão considera que são necessárias alterações à presente directiva para atenuar as dificuldades referidas no nº 1 e para assegurar a protecção da saúde humana ou animal, desencadeia o procedimento previsto no artigo 14º com vista a adoptar essas modificações; nesse caso, o Estado-membro que tiver adoptado as medidas de salvaguarda pode mantê-las até à entrada em vigor dessas alterações."
+  },
+  "41b08dda8c80dd25": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nPara a entrada em circulação entre os Estados-membros, as indicações referidas no artigo 5º são redigidas, pelo menos, numa das línguas oficiais do país destinatário."
+  },
+  "16da19d1b564d46b": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros velam por que os alimentos que estão em conformidade com o disposto na presente directiva só estejam submetidos, no que respeita à presença dos produtos enumerados no anexo e à marcação, às restituições de colocação em circulação previstas pela presente directiva."
+  },
+  "f30dbfca342d0917": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nOs Estados-membros velam por que os produtos animais não sejam submetidos a qualquer restrição de comercialização devida à aplicação da presente directiva."
+  },
+  "001bc40cfeda0b5b": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nOs Estados-membros tomam todas as disposições úteis para que, no decurso da colocação em circulação, seja feito, pelo menos por amostragem, o controlo oficial dos alimentos dos animais, no que respeita ao cumprimento das condições previstas pela presente directiva."
+  },
+  "00c98cbf1cb8aa95": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^8^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#E0008)), a seguir designado por «Comité».\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^9^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#E0009)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "e1a6bc92acbec665": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nSempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^10^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#E0010)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de quinze dias."
+  },
+  "f127de3324f1abc5": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nNa parte K do Anexo I e na parte D-B do Anexo II da Directiva 70/524/CEE, são suprimidas todas as referências relativas aos compostos azotados não proteicos."
+  },
+  "381814f2aebbea62": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nA presente directiva não se aplica aos alimentos dos animais, em relação aos quais seja provado, ao menos por uma indicação adequada, que se destinam à exportação para países terceiros."
+  },
+  "d5c4f92f00bbbe6f": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nOs Estados-membros põem em vigor, dois anos após a notificação da presente directiva, as disposições legislativas, regulamentares ou administrativas necessários para darem cumprimento à presente directiva e informar do facto imediatamente a Comissão.\n\nTodavia, a Alemanha pode estabelecer derrogações, até 31 de Dezembro de 1991, às disposições de rotulagem previstas no artigo 5º, em relação aos alimentos produzidos no território da antiga República Democrática Alemã."
+  },
+  "84612b12a0668abd": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "31d4754d07fa9dd8": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| 1 | 2 | 3 | 4 | 5 | 6 | 7 |\n| --- | --- | --- | --- | --- | --- | --- |\n| Denominação dos grupos dos produtos | Denominação do produto | [**►M1**](http://publications.europa.eu/resource/celex/31984L0443) Designação do princípio nutritivo ou identidade do microorganismo**◄** | [**►M1**](http://publications.europa.eu/resource/celex/31984L0443) Substrato de cultura (eventuais especificações)**◄** | Características de composição do produto | Espécie animal | Disposições particulares |\n| 1. Produtos proteicos obtidos a partir dos microrganismos dos grupos seguintes: |  |  |  |  |  |  |\n| 1.1. *Bactérias* |  |  |  |  |  |  |\n| [▼M4](http://publications.europa.eu/resource/celex/31986L0530) |  |  |  |  |  |  |\n| 1.1.1. Bactérias cultivadas em metanol | 1.1.1.1. Produto proteico de fermentação obtido por cultura de *Methylophilus methylotrophus* em metanol | *Methylophilus Methylotrophus* estirpe NCIB 10 515 | Metanol | — Proteína bruta: mínimo 68% — Índice de reflexão: superior a 50 | Porcos Vitelos Aves Peixes | Declarações a apor na etiqueta ou na embalagem do produto: — denominação do produto, — proteina bruta, — cinzas brutas, — matéria gorda bruta, — humidade; Modo de emprego: — menção: «Evitar a inalação» [**►M16**](http://publications.europa.eu/resource/celex/31999L0020) — a partir de 1 de Abril de 2001: número de aprovação **◄** Declarações a apor na etiqueta ou na embalagem dos alimentos compostos: — taxa de incorporação do produto no alimento. |\n| [▼M12](http://publications.europa.eu/resource/celex/31995L0033) |  |  |  |  |  |  |\n| 1.1.2. Bactérias cultivadas em gás natural | 1.1.2.1. Produto proteico de fermentação obtido por cultura de: *Methylococcus capsulatus* (Bath), *Alcaligenes acidovorans, Bacillus brevis* e *Bacillus firmus,* em gás natural — e cujas células foram mortas | *Methylococcus capsulatus* (Bath) estirpe NCIMB 11132 *Alcaligenes acidovorans* estirpe NCIMB 12387 *Bacillus brevis* estirpe NCIMB 13288 *Bacillus firmus* estirpe NCIMB 13280 | Gás natural (aprox. 91 % metano, 5 % etano, 2 % propano, 0,5 % isobutano, 0,5 % n-isobutano, 1 % outros constituintes), amónio, sais minerais | Proteína bruta: mínimo 65 % | — Suínos de engorda de 25 kg a 60 kg — Vitelos a partir de 80 kg — Salmões | Declarações a apor no rótulo ou na embalagem do produto: — denominação do produto: «Produto proteico de fermentação obtido por cultura de: *Methylococcus capsulatus* (Bath), *Alcaligenes acidovorans, Bacillus brevis e Bacillus firmus* em gás natural», — proteína bruta, — cinzas brutas, — matéria gorda bruta, — humidade, — (SIC! modo de emprego) — taxa máxima de incorporação do produto no alimento:— — 8 % para suínos de engorda — 8 % para vitelos — 19 % para salmões (água doce) — 33 % para salmões (água do mar) — menção «evitar a inalação» [**►M16**](http://publications.europa.eu/resource/celex/31999L0020) — a partir de 1 de Abril de 2001: número de aprovação **◄** Declarações a apor no rótulo ou na embalagem do produto: — denominação do produto: «Produto proteico obtido por fermentação bacteriana em gás natural», — taxa de incorporação do produto |\n| [▼B](http://publications.europa.eu/resource/celex/31982L0471) |  |  |  |  |  |  |\n| 1.2. Leveduras |  |  |  |  |  |  |\n| [▼M21](http://publications.europa.eu/resource/celex/32004L0116) |  |  |  |  |  |  |\n| 1.2.1. Leveduras cultivadas em substratos de origem animal ou vegetal | Todas as leveduras — obtidas a partir dos microrganismos e dos substratos enumerados nas colunas 3 e 4 respectivamente — cujas células foram mortas | *Saccharomyces cerevisiae* *Saccharomyces carlsbergiensis* *Kluyveromyces lactis* *Kluyveromyces fragilis* | Melaços, resíduos da destilação, cereais e produtos amiláceos, sumos de frutos, lacto-soro, ácido láctico, hidrolisados de fibras vegetais |  | Todas as espécies animais |  |\n| *Candida guilliermondii* | Melaços, resíduos da destilação, cereais e produtos amiláceos, sumos de frutos, lacto-soro, ácido láctico, hidrolisados de fibras vegetais | Matéria seca, 16 % mínimo | Suínos de engorda |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/31982L0471) |  |  |  |  |  |  |\n| 1.2.2. Leveduras cultivadas em substratos exceptuando os referidos em 1.2.1 |  |  |  |  |  |  |\n| 1.3. *Algas* | — | — |  |  |  |  |\n| 1.4. *Cogumelos inferiores* |  |  |  |  |  |  |\n| [▼M7](http://publications.europa.eu/resource/celex/31990L0439) |  |  |  |  |  |  |\n| 1.4.1. Co-produtos de fabrico de antibióticos, obtidos por fermentação | 1.4.1.1. *Micelium*, subproduto húmido do fabrico da penicilina, ensilado por *lactobacillus brevis, plantarum, sake, collenoid* e *stropococcus lactis* para inactivar a penicilina, e tratado pelo calor | Composto azotado *Penicilium chrysogenum* estirpe ATCC 48271 | Hidratos de carbono diversos e seus hidrolisados | Azoto, expresso em proteína bruta: mínimo 7% | Ruminantes Suínos | Declaração a incluir no rótulo ou na embalagem do produto: |\n| — a menção: «ensilagem de micélio obtido do fabrico de penicilina» |  |  |  |  |  |  |\n| — teor de azoto, expresso em proteína bruta, |  |  |  |  |  |  |\n| — teor de cinzas brutas, |  |  |  |  |  |  |\n| — teor de humidade, |  |  |  |  |  |  |\n| — espécie animal ou categoria de animais. |  |  |  |  |  |  |\n| [**►M16**](http://publications.europa.eu/resource/celex/31999L0020) — a partir de 1 de Abril de 2001: número de aprovação **◄** |  |  |  |  |  |  |\n|  |  |  |  |  |  | Declaração no rótulo ou na embalagem dos alimentos compostos: |\n|  |  |  |  |  |  | — a menção: «ensilagem de micélio obtido do fabrico de penicilina». |\n| [▼M1](http://publications.europa.eu/resource/celex/31984L0443) |  |  |  |  |  |  |\n| 2. Compostos azotados não proteícos |  |  |  |  |  |  |\n| [▼M18](http://publications.europa.eu/resource/celex/32003R1831) ————— |  |  |  |  |  |  |\n| [▼M1](http://publications.europa.eu/resource/celex/31984L0443) |  |  |  |  |  |  |\n| 2.2. *Sais de amónio* | 2.2.1. Lactato de amónio, produzido por fermentação por *Lactobacillus bulgaricus* | CH3CHOHCOONH4 | Lactosoro | Azoto, expresso em proteína bruta: mín. 44 % | Ruminantes desde o início da ruminação | Declarações a incluir no rótulo ou embalagem do produto: — a menção «Lactato de amónio de fermentação» |\n|  |  |  |  |  |  | — azoto expresso em proteína bruta |\n|  |  |  |  |  |  | — cinzas brutas |\n|  |  |  |  |  |  | — humidade |\n|  |  |  |  |  |  | — espécie animal ou categoria de animais |\n|  |  |  |  |  |  | Declarações a incluir no rótulo ou embalagem dos alimentos compostos: |\n|  |  |  |  |  |  | — a menção «Lactato de amónio de fermentação» |\n|  |  |  |  |  |  | — taxas de incorporação do produto no alimento |\n|  |  |  |  |  |  | — contribuição em azoto não proteíco, expresso em proteína bruta (% da proteína bruta total) |\n|  |  |  |  |  |  | — indicação no modo de emprego do teor total de azoto não proteíco a não ultrapassar na ração diária, segundo a espécie animal ou a categoria de animais |\n| [▼M4](http://publications.europa.eu/resource/celex/31986L0530) |  |  |  |  |  |  |\n|  | 2.2.2. Acetato de amónio, solução aquosa | CH3COONH4 | — | Acetato de amónio: mínimo 55% | Ruminantes, a partir do início da ruminação | Declarações a apor na etiqueta ou na embalagem do produto: |\n|  |  |  |  |  |  | — menção: «Acetato de amónio», |\n|  |  |  |  |  |  | — teor de azoto e de humidade, |\n|  |  |  |  |  |  | — espécie animal ou categoria de animais |\n|  |  |  |  |  |  | Declarações a apor na etiqueta ou na embalagem dos animais compostos: |\n|  |  |  |  |  |  | — menção «Acetato de amónio», |\n|  |  |  |  |  |  | — taxa de incorporação do produto no alimento, |\n|  |  |  |  |  |  | — parte de azoto não proteico, expresso em proteína bruta (% da proteina bruta total), |\n|  |  |  |  |  |  | — indicação no modo de emprego do teor total de azoto não proteico a não exceder na ração diária, consoante a espécie animal ou a categoria de animais. |\n| [▼M10](http://publications.europa.eu/resource/celex/31993L0056) |  |  |  |  |  |  |\n|  | 2.2.3 Sulfato de amónio, solução aquosa | (NH4)2SO4 | — | Sulfato de amónio min. 35% | Ruminantes desde o início da ruminação | Declarações a incluir no rótulo ou na embalagem do produto: |\n|  |  |  |  |  |  | — a menção «sulfato de amónio» |\n|  |  |  |  |  |  | — teores de azoto e de humidade |\n|  |  |  |  |  |  | — espécie animal |\n|  |  |  |  |  |  | — para ruminantes jovens, a dose de incorporação na raça diária não deve ultrapassar 0,5% |\n|  |  |  |  |  |  | Declarações a incluir no rótulo ou embalagem do alimento composto: |\n|  |  |  |  |  |  | — a menção «sulfato de amónio» |\n|  |  |  |  |  |  | — dose de incorporação do produto no alimento |\n|  |  |  |  |  |  | — contribuição em azoto não proteico, expresso em proteína bruta (percentagem da proteína bruta total) |\n|  |  |  |  |  |  | — indicação no modo de emprego do teor de azoto não proteico a não exceder na ração diária, segundo a espécie animal |\n|  |  |  |  |  |  | — para ruminantes jovens, a dose de incorporação na ração diária não deve ultrapassar 0,5 % |\n| [▼M1](http://publications.europa.eu/resource/celex/31984L0443) |  |  |  |  |  |  |\n| 2.3. *Coprodutos do fabrico de aminoácidos por fermentação* | 2.3.1. Coprodutos líquidos, concentrados do fabrico de ácido L-glutânico por fermentação com *Corynebacterium melassecola* | Sais de amónio e outros compostos azotados | Sacarose, melaço, produtos amiláceos e seus hidrolisados | Azoto, expresso em proteína bruta: mín. 48 % | Ruminantes desde o início da ruminação | Declarações a incluir no rótulo ou embalagem do produto: — a menção «Coprodutos de fabrico de ácido L-glutâmico» para o produto 2.3.1., «Coprodutos de fabrico de L'lisina» para o produto 2.3.2. — azoto, expresso em proteína bruta — cinzas brutas — humidade — espécie animal ou categoria de animais [**►M16**](http://publications.europa.eu/resource/celex/31999L0020) — a partir de 1 de Abril de 2001: número de aprovação **◄** Declarações a incluir no rótulo ou embalagem dos alimentos compostos: [**►M2**](http://publications.europa.eu/resource/celex/31985L0509) **◄** — contributo em azoto não proteíco expresso em proteína bruta (% da proteína bruta total) — indicação no modo de emprego do teor total de azoto não proteíco a não ultrapassar na ração diária, segundo a espécie animal ou a categoria de animais |\n| 2.3.2. Coprodutos líquidos, concentrados do fabrico do monocloridrato de L-lisina por fermentação com *Brevibacterium lacto-fermentum* | Sais de amónio e outros compostos azotados | Sacarose, melaço, produtos amiláceos e seus hidrolisados | Azoto, expresso em proteína bruta: mín. 45 % | Ruminantes desde o início da ruminação |  |  |\n| [▼M18](http://publications.europa.eu/resource/celex/32003R1831) ————— |  |  |  |  |  |  |\n| (^1^)Os teores indicados ou a declarar conforme as colunas 5 e 7 se referirem a estes ou aqueles produtos. |  |  |  |  |  |  |\n\n---"
+  },
+  "6c76567001c89b4b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#src.E0001)) JO nº C 197 de 18. 8. 1977, p. 3.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#src.E0002)) JO nº C 63 de 13. 3. 1978, p. 53\n\n> ([^3^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#src.E0003)) JO nº C 84 de 8. 4. 1978, p. 4\n\n> ([^4^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#src.E0004)) JO nº L 270 de 14. 12. 1970, p. 1\n\n> ([^5^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#src.E0005)) JO nº L 170 de 3.8.1970, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#src.E0006)) JO L 268 de 18.10.2003, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#src.E0007)) JO nº L 332 de 30. 12. 1995, p. 15.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#src.E0008)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#src.E0009)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/d872f787-7254-41d6-b805-e6abc9f3159f.0018.03/DOC_1#src.E0010)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "1cf22a03f7d0d7fe": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Junho de 1982\n\nrelativa a certos produtos utilizados na alimentação dos animais\n\n(82/471/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 43º e 100º,\n\nTendo em conta a Proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/ce946d14-d4d8-4a6e-a594-8f06f355a922.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/ce946d14-d4d8-4a6e-a594-8f06f355a922.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/ce946d14-d4d8-4a6e-a594-8f06f355a922.0018.03/DOC_1#E0003)),\n\nConsiderando que a produção animal ocupa um lugar muito importante na agricultura da Comunidade e que os resultados satisfatórios dependem, em larga medida, da utilização de alimentos dos animais de boa qualidade e adequados;\n\nConsiderando que uma regulamentação do domínio dos alimentos dos animais é um factor essencial de aumento da produtividade da agricultura;\n\nConsiderando que na Comunidade o consumo das proteínas forrageiras não deixou de aumentar em consequência das necessidades, sempre crescentes, do seu efectivo pecuário;\n\nConsiderando que no decurso dos últimos anos esse aumento da procura foi acompanhado por uma baixa sensível da oferta no mercado mundial de certos alimentos proteicos;\n\nConsiderando que tal situação de penúria conduziu a indústria da alimentação animal a pesquisar produtos de substituição que garantam a segurança dos seus aprovisionamentos;\n\nConsiderando que, na medida em que os Estados-membros já possuem algumas disposições legislativas, regulamentares ou administrativas relativas a esses produtos as quais divergem nos princípios essenciais; que por esta razão essas disposições têm uma incidência directa sobre o estabelecimento e o funcionamento do mercado comum e que convém harmonizar as referidas disposições;\n\nConsiderando que, sendo esses produtos de substituição obtidos segundo as novas técnicas de fabrico, convém regulamentar a sua entrada em circulação na Comunidade como alimentos ou como componentes dos alimentos, ao prescrever, para cada um dos respectivos grupos, quais os produtos autorizados e as condições, mediante as quais os produtos autorizados devam ser utilizados;\n\nConsiderando que antes da inscrição de um produto num dos respectivos grupos, é necessário assegurar que possui os elementos nutritivos pesquisados; que importa igualmente verificar que, quando correctamente utilizados, esses produtos não exercem qualquer influência desfavorável na saúde humana ou animal ou no ambiente e que não prejudicam o consumidor pela alteração das características dos produtos animais;\n\nConsiderando que, para garantir o respeito dos princípios fundamentais impostos para a autorização, convém que seja, oficialmente, apresentado por um Estado-membro um processo para os produtos que pertencem a certos grupos; que a fim de facilitar o exame das substâncias em causa, esses processos deverão ser estabelecidos segundo as orientações comuns a adoptar pelo Conselho, o mais tardar na data da aplicação da presente directiva;\n\nConsiderando que, até ao momento em que seja tomada uma decisão comunitária sobre o assunto, convém permitir, provisoriamente, aos Estados-membros que mantenham as autorizações nacionais que tenham concedido relativamente quer aos produtos que, actualmente, não constam do anexo da presente directiva, quer a determinados produtos que, em certos casos, correspondem a outras condições; que, todavia, no caso dos produtos obtidos a partir de leveduras do género «Candida» cultivados em n-alcanos deverá ser tomada uma decisão comunitária, num prazo de dois anos, a contar da notificação da presente directiva;\n\nConsiderando que, em consequência da sua contribuição indirecta em proteínas, os compostos azotados não proteicos devem ser submetidos às disposições da presente directiva; que, consequentemente, convém alterar desde já a Directiva 70/524/CEE do Conselho, de 23 de Novembro 1970, relativamente aos aditivos na alimentação dos animais ([^4^](http://publications.europa.eu/resource/cellar/ce946d14-d4d8-4a6e-a594-8f06f355a922.0018.03/DOC_1#E0004)) no que respeita aos anexos que regulamentam, provisoriamente, o emprego dos produtos deste grupo;\n\nConsiderando que o valor nutritivo dos produtos em causa, assim como a sua inocuidade, depende em larga medida das características de composição, das condições de emprego ou dos processos de fabrico dos produtos; donde se revela indispensável, em certos casos, a obrigação de marcação para que o utilizador seja protegido contra as fraudes e utilize, o melhor possível, os produtos postos à sua disposição;\n\nConsiderando que convém não aplicar as regras comunitárias aos produtos em causa ou aos alimentos dos animais que contêm esses produtos destinados à exportação para países terceiros que, geralmente, possuem regulamentações diferentes;\n\nConsiderando que os Estados-membros deverão prever fiscalização adequada para garantir o respeito das disposições da presente directiva desde a entrada em circulação desses produtos ou dos alimentos dos animais que contenham esses produtos;\n\nConsiderando que, se os produtos corresponderem às condições impostas, os produtos ou os alimentos dos animais contendo esses produtos apenas deverão ser submetidos às restrições de comercialização previstas na presente directiva;\n\nConsiderando que é indispensável um procedimento comunitário adequado, por um lado, para adaptar as disposições do anexo e das linhas directrizes fixadas para a apresentação dos processos relativos a alguns produtos e, por outro, adoptar, eventualmente, os critérios de composição e de pureza, assim como as propriedades físico-químicas e biológicas desses produtos em função da evolução dos conhecimentos científicos e técnicos;\n\nConsiderando que, com vista a rodear-se de todas as garantias necessárias, o procedimento comunitário adoptado deverá prever a consulta obrigatória do Comité Científico da Alimentação Animal e do Comité Científico da Alimentação Humana instituídos pela Comissão, em certos casos de alteração do anexo;\n\nConsiderando que se deve deixar aos Estados-membros a faculdade de suspender, temporariamente, a autorização de emprego de um produto ou de modificar as disposições eventualmente fixadas a seu respeito, desde que a saúde humana ou animal se encontre ameaçada;\n\nConsiderando que, para evitar que um Estado-membro faça uma utilização abusiva desta faculdade, importa decidir, mediante um processo comunitário de urgência e baseado em documentos justificativos, as alterações do anexo;\n\nConsiderando que, para facilitar a aplicação da presente directiva, convém aplicar um processo que estabeleça uma estreita cooperação entre os Estados-membros e a Comissão no seio do Comité Permanente dos alimentos dos animais, instituído pela Decisão 70/372/CEE ([^5^](http://publications.europa.eu/resource/cellar/ce946d14-d4d8-4a6e-a594-8f06f355a922.0018.03/DOC_1#E0005)),\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "7097182408ed8faf": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva diz respeito aos produtos fabricados segundo certos processos técnicos com vista ao seu contributo directo ou indirecto em proteínas e postos em circulação no interior da Comunidade na qualidade de alimentos dos animais ou neles incorporados.\n\n2. A presente directiva aplica-se sem prejuízo das disposições comunitárias relativamente:\n\na) Aos aditivos na alimentação dos animais;\n\nb) À fixação dos teores máximos para as substâncias e produtos indesejáveis nos alimentos dos animais;\n\nc) À fixação dos teores máximos para os resíduos de pesticidas sobre e nos produtos destinados à alimentação humana ou animal;\n\nd) À comercialização dos alimentos [**►M14**](http://publications.europa.eu/resource/celex/31996L0025) **◄**compostos;\n\ne) Aos microrganismos patogénicos nos alimentos dos animais;\n\nf) Aos alimentos para animais com objectivos nutricionais específicos;\n\ng) A circulação de matérias-primas para alimentação animal.\n\n3. A presente directiva não se aplica aos produtos que actuem como fontes directas ou indirectas de proteínas abrangidos pelo Regulamento (CE) n.º 1829/2003 do Parlamento Europeu e do Conselho, de 22 de Setembro de 2003, relativo aos géneros alimentícios e alimentos para animais geneticamente modificados ([^6^](http://publications.europa.eu/resource/cellar/ce946d14-d4d8-4a6e-a594-8f06f355a922.0018.03/DOC_1#E0006))."
+  },
+  "1da4bfa11c6e3f4f": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros determinam que os alimentos dos animais que pertencem a um dos grupos de produtos enumerados no anexo ou que contenham produtos tais que apenas podem ser postos em circulação se:\n\na) O produto em causa constar do anexo;\n\nb) As exigências eventualmente fixadas no anexo estiverem satisfeitas.\n\n2. Os Estados-membros podem prever derrogação do nº 1 para ensaios práticos ou com fins científicos desde que seja efectuado um controlo oficial satisfatório.\n\n3. Os Estados-membros determinarão que os produtos referidos no capítulo I. 1. a) do anexo da Directiva 95/69/CE do Conselho, de 22 de Dezembro de 1995, que estabelece as condições e regras aplicáveis à aprovação e ao registo de certos estabelecimentos e intermediários no sector da alimentação animal ([^7^](http://publications.europa.eu/resource/cellar/ce946d14-d4d8-4a6e-a594-8f06f355a922.0018.03/DOC_1#E0007)) só possam ser postos em circulação por estabelecimentos ou intermediários que preencham as condições previstas, consoante o caso, nos artigos 2º ou 3º da referida directiva.\n\n4. O n.º 3 é aplicável sem prejuízo do disposto no n.º 2 do artigo 4.º da Directiva 95/69/CE."
+  },
+  "f55f768255eb76a5": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. A Comissão aprova as alterações a introduzir no anexo em consequência da evolução dos conhecimentos científicos ou técnicos. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 13.º. No que diz respeito aos produtos referidos nos pontos 1.1 e 1.2 do anexo, a Comissão consulta o Comité Científico da Alimentação Animal e o Comité Científico da Alimentação Humana.\n\nTodavia, no que diz respeito aos produtos obtidos a partir de leveduras do género «Cândida» cultivadas em n-alcanos e referidas no n.º 1 do artigo 4.º, a Comissão toma posição no prazo de dois anos a contar da notificação da presente directiva e após consulta do Comité Científico da Alimentação Animal e do Comité Científico da Alimentação Humana.\n\n2. Para a alteração do anexo são observados os seguintes princípios:\n\nA. Um produto só é inscrito no anexo desde que:\n\na) Possua um valor nutritivo para os animais em consequência do seu contributo azotado ou proteico;\n\nb) Quando usado racionalmente, não tenha influência desfavorável na saúde humana ou animal ou no ambiente e não acarrete prejuízo para o consumidor alterando as características dos produtos animais;\n\nc) Seja controlável nos alimentos.\n\nB. O produto relativamente ao qual não se encontre preenchida alguma das condições enumeradas no ponto A é eliminado do anexo.\n\n3. Os critérios que permitem caracterizar os produtos referidos na presente directiva, nomeadamente os critérios de composição e de pureza, assim como as propriedades físico-químicas e biológicas, podem ser fixados pela Comissão, tendo em conta os conhecimentos científicos ou técnicos. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 13.º."
+  },
+  "54a736be19a734c4": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Com vista a garantir que os produtos referidos nos pontos 1.1 e 1.2 do Anexo correspondam aos princípios definidos no nº 2 do artigo 6º, os Estados-membros velam por que, em conformidade com as disposições previstas no nº 2 do presente artigo, seja oficialmente transmitido um processo aos Estados-membros, à Comissão e aos membros dos Comités Científicos instituídos pela Comissão, se tiverem sido consultados.\n\n2. O Conselho, sob proposta da Comissão, adopta as linhas directrizes segundo as quais devem ser elaborados os processos referidos no nº 1, de modo a que essas linhas directrizes sejam aplicáveis, o mais tardar, na data da aplicação da presente directiva.\n\nAs modificações a introduzir, posteriormente, nas linhas directrizes, em consequência da evolução dos conhecimentos científicos ou técnicos, [**►M22**](http://publications.europa.eu/resource/celex/32009R0219) são aprovados pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 13.º **◄**.\n\n3. Os Estados-membros e a Comissão, assim como os outros destinatários do processo, referidos no nº 1, velam, mediante pedido justificado do requerente, por que as informações cuja difusão poderia atentar contra os direitos da propriedade industrial ou comercial sejam consideradas confidenciais.\n\nNão podem incluir-se no segredo industrial e comercial:\n\n— as denominações e a composição do produto e, eventualmente, a indicação do substracto e do microrganismo,\n\n— as propriedades físico-químicas e biológicas do produto,\n\n— a interpretação dos dados farmacológicos, toxicológicos e ecotoxicológicos,\n\n— os métodos de análise para o controlo do produto nos alimentos."
+  },
+  "c3ef3d89838ce077": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Se um Estado-membro verifica, com base em motivação circunstanciada em consequência de novos dados ou de uma nova avaliação dos dados existentes introduzidos depois da adopção da presente directiva, que um dos produtos enumerados no anexo ou o seu emprego nas condições eventualmente indicadas representa um perigo para a saúde humana ou animal, mesmo estando em conformidade com as disposições da presente directiva, esse Estado-membro pode, provisoriamente, suspender ou restringir, no seu território, a aplicação das respectivas disposições. Do facto informa, imediatamente, os outros Estados-membros e a Comissão, especificando os motivos que justificam a sua decisão.\n\n2. A Comissão examina, no mais curto prazo, os motivos invocados pelo Estado-membro interessado e procede à consulta dos Estados-membros através do Comité Permanente dos Alimentos dos Animais e emite de imediato o seu parecer e toma as medidas adequadas.\n\n3. Se considerar que são necessárias alterações à presente directiva para atenuar as dificuldades referidas no n.º 1 e para assegurar a protecção da saúde humana ou animal, a Comissão aprova as referidas medidas. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de urgência a que se refere o n.º 4 do artigo 13.º. Nesse caso, os Estado-Membros que tenham aprovado medidas de salvaguarda podem mantê-las em vigor até à entrada em vigor daquelas alterações."
+  },
+  "8d6342d4908fa7fc": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^8^](http://publications.europa.eu/resource/cellar/ce946d14-d4d8-4a6e-a594-8f06f355a922.0018.03/DOC_1#E0008)), a seguir designado por «Comité».\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^9^](http://publications.europa.eu/resource/cellar/ce946d14-d4d8-4a6e-a594-8f06f355a922.0018.03/DOC_1#E0009)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\n4. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1, 2, 4 e 6 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "a5993a73c3d03105": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| 1 | 2 | 3 | 4 | 5 | 6 | 7 |\n| --- | --- | --- | --- | --- | --- | --- |\n| Denominação dos grupos dos produtos | Denominação do produto | [**►M1**](http://publications.europa.eu/resource/celex/31984L0443) Designação do princípio nutritivo ou identidade do microorganismo**◄** | [**►M1**](http://publications.europa.eu/resource/celex/31984L0443) Substrato de cultura (eventuais especificações)**◄** | Características de composição do produto | Espécie animal | Disposições particulares |\n| 1. Produtos proteicos obtidos a partir dos microrganismos dos grupos seguintes: |  |  |  |  |  |  |\n| 1.1. *Bactérias* |  |  |  |  |  |  |\n| [▼M4](http://publications.europa.eu/resource/celex/31986L0530) |  |  |  |  |  |  |\n| 1.1.1. Bactérias cultivadas em metanol | 1.1.1.1. Produto proteico de fermentação obtido por cultura de *Methylophilus methylotrophus* em metanol | *Methylophilus Methylotrophus* estirpe NCIB 10 515 | Metanol | — Proteína bruta: mínimo 68 % — Índice de reflexão: superior a 50 | Porcos Vitelos Aves Peixes | Declarações a apor na etiqueta ou na embalagem do produto: — denominação do produto, — proteina bruta, — cinzas brutas, — matéria gorda bruta, — humidade; Modo de emprego: — menção: «Evitar a inalação» [**►M16**](http://publications.europa.eu/resource/celex/31999L0020) — a partir de 1 de Abril de 2001: número de aprovação **◄** Declarações a apor na etiqueta ou na embalagem dos alimentos compostos: — taxa de incorporação do produto no alimento. |\n| [▼M12](http://publications.europa.eu/resource/celex/31995L0033) |  |  |  |  |  |  |\n| 1.1.2. Bactérias cultivadas em gás natural | 1.1.2.1. Produto proteico de fermentação obtido por cultura de: *Methylococcus capsulatus* (Bath), *Alcaligenes acidovorans, Bacillus brevis* e *Bacillus firmus,* em gás natural — e cujas células foram mortas | *Methylococcus capsulatus* (Bath) estirpe NCIMB 11132 *Alcaligenes acidovorans* estirpe NCIMB 12387 *Bacillus brevis* estirpe NCIMB 13288 *Bacillus firmus* estirpe NCIMB 13280 | Gás natural (aprox. 91 % metano, 5 % etano, 2 % propano, 0,5 % isobutano, 0,5 % n-isobutano, 1 % outros constituintes), amónio, sais minerais | Proteína bruta: mínimo 65 % | — Suínos de engorda de 25 kg a 60 kg — Vitelos a partir de 80 kg — Salmões | Declarações a apor no rótulo ou na embalagem do produto: — denominação do produto: «Produto proteico de fermentação obtido por cultura de: *Methylococcus capsulatus* (Bath), *Alcaligenes acidovorans, Bacillus brevis e Bacillus firmus* em gás natural», — proteína bruta, — cinzas brutas, — matéria gorda bruta, — humidade, — (SIC! modo de emprego) — taxa máxima de incorporação do produto no alimento:— — 8 % para suínos de engorda — 8 % para vitelos — 19 % para salmões (água doce) — 33 % para salmões (água do mar) — menção «evitar a inalação» [**►M16**](http://publications.europa.eu/resource/celex/31999L0020) — a partir de 1 de Abril de 2001: número de aprovação **◄** Declarações a apor no rótulo ou na embalagem do produto: — denominação do produto: «Produto proteico obtido por fermentação bacteriana em gás natural», — taxa de incorporação do produto |\n| [▼B](http://publications.europa.eu/resource/celex/31982L0471) |  |  |  |  |  |  |\n| 1.2. Leveduras |  |  |  |  |  |  |\n| [▼M21](http://publications.europa.eu/resource/celex/32004L0116) |  |  |  |  |  |  |\n| 1.2.1. Leveduras cultivadas em substratos de origem animal ou vegetal | Todas as leveduras — obtidas a partir dos microrganismos e dos substratos enumerados nas colunas 3 e 4 respectivamente — cujas células foram mortas | *Saccharomyces cerevisiae* *Saccharomyces carlsbergiensis* *Kluyveromyces lactis* *Kluyveromyces fragilis* | Melaços, resíduos da destilação, cereais e produtos amiláceos, sumos de frutos, lacto-soro, ácido láctico, hidrolisados de fibras vegetais |  | Todas as espécies animais |  |\n| *Candida guilliermondii* | Melaços, resíduos da destilação, cereais e produtos amiláceos, sumos de frutos, lacto-soro, ácido láctico, hidrolisados de fibras vegetais | Matéria seca, 16 % mínimo | Suínos de engorda |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/31982L0471) |  |  |  |  |  |  |\n| 1.2.2. Leveduras cultivadas em substratos exceptuando os referidos em 1.2.1 |  |  |  |  |  |  |\n| 1.3. *Algas* | — | — |  |  |  |  |\n| 1.4. *Cogumelos inferiores* |  |  |  |  |  |  |\n| [▼M7](http://publications.europa.eu/resource/celex/31990L0439) |  |  |  |  |  |  |\n| 1.4.1. Co-produtos de fabrico de antibióticos, obtidos por fermentação | 1.4.1.1. *Micelium*, subproduto húmido do fabrico da penicilina, ensilado por *lactobacillus brevis, plantarum, sake, collenoid* e *stropococcus lactis* para inactivar a penicilina, e tratado pelo calor | Composto azotado *Penicilium chrysogenum* estirpe ATCC 48271 | Hidratos de carbono diversos e seus hidrolisados | Azoto, expresso em proteína bruta: mínimo 7 % | Ruminantes Suínos | Declaração a incluir no rótulo ou na embalagem do produto: |\n| — a menção: «ensilagem de micélio obtido do fabrico de penicilina» |  |  |  |  |  |  |\n| — teor de azoto, expresso em proteína bruta, |  |  |  |  |  |  |\n| — teor de cinzas brutas, |  |  |  |  |  |  |\n| — teor de humidade, |  |  |  |  |  |  |\n| — espécie animal ou categoria de animais. |  |  |  |  |  |  |\n| [**►M16**](http://publications.europa.eu/resource/celex/31999L0020) — a partir de 1 de Abril de 2001: número de aprovação **◄** |  |  |  |  |  |  |\n|  |  |  |  |  |  | Declaração no rótulo ou na embalagem dos alimentos compostos: |\n|  |  |  |  |  |  | — a menção: «ensilagem de micélio obtido do fabrico de penicilina». |\n| [▼M1](http://publications.europa.eu/resource/celex/31984L0443) |  |  |  |  |  |  |\n| 2. Compostos azotados não proteícos |  |  |  |  |  |  |\n| [▼M18](http://publications.europa.eu/resource/celex/32003R1831) ————— |  |  |  |  |  |  |\n| [▼M1](http://publications.europa.eu/resource/celex/31984L0443) |  |  |  |  |  |  |\n| 2.2. *Sais de amónio* | 2.2.1. Lactato de amónio, produzido por fermentação por *Lactobacillus bulgaricus* | CH3CHOHCOONH4 | Lactosoro | Azoto, expresso em proteína bruta: mín. 44 % | Ruminantes desde o início da ruminação | Declarações a incluir no rótulo ou embalagem do produto: — a menção «Lactato de amónio de fermentação» |\n|  |  |  |  |  |  | — azoto expresso em proteína bruta |\n|  |  |  |  |  |  | — cinzas brutas |\n|  |  |  |  |  |  | — humidade |\n|  |  |  |  |  |  | — espécie animal ou categoria de animais |\n|  |  |  |  |  |  | Declarações a incluir no rótulo ou embalagem dos alimentos compostos: |\n|  |  |  |  |  |  | — a menção «Lactato de amónio de fermentação» |\n|  |  |  |  |  |  | — taxas de incorporação do produto no alimento |\n|  |  |  |  |  |  | — contribuição em azoto não proteíco, expresso em proteína bruta (% da proteína bruta total) |\n|  |  |  |  |  |  | — indicação no modo de emprego do teor total de azoto não proteíco a não ultrapassar na ração diária, segundo a espécie animal ou a categoria de animais |\n| [▼M4](http://publications.europa.eu/resource/celex/31986L0530) |  |  |  |  |  |  |\n|  | 2.2.2. Acetato de amónio, solução aquosa | CH3COONH4 | — | Acetato de amónio: mínimo 55 % | Ruminantes, a partir do início da ruminação | Declarações a apor na etiqueta ou na embalagem do produto: |\n|  |  |  |  |  |  | — menção: «Acetato de amónio», |\n|  |  |  |  |  |  | — teor de azoto e de humidade, |\n|  |  |  |  |  |  | — espécie animal ou categoria de animais |\n|  |  |  |  |  |  | Declarações a apor na etiqueta ou na embalagem dos animais compostos: |\n|  |  |  |  |  |  | — menção «Acetato de amónio», |\n|  |  |  |  |  |  | — taxa de incorporação do produto no alimento, |\n|  |  |  |  |  |  | — parte de azoto não proteico, expresso em proteína bruta (% da proteina bruta total), |\n|  |  |  |  |  |  | — indicação no modo de emprego do teor total de azoto não proteico a não exceder na ração diária, consoante a espécie animal ou a categoria de animais. |\n| [▼M10](http://publications.europa.eu/resource/celex/31993L0056) |  |  |  |  |  |  |\n|  | 2.2.3 Sulfato de amónio, solução aquosa | (NH4)2SO4 | — | Sulfato de amónio min. 35 % | Ruminantes desde o início da ruminação | Declarações a incluir no rótulo ou na embalagem do produto: |\n|  |  |  |  |  |  | — a menção «sulfato de amónio» |\n|  |  |  |  |  |  | — teores de azoto e de humidade |\n|  |  |  |  |  |  | — espécie animal |\n|  |  |  |  |  |  | — para ruminantes jovens, a dose de incorporação na raça diária não deve ultrapassar 0,5 % |\n|  |  |  |  |  |  | Declarações a incluir no rótulo ou embalagem do alimento composto: |\n|  |  |  |  |  |  | — a menção «sulfato de amónio» |\n|  |  |  |  |  |  | — dose de incorporação do produto no alimento |\n|  |  |  |  |  |  | — contribuição em azoto não proteico, expresso em proteína bruta (percentagem da proteína bruta total) |\n|  |  |  |  |  |  | — indicação no modo de emprego do teor de azoto não proteico a não exceder na ração diária, segundo a espécie animal |\n|  |  |  |  |  |  | — para ruminantes jovens, a dose de incorporação na ração diária não deve ultrapassar 0,5 % |\n| [▼M1](http://publications.europa.eu/resource/celex/31984L0443) |  |  |  |  |  |  |\n| 2.3. *Coprodutos do fabrico de aminoácidos por fermentação* | 2.3.1. Coprodutos líquidos, concentrados do fabrico de ácido L-glutânico por fermentação com *Corynebacterium melassecola* | Sais de amónio e outros compostos azotados | Sacarose, melaço, produtos amiláceos e seus hidrolisados | Azoto, expresso em proteína bruta: mín. 48 % | Ruminantes desde o início da ruminação | Declarações a incluir no rótulo ou embalagem do produto: — a menção «Coprodutos de fabrico de ácido L-glutâmico» para o produto 2.3.1., «Coprodutos de fabrico de L'lisina» para o produto 2.3.2. — azoto, expresso em proteína bruta — cinzas brutas — humidade — espécie animal ou categoria de animais [**►M16**](http://publications.europa.eu/resource/celex/31999L0020) — a partir de 1 de Abril de 2001: número de aprovação **◄** Declarações a incluir no rótulo ou embalagem dos alimentos compostos: [**►M2**](http://publications.europa.eu/resource/celex/31985L0509) **◄** — contributo em azoto não proteíco expresso em proteína bruta (% da proteína bruta total) — indicação no modo de emprego do teor total de azoto não proteíco a não ultrapassar na ração diária, segundo a espécie animal ou a categoria de animais |\n| 2.3.2. Coprodutos líquidos, concentrados do fabrico do monocloridrato de L-lisina por fermentação com *Brevibacterium lacto-fermentum* | Sais de amónio e outros compostos azotados | Sacarose, melaço, produtos amiláceos e seus hidrolisados | Azoto, expresso em proteína bruta: mín. 45 % | Ruminantes desde o início da ruminação |  |  |\n| [▼M18](http://publications.europa.eu/resource/celex/32003R1831) ————— |  |  |  |  |  |  |\n| (^1^)Os teores indicados ou a declarar conforme as colunas 5 e 7 se referirem a estes ou aqueles produtos. |  |  |  |  |  |  |\n\n---"
+  },
+  "bc197d702334177f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ce946d14-d4d8-4a6e-a594-8f06f355a922.0018.03/DOC_1#src.E0001)) JO nº C 197 de 18.8.1977, p. 3.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ce946d14-d4d8-4a6e-a594-8f06f355a922.0018.03/DOC_1#src.E0002)) JO nº C 63 de 13.3.1978, p. 53\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ce946d14-d4d8-4a6e-a594-8f06f355a922.0018.03/DOC_1#src.E0003)) JO nº C 84 de 8.4.1978, p. 4\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ce946d14-d4d8-4a6e-a594-8f06f355a922.0018.03/DOC_1#src.E0004)) JO nº L 270 de 14.12.1970, p. 1\n\n> ([^5^](http://publications.europa.eu/resource/cellar/ce946d14-d4d8-4a6e-a594-8f06f355a922.0018.03/DOC_1#src.E0005)) JO nº L 170 de 3.8.1970, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/ce946d14-d4d8-4a6e-a594-8f06f355a922.0018.03/DOC_1#src.E0006)) JO L 268 de 18.10.2003, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/ce946d14-d4d8-4a6e-a594-8f06f355a922.0018.03/DOC_1#src.E0007)) JO nº L 332 de 30.12.1995, p. 15.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/ce946d14-d4d8-4a6e-a594-8f06f355a922.0018.03/DOC_1#src.E0008)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/ce946d14-d4d8-4a6e-a594-8f06f355a922.0018.03/DOC_1#src.E0009)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "64f681f31882558e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1982L0471 — PT — 01.09.2010 — 008.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31982L0471) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31982L0471) [de 30 de Junho de 1982](http://publications.europa.eu/resource/celex/31982L0471) [relativa a certos produtos utilizados na alimentação dos animais](http://publications.europa.eu/resource/celex/31982L0471) [(82/471/CEE)](http://publications.europa.eu/resource/celex/31982L0471) (JO L 213, 21.7.1982, p.8)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 767/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0767) — L 229 — 1 — 1.9.2009"
+  }
+ }
+}

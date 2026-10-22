@@ -35,6 +35,61 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-20'
+version_history:
+  file: diretiva-ue-2001-34.versoes.json
+  count: 2
+  source_lastmod: '2007-01-20'
+  versions:
+  - date: '2001-07-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-20'
+    amending: eu:celex:32003L0006:por
+    amending_title: M1; DIRECTIVA 2003/71/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 4
+      de Novembro de 2003; DIRECTIVA 2004/109/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Dezembro de 2004; DIRECTIVA
+      2005/1/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 9 de Março de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera CAPÍTULO IV
+    - Altera Artigo 107.º
+    - Altera Artigo 109.º
+    - Altera Artigo 113.º
+    - Adita TÍTULO I
+    - Adita DEFINIÇÕES E ÂMBITO DE APLICAÇÃO
+    - Adita CAPÍTULO I
+    - Adita Definições
+    - Adita CAPÍTULO II
+    - Adita Âmbito de aplicação
+    - Adita TÍTULO II
+    - Adita DISPOSIÇÕES GERAIS RELATIVAS À COTAÇÃO OFICIAL DE VALORES MOBILIÁRIOS
+    - Adita Condições gerais de admissão
+    - Adita Condições e obrigações mais rigorosas ou suplementares
+    - Adita CAPÍTULO III
+    - Adita Derrogações
+    - Adita Poderes das autoridades nacionais competentes
+    - Adita Secção I
+    - Adita Decisão de admissão
+    - Adita Secção II
+    - Adita Informações requeridas pelas autoridades competentes
+    - Adita Secção III
+    - Adita Medidas aplicáveis no caso de não cumprimento pelo emitente das obrigações decorrentes da admissão
+    - Adita Secção IV
+    - Adita Suspensão e exclusão
+    - Adita Secção V
+    - Adita Recurso judicial em caso de recusa de admissão ou de exclusão
+    - Adita TÍTULO III
+    - Adita CONDIÇÕES ESPECIAIS RELATIVAS À COTAÇÃO OFICIAL DE VALORES MOBILIÁRIOS
+    - Adita Publicação do prospecto de admissão
+    - Adita Disposições gerais
+    - Adita Dispensa parcial ou total da obrigação de publicar o prospecto
+    - Adita Dispensa de inclusão de certas informações no prospecto
+    - Adita Conteúdo do prospecto em casos especiais
+    - Adita Modalidades de controlo e difusão do prospecto
+    - Adita Secção VI
 identifiers:
   celex: 32001L0034
   eli: http://data.europa.eu/eli/dir/2001/34/oj
@@ -49,7 +104,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cd163d27-373c-4665-954b-6e3d00ed3c82.0010
   content_url: http://publications.europa.eu/resource/cellar/88d8ce3b-dfae-4ef8-9205-4723ec7a2b8b.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0034-20070120
-  retrieved_at: '2026-10-22T02:39:04Z'
+  retrieved_at: '2026-10-22T14:50:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T17:26:05.884+01:00'
 integrity:
@@ -58,9 +113,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:04Z'
-  notes: Texto consolidado 02001L0034-20070120.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:05Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2001-34.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -208,32 +263,21 @@ relationships:
   date: '1988-12-17'
 article_structure:
   article_count: 48
-  section_count: 132
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 133
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:04Z'
-  warnings: []
+  checked_at: '2026-10-22T14:50:05Z'
+  warnings:
+  - '02001L0034-20010726: versão indisponível (Sem expressão na língua por para CELEX 02001L0034-20010726.)'
+  - '02001L0034-20030412: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 2001/34/CE do Parlamento Europeu e do Conselho, de 28 de Maio de 2001
-
-> 2001L0034 — PT — 20.01.2007 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32003L0006) — [DIRECTIVA 2003/6/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de Janeiro de 2003](http://publications.europa.eu/resource/celex/32003L0006) — L 96 — 16 — 12.4.2003
-- [►M2](http://publications.europa.eu/resource/celex/32003L0071) — [DIRECTIVA 2003/71/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 4 de Novembro de 2003](http://publications.europa.eu/resource/celex/32003L0071) — L 345 — 64 — 31.12.2003
-- [►M3](http://publications.europa.eu/resource/celex/32004L0109) — [DIRECTIVA 2004/109/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Dezembro de 2004](http://publications.europa.eu/resource/celex/32004L0109) — L 390 — 38 — 31.12.2004
-- [►M4](http://publications.europa.eu/resource/celex/32005L0001) — [DIRECTIVA 2005/1/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 9 de Março de 2005](http://publications.europa.eu/resource/celex/32005L0001) — L 79 — 9 — 24.3.2005
-
-## DIRECTIVA 2001/34/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 28 de Maio de 2001
 

@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-1998-881.versoes.json
+  count: 1
+  source_lastmod: '2001-04-01'
+  versions:
+  - date: '1998-04-25'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31998R0881
   eli: http://data.europa.eu/eli/reg/1998/881/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5e3b163e-d6e9-47ff-b7b4-744b683947fa.0011
   content_url: http://publications.europa.eu/resource/cellar/5e3b163e-d6e9-47ff-b7b4-744b683947fa.0011.01/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:09:11Z'
+  retrieved_at: '2026-10-22T14:47:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T02:06:12.818+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:09:11Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:14Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-1998-881.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -128,17 +137,19 @@ relationships:
 article_structure:
   article_count: 7
   section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:09:11Z'
+  checked_at: '2026-10-22T14:47:14Z'
   warnings:
-  - Versão consolidada 01998R0881-20010401 indisponível (A expressão não tem manifestação XHTML nem HTML.); usado o texto
-    do JO.
-  - Não foi detetado o título principal no XHTML.
+  - '01998R0881-19981023: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R0881-19990424: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R0881-19991102: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R0881-20001201: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R0881-20010401: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

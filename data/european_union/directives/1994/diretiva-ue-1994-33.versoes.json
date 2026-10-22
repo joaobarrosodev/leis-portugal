@@ -1,0 +1,766 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994L0033:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0033-20190726",
+ "dre_path": null,
+ "source_lastmod": "2019-07-26",
+ "versions": [
+  {
+   "date": "1994-08-20",
+   "future": false,
+   "celex": "31994L0033",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "dfa21aa11e9c1893",
+    "b84137ab59c7a3f6",
+    "f5d6ac44482e5e15",
+    "0e8ca06f8d91c36b",
+    "a8ea7da095ee260c",
+    "3f2336a0b7fbed74",
+    "809cc0dd2c3c9b43",
+    "f4ce72a5f9a8edbe",
+    "441f808f19a54c7e",
+    "2b289739cde528ac",
+    "756275c1cf94f4b1",
+    "3a502f0cde497e0b",
+    "3f97f7103015df9f",
+    "245b9c735f36c6f9",
+    "5746580a45db9a83",
+    "585edca1c651653c",
+    "affbdfa758795eb5",
+    "787e291d87e70d2f",
+    "b7785f7f0ba2b3ca",
+    "cf0752534f74a41e"
+   ]
+  },
+  {
+   "date": "2007-06-28",
+   "future": false,
+   "celex": "01994L0033-20070628",
+   "acts": [
+    {
+     "id": "eu:celex:32007L0030:por",
+     "title": "DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007",
+     "published": null,
+     "celex": "32007L0030"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO",
+    "Adita SECÇÃO I",
+    "Adita Artigo 1.º — Objecto",
+    "Adita Artigo 2.º — Âmbito de aplicação",
+    "Adita Artigo 3.º — Definições",
+    "Adita Artigo 4.º — Proibição do trabalho infantil",
+    "Adita Artigo 5.º — Actividades culturais ou similares",
+    "Adita SECÇÃO II",
+    "Adita Artigo 6.º — Obrigações gerais das entidades patronais",
+    "Adita Artigo 7.º — Vulnerabilidade dos jovens — proibições de trabalho",
+    "Adita SECÇÃO III",
+    "Adita Artigo 8.º — Tempo de trabalho",
+    "Adita Artigo 9.º — Trabalho nocturno",
+    "Adita Artigo 10.º — Período de descanso",
+    "Adita Artigo 11.º — Descanso anual",
+    "Adita Artigo 12.º — Pausas",
+    "Adita Artigo 13.º — Trabalho de adolescentes em caso de força maior",
+    "Adita SECÇÃO IV",
+    "Adita Artigo 14.º — Medidas",
+    "Adita Artigo 15.º — Adaptação do anexo",
+    "Adita Artigo 16.º — Cláusula de não regressão",
+    "Adita Artigo 17.º — Disposições finais",
+    "Adita Artigo 17.º-A — Relatório de aplicação",
+    "Adita Artigo 18.º",
+    "Adita Lista não exaustiva dos agentes, processos e trabalhos",
+    "Adita (n.º 2, segundo parágrafo, do artigo 7.º)",
+    "Adita I. Agentes",
+    "Adita 1. Agentes físicos:",
+    "Adita 2. Agentes biológicos:",
+    "Adita 3. Agentes químicos:",
+    "Adita II. Processos e trabalhos",
+    "Adita Notas",
+    "Suprime SECÇÃO I — Artigo 1º",
+    "Suprime Artigo 2º — Âmbito de aplicação",
+    "Suprime Artigo 3º — Definições",
+    "Suprime Artigo 4º — Proibição do trabalho infantil",
+    "Suprime Artigo 5º — Actividades culturais ou similares",
+    "Suprime SECÇÃO II — Artigo 6º",
+    "Suprime Artigo 7º — Vulnerabilidade dos jovens - proibições de trabalho",
+    "Suprime SECÇÃO III — Artigo 8º",
+    "Suprime Artigo 9º — Trabalho nocturno",
+    "Suprime Artigo 10º — Período de descanso",
+    "Suprime Artigo 11º — Descanso anual",
+    "Suprime Artigo 12º — Pausas",
+    "Suprime Artigo 13º — Trabalho de adolescentes em caso de força maior",
+    "Suprime SECÇÃO IV — Artigo 14º",
+    "Suprime Artigo 15º — Adaptação do anexo",
+    "Suprime Artigo 16º — Cláusula de não regressão",
+    "Suprime Artigo 17º — Disposições finais",
+    "Suprime Artigo 18º"
+   ],
+   "fragments": [
+    "ce8ad632f4f73c2b",
+    "19572906891c0646",
+    "62a9c5de218209f6",
+    "bcff1e000fd0a7c4",
+    "cdd12c7734ff18af",
+    "1bdbe2823186376f",
+    "12ecf6db2d004ecc",
+    "0b50b9972a75b595",
+    "2c83dc8ac256008b",
+    "26b3a990f808b664",
+    "b4f1bfdbc841cf04",
+    "01cbaeed47773588",
+    "10c201085cf803cf",
+    "0dc6e30b10b8c5d1",
+    "e489bc05f2ba950a",
+    "5f73116f21274cbf",
+    "2e7ccba45203e36a",
+    "b9c1c438fac65788",
+    "ce9d8b0433468302",
+    "97a240ec83d7cb8a",
+    "b52271599753045e",
+    "52b98d4957dce5ef",
+    "ed5878e87c247612",
+    "75b0bb36a3be7d26",
+    "10220b9774fa9034",
+    "a60afad3c4708cd4",
+    "20afcb911047199c",
+    "3e58a3fa33bd4f07",
+    "15c18ed3d4123bce",
+    "bd4cdb925a2abc4f",
+    "0e43eee224857c3d",
+    "5c5cf69063971c90",
+    "2e204ef2d546159b"
+   ]
+  },
+  {
+   "date": "2014-03-25",
+   "future": false,
+   "celex": "01994L0033-20140325",
+   "acts": [
+    {
+     "id": "eu:celex:32014L0027:por",
+     "title": "DIRETIVA 2014/27/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014",
+     "published": null,
+     "celex": "32014L0027"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera 2. Agentes biológicos:",
+    "Altera 3. Agentes químicos:",
+    "Altera II. Processos e trabalhos",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "1baa794926ed4507",
+    "19572906891c0646",
+    "62a9c5de218209f6",
+    "bcff1e000fd0a7c4",
+    "cdd12c7734ff18af",
+    "1bdbe2823186376f",
+    "12ecf6db2d004ecc",
+    "0b50b9972a75b595",
+    "2c83dc8ac256008b",
+    "26b3a990f808b664",
+    "b4f1bfdbc841cf04",
+    "01cbaeed47773588",
+    "10c201085cf803cf",
+    "0dc6e30b10b8c5d1",
+    "e489bc05f2ba950a",
+    "5f73116f21274cbf",
+    "2e7ccba45203e36a",
+    "b9c1c438fac65788",
+    "ce9d8b0433468302",
+    "97a240ec83d7cb8a",
+    "b52271599753045e",
+    "52b98d4957dce5ef",
+    "ed5878e87c247612",
+    "75b0bb36a3be7d26",
+    "10220b9774fa9034",
+    "a60afad3c4708cd4",
+    "20afcb911047199c",
+    "3e58a3fa33bd4f07",
+    "15c18ed3d4123bce",
+    "cf5d116606ca7815",
+    "3b2784f6ad55331c",
+    "eb17b1ecc2becdf9",
+    "a6239daec597bef8"
+   ]
+  },
+  {
+   "date": "2019-07-26",
+   "future": false,
+   "celex": "01994L0033-20190726",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1243:por",
+     "title": "REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019",
+     "published": null,
+     "celex": "32019R1243"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera 2. Agentes biológicos:",
+    "Altera 3. Agentes químicos:",
+    "Altera Notas",
+    "Adita Artigo 15.º — Alteração do anexo",
+    "Adita Artigo 15.º-A — Exercício da delegação",
+    "Suprime Artigo 15.º — Adaptação do anexo"
+   ],
+   "fragments": [
+    "d03b4c424cbd3a5e",
+    "19572906891c0646",
+    "62a9c5de218209f6",
+    "bcff1e000fd0a7c4",
+    "cdd12c7734ff18af",
+    "1bdbe2823186376f",
+    "12ecf6db2d004ecc",
+    "0b50b9972a75b595",
+    "2c83dc8ac256008b",
+    "26b3a990f808b664",
+    "b4f1bfdbc841cf04",
+    "01cbaeed47773588",
+    "10c201085cf803cf",
+    "0dc6e30b10b8c5d1",
+    "e489bc05f2ba950a",
+    "5f73116f21274cbf",
+    "2e7ccba45203e36a",
+    "b9c1c438fac65788",
+    "ce9d8b0433468302",
+    "a2838b9534d4887e",
+    "760705b0346e8e22",
+    "b52271599753045e",
+    "52b98d4957dce5ef",
+    "ed5878e87c247612",
+    "75b0bb36a3be7d26",
+    "10220b9774fa9034",
+    "a60afad3c4708cd4",
+    "20afcb911047199c",
+    "3e58a3fa33bd4f07",
+    "15c18ed3d4123bce",
+    "8ea7ff7d8b0fbe60",
+    "0ce597d927fef7e3",
+    "eb17b1ecc2becdf9",
+    "57bf54b1383d2121"
+   ]
+  }
+ ],
+ "fragments": {
+  "dfa21aa11e9c1893": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 94/33/CE do Conselho, de 22 de Junho de 1994, relativa à protecção dos jovens no trabalho** *Jornal Oficial nº L 216 de 20/08/1994 p. 0012 - 0020 Edição especial finlandesa: Capítulo 5 Fascículo 6 p. 0138 Edição especial sueca: Capítulo 5 Fascículo 6 p. 0138*\n\nDIRECTIVA 94/33/CE DO CONSELHO de 22 de Junho de 1994 relativa à protecção dos jovens no trabalho\n\nO CONSELHO DA UNIAO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 118ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºC do Tratado (3),\n\nConsiderando que o artigo 118ºA do Tratado prevê que o Conselho adopte, por meio de directiva, prescrições mínimas destinadas a promover a melhoria, nomeadamente, das condições de trabalho, a fim de garantir um melhor nível de protecção da segurança e da saúde dos trabalhadores;\n\nConsiderando que, nos termos do referido artigo, essas directivas devem evitar impor disciplinas administrativas, financeiras e jurídicas tais que sejam contrárias à criação e ao desenvolvimento de pequenas e médias empresas;\n\nConsiderando que a Carta Comunitária dos Direitos Sociais Fundamentais dos Trabalhadores, adoptada no Conselho Europeu de Estrasburgo, em 9 de Dezembro de 1989, pelos chefes de Estado e de Governo de onze Estados-membros, declara, designadamente, nos seus pontos 20 e 22:\n\n«20. Sem prejuízo de regras mais favoráveis aos jovens, nomeadamente das que assegurem, pela formação, a sua inserção profissional, e salvo derrogações limitadas a certos trabalhos leves, a idade mínima de admissão ao trabalho não deve ser inferior à idade em que cessa a escolaridade obrigatória, e nunca inferior a 15 anos.»\n\n«22. Devem ser tomadas as medidas necessárias à adaptação das regras de direito de trabalho aplicáveis aos jovens trabalhadores, a fim de que as mesmas dêem resposta às exigências de desenvolvimento e às necessidades de formação profissional e de acesso ao trabalho desses jovens.\n\nNomeadamente, a duração do trabalho dos trabalhadores com menos de 18 anos deve ser limitada - sem que essa limitação possa ser contornada pelo recurso a horas extrãordinárias - e o trabalho nocturno deve ser proibido, exceptuando-se o caso de certos empregos determinados pelas legislações ou pelas regulamentações nacionais.»;\n\nConsiderando que é conveniente ter em conta os princípios da Organização Internacional do Trabalho em matéria de protecção dos jovens no trabalho, incluindo os que se referem à idade mínima de admissão ao emprego ou ao trabalho;\n\nConsiderando que, na sua resolução sobre o trabalho de menores (4), o Parlamento Europeu resume os aspectos do trabalho dos jovens, sublinhando designadamente os efeitos desse trabalho sobre a saúde, a segurança e o desenvolvimento físico e intelectual dos jovens, e insiste na necessidade de adoptar uma directiva que harmonize as legislações nacionais nesta matéria;\n\nConsiderando que a Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho (5), dispõe, no seu artigo 15º, que os grupos sujeitos a riscos especialmente sensíveis devem ser protegidos contra os perigos que os afectam especificamente;\n\nConsiderando que as crianças e os adolescentes devem ser considerados um grupo sujeito a riscos específicos e que devem ser tomadas medidas no que respeita à sua saúde e segurança;\n\nConsiderando que a vulnerabilidade das crianças exige que os Estados-membros proíbam o seu trabalho e assegurem que a idade mínima de admissão ao emprego ou ao trabalho não seja inferior à idade em que cessa a escolaridade obrigatória a tempo inteiro imposta pela legislação nacional nem, em caso algum, a 15 anos; que só podem ser admitidas derrogações à proibição do trabalho de crianças em casos específicos e nas condições previstas na presente directiva; que, para todos os efeitos, não podem prejudicar a assiduidade escolar e os benefícios da instrução;\n\nConsiderando que as características específicas da passagem da infância à idade adulta obrigam a que o trabalho dos adolescentes seja estritamente regulamentado e protegido;\n\nConsiderando que qualquer entidade patronal deve garantir aos jovens condições de trabalho adaptadas à sua idade;\n\nConsiderando que as entidades patronais devem aplicar as medidas necessárias para proteger a segurança e a saúde dos jovens com base numa avaliação dos riscos ligados ao trabalho e a que os jovens podem estar expostos;\n\nConsiderando que os Estados-membros devem proteger os jovens contra os riscos específicos resultantes da falta de experiência, da inconsciência dos riscos existentes ou virtuais ou do desenvolvimento incompleto dos jovens;\n\nConsiderando que, para o efeito, os Estados-membros devem proibir o emprego dos jovens em trabalhos previstos na presente directiva;\n\nConsiderando que a adopção de requisitos mínimos específicos na organização do horário de trabalho é susceptível de melhorar as condições de trabalho dos jovens;\n\nConsiderando que a duração máxima do trabalho dos jovens deve ser estritamente limitada e que deve ser proibido o trabalho nocturno dos jovens, exceptuando-se o caso de certos empregos determinados pelas legislações ou pelas regulamentações nacionais;\n\nConsiderando que é conveniente que os Estados-membros tomem as medidas necessárias para que o tempo de trabalho dos adolescentes submetidos à obrigação escolar não prejudique a sua aptidão para beneficiar do ensino facultado;\n\nConsiderando que o tempo consagrado à formação pelos jovens que trabalhem no âmbito de um sistema de formação teórica e/ou prática alternada ou de um estágio numa empresa deve ser incluído no horário de trabalho;\n\nConsiderando que, para que sejam garantidas a segurança e a saúde dos jovens, estes devem beneficiar de períodos mínimos de descanso - diários, semanais e anuais - e de períodos de pausa adequados;\n\nConsiderando que, no que respeita ao período de descanso semanal, convém ter devidamente em conta a diversidade dos factores culturais, étnicos, religiosos e outros nos Estados-membros; que, em especial, incumbe em última análise a cada Estado-membro decidir se e em que medida o domingo deve estar incluído no descanso semanal;\n\nConsiderando que uma experiência de trabalho adequada poderá contribuir para a realização do objectivo de preparar os jovens para a vida profissional e social de adultos, desde que se assegure que daí não resultam prejuízos para a sua segurança, saúde e desenvolvimento;\n\nConsiderando que, se se afigurarem indispensáveis derrogações às proibições e limitações previstas na presente directiva no caso de certas actividade ou situações especiais, a sua aplicação não deve prejudicar os princípios do sistema de protecção criado;\n\nConsiderando que a presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno;\n\nConsiderando que, para a aplicação concreta do sistema de protecção previsto na presente directiva, é necessário que os Estados-membros instituam um regime de medidas de carácter positivo e proporcional;\n\nConsiderando que a aplicação de certas disposições da presente directiva causa dificuldades especiais a um Estado-membro, devido ao seu sistema de protecção dos jovens no trabalho; que, por conseguinte, convém admitir que esse Estado-membro possa abster-se de pôr em aplicação as disposições em causa, durante um período apropriado,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b84137ab59c7a3f6": {
+   "fragment_id": "SECÇÃO I — Artigo 1º",
+   "type": "divisao",
+   "heading": "SECÇÃO I — Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Artigo 1º\n\nObjecto\n\n1. Os Estados-membros tomarão todas as medidas necessárias para proibir o trabalho infantil.\n\nOs Estados-membros assegurarão, nas condições previstas pela presente directiva, que a idade mínima de admissão ao emprego ou ao trabalho não seja inferior à idade em que cessa a escolaridade obrigatória a tempo inteiro imposta pela legislação nacional nem, em caso algum, a 15 anos.\n\n2. Os Estados-membros assegurarão que o trabalho dos adolescentes seja estritamente regulamentado e protegido, nas condições previstas pela presente directiva.\n\n3. Os Estados-membros assegurarão, de um modo geral, que qualquer entidade patronal garanta aos jovens condições de trabalho adaptadas à sua idade.\n\nOs Estados-membros zelarão pela protecção dos jovens contra a exploração económica e todo e qualquer trabalho susceptível de ser prejudicial à sua segurança, saúde ou desenvolvimento físico, psicológico, moral ou social, ou de pôr em causa a sua educação."
+  },
+  "f5d6ac44482e5e15": {
+   "fragment_id": "Artigo 2º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — Âmbito de aplicação\n\n1. A presente directiva aplica-se a todos os menores de 18 anos que tenham um contrato de trabalho ou uma relação de trabalho definidos de acordo com a legislação em vigor num Estado-membro e/ou estejam sujeitos à legislação em vigor num Estado-membro.\n\n2. Os Estados-membros podem, por via legislativa ou regulamentar, prever que a presente directiva não se aplique, nos limites e nas condições por eles fixados, por via legislativa ou regulamentar, aos trabalhos ocasionais ou de curta duração que digam respeito:\n\na) Ao serviço doméstico exercido num agregado familiar;\n\nb) Ao trabalho que não seja considerado nocivo, prejudicial ou perigoso para os jovens, numa empresa familiar."
+  },
+  "0e8ca06f8d91c36b": {
+   "fragment_id": "Artigo 3º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) Jovem: qualquer pessoa menor de 18 anos, a que se refere o nº 1 do artigo 2º;\n\nb) Criança: qualquer jovem que ainda não tenha atingido a idade de 15 anos ou que ainda se encontre submetido à obrigação escolar a tempo inteiro imposta pela legislação nacional;\n\nc) Adolescente: qualquer jovem que tenha no mínimo 15 anos e menos de 18 anos e que já não se encontre submetido à obrigação escolar a tempo inteiro imposta pela legislação nacional;\n\nd) Trabalhos leves: quaisquer trabalhos que, pela natureza das tarefas em causa ou das condições específicas em que sejam desempenhados:\n\ni) não sejam susceptíveis de causar prejuízo à segurança, à saúde ou ao desenvolvimento das crianças\n\ne\n\nii) não sejam de molde a prejudicar a sua assiduidade escolar, a sua participapão em programas de orientação ou de formação profissional aprovados pela autoridade competente ou a sua capacidade para beneficiar da instrução ministrada.\n\ne) Tempo de trabalho: qualquer período durante o qual o jovem se encontre no trabalho, à disposição da entidade patronal e no exercício da sua actividade ou das suas funções, em conformidade com as legislações e/ou práticas nacionais;\n\nf) Período de descanso: qualquer período que não seja tempo de trabalho."
+  },
+  "a8ea7da095ee260c": {
+   "fragment_id": "Artigo 4º — Proibição do trabalho infantil",
+   "type": "artigo",
+   "heading": "Artigo 4º — Proibição do trabalho infantil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — Proibição do trabalho infantil\n\n1. Os Estados-membros tomarão as medidas necessárias a fim de proibir o trabalho infantil.\n\n2. Tendo em conta os objectivos referidos no artigo 1º, os Estados-membros podem, por via legislativa ou regulamentar, estabelecer que a proibição do trabalho infantil não se aplique:\n\na) Às crianças que exerçam as actividades referidas no artigo 5º;\n\nb) Às crianças de, pelo menos, 14 anos de idade que trabalhem no âmbito de um sistema de formação alternada ou de um estágio numa empresa, desde que esse trabalho se realize em conformidade com as condições prescritas pela autoridade competente;\n\nc) Às crianças de, pelo menos, 14 anos de idade que prestem trabalhos leves que não sejam os decorrentes do artigo 5º; todavia, poderão ser prestados, por crianças a partir da idade de 13 anos, trabalhos leves que não sejam os que decorrem do artigo 5º, durante um número limitado de horas semanais e em relação a categorias de trabalhos determinadas pela legislação nacional.\n\n3. Os Estados-membros que façam uso da faculdade referida na alínea c) do nº 2 devem determinar as condições de trabalho associadas aos trabalhos leves em questão, respeitando as disposições da presente directiva."
+  },
+  "3f2336a0b7fbed74": {
+   "fragment_id": "Artigo 5º — Actividades culturais ou similares",
+   "type": "artigo",
+   "heading": "Artigo 5º — Actividades culturais ou similares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Actividades culturais ou similares\n\n1. A contratação de crianças para participarem em actividades de natureza cultural, artística, desportiva ou publicitária está sujeita à obtenção de uma autorização prévia emitida pela autoridade competente para cada caso individual.\n\n2. Os Estados-membros determinarão, por via legislativa ou regulamentar, as condições do trabalho infantil nos casos referidos no nº 1 e as regras do processo de autorização prévia, desde que essas actividades:\n\ni) Não sejam susceptíveis de causar prejuízo à segurança, à saúde ou ao desenvolvimento das crianças\n\ne\n\nii) Não prejudiquem a sua assiduidade escolar, a sua participação em programas de orientação ou de formação profissional aprovados pela autoridade competente ou a sua capacidade para beneficiar da instrução ministrada.\n\n3. Em derrogação ao processo previsto no nº 1 e no que se refere às crianças que tenham atingido a idade de 13 anos, os Estados-membros podem autorizar, por via legislativa ou regulamentar e nas condições por eles determinadas, a ocupação de crianças para participarem em actividades de natureza cultural, artística, desportiva ou publicitária.\n\n4. Os Estados-membros que disponham de um sistema de aprovação específico para as agências de manequins no respeitante às actividades das crianças podem manter esse sistema."
+  },
+  "809cc0dd2c3c9b43": {
+   "fragment_id": "SECÇÃO II — Artigo 6º",
+   "type": "divisao",
+   "heading": "SECÇÃO II — Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Artigo 6º\n\nObrigações gerais das entidades patronais\n\n1. Sem prejuízo do disposto no nº 1 do artigo 4º, as entidades patronais devem tomar as medidas necessárias para proteger a segurança e a saúde dos jovens, tendo especialmente em consideração os riscos específicos referidos no nº 1 do artigo 7º\n\n2. As entidades patronais aplicarão as medidas previstas no nº 1 com base numa avaliação dos riscos relacionados com o trabalho e a que os jovens podem estar expostos.\n\nA avaliação deverá ser efectuada antes de os jovens começarem a trabalhar sempre que se verifique qualquer alteração importante das condições de trabalho, devendo incidir, nomeadamente, sobre os seguintes pontos:\n\na) Equipamento e organização do local e do posto de trabalho;\n\nb) Natureza, grau e duração da exposição aos agentes físicos, biológicos e químicos;\n\nc) Adaptação, escolha e utilização de equipamentos de trabalho, nomeadamente de agentes, máquinas, aparelhos e engenhos e respectiva manipulação;\n\nd) Adaptação dos processos de trabalho, da sua execução e da respectiva interacção (organização do trabalho);\n\ne) Situação dos jovens no que se refere à formação e informação.\n\nSempre que essa avaliação revele a existência de riscos para a segurança, a saúde física ou mental ou o desenvolvimento dos jovens, devem ser garantidos, a intervalos regulares, uma avaliação e um controlo gratuitos e adequados do seu estado de saúde, sem prejuízo das disposições da Directiva 89/391/CEE.\n\nA avaliação e o controlo gratuitos do estado de saúde poderão fazer parte de um sistema nacional de saúde.\n\n3. As entidades patronais devem informar os jovens dos eventuais riscos e de todas as medidas tomadas no tocante à sua segurança e saúde.\n\nAlém disso, devem informar os representantes legais das crianças dos eventuais riscos e de todas as medidas tomadas no tocante à sua segurança e saúde.\n\n4. As entidades patronais devem associar os serviços de protecção e prevenção referidos no artigo 7º da Directiva 89/391/CEE à planificação, aplicação e controlo das condições de segurança e saúde aplicáveis ao trabalho dos jovens."
+  },
+  "f4ce72a5f9a8edbe": {
+   "fragment_id": "Artigo 7º — Vulnerabilidade dos jovens - proibições de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 7º — Vulnerabilidade dos jovens - proibições de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — Vulnerabilidade dos jovens - proibições de trabalho\n\n1. Cabe aos Estados-membros assegurar a protecção dos jovens contra os riscos específicos para a sua segurança, saúde e desenvolvimento, resultantes da falta de experiência, da inconsciência dos riscos existentes ou virtuais ou do desenvolvimento incompleto dos jovens.\n\n2. Sem prejuízo do disposto no nº 1 do artigo 4º, os Estados-membros proibirão para o efeito o emprego dos jovens em trabalhos que:\n\na) Ultrapassem objectivamente as suas capacidades físicas ou psicológicas;\n\nb) Impliquem uma exposição novica a agentes tóxicos, cancerígenos, que causem alterações genéticas hereditárias, produzam efeitos nefastos no feto durante a gravidez ou tenham qualquer outro efeito nefasto crónico no ser humano;\n\nc) Impliquem uma exposição nociva a radiações;\n\nd) Envolvam riscos de acidente que não possam ser identificados ou evitados pelos jovens devido à sua falta de sentido de segurança, de experiência ou de formação;\n\ne) Ponham em perigo a saúde, em virtude de situações de extremo frio ou calor, ou devido a ruído ou vibrações.\n\nEntre os trabalhos susceptíveis de acarretar riscos específicos para os jovens, na acepção do nº 1, contam-se, designadamente:\n\n- os trabalhos que implicam uma exposição nociva aos agentes físicos, biológicos e químicos referidos no ponto I do anexo,\n\n- os processos e trabalhos referidos no ponto II do anexo.\n\n3. Os Estados-membros podem autorizar, por via legislativa ou regulamentar, derrogações ao nº 2 para os adolescentes, desde que sejam indispensáveis à sua formação profissional e desde que a protecção da segurança e da saúde dos interessados seja garantida pelo facto de os trabalhos se efectuarem sob vigilância de pessoa competente na acepção do artigo 7º da Directiva 89/391/CEE e na condição de ser garantida a protecção assegurada pela mesma directiva."
+  },
+  "441f808f19a54c7e": {
+   "fragment_id": "SECÇÃO III — Artigo 8º",
+   "type": "divisao",
+   "heading": "SECÇÃO III — Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Artigo 8º\n\nTempo de trabalho\n\n1. Os Estados-membros que utilizem a faculdade referida no nº 2, alíneas b) ou c), do artigo 4º tomarão as medidas necessárias para limitar o tempo de trabalho das crianças a:\n\na) Oito horas por dia e 40 horas por semana para os trabalhos prestados no âmbito de um sistema de formação alternada ou de estágio numa empresa;\n\nb) Duas horas por dia de ensino e 12 horas por semana para os trabalhos prestados fora do horário lectivo durante o período escolar, na medida em que as legislações e/ou práticas nacionais o não proíbam;\n\no tempo diário de trabalho não poderá nunca ultrapassar sete horas; esse limite poderá ser aumentado para oito horas para as crianças que tenham atingido a idade de 15 anos;\n\nc) Sete horas por dia e 35 horas por semana para os trabalhos prestados durante um período de interrupção das actividades escolares de, pelo menos, uma semana; esses limites poderão ser aumentados para oito horas e 40 horas por semana para as ciranças que tenham atingido a idade de 15 anos;\n\nd) Sete horas por dia e 35 horas por semana para os trabalhos leves prestados por crianças que já não se encontrem submetidas à obrigação escolar a tempo inteiro imposta pela legislação nacional.\n\n2. Os Estados-membros tomarão as medidas necessárias para limitar o tempo de trabalho dos adolescentes a oito horas por dia e a 40 horas por semana.\n\n3. Deverão ser contadas como tempo de trabalho todas as horas consagradas à formação pelos jovens que trabalhem no âmbito de um sistema de formação teórica e/ou prática alternada ou de estágio numa empresa.\n\n4. No caso de um jovem trabalhar para várias entidades patronais, os dias e as horas de trabalho prestados são calculados cumulativamente.\n\n5. Os Estados-membros podem autorizar, por via legislativa ou regulamentar, derrogações ao nº 1, alínea a), e ao nº 2, a título excepcional e quando razões objectivas o justifiquem.\n\nOs Estados-membros determinarão, por via legislativa ou regulamentar, as condições, os limites e as regras de execução dessas derrogações."
+  },
+  "2b289739cde528ac": {
+   "fragment_id": "Artigo 9º — Trabalho nocturno",
+   "type": "artigo",
+   "heading": "Artigo 9º — Trabalho nocturno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º — Trabalho nocturno\n\n1. a) Os Estados-membros que utilizem a faculdade referida no nº 2, alíneas b) ou c), do artigo 4º tomarão as medidas necessárias para proibir o trabalho infantil entre as 20 e as 6 horas.\n\nb) Os Estados-membros tomarão as medidas necessárias para proibir o trabalho dos adolescentes entre as 22 e as 6 horas ou entre as 23 e as 7 horas.\n\n2. a) Em sectores de actividade específicos, os Estados-membros poderão autorizar, por via legislativa ou regulamentar, o trabalho dos adolescentes durante o período de proibição do trabalho nocturno a que se refere a alínea b) do nº 1.\n\nNesse caso, os Estados-membros tomarão as medidas adequadas para que o adolescente seja vigiado por um adulto sempre que essa vigilância seja necessária para a protecção do adolescente.\n\nb) Nos casos em que se aplique o disposto na alínea a), é proibido o trabalho entre as 0 e as 4 horas.\n\nTodavia, os Estados-membros podem autorizar, por via legislativa ou regulamentar, o trabalho dos adolescentes durante o período de proibição do trabalho nocturno sempre que tal se justifique por razões objectivas e na condição de ser concedido aos adolescentes um descanso compensatório adequado e de não serem postos em causa os objectivos referidos na alínea b) do artigo 1º, nos seguintes casos:\n\n- trabalhos efectuados nos sectores da navegação ou da pesca,\n\n- trabalhos efectuados nas forças armadas ou na polícia,\n\n- trabalhos efectuados em hospitais ou em estabelecimentos análogos,\n\n- participação em actividades de natureza cultural, artística, desportiva ou publicitária.\n\n3. Antes da sua eventual afectação ao trabalho nocturno e, seguidamente, a intervalos regulares, os adolescentes beneficiarão de uma avaliação gratuita do seu estado de saúde e das suas capacidades, salvo se o trabalho que prestarem durante o período de proibição de trabalho tiver um carácter excepcional."
+  },
+  "756275c1cf94f4b1": {
+   "fragment_id": "Artigo 10º — Período de descanso",
+   "type": "artigo",
+   "heading": "Artigo 10º — Período de descanso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º — Período de descanso\n\n1. a) Os Estados-membros que façam uso da faculdade prevista no nº 2, alínea b) ou c), do artigo 4º tomarão as medidas necessárias para que, por cada período de 24 horas, as crianças beneficiem de um período mínimo de descanso de 14 horas consecutivas.\n\nb) Os Estados-membros tomarão as medidas necessárias para que, por cada período de 24 horas, os adolescentes beneficiem de um período mínimo de descanso de 12 horas consecutivas.\n\n2. Os Estados-membros tomarão as medidas necessárias para garantir que, por cada período de sete dias:\n\n- as crianças em relação às quais tenha sido utilizada a faculdade referida no nº 2, alíneas b) ou c), do artigo 4º\n\ne\n\n- os adolescentes\n\nbeneficiem de um período mínimo de descanso de dois dias, se possível consecutivos.\n\nSempre que tal se justifique por razões técnicas ou de organização, o período mínimo de descanso pode ser reduzido, sem nunca poder ser inferior a 36 horas consecutivas.\n\nO período mínimo de descanso referido no primeiro e segundo parágrafos compreende, em princípio, o domingo.\n\n3. Os Estados-membros podem prever, por via legislativa ou regulamentar, a possibilidade de os períodos mínimos de descanso referidos nos nºs 1 e 2 serem interrompidos nos casos de actividades caracterizadas por períodos de trabalho fraccionados ou de curta duração ao longo do dia.\n\n4. Os Estados-membros podem estabelecer, por via legislativa ou regulamentar, derrogações ao nº 1, alínea b), e ao nº 2 relativamente aos adolescentes, sempre que tal se justifique por razões objectivas e na condição de ser concedido aos adolescentes um descanso compensatório adequado e de não serem postos em causa os objectivos referidos no artigo 1º, nos seguintes casos:\n\na) Trabalhos efectuados nos sectores da navegação ou da pesca;\n\nb) Trabalhos efectuados nas forças armadas ou na polícia;\n\nc) Trabalhos efectuados em hospitais ou em estabelecimentos análogos;\n\nd) Trabalhos efectuados no sector agrícola;\n\ne) Trabalhos efectuados nos sectores do turismo ou da hotelaria, da restauração e similares;\n\nf) Actividades caracterizadas por períodos de trabalho fraccionados ao longo do dia."
+  },
+  "3a502f0cde497e0b": {
+   "fragment_id": "Artigo 11º — Descanso anual",
+   "type": "artigo",
+   "heading": "Artigo 11º — Descanso anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º — Descanso anual\n\nOs Estados-membros que façam uso da faculdade prevista no nº 2, alíneas b) ou c), do artigo 4º providenciarão para que um período livre de qualquer trabalho coincida, na medida do possível, com as férias escolares das crianças sujeitas a escolaridade obrigatória a tempo inteiro."
+  },
+  "3f97f7103015df9f": {
+   "fragment_id": "Artigo 12º — Pausas",
+   "type": "artigo",
+   "heading": "Artigo 12º — Pausas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º — Pausas\n\nOs Estados-membros tomarão as medidas necessárias para que, no caso de o período de trabalho diário ser superior a quatro horas e meia, os jovens beneficiem de uma pausa com uma duração mínima de 30 minutos, se possível consecutivos."
+  },
+  "245b9c735f36c6f9": {
+   "fragment_id": "Artigo 13º — Trabalho de adolescentes em caso de força maior",
+   "type": "artigo",
+   "heading": "Artigo 13º — Trabalho de adolescentes em caso de força maior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º — Trabalho de adolescentes em caso de força maior\n\nOs Estados-membros podem, por via legislativa ou regulamentar, autorizar derrogações ao disposto no nº 2 do artigo 8º, no nº 1, alínea b), do artigo 9º, no nº 1, alínea b), do artigo 10º e, no que se refere aos adolescentes, no artigo 12º, para a realização de trabalhos nas circunstâncias referidas no nº 4 do artigo 5º da Directiva 89/391/CEE, desde que os trabalhos em questão sejam de carácter passageiro e não possam ser adiados, que não haja trabalhadores adultos disponíveis e que sejam concedidos aos adolescentes, num prazo de três semanas, períodos de descanso compensatório equivalentes."
+  },
+  "5746580a45db9a83": {
+   "fragment_id": "SECÇÃO IV — Artigo 14º",
+   "type": "divisao",
+   "heading": "SECÇÃO IV — Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Artigo 14º\n\nMedidas\n\nCada Estado-membro determinará todas as medidas necessárias a aplicar em caso de violação das disposições adoptadas em aplicação da presente directiva; as referidas medidas devem ter um carácter eficaz e proporcional."
+  },
+  "585edca1c651653c": {
+   "fragment_id": "Artigo 15º — Adaptação do anexo",
+   "type": "artigo",
+   "heading": "Artigo 15º — Adaptação do anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º — Adaptação do anexo\n\nAs adaptações de natureza estritamente técnica do anexo em função do progresso técnico, da evolução das regulamentações ou especificações internacionais ou dos conhecimentos no domínio abrangido pela presente directiva serão adoptadas segundo o procedimento previsto no artigo 17º da Directiva 89/391/CEE."
+  },
+  "affbdfa758795eb5": {
+   "fragment_id": "Artigo 16º — Cláusula de não regressão",
+   "type": "artigo",
+   "heading": "Artigo 16º — Cláusula de não regressão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º — Cláusula de não regressão\n\nSem prejuízo do direito de os Estados-membros desenvolverem, face à evolução da situação, disposições diferentes no domínio da protecção dos jovens, desde que sejam respeitados os requisitos mínimos previstos na presente directiva, a aplicação da directiva não pode constituir justificação válida para fazer regredir o nível geral de protecção dos jovens."
+  },
+  "787e291d87e70d2f": {
+   "fragment_id": "Artigo 17º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 17º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º — Disposições finais\n\n1. a) Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 22 de Junho de 1996 ou garantirão que, o mais tardar nessa data, os parceiros sociais instituam, por acordo, as disposições necessárias, devendo os Estados-membros tomar todas as medidas necessárias para poderem, em qualquer momento, garantir os resultados impostos pela presente directiva.\n\nb) Durante um período de quatro anos a contar da data referida na alínea a), o Reino Unido pode abster-se de aplicar o nº 1, alínea b), primeiro parágrafo, do artigo 8º, no que respeita à disposição relativa à duração máxima semanal do trabalho, bem como o nº 2 do artigo 8º e o nº 1, alínea b), e o nº 2 do artigo 9º\n\nA Comissão apresentará um relatório sobre os efeitos da presente disposição.\n\nO Conselho, deliberando nas condições previstas no Tratado, decide se o período acima referido deverá ser prolongado.\n\nc) Os Estados-membros informarão imediatamente do facto a Comissão.\n\n2. Quando os Estados-membros adoptarem as disposições previstas no nº 1, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-membros.\n\n3. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que tenham adoptado ou venham a adoptar no domínio da regulamentação da presente directiva.\n\n4. De cinco em cinco anos, os Estados-membros apresentarão à Comissão um relatório sobre a aplicação prática do disposto na presente directiva, indicando os pontos de vista dos parceiros sociais.\n\nA Comissão transmitirá essas informações ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social.\n\n5. A Comissão apresentará periodicamente ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social um relatório sobre a aplicação da presente directiva, tendo em conta os nºs 1, 2, 3 e 4."
+  },
+  "b7785f7f0ba2b3ca": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 22 de Junho de 1994.\n\nPelo Conselho\n\nO Presidente\n\nE. YIANNOPOULOS\n\n(1) JO nº C 84 de 4. 4. 1992, p. 7.(2) JO nº C 313 de 30. 11. 1992, p. 70.(3) Parecer do Parlamento Europeu de 17 de Dezembro de 1992 (JO nº C 21 de 25. 1. 1993, p. 167). Posição comum do Conselho de 23 de Novembro de 1993 (ainda não publicada no Jornal Oficial) e decisão do Parlamento Europeu de 9 de Março de 1994 (JO nº C 91 de 28. 3. 1994, p. 89).(4) JO nº C 190 de 20. 7. 1987, p. 44.(5) JO nº L 183 de 29. 6. 1989, p. 1."
+  },
+  "cf0752534f74a41e": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nLista não exaustiva dos agentes, processos e trabalhos (nº 2, segundo parágrafo, do artigo 7º) I. Agentes 1. Agentes físicos:\n\na) Radiações ionizantes;\n\nb) Trabalho em atmosfera de sobrepressão elevada, por exemplo nas câmaras hiperbáricas, mergulho submarino.\n\n2. Agentes biológicos:\n\na) Agentes biológicos dos grupos 3 e 4 na acepção da alínea d) do artigo 2º da Directiva 90/679/CEE do Conselho, de 26 de Novembro de 1990, relativa à protecção dos trabalhadores contra os riscos ligados à exposição a agentes biológicos durante o trabalho [sétima directiva especial na acepção do nº 1 do artigo 16º da Directiva 89/391/CEE (1)].\n\n3. Agentes químicos:\n\na) Substâncias e preparados que, nos termos da Directiva 67/548/CEE do Conselho, de 27 de Junho de 1967, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem das substâncias perigosas (2), e da Directiva 88/379/CEE do Conselho, de 7 de Junho de 1988, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros respeitantes à classificação, embalagem e rotulagem dos preparados perigosos (3), são classificados como tóxicos (T), muito tóxicos (Tx), corrosivos (C) ou explosivos (E);\n\nb) Substâncias e preparados que, nos termos das Directivas 67/548/CEE e 88/379/CEE do Conselho, são classificados como nocivos (Xn) e qualificados por uma ou mais das seguintes frases referentes ao respectivo risco:\n\n- perigo de efeitos irreversíveis muito graves (R39),\n\n- possibilidade de efeitos irreversíveis (R40),\n\n- pode causar sensibilização por inalação (R42),\n\n- pode causar sensibilização por contacto com a pele (R43)\n\n- pode causar cancro (R45),\n\n- pode causar alterações genéticas hereditárias (R46),\n\n- risco de efeitos graves para a saúde em caso de exposição prolongada (R48),\n\n- pode comprometer a fertilidade (R60),\n\n- risco, durante a gravidez, de efeitos nefastos para a criança (R61);\n\nc) Substâncias e preparados que, nos termos das Directivas 67/548/CEE e 88/379/CEE do Conselho, são classificados como irritantes (Xi) e qualificados por uma ou mais das seguintes frases referentes ao respectivo risco:\n\n- altamente inflamável (R12),\n\n- pode causar sensibilização por inalação (R42),\n\n- pode causer sensibilização por contacto com a pele (R43);\n\nd) Substâncias e preparações a que se refere a alínea c) do artigo 2º da Directiva 90/394/CEE do Conselho, de 28 de Junho de 1990, relativa à protecção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos durante o trabalho [sexta directiva especial na acepção do nº 1 do artigo 16º da Directiva 89/391/CEE (4)];\n\ne) Chumbo e seus compostos, na medida em que esses agentes sejam susceptíveis de ser absorvidos pelo organismo humano;\n\nf) Amianto.\n\nII. Processos e trabalhos 1. Processos e trabalhos constantes do anexo I da Directiva 90/394/CEE.\n\n2. Trabalhos de fabrico e de manipulação de engenhos, artifícios ou objectos diversos que contenham explosivos.\n\n3. Trabalhos em locais de criação de animais ferozes ou venenosos.\n\n4. Trabalhos de abate industrial de animais.\n\n5. Trabalhos que impliquem a manipulação de aparelhos de produção, de armazenamento ou de utilização de gases comprimidos, liquefeitos ou dissolvidos.\n\n6. Trabalhos com cubas, tanques, reservatórios, garrafas ou botijas que contenham agentes químicos referidos no ponto 1.3.\n\n7. Trabalhos que impliquem riscos de desabamento.\n\n8. Trabalhos que impliquem riscos por contacto com a energia eléctrica de alta tensão.\n\n9. Trabalhos cuja cadência seja condicionada por máquinas e que sejam remunerados em função do resultado.\n\n(1) JO nº L 374 de 31. 12. 1990, p. 1.(2) JO nº L 196 de 16. 8. 1967, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 93/679/CEE (JO nº L 268 de 29. 10. 1993, p. 71).(3) JO nº L 187 de 16. 7. 1988, p. 14. Directiva com a última redacção que lhe foi dada pela Directiva 93/8/CEE (JO nº L 104 de 29. 4. 1993, p. 46).(4) JO nº L 196 de 26. 7. 1990, p. 1."
+  },
+  "ce8ad632f4f73c2b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Junho de 1994\n\nrelativa à protecção dos jovens no trabalho\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 118.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/4443dbf4-dd4a-4d71-8bdb-8497ebf2681b.0019.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/4443dbf4-dd4a-4d71-8bdb-8497ebf2681b.0019.03/DOC_1#E0002)),\n\nDeliberando nos termos do procedimento previsto no artigo 189.ºC do Tratado ([^3^](http://publications.europa.eu/resource/cellar/4443dbf4-dd4a-4d71-8bdb-8497ebf2681b.0019.03/DOC_1#E0003)),\n\nConsiderando que o artigo 118.ºA do Tratado prevê que o Conselho adopte, por meio de directiva, prescrições mínimas destinadas a promover a melhoria, nomeadamente, das condições de trabalho, a fim de garantir um melhor nível de protecção da segurança e da saúde dos trabalhadores;\n\nConsiderando que, nos termos do referido artigo, essas directivas devem evitar impor disciplinas administrativas, financeiras e jurídicas tais que sejam contrárias à criação e ao desenvolvimento de pequenas e médias empresas;\n\nConsiderando que a Carta Comunitária dos Direitos Sociais Fundamentais dos Trabalhadores, adoptada no Conselho Europeu de Estrasburgo, em 9 de Dezembro de 1989, pelos chefes de Estado e de Governo de onze Estados-membros, declara, designadamente, nos seus pontos 20 e 22:\n\n«20. Sem prejuízo de regras mais favoráveis aos jovens, nomeadamente das que assegurem, pela formação, a sua inserção profissional, e salvo derrogações limitadas a certos trabalhos leves, a idade mínima de admissão ao trabalho não deve ser inferior à idade em que cessa a escolaridade obrigatória, e nunca inferior a 15 anos.»\n\n«22. Devem ser tomadas as medidas necessárias à adaptação das regras de direito de trabalho aplicáveis aos jovens trabalhadores, a fim de que as mesmas dêem resposta às exigências de desenvolvimento e às necessidades de formação profissional e de acesso ao trabalho desses jovens.\n\nConsiderando que é conveniente ter em conta os princípios da Organização Internacional do Trabalho em matéria de protecção dos jovens no trabalho, incluindo os que se referem à idade mínima de admissão ao emprego ou ao trabalho;\n\nConsiderando que, na sua resolução sobre o trabalho de menores ([^4^](http://publications.europa.eu/resource/cellar/4443dbf4-dd4a-4d71-8bdb-8497ebf2681b.0019.03/DOC_1#E0004)), o Parlamento Europeu, resume os aspectos do trabalho dos jovens, sublinhando designadamente os efeitos desse trabalho sobre a saúde, a segurança e o desenvolvimento físico e intelectual dos jovens, e insiste na necessidade de adoptar uma directiva que harmonize as legislações nacionais nesta matéria;\n\nConsiderando que a Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho ([^5^](http://publications.europa.eu/resource/cellar/4443dbf4-dd4a-4d71-8bdb-8497ebf2681b.0019.03/DOC_1#E0005)), dispõe, no seu artigo 15.º, que os grupos sujeitos a riscos especialmente sensíveis devem ser protegidos contra os perigos que os afectam especificamente;\n\nConsiderando que as crianças e os adolescentes devem ser considerados um grupo sujeito a riscos específicos e que devem ser tomadas medidas no que respeita à sua saúde e segurança;\n\nConsiderando que a vulnerabilidade das crianças exige que os Estados-membros proíbam o seu trabalho e assegurem que a idade mínima de admissão ao emprego ou ao trabalho não seja inferior à idade em que cessa a escolaridade obrigatória a tempo inteiro imposta pela legislação nacional nem, em caso algum, a 15 anos; que só podem ser admitidas derrogações à proibição do trabalho de crianças em casos específicos e nas condições previstas na presente directiva; que, para todos os efeitos, não podem prejudicar a assiduidade escolar e os benefícios da instrução;\n\nConsiderando que as características específicas da passagem da infância à idade adulta obrigam a que o trabalho dos adolescentes seja estritamente regulamentado e protegido;\n\nConsiderando que qualquer entidade patronal deve garantir aos jovens condições de trabalho adaptadas à sua idade;\n\nConsiderando que as entidades patronais devem aplicar as medidas necessárias para proteger a segurança e a saúde dos jovens com base numa avaliação dos riscos ligados ao trabalho e a que os jovens podem estar expostos;\n\nConsiderando que os Estados-membros devem proteger os jovens contra os riscos específicos resultantes da falta de experiência, da inconsciência dos riscos existentes ou virtuais ou do desenvolvimento incompleto dos jovens;\n\nConsiderando que, para o efeito, os Estados-membros devem proibir o emprego dos jovens em trabalhos previstos na presente directiva;\n\nConsiderando que a adopção de requisitos mínimos específicos na organização do horário de trabalho é susceptível de melhorar as condições de trabalho dos jovens;\n\nConsiderando que a duração máxima do trabalho dos jovens deve ser estritamente limitada e que deve ser proibido o trabalho nocturno dos jovens, exceptuando-se o caso de certos empregos determinados pelas legislações ou pelas regulamentações nacionais;\n\nConsiderando que é conveniente que os Estados-membros tomem as medidas necessárias para que o tempo de trabalho dos adolescentes submetidos à obrigação escolar não prejudique a sua aptidão para beneficiar do ensino facultado;\n\nConsiderando que o tempo consagrado à formação pelos jovens que trabalhem no âmbito de um sistema de formação teórica e/ou prática alternada ou de um estágio numa empresa deve ser incluído no horário de trabalho;\n\nConsiderando que, para que sejam garantidas a segurança e a saúde dos jovens, estes devem beneficiar de períodos mínimos de descanso — diários, semanais e anuais — e de períodos de pausa adequados;\n\nConsiderando que, no que respeita ao período de descanso semanal, convém ter devidamente em conta a diversidade dos factores culturais, étnicos, religiosos e outros nos Estados-membros; que, em especial, incumbe em última análise a cada Estado-membro decidir se e em que medida o domingo deve estar incluído no descanso semanal;\n\nConsiderando que uma experiência de trabalho adequada poderá contribuir para a realização do objectivo de preparar os jovens para a vida profissional e social de adultos, desde que se assegure que daí não resultam prejuízos para a sua segurança, saúde e desenvolvimento;\n\nConsiderando que, se se afigurarem indispensáveis derrogações às proibições e limitações previstas na presente directiva no caso de certas actividade ou situações especiais, a sua aplicação não deve prejudicar os princípios do sistema de protecção criado;\n\nConsiderando que a presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno;\n\nConsiderando que, para a aplicação concreta do sistema de protecção previsto na presente directiva, é necessário que os Estados-membros instituam um regime de medidas de carácter positivo e proporcional;\n\nConsiderando que a aplicação de certas disposições da presente directiva causa dificuldades especiais a um Estado-membro, devido ao seu sistema de protecção dos jovens no trabalho; que, por conseguinte, convém admitir que esse Estado-membro possa abster-se de pôr em aplicação as disposições em causa, durante um período apropriado,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "19572906891c0646": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO I"
+  },
+  "62a9c5de218209f6": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. Os Estados-membros tomarão todas as medidas necessárias para proibir o trabalho infantil.\n\nOs Estados-membros assegurarão, nas condições previstas pela presente directiva, que a idade mínima de admissão ao emprego ou ao trabalho não seja inferior à idade em que cessa a escolaridade obrigatória a tempo inteiro imposta pela legislação nacional nem, em caso algum, a 15 anos.\n\n2. Os Estados-membros assegurarão que o trabalho dos adolescentes seja estritamente regulamentado e protegido, nas condições previstas pela presente directiva.\n\n3. Os Estados-membros assegurarão, de um modo geral, que qualquer entidade patronal garanta aos jovens condições de trabalho adaptadas à sua idade.\n\nOs Estados-membros zelarão pela protecção dos jovens contra a exploração económica e todo e qualquer trabalho susceptível de ser prejudicial à sua segurança, saúde ou desenvolvimento físico, psicológico, moral ou social, ou de pôr em causa a sua educação."
+  },
+  "bcff1e000fd0a7c4": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. A presente directiva aplica-se a todos os menores de 18 anos que tenham um contrato de trabalho ou uma relação de trabalho definidos de acordo com a legislação em vigor num Estado-membro e/ou estejam sujeitos à legislação em vigor num Estado-membro.\n\n2. Os Estados-membros podem, por via legislativa ou regulamentar, prever que a presente directiva não se aplique, nos limites e nas condições por eles fixados, por via legislativa ou regulamentar, aos trabalhos ocasionais ou de curta duração que digam respeito:\n\na) Ao serviço doméstico exercido num agregado familiar;\n\nb) Ao trabalho que não seja considerado nocivo, prejudicial ou perigoso para os jovens, numa empresa familiar."
+  },
+  "cdd12c7734ff18af": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) Jovem: qualquer pessoa menor de 18 anos, a que se refere o n.º 1 do artigo 2.º;\n\nb) Criança: qualquer jovem que ainda não tenha atingido a idade de 15 anos ou que ainda se encontre submetido à obrigação escolar a tempo inteiro imposta pela legislação nacional;\n\nc) Adolescente: qualquer jovem que tenha no mínimo 15 anos e menos de 18 anos e que já não se encontre submetido à obrigação escolar a tempo inteiro imposta pela legislação nacional;\n\nd) Trabalhos leves: quaisquer trabalhos que, pela natureza das tarefas em causa ou das condições específicas em que sejam desempenhados:\n\ni) não sejam susceptíveis de causar prejuízo à segurança, à saúde ou ao desenvolvimento das crianças\n\nii) não sejam de molde a prejudicar a sua assiduidade escolar, a sua participapão em programas de orientação ou de formação profissional aprovados pela autoridade competente ou a sua capacidade para beneficiar da instrução ministrada.\n\ne) Tempo de trabalho: qualquer período durante o qual o jovem se encontre no trabalho, à disposição da entidade patronal e no exercício da sua actividade ou das suas funções, em conformidade com as legislações e/ou práticas nacionais;\n\nf) Período de descanso: qualquer período que não seja tempo de trabalho."
+  },
+  "1bdbe2823186376f": {
+   "fragment_id": "Artigo 4.º — Proibição do trabalho infantil",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Proibição do trabalho infantil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Proibição do trabalho infantil\n\n1. Os Estados-membros tomarão as medidas necessárias a fim de proibir o trabalho infantil.\n\n2. Tendo em conta os objectivos referidos no artigo 1.º, os Estados-membros podem, por via legislativa ou regulamentar, estabelecer que a proibição do trabalho infantil não se aplique:\n\na) Às crianças que exerçam as actividades referidas no artigo 5.º;\n\nb) Às crianças de, pelo menos, 14 anos de idade que trabalhem no âmbito de um sistema de formação alternada ou de um estágio numa empresa, desde que esse trabalho se realize em conformidade com as condições prescritas pela autoridade competente;\n\nc) Às crianças de, pelo menos, 14 anos de idade que prestem trabalhos leves que não sejam os decorrentes do artigo 5.º, todavia, poderão ser prestados, por crianças a partir da idade de 13 anos, trabalhos leves que não sejam os que decorrem do artigo 5.º, durante um número limitado de horas semanais e em relação a categorias de trabalhos determinadas pela legislação nacional.\n\n3. Os Estados-membros que façam uso da faculdade referida na alínea c) do n.º 2 devem determinar as condições de trabalho associadas aos trabalhos leves em questão, respeitando as disposições da presente directiva."
+  },
+  "12ecf6db2d004ecc": {
+   "fragment_id": "Artigo 5.º — Actividades culturais ou similares",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Actividades culturais ou similares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Actividades culturais ou similares\n\n1. A contratação de crianças para participarem em actividades de natureza cultural, artística, desportiva ou publicitária está sujeita à obtenção de uma autorização prévia emitida pela autoridade competente para cada caso individual.\n\n2. Os Estados-membros determinarão, por via legislativa ou regulamentar, as condições do trabalho infantil nos casos referidos no n.º 1 e as regras do processo de autorização prévia, desde que essas actividades:\n\ni) Não sejam susceptíveis de causar prejuízo à segurança, à saúde ou ao desenvolvimento das crianças\n\nii) Não prejudiquem a sua assiduidade escolar, a sua participação em programas de orientação ou de formação profissional aprovados pela autoridade competente ou a sua capacidade para beneficiar da instrução ministrada.\n\n3. Em derrogação ao processo previsto no n.º 1 e no que se refere às crianças que tenham atingido a idade de 13 anos, os Estados-membros podem autorizar, por via legislativa ou regulamentar e nas condições por eles determinadas, a ocupação de crianças para participarem em actividades de natureza cultural, artística, desportiva ou publicitária.\n\n4. Os Estados-membros que disponham de um sistema de aprovação específico para as agências de manequins no respeitante às actividades das crianças podem manter esse sistema."
+  },
+  "0b50b9972a75b595": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO II"
+  },
+  "2c83dc8ac256008b": {
+   "fragment_id": "Artigo 6.º — Obrigações gerais das entidades patronais",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Obrigações gerais das entidades patronais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações gerais das entidades patronais\n\n1. Sem prejuízo do disposto no n.º 1 do artigo 4.º, as entidades patronais devem tomar as medidas necessárias para proteger a segurança e a saúde dos jovens, tendo especialmente em consideração os riscos específicos referidos no n.º 1 do artigo 7.º\n\n2. As entidades patronais aplicarão as medidas previstas no n.º 1 com base numa avaliação dos riscos relacionados com o trabalho e a que os jovens podem estar expostos.\n\nA avaliação deverá ser efectuada antes de os jovens começarem a trabalhar sempre que se verifique qualquer alteração importante das condições de trabalho, devendo incidir, nomeadamente, sobre os seguintes pontos:\n\na) Equipamento e organização do local e do posto de trabalho;\n\nb) Natureza, grau e duração da exposição aos agentes físicos, biológicos e químicos;\n\nc) Adaptação, escolha e utilização de equipamentos de trabalho, nomeadamente de agentes, máquinas, aparelhos e engenhos e respectiva manipulação;\n\nd) Adaptação dos processos de trabalho, da sua execução e da respectiva interacção (organização do trabalho);\n\ne) Situação dos jovens no que se refere à formação e informação.\n\nSempre que essa avaliação revele a existência de riscos para a segurança, a saúde física ou mental ou o desenvolvimento dos jovens, devem ser garantidos, a intervalos regulares, uma avaliação e um controlo gratuitos e adequados do seu estado de saúde, sem prejuízo das disposições da Directiva 89/391/CEE.\n\nA avaliação e o controlo gratuitos do estado de saúde poderão fazer parte de um sistema nacional de saúde.\n\n3. As entidades patronais devem informar os jovens dos eventuais riscos e de todas as medidas tomadas no tocante à sua segurança e saúde.\n\nAlém disso, devem informar os representantes legais das crianças dos eventuais riscos e de todas as medidas tomadas no tocante à sua segurança e saúde.\n\n4. As entidades patronais devem associar os serviços de protecção e prevenção referidos no artigo 7.º da Directiva 89/391/CEE à planificação, aplicação e controlo das condições de segurança e saúde aplicáveis ao trabalho dos jovens."
+  },
+  "26b3a990f808b664": {
+   "fragment_id": "Artigo 7.º — Vulnerabilidade dos jovens — proibições de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Vulnerabilidade dos jovens — proibições de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Vulnerabilidade dos jovens — proibições de trabalho\n\n1. Cabe aos Estados-membros assegurar a protecção dos jovens contra os riscos específicos para a sua segurança, saúde e desenvolvimento, resultantes da falta de experiência, da inconsciência dos riscos existentes ou virtuais ou do desenvolvimento incompleto dos jovens.\n\n2. Sem prejuízo do disposto no n.º 1 do artigo 4.º, os Estados-membros proibirão para o efeito o emprego dos jovens em trabalhos que:\n\na) Ultrapassem objectivamente as suas capacidades físicas ou psicológicas;\n\nb) Impliquem uma exposição noviça a agentes tóxicos, cancerígenos, que causem alterações genéticas hereditárias, produzam efeitos nefastos no feto durante a gravidez ou tenham qualquer outro efeito nefasto crónico no ser humano;\n\nc) Impliquem uma exposição nociva a radiações;\n\nd) Envolvam riscos de acidente que não possam ser identificados ou evitados pelos jovens devido à sua falta de sentido de segurança, de experiência ou de formação;\n\ne) Ponham em perigo a saúde, em virtude de situações de extremo frio ou calor, ou devido a ruído ou vibrações.\n\nEntre os trabalhos susceptíveis de acarretar riscos específicos para os jovens, na acepção do n.º 1, contam-se, designadamente:\n\n— os trabalhos que implicam uma exposição nociva aos agentes físicos, biológicos e químicos referidos no ponto I do anexo,\n\n— os processos e trabalhos referidos no ponto II do anexo.\n\n3. Os Estados-membros podem autorizar, por via legislativa ou regulamentar, derrogações ao n.º 2 para os adolescentes, desde que sejam indispensáveis à sua formação profissional e desde que a protecção da segurança e da saúde dos interessados seja garantida pelo facto de os trabalhos se efectuarem sob vigilância de pessoa competente na acepção do artigo 7.º da Directiva 89/391/CEE e na condição de ser garantida a protecção assegurada pela mesma directiva."
+  },
+  "b4f1bfdbc841cf04": {
+   "fragment_id": "SECÇÃO III",
+   "type": "divisao",
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO III"
+  },
+  "01cbaeed47773588": {
+   "fragment_id": "Artigo 8.º — Tempo de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Tempo de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Tempo de trabalho\n\n1. Os Estados-membros que utilizem a faculdade referida no n.º 2, alíneas b) ou c), do artigo 4.º tomarão as medidas necessárias para limitar o tempo de trabalho das crianças a:\n\na) Oito horas por dia e 40 horas por semana para os trabalhos prestados no âmbito de um sistema de formação alternada ou de estágio numa empresa;\n\nb) Duas horas por dia de ensino e 12 horas por semana para os trabalhos prestados fora do horário lectivo durante o período escolar, na medida em que as legislações e/ou práticas nacionais o não proíbam;\n\nc) Sete horas por dia e 35 horas por semana para os trabalhos prestados durante um período de interrupção das actividades escolares de, pelo menos, uma semana; esses limites poderão ser aumentados para oito horas e 40 horas por semana para as crianças que tenham atingido a idade de 15 anos;\n\nd) Sete horas por dia e 35 horas por semana para os trabalhos leves prestados por crianças que já não se encontrem submetidas à obrigação escolar a tempo inteiro imposta pela legislação nacional.\n\n2. Os Estados-membros tomarão as medidas necessárias para limitar o tempo de trabalho dos adolescentes a oito horas por dia e a 40 horas por semana.\n\n3. Deverão ser contadas como tempo de trabalho todas as horas consagradas à formação pelos jovens que trabalhem no âmbito de um sistema de formação teórica e/ou prática alternada ou de estágio numa empresa.\n\n4. No caso de um jovem trabalhar para várias entidades patronais, os dias e as horas de trabalho prestados são calculados cumulativamente.\n\n5. Os Estados-membros podem autorizar, por via legislativa ou regulamentar, derrogações ao n.º 1, alínea a), e ao n.º 2, a título excepcional e quando razões objectivas o justifiquem.\n\nOs Estados-membros determinarão, por via legislativa ou regulamentar, as condições, os limites e as regras de execução dessas derrogações."
+  },
+  "10c201085cf803cf": {
+   "fragment_id": "Artigo 9.º — Trabalho nocturno",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Trabalho nocturno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Trabalho nocturno\n\na) Os Estados-membros que utilizem a faculdade referida no n.º 2, alíneas b) ou c), do artigo 4.º tomarão as medidas necessárias para proibir o trabalho infantil entre as 20 e as 6 horas.\n\nb) Os Estados-membros tomarão as medidas necessárias para proibir o trabalho dos adolescentes entre as 22 e as 6 horas ou entre as 23 e as 7 horas.\n\na) Em sectores de actividade específicos, os Estados-membros poderão autorizar, por via legislativa ou regulamentar, o trabalho dos adolescentes durante o período de proibição do trabalho nocturno a que se refere a alínea b) do n.º 1.\n\nb) Nos casos em que se aplique o disposto na alínea a), é proibido o trabalho entre as 0 e as 4 horas.\n\nTodavia, os Estados-membros podem autorizar, por via legislativa ou regulamentar, o trabalho dos adolescentes durante o período de proibição do trabalho nocturno sempre que tal se justifique por razões objectivas e na condição de ser concedido aos adolescentes um descanso compensatório adequado e de não serem postos em causa os objectivos referidos na alínea b) do artigo 1.º, nos seguintes casos:\n\n— trabalhos efectuados nos sectores da navegação ou da pesca,\n\n— trabalhos efectuados nas forças armadas ou na polícia,\n\n— trabalhos efectuados em hospitais ou em estabelecimentos análogos,\n\n— participação em actividades de natureza cultural, artística, desportiva ou publicitária.\n\n3. Antes da sua eventual afectação ao trabalho nocturno e, seguidamente, a intervalos regulares, os adolescentes beneficiarão de uma avaliação gratuita do seu estado de saúde e das suas capacidades, salvo se o trabalho que prestarem durante o período de proibição de trabalho tiver um carácter excepcional."
+  },
+  "0dc6e30b10b8c5d1": {
+   "fragment_id": "Artigo 10.º — Período de descanso",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Período de descanso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Período de descanso\n\na) Os Estados-membros que façam uso da faculdade prevista no n.º 2, alínea b) ou c), do artigo 4.º tomarão as medidas necessárias para que, por cada período de 24 horas, as crianças beneficiem de um período mínimo de descanso de 14 horas consecutivas,\n\nb) Os Estados-membros tomarão as medidas necessárias para que, por cada período de 24 horas, os adolescentes beneficiem de um período mínimo de descanso de 12 horas consecutivas.\n\n2. Os Estados-membros tomarão as medidas necessárias para garantir que, por cada período de sete dias:\n\n— as crianças em relação às quais tenha sido utilizada a faculdade referida no n.º 2, alíneas b) ou c), do artigo 4.º\n\n— e\n\n— os adolescentes\n\nbeneficiem de um período mínimo de descanso de dois dias, se possível consecutivos.\n\nSempre que tal se justifique por razões técnicas ou de organização, o período mínimo de descanso pode ser reduzido, sem nunca poder ser inferior a 36 horas consecutivas.\n\nO período mínimo de descanso referido no primeiro e segundo parágrafos compreende, em princípio, o domingo.\n\n3. Os Estados-membros podem prever, por via legislativa ou regulamentar, a possibilidade de os períodos mínimos de descanso referidos nos n.^os^ 1 e 2 serem interrompidos nos casos de actividades caracterizadas por períodos de trabalho fraccionados ou de curta duração ao longo do dia.\n\n4. Os Estados-membros podem estabelecer, por via legislativa ou regulamentar, derrogações ao n.º 1, alínea b), e ao n.º 2 relativamente aos adolescentes, sempre que tal se justifique por razões objectivas e na condição de ser concedido aos adolescentes um descanso compensatório adequado e de não serem postos em causa os objectivos referidos no artigo 1.º, nos seguintes casos:\n\na) Trabalhos efectuados nos sectores da navegação ou da pesca;\n\nb) Trabalhos efectuados nas forças armadas ou na polícia;\n\nc) Trabalhos efectuados em hospitais ou em estabelecimentos análogos;\n\nd) Trabalhos efectuados no sector agrícola;\n\ne) Trabalhos efectuados nos sectores do turismo ou da hotelaria, da restauração e similares;\n\nf) Actividades caracterizadas por períodos de trabalho fraccionados ao longo do dia."
+  },
+  "e489bc05f2ba950a": {
+   "fragment_id": "Artigo 11.º — Descanso anual",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Descanso anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Descanso anual\n\nOs Estados-membros que façam uso da faculdade prevista no n.º 2, alíneas b) ou c), do artigo 4.º providenciarão para que um período livre de qualquer trabalho coincida, na medida do possível, com as férias escolares das crianças sujeitas a escolaridade obrigatória a tempo inteiro."
+  },
+  "5f73116f21274cbf": {
+   "fragment_id": "Artigo 12.º — Pausas",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Pausas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pausas\n\nOs Estados-membros tomarão as medidas necessárias para que, no caso de o período de trabalho diário ser superior a quatro horas e meia, os jovens beneficiem de uma pausa com uma duração mínima de 30 minutos, se possível consecutivos."
+  },
+  "2e7ccba45203e36a": {
+   "fragment_id": "Artigo 13.º — Trabalho de adolescentes em caso de força maior",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Trabalho de adolescentes em caso de força maior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Trabalho de adolescentes em caso de força maior\n\nOs Estados-membros podem, por via legislativa ou regulamentar, autorizar derrogações ao disposto no n.º 2 do artigo 8.º, no n.º 1, alínea b), do artigo 9.º, no n.º 1, alínea b), do artigo 10.º e, no que se refere aos adolescentes, no artigo 12.º, para a realização de trabalhos nas circunstâncias referidas no n.º 4 do artigo 5.º da Directiva 89/391/CEE, desde que os trabalhos em questão sejam de carácter passageiro e não possam ser adiados, que não haja trabalhadores adultos disponíveis e que sejam concedidos aos adolescentes, num prazo de três semanas, períodos de descanso compensatório equivalentes."
+  },
+  "b9c1c438fac65788": {
+   "fragment_id": "SECÇÃO IV",
+   "type": "divisao",
+   "heading": "SECÇÃO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO IV"
+  },
+  "ce9d8b0433468302": {
+   "fragment_id": "Artigo 14.º — Medidas",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Medidas\n\nCada Estado-membro determinará todas as medidas necessárias a aplicar em caso de violação das disposições adoptadas em aplicação da presente directiva; as referidas medidas devem ter um carácter eficaz e proporcional."
+  },
+  "97a240ec83d7cb8a": {
+   "fragment_id": "Artigo 15.º — Adaptação do anexo",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Adaptação do anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Adaptação do anexo\n\nAs adaptações de natureza estritamente técnica do anexo em função do progresso técnico, da evolução das regulamentações ou especificações internacionais ou dos conhecimentos no domínio abrangido pela presente directiva serão adoptadas segundo o procedimento previsto no artigo 17.º da Directiva 89/391/CEE."
+  },
+  "b52271599753045e": {
+   "fragment_id": "Artigo 16.º — Cláusula de não regressão",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Cláusula de não regressão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cláusula de não regressão\n\nSem prejuízo do direito de os Estados-membros desenvolverem, face à evolução da situação, disposições diferentes no domínio da protecção dos jovens, desde que sejam respeitados os requisitos mínimos previstos na presente directiva, a aplicação da directiva não pode constituir justificação válida para fazer regredir o nível geral de protecção dos jovens."
+  },
+  "52b98d4957dce5ef": {
+   "fragment_id": "Artigo 17.º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Disposições finais\n\na) Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 22 de Junho de 1996 ou garantirão que, o mais tardar nessa data, os parceiros sociais instituam, por acordo, as disposições necessárias, devendo os Estados-membros tomar todas as medidas necessárias para poderem, em qualquer momento, garantir os resultados impostos pela presente directiva.\n\nb) Durante um período de quatro anos a contar da data referida na alínea a), o Reino Unido pode abster-se de aplicar o n.º 1, alínea b), primeiro parágrafo, do artigo 8.º, no que respeita à disposição relativa à duração máxima semanal do trabalho, bem como o n.º 2 do artigo 8.º e o n.º 1, alínea b), e o n.º 2 do artigo 9.º\n\nc) Os Estados-membros informarão imediatamente do facto a Comissão.\n\n2. Quando os Estados-membros adoptarem as disposições previstas no n.º 1, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-membros.\n\n3. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que tenham adoptado ou venham a adoptar no domínio da regulamentação da presente directiva."
+  },
+  "ed5878e87c247612": {
+   "fragment_id": "Artigo 17.º-A — Relatório de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 17.º-A — Relatório de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º-A — Relatório de aplicação\n\nDe cinco em cinco anos, os Estados-Membros apresentam à Comissão um relatório sobre a aplicação prática da presente directiva, sob a forma de um capítulo específico do relatório único previsto nos n.^os^ 1, 2 e 3 do artigo 17.º-A da Directiva 89/391/CEE, que servirá de base à avaliação a efectuar pela Comissão, nos termos do n.º 4 do mesmo artigo 17.º-A."
+  },
+  "75b0bb36a3be7d26": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "a60afad3c4708cd4": {
+   "fragment_id": "Lista não exaustiva dos agentes, processos e trabalhos",
+   "type": "divisao",
+   "heading": "Lista não exaustiva dos agentes, processos e trabalhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista não exaustiva dos agentes, processos e trabalhos"
+  },
+  "20afcb911047199c": {
+   "fragment_id": "(n.º 2, segundo parágrafo, do artigo 7.º)",
+   "type": "divisao",
+   "heading": "(n.º 2, segundo parágrafo, do artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (n.º 2, segundo parágrafo, do artigo 7.º)"
+  },
+  "3e58a3fa33bd4f07": {
+   "fragment_id": "I. Agentes",
+   "type": "divisao",
+   "heading": "I. Agentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Agentes"
+  },
+  "15c18ed3d4123bce": {
+   "fragment_id": "1. Agentes físicos:",
+   "type": "divisao",
+   "heading": "1. Agentes físicos:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Agentes físicos:\n\na) Radiações ionizantes;\n\nb) Trabalho em atmosfera de sobrepressão elevada, por exemplo nas câmaras hiperbáricas, mergulho submarino."
+  },
+  "bd4cdb925a2abc4f": {
+   "fragment_id": "2. Agentes biológicos:",
+   "type": "divisao",
+   "heading": "2. Agentes biológicos:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Agentes biológicos:\n\na) Agentes biológicos dos grupos 3 e 4 na acepção da alínea d) do artigo 2.º da Directiva 90/679/CEE do Conselho, de 26 de Novembro de 1990, relativa à protecção dos trabalhadores contra os riscos ligados à exposição a agentes biológicos durante o trabalho [sétima directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE ([^6^](http://publications.europa.eu/resource/cellar/4443dbf4-dd4a-4d71-8bdb-8497ebf2681b.0019.03/DOC_1#E0006))]."
+  },
+  "0e43eee224857c3d": {
+   "fragment_id": "3. Agentes químicos:",
+   "type": "divisao",
+   "heading": "3. Agentes químicos:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Agentes químicos:\n\na) Substâncias e preparados que, nos termos da Directiva 67/548/CEE do Conselho, de 27 de Junho de 1967, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem das substâncias perigosas ([^7^](http://publications.europa.eu/resource/cellar/4443dbf4-dd4a-4d71-8bdb-8497ebf2681b.0019.03/DOC_1#E0007)), e da Directiva 88/379/CEE do Conselho, de 7 de Junho de 1988, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros respeitantes à classificação, embalagem e rotulagem dos preparados perigosos ([^8^](http://publications.europa.eu/resource/cellar/4443dbf4-dd4a-4d71-8bdb-8497ebf2681b.0019.03/DOC_1#E0008)), são classificados como tóxicos (T), muito tóxicos (Tx), corrosivos (C) ou explosivos (E);\n\nb) Substâncias e preparados que, nos termos das Directivas 67/548/CEE e 88/379/CEE do Conselho, são classificados como nocivos (Xn) e qualificados por uma ou mais das seguintes frases referentes ao respectivo risco:\n\n— perigo de efeitos irreversíveis muito graves (R39),\n\n— possibilidade de efeitos irreversíveis (R40),\n\n— pode causar sensibilização por inalação (R42),\n\n— pode causar sensibilização por contacto com a pele (R43)\n\n— pode causar cancro (R45),\n\n— pode causar alterações genéticas hereditárias (R46),\n\n— risco de efeitos graves para a saúde em caso de exposição prolongada (R48),\n\n— pode comprometer a fertilidade (R60),\n\n— risco, durante a gravidez, de efeitos nefastos para a criança (R61);\n\nc) Substâncias e preparados que, nos termos das Directivas 67/548/CEE e 88/379/CEE do Conselho, são classificados como irritantes (Xi) e qualificados por uma ou mais das seguintes frases referentes ao respectivo risco:\n\n— altamente inflamável (R12),\n\n— pode causar sensibilização por inalação (R42),\n\n— pode causer sensibilização por contacto com a pele (R43);\n\nd) Substâncias e preparações a que se refere a alínea c) do artigo 2.º da Directiva 90/394/CEE do Conselho, de 28 de Junho de 1990, relativa à protecção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos durante o trabalho [sexta directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE ([^9^](http://publications.europa.eu/resource/cellar/4443dbf4-dd4a-4d71-8bdb-8497ebf2681b.0019.03/DOC_1#E0009))];\n\ne) Chumbo e seus compostos, na medida em que esses agentes sejam susceptíveis de ser absorvidos pelo organismo humano;\n\nf) Amianto."
+  },
+  "5c5cf69063971c90": {
+   "fragment_id": "II. Processos e trabalhos",
+   "type": "divisao",
+   "heading": "II. Processos e trabalhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Processos e trabalhos\n\n1. Processos e trabalhos constantes do anexo I da Directiva 90/394/CEE.\n\n2. Trabalhos de fabrico e de manipulação de engenhos, artifícios ou objectos diversos que contenham explosivos.\n\n3. Trabalhos em locais de criação de animais ferozes ou venenosos.\n\n4. Trabalhos de abate industrial de animais.\n\n5. Trabalhos que impliquem a manipulação de aparelhos de produção, de armazenamento ou de utilização de gases comprimidos, liquefeitos ou dissolvidos.\n\n6. Trabalhos com cubas, tanques, reservatórios, garrafas ou botijas que contenham agentes químicos referidos no ponto 1.3.\n\n7. Trabalhos que impliquem riscos de desabamento.\n\n8. Trabalhos que impliquem riscos por contacto com a energia eléctrica de alta tensão.\n\n9. Trabalhos cuja cadência seja condicionada por máquinas e que sejam remunerados em função do resultado.\n\n---"
+  },
+  "2e204ef2d546159b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4443dbf4-dd4a-4d71-8bdb-8497ebf2681b.0019.03/DOC_1#src.E0001)) JO n.º C 84 de 4. 4. 1992, p. 7.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4443dbf4-dd4a-4d71-8bdb-8497ebf2681b.0019.03/DOC_1#src.E0002)) JO n.º C 313 de 30. 11. 1992, p. 70.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4443dbf4-dd4a-4d71-8bdb-8497ebf2681b.0019.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 17 de Dezembro de 1992 (JO n.º C 21 de 25. 1. 1993, p. 167). Posição comum do Conselho de 23 de Novembro de 1993 (ainda não publicada no Jornal Oficial) e decisão do Parlamento Europeu de 9 de Março de 1994 (JO n.º C 91 de 28. 3. 1994, p. 89).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4443dbf4-dd4a-4d71-8bdb-8497ebf2681b.0019.03/DOC_1#src.E0004)) JO n.º C 190 de 20. 7. 1987, p. 44.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/4443dbf4-dd4a-4d71-8bdb-8497ebf2681b.0019.03/DOC_1#src.E0005)) JO n.º L 183 de 29. 6. 1989, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/4443dbf4-dd4a-4d71-8bdb-8497ebf2681b.0019.03/DOC_1#src.E0006)) JO n.º L 374 de 31. 12. 1990, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/4443dbf4-dd4a-4d71-8bdb-8497ebf2681b.0019.03/DOC_1#src.E0007)) JO n.º L 196 de 16. 8. 1967, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 93/679/CEE (JO n.º L 268 de 29.10.1993, p. 71).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/4443dbf4-dd4a-4d71-8bdb-8497ebf2681b.0019.03/DOC_1#src.E0008)) JO n.º L 187 de 16. 7. 1988, p. 14. Directiva com a última redacção que lhe foi dada pela Directiva 93/8/CEE (JO n.º L 104 de 29. 4. 1993, p. 46).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/4443dbf4-dd4a-4d71-8bdb-8497ebf2681b.0019.03/DOC_1#src.E0009)) JO n.º L 196 de 26. 7. 1990, p. 1."
+  },
+  "1baa794926ed4507": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Junho de 1994\n\nrelativa à protecção dos jovens no trabalho\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 118.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/7fb9ddc2-05c9-11e4-831f-01aa75ed71a1.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/7fb9ddc2-05c9-11e4-831f-01aa75ed71a1.0017.03/DOC_1#E0002)),\n\nDeliberando nos termos do procedimento previsto no artigo 189.ºC do Tratado ([^3^](http://publications.europa.eu/resource/cellar/7fb9ddc2-05c9-11e4-831f-01aa75ed71a1.0017.03/DOC_1#E0003)),\n\nConsiderando que o artigo 118.ºA do Tratado prevê que o Conselho adopte, por meio de directiva, prescrições mínimas destinadas a promover a melhoria, nomeadamente, das condições de trabalho, a fim de garantir um melhor nível de protecção da segurança e da saúde dos trabalhadores;\n\nConsiderando que, nos termos do referido artigo, essas directivas devem evitar impor disciplinas administrativas, financeiras e jurídicas tais que sejam contrárias à criação e ao desenvolvimento de pequenas e médias empresas;\n\nConsiderando que a Carta Comunitária dos Direitos Sociais Fundamentais dos Trabalhadores, adoptada no Conselho Europeu de Estrasburgo, em 9 de Dezembro de 1989, pelos chefes de Estado e de Governo de onze Estados-membros, declara, designadamente, nos seus pontos 20 e 22:\n\n«20. Sem prejuízo de regras mais favoráveis aos jovens, nomeadamente das que assegurem, pela formação, a sua inserção profissional, e salvo derrogações limitadas a certos trabalhos leves, a idade mínima de admissão ao trabalho não deve ser inferior à idade em que cessa a escolaridade obrigatória, e nunca inferior a 15 anos.»\n\n«22. Devem ser tomadas as medidas necessárias à adaptação das regras de direito de trabalho aplicáveis aos jovens trabalhadores, a fim de que as mesmas dêem resposta às exigências de desenvolvimento e às necessidades de formação profissional e de acesso ao trabalho desses jovens.\n\nConsiderando que é conveniente ter em conta os princípios da Organização Internacional do Trabalho em matéria de protecção dos jovens no trabalho, incluindo os que se referem à idade mínima de admissão ao emprego ou ao trabalho;\n\nConsiderando que, na sua resolução sobre o trabalho de menores ([^4^](http://publications.europa.eu/resource/cellar/7fb9ddc2-05c9-11e4-831f-01aa75ed71a1.0017.03/DOC_1#E0004)), o Parlamento Europeu, resume os aspectos do trabalho dos jovens, sublinhando designadamente os efeitos desse trabalho sobre a saúde, a segurança e o desenvolvimento físico e intelectual dos jovens, e insiste na necessidade de adoptar uma directiva que harmonize as legislações nacionais nesta matéria;\n\nConsiderando que a Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho ([^5^](http://publications.europa.eu/resource/cellar/7fb9ddc2-05c9-11e4-831f-01aa75ed71a1.0017.03/DOC_1#E0005)), dispõe, no seu artigo 15.º, que os grupos sujeitos a riscos especialmente sensíveis devem ser protegidos contra os perigos que os afectam especificamente;\n\nConsiderando que as crianças e os adolescentes devem ser considerados um grupo sujeito a riscos específicos e que devem ser tomadas medidas no que respeita à sua saúde e segurança;\n\nConsiderando que a vulnerabilidade das crianças exige que os Estados-membros proíbam o seu trabalho e assegurem que a idade mínima de admissão ao emprego ou ao trabalho não seja inferior à idade em que cessa a escolaridade obrigatória a tempo inteiro imposta pela legislação nacional nem, em caso algum, a 15 anos; que só podem ser admitidas derrogações à proibição do trabalho de crianças em casos específicos e nas condições previstas na presente directiva; que, para todos os efeitos, não podem prejudicar a assiduidade escolar e os benefícios da instrução;\n\nConsiderando que as características específicas da passagem da infância à idade adulta obrigam a que o trabalho dos adolescentes seja estritamente regulamentado e protegido;\n\nConsiderando que qualquer entidade patronal deve garantir aos jovens condições de trabalho adaptadas à sua idade;\n\nConsiderando que as entidades patronais devem aplicar as medidas necessárias para proteger a segurança e a saúde dos jovens com base numa avaliação dos riscos ligados ao trabalho e a que os jovens podem estar expostos;\n\nConsiderando que os Estados-membros devem proteger os jovens contra os riscos específicos resultantes da falta de experiência, da inconsciência dos riscos existentes ou virtuais ou do desenvolvimento incompleto dos jovens;\n\nConsiderando que, para o efeito, os Estados-membros devem proibir o emprego dos jovens em trabalhos previstos na presente directiva;\n\nConsiderando que a adopção de requisitos mínimos específicos na organização do horário de trabalho é susceptível de melhorar as condições de trabalho dos jovens;\n\nConsiderando que a duração máxima do trabalho dos jovens deve ser estritamente limitada e que deve ser proibido o trabalho nocturno dos jovens, exceptuando-se o caso de certos empregos determinados pelas legislações ou pelas regulamentações nacionais;\n\nConsiderando que é conveniente que os Estados-membros tomem as medidas necessárias para que o tempo de trabalho dos adolescentes submetidos à obrigação escolar não prejudique a sua aptidão para beneficiar do ensino facultado;\n\nConsiderando que o tempo consagrado à formação pelos jovens que trabalhem no âmbito de um sistema de formação teórica e/ou prática alternada ou de um estágio numa empresa deve ser incluído no horário de trabalho;\n\nConsiderando que, para que sejam garantidas a segurança e a saúde dos jovens, estes devem beneficiar de períodos mínimos de descanso — diários, semanais e anuais — e de períodos de pausa adequados;\n\nConsiderando que, no que respeita ao período de descanso semanal, convém ter devidamente em conta a diversidade dos factores culturais, étnicos, religiosos e outros nos Estados-membros; que, em especial, incumbe em última análise a cada Estado-membro decidir se e em que medida o domingo deve estar incluído no descanso semanal;\n\nConsiderando que uma experiência de trabalho adequada poderá contribuir para a realização do objectivo de preparar os jovens para a vida profissional e social de adultos, desde que se assegure que daí não resultam prejuízos para a sua segurança, saúde e desenvolvimento;\n\nConsiderando que, se se afigurarem indispensáveis derrogações às proibições e limitações previstas na presente directiva no caso de certas actividade ou situações especiais, a sua aplicação não deve prejudicar os princípios do sistema de protecção criado;\n\nConsiderando que a presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno;\n\nConsiderando que, para a aplicação concreta do sistema de protecção previsto na presente directiva, é necessário que os Estados-membros instituam um regime de medidas de carácter positivo e proporcional;\n\nConsiderando que a aplicação de certas disposições da presente directiva causa dificuldades especiais a um Estado-membro, devido ao seu sistema de protecção dos jovens no trabalho; que, por conseguinte, convém admitir que esse Estado-membro possa abster-se de pôr em aplicação as disposições em causa, durante um período apropriado,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "cf5d116606ca7815": {
+   "fragment_id": "2. Agentes biológicos:",
+   "type": "divisao",
+   "heading": "2. Agentes biológicos:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Agentes biológicos:\n\na) Agentes biológicos dos grupos de risco 3 e 4 na aceção do artigo 2.º, segundo parágrafo, pontos 3 e 4, da Diretiva 2000/54/CE do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/7fb9ddc2-05c9-11e4-831f-01aa75ed71a1.0017.03/DOC_1#E0006))."
+  },
+  "3b2784f6ad55331c": {
+   "fragment_id": "3. Agentes químicos:",
+   "type": "divisao",
+   "heading": "3. Agentes químicos:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Agentes químicos:\n\na) Substâncias e misturas que preencham os critérios de classificação ao abrigo do Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho ([^7^](http://publications.europa.eu/resource/cellar/7fb9ddc2-05c9-11e4-831f-01aa75ed71a1.0017.03/DOC_1#E0007)) numa ou em várias das seguintes classes e categorias de perigo com uma ou várias das seguintes frases de perigo:\n\n— toxicidade aguda, categoria 1, 2 ou 3 (H300, H310, H330, H301, H311, H331),\n\n— corrosão cutânea, categoria 1A, 1B ou 1C (H314),\n\n— gás inflamável, categoria 1 ou 2 (H220, H221),\n\n— aerossóis inflamáveis, categoria 1(H222),\n\n— gás inflamável, categoria 1 ou 2 (H224, H225),\n\n— explosivos, categorias «explosivo instável», ou explosivos das divisões 1.1, 1.2, 1.3, 1.4 e 1.5 (H200, H201, H202, H203, H204, H205),\n\n— substâncias e misturas auto-reativas, tipo A, B, C ou D (H240, H241, H242),\n\n— peróxidos orgânicos, tipo A ou B (H240, H241),\n\n— toxicidade para órgãos-alvo específicos após exposição única, categoria 1 ou 2 (H370, H371),\n\n— toxicidade para órgãos-alvo específicos após exposição repetida, categoria 1 ou 2 (H372, H373),\n\n— sensibilização respiratória, categoria 1, subcategoria 1A ou 1B (H334);\n\n— sensibilização cutânea, categoria 1, subcategoria 1A ou 1B (H317),\n\n— carcinogenicidade, categoria 1A, 1B ou 2 (H350, H350i, H351),\n\n— mutagenicidade em células germinativas, categoria 1A, 1B ou 2 (H340, H341),\n\n— toxicidade reprodutiva, categoria 1A ou 1B (H360, H360F, H360FD, H360Fd, H360D, H360Df).\n\nd) As substâncias e misturas referidas no artigo 2.º, alínea a), subalínea ii) da Diretiva 2004/37/CE do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/7fb9ddc2-05c9-11e4-831f-01aa75ed71a1.0017.03/DOC_1#E0008)).\n\ne) Chumbo e seus compostos, na medida em que esses agentes sejam susceptíveis de ser absorvidos pelo organismo humano;\n\nf) Amianto."
+  },
+  "eb17b1ecc2becdf9": {
+   "fragment_id": "II. Processos e trabalhos",
+   "type": "divisao",
+   "heading": "II. Processos e trabalhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Processos e trabalhos\n\n1. Processos e trabalhos a que se refere o Anexo I da Diretiva 2004/37/CE.\n\n2. Trabalhos de fabrico e de manipulação de engenhos, artifícios ou objectos diversos que contenham explosivos.\n\n3. Trabalhos em locais de criação de animais ferozes ou venenosos.\n\n4. Trabalhos de abate industrial de animais.\n\n5. Trabalhos que impliquem a manipulação de aparelhos de produção, de armazenamento ou de utilização de gases comprimidos, liquefeitos ou dissolvidos.\n\n6. Trabalhos com cubas, tanques, reservatórios, garrafas ou botijas que contenham agentes químicos referidos no ponto 1.3.\n\n7. Trabalhos que impliquem riscos de desabamento.\n\n8. Trabalhos que impliquem riscos por contacto com a energia eléctrica de alta tensão.\n\n9. Trabalhos cuja cadência seja condicionada por máquinas e que sejam remunerados em função do resultado.\n\n---"
+  },
+  "a6239daec597bef8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7fb9ddc2-05c9-11e4-831f-01aa75ed71a1.0017.03/DOC_1#src.E0001)) JO n.º C 84 de 4. 4. 1992, p. 7.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7fb9ddc2-05c9-11e4-831f-01aa75ed71a1.0017.03/DOC_1#src.E0002)) JO n.º C 313 de 30. 11. 1992, p. 70.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7fb9ddc2-05c9-11e4-831f-01aa75ed71a1.0017.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 17 de Dezembro de 1992 (JO n.º C 21 de 25. 1. 1993, p. 167). Posição comum do Conselho de 23 de Novembro de 1993 (ainda não publicada no Jornal Oficial) e decisão do Parlamento Europeu de 9 de Março de 1994 (JO n.º C 91 de 28. 3. 1994, p. 89).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7fb9ddc2-05c9-11e4-831f-01aa75ed71a1.0017.03/DOC_1#src.E0004)) JO n.º C 190 de 20. 7. 1987, p. 44.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/7fb9ddc2-05c9-11e4-831f-01aa75ed71a1.0017.03/DOC_1#src.E0005)) JO n.º L 183 de 29. 6. 1989, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/7fb9ddc2-05c9-11e4-831f-01aa75ed71a1.0017.03/DOC_1#src.E0006)) Directiva 2000/54/CE do Parlamento Europeu e do Conselho, de 18 de setembro de 2000, relativa à protecção dos trabalhadores contra riscos ligados à exposição a agentes biológicos durante o trabalho (sétima directiva especial nos termos do n.º 1 do artigo 16.º da Directiva 89/391/CEE) (JO L 262 de 17.10.2000, p. 21).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/7fb9ddc2-05c9-11e4-831f-01aa75ed71a1.0017.03/DOC_1#src.E0007)) Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas, que altera e revoga as Diretivas 67/548/CEE e 1999/45/CE, e altera o Regulamento (CE) n.º 1907/2006 (JO L 353 de 31.12.2008, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/7fb9ddc2-05c9-11e4-831f-01aa75ed71a1.0017.03/DOC_1#src.E0008)) Diretiva 2004/37/CE do Parlamento Europeu e do Conselho, de 29 de abril de 2004, relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho (sexta diretiva especial nos termos do artigo 16.º, n.º l, da Diretiva 89/391/CEE do Conselho) (JO L 158 de 30.4.2004, p. 50)."
+  },
+  "d03b4c424cbd3a5e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Junho de 1994\n\nrelativa à protecção dos jovens no trabalho"
+  },
+  "a2838b9534d4887e": {
+   "fragment_id": "Artigo 15.º — Alteração do anexo",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Alteração do anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Alteração do anexo\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 15.º-A no que diz respeito a introduzir alterações estritamente técnicas no anexo, a fim de ter em conta o progresso técnico, a evolução das regulamentações e especificações internacionais e os novos conhecimentos no domínio da proteção adequada dos jovens no trabalho."
+  },
+  "760705b0346e8e22": {
+   "fragment_id": "Artigo 15.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 15.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 15.º é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 15.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^1^](http://publications.europa.eu/resource/cellar/da4b042e-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001))\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 15.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "8ea7ff7d8b0fbe60": {
+   "fragment_id": "2. Agentes biológicos:",
+   "type": "divisao",
+   "heading": "2. Agentes biológicos:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Agentes biológicos:\n\na) Agentes biológicos dos grupos de risco 3 e 4 na aceção do artigo 2.º, segundo parágrafo, pontos 3 e 4, da Diretiva 2000/54/CE do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/da4b042e-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0002))."
+  },
+  "0ce597d927fef7e3": {
+   "fragment_id": "3. Agentes químicos:",
+   "type": "divisao",
+   "heading": "3. Agentes químicos:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Agentes químicos:\n\na) Substâncias e misturas que preencham os critérios de classificação ao abrigo do Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/da4b042e-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0003)) numa ou em várias das seguintes classes e categorias de perigo com uma ou várias das seguintes frases de perigo:\n\n— toxicidade aguda, categoria 1, 2 ou 3 (H300, H310, H330, H301, H311, H331),\n\n— corrosão cutânea, categoria 1A, 1B ou 1C (H314),\n\n— gás inflamável, categoria 1 ou 2 (H220, H221),\n\n— aerossóis inflamáveis, categoria 1(H222),\n\n— gás inflamável, categoria 1 ou 2 (H224, H225),\n\n— explosivos, categorias «explosivo instável», ou explosivos das divisões 1.1, 1.2, 1.3, 1.4 e 1.5 (H200, H201, H202, H203, H204, H205),\n\n— substâncias e misturas auto-reativas, tipo A, B, C ou D (H240, H241, H242),\n\n— peróxidos orgânicos, tipo A ou B (H240, H241),\n\n— toxicidade para órgãos-alvo específicos após exposição única, categoria 1 ou 2 (H370, H371),\n\n— toxicidade para órgãos-alvo específicos após exposição repetida, categoria 1 ou 2 (H372, H373),\n\n— sensibilização respiratória, categoria 1, subcategoria 1A ou 1B (H334);\n\n— sensibilização cutânea, categoria 1, subcategoria 1A ou 1B (H317),\n\n— carcinogenicidade, categoria 1A, 1B ou 2 (H350, H350i, H351),\n\n— mutagenicidade em células germinativas, categoria 1A, 1B ou 2 (H340, H341),\n\n— toxicidade reprodutiva, categoria 1A ou 1B (H360, H360F, H360FD, H360Fd, H360D, H360Df).\n\nd) As substâncias e misturas referidas no artigo 2.º, alínea a), subalínea ii) da Diretiva 2004/37/CE do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/da4b042e-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0004)).\n\ne) Chumbo e seus compostos, na medida em que esses agentes sejam susceptíveis de ser absorvidos pelo organismo humano;\n\nf) Amianto."
+  },
+  "57bf54b1383d2121": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/da4b042e-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 123 de 12.5.2016, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/da4b042e-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0002)) Directiva 2000/54/CE do Parlamento Europeu e do Conselho, de 18 de setembro de 2000, relativa à protecção dos trabalhadores contra riscos ligados à exposição a agentes biológicos durante o trabalho (sétima directiva especial nos termos do n.º 1 do artigo 16.º da Directiva 89/391/CEE) (JO L 262 de 17.10.2000, p. 21).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/da4b042e-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0003)) Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas, que altera e revoga as Diretivas 67/548/CEE e 1999/45/CE, e altera o Regulamento (CE) n.º 1907/2006 (JO L 353 de 31.12.2008, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/da4b042e-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0004)) Diretiva 2004/37/CE do Parlamento Europeu e do Conselho, de 29 de abril de 2004, relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho (sexta diretiva especial nos termos do artigo 16.º, n.º l, da Diretiva 89/391/CEE do Conselho) (JO L 158 de 30.4.2004, p. 50)."
+  }
+ }
+}

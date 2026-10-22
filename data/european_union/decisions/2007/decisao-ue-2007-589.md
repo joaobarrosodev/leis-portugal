@@ -36,6 +36,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-01-01'
+version_history:
+  file: decisao-ue-2007-589.versoes.json
+  count: 2
+  source_lastmod: '2013-01-01'
+  versions:
+  - date: '2007-08-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Notas
 identifiers:
   celex: 32007D0589
   eli: http://data.europa.eu/eli/dec/2007/589/oj
@@ -50,7 +69,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/329cbcd4-66d9-449c-a41c-81333a0963a5.0018
   content_url: http://publications.europa.eu/resource/cellar/7880dbc9-eff5-4233-9bc0-7e1d93caff5c.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007D0589-20130101
-  retrieved_at: '2026-10-22T02:52:20Z'
+  retrieved_at: '2026-10-22T15:06:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T15:17:18.982+01:00'
 integrity:
@@ -59,9 +78,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:20Z'
-  notes: Texto consolidado 02007D0589-20130101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:06:53Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2007-589.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -137,16 +156,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:20Z'
+  checked_at: '2026-10-22T15:06:53Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02007D0589-20080101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007D0589-20090423: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007D0589-20100622: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007D0589-20110921: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

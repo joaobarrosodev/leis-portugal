@@ -1,0 +1,324 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992L0079:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0079-20110101",
+ "dre_path": null,
+ "source_lastmod": "2011-01-01",
+ "versions": [
+  {
+   "date": "1992-10-31",
+   "future": false,
+   "celex": "31992L0079",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4b440a221afc166d",
+    "0cd8202266aa74d1",
+    "a0638732d2b314c6",
+    "f578180984845e80",
+    "f52aee0b585be784",
+    "799b52d93d54517c",
+    "3aa18c8ac2d5f090"
+   ]
+  },
+  {
+   "date": "2003-12-20",
+   "future": false,
+   "celex": "01992L0079-20031220",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 2.oA",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o — Os Estados-membros são os destinatários da presente directiva. Feito no Luxemburgo, em 19 de Outubro de 1992. Pelo Conselho"
+   ],
+   "fragments": [
+    "ec3407438e5497c8",
+    "cde68797d15de11f",
+    "527c2e23db92626d",
+    "7d78176d5cc5dfaa",
+    "a900187b90019a16",
+    "640bca40e248fe04",
+    "e2c1906d7c7465c2",
+    "797a6728a132523f"
+   ]
+  },
+  {
+   "date": "2010-02-27",
+   "future": false,
+   "celex": "01992L0079-20100227",
+   "acts": [
+    {
+     "id": "eu:celex:31999L0081:por",
+     "title": "DIRECTIVA 1999/81/CE DO CONSELHO de 29 de Julho de 1999",
+     "published": null,
+     "celex": "31999L0081"
+    },
+    {
+     "id": "eu:celex:32002L0010:por",
+     "title": "M2",
+     "published": null,
+     "celex": "32002L0010"
+    },
+    {
+     "id": "eu:celex:32003L0117:por",
+     "title": "M3",
+     "published": null,
+     "celex": "32003L0117"
+    },
+    {
+     "id": "eu:celex:32010L0012:por",
+     "title": "DIRECTIVA 2010/12/UE DO CONSELHO de 16 de Fevereiro de 2010",
+     "published": null,
+     "celex": "32010L0012"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Adita Artigo 2.º-A",
+    "Adita Notas",
+    "Suprime Artigo 2.oA"
+   ],
+   "fragments": [
+    "c7e4c07437fdb531",
+    "60c0d64e7c87ed89",
+    "7a9fce1d799ce932",
+    "399d80dd8ec9b46c",
+    "83604dff40faa60d",
+    "8f850b1e8e600881",
+    "e2c1906d7c7465c2",
+    "3a993a9374b671a3",
+    "fbfcc373be08ccaf"
+   ]
+  },
+  {
+   "date": "2011-01-01",
+   "future": false,
+   "celex": "01992L0079-20110101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 2.º-A",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "aac9e77aa8ac70d2"
+   ]
+  }
+ ],
+ "fragments": {
+  "4b440a221afc166d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 92/79/CEE do Conselho, de 19 de Outubro de 1992, relativa à aproximação dos impostos sobre os cigarros** *Jornal Oficial nº L 316 de 31/10/1992 p. 0008 - 0009 Edição especial finlandesa: Capítulo 9 Fascículo 2 p. 0087 Edição especial sueca: Capítulo 9 Fascículo 2 p. 0087*\n\nDIRECTIVA 92/79/CEE DO CONSELHO de 19 de Outubro de 1992 relativa à aproximação dos impostos sobre os cigarros\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 99o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a Directiva 72/464/CEE (4) prevê disposições gerais em matéria de impostos especiais sobre os tabacos manufacturados, bem como disposições específicas relativas à estrutura dos impostos especiais aplicáveis aos cigarros;\n\nConsiderando que a Directiva 79/32/CEE (5) estabeleceu as definições dos diferentes grupos de tabaco manufacturado;\n\nConsiderando que, para a realização do mercado interno em 1 de Janeiro de 1993, é necessário fixar um imposto especial mínimo global para os cigarros;\n\nConsiderando que é necessário que o Reino de Espanha disponha de um período transitório de dois anos para atingir o imposto especial mínimo global;\n\nConsiderando que deve ser concedida à República Portuguesa uma eventual taxa reduzida para os cigarros produzidos por pequenos produtores e consumidos nas regiões ultraperiféricas dos Açores e da Madeira;\n\nConsiderando que se deve instaurar um procedimento que permita, no que se refere à incidência global, bem como à estrutura dos impostos especiais sobre os cigarros, efectuar bienalmente as adaptações necessárias para ter em conta o bom funcionamento do mercado interno e os objectivos do Tratado em geral,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "0cd8202266aa74d1": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. O mais tardar em 1 de Janeiro de 1993, os Estados-membros aplicarão aos cigarros impostos de consumo mínimos segundo as regras previstas na presente directiva.\n\n2. O no 1 aplica-se aos impostos que, por força da Directiva 72/464/CEE, são cobrados sobre os cigarros e que incluem:\n\na) Um elemento específico do imposto especial por unidade de produto;\n\nb) Um elemento proporcional do imposto especial calculado sobre o preço máximo de venda ao público;\n\nc) Um IVA proporcional ao peço de venda ao público."
+  },
+  "a0638732d2b314c6": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nO mais tardar a partir de 1 de Janeiro de 1993, cada Estado-membro aplicará aos cigarros pertencentes à classe de preços mais vendida um imposto especial mínimo global (elemento específico mais elemento ad valorem com exclusão do IVA) cuja incidência é fixada em 57 % do preço de venda ao público (incluindo todos os impostos).\n\nA partir de 1 de Janeiro de 1993, o imposto especial mínimo global sobre os cigarros é determinado com referência aos cigarros da classe de preços mais vendida segundo os dados conhecidos em 1 de Janeiro de cada ano."
+  },
+  "f578180984845e80": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. O Reino de Espanha dispõe de um período transitório de dois anos, a partir de 1 de Janeiro de 1993, para atingir o imposto especial mínimo global fixado no artigo 2o da presente directiva.\n\n2. A República Portuguesa pode aplicar uma taxa reduzida, inferior até 50 % à taxa fixada no artigo 2o, aos cigarros consumidos nas regiões ultraperiféricas dos Açores e Madeira fabricados por pequenos produtores, cuja produção anual não exceda por cada um 500 toneladas."
+  },
+  "f52aee0b585be784": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nDe dois em dois anos e pela primeira vez em 31 de Dezembro de 1994, o mais tardar, o Conselho analisará, com base num relatório e, sempre que se justifique, sob proposta da Comissão, as taxas do imposto especial mínimo global fixado no artigo 2o e no no 2 do artigo 3o, bem como a estrutura dos impostos especiais de consumo definida no artigo 10oB da Directiva 72/464/CEE e, deliberando por unanimidade, após consulta ao Parlamento Europeu, tomará as medidas necessárias. O relatório da Comissão e a análise do Conselho tomarão em conta o bom funcionamento do mercado interno e os objectivos gerais do Tratado."
+  },
+  "799b52d93d54517c": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas para dar cumprimento à presente directiva, o mais tardar, em 31 de Dezembro de 1992. Do facto informarão imediatamente a Comissão.\n\nAs disposições aprovadas pelos Estados-membros deverão incluir uma referência à presente directiva ou ser acompanhadas desse referência aquando da sua publicação oficial. As modalidades desse referência são da responsabilidade dos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão as disposições essenciais de direito interno que aprovarem no domínio regido pela presente directiva."
+  },
+  "3aa18c8ac2d5f090": {
+   "fragment_id": "Artigo 6o — Os Estados-membros são os destinatários da presente directiva. Feito no Luxemburgo, em 19 de Outubro de 1992. Pelo Conselho",
+   "type": "artigo",
+   "heading": "Artigo 6o — Os Estados-membros são os destinatários da presente directiva. Feito no Luxemburgo, em 19 de Outubro de 1992. Pelo Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o — Os Estados-membros são os destinatários da presente directiva. Feito no Luxemburgo, em 19 de Outubro de 1992. Pelo Conselho\n\nO Presidente\n\nJ. COPE\n\n(1) JO no C 12 de 18. 1. 1990, p. 4. (2) JO no C 94 de 13. 4. 1992, p. 35. (3) JO no C 225 de 10. 9. 1990, p. 56. (4) JO no L 303 de 31. 12. 1972, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 92/78/CEE (ver página 5 do presente Jornal Oficial). (5) JO no L 10 de 16. 1. 1979, p. 8."
+  },
+  "ec3407438e5497c8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1992L0079 — PT — 20.12.2003 — 003.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0079:PT:NOT) [DIRECTIVA 92/79/CEE DO CONSELHO de 19 de Outubro de 1992 relativa à aproximação dos impostos sobre os cigarros](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0079:PT:NOT) (JO L 316, 31.10.1992, p.8)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0081:PT:NOT) | [Directiva 1999/81/CE do Conselho de 29 de Julho de 1999](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0081:PT:NOT) | L 211 | 47 | 11.8.1999 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0010:PT:NOT) | [Directiva 2002/10/CE do Conselho de 12 de Fevereiro de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0010:PT:NOT) | L 46 | 26 | 16.2.2002 |\n| [►M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0117:PT:NOT) | [Directiva 2003/117/CE do Conselho de 5 de Dezembro de 2003](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0117:PT:NOT) | L 333 | 49 | 20.12.2003 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0079:PT:NOT)\n\nDIRECTIVA 92/79/CEE DO CONSELHO\n\nde 19 de Outubro de 1992\n\nrelativa à aproximação dos impostos sobre os cigarros\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 99.o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/735ed7b9-7d30-401a-930b-f5ec74786c26.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/735ed7b9-7d30-401a-930b-f5ec74786c26.0018.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/735ed7b9-7d30-401a-930b-f5ec74786c26.0018.02/DOC_1#E0003)),\n\nConsiderando que a Directiva 72/464/CEE ([4](http://publications.europa.eu/resource/cellar/735ed7b9-7d30-401a-930b-f5ec74786c26.0018.02/DOC_1#E0004)) prevê disposições gerais em matéria de impostos especiais sobre os tabacos manufacturados, bem como disposições específicas relativas à estrutura dos impostos especiais aplicáveis aos cigarros;\n\nConsiderando que a Directiva 79/32/CEE ([5](http://publications.europa.eu/resource/cellar/735ed7b9-7d30-401a-930b-f5ec74786c26.0018.02/DOC_1#E0005)) estabeleceu as definições dos diferentes grupos de tabaco manufacturado;\n\nConsiderando que, para a realização do mercado interno em 1 de Janeiro de 1993, é necessário fixar um imposto especial mínimo global para os cigarros;\n\nConsiderando que é necessário que o Reino de Espanha disponha de um período transitório de dois anos para atingir o imposto especial mínimo global;\n\nConsiderando que deve ser concedida à República Portuguesa uma eventual taxa reduzida para os cigarros produzidos por pequenos produtores e consumidos nas regiões ultraperiféricas dos Açores e da Madeira;\n\nConsiderando que se deve instaurar um procedimento que permita, no que se refere à incidência global, bem como à estrutura dos impostos especiais sobre os cigarros, efectuar bienalmente as adaptações necessárias para ter em conta o bom funcionamento do mercado interno e os objectivos do Tratado em geral,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "cde68797d15de11f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O mais tardar em 1 de Janeiro de 1993, os Estados-membros aplicarão aos cigarros impostos de consumo mínimos segundo as regras previstas na presente directiva.\n\n2. O n.o 1 aplica-se aos impostos que, por força da Directiva 72/464/CEE, são cobrados sobre os cigarros e que incluem:\n\na) Um elemento específico do imposto especial por unidade de produto;\n\nb) Um elemento proporcional do imposto especial calculado sobre o preço máximo de venda ao público;\n\nc) Um IVA proporcional ao peço de venda ao público.\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0010:PT:NOT)"
+  },
+  "527c2e23db92626d": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Cada Estado-Membro aplica um imposto especial de consumo mínimo global (elemento específico mais elemento ad valorem, com exclusão do IVA), cuja incidência é fixada em 57 % do preço de venda ao público (incluindo todos os impostos), não sendo nunca inferior a 60 euros por 1 000 unidades relativamente aos cigarros da classe de preços mais vendida. A partir de 1 de Julho de 2006, o valor de 60 euros será substituído por 64 euros.\n\n2. Os Estados-Membros que apliquem um imposto especial de consumo mínimo global de, pelo menos, 95 euros por 1 000 unidades relativamente aos cigarros da classe de preços mais vendida não necessitam de cumprir o requisito da incidência mínima de 57 %. A partir de 1 de Julho de 2006, o valor de 95 euros será substituído por 101 euros.\n\n3. O imposto especial de consumo mínimo global sobre os cigarros será determinado com base nos cigarros da classe de preços mais vendida, de acordo com os dados estabelecido em 1 de Janeiro de cada ano.\n\n4. Em derrogação do n.o 1, os Estados-Membros que, em 1 de Julho de 2001, aplicavam um imposto especial de consumo mínimo global inferior a 60 euros por 1000 unidades relativamente aos cigarros da classe de preços mais vendida poderão adiar, até 31 de Dezembro de 2004, a aplicação de um imposto especial de consumo mínimo global de 60 euros por 1 000 unidades relativamente aos cigarros da classe de preços mais vendida.\n\n5. O valor do euro nas moedas nacionais a aplicar aos montantes do imposto especial de consumo mínimo global será fixado uma vez por ano. As taxas de câmbio a aplicar serão as obtidas no primeiro dia útil de Outubro e publicadas no Jornal Oficial das Comunidades Europeias, produzindo efeitos a partir de 1 de Janeiro do ano civil seguinte.\n\n6. Em derrogação do disposto no número anterior, para a conversão do montante de 95 euros referido no n.o 2, os Estados-Membros que não tenham adoptado o euro serão autorizados a aplicar o valor do euro em moeda nacional no primeiro dia útil de Outubro de 2000. A presente derrogação voltará a ser analisada pela Comissão no próximo relatório que deverá apresentar nos termos do artigo 4.o\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0081:PT:NOT)"
+  },
+  "7d78176d5cc5dfaa": {
+   "fragment_id": "Artigo 2.oA",
+   "type": "artigo",
+   "heading": "Artigo 2.oA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.oA\n\n1. Sempre que num Estado-Membro se verifique uma alteração do preço de venda ao público dos cigarros que pertençam à classe de preços mais vendida que reduza a incidência do imposto especial de consumo mínimo global para um nível inferior ao determinado no primeiro parágrafo do artigo 2.o, o Estado-Membro em questão fica autorizado a não adaptar a incidência do imposto especial de consumo mínimo global até 1 de Janeiro do segundo ano subsequente ao da alteração.\n\n2. Sempre que um Estado-Membro aumente a taxa do imposto sobre o valor acrescentado aplicável aos cigarros, pode reduzir a incidência do imposto especial de consumo mínimo global até um montante que, expresso em percentagem do preço de venda a retalho, seja equivalente à incidência do aumento da taxa do imposto sobre o valor acrescentado, igualmente expresso em percentagem do preço de venda a retalho, mesmo que esse ajustamento tenha por efeito reduzir a incidência do imposto especial de consumo mínimo global para um nível inferior ao determinado no artigo 2.o\n\n3. Se, em conformidade com o n.o 2, um Estado-Membro reduzir a incidência do imposto especial de consumo mínimo global para um nível inferior ao determinado no primeiro parágrafo do artigo 2.o, deverá aumentar a incidência a fim de atingir, pelo menos, este nível, até 1 de Janeiro do segundo ano subsequente ao da redução..\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0079:PT:NOT)"
+  },
+  "a900187b90019a16": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O Reino de Espanha dispõe de um período transitório de dois anos, a partir de 1 de Janeiro de 1993, para atingir o imposto especial mínimo global fixado no artigo 2.o da presente directiva.\n\n2. A República Portuguesa pode aplicar uma taxa reduzida, inferior até 50 % à taxa fixada no artigo 2.o, aos cigarros consumidos nas regiões ultraperiféricas dos Açores e Madeira fabricados por pequenos produtores, cuja produção anual não exceda por cada um 500 toneladas.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0081:PT:NOT)\n\n3. Não obstante o artigo 2.o, o Reino da Suécia pode adiar até 31 de Dezembro de 2002 a aplicação de um imposto especial de consumo mínimo global equivalente a 57 % do preço de venda a retalho (incluindo todos os impostos) dos cigarros que pertençam à categoria de preços mais vendida. Além disso, o Reino da Suécia não pode reduzir o imposto especial de consumo global para um nivel inferior ao aplicado em 1 de Agosto de 1998.\n\n[▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0117:PT:NOT)\n\n4. Em derrogação ao artigo 2.o, a República Francesa é autorizada a continuar a aplicar, no período compreendido entre 1 de Janeiro de 2003 e 31 de Dezembro de 2009, aos cigarros introduzidos no consumo na Córsega, uma taxa do imposto especial reduzida. A aplicação da referida taxa está limitada a um contingente anual de 1 200 toneladas.\n\nNo período compreendido entre 1 de Janeiro de 2003 e 31 Dezembro 2007, a taxa reduzida deve corresponder, pelo menos, a 35 % do preço dos cigarros da classe de preços mais vendida na Córsega.\n\nNo período compreendido entre 1 de Janeiro de 2008 e 31 de Dezembro de 2009, a taxa reduzida deve corresponder, pelo menos, a 44 % do preço dos cigarros da classe de preços mais vendida na Córsega.\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0010:PT:NOT)"
+  },
+  "640bca40e248fe04": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nDe quatro em quatro anos, a Comissão apresentará ao Conselho um relatório e, eventualmente, uma proposta sobre as taxas do imposto especial de consumo previstas na presente directiva e a estrutura dos impostos especiais de consumo definida no artigo 16.o da Directiva 95/59/CE do Conselho ([6](http://publications.europa.eu/resource/cellar/735ed7b9-7d30-401a-930b-f5ec74786c26.0018.02/DOC_1#E0006)), de 27 de Novembro de 1995, relativa aos impostos que incidem sobre o consumo de tabacos manufacturados, com excepção dos impostos sobre o volume de negócios. O Conselho analisará esse relatório e essa proposta e, deliberando por unanimidade, após consulta ao Parlamento Europeu, tomará as medidas necessárias. O relatório da Comissão e a análise do Conselho devem ter em conta o bom funcionamento do mercado interno, o valor real dos níveis do imposto especial de consumo previstos no artigo 2.o, calculado apenas em função da inflação, e os objectivos gerais do Tratado.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0079:PT:NOT)"
+  },
+  "e2c1906d7c7465c2": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas para dar cumprimento à presente directiva, o mais tardar, em 31 de Dezembro de 1992. Do facto informarão imediatamente a Comissão.\n\nAs disposições aprovadas pelos Estados-membros deverão incluir uma referência à presente directiva ou ser acompanhadas desse referência aquando da sua publicação oficial. As modalidades desse referência são da responsabilidade dos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão as disposições essenciais de direito interno que aprovarem no domínio regido pela presente directiva."
+  },
+  "797a6728a132523f": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n([1](http://publications.europa.eu/resource/cellar/735ed7b9-7d30-401a-930b-f5ec74786c26.0018.02/DOC_1#src.E0001)) JO n.o C 12 de 18. 1. 1990, p. 4.\n\n([2](http://publications.europa.eu/resource/cellar/735ed7b9-7d30-401a-930b-f5ec74786c26.0018.02/DOC_1#src.E0002)) JO n.o C 94 de 13. 4. 1992, p. 35.\n\n([3](http://publications.europa.eu/resource/cellar/735ed7b9-7d30-401a-930b-f5ec74786c26.0018.02/DOC_1#src.E0003)) JO n.o C 225 de 10. 9. 1990, p. 56.\n\n([4](http://publications.europa.eu/resource/cellar/735ed7b9-7d30-401a-930b-f5ec74786c26.0018.02/DOC_1#src.E0004)) JO n.o L 303 de 31. 12. 1972, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 92/78/CEE (ver página 5 do presente Jornal Oficial).\n\n([5](http://publications.europa.eu/resource/cellar/735ed7b9-7d30-401a-930b-f5ec74786c26.0018.02/DOC_1#src.E0005)) JO n.o L 10 de 16. 1. 1979, p. 8.\n\n([6](http://publications.europa.eu/resource/cellar/735ed7b9-7d30-401a-930b-f5ec74786c26.0018.02/DOC_1#src.E0006)) JO L 291 de 6.12.1995, p. 40. Directiva com a redacção que lhe foi dada pela Directiva 1999/81/CE (JO L 211 de 11.8.1999, p. 47)."
+  },
+  "c7e4c07437fdb531": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Outubro de 1992\n\nrelativa à aproximação dos impostos sobre os cigarros\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 99.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/81a74d6e-dc77-4761-bc0f-a1370ed16ac0.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/81a74d6e-dc77-4761-bc0f-a1370ed16ac0.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/81a74d6e-dc77-4761-bc0f-a1370ed16ac0.0018.03/DOC_1#E0003)),\n\nConsiderando que a Directiva 72/464/CEE ([^4^](http://publications.europa.eu/resource/cellar/81a74d6e-dc77-4761-bc0f-a1370ed16ac0.0018.03/DOC_1#E0004)) prevê disposições gerais em matéria de impostos especiais sobre os tabacos manufacturados, bem como disposições específicas relativas à estrutura dos impostos especiais aplicáveis aos cigarros;\n\nConsiderando que a Directiva 79/32/CEE ([^5^](http://publications.europa.eu/resource/cellar/81a74d6e-dc77-4761-bc0f-a1370ed16ac0.0018.03/DOC_1#E0005)) estabeleceu as definições dos diferentes grupos de tabaco manufacturado;\n\nConsiderando que, para a realização do mercado interno em 1 de Janeiro de 1993, é necessário fixar um imposto especial mínimo global para os cigarros;\n\nConsiderando que é necessário que o Reino de Espanha disponha de um período transitório de dois anos para atingir o imposto especial mínimo global;\n\nConsiderando que deve ser concedida à República Portuguesa uma eventual taxa reduzida para os cigarros produzidos por pequenos produtores e consumidos nas regiões ultraperiféricas dos Açores e da Madeira;\n\nConsiderando que se deve instaurar um procedimento que permita, no que se refere à incidência global, bem como à estrutura dos impostos especiais sobre os cigarros, efectuar bienalmente as adaptações necessárias para ter em conta o bom funcionamento do mercado interno e os objectivos do Tratado em geral,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "60c0d64e7c87ed89": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O mais tardar em 1 de Janeiro de 1993, os Estados-membros aplicarão aos cigarros impostos de consumo mínimos segundo as regras previstas na presente directiva.\n\n2. O n.º 1 aplica-se aos impostos que, por força da Directiva 72/464/CEE, são cobrados sobre os cigarros e que incluem:\n\na) Um elemento específico do imposto especial por unidade de produto;\n\nb) Um elemento proporcional do imposto especial calculado sobre o preço máximo de venda ao público;\n\nc) Um IVA proporcional ao peço de venda ao público."
+  },
+  "7a9fce1d799ce932": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O imposto especial de consumo global (imposto específico e imposto *ad valorem*, líquidos de IVA) sobre os cigarros deve representar pelo menos 57 % do preço médio ponderado de venda a retalho dos cigarros introduzidos no consumo. Esse imposto especial de consumo não pode ser inferior a 64 EUR por 1 000 unidades de cigarros, independentemente do preço médio ponderado de venda a retalho.\n\nContudo, os Estados-Membros que cobram um imposto especial de consumo de, pelo menos, 101 EUR por 1 000 unidades de cigarros com base no preço médio ponderado de venda a retalho não têm de cumprir o requisito de 57 % fixado no primeiro parágrafo.\n\n2. A partir de 1 de Janeiro de 2014, o imposto especial de consumo global sobre os cigarros deve representar pelo menos 60 % do preço médio ponderado de venda a retalho dos cigarros introduzidos no consumo. Esse imposto especial de consumo não pode ser inferior a 90 EUR por 1 000 unidades de cigarros, independentemente do preço médio ponderado de venda a retalho.\n\nContudo, os Estados-Membros que cobram um imposto especial de consumo de, pelo menos, 115 EUR por 1 000 unidades de cigarros com base no preço médio ponderado de venda a retalho não têm de cumprir o requisito de 60 % fixado no primeiro parágrafo.\n\nA Bulgária, a Estónia, a Grécia, a Letónia, a Lituânia, a Hungria, a Polónia e a Roménia dispõem de um período transitório que termina em 31 de Dezembro de 2017 para cumprirem os requisitos referidos nos primeiro e segundo parágrafos.\n\n3. O preço médio ponderado de venda a retalho é calculado por referência ao valor global de todos os cigarros introduzidos no consumo, baseado no preço de venda a retalho incluindo todos os impostos, dividido pela quantidade total dos cigarros introduzidos no consumo. É determinado até 1 de Março, o mais tardar, de cada ano com base nos dados relativos a todas essas introduções no consumo no ano civil anterior.\n\n4. Os Estados-Membros devem aumentar gradualmente os impostos especiais de consumo a fim de cumprirem os requisitos referidos no n.º 2 nas datas nele fixadas.\n\n5. A Comissão publica anualmente o valor do euro em moedas nacionais a aplicar aos montantes do imposto especial de consumo global.\n\nAs taxas de câmbio aplicáveis são calculadas no primeiro dia útil de Outubro e publicadas no *Jornal Oficial da União Europeia* e produzem efeitos a partir de 1 de Janeiro do ano civil seguinte.\n\n6. Os Estados-Membros podem manter os montantes dos impostos especiais de consumo em vigor no momento do ajustamento anual previsto no n.º 5 se a conversão dos montantes dos impostos especiais de consumo expressos em EUR resultar num aumento do imposto especial de consumo expresso em moeda nacional inferior a 5 % ou a 5 EUR, consoante o montante mais baixo."
+  },
+  "399d80dd8ec9b46c": {
+   "fragment_id": "Artigo 2.º-A",
+   "type": "artigo",
+   "heading": "Artigo 2.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-A\n\n1. Sempre que se verifique uma alteração do preço médio ponderado de venda a retalho de cigarros num Estado-Membro que tenha por efeito a descida do imposto especial de consumo global abaixo dos níveis definidos nas primeiras frases dos n.^os^ 1 e 2 do artigo 2.º, o Estado-Membro em causa pode abster-se de ajustar esse imposto até 1 de Janeiro do segundo ano subsequente àquele em que se verificou a alteração.\n\n2. Sempre que aumente a taxa do imposto sobre o valor acrescentado aplicável aos cigarros, um Estado-Membro pode reduzir o imposto especial de consumo global até um montante que, expresso em percentagem do preço médio ponderado de venda a retalho, seja equivalente ao aumento da taxa do imposto sobre o valor acrescentado, igualmente expresso em percentagem do preço de venda a retalho, mesmo que tal ajustamento tenha por efeito a descida do imposto especial de consumo global abaixo dos níveis, expressos em percentagem do preço médio ponderado de venda a retalho, fixados nas primeiras frases dos n.^os^ 1 e 2 do artigo 2.º\n\nNo entanto, o Estado-Membro aumenta novamente esse imposto de modo a atingir pelo menos aqueles níveis até 1 de Janeiro do segundo ano subsequente àquele em que se verificou a redução."
+  },
+  "83604dff40faa60d": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O Reino de Espanha dispõe de um período transitório de dois anos, a partir de 1 de Janeiro de 1993, para atingir o imposto especial mínimo global fixado no artigo 2.º da presente directiva.\n\n2. A República Portuguesa pode aplicar uma taxa reduzida, inferior até 50 % à taxa fixada no artigo 2.º, aos cigarros consumidos nas regiões ultraperiféricas dos Açores e Madeira fabricados por pequenos produtores, cuja produção anual não exceda por cada um 500 toneladas.\n\n3. Não obstante o artigo 2.º, o Reino da Suécia pode adiar até 31 de Dezembro de 2002 a aplicação de um imposto especial de consumo mínimo global equivalente a 57 % do preço de venda a retalho (incluindo todos os impostos) dos cigarros que pertençam à categoria de preços mais vendida. Além disso, o Reino da Suécia não pode reduzir o imposto especial de consumo global para um nivel inferior ao aplicado em 1 de Agosto de 1998.\n\n4. Em derrogação do artigo 2.º, a França pode continuar a aplicar, no período compreendido entre 1 de Janeiro de 2010 e 31 de Dezembro de 2015, uma taxa reduzida de imposto especial de consumo aos cigarros introduzidos no consumo nos departamentos da Córsega, até ao limite de um contingente anual de 1 200 toneladas. Essa taxa reduzida é fixada do seguinte modo:\n\n— até 31 de Dezembro de 2012, a taxa deve corresponder, pelo menos, a 44 % do preço dos cigarros da classe de preços mais vendida nesses departamentos,\n\n— a partir de 1 de Janeiro de 2013, a taxa deve corresponder, pelo menos, a 50 % do preço médio ponderado de venda a retalho dos cigarros introduzidos no consumo. O imposto especial de consumo não pode ser inferior a 88 EUR por 1 000 unidades de cigarros, independentemente do preço médio ponderado de venda a retalho,\n\n— a partir de 1 de Janeiro de 2015, a taxa deve corresponder, pelo menos, a 57 % do preço médio ponderado de venda a retalho dos cigarros introduzidos no consumo. O imposto especial de consumo não pode ser inferior a 90 EUR por 1 000 unidades de cigarros, independentemente do preço médio ponderado de venda a retalho."
+  },
+  "8f850b1e8e600881": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. De quatro em quatro anos, a Comissão apresenta ao Conselho um relatório e, se necessário, uma proposta sobre as taxas do imposto especial de consumo fixadas na presente directiva e a estrutura do imposto especial de consumo definida no artigo 16.º da Directiva 95/59/CE do Conselho, de 27 de Novembro de 1995, relativa aos impostos que incidem sobre o consumo de tabacos manufacturados, com excepção dos impostos sobre o volume de negócios ([^6^](http://publications.europa.eu/resource/cellar/81a74d6e-dc77-4761-bc0f-a1370ed16ac0.0018.03/DOC_1#E0006)).\n\nO relatório da Comissão deve ter em conta o bom funcionamento do mercado interno, o valor real das taxas do imposto especial de consumo e os objectivos gerais do Tratado.\n\n2. O relatório a que se refere o n.º 1 deve basear-se designadamente nas informações prestadas pelos Estados-Membros.\n\n3. A Comissão estabelece, nos termos do artigo 43.º da Directiva 2008/118/CE do Conselho, de 16 de Dezembro de 2008, relativa ao regime geral dos impostos especiais de consumo ([^7^](http://publications.europa.eu/resource/cellar/81a74d6e-dc77-4761-bc0f-a1370ed16ac0.0018.03/DOC_1#E0007)), uma lista dos dados estatísticos necessários para o relatório, com excepção dos dados relativos a pessoas singulares individuais ou a entidades jurídicas. Para além dos dados imediatamente disponíveis para os Estados-Membros, a lista apenas deve conter dados cuja recolha e compilação não envolvam encargos administrativos desproporcionados por parte dos Estados-Membros.\n\n4. A Comissão não publica nem de algum modo revela esses dados caso tal publicação ou revelação conduza à divulgação de um segredo comercial, industrial ou profissional."
+  },
+  "3a993a9374b671a3": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n---"
+  },
+  "fbfcc373be08ccaf": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/81a74d6e-dc77-4761-bc0f-a1370ed16ac0.0018.03/DOC_1#src.E0001)) JO n.º C 12 de 18.1.1990, p. 4.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/81a74d6e-dc77-4761-bc0f-a1370ed16ac0.0018.03/DOC_1#src.E0002)) JO n.º C 94 de 13.4.1992, p. 35.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/81a74d6e-dc77-4761-bc0f-a1370ed16ac0.0018.03/DOC_1#src.E0003)) JO n.º C 225 de 10.9.1990, p. 56.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/81a74d6e-dc77-4761-bc0f-a1370ed16ac0.0018.03/DOC_1#src.E0004)) JO n.º L 303 de 31.12.1972, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 92/78/CEE (ver página 5 do presente Jornal Oficial).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/81a74d6e-dc77-4761-bc0f-a1370ed16ac0.0018.03/DOC_1#src.E0005)) JO n.º L 10 de 16.1.1979, p. 8.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/81a74d6e-dc77-4761-bc0f-a1370ed16ac0.0018.03/DOC_1#src.E0006)) JO L 291 de 6.12.1995, p. 40.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/81a74d6e-dc77-4761-bc0f-a1370ed16ac0.0018.03/DOC_1#src.E0007)) JO L 9 de 14.1.2009, p. 12."
+  },
+  "aac9e77aa8ac70d2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992L0079 — PT — 01.01.2011 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992L0079) [DIRECTIVA 92/79/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31992L0079) [de 19 de Outubro de 1992](http://publications.europa.eu/resource/celex/31992L0079) [relativa à aproximação dos impostos sobre os cigarros](http://publications.europa.eu/resource/celex/31992L0079) (JO L 316, 31.10.1992, p.8)\n\n**revogado por:**\n\n- [Directiva 2011/64/UE do Conselho de 21 de Junho de 2011](http://publications.europa.eu/resource/celex/32011L0064) — L 176 — 24 — 5.7.2011"
+  }
+ }
+}

@@ -37,6 +37,27 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-09-10'
+version_history:
+  file: regulamento-ue-2003-1702.versoes.json
+  count: 2
+  source_lastmod: '2012-09-10'
+  versions:
+  - date: '2003-09-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-09-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Âmbito e definições
+    - Suprime Artigo 2.º — Certificação de produtos, peças e equipamentos
+    - Suprime Artigo 3.º — Entidades de projecto
+    - Suprime Artigo 4.º — Entidades de produção
+    - Suprime Artigo 5.º — Entrada em vigor
+    - Suprime ANEXO — PARTE 21
+    - Suprime SECÇÃO B PROCEDIMENTOS DAS AUTORIDADES COMPETENTES — SUBPARTE A - DISPOSIÇÕES GERAIS
 identifiers:
   celex: 32003R1702
   eli: http://data.europa.eu/eli/reg/2003/1702/oj
@@ -51,7 +72,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ec6ac2c6-826a-49c9-b645-8f75a1acd483.0010
   content_url: http://publications.europa.eu/resource/cellar/45e06731-d16b-481c-adfc-2d5f49738a60.0018.04/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R1702-20120910
-  retrieved_at: '2026-10-22T02:57:39Z'
+  retrieved_at: '2026-10-22T14:55:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T12:40:35.355+01:00'
 integrity:
@@ -60,9 +81,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:39Z'
-  notes: Texto consolidado 02003R1702-20120910.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:58Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2003-1702.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -143,16 +164,19 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:39Z'
+  checked_at: '2026-10-22T14:55:58Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02003R1702-20050308: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R1702-20060510: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R1702-20070405: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R1702-20081029: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R1702-20091228: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

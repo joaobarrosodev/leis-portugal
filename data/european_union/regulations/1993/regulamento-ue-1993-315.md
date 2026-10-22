@@ -34,6 +34,40 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-08-07'
+version_history:
+  file: regulamento-ue-1993-315.versoes.json
+  count: 2
+  source_lastmod: '2009-08-07'
+  versions:
+  - date: '1993-02-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-07'
+    amending: eu:celex:32003R1882:por
+    amending_title: REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003; REGULAMENTO
+      (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
 identifiers:
   celex: 31993R0315
   eli: http://data.europa.eu/eli/reg/1993/315/oj
@@ -48,7 +82,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/928b6e8f-0a41-449b-a8fd-b514d78b2d31.0011
   content_url: http://publications.europa.eu/resource/cellar/8cf5fe52-fddb-4791-8431-b32e54cc7111.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R0315-20090807
-  retrieved_at: '2026-10-22T02:42:15Z'
+  retrieved_at: '2026-10-22T14:42:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-16T09:50:15.459+02:00'
 integrity:
@@ -57,9 +91,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:15Z'
-  notes: Texto consolidado 01993R0315-20090807.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:22Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1993-315.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -134,30 +168,20 @@ relationships:
   date: '2022-07-07'
 article_structure:
   article_count: 9
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:15Z'
-  warnings: []
+  checked_at: '2026-10-22T14:42:22Z'
+  warnings:
+  - '01993R0315-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CEE) nº 315/93 do Conselho, de 8 de Fevereiro de 1993
-
-> 1993R0315 — PT — 07.08.2009 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003R1882) — [REGULAMENTO (CE) N.º 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
-- [►M2](http://publications.europa.eu/resource/celex/32009R0596) — [REGULAMENTO (CE) N.º 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0596) — L 188 — 14 — 18.7.2009
-
-## REGULAMENTO (CEE) N.º 315/93 DO CONSELHO
 
 de 8 de Fevereiro de 1993
 

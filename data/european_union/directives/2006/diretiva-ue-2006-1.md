@@ -35,6 +35,36 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-06-05'
+version_history:
+  file: diretiva-ue-2006-1.versoes.json
+  count: 2
+  source_lastmod: '2022-06-05'
+  versions:
+  - date: '2006-02-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-06-05'
+    amending: eu:celex:32022L0738:por
+    amending_title: DIRETIVA (UE) 2022/738 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de abril de 2022
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+    - Altera Notas
+    - Adita Artigo 3.º-A
+    - Adita Artigo 5.º-A
+    - Adita Artigo 5.º-B
+    - Adita ANEXO I
+    - Adita Parte A
+    - Adita Directiva revogada e respectiva alteração
+    - Adita (referidas no artigo 6.º)
+    - Adita Parte B
+    - Adita Prazos de transposição para o direito interno
+    - Adita (referidos no artigo 6.º)
+    - Adita ANEXO II
+    - Adita Quadro de correspondência
 identifiers:
   celex: 32006L0001
   eli: http://data.europa.eu/eli/dir/2006/1/oj
@@ -49,7 +79,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/82f10593-a5ed-4f19-9d7b-a342f4fefffa.0017
   content_url: http://publications.europa.eu/resource/cellar/b4889692-f184-11ec-a534-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0001-20220605
-  retrieved_at: '2026-10-22T03:12:30Z'
+  retrieved_at: '2026-10-22T15:01:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T10:05:56.914+01:00'
 integrity:
@@ -58,9 +88,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:30Z'
-  notes: Texto consolidado 02006L0001-20220605.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:01:29Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2006-1.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -99,29 +129,19 @@ relationships:
   date: '1984-12-22'
 article_structure:
   article_count: 11
-  section_count: 9
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 10
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:30Z'
+  checked_at: '2026-10-22T15:01:29Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2006/1/CE do Parlamento Europeu e do Conselho, de 18 de Janeiro de 2006
-
-> 02006L0001 — PT — 05.06.2022 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022L0738) — [DIRETIVA (UE) 2022/738 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de abril de 2022](http://publications.europa.eu/resource/celex/32022L0738) — L 137 — 1 — 16.5.2022
-
-## DIRECTIVA 2006/1/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 18 de Janeiro de 2006
 

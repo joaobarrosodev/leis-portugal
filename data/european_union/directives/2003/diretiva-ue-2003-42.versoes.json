@@ -1,0 +1,524 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003L0042:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0042-20090807",
+ "dre_path": null,
+ "source_lastmod": "2009-08-07",
+ "versions": [
+  {
+   "date": "2009-08-07",
+   "future": false,
+   "celex": "02003L0042-20090807",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "74a6a4cb60ccc368",
+    "9252f0f6d6db263c",
+    "270fe1df7f7b9f19",
+    "8fc6230d0fdf63ab",
+    "a8c6dd8fac3dc1ee",
+    "09fc3d4ab62eb0d9",
+    "cba7d634e033d6ee",
+    "75d8198060023656",
+    "adcd66b3dd79ea84",
+    "60705b16fba4776a",
+    "d66a76e147d2be93",
+    "9e2ac28d7b33695c",
+    "a5d086190a407a46",
+    "228634c27842ceed",
+    "d664376e2a8dcecd",
+    "f2281520c0cb41db",
+    "6ffa1e3833e6fa36",
+    "11b0aee99e54368a",
+    "144d731f98414cff",
+    "b5988d52644ff613",
+    "f9badfb3b06c9fb4",
+    "82913fc3a2ac7593",
+    "0c01598b6ae4dd73",
+    "faed40a69b4d975e",
+    "c49a12a6b6747d97",
+    "b63679014838e42b",
+    "f93594210742df6e",
+    "d1b614b33ea4b8d0",
+    "fc0ced396b7a6157",
+    "7c9b482925e75c22",
+    "dc9a5c9a9ca2cb76",
+    "87ae7b58083c3c7e",
+    "fce170bd26af290b",
+    "224f8b75f6ee989f",
+    "ea2c63624d62017a",
+    "1972b32f73afb15d",
+    "446dd7faa0f51e3f",
+    "4314c828628b40c7",
+    "66c19acdf3327bb7",
+    "7e82f05806223cc0",
+    "f21232d949ccc0c6",
+    "92146dd559d55b8d",
+    "21125822da933133",
+    "940fc5391df5858b",
+    "4ed096280ef8e96f",
+    "ac7c53e9c42d8039",
+    "200de358598b3947",
+    "ee64252016ae4f9c",
+    "9e0e3d54bea2ea58",
+    "c909df9837bf8a87",
+    "6a929fd636b35e1d",
+    "8e40c494148dd840",
+    "852174729551523b",
+    "8caafb2d19a26f94",
+    "c05adf08d15544a2",
+    "5aec31a8252d2684"
+   ]
+  }
+ ],
+ "fragments": {
+  "74a6a4cb60ccc368": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Junho de 2003\n\nrelativa à comunicação de ocorrências na aviação civil\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 80.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/68681ba5-9372-45a0-bc04-11bd1e7fbe02.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/68681ba5-9372-45a0-bc04-11bd1e7fbe02.0018.03/DOC_1#E0002)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/68681ba5-9372-45a0-bc04-11bd1e7fbe02.0018.03/DOC_1#E0003)), à luz do projecto comum aprovado pelo Comité de Conciliação em 9 de Abril de 2003,\n\n(1) Embora a taxa de acidentes na aviação civil se tenha mantido bastante estável ao longo da última década, teme-se que o aumento de tráfego previsto possa resultar num aumento do número de acidentes num futuro próximo.\n\n(2) A Directiva 94/56/CE do Conselho, de 21 de Novembro de 1994, que estabelece os princípios fundamentais que regem os inquéritos sobre os acidentes e os incidentes no domínio da aviação civil ([^4^](http://publications.europa.eu/resource/cellar/68681ba5-9372-45a0-bc04-11bd1e7fbe02.0018.03/DOC_1#E0004)), tem por objectivo, facilitando a rápida realização de inquéritos, evitar acidentes.\n\n(3) A experiência demonstrou que frequentemente, antes de ocorrer um acidente, alguns incidentes e várias outras deficiências revelam a existência de riscos para a segurança.\n\n(4) O aumento da segurança da aviação civil requer um melhor conhecimento dessas ocorrências para facilitar a análise e o acompanhamento das tendências, tendo em vista a adopção de acções correctivas.\n\n(5) Quando estas ocorrências envolvem aeronaves registadas num Estado-Membro, ou exploradas por uma empresa estabelecida num Estado-Membro, devem ser comunicadas, ainda que se verifiquem fora do território comunitário.\n\n(6) Cada Estado-Membro deverá criar um sistema de comunicação obrigatória de ocorrências.\n\n(7) Diversas categorias de profissionais da aviação civil observam ocorrências relevantes para efeitos de prevenção de acidentes, devendo por conseguinte comunicá-las.\n\n(8) A eficácia da detecção de potenciais riscos pode ser bastante reforçada pelo intercâmbio de informações sobre as ocorrências.\n\n(9) São necessários programas informáticos que permitam esse intercâmbio entre os diferentes sistemas.\n\n(10) A informação relativa à segurança aérea deverá ser posta à disposição das entidades responsáveis pela regulação da segurança da aviação civil ou pelos inquéritos sobre os acidentes e os incidentes na Comunidade e, quando necessário, das pessoas que possam dela beneficiar e que executem ou iniciem as acções necessárias para aumentar a segurança.\n\n(11) A informação relativa à segurança tem uma natureza de tal forma sensível que a forma de assegurar a sua recolha consiste em garantir a sua confidencialidade, a protecção das fontes e a confiança do pessoal da aviação civil.\n\n(12) O público deverá dispor de informações gerais sobre o grau de segurança da aviação.\n\n(13) Deverão ser adoptadas as medidas necessárias para permitir a criação de sistemas de comunicação confidencial.\n\n(14) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^5^](http://publications.europa.eu/resource/cellar/68681ba5-9372-45a0-bc04-11bd1e7fbe02.0018.03/DOC_1#E0005)).\n\n(15) Deverá ser garantida a coerência com os requisitos de comunicação das informações técnicas definidos pelos peritos nacionais no Eurocontrol e na JAA. A lista das ocorrências a comunicar tem em conta o trabalho realizado nestas duas organizações europeias. Também deverão ser tidos em conta os progressos no âmbito da Organização Internacional da Aviação Civil (ICAO).\n\n(16) Atendendo a que o objectivo da acção encarada, nomeadamente o aumento da segurança aérea, não pode ser suficientemente realizado pelos Estados-Membros porque os sistemas de comunicação por estes isoladamente utilizados são menos eficientes do que uma rede coordenada com intercâmbio de informações que permite a identificação precoce de eventuais problemas de segurança, e pode, pois, ser melhor alcançado ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aquele objectivo,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "9252f0f6d6db263c": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO objectivo da presente directiva é contribuir para o aumento da segurança aérea através da garantia da comunicação, da recolha, do armazenamento, da protecção e da divulgação das informações relevantes.\n\nO único objectivo da comunicação de ocorrências consiste na prevenção de futuros acidentes e incidentes e não no apuramento de culpas ou na determinação de responsabilidades."
+  },
+  "270fe1df7f7b9f19": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Ocorrência» qualquer interrupção operacional, defeito, erro ou qualquer outra circunstância irregular que tenha influenciado ou tenha podido influenciar a segurança do voo e que não tenha resultado num acidente ou num incidente grave, a seguir designados «acidente ou incidente grave», tal como definidos nas alíneas a) e k) do artigo 3.º da Directiva 94/56/CE.\n\n2. «Despersonalização» a supressão, nas comunicações efectuadas, de quaisquer dados pessoais relativos ao autor, bem como de pormenores técnicos susceptíveis de conduzir à identificação do autor ou de terceiros por inferência a partir de tais informações."
+  },
+  "8fc6230d0fdf63ab": {
+   "fragment_id": "Artigo 3.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1. A presente directiva aplica-se a ocorrências que ponham em perigo ou que, caso não sejam corrigidas, sejam susceptíveis de pôr em perigo uma aeronave, os seus ocupantes ou qualquer outra pessoa. Os anexos I e II contêm uma lista destas ocorrências.\n\n2. A Comissão pode decidir alterar os anexos no intuito de desenvolver ou modificar os exemplos. Estas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 10.º.\n\n3. A aplicação da presente directiva ao aeroporto de Gibraltar entende-se sem prejuízo das respectivas posições jurídicas do Reino de Espanha e do Reino Unido relativamente ao diferendo sobre a soberania do território em que o aeroporto se encontra situado.\n\n4. A aplicação da presente directiva ao aeroporto de Gibraltar fica suspensa até que seja aplicado o regime previsto na declaração conjunta dos Ministros dos Negócios Estrangeiros do Reino de Espanha e do Reino Unido de 2 de Dezembro de 1987. Os Governos de Espanha e do Reino Unido devem informar o Conselho da data de entrada em aplicação desse regime."
+  },
+  "a8c6dd8fac3dc1ee": {
+   "fragment_id": "Artigo 4.º — Comunicação obrigatória",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Comunicação obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Comunicação obrigatória\n\n1. Os Estados-Membros devem exigir que as ocorrências abrangidas pelo artigo 3.º sejam comunicadas às respectivas autoridades competentes referidas no n.º 1 do artigo 5.º, por todas as pessoas a seguir enumeradas, no exercício das suas funções:\n\na) O operador ou o comandante de uma aeronave movida a turbina ou de transporte de passageiros utilizada por um operador em relação ao qual um Estado-Membro garanta a supervisão da segurança das operações;\n\nb) Uma pessoa que esteja envolvida na concepção, construção, manutenção ou modificação de uma aeronave movida a turbina ou de transporte de passageiros ou de quaisquer equipamentos ou peças das mesmas, sob a supervisão de um Estado-Membro;\n\nc) Uma pessoa que assine um certificado de manutenção ou de colocação em serviço de uma aeronave movida a turbina ou de transporte de passageiros ou de quaisquer equipamentos ou peças das mesmas, sob a supervisão de um Estado-Membro;\n\nd) Uma pessoa que exerça uma função para a qual lhe seja exigido possuir uma autorização de um Estado-Membro, como um controlador de tráfego aéreo ou um responsável pela informação de voo;\n\ne) Uma pessoa que exerça a função de gestor de um aeroporto abrangido pelo Regulamento (CEE) n.º 2408/92 do Conselho, de 23 de Julho de 1992 relativo ao acesso das transportadoras aéreas comunitárias às rotas aéreas intra-comunitárias ([^6^](http://publications.europa.eu/resource/cellar/68681ba5-9372-45a0-bc04-11bd1e7fbe02.0018.03/DOC_1#E0006));\n\nf) Uma pessoa que exerça uma função ligada à instalação, modificação, manutenção, reparação, revisão, verificação em voo ou inspecção de instalações de tráfego aéreo cuja responsabilidade é assumida por um Estado-Membro;\n\ng) Uma pessoa que exerça uma função ligada à assistência em terra de aeronaves, incluindo o abastecimento, a prestação de serviços, a preparação da folha de carga, o carregamento, a eliminação de gelo e o reboque num aeroporto abrangido pelo Regulamento (CEE) n.º 2408/92.\n\n2. Os Estados-Membros podem encorajar a comunicação voluntária das ocorrências a que se refere o n.º 1 do artigo 3.º por parte de qualquer pessoa que exerça, no quadro de outras operações ligadas à aviação civil, funções semelhantes às referidas no n.º 1."
+  },
+  "09fc3d4ab62eb0d9": {
+   "fragment_id": "Artigo 5.º — Recolha e armazenamento das informações",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Recolha e armazenamento das informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Recolha e armazenamento das informações\n\n1. Os Estados-Membros designam uma ou mais autoridades competentes para criar um mecanismo de recolha, de avaliação, de tratamento e de armazenamento das ocorrências comunicadas nos termos do artigo 4.º\n\nTal responsabilidade pode ser conferida às seguintes autoridades, desde que actuem com imparcialidade:\n\na) Autoridade nacional da aviação civil; e/ou\n\nb) Organismo responsável pela realização de inquéritos ou entidade estabelecida segundo o disposto no artigo 6.º da Directiva 94/56/CE; e/ou\n\nc) Qualquer outro organismo ou entidade independente incumbido desta função.\n\nSe um Estado-Membro designar mais do que um organismo ou entidade, deve designar um deles como ponto de contacto para o intercâmbio das informações referidas no n.º 1 do artigo 6.º\n\n2. As autoridades competentes devem armazenar as comunicações recolhidas nas suas bases de dados.\n\n3. Os acidentes e os incidentes graves devem ser igualmente armazenados nas referidas bases de dados."
+  },
+  "cba7d634e033d6ee": {
+   "fragment_id": "Artigo 6.º — Intercâmbio de informações",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Intercâmbio de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Intercâmbio de informações\n\n1. Os Estados-Membros participam no intercâmbio de informações, colocando à disposição das autoridades competentes dos restantes Estados-Membros e da Comissão todas as informações relevantes relacionadas com a segurança aérea armazenadas nas bases de dados mencionadas no n.º 2 do artigo 5.º\n\nAs bases de dados devem ser compatíveis com o programa informático descrito no n.º 3.\n\n2. A autoridade competente designada nos termos do n.º 1 do artigo 5.º que receba uma comunicação de ocorrência deve introduzi-la nas bases de dados e notificar, sempre que necessário, a autoridade competente do Estado-Membro onde se verificou a ocorrência, onde a aeronave está registada, onde a aeronave foi fabricada e/ou onde o operador está habilitado.\n\n3. A Comissão deve desenvolver um programa informático específico para efeitos do disposto na presente directiva. Ao fazê-lo, deve tomar em consideração a necessidade de compatibilidade com os programas informáticos existentes nos Estados-Membros. As autoridades competentes podem utilizar esse programa para a gestão das respectivas bases de dados.\n\n4. A Comissão toma, nos termos do n.º 2 do artigo 10.º, as medidas adequadas para facilitar o intercâmbio de informações referido no n.º 1."
+  },
+  "75d8198060023656": {
+   "fragment_id": "Artigo 7.º — Divulgação da informação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Divulgação da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Divulgação da informação\n\n1. Qualquer entidade responsável pela regulação da segurança da aviação civil ou pelos inquéritos sobre acidentes e incidentes na Comunidade deve ter acesso à informação sobre as ocorrências recolhidas e trocadas em conformidade com o disposto nos artigos 5.º e 6.º, de forma a poder retirar ensinamentos em matéria de segurança das ocorrências comunicadas.\n\n2. Sem prejuízo do direito de acesso do público aos documentos da Comissão fixado no Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho ([^7^](http://publications.europa.eu/resource/cellar/68681ba5-9372-45a0-bc04-11bd1e7fbe02.0018.03/DOC_1#E0007)), a Comissão aprova, por iniciativa própria, medidas relativas à divulgação da informação referida no n.º 1 às partes interessadas, nas condições conexas. Tais medidas, que podem ser gerais ou individuais, devem ser baseadas na necessidade:\n\n— de fornecer às pessoas e organizações a informação de que necessitam para aumentarem a segurança na aviação civil,\n\n— de limitar a divulgação da informação ao devidamente necessário para os fins dos seus utilizadores, para se assegurar a confidencialidade adequada a essa informação.\n\nAs medidas individuais são aprovadas nos termos do n.º 2 do artigo 10.º.\n\nAs medidas gerais, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 10.º.\n\nA decisão de divulgar informação ao abrigo do presente número limita-se ao estritamente necessário para a realização do objectivo do seu utilizador, sem prejuízo do disposto no artigo 8.º.\n\n3. Os Estados-Membros podem publicar, pelo menos uma vez por ano, uma análise sobre a segurança aérea, com informação sobre os tipos de ocorrências recolhidos através do respectivo regime nacional de comunicação obrigatória de ocorrências, para informar o público do nível de segurança na aviação civil. Os Estados-Membros podem igualmente publicar comunicações despersonalizadas."
+  },
+  "adcd66b3dd79ea84": {
+   "fragment_id": "Artigo 8.º — Protecção da informação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Protecção da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Protecção da informação\n\n1. Os Estados-Membros tomam as medidas necessárias, nos termos da legislação nacional, para assegurar a devida confidencialidade das informações por elas recebidas nos termos do n.º 1 do artigo 6.º e do n.º 1 do artigo 7.º Estas informações apenas podem ser utilizadas para efeitos da presente directiva.\n\n2. Independentemente do tipo ou classificação da ocorrência, do acidente ou do incidente grave, o nome e o endereço de qualquer pessoa nunca devem ser registados na base de dados mencionada no n.º 2 do artigo 5.º\n\n3. Sem prejuízo das normas de direito penal aplicáveis, os Estados-Membros abster-se-ão de proceder judicialmente relativamente a infracções não-premeditadas ou resultantes de negligência de que tomem conhecimento exclusivamente por terem sido objecto de comunicação ao abrigo do sistema nacional de comunicação obrigatória de ocorrências, excepto em casos de negligência grosseira.\n\n4. Os Estados-Membros asseguraram nos termos da legislação e práticas nacionais, que os trabalhadores que comunicarem os incidentes de que possam ter conhecimento não sejam prejudicados pelo seu empregador.\n\n5. O presente artigo é aplicável sem prejuízo das regras nacionais relativas ao acesso das autoridades judiciais à informação."
+  },
+  "60705b16fba4776a": {
+   "fragment_id": "Artigo 9.º — Comunicação voluntária",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Comunicação voluntária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comunicação voluntária\n\n1. Além do sistema de comunicação obrigatória instituído pelos artigos 4.º e 5.º, os Estados-Membros poderão designar um ou mais organismos ou entidades para estebelecerem um sistema de comunicação voluntária que colija e analise informações sobre deficiências verificadas na aviação que não sejam de comunicação obrigatória nos termos deste sistema, mas que o autor da comunicação considere como riscos reais ou potenciais.\n\n2. Os Estados-Membros que optarem por criar um sistema de comunicação voluntária estabelecerão as condições para a despersonalização, pelos organismos ou entidades que hajam designado nos termos do n.º 1, das comunicações voluntárias efectuadas no âmbito desse sistema.\n\n3. Os Estados-Membros zelarão por que as informações despersonalizadas sobre segurança relevantes, derivadas da análise de informações confidenciais, sejam armazenadas e facultadas a todas as partes, de modo a que possam ser utilizadas para melhorar a segurança na aviação."
+  },
+  "d66a76e147d2be93": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A Comissão é assistida pelo Comité instituído pelo artigo 12.º do Regulamento (CEE) n.º 3922/91 do Conselho, de 16 de Dezembro de 1991, relativo à harmonização de normas técnicas e dos procedimentos administrativos no sector da aviação civil ([^8^](http://publications.europa.eu/resource/cellar/68681ba5-9372-45a0-bc04-11bd1e7fbe02.0018.03/DOC_1#E0008)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º."
+  },
+  "9e2ac28d7b33695c": {
+   "fragment_id": "Artigo 11.º — Execução",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Execução\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 4 de Julho de 2005 e informar imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "a5d086190a407a46": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nA presente directiva entra em vigor no dia da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "228634c27842ceed": {
+   "fragment_id": "Artigo 13.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "f2281520c0cb41db": {
+   "fragment_id": "Lista de ocorrências relacionadas com a operação, a manutenção, a reparação e o fabrico de aeronaves que devem ser comunicadas",
+   "type": "divisao",
+   "heading": "Lista de ocorrências relacionadas com a operação, a manutenção, a reparação e o fabrico de aeronaves que devem ser comunicadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de ocorrências relacionadas com a operação, a manutenção, a reparação e o fabrico de aeronaves que devem ser comunicadas\n\nNota 1: Embora o presente anexo inclua a maior parte das ocorrências que devem ser comunicadas, esta lista não pretende ser completamente exaustiva. Qualquer ocorrência que as pessoas envolvidas considerem cumprir os critérios deve ser comunicada.\n\nNota 2: O presente anexo não inclui os acidentes. Além de outros requisitos que abrangem a notificação de acidentes, estes deverão também ser registados na base de dados referida no n.º 2 do artigo 5.º\n\nNota 3: O presente anexo contém exemplos de obrigações de comunicação relativamente à operação, à manutenção, à reparação e ao fabrico de aeronaves.\n\nNota 4: As ocorrências a comunicar são aquelas em que a segurança da operação foi posta em perigo ou foi susceptível de ter sido posta em perigo ou de ter conduzido a uma situação de falta de segurança. Se, na opinião do informador, uma ocorrência não pôs em perigo a segurança da operação mas pode constituir um risco se repetida em circunstâncias diferentes mas semelhantes, essa ocorrência deverá ser comunicada. O que se considera que deve ser comunicado relativamente a uma categoria de produtos, partes ou acessórios pode não se aplicar a outra categoria e a ausência ou presença de um único factor, humano ou técnico, pode transformar a ocorrência num acidente ou num incidente grave.\n\nNota 5: As aprovações operacionais específicas, por exemplo RVSM, ETOPS, RNAV, ou um programa de concepção ou de manutenção podem estar sujeitos a requisitos especiais no que diz respeito à comunicação de falhas ou avarias associadas a essas aprovações ou programas.\n\n| CONTEÚDO |  |\n| --- | --- |\n|  | A: |\n|  | B: |\n|  | C: |\n|  | D: |"
+  },
+  "6ffa1e3833e6fa36": {
+   "fragment_id": "A. OPERAÇÕES DE VOO DAS AERONAVES",
+   "type": "divisao",
+   "heading": "A. OPERAÇÕES DE VOO DAS AERONAVES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. OPERAÇÕES DE VOO DAS AERONAVES"
+  },
+  "11b0aee99e54368a": {
+   "fragment_id": "i) Operação da aeronave",
+   "type": "divisao",
+   "heading": "i) Operação da aeronave",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### i) Operação da aeronave\n\na) Manobras para evitar a colisão:\n\n— risco de colisão com outra aeronave, terreno ou objecto ou uma situação de risco ou quando se imponha uma acção para evitar a colisão,\n\n— manobra para evitar a colisão com outra aeronave, terreno ou objecto,\n\n— manobra para evitar a colisão destinada a evitar outras situações de falta de segurança;\n\nb) Incidentes de descolagem e aterragem, incluindo a aterragem forçada ou de precaução. Incidentes tais como a aterragem antes do início da pista e a ultrapassagem do limite finais ou laterais da pista. Descolagem, descolagem rejeitada, aterragem ou tentativa de aterragem em pista fechada, ocupada ou errada. Incursões na pista;\n\nc) Incapacidade de obtenção do comportamento funcional previsto durante a descolagem ou a subida inicial;\n\nd) Nível crítico de combustível ou incapacidade de transferir combustível ou de utilizar a quantidade total de combustível utilizável;\n\ne) Perda de controlo (incluindo perda de controlo parcial ou temporária) independentemente das causas;\n\nf) Ocorrência a velocidade próxima ou acima de V1 decorrente de uma situação perigosa ou potencialmente perigosa ou que a produza (por exemplo, descolagem rejeitada, bater com a cauda no chão ao descolar, perda de potência do motor, etc.);\n\ng) Aproximação falhada que produza uma situação perigosa ou potencialmente perigosa;\n\nh) Desvio significativo não intencional da velocidade, rota ou altitude pretendidas (superior a 300 pés) independentemente das causas;\n\ni) Descida abaixo da altura/altitude de decisão ou da altura/altitude de descida mínima sem a referência visual requerida;\n\nj) Perda da noção de posição relativamente à posição real ou à de outra aeronave;\n\nk) Avaria na comunicação entre a tripulação (CRM) ou entre o pessoal de voo e outras partes (pessoal de cabina, ATC, pessoal técnico);\n\nl) Aterragem violenta — aterragem que obrigue a um «controlo devido a uma aterragem violenta»;\n\nm) Ultrapassagem dos limites de desequilíbrio significativo de combustível;\n\nn) Indicação incorrecta de um código SSR ou da subescala de um altímetro;\n\no) Programação incorrecta ou introdução errada de dados nos equipamentos utilizados para navegação ou cálculos de comportamento funcional, ou utilização de dados incorrectos;\n\np) Recepção ou interpretação incorrecta de mensagens radiotelefónicas;\n\nq) Avaria ou defeito do sistema de combustível com efeitos no fornecimento e/ou distribuição do combustível;\n\nr) Saída não intencional de uma aeronave de uma superfície pavimentada;\n\ns) Colisão entre uma aeronave e qualquer outra aeronave, veículo ou objecto;\n\nt) Accionamento involuntário e/ou incorrecto de qualquer comando;\n\nu) Impossibilidade de conseguir a configuração pretendida para qualquer fase do voo [por exemplo, trem de aterragem e portas, *flaps*, estabilizadores, bordos de ataque avançados (*slats*), etc.];\n\nv) Situação de perigo ou potencialmente perigosa resultante de qualquer simulação de condições de emergência durante a formação, verificações de sistemas ou para fins de formação;\n\nw) Vibração anormal;\n\nx) Accionamento de qualquer sistema primário de aviso associado à manobra da aeronave, como por exemplo aviso de configuração, de perda (vibração do *manche*), de excesso de velocidade, etc., salvo se:\n\n1. A tripulação determinar, de forma conclusiva, que a indicação é falsa e na condição de o falso aviso não resultar numa situação de dificuldade ou de perigo devido à reacção da tripulação; ou\n\n2. O sistema tiver sido accionado para fins de formação ou de ensaio;\n\ny) Aviso GPWS/TAWS, quando:\n\n1. A aeronave se aproxime mais do solo do que estava previsto ou do que se esperava; ou\n\n2. O aviso surja em condições meteorológicas de voo por instrumentos (IMC) ou durante a noite e se conclua que foi desencadeado por uma razão de descida muito elevada (Modo 1); ou\n\n3. O aviso resulte da impossibilidade de descer o trem de aterragem ou os *flaps* de aterragem no ponto correcto na aproximação (Modo 4); ou\n\n4. Qualquer dificuldade ou perigo que resulte ou possa ter resultado da reacção da tripulação ao aviso, por exemplo, eventual redução da distância em relação ao tráfego vizinho. Esta categoria pode incluir avisos de qualquer modo ou tipo, ou seja, avisos genuínos, perturbações ou falsos avisos;\n\nz) Alerta GPWS/TAWS quando qualquer situação de dificuldade ou perigo resulte ou possa ter resultado da reacção da tripulação ao alerta.\n\naa) ACAS RA.\n\nbb) Incidente com o sopro dos reactores ou do hélice que resultem em danos significativos ou ferimentos graves."
+  },
+  "144d731f98414cff": {
+   "fragment_id": "ii) Emergências",
+   "type": "divisao",
+   "heading": "ii) Emergências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ii) Emergências\n\na) Incêndio, explosão, fumo ou emanações tóxicas mesmo quando o incêndio tenha sido extinguido;\n\nb) Utilização de qualquer procedimento não habitual pelo pessoal de voo ou de cabina para lidar com uma emergência quando:\n\n1. O procedimento existe mas não é utilizado;\n\n2. O procedimento não existe;\n\n3. O procedimento existe mas é incompleto ou inadequado;\n\n4. O procedimento é incorrecto;\n\n5. É utilizado o procedimento incorrecto;\n\nc) Inadequação de quaisquer procedimentos de emergência, incluindo quando utilizados para operações de manutenção, formação ou ensaio;\n\nd) Acontecimento que leve a uma evacuação de emergência;\n\ne) Despressurização;\n\nf) Utilização de qualquer equipamento de emergência ou dos procedimentos previstos para situações de emergência;\n\ng) Declaração de emergência («*Mayday*» ou «*Pan*»).\n\nh) Avaria em qualquer sistema ou equipamento de emergência, incluindo todas as portas de saída e a respectiva iluminação, mesmo quando seja detectada durante operações de manutenção, formação ou ensaio;\n\ni) Eventos que exijam a utilização das reservas de oxigénio de emergência por qualquer membro da tripulação;"
+  },
+  "b5988d52644ff613": {
+   "fragment_id": "iii) Incapacidade da tripulação",
+   "type": "divisao",
+   "heading": "iii) Incapacidade da tripulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### iii) Incapacidade da tripulação\n\na) Incapacidade de qualquer membro do pessoal de voo, mesmo que ocorra imediatamente antes da descolagem, caso se considere que poderia ter ocorrido após a descolagem;\n\nb) Incapacidade de qualquer membro do pessoal de cabina que o impeça de executar tarefas essenciais em situação de emergência."
+  },
+  "f9badfb3b06c9fb4": {
+   "fragment_id": "iv) Ferimentos",
+   "type": "divisao",
+   "heading": "iv) Ferimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### iv) Ferimentos\n\nOcorrências que provoquem ou possam provocar ferimentos significativos de passageiros ou da tripulação mas que cuja comunicação como acidente não seja considerada obrigatória."
+  },
+  "82913fc3a2ac7593": {
+   "fragment_id": "v) Meteorologia",
+   "type": "divisao",
+   "heading": "v) Meteorologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### v) Meteorologia\n\na) Queda de raio que provoque danos na aeronave ou perda ou avaria de qualquer sistema essencial;\n\nb) Queda de granizo que provoque danos na aeronave ou perda ou avaria de qualquer sistema essencial;\n\nc) Turbulência séria que provoque ferimentos aos ocupantes ou que se considere exigir uma «verificação após turbulência» da aeronave;\n\nd) Ondulações de vento;\n\ne) Condições de gelo que provoquem dificuldades de controlo da aeronave, danos na aeronave ou perda ou avaria de qualquer sistema essencial."
+  },
+  "0c01598b6ae4dd73": {
+   "fragment_id": "vi) Segurança",
+   "type": "divisao",
+   "heading": "vi) Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### vi) Segurança\n\na) Interferência ilegal na aeronave, incluindo ameaça de bomba ou desvio da aeronave por piratas do ar;\n\nb) Dificuldades de controlar passageiros embriagados, violentos ou indisciplinados;\n\nc) Descoberta de passageiro clandestino;"
+  },
+  "faed40a69b4d975e": {
+   "fragment_id": "vii) Outras ocorrências",
+   "type": "divisao",
+   "heading": "vii) Outras ocorrências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### vii) Outras ocorrências\n\na) Repetição de tipos específicos de ocorrências cuja comunicação não seja considerada obrigatória quando se verificam isoladamente mas que, devido à sua frequência, constituam um perigo potencial;\n\nb) Embate com uma ave que provoque danos na aeronave ou perda ou avaria de qualquer sistema essencial;\n\nc) Entrada em zona de turbulência;\n\nd) Outra ocorrência de qualquer tipo que se considere ter colocado em perigo ou poder colocar em perigo a aeronave ou os seus ocupantes a bordo ou em terra."
+  },
+  "c49a12a6b6747d97": {
+   "fragment_id": "B. FACTORES TÉCNICOS RELATIVOS À AERONAVE",
+   "type": "divisao",
+   "heading": "B. FACTORES TÉCNICOS RELATIVOS À AERONAVE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. FACTORES TÉCNICOS RELATIVOS À AERONAVE"
+  },
+  "b63679014838e42b": {
+   "fragment_id": "i) Estrutura",
+   "type": "divisao",
+   "heading": "i) Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### i) Estrutura\n\nNem todas as avarias estruturais devem ser comunicadas. É necessário proceder a uma avaliação técnica para decidir se a avaria é suficientemente grave para ser comunicada. Podem ser considerados os seguintes exemplos:\n\na) Dano causado a um elemento estrutural principal (EEP) não qualificado como tolerante ao dano (elemento de vida limitada). Os EEP são aqueles que contribuem significativamente para suportar cargas em voo, no solo e de pressurização e cuja avaria possa resultar numa avaria catastrófica da aeronave;\n\nb) Defeito ou dano que ultrapasse os danos admissíveis de um EEP qualificado com tolerante ao dano;\n\nc) Dano ou defeito que ultrapasse as tolerâncias admissíveis de um elemento estrutural cuja avaria possa reduzir a rigidez da estrutura de tal forma que deixe de ser possível obter margens de vibração, divergência ou inversão dos comandos;\n\nd) Dano ou defeito de um elemento estrutural que possa provocar a libertação de objectos susceptíveis de causar ferimentos a ocupantes da aeronave;\n\ne) Dano ou defeito de um elemento estrutural que possa pôr em risco o correcto funcionamento de sistemas. Ver a alínea ii);\n\nf) Perda de parte da estrutura da aeronave em voo."
+  },
+  "f93594210742df6e": {
+   "fragment_id": "ii) Sistemas",
+   "type": "divisao",
+   "heading": "ii) Sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ii) Sistemas\n\nPropõem-se os seguintes critérios gerais aplicáveis a todos os sistemas:\n\na) Perda, avaria ou defeito significativos de qualquer sistema, subsistema ou conjunto de equipamentos quando se torne impossível cumprir de forma satisfatória os procedimentos operacionais, treinos, etc.;\n\nb) Incapacidade de controlo do sistema pela tripulação, por exemplo:\n\n1. Acções não comandadas.\n\n2. Resposta incorrecta ou incompleta, incluindo a limitação de movimento ou rigidez.\n\n3. Ultrapassagem dos limites.\n\n4. Desconexão ou falha mecânica;\n\nc) Avaria na(s) função(ões) exclusiva(s) do sistema. (Um sistema pode integrar várias funções);\n\nd) Interferências no sistema ou entre sistemas;\n\ne) Avaria no dispositivo de protecção ou do sistema de emergência associados ao sistema;\n\nf) Perda de redundância do sistema fora dos limites;\n\ng) Ocorrências provocadas pelo comportamento funcional imprevisto de um sistema;\n\nh) Para tipos de aeronaves com sistemas principais, subsistemas ou conjuntos de equipamento únicos:\n\nPerda, avaria ou defeito significativo de mais de um sistema principal, subsistema ou conjunto de equipamentos;\n\ni) Para tipos de aeronaves com sistemas principais, subsistemas ou conjuntos de equipamentos múltiplos e independentes:\n\nPerda, avaria ou defeito significativo de mais de um sistema principal, subsistema ou conjunto de equipamentos;\n\nj) Funcionamento de qualquer sistema primário de aviso associado aos sistemas ou equipamentos da aeronave salvo se a tripulação determinar, de forma conclusiva, que a indicação é falsa, na condição de o falso aviso não resultar numa situação de dificuldade ou de perigo devido à reacção da tripulação;\n\nk) Fuga de fluidos hidráulicos, combustível, óleos ou outros fluidos que resulte em perigo de incêndio ou na possibilidade de contaminação perigosa da estrutura da aeronave, seus sistemas ou equipamentos ou perigo para os ocupantes;\n\nl) Avaria ou defeito de qualquer sistema indicador quando dessa avaria ou defeito resultem indicações erróneas para a tripulação;\n\nm) Avaria ou defeito detectados numa fase critica do voo e relevantes para o funcionamento do sistema;\n\nn) Ocorrências de quebra significativa do comportamento funcional real relativamente ao comportamento funcional aprovado que resultem numa situação perigosa (tendo em conta o grau de rigor do método de cálculo do comportamento funcional), incluindo a capacidade de travagem, o consumo de combustível, etc.;\n\no) Assimetria dos comandos de voo, por exemplo, *flaps*, bordos de ataque avançados (*slats*), *spoilers*, etc.\n\nO apêndice do presente anexo fornece uma lista de exemplos de ocorrências cuja comunicação é obrigatória que decorrem da aplicação destes critérios gerais a sistemas específicos."
+  },
+  "d1b614b33ea4b8d0": {
+   "fragment_id": "iii) Sistemas de propulsão (incluindo motores, hélices, sistemas de rotor) e unidades auxiliares de produção de energia (APU)",
+   "type": "divisao",
+   "heading": "iii) Sistemas de propulsão (incluindo motores, hélices, sistemas de rotor) e unidades auxiliares de produção de energia (APU)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### iii) Sistemas de propulsão (incluindo motores, hélices, sistemas de rotor) e unidades auxiliares de produção de energia (APU)\n\na) Extinção, corte ou avaria num motor.\n\nb) Velocidade excessivamente elevada ou avaria impossível de controlar de qualquer componente rotativo de grande velocidade (por exemplo: APU, arrancador pneumático, máquina de ciclo pneumático, motor de turbina a ar).\n\nc) Avaria ou disfuncionamento em qualquer parte do motor ou gerador que provoque uma ou mais das seguintes situações:\n\n1. Não contenção de resíduos/fragmentos.\n\n2. Incêndio não controlado no interior ou exterior ou fuga de gás quente.\n\n3. Impulso numa direcção diferente da solicitada pelo piloto.\n\n4. Impossibilidade de accionamento ou accionamento involuntário do sistema de inversão do impulso.\n\n5. Impossibilidade de controlar a potência, o impulso ou as rpm.\n\n6. Quebra da estrutura de fixação do motor.\n\n7. Perda parcial ou total de uma parte essencial do gerador de potência.\n\n8. Emanações densas visíveis ou concentrações de produtos tóxicos suficientes para incapacitar a tripulação ou os passageiros.\n\n9. Impossibilidade de, através dos procedimentos normais, cortar um motor.\n\n10. Incapacidade de re-arrancar um motor utilizável.\n\nd) Perda, alteração ou oscilações não comandadas de impulso/potência classificadas como perda de controlo de impulso ou potência (LOTC) quando:\n\n1. Se trate do motor de uma aeronave monomotor; ou\n\n2. Sejam consideradas excessivas para a aplicação, ou\n\n3. Possam afectar mais do que um motor numa aeronave com mais do que um motor, especialmente no caso de aeronaves com dois motores; ou\n\n4. Envolvam uma aeronave de mais do que um motor quando o mesmo tipo de motor ou um tipo de motor semelhante é utilizado numa aplicação em que o tipo de acontecimento fosse considerado perigoso ou crítico.\n\ne) Qualquer defeito detectado numa peça de vida controlada susceptível de levar à sua retirada antes de terminada a sua vida útil.\n\nf) Defeito de origem comum que possam causar, em voo, uma taxa de corte do motor tão elevada que seja possível que mais de um motor seja cortado no mesmo voo.\n\ng) Impossibilidade de accionar ou accionamento não desejado de um dispositivo de controlo ou limitador do motor.\n\nh) Ultrapassagem dos parâmetros do motor.\n\ni) FOD que provoque danos.\n\nj) Avaria ou defeito de qualquer parte do hélice que possa provocar um ou vários dos seguintes problemas:\n\n1. Velocidade excessivamente elevada do hélice.\n\n2. Desenvolvimento de excessiva resistência.\n\n3. Impulso em direcção diferente da accionada pelo piloto.\n\n4. Separação de parte ou do conjunto do hélice.\n\n5. Avaria que origine excessivo desequilíbrio.\n\n6. Movimento não pretendido das folhas do hélice inferior ao mínimo fixado para a posição de passo reduzido em voo.\n\n7. Impossibilidade de colocar o hélice em bandeira.\n\n8. Impossibilidade de accionar uma mudança do passo do hélice.\n\n9. Alteração não controlada do passo do hélice.\n\n10. Flutuação não controlável do binário ou da velocidade.\n\n11. Separação de peças de baixa energia.\n\nk) Avaria ou defeito da caixa de velocidades/fixação principal do rotor que possa provocar a separação, em voo, do conjunto do rotor e/ou avaria no controlo do rotor.\n\nl) Defeito do rotor de cauda, da transmissão ou de sistemas equivalentes.\n\nm) Corte ou avaria quando a APU tenha de estar disponível por força dos requisitos de funcionamento, por exemplo, ETOPS, MEL.\n\nn) Incapacidade de desligar a APU.\n\no) Velocidade excessiva.\n\np) Incapacidade de arrancar a APU quando necessário por motivos operacionais."
+  },
+  "fc0ced396b7a6157": {
+   "fragment_id": "iv) Factores humanos",
+   "type": "divisao",
+   "heading": "iv) Factores humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### iv) Factores humanos\n\nTodo o incidente no qual uma característica ou inadaptação da concepção da aeronave possa ter levado a um erro de utilização susceptível de ter um efeito perigoso ou catastrófico."
+  },
+  "7c9b482925e75c22": {
+   "fragment_id": "v) Outras ocorrências",
+   "type": "divisao",
+   "heading": "v) Outras ocorrências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### v) Outras ocorrências\n\na) Todo o incidente no qual uma característica ou inadaptação da concepção da aeronave possa ter levado a um erro de utilização susceptível de ter um efeito perigoso ou catastrófico.\n\nb) Ocorrência cuja comunicação não é normalmente considerada obrigatória (por exemplo, mobiliário e equipamentos de cabina, sistemas de água) cujas circunstâncias ponham em perigo a aeronave ou os seus ocupantes.\n\nc) Incêndio, explosão, fumo ou emanações tóxicas ou incómodas.\n\nd) Qualquer outro evento que possa pôr a aeronave em perigo ou afectar a segurança dos seus ocupantes, bem como de pessoas ou bens na proximidade da aeronave ou no solo.\n\ne) Avaria ou defeito do sistema sonoro que torne inaudíveis as comunicações aos passageiros.\n\nf) Perda do controlo do assento do piloto durante o voo."
+  },
+  "dc9a5c9a9ca2cb76": {
+   "fragment_id": "C. MANUTENÇÃO E REPARAÇÃO DA AERONAVE",
+   "type": "divisao",
+   "heading": "C. MANUTENÇÃO E REPARAÇÃO DA AERONAVE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. MANUTENÇÃO E REPARAÇÃO DA AERONAVE\n\ni) Montagem incorrecta de peças ou componentes da aeronave detectada durante a realização de uma inspecção ou procedimento de ensaio não destinado a essa finalidade específica.\n\nii) Fuga do ar de purga quente que provoque uma avaria estrutural.\n\niii) Qualquer defeito detectado numa peça de vida controlada susceptível de levar à sua retirada antes de terminada a sua vida útil.\n\niv) Qualquer dano ou deterioração (por exemplo: fracturas, fendas, corrosão, laminação, desligamento, etc.), independentemente das suas causas (tais como, vibrações, perda de rigidez ou falha estrutural):\n\na) Numa estrutura primária ou EEP (tal como definidos no manual de reparações fornecido pelo construtor), quando tal dano ou deterioração exceder os limites permissíveis especificados no manual de reparações e exigir a reparação ou a substituição completa ou parcial do elemento;\n\nb) Numa estrutura secundária que coloque ou possa ter colocado a aeronave em perigo;\n\nc) No motor, hélice ou sistema de rotor de helicóptero.\n\nv) *Avaria ou defeito de qualquer sistema ou equipamento ou dano ou deterioração constatados no seguimento da verificação da conformidade com uma directiva de navegabilidade ou com outra instrução obrigatória de uma autoridade de regulamentação, quando:*\n\na) For detectada pela primeira vez por uma organização responsável pela garantia da conformidade;\n\nb) Em qualquer verificação posterior se concluir que estão ultrapassados os limites admissíveis especificados nas instruções do construtor e/ou quando não existirem procedimentos de reparação/rectificação.\n\nvi) Avaria no funcionamento de qualquer sistema ou equipamento de emergência, incluindo todas as portas de saída e a respectiva iluminação, mesmo nos casos em que a avaria seja detectada durante operações de manutenção ou de ensaio.\n\nvii) Não cumprimento ou erros significativos no que respeita aos procedimentos de manutenção da aeronave.\n\nviii) Produtos, peças, dispositivos e materiais de origem desconhecida ou suspeita.\n\nix) Dados ou procedimentos de manutenção enganosos, incorrectos ou insuficientes que possam levar a erros de manutenção.\n\nx) *Avaria ou defeito dos equipamentos utilizados no solo para o ensaio ou verificação dos sistemas e equipamentos das aeronaves, quando as inspecções de rotina e os procedimentos de ensaio previstos não identifiquem claramente o problema e este provoque uma situação perigosa.*"
+  },
+  "87ae7b58083c3c7e": {
+   "fragment_id": "D. SERVIÇOS DE TRÁFEGO AÉREO, INSTALAÇÕES E SERVIÇOS DE TERRA",
+   "type": "divisao",
+   "heading": "D. SERVIÇOS DE TRÁFEGO AÉREO, INSTALAÇÕES E SERVIÇOS DE TERRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### D. SERVIÇOS DE TRÁFEGO AÉREO, INSTALAÇÕES E SERVIÇOS DE TERRA"
+  },
+  "fce170bd26af290b": {
+   "fragment_id": "i) Serviços de tráfego aéreo (STA)",
+   "type": "divisao",
+   "heading": "i) Serviços de tráfego aéreo (STA)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### i) Serviços de tráfego aéreo (STA)\n\nVer anexo II — Lista de ocorrências relacionadas com os STA que devem ser comunicadas."
+  },
+  "224f8b75f6ee989f": {
+   "fragment_id": "ii) Aeródromos e instalações aeroportuárias",
+   "type": "divisao",
+   "heading": "ii) Aeródromos e instalações aeroportuárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ii) Aeródromos e instalações aeroportuárias\n\na) Derramamentos significativos durante o abastecimento.\n\nb) Carregamento de uma quantidade incorrecta de combustível que possa influenciar significativamente a resistência, o comportamento funcional, o equilíbrio ou a resistência estrutural da aeronave."
+  },
+  "ea2c63624d62017a": {
+   "fragment_id": "iii) Passageiros, bagagem e carga",
+   "type": "divisao",
+   "heading": "iii) Passageiros, bagagem e carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### iii) Passageiros, bagagem e carga\n\na) Contaminação significativa da estrutura, sistemas ou equipamento da aeronave resultante do transporte da bagagem ou carga.\n\nb) Distribuição incorrecta de passageiros, bagagem ou carga que possa ter efeitos significativos na massa ou equilíbrio da aeronave.\n\nc) Arrumação incorrecta da bagagem ou carga (incluindo bagagem de mão) que possa por qualquer razão representar um perigo para a aeronave, seu equipamento ou ocupantes ou que impeça a evacuação de emergência.\n\nd) Arrumação incorrecta dos contentores de carga ou de outros volumes de grandes dimensões ou peso.\n\ne) Transporte ou tentativa de transporte de mercadorias perigosas em violação da regulamentação aplicável, incluindo a rotulagem e embalagem incorrectas de mercadorias perigosas."
+  },
+  "1972b32f73afb15d": {
+   "fragment_id": "iv) Assistência/prestação de serviços em terra às aeronaves",
+   "type": "divisao",
+   "heading": "iv) Assistência/prestação de serviços em terra às aeronaves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### iv) Assistência/prestação de serviços em terra às aeronaves\n\na) Avaria ou defeito dos equipamentos utilizados no solo para o ensaio ou verificação dos sistemas e equipamentos das aeronaves, quando as inspecções de rotina e os procedimentos de ensaio previstos não identifiquem claramente o problema e este provoque uma situação perigosa.\n\nb) Não cumprimento ou erros significativos no que respeita aos procedimentos de serviço da aeronave.\n\nc) Carregamento de combustível ou de outros fluidos essenciais contaminados ou do tipo incorrecto (incluindo oxigénio e água potável)."
+  },
+  "446dd7faa0f51e3f": {
+   "fragment_id": "Apêndice ao anexo I",
+   "type": "divisao",
+   "heading": "Apêndice ao anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Apêndice ao anexo I\n\nNos pontos seguintes são apresentados exemplos de ocorrências cuja comunicação é obrigatória por força da aplicação dos critérios gerais enumerados na alínea ii) do ponto B do anexo I aos sistemas específicos."
+  },
+  "4314c828628b40c7": {
+   "fragment_id": "1. Ar condicionado/ventilação",
+   "type": "divisao",
+   "heading": "1. Ar condicionado/ventilação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Ar condicionado/ventilação\n\na) Perda total do arrefecimento dos aviónicos.\n\nb) Despressurização."
+  },
+  "66c19acdf3327bb7": {
+   "fragment_id": "2. Piloto automático",
+   "type": "divisao",
+   "heading": "2. Piloto automático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Piloto automático\n\na) Avaria no piloto automático durante a realização da operação pretendida enquanto ligado.\n\nb) Dificuldade significativa e comunicada da tripulação para controlar a aeronave relacionada com o funcionamento do sistema de piloto automático.\n\nc) Avaria em qualquer dispositivo para desligar o sistema de piloto automático.\n\nd) Alteração inesperada do modo de piloto automático"
+  },
+  "7e82f05806223cc0": {
+   "fragment_id": "3. Comunicações",
+   "type": "divisao",
+   "heading": "3. Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Comunicações\n\na) Avaria ou defeito do sistema sonoro que torne inaudíveis as comunicações aos passageiros.\n\nb) Perda total das comunicações durante o voo."
+  },
+  "f21232d949ccc0c6": {
+   "fragment_id": "4. Sistema eléctrico",
+   "type": "divisao",
+   "heading": "4. Sistema eléctrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Sistema eléctrico\n\na) Perda de um sistema eléctrico de distribuição (AC/DC).\n\nb) Perda total ou perda de mais de um sistema de produção de energia eléctrica.\n\nc) Falha do sistema de reserva de produção de energia eléctrica (emergência)."
+  },
+  "92146dd559d55b8d": {
+   "fragment_id": "5. Cockpit/cabina/carga",
+   "type": "divisao",
+   "heading": "5. Cockpit/cabina/carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Cockpit/cabina/carga\n\na) Perda do controlo do assento do piloto durante o voo.\n\nb) Falha de qualquer sistema ou equipamentos de emergência, incluindo o sistema de sinalização da evacuação de emergência, saídas de emergência, iluminação, etc.\n\nc) Perda da capacidade de retenção do sistema de carregamento da carga."
+  },
+  "21125822da933133": {
+   "fragment_id": "6. Sistemas de protecção contra incêndios",
+   "type": "divisao",
+   "heading": "6. Sistemas de protecção contra incêndios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. Sistemas de protecção contra incêndios\n\na) Avisos de incêndio, salvo os que forem imediatamente confirmados como falsos.\n\nb) Avaria ou defeito não detectado do sistema de detecção/protecção contra incêndio/fumo, que possa conduzir à perda ou redução da detecção/protecção contra incêndios.\n\nc) Falta de aviso em caso de incêndio real."
+  },
+  "940fc5391df5858b": {
+   "fragment_id": "7. Comandos de voo",
+   "type": "divisao",
+   "heading": "7. Comandos de voo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. Comandos de voo\n\na) Assimetria dos *flaps*, dos bordos de ataque avançados (*slats*), dos *spoilers*, etc.\n\nb) Limitação dos movimentos, rigidez, imperfeição ou atraso da resposta na operação dos sistemas primários de comando de voo ou dos sistemas associados de compensação ou de bloqueio.\n\nc) Excedência dos limites das superfícies de comando de voo.\n\nd) Vibração das superfícies de comando de voo sentida pela tripulação.\n\ne) Desconexão ou falha mecânica do comando de voo.\n\nf) Interferência significativa com o controlo normal da aeronave ou degradação das qualidades de voo."
+  },
+  "4ed096280ef8e96f": {
+   "fragment_id": "8. Sistema de combustível",
+   "type": "divisao",
+   "heading": "8. Sistema de combustível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. Sistema de combustível\n\na) Avaria no sistema indicador da quantidade de combustível que resulte na perda total de indicação ou na indicação errada da quantidade de combustível a bordo.\n\nb) Fuga de combustível que resulte em perda de grandes quantidades, em perigo de incêndio ou em contaminação significativa.\n\nc) Avaria ou defeito dos sistemas de descarga de emergência do combustível em voo que resulte na perda inadvertida de quantidades significativas, em perigo de incêndio, na contaminação perigosa de equipamentos da aeronave ou na impossibilidade de proceder à descarga de emergência do combustível em voo.\n\nd) Avaria ou defeito do sistema de combustível que tenham efeitos significativos no abastecimento e/ou distribuição do combustível.\n\ne) Impossibilidade de transferir ou utilizar a quantidade total de combustível utilizável."
+  },
+  "ac7c53e9c42d8039": {
+   "fragment_id": "9. Aparelho hidráulico",
+   "type": "divisao",
+   "heading": "9. Aparelho hidráulico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9. Aparelho hidráulico\n\na) Perda de um sistema hidráulico (apenas ETOPS).\n\nb) Avaria no funcionamento do sistema de isolamento.\n\nc) Perda de mais de um circuito hidráulico.\n\nd) Avaria no sistema hidráulico de reserva.\n\ne) Extensão inadvertida da turbina de ar de impacto."
+  },
+  "200de358598b3947": {
+   "fragment_id": "10. Sistema de detecção/protecção de gelo",
+   "type": "divisao",
+   "heading": "10. Sistema de detecção/protecção de gelo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10. Sistema de detecção/protecção de gelo\n\na) Perda ou redução não detectada do comportamento funcional do sistema anti-gelo/de eliminação de gelo.\n\nb) Perda de mais de um sistema de aquecimento de sondas.\n\nc) Incapacidade de eliminação simétrica de gelo da asa.\n\nd) Acumulação de gelo anormal provocando efeitos significativos no comportamento funcional ou qualidades de controlo da aeronave.\n\ne) Visibilidade da tripulação significativamente afectada."
+  },
+  "ee64252016ae4f9c": {
+   "fragment_id": "11. Sistemas indicadores/de aviso/de registo",
+   "type": "divisao",
+   "heading": "11. Sistemas indicadores/de aviso/de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 11. Sistemas indicadores/de aviso/de registo\n\na) Avaria ou defeito de qualquer sistema de indicação quando a possibilidade de assinalar à tripulação indicações enganadoras possa provocar uma acção inadequada da mesma num sistema essencial.\n\nb) Perda de uma função vermelha de aviso num sistema.\n\nc) Para *cockpits* de vidro: perda ou avaria em mais de uma unidade de visualização ou computador integrados na função de visualização/aviso."
+  },
+  "9e0e3d54bea2ea58": {
+   "fragment_id": "12. Sistema de trem de aterragem/travões/pneus",
+   "type": "divisao",
+   "heading": "12. Sistema de trem de aterragem/travões/pneus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 12. Sistema de trem de aterragem/travões/pneus\n\na) Incêndio dos pneus.\n\nb) Perda significativa da capacidade de travagem.\n\nc) Travagem assimétrica que provoque um desvio significativo do percurso.\n\nd) Avaria no sistema de extensão de queda livre do trem de aterragem (incluindo durante os ensaios de rotina).\n\ne) Extensão/retracção não pretendida do trem de aterragem e respectivas portas.\n\nf) Rebentamento de mais de um pneu."
+  },
+  "c909df9837bf8a87": {
+   "fragment_id": "13. Sistemas de navegação (incluindo os sistemas de aproximação de precisão) e sistemas de dados aéreos",
+   "type": "divisao",
+   "heading": "13. Sistemas de navegação (incluindo os sistemas de aproximação de precisão) e sistemas de dados aéreos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 13. Sistemas de navegação (incluindo os sistemas de aproximação de precisão) e sistemas de dados aéreos\n\na) Perda ou avarias múltiplas nos equipamentos de navegação.\n\nb) Perda total ou avarias múltiplas no equipamento do sistema de dados aéreos.\n\nc) Indicações significativamente enganadoras.\n\nd) Erros significativos de navegação atribuídos a dados incorrectos ou a erros de codificação da base de dados.\n\ne) Desvios inesperados na trajectória lateral ou vertical não provocados pelo piloto.\n\nf) Problemas com as ajudas de navegação terrestres que provoquem erros significativos de navegação, não associados com as transições do sistema de navegação por inércia para o sistema de navegação."
+  },
+  "6a929fd636b35e1d": {
+   "fragment_id": "14. Oxigénio para aeronaves pressurizadas",
+   "type": "divisao",
+   "heading": "14. Oxigénio para aeronaves pressurizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 14. Oxigénio para aeronaves pressurizadas\n\na) Perda do abastecimento de oxigénio no *cockpit*.\n\nb) Perda do abastecimento de oxigénio para um número significativamente elevado de passageiros (mais de 10 %), incluindo quando detectado durante operações de manutenção ou ensaio."
+  },
+  "8e40c494148dd840": {
+   "fragment_id": "15. Sistema de ar de purga",
+   "type": "divisao",
+   "heading": "15. Sistema de ar de purga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 15. Sistema de ar de purga\n\na) Fuga de ar de purga que accione o aviso de incêndio ou provoque avarias estruturais.\n\nb) Perda de todos os sistemas de ar de purga.\n\nc) Avaria no sistema de detecção de fugas de ar de purga."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "8caafb2d19a26f94": {
+   "fragment_id": "Lista de ocorrências relacionadas com os serviços de tráfego aéreo que devem ser comunicadas",
+   "type": "divisao",
+   "heading": "Lista de ocorrências relacionadas com os serviços de tráfego aéreo que devem ser comunicadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de ocorrências relacionadas com os serviços de tráfego aéreo que devem ser comunicadas\n\nNota 1: Embora o presente anexo inclua a maior parte das ocorrências que devem ser comunicadas, esta lista não pretende ser completamente exaustiva. Qualquer ocorrência que as pessoas envolvidas considerem cumprir os critérios deve ser comunicada.\n\nNota 2: O presente anexo não inclui os acidentes e os incidentes graves. Além de outros requisitos que abrangem a notificação de acidentes, estes deverão também ser registados na base de dados referida no n.º 2 do artigo 5.º\n\nNota 3: O presente anexo contém ocorrências de serviços de tráfego aéreo (STA) que constituem um perigo real ou potencial para a segurança do voo, ou podem comprometer a prestação de STA.\n\nNota 4: O conteúdo do presente anexo não exclui que seja comunicada toda e qualquer ocorrência, situação ou condição que possa constituir um risco para a segurança da aeronave se repetida em circunstâncias diferentes mas semelhantes, ou se for deixada sem correcção.\n\ni) *Incidentes de quase colisão (incluindo as situações específicas em que é considerada insuficiente a distância entre uma aeronave e outra aeronave/o solo/um veículo/uma pessoa ou um objecto):*\n\na) Não respeito das distâncias mínimas de separação;\n\nb) Separação inadequada;\n\nc) Quase impacto com o solo sem perda de controlo (quase acidente CFIT);\n\nd) Incursão na pista sendo necessária uma manobra para evitar a colisão.\n\nii) *Risco de colisão ou quase colisão (incluindo as situações específicas susceptíveis de provocar um acidente ou uma quase colisão, se outra aeronave se encontrar na proximidade):*\n\na) Incursão na pista sem que seja necessária uma manobra para evitar uma colisão;\n\nb) Saída de pista;\n\nc) Aeronave que se afasta de uma autorização do controlo da navegação aérea (ATC);\n\nd) Aeronave que se afasta do regulamento de gestão de tráfego aéreo (ATM) aplicável:\n\n1. Aeronave que se afasta dos procedimentos ATM publicados aplicáveis.\n\n2. Entrada não autorizada num espaço aéreo.\n\n3. Não cumprimento dos procedimentos e operações ATM para os equipamentos aeronáuticos, nos termos do ou dos regulamentos aplicáveis.\n\niii) *Ocorrências específicas à ATM (incluindo as situações em que é afectada a capacidade para assegurar serviços ATM seguros, nomeadamente as situações em que, só por casualidade a exploração da aeronave não foi comprometida). Incluem-se aqui as seguintes ocorrências:*\n\na) Impossibilidade de assegurar os serviços ATM:\n\n1. Impossibilidade de assegurar os STA.\n\n2. Impossibilidade de assegurar os serviços de gestão do espaço aéreo.\n\n3. Impossibilidade de assegurar os serviços de gestão dos fluxos de tráfego aéreo;\n\nb) Avaria da função de comunicação;\n\nc) Avaria da função de fiscalização;\n\nd) Avaria da função de processamento e distribuição dos dados;\n\ne) Avaria da função de navegação;\n\nf) Segurança do sistema ATM."
+  },
+  "c05adf08d15544a2": {
+   "fragment_id": "Apêndice ao anexo II",
+   "type": "divisao",
+   "heading": "Apêndice ao anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Apêndice ao anexo II\n\nNos pontos seguintes são apresentados exemplos de ocorrências relacionadas com ATM cuja comunicação é obrigatória por força da aplicação dos critérios gerais enumerados na alínea iii) do anexo II à exploração das aeronaves.\n\n1. Fornecimento de informações grosseiramente incorrectas, inadequadas ou enganosas provenientes de qualquer fonte em terra, por exemplo, ATC, Serviço Automático de Informação de Região Terminal (ATIS), serviços meteorológicos, bases de dados de navegação, cartas, gráficos, manuais, etc.\n\n2. Indicação de uma altura inferior à altura prescrita.\n\n3. Indicação de dados de referência de pressão incorrectos (ou seja, regulação do altímetro).\n\n4. Erro de transmissão, de recepção ou de interpretação de mensagens importantes quando tal der origem a uma situação perigosa.\n\n5. Não respeito das distâncias mínimas de separação.\n\n6. Entrada não autorizada num espaço aéreo.\n\n7. Transmissão rádio contrária às normas.\n\n8. Avaria das instalações de STA terrestres ou por satélite.\n\n9. Grave avaria do ATC/ATM ou deterioração considerável das infra-estruturas do aeródromo.\n\n10. Zonas de movimentação de um aeródromo obstruídas por aeronaves, veículos, animais ou objectos estranhos, provocando uma situação perigosa ou potencialmente perigosa.\n\n11. Erros de sinalização ou má sinalização de qualquer obstrução ou perigo nas zonas de movimentação de um aeródromo, provocando uma situação perigosa.\n\n12. Avaria, mau funcionamento significativo ou indisponibilidade da iluminação da pista.\n\n---"
+  },
+  "5aec31a8252d2684": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/68681ba5-9372-45a0-bc04-11bd1e7fbe02.0018.03/DOC_1#src.E0001)) JO C 120 E de 24.4.2001, p. 148, e JO C 332 E de 27.11.2001, p. 320.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/68681ba5-9372-45a0-bc04-11bd1e7fbe02.0018.03/DOC_1#src.E0002)) JO C 311 de 7.11.2001, p. 8.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/68681ba5-9372-45a0-bc04-11bd1e7fbe02.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 14 de Junho de 2001 (JO C 53 E de 28.2.2002, p. 324), posição comum do Conselho de 17 de Junho de 2002 (JO C 197 E, de 20.8.2002, p. 16) e decisão do Parlamento Europeu de 23 de Outubro de 2002 (ainda não publicado no Jornal Oficial). Decisão do Parlamento Europeu de 13 de Maio de 2003 e decisão do Conselho de 13 de Maio de 2003.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/68681ba5-9372-45a0-bc04-11bd1e7fbe02.0018.03/DOC_1#src.E0004)) JO L 319 de 12.12.1994, p. 14.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/68681ba5-9372-45a0-bc04-11bd1e7fbe02.0018.03/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/68681ba5-9372-45a0-bc04-11bd1e7fbe02.0018.03/DOC_1#src.E0006)) JO L 240 de 24.8.1992, p. 8. Regulamento com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/68681ba5-9372-45a0-bc04-11bd1e7fbe02.0018.03/DOC_1#src.E0007)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/68681ba5-9372-45a0-bc04-11bd1e7fbe02.0018.03/DOC_1#src.E0008)) JO L 373 de 31.12.1991, p. 4."
+  }
+ }
+}

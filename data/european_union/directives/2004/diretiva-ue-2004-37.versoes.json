@@ -1,0 +1,1368 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004L0037:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0037-20240408",
+ "dre_path": null,
+ "source_lastmod": "2024-04-08",
+ "versions": [
+  {
+   "date": "2014-03-25",
+   "future": false,
+   "celex": "02004L0037-20140325",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e71acd7934bb0d71",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "8141932cafe48c9e",
+    "fea6d56e52e80762",
+    "02587b475f6bec31",
+    "f0f8c960bfdbce9b",
+    "ad9e85e1f37caa00",
+    "3a726385e3900bf3",
+    "1f36075dd7136c8e",
+    "7d21014fb3cf84c3",
+    "333e41bb4b048528",
+    "3837bd09de2cb9b4",
+    "a353779945e9be9d",
+    "868ceca4e7aff143",
+    "6bf7f6c17c182447",
+    "b08281f3398b951f",
+    "0c41e7518049faa1",
+    "1e7a0903d2eed348",
+    "4f0027fbf9863594",
+    "173f63ba75654fb6",
+    "bf30db9bfba3edd3",
+    "491bb009ff1fc33d",
+    "eaeab3ed2658c131",
+    "391dff9111b46827",
+    "b250f4e35102e089",
+    "878c0ee8f1911709",
+    "f724e57b06b83a34",
+    "05c0c15c739403db",
+    "d664376e2a8dcecd",
+    "6dae59f11769cf77",
+    "5170223c908170c3",
+    "852174729551523b",
+    "345d2cd8823da4d6",
+    "73fae5191ff405e4",
+    "720af75c92791b10",
+    "a9bc7cd87ea1c800",
+    "45235aa6efed3d23",
+    "a84b7f715a23f00d",
+    "dcffb65710bad446",
+    "e03a0eb4d5b2eef3",
+    "6cd9753221daf8f2",
+    "3eb5ba71298d5e18",
+    "3d9313ae976966ab",
+    "c476005056aa0321",
+    "e342f7becaa85ede",
+    "bc4be39e8cb254d6",
+    "e77637e670c4c7d8",
+    "591f756d1ddd7be4"
+   ]
+  },
+  {
+   "date": "2018-01-16",
+   "future": false,
+   "celex": "02004L0037-20180116",
+   "acts": [
+    {
+     "id": "eu:celex:32017L2398:por",
+     "title": "DIRETIVA (UE) 2017/2398 DO PARLAMENTO EUROPEU E DO CONSELHO, Texto relevante para efeitos do EEE de 12 de dezembro de 2017,",
+     "published": null,
+     "celex": "32017L2398"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objecto",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 6.º — Informação das autoridades responsáveis",
+    "Altera Artigo 14.º — Vigilância médica",
+    "Altera [alínea a) iii) do artigo 2.º]",
+    "Altera A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL",
+    "Altera Notas",
+    "Adita Artigo 18.º-A — Avaliação",
+    "Adita Valores-limite e outras disposições diretamente relacionadas (Artigo 16.º)",
+    "Adita B. OUTRAS DISPOSIÇÕES DIRETAMENTE RELACIONADAS",
+    "Suprime Valores-limite e outras disposições directamente relacionadas",
+    "Suprime (Artigo 16.º)",
+    "Suprime Β. OUTRAS DISPOSIÇÕES DIRECTAMENTE RELACIONADAS"
+   ],
+   "fragments": [
+    "eeebdc602a9028e3",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "64c1116ea8ea00ec",
+    "a36ec95be68dbc65",
+    "02587b475f6bec31",
+    "f0f8c960bfdbce9b",
+    "ad9e85e1f37caa00",
+    "3a726385e3900bf3",
+    "1f36075dd7136c8e",
+    "c22b67ab7e245064",
+    "333e41bb4b048528",
+    "3837bd09de2cb9b4",
+    "a353779945e9be9d",
+    "868ceca4e7aff143",
+    "6bf7f6c17c182447",
+    "b08281f3398b951f",
+    "0c41e7518049faa1",
+    "1e7a0903d2eed348",
+    "4f0027fbf9863594",
+    "a8fb78106928c959",
+    "bf30db9bfba3edd3",
+    "491bb009ff1fc33d",
+    "eaeab3ed2658c131",
+    "391dff9111b46827",
+    "89bfc4398ba80f42",
+    "b250f4e35102e089",
+    "878c0ee8f1911709",
+    "f724e57b06b83a34",
+    "05c0c15c739403db",
+    "d664376e2a8dcecd",
+    "6dae59f11769cf77",
+    "59c035feba71b9b7",
+    "852174729551523b",
+    "345d2cd8823da4d6",
+    "73fae5191ff405e4",
+    "720af75c92791b10",
+    "4526f6dfaf0065dd",
+    "c23c7c27e86c81ba",
+    "1a1151786444e35c",
+    "e03a0eb4d5b2eef3",
+    "6cd9753221daf8f2",
+    "3eb5ba71298d5e18",
+    "3d9313ae976966ab",
+    "c476005056aa0321",
+    "e342f7becaa85ede",
+    "bc4be39e8cb254d6",
+    "e77637e670c4c7d8",
+    "1de0b0d281ef8c88"
+   ]
+  },
+  {
+   "date": "2019-07-10",
+   "future": false,
+   "celex": "02004L0037-20190710",
+   "acts": [
+    {
+     "id": "eu:celex:32019L0130:por",
+     "title": "DIRETIVA (UE) 2019/130 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 16 de janeiro de 2019",
+     "published": null,
+     "celex": "32019L0130"
+    },
+    {
+     "id": "eu:celex:32019L0983:por",
+     "title": "DIRETIVA (UE) 2019/983 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5 de junho de 2019",
+     "published": null,
+     "celex": "32019L0983"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º — Objecto",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 18.º-A — Avaliação",
+    "Altera [alínea a) iii) do artigo 2.º]",
+    "Altera A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL",
+    "Altera Notas",
+    "Adita Artigo 13.º-A — Acordos entre os parceiros sociais",
+    "Adita VALORES-LIMITE E OUTRAS DISPOSIÇÕES DIRETAMENTE RELACIONADAS (ARTIGO 16.º)",
+    "Suprime Valores-limite e outras disposições diretamente relacionadas (Artigo 16.º)"
+   ],
+   "fragments": [
+    "eeebdc602a9028e3",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "e0107378c2771f16",
+    "e792140a2cb8dec5",
+    "02587b475f6bec31",
+    "f0f8c960bfdbce9b",
+    "ad9e85e1f37caa00",
+    "3a726385e3900bf3",
+    "1f36075dd7136c8e",
+    "c22b67ab7e245064",
+    "333e41bb4b048528",
+    "3837bd09de2cb9b4",
+    "a353779945e9be9d",
+    "868ceca4e7aff143",
+    "6bf7f6c17c182447",
+    "b08281f3398b951f",
+    "0c41e7518049faa1",
+    "301722b892fe10e2",
+    "1e7a0903d2eed348",
+    "4f0027fbf9863594",
+    "a8fb78106928c959",
+    "bf30db9bfba3edd3",
+    "491bb009ff1fc33d",
+    "eaeab3ed2658c131",
+    "391dff9111b46827",
+    "92c086cd038e8f15",
+    "b250f4e35102e089",
+    "878c0ee8f1911709",
+    "f724e57b06b83a34",
+    "05c0c15c739403db",
+    "d664376e2a8dcecd",
+    "6dae59f11769cf77",
+    "075c7ffa8000a7af",
+    "852174729551523b",
+    "345d2cd8823da4d6",
+    "73fae5191ff405e4",
+    "720af75c92791b10",
+    "0c5335436a66022b",
+    "275d614ac3939ad5",
+    "1a1151786444e35c",
+    "e03a0eb4d5b2eef3",
+    "6cd9753221daf8f2",
+    "3eb5ba71298d5e18",
+    "3d9313ae976966ab",
+    "c476005056aa0321",
+    "e342f7becaa85ede",
+    "bc4be39e8cb254d6",
+    "e77637e670c4c7d8",
+    "7b5a562705d3d173"
+   ]
+  },
+  {
+   "date": "2019-07-26",
+   "future": false,
+   "celex": "02004L0037-20190726",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1243:por",
+     "title": "REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019",
+     "published": null,
+     "celex": "32019R1243"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º — Objecto",
+    "Altera Artigo 2.º — Definições",
+    "Altera [alínea a) iii) do artigo 2.º]",
+    "Altera A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL",
+    "Altera Notas",
+    "Adita Artigo 17.º — Alteração do anexo II",
+    "Adita Artigo 17.º-A — Exercício da delegação",
+    "Adita Artigo 17.º-B — Procedimento de urgência",
+    "Suprime Artigo 17.º — Anexos"
+   ],
+   "fragments": [
+    "eeebdc602a9028e3",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "8f1743eb505abddb",
+    "52174aa6bfb3df5d",
+    "02587b475f6bec31",
+    "f0f8c960bfdbce9b",
+    "ad9e85e1f37caa00",
+    "3a726385e3900bf3",
+    "1f36075dd7136c8e",
+    "c22b67ab7e245064",
+    "333e41bb4b048528",
+    "3837bd09de2cb9b4",
+    "a353779945e9be9d",
+    "868ceca4e7aff143",
+    "6bf7f6c17c182447",
+    "b08281f3398b951f",
+    "0c41e7518049faa1",
+    "301722b892fe10e2",
+    "1e7a0903d2eed348",
+    "4f0027fbf9863594",
+    "a8fb78106928c959",
+    "bf30db9bfba3edd3",
+    "491bb009ff1fc33d",
+    "59aab7da3b9e7a88",
+    "53be0dbef9bdf1f5",
+    "6c34b4e8c0fe825d",
+    "391dff9111b46827",
+    "92c086cd038e8f15",
+    "b250f4e35102e089",
+    "878c0ee8f1911709",
+    "f724e57b06b83a34",
+    "05c0c15c739403db",
+    "d664376e2a8dcecd",
+    "6dae59f11769cf77",
+    "5a33282770494ca1",
+    "852174729551523b",
+    "345d2cd8823da4d6",
+    "73fae5191ff405e4",
+    "720af75c92791b10",
+    "0c5335436a66022b",
+    "13a29ce4f597b2be",
+    "1a1151786444e35c",
+    "e03a0eb4d5b2eef3",
+    "6cd9753221daf8f2",
+    "3eb5ba71298d5e18",
+    "3d9313ae976966ab",
+    "c476005056aa0321",
+    "e342f7becaa85ede",
+    "bc4be39e8cb254d6",
+    "e77637e670c4c7d8",
+    "ffc5802bac9fcac5"
+   ]
+  },
+  {
+   "date": "2022-04-05",
+   "future": false,
+   "celex": "02004L0037-20220405",
+   "acts": [
+    {
+     "id": "eu:celex:32022L0431:por",
+     "title": "DIRETIVA (UE) 2022/431 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de março de 2022",
+     "published": null,
+     "celex": "32022L0431"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objecto",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 3.º — Âmbito de aplicação — Identificação e avaliação dos riscos",
+    "Altera Artigo 4.º — Redução e substituição",
+    "Altera Artigo 5.º — Disposições para evitar ou reduzir a exposição",
+    "Altera Artigo 6.º — Informação das autoridades responsáveis",
+    "Altera Artigo 10.º — Medidas de higiene e de protecção individual",
+    "Altera Artigo 11.º — Informação e formação dos trabalhadores",
+    "Altera Artigo 14.º — Vigilância médica",
+    "Altera Artigo 15.º — Registos",
+    "Altera Artigo 16.º — Valores-limite",
+    "Altera Artigo 17.º — Alteração do anexo II",
+    "Altera Artigo 17.º-A — Exercício da delegação",
+    "Altera Artigo 18.º-A — Avaliação",
+    "Altera [alínea a) iii) do artigo 2.º]",
+    "Altera (n.º 7 do artigo 14.º)",
+    "Altera A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL",
+    "Altera Notas",
+    "Adita Artigo 16.º-A — Identificação de substâncias tóxicas para a reprodução sujeitas ou não sujeitas a um limiar",
+    "Adita ANEXO III-A",
+    "Adita VALORES-LIMITE BIOLÓGICOS E MEDIDAS DE VIGILÂNCIA MÉDICA",
+    "Adita (Artigo 16.º, n.º 4)"
+   ],
+   "fragments": [
+    "5ef7d11c335e32e6",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "72b752f8aa1f7081",
+    "d21f534765751929",
+    "d0a6bdf925eeea0e",
+    "f0f8c960bfdbce9b",
+    "ad9e85e1f37caa00",
+    "08c7fb6e93fc02d0",
+    "fd782971decf33ff",
+    "165993dc0ebd6af6",
+    "b4297940c4b03fd0",
+    "3837bd09de2cb9b4",
+    "a353779945e9be9d",
+    "335be193f0b04b11",
+    "1ed22c9a47d19630",
+    "b08281f3398b951f",
+    "0c41e7518049faa1",
+    "301722b892fe10e2",
+    "1e7a0903d2eed348",
+    "4f0027fbf9863594",
+    "217cc7c9ed1140f2",
+    "82e40f4928edfd5c",
+    "a23d371df9a4056f",
+    "dcf349eec7ba24c0",
+    "cdb9f25eff578185",
+    "093eb0d6710c03fa",
+    "6c34b4e8c0fe825d",
+    "391dff9111b46827",
+    "3776c953af78770d",
+    "b250f4e35102e089",
+    "878c0ee8f1911709",
+    "f724e57b06b83a34",
+    "05c0c15c739403db",
+    "d664376e2a8dcecd",
+    "6dae59f11769cf77",
+    "c5df1f72ca6a66ba",
+    "852174729551523b",
+    "345d2cd8823da4d6",
+    "c9e89515447200a1",
+    "720af75c92791b10",
+    "0c5335436a66022b",
+    "696e0aaa2e84d3ec",
+    "cd9f9a68fe149744",
+    "65cdf3c6401dd218",
+    "d3753f9bd545a0ad",
+    "e58d5c8945d2d898",
+    "e03a0eb4d5b2eef3",
+    "6cd9753221daf8f2",
+    "3eb5ba71298d5e18",
+    "3d9313ae976966ab",
+    "c476005056aa0321",
+    "e342f7becaa85ede",
+    "bc4be39e8cb254d6",
+    "e77637e670c4c7d8",
+    "0502f0d4878ff3ea"
+   ]
+  },
+  {
+   "date": "2024-04-08",
+   "future": false,
+   "celex": "02004L0037-20240408",
+   "acts": [
+    {
+     "id": "eu:celex:32024L0869:por",
+     "title": "DIRETIVA (UE) 2024/869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024",
+     "published": null,
+     "celex": "32024L0869"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objecto",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 17.º-A — Exercício da delegação",
+    "Altera Artigo 18.º-A — Avaliação",
+    "Altera A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL",
+    "Altera (Artigo 16.º, n.º 4)",
+    "Altera Notas",
+    "Adita Lista de substâncias, misturas e processos [artigo 2.º, alínea a), subalínea ii), e alínea b), subalínea ii)]",
+    "Suprime Lista de substâncias, [►M1](http://publications.europa.eu/resource/celex/32014L0027) misturas◄ e processos",
+    "Suprime [alínea a) iii) do artigo 2.º]"
+   ],
+   "fragments": [
+    "bc0426d30829b306",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "74386e64f39a5d68",
+    "307a9bc660bd8acf",
+    "d0a6bdf925eeea0e",
+    "f0f8c960bfdbce9b",
+    "ad9e85e1f37caa00",
+    "08c7fb6e93fc02d0",
+    "fd782971decf33ff",
+    "165993dc0ebd6af6",
+    "b4297940c4b03fd0",
+    "3837bd09de2cb9b4",
+    "a353779945e9be9d",
+    "335be193f0b04b11",
+    "1ed22c9a47d19630",
+    "b08281f3398b951f",
+    "0c41e7518049faa1",
+    "301722b892fe10e2",
+    "1e7a0903d2eed348",
+    "4f0027fbf9863594",
+    "217cc7c9ed1140f2",
+    "82e40f4928edfd5c",
+    "a23d371df9a4056f",
+    "dcf349eec7ba24c0",
+    "cdb9f25eff578185",
+    "be376ef1d869e88c",
+    "6c34b4e8c0fe825d",
+    "391dff9111b46827",
+    "73a5b59fa1896a1f",
+    "b250f4e35102e089",
+    "878c0ee8f1911709",
+    "f724e57b06b83a34",
+    "05c0c15c739403db",
+    "d664376e2a8dcecd",
+    "4c69b606b7938ad0",
+    "852174729551523b",
+    "345d2cd8823da4d6",
+    "c9e89515447200a1",
+    "720af75c92791b10",
+    "0c5335436a66022b",
+    "6ec2471cf6fa211b",
+    "cd9f9a68fe149744",
+    "65cdf3c6401dd218",
+    "d3753f9bd545a0ad",
+    "2ad5361c298ab0c5",
+    "e03a0eb4d5b2eef3",
+    "6cd9753221daf8f2",
+    "3eb5ba71298d5e18",
+    "3d9313ae976966ab",
+    "c476005056aa0321",
+    "e342f7becaa85ede",
+    "bc4be39e8cb254d6",
+    "e77637e670c4c7d8",
+    "fb74a879596c579b"
+   ]
+  }
+ ],
+ "fragments": {
+  "e71acd7934bb0d71": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nrelativa à protecção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho (sexta directiva especial nos termos do n.º 1 do artigo 16.º da Directiva 89/391/CEE do Conselho)\n\n(versão codificada)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 137.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0001)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0002)),\n\n(1) A Directiva 90/394/CEE do Conselho, de 28 de Junho de 1990, relativa à protecção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos durante o trabalho (sexta directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE) ([^3^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0003)), foi por diversas vezes alterada de modo substancial ([^4^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0004)). Por razões de clareza e racionalização, deve proceder–se à codificação da referida directiva.\n\n(2) A observância das prescrições mínimas para garantir um melhor nível de segurança e de saúde em matéria de protecção dos trabalhadores contra os riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho constitui um imperativo para garantir a segurança e a saúde dos trabalhadores e proporciona igualmente um nível mínimo de protecção de todos os trabalhadores da Comunidade.\n\n(3) A presente directiva é uma directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho ([^5^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0005)). Por esse motivo, as disposições dessa directiva aplicam-se plenamente ao domínio da exposição dos trabalhadores a agentes cancerígenos, sem prejuízo de disposições mais restritivas e/ou específicas da presente directiva.\n\n(4) É necessário estabelecer, para toda a Comunidade, um nível uniforme de protecção contra os riscos ligados a agentes cancerígenos ou mutagénicos e esse nível de protecção deve ser definido, não sob a forma de prescrições pormenorizadas, mas através de um conjunto de princípios gerais que permitam uma aplicação uniforme das prescrições mínimas pelos Estados-Membros.\n\n(5) Os agentes mutagénicos de células germinativas são substâncias que podem provocar uma mutação permanente na quantidade ou na estrutura do material genético de uma célula, que pode resultar numa alteração das características fenotípicas dessa célula e que pode ser transferida às células descendentes.\n\n(6) Devido ao seu mecanismo de acção, é possível que os agentes mutagénicos das células germinativas tenham efeitos cancerígenos.\n\n(7) A Directiva 67/548/CEE do Conselho, de 27 de Junho de 1967, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem das substâncias perigosas ([^6^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0006)), contém, no seu anexo VI, critérios de classificação bem como as regras de rotulagem de cada substância.\n\n(8) A Directiva 1999/45/CE do Parlamento Europeu e do Conselho, de 31 de Maio de 1999, relativa à aproximação das disposições legislativas, regulamentares e administrativas, dos Estados-Membros respeitantes à classificação, embalagem e rotulagem das preparações perigosas ([^7^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0007)) contém precisões de classificação e as regras de rotulagem aplicáveis a esses preparados.\n\n(9) Em todas as situações de trabalho, os trabalhadores devem ser protegidos em relação a preparados com um ou mais agentes cancerígenos ou mutagénicos e a compostos cancerígenos ou mutagénicos que possam surgir no local de trabalho.\n\n(10) Em relação a determinados agentes, é necessário considerar todas as vias de absorção, incluindo uma eventual penetração cutânea, a fim de garantir o melhor nível de protecção possível.\n\n(11) Embora os conhecimentos científicos actuais não permitam estabelecer limites abaixo dos quais os riscos para a saúde deixem de existir, a redução da exposição a agentes cancerígenos ou mutagénicos diminuirá, no entanto, esses riscos.\n\n(12) A fim de contribuir para uma redução destes riscos, devem ser estabelecidos valores-limite e outras disposições directamente relacionadas para todos os agentes cancerígenos ou mutagénicos em relação aos quais a informação disponível, incluindo dados científicos e técnicos, o torne possível.\n\n(13) Os valores-limite de exposição profissional devem ser considerados como uma componente importante do dispositivo de protecção dos trabalhadores. Esses valores-limite devem ser revistos sempre que necessário, em função dos dados científicos mais recentes.\n\n(14) Deverá ser aplicado o princípio da precaução na protecção da saúde dos trabalhadores.\n\n(15) Devem ser tomadas medidas preventivas para a protecção da segurança e da saúde dos trabalhadores expostos a agentes cancerígenos ou mutagénicos.\n\n(16) A presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno.\n\n(17) Por força da Decisão 74/325/CEE do Conselho ([^8^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0008)), a Comissão consultou o Comité Consultivo para a Segurança e a Saúde no Local de Trabalho, a fim de elaborar as propostas de directivas incluídas na presente directiva.\n\n(18) A presente directiva não deve prejudicar as obrigações dos Estados-Membros em relação aos prazos de transposição para o direito interno das directivas constantes da parte B do anexo IV,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "8141932cafe48c9e": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. A presente directiva, tem por objecto a protecção dos trabalhadores contra os riscos para as suas segurança e saúde, incluindo a respectiva prevenção, a que estejam ou sejam susceptíveis de estar expostos, em virtude de exposição a agentes cancerígenos ou mutagénicos durante o trabalho.\n\nA presente directiva fixa as prescrições mínimas especiais neste domínio, incluindo valores-limite.\n\n2. A presente directiva não se aplica aos trabalhadores expostos apenas às radiações a que alude o Tratado que institui a Comunidade Europeia da Energia Atómica.\n\n3. A Directiva 89/391/CEE aplica-se plenamente ao conjunto do domínio referido no n.º 1, sem prejuízo de disposições mais restritivas e/ou específicas da presente directiva.\n\n4. Em relação ao amianto, que é objeto da Diretiva 2009/148/CE do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0009)), é aplicável o disposto na presente diretiva sempre que seja mais favorável à saúde e à segurança no local de trabalho."
+  },
+  "fea6d56e52e80762": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por\n\na) «Agente cancerígeno»:\n\ni) qualquer substância ou mistura que preencha os requisitos para ser classificada como agente cancerígeno das categorias 1A ou 1B, previstos no Anexo I do Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho ([^10^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0010)),\n\nii) qualquer substância, mistura ou processo referidos no Anexo I da presente diretiva, assim como qualquer substância ou mistura resultante de um processo referido nesse anexo;\n\nb) «Agente mutagénico»:\n\nc) «Valor-limite», salvo indicação em contrário, o limite da média ponderada em função do tempo de concentração de um agente cancerígeno ou mutagénico no ar respirado por um trabalhador durante um período de referência específico estabelecido no anexo III da presente directiva."
+  },
+  "02587b475f6bec31": {
+   "fragment_id": "Artigo 3.º — Âmbito de aplicação — Identificação e avaliação dos riscos",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Âmbito de aplicação — Identificação e avaliação dos riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação — Identificação e avaliação dos riscos\n\n1. A presente directiva é aplicável às actividades em que os trabalhadores estejam expostos ou sejam susceptíveis de estar expostos a agentes cancerígenos ou mutagénicos em resultado do seu trabalho.\n\n2. Em relação a qualquer actividade susceptível de envolver um risco de exposição a agentes cancerígenos ou mutagénicos, devem ser determinados a natureza, o grau e o tempo de exposição dos trabalhadores, a fim de poderem ser avaliados os riscos para a sua segurança e saúde e determinadas as medidas a tomar.\n\nEsta avaliação deve ser renovada regularmente e, de qualquer forma, sempre que se verifique qualquer alteração das condições susceptível de afectar a exposição dos trabalhadores a agentes cancerígenos ou mutagénicos.\n\nA entidade patronal deve fornecer às autoridades responsáveis, a pedido destas, os elementos que serviram para essa avaliação.\n\n3. Devem ter-se igualmente em conta na avaliação do risco quaisquer outras vias de exposição, como a absorção pela pele e/ou através da pele.\n\n4. Na avaliação do risco, as entidades patronais devem prestar especial atenção aos eventuais efeitos sobre a segurança ou a saúde dos trabalhadores expostos a riscos particularmente sensíveis, tomando nomeadamente em consideração a oportunidade de não ocuparem esses trabalhadores em zonas em que possam estar em contacto com agentes cancerígenos ou mutagénicos."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "ad9e85e1f37caa00": {
+   "fragment_id": "OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+   "type": "divisao",
+   "heading": "OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBRIGAÇÕES DAS ENTIDADES PATRONAIS"
+  },
+  "3a726385e3900bf3": {
+   "fragment_id": "Artigo 4.º — Redução e substituição",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Redução e substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Redução e substituição\n\n1. A entidade patronal deve reduzir a utilização de agentes cancerígenos ou mutagénicos no local de trabalho, nomeadamente substituindo-os, tanto quanto tecnicamente for possível, por substâncias, [**►M1**](http://publications.europa.eu/resource/celex/32014L0027) misturas**◄** ou processos que, nas suas condições de utilização, não sejam ou sejam menos perigosos para a saúde ou, se for caso disso, para a segurança dos trabalhadores.\n\n2. A entidade patronal deve comunicar o resultado das suas investigações à autoridade responsável, a pedido desta."
+  },
+  "1f36075dd7136c8e": {
+   "fragment_id": "Artigo 5.º — Disposições para evitar ou reduzir a exposição",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Disposições para evitar ou reduzir a exposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposições para evitar ou reduzir a exposição\n\n1. Se os resultados da avaliação referida no n.º 2 do artigo 3.º revelarem um risco para a segurança ou a saúde dos trabalhadores, deve evitar-se a exposição desses trabalhadores.\n\n2. Se não for tecnicamente possível substituir o agente cancerígeno ou mutagénico por uma substância, uma [**►M1**](http://publications.europa.eu/resource/celex/32014L0027) mistura**◄** ou um processo que, nas condições de utilização, não seja ou seja menos perigoso para a segurança ou a saúde, a entidade patronal deve garantir que a produção e a utilização do agente cancerígeno ou mutagénico se efectuem em sistema fechado, na medida em que isso seja tecnicamente possível.\n\n3. Se não for tecnicamente possível utilizar um sistema fechado, a entidade patronal deve garantir que o nível de exposição dos trabalhadores seja reduzido a um valor tão baixo quanto tecnicamente possível.\n\n4. A exposição não pode exceder o valor-limite do agente cancerígeno estabelecido no anexo III.\n\n5. Sempre que seja utilizado um agente cancerígeno ou mutagénico, a entidade patronal deve aplicar todas as seguintes medidas:\n\na) Limitação das quantidades de agentes cancerígenos ou mutagénicos no local de trabalho;\n\nb) Limitação ao mínimo do número de trabalhadores expostos ou susceptíveis de o ser;\n\nc) Concepção de processos de trabalho e de medidas técnicas com o objectivo de evitar ou minimizar a libertação de agentes cancerígenos ou mutagénicos no local de trabalho;\n\nd) Evacuação dos agentes cancerígenos ou mutagénicos na fonte, aspiração local ou ventilação geral adequadas, compatíveis com a necessidade de protecção da saúde pública e do ambiente;\n\ne) Utilização de métodos adequados de medição de agentes cancerígenos ou mutagénicos, nomeadamente de detecção precoce de exposições anormais devidas a um incidente imprevisível ou a um acidente;\n\nf) Aplicação de processos e métodos de trabalhos adequados;\n\ng) Medidas de protecção colectivas e/ou, quando a exposição não possa ser evitada por outros meios, medidas de protecção individual;\n\nh) Medidas de higiene, nomeadamente a limpeza regular dos pavimentos, paredes e outras superfícies;\n\ni) Informação dos trabalhadores;\n\nj) Delimitação das zonas de risco e utilização de sinalização adequada de adequada sinalização de aviso e de segurança, incluindo sinais de proibição de fumar em áreas onde os trabalhadores estejam ou sejam susceptíveis de estar expostos a agentes cancerígenos ou mutagénicos;\n\nk) Instalação de dispositivos para casos de emergência susceptíveis de provocar exposições anormalmente elevadas;\n\nl) Meios que permitam a armazenagem, o manuseamento e o transporte sem riscos, incluindo a utilização de recipientes herméticos, rotulados de forma clara, distinta e visível;\n\nm) Meios seguros de recolha, armazenagem e evacuação dos resíduos pelos trabalhadores, incluindo a utilização de recipientes herméticos, rotulados de forma clara, distinta e visível."
+  },
+  "7d21014fb3cf84c3": {
+   "fragment_id": "Artigo 6.º — Informação das autoridades responsáveis",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Informação das autoridades responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Informação das autoridades responsáveis\n\nSe os resultados da avaliação referida no n.º 2 do artigo 3.º revelarem um risco para a segurança ou a saúde dos trabalhadores, as entidades patronais devem colocar à disposição das autoridades responsáveis, a seu pedido, informações adequadas sobre:\n\na) As actividades e/ou processos industriais realizados, incluindo os motivos de utilização de agentes cancerígenos ou mutagénicos;\n\nb) As quantidades fabricadas ou utilizadas de substâncias ou [**►M1**](http://publications.europa.eu/resource/celex/32014L0027) misturas**◄** que contenham agentes cancerígenos ou mutagénicos;\n\nc) O número de trabalhadores expostos;\n\nd) As medidas preventivas tomadas;\n\ne) O tipo de equipamento de protecção a utilizar;\n\nf) A natureza e o grau da exposição;\n\ng) Os casos de substituição."
+  },
+  "333e41bb4b048528": {
+   "fragment_id": "Artigo 7.º — Exposição imprevisível",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Exposição imprevisível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Exposição imprevisível\n\n1. Em caso de acontecimentos imprevisíveis ou de acidentes susceptíveis de provocar uma exposição anormal dos trabalhadores, a entidade patronal deve informar os trabalhadores desses factos.\n\n2. Até à normalização da situação e enquanto não se eliminarem as causas da exposição anormal:\n\na) Apenas são autorizados a trabalhar na zona afectada os trabalhadores indispensáveis à execução das reparações e outros trabalhos necessários;\n\nb) É posto à disposição dos trabalhadores em causa, e deve ser por eles utilizado, vestuário de protecção e um equipamento individual de protecção respiratória; a exposição não pode ser de carácter permanente e deve limitar-se ao estritamente necessário para cada trabalhador;\n\nc) Os trabalhadores não protegidos não são autorizados a trabalhar na área afectada."
+  },
+  "3837bd09de2cb9b4": {
+   "fragment_id": "Artigo 8.º — Exposição previsível",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Exposição previsível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Exposição previsível\n\n1. Em relação a certas actividades, como a manutenção, para as quais seja de prever a possibilidade de um aumento significativo da exposição e em relação às quais se encontrem já esgotadas todas as possibilidades de tomar medidas técnicas preventivas suplementares para limitar essa exposição, a entidade patronal deve determinar, após consulta dos trabalhadores e/ou dos seus representantes na empresa ou no estabelecimento e sem prejuízo da responsabilidade da entidade patronal, as medidas necessárias para reduzir o mais possível a duração da exposição dos trabalhadores e para assegurar a sua protecção durante a realização dessas actividades.\n\nEm cumprimento do primeiro parágrafo, deve ser posto à disposição dos trabalhadores em causa vestuário de protecção e um equipamento individual de protecção respiratória, que devem ser utilizados enquanto subsistir a exposição anormal; a exposição não pode ser de carácter permanente e deve limitar-se ao estritamente necessário para cada trabalhador.\n\n2. Devem ser tomadas medidas adequadas para que as zonas onde decorrem as actividades referidas no primeiro parágrafo do n.º 1 se encontrem claramente delimitadas e assinaladas ou para que, por outros meios, se impeça o acesso de pessoas não autorizadas a esses locais."
+  },
+  "a353779945e9be9d": {
+   "fragment_id": "Artigo 9.º — Acesso às zonas de risco",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Acesso às zonas de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acesso às zonas de risco\n\nAs entidades patronais devem tomar as medidas adequadas para garantir que as zonas onde decorrem actividades em relação às quais os resultados da avaliação referida no n.º 2 do artigo 3.º revelem um risco para a segurança ou a saúde dos trabalhadores apenas sejam acessíveis aos trabalhadores que nelas tenham de penetrar, por força do seu trabalho ou das suas funções."
+  },
+  "868ceca4e7aff143": {
+   "fragment_id": "Artigo 10.º — Medidas de higiene e de protecção individual",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Medidas de higiene e de protecção individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas de higiene e de protecção individual\n\n1. As entidades patronais devem, em relação a todas as actividades quanto às quais existam riscos de contaminação por agentes cancerígenos ou mutagénicos, tomar medidas apropriadas com os seguintes objectivos:\n\na) Impedir que os trabalhadores comam, bebam e fumem nas zonas de trabalho onde se verifique risco de contaminação por agentes cancerígenos ou mutagénicos;\n\nb) Fornecer aos trabalhadores vestuário de protecção adequado ou qualquer outro vestuário especial adequado;\n\nc) Prever locais distintos para arrumação do vestuário de trabalho ou de protecção, por um lado, e do vestuário normal, por outro;\n\nd) Pôr à disposição dos trabalhadores instalações sanitárias e de higiene apropriadas;\n\ne) Colocar correctamente os equipamentos de protecção num local determinado. Verificar e limpar esses equipamentos, se possível antes e, obrigatoriamente, após cada utilização;\n\nf) Reparar ou substituir os equipamentos defeituosos antes de nova utilização.\n\n2. O custo das medidas referidas no n.º 1 não pode ser suportado pelos trabalhadores."
+  },
+  "6bf7f6c17c182447": {
+   "fragment_id": "Artigo 11.º — Informação e formação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Informação e formação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Informação e formação dos trabalhadores\n\n1. A entidade patronal deve tomar as medidas adequadas para que os trabalhadores e/ou os seus representantes na empresa ou no estabelecimento recebam uma formação simultaneamente suficiente e adequada, com base em todos os dados disponíveis, nomeadamente sob a forma de informações e instruções, sobre:\n\na) Os riscos potenciais para a saúde, incluindo os riscos adicionais resultantes do consumo de tabaco;\n\nb) As precauções a tomar para evitar a exposição;\n\nc) As normas de higiene;\n\nd) O emprego e a utilização dos equipamentos e do vestuário de protecção;\n\ne) As medidas a tomar pelos trabalhadores, nomeadamente pelo pessoal de intervenção, em caso de incidente e para a prevenção de incidentes.\n\nEsta formação deve ser:\n\n— adaptada à evolução dos riscos e ao aparecimento de novos riscos,\n\n— periodicamente repetida, se necessário.\n\n2. A entidade patronal deve fornecer aos trabalhadores informações sobre as instalações e os recipientes a elas anexos que contenham agentes cancerígenos ou mutagénicos, assegurar que todos os recipientes, embalagens e instalações contendo agentes cancerígenos ou mutagénicos sejam rotulados de forma clara e legível e afixar sinais de perigo bem visíveis."
+  },
+  "b08281f3398b951f": {
+   "fragment_id": "Artigo 12.º — Informação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Informação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Informação dos trabalhadores\n\nDevem ser tomadas medidas adequadas para assegurar que:\n\na) Os trabalhadores e/ou os seus representantes na empresa ou no estabelecimento possam verificar a aplicação das disposições da presente directiva ou participem no seu processo de aplicação, nomeadamente no que diz respeito:\n\ni) às consequências sobre a segurança e a saúde dos trabalhadores, decorrentes da escolha, emprego e utilização de vestuário e equipamentos de protecção, sem prejuízo das responsabilidades da entidade patronal na determinação da eficácia desse vestuário e equipamentos,\n\nii) às medidas determinadas pela entidade patronal referidas no primeiro parágrafo do n.º 1 do artigo 8.º, sem prejuízo das responsabilidades da entidade patronal na respectiva determinação;\n\nb) Os trabalhadores e/ou os seus representantes na empresa ou no estabelecimento sejam informados tão rapidamente quanto possível de exposições anormais, incluindo as referidas no artigo 8.º, das suas causas e das medidas tomadas ou a tomar a fim de sanar a situação;\n\nc) A entidade patronal mantenha uma lista actualizada dos trabalhadores afectos a actividades em relação às quais os resultados da avaliação referida no n.º 2 do artigo 3.º revele m um risco para a segurança ou a saúde dos trabalhadores, com a indicação, se se dispuser dessa informação, do nível de exposição a que estiveram sujeitos;\n\nd) O médico e/ou a autoridade responsável, assim como qualquer outra pessoa responsável pela segurança ou pela saúde no local de trabalho, tenham acesso à lista referida na alínea c);\n\ne) Cada trabalhador tenha acesso às informações contidas na lista que lhe digam pessoalmente respeito;\n\nf) Os trabalhadores e/ou os seus representantes na empresa ou no estabelecimento tenham acesso às informações colectivas anónimas."
+  },
+  "0c41e7518049faa1": {
+   "fragment_id": "Artigo 13.º — Consulta e participação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Consulta e participação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Consulta e participação dos trabalhadores\n\nA consulta e participação dos trabalhadores e/ou dos seus representantes efectua-se nos termos do artigo 11.º da Directiva 89/391/CEE, sobre as matérias abrangidas pela presente directiva."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "4f0027fbf9863594": {
+   "fragment_id": "DISPOSIÇÕES DIVERSAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES DIVERSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES DIVERSAS"
+  },
+  "173f63ba75654fb6": {
+   "fragment_id": "Artigo 14.º — Vigilância médica",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Vigilância médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Vigilância médica\n\n1. Os Estados-Membros, de acordo com a legislação e a prática nacionais, devem estabelecer medidas para assegurar uma vigilância sanitária adequada dos trabalhadores relativamente aos quais os resultados da avaliação referida no n.º 2 do artigo 3.º revelem um risco para a sua segurança ou saúde.\n\n2. As medidas referidas no n.º 1 devem ser de natureza a permitir que todos os trabalhadores possam ser submetidos, quando se justifique, a uma vigilância médica adequada:\n\n— antes da exposição,\n\n— posteriormente, a intervalos regulares.\n\nEssas medidas devem permitir a aplicação directa de medidas médicas individuais e de medicina do trabalho.\n\n3. Se um trabalhador for atingido por uma anomalia que possa ter sido provocada pela exposição a agentes cancerígenos ou mutagénicos, o médico ou a autoridade responsável pela vigilância médica dos trabalhadores pode exigir que outros trabalhadores que tenham estado sujeitos a uma exposição análoga sejam submetidos a vigilância médica.\n\nNesse caso, procede-se a uma nova avaliação do risco de exposição, nos termos do n.º 2 do artigo 3.º\n\n4. Sempre que seja garantida vigilância médica, será aberto um boletim individual de saúde e o médico ou a autoridade responsável pela vigilância proporá todas as medidas individuais de protecção ou de prevenção a tomar em relação a todos os trabalhadores.\n\n5. Devem ser fornecidos aos trabalhadores informações e conselhos relativos à vigilância médica a que possam ser submetidos após a cessação da exposição.\n\n6. Nos termos das legislações e/ou práticas nacionais:\n\n— os trabalhadores têm acesso aos resultados da vigilância médica que lhes diga respeito, e\n\n— os trabalhadores em causa ou a entidade patronal podem pedir a revisão dos resultados da vigilância médica.\n\n7. Constam do anexo II recomendações práticas relativas à vigilância médica dos trabalhadores.\n\n8. Nos termos das legislações e/ou práticas nacionais, a autoridade responsável deve ser notificada de todos os casos de cancro identificados como resultantes da exposição a um agente cancerígeno ou mutagénico durante o trabalho."
+  },
+  "bf30db9bfba3edd3": {
+   "fragment_id": "Artigo 15.º — Registos",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Registos\n\n1. A lista referida na alínea c) do artigo 12.º e o boletim médico referido no n.º 4 do artigo 14.º devem ser conservados durante pelo menos 40 anos após a cessação da exposição, nos termos da legislação e/ou prática nacionais.\n\n2. Esses documentos devem ser postos à disposição das autoridades responsáveis em caso de cessação de actividades da empresa, nos termos da legislação e/ou prática nacionais."
+  },
+  "491bb009ff1fc33d": {
+   "fragment_id": "Artigo 16.º — Valores-limite",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Valores-limite",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Valores-limite\n\n1. Com base na informação disponível, incluindo dados científicos e técnicos, o Conselho, estabelece valores-limite por meio de directivas, nos termos do n.º 2 do artigo 137.º do Tratado, relativamente a todos os agentes cancerígenos ou mutagénicos para os quais isso seja possível e, quando necessário, outras disposições directamente relacionadas.\n\n2. Os valores-limite e as outras disposições directamente relacionadas constam do anexo III."
+  },
+  "eaeab3ed2658c131": {
+   "fragment_id": "Artigo 17.º — Anexos",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Anexos\n\n1. Os anexos I e III só podem ser alterados nos termos do n.º 2 do artigo 137.º do Tratado.\n\n2. As adaptações de carácter exclusivamente técnico a introduzir no anexo II em função do progresso técnico, da evolução da regulamentação ou das especificações internacionais e dos conhecimentos no domínio dos agentes cancerígenos ou mutagénicos são adoptadas nos termos do artigo 17.º da Directiva 89/391/CEE."
+  },
+  "391dff9111b46827": {
+   "fragment_id": "Artigo 18.º — Exploração de dados",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Exploração de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Exploração de dados\n\nAs explorações efectuadas pelas autoridades nacionais responsáveis, com base nas informações referidas no n.º 8 do artigo 14.º, são mantidas à disposição da Comissão."
+  },
+  "b250f4e35102e089": {
+   "fragment_id": "Artigo 19.º — Informação da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Informação da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Informação da Comissão\n\nOs Estados-Membros devem comunicar à Comissão o texto das disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "878c0ee8f1911709": {
+   "fragment_id": "Artigo 20.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Revogação\n\nÉ revogada a Directiva 90/394/CEE, tal como alterada pelas directivas referidas na parte A do anexo IV da presente directiva, sem prejuízo das obrigações dos Estados-Membros relativamente aos prazos de transposição para o direito interno das directivas constantes da parte B do anexo IV.\n\nAs remissões para a directiva revogada devem entender-se como sendo feitas à presente directiva e devem ler-se nos termos do quadro de correspondência do anexo V."
+  },
+  "f724e57b06b83a34": {
+   "fragment_id": "Artigo 21.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "05c0c15c739403db": {
+   "fragment_id": "Artigo 22.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "6dae59f11769cf77": {
+   "fragment_id": "Lista de substâncias, [►M1](http://publications.europa.eu/resource/celex/32014L0027) misturas◄ e processos",
+   "type": "divisao",
+   "heading": "Lista de substâncias, [►M1](http://publications.europa.eu/resource/celex/32014L0027) misturas◄ e processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Lista de substâncias, [►M1](http://publications.europa.eu/resource/celex/32014L0027) misturas◄ e processos"
+  },
+  "5170223c908170c3": {
+   "fragment_id": "[alínea a) iii) do artigo 2.º]",
+   "type": "divisao",
+   "heading": "[alínea a) iii) do artigo 2.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [alínea a) iii) do artigo 2.º]\n\n1. Fabrico de auramina.\n\n2. Trabalhos que impliquem a exposição a hidrocarbonetos policíclicos aromáticos presentes na fuligem da hulha, no alcatrão da hulha ou pez de hulha.\n\n3. Trabalhos susceptíveis de provocar a exposição às poeiras, fumos ou névoas produzidos durante a calcinação e a electro-refinação de mates de níquel.\n\n4. Processo do ácido forte durante o fabrico do álcool isopropílico.\n\n5. Trabalhos susceptíveis de provocar a exposição a pó de madeira de folhosas ([^11^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0011))."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "345d2cd8823da4d6": {
+   "fragment_id": "Recomendações práticas para a vigilância médica dos trabalhadores",
+   "type": "divisao",
+   "heading": "Recomendações práticas para a vigilância médica dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Recomendações práticas para a vigilância médica dos trabalhadores"
+  },
+  "73fae5191ff405e4": {
+   "fragment_id": "(n.º 7 do artigo 14.º)",
+   "type": "divisao",
+   "heading": "(n.º 7 do artigo 14.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (n.º 7 do artigo 14.º)\n\n1. O médico e/ou a entidade responsável pela vigilância médica dos trabalhadores expostos a agentes cancerígenos ou mutagénicos devem conhecer bem as condições ou circunstâncias de exposição de cada trabalhador.\n\n2. A vigilância médica dos trabalhadores deve ser assegurada de acordo com os princípios e práticas da medicina do trabalho; e deve incluir pelo menos as seguintes medidas:\n\n— registo da história clínica e profissional de cada trabalhador,\n\n— entrevista pessoal,\n\n— eventualmente, vigilância biológica, bem como rastreio de efeitos precoces e reversíveis."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "a9bc7cd87ea1c800": {
+   "fragment_id": "Valores-limite e outras disposições directamente relacionadas",
+   "type": "divisao",
+   "heading": "Valores-limite e outras disposições directamente relacionadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Valores-limite e outras disposições directamente relacionadas"
+  },
+  "45235aa6efed3d23": {
+   "fragment_id": "(Artigo 16.º)",
+   "type": "divisao",
+   "heading": "(Artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (Artigo 16.º)"
+  },
+  "a84b7f715a23f00d": {
+   "fragment_id": "A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL",
+   "type": "divisao",
+   "heading": "A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL\n\n| Nome do agente | N.º do Einecs [(^1^)](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0012) | N.º do CAS [(^2^)](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0013) | Valores-limite | Notas | Medidas transitórias |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| Mg/m^3^ | ppm [(^3^)](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0014) |  |  |  |  |  |\n| Benzeno | 200-753-7 | 71-43-2 | 3,25 [(^4^)](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0015) | 1 [(^5^)](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0016) | Pele [(^6^)](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0017) | Valor-limite: 3 ppm (= 9,75 mg/m^3^) até 27 de Junho de 2003 |\n| Cloreto de vinilo monómero | 200-831 | 75-01-4 | 7,77 [(^5^)](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0016) | 3 [(^5^)](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0016) | — | — |\n| Pó de madeira de folhosas | — | — | 5,00 [(^5^)](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0016) [(^7^)](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0018) | — | — | — |\n| (^1^)Einecs: Inventário Europeu das Substâncias Químicas Existentes. (^2^)CAS: Número do Chemical Abstract Service. (^3^)mg/m3 = miligramas por metro cúbico de ar a 20 C e a 101,3 KPa (760 mm de pressão de mercúrio). (^4^)ppm = partes por milhão em volume de ar (ml/m^3^). (^5^)Medidos ou calculados em relação a um período de referência de oito horas. (^6^)Contribuição importante para a carga corporal total possível por exposição cutânea. (^7^)Fracção inalável: se o pó de madeira de folhosas estiver misturado com outro pó de madeira, o valor-limite aplicar-se-á a todos os pós de madeira presentes nessa mistura. |  |  |  |  |  |  |"
+  },
+  "dcffb65710bad446": {
+   "fragment_id": "Β. OUTRAS DISPOSIÇÕES DIRECTAMENTE RELACIONADAS",
+   "type": "divisao",
+   "heading": "Β. OUTRAS DISPOSIÇÕES DIRECTAMENTE RELACIONADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Β. OUTRAS DISPOSIÇÕES DIRECTAMENTE RELACIONADAS\n\np. m."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "6cd9753221daf8f2": {
+   "fragment_id": "Parte A",
+   "type": "divisao",
+   "heading": "Parte A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A"
+  },
+  "3eb5ba71298d5e18": {
+   "fragment_id": "Directiva revogada e as suas alterações sucessivas",
+   "type": "divisao",
+   "heading": "Directiva revogada e as suas alterações sucessivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Directiva revogada e as suas alterações sucessivas"
+  },
+  "3d9313ae976966ab": {
+   "fragment_id": "(referidas no artigo 20.º)",
+   "type": "divisao",
+   "heading": "(referidas no artigo 20.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (referidas no artigo 20.º)\n\nDirectiva 90/394/CEE do Conselho (JO L 196 de 26.7.1990, p. 1)\n\nDirectiva 97/42/CE do Conselho (JO L 179 de 8.7.1997, p. 4)\n\nDirectiva 1999/38/CE do Conselho (JO L 138 de 1.6.1999, p. 66)"
+  },
+  "c476005056aa0321": {
+   "fragment_id": "Parte B",
+   "type": "divisao",
+   "heading": "Parte B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B"
+  },
+  "e342f7becaa85ede": {
+   "fragment_id": "Lista de prazos de transposição para o direito nacional",
+   "type": "divisao",
+   "heading": "Lista de prazos de transposição para o direito nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de prazos de transposição para o direito nacional"
+  },
+  "bc4be39e8cb254d6": {
+   "fragment_id": "(referidos no artigo 20.º",
+   "type": "divisao",
+   "heading": "(referidos no artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (referidos no artigo 20.º\n\nDirectiva Data limite de transposição\n\n90/394/CEE 31 de Dezembro de 1992\n\n97/42/CE 27 de Junho de 2000\n\n1999/38/CE 29 de Abril de 2003"
+  },
+  "e77637e670c4c7d8": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V\n\nDirectiva 90/394/CEE Presente directiva\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º, alínea a) Artigo 2.º, alínea a)\n\nArtigo 2.º, alínea a) a) Artigo 2.º, alínea b)\n\nArtigo 2.º, alínea b) Artigo 2.º, alínea c)\n\nArtigos 3.º a 9.º Artigos 3.º a 9.º\n\nArtigo 10.º, n.º 1, alínea a) Artigo 10.º, n.º 1, alínea a)\n\nArtigo 10.º, n.º 1, alínea b), primeira frase Artigo 10.º, n.º 1, alínea b)\n\nArtigo 10.º, n.º 1, alínea b), segunda frase Artigo 10.º, n.º1, alínea c)\n\nArtigo 10.º, n.º 1, alínea c) Artigo 10.º, n.º 1, alínea d)\n\nArtigo 10.º, n.º 1, alínea d), primeira e segunda frases Artigo 10.º, n.º 1, alínea e)\n\nArtigo 10.º, n.º 1, alínea d), terceira frase Artigo 10.º, n.º 1, alínea f)\n\nArtigo 10.º, n.º 2 Artigo 10.º, n.º 2\n\nArtigos 11.º a 18.º Artigos 11.º a 18.º\n\nArtigo 19.º, n.º 1, primeiro parágrafo ––––––––\n\nArtigo 19.º, n.º 1, segundo parágrafo ––––––––\n\nArtigo 19.º, n.º 1, terceiro parágrafo ––––––––\n\nArtigo 19.º, número 2 Artigo 19.º\n\n–––––––– Artigo 20.º\n\n–––––––– Artigo 21.º\n\nArtigo 20.º Artigo 22.º\n\nAnexo I Anexo I\n\nAnexo II Anexo II\n\nAnexo III Anexo III\n\n–––––––– Anexo IV\n\n–––––––– Anexo V\n\n---"
+  },
+  "591f756d1ddd7be4": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0001)) JO C 368 de 20.12.1999, p. 18.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 2 de Setembro de 2003 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 30 de Março de 2004.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0003)) JO L 196 de 26.7.1990, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 1999/38/CE (JO L 138 de 1.6.1999, p. 66).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0004)) Ver parte A do anexo IV.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0005)) JO L 183 de 29.6.1989, p. 1. Directiva alterada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0006)) JO 196 de 16.8.1967, p. 1. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 807/2003 (JO L 122 de 16.5.2003, p. 36).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0007)) JO L 200 de 30.7.1999, p. 1. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0008)) JO L 185 de 9.7.1974, p. 15. Decisão revogada pela decisão do Conselho de 22 de Julho de 2003 (JO C 218 de 13.9.2003, p. 1).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0009)) Diretiva 2009/148/CE do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho (JO L 330 de 16.12.2009, p. 28).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0010)) Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas, que altera e revoga as Diretivas 67/548/CEE e 1999/45/CE, e altera o Regulamento (CE) n.º 1907/2006 (JO L 353 de 31.12.2008, p. 1).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/95dcd930-dd44-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0011)) O volume 62 das monografias relativas à avaliação dos riscos de cancro nos seres humanos «Pós de madeira e formaldeído», publicado pelo Centro Internacional de Investigação do Cancro, Lyon, 1995, contém uma lista de algumas folhosas."
+  },
+  "eeebdc602a9028e3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nrelativa à protecção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho (sexta directiva especial nos termos do n.º 1 do artigo 16.º da Directiva 89/391/CEE do Conselho)\n\n(versão codificada)\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "64c1116ea8ea00ec": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. A presente directiva, tem por objecto a protecção dos trabalhadores contra os riscos para as suas segurança e saúde, incluindo a respectiva prevenção, a que estejam ou sejam susceptíveis de estar expostos, em virtude de exposição a agentes cancerígenos ou mutagénicos durante o trabalho.\n\nA presente directiva fixa as prescrições mínimas especiais neste domínio, incluindo valores-limite.\n\n2. A presente directiva não se aplica aos trabalhadores expostos apenas às radiações a que alude o Tratado que institui a Comunidade Europeia da Energia Atómica.\n\n3. A Directiva 89/391/CEE aplica-se plenamente ao conjunto do domínio referido no n.º 1, sem prejuízo de disposições mais restritivas e/ou específicas da presente directiva.\n\n4. Em relação ao amianto, que é objeto da Diretiva 2009/148/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/e700ca12-3420-4577-b7e0-a13200753017.0015.02/DOC_2#E0001)), é aplicável o disposto na presente diretiva sempre que seja mais favorável à saúde e à segurança no local de trabalho."
+  },
+  "a36ec95be68dbc65": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por\n\na) «Agente cancerígeno»:\n\ni) qualquer substância ou mistura que preencha os requisitos para ser classificada como agente cancerígeno das categorias 1A ou 1B, previstos no Anexo I do Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/e700ca12-3420-4577-b7e0-a13200753017.0015.02/DOC_2#E0002)),\n\nii) qualquer substância, mistura ou processo referidos no Anexo I da presente diretiva, assim como qualquer substância ou mistura resultante de um processo referido nesse anexo;\n\nb) «Agente mutagénico»:\n\nc) «Valor-limite», salvo indicação em contrário, o limite da média ponderada em função do tempo de concentração de um agente cancerígeno ou mutagénico no ar respirado por um trabalhador durante um período de referência específico estabelecido no anexo III da presente directiva."
+  },
+  "c22b67ab7e245064": {
+   "fragment_id": "Artigo 6.º — Informação das autoridades responsáveis",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Informação das autoridades responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Informação das autoridades responsáveis\n\nSe os resultados da avaliação referida no n.º 2 do artigo 3.º revelarem um risco para a segurança ou a saúde dos trabalhadores, as entidades patronais devem colocar à disposição das autoridades responsáveis, a seu pedido, informações adequadas sobre:\n\na) As actividades e/ou processos industriais realizados, incluindo os motivos de utilização de agentes cancerígenos ou mutagénicos;\n\nb) As quantidades fabricadas ou utilizadas de substâncias ou [**►M1**](http://publications.europa.eu/resource/celex/32014L0027) misturas**◄** que contenham agentes cancerígenos ou mutagénicos;\n\nc) O número de trabalhadores expostos;\n\nd) As medidas preventivas tomadas;\n\ne) O tipo de equipamento de protecção a utilizar;\n\nf) A natureza e o grau da exposição;\n\ng) Os casos de substituição.\n\nOs Estados-Membros tomam em conta as informações previstas no primeiro parágrafo, alíneas a) a g), do presente artigo nos seus relatórios apresentados à Comissão nos termos do artigo 17.º-A da Diretiva 89/391/CEE."
+  },
+  "a8fb78106928c959": {
+   "fragment_id": "Artigo 14.º — Vigilância médica",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Vigilância médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Vigilância médica\n\n1. Os Estados-Membros estabelecem, em conformidade com o direito ou as práticas nacionais, medidas para assegurar uma vigilância médica adequada dos trabalhadores relativamente aos quais os resultados da avaliação referida no artigo 3.º, n.º 2, revelem um risco para a sua saúde ou a sua segurança. O médico ou a autoridade responsável pela vigilância médica dos trabalhadores pode indicar que a vigilância médica deve prosseguir após o termo da exposição, durante o tempo que considerarem ser necessário para preservar a saúde do trabalhador em causa.\n\n2. As medidas referidas no n.º 1 devem ser de natureza a permitir que todos os trabalhadores possam ser submetidos, quando se justifique, a uma vigilância médica adequada:\n\n— antes da exposição,\n\n— posteriormente, a intervalos regulares.\n\nEssas medidas devem permitir a aplicação directa de medidas médicas individuais e de medicina do trabalho.\n\n3. Se um trabalhador for atingido por uma anomalia que possa ter sido provocada pela exposição a agentes cancerígenos ou mutagénicos, o médico ou a autoridade responsável pela vigilância médica dos trabalhadores pode exigir que outros trabalhadores que tenham estado sujeitos a uma exposição análoga sejam submetidos a vigilância médica.\n\nNesse caso, procede-se a uma nova avaliação do risco de exposição, nos termos do n.º 2 do artigo 3.º\n\n4. Sempre que seja garantida vigilância médica, será aberto um boletim individual de saúde e o médico ou a autoridade responsável pela vigilância proporá todas as medidas individuais de protecção ou de prevenção a tomar em relação a todos os trabalhadores.\n\n5. Devem ser fornecidos aos trabalhadores informações e conselhos relativos à vigilância médica a que possam ser submetidos após a cessação da exposição.\n\n6. Nos termos das legislações e/ou práticas nacionais:\n\n— os trabalhadores têm acesso aos resultados da vigilância médica que lhes diga respeito, e\n\n— os trabalhadores em causa ou a entidade patronal podem pedir a revisão dos resultados da vigilância médica.\n\n7. Constam do anexo II recomendações práticas relativas à vigilância médica dos trabalhadores.\n\n8. Todos os casos de cancro que, em conformidade com o direito ou as práticas nacionais, tenham sido identificados como sendo resultantes da exposição profissional a um agente cancerígeno ou mutagénico são notificados à autoridade competente.\n\nOs Estados-Membros tomam em conta as informações previstas no presente número nos seus relatórios apresentados à Comissão nos termos do artigo 17.º-A da Diretiva 89/391/CEE."
+  },
+  "89bfc4398ba80f42": {
+   "fragment_id": "Artigo 18.º-A — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 18.º-A — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-A — Avaliação\n\nA Comissão avalia também, como parte da próxima avaliação da execução da presente diretiva no contexto da avaliação referida no artigo 17.º-A da Diretiva 89/391/CEE, a necessidade de alterar o valor-limite [**►C2**](http://publications.europa.eu/resource/celex/32017L2398R%2802%29) para a poeira de sílica cristalina respirável.**◄** A Comissão propõe, se for caso disso, as alterações e modificações necessárias relativas a essa substância.\n\nO mais tardar no primeiro trimestre de 2019, a Comissão avalia, tendo em conta a evolução mais recente dos conhecimentos científicos, a opção de alterar o âmbito da presente diretiva de modo a incluir as substâncias tóxicas para a reprodução. Nessa base, a Comissão apresenta, se for caso disso, e após consulta aos parceiros sociais, uma proposta legislativa."
+  },
+  "59c035feba71b9b7": {
+   "fragment_id": "[alínea a) iii) do artigo 2.º]",
+   "type": "divisao",
+   "heading": "[alínea a) iii) do artigo 2.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [alínea a) iii) do artigo 2.º]\n\n1. Fabrico de auramina.\n\n2. Trabalhos que impliquem a exposição a hidrocarbonetos policíclicos aromáticos presentes na fuligem da hulha, no alcatrão da hulha ou pez de hulha.\n\n3. Trabalhos susceptíveis de provocar a exposição às poeiras, fumos ou névoas produzidos durante a calcinação e a electro-refinação de mates de níquel.\n\n4. Processo do ácido forte durante o fabrico do álcool isopropílico.\n\n5. Trabalhos susceptíveis de provocar a exposição a pó de madeira de folhosas ([^3^](http://publications.europa.eu/resource/cellar/e700ca12-3420-4577-b7e0-a13200753017.0015.02/DOC_2#E0003)).\n\n6. Trabalhos que impliquem a [**►C2**](http://publications.europa.eu/resource/celex/32017L2398R%2802%29) exposição a poeira de sílica cristalina respirável resultante**◄** de um processo de trabalho."
+  },
+  "4526f6dfaf0065dd": {
+   "fragment_id": "Valores-limite e outras disposições diretamente relacionadas (Artigo 16.º)",
+   "type": "divisao",
+   "heading": "Valores-limite e outras disposições diretamente relacionadas (Artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Valores-limite e outras disposições diretamente relacionadas (Artigo 16.º)"
+  },
+  "c23c7c27e86c81ba": {
+   "fragment_id": "A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL",
+   "type": "divisao",
+   "heading": "A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL\n\n| Nome do agente | N.º CE [(^1^)](http://publications.europa.eu/resource/cellar/e700ca12-3420-4577-b7e0-a13200753017.0015.02/DOC_2#E0004) | N.º CAS [(^2^)](http://publications.europa.eu/resource/cellar/e700ca12-3420-4577-b7e0-a13200753017.0015.02/DOC_2#E0005) | Valores-limite [(^3^)](http://publications.europa.eu/resource/cellar/e700ca12-3420-4577-b7e0-a13200753017.0015.02/DOC_2#E0006) | Notação | Medidas transitórias |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| mg/m^3^ [(^4^)](http://publications.europa.eu/resource/cellar/e700ca12-3420-4577-b7e0-a13200753017.0015.02/DOC_2#E0007) | ppm [(^5^)](http://publications.europa.eu/resource/cellar/e700ca12-3420-4577-b7e0-a13200753017.0015.02/DOC_2#E0008) | f/ml [(^6^)](http://publications.europa.eu/resource/cellar/e700ca12-3420-4577-b7e0-a13200753017.0015.02/DOC_2#E0009) |  |  |  |  |  |\n| [**►C2**](http://publications.europa.eu/resource/celex/32017L2398R%2802%29) Poeira de madeira de folhosas**◄** | — | — | 2 [(^7^)](http://publications.europa.eu/resource/cellar/e700ca12-3420-4577-b7e0-a13200753017.0015.02/DOC_2#E0010) | — | — | — | Valor-limite 3 mg/m^3^ até 17 de janeiro de 2023 |\n| Compostos de crómio (VI) que são agentes cancerígenos na aceção do artigo 2.º, alínea a), subalínea i) (como crómio) | — | — | 0,005 | — | — | — | Valor-limite 0,010 mg/m^3^ até 17 de janeiro de 2025 Valor-limite: 0,025 mg/m^3^ [**►C2**](http://publications.europa.eu/resource/celex/32017L2398R%2802%29) para processos de soldadura ou corte por plasma**◄** ou processos similares que produzam fumos até 17 de janeiro de 2025 |\n| Fibras de materiais cerâmicos refratários que são agentes cancerígenos na aceção do artigo 2.º, alínea a), subalínea i) | — | — | — | — | 0,3 | — |  |\n| [**►C2**](http://publications.europa.eu/resource/celex/32017L2398R%2802%29) Poeira de sílica cristalina respirável**◄** | — | — | 0,1 [(^8^)](http://publications.europa.eu/resource/cellar/e700ca12-3420-4577-b7e0-a13200753017.0015.02/DOC_2#E0011) | — | — | — |  |\n| Benzeno | 200-753-7 | 71-43-2 | 3,25 | 1 | — | pele [(^9^)](http://publications.europa.eu/resource/cellar/e700ca12-3420-4577-b7e0-a13200753017.0015.02/DOC_2#E0012) |  |\n| Cloreto de vinilo monómero | 200-831-0 | 75-01-4 | 2,6 | 1 | — | — |  |\n| Óxido de etileno | 200-849-9 | 75-21-8 | 1,8 | 1 | — | pele [(^9^)](http://publications.europa.eu/resource/cellar/e700ca12-3420-4577-b7e0-a13200753017.0015.02/DOC_2#E0012) |  |\n| 1,2-Epoxipropano | 200-879-2 | 75-56-9 | 2,4 | 1 | — | — |  |\n| Acrilamida | 201-173-7 | 79-06-1 | 0,1 | — | — | pele [(^9^)](http://publications.europa.eu/resource/cellar/e700ca12-3420-4577-b7e0-a13200753017.0015.02/DOC_2#E0012) |  |\n| 2-Nitropropano | 201-209-1 | 79-46-9 | 18 | 5 | — | — |  |\n| o-Toluidina | 202-429-0 | 95-53-4 | 0,5 | 0,1 | — | pele [(^9^)](http://publications.europa.eu/resource/cellar/e700ca12-3420-4577-b7e0-a13200753017.0015.02/DOC_2#E0012) |  |\n| 1,3-Butadieno | 203-450-8 | 106-99-0 | 2,2 | 1 | — | — |  |\n| Hidrazina | 206-114-9 | 302-01-2 | 0,013 | 0,01 | — | pele [(^9^)](http://publications.europa.eu/resource/cellar/e700ca12-3420-4577-b7e0-a13200753017.0015.02/DOC_2#E0012) |  |\n| Bromoetileno | 209-800-6 | 593-60-2 | 4,4 | 1 | — | — |  |\n| (^1^)N.º CE, ou seja, EINECS, ELINCS ou NLP (ex-polímero), número oficial da substância na União Europeia, tal como definido no anexo VI, parte 1, ponto 1.1.1.2, do Regulamento (CE) n.º 1272/2008. (^2^)N.º CAS: número de registo do Chemical Abstract Service. (^3^)Medidos ou calculados em relação a um período de referência de oito horas. (^4^)mg/m^3^ = miligramas por metro cúbico de ar a 20 °C e a 101,3 kPa [**►C2**](http://publications.europa.eu/resource/celex/32017L2398R%2802%29) (pressão de 760 mm de mercúrio)**◄**. (^5^) [**►C2**](http://publications.europa.eu/resource/celex/32017L2398R%2802%29) ppm = partes por milhão em volume no ar (ml/m^3^).**◄** (^6^)f/ml = fibras por mililitro. (^7^) [**►C2**](http://publications.europa.eu/resource/celex/32017L2398R%2802%29) Fração inalável: se a poeira de madeira de folhosas estiver misturada com outras poeiras de madeira, o valor-limite aplicar-se-á a todas as poeiras de madeira presentes nessa mistura.**◄** (^8^) [**►C2**](http://publications.europa.eu/resource/celex/32017L2398R%2802%29) Fração respirável.**◄** (^9^) [**►C2**](http://publications.europa.eu/resource/celex/32017L2398R%2802%29) Possibilidade de contribuição considerável para a carga corporal total devido à exposição cutânea.**◄** |  |  |  |  |  |  |  |"
+  },
+  "1a1151786444e35c": {
+   "fragment_id": "B. OUTRAS DISPOSIÇÕES DIRETAMENTE RELACIONADAS",
+   "type": "divisao",
+   "heading": "B. OUTRAS DISPOSIÇÕES DIRETAMENTE RELACIONADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. OUTRAS DISPOSIÇÕES DIRETAMENTE RELACIONADAS\n\np.m."
+  },
+  "1de0b0d281ef8c88": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e700ca12-3420-4577-b7e0-a13200753017.0015.02/DOC_2#src.E0001)) Diretiva 2009/148/CE do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho (JO L 330 de 16.12.2009, p. 28).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/e700ca12-3420-4577-b7e0-a13200753017.0015.02/DOC_2#src.E0002)) Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas, que altera e revoga as Diretivas 67/548/CEE e 1999/45/CE, e altera o Regulamento (CE) n.º 1907/2006 (JO L 353 de 31.12.2008, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/e700ca12-3420-4577-b7e0-a13200753017.0015.02/DOC_2#src.E0003)) O volume 62 das monografias relativas à avaliação dos riscos de cancro nos seres humanos «Pós de madeira e formaldeído», publicado pelo Centro Internacional de Investigação do Cancro, Lyon, 1995, contém uma lista de algumas folhosas."
+  },
+  "e0107378c2771f16": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. A presente directiva, tem por objecto a protecção dos trabalhadores contra os riscos para as suas segurança e saúde, incluindo a respectiva prevenção, a que estejam ou sejam susceptíveis de estar expostos, em virtude de exposição a agentes cancerígenos ou mutagénicos durante o trabalho.\n\nA presente directiva fixa as prescrições mínimas especiais neste domínio, incluindo valores-limite.\n\n2. A presente directiva não se aplica aos trabalhadores expostos apenas às radiações a que alude o Tratado que institui a Comunidade Europeia da Energia Atómica.\n\n3. A Directiva 89/391/CEE aplica-se plenamente ao conjunto do domínio referido no n.º 1, sem prejuízo de disposições mais restritivas e/ou específicas da presente directiva.\n\n4. Em relação ao amianto, que é objeto da Diretiva 2009/148/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001)), é aplicável o disposto na presente diretiva sempre que seja mais favorável à saúde e à segurança no local de trabalho."
+  },
+  "e792140a2cb8dec5": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por\n\na) «Agente cancerígeno»:\n\ni) qualquer substância ou mistura que preencha os requisitos para ser classificada como agente cancerígeno das categorias 1A ou 1B, previstos no Anexo I do Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0002)),\n\nii) qualquer substância, mistura ou processo referidos no Anexo I da presente diretiva, assim como qualquer substância ou mistura resultante de um processo referido nesse anexo;\n\nb) «Agente mutagénico»:\n\nc) «Valor-limite», salvo indicação em contrário, o limite da média ponderada em função do tempo de concentração de um agente cancerígeno ou mutagénico no ar respirado por um trabalhador durante um período de referência específico estabelecido no anexo III da presente directiva."
+  },
+  "301722b892fe10e2": {
+   "fragment_id": "Artigo 13.º-A — Acordos entre os parceiros sociais",
+   "type": "artigo",
+   "heading": "Artigo 13.º-A — Acordos entre os parceiros sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-A — Acordos entre os parceiros sociais\n\nOs acordos entre os parceiros sociais eventualmente celebrados no domínio da presente diretiva são incluídos na lista constante do sítio Web da Agência Europeia para a Segurança e a Saúde no Trabalho (EU-OSHA). Essa lista é atualizada regularmente."
+  },
+  "92c086cd038e8f15": {
+   "fragment_id": "Artigo 18.º-A — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 18.º-A — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-A — Avaliação\n\nA Comissão avalia também, como parte da próxima avaliação da execução da presente diretiva no contexto da avaliação referida no artigo 17.º-A da Diretiva 89/391/CEE, a necessidade de alterar o valor-limite [**►C2**](http://publications.europa.eu/resource/celex/32017L2398R%2802%29) para a poeira de sílica cristalina respirável.**◄** A Comissão propõe, se for caso disso, as alterações e modificações necessárias relativas a essa substância.\n\nO mais tardar no primeiro trimestre de 2019, a Comissão avalia, tendo em conta a evolução mais recente dos conhecimentos científicos, a opção de alterar o âmbito da presente diretiva de modo a incluir as substâncias tóxicas para a reprodução. Nessa base, a Comissão apresenta, se for caso disso, e após consulta aos parceiros sociais, uma proposta legislativa.\n\nAté 11 de julho de 2022, a Comissão pondera a possibilidade de alterar a presente diretiva, a fim de introduzir disposições relativas à combinação de um limite de exposição profissional no ar e um valor-limite biológico para o cádmio e seus compostos inorgânicos.\n\nAté 30 de junho de 2020, a Comissão, tendo em conta a mais recente evolução dos conhecimentos científicos e após consulta adequada às partes interessadas, em particular aos profissionais de saúde, avalia a possibilidade de alterar a presente diretiva a fim de incluir os medicamentos perigosos, designadamente os medicamentos citotóxicos, ou de propor um instrumento mais adequado a fim de garantir a segurança dos trabalhadores expostos a esses medicamentos. Nessa base, a Comissão apresenta, se for caso disso, e após consulta a entidades patronais e a trabalhadores, uma proposta legislativa."
+  },
+  "075c7ffa8000a7af": {
+   "fragment_id": "[alínea a) iii) do artigo 2.º]",
+   "type": "divisao",
+   "heading": "[alínea a) iii) do artigo 2.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [alínea a) iii) do artigo 2.º]\n\n1. Fabrico de auramina.\n\n2. Trabalhos que impliquem a exposição a hidrocarbonetos policíclicos aromáticos presentes na fuligem da hulha, no alcatrão da hulha ou pez de hulha.\n\n3. Trabalhos susceptíveis de provocar a exposição às poeiras, fumos ou névoas produzidos durante a calcinação e a electro-refinação de mates de níquel.\n\n4. Processo do ácido forte durante o fabrico do álcool isopropílico.\n\n5. Trabalhos susceptíveis de provocar a exposição a pó de madeira de folhosas ([^3^](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0003)).\n\n6. Trabalhos que impliquem a [**►C2**](http://publications.europa.eu/resource/celex/32017L2398R%2802%29) exposição a poeira de sílica cristalina respirável resultante**◄** de um processo de trabalho.\n\n7. Trabalhos que impliquem a exposição cutânea a óleos minerais que tenham sido previamente utilizados em motores de combustão interna para lubrificar e arrefecer as peças móveis dentro do motor.\n\n8. Trabalhos que impliquem a exposição a emissões de gases de escape dos motores diesel."
+  },
+  "0c5335436a66022b": {
+   "fragment_id": "VALORES-LIMITE E OUTRAS DISPOSIÇÕES DIRETAMENTE RELACIONADAS (ARTIGO 16.º)",
+   "type": "divisao",
+   "heading": "VALORES-LIMITE E OUTRAS DISPOSIÇÕES DIRETAMENTE RELACIONADAS (ARTIGO 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VALORES-LIMITE E OUTRAS DISPOSIÇÕES DIRETAMENTE RELACIONADAS (ARTIGO 16.º)"
+  },
+  "275d614ac3939ad5": {
+   "fragment_id": "A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL",
+   "type": "divisao",
+   "heading": "A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL\n\n| Nome do agente | N.º CE [(^1^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0004) | N.º CAS [(^2^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0005) | Valores-limite | Notação | Medidas transitórias |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 8 horas [(^3^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0006) | Curta duração [(^4^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0007) |  |  |  |  |  |  |  |  |  |\n| mg/m^3^ [(^5^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0008) | ppm [(^6^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0009) | f/ml [(^7^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0010) | mg/m^3^ [(^5^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0008) | ppm [(^6^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0009) | f/ml [(^7^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0010) |  |  |  |  |  |\n| Poeira de madeira de folhosas | — | — | 2 [(^8^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0011) | — | — | — | — | — | — | Valor-limite 3 mg/m^3^ até 17 de janeiro de 2023 |\n| Compostos de crómio (VI) que são agentes cancerígenos na aceção do artigo 2.º, alínea a), subalínea i) (como crómio) | — | — | 0,005 | — | — | — | — | — | — | Valor-limite 0,010 mg/m^3^ até 17 de janeiro de 2025 Valor-limite: 0,025 mg/m^3^ para processos de soldadura ou corte por plasma ou processos similares que produzam fumos até 17 de janeiro de 2025 |\n| Fibras de materiais cerâmicos refratários que são agentes cancerígenos na aceção do artigo 2.º, alínea a), subalínea i) | — | — | — | — | 0,3 | — | — | — | — |  |\n| Poeira de sílica cristalina respirável | — | — | 0,1 [(^9^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0012) | — | — | — | — | — | — |  |\n| Benzeno | 200-753-7 | 71-43-2 | 3,25 | 1 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0013) |  |\n| Cloreto de vinilo monómero | 200-831-0 | 75-01-4 | 2,6 | 1 | — | — | — | — | — |  |\n| Óxido de etileno | 200-849-9 | 75-21-8 | 1,8 | 1 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0013) |  |\n| 1,2-Epoxipropano | 200-879-2 | 75-56-9 | 2,4 | 1 | — | — | — | — | — |  |\n| Tricloroetileno | 201-167-4 | 79-01-6 | 54,7 | 10 | — | 164,1 | 30 | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0013) |  |\n| Acrilamida | 201-173-7 | 79-06-1 | 0,1 | — | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0013) |  |\n| 2-Nitropropano | 201-209-1 | 79-46-9 | 18 | 5 | — | — | — | — | — |  |\n| o-Toluidina | 202-429-0 | 95-53-4 | 0,5 | 0,1 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0013) |  |\n| 4,4′-Metilenodianilina | 202-974-4 | 101-77-9 | 0,08 | — | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0013) |  |\n| Epicloridrina | 203-439-8 | 106-89-8 | 1,9 | — | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0013) |  |\n| Dibrometo de etileno | 203-444-5 | 106-93-4 | 0,8 | 0,1 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0013) |  |\n| 1,3-Butadieno | 203-450-8 | 106-99-0 | 2,2 | 1 | — | — | — | — | — |  |\n| Dicloreto de etileno | 203-458-1 | 107-06-2 | 8,2 | 2 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0013) |  |\n| Hidrazina | 206-114-9 | 302-01-2 | 0,013 | 0,01 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0013) |  |\n| Bromoetileno | 209-800-6 | 593-60-2 | 4,4 | 1 | — | — | — | — | — |  |\n| Emissões de gases de escape dos motores diesel |  |  | 0,05 [(^*1^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0018) |  |  |  |  |  |  | O valor-limite é aplicável a partir de 21 de fevereiro de 2023. No caso da indústria extrativa subterrânea e da construção de túneis, o valor-limite é aplicável a partir de 21 de fevereiro de 2026. |\n| Misturas de hidrocarbonetos aromáticos policíclicos, em especial as que contenham [benzo[a]pireno], que sejam agentes cancerígenos na aceção da presente diretiva |  |  |  |  |  |  |  |  | pele [(^10^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0013) |  |\n| Óleos minerais que tenham sido previamente utilizados em motores de combustão interna para lubrificar e arrefecer as partes móveis dentro do motor |  |  |  |  |  |  |  |  | pele [(^10^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0013) |  |\n| [▼M4](http://publications.europa.eu/resource/celex/32019L0983) |  |  |  |  |  |  |  |  |  |  |\n| Cádmio e seus compostos inorgânicos | — | — | 0,001 [(^11^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014) | — | — | — | — | — |  | Valor-limite 0,004 mg/m^3^ [(^12^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0015) até 11 de julho de 2027. |\n| Berílio e compostos inorgânicos de berílio | — | — | 0,0002 [(^11^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014) | — | — | — | — | — | sensibilização cutânea e respiratória [(^13^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0016) | Valor-limite 0,0006 mg/m^3^ até 11 de julho de 2026. |\n| Ácido arsénico e seus sais, bem como compostos inorgânicos de arsénio | — | — | 0,01 [(^11^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014) | — | — | — | — | — | — | Para o setor da fundição de cobre, o valor-limite é aplicável a partir de 11 de julho de 2023. |\n| Formaldeído | 200-001-8 | 50-00-0 | 0,37 | 0,3 | — | 0,74 | 0,6 | — | sensibilização cutânea [(^14^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0017) | Valor-limite de 0,62 mg/m^3^ ou de 0,5 ppm [(^3^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0006) para os setores dos cuidados de saúde, funerário e de embalsamamento até 11 de julho de 2024. |\n| 4,4′-Metileno-bis(2-cloroanilina) | 202-918-9 | 101-14-4 | 0,01 | — | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0013) |  |\n| [▼M3](http://publications.europa.eu/resource/celex/32019L0130) |  |  |  |  |  |  |  |  |  |  |\n| (^1^)N.º CE, ou seja, EINECS, ELINCS ou NLP: número oficial da substância na União Europeia, na aceção do anexo VI, parte 1, ponto 1.1.1.2, do Regulamento (CE) n.º 1272/2008. (^2^)N.º CAS: número de registo do Chemical Abstract Service. (^3^)Medidos ou calculados em relação a um período de referência de oito horas em média ponderada no tempo (TWA). (^4^)Limite de exposição de curta duração (STEL): valor-limite acima do qual não deve haver exposição e que se refere a um período de 15 minutos, salvo indicação em contrário. (^5^) mg/m^3^ = miligramas por metro cúbico de ar a 20 ºC e a 101,3 kPa (pressão de 760 mm de mercúrio). (^6^) ppm = partes por milhão em volume no ar (ml/m^3^). (^7^) f/ml = fibras por mililitro. (^8^)Fração inalável: se a poeira de madeira de folhosas estiver misturada com outras poeiras de madeira, o valor-limite aplicar-se-á a todas as poeiras de madeira presentes nessa mistura. (^9^)Fração respirável. (^10^)Possibilidade de contribuição considerável para a carga corporal total devido à exposição cutânea. (^11^)Fração inalável. (^12^)Fração inalável. Fração respirável nos Estados–Membros que apliquem, à data de entrada em vigor da presente diretiva, um sistema de biomonitorização com um valor–limite biológico que não exceda 0,002 mg de creatinina na urina. (^13^)A substância pode causar sensibilização da pele e das vias respiratórias. (^14^)A substância pode causar sensibilização da pele. (^*1^)Medidas sob a forma de carbono elementar. |  |  |  |  |  |  |  |  |  |  |"
+  },
+  "7b5a562705d3d173": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0001)) Diretiva 2009/148/CE do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho (JO L 330 de 16.12.2009, p. 28).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0002)) Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas, que altera e revoga as Diretivas 67/548/CEE e 1999/45/CE, e altera o Regulamento (CE) n.º 1907/2006 (JO L 353 de 31.12.2008, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/2916fff3-d943-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0003)) O volume 62 das monografias relativas à avaliação dos riscos de cancro nos seres humanos «Pós de madeira e formaldeído», publicado pelo Centro Internacional de Investigação do Cancro, Lyon, 1995, contém uma lista de algumas folhosas."
+  },
+  "8f1743eb505abddb": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. A presente directiva, tem por objecto a protecção dos trabalhadores contra os riscos para as suas segurança e saúde, incluindo a respectiva prevenção, a que estejam ou sejam susceptíveis de estar expostos, em virtude de exposição a agentes cancerígenos ou mutagénicos durante o trabalho.\n\nA presente directiva fixa as prescrições mínimas especiais neste domínio, incluindo valores-limite.\n\n2. A presente directiva não se aplica aos trabalhadores expostos apenas às radiações a que alude o Tratado que institui a Comunidade Europeia da Energia Atómica.\n\n3. A Directiva 89/391/CEE aplica-se plenamente ao conjunto do domínio referido no n.º 1, sem prejuízo de disposições mais restritivas e/ou específicas da presente directiva.\n\n4. Em relação ao amianto, que é objeto da Diretiva 2009/148/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001)), é aplicável o disposto na presente diretiva sempre que seja mais favorável à saúde e à segurança no local de trabalho."
+  },
+  "52174aa6bfb3df5d": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por\n\na) «Agente cancerígeno»:\n\ni) qualquer substância ou mistura que preencha os requisitos para ser classificada como agente cancerígeno das categorias 1A ou 1B, previstos no Anexo I do Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0002)),\n\nii) qualquer substância, mistura ou processo referidos no Anexo I da presente diretiva, assim como qualquer substância ou mistura resultante de um processo referido nesse anexo;\n\nb) «Agente mutagénico»:\n\nc) «Valor-limite», salvo indicação em contrário, o limite da média ponderada em função do tempo de concentração de um agente cancerígeno ou mutagénico no ar respirado por um trabalhador durante um período de referência específico estabelecido no anexo III da presente directiva."
+  },
+  "59aab7da3b9e7a88": {
+   "fragment_id": "Artigo 17.º — Alteração do anexo II",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Alteração do anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alteração do anexo II\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 17.º-A no que diz respeito a introduzir alterações estritamente técnicas no anexo II, a fim de ter em conta o progresso técnico, a evolução das regulamentações e especificações internacionais e os novos conhecimentos no domínio dos agentes cancerígenos ou mutagénicos.\n\nSempre que, em casos excecionais e devidamente justificados que comportam riscos iminentes, diretos e graves para a saúde e a segurança físicas dos trabalhadores e de outras pessoas, existam imperativos de urgência que exijam uma ação num prazo muito curto, aplica-se o procedimento previsto no artigo 17.º-B aos atos delegados adotados nos termos do presente artigo."
+  },
+  "53be0dbef9bdf1f5": {
+   "fragment_id": "Artigo 17.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 17.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 17.º é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 17.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^3^](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0003)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 17.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "6c34b4e8c0fe825d": {
+   "fragment_id": "Artigo 17.º-B — Procedimento de urgência",
+   "type": "artigo",
+   "heading": "Artigo 17.º-B — Procedimento de urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º-B — Procedimento de urgência\n\n1. Os atos delegados adotados nos termos do presente artigo entram em vigor sem demora e são aplicáveis desde que não tenha sido formulada qualquer objeção nos termos do n.º 2. Na notificação de um ato delegado ao Parlamento Europeu e ao Conselho devem expor-se os motivos que justificam o recurso ao procedimento de urgência.\n\n2. O Parlamento Europeu ou o Conselho podem formular objeções a um ato delegado de acordo com o procedimento a que se refere o artigo 17.º-A, n.º 6. Nesse caso, a Comissão revoga imediatamente o ato após a notificação da decisão pela qual o Parlamento Europeu ou o Conselho tiverem formulado objeções."
+  },
+  "5a33282770494ca1": {
+   "fragment_id": "[alínea a) iii) do artigo 2.º]",
+   "type": "divisao",
+   "heading": "[alínea a) iii) do artigo 2.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [alínea a) iii) do artigo 2.º]\n\n1. Fabrico de auramina.\n\n2. Trabalhos que impliquem a exposição a hidrocarbonetos policíclicos aromáticos presentes na fuligem da hulha, no alcatrão da hulha ou pez de hulha.\n\n3. Trabalhos susceptíveis de provocar a exposição às poeiras, fumos ou névoas produzidos durante a calcinação e a electro-refinação de mates de níquel.\n\n4. Processo do ácido forte durante o fabrico do álcool isopropílico.\n\n5. Trabalhos susceptíveis de provocar a exposição a pó de madeira de folhosas ([^4^](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0004)).\n\n6. Trabalhos que impliquem a [**►C2**](http://publications.europa.eu/resource/celex/32017L2398R%2802%29) exposição a poeira de sílica cristalina respirável resultante**◄** de um processo de trabalho.\n\n7. Trabalhos que impliquem a exposição cutânea a óleos minerais que tenham sido previamente utilizados em motores de combustão interna para lubrificar e arrefecer as peças móveis dentro do motor.\n\n8. Trabalhos que impliquem a exposição a emissões de gases de escape dos motores diesel."
+  },
+  "13a29ce4f597b2be": {
+   "fragment_id": "A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL",
+   "type": "divisao",
+   "heading": "A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL\n\n| Nome do agente | N.º CE [(^1^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0005) | N.º CAS [(^2^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0006) | Valores-limite | Notação | Medidas transitórias |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 8 horas [(^3^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0007) | Curta duração [(^4^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0008) |  |  |  |  |  |  |  |  |  |\n| mg/m^3^ [(^5^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0009) | ppm [(^6^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0010) | f/ml [(^7^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0011) | mg/m^3^ [(^5^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0009) | ppm [(^6^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0010) | f/ml [(^7^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0011) |  |  |  |  |  |\n| Poeira de madeira de folhosas | — | — | 2 [(^8^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0012) | — | — | — | — | — | — | Valor-limite 3 mg/m^3^ até 17 de janeiro de 2023 |\n| Compostos de crómio (VI) que são agentes cancerígenos na aceção do artigo 2.º, alínea a), subalínea i) (como crómio) | — | — | 0,005 | — | — | — | — | — | — | Valor-limite 0,010 mg/m^3^ até 17 de janeiro de 2025 Valor-limite: 0,025 mg/m^3^ para processos de soldadura ou corte por plasma ou processos similares que produzam fumos até 17 de janeiro de 2025 |\n| Fibras de materiais cerâmicos refratários que são agentes cancerígenos na aceção do artigo 2.º, alínea a), subalínea i) | — | — | — | — | 0,3 | — | — | — | — |  |\n| Poeira de sílica cristalina respirável | — | — | 0,1 [(^9^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0013) | — | — | — | — | — | — |  |\n| Benzeno | 200-753-7 | 71-43-2 | 3,25 | 1 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014) |  |\n| Cloreto de vinilo monómero | 200-831-0 | 75-01-4 | 2,6 | 1 | — | — | — | — | — |  |\n| Óxido de etileno | 200-849-9 | 75-21-8 | 1,8 | 1 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014) |  |\n| 1,2-Epoxipropano | 200-879-2 | 75-56-9 | 2,4 | 1 | — | — | — | — | — |  |\n| Tricloroetileno | 201-167-4 | 79-01-6 | 54,7 | 10 | — | 164,1 | 30 | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014) |  |\n| Acrilamida | 201-173-7 | 79-06-1 | 0,1 | — | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014) |  |\n| 2-Nitropropano | 201-209-1 | 79-46-9 | 18 | 5 | — | — | — | — | — |  |\n| o-Toluidina | 202-429-0 | 95-53-4 | 0,5 | 0,1 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014) |  |\n| 4,4′-Metilenodianilina | 202-974-4 | 101-77-9 | 0,08 | — | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014) |  |\n| Epicloridrina | 203-439-8 | 106-89-8 | 1,9 | — | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014) |  |\n| Dibrometo de etileno | 203-444-5 | 106-93-4 | 0,8 | 0,1 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014) |  |\n| 1,3-Butadieno | 203-450-8 | 106-99-0 | 2,2 | 1 | — | — | — | — | — |  |\n| Dicloreto de etileno | 203-458-1 | 107-06-2 | 8,2 | 2 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014) |  |\n| Hidrazina | 206-114-9 | 302-01-2 | 0,013 | 0,01 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014) |  |\n| Bromoetileno | 209-800-6 | 593-60-2 | 4,4 | 1 | — | — | — | — | — |  |\n| Emissões de gases de escape dos motores diesel |  |  | 0,05 [(^*1^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0019) |  |  |  |  |  |  | O valor-limite é aplicável a partir de 21 de fevereiro de 2023. No caso da indústria extrativa subterrânea e da construção de túneis, o valor-limite é aplicável a partir de 21 de fevereiro de 2026. |\n| Misturas de hidrocarbonetos aromáticos policíclicos, em especial as que contenham [benzo[a]pireno], que sejam agentes cancerígenos na aceção da presente diretiva |  |  |  |  |  |  |  |  | pele [(^10^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014) |  |\n| Óleos minerais que tenham sido previamente utilizados em motores de combustão interna para lubrificar e arrefecer as partes móveis dentro do motor |  |  |  |  |  |  |  |  | pele [(^10^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014) |  |\n| [▼M4](http://publications.europa.eu/resource/celex/32019L0983) |  |  |  |  |  |  |  |  |  |  |\n| Cádmio e seus compostos inorgânicos | — | — | 0,001 [(^11^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0015) | — | — | — | — | — |  | Valor-limite 0,004 mg/m^3^ [(^12^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0016) até 11 de julho de 2027. |\n| Berílio e compostos inorgânicos de berílio | — | — | 0,0002 [(^11^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0015) | — | — | — | — | — | sensibilização cutânea e respiratória [(^13^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0017) | Valor-limite 0,0006 mg/m^3^ até 11 de julho de 2026. |\n| Ácido arsénico e seus sais, bem como compostos inorgânicos de arsénio | — | — | 0,01 [(^11^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0015) | — | — | — | — | — | — | Para o setor da fundição de cobre, o valor-limite é aplicável a partir de 11 de julho de 2023. |\n| Formaldeído | 200-001-8 | 50-00-0 | 0,37 | 0,3 | — | 0,74 | 0,6 | — | sensibilização cutânea [(^14^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0018) | Valor-limite de 0,62 mg/m^3^ ou de 0,5 ppm [(^3^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0007) para os setores dos cuidados de saúde, funerário e de embalsamamento até 11 de julho de 2024. |\n| 4,4′-Metileno-bis(2-cloroanilina) | 202-918-9 | 101-14-4 | 0,01 | — | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0014) |  |\n| [▼M3](http://publications.europa.eu/resource/celex/32019L0130) |  |  |  |  |  |  |  |  |  |  |\n| (^1^)N.º CE, ou seja, EINECS, ELINCS ou NLP: número oficial da substância na União Europeia, na aceção do anexo VI, parte 1, ponto 1.1.1.2, do Regulamento (CE) n.º 1272/2008. (^2^)N.º CAS: número de registo do Chemical Abstract Service. (^3^)Medidos ou calculados em relação a um período de referência de oito horas em média ponderada no tempo (TWA). (^4^)Limite de exposição de curta duração (STEL): valor-limite acima do qual não deve haver exposição e que se refere a um período de 15 minutos, salvo indicação em contrário. (^5^) mg/m^3^ = miligramas por metro cúbico de ar a 20 ºC e a 101,3 kPa (pressão de 760 mm de mercúrio). (^6^) ppm = partes por milhão em volume no ar (ml/m^3^). (^7^) f/ml = fibras por mililitro. (^8^)Fração inalável: se a poeira de madeira de folhosas estiver misturada com outras poeiras de madeira, o valor-limite aplicar-se-á a todas as poeiras de madeira presentes nessa mistura. (^9^)Fração respirável. (^10^)Possibilidade de contribuição considerável para a carga corporal total devido à exposição cutânea. (^11^)Fração inalável. (^12^)Fração inalável. Fração respirável nos Estados–Membros que apliquem, à data de entrada em vigor da presente diretiva, um sistema de biomonitorização com um valor–limite biológico que não exceda 0,002 mg de creatinina na urina. (^13^)A substância pode causar sensibilização da pele e das vias respiratórias. (^14^)A substância pode causar sensibilização da pele. (^*1^)Medidas sob a forma de carbono elementar. |  |  |  |  |  |  |  |  |  |  |"
+  },
+  "ffc5802bac9fcac5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0001)) Diretiva 2009/148/CE do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho (JO L 330 de 16.12.2009, p. 28).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0002)) Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas, que altera e revoga as Diretivas 67/548/CEE e 1999/45/CE, e altera o Regulamento (CE) n.º 1907/2006 (JO L 353 de 31.12.2008, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0003)) JO L 123 de 12.5.2016, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/9f817d4d-eb82-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0004)) O volume 62 das monografias relativas à avaliação dos riscos de cancro nos seres humanos «Pós de madeira e formaldeído», publicado pelo Centro Internacional de Investigação do Cancro, Lyon, 1995, contém uma lista de algumas folhosas."
+  },
+  "5ef7d11c335e32e6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nrelativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução durante o trabalho (sexta diretiva especial nos termos do artigo 16.\n\n(versão codificada)\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "72b752f8aa1f7081": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. A presente diretiva tem por objeto a proteção dos trabalhadores contra os riscos para as suas segurança e saúde resultantes ou suscetíveis de resultar da exposição a agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução durante o trabalho, incluindo a prevenção de tais riscos.\n\nA presente directiva fixa as prescrições mínimas especiais neste domínio, incluindo valores-limite.\n\n2. A presente directiva não se aplica aos trabalhadores expostos apenas às radiações a que alude o Tratado que institui a Comunidade Europeia da Energia Atómica.\n\n3. A Directiva 89/391/CEE aplica-se plenamente ao conjunto do domínio referido no n.º 1, sem prejuízo de disposições mais restritivas e/ou específicas da presente directiva.\n\n4. Em relação ao amianto, que é objeto da Diretiva 2009/148/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0001)), é aplicável o disposto na presente diretiva sempre que seja mais favorável à saúde e à segurança no local de trabalho."
+  },
+  "d21f534765751929": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por\n\na) «Agente cancerígeno»:\n\ni) qualquer substância ou mistura que preencha os requisitos para ser classificada como agente cancerígeno das categorias 1A ou 1B, previstos no Anexo I do Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0002)),\n\nii) qualquer substância, mistura ou processo referidos no Anexo I da presente diretiva, assim como qualquer substância ou mistura resultante de um processo referido nesse anexo;\n\nb) «Agente mutagénico»:\n\nb-A) «Substância tóxica para a reprodução», qualquer substância ou mistura que preencha os requisitos para ser classificada como substância tóxica para a reprodução das categorias 1A ou 1B, previstos no anexo I do Regulamento (CE) n.º 1272/2008;\n\nb-B) «Substância tóxica para a reprodução não sujeita a um limiar», qualquer substância tóxica para a reprodução relativamente à qual não existe um nível de exposição seguro para a saúde dos trabalhadores e que seja identificada como tal na coluna de notação do anexo III;\n\nb-C) «Substância tóxica para a reprodução sujeita a um limiar», qualquer substância tóxica para a reprodução para a qual existe um nível seguro de exposição abaixo do qual não existe qualquer risco para a saúde dos trabalhadores e que seja identificada como tal na coluna de notação do anexo III;\n\nc) «Valor-limite», salvo indicação em contrário, o limite da média ponderada em função do tempo de concentração de um agente cancerígeno, mutagénico ou de uma substância tóxica para a reprodução no ar respirado por um trabalhador durante um período de referência específico estabelecido no anexo III;\n\nd) «Valor-limite biológico», o limite de concentração no meio biológico adequado do agente em causa, dos seus metabolitos ou de um indicador de efeito;\n\ne) «Vigilância médica», o exame de um trabalhador com o objetivo de determinar o seu estado de saúde relacionado com a exposição, no local de trabalho, a agentes cancerígenos, mutagénicos específicos ou a substâncias tóxicas para a reprodução específicas."
+  },
+  "d0a6bdf925eeea0e": {
+   "fragment_id": "Artigo 3.º — Âmbito de aplicação — Identificação e avaliação dos riscos",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Âmbito de aplicação — Identificação e avaliação dos riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação — Identificação e avaliação dos riscos\n\n1. A presente diretiva é aplicável às atividades em que os trabalhadores estejam expostos ou sejam suscetíveis de estar expostos a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução em resultado do seu trabalho.\n\n2. Em relação a qualquer atividade suscetível de envolver um risco de exposição a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução, devem ser determinados a natureza, o grau e o tempo de exposição dos trabalhadores, a fim de poderem ser avaliados os riscos para a sua segurança e saúde e determinadas as medidas a tomar.\n\nEsta avaliação deve ser renovada regularmente e, de qualquer forma, sempre que se verifique qualquer alteração das condições suscetível de afetar a exposição dos trabalhadores a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução.\n\nA entidade patronal deve fornecer às autoridades responsáveis, a pedido destas, os elementos que serviram para essa avaliação.\n\n3. Devem ter-se igualmente em conta na avaliação do risco quaisquer outras vias de exposição, como a absorção pela pele e/ou através da pele.\n\n4. Na avaliação do risco, as entidades patronais devem prestar especial atenção aos eventuais efeitos sobre a segurança ou a saúde dos trabalhadores expostos a riscos particularmente sensíveis, tomando nomeadamente em consideração a oportunidade de não ocuparem esses trabalhadores em zonas em que possam estar em contacto com agentes cancerígenos, mutagénicos ou com substâncias tóxicas para a reprodução."
+  },
+  "08c7fb6e93fc02d0": {
+   "fragment_id": "Artigo 4.º — Redução e substituição",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Redução e substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Redução e substituição\n\n1. A entidade patronal deve reduzir a utilização de agentes cancerígenos, mutagénicos ou de substâncias tóxicas para a reprodução no local de trabalho, nomeadamente substituindo-os, tanto quanto tecnicamente for possível, por substâncias, misturas ou processos que, nas suas condições de utilização, não sejam ou sejam menos perigosos para a saúde ou para a segurança dos trabalhadores, consoante o caso.\n\n2. A entidade patronal deve comunicar o resultado das suas investigações à autoridade responsável, a pedido desta."
+  },
+  "fd782971decf33ff": {
+   "fragment_id": "Artigo 5.º — Disposições para evitar ou reduzir a exposição",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Disposições para evitar ou reduzir a exposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposições para evitar ou reduzir a exposição\n\n1. Se os resultados da avaliação referida no n.º 2 do artigo 3.º revelarem um risco para a segurança ou a saúde dos trabalhadores, deve evitar-se a exposição desses trabalhadores.\n\n2. Se não for tecnicamente possível substituir o agente cancerígeno ou mutagénico ou a substância tóxica para a reprodução por uma substância, uma mistura ou um processo que, nas condições de utilização, não seja ou seja menos perigoso para a segurança ou a saúde, a entidade patronal deve garantir que a produção e a utilização do agente cancerígeno ou mutagénico ou da substância tóxica para a reprodução se efetuem em sistema fechado, na medida em que isso seja tecnicamente possível.\n\n3. Se não for tecnicamente possível utilizar um sistema fechado, a entidade patronal deve garantir que o nível de exposição dos trabalhadores ao agente cancerígeno ou mutagénico ou à substância tóxica para a reprodução não sujeita a um limiar seja reduzido a um valor tão baixo quanto tecnicamente possível.\n\n3-A. Se não for tecnicamente possível utilizar ou fabricar uma substância tóxica para a reprodução sujeita a um limiar num sistema fechado, a entidade patronal deve assegurar que o risco relacionado com a exposição dos trabalhadores a essa substância tóxica para a reprodução sujeita a um limiar seja reduzido ao mínimo.\n\n3-B. No que diz respeito às substâncias tóxicas para a reprodução, com exceção das substâncias tóxicas para a reprodução não sujeitas a um limiar e das substâncias tóxicas para a reprodução sujeitas a um limiar, a entidade patronal aplica o disposto no n.º 3-A do presente artigo. Nesse caso, ao efetuar a avaliação dos riscos referida no artigo 3.º, a entidade patronal deve ter devidamente em conta a possibilidade de que pode não existir um nível de exposição seguro para a saúde dos trabalhadores para essas substâncias tóxicas para a reprodução, devendo adotar medidas adequadas a esse respeito.\n\n4. A exposição não pode exceder o valor-limite do agente cancerígeno ou mutagénico ou da substância tóxica para a reprodução estabelecido no anexo III.\n\n5.\n\nSempre que seja utilizado um agente cancerígeno ou mutagénico ou uma substância tóxica para a reprodução, a entidade patronal deve aplicar todas as seguintes medidas:\n\na) Limitação das quantidades de agentes cancerígenos, mutagénicos ou de substâncias tóxicas para a reprodução no local de trabalho;\n\nb) Limitação ao mínimo do número de trabalhadores expostos ou susceptíveis de o ser;\n\nc) Conceção de processos de trabalho e de medidas técnicas com o objetivo de evitar ou minimizar a libertação de agentes cancerígenos, mutagénicos ou de substâncias tóxicas para a reprodução no local de trabalho;\n\nd) Evacuação dos agentes cancerígenos ou mutagénicos, das substâncias tóxicas para a reprodução na fonte, aspiração local ou ventilação geral adequadas, compatíveis com a necessidade de proteção da saúde pública e do ambiente;\n\ne) Utilização de métodos adequados de medição de agentes cancerígenos, mutagénicos ou de substâncias tóxicas para a reprodução, nomeadamente de deteção precoce de exposições anormais devidas a um incidente imprevisível ou a um acidente;\n\nf) Aplicação de processos e métodos de trabalhos adequados;\n\ng) Medidas de protecção colectivas e/ou, quando a exposição não possa ser evitada por outros meios, medidas de protecção individual;\n\nh) Medidas de higiene, nomeadamente a limpeza regular dos pavimentos, paredes e outras superfícies;\n\ni) Informação dos trabalhadores;\n\nj) Delimitação das zonas de risco e utilização de sinalização adequada de aviso e de segurança, incluindo sinais de proibição de fumar em áreas onde os trabalhadores estejam ou sejam suscetíveis de estar expostos a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução;\n\nk) Instalação de dispositivos para casos de emergência susceptíveis de provocar exposições anormalmente elevadas;\n\nl) Meios que permitam a armazenagem, o manuseamento e o transporte sem riscos, incluindo a utilização de recipientes herméticos, rotulados de forma clara, distinta e visível;\n\nm) Meios seguros de recolha, armazenagem e evacuação dos resíduos pelos trabalhadores, incluindo a utilização de recipientes herméticos, rotulados de forma clara, distinta e visível."
+  },
+  "165993dc0ebd6af6": {
+   "fragment_id": "Artigo 6.º — Informação das autoridades responsáveis",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Informação das autoridades responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Informação das autoridades responsáveis\n\nSe os resultados da avaliação referida no n.º 2 do artigo 3.º revelarem um risco para a segurança ou a saúde dos trabalhadores, as entidades patronais devem colocar à disposição das autoridades responsáveis, a seu pedido, informações adequadas sobre:\n\na) As atividades e/ou processos industriais realizados, incluindo os motivos de utilização de agentes cancerígenos, mutagénicos ou de substâncias tóxicas para a reprodução;\n\nb) As quantidades fabricadas ou utilizadas de substâncias ou misturas que contenham agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução;\n\nc) O número de trabalhadores expostos;\n\nd) As medidas preventivas tomadas;\n\ne) O tipo de equipamento de protecção a utilizar;\n\nf) A natureza e o grau da exposição;\n\ng) Os casos de substituição.\n\nOs Estados-Membros tomam em conta as informações previstas no primeiro parágrafo, alíneas a) a g), do presente artigo nos seus relatórios apresentados à Comissão nos termos do artigo 17.º-A da Diretiva 89/391/CEE."
+  },
+  "b4297940c4b03fd0": {
+   "fragment_id": "Artigo 7.º — Exposição imprevisível",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Exposição imprevisível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Exposição imprevisível\n\n1. Em caso de acontecimentos imprevisíveis ou de acidentes susceptíveis de provocar uma exposição anormal dos trabalhadores, a entidade patronal deve informar os trabalhadores desses factos.\n\n2.\n\nAté à normalização da situação e enquanto não se eliminarem as causas da exposição anormal:\n\na) Apenas são autorizados a trabalhar na zona afectada os trabalhadores indispensáveis à execução das reparações e outros trabalhos necessários;\n\nb) É posto à disposição dos trabalhadores em causa, e deve ser por eles utilizado, vestuário de protecção e um equipamento individual de protecção respiratória; a exposição não pode ser de carácter permanente e deve limitar-se ao estritamente necessário para cada trabalhador;\n\nc) Os trabalhadores não protegidos não são autorizados a trabalhar na área afectada."
+  },
+  "335be193f0b04b11": {
+   "fragment_id": "Artigo 10.º — Medidas de higiene e de protecção individual",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Medidas de higiene e de protecção individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas de higiene e de protecção individual\n\n1.\n\nAs entidades patronais devem, em relação a todas as atividades quanto às quais existam riscos de contaminação por agentes cancerígenos, mutagénicos ou por substâncias tóxicas para a reprodução, tomar medidas apropriadas com os seguintes objetivos:\n\na) Impedir que os trabalhadores comam, bebam e fumem nas zonas de trabalho onde se verifique risco de contaminação por agentes cancerígenos, mutagénicos ou por substâncias tóxicas para a reprodução;\n\nb) Fornecer aos trabalhadores vestuário de protecção adequado ou qualquer outro vestuário especial adequado;\n\nc) Prever locais distintos para arrumação do vestuário de trabalho ou de protecção, por um lado, e do vestuário normal, por outro;\n\nd) Pôr à disposição dos trabalhadores instalações sanitárias e de higiene apropriadas;\n\ne) Colocar correctamente os equipamentos de protecção num local determinado. Verificar e limpar esses equipamentos, se possível antes e, obrigatoriamente, após cada utilização;\n\nf) Reparar ou substituir os equipamentos defeituosos antes de nova utilização.\n\n2. O custo das medidas referidas no n.º 1 não pode ser suportado pelos trabalhadores."
+  },
+  "1ed22c9a47d19630": {
+   "fragment_id": "Artigo 11.º — Informação e formação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Informação e formação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Informação e formação dos trabalhadores\n\n1.\n\nA entidade patronal deve tomar as medidas adequadas para que os trabalhadores e/ou os seus representantes na empresa ou no estabelecimento recebam uma formação simultaneamente suficiente e adequada, com base em todos os dados disponíveis, nomeadamente sob a forma de informações e instruções, sobre:\n\na) Os riscos potenciais para a saúde, incluindo os riscos adicionais resultantes do consumo de tabaco;\n\nb) As precauções a tomar para evitar a exposição;\n\nc) As normas de higiene;\n\nd) O emprego e a utilização dos equipamentos e do vestuário de protecção;\n\ne) As medidas a tomar pelos trabalhadores, nomeadamente pelo pessoal de intervenção, em caso de incidente e para a prevenção de incidentes.\n\nEsta formação deve ser:\n\n— adaptada à evolução dos riscos e ao aparecimento de novos riscos, em especial no caso dos trabalhadores expostos ou suscetíveis de estarem expostos a novos agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução ou a diversos agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução, incluindo os contidos em medicamentos perigosos, ou em caso de alteração das circunstâncias relacionadas com o trabalho,\n\n— disponibilizada periodicamente em contextos de prestação de cuidados de saúde para todos os trabalhadores expostos a agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução, em particular quando são utilizados novos medicamentos perigosos que contenham esses agentes ou substâncias, e\n\n— periodicamente repetida noutros contextos, se necessário.\n\n2. A entidade patronal deve prestar aos trabalhadores informações sobre as instalações e os recipientes a elas anexos que contenham agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução, assegurar que todos os recipientes, embalagens e instalações contendo agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução sejam rotulados de forma clara e legível e afixar sinais de perigo bem visíveis.\n\nNos casos em que tenha sido indicado no anexo III-A um valor-limite biológico, a vigilância médica constituirá um requisito obrigatório para trabalhar com o agente cancerígeno ou mutagénico em questão ou com a substância tóxica para a reprodução em questão, de acordo com os procedimentos indicados no referido anexo. Os trabalhadores devem ser informados desse requisito antes de lhes serem atribuídas funções que impliquem o risco de exposição aos agentes cancerígenos ou mutagénicos ou às substâncias tóxicas para a reprodução indicadas."
+  },
+  "217cc7c9ed1140f2": {
+   "fragment_id": "Artigo 14.º — Vigilância médica",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Vigilância médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Vigilância médica\n\n1. Os Estados-Membros estabelecem, em conformidade com o direito ou as práticas nacionais, medidas para assegurar uma vigilância médica adequada dos trabalhadores relativamente aos quais os resultados da avaliação referida no artigo 3.º, n.º 2, revelem um risco para a sua saúde ou a sua segurança. O médico ou a autoridade responsável pela vigilância médica dos trabalhadores pode indicar que a vigilância médica deve prosseguir após o termo da exposição, durante o tempo que considerarem ser necessário para preservar a saúde do trabalhador em causa.\n\n2.\n\nAs medidas referidas no n.º 1 devem ser de natureza a permitir que todos os trabalhadores possam ser submetidos, quando se justifique, a uma vigilância médica adequada:\n\n— antes da exposição,\n\n— posteriormente, a intervalos regulares.\n\nEssas medidas devem permitir a aplicação directa de medidas médicas individuais e de medicina do trabalho.\n\n3. Se um trabalhador for atingido por uma anomalia que possa ter sido provocada pela exposição a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução, ou se tiver sido excedido um valor-limite biológico, o médico ou a autoridade responsável pela vigilância médica dos trabalhadores pode exigir que outros trabalhadores que tenham estado sujeitos a uma exposição análoga sejam submetidos à vigilância médica.\n\nNesse caso, procede-se a uma nova avaliação do risco de exposição, nos termos do n.º 2 do artigo 3.º\n\n4. Sempre que seja realizada uma vigilância médica, será aberto um boletim individual de saúde e o médico ou a autoridade responsável pela vigilância médica proporá todas as medidas individuais de proteção ou de prevenção a tomar em relação a todos os trabalhadores. A vigilância médica pode incluir o controlo biológico e requisitos conexos.\n\n5. Devem ser fornecidos aos trabalhadores informações e conselhos relativos à vigilância médica a que possam ser submetidos após a cessação da exposição.\n\n6.\n\nNos termos das legislações e/ou práticas nacionais:\n\n— os trabalhadores têm acesso aos resultados da vigilância médica que lhes diga respeito, e\n\n— os trabalhadores em causa ou a entidade patronal podem pedir a revisão dos resultados da vigilância médica.\n\n7. Constam do anexo II recomendações práticas relativas à vigilância médica dos trabalhadores.\n\n8. Todos os casos de cancro, de efeitos adversos na função sexual e na fertilidade em homens e mulheres adultos ou de toxicidade para o desenvolvimento dos descendentes que, em conformidade com o direito ou as práticas nacionais, tenham sido identificados como sendo resultantes da exposição profissional a um agente cancerígeno, mutagénico ou a uma substância tóxica para a reprodução devem ser notificados à autoridade competente.\n\nOs Estados-Membros tomam em conta as informações previstas no presente número nos seus relatórios apresentados à Comissão nos termos do artigo 17.º-A da Diretiva 89/391/CEE."
+  },
+  "82e40f4928edfd5c": {
+   "fragment_id": "Artigo 15.º — Registos",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Registos\n\n1. No caso dos agentes cancerígenos ou mutagénicos, a lista referida no artigo 12.º, alínea c), e o boletim de saúde referido no artigo 14.º, n.º 4, devem ser conservados durante pelo menos 40 anos após a cessação da exposição, nos termos do direito ou prática nacionais.\n\n1-A. No caso das substâncias tóxicas para a reprodução, a lista referida no artigo 12.º, alínea c), e o boletim de saúde referido no artigo 14.º, n.º 4, devem ser conservados durante pelo menos cinco anos após a cessação da exposição, nos termos do direito ou prática nacionais.\n\n2. Esses documentos devem ser postos à disposição das autoridades responsáveis em caso de cessação de actividades da empresa, nos termos da legislação e/ou prática nacionais."
+  },
+  "a23d371df9a4056f": {
+   "fragment_id": "Artigo 16.º — Valores-limite",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Valores-limite",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Valores-limite\n\n1. Com base na informação disponível, incluindo dados científicos e técnicos, o Parlamento Europeu e o Conselho estabelecem valores-limite por meio de diretivas, nos termos do artigo 153.º, n.º 2, alínea b), do Tratado sobre o Funcionamento da União Europeia (TFUE), relativamente a todos os agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução para os quais isso seja possível e, quando necessário, outras disposições diretamente relacionadas.\n\n2. Os valores-limite e as outras disposições directamente relacionadas constam do anexo III.\n\n3. Com base na informação disponível, incluindo dados científicos e técnicos, o Parlamento Europeu e o Conselho estabelecem valores-limite biológicos por meio de diretivas, nos termos do artigo 153.º, n.º 2, alínea b), do TFUE, juntamente com outras informações pertinentes em matéria de vigilância médica.\n\n4. Os valores-limite biológicos e as outras informações pertinentes em matéria de vigilância médica constam do anexo III-A."
+  },
+  "dcf349eec7ba24c0": {
+   "fragment_id": "Artigo 16.º-A — Identificação de substâncias tóxicas para a reprodução sujeitas ou não sujeitas a um limiar",
+   "type": "artigo",
+   "heading": "Artigo 16.º-A — Identificação de substâncias tóxicas para a reprodução sujeitas ou não sujeitas a um limiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º-A — Identificação de substâncias tóxicas para a reprodução sujeitas ou não sujeitas a um limiar\n\nCom base nos dados científicos e técnicos disponíveis, o Parlamento Europeu e o Conselho identificam, na coluna de notações do anexo III da presente diretiva, se uma substância tóxica para a reprodução está ou não sujeita a um limiar, de acordo com o procedimento previsto no artigo 153.º, n.º 2, alínea b), do TFUE."
+  },
+  "cdb9f25eff578185": {
+   "fragment_id": "Artigo 17.º — Alteração do anexo II",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Alteração do anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alteração do anexo II\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 17.º-A no que diz respeito à introdução de alterações estritamente técnicas no anexo II, a fim de ter em conta o progresso técnico, a evolução das regulamentações e especificações internacionais e os novos conhecimentos no domínio dos agentes cancerígenos, mutagénicos ou das substâncias tóxicas para a reprodução.\n\nSempre que, em casos excecionais e devidamente justificados que comportam riscos iminentes, diretos e graves para a saúde e a segurança físicas dos trabalhadores e de outras pessoas, existam imperativos de urgência que exijam uma ação num prazo muito curto, aplica-se o procedimento previsto no artigo 17.º-B aos atos delegados adotados nos termos do presente artigo."
+  },
+  "093eb0d6710c03fa": {
+   "fragment_id": "Artigo 17.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 17.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 17.º é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 17.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^3^](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0003)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 17.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "3776c953af78770d": {
+   "fragment_id": "Artigo 18.º-A — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 18.º-A — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-A — Avaliação\n\nA Comissão avalia também, como parte da próxima avaliação da execução da presente diretiva no contexto da avaliação referida no artigo 17.º-A da Diretiva 89/391/CEE, a necessidade de alterar o valor-limite para a poeira de sílica cristalina respirável. A Comissão lança este processo em 2022 e, se for caso disso, propõe ulteriormente as alterações e modificações necessárias relativas a essa substância numa revisão subsequente da presente diretiva.\n\nO mais tardar até 11 de julho de 2022, a Comissão pondera a possibilidade de alterar a presente diretiva, a fim de introduzir disposições relativas à combinação de um limite de exposição profissional no ar e um valor-limite biológico para o cádmio e seus compostos inorgânicos.\n\nO mais tardar até 31 de dezembro de 2022, se for caso disso, após consulta do Comité Consultivo para a Segurança e a Saúde no Local de Trabalho (CCSST), a Comissão, tendo em conta as recomendações existentes de diferentes agências, de partes interessadas e da Organização Mundial da Saúde sobre os agentes cancerígenos, mutagénicos e as substâncias tóxicas para a reprodução prioritários para os quais são necessários valores-limite, apresenta um plano de ação para estabelecer valores-limite de exposição profissional novos ou revistos para, pelo menos, 25 substâncias, grupos de substâncias ou substâncias geradas por processos. Se necessário, tendo em conta o plano de ação e os mais recentes desenvolvimentos do conhecimento científico após consulta com o CCSST, a Comissão apresenta propostas legislativas nos termos do artigo 16.º, sem demora.\n\nSe for caso disso, e o mais tardar 5 de abril de 2025, tendo em conta os mais recentes desenvolvimentos do conhecimento científico e após consulta adequada das partes interessadas, a Comissão elabora uma definição, e estabelece uma lista indicativa, dos medicamentos perigosos ou das substâncias nestes contidas, que preenchem os requisitos para ser classificados como agente cancerígeno de categorias 1A ou 1B previstos no Anexo I do Regulamento (CE) n.º 1272/2008, como agente mutagénico ou como substância tóxica para a reprodução.\n\nO mais tardar em 31 de dezembro de 2022, a Comissão, após consulta adequada das partes interessadas pertinentes, elabora orientações da União para a preparação, administração e eliminação de medicamentos perigosos no local de trabalho. Essas orientações são publicadas no sítio Web da EU-OSHA e divulgadas em todos os Estados-Membros pelas autoridades competentes relevantes.\n\nSe for caso disso, na sequência da receção do parecer do CCSST, a Comissão, tendo em conta a metodologia existente para estabelecer valores-limite para agentes cancerígenos em alguns Estados-Membros e o parecer do CCSST, estabelece os níveis de risco superior e inferior. O mais tardar 12 meses após a receção de parecer pelo CCSST, a Comissão, após consulta adequada das partes interessadas pertinentes, define orientações da União sobre a metodologia para estabelecer valores-limite baseados no risco. Essas orientações são publicadas no sítio Web da EU-OSHA e divulgadas em todos os Estados-Membros pelas autoridades competentes relevantes.\n\nO mais tardar até 31 de dezembro de 2024, a Comissão, tendo em conta os mais recentes desenvolvimentos do conhecimento científico e após consulta adequada das partes interessadas, propõe, se for caso disso, um valor-limite para o cobalto e para os compostos de cobalto inorgânicos."
+  },
+  "c5df1f72ca6a66ba": {
+   "fragment_id": "[alínea a) iii) do artigo 2.º]",
+   "type": "divisao",
+   "heading": "[alínea a) iii) do artigo 2.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [alínea a) iii) do artigo 2.º]\n\n1. Fabrico de auramina.\n\n2. Trabalhos que impliquem a exposição a hidrocarbonetos policíclicos aromáticos presentes na fuligem da hulha, no alcatrão da hulha ou pez de hulha.\n\n3. Trabalhos susceptíveis de provocar a exposição às poeiras, fumos ou névoas produzidos durante a calcinação e a electro-refinação de mates de níquel.\n\n4. Processo do ácido forte durante o fabrico do álcool isopropílico.\n\n5. Trabalhos susceptíveis de provocar a exposição a pó de madeira de folhosas ([^4^](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0004)).\n\n6. Trabalhos que impliquem a [**►C2**](http://publications.europa.eu/resource/celex/32017L2398R%2802%29) exposição a poeira de sílica cristalina respirável resultante**◄** de um processo de trabalho.\n\n7. Trabalhos que impliquem a exposição cutânea a óleos minerais que tenham sido previamente utilizados em motores de combustão interna para lubrificar e arrefecer as peças móveis dentro do motor.\n\n8. Trabalhos que impliquem a exposição a emissões de gases de escape dos motores diesel."
+  },
+  "c9e89515447200a1": {
+   "fragment_id": "(n.º 7 do artigo 14.º)",
+   "type": "divisao",
+   "heading": "(n.º 7 do artigo 14.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (n.º 7 do artigo 14.º)\n\n1. O médico e/ou a entidade responsável pela vigilância médica dos trabalhadores expostos a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução devem conhecer bem as condições ou circunstâncias de exposição de cada trabalhador.\n\n2. A vigilância médica dos trabalhadores deve ser assegurada de acordo com os princípios e práticas da medicina do trabalho; e deve incluir pelo menos as seguintes medidas:\n\n— registo da história clínica e profissional de cada trabalhador,\n\n— entrevista pessoal,\n\n— eventualmente, vigilância biológica, bem como rastreio de efeitos precoces e reversíveis."
+  },
+  "696e0aaa2e84d3ec": {
+   "fragment_id": "A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL",
+   "type": "divisao",
+   "heading": "A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL\n\n| Nome do agente | N.º CE [(^1^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0005) | N.º CAS [(^2^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0006) | Valores-limite | Notação | Medidas transitórias |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 8 horas [(^3^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0007) | Curta duração [(^4^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0008) |  |  |  |  |  |  |  |  |  |\n| mg/m^3^ [(^5^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0009) | ppm [(^6^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0010) | f/ml [(^7^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0011) | mg/m^3^ [(^5^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0009) | ppm [(^6^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0010) | f/ml [(^7^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0011) |  |  |  |  |  |\n| Poeira de madeira de folhosas | — | — | 2 [(^8^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0012) | — | — | — | — | — | — | Valor-limite 3 mg/m^3^ até 17 de janeiro de 2023 |\n| Compostos de crómio (VI) que são agentes cancerígenos na aceção do artigo 2.º, alínea a), subalínea i) (como crómio) | — | — | 0,005 | — | — | — | — | — | — | Valor-limite 0,010 mg/m^3^ até 17 de janeiro de 2025 Valor-limite: 0,025 mg/m^3^ para processos de soldadura ou corte por plasma ou processos similares que produzam fumos até 17 de janeiro de 2025 |\n| Fibras de materiais cerâmicos refratários que são agentes cancerígenos na aceção do artigo 2.º, alínea a), subalínea i) | — | — | — | — | 0,3 | — | — | — | — |  |\n| Poeira de sílica cristalina respirável | — | — | 0,1 [(^9^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0013) | — | — | — | — | — | — |  |\n| [▼M6](http://publications.europa.eu/resource/celex/32022L0431) |  |  |  |  |  |  |  |  |  |  |\n| Benzeno | 200-753-7 | 71-43-2 | 0,66 | 0,2 | – | – | – | – | Pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) | Valor-limite: 1 ppm (3,25 mg/m^3^) até 5 de abril de 2024. Valor-limite: 0,5 ppm (1,65 mg/m^3^) desde 5 de abril de 2024 até 5 de abril de 2026. |\n| [▼M3](http://publications.europa.eu/resource/celex/32019L0130) |  |  |  |  |  |  |  |  |  |  |\n| Cloreto de vinilo monómero | 200-831-0 | 75-01-4 | 2,6 | 1 | — | — | — | — | — |  |\n| Óxido de etileno | 200-849-9 | 75-21-8 | 1,8 | 1 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| 1,2-Epoxipropano | 200-879-2 | 75-56-9 | 2,4 | 1 | — | — | — | — | — |  |\n| Tricloroetileno | 201-167-4 | 79-01-6 | 54,7 | 10 | — | 164,1 | 30 | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| Acrilamida | 201-173-7 | 79-06-1 | 0,1 | — | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| 2-Nitropropano | 201-209-1 | 79-46-9 | 18 | 5 | — | — | — | — | — |  |\n| o-Toluidina | 202-429-0 | 95-53-4 | 0,5 | 0,1 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| 4,4′-Metilenodianilina | 202-974-4 | 101-77-9 | 0,08 | — | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| Epicloridrina | 203-439-8 | 106-89-8 | 1,9 | — | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| Dibrometo de etileno | 203-444-5 | 106-93-4 | 0,8 | 0,1 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| 1,3-Butadieno | 203-450-8 | 106-99-0 | 2,2 | 1 | — | — | — | — | — |  |\n| Dicloreto de etileno | 203-458-1 | 107-06-2 | 8,2 | 2 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| Hidrazina | 206-114-9 | 302-01-2 | 0,013 | 0,01 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| Bromoetileno | 209-800-6 | 593-60-2 | 4,4 | 1 | — | — | — | — | — |  |\n| Emissões de gases de escape dos motores diesel |  |  | 0,05 [(^*1^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0021) |  |  |  |  |  |  | O valor-limite é aplicável a partir de 21 de fevereiro de 2023. No caso da indústria extrativa subterrânea e da construção de túneis, o valor-limite é aplicável a partir de 21 de fevereiro de 2026. |\n| Misturas de hidrocarbonetos aromáticos policíclicos, em especial as que contenham [benzo[a]pireno], que sejam agentes cancerígenos na aceção da presente diretiva |  |  |  |  |  |  |  |  | pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| Óleos minerais que tenham sido previamente utilizados em motores de combustão interna para lubrificar e arrefecer as partes móveis dentro do motor |  |  |  |  |  |  |  |  | pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| [▼M4](http://publications.europa.eu/resource/celex/32019L0983) |  |  |  |  |  |  |  |  |  |  |\n| Cádmio e seus compostos inorgânicos | — | — | 0,001 [(^11^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0015) | — | — | — | — | — |  | Valor-limite 0,004 mg/m^3^ [(^12^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0016) até 11 de julho de 2027. |\n| Berílio e compostos inorgânicos de berílio | — | — | 0,0002 [(^11^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0015) | — | — | — | — | — | sensibilização cutânea e respiratória [(^13^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0017) | Valor-limite 0,0006 mg/m^3^ até 11 de julho de 2026. |\n| Ácido arsénico e seus sais, bem como compostos inorgânicos de arsénio | — | — | 0,01 [(^11^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0015) | — | — | — | — | — | — | Para o setor da fundição de cobre, o valor-limite é aplicável a partir de 11 de julho de 2023. |\n| Formaldeído | 200-001-8 | 50-00-0 | 0,37 | 0,3 | — | 0,74 | 0,6 | — | sensibilização cutânea [(^14^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0018) | Valor-limite de 0,62 mg/m^3^ ou de 0,5 ppm [(^3^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0007) para os setores dos cuidados de saúde, funerário e de embalsamamento até 11 de julho de 2024. |\n| 4,4′-Metileno-bis(2-cloroanilina) | 202-918-9 | 101-14-4 | 0,01 | — | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| [▼M6](http://publications.europa.eu/resource/celex/32022L0431) |  |  |  |  |  |  |  |  |  |  |\n| Acrilonitrilo | 203-466-5 | 107-13-1 | 1 | 0,45 | – | 4 | 1,8 | – | Pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) Sensibilização cutânea [(^14^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0018) | Os valores-limite são aplicáveis a partir de 5 de abril de 2026. |\n| Compostos de níquel | – | – | 0,01 [(^15^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0019) 0,05 [(^16^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0020) | – | – | – | – | – | Sensibilização cutânea e respiratória [(^13^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0017) | O valor-limite [(^15^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0019) é aplicável a partir de 18 de janeiro de 2025. O valor-limite [(^16^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0020) é aplicável a partir de 18 de janeiro de 2025. Até essa data, aplicar-se-á um valor-limite de 0,1 mg/m^3^ [(^16^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0020). |\n| Chumbo metálico e respetivos compostos |  |  | 0,15 |  |  |  |  |  |  |  |\n| N,N-Dimetilacetamida | 204-826-4 | 127-19-5 | 36 | 10 |  | 72 | 20 |  | Pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| Nitrobenzeno | 202-716-0 | 98-95-3 | 1 | 0,2 |  |  |  |  | Pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| N,N Dimetilformamida | 200-679-5 | 68-12-2 | 15 | 5 |  | 30 | 10 |  | Pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| 2-Metoxietanol | 203-713-7 | 109-86-4 |  | 1 |  |  |  |  | Pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| Acetato de 2-metoxietilo | 203-772-9 | 110-49-6 |  | 1 |  |  |  |  | Pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| 2-Etoxietanol | 203-804-1 | 110-80-5 | 8 | 2 |  |  |  |  | Pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| Acetato de 2-etoxietilo | 203-839-2 | 111-15-9 | 11 | 2 |  |  |  |  | Pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| 1-Metil-2-pirrolidona | 212-828-1 | 872-50-4 | 40 | 10 |  | 80 | 20 |  | Pele [(^10^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0014) |  |\n| Mercúrio e compostos inorgânicos divalentes de mercúrio, incluindo o óxido mercúrico e o cloreto mercúrico (medidos como mercúrio) |  |  | 0,02 |  |  |  |  |  |  |  |\n| Bisfenol A; 4,4′-isopropilidenodifenol | 201-245-8 | 80-05-7 | 2 [(^11^)](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0015) |  |  |  |  |  |  |  |\n| Monóxido de carbono | 211-128-3 | 630-08-0 | 23 | 20 |  | 117 | 100 |  |  |  |\n| [▼M3](http://publications.europa.eu/resource/celex/32019L0130) |  |  |  |  |  |  |  |  |  |  |\n| (^1^) N.º CE, ou seja, EINECS, ELINCS ou NLP: número oficial da substância na União Europeia, na aceção do anexo VI, parte 1, ponto 1.1.1.2, do Regulamento (CE) n.º 1272/2008. (^2^) N.º CAS: número de registo do Chemical Abstract Service. (^3^) Medidos ou calculados em relação a um período de referência de oito horas em média ponderada no tempo (TWA). (^4^) Limite de exposição de curta duração (STEL): valor-limite acima do qual não deve haver exposição e que se refere a um período de 15 minutos, salvo indicação em contrário. (^5^) mg/m^3^ = miligramas por metro cúbico de ar a 20 ºC e a 101,3 kPa (pressão de 760 mm de mercúrio). (^6^) ppm = partes por milhão em volume no ar (ml/m^3^). (^7^) f/ml = fibras por mililitro. (^8^) Fração inalável: se a poeira de madeira de folhosas estiver misturada com outras poeiras de madeira, o valor-limite aplicar-se-á a todas as poeiras de madeira presentes nessa mistura. (^9^) Fração respirável. (^10^) Possibilidade de contribuição considerável para a carga corporal total devido à exposição cutânea. [**►M4**](http://publications.europa.eu/resource/celex/32019L0983) (^11^) Fração inalável. (^12^) Fração inalável. Fração respirável nos Estados–Membros que apliquem, à data de entrada em vigor da presente diretiva, um sistema de biomonitorização com um valor–limite biológico que não exceda 0,002 mg de creatinina na urina. (^13^) A substância pode causar sensibilização da pele e das vias respiratórias. (^14^) A substância pode causar sensibilização da pele. **◄** (^15^) Fração respirável, medida em níquel. (^16^) Fração inalável, medida em níquel. (^*1^) Medidas sob a forma de carbono elementar. |  |  |  |  |  |  |  |  |  |  |"
+  },
+  "cd9f9a68fe149744": {
+   "fragment_id": "B. OUTRAS DISPOSIÇÕES DIRETAMENTE RELACIONADAS",
+   "type": "divisao",
+   "heading": "B. OUTRAS DISPOSIÇÕES DIRETAMENTE RELACIONADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### B. OUTRAS DISPOSIÇÕES DIRETAMENTE RELACIONADAS\n\np.m."
+  },
+  "65cdf3c6401dd218": {
+   "fragment_id": "ANEXO III-A",
+   "type": "divisao",
+   "heading": "ANEXO III-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III-A"
+  },
+  "d3753f9bd545a0ad": {
+   "fragment_id": "VALORES-LIMITE BIOLÓGICOS E MEDIDAS DE VIGILÂNCIA MÉDICA",
+   "type": "divisao",
+   "heading": "VALORES-LIMITE BIOLÓGICOS E MEDIDAS DE VIGILÂNCIA MÉDICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VALORES-LIMITE BIOLÓGICOS E MEDIDAS DE VIGILÂNCIA MÉDICA"
+  },
+  "e58d5c8945d2d898": {
+   "fragment_id": "(Artigo 16.º, n.º 4)",
+   "type": "divisao",
+   "heading": "(Artigo 16.º, n.º 4)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (Artigo 16.º, n.º 4)\n\n1. Chumbo e respetivos compostos iónicos\n\n1.1. O controlo biológico incluirá a medição da plumbemia (PbB), utilizando a espetroscopia de absorção atómica ou um método equivalente. O valor-limite biológico obrigatório é de:\n\n1.2. A vigilância médica será efetuada caso a exposição a uma concentração de chumbo na atmosfera seja superior a 0,075 mg/m^3^, sendo este valor a média ponderada em função do tempo calculada ao longo de 40 horas por semana, ou se as taxas individuais de plumbemia forem superiores a 40 μg Pb/100 ml de sangue."
+  },
+  "0502f0d4878ff3ea": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Diretiva 2009/148/CE do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho (JO L 330 de 16.12.2009, p. 28).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas, que altera e revoga as Diretivas 67/548/CEE e 1999/45/CE, e altera o Regulamento (CE) n.º 1907/2006 (JO L 353 de 31.12.2008, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#src.E0003)) JO L 123 de 12.5.2016, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ea141693-bab3-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#src.E0004)) O volume 62 das monografias relativas à avaliação dos riscos de cancro nos seres humanos «Pós de madeira e formaldeído», publicado pelo Centro Internacional de Investigação do Cancro, Lyon, 1995, contém uma lista de algumas folhosas."
+  },
+  "bc0426d30829b306": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nrelativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução durante o trabalho (sexta diretiva especial nos termos do artigo 16.º, n.º 1, da Diretiva 89/391/CEE do Conselho)\n\n(versão codificada)\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "74386e64f39a5d68": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. A presente diretiva tem por objeto a proteção dos trabalhadores contra os riscos para as suas segurança e saúde resultantes ou suscetíveis de resultar da exposição a agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução durante o trabalho, incluindo a prevenção de tais riscos.\n\nA presente directiva fixa as prescrições mínimas especiais neste domínio, incluindo valores-limite.\n\n2. A presente directiva não se aplica aos trabalhadores expostos apenas às radiações a que alude o Tratado que institui a Comunidade Europeia da Energia Atómica.\n\n3. A Directiva 89/391/CEE aplica-se plenamente ao conjunto do domínio referido no n.º 1, sem prejuízo de disposições mais restritivas e/ou específicas da presente directiva.\n\n4. Em relação ao amianto, que é objeto da Diretiva 2009/148/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0001)), é aplicável o disposto na presente diretiva sempre que seja mais favorável à saúde e à segurança no local de trabalho."
+  },
+  "307a9bc660bd8acf": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por\n\na) «Agente cancerígeno»:\n\ni) qualquer substância ou mistura que preencha os requisitos para ser classificada como agente cancerígeno das categorias 1A ou 1B, previstos no Anexo I do Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0002)),\n\nii) qualquer substância, mistura ou processo referidos no Anexo I da presente diretiva, assim como qualquer substância ou mistura resultante de um processo referido nesse anexo;\n\nb) «Agente mutagénico»:\n\ni) qualquer substância ou mistura que preencha os requisitos para ser classificada como agente mutagénico de células germinativas das categorias 1A ou 1B, previstas no anexo I do Regulamento (CE) n.º 1272/2008,\n\nii) qualquer substância, mistura ou processo referido no anexo I da presente diretiva, assim como qualquer substância ou mistura resultante de um processo referido nesse anexo;\n\nb-A) «Substância tóxica para a reprodução», qualquer substância ou mistura que preencha os requisitos para ser classificada como substância tóxica para a reprodução das categorias 1A ou 1B, previstos no anexo I do Regulamento (CE) n.º 1272/2008;\n\nb-B) «Substância tóxica para a reprodução não sujeita a um limiar», qualquer substância tóxica para a reprodução relativamente à qual não existe um nível de exposição seguro para a saúde dos trabalhadores e que seja identificada como tal na coluna de notação do anexo III;\n\nb-C) «Substância tóxica para a reprodução sujeita a um limiar», qualquer substância tóxica para a reprodução para a qual existe um nível seguro de exposição abaixo do qual não existe qualquer risco para a saúde dos trabalhadores e que seja identificada como tal na coluna de notação do anexo III;\n\nc) «Valor-limite», salvo indicação em contrário, o limite da média ponderada em função do tempo de concentração de um agente cancerígeno, mutagénico ou de uma substância tóxica para a reprodução no ar respirado por um trabalhador durante um período de referência específico estabelecido no anexo III;\n\nd) «Valor-limite biológico», o limite de concentração no meio biológico adequado do agente em causa, dos seus metabolitos ou de um indicador de efeito;\n\ne) «Vigilância médica», o exame de um trabalhador com o objetivo de determinar o seu estado de saúde relacionado com a exposição, no local de trabalho, a agentes cancerígenos, mutagénicos específicos ou a substâncias tóxicas para a reprodução específicas."
+  },
+  "be376ef1d869e88c": {
+   "fragment_id": "Artigo 17.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 17.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 17.º é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 17.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^3^](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0003)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 17.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "73a5b59fa1896a1f": {
+   "fragment_id": "Artigo 18.º-A — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 18.º-A — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-A — Avaliação\n\n[**►M7**](http://publications.europa.eu/resource/celex/32024L0869) 1.**◄** A Comissão avalia também, como parte da próxima avaliação da execução da presente diretiva no contexto da avaliação referida no artigo 17.º-A da Diretiva 89/391/CEE, a necessidade de alterar o valor-limite para a poeira de sílica cristalina respirável. A Comissão lança este processo em 2022 e, se for caso disso, propõe ulteriormente as alterações e modificações necessárias relativas a essa substância numa revisão subsequente da presente diretiva.\n\n[**►M7**](http://publications.europa.eu/resource/celex/32024L0869) 2.**◄** O mais tardar até 11 de julho de 2022, a Comissão pondera a possibilidade de alterar a presente diretiva, a fim de introduzir disposições relativas à combinação de um limite de exposição profissional no ar e um valor-limite biológico para o cádmio e seus compostos inorgânicos.\n\n[**►M7**](http://publications.europa.eu/resource/celex/32024L0869) 3.**◄** O mais tardar até 31 de dezembro de 2022, se for caso disso, após consulta do Comité Consultivo para a Segurança e a Saúde no Local de Trabalho (CCSST), a Comissão, tendo em conta as recomendações existentes de diferentes agências, de partes interessadas e da Organização Mundial da Saúde sobre os agentes cancerígenos, mutagénicos e as substâncias tóxicas para a reprodução prioritários para os quais são necessários valores-limite, apresenta um plano de ação para estabelecer valores-limite de exposição profissional novos ou revistos para, pelo menos, 25 substâncias, grupos de substâncias ou substâncias geradas por processos. Se necessário, tendo em conta o plano de ação e os mais recentes desenvolvimentos do conhecimento científico após consulta com o CCSST, a Comissão apresenta propostas legislativas nos termos do artigo 16.º, sem demora.\n\n[**►M7**](http://publications.europa.eu/resource/celex/32024L0869) 4.**◄** Se for caso disso, e o mais tardar 5 de abril de 2025, tendo em conta os mais recentes desenvolvimentos do conhecimento científico e após consulta adequada das partes interessadas, a Comissão elabora uma definição, e estabelece uma lista indicativa, dos medicamentos perigosos ou das substâncias nestes contidas, que preenchem os requisitos para ser classificados como agente cancerígeno de categorias 1A ou 1B previstos no Anexo I do Regulamento (CE) n.º 1272/2008, como agente mutagénico ou como substância tóxica para a reprodução.\n\n[**►M7**](http://publications.europa.eu/resource/celex/32024L0869) 5.**◄** O mais tardar em 31 de dezembro de 2022, a Comissão, após consulta adequada das partes interessadas pertinentes, elabora orientações da União para a preparação, administração e eliminação de medicamentos perigosos no local de trabalho. Essas orientações são publicadas no sítio Web da EU-OSHA e divulgadas em todos os Estados-Membros pelas autoridades competentes relevantes.\n\n[**►M7**](http://publications.europa.eu/resource/celex/32024L0869) 6.**◄** Se for caso disso, na sequência da receção do parecer do CCSST, a Comissão, tendo em conta a metodologia existente para estabelecer valores-limite para agentes cancerígenos em alguns Estados-Membros e o parecer do CCSST, estabelece os níveis de risco superior e inferior. O mais tardar 12 meses após a receção de parecer pelo CCSST, a Comissão, após consulta adequada das partes interessadas pertinentes, define orientações da União sobre a metodologia para estabelecer valores-limite baseados no risco. Essas orientações são publicadas no sítio Web da EU-OSHA e divulgadas em todos os Estados-Membros pelas autoridades competentes relevantes.\n\n[**►M7**](http://publications.europa.eu/resource/celex/32024L0869) 7.**◄** O mais tardar até 31 de dezembro de 2024, a Comissão, tendo em conta os mais recentes desenvolvimentos do conhecimento científico e após consulta adequada das partes interessadas, propõe, se for caso disso, um valor-limite para o cobalto e para os compostos de cobalto inorgânicos.\n\n8. Até 30 de junho de 2024, a Comissão dá início a uma avaliação dos efeitos da exposição a uma combinação de substâncias com vista a elaborar orientações da União sobre essa questão, se for caso disso. A Comissão tem em conta a evolução mais recente dos conhecimentos científicos, o parecer do Comité de Avaliação dos Riscos da Agência Europeia dos Produtos Químicos, criado pelo Regulamento (CE) n.º 1907/2006 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0004)), o parecer do CCSST e as melhores práticas nos Estados-Membros, e procede às consultas adequadas das partes interessadas pertinentes. Essas orientações são publicadas no sítio Web da EU-OSHA e divulgadas em todos os Estados-Membros pelas autoridades competentes relevantes.\n\n9. Até 9 de abril de 2026, a Comissão dá início ao procedimento para obter uma avaliação científica dos desreguladores endócrinos suscetíveis de afetar a saúde e a segurança dos trabalhadores, com vista a avaliar a conveniência de os incluir no âmbito de aplicação da presente diretiva, a fim de proteger melhor a saúde e a segurança dos trabalhadores. Se for caso disso, e após consulta ao CCSST, a Comissão apresenta uma proposta legislativa.\n\n10. No contexto da sua avaliação, nos termos do artigo 17.º-A, n.º 4, da Diretiva 89/391/CEE, a Comissão avalia, até 9 de abril de 2029, os valores-limite de exposição profissional para o chumbo e os seus compostos inorgânicos. Se for caso disso, tendo em conta a evolução mais recente dos conhecimentos científicos e após consulta ao CCSST, a Comissão apresenta uma proposta legislativa de alteração desses valores-limite.\n\n11. Até 9 de abril de 2026, e após consulta adequada às partes interessadas pertinentes, a Comissão elabora orientações da União para a vigilância médica, incluindo o controlo biológico. Essas orientações devem incluir aconselhamento quanto à aplicação das disposições relativas ao nível de chumbo no sangue, tendo em conta a lentidão da eliminação do chumbo do organismo e a proteção especial das trabalhadoras em idade fértil."
+  },
+  "4c69b606b7938ad0": {
+   "fragment_id": "Lista de substâncias, misturas e processos [artigo 2.º, alínea a), subalínea ii), e alínea b), subalínea ii)]",
+   "type": "divisao",
+   "heading": "Lista de substâncias, misturas e processos [artigo 2.º, alínea a), subalínea ii), e alínea b), subalínea ii)]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de substâncias, misturas e processos [artigo 2.º, alínea a), subalínea ii), e alínea b), subalínea ii)]\n\n1. Fabrico de auramina.\n\n2. Trabalhos que impliquem a exposição a hidrocarbonetos policíclicos aromáticos presentes na fuligem da hulha, no alcatrão da hulha ou pez de hulha.\n\n3. Trabalhos susceptíveis de provocar a exposição às poeiras, fumos ou névoas produzidos durante a calcinação e a electro-refinação de mates de níquel.\n\n4. Processo do ácido forte durante o fabrico do álcool isopropílico.\n\n5. Trabalhos susceptíveis de provocar a exposição a pó de madeira de folhosas ([^5^](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0005)).\n\n6. Trabalhos que impliquem a [**►C2**](http://publications.europa.eu/resource/celex/32017L2398R%2802%29) exposição a poeira de sílica cristalina respirável resultante**◄** de um processo de trabalho.\n\n7. Trabalhos que impliquem a exposição cutânea a óleos minerais que tenham sido previamente utilizados em motores de combustão interna para lubrificar e arrefecer as peças móveis dentro do motor.\n\n8. Trabalhos que impliquem a exposição a emissões de gases de escape dos motores diesel."
+  },
+  "6ec2471cf6fa211b": {
+   "fragment_id": "A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL",
+   "type": "divisao",
+   "heading": "A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL\n\n| Nome do agente | N.º CE [(^1^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0006) | N.º CAS [(^2^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0007) | Valores-limite | Notação | Medidas transitórias |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 8 horas [(^3^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0008) | Curta duração [(^4^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0009) |  |  |  |  |  |  |  |  |  |\n| mg/m^3^ [(^5^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0010) | ppm [(^6^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0011) | f/ml [(^7^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0012) | mg/m^3^ [(^5^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0010) | ppm [(^6^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0011) | f/ml [(^7^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0012) |  |  |  |  |  |\n| Poeira de madeira de folhosas | — | — | 2 [(^8^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0013) | — | — | — | — | — | — | Valor-limite 3 mg/m^3^ até 17 de janeiro de 2023 |\n| Compostos de crómio (VI) que são agentes cancerígenos na aceção do artigo 2.º, alínea a), subalínea i) (como crómio) | — | — | 0,005 | — | — | — | — | — | — | Valor-limite 0,010 mg/m^3^ até 17 de janeiro de 2025 Valor-limite: 0,025 mg/m^3^ para processos de soldadura ou corte por plasma ou processos similares que produzam fumos até 17 de janeiro de 2025 |\n| Fibras de materiais cerâmicos refratários que são agentes cancerígenos na aceção do artigo 2.º, alínea a), subalínea i) | — | — | — | — | 0,3 | — | — | — | — |  |\n| Poeira de sílica cristalina respirável | — | — | 0,1 [(^9^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0014) | — | — | — | — | — | — |  |\n| [▼M6](http://publications.europa.eu/resource/celex/32022L0431) |  |  |  |  |  |  |  |  |  |  |\n| Benzeno | 200-753-7 | 71-43-2 | 0,66 | 0,2 | – | – | – | – | Pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) | Valor-limite: 1 ppm (3,25 mg/m^3^) até 5 de abril de 2024. Valor-limite: 0,5 ppm (1,65 mg/m^3^) desde 5 de abril de 2024 até 5 de abril de 2026. |\n| [▼M3](http://publications.europa.eu/resource/celex/32019L0130) |  |  |  |  |  |  |  |  |  |  |\n| Cloreto de vinilo monómero | 200-831-0 | 75-01-4 | 2,6 | 1 | — | — | — | — | — |  |\n| Óxido de etileno | 200-849-9 | 75-21-8 | 1,8 | 1 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| 1,2-Epoxipropano | 200-879-2 | 75-56-9 | 2,4 | 1 | — | — | — | — | — |  |\n| Tricloroetileno | 201-167-4 | 79-01-6 | 54,7 | 10 | — | 164,1 | 30 | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| Acrilamida | 201-173-7 | 79-06-1 | 0,1 | — | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| 2-Nitropropano | 201-209-1 | 79-46-9 | 18 | 5 | — | — | — | — | — |  |\n| o-Toluidina | 202-429-0 | 95-53-4 | 0,5 | 0,1 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| 4,4′-Metilenodianilina | 202-974-4 | 101-77-9 | 0,08 | — | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| Epicloridrina | 203-439-8 | 106-89-8 | 1,9 | — | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| Dibrometo de etileno | 203-444-5 | 106-93-4 | 0,8 | 0,1 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| 1,3-Butadieno | 203-450-8 | 106-99-0 | 2,2 | 1 | — | — | — | — | — |  |\n| Dicloreto de etileno | 203-458-1 | 107-06-2 | 8,2 | 2 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| Hidrazina | 206-114-9 | 302-01-2 | 0,013 | 0,01 | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| Bromoetileno | 209-800-6 | 593-60-2 | 4,4 | 1 | — | — | — | — | — |  |\n| Emissões de gases de escape dos motores diesel |  |  | 0,05 [(^*1^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0022) |  |  |  |  |  |  | O valor-limite é aplicável a partir de 21 de fevereiro de 2023. No caso da indústria extrativa subterrânea e da construção de túneis, o valor-limite é aplicável a partir de 21 de fevereiro de 2026. |\n| Misturas de hidrocarbonetos aromáticos policíclicos, em especial as que contenham [benzo[a]pireno], que sejam agentes cancerígenos na aceção da presente diretiva |  |  |  |  |  |  |  |  | pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| Óleos minerais que tenham sido previamente utilizados em motores de combustão interna para lubrificar e arrefecer as partes móveis dentro do motor |  |  |  |  |  |  |  |  | pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| [▼M4](http://publications.europa.eu/resource/celex/32019L0983) |  |  |  |  |  |  |  |  |  |  |\n| Cádmio e seus compostos inorgânicos | — | — | 0,001 [(^11^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0016) | — | — | — | — | — |  | Valor-limite 0,004 mg/m^3^ [(^12^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0017) até 11 de julho de 2027. |\n| Berílio e compostos inorgânicos de berílio | — | — | 0,0002 [(^11^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0016) | — | — | — | — | — | sensibilização cutânea e respiratória [(^13^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0018) | Valor-limite 0,0006 mg/m^3^ até 11 de julho de 2026. |\n| Ácido arsénico e seus sais, bem como compostos inorgânicos de arsénio | — | — | 0,01 [(^11^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0016) | — | — | — | — | — | — | Para o setor da fundição de cobre, o valor-limite é aplicável a partir de 11 de julho de 2023. |\n| Formaldeído | 200-001-8 | 50-00-0 | 0,37 | 0,3 | — | 0,74 | 0,6 | — | sensibilização cutânea [(^14^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0019) | Valor-limite de 0,62 mg/m^3^ ou de 0,5 ppm [(^3^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0008) para os setores dos cuidados de saúde, funerário e de embalsamamento até 11 de julho de 2024. |\n| 4,4′-Metileno-bis(2-cloroanilina) | 202-918-9 | 101-14-4 | 0,01 | — | — | — | — | — | pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| [▼M6](http://publications.europa.eu/resource/celex/32022L0431) |  |  |  |  |  |  |  |  |  |  |\n| Acrilonitrilo | 203-466-5 | 107-13-1 | 1 | 0,45 | – | 4 | 1,8 | – | Pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) Sensibilização cutânea [(^14^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0019) | Os valores-limite são aplicáveis a partir de 5 de abril de 2026. |\n| Compostos de níquel | – | – | 0,01 [(^15^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0020) 0,05 [(^16^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0021) | – | – | – | – | – | Sensibilização cutânea e respiratória [(^13^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0018) | O valor-limite [(^15^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0020) é aplicável a partir de 18 de janeiro de 2025. O valor-limite [(^16^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0021) é aplicável a partir de 18 de janeiro de 2025. Até essa data, aplicar-se-á um valor-limite de 0,1 mg/m^3^ [(^16^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0021). |\n| [▼M7](http://publications.europa.eu/resource/celex/32024L0869) |  |  |  |  |  |  |  |  |  |  |\n| Chumbo e seus compostos inorgânicos |  |  | 0,03 [(^11^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0016) |  |  |  |  |  | Substância tóxica para a reprodução não sujeita a um limiar |  |\n| [▼M6](http://publications.europa.eu/resource/celex/32022L0431) |  |  |  |  |  |  |  |  |  |  |\n| N,N-Dimetilacetamida | 204-826-4 | 127-19-5 | 36 | 10 |  | 72 | 20 |  | Pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| Nitrobenzeno | 202-716-0 | 98-95-3 | 1 | 0,2 |  |  |  |  | Pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| N,N Dimetilformamida | 200-679-5 | 68-12-2 | 15 | 5 |  | 30 | 10 |  | Pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| 2-Metoxietanol | 203-713-7 | 109-86-4 |  | 1 |  |  |  |  | Pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| Acetato de 2-metoxietilo | 203-772-9 | 110-49-6 |  | 1 |  |  |  |  | Pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| 2-Etoxietanol | 203-804-1 | 110-80-5 | 8 | 2 |  |  |  |  | Pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| Acetato de 2-etoxietilo | 203-839-2 | 111-15-9 | 11 | 2 |  |  |  |  | Pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| 1-Metil-2-pirrolidona | 212-828-1 | 872-50-4 | 40 | 10 |  | 80 | 20 |  | Pele [(^10^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0015) |  |\n| Mercúrio e compostos inorgânicos divalentes de mercúrio, incluindo o óxido mercúrico e o cloreto mercúrico (medidos como mercúrio) |  |  | 0,02 |  |  |  |  |  |  |  |\n| Bisfenol A; 4,4′-isopropilidenodifenol | 201-245-8 | 80-05-7 | 2 [(^11^)](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0016) |  |  |  |  |  |  |  |\n| Monóxido de carbono | 211-128-3 | 630-08-0 | 23 | 20 |  | 117 | 100 |  |  |  |\n| [▼M3](http://publications.europa.eu/resource/celex/32019L0130) |  |  |  |  |  |  |  |  |  |  |\n| (^1^) N.º CE, ou seja, EINECS, ELINCS ou NLP: número oficial da substância na União Europeia, na aceção do anexo VI, parte 1, ponto 1.1.1.2, do Regulamento (CE) n.º 1272/2008. (^2^) N.º CAS: número de registo do Chemical Abstract Service. (^3^) Medidos ou calculados em relação a um período de referência de oito horas em média ponderada no tempo (TWA). (^4^) Limite de exposição de curta duração (STEL): valor-limite acima do qual não deve haver exposição e que se refere a um período de 15 minutos, salvo indicação em contrário. (^5^) mg/m^3^ = miligramas por metro cúbico de ar a 20 ºC e a 101,3 kPa (pressão de 760 mm de mercúrio). (^6^) ppm = partes por milhão em volume no ar (ml/m^3^). (^7^) f/ml = fibras por mililitro. (^8^) Fração inalável: se a poeira de madeira de folhosas estiver misturada com outras poeiras de madeira, o valor-limite aplicar-se-á a todas as poeiras de madeira presentes nessa mistura. (^9^) Fração respirável. (^10^) Possibilidade de contribuição considerável para a carga corporal total devido à exposição cutânea. [**►M4**](http://publications.europa.eu/resource/celex/32019L0983) (^11^) Fração inalável. (^12^) Fração inalável. Fração respirável nos Estados–Membros que apliquem, à data de entrada em vigor da presente diretiva, um sistema de biomonitorização com um valor–limite biológico que não exceda 0,002 mg de creatinina na urina. (^13^) A substância pode causar sensibilização da pele e das vias respiratórias. (^14^) A substância pode causar sensibilização da pele. **◄** (^15^) Fração respirável, medida em níquel. (^16^) Fração inalável, medida em níquel. (^*1^) Medidas sob a forma de carbono elementar. |  |  |  |  |  |  |  |  |  |  |"
+  },
+  "2ad5361c298ab0c5": {
+   "fragment_id": "(Artigo 16.º, n.º 4)",
+   "type": "divisao",
+   "heading": "(Artigo 16.º, n.º 4)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (Artigo 16.º, n.º 4)\n\nChumbo e seus compostos inorgânicos\n\n1.1. O controlo biológico deve incluir a medição do nível de chumbo no sangue (PbB), utilizando a espetrometria de absorção ou um método equivalente.\n\n1.1.1. Até 31 de dezembro de 2028, o valor-limite biológico obrigatório é de:\n\n1.1.2. A partir de 1 de janeiro de 2029, o valor-limite biológico obrigatório é de:\n\n1.2. Deve ser efetuada uma vigilância médica se ocorrer exposição a uma concentração de chumbo no ar superior a 0,015 mg/m^3^, sendo este valor a média ponderada no tempo para um período de 40 horas por semana, ou se forem medidos, em trabalhadores individuais, níveis de chumbo no sangue superiores a 9 μg Pb/100 ml de sangue. Deve ser igualmente efetuada uma vigilância médica para as trabalhadoras em idade fértil cujo nível de chumbo no sangue exceda 4,5 μg Pb/100 ml de sangue ou o valor de referência nacional da população em geral não exposta profissionalmente ao chumbo, se esse valor existir."
+  },
+  "fb74a879596c579b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Diretiva 2009/148/CE do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho (JO L 330 de 16.12.2009, p. 28).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas, que altera e revoga as Diretivas 67/548/CEE e 1999/45/CE, e altera o Regulamento (CE) n.º 1907/2006 (JO L 353 de 31.12.2008, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#src.E0003)) JO L 123 de 12.5.2016, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Regulamento (CE) n.º 1907/2006 do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, relativo ao registo, avaliação, autorização e restrição dos produtos químicos (REACH), que cria a Agência Europeia dos Produtos Químicos, que altera a Diretiva 1999/45/CE e revoga o Regulamento (CEE) n.º 793/93 do Conselho e o Regulamento (CE) n.º 1488/94 da Comissão, bem como a Diretiva 76/769/CEE do Conselho e as Diretivas 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE da Comissão (JO L 396 de 30.12.2006, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#src.E0005)) O volume 62 das monografias relativas à avaliação dos riscos de cancro nos seres humanos «Pós de madeira e formaldeído», publicado pelo Centro Internacional de Investigação do Cancro, Lyon, 1995, contém uma lista de algumas folhosas.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1#src.E0023)) Recomenda-se que o nível de chumbo no sangue das mulheres em idade fértil não exceda os valores de referência da população em geral não exposta profissionalmente ao chumbo no respetivo Estado-Membro da UE. Caso não estejam disponíveis níveis de referência nacionais, recomenda-se que os níveis de chumbo no sangue das mulheres em idade fértil não excedam o valor indicativo biológico de 4,5 μg/100 ml."
+  }
+ }
+}

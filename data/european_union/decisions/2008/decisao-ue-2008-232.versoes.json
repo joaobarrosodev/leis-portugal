@@ -1,0 +1,149 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008D0232:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008D0232-20150101",
+ "dre_path": null,
+ "source_lastmod": "2015-01-01",
+ "versions": [
+  {
+   "date": "2008-03-26",
+   "future": false,
+   "celex": "32008D0232",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "96c5238af32bd3b1",
+    "3613a05eb599293c",
+    "c41b28e9efb43520",
+    "c071ec2a0b49971f",
+    "21c22cb3dc47d72f",
+    "4eea478740e81c3b",
+    "979628ba1aee8f55",
+    "91e01be6ecd8d833",
+    "0d26d72c53ddee2d",
+    "7c050cfa39a0efa2",
+    "0b0b3d0dda622d96"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "celex": "02008D0232-20150101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "82cfe10908c8375c"
+   ]
+  }
+ ],
+ "fragments": {
+  "96c5238af32bd3b1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Fevereiro de 2008\n\nrelativa à especificação técnica de interoperabilidade para o subsistema «material circulante» do sistema ferroviário transeuropeu de alta velocidade\n\n[notificada com o número C(2008) 648]\n\n(Texto relevante para efeitos do EEE)\n\n(2008/232/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 96/48/CE do Conselho, de 23 de Julho de 1996, relativa à interoperabilidade do sistema ferroviário transeuropeu de alta velocidade [([^1])](http://publications.europa.eu/resource/cellar/3cb439f1-569d-454b-aff7-d0fb0eb0e8c2.0018.04/DOC_1#ntr1-L_2008084PT.01013201-E0001), nomeadamente o n.º 1 do artigo 6.º,\n\nConsiderando o seguinte:\n\n(1) De acordo com a alínea c) do artigo 2.º e o Anexo II da Directiva 96/48/CE, o sistema ferroviário transeuropeu de alta velocidade subdivide-se em subsistemas de carácter estrutural ou funcional, um dos quais é o subsistema «material circulante».\n\n(2) A Decisão 2002/735/CE [([^2])](http://publications.europa.eu/resource/cellar/3cb439f1-569d-454b-aff7-d0fb0eb0e8c2.0018.04/DOC_1#ntr2-L_2008084PT.01013201-E0002) da Comissão estabeleceu a primeira especificação técnica de interoperabilidade (ETI) para o subsistema «material circulante» do sistema ferroviário transeuropeu de alta velocidade.\n\n(3) É necessário rever essa primeira ETI à luz do progresso técnico e da experiência adquirida com a sua aplicação.\n\n(4) Na qualidade de organismo comum representativo, a AEIF foi mandatada para reanalisar e rever a primeira ETI. A Decisão 2002/735/CE deve, por conseguinte, ser substituída pela presente decisão.\n\n(5) O projecto revisto de ETI foi examinado pelo comité instituído pela Directiva 96/48/CE.\n\n(6) A presente ETI deverá aplicar-se às infra-estruturas novas, adaptadas ou renovadas, em determinadas condições.\n\n(7) A presente ETI não prejudica as disposições das outras ETI pertinentes que possam ser aplicáveis ao subsistema «material circulante».\n\n(8) A primeira ETI relativa ao subsistema «material circulante» entrou em vigor em 2002. Devido a compromissos contratuais, os novos subsistemas ou componentes de interoperabilidade «material circulante», ou a sua renovação e adaptação, deverão ser submetidos a uma avaliação de conformidade segundo o disposto nessa ETI. Além disso, a primeira ETI deverá continuar a ser aplicável para efeitos de manutenção e de substituição, no âmbito de operações de manutenção, de componentes do subsistema e componentes de interoperabilidade autorizados ao seu abrigo. Consequentemente, o disposto na Decisão 2002/735/CE deverá manter-se em vigor no que respeita à manutenção de projectos autorizados nos termos da ETI a ela anexada e a projectos de novas linhas ou de renovação ou adaptação de linhas existentes que se encontrem numa fase avançada de execução ou sejam objecto de contrato já em execução à data da notificação da presente decisão. Para determinar a diferença de âmbito de aplicação entre a primeira ETI e a nova ETI, anexada à presente decisão, os Estados-Membros devem enviar à Comissão, no prazo de seis meses a contar da data de aplicação da presente decisão, a lista dos subsistemas e componentes de interoperabilidade aos quais a primeira ETI continua a ser aplicável.\n\n(9) A presente ETI não impõe o recurso a tecnologias ou soluções técnicas específicas, excepto quando estritamente necessário para assegurar a interoperabilidade do sistema ferroviário transeuropeu de alta velocidade.\n\n(10) A presente ETI permite, durante um período limitado, a incorporação de componentes de interoperabilidade sem certificação em subsistemas, desde que sejam satisfeitas determinadas condições.\n\n(11) Na sua versão actual, a ETI não contempla todos os requisitos essenciais. De acordo com o artigo 17.° da Directiva 96/48/CE, os aspectos técnicos não tratados são identificados como «pontos em aberto» no Anexo L da presente ETI. Nos termos do n.º 3 do artigo 16.° da mesma directiva, os Estados-Membros devem enviar à Comissão e aos restantes Estados-Membros a lista das normas técnicas nacionais relacionadas com os «pontos em aberto» e dos procedimentos a aplicar para a avaliação da sua conformidade.\n\n(12) Em relação aos casos específicos descritos no capítulo 7 da presente ETI, os Estados-Membros devem comunicar à Comissão e aos restantes Estados-Membros os procedimentos de avaliação da conformidade a aplicar.\n\n(13) O tráfego ferroviário processa-se actualmente ao abrigo de acordos nacionais, bilaterais, multinacionais ou internacionais. É importante que tais acordos não impeçam a progressão actual e futura da interoperabilidade. Para esse efeito, é necessário que a Comissão os analise a fim de determinar se a ETI anexa à presente decisão precisa de ser revista.\n\n(14) A ETI tem por base os melhores conhecimentos técnicos disponíveis à data da preparação do projecto correspondente. A fim de continuar a encorajar a inovação e atender à experiência adquirida, a ETI deverá ser periodicamente revista.\n\n(15) A ETI permite soluções inovadoras. Caso sejam propostas soluções inovadoras, o fabricante ou a entidade adjudicante devem declarar o desvio em relação à secção pertinente da ETI. A Agência Ferroviária Europeia finalizará as especificações funcionais e de interface da solução e definirá os métodos de avaliação.\n\n(16) As disposições da presente decisão estão em conformidade com o parecer do comité instituído pelo artigo 21.º da Directiva 96/48/CE,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "3613a05eb599293c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ adoptada pela Comissão a especificação técnica de interoperabilidade (ETI) para o subsistema «material circulante» do sistema ferroviário transeuropeu de alta velocidade.\n\nA ETI figura em anexo à presente decisão."
+  },
+  "c41b28e9efb43520": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA ETI é aplicável a todo o material circulante novo, adaptado ou renovado do sistema ferroviário transeuropeu de alta velocidade definido no Anexo I da Directiva 96/48/CE."
+  },
+  "c071ec2a0b49971f": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n(1) No que respeita aos aspectos classificados de «pontos em aberto» no Anexo L da ETI, as condições a satisfazer para a verificação da interoperabilidade nos termos do n.º 2 do artigo 16.º da Directiva 96/48/CE serão as normas técnicas aplicáveis no Estado-Membro que autoriza a entrada em serviço dos subsistemas objecto da presente decisão.\n\n(2) Cada Estado-Membro comunicará aos restantes Estados-Membros e à Comissão, no prazo de seis meses a contar da notificação da presente decisão:\n\n(a) a lista das normas técnicas aplicáveis mencionadas no n.º 1;\n\n(b) os procedimentos de avaliação da conformidade e de verificação que serão utilizados para efeitos da aplicação dessas normas;\n\n(c) os organismos designados para executarem os referidos procedimentos de avaliação da conformidade e de verificação."
+  },
+  "21c22cb3dc47d72f": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nNo que respeita às questões identificadas como «casos específicos» e apresentadas no capítulo 7 da ETI, os procedimentos de avaliação da conformidade são os aplicáveis nos Estados-Membros. Cada Estado-Membro comunicará aos restantes Estados-Membros e à Comissão, no prazo de seis meses a contar da notificação da presente decisão:\n\n(a) os procedimentos de avaliação da conformidade e de verificação que serão utilizados para efeitos da aplicação dessas normas;\n\n(b) os organismos designados para executarem os referidos procedimentos de avaliação da conformidade e de verificação."
+  },
+  "4eea478740e81c3b": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA ETI prevê um período de transição durante o qual a avaliação da conformidade e a certificação de componentes de interoperabilidade podem ser efectuadas no âmbito do subsistema. Durante este período, os Estados-Membros notificarão à Comissão os componentes de interoperabilidade que tenham sido avaliados deste modo, para permitir uma vigilância apertada do mercado dos componentes de interoperabilidade, bem como as medidas tomadas para o facilitar."
+  },
+  "979628ba1aee8f55": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA Decisão 2002/735/CE é revogada. As suas disposições continuarão todavia aplicáveis no que respeita à manutenção de projectos autorizados nos termos da ETI a ela anexada e a projectos de novas linhas e de renovação ou adaptação de linhas existentes que se encontrem numa fase avançada de execução ou sejam objecto de contrato já em execução à data da notificação da presente decisão.\n\nDeve ser enviada à Comissão, no prazo de seis meses após a data de aplicação da presente decisão, a lista dos subsistemas e componentes de interoperabilidade aos quais continuam a ser aplicáveis as disposições da Decisão 2002/735/CE."
+  },
+  "91e01be6ecd8d833": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-Membros notificarão à Comissão, no prazo de seis meses após a data de entrada em vigor da ETI em anexo, os seguintes tipos de acordos:\n\n(a) acordos nacionais, bilaterais ou multilaterais, concluídos a título permanente ou temporário entre Estados-Membros e empresas ferroviárias ou gestores de infra-estruturas e exigidos pela especificidade ou o carácter local do serviço ferroviário previsto;\n\n(b) acordos bilaterais ou multilaterais que aumentam significativamente o nível de interoperabilidade local ou regional, concluídos entre empresas ferroviárias, gestores de infra-estruturas ou Estados-Membros;\n\n(c) acordos internacionais que aumentam significativamente o nível de interoperabilidade local ou regional, concluídos entre um ou mais Estados-Membros e, pelo menos, um país terceiro, ou entre empresas ferroviárias ou gestores de infra-estruturas de Estados-Membros e, pelo menos, uma empresa ferroviária ou um gestor de infra-estrutura de um país terceiro."
+  },
+  "0d26d72c53ddee2d": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA presente decisão é aplicável a partir de 1 de Setembro de 2008."
+  },
+  "7c050cfa39a0efa2": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 21 de Fevereiro de 2008.\n\n**Pela Comissão**\n\n**Jacques BARROT**\n\n***Vice-Presidente da Comissão***\n\n---"
+  },
+  "0b0b3d0dda622d96": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/3cb439f1-569d-454b-aff7-d0fb0eb0e8c2.0018.04/DOC_1#ntc1-L_2008084PT.01013201-E0001) [JO L 235 de 17.9.1996, p. 6](http://publications.europa.eu/resource/oj/JOL_1996_235_R_TOC). Directiva com a redacção que lhe foi dada pela Directiva 2004/50/CE ([JO L 164 de 30.4.2004, p. 114](http://publications.europa.eu/resource/oj/JOL_2004_164_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/3cb439f1-569d-454b-aff7-d0fb0eb0e8c2.0018.04/DOC_1#ntc2-L_2008084PT.01013201-E0002) [JO L 245 de 12.9.2002, p. 402](http://publications.europa.eu/resource/oj/JOL_2002_245_R_TOC)."
+  },
+  "82cfe10908c8375c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2008D0232 — PT — 01.01.2015 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32008D0232) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/32008D0232) [de 21 de Fevereiro de 2008](http://publications.europa.eu/resource/celex/32008D0232) [relativa à especificação técnica de interoperabilidade para o subsistema «material circulante» do sistema ferroviário transeuropeu de alta velocidade](http://publications.europa.eu/resource/celex/32008D0232) [[notificada com o número C(2008) 648]](http://publications.europa.eu/resource/celex/32008D0232) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32008D0232) [(2008/232/CE)](http://publications.europa.eu/resource/celex/32008D0232) (JO L 084, 26.3.2008, p.132)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 1302/2014 da Comissão de 18 de novembro de 2014](http://publications.europa.eu/resource/celex/32014R1302) — L 356 — 228 — 12.12.2014"
+  }
+ }
+}

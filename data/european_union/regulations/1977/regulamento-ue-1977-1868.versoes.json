@@ -1,0 +1,149 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31977R1868:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977R1868-20080701",
+ "dre_path": null,
+ "source_lastmod": "2008-07-01",
+ "versions": [
+  {
+   "date": "1977-08-17",
+   "future": false,
+   "celex": "31977R1868",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a9fc1f53d933cf3e",
+    "e0767eed4ae1abe9",
+    "06727cfe5bccd0d5",
+    "3eacbf73461e5e7f",
+    "c999d8f28cb599f8",
+    "42740c7a27811d2b",
+    "1aa5fef31acf2d6c",
+    "1081da7645d4bbbc",
+    "5903e49219773e7d",
+    "cf017d32f4510248",
+    "364af3449e4ce1fa"
+   ]
+  },
+  {
+   "date": "2008-07-01",
+   "future": false,
+   "celex": "01977R1868-20080701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º.",
+    "Suprime Artigo 2º.",
+    "Suprime Artigo 3º.",
+    "Suprime Artigo 4º.",
+    "Suprime Artigo 5º.",
+    "Suprime Artigo 6º.",
+    "Suprime Artigo 7º.",
+    "Suprime Artigo 8º.",
+    "Suprime ANEXO I — >PIC FILE= \"T0011242\"\"PIC FILE= \"T0011243\">",
+    "Suprime ANEXO II — >PIC FILE= \"T0011244\"\"PIC FILE= \"T0011245\">"
+   ],
+   "fragments": [
+    "6541150ccd723655"
+   ]
+  }
+ ],
+ "fragments": {
+  "a9fc1f53d933cf3e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 1868/77 da Comissão, de 29 de Julho de 1977, que estabelece as regras de aplicação do Regulamento (CEE) nº 2782/75 relativo à produção e comercialização de ovos para incubação e de pintos de aves de capoeira** *Jornal Oficial nº L 209 de 17/08/1977 p. 0001 - 0007 Edição especial finlandesa: Capítulo 3 Fascículo 9 p. 0053 Edição especial grega: Capítulo 03 Fascículo 19 p. 0064 Edição especial sueca: Capítulo 3 Fascículo 9 p. 0053 Edição especial espanhola: Capítulo 03 Fascículo 13 p. 0028 Edição especial portuguesa: Capítulo 03 Fascículo 13 p. 0028*\n\nREGULAMENTO (CEE) Nº. 1868/77 DA COMISSÃO de 29 de Julho de 1977 que estabelece as regras de aplicação do Regulamento (CEE) nº. 2782/75 relativo à produção e comerzialização de ovos para incubação e de pintos de aves de capoeira\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) nº. 2771/75 do Conselho, de 29 de Outubro de 1975, que estabelece a organização comum de mercado no sector dos ovos (1), alterado pelo Regulamento (CEE) nº. 368/76 (2) e, nomeadamente, o seu artigo 15º.,\n\nTendo em conta o Regulamento (CEE) nº. 2777/75 do Conselho, de 29 de Outubro de 1975, que estabelece a organização comum de mercado no sector da carne de aves de capoeira (3), alterado pelo Regulamento (CEE) nº. 369/76 (4) e, nomeadamente, o seu artigo 15º.,\n\nTendo em conta o Regulamento (CEE) nº. 2782/75 do Conselho, de 29 de Outubro de 1975, relativo à produção e comercialização de ovos para incubação e de pintos de aves de capoeira (5) e, nomeadamente, o seu artigo 17º.,\n\nConsiderando que o Regulamento (CEE) nº. 2782/75 estabeleceu certas regras relativas à produção e comercialização de ovos para incubação e de pintos de aves de capoeira; que a aplicação dessas regras exige a adopção de disposições de execução relativas, nomeadamente, à atribuição dos números distintivos, às indicações a colocar nos ovos e nas embalagens, assim como às informações necessárias;\n\nConsiderando que é necessário atribuir a cada estabelecimento um número de registo distintivo, baseado num código estabelecido em cada Estado-membro, de modo a que seja possível determinar o sector de actividade do estabelecimento;\n\nConsiderando que o Regulamento (CEE) nº. 95/69 da Comissão, de 17 de Janeiro de 1969, que aplica o Regulamento (CEE) nº. 1619/68 relativo a certas normas de comercialização aplicáveis aos ovos (6), alterado pelo Regulamento (CEE) nº. 2772/75 do Conselho, de 29 de Outubro de 1975, relativo a certas normas de comercialização aplicáveis aos ovos (7), previu todas as medidas úteis para a identificação e comercialização dos ovos incubados não marcados antes de serem postos em incubação e comercializados como ovos industriais;\n\nConsiderando que os dados estatísticos que permitem o estabelecimento de previsões a curto e a longo prazo devem ser comparáveis; que é conveniente, para o efeito, harmonizar o mapa recapitulativo mensal estabelecido pelos Estados-membros; que, por outro lado, a recolha dos dados pode ser facilitada pela utilização do modelo de mapa recapitulativo;\n\nConsiderando que no momento actual, os dados relativos ao comércio intracomunitário de pintos não são conhecidos com o rigor indispensável que permita a elaboração de previsões de produção a curto prazo; que convém instaurar um regime especial para os Estados-membros que não dispõem dos meios administrativos necessários para a recolha destas informações;\n\nConsiderando que compete a cada Estado-membro prever sanções a aplicar aos infractores;\n\nConsiderando que, por razões de simplificação da regulamentação, convém revogar o Regulamento (CEE) nº. 2335/72 da Comissão, de 31 de Outubro de 1972, que aplica o Regulamento (CEE) nº. 1349/72 do Conselho, relativo à produção e comercialização de ovos para (1)JO nº. L 282 de 1.11.1975, p. 49. (2)JO nº. L 45 de 21.2.1976, p. 2. (3)JO nº. L 282 de 1.11.1975, p. 77. (4)JO nº. L 45 de 21.2.1976, p. 3. (5)JO nº. L 282 de 1.11.1975, p. 100. (6)JO nº. L 13 de 18.1.1969, p. 13. (7)JO nº. L 282 de 1.11.1975, p. 56. incubação e de pintos de aves de capoeira (1), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº. 373/73 (2);\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão da Carne de Aves de Capoeira e dos Ovos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "e0767eed4ae1abe9": {
+   "fragment_id": "Artigo 1º.",
+   "type": "artigo",
+   "heading": "Artigo 1º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º.\n\n1. Qualquer pedido de registo de um dos estabelecimento referidos no nº. 3 do artigo 1º. do Regulamento (CEE) 2782/75, sera dirigido à instância competente do Estado-membro em cujo território o estabelecimento está situado. Esta instância atribui ao estabelecimento registado um número distintivo composto por uma das seguintes letras maiúsculas:\n\nB para a Bélgica,\n\nD para a República Federal da Alemanha,\n\nDK para a Dinamarca,\n\nF para a França,\n\nI para a Itália,\n\nIRL para a Irlanda,\n\nL para o Luxemburgo,\n\nNL para os Países Baixos,\n\nUK para o Reino Unido,\n\ne por um número de identificação atribuído de modo a que seja possível determinar o sector de actividade do estabelecimento.\n\n2. Os Estados-membros comunicarão imediatamente à Comissão qualquer modificação do código escolhido para a atribuição dos números distintivos que permitem determinar os sectores de actividade do estabelecimento."
+  },
+  "06727cfe5bccd0d5": {
+   "fragment_id": "Artigo 2º.",
+   "type": "artigo",
+   "heading": "Artigo 2º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º.\n\n1. A marcação individual dos ovos para incubação deve fazer-se com tinta indelével de cor preta. As letras ou números utilizados terão pelo menos 2 mm de altura e 1 mm de largura.\n\n2. A fita referida no nº. 2 do artigo 5º. do Regulamento (CEE) nº. 2782/75 é de cor verde e conforme ao modelo estabelecido pela instância competente. Esta fita deve ser colocada de maneira a que nenhuma das indicações existentes na embalagem fique total ou parcialmente invisível."
+  },
+  "3eacbf73461e5e7f": {
+   "fragment_id": "Artigo 3º.",
+   "type": "artigo",
+   "heading": "Artigo 3º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º.\n\nAs inscrições marcadas nas embalagens e nas fitas devem ser feitas com tinta preta indelével e com letras ou números de pelo menos 20 mm de altura e 10 mm de largura, tendo os traços 1 mm de espessura."
+  },
+  "c999d8f28cb599f8": {
+   "fragment_id": "Artigo 4º.",
+   "type": "artigo",
+   "heading": "Artigo 4º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º.\n\n1. O modelo de mapa recapitulativo referido no artigo 10º. do Regulamento (CEE) nº. 2782/75 é incluído no Anexo I. Este mapa recapitulativo será transmitido pelos Estados-membros à Comissão, em relação a cada mês do ano civil, o mais tardar quatro semanas após o mês considerado.\n\n2. Os Estados-membros poderão utilizar o modelo de mapa recapitulativo (parte I) incluído no Anexo I para recolher junto das incubadoras as informações referidas no nº. 1 do artigo 9º. do Regulamento (CEE) nº. 2782/75.\n\n3. Os Estados-membros podem determinar que a guia referida no artigo 13º. do Regulamento (CEE) nº. 2782/75 tenha vários exemplares no caso dos pintos. Sendo assim, um exemplar desta guia será endereçado ao organismo competente referido no artigo 16º. daquele regulamento, tanto na importação como na exportação, assim como aquando das trocas comerciais intracomunitárias.\n\n4. Os Estados-membros que recorrerem ao procedimento referido no nº. 3 informarão os outros Estados-membros e a Comissão."
+  },
+  "42740c7a27811d2b": {
+   "fragment_id": "Artigo 5º.",
+   "type": "artigo",
+   "heading": "Artigo 5º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º.\n\nOs Estados-membros tomarão todas as medidas adquadas para sancionar as infracções às disposições dos regulamentos relativos à produção e comercialização de ovos para incubação e de pintos de aves de capoeira."
+  },
+  "1aa5fef31acf2d6c": {
+   "fragment_id": "Artigo 6º.",
+   "type": "artigo",
+   "heading": "Artigo 6º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º.\n\nAntes de 30 de Janeiro de cada ano, os Estados-membros enviarão à Comissão um mapa estatístico sobre a estrutura e a actividade das incubadoras, com base no modelo do Anexo II."
+  },
+  "1081da7645d4bbbc": {
+   "fragment_id": "Artigo 7º.",
+   "type": "artigo",
+   "heading": "Artigo 7º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º.\n\nÉ revogado o Regulamento (CEE) nº. 2335/72."
+  },
+  "5903e49219773e7d": {
+   "fragment_id": "Artigo 8º.",
+   "type": "artigo",
+   "heading": "Artigo 8º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º.\n\nO presente regulamento entra em vigor, em 1 de Janeiro de 1978. (1)JO nº. L 252 de 8.11.1972, p. 1. (2)JO nº. L 39 de 12.2.1973, p. 37.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 29 de Julho de 1977.\n\nPela Comissão\n\nFinn GUNDELACH\n\nVice-Presidente"
+  },
+  "cf017d32f4510248": {
+   "fragment_id": "ANEXO I — >PIC FILE= \"T0011242\"\"PIC FILE= \"T0011243\">",
+   "type": "divisao",
+   "heading": "ANEXO I — >PIC FILE= \"T0011242\"\"PIC FILE= \"T0011243\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — >PIC FILE= \"T0011242\"\"PIC FILE= \"T0011243\">"
+  },
+  "364af3449e4ce1fa": {
+   "fragment_id": "ANEXO II — >PIC FILE= \"T0011244\"\"PIC FILE= \"T0011245\">",
+   "type": "divisao",
+   "heading": "ANEXO II — >PIC FILE= \"T0011244\"\"PIC FILE= \"T0011245\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >PIC FILE= \"T0011244\"\"PIC FILE= \"T0011245\">"
+  },
+  "6541150ccd723655": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1977R1868 — PT — 01.07.2008 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31977R1868) [REGULAMENTO (CEE) Nº 1868/77 DA COMISSÃO](http://publications.europa.eu/resource/celex/31977R1868) [de 29 de Julho de 1977](http://publications.europa.eu/resource/celex/31977R1868) [que estabelece as regras de aplicação do Regulamento (CEE) nº 2782/75 relativo à produção e comerzialização de ovos para incubação e de pintos de aves de capoeira](http://publications.europa.eu/resource/celex/31977R1868) (JO L 209, 17.8.1977, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 617/2008 da Comissão de 27 de Junho de 2008](http://publications.europa.eu/resource/celex/32008R0617) — L 168 — 5 — 28.6.2008"
+  }
+ }
+}

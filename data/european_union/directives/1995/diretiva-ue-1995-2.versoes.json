@@ -1,0 +1,259 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31995L0002:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0002-20110120",
+ "dre_path": null,
+ "source_lastmod": "2011-01-20",
+ "versions": [
+  {
+   "date": "1995-03-18",
+   "future": false,
+   "celex": "31995L0002",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ffa355576de845de",
+    "6089095db5102adb",
+    "72aeb77165780f38",
+    "bd38f81e4761739e",
+    "57839397a52a5515",
+    "0db5484d75d16e38",
+    "190fb94bb4deb9c7",
+    "a406e6d3cc307c39",
+    "a72ed42bfd13fa9f",
+    "dadf5136a26a0d1c",
+    "32acf113d73e87d7",
+    "6bd067d905801d8d",
+    "37e8c741dc754140",
+    "2f24ddb0f30b704f",
+    "2c1e289909833823",
+    "3d4a82565ab30aa2",
+    "3f43163180ca1d80",
+    "cef568e6b5c6bf5c",
+    "ba47c9f3ed359a4b",
+    "b289b84a7123c860",
+    "23a673c766b8a359",
+    "ebed2acb5f306e63"
+   ]
+  },
+  {
+   "date": "2011-01-20",
+   "future": false,
+   "celex": "01995L0002-20110120",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime ANEXO I — ADITIVOS ALIMENTARES GENERICAMENTE AUTORIZADOS PARA USO EM GÉNEROS ALIMENTÍCIOS NÃO REFERIDOS NO Nº 3 DO ARTIGO 2º",
+    "Suprime ANEXO II — GÉNEROS ALIMENTÍCIOS EM QUE É PERMITIDO UTILIZAR UM NÚMERO LIMITADO DE ADITIVOS DO ANEXO I",
+    "Suprime ANEXO III — CONSERVANTES E ANTIOXIDANTES AUTORIZADOS SOB DETERMINADAS CONDIÇÕES",
+    "Suprime PARTE A Sorbatos, benzoatos e p-hidroxibenzoatos — >POSIÇÃO NUMA TABELA>",
+    "Suprime PARTE B Dióxido de enxofre e sulfitos — >POSIÇÃO NUMA TABELA>",
+    "Suprime PARTE C Outros conservantes — >POSIÇÃO NUMA TABELA>",
+    "Suprime PARTE D Outros antioxidantes — Notas",
+    "Suprime ANEXO IV — OUTROS ADITIVOS AUTORIZADOS",
+    "Suprime ANEXO V — AGENTES DE TRANSPORTE E SOLVENTES DE TRANSPORTE AUTORIZADOS",
+    "Suprime ANEXO VI — ADITIVOS ALIMENTARES AUTORIZADOS EM ALIMENTOS PARA LACTENTES E CRIANÇAS"
+   ],
+   "fragments": [
+    "ea6c24472c41e2e5"
+   ]
+  }
+ ],
+ "fragments": {
+  "ffa355576de845de": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 95/2/CE do Parlamento Europeu e do Conselho, de 20 de Fevereiro de 1995, relativa aos aditivos alimentares com excepção dos corantes e dos edulcorantes** *Jornal Oficial nº L 061 de 18/03/1995 p. 0001 - 0040*\n\nDIRECTIVA 95/2/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Fevereiro de 1995 relativa aos aditivos alimentares com excepção dos corantes e dos edulcorantes\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºB do Tratado (3),\n\nTendo em conta a Directiva 89/107/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-membros respeitantes aos aditivos que podem ser utilizados nos géneros alimentícios destinados à alimentação humana (4), e, nomeadamente, o nº 2 do seu artigo 3º,\n\nConsiderando que as diferenças existentes nas legislações nacionais no que respeita aos conservantes, antioxidantes e outros aditivos e suas condições de utilização prejudicam a livre circulação dos géneros alimentícios; que essas diferenças podem criar condições de concorrência desleal;\n\nConsiderando que a razão primeira da existência de regras relativas a estes aditivos alimentares e respectivas condições de utilização deve ser a necessidade de proteger o consumidor;\n\nConsiderando que se reconhece de um modo geral que os géneros alimentícios não transformados e determinados outros géneros alimentícios devem estar isentos de aditivos alimentares;\n\nConsiderando que, tendo em atenção as informações científicas e toxicológicas mais recentes sobre essas substâncias, algumas delas devem ser admitidas apenas em determinados géneros alimentícios e sob certas condições de utilização;\n\nConsiderando que é necessário estabelecer regras estritas para a utilização de aditivos alimentares em preparados para lactentes, alimentos de transição e alimentos para desmame, nos termos da Directiva 89/398/CEE do Conselho, de 3 de Maio de 1989, relativa à aproximação das legislações dos Estados-membros respeitantes aos géneros alimentícios destinados a uma alimentação especial (5), nomeadamente do nº 1, alínea e), do seu artigo 4º;\n\nConsiderando que a presente directiva não pretende afectar as regras relativas aos edulcorantes e aos corantes;\n\nConsiderando que, enquanto se aguardam disposições específicas ao abrigo da Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado (6), e da Directiva 90/642/CEE do Conselho, de 27 de Novembro de 1990, relativa à fixação de teores máximos de resíduos de pesticidas nos e sobre determinados produtos de origem vegetal, incluindo frutos e produtos hortícolas (7), algumas substâncias pertencentes a esta categoria são provisoriamente abrangidas pela presente directiva;\n\nConsiderando que a Comissão adaptará as disposições comunitárias em conformidade com as regras fixadas na presente directiva;\n\nConsiderando que o Comité científico para a alimentação humana foi consultado sobre as substâncias que ainda não foram objecto de disposições comunitárias;\n\nConsiderando que é necessário incluir na presente directiva disposições específicas relativas a aditivos referidos noutras disposições comunitárias;\n\nConsiderando que é conveniente recorrer ao procedimento de consulta do Comité permanente dos géneros alimentícios quando for necessário tomar uma decisão relativa à inclusão de um género alimentício específico numa determinada categoria de alimentos;\n\nConsiderando que a alteração dos actuais critérios de pureza relativos aos aditivos alimentares que não sejam corantes ou edulcorantes e as novas especificações dos aditivos para os quais ainda não existem critérios de pureza serão adoptadas nos termos do procedimento previsto no artigo 11º da Directiva 89/107/CEE;\n\nConsiderando que os agentes de tratamento da farinha, por não terem ainda obtido o parecer do Comité científico para a alimentação humana, serão objecto de uma directiva própria;\n\nConsiderando que a presente directiva substitui as Directivas 64/54/CEE (8), 70/357/CEE (9), 74/329/CEE (10) e 83/463/CEE (11), que são revogadas,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "6089095db5102adb": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva é uma directiva específica que faz parte da directiva global na acepção do artigo 3º da Directiva 89/107/CEE, sendo aplicável aos aditivos com excepção dos corantes, dos edulcorantes e dos agentes de tratamento da farinha.\n\n2. Apenas poderão ser utilizados nos géneros alimentícios os aditivos que satisfazem as especificações adoptadas pelo Comité científico da alimentação humana.\n\n3. Para efeitos do disposto na presente directiva, entende-se por:\n\na) «Conservantes»: as substâncias que prolongam a durabilidade dos géneros alimentícios protegendo-os contra a deterioração causada por microrganismos;\n\nb) «Antioxidantes»: as substâncias que prolongam a durabilidade dos géneros alimentícios, protegendo-os contra a deterioração causada pela oxidação, tal como a rancidez das gorduras e as alterações de cor;\n\nc) «Agentes de transporte»: incluindo os solventes de transporte, as substâncias utilizadas para dissolver, diluir, dispersar ou de outro modo modificar fisicamente um aditivo alimentar sem alterar a sua função tecnológica (e sem que eles próprios exerçam quaisquer efeitos tecnológicos), a fim de facilitar o respectivo manuseamento, aplicação ou utilização;\n\nd) «Ácidos»: as substâncias que aumentam a acidez dos géneros alimentícios e/ou lhes conferem um sabor acre;\n\ne) «Reguladores de acidez»: as substâncias que alteram ou controlam a acidez ou a alcalinidade dos géneros alimentícios;\n\nf) «Antiaglomerantes»: as substâncias que reduzem a tendência das partículas isoladas dos géneros alimentícios para aderirem umas às outras;\n\ng) «Agentes antiespuma»: as substâncias que impedem ou reduzem a formação de espumas;\n\nh) «Agentes de volume»: as substâncias que contribuem para dar volume aos géneros alimentícios sem contribuírem significativamente para o seu valor energético disponível;\n\ni) «Emulsionantes»: as substâncias que tornam possível a formação ou a manutenção de uma mistura homogénea de duas ou mais fases imiscíveis, como óleo e água, nos géneros alimentícios;\n\nj) «Sais de fusão»: as substâncias que convertem as proteínas contidas no queijo numa forma dispersa, daí resultando uma distribuição homogénea das gorduras e outros componentes;\n\nk) «Agentes de endurecimento»: as substâncias que tornam ou mantêm firmes ou estaladiços os tecidos dos frutos ou dos produtos hortícolas, ou actuam em conjunto com gelificantes para produzir ou reforçar um gel;\n\nl) «Intensificadores de sabor»: as substâncias que intensificam o sabor e/ou o cheiro dos géneros alimentícios;\n\nm) «Espumantes»: as substâncias que tornam possível a dispersão homogénea de uma fase gasosa nos géneros alimentícios líquidos ou sólidos;\n\nn) «Gelificantes»: as substâncias que dão textura aos géneros alimentícios através da formação de um gel;\n\no) «Agentes de revestimento» (incluindo os lubrificantes): as substâncias que, quando aplicadas na superfície externa dos géneros alimentícios, lhes conferem uma aparência brilhante ou formam um revestimento protector;\n\np) «Humidificantes»: as substâncias que impedem os géneros alimentícios de secar por contrabalançarem o efeito de uma atmosfera com baixo grau de humidade, ou que promovem a dissolução de um pó num meio aquoso;\n\nq) «Amidos modificados»: as substâncias obtidas através de um ou mais tratamentos químicos de amidos comestíveis, que podem ter sofrido um tratamento físico ou enzimático e podem ser fludificadas por via ácida ou alcalina ou branqueadas;\n\nr) «Gases de embalagem»: os gases, com excepção do ar, introduzidos em recipientes antes, durante ou após a colocação dos géneros alimentícios nesses recipientes;\n\ns) «Propulsores»: os gases, com excepção do ar, que expelem os géneros alimentícios dos recipientes;\n\nt) «Levedantes químicos»: as substâncias ou combinações de substâncias que libertam gás, aumentando assim o volume das massas ou polmes de farinha;\n\nu) «Sequestrantes»: as substâncias que formam complexos químicos com iões metálicos;\n\nv) «Estabilizadores»: as substâncias que tornam possível a manutenção do estado físico-químico dos géneros alimentícios. Dos estabilizadores fazem parte as substâncias que permitem a manutenção de uma dispersão homogénea de duas ou mais substâncias imiscíveis num género alimentício, bem como as substâncias que estabilizam, retêm ou intensificam a cor natural dos géneros alimentícios;\n\nw) «Espessantes»: as substâncias que aumentam a viscosidade dos géneros alimentícios.\n\n4. Por agentes de tratamento da farinha, com excepção dos emulsionantes, entendem-se as substâncias adicionadas à farinha ou à massa para melhorar a qualidade da cozedura.\n\n5. Para efeitos da presente directiva, não são considerados aditivos alimentares:\n\na) As substâncias utilizadas no tratamento da água potável referidas na Directiva 80/778/CEE (12);\n\nb) Os produtos que contêm pectina obtidos a partir de polpa de maçã seca, de cascas de citrinos ou de uma mistura de ambas, por acção de um ácido diluído seguida de neutralização parcial com sais de sódio ou de potássio («pectina líquida»);\n\nc) As bases das gomas de mascar;\n\nd) A dextrina branca ou amarela, o amido torrado ou dextrinado, o amido modificado por tratamento ácido ou alcalino, o amido branqueado, o amido modificado por processos físicos e o amido tratado por enzimas amilolíticos;\n\ne) O cloreto de amónio;\n\nf) O plasma sanguíneo, a gelatina de qualidade alimentar e os hidrolisados proteicos e respectivos sais, as proteínas do leite e o glúten;\n\ng) Os aminoácidos e respectivos sais, com excepção do ácido glutâmico, da glicina, da cisteína e da cistina e respectivos sais, desde que não tenham função de aditivos;\n\nh) Os caseinatos e a caseína;\n\ni) A inulina."
+  },
+  "72aeb77165780f38": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Apenas as substâncias enumeradas nos anexos I, III, IV e V podem ser utilizadas nos géneros alimentícios para os fins mencionados no nº 3 do artigo 1º\n\n2. Os aditivos alimentares enumerados no anexo I são autorizados nos géneros alimentícios para os fins mencionados no nº 3 do artigo 1º, salvo nos géneros alimentícios mencionados no anexo II, de acordo com o princípio quantum satis.\n\n3. Excepto nos casos especificamente previstos, o disposto no nº 2 não se aplica:\n\na) - Aos géneros alimentícios não preparados,\n\n- ao mel, tal como definido na Directiva 74/409/CEE (13),\n\n- aos óleos e gorduras de origem animal ou vegetal não emulsionados,\n\n- à manteiga,\n\n- ao leite pasteurizado e esterilizado (incluindo a esterilização UHT), e às natas (magras, gordas ou meio gordas),\n\n- aos produtos lácteos não aromatizados, fermentados com fermentos vivos,\n\n- águas minerais naturais definidas na Directiva 80/777/CEE (14) e águas de nascente,\n\n- ao café (salvo o café aromatizado de preparação instantânea) nem aos extractos de café,\n\n- ao chá em folhas não aromatizado,\n\n- aos açúcares, tais como definidos na Directiva 73/437/CEE (15),\n\n- às massas alimentícias secas,\n\n- ao leitelho natural não aromatizado (com excepção do leitelho esterilizado).\n\nNa acepção da presente directiva, a expressão «não preparados» significa que não foram submetidos a tratamento de que resulte uma alteração substancial do estado original dos géneros alimentícios. Podem no entanto ter sido, por exemplo, divididos, separados, cortados em fatias, desossados, picados, pelados, desbastados, descascados, triturados, cortados, limpos, aparados, ultracongelados ou congelados, refrigerados, moídos ou descorticados, e embalados ou não;\n\nb) Aos alimentos para lactentes e crianças de tenra idade definidos na Directiva 89/398/CEE, incluindo os alimentos para lactentes e crianças doentes. Estes géneros alimentícios ficam sujeitos às disposições do anexo VI;\n\nc) Aos géneros alimentícios enumerados no anexo II, que apenas podem conter os aditivos indicados nesse anexo e nos anexos III e IV e nas condições neles especificadas.\n\n4. Os aditivos enumerados nos anexos III e IV apenas podem ser utilizados nos géneros alimentícios indicados nesses anexos e nas condições aí especificadas.\n\n5. Apenas podem ser utilizados como agentes de transporte ou solventes de transporte de aditivos alimentares os aditivos enumerados no anexo V, devendo ser utilizados nas condições aí especificadas.\n\n6. O disposto na presente directiva é igualmente aplicável aos géneros alimentícios correspondentes destinados a uma alimentação especial em conformidade com a Directiva 89/398/CEE.\n\n7. Os teores máximos indicados nos anexos dizem respeito aos géneros alimentícios comercializados, salvo indicação em contrário.\n\n8. Nos anexos à presente directiva, quantum satis significa que não é especificado qualquer teor máximo. Todavia, os aditivos serão utilizados de acordo com as boas práticas de fabrico, em quantidade não superior à necessária para a obtenção do resultado pretendido e desde que não induzam em erro o consumidor."
+  },
+  "bd38f81e4761739e": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. É autorizada a presença de aditivos alimentares nos géneros alimentícios nos seguintes casos:\n\n- nos géneros alimentícios compostos, com excepção dos referidos no nº 3 do artigo 2º, na medida em que o aditivo alimentar seja autorizado num dos ingredientes que constituem esse género alimentício,\n\nou\n\n- se os géneros alimentícios se destinarem unicamente a ser utilizados na preparação de géneros alimentícios compostos e na medida em que estes estejam em conformidade com o disposto na presente directiva.\n\n2. O nº 1 não se aplica aos preparados para lactentes, aos alimentos de transição e aos alimentos para desmame, definidos na Directiva 89/398/CEE, excepto quando expressamente previsto."
+  },
+  "57839397a52a5515": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nA presente directiva aplica-se sem prejuízo das directivas específicas que autorizam a utilização dos aditivos enumerados nos anexos como edulcorantes ou corantes."
+  },
+  "0db5484d75d16e38": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nSempre que necessário, pode ser decidido, com base no procedimento definido no artigo 6º da presente directiva:\n\n- se determinado género alimentício não classificado à data de adopção da presente directiva, pertence ou não a uma das categorias de géneros alimentícios mencionados no artigo 2º ou num dos anexos,\n\nou\n\n- se um aditivo alimentar enumerado nos anexos e autorizado quantum satis é utilizado de acordo com os critérios indicados no artigo 2º,\n\nou\n\n- se uma substância é ou não um aditivo alimentar na acepção do artigo 1º"
+  },
+  "190fb94bb4deb9c7": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Nos casos em que é feita referência ao procedimento definido no presente artigo, a Comissão será assistida pelo Comité permanente dos géneros alimentícios, instituído pela Decisão 69/414/CEE (16), a seguir designado «comité».\n\n2. O comité é convocado pelo seu presidente, quer por sua própria iniciativa quer a pedido do representante de um Estado-membro.\n\n3. O representante da Comissão submete à apreciação do comité um projecto das medidas a tomar. O comité emite o seu parecer sobre o projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer é emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é convidado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo acima referido. O presidente não participa na votação.\n\n4. a) A Comissão adopta as medidas projectadas desde que sejam conformes com o parecer do comité;\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "a406e6d3cc307c39": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nNo prazo de três anos a contar da entrada em vigor da presente directiva, os Estados-membros criarão mecanismos destinados a acompanhar o consumo e a utilização de aditivos alimentares e comunicarão os elementos obtidos à Comissão.\n\nNo prazo de cinco anos a contar da entrada em vigor da presente directiva, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre as alterações verificadas no mercado dos aditivos alimentares e os níveis de utilização e consumo desses aditivos.\n\nEm conformidade com os critérios gerais do ponto 4 do anexo II da Directiva 89/107/CEE, num prazo de cinco anos a contar da entrada em vigor da presente directiva, a Comissão reexaminará as condições de utilização enunciadas na presente directiva e proporá as alterações eventualmente necessárias."
+  },
+  "a72ed42bfd13fa9f": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. São revogadas as Directivas 64/54/CEE, 70/357/CEE, 74/329/CEE e 83/463/CEE.\n\n2. As referências às directivas revogadas e aos critérios de pureza para determinados aditivos alimentares nelas mencionados serão doravante entendidas como referências à presente directiva."
+  },
+  "dadf5136a26a0d1c": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nOs Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 25 de Setembro de 1996, a fim de:\n\n- permitir, o mais tardar em 25 de Setembro de 1996, a comercialização e a utilização de produtos conformes com as disposições da presente directiva,\n\n- proibir, o mais tardar em 25 de Março de 1997, a comercialização e a utilização de produtos não conformes com as disposições da presente directiva; no entanto os produtos colocados no mercado ou rotulados antes dessa data e não conformes com as disposições da presente directiva poderão ser comercializados até ao esgotamento das existências.\n\nDo facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "32acf113d73e87d7": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nA presente directiva entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "6bd067d905801d8d": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 20 de Fevereiro de 1995.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nK. HÄNSCH\n\nPelo Conselho\n\nO Presidente\n\nJ. PUECH\n\n(1) JO nº C 206 de 13. 8. 1992, p. 12, e JO nº C 189 de 13. 7. 1993, p. 11.\n\n(2) JO nº C 108 de 19. 4. 1993, p. 26.\n\n(3) Parecer do Parlamento Europeu de 26 de Maio de 1993 (JO nº C 176 de 28. 6. 1993, p. 117) confirmado em 2. 12. 1993 (JO nº C 342 de 20. 12. 1993), posição comum do Conselho de 10 de Março de 1993 (JO nº C 172 de 24. 6. 1994, p. 4) e decisão do Parlamento Europeu de 16 de Novembro de 1994 (JO nº C 341 de 5. 12. 1994).\n\n(4) JO nº L 40 de 11. 2. 1989, p. 27.\n\n(5) JO nº L 186 de 30. 6. 1989, p. 27.\n\n(6) JO nº L 230 de 19. 8. 1991, p. 1. Directiva com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 3600/92 da Comissão (JO nº L 336 de 15. 12. 1992, p. 10).\n\n(7) JO nº L 350 de 14. 2. 1990, p. 7.\n\n(8) JO nº 12 de 27. 1. 1964, p. 161/64.\n\n(9) JO nº L 157 de 18. 7. 1970, p. 31.\n\n(10) JO nº L 189 de 12. 7. 1974, p. 1.\n\n(11) JO nº L 255 de 15. 9. 1983, p. 1.\n\n(12) JO nº L 229 de 30. 8. 1980, p. 11. Directiva com a última redacção que lhe foi dada pela Directiva 91/692/CEE (JO nº L 377 de 31. 12. 1991, p. 48).\n\n(13) JO nº L 221 de 12. 8. 1974, p. 10.\n\n(14) JO nº L 229 de 30. 8. 1980, p. 1.\n\n(15) JO nº L 356 de 27. 12. 1973, p. 71.\n\n(16) JO nº L 291 de 19. 11. 1969, p. 9."
+  },
+  "37e8c741dc754140": {
+   "fragment_id": "ANEXO I — ADITIVOS ALIMENTARES GENERICAMENTE AUTORIZADOS PARA USO EM GÉNEROS ALIMENTÍCIOS NÃO REFERIDOS NO Nº 3 DO ARTIGO 2º",
+   "type": "divisao",
+   "heading": "ANEXO I — ADITIVOS ALIMENTARES GENERICAMENTE AUTORIZADOS PARA USO EM GÉNEROS ALIMENTÍCIOS NÃO REFERIDOS NO Nº 3 DO ARTIGO 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — ADITIVOS ALIMENTARES GENERICAMENTE AUTORIZADOS PARA USO EM GÉNEROS ALIMENTÍCIOS NÃO REFERIDOS NO Nº 3 DO ARTIGO 2º\n\nNotas\n\n1. As substâncias enumeradas na presente lista podem ser adicionadas a todos os géneros alimentícios, com excepção dos referidos no nº 3 do artigo 2º, de acordo com o princípio quantum satis.\n\n2. As substâncias que figuram na lista com os números E 407 e E 440 poderão ser padronizadas com açúcares, desde que tal seja declarado juntamente com o seu número e designação.\n\n3. Explicação dos símbolos utilizados:\n\n* As substâncias E 290, E 938, E 939, E 941, E 942 e E 948 podem também ser utilizadas nos géneros alimentícios mencionados no nº 3 do artigo 2º\n\n>REFERÊNCIA A UM GRÁFICO> As substâncias E 410, E 412, E 415 e E 417 não podem ser utilizadas para produzir géneros alimentícios desidratados destinados a ser re-hidratados após ingeridos.\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "2f24ddb0f30b704f": {
+   "fragment_id": "ANEXO II — GÉNEROS ALIMENTÍCIOS EM QUE É PERMITIDO UTILIZAR UM NÚMERO LIMITADO DE ADITIVOS DO ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO II — GÉNEROS ALIMENTÍCIOS EM QUE É PERMITIDO UTILIZAR UM NÚMERO LIMITADO DE ADITIVOS DO ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — GÉNEROS ALIMENTÍCIOS EM QUE É PERMITIDO UTILIZAR UM NÚMERO LIMITADO DE ADITIVOS DO ANEXO I\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "2c1e289909833823": {
+   "fragment_id": "ANEXO III — CONSERVANTES E ANTIOXIDANTES AUTORIZADOS SOB DETERMINADAS CONDIÇÕES",
+   "type": "divisao",
+   "heading": "ANEXO III — CONSERVANTES E ANTIOXIDANTES AUTORIZADOS SOB DETERMINADAS CONDIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — CONSERVANTES E ANTIOXIDANTES AUTORIZADOS SOB DETERMINADAS CONDIÇÕES"
+  },
+  "3d4a82565ab30aa2": {
+   "fragment_id": "PARTE A Sorbatos, benzoatos e p-hidroxibenzoatos — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "PARTE A Sorbatos, benzoatos e p-hidroxibenzoatos — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE A Sorbatos, benzoatos e p-hidroxibenzoatos — >POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "3f43163180ca1d80": {
+   "fragment_id": "PARTE B Dióxido de enxofre e sulfitos — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "PARTE B Dióxido de enxofre e sulfitos — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE B Dióxido de enxofre e sulfitos — >POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "cef568e6b5c6bf5c": {
+   "fragment_id": "PARTE C Outros conservantes — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "PARTE C Outros conservantes — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE C Outros conservantes — >POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "ba47c9f3ed359a4b": {
+   "fragment_id": "PARTE D Outros antioxidantes — Notas",
+   "type": "divisao",
+   "heading": "PARTE D Outros antioxidantes — Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE D Outros antioxidantes — Notas\n\nO sinal * que figura na tabela refere-se à regra da proporcionalidade: quando forem utilizadas combinações de galhatos BHA e BHT, os teores de cada uma destas substâncias deverão ser reduzidos proporcionalmente.\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "b289b84a7123c860": {
+   "fragment_id": "ANEXO IV — OUTROS ADITIVOS AUTORIZADOS",
+   "type": "divisao",
+   "heading": "ANEXO IV — OUTROS ADITIVOS AUTORIZADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — OUTROS ADITIVOS AUTORIZADOS\n\nOs níveis máximos de utilização indicados dizem respeito aos géneros alimentícios prontos a consumir preparados de acordo com as instruções do fabricante.\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "23a673c766b8a359": {
+   "fragment_id": "ANEXO V — AGENTES DE TRANSPORTE E SOLVENTES DE TRANSPORTE AUTORIZADOS",
+   "type": "divisao",
+   "heading": "ANEXO V — AGENTES DE TRANSPORTE E SOLVENTES DE TRANSPORTE AUTORIZADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — AGENTES DE TRANSPORTE E SOLVENTES DE TRANSPORTE AUTORIZADOS\n\nNota\n\nEsta lista não inclui:\n\n1. Substâncias geralmente consideradas géneros alimentícios;\n\n2. As substâncias a que se refere o nº 5 do artigo 1º;\n\n3. Substâncias fundamentalmente com a função de acidificante ou de regulador de acidez, tais como o ácido cítrico e o hidróxido de amónio.\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "ebed2acb5f306e63": {
+   "fragment_id": "ANEXO VI — ADITIVOS ALIMENTARES AUTORIZADOS EM ALIMENTOS PARA LACTENTES E CRIANÇAS",
+   "type": "divisao",
+   "heading": "ANEXO VI — ADITIVOS ALIMENTARES AUTORIZADOS EM ALIMENTOS PARA LACTENTES E CRIANÇAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — ADITIVOS ALIMENTARES AUTORIZADOS EM ALIMENTOS PARA LACTENTES E CRIANÇAS\n\nNota\n\nOs preparados e alimentos para desmame de lactentes e para crianças de tenra idade poderão conter goma arábica (E 414) e sílica (E 551), resultantes da incorporação de misturas de nutrientes que contenham, no máximo, 10 g/kg de cada uma dessas substâncias, e ainda manitol (E 421), quando este for utilizado como agente de transporte da vitamina B12 (nunca menos de uma parte de vitamina B12 para 1 000 partes de manitol).\n\nOs teores máximos de utilização que são indicados dizem respeito a géneros alimentícios prontos a consumir preparados de acordo com as instruções do fabricante.\n\nPARTE 1 ADITIVOS ALIMENTARES AUTORIZADOS NOS PREPARADOS PARA LACTENTES SAUDÁVEIS\n\nNotas\n\n1. No fabrico dos leites acidificados, poderão ser utilizadas culturas não patogénicas produtoras de ácido L(+)-láctico.\n\n2. Se forem incorporadas num género alimentício mais do que uma das substâncias E 322 e E 471, o teor máximo fixado para cada uma dessas substâncias nesse género alimentício será reduzido da parcela correspondente à outra substância presente no mesmo género alimentício.\n\n>POSIÇÃO NUMA TABELA>\n\nPARTE 2 ADITIVOS ALIMENTARES AUTORIZADOS EM PREPARADOS DE TRANSIÇÃO PARA LACTENTES SAUDÁVEIS\n\nNotas\n\n1. No fabrico de leites acidificados poderão ser utilizadas culturas não patogénicas produtoras de ácido L(+)-láctico.\n\n2. Se forem incorporadas num género alimentício mais do que uma das substâncias E 322 e E 471, o teor máximo fixado para cada uma dessas substâncias nesse género alimentício será reduzido da parcela correspondente à outra substância presente no mesmo género.\n\n3. Se forem incorporadas num género alimentício mais do que uma das substâncias E 407, E 410 e E 412, o teor máximo fixado para cada uma dessas substâncias nesse género alimentício será reduzido da parcela correspondente ao conjunto das outras substâncias presentes.\n\n>POSIÇÃO NUMA TABELA>\n\nPARTE 3 ADITIVOS ALIMENTARES AUTORIZADOS EM ALIMENTOS PARA DESMAME DE LACTENTES E CRIANÇAS SAUDÁVEIS\n\n>POSIÇÃO NUMA TABELA>\n\nPARTE 4 ADITIVOS ALIMENTARES AUTORIZADOS EM ALIMENTOS PARA LACTENTES E CRIANÇAS, COM FINS MÉDICOS ESPECÍFICOS\n\nSão aplicáveis as tabelas das partes 1 a 3 do anexo VI."
+  },
+  "ea6c24472c41e2e5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01995L0002 — PT — 20.01.2011 — 008.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31995L0002) [DIRECTIVA 95/2/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/31995L0002) [de 20 de Fevereiro de 1995](http://publications.europa.eu/resource/celex/31995L0002) [relativa aos aditivos alimentares com excepção dos corantes e dos edulcorantes](http://publications.europa.eu/resource/celex/31995L0002) (JO L 061, 18.3.1995, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1333/2008 do Parlamento Europeu e do Conselho de 16 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008R1333) — L 354 — 16 — 31.12.2008"
+  }
+ }
+}

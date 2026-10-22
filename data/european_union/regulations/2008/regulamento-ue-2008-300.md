@@ -37,6 +37,72 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-02'
+version_history:
+  file: regulamento-ue-2008-300.versoes.json
+  count: 3
+  source_lastmod: '2026-08-02'
+  versions:
+  - date: '2008-04-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-02-23'
+    amending: eu:celex:32010R0018:por
+    amending_title: REGULAMENTO (UE) N. o 18/2010 DA COMISSÃO de 8 de Janeiro de 2010; REGULAMENTO (UE) 2026/247 DA COMISSÃO
+      de 2 de fevereiro de 2026
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 24.º — Entrada em vigor
+    - Altera Notas
+    - Adita [►M1](http://publications.europa.eu/resource/celex/32010R0018) ANEXO I◄
+    - Adita NORMAS DE BASE COMUNS DE PROTECÇÃO DA AVIAÇÃO CIVIL CONTRA ACTOS DE INTERFERÊNCIA ILÍCITA (ARTIGO 4.º)
+    - Adita 1. SEGURANÇA DO AEROPORTO
+    - Adita 1.1. Requisitos de planeamento aeroportuário
+    - Adita 1.2. Controlo do acesso
+    - Adita 1.3. Rastreio de pessoas que não sejam passageiros e dos objectos que transportem
+    - Adita 1.4. Controlo dos veículos
+    - Adita 1.5. Vigilância, rondas e outros controlos físicos
+    - Adita 2. ZONAS DEMARCADAS DOS AEROPORTOS
+    - Adita 3. SEGURANÇA DAS AERONAVES
+    - Adita 4. PASSAGEIROS E BAGAGEM DE CABINA
+    - Adita 4.1. Rastreio dos passageiros e da bagagem de cabina
+    - Adita 4.2. Protecção dos passageiros e da bagagem de cabina
+    - Adita 4.3. Passageiros potencialmente causadores de distúrbios
+    - Adita 5. BAGAGEM DE PORÃO
+    - Adita 5.1. Rastreio da bagagem de porão
+    - Adita 5.2. Protecção da bagagem de porão
+    - Adita 5.3. Reconciliação da bagagem
+    - Adita 6. CARGA E CORREIO
+    - Adita 6.1. Controlos de segurança aplicáveis à carga e ao correio
+    - Adita 6.2. Protecção da carga e do correio
+    - Adita 7. CORREIO E MATERIAL DA TRANSPORTADORA AÉREA
+    - Adita 8. PROVISÕES DE BORDO
+    - Adita 9. PROVISÕES DO AEROPORTO
+    - Adita 10. MEDIDAS DE SEGURANÇA DURANTE O VOO
+    - Adita 11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL
+    - Adita 12. EQUIPAMENTOS DE SEGURANÇA
+    - Adita ANEXO II
+    - Adita Especificações comuns para o programa nacional de controlo da qualidade a aplicar por cada Estado-Membro no domínio
+      da segurança da aviação civil
+    - Adita 1. DEFINIÇÕES
+    - Adita 2. PODERES DA AUTORIDADE COMPETENTE
+    - Adita 3. OBJETIVOS E CONTEÚDO DO PROGRAMA NACIONAL DE CONTROLO DA QUALIDADE
+    - Adita 4. CONTROLO DA CONFORMIDADE
+    - Adita 5. METODOLOGIA
+    - Adita 6. AUDITORIAS À SEGURANÇA
+    - Adita 7. INSPEÇÕES
+  - date: '2026-08-02'
+    amending: eu:celex:32024R1689:por
+    amending_title: REGULAMENTO (UE) 2024/1689 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Normas de base comuns
+    - Altera Notas
+    - Adita Modelo para a comunicação de informações sobre ocorrências e incidentes de segurança ([^3^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0003))
+    - Adita Classificação comum de ocorrências e incidentes de segurança ([^11^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0011))
+    - Suprime Modelo para a comunicação de informações sobre ocorrências e incidentes de segurança ([^2^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0002))
+    - Suprime Classificação comum de ocorrências e incidentes de segurança ([^10^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0010))
 identifiers:
   celex: 32008R0300
   eli: http://data.europa.eu/eli/reg/2008/300/oj
@@ -51,7 +117,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/da45f838-cc98-4788-be3b-2ac0a9768ae1.0019
   content_url: http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0300-20260802
-  retrieved_at: '2026-10-22T02:47:59Z'
+  retrieved_at: '2026-10-22T15:14:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T02:16:21.698+01:00'
 integrity:
@@ -60,9 +126,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:59Z'
-  notes: Texto consolidado 02008R0300-20260802.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:14:27Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2008-300.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -170,31 +236,20 @@ relationships:
   date: '2003-01-02'
 article_structure:
   article_count: 24
-  section_count: 74
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 75
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:59Z'
-  warnings: []
+  checked_at: '2026-10-22T15:14:27Z'
+  warnings:
+  - '02008R0300-20100201: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 300/2008 do Parlamento Europeu e do Conselho, de 11 de Março de 2008
-
-> 02008R0300 — PT — 02.08.2026 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010R0018) — [REGULAMENTO (UE) N.º 18/2010 DA COMISSÃO de 8 de Janeiro de 2010](http://publications.europa.eu/resource/celex/32010R0018) — L 7 — 3 — 12.1.2010
-- [►M2](http://publications.europa.eu/resource/celex/32024R1689) — [REGULAMENTO (UE) 2024/1689 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1689) — L 1689 — 1 — 12.7.2024
-- [►M3](http://publications.europa.eu/resource/celex/32026R0247) — [REGULAMENTO (UE) 2026/247 DA COMISSÃO de 2 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0247) — L 247 — 1 — 3.2.2026
-
-## REGULAMENTO (CE) N.º 300/2008 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de Março de 2008
 

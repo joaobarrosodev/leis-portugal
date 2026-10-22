@@ -34,6 +34,20 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2003-12-11'
+version_history:
+  file: diretiva-ue-1976-116.versoes.json
+  count: 2
+  source_lastmod: '2003-12-11'
+  versions:
+  - date: '1976-01-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-12-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Adita preambulo
 identifiers:
   celex: 31976L0116
   eli: http://data.europa.eu/eli/dir/1976/116/oj
@@ -48,7 +62,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f50d807c-6175-4480-9a31-6d7b13dc1213.0011
   content_url: http://publications.europa.eu/resource/cellar/c28c2760-d594-4443-b2b6-fc5c2f235c0a.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0116-20031211
-  retrieved_at: '2026-10-22T02:54:25Z'
+  retrieved_at: '2026-10-22T14:31:32Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T10:46:27.754+01:00'
 integrity:
@@ -57,9 +71,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:54:25Z'
-  notes: Texto consolidado 01976L0116-20031211.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:31:32Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1976-116.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -163,16 +177,26 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:54:25Z'
+  checked_at: '2026-10-22T14:31:32Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01976L0116-19810101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0116-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0116-19880325: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0116-19890417: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0116-19890922: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0116-19930728: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0116-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0116-19960703: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0116-19971226: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0116-19980212: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0116-19990212: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0116-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

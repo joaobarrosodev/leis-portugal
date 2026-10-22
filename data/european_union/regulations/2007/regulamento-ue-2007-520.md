@@ -34,6 +34,104 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-12-22'
+version_history:
+  file: regulamento-ue-2007-520.versoes.json
+  count: 6
+  source_lastmod: '2022-12-22'
+  versions:
+  - date: '2007-05-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-01-01'
+    amending: eu:celex:32007R1559:por
+    amending_title: REGULAMENTO (CE) N. o 1559/2007 DO CONSELHO de 17 de Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Zonas
+    - Altera Artigo 12.º — Atum patudo e voador do Atlântico Norte
+    - Altera Artigo 32.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Lista das espécies altamente migradoras
+    - Adita ANEXO II
+    - Adita Lista dos tunídeos e espécies afins da ICCAT
+    - Adita ANEXO III
+    - Adita Comprimento dos navios (n.º 2 do artigo 6.º)
+    - Adita ANEXO IV
+    - Suprime Artigo 6.º — Pesca do atum rabilho no Mediterrâneo
+    - Suprime Artigo 11.º — Procedimento de amostragem nas jaulas de atum rabilho
+  - date: '2017-12-03'
+    amending: eu:celex:32017R2107:por
+    amending_title: REGULAMENTO (UE) 2017/2107 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de novembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Zonas
+    - Altera Artigo 12.º — Atum patudo e voador do Atlântico Norte
+    - Altera Notas
+    - Suprime TÍTULO II
+    - Suprime MEDIDAS TÉCNICAS APLICÁVEIS NA ZONA 1
+    - Suprime ANEXO II
+    - Suprime Lista dos tunídeos e espécies afins da ICCAT
+    - Suprime ANEXO III
+    - Suprime Comprimento dos navios (n.º 2 do artigo 6.º)
+    - Suprime ANEXO IV
+  - date: '2021-02-15'
+    amending: eu:celex:32021R0056:por
+    amending_title: REGULAMENTO (UE) 2021/56 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de janeiro de 2021
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Zonas
+    - Altera Artigo 12.º — Atum patudo e voador do Atlântico Norte
+    - Altera Notas
+    - Suprime TÍTULO IV
+    - Suprime MEDIDAS TÉCNICAS APLICÁVEIS NA ZONA 3
+    - Suprime Artigo 21.º — Transbordo
+    - Suprime Artigo 22.º — Limitação do número de navios
+    - Suprime Artigo 23.º — Protecção dos golfinhos
+    - Suprime Artigo 24.º — Pedidos de LMG
+    - Suprime Artigo 25.º — Repartição dos LMG
+    - Suprime Artigo 26.º — Protecção de outras espécies não alvo
+    - Suprime Artigo 27.º — Tartarugas marinhas
+  - date: '2022-11-15'
+    amending: eu:celex:32022R2056:por
+    amending_title: REGULAMENTO (UE) 2022/2056 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de outubro de 2022
+    changes:
+    - Altera Artigo 4.º — Zonas
+    - Altera Artigo 12.º — Atum patudo e voador do Atlântico Norte
+    - Altera Notas
+    - Suprime Artigo 28.º — Redução dos resíduos
+  - date: '2022-12-22'
+    amending: eu:celex:32022R2343:por
+    amending_title: REGULAMENTO (UE) 2022/2343 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de novembro de 2022
+    changes:
+    - Altera Artigo 4.º — Zonas
+    - Suprime CAPÍTULO 1
+    - Suprime Restrições à utilização de determinados tipos de navios e de artes
+    - Suprime Artigo 5.º — Protecção do atum patudo em certas águas tropicais
+    - Suprime Artigo 7.º — Pesca do gaiado, do atum patudo e do albacora em determinadas águas portuguesas
+    - Suprime CAPÍTULO 2
+    - Suprime Tamanho mínimo
+    - Suprime Artigo 8.º — Dimensões
+    - Suprime Artigo 9.º — Proibições
+    - Suprime Artigo 10.º — Medição do tamanho
+    - Suprime CAPÍTULO 3
+    - Suprime Limitação do número de navios
+    - Suprime Artigo 12.º — Atum patudo e voador do Atlântico Norte
+    - Suprime CAPÍTULO 4
+    - Suprime Espécies não alvo e pesca desportiva e de lazer
+    - Suprime Artigo 13.º — Espadins
+    - Suprime Artigo 14.º — Tubarões
+    - Suprime Artigo 15.º — Tartarugas marinhas
+    - Suprime Artigo 16.º — Pesca desportiva e de lazer no Mediterrâneo
+    - Suprime Artigo 17.º — Relatório
+    - Suprime Artigo 18.º — Número de navios autorizados
+    - Suprime Espécies não alvo
+    - Suprime Artigo 19.º — Tubarões
+    - Suprime Artigo 20.º — Tartarugas marinhas
+    - Suprime Notas
 identifiers:
   celex: 32007R0520
   eli: http://data.europa.eu/eli/reg/2007/520/oj
@@ -48,7 +146,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b9e29b79-f9b3-4513-b4f7-0488fbe99976.0018
   content_url: http://publications.europa.eu/resource/cellar/168868e3-80f3-11ed-9887-01aa75ed71a1.0019.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0520-20221222
-  retrieved_at: '2026-10-22T02:58:40Z'
+  retrieved_at: '2026-10-22T15:08:38Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T18:47:18.941+01:00'
 integrity:
@@ -57,9 +155,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:40Z'
-  notes: Texto consolidado 02007R0520-20221222.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:08:38Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2007-520.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -133,32 +231,18 @@ relationships:
 article_structure:
   article_count: 8
   section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:40Z'
+  checked_at: '2026-10-22T15:08:38Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 520/2007 do Conselho, de 7 de Maio de 2007
-
-> 02007R0520 — PT — 22.12.2022 — 005.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32007R1559) — [REGULAMENTO (CE) N.º 1559/2007 DO CONSELHO de 17 de Dezembro de 2007](http://publications.europa.eu/resource/celex/32007R1559) — L 340 — 8 — 22.12.2007
-- [►M2](http://publications.europa.eu/resource/celex/32017R2107) — [REGULAMENTO (UE) 2017/2107 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de novembro de 2017](http://publications.europa.eu/resource/celex/32017R2107) — L 315 — 1 — 30.11.2017
-- [►M3](http://publications.europa.eu/resource/celex/32021R0056) — [REGULAMENTO (UE) 2021/56 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de janeiro de 2021](http://publications.europa.eu/resource/celex/32021R0056) — L 24 — 1 — 26.1.2021
-- [►M4](http://publications.europa.eu/resource/celex/32022R2056) — [REGULAMENTO (UE) 2022/2056 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de outubro de 2022](http://publications.europa.eu/resource/celex/32022R2056) — L 276 — 1 — 26.10.2022
-- [►M5](http://publications.europa.eu/resource/celex/32022R2343) — [REGULAMENTO (UE) 2022/2343 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de novembro de 2022](http://publications.europa.eu/resource/celex/32022R2343) — L 311 — 1 — 2.12.2022
-
-## REGULAMENTO (CE) N.º 520/2007 DO CONSELHO
 
 de 7 de Maio de 2007
 

@@ -35,6 +35,99 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-09-26'
+version_history:
+  file: regulamento-ue-1999-2430.versoes.json
+  count: 11
+  source_lastmod: '2011-09-26'
+  versions:
+  - date: '1999-11-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-12-18'
+    amending: eu:celex:32002R1756:por
+    amending_title: REGULAMENTO (CE) N. o 1756/2002 DO CONSELHO de 23 de Setembro de 2002; REGULAMENTO (CE) N. o 2037/2005
+      DA COMISSÃO de 14 de Dezembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Notas
+    - Suprime ANEXO I — >POSIÇÃO NUMA TABELA>
+    - Suprime ANEXO II — >POSIÇÃO NUMA TABELA>
+  - date: '2006-02-17'
+    amending: eu:celex:32006R0249:por
+    amending_title: REGULAMENTO (CE) N. o 249/2006 DA COMISSÃO de 13 de Fevereiro de 2006
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2007-07-02'
+    amending: eu:celex:32007R1519:por
+    amending_title: REGULAMENTO (CE) N. o 1519/2007 DA COMISSÃO de 19 de Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2008-07-08'
+    amending: eu:celex:32008R0552:por
+    amending_title: REGULAMENTO (CE) N. o 552/2008 DA COMISSÃO de 17 de Junho de 2008
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2008-10-27'
+    amending: eu:celex:32008R0976:por
+    amending_title: REGULAMENTO (CE) N. o 976/2008 DA COMISSÃO de 6 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2010-10-28'
+    amending: eu:celex:32010R0874:por
+    amending_title: REGULAMENTO (UE) N. o 874/2010 DA COMISSÃO de 5 de Outubro de 2010; REGULAMENTO (UE) N. o 885/2010 DA
+      COMISSÃO de 7 de Outubro de 2010
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2010-12-23'
+    amending: eu:celex:32010R1118:por
+    amending_title: REGULAMENTO (UE) N. o 1118/2010 DA COMISSÃO de 2 de Dezembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2011-05-10'
+    amending: eu:celex:32011R0388:por
+    amending_title: Regulamento de Execução (UE) n. o 388/2011 da Comissão de 19 de Abril de 2011
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2011-06-21'
+    amending: eu:celex:32011R0532:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 532/2011 DA COMISSÃO de 31 de Maio de 2011
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2011-09-26'
+    amending: eu:celex:32011R0888:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 888/2011 DA COMISSÃO de 5 de Setembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera ANEXO II
+    - Altera Notas
 identifiers:
   celex: 31999R2430
   eli: http://data.europa.eu/eli/reg/1999/2430/oj
@@ -49,7 +142,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b48bbe01-7b62-453c-a5bb-eb9edf66e6b7.0011
   content_url: http://publications.europa.eu/resource/cellar/7659c34f-bf6a-47dc-bed4-a9784d65c749.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R2430-20110926
-  retrieved_at: '2026-10-22T03:09:37Z'
+  retrieved_at: '2026-10-22T14:48:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T10:06:34.493+01:00'
 integrity:
@@ -58,9 +151,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:09:37Z'
-  notes: Texto consolidado 01999R2430-20110926.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:26Z'
+  notes: 11 versão(ões); histórico completo em regulamento-ue-1999-2430.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -145,40 +238,20 @@ relationships:
   source: null
 article_structure:
   article_count: 3
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:09:37Z'
-  warnings: []
+  checked_at: '2026-10-22T14:48:26Z'
+  warnings:
+  - '01999R2430-20030331: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) n° 2430/1999 da Comissão, de 16 de Novembro de 1999
-
-> 1999R2430 — PT — 26.09.2011 — 011.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32002R1756) — [REGULAMENTO (CE) N.º 1756/2002 DO CONSELHO de 23 de Setembro de 2002](http://publications.europa.eu/resource/celex/32002R1756) — L 265 — 1 — 3.10.2002
-- [►M2](http://publications.europa.eu/resource/celex/32005R2037) — [REGULAMENTO (CE) N.º 2037/2005 DA COMISSÃO de 14 de Dezembro de 2005](http://publications.europa.eu/resource/celex/32005R2037) — L 328 — 21 — 15.12.2005
-- [►M3](http://publications.europa.eu/resource/celex/32006R0249) — [REGULAMENTO (CE) N.º 249/2006 DA COMISSÃO de 13 de Fevereiro de 2006](http://publications.europa.eu/resource/celex/32006R0249) — L 42 — 22 — 14.2.2006
-- [M4](http://publications.europa.eu/resource/celex/32007R1519) — [REGULAMENTO (CE) N.º 1519/2007 DA COMISSÃO de 19 de Dezembro de 2007](http://publications.europa.eu/resource/celex/32007R1519) — L 335 — 15 — 20.12.2007
-- [M5](http://publications.europa.eu/resource/celex/32008R0552) — [REGULAMENTO (CE) N.º 552/2008 DA COMISSÃO de 17 de Junho de 2008](http://publications.europa.eu/resource/celex/32008R0552) — L 158 — 3 — 18.6.2008
-- [M6](http://publications.europa.eu/resource/celex/32008R0976) — [REGULAMENTO (CE) N.º 976/2008 DA COMISSÃO de 6 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R0976) — L 266 — 3 — 7.10.2008
-- [►M7](http://publications.europa.eu/resource/celex/32010R0874) — [REGULAMENTO (UE) N.º 874/2010 DA COMISSÃO de 5 de Outubro de 2010](http://publications.europa.eu/resource/celex/32010R0874) — L 263 — 1 — 6.10.2010
-- [►M8](http://publications.europa.eu/resource/celex/32010R0885) — [REGULAMENTO (UE) N.º 885/2010 DA COMISSÃO de 7 de Outubro de 2010](http://publications.europa.eu/resource/celex/32010R0885) — L 265 — 5 — 8.10.2010
-- [►M9](http://publications.europa.eu/resource/celex/32010R1118) — [REGULAMENTO (UE) N.º 1118/2010 DA COMISSÃO de 2 de Dezembro de 2010](http://publications.europa.eu/resource/celex/32010R1118) — L 317 — 5 — 3.12.2010
-- [►M10](http://publications.europa.eu/resource/celex/32011R0388) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 388/2011 DA COMISSÃO de 19 de Abril de 2011](http://publications.europa.eu/resource/celex/32011R0388) — L 104 — 3 — 20.4.2011
-- [►M11](http://publications.europa.eu/resource/celex/32011R0532) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 532/2011 DA COMISSÃO de 31 de Maio de 2011](http://publications.europa.eu/resource/celex/32011R0532) — L 146 — 7 — 1.6.2011
-- [►M12](http://publications.europa.eu/resource/celex/32011R0888) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 888/2011 DA COMISSÃO de 5 de Setembro de 2011](http://publications.europa.eu/resource/celex/32011R0888) — L 229 — 9 — 6.9.2011
-
-## REGULAMENTO (CE) N.º 2430/1999 DA COMISSÃO
 
 de 16 de Novembro de 1999
 

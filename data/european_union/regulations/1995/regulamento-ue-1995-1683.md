@@ -33,6 +33,47 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-12-27'
+version_history:
+  file: regulamento-ue-1995-1683.versoes.json
+  count: 2
+  source_lastmod: '2023-12-27'
+  versions:
+  - date: '1995-07-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-12-27'
+    amending: eu:celex:32002R0334:por
+    amending_title: REGULAMENTO (CE) N. o 334/2002 DO CONSELHO de 18 de Fevereiro de 2002; M2; REGULAMENTO (CE) N. o 856/2008
+      DO CONSELHO de 24 de Julho de 2008; M4; REGULAMENTO (UE) N. o 610/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de
+      junho de 2013; REGULAMENTO (UE) 2017/1370 DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de julho de 2017; REGULAMENTO (UE)
+      2023/2685 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023; ACTO relativo às condições de adesão da República
+      Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República
+      da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações
+      dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita ANEXO
+    - Adita Dispositivos de segurança
+    - Adita Partes a completar
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime ANEXO — >REFERÊNCIA A UMA IMAGEN>
 identifiers:
   celex: 31995R1683
   eli: http://data.europa.eu/eli/reg/1995/1683/oj
@@ -47,7 +88,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9722b804-a235-4348-ba5c-f7e592040cf5.0011
   content_url: http://publications.europa.eu/resource/cellar/ee366c65-af07-11ee-b164-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995R1683-20231227
-  retrieved_at: '2026-10-22T02:42:18Z'
+  retrieved_at: '2026-10-22T14:44:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-16T09:45:20.228+02:00'
 integrity:
@@ -56,9 +97,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:18Z'
-  notes: Texto consolidado 01995R1683-20231227.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:44:36Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1995-1683.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -152,39 +193,25 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/0b4430ef-7d25-41b9-be3d-94be73774062
 article_structure:
   article_count: 8
-  section_count: 3
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 4
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:18Z'
-  warnings: []
+  checked_at: '2026-10-22T14:44:36Z'
+  warnings:
+  - '01995R1683-20020315: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995R1683-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995R1683-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01995R1683-20080922: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01995R1683-20131018: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01995R1683-20170817: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) nº 1683/95 do Conselho, de 29 de Maio de 1995
-
-> 01995R1683 — PT — 27.12.2023 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32002R0334) — [REGULAMENTO (CE) N.º 334/2002 DO CONSELHO de 18 de Fevereiro de 2002](http://publications.europa.eu/resource/celex/32002R0334) — L 53 — 7 — 23.2.2002
-- [M2](http://publications.europa.eu/resource/celex/32006R1791) — [REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006R1791) — L 363 — 1 — 20.12.2006
-- [►M3](http://publications.europa.eu/resource/celex/32008R0856) — [REGULAMENTO (CE) N.º 856/2008 DO CONSELHO de 24 de Julho de 2008](http://publications.europa.eu/resource/celex/32008R0856) — L 235 — 1 — 2.9.2008
-- [M4](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [►M5](http://publications.europa.eu/resource/celex/32013R0610) — [REGULAMENTO (UE) N.º 610/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0610) — L 182 — 1 — 29.6.2013
-- [►M6](http://publications.europa.eu/resource/celex/32017R1370) — [REGULAMENTO (UE) 2017/1370 DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de julho de 2017](http://publications.europa.eu/resource/celex/32017R1370) — L 198 — 24 — 28.7.2017
-- [►M7](http://publications.europa.eu/resource/celex/32023R2685) — [REGULAMENTO (UE) 2023/2685 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2685) — L — 1 — 7.12.2023
-
-**Alterado por:**
-
-- [A1](http://publications.europa.eu/resource/celex/12003T%2FTXT) — [ACTO relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T%2FTXT) — L 236 — 33 — 23.9.2003
-
-## REGULAMENTO (CE) N.º 1683/95 DO CONSELHO
 
 de 29 de Maio de 1995
 

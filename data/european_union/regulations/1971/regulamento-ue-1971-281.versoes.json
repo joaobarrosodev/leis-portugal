@@ -1,0 +1,69 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31971R0281:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01971R0281-20040127",
+ "dre_path": null,
+ "source_lastmod": "2004-01-27",
+ "versions": [
+  {
+   "date": "1971-02-10",
+   "future": false,
+   "celex": "31971R0281",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4f1a950d777bce17",
+    "f2ced8394cc7bcd7",
+    "fbd4094d823bc67f"
+   ]
+  },
+  {
+   "date": "2004-01-27",
+   "future": false,
+   "celex": "01971R0281-20040127",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo único",
+    "Suprime ANEXO — Lista das vias navegáveis de carácter marítimo referida na alínea e) do artigo 3o do Regulamento (CEE) no 1108/70 do Conselho de 4 de Junho de 1970"
+   ],
+   "fragments": [
+    "60a994eff7385f8c"
+   ]
+  }
+ ],
+ "fragments": {
+  "4f1a950d777bce17": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 281/71 da Comissão, de 9 de Fevereiro de 1971, relativo à determinação da lista das vias navegáveis de carácter marítimo referida na alínea e) do artigo 3º do Regulamento (CEE) nº 1108/70 do Conselho de 4 de Junho de 1970** *Jornal Oficial nº L 033 de 10/02/1971 p. 0011 - 0012 Edição especial finlandesa: Capítulo 7 Fascículo 1 p. 0115 Edição especial dinamarquesa: Série I Capítulo 1971(I) p. 0053 Edição especial sueca: Capítulo 7 Fascículo 1 p. 0115 Edição especial inglesa: Série I Capítulo 1971(I) p. 0057 Edição especial grega: Capítulo 07 Fascículo 1 p. 0170 Edição especial espanhola: Capítulo 07 Fascículo 1 p. 0168 Edição especial portuguesa: Capítulo 07 Fascículo 1 p. 0168*\n\nREGULAMENTO (CEE) No 281/71 DA COMISSÃO de 9 de Fevereiro de 1971 relativo à determinação da lista das vias navegáveis de carácter marítimo referida na alínea e) do artigo 3o do Regulamento (CEE) no 1108/70 do Conselho de 4 de Junho de 1970\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) no 1108/70 do Conselho, de 4 de Junho de 1970, que introduz um sistema de contabilidade das despesas referentes às infra-estruturas de transportes ferroviários, rodoviários e por via navegável (1), e nomeadamente a alínea e) do artigo 3o e o no 2 do artigo 9o,\n\nTendo em conta os pareceres formulados pelos membros do Comité de Peritos Governamentais,\n\nConsiderando que, nos termos do regulamento do Conselho supracitado, a contabilidade das despesas de infra-estrutura não é efectuada para diversas categorias de infra-estruturas; que tal é, entre outros, o caso de determinadas vias navegáveis de carácter marítimo, cuja lista compete à Comissão aprovar;\n\nConsiderando que importa ter em conta, na elaboração dessa lista, a parte do tráfego assegurada pela navegação interior nas vias navegáveis de carácter marítimo, ou o interesse que a introdução de um sistema de contabilidade das despesas de infra-estrutura para essas vias apresenta do ponto de vista da introdução de uma tarificação pela utilização das infra-estruturas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f2ced8394cc7bcd7": {
+   "fragment_id": "Artigo único",
+   "type": "artigo",
+   "heading": "Artigo único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo único\n\nA lista das vias navegáveis de carácter marítimo referida na alínea e) do artigo 3o do Regulamento (CEE) no 1108/70 do Conselho, de 4 de Junho de 1970, será determinada em conformidade com o Anexo do presente regulamento, de que faz parte integrante.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 9 de Fevereiro de 1971.\n\nPela Comissão\n\nO Presidente\n\nFranco M. MALFATTI\n\n(1) JO no L 130 de 15. 6. 1970, p. 4."
+  },
+  "fbd4094d823bc67f": {
+   "fragment_id": "ANEXO — Lista das vias navegáveis de carácter marítimo referida na alínea e) do artigo 3o do Regulamento (CEE) no 1108/70 do Conselho de 4 de Junho de 1970",
+   "type": "divisao",
+   "heading": "ANEXO — Lista das vias navegáveis de carácter marítimo referida na alínea e) do artigo 3o do Regulamento (CEE) no 1108/70 do Conselho de 4 de Junho de 1970",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Lista das vias navegáveis de carácter marítimo referida na alínea e) do artigo 3o do Regulamento (CEE) no 1108/70 do Conselho de 4 de Junho de 1970\n\nReino da Bélgica\n\n- Escalda marítimo inferior (Beneden-Zeeschelde)\n\n- Canal marítimo Gand-Terneuzen, a jusante do braço norte do canal circular de Gand (Zeekanaal Gent-Terneuzen)\n\nRepública Federal da Alemanha\n\n- Canal de Kiel (Nord-Ostsee-Kanal)\n\n- Ems inferior (Untere Ems)\n\n- Veser inferior (Unterweser)\n\n- Elba inferior (Unterelbe)\n\nRepública Francesa\n\n- Sena, a jusante da ponte Jeanne-d'Arc em Rouen\n\n- Loire, a jusante de Nantes (confluente do Erdre)\n\n- Garona, a jusante da ponte Pierre em Bordéus, e Gironda\n\nReino dos Países Baixos\n\n- Canal do Mar do Norte (Noordzeekanaal)\n\n- Rotterdamse Waterweg e Nieuwe Maas\n\n- Escalda ocidental (Westerschelde)\n\n- Canal Gand-Terneuzen (Kanaal Gent-Terneuzen)"
+  },
+  "60a994eff7385f8c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1971R0281 — PT — 27.01.2004 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31971R0281) [REGULAMENTO (CEE) N.º 281/71 DA COMISSÃO](http://publications.europa.eu/resource/celex/31971R0281) [de 9 de Fevereiro de 1971](http://publications.europa.eu/resource/celex/31971R0281) [relativo à determinação da lista das vias navegáveis de carácter marítimo referida na alínea e) do artigo 3.º do Regulamento (CEE) n.º 1108/70 do Conselho de 4 de Junho de 1970](http://publications.europa.eu/resource/celex/31971R0281) (JO L 033, 10.2.1971, p.11)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 13/2004 da Comissão de 8 de Dezembro de 2003](http://publications.europa.eu/resource/celex/32004R0013) — L 3 — 3 — 7.1.2004"
+  }
+ }
+}

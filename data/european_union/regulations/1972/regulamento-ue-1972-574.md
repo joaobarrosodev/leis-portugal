@@ -37,6 +37,375 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-05-01'
+version_history:
+  file: regulamento-ue-1972-574.versoes.json
+  count: 10
+  source_lastmod: '2010-05-01'
+  versions:
+  - date: '1972-03-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-02-09'
+    amending: eu:celex:31997R1290:por
+    amending_title: REGULAMENTO (CE) N. o 1290/97 DO CONSELHO de 27 de Junho de 1997; REGULAMENTO (CE) N. o 1223/98 DO CONSELHO
+      de 4 de Junho de 1998; REGULAMENTO (CE) N. o 1606/98 DO CONSELHO de 29 de Junho de 1998; REGULAMENTO (CE) N. o 307/1999
+      DO CONSELHO de 8 de Fevereiro de 1999; REGULAMENTO (CE) N. o 1399/1999 DO CONSELHO de 29 de Abril de 1999; REGULAMENTO
+      (CE) N. o 89/2001 DA COMISSÃO de 17 de Janeiro de 2001; REGULAMENTO (CE) N. o 1386/2001 DO PARLAMENTO EUROPEU E DO CONSELHO
+      de 5 de Junho de 2001; REGULAMENTO (CE) N. o 410/2002 DA COMISSÃO de 27 de Fevereiro de 2002; REGULAMENTO (CE) N. o
+      1851/2003 DA COMISSÃO de 17 de Outubro de 2003; REGULAMENTO (CE) N. o 631/2004 DO PARLAMENTO EUROPEU E DO CONSELHO de
+      31 de Março de 2004; REGULAMENTO (CE) N. o 77/2005 DA COMISSÃO de 13 de Janeiro de 2005; Acto relativo às condições
+      de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República
+      da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da
+      República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Modelos de formulários — informações sobre as legislações — Guias
+    - Altera Artigo 5.º — Substituição dos acordos relativos à aplicação das convenções pelo Regulamento de execução
+    - Altera Artigo 6.º — Admissão ao seguro voluntário ou facultativo continuado
+    - Altera Artigo 12.º — Disposições especiais relativas à inscrição dos trabalhadores assalariados no regime alemão de
+      segurança social
+    - Altera Artigo 16.º — Atestado dos períodos de seguro
+    - Altera Artigo 18.º — Prestações pecuniárias em caso de residência num Estado-membro que não seja o Estado competente
+    - Altera Artigo 19.º — Disposições especiais relativas aos trabalhadores fronteiriços e aos membros da sua família
+    - Altera Artigo 23.º — Prestações em espécie aos membros da família
+    - Altera Artigo 24.º — Prestações pecuniárias aos trabalhadores assalariados ou não assalariados em caso de estada num
+      Estado-membro que não seja o Estado competente
+    - Altera Artigo 25.º — Atestado relativo aos membros da família a tomar em consideração tendo em vista o cálculo das prestações
+      pecuniárias
+    - Altera Artigo 26.º — Prestações aos desempregados que se deslocam a um Estado-membro que não seja o Estado competente,
+      a fim de aí precurar emprego
+    - Altera Artigo 27.º — Prestações em espécie aos membros da família de desempregados em caso de residência num Estado-membro
+      que não seja o Estado competente
+    - Altera Artigo 28.º — Prestações em espécie aos requerentes de pensões ou de rendas e aos membros da sua família
+    - Altera Artigo 33.º — Consideração do período durante o qual já foram concedidas prestações pela instituição de outro
+      Estado-membro
+    - Altera Artigo 40.º — Determinação do grau de invalidez
+    - Altera Artigo 50.º — Medidas tendentes a acelerar a liquidação das prestações
+    - Altera Artigo 52.º
+    - Altera Artigo 61.º — Prestações pecuniárias que não sejam as rendas, em caso de residência num Estado-membro que não
+      seja o Estado competente
+    - Altera Artigo 64.º — Prestações pecuniárias que não sejam as rendas em caso de estada num Estado-membro que não seja
+      o Estado competente
+    - Altera Artigo 66.º — Contestação da natureza profissional do acidente ou da doença
+    - Altera Artigo 70.º — Atestado relativo aos membros da família a tomar em consideração para o cálculo das prestações
+      pecuniárias, incluindo as rendas
+    - Altera Artigo 71.º — Agravamento duma doença profissional
+    - Altera Artigo 74.º — Consideração do período em que já foram concedidas prestações pela instituição de outro Estado-membro
+    - Altera Artigo 75.º
+    - Altera Artigo 76.º
+    - Altera Artigo 80.º — Atestado dos períodos de seguro ou de emprego
+    - Altera Artigo 82.º — Atestado relativo aos membros da família a tomar em consideração para o cálculo das prestações
+    - Altera Artigo 83.º — Condições e limites da manutenção do direito às prestações quando o desempregado se desloca para
+      outro Estado-membro
+    - Altera Artigo 105.º
+    - Altera Artigo 106.º
+    - Adita TÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita Artigo 3.º (7) — Organismos de ligação — Comunicação entre instituições e entre beneficiários e instituições
+    - Adita Artigo 4.º (9) — Anexos
+    - Adita TÍTULO II
+    - Adita APLICAÇÃO DAS DISPOSIÇÕES GERAIS DO REGULAMENTO
+    - Adita Aplicação dos artigos 6.º e 7.º do Regulamento
+    - Adita Aplicação do artigo 9.º do Regulamento
+    - Adita Aplicação do artigo 12.º do Regulamento
+  - date: '2005-05-05'
+    amending: eu:celex:32005R0647:por
+    amending_title: REGULAMENTO (CE) N. o 647/2005 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de Abril de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º (9) — Anexos
+    - Altera Artigo 119.ºA (5) — Disposições transitórias em matéria de pensões e de rendas para aplicação do n.º 1, alínea
+      a), in fine, do artigo 15.º do Regulamento de execução
+    - Altera X. SUÉCIA
+    - Altera Notas
+    - Adita Artigo 10.ºC — Formalidades previstas para a aplicação da alínea d) do n.º 2 do artigo 13.º do regulamento aos
+      funcionários públicos e pessoal equiparado
+    - Adita Artigo 12.ºA (5)
+    - Adita Regras aplicáveis às pessoas a que se referem os n.^os^ 2 e 3 do artigo 14.º, os n.^os^ 2 a 4 do artigo 14.ºA
+      e o artigo 14.ºC do regulamento, que normalmente exercem uma actividade assalariada ou não assalariada no território
+      de dois ou mais Estados-Membros
+    - Adita Artigo 95.º ([^3^](http://publications.europa.eu/resource/cellar/b7af4759-8c69-45b0-9315-f408ba481195.0010.03/DOC_1#E0003))
+      — Reembolso das prestações em espécie do seguro de doença maternidade concedidas aos titulares de pensões ou de rendas
+      e aos membros da sua família que não residam num Estado-membro nos termos de cuja legislação beneficiam de uma pensão
+      ou de uma renda e tenham direito às prestações
+    - Suprime Artigo 12.ºA (5) — Regras aplicáveis às pessoas referidas no n.º 2, alínea b), do artigo 14.º, no n.º 3 do artigo
+      14.º, nos n.^os^ 2 a 4 do artigo 14.ºA e no artigo 14.ºC do Regulamento, que normalmente exercem uma actividade assalariada
+      e/ou não assalariada no território de dois ou mais Estados-membros
+    - Suprime Artigo 32.ºA — Regimes especiais aplicáveis a determinados trabalhadores não assalariados
+    - Suprime Artigo 95.º ([^3^](http://publications.europa.eu/resource/cellar/f97d2074-c278-4d89-a831-2647a21de873.0010.03/DOC_1#E0003))
+      — Reembolso das prestações em espécie do seguro de doença maternidade concedidas aos titulares de pensões ou de rendas
+      e aos membros da sua família que não residam num Estado-membro nos termos de cuja legislação beneficiam de uma pensão
+      ou de uma renda e tenham direito às prestações
+    - Suprime ANEXO 11 (A) (B) (7)
+    - Suprime REGIMES PREVISTOS NO N.º 2 DO ARTIGO 35.º DO REGULAMENTO
+    - Suprime (N.º 11 do artigo 4.º do Regulamento de execução)
+    - Suprime Apêndice ([^5^](http://publications.europa.eu/resource/cellar/f97d2074-c278-4d89-a831-2647a21de873.0010.03/DOC_1#E0005))
+    - Suprime Artigo 95.º (14) — Reembolso das prestações em espécie do seguro de doença-maternidade concedidas aos titulares
+      de pensões ou de rendas e aos membros de uma família que não residam num Estado-membro nos termos de cuja legislação
+      beneficiam de uma pensão ou de uma renda e têm direito às prestações
+  - date: '2006-02-28'
+    amending: eu:celex:32006R0207:por
+    amending_title: REGULAMENTO (CE) N. o 207/2006 DA COMISSÃO de 7 de Fevereiro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 119.ºA (5) — Disposições transitórias em matéria de pensões e de rendas para aplicação do n.º 1, alínea
+      a), in fine, do artigo 15.º do Regulamento de execução
+    - Altera [Alínea 1) do artigo 1.º do Regulamento, n.º 1 do artigo 4.º e artigo 122.º do Regulamento de execução]
+    - Altera J. ITÁLIA
+    - Altera K. CHIPRE
+    - Altera L. LETÓNIA
+    - Altera O. HUNGRIA
+    - Altera Q. PAÍSES BAIXOS
+    - Altera R. ÁUSTRIA
+    - Altera S. POLÓNIA
+    - Altera X. SUÉCIA
+    - Altera (N.º 7 do artigo 4.º, n.º 3 do artigo 55.º e artigo 122.º do Regulamento de execução)
+    - Altera CONCESSÃO DAS PRESTAÇÕES FAMILIARES
+    - Altera Notas
+    - Adita Artigo 95.º ([^3^](http://publications.europa.eu/resource/cellar/70e09afa-10fc-400d-8b04-e2786e1c8ec5.0010.03/DOC_1#E0003))
+      — Reembolso das prestações em espécie do seguro de doença maternidade concedidas aos titulares de pensões ou de rendas
+      e aos membros da sua família que não residam num Estado-membro nos termos de cuja legislação beneficiam de uma pensão
+      ou de uma renda e tenham direito às prestações
+    - Adita 67. DINAMARCA — FINLÂNDIA
+    - Adita 130. ESPANHA — FRANÇA
+    - Adita 142. ESPANHA — PORTUGAL
+    - Adita 146. ESPANHA — SUÉCIA
+    - Adita 290. PORTUGAL — REINO UNIDO
+    - Adita 298. FINLÂNDIA — SUÉCIA
+    - Suprime Artigo 95.º ([^3^](http://publications.europa.eu/resource/cellar/b7af4759-8c69-45b0-9315-f408ba481195.0010.03/DOC_1#E0003))
+      — Reembolso das prestações em espécie do seguro de doença maternidade concedidas aos titulares de pensões ou de rendas
+      e aos membros da sua família que não residam num Estado-membro nos termos de cuja legislação beneficiam de uma pensão
+      ou de uma renda e tenham direito às prestações
+    - Suprime [►A1](http://publications.europa.eu/resource/celex/12003T) 67.◄ DINAMARCA-FINLÂNDIA
+    - Suprime [►A1](http://publications.europa.eu/resource/celex/12003T) 130.◄ ESPANHA-FRANÇA
+    - Suprime [►A1](http://publications.europa.eu/resource/celex/12003T) 142.◄ ESPANHA-PORTUGAL
+    - Suprime 146. ESPANHA-SUÉCIA
+    - Suprime 290. PORTUGAL-REINO UNIDO
+    - Suprime [►A1](http://publications.europa.eu/resource/celex/12003T) 298.◄ FINLÂNDIA-SUÉCIA
+  - date: '2006-04-28'
+    amending: eu:celex:32006R0629:por
+    amending_title: REGULAMENTO (CE) N. o 629/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de Abril de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 60.º — Prestações em espécie em caso de residência num Estado-membro que não seja o Estado competente
+    - Altera Artigo 63.º — Prestações em espécie aos trabalhadores assalariados ou não assalariados em caso de transferência
+      de residência ou de regresso ao país de residência, bem como aos trabalhadores assalariados ou não assalariados autorizados
+      a deslocarem-se para outro Estado-membro, a fim de aí serem tratados
+    - Altera Artigo 66.º — Contestação da natureza profissional do acidente ou da doença
+    - Altera Artigo 93.º — Reembolso de prestações do seguro de doença e maternidade que não sejam as prestações referidas
+      nos artigos 94.º e 95.º do Regulamento de execução
+    - Altera Artigo 119.ºA (5) — Disposições transitórias em matéria de pensões e de rendas para aplicação do n.º 1, alínea
+      a), in fine, do artigo 15.º do Regulamento de execução
+    - Altera Notas
+    - Adita Artigo 62.º
+    - Adita Artigo 95.º ([^3^](http://publications.europa.eu/resource/cellar/ad5197a3-8bef-43ee-a7cc-925c0c7c937d.0016.03/DOC_1#E0003))
+      — Reembolso das prestações em espécie do seguro de doença maternidade concedidas aos titulares de pensões ou de rendas
+      e aos membros da sua família que não residam num Estado-membro nos termos de cuja legislação beneficiam de uma pensão
+      ou de uma renda e tenham direito às prestações
+    - Suprime Artigo 62.º — Prestações em espécie no caso de estada num Estado-membro que não seja o Estado competente
+    - Suprime Artigo 95.º ([^3^](http://publications.europa.eu/resource/cellar/70e09afa-10fc-400d-8b04-e2786e1c8ec5.0010.03/DOC_1#E0003))
+      — Reembolso das prestações em espécie do seguro de doença maternidade concedidas aos titulares de pensões ou de rendas
+      e aos membros da sua família que não residam num Estado-membro nos termos de cuja legislação beneficiam de uma pensão
+      ou de uma renda e tenham direito às prestações
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1791:por
+    amending_title: REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 119.ºA (5) — Disposições transitórias em matéria de pensões e de rendas para aplicação do n.º 1, alínea
+      a), in fine, do artigo 15.º do Regulamento de execução
+    - Altera [Alínea 1) do artigo 1.º do Regulamento, n.º 1 do artigo 4.º e artigo 122.º do Regulamento de execução]
+    - Altera (N.º 7 do artigo 4.º, n.º 3 do artigo 55.º e artigo 122.º do Regulamento de execução)
+    - Altera CONCESSÃO DAS PRESTAÇÕES FAMILIARES
+    - Altera Notas
+    - Adita Artigo 95.º ([^3^](http://publications.europa.eu/resource/cellar/b48d273e-62dc-46cf-8ec9-457f30bbc1c9.0016.03/DOC_1#E0003))
+      — Reembolso das prestações em espécie do seguro de doença maternidade concedidas aos titulares de pensões ou de rendas
+      e aos membros da sua família que não residam num Estado-membro nos termos de cuja legislação beneficiam de uma pensão
+      ou de uma renda e tenham direito às prestações
+    - Adita B. BULGÁRIA
+    - Adita C. REPÚBLICA CHECA
+    - Adita D. DINAMARCA
+    - Adita E. ALEMANHA
+    - Adita F. ESTÓNIA
+    - Adita G. GRÉCIA
+    - Adita H. ESPANHA
+    - Adita I. FRANÇA
+    - Adita J. IRLANDA
+    - Adita K. ITÁLIA
+    - Adita L. CHIPRE
+    - Adita M. LETÓNIA
+    - Adita N. LITUÂNIA
+    - Adita O. LUXEMBURGO
+    - Adita P. HUNGRIA
+    - Adita Q. MALTA
+    - Adita R. PAÍSES BAIXOS
+    - Adita S. ÁUSTRIA
+    - Adita T. POLÓNIA
+    - Adita U. PORTUGAL
+    - Adita V. ROMÉNIA
+    - Adita W. ESLOVÉNIA
+    - Adita X. ESLOVÁQUIA
+    - Adita Y. FINLÂNDIA
+    - Adita Z. SUÉCIA
+    - Adita AA. REINO UNIDO
+    - Adita 1. BELGIQUE — BULGARIE
+    - Adita [►M15](http://publications.europa.eu/resource/celex/32006R1791) 2.◄ BÉLGICA-REPÚBLICA CHECA
+    - Adita [►M15](http://publications.europa.eu/resource/celex/32006R1791) 3.◄ BÉLGICA-DINAMARCA
+    - Adita [►M15](http://publications.europa.eu/resource/celex/32006R1791) 4.◄ BÉLGICA-ALEMANHA
+    - Adita [►M15](http://publications.europa.eu/resource/celex/32006R1791) 5.◄ BÉLGICA-ESTÓNIA
+    - Adita [►M15](http://publications.europa.eu/resource/celex/32006R1791) 6.◄ BÉLGICA-GRÉCIA
+    - Adita [►M15](http://publications.europa.eu/resource/celex/32006R1791) 7.◄ BÉLGICA-ESPANHA
+  - date: '2007-04-12'
+    amending: eu:celex:32007R0311:por
+    amending_title: REGULAMENTO (CE) N. o 311/2007 DA COMISSÃO de 19 de Março de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 119.ºA (5) — Disposições transitórias em matéria de pensões e de rendas para aplicação do n.º 1, alínea
+      a), in fine, do artigo 15.º do Regulamento de execução
+    - Altera [Alínea 1) do artigo 1.º do Regulamento, n.º 1 do artigo 4.º e artigo 122.º do Regulamento de execução]
+    - Altera D. DINAMARCA
+    - Altera H. ESPANHA
+    - Altera J. IRLANDA
+    - Altera K. ITÁLIA
+    - Altera R. PAÍSES BAIXOS
+    - Altera T. POLÓNIA
+    - Altera Z. SUÉCIA
+    - Altera AA. REINO UNIDO
+    - Altera (N.º 7 do artigo 4.º, n.º 3 do artigo 55.º e artigo 122.º do Regulamento de execução)
+    - Altera Notas
+    - Adita Artigo 95.º ([^3^](http://publications.europa.eu/resource/cellar/f73e0b0a-c907-4e7a-ac1b-bcc24d3900bb.0016.03/DOC_1#E0003))
+      — Reembolso das prestações em espécie do seguro de doença maternidade concedidas aos titulares de pensões ou de rendas
+      e aos membros da sua família que não residam num Estado-membro nos termos de cuja legislação beneficiam de uma pensão
+      ou de uma renda e tenham direito às prestações
+    - Adita 17. BÉLGICA-PAÍSES BAIXOS
+    - Adita 79. DINAMARCA-ESPANHA
+    - Adita 82. DINAMARCA-ITÁLIA
+    - Adita 141. ESTÓNIA-REINO UNIDO
+    - Adita 231. ITÁLIA-REINO UNIDO
+    - Adita I. IRLANDA
+    - Adita S. POLÓNIA
+    - Suprime Artigo 95.º ([^3^](http://publications.europa.eu/resource/cellar/b48d273e-62dc-46cf-8ec9-457f30bbc1c9.0016.03/DOC_1#E0003))
+      — Reembolso das prestações em espécie do seguro de doença maternidade concedidas aos titulares de pensões ou de rendas
+      e aos membros da sua família que não residam num Estado-membro nos termos de cuja legislação beneficiam de uma pensão
+      ou de uma renda e tenham direito às prestações
+    - Suprime [►M15](http://publications.europa.eu/resource/celex/32006R1791) 17.◄ BÉLGICA-PAÍSES BAIXOS
+    - Suprime [►M15](http://publications.europa.eu/resource/celex/32006R1791) 79.◄ DINAMARCA-ESPANHA
+    - Suprime [►M15](http://publications.europa.eu/resource/celex/32006R1791) 82.◄ DINAMARCA-ITÁLIA
+    - Suprime [►M15](http://publications.europa.eu/resource/celex/32006R1791) 141.◄ ESTÓNIA-REINO UNIDO
+    - Suprime [►M15](http://publications.europa.eu/resource/celex/32006R1791) 231.◄ ITÁLIA-REINO UNIDO
+  - date: '2008-02-25'
+    amending: eu:celex:32008R0101:por
+    amending_title: REGULAMENTO (CE) N. o 101/2008 DA COMISSÃO de 4 de Fevereiro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 29.º — Prestações em espécie aos titulares de pensões ou de rendas e aos membros da sua família que não
+      residam num Estado-membro nos termos de cuja legislação beneficiem de uma pensão ou de uma renda e que tenham direito
+      às prestações
+    - Altera Artigo 119.ºA (5) — Disposições transitórias em matéria de pensões e de rendas para aplicação do n.º 1, alínea
+      a), in fine, do artigo 15.º do Regulamento de execução
+    - Altera [Alínea 1) do artigo 1.º do Regulamento, n.º 1 do artigo 4.º e artigo 122.º do Regulamento de execução]
+    - Altera R. PAÍSES BAIXOS
+    - Altera T. POLÓNIA
+    - Altera 48. BULGÁRIA — ESLOVÁQUIA
+    - Altera (N.º 7 do artigo 4.º, n.º 3 do artigo 55.º e artigo 122.º do Regulamento de execução)
+    - Altera Notas
+    - Adita Artigo 30.º (14) — Prestações em espécie aos membros da família que reside [►M2](http://publications.europa.eu/resource/celex/31998R1223)
+      fora do Estado-membro competente◄ num Estado-Membro que não seja aquele em que reside o titular de pensão ou de renda
+    - Adita Artigo 95.º ([^3^](http://publications.europa.eu/resource/cellar/d809e53b-1197-494e-88f4-114ed16f262c.0017.03/DOC_1#E0003))
+      — Reembolso das prestações em espécie do seguro de doença maternidade concedidas aos titulares de pensões ou de rendas
+      e aos membros da sua família que não residam num Estado-membro nos termos de cuja legislação beneficiam de uma pensão
+      ou de uma renda e tenham direito às prestações
+    - Adita 14. BÉLGICA-LUXEMBURGO
+    - Adita 89. DINAMARCA-PAÍSES BAIXOS
+    - Adita 113. ALEMANHA-POLÓNIA
+    - Suprime Artigo 30.º (14) — Prestações em espécie aos membros da família que residem[►M2](http://publications.europa.eu/resource/celex/31998R1223)
+      fora do Estado-membro competente◄ num Estado-Membro que não seja aquele em que reside o titular de pensão ou de renda
+    - Suprime Artigo 95.º ([^3^](http://publications.europa.eu/resource/cellar/f73e0b0a-c907-4e7a-ac1b-bcc24d3900bb.0016.03/DOC_1#E0003))
+      — Reembolso das prestações em espécie do seguro de doença maternidade concedidas aos titulares de pensões ou de rendas
+      e aos membros da sua família que não residam num Estado-membro nos termos de cuja legislação beneficiam de uma pensão
+      ou de uma renda e tenham direito às prestações
+    - Suprime [►M15](http://publications.europa.eu/resource/celex/32006R1791) 14.◄ BÉLGICA-LUXEMBURGO
+    - Suprime [►M15](http://publications.europa.eu/resource/celex/32006R1791) 89.◄ DINAMARCA-PAÍSES BAIXOS
+    - Suprime [►M15](http://publications.europa.eu/resource/celex/32006R1791) 113.◄ ALEMANHA-POLÓNIA
+  - date: '2009-03-02'
+    amending: eu:celex:32009R0120:por
+    amending_title: REGULAMENTO (CE) N. o 120/2009 DA COMISSÃO de 9 de Fevereiro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 119.ºA (5) — Disposições transitórias em matéria de pensões e de rendas para aplicação do n.º 1, alínea
+      a), in fine, do artigo 15.º do Regulamento de execução
+    - Altera R. PAÍSES BAIXOS
+    - Altera T. POLÓNIA
+    - Altera Notas
+    - Adita Artigo 95.º ([^3^](http://publications.europa.eu/resource/cellar/28943945-97b0-4f99-9132-629222a6a77f.0018.03/DOC_1#E0003))
+      — Reembolso das prestações em espécie do seguro de doença maternidade concedidas aos titulares de pensões ou de rendas
+      e aos membros da sua família que não residam num Estado-membro nos termos de cuja legislação beneficiam de uma pensão
+      ou de uma renda e tenham direito às prestações
+    - Adita 283. LUXEMBURGO-FINLÂNDIA
+    - Adita 323. ÁUSTRIA – REINO UNIDO
+    - Suprime Artigo 95.º ([^3^](http://publications.europa.eu/resource/cellar/d809e53b-1197-494e-88f4-114ed16f262c.0017.03/DOC_1#E0003))
+      — Reembolso das prestações em espécie do seguro de doença maternidade concedidas aos titulares de pensões ou de rendas
+      e aos membros da sua família que não residam num Estado-membro nos termos de cuja legislação beneficiam de uma pensão
+      ou de uma renda e tenham direito às prestações
+    - Suprime [►M15](http://publications.europa.eu/resource/celex/32006R1791) 283.◄ LUXEMBURGO-FINLÂNDIA
+    - Suprime [►M15](http://publications.europa.eu/resource/celex/32006R1791) 323.◄ ÁUSTRIA-REINO UNIDO
+  - date: '2010-05-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Definições
+    - Suprime Artigo 2.º — Modelos de formulários — informações sobre as legislações — Guias
+    - Suprime Artigo 3.º (7) — Organismos de ligação — Comunicação entre instituições e entre beneficiários e instituições
+    - Suprime Artigo 4.º (9) — Anexos
+    - Suprime TÍTULO II
+    - Suprime APLICAÇÃO DAS DISPOSIÇÕES GERAIS DO REGULAMENTO
+    - Suprime Aplicação dos artigos 6.º e 7.º do Regulamento
+    - Suprime Artigo 5.º — Substituição dos acordos relativos à aplicação das convenções pelo Regulamento de execução
+    - Suprime Aplicação do artigo 9.º do Regulamento
+    - Suprime Artigo 6.º — Admissão ao seguro voluntário ou facultativo continuado
+    - Suprime Aplicação do artigo 12.º do Regulamento
+    - Suprime Artigo 7.º (11) — Regras gerais relativas à aplicação das disposições anticúmulo
+    - Suprime Artigo 8.º (5) — Regras aplicáveis em caso de cumulação de direitos a prestações de doença ou maternidade nos
+      termos das legislações de vários Estados-membros
+    - Suprime Artigo 8.ºA — Regras aplicáveis em caso de cumulação de direitos a prestações de doença, acidente de trabalho
+      ou doença profissional nos termos da legislação helénica e da legislação de um ou de vários outros Estados-membros
+    - Suprime Artigo 9.º (5) — Regras aplicáveis em caso de cumulação de direitos a subsídios por morte nos termos das legislações
+      de vários Estados-membros
+    - Suprime Artigo 9.ºA — Regras aplicáveis em caso de cumulação de direitos às prestações de desemprego
+    - Suprime Artigo 10.º (12) (13) — Regras aplicáveis aos trabalhadores assalariados ou não assalariados em caso de cumulação
+      de direitos às prestações familiares ou abonos de família
+    - Suprime Artigo 10.ºA (8) — Regras aplicáveis quando e trabalhador assalariado ou não assalariado estiver sucessivamente
+      sujeito à legislação de vários Estados-membros no decurso de um mesmo período ou parte de um período
+    - Suprime TÍTULO III
+    - Suprime APLICAÇÃO DAS DISPOSIÇÕES DO REGULAMENTO RELATIVAS À DETERMINAÇÃO DA LEGISLAÇÃO APLICÁVEL
+    - Suprime Aplicação dos artigos 13.º a 17.º do Regulamento
+    - Suprime Artigo 10.ºB (9) — Formalidades previstas em aplicação do n.º 2, alínea f), do artigo 13.º do Regulamento
+    - Suprime Artigo 10.ºC — Formalidades previstas para a aplicação da alínea d) do n.º 2 do artigo 13.º do regulamento aos
+      funcionários públicos e pessoal equiparado
+    - Suprime Artigo 11.º — Formalidades em caso de destacamento de um trabalhador assalariado, nos termos do n.º 1 do artigo
+      14.º e do n.º 1 do artigo 14.ºB do Regulamento, e em caso de acordos celebrados nos termos do artigo 17.º do Regulamento
+    - Suprime Artigo 11.ºA — Formalidades previstas nos termos do n.º 1 do artigo 14.ºA e do n.º 2 do artigo 14.ºB do Regulamento
+      e em caso de acordos celebrados nos termos do artigo 17.º do Regulamento relativamente a trabalho efectuado no território
+      de um Estado-membro que não seja aquele em cujo território o interessado normalmente exerce uma actividade não assalariada
+    - Suprime Artigo 12.º — Disposições especiais relativas à inscrição dos trabalhadores assalariados no regime alemão de
+      segurança social
+    - Suprime Artigo 12.ºA (5)
+    - Suprime Regras aplicáveis às pessoas a que se referem os n.^os^ 2 e 3 do artigo 14.º, os n.^os^ 2 a 4 do artigo 14.ºA
+      e o artigo 14.ºC do regulamento, que normalmente exercem uma actividade assalariada ou não assalariada no território
+      de dois ou mais Estados-Membros
+    - Suprime Artigo 12.ºB — Regras aplicáveis às pessoas referidas nos artigos 14.ºE e 14.ºF do regulamento
+    - Suprime Artigo 13.º — Exercício do direito de opção pelo pessoal em serviço nas missões diplomáticas e nos postos consulares
+    - Suprime Artigo 14.º — Exercício do direito de opção pelos agentes auxiliares das Comunidade Europeias
+    - Suprime TÍTULO IV
+    - Suprime APLICAÇÃO DAS DISPOSIÇÕES ESPECIAIS DO REGULAMENTO RELATIVAS ÀS DIFERENTES CATEGORIAS DE PRESTAÇÕES
+    - Suprime CAPÍTULO I
+    - Suprime REGRAS GERAIS RELATIVAS À TOTALIZAÇÃO DOS PERÍODOS
+    - Suprime Artigo 15.º (A) (5) (11)
+    - Suprime CAPÍTULO II
 identifiers:
   celex: 31972R0574
   eli: http://data.europa.eu/eli/reg/1972/574/oj
@@ -51,7 +420,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6530ce91-0e37-4a01-83db-854f6e5d994f.0011
   content_url: http://publications.europa.eu/resource/cellar/b5165072-95a4-4747-8755-9dcee17afab4.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01972R0574-20100501
-  retrieved_at: '2026-10-22T02:38:45Z'
+  retrieved_at: '2026-10-22T14:30:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T07:50:06.452+01:00'
 integrity:
@@ -60,9 +429,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:45Z'
-  notes: Texto consolidado 01972R0574-20100501.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:30:59Z'
+  notes: 10 versão(ões); histórico completo em regulamento-ue-1972-574.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -772,16 +1141,23 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:45Z'
+  checked_at: '2026-10-22T14:30:59Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01972R0574-19971004: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01972R0574-19990501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01972R0574-19990901: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01972R0574-20010207: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01972R0574-20010901: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01972R0574-20020325: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01972R0574-20031111: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01972R0574-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01972R0574-20040601: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

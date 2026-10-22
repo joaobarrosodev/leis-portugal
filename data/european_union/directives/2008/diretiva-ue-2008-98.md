@@ -36,6 +36,165 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-10-16'
+version_history:
+  file: diretiva-ue-2008-98.versoes.json
+  count: 6
+  source_lastmod: '2025-10-16'
+  versions:
+  - date: '2008-11-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-06-01'
+    amending: eu:celex:32014R1357:por
+    amending_title: REGULAMENTO (UE) N. o 1357/2014 DA COMISSÃO de 18 de dezembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Exclusões do âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Fim do estatuto de resíduo
+    - Altera Artigo 11.º — Reutilização e reciclagem
+    - Altera Artigo 31.º — Participação do público
+    - Altera Artigo 37.º — Apresentação de relatórios e revisão
+    - Altera Artigo 41.º — Revogação e disposições transitórias
+    - Altera Artigo 43.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita OPERAÇÕES DE ELIMINAÇÃO
+    - Adita ANEXO II
+    - Adita OPERAÇÕES DE VALORIZAÇÃO
+    - Adita ANEXO III
+    - Adita CARACTERÍSTICAS DOS RESÍDUOS QUE OS TORNAM PERIGOSOS
+    - Adita ANEXO IV
+    - Adita EXEMPLOS DE MEDIDAS DE PREVENÇÃO DE RESÍDUOS A QUE SE REFERE O ARTIGO 29.º
+    - Adita Medidas com incidência nas condições-quadro relativas à geração de resíduos
+    - Adita Medidas com incidência na fase de concepção, produção e distribuição
+    - Adita Medidas com incidência na fase de consumo e utilização
+    - Adita ANEXO V
+  - date: '2015-07-31'
+    amending: eu:celex:32015L1127:por
+    amending_title: DIRETIVA (UE) 2015/1127 DA COMISSÃO Texto relevante para efeitos do EEE de 10 de julho de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Exclusões do âmbito de aplicação
+    - Altera Artigo 6.º — Fim do estatuto de resíduo
+    - Altera Artigo 11.º — Reutilização e reciclagem
+    - Altera Artigo 31.º — Participação do público
+    - Altera Artigo 37.º — Apresentação de relatórios e revisão
+    - Altera Artigo 41.º — Revogação e disposições transitórias
+    - Altera OPERAÇÕES DE ELIMINAÇÃO
+    - Altera OPERAÇÕES DE VALORIZAÇÃO
+    - Altera CARACTERÍSTICAS DOS RESÍDUOS QUE OS TORNAM PERIGOSOS
+    - Altera Notas
+  - date: '2018-07-05'
+    amending: eu:celex:32017R0997:por
+    amending_title: REGULAMENTO (UE) 2017/997 DO CONSELHO de 8 de junho de 2017; DIRETIVA (UE) 2018/851 DO PARLAMENTO EUROPEU
+      E DO CONSELHO Texto relevante para efeitos do EEE de 30 de maio de 2018
+    changes:
+    - Altera Artigo 2.º — Exclusões do âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Hierarquia dos resíduos
+    - Altera Artigo 5.º — Subprodutos
+    - Altera Artigo 6.º — Fim do estatuto de resíduo
+    - Altera Artigo 7.º — Lista de resíduos
+    - Altera Artigo 8.º — Responsabilidade alargada do produtor
+    - Altera Artigo 9.º — Prevenção de resíduos
+    - Altera Artigo 10.º — Valorização
+    - Altera Artigo 12.º — Eliminação
+    - Altera Artigo 14.º — Custos
+    - Altera Artigo 18.º — Proibição da mistura de resíduos perigosos
+    - Altera Artigo 21.º — Óleos usados
+    - Altera Artigo 27.º — Normas mínimas
+    - Altera Artigo 28.º — Planos de gestão de resíduos
+    - Altera Artigo 29.º — Programas de prevenção de resíduos
+    - Altera Artigo 30.º — Avaliação e revisão dos planos e programas
+    - Altera Artigo 31.º — Participação do público
+    - Altera Artigo 33.º — Informações a apresentar à Comissão
+    - Altera Artigo 35.º — Manutenção de registos
+    - Altera Artigo 36.º — Execução e sanções
+    - Altera Artigo 39.º — Procedimento de comité
+    - Altera Artigo 41.º — Revogação e disposições transitórias
+    - Altera OPERAÇÕES DE ELIMINAÇÃO
+    - Altera OPERAÇÕES DE VALORIZAÇÃO
+    - Altera CARACTERÍSTICAS DOS RESÍDUOS QUE OS TORNAM PERIGOSOS
+    - Altera Notas
+    - Adita Artigo 1.º — Objeto e âmbito de aplicação
+    - Adita Artigo 8.º-A — Requisitos gerais mínimos aplicáveis aos regimes de responsabilidade alargada do produtor
+    - Adita Artigo 11.º
+    - Adita Preparação para a reutilização e reciclagem
+    - Adita Artigo 11.º-A — Regras para calcular o cumprimento das metas
+    - Adita Artigo 11.º-B — Relatório de alerta precoce
+    - Adita Artigo 20.º — Resíduos perigosos produzidos pelas habitações
+    - Adita Artigo 22.º — Biorresíduos
+    - Adita Artigo 37.º — Apresentação de relatórios
+    - Adita Artigo 38.º — Intercâmbio de informações e partilha das melhores práticas, interpretação e adaptação ao progresso
+      técnico
+    - Adita Artigo 38.º-A — Exercício da delegação
+    - Adita ANEXO IV-A
+    - Adita EXEMPLOS DE INSTRUMENTOS ECONÓMICOS E OUTRAS MEDIDAS PARA INCENTIVAR A APLICAÇÃO DA HIERARQUIA DOS RESÍDUOS REFERIDA
+      NO ARTIGO 4.º, N.º 3 ([^16^](http://publications.europa.eu/resource/cellar/41878b46-eefa-4e88-a001-438b74dfac82.0015.02/DOC_2#E0029))
+  - date: '2024-02-18'
+    amending: eu:celex:32023R1542:por
+    amending_title: REGULAMENTO (UE) 2023/1542 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de julho de 2023
+    changes:
+    - Altera Artigo 2.º — Exclusões do âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Subprodutos
+    - Altera Artigo 8.º-A — Requisitos gerais mínimos aplicáveis aos regimes de responsabilidade alargada do produtor
+    - Altera Artigo 9.º — Prevenção de resíduos
+    - Altera Artigo 28.º — Planos de gestão de resíduos
+    - Altera Artigo 31.º — Participação do público
+    - Altera Artigo 35.º — Manutenção de registos
+    - Altera Artigo 38.º-A — Exercício da delegação
+    - Altera Artigo 39.º — Procedimento de comité
+    - Altera Artigo 41.º — Revogação e disposições transitórias
+    - Altera OPERAÇÕES DE ELIMINAÇÃO
+    - Altera OPERAÇÕES DE VALORIZAÇÃO
+    - Altera CARACTERÍSTICAS DOS RESÍDUOS QUE OS TORNAM PERIGOSOS
+    - Altera Notas
+    - Adita EXEMPLOS DE INSTRUMENTOS ECONÓMICOS E OUTRAS MEDIDAS PARA INCENTIVAR A APLICAÇÃO DA HIERARQUIA DOS RESÍDUOS REFERIDA
+      NO ARTIGO 4.º, N.º 3 ([^17^](http://publications.europa.eu/resource/cellar/280c8bff-d598-11ee-b9d9-01aa75ed71a1.0019.02/DOC_2#E0030))
+    - Suprime EXEMPLOS DE INSTRUMENTOS ECONÓMICOS E OUTRAS MEDIDAS PARA INCENTIVAR A APLICAÇÃO DA HIERARQUIA DOS RESÍDUOS
+      REFERIDA NO ARTIGO 4.º, N.º 3 ([^16^](http://publications.europa.eu/resource/cellar/41878b46-eefa-4e88-a001-438b74dfac82.0015.02/DOC_2#E0029))
+  - date: '2025-10-16'
+    amending: eu:celex:32025L1892:por
+    amending_title: DIRETIVA (UE) 2025/1892 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de setembro de 2025
+    changes:
+    - Altera Artigo 2.º — Exclusões do âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Subprodutos
+    - Altera Artigo 8.º-A — Requisitos gerais mínimos aplicáveis aos regimes de responsabilidade alargada do produtor
+    - Altera Artigo 9.º — Prevenção de resíduos
+    - Altera Preparação para a reutilização e reciclagem
+    - Altera Artigo 11.º-B — Relatório de alerta precoce
+    - Altera Artigo 28.º — Planos de gestão de resíduos
+    - Altera Artigo 29.º — Programas de prevenção de resíduos
+    - Altera Artigo 31.º — Participação do público
+    - Altera Artigo 35.º — Manutenção de registos
+    - Altera Artigo 37.º — Apresentação de relatórios
+    - Altera Artigo 38.º-A — Exercício da delegação
+    - Altera Artigo 39.º — Procedimento de comité
+    - Altera Artigo 41.º — Revogação e disposições transitórias
+    - Altera OPERAÇÕES DE ELIMINAÇÃO
+    - Altera OPERAÇÕES DE VALORIZAÇÃO
+    - Altera CARACTERÍSTICAS DOS RESÍDUOS QUE OS TORNAM PERIGOSOS
+    - Altera Notas
+    - Adita Artigo 9.º-A — Prevenção da criação de resíduos alimentares
+    - Adita Artigo 22.º-A — Regime de responsabilidade alargada do produtor relativamente a têxteis
+    - Adita Artigo 22.º-B — Registo de produtores de produtos têxteis, relacionados com os têxteis ou de calçado
+    - Adita Artigo 22.º-C — Organizações competentes em matéria de responsabilidade do produtor relativamente a têxteis
+    - Adita Artigo 22.º-D — Gestão dos resíduos têxteis
+    - Adita Artigo 29.º-A — Programas de prevenção de resíduos alimentares
+    - Adita Artigo 41.º-A — Revisão
+    - Adita EXEMPLOS DE INSTRUMENTOS ECONÓMICOS E OUTRAS MEDIDAS PARA INCENTIVAR A APLICAÇÃO DA HIERARQUIA DOS RESÍDUOS REFERIDA
+      NO ARTIGO 4.º, N.º 3 ([^30^](http://publications.europa.eu/resource/cellar/d38341fd-b43b-11f0-b37f-01aa75ed71a1.0019.02/DOC_1#E0043))
+    - Adita ANEXO IV-C
+    - Adita PRODUTOS ABRANGIDOS PELO ÂMBITO DA RESPONSABILIDADE ALARGADA DO PRODUTOR RELATIVAMENTE A DETERMINADOS PRODUTOS
+      TÊXTEIS, RELACIONADOS COM OS TÊXTEIS E DE CALÇADO
+    - Adita Parte I
+    - Adita Parte II
+    - Suprime EXEMPLOS DE INSTRUMENTOS ECONÓMICOS E OUTRAS MEDIDAS PARA INCENTIVAR A APLICAÇÃO DA HIERARQUIA DOS RESÍDUOS
+      REFERIDA NO ARTIGO 4.º, N.º 3 ([^17^](http://publications.europa.eu/resource/cellar/280c8bff-d598-11ee-b9d9-01aa75ed71a1.0019.02/DOC_2#E0030))
 identifiers:
   celex: 32008L0098
   eli: http://data.europa.eu/eli/dir/2008/98/oj
@@ -50,7 +209,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a32ddb30-1a98-4911-964a-e4f4f638f20d.0018
   content_url: http://publications.europa.eu/resource/cellar/d38341fd-b43b-11f0-b37f-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0098-20251016
-  retrieved_at: '2026-10-22T02:35:18Z'
+  retrieved_at: '2026-10-22T15:13:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T23:36:26.563+01:00'
 integrity:
@@ -59,9 +218,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:18Z'
-  notes: Texto consolidado 02008L0098-20251016.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:13:27Z'
+  notes: 6 versão(ões); histórico completo em diretiva-ue-2008-98.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -472,40 +631,20 @@ relationships:
   source: null
 article_structure:
   article_count: 54
-  section_count: 34
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 36
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:18Z'
-  warnings: []
+  checked_at: '2026-10-22T15:13:27Z'
+  warnings:
+  - '02008L0098-20081212: versão indisponível (Sem expressão na língua por para CELEX 02008L0098-20081212.)'
   errors: []
 ---
 
 # Directiva 2008/98/CE do Parlamento Europeu e do Conselho, de 19 de Novembro de 2008
-
-> 02008L0098 — PT — 16.10.2025 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014R1357) — [REGULAMENTO (UE) N.º 1357/2014 DA COMISSÃO de 18 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014R1357) — L 365 — 89 — 19.12.2014
-- [►M2](http://publications.europa.eu/resource/celex/32015L1127) — [DIRETIVA (UE) 2015/1127 DA COMISSÃO de 10 de julho de 2015](http://publications.europa.eu/resource/celex/32015L1127) — L 184 — 13 — 11.7.2015
-- [►M3](http://publications.europa.eu/resource/celex/32017R0997) — [REGULAMENTO (UE) 2017/997 DO CONSELHO de 8 de junho de 2017](http://publications.europa.eu/resource/celex/32017R0997) — L 150 — 1 — 14.6.2017
-- [►M4](http://publications.europa.eu/resource/celex/32018L0851) — [DIRETIVA (UE) 2018/851 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018](http://publications.europa.eu/resource/celex/32018L0851) — L 150 — 109 — 14.6.2018
-- [►M5](http://publications.europa.eu/resource/celex/32023R1542) — [REGULAMENTO (UE) 2023/1542 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de julho de 2023](http://publications.europa.eu/resource/celex/32023R1542) — L 191 — 1 — 28.7.2023
-- [►M6](http://publications.europa.eu/resource/celex/32025L1892) — [DIRETIVA (UE) 2025/1892 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de setembro de 2025](http://publications.europa.eu/resource/celex/32025L1892) — L 1892 — 1 — 26.9.2025
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32015L1127R%2801%29) — [Rectificação, JO L 297, 13.11.2015, p. 9 (n.o 2015/1127)](http://publications.europa.eu/resource/celex/32015L1127R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32014R1357R%2802%29) — [Rectificação, JO L 042, 18.2.2017, p. 43 (n.o 1357/2014)](http://publications.europa.eu/resource/celex/32014R1357R%2802%29)
-- [►C3](http://publications.europa.eu/resource/celex/32023R1542R%2805%29) — [Rectificação, JO L 90243, 17.4.2024, p. 1 (2023/1542)](http://publications.europa.eu/resource/celex/32023R1542R%2805%29)
-
-## DIRECTIVA 2008/98/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 19 de Novembro de 2008
 

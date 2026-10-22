@@ -1,0 +1,247 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001R2318:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R2318-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "2001-11-30",
+   "future": false,
+   "celex": "32001R2318",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "061c534dfa426ae6",
+    "b6845027e03b3c2e",
+    "c900b2102ddef2ba",
+    "94e2f719f7b5a7ca",
+    "9ea758b7a563a9c5",
+    "416a7fe631504438",
+    "21182e471e2b94dc",
+    "7f04860ea4fff62e",
+    "78681005b197f371",
+    "ddef0caa31364c6a"
+   ]
+  },
+  {
+   "date": "2004-10-21",
+   "future": false,
+   "celex": "02001R2318-20041021",
+   "acts": [
+    {
+     "id": "eu:celex:32004R1767:por",
+     "title": "REGULAMENTO (CE) N. o 1767/2004 DA COMISSÃO de 13 de Outubro de 2004",
+     "published": null,
+     "celex": "32004R1767"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "8b3e3aac65210276",
+    "ec2de7603a9fa81c",
+    "0b64c1d792b9dce9",
+    "ae81d447068922a6",
+    "e74ffda5fb4e6aa7",
+    "416a7fe631504438",
+    "21182e471e2b94dc",
+    "64f0e6f45958e909",
+    "f8d3f5f8a44b4ab6",
+    "50f9238ceb20a81d",
+    "4c7a2a662bf670b8"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "02001R2318-20140101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "9ef435efe32349a9"
+   ]
+  }
+ ],
+ "fragments": {
+  "061c534dfa426ae6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "| 30.11.2001 | PT | Jornal Oficial das Comunidades Europeias | L 313/9 |\n| --- | --- | --- | --- |\n\nREGULAMENTO (CE) N.o 2318/2001 DA COMISSÃO\n\nde 29 de Novembro de 2001\n\nque estabelece as regras de execução do Regulamento (CE) n.o 104/2000 do Conselho no respeitante ao reconhecimento das organizações de produtores no sector da pesca e da aquicultura\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.o 104/2000 do Conselho, de 17 de Dezembro de 1999, que estabelece a organização comum de mercado no sector dos produtos da pesca e da aquicultura[(1)](http://publications.europa.eu/resource/cellar/4f821e75-a37a-4215-92d1-313ee8be5239.0010.05/DOC_1#ntr1-L_2001313PT.01000901-E0001), alterado pelo Regulamento (CE) n.o 939/2001 da Comissão[(2)](http://publications.europa.eu/resource/cellar/4f821e75-a37a-4215-92d1-313ee8be5239.0010.05/DOC_1#ntr2-L_2001313PT.01000901-E0002), e, nomeadamente, o n.o 4 do seu artigo 5.o e o n.o 7 do seu artigo 6.o,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.o 2939/94 da Comissão, de 2 de Dezembro de 1994, que estabelece normas de execução do Regulamento (CEE) n.o 105/76 do Conselho relativo ao reconhecimento das organizações de produtores no sector das pescas[(3)](http://publications.europa.eu/resource/cellar/4f821e75-a37a-4215-92d1-313ee8be5239.0010.05/DOC_1#ntr3-L_2001313PT.01000901-E0003), alterado pelo Regulamento (CE) n.o 1762/96[(4)](http://publications.europa.eu/resource/cellar/4f821e75-a37a-4215-92d1-313ee8be5239.0010.05/DOC_1#ntr4-L_2001313PT.01000901-E0004), necessita de adaptações importantes que justificam a sua revogação e substituição.\n\n(2) Devem ser estabelecidos os termos e processo de reconhecimento e de revogação de reconhecimento das organizações de produtores, a fim de assegurar a aplicação uniforme das regras que regem a organização comum de mercado no sector dos produtos da pesca e da aquicultura.\n\n(3) Em conformidade com o n.o 2 do artigo 5.o do Regulamento (CE) n.o 104/2000, para serem reconhecidas, as organizações de produtores devem ser suficientemente activas em termos económicos. É conveniente estabelecer os requisitos para que esta condição se possa considerar satisfeita.\n\n(4) É, também, necessário precisar as condições de reconhecimento de uma associação de organizações de produtores.\n\n(5) Importa prever a fixação de regras comuns que os membros de uma organização de produtores sejam obrigados a cumprir.\n\n(6) É conveniente especificar as informações a apresentar pelo requerente para efeitos de reconhecimento, bem como fixar prazos para a sua concessão e recusa, assim como certas disposições relativas à sua revogação.\n\n(7) Convém prever medidas de controlo relativas à observância dos requisitos de reconhecimento bem como determinar as consequências que decorrem de pedidos ou utilizações fraudulentas do reconhecimento.\n\n(8) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão dos Produtos da Pesca,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "b6845027e03b3c2e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. As organizações de produtores previstas no n.o 1 do artigo 5.o do Regulamento (CE) n.o 104/2000 exercem uma actividade económica suficiente, nos termos do n.o 2 do artigo 5.o do referido regulamento, se:\n\na) A zona a que se refere o pedido de reconhecimento for considerada suficientemente importante pelo Estado-Membro, atendendo à sua dimensão, à capacidade total dos navios de pesca que aí têm o seu porto de armamento e à regularidade e quantidade dos desembarques nela efectuados; e\n\nb) Estiver satisfeita uma das condições seguintes: i) o número de navios explorados pelos membros da organização de produtores for pelo menos igual a 20 % do número total de navios habitualmente presentes nessa zona, ou ii) no respeitante às espécies ou grupo de espécies relativamente às quais é pedido o reconhecimento, a organização de produtores escoar: — pelo menos 15 % da produção total, em toneladas, na sua zona, ou — pelo menos 30 % da produção total, em toneladas, num porto ou mercado importante da referida zona. Para o efeito, o Estado-Membro em causa determinará o que se deve entender por «importante».\n\ni) o número de navios explorados pelos membros da organização de produtores for pelo menos igual a 20 % do número total de navios habitualmente presentes nessa zona, ou\n\nii) no respeitante às espécies ou grupo de espécies relativamente às quais é pedido o reconhecimento, a organização de produtores escoar: — pelo menos 15 % da produção total, em toneladas, na sua zona, ou — pelo menos 30 % da produção total, em toneladas, num porto ou mercado importante da referida zona. Para o efeito, o Estado-Membro em causa determinará o que se deve entender por «importante».\n\n— pelo menos 15 % da produção total, em toneladas, na sua zona, ou\n\n— pelo menos 30 % da produção total, em toneladas, num porto ou mercado importante da referida zona. Para o efeito, o Estado-Membro em causa determinará o que se deve entender por «importante».\n\n2. Os Estados-Membros decidirão que critérios fixados na alínea b) do n.o 1 são aplicáveis no seu território.\n\nO mais tardar nos dois meses seguintes à publicação do presente regulamento, os Estados-Membros notificarão a Comissão e os interessados directos da sua decisão.\n\nEm caso de alteração da estrutura de um mercado, os Estados-Membros podem decidir alterar os critérios, devendo informar do facto imediatamente a Comissão e os interessados directos.\n\n3. Sempre que uma organização de produtores contar, entre os seus membros, pelo menos 30 % de produtores que exerçam habitualmente as suas actividades numa ou várias zonas diferentes daquela em que os navios explorados tenham o seu porto de armamento, a actividade económica dessa organização de produtores é considerada suficiente, nos termos do n.o 2 do artigo 5.o do Regulamento (CE) n.o 104/2000, se, no que respeita à espécie ou grupo de espécies relativamente às quais é pedido o reconhecimento, a organização de produtores escoar, pelo menos, 4 % da produção nacional, em toneladas.\n\n4. Para efeitos de uma gestão mais eficaz, o Estado-Membro pode, sendo o caso, fixar entre 15 % e 30 % a percentagem referida no n.o 1, alínea b), subalínea ii), primeiro travessão, entre 30 % e 50 % a percentagem referida no n.o 1, alínea b), subalínea ii), segundo travessão e entre 30 % e 50 % a percentagem referida no n.o 3.\n\n5. Se o reconhecimento for solicitado em relação a produções aquícolas, a actividade económica é considerada suficiente, nos termos do n.o 2 do artigo 5.o do Regulamento (CE) n.o 104/2000, se a organização de produtores escoar, pelo menos, 25 % das quantidades totais produzidas da espécie ou do grupo de espécies aquícolas em causa numa zona de produção considerada suficientemente importante pelo Estado-Membro em causa, com base em critérios por ele estabelecidos.\n\nPara ter em conta a especificidade das produções regionais, o Estado-Membro pode fixar a percentagem referida no primeiro parágrafo num intervalo de 25 % a 50 %.\n\nO mais tardar nos dois meses seguintes à publicação do presente regulamento, os Estados-Membros notificarão a Comissão da percentagem que tenham decidido aplicar."
+  },
+  "c900b2102ddef2ba": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs associações de organizações de produtores só podem ser reconhecidas por um Estado-Membro se:\n\na) Agruparem um número mínimo de organizações de produtores reconhecidas relativamente ao número total de organizações de produtores reconhecidas pelo Estado-Membro em causa num determinado sector de actividade; e\n\nb) O valor da produção comercializada pela associação representar, no sector de actividade em causa, pelo menos 20 % do valor da produção nacional."
+  },
+  "94e2f719f7b5a7ca": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Sem prejuízo do disposto no Regulamento (CE) n.o 2508/2000 da Comissão[(5)](http://publications.europa.eu/resource/cellar/4f821e75-a37a-4215-92d1-313ee8be5239.0010.05/DOC_1#ntr5-L_2001313PT.01000901-E0005), as regras em matéria de exploração das pescarias, de produção e de comercialização, referidas no n.o 1, ponto 1 da alínea c), do artigo 5.o do Regulamento (CE) n.o 104/2000, serão estabelecidas por escrito.\n\n2. Em conformidade com o n.o 1, ponto 4 da alínea c), do artigo 5.o do Regulamento (CE) n.o 104/2000, o dever, para os membros, de escoar, por intermédio da organização de produtores, o conjunto da produção pode deixar de se aplicar, desde que o escoamento seja efectuado de acordo com regras comuns previamente estabelecidas. Neste caso, as regras comuns devem, pelo menos, exigir o respeito dos preços de retirada da organização de produtores.\n\n3. Em derrogação do n.o 1, ponto 4 da alínea c), do artigo 5.o do Regulamento (CE) n.o 104/2000, as quantidades de produtos em relação às quais os membros de uma organização de produtores tenham celebrado contratos antes de se tornarem membros não têm de ser escoadas por intermédio da organização de produtores, desde que os membros tenham informado a organização, antes de serem admitidos, da extensão e duração dos contratos e desde que a organização os tenha dispensado do referido dever."
+  },
+  "9ea758b7a563a9c5": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nCom o pedido de reconhecimento, cada requerente comunicará:\n\na) Os estatutos da organização de produtores;\n\nb) As regras da organização de produtores;\n\nc) A identidade das pessoas habilitadas a agir em nome e por conta da organização de produtores;\n\nd) Os detalhes sobre as actividades da organização que justificam o pedido de reconhecimento;\n\ne) A prova do cumprimento do disposto no artigo 1.o ou no artigo 2.o"
+  },
+  "416a7fe631504438": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nNo prazo de três meses após a recepção de um pedido de reconhecimento, o Estado-Membro informará a organização de produtores, por escrito, da sua decisão. Se o reconhecimento for indeferido, o Estado-Membro indicará os motivos do indeferimento."
+  },
+  "21182e471e2b94dc": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA intenção do Estado-Membro de revogar o reconhecimento a uma organização de produtores deve ser-lhe comunicada, acompanhada dos respectivos motivos, dando-lhe a possibilidade de apresentar as suas observações em determinado prazo."
+  },
+  "7f04860ea4fff62e": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Nos termos do n.o 1, alínea b), do artigo 6.o do Regulamento (CE) n.o 104/2000, os Estados-Membros efectuarão, pelo menos uma vez por ano, um controlo de observância, pelas organizações de produtores, dos requisitos do seu reconhecimento.\n\n2. Sempre que a revogação do reconhecimento se deva ao facto de a organização de produtores ter solicitado ou utilizado o reconhecimento de modo fraudulento, qualquer ajuda concedida ao abrigo do n.o 1 do artigo 15.o do Regulamento (CE) n.o 2792/1999 do Conselho[(6)](http://publications.europa.eu/resource/cellar/4f821e75-a37a-4215-92d1-313ee8be5239.0010.05/DOC_1#ntr6-L_2001313PT.01000901-E0006) será recuperada pelo Estado-Membro."
+  },
+  "78681005b197f371": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nE revogado o Regulamento (CE) n.o 2939/94."
+  },
+  "ddef0caa31364c6a": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Janeiro de 2002.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 29 de Novembro de 2001.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n[(1)](http://publications.europa.eu/resource/cellar/4f821e75-a37a-4215-92d1-313ee8be5239.0010.05/DOC_1#ntc1-L_2001313PT.01000901-E0001) [JO L 17 de 21.1.2000, p. 22](http://publications.europa.eu/resource/oj/JOL_2000_017_R_TOC).\n\n[(2)](http://publications.europa.eu/resource/cellar/4f821e75-a37a-4215-92d1-313ee8be5239.0010.05/DOC_1#ntc2-L_2001313PT.01000901-E0002) [JO L 132 de 15.5.2001, p. 10](http://publications.europa.eu/resource/oj/JOL_2001_132_R_TOC).\n\n[(3)](http://publications.europa.eu/resource/cellar/4f821e75-a37a-4215-92d1-313ee8be5239.0010.05/DOC_1#ntc3-L_2001313PT.01000901-E0003) [JO L 310 de 3.12.1994, p. 12](http://publications.europa.eu/resource/oj/JOL_1994_310_R_TOC).\n\n[(4)](http://publications.europa.eu/resource/cellar/4f821e75-a37a-4215-92d1-313ee8be5239.0010.05/DOC_1#ntc4-L_2001313PT.01000901-E0004) [JO L 231 de 12.9.1996, p. 6](http://publications.europa.eu/resource/oj/JOL_1996_231_R_TOC).\n\n[(5)](http://publications.europa.eu/resource/cellar/4f821e75-a37a-4215-92d1-313ee8be5239.0010.05/DOC_1#ntc5-L_2001313PT.01000901-E0005) [JO L 289 de 16.11.2000, p. 8](http://publications.europa.eu/resource/oj/JOL_2000_289_R_TOC).\n\n[(6)](http://publications.europa.eu/resource/cellar/4f821e75-a37a-4215-92d1-313ee8be5239.0010.05/DOC_1#ntc6-L_2001313PT.01000901-E0006) [JO L 337 de 30.12.1999, p. 10](http://publications.europa.eu/resource/oj/JOL_1999_337_R_TOC)."
+  },
+  "8b3e3aac65210276": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Novembro de 2001\n\n[**►M1**](http://publications.europa.eu/resource/celex/32004R1767) que estabelece as regras de execução do Regulamento (CE) n.º 104/2000 do Conselho no respeitante ao reconhecimento das organizações de produtores e associações de organizações de produtores no sector da pesca e da aquicultura**◄**\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 104/2000 do Conselho, de 17 de Dezembro de 1999, que estabelece a organização comum de mercado no sector dos produtos da pesca e da aquicultura ([^1^](http://publications.europa.eu/resource/cellar/bc8a8b17-853b-4b7d-a827-4056ec82cb7d.0018.03/DOC_1#E0001)), alterado pelo Regulamento (CE) n.º 939/2001 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/bc8a8b17-853b-4b7d-a827-4056ec82cb7d.0018.03/DOC_1#E0002)), e, nomeadamente, o n.º 4 do seu artigo 5.º e o n.º 7 do seu artigo 6.º,\n\n(1) O Regulamento (CE) n.º 2939/94 da Comissão, de 2 de Dezembro de 1994, que estabelece normas de execução do Regulamento (CEE) n.º 105/76 do Conselho relativo ao reconhecimento das organizações de produtores no sector das pescas ([^3^](http://publications.europa.eu/resource/cellar/bc8a8b17-853b-4b7d-a827-4056ec82cb7d.0018.03/DOC_1#E0003)), alterado pelo Regulamento (CE) n.º 1762/96 ([^4^](http://publications.europa.eu/resource/cellar/bc8a8b17-853b-4b7d-a827-4056ec82cb7d.0018.03/DOC_1#E0004)), necessita de adaptações importantes que justificam a sua revogação e substituição.\n\n(2) Devem ser estabelecidos os termos e processo de reconhecimento e de revogação de reconhecimento das organizações de produtores, a fim de assegurar a aplicação uniforme das regras que regem a organização comum de mercado no sector dos produtos da pesca e da aquicultura.\n\n(3) Em conformidade com o n.º 2 do artigo 5.º do Regulamento (CE) n.º 104/2000, para serem reconhecidas, as organizações de produtores devem ser suficientemente activas em termos económicos. É conveniente estabelecer os requisitos para que esta condição se possa considerar satisfeita.\n\n(4) É, também, necessário precisar as condições de reconhecimento de uma associação de organizações de produtores.\n\n(5) Importa prever a fixação de regras comuns que os membros de uma organização de produtores sejam obrigados a cumprir.\n\n(6) É conveniente especificar as informações a apresentar pelo requerente para efeitos de reconhecimento, bem como fixar prazos para a sua concessão e recusa, assim como certas disposições relativas à sua revogação.\n\n(7) Convém prever medidas de controlo relativas à observância dos requisitos de reconhecimento bem como determinar as consequências que decorrem de pedidos ou utilizações fraudulentas do reconhecimento.\n\n(8) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão dos Produtos da Pesca,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ec2de7603a9fa81c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. As organizações de produtores previstas no n.º 1 do artigo 5.º do Regulamento (CE) n.º 104/2000 exercem uma actividade económica suficiente, nos termos do n.º 2 do artigo 5.º do referido regulamento, se:\n\na) A zona a que se refere o pedido de reconhecimento for considerada suficientemente importante pelo Estado-Membro, atendendo à sua dimensão, à capacidade total dos navios de pesca que aí têm o seu porto de armamento e à regularidade e quantidade dos desembarques nela efectuados; e\n\nb) Estiver satisfeita uma das condições seguintes:\n\ni) o número de navios explorados pelos membros da organização de produtores for pelo menos igual a 20 % do número total de navios habitualmente presentes nessa zona, ou\n\nii) no respeitante às espécies ou grupo de espécies relativamente às quais é pedido o reconhecimento, a organização de produtores escoar:\n\n— pelo menos 15 % da produção total, em toneladas, na sua zona, ou\n\n— pelo menos 30 % da produção total, em toneladas, num porto ou mercado importante da referida zona. Para o efeito, o Estado-Membro em causa determinará o que se deve entender por «importante».\n\n2. Os Estados-Membros decidirão que critérios fixados na alínea b) do n.º 1 são aplicáveis no seu território.\n\nO mais tardar nos dois meses seguintes à publicação do presente regulamento, os Estados-Membros notificarão a Comissão e os interessados directos da sua decisão.\n\nEm caso de alteração da estrutura de um mercado, os Estados-Membros podem decidir alterar os critérios, devendo informar do facto imediatamente a Comissão e os interessados directos.\n\n3. Sempre que uma organização de produtores contar, entre os seus membros, pelo menos 30 % de produtores que exerçam habitualmente as suas actividades numa ou várias zonas diferentes daquela em que os navios explorados tenham o seu porto de armamento, a actividade económica dessa organização de produtores é considerada suficiente, nos termos do n.º 2 do artigo 5.º do Regulamento (CE) n.º 104/2000, se, no que respeita à espécie ou grupo de espécies relativamente às quais é pedido o reconhecimento, a organização de produtores escoar, pelo menos, 4 % da produção nacional, em toneladas.\n\n4. Para efeitos de uma gestão mais eficaz, o Estado-Membro pode, sendo o caso, fixar entre 15 % e 30 % a percentagem referida no n.º 1, alínea b), subalínea ii), primeiro travessão, entre 30 % e 50 % a percentagem referida no n.º 1, alínea b), subalínea ii), segundo travessão e entre 30 % e 50 % a percentagem referida no n.º 3.\n\n5. Se o reconhecimento for solicitado em relação a produções aquícolas, a actividade económica é considerada suficiente, nos termos do n.º 2 do artigo 5.º do Regulamento (CE) n.º 104/2000, se a organização de produtores escoar, pelo menos, 25 % das quantidades totais produzidas da espécie ou do grupo de espécies aquícolas em causa numa zona de produção considerada suficientemente importante pelo Estado-Membro em causa, com base em critérios por ele estabelecidos.\n\nPara ter em conta a especificidade das produções regionais, o Estado-Membro pode fixar a percentagem referida no primeiro parágrafo num intervalo de 25 % a 50 %.\n\nO mais tardar nos dois meses seguintes à publicação do presente regulamento, os Estados-Membros notificarão a Comissão da percentagem que tenham decidido aplicar."
+  },
+  "0b64c1d792b9dce9": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Uma associação de organizações de produtores reconhecidas num Estado-Membro só pode ser reconhecida por esse Estado-Membro se:\n\na) Agrupar uma proporção mínima do número total de organizações de produtores reconhecidas pelo Estado-Membro em causa num determinado sector de actividade; e\n\nb) O valor da produção comercializada pela associação representar, no sector de actividade em causa, pelo menos 20 % do valor da produção nacional.\n\n2. Uma associação de organizações de produtores reconhecidas em mais do que um Estado-Membro só pode ser reconhecida por um Estado-Membro se:\n\na) A sede oficial da associação estiver localizada no território desse Estado Membro;\n\nb) O valor da produção comercializada pela associação representar uma proporção mínima da produção de um determinado produto da pesca numa determinada zona;\n\nc) As organizações de produtores que constituem a associação se dedicarem à pesca, à produção e à comercialização de recursos haliêuticos explorados em conjunto; e\n\nd) A associação desempenhar as suas funções sem prejuízo das disposições que regem a repartição das possibilidades de pesca entre os Estados-Membros nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da política comum das pescas ([^5^](http://publications.europa.eu/resource/cellar/bc8a8b17-853b-4b7d-a827-4056ec82cb7d.0018.03/DOC_1#E0007)).\n\n3. O Estado-Membro em que se situa a sede oficial da associação estabelecerá, em colaboração com os outros Estados-Membros interessados, a cooperação administrativa necessária para assegurar que sejam respeitadas as condições de reconhecimento e efectuar as verificações das actividades da associação. Essa cooperação administrativa inclui também a retirada do reconhecimento.\n\n4. As associações de organizações de produtores não devem deter uma posição dominante num determinado mercado, excepto se necessário para a prossecução dos objectivos previstos no artigo 33.º do Tratado.\n\n5. Os artigos 3.º, 4.º, 5.º, 6.º e 7.º do Regulamento (CE) n.º 2318/2001 são aplicáveis *mutatis mutandis* às associações de organizações de produtores reconhecidas num ou mais do que um Estado-Membro.\n\n6. O n.º 2 do artigo 2.º do Regulamento (CE) n.º 908/2000 da Comissão não é aplicável às associações de organizações de produtores reconhecidas em mais do que um Estado-Membro."
+  },
+  "ae81d447068922a6": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Sem prejuízo do disposto no Regulamento (CE) n.º 2508/2000 da Comissão ([^6^](http://publications.europa.eu/resource/cellar/bc8a8b17-853b-4b7d-a827-4056ec82cb7d.0018.03/DOC_1#E0005)), as regras em matéria de exploração das pescarias, de produção e de comercialização, referidas no n.º 1, ponto 1 da alínea c), do artigo 5.º do Regulamento (CE) n.º 104/2000, serão estabelecidas por escrito.\n\n2. Em conformidade com o n.º 1, ponto 4 da alínea c), do artigo 5.º do Regulamento (CE) n.º 104/2000, o dever, para os membros, de escoar, por intermédio da organização de produtores, o conjunto da produção pode deixar de se aplicar, desde que o escoamento seja efectuado de acordo com regras comuns previamente estabelecidas. Neste caso, as regras comuns devem, pelo menos, exigir o respeito dos preços de retirada da organização de produtores.\n\n3. Em derrogação do n.º 1, ponto 4 da alínea c), do artigo 5.º do Regulamento (CE) n.º 104/2000, as quantidades de produtos em relação às quais os membros de uma organização de produtores tenham celebrado contratos antes de se tornarem membros não têm de ser escoadas por intermédio da organização de produtores, desde que os membros tenham informado a organização, antes de serem admitidos, da extensão e duração dos contratos e desde que a organização os tenha dispensado do referido dever."
+  },
+  "e74ffda5fb4e6aa7": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nCom o pedido de reconhecimento, cada requerente comunicará:\n\na) Os estatutos da organização de produtores;\n\nb) As regras da organização de produtores;\n\nc) A identidade das pessoas habilitadas a agir em nome e por conta da organização de produtores;\n\nd) Os detalhes sobre as actividades da organização que justificam o pedido de reconhecimento;\n\ne) A prova do cumprimento do disposto no artigo 1.º ou no artigo 2.º"
+  },
+  "64f0e6f45958e909": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Nos termos do n.º 1, alínea b), do artigo 6.º do Regulamento (CE) n.º 104/2000, os Estados-Membros efectuarão, pelo menos uma vez por ano, um controlo de observância, pelas organizações de produtores, dos requisitos do seu reconhecimento.\n\n2. Sempre que a revogação do reconhecimento se deva ao facto de a organização de produtores ter solicitado ou utilizado o reconhecimento de modo fraudulento, qualquer ajuda concedida ao abrigo do n.º 1 do artigo 15.º do Regulamento (CE) n.º 2792/1999 do Conselho ([^7^](http://publications.europa.eu/resource/cellar/bc8a8b17-853b-4b7d-a827-4056ec82cb7d.0018.03/DOC_1#E0006)) será recuperada pelo Estado-Membro."
+  },
+  "f8d3f5f8a44b4ab6": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nE revogado o Regulamento (CE) n.º 2939/94."
+  },
+  "50f9238ceb20a81d": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nÉ aplicável a partir de 1 de Janeiro de 2002.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "4c7a2a662bf670b8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/bc8a8b17-853b-4b7d-a827-4056ec82cb7d.0018.03/DOC_1#src.E0001)) JO L 17 de 21.1.2000, p. 22.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/bc8a8b17-853b-4b7d-a827-4056ec82cb7d.0018.03/DOC_1#src.E0002)) JO L 132 de 15.5.2001, p. 10.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/bc8a8b17-853b-4b7d-a827-4056ec82cb7d.0018.03/DOC_1#src.E0003)) JO L 310 de 3.12.1994, p. 12.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/bc8a8b17-853b-4b7d-a827-4056ec82cb7d.0018.03/DOC_1#src.E0004)) JO L 231 de 12.9.1996, p. 6.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/bc8a8b17-853b-4b7d-a827-4056ec82cb7d.0018.03/DOC_1#src.E0007)) JO L 358 de 31.12.2002, p. 59.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/bc8a8b17-853b-4b7d-a827-4056ec82cb7d.0018.03/DOC_1#src.E0005)) JO L 289 de 16.11.2000, p. 8.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/bc8a8b17-853b-4b7d-a827-4056ec82cb7d.0018.03/DOC_1#src.E0006)) JO L 337 de 30.12.1999, p. 10."
+  },
+  "9ef435efe32349a9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2001R2318 — PT — 01.01.2014 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32001R2318) [REGULAMENTO (CE) N.º 2318/2001 DA COMISSÃO](http://publications.europa.eu/resource/celex/32001R2318) [de 29 de Novembro de 2001](http://publications.europa.eu/resource/celex/32001R2318) [que estabelece as regras de execução do Regulamento (CE) n.º 104/2000 do Conselho no respeitante ao reconhecimento das organizações de produtores e associações de organizações de produtores no sector da pesca e da aquicultura](http://publications.europa.eu/resource/celex/32001R2318) (JO L 313, 30.11.2001, p.9)\n\n**revogado por:**\n\n- [Regulamento de Execução (UE) n.o 1420/2013 da Comissão de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1420) — L 353 — 48 — 28.12.2013"
+  }
+ }
+}

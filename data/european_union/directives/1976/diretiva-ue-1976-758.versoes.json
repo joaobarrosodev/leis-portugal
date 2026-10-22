@@ -1,0 +1,239 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31976L0758:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0758-20141101",
+ "dre_path": null,
+ "source_lastmod": "2014-11-01",
+ "versions": [
+  {
+   "date": "1976-09-27",
+   "future": false,
+   "celex": "31976L0758",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bffdd397d32db341",
+    "666b605039c6fa2b",
+    "b31f38e0557bc91d",
+    "cfade43e066b66d7",
+    "bfc37beb968a26f7",
+    "611a01d683cb3a73",
+    "cc983ad32fae3846",
+    "8a147bc61bb4174c",
+    "97f28199aba332e3",
+    "5f1289bbd215475f",
+    "be074212e894fa95",
+    "0a494ad9bd720d4f",
+    "eec42b5e4607d802",
+    "27e27180a7682315",
+    "9f539f70c22716d6",
+    "644120c24bc1e7a8",
+    "dfb90090beb44944",
+    "63572ae7d5e293bd",
+    "e1a4e3b419a317d3",
+    "726852a3a8446c66"
+   ]
+  },
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "celex": "01976L0758-20141101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º.",
+    "Suprime Artigo 2º.",
+    "Suprime Artigo 3º.",
+    "Suprime Artigo 4º.",
+    "Suprime Artigo 5º.",
+    "Suprime Artigo 6º.",
+    "Suprime Artigo 7º.",
+    "Suprime Artigo 8º.",
+    "Suprime Artigo 9º.",
+    "Suprime Artigo 10º.",
+    "Suprime Artigo 11º.",
+    "Suprime Artigo 12º.",
+    "Suprime Anexo II Modelo de ficha de homologação CEE — Anexo III Condições de homologação CEE e marcação",
+    "Suprime Anexo IV (*) Medições fotométricas",
+    "Suprime Anexo V (*) Cores da luz emitida: coordenadas tricromáticas.",
+    "Suprime ANEXO II MODELO DE FICHA DE HOMOLOGAÇÃO CEE (Formato máximo: A4 (210 x 297 mm)) — >PIC FILE= \"T0009299\">",
+    "Suprime ANEXO III CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO",
+    "Suprime ANEXO IV MEDIÇÕES FOTOMÉTRICAS",
+    "Suprime ANEXO V CORES DA LUZ EMITIDA COORDENADAS TRICROMATICAS"
+   ],
+   "fragments": [
+    "1194775bc9abe505"
+   ]
+  }
+ ],
+ "fragments": {
+  "bffdd397d32db341": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 76/758/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-Membros respeitantes às luzes delimitadoras, às luzes de presença da frente, às luzes de presença da retaguarda e às luzes de travagem dos veículos a motor e seus reboques** *Jornal Oficial nº L 262 de 27/09/1976 p. 0054 - 0070 Edição especial finlandesa: Capítulo 13 Fascículo 5 p. 0083 Edição especial grega: Capítulo 13 Fascículo 4 p. 0025 Edição especial sueca: Capítulo 13 Fascículo 5 p. 0083 Edição especial espanhola: Capítulo 13 Fascículo 5 p. 0093 Edição especial portuguesa: Capítulo 13 Fascículo 5 p. 0093*\n\nDIRECTIVA DO CONSELHO de 27 de Julho de 1976 relativa à aproximação das legislações dos Estados-membros respeitantes às luzes delimitadoras, às luzes de presença da frente, às luzes de presença da retaguarda e às luzes de travagem dos veículos a motor e seus reboques (76/758/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100º.,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que as prescrições técnicas exigidas para os veículos a motor pelas legislações nacionais respeitam, nomeadamente, às luzes delimitadoras, luzes de presença da frente, luzes de presença da retaguarda e luzes de travagem;\n\nConsiderando que essas prescrições diferem de um Estado-membro para outro; que daí resulta a necessidade de que sejam adoptadas as mesmas prescrições por todos os Estados-membros, quer em complemento, quer em substituição das suas regulamentações actuais, tendo em vista nomeadamente permitir a aplicação, para cada modelo de veículo, do processo de recepção CEE que é objecto da Directiva 70/156/CE, do Conselho de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques (3);\n\nConsiderando que, pela Directiva 76/756/CEE (4), o Conselho adoptou as prescrições comuns respeitantes à instalação dos dispositivos de iluminação e de sinalização luminosa dos veículos a motor e seus reboques;\n\nConsiderando que, por um processo de homologação harmonizado das luzes de presença da frente, das luzes de presença da retaguarda e das luzes de travagem, cada Estado-membro terá a possibilidade de verificar o cumprimento das prescrições comuns de construção e de ensaio e de informar os outros Estados-membros de verificação feita pelo envio de uma cópia da ficha de homologação estabelecida para cada tipo de luz de presença da frente, de luz de presença da retaguarda e de luz de travagem; que a aposição de uma marca de homologação CEE em todos os dispositivos fabricados em conformidade com o modelo homologado torna desnecessário um controlo técnico destes dispositivos nos outros Estados-membros;\n\nConsiderando que convém ter em conta certas prescrições técnicas adoptadas pela Comissão Económica para a Europa da ONU no seu Regulamento nº. 7 [Prescrições uniformes relativas à homologação das luzes de presença, das luzes vermelhas da retaguarda e das luzes de travagem dos veículos a motor (com excepção dos motociclos) e seus reboques] (5), anexado ao Acordo de 20 de Março de 1958, respeitante à adopção de condições uniformes de homologação e ao reconhecimento recíproco da homologação de equipamentos e peças de veículos a motor;\n\nConsiderando que a aproximação das legislações nacionais respeitantes aos veículos a motor implica um reconhecimento recíproco pelos Estados-membros dos controlos efectuados por cada um deles com base nas prescrições comuns,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "666b605039c6fa2b": {
+   "fragment_id": "Artigo 1º.",
+   "type": "artigo",
+   "heading": "Artigo 1º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º.\n\n1. Cada Estado-membro procederá à homologação CEE de qualquer tipo de luz de presença da frente, luz de presença da retaguarda e luz de travagem que esteja em conformidade com as prescrições de construção e de ensaio constantes dos Anexos 0, I, III, IV e V.\n\n2. O Estado-membro que tiver procedido à homologação CEE tomará as medidas necessárias para controlar, tanto quanto necessário, a conformidade da produção com o tipo (1)JO nº. C 76 de 7.4.1975, p. 37. (2)JO nº. C 255 de 7.11.1975, p. 3. (3)JO nº. L 42 de 23.2.1970, p. 1. (4)JO nº. L 262 de 27.9.1976, p. 1. (5)Documento da Comissão Económica para a Europa E/ECE/324 Add. 6 de 22.5.1967 + Grr. 1 de 9.2.1971. homologado, se for caso disso em colaboração com as autoridades competentes dos outros Estados-membros. Este controlo limitar-se-á a amostragens."
+  },
+  "b31f38e0557bc91d": {
+   "fragment_id": "Artigo 2º.",
+   "type": "artigo",
+   "heading": "Artigo 2º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º.\n\nOs Estados-membros atribuirão ao fabricante ou ao seu mandatário uma marca de homologação CEE conforme aos modelos estabelecidos no Anexo III para cada tipo de luz de presença da frente, de luz de presença da retaguarda e de luz de travagem que homologuem por força do artigo 1º..\n\nOs Estados-membros tomarão todas as disposições necessárias para impedir a utilização de marcas que possam criar confusões entre as luzes de presença da frente, as luzes de presença de retaguarda, e as luzes de travagem cujo tipo tenha sido homologado por força do artigo 1º., e outros dispositivos."
+  },
+  "cfade43e066b66d7": {
+   "fragment_id": "Artigo 3º.",
+   "type": "artigo",
+   "heading": "Artigo 3º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º.\n\n1. Os Estados-membros não podem proibir a colocação no mercado de luzes de presença da frente, de luzes de presença da retaguarda e de luzes de travagem por motivos relacionadas com a sua construção ou o seu funcionamento, se estas ostentarem a marca de homologação CEE.\n\n2. Contudo, um Estado-membro pode proibir a colocação no mercado de luzes de presença da frente, de luzes de presença da retaguarda e de luzes de travagem que ostentem a marca de homologação CEE mas que, de um forma sistemática, não sejam conformes ao tipo homologado.\n\nEsse Estado informará imediatamente os outros Estados-membros e a Comissão das medidas tomadas, especificando os motivos da sua decisão."
+  },
+  "bfc37beb968a26f7": {
+   "fragment_id": "Artigo 4º.",
+   "type": "artigo",
+   "heading": "Artigo 4º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º.\n\nAs autoridades competentes de cada Estado-membro enviarão às dos outros Estados-membros, no prazo de um mês, uma cópia das fichas de homologação, cujo modelo figura no Anexo II, estabelecidas para cada tipo de luz de presença da frente, de luz de presença da retaguarda e de luz de travagem que homologuem ou recusem homologar."
+  },
+  "611a01d683cb3a73": {
+   "fragment_id": "Artigo 5º.",
+   "type": "artigo",
+   "heading": "Artigo 5º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º.\n\n1. Se o Estado-membro que tiver procedido à homologação CEE verificar que várias luzes de presença da frente, luzes de presença da retaguarda e luzes de travagem que ostentam a mesma marca de homologação CEE não são conformes ao tipo que homologou, tomará as medidas necessárias para que a conformidade da produção com o tipo homologado seja assegurada. As autoridades competentes desse Estado avisarão as dos outros Estados-membros das medidas tomadas, que podem ir até à revogação da homologação CEE quando a não conformidade for sistemática. As referidas autoridades tomarão as mesmas disposições se forem informadas pelas autoridades competentes de um outro Estado-membro da existência de tal falta de conformidade.\n\n2. As autoridades competentes dos Estados-membros informar-se-ão mutuamente, no prazo de um mês, da revogação de uma homologação CEE concedida, bem como dos motivos que justificam essa medida."
+  },
+  "cc983ad32fae3846": {
+   "fragment_id": "Artigo 6º.",
+   "type": "artigo",
+   "heading": "Artigo 6º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º.\n\nQualquer decisão de recusa ou revogação da homologação ou de proibição da colocação mercado ou da utilização, tomada por força das disposições adoptadas em execução da presente directiva, será fundamentada de forma precisa. Será notificada ao interessado, com a indicação das vias de recurso previstas na legislação em vigor nos Estados-membros e dos prazos nos quais estes recursos podem ser interpostos."
+  },
+  "8a147bc61bb4174c": {
+   "fragment_id": "Artigo 7º.",
+   "type": "artigo",
+   "heading": "Artigo 7º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º.\n\nOs Estados-membros não podem recusar a recepção CEE nem a recepção de âmbito nacional de um veículo por motivos relacionados com as luzes delimitadoras, as luzes de presença da frente, as luzes de presença da retaguarda e as luzes de travagem, se estas ostentarem a marca de homologação CEE e estiverem montadas em conformidade com as prescrições constantes da Directiva 76/756/CEE."
+  },
+  "97f28199aba332e3": {
+   "fragment_id": "Artigo 8º.",
+   "type": "artigo",
+   "heading": "Artigo 8º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º.\n\nOs Estados-membros não podem recusar ou proibir a venda, a matrícula, a entrada em circulação ou a utilização de um veículo por motivos relacionados com as luzes delimitadoras, as luzes de presença da frente, as luzes de presença da retaguarda e as luzes de travagem, se estas ostentarem a marca de homologação CEE e estiverem montadas em conformidade com as prescrições constantes da Directiva 76/756/CEE."
+  },
+  "5f1289bbd215475f": {
+   "fragment_id": "Artigo 9º.",
+   "type": "artigo",
+   "heading": "Artigo 9º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º.\n\nPara efeitos do disposto na presente directiva, entende-se por veículo qualquer veículo a motor destinado a transitar na estrada, com ou sem carroçaria, tendo pelo menos quatro rodas e uma velocidade máxima, por construção, superior a 25 km/h, assim como os seus reboques, com excepção dos veículos que se deslocam sobre carris, dos tractores e máquinas agrícolas, bem como das máquinas de obras públicas."
+  },
+  "be074212e894fa95": {
+   "fragment_id": "Artigo 10º.",
+   "type": "artigo",
+   "heading": "Artigo 10º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º.\n\nAs alterações necessárias para adaptar ao progresso técnico as prescrições dos anexos serão adoptadas em conformidade com o procedimento previsto no artigo 13º. da Directiva 70/156/CEE."
+  },
+  "0a494ad9bd720d4f": {
+   "fragment_id": "Artigo 11º.",
+   "type": "artigo",
+   "heading": "Artigo 11º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º.\n\n1. Os Estados-membros adoptarão e publicarão, antes de 1 de Julho de 1977, as disposições necessárias para darem cumprimento à presente directiva e desse facto informarão imediatamente a Comissão. Aplicarão estas disposições o mais tardar a partir de 1 de Outubro de 1977.\n\n2. A partir da notificação da presente directiva, os Estados-membros devem assegurar que a Comissão seja informada, em tempo útil que lhe permita apresentar as suas observações, de qualquer projecto de disposições de natureza legislativa, regulamentar ou administrativa, que tenham a intenção de adoptar no domínio regulado pela presente directiva."
+  },
+  "eec42b5e4607d802": {
+   "fragment_id": "Artigo 12º.",
+   "type": "artigo",
+   "heading": "Artigo 12º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º.\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 27 de Julho de 1976.\n\nPelo Conselho\n\nO Presidente\n\nM. van der STOEL\n\nLista dos Anexos\n\nAnexo 0 (*) Definições, especificações gerais, intensidade da luz emitida, modalidade dos ensaios, cor da luz emitida, conformidade da produção, observação sobre a cor.\n\nAnexo I (*) Luzes de presença da frente, luzes de presença da retaguarda e luzes de travagem: ângulos mínimos exigidos para a distribuição da luz no espaço."
+  },
+  "27e27180a7682315": {
+   "fragment_id": "Anexo II Modelo de ficha de homologação CEE — Anexo III Condições de homologação CEE e marcação",
+   "type": "divisao",
+   "heading": "Anexo II Modelo de ficha de homologação CEE — Anexo III Condições de homologação CEE e marcação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II Modelo de ficha de homologação CEE — Anexo III Condições de homologação CEE e marcação\n\nApêndice: exemplos de marcas de homologação CEE"
+  },
+  "9f539f70c22716d6": {
+   "fragment_id": "Anexo IV (*) Medições fotométricas",
+   "type": "divisao",
+   "heading": "Anexo IV (*) Medições fotométricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV (*) Medições fotométricas"
+  },
+  "644120c24bc1e7a8": {
+   "fragment_id": "Anexo V (*) Cores da luz emitida: coordenadas tricromáticas.",
+   "type": "divisao",
+   "heading": "Anexo V (*) Cores da luz emitida: coordenadas tricromáticas.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V (*) Cores da luz emitida: coordenadas tricromáticas.\n\nANEXO 0 DEFINIÇÕES, ESPECIFICAÇÕES GERAIS, INTENSIDADE DA LUZ EMITIDA, MODALIDADES DOS ENSAIOS, COR DA LUZ EMITIDA, CONFORMIDADE DA PRODUÇÃO, OBSERVAÇÃO SOBRE A COR\n\n1. DEFINIÇÕES 1.0. Luz delimitadora\n\nPor luz delimitadora, entende-se a luz instalada na aresta exterior extrema do veículo e tão próxima quanto possível do topo do veículo, destinada a indicar claramente a sua largura total. Este sinal é destinado a completar, para determinados veículos a motor e reboques, as luzes de presença do veículo chamando particularmente a atenção para as suas dimensões.\n\n1.1. Luz de presença da frente\n\nPor luz de presença da frente, entende-se a luz que serve para indicar a presença e a largura do veículo visto da frente.\n\n1.2. Luz de presença da retaguarda\n\nPor luz de presença da retaguarda entende-se a luz que serve para indicar a presença e a largura do veículo visto de trás.\n\n1.3. Luz de travagem\n\nPor luz de travagem entende-se a luz que serve para indicar aos utentes da estrada, que se encontrem atrás do veículo, que o seu condutor está a accionar o travão de serviço. (6)As exigências técnicas deste anexo são análogas às do Regulamento nº. 7 da Comissão Económica para a Europa; em especial, as subdivisões em pontos são as mesmas. É por isso que, se um ponto do Regulamento nº. 7 não tiver correspondência na presente directiva, o seu número está indicado, para referência, entre parentêsis.\n\n1.4. Dispositivo\n\nPor dispositivo entende-se o aparelho de iluminação ou de sinalização que inclui a fonte luminosa (e, se for caso disso, um sistema óptico), o vidro e o invólucro. Um dispositivo pode conter uma ou mais luzes; se contiver várias luzes, estas podem ser agrupadas, combinadas ou incorporadas mutuamente. 1.4.1. Luzes agrupadas\n\nPor luzes agrupadas entendem-se os dispositivos que têm vidros e fontes luminosas distintas, mas com o mesmo invólucro.\n\n1.4.2. Luzes combinadas\n\nPor luzes combinadas entendem-se os dispositivos que têm vidros distintos mas a mesma fonte luminosa e o mesmo invólucro.\n\n1.4.3. Luzes incorporadas mutuamente\n\nPor luzes incorporadas mutuamente entendem-se os dispositivos que têm fontes luminosas distintas (ou uma fonte luminosa única que funcione em condições diferentes), vidros total ou parcialmente comuns e o mesmo invólucro.\n\n1.5. Luz única\n\nPor luz única entende-se qualquer conjunto de duas ou várias luzes, idênticas ou não, mas que tenham a mesma função e que emitam uma luz da mesma cor, constituída por dispositivos cujas luzes tenham superfícies iluminantes que, no mesmo plano transversal, ocupem pelo menos 60 % da área do rectângulo mais pequeno circunscrito nessas superfícies, desde que tal conjunto seja homologado como uma luz única quando a homologação for requerida.\n\n1.6. Duas luzes ou número par de luzes\n\nPor duas luzes ou número par de luzes entende-se uma única superfície iluminante das luzes que tenha a forma de uma faixa, quando esta estiver situada simetricamente em relação ao plano longitudinal médio do veículo e se prolongue pelo menos até 400 mm da aresta exterior extrema do veículo, de cada lado deste, e tendo um comprimento mínimo de 800 mm. A iluminação desta superfície deve ser assegurada pelo menos por duas fontes luminosas situadas o mais perto possível das suas extremidades. A superfície iluminante da luz pode ser formada por um conjunto de elementos justapostos desde que as superfícies iluminantes das luzes elementares num mesmo plano transversal ocupem pelo menos 60 % da área do rectângulo mais pequeno que lhes está circunscrito.\n\n(2.)\n\n(3.)\n\n(4.)\n\n(5.)ESPECIFICAÇÕES GERAIS 5.1. Cada uma das amostras deve corresponder às especificações indicadas nos pontos 6 e 8.\n\n5.2. Os dispositivos devem ser concebidos e construídos de tal modo que, em condições normais de utilização e apesar das vibrações às quais possam estar sujeitos, o seu bom funcionamento seja assegurado e conservem as características impostas pela presente directiva.\n\n5.3. As luzes que tiverem sido homologadas como luzes de presença da frente serão igualmente consideradas como luzes delimitadoras.\n\n5.4. As luzes que tiverem sido homologadas como luzes de presença da retaguarda serão igualmente consideras como luzes delimitadoras.\n\n5.5. Os conjuntos de luzes de presença da frente e de luzes de presença da retaguarda contidos num único invólucro podem igualmente ser utilizadas como luzes delimitadoras.\n\n(6.) INTENSIDADE DA LUZ EMITIDA 6.1. No eixo de referência, a intensidade da luz emitida por cada uma das duas amostras não deve ser inferior ao mínimo nem superior ao máximo estabelecidos a seguir: >PIC FILE= \"T0009297\">\n\n6.2. Fora do eixo de referência, no interior dos campos angulares definidos nos esquemas do Anexo I, a intensidade da luz emitida por cada uma das duas amostras: 6.2.1. Deve, em cada direcção correspondente aos pontos do quadro de distribuição de intensidade luminosa, objecto do Anexo IV, ser pelo menos igual ao produto do mínimo que consta no ponto 6.1 pela percentagem que indica esse quadro para a direcção em causa.\n\n6.2.2. Não deve ultrapassar, em nenhuma direcção do espaço de onde a luz possa ser observada, o máximo indicado no ponto 6.1.\n\n6.2.3. Contudo, admite-se uma intensidade luminosa de 60 cd abaixo de um plano que forme um ângulo de 5º. para baixo com o plano horizontal, para luzes de presença da retaguarda incorporadas mutuamente com luzes de travagem (ver ponto 6.1.2.);\n\n6.2.4. Além disso: 6.2.4.1. Na extensão total dos campos definidos no Anexo I, a intensidade da luz emitida deve ser pelo menos igual a 0,05 cd para as luzes de presença da frente e para as luzes de presença da retaguarda e 0,3 cd para as luzes de travagem.\n\n6.2.4.2. Quando uma luz de presença da retaguarda estiver incorporada mutuamente com uma luz de travagem, a relação entre as intensidades luminosas realmente medidas das duas luzes acesas simultaneamente e a intensidade da luz de presença da retaguarda acesa sozinha deve ser pelo menos de 5: 1 no campo delimitado pelas rectas horizontais que passem por + e - 5º. V e pelas rectas verticais que passem por + e - 10º. H do quadro de distribuição luminosa.\n\n6.2.4.3. As prescrições do ponto 2.2 do Anexo IV sobre as variações locais da intensidade devem ser cumpridas.\n\n6.3. As intensidades são medidas com lâmpadas(s) acesa(s) permanentemente. A luz colorida é utilizada quando se tratar de dispositivos que emitam luz amarela selectiva ou vermelha.\n\n6.4. O Anexo IV, ao qual se refere o ponto 6.2.1, dá os pormenores sobre os métodos de medição a aplicar.\n\n7. MODALIDADES DOS ENSAIOS\n\nTodas as medições serão efectuadas com lâmpadas padrão incolores pertencentes aos tipos de lâmpadas previstas para o dispositivo e reguladas para emitir o fluxo luminoso normal prescrito para estes tipos de lâmpadas.\n\n8. COR DA LUZ EMITIDA\n\nA cor da luz emitida, medida utilizando uma fonte luminosa que tenha uma temperatura de cor de 2 854 K correspondente ao iluminante A da Comissão Internacional de Iluminação (CIE), deve encontrar-se dentro dos limites das coordenadas prescritas para a cor em causa no Anexo V.\n\n9. CONFORMIDADE DA PRODUÇÃO\n\nQualquer dispositivo que ostente uma marca de homologação CEE deve estar em conformidade com o tipo homologado e corresponder às condições fotométricas indicadas nos pontos 6 e 8. Contudo, as exigências respeitantes ao mínimo de intensidade da luz emitida (medida com uma lâmpada padrão referida no ponto 7) podem limitar-se, para um dispositivo qualquer retirado de uma série e, em cada direcção em causa, a 80 % dos valores mínimos prescritos nos pontos 6.1 e 6.2.\n\n(10.)\n\n(11.) OBSERVAÇÃO SOBRE A COR\n\nA homologação CEE será concedida se a cor da luz emitida pelos dispositivos corresponder às prescrições que constam no ponto 3.13 do Anexo I da Directiva 76/756/CEE.\n\n(12.)\n\nANEXO I LUZES DE PRESENÇA DA FRENTE, LUZES DE PRESENÇA DA RETAGUARDA E LUZES DE TRAVAGEM. ÂNGULOS MINIMOS EXIGIDOS PARA A DISTRIBUIÇÃO DA LUZ NO ESPAÇO (*)\n\nEm todos os casos, os ângulos mínimos verticais de distribuição da luz no espaço são de 15º. para cima e 15º. para baixo da horizontal.\n\n>PIC FILE= \"T0009298\"> (*)Os ângulos que constam nestes esquemas correspondem a dispositivos destinados a ser instalados no lado direito do veículo. As setas são dirigidas para a frente do veículo."
+  },
+  "dfb90090beb44944": {
+   "fragment_id": "ANEXO II MODELO DE FICHA DE HOMOLOGAÇÃO CEE (Formato máximo: A4 (210 x 297 mm)) — >PIC FILE= \"T0009299\">",
+   "type": "divisao",
+   "heading": "ANEXO II MODELO DE FICHA DE HOMOLOGAÇÃO CEE (Formato máximo: A4 (210 x 297 mm)) — >PIC FILE= \"T0009299\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II MODELO DE FICHA DE HOMOLOGAÇÃO CEE (Formato máximo: A4 (210 x 297 mm)) — >PIC FILE= \"T0009299\">"
+  },
+  "63572ae7d5e293bd": {
+   "fragment_id": "ANEXO III CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO III CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO\n\n1. PEDIDO DE HOMOLOGAÇÃO CEE 1.1. O pedido de homologação CEE será apresentado pelo detentor da marca de fabrico ou comercial, ou pelo seu mandatário.\n\n1.2. No caso de uma luz de presença da frente, o pedido de homologação CEE deve definir se é destinado a emitir luz branca ou luz amarela selectiva.\n\n1.3. Para cada tipo de luz de presença da frente, luz de presença da retaguarda e luz de travagem, o pedido será acompanhado: 1.3.1. Por uma descrição técnica resumida especificando nomeadamente o (ou os) tipo(s) de lâmpada(s) prevista(s).\n\n1.3.2. Por desenhos, em triplicado, suficientemente detalhados para permitir a identificação do tipo de dispositivo e indicando as condições geométricas da montagem no veículo, bem como o eixo de observação que deve ser considerado nos ensaios como eixo de referência (ângulo horizontal H = 0º., ângulo vertical V = 0º.) e o ponto que deve ser considerado como centro de referência nesses ensaios.\n\n1.3.3. Por duas amostras, se os dispositivos não puderem ser montados na parte direita ou na parte esquerda do veículo, as duas amostras apresentadas podem ser idênticas e servir apenas para a parte direita, ou para a parte esquerda do veículo.\n\n2. INSCRIÇÕES 2.1. Os dispositivos apresentados para homologação CEE devem: 2.1.1. Ostentar a marca de fabrico ou comercial do requerente; esta marca deve ser nitidamente legível e indelével.\n\n2.1.2. Ostentar a indicação nitidamente legível e indelével do (ou dos) tipo(s) de lâmpada(s) prevista(s);\n\n2.1.3. Dispor de um local de grandeza suficiente para a marca de homologação CEE e os símbolos adicionais previstos no ponto 4.3; este local será indicado nos desenhos referidos no ponto 1.3.2.\n\n3. HOMOLOGAÇÃO CEE 3.1. Quando todas as amostras apresentadas em conformidade com o ponto 1 satisfizerem as disposições dos pontos 5, 6, 7 e 8 do anexo 0, a homologação CEE será concedida e será atribuído um número de homologação.\n\n3.2. Esse número não será atribuído a outro tipo de luz de presença da frente, luz de presença da retaguarda ou luz de travagem, excepto no caso de extensão da homologação CEE a um outro tipo de dispositivo que apenas seja diferente pela cor da luz emitida.\n\n3.3. Quando a homologação CEE for pedida para um tipo de dispositivo de iluminação e de sinalização luminosa que inclua uma luz de presença da frente, uma luz de presença da retaguarda ou uma luz de travagem e outras luzes, pode-se conceder uma marca de homologação CEE única desde que a luz corresponda às prescrições da presente directiva e que cada uma das outras luzes que façam parte do tipo de dispositivo de iluminação e de sinalização luminosa para o qual a homologação CEE for pedida, corresponda à directiva especial que lhe é aplicável.\n\n4. MARCAÇÃO 4.1. Todas as luzes de presença da frente, luzes de presença da retaguarda ou luzes de travagem em conformidade com um tipo homologado por aplicação da presente directiva, devem ostentar uma marca de homologação CEE.\n\n4.2. Essa marca consistirá:\n\nDe um rectângulo dentro do qual esteja colocada a letra «e» seguida pelo número ou grupo de letras distintivo do Estado-membro que tiver emitido a homologação:\n\n1 para a Alemanha\n\n2 para a França\n\n3 para a Itália\n\n4 para os Países Baixos\n\n6 para a Bélgica\n\n11 para o Reino Unido\n\n13 para o Luxemburgo\n\nDK para a Dinamarca\n\nIRL para a Irlanda,\n\ne por um número de homologação CEE que corresponda ao número da ficha de homologação CEE emitida para o tipo de luz.\n\n4.3. A marca de homologação CEE será completada pelo ou pelos símbolos adicionais seguintes: 4.3.1. A letra «A» nos dispositivos que satisfaçam as prescrições da presente directiva para as luzes de presença da frente.\n\n4.3.2. A letra «R» nos dispositivos que satisfaçam as prescrições da presente directiva para as luzes de presença da retaguarda.\n\n4.3.3. A letra «S» nos dispositivos que satisfaçam as prescrições da presente directiva para as luzes de travagem.\n\n4.3.4. As letras «R» e «S», separadas por um traço horizontal, nos dispositivos que incluam ao mesmo tempo uma luz de presença da retaguarda e uma luz de travagem que satisfaçam as prescrições da presente directiva para essas luzes.\n\n4.3.5. Uma seta cuja ponta esteja virada para o lado em que as especificações fotométricas impostas sejam cumpridas até ao ângulo de 80º. H, nos dispositivos de luzes de presença da frente ou de luzes de presença da retaguarda cujos ângulos de visibilidade geométrica sejam assimétricos em relação ao eixo de referência na direcção horizontal.\n\n4.4. O número de homologação CEE deve estar colocado nas proximidades do rectângulo circunscrito à letra «e», numa posição qualquer em relação a este.\n\n4.5. A marca de homologação CEE e os símbolos adicionais devem ser ostentados no vidro ou num dos vidros de tal modo que sejam indeléveis e bem legíveis mesmo quando as luzes estiverem montadas no veículo.\n\n4.6. São apresentados em apêndice exemplos de marcas de homologação CEE completadas com os símbolos adicionais.\n\n4.7. No caso da atribuição de um número de homologação CEE único, previsto no ponto 3.3 para um tipo de dispositivo de iluminação e de sinalização luminosa que inclua uma luz de presença da frente, uma luz de presença da retaguarda ou uma luz de travagem e outras luzes, pode ser ostentado uma única marca de homologação CEE, incluindo: - um rectângulo dentro do qual seja colocada a letra «e» seguida do número ou do grupo de letras distintivo do Estado-membro que tiver emitido a homologação,\n\n- um número de homologação CEE,\n\n- os símbolos adicionais previstos nas diversas directivas nos termos das quais a homologação CEE tiver sido emitida.\n\n4.8. As dimensões dos diferentes elementos desta marca não devem ser inferiores às maiores dimensões mínimas prescritas para as marcações individuais pelas directivas nos termos das quais a homologação CEE tiver sido emitida.\n\nApêndice EXEMPLOS DE MARCAS DE HOMOLOGAÇÃO CEE\n\n>PIC FILE= \"T0009300\"> O dispositivo que ostenta a marca de homologação CEE acima é uma luz de presença da retaguarda para o qual a homologação CEE foi emitida no Reino Unido (e 11) com o número 1471. A seta indica o lado em que as especificações fotométricas impostas são satisfeitas até ao ângulo de 80º. H.\n\n>PIC FILE= \"T0009301\">\n\nO dispositivo que ostenta a marca de homologação CEE acima é uma luz de presença da retaguarda para o qual a homologação CEE foi emitida no Reino Unido (e 11) com o número 1471. A ausência de seta indica que, para a direita e para a esquerda, as especificações fotométricas impostas são satisfeitas até ao ângulo de 80º. H.\n\n>PIC FILE= \"T0009302\">\n\nO dispositivo que ostenta a marca de homologação CEE acima é um dispositivo de luz de travagem para o qual a homologação CEE foi emitida no Reino Unido (e 11) com o número 1471.\n\n>PIC FILE= \"T0009303\">\n\nO dispositivo que ostenta a marca de homologação CEE a cima é um dispositivo que contém ao mesmo tempo uma luz de presença da retaguarda e uma luz de travagem para o qual a homologação CEE foi emitida no Reino Unido (e 11) com o número 1471. A seta indica o lado em que as especificações fotométricas impostas são satisfeitas até ao ângulo de 80º. H."
+  },
+  "e1a4e3b419a317d3": {
+   "fragment_id": "ANEXO IV MEDIÇÕES FOTOMÉTRICAS",
+   "type": "divisao",
+   "heading": "ANEXO IV MEDIÇÕES FOTOMÉTRICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV MEDIÇÕES FOTOMÉTRICAS\n\n1. MÉTODOS DE MEDIÇÕES 1.1. Aquando das medições fotométricas, uma máscara apropriado deverá impedir as reflexões parasitas.\n\n1.2. No caso de os resultados das medições serem contestados, estas serão executadas do modo seguinte: 1.2.1. A distância de medição deve ser tal que seja aplicável a lei do inverso do quadrado da distância;\n\n1.2.2. A aparelhagem de medição deve ser tal que a abertura angular do receptor, vista do centro de referência de luz, esteja incluída entre 10'e 1º.;\n\n1.2.3. A exigência de intensidade para uma direcção de observação determinada será considerada satisfeita quando for obtida numa direcção que não se afaste mais de 15' da direcção de observação.\n\n2. QUADRO DE DISTRIBUIÇÃO NORMALIZADA DA LUZ NO ESPAÇO >PIC FILE= \"T0009304\"> 2.1. A direcção H = 0º. e V = 0º. corresponde ao eixo de referência (no veículo é horizontal, paralela ao plano longitudinal médio do veículo e orientada no sentido da visibilidade imposta). Passa pelo centro de referência. Os valores indicados no quadro mostram, para as várias direcções de medição, as intensidades mínimas em % do mínimo exigido para cada luz no eixo (na direcção H = 0º. e V = 0º.).\n\n2.2. Quando, à vista, uma luz parecer apresentar variações locais de intensidade importantes, verificar-se-á que nenhuma intensidade, medida entre duas das direcções de medição referidas no ponto 2.1, seja: 2.2.1. Para uma especificação mínima, inferior a 50 % da intensidade mínima, mais baixa entre as duas prescritas para essas direcções de medição;\n\n2.2.2. Para uma especificação máxima, superior à intensidade máxima mais baixa entre as duas prescritas para estas direcções de medição, aumentada de uma fracção da diferença entre as intensidades prescritas para estas direcções de medição, sendo esta fracção uma função linear da diferença."
+  },
+  "726852a3a8446c66": {
+   "fragment_id": "ANEXO V CORES DA LUZ EMITIDA COORDENADAS TRICROMATICAS",
+   "type": "divisao",
+   "heading": "ANEXO V CORES DA LUZ EMITIDA COORDENADAS TRICROMATICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V CORES DA LUZ EMITIDA COORDENADAS TRICROMATICAS\n\n>PIC FILE= \"T0009305\"> Para a verificação das características colorimétricas, emprega-se uma fonte luminosa à temperatura de cor de 2 854 K, correspondendo ao iluminante A da Comissão Internacional da Iluminação (CIE)."
+  },
+  "1194775bc9abe505": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1976L0758 — PT — 01.11.2014 — 010.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31976L0758) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31976L0758) [de 27 de Julho de 1976](http://publications.europa.eu/resource/celex/31976L0758) [relativa à aproximação das legislações dos Estados-membros respeitantes às luzes delimitadoras, às luzes de presença da frente, às luzes de presença da retaguarda, às luzes de travagem, às luzes de circulação diurna e às luzes de presença lateral dos veículos a motor e seus reboques](http://publications.europa.eu/resource/celex/31976L0758) [(76/758/CEE)](http://publications.europa.eu/resource/celex/31976L0758) (JO L 262, 27.9.1976, p.54)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 661/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0661) — L 200 — 1 — 31.7.2009"
+  }
+ }
+}

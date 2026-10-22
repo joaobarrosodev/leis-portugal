@@ -34,6 +34,212 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-03-01'
+version_history:
+  file: regulamento-ue-2008-689.versoes.json
+  count: 8
+  source_lastmod: '2014-03-01'
+  versions:
+  - date: '2008-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-01-29'
+    amending: eu:celex:32010R0015:por
+    amending_title: REGULAMENTO (UE) N. o 15/2010 DA COMISSÃO de 7 de Janeiro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivos
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 16.º — Informações que acompanham os produtos químicos exportados
+    - Altera Artigo 17.º — Obrigações das autoridades dos Estados-Membros e dos exportadores relativas ao controlo das importações
+      e exportações
+    - Altera Artigo 19.º — Intercâmbio de informações
+    - Altera Artigo 26.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita LISTA DOS PRODUTOS QUÍMICOS
+    - Adita (a que se refere o artigo 6.º)
+    - Adita PARTE 1
+    - Adita Lista dos produtos químicos sujeitos ao procedimento de notificação de exportação
+    - Adita (a que se refere o artigo 7.º)
+    - Adita PARTE 2
+    - Adita Lista de produtos químicos passíveis de notificação PIC
+    - Adita (a que se refere o artigo 10.º)
+    - Adita PARTE 3
+    - Adita Lista dos produtos químicos sujeitos ao procedimento PIC no âmbito da Convenção de Roterdão
+    - Adita (a que se referem os artigos 12.º e 13.º)
+    - Adita ANEXO II
+    - Adita NOTIFICAÇÃO DE EXPORTAÇÃO
+    - Adita ANEXO III
+    - Adita Informações a fornecer à comissão pelas autoridades nacionais designadas dos Estados-Membros por força do artigo
+      9.º
+    - Adita ANEXO IV
+    - Adita Notificação de produtos químicos proibidos ou severamente restringidos ao Secretariado da Convenção
+    - Adita Informação necessária para as notificações a efectuar por força do artigo 10.º
+    - Adita ANEXO V
+    - Adita Produtos químicos e artigos sujeitos a proibições de exportação
+    - Adita (a que se refere o artigo 14.º)
+    - Adita Parte 1
+    - Adita Parte 2
+    - Adita ANEXO VI
+    - Adita Lista das partes na Convenção que exigem informações sobre os movimentos em trânsito de produtos químicos sujeitos
+      ao procedimento PIC
+    - Adita (a que se refere o artigo 15.º)
+  - date: '2010-05-01'
+    amending: eu:celex:32010R0196:por
+    amending_title: REGULAMENTO (UE) N. o 196/2010 DA COMISSÃO de 9 de Março de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivos
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 16.º — Informações que acompanham os produtos químicos exportados
+    - Altera Artigo 17.º — Obrigações das autoridades dos Estados-Membros e dos exportadores relativas ao controlo das importações
+      e exportações
+    - Altera Artigo 19.º — Intercâmbio de informações
+    - Altera (a que se refere o artigo 7.º)
+    - Altera (a que se refere o artigo 10.º)
+    - Altera (a que se referem os artigos 12.º e 13.º)
+    - Altera Notas
+  - date: '2011-05-01'
+    amending: eu:celex:32011R0186:por
+    amending_title: Regulamento (UE) n. o 186/2011 da Comissão de 25 de Fevereiro de 2011; Regulamento (UE) n. o 214/2011
+      da Comissão de 3 de Março de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivos
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Participação da Comunidade na Convenção
+    - Altera Artigo 6.º — Produtos químicos sujeitos a notificação de exportação, produtos químicos passíveis de notificação
+      PIC e produtos químicos sujeitos ao procedimento PIC
+    - Altera Artigo 7.º — Notificações de exportação enviadas às partes e a outros países
+    - Altera Artigo 8.º — Notificações de exportação recebidas das partes e outros países
+    - Altera Artigo 9.º — Informação sobre a exportação e importação de produtos químicos
+    - Altera Artigo 10.º — Notificação de produtos químicos proibidos ou severamente restringidos por força da Convenção
+    - Altera Artigo 12.º — Obrigações relativas às importações de produtos químicos
+    - Altera Artigo 13.º — Obrigações relativas às exportações de produtos químicos para além dos requisitos de notificação
+      da exportação
+    - Altera Artigo 16.º — Informações que acompanham os produtos químicos exportados
+    - Altera Artigo 17.º — Obrigações das autoridades dos Estados-Membros e dos exportadores relativas ao controlo das importações
+      e exportações
+    - Altera Artigo 19.º — Intercâmbio de informações
+    - Altera Artigo 22.º — Actualização dos anexos
+    - Altera (a que se refere o artigo 7.º)
+    - Altera (a que se refere o artigo 10.º)
+    - Altera (a que se referem os artigos 12.º e 13.º)
+    - Altera Parte 1
+    - Altera Parte 2
+    - Altera Notas
+  - date: '2011-10-01'
+    amending: eu:celex:32011R0834:por
+    amending_title: REGULAMENTO (UE) N. o 834/2011 DA COMISSÃO de 19 de Agosto de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivos
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Participação da Comunidade na Convenção
+    - Altera Artigo 6.º — Produtos químicos sujeitos a notificação de exportação, produtos químicos passíveis de notificação
+      PIC e produtos químicos sujeitos ao procedimento PIC
+    - Altera Artigo 7.º — Notificações de exportação enviadas às partes e a outros países
+    - Altera Artigo 8.º — Notificações de exportação recebidas das partes e outros países
+    - Altera Artigo 9.º — Informação sobre a exportação e importação de produtos químicos
+    - Altera Artigo 10.º — Notificação de produtos químicos proibidos ou severamente restringidos por força da Convenção
+    - Altera Artigo 12.º — Obrigações relativas às importações de produtos químicos
+    - Altera Artigo 13.º — Obrigações relativas às exportações de produtos químicos para além dos requisitos de notificação
+      da exportação
+    - Altera Artigo 16.º — Informações que acompanham os produtos químicos exportados
+    - Altera Artigo 17.º — Obrigações das autoridades dos Estados-Membros e dos exportadores relativas ao controlo das importações
+      e exportações
+    - Altera Artigo 19.º — Intercâmbio de informações
+    - Altera Artigo 22.º — Actualização dos anexos
+    - Altera (a que se refere o artigo 7.º)
+    - Altera (a que se refere o artigo 10.º)
+    - Altera (a que se referem os artigos 12.º e 13.º)
+    - Altera Notas
+  - date: '2012-04-01'
+    amending: eu:celex:32012R0071:por
+    amending_title: REGULAMENTO (UE) N. o 71/2012 DA COMISSÃO de 27 de janeiro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivos
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 16.º — Informações que acompanham os produtos químicos exportados
+    - Altera Artigo 17.º — Obrigações das autoridades dos Estados-Membros e dos exportadores relativas ao controlo das importações
+      e exportações
+    - Altera Artigo 19.º — Intercâmbio de informações
+    - Altera (a que se refere o artigo 7.º)
+    - Altera (a que se refere o artigo 10.º)
+    - Altera (a que se referem os artigos 12.º e 13.º)
+    - Altera Notas
+  - date: '2013-04-01'
+    amending: eu:celex:32013R0073:por
+    amending_title: REGULAMENTO (UE) N. o 73/2013 DA COMISSÃO de 25 de janeiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivos
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 16.º — Informações que acompanham os produtos químicos exportados
+    - Altera Artigo 17.º — Obrigações das autoridades dos Estados-Membros e dos exportadores relativas ao controlo das importações
+      e exportações
+    - Altera Artigo 19.º — Intercâmbio de informações
+    - Altera (a que se refere o artigo 7.º)
+    - Altera (a que se refere o artigo 10.º)
+    - Altera (a que se referem os artigos 12.º e 13.º)
+    - Altera Parte 1
+    - Altera Notas
+  - date: '2014-03-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objectivos
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Definições
+    - Suprime Artigo 4.º — Autoridades nacionais designadas
+    - Suprime Artigo 5.º — Participação da Comunidade na Convenção
+    - Suprime Artigo 6.º — Produtos químicos sujeitos a notificação de exportação, produtos químicos passíveis de notificação
+      PIC e produtos químicos sujeitos ao procedimento PIC
+    - Suprime Artigo 7.º — Notificações de exportação enviadas às partes e a outros países
+    - Suprime Artigo 8.º — Notificações de exportação recebidas das partes e outros países
+    - Suprime Artigo 9.º — Informação sobre a exportação e importação de produtos químicos
+    - Suprime Artigo 10.º — Notificação de produtos químicos proibidos ou severamente restringidos por força da Convenção
+    - Suprime Artigo 11.º — Informações a enviar ao Secretariado sobre produtos químicos proibidos ou severamente restringidos
+      não passíveis de notificação PIC
+    - Suprime Artigo 12.º — Obrigações relativas às importações de produtos químicos
+    - Suprime Artigo 13.º — Obrigações relativas às exportações de produtos químicos para além dos requisitos de notificação
+      da exportação
+    - Suprime Artigo 14.º — Exportações de determinados produtos químicos e artigos que contêm produtos químicos
+    - Suprime Artigo 15.º — Informações sobre movimentos em trânsito
+    - Suprime Artigo 16.º — Informações que acompanham os produtos químicos exportados
+    - Suprime Artigo 17.º — Obrigações das autoridades dos Estados-Membros e dos exportadores relativas ao controlo das importações
+      e exportações
+    - Suprime Artigo 18.º — Sanções
+    - Suprime Artigo 19.º — Intercâmbio de informações
+    - Suprime Artigo 20.º — Assistência técnica
+    - Suprime Artigo 21.º — Acompanhamento e apresentação de relatórios
+    - Suprime Artigo 22.º — Actualização dos anexos
+    - Suprime Artigo 23.º — Notas técnicas de orientação
+    - Suprime Artigo 24.º — Comité
+    - Suprime Artigo 25.º — Referências ao Regulamento (CE) n.º 304/2003
+    - Suprime Artigo 26.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime LISTA DOS PRODUTOS QUÍMICOS
+    - Suprime (a que se refere o artigo 6.º)
+    - Suprime PARTE 1
+    - Suprime Lista dos produtos químicos sujeitos ao procedimento de notificação de exportação
+    - Suprime (a que se refere o artigo 7.º)
+    - Suprime PARTE 2
+    - Suprime Lista de produtos químicos passíveis de notificação PIC
+    - Suprime (a que se refere o artigo 10.º)
+    - Suprime PARTE 3
+    - Suprime Lista dos produtos químicos sujeitos ao procedimento PIC no âmbito da Convenção de Roterdão
+    - Suprime (a que se referem os artigos 12.º e 13.º)
+    - Suprime ANEXO II
 identifiers:
   celex: 32008R0689
   eli: http://data.europa.eu/eli/reg/2008/689/oj
@@ -48,7 +254,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/67c11c0f-cbfb-476a-a8b7-0a0bbfae615d.0019
   content_url: http://publications.europa.eu/resource/cellar/53f6ff00-5f6e-41fa-8a4a-8ac3abf5efbd.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0689-20140301
-  retrieved_at: '2026-10-22T02:48:01Z'
+  retrieved_at: '2026-10-22T15:16:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T22:39:20.375+01:00'
 integrity:
@@ -57,9 +263,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:01Z'
-  notes: Texto consolidado 02008R0689-20140301.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:16:42Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-2008-689.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -220,16 +426,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:01Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:16:42Z'
+  warnings: []
   errors: []
 ---
 

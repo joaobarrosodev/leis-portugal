@@ -35,6 +35,98 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2005-10-19'
+version_history:
+  file: regulamento-ue-2003-1535.versoes.json
+  count: 6
+  source_lastmod: '2005-10-19'
+  versions:
+  - date: '2003-08-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-03-14'
+    amending: eu:celex:32004R0386:por
+    amending_title: REGULAMENTO (CE) N. o 386/2004 DA COMISSÃO de 1 de Março de 2004; REGULAMENTO (CE) N. o 444/2004 DA COMISSÃO
+      de 10 de Março de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Produtos acabados
+    - Altera Artigo 7.º — Conteúdo dos contratos
+    - Altera Artigo 9.º — Aditamentos aos contratos
+    - Altera Artigo 11.º — Transmissão dos contratos às autoridades competentes
+    - Altera Artigo 20.º — Certificados de entrega
+    - Altera Artigo 21.º — Comunicação das entregas noutro Estado-Membro
+    - Altera Artigo 31.º — Acções de controlo relativas aos tomates, pêssegos e peras
+    - Altera Artigo 33.º — Reduções da ajuda em caso de discordância entre a ajuda pedida e o montante devido
+    - Altera Artigo 35.º — Sanções em caso de discordância entre as quantidades admitidas à transformação e as quantidades
+      efectivamente transformadas
+    - Altera Artigo 41.º — Revogações
+    - Altera Artigo 42.º — Entrada em vigor
+    - Adita CAPÍTULO I
+    - Adita DEFINIÇÕES E CAMPANHAS DE COMERCIALIZAÇÃO
+    - Adita Artigo 1.º — Definições
+    - Adita CAPÍTULO II
+    - Adita CONTRATOS
+    - Adita Artigo 4.º — Forma dos contratos
+    - Adita CAPÍTULO III
+    - Adita COMUNICAÇÕES AOS ESTADOS-MEMBROS
+    - Adita Artigo 14.º — Comunicações relativas à participação no regime de ajudas
+    - Adita CAPÍTULO IV
+    - Adita MATÉRIAS-PRIMAS
+    - Adita Artigo 19.º — Qualidade das matérias-primas
+    - Adita CAPÍTULO V
+    - Adita PEDIDOS DE AJUDA E PAGAMENTO DA AJUDA
+    - Adita Artigo 23.º — Apresentação dos pedidos de ajuda
+    - Adita CAPÍTULO VI
+    - Adita CONTROLO E SANÇÕES
+    - Adita Artigo 28.º — Medidas nacionais de controlo
+    - Adita Artigo 33.ºA — Rescisão de um contrato por facto imputável à outra parte
+    - Adita Artigo 35.ºA — Pagamento do montante recuperado
+    - Adita CAPÍTULO VII
+    - Adita COMUNICAÇÕES À COMISSÃO
+    - Adita Artigo 39.º — Comunicações
+    - Adita CAPÍTULO VIII
+    - Adita DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+    - Adita Artigo 40.º — Verificação da observância dos limiares de transformação para a campanha de 2004/2005
+    - Adita ANEXO
+    - Adita Notas
+  - date: '2004-05-01'
+    amending: eu:celex:32004R1132:por
+    amending_title: REGULAMENTO (CE) N. o 1132/2004 DA COMISSÃO de 18 de Junho de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Produtos acabados
+    - Altera Artigo 20.º — Certificados de entrega
+    - Altera Notas
+  - date: '2004-12-21'
+    amending: eu:celex:32004R2169:por
+    amending_title: REGULAMENTO (CE) N. o 2169/2004 DA COMISSÃO de 17 de Dezembro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Produtos acabados
+    - Altera Artigo 9.º — Aditamentos aos contratos
+    - Altera Artigo 20.º — Certificados de entrega
+    - Altera Notas
+  - date: '2005-02-06'
+    amending: eu:celex:32005R0180:por
+    amending_title: REGULAMENTO (CE) N. o 180/2005 DA COMISSÃO de 2 de Fevereiro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Produtos acabados
+    - Altera Artigo 7.º — Conteúdo dos contratos
+    - Altera Artigo 20.º — Certificados de entrega
+    - Altera Notas
+  - date: '2005-10-19'
+    amending: eu:celex:32005R1663:por
+    amending_title: REGULAMENTO (CE) N. o 1663/2005 DA COMISSÃO de 11 de Outubro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Produtos acabados
+    - Altera Artigo 20.º — Certificados de entrega
+    - Altera Artigo 23.º — Apresentação dos pedidos de ajuda
+    - Altera Artigo 24.º — Teor dos pedidos de ajuda relativos a tomates, pêssegos ou peras
+    - Altera Artigo 27.º — Pagamento da ajuda
+    - Altera Notas
 identifiers:
   celex: 32003R1535
   eli: http://data.europa.eu/eli/reg/2003/1535/oj
@@ -49,7 +141,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/52bfe471-d50f-421d-9a00-298cff9fbb75.0010
   content_url: http://publications.europa.eu/resource/cellar/3aa128be-2484-4370-a894-e32654ae68c6.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R1535-20051019
-  retrieved_at: '2026-10-22T02:57:39Z'
+  retrieved_at: '2026-10-22T14:55:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T13:53:11.171+01:00'
 integrity:
@@ -58,9 +150,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:39Z'
-  notes: Texto consolidado 02003R1535-20051019.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:48Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2003-1535.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -159,34 +251,20 @@ relationships:
   date: '2001-03-07'
 article_structure:
   article_count: 44
-  section_count: 17
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 18
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:39Z'
-  warnings: []
+  checked_at: '2026-10-22T14:55:48Z'
+  warnings:
+  - '02003R1535-20040101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 1535/2003 da Comissão, de 29 de Agosto de 2003
-
-> 2003R1535 — PT — 19.10.2005 — 006.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32004R0386) — [REGULAMENTO (CE) N.º 386/2004 DA COMISSÃO de 1 de Março de 2004](http://publications.europa.eu/resource/celex/32004R0386) — L 64 — 25 — 2.3.2004
-- [►M2](http://publications.europa.eu/resource/celex/32004R0444) — [REGULAMENTO (CE) N.º 444/2004 DA COMISSÃO de 10 de Março de 2004](http://publications.europa.eu/resource/celex/32004R0444) — L 72 — 54 — 11.3.2004
-- [►M3](http://publications.europa.eu/resource/celex/32004R1132) — [REGULAMENTO (CE) N.º 1132/2004 DA COMISSÃO de 18 de Junho de 2004](http://publications.europa.eu/resource/celex/32004R1132) — L 219 — 3 — 19.6.2004
-- [►M4](http://publications.europa.eu/resource/celex/32004R2169) — [REGULAMENTO (CE) N.º 2169/2004 DA COMISSÃO de 17 de Dezembro de 2004](http://publications.europa.eu/resource/celex/32004R2169) — L 371 — 18 — 18.12.2004
-- [►M5](http://publications.europa.eu/resource/celex/32005R0180) — [REGULAMENTO (CE) N.º 180/2005 DA COMISSÃO de 2 de Fevereiro de 2005](http://publications.europa.eu/resource/celex/32005R0180) — L 30 — 7 — 3.2.2005
-- [►M6](http://publications.europa.eu/resource/celex/32005R1663) — [REGULAMENTO (CE) N.º 1663/2005 DA COMISSÃO de 11 de Outubro de 2005](http://publications.europa.eu/resource/celex/32005R1663) — L 267 — 22 — 12.10.2005
-
-## REGULAMENTO (CE) N.º 1535/2003 DA COMISSÃO
 
 de 29 de Agosto de 2003
 

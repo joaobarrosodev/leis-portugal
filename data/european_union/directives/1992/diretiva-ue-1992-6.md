@@ -34,6 +34,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2002-12-04'
+version_history:
+  file: diretiva-ue-1992-6.versoes.json
+  count: 1
+  source_lastmod: '2002-12-04'
+  versions:
+  - date: '2002-12-04'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31992L0006
   eli: http://data.europa.eu/eli/dir/1992/6/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/57a88b88-0245-4cbc-9904-6ce1faaf5710.0009
   content_url: http://publications.europa.eu/resource/cellar/f3523e40-3952-4f72-b100-0392af27d8b8.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0006-20021204
-  retrieved_at: '2026-10-22T02:46:45Z'
+  retrieved_at: '2026-10-22T14:40:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-14T17:24:18.122+02:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:45Z'
-  notes: Texto consolidado 01992L0006-20021204.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:40:29Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-1992-6.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -110,15 +119,15 @@ relationships:
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:45Z'
+  checked_at: '2026-10-22T14:40:29Z'
   warnings:
-  - Não foi detetado o título principal no XHTML.
+  - '01992L0006-19920221: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

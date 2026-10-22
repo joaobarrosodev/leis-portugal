@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2005-12-27'
+version_history:
+  file: diretiva-ue-2005-88.versoes.json
+  count: 1
+  source_lastmod: '2005-12-27'
+  versions:
+  - date: '2005-12-27'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32005L0088
   eli: http://data.europa.eu/eli/dir/2005/88/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a83cd8c8-b37e-433b-89a9-132e87030a69.0017
   content_url: http://publications.europa.eu/resource/cellar/5aef9a06-bb9b-413e-a065-ec375015cdb9.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0088-20051227
-  retrieved_at: '2026-10-22T02:47:42Z'
+  retrieved_at: '2026-10-22T14:59:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-02T08:13:19.521+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:42Z'
-  notes: Texto consolidado 02005L0088-20051227.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:49Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2005-88.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -120,29 +129,19 @@ relationships:
   source: null
 article_structure:
   article_count: 4
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:42Z'
+  checked_at: '2026-10-22T14:59:49Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2005/88/CE do Parlamento Europeu e do Conselho, de 14 de Dezembro de 2005
-
-> 2005L0088 — PT — 27.12.2005 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32005L0088R%2801%29) — [Rectificação, JO L 165, 17.6.2006, p. 35 (05/88)](http://publications.europa.eu/resource/celex/32005L0088R%2801%29)
-
-## DIRECTIVA 2005/88/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de Dezembro de 2005
 

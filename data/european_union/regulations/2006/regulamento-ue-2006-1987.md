@@ -36,6 +36,76 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-12-28'
+version_history:
+  file: regulamento-ue-2006-1987.versoes.json
+  count: 4
+  source_lastmod: '2020-12-28'
+  versions:
+  - date: '2006-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-17'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Arquitectura técnica e modos de funcionamento do SIS II
+    - Altera Artigo 10.º — Segurança - Estados-Membros
+    - Altera Artigo 15.º — Gestão operacional
+    - Altera Artigo 25.º — Condições para a emissão de indicações sobre nacionais de países terceiros que usufruam do direito
+      de livre circulação na Comunidade
+    - Altera Artigo 27.º — Autoridades com direito de acesso às indicações
+    - Altera Artigo 31.º — Tratamento dos dados do SIS II
+    - Altera Artigo 42.º — Direito à informação
+    - Altera Artigo 43.º — Recursos
+    - Altera Artigo 51.º — Comité
+    - Altera Artigo 52.º — Alteração das disposições do Acervo de Schengen
+    - Altera Artigo 55.º — Entrada em vigor, aplicabilidade e migração
+    - Altera Notas
+  - date: '2019-12-28'
+    amending: eu:celex:32018R1726:por
+    amending_title: REGULAMENTO (UE) 2018/1726 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de novembro de 2018; REGULAMENTO
+      (UE) 2018/1861 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de novembro de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Sistemas nacionais
+    - Altera Artigo 11.º — Confidencialidade – Estados-Membros
+    - Altera Artigo 15.º — Gestão operacional
+    - Altera Artigo 17.º — Confidencialidade – Autoridade de gestão
+    - Altera Artigo 20.º — Categorias de dados
+    - Altera Artigo 21.º — Proporcionalidade
+    - Altera Artigo 25.º — Condições para a emissão de indicações sobre nacionais de países terceiros que usufruam do direito
+      de livre circulação na Comunidade
+    - Altera Artigo 27.º — Autoridades com direito de acesso às indicações
+    - Altera Artigo 52.º — Alteração das disposições do Acervo de Schengen
+    - Altera Notas
+    - Adita Artigo 26.º — Condições para a introdução de indicações relativas a nacionais de países terceiros visados por
+      medidas restritivas
+    - Adita Artigo 27.º-A — Acesso aos dados no SIS II pela Europol
+    - Adita Artigo 27.º-B — Acesso aos dados no SIS II pelas equipas europeias de guardas de fronteiras e costeiros, pelas
+      equipas que participam na execução de funções relacionadas com o regresso e pelos membros das equipas de apoio à gestão
+      dos fluxos migratórios
+    - Suprime Artigo 26.º — Condições para a emissão de indicações sobre nacionais de países terceiros que estejam sujeitos
+      a uma medida restritiva tomada nos termos do artigo 15.º do Tratado da União Europeia
+  - date: '2020-12-28'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 15.º — Gestão operacional
+    - Altera Artigo 25.º — Condições para a emissão de indicações sobre nacionais de países terceiros que usufruam do direito
+      de livre circulação na Comunidade
+    - Altera Artigo 27.º — Autoridades com direito de acesso às indicações
+    - Altera Artigo 27.º-A — Acesso aos dados no SIS II pela Europol
+    - Altera Artigo 27.º-B — Acesso aos dados no SIS II pelas equipas europeias de guardas de fronteiras e costeiros, pelas
+      equipas que participam na execução de funções relacionadas com o regresso e pelos membros das equipas de apoio à gestão
+      dos fluxos migratórios
+    - Altera Artigo 52.º — Alteração das disposições do Acervo de Schengen
+    - Altera Notas
+    - Adita Artigo 22.º — Regras específicas para a introdução, verificação ou consulta com recurso a fotografias e impressões
+      digitais
+    - Suprime Artigo 22.º — Disposições específicas aplicáveis a fotografias e impressões digitais
 identifiers:
   celex: 32006R1987
   eli: http://data.europa.eu/eli/reg/2006/1987/oj
@@ -50,7 +120,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a0b0cd96-6a38-46d3-a0ad-2a5d6b04bc69.0017
   content_url: http://publications.europa.eu/resource/cellar/1619b37f-394d-11eb-b27b-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1987-20201228
-  retrieved_at: '2026-10-22T03:12:52Z'
+  retrieved_at: '2026-10-22T15:06:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-21T05:13:22.859+01:00'
 integrity:
@@ -59,9 +129,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:52Z'
-  notes: Texto consolidado 02006R1987-20201228.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:06:21Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2006-1987.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -238,34 +308,19 @@ relationships:
   date: '2006-09-21'
 article_structure:
   article_count: 57
-  section_count: 16
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 17
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:52Z'
+  checked_at: '2026-10-22T15:06:21Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1987/2006 do Parlamento Europeu e do Conselho, de 20 de Dezembro de 2006
-
-> 02006R1987 — PT — 28.12.2020 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018R1726) — [REGULAMENTO (UE) 2018/1726 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de novembro de 2018](http://publications.europa.eu/resource/celex/32018R1726) — L 295 — 99 — 21.11.2018
-- [►M2](http://publications.europa.eu/resource/celex/32018R1861) — [REGULAMENTO (UE) 2018/1861 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de novembro de 2018](http://publications.europa.eu/resource/celex/32018R1861) — L 312 — 14 — 7.12.2018
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32006R1987R%2802%29) — [Rectificação, JO L 023, 29.1.2015, p. 19 (n.o 1987/2006)](http://publications.europa.eu/resource/celex/32006R1987R%2802%29)
-
-## REGULAMENTO (CE) N.º 1987/2006 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de Dezembro de 2006
 

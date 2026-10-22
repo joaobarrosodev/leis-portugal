@@ -37,6 +37,20 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-06-01'
+version_history:
+  file: diretiva-ue-1999-45.versoes.json
+  count: 2
+  source_lastmod: '2015-06-01'
+  versions:
+  - date: '2009-01-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-06-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
 identifiers:
   celex: 31999L0045
   eli: http://data.europa.eu/eli/dir/1999/45/oj
@@ -51,7 +65,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4c797e5d-9d31-49ad-9c19-096dd1457bef.0011
   content_url: http://publications.europa.eu/resource/cellar/e8822a96-f30d-4b86-af8a-1663cb2f0411.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0045-20150601
-  retrieved_at: '2026-10-22T02:36:15Z'
+  retrieved_at: '2026-10-22T14:47:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T10:23:01.568+01:00'
 integrity:
@@ -60,9 +74,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:15Z'
-  notes: Texto consolidado 01999L0045-20150601.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:55Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1999-45.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -360,16 +374,23 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:15Z'
+  checked_at: '2026-10-22T14:47:55Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01999L0045-19990101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999L0045-20010911: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999L0045-20031120: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01999L0045-20040501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01999L0045-20060213: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01999L0045-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01999L0045-20070601: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01999L0045-20081211: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01999L0045-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

@@ -1,0 +1,129 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31971L0347:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01971L0347-20151201",
+ "dre_path": null,
+ "source_lastmod": "2015-12-01",
+ "versions": [
+  {
+   "date": "1971-10-25",
+   "future": false,
+   "celex": "31971L0347",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "da0d391fe532b3e4",
+    "493aedde53006335",
+    "ad5cfdd14f0d82c9",
+    "bb9046039724fc07",
+    "c3ca290890b79a48",
+    "7317a7c210dcb847",
+    "0472bd65f76f49e6",
+    "c8078c699be6d99e",
+    "3e28997160fa987d"
+   ]
+  },
+  {
+   "date": "2015-12-01",
+   "future": false,
+   "celex": "01971L0347-20151201",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º.",
+    "Suprime Artigo 2º.",
+    "Suprime Artigo 3º.",
+    "Suprime Artigo 4º.",
+    "Suprime Artigo 5º.",
+    "Suprime Artigo 6º.",
+    "Suprime Artigo 7º.",
+    "Suprime Artigo 8º."
+   ],
+   "fragments": [
+    "4428b0d1c3947cee"
+   ]
+  }
+ ],
+ "fragments": {
+  "da0d391fe532b3e4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 71/347/CEE do Conselho, de 12 de Outubro de 1971, relativa à aproximação das legislações dos Estados-Membros respeitantes à medição de massa por hectolitro dos cereais** *Jornal Oficial nº L 239 de 25/10/1971 p. 0001 - 0008 Edição especial finlandesa: Capítulo 13 Fascículo 2 p. 0075 Edição especial dinamarquesa: Série I Capítulo 1971(III) p. 0757 Edição especial sueca: Capítulo 13 Fascículo 2 p. 0075 Edição especial inglesa: Série I Capítulo 1971(III) p. 0852 Edição especial grega: Capítulo 13 Fascículo 1 p. 0214 Edição especial espanhola: Capítulo 13 Fascículo 2 p. 0091 Edição especial portuguesa: Capítulo 13 Fascículo 2 p. 0091*\n\nDIRECTIVA DO CONSELHO de 12 de Outubro de 1971 relativa à aproximação das legislações dos Estados-membros respeitantes à medição de massa por hectolitro dos cereais (71/347/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100º.,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que os instrumentos e métodos utilizados nos Estados-membros para a medição da massa por hectolitro dos cereais são diferentes e têm uma incidência directa no funcionamento do mercado comum; que uma aproximação das legislações neste domínio deve facilitar o comércio, não só dos cereais, mas também dos instrumentos de medição;\n\nConsiderando que, para este efeito, é conveniente definir uma característica especial, denominada «massa por hectolitro CEE», e fixar as prescrições técnicas, que devem satisfazer os instrumentos padrões utilizados para determinar este valor de referência;\n\nConsiderando que os instrumentos de medição que têm uma precisão definida em relação à dos instrumentos padrões e que tenham sido submetidos aos controlos previstos na Directiva do Conselho, de 26 de Julho de 1971, relativa à aproximação das legislações dos Estados-membros respeitantes às disposições comunitarias sobre os instrumentos de medição e os métodos de controlo metrológico (3) dão garantias suficientes para que se justifique a sua utilização legal em todos os Estados-membros; que, em consequência, estas instrumentos de medição podem ser comercializados em toda a Comunidade;\n\nConsiderando que é necessário proibir, no comércio entre Estados-membros, a medição da massa por hectolitro dos cereais segundo as disposições ou as práticas diversas actualmente aplicadas na Comunidade; que a utilização exclusiva e obrigatória da massa por hectolitro CEE em todos os Estados-membros evitará, no comércio intracomunitário, qualquer contestação relativa a este modo de medição,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "493aedde53006335": {
+   "fragment_id": "Artigo 1º.",
+   "type": "artigo",
+   "heading": "Artigo 1º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º.\n\nA presente directiva é relativa: a) À definição da característica dos cereais denominada «EWG-Schüttdichte», «masse à l'hectolitre CEE», peso ettolitrico CEE», «EEG-natuurgewicht» (massa por hectolitro CEE);\n\nb) Às prescrições de realização técnica e de utilização do instrumento padrão de referência que intervem na definição da massa por hectolitro CEE;\n\nc) Às condições a que devem obedecer os instrumentos de trabalho que servem para medir a massa por hectolitro CEE. (1)JO nº. C 63 de 28.5.1969, p. 27. (2)JO nº. C 4 de 14.1.1969, p. 4. (3)JO nº. L 202 de 6.9.1971, p. 1."
+  },
+  "ad5cfdd14f0d82c9": {
+   "fragment_id": "Artigo 2º.",
+   "type": "artigo",
+   "heading": "Artigo 2º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º.\n\n1. A massa por hectolitro CEE é a relação entre a massa, expressa em quilogramas, e o volume, expresso em hectolitros, determinada para um cereal qualquer por medição com um instrumento e segundo um método conformes à presente directiva.\n\n2. É dita «de referência» a massa por hectolitro CEE determinada por medição com um instrumento padrão, comunitário ou nacional, construído e utilizado em conformidade com o capítulos I e II do Anexo I.\n\n3. A massa por hectolitro CEE de referência é expressa em quilogramas por hectolitro com duas casas decimais."
+  },
+  "bb9046039724fc07": {
+   "fragment_id": "Artigo 3º.",
+   "type": "artigo",
+   "heading": "Artigo 3º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º.\n\n1. O instrumento padrão comunitário é depositado no Serviço de Metrologia da República Federal da Alemanha. De dez em dez anos, pelo menos, os instrumentos padrões nacionais são verificados e aferidos em conformidade com o Anexo I, por comparação com o instrumento padrão comunitário mediante um instrumento padrão transportável do mesmo tipo.\n\n2. Um instrumento padrão tranportável é um instrumento sem dispositivo de pesagem, mas em que todas as outras características são idênticas às dos instrumentos padrões comunitários e nacionais."
+  },
+  "c3ca290890b79a48": {
+   "fragment_id": "Artigo 4º.",
+   "type": "artigo",
+   "heading": "Artigo 4º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º.\n\n1. A denominação massa por hectolitro CEE apenas pode ser utilizada no comércio para caracterizar cereais que tenham sido medidos com instrumentos que correspondem às prescrições da presente directiva.\n\n2. Para o comércio de cereais entre os Estados-membros, a característica designada massa por hectolitro apenas pode ser a massa por hectolitro CEE atrás definida."
+  },
+  "7317a7c210dcb847": {
+   "fragment_id": "Artigo 5º.",
+   "type": "artigo",
+   "heading": "Artigo 5º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º.\n\nOs instrumentos de medição que servem para determinar, no comércio, a massa por hectolitro CEE dos cereais são os que correspondem às prescrições do Anexo II.\n\nSão objecto de uma aprovação CEE de modelo e submetidos à primeira verificação CEE.\n\nSão construídos e utilizados nas condições indicadas no certificado de aprovação CEE de modelo.\n\nSão munidos das marcas e sinais CEE."
+  },
+  "0472bd65f76f49e6": {
+   "fragment_id": "Artigo 6º.",
+   "type": "artigo",
+   "heading": "Artigo 6º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º.\n\nOs Estados-membros não podem recusar, impedir ou restringir a colocação no mercado e a entrada em serviço de instrumentos de medição que servem para determinar a massa por hectolitro CEE, munidos do sinal de aprovação CEE de modelo e da marca de primeira verificação CEE."
+  },
+  "c8078c699be6d99e": {
+   "fragment_id": "Artigo 7º.",
+   "type": "artigo",
+   "heading": "Artigo 7º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º.\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva no prazo de dezoito meses a contar da sua notificação e desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros devem assegurar que seja comunicado à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "3e28997160fa987d": {
+   "fragment_id": "Artigo 8º.",
+   "type": "artigo",
+   "heading": "Artigo 8º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º.\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo em 12 de Outubro de 1971.\n\nPelo Conselho\n\nO Presidente\n\nI. VIGLIANESI\n\nANEXO I INSTRUMENTOS PADRÕES QUE SERVEM PARA MEDIR A MASSA POR HECTOLITRO CEE DOS CEREAIS\n\nI. REQUISITOS DE CONSTRUÇÃO\n\n1. Os instrumentos padrões compõem-se da medida de capacidade, do dispositivo de enchimento, do dispositivo de rasourar, do dispositivo de pesagem e do recipiente de enchimento.\n\nOs instrumentos são sólida e cuidadosamente construídos em todas as suas partes. Todas as superfícies destinadas a estar em contacto com o cereal são lisas e fabricadas com um metal praticamente inalterável (latão, aço inox, por exemplo) e suficientemente espessos para ser praticamente indeformável nas condições normais de utilização.\n\n2. Medida de capacidade 2.1. A medida de capacidade tem a forma de um cilindro recto circular, cujo bordo superior é esmerilado segundo um plano perpendicular ao seu eixo.\n\n2.2. Quando do enchimento, a medida de capacidade encontra-se sempre na mesma posição sob o dispositivo de enchimento.\n\n2.3. Acima da medida de capacidade colocada em posição de enchimento é fixado um anel de enchimento que tem o mesmo eixo e o mesmo diâmetro interior que a medida de capacidade. A rasoura desloca-se entre os dois componentes a uma pequena distância destes sem os tocar.\n\n3. Dispositivo de enchimento 3.1. O dispositivo de enchimento é constituído pela tremonha de enchimento munida de um obturador e por um dispositivo de regulação.\n\n3.2. A tremonha de enchimento tem a forma de um tronco de cone ao qual se ligam uma parte superior cilíndrica e um bocal inferior troncónico munido de um obturador.\n\n3.3. A tremonha de enchimento é fixada de maneira que, em posição de enchimento, o seu eixo seja vertical e coincida com o da medida de capacidade.\n\n3.4. O dispositivo de regulação tem uma forma prescrita bem determinada. Desce até ao bocal inferior e a sua posição é regulável no sentido vertical. O seu eixo coincide com o da tremonha de enchimento.\n\n4. Dispositivo de rasourar 4.1. O dispositivo de rasourar é constituído pela rasoura, a guia e o dispositivo de tracção.\n\n4.2. A rasoura é plana, horizontal e não se deforma durante a utilização.\n\n4.3. A guia obriga a rasoura a deslocar-se entre o bordo inferior do anel e o bordo superior da medida de capacidade.\n\n4.4. Sob a acção do dispositivo de tracção, a rasoura desloca-se com um movimento contínuo através do cereal.\n\n4.5. Após o enchimento e a pesagem da medida de capacidade, o cereal que se encontra em excesso sobre a resoura, no anel, é recolhido num recipiente colector;\n\n5. Dispositivo de pesagem 5.1. A medida de capacidade cheia de cereal é pesada com uma balança de braços iguais, de alcance máximo de 50 kg.\n\n5.2. A massa do prato dos pesos da balança equilibra a massa da medida de capacidade vazia.\n\n6. Dispositivo de conjunto 6.1. As diferentes peças do instrumento, com excepção da medida de capacidade e da balança, são fixadas numa estrutura de modo a que o bordo superior da medida de capacidade, em posição de enchimento, se encontre num plano horizontal.\n\n6.2. A base do instrumento é munida de um fio de prumo com, pelo menos, 500 mm de comprimento ou de um nível de bolha de ar. Estes dispositivos devem estar entre as referências quando o bordo superior da medida de capacidade, em posição de enchimento, se encontrar num plano horizontal.\n\n7. Dimensões dos diferentes elementos\n\n>PIC FILE= \"T9000419\">\n\n8. Figura\n\nO instrumento padrão está representado no desenho anexo.\n\nII. MODO DE UTILIZAÇÃO\n\nO cereal a medir deve estar isento de impurezas e encontrar-se aproximadamente à temperatura do local onde as medições são efectuadas. O cereal é seco ao ar, isto é, deve encontrar-se em equilíbrio higroscópio com o ar do local de medição. Com este objectivo, espalha-se o cereal numa camada pouco espessa, que se deixa em repouso durante cerca de 10 horas antes do transvasamento. A humidade relativa do ar do local onde as medições são efectuadas não deve exceder 60 %.\n\nA massa por hectolitro depende da quantidade utilizada e do modo de transvasamento do cereal para a tremonha de enchimento. É, por essa razão, conveniente respeitar o modo de utilização seguinte:\n\nColocar a medida de capacidade 1 (ver desenho anexo) na sua posição de enchimento de maneira que o seu eixo coincida com o do anel de enchimento 2 e da tremonha de enchimento 3, e manobrar o punho 15 a fim de travar a medida por meio da alavanca de bloqueamento 16. Com o punho 12, bloquear a rasoura 9 depois de a ter colocado na sua posição de partida. Por meio dos parafusos de nivelamento 19, nivelar a estrutura 20 de modo a que o bordo superior da medida de capacidade 1 se situe sempre num plano horizontal quando do enchimento.\n\nIntroduzir cerca de 24 l de cereal no recipiente de enchimento (não representado) e verter esta quantidade na tremonha de enchimento 3 após verificação de que o obturador 4 do bocal troncónico de escoamento 8 está na posição de fechado. Puxar em seguida o fecho 5 para abrir o obturador 4, cujo bloqueamento na posição de aberto é assegurado pelo batente 6, e permitir o escoamento do cereal para a medida de capacidade 1 colocada sobre o carro 14. Este escoamento é protegido contra as influências exteriores pela gola 2a. O suporte 14a impede a deformação dos carris nos quais deslizam as rodas do carro 14.\n\nO excedente de cerca de 4 litros de cereal que foi introduzido na tremonha 3, com vista a assegurar um enchimento regular da medida de capacidade 1, fica retido no anel de enchimento 2, após o enchimento completo da medida. Para isolar este excedente do conteúdo da medida de capacidade 1, abrir o fecho 12, que roda em torno de um eixo fixado na travessa 11, a fim de libertar a rasoura 9. O bordo anterior da rasoura 9, que é accionado pelo peso de tracção 13, é suficientemente cortante para seccionar os grãos do cereal que se encontram no bordo da medida de capacidade 1 e que poderiam entravar a regularidade da operação de rasourar. Quando a rasoura 9 tiver atingido a sua posição final, puxar com o auxílio do punho 15 a medida de capacidade 1 que se encontra sobre o carro 14, retirá-la do carro, colocá-la na balança e pesar o seu conteúdo com a precisão de cerca de ± 5 g.\n\nPuxar a rasoura 9 para a colocar na sua posição de partida, a fim de que o cereal que se encontra em excesso sobre a rasoura caia no recipiente colector 17; durante a sua queda, os grãos que ressaltam são guiados para o recipiente pela camisa 18. Após se ter desbloqueado o fecho 6 rodando o volante 4a, coloca-se o obturador 4 na sua posição de fechado.\n\nSe for preciso efectuar uma outra medição de mesma amostra, é conveniente misturar bem o cereal proveniente da medida de capacidade com o proveniente do recipiente colector.\n\nPara obter a massa por hectolitro em quilogramas por hectolitro, divide-se por 0,2 hl o valor em quilogramas indicado pelo dispositivo de pesagem.\n\nIII. VERIFICAÇÃO E AFERIÇÃO\n\n1. Dimensões e volumes\n\nAs dimensões e volumes referidos no ponto 7 da secção I são verificados com o auxílio de instrumentos de precisão convenientes.\n\n2. Verificação de funcionamento\n\nOs instrumentos padrões nacionais são verificados e aferidos por comparação com o instrumento padrão comunitário por meio de um instrumento padrão transportável. 2.1. Para a verificação utiliza-se trigo puro de Manitoba, cujos grãos tenham uma forma aproximadamente esférica. A sua massa por hectolitro não deve ser inferior a 80 kg/hl e deve estar em equilíbrio higroscópico com o ar ambiente. Efectuam-se seis operações de medição de acordo com as instruções constantes do ponto II. Se se designar por P o instrumento padrão que deve ser verificado e por N o instrumento padrão comunitário, as medições serão efectuadas conforme o esquema seguinte: >PIC FILE= \"T0002751\"> 2.1.1. Os desvios entre os diferentes valores dados por P e o seu valor médio não devem exceder 10 g para mais ou para menos.\n\n2.1.2. A diferença entre o valor médio resultante das 6 indicações das por P e o valor médio resultante das 6 indicações dadas por N representa o erro do instrumento. O erro máximo admissível é de 10 g para mais ou para menos.\n\n2.1.3. Se os erros máximos admissíveis indicados nos pontos 2.1.1 e 2.1.2 tiverem sido excedidos, isto pode provir do facto de o cereal utilizado não estar ainda suficientemente homogéneo. O ensaio previsto no ponto 2.1 deve ser recomeçado depois de se ter deixado o cereal estendido durante uma dezena de horas suplementares no local de medição.\n\n2.1.4. Se apenas tiver sido excedido o erro máximo admissível indicado no ponto 2.1.2, o instrumento deve ser regulado.\n\nAs indicações fornecidas pelo instrumento podem ser alteradas deslocando a posição do dispositivo de regulação 7 para cima ou para baixo.\n\nO dispositivo de regulação 7 é deslocado e recomeça-se o ensaio descrito no ponto 2.1.\n\n3. Dispositivo de pesagem 3.1. Para as cargas compreendidas entre 10 e 20 quilogramas, os erros da balança não devem exceder 0,01 %, da carga para mais ou para menos.\n\n3.2. A soma dos erros dos pesos utilizados não deve exceder ± 0,02 % da sua massa nominal, para mais ou para menos.\n\nLegenda do desenho anexo\n\n1. Medida de capacidade\n\n2. Anel de enchimento e gola 2a\n\n3. Tremonha de enchimento\n\n4. Obturador e volante 4a\n\n5. Fecho do obturador\n\n6. Batente do obturador\n\n7. Dispositivo de regulação\n\n8. Bocal troncónico de escoamento\n\n9. Rasoura\n\n10. Guia da rasoura\n\n11. Travessa e suporte 11a\n\n12. Fecho da rasoura\n\n13. Peso de tracção\n\n14. Carro e suporte dos carris 14a\n\n15. Punho do carro\n\n16. Alavanca de bloqueamento\n\n17. Recipiente colector\n\n18. Camisa\n\n19. Parafusos de nivelamento\n\n20. Estrutura\n\n>PIC FILE= \"T0002752\">\n\nANEXO II INSTRUMENTOS DE MEDIÇÃO QUE SERVEM PARA DETERMINAR A MASSA POR HECTOLITRO CEE DOS CEREAIS\n\n1. Os instrumentos de medida que servem para determinar a massa por hectolitro CEE devem ter as características seguintes: a) São concebidos e fabricados de maneira a assegurarem uma repetibilidade e uma reprodutibilidade satisfatórias das operações de medição;\n\nb) O erro máximo admissível na massa por hectolitro é igual a cinco milésimas, para mais ou para menos, em relação ao resultado dado por um instrumento padrão;\n\nc) O erro relativo máximo admissível na capacidade do recipiente utilizado é igual a duas milésimas, para mais ou para menos;\n\nd) O erro relativo máximo admissível do instrumento de pesagem na quantidade pesada é igual a uma milésima, para mais ou para menos;\n\ne) A diferença entre cada resultado obtido com um cereal dado e o valor médio da massa por hectolitro obtido em seis medições consecutivas não deve exceder três milésimas, para mais ou para menos, desse valor médio.\n\n2. Em cada instrumento é fixada uma placa sinalética que ostente, de modo bem visível, em caracteres legíveis e indeléveis, as inscrições seguintes: a) O sinal de aprovação CEE de modelo;\n\nb) A marca de identificação do fabricante ou a sua firma;\n\nc) Eventualmente, uma designação própria do fabricante;\n\nd) Um número de identificação e o ano de fabrico;\n\ne) A capacidade nominal da medida de capacidade e as instruções de utilização do instrumento ou a referência a uma nota sobre a utilização do instrumento."
+  },
+  "4428b0d1c3947cee": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1971L0347 — PT — 01.12.2015 — 007.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31971L0347) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31971L0347) [de 12 de Outubro de 1971](http://publications.europa.eu/resource/celex/31971L0347) [relativa à aproximação das legislações dos Estados-membros respeitantes à medição de massa por hectolitro dos cereais](http://publications.europa.eu/resource/celex/31971L0347) [(71/347/CEE)](http://publications.europa.eu/resource/celex/31971L0347) (JO L 239, 25.10.1971, p.1)\n\n**revogado por:**\n\n- [Directiva 2011/17/UE do Parlamento Europeu e do Conselho de 9 de Março de 2011](http://publications.europa.eu/resource/celex/32011L0017) — L 71 — 1 — 18.3.2011"
+  }
+ }
+}

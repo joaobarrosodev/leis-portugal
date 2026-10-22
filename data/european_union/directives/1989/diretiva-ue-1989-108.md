@@ -34,6 +34,72 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: diretiva-ue-1989-108.versoes.json
+  count: 4
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '1989-02-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32003R1882:por
+    amending_title: REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003; DIRECTIVA
+      2006/107/CE DO CONSELHO de 20 de Novembro de 2006; Acto de Adesão da Áustria, da Finlândia e da Suécia; Acto relativo
+      às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia,
+      da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia
+      e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Notas
+    - Suprime Artigo 1°
+    - Suprime Artigo 2°
+    - Suprime Artigo 3°
+    - Suprime Artigo 4°
+    - Suprime Artigo 5°
+    - Suprime Artigo 6°
+    - Suprime Artigo 7°
+    - Suprime Artigo 8°
+    - Suprime Artigo 9°
+    - Suprime Artigo 10°
+    - Suprime Artigo 11°
+    - Suprime Artigo 12°
+    - Suprime Artigo 13°
+    - Suprime Artigo 14°
+  - date: '2008-12-11'
+    amending: eu:celex:32008R1137:por
+    amending_title: REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0020:por
+    amending_title: DIRETIVA 2013/20/UE DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Notas
 identifiers:
   celex: 31989L0108
   eli: http://data.europa.eu/eli/dir/1989/108/oj
@@ -48,7 +114,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a3dbdcc9-0c2a-48c4-9478-27430938d371.0009
   content_url: http://publications.europa.eu/resource/cellar/fa8228cb-7e97-44b5-b179-69782bf59125.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0108-20130701
-  retrieved_at: '2026-10-22T02:55:09Z'
+  retrieved_at: '2026-10-22T14:35:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-27T16:33:36.655+02:00'
 integrity:
@@ -57,9 +123,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:55:09Z'
-  notes: Texto consolidado 01989L0108-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:35:41Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1989-108.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -142,38 +208,22 @@ relationships:
   date: '2008-06-17'
 article_structure:
   article_count: 14
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:55:09Z'
-  warnings: []
+  checked_at: '2026-10-22T14:35:41Z'
+  warnings:
+  - '01989L0108-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01989L0108-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01989L0108-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 89/108/CEE do Conselho de 21 de Dezembro de 1988
-
-> 1989L0108 — PT — 01.07.2013 — 006.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003R1882) — [REGULAMENTO (CE) N.º 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
-- [►M2](http://publications.europa.eu/resource/celex/32006L0107) — [DIRECTIVA 2006/107/CE DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0107) — L 363 — 411 — 20.12.2006
-- [►M3](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [►M4](http://publications.europa.eu/resource/celex/32013L0020) — [DIRETIVA 2013/20/UE DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0020) — L 158 — 234 — 10.6.2013
-
-**Alterado por:**
-
-- [A1](http://publications.europa.eu/resource/celex/11994N) — C 241 — 21 — 29.8.1994
-- L 001 — 1 — ..
-- [►A2](http://publications.europa.eu/resource/celex/12003T) — L 236 — 33 — 23.9.2003
-
-## DIRECTIVA DO CONSELHO
 
 de 21 de Dezembro 1988
 

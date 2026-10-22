@@ -1,0 +1,326 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001R2550:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R2550-20040501",
+ "dre_path": null,
+ "source_lastmod": "2004-05-01",
+ "versions": [
+  {
+   "date": "2001-12-22",
+   "future": false,
+   "celex": "32001R2550",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c3ac2bc4622283e0",
+    "c48549df56dbfec1",
+    "750fcb0be91e567a",
+    "a331e044c12b53f8",
+    "2ac72bda757a6252",
+    "a909cf56953e6aa7",
+    "da8b0c77fa591b4d",
+    "8766b8178ade9096",
+    "2e4f01ee7524308a",
+    "cf4b19e439c0440e",
+    "fcf9e5d64f3ee7b3",
+    "f08a6bb41430aeec",
+    "0fcf1bf3119e0375",
+    "a8f52e157b61fd23",
+    "2e98fa56630a5002",
+    "8a9b4854fdabbf0b",
+    "59119328c220c964",
+    "e07a9bfcdf901179",
+    "27a737890f4fd73c",
+    "9a96df636b232a0d",
+    "cd888c2bf2118b28",
+    "1ba3f24543aff196",
+    "e96b337a8f9c7b96",
+    "90c1c4f0ada2ed7b",
+    "660049d78879adb6",
+    "01a5f3bdb4348033",
+    "00eca05b92dc0de0",
+    "bb7208fbeba17b5f",
+    "e6b834f634f8c524",
+    "d965dce10b08706f",
+    "1cf6fe7ab65d9ff2",
+    "42e47bb4d3a6d4fa",
+    "a85fe1c72fbb6e1b",
+    "50b8bf71e9d29952"
+   ]
+  }
+ ],
+ "fragments": {
+  "c3ac2bc4622283e0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 2550/2001 da Comissão, de 21 de Dezembro de 2001, que estabelece normas de execução do Regulamento (CE) n.° 2529/2001 do Conselho, que estabelece a organização comum de mercado no sector das carnes de ovino e caprino no que respeita ao regime de prémios e que altera o Regulamento (CE) n.° 2419/2001** *Jornal Oficial nº L 341 de 22/12/2001 p. 0105 - 0117*\n\nRegulamento (CE) n.o 2550/2001 da Comissão\n\nde 21 de Dezembro de 2001\n\nque estabelece normas de execução do Regulamento (CE) n.o 2529/2001 do Conselho, que estabelece a organização comum de mercado no sector das carnes de ovino e caprino no que respeita ao regime de prémios e que altera o Regulamento (CE) n.o 2419/2001\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CEE) n.o 2529/2001 do Conselho, de 19 de Dezembro de 2001, que estabelece a organização comum de mercado no sector das carnes de ovino e caprino(1), e, nomeadamente, o n.o 6 do seu artigo 4.o, o n.o 4 do seu artigo 5.o, o n.o 5 do seu artigo 8.o, o n.o 5 do seu artigo 9.o, o n.o 4 do seu artigo 10.o e o n.o 3 do seu artigo 11.o,\n\nTendo em conta o Regulamento (CEE) n.o 3508/92 do Conselho, de 27 de Novembro de 1992, que estabelece um sistema integrado de gestão e de controlo relativo a determinados regimes de ajudas comunitários(2), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 495/2001 da Comissão(3), e, nomeadamente, o seu artigo 12.o,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.o 2529/2001 estabelece um novo sistema de prémios que substitui o definido no Regulamento (CE) n.o 2467/98 do Conselho, de 3 de Novembro de 1998, que estabelece a organização comum de mercado no sector das carnes de ovino e caprino(4), alterado pelo Regulamento (CE) n.o 1669/2000(5). A fim de ter em conta o novo regime, e por razões de clareza, é necessário estabelecer novas normas para substituir as fixadas nos Regulamentos (CEE) n.o 2814/90 da Comissão, de 28 de Setembro de 1990, que estabelece as regras de aplicação da definição de borregos engordados para obtenção de carcaças pesadas(6), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2234/98(7), (CEE) n.o 2385/91 da Comissão, de 6 de Agosto de 1991, que estabelece regras de execução de determinados casos específicos relativos à definição dos produtores e dos agrupamentos de produtores no sector da carne de ovino e de caprino(8), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2254/1999(9), (CEE) n.o 2230/92 da Comissão, de 31 de Julho de 1992, que estabelece determinadas normas de execução do regime de prémios por ovelha e por cabra aplicável nas ilhas Canárias(10), (CEE) n.o 3567/92 da Comissão, de 10 de Dezembro de 1992, que estabelece normas de execução relativas aos limites individuais, reservas nacionais e transferência de direitos, previstos no Regulamento (CEE) n.o 3013/89 do Conselho que estabelece a organização comum de mercado no sector das carnes de ovino e caprino(11), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1311/2000(12), (CEE) n.o 2700/93 da Comissão, de 30 de Setembro de 1993, que estabelece normas de execução do prémio em benefício dos produtores de carnes de ovino e caprino(13), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1410/1999(14) e (CE) n.o 2738/1999 da Comissão, de 21 de Dezembro de 1999, que determina as zonas de montanha em que é concedido o prémio aos produtores de carne de caprino(15), e revogar os referidos regulamentos.\n\n(2) Ao prémio por ovelha referido no artigo 4.o do Regulamento (CE) n.o 2529/2001 é aplicável o Regulamento (CEE) n.o 3508/92. É, por conseguinte, conveniente limitar as disposições do presente regulamento à regulamentação das questões não abrangidas pelo Regulamento (CE) n.o 2419/2001 da Comissão, de 11 de Dezembro de 2001, que estabelece as normas de execução do sistema integrado de gestão e de controlo relativo a determinados regimes de ajudas comunitárias estabelecido pelo Regulamento (CEE) n.o 3508/92(16) (a seguir designado \"sistema integrado\"), nomeadamente no que diz respeito aos períodos e condições relativos aos pedidos de prémio e de prémio complementar, bem como à duração do período de retenção.\n\n(3) O n.o 2 do artigo 4.o do Regulamento (CE) n.o 2529/2001 prevê a concessão de um prémio aos produtores de carne de caprino, em certas zonas da Comunidade. As zonas em causa devem, portanto, ser fixadas de acordo com os critérios previstos nessa disposição.\n\n(4) Nos termos do n.o 1 do artigo 5.o do Regulamento (CE) n.o 2529/2001, os produtores em cujas explorações pelo menos 50 % da superfície utilizada para a agricultura se situe em certas zonas desfavorecidas ou isoladas podem beneficiar de um prémio complementar. No n.o 2 do artigo 4.o é feita referência às zonas geográficas específicas em que os produtores de carne de caprino satisfazem as condições necessárias para poder beneficiar do prémio por cabra. É necessário prever a apresentação de uma declaração pelos produtores que satisfazem as referidas condições, a fim de permitir aos Estados-Membros determinar se as condições adequadas para a concessão das ajudas se encontram preenchidas, de forma a evitar pagamentos não justificados respeitantes a explorações não elegíveis. Sempre que não seja exigida aos produtores, no âmbito do sistema integrado, a apresentação de um pedido das ajudas \"superfícies\", deve prever-se uma declaração específica como documento comprovativo de que pelo menos metade das terras que utilizam na produção agrícola está situada em zonas desfavorecidas ou em zonas susceptíveis de beneficiar do prémio por cabra.\n\n(5) O Regulamento (CE) n.o 1454/2001 do Conselho, de 28 de Junho de 2001, que estabelece medidas específicas relativas a determinados produtos agrícolas a favor das ilhas Canárias e revoga o Regulamento (CEE) n.o 1601/92 (Poseican)(17), prevê a aplicação de medidas específicas à criação de ovinos e caprinos nas ilhas Canárias. Essas medidas implicam a concessão de um complemento ao prémio, cujo montante é necessário especificar.\n\n(6) É necessário clarificar os critérios de elegibilidade para pagamentos directos, nomeadamente as condições exigidas.\n\n(7) Para efeitos de acompanhamento, os Estados-Membros devem comunicar regularmente à Comissão informações relativas ao sistema de concessão dos prémios e ao mercado da carne de ovino e caprino.\n\n(8) Com vista à execução do regime de limites individuais estabelecido nos artigos 8.o a 10.o do Regulamento (CE) n.o 2529/2001, há que precisar as regras relativas à determinação e à comunicação aos produtores dos referidos limites.\n\n(9) Há igualmente que tomar as medidas adequadas para assegurar que os direitos atribuídos gratuitamente pela reserva nacional sejam utilizados pelos beneficiários estritamente para os fins previstos.\n\n(10) Dado o efeito regulador do regime de limites individuais no mercado, é conveniente prever a reintegração na reserva nacional dos direitos ao prémio que não tenham sido utilizados pelo seu titular durante um período determinado. Contudo, esta regra não deve aplicar-se em certas circunstâncias excepcionais devidamente justificadas, como é o caso de pequenos produtores ou de produtores que participem em programas de extensificação e regimes de reforma antecipada previstos no Regulamento (CE) n.o 1257/1999 do Conselho, de 17 de Maio de 1999, relativo ao apoio do Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA) ao desenvolvimento rural e que altera e revoga determinados regulamentos(18).\n\n(11) É oportuno encorajar a mobilização dos direitos ao prémio e prever medidas conducentes à sua restituição aos produtores que deles tirem de facto partido. Nesse sentido, é necessário fixar uma percentagem mínima de utilização dos direitos ao prémio. Importa que essa percentagem seja suficiente para evitar a subutilização dos direitos disponíveis em certos Estados-Membros, situação que pode causar problemas aos produtores prioritários requerentes de direitos por intermédio da reserva nacional. Nestas circunstâncias, é conveniente permitir aos Estados-Membros aumentar a percentagem mínima de utilização dos direitos, que não poderá, porém, exceder 90 %.\n\n(12) A execução uniforme das disposições relativas à transferência e à cessão temporária de direitos exige a definição de certas regras administrativas. Para evitar sobrecargas de trabalho administrativo, os Estados-Membros devem poder fixar um número mínimo de direitos susceptível de ser transferido e cedido. As referidas regras devem igualmente evitar que seja desrespeitada a obrigação, prevista no artigo 9.o do Regulamento (CE) n.o 2529/2001, de ceder determinada percentagem dos direitos transferidos à reserva nacional em cada transferência de direitos sem transferência de exploração. Acresce a necessidade de prever que a cessão temporária seja limitada no tempo, a fim de evitar desvios às regras de transferência.\n\n(13) É conveniente prever uma certa flexibilidade nos prazos administrativos fixados para a transferência de direitos, no caso de produtores que apresentem provas de terem sucedido juridicamente em direitos de um produtor falecido. As eventuais alterações dos limites máximos individuais devem ser comunicadas aos produtores.\n\n(14) É conveniente equiparar a uma transferência de exploração o caso especial do produtor que apenas utilize para pastagem terrenos de propriedade pública ou colectiva, e transfira todos os seus direitos para outro produtor, cessando a sua produção.\n\n(15) Caso nalguns Estados-Membros as transferências de direitos sem transferência de exploração sejam efectuadas exclusivamente por intermédio da reserva nacional, é necessário estabelecer normas que assegurem a coerência com o sistema de transferência directa de direitos entre produtores. Nomeadamente, é conveniente prever critérios objectivos para a fixação do montante a pagar pela reserva nacional ao produtor que transfere direitos, bem como do montante a pagar pelo produtor que recebe direitos equivalentes da reserva nacional.\n\n(16) É necessário estabelecer normas para o cálculo e a alteração dos limites individuais dos direitos ao prémio, de forma a que apenas sejam considerados números inteiros.\n\n(17) O acompanhamento do novo regime será feito pela Comissão que deve, consequentemente, estar convenientemente informada pelos Estados-Membros dos dados essenciais relativos à aplicação das normas respeitantes aos prémios.\n\n(18) Os pagamentos complementares devem ser objecto da comunicação de informações pormenorizadas à Comissão no respeitante às regras nacionais e à sua execução.\n\n(19) A fim de aplicar eficazmente as normas respeitantes aos prémios e evitar distorções do mercado, os Estados-Membros devem adoptar as medidas necessárias para uma correcta aplicação do presente regulamento.\n\n(20) São necessárias disposições transitórias, que permitam aos Estados-Membros dispor do tempo necessário para se prepararem para a execução do presente regulamento. Atendendo ao montante superior da ajuda no âmbito do novo regime e à maior transparência resultante do prémio forfetário fixo, é necessário, a fim de proteger os interesses dos produtores, prever que pedidos já apresentados ao abrigo do anterior regime possam ser considerados a título do novo regime.\n\n(21) A fim de proteger eficazmente os interesses da Comunidade, é necessário adoptar medidas destinadas a sancionar as irregularidades e as fraudes. Importa, pois, inserir no Regulamento (CE) n.o 2529/2001 disposições adequadas relativas aos regimes de prémios por ovelha e por cabra.\n\n(22) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão dos Ovinos e Caprinos e do Comité do Fundo Europeu de Orientação e de Garantia Agrícola,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "c48549df56dbfec1": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece, nomeadamente, as normas de execução dos pagamentos directos previstos nos artigos 4.o, 5.o, 6.o, 8.o, 9.o e 10.o do Regulamento (CE) n.o 2529/2001."
+  },
+  "750fcb0be91e567a": {
+   "fragment_id": "CAPÍTULO I — PAGAMENTOS DIRECTOS",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — PAGAMENTOS DIRECTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — PAGAMENTOS DIRECTOS"
+  },
+  "a331e044c12b53f8": {
+   "fragment_id": "Artigo 2.º — Pedidos",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pedidos\n\n1. Em complemento às exigências previstas no âmbito do sistema integrado em conformidade com os Regulamentos (CEE) n.o 3508/92 e (CE) n.o 2529/2001, no seu pedido de prémio os produtores devem indicar se comercializam leite de ovelha ou produtos lácteos à base de leite de ovelha durante o ano a título do qual o prémio é solicitado.\n\n2. Os pedidos de prémio em benefício dos produtores de carnes de ovino e/ou caprino serão apresentados à autoridade designada pelo Estado-Membro, durante um período fixado entre o dia 1 de Novembro anterior e o dia 30 de Abril seguinte ao início do ano a título do qual os pedidos são apresentados.\n\nO Reino Unido pode, relativamente à Irlanda do Norte, fixar um período diferente do fixado para a Grã-Bretanha.\n\n3. O período de retenção durante o qual o produtor se compromete a manter na sua exploração o número de ovelhas e/ou cabras em relação às quais o prémio é pedido será de 100 dias, contados a partir do dia seguinte ao último dia do período de apresentação dos pedidos referido no n.o 2."
+  },
+  "2ac72bda757a6252": {
+   "fragment_id": "Artigo 3.º — Zonas elegíveis ao prémio aos produtores de carne de caprino",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Zonas elegíveis ao prémio aos produtores de carne de caprino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Zonas elegíveis ao prémio aos produtores de carne de caprino\n\nOs critérios referidos no n.o 2 do artigo 4.o do Regulamento (CE) n.o 2529/2001 encontram-se reunidos nas zonas enumeradas no anexo I."
+  },
+  "a909cf56953e6aa7": {
+   "fragment_id": "Artigo 4.º — Pedidos de prémio complementar e de prémio por cabra",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Pedidos de prémio complementar e de prémio por cabra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Pedidos de prémio complementar e de prémio por cabra\n\n1. Para beneficiar do prémio complementar ou do prémio por cabra, um produtor em cuja exploração pelo menos 50 %, mas menos de 100 %, da superfície utilizada para a agricultura se situe em zonas referidas no n.o 1 do artigo 5.o do Regulamento (CE) n.o 2529/2001 ou em zonas elegíveis para o prémio por cabra deve apresentar uma ou mais declarações indicando a situação das suas terras, de acordo com as seguintes normas:\n\na) O produtor que deva apresentar anualmente, por meio de um formulário de pedido de ajuda \"superfícies\", previsto no artigo 6.o do Regulamento (CE) n.o.../2001 que estabelece normas de execução do sistema integrado de gestão e de controlo relativo a determinados regimes de ajudas comunitárias, uma declaração da superfície agrícola útil total da sua exploração, deve indicar, nessa declaração, as parcelas utilizadas para a agricultura que se situam em zonas referidas no n.o 1 do artigo 5.o do Regulamento (CE) n.o 2529/2001 ou em zonas enumeradas no anexo I, conforme o caso;\n\nb) O produtor que não deva apresentar a declaração referida na alínea a), deve apresentar anualmente uma declaração específica que refira, se for caso disso, o sistema de identificação das parcelas agrícolas previsto no quadro do sistema integrado.\n\nEssa declaração deve indicar a localização do conjunto das terras que o produtor possui, arrenda ou utiliza ao abrigo de quaisquer compromissos, bem como a sua superfície e ainda quais as parcelas utilizadas para a agricultura, situadas em zonas referidas no n.o 1 do artigo 5.o do Regulamento (CE) n.o.../2001 ou em zonas enumeradas no anexo I, conforme o caso. Os Estados-Membros podem prever que essa declaração específica seja incluída no pedido de prémio por ovelha e/ou por cabra. Os Estados-Membros podem também determinar que a declaração específica seja feita por meio de um formulário do pedido de ajuda \"superfícies\".\n\n2. A autoridade nacional competente pode exigir a apresentação de um título de propriedade, de um contrato de arrendamento ou de um compromisso escrito entre produtores, e, se for caso disso, de um atestado da autoridade local ou regional que colocou as terras utilizadas para a agricultura à disposição do produtor em causa. Esse atestado deve indicar a superfície das terras concedidas ao produtor e as parcelas situadas em zonas referidas no n.o 1 do artigo 5.o do Regulamento (CE) n.o 2529/2001 ou em zonas enumeradas no anexo I, conforme o caso."
+  },
+  "da8b0c77fa591b4d": {
+   "fragment_id": "Artigo 5.º — Produtores que praticam a transumância",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Produtores que praticam a transumância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Produtores que praticam a transumância\n\n1. Dos pedidos de prémio apresentados pelos produtores, cuja sede de exploração se situe numa das zonas geográficas referidas no n.o 2 do artigo 5.o do Regulamento (CE) n.o 2529/2001, que desejem poder beneficiar do prémio complementar, deve constar:\n\n- a indicação do local ou dos locais onde se realizará a transumância durante o ano em curso,\n\n- o período mínimo de 90 dias referido no mesmo número, previsto para o ano em curso.\n\n2. Os pedidos de prémio apresentados pelos produtores referidos no n.o 1 devem ser acompanhados dos documentos que certificam a efectivação da transumância - sem prejuízo de casos de força maior ou de repercussões de circunstâncias naturais devidamente justificadas que afectem a vida do efectivo - nos dois anos anteriores e, em especial, de um certificado da autoridade local ou regional da zona de transumância, que ateste que esta se realizou efectivamente durante, pelo menos, 90 dias consecutivos.\n\nAquando dos controlos administrativos relativos aos pedidos, os Estados-Membros assegurar-se-ão de que o local de transumância indicado no pedido de prémio se situa, efectivamente, numa zona referida no n.o 1 do artigo 5.o do Regulamento (CE) n.o 2529/2001."
+  },
+  "8766b8178ade9096": {
+   "fragment_id": "Artigo 6.º — Complemento para as ilhas Canárias",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Complemento para as ilhas Canárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Complemento para as ilhas Canárias\n\nEm conformidade com o artigo 6.o do Regulamento (CE) n.o 1454/2001, o prémio complementar a conceder aos produtores estabelecidos nas ilhas Canárias que comercializem carnes de ovino e caprino é de 4,2 euros por ovelha e/ou por cabra."
+  },
+  "2e4f01ee7524308a": {
+   "fragment_id": "Artigo 7.º — Elegibilidade",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Elegibilidade\n\n1. O prémio será pago ao produtor em função do número de ovelhas e/ou cabras mantidas na sua exploração durante todo o período de retenção referido no n.o 3 do artigo 2.o\n\n2. Serão considerados elegíveis os animais que satisfizerem as condições previstas nas definições constantes do artigo 3.o do Regulamento (CE) n.o 2529/2001 no último dia do período de retenção."
+  },
+  "cf4b19e439c0440e": {
+   "fragment_id": "Artigo 8.º — Inventário dos produtores de ovinos que comercializam leite ou produtos lácteos de ovelha",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Inventário dos produtores de ovinos que comercializam leite ou produtos lácteos de ovelha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Inventário dos produtores de ovinos que comercializam leite ou produtos lácteos de ovelha\n\nOs Estados-Membros procederão anualmente, até ao trigésimo dia do período de retenção, ao estabelecimento de um inventário dos produtores de ovinos que comercializam leite ou produtos lácteos de ovelha. Este inventário será estabelecido com base nas declarações dos produtores referidas no n.o 1 do artigo 2.o Além disso, os Estados-Membros terão em conta, no estabelecimento deste inventário, o resultado dos controlos realizados e qualquer outra fonte de informação de que a autoridade competente disponha, nomeadamente os dados obtidos dos transformadores ou distribuidores quanto à comercialização do leite e dos produtos lácteos de ovelha pelos produtores."
+  },
+  "fcf9e5d64f3ee7b3": {
+   "fragment_id": "Artigo 9.º — Comunicações",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comunicações\n\n1. Os Estados-Membros comunicarão anualmente à Comissão, o mais tardar em 31 de Julho, os dados relativos aos pedidos de prémio apresentados para o ano em curso. Para o efeito, utilizarão os formulários cujo modelo consta do anexo II. Os Estados-Membros comunicarão também, até 31 de Julho, os dados relativos aos prémios pagos no ano anterior, utilizando o formulário constante do anexo III, e até 31 de Outubro, as eventuais alterações à lista das zonas geográficas que praticam a transumância, referidas no n.o 2 do artigo 5.o do Regulamento (CE) n.o 2529/2001 e no artigo 5.o do presente regulamento. Os dados serão, mediante pedido, colocados à disposição das instituições nacionais encarregadas da elaboração das estatísticas oficiais no sector das carnes de ovino e caprino.\n\n2. Em caso de alteração dos dados de notificação obrigatória, nomeadamente na sequência de controlos, correcções ou melhoria de valores anteriores, será comunicada à Comissão uma actualização no prazo de um mês a contar da alteração."
+  },
+  "f08a6bb41430aeec": {
+   "fragment_id": "CAPÍTULO II — LIMITES, RESERVAS E TRANSFERÊNCIAS",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — LIMITES, RESERVAS E TRANSFERÊNCIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — LIMITES, RESERVAS E TRANSFERÊNCIAS"
+  },
+  "0fcf1bf3119e0375": {
+   "fragment_id": "Artigo 10.º — Direitos obtidos gratuitamente",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Direitos obtidos gratuitamente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direitos obtidos gratuitamente\n\nA um produtor que tenha obtido gratuitamente direitos ao prémio da reserva nacional não é permitido, salvo circunstâncias excepcionais devidamente justificadas, transferir ou ceder temporariamente os seus direitos durante os três anos seguintes."
+  },
+  "a8f52e157b61fd23": {
+   "fragment_id": "Artigo 11.º — Utilização de direitos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Utilização de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Utilização de direitos\n\n1. O produtor detentor de direitos pode utilizá-los directamente e/ou por cessão temporária a outro produtor.\n\n2. 2. Se um produtor não utilizar no decurso de cada ano a percentagem mínima dos seus direitos fixada em conformidade com o n.o 4, a parte não utilizada será transferida para a reserva nacional, salvo:\n\na) Se o produtor for titular de 20 direitos ao prémio, no máximo; nesse caso, sempre que o produtor não utilizar pelo menos a percentagem mínima dos seus direitos durante cada um de dois anos civis consecutivos, a parte não utilizada durante o último ano civil será transferida para a reserva nacional;\n\nb) No caso de um produtor que participe num programa de extensificação reconhecido pela Comissão;\n\nc) No caso de um produtor que participe num programa de reforma antecipada reconhecido pela Comissão que não imponha a transferência e/ou a cessão temporária de direitos; ou\n\nd) Em circunstâncias excepcionais devidamente justificadas.\n\n3. A cessão temporária só pode incidir em anos completos e, pelo menos, no número de animais previsto no n.o 1 do artigo 12.o No termo de cada período de cessão temporária, que não pode exceder três anos consecutivos, o produtor, salvo em caso de transferência, recuperará a totalidade dos seus direitos para si próprio durante, pelo menos, dois anos consecutivos. Sempre que o produtor não utilizar pelo menos a percentagem mínima dos seus direitos, fixada em conformidade com o n.o 4, em cada um dos dois anos referidos, o Estado-Membro, salvo em casos excepcionais devidamente justificados, transferirá anualmente para a reserva nacional a parte dos direitos não utilizada.\n\nTodavia, em relação aos produtores que participem em programas de reforma antecipada reconhecidos pela Comissão, os Estados-Membros podem prever uma prorrogação da duração total da cessão temporária em função dos referidos programas.\n\nAos produtores que se tenham comprometido a participar num programa de extensificação em conformidade com a medida referida no n.o 1, alínea c), do artigo 2.o do Regulamento (CEE) n.o 2078/92 do Conselho(19), ou num programa de extensificação em conformidade com os artigos 22.o e 23.o do Regulamento (CE) n.o 1257/1999, não é permitida a cessão temporária ou a transferência dos seus direitos durante o período por que se tenham comprometido. Esta proibição não se aplica, porém, se o programa permitir a transferência e/ou a cessão temporária de direitos a produtores cuja participação em medidas distintas das referidas no presente parágrafo exija a obtenção de direitos.\n\n4. A percentagem mínima de utilização dos direitos ao prémio é fixada em 70 %.\n\nOs Estados-Membros podem, porém, aumentar essa percentagem até 90 %. Os Estados-Membros informarão previamente a Comissão da percentagem que tencionem aplicar."
+  },
+  "2e98fa56630a5002": {
+   "fragment_id": "Artigo 12.º — Transferência de direitos e cessão temporária",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Transferência de direitos e cessão temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Transferência de direitos e cessão temporária\n\n1. Os Estados-Membros podem fixar, em função das respectivas estruturas de produção, um número mínimo de direitos ao prémio que podem ser objecto de transferência parcial sem transferência de exploração. Esse número mínimo não pode ser superior a 10 direitos ao prémio.\n\n2. A transferência dos direitos ao prémio e a cessão temporária dos direitos apenas se tornam efectivas após comunicação às autoridades competentes do Estado-Membro pelo produtor que transfere e/ou cede os direitos e pelo que os recebe.\n\nA comunicação será efectuada num prazo fixado pelo Estado-Membro e, o mais tardar, antes do termo do período de apresentação dos pedidos previsto nesse Estado-Membro, excepto nos casos em que a transferência de direitos seja realizada por ocasião de uma sucessão. Nesse caso, o produtor que recebe os direitos deve poder apresentar os documentos legais adequados que provem ser o sucessor do produtor falecido.\n\n3. Aquando de uma transferência sem transferência de exploração, o número de direitos cedidos à reserva nacional sem compensação não pode, em caso algum, ser inferior à unidade."
+  },
+  "8a9b4854fdabbf0b": {
+   "fragment_id": "Artigo 13.º — Alteração do limite máximo individual",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Alteração do limite máximo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração do limite máximo individual\n\nEm caso de transferência ou de cessão temporária de direitos ao prémio, os Estados-Membros determinarão o novo limite máximo individual e comunicarão aos produtores em causa, o mais tardar 60 dias após o último dia do período no decurso do qual o produtor tiver apresentado o seu pedido de prémio, o número dos seus direitos ao prémio.\n\nO primeiro parágrafo não é aplicável no caso de a transferência ser realizada por ocasião de uma sucessão, nas condições referidas no n.o 2 do artigo 12.o"
+  },
+  "59119328c220c964": {
+   "fragment_id": "Artigo 14.º — Produtores não proprietários das superfícies exploradas",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Produtores não proprietários das superfícies exploradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Produtores não proprietários das superfícies exploradas\n\nO produtor que apenas explore terrenos de propriedade pública ou colectiva, que decida deixar de utilizar esses terrenos para pastagem e transferir a totalidade dos seus direitos para outro produtor, será equiparado ao produtor que vende ou transfere a sua exploração. Em todos os restantes casos, esse produtor será equiparado ao produtor que transfere apenas os seus direitos ao prémio."
+  },
+  "e07a9bfcdf901179": {
+   "fragment_id": "Artigo 15.º — Transferência por intermédio da reserva nacional",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Transferência por intermédio da reserva nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Transferência por intermédio da reserva nacional\n\nSempre que um Estado-Membro previr que a transferência dos direitos se efectue através da reserva nacional, aplicará disposições nacionais análogas às previstas no presente capítulo. Além disso, nesse caso:\n\n- os Estados-Membros podem prever que a cessão temporária se efectue através da reserva nacional,\n\n- aquando da transferência dos direitos ao prémio ou da cessão temporária em caso de aplicação do primeiro travessão, a transferência para a reserva só se torna efectiva após notificação pelas autoridades competentes do Estado-Membro do produtor que transfere e/ou cede os direitos, e a transferência da reserva para outro produtor só se torna efectiva após notificação deste último por aquelas autoridades.\n\nTais disposições devem ainda assegurar que a parte dos direitos que não a referida no n.o 2, segundo parágrafo, do artigo 9.o do Regulamento (CE) n.o 2529/2001 seja objecto de um pagamento, pelo Estado-Membro, correspondente ao que teria resultado de uma transferência directa entre produtores, atendendo, nomeadamente, ao desenvolvimento da produção no Estado-Membro em causa. Esse pagamento será igual ao pagamento cobrado ao produtor que receba direitos equivalentes da reserva nacional."
+  },
+  "27a737890f4fd73c": {
+   "fragment_id": "Artigo 16.º — Cálculo dos limites individuais",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Cálculo dos limites individuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cálculo dos limites individuais\n\nNos cálculos iniciais e nas posteriores alterações dos limites individuais dos direitos ao prémio, apenas serão considerados números inteiros.\n\nPara o efeito, se o resultado final das operações aritméticas não for um número inteiro, será escolhido o número inteiro mais próximo. Todavia, caso o resultado do cálculo seja exactamente intermédio de dois números inteiros, será escolhido o número inteiro mais elevado."
+  },
+  "9a96df636b232a0d": {
+   "fragment_id": "Artigo 17.º — Comunicações",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Comunicações\n\n1. Os Estados-Membros comunicarão à Comissão, o mais tardar no dia 1 de Março de 2002, as regras que tenham utilizado na redução dos limites máximos individuais nos termos do n.o 3 do artigo 8.o do Regulamento (CE) n.o 2529/2001, bem como o número total de direitos atribuídos aos produtores e o número de direitos cedidos à reserva.\n\n2. Os Estados-Membros comunicarão à Comissão, o mais tardar no dia 1 de Março de 2002, o modo de cálculo da redução efectuada nos termos do n.o 2 do artigo 9.o do Regulamento (CE) n.o 2529/2001 e, se for caso disso, as medidas tomadas nos termos do n.o 3 do mesmo artigo, bem como, antes do dia 1 de Janeiro de cada ano, as alterações eventualmente introduzidas.\n\n3. De acordo com o quadro constante dos anexos IV e V, os Estados-Membros comunicarão à Comissão, até 30 de Abril de cada ano:\n\na) O número de direitos ao prémio cedidos sem compensação à reserva nacional, na sequência de transferências de direitos sem transferência de exploração, durante o ano anterior;\n\nb) O número de direitos ao prémio não utilizados, referidos no n.o 2 do artigo 10.o do Regulamento (CE) n.o 2529/2001, transferidos para a reserva nacional durante o ano anterior;\n\nc) O número de direitos atribuídos nos termos do n.o 3 do artigo 10.o do Regulamento (CE) n.o 2529/2001 durante o ano anterior;\n\nd) O número de direitos ao prémio atribuídos aos produtores das zonas desfavorecidas a partir da reserva nacional durante o ano anterior;\n\ne) As datas respeitantes aos períodos e prazos relativos às transferências de direitos e aos pedidos de prémio."
+  },
+  "cd888c2bf2118b28": {
+   "fragment_id": "CAPÍTULO III — PAGAMENTOS COMPLEMENTARES",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — PAGAMENTOS COMPLEMENTARES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — PAGAMENTOS COMPLEMENTARES"
+  },
+  "1ba3f24543aff196": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs Estados-Membros comunicarão à Comissão, até 30 de Abril de 2002, informações relativas às normas nacionais que regem a concessão dos pagamentos complementares previstos no artigo 11.o do Regulamento (CE) n.o 2529/2001. Essas informações devem nomeadamente incluir, se for caso disso:\n\n1. Pagamentos por cabeça:\n\na) Montantes indicativos por cabeça e regras para a sua concessão;\n\nb) Previsão indicativa das despesas totais e número de animais em causa;\n\nc) Exigências específicas quanto ao encabeçamento;\n\nd) Outras informações sobre as normas de execução.\n\n2. Pagamentos por superfície (se for caso disso):\n\na) Cálculo das superfícies de base regionais;\n\nb) Montantes indicativos por hectare;\n\nc) Previsão indicativa das despesas totais e do número de hectares em causa;\n\nd) Outras informações sobre as normas de execução.\n\n3. Informações sobre outros regimes estabelecidos para efectuar pagamentos adicionais.\n\n4. Os Estados-Membros comunicarão à Comissão quaisquer alterações destas normas no prazo de um mês após a sua ocorrência."
+  },
+  "e96b337a8f9c7b96": {
+   "fragment_id": "CAPÍTULO IV — DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+  },
+  "90c1c4f0ada2ed7b": {
+   "fragment_id": "Artigo 19.º — Medidas nacionais de execução",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Medidas nacionais de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Medidas nacionais de execução\n\nOs Estados-Membros tomarão todas as medidas adequadas, necessárias para assegurar a correcta aplicação do presente regulamento. Do facto informarão a Comissão."
+  },
+  "660049d78879adb6": {
+   "fragment_id": "Artigo 20.º — Medidas transitórias",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Medidas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Medidas transitórias\n\nOs pedidos de prémio a título de 2002 apresentados antes da data de aplicação do presente regulamento, no âmbito do regime de prémios previsto no artigo 5.o do Regulamento (CE) n.o 2467/98, serão considerados como pedidos apresentados no âmbito do regime estabelecido pelo Regulamento (CE) n.o 2529/2001\n\nO Regulamento (CE) n.o 2419/2001, na sua versão antes da entrada em vigor do presente regulamento, aplicar-se-á a tais pedidos de prémio."
+  },
+  "01a5f3bdb4348033": {
+   "fragment_id": "Artigo 21.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Revogação\n\nOs Regulamentos (CEE) n.o 2814/90, (CEE) n.o 2385/91, (CEE) n.o 2230/92, (CEE) n.o 3567/92, (CEE) n.o 2700/93 e (CE) n.o 2738/1999 são revogados com efeitos a partir de 1 de Janeiro de 2002. Estes regulamentos continuarão a ser aplicáveis aos pedidos apresentados a título das campanhas de comercialização de 2001 e anteriores. As referências feitas aos regulamentos revogados devem entender-se como feitas ao presente regulamento e ser lidas de acordo com o quadro de correspondência que consta do anexo VI."
+  },
+  "00eca05b92dc0de0": {
+   "fragment_id": "Artigo 22.º — Alteração do sistema integrado",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Alteração do sistema integrado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Alteração do sistema integrado\n\nO artigo 40.o do Regulamento (CE) n.o 2419/2001 passa a ter a seguinte redacção:\n\n\"Artigo 40.o\n\n1. Sempre que, no que respeita a pedidos de ajudas ao abrigo do regime de ajudas relativo aos ovinos/caprinos, seja detectada uma diferença nos termos do n.o 3 do artigo 36.o, os n.os 2, 3 e 4 do artigo 38.o são aplicáveis, mutatis mutandis, a partir do primeiro animal relativamente ao qual se tenham detectado irregularidades.\n\n2. Se se verificar que um produtor de ovinos que comercializa leite e produtos lácteos de ovelha não o declarou no pedido de prémio, o montante da ajuda a que tem direito será reduzido ao prémio pagável aos produtores de ovinos que comercializam leite de ovelha e produtos lácteos de ovelha, diminuído da diferença entre este prémio e o montante total do prémio por ovelha.\n\n3. Sempre que, no que respeita a pedidos de prémio complementar, se verificar que menos de 50 % da superfície da exploração utilizada para a agricultura se situa em zonas referidas no n.o 1 do artigo 5.o do Regulamento (CE) n.o 2529/2001 não será efectuado qualquer pagamento do prémio complementar e o prémio por ovelha e por cabra será reduzido de um montante equivalente a 50 % do prémio complementar.\n\n4. Sempre que se verificar que a percentagem da superfície da exploração utilizada para a agricultura e situada nas zonas enumeradas no anexo I do Regulamento (CE) n.o 2550/2001(20) da Comissão é inferior a 50 %, não será efectuado qualquer pagamento do prémio por cabra.\n\n5. Sempre que se verificar que um produtor que pratique a transumância e apresente um pedido de prémio complementar não apascentou 90 % dos seus animais durante pelo menos 90 dias numa zona referida no n.o 2, alínea b), do artigo 5.o do Regulamento (CE) n.o 2529/2001(21), não será efectuado qualquer pagamento do prémio complementar e o prémio por ovelha ou por cabra será reduzido de um montante equivalente a 50 % do prémio complementar.\n\n6. Sempre que se verificar que a irregularidade referida nos n.os 2, 3, 4 ou 5 resulta de um incumprimento deliberado, será recusada a totalidade do montante da ajuda referida nesses números. Nesse caso, o agricultor será excluído uma vez mais da ajuda, relativamente a um montante igual.\n\nEsse montante será deduzido dos pagamentos das ajudas a título do regime de ajudas relativo aos ovinos/caprinos a que o agricultor tenha direito no contexto dos pedidos que apresentar nos três anos civis seguintes ao ano civil em que a diferença seja detectada.\""
+  },
+  "bb7208fbeba17b5f": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Janeiro de 2002.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 21 de Dezembro de 2001.\n\nPela Comissão\n\nFranz Fischler\n\nMembro da Comissão\n\n(1) Ver página 3 do presente Jornal Oficial.\n\n(2) JO L 355 de 5.12.1992, p. 1.\n\n(3) JO L 72 de 14.3.2001, p. 6.\n\n(4) JO L 312 de 20.11.1998, p. 1.\n\n(5) JO L 193 de 29.7.2000, p. 8.\n\n(6) JO L 268 de 29.9.1990, p. 35.\n\n(7) JO L 281 de 17.10.1998, p. 6.\n\n(8) JO L 219 de 7.8.1991, p. 15.\n\n(9) JO L 275 de 26.10.1999, p. 9.\n\n(10) JO L 218 de 1.8.1992, p. 97.\n\n(11) JO L 362 de 11.12.1992, p. 41.\n\n(12) JO L 148 de 22.6.2000, p. 31.\n\n(13) JO L 245 de 1.10.1993, p. 99.\n\n(14) JO L 164 de 30.6.1999, p. 53.\n\n(15) JO L 328 de 22.12.1999, p. 59.\n\n(16) JO L 327 de 12.12.2001, p. 11.\n\n(17) JO L 198 de 21.7.2001, p. 45.\n\n(18) JO L 160 de 26.6.1999, p. 80.\n\n(19) JO L 215 de 30.7.1992, p. 85.\n\n(20) JO L 341 de 22.12.2001, p. 3.\n\n(21) JO L 341 de 22.12.2001, p. 105."
+  },
+  "e6b834f634f8c524": {
+   "fragment_id": "ANEXO I — Zonas elegíveis para o prémio por cabra",
+   "type": "divisao",
+   "heading": "ANEXO I — Zonas elegíveis para o prémio por cabra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Zonas elegíveis para o prémio por cabra\n\n1. França: Córsega e todas as zonas de montanha, na acepção do artigo 18.o do Regulamento (CE) n.o 1257/1999, situadas fora daquela região.\n\n2. Grécia: todo o território.\n\n3. Itália: Lácio, Abruzo, Molise, Campânia, Apúlia, Basilicata, Calábria, Sicília e Sardenha e todas as zonas de montanha, na acepção do artigo 18.o do Regulamento (CE) n.o 1257/99, situadas fora daquelas regiões.\n\n4. Espanha: regiões autónomas da Andaluzia, Aragão, Baleares, Castela-Mancha, Castela e Leão, Catalunha, Estremadura, Galiza (excepto as províncias de Corunha e Lugo), Madrid, Múrcia, Rioja, Comunidade Valenciana e Canárias, bem como todas as zonas de montanha, na acepção do artigo 18.o do Regulamento (CE) n.o 1257/99, situadas fora daquelas regiões.\n\n5. Portugal: todo o território, com excepção dos Açores.\n\n6. Áustria: todas as zonas de montanha, na acepção do artigo 18.o do Regulamento (CE) n.o 1257/1999."
+  },
+  "d965dce10b08706f": {
+   "fragment_id": "ANEXO II — >PIC FILE= \"L_2001341PT.011302.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO II — >PIC FILE= \"L_2001341PT.011302.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >PIC FILE= \"L_2001341PT.011302.TIF\">"
+  },
+  "1cf6fe7ab65d9ff2": {
+   "fragment_id": "ANEXO III — >PIC FILE= \"L_2001341PT.011402.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO III — >PIC FILE= \"L_2001341PT.011402.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — >PIC FILE= \"L_2001341PT.011402.TIF\">"
+  },
+  "42e47bb4d3a6d4fa": {
+   "fragment_id": "ANEXO IV — >PIC FILE= \"L_2001341PT.011502.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO IV — >PIC FILE= \"L_2001341PT.011502.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — >PIC FILE= \"L_2001341PT.011502.TIF\">"
+  },
+  "a85fe1c72fbb6e1b": {
+   "fragment_id": "ANEXO V — >PIC FILE= \"L_2001341PT.011602.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO V — >PIC FILE= \"L_2001341PT.011602.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — >PIC FILE= \"L_2001341PT.011602.TIF\">"
+  },
+  "50b8bf71e9d29952": {
+   "fragment_id": "ANEXO VI — Quadro de correspondência",
+   "type": "divisao",
+   "heading": "ANEXO VI — Quadro de correspondência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — Quadro de correspondência\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>"
+  }
+ }
+}

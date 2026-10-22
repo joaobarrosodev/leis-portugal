@@ -34,6 +34,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-1998-1678.versoes.json
+  count: 1
+  source_lastmod: '1998-08-06'
+  versions:
+  - date: '1998-07-30'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31998R1678
   eli: http://data.europa.eu/eli/reg/1998/1678/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/52a6a876-a1e8-4bce-86f9-b9a62a18fbe0.0011
   content_url: http://publications.europa.eu/resource/cellar/52a6a876-a1e8-4bce-86f9-b9a62a18fbe0.0011.01/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:09:14Z'
+  retrieved_at: '2026-10-22T14:47:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T02:55:22.900+01:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:09:14Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:19Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-1998-1678.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -110,17 +119,15 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:09:14Z'
+  checked_at: '2026-10-22T14:47:19Z'
   warnings:
-  - Versão consolidada 01998R1678-19980806 indisponível (Sem expressão na língua por para CELEX 01998R1678-19980806.); usado
-    o texto do JO.
-  - Não foi detetado o título principal no XHTML.
+  - '01998R1678-19980806: versão indisponível (Sem expressão na língua por para CELEX 01998R1678-19980806.)'
   errors: []
 ---
 

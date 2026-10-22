@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-04-04'
+version_history:
+  file: decisao-ue-2000-147.versoes.json
+  count: 1
+  source_lastmod: '2016-04-04'
+  versions:
+  - date: '2016-04-04'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32000D0147
   eli: http://data.europa.eu/eli/dec/2000/147/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9f871614-bbe8-4088-b726-709ba26881d6.0009
   content_url: http://publications.europa.eu/resource/cellar/2dab8b47-962f-4a2a-a906-56dc02934163.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000D0147-20160404
-  retrieved_at: '2026-10-22T03:09:39Z'
+  retrieved_at: '2026-10-22T14:48:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-12T11:40:10.136+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:09:39Z'
-  notes: Texto consolidado 02000D0147-20160404.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:29Z'
+  notes: 1 versão(ões); histórico completo em decisao-ue-2000-147.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -126,16 +135,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:09:39Z'
+  checked_at: '2026-10-22T14:48:29Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02000D0147-20000223: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000D0147-20030903: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000D0147-20061104: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

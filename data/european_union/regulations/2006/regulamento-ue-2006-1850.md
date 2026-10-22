@@ -35,6 +35,68 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: regulamento-ue-2006-1850.versoes.json
+  count: 3
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '2006-12-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-03-01'
+    amending: eu:celex:32011R0173:por
+    amending_title: REGULAMENTO (UE) N. o 173/2011 DA COMISSÃO de 23 de Fevereiro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Lúpulo apresentado para certificação
+    - Altera Artigo 24.º — Publicação de listas
+    - Altera Artigo 26.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 23.º — Notificação à Comissão
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Métodos referidos no n.º 2 do artigo 4.º e no artigo 5.º
+    - Adita A. MÉTODO DE AMOSTRAGEM
+    - Adita 1. Amostragem
+    - Adita a) Lúpulo embalado
+    - Adita b) Lúpulo em monte
+    - Adita 2. Mistura
+    - Adita 3. Constituição de subamostras
+    - Adita 4. Armazenagem
+    - Adita B. MÉTODOS DE CONTROLO DO TEOR DE HUMIDADE DO LÚPULO
+    - Adita 1. Método i)
+    - Adita 2. Método ii)
+    - Adita C. MÉTODO DE CONTROLO DO TEOR DE CORPOS ESTRANHOS
+    - Adita 1. Determinação do teor de folhas, pés e detritos de lúpulo
+    - Adita 2. Determinação do teor de sementes
+    - Adita ANEXO III
+    - Adita MARCAÇÃO DAS EMBALAGENS
+    - Adita (referida no n.º 3 do artigo 6.º e no n.º 3 do artigo 9.º)
+    - Adita ANEXO IV
+    - Adita Substâncias referidas no n.º 4 do artigo 10.º
+    - Adita ANEXO V
+    - Adita MENÇÕES REFERIDAS NO N.º 2, ALÍNEA h) DO ARTIGO 16.º
+    - Adita ANEXO VI
+    - Adita CODIFICAÇÃO E ORDEM DE COMPOSIÇÃO DO NÚMERO DE REFERÊNCIA DO CERTIFICADO
+    - Adita (referidos no n.º 4 do artigo 16.º)
+    - Adita 1. CENTRO DE CERTIFICAÇÃO
+    - Adita 2. ESTADOS-MEMBROS QUE PROCEDEM À CERTIFICAÇÃO
+    - Adita 3. ANO DE COLHEITA
+    - Adita 4. IDENTIFICAÇÃO DA REMESSA
+    - Adita ANEXO VII
+    - Suprime Artigo 23.º — Comunicações
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0519:por
+    amending_title: REGULAMENTO (UE) N. o 519/2013 DA COMISSÃO de 21 de fevereiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Lúpulo apresentado para certificação
+    - Altera Artigo 23.º — Notificação à Comissão
+    - Altera Artigo 24.º — Publicação de listas
+    - Altera MENÇÕES REFERIDAS NO N.º 2, ALÍNEA h) DO ARTIGO 16.º
+    - Altera 2. ESTADOS-MEMBROS QUE PROCEDEM À CERTIFICAÇÃO
+    - Altera Notas
 identifiers:
   celex: 32006R1850
   eli: http://data.europa.eu/eli/reg/2006/1850/oj
@@ -49,7 +111,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3957e6e8-db4b-4ea3-aa43-16ac7fea2abd.0016
   content_url: http://publications.europa.eu/resource/cellar/de43c06e-0d7b-4786-a7c2-b97f0a5944f2.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1850-20130701
-  retrieved_at: '2026-10-22T03:12:50Z'
+  retrieved_at: '2026-10-22T15:05:20Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T12:11:22.528+01:00'
 integrity:
@@ -58,9 +120,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:50Z'
-  notes: Texto consolidado 02006R1850-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:05:20Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2006-1850.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -185,30 +247,20 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 26
-  section_count: 47
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 48
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:50Z'
-  warnings: []
+  checked_at: '2026-10-22T15:05:20Z'
+  warnings:
+  - '02006R1850-20070104: versão indisponível (Sem expressão na língua por para CELEX 02006R1850-20070104.)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 1850/2006 da Comissão, de 14 de Dezembro de 2006
-
-> 2006R1850 — PT — 01.07.2013 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011R0173) — [REGULAMENTO (UE) N.º 173/2011 DA COMISSÃO de 23 de Fevereiro de 2011](http://publications.europa.eu/resource/celex/32011R0173) — L 49 — 16 — 24.2.2011
-- [►M2](http://publications.europa.eu/resource/celex/32013R0519) — [REGULAMENTO (UE) N.º 519/2013 DA COMISSÃO de 21 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0519) — L 158 — 74 — 10.6.2013
-
-## REGULAMENTO (CE) N.º 1850/2006 DA COMISSÃO
 
 de 14 de Dezembro de 2006
 

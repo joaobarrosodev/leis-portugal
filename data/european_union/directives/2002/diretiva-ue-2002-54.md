@@ -33,6 +33,84 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-09-01'
+version_history:
+  file: diretiva-ue-2002-54.versoes.json
+  count: 4
+  source_lastmod: '2022-09-01'
+  versions:
+  - date: '2002-07-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-25'
+    amending: eu:celex:32003L0061:por
+    amending_title: DIRECTIVA 2003/61/CE DO CONSELHO de 18 de Junho de 2003; DIRECTIVA 2004/117/CE DO CONSELHO de 22 de Dezembro
+      de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 9.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera Artigo 28.º
+    - Altera Artigo 35.º
+    - Adita Artigo 30.ºA
+    - Adita ANEXO I
+    - Adita CONDIÇÕES RELATIVAS À CERTIFICAÇÃO
+    - Adita A. Cultura
+    - Adita B. Sementes
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita MARCAÇÃO
+    - Adita A. Rótulo oficial
+    - Adita I. Indicações prescritas
+    - Adita II. Dimensões mínimas
+    - Adita B. Rótulo do fornecedor ou inscrição na embalagem (pequena embalagen CE)
+    - Adita Indicações prescritas
+    - Adita ANEXO IV
+    - Adita RÓTULO E DOCUMENTO PREVISTOS NO CASO DE SEMENTES NÃO CERTIFICADAS DEFINITIVAMENTE E COLHIDAS NOUTRO ESTADO-MEMBRO
+    - Adita A. Informações que devem contar do rótulo
+    - Adita B. Cor do rótulo
+    - Adita C. Informações que devem constar do documento
+    - Adita ANEXO V
+    - Adita PARTE A
+    - Adita DIRECTIVA REVOGADA E SUAS MODIFICAÇÕES SUCESSIVAS
+    - Adita (referidas no artigo 33.º)
+    - Adita PARTE B
+    - Adita LISTA DOS PRAZOS DE TRANSPOSIÇÃO PARA O DIREITO NACIONAL
+    - Adita (referidos no artigo 33.º)
+    - Adita ANEXO VI
+    - Adita QUADRO DE CORRESPONDÊNCIA
+    - Adita Notas
+    - Suprime ANEXO I — CONDIÇÕES RELATIVAS À CERTIFICAÇÃO
+    - 'Suprime ANEXO II — Peso máximo do lote: 20 toneladas'
+    - Suprime ANEXO III — MARCAÇÃO
+    - Suprime ANEXO IV — RÓTULO E DOCUMENTO PREVISTOS NO CASO DE SEMENTES NÃO CERTIFICADAS DEFINITIVAMENTE E COLHIDAS NOUTRO
+      ESTADO-MEMBRO
+  - date: '2017-04-01'
+    amending: eu:celex:32016L0317:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2016/317 DA COMISSÃO Texto relevante para efeitos do EEE de 3 de março de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 28.º
+    - Altera B. Sementes
+    - Altera I. Indicações prescritas
+    - Altera A. Informações que devem contar do rótulo
+    - Altera C. Informações que devem constar do documento
+    - Altera (referidos no artigo 33.º)
+    - Altera QUADRO DE CORRESPONDÊNCIA
+    - Altera Notas
+  - date: '2022-09-01'
+    amending: eu:celex:32021L0971:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2021/971 DA COMISSÃO de 16 de junho de 2021
+    changes:
+    - Altera Artigo 28.º
+    - Altera A. Cultura
+    - Altera B. Sementes
+    - Altera (referidos no artigo 33.º)
+    - Altera QUADRO DE CORRESPONDÊNCIA
+    - Altera Notas
 identifiers:
   celex: 32002L0054
   eli: http://data.europa.eu/eli/dir/2002/54/oj
@@ -47,7 +125,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e82446c0-7474-457e-a462-a525944a3f7e.0010
   content_url: http://publications.europa.eu/resource/cellar/36cf3f87-22ff-11ed-8fa0-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0054-20220901
-  retrieved_at: '2026-10-22T02:41:20Z'
+  retrieved_at: '2026-10-22T14:51:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-04T11:35:20.335+02:00'
 integrity:
@@ -56,9 +134,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:20Z'
-  notes: Texto consolidado 02002L0054-20220901.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:49Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2002-54.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -222,32 +300,20 @@ relationships:
   date: '1966-07-11'
 article_structure:
   article_count: 36
-  section_count: 26
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 27
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:20Z'
-  warnings: []
+  checked_at: '2026-10-22T14:51:49Z'
+  warnings:
+  - '02002L0054-20030710: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 2002/54/CE do Conselho, de 13 de Junho de 2002
-
-> 02002L0054 — PT — 01.09.2022 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003L0061) — [DIRECTIVA 2003/61/CE DO CONSELHO de 18 de Junho de 2003](http://publications.europa.eu/resource/celex/32003L0061) — L 165 — 23 — 3.7.2003
-- [►M2](http://publications.europa.eu/resource/celex/32004L0117) — [DIRECTIVA 2004/117/CE DO CONSELHO de 22 de Dezembro de 2004](http://publications.europa.eu/resource/celex/32004L0117) — L 14 — 18 — 18.1.2005
-- [►M3](http://publications.europa.eu/resource/celex/32016L0317) — [DIRETIVA DE EXECUÇÃO (UE) 2016/317 DA COMISSÃO de 3 de março de 2016](http://publications.europa.eu/resource/celex/32016L0317) — L 60 — 72 — 5.3.2016
-- [►M4](http://publications.europa.eu/resource/celex/32021L0971) — [DIRETIVA DE EXECUÇÃO (UE) 2021/971 DA COMISSÃO de 16 de junho de 2021](http://publications.europa.eu/resource/celex/32021L0971) — L 214 — 62 — 17.6.2021
-
-## DIRECTIVA 2002/54/CE DO CONSELHO
 
 de 13 de Junho de 2002
 

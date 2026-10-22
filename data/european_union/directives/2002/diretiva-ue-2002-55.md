@@ -33,6 +33,192 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-12-24'
+version_history:
+  file: diretiva-ue-2002-55.versoes.json
+  count: 10
+  source_lastmod: '2024-12-24'
+  versions:
+  - date: '2002-07-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-25'
+    amending: eu:celex:32003L0061:por
+    amending_title: DIRECTIVA 2003/61/CE DO CONSELHO de 18 de Junho de 2003; REGULAMENTO (CE) N. o 1829/2003 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 22 de Setembro de 2003; DIRECTIVA 2004/117/CE DO CONSELHO de 22 de Dezembro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 25.º
+    - Altera Artigo 35.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 46.º
+    - Altera Artigo 48.º
+    - Altera Artigo 53.º
+    - Adita ANEXO I
+    - Adita CONDIÇÕES PARA A CERTIFICAÇÃO RELATIVA À CULTURA
+    - Adita ANEXO II
+    - Adita CONDIÇÕES A QUE DEVEM CORRESPONDER AS SEMENTES
+    - Adita ANEXO III
+    - Adita PESOS REFERIDOS NO N.º 2 DO ARTIGO 25.º
+    - Adita ANEXO IV
+    - Adita ETIQUETA
+    - Adita A. Etiqueta oficial (sementes de base e sementes certificadas, excluindo as pequenas embalagens)
+    - Adita I. Indicações prescritas
+    - Adita II. Dimensões mínimas
+    - Adita B. Etiqueta do fornecedor ou inscrição na embalagem (sementes-tipo e pequenas embalagens da categoria «sementes
+      certificadas»)
+    - Adita II. Dimensões mínimas da etiqueta (com exclusão das pequenas embalagens)
+    - Adita ANEXO V
+    - Adita RÓTULO E DOCUMENTO PREVISTO NO CASO DE SEMENTES NÃO CERTIFICADAS DEFINITIVAMENTE E COLHIDAS NOUTRO ESTADO-MEMBRO
+    - Adita A. Informações que devem constar do rótulo
+    - Adita B. Cor do rótulo
+    - Adita C. Informações que devem constar do documento
+    - Adita ANEXO VI
+    - Adita PARTE A
+    - Adita DIRECTIVA REVOGADA E SUAS ALTERAÇÕES SUCESSIVAS
+    - Adita (referidas no artigo 51.º)
+    - Adita PARTE B
+    - Adita LISTA DOS PRAZOS DE TRANSPOSIÇÃO PARA O DIREITO NACIONAL
+    - Adita (referidos no artigo 51.º)
+    - Adita ANEXO VII
+    - Adita QUADRO DE CORRESPONDÊNCIA
+    - Adita Notas
+  - date: '2006-12-26'
+    amending: eu:celex:32006L0124:por
+    amending_title: DIRECTIVA 2006/124/CE DA COMISSÃO Texto relevante para efeitos do EEE de 5 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 44.º
+    - Altera Artigo 46.º
+    - Altera Artigo 48.º
+    - Altera CONDIÇÕES A QUE DEVEM CORRESPONDER AS SEMENTES
+    - Altera PESOS REFERIDOS NO N.º 2 DO ARTIGO 25.º
+    - Altera (referidos no artigo 51.º)
+    - Altera QUADRO DE CORRESPONDÊNCIA
+    - Altera Notas
+  - date: '2009-07-04'
+    amending: eu:celex:32009L0074:por
+    amending_title: DIRECTIVA 2009/74/CE DA COMISSÃO Texto relevante para efeitos do EEE de 26 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 44.º
+    - Altera Artigo 46.º
+    - Altera Artigo 48.º
+    - Altera CONDIÇÕES A QUE DEVEM CORRESPONDER AS SEMENTES
+    - Altera PESOS REFERIDOS NO N.º 2 DO ARTIGO 25.º
+    - Altera (referidos no artigo 51.º)
+    - Altera QUADRO DE CORRESPONDÊNCIA
+    - Altera Notas
+  - date: '2013-08-28'
+    amending: eu:celex:32013L0045:por
+    amending_title: DIRETIVA DE EXECUÇÃO 2013/45/UE DA COMISSÃO Texto relevante para efeitos do EEE de 7 de agosto de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 44.º
+    - Altera Artigo 46.º
+    - Altera Artigo 48.º
+    - Altera CONDIÇÕES A QUE DEVEM CORRESPONDER AS SEMENTES
+    - Altera PESOS REFERIDOS NO N.º 2 DO ARTIGO 25.º
+    - Altera (referidos no artigo 51.º)
+    - Altera QUADRO DE CORRESPONDÊNCIA
+    - Altera Notas
+  - date: '2017-04-01'
+    amending: eu:celex:32016L0317:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2016/317 DA COMISSÃO Texto relevante para efeitos do EEE de 3 de março de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 44.º
+    - Altera Artigo 46.º
+    - Altera Artigo 48.º
+    - Altera I. Indicações prescritas
+    - Altera A. Informações que devem constar do rótulo
+    - Altera C. Informações que devem constar do documento
+    - Altera (referidos no artigo 51.º)
+    - Altera QUADRO DE CORRESPONDÊNCIA
+    - Altera Notas
+  - date: '2020-02-16'
+    amending: eu:celex:32020L0177:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2020/177 DA COMISSÃO Texto relevante para efeitos do EEE de 11 de fevereiro
+      de 2020
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 44.º
+    - Altera Artigo 46.º
+    - Altera Artigo 48.º
+    - Altera CONDIÇÕES PARA A CERTIFICAÇÃO RELATIVA À CULTURA
+    - Altera CONDIÇÕES A QUE DEVEM CORRESPONDER AS SEMENTES
+    - Altera I. Indicações prescritas
+    - Altera (referidos no artigo 51.º)
+    - Altera QUADRO DE CORRESPONDÊNCIA
+    - Altera Notas
+  - date: '2020-07-01'
+    amending: eu:celex:32019L0990:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2019/990 DA COMISSÃO Texto relevante para efeitos do EEE de 17 de junho de 2019;
+      DIRETIVA DE EXECUÇÃO (UE) 2020/432 DA COMISSÃO Texto relevante para efeitos do EEE de 23 de março de 2020
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 44.º
+    - Altera Artigo 46.º
+    - Altera Artigo 48.º
+    - Altera CONDIÇÕES PARA A CERTIFICAÇÃO RELATIVA À CULTURA
+    - Altera CONDIÇÕES A QUE DEVEM CORRESPONDER AS SEMENTES
+    - Altera PESOS REFERIDOS NO N.º 2 DO ARTIGO 25.º
+    - Altera (referidos no artigo 51.º)
+    - Altera QUADRO DE CORRESPONDÊNCIA
+    - Altera Notas
+  - date: '2022-09-01'
+    amending: eu:celex:32021L0971:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2021/971 DA COMISSÃO de 16 de junho de 2021
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 44.º
+    - Altera Artigo 46.º
+    - Altera Artigo 48.º
+    - Altera CONDIÇÕES PARA A CERTIFICAÇÃO RELATIVA À CULTURA
+    - Altera (referidos no artigo 51.º)
+    - Altera QUADRO DE CORRESPONDÊNCIA
+    - Altera Notas
+  - date: '2024-12-24'
+    amending: eu:celex:32024L3010:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2024/3010 DA COMISSÃO de 29 de novembro de 2024
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 44.º
+    - Altera Artigo 46.º
+    - Altera Artigo 48.º
+    - Altera CONDIÇÕES PARA A CERTIFICAÇÃO RELATIVA À CULTURA
+    - Altera CONDIÇÕES A QUE DEVEM CORRESPONDER AS SEMENTES
+    - Altera (referidos no artigo 51.º)
+    - Altera QUADRO DE CORRESPONDÊNCIA
+    - Altera Notas
 identifiers:
   celex: 32002L0055
   eli: http://data.europa.eu/eli/dir/2002/55/oj
@@ -47,7 +233,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1364812d-2692-4cf9-9b03-3d79c9aeb7f1.0010
   content_url: http://publications.europa.eu/resource/cellar/bc5920a5-cd06-11ef-be2a-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0055-20241224
-  retrieved_at: '2026-10-22T02:35:53Z'
+  retrieved_at: '2026-10-22T14:51:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-04T11:35:20.342+02:00'
 integrity:
@@ -56,9 +242,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:53Z'
-  notes: Texto consolidado 02002L0055-20241224.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:58Z'
+  notes: 10 versão(ões); histórico completo em diretiva-ue-2002-55.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -376,40 +562,21 @@ relationships:
   source: null
 article_structure:
   article_count: 53
-  section_count: 28
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 29
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:53Z'
-  warnings: []
+  checked_at: '2026-10-22T14:51:58Z'
+  warnings:
+  - '02002L0055-20030710: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002L0055-20040418: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 2002/55/CE do Conselho, de 13 de Junho de 2002
-
-> 02002L0055 — PT — 24.12.2024 — 011.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003L0061) — [DIRECTIVA 2003/61/CE DO CONSELHO de 18 de Junho de 2003](http://publications.europa.eu/resource/celex/32003L0061) — L 165 — 23 — 3.7.2003
-- [►M2](http://publications.europa.eu/resource/celex/32003R1829) — [REGULAMENTO (CE) N.º 1829/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1829) — L 268 — 1 — 18.10.2003
-- [►M3](http://publications.europa.eu/resource/celex/32004L0117) — [DIRECTIVA 2004/117/CE DO CONSELHO de 22 de Dezembro de 2004](http://publications.europa.eu/resource/celex/32004L0117) — L 14 — 18 — 18.1.2005
-- [►M4](http://publications.europa.eu/resource/celex/32006L0124) — [DIRECTIVA 2006/124/CE DA COMISSÃO de 5 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006L0124) — L 339 — 12 — 6.12.2006
-- [►M5](http://publications.europa.eu/resource/celex/32009L0074) — [DIRECTIVA 2009/74/CE DA COMISSÃO de 26 de Junho de 2009](http://publications.europa.eu/resource/celex/32009L0074) — L 166 — 40 — 27.6.2009
-- [►M6](http://publications.europa.eu/resource/celex/32013L0045) — [DIRETIVA DE EXECUÇÃO 2013/45/UE DA COMISSÃO de 7 de agosto de 2013](http://publications.europa.eu/resource/celex/32013L0045) — L 213 — 20 — 8.8.2013
-- [►M7](http://publications.europa.eu/resource/celex/32016L0317) — [DIRETIVA DE EXECUÇÃO (UE) 2016/317 DA COMISSÃO de 3 de março de 2016](http://publications.europa.eu/resource/celex/32016L0317) — L 60 — 72 — 5.3.2016
-- [►M8](http://publications.europa.eu/resource/celex/32019L0990) — [DIRETIVA DE EXECUÇÃO (UE) 2019/990 DA COMISSÃO de 17 de junho de 2019](http://publications.europa.eu/resource/celex/32019L0990) — L 160 — 14 — 18.6.2019
-- [►M9](http://publications.europa.eu/resource/celex/32020L0177) — [DIRETIVA DE EXECUÇÃO (UE) 2020/177 DA COMISSÃO de 11 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020L0177) — L 41 — 1 — 13.2.2020
-- [►M10](http://publications.europa.eu/resource/celex/32020L0432) — [DIRETIVA DE EXECUÇÃO (UE) 2020/432 DA COMISSÃO de 23 de março de 2020](http://publications.europa.eu/resource/celex/32020L0432) — L 88 — 3 — 24.3.2020
-- [►M11](http://publications.europa.eu/resource/celex/32021L0971) — [DIRETIVA DE EXECUÇÃO (UE) 2021/971 DA COMISSÃO de 16 de junho de 2021](http://publications.europa.eu/resource/celex/32021L0971) — L 214 — 62 — 17.6.2021
-- [►M12](http://publications.europa.eu/resource/celex/32024L3010) — [DIRETIVA DE EXECUÇÃO (UE) 2024/3010 DA COMISSÃO de 29 de novembro de 2024](http://publications.europa.eu/resource/celex/32024L3010) — L 3010 — 1 — 4.12.2024
-
-## DIRECTIVA 2002/55/CE DO CONSELHO
 
 de 13 de Junho de 2002
 

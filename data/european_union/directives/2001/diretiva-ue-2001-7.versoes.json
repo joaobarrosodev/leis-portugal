@@ -1,0 +1,65 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0007:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0007-20010221",
+ "dre_path": null,
+ "source_lastmod": "2001-02-21",
+ "versions": [
+  {
+   "date": "2001-02-01",
+   "future": false,
+   "celex": "32001L0007",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "eb8f7ded82b2475b",
+    "0b9c1216efafebcb",
+    "ad6312e40db57863",
+    "365dfca96b02c3ef",
+    "51faae77006def88"
+   ]
+  }
+ ],
+ "fragments": {
+  "eb8f7ded82b2475b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2001/7/CE da Comissão, de 29 de Janeiro de 2001, que adapta, pela terceira vez, ao progresso técnico a Directiva 94/55/CE do Conselho, relativa à aproximação das legislações dos Estados-Membros respeitantes ao transporte rodoviário de mercadorias perigosas (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 030 de 01/02/2001 p. 0043 - 0043*\n\nDirectiva 2001/7/CE da Comissão\n\nde 29 de Janeiro de 2001\n\nque adapta, pela terceira vez, ao progresso técnico a Directiva 94/55/CE do Conselho, relativa à aproximação das legislações dos Estados-Membros respeitantes ao transporte rodoviário de mercadorias perigosas\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 94/55/CE do Conselho, de 21 de Novembro de 1994, relativa à aproximação das legislações dos Estados-Membros respeitantes ao transporte rodoviário de mercadorias perigosas(1), com a última redacção que lhe foi dada pela Directiva 2000/61/CE do Parlamento Europeu e do Conselho(2), e, nomeadamente, o seu artigo 8.o,\n\nConsiderando o seguinte:\n\n(1) Os anexos A e B da Directiva 94/55/CE integram os anexos A e B do Acordo Europeu relativo ao transporte internacional de mercadorias perigosas por estrada, vulgarmente denominado ADR, aplicável a partir de 1 de Julho de 1999.\n\n(2) O ADR é actualizado bienalmente e, por isso, entrará em vigor uma versão alterada a partir de 1 de Julho de 2001, com um período transitório até 31 de Dezembro de 2002, com excepção das mercadorias perigosas da classe 7 (matérias radioactivas), para as quais o período transitório termina em 31 de Dezembro de 2001.\n\n(3) É, assim, necessário, alterar os anexos da Directiva 94/55/CE.\n\n(4) As medidas previstas na presente directiva estão em conformidade com o parecer do comité para o transporte de mercadorias perigosas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "0b9c1216efafebcb": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs anexos da Directiva 94/55/CE são alterados do seguinte modo:\n\n1. O anexo A é substituído pelo seguinte:\n\n\"ANEXO A\n\nAs disposições do anexo A do Acordo Europeu relativo ao transporte internacional de mercadorias perigosas por estrada (ADR), aplicáveis a partir de 1 de Julho de 2001, sendo os termos \"parte contratante\" substituídos por \"Estado-Membro\"\n\nNota:\n\nO texto consolidado da versão de 2001 do anexo A do ADR será publicado logo que o texto se encontre disponível em todas as línguas oficiais da Comunidade.\".\n\n2. O anexo B é substituído pelo seguinte:\n\n\"ANEXO B\n\nAs disposições do anexo B do Acordo Europeu relativo ao transporte internacional de mercadorias perigosas por estrada (ADR), aplicáveis a partir de 1 de Julho de 2001, sendo os termos \"parte contratante\" substituídos por \"Estado-Membro\"\n\nNota:\n\nO texto consolidado da versão de 2001 do anexo B do ADR será publicado logo que o texto se encontre disponível em todas as línguas oficiais da Comunidade.\"."
+  },
+  "ad6312e40db57863": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar comprimento à presente directiva relativamente às mercadorias perigosas da classe 7 o mais tardar em 31 de Dezembro de 2001. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-Membros adoptarem essas disposições, estas incluirão uma referência à presente directiva ou serão dela acompanhadas no momento da sua publicação oficial. Os Estados-Membros determinarão a modalidade em que será feita essa referência.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das disposições de direito interno que adoptarem nas máterias reguladas pela presente directiva."
+  },
+  "365dfca96b02c3ef": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia subsequente ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "51faae77006def88": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 29 de Janeiro de 2001.\n\nPela Comissão\n\nLoyola De Palacio\n\nVice-Presidente\n\n(1) JO L 319 de 12.12.1994, p. 7.\n\n(2) JO L 279 de 1.11.2000, p. 40."
+  }
+ }
+}

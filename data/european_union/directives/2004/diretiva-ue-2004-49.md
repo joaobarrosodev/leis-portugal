@@ -37,6 +37,115 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-07-30'
+version_history:
+  file: diretiva-ue-2004-49.versoes.json
+  count: 4
+  source_lastmod: '2014-07-30'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-24'
+    amending: eu:celex:32008L0057:por
+    amending_title: DIRECTIVA 2008/57/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 17 de
+      Junho de 2008; DIRECTIVA 2008/110/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 16 de
+      Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES INTRODUTÓRIAS
+    - Adita Artigo 1.º — Objectivo
+    - Adita Artigo 2.º — Âmbito de aplicação
+    - Adita Artigo 3.º — Definições
+    - Adita CAPÍTULO II
+    - Adita PROMOÇÃO E GESTÃO DA SEGURANÇA
+    - Adita Artigo 4.º — Promoção e reforço da segurança ferroviária
+    - Adita Artigo 5.º — Indicadores comuns de segurança
+    - Adita Artigo 6.º — Métodos comuns de segurança
+    - Adita Artigo 7.º — Objectivos comuns de segurança
+    - Adita Artigo 8.º — Normas de segurança nacionais
+    - Adita Artigo 9.º — Sistemas de gestão da segurança
+    - Adita CAPÍTULO III
+    - Adita CERTIFICAÇÃO E AUTORIZAÇÃO DE SEGURANÇA
+    - Adita Artigo 10.º — Certificados de segurança
+    - Adita Artigo 11.º — Autorização de segurança dos gestores de infra-estruturas
+    - Adita Artigo 12.º — Requisitos aplicáveis aos pedidos de certificação de segurança e de autorização de segurança
+    - Adita Artigo 13.º — Acesso a estruturas de formação
+    - Adita Artigo 14.º-A — Manutenção de veículos
+    - Adita Artigo 15.º — Harmonização dos certificados de segurança
+    - Adita CAPÍTULO IV
+    - Adita AUTORIDADE RESPONSÁVEL PELA SEGURANÇA
+    - Adita Artigo 16.º — Competências
+    - Adita Artigo 17.º — Princípios de tomada de decisões
+    - Adita Artigo 18.º — Relatório anual
+    - Adita CAPÍTULO V
+    - Adita INQUÉRITOS SOBRE ACIDENTES E INCIDENTES
+    - Adita Artigo 19.º — Obrigação de investigar
+    - Adita Artigo 20.º — Estatuto do inquérito
+    - Adita Artigo 21.º — Organismo responsável pelos inquéritos
+    - Adita Artigo 22.º — Procedimento de inquérito
+    - Adita Artigo 23.º — Relatórios
+    - Adita Artigo 24.º — Informações a comunicar à Agência
+    - Adita Artigo 25.º — Recomendações em matéria de segurança
+    - Adita CAPÍTULO VI
+    - Adita COMPETÊNCIAS DE EXECUÇÃO
+    - Adita Artigo 26.º — Adaptação dos anexos
+    - Adita Artigo 27.º — Procedimento de comité
+  - date: '2009-12-18'
+    amending: eu:celex:32009L0149:por
+    amending_title: DIRECTIVA 2009/149/CE DA COMISSÃO Texto relevante para efeitos do EEE de 27 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 30.º — Alterações à Directiva 2001/14/CE
+    - Altera INDICADORES COMUNS DE SEGURANÇA
+    - Altera Notas
+    - Adita 1. Indicadores relativos aos acidentes
+    - Adita 2. Indicadores relativos às mercadorias perigosas
+    - Adita 3. Indicadores relativos aos suicídios
+    - Adita 4. Indicadores relativos aos precursores de acidentes
+    - Adita 5. Indicadores para calcular o impacto económico dos acidentes
+    - Adita 6. Indicadores relativos à segurança técnica da infra-estrutura e à sua implementação
+    - Adita 7. Indicadores relativos à gestão da segurança
+    - Adita 8. Definições
+    - Adita Apêndice
+    - Adita Definições comuns dos indicadores comuns de segurança (ICS) e métodos comuns de cálculo do impacto económico dos
+      acidentes
+    - Adita 5. Métodos comuns para calcular o impacto económico dos acidentes
+    - Adita 8. Definições das bases de cálculo
+    - Suprime 1. Indicadores relativos a acidentes
+    - Suprime 2. Indicadores relativos a incidentes e casos de quase acidente
+    - Suprime 3. Indicadores relativos às consequências dos acidentes
+    - Suprime 4. Indicadores relativos à segurança técnica da infra-estrutura e à sua implementação
+    - Suprime 5. Indicadores relativos à gestão da segurança
+    - Suprime 6. Definições
+  - date: '2014-07-30'
+    amending: eu:celex:32012L0034:por
+    amending_title: DIRETIVA 2012/34/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 21 de novembro
+      de 2012; DIRETIVA 2014/88/UE DA COMISSÃO Texto relevante para efeitos do EEE de 9 de julho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera INDICADORES COMUNS DE SEGURANÇA
+    - Altera 1. Indicadores relativos aos acidentes
+    - Altera 2. Indicadores relativos às mercadorias perigosas
+    - Altera 3. Indicadores relativos aos suicídios
+    - Altera 4. Indicadores relativos aos precursores de acidentes
+    - Altera 5. Indicadores para calcular o impacto económico dos acidentes
+    - Altera 5. Métodos comuns para calcular o impacto económico dos acidentes
+    - Altera Notas
+    - Adita 6. Indicadores relativos à segurança técnica da infraestrutura e à sua implementação
+    - Adita Definições comuns dos ICS e métodos comuns de cálculo do impacto económico dos acidentes
+    - Adita 7. Definições das bases de cálculo
+    - Suprime Artigo 29.º — Alterações à Directiva 95/18/CE
+    - Suprime Artigo 30.º — Alterações à Directiva 2001/14/CE
+    - Suprime 6. Indicadores relativos à segurança técnica da infra-estrutura e à sua implementação
+    - Suprime 7. Indicadores relativos à gestão da segurança
+    - Suprime 8. Definições
+    - Suprime Definições comuns dos indicadores comuns de segurança (ICS) e métodos comuns de cálculo do impacto económico
+      dos acidentes
+    - Suprime 8. Definições das bases de cálculo
 identifiers:
   celex: 32004L0049
   eli: http://data.europa.eu/eli/dir/2004/49/oj
@@ -51,7 +160,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f709b117-368d-4e6f-82a2-0834af9a4e3c.0010
   content_url: http://publications.europa.eu/resource/cellar/7a2be3fe-4eb6-4ac0-955e-da4326be4462.0015.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0049-20140730
-  retrieved_at: '2026-10-22T02:36:50Z'
+  retrieved_at: '2026-10-22T14:57:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-31T09:36:45.901+01:00'
 integrity:
@@ -60,9 +169,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:50Z'
-  notes: Texto consolidado 02004L0049-20140730.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:15Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2004-49.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -248,37 +357,19 @@ relationships:
   source: null
 article_structure:
   article_count: 33
-  section_count: 47
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 48
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:50Z'
+  checked_at: '2026-10-22T14:57:15Z'
   warnings: []
   errors: []
 ---
 
 # DIRECTIVA 2004/49/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Abril de 2004
-
-> 2004L0049 — PT — 30.07.2014 — 003.002
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008L0057) — [DIRECTIVA 2008/57/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 17 de Junho de 2008](http://publications.europa.eu/resource/celex/32008L0057) — L 191 — 1 — 18.7.2008
-- [►M2](http://publications.europa.eu/resource/celex/32008L0110) — [DIRECTIVA 2008/110/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 16 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008L0110) — L 345 — 62 — 23.12.2008
-- [M3](http://publications.europa.eu/resource/celex/32009L0149) — [DIRECTIVA 2009/149/CE DA COMISSÃO Texto relevante para efeitos do EEE de 27 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009L0149) — L 313 — 65 — 28.11.2009
-- [►M4](http://publications.europa.eu/resource/celex/32012L0034) — [DIRETIVA 2012/34/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 21 de novembro de 2012](http://publications.europa.eu/resource/celex/32012L0034) — L 343 — 32 — 14.12.2012
-- [►M5](http://publications.europa.eu/resource/celex/32014L0088) — [DIRETIVA 2014/88/UE DA COMISSÃO Texto relevante para efeitos do EEE de 9 de julho de 2014](http://publications.europa.eu/resource/celex/32014L0088) — L 201 — 9 — 10.7.2014
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32004L0049R%2801%29) — [Rectificação, JO L 220, 21.6.2004, p. 16 (Directiva 2004/49/CE)](http://publications.europa.eu/resource/celex/32004L0049R%2801%29)
-
-## DIRECTIVA 2004/49/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 29 de Abril de 2004
 

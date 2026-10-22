@@ -38,6 +38,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-06-28'
+version_history:
+  file: regulamento-ue-2004-641.versoes.json
+  count: 1
+  source_lastmod: '2013-06-28'
+  versions:
+  - date: '2013-06-28'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32004R0641
   eli: http://data.europa.eu/eli/reg/2004/641/oj
@@ -52,7 +61,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/159be18a-185f-40a1-9ad9-b4729bbd0fff.0010
   content_url: http://publications.europa.eu/resource/cellar/fda22018-d216-4fcc-9f20-86636149766e.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0641-20130628
-  retrieved_at: '2026-10-22T03:11:56Z'
+  retrieved_at: '2026-10-22T14:57:38Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-30T05:10:54.578+01:00'
 integrity:
@@ -61,9 +70,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:56Z'
-  notes: Texto consolidado 02004R0641-20130628.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:38Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2004-641.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -123,29 +132,20 @@ relationships:
   date: '2006-07-19'
 article_structure:
   article_count: 5
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:56Z'
-  warnings: []
+  checked_at: '2026-10-22T14:57:38Z'
+  warnings:
+  - '02004R0641-20040407: versão indisponível (Sem expressão na língua por para CELEX 02004R0641-20040407.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 641/2004 da Comissão, de 6 de Abril de 2004
-
-> 2004R0641 — PT — 28.06.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R0503) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 503/2013 DA COMISSÃO de 3 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0503) — L 157 — 1 — 8.6.2013
-
-## REGULAMENTO (CE) N.º 641/2004 DA COMISSÃO
 
 de 6 de Abril de 2004
 

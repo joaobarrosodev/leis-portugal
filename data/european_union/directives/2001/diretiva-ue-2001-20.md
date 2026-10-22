@@ -36,6 +36,40 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-01-01'
+version_history:
+  file: diretiva-ue-2001-20.versoes.json
+  count: 3
+  source_lastmod: '2022-01-01'
+  versions:
+  - date: '2007-01-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-07'
+    amending: eu:celex:32009R0596:por
+    amending_title: REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 9.º — Início de um ensaio clínico
+    - Altera Artigo 11.º — Intercâmbio de informações
+    - Altera Artigo 13.º — Fabrico e importação de medicamentos experimentais
+    - Altera Notas
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Suprime Artigo 20.º — Adaptação ao progresso científico e técnico
+    - Suprime Artigo 21.º — Comité
+  - date: '2022-01-01'
+    amending: eu:celex:32022L0642:por
+    amending_title: DIRETIVA (UE) 2022/642 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de abril de 2022
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Início de um ensaio clínico
+    - Altera Artigo 11.º — Intercâmbio de informações
+    - Altera Artigo 13.º — Fabrico e importação de medicamentos experimentais
+    - Altera Artigo 17.º — Notificação de efeitos indesejáveis graves
+    - Altera Artigo 21.º
+    - Altera Notas
 identifiers:
   celex: 32001L0020
   eli: http://data.europa.eu/eli/dir/2001/20/oj
@@ -50,7 +84,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/096d56ab-bf8e-45de-9c28-d3599733c923.0010
   content_url: http://publications.europa.eu/resource/cellar/989c81b2-d63f-11ec-a95f-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0020-20220101
-  retrieved_at: '2026-10-22T02:39:04Z'
+  retrieved_at: '2026-10-22T14:50:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2020-07-15T08:21:11.033+02:00'
 integrity:
@@ -59,9 +93,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:04Z'
-  notes: Texto consolidado 02001L0020-20220101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:00Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2001-20.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -187,31 +221,20 @@ relationships:
   date: '2014-05-28'
 article_structure:
   article_count: 24
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:04Z'
-  warnings: []
+  checked_at: '2026-10-22T14:50:00Z'
+  warnings:
+  - '02001L0020-20010501: versão indisponível (Sem expressão na língua por para CELEX 02001L0020-20010501.)'
   errors: []
 ---
 
 # Directiva 2001/20/CE do Parlamento Europeu e do Conselho, de 4 de Abril de 2001
-
-> 02001L0020 — PT — 01.01.2022 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006R1901) — [REGULAMENTO (CE) N.O 1901/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1901) — L 378 — 1 — 27.12.2006
-- [►M2](http://publications.europa.eu/resource/celex/32009R0596) — [REGULAMENTO (CE) N.º 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0596) — L 188 — 14 — 18.7.2009
-- [►M3](http://publications.europa.eu/resource/celex/32022L0642) — [DIRETIVA (UE) 2022/642 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de abril de 2022](http://publications.europa.eu/resource/celex/32022L0642) — L 118 — 4 — 20.4.2022
-
-## DIRECTIVA 2001/20/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 4 de Abril de 2001
 

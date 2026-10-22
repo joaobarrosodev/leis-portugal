@@ -1,0 +1,199 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001D0618:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001D0618-20080304",
+ "dre_path": null,
+ "source_lastmod": "2008-03-04",
+ "versions": [
+  {
+   "date": "2001-08-09",
+   "future": false,
+   "celex": "32001D0618",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b59b76c24d3b976a",
+    "25ca190c2989266a",
+    "7ba16d0304d9e4d3",
+    "04eb8cba3deff94b",
+    "4b02e361effbce53",
+    "e779e37e5f0a530d",
+    "dfc854eb9fdcdcbc",
+    "ef714f4c147f2d83",
+    "abd6b436fdcdeae3",
+    "c205278edaa72862",
+    "ef77cb55888e238f",
+    "e534a7f148dd77b7",
+    "d2fc94816ea377ba",
+    "34b017a82d84466a",
+    "04190f674efe12d9",
+    "9d64b2fcb0c7655f"
+   ]
+  },
+  {
+   "date": "2008-03-04",
+   "future": false,
+   "celex": "02001D0618-20080304",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º — São revogadas as Decisões 93/24/CEE e 93/244/CEE, com efeitos na data estabelecida no artigo 10.o,",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime ANEXO I — Estados-Membros ou suas regiões isentos da doença de Aujeszky em que é proibida a vacinação",
+    "Suprime ANEXO II — Estados-Membros ou suas regiões em que são aplicados programas aprovados de controlo da doença de Aujeszky",
+    "Suprime ANEXO III",
+    "Suprime ANEXO IV — >PIC FILE= \"L_2001215PT.005402.TIF\">"
+   ],
+   "fragments": [
+    "7eeb7c5f6cade0fd"
+   ]
+  }
+ ],
+ "fragments": {
+  "b59b76c24d3b976a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**2001/618/CE: Decisão da Comissão, de 23 de Julho de 2001, relativa a garantias adicionais em relação à doença de Aujeszky no comércio intracomunitário de suínos e a critérios de notificação desta doença e que revoga as Decisões 93/24/CEE e 93/244/CEE (Texto relevante para efeitos do EEE) [notificada com o número C(2001) 2236]** *Jornal Oficial nº L 215 de 09/08/2001 p. 0048 - 0054*\n\nDecisão da Comissão\n\nde 23 de Julho de 2001\n\nrelativa a garantias adicionais em relação à doença de Aujeszky no comércio intracomunitário de suínos e a critérios de notificação desta doença e que revoga as Decisões 93/24/CEE e 93/244/CEE\n\n[notificada com o número C(2001) 2236]\n\n(Texto relevante para efeitos do EEE)\n\n(2001/618/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 64/432/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas de fiscalização sanitária em matéria de comércio intracomunitário de animais das espécies bovina e suína(1), com a última redacção que lhe foi dada pela Directiva 2000/20/CE(2), e, nomeadamente, o seu artigo 8.o, o n.o 2 do seu artigo 9.o e o n.o 2 do seu artigo 10.o,\n\nConsiderando o seguinte:\n\n(1) A Decisão 93/24/CEE da Comissão(3) estabelece garantias adicionais quanto à doença de Aujeszky relativamente a suínos destinados aos Estados-Membros ou a regiões indemnes da doença.\n\n(2) A Decisão 93/244/CEE da Comissão(4) estabelece garantias adicionais quanto à doença de Aujeszky relativamente a suínos destinados a determinadas partes do território da Comunidade em que são aplicados programas aprovados de erradicação desta doença.\n\n(3) O Gabinete Internacional das Epizootias (OIE) é o organismo internacional designado responsável, no âmbito do Acordo relativo à aplicação de medidas sanitárias e fitossanitárias, em aplicação do GATT 1994, pelo estabelecimento de regras de polícia sanitária aplicáveis ao comércio de animais e de produtos derivados de animais. Estas regras encontram-se publicadas no código zoossanitário internacional.\n\n(4) O capítulo relativo à doença de Aujeszky do código zoossanitário internacional foi recentemente objecto de grandes alterações.\n\n(5) Afigura-se adequado alterar as garantias adicionais em relação à doença de Aujeszky no comércio intracomunitário de suínos, a fim de assegurar a sua compatibilidade com as regras internacionais relativas a esta doença e um melhor controlo a nível da Comunidade.\n\n(6) Devem ser estabelecidos critérios relativos à notificação pelos Estados-Membros da doença de Aujeszky, em conformidade com o disposto no artigo 8.o da Directiva 64/432/CEE.\n\n(7) Por uma questão de clareza, as Decisões 93/24/CEE e 93/244/CEE devem ser revogadas e deve ser adoptada uma nova decisão relativa a garantias adicionais em relação à doença de Aujeszky no comércio intracomunitário de suínos e a critérios de notificação desta doença.\n\n(8) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "25ca190c2989266a": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ autorizada a expedição de suínos para criação ou rendimento destinados a Estados-Membros ou regiões, constantes do anexo I, isentos da doença de Aujeszky e provenientes de quaisquer outros Estados-Membros ou regiões não enumerados no referido anexo, nas seguintes condições:\n\na) A doença de Aujeszky deve ser uma doença de notificação obrigatória no Estado-Membro de origem;\n\nb) No Estado-Membro ou regiões de origem sob supervisão da autoridade competente, deve estar a ser aplicado um programa de controlo e erradicação da doença de Aujeszky, que observe os critérios estabelecidos no n.o 1 do artigo 9.o da Directiva 64/432/CEE. Devem estar a ser aplicadas, ao abrigo desse plano, medidas relativas ao transporte e circulação de suínos, para evitar a propagação da doença entre explorações com estatutos diferentes;\n\nc) No que respeita à exploração suinícola de origem:\n\n- nos 12 meses anteriores não se devem ter registado na exploração de origem manifestações clínicas, patológicas ou serológicas da doença de Aujeszky,\n\n- nos 12 meses anteriores não se devem ter registado manifestações clínicas, patológicas ou serológicas da doença de Aujeszky nas explorações situadas num raio de 5 km em torno da exploração de origem dos suínos; no entanto, a presente disposição não é aplicável se, nestas últimas explorações, as medidas de monitorização e erradicação tiverem sido regularmente aplicadas sob controlo da autoridade competente, em conformidade com o plano de erradicação referido na alínea b), e se estas medidas tiverem de facto evitado a propagação da doença para a exploração em questão,\n\n- a vacinação contra a doença de Aujeszky não foi aplicada há pelo menos 12 meses,\n\n- os suínos foram sujeitos, em pelo menos duas ocasiões separadas por um intervalo de tempo mínimo de quatro meses, a um levantamento serológico com vista à detecção de anticorpos ADV-gE, ADV-gB ou ADV-gD ou do vírus da doença de Aujeszky. Este levantamento deve ter demonstrado a inexistência de doença de Aujeszky, bem como a inexistência de anticorpos gE nos suínos vacinados,\n\n- nos 12 meses anteriores não foram introduzidos suínos provenientes de explorações com estatuto sanitário inferior em relação à doença de Aujeszky, a menos que tenham apresentado resultados negativos nos testes da doença de Aujeszky;\n\nd) Os suínos destinados a ser expedidos:\n\n- não foram vacinados,\n\n- nos 30 dias que precederam a expedição foram mantidos isolados em instalações aprovadas pela autoridade competente, para evitar o risco de propagação da doença de Aujeszky a estes suínos,\n\n- devem ter sido mantidos na exploração de origem, ou numa exploração com estatuto equivalente, desde o nascimento e ter permanecido na exploração de origem durante pelo menos:\n\ni) 30 dias, no que respeita aos suínos de rendimento,\n\nii) 90 dias, no que respeita aos suínos de criação;\n\n- devem ter apresentado resultados negativos em pelo menos dois testes serológicos para a detecção do ADV-gB, do ADV-gD ou do vírus da doença de Aujeszky, efectuados com um intervalo de pelo menos 30 dias. No entanto, no que respeita aos suínos com idade inferior a quatro meses, deve também utilizar-se o teste serológico para a detecção do ADV-gE. A amostragem com vista ao último teste deve ser efectuada até 15 dias antes da expedição. O número de suínos testados na unidade de isolamento deve ser suficiente para detectar:\n\ni) uma seroprevalência de 2 %, com um nível de confiança de 95 %, na unidade de isolamento, no que respeita aos suínos de rendimento,\n\nii) uma seroprevalência de 0,1 %, com um nível de confiança de 95 %, na unidade de isolamento, no que respeita aos suínos de criação.\n\nNo entanto, o primeiro destes dois testes não é necessário:\n\ni) no âmbito do plano referido em b), se tiver sido efectuado na exploração de origem, 45 a 170 dias antes da expedição, um levantamento serológico que comprove a inexistência da doença de Aujeszky e que os suínos vacinados não apresentavam anticorpos gE,\n\nii) se os suínos a expedir tiverem sido mantidos na exploração de origem desde o seu nascimento,\n\niii) se não tiverem sido expedidos para a exploração de origem quaisquer suínos enquanto os suínos a expedir tiverem sido mantidos isolados."
+  },
+  "7ba16d0304d9e4d3": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nÉ autorizada a expedição de suínos para abate destinados a Estados-Membros ou regiões, constantes do anexo I, isentos da doença de Aujeszky, e provenientes de quaisquer outros Estados-Membros ou regiões não enumerados no referido anexo, nas seguintes condições:\n\na) A doença de Aujeszky deve ser uma doença de notificação obrigatória no Estado-Membro de origem;\n\nb) No Estado-Membro ou regiões de origem dos suínos, está a ser aplicado um plano de controlo e erradicação da doença de Aujeszky que observa os critérios estabelecidos na alínea b) do artigo 1.o;\n\nc) todos os suínos em questão devem ser transportados imediatamente para o matadouro de destino e:\n\n- provir de uma exploração que observe as condições estabelecidas na alínea c) do artigo 1.o, ou\n\n- ter sido vacinados contra a doença de Aujeszky pelo menos 15 dias antes da sua expedição e devem provir de uma exploração de origem em que:\n\ni) no âmbito do plano referido em b), tenham sido aplicadas regularmente, ao longo dos 12 meses precedentes, sob supervisão da autoridade competente, medidas de monitorização e erradicação da doença de Aujeszky,\n\nii) tenham permanecido durante pelo menos 30 dias antes da expedição e aonde não tenha sido detectada qualquer manifestação clínica ou patológica desta doença aquando do preenchimento do certificado sanitário referido no artigo 7.o; ou\n\n- não ter sido vacinados e provir de uma exploração em que:\n\ni) no âmbito do plano referido em b), tenham sido aplicadas regularmente, ao longo dos 12 meses precedentes, sob supervisão da autoridade competente, medidas de monitorização e erradicação da doença de Aujeszky, e em que não foram registadas manifestações clínicas, patológicas ou serológicas desta doença nos seis meses anteriores,\n\nii) a autoridade competente tenha proibido a vacinação contra a doença de Aujeszky e a introdução de suínos vacinados, em virtude de a exploração estar a procurar obter o estatuto máximo em relação à doença de Aujeszky, em conformidade com o plano referido na alínea b),\n\niii) tenham sido mantidos durante pelo menos 90 dias antes da expedição."
+  },
+  "04eb8cba3deff94b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs suínos para criação destinados aos Estados-Membros ou regiões em que são aplicados programas aprovados de erradicação da doença de Aujeszky, constantes do anexo II, devem:\n\na) Provir dos Estados-Membros ou regiões enumerados no anexo I; ou\n\nb) Provir:\n\n- de Estados-Membros ou regiões enumerados no anexo II, e\n\n- de uma exploração que observa os requisitos da alínea c) do artigo 1.o; ou\n\nc) Observar as seguintes condições:\n\n- a doença de Aujeszky deve ser uma doença de notificação obrigatória no Estado-Membro de origem,\n\n- no Estado-Membro ou regiões de origem, está a ser aplicado um plano de controlo e erradicação da doença de Aujeszky que observa os critérios estabelecidos na alínea b) do artigo 1.o,\n\n- nos 12 meses anteriores não se devem ter registado na exploração de origem dos suínos em questão manifestações clínicas, patológicas ou serológicas da doença de Aujeszky,\n\n- nos 30 dias que precedem a expedição, os suínos devem ter sido isolados em instalações aprovadas pela autoridade competente e ter sido assim mantidos para evitar qualquer risco de propagação da doença,\n\n- os suínos devem ter apresentado resultados negativos num teste serológico para a detecção de anticorpos gE. As amostras destinadas ao último teste devem ter sido obtidas nos 15 dias que precedem a expedição. O número de suínos testados deve ser suficiente para detectar em tais suínos uma seroprevalência de 2 %, com um nível de confiança de 95 %,\n\n- os suínos devem ter sido mantidos desde o nascimento na exploração de origem, ou numa exploração com estatuto equivalente, e ter permanecido na exploração de origem durante pelo menos 90 dias."
+  },
+  "4b02e361effbce53": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs suínos de produção destinados aos Estados-Membros ou regiões em que são aplicados programas aprovados de erradicação da doença de Aujeszky, constantes do anexo II, devem:\n\na) Provir dos Estados-Membros ou regiões enumerados no anexo I; ou\n\nb) Provir:\n\n- de Estados-Membros ou regiões enumerados no anexo II, e\n\n- de uma exploração que observa os requisitos da alínea c) do artigo 1.o; ou\n\nc) Observar as seguintes condições:\n\n- a doença de Aujeszky deve ser uma doença de notificação obrigatória no Estado-Membro de origem,\n\n- no Estado-Membro ou região de origem está a ser aplicado um plano de controlo e erradicação da doença de Aujeszky que observa os critérios estabelecidos na alínea b) do artigo 1.o,\n\n- nos 12 meses anteriores, não foram registadas na exploração de origem dos suínos em questão manifestações clínicas, patológicas ou serológicas da doença de Aujeszky,\n\n- foi efectuado na exploração de origem, 45 a 170 dias antes da expedição, um levantamento serológico em relação à doença de Aujeszky que demonstrou a inexistência desta doença, bem como que os suínos vacinados não apresentavam anticorpos gE,\n\n- os suínos devem ter sido mantidos na exploração de origem desde o seu nascimento, ou ter permanecido em tal exploração durante pelo menos 30 dias após serem para aí transferidos de uma exploração com estatuto equivalente, se tiver sido efectuado um levantamento serológico equivalente ao referido no quarto travessão supra."
+  },
+  "e779e37e5f0a530d": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs testes serológicos efectuados para monitorizar ou detectar a doença de Aujeszky nos suínos em conformidade com o disposto na presente decisão devem observar as normas estabelecidas no anexo III."
+  },
+  "dfc854eb9fdcdcbc": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSem prejuízo do disposto no n.o 3 do artigo 10.o da Directiva 64/432/CEE, os dados sobre a ocorrência de doença de Aujeszky, nomeadamente sobre os programas de monitorização e erradicação aplicados nos Estados-Membros enumerados no anexo II, e em outros Estados-Membros ou regiões nele não enumerados em que estão a ser aplicados programas de monitorização e erradicação, devem ser apresentados pelo menos anualmente por cada Estado-Membro, em conformidade com os critérios uniformes estabelecidos no anexo IV."
+  },
+  "ef714f4c147f2d83": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Sem prejuízo do disposto na legislação comunitária relativa aos certificados sanitários no que respeita aos animais da espécie suína destinados a Estados-Membros ou regiões enumerados nos anexos I ou II, antes de preencher a secção C do certificado sanitário requerido pela Directiva 64/432/CEE, o veterinário oficial deve certificar-se:\n\na) Do estatuto em relação à doença de Aujeszky da exploração, do Estado-Membro ou região de origem dos suínos;\n\nb) No que respeita aos suínos não provenientes de um Estado-Membro ou região isentos desta doença, do estatuto em relação à doença de Aujeszky da exploração e do Estado-Membro ou regiões de destino dos suínos em causa;\n\nc) De que os suínos em questão observam as condições estabelecidas na presente decisão.\n\n2. No que respeita aos animais da espécie suína destinados a Estados-Membros ou regiões enumerados nos anexos I ou II, a certificação constante do ponto 4 da secção C do certificado sanitário referido no n.o 1 deve ser preenchida e completada do seguinte modo:\n\na) No primeiro travessão, após o termo \"Doença\", deve ser inserido o termo \"Aujeszky\"\n\nb) No segundo travessão deve ser inserida uma referência à presente decisão. Nessa mesma linha deve ser inserido, entre parênteses, o número do artigo da presente decisão relevante para os suínos em causa."
+  },
+  "abd6b436fdcdeae3": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-Membros devem assegurar que os suínos destinados aos Estados-Membros ou regiões enumerados nos anexos I ou II não entrem em contacto com suínos de estatuto diferente ou desconhecido em relação à doença de Aujeszky durante o transporte ou o trânsito."
+  },
+  "c205278edaa72862": {
+   "fragment_id": "Artigo 9.º — São revogadas as Decisões 93/24/CEE e 93/244/CEE, com efeitos na data estabelecida no artigo 10.o,",
+   "type": "artigo",
+   "heading": "Artigo 9.º — São revogadas as Decisões 93/24/CEE e 93/244/CEE, com efeitos na data estabelecida no artigo 10.o,",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — São revogadas as Decisões 93/24/CEE e 93/244/CEE, com efeitos na data estabelecida no artigo 10.o,"
+  },
+  "ef77cb55888e238f": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA presente decisão é aplicável a partir de 1 de Julho de 2002."
+  },
+  "e534a7f148dd77b7": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 23 de Julho de 2001\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO 121 de 29.7.1964, p. 1977/64.\n\n(2) JO L 163 de 4.7.2000, p. 35.\n\n(3) JO L 16 de 25.1.1993, p. 18.\n\n(4) JO L 111 de 5.5.1993, p. 21."
+  },
+  "d2fc94816ea377ba": {
+   "fragment_id": "ANEXO I — Estados-Membros ou suas regiões isentos da doença de Aujeszky em que é proibida a vacinação",
+   "type": "divisao",
+   "heading": "ANEXO I — Estados-Membros ou suas regiões isentos da doença de Aujeszky em que é proibida a vacinação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Estados-Membros ou suas regiões isentos da doença de Aujeszky em que é proibida a vacinação\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "34b017a82d84466a": {
+   "fragment_id": "ANEXO II — Estados-Membros ou suas regiões em que são aplicados programas aprovados de controlo da doença de Aujeszky",
+   "type": "divisao",
+   "heading": "ANEXO II — Estados-Membros ou suas regiões em que são aplicados programas aprovados de controlo da doença de Aujeszky",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Estados-Membros ou suas regiões em que são aplicados programas aprovados de controlo da doença de Aujeszky\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "04190f674efe12d9": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nNormas relativas aos testes serológicos da doença de Aujeszky - Protocolo do ensaio de imunoabsorção enzimática (ELISA) para detecção de anticorpos contra o vírus da doença de Aujeszky (vírus inteiro), contra a glicoproteína B (ADV-gB), a glicoproteína D (ADV-gD) ou a glicoproteína E (ADV-gE)\n\n1. Os organismos enumerados na alínea d) do ponto 2 devem proceder à avaliação dos testes e kits ELISA ADV-gE em função dos critérios das alíneas a), b) e c) do ponto 2. A autoridade competente de cada Estado-Membro deve assegurar que apenas sejam registados kits ELISA ADV-gE que observem essas normas. Os exames enumerados nas alíneas a) e b) do ponto 2 devem ser efectuados antes da aprovação do teste, devendo, além disso, em relação a cada lote, ser efectuado pelo menos o exame da alínea c) do ponto 2.\n\n2. Estandardização, sensibilidade e especificidade do teste.\n\na) A sensibilidade do teste deve ser de molde a que os seguintes soros de referência comunitários produzam resultados positivos:\n\n- soro de referência comunitário ADV1 na diluição de 1:\n\n- soro se referência comunitário ADV-gE A,\n\n- soro de referência comunitário ADV-gE B,\n\n- soro de referência comunitário ADV-gE C,\n\n- soro de referência comunitário ADV-gE D,\n\n- soro de referência comunitário ADV-gE E,\n\n- soro de referência comunitário ADV-gE F;\n\nb) A especificidade do teste deve ser de molde a que os seguintes soros de referência CEE produzam resultados negativos:\n\n- soro de referência comunitário ADV-gE G,\n\n- soro de referência comunitário ADV-gE H,\n\n- soro de referência comunitário ADV-gE J,\n\n- soro de referência comunitário ADV-gE K,\n\n- soro de referência comunitário ADV-gE L,\n\n- soro de referência comunitário ADV-gE M,\n\n- soro de referência comunitário ADV-gE N,\n\n- soro de referência comunitário ADV-gE O,\n\n- soro de referência comunitário ADV-gE P,\n\n- soro de referência comunitário ADV-gE Q;\n\nc) No que respeita ao controlo dos lotes, o soro de referência comunitário ADV 1 deve apresentar resultados positivos na diluição 1:8 e um dos soros de referência comunitários ADV-gE G a ADV-gE Q, enumerados na alínea b), deve apresentar resultados negativos.\n\nNo que respeita ao controlo dos lotes de kits ADV-gB e ADV-gD, o soro de referência comunitário ADV 1 deve apresentar resultados positivos na diluição 1:2 e o soro de referência comunitário Q, referido na alínea b), deve apresentar resultados negativos;\n\nd) Os organismos a seguir enumerados serão igualmente responsáveis pela verificação da qualidade do método ELISA em cada Estado-Membro e, nomeadamente, pela produção e estandardização de soros de referência nacionais, de acordo com os soros de referência comunitários.\n\n- Bélgica - Centre de recherche vétérinaires et agrochimiques, 1180 Bruxelles,\n\n- Dinamarca - Statens veterinære Institut for Virusforskning, Lindholm, 4771 Kalvehave,\n\n- Alemanha - Bundesforschungsanstalt für Viruskrankheiten der Tiere, 16868 Wusterhausen,\n\n- Grécia - Veterinary Institute of Infectious and parasitic diseases, 15310 Ag. Paraskevi,\n\n- Espanha - Laboratorio Central de Veterinaria de Algete, Madrid,\n\n- França - École nationale vétérinaire, Alfort, F-94704 Maisons-Alfort,\n\n- Irlanda - Veterinary Research Laboratory, Abbotstown, Castleknock, Dublin 15,\n\n- Itália - Istituto Zooprofilattico Sperimentale delia Lombardia e dell'Emilia-Romagna, Brescia,\n\n- Luxemburgo - Laboratoire de médecine vétérinaire de l'État, L-1020 Luxembourg,\n\n- Países Baixos - Instituut voor Veehouderij en Diergezondheid (ID-DLO), 8200 AB Lelystad,\n\n- Áustria - Bundesanstalt für Virusseuchenbekämpfung bei Haustieren, 1233 Vienna,\n\n- Portugal - Laboratório nacional de investigação veterinária, 1500 Lisboa,\n\n- Finlândia - Eläinlääkintä elintarviketutkimuslaitos, 00581 Helsinki,\n\n- Suécia - Statens veterinrmedicinska anstalt, 75189 Uppsala,\n\n- Reino Unido - Veterinary Laboratory Agency, New Haw, Weybridge, Surrey KT 15 3NB."
+  },
+  "9d64b2fcb0c7655f": {
+   "fragment_id": "ANEXO IV — >PIC FILE= \"L_2001215PT.005402.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO IV — >PIC FILE= \"L_2001215PT.005402.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — >PIC FILE= \"L_2001215PT.005402.TIF\">"
+  },
+  "7eeb7c5f6cade0fd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2001D0618 — PT — 04.03.2008 — 011.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32001D0618) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/32001D0618) [de 23 de Julho de 2001](http://publications.europa.eu/resource/celex/32001D0618) [relativa a garantias adicionais em relação à doença de Aujeszky no comércio intracomunitário de suínos e a critérios de notificação desta doença e que revoga as Decisões 93/24/CEE e 93/244/CEE](http://publications.europa.eu/resource/celex/32001D0618) [[notificada com o número C(2001) 2236]](http://publications.europa.eu/resource/celex/32001D0618) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32001D0618) [(2001/618/CE)](http://publications.europa.eu/resource/celex/32001D0618) (JO L 215, 9.8.2001, p.48)\n\n**revogado por:**\n\n- [Decisão da Comissão de 21 de Fevereiro de 2008](http://publications.europa.eu/resource/celex/32008D0185) — L 59 — 19 — 4.3.2008"
+  }
+ }
+}

@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-12-11'
+version_history:
+  file: diretiva-ue-1999-93.versoes.json
+  count: 1
+  source_lastmod: '2008-12-11'
+  versions:
+  - date: '2008-12-11'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31999L0093
   eli: http://data.europa.eu/eli/dir/1999/93/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5456910f-06ec-46dc-80e6-545a5f5ecc9b.0011
   content_url: http://publications.europa.eu/resource/cellar/298daef2-0db9-4ec7-9ed2-a57f827af99d.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0093-20081211
-  retrieved_at: '2026-10-22T02:40:28Z'
+  retrieved_at: '2026-10-22T14:48:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-13T13:21:19.625+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:28Z'
-  notes: Texto consolidado 01999L0093-20081211.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:00Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-1999-93.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -162,29 +171,20 @@ relationships:
   date: '2014-08-28'
 article_structure:
   article_count: 15
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:28Z'
-  warnings: []
+  checked_at: '2026-10-22T14:48:00Z'
+  warnings:
+  - '01999L0093-20000119: versão indisponível (Sem expressão na língua por para CELEX 01999L0093-20000119.)'
   errors: []
 ---
 
 # Directiva 1999/93/CE do Parlamento Europeu e do Conselho, de 13 de Dezembro de 1999
-
-> 1999L0093 — PT — 11.12.2008 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-
-## DIRECTIVA 1999/93/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 13 de Dezembro de 1999
 

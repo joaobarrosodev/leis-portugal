@@ -34,6 +34,44 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-01-01'
+version_history:
+  file: diretiva-ue-1986-278.versoes.json
+  count: 3
+  source_lastmod: '2022-01-01'
+  versions:
+  - date: '2009-04-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-07-04'
+    amending: eu:celex:32018D0853:por
+    amending_title: DECISÃO (UE) 2018/853 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera (mg/kg de matéria seca de uma amostra representativa dos solos com pH compreendido entre 6 e 7, tal como se encontra
+      definido no Anexo II C)
+    - Altera (mg/kg de matéria seca)
+    - Altera (kg/ha/ano)
+    - Altera Notas
+    - Adita Artigo 15.º-A
+    - Suprime Artigo 14.º
+  - date: '2022-01-01'
+    amending: eu:celex:32019R1010:por
+    amending_title: REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019; ACTO (94/C 241/08)
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 10.º
+    - Altera Artigo 15.º
+    - Altera Artigo 15.º-A
+    - Altera Artigo 17.º
+    - Altera (mg/kg de matéria seca de uma amostra representativa dos solos com pH compreendido entre 6 e 7, tal como se encontra
+      definido no Anexo II C)
+    - Altera (mg/kg de matéria seca)
+    - Altera (kg/ha/ano)
+    - Altera Notas
 identifiers:
   celex: 31986L0278
   eli: http://data.europa.eu/eli/dir/1986/278/oj
@@ -48,7 +86,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f76faa39-2b27-42f2-be1e-9332f795e324.0011
   content_url: http://publications.europa.eu/resource/cellar/9f516003-4c69-11ec-91ac-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01986L0278-20220101
-  retrieved_at: '2026-10-22T02:38:05Z'
+  retrieved_at: '2026-10-22T14:34:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-18T08:49:40.768+01:00'
 integrity:
@@ -57,9 +95,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:05Z'
-  notes: Texto consolidado 01986L0278-20220101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:41Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1986-278.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -189,38 +227,23 @@ relationships:
   source: null
 article_structure:
   article_count: 18
-  section_count: 18
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 19
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:05Z'
-  warnings: []
+  checked_at: '2026-10-22T14:34:41Z'
+  warnings:
+  - '01986L0278-19860618: versão indisponível (Sem expressão na língua por para CELEX 01986L0278-19860618.)'
+  - '01986L0278-19911223: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01986L0278-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01986L0278-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 86/278/CEE do Conselho de 12 de Junho de 1986
-
-> 01986L0278 — PT — 01.01.2022 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/31991L0692) — [DIRECTIVA DO CONSELHO de 23 de Dezembro de 1991](http://publications.europa.eu/resource/celex/31991L0692) — L 377 — 48 — 31.12.1991
-- [M2](http://publications.europa.eu/resource/celex/32003R0807) — [REGULAMENTO (CE) N.º 807/2003 DO CONSELHO de 14 de Abril de 2003](http://publications.europa.eu/resource/celex/32003R0807) — L 122 — 36 — 16.5.2003
-- [M3](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) N.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-- [►M4](http://publications.europa.eu/resource/celex/32018D0853) — [DECISÃO (UE) 2018/853 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018](http://publications.europa.eu/resource/celex/32018D0853) — L 150 — 155 — 14.6.2018
-- [►M5](http://publications.europa.eu/resource/celex/32019R1010) — [REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1010) — L 170 — 115 — 25.6.2019
-
-**Alterada por:**
-
-- [A1](http://publications.europa.eu/resource/celex/11994N%2FACT) — [ACTO (94/C 241/08)](http://publications.europa.eu/resource/celex/11994N%2FACT) — C 241 — 21 — 29.8.1994
-- L 001 — 1 — ..
-
-## DIRECTIVA DO CONSELHO
 
 de 12 de Junho de 1986
 

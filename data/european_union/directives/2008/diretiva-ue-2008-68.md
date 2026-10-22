@@ -35,6 +35,277 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-12'
+version_history:
+  file: diretiva-ue-2008-68.versoes.json
+  count: 27
+  source_lastmod: '2026-05-12'
+  versions:
+  - date: '2008-09-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-03-17'
+    amending: eu:celex:32009D0240:por
+    amending_title: DECISÃO DA COMISSÃO de 4 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 14.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita TRANSPORTE RODOVIÁRIO
+    - Adita I.1. ADR
+    - Adita I.2. Disposições transitórias adicionais
+    - Adita I.3. Derrogações nacionais
+    - Adita ANEXO II
+    - Adita TRANSPORTE FERROVIÁRIO
+    - Adita II.1. RID
+    - Adita II.2. Disposições transitórias adicionais
+    - Adita II.3. Derrogações nacionais
+    - Adita ANEXO III
+    - Adita TRANSPORTE POR VIA NAVEGÁVEL INTERIOR
+    - Adita III.1. ADN
+    - Adita III.2. Disposições transitórias adicionais
+    - Adita III.3. Derrogações nacionais
+  - date: '2010-03-30'
+    amending: eu:celex:32010D0187:por
+    amending_title: DECISÃO DA COMISSÃO de 25 de Março de 2010
+    changes:
+    - Altera preambulo
+    - Altera I.3. Derrogações nacionais
+    - Altera II.3. Derrogações nacionais
+    - Altera Notas
+  - date: '2010-09-23'
+    amending: eu:celex:32010L0061:por
+    amending_title: DIRECTIVA 2010/61/UE DA COMISSÃO Texto relevante para efeitos do EEE de 2 de Setembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera I.1. ADR
+    - Altera II.1. RID
+    - Altera III.1. ADN
+    - Altera Notas
+  - date: '2011-01-18'
+    amending: eu:celex:32011D0026:por
+    amending_title: DECISÃO DA COMISSÃO, de 14 de Janeiro de 2011,
+    changes:
+    - Altera preambulo
+    - Altera I.3. Derrogações nacionais
+    - Altera II.3. Derrogações nacionais
+    - Altera Notas
+    - Adita 1. Prescrições aplicáveis aos contentores-cisterna
+    - Adita 2. Etiquetagem
+    - Adita 3. Prescrições relativas à exploração
+  - date: '2012-04-11'
+    amending: eu:celex:32012D0188:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 4 de abril de 2012
+    changes:
+    - Altera preambulo
+    - Altera I.3. Derrogações nacionais
+    - Altera 1. Prescrições aplicáveis aos contentores-cisterna
+    - Altera 2. Etiquetagem
+    - Altera 3. Prescrições relativas à exploração
+    - Altera II.3. Derrogações nacionais
+    - Altera III.3. Derrogações nacionais
+    - Altera Notas
+  - date: '2012-12-24'
+    amending: eu:celex:32012L0045:por
+    amending_title: DIRETIVA 2012/45/UE DA COMISSÃO Texto relevante para efeitos do EEE de 3 de dezembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera I.1. ADR
+    - Altera II.1. RID
+    - Altera III.1. ADN
+    - Altera Notas
+  - date: '2013-05-15'
+    amending: eu:celex:32013D0218:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 6 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera I.3. Derrogações nacionais
+    - Altera 3. Prescrições relativas à exploração
+    - Altera II.3. Derrogações nacionais
+    - Altera Notas
+  - date: '2014-12-12'
+    amending: eu:celex:32014L0103:por
+    amending_title: DIRETIVA 2014/103/UE DA COMISSÃO Texto relevante para efeitos do EEE de 21 de novembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera I.1. ADR
+    - Altera II.1. RID
+    - Altera III.1. ADN
+    - Altera Notas
+  - date: '2015-02-18'
+    amending: eu:celex:32015D0217:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2015/217 DA COMISSÃO de 10 de abril de 2014
+    changes:
+    - Altera preambulo
+    - Altera I.3. Derrogações nacionais
+    - Altera 3. Prescrições relativas à exploração
+    - Altera II.3. Derrogações nacionais
+    - Altera III.3. Derrogações nacionais
+    - Altera Notas
+  - date: '2015-06-23'
+    amending: eu:celex:32015D0974:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2015/974 DA COMISSÃO de 17 de junho de 2015
+    changes:
+    - Altera preambulo
+    - Altera I.3. Derrogações nacionais
+    - Altera 2. Etiquetagem
+    - Altera 3. Prescrições relativas à exploração
+    - Altera II.3. Derrogações nacionais
+    - Altera III.3. Derrogações nacionais
+    - Altera Notas
+  - date: '2016-04-22'
+    amending: eu:celex:32016D0629:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2016/629 DA COMISSÃO de 20 de abril de 2016
+    changes:
+    - Altera preambulo
+    - Altera I.3. Derrogações nacionais
+    - Altera 1. Prescrições aplicáveis aos contentores-cisterna
+    - Altera 3. Prescrições relativas à exploração
+    - Altera II.3. Derrogações nacionais
+    - Altera Notas
+  - date: '2017-01-09'
+    amending: eu:celex:32016L2309:por
+    amending_title: DIRETIVA (UE) 2016/2309 DA COMISSÃO Texto relevante para efeitos do EEE de 16 de dezembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera I.1. ADR
+    - Altera II.1. RID
+    - Altera III.1. ADN
+    - Suprime Notas
+  - date: '2017-04-13'
+    amending: eu:celex:32017D0695:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2017/695 DA COMISSÃO de 7 de abril de 2017
+    changes:
+    - Altera I.3. Derrogações nacionais
+    - Altera II.3. Derrogações nacionais
+    - Suprime 1. Prescrições aplicáveis aos contentores-cisterna
+    - Suprime 2. Etiquetagem
+    - Suprime 3. Prescrições relativas à exploração
+  - date: '2018-03-07'
+    amending: eu:celex:32018L0217:por
+    amending_title: DIRETIVA (UE) 2018/217 DA COMISSÃO de 31 de janeiro de 2018
+    changes:
+    - Altera I.1. ADR
+  - date: '2018-07-02'
+    amending: eu:celex:32018D0936:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2018/936 DA COMISSÃO de 29 de junho de 2018
+    changes:
+    - Altera I.3. Derrogações nacionais
+    - Altera II.3. Derrogações nacionais
+    - Altera III.3. Derrogações nacionais
+    - Adita 1. Prescrições aplicáveis aos contentores-cisterna
+    - Adita 2. Rotulagem
+    - Adita 3. Prescrições relativas à exploração
+  - date: '2019-06-27'
+    amending: eu:celex:32018L1846:por
+    amending_title: DIRETIVA (UE) 2018/1846 DA COMISSÃO Texto relevante para efeitos do EEE de 23 de novembro de 2018; DECISÃO
+      DE EXECUÇÃO (UE) 2019/1094 DA COMISSÃO Texto relevante para efeitos do EEE de 17 de junho de 2019
+    changes:
+    - Altera I.1. ADR
+    - Altera I.3. Derrogações nacionais
+    - Altera 3. Prescrições relativas à exploração
+    - Altera II.1. RID
+    - Altera II.3. Derrogações nacionais
+    - Altera III.1. ADN
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 8.º — Adaptações
+    - Altera Artigo 9.º — Procedimento de comité
+    - Adita Artigo 8.º-A — Exercício da delegação
+    - Adita Notas
+  - date: '2020-09-01'
+    amending: eu:celex:32020D1241:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2020/1241 DA COMISSÃO Texto relevante para efeitos do EEE de 28 de agosto de
+      2020
+    changes:
+    - Altera Artigo 8.º-A — Exercício da delegação
+    - Altera I.3. Derrogações nacionais
+    - Altera 3. Prescrições relativas à exploração
+    - Altera II.3. Derrogações nacionais
+    - Altera Notas
+  - date: '2020-12-24'
+    amending: eu:celex:32020L1833:por
+    amending_title: DIRETIVA DELEGADA (UE) 2020/1833 DA COMISSÃO Texto relevante para efeitos do EEE de 2 de outubro de 2020
+    changes:
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 8.º-A — Exercício da delegação
+    - Altera I.1. ADR
+    - Altera II.1. RID
+    - Altera III.1. ADN
+    - Altera Notas
+  - date: '2021-09-03'
+    amending: eu:celex:32021D1436:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2021/1436 DA COMISSÃO de 31 de agosto de 2021
+    changes:
+    - Altera Artigo 8.º-A — Exercício da delegação
+    - Altera I.3. Derrogações nacionais
+    - Altera II.3. Derrogações nacionais
+    - Altera III.3. Derrogações nacionais
+    - Altera Notas
+    - Suprime 1. Prescrições aplicáveis aos contentores-cisterna
+    - Suprime 2. Rotulagem
+    - Suprime 3. Prescrições relativas à exploração
+  - date: '2022-07-01'
+    amending: eu:celex:32022D1095:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2022/1095 DA COMISSÃO de 29 de junho de 2022
+    changes:
+    - Altera Artigo 8.º-A — Exercício da delegação
+    - Altera I.3. Derrogações nacionais
+    - Altera II.3. Derrogações nacionais
+    - Altera III.3. Derrogações nacionais
+    - Altera Notas
+  - date: '2022-12-29'
+    amending: eu:celex:32022L2407:por
+    amending_title: DIRETIVA DELEGADA (UE) 2022/2407 DA COMISSÃO de 20 de setembro de 2022
+    changes:
+    - Altera Artigo 8.º-A — Exercício da delegação
+    - Altera I.1. ADR
+    - Altera II.1. RID
+    - Altera III.1. ADN
+    - Altera Notas
+  - date: '2023-06-21'
+    amending: eu:celex:32023D1198:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2023/1198 DA COMISSÃO de 21 de junho de 2023
+    changes:
+    - Altera Artigo 8.º-A — Exercício da delegação
+    - Altera I.3. Derrogações nacionais
+    - Altera II.3. Derrogações nacionais
+    - Altera Notas
+  - date: '2024-06-28'
+    amending: eu:celex:32024D1762:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2024/1762 DA COMISSÃO de 5 de junho de 2024
+    changes:
+    - Altera Artigo 8.º-A — Exercício da delegação
+    - Altera I.3. Derrogações nacionais
+    - Altera II.3. Derrogações nacionais
+    - Altera III.3. Derrogações nacionais
+    - Altera Notas
+    - Adita Ao abrigo do artigo 6.º, n.º 2, alínea a), da Diretiva 2008/68/CE
+    - Adita Ao abrigo do artigo 6.º, n.º 2, alínea b), subalínea i), da Diretiva 2008/68/CE
+  - date: '2025-02-13'
+    amending: eu:celex:32025L0149:por
+    amending_title: DIRETIVA DELEGADA (UE) 2025/149 DA COMISSÃO de 15 de novembro de 2024
+    changes:
+    - Altera Artigo 8.º-A — Exercício da delegação
+    - Altera I.1. ADR
+    - Altera II.1. RID
+    - Altera III.1. ADN
+    - Altera Notas
+  - date: '2026-05-12'
+    amending: eu:celex:32026D1041:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2026/1041 DA COMISSÃO de 5 de maio de 2026
+    changes:
+    - Altera Artigo 8.º-A — Exercício da delegação
+    - Altera I.3. Derrogações nacionais
+    - Altera II.3. Derrogações nacionais
+    - Altera III.3. Derrogações nacionais
+    - Altera Notas
+    - Suprime Ao abrigo do artigo 6.º, n.º 2, alínea a), da Diretiva 2008/68/CE
+    - Suprime Ao abrigo do artigo 6.º, n.º 2, alínea b), subalínea i), da Diretiva 2008/68/CE
 identifiers:
   celex: 32008L0068
   eli: http://data.europa.eu/eli/dir/2008/68/oj
@@ -49,7 +320,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c92b5ba4-8647-4bb4-8924-e7bbd440f1fc.0018
   content_url: http://publications.europa.eu/resource/cellar/3654014d-5e9c-11f1-aa6d-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0068-20260512
-  retrieved_at: '2026-10-22T02:36:37Z'
+  retrieved_at: '2026-10-22T15:13:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T14:24:31.913+01:00'
 integrity:
@@ -58,9 +329,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:37Z'
-  notes: Texto consolidado 02008L0068-20260512.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:13:21Z'
+  notes: 27 versão(ões); histórico completo em diretiva-ue-2008-68.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -423,55 +694,19 @@ relationships:
   source: null
 article_structure:
   article_count: 15
-  section_count: 15
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 16
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:37Z'
+  checked_at: '2026-10-22T15:13:21Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2008/68/CE do Parlamento Europeu e do Conselho, de 24 de Setembro de 2008
-
-> 02008L0068 — PT — 12.05.2026 — 027.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32009D0240) — [DECISÃO DA COMISSÃO de 4 de Março de 2009](http://publications.europa.eu/resource/celex/32009D0240) — L 71 — 23 — 17.3.2009
-- [M2](http://publications.europa.eu/resource/celex/32010D0187) — [DECISÃO DA COMISSÃO de 25 de Março de 2010](http://publications.europa.eu/resource/celex/32010D0187) — L 83 — 24 — 30.3.2010
-- [M3](http://publications.europa.eu/resource/celex/32010L0061) — [DIRECTIVA 2010/61/UE DA COMISSÃO de 2 de Setembro de 2010](http://publications.europa.eu/resource/celex/32010L0061) — L 233 — 27 — 3.9.2010
-- [M4](http://publications.europa.eu/resource/celex/32011D0026) — [DECISÃO DA COMISSÃO, de 14 de Janeiro de 2011,](http://publications.europa.eu/resource/celex/32011D0026) — L 13 — 64 — 18.1.2011
-- [M5](http://publications.europa.eu/resource/celex/32012D0188) — [DECISÃO DE EXECUÇÃO DA COMISSÃO de 4 de abril de 2012](http://publications.europa.eu/resource/celex/32012D0188) — L 101 — 18 — 11.4.2012
-- [M6](http://publications.europa.eu/resource/celex/32012L0045) — [DIRETIVA 2012/45/UE DA COMISSÃO de 3 de dezembro de 2012](http://publications.europa.eu/resource/celex/32012L0045) — L 332 — 18 — 4.12.2012
-- [M7](http://publications.europa.eu/resource/celex/32013D0218) — [DECISÃO DE EXECUÇÃO DA COMISSÃO de 6 de maio de 2013](http://publications.europa.eu/resource/celex/32013D0218) — L 130 — 26 — 15.5.2013
-- [M8](http://publications.europa.eu/resource/celex/32014L0103) — [DIRETIVA 2014/103/UE DA COMISSÃO de 21 de novembro de 2014](http://publications.europa.eu/resource/celex/32014L0103) — L 335 — 15 — 22.11.2014
-- [M9](http://publications.europa.eu/resource/celex/32015D0217) — [DECISÃO DE EXECUÇÃO (UE) 2015/217 DA COMISSÃO de 10 de abril de 2014](http://publications.europa.eu/resource/celex/32015D0217) — L 44 — 1 — 18.2.2015
-- [M10](http://publications.europa.eu/resource/celex/32015D0974) — [DECISÃO DE EXECUÇÃO (UE) 2015/974 DA COMISSÃO de 17 de junho de 2015](http://publications.europa.eu/resource/celex/32015D0974) — L 157 — 53 — 23.6.2015
-- [M11](http://publications.europa.eu/resource/celex/32016D0629) — [DECISÃO DE EXECUÇÃO (UE) 2016/629 DA COMISSÃO de 20 de abril de 2016](http://publications.europa.eu/resource/celex/32016D0629) — L 106 — 26 — 22.4.2016
-- [M12](http://publications.europa.eu/resource/celex/32016L2309) — [DIRETIVA (UE) 2016/2309 DA COMISSÃO de 16 de dezembro de 2016](http://publications.europa.eu/resource/celex/32016L2309) — L 345 — 48 — 20.12.2016
-- [M13](http://publications.europa.eu/resource/celex/32017D0695) — [DECISÃO DE EXECUÇÃO (UE) 2017/695 DA COMISSÃO de 7 de abril de 2017](http://publications.europa.eu/resource/celex/32017D0695) — L 101 — 37 — 13.4.2017
-- [M14](http://publications.europa.eu/resource/celex/32018L0217) — [DIRETIVA (UE) 2018/217 DA COMISSÃO de 31 de janeiro de 2018](http://publications.europa.eu/resource/celex/32018L0217) — L 42 — 52 — 15.2.2018
-- [M15](http://publications.europa.eu/resource/celex/32018D0936) — [DECISÃO DE EXECUÇÃO (UE) 2018/936 DA COMISSÃO de 29 de junho de 2018](http://publications.europa.eu/resource/celex/32018D0936) — L 165 — 42 — 2.7.2018
-- [M16](http://publications.europa.eu/resource/celex/32018L1846) — [DIRETIVA (UE) 2018/1846 DA COMISSÃO de 23 de novembro de 2018](http://publications.europa.eu/resource/celex/32018L1846) — L 299 — 58 — 26.11.2018
-- [M17](http://publications.europa.eu/resource/celex/32019D1094) — [DECISÃO DE EXECUÇÃO (UE) 2019/1094 DA COMISSÃO de 17 de junho de 2019](http://publications.europa.eu/resource/celex/32019D1094) — L 173 — 52 — 27.6.2019
-- [►M18](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [M19](http://publications.europa.eu/resource/celex/32020D1241) — [DECISÃO DE EXECUÇÃO (UE) 2020/1241 DA COMISSÃO de 28 de agosto de 2020](http://publications.europa.eu/resource/celex/32020D1241) — L 284 — 9 — 1.9.2020
-- [M20](http://publications.europa.eu/resource/celex/32020L1833) — [DIRETIVA DELEGADA (UE) 2020/1833 DA COMISSÃO de 2 de outubro de 2020](http://publications.europa.eu/resource/celex/32020L1833) — L 408 — 1 — 4.12.2020
-- [M21](http://publications.europa.eu/resource/celex/32021D1436) — [DECISÃO DE EXECUÇÃO (UE) 2021/1436 DA COMISSÃO de 31 de agosto de 2021](http://publications.europa.eu/resource/celex/32021D1436) — L 312 — 3 — 3.9.2021
-- [M22](http://publications.europa.eu/resource/celex/32022D1095) — [DECISÃO DE EXECUÇÃO (UE) 2022/1095 DA COMISSÃO de 29 de junho de 2022](http://publications.europa.eu/resource/celex/32022D1095) — L 176 — 33 — 1.7.2022
-- [M23](http://publications.europa.eu/resource/celex/32022L2407) — [DIRETIVA DELEGADA (UE) 2022/2407 DA COMISSÃO de 20 de setembro de 2022](http://publications.europa.eu/resource/celex/32022L2407) — L 317 — 64 — 9.12.2022
-- [M24](http://publications.europa.eu/resource/celex/32023D1198) — [DECISÃO DE EXECUÇÃO (UE) 2023/1198 DA COMISSÃO de 21 de junho de 2023](http://publications.europa.eu/resource/celex/32023D1198) — L 158 — 73 — 21.6.2023
-- [M25](http://publications.europa.eu/resource/celex/32024D1762) — [DECISÃO DE EXECUÇÃO (UE) 2024/1762 DA COMISSÃO de 5 de junho de 2024](http://publications.europa.eu/resource/celex/32024D1762) — L 1762 — 1 — 28.6.2024
-- [►M26](http://publications.europa.eu/resource/celex/32025L0149) — [DIRETIVA DELEGADA (UE) 2025/149 DA COMISSÃO de 15 de novembro de 2024](http://publications.europa.eu/resource/celex/32025L0149) — L 149 — 1 — 24.1.2025
-- [►M27](http://publications.europa.eu/resource/celex/32026D1041) — [DECISÃO DE EXECUÇÃO (UE) 2026/1041 DA COMISSÃO de 5 de maio de 2026](http://publications.europa.eu/resource/celex/32026D1041) — L 1041 — 1 — 12.5.2026
-
-## DIRECTIVA 2008/68/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 24 de Setembro de 2008
 

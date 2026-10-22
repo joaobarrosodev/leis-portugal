@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2004-77.versoes.json
+  count: 1
+  source_lastmod: '2008-02-20'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32004L0077
   eli: http://data.europa.eu/eli/dir/2004/77/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/35ac6e86-6ca4-4063-8ff4-b7432f8c7dc6.0010
   content_url: http://publications.europa.eu/resource/cellar/35ac6e86-6ca4-4063-8ff4-b7432f8c7dc6.0010.05/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:11:49Z'
+  retrieved_at: '2026-10-22T14:57:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-09-29T11:20:19.113+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:49Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:21Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2004-77.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -108,21 +117,21 @@ relationships:
   date: '2008-02-01'
 article_structure:
   article_count: 5
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:49Z'
+  checked_at: '2026-10-22T14:57:21Z'
   warnings:
-  - Versão consolidada 02004L0077-20080220 indisponível (Sem expressão na língua por para CELEX 02004L0077-20080220.); usado
-    o texto do JO.
+  - '02004L0077-20040520: versão indisponível (Sem expressão na língua por para CELEX 02004L0077-20040520.)'
+  - '02004L0077-20080220: versão indisponível (Sem expressão na língua por para CELEX 02004L0077-20080220.)'
   errors: []
 ---
 
-# DIRECTIVA 2004/77/CE DA COMISSÃO
+# Directiva 2004/77/CE da Comissão, de 29 de Abril de 2004
 
 de 29 de Abril de 2004
 

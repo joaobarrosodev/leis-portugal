@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31985L0591:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01985L0591-20060101",
+ "dre_path": null,
+ "source_lastmod": "2006-01-01",
+ "versions": [
+  {
+   "date": "1985-12-31",
+   "future": false,
+   "celex": "31985L0591",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3c6423320733dc5a",
+    "ccf2a23f89420239",
+    "b7e88b0dfd1d2f6d",
+    "0bcc9dc93c2abb33",
+    "7f9bd53b34ca2c90",
+    "c2d9feb4386cbaf9",
+    "0145e01de2a5b08f",
+    "fbd9206414a8d681"
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "celex": "01985L0591-20060101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "8a329219725a8cb7"
+   ]
+  }
+ ],
+ "fragments": {
+  "3c6423320733dc5a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 85/591/CEE do Conselho, de 20 de Dezembro de 1985, relativa à introdução de modos de colheita de amostras e de métodos de análise comunitários para o controlo dos géneros destinados à alimentação humana** *Jornal Oficial nº L 372 de 31/12/1985 p. 0050 - 0052 Edição especial finlandesa: Capítulo 13 Fascículo 15 p. 0015 Edição especial espanhola: Capítulo 13 Fascículo 19 p. 0054 Edição especial sueca: Capítulo 13 Fascículo 15 p. 0015 Edição especial portuguesa: Capítulo 13 Fascículo 19 p. 0054*\n\nDIRECTIVA DO CONSELHO de 20 de Dezembro de 1985 relativa à introdução de modos de colheita de amostras e de métodos de análise comunitários para o controlo dos géneros destinados à alimentação humana\n\n(85/591/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a produção, o fabrico, a comercialização e a utilização dos géneros destinados à alimentação humana têm um lugar muito importante na Comunidade Económica Europeia;\n\nConsiderando que os modos de colheita de amostras e os métodos de análise utilizados para esse efeito podem ter uma incidência directa no estabelecimento e no funcionamento do mercado comum; que é conveniente, pois, harmonizá-los;\n\nConsiderando que a fixação desses modos de colheita de amostras e métodos de análise constitui exclusivamente uma medida de carácter técnico e científico; que, para os desenvolver, melhorar e completar, é necessário um procedimento rápido; que, para facilitar a adopção de tais medidas, é conveniente prever um procedimento que instaure uma cooperação estreita entre os Estados-membros e a Comissão, no âmbito do Comité Permanente dos Géneros Alimentícios,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "ccf2a23f89420239": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Quando for necessário introduzir modos de colheita de amostras ou métodos de análise comunitários, destinados a determinar a composição, as características de fabrico, o acondicionamento ou a rotulagem de um género alimentício, esses modos ou métodos serão adoptados pela Comissão, se for caso disso pelo Conselho, em conformidade com o procedimento previsto no artigo 4o.\n\n2. O no 1 não prejudica disposições especiais em vigor ou que venham a ser adoptadas no âmbito das regulamentações comunitárias específicas.\n\n3. Para determinar a necessidade de introduzir as medidas previstas no no 1, tomar-se-à em consideração, nomeadamente:\n\na) A necessidade de assegurar uma aplicação uniforme da legislação comunitária;\n\nb) A existência de entraves ao comércio intracomunitário;\n\nc) O carácter permanente ou repetitivo dos critérios referidos nas alíneas a) ou b)."
+  },
+  "b7e88b0dfd1d2f6d": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. As directivas previstas no artigo 1o terão em conta o estado dos conhecimentos científicos ou técnicos, em especial dos modos de colheita de amostras e dos métodos de análise já comprovados.\n\n2. Essas directivas preverão prazos adequados para a sua aplicação pelos Estados-membros.\n\n3. A introdução das medidas previstas no no 1 do artigo 1o não obsta a que os Estados-membros utilizem outros modos ou métodos comprovados e cientificamente válidos, desde que a livre circulação dos produtos reconhecidos como conformes à regulamentação em aplicação dos modos ou métodos comunitários não seja assim entravada. Todavia, em caso de divergência de interpretação dos resultados, os obtidos por meio dos modos ou métodos comunitários serão determinantes.\n\n4. Os métodos de análise a introduzir serão conformes aos critérios estabelecidos no anexo.\n\n5. Sem prejuízo do artigo 3o, as alterações das directivas existentes, tornadas necessárias pela evolução científica e técnica, podem, a pedido de um Estado-membro, ser adoptadas de acordo com o procedimento previsto no artigo 4o."
+  },
+  "0bcc9dc93c2abb33": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Quando um Estado-membro verificar, com base numa motivação circunstanciada, que uma medida adoptada em conformidade com o artigo 1o é inadequada num caso especial por razões técnicas, ou, num caso determinado, não suficientemente explicativa para permitir examinar uma questão importante no plano da saúde humana, esse Estado-membro pode suspender provisoriamente no seu território a aplicação da media em questão e unicamente para esse caso especial. Desse facto informará imediatamente os outros Estados-membros e a Comissão, indicando os motivos da sua decisão.\n\n2. A Comissão examinará, o mais rapidamente possível, os motivos invocados pelo Estado-membro interessado e procederá à consulta dos Estados-membros no âmbito do Comité Permanente dos Géneros Alimentícios referido no artigo 4o; em seguida emitirá sem tardar o seu parecer e tomará as medidas adequadas.\n\n3. Se a Comissão considerar que são necessárias alterações à medida adoptada em conformidade com o artigo 1o, para resolver as dificuldades invocadas no no 1, dará início ao procedimento previsto no artigo 4o. Neste caso, o Estado-membro que tiver suspendido a aplicação da medida comunitária pode manter essa suspensão até à entrada em vigor dessas alterações."
+  },
+  "7f9bd53b34ca2c90": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Quando for feita remissão para o procedimento definido no presente artigo, o assunto será submetido à apreciação do Comité Permanente dos Géneros Alimentícios, instituído pela Decisão 69/414/CEE (4), a seguir denominado «Comité», pelo seu presidente, quer por sua iniciativa, quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submeterá ao Comité um projecto de medidas a tomar. O Comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão. Pronunciar-se-á por maioria de quarenta e cinco votos, sendo atribuída aos votos dos Estados-membros a ponderação prevista no no 2 do artigo 148o do tratado. O presidente não participará na votação.\n\n3. a) A Comissão adoptará as medidas preconizadas se forem conformes ao parecer de Comité;\n\nb) Quando as medidas preconizadas não forem conformes ao parecer do Comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas am tomar. O Conselho deliberará por maioria qualificada;\n\nc) Se, no termo de um prazo de três meses a contar da data da apresentação da proposta ao Conselho, este não tiver deliberado, as medidas propostas serão adoptadas pela Comissão."
+  },
+  "c2d9feb4386cbaf9": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nNo prazo de dois anos a contar da notificação da presente directiva (5), os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Desse facto informarão imediatamente a Comissão."
+  },
+  "0145e01de2a5b08f": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 20 de Dezembro de 1985.\n\nPelo Conselho\n\nO Presidente\n\nR. STEICHEN\n\n(1) JO no C 53 de 24. 2. 1984, p. 9.(2) JO no C 46 de 18. 2. 1985, p. 95.(3) JO no C 44 de 15. 2. 1985, p. 1.(4) JO no C 291 de 19. 11. 1969, p. 9.(5) A presente directiva foi notificada aos Estados-membros em 23 de Dezembro de 1985."
+  },
+  "fbd9206414a8d681": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1. Os métodos de análise a adoptar em conformidade com as disposições da presente directiva devem ser examinados em relação aos critérios seguintes:\n\ni) Especificidade;\n\nii) Exactidão;\n\niii) Precisão: repetibilidade no mesmo laboratório e reprodutibilidade no tempo no mesmo laboratório ou em laboratórios diferentes; variabilidade;\n\niv) Limite de detecção;\n\nv) Sensibilidade;\n\nvi) Practicabilidade e aplicabilidade;\n\nvii) Outros critérios que possam ser determinados conforme as necessidades.\n\n2. Os valores que caracterizam a precisão referida na alínea iii) do ponto 1 serão obtidos a partir de um ensaio colectivo conduzido de acordo com um protocolo internacionalmente reconhecido para esse tipo de ensaio (por exemplo, «Precisão dos Métodos de Ensaio», publicado pela Organização Internacional de Normalização, ISO 5725/1981). Os valores respectivos da repetibilidade e da reprodutibilidade serão expressos numa forma reconhecida no plano internacional (por exemplo, intervalos de confiança de 95 %, tais como definidos na norma ISO 5725/1981). Os resultados do ensaio colectivo serão publicados ou acessiveis sem restrições.\n\n3. Os métodos de análise uniformemente aplicáveis a vários grupos de produtos devem ser preferidos em relação aos métodos aplicáveis unicamente a produtos específicos.\n\n4. Os métodos de análise adoptados em conformidade com a presente directiva devem ser formulados de acordo com a apresentação normalizada dos métodos de análise, preconizados pela Organização Internacional de Normalização."
+  },
+  "8a329219725a8cb7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1985L0591 — PT — 01.01.2006 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31985L0591) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31985L0591) [de 20 de Dezembro de 1985](http://publications.europa.eu/resource/celex/31985L0591) [relativa à introdução de modos de colheita de amostras e de métodos de análise comunitários para o controlo dos géneros destinados à alimentação humana](http://publications.europa.eu/resource/celex/31985L0591) [(85/591/CEE)](http://publications.europa.eu/resource/celex/31985L0591) (JO L 372, 31.12.1985, p.50)\n\n**revogado por:**\n\n- [Regulamento (CE) N.o 882/2004 do Parlamento Europeu e do Conselho de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0882) — L 165 — 1 — 30.4.2004"
+  }
+ }
+}

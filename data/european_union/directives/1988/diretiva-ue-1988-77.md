@@ -34,6 +34,34 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-11-09'
+version_history:
+  file: diretiva-ue-1988-77.versoes.json
+  count: 2
+  source_lastmod: '2006-11-09'
+  versions:
+  - date: '1988-02-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-11-09'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime ANEXO III PROCESSO DE ENSAIO
+    - 'Suprime ANEXO V SISTEMAS DE ANÁLISE — Descrevem-se três sistemas de análise, baseados na utilização de: - analisador
+      HFID para a medição de hidrocarbonetos,'
+    - Suprime ANEXO VI CONVERSÃO DAS CONCENTRAÇÕES DE CO E DE NOx EM UMA BASE HÚMIDA
+    - 'Suprime ANEXO VII FACTOR DE CORRECÇÃO DE HUMIDADE DOS ÓXIDOS DE AZOTO — Os valores dos óxidos de azoto devem ser multiplicados
+      pelo seguinte factor de correcção de humidade: >PIC FILE= "T0046368">'
+    - Suprime ANEXO VIII (MODELO) FICHA DE RECEPÇÃO CEE — >PIC FILE= "T0046369">
 identifiers:
   celex: 31988L0077
   eli: http://data.europa.eu/eli/dir/1988/77/oj
@@ -48,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/367127bb-c4f7-4a2c-83f4-5710e89f2613.0011
   content_url: http://publications.europa.eu/resource/cellar/d7f07259-c72d-4fe0-b492-6af6aee4bcd9.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01988L0077-20061109
-  retrieved_at: '2026-10-22T02:36:31Z'
+  retrieved_at: '2026-10-22T14:35:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T08:54:20.072+01:00'
 integrity:
@@ -57,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:31Z'
-  notes: Texto consolidado 01988L0077-20061109.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:35:15Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1988-77.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -209,16 +237,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:31Z'
+  checked_at: '2026-10-22T14:35:15Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01988L0077-19911011: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01988L0077-20000216: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01988L0077-20010421: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01988L0077-20040501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

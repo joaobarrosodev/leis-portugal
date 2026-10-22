@@ -1,0 +1,129 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997L0034:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997L0034-19970707",
+ "dre_path": null,
+ "source_lastmod": "1997-07-07",
+ "versions": [
+  {
+   "date": "1997-06-17",
+   "future": false,
+   "celex": "31997L0034",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "350279691436ca08",
+    "5112dfc40cec8423",
+    "e01120c3744f0299",
+    "6933a0293a43d060",
+    "316a93d27c2c4536"
+   ]
+  },
+  {
+   "date": "1997-07-07",
+   "future": false,
+   "celex": "01997L0034-19970707",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º"
+   ],
+   "fragments": [
+    "9b49373de4d8e06e",
+    "d04e061a24f9564d",
+    "bfb6da5231130d68",
+    "271594770ecf7591",
+    "da70f3c7eb52c720"
+   ]
+  }
+ ],
+ "fragments": {
+  "350279691436ca08": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 97/34/CE da Comissão de 6 de Junho de 1997 que altera a Directiva 93/75/CEE do Conselho relativa às condições mínimas exigidas aos navios com destino aos portos marítimos da Comunidade ou que deles saiam transportando mercadorias perigosas ou poluentes (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 158 de 17/06/1997 p. 0040 - 0040*\n\nDIRECTIVA 97/26/CE DA COMISSÃO de 6 de Junho de 1997 que altera a Directiva 93/75/CEE do Conselho relativa às condições mínimas exigidas aos navios com destino aos portos marítimos da Comunidade ou que deles saiam transportando mercadorias perigosas ou poluentes (Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 93/75/CEE do Conselho, de 13 de Setembro de 1993, relativa às condições mínimas exigidas aos navios com destino aos portos marítimos da Comunidade ou que deles saiam transportando mercadorias perigosas ou poluentes (1), alterada pela Directiva 96/39/CE da Comissão (2), e, nomeadamente, o seu artigo 11º;\n\nConsiderando que, para os efeitos da Directiva 93/75/CEE, a alínea f) do artigo 2º especifica que o Código Marítimo Internacional para o Transporte de Mercadorias Perigosas (código IMDG) aplicável é o que estiver em vigor em 1 de Janeiro de 1996;\n\nConsiderando que o código IMDG foi novamente alterado pelo Comité de Segurança Marítima na sua sexagésima sexta sessão; que a alteração nº 28-1996 ao código IMDG entrou em vigor em 1 de Janeiro de 1997;\n\nConsiderando que é adequado aplicar a referida alteração para efeitos da directiva;\n\nConsiderando que as disposições da presente directiva estão em conformidade com o parecer do comité a que se refere o artigo 12º da Directiva 93/75/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "5112dfc40cec8423": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA Directiva 93/75/CEE é alterada do seguinte modo:\n\nNa alínea f) do artigo 2º, a frase «em vigor em 1 de Janeiro de 1996» é substituída pela frase «em vigor em 1 de Janeiro de 1997»."
+  },
+  "e01120c3744f0299": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 30 de Setembro de 1997. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência quando da sua publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito nacional que adoptarem no domínio regido pela presente directiva."
+  },
+  "6933a0293a43d060": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "316a93d27c2c4536": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 6 de Junho de 1997.\n\nPela Comissão\n\nNeil KINNOCK\n\nMembro da Comissão\n\n(1) JO nº L 247 de 5. 10. 1993, p. 19.\n\n(2) JO nº L 196 de 7. 8. 1996, p. 7."
+  },
+  "9b49373de4d8e06e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1997L0034 — PT — 07.07.1997 — 000.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0034:PT:NOT) [▼C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:20::NOT) [DIRECTIVA 97/34/CE DA COMISSÃO de 6 de Junho de 1997 que altera a Directiva 93/75/CEE do Conselho relativa às condições mínimas exigidas aos navios com destino aos portos marítimos da Comunidade ou que deles saiam transportando mercadorias perigosas ou poluentes](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0034:PT:NOT) [▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0034:PT:NOT) (JO L 158, 17.6.1997, p.40)\n\nRectificado por:\n\n[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0034R(01):PT:NOT) [Rectificação, JO L 162, 19.6.1997, p. 56 (97/34)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0034R(01):PT:NOT)\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0034:PT:NOT)\n\n[▼C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:20::NOT)\n\nDIRECTIVA 97/34/CE DA COMISSÃO\n\nde 6 de Junho de 1997\n\nque altera a Directiva 93/75/CEE do Conselho relativa às condições mínimas exigidas aos navios com destino aos portos marítimos da Comunidade ou que deles saiam transportando mercadorias perigosas ou poluentes\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0034:PT:NOT)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 93/75/CEE do Conselho, de 13 de Setembro de 1993, relativa às condições mínimas exigidas aos navios com destino aos portos marítimos da Comunidade ou que deles saiam transportando mercadorias perigosas ou poluentes ([1](http://publications.europa.eu/resource/cellar/0db3f00d-516a-4095-bbd2-eb8000831aa1.0010.02/DOC_1#E0001)), alterada pela Directiva 96/39/CE da Comissão ([2](http://publications.europa.eu/resource/cellar/0db3f00d-516a-4095-bbd2-eb8000831aa1.0010.02/DOC_1#E0002)), e, nomeadamente, o seu artigo 11.o;\n\nConsiderando que, para os efeitos da Directiva 93/75/CEE, a alínea f) do artigo 2.o especifica que o Código Marítimo Internacional para o Transporte de Mercadorias Perigosas (código IMDG) aplicável é o que estiver em vigor em 1 de Janeiro de 1996;\n\nConsiderando que o código IMDG foi novamente alterado pelo Comité de Segurança Marítima na sua sexagésima sexta sessão; que a alteração n.o 28-1996 ao código IMDG entrou em vigor em 1 de Janeiro de 1997;\n\nConsiderando que é adequado aplicar a referida alteração para efeitos da directiva;\n\nConsiderando que as disposições da presente directiva estão em conformidade com o parecer do comité a que se refere o artigo 12.o da Directiva 93/75/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d04e061a24f9564d": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Directiva 93/75/CEE é alterada do seguinte modo:\n\nNa alínea f) do artigo 2.o, a frase «em vigor em 1 de Janeiro de 1996» é substituída pela frase «em vigor em 1 de Janeiro de 1997»."
+  },
+  "bfb6da5231130d68": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 30 de Setembro de 1997. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência quando da sua publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito nacional que adoptarem no domínio regido pela presente directiva."
+  },
+  "271594770ecf7591": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "da70f3c7eb52c720": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n([1](http://publications.europa.eu/resource/cellar/0db3f00d-516a-4095-bbd2-eb8000831aa1.0010.02/DOC_1#src.E0001)) JO n.o L 247 de 5. 10. 1993, p. 19.\n\n([2](http://publications.europa.eu/resource/cellar/0db3f00d-516a-4095-bbd2-eb8000831aa1.0010.02/DOC_1#src.E0002)) JO n.o L 196 de 7. 8. 1996, p. 7."
+  }
+ }
+}

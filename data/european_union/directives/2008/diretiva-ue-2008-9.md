@@ -35,6 +35,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-10-01'
+version_history:
+  file: diretiva-ue-2008-9.versoes.json
+  count: 2
+  source_lastmod: '2010-10-01'
+  versions:
+  - date: '2008-02-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-10-01'
+    amending: eu:celex:32010L0066:por
+    amending_title: DIRECTIVA 2010/66/UE DO CONSELHO de 14 de Outubro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 11.º
+    - Altera Artigo 15.º
+    - Altera Artigo 31.º
+    - Altera Notas
 identifiers:
   celex: 32008L0009
   eli: http://data.europa.eu/eli/dir/2008/9/oj
@@ -49,7 +68,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/43f0a70a-29a2-4461-8347-2ca6687e45c6.0018
   content_url: http://publications.europa.eu/resource/cellar/5415d4c5-9e49-4b18-b10e-7df1013587c0.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0009-20101001
-  retrieved_at: '2026-10-22T02:52:28Z'
+  retrieved_at: '2026-10-22T15:12:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T04:12:52.702+01:00'
 integrity:
@@ -58,9 +77,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:28Z'
-  notes: Texto consolidado 02008L0009-20101001.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:12:34Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2008-9.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -156,29 +175,19 @@ relationships:
   date: '1979-12-27'
 article_structure:
   article_count: 31
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:28Z'
+  checked_at: '2026-10-22T15:12:34Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2008/9/CE do Conselho, de 12 de Fevereiro de 2008
-
-> 2008L0009 — PT — 01.10.2010 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010L0066) — [DIRECTIVA 2010/66/UE DO CONSELHO de 14 de Outubro de 2010](http://publications.europa.eu/resource/celex/32010L0066) — L 275 — 1 — 20.10.2010
-
-## DIRECTIVA 2008/9/CE DO CONSELHO
 
 de 12 de Fevereiro de 2008
 

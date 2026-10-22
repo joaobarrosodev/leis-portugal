@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-1996-29.versoes.json
+  count: 1
+  source_lastmod: '2000-05-13'
+  versions:
+  - date: '1996-06-29'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31996L0029
   eli: http://data.europa.eu/eli/dir/1996/29/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ca166344-9426-48b7-91ea-538c1b0415fd.0009
   content_url: http://publications.europa.eu/resource/cellar/ca166344-9426-48b7-91ea-538c1b0415fd.0009.01/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:35:40Z'
+  retrieved_at: '2026-10-22T14:45:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T07:07:52.229+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:40Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:45:05Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-1996-29.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -301,17 +310,15 @@ relationships:
 article_structure:
   article_count: 38
   section_count: 25
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:40Z'
+  checked_at: '2026-10-22T14:45:05Z'
   warnings:
-  - Versão consolidada 01996L0029-20000513 indisponível (Sem expressão na língua por para CELEX 01996L0029-20000513.); usado
-    o texto do JO.
-  - Não foi detetado o título principal no XHTML.
+  - '01996L0029-20000513: versão indisponível (Sem expressão na língua por para CELEX 01996L0029-20000513.)'
   errors: []
 ---
 

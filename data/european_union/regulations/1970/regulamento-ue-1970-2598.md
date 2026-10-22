@@ -34,6 +34,23 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-06-30'
+version_history:
+  file: regulamento-ue-1970-2598.versoes.json
+  count: 2
+  source_lastmod: '2006-06-30'
+  versions:
+  - date: '1970-12-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-06-30'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo único
+    - Suprime ANEXO I — DELIMITAÇÃO DA NOÇÃO DE INFRA-ESTRUTURA DE TRANSPORTE
+    - Suprime ANEXO II
 identifiers:
   celex: 31970R2598
   eli: http://data.europa.eu/eli/reg/1970/2598/oj
@@ -48,7 +65,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1e92b58c-d3e5-4cc1-9357-a6bcd67e9bbc.0011
   content_url: http://publications.europa.eu/resource/cellar/ea285055-767f-4199-8849-198aa7f55e4e.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01970R2598-20060630
-  retrieved_at: '2026-10-22T02:54:12Z'
+  retrieved_at: '2026-10-22T14:29:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T07:47:22.788+01:00'
 integrity:
@@ -57,9 +74,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:54:12Z'
-  notes: Texto consolidado 01970R2598-20060630.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:29:49Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1970-2598.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -105,16 +122,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:54:12Z'
+  checked_at: '2026-10-22T14:29:49Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01970R2598-19780928: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970R2598-20040520: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

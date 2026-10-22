@@ -1,0 +1,258 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31995D0411:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995D0411-20060101",
+ "dre_path": null,
+ "source_lastmod": "2006-01-01",
+ "versions": [
+  {
+   "date": "1995-10-11",
+   "future": false,
+   "celex": "31995D0411",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "eff731f298c5895f",
+    "fab61fdce5dacebf",
+    "50f97e23d5055bc0",
+    "982eaf2d8b2e8fdf",
+    "81a9d9979ec3bbf0",
+    "9e3f5f764518da96",
+    "9b71825dee73590f",
+    "4fa28c0a510cf503",
+    "3d76af3aa24b68d3",
+    "cdbdc22c7db8938b"
+   ]
+  },
+  {
+   "date": "1998-03-24",
+   "future": false,
+   "celex": "01995D0411-19980324",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita ANEXO — SECÇÃO A",
+    "Adita SECÇÃO B — NÚMERO DE AMOSTRAS A COLHER",
+    "Adita SECÇÃO C — MÉTODO MICROBIOLÓGICO PARA ANÁLISE DAS AMOSTRAS",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime ANEXO — SECÇÃO A MÉTODO DE AMOSTRAGEM",
+    "Suprime SECÇÃO B NÚMERO DE AMOSTRAS A COLHER",
+    "Suprime SECÇÃO C MÉTODO DE ANÁLISE MICROBIOLÓGICA DAS AMOSTRAS"
+   ],
+   "fragments": [
+    "084aca09e0a5c2c8",
+    "dd6599c2e002db51",
+    "3ffbbbf019b9bfb2",
+    "38732b8b1257fa4f",
+    "c5e41948e121279e",
+    "420dc8aa82a4c477",
+    "99fb844e0ba7b1ae",
+    "f980c66c00bc1f54",
+    "ca4df8fe8599bd59",
+    "5b13c3a92b97c892"
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "celex": "01995D0411-20060101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime ANEXO — SECÇÃO A",
+    "Suprime SECÇÃO B — NÚMERO DE AMOSTRAS A COLHER",
+    "Suprime SECÇÃO C — MÉTODO MICROBIOLÓGICO PARA ANÁLISE DAS AMOSTRAS"
+   ],
+   "fragments": [
+    "9ea0e0f3487871fd"
+   ]
+  }
+ ],
+ "fragments": {
+  "eff731f298c5895f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**95/411/CE: Decisão do Conselho, de 22 de Junho de 1995, que estabelece as regras relativas às análises microbiológicas por amostragem a efectuar, em matéria de salmonelas, nas carnes frescas de aves de capoeira destinadas à Finlândia e à Suécia** *Jornal Oficial nº L 243 de 11/10/1995 p. 0029 - 0032*\n\nDECISÃO DO CONSELHO\n\nde 22 de Junho de 1995\n\nque estabelece as regras relativas às análises microbiológicas por amostragem a efectuar, em matéria de salmonelas, nas carnes frescas de aves de capoeira destinadas à Finlândia e à Suécia\n\n(95/411/CE)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 71/118/CEE do Conselho, de 15 de Fevereiro de 1971, relativa a problemas sanitários em matéria de comércio de carnes frescas de aves de capoeira (1), e nomeadamente o nº 3, alínea a), do seu artigo 5º,\n\nConsiderando que a Comissão aprovou os programas operacionais apresentados pela Finlândia e pela Suécia sobre controlo de salmonelas e que esses programas incluem medidas específicas para as carnes frescas de aves de capoeira;\n\nConsiderando que a realização de análises microbiológicas por uma exploração se inscreve no quadro das garantias complementares a fornecer à Finlândia e à Suécia e fornece garantias equivalentes às resultantes do programa operacional da Finlândia e da Suécia, tal como reconhecido nas decisões da Comissão;\n\nConsiderando que a Finlândia e a Suécia devem exigir para os lotes de carnes frescas de aves de capoeira provenientes dos países terceiros condições de importação pelo menos tão rigorosas como as estabelecidas na presente decisão;\n\nConsiderando que, para estabelecer as regras de análise microbiológica por amostragem, há que definir o método de colheita, o número de amostras a colher e o método microbiológico de análise das amostras;\n\nConsiderando que, no que diz respeito aos métodos de amostragem a aplicar, há que distinguir entre carcaças, por um lado, e pedaços de carcaças e miudezas por outro;\n\nConsiderando que convém ter em conta os métodos internacionais de análise microbiológica das amostras;\n\nConsiderando que essas análises microbiológicas não devem ser exigidas para carnes frescas de aves de capoeira provenientes de um estabelecimento sujeito a um programa reconhecido como equivalente ao realizado pela Finlândia e pela Suécia;\n\nConsiderando que as disposições da presente decisão não condicionam as alterações dos anexos da Directiva 71/118/CEE que possam ser adoptadas em aplicação do artigo 19º da referida directiva;\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "fab61fdce5dacebf": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nEm aplicação do nº 3, alínea a), do artigo 5º da Directiva 71/118/CEE, as remessas de carnes frescas de aves de capoeira destinadas à Finlândia e à Suécia são sujeitas às regras previstas nos artigos 2º e 3º"
+  },
+  "50f97e23d5055bc0": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nAs carnes frescas de aves de capoeira destinadas à Finlândia e à Suécia serão sujeitas, a análises microbiológicas em matéria de salmonelas, efectuadas por amostragem, nos termos do anexo, no estabelecimento de origem dessas carnes."
+  },
+  "982eaf2d8b2e8fdf": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nAs carnes de aves de capoeira provenientes de um estabelecimento sujeito a um programa reconhecido, de acordo com o procedimento previsto no artigo 21º da Directiva 71/118/CEE, como equivalente ao implementado pela Finlândia e pela Suécia não serão sujeitas às análises microbiológicas previstas na presente decisão."
+  },
+  "81a9d9979ec3bbf0": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nO Conselho, deliberando sob proposta da Comissão elaborada em função de um relatório redigido com base nos resultados dos programas operacionais implementados pela Finlândia e pela Suécia e da experiência adquirida na aplicação da presente decisão, efectuará uma revisão desta antes de 1 de Julho de 1998."
+  },
+  "9e3f5f764518da96": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nA presente decisão é aplicável a partir de 1 de Julho de 1995."
+  },
+  "9b71825dee73590f": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs Estados-membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 22 de Junho de 1995.\n\nPelo Conselho\n\nO Presidente\n\nPh. VASSEUR\n\n(1) JO nº L 55 de 8. 3. 1971, p. 23. Directiva com a última redacção que lhe foi dada pela Decisão 95/1/CE, Euratom, CECA (JO nº L 1 de 1. 1. 1995, p. 1)."
+  },
+  "4fa28c0a510cf503": {
+   "fragment_id": "ANEXO — SECÇÃO A MÉTODO DE AMOSTRAGEM",
+   "type": "divisao",
+   "heading": "ANEXO — SECÇÃO A MÉTODO DE AMOSTRAGEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — SECÇÃO A MÉTODO DE AMOSTRAGEM\n\n1. Carcaça (com a pele do pescoço ainda aderente)\n\nAs amostras aleatórias devem estar distribuídas uniformemente por todo o lote. A amostragem é composta por pedaços de 10 gramas de pele do pescoço a colher assepticamente utilizando pinças e um bisturi esterilizados. As amostras deverão ser conservadas refrigeradas a 4 °C até serem analisadas. Para a análise, as amostras serão diluídas dez vezes em água peptonada tamponada e incubadas a 37 °C durante 16 a 20 horas. Em seguida, submetem-se os caldos de pré-enriquecimento a uma pesquisa de salmonelas, de acordo com o método descrito na secção C. As porções de caldo de pré-enriquecimento podem ser reagrupadas até ao máximo de dez para o enriquecimento.\n\nAs amostras devem ser devidamente marcadas e identificadas.\n\n2. Carcaças sem pele do pescoço, pedaços de carcaças e miudezas\n\nColher amostras de tecido de cerca de 25 gramas fazendo penetrar uma sonda esterilizada na superfície da carne ou cortando um pedaço de tecido com instrumentos esterilizados. As amostras deverão ser conservadas refrigeradas a 4 °C até serem analisadas. Para a análise, as amostras são diluídas dez vezes em água peptonada e incubadas a 37 °C durante 16 a 20 horas. Seguidamente, submeter os caldos de pré-enriquecimento a uma pesquisa de salmonelas de acordo com o método descrito na secção C. Podem ser reunidas diversas porções de caldo de pré-enriquecimento até um máximo de 10 para o enriquecimento.\n\nAs amostras devem ser devidamente marcadas e identificadas."
+  },
+  "3d76af3aa24b68d3": {
+   "fragment_id": "SECÇÃO B NÚMERO DE AMOSTRAS A COLHER",
+   "type": "divisao",
+   "heading": "SECÇÃO B NÚMERO DE AMOSTRAS A COLHER",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO B NÚMERO DE AMOSTRAS A COLHER\n\nO número de unidades de embalagem do lote de que são colhidas amostras aleatórias distintas é o seguinte:\n\n>POSIÇÃO NUMA TABELA>\n\nO número de embalagens de onde devem ser retiradas amostras pode ser reduzido, em função do peso das unidades de embalagem, com base nos seguintes coeficientes:\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "cdbdc22c7db8938b": {
+   "fragment_id": "SECÇÃO C MÉTODO DE ANÁLISE MICROBIOLÓGICA DAS AMOSTRAS",
+   "type": "divisao",
+   "heading": "SECÇÃO C MÉTODO DE ANÁLISE MICROBIOLÓGICA DAS AMOSTRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO C MÉTODO DE ANÁLISE MICROBIOLÓGICA DAS AMOSTRAS\n\nA análise microbiológica das amostras para pesquisa de salmonelas deve ser efectuada de acordo com o método padrão da Organização international da normalização (ISO 6579:1993). O Conselho pode, no entanto, deliberando sob proposta da Comissão, autorizar, caso a caso, métodos que ofereçam garantias equivalentes."
+  },
+  "084aca09e0a5c2c8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1995D0411 — PT — 24.03.1998 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995D0411:PT:NOT) [DECISÃO DO CONSELHO de 22 de Junho de 1995 que estabelece as regras relativas às análises microbiológicas por amostragem a efectuar, em matéria de salmonelas, nas carnes frescas de aves de capoeira destinadas à Finlândia e à Suécia (95/411/CE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995D0411:PT:NOT) (JO L 243, 11.10.1995, p.29)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998D0227:PT:NOT) | [Decisão do Conselho de 16 de Março de 1998](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998D0227:PT:NOT) | L 87 | 14 | 21.3.1998 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995D0411:PT:NOT)\n\nDECISÃO DO CONSELHO\n\nde 22 de Junho de 1995\n\nque estabelece as regras relativas às análises microbiológicas por amostragem a efectuar, em matéria de salmonelas, nas carnes frescas de aves de capoeira destinadas à Finlândia e à Suécia\n\n(95/411/CE)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 71/118/CEE do Conselho, de 15 de Fevereiro de 1971, relativa a problemas sanitários em matéria de comércio de carnes frescas de aves de capoeira ([1](http://publications.europa.eu/resource/cellar/2ca9a21f-f2b7-47a1-89a2-6eec9c0e2c0d.0017.02/DOC_1#E0001)), e nomeadamente o n.o 3, alínea a), do seu artigo 5.o,\n\nConsiderando que a Comissão aprovou os programas operacionais apresentados pela Finlândia e pela Suécia sobre controlo de salmonelas e que esses programas incluem medidas específicas para as carnes frescas de aves de capoeira;\n\nConsiderando que a realização de análises microbiológicas por uma exploração se inscreve no quadro das garantias complementares a fornecer à Finlândia e à Suécia e fornece garantias equivalentes às resultantes do programa operacional da Finlândia e da Suécia, tal como reconhecido nas decisões da Comissão;\n\nConsiderando que a Finlândia e a Suécia devem exigir para os lotes de carnes frescas de aves de capoeira provenientes dos países terceiros condições de importação pelo menos tão rigorosas como as estabelecidas na presente decisão;\n\nConsiderando que, para estabelecer as regras de análise microbiológica por amostragem, há que definir o método de colheita, o número de amostras a colher e o método microbiológico de análise das amostras;\n\nConsiderando que, no que diz respeito aos métodos de amostragem a aplicar, há que distinguir entre carcaças, por um lado, e pedaços de carcaças e miudezas por outro;\n\nConsiderando que convém ter em conta os métodos internacionais de análise microbiológica das amostras;\n\nConsiderando que essas análises microbiológicas não devem ser exigidas para carnes frescas de aves de capoeira provenientes de um estabelecimento sujeito a um programa reconhecido como equivalente ao realizado pela Finlândia e pela Suécia;\n\nConsiderando que as disposições da presente decisão não condicionam as alterações dos anexos da Directiva 71/118/CEE que possam ser adoptadas em aplicação do artigo 19.o da referida directiva;\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "dd6599c2e002db51": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nEm aplicação do n.o 3, alínea a), do artigo 5.o da Directiva 71/118/CEE, as remessas de carnes frescas de aves de capoeira destinadas à Finlândia e à Suécia são sujeitas às regras previstas nos artigos 2.o e 3.o"
+  },
+  "3ffbbbf019b9bfb2": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs carnes frescas de aves de capoeira destinadas à Finlândia e à Suécia serão sujeitas, a análises microbiológicas em matéria de salmonelas, efectuadas por amostragem, nos termos do anexo, no estabelecimento de origem dessas carnes."
+  },
+  "38732b8b1257fa4f": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs carnes de aves de capoeira provenientes de um estabelecimento sujeito a um programa reconhecido, de acordo com o procedimento previsto no artigo 21.o da Directiva 71/118/CEE, como equivalente ao implementado pela Finlândia e pela Suécia não serão sujeitas às análises microbiológicas previstas na presente decisão."
+  },
+  "c5e41948e121279e": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO Conselho, deliberando sob proposta da Comissão elaborada em função de um relatório redigido com base nos resultados dos programas operacionais implementados pela Finlândia e pela Suécia e da experiência adquirida na aplicação da presente decisão, efectuará uma revisão desta antes de 1 de Julho de 1998."
+  },
+  "420dc8aa82a4c477": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA presente decisão é aplicável a partir de 1 de Julho de 1995."
+  },
+  "99fb844e0ba7b1ae": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros são os destinatários da presente decisão."
+  },
+  "f980c66c00bc1f54": {
+   "fragment_id": "ANEXO — SECÇÃO A",
+   "type": "divisao",
+   "heading": "ANEXO — SECÇÃO A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — SECÇÃO A\n\nMÉTODO DE AMOSTRAGEM\n\n1. Carcaça (com a pele do pescoço ainda aderente)\n\nAs amostras aleatórias devem estar distribuídas uniformemente por todo o lote. A amostragem é composta por pedaços de 10 gramas de pele do pescoço a colher assepticamente utilizando pinças e um bisturi esterilizados. As amostras deverão ser conservadas refrigeradas a 4 °C até serem analisadas. Para a análise, as amostras serão diluídas dez vezes em água peptonada tamponada e incubadas a 37 °C durante 16 a 20 horas. Em seguida, submetem-se os caldos de pré-enriquecimento a uma pesquisa de salmonelas, de acordo com o método descrito na secção C. As porções de caldo de pré-enriquecimento podem ser reagrupadas até ao máximo de dez para o enriquecimento.\n\nAs amostras devem ser devidamente marcadas e identificadas.\n\n2. Carcaças sem pele do pescoço, pedaços de carcaças e miudezas\n\nColher amostras de tecido de cerca de 25 gramas fazendo penetrar uma sonda esterilizada na superfície da carne ou cortando um pedaço de tecido com instrumentos esterilizados. As amostras deverão ser conservadas refrigeradas a 4 °C até serem analisadas. Para a análise, as amostras são diluídas dez vezes em água peptonada e incubadas a 37 °C durante 16 a 20 horas. Seguidamente, submeter os caldos de pré-enriquecimento a uma pesquisa de salmonelas de acordo com o método descrito na secção C. Podem ser reunidas diversas porções de caldo de pré-enriquecimento até um máximo de 10 para o enriquecimento.\n\nAs amostras devem ser devidamente marcadas e identificadas."
+  },
+  "ca4df8fe8599bd59": {
+   "fragment_id": "SECÇÃO B — NÚMERO DE AMOSTRAS A COLHER",
+   "type": "divisao",
+   "heading": "SECÇÃO B — NÚMERO DE AMOSTRAS A COLHER",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO B — NÚMERO DE AMOSTRAS A COLHER\n\nLote (número de unidades de embalagem) Número de unidades de embalagem a incluir na amostragem\n\n1 — 24 Número igual ao número de unidades, com um máximo de 20\n\n25 — 29 20\n\n30 — 39 25\n\n40 — 49 30\n\n50 — 59 35\n\n60 — 89 40\n\n90 — 199 50\n\n200 — 499 55\n\n500 ou mais 60\n\n| Peso das unidades de embalagem | > 20 kg | 10-20 kg | < 10 kg |\n| --- | --- | --- | --- |\n| Coeficientes | × 1 | × ¾ | × ½ |\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998D0227:PT:NOT)"
+  },
+  "5b13c3a92b97c892": {
+   "fragment_id": "SECÇÃO C — MÉTODO MICROBIOLÓGICO PARA ANÁLISE DAS AMOSTRAS",
+   "type": "divisao",
+   "heading": "SECÇÃO C — MÉTODO MICROBIOLÓGICO PARA ANÁLISE DAS AMOSTRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO C — MÉTODO MICROBIOLÓGICO PARA ANÁLISE DAS AMOSTRAS\n\nOs testes microbiológicos para determinação da presença de salmonelas nas amostras devem ser efectuados segundo o método padrão da Organização Internacional de Normalização ISO 6579:1993 ou edições revistas, ou segundo o método descrito pelo comité nórdico de análises alimentares (método NMKL n.o 71, 4.a edição, 1991) ou suas edições revistas. No entanto, podem ser autorizados, em conformidade com o procedimento definido no artigo 21.o da Directiva 71/118/CEE, métodos que ofereçam garantias equivalentes.\n\nQuando os resultados das análises forem objecto de contestação entre Estados-membros, deve ser utilizado como método de referência o método padrão da Organização Internacional de Normalização ISO 6579:1993 ou suas edições revistas.\n\n([1](http://publications.europa.eu/resource/cellar/2ca9a21f-f2b7-47a1-89a2-6eec9c0e2c0d.0017.02/DOC_1#src.E0001)) JO n.o L 55 de 8. 3. 1971, p. 23. Directiva com a última redacção que lhe foi dada pela Decisão 95/1/CE, Euratom, CECA (JO n.o L 1 de 1. 1. 1995, p. 1)."
+  },
+  "9ea0e0f3487871fd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1995D0411 — PT — 01.01.2006 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31995D0411) [DECISÃO DO CONSELHO](http://publications.europa.eu/resource/celex/31995D0411) [de 22 de Junho de 1995](http://publications.europa.eu/resource/celex/31995D0411) [que estabelece as regras relativas às análises microbiológicas por amostragem a efectuar, em matéria de salmonelas, nas carnes frescas de aves de capoeira destinadas à Finlândia e à Suécia](http://publications.europa.eu/resource/celex/31995D0411) [(95/411/CE)](http://publications.europa.eu/resource/celex/31995D0411) (JO L 243, 11.10.1995, p.29)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1688/2005 da Comissão de 14 de Outubro de 2005](http://publications.europa.eu/resource/celex/32005R1688) — L 271 — 17 — 15.10.2005"
+  }
+ }
+}

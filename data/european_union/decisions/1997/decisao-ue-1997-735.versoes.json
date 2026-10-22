@@ -1,0 +1,149 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997D0735:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997D0735-20040501",
+ "dre_path": null,
+ "source_lastmod": "2004-05-01",
+ "versions": [
+  {
+   "date": "1997-10-28",
+   "future": false,
+   "celex": "31997D0735",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "15b673a49fbdb700",
+    "d772214dc6ed4125",
+    "79f8e6d078a9c469",
+    "bd0a0ff99fab2ae1",
+    "349996b1ad1b2fa8",
+    "f0ab05dd5b513af9",
+    "f7780b17e49f79b4",
+    "ed3986e12b8a8d52",
+    "cb0d9c45eb1c197a",
+    "cf4e1a2e795a2ce7",
+    "dad006fc56c3a807"
+   ]
+  },
+  {
+   "date": "2004-05-01",
+   "future": false,
+   "celex": "01997D0735-20040501",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime ANEXO I — >INÍCIO DE GRÁFICO>",
+    "Suprime ANEXO II — >INÍCIO DE GRÁFICO>",
+    "Suprime ANEXO III — >INÍCIO DE GRÁFICO>",
+    "Suprime ANEXO IV — >INÍCIO DE GRÁFICO>"
+   ],
+   "fragments": [
+    "b125b0711da533c3"
+   ]
+  }
+ ],
+ "fragments": {
+  "15b673a49fbdb700": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**97/735/CE: Decisão da Comissão de 21 de Outubro de 1997 relativa a determinadas medidas de protecção respeitantes ao comércio de certos tipos de resíduos de mamíferos (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 294 de 28/10/1997 p. 0007 - 0016*\n\nDECISÃO DA COMISSÃO de 21 de Outubro de 1997 relativa a determinadas medidas de protecção respeitantes ao comércio de certos tipos de resíduos de mamíferos (Texto relevante para efeitos do EEE) (97/735/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 90/425/CEE do Conselho, de 26 de Junho de 1990, relativa aos controlos veterinários e zootécnicos aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno (1), com a última redacção que lhe foi dada pela Directiva 92/118/CEE (2) e, nomeadamente, o nº 4 do seu artigo 10º,\n\nConsiderando que, na sequência de trabalhos científicos sobre a inactivação dos agentes da encefalopatia espongiforme bovina (BSE) e do tremor epizoótico dos ovinos, a Decisão 96/449/CE da Comissão (3) estabeleceu as normas aplicáveis à aprovação de sistemas alternativos de tratamento térmico para a transformação de resíduos de mamíferos na Comunidade;\n\nConsiderando que, em inspecções recentes e em encontros bilaterais, determinados Estados-membros referiram que se tinham registado dificuldades na aplicação dos parâmetros de transformação fixados no anexo da Decisão 96/449/CE; que, na pendência da aplicação completa desses parâmetros de transformação, os resíduos de mamíferos continuam a ser tratados por sistemas que não garantem a completa inactivação dos agentes das encefalopatias espongiformes transmissíveis (TSE); que os Estados-membros podem permitir a transformação de resíduos de mamíferos por um método que não satisfaça os parâmetros de transformação fixados no anexo da Decisão 96/449/CE, desde que essa transformação seja precedida ou seguida de um processo que satisfaça os parâmetros fixados nesse anexo ou se as matérias proteicas resultantes forem destruídas por enterramento, por incineração, sob a forma de combustível ou por outro método equivalente que garanta a sua destruição segura;\n\nConsiderando que as farinhas de carne e de ossos que não sejam produzidas em conformidade com o anexo da Decisão 96/449/CE podem constituir um risco para a sanidade animal, devido à transmissão de agentes da TSE; que, excepto em determinadas circunstâncias, é necessário proibir a expedição dessas farinhas para outros Estados-membros; que, além disso, para evitar os desvios de tráfego, é conveniente aplicar a mesma proibição às exportações para os países terceiros;\n\nConsiderando que certos Estados-membros informaram a Comissão de que não possuem no seu território capacidade suficiente para incinerar os resíduos transformados provenientes de mamíferos que não tenham sido tratados em conformidade com a Decisão 96/449/CE e que derivem de carcaças de animais abatidos em aplicação de medidas de luta contra doenças ou que contenham partes de animais excluídas das cadeias alimentares humana e animal, em conformidade com planos nacionais de erradicação da BSE; que tais matérias são produtos intermédios; que tais matérias podem ser expedidas para outros Estados-membros para serem incineradas ou utilizadas como combustível; que é necessário estabelecer condições severas para garantir que essas matérias sejam objecto de uma destruição segura e que não possam entrar, de nenhum modo, nas cadeias alimentares humana e animal; que, por força da Decisão 96/239/CE da Comissão (4), alterada pela Decisão 96/362/CE (5), essa possibilidade não é aplicável no que respeita ao Reino Unido;\n\nConsiderando que alguns Estados-membros informaram a Comissão de que certos estabelecimentos de tratamento ainda não satisfaziam inteiramente o disposto na Decisão 96/449/CE, devido a dificuldades resultantes do fornecimento de novo equipamento; que, entretanto, esses estabelecimentos não estão autorizados a comercializar as suas farinhas de carne e de ossos; que, por força do disposto no artigo 4º da Directiva 90/667/CEE do Conselho, de 27 de Novembro de 1990, que estabelece as normas sanitárias para a eliminação e a transformação de resíduos animais, para a sua colocação no mercado e para a prevenção da presença de agentes patogénicos nos alimentos para animais de origem animal ou à base de peixe e que altera a Directiva 90/425/CEE (6), com a última redacção que lhe foi dada pelo Acto de Adesão da Áustria, da Finlândia e da Suécia, um Estado-membro pode decidir designar uma instalação de transformação de alto risco situada noutro Estado-membro, após obtido o acordo deste último; que, durante um período transitório, é necessário, na pendência da aplicação completa da Decisão 96/449/CE, fixar condições severas para garantir que tais farinhas de carne e de ossos sejam submetidas a uma nova transformação no outro Estado-membro através de um método que satisfaça os parâmetros fixados no anexo da referida decisão; que, por força da Decisão 96/239/CE, essa possibilidade não é aplicável no que respeita ao Reino Unido;\n\nConsiderando que os resíduos de mamíferos abrangidos pela Decisão 96/449/CE que não tenham sido transformados em conformidade com os parâmetros fixados no anexo da Decisão 96/449/CE não devem ser utilizados na alimentação dos animais; que, por força da Decisão 94/381/CE da Comissão (7), alterada pela Decisão 95/60/CE (8), a utilização de proteínas derivadas de tecidos de mamíferos, com excepção de leite, gelatina e certos outros produtos, na alimentação dos ruminantes é proibida;\n\nConsiderando que o artigo 13º da Directiva 90/667/CEE prevê que, para poderem ser comercializados, os produtos transformados obtidos a partir de matérias de alto risco ou de baixo risco devem ser acompanhados de um documento comercial; que inspecções recentemente efectuadas nos Estados-membros revelaram que, na falta de um documento comercial uniforme e devido a insuficiências na aplicação da legislação comunitária, não é possível garantir a rastreabilidade das farinhas de carne e de ossos desde a produção até à alimentação dos animais, nomeadamente no que respeita às matérias que sejam objecto do comércio intracomunitário; que, para garantir a rastreabilidade dos resíduos de mamíferos que sejam objecto de comércio intracomunitário, é conveniente criar um modelo de documento comercial; que, na pendência da aplicação completa da Decisão 96/449/CE, o referido documento comercial deve ser acompanhado por uma declaração oficial que certifique que as matérias em causa foram produzidas num estabelecimento aprovado que aplica os parâmetros de transformação fixados no anexo da Decisão 96/449/CE;\n\nConsiderando que as medidas previstas na presente decisão estão em conformidade com o parecer do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "d772214dc6ed4125": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. Sem prejuízo das disposições da Decisão 96/239/CE os Estados-membros não enviarão para outros Estados-membros, nem para países terceiros, resíduos transformados de mamíferos abrangidos pelo disposto na Decisão 96/449/CE que não tenham sido transformados em conformidade com os parâmetros fixados no anexo da Decisão 96/449/CE.\n\n2. Os Estados-membros velarão por que os resíduos de mamíferos brangidos pelo disposto na Decisão 96/449/CE que não tenham sido transformados em conformidade com os parâmetros fixados no anexo dessa decisão não possam entrar na cadeia alimentar animal.\n\nOs Estados-membros transmitirão imediatamente à Comissão um relatório sobre a aplicação das medidas adoptadas em relação com o disposto no primeiro parágrafo.\n\n3. As proibições estabelecidas nos nºs 1 e 2 não serão aplicáveis aos produtos referidos no nº 2 do artigo 1º da Decisão 96/449/CE."
+  },
+  "79f8e6d078a9c469": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Para efeitos do comércio das proteínas animais transformadas destinadas à alimentação animal definidas na Directiva 92/118/CEE, o documento comercial previsto no artigo 13º da Directiva 90/667/CEE deve ser conforme ao modelo do anexo I da presente decisão.\n\n2. Para efeitos do comércio das proteínas de mamíferos transformadas destinadas à alimentação animal definidas na Directiva 92/118/CEE que tenham sido transformadas em conformidade com os parâmetros fixados no anexo da Decisão 96/449/CE, com exclusão das misturas e produtos referidos no nº 2 do artigo 1º da Decisão 96/449/CE, o documento comercial deve ser conforme ao modelo do anexo I da presente decisão e ser acompanhado de uma declaração oficial conforme ao modelo do anexo II da presente decisão."
+  },
+  "bd0a0ff99fab2ae1": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nNo prazo de 15 dias a contar da notificação da presente decisão, os Estados-membros transmitirão aos outros Estados-membros e à Comissão a lista dos estabelecimentos aprovados de transformação dos resíduos de mamíferos existentes no seu território que satisfazem as condições fixadas na Decisão 96/449/CE. Qualquer alteração da lista será notificada imediatamente aos outros Estados-membros e à Comissão."
+  },
+  "349996b1ad1b2fa8": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Em derrogação ao disposto no nº 1 do artigo 1º, e sem prejuízo do disposto na Decisão 96/239/CE e no nº 2 do artigo 1º da Decisão 96/449/CE, os Estados-membros podem enviar para outros Estados-membros resíduos transformados de mamíferos que não tenham sido transformados em conformidade com os parâmetros fixados no anexo da Decisão 96/449/CE:\n\na) Que se destinem a ser incinerados ou utilizados como combustível; ou\n\nb) Até 31 de Março de 1998, que se destinem a ser submetidos a uma nova transformação através de um método que satisfaça os parâmetros fixados no anexo da Decisão 96/449/CE.\n\n2. A derrogação estabelecida no nº 1 só será aplicável se estiverem satisfeitas as seguintes condições:\n\na) O Estado-membro de destino deve ter autorizado a recepção das matérias em causa;\n\nb) As matérias:\n\n- que se destinem a ser incineradas ou utilizadas como combustível devem ser acompanhadas de um certificado oficial conforme ao modelo do anexo III da presente decisão e, nos contentores, devem estar claramente indicadas, nas línguas dos Estados-membros de origem, destino e trânsito, as menções «Não destinado à alimentação animal - Unicamente para incineração ou utilização como combustível», ou\n\n- que se destinem a ser objecto de uma nova transformação devem ser acompanhadas de um certificado oficial conforme ao modelo do anexo IV da presente decisão e, nos contentores, devem estar claramente indicadas, nas línguas dos Estados-membros de origem, destino e trânsito, as menções «Não destinado à alimentação animal - Unicamente para transformação»;\n\nc) As matérias devem ser transportadas em contentores ou veículos cobertos e selados, de modo a evitar qualquer perda, e dirigidas directamente para o local onde serão incineradas ou utilizadas como combustível ou para o estabelecimento de transformação;\n\nd) Os Estados-membros devem comunicar à Comissão e aos outros Estados-membros a lista dos incineradores e das centrais eléctricas autorizados a receber as matérias em conformidade com o disposto no presente artigo;\n\ne) As matérias apenas podem ser entregues aos estabelecimentos constantes das listas referidas na alínea d) e no artigo 3º;\n\nf) Os Estados-membros que enviem matérias para outros Estados-membros devem informar, através do sistema ANIMO (9), a autoridade competente do local de destino de cada remessa enviada. A mensagem ANIMO deve, consoante o caso, conter a menção «Não destinado à alimentação animal - Unicamente para incineração ou utilização como combustível» ou «Não destinado à alimentação animal - Unicamente para transformação»;\n\ng) Os Estados-membros de destino devem informar, através do sistema ANIMO, a autoridade competente do local de origem da chegada de cada remessa;\n\nh) Os Estados-membros de destino devem velar por que o estabelecimento designado no seu território utilize cada remessa apenas para os efeitos previstos no nº 1 e mantenha registos completos que provem o respeito do disposto na presente decisão."
+  },
+  "f0ab05dd5b513af9": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nA presente decisão será aplicável a partir do dia seguinte ao da sua notificação.\n\nO artigo 2º só será aplicável a partir do trigésimo dia seguinte à data da notificação da presente decisão."
+  },
+  "f7780b17e49f79b4": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs Estados-membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 21 de Outubro de 1997.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO L 224 de 18. 8. 1990, p. 29.\n\n(2) JO L 62 de 15. 3. 1993, p. 49.\n\n(3) JO L 184 de 24. 7. 1996, p. 43.\n\n(4) JO L 78 de 28. 3. 1996, p. 47.\n\n(5) JO L 139 de 12. 6. 1996, p. 17.\n\n(6) JO L 363 de 27. 12. 1990, p. 51.\n\n(7) JO L 172 de 7. 7. 1994, p. 23.\n\n(8) JO L 55 de 11. 3. 1995, p. 43.\n\n(9) Decisão da Comissão 91/398/CEE (JO L 221 de 9. 8. 1991, p. 30)."
+  },
+  "ed3986e12b8a8d52": {
+   "fragment_id": "ANEXO I — >INÍCIO DE GRÁFICO>",
+   "type": "divisao",
+   "heading": "ANEXO I — >INÍCIO DE GRÁFICO>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — >INÍCIO DE GRÁFICO>\n\n>FIM DE GRÁFICO>"
+  },
+  "cb0d9c45eb1c197a": {
+   "fragment_id": "ANEXO II — >INÍCIO DE GRÁFICO>",
+   "type": "divisao",
+   "heading": "ANEXO II — >INÍCIO DE GRÁFICO>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >INÍCIO DE GRÁFICO>\n\n>FIM DE GRÁFICO>"
+  },
+  "cf4e1a2e795a2ce7": {
+   "fragment_id": "ANEXO III — >INÍCIO DE GRÁFICO>",
+   "type": "divisao",
+   "heading": "ANEXO III — >INÍCIO DE GRÁFICO>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — >INÍCIO DE GRÁFICO>\n\n>FIM DE GRÁFICO>"
+  },
+  "dad006fc56c3a807": {
+   "fragment_id": "ANEXO IV — >INÍCIO DE GRÁFICO>",
+   "type": "divisao",
+   "heading": "ANEXO IV — >INÍCIO DE GRÁFICO>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — >INÍCIO DE GRÁFICO>\n\n>FIM DE GRÁFICO>"
+  },
+  "b125b0711da533c3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1997D0735 — PT — 01.05.2004 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31997D0735) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/31997D0735) [de 21 de Outubro de 1997](http://publications.europa.eu/resource/celex/31997D0735) [relativa a determinadas medidas de protecção respeitantes ao comércio de certos tipos de resíduos de mamíferos](http://publications.europa.eu/resource/celex/31997D0735) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/31997D0735) [(97/735/CE)](http://publications.europa.eu/resource/celex/31997D0735) (JO L 294, 28.10.1997, p.7)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 446/2004 da Comissão de 10 de Março de 2004](http://publications.europa.eu/resource/celex/32004R0446) — L 72 — 62 — 11.3.2004"
+  }
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31972R0922:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01972R0922-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "1972-05-05",
+   "future": false,
+   "celex": "31972R0922",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1262db9559cdcadd",
+    "452dfed5729ca102",
+    "a498af3034b8442c",
+    "7b2e931b0134c475",
+    "89f2c8e35873594d",
+    "b0fa030d795e11b7"
+   ]
+  },
+  {
+   "date": "1974-04-01",
+   "future": false,
+   "celex": "01972R0922-19740401",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1o",
+    "Altera Artigo 5o"
+   ],
+   "fragments": [
+    "82f034c8e5b41dee",
+    "5636f43e83133723",
+    "a498af3034b8442c",
+    "7b2e931b0134c475",
+    "89f2c8e35873594d",
+    "ec13087773971666"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "01972R0922-20140101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o"
+   ],
+   "fragments": [
+    "49fd992b4425d9d2"
+   ]
+  }
+ ],
+ "fragments": {
+  "1262db9559cdcadd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 922/72 do Conselho, de 2 de Maio de 1972, que fixa para a campanha de criação de 1972/1973 as regras gerais da concessão da ajuda para os bichos- da-seda** *Jornal Oficial nº L 106 de 05/05/1972 p. 0001 - 0001 Edição especial finlandesa: Capítulo 3 Fascículo 4 p. 0129 Edição especial dinamarquesa: Série I Capítulo 1972(II) p. 0377 Edição especial sueca: Capítulo 3 Fascículo 4 p. 0129 Edição especial inglesa: Série I Capítulo 1972(II) p. 0393 Edição especial grega: Capítulo 03 Fascículo 7 p. 0223 Edição especial espanhola: Capítulo 03 Fascículo 5 p. 0224 Edição especial portuguesa: Capítulo 03 Fascículo 5 p. 0224*\n\nREGULAMENTO (CEE) No 922/72 DO CONSELHO de 2 de Maio de 1972 que fixa para a campanha de criação de 1972/1973 as regras gerais da concessão da ajuda para os bichos-da-seda\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) no 845/72 do Conselho, de 24 de Abril de 1972, que prevê as medidas especiais tendo em vista favorecer a criação do bicho-da-seda (1) e, nomeadamente, o no 4 do seu artigo 2o,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que o artigo 2o do Regulamento (CEE) no 845/72 prevê a concessão de uma ajuda para os bichos-da-seda criados na Comunidade e que é conveniente adoptar as regras gerais aplicação previstas pelo mesmo artigo;\n\nConsiderando que, para simplificar a aplicação do regime da ajuda, convém limitar a concessão deste, em cada Estado-membro, aos bichos-da-seda criados no território desse Estado;\n\nConsiderando que, para assegurar o bom funcionamento deste regime, é conveniente definir os beneficiários da ajuda e especificar certas condições da concessão desta;\n\nConsiderando que é necessário prever um sistema de controlo administrativo que garanta que a ajuda só é concedida para os produtos que dele possam ser objecto;\n\nConsiderando que, para assegurar a aplicação uniforme do referido regime, convêm especificar as modalidades de cálculo da ajuda;\n\nConsiderando que convêm limitar a validade do presente regulamento a um período que permita apreciar a sua eficácia,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "452dfed5729ca102": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nRelativamente à campanha de criação de 1972/1973, as regras gerais definidas nos artigos seguintes são aplicáveis para a concessão da ajuda para os bichos-da-seda criados na Comunidade previsto pelo artigo 2o do Regulamento (CEE) no 845/72."
+  },
+  "a498af3034b8442c": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. A pedido do criador, cada Estado-membro concede a ajuda para os bichos-da-seda criados no seu território.\n\n2. Os Estados-membros só são autorizados a conceder a ajuda aos criadores cujas caixas de ovos foram fornecidas por um organismo autorizado e que, depois de terem terminado a criação, enviem a um organismo autorizado os casulos produzidos.\n\n3. A criação dos bichos-da-seda é considerada como tendo terminado quando as caixas de bichos-da-seda em execução deram lugar a uma produção mínima de casulos a determinar."
+  },
+  "7b2e931b0134c475": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros produtores instituem um controlo administrativo que garanta que o produto, para o qual a ajuda é pedida, corresponde às condições requeridas para a concessão deste."
+  },
+  "89f2c8e35873594d": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nO montante da ajuda é calculado por caixa de ovos de bichos-da-seda."
+  },
+  "b0fa030d795e11b7": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nO presente regulamento entra em vigor no dia a seguir ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em qualquer Estado-membro.\n\nFeito em Bruxelas em 2 de Maio de 1972.\n\nPelo Conselho\n\nO Presidente\n\nG. THORN\n\n(1) JO no L 100 de 27. 4. 1972, p. 1."
+  },
+  "82f034c8e5b41dee": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1972R0922 — PT — 01.04.1974 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31972R0922:PT:NOT) [REGULAMENTO (CEE) No 922/72 DO CONSELHO de 2 de Maio de 1972 que fixa para a campanha de criação de 1972/1973 as regras gerais da concessão da ajuda para os bichos-da-seda](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31972R0922:PT:NOT) (JO L 106, 5.5.1972, p.1)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31973R0884:PT:NOT) | [Regulamento (CEE) no 884/73 do Conselho de 27 de março de 1973 ([1](http://publications.europa.eu/resource/cellar/c500eff5-1b99-47ff-b288-ad8ddffa79c2.0018.02/DOC_1#E0001))](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31973R0884:PT:NOT) (*) | L 86 | 34 | 31.3.1973 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31974R0668:PT:NOT) | [Regulamento (CEE) no 668/74 do Conselho de 28 de março de 1974](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31974R0668:PT:NOT) | L 85 | 61 | 29.3.1974 |\n\n(*) Este acto não existe em língua portuguesa.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31972R0922:PT:NOT)\n\nREGULAMENTO (CEE) No 922/72 DO CONSELHO\n\nde 2 de Maio de 1972\n\nque fixa para a campanha de criação de 1972/1973 as regras gerais da concessão da ajuda para os bichos-da-seda\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) no 845/72 do Conselho, de 24 de Abril de 1972, que prevê as medidas especiais tendo em vista favorecer a criacão (SIC! criação) do bicho-da-seda ([2](http://publications.europa.eu/resource/cellar/c500eff5-1b99-47ff-b288-ad8ddffa79c2.0018.02/DOC_1#E0002)) e, nomeadamente, o no 4 do seu artigo 2o,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que o artigo 2o do Regulamento (CEE) no 845/72 prevê a concessão de uma ajuda para os bichos-da-seda criados na Comunidade e que é conveniente adoptar as regras gerais aplicação previstas pelo mesmo artigo;\n\nConsiderando que, para simplificar a aplicação do regime da ajuda, convém limitar a concessão deste, em cada Estado-membro, aos bichos-da-seda criados no território desse Estado;\n\nConsiderando que, para assegurar o bom funcionamento deste regime, é conveniente definir os beneficiários da ajuda e especificar certas condições da concessão desta;\n\nConsiderando que é necessário prever um sistema de controlo administrativo que garanta que a ajuda só é concedida para os produtos que dele possam ser objecto;\n\nConsiderando que, para assegurar a aplicação uniforme do referido regime, convém especificar as modalidades de cálculo da ajuda;\n\nConsiderando que convém limitar a validade do presente regulamento a um período que permita apreciar a sua eficácia,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "5636f43e83133723": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n[►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31974R0668:PT:NOT) ◄ As regras gerais definidas nos artigos seguintes são aplicáveis para a concessão da ajuda para os bichos-da-seda criados na Comunidade previsto pelo artigo 2o do Regulamento (CEE) no 845/72."
+  },
+  "ec13087773971666": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nO presente regulamento entra em vigor no dia a seguir ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n([1](http://publications.europa.eu/resource/cellar/c500eff5-1b99-47ff-b288-ad8ddffa79c2.0018.02/DOC_1#src.E0001)) Este acto não existe na língua portuguesa.\n\n([2](http://publications.europa.eu/resource/cellar/c500eff5-1b99-47ff-b288-ad8ddffa79c2.0018.02/DOC_1#src.E0002)) JO no L 100 de 27. 4. 1972, p. 1."
+  },
+  "49fd992b4425d9d2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1972R0922 — PT — 01.01.2014 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31972R0922) [REGULAMENTO (CEE) Nº 922/72 DO CONSELHO](http://publications.europa.eu/resource/celex/31972R0922) [de 2 de Maio de 1972](http://publications.europa.eu/resource/celex/31972R0922) [que fixa para a campanha de criação de 1972/1973 as regras gerais da concessão da ajuda para os bichos-da-seda](http://publications.europa.eu/resource/celex/31972R0922) (JO L 106, 5.5.1972, p.1)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 1308/2013 do Parlamento Europeu e do Conselho de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1308) — L 347 — 671 — 20.12.2013"
+  }
+ }
+}

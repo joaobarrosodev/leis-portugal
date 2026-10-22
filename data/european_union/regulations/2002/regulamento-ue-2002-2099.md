@@ -36,6 +36,81 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-26'
+version_history:
+  file: regulamento-ue-2002-2099.versoes.json
+  count: 6
+  source_lastmod: '2019-07-26'
+  versions:
+  - date: '2002-11-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-02-01'
+    amending: eu:celex:32004R0415:por
+    amending_title: REGULAMENTO (CE) N. o 415/2004 DA COMISSÃO de 5 de Março de 2004; REGULAMENTO (CE) N. o 93/2007 DA COMISSÃO
+      de 30 de Janeiro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 12.º — Entrada em vigor
+    - Adita Artigo 8.º — Alteração do Regulamento (CEE) n.º 613/91
+    - Adita Artigo 9.º — Alteração do Regulamento (CE) n.º 2978/94
+    - Adita Artigo 10.º — Alteração do Regulamento (CE) n.º 3051/95
+    - Adita Artigo 11.º — Alteração do Regulamento (CE) n.º 417/2002
+    - Adita Notas
+    - Suprime Artigo 8.º — Alteração do Regulamento (CEE) n.o 613/91
+    - Suprime Artigo 7.º
+    - Suprime Artigo 9.º — Alteração do Regulamento (CE) n.o 2978/94
+    - Suprime Artigo 10.º — Alteração do Regulamento (CE) n.o 3051/95
+    - Suprime Artigo 11.º — Alteração do Regulamento (CE) n.o 417/2002
+  - date: '2009-08-07'
+    amending: eu:celex:32009R0596:por
+    amending_title: REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Instituição de um comité
+    - Altera Artigo 7.º — Funções do COSS
+    - Altera Artigo 8.º — Alteração do Regulamento (CEE) n.º 613/91
+    - Altera Artigo 9.º — Alteração do Regulamento (CE) n.º 2978/94
+    - Altera Artigo 10.º — Alteração do Regulamento (CE) n.º 3051/95
+    - Altera Artigo 11.º — Alteração do Regulamento (CE) n.º 417/2002
+    - Altera Notas
+  - date: '2012-07-20'
+    amending: eu:celex:32012R0530:por
+    amending_title: REGULAMENTO (UE) N. o 530/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Alteração do Regulamento (CEE) n.º 613/91
+    - Altera Artigo 9.º — Alteração do Regulamento (CE) n.º 2978/94
+    - Altera Artigo 10.º — Alteração do Regulamento (CE) n.º 3051/95
+    - Altera Notas
+    - Suprime Artigo 11.º — Alteração do Regulamento (CE) n.º 417/2002
+  - date: '2016-02-17'
+    amending: eu:celex:32016R0103:por
+    amending_title: REGULAMENTO (UE) 2016/103 DA COMISSÃO de 27 de janeiro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Alteração do Regulamento (CEE) n.º 613/91
+    - Altera Artigo 9.º — Alteração do Regulamento (CE) n.º 2978/94
+    - Altera Artigo 10.º — Alteração do Regulamento (CE) n.º 3051/95
+    - Altera Notas
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Instituição de um comité
+    - Altera Artigo 8.º — Alteração do Regulamento (CEE) n.º 613/91
+    - Altera Artigo 9.º — Alteração do Regulamento (CE) n.º 2978/94
+    - Altera Artigo 10.º — Alteração do Regulamento (CE) n.º 3051/95
+    - Altera Notas
+    - Adita Artigo 7.º — Poderes do COSS e alterações
+    - Adita Artigo 7.º-A — Exercício da delegação
+    - Suprime Artigo 7.º — Funções do COSS
 identifiers:
   celex: 32002R2099
   eli: http://data.europa.eu/eli/reg/2002/2099/oj
@@ -50,7 +125,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6aac5bbf-8f8d-446b-a1e4-3dd55c8ce891.0010
   content_url: http://publications.europa.eu/resource/cellar/d1b6d19c-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R2099-20190726
-  retrieved_at: '2026-10-22T02:40:33Z'
+  retrieved_at: '2026-10-22T14:53:17Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-15T17:55:40.356+02:00'
 integrity:
@@ -59,9 +134,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:33Z'
-  notes: Texto consolidado 02002R2099-20190726.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:53:17Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2002-2099.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -242,34 +317,20 @@ relationships:
   date: '2006-03-07'
 article_structure:
   article_count: 12
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:33Z'
-  warnings: []
+  checked_at: '2026-10-22T14:53:17Z'
+  warnings:
+  - '02002R2099-20040306: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 2099/2002 do Parlamento Europeu e do Conselho, de 5 de Novembro de 2002
-
-> 02002R2099 — PT — 26.07.2019 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32004R0415) — [REGULAMENTO (CE) N.º 415/2004 DA COMISSÃO de 5 de Março de 2004](http://publications.europa.eu/resource/celex/32004R0415) — L 68 — 10 — 6.3.2004
-- [M2](http://publications.europa.eu/resource/celex/32007R0093) — [REGULAMENTO (CE) N.º 93/2007 DA COMISSÃO de 30 de Janeiro de 2007](http://publications.europa.eu/resource/celex/32007R0093) — L 22 — 12 — 31.1.2007
-- [►M3](http://publications.europa.eu/resource/celex/32009R0596) — [REGULAMENTO (CE) N.º 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0596) — L 188 — 14 — 18.7.2009
-- [►M4](http://publications.europa.eu/resource/celex/32012R0530) — [REGULAMENTO (UE) N.º 530/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2012](http://publications.europa.eu/resource/celex/32012R0530) — L 172 — 3 — 30.6.2012
-- [►M5](http://publications.europa.eu/resource/celex/32016R0103) — [REGULAMENTO (UE) 2016/103 DA COMISSÃO de 27 de janeiro de 2016](http://publications.europa.eu/resource/celex/32016R0103) — L 21 — 67 — 28.1.2016
-- [►M6](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-## REGULAMENTO (CE) N.º 2099/2002 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 5 de Novembro de 2002
 

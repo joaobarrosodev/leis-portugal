@@ -35,6 +35,46 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-11-06'
+version_history:
+  file: regulamento-ue-2005-1345.versoes.json
+  count: 4
+  source_lastmod: '2016-11-06'
+  versions:
+  - date: '2008-07-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-07-01'
+    amending: eu:celex:32010R0557:por
+    amending_title: REGULAMENTO (UE) N. o 557/2010 DA COMISSÃO de 24 de Junho de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Notas
+    - Suprime ANEXO
+    - Suprime Aplicação do Regulamento (CE) n.º 1345/2005
+    - Suprime COMISSÃO DAS COMUNIDADES EUROPEIAS — DG AGRI.C.2
+    - Suprime SECTOR DO AZEITE
+  - date: '2014-04-01'
+    amending: eu:celex:32013R1333:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1333/2013 DA COMISSÃO de 13 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Notas
+  - date: '2016-11-06'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Notas
 identifiers:
   celex: 32005R1345
   eli: http://data.europa.eu/eli/reg/2005/1345/oj
@@ -49,7 +89,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2f9dda2a-0ca5-4f5e-8f74-4a6cc92419a6.0016
   content_url: http://publications.europa.eu/resource/cellar/cefb68e3-cc00-4d8f-861a-532ce38f641b.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R1345-20161106
-  retrieved_at: '2026-10-22T03:12:22Z'
+  retrieved_at: '2026-10-22T15:00:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-02T22:52:19.827+01:00'
 integrity:
@@ -58,9 +98,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:22Z'
-  notes: Texto consolidado 02005R1345-20161106.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:00:22Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2005-1345.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -139,16 +179,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:22Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:00:22Z'
+  warnings: []
   errors: []
 ---
 

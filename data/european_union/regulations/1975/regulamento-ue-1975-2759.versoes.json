@@ -1,0 +1,863 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31975R2759:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01975R2759-20080701",
+ "dre_path": null,
+ "source_lastmod": "2008-07-01",
+ "versions": [
+  {
+   "date": "1975-11-01",
+   "future": false,
+   "celex": "31975R2759",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4ee25b32d4bb1b3b",
+    "1caaec9d467ceea7",
+    "b954866c84fe4b2d",
+    "9eaf8f70ba186062",
+    "26d686cf4969685d",
+    "0b58d58dbfae500b",
+    "bec2dd518a264a81",
+    "7f3ea3602b4bcb3e",
+    "7b1fd094ee98a3ea",
+    "8b50338d0b64a636",
+    "6d0ebe5aeb31736b",
+    "ba6b966763dd8254",
+    "21531e60491e60b5",
+    "1da186a3f8486e56",
+    "50b9aa6ef59419df",
+    "6fea06617eb2cf15",
+    "1fd73dd7e882220b",
+    "bf4255721f75b073",
+    "82fbe417c7df8f4e",
+    "96dc320b250bd48c",
+    "e3d06c1e6241e87b",
+    "a0c7e7dbf76cdbab",
+    "6dbca82e6a36ab48",
+    "fa24c812d4fe8c55",
+    "351d810ca1f9a5bd",
+    "9b0f1871381edad8",
+    "e47a4925fe9543c0",
+    "d6830ea8e94bb6ab",
+    "017d10d335cbc0c7",
+    "29fb80a66dff74f0",
+    "370b847f2f3a5106",
+    "14a6ca988cd10829",
+    "16a2e253ac0f5a3d",
+    "e2e1c3e5ba972036"
+   ]
+  },
+  {
+   "date": "2005-12-02",
+   "future": false,
+   "celex": "01975R2759-20051202",
+   "acts": [
+    {
+     "id": "eu:celex:31976R0367:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31976R0367"
+    },
+    {
+     "id": "eu:celex:31978R1423:por",
+     "title": "REGULAMENTO (CEE) N o 1423/78 DO CONSELHO de 20 de Junho de 1978",
+     "published": null,
+     "celex": "31978R1423"
+    },
+    {
+     "id": "eu:celex:31980R2966:por",
+     "title": "M3",
+     "published": null,
+     "celex": "31980R2966"
+    },
+    {
+     "id": "eu:celex:31985R3768:por",
+     "title": "M4",
+     "published": null,
+     "celex": "31985R3768"
+    },
+    {
+     "id": "eu:celex:31986R1473:por",
+     "title": "M5",
+     "published": null,
+     "celex": "31986R1473"
+    },
+    {
+     "id": "eu:celex:31986R1475:por",
+     "title": "M6",
+     "published": null,
+     "celex": "31986R1475"
+    },
+    {
+     "id": "eu:celex:31987R3906:por",
+     "title": "REGULAMENTO (CEE) N o 3906/87 DO CONSELHO de 22 de Dezembro de 1987",
+     "published": null,
+     "celex": "31987R3906"
+    },
+    {
+     "id": "eu:celex:31989R1249:por",
+     "title": "REGULAMENTO (CEE) N o 1249/89 DO CONSELHO de 3 de Maio de 1989",
+     "published": null,
+     "celex": "31989R1249"
+    },
+    {
+     "id": "eu:celex:31994R3290:por",
+     "title": "REGULAMENTO (CE) N o 3290/94 DO CONSELHO de 22 de Dezembro de 1994",
+     "published": null,
+     "celex": "31994R3290"
+    },
+    {
+     "id": "eu:celex:32000R1365:por",
+     "title": "REGULAMENTO (CE) N. o 1365/2000 DO CONSELHO de 19 de Junho de 2000",
+     "published": null,
+     "celex": "32000R1365"
+    },
+    {
+     "id": "eu:celex:32005R1913:por",
+     "title": "REGULAMENTO (CE) N. o 1913/2005 DO CONSELHO de 23 de Novembro de 2005",
+     "published": null,
+     "celex": "32005R1913"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Grécia",
+     "published": null,
+     "celex": "11979H"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1º",
+    "Adita TÍTULO I",
+    "Adita Regime de preços",
+    "Adita Artigo 2º",
+    "Adita Artigo 3º",
+    "Adita Artigo 4º",
+    "Adita Artigo 5º",
+    "Adita Artigo 6º",
+    "Adita Artigo 7º",
+    "Adita TÍTULO II",
+    "Adita Regime comercial com países terceiros",
+    "Adita Artigo 8º",
+    "Adita Artigo 9º",
+    "Adita Artigo 10º",
+    "Adita Artigo 11º",
+    "Adita Artigo 12º",
+    "Adita Artigo 13º",
+    "Adita Artigo 14º",
+    "Adita Artigo 15º",
+    "Adita Artigo 16º",
+    "Adita TÍTULO III",
+    "Adita Disposições gerais",
+    "Adita Artigo 19º",
+    "Adita Artigo 20.º",
+    "Adita Artigo 21º",
+    "Adita Artigo 22º",
+    "Adita Artigo 24º",
+    "Adita Artigo 25º",
+    "Adita Artigo 26º",
+    "Adita Artigo 27º",
+    "Adita Artigo 28º",
+    "Adita Artigo 29º",
+    "Adita ANEXO",
+    "Adita Quadro de concordância",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime TÍTULO I — Regime de preços",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime TÍTULO II — Regime de trocas com países terceiros",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime TÍTULO III — Disposições gerais",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o",
+    "Suprime Artigo 21o",
+    "Suprime Artigo 22o",
+    "Suprime Artigo 23o",
+    "Suprime Artigo 24o",
+    "Suprime Artigo 25o",
+    "Suprime Artigo 26o",
+    "Suprime Artigo 27o",
+    "Suprime Artigo 28o",
+    "Suprime Artigo 29o",
+    "Suprime ANEXO — Quadro de concordância"
+   ],
+   "fragments": [
+    "f5a65f1ae080710e",
+    "5352e358e1278396",
+    "ffc348f463b781ad",
+    "e6abe73e47429d90",
+    "485811ceeaca7ab3",
+    "f15b311932145a40",
+    "c990b46f60704c52",
+    "2c68d3430b2bc482",
+    "007f37b6a9ddbedc",
+    "16555b9042aaeb6e",
+    "4c8bdeab3d91ec7d",
+    "86df03604f2fa6dc",
+    "19669dcecd72cf13",
+    "5488dc941d72ec51",
+    "64edcad4d979696f",
+    "53425de34e3aa480",
+    "00a92c0460649eb3",
+    "2ceea7b0eed0b39c",
+    "56a8c5a85c170962",
+    "5a3ed0f31abfc4f3",
+    "4015216831c0431a",
+    "9db704600627e53c",
+    "7fabed8a0a46afb5",
+    "c762c5b98556a87f",
+    "f732012253138973",
+    "d66bc95862588a1f",
+    "8eeac3d6cbff5384",
+    "f358380a67ac53f6",
+    "d3548aa3cdfe432b",
+    "989a3bfe55dec4e4",
+    "4ec34291c650f343",
+    "ade22ea2c8eb466d",
+    "8e853f928eaba6f6",
+    "10220b9774fa9034",
+    "2e6761625ffce5f9",
+    "1a2ac4b257495596"
+   ]
+  },
+  {
+   "date": "2008-07-01",
+   "future": false,
+   "celex": "01975R2759-20080701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime TÍTULO I",
+    "Suprime Regime de preços",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime TÍTULO II",
+    "Suprime Regime comercial com países terceiros",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime TÍTULO III",
+    "Suprime Disposições gerais",
+    "Suprime Artigo 19º",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21º",
+    "Suprime Artigo 22º",
+    "Suprime Artigo 24º",
+    "Suprime Artigo 25º",
+    "Suprime Artigo 26º",
+    "Suprime Artigo 27º",
+    "Suprime Artigo 28º",
+    "Suprime Artigo 29º",
+    "Suprime ANEXO",
+    "Suprime Quadro de concordância",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "2c28dbdaef2160e7"
+   ]
+  }
+ ],
+ "fragments": {
+  "4ee25b32d4bb1b3b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2759/75 do Conselho, de 29 de Outubro de 1975, que estabelece a organização comum de mercado no sector da carne de suíno** *Jornal Oficial nº L 282 de 01/11/1975 p. 0001 - 0009 Edição especial finlandesa: Capítulo 3 Fascículo 6 p. 0170 Edição especial grega: Capítulo 03 Fascículo 14 p. 0003 Edição especial sueca: Capítulo 3 Fascículo 6 p. 0170 Edição especial espanhola: Capítulo 03 Fascículo 9 p. 0086 Edição especial portuguesa: Capítulo 03 Fascículo 9 p. 0086*\n\nREGULAMENTO (CEE) No 2759/75 DO CONSELHO de 29 de Outubro de 1975 que estabelece a organização comum de mercado no sector da carne de suíno\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS;\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, e nomeadamente os seus artigos 42o e 43o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nConsiderando que as disposições fundamentais relativas à organização de mercado no sector da carne de suíno foram alteradas por várias vezes desde a sua adopção; que estes textos, devido ao seu número, complexidade e dispersão por diferentes Jornais Oficiais, são difíceis de utilizar e falta-lhes a clareza que qualquer regulamentação deve ter; que convém, nestas condições, proceder à sua codificação;\n\nConsiderando que o funcionamento e o desenvolvimento do mercado comum no que respeita aos produtos agrícolas devem ser acompanhados do estabelecimento de uma política agrícola comum e que esta deve, nomeadamente, incluir uma organização comum dos mercados agrícolas podendo tomar diversas formas consoante os produtos;\n\nConsiderando que a política agrícola comum tem por finalidade atingir os objectivos do artigo 39o do Tratado; que, nomeadamente no sector da carne de porco, é necessário, a fim de estabilizar os mercados e assegurar um nível de vida equitativo à população agrícola em causa, que possam ser tomadas medidas que permitam facilitar a adaptação da oferta às exigências do mercado, bem como medidas de intervenção; que estas últimas medidas podem tomar a forma de compras efectuadas pelos organismos de intervenção; que é conveniente, todavia, considerar igualmente as medidas de ajuda à armazenagem particular, dado que são estas que menos afectam a comercialização normal dos produtos e que são susceptíveis de reduzir a importância das compras a efectuar pelos organismos de intervenção; que, para este fim, é conveniente prever nomeadamente a fixação de um preço de base que sirva ao desencadeamento das medidas de intervenção, bem como as condições em que se efectua a intervenção;\n\nConsiderando que a realização de um mercado único para a Comunidade no sector da carne de porco implica o estabelecimento de um regime único de trocas nas fronteiras exteriores desta; que um regime de trocas associado ao sistema das intervenções e compreendendo um sistema de direitos niveladores e de restituições à exportação tende igualmente a estabilizar o mercado comunitário, evitando nomeadamente que as flutuações dos preços no mercado mundial se repercutam nos preços praticados no interior da Comunidade;\n\nConsiderando que o estabelecimento, sobre as importações com proveniência de países terceiros, de direitos niveladores que tenham em conta a incidência, da diferença entre o preço dos cereais forrageiros na Comunidade e no mercado mundial sobre os custos da alimentação e necessidade de uma protecção da transformação comunitária é suficiente em princípio para se alingir este fim;\n\nConsiderando que é necessário evitar no mercado da Comunidade perturbações devidas a ofertas feitas no mercado mundial a preços anormalmente baixos; que convém para este fim fixar os preços limite e aumentar os direitos niveladores de um montante suplementar sempre que os preços de oferta franco fronteira se situem abaixo destes preços; que o sistema dos preços limite não funcionará, contudo, no que respeita aos produtos em relação aos quais é difícil determinar um preço de oferta suficientemente representativo para o conjunto dos produtos abrangidos numa só posição pautal; que é, portanto, conveniente permitir um método de cálculo do montante suplementar;\n\nConsiderando que, a fim de poder controlar o volume das importações, é conveniente prever a possibilidade de um recurso a um regime de certificados de importação que implique a constituição de uma caução que garanta a importação;\n\nConsiderando que a possibilidade de conceder, aquando da exportação para países terceiros, uma restituição igual à diferença entre os preços na Comunidade e no mercado mundial é de natureza a salvaguardar a participação da Comunidade no comércio internacional da carne de porco; que, para garantir aos exportadores da Comunidade uma certa segurança no que respeita à estabilidade das restituições, se torna necessário prever a possibilidade de fixar antecipadamente as restituições no sector da carne de porco;\n\nConsiderando que, em complemento do sistema acima descrito, é conveniente prever a possibilidade de proibir total ou parcialmente, e na medida em que a situação do mercado o exigir, o recurso ao regime dito de aperfeiçoamento activo;\n\nConsiderando que o regime de direitos niveladores permite renunciar a qualquer outra medida de protecção relativamente ao exterior da Comunidade; que, todavia, o mecanismo dos preços e direitos niveladores comuns, pode revelar-se inadequado em circunstâncias especiais que, a fim de não deixar, em tais casos, o mercado comunitário sem defesa contra as perturbações que daí podem resultar quando os obstáculos à importação anteriormente existentes tiverem sido suprimidos, é conveniente permitir à Comunidade tomar rapidamente todas as medidas necessárias;\n\nConsiderando que as restrições à livre circulação resultantes da aplicação de medidas destinadas a combater a propagação de doenças de animais podem provocar dificuldades no mercado de um ou vários Estados-membros; que é necessário prever a possibilidade de pôr em acção medidas excepcionais de apoio de mercado destinadas a remediar a situação;\n\nConsiderando que, para facilitar a execução das disposições adoptadas, convém prever um processo que instaure um estreita cooperação entre os Estados-membros e a Comissão num Comité de Gestão;\n\nConsiderando que a realização de um mercado único assentando sobre um sistema de preços comuns seria comprometida pela concessão de certas ajudas; que é, portanto, conveniente que as disposições do Tratado que permitem apreciar as ajudas concedidas pelos Estados-membros e proibir as que são incompatíveis com o mercado comum sejam tornadas aplicáveis no sector da carne de porco;\n\nConsiderando que a organização comum de mercado no sector da carne de porco deve ter em conta, paralelamente e de maneira apropriada, os objectivos previstos nos artigos 39o e 110o do Tratado;\n\nConsiderando que as despesas realizadas pelos Estados-membros em consequência das obrigações decorrentes da aplicação do presente regulamento são da competência da Comunidade nos termos dos artigos 2o e 3o do Regulamento (CEE) no 729/70 do Conselho, de 21 de Abril de 1970, relativo ao financiamento da política agrícola comum (2), alterado pelo Regulamento (CEE) no 1566/72 (3),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1caaec9d467ceea7": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A organização comum de mercado no sector da carne de porco compreende um regime de preços e de trocas, e é aplicável aos seguintes produtos:\n\n\"\" ID=\"1\">a) 01.03 A II> ID=\"2\">Animais vivos da espécie suína, de espécies domésticas, excepto os reprodutores de raça pura\"> ID=\"1\">b) 02.01 A III a)> ID=\"2\">Carnes da espécie suína doméstica, frescas, refrigeradas ou congeladas\"> ID=\"1\">02.01 B II c)> ID=\"2\">Miudezas da espécie suína doméstica, frescas, refrigeradas ou congeladas\"> ID=\"1\">02.05 A e B> ID=\"2\">Toucinho, com exclusão do toucinho que contenha partes magras (entremeado) e gordura de porco não prensada, nem fundida, nem extraída pela acção de solventes, fresco, refrigerado, congelado, salgado ou em salmoura, seco ou fumado\"> ID=\"1\">02.06 B> ID=\"2\">Carnes e miudezas comestíveis da espécie suína doméstica, salgadas ou em salmoura, secas ou fumadas\"> ID=\"1\">15.01 A> ID=\"2\">Banha e outras gorduras de porco, prensadas, fundidas ou extraídas pela acção de solventes\"> ID=\"1\">c) 16.01> ID=\"2\">Salsichas, chouriços e outros enchidos, de carne, de miudezas ou de sangue\"> ID=\"1\">16.02 A II> ID=\"2\">Outros preparados e conservas de carne ou de miudezas que contenham fígado, com excepção do de ganso ou de pato\"> ID=\"1\">16.02 B III a)> ID=\"2\">Outros preparados e conservas de carnes ou de miudezas, não especificados, que contenham carne ou miudezas da espécie suína doméstica\">\n\n2. Na acepção do presente regulamento, é considerado como trimestre um período de três meses com início em 1 de Fevereiro, 1 de Maio, 1 de Agosto ou 1 de Novembro."
+  },
+  "b954866c84fe4b2d": {
+   "fragment_id": "TÍTULO I — Regime de preços",
+   "type": "divisao",
+   "heading": "TÍTULO I — Regime de preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Regime de preços"
+  },
+  "9eaf8f70ba186062": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nTendo em vista encorajar as iniciativas profissionais e inter-professionais que permitam facilitar a adaptação da oferta às exigências do mercado, podem ser tomadas relativamente aos produtos mencionados no no 1 do artigo 1o as seguintes medidas comunitárias:\n\n- medidas tendentes a promover uma melhor organização da sua produção, transformação e comercialização,\n\n- medidas tendentes a melhorar a sua qualidade,\n\n- medidas tendentes a permitir o estabelecimento de previsões a curto prazo e a longo prazo através do conhecimento dos meios de produção utilizados,\n\n- medidas tendentes a facilitar a verificação da evolução dos seus preços no mercado.\n\nAs regras gerais relativas a estas medidas são adoptadas de acordo com o procedimento previsto no no 2 do artigo 43o do Tratado."
+  },
+  "26d686cf4969685d": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nPodem ser tomadas as seguintes medidas de intervenção para evitar ou atenuar uma baixa considerável dos preços:\n\n- auxílios á armazenagem privada,\n\n- compras efectuadas pelos organismos de intervenção.\n\nPodem ser objecto de auxílios à armazenagem privada os produtos determinados segundo as regras previstas no artigo 5o.\n\nAs compras efectuadas pelos organismos de intervenção incidirão sobre as carcaças ou meias carcaças, frescas ou refrigeradas (subposição ex 02.01 A III a) 1 da pauta aduaneira comum), e podem incidir sobre os peitos (entremeados), frescos ou refrigerados (subposição ex 02.01 A III a) 5 da pauta aduaneira comum), e toucinho fresco ou refrigerado (subposição ex 02.05 A I da pauta aduaneira comum)."
+  },
+  "0b58d58dbfae500b": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Será fixado anualmente, antes de 1 de Agosto, um preço de base válido a partir de 1 de Novembro do mesmo ano no que respeita a carnes da espécie suína doméstica, apresentadas em carcaças ou meias carcaças, a seguir denominadas «porco abatido», com uma qualidade tipo definida segundo uma grelha comunitária de classificação de carcaças de porco.\n\nO preço base será fixado tendo em conta:\n\n- o preço limite e o direito nivelador aplicáveis durante o trimestre que se inicia em 1 de Agosto de cada ano,\n\n- a necessidade de fixar este preço a um nível tal que contribua para assegurar a estabilização das cotações nos mercados não levando no entanto à formação de excedentes estruturais na Comunidade.\n\n2. Quando o preço comunitário de mercado do porco abatido, estabelecido a partir dos preços verificados em cada Estado-membro nos mercados representativos da Comunidade e ponderados por coeficientes que exprimem a importância relativa do efectivo suíno de cada Estado-membro, se situar a um nível inferior a 103 % do preço base e for susceptível de se manter este nível, podem ser decididas medidas de intervenção.\n\n3. Os organismos de intervenção designados pelos Estados-membros tomarão as medidas de intervenção nas condições fixadas nos artigos 5o a 7o.\n\n4. De acordo com o procedimento previsto no no 2 do artigo 43o do Tratado,\n\n- será fixado o preço de base,\n\n- será determinada a qualidade-tipo do porco abatido.\n\n5. O Conselho, deliberando sob proposta da Comissão por maioria qualificada,\n\n- fixará a lista dos mercados representativos,\n\n- determinará a grelha comunitária de classificação das carcaças de porco.\n\n6. De acordo com o procedimento previsto no artigo 24o,\n\n- serão decididas as medidas de intervenção, assim como o fim da sua aplicação,\n\n- serão adoptadas as modalidades de aplicação do presente artigo."
+  },
+  "bec2dd518a264a81": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. O preço de compra no que respeita ao porco abatido da qualidade-tipo não pode ser superior a 92 % nem inferior a 85 % do preço base.\n\n2. Relativamente aos produtos de uma qualidade-tipo com excepção do porco abatido, os preços de compra serão derivados do preço de compra para o porco abatido em função da relação existente entre cada um dos preços limite destes produtos, por um lado, e os preços limite do porco abatido, por outro.\n\n3. Relativamente aos produtos que não sejam os da qualidade tipo, os preços de compra são derivados dos preços válidos para as qualidades-tipo consideradas, tendo em conta as diferenças de qualidade em relação às qualidades-tipo. Estes preços são válidos para qualidades definidas.\n\n4. De acordo com o procedimento previsto no artigo 24o,\n\na) Determinar-se-ao quais os produtos a que são aplicáveis as medidas de intervenção bem como, no que diz respeito às compras, as qualidades destes produtos; além disso, no que respeita a certas regiões da Comunidade, podem ser excluídas da aplicação de medidas de intervenção certas categorias de peso, desde que não sejam representativas das características da produção suína das regiões consideradas;\n\nb) Fixar-se-ao os preços de compra e o montante dos auxílios à armazenagem privada;\n\nc) Serão adoptadas as modalidades de aplicação do presente artigo, nomeadamente as condições de compra e de armazenagem dos produtos objecto das medidas de intervenção previstas no artigo 3o."
+  },
+  "7f3ea3602b4bcb3e": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. O escoamento dos produtos comprados pelos organismos de intervenção, ao abrigo do disposto nos artigos 3o, 4o e 5o, será feito de forma a evitar qualquer perturbação do mercado e garantir a igualdade de acesso às mercadorias e de tratamento dos compradores.\n\n2. As modalidades de aplicação do presente artigo, nomeadamente no que diz respeito ao preço de venda, às condições de escoamento do produto armazenado e, eventualmente, de transformação de produtos comprados pelos organismos de intervenção, serão adoptadas de acordo com o procedimento previsto no artigo 24o."
+  },
+  "7b1fd094ee98a3ea": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. O Conselho, deliberando sob proposta da Comissão por maioria qualificada, adoptará as regras gerais para a concessão de auxílios à armazenagem privada.\n\n2. As modalidades de aplicação serão adoptadas de acordo com o procedimento previsto no artigo 24o."
+  },
+  "8b50338d0b64a636": {
+   "fragment_id": "TÍTULO II — Regime de trocas com países terceiros",
+   "type": "divisao",
+   "heading": "TÍTULO II — Regime de trocas com países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Regime de trocas com países terceiros"
+  },
+  "6d0ebe5aeb31736b": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nAquando da importação pela Comunidade dos produtos referidos no no 1 do artigo 1o, será cobrado um direito nivelador fixado antecipadamente em relação a cada trimestre, de acordo com o procedimento previsto no artigo 24o."
+  },
+  "ba6b966763dd8254": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. O direito nivelador aplicável ao porco abatido compor-se-á:\n\na) De um elemento igual à diferença entre os preços na Comunidade, por um lado, e no mercado mundial, por outro lado, da quantidade de cereais forrageiros necessária à produção na Comunidade de um quilograma de carne de porco.\n\nOs preços dos cereais forrageiros na Comunidade são estabelecidos uma vez por ano para um período de doze meses, com início em 1 de Agosto, em função dos preços limiar destes cereais e do seu acréscimo mensal.\n\nOs preços dos cereais forrageiros no mercado mundial são estabelecidos trimestralmente com base nos preços dos cereais relativos ao período de seis meses que precede o trimestre em que o referido elemento é calculado.\n\nContudo, ao ser fixado o direito nivelador válido a partir de 1 Novembro, 1 de Fevereiro e 1 de Maio, somente se terá em conta a evolução dos preços dos cereais forrageiros no mercado mundial se na mesma data tiver lugar uma nova fixação do preço limite;\n\nb) De um elemento igual a 7 % da média dos preços limite válidos para os quatro trimestres que precedem o dia 1 de Maio de cada ano.\n\nEste elemento será estabelecido uma vez por ano para um período de doze meses com início em 1 de Agosto.\n\n2. O Conselho, deliberando sob proposta da Comissão por maioria qualificada,\n\n- determinará a quantidade de cereais forrageiros necessária à produção na Comunidade de um quilograma de carne de porco, assim como as percentagens dos diferentes cereais forrageiros que entram na composição da quantidade acima referida,\n\n- adoptará as regras de aplicação do presente artigo."
+  },
+  "21531e60491e60b5": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. No que respeita aos produtos mencionados no no 1, alínea a) e b), do artigo 1o, e que não sejam porco abatido, o direito nivelador será derivado do direito nivelador do porco abatido, em função da relação existente na Comunidade entre os preços desses produtos, por um lado, e preço do porco abatido, por outro lado.\n\n2. No que respeita aos produtos mencionados no no 1, alínea c), do artigo 1o, o direito nivelador será igual à soma dos seguintes elementos:\n\na) Um primeiro elemento derivado do direito nivelador do porco abatido, em função da relação existente na Comunidade entre os preços destes produtos, por um lado, e o preço do porco abatido, por outro lado;\n\nb) Um segundo elemento igual a 7 % do preço de oferta médio determinado com base nas importações efectuadas no decurso dos doze meses que precedem o dia 1 de Maio de cada ano. Contudo, esta percentagem será igual a 10 % no que respeita aos produtos abrangidos pela posição ex 16.02 da pauta aduaneira comum.\n\nEste elemento será estabelecido uma vez por ano, para um período de 12 meses com início em 1 de Agosto.\n\n3. Por derrogação do disposto nos no 1 e 2 e relativamente aos produtos abrangidos pelas posições ex 02.01 B II, ex 15.01 A, ex 16.01 A e ex 16.02 A II da pauta aduaneira comum, cuja taxa de direito tenha sido consolidada no quadro do GATT, os direitos niveladores serão limitados ao montante resultante desta consolidação.\n\n4. Os coeficientes que exprimen as relações mencionadas nos no 1 e 2 serão fixados de acordo com o procedimento previsto no artigo 24o."
+  },
+  "1da186a3f8486e56": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nPodem ser tomadas as medidas necessárias sempre que se verificar no mercado da Comunidade uma alta sensível de preços, susceptivel de persistir, e que por esse facto este mercado está perturbado ou corre o risco de perturbação.\n\nO Conselho, deliberando sob proposta da Comissão por maioria qualificada, adoptará as regras gerais de aplicação do presente artigo."
+  },
+  "50b9aa6ef59419df": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Os preços limite serão fixados antecipadamente para cada trimestre de acordo com o procedimento previsto no artigo 24o.\n\n2. O preço limite no que respeita ao porce abatido compor-se-á:\n\na) De um montante igual ao valor, no mercado mundial, de uma quantidade de cereais forrageiros equivalente à quantidade de alimentos necessária à produção, em países terceiros, de um quilograma de carne de porco;\n\nb) De um montante fixo correspondente ao excedente de valor, em relação aos cereais forrageiros, de outros alimentos, que não sejam cereais, necessários à produção de um quilograma de carne de porco;\n\nc) De um montante fixo que representa os custos gerais de produção e comercialização.\n\nO valor da quantidade de cereais forrageiros será estabelecido trimestralmente com base nos preços dos cereais verificados no mercado mundial durante o período de seis meses que precede o trimestre em que for fixado o preço limite.\n\nContudo, ao ser fixado o preço limite válido a partir de 1 de Novembro, de 1 de Fevereiro e de 1 de Maio, somente se terá conta a evolução do preço dos cereais forrageiros no mercado mundial se o valor da quantidade de cereais forrageiros acusar uma variação mínima em relação à utilizada para o cálculo do preço limite do trimestre anterior.\n\n3. No que respeita aos produtos mencionados no no 1 do artigo 1o, com excepção do porco abatido, os preços limite só são fixados para alguns destes. Estes preços limite serão derivados do preço limite do porco abatido em função da relação fixada para estes produtos nos termos do no 4 do artigo 10o.\n\n4. O Conselho, deliberando sob proposta da Comissão por maioria qualificada,\n\n- determinará a quantidade de cereais forrageiros referida na alínea a) do no 2, bem como as percentages dos diferentes cereais forrageiros nesta quantidade,\n\n- determinará a lista dos produtos para os quais são fixados preços limite,\n\n- adoptará as regras para o cálculo do preço limite do porco abatido."
+  },
+  "6fea06617eb2cf15": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. Quando, para um determinado produto, o preço de oferta franco-fronteira descer abaixo do preço limite, o direito nivelador aplicável a este produto será aumentado de um montante suplementar igual à diferença entre o preço limite e o preço de oferta franco-fronteira.\n\nPara certos produtos cujo preço limite não é fixado, instaurar-se-á um sistema, dito de produtos pilotos e de produtos derivados, que permita a fixação de montantes suplementares.\n\n2. O direito nivelador não será, porém, aumentado do montante suplementar em relação a países terceiros dispostos a garantir, e em condições de o fazer, que, na importação pela Comunidade de produtos originários e provenientes do seu território, o preço praticado não será inferior ao preço limite do produto considerado e que qualquer desvio de tráfico será evitado.\n\n3. O preço de oferta franco-fronteira será estabelecido relativamente a todas as importações provenientes de qualquer país terceiro.\n\nContudo, se as exportações de um ou vários países terceiros se efectuarem a preços anormalmente baixos, inferiores aos preços praticados por outros países terceiros, será estabelecido um segundo preço de oferta franco-fronteira relativamente às exportações desses outros países.\n\n4. O Conselho, deliberando sob proposta da Comissão por maioria qualificada, adoptará as regras gerais relativas ao sistema previsto no parágrafo 2 do no 1.\n\n5. As modalidades de aplicação do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 24o.\n\nSe necessário, os montantes suplementares serão fixados de acordo com o mesmo procedimento."
+  },
+  "1fd73dd7e882220b": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. Qualquer importação pela Comunidade dos produtos referidos no no 1 do artigo 1o poderá ser submetida à apresentação de um certificado de importação, emitido pelos Estados-membros a favor de qualquer interessado que o peça, independentemente do lugar do seu estabelecimento na Comunidade.\n\nEste certificado será válido para uma importação efectuada pela Comunidade.\n\nA emissão deste certificado estará dependente da constituição de uma caução que garanta o compromisso de importar durante a validade do certificado e que será perdida na totalidade ou em parte se a importação não se realizar neste período ou só se realizar parcialmente.\n\n2. O Conselho, deliberando sob proposta da Comissão por maioria qualificada, determinará a lista dos produtos para os quais se exigem certificados de importação.\n\n3. A duração da validade dos certificados e as outras modalidades de aplicação do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 24o."
+  },
+  "bf4255721f75b073": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\n1. Na medida do necessário para permitir a exportação dos produtos referidos no no 1 do artigo 1o com base nas cotações ou nos preços destes produtos no mercado mundial, a diferença entre estas cotações ou preços na Comunidade poderá ser coberta por uma restituição à exportação.\n\n2. A restituição será a mesma em toda a Comunidade. Pode ser diferente segundo os destinos.\n\nA restituição fixada será concedida a pedido do interessado.\n\n3. Ao ser fixada a restituição, será tida em conta nomeadamente a necessidade de estabelecer um equilíbrio entre a utilização dos produtos de base comunitários com vista à exportação de mercadorias transformadas para países terceiros e a utilização dos produtos destes países admitidos ao regime dito de aperfeiçoamento.\n\n4. O Conselho, deliberando sob proposta da Comissão por maioria qualificada, adoptará as regras gerais relativas à concessão e à fixação antecipada das restituições à exportação, bem como os critérios de fixação do seu montante.\n\n5. A fixação das restituições terá lugar periodicamente de acordo com o procedimento previsto no artigo 24o. Em caso de necessidade, a Comissão, a pedido de um Estado-membro ou por sua própria iniciativa, poderá modificar as restituições, em data intercalar.\n\n6. As modalidades de aplicação do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 24o."
+  },
+  "82fbe417c7df8f4e": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nNa medida do necessário para o bom funcionamento da organização comum de mercado no sector da carne de porco, o Conselho, deliberando sob proposta da Comissão por maioria qualificada, poderá excluir, total ou parcialmente, o recurso ao regime dito de aperfeiçoamento activo relativamente aos produtos mencionados no no 1 do artigo 1o, destinados ao fabrico dos produtos mencionados nesse mesmo número."
+  },
+  "96dc320b250bd48c": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\n1. Na classificação dos produtos abrangidos pelo presente regulamento serão aplicadas as regras gerais de interpretação da pauta aduaneira comum e as regras particulares para a sua aplicação; a nomenclatura pautal resultante da aplicação do presente regulamento será integrada na pauta aduaneira comum.\n\n2. Salvo disposições contrárias do presente regulamento ou derrogação decidida pelo Conselho, deliberando sob proposta da Comissão por maioria qualificada, são proibidas:\n\n- a cobrança de qualquer direito aduaneiro ou encargo de efeito equivalente,\n\n- a aplicação de qualquer restrição quantitativa ou medida de efeito equivalente.\n\nÉ considerada como medida de efeito equivalente a uma restrição quantitativa, por exemplo, a limitação de concessão de certificados de importação a uma determinada categoria de interessados."
+  },
+  "e3d06c1e6241e87b": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\n1. Se, em consequência das importações ou exportações, o mercado na Comunidade de um ou vários dos produtos mencionados no no 1 do artigo 1o sofrer graves perturbações, susceptíveis de pôr em perigo os objectivos do artigo 39o do Tratado, ou correr esse risco, podem ser aplicadas as medidas apropriadas nas trocas com países terceiros até que a perturbação ou ameaça de perturbação tenham desaparecido.\n\nO Conselho, deliberando sob proposta da Comissão por maioria qualificada, adoptará as modalidades de aplicação do presente número e definirá os casos e os limites nos quais os Estados-membros podem tomar medidas cautelares.\n\n2. Se ocorrer a situação referida no no 1, a Comissão, a pedido de um Estado-membro ou por iniciativa própria, decidirá as medidas necessárias, que serão comunicadas aos Estados-membros e de aplicação imediata. A Comissão decidirá relativamente a pedidos formulados por um Estado-membro, nas vinte e quatro horas seguintes à apresentação do pedido.\n\n3. Qualquer Estado-membro pode submeter ao Conselho a medida tomada pela Comissão no prazo de três dias úteis a seguir à sua comunicação. O Conselho reunir-se-á sem demora. O Conselho pode, por maioria qualificada, modificar ou anular a medida em causa."
+  },
+  "a0c7e7dbf76cdbab": {
+   "fragment_id": "TÍTULO III — Disposições gerais",
+   "type": "divisao",
+   "heading": "TÍTULO III — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Disposições gerais"
+  },
+  "6dbca82e6a36ab48": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nNão serão admitidas à livre circulação na Comunidade as mercadorias referidas no no 1 do artigo 1o, fabricadas ou obtidas a partir de produtos que não sejam os referidos no no 2 do artigo 9o e no no 1 do artigo 10o do Tratado."
+  },
+  "fa24c812d4fe8c55": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\nA fim de ter em conta as limitações à livre circulação que poderiam resultar da aplicação das medidas destinadas a combater a propagação das doenças dos animais, poderão ser tomadas medidas excepcionais de apoio do mercado afectado por estas limitações de acordo com o procedimento previsto no artigo 24o. Estas medidas só poderão ser tomadas, na medida e pela duração estritamente necessárias ao apoio deste mercado."
+  },
+  "351d810ca1f9a5bd": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\nSob reserva de disposições contrárias do presente regulamento, os artigo 92o a 94o do Tratado são aplicáveis à produção e ao comércio dos produtos mencionados no no 1 do artigo 1o."
+  },
+  "9b0f1871381edad8": {
+   "fragment_id": "Artigo 22o",
+   "type": "artigo",
+   "heading": "Artigo 22o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o\n\nOs Estados-membros e a Comissão comunicarão reciprocamente os dados necessários à aplicação do presente regulamento.\n\nAs modalidades da comunicação e difusão destes dados serão adoptadas de acordo com o procedimento previsto no artigo 24o."
+  },
+  "e47a4925fe9543c0": {
+   "fragment_id": "Artigo 23o",
+   "type": "artigo",
+   "heading": "Artigo 23o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o\n\n1. Será instituído um Comité de Gestão da carne de porco, adiante denominado Comité, composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. No seio do Comité, é atribuída aos votos dos Estados-membros a ponderação prevista no no 2 do artigo 148o do Tratado. O presidente não toma parte na votação."
+  },
+  "d6830ea8e94bb6ab": {
+   "fragment_id": "Artigo 24o",
+   "type": "artigo",
+   "heading": "Artigo 24o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24o\n\n1. Quando se fizer referência ao procedimento definido no presente artigo, o presidente submete a questão ao Comité, quer por iniciativa própria, quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submeterá um projecto de medidas a tomar. O Comité emitirá o seu parecer sobre estas medidas num prazo que o presidente pode fixar em função da urgência das questões submetidas a exame. O Comité pronunciar-se-á por maioria de quarenta e um votos.\n\n3. A Comissão adoptará medidas, que são de aplicação imediata. Todavia, se não estiverem em conformidade com o parecer emitido pelo Comité, estas medidas serão imediatamente comunicadas pela Comissão ao Conselho. Neste caso, a Comissão pode diferir de um mês ou mais, a contar desta comunicação, a aplicação das medidas que tiver decidido.\n\nO Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo de um mês."
+  },
+  "017d10d335cbc0c7": {
+   "fragment_id": "Artigo 25o",
+   "type": "artigo",
+   "heading": "Artigo 25o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25o\n\nO Comité pode examinar qualquer outra questão evocada pelo seu presidente, quer por iniciativa própria, quer a pedido do representante de um Estado-membro."
+  },
+  "29fb80a66dff74f0": {
+   "fragment_id": "Artigo 26o",
+   "type": "artigo",
+   "heading": "Artigo 26o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26o\n\nO presente regulamento deve ser aplicado de tal maneira que se tenham em conta, paralelamente e de maneira apropriada, os objectivos previstos nos artigos 39o e 110o do Tratado."
+  },
+  "370b847f2f3a5106": {
+   "fragment_id": "Artigo 27o",
+   "type": "artigo",
+   "heading": "Artigo 27o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27o\n\nNos casos em que a Itália faz uso da faculdade prevista no artigo 23o do Regulamento (CEE) no 2727/75 do Conselho, de 29 de Outubre de 1975, que estabelece a organização comum de mercado no sector dos cereais (4), o Conselho, deliberando sob proposta da Comissão por maioria qualificada, tomará as medidas necessárias para evitar distorções de concorrência."
+  },
+  "14a6ca988cd10829": {
+   "fragment_id": "Artigo 28o",
+   "type": "artigo",
+   "heading": "Artigo 28o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28o\n\n1. É revogado o Regulamento no 121/67/CEE do Conselho, de 13 de Junho de 1967, que estabelece a organização comum de mercado no sector da carne de porco (5), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 1861/74 (6).\n\n2. As referências ao regulamento revogado por força do no 1 devem entender-se como sendo feitas ao presente regulamento.\n\nAs citações e as referências relativas aos artigos do referido regulamento devem-ser ler conforme o quadro de concordância que figura no Anexo."
+  },
+  "16a2e253ac0f5a3d": {
+   "fragment_id": "Artigo 29o",
+   "type": "artigo",
+   "heading": "Artigo 29o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29o\n\nO presente regulamento entra em vigor em 1 de Novembro de 1975.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo em 29 de Outubro de 1975.\n\nPelo Conselho\n\nO Presidente\n\nG. MARCORA\n\n(1) JO no C 60 de 13. 3. 1975, p. 42.(2) JO no L 94 de 28. 4. 1970, p. 13.(3) JO no L 167 de 25. 7. 1972, p. 5.(4) JO no L 281 de 1. 11. 1975, p. 1.(5) JO no 117 de 19. 6. 1967, p. 2283/67.(6) JO no L 197 de 19. 7. 1974, p. 3."
+  },
+  "e2e1c3e5ba972036": {
+   "fragment_id": "ANEXO — Quadro de concordância",
+   "type": "divisao",
+   "heading": "ANEXO — Quadro de concordância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Quadro de concordância\n\n\"\" ID=\"1\">artigo 27o> ID=\"2\">artigo 26o\"> ID=\"1\">artigo 29o> ID=\"2\">artigo 27o\">"
+  },
+  "f5a65f1ae080710e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Outubro de 1975\n\nque estabelece a organização comum de mercado no sector da carne de suíno\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS;\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, e nomeadamente os seus artigos 42º e 43º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/07a5789f-c734-4acf-b835-c8bca4d2cece.0017.03/DOC_1#E0002)),\n\nConsiderando que as disposições fundamentais relativas à organização de mercado no sector da carne de suíno foram alteradas por várias vezes desde a sua adopção; que estes textos, devido ao seu número, complexidade e dispersão por diferentes Jornais Oficiais, são difíceis de utilizar e falta-lhes a clareza que qualquer regulamentação deve ter; que convém, nestas condições, proceder à sua codificação;\n\nConsiderando que o funcionamento e o desenvolvimento do mercado comum no que respeita aos produtos agrícolas devem ser acompanhados do estabelecimento de uma política agrícola comum e que esta deve, nomeadamente, incluir uma organização comum dos mercados agrícolas podendo tomar diversas formas consoante os produtos;\n\nConsiderando que a política agrícola comum tem por finalidade atingir os objectivos do artigo 39º do Tratado; que, nomeadamente no sector da carne de porco, é necessário, a fim de estabilizar os mercados e assegurar um nível de vida equitativo à população agrícola em causa, que possam ser tomadas medidas que permitam facilitar a adaptação da oferta às exigências do mercado, bem como medidas de intervenção; que estas últimas medidas podem tomar a forma de compras efectuadas pelos organismos de intervenção; que é conveniente, todavia, considerar igualmente as medidas de ajuda à armazenagem particular, dado que são estas que menos afectam a comercialização normal dos produtos e que são susceptíveis de reduzir a importância das compras a efectuar pelos organismos de intervenção; que, para este fim, é conveniente prever nomeadamente a fixação de um preço de base que sirva ao desencadeamento das medidas de intervenção, bem como as condições em que se efectua a intervenção;\n\nConsiderando que a realização de um mercado único para a Comunidade no sector da carne de porco implica o estabelecimento de um regime único de trocas nas fronteiras exteriores desta; que um regime de trocas associado ao sistema das intervenções e compreendendo um sistema de direitos niveladores e de restituições à exportação tende igualmente a estabilizar o mercado comunitário, evitando nomeadamente que as flutuações dos preços no mercado mundial se repercutam nos preços praticados no interior da Comunidade;\n\nConsiderando que o estabelecimento, sobre as importações com proveniência de países terceiros, de direitos niveladores que tenham em conta a incidência, da diferença entre o preço dos cereais forrageiros na Comunidade e no mercado mundial sobre os custos da alimentação e necessidade de uma protecção da transformação comunitária é suficiente em princípio para se alingir este fim;\n\nConsiderando que é necessário evitar no mercado da Comunidade perturbações devidas a ofertas feitas no mercado mundial a preços anormalmente baixos; que convém para este fim fixar os preços limite e aumentar os direitos niveladores de um montante suplementar sempre que os preços de oferta franco fronteira se situem abaixo destes preços; que o sistema dos preços limite não funcionará, contudo, no que respeita aos produtos em relação aos quais é difícil determinar um preço de oferta suficientemente representativo para o conjunto dos produtos abrangidos numa só posição pautal; que é, portanto, conveniente permitir um método de cálculo do montante suplementar;\n\nConsiderando que, a fim de poder controlar o volume das importações, é conveniente prever a possibilidade de um recurso a um regime de certificados de importação que implique a constituição de uma caução que garanta a importação;\n\nConsiderando que a possibilidade de conceder, aquando da exportação para países terceiros, uma restituição igual à diferença entre os preços na Comunidade e no mercado mundial é de natureza a salvaguardar a participação da Comunidade no comércio internacional da carne de porco; que, para garantir aos exportadores da Comunidade uma certa segurança no que respeita à estabilidade das restituições, se torna necessário prever a possibilidade de fixar antecipadamente as restituições no sector da carne de porco;\n\nConsiderando que, em complemento do sistema acima descrito, é conveniente prever a possibilidade de proibir total ou parcialmente, e na medida em que a situação do mercado o exigir, o recurso ao regime dito de aperfeiçoamento activo;\n\nConsiderando que o regime de direitos niveladores permite renunciar a qualquer outra medida de protecção relativamente ao exterior da Comunidade; que, todavia, o mecanismo dos preços e direitos niveladores comuns, pode revelar-se inadequado em circunstâncias especiais que, a fim de não deixar, em tais casos, o mercado comunitário sem defesa contra as perturbações que daí podem resultar quando os obstáculos à importação anteriormente existentes tiverem sido suprimidos, é conveniente permitir à Comunidade tomar rapidamente todas as medidas necessárias;\n\nConsiderando que as restrições à livre circulação resultantes da aplicação de medidas destinadas a combater a propagação de doenças de animais podem provocar dificuldades no mercado de um ou vários Estados-membros; que é necessário prever a possibilidade de pôr em acção medidas excepcionais de apoio de mercado destinadas a remediar a situação;\n\nConsiderando que, para facilitar a execução das disposições adoptadas, convém prever um processo que instaure um estreita cooperação entre os Estados-membros e a Comissão num Comité de Gestão;\n\nConsiderando que a realização de um mercado único assentando sobre um sistema de preços comuns seria comprometida pela concessão de certas ajudas; que é, portanto, conveniente que as disposições do Tratado que permitem apreciar as ajudas concedidas pelos Estados-membros e proibir as que são incompatíveis com o mercado comum sejam tornadas aplicáveis no sector da carne de porco;\n\nConsiderando que a organização comum de mercado no sector da carne de porco deve ter em conta, paralelamente e de maneira apropriada, os objectivos previstos nos artigos 39º e 110º do Tratado;\n\nConsiderando que as despesas realizadas pelos Estados-membros em consequência das obrigações decorrentes da aplicação do presente regulamento são da competência da Comunidade nos termos dos artigos 2º e 3º do Regulamento (CEE) nº 729/70 do Conselho, de 21 de Abril de 1970, relativo ao financiamento da política agrícola comum ([^3^](http://publications.europa.eu/resource/cellar/07a5789f-c734-4acf-b835-c8bca4d2cece.0017.03/DOC_1#E0003)), alterado pelo Regulamento (CEE) nº 1566/72 ([^4^](http://publications.europa.eu/resource/cellar/07a5789f-c734-4acf-b835-c8bca4d2cece.0017.03/DOC_1#E0004)),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "5352e358e1278396": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A organização comum de mercado no sector da carne de suíno inclui um regime de preços e de trocas comerciais e abrange os seguintes produtos:\n\n|  | Código NC | Designação das mercadorias |\n| --- | --- | --- |\n| a) | ex01 03 | Animais vivos da espécie suína doméstica, com excepção dos reprodutores de raça pura |\n| b) | ex02 03 | Carnes de animais da espécie suína doméstica, frescas, refrigeradas ou congeladas |\n|  | ex02 06 | Miudezas comestíveis da espécie suína doméstica, com excepção das destinadas à fabricação de produtos farmacêuticos, frescas, refrigeradas ou congeladas |\n|  | ex02 09 00 | Toucinho sem partes magras, gorduras de porco não fundidas, frescos, refrigerados, congelados, salgados ou em salmoura, secos ou defumados |\n|  | ex02 10 | Carnes e miudezas comestíveis da espécie suína doméstica, salgadas ou em salmoura, secas ou defumadas |\n|  | 1501 00 111501 00 19 | Banha e outras gorduras de porco, fundidas, mesmo prensadas ou extraídas por meio de solventes |\n| c) | 1601 00 | Enchidos e produtos semelhantes de carne, miudezas ou sangue; preparações alimentares à base de tais produtos |\n|  | 1602 10 00 | Preparações homogeneizadas de carne, miudezas ou de sangue |\n|  | 1602 20 90 | Preparações e conservas de fígados de quaisquer animais, com excepção de ganso ou de pato |\n|  | 1602 41 10 1602 42 10 1602 49 11 a 1602 49 50 | Outras preparações e conservas de carne ou miudezas da espécie suína doméstica |\n|  | 1602 90 10 | Preparações de sangue de quaisquer animais |\n|  | 1602 90 51 | Outras preparações e conservas contendo carne ou miudezas da espécie suína doméstica |\n|  | 1902 20 30 | Massas alimentícias recheadas (mesmo cozidas ou preparadas de outro modo) contendo, em peso, mais de 20 % de enchidos e produtos semelhantes, de carnes e miudezas de qualquer espécie, incluídas as gorduras de qualquer natureza ou origem |"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "e6abe73e47429d90": {
+   "fragment_id": "Regime de preços",
+   "type": "divisao",
+   "heading": "Regime de preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regime de preços"
+  },
+  "485811ceeaca7ab3": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nTendo em vista encorajar as iniciativas profissionais e inter-professionais que permitam facilitar a adaptação da oferta às exigências do mercado, podem ser tomadas relativamente aos produtos mencionados no nº 1 do artigo 1º as seguintes medidas comunitárias:\n\n— medidas tendentes a promover uma melhor organização da sua produção, transformação e comercialização,\n\n— medidas tendentes a melhorar a sua qualidade,\n\n— medidas tendentes a permitir o estabelecimento de previsões a curto prazo e a longo prazo através do conhecimento dos meios de produção utilizados,\n\n— medidas tendentes a facilitar a verificação da evolução dos seus preços no mercado.\n\nAs regras gerais relativas a estas medidas são adoptadas de acordo com o procedimento previsto no nº 2 do artigo 43º do Tratado."
+  },
+  "f15b311932145a40": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nPodem ser tomadas as seguintes medidas de intervenção para evitar ou atenuar uma baixa considerável dos preços:\n\n— auxílios á armazenagem privada,\n\n— compras efectuadas pelos organismos de intervenção.\n\nPodem ser objecto de auxílios à armazenagem privada os produtos determinados segundo as regras previstas no artigo 5º.\n\nAs compras efectuadas pelos organismos de intervenção incidirão sobre as carcaças ou meias carcaças, frescas ou refrigeradas, da subposição 0203 11 10 da Nomenclatura Combinada, e podem incidir sobre os peitos (entremeados), frescos ou refrigerados da subposição ex020319 15 e o toucinho fresco ou refrigerado da subposição ex020900 11."
+  },
+  "c990b46f60704c52": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. A partir de 1 de Julho de 2000, o preço de base para as carnes da espécie suína doméstica, apresentadas em carcaças ou meias carcaças, a seguir denominadas «porco abatido», da qualidade-tipo, é fixado em 1 509,39 EUR/t.\n\nA qualidade-tipo é definida em função do peso e do teor de carne magra das carcaças de suínos, determinados nos termos dos n.^os^ 2 e 3 do artigo 2.º do Regulamento (CEE) n.º 3220/84, do seguinte modo:\n\n— carcaças com peso compreendido entre 60 e menos de 120 quilogramas: categoria E,\n\n— carcaças com peso compreendido entre 120 e 180 quilogramas: categoria R.\n\n2. Quando o preço comunitário de mercado do porco abatido, estabelecido a partir dos preços verificados em cada Estado-membro nos mercados representativos da Comunidade e ponderados por coeficientes que exprimem a importância relativa do efectivo suíno de cada Estado-membro, se situar a um nível inferior a 103 % do preço base e for susceptível de se manter este nível, podem ser decididas medidas de intervenção.\n\n3. Os organismos de intervenção designados pelos Estados-membros tomarão as medidas de intervenção nas condições fixadas nos artigos 5º a 7º.\n\n5. O Conselho, deliberando sob proposta da Comissão, por maioria qualificada, determinará a grelha comunitária de classificação das carcaças de porco.\n\n6. De acordo com o processo previsto no artigo 24º,\n\n— serão decididas as medidas de intervenção, assim como o fim a sua aplicação,\n\n— será fixada a lista dos mercados representativos,\n\n— serão adoptadas as regras de aplicação do presente artigo."
+  },
+  "2c68d3430b2bc482": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. O preço de compra para o porco abatido da qualidade tipo não poderá ser superior a 92 % nem inferior a 78 % do preço de base.\n\n2. Relativamente aos produtos de uma qualidade-tipo, com excepção do suíno abatido, os preços de compra serão derivados do preço de compra do suíno abatido em função da relação existente entre os valores comerciais desses produtos e o valor comercial do suíno abatido.\n\n3. Relativamente aos produtos que não sejam os da qualidade tipo, os preços de compra são derivados dos preços válidos para as qualidades-tipo consideradas, tendo em conta as diferenças de qualidade em relação às qualidades-tipo. Estes preços são válidos para qualidades definidas.\n\n4. De acordo com o procedimento previsto no artigo 24º,\n\na) Determinar-se-ão quais os produtos a que são aplicáveis as medidas de intervenção bem como, no que diz respeito às compras, as qualidades destes produtos; além disso, no que respeita a certas regiões da Comunidade, podem ser excluídas da aplicação de medidas de intervenção certas categorias de peso, desde que não sejam representativas das características da produção suína das regiões consideradas;\n\nb) Fixar-se-ão os preços de compra e o montante dos auxílios à armazenagem privada;\n\nc) Serão adoptadas as modalidades de aplicação do presente artigo, nomeadamente as condições de compra e de armazenagem dos produtos objecto das medidas de intervenção previstas no artigo 3º;\n\nd) Será fixado o coeficiente que exprime a relação referida no nº 2."
+  },
+  "007f37b6a9ddbedc": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. O escoamento dos produtos comprados pelos organismos de intervenção, ao abrigo do disposto nos artigos 3º, 4º e 5º, será feito de forma a evitar qualquer perturbação do mercado e garantir a igualdade de acesso às mercadorias e de tratamento dos compradores.\n\n2. As modalidades de aplicação do presente artigo, nomeadamente no que diz respeito ao preço de venda, às condições de escoamento do produto armazenado e, eventualmente, de transformação de produtos comprados pelos organismos de intervenção, serão adoptadas de acordo com o procedimento previsto no artigo 24º."
+  },
+  "16555b9042aaeb6e": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. O Conselho, deliberando sob proposta da Comissão por maioria qualificada, adoptará as regras gerais para a concessão de auxílios à armazenagem privada.\n\n2. As modalidades de aplicação serão adoptadas de acordo com o procedimento previsto no artigo 24º."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "86df03604f2fa6dc": {
+   "fragment_id": "Regime comercial com países terceiros",
+   "type": "divisao",
+   "heading": "Regime comercial com países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regime comercial com países terceiros"
+  },
+  "19669dcecd72cf13": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Todas as importações para a Comunidade ou exportações a partir da Comunidade dos produtos a que se refere o artigo 1º podem estar sujeitas à apresentação de um certificado de importação ou de exportação.\n\nO certificado é emitido pelos Estados-membros, a pedido do interessado, seja qual for o local do seu estabelecimento na Comunidade, sem prejuízo das disposições tomadas em aplicação dos artigos 11º e 13º.\n\nO certificado de importação e de exportação é válido em toda a Comunidade. A sua emissão está subordinada à constituição de uma garantia que cubra o compromisso de importar ou exportar durante o prazo de validade do certificado e que, salvo caso de força maior, ficará perdida, na totalidade ou em parte, se a operação não for realizada nesse período ou se apenas o for parcialmente.\n\n2. O prazo de validade dos certificados e as demais normas de execução do presente artigo serão adoptadas de acordo com o processo previsto no artigo 24º."
+  },
+  "5488dc941d72ec51": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nSalvo disposições em contrário do presente regulamento, as taxas dos direitos da Pauta Aduaneira Comum são aplicáveis aos produtos a que se refere o nº 1 do artigo 1º."
+  },
+  "64edcad4d979696f": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. A fim de evitar ou reprimir os efeitos nocivos para o mercado comunitário que possam resultar das importações de produtos referidos no artigo 1º, a importação, à taxa do direito previsto na Pauta Aduaneira Comum, de um ou mais desses produtos é sujeita ao pagamento de um direito de importação adicional, se estiverem reunidas as condições decorrentes do artigo 5º do acordo sobre a agricultura, concluído em conformidade com o artigo 228º do Tratado no âmbito das negociações comerciais multilaterais do «Uruguay Round», salvo se não houver risco de as importações perturbarem o mercado comunitário ou se os efeitos forem desproporcionados relativamente ao objectivo pretendido.\n\n2. Os preços de desencadeamento abaixo dos quais pode ser imposto um direito de importação adicional são os comunicados pela Comunidade à Organização Mundial do Comércio.\n\nOs volumes de desencadeamento que terão de ser ultrapassados para impor um direito de importação adicional são determinados com base, nomeadamente, nas importações efectuadas para a Comunidade nos três anos que antecedem aquele em que os efeitos nocivos referidos no nº 1 se manifestam ou podem vir a manifestar-se.\n\nPara este efeito, os preços de importação CIF são verificados com base nos preços representativos para o produto em questão registados no mercado mundial ou no mercado comunitário de importação desse produto.\n\n3. Os preços de importação a tomar em consideração para a imposição de um direito de importação adicional são determinados com base nos preços de importação CIF da remessa em causa.\n\n4. A Comissão adoptará as normas de execução do presente artigo de acordo com o processo previsto no artigo 30º. Tais normas incidirão, designadamente, sobre:\n\na) Os produtos a que são aplicados direitos de importação adicionais, nos termos do artigo 5º do acordo sobre a agricultura;\n\nb) Os restantes critérios necessários para garantir a aplicação do nº 1, em conformidade com o artigo 5º do referido acordo."
+  },
+  "53425de34e3aa480": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. Os contingentes pautais, relativos aos produtos referidos no artigo 1º, que decorram dos acordos celebrados no âmbito das negociações comerciais multilaterais do «Uruguay Round» serão abertos e geridos segundo normas adoptadas de acordo com o processo previsto no artigo 24º.\n\n2. A gestão dos contingentes pode efectuar-se mediante aplicação de um dos métodos seguintes ou através de uma combinação dos mesmos:\n\n— método baseado na ordem cronológica de apresentação dos pedidos (de acordo como princípio de «primeiro a chegar, primeiro a ser servido»),\n\n— método de repartição proporcional às quantidades solicitadas aquando da apresentação dos pedidos (de acordo com o método de «análise simultânea»),\n\n— método baseado na tomada em consideração das correntes comerciais tradicionais (de acordo como método «beneficiários tradicionais/novos beneficiários»).\n\nPodem ser estabelecidos outros métodos adequados.\n\nEsses métodos devem evitar qualquer discriminação entre os operadores interessados.\n\n3. O método de gestão estabelecido deverá atender, sempre que se considere adequado, às necessidades de abastecimento do mercado da Comunidade e a necessidade de salvaguardar o seu equilíbrio, podendo simultaneamente inspirar-se nos métodos aplicados no passado aos contingentes que correspondem aos refeiridos no nº 1, sem prejuízo dos direitos decorrentes dos acordos celebrados no âmbito das negociações comerciais do «Uruguay Round».\n\n4. As normas a que se refere o nº 1 prevêem a abertura dos contingentes numa base anual e, se necessário, de acordo com um escalonamento adequado e incluem, eventualmente:\n\na) Disposições que garantam a natureza, proveniência e origem do produto;\n\nb) Disposições relativas ao reconhecimento do documento que permita verificar as garantias referidas na alínea a);\n\nc) Condições de emissão e prazo de validade dos certificados de importação."
+  },
+  "00a92c0460649eb3": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. Sempre que se registar no mercado da Comunidade uma alta sensível de preços e essa situação possa persistir, perturbando ou ameaçando perturbar esse mercado, pode ser tomada a medida prevista no nº 4.\n\n2. Considera-se que existe uma alta sensível dos preços, na acepção do nº 1, quando, na sequência de uma avaliação generalizada dos preços em todas as regiões da Comunidade, a média dos preços do suíno abatido registada nos mercados representativos da Comunidade constantes do anexo ao Regulamento (CEE) nº 2123/89 se situa num nível superior à média desses preços estabelecida para o período anterior de três campanhas, compreendido entre 1 de Julho e 30 de Junho, eventualmente ajustada em função da evolução cíclica dos preços em causa, sendo esta média acrescida da diferença existente entre a referida média e a média dos preços de base em vigor durante o período considerado, tendo em conta todas as modificações do preço de base relativamente ao resultante da média do referido período.\n\n3. Considera-se que situação de alta sensível dos preços pode persistir, na acepção do nº 1, quando existe entre a oferta e a procura de carne de suíno um desequilíbrio susceptível de se prolongar, tendo em conta, nomeadamente:\n\na) A evolução conjuntural do número de cobrimentos e dos preços dos leitões;\n\nb) Os inquéritos e as estimativas efectuados em aplicação da Directiva 93/23/CEE, de 1 de Junho de 1993, relativa aos inquéritos estatísticos a efectuar no domínio da produção de suínos;\n\nc) A evolução previsível dos preços de mercado do suíno abatido.\n\n4. Sempre que se verificarem as condições referidas nos números anteriores, poderá ser decidida, de acordo com o processo previsto no artigo 24º, a suspensão total ou parcial dos direitos de importação. As normas de execução do presente artigo serão adoptadas, se for caso disso, de acordo com o mesmo processo."
+  },
+  "2ceea7b0eed0b39c": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. Na medida do necessário para permitir a exportação dos produtos a que se refere o artigo 1º com base nas cotações ou nos preços desses produtos no mercado mundial, e dentro dos limites decorrentes dos acordos concluídos em conformidade com o artigo 228º do Tratado, a diferença entre tais cotações ou preços e os preços na Comunidade pode ser coberta por uma restituição à exportação.\n\n2. No que se refere à atribuição das quantidades que podem ser exportadas com restituição, foi estabelecido o método:\n\na) Mais adaptado à natureza do produto e à situação do mercado em causa, que permita a utilização mais eficaz possível dos recursos disponíveis tendo em conta a eficácia e a estrutura das exportações da Comunidade, sem contudo criar qualquer discriminação entre pequenos e grandes operadores;\n\nb) Administrativamente menos complexo para os operadores, tendo em conta as exigências de gestão;\n\nc) Que evite qualquer discriminição entre os operadores interessados.\n\n3. A restituição é a mesma para toda a Comunidade. Poderá ser diferenciada consoante os destinos, se a situação do mercado mundial ou os requisitos específicos de determinados mercados o exigirem.\n\nAs restituições serão fixadas de acordo com o processo previsto no artigo 24º. Essa fixação efectua-se, nomeadamente, de forma periódica, sem contudo se recorrer ao processo de concurso.\n\nA lista dos produtos em relação aos quais é concedida uma restituição à exportação e o montante da mesma serão fixados pelo menos uma vez de três em três meses. No entanto, estas restituições podem ser mantidas ao mesmo nível durante mais de três meses e, caso seja necessário, alteradas entretanto pela Comissão a pedido de um Estado-membro ou por sua própria iniciativa.\n\n4. As restituições serão fixadas atendendo aos seguintes elementos:\n\na) Situação e perspectivas de evolução:\n\n— no mercado da Comunidade, dos preços dos produtos do sector da carne de suíno e das disponibilidades,\n\n— no mercado mundial, dos preços dos produtos do sector da carne de suíno;\n\nb) Necessidade de evitar as perturbações susceptíveis de provocar um desequilíbrio prolongado entre a oferta e a procura no mercado da Comunidade;\n\nc) O aspecto económico das exportações previstas;\n\nd) Os limites decorrentes dos acordos celebrados em conformidade com o artigo 228º do Tratado.\n\nNa fixação da restituição, será além disso tomada em consideração a necessidade de estabelecer um equilíbio entre a utilização dos produtos de base comunitários com vista à exportação de mercadorias transformadas para países terceiros e a utilização de produtos desses países admitidos ao regime de aperfeiçoamento.\n\nPor outro lado, para o cálculo da restituição, é tida em conta, para os produtos referidos no artigo 1º, a diferença entre os preços na Comunidade, por um lado, e no mercado mundial, por outro, da quantidade de cereais forrageiros necessária, na Comunidade, para a produção de um quilo de carne de suíno, tomando em consideração, no que se refere aos produtos que não sejam suíno abatido, os coeficientes referidos no nº 2 do artigo 5º.\n\n5. O preço na Comunidade, referido no nº 1, é fixado atendendo:\n\na) Aos preços praticados nas várias fases de comercialização na Comunidade;\n\nb) Os preços praticados na exportação.\n\nOs preços no mercado mundial referidos no nº 1 são fixados atendendo:\n\na) Aos preços praticados nos mercados dos países terceiros;\n\nb) Aos preços de importação mais favoráveis, a partir de países terceiros, nos países terceiros de destino;\n\nc) Aos preços de produção verificados nos países terceiros exportadores atendendo, eventualmente, às subvenções concedidas por estes países;\n\nd) Aos preços de oferta franco-fronteiro da Comunidade.\n\n6. A restituição só será concedida a pedido e contra a apresentação do correspondente certificado de exportação.\n\n7. O montante da restituição aplicável à exportação dos produtos referidos no artigo 1º será o montante válido no dia do pedido do certificado e, no caso de uma restituição diferenciada, aplicável nesse mesmo dia:\n\na) No destino indicado no certificado\n\nb) No destino real, caso este seja diferente do destino indicado no certificado. Neste caso, o montante aplicável não pode ultrapassar o montante aplicável ao destino indicado no certificado.\n\nPara evitar a utilização abusiva da flexibilidade prevista no presente número poder-se-ão adoptar medidas adequadas.\n\n8. Pode ser feita uma derrogação aos n^os^ 6 e 7 em relação a produtos referidos no artigo 1º que beneficiem de restituições no âmbito de acções de ajuda alimentar, de acordo com o processo previsto no artigo 24º.\n\n9. A restituição é paga logo que seja apresentada a prova de que os produtos:\n\n— foram exportados para fora da Comunidade,\n\n— são de origem comunitária, excepto em caso de aplicação do nº 10\n\n— e\n\n— em caso de restituição diferenciada, chegaram ao destino indicado no certificado ou a outro destino para o qual tenha sido fixada uma restituição, sem prejuízo da alínea b) do nº 7. Todavia, podem prever-se derrogações a esta regra, de acordo com o processo previsto no artigo 24º, sob reserva de condições a determinar, que ofereçam garantias equivalentes.\n\n10. Não é concedida qualquer restituição à exportação de produtos referidos no artigo 1º importados de países terceiros e reexportados para países terceiros, excepto se o exportador apresentar a prova:\n\n— da identidade entre o produto a exportar e o produto importado previamente\n\n— e\n\n— da cobrança na importação de todos os direitos de importação do produto.\n\nNeste caso, a restituição para cada produto é igual ao direito cobrado na importação, se este for inferior à restituição aplicável; caso o direito cobrado na importação seja superior à restituição aplicável, a restituição será igual a este última.\n\n11. O cumprimento dos limites de volume decorrentes dos acordos celebrados em conformidade com o artigo 228º do Tratado é assegurado com base nos certificados de exportação emitidos a título dos períodos de referência neles previstos, aplicáveis aos produtos em causa. Relativamente ao respeito das obrigações decorrentes dos acordos celebrados no âmbito das negociações comerciais do «Uruguay Round», a validade dos certificados de exportação não é afectada pelo termo de um período de referência.\n\n12. As normas de execução do presente artigo, incluindo as disposições relativas à redistribuição das quantidades exportáveis não atribuídas ou utilizadas, serão adoptadas de acordo com o processo previsto no artigo 24º."
+  },
+  "56a8c5a85c170962": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. Na medida do necessário ao bom funcionamento da organização comum de mercado no sector da carne de suíno, o Conselho, deliberando sob proposta da Comissão de acordo com o processo de votação previsto no nº 2 do artigo 43º do Tratado, pode, em casos especiais, proibir total ou parcialmente o recurso ao regime de aperfeiçoamento activo em relação aos produtos referidos no artigo 1º destinados ao fabrico de produtos referidos no mesmo artigo.\n\n2. Em derrogação ao nº 1, caso a situação referida nesse número seja excepcionalmente urgente e se o mercado comunitário for perturbado ou correr o risco de ser perturbado pelo regime de aperfeiçoamento activo ou passivo, a Comissão, a pedido de um Estado-membro ou por sua própria iniciativa, determinará as medidas necessárias, que serão comunicadas ao Conselho e aos Estados-membros, terão um prazo de validade máximo de seis meses e serão imediatamente aplicáveis. No caso de receber um pedido de um Estado-membro, a Comissão decidirá no prazo de uma semana a contar da data da recepção do pedido.\n\n3. Qualquer Estado-membro pode submeter ao Conselho a decisão da Comissão, no prazo de uma semana a contar da data da comunicação da mesma. O Conselho, deliberando por maioria qualificada, pode confirmar, alterar ou anular a decisão de Comissão. Se no prazo de três meses o Conselho não tiver tomado qualquer decisão considera-se anulada a decisão da Comissão."
+  },
+  "5a3ed0f31abfc4f3": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\n1. As regras gerais para a interpretação da Nomenclatura Combinada e as regras especiais para a sua aplicação serão aplicáveis à classificação dos produtos abrangidos pelo presente regulamento; a nomenclatura pautal resultante da aplicação do presente regulamento será integrada na Pauta Aduaneira Comum.\n\n2. Salvo disposições em contrário de presente regulamento ou adoptadas nos termos de uma das disposições deste, são proibidas, nas trocas comerciais com países terceiros:\n\n— a cobrança de qualquer imposição de efeito equivalente a um direito aduaneiro,\n\n— a aplicação de qualquer restrição quantitativa ou medida de efeito equivalente."
+  },
+  "4015216831c0431a": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\n1. Se, devido às importações ou às exportações, o mercado comunitário de um ou vários produtos a que se refere o artigo 1º sofrer, ou correr o risco de sofrer, perturbações graves que possam pôr em perigo os objectivos do artigo 39º do Tratado, podem ser aplicadas medidas adequadas às trocas comerciais com países terceiros até que desapareça a perturbação ou risco de perturbação.\n\nO Conselho, deliberando sob proposta da Comissão de acordo com o processo de votação previsto no nº 2 do artigo 43º do Tratado, adoptará as regras gerais de aplicação do presente número e definirá os casos e limites em que os Estados-membros podem tomar medidas cautelares.\n\n2. Se se verificar a situação prevista no nº 1, a Comissão, a pedido de um Estado-membro ou por sua própria iniciativa, decidirá das medidas necessárias, que serão comunicadas aos Estados-membros e imediatamente aplicáveis. Se a Comissão receber um pedido de um Estado-membro, tomará uma decisão no prazo de três úteis seguintes ao da recepção do pedido.\n\n3. Qualquer Estado-membro pode submeter ao Conselho a medida tomada pela Comissão, no prazo de três dias úteis a contar da data da sua comunicação. O Conselho reunir-se-á imediatamente e, deliberando por maioria qualificada, pode alterar ou anular a medida em causa.\n\n4. As disposições do presente artigo serão aplicadas no respeito das obrigações decorrentes dos acordos concluídos em conformidade com o nº 2 do artigo 228º do Tratado."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "c762c5b98556a87f": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\nNão serão admitidas à livre circulação na Comunidade as mercadorias referidas no nº 1 do artigo 1º, fabricadas ou obtidas a partir de produtos que não sejam os referidos no nº 2 do artigo 9º e no nº 1 do artigo 10º do Tratado."
+  },
+  "f732012253138973": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. A fim de ter em conta as limitações ao comércio intracomunitário ou com países terceiros resultantes da aplicação de medidas destinadas a combater a propagação de doenças dos animais, podem ser tomadas medidas excepcionais de apoio do mercado afectado por essas limitações, nos termos do artigo 24.º. Essas medidas são tomadas a pedido do Estado-Membro ou dos Estados-Membros em questão. Só podem ser tomadas se o Estado-Membro ou os Estados-Membros em questão tiverem adoptado medidas veterinárias e sanitárias para pôr rapidamente termo às epizootias e na medida e pelo período estritamente necessários ao apoio do mercado em causa.\n\n2. A Comunidade participa no financiamento das medidas excepcionais referidas no n.º 1, tomadas em relação directa com as medidas veterinárias e sanitárias, até ao limite de 50 % das despesas suportadas pelos Estados-Membros e, em caso de luta contra a febre aftosa, de 60 % dessas despesas.\n\n3. Os Estados-Membros devem assegurar que, caso os produtores contribuam para as despesas suportadas pelos Estados-Membros, tal facto não provoque distorções de concorrência entre produtores de diferentes Estados-Membros.\n\n4. Os artigos 87.º, 88.º e 89.º do Tratado não se aplicam à contribuição financeira dos Estados-Membros a favor das medidas referidas no n.º 1."
+  },
+  "d66bc95862588a1f": {
+   "fragment_id": "Artigo 21º",
+   "type": "artigo",
+   "heading": "Artigo 21º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21º\n\nSob reserva de disposições contrárias do presente regulamento, os artigo 92º a 94º do Tratado são aplicáveis à produção e ao comércio dos produtos mencionados no nº 1 do artigo 1º."
+  },
+  "8eeac3d6cbff5384": {
+   "fragment_id": "Artigo 22º",
+   "type": "artigo",
+   "heading": "Artigo 22º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22º\n\nOs Estados-membros e a Comissão comunicarão reciprocamente os dados necessários à aplicação do presente regulamento.\n\nAs modalidades da comunicação e difusão destes dados serão adoptadas de acordo com o procedimento previsto no artigo 24º."
+  },
+  "f358380a67ac53f6": {
+   "fragment_id": "Artigo 24º",
+   "type": "artigo",
+   "heading": "Artigo 24º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24º\n\n1. A Comissão é assistida pelo Comité de Gestão da Carne de Suíno, adiante designado por «Comité».\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "d3548aa3cdfe432b": {
+   "fragment_id": "Artigo 25º",
+   "type": "artigo",
+   "heading": "Artigo 25º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25º\n\nO Comité pode examinar qualquer outra questão evocada pelo seu presidente, quer por iniciativa própria, quer a pedido do representante de um Estado-membro."
+  },
+  "989a3bfe55dec4e4": {
+   "fragment_id": "Artigo 26º",
+   "type": "artigo",
+   "heading": "Artigo 26º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26º\n\nO presente regulamento deve ser aplicado de tal maneira que se tenham em conta, paralelamente e de maneira apropriada, os objectivos previstos nos artigos 39º e 110º do Tratado."
+  },
+  "4ec34291c650f343": {
+   "fragment_id": "Artigo 27º",
+   "type": "artigo",
+   "heading": "Artigo 27º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27º\n\nNos casos em que a Itália faz uso da faculdade prevista no artigo 23º do Regulamento (CEE) nº 2727/75 do Conselho, de 29 de Outubre de 1975, que estabelece a organização comum de mercado no sector dos cereais ([^5^](http://publications.europa.eu/resource/cellar/07a5789f-c734-4acf-b835-c8bca4d2cece.0017.03/DOC_1#E0005)), o Conselho, deliberando sob proposta da Comissão por maioria qualificada, tomará as medidas necessárias para evitar distorções de concorrência."
+  },
+  "ade22ea2c8eb466d": {
+   "fragment_id": "Artigo 28º",
+   "type": "artigo",
+   "heading": "Artigo 28º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28º\n\n1. É revogado o Regulamento nº 121/67/CEE do Conselho, de 13 de Junho de 1967, que estabelece a organização comum de mercado no sector da carne de porco ([^6^](http://publications.europa.eu/resource/cellar/07a5789f-c734-4acf-b835-c8bca4d2cece.0017.03/DOC_1#E0006)), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 1861/74 ([^7^](http://publications.europa.eu/resource/cellar/07a5789f-c734-4acf-b835-c8bca4d2cece.0017.03/DOC_1#E0007)).\n\n2. As referências ao regulamento revogado por força do nº 1 devem entender-se como sendo feitas ao presente regulamento.\n\nAs citações e as referências relativas aos artigos do referido regulamento devem-ser ler conforme o quadro de concordância que figura no Anexo."
+  },
+  "8e853f928eaba6f6": {
+   "fragment_id": "Artigo 29º",
+   "type": "artigo",
+   "heading": "Artigo 29º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29º\n\nO presente regulamento entra em vigor em 1 de Novembro de 1975.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "2e6761625ffce5f9": {
+   "fragment_id": "Quadro de concordância",
+   "type": "divisao",
+   "heading": "Quadro de concordância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quadro de concordância\n\n*Regulamento nº 121/67/CEE* *Presente Regulamento*\n\nartigo 27º artigo 26º\n\nartigo 29º artigo 27º\n\n---"
+  },
+  "1a2ac4b257495596": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/07a5789f-c734-4acf-b835-c8bca4d2cece.0017.03/DOC_1#src.E0001)) Este acto não existe na língua portuguesa.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/07a5789f-c734-4acf-b835-c8bca4d2cece.0017.03/DOC_1#src.E0002)) JO nº C 60 de 13. 3. 1975, p. 42.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/07a5789f-c734-4acf-b835-c8bca4d2cece.0017.03/DOC_1#src.E0003)) JO nº L 94 de 28. 4. 1970, p. 13.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/07a5789f-c734-4acf-b835-c8bca4d2cece.0017.03/DOC_1#src.E0004)) JO nº L 167 de 25. 7. 1972, p. 5.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/07a5789f-c734-4acf-b835-c8bca4d2cece.0017.03/DOC_1#src.E0005)) JO nº L 281 de 1. 11. 1975, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/07a5789f-c734-4acf-b835-c8bca4d2cece.0017.03/DOC_1#src.E0006)) JO nº 117 de 19. 6. 1967, p. 2283/67.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/07a5789f-c734-4acf-b835-c8bca4d2cece.0017.03/DOC_1#src.E0007)) JO nº L 197 de 19. 7. 1974, p. 3."
+  },
+  "2c28dbdaef2160e7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1975R2759 — PT — 01.07.2008 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31975R2759) [REGULAMENTO (CEE) Nº 2759/75 DO CONSELHO](http://publications.europa.eu/resource/celex/31975R2759) [de 29 de Outubro de 1975](http://publications.europa.eu/resource/celex/31975R2759) [que estabelece a organização comum de mercado no sector da carne de suíno](http://publications.europa.eu/resource/celex/31975R2759) (JO L 282, 1.11.1975, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1234/2007 Do Conselho de 22 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1234) — L 299 — 1 — 16.11.2007"
+  }
+ }
+}

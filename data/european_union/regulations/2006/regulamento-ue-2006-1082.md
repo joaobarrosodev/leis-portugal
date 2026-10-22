@@ -36,6 +36,43 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-06-22'
+version_history:
+  file: regulamento-ue-2006-1082.versoes.json
+  count: 2
+  source_lastmod: '2014-06-22'
+  versions:
+  - date: '2006-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-06-22'
+    amending: eu:celex:32013R1302:por
+    amending_title: REGULAMENTO (UE) N. o 1302/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Natureza do AECT
+    - Altera Artigo 2.º — Direito aplicável
+    - Altera Artigo 3.º — Composição do AECT
+    - Altera Artigo 4.º — Constituição do AECT
+    - Altera Artigo 5.º — Aquisição de personalidade jurídica e publicação no Jornal Oficial
+    - Altera Artigo 6.º — Controlo da gestão dos fundos públicos
+    - Altera Artigo 7.º — Funções
+    - Altera Artigo 8.º — Convénio
+    - Altera Artigo 9.º — Estatutos
+    - Altera Artigo 11.º — Orçamento
+    - Altera Artigo 12.º — Liquidação, insolvência, cessação de pagamentos e responsabilidade
+    - Altera Artigo 15.º — Competência judicial
+    - Altera Artigo 16.º — Disposições finais
+    - Altera Artigo 18.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 3.º-A — Adesão de membros de países terceiros ou de países ou territórios ultramarinos (PTU)
+    - Adita Artigo 4.º-A — Participação de membros de PTU
+    - Adita Artigo 17.º — Relatório
+    - Adita Artigo 17.º-A — Exercício da delegação
+    - Adita ANEXO
+    - Adita Modelo das informações a apresentar nos termos do artigo 5.º, n.º 2
+    - Adita CONSTITUIÇÃO DE UM AGRUPAMENTO EUROPEU DE COOPERAÇÃO TERRITORIAL (AECT)
+    - Suprime Artigo 17.º — Relatório e revisão
 identifiers:
   celex: 32006R1082
   eli: http://data.europa.eu/eli/reg/2006/1082/oj
@@ -50,7 +87,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/acdd8b05-2e72-4cf7-a792-8c64be31c329.0017
   content_url: http://publications.europa.eu/resource/cellar/848b78a1-f2fc-11e3-831f-01aa75ed71a1.0015.02/DOC_3
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1082-20140622
-  retrieved_at: '2026-10-22T02:52:14Z'
+  retrieved_at: '2026-10-22T15:04:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-21T13:46:02.440+01:00'
 integrity:
@@ -59,9 +96,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:14Z'
-  notes: Texto consolidado 02006R1082-20140622.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:04:48Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2006-1082.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -118,33 +155,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/2fa906b7-387c-4828-b393-75f3aa68395b
 article_structure:
   article_count: 21
-  section_count: 3
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 4
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:14Z'
+  checked_at: '2026-10-22T15:04:48Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1082/2006 do Parlamento Europeu e do Conselho, de 5 de Julho de 2006
-
-> 02006R1082 — PT — 22.06.2014 — 001.004
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R1302) — [REGULAMENTO (UE) N.º 1302/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1302) — L 347 — 303 — 20.12.2013
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32013R1302R%2801%29) — [Rectificação, JO L 330, 3.12.2016, p. 5 (1302/2013)](http://publications.europa.eu/resource/celex/32013R1302R%2801%29)
-
-## REGULAMENTO (CE) N.O 1082/2006 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 5 de Julho de 2006
 

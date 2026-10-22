@@ -34,6 +34,51 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: regulamento-ue-1992-3577.versoes.json
+  count: 3
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '1992-12-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+  - date: '2013-07-01'
+    amending: null
+    amending_title: ►A1
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 11.º
+    - Adita Notas
 identifiers:
   celex: 31992R3577
   eli: http://data.europa.eu/eli/reg/1992/3577/oj
@@ -48,7 +93,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8fd80393-83ef-4b45-addd-c925299bac89.0011
   content_url: http://publications.europa.eu/resource/cellar/9c65a9cf-9fd8-4939-a4e7-a810b8169863.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R3577-20130701
-  retrieved_at: '2026-10-22T02:40:16Z'
+  retrieved_at: '2026-10-22T14:41:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T19:43:48.178+01:00'
 integrity:
@@ -57,9 +102,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:16Z'
-  notes: Texto consolidado 01992R3577-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:42Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1992-3577.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -180,35 +225,19 @@ relationships:
   date: '2022-10-13'
 article_structure:
   article_count: 11
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:16Z'
+  checked_at: '2026-10-22T14:41:42Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CEE) nº 3577/92 do Conselho, de 7 de Dezembro de 1992
-
-> 1992R3577 — PT — 01.07.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-**Alterado por:**
-
-- [►A1](http://publications.europa.eu/resource/celex/12012J) — L 112 — 10 — 24.4.2012
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/31992R3577R%2802%29) — [Rectificação, JO L 187, 1.7.1998, p. 56 (3577/1992)](http://publications.europa.eu/resource/celex/31992R3577R%2802%29)
-
-## REGULAMENTO (CEE) N.º 3577/92 DO CONSELHO
 
 de 7 de Dezembro de 1992
 

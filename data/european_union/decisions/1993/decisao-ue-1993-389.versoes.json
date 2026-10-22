@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993D0389:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993D0389-19990501",
+ "dre_path": null,
+ "source_lastmod": "1999-05-01",
+ "versions": [
+  {
+   "date": "1993-07-09",
+   "future": false,
+   "celex": "31993D0389",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a5f15c1a1bd16324",
+    "471b3a019604f501",
+    "368159d38c35d588",
+    "df08564c58cb7418",
+    "08c2781135dd994f",
+    "a630fe5df938379d",
+    "9d135e925cadb566",
+    "5e3124c4a596af19",
+    "6f382e09a030f52b",
+    "3a4ec535852884d4"
+   ]
+  }
+ ],
+ "fragments": {
+  "a5f15c1a1bd16324": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**93/389/CEE: Decisão do Conselho, de 24 de Junho de 1993, relativa a um mecanismo de vigilância das emissões comunitárias de CO2 e de outros gases responsáveis pelo efeito de estufa** *Jornal Oficial nº L 167 de 09/07/1993 p. 0031 - 0033 Edição especial finlandesa: Capítulo 15 Fascículo 12 p. 0207 Edição especial sueca: Capítulo 15 Fascículo 12 p. 0207*\n\nDECISÃO DO CONSELHO de 24 de Junho de 1993 relativa a um mecanismo de vigilância das emissões comunitárias de CO2 e de outros gases responsáveis pelo efeito de estufa\n\n(93/389/CEE)O CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 130oS,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que os programas de acção comunitários em matéria de ambiente, de 1973 (3), 1977 (4) e 1983 (5) acentuam a importância da redução e prevenção da poluição atmosférica; que, além disso, o programa de acção de 1987 (6) salienta a importância de concentrar as acções comunitárias prioritariamente na redução dessa poluição na fonte; que o programa comunitário de 1993 de política e acção relacionadas com o ambiente e o desenvolvimento sustentável refere as alterações climáticas como um dos temas principais e sublinha a necessidade de uma intervenção nos sectores económicos pertinentes, no sentido de um controlo das emissões de CO2 e de outros gases responsáveis pelo efeito de estufa;\n\nConsiderando que a resolução do Conselho, de 16 de Setembro de 1986, relativa a novos objectivos comunitários de política energética para 1995 e à convergência das políticas dos Estados-membros (7), preconiza a procura de soluções equilibradas no domínio da energia e do ambiente;\n\nConsiderando que na sua reunião de Dublim, em Junho de 1990, o Conselho Europeu salientou a necessidade premente de adoptar objectivos e estratégias para limitar as emissões de gases responsáveis pelo efeito de estufa;\n\nConsiderando que, na sessão de 29 de Outubro de 1990, o Conselho (ministros da Energia e do Ambiente), partindo do pressuposto de que outros países avançados assumiriam compromissos análogos e reconhecendo os objectivos definidos por vários Estados-membros tendo em vista a estabilização ou redução das emissões até diferentes datas, acordou em que a Comunidade e os Estados-membros se encontravam na disposição de empreender acções no sentido de alcançar até ao ano 2000 uma estabilização das emissões totais de CO2 aos níveis de 1990 em toda a Comunidade e que os Estados-membros que apresentem, à partida, níveis relativamente baixos de consumo de energia e, por conseguinte, emissões reduzidas, medidas per capita ou noutra base apropriada, poderão estabelecer, em matéria de emissões de CO2, objectivos e/ou estratégias conformes com o respectivo desenvolvimento económico e social, devendo simultaneamente aumentar o rendimento energético das suas actividades económicas;\n\nConsiderando que, na sessão de 13 de Dezembro de 1991, o Conselho (ministros da Energia e do Ambiente) convidou a Comissão a propor medidas concretas decorrentes da estratégia comunitária e determinou que essas medidas deverão tomar em consideração o conceito de repartição equitativa dos encargos, de acordo com as conclusões do Conselho de 29 de Outubro de 1990;\n\nConsiderando que, no âmbito de uma estratégia comunitária de limitação das emissões de CO2 e de melhoria do rendimento energético, a Comissão salientou a necessidade de estabelecer um mecanismo de vigilância e avaliação;\n\nConsiderando que essa vigilância e avaliação devem ser o mais possível integradas nas actuais revisões dos programas energéticos dos Estados-membros, tal como indicado na resolução do Conselho de 16 de Setembro de 1986 acima referida;\n\nConsiderando que todos os Estados-membros e a Comunidade são signatários da Convenção-Quadro das Nações Unidas sobre as alterações climáticas, a qual, depois de ratificada, vinculará os países desenvolvidos e as demais partes enumeradas no anexo I da convenção a tomar medidas para limitar as emissões antropogénicas de CO2 e de outros gases causadores do efeito de estufa não controlados pelo protocolo de Montreal com o objectivo de reduzir, individualmente ou em conjunto, estas emissões antropogénicas para os níveis de 1990 até ao final da presente década; que, nesta perspectiva, é conveniente assegurar a compatibilidade com o mecanismo de vigilância que será criado ao abrigo da convenção, e que assume especial importância no que respeita às metodologias de compilação de inventários e às exigências de elaboração de relatórios;\n\nConsiderando que, por ocasião da assinatura da referida convenção, a Comunidade e os seus Estados-membros reafirmaram o objectivo de estabilizarem, até ao ano 2000, as emissões de CO2 aos níveis de 1990 em toda a Comunidade, tal como consta nas conclusões do Conselho de 29 de Outubro de 1990, 13 de Dezembro de 1991, 5 de Maio de 1992 e 26 de Maio de 1992,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "471b3a019604f501": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nÉ criado, nos Estados-membros, um sistema de vigilância das emissões antropogénicas de CO2 e de outros gases responsáveis pelo efeito de estufa não abrangidos pelo protocolo de Montreal."
+  },
+  "368159d38c35d588": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nProgramas nacionais 1. Os Estados-membros devem elaborar, publicar e aplicar programas nacionais destinados a limitar as suas emissões antropogénicas de CO2, por forma a contribuírem para:\n\n- a estabilização, até ao ano 2000, das emissões de CO2 aos níveis de 1990 em toda a Comunidade, no pressuposto de que outros países avançados assumam compromissos análogos e de que os Estados-membros que apresentem à partida níveis relativamente baixos de consumo de energia e, por conseguinte, emissões reduzidas, medidas per capita ou noutra base apropriada, poderão estabelecer, em matéria de CO2, objectivos e/ou estratégias conformes com o respectivo desenvolvimento económico e social, aumentando simultaneamente o rendimento energético das suas actividades económicas, em conformidade com o que foi decidido nas sessões do Conselho de 29 de Outubro de 1990 e de 13 de Dezembro de 1991 e\n\n- o cumprimento em toda a Comunidade do compromisso assumido em matéria de limitação das emissões de CO2 na Convenção-Quadro das Nações Unidas sobre as alterações climáticas, por intermédio de acções da Comunidade e dos seus Estados-membros, no âmbito das respectivas competências.\n\nOs referidos programas serão actualizados periodicamente.\n\n2. O mais tardar a partir da primeira actualização, cada Estado-membro deve incluir no seu programa nacional:\n\n- o nível, no ano de base de 1990, das suas emissões antropogénicas de CO2, determinado nos termos do no 1 do artigo 3o,\n\n- inventários das suas emissões antropogénicas de CO2 por fontes e da sua remoção por poços de absorção, determinados nos termos do no 1 do artigo 3o,\n\n- indicações pormenorizadas das políticas e medidas nacionais que contribuem para a limitação das emissões de CO2,\n\n- previsões das emissões nacionais de CO2 entre 1994 e 2000,\n\n- as medidas tomadas ou previstas para a execução da legislação e das políticas comunitárias pertinentes,\n\n- uma descrição das políticas e medidas destinadas a aumentar a captação de emissões de CO2,\n\n- uma avaliação do impacte económico das medidas acima referidas."
+  },
+  "df08564c58cb7418": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nInventário e comunicação de dados 1. Os Estados-membros devem determinar o nível das suas emissões antropogénicas de CO2 e da sua remoção por poços de absorção segundo a melhor metodologia disponível, a decidir pela Comissão de acordo com o procedimento estipulado no artigo 8o Essa metodologia será a desenvolvida pelo painel intergovernamental sobre as alterações climáticas (IPCC) ou outra compatível com ela.\n\nA metodologia será revista pela Comissão de acordo com o procedimento estipulado no artigo 8o para atender, na medida do necessário, ao progresso técnico, em especial às iniciativas decididas no âmbito da Convenção-Quadro das Nações Unidas sobre as alterações climáticas.\n\n2. Os Estados-membros devem comunicar anualmente à Comissão, o mais tardar até 31 de Julho, os dados relativos às respectivas emissões antropogénicas de CO2 e à sua remoção por poços de absorção de CO2 no ano civil anterior.\n\n3. A Comissão, em cooperação com os Estados-membros e com base nas informações por estes facultadas, elaborará inventários das emissões antropogénicas de CO2 e da sua remoção por poços de absorção na Comunidade e enviará esses inventários a todos os Estados-membros no prazo de três meses a contar da recepção das informações de todos os Estados-membros."
+  },
+  "08c2781135dd994f": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nProcessos e métodos de avaliação De acordo com o procedimento referido no artigo 8o, a Comissão definirá os processos e métodos de avaliação dos programas nacionais a que se refere o artigo 6o e a frequência das actualizações pelos Estados-membros."
+  },
+  "a630fe5df938379d": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nPrimeira avaliação dos programas nacionais e do estado das emissões na Comunidade 1. Os Estados-membros enviarão à Comissão os respectivos programas nacionais em curso um mês após a notificação da presente decisão.\n\n2. A Comissão enviará aos restantes Estados-membros os programas nacionais recebidos, no prazo de dois meses a contar da data da sua recepção.\n\n3. A Comissão avaliará os programas nacionais para apreciar se os resultados obtidos na Comunidade no seu conjunto são suficientes para asseguar o respeito dos compromissos referidos no no 1 do artigo 2o\n\n4. A Comissão comunicará ao Parlamento Europeu e ao Conselho os resultados da sua avaliação no prazo de seis meses a contar da data de recepção dos programas nacionais."
+  },
+  "9d135e925cadb566": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nSubsequente avaliação dos resultados Após a primeira avaliação referida no artigo 5o, a Comissão avaliará anualmente, em consulta com os Estados-membros, se os resultados verificados na Comunidade no seu conjunto são suficientes para garantir que esta pode cumprir os compromissos referidos no no 1 do artigo 2o e apresentará um relatório ao Parlamento Europeu e ao Conselho com base nas informações recebidas nos termos dos artigos 2o e 3o, incluindo, sempre que necessário, os programas nacionais actualizados."
+  },
+  "5e3124c4a596af19": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOutros gases responsáveis pelo efeito de estufa 1. Os Estados-membros enviarão igualmente à Comissão informações sobre:\n\n- dados sobre emissões de outros gases responsáveis pelo efeito de estufa, não abrangidos pelo protocolo de Montreal, segundo a melhor metodologia disponível, a decidir pela Comissão de acordo com o procedimento estipulado no artigo 8o Essa metodologia será a desenvolvida pelo IPCC ou outra compatível com ela.\n\nA metodologia será revista pela Comissão de acordo com o procedimento estipulado no artigo 8o, para atender, na medida do necessário, ao progresso técnico, em especial às iniciativas decididas no âmbito da Convenção-Quadro sobre as alterações climáticas,\n\n- uma descrição das medidas tomadas ou previstas para limitar as emissões de outros gases responsáveis pelo efeito de estufa.\n\n2. Criar-se-ao programas nacionais de limitação desses gases à medida que se forem adoptando políticas nessa matéria."
+  },
+  "6f382e09a030f52b": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nComité 1. A Comissão é assistida por um comité composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\n2. O representante da Comissão submete à apreciação do comité um projecto das medidas a tomar. O comité emite o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer é emitido por maioria, nos termos previstos no no 2 do artigo 148o do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\n3. a) A Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do comité;\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "3a4ec535852884d4": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros são os destinatários da presente decisão.\n\nFeito no Luxemburgo, em 24 de Junho de 1993.\n\nPelo Conselho\n\nO Presidente\n\nB. WESTH\n\n(1) JO no C 115 de 26. 4. 1993.\n\n(2) JO no C 73 de 15. 3. 1993, p. 73.\n\n(3) JO no C 112 de 20. 12. 1973, p. 1.\n\n(4) JO no C 139 de 13. 6. 1977, p. 1.\n\n(5) JO no C 46 de 17. 2. 1983, p. 1.\n\n(6) JO no C 328 de 7. 12. 1987, p. 1.\n\n(7) JO no C 241 de 25. 9. 1986, p. 1."
+  }
+ }
+}

@@ -34,6 +34,38 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: diretiva-ue-1999-21.versoes.json
+  count: 3
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '1999-04-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-19'
+    amending: eu:celex:32006L0082:por
+    amending_title: DIRECTIVA 2006/82/CE DA COMISSÃO de 23 de Outubro de 2006; DIRECTIVA 2006/141/CE DA COMISSÃO Texto relevante
+      para efeitos do EEE de 22 de Dezembro de 2006; Acto relativo às condições de adesão da República Checa, da República
+      da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República
+      de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em
+      que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Adita ANEXO
+    - Adita COMPOSIÇÃO ESSENCIAL DOS ALIMENTOS DIETÉTICOS PARA FINS MEDICINAIS ESPECÍFICOS
+    - Adita Notas
+    - Suprime ANEXO — COMPOSIÇÃO ESSENCIAL DOS ALIMENTOS DIETÉTICOS PARA FINS MEDICINAIS ESPECÍFICOS
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0026:por
+    amending_title: DIRETIVA 2013/26/UE DA COMISSÃO de 8 de fevereiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera COMPOSIÇÃO ESSENCIAL DOS ALIMENTOS DIETÉTICOS PARA FINS MEDICINAIS ESPECÍFICOS
+    - Altera Notas
 identifiers:
   celex: 31999L0021
   eli: http://data.europa.eu/eli/dir/1999/21/oj
@@ -48,7 +80,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/581c3ec3-3975-42b1-bbf2-d3c82e0a8399.0011
   content_url: http://publications.europa.eu/resource/cellar/1e8fd13f-c947-4da9-a2c4-2a28d97efc16.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0021-20130701
-  retrieved_at: '2026-10-22T02:41:16Z'
+  retrieved_at: '2026-10-22T14:47:39Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T08:24:46.780+01:00'
 integrity:
@@ -57,9 +89,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:16Z'
-  notes: Texto consolidado 01999L0021-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:39Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1999-21.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -145,35 +177,21 @@ relationships:
   source: null
 article_structure:
   article_count: 8
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:16Z'
-  warnings: []
+  checked_at: '2026-10-22T14:47:39Z'
+  warnings:
+  - '01999L0021-19990427: versão indisponível (Sem expressão na língua por para CELEX 01999L0021-19990427.)'
+  - '01999L0021-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 1999/21/CE da Comissão, de 25 de Março de 1999
-
-> 1999L0021 — PT — 01.07.2013 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32006L0082) — [DIRECTIVA 2006/82/CE DA COMISSÃO de 23 de Outubro de 2006](http://publications.europa.eu/resource/celex/32006L0082) — L 362 — 94 — 20.12.2006
-- [►M2](http://publications.europa.eu/resource/celex/32006L0141) — [DIRECTIVA 2006/141/CE DA COMISSÃO Texto relevante para efeitos do EEE de 22 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006L0141) — L 401 — 1 — 30.12.2006
-- [►M3](http://publications.europa.eu/resource/celex/32013L0026) — [DIRETIVA 2013/26/UE DA COMISSÃO de 8 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013L0026) — L 158 — 376 — 10.6.2013
-
-**Alterado por:**
-
-- [A1](http://publications.europa.eu/resource/celex/12003T) — L 236 — 33 — 23.9.2003
-
-## DIRECTIVA 1999/21/CE DA COMISSÃO
 
 de 25 de Março de 1999
 

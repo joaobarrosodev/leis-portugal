@@ -35,6 +35,40 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-30'
+version_history:
+  file: diretiva-ue-2000-14.versoes.json
+  count: 3
+  source_lastmod: '2026-05-30'
+  versions:
+  - date: '2025-05-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-11-29'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 12.º — Limites de emissão sonora
+    - Altera Artigo 18.º-B — Exercício da delegação
+    - Altera 1. Funcionamento da fonte de ruído durante o ensaio
+    - Altera Notas
+    - Suprime Artigo 16.º — Recolha de dados acústicos
+  - date: '2026-05-30'
+    amending: eu:celex:32024L2749:por
+    amending_title: DIRETIVA (UE) 2024/2749 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2024
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 12.º — Limites de emissão sonora
+    - Altera Artigo 18.º-B — Exercício da delegação
+    - Altera 1. Funcionamento da fonte de ruído durante o ensaio
+    - Altera Notas
+    - Adita Artigo 17.º-A
+    - Adita Artigo 17.º-B
+    - Adita Artigo 17.º-C
+    - Adita Artigo 17.º-D
+    - Adita Artigo 18.º
+    - Suprime Artigo 18.º — Comité
 identifiers:
   celex: 32000L0014
   eli: http://data.europa.eu/eli/dir/2000/14/oj
@@ -49,7 +83,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d3c5dd69-9bd0-11e4-872e-01aa75ed71a1.0009
   content_url: http://publications.europa.eu/resource/cellar/93c860da-538e-11f1-b3e2-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0014-20260530
-  retrieved_at: '2026-10-22T02:44:54Z'
+  retrieved_at: '2026-10-22T14:48:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:18:40.203+02:00'
 integrity:
@@ -58,9 +92,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:54Z'
-  notes: Texto consolidado 02000L0014-20260530.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:47Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2000-14.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -220,39 +254,23 @@ relationships:
   source: null
 article_structure:
   article_count: 29
-  section_count: 143
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 144
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:54Z'
-  warnings: []
+  checked_at: '2026-10-22T14:48:47Z'
+  warnings:
+  - '02000L0014-20000703: versão indisponível (Sem expressão na língua por para CELEX 02000L0014-20000703.)'
+  - '02000L0014-20051227: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0014-20090420: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0014-20190726: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 2000/14/CE do Parlamento Europeu e do Conselho, de 8 de Maio de 2000
-
-> 02000L0014 — PT — 30.05.2026 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32005L0088) — [DIRECTIVA 2005/88/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de Dezembro de 2005](http://publications.europa.eu/resource/celex/32005L0088) — L 344 — 44 — 27.12.2005
-- [M2](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) N.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-- [►M3](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [►M4](http://publications.europa.eu/resource/celex/32024R1208) — [REGULAMENTO DELEGADO (UE) 2024/1208 DA COMISSÃO de 16 de novembro de 2023](http://publications.europa.eu/resource/celex/32024R1208) — L 1208 — 1 — 2.5.2024
-- [►M5](http://publications.europa.eu/resource/celex/32024L2839) — [DIRETIVA (UE) 2024/2839 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024](http://publications.europa.eu/resource/celex/32024L2839) — L 2839 — 1 — 7.11.2024
-- [►M6](http://publications.europa.eu/resource/celex/32024L2749) — [DIRETIVA (UE) 2024/2749 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2024](http://publications.europa.eu/resource/celex/32024L2749) — L 2749 — 1 — 8.11.2024
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32005L0088R%2801%29) — [Rectificação, JO L 165, 17.6.2006, p. 35 (2005/88/CE)](http://publications.europa.eu/resource/celex/32005L0088R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32024R1208R%2801%29) — [Rectificação, JO L 90290, 8.5.2024, p. 1 ((UE) 2024/12082024/1208)](http://publications.europa.eu/resource/celex/32024R1208R%2801%29)
-
-## DIRECTIVA 2000/14/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 8 de Maio de 2000
 

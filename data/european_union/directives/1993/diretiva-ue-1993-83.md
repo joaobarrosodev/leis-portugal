@@ -34,6 +34,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-06-06'
+version_history:
+  file: diretiva-ue-1993-83.versoes.json
+  count: 1
+  source_lastmod: '2019-06-06'
+  versions:
+  - date: '2019-06-06'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31993L0083
   eli: http://data.europa.eu/eli/dir/1993/83/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/31dd7c9c-778a-458e-8224-2b8eace541fe.0011
   content_url: http://publications.europa.eu/resource/cellar/df99020b-aede-11e9-9d01-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0083-20190606
-  retrieved_at: '2026-10-22T02:46:52Z'
+  retrieved_at: '2026-10-22T14:42:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T04:32:33.074+01:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:52Z'
-  notes: Texto consolidado 01993L0083-20190606.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:14Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-1993-83.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -174,28 +183,19 @@ relationships:
 article_structure:
   article_count: 15
   section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:52Z'
-  warnings: []
+  checked_at: '2026-10-22T14:42:14Z'
+  warnings:
+  - '01993L0083-19931004: versão indisponível (Sem expressão na língua por para CELEX 01993L0083-19931004.)'
   errors: []
 ---
 
 # Directiva 93/83/CEE do Conselho, de 27 de Setembro de 1993
-
-> 01993L0083 — PT — 06.06.2019 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019L0789) — [DIRETIVA (UE) 2019/789 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 17 de abril de 2019](http://publications.europa.eu/resource/celex/32019L0789) — L 130 — 82 — 17.5.2019
-
-## DIRECTIVA 93/83/CEE DO CONSELHO
 
 de 27 de Setembro de 1993
 

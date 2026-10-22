@@ -1,0 +1,692 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31971R2358:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01971R2358-20060701",
+ "dre_path": null,
+ "source_lastmod": "2006-07-01",
+ "versions": [
+  {
+   "date": "1971-11-05",
+   "future": false,
+   "celex": "31971R2358",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3c8073da224ae663",
+    "947aa46f6082a699",
+    "daa049f4d4a4bc87",
+    "3f24169a0eb3bdee",
+    "41b43fcbbcc6e5a4",
+    "20dc614aaa373fd0",
+    "11e744842ace1685",
+    "ff494ebe3427419e",
+    "442a46fac2b6187e",
+    "40a6abdb9a5e2d7e",
+    "2ab67ab50d7344ea",
+    "528a1588aa9901ba",
+    "113ac8c874c192fa",
+    "235450155edc61ac",
+    "d30930f2abf3c985",
+    "2c5f74bd92295be0",
+    "28c82b6061c0bdb0",
+    "ea383c4dcf259f81",
+    "30aaa39063e1626f"
+   ]
+  },
+  {
+   "date": "2002-07-01",
+   "future": false,
+   "celex": "01971R2358-20020701",
+   "acts": [
+    {
+     "id": "eu:celex:31973R0597:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31973R0597"
+    },
+    {
+     "id": "eu:celex:31973R1014:por",
+     "title": "M2",
+     "published": null,
+     "celex": "31973R1014"
+    },
+    {
+     "id": "eu:celex:31973R1707:por",
+     "title": "M3",
+     "published": null,
+     "celex": "31973R1707"
+    },
+    {
+     "id": "eu:celex:31974R1119:por",
+     "title": "M4",
+     "published": null,
+     "celex": "31974R1119"
+    },
+    {
+     "id": "eu:celex:31975R0671:por",
+     "title": "M5",
+     "published": null,
+     "celex": "31975R0671"
+    },
+    {
+     "id": "eu:celex:31977R1167:por",
+     "title": "M6",
+     "published": null,
+     "celex": "31977R1167"
+    },
+    {
+     "id": "eu:celex:31978R1346:por",
+     "title": "Regulamento (CEE) n o 1346/78 do Conselho de 19 de Junho de 1978",
+     "published": null,
+     "celex": "31978R1346"
+    },
+    {
+     "id": "eu:celex:31979R0234:por",
+     "title": "M8",
+     "published": null,
+     "celex": "31979R0234"
+    },
+    {
+     "id": "eu:celex:31979R2878:por",
+     "title": "Regulamento (CEE) n o 2878/79 do Conselho de 17 de Dezembro de 1979",
+     "published": null,
+     "celex": "31979R2878"
+    },
+    {
+     "id": "eu:celex:31980R1968:por",
+     "title": "M10",
+     "published": null,
+     "celex": "31980R1968"
+    },
+    {
+     "id": "eu:celex:31981R3808:por",
+     "title": "M11",
+     "published": null,
+     "celex": "31981R3808"
+    },
+    {
+     "id": "eu:celex:31983R1581:por",
+     "title": "M12",
+     "published": null,
+     "celex": "31983R1581"
+    },
+    {
+     "id": "eu:celex:31985R3768:por",
+     "title": "M13",
+     "published": null,
+     "celex": "31985R3768"
+    },
+    {
+     "id": "eu:celex:31986R1355:por",
+     "title": "M14",
+     "published": null,
+     "celex": "31986R1355"
+    },
+    {
+     "id": "eu:celex:31987R3997:por",
+     "title": "Regulamento (CEE) n o 3997/87 da Comissão de 23 de Dezembro de 1987",
+     "published": null,
+     "celex": "31987R3997"
+    },
+    {
+     "id": "eu:celex:31989R1239:por",
+     "title": "M16",
+     "published": null,
+     "celex": "31989R1239"
+    },
+    {
+     "id": "eu:celex:31991R1740:por",
+     "title": "M17",
+     "published": null,
+     "celex": "31991R1740"
+    },
+    {
+     "id": "eu:celex:31992R3695:por",
+     "title": "Regulamento (CEE) n o 3695/92 da Comissão de 21 de Dezembro de 1992",
+     "published": null,
+     "celex": "31992R3695"
+    },
+    {
+     "id": "eu:celex:31993R3375:por",
+     "title": "M19",
+     "published": null,
+     "celex": "31993R3375"
+    },
+    {
+     "id": "eu:celex:31994R3290:por",
+     "title": "Regulamento (CE) n o 3290/94 do Conselho de 22 de Dezembro de 1994",
+     "published": null,
+     "celex": "31994R3290"
+    },
+    {
+     "id": "eu:celex:31998R0192:por",
+     "title": "M21",
+     "published": null,
+     "celex": "31998R0192"
+    },
+    {
+     "id": "eu:celex:31999R1405:por",
+     "title": "REGULAMENTO (CE) N.O 1405/1999 DO CONSELHO de 24 de Junho de 1999",
+     "published": null,
+     "celex": "31999R1405"
+    },
+    {
+     "id": "eu:celex:32000R2371:por",
+     "title": "REGULAMENTO (CE) N. o 2371/2000 DO CONSELHO de 23 de Outubro de 2000",
+     "published": null,
+     "celex": "32000R2371"
+    },
+    {
+     "id": "eu:celex:32002R0154:por",
+     "title": "REGULAMENTO (CE) N. o 154/2002 DO CONSELHO de 21 de Janeiro de 2002",
+     "published": null,
+     "celex": "32002R0154"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Dinamarca, da Irlanda e do Reino Unido da Grã-Bretanha e da Irlanda do Norte",
+     "published": null,
+     "celex": "11972B"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Grécia",
+     "published": null,
+     "celex": "11979H"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO",
+    "Adita Artigo 1º",
+    "Adita Artigo 2º",
+    "Adita Artigo 3º",
+    "Adita Artigo 3ºA",
+    "Adita Artigo 4º",
+    "Adita Artigo 5º",
+    "Adita Artigo 6º",
+    "Adita Artigo 7º",
+    "Adita Artigo 8º",
+    "Adita Artigo 9º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12º",
+    "Adita Artigo 13º",
+    "Adita Artigo 14º",
+    "Adita Artigo 15º",
+    "Adita Artigo 16º",
+    "Adita Artigo 17º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o"
+   ],
+   "fragments": [
+    "5ee9e919f9aba92c",
+    "1d4f4e28b39b5f65",
+    "a060fce4f35c7a96",
+    "28852f2a9a378eea",
+    "a159950775207722",
+    "ad65b47e1f81b281",
+    "e3a27843b52cc667",
+    "41951811356c52a5",
+    "04eed68e46781b39",
+    "612f4d6aff749c04",
+    "a03361d8565a2eaf",
+    "c4130a8772e6a57b",
+    "56bed3cf106e8368",
+    "d83e3c37860cb091",
+    "5a7c5626095ac990",
+    "f8f3174413f536bb",
+    "4113d1a6495fcc3c",
+    "3a0ad9ae1cc2ab03",
+    "85d9466a478d86bc",
+    "daceaf4eb9c00c67"
+   ]
+  },
+  {
+   "date": "2005-07-01",
+   "future": false,
+   "celex": "01971R2358-20050701",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1782:por",
+     "title": "REGULAMENTO (CE) N. o 1782/2003 DO CONSELHO de 29 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1782"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 15º",
+    "Altera ANEXO",
+    "Altera Notas",
+    "Suprime Artigo 3º"
+   ],
+   "fragments": [
+    "f599e9b95dc0e4a0",
+    "1d4f4e28b39b5f65",
+    "a060fce4f35c7a96",
+    "a159950775207722",
+    "ad65b47e1f81b281",
+    "e3a27843b52cc667",
+    "41951811356c52a5",
+    "04eed68e46781b39",
+    "612f4d6aff749c04",
+    "a03361d8565a2eaf",
+    "c4130a8772e6a57b",
+    "56bed3cf106e8368",
+    "d83e3c37860cb091",
+    "5a7c5626095ac990",
+    "6c6607eea5807706",
+    "4113d1a6495fcc3c",
+    "3a0ad9ae1cc2ab03",
+    "a7e1851e517d0cd6",
+    "39f920d50ce1d9e8"
+   ]
+  },
+  {
+   "date": "2006-07-01",
+   "future": false,
+   "celex": "01971R2358-20060701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3ºA",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "d893be75b25ed516"
+   ]
+  }
+ ],
+ "fragments": {
+  "3c8073da224ae663": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2358/71 do Conselho, de 26 de Outubro de 1971, que estabelece a organização comum de mercado no sector das sementes** *Jornal Oficial nº L 246 de 05/11/1971 p. 0001 - 0005 Edição especial finlandesa: Capítulo 3 Fascículo 4 p. 0040 Edição especial dinamarquesa: Série I Capítulo 1971(III) p. 0787 Edição especial sueca: Capítulo 3 Fascículo 4 p. 0040 Edição especial inglesa: Série I Capítulo 1971(III) p. 0894 Edição especial grega: Capítulo 03 Fascículo 7 p. 0066 Edição especial espanhola: Capítulo 03 Fascículo 5 p. 0097 Edição especial portuguesa: Capítulo 03 Fascículo 5 p. 0097*\n\nREGULAMENTO (CEE) No 2358/71 DO CONSELHO de 26 de Outubro de 1971 que estabelece a organização comum de mercado no sector das sementes\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 42o e 43o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que o funcionamento e o desenvolvimento do mercado comum devem, para os produtos agrícolas, acompanhar-se do estabelecimento de uma política agrícola comum e que esta deve, nomeadamente, compreender uma organização comum dos mercados agrícolas, podendo tomar diversas formas conforme os produtos;\n\nConsiderando que a situação especial do mercado de certas sementes é caracterizada pela necessidade de manter preços concorrenciais em relação aos preços mundiais destes produtos; que, por consequência é conveniente assegurar, com medidas adequadas, a estabilidade do mercado bem como rendimentos equitativos para os produtores interessados;\n\nConsiderando que, com este fim, é conveniente prever a possibilidade de conceder uma ajuda à produção de certas sementes; que, tendo em conta as características da sua produção, convém prever para esta ajuda um sistema de fixação forfetário por quintal de sementes produzidas;\n\nConsiderando que a organização comum de mercado no sector das sementes conduz ao estabelecimento de um regime único de trocas nas fronteiras da Comunidade; que a pauta aduaneira comum se aplica de pleno direito por força do Tratado a partir de 1 de Janeiro de 1970 e que este regime permite renunciar a qualquer outra medida de protecção; que convém todavia, a fim de não deixar o mercado comunitário sem defesa contra as perturbações que poderiam advir das importações e exportações, permitir à Comunidade tomar rapidamente todas as medidas necessárias;\n\nConsiderando que as autoridades competentes devem estar em condições de seguir permanentemente o movimento das trocas, a fim de poder apreciar a evolução do mercado e de tomar as medidas que se tornem necessárias; que, com este fim, convém a possibilidade de emitir certificados de importação acompanhados da constituição de um caução que garanta a realização das importações para as quais estes certificados foram pedidos; que, todavia, as importações na sequência de contratos de multiplicação devidamente registrados devem ser exoneradas desta caução;\n\nConsiderando que, para o milho híbrido destinado à sementeira, é necessário evitar, no mercado do Comunidade, perturbações devidas a ofertas feitas no mercado mundial a preços anormais; que, com este fim, convém fixar para este produto preços de referência e acrescentar aos direitos aduaneiros uma taxa compensatória quando os preços de oferta franco-fronteira, aumentados dos direitos aduaneiros, se situem abaixo dos preços de referência;\n\nConsiderando que, no comércio interno da Comunidade, a cobrança de qualquer direito aduaneiro ou taxa de efeito equivalente e qualquer restrição quantitativa ou medida de efeito equivalente são proibidas de pleno direito por força do Tratado, a partir de 1 de Janeiro de 1970;\n\nConsiderando que é conveniente que as disposições do Tratado que permitem apreciar as ajudas concedidas pelos Estados-membros e proibir as que são incompatíveis com o mercado comum, sejam aplicáveis no sector das sementes;\n\nConsiderando que, para facilitar a execução das disposições previstas, é conveniente prever um procedimento que instaure uma cooperação estreita entre os Estados-membros e a Comissão no êmbito de um Comité de Gestão;\n\nConsiderando que a passagem do regime em vigor nos Estados-membros para o que o presente Regulamento instaura deve efectuar-se nas melhores condições; que para isso, podem revelar-se necessárias medidas transitórias,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "947aa46f6082a699": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nÉ estabelecida, no sector das sementes, uma organização comum de mercado, que rege os seguintes produtos:\n\n\"\" ID=\"1\">ex 07.05 A> ID=\"2\">Legumes de vagem secos, destinados à sementeira\"> ID=\"1\">10.05 A> ID=\"2\">Milho híbrido destinado à sementeira\"> ID=\"1\">ex 12.01> ID=\"2\">Sementes e frutos oleaginosos, destinados à sementeira\"> ID=\"1\">12.03> ID=\"2\">Sementes, esporos e frutos para sementeira.\">"
+  },
+  "daa049f4d4a4bc87": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nA campanha de comercialização para as sementes começa a 1 de Julho de cada ano e termina a 30 de Junho do ano seguinte."
+  },
+  "3f24169a0eb3bdee": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Quando a situação do mercado na Comunidade de um ou de vários produtos referidos no anexo e a sua evolução previsível não permitan assegurar um rendimento equitativo aos produtores, poderá ser concedida uma ajuda à produção destes produtos, desde que se trate de sementes de base ou de sementes certificadas.\n\nEsta ajuda, de montante uniforme para cada espécie ou grupo de variedades em toda a Comunidade, é fixado todos os anos antes de 1 de Agosto, para a campanha de comercialização que se inicia no ano seguinte. Todavia o montante da ajuda para a campanha 1972/1973 é fixado antes de 1 de Julho de 1972.\n\n2. O montante da ajuda é fixado por quintal de sementes produzidas, tendo em conta:\n\na) A necessidade de assegurar o equilíbrio entre o volume de produção necessária na Comunidade e as possibilidades de escoamento desta produção;\n\nb) Os preços destes produtos nos mercados externos.\n\n3. O montante da ajuda é fixado segundo o procedimento previsto no no 2 do artigo 43o do Tratado.\n\n4. O Conselho, deliberando sob proposta da Comissão, segundo o procedimento de voto previsto no no 2 do artigo 43o do Tratado, adopta as regras gerais relativamente à concessão da ajuda, e decide sobre a midificação do anexo.\n\n5. As regras de aplicação do presente artigo são adoptadas segundo o procedimento previsto no artigo 11o."
+  },
+  "41b43fcbbcc6e5a4": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Qualquer importação na comunidade dos produtos referidos no artigo 1o pode ser submetida à apresentação de um certificado de importação emitido pelos Estados-membros a todo o interessado que tenha feito o pedido, qualquer que seja o lugar do seu estabelecimento na Comunidade.\n\nO certificado é válido para uma importação efectuada na Comunidade.\n\nSalvo para as importações realizadas no êmbito de contratos de multiplicação num páis terceiro, devidamente registados, a emissão destes certificados está subordinada à prestação de uma caução que garanta a obrigação de importar durante o prazo de validade do certificado e que será pedida, no todo ou em parte, se neste prazo, a importação não tiver sido realizada ou só o tiver sido parcialmente.\n\n2. A lista dos produtos para os quais os certificados de importação são exigidos, é determinada segundo o procedimento previsto no artigo 11o.\n\nO prazo de validade dos certificados e as outras regras de aplicação do presente artigo são determinados segundo o mesmo procedimento."
+  },
+  "20dc614aaa373fd0": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nSalvo disposições contrárias ao presente regulamento ou derrogações decididas pelo Conselho, deliberando sob proposta da Comissão, segundo o procedimento de voto previsto no no 2 do artigo 43o do Tratado, são proibidas nas trocas com países terceiros:\n\n- a cobrança de qualquer taxa de efeito equivalente a um direito aduaneiro,\n\n- a aplicação de qualquer restrição quantitativa ou medida de efeito equivalente."
+  },
+  "11e744842ace1685": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Anualmente é fixado, antes de 1 de Julho, um preço de referência para cada tipo de milho híbrido destinado à sementeira.\n\nEstes preços de referência, expressos em unidades de preço por quintal, são fixados com base nos preços franco-fronteira verificados durante as três ultimas campanhas de comercialização, com excepção dos preços anormalmente baixos. Os preços de referência são válidos a partir de 1 de Julho do ano de fixação até 30 de Junho do ano seguinte.\n\n2. Para cada tipo de híbrido para o qual é fixado um preço de referência, é estabelecido, com base em todos os dados disponíveis, um preço de oferta franco-fronteira para cada proveniência.\n\n3. No caso de o preço de oferta franco-fronteira acrescido dos direitos aduaneiros, para um tipo de híbrido proveniente de um país terceiro ser inferior ao preço de referência correspondente, é cobrada sobre as importações deste híbrido proveniente desse país, uma taxa compensatória respeitante às obrigações resultantes da consolidação no âmbito do GATT. Esta taxa compensatória é igual à diferença entre o preço de referência e o preço franco-fronteira acrescido dos direitos aduaneiros.\n\nA taxa compensatória não é cobrada relativamente a países terceiros que estejam dispostos a garantir - e estejam em condições de o fazer - que à importação de sementes de milho híbrido originário e proveniente do seu território, o preço praticado não será inferior ao preço de referência diminuído dos direitos aduaneiros e que todo o desvio de tráfico será evitado.\n\n4. O Conselho, deliberando sob proposta da Comissão, segundo o procedimento de voto previsto no no 2 do artigo 43o do Tratado, adopta as regras gerais de aplicação do presente artigo.\n\n5. Os preços de referência, as taxas compensatórias, bem como as regras de aplicação do presente artigo, são adoptados segundo o procedimento previsto no artigo 11o."
+  },
+  "ff494ebe3427419e": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Se, na Comunidade, o mercado de um ou de vários produtos referidos, no artigo 1o sofrer ou ameaçar sofrer, no que respeita às importações e exportações, perturbações graves susceptíveis de pôr em perigo os objectivos do artigo 39o do Tratado podem ser aplicadas medidas adequadas nas trocas com países terceiros, até que a perturbação ou ameaça de perturbação tenha de saparecido.\n\nO Conselho, deliberando sob proposta da Comissão, segundo o procedimento de voto previsto no no 2 do artigo 43o do Tratado, adopta as regras de aplicação do presente número e define os casos e os limites em que os Estados-membros podem tomar medidas cautelares.\n\n2. Se a situação referida no no 1 ocorrer, a Comissão, a pedido de um Estado-membro ou por sua própia iniciativa, decide as medidas necessárias que são comunicadas aos Estados-membros e imediatamente aplicáveis. Se um Estado-membro submeteu um pedido ao parecer da Comissão, esta toma uma decisão sobre o assunto nas vinte e quatro horas seguintes à recepção do pedido.\n\n3. Qualquer Estado-membro pode submeter ao Conselho a medida tomada pela Comissão, no prazo de três dias úteis seguintes ao dia da comunicação. O conselho reúne-se sem demora e pode, segundo o procedimento de voto previsto no no 2 do artigo 43o do Tratado, modificar ou anular a medida em causa."
+  },
+  "442a46fac2b6187e": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nSob reserva das disposições contrárias do presente regulamento, os artigos 92o, 93o e 94o do Tratado são aplicáveis à produção e ao comércio dos produtos referidos no artigo 1o."
+  },
+  "40a6abdb9a5e2d7e": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros e a Comissão comunicam reciprocamente os dados necessários à aplicação do presente regulamento. As modalidades de comunicação e da difusão destes dados são adoptadas segundo o procedimento previsto no artigo 11o."
+  },
+  "2ab67ab50d7344ea": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. É instituído um Comité de Gestão das Sementes, seguidamente denominado «Comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. No âmbito do Comité os votos dos Estados-membros são afectados da ponderação prevista no no 2 do artigo 148o do Tratado.\n\nO presidente não toma parte na votação."
+  },
+  "528a1588aa9901ba": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. No caso de se recorrer ao procedimento estabelecido no presente artigo, o Comité é chamado a pronunciar-se pelo seu Presidente, quer por sua própia iniciativa, quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submete um projecto de medidas a tomar. O Comité emite o seu parecer sobre estas medidas dentro de um prazo que o Presidente pode fixar em função da urgência das questões submetidas a exame. Pronuncia-se com uma maioria de doze votos.\n\n3. A Comissão adopta medidas, que são imediatamente aplicáveis. Todavia, se não estiverem em conformidade com o parecer emitido pelo Comité, estas medidas são imediatamente comunicadas pela Comissão ao Conselho.\n\nNeste caso, a Comissão pode adiar por um mês ou mais a contar desta comunicação, a aplicação das medidas por ela decididas.\n\nO Conselho, deliberando segundo o procedimento do voto previsto no no 2 do artigo 43o do Tratado, pode tomar uma decisão diferente no prazo de um mês."
+  },
+  "113ac8c874c192fa": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nO Comité pode examinar qualquer outra questão evocada pelo seu Presidente, quer por sua iniciativa, quer a pedido do representante de um Estado-membro."
+  },
+  "235450155edc61ac": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nO presente regulamento deve ser aplicado de tal modo que sejam tidos em conta, paralelamente e de maneira apropriada, os objectivos previstos nos artigos 39o e 110o do Tratado."
+  },
+  "d30930f2abf3c985": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nAs disposições regulamentares relativas ao financiamento da política agrícola comum aplicam-se no mercado dos produtos referidos no artigo 1o, a partir da entrada em vigor do presente regulamento."
+  },
+  "2c5f74bd92295be0": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nNa alínea a) do artigo 1o do Regulamento no 120/67/CEE (3) a posição «10.05: milho» é substituída pela posição «10.05: milho, com excepção do milho híbrido destinado à sementeira»."
+  },
+  "28c82b6061c0bdb0": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nSe forem necessárias medidas transitórias para facilitar a passagem do regime em vigor nos Estados-membros, ou para o milho híbrido destinado à sementeira, entre o regime instituído pelo Regulamento no 120/67/CEE e o regime previsto pelo presente Regulamento, nomeadamente se a aplicação deste encontrar dificuldades sensíveis quanto a certos produtos, estas medidas serão adoptadas segundo o procedimento previsto no artigo 11o. São aplicáveis o mais tardar até 30 de Junho de 1973."
+  },
+  "ea383c4dcf259f81": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nO presente regulamento entre em vigor a 1 de Maio de 1972.\n\nO presente regulamento é aplicável a partir de 1 de Julho de 1972.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em qualquer Estado-membro.\n\nFeito em Bruxelas em 26 de Outubro de 1971.\n\nPelo Conselho\n\nO Presidente\n\nL. NATALI\n\n(1) JO no C 11 de 5. 2. 1971, p. 30.(2) JO no C 36 de 19. 4. 1971, p. 38.(3) JO no 117 de 19. 6. 1967, p. 2269/67."
+  },
+  "30aaa39063e1626f": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n\"\" ID=\"1\" ASSV=\"18\">ex 12.03 C> ID=\"2\">I. GRAMINEAE> ID=\"3\">GRAMINEAS\"> ID=\"2\">Dactylis glomerata L.> ID=\"3\">Dactilo\"> ID=\"2\">Festuca arundinacea Schreb.> ID=\"3\">Festuca arundinacea\"> ID=\"2\">Festuca ovina L.> ID=\"3\">Festuca ovina\"> ID=\"2\">Festuca pratensis Huds.> ID=\"3\">Festuca dos prados\"> ID=\"2\">Festuca rubra L.> ID=\"3\">Festuca vermelha\"> ID=\"2\">Lolium multiflorum Lam.> ID=\"3\">Azevém de Itália (compreende o Azevém Westerwold)\"> ID=\"2\">Lolium perenne L.> ID=\"3\">Azevém inglés\"> ID=\"2\">Lolium x hybridum Hausskn.> ID=\"3\">Azevém híbrido\"> ID=\"2\">Phleum pratense L.> ID=\"3\">Rabo de gato\"> ID=\"2\">Poa nemoralis L.> ID=\"3\">Poa silvestre\"> ID=\"2\">Poa pratensis L.> ID=\"3\">Poa dos pratos\"> ID=\"2\">Poa trivialis L.> ID=\"3\">Poa comum\"> ID=\"2\">II. LEGUMINOSAE> ID=\"3\">LEGUMINOSAS\"> ID=\"2\">Medicago sativa L.> ID=\"3\">Luzerna\"> ID=\"2\">Trifolium pratense L.> ID=\"3\">Trevo violeta\"> ID=\"2\">Trifolium repens L.> ID=\"3\">Trevo branco\"> ID=\"2\">Vicia sativa L.> ID=\"3\">Ervilhaca comum\">"
+  },
+  "5ee9e919f9aba92c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Outubro de 1971\n\nque estabelece a organização comum de mercado no sector das sementes\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 42º e 43º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/19d956cf-88ab-47d3-a5f7-6fc9a0a53a49.0010.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/19d956cf-88ab-47d3-a5f7-6fc9a0a53a49.0010.03/DOC_1#E0002)),\n\nConsiderando que o funcionamento e o desenvolvimento do mercado comum devem, para os produtos agrícolas, acompanhar-se do estabelecimento de uma política agrícola comum e que esta deve, nomeadamente, compreender uma organização comum dos mercados agrícolas, podendo tomar diversas formas conforme os produtos;\n\nConsiderando que a situação especial do mercado de certas sementes é caracterizada pela necessidade de manter preços concorrenciais em relação aos preços mundiais destes produtos; que, por consequência é conveniente assegurar, com medidas adequadas, a estabilidade do mercado bem como rendimentos equitativos para os produtores interessados;\n\nConsiderando que, com este fim, é conveniente prever a possibilidade de conceder uma ajuda à produção de certas sementes; que, tendo em conta as características da sua produção, convém prever para esta ajuda um sistema de fixação forfetário por quintal de sementes produzidas;\n\nConsiderando que a organização comum de mercado no sector das sementes conduz ao estabelecimento de um regime único de trocas nas fronteiras da Comunidade; que a pauta aduaneira comum se aplica de pleno direito por força do Tratado a partir de 1 de Janeiro de 1970 e que este regime permite renunciar a qualquer outra medida de protecção; que convém todavia, a fim de não deixar o mercado comunitário sem defesa contra as perturbações que poderiam advir das importações e exportações, permitir à Comunidade tomar rapidamente todas as medidas necessárias;\n\nConsiderando que as autoridades competentes devem estar em condições de seguir permanentemente o movimento das trocas, a fim de poder apreciar a evolução do mercado e de tomar as medidas que se tornem necessárias; que, com este fim, convém a possibilidade de emitir certificados de importação acompanhados da constituição de um caução que garanta a realização das importações para as quais estes certificados foram pedidos; que, todavia, as importações na sequência de contratos de multiplicação devidamente registados devem ser exoneradas desta caução;\n\nConsiderando que, para o milho híbrido destinado à sementeira, é necessário evitar, no mercado do (SIC! da) Comunidade, perturbações devidas a ofertas feitas no mercado mundial a preços anormais; que, com este fim, convém fixar para este produto preços de referência e acrescentar aos direitos aduaneiros uma taxa compensatória quando os preços de oferta franco-fronteira, aumentados dos direitos aduaneiros, se situem abaixo dos preços de referência;\n\nConsiderando que, no comércio interno da Comunidade, a cobrança de qualquer direito aduaneiro ou taxa de efeito equivalente e qualquer restrição quantitativa ou medida de efeito equivalente são proibidas de pleno direito por força do Tratado, a partir de 1 de Janeiro de 1970;\n\nConsiderando que é conveniente que as disposições do Tratado que permitem apreciar as ajudas concedidas pelos Estados-membros e proibir as que são incompatíveis com o mercado comum, sejam aplicáveis no sector das sementes;\n\nConsiderando que, para facilitar a execução das disposições previstas, é conveniente prever um procedimento que instaure uma cooperação estreita entre os Estados-membros e a Comissão no âmbito de um Comité de Gestão;\n\nConsiderando que a passagem do regime em vigor nos Estados-membros para o que o presente Regulamento instaura deve efectuar-se nas melhores condições; que para isso, podem revelar-se necessárias medidas transitórias,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1d4f4e28b39b5f65": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nÉ estabelecida, no sector das sementes, uma organização comum de mercado, que rege os seguintes produtos:\n\n| Código NC | Designação das mercadorias |\n| --- | --- |\n| 0712 90 11 | Milho doce híbrido destinado a sementeira |\n| [▼M18](http://publications.europa.eu/resource/celex/31992R3695) |  |\n| 0713 10 10 | Ervilhas *(Pisum Sativum)* destinadas à sementeira |\n| [▼M15](http://publications.europa.eu/resource/celex/31987R3997) |  |\n| 0713 20 10 | Grão-de-bico, destinado a sementeira |\n| 0713 31 10 | Feijões das espécies *Vigna mungo (L.) Hepper* ou *Vigna radiata (L.) Wilczek* destinados a sementeira |\n| 0713 32 10 | Feijões Adzuki *(Phaseolus* ou *Vigna angularis)* destinados a sementeira |\n| 0713 33 10 | Feijão comum *(Phaseolus vulgaris)* destinado a sementeira |\n| 0713 39 10 | Outros feijões *(Phaseolus vulgaris)* destinados a sementeira |\n| 0713 40 10 | Lentilhas destinadas a sementeira |\n| 0713 50 10 | Favas *(Vicia faba var. major)* e fava forrageira *(vicia faba var. equina, vicia faba var. minor)* destinadas a sementeira |\n| 0713 90 10 | Outros legumes de vagem, secos, destinados a sementeira |\n| 1001 90 10 | Espelta destinada a sementeira |\n| ex10 05 10 | Milho híbrido para sementeira |\n| 1006 10 10 | Arroz com casca (arroz *paddy*) destinado a sementeira |\n| 1007 00 10 | Sorgo de grão híbrido, destinado a sementeira |\n| 1201 00 10 | Soja, mesmo triturada, destinada a sementeira |\n| 1202 10 10 | Amendoins não torrados nem de outro modo cozidos, com casca, destinados a sementeira |\n| 1204 00 10 | Linhaça (sementes de linho) mesmo triturada, destinada a sementeira |\n| 1205 00 10 | Sementes de nabo silvestre ou de colza, mesmo trituradas, destinadas a sementeira |\n| 1206 00 10 | Sementes de girassol, mesmo trituradas, destinadas a sementeira |\n| ex12 07 | Outras sementes e frutas oleaginosas, mesmo trituradas, destinadas a sementeira |\n| 1209 | Sementes, frutos e esporos, para sementeira |\n| [▼B](http://publications.europa.eu/resource/celex/31971R2358) |  |"
+  },
+  "a060fce4f35c7a96": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nA campanha de comercialização para as sementes começa a 1 de Julho de cada ano e termina a 30 de Junho do ano seguinte."
+  },
+  "28852f2a9a378eea": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Quando a situação do mercado na Comunidade de um ou de vários produtos referidos no anexo e a sua evolução previsível não permitam assegurar um rendimento equitativo aos produtores, poderá ser concedida uma ajuda à produção destes produtos, desde que se trate de sementes de base ou de sementes certificadas.\n\n[**►C2**](http://publications.europa.eu/resource/celex/31978R1346R%2801%29) Esta ajuda, de valor uniformizado relativamente a cada espécie ou grupo de variedades em toda a Comunidade, é fixada de dois em dois anos, antes de 1 de Agosto, relativamente à campanha de comercialização a iniciar no ano seguinte e relativamente à campanha a seguir a essa.**◄** Todavia, a ajuda relativamente às campanhas de comercialização de 1978/1979 e 1979/1980 é fixado antes de 1 de Julho de 1978. Se durante o período de dois anos ém relação ao qual uma ajuda da Comunidade foi fixada, o mercado comunitário correr riscos de perturbação, o Conselho, deliberando sob proposta da Comissão, por maioria qualificada, pode decidir alterar a ajuda relativa à segunda campanha do período em causa. [**►M9**](http://publications.europa.eu/resource/celex/31979R2878) Essa alteração deve ser introduzida antes do início da campanha de comercialização referida, em tempo útil a fim de permitir uma acção sobre a produção.**◄**\n\n2. O montante da ajuda é fixado por quintal de sementes produzidas, tendo em conta:\n\na) A necessidade de assegurar o equilíbrio entre o volume de produção necessária na Comunidade e as possibilidades de escoamento desta produção;\n\nb) Os preços destes produtos nos mercados externos.\n\n3. O montante da ajuda é fixado segundo o procedimento previsto no nº 2 do artigo 43º do Tratado.\n\n4. O Conselho, deliberando sob proposta da Comissão, segundo o procedimento de voto previsto no nº 2 do artigo 43º do Tratado, adopta as regras gerais relativamente à concessão da ajuda, e decide sobre a modificação do anexo.\n\n4a. A quantidade máxima de sementes que beneficia da ajuda na Comunidade é fixada nos termos do n.º 5 e será repartida pelos Estados-Membros produtores.\n\nA quantidade máxima de sementes, com excepção das de arroz, que beneficia da ajuda é igual à soma das quantidades correspondentes a cada Estado-Membro estabelecidas com base na média das quantidades colhidas, que foram tidas em conta para as campanhas de comercialização de 1996/1997 a 2000/2001, excluindo os dois extremos, majoradas de 5 %.\n\nSempre que a quantidade estabelecida para um Estado-Membro, em aplicação do segundo parágrafo, não ultrapasse as 800 toneladas, é concedida a esse Estado-Membro uma quantidade adicional de 300 toneladas.\n\nPara as sementes, com excepção das de arroz, cuja soma total das quantidades em relação às quais tenham sido apresentados pedidos de ajuda nos Estados-Membros produtores exceda a quantidade máxima fixada para a Comunidade, a ajuda será reduzida, para a campanha de comercialização seguinte, em relação a cada Estado-Membro em causa, proporcionalmente à superação da quantidade nacional fixada, tendo em conta as quantidades que não foram utilizadas pelos Estados-Membros. Nesse caso, a Comissão fixará as percentagens de redução aplicáveis a cada Estado-Membro produtor;\n\n5. As regras de aplicação do presente artigo são adoptadas segundo o procedimento previsto no artigo 11º.\n\n6. As variedades de *Cannabis sativa L*. elegíveis para a ajuda prevista no presente artigo são fixadas nos termos do artigo 11.º"
+  },
+  "a159950775207722": {
+   "fragment_id": "Artigo 3ºA",
+   "type": "artigo",
+   "heading": "Artigo 3ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3ºA\n\n1. Relativamente a certas espécies e a partir de 1 de Fevereiro de 1979, os contratos de multiplicação de sementes celebrados entre um estabelecimento de sementes ou um adquirente estabelecido na Comunidade, por um lado, e um multiplicador de sementes estabelecido num país terceiro, por outro, podem ser submetidos a registo obrigatório junto dos organismos indicados para esse efeito por cada Estado-membro.\n\n2. Os Estados-membros comunicam periodicamente à Comissão as informações estatísticas relativas ao registo dos contratos de multiplicação.\n\n3. Os dados que são objecto do registo dos contratos de multiplicação só podem ser utilizados para fins de aplicação do presente regulamento.\n\n4. As regras de aplicação do presente artigo e, nomeadamente, a definição de contrato de multiplicação, bem como a lista das espécies referidas no nº 1, são adoptadas nos termos do procedimento previsto no artigo 11º."
+  },
+  "ad65b47e1f81b281": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Qualquer importação na comunidade dos produtos referidos no artigo 1º pode ser submetida à apresentação de um certificado de importação emitido pelos Estados-membros a todo o interessado que tenha feito o pedido, qualquer que seja o lugar do seu estabelecimento na Comunidade.\n\nO certificado é válido para uma importação efectuada na Comunidade.\n\nSalvo para as importações realizadas no âmbito de contratos de multiplicação num páis terceiro, devidamente registados, a emissão destes certificados está subordinada à prestação de uma caução que garanta a obrigação de importar durante o prazo de validade do certificado e que será pedida, no todo ou em parte, se neste prazo, a importação não tiver sido realizada ou só o tiver sido parcialmente.\n\n2. A lista dos produtos para os quais os certificados de importação são exigidos, é determinada segundo o procedimento previsto no artigo 11º.\n\nO prazo de validade dos certificados e as outras regras de aplicação do presente artigo são determinados segundo o mesmo procedimento."
+  },
+  "e3a27843b52cc667": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Salvo disposição em contrário do presente regulamento, as taxas dos direitos da Pauta Aduaneira Comum são aplicáveis aos produtos a que se refere o artigo 1º.\n\n2. As regras gerais para a interpretação da Nomenclatura Combinada e as regras especiais para a sua aplicação aplicam-se à classificação dos produtos abrangidos pelo presente regulamento; a nomenclatura pautal resultante da aplicação do presente regulamento será integrada na Pauta Aduaneira Comum."
+  },
+  "41951811356c52a5": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nSalvo disposição em contrário do presente regulamento ou adoptadas nos termos de uma das disposições deste, são proibidas, nas trocas comerciais com países terceiros:\n\n— a cobrança de qualquer imposição de efeito equivalente a um direito aduaneiro,\n\n— a aplicação de qualquer restrição quantitativa ou medida de efeito equivalente."
+  },
+  "04eed68e46781b39": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Se, devido às importações ou às exportações, o mercado comunitário de um ou vários produtos a que se refere o artigo 1º sofrer, ou correr o risco de sofrer, perturbações graves que possam pôr em perigo os objectivos do artigo 39º do Tratado, podem ser aplicadas medidas adequadas às trocas comerciais com países terceiros até que desapareça a perturbação ou risco de perturbação.\n\nO Conselho, deliberando sob proposta da Comissão de acordo com o processo de votação previsto no nº 2 do artigo 43º do Tratado, adoptará as regras gerais de aplicação do presente número e definirá os casos e limites em que os Estados-membros podem tomar medidas cautelares.\n\n2. Se se verificar a situação prevista no nº 1, a Comissão, a pedido de um Estado-membro ou por sua própria iniciativa, decidirá das medidas necessárias, que serão comunicadas aos Estados-membros e imediatamente aplicáveis. Se a Comissão receber um pedido de um Estado-membro, tomará uma decisão no prazo de três dias úteis seguintes à sua recepção.\n\n3. Qualquer Estado-membro pode submeter à apreciação do Conselho a medida tomada pela Comissão, no prazo de três dias úteis a contar da data da sua comunicação. O Conselho reunir-se-á imediatamente e, deliberando por maioria qualificada, pode alterar ou anular a medida em causa.\n\n4. O disposto no presente artigo será aplicado no respeito das obrigações decorrentes dos acordos celebrados em conformidade com o nº 2 do artigo 228º do Tratado."
+  },
+  "612f4d6aff749c04": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nSob reserva das disposições contrárias do presente regulamento, os artigos 92º, 93º e 94º do Tratado são aplicáveis à produção e ao comércio dos produtos referidos no artigo 1º.\n\nTodavia, sob reserva de autorização da Comissão, a Finlândia podem (SIC! pode) conceder ajudas, respectivamente, a:\n\n— determinadas quantidades de sementes\n\n— determinadas quantidades de sementes de cereais\n\nproduzidas apenas nesse país, em virtude das suas condições climáticas específicas.\n\nAntes de 1 de Janeiro de 2006, a Comissão, com base nas informações prestadas atempadamente pela Finlândia, apresentará ao Conselho um relatório sobre os resultados das ajudas autorizadas, acompanhado das propostas necessárias."
+  },
+  "a03361d8565a2eaf": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nOs Estados-membros e a Comissão comunicam reciprocamente os dados necessários à aplicação do presente regulamento. As modalidades de comunicação e da difusão destes dados são adoptadas segundo o procedimento previsto no artigo 11º."
+  },
+  "c4130a8772e6a57b": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. A Comissão é assistida por um Comité de Gestão das Sementes (a seguir designado por «Comité»).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "56bed3cf106e8368": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nO Comité pode examinar qualquer outra questão evocada pelo seu Presidente, quer por sua iniciativa, quer a pedido do representante de um Estado-membro."
+  },
+  "d83e3c37860cb091": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nO presente regulamento deve ser aplicado de tal modo que sejam tidos em conta, paralelamente e de maneira apropriada, os objectivos previstos nos artigos 39º e 110º do Tratado."
+  },
+  "5a7c5626095ac990": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nAs disposições regulamentares relativas ao financiamento da política agrícola comum aplicam-se no mercado dos produtos referidos no artigo 1º, a partir da entrada em vigor do presente regulamento."
+  },
+  "f8f3174413f536bb": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nNa alínea a) do artigo 1º do Regulamento nº 120/67/CEE ([^3^](http://publications.europa.eu/resource/cellar/19d956cf-88ab-47d3-a5f7-6fc9a0a53a49.0010.03/DOC_1#E0003)) a posição «10.05: milho» é substituída pela posição «10.05: milho, com excepção do milho híbrido destinado à sementeira»."
+  },
+  "4113d1a6495fcc3c": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nSe forem necessárias medidas transitórias para facilitar a passagem do regime em vigor nos Estados-membros, ou para o milho híbrido destinado à sementeira, entre o regime instituído pelo Regulamento nº 120/67/CEE e o regime previsto pelo presente Regulamento, nomeadamente se a aplicação deste encontrar dificuldades sensíveis quanto a certos produtos, estas medidas serão adoptadas segundo o procedimento previsto no artigo 11º. São aplicáveis o mais tardar até 30 de Junho de 1973."
+  },
+  "3a0ad9ae1cc2ab03": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nO presente Regulamento entra em vigor a 1 de Maio de 1972.\n\nO presente Regulamento é aplicável a partir de 1 de Julho de 1972.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em qualquer Estado-membro."
+  },
+  "85d9466a478d86bc": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| Código NC | Designação das mercadorias |\n| --- | --- |\n| 1. CERES |  |\n| 1001 90 10 | *Triticum spelta L.* |\n| 1006 10 10 | *Oryza sativa L.* [(^1^)](http://publications.europa.eu/resource/cellar/19d956cf-88ab-47d3-a5f7-6fc9a0a53a49.0010.03/DOC_1#E1001) — variedades de grãos longos com um comprimento superior a 6,0 milímetros e com uma relação comprimento/largura superior ou igual a 3, — outras variedades de grãos com um comprimento superior, inferior ou igual a 6,0 milímetros e com uma relação comprimento/largura inferior a 3 |\n| 2. OLEAGINEAE |  |\n| ex120400 10 | *Linum usitatissimum L.* (linho têxtil) |\n| ex120400 10 | *Linum usitatissimum L.* (linho oleaginoso) |\n| ex120799 10 | *Cannabis sativa L.* [(^2^)](http://publications.europa.eu/resource/cellar/19d956cf-88ab-47d3-a5f7-6fc9a0a53a49.0010.03/DOC_1#E1002) (variedades com um teor em tetrahidrocanabinol não superior a 0,3 % para a campaha de comercialização de 2000/2001, e 0,2 % para as campanhas de comercialização posteriores) |\n| 3. GRAMINEAE |  |\n| ex120929 10 | *Agrostis canina L.* |\n| ex120929 10 | *Agrostis gigantea Roth.* |\n| ex120929 10 | *Agrostis stolonifera L.* |\n| ex120929 10 | *Agrostis capillaris L.* |\n| ex120929 80 | *Arrhenatherum elatius (L.)* P. Beauv. ex J. S. e K. B. Presl. |\n| ex120929 10 | *Dactylis glomerata L.* |\n| ex120923 80 | *Festuca arundinacea Schreb.* |\n| ex120923 80 | *Festuca ovina L.* |\n| 1209 23 11 | *Festuca pratensis Huds.* |\n| 1209 23 15 | *Festuca rubra L.* |\n| ex120929 80 | *Festulolium* |\n| 1209 25 10 | *Lolium multiflorum Lam.* |\n| 1209 25 90 | *Lolium perenne L.* [(^3^)](http://publications.europa.eu/resource/cellar/19d956cf-88ab-47d3-a5f7-6fc9a0a53a49.0010.03/DOC_1#E1003) |\n| ex120929 80 | *Lolium x boucheanum Kunth.* |\n| ex120929 80 | *Phleum Bertolinii (DC)* |\n| 1209 26 00 | *Phleum pratense L.* |\n| ex120929 80 | *Poa nemoralis L.* |\n| 1209 24 00 | *Poa pratensis L.* |\n| ex120929 10 | *Poa palustris* e *Poa trivialis L.* |\n| 4. LEGUMINOSAE |  |\n| ex120929 80 | *Hedysarum coronarium L.* |\n| ex120929 80 | *Medicago lupulina L.* |\n| ex120921 00 | *Medicago sativa L.* (ecotipos) |\n| ex120921 00 | *Medicago sativa L.* (variedades) |\n| ex120929 80 | *Onobrichis viciifolia Scop.* |\n| ex071310 10 | *Pisum sativum L.* (partim) (ervilha forrageira) |\n| ex120922 80 | *Trifolium alexandrinum L.* |\n| ex120922 80 | *Trifolium hybridum L.* |\n| ex120922 80 | *Trifolium incarnatum L.* |\n| 1209 22 10 | *Trifolium pratense L.* |\n| ex120922 80 | *Trifolium repens L.* |\n| ex120922 80 | *Trifolium repens L.* var. giganteum |\n| ex120922 80 | *Trifolium resupinatum L.* |\n| ex071350 10 | *Vicia faba L.* (partim) (favarola) |\n| ex120929 10 | *Vicia sativa L.* |\n| ex120929 10 | *Vicia villosa Roth.* |\n| (^1^)A medição dos grãos de arroz é efectuada em arroz branco, segundo o método seguinte: (^2^)O teor de tetrahidrocanabinol (THC) de uma variedade é determinado por análise de uma amostra de peso constante. O peso de THC relativamente ao peso da amostra não deve ser superior a 0,3 %, paras as campanhas de 1998/1999 a 2000/2001, e a 0,2 % para as campanhas posteriores. A amostra em questão é composta do terço superior de um número representativo de plantas colhidas aleatoriamente no final da sua floração e às quais tenham sido retirados os caules e as sementes. (^3^)A ajuda ao *Lolium perenne* no tocante às campanhas de comercialização de 2000/2001 e 2001/2002 é fixada a título transitório para os três grupos de variedades seguintes: |  |\n\n---"
+  },
+  "daceaf4eb9c00c67": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/19d956cf-88ab-47d3-a5f7-6fc9a0a53a49.0010.03/DOC_1#src.E0001)) JO nº C 11 de 5. 2. 1971, p. 30.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/19d956cf-88ab-47d3-a5f7-6fc9a0a53a49.0010.03/DOC_1#src.E0002)) JO nº C 36 de 19. 4. 1971, p. 38.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/19d956cf-88ab-47d3-a5f7-6fc9a0a53a49.0010.03/DOC_1#src.E0003)) JO nº 117 de 19. 6. 1967, p. 2269/67."
+  },
+  "f599e9b95dc0e4a0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Outubro de 1971\n\nque estabelece a organização comum de mercado no sector das sementes\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 42º e 43º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/dfb96e1f-7a7f-49f6-af8a-6504012d1c57.0010.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/dfb96e1f-7a7f-49f6-af8a-6504012d1c57.0010.03/DOC_1#E0002)),\n\nConsiderando que o funcionamento e o desenvolvimento do mercado comum devem, para os produtos agrícolas, acompanhar-se do estabelecimento de uma política agrícola comum e que esta deve, nomeadamente, compreender uma organização comum dos mercados agrícolas, podendo tomar diversas formas conforme os produtos;\n\nConsiderando que a situação especial do mercado de certas sementes é caracterizada pela necessidade de manter preços concorrenciais em relação aos preços mundiais destes produtos; que, por consequência é conveniente assegurar, com medidas adequadas, a estabilidade do mercado bem como rendimentos equitativos para os produtores interessados;\n\nConsiderando que, com este fim, é conveniente prever a possibilidade de conceder uma ajuda à produção de certas sementes; que, tendo em conta as características da sua produção, convém prever para esta ajuda um sistema de fixação forfetário por quintal de sementes produzidas;\n\nConsiderando que a organização comum de mercado no sector das sementes conduz ao estabelecimento de um regime único de trocas nas fronteiras da Comunidade; que a pauta aduaneira comum se aplica de pleno direito por força do Tratado a partir de 1 de Janeiro de 1970 e que este regime permite renunciar a qualquer outra medida de protecção; que convém todavia, a fim de não deixar o mercado comunitário sem defesa contra as perturbações que poderiam advir das importações e exportações, permitir à Comunidade tomar rapidamente todas as medidas necessárias;\n\nConsiderando que as autoridades competentes devem estar em condições de seguir permanentemente o movimento das trocas, a fim de poder apreciar a evolução do mercado e de tomar as medidas que se tornem necessárias; que, com este fim, convém a possibilidade de emitir certificados de importação acompanhados da constituição de um caução que garanta a realização das importações para as quais estes certificados foram pedidos; que, todavia, as importações na sequência de contratos de multiplicação devidamente registados devem ser exoneradas desta caução;\n\nConsiderando que, para o milho híbrido destinado à sementeira, é necessário evitar, no mercado do (SIC! da) Comunidade, perturbações devidas a ofertas feitas no mercado mundial a preços anormais; que, com este fim, convém fixar para este produto preços de referência e acrescentar aos direitos aduaneiros uma taxa compensatória quando os preços de oferta franco-fronteira, aumentados dos direitos aduaneiros, se situem abaixo dos preços de referência;\n\nConsiderando que, no comércio interno da Comunidade, a cobrança de qualquer direito aduaneiro ou taxa de efeito equivalente e qualquer restrição quantitativa ou medida de efeito equivalente são proibidas de pleno direito por força do Tratado, a partir de 1 de Janeiro de 1970;\n\nConsiderando que é conveniente que as disposições do Tratado que permitem apreciar as ajudas concedidas pelos Estados-membros e proibir as que são incompatíveis com o mercado comum, sejam aplicáveis no sector das sementes;\n\nConsiderando que, para facilitar a execução das disposições previstas, é conveniente prever um procedimento que instaure uma cooperação estreita entre os Estados-membros e a Comissão no âmbito de um Comité de Gestão;\n\nConsiderando que a passagem do regime em vigor nos Estados-membros para o que o presente Regulamento instaura deve efectuar-se nas melhores condições; que para isso, podem revelar-se necessárias medidas transitórias,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "6c6607eea5807706": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nNa alínea a) do artigo 1º do Regulamento nº 120/67/CEE ([^3^](http://publications.europa.eu/resource/cellar/dfb96e1f-7a7f-49f6-af8a-6504012d1c57.0010.03/DOC_1#E0003)) a posição «10.05: milho» é substituída pela posição «10.05: milho, com excepção do milho híbrido destinado à sementeira»."
+  },
+  "a7e1851e517d0cd6": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| Código NC | Designação das mercadorias |\n| --- | --- |\n| 1. CERES |  |\n| 1001 90 10 | *Triticum spelta L.* |\n| 1006 10 10 | *Oryza sativa L.* [(^1^)](http://publications.europa.eu/resource/cellar/dfb96e1f-7a7f-49f6-af8a-6504012d1c57.0010.03/DOC_1#E1001) — variedades de grãos longos com um comprimento superior a 6,0 milímetros e com uma relação comprimento/largura superior ou igual a 3, — outras variedades de grãos com um comprimento superior, inferior ou igual a 6,0 milímetros e com uma relação comprimento/largura inferior a 3 |\n| 2. OLEAGINEAE |  |\n| ex120400 10 | *Linum usitatissimum L.* (linho têxtil) |\n| ex120400 10 | *Linum usitatissimum L.* (linho oleaginoso) |\n| ex120799 10 | *Cannabis sativa L.* [(^2^)](http://publications.europa.eu/resource/cellar/dfb96e1f-7a7f-49f6-af8a-6504012d1c57.0010.03/DOC_1#E1002) (variedades com um teor em tetrahidrocanabinol não superior a 0,3 % para a campaha de comercialização de 2000/2001, e 0,2 % para as campanhas de comercialização posteriores) |\n| 3. GRAMINEAE |  |\n| ex120929 10 | *Agrostis canina L.* |\n| ex120929 10 | *Agrostis gigantea Roth.* |\n| ex120929 10 | *Agrostis stolonifera L.* |\n| ex120929 10 | *Agrostis capillaris L.* |\n| ex120929 80 | *Arrhenatherum elatius (L.)* P. Beauv. ex J. S. e K. B. Presl. |\n| ex120929 10 | *Dactylis glomerata L.* |\n| ex120923 80 | *Festuca arundinacea Schreb.* |\n| ex120923 80 | *Festuca ovina L.* |\n| 1209 23 11 | *Festuca pratensis Huds.* |\n| 1209 23 15 | *Festuca rubra L.* |\n| ex120929 80 | *Festulolium* |\n| 1209 25 10 | *Lolium multiflorum Lam.* |\n| 1209 25 90 | *Lolium perenne L.* [(^3^)](http://publications.europa.eu/resource/cellar/dfb96e1f-7a7f-49f6-af8a-6504012d1c57.0010.03/DOC_1#E1003) |\n| ex120929 80 | *Lolium x boucheanum Kunth.* |\n| ex120929 80 | *Phleum Bertolinii (DC)* |\n| 1209 26 00 | *Phleum pratense L.* |\n| ex120929 80 | *Poa nemoralis L.* |\n| 1209 24 00 | *Poa pratensis L.* |\n| ex120929 10 | *Poa palustris* e *Poa trivialis L.* |\n| 4. LEGUMINOSAE |  |\n| ex120929 80 | *Hedysarum coronarium L.* |\n| ex120929 80 | *Medicago lupulina L.* |\n| ex120921 00 | *Medicago sativa L.* (ecotipos) |\n| ex120921 00 | *Medicago sativa L.* (variedades) |\n| ex120929 80 | *Onobrichis viciifolia Scop.* |\n| ex071310 10 | *Pisum sativum L.* (partim) (ervilha forrageira) |\n| ex120922 80 | *Trifolium alexandrinum L.* |\n| ex120922 80 | *Trifolium hybridum L.* |\n| ex120922 80 | *Trifolium incarnatum L.* |\n| 1209 22 10 | *Trifolium pratense L.* |\n| ex120922 80 | *Trifolium repens L.* |\n| ex120922 80 | *Trifolium repens L.* var. giganteum |\n| ex120922 80 | *Trifolium resupinatum L.* |\n| ex071350 10 | *Vicia faba L.* (partim) (favarola) |\n| ex120929 10 | *Vicia sativa L.* |\n| ex120929 10 | *Vicia villosa Roth.* |\n| (^1^)A medição dos grãos de arroz é efectuada em arroz branco, segundo o método seguinte: (^2^)O teor de tetrahidrocanabinol (THC) de uma variedade é determinado por análise de uma amostra de peso constante. O peso de THC relativamente ao peso da amostra não deve ser superior a 0,3 %, paras as campanhas de 1998/1999 a 2000/2001, e a 0,2 % para as campanhas posteriores. A amostra em questão é composta do terço superior de um número representativo de plantas colhidas aleatoriamente no final da sua floração e às quais tenham sido retirados os caules e as sementes. (^3^)A ajuda ao *Lolium perenne* no tocante às campanhas de comercialização de 2000/2001 e 2001/2002 é fixada a título transitório para os três grupos de variedades seguintes: |  |\n\n---"
+  },
+  "39f920d50ce1d9e8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/dfb96e1f-7a7f-49f6-af8a-6504012d1c57.0010.03/DOC_1#src.E0001)) JO nº C 11 de 5. 2. 1971, p. 30.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/dfb96e1f-7a7f-49f6-af8a-6504012d1c57.0010.03/DOC_1#src.E0002)) JO nº C 36 de 19. 4. 1971, p. 38.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/dfb96e1f-7a7f-49f6-af8a-6504012d1c57.0010.03/DOC_1#src.E0003)) JO nº 117 de 19. 6. 1967, p. 2269/67."
+  },
+  "d893be75b25ed516": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1971R2358 — PT — 01.07.2006 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31971R2358) [REGULAMENTO (CEE) NO 2358/71 DO CONSELHO](http://publications.europa.eu/resource/celex/31971R2358) [de 26 de Outubro de 1971](http://publications.europa.eu/resource/celex/31971R2358) [que estabelece a organização comum de mercado no sector das sementes](http://publications.europa.eu/resource/celex/31971R2358) (JO L 246, 5.11.1971, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1947/2005 do Conselho de 23 de Novembro de 2005](http://publications.europa.eu/resource/celex/32005R1947) — L 312 — 3 — 29.11.2005"
+  }
+ }
+}

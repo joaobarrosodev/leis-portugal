@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2007-45.versoes.json
+  count: 1
+  source_lastmod: '2007-10-11'
+  versions:
+  - date: '2007-09-21'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32007L0045
   eli: http://data.europa.eu/eli/dir/2007/45/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a5290b1f-1bdf-4ddd-a847-044460eed64e.0018
   content_url: http://publications.europa.eu/resource/cellar/a5290b1f-1bdf-4ddd-a847-044460eed64e.0018.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:47:51Z'
+  retrieved_at: '2026-10-22T15:07:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T14:21:24.366+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:51Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:07:23Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2007-45.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -132,21 +141,20 @@ relationships:
   date: '1980-02-25'
 article_structure:
   article_count: 11
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:51Z'
+  checked_at: '2026-10-22T15:07:23Z'
   warnings:
-  - Versão consolidada 02007L0045-20071011 indisponível (Sem expressão na língua por para CELEX 02007L0045-20071011.); usado
-    o texto do JO.
+  - '02007L0045-20071011: versão indisponível (Sem expressão na língua por para CELEX 02007L0045-20071011.)'
   errors: []
 ---
 
-# DIRECTIVA 2007/45/CE DO PARLAMENTO EUROPEU E DO CONSELHO
+# Directiva 2007/45/CE do Parlamento Europeu e do Conselho, de 5 de Setembro de 2007
 
 de 5 de Setembro de 2007
 

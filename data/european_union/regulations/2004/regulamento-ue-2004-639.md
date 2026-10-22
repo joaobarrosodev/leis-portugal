@@ -35,6 +35,45 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: regulamento-ue-2004-639.versoes.json
+  count: 4
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2004-04-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-11-10'
+    amending: eu:celex:32006R1646:por
+    amending_title: REGULAMENTO (CE) N. o 1646/2006 DO CONSELHO de 7 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Renovação e modernização das frotas
+    - Altera Artigo 6.º — Relatório
+    - Altera Artigo 7.º — Entrada em vigor
+    - Adita Notas
+  - date: '2008-12-05'
+    amending: eu:celex:32008R1207:por
+    amending_title: REGULAMENTO (CE) N. o 1207/2008 DO CONSELHO de 28 de Novembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Renovação e modernização das frotas
+    - Altera Artigo 6.º — Relatório
+    - Altera Notas
+  - date: '2014-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Níveis específicos de referência
+    - Suprime Artigo 2.º — Renovação e modernização das frotas
+    - Suprime Artigo 3.º — Transferência de navios para o continente
+    - Suprime Artigo 4.º — Gestão das capacidades
+    - Suprime Artigo 5.º — Procedimento de comité
+    - Suprime Artigo 6.º — Relatório
+    - Suprime Artigo 7.º — Entrada em vigor
+    - Suprime Notas
 identifiers:
   celex: 32004R0639
   eli: http://data.europa.eu/eli/reg/2004/639/oj
@@ -49,7 +88,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/26ded901-a7ca-4fdb-b6d9-114c54914283.0010
   content_url: http://publications.europa.eu/resource/cellar/532b5a35-fc66-42bf-9c2a-5b9adc027f52.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0639-20140101
-  retrieved_at: '2026-10-22T03:11:56Z'
+  retrieved_at: '2026-10-22T14:57:39Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-02T15:13:37.594+02:00'
 integrity:
@@ -58,9 +97,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:56Z'
-  notes: Texto consolidado 02004R0639-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:39Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2004-639.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -122,16 +161,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:56Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:57:39Z'
+  warnings: []
   errors: []
 ---
 

@@ -37,6 +37,62 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-03-03'
+version_history:
+  file: regulamento-ue-2008-555.versoes.json
+  count: 2
+  source_lastmod: '2018-03-03'
+  versions:
+  - date: '2008-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-03-03'
+    amending: eu:celex:32009R0042:por
+    amending_title: REGULAMENTO (CE) N. o 42/2009 DA COMISSÃO de 20 de Janeiro de 2009; M2; M3; M4; M5; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 202/2013 DA COMISSÃO de 8 de março de 2013; M7; M8; M9; M10; M11; M12; M13; REGULAMENTO DE EXECUÇÃO (UE) 2015/1991
+      DA COMISSÃO de 5 de novembro de 2015; M15; REGULAMENTO DELEGADO (UE) 2016/1149 DA COMISSÃO de 15 de abril de 2016; REGULAMENTO
+      DELEGADO (UE) 2018/273 DA COMISSÃO de 11 de dezembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 58.º — Comunicações
+    - Altera Artigo 65.º — Reservas de direitos de plantação
+    - Altera Artigo 103.º — Revogações e remissões
+    - Altera Artigo 104.º — Entrada em vigor
+    - Adita Artigo 61.º — Obrigações de comunicação dos Estados-Membros relativas a novos direitos de plantação
+    - Adita ANEXO XXII
+    - Suprime Artigo 1.º — Âmbito de aplicação e utilização dos termos
+    - Suprime Artigo 2.º — Primeira apresentação de programas de apoio
+    - Suprime Artigo 3.º — Alteração de programas de apoio
+    - Suprime Secção 1
+    - Suprime Promoção em mercados de países terceiros
+    - Suprime Artigo 4.º — Mercados e operações elegíveis
+    - Suprime Artigo 5.º — Procedimento de selecção
+    - Suprime Secção 2
+    - Suprime Reestruturação e reconversão de vinhas
+    - Suprime Artigo 6.º — Definição
+    - Suprime Artigo 7.º — Procedimento e apresentação dos pedidos
+    - Suprime Artigo 8.º — Níveis de apoio
+    - Suprime Artigo 9.º — Gestão financeira
+    - Suprime Artigo 10.º — Medidas transitórias
+    - Suprime Secção 3
+    - Suprime Colheita em verde
+    - Suprime Artigo 11.º — Definição de colheita em verde
+    - Suprime Artigo 12.º — Condições de realização da colheita em verde
+    - Suprime Artigo 13.º — Procedimento de apresentação dos pedidos
+    - Suprime Artigo 14.º — Compensação
+    - Suprime Secção 4
+    - Suprime Fundos mutualistas
+    - Suprime Artigo 15.º — Nível da ajuda
+    - Suprime Secção 5
+    - Suprime Seguros de colheitas
+    - Suprime Artigo 16.º — Condições de elegibilidade
+    - Suprime Secção 6
+    - Suprime Investimentos
+    - Suprime Artigo 17.º — Medidas elegíveis
+    - Suprime Artigo 18.º — Medidas elegíveis para a elaboração de novos produtos
+    - Suprime Artigo 19.º — Gestão financeira
+    - Suprime Artigo 20.º — Compatibilidade e coerência
+    - Suprime Artigo 21.º — Fixação de uma percentagem mínima de álcool
 identifiers:
   celex: 32008R0555
   eli: http://data.europa.eu/eli/reg/2008/555/oj
@@ -51,7 +107,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/db170131-dc8e-4c02-bf2c-793697e23084.0018
   content_url: http://publications.europa.eu/resource/cellar/d179e509-6234-4410-a945-0416c89bc1bd.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0555-20180303
-  retrieved_at: '2026-10-22T02:35:46Z'
+  retrieved_at: '2026-10-22T15:15:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-31T04:24:25.176+01:00'
 integrity:
@@ -60,9 +116,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:46Z'
-  notes: Texto consolidado 02008R0555-20180303.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:15:57Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2008-555.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -613,48 +669,30 @@ relationships:
 article_structure:
   article_count: 9
   section_count: 29
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:46Z'
-  warnings: []
+  checked_at: '2026-10-22T15:15:57Z'
+  warnings:
+  - '02008R0555-20090128: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0555-20090805: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0555-20100905: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0555-20120416: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0555-20120702: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0555-20130312: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0555-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0555-20140101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0555-20140225: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0555-20140610: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0555-20160101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0555-20160718: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 555/2008 da Comissão, de 27 de Junho de 2008
-
-> 02008R0555 — PT — 03.03.2018 — 013.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0042) — [REGULAMENTO (CE) N.º 42/2009 DA COMISSÃO de 20 de Janeiro de 2009](http://publications.europa.eu/resource/celex/32009R0042) — L 16 — 6 — 21.1.2009
-- [M2](http://publications.europa.eu/resource/celex/32009R0702) — [REGULAMENTO (CE) N.º 702/2009 DA COMISSÃO de 3 de Agosto de 2009](http://publications.europa.eu/resource/celex/32009R0702) — L 202 — 5 — 4.8.2009
-- [M3](http://publications.europa.eu/resource/celex/32010R0772) — [REGULAMENTO (UE) N.º 772/2010 DA COMISSÃO de 1 de Setembro de 2010](http://publications.europa.eu/resource/celex/32010R0772) — L 232 — 1 — 2.9.2010
-- [M4](http://publications.europa.eu/resource/celex/32012R0314) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 314/2012 DA COMISSÃO de 12 de abril de 2012](http://publications.europa.eu/resource/celex/32012R0314) — L 103 — 21 — 13.4.2012
-- [M5](http://publications.europa.eu/resource/celex/32012R0568) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 568/2012 DA COMISSÃO de 28 de junho de 2012](http://publications.europa.eu/resource/celex/32012R0568) — L 169 — 13 — 29.6.2012
-- [►M6](http://publications.europa.eu/resource/celex/32013R0202) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 202/2013 DA COMISSÃO de 8 de março de 2013](http://publications.europa.eu/resource/celex/32013R0202) — L 67 — 10 — 9.3.2013
-- [M7](http://publications.europa.eu/resource/celex/32013R0519) — [REGULAMENTO (UE) N.º 519/2013 DA COMISSÃO de 21 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0519) — L 158 — 74 — 10.6.2013
-- [M8](http://publications.europa.eu/resource/celex/32013R0600) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 600/2013 DA COMISSÃO de 24 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0600) — L 172 — 13 — 25.6.2013
-- [M9](http://publications.europa.eu/resource/celex/32013R0752) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 752/2013 DA COMISSÃO de 31 de julho de 2013](http://publications.europa.eu/resource/celex/32013R0752) — L 210 — 17 — 6.8.2013
-- [M10](http://publications.europa.eu/resource/celex/32013R0994) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 994/2013 DA COMISSÃO de 16 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R0994) — L 276 — 1 — 17.10.2013
-- [M11](http://publications.europa.eu/resource/celex/32014R0168) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 168/2014 DA COMISSÃO de 21 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0168) — L 54 — 14 — 22.2.2014
-- [M12](http://publications.europa.eu/resource/celex/32014R0612) — [REGULAMENTO DELEGADO (UE) N.º 612/2014 DA COMISSÃO de 11 de março de 2014](http://publications.europa.eu/resource/celex/32014R0612) — L 168 — 62 — 7.6.2014
-- [M13](http://publications.europa.eu/resource/celex/32014R0614) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 614/2014 DA COMISSÃO de 6 de junho de 2014](http://publications.europa.eu/resource/celex/32014R0614) — L 168 — 73 — 7.6.2014
-- [►M14](http://publications.europa.eu/resource/celex/32015R1991) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1991 DA COMISSÃO de 5 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R1991) — L 290 — 9 — 6.11.2015
-- [M15](http://publications.europa.eu/resource/celex/32016R0038) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/38 DA COMISSÃO de 14 de janeiro de 2016](http://publications.europa.eu/resource/celex/32016R0038) — L 11 — 1 — 16.1.2016
-- [►M16](http://publications.europa.eu/resource/celex/32016R1149) — [REGULAMENTO DELEGADO (UE) 2016/1149 DA COMISSÃO de 15 de abril de 2016](http://publications.europa.eu/resource/celex/32016R1149) — L 190 — 1 — 15.7.2016
-- [►M17](http://publications.europa.eu/resource/celex/32018R0273) — [REGULAMENTO DELEGADO (UE) 2018/273 DA COMISSÃO de 11 de dezembro de 2017](http://publications.europa.eu/resource/celex/32018R0273) — L 58 — 1 — 28.2.2018
-
-**Rectificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32008R0555R%2803%29) — [Rectificação, JO L 139, 5.6.2010, p. 3 (555/2008)](http://publications.europa.eu/resource/celex/32008R0555R%2803%29)
-
-## REGULAMENTO (CE) N.º 555/2008 DA COMISSÃO
 
 de 27 de Junho de 2008
 

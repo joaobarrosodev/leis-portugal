@@ -1,0 +1,249 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0075:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0075-20040205",
+ "dre_path": null,
+ "source_lastmod": "2004-02-05",
+ "versions": [
+  {
+   "date": "1993-10-05",
+   "future": false,
+   "celex": "31993L0075",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "404a82011c684fb1",
+    "88f8ab656f7e31f4",
+    "b16ba0397c9cd424",
+    "71977ff550912a3d",
+    "845e63ecf89e8477",
+    "25a0beecebcd9083",
+    "dd9fd82cc7dea118",
+    "a226a8df23ca0479",
+    "b4b7bb15c565ef71",
+    "d8a124ed23dfc3b6",
+    "547f1b297647af20",
+    "53077172699c3744",
+    "4c561b124fa8d4af",
+    "39deb8338712b0b9",
+    "d5323d8bff122516",
+    "f93ff019e754eaf7",
+    "218e7e6b6681e784",
+    "dfe966772892a781",
+    "fe554a9827a1510f",
+    "eb9411cbf31d2f77",
+    "284c42cc05ee20e9"
+   ]
+  },
+  {
+   "date": "2004-02-05",
+   "future": false,
+   "celex": "01993L0075-20040205",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime ANEXO I — Informações relativas aos navios que transportam mercadorias perigosas ou poluentes (Artigo 5o)",
+    "Suprime ANEXO II — FICHA DE CONTROLO DOS NAVIOS (No 3 do artigo 6o, artigo 8o e anexo III)",
+    "Suprime Livro de registo de carga de hidrocarbonetos preenchido — Certificado (internacional) de aptidão para o transporte de produtos químicos perigosos a granel",
+    "Suprime ANEXO III — Medidas que os Estados-membros poderão aplicar em conformidade com o direito internacional (No 3 do artigo 6o)"
+   ],
+   "fragments": [
+    "40c66f383fdff1d7"
+   ]
+  }
+ ],
+ "fragments": {
+  "404a82011c684fb1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 93/75/CEE do Conselho, de 13 de Setembro de 1993, relativa às condições mínimas exigidas aos navios com destino aos portos marítimos da Comunidade ou que deles saiam transportando mercadorias perigosas ou poluentes** *Jornal Oficial nº L 247 de 05/10/1993 p. 0019 - 0027 Edição especial finlandesa: Capítulo 3 Fascículo 52 p. 0219 Edição especial sueca: Capítulo 3 Fascículo 52 p. 0219*\n\nDIRECTIVA 93/75/CEE DO CONSELHO de 13 de Setembro de 1993 relativa às condições mínimas exigidas aos navios com destino aos portos marítimos da Comunidade ou que deles saiam transportando mercadorias perigosas ou poluentes\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o no 2 do seu artigo 84o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que se tem vindo a assistir a uma expansão sem quebras do volume dos transportes de mercadorias perigosas ou poluentes por via marítima, o que implica um aumento do risco de acidentes graves, os quais continuam a verificar-se;\n\nConsiderando que se afigura necessário tomar todas as medidas adequadas para evitar circunstâncias susceptíveis de provocar acidentes deste tipo e reduzir os danos que deles possam decorrer; considerando que, para tal, os navios que entram nos portos comunitários, ou que deles saem, deverão respeitar requisitos mínimos;\n\nConsiderando que o melhoramento da informação poderá contribuir para prevenção e minimização dos acidentes; que tal melhoramento permitirá igualmente às autoridades competentes tomar as precauções necessárias quanto aos navios com destino aos portos da Comunidade ou que deles saem transportando mercadorias perigosas ou poluentes;\n\nConsiderando que, ao abrigo da Convenção Solas e da Convenção Marpol, as autoridades competentes deverão ser informadas sobre a natureza e a localização das mercadorias perigosas ou poluentes que se encontram a bordo dos navios;\n\nConsiderando que alguns serviços regulares poderão ficar isentos de fornecer essas informações;\n\nConsiderando que, para diminuir o risco de acidentes, será conveniente dar o devido relevo a certas regras de navegação;\n\nConsiderando que a Resolução OMI A 648 (16) « insta os Estados-membros a garantir que os sistemas e requisitos de notificação dos navios sejam tanto quanto possível conformes com os princípios gerais especificados no respectivo anexo »;\n\nConsiderando que, para tal, as autoridades competentes, em caso de incidente ou circunstância marítima que constitua uma ameaça ao respectivo litoral, ou a interesses conexos, deverão receber do comandante do navio informação imediata relativa ao incidente e à presença a bordo de substâncias perigosas ou poluentes, de forma a permitir às referidas autoridades tomarem todas as medidas necessárias;\n\nConsiderando que, além disso, esta directiva refere as medidas que os Estados-membros poderão adoptar, em conformidade com o direito internacional;\n\nConsiderando que a Convenção Solas e a Convenção Marpol obrigam os navios a informar os outros navios e as autoridades costeiras do perigo para o próprio navio, para os outros navios e para a navegação marítima, bem como da descarga efectiva ou provável não permitida, ou anormal, de mercadorias poluentes; que se afigura adequado que as autoridades competentes radiodifundam, se necessário, as informações que lhes tenham sido fornecidas;\n\nConsiderando que cada Estado-membro tomará as providências necessárias para tirar o devido proveito dessas informações;\n\nConsiderando que essa troca de informações exige uma coordenação adequada entre as autoridades de toda a Comunidade, carregadores, operadores de navios e pilotos;\n\nConsiderando que a execução da directiva poderá requerer certas alterações que serão adoptadas pela Comissão, coadjuvada por um comité ou, em determinadas circunstâncias, pelo próprio Conselho;\n\nConsiderando que a Comissão apresentará novas propostas destinadas a completar o sistema previsto na presente directiva;\n\nConsiderando que a presente directiva revoga a Directiva 79/116/CEE, de 21 de Dezembro de 1978, relativa às condições mínimas exigidas a certos navios-tanques que entrem nos portos marítimos da Comunidade ou que deles saiam (4);\n\nConsiderando que a presente directiva não afecta o direito de os Estados-membros estabelecerem requisitos adicionais para os navios,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "88f8ab656f7e31f4": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Os Estados-membros tomarão todas as medidas necessárias e adequadas para garantir que os comandantes ou operadores de navios com destino a um porto comunitário ou que dele saiam e que transportem mercadorias perigosas ou poluentes a granel ou embaladas, bem como os carregadores das referidas mercadorias, respeitem as condições mínimas que lhes são exigidas, nos termos do disposto na presente directiva.\n\n2. O disposto na presente directiva não se aplica:\n\na) Aos navios de guerra e outros navios do Estado utilizados para fins não comerciais;\n\nb) Aos depósitos, reservatórios e equipamentos que se destinem a ser utilizados a bordo dos navios."
+  },
+  "b16ba0397c9cd424": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPara efeitos da presente directiva, entende-se por:\n\na) « Operadores »: os armadores, fretadores, administradores ou agentes do navio;\n\nb) « Navio »: qualquer cargueiro, petroleiro ou navio-tanque destinado ao transporte de gases ou produtos químicos, bem como qualquer navio de passageiros, que tencione entrar em portos comunitários ou deles sair e que transporte mercadorias perigosas ou poluentes, a granel ou embaladas;\n\nc) « Mercadorias perigosas »: mercadorias que constam do código IMDG, do capítulo 17 do código IBC, e do capítulo 19 do código IGC;\n\nd) « Mercadorias poluentes »:\n\n- hidrocarbonetos, tal como definidos no anexo 1 da Convenção Marpol,\n\n- substâncias líquidas nocivas, tal como definidas no anexo 2 da Convenção Marpol,\n\n- substâncias prejudiciais, tal como definidas no anexo 3 da Convenção Marpol;\n\ne) « Convenção MARPOL »: a Convenção internacional para a prevenção da poluição por navios, de 1973, e o seu protocolo de 1978, na versão em vigor no momento da adopção da presente directiva;\n\nf) « Código IMDG »: o código marítimo internacional para as mercadorias perigosas, na versão em vigor no momento da adopção da presente directiva;\n\ng) « Código IBC »: o código internacional da OMI para a construção e equipamento de navios que transportam substâncias químicas perigosas a granel, na versão em vigor no momento da adopção da presente directiva;\n\nh) « Código IGC »: o código internacional da OMI para a construção e equipamento de navios que transportam gases liquefeitos a granel, na versão em vigor no momento da adopção da presente directiva;\n\ni) « Resolução A 648(16) da OMI »: a Resolução 648 (16) da Organização Marítima Internacional adoptada pela assembleia na sua 16a sessão, de 19 de Outubro de 1989, e intitulada « Princípios gerais aplicáveis aos sistemas e obrigação de notificação dos navios, incluindo directrizes destinadas à notificação de incidentes que envolvam mercadorias perigosas, substâncias prejudiciais e/ou poluentes marinhos », na versão em vigor na data de adopção da presente directiva;\n\nj) « Autoridades competentes »: as autoridades e organizações designadas pelos Estados-membros, em conformidade com o artigo 3o;\n\nk) « Carregador »: qualquer pessoa que tenha celebrado com um transportador um contrato de transporte de mercadorias por mar, ou o tenha feito celebrar, em seu nome ou em sua representação."
+  },
+  "71977ff550912a3d": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nCada Estado-membro designará as autoridades competentes destinatárias das informações e notificações previstas na presente directiva e informará a Comissão da designação efectuada.\n\nA Comissão publicará a lista das autoridades competentes e dos respectivos agentes de ligação designados pelos Estados-membros."
+  },
+  "845e63ecf89e8477": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nAs mercadorias perigosas ou poluentes só serão entregues para transporte, ou levadas para bordo de um navio, se o comandante ou o operador tiver recebido uma declaração que contenha as designações técnicas correctas das mercadorias perigosas ou poluentes, os respectivos números na nomenclatura das Nações Unidas (UN) sempre que estes existam, as classes de risco da OMI em conformidade com os códigos IMDG, IBC e IGC, as quantidades das referidas mercadorias e, caso sejam transportadas em tanques portáteis ou em contentores, as respectivas marcas de identificação.\n\nCompete ao carregador entregar ao comandante ou operador a declaração exigida nos termos da presente directiva e garantir que a carga entregue para transporte corresponda de facto à que tiver sido declarada em conformidade com o parágrafo supra."
+  },
+  "25a0beecebcd9083": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Cada Estado-membro tomará as medidas necessárias no sentido de aplicar o disposto nos números seguintes a todos os navios.\n\n2. O operador de um navio que saia de um porto de um Estado-membro deverá notificar a autoridade competente desse Estado-membro, antes da saída do navio, de todas as informações enumeradas no anexo I.\n\n3. O operador de um navio proveniente de um porto situado fora da Comunidade que se dirija para um porto situado na Comunidade ou para um ancoradouro situado em águas territoriais de um Estado-membro deverá, como condição de entrada nesse porto ou ancoradouro, notificar, no momento de abandonar o porto de carga - todas as informações enumeradas no anexo I -, a autoridade competente do Estado-membro onde se localiza o primeiro porto de destino ou de ancoradouro.\n\n4. Os Estados-membros podem estabelecer uma derrogação à aplicação dos nos 2 e 3 relativamente aos serviços regulares com um tempo de viagem inferior a uma hora. A Comissão, a pedido de um Estado-membro, poderá autorizar um alargamento razoável deste período.\n\nNeste caso, as informações enumeradas no anexo I deverão ser comunicadas pelo operador às autoridades dos Estados-membros de partida ou de destino, em qualquer momento, a pedido destas.\n\n5. Os navios que entrem ou que saiam de um porto situado num Estado-membro deverão, em conformidade com as regulamentações nacionais do Estado em questão:\n\na) Utilizar os serviços prestados pelos serviços locais de gestão do tráfego de navios (GTN), sempre que estes existam;\n\nb) Recorrer a pilotos."
+  },
+  "dd9fd82cc7dea118": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Cada Estado-membro exigirá, caso se verifique um incidente ou circunstância que represente uma ameaça para as suas faixas costeiras ou para interesses com estas relacionados, que o comandante do navio em questão forneça pelo menos informações imediatas às autoridades competentes do Estado-membro em causa sobre os pormenores do incidente e as informações referidas no anexo I.\n\nA autoridade competente poderá considerar que a obrigação de comunicar as informações incluídas no anexo I foi cumprida, caso o navio indique qual a autoridade competente no território comunitário que detém a informação exigida no artigo 5o\n\n2. A notificação prevista no no 1 deverá ser efectuada em conformidade com a Resolução A 648 (16) da OMI e, pelo menos, em todas as circunstâncias definidas na referida resolução.\n\n3. No anexo III são especificadas as medidas que os Estados-membros poderão aplicar, em conformidade com o direito internacional."
+  },
+  "a226a8df23ca0479": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nO disposto nos artigos 5o e 6o não afecta as condições impostas por força de convenções internacionais, ou convénios nacionais de notificação portuária."
+  },
+  "b4b7bb15c565ef71": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. O comandante do navio deve preencher a ficha de controlo apresentada no anexo II da presente directiva com informações verdadeiras e exactas e comunicá-la ao piloto, a título informativo e à autoridade competente, caso esta o deseje.\n\n2. Os pilotos que procedam à acostagem, desacostagem ou às manobras dos navios devem informar imediatamente a autoridade competente sempre que tenham conhecimento de quaisquer deficiências que possam prejudicar a sua navegação em condições de segurança."
+  },
+  "d8a124ed23dfc3b6": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nA autoridade competente do Estado-membro afectado deve, na medida do necessário, comunicar via rádio, dentro das zonas em causa, quaisquer incidentes notificados nos termos do no 1 do artigo 6o, bem como informações respeitantes a quaisquer navios que representem um risco para a navegação."
+  },
+  "547f1b297647af20": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nAs autoridades competentes que detenham as informações notificadas em conformidade com o artigo 5o e com o no 1 do artigo 6o devem tomar as medidas adequadas para, em qualquer momento, fornecer tais informações a pedido das autoridades competentes de outro Estado-membro.\n\nQualquer Estado-membro cujas autoridades competentes tenham sido informadas, em conformidade com a presente directiva, ou de outro modo, de factos que envolvam ou aumentem o risco, para outro Estado-membro, de um perigo para determinadas zonas marítimas e costeiras, deve tomar as medidas adequadas para informar desse facto, o mais brevemente possível, o Estado-membro em causa.\n\nCada Estado-membro deve tomar as medidas necessárias no sentido de utilizar plenamente os relatórios que os navios são obrigados a transmitir-lhe em caso de incidente susceptível de provocar danos graves."
+  },
+  "53077172699c3744": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nA presente directiva pode ser alterada em conformidade com o procedimento estipulado no artigo 12o, tendo em vista:\n\n- a aplicação, para efeitos da presente directiva, de alterações à convenção, códigos e resolução internacionais referidos nas alíneas e), f), g), h) e i) do artigo 2o que venham a entrar em vigor,\n\n- a adaptação da aplicação da presente directiva à luz dos progressos científicos e técnicos, sem alargamento do seu âmbito."
+  },
+  "4c561b124fa8d4af": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. A Comissão será assistida por um comité composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no no 2 do artigo 148o do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3. a) A Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de oito semanas a contar da data em que o assunto foi submetido à apreciação do Conselho, este último ainda não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "39deb8338712b0b9": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. A Comissão deve apresentar ao Conselho, até 31 de Dezembro de 1995, um relatório relativo à aplicação da presente directiva acompanhado, se necessário, de propostas.\n\n2. A Comissão deve igualmente formular, o mais brevemente possível e o mais tardar até 31 de Dezembro de 1993, novas propostas que tenham por objectivo a introdução de um sistema de notificação mais completo a nível comunitário. Tais propostas poderão abranger navios que transitem ao largo das costas dos Estados-membros e incluir sistemas electrónicos de intercâmbio de dados entre navios e instalações em terra firme."
+  },
+  "d5323d8bff122516": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. Os Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar doze meses após a sua adopção. Desse facto informarão imediatamente a Comissão.\n\n2. Sempre que os Estados-membros adoptarem tais disposições, estas deverão incluir uma referência à presente directiva, ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão definidas pelos Estados-membros.\n\n3. As obrigações decorrentes da presente directiva entrarão em vigor 24 meses após a sua adopção.\n\n4. Os Estados-membros comunicarão à Comissão, o mais tardar doze meses após a adopção da presente directiva, o texto das disposições essenciais de direito nacional que adoptarem no domínio regulado pela presente directiva.\n\nAlém disso, essas disposições deverão ser comunicadas de modo adequado ao sector marítimo, através dos serviços nacionais de informação e aviso à navegação."
+  },
+  "f93ff019e754eaf7": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nA Directiva 79/116/CEE do Conselho é revogada 24 meses após a adopção da presente directiva."
+  },
+  "218e7e6b6681e784": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 13 de Setembro de 1993.\n\nPelo Conselho\n\nO Presidente\n\nPh. MAYSTADT\n\n(1) JO no C 147 de 14. 6. 1989, p. 3. JO no C 294 de 24. 11. 1990, p. 12.\n\n(2) JO no C 175 de 16. 7. 1990, p. 41. JO no C 255 de 20. 9. 1993.\n\n(3) JO no C 329 de 20. 12. 1989, p. 20.\n\n(4) JO no L 33 de 8. 2. 1979, p. 33. Directiva alterada pela Directiva 79/1034/CEE (JO no L 315 de 11. 12. 1979, p. 16)."
+  },
+  "dfe966772892a781": {
+   "fragment_id": "ANEXO I — Informações relativas aos navios que transportam mercadorias perigosas ou poluentes (Artigo 5o)",
+   "type": "divisao",
+   "heading": "ANEXO I — Informações relativas aos navios que transportam mercadorias perigosas ou poluentes (Artigo 5o)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Informações relativas aos navios que transportam mercadorias perigosas ou poluentes (Artigo 5o)\n\n1. Nome e indicativo de chamada do navio\n\n2. Nacionalidade do navio\n\n3. Comprimento e calado do navio\n\n4. Porto de destino\n\n5. Hora provável de chegada ao porto de destino ou à estação de pilotagem, tal como exigido pela autoridade competente\n\n6. Hora provável de saída do porto\n\n7. Rota prevista\n\n8. Designações técnicas correctas das mercadorias perigosas ou poluentes e respectivos números na nomenclatura das Nações Unidas (NU) sempre que estes existam, classes de risco da OMI em conformidade com os códigos IMDG, IBC, e IGC, quantidades das referidas mercadorias e, caso sejam transportadas em tanques portáteis ou em contentores, às respectivas marcas de identificação.\n\n9. Confirmação da presença a bordo de uma lista, manifesto ou plano de carga adequado especificando pormenorizadamente as mercadorias perigosas ou poluentes transportadas a bordo do navio e a sua localização"
+  },
+  "fe554a9827a1510f": {
+   "fragment_id": "ANEXO II — FICHA DE CONTROLO DOS NAVIOS (No 3 do artigo 6o, artigo 8o e anexo III)",
+   "type": "divisao",
+   "heading": "ANEXO II — FICHA DE CONTROLO DOS NAVIOS (No 3 do artigo 6o, artigo 8o e anexo III)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — FICHA DE CONTROLO DOS NAVIOS (No 3 do artigo 6o, artigo 8o e anexo III)\n\nA. Identificação do navio\n\nNome do navio: Armador: Ano de construção:\n\nPavilhão: Indicativo de chamada: Tonelagem de arqueção bruta:\n\nPorto de registo: Comprimento:\n\nMenção do indicativo internacional de chamada do navio, se existir:\n\nSociedade de classificação:\n\nClasse de notação: Casco: Máquinas:\n\nGrupo motopropulsor: Potência:\n\nNome do agente:\n\nCalado: Proa: Meio: Ré:\n\nVolume/massa da carga perigosa ou poluente:\n\nB. Equipamento de segurança a bordo\n\nEm perfeito estado de funcionamento Sim Não Deficiências 1. Construção e equipamento técnico\n\nMáquinas principais e auxiliares\n\nLeme principal\n\nLeme auxiliar\n\nSistema de ancoragem\n\nAparelhos fixos de extinção de incêndios\n\nSistema de gás inerte (se existir)\n\n2. Equipamentos de navegação\n\nCaracterísticas de manobra disponíveis\n\nPrimeiro radar\n\nSegundo radar\n\nBússola giroscópica\n\nAgulha magnética padrão\n\nRadiogoniómetro\n\nEco-sonda\n\nOutros meios electrónicos que permitam determinar a posição do navio\n\n3. Equipamento de rádio\n\nInstalação radiotelegráfica\n\nInstalação radiotelefónica (códigos VHF)\n\nC. Documentos\n\nCertificados/documentos válidos a bordo Sim Não Certificado de seguraça de construção para navios de carga\n\nCertificado de seguraça do equipamento para navios de carga\n\nCertificado de seguraça de equipamento radiotelegráfico para navios de carga\n\nCertificado de segurança de equipamento radiotelefónico para navios de carga\n\nCertificado de linha de carga\n\nCertificado de classificação\n\nCertificado de seguro contra os riscos de poluição\n\nCertificado Solas para as mercadorias perigosas\n\nCertificado de segurança dos passageiros"
+  },
+  "eb9411cbf31d2f77": {
+   "fragment_id": "Livro de registo de carga de hidrocarbonetos preenchido — Certificado (internacional) de aptidão para o transporte de produtos químicos perigosos a granel",
+   "type": "divisao",
+   "heading": "Livro de registo de carga de hidrocarbonetos preenchido — Certificado (internacional) de aptidão para o transporte de produtos químicos perigosos a granel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Livro de registo de carga de hidrocarbonetos preenchido — Certificado (internacional) de aptidão para o transporte de produtos químicos perigosos a granel\n\nCertificado (internacional) de aptidão para o transporte de gases liquefeitos a granel\n\nCertificado internacional de prevenção da poluição por hidrocarbonetos (certificado IOPP)\n\nCertificado internacional de prevenção da poluição para o transporte de substâncias líquidas nocivas a granel\n\nD. Tripulação a bordo\n\nDiploma profissional de aptidão (designação exacta e número de série) Emitido por (autoridade competente) Em (localidade/país) Sim Não Comandante\n\nImediato\n\n1o piloto\n\n2o piloto\n\nChefe de máquinas\n\n1o oficial maquinista\n\n2o oficial maquinista\n\n3o oficial maquinista\n\nOperador de rádio\n\nTotal dos outros membros da tripulação: no convés: na sala das máquinas:\n\nPiloto de alto mar tomado a bordo\n\nData Assinatura do comandante ou, em caso de impedimento, do seu substituto"
+  },
+  "284c42cc05ee20e9": {
+   "fragment_id": "ANEXO III — Medidas que os Estados-membros poderão aplicar em conformidade com o direito internacional (No 3 do artigo 6o)",
+   "type": "divisao",
+   "heading": "ANEXO III — Medidas que os Estados-membros poderão aplicar em conformidade com o direito internacional (No 3 do artigo 6o)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Medidas que os Estados-membros poderão aplicar em conformidade com o direito internacional (No 3 do artigo 6o)\n\nSempre que, na sequência de um incidente ou circunstância do tipo descrito nos nos 1 e 2 do artigo 6o, envolvendo um navio abrangido pela presente directiva, a autoridade competente do Estado-membro afectado considerar necessário, em conformidade com o direito internacional (1), evitar, reduzir, ou eliminar um risco grave e iminente para a sua faixa costeira, ou para interesses com esta relacionados e para a segurança de outros navios, das tripulações, dos passageiros ou das pessoas em terra, ou para proteger o ambiente marinho, poderá, nomeadamente:\n\n- restringir os movimentos do navio ou ordenar-lhe que siga uma determinada rota. Esta exigência não se sobreporá à responsabilidade, que compete ao comandante, de dirigir o seu navio em condições de segurança,\n\n- solicitar ao comandante que apresente as informações pertinentes da ficha de controlo constante do anexo II da presente directiva e que confirme que se encontra disponível a bordo uma cópia da lista, manifesto ou plano de carga adequado referidos no ponto 9 do anexo I.\n\n(1) - Convenção das Nações Unidas sobre o direito do mar (UNCLOS), 1983, artigo 221o - Convenção internacional relativa à intervenção em alto mar em caso de acidente ou poluição petrolífera, 1969, artigos I, II, III e V, - Protocolo de 1973 relativo à intervenção em alto mar em casos de poluição por substâncias diferentes dos hidrocarbonetos, artigos I e II."
+  },
+  "40c66f383fdff1d7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993L0075 — PT — 05.02.2004 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993L0075) [DIRECTIVA 93/75/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31993L0075) [de 13 de Setembro de 1993](http://publications.europa.eu/resource/celex/31993L0075) [relativa às condições mínimas exigidas aos navios com destino aos portos marítimos da Comunidade ou que deles saiam transportando mercadorias perigosas ou poluentes](http://publications.europa.eu/resource/celex/31993L0075) (JO L 247, 5.10.1993, p.19)\n\n**revogado por:**\n\n- [Directiva 2002/59/CE do Parlamento Europeu e do Conselho de 27 de Junho de 2002](http://publications.europa.eu/resource/celex/32002L0059) — L 208 — 10 — 5.8.2002"
+  }
+ }
+}

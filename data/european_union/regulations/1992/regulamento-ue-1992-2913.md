@@ -36,6 +36,169 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-06-01'
+version_history:
+  file: regulamento-ue-1992-2913.versoes.json
+  count: 5
+  source_lastmod: '2016-06-01'
+  versions:
+  - date: '1992-10-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-05-11'
+    amending: eu:celex:31997R0082:por
+    amending_title: REGULAMENTO (CE) N o 82/97 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de Dezembro de 1996; REGULAMENTO
+      (CE) N. o 955/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de Abril de 1999; REGULAMENTO (CE) N. o 2700/2000 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 16 de Novembro de 2000; REGULAMENTO (CE) N. o 648/2005 DO PARLAMENTO EUROPEU E DO CONSELHO
+      de 13 de Abril de 2005; Acto de Adesão da Áustria, da Finlândia e da Suécia; Acto relativo às condições de adesão da
+      República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia,
+      da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca
+      e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita TÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita CAPÍTULO 1
+    - Adita ÂMBITO DE APLICAÇÃO E DEFINIÇÕES BÁSICAS
+    - Adita Artigo 1º
+    - Adita Artigo 2º
+    - Adita Artigo 3º
+    - Adita Artigo 4º
+    - Adita CAPÍTULO 2
+    - Adita DISPOSIÇÕES GERAIS DIVERSAS RELATIVAS NOMEADAMENTE AOS DIREITOS E OBRIGAÇÕES DAS PESSOAS FACE À LEGISLAÇÃO ADUANEIRA
+    - Adita Secção 1
+    - Adita Direito de representação
+    - Adita Artigo 5º
+    - Adita Secção 1-A
+    - Adita Operadores económicos autorizados
+    - Adita Artigo 5.ºA
+    - Adita Secção 2
+    - Adita Decisões relativas à aplicação da legislação aduaneira
+    - Adita Artigo 6º
+    - Adita Artigo 7º
+    - Adita Artigo 8º
+    - Adita Artigo 9º
+    - Adita Artigo 10º
+    - Adita Secção 3
+    - Adita Informações
+    - Adita Artigo 11º
+    - Adita Artigo 12º
+    - Adita Secção 4
+    - Adita Outras disposições
+    - Adita Artigo 13.º
+    - Adita Artigo 14º
+    - Adita Artigo 15.º
+    - Adita Artigo 16º
+    - Adita Artigo 17º
+    - Adita Artigo 18º
+    - Adita Artigo 19º
+    - Adita TÍTULO II
+    - Adita ELEMENTOS COM BASE NOS QUAIS SÃO APLICADOS OS DIREITOS DE IMPORTAÇÃO OU DE EXPORTAÇÃO, BEM COMO AS OUTRAS MEDIDAS
+      PREVISTAS NO ÂMBITO DAS TROCAS DE MERCADORIAS
+    - Adita PAUTA ADUANEIRA DAS COMUNIDADES EUROPEIAS E CLASSIFICAÇÃO PAUTAL DAS MERCADORIAS
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1791:por
+    amending_title: REGULAMENTO (CE) N. o 1791/2006 DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3º
+    - Altera Artigo 12º
+    - Altera Artigo 150º
+    - Altera Artigo 251º
+    - Altera Artigo 252º
+    - Altera Notas
+    - Adita Artigo 5ºA
+    - Adita Artigo 13º
+    - Adita Artigo 15º
+    - Adita Artigo 36ºA
+    - Adita Artigo 40º
+    - Adita Artigo 92º
+    - Adita Artigo 94º
+    - Adita Artigo 95º
+    - Adita Artigo 97º
+    - Adita Artigo 124º
+    - Adita Artigo 131º
+    - Adita Artigo 142º
+    - Adita Artigo 168ºA
+    - Adita Artigo 181º
+    - Adita Artigo 182ºA
+    - Adita Artigo 182ºB
+    - Adita Artigo 182ºC
+    - Adita Artigo 182ºD
+    - Adita Artigo 212ºA
+    - Adita Artigo 215º
+    - Adita Artigo 247º
+    - Adita Artigo 247ºA
+    - Adita Artigo 248º
+    - Adita Artigo 248ºA
+    - Adita Artigo 249º
+    - Suprime Artigo 5.ºA
+    - Suprime Artigo 13.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 36.ºA
+    - Suprime Artigo 40.º
+    - Suprime Artigo 92.º
+    - Suprime Artigo 94.º
+    - Suprime Artigo 95.º
+  - date: '2014-01-01'
+    amending: eu:celex:32009R1186:por
+    amending_title: REGULAMENTO (CE) n. o 1186/2009 DO CONSELHO de 16 de Novembro de 2009; REGULAMENTO (UE) N. o 517/2013
+      DO CONSELHO de 13 de maio de 2013; REGULAMENTO (UE) N. o 952/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro
+      de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3º
+    - Altera Artigo 12º
+    - Altera Artigo 13º
+    - Altera Artigo 247º
+    - Altera Artigo 251º
+    - Altera Artigo 252º
+    - Altera Notas
+  - date: '2016-06-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime CAPÍTULO 1
+    - Suprime ÂMBITO DE APLICAÇÃO E DEFINIÇÕES BÁSICAS
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime CAPÍTULO 2
+    - Suprime DISPOSIÇÕES GERAIS DIVERSAS RELATIVAS NOMEADAMENTE AOS DIREITOS E OBRIGAÇÕES DAS PESSOAS FACE À LEGISLAÇÃO ADUANEIRA
+    - Suprime Secção 1
+    - Suprime Direito de representação
+    - Suprime Artigo 5º
+    - Suprime Secção 1-A
+    - Suprime Operadores económicos autorizados
+    - Suprime Artigo 5ºA
+    - Suprime Secção 2
+    - Suprime Decisões relativas à aplicação da legislação aduaneira
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Secção 3
+    - Suprime Informações
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Secção 4
+    - Suprime Outras disposições
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime Artigo 17º
+    - Suprime Artigo 18º
+    - Suprime Artigo 19º
+    - Suprime TÍTULO II
+    - Suprime ELEMENTOS COM BASE NOS QUAIS SÃO APLICADOS OS DIREITOS DE IMPORTAÇÃO OU DE EXPORTAÇÃO, BEM COMO AS OUTRAS MEDIDAS
+      PREVISTAS NO ÂMBITO DAS TROCAS DE MERCADORIAS
+    - Suprime PAUTA ADUANEIRA DAS COMUNIDADES EUROPEIAS E CLASSIFICAÇÃO PAUTAL DAS MERCADORIAS
 identifiers:
   celex: 31992R2913
   eli: http://data.europa.eu/eli/reg/1992/2913/oj
@@ -50,7 +213,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f71bf004-2920-47fc-bd9a-35e63b480baf.0011
   content_url: http://publications.europa.eu/resource/cellar/6b59d557-989e-4ee8-bd5c-734e8c8216f8.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R2913-20160601
-  retrieved_at: '2026-10-22T02:35:39Z'
+  retrieved_at: '2026-10-22T14:41:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:03:30.236+02:00'
 integrity:
@@ -59,9 +222,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:39Z'
-  notes: Texto consolidado 01992R2913-20160601.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:43Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-1992-2913.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -1274,16 +1437,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:39Z'
+  checked_at: '2026-10-22T14:41:43Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01992R2913-19970101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R2913-20001219: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R2913-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

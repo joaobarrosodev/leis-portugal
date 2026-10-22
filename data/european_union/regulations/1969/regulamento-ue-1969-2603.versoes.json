@@ -1,0 +1,229 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31969R2603:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01969R2603-20091127",
+ "dre_path": null,
+ "source_lastmod": "2009-11-27",
+ "versions": [
+  {
+   "date": "1969-12-27",
+   "future": false,
+   "celex": "31969R2603",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1e88bc800b5cb178",
+    "f6cbcc03fa7dd794",
+    "6534c6fe2c11f277",
+    "edd3480fd152fc71",
+    "f9843eb00c613fad",
+    "bc22281e0b6393bd",
+    "9b97fcaaa5c0a782",
+    "1a3448505f802dc9",
+    "62441e8205186cc0",
+    "c3d0acec342e50d4",
+    "84b366460efe45dc",
+    "8958c56243c658ae",
+    "8a7ff2d63c4d7881",
+    "58aa601d0c88b21e",
+    "ff9ec9fc6c03a9eb",
+    "c3afb2f363963e66",
+    "a9922e7e6cdb97eb",
+    "451559c6f886eedc",
+    "97761d3ff8d6cc1a"
+   ]
+  },
+  {
+   "date": "2009-11-27",
+   "future": false,
+   "celex": "01969R2603-20091127",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime TÍTULO I — Princípio fundamental",
+    "Suprime Artigo 1o",
+    "Suprime TÍTULO II — Procedimento comunitário de informação e de consulta",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime TÍTULO III — Medidas de protecção",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime TÍTULO IV — Disposições transitórias e finais",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "b44266a9b83820e4"
+   ]
+  }
+ ],
+ "fragments": {
+  "1e88bc800b5cb178": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2603/69 do Conselho, de 20 de Dezembro de 1969, que estabelece um regime comum aplicável às exportações** *Jornal Oficial nº L 324 de 27/12/1969 p. 0025 - 0033 Edição especial finlandesa: Capítulo 11 Fascículo 1 p. 0037 Edição especial dinamarquesa: Série I Capítulo 1969(II) p. 0573 Edição especial sueca: Capítulo 11 Fascículo 1 p. 0037 Edição especial inglesa: Série I Capítulo 1969(II) p. 0590 Edição especial grega: Capítulo 11 Fascículo 1 p. 0101 Edição especial espanhola: Capítulo 11 Fascículo 1 p. 0060 Edição especial portuguesa: Capítulo 11 Fascículo 1 p. 0060*\n\nREGULAMENTO (CEE) No 2603/69 DO CONSELHO de 20 de Dezembro de 1969 que estabelece um regime comum aplicável às exportações\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 111o e 113o,\n\nTendo em conta a regulamentação que estabelece a organização comum dos mercados agrícolas, bem como a regulamentação adoptada nos termos do artigo 235o do Tratado aplicável às mercadorias resultantes da transformação de produtos agrícolas, nomeadamente as suas disposições que permitem uma derrogação ao princípio geral da substituição das restrições quantitativas ou medidas de efeito equivalente unicamente pelas medidas previstas nestas regulamentações,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que, findo o período de transição, a política comercial comum deve assentar em princípios uniformes, nomeadamente no que diz respeito à exportação, e que a instituição dessa política pressupõe a sua progressiva uniformização durante o período de transição;\n\nConsiderando que, em consequência, é conveniente estabelecer um regime comum aplicável às exportações da CEE;\n\nConsiderando que, em todos os Estados-membros, as exportações encontram-se liberalizadas na sua quase totalidade; que, nestas condições, é possível estabelecer, a nível comunitário, o princípio de que as exportações com destino a países terceiros não estão sujeitas a restrições quantitativas, sem prejuízo das derrogações previstas no presente regulamento e das medidas susceptíveis de serem tomadas pelos Estados-membros em conformidade com o Tratado;\n\nConsiderando que a Comissão deve ser informada sempre que, na sequência de uma evolução excepcional do mercado, qualquer Estado-membro considere que podem ser necessárias medidas de protecção;\n\nConsiderando que é essencial proceder, a nível comunitário e no âmbito de um comité consultivo, nomeadamente a partir dessas informações, ao exame das condições em que se processam as exportações, da sua evolução e dos diversos elementos da situação económica e comercial, bem como, se for caso disso, das medidas a tomar;\n\nConsiderando que pode revelar-se necessário submeter certas exportações à vigilância comunitária ou aplicar medidas cautelares, a título preventivo, para fazer face a práticas inesperadas; que imperativos de celeridade e de eficácia justificam que a Comissão esteja habilitada para decidir sobre essas medidas, sem prejuízo da atitude a adoptar posteriormente a esse respeito pelo Conselho, ao qual cabe adoptar a política conforme aos interesses da Comunidade;\n\nConsiderando que as medidas de protecção necessárias à defesa dos interesses da Comunidade devem ser adoptadas no respeito pelas obrigações internacionais existentes;\n\nConsiderando que se afigura oportuno que os Estados-membros possam, sob certas condições e a título cautelar, tomar medidas de protecção;\n\nConsiderando que é desejável que, durante o período de aplicação das medidas de protecção, se realizem consultas com vista a examinar os efeitos de tais medidas e a verificar se se mantêm as condições da sua aplicação;\n\nConsiderando que é conveniente excluir alguns produtos, a título provisório, da liberalização comunitária, até que o Conselho decida sobre a instituição de um regime comum a seu respeito;\n\nConsiderando que o presente regulamento deve aplicar-se a todos os produtos, tanto agrícolas como industriais; que deve aplicar-se de forma complementar à regulamentação que estabelece a organização comum dos mercados agrícolas, bem como à regulamentação específica adoptada nos termos do artigo 235o do Tratado aplicável às mercadorias resultantes da transformação de produtos agrícolas; que é conveniente, todavia, evitar que as disposições do presente regulamento se sobreponham às previstas nas referidas regulamentações e, nomeadamente, às respectivas cláusulas de protecção,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f6cbcc03fa7dd794": {
+   "fragment_id": "TÍTULO I — Princípio fundamental",
+   "type": "divisao",
+   "heading": "TÍTULO I — Princípio fundamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Princípio fundamental"
+  },
+  "6534c6fe2c11f277": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nAs exportações da Comunidade Económica Europeia com destino a países terceiros são livres, isto é, não estão submetidas a restrições quantitativas com excepção das aplicadas nos termos do presente regulamento."
+  },
+  "edd3480fd152fc71": {
+   "fragment_id": "TÍTULO II — Procedimento comunitário de informação e de consulta",
+   "type": "divisao",
+   "heading": "TÍTULO II — Procedimento comunitário de informação e de consulta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Procedimento comunitário de informação e de consulta"
+  },
+  "f9843eb00c613fad": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nQuando, na sequência de uma evolução excepcional do mercado, um Estado-membro considera que pode tornar-se necessário o recurso a medidas de protecção na acepção do título III, informará desse facto a Comissão, a qual advertirá os outros Estados-membros."
+  },
+  "bc22281e0b6393bd": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Podem realizar-se consultas em qualquer momento, quer a pedido de um Estado-membro, quer por iniciativa da Comissão.\n\n2. As consultas devem realizar-se nos quatro dias úteis após a recepção pela Comissão da informação referida no artigo 2o e sempre antes da adopção de qualquer medida nos termos dos artigos 5o a 7o."
+  },
+  "9b97fcaaa5c0a782": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. As consultas efectuar-se-ao no âmbito de um comité consultivo, a seguir denominado «Comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. O Comité reunir-se-á por convocação do seu presidente, o qual comunicará aos Estados-membros, no mais curto prazo possível, todos os elementos de informação úteis.\n\n3. As consultas incidirão, nomeadamente, sobre:\n\na) As condições das exportações e a sua evolução, bem como os diversos elementos da situação económica e comercial do produto em causa;\n\nb) Quando for caso disso, as medidas a tomar."
+  },
+  "1a3448505f802dc9": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nCom a finalidade de determinar a situação económica e comercial em relação a um determinado produto, a Comissão pode pedir aos Estados-membros que lhe forneçam informações estatísticas sobre a evolução do mercado desse produto e que vigiem, para esse efeito, as exportações desse produto em conformidade com as respectivas legislações nacionais e de acordo com as regras a indicar pela Comissão. Os Estados-membros tomarão as medidas necessárias para darem seguimento aos pedidos da Comissão e comunicar-lhe-ao os elementos solicitados. A Comissão informará os outros Estados-membros."
+  },
+  "62441e8205186cc0": {
+   "fragment_id": "TÍTULO III — Medidas de protecção",
+   "type": "divisao",
+   "heading": "TÍTULO III — Medidas de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Medidas de protecção"
+  },
+  "c3d0acec342e50d4": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. A fim de evitar ou sanar uma situação crítica resultante da penúria de produtos essenciais e quando os interesses da Comunidade exijam uma acção imediata, a Comissão, a pedido de um Estado-membro ou por sua própria iniciativa, e tendo em conta a natureza dos produtos e outras particularidades das transacções em causa, pode sujeitar a exportação de um produto à apresentação de uma autorização de exportação a conceder de acordo com as regras e dentro dos limites que definir, na pendência de decisão posterior do Conselho nos termos do artigo 7o.\n\n2. As medidas tomadas serão comunicadas ao Conselho e aos Estados-membros; são imediatamente aplicáveis.\n\n3. Estas medidas podem ser limitadas a certos destinos e às exportações de determinadas regiões da Comunidade. Essas medidas não afectarão os produtos que se encontram já a caminho da fronteira da Comunidade.\n\n4. No caso de a acção da Comissão ter sido solicitada por um Estado-membro, a Comissão tomará uma decisão no prazo máximo de cinco dias úteis a contar da recepção do pedido. Se a Comissão não der seguimento ao pedido, comunicará sem demora essa decisão ao Conselho, o qual pode tomar, por maioria qualificada, decisão diferente.\n\n5. Qualquer Estado-membro pode submeter à apreciação do Conselho as medidas tomadas, no prazo de doze dias úteis a contar do dia da comunicação das mesmas aos Estados-membros. O Conselho, deliberando por maioria qualificada, pode tomar decisão diferente.\n\n6. Quando a Comissão tiver agido nos termos do no 1 proporá ao Conselho, no prazo de doze dias úteis a contar da data de entrada em vigor da medida por ela adoptada, as medidas adequadas na acepção do artigo 7o. Se o Conselho não tiver decidido sobre essa proposta, no prazo máximo de seis semanas após a entrada em vigor da medida adoptada pela Comissão, essa medida será revogada."
+  },
+  "84b366460efe45dc": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Quando os interesses da Comunidade o exigirem, o Conselho, deliberando por maioria qualificada, sob proposta da Comissão, pode adoptar as medidas adequadas:\n\n- a fim de evitar ou sanar uma situação crítica resultante da penúria de produtos essenciais;\n\n- a fim de permitir a execução dos compromissos internacionais assumidos pela Comunidade ou por todos os seus Estados-membros, nomeadamente no que diz respeito ao comércio de produtos de base.\n\n2. Tais medidas podem ser limitadas a certos destinos e às exportações de determinadas regiões da Comunidade. Essas medidas não afectarão os produtos que se encontram já a caminho da fronteira da Comunidade.\n\n3. Aquando da introdução de restrições quantitativas à exportação será tido em conta nomeadamente:\n\n- por um lado, o volume dos contratos concluidos em condições normais antes da entrada em vigor de uma medida de protecção na acepção do presente título, e que tenham sido notificados pelo Estado-membro interessado à Comissão em conformidade com a legislação nacional desse Estado-membro;\n\n- por outro, o facto de não dever ser comprometida a realização do objectivo pretendido pela introdução das restrições quantitativas."
+  },
+  "8958c56243c658ae": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Quando um Estado-membro considerar que se verificou no seu território uma situação semelhante à descrita no no 1 do artigo 6o em relação à Comunidade, pode, a título cautelar, sujeitar a exportação de determinado produto à apresentação de uma autorização de exportação a conceder de acordo com as regras e dentro dos limites que definir.\n\n2. O Estado-membro tomará essa medida depois de ter ouvido os pareceres formulados no âmbito do Comité ou, quando este procedimento não seja possível por motivo de urgência, após ter informado a Comissão, a qual informará desse facto os outros Estados-membros.\n\n3. Logo que sejam decididas, as medidas serão notificadas à Comissão por telex; esta notificação equivale a um pedido na acepção do no 4 do artigo 6o. Estas medidas só serão aplicáveis até à aplicação da decisão da Comissão.\n\nTodavia, sempre que a Comissão decidir não tomar medidas por força do artigo 6o, a sua decisão é aplicável a partir do sexto dia seguinte ao da sua entrada em vigor, a não ser que o Estado-membro que tomou as medidas por força do no 1 submeta essa decisão à apreciação do Conselho; nesse caso, as medidas nacionais serão aplicáveis até à entrada em vigor da decisão do Conselho mas no máximo durante um mês após o assunto ter sido submetido à sua apreciação. O Conselho decidirá antes de decorrido este prazo.\n\n4. O presente artigo é aplicável até 31 de Dezembro de 1972. Antes dessa data, o Conselho, deliberando por maioria qualificada sob proposta da Comissão, decidirá das adaptações a introduzir-lhe."
+  },
+  "8a7ff2d63c4d7881": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Durante o período de aplicação das medidas referidas nos artigos 6o a 8o, realizar-se-ao consultas no âmbito do Comité, a pedido de um Estado-membro ou por iniciativa da Comissão, com vista a:\n\na) Examinar os efeitos dessas medidas,\n\nb) Verificar se se mantêm as condições da sua aplicação.\n\n2. Quando a Comissão considerar que se impõe a revogação ou a alteração das medidas referidas nos artigos 6o e 7o:\n\na) Nos casos em que o Conselho não tenha deliberado sobre as medidas adoptadas pela Comissão, esta alterará ou revogará tais medidas sem demora, apresentando imediatamente um relatório ao Conselho;\n\nb) Nos outros casos, a Comissão proporá ao Conselho a revogação ou a alteração das medidas por ele tomadas. O Conselho deliberará por maioria qualificada."
+  },
+  "58aa601d0c88b21e": {
+   "fragment_id": "TÍTULO IV — Disposições transitórias e finais",
+   "type": "divisao",
+   "heading": "TÍTULO IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Disposições transitórias e finais"
+  },
+  "ff9ec9fc6c03a9eb": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nAté que o Conselho, deliberando por maioria qualificada, sob proposta da Comissão, institua a seu respeito um regime comum, não se aplica o princípio da liberdade de exportação a nível comunitário, enunciado no artigo 1o, aos produtos constantes do Anexo."
+  },
+  "c3afb2f363963e66": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nSem prejuízo de outras disposições comunitárias, o presente regulamento não afecta a adopção ou a aplicação pelos Estados-membros de restrições quantitativas à exportação justificadas por razões de moralidade pública, ordem pública e segurança pública; de protecção da saúde e da vida das pessoas e animais ou de preservação das plantas; de protecção do património nacional de valor artístico, histórico ou arqueológico; ou de protecção da propriedade industrial comercial."
+  },
+  "a9922e7e6cdb97eb": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. O presente regulamento não prejudica a aplicação da regulamentação relativa à organização comum dos mercados agrícolas, nem da regulamentação específica adoptada nos termos do artigo 235o do Tratado aplicável às mercadorias resultantes da transformação de produtos agrícolas; aplica-se de forma complementar.\n\n2. Todavia, o disposto nos artigos 6o e 8o não é aplicável aos produtos objecto daquelas regulamentações e em relação aos quais o regime comunitário de trocas comerciais com os países terceiros preveja a possibilidade de aplicar restrições quantitativas à exportação. O disposto no artigo 5o não é aplicável aos produtos objecto das mesmas regulamentações e em relação aos quais o regime comunitário de trocas comerciais com os países terceiros preveja a apresentação de um certificado ou outro título de exportação."
+  },
+  "451559c6f886eedc": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nO presente regulamento entra em vigor em 31 de Dezembro de 1969.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 20 de Dezembro de 1969.\n\nPelo Conselho\n\nO Presidente\n\nH. J. DE KOSTER"
+  },
+  "97761d3ff8d6cc1a": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n\"\" ID=\"1\" ASSV=\"2\">06.01> ID=\"3\">Bolbos, cebolas, tubérculos, raízes tuberosas, rebentos e rizomas, em repouso vegetativo, em vegetação ou em flor:\"> ID=\"2\">A> ID=\"3\">- em repouso vegetativo...\"> ID=\"1\" ASSV=\"2\">06.02> ID=\"3\">Outras plantas e raízes vivas, compreendendo as estacas e os enxertos:\"> ID=\"2\">A> ID=\"3\">- estacas não enraizadas de lúpulo\"> ID=\"1\" ASSV=\"2\">07.01> ID=\"3\">Produtos hortícolas, frescos ou refrigerados:\"> ID=\"2\">A> ID=\"3\">- batatas\"> ID=\"1\" ASSV=\"2\">07.05> ID=\"3\">Legumes de vagem secos, mesmo em película ou partidos:\"> ID=\"2\">A> ID=\"3\">- feijão destinado a sementeira\n\n- ervilhas e ervilhas forrageiras, destinadas a sementeira\n\n- favarolas (vicia faba varminor) destinadas a sementeira\n\n- grandes favas (vicia faba varmegalosperma); destinadas a sementeira\"> ID=\"1\" ASSV=\"2\">09.01> ID=\"3\">Café mesmo torrado ou descafeínado; cascas e películas de café; sucedâneos do café, que contenham café em qualquer proporção:\"> ID=\"2\">A> ID=\"3\">- café\"> ID=\"1\">12.03> ID=\"3\">Sementes, esporos e frutos para sementeira\"> ID=\"1\">12.05> ID=\"3\">Raíz de chicória, mesmo cortada, fresca ou seca, não torrada\"> ID=\"1\" ASSV=\"2\">14.01> ID=\"3\">Matérias vegetais empregadas principalmente em trabalhos de cesteiro e de esteireiro (vime, cana, bambu, rotim, junco, ráfia, palha de cereais limpa, branqueada ou tinta, casca de tília e semelhantes:\"> ID=\"2\">B> ID=\"3\">- bambu, cana e semelhantes\"> ID=\"1\" ASSV=\"2\">14.05> ID=\"3\">Produtos de origem vegetal não especificados nem compreendidos noutras posições:\"> ID=\"2\">B> ID=\"3\">- laminárias, líquens, algas, «carraghen», «gelidium»\"> ID=\"1\" ASSV=\"2\">21.02> ID=\"3\">Extractos ou essências de café, chá ou mate; preparados que tenham por base estes extractos ou essências:\"> ID=\"2\">A> ID=\"3\">- extractos ou essências de café sem aditivos de sucedâneos de café\"> ID=\"1\">ex 23.05> ID=\"3\">Borras de vinho; sarro de vinho:\n\n- borras de vinho que contenham en peso menos de 6 % de vinho; sarro de vinho\"> ID=\"1\">26.03> ID=\"3\">Cinzas e resíduos que contenham metal ou compostos metálicos, com excepção dos produtos abrangidos pelo no 26.02\"> ID=\"1\">27.09> ID=\"3\">Óleos brutos de petróleo ou de minerais betuminosos\"> ID=\"1\" ASSV=\"4\">27.10> ID=\"3\">Óleos derivados do petróleo e dos minerais betuminosos (com exclusão dos óleos brutos); produtos não especificados nem compreendidos noutras posições que contenham em peso pelo menos 70 % desses óleos, os quais devem constituir o seu elemento base:\"> ID=\"2\">A> ID=\"3\">- óleos leves\"> ID=\"2\">B> ID=\"3\">- óleos médios\"> ID=\"2\">ex C> ID=\"3\">- óleos pesados com excepção dos óleos lubrificantes para relojoaria e similares, apresentados sob a forma de pequenos recipientes que contenham até 250 g em peso líquido de óleo\"> ID=\"1\" ASSV=\"2\">28.38> ID=\"3\">Sulfatos e alúmenes; persulfatos:\"> ID=\"2\">ex A II> ID=\"3\">- sulfato de cobre\"> ID=\"1\">ex 29.40> ID=\"3\">Enzimas:\n\n- coalho de ovinos e caprinos\"> ID=\"1\" ASSV=\"2\">31.03> ID=\"3\">Adubos fosfatados, de origem mineral ou obtidos quimicamente:\"> ID=\"2\">A I> ID=\"3\">- escórias de desfosforação\"> ID=\"1\" ASSV=\"2\">36.06> ID=\"3\">Fósforos:\"> ID=\"2\">ex> ID=\"3\">- apresentados para clientes privados\"> ID=\"1\" ASSV=\"3\">37.04> ID=\"3\">Chapas, películas e filmes, impressionadas, não revelados, negativos ou positivos:\"> ID=\"2\">ex A I> ID=\"3\">- filmes cinematográficos perfurados de comprimento superior a 30 metros: negativos, positivos, intermédios de trabalho\"> ID=\"2\">ex A II> ID=\"3\">- filmes cinematográficos perfurados de comprimento superior a 30 metros: positivos\"> ID=\"1\">37.06> ID=\"3\">Filmes cinematográficos, impressionados e revelados contendo apenas o registo de som, negativos ou positivos\"> ID=\"1\">ex 37.07> ID=\"3\">Outros filmes cinematográficos, impressionados ou revelados, mudos ou que contenham simultaneamente o registo da imagem e do som, negativos ou positivos:\n\n- filmes cinematográficos de espectáculo\"> ID=\"1\">41.01> ID=\"3\">Peles em bruto (frescas, salgadas, secas, tratadas pela cal e pelos ácidos), compreendendo as peles de ovinos com a sua la\"> ID=\"1\" ASSV=\"2\">41.02> ID=\"3\">Couros e peles de bovinos (compreendendo os búfalos) e peles de equídeos, preparados com excepção dos couros e peles dos nos 41.06 a 41.08 inclusive:\"> ID=\"2\">ex A> ID=\"3\">- Couros e peles de bovinos simplesmente curtidas\"> ID=\"1\">41.09> ID=\"3\">Raspas e outros desperdícios de couro natural, artificial ou reconstituido e de peles, curtidos ou pergaminhados, não utilizáveis para o fabrico de obras de couro; serradura, pó e farinha de couro\"> ID=\"1\">ex 43.01> ID=\"3\">Peles em cabelo para adorno, em bruto:\n\n- de coelho e de texugo\"> ID=\"1\">ex 44.01> ID=\"3\">Lenha em qualquer estado; desperdícios de madeira, compreendendo a serradura:\n\n- lenha de coníferas, e cavacos de resinosas\"> ID=\"1\">44.03> ID=\"3\">Madeira em bruto, mesmo descascada ou simplesmente desbastada:\n\n- outra\"> ID=\"1\" ASSV=\"2\">44.04> ID=\"3\">Madeira simplesmente esquadriada:\"> ID=\"2\">ex B> ID=\"3\">- outra, com exclusão da de choupo\"> ID=\"1\" ASSV=\"2\">44.05> ID=\"3\">Madeira simplesmente serrada longitudinalmente, cortada ou desenrolada, de espessura superior a 5 mm:\"> ID=\"2\">ex B> ID=\"3\">- de coníferas, com exclusão das tábuas para o fabrico de caixas, grades e similares\"> ID=\"1\">44.07> ID=\"3\">Travessas de madeira para vias férreas\"> ID=\"1\">ex 46.03> ID=\"3\">Obras de cesteiro, obtidas directamente sob a forma de objectos ou fabricadas com os artefactos dos nos 46.01 e 46.02; obras de lufa:\n\n- revestimentos para «fiascos»\"> ID=\"1\">47.02> ID=\"3\">Desperdícios de papel e de cartão; artefactos usados de papel e de cartão, exclusivamente utilizáveis para o fabrico de papel\"> ID=\"1\">50.01> ID=\"3\">Casulos de bicho-de-seda próprios para dobar\"> ID=\"1\">54.01> ID=\"3\">Linho em bruto, macerado, espadelado ou assedado, penteado ou tratado por outra forma, mas não fiado; estopas e desperdícios de linho, incluindo o linho de trapo\"> ID=\"1\" ASSV=\"2\">58.04> ID=\"3\">Veludos, pelúcias, tecidos aveludados com argolas e tecidos de froco, com exclusão dos artefactos dos nos 55.08 e 58.05:\"> ID=\"2\">ex B> ID=\"3\">- veludos de algodão lisos\"> ID=\"1\">ex 70.10> ID=\"3\">Garrafas, garrafões, boiões, tubos para comprimidos e outros recipientes semelhantes de vidro, próprios para taras; rolhas, tampas e outros dispositivos de uso semelhante, de vidro:\n\n- Garrafões e «fiascos» de vidro com uma capacidade até 5 litros\"> ID=\"1\">ex 71.01> ID=\"3\">Pérolas naturais em bruto ou trabalhadas, não engastadas nem montadas, mesmo enfiadas para facilidade de transporte, mas não escolhidas:\n\n- pérolas finas em bruto\"> ID=\"1\">71.02> ID=\"3\">Gemas em bruto, lapidadas ou de outro modo trabalhadas, não engastadas, nem montadas, mesmo enfiadas para facilidade de transporte, mas não escolhidas\"> ID=\"1\">71.07> ID=\"3\">Ouro e suas ligas (compreendendo o ouro platinado), em bruto ou semitrabalhado\"> ID=\"1\">71.09> ID=\"3\">Platina e metais de mina de platina e respectivas ligas, em bruto ou semitrabalhados\"> ID=\"1\">71.11> ID=\"3\">Lixo de ourives e outros resíduos e desperdícios de metais preciosos\"> ID=\"1\">ex 72.01> ID=\"3\">Moedas:\n\n- moedas que não têm curso legal\"> ID=\"1\">74.01> ID=\"3\">Mate de cobre; cobre em bruto (cobre para afinação e corbe afinado); com excepção dos desperdícios e sucata, de cobre\"> ID=\"1\">75.01> ID=\"3\">Mate, speiss e outros produtos intermédios da metalúrgia do níquel; níquel em bruto (com exclusão dos ânodos do no 75.05); desperdícios e sucata, de níquel\"> ID=\"1\" ASSV=\"2\">75.02> ID=\"3\">Barras, perfis e fios de secção cheia, de níquel\"> ID=\"2\">ex> ID=\"3\">Barras, perfis e fios, de secção cheia, de níquel, com excepção das palhetas, falsas palhetas e lâminas dos tipos utilizados no fabrico dos tecidos lamés, das passamanarias, dos galões e de ornamentos:\n\n- de ligas de níquel que contenham mais de 10 % e menos de 50 % de níquel\n\n- de ligas de níquel que contenham 50 % ou mais de níquel\"> ID=\"1\" ASSV=\"3\">75.03> ID=\"3\">Chapas, folhas e tiras, de qualquer espessura, de níquel; pó e palhetas de níquel:\"> ID=\"2\">ex A> ID=\"3\">- chapas, folhas e tiras, com excepção das palhetas, falsas palhetas e lâminas dos tipos utilizados no fabrico dos tecidos lamés, das passamanarias, dos galões e de ornamentos:\n\n- de ligas de níquel que contenham mais de 10 % e menos de 50 % de níquel\n\n- de ligas de níquel que contenham 50 % ou mais de níquel\"> ID=\"2\">ex B> ID=\"3\">- palhetas de níquel\"> ID=\"1\" ASSV=\"2\">75.04> ID=\"3\">Tubos (compreendendo os esboços), barras ocas e acessórios de ligação de tubos, de níquel (uniões, cotovelos, juntas, mangas, flanges, etc.):\"> ID=\"2\">A> ID=\"3\">- tubos (compreendendo os esboços) e barras ocas\"> ID=\"1\">75.05> ID=\"3\">Ânodos para niquelagem, compreendendo os obtidos por electrólise, em bruto ou trabalhados\"> ID=\"1\" ASSV=\"2\">76.01> ID=\"3\">Alumínio em bruto; desperdícios e sucata, de alumínio:\"> ID=\"2\">B> ID=\"3\">- desperdícios e sucata de alumínio\"> ID=\"1\" ASSV=\"2\">77.01> ID=\"3\">Magnésio em bruto; desperdícios e sucata de magnésio (compreendendo as aparas não calibradas):\"> ID=\"2\">B> ID=\"3\">- desperdícios e sucata\"> ID=\"1\" ASSV=\"2\">78.01> ID=\"3\">Chumbo em bruto (mesmo argentífero); desperdícios e sucata, de chumbo:\"> ID=\"2\">B> ID=\"3\">- desperdícios e sucata\"> ID=\"1\" ASSV=\"2\">79.01> ID=\"3\">Zinco em bruto; desperdícios e sucata de zinco:\"> ID=\"2\">B> ID=\"3\">- desperdícios e sucata\"> ID=\"1\">ex 80.01> ID=\"3\">Estanho em bruto; desperdícios e sucata de estanho:\n\n- desperdícios e sucata\"> ID=\"1\" ASSV=\"2\">81.04> ID=\"3\">Outros metais comuns, em bruto ou em obra; cermets em bruto ou em obra:\"> ID=\"2\">ex IJ I> ID=\"3\">- desperdícios e sucata de antimónio\"> ID=\"1\" ASSV=\"2\">86.09> ID=\"3\">Partes e peças separadas de veículos para vias férreas:\"> ID=\"2\">ex C> ID=\"3\">- rodas montadas sobre eixos; eixos, rodas, aros, centros e outras partes de rodas para vias férreas, usadas\"> ID=\"1\" ASSV=\"2\">88.02> ID=\"3\">Aeródinos (aviões, hidroviões, papagaios, planadores, autogiros, helicópteros, ornitópteros, etc.); rotochutes:\"> ID=\"2\">ex B> ID=\"3\">- aeródinos usados\"> ID=\"1\" ASSV=\"2\">ex 89.01> ID=\"3\">Embarcações não compreendidas nos nos 89.02 a 89.05:\"> ID=\"2\">ex B I> ID=\"3\">- embarcações para a navegação marítima\"> ID=\"1\">89.04> ID=\"3\">Embarcações para desmantelar\"> ID=\"1\">ex 91.01> ID=\"3\">Relógios de algibeira, de pulso e semelhantes, compreendendo os contadores de tempo dos mesmos tipos:\n\n- relógios de algibeira com escape de âncora\"> ID=\"1\">ex 91.07> ID=\"3\">Máquinas do tipo usado nos relógios de uso pessoal, acabadas:\n\n- com escape de âncora\"> ID=\"1\" ASSV=\"3\">91.11> ID=\"3\">Outras peças para relojoaria:\"> ID=\"2\">C> ID=\"3\">- máquinas do tipo usado nos relógios, não acabadas\"> ID=\"2\">E> ID=\"3\">- esboços de máquinas do tipo usado nos relógios\"> ID=\"1\" ASSV=\"2\">92.10> ID=\"3\">Partes, peças separadas e acessórios de instrumentos de música com exlusão das cordas, compreendendo o cartão e o papel perfurados para aparelhos de música mecânicos e ainda os maquinismos de caixas de música; metrómanos e diapasões de qualquer espécie:\"> ID=\"2\">ex B> ID=\"3\">- palhetas, vozes, foles e suas partes separadas para acordeões\">"
+  },
+  "b44266a9b83820e4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1969R2603 — PT — 27.11.2009 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31969R2603) [REGULAMENTO (CEE) Nº 2603/69 DO CONSELHO](http://publications.europa.eu/resource/celex/31969R2603) [de 20 de Dezembro de 1969](http://publications.europa.eu/resource/celex/31969R2603) [que estabelece um regime comum aplicável às exportações](http://publications.europa.eu/resource/celex/31969R2603) (JO L 324, 27.12.1969, p.25)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1061/2009 do Conselho de 19 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009R1061) — L 291 — 1 — 7.11.2009"
+  }
+ }
+}

@@ -36,6 +36,88 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-07-10'
+version_history:
+  file: decisao-ue-2003-17.versoes.json
+  count: 9
+  source_lastmod: '2025-07-10'
+  versions:
+  - date: '2005-10-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1791:por
+    amending_title: REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera B. Condições respeitantes às sementes produzidas em países terceiros
+    - Altera Notas
+  - date: '2007-12-01'
+    amending: eu:celex:32007D0780:por
+    amending_title: DECISÃO DO CONSELHO de 26 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera B. Condições respeitantes às sementes produzidas em países terceiros
+    - Altera Notas
+  - date: '2013-01-01'
+    amending: eu:celex:32012D1105:por
+    amending_title: DECISÃO N. o 1105/2012/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de novembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera ANEXO I
+    - Altera B. Condições respeitantes às sementes produzidas em países terceiros
+    - Altera Notas
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera B. Condições respeitantes às sementes produzidas em países terceiros
+    - Altera Notas
+  - date: '2020-11-15'
+    amending: eu:celex:32018D1674:por
+    amending_title: DECISÃO (UE) 2018/1674 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2018; DECISÃO (UE) 2020/1544
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de outubro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera ANEXO I
+    - Altera A. Condições respeitantes às inspecções de campo de culturas produtoras de sementes efectuadas em países terceiros
+    - Altera B. Condições respeitantes às sementes produzidas em países terceiros
+    - Altera Notas
+  - date: '2021-01-01'
+    amending: eu:celex:32021D0537:por
+    amending_title: DECISÃO (UE) 2021/537 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de março de 2021
+    changes:
+    - Altera Artigo 1.º
+    - Altera ANEXO I
+    - Altera B. Condições respeitantes às sementes produzidas em países terceiros
+    - Altera Notas
+  - date: '2022-06-23'
+    amending: eu:celex:32022D0871:por
+    amending_title: DECISÃO (UE) 2022/871 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2022
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera ANEXO I
+    - Altera B. Condições respeitantes às sementes produzidas em países terceiros
+    - Altera Notas
+  - date: '2025-07-10'
+    amending: eu:celex:32025D1228:por
+    amending_title: DECISÃO (UE) 2025/1228 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de junho de 2025
+    changes:
+    - Altera Artigo 1.º
+    - Altera ANEXO I
+    - Altera B. Condições respeitantes às sementes produzidas em países terceiros
+    - Altera Notas
 identifiers:
   celex: 32003D0017
   eli: http://data.europa.eu/eli/dec/2003/17(1)/oj
@@ -50,7 +132,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2322a496-4c31-4324-8851-80522452291c.0010
   content_url: http://publications.europa.eu/resource/cellar/ee402cb9-61a0-11f0-bf4e-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003D0017-20250710
-  retrieved_at: '2026-10-22T02:57:29Z'
+  retrieved_at: '2026-10-22T14:54:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T02:01:50.880+01:00'
 integrity:
@@ -59,9 +141,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:29Z'
-  notes: Texto consolidado 02003D0017-20250710.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:18Z'
+  notes: 9 versão(ões); histórico completo em decisao-ue-2003-17.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -189,40 +271,21 @@ relationships:
   date: '2025-09-02'
 article_structure:
   article_count: 5
-  section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 5
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:29Z'
-  warnings: []
+  checked_at: '2026-10-22T14:54:18Z'
+  warnings:
+  - '02003D0017-20030101: versão indisponível (Sem expressão na língua por para CELEX 02003D0017-20030101.)'
+  - '02003D0017-20030607: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # 2003/17/CE: Decisão do Conselho, de 16 de Dezembro de 2002
-
-> 02003D0017 — PT — 10.07.2025 — 011.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32003D0403) — [DECISÃO DO CONSELHO de 26 de Maio de 2003](http://publications.europa.eu/resource/celex/32003D0403) — L 141 — 23 — 7.6.2003
-- [M2](http://publications.europa.eu/resource/celex/32004R0885) — [REGULAMENTO (CE) N.º 885/2004 DO CONSELHO de 26 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0885) — L 168 — 1 — 1.5.2004
-- [►M3](http://publications.europa.eu/resource/celex/32005D0834) — [DECISÃO DO CONSELHO de 8 de Novembro de 2005](http://publications.europa.eu/resource/celex/32005D0834) — L 312 — 51 — 29.11.2005
-- [M4](http://publications.europa.eu/resource/celex/32006R1791) — [REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006R1791) — L 363 — 1 — 20.12.2006
-- [M5](http://publications.europa.eu/resource/celex/32007D0780) — [DECISÃO DO CONSELHO de 26 de Novembro de 2007](http://publications.europa.eu/resource/celex/32007D0780) — L 314 — 20 — 1.12.2007
-- [►M6](http://publications.europa.eu/resource/celex/32012D1105) — [DECISÃO N.º 1105/2012/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de novembro de 2012](http://publications.europa.eu/resource/celex/32012D1105) — L 328 — 4 — 28.11.2012
-- [►M7](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [►M8](http://publications.europa.eu/resource/celex/32018D1674) — [DECISÃO (UE) 2018/1674 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2018](http://publications.europa.eu/resource/celex/32018D1674) — L 284 — 31 — 12.11.2018
-- [►M9](http://publications.europa.eu/resource/celex/32020D1544) — [DECISÃO (UE) 2020/1544 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de outubro de 2020](http://publications.europa.eu/resource/celex/32020D1544) — L 356 — 5 — 26.10.2020
-- [►M10](http://publications.europa.eu/resource/celex/32021D0537) — [DECISÃO (UE) 2021/537 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de março de 2021](http://publications.europa.eu/resource/celex/32021D0537) — L 108 — 4 — 29.3.2021
-- [►M11](http://publications.europa.eu/resource/celex/32022D0871) — [DECISÃO (UE) 2022/871 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2022](http://publications.europa.eu/resource/celex/32022D0871) — L 152 — 109 — 3.6.2022
-- [►M12](http://publications.europa.eu/resource/celex/32025D1228) — [DECISÃO (UE) 2025/1228 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de junho de 2025](http://publications.europa.eu/resource/celex/32025D1228) — L 1228 — 1 — 20.6.2025
-
-## DECISÃO DO CONSELHO
 
 de 16 de Dezembro de 2002
 

@@ -35,6 +35,107 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-01'
+version_history:
+  file: regulamento-ue-1999-1260.versoes.json
+  count: 3
+  source_lastmod: '2007-01-01'
+  versions:
+  - date: '1999-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-02-22'
+    amending: eu:celex:32001R1447:por
+    amending_title: REGULAMENTO (CE) N. o 1447/2001 DO CONSELHO de 28 de Junho de 2001; REGULAMENTO (CE) N. o 1105/2003 DO
+      CONSELHO de 26 de Maio de 2003; REGULAMENTO (CE) N. o 173/2005 DO CONSELHO de 24 de Janeiro de 2005; Acto relativo às
+      condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da
+      República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia
+      e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Meios e atribuições
+    - Altera Artigo 7.º — Recursos e concentração
+    - Altera Artigo 9.º — Definições
+    - Altera Artigo 11.º — Adicionalidade
+    - Altera Artigo 14.º — Duração e revisão
+    - Altera Artigo 16.º — Planos
+    - Altera Artigo 17.º — Quadros comunitários de apoio
+    - Altera Artigo 18.º — Programas operacionais
+    - Altera Artigo 19.º — Documentos únicos de programação
+    - Altera Artigo 20.º — Conteúdo
+    - Altera Artigo 22.º — Acções inovadoras
+    - Altera Artigo 23.º — Assistência técnica
+    - Altera Artigo 29.º — Modulação das taxas de participação
+    - Altera Artigo 32.º — Pagamentos
+    - Altera Artigo 47.º — Disposições gerais
+    - Altera Artigo 48.º — Comité para o Desenvolvimento e a Reconversão das Regiões
+    - Altera Artigo 52.º — Disposições transitórias
+    - Altera Artigo 56.º — Entrada em vigor
+    - Adita TÍTULO 1
+    - Adita PRINCÍPIOS GERAIS
+    - Adita CAPÍTULO I
+    - Adita OBJECTIVOS E ATRIBUIÇÕES
+    - Adita CAPÍTULO II
+    - Adita ELEGIBILIDADE GEOGRÁFICA PARA OS OBJECTIVOS PRIORITÁRIOS
+    - Adita Artigo 3.º — Objectivo n.º 1
+    - Adita Artigo 4.º — Objectivo n.º 2
+    - Adita Artigo 5.º — Objectivo n.º 3
+    - Adita CAPÍTULO III
+    - Adita DISPOSIÇÕES FINANCEIRAS
+    - Adita CAPÍTULO IV
+    - Adita ORGANIZAÇÃO
+    - Adita TÍTULO II
+    - Adita PROGRAMAÇÃO
+    - Adita DISPOSIÇÕES GERAIS RELATIVAS AOS OBJECTIVOS N.º 1, N.º 2 e N.º 3
+    - Adita CONTEÚDO DA PROGRAMAÇÃO RELATIVA AOS OBJECTIVOS N.º 1, N.º 2 E N.º 3
+    - Adita INICIATIVAS COMUNITÁRIAS
+    - Adita ACÇÕES INOVADORAS E ASSISTÊNCIA TÉCNICA
+    - Adita CAPÍTULO V
+    - Adita GRANDES PROJECTOS
+  - date: '2007-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO 1
+    - Suprime PRINCÍPIOS GERAIS
+    - Suprime CAPÍTULO I
+    - Suprime OBJECTIVOS E ATRIBUIÇÕES
+    - Suprime Artigo 1.º — Objectivos
+    - Suprime Artigo 2.º — Meios e atribuições
+    - Suprime CAPÍTULO II
+    - Suprime ELEGIBILIDADE GEOGRÁFICA PARA OS OBJECTIVOS PRIORITÁRIOS
+    - Suprime Artigo 3.º — Objectivo n.º 1
+    - Suprime Artigo 4.º — Objectivo n.º 2
+    - Suprime Artigo 5.º — Objectivo n.º 3
+    - Suprime Artigo 6.º — Apoio transitório
+    - Suprime CAPÍTULO III
+    - Suprime DISPOSIÇÕES FINANCEIRAS
+    - Suprime Artigo 7.º — Recursos e concentração
+    - Suprime CAPÍTULO IV
+    - Suprime ORGANIZAÇÃO
+    - Suprime Artigo 8.º — Complementaridade e parceria
+    - Suprime Artigo 9.º — Definições
+    - Suprime Artigo 10.º — Coordenação
+    - Suprime Artigo 11.º — Adicionalidade
+    - Suprime Artigo 12.º — Compatibilidade
+    - Suprime TÍTULO II
+    - Suprime PROGRAMAÇÃO
+    - Suprime DISPOSIÇÕES GERAIS RELATIVAS AOS OBJECTIVOS N.º 1, N.º 2 e N.º 3
+    - Suprime Artigo 13.º — Âmbito geográfico
+    - Suprime Artigo 14.º — Duração e revisão
+    - Suprime Artigo 15.º — Preparação e aprovação
+    - Suprime CONTEÚDO DA PROGRAMAÇÃO RELATIVA AOS OBJECTIVOS N.º 1, N.º 2 E N.º 3
+    - Suprime Artigo 16.º — Planos
+    - Suprime Artigo 17.º — Quadros comunitários de apoio
+    - Suprime Artigo 18.º — Programas operacionais
+    - Suprime Artigo 19.º — Documentos únicos de programação
+    - Suprime INICIATIVAS COMUNITÁRIAS
+    - Suprime Artigo 20.º — Conteúdo
+    - Suprime Artigo 21.º — Elaboração, aprovação e execução
+    - Suprime ACÇÕES INOVADORAS E ASSISTÊNCIA TÉCNICA
+    - Suprime Artigo 22.º — Acções inovadoras
+    - Suprime Artigo 23.º — Assistência técnica
 identifiers:
   celex: 31999R1260
   eli: http://data.europa.eu/eli/reg/1999/1260/oj
@@ -49,7 +150,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0495cad8-bda6-4b4f-852c-ce3dd3022392.0011
   content_url: http://publications.europa.eu/resource/cellar/fa90e44c-a552-43e5-b727-2d8fae0e1e2b.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R1260-20070101
-  retrieved_at: '2026-10-22T02:35:22Z'
+  retrieved_at: '2026-10-22T14:48:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T16:28:46.753+01:00'
 integrity:
@@ -58,9 +159,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:22Z'
-  notes: Texto consolidado 01999R1260-20070101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:13Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1999-1260.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -403,16 +504,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:22Z'
+  checked_at: '2026-10-22T14:48:13Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01999R1260-19990629: versão indisponível (Sem expressão na língua por para CELEX 01999R1260-19990629.)'
+  - '01999R1260-20000101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1260-20030627: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1260-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

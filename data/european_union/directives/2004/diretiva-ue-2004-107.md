@@ -35,6 +35,75 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-09-18'
+version_history:
+  file: diretiva-ue-2004-107.versoes.json
+  count: 3
+  source_lastmod: '2015-09-18'
+  versions:
+  - date: '2005-01-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-04-20'
+    amending: eu:celex:32009R0219:por
+    amending_title: REGULAMENTO (CE) n. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Avaliação das concentrações no ar ambiente e das taxas de deposição
+    - Altera Artigo 5.º — Transmissão de informações e relatórios
+    - Altera Artigo 6.º — Comité
+    - Altera Artigo 12.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Determinação dos requisitos de avaliação das concentrações de arsénio, cádmio, níquel e benzo(a)pireno no ar ambiente
+      numa zona ou aglomeração
+    - 'Adita I. Limiares de avaliação superiores e inferiores:'
+    - Adita II. Determinação das superações dos limiares superiores e inferiores de avaliação
+    - Adita ANEXO III
+    - Adita Localização e número mínimo dos pontos de amostragem para a medição das concentrações no ar ambiente e das taxas
+      de deposição
+    - Adita I. Localização em macro escala
+    - Adita II. Localização em micro escala
+    - Adita III. Documentação e revisão da selecção dos locais
+    - Adita IV. Critérios para determinar o número de pontos de amostragem para as medições em lugares fixos de arsénio, cádmio,
+      mercúrio, níquel e benzo(a)pireno no ar ambiente
+    - Adita a) Fontes difusas
+    - Adita b) Fontes pontuais
+    - Adita ANEXO IV
+    - Adita Objectivos de qualidade dos dados e requisitos para os modelos de qualidade do ar
+    - Adita I. Objectivos de qualidade dos dados
+    - Adita II. Requisitos para os modelos de qualidade do ar
+    - Adita III. Requisitos para as técnicas objectivas de cálculo
+    - Adita IV. Normalização
+    - Adita ANEXO V
+    - Adita Métodos de referência para a avaliação de concentrações no ar ambiente e das taxas de deposição
+    - Adita I. Método de referência para a amostragem e análise do arsénio, cádmio e níquel no ar ambiente
+    - Adita II. Método de referência para a amostragem e análise dos hidrocarbonetos aromáticos policíclicos no ar ambiente
+    - Adita III. Método de referência para a amostragem e análise do mercúrio no ar ambiente
+    - Adita IV. Método de referência para a amostragem e análise da deposição de arsénio, cádmio, níquel, mercúrio e hidrocarbonetos
+      aromáticos policíclicos
+    - Adita V. Técnicas de modelização de referência da qualidade do ar
+  - date: '2015-09-18'
+    amending: eu:celex:32015L1480:por
+    amending_title: DIRETIVA (UE) 2015/1480 DA COMISSÃO Texto relevante para efeitos do EEE de 28 de agosto de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Transmissão de informações e relatórios
+    - Altera ANEXO I
+    - Altera a) Fontes difusas
+    - Altera I. Objectivos de qualidade dos dados
+    - Altera Notas
+    - Adita I. Método de referência para amostragem e análise de arsénio, cádmio e níquel no ar ambiente
+    - Adita II. Método de referência para amostragem e análise de hidrocarbonetos aromáticos policíclicos no ar ambiente
+    - Adita III. Método de referência para amostragem e análise de mercúrio no ar ambiente
+    - Adita IV. Método de referência para amostragem e análise da deposição de arsénio, cádmio, níquel, mercúrio e hidrocarbonetos
+      aromáticos policíclicos
+    - Suprime I. Método de referência para a amostragem e análise do arsénio, cádmio e níquel no ar ambiente
+    - Suprime II. Método de referência para a amostragem e análise dos hidrocarbonetos aromáticos policíclicos no ar ambiente
+    - Suprime III. Método de referência para a amostragem e análise do mercúrio no ar ambiente
+    - Suprime IV. Método de referência para a amostragem e análise da deposição de arsénio, cádmio, níquel, mercúrio e hidrocarbonetos
+      aromáticos policíclicos
 identifiers:
   celex: 32004L0107
   eli: http://data.europa.eu/eli/dir/2004/107/oj
@@ -49,7 +118,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/26e2ff35-62bb-4c29-9d22-0fbd8642f440.0017
   content_url: http://publications.europa.eu/resource/cellar/26a31617-8e80-48db-8229-397b4650e458.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0107-20150918
-  retrieved_at: '2026-10-22T02:42:40Z'
+  retrieved_at: '2026-10-22T14:57:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T12:45:18.841+01:00'
 integrity:
@@ -58,9 +127,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:40Z'
-  notes: Texto consolidado 02004L0107-20150918.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:27Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2004-107.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -153,30 +222,19 @@ relationships:
   source: null
 article_structure:
   article_count: 12
-  section_count: 26
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 27
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:40Z'
+  checked_at: '2026-10-22T14:57:27Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2004/107/CE do Parlamento Europeu e do Conselho, de 15 de Dezembro de 2004
-
-> 2004L0107 — PT — 18.09.2015 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) n.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-- [►M2](http://publications.europa.eu/resource/celex/32015L1480) — [DIRETIVA (UE) 2015/1480 DA COMISSÃO Texto relevante para efeitos do EEE de 28 de agosto de 2015](http://publications.europa.eu/resource/celex/32015L1480) — L 226 — 4 — 29.8.2015
-
-## DIRECTIVA 2004/107/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de Dezembro de 2004
 

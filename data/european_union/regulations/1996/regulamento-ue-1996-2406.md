@@ -35,6 +35,63 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2005-06-02'
+version_history:
+  file: regulamento-ue-1996-2406.versoes.json
+  count: 2
+  source_lastmod: '2005-06-02'
+  versions:
+  - date: '1996-12-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-06-02'
+    amending: eu:celex:31997R0323:por
+    amending_title: M1; REGULAMENTO (CE) N. o 2578/2000 DO CONSELHO de 17 de Novembro de 2000; M3; REGULAMENTO (CE) N. o 790/2005
+      DA COMISSÃO de 25 de Maio de 2005; Acto relativo às condições de adesão da República Checa, da República da Estónia,
+      da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de
+      Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que
+      se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita A.
+    - Adita Disposições gerais
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita B.
+    - Adita Categorias de frescura
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita C.
+    - Adita Categorias de calibragem
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita D.
+    - Adita Produtos provenientes de países terceiros
+    - Adita Artigo 11.º
+    - Adita E.
+    - Adita Disposições finais
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita ANEXO I
+    - Adita TABELAS DE COTAÇÃO DE FRESCURA
+    - Adita A. Peixes brancos
+    - Adita B. Peixes azuis
+    - Adita C. Esqualos
+    - Adita D. Cefalópodes
+    - Adita E. Crustáceos
+    - Adita A. PEIXES BRANCOS
+    - Adita B. PEIXES AZUIS
+    - Adita C. ESQUALOS
+    - Adita D. CEFALÓPODES
+    - Adita E. CRUSTÁCEOS
+    - Adita ANEXO II
 identifiers:
   celex: 31996R2406
   eli: http://data.europa.eu/eli/reg/1996/2406/oj
@@ -49,7 +106,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5d2cc7ea-ffe1-4c74-9c48-0d6b93aa713c.0011
   content_url: http://publications.europa.eu/resource/cellar/9e7930c8-61f9-4f8e-8b65-ccbcfeea30d5.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996R2406-20050602
-  retrieved_at: '2026-10-22T03:08:34Z'
+  retrieved_at: '2026-10-22T14:45:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T23:46:48.883+01:00'
 integrity:
@@ -58,9 +115,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:08:34Z'
-  notes: Texto consolidado 01996R2406-20050602.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:45:41Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1996-2406.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -149,40 +206,23 @@ relationships:
   date: '1976-01-28'
 article_structure:
   article_count: 16
-  section_count: 24
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 25
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:08:34Z'
-  warnings: []
+  checked_at: '2026-10-22T14:45:41Z'
+  warnings:
+  - '01996R2406-19970101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996R2406-20010101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996R2406-20020101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996R2406-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) nº 2406/96 do Conselho de 26 de Novembro de 1996
-
-> 1996R2406 — PT — 02.06.2005 — 004.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/31997R0323) — [REGULAMENTO (CE) N.º 323/97 DA COMISSÃO de 21 de Fevereiro de 1997](http://publications.europa.eu/resource/celex/31997R0323) — L 52 — 8 — 22.2.1997
-- [►M2](http://publications.europa.eu/resource/celex/32000R2578) — [REGULAMENTO (CE) N.º 2578/2000 DO CONSELHO de 17 de Novembro de 2000](http://publications.europa.eu/resource/celex/32000R2578) — L 298 — 1 — 25.11.2000
-- [M3](http://publications.europa.eu/resource/celex/32001R2495) — [REGULAMENTO (CE) N.º 2495/2001 DA COMISSÃO de 19 de Dezembro de 2001](http://publications.europa.eu/resource/celex/32001R2495) — L 337 — 23 — 20.12.2001
-- [►M4](http://publications.europa.eu/resource/celex/32005R0790) — [REGULAMENTO (CE) N.º 790/2005 DA COMISSÃO de 25 de Maio de 2005](http://publications.europa.eu/resource/celex/32005R0790) — L 132 — 15 — 26.5.2005
-
-**Alterado por:**
-
-- [►A1](http://publications.europa.eu/resource/celex/12003T) — [Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T) — L 236 — 33 — 23.9.2003
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/31996R2406R%2801%29) — [Rectificação, JO L 027, 30.1.1997, p. 50 (2406/96)](http://publications.europa.eu/resource/celex/31996R2406R%2801%29)
-
-## REGULAMENTO (CE) N.º 2406/96 DO CONSELHO
 
 de 26 de Novembro de 1996
 

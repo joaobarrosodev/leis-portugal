@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2003-113.versoes.json
+  count: 1
+  source_lastmod: '2003-12-31'
+  versions:
+  - date: '2003-12-11'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32003L0113
   eli: http://data.europa.eu/eli/dir/2003/113/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/32ae05b7-32cd-4255-bb2b-b9f4cee57da5.0010
   content_url: http://publications.europa.eu/resource/cellar/32ae05b7-32cd-4255-bb2b-b9f4cee57da5.0010.01/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:51:49Z'
+  retrieved_at: '2026-10-22T14:55:20Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T16:51:29.185+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:49Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:20Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2003-113.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -150,17 +159,15 @@ relationships:
 article_structure:
   article_count: 6
   section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:49Z'
+  checked_at: '2026-10-22T14:55:20Z'
   warnings:
-  - Versão consolidada 02003L0113-20031231 indisponível (A expressão não tem manifestação XHTML nem HTML.); usado o texto
-    do JO.
-  - Não foi detetado o título principal no XHTML.
+  - '02003L0113-20031231: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

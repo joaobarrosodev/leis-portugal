@@ -36,6 +36,121 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-01-01'
+version_history:
+  file: diretiva-ue-2006-32.versoes.json
+  count: 4
+  source_lastmod: '2017-01-01'
+  versions:
+  - date: '2006-04-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-11'
+    amending: eu:celex:32008R1137:por
+    amending_title: REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE 22 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Distribuidores de energia, operadores das redes de distribuição e comercializadores de energia a
+      retalho
+    - Altera Artigo 12.º — Auditorias energéticas
+    - Altera Artigo 20.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 15.º — Revisão e adaptação ao progresso técnico
+    - Adita Artigo 16.º — Procedimento de comité
+    - Adita ANEXO I
+    - Adita Metodologia para cálculo do objectivo nacional indicativo de economias de energia
+    - Adita ANEXO II
+    - Adita Teor em energia de combustíveis seleccionados para utilização final — tabela de conversão ([^17^](http://publications.europa.eu/resource/cellar/669c27d7-d46f-4915-8d3f-1b80d0c5743e.0018.03/DOC_1#E0017))
+    - Adita ANEXO III
+    - Adita Lista indicativa de exemplos de medidas de melhoria da eficiência energética elegíveis
+    - Adita ANEXO IV
+    - Adita Quadro geral para a medição e verificação das economias de energia
+    - Adita 1. Medição e cálculo das economias de energia e sua normalização
+    - Adita 1.1. Medição das economias de energia
+    - Adita 1.2. Modo de normalizar as medições das economias de energia
+    - Adita 2. Dados e métodos que podem ser utilizados (mensurabilidade)
+    - Adita 2.1. Dados e métodos baseados em medições
+    - Adita 2.2. Dados e métodos baseados em estimativas
+    - Adita 3. Como lidar com a incerteza
+    - Adita 4. Duração harmonizada das medidas de melhoria da eficiência energética nos cálculos «em detalhe»
+    - Adita 5. Como lidar com os efeitos multiplicadores das economias de energia e como evitar a dupla contagem nos métodos
+      mistos de cálculo agregado e «em detalhe»
+    - Adita 6. Modo de verificação das economias de energia
+    - Adita ANEXO V
+    - Adita ANEXO VI
+    - Adita Lista de medidas elegíveis de eficácia energética no sector dos contratos públicos
+    - Suprime Artigo 15.º — Revisão e adaptação do enquadramento
+    - Suprime Artigo 16.º — Comité
+  - date: '2014-06-05'
+    amending: eu:celex:32012L0027:por
+    amending_title: Diretiva 2012/27/UE do Parlamento Europeu e do Conselho Texto relevante para efeitos do EEE de 25 de outubro
+      de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Objectivo geral
+    - Altera Metodologia para cálculo do objectivo nacional indicativo de economias de energia
+    - Altera 1.1. Medição das economias de energia
+    - Altera 3. Como lidar com a incerteza
+    - Altera Notas
+    - Suprime CAPÍTULO I
+    - Suprime OBJECTO E ÂMBITO
+    - Suprime Artigo 1.º — Objectivo
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime OBJECTIVOS DE ECONOMIAS DE ENERGIA
+    - Suprime Artigo 5.º — Eficiência na utilização final de energia no sector público
+    - Suprime CAPÍTULO III
+    - Suprime PROMOÇÃO DA EFICIÊNCIA NA UTILIZAÇÃO FINAL DE ENERGIA E DOS SERVIÇOS ENERGÉTICOS
+    - Suprime Artigo 6.º — Distribuidores de energia, operadores das redes de distribuição e comercializadores de energia
+      a retalho
+    - Suprime Artigo 7.º — Disponibilidade da informação
+    - Suprime Artigo 8.º — Disponibilidade de regimes de qualificação, acreditação e certificação
+    - Suprime Artigo 9.º — Instrumentos financeiros para as economias de energia
+    - Suprime Artigo 10.º — Tarifas de eficiência energética e outra regulamentação relativa a energia de rede
+    - Suprime Artigo 11.º — Fundos e mecanismos de financiamento
+    - Suprime Artigo 12.º — Auditorias energéticas
+    - Suprime Artigo 13.º — Contagem e facturação discriminada do consumo de energia
+    - Suprime CAPÍTULO IV
+    - Suprime DISPOSIÇÕES FINAIS
+    - Suprime Artigo 14.º — Relatórios
+    - Suprime Artigo 15.º — Revisão e adaptação ao progresso técnico
+    - Suprime Artigo 16.º — Procedimento de comité
+    - Suprime Artigo 17.º — Revogação
+    - Suprime Artigo 18.º — Transposição
+    - Suprime Artigo 19.º — Entrada em vigor
+    - Suprime Artigo 20.º — Destinatários
+    - Suprime ANEXO II
+    - Suprime Teor em energia de combustíveis seleccionados para utilização final — tabela de conversão ([^17^](http://publications.europa.eu/resource/cellar/669c27d7-d46f-4915-8d3f-1b80d0c5743e.0018.03/DOC_1#E0017))
+    - Suprime ANEXO V
+    - Suprime ANEXO VI
+    - Suprime Lista de medidas elegíveis de eficácia energética no sector dos contratos públicos
+  - date: '2017-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 4.º — Objectivo geral
+    - Suprime ANEXO I
+    - Suprime Metodologia para cálculo do objectivo nacional indicativo de economias de energia
+    - Suprime ANEXO III
+    - Suprime Lista indicativa de exemplos de medidas de melhoria da eficiência energética elegíveis
+    - Suprime ANEXO IV
+    - Suprime Quadro geral para a medição e verificação das economias de energia
+    - Suprime 1. Medição e cálculo das economias de energia e sua normalização
+    - Suprime 1.1. Medição das economias de energia
+    - Suprime 1.2. Modo de normalizar as medições das economias de energia
+    - Suprime 2. Dados e métodos que podem ser utilizados (mensurabilidade)
+    - Suprime 2.1. Dados e métodos baseados em medições
+    - Suprime 2.2. Dados e métodos baseados em estimativas
+    - Suprime 3. Como lidar com a incerteza
+    - Suprime 4. Duração harmonizada das medidas de melhoria da eficiência energética nos cálculos «em detalhe»
+    - Suprime 5. Como lidar com os efeitos multiplicadores das economias de energia e como evitar a dupla contagem nos métodos
+      mistos de cálculo agregado e «em detalhe»
+    - Suprime 6. Modo de verificação das economias de energia
+    - Suprime Notas
 identifiers:
   celex: 32006L0032
   eli: http://data.europa.eu/eli/dir/2006/32/oj
@@ -50,7 +165,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4afd6f4e-60c3-4380-9f91-92628b7a4522.0017
   content_url: http://publications.europa.eu/resource/cellar/5ea4377d-ef3b-11e9-a32c-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0032-20170101
-  retrieved_at: '2026-10-22T02:37:42Z'
+  retrieved_at: '2026-10-22T15:01:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-19T22:28:21.596+01:00'
 integrity:
@@ -59,9 +174,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:42Z'
-  notes: Texto consolidado 02006L0032-20170101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:01:48Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2006-32.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -206,16 +321,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:42Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:01:48Z'
+  warnings: []
   errors: []
 ---
 

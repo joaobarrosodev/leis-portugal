@@ -35,6 +35,50 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-01-01'
+version_history:
+  file: diretiva-ue-2001-77.versoes.json
+  count: 4
+  source_lastmod: '2012-01-01'
+  versions:
+  - date: '2001-10-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0108:por
+    amending_title: DIRECTIVA 2006/108/CE DO CONSELHO de 20 de Novembro de 2006; Acto relativo às condições de adesão da República
+      Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República
+      da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações
+      dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 11.º — Destinatário
+    - Altera ANEXO
+    - Adita Notas
+  - date: '2010-04-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objectivo
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Metas indicativas nacionais
+    - Suprime Artigo 4.º — Regimes de apoio
+    - Suprime Artigo 5.º — Garantia de origem da electricidade produzida a partir de fontes de energia renováveis
+    - Suprime Artigo 6.º — Processos administrativos
+    - Suprime Artigo 7.º — Questões relativas ao sistema de rede
+    - Suprime Artigo 8.º — Relatório de síntese
+    - Suprime Artigo 9.º — Transposição
+    - Suprime Artigo 10.º — Entrada em vigor
+    - Suprime Artigo 11.º — Destinatário
+    - Suprime ANEXO
+    - Suprime Notas
+  - date: '2012-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
 identifiers:
   celex: 32001L0077
   eli: http://data.europa.eu/eli/dir/2001/77/oj
@@ -49,7 +93,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9df8db5d-4776-4fcb-9077-4363e14b836a.0010
   content_url: http://publications.europa.eu/resource/cellar/4237babe-57ae-4144-a03d-09b049a869c7.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0077-20120101
-  retrieved_at: '2026-10-22T02:36:10Z'
+  retrieved_at: '2026-10-22T14:50:12Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T05:53:02.246+01:00'
 integrity:
@@ -58,9 +102,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:10Z'
-  notes: Texto consolidado 02001L0077-20120101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:12Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2001-77.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -249,16 +293,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:10Z'
+  checked_at: '2026-10-22T14:50:12Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02001L0077-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

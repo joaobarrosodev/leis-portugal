@@ -36,6 +36,38 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-01-06'
+version_history:
+  file: regulamento-ue-2003-2042.versoes.json
+  count: 2
+  source_lastmod: '2015-01-06'
+  versions:
+  - date: '2003-11-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-01-06'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objectivo e âmbito
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Requisitos de aeronavegabilidade permanente
+    - Suprime Artigo 4.º — Certificação das entidades de manutenção
+    - Suprime Artigo 5.º — Pessoal responsável pela certificação
+    - Suprime Artigo 6.º — Requisitos a observar pelas entidades que ministram formação em matéria de manutenção
+    - Suprime Artigo 7.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime SECÇÃO A REQUISITOS TÉCNICOS — SUBPARTE A GENERALIDADES
+    - Suprime SECÇÃO B PROCEDIMENTO A CUMPRIR PELAS AUTORIDADES COMPETENTES — SUBPARTE A GENERALIDADES
+    - Suprime Anexo II
+    - Suprime SECÇÃO A
+    - Suprime SECÇÃO B PROCEDIMENTOS RELATIVOS ÀS AUTORIDADES COMPETENTES
+    - Suprime ANEXO III — À PARTE 66
+    - Suprime SECÇÃO A — SUBPARTE A LICENÇA DE MANUTENÇÃO AERONÁUTICA PARA AVIÕES E HELICÓPTEROS
+    - Suprime ANEXO IV — À PARTE-147
+    - Suprime SECÇÃO A — SUBPARTE A GENERALIDADES
+    - Suprime Título de Certificação — >PIC FILE= "L_2003315PT.016102.TIF">
 identifiers:
   celex: 32003R2042
   eli: http://data.europa.eu/eli/reg/2003/2042/oj
@@ -50,7 +82,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/edf53baa-1384-48c8-b786-3b2df90b35d8.0010
   content_url: http://publications.europa.eu/resource/cellar/aefa8419-1895-4f9a-b877-25cf1fd71ee5.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R2042-20150106
-  retrieved_at: '2026-10-22T02:42:34Z'
+  retrieved_at: '2026-10-22T14:56:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-06T18:33:58.511+01:00'
 integrity:
@@ -59,9 +91,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:34Z'
-  notes: Texto consolidado 02003R2042-20150106.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:24Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2003-2042.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -167,16 +199,21 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:34Z'
+  checked_at: '2026-10-22T14:56:24Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02003R2042-20060510: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2042-20070405: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2042-20081029: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2042-20100305: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2042-20101028: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2042-20111117: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2042-20120801: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

@@ -34,6 +34,70 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-01'
+version_history:
+  file: diretiva-ue-2006-105.versoes.json
+  count: 2
+  source_lastmod: '2007-01-01'
+  versions:
+  - date: '2006-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita AMBIENTE
+    - Adita A. PROTECÇÃO DA NATUREZA
+    - Adita ПРИЛОЖЕНИЕ I –ANEXO I — PŘÍLOHA I –BILAG I — ANHANG I — I LISA — ΠΑΡΑΡΤΗΜΑ I — ANNEX I — ANNEXE I — ALLEGATO I
+      — I PIELIKUMS — I PRIEDAS — I. MELLÉKLET — ANNESS I — BIJLAGE I — ZAŁĄCZNIK I –ANEXO I — ANEXA I — PRÍLOHA I — PRILOGA
+      I — LIITE I — BILAGA I
+    - Adita a)
+    - Adita GAVIIFORMES
+    - Adita PODICIPEDIFORMES
+    - Adita PROCELLARIIFORMES
+    - Adita PELECANIFORMES
+    - Adita CICONIIFORMES
+    - Adita PHOENICOPTERIFORMES
+    - Adita ANSERIFORMES
+    - Adita FALCONIFORMES
+    - Adita GALLIFORMES
+    - Adita GRUIFORMES
+    - Adita CHARADRIIFORMES
+    - Adita PTEROCLIFORMES
+    - Adita COLUMBIFORMES
+    - Adita STRIGIFORMES
+    - Adita CAPRIMULGIFORMES
+    - Adita APODIFORMES
+    - Adita CORACIIFORMES
+    - Adita PICIFORMES
+    - Adita PASSERIFORMES
+    - Adita ПРИЛОЖЕНИЕ II/1 –ANEXO II/1 — PŘÍLOHA II/1 –BILAG II/1 — ANHANG II/1 — II/1 LISA — ΠΑΡΑΡΤΗΜΑ II/1 — ANNEX II/1
+      — ANNEXE II/1 — ALLEGATO II/1 — II/1. PIELIKUMS — II/1 PRIEDAS — II/1. MELLÉKLET — ANNESS II/1 — BIJLAGE II/1 — ZAŁĄCZNIK
+      II/1 –ANEXO II/1 — ANEXA II/1 — PRÍLOHA II/1 — PRILOGA II/1 — LIITE II/1 — BILAGA II/1
+    - Adita ПРИЛОЖЕНИЕ II/2 –ANEXO II/2 — PŘÍLOHA II/2 –BILAG II/2 — ANHANG II/2 — II/2 LISA — ΠΑΡΑΡΤΗΜΑ II/2 — ANNEX II/2
+      — ANNEXE II/2 — ALLEGATO II/2 — II/2. PIELIKUMS — II/2 PRIEDAS — II/2. MELLÉKLET — ANNESS II/2 — BIJLAGE II/2 — ZAŁĄCZNIK
+      II/2 –ANEXO II/2 — ANEXA II/2 — PRÍLOHA II/2 — PRILOGA II/2 — LIITE II/2 — BILAGA II/2
+    - Adita ПРИЛОЖЕНИЕ III/1 –ANEXO III/1 — PŘÍLOHA III/1 –BILAG III/1 — ANHANG III/1 — III/1 LISA — ΠΑΡΑΡΤΗΜΑ III/1 — ANNEX
+      III/1 — ANNEXE III/1 — ALLEGATO III/1 — III/1. PIELIKUMS — III/1 PRIEDAS — III/1. MELLÉKLET — ANNESS III/1 — BIJLAGE
+      III/1 — ZAŁĄCZNIK III/1 –ANEXO III/1 — ANEXA III /1 — PRÍLOHA III/1 — PRILOGA III/1 — LIITE III/1 — BILAGA III/1
+    - Adita ПРИЛОЖЕНИЕ III/2 –ANEXO III/2 — PŘÍLOHA III/2 –BILAG III/2 — ANHANG III/2 — III/2 LISA — ΠΑΡΑΡΤΗΜΑ III/2 — ANNEX
+      III/2 — ANNEXE III/2 — ALLEGATO III/2 — III/2 PIELIKUMS — III/2 PRIEDAS — III/2. MELLÉKLET — ANNESS III/2 — BIJLAGE
+      III/2 — ZAŁĄCZNIK III/2 –ANEXO III/2 — ANEXA III/2 — PRÍLOHA III/2 — PRILOGA III/2 — LIITE III/2 — BILAGA III/2
+    - Adita ANEXO I
+    - Adita TIPOS DE HABITATS NATURAIS DE INTERESSE COMUNITÁRIO CUJA CONSERVAÇÃO EXIGE A DESIGNAÇÃO DE ZONAS ESPECIAIS DE
+      CONSERVAÇÃO
+    - Adita Interpretação
+    - Adita 1. HABITATS COSTEIROS E VEGETAÇÃO HALÓFILA
+    - Adita 11. Águas marinhas e meios sob influência das marés
+    - Adita 12. Falésias marítimas e praias de calhaus rolados
+    - Adita 13. Sapais e prados salgados atlânticos e continentais
+    - Adita 14. Sapais e prados salgados mediterrânicos e termoatlânticos
+    - Adita 15. Estepes interiores halófilas e gipsófilas
 identifiers:
   celex: 32006L0105
   eli: http://data.europa.eu/eli/dir/2006/105/oj
@@ -48,7 +112,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/bccb688a-f910-4d7c-a955-162ab8d1767e.0016
   content_url: http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0105-20070101
-  retrieved_at: '2026-10-22T02:34:42Z'
+  retrieved_at: '2026-10-22T15:02:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-21T03:58:27.120+01:00'
 integrity:
@@ -57,9 +121,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:34:42Z'
-  notes: Texto consolidado 02006L0105-20070101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:02:44Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2006-105.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -389,30 +453,19 @@ relationships:
   date: '2016-12-17'
 article_structure:
   article_count: 4
-  section_count: 106
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 107
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:34:42Z'
+  checked_at: '2026-10-22T15:02:44Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2006/105/CE do Conselho, de 20 de Novembro de 2006
-
-> 2006L0105 — PT — 01.01.2007 — 000.002
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32006L0105R%2801%29) — [Rectificação, JO L 080, 21.3.2007, p. 15 (2006/105/CE)](http://publications.europa.eu/resource/celex/32006L0105R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32006L0105R%2802%29) — [Rectificação, JO L 095, 29.3.2014, p. 70 (2006/105/CE)](http://publications.europa.eu/resource/celex/32006L0105R%2802%29)
-
-## DIRECTIVA 2006/105/CE DO CONSELHO
 
 de 20 de Novembro de 2006,
 

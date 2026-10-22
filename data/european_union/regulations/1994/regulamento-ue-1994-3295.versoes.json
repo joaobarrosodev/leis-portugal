@@ -1,0 +1,219 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994R3295:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994R3295-20040701",
+ "dre_path": null,
+ "source_lastmod": "2004-07-01",
+ "versions": [
+  {
+   "date": "1994-12-30",
+   "future": false,
+   "celex": "31994R3295",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6aa94579feb27228",
+    "4c818e238f7ee708",
+    "249a186066073ff6",
+    "56530d556a6ad0f9",
+    "b4751eb247d013f9",
+    "cd7d4a74895a73c7",
+    "18fb7fb87335090c",
+    "a61719291a7298a5",
+    "5ae121978b559bf1",
+    "b3d3ebbd6d16d760",
+    "e3542a4f1b7e93ed",
+    "f6506cc0e68a5b1c",
+    "9fb601b090b281e0",
+    "fd212f610f5a7395",
+    "f4c173011308ff51",
+    "e5c313b68488fcdc",
+    "fb9b77703c123dd4",
+    "462111934ed22528"
+   ]
+  },
+  {
+   "date": "2004-07-01",
+   "future": false,
+   "celex": "01994R3295-20040701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I Disposições gerais — Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime CAPÍTULO III Pedido de intervenção das autoridades aduaneiras — Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime CAPÍTULO VI Disposições finais — Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º — As disposições necessárias à execução do presente regulamento serão adoptadas nos termos do procedimento previsto nos nºs3 e 4 do artigo 13º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º"
+   ],
+   "fragments": [
+    "45d727b59e7908fc"
+   ]
+  }
+ ],
+ "fragments": {
+  "6aa94579feb27228": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 3295/94 do Conselho, de 22 de Dezembro de 1994, que estabelece medidas destinadas a proibir a introdução em livre prática, a exportação, a reexportação e a colocação sob um regime suspensivo das mercadorias de contrafacção e das mercadorias-pirata** *Jornal Oficial nº L 341 de 30/12/1994 p. 0008 - 0013 Edição especial finlandesa: Capítulo 2 Fascículo 16 p. 0077 Edição especial sueca: Capítulo 2 Fascículo 16 p. 0077*\n\nREGULAMENTO (CE) Nº 3295/94 DO CONSELHO de 22 de Dezembro de 1994 que estabelece medidas destinadas a proibir a introdução em livre prática, a exportação, a reexportação e a colocação sob um regime suspensivo das mercadorias de contrafacção e das mercadorias-pirata\n\nO CONSELHO DA UNIAO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 113º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que se encontra em vigor desde 1 de Janeiro de 1988 o Regulamento (CEE) nº 3842/86 do Conselho, de 1 de Dezembro de 1986, que estabelece medidas destinadas a proibir a introdução em livre prática das mercadorias de contrafacção (4); que convém retirar conclusões da experiência dos primeiros anos da aplicação do referido regulamento, a fim de melhorar o funcionamento do regime por ele instituído;\n\nConsiderando que a comercialização de mercadorias de contrafacção e de mercadorias-pirata acarreta prejuízos consideráveis para os fabricantes e comerciantes que respeitam a lei, bem como para os titulares de direitos de autor e direitos conexos, e engana os consumidores; que há que impedir, tanto quanto possível, a colocação no mercado de tais mercadorias, adoptando para o efeito medidas que permitam combater eficazmente essa actividade ilegal sem todavia colocar entraves à liberdade do comércio legítimo; que este objectivo, aliás, se vem juntar aos esforços empreendidos no mesmo sentido a nível internacional;\n\nConsiderando que, na medida em que as mercadorias de contrafacção, as mercadorias-pirata e as mercadorias equiparadas são importadas de países terceiros, se deve proibir a sua introdução em livre prática na Comunidade, ou a sua colocação sob um regime suspensivo, e instituir um procedimento adequado que permita a intervenção das autoridades aduaneiras, a fim de assegurar, nas melhores condições, o respeito dessa proibição;\n\nConsiderando que a intervenção das autoridades aduaneiras com vista a proibir a introdução em livre prática, ou a colocação sob um regime suspensivo, das mercadorias de contrafacção e das mercadorias-pirata deve abranger igualmente as mercadorias desse tipo que são exportadas ou reexportadas da Comunidade;\n\nConsiderando que, no que se refere aos regimes suspensivos e à reexportação mediante notificação, a intervenção das autoridades aduaneiras só se verifica quando mercadorias suspeitas de serem de contrafacção ou mercadorias-pirata são detectadas por ocasião de um controlo;\n\nConsiderando que a Comunidade toma em consideração os termos do acordo negociado no âmbito do GATT relativo aos aspectos dos direitos de propriedade intelectual que digam respeito ao comércio, incluindo o comércio das mercadorias de contrafacção, nomeadamente as medidas a adoptar na fronteira;\n\nConsiderando que é necessário prever que as autoridades aduaneiras sejam competentes para receber e apreciar sobre os pedidos de intervenção que lhes sejam apresentados;\n\nConsiderando que a intervenção das autoridades aduaneiras deve consistir quer na suspensão da autorização de saída para introdução em livre prática, da exportação e da reexportação das mercadorias suspeitas de serem de contrafacção ou mercadorias-pirata, quer na detenção dessas mercadorias sempre que sejam colocadas sob um regime suspensivo ou sejam reexportadas mediante notificação, durante o tempo necessário para permitir se se trata efectivamente de mercadorias desse tipo;\n\nConsiderando que os Estados-membros devem ser autorizados a deter as mercadorias em questão ainda antes da apresentação ou da aceitação de um pedido do titular do direito, durante um período determinado, a fim de permitir que esse titular apresente um pedido de intervenção junto das autoridades aduaneiras;\n\nConsiderando que convém que a autoridade competente decida dos casos que lhe são submetidos em função de critérios utilizados para determinar se as mercadorias produzidas no Estado-membro em causa violam os direitos da propriedade intelectual; que as disposições dos Estados-membros relativas à competência das instâncias e às vias judiciais não são afectadas pelo presente regulamento;\n\nConsiderando que há que definir as medidas a que as mercadorias em questão devem estar sujeitas quando se comprove que são de contrafacção ou mercadorias-pirata; que essas medidas devem não só privar os responsáveis pelo comércio destas mercadorias dos benefícios económicos da operação e sancioná-los, mas também desencorajar eficazmente posteriores operações da mesma natureza;\n\nConsiderando que, a fim de evitar perturbações graves do desembaraço aduaneiro das mercadorias contidas nas bagagens pessoais dos viajantes, se deve excluir do âmbito de aplicação do presente regulamento as mercadorias susceptíveis de constituir mercadorias de contrafacção ou mercadorias-pirata importadas de países terceiros que respeitem os limites previstos pela regulamentação comunitária para a concessão de uma franquia aduaneira;\n\nConsiderando que há que garantir uma aplicação uniforme das regras comuns previstas no presente regulamento, prevendo para o efeito um procedimento comunitário que permita adoptar as normas de execução dessas regras dentro de prazos adequados e reforçar a assistência mútua entre os Estados-membros, por um lado, e entre os Estados-membros e a Comissão, por outro, para assegurar a maior eficácia;\n\nConsiderando que será conveniente, à luz nomeadamente da experiência adquirida com a aplicação do presente regulamento, analisar a possibilidade de alargar a lista dos direitos de propriedade intelectual por ele abrangidos;\n\nConsiderando que é necessário revogar o Regulamento (CEE) nº 3842/86,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "4c818e238f7ee708": {
+   "fragment_id": "CAPÍTULO I Disposições gerais — Artigo 1º",
+   "type": "divisao",
+   "heading": "CAPÍTULO I Disposições gerais — Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I Disposições gerais — Artigo 1º\n\n1. O presente regulamento determina:\n\na) As condições de intervenção das autoridades aduaneiras quando mercadorias suspeitas de serem de contrafacção ou mercadorias-pirata:\n\n- são declaradas para introdução em livre prática, para exportação ou para reexportação;\n\n- são detectadas por ocasião de um controlo efectuado sobre mercadorias colocadas sob um regime suspensivo na acepção do nº 1, alínea a), do artigo 84º do Regulamento (CEE) nº 2913/92 do Conselho, de 12 de Outubro de 1992, que estabelece o Código Aduaneiro Comunitário (5), ou reexportadas mediante notificação; e\n\nb) As medidas a adoptar pelas autoridades competentes em relação a essas mesmas mercadorias quando se prove tratar-se efectivamente de mercadorias de contrafacção ou de mercadorias-pirata.\n\n2. Para efeitos do presente regulamento, entende-se por:\n\na) « Mercadorias de contrafacção »:\n\n- as mercadorias, incluindo o seu acondicionamento, nas quais tenha sido aposta sem autorização uma marca de fabrico ou de comércio idêntica à marca de fabrico ou de comércio devidamente registada para os mesmos tipos de mercadorias, ou que não pode ser distinguida, nos seus aspectos essenciais, dessa marca de fabrico ou de comércio e que, por esse motivo, viola os direitos do titular da marca em questão nos termos da legislação comunitária ou da legislação do Estado-membro onde o pedido de intervenção das autoridades aduaneiras for apresentado,\n\n- qualquer sinal de marca (logotipo, etiqueta, rótulo, autocolante, prospecto, folheto de instruções, documento de garantia), mesmo apresentado separadamente, que se encontre na mesma situação que as mercadorias referidas no primeiro travessão,\n\n- as embalagens revestidas das marcas das mercadorias de contrafacção, apresentadas isoladamente, que se encontrem na mesma situação que as mercadorias referidas no primeiro travessão;\n\nb) « Mercadorias-pirata » as mercadorias que sejam, ou contenham, cópias fabricadas sem o consentimento do titular do direito de autor ou dos direitos conexos, do titular de um direito relativo ao desenho ou modelo registado ou não em conformidade com o direito nacional, ou de uma pessoa devidamente autorizada pelo titular desse ou desses direitos no país de produção, nos casos em que a realização dessas cópias viole o direito em questão nos termos de legislação comunitária ou de legislação do Estado-membro onde o pedido de intervenção das autoridades aduaneiras for apresentado;\n\nc) « Titular do direito » o titular de uma marca de fabrico ou de comércio referida na alínea a) e/ou de um dos direitos referidos na alínea b), bem como qualquer outra pessoa autorizada a utilizar essa marca e/ou esses direitos, ou um seu representante;\n\nd) « Declarações para introdução em livre prática, para exportação ou para reexportação » as declarações efectuadas nos termos do artigo 61º do Regulamento (CEE) nº 2913/92.\n\n3. É equiparado a mercadoria de contrafacção ou a mercadoria-pirata, conforme o caso, qualquer molde ou matriz especificamente destinado ou adoptado ao fabrico de uma marca de contrafacção ou de uma mercadoria que ostente tal marca ou ao fabrico de uma mercadoria-pirata, desde que a utilização desses moldes ou matrizes viole os direitos do titular do direito nos termos da legislação comunitária ou da legislação do Estado-membro onde o pedido de intervenção das autoridades aduaneiras for apresentado.\n\n4. O presente regulamento não é aplicável às mercadorias que ostentem uma marca de fabrico ou de comércio com o consentimento do titular dessa marca ou que estiverem protegidas por um direito de autor ou um direito conexo, ou por um direito relativo a um desenho ou modelo, que tiverem sido fabricadas com o consentimento do titular do direito, mas que se encontrem, sem o consentimento deste último, numa das situações referidas no nº 1, alínea a).\n\nO mesmo sucede em relação às mercadorias referidas no primeiro parágrafo que tiverem sido fabricadas ou em que a marca tiver sido aposta em condições diferentes das acordadas com os titulares dos direitos em questão.\n\nCAPÍTULO II Proibição da introdução em livre prática, da exportação, da reexportação e da colocação sob um regime suspensivo das mercadorias de contrafacção e das mercadorias-pirata"
+  },
+  "249a186066073ff6": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nSão proibidas a introdução em livre prática, a exportação, a reexportação e a colocação sob um regime suspensivo de mercadorias reconhecidas como mercadorias de contrafacção ou mercadorias-pirata, uma vez aplicado o procedimento previsto no artigo 6º"
+  },
+  "56530d556a6ad0f9": {
+   "fragment_id": "CAPÍTULO III Pedido de intervenção das autoridades aduaneiras — Artigo 3º",
+   "type": "divisao",
+   "heading": "CAPÍTULO III Pedido de intervenção das autoridades aduaneiras — Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III Pedido de intervenção das autoridades aduaneiras — Artigo 3º\n\n1. Em cada Estado-membro, o titular do direito pode apresentar ao serviço da autoridade aduaneira um pedido escrito no sentido de obter a intervenção das autoridades aduaneiras quando houver mercadorias numa das situações referidas no nº 1, alínea a), do artigo 1º\n\n2. O pedido referido no nº 1 deve conter:\n\n- uma descrição suficientemente precisa das mercadorias para permitir o seu reconhecimento pelas autoridades aduaneiras,\n\n- uma justificação em como o requerente é titular do direito no que respeita às mercadorias em questão.\n\nAlém disso, o titular do direito deve fornecer quaisquer outras informações úteis de que disponha e que permitam ao serviço aduaneiro competente decidir com conhecimento de causa, sem que contudo essas informações constituam uma condição de admissibilidade do pedido.\n\nA título indicativo, no que respeita às mercadorias-pirata, e na medida do possível, essas informações referir-se-ao ao seguinte:\n\n- local onde se encontram as mercadorias ou local de destino previsto,\n\n- identificação da remessa ou dos volumes,\n\n- data prevista de chegada ou de partida das mercadorias,\n\n- meio de transporte utilizado,\n\n- indentidade do importador, do exportador ou do detentor.\n\n3. O pedido deve indicar o prazo durante o qual é solicitada a intervenção das autoridades aduaneiras.\n\n4. Pode ser exigido ao requerente o pagamento de uma taxa destinada a cobrir os encargos administrativos ocasionados pelo tratamento do pedido. O montante dessa taxa não deve ser desproporcionado em relação ao serviço prestado.\n\n5. O serviço aduaneiro competente ao qual tiver sido apresentado um pedido formulado nos termos do nº 2 apreciará esse pedido e informará o requerente da sua decisão sem demora e por escrito.\n\nCaso defira o pedido, o serviço fixará o prazo durante o qual as autoridades aduaneiras intervêm. Este prazo pode ser prorrogado, a pedido do titular do direito, pelo serviço que tomou a decisão inicial.\n\nO indeferimento do pedido deve ser devidamente fundamentado e pode ser objecto de recurso.\n\n6. Os Estados-membros podem exigir ao titular do direito, quando o seu pedido for aceite ou quando as medidas de intervenção referidas no nº 1, alínea a), do artigo 1º forem tomadas nos termos do nº 1 do artigo 6º, a constituição de uma garantia destinada a:\n\n- cobrir a sua eventual responsabilidade para com as pessoas abrangidas por uma das operações referidas no nº 1, alínea a), do artigo 1º, caso o procedimento iniciado em conformidade com o nº 1 do artigo 6º não seja prosseguido devido a um acto ou a uma omissão do titular do direito ou se venha a apurar que as mercadorias em causa não são de contrafacção nem mercadorias-pirata,\n\n- assegurar o pagamento do montante das despesas incorridas em conformidade com o presente regulamento, em resultado da manutenção das mercadorias sob controlo aduaneiro, nos termos do artigo 6º\n\n7. O titular do direito deve informar o serviço referido no nº 1 caso o seu direito já não esteja validamente registado ou tenha caducado."
+  },
+  "b4751eb247d013f9": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nQuando, durante um controlo efectuado no âmbito de um dos procedimentos aduaneiros referidos no nº 1, alínea a), do artigo 1º, e antes da apresentação ou da aceitação de um pedido do titular do direito, a estância aduaneira tenha fundadas suspeitas de que a mercadoria é de contrafacção ou uma mercadoria-pirata, a autoridade aduaneira pode, de acordo com as regras em vigor no Estado-membro em causa, informar o titular do direito, se este for conhecido, do risco de infracção. Nesse caso, a autoridade aduaneira é autorizada a suspender o desalfandegamento ou a proceder à detenção da mercadoria em causa durante um prazo de três dias úteis, a fim de permitir que o titular do direito apresente um pedido de intervenção em conformidade com o artigo 3º"
+  },
+  "cd7d4a74895a73c7": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nA decisão de deferimento do pedido do titular do direito será comunicada imediatamente às estâncias aduaneiras do Estado-membro susceptíveis de serem confrontadas com mercadorias suspeitas de serem de contrafacção ou mercadorias-pirata, indicadas no referido pedido.\n\nCAPÍTULO IV Condições de intervenção das autoridades aduaneiras e da autoridade competente para decidir quanto ao fundo da questão"
+  },
+  "18fb7fb87335090c": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Quando uma estância aduaneira, à qual, nos termos do artigo 5º, tenha sido comunicada a decisão de deferimento de um pedido do titular de um direito verifique, eventualmente após consulta do requerente, que as mercadorias que se encontram numa das situações referidas no nº 1, alínea a), do artigo 1º, correspondem à discrição das mercadorias de contrafacção ou das mercadorias-pirata contida na referida decisão, suspenderá a autorização de desalfandegamento ou procederá à detenção dessas mercadorias.\n\nA estância aduaneira informará imediatamente o serviço que apreciou o pedido nos termos do artigo 3º Este serviço ou a estância aduaneira informará imediatamente o declarante e o requerente da intervenção. Em conformidade com as disposições nacionais relativas à protecção dos dados de carácter pessoal, do segredo comercial e industrial, bem como do segredo profissional e administrativo, a estância aduaneira ou o serviço que apreciou o pedido informará o titular do direito, a seu pedido, do nome e endereço do declarante e, caso seja conhecido, do destinatário, a fim de lhe permitir apresentar a questão às autoridades competentes para decidirem quanto ao fundo da questão. A estância aduaneira autorizará o requerente e as pessoas abrangidas por uma das operações referidas no nº 1, alínea a), do artigo 1º a inspeccionarem as mercadorias para as quais a autorização de desalfandegamento tiver sido suspensa ou que tiverem sido detidas.\n\nAo verificar as mercadorias, a estância aduaneira pode proceder à recolha de amostras a fim de facilitar o desenrolar do processo.\n\n2. As disposições em vigor no Estado-membro em cujo território as mercadorias se encontrem numa das situações referidas no nº 1, alínea a), do artigo 1º são aplicáveis:\n\na) À apresentação do pedido à autoridade competente para decidir quanto ao fundo da questão e à informação imediata do serviço ou da estância aduaneira referidos no nº 1 sobre o pedido, a menos que este seja apresentado pelos referidos serviço ou estância aduaneira;\n\nb) À tomada da decisão por essa autoridade. Na falta de regulamentação comunitária na matéria, os critérios a seguir para a tomada dessa decisão são idênticos aos que servem para determinar se as mercadorias produzidas no Estado-membro em causa violam os direitos do titular. As decisões adoptadas pela autoridade competente devem ser fundamentadas."
+  },
+  "a61719291a7298a5": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Se, no prazo de dez dias úteis a contar da notificação da suspensão da autorização de desalfandegamento ou da detenção, a estância aduaneira referida no nº 1 do artigo 6º não tiver sido informada da apresentação do pedido à autoridade competente para decidir quanto ao fundo da questão em conformidade com o nº 2 do artigo 6º, ou não tiver recebido notificação da tomada de medidas cautelares pela autoridade competente para o efeito, será autorizado o desalfandegamento desde que tenham sido cumpridas todas as formalidades aduaneiras e posto termo à detenção.\n\nEm certos casos, este prazo poderá ser prorrogado por, no máximo, mais dez dias úteis.\n\n2. Quando se trate de mercadorias suspeitas de prejudicar os direitos relativos a desenhos ou modelos, o proprietário, o importador ou o destinatário das mercadorias terá a faculdade de obter o desalfandegamento das mercadorias em questão ou o termo da detenção contra o depósito de uma garantia, desde que:\n\n- o serviço ou a estância aduaneira referidos no nº 1 do artigo 6º tenham sido informados, no prazo referido no nº 1 do presente artigo, da apresentação do pedido à autoridade competente para decidir quanto ao fundo da questão, referida no nº 1 do mesmo artigo,\n\n- no termo deste prazo, a autoridade competente para o efeito não tenha decidido medidas cautelares, e\n\n- tenham sido cumpridas todas as formalidades aduaneiras.\n\nA garantia deve ser suficiente para proteger os interesses do titular do direito. A constituição dessa garantia não prejudica as outras possibilidades de recurso à disposição o titular do direito. Se a questão tiver sido apresentada à autoridade competente para decidir quanto ao fundo da questão por outrem que não o titular do direito relativo ao desenho ou modelo, essa garantia será liberada de este último não fizer valer o seu direito de demanda judicial no prazo de vinte dias úteis a contar do dia em que recebeu a notificação da suspensão do desalfandegamento ou da detenção. Nos casos em que se aplique o segundo parágrafo do nº 1, este prazo poderá estender-se, no máximo, até trinta dias úteis.\n\n3. As condições de armazenagem das mercadorias durante o prazo da suspensão do desalfandegamento ou da detenção serão determinadas por cada Estado-membro.\n\nCAPÍTULO V Disposições aplicáveis às mercadorias reconhecidas como mercadorias de contrafacção ou como mercadorias-pirata"
+  },
+  "5ae121978b559bf1": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Sem prejuízo dos outros meios legais a que pode recorrer o titular da marca que tenha sido reconhecida como objecto de contrafacção ou o titular do direito de autor ou do direito conexo, ou do direito relativo a um desenho ou modelo, que tenha sido reconhecidamente objecto de pirataria, os Estados-membros adoptarão as medidas necessárias para permitir às autoridades competentes:\n\na) Regra geral, e nos termos das disposições aplicáveis da legislação nacional, destruir as mercadorias reconhecidas como mercadorias de contrafacção ou como mercadorias-pirata ou colocá-las fora dos circuitos comerciais de modo a não prejudicar o titular do direito, sem pagamento de qualquer tipo de indemnização e sem encargos para a fazenda pública;\n\nb) Tomar, em relação a essas mercadorias, quaisquer outras medidas destinadas a privar efectivamente as pessoas em causa dos benefícios económicos da operação.\n\nNão são consideradas como produzindo esse efeito, nomeadamente:\n\n- a reexportação das mercadorias de contrafacção ou das mercadorias-pirata no mesmo estado em que foram importadas,\n\n- salvo casos excepcionais, a simples eliminação das marcas indevidamente ostentadas pelas mercadorias de contrafacção,\n\n- a colocação das mercadorias sob outro regime aduaneiro.\n\n2. As mercadorias de contrafacção e as mercadorias-pirata podem ser abandonadas a favor da fazenda pública. Neste caso, é aplicável a alínea a) do nº 1.\n\n3. Para além das informações prestadas por força do nº 1, segundo parágrafo, do artigo 6º e nas condições previstas nesse número, a estância aduaneira ou o serviço competente informará o titular do direito, a pedido deste, dos nomes e endereços do expedidor, do importador ou do exportador e do fabricante das mercadorias reconhecidas como mercadorias de contrafacção ou como mercadorias-pirata, bem como da quantidade das mercadorias em causa."
+  },
+  "b3d3ebbd6d16d760": {
+   "fragment_id": "CAPÍTULO VI Disposições finais — Artigo 9º",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI Disposições finais — Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI Disposições finais — Artigo 9º\n\n1. A aceitação de um pedido apresentado nos termos do nº 2 do artigo 3º só confere ao titular do direito o direito a indemnização, no caso de mercadorias de contrafacção ou de mercadorias-pirata que tiverem escapado ao controlo de uma estância aduaneira através de uma autorização de desalfandegamento ou pela falta de uma medida de detenção nos termos do nº 1 do artigo 6º, nas condições previstas pela legislação do Estado-membro em que o pedido foi apresentado.\n\n2. O exercício por uma estância aduaneira ou por outra autoridade competente para o efeito das atribuições que lhe foram cometidas em matéria de luta contra as mercadorias de contrafacção e as mercadorias-pirata apenas implica a sua responsabilidade para com as pessoas a quem digam respeito as operações referidas no nº 1, alínea a), do artigo 1º e no artigo 4º, caso tenham sofrido danos em resultado da intervenção das referidas autoridades, nas condições previstas pela legislação do Estado-membro em que o pedido foi apresentado.\n\n3. A eventual responsabilidade civil do titular do direito é regida pela legislação do Estado-membro em que as mercadorias em causa se encontram numa das situações referidas no nº 1, alínea a), do artigo 1º"
+  },
+  "e3542a4f1b7e93ed": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nSão excluídas do âmbito de aplicação do presente regulamento as mercadorias desprovidas de carácter comercial contidas nas bagagens pessoais dos viajantes nos limites fixados para a concessão de uma franquia aduaneira."
+  },
+  "f6506cc0e68a5b1c": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nCada Estado-membro decidirá das sanções a aplicar em caso de infracção ao disposto no artigo 2º Essas sanções devem ser suficientes para incitar ao respeito das disposições em causa."
+  },
+  "9fb601b090b281e0": {
+   "fragment_id": "Artigo 12º — As disposições necessárias à execução do presente regulamento serão adoptadas nos termos do procedimento previsto nos nºs3 e 4 do artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 12º — As disposições necessárias à execução do presente regulamento serão adoptadas nos termos do procedimento previsto nos nºs3 e 4 do artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º — As disposições necessárias à execução do presente regulamento serão adoptadas nos termos do procedimento previsto nos nºs3 e 4 do artigo 13º"
+  },
+  "fd212f610f5a7395": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. A Comissão será assistida pelo comité instituído pelo artigo 247º do Regulamento (CEE) nº 2913/92.\n\n2. O comité analisará todas as questões relativas à aplicação do presente regulamento que o seu presidente poderá levantar, quer por sua própria iniciativa quer a pedido do representante de um Estado-membro.\n\n3. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n4. A Comissão adoptará medidas que são imediatamente aplicáveis. Todavia, se não forem conformes com o parecer emitido pelo comité, essas medidas serão imediatamente comunicadas pela Comissão ao Conselho. Nesse caso:\n\n- a Comissão diferirá a aplicação das medidas que aprovou por um prazo de três meses, no máximo, a contar da data dessa comunicação,\n\n- o Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo previsto no primeiro travessão."
+  },
+  "f4c173011308ff51": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nOs Estados-membros comunicarão à Comissão todas as informações úteis relativas à aplicação do presente regulamento.\n\nA Comissão comunicará essas informações aos outros Estados-membros.\n\nPara efeitos do presente regulamento, é aplicável mutatis mutandis o Regulamento (CEE) nº 1468/81 do Conselho, de 19 de Maio de 1981, relativo à assistência mútua entre as autoridades administrativas dos Estados-membros e à colaboração entre estas e a Comissão, tendo em vista assegurar a boa aplicação das regulamentações aduaneira ou agrícola (6).\n\nAs modalidades do procedimento de troca de informações serão estabelecidas no âmbito das disposições de execução, em conformidade com os nºs2, 3 e 4 do artigo 13º"
+  },
+  "e5c313b68488fcdc": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nA Comissão, com base nas informações referidas no artigo 14º, informará periodicamente o Parlamento Europeu e o Conselho, sobre o funcionamento do regime, nomeadamente no que diz respeito às consequências económicas e sociais da contrafacção, e proporá, no prazo de dois anos a contar da entrada em vigor do presente regulamento, as alterações e complementos eventualmente requeridos."
+  },
+  "fb9b77703c123dd4": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nO Regulamento (CEE) nº 3842/86 do Conselho é revogado a partir da aplicação do presente regulamento."
+  },
+  "462111934ed22528": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Julho de 1995.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 22 de Dezembro de 1994.\n\nPelo Conselho\n\nO Presidente\n\nH. SEEHOFER\n\n(1) JO nº C 238 de 2. 9. 1993, p. 9.\n\n(2) JO nº C 61 de 28. 2. 1994.\n\n(3) JO nº C 52 de 19. 2. 1994, p. 37.\n\n(4) JO nº L 357 de 18. 12. 1986, p. 1.\n\n(5) JO nº L 302 de 19. 10. 1992, p. 1.\n\n(6) JO nº L 144 de 2. 6. 1981, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 945/87 (JO nº L 90 de 2. 4. 1987, p. 3)."
+  },
+  "45d727b59e7908fc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1994R3295 — PT — 01.07.2004 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31994R3295) [REGULAMENTO (CE) N.º 3295/94 DO CONSELHO](http://publications.europa.eu/resource/celex/31994R3295) [de 22 de Dezembro de 1994](http://publications.europa.eu/resource/celex/31994R3295) [que estabelece determinadas medidas relativas à introdução na Comunidade e à exportação e reexportação da Comunidade de mercadorias que violem certos direitos de propriedade intelectual](http://publications.europa.eu/resource/celex/31994R3295) (JO L 341, 30.12.1994, p.8)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1383/2003 do Conselho de 22 de Julho de 2003](http://publications.europa.eu/resource/celex/32003R1383) — L 196 — 7 — 2.8.2003"
+  }
+ }
+}

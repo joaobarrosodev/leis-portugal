@@ -1,0 +1,149 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31974L0483:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01974L0483-20141101",
+ "dre_path": null,
+ "source_lastmod": "2014-11-01",
+ "versions": [
+  {
+   "date": "1974-10-02",
+   "future": false,
+   "celex": "31974L0483",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "00ddb2d3d7a06ce6",
+    "07ae4e950a8ae781",
+    "4133f1fd9adc9ef9",
+    "a80d0cad17b2baa4",
+    "f2736f9fe96facf2",
+    "854c597c54f25a3d",
+    "e27bd648cebd5ba3",
+    "2b57ab666e6d01a2",
+    "e32a7fb8f9c8450b",
+    "9d440d37aac23850",
+    "ed7fbc3aa741ed7b"
+   ]
+  },
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "celex": "01974L0483-20141101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime ANEXO I — GENERALIDADES, DEFINIÇÕES, PEDIDO DE RECEPÇÃO CEE, RECEPÇÃO CEE, PRESCRIÇÕES GERAIS, PRESCRIÇÕES ESPECIAIS, CONFORMIDADE DA PRODUÇÃO (1)",
+    "Suprime ANEXO II — MÉTODOS PARA DETERMINAR A ALTURA DAS SALIÉNCIAS DA SUPERFÍCIE EXTERIOR",
+    "Suprime ANEXO III — MODELO"
+   ],
+   "fragments": [
+    "577ad49e481080d1"
+   ]
+  }
+ ],
+ "fragments": {
+  "00ddb2d3d7a06ce6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 74/483/CEE do Conselho, de 17 de Setembro de 1974, relativa à aproximação das legislações dos Estados-Membros respeitantes às saliências exteriores dos veículos a motor** *Jornal Oficial nº L 266 de 02/10/1974 p. 0004 - 0013 Edição especial finlandesa: Capítulo 13 Fascículo 4 p. 0058 Edição especial grega: Capítulo 13 Fascículo 3 p. 0012 Edição especial sueca: Capítulo 13 Fascículo 4 p. 0058 Edição especial espanhola: Capítulo 13 Fascículo 4 p. 0031 Edição especial portuguesa: Capítulo 13 Fascículo 4 p. 0031*\n\nDIRECTIVA DO CONSELHO de 17 de Setembro de 1974 relativa à aproximação das legislações dos Estados-membros respeitantes às saliências exteriores dos veículos a motor\n\n(74/483/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social,\n\nConsiderando que as prescrições técnicas exigidas para os veículos a motor pelas legislações nacionais respeitam, nomeadamente, às saliências exteriores;\n\nConsiderando que essas prescrições diferem de um Estado-membro para outro; que daí resulta a necessidade de que sejam adoptadas as mesmas prescrições por todos os Estados-membros, quer em complemento, quer em substituição das suas regulamentações actuais, tendo em vista nomeadamente permitir a aplicação, para cada modelo de veículo, do processo de recepção CEE que é objecto da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques (2);\n\nConsiderando que convém ter em conta certas prescrições técnicas adoptadas pela Comissão Económica para a Europa da ONU no seu Regulamento no 26 (Prescrições uniformes relativas à homologação dos veículos no que respeita às suas saliências exteriores) (3) anexado ao Acordo, de 20 de Março de 1958, relativo à adopção de condições uniformes de homologação de equipamentos e peças dos veículos a motor;\n\nConsiderando que estas prescrições se aplicam aos veículos a motor da categoria M1, constando a classificação internacional dos veículos a motor da Directiva 70/156/CEE;\n\nConsiderando que a aproximação das legislações nacionais relativas aos veículos a motor implica um reconhecimento recíproco pelos Estados-membros dos controlos efectuados por cada um deles na base nas prescrições comuns; que, para que tal sistema funcione correctamente, as referidas prescrições devem ser aplicadas por todos os Estados-membros a partir de uma mesma data;\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "07ae4e950a8ae781": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nPara efeitos do disposto na presente directiva entende-se por veículo qualquer veículo a motor da categoria M1 (definida no Anexo I da Directiva 70/156/CEE) destinado a transitar na estrada, tendo pelo menos quatro rodas e uma velocidade máxima, por construção, superior a 25 km/h."
+  },
+  "4133f1fd9adc9ef9": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros não podem recusar a recepção CEE nem a recepção de âmbito nacional de um veículo por motivos relacionados com às saliências exteriores se estas corresponderem às prescrições dos Anexos I e II."
+  },
+  "a80d0cad17b2baa4": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros não podem recusar ou proibir a venda, a matrícula, a entrada em circulação ou a utilização de um veículo por motivos relacionados com as saliências exteriores, se estas corresponderem às prescrições dos Anexos I e II."
+  },
+  "f2736f9fe96facf2": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nO Estado-membro que tiver procedido à recepção tomará as medidas necessárias para ser informado de qualquer alteração respeitante a um dos elementos ou a uma das características referidas no ponto 2.2 do Anexo I. As autoridades competentes deste Estado-membro apreciarão se devem proceder, no modelo de veículo alterado, a novos ensaios, acompanhados de novo relatório. A alteração não será autorizada no caso de se verificar nos ensaios que as prescrições da presente directiva não são respeitadas."
+  },
+  "854c597c54f25a3d": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nAs alterações necessárias para adaptar ao progresso técnico as prescrições dos Anexos I, II e III serão adoptadas em conformidade com o procedimento previsto no artigo 13o da Directiva 70/156/CEE."
+  },
+  "e27bd648cebd5ba3": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os Estados-membros adoptarão e publicarão, antes de 1 de Junho de 1975, as disposições necessárias para darem cumprimento à presente directiva e desse facto informarão imediatamente a Comissão.\n\nOs Estados-membros aplicarão estas disposições a partir de 1 de Outubro de 1975.\n\n2. A partir da notificação da presente directiva, os Estados-membros devem assegurar que a Comissão seja informada, em tempo útil que lhe permita apresentar as suas observações, de qualquer projecto de disposições de natureza legislativa, regulamentar ou administrativa que tenham a intenção de adoptar no domínio regulado pela presente directiva."
+  },
+  "2b57ab666e6d01a2": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 17 de Setembro de 1974.\n\nPelo Conselho\n\nO Presidente\n\nJ. SAUVAGNARGUES\n\n(1) JO no C 55 de 13. 5. 1974, p. 14.(2) JO no L 42 de 23. 2. 1970, p. 1.(3) Documento CEE de Genebra\n\nE/ECE/324 rev. 1/Add. 25.\n\nE/ECE/TRANS/505 rev. 1/Add. 25."
+  },
+  "e32a7fb8f9c8450b": {
+   "fragment_id": "ANEXO I — GENERALIDADES, DEFINIÇÕES, PEDIDO DE RECEPÇÃO CEE, RECEPÇÃO CEE, PRESCRIÇÕES GERAIS, PRESCRIÇÕES ESPECIAIS, CONFORMIDADE DA PRODUÇÃO (1)",
+   "type": "divisao",
+   "heading": "ANEXO I — GENERALIDADES, DEFINIÇÕES, PEDIDO DE RECEPÇÃO CEE, RECEPÇÃO CEE, PRESCRIÇÕES GERAIS, PRESCRIÇÕES ESPECIAIS, CONFORMIDADE DA PRODUÇÃO (1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — GENERALIDADES, DEFINIÇÕES, PEDIDO DE RECEPÇÃO CEE, RECEPÇÃO CEE, PRESCRIÇÕES GERAIS, PRESCRIÇÕES ESPECIAIS, CONFORMIDADE DA PRODUÇÃO (1)\n\n1. GENERALIDADES\n\n1.1. As prescrições do presente anexo não se aplicam aos espelhos retrovisores exteriores nem aos acessórios tais como as antenas de rádio e os porta-bagagens.\n\n1.2. O objectivo das presentes prescrições é reduzir o risco ou a gravidade das lesões corporais sofridas por uma pessoa atingida ou tocada pela carroçaria em caso de colisão.\n\n2. DEFINIÇÕES\n\nPara os efeitos do disposto na presente directiva, entende-se por:\n\n2.1. «Recepção do veículo» a recepção de um modelo no que diz respeito às suas saliências exteriores.\n\n2.2. «Modelo de veículo no que diz respeito às suas saliências exteriores» os veículos a motor que não apresentem diferenças essenciais entre si, podendo essas diferenças incidir, por exemplo, na forma de superfície exterior ou nos materiais de que é feita.\n\n2.3. «Superfície exterior» a unidade estrutural que constitui o exterior do veículo e compreende a capota do motor, a tampa da mala, as portas, os guarda-lamas e os elementos aparentes de reforço.\n\n2.4. «Linha de plataforma» uma linha determinada como segue:\n\ndesloca-se a toda a volta de um veículo um cone com eixo vertical e semi-ângulo de 30 °, de tal maneira que fique tangente, e o mais baixo possível, à superfície exterior da carroçaria. A linha de plataforma é o traço geométrico dos pontos de tangência. Quando se determinar a linha de plataforma, não se deve ter em conta os pontos de elevação com o macaco, os tubos de escape e as rodas. Quanto às aberturas nos guarda-lamas para as passagens das rodas, supõem-se preenchidas por uma superfície imaginária prolongando sem lacunas a superfície exterior adjacente.\n\n2.5. «Raio de curvatura» a amplitude aproximada de uma forma arredondada e não uma forma geométrica precisa.\n\n3. PEDIDO DE RECEPÇÃO CEE\n\n3.1. O pedido de recepção CEE de um modelo de veículo no que diz respeito às suas saliências exteriores será apresentado pelo fabricante do veículo ou pelo seu mandatário.\n\n3.2. O pedido é acompanhado dos documentos indicados a seguir, em triplicado:\n\n3.2.1. Fotografias das partes da frente, da retaguarda e laterais do veículo.\n\n3.2.2. Desenhos cotados dos pára-choques.\n\n3.2.3. Se apropriados, desenhos de determinadas saliências exteriores e, se for caso disso, desenhos de determinadas partes da superfície exterior referida no ponto 6.9.1.\n\n3.3. Deve ser apresentado ao serviço técnico encarregado dos ensaios de recepção:\n\n3.3.1. Um veículo representativo do modelo a recepcionar ou a (ou as) parte(s) do veículo considerada(s) como essencial(ais) para a execução dos controlos e ensaios prescritos no presente anexo.\n\n3.3.2. A pedido do dito serviço técnico, determinados documentos e determinadas amostras dos materiais utilizados.\n\n4. RECEPÇÃO CEE\n\n(4.1.)\n\n(4.2.)\n\n(4.3.)\n\n(4.4.)\n\n(4.4.1.)\n\n(4.4.2.)\n\n(4.5.)\n\n4.6. Será anexada à ficha de recepção CEE uma ficha em conformidade com o modelo constante no Anexo III.\n\n5. PRESCRIÇÕES GERAIS\n\n5.1. As disposições do presente anexo não se aplicam às partes da superfície exterior que, estando o veículo carregado e as portas, janelas e tampas de acesso etc. em posição fechada, se encontrem:\n\n5.1.1. A mais de 2 m de altura.\n\n5.1.2. Abaixo da linha de plataforma.\n\n5.1.3. Situadas de tal forma que não possam ser tocadas, em condições estáticas, por uma esfera de 100 mm de diâmetro.\n\n5.2. A superfície exterior dos veículos não deve possuir nem partes ponteagudas ou cortantes, nem saliências dirigidas para o exterior que, devido às formas, dimensões, orientação ou dureza, sejam susceptíveis de aumentar o risco ou a gravidade das lesões corporais sofridas por uma pessoa atingida ou tocada pela carroçaria em caso de colisão.\n\n5.3. A superfície exterior dos veículos não deve possuir partes orientadas para o exterior susceptíveis de atingir os peões, ciclistas ou motociclistas.\n\n5.4. Sem prejuízo do disposto nos pontos 5.5, 6.1.3, 6.3, 6.4.2, 6.7.1, 6.8.1 e 6.10, nenhum ponto saliente na superfície exterior deve ter um raio de curvatura inferior a 2,5 mm.\n\n5.5. As partes salientes na superfície exterior, constituídas por um material cuja dureza não ultrapassa 60 shore A, podem ter um raio de curvatura inferior a 2,5 mm.\n\n6. PRESCRIÇÕES ESPECIAIS\n\n6.1. Motivos ornamentais\n\n6.1.1. Os motivos ornamentais adicionados com uma saliência de mais de 10 mm em relação ao seu suporte devem retrair-se, separar-se ou dobrar-se sob uma força de 10 daN exercida numa direcção qualquer sobre o seu ponto mais saliente, num plano aproximadamente paralelo à superfície na qual estão instalados. Estas disposições não se aplicam aos motivos ornamentais existentes nas grelhas dos radiadores, às quais unicamente se aplicam as prescrições gerais do ponto 5.\n\n6.1.2. As faixas ou elementos de protecção existentes na superfície exterior não estão submetidas às prescrições do ponto 6.1.1; contudo, devem estar solidamente fixadas ao veículo.\n\n6.1.3. A prescrição relativa ao raio de curvatura mínimo de 2,5 mm não se aplica aos motivos ornamentais referidos quando tiverem menos de 5 mm de espessura; os ângulos destes motivos ornamentais orientados para o exterior devem, contudo, ser atenuados.\n\n6.2. Faróis\n\n6.2.1. As viseiras e aros salientes são admitidos nos faróis, na condição de não fazerem uma saliência de mais de 30 mm em relação à face exterior do vidro do farol, e de o seu raio de curvatura não ser, em nenhum ponto, inferior a 2,5 mm.\n\n6.2.2. Os faróis retrácteis devem corresponder às disposições do ponto 6.2.1, tanto em posição de funcionamento como em posição recolhida.\n\n6.3. Grelhas e intervalos entre elementos\n\n6.3.1. As prescrições do ponto 5.4 não se aplicam aos intervalos existentes entre elementos fixos ou móveis, incluindo os elementos de grelhas de entrada ou saída de ar e do radiador, desde que a distância entre dois elementos consecutivos não ultrapasse 40 mm. Quando essa distância estiver compreendida entre 40 mm e 25 mm, os raios de curvatura devem ser iguais ou superiores a 1 mm. Por outro lado, se a distância entre dois elementos consecutivos for igual ou inferior a 25 mm, os raios de curvatura das faces exteriores dos elementos devem ter pelo menos 0,5 mm.\n\n6.3.2. A ligação da face da frente com as faces laterais de cada elemento que forma uma grelha ou um intervalo deve ser arredondada.\n\n6.4. Limpa pára-brisas\n\n6.4.1. As escovas do limpa pára-brisas devem estar fixadas de tal modo que o veio porta-escova esteja coberto por um elemento protector que tenha um raio de curvatura que satisfaça o disposto no ponto 5.4 e uma superfície mínima de 150 mm2.\n\n6.4.2. O ponto 5.4 não se aplica nem às escovas nem à nenhum elemento de suporte. Contudo, estes órgãos não devem apresentar nem ângulos vivos, nem partes cortantes ou ponteagudas de carácter não funcional.\n\n6.5. Pára-choques\n\n6.5.1. As extremidades laterais dos pára-choques devem ser rebatidas em direcção à «superfície exterior», de modo a reduzir o perigo de se prenderem.\n\n6.5.2. Os elementos constituintes do pára-choques devem ser concebidos de tal maneira que as superfícies rígidas voltadas para o exterior tenham um raio de curvatura mínimo de 5 mm.\n\n6.6. Puxadores, dobradiças e botões das portas, malas e taipais; orifícios e tampas de reservatório.\n\n6.6.1. Estes elementos não devem ter uma saliência de mais de 40 mm para os puxadores das portas laterais e de 30 mm em todos os outros casos.\n\n6.6.2. Se os puxadores das portas laterais forem do tipo giratório, devem obedecer às seguintes condições:\n\n6.6.2.1. A extremidade aberta do puxador deve estar orientada em direcção à parte de trás e o puxador deve estar colocado de modo a rodar paralelamente ao plano da porta e não girar para o exterior.\n\n6.6.2.2. A extremidade do puxador deve estar rebatida para a porta e colocada dentro de uma cavidade.\n\n6.7. Porcas da roda, capas de cubos e tampões de rodas.\n\n6.7.1. O disposto no ponto 5.4 não se aplica a estes elementos.\n\n6.7.2. As porcas da roda, capas de cubos e tampões de rodas não devem possuir saliências em forma de barbatana.\n\n6.7.3. Quando em marcha em linha recta, nenhuma parte das rodas, excluindo os pneumáticos, situada acima do plano horizontal que passa pelo seu eixo de rotação, deve ficar saliente para além da projecção vertical, num plano horizontal, da superfície ou estrutura exterior. Contudo, se exigências funcionais o justificarem, os tampões de rodas que cobrem as porcas de rodas e de cubos podem ficar salientes para além da projecção vertical da superfície ou da estrutura exterior, desde que a superfície da parte saliente tenha um raio de curvatura pelo menos igual a 30 mm e que a saliência, em relação à projecção vertical da superfície ou estrutura exterior, não exceda em nenhum caso 30 mm.\n\n6.8. Arestas em chapa\n\n6.8.1. As arestas em chapa, tais como os rebordos das goteiras e os trilhos das portas de correr, são admitidas na condição de que os seus rebordos sejam rebatidos ou que estas arestas estejam cobertas por um elemento protector correspondendo às disposições do presente anexo que lhe sejam aplicáveis.\n\n6.9. Painéis de carroçaria\n\n6.9.1. O raio de curvatura dos vincos dos painéis de carroçaria pode ter menos de 2,5 mm desde que não seja inferior a um décimo da altura «H» da saliência, medida em conformidade com o método exposto no Anexo II.\n\n6.10. Deflectores laterais de ar e chuva\n\n6.10.1. As arestas dos deflectores laterais susceptíveis de serem dirigidas para o exterior devem ter um raio de curvatura de pelo menos 1 mm.\n\n6.11. Pontos de elevação com o macaco\n\n6.11.1. Os pontos de elevação com o macaco não devem ter uma saliência superior a 10 mm em relação à projecção vertical da linha da plataforma que passa directamente acima.\n\n(7.)\n\n(7.1.)\n\n(7.1.1.)\n\n(7.1.2.)\n\n(7.2.)\n\n8. CONFORMIDADE DA PRODUÇÃO\n\n(8.1.)\n\n8.2. A fim de verificar a conformidade do modelo recepcionado, procede-se a um número suficiente de controlos por amostragem nos veículos de série.\n\n(9.)\n\n(9.1.)\n\n(9.2.)\n\n(10.)\n\n(1) O texto do presente anexo é análogo no essencial ao do Regulamento no 26 da Comissão Económica para a Europa da ONU; em especial, as subdivisões em pontos são as mesmas; se um ponto do Regulamento no 26 não tiver correspondência no presente anexo, o seu número é indicado pro memoria, entre parêntesis."
+  },
+  "9d440d37aac23850": {
+   "fragment_id": "ANEXO II — MÉTODOS PARA DETERMINAR A ALTURA DAS SALIÉNCIAS DA SUPERFÍCIE EXTERIOR",
+   "type": "divisao",
+   "heading": "ANEXO II — MÉTODOS PARA DETERMINAR A ALTURA DAS SALIÉNCIAS DA SUPERFÍCIE EXTERIOR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — MÉTODOS PARA DETERMINAR A ALTURA DAS SALIÉNCIAS DA SUPERFÍCIE EXTERIOR\n\n1. A altura «H» de uma saliência determina-se graficamente em relação à circunferência de um círculo com 165 mm de diâmetro, tangente interiormente aos quatro contornos exteriores da superfície exterior da parte a verificar.\n\n2. A altura «H» é o valor máximo da distância, medida numa recta que passa pelo centro do círculo com 165 mm de diâmetro, entre a circunferência do referido círculo e o contorno exterior da saliência (ver Figura 1).\n\n3. Quando a saliência tiver uma forma tal que uma porção do contorno exterior da superfície exterior da parte examinada não puder ser tocada do exterior por um círculo com 100 mm de diâmetro, assume-se que o contorno da superfície neste local corresponde à porção da circunferência do círculo com 100 mm de diâmetro compreendida entre os pontos de tangência com o contorno exterior (ver Figura 2).\n\n4. Devem ser fornecidos pelo fabricante esquemas, em corte, da superfície exterior das partes examinadas a fim de permitir determinar a altura das saliências pelo método acima referido."
+  },
+  "ed7fbc3aa741ed7b": {
+   "fragment_id": "ANEXO III — MODELO",
+   "type": "divisao",
+   "heading": "ANEXO III — MODELO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — MODELO\n\nDenominação da autoridade administrativa\n\nANEXO A FICHA DE RECEPÇÃO CEE DE UM MODELO DE VEÍCULO NO QUE RESPEITA ÀS SUAS SALIÊNCIAS EXTERIORES\n\n(no 2 do artigo 4o e artigo 10o da Directiva do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação de legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques)\n\nNo de recepção...\n\n1. Marca de fabrico ou comercial do veículo a motor...\n\n2. Modelo do veículo...\n\n3. Nome e morada do fabricante...\n\n4. Eventualmente, nome e morada do mandatário de fabricante...\n\n5. Veículo apresentado à recepção em...\n\n6. Serviço técnico encarregado dos ensaios de recepção...\n\n7. Data do relatório emitido por este serviço...\n\n8. Número do relatório emitido por este serviço...\n\n9. A recepção no que respeita às saliências exteriores, é concedida/recusada (1)...\n\n10. Local...\n\n11. Data...\n\n12. Assinatura...\n\n13. São anexados os seguintes documentos que ostentam o número de recepção acima referido:\n\n... fotografias das partes da frente, da retaguarda e laterais do veículo,\n\n... desenhos cotades dos pára-choques e, se for caso disso,\n\n... desenhos de determinadas saliências.\n\n(1) Riscar o que não interessa."
+  },
+  "577ad49e481080d1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1974L0483 — PT — 01.11.2014 — 009.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31974L0483) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31974L0483) [de 17 de Setembro de 1974](http://publications.europa.eu/resource/celex/31974L0483) [relativa à aproximação das legislações dos Estados-membros respeitantes às saliências exteriores dos veículos a motor](http://publications.europa.eu/resource/celex/31974L0483) [(74/483/CEE)](http://publications.europa.eu/resource/celex/31974L0483) (JO L 266, 2.10.1974, p.4)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 661/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0661) — L 200 — 1 — 31.7.2009"
+  }
+ }
+}

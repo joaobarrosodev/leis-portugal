@@ -34,6 +34,61 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-08-05'
+version_history:
+  file: regulamento-ue-2007-676.versoes.json
+  count: 3
+  source_lastmod: '2018-08-05'
+  versions:
+  - date: '2007-06-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-01'
+    amending: eu:celex:32009R1224:por
+    amending_title: REGULAMENTO (CE) N. o 1224/2009 do Conselho de 20 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 19.º — Assistência ao abrigo do Fundo Europeu das Pescas
+    - Altera Artigo 20.º — Entrada em vigor
+    - Altera Notas
+    - Suprime CAPÍTULO IV
+    - Suprime CONTROLO, INSPECÇÃO E FISCALIZAÇÃO
+    - Suprime Artigo 10.º — Comunicações sobre o esforço de pesca
+    - Suprime Artigo 11.º — Margem de tolerância
+    - Suprime Artigo 12.º — Pesagem das quantidades desembarcadas
+    - Suprime Artigo 13.º — Notificação prévia
+    - Suprime Artigo 14.º — Estiva separada da solha e do linguado
+    - Suprime Artigo 15.º — Transporte de linguado e de solha
+    - Suprime Artigo 16.º — Proibição de transbordos de solha e de linguado
+  - date: '2018-08-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime OBJECTO E OBJECTIVO
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Limites biológicos seguros
+    - Suprime Artigo 3.º — Objectivos do plano plurianual na primeira fase
+    - Suprime Artigo 4.º — Objectivos do plano plurianual na segunda fase
+    - Suprime Artigo 5.º — Disposições transitórias
+    - Suprime CAPÍTULO II
+    - Suprime TOTAIS ADMISSÍVEIS DE CAPTURAS
+    - Suprime Artigo 6.º — Fixação de totais admissíveis de capturas (TAC)
+    - Suprime Artigo 7.º — Procedimento de fixação do TAC para a solha
+    - Suprime Artigo 8.º — Procedimento de fixação do TAC para o linguado
+    - Suprime CAPÍTULO III
+    - Suprime LIMITAÇÃO DO ESFORÇO DE PESCA
+    - Suprime Artigo 9.º — Limitação do esforço de pesca
+    - Suprime CAPÍTULO V
+    - Suprime ACOMPANHAMENTO
+    - Suprime Artigo 17.º — Avaliação das medidas de gestão
+    - Suprime Artigo 18.º — Circunstâncias especiais
+    - Suprime CAPÍTULO VI
+    - Suprime DISPOSIÇÕES FINAIS
+    - Suprime Artigo 19.º — Assistência ao abrigo do Fundo Europeu das Pescas
+    - Suprime Artigo 20.º — Entrada em vigor
+    - Suprime Notas
 identifiers:
   celex: 32007R0676
   eli: http://data.europa.eu/eli/reg/2007/676/oj
@@ -48,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f7c2db62-7eb6-4df3-9c3f-ecfe9210b62f.0018
   content_url: http://publications.europa.eu/resource/cellar/3fc873de-bd7a-4c69-ae39-7c34506da191.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0676-20180805
-  retrieved_at: '2026-10-22T03:13:08Z'
+  retrieved_at: '2026-10-22T15:08:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T11:29:19.588+01:00'
 integrity:
@@ -57,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:08Z'
-  notes: Texto consolidado 02007R0676-20180805.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:08:55Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2007-676.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -116,16 +171,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:08Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:08:55Z'
+  warnings: []
   errors: []
 ---
 

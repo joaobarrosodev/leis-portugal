@@ -1,0 +1,259 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31976L0761:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0761-20141101",
+ "dre_path": null,
+ "source_lastmod": "2014-11-01",
+ "versions": [
+  {
+   "date": "1976-09-27",
+   "future": false,
+   "celex": "31976L0761",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a4957bd40510ed1d",
+    "85a1e73683303ff6",
+    "594777506a2dcd53",
+    "9984029356063379",
+    "500692e2723bfef1",
+    "1f9964140ea17517",
+    "3703327c6ba5e19d",
+    "3ad37fc4d1057050",
+    "f975760fe1895b27",
+    "4d123c86d0fa70c5",
+    "93570642041164d3",
+    "c5eba13490b3691b",
+    "fc1208fd759289e1",
+    "8a6fa7192d8da15b",
+    "ab2ff7650b16a9e5",
+    "a8827ea2ef71a67c",
+    "d2226005be2d2a9d",
+    "d5b538e703e8b352",
+    "73804b0cd4fabec4",
+    "2f7ecc257ff3ae38",
+    "a4eec67bcd9d320e",
+    "13a455102d422984"
+   ]
+  },
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "celex": "01976L0761-20141101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Anexo II - Modelo de ficha de homologação CEE",
+    "Suprime Anexo IV - Modelo de ficha de homologação CEE — Anexo V (1)() - Apêndices 1 a 4: figuras e quadros",
+    "Suprime Anexo VI - Condições de homologação CEE e marcação — - Apêndice: exemplos de marcas de homologação CEE",
+    "Suprime ANEXO I — PRESCRIÇÕES RELATIVAS AOS FARÕIS PARA VEICULOS A MOTOR COM FUNÇÃO DE MÁXIMOS E/OU DE MÉDIOS",
+    "Suprime ANEXO II — MODELO DE FICHA DE HOMOLOGAÇÃO CEE",
+    "Suprime ANEXO III — PRESCRIÇÕES RELATIVAS ÀS LÂMPADAS ELÉCTRICAS DE INCANDESCÊNCIA PARA FAROIS COM FUNÇÃO DE MÁXIMOS E/OU DE MÉDIOS",
+    "Suprime ANEXO IV — MODELO DE FICHA DE HOMOLOGAÇÃO CEE",
+    "Suprime ANEXO V — Apêndice 1",
+    "Suprime ANEXO VI — CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO"
+   ],
+   "fragments": [
+    "26df32f0c96e2094"
+   ]
+  }
+ ],
+ "fragments": {
+  "a4957bd40510ed1d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 76/761/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-Membros respeitantes aos faróis para veículos a motor com função de máximos e/ou de médios, assim como às lâmpadas eléctricas de incandescência para esses faróis** *Jornal Oficial nº L 262 de 27/09/1976 p. 0096 - 0121 Edição especial finlandesa: Capítulo 13 Fascículo 5 p. 0125 Edição especial grega: Capítulo 13 Fascículo 4 p. 0067 Edição especial sueca: Capítulo 13 Fascículo 5 p. 0125 Edição especial espanhola: Capítulo 13 Fascículo 5 p. 0135 Edição especial portuguesa: Capítulo 13 Fascículo 5 p. 0135*\n\nDIRECTIVA DO CONSELHO de 27 de Julho de 1976 relativa à aproximação das legislações dos Estados-membros respeitantes aos faróis para veículos a motor com função de máximos e/ou de médios, assim como às lâmpadas eléctricas de incandescência para esses faróis\n\n(76/761/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social, (2)\n\nConsiderando que as prescrições técnicas exigidas para os veículos a motor pelas legislações nacionais respeitam, nomeadamente, aos faróis que asseguram a função de máximos e/ou de médios, assim como às lâmpadas para estes faróis;\n\nConsiderando que estas prescrições diferem de um Estado-membro para outro; que daí resulta a necessidade de que sejam adoptadas as mesmas prescrições por todos os Estados-membros, quer em complemento quer em substituição das suas regulamentações actuais, tendo em vista nomeadamente permitir a aplicação, para cada modelo de veículo, do processo de recepção CEE que é objecto da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e dos seus reboques (3);\n\nConsiderando que, pela Directiva 76/756/CEE (4), o Conselho adoptou as prescrições comuns respeitantes à instalação dos dispositivos de iluminação e de sinalização luminosa dos veículos a motor e seus reboques;\n\nConsiderando que, por um processo de homologação harmonizado dos faróis que asseguram a função de máximos e/ou de médios assim como das lâmpadas destes faróis, cada Estado-membro terá a possibilidade de verificar o cumprimento das prescrições comuns de construção e de ensaio e de informar os outros Estados-membros da verificação feita pelo envio de uma cópia da ficha de homologação estabelecida para cada tipo destes faróis ou lâmpadas; que a aposição de uma marca de homologação CEE em todos os dispositivos fabricados em conformidade com o tipo homologado torna desnecessário um controlo técnico destes dispositivos nos outros Estados-membros;\n\nConsiderando que convém ter em conta certas prescrições técnicas adoptadas pela Comissão Económica para a Europa da ONU no seu Regulamento no 1 («Prescrições uniformes relativas à homologação dos faróis para veículos automóveis que emitem um feixe luminoso de médios assimétrico e um feixe luminoso de máximos, ou um ou outro destes feixes luminosos») (5), e o seu Regulamento no 2 («Prescrições uniformes relativas à homologação das lâmpadas eléctricas de incandescência para os faróis que emitem um feixe luminoso de médios assimétrico e um feixe luminoso de máximos, ou um ou outro destes feixes luminosos») (5) anexados ao Acordo de 20 de Março de 1958, respeitante à adopção de condições uniformes de homologação e ao reconhecimento recíproco de homologação dos equipamentos e peças de veículos a motor;\n\nConsiderando que a aproximação das legislações nacionais respeitantes aos veículos a motor implica um reconhecimento recíproco pelos Estados-membros dos controlos efectuados por cada um deles com base nas prescrições comuns,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "85a1e73683303ff6": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Cada Estado-membro homologará qualquer tipo de farol que assegure a função de máximos e/ou de médios se ele estiver de acordo com as prescrições de construção e de ensaio constantes dos Anexos I et VI e qualquer tipo de lâmpada incandescente para estes faróis que estejam de acordo com as prescrições de construção e de ensaio constantes dos Anexos III e VI.\n\n2. O Estado-membro que tiver procedido à homologação CEE tomará as medidas necessárias para controlar, tanto quanto necessário, a conformidade da produção com o tipo homologado, se for caso disso em colaboração com as autoridades competentes dos outros Estados-membros. Este controlo limitar-se-á a amostragens."
+  },
+  "594777506a2dcd53": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros atribuirão ao fabricante ou ao seu mandatário uma marca de homologação CEE conforme aos modelos estabelecidos no Anexo VI para cada tipo de farol com função de máximos e/ou de médios ou de lâmpada para estes faróis que homologuem por força do artigo 1o.\n\nOs Estados-membros tomarão todas as disposições necessárias para impedir a utilização de marcas que possam criar confusões entre os faróis com função de máximos e/ou de médios e às lâmpadas para estes projectores cujo tipo tenha sido homologado por força do artigo 1o, e outros dispositivos."
+  },
+  "9984029356063379": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os Estados-membros não podem proibir a colocação no mercado de faróis com função de máximos e/ou de médios e de lâmpadas para estes faróis, por motivos relacionados com a sua construção ou a seu funcionamento, se estes ostentarem a marca de homologação CEE.\n\n2. Contudo, um Estado-membro pode proibir a colocação no mercado de faróis com função de máximos e/ou de médios e de lâmpadas para estes faróis que tenham a marca de homologação CEE mas que, de forma sistemática, não sejam conformes com o tipo homologado.\n\nEste Estado informará imediatamente os outros Estados-membros e a Comissão das medidas tomadas, especificando os motivos da sua decisão."
+  },
+  "500692e2723bfef1": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nAs autoridades competentes de cada Estado-membro enviarão às dos outros Estados-membros, no prazo de um mês, uma cópia das fichas de homologação, cujos modelos figuram nos Anexos II e IV, estabelecidas para cada tipo de farol com função de máximos e/ou de médios e de lâmpadas para estes faróis, que homologuem ou recusem homologar."
+  },
+  "1f9964140ea17517": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Se o Estado que procedeu à homologação CEE verificar que vários faróis com função de máximos e/ou de médios ou lâmpadas para estes faróis que ostentam a mesma marca de homologação CEE não são conformes ao tipo que homologou, tomará as medidas necessárias para que a conformidade da produção com o tipo homologado seja assegurada. As autoridades competentes deste Estado avisarão as dos outros Estados-membros das medidas tomadas, que podem ir até à revogação homologação CEE, quando a não conformidade seja sistemática. As referidas autoridades tomarão as mesmas disposições se forem informadas pelas autoridades competentes de um outro Estado-membro da existência de tal falta de conformidade.\n\n2. As autoridades competentes dos Estados-membros informar-se-ao mutuamente, no prazo de um mês, da revogação de uma homologação CEE concedida, assim como dos motivos que justificam esta medida."
+  },
+  "3703327c6ba5e19d": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nQualquer decisão de recusa ou revogação da homologação ou de proibição da colocação no mercado ou da utilização, tomada por força das disposições adoptadas em execução da presente directiva, será fundamentada de forma precisa. Será notificada ao interessado, com a indicação das vias de recurso na legislação em vigor nos Estados-membros e dos prazos nos quais estes recursos podem ser interpostos."
+  },
+  "3ad37fc4d1057050": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros não podem recusar a recepção CEE nem a recepção de âmbito nacional de um veículo por motivos relacionados com os faróis com função de máximos e/ou de médios ou a lâmpadas para estes faróis, se estes ostentarem a marca de homologação CEE e estiverem montados em conformidade com as prescrições constantes da Directiva 76/756/CEE."
+  },
+  "f975760fe1895b27": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros não podem recusar ou proibir a venda, a matrícula, a entrada em circulação ou a utilização de um veículo por motivos relacionados com os faróis com função de máximos e/ou de médios ou a lâmpadas para estes faróis, se estes ostentarem a marca de homologação CEE e estiverem montados em conformidade com as prescrições constantes da Directiva 76/756/CEE."
+  },
+  "4d123c86d0fa70c5": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nPara efeitos do disposto na presente directiva, entende-se por veículo qualquer veículo a motor destinado a transitar na estrada, com ou sem carroçaria, tendo pelo menos quatro rodas e uma velocidade máxima de construção superior a 25 km/h, com excepção dos veículos que se deslocam sobre carris, dos tractores e máquinas agrícolas, bem como das máquinas de obras públicas."
+  },
+  "93570642041164d3": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nAs alterações necessárias para adaptar ao progresso técnico as prescrições dos anexos serão adoptadas em conformidade com o procedimento previsto no artigo 13o da Directiva 70/156/CEE."
+  },
+  "c5eba13490b3691b": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nOs Estados-membros adoptarão e publicarão, antes de 1 de Julho de 1977, as disposições necessárias para darem cumprimento à presente directiva e desse facto informarão imediatamente a Comissão. Aplicarão estas disposições o mais tardar a partir de 1 de Outubro de 1977.\n\n2. A partir da notificação da presente directiva, os Estados-membros devem assegurar que a Comissão seja informada, em tempo útil que lhe permita apresentar as suas observações, de qualquer projecto de disposições de natureza legislativa, regulamentar ou administrativa que tenham a intenção de adoptar no domínio regulado pela presente directiva."
+  },
+  "fc1208fd759289e1": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 27 de Julho de 1976.\n\nPelo Conselho\n\nO Presidente\n\nM. van der STOEL\n\n(1) JO no C 76 de 7. 4. 1975, p. 37.(2) JO no C 255 de 7. 11. 1975, p. 2.(3) JO no L 42 de 23. 2. 1970, p. 1.(4) JO no L 262 de 27. 9. 1976, p. 1.(5) Documento da Comissão Económica para a Europa\n\nE/ECE/324 Add. 1 de 24. 3. 1960\n\nE/ECE/TRANS/505 Add. 1 de 24. 3. 1960\n\nLista dos anexos\n\nAnexo I (1)() - Prescrições relativas aos faróis para veículos a motor com função de máximos e/ou de médios."
+  },
+  "8a6fa7192d8da15b": {
+   "fragment_id": "Anexo II - Modelo de ficha de homologação CEE",
+   "type": "divisao",
+   "heading": "Anexo II - Modelo de ficha de homologação CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II - Modelo de ficha de homologação CEE\n\nAnexo III (1)() - Prescrições relativas às lâmpadas eléctricas de incandescência para os faróis com função de máximos e/ou de médios."
+  },
+  "ab2ff7650b16a9e5": {
+   "fragment_id": "Anexo IV - Modelo de ficha de homologação CEE — Anexo V (1)() - Apêndices 1 a 4: figuras e quadros",
+   "type": "divisao",
+   "heading": "Anexo IV - Modelo de ficha de homologação CEE — Anexo V (1)() - Apêndices 1 a 4: figuras e quadros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV - Modelo de ficha de homologação CEE — Anexo V (1)() - Apêndices 1 a 4: figuras e quadros"
+  },
+  "a8827ea2ef71a67c": {
+   "fragment_id": "Anexo VI - Condições de homologação CEE e marcação — - Apêndice: exemplos de marcas de homologação CEE",
+   "type": "divisao",
+   "heading": "Anexo VI - Condições de homologação CEE e marcação — - Apêndice: exemplos de marcas de homologação CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI - Condições de homologação CEE e marcação — - Apêndice: exemplos de marcas de homologação CEE\n\n(1)() As exigências técnicas deste anexo são análogas às dos Regulamentos n 1 e 2 da Comissão Económica para a Europa: em particular, as subdivisões em pontos são as mesmas. Assim, se um ponto dos Regulamentos n 1 e 2 não tiver correspondência na presente directiva, o seu número é indicado por memória, entre parêntesis."
+  },
+  "d2226005be2d2a9d": {
+   "fragment_id": "ANEXO I — PRESCRIÇÕES RELATIVAS AOS FARÕIS PARA VEICULOS A MOTOR COM FUNÇÃO DE MÁXIMOS E/OU DE MÉDIOS",
+   "type": "divisao",
+   "heading": "ANEXO I — PRESCRIÇÕES RELATIVAS AOS FARÕIS PARA VEICULOS A MOTOR COM FUNÇÃO DE MÁXIMOS E/OU DE MÉDIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — PRESCRIÇÕES RELATIVAS AOS FARÕIS PARA VEICULOS A MOTOR COM FUNÇÃO DE MÁXIMOS E/OU DE MÉDIOS\n\n(DEFINIÇÃO, ESPECIFICAÇÕES GERAIS, ILUMINAÇÃO, CONFORMIDADE DE PRODUÇÃO, FAROL-PADRAO)\n\n1. DEFINIÇÃO\n\n1.1. Tipo de faróis\n\nPor tipo de faróis, entende-se os faróis que não apresentem entre si diferenças essenciais, podendo estas diferenças dizer respeito, nomeadamente, aos seguintes pontos:\n\n1.1.1. Marcas de fabrico ou comerciais.\n\n1.1.2. Características do sistema óptico.\n\n1.1.3. Elementos adicionais susceptíveis de modificar os resultados ópticos por reflexão, refracção, refracção ou absorção.\n\n1.1.4. Especialização para a circulação à direita ou para a circulação à esquerda ou a possibilidade de utilização para os dois sentidos de circulação.\n\n1.1.5. Obtenção de um feixe luminoso de médios ou de máximos ou dos dois feixes luminosos.\n\n(2.)\n\n(3.)\n\n(4.)\n\n5. ESPECIFICAÇÕES GERAIS\n\n5.1. Cada uma das amostras deve obedecer às especificações indicadas nos pontos 6 e 7.\n\n5.2. Os faróis devem ser concebidos e construídos de tal forma que, nas condições normais de utilização, e apesar das vibrações às quais podem estar sujeitos, o seu bom funcionamento esteja assegurado e conservem as características fotométrica impostas pela presente directiva.\n\n5.3. As partes destinadas a fixar a lâmpada ao reflector, devem ser construídas por forma a que, mesmo na obscuridade, a lâmpada possa ser fixada sem risco de erro na sua posição adequada (1).\n\n5.4. Para os faróis construídos de forma a obedecer ao mesmo tempo às exigências dos Estados-membros onde a circulação se efectua à direita e às dos Estados-membros onde a circulação se efectua à esquerda, a adaptação a um determinado sentido de circulação pode ser obtida por uma regulação inicial apropriada do equipamento do veículo ou por uma manobra voluntária do utilizador. Esta regulação inicial ou esta manobra voluntária consiste, por exemplo, numa regulação angular determinada, quer do bloco óptico sobre o veículo, quer da lâmpada em relação ao bloco óptico. Em todo o caso, só devem ser possíveis duas posições de regulação diferentes nitidamente determinadas e respondendo cada uma a um sentido de circulação (direito ou esquerdo), e deve ser impossível o deslocamento não premeditado de uma posição para a outra, assim como a existência de posições intermédias. Quando a lâmpada pode ocupar duas posições diferentes, as partes destinadas a fixar a lâmpada ao reflector devem ser concebidas e construídas por forma a que, em cada uma das suas duas posições, a lâmpada seja fixada com a mesma precisão que a exigida para os faróis para um só sentido de circulação.\n\nA verificação da conformidade com as prescrições do presente ponto 5 efectua-se por inspecção visual e, se necessário, por meio de uma montagem de ensaio.\n\n6. ILUMINAÇÃO\n\n6.1. Os faróis devem ser construídos de tal forma que o filamento de médios das lâmpadas adequadas dê uma iluminação não deslumbrante e no entanto suficiente, dando o filamento de máximos das lâmpadas adequadas, por seu lado, uma boa iluminação.\n\nPara verificar a iluminação produzida pelo farol, utiliza-se um painel colocado verticalmente a uma distância de 25 mà frente do farol (ver apêndices 1 e 2 do Anexo V) e perpendicularmente ao eixo deste e uma lâmpada-padrão, construída para uma tensão nominal de 12 V, de ampola lisa e incolor, tendo, a esta tensão, as seguintes características:\n\n\"\" ID=\"1\">Filamento de médios> ID=\"2\">40 ± 5 %> ID=\"3\">450 ± 10 %\"> ID=\"1\">Filamento de máximos> ID=\"2\">45 + 0 %\n\n- 10 %> ID=\"3\">700 ± 10 %\">\n\nAs dimensões que determinam a posição dos filamentos no interior da lâmpada-padrão são representadas na figura do apêndice 3 do Anexo V. A lâmpada-padrão é, alimentada sob a tensão que permite obter o fluxo luminoso nominal.\n\n6.2. O feixe luminoso dos médios deve produzir, sobre o painel, um recorte suficientemente nítido para permitir uma regulação com a ajuda deste recorte. Do lado oposto ao sentido da circulação para a qual o farol está previsto, o recorte deve ser horizontal; do outro lado, deve ser horizontal ou estar situado dentro de um ângulo de 15o acima da horizontal.\n\nO farol está orientado de tal forma que:\n\n- para os faróis que devem obedecer às exigências da circulação à direita, o recorte na metade esquerda do painel (2) seja horizontal e para os faróis que devem obedecer às exigências da circulação à esquerda, o recorte na metade direita do painel seja horizontal,\n\n- esta parte horizontal do recorte encontra-se, sobre o painel, a 25 cm abaixo do traço do plano horizontal que passa pelo centro focal do farol (ver apêndices 1 e 2 do Anexo V),\n\n- o painel esteja disposto como indicado nos apêndices 1 e 2 do Anexo V (3).\n\nRegulado desta forma, o farol deve preencher as condições enunciadas nos pontos 6.3. e 6.4. se for destinado a dar um feixe luminoso de médios e um feixe luminoso de máximos e apenas as condições enunciadas no ponto 6.3. se a sua homologação só for pedida para um feixe luminoso de médios (4).\n\nNo caso em que um farol, regulado na forma acima indicada, não preencher as condições enunciadas nos pontos 6.3. e 6.4., é permitido modificar a regulação deste farol contanto que não se desloque lateralmente mais de um grau (= 440 mm) para a direita ou para a esquerda o eixo do feixe luminoso ou o ponto de intersecção, definido nos apêndices 1 e 2 do Anexo V (5). Para facilitar a regulação com a ajuda do recorte, pode ocultar-se parcialmente o farol a fim de que o recorte seja mais nítido.\n\nSe o farol for destinado a dar unicamente um feixe luminoso de máximos, ele é regulado de tal forma que a região de iluminação seja centrada no ponto de intersecção das linhas hh e vv. Um tal farol deve preencher apenas as condições enunciadas no ponto 6.4.\n\n6.3. A iluminação produzida no painel pelo feixe luminoso de médios, deve preencher as prescrições do seguinte quadro:\n\n\"\" ID=\"1\">Ponto B 50 L> ID=\"2\">Ponto B 50 R> ID=\"3\">& le; 0,3\"> ID=\"1\">Ponto B 75 R> ID=\"2\">Ponto B 75 L> ID=\"3\">& ge; 6,0\"> ID=\"1\">Ponto B 50 R> ID=\"2\">Ponto B 50 L> ID=\"3\">& ge; 6,0\"> ID=\"1\">Ponto B 25 L> ID=\"2\">Ponto B 25 R> ID=\"3\">& ge; 1,5\"> ID=\"1\">Ponto B 25 R> ID=\"2\">Ponto B 25 L> ID=\"3\">& ge; 1,5\"> ID=\"1\" ASSH=\"2\">Qualquer ponto na zona III> ID=\"3\">& le; 0,7\"> ID=\"1\" ASSH=\"2\">Qualquer ponto na zona IV> ID=\"3\">& ge; 2,0\"> ID=\"1\" ASSH=\"2\">Qualquer ponto na zona I> ID=\"3\">& le; 20,0\">\n\nQuando o fluxo da lâmpada-padrão utilizado para a medição for diferente de 450 lumens, as medições brutas devem ser corrigidas proporcionalmente aos valores dos fluxos luminosos.\n\nNão devem existir variações laterais que prejudiquem uma boa visibilidade em nenhuma das zonas I, II, III, e IV.\n\nOs faróis que devem obedecer às exigências da circulação à direita e às da circulação à esquerda devem preencher, para cada uma das duas posições de regulação do bloco óptico ou da lâmpada, as condições acima indicadas para o sentido de circulação correspondente à posição de regulação considerada.\n\n6.4. A medição da iluminação produzida no painel pelo feixe luminoso de máximos efectua-se com uma regulação do farol idêntica à utilizada para as medições definidas no ponto 6.3. ou, se se tratar de um farol que dê unicamente um feixe luminoso de máximos, em conformidade com e último parágrafo do ponto 6.2.\n\nA iluminação produzida no painel pelo feixe luminoso de máximos deve obedecer às seguintes prescrições:\n\no ponto de intersecção H das linhas hh e vv deve encontrar-se no interior da isolux correspondente a 90 % da iluminação máxima. Este valor não deve ser inferior a 32 lux.\n\nPartindo do ponto H horizontalmente para a direita e para a esquerda, a iluminação deve ser pele menos igual a 16 lux até uma distância de 1125 mm e pelo menos igual a 4 lux até uma distância de 2250 mm. Se o fluxo da lâmpada-padrão utilizada para a medição for diferente de 700 lumens, as medições brutas devem ser corrigidas proporcionalmente ao valor dos fluxos luminosos.\n\n6.5. As iluminações no painel, mencionadas nos pontos 6.3. e 6.4. são medidas por meio de uma célula fotoeléctrica com superficie útil compreendida no interior de um quadrado com 65 mm de lado.\n\n(7.)\n\n8. CONFORMIDADE DA PRODUÇÃO\n\nQualquer farol com uma marca de homologação CEE deve estar em conformidade com o tipo homologado e preencher as condições fotométricas acima indicadas.\n\n(9.)\n\n10. FAROL-PADRAO (6)\n\n10.1. Por farol-padrão, entende-se um farol:\n\n- que preenche as condições de homologação acima mencionadas,\n\n- que tem um diâmetro efectivo pelo menos igual a 160 mm,\n\n- que, nos diversos pontos e nas diversas zonas previstas no ponto 6.3. dá, com uma lâmpada-padrão, iluminações:\n\n- no máximo iguais a 90 % dos limites máximos,\n\n- pelo menos iguais a 120 % dos limites mínimos,\n\ntais como são definidas no quadro do ponto 6.3.\n\n(11.)\n\n(12.)\n\n(1) Considera-se que um dispositivo obedece às prescrições deste ponto quando a colocação da lâmpada no farol se pode fazer com facilidade e o engate do ressalto de orientação no entalhe pode ser realizado mesmo na obscuridade sem erro de orientação, devendo a largura deste entalhe ser perfeitamente adequada. Considera-se que um dispositivo que permite assegurar da má posição da lâmpada por uma inclinação perceptível desta, inclinação que não existe quando a lâmpada está na posiçcorrecta, responde suficientemente às prescrições do ponto 5.3.(2) O painel de regulação deve ter largura suficiente para permitir o exame do recorte numa extensão de pelo menos 5o para cada lado da linha vv (ver apêndices 1 e 2 do Anexo V).(3) No caso de um farol destinado a obedecer às prescrições da presente directiva apenas para o feixe luminoso médio, se o eixo focal sensivelmente divergir da direcção geral do feixe luminoso, a regulação lateral faz-se de modo a obedecer às exigências impostas para as iluminações nos pontos 75 e 50.(4) Um tal farol de médios pode ter um feixe de máximos para o qual não são prescritas especificações.(5) O limite de desregulação de 1o para a direita ou para a esquerda não é incompatível com uma desregulação vertical. Esta última é somente limitada pelas condições fixadas no ponto 6.4.(6) Ver ponto 10 do Anexo III."
+  },
+  "d5b538e703e8b352": {
+   "fragment_id": "ANEXO II — MODELO DE FICHA DE HOMOLOGAÇÃO CEE",
+   "type": "divisao",
+   "heading": "ANEXO II — MODELO DE FICHA DE HOMOLOGAÇÃO CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — MODELO DE FICHA DE HOMOLOGAÇÃO CEE\n\n(Formato máximo: A4, 210 × 297 mm)\n\nIndicação da autoridade administrativa\n\nComunicação respeitante à homologação CEE, recusa, revogação da homologação CEE de um tipo de farol com função de máximos e/ou médios\n\nNúmero de homologação...\n\n1. Farol apresentado para homologação como tipo:\n\nCR, CR, CR, C, C, C, R (1)()\n\n2. Marca de fabrico ou comercial:...\n\n3. Nome e morada do fabricante:...\n\n4. Se for caso disso, nome e morada do seu mandatário:...\n\n5. Apresentado para homologação CEE em:...\n\n6. Serviço técnico encarregado dos ensaios de homologação CEE:...\n\n7. Data do relatório emitido por este serviço:...\n\n8. Número do relatório emitido por este serviço:...\n\n9. Data da homologação CEE/recusa/revogação da homologação CEE (1)():...\n\n10. Homologação CEE única, concedida na base do ponto 3.3. do Anexo VI, a um dispositivo de iluminação e de sinalização luminosa com vários faróis e, nomeadamente (1)():...\n\n11. Data da recusa/revogação (1)() da homologação CEE única:...\n\n12. Local:...\n\n13. Data:...\n\n14. Assinatura:...\n\n15. O desenho no em anexo representa o farol visto de frente, com as estrias do vidroe em corte transversal.\n\n16. Observações eventuais:...\n\n(1)() Riscar o que não interessa."
+  },
+  "73804b0cd4fabec4": {
+   "fragment_id": "ANEXO III — PRESCRIÇÕES RELATIVAS ÀS LÂMPADAS ELÉCTRICAS DE INCANDESCÊNCIA PARA FAROIS COM FUNÇÃO DE MÁXIMOS E/OU DE MÉDIOS",
+   "type": "divisao",
+   "heading": "ANEXO III — PRESCRIÇÕES RELATIVAS ÀS LÂMPADAS ELÉCTRICAS DE INCANDESCÊNCIA PARA FAROIS COM FUNÇÃO DE MÁXIMOS E/OU DE MÉDIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — PRESCRIÇÕES RELATIVAS ÀS LÂMPADAS ELÉCTRICAS DE INCANDESCÊNCIA PARA FAROIS COM FUNÇÃO DE MÁXIMOS E/OU DE MÉDIOS\n\n(DEFINIÇÃO, ESPECIFICAÇÕES GERAIS, VALORES NOMINAIS, EXECUÇÃO, VALORES DE POTÊNCIA E DE FLUXO LUMINOSO, COR, CONTROLO DA QUALIDADE OPTICA, OBSERVAÇÃO SOBRE A COR, CONFORMIDADE DA PRODUÇÃO)\n\n1. DEFINIÇÃO\n\n1.1. Tipo de lâmpadas\n\nPor tipo de lâmpadas entende-se as lâmpadas que não apresentem entre si diferenças essenciais, podendo estas diferenças respeitar nomeadamente aos seguintes pontos:\n\n1.1.1. Marcas de fabrico ou comerciais.\n\n1.1.2. Tensões nominais.\n\n1.1.3. Potências nominais.\n\n1.1.4. Formas de um ou vários filamentos.\n\n1.1.5. Cor das ampolas.\n\n1.1.6. Apresentação das ampolas, que modificam os resultados ópticos.\n\n(2.)\n\n(3.)\n\n(4.)\n\n5. ESPECIFICAÇÕES GERAIS\n\n5.1. Cada uma das amostras deve obedecer às especificações fotométricas indicadas no ponto 8.\n\n5.2. Todas as medidas se efectuam à tensão de ensaio (1) estando as lâmpadas acesas nas condições definidas no ponto 8.\n\n5.3. As lâmpadas devem ser concebidas e construídas de tal maneira que fique assegurado o seu bom funcionamento nas condições normais de utilização. Além disso, as lâmpadas não devem apresentar nenhum defeito de construção ou de execução.\n\n6. VALORES NOMINAIS\n\nOs valores da tensão nominal são: 6,12, e 24 Volts.\n\nOs valores da potência nominal são:\n\n\"\" ID=\"1\">45 watts> ID=\"2\">40 watts> ID=\"3\">Para 6 e 12 Volts\"> ID=\"1\">55 watts> ID=\"2\">50 watts> ID=\"3\">Para 24 Volts\">\n\n7. EXECUÇÃO\n\n7.1. As ampolas das lâmpadas não devem apresentar estrias ou manchas que tenham uma influência desfavorável sobre o seu bom funcionamento. Nenhum raio emitido pelo filamento de médios e reflectido pelas paredes da ampola deve encontrar o eixo da lâmpada a menos de 6 mm para trás (lado do casquilho) da primeira espira do filamento de médios.\n\n7.2. As lâmpadas devem estar munidas de um casquilho do tipo normalizado em conformidade com as indicações da figura do apêndice 4 do Anexo V.\n\n7.3. A posição e a forma dos filamentos e do cadinho no interior da lâmpada, assim como as suas dimensões, devem estar em conformidade com as indicações da figura 3 do Anexo V.\n\n7.4. O casquilho deve ser robusto e estar sólidamente fixado à ampola.\n\nA verificação da conformidade com as prescrições do presente ponto 7, efectua-se por inspecção visual, por controlo das dimensões e, se for oportuno, por meio de uma montagem de ensaio. O controlo das dimensões previsto no ponto 7.3., efectua-se com as lâmpadas alimentadas à sua tensão de ensaio e, se for necessário, por meio de um sistema de projecção.\n\n8. VALORES DA POTÊNCIA E DO FLUXO LUMINOSO\n\nA potência de cada um dos filamentos não deve ultrapassar em mais de 10 % a potência nominal. Os fluxos luminosos devem ficar dentro dos seguintes limites:\n\n\"\" ID=\"1\">6,0> ID=\"4\" ASSV=\"3\">400> ID=\"5\" ASSV=\"3\">550> ID=\"6\" ASSV=\"3\">600> ID=\"7\" ASSV=\"3\">não precisado\"> ID=\"1\">12,0> ID=\"2\">40> ID=\"3\">45\"> ID=\"1\">24,0> ID=\"2\">50> ID=\"3\">55\">\n\nO controlo é efectuado com a lâmpada colocada na posição normal de utilização e alimentada à sua tensão de ensaio, depois de ter estado acesa durante uma hora nestas mesmas condições.\n\n9. COR\n\nAs ampolas das lâmpadas devem ser incolores ou de amarelo selectivo. Neste último caso, o comprimento de onda dominante da luz emitida deve situar-se entre 575 e 585 nm (nanometros), o factor de pureza deve estar compreendido entre 0,90 e 0,98 e o factor de transmissão deve ser pelo menos igual a 0,78 (2), sendo as determinações feitas para a luz emitida por um filamento de lâmpada eléctrica a uma temperatura de cor de 2.800 K e sobre um fragmento da ampola de uma lâmpada que tenha funcionado à sua tensão de ensaio durante 48 horas num farol.\n\n10. CONTROLO DA QUALIDADE OPTICA\n\nA amostra que se aproximar mais das condições prescritas para a lâmpada-padrão é ensaiada num farol-padrão (3), e verifica-se se o conjunto constituído pelo farol-padrão e pela lâmpada ensaiada obedece às prescrições de homologação para os faróis.\n\n11. OBSERVAÇÃO SOBRE A COR\n\nA homologação CEE é concedida se a cor da luz emitida obedecer às prescrições que figuram no ponto 3.13. do Anexo I da Directiva 76/756/CEE.\n\n12. CONFORMIDADE DA PRODUÇÃO\n\nQualquer lâmpada que tenha uma marca de homologação CEE deve estar em conformidade com o tipo homologado e preencher as condições fotométricas acima referidas.\n\n(13.)\n\n(14.)\n\n(1) A tensão de ensaio é fixada como segue:\n\nPara uma tensão nominal de 6V, a tensão de ensaio é de 6,0 V.\n\nPara uma tensão nominal de 12V, a tensão de ensaio é de 12,0 V.\n\nPara uma tensão nominal de 24V, a tensão de ensaio é de 24,0 V.(2) Estas especificações correspondem às coordenadas tricromáticas seguintes:\n\nAMARELO SELECTIVO:\n\nLimite para o vermelho y & ge; 0,138 + 0,580 x\n\nLimite para o verde y & le; 1,29x - 0,100\n\nlimite para o branco y & ge; - x + 0,966\n\nlimite para o valor espectral y & le; - x + 0,992(3) Ver ponto 10 do Anexo I."
+  },
+  "2f7ecc257ff3ae38": {
+   "fragment_id": "ANEXO IV — MODELO DE FICHA DE HOMOLOGAÇÃO CEE",
+   "type": "divisao",
+   "heading": "ANEXO IV — MODELO DE FICHA DE HOMOLOGAÇÃO CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — MODELO DE FICHA DE HOMOLOGAÇÃO CEE\n\n(Formato máximo: A4, 210 × 297 mm)\n\nIndicação da autoridade administrativa\n\nComunicação respeitante à homologação CEE, recusa, revogação da homologação CEE ou à extensão da homologação CEE, recusa da extensão da homologação CEE de um tipo de lâmpada eléctrica de incandescência\n\nNo de homologação:...\n\n1. Lâmpada com ampola incolor/de amarelo selectivo (1)():\n\n- Tensão nominal...\n\n- Potências nominais...\n\n2. Marca de fabrico ou comercial:...\n\n3. Nome e morada do fabricante:...\n\n4. Se for caso disso, nome e morada do seu mandatário:...\n\n5. Apresentado para homologação CEE em:...\n\n6. Serviço técnico encarregado dos ensaios de homologação CEE:...\n\n7. Data do relatório emitido por este serviço:\n\n8. Número do relatório emitido por este serviço:\n\n9. Data da homologação CEE/recusa/revogação da homologação CEE (1)():...\n\n10. Extensão da homologação CEE:\n\n11. Data da recusa/revogação da extensão da homologação CEE (1)():...\n\n12. Local:...\n\n13. Data:...\n\n14. Assinatura:...\n\n15. O desenho no... anexo, representa a lâmpada inteira\n\n16. Observações eventuais:...\n\n(1)() Riscar o que não interessa."
+  },
+  "a4eec67bcd9d320e": {
+   "fragment_id": "ANEXO V — Apêndice 1",
+   "type": "divisao",
+   "heading": "ANEXO V — Apêndice 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — Apêndice 1\n\nPAINEL DE MEDIÇÃO ESPECIALIZAÇÃO PARA A CIRCULAÇÃO À DIREITA\n\nApêndice 2\n\nPAINEL DE MEDIÇÃO ESPECIALIZAÇÃO PARA A CIRCULAÇÃO À ESQUERDA\n\nApêndice 3\n\nLÂMPADA COM DOIS FILAMENTOS: ELEMENTOS INTERIORES 1. Figura\n\n2. Quadro\n\n\"\" ID=\"1\">a> ID=\"2\">0,6> ID=\"3\">± 0,15> ID=\"4\">± 0,35\"> ID=\"1\">b> ID=\"2\">0,2> ID=\"3\">± 0,15> ID=\"4\">± 0,35\"> ID=\"1\">c> ID=\"2\">0,5> ID=\"3\">± 0,15> ID=\"4\">± 0,30\"> ID=\"1\">d> ID=\"2\">0> ID=\"3\">± 0,3> ID=\"4\">± 0,5\"> ID=\"1\">e> ID=\"2\">28,5 (1)> ID=\"3\">± 0,15> ID=\"4\">± 0,35\"> ID=\"1\">f> ID=\"2\">1,8 (2)> ID=\"3\">± 0,2> ID=\"4\">± 0,4\"> ID=\"1\">g> ID=\"2\">0> ID=\"3\">± 0,3> ID=\"4\">± 0,5\"> ID=\"1\">lc> ID=\"2\">5,5> ID=\"3\">± 0,5> ID=\"4\">± 1,5\"> ID=\"1\">v> ID=\"2\">0 °> ID=\"3\">± 0 ° 30'> ID=\"4\">± 1 ° 30'\"> ID=\"1\">g> ID=\"2\">15 °> ID=\"3\">± 0 ° 30'> ID=\"4\">± 1 ° 30'\"> ID=\"1\">Q-Q'> ID=\"2\">3/4 (lc - f)\"\">\n\n3. Notas\n\n1. O eixo da lâmpada é a perpendicular ao plano de referência 1 (ver figura do apêndice 4) que passa pela intersecção deste plano como eixo do cilindro de centragem correspondente.\n\n2. O desenho não é imperativo no que diz respeito à construção do cadinho e dos filamentos.\n\n3. O valor fixado para a cota Q-Q' aplica-se exclusivamente à lâmpada-padrão que é utilizada para o ensaio de homologação CEE de um farol; as dimensões do cadinho devem ser tais que os pontos Q' se encontrem no interior do bordo do cadinho.\n\n4. As tolerâncias indicadas referem-se ao controlo exigido para a homologação CEE de um tipo de lâmpada.\n\nApêndice 4\n\nLÂMPADAS DE DOIS FILAMENTOS: COTAS DE INTERMUTABILIDADE 1. Figura\n\n2. Quadro\n\n\"\" ID=\"1\">A1 (1)> ID=\"2\">25 min.> ID=\"3\">-> ID=\"4\">-> ID=\"5\">N> ID=\"6\">47,2> ID=\"7\">± 0,2> ID=\"8\">± 0,2\"> ID=\"1\" ASSV=\"2\">B> ID=\"2\" ASSV=\"2\">0,7> ID=\"3\">+ 0,1> ID=\"4\">+ 0,1> ID=\"5\">P> ID=\"6\">21,5> ID=\"7\">+ 0,9> ID=\"8\">+ 0,9\"> ID=\"3\">- 0,0> ID=\"4\">- 0,0> ID=\"7\">- 0,0> ID=\"8\">- 0,0\"> ID=\"1\" ASSV=\"2\">C> ID=\"2\" ASSV=\"2\">7,7> ID=\"3\">+ 0,4> ID=\"4\">+ 0,4> ID=\"5\">R> ID=\"6\">23,7> ID=\"7\">+ 0,0> ID=\"8\">+ 0,0\"> ID=\"3\">- 0,0> ID=\"4\">- 0,0> ID=\"7\">- 0,4> ID=\"8\">- 0,4\"> ID=\"1\" ASSV=\"2\">D> ID=\"2\" ASSV=\"2\">3> ID=\"3\">+ 0,3> ID=\"4\">+ 0,3> ID=\"5\">S> ID=\"6\">4,7> ID=\"7\">± 0,06> ID=\"8\">± 0,20\"> ID=\"3\">- 0,0> ID=\"4\">- 0,0\"> ID=\"1\">E> ID=\"2\">11,8 à 13,6 (1)> ID=\"3\">-> ID=\"4\">-> ID=\"5\">T> ID=\"6\">9,5 max.> ID=\"7\">-> ID=\"8\">-\"> ID=\"1\">F> ID=\"2\">8,8 à 10,3> ID=\"3\">-> ID=\"4\">-> ID=\"5\">U> ID=\"6\">0,3 min.> ID=\"7\">-> ID=\"8\">-\"> ID=\"1\" ASSV=\"2\">G> ID=\"2\" ASSV=\"2\">8,5> ID=\"3\">+ 0,5> ID=\"4\">+ 0,5> ID=\"5\">V> ID=\"6\">3> ID=\"7\">± 0,05> ID=\"8\">± 0,10\"> ID=\"3\">- 0,0> ID=\"4\">- 0,0\"> ID=\"1\" ASSV=\"2\">H> ID=\"2\" ASSV=\"2\">17> ID=\"3\">+ 0,9> ID=\"4\">+ 0,9> ID=\"5\">W> ID=\"6\">2,2> ID=\"7\">+ 0,0> ID=\"8\">+ 0,0\"> ID=\"3\">- 0,0> ID=\"4\">- 0,0> ID=\"7\">- 0,4> ID=\"8\">- 0,4\"> ID=\"1\">J> ID=\"2\">18 min.> ID=\"3\">-> ID=\"4\">-> ID=\"5\">X> ID=\"6\">3 máx.> ID=\"7\">-> ID=\"8\">-\"> ID=\"1\">J1> ID=\"2\">14,5 máx.> ID=\"3\">-> ID=\"4\">-> ID=\"5\">Y> ID=\"6\">32 máx.> ID=\"7\">-> ID=\"8\">-\"> ID=\"1\">K> ID=\"2\">50 máx.> ID=\"3\">-> ID=\"4\">-> ID=\"5\">r> ID=\"6\"\"> ID=\"1\" ASSV=\"2\">L> ID=\"2\" ASSV=\"2\">41,5> ID=\"3\">+ 0,0> ID=\"4\">+ 0,0> ID=\"5\">a> ID=\"6\">-> ID=\"7\">25 à 35 °> ID=\"8\">25 à 35 °\"> ID=\"3\">- 0,1> ID=\"4\">- 0,2\"> ID=\"1\" ASSV=\"2\">M> ID=\"2\" ASSV=\"2\">45> ID=\"3\">+ 0,0> ID=\"4\">+ 0,0> ID=\"5\">v> ID=\"6\">0 °> ID=\"7\">± 0 ° 39'> ID=\"8\">± 1 ° 30\"> ID=\"3\">- 0,1> ID=\"4\">- 0,2> ID=\"5\">e> ID=\"6\">28,5 (1)> ID=\"7\">± 0,15> ID=\"8\">± 0,35\"\">\n\n3. Notas\n\n1. As cotas acima indicadas correspondem às normas CEI (publicações CEI, folhas 7004-95-1, 7004-95A-1 e 7004-95B-1), adoptadas pela Comissão Electrotécnica Internacional.\n\n2. Só figuram no desenho e são imperativas as cotas totais e de intermutabilidade.\n\n3. A constituição interna da lâmpada e as cotas correspondentes são objecto da figura do apêndice 3.\n\n4. A parte do casquilho marcada não deve dar origem, por reflexão da luz emitida pelo filamento de médios, a nenhum raio parasita ascendente, quando a lâmpada está em posição normal de funcionamento no veículo.\n\n5. O diâmetro de cada cilindro de centragem mede-se em qualquer plano de secção recta situado a não menos de 0,5 mm do plano de referência correspondente ao cilindro considerado.\n\n6. A excentricidade relativa (desvio entre os eixos) de dois cilindros de centragem não deve ultrapassar 0,05 mm.\n\n7. A distância S, distância entre os dois planos de referência (4,7 mm), é afectada de uma tolerância que compreende o erro admissível no paralelismo destes dois planos.\n\n8. As duas alhetas de orientação (IX e X) devem poder entrar simultaneamente num calibre de abertura de 3,1 mm no máximo.\n\n9. As lâminas de contacto (XIV, XVI, e XVII) devem estar dispostas na ordem acima indicada. A sua posição em relação às alhetas de orientação do casquilho deve ser a indicada na figura ou deslocada de 180o em relação àquela com uma aproximação de ± 20o nos dois casos. A janela (XV) e a lâmina de contacto de médios (XVII) devem estar frente a frente, de um lado e do outro do eixo da lâmpada.\n\n(1) 28,8 para as lâmpadas de 24 V.\n\n(2) 2,2 para as lâmpadas de 24 V.(1) As cotas A21 a são idênticas às cotas correspondentes das normas CEI, com excepção de K e Y.\n\n(2) Com solda, norma CEI 7004-95-1.\n\n(3) 28,8 mm para as lâmpadas de 24 volts."
+  },
+  "13a455102d422984": {
+   "fragment_id": "ANEXO VI — CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO VI — CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO\n\n1. PEDIDO DE HOMOLOGAÇÃO CEE\n\n1.1. O pedido de homologação CEE é apresentado pelo detentor da marca de fabrico ou comercial, ou pelo seu mandatário.\n\n1.2. O pedido é acompanhado por:\n\n1.2.1. Para cada tipo de farol com função de máximos e/ou de médios:\n\n1.2.1.1. Indicação que precise se o farol é destinado ao mesmo tempo à obtenção de um feixe luminoso de médios e de um feixe luminoso de máximos ou somente de um dos dois feixes luminosos; quando se trata de um farol destinado à obtenção de um feixe luminoso de médios, da indicação que precise se o farol é construído para os dois sentidos de circulação ou apenas para a circulação à esquerda ou à direita.\n\n1.2.1.2. Uma descrição técnica sucinta.\n\n1.2.1.3. Desenhos, em triplicado, suficientemente pormenorizados para permitir a identificação do tipo e representando o farol visto de frente, com, se for o caso, o pormenor das estrias do vidro, e em corte transversal.\n\nOs desenhos devem mostrar a posição prevista para a marca de homologação CEE, nomeadamente o número de homologação CEE e o indicativo (os indicativos) da categoria, em relação ao rectângulo da marca de homologação CEE.\n\n1.2.1.4. Duas amostras.\n\n1.2.2. Para cada tipo de lâmpada:\n\n1.2.2.1. Uma descrição técnica sucinta.\n\n1.2.2.2. Desenhos, em triplicado, suficientemente pormenorizados para permitirem a identificação do tipo e representando à escala 2.1. a lâmpada inteira, sendo o seu cadinho visto de frente e em corte.\n\nOs desenhos devem mostrar a posição prevista para a marca de homologação CEE, nomeadamente o número de homologação CEE e o indicativo (os indicativos) da categoria em relação ao rectângulo da marca de homologação CEE.\n\n1.2.2.3. Quando se trata de lâmpadas com ampola incolor: cinco amostras; quando se trata de lâmpadas com ampola colorida: uma amostra colorida e cinco amostras com ampola incolor que não difiram do tipo de lâmpada apresentado, senão pela ausência de coloração do vidro. Quando se trata de um tipo de lâmpada que só difere pela cor de um tipo incolor que obedeceu anteriormente aos ensaios dos pontos 4 a 8 do Anexo III, é suficiente apresentar uma amostra de ampola colorida para ser submetida aos ensaios do ponto 9 do Anexo III.\n\n2. MARCAÇÃO\n\n2.1. Faróis com função de máximos e/ou de médios\n\n2.1.1. As amostras de um tipo de farol com função de máximo e ou de médio apresentadas para homologação CEE devem ostentar a marca de fabrico ou comercial do requerente.\n\n2.1.2. Cada farol deve conter, ao mesmo tempo sobre o vidro e sobre o corpo principal, um espaço de dimensão suficiente para a marca de homologação CEE. Se o vidro não puder ser separado do corpo principal do farol, é suficiente um espaço no vidro.\n\nO espaço para a marca de homologação CEE deve corresponder ao que é indicado nos desenhos mencionados no ponto 1.2.1.3.\n\n2.1.3. No caso de faróis concebidos de forma a obedecer às exigências de um só sentido de circulação (quer à direita, quer à esquerda), deve além disso figurar, de uma forma indelével no vidro da frente, o contorno da zona que pode eventualmente ser encoberta para evitar incómodos aos utilizadores de um Estado-membro onde o sentido da circulação é oposto. Contudo, quando por concepção esta zona for claramente identificável, esta delimitação não é necessária.\n\n2.1.4. No caso de faróis concebidos de forma a satisfazer ao mesmo tempo as exigências dos Estados-membros onde a circulação se efectua à direita e as dos Estados-membros onde a circulação se efectua à esquerda, as duas posições de regulação do bloco óptico no veículo ou da lâmpada no reflector, devem ser marcadas com a associação de letras maiúsculas R e D, para a circulação à direita, e com a associação de letras maiúsculas L e G, para a circulação à esquerda.\n\n2.2. Lâmpadas para faróis com função de máximos e/ou médios.\n\n2.2.1. As amostras de um tipo de lâmpada para faróis com função de máximos e/ou de médios apresentadas para homologação CEE devem ostentar a marca de fabrico ou comercial do requerente.\n\n2.2.2. Cada lâmpada deve conter um espaço de dimensão suficiente para a marca de homologação CEE. O espaço para a marca de homologação CEE deve corresponder ao que é indicado nos desenhos mencionados no ponto 1.2.2.2.\n\n2.2.3. As lâmpadas devem ter pelo menos a indicação da tensão nominal em Volt e a indicação da potência nominal em Watt do filamento de máximos, seguida da indicação da potência nominal em Watt do filamento de médios.\n\n2.3. As marcas e inscrições devem ser nitidamente legíveis e indeléveis.\n\n3. HOMOLOGAÇÃO CEE\n\n3.1. Quando todas as amostras apresentadas em conformidade com o ponto 1, obedecem ao disposto nos pontos 5 e 6 do Anexo I para os faróis e 5, 6, 7, 8, 9, 10 e 11 do Anexo III para as lâmpadas é concedida a homologação CEE e é atribuído um número de homologação.\n\n3.2. Este número não é atribuído a nenhum outro tipo de farol ou lâmpada, salvo no caso de extensão da homologação CEE a um outro tipo de farol ou de lâmpada que não difira deste senão pela cor da luz emitida.\n\n3.3. Quando a homologação CEE é pedida para um tipo de dispositivo de iluminação e de sinalização luminosa que inclua um farol com função de máximos e/ou de médios e outros faróis, pode ser concedida uma marca de homologação CEE única na condição de que o farol corresponda às prescrições da presente directiva e cada um dos outros faróis que fazem parte do tipo de dispositivo de iluminação e de sinalização luminosa para o qual é pedida a homologação CEE corresponda à directiva especial que lhe é aplicável.\n\n4. MARCAÇÃO\n\n4.1. Qualquer farol com função de máximos e/ou de médios e qualquer lâmpada para estes faróis, conforme um tipo homologado em aplicação da presente directiva, deve ostentar uma marca de homologação CEE.\n\n4.2. Esta marca é composta por:\n\n- um rectângulo no interior do qual está colocada a letra «e» seguida do número ou grupo de letras distintivo do Estado-membro que concedeu a homologação:\n\n1 para a Alemanha\n\n2 para a França\n\n3 para a Itália\n\n4 para os Países Baixos\n\n6 para a Bélgica\n\n11 para o Reino Unido\n\n13 para o Luxemburgo\n\nDK para a Dinamarca\n\nIRL para a Irlanda\n\n- e um número de homologação CEE que corresponde ao número da ficha de homologação CEE estabelecida para o tipo de farol ou de lâmpada. Para um tipo de farol, este número é colocado abaixo do rectângulo e, para um tipo de lâmpada, na proximidade do rectângulo.\n\n4.3. Para os faróis com função de máximos e/ou de médios, a marca de homologação CEE é completada pelos seguintes símbolos adicionais:\n\n4.3.1. Uma flecha horizontal colocada abaixo do rectângulo e dirigida para a direita de um observador que olhe o farol de frente, quer dizer, para o lado da estrada onde se efectua a circulação, nos faróis que satisfaçam somente às exigências da circulação à esquerda.\n\n4.3.2. Uma flecha horizontal colocada por baixo do rectângulo e tendo duas setas dirigidas uma para a esquerda e outra para a direita, nos faróis que satisfazem por modificação voluntária da regulação do bloco óptico ou da lâmpada, às exigências dos dois sentidos de circulação.\n\n4.3.3. A letra «C» colocada acima do rectângulo, nos faróis que satisfazem às prescrições da presente directiva apenas para o feixe luminoso de médios.\n\n4.3.4. A letra «R» colocada acima do triângulo, nos faróis que satisfazem às prescrições da presente directiva, apenas para o feixe luminoso de máximos.\n\n4.3.5. O grupo de letras «CR» colocado acima do rectângulo, nos faróis que satisfazem às prescrições da presente directiva, tanto para o feixe luminoso de médios como para o feixe luminoso de máximos.\n\n4.4. A marca de homologação CEE e os símbolos adicionais devem ser apostos de tal forma que sejam indeléveis e bem legíveis. No caso de um farol, devem ser apostos no vidro ou num dos vidros de tal forma que sejam legíveis quando o farol está montado no veículo.\n\n4.5. Exemplos de marcas de homologação completadas pelos símbolos adicionais são dados em apêndice.\n\n4.6. No caso da atribuição de um número de homologação CEE único previsto no ponto 3.3. para um tipo de dispositivo de iluminação e de sinalização luminosa que inclua um farol com função de máximos e/ou de médios e outros faróis, pode ser aposta uma marca de homologação CEE única que compreenda:\n\n- Um rectângulo no interior do qual está colocada a letra «e» seguida do número ou grupo de letras distintivo do Estado-membro que concedeu a homologação,\n\n- Um número de homologação CEE,\n\n- Os símbolos adicionais previstos nas diferentes directivas ao abrigo das quais a homologação CEE foi concedida.\n\n4.7. As dimensões dos diferentes elementos desta marca não devem ser inferiores às maiores das dimensões mínimas prescritas para as marcações individuais pelas directivas ao abrigo das quais a homologação CEE foi concedida.\n\nApêndice\n\nEXEMPLOS DE MARCAS DE HOMOLOGAÇÃO CEE"
+  },
+  "26df32f0c96e2094": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1976L0761 — PT — 01.11.2014 — 010.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31976L0761) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31976L0761) [de 27 de Julho de 1976](http://publications.europa.eu/resource/celex/31976L0761) [relativa aos faróis para veículos a motor com função de máximos e/ou de médios, bem como às fontes luminosas (lâmpadas de incandescência e outras) a utilizar em luzes homologadas de veículos a motor e seus reboques](http://publications.europa.eu/resource/celex/31976L0761) [(76/761/CEE)](http://publications.europa.eu/resource/celex/31976L0761) (JO L 262, 27.9.1976, p.96)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 661/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0661) — L 200 — 1 — 31.7.2009"
+  }
+ }
+}

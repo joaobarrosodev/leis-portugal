@@ -35,6 +35,78 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-10-21'
+version_history:
+  file: diretiva-ue-1968-151.versoes.json
+  count: 3
+  source_lastmod: '2009-10-21'
+  versions:
+  - date: '1968-03-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32003L0058:por
+    amending_title: DIRECTIVA 2003/58/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Julho de 2003; DIRECTIVA 2006/99/CE
+      DO CONSELHO de 20 de Novembro de 2006; Acto de Adesão da Dinamarca, da Irlanda e do Reino Unido da Grã-Bretanha e da
+      Irlanda do Norte; Acto de Adesão da Grécia; ►A3; Acto de Adesão da Áustria, da Finlândia e da Suécia; Acto relativo
+      às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia,
+      da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia
+      e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Adita preambulo
+    - Adita Artigo 1º
+    - Adita SECÇÃO I
+    - Adita Publicidade
+    - Adita Artigo 2º
+    - Adita Artigo 3.º
+    - Adita Artigo 3.ºA
+    - Adita Artigo 4.º
+    - Adita Artigo 5º
+    - Adita Artigo 6.º
+    - Adita SECÇÃO II
+    - Adita Validade das obrigações contraídas pela sociedade
+    - Adita Artigo 7º
+    - Adita Artigo 8º
+    - Adita Artigo 9º
+    - Adita SECÇÃO III
+    - Adita Invalidade do contrato de sociedade
+    - Adita Artigo 10º
+    - Adita Artigo 11º
+    - Adita Artigo 12º
+    - Adita SECÇÃO IV
+    - Adita Disposições gerais
+    - Adita Artigo 13º
+    - Adita Artigo 14º
+    - Adita Notas
+  - date: '2009-10-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime SECÇÃO I
+    - Suprime Publicidade
+    - Suprime Artigo 2º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 3.ºA
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6.º
+    - Suprime SECÇÃO II
+    - Suprime Validade das obrigações contraídas pela sociedade
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime SECÇÃO III
+    - Suprime Invalidade do contrato de sociedade
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime SECÇÃO IV
+    - Suprime Disposições gerais
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Notas
 identifiers:
   celex: 31968L0151
   eli: http://data.europa.eu/eli/dir/1968/151/oj
@@ -49,7 +121,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9943e8c9-e6bc-4bd8-b223-090eb70d4beb.0011
   content_url: http://publications.europa.eu/resource/cellar/4af15eec-4e7d-426d-ac4a-769f3accd52e.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01968L0151-20091021
-  retrieved_at: '2026-10-22T02:41:57Z'
+  retrieved_at: '2026-10-22T14:29:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-13T18:22:13.137+01:00'
 integrity:
@@ -58,9 +130,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:57Z'
-  notes: Texto consolidado 01968L0151-20091021.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:29:13Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1968-151.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -224,16 +296,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:57Z'
+  checked_at: '2026-10-22T14:29:13Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01968L0151-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01968L0151-20030904: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01968L0151-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

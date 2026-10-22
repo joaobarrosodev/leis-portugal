@@ -34,6 +34,33 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-01-02'
+version_history:
+  file: diretiva-ue-2005-85.versoes.json
+  count: 2
+  source_lastmod: '2006-01-02'
+  versions:
+  - date: '2005-12-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-01-02'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Direito de permanência no Estado-Membro durante a apreciação do pedido
+    - Altera Artigo 17.º — Garantias dos menores não acompanhados
+    - Altera Artigo 23.º — Procedimento de apreciação
+    - Altera Artigo 39.º — Direito a um recurso efectivo
+    - Altera Artigo 43.º — Transposição
+    - Altera Artigo 46.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Definição de «órgão de decisão»
+    - Adita ANEXO II
+    - Adita Designação de países de origem seguros para efeitos do artigo 29.º e do n.º 1 do artigo 30.º
+    - Adita ANEXO III
+    - Adita Definição de «requerente» ou «requerente de asilo»
 identifiers:
   celex: 32005L0085
   eli: http://data.europa.eu/eli/dir/2005/85/oj
@@ -48,7 +75,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6883b88f-8a50-403a-ac64-c2ceb118179b.0016
   content_url: http://publications.europa.eu/resource/cellar/103e117c-9dab-4964-9fc9-55aa5bbcec59.0006.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0085-20060102
-  retrieved_at: '2026-10-22T02:45:14Z'
+  retrieved_at: '2026-10-22T14:59:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T03:41:18.873+01:00'
 integrity:
@@ -57,9 +84,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:14Z'
-  notes: Texto consolidado 02005L0085-20060102.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:47Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2005-85.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -181,29 +208,19 @@ relationships:
   date: '2024-05-22'
 article_structure:
   article_count: 46
-  section_count: 24
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 25
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:14Z'
+  checked_at: '2026-10-22T14:59:47Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2005/85/CE do Conselho, de 1 de Dezembro de 2005
-
-> 2005L0085 — PT — 02.01.2006 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32005L0085R%2801%29) — [Rectificação, JO L 236, 31.8.2006, p. 35 (05/85)](http://publications.europa.eu/resource/celex/32005L0085R%2801%29)
-
-## DIRECTIVA 2005/85/CE DO CONSELHO
 
 de 1 de Dezembro de 2005
 

@@ -34,6 +34,109 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-04-30'
+version_history:
+  file: regulamento-ue-1997-1467.versoes.json
+  count: 4
+  source_lastmod: '2024-04-30'
+  versions:
+  - date: '1997-08-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-07-27'
+    amending: eu:celex:32005R1056:por
+    amending_title: REGULAMENTO (CE) N. o 1056/2005 DO CONSELHO de 27 de Junho de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Adita SECÇÃO 1
+    - Adita DEFINIÇÕES E AVALIAÇÕES
+    - Adita SECÇÃO 2
+    - Adita ACELERAÇÃO DO PROCEDIMENTO RELATIVO AOS DÉFICES EXCESSIVOS
+    - Adita SECÇÃO 3
+    - Adita SUSPENSÃO E ACOMPANHAMENTO
+    - Adita SECÇÃO 4
+    - Adita SANÇÕES
+    - Adita SECÇÃO 5
+    - Adita DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+    - Adita ANEXO
+    - Adita PRAZOS APLICÁVEIS AO REINO UNIDO
+    - Adita Notas
+    - Suprime SECÇÃO 1 — DEFINIÇÕES E AVALIAÇÕES
+    - Suprime SECÇÃO 2 — ACELERAÇÃO DO PROCEDIMENTO RELATIVO AOS DÉFICES EXCESSIVOS
+    - Suprime SECÇÃO 3 — SUSPENSÃO E ACOMPANHAMENTO
+    - Suprime SECÇÃO 4 — SANÇÕES
+    - Suprime SECÇÃO 5 — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+    - Suprime ANEXO — PRAZOS APLICÁVEIS AO REINO UNIDO
+  - date: '2011-12-13'
+    amending: eu:celex:32011R1177:por
+    amending_title: REGULAMENTO (UE) N. o 1177/2011 DO CONSELHO de 8 de Novembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera PRAZOS APLICÁVEIS AO REINO UNIDO
+    - Altera Notas
+    - Adita SECÇÃO 1-A
+    - Adita DIÁLOGO ECONÓMICO
+    - Adita Artigo 2.º-A
+    - Adita Artigo 8.º
+    - Adita Artigo 10.º-A
+    - Adita Artigo 17.º-A
+    - Suprime Artigo 8
+    - Suprime Artigo 13.º
+  - date: '2024-04-30'
+    amending: eu:celex:32024R1264:por
+    amending_title: REGULAMENTO (UE) 2024/1264 DO CONSELHO de 29 de abril de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 10.º-A
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º-A
+    - Altera Notas
+    - Adita Artigo 17.º-B
+    - Suprime Artigo 17.º
+    - Suprime ANEXO
+    - Suprime PRAZOS APLICÁVEIS AO REINO UNIDO
 identifiers:
   celex: 31997R1467
   eli: http://data.europa.eu/eli/reg/1997/1467/oj
@@ -48,7 +151,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ae929f3c-9e32-4da9-a9c6-1adae414970a.0011
   content_url: http://publications.europa.eu/resource/cellar/8fb6cfa8-1d01-11ef-a251-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R1467-20240430
-  retrieved_at: '2026-10-22T02:40:25Z'
+  retrieved_at: '2026-10-22T14:46:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:41:54.611+02:00'
 integrity:
@@ -57,9 +160,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:25Z'
-  notes: Texto consolidado 01997R1467-20240430.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:24Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-1997-1467.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -169,31 +272,19 @@ relationships:
   date: '2015-10-23'
 article_structure:
   article_count: 20
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:25Z'
+  checked_at: '2026-10-22T14:46:24Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) nº 1467/97 do Conselho de 7 de Julho de 1997
-
-> 01997R1467 — PT — 30.04.2024 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32005R1056) — [REGULAMENTO (CE) N.º 1056/2005 DO CONSELHO de 27 de Junho de 2005](http://publications.europa.eu/resource/celex/32005R1056) — L 174 — 5 — 7.7.2005
-- [►M2](http://publications.europa.eu/resource/celex/32011R1177) — [REGULAMENTO (UE) N.º 1177/2011 DO CONSELHO de 8 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1177) — L 306 — 33 — 23.11.2011
-- [►M3](http://publications.europa.eu/resource/celex/32024R1264) — [REGULAMENTO (UE) 2024/1264 DO CONSELHO de 29 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1264) — L 1264 — 1 — 30.4.2024
-
-## REGULAMENTO (CE) N.º 1467/97 DO CONSELHO
 
 de 7 de Julho de 1997
 

@@ -36,6 +36,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-12-31'
+version_history:
+  file: diretiva-ue-2003-35.versoes.json
+  count: 2
+  source_lastmod: '2016-12-31'
+  versions:
+  - date: '2012-02-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-12-31'
+    amending: eu:celex:32016L2284:por
+    amending_title: DIRETIVA (UE) 2016/2284 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14
+      de dezembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Participação do público em planos e programas
+    - Altera DISPOSIÇÕES RELATIVAS AOS PLANOS E PROGRAMAS REFERIDOS NO ARTIGO 2.º
+    - Altera Participação do público na tomada de decisões
+    - Altera Notas
 identifiers:
   celex: 32003L0035
   eli: http://data.europa.eu/eli/dir/2003/35/oj
@@ -50,7 +69,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4a80a6c9-cdb3-4e27-a721-d5df1a0535bc.0010
   content_url: http://publications.europa.eu/resource/cellar/118b756b-f6bf-45a9-b6ed-b1cef86c9a7b.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0035-20161231
-  retrieved_at: '2026-10-22T02:36:35Z'
+  retrieved_at: '2026-10-22T14:54:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-26T08:16:15.543+01:00'
 integrity:
@@ -59,9 +78,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:35Z'
-  notes: Texto consolidado 02003L0035-20161231.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:42Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2003-35.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -222,30 +241,20 @@ relationships:
   source: null
 article_structure:
   article_count: 7
-  section_count: 5
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 6
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:35Z'
-  warnings: []
+  checked_at: '2026-10-22T14:54:42Z'
+  warnings:
+  - '02003L0035-20030625: versão indisponível (Sem expressão na língua por para CELEX 02003L0035-20030625.)'
   errors: []
 ---
 
 # Directiva 2003/35/CE do Parlamento Europeu e do Conselho, de 26 de Maio de 2003
-
-> 02003L0035 — PT — 31.12.2016 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011L0092) — [DIRECTIVA 2011/92/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 13 de dezembro de 2011](http://publications.europa.eu/resource/celex/32011L0092) — L 26 — 1 — 28.1.2012
-- [►M2](http://publications.europa.eu/resource/celex/32016L2284) — [DIRETIVA (UE) 2016/2284 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14 de dezembro de 2016](http://publications.europa.eu/resource/celex/32016L2284) — L 344 — 1 — 17.12.2016
-
-## DIRECTIVA 2003/35/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 26 de Maio de 2003
 

@@ -36,6 +36,44 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-12-19'
+version_history:
+  file: diretiva-ue-2002-58.versoes.json
+  count: 3
+  source_lastmod: '2009-12-19'
+  versions:
+  - date: '2002-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-05-03'
+    amending: eu:celex:32006L0024:por
+    amending_title: DIRECTIVA 2006/24/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Março de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 14.º — Características técnicas e normalização
+    - Altera Artigo 15.º — Aplicação de determinadas disposições da Directiva 95/46/CE
+    - Altera Artigo 21.º — Destinatários
+    - Adita Notas
+  - date: '2009-12-19'
+    amending: eu:celex:32009L0136:por
+    amending_title: DIRECTIVA 2009/136/CE DO PARLAMENTO EUROPEU E DO CONSELHO, Texto relevante para efeitos do EEE de 25 de
+      Novembro de 2009,
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito e objectivos
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Serviços abrangidos
+    - Altera Artigo 5.º — Confidencialidade das comunicações
+    - Altera Artigo 6.º — Dados de tráfego
+    - Altera Artigo 13.º — Comunicações não solicitadas
+    - Altera Artigo 14.º — Características técnicas e normalização
+    - Altera Artigo 15.º — Aplicação de determinadas disposições da Directiva 95/46/CE
+    - Altera Notas
+    - Adita Artigo 4.º — [►M2](http://publications.europa.eu/resource/celex/32009L0136) Segurança do processamento◄
+    - Adita Artigo 14.º-A — Procedimento de comité
+    - Adita Artigo 15.º-A — Aplicação e execução
+    - Suprime Artigo 4.º — Segurança
 identifiers:
   celex: 32002L0058
   eli: http://data.europa.eu/eli/dir/2002/58/oj
@@ -50,7 +88,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cb5af945-9d9f-40e6-acee-bd0c5bb4ed0a.0010
   content_url: http://publications.europa.eu/resource/cellar/6def8269-d337-4373-83c1-8c57678fc93f.0018.03/DOC_3
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0058-20091219
-  retrieved_at: '2026-10-22T02:37:02Z'
+  retrieved_at: '2026-10-22T14:51:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T05:55:10.960+01:00'
 integrity:
@@ -59,9 +97,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:02Z'
-  notes: Texto consolidado 02002L0058-20091219.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:58Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2002-58.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -355,35 +393,19 @@ relationships:
   source: null
 article_structure:
   article_count: 23
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:02Z'
+  checked_at: '2026-10-22T14:51:58Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2002/58/CE do Parlamento Europeu e do Conselho, de 12 de Julho de 2002
-
-> 02002L0058 — PT — 19.12.2009 — 002.007
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006L0024) — [DIRECTIVA 2006/24/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Março de 2006](http://publications.europa.eu/resource/celex/32006L0024) — L 105 — 54 — 13.4.2006
-- [►M2](http://publications.europa.eu/resource/celex/32009L0136) — [DIRECTIVA 2009/136/CE DO PARLAMENTO EUROPEU E DO CONSELHO, Texto relevante para efeitos do EEE de 25 de Novembro de 2009,](http://publications.europa.eu/resource/celex/32009L0136) — L 337 — 11 — 18.12.2009
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009L0136R%2801%29) — [Rectificação, JO L 241, 10.9.2013, p. 9 (2009/136/CE)](http://publications.europa.eu/resource/celex/32009L0136R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32009L0136R%2803%29) — [Rectificação, JO L 162, 23.6.2017, p. 56 (2009/136/CE)](http://publications.europa.eu/resource/celex/32009L0136R%2803%29)
-
-## DIRECTIVA 2002/58/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 12 de Julho de 2002
 

@@ -1,0 +1,725 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004D0842:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004D0842-20210618",
+ "dre_path": null,
+ "source_lastmod": "2021-06-18",
+ "versions": [
+  {
+   "date": "2005-10-14",
+   "future": false,
+   "celex": "32004D0842",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fb646793764ab952",
+    "226c39ffd0a88dad",
+    "7fabed8a0a46afb5",
+    "c852e24fab0742ad",
+    "f0f8c960bfdbce9b",
+    "948c4f14a947b3d2",
+    "ab7bd1f759bd77c2",
+    "8b694719c3bca305",
+    "d8e6f6429b7a01e4",
+    "d6b1158312249c8f",
+    "cdf5ee57a4d36c83",
+    "a3903d83fbfa5b33",
+    "40365a502a32580d",
+    "82e4e97812bbe376",
+    "985bd08d40578027",
+    "10ec9dc661d6d80a",
+    "f35fa188a116339f",
+    "4577be0d44c054fe",
+    "c3e8e79b2b443892",
+    "f013379b465288b3",
+    "c9034bee589ba68a",
+    "2a801ac6858c50c1",
+    "3c8c4e1b344a2d6e",
+    "1874026c2abc672c",
+    "1e7a0903d2eed348",
+    "b14c824a48369685",
+    "b44f0b07c96a0acf",
+    "9a38e78ddf2d77ed",
+    "43f31c3e9d92fa60",
+    "600e3b643a062a95",
+    "770275eff38297e0",
+    "374ef16055c89a2b",
+    "bda2ca5657145694",
+    "809d32628e78ca35",
+    "40811e73e3e47c10",
+    "101f4d3fdfb54f7b",
+    "fddbf831f3fb5b86",
+    "18efba7dfe9f75a8",
+    "932ad80cd33514b6",
+    "53ebd7e466f2d8a6",
+    "ced91065d2586eab",
+    "f9468abe4d325af1",
+    "9a71a95aced8478d",
+    "e3ab0b8c7cd0b347",
+    "34ca03b17fd45eaf",
+    "1ecfc79da3f1ac7f",
+    "fff95baa88e29d7f",
+    "d8973e329ebf417d"
+   ]
+  },
+  {
+   "date": "2017-04-01",
+   "future": false,
+   "celex": "02004D0842-20170401",
+   "acts": [
+    {
+     "id": "eu:celex:32016D0320:por",
+     "title": "DECISÃO DE EXECUÇÃO (UE) 2016/320 DA COMISSÃO Texto relevante para efeitos do EEE de 3 de março de 2016",
+     "published": null,
+     "celex": "32016D0320"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 9.º — Rotulagem",
+    "Altera Artigo 25.º — Variedades geneticamente modificadas",
+    "Altera Artigo 39.º — Destinatários",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "b6728f06d729c39c",
+    "226c39ffd0a88dad",
+    "7fabed8a0a46afb5",
+    "c852e24fab0742ad",
+    "f0f8c960bfdbce9b",
+    "948c4f14a947b3d2",
+    "ab7bd1f759bd77c2",
+    "8b694719c3bca305",
+    "d8e6f6429b7a01e4",
+    "d6b1158312249c8f",
+    "cdf5ee57a4d36c83",
+    "a3903d83fbfa5b33",
+    "40365a502a32580d",
+    "4e98fae8b5da0b31",
+    "985bd08d40578027",
+    "10ec9dc661d6d80a",
+    "f35fa188a116339f",
+    "4577be0d44c054fe",
+    "c3e8e79b2b443892",
+    "f013379b465288b3",
+    "c9034bee589ba68a",
+    "2a801ac6858c50c1",
+    "3c8c4e1b344a2d6e",
+    "1874026c2abc672c",
+    "1e7a0903d2eed348",
+    "b14c824a48369685",
+    "b44f0b07c96a0acf",
+    "9a38e78ddf2d77ed",
+    "43f31c3e9d92fa60",
+    "600e3b643a062a95",
+    "770275eff38297e0",
+    "fb7769cefb174eb1",
+    "bda2ca5657145694",
+    "809d32628e78ca35",
+    "40811e73e3e47c10",
+    "101f4d3fdfb54f7b",
+    "fddbf831f3fb5b86",
+    "18efba7dfe9f75a8",
+    "932ad80cd33514b6",
+    "53ebd7e466f2d8a6",
+    "ced91065d2586eab",
+    "f9468abe4d325af1",
+    "9a71a95aced8478d",
+    "e3ab0b8c7cd0b347",
+    "34ca03b17fd45eaf",
+    "1ecfc79da3f1ac7f",
+    "3df53a3b2c283441",
+    "98175b13c1f01214"
+   ]
+  },
+  {
+   "date": "2021-06-18",
+   "future": false,
+   "celex": "02004D0842-20210618",
+   "acts": [
+    {
+     "id": "eu:celex:32021D0985:por",
+     "title": "M2",
+     "published": null,
+     "celex": "32021D0985"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 25.º — Variedades geneticamente modificadas",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "b6728f06d729c39c",
+    "226c39ffd0a88dad",
+    "7fabed8a0a46afb5",
+    "c852e24fab0742ad",
+    "f0f8c960bfdbce9b",
+    "948c4f14a947b3d2",
+    "ab7bd1f759bd77c2",
+    "3565f022fdf3797f",
+    "d8e6f6429b7a01e4",
+    "394ae40f02a7951d",
+    "d7519f10f08b56b0",
+    "a3903d83fbfa5b33",
+    "40365a502a32580d",
+    "1fd8efa16c484f66",
+    "985bd08d40578027",
+    "10ec9dc661d6d80a",
+    "0026fdb21b630df7",
+    "4577be0d44c054fe",
+    "c3e8e79b2b443892",
+    "9c04a91fc876fdae",
+    "c9034bee589ba68a",
+    "2a801ac6858c50c1",
+    "3c8c4e1b344a2d6e",
+    "1874026c2abc672c",
+    "1e7a0903d2eed348",
+    "b14c824a48369685",
+    "b44f0b07c96a0acf",
+    "dea9d1b3441c985f",
+    "43f31c3e9d92fa60",
+    "600e3b643a062a95",
+    "770275eff38297e0",
+    "2750fa2df850d650",
+    "bda2ca5657145694",
+    "809d32628e78ca35",
+    "89bbce31234984a3",
+    "101f4d3fdfb54f7b",
+    "fddbf831f3fb5b86",
+    "d404ace81104c81e",
+    "932ad80cd33514b6",
+    "53ebd7e466f2d8a6",
+    "26922c3f80fbec00",
+    "f9468abe4d325af1",
+    "9a71a95aced8478d",
+    "e3ab0b8c7cd0b347",
+    "34ca03b17fd45eaf",
+    "1ecfc79da3f1ac7f",
+    "3df53a3b2c283441",
+    "4600b5298c84e767"
+   ]
+  }
+ ],
+ "fragments": {
+  "fb646793764ab952": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Dezembro de 2004\n\nque diz respeito às normas de execução segundo as quais os Estados-Membros podem autorizar a colocação no mercado de sementes pertencentes a variedades para as quais foi apresentado um pedido de inscrição no catálogo nacional de variedades de espécies agrícolas ou de espécies hortícolas\n\n[notificada com o número C(2004) 4493]\n\n(Texto relevante para efeitos do EEE)\n\n(2004/842/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 66/401/CEE do Conselho, de 14 de Junho de 1966, relativa à comercialização de sementes de plantas forrageiras [([^1])](http://publications.europa.eu/resource/cellar/eb242c02-d5a7-4858-9d85-bcff8a39d60e.0016.03/DOC_1#ntr1-L_2004362PT.01002101-E0001), nomeadamente o n.º 2 do artigo 4.ºA,\n\nTendo em conta a Directiva 66/402/CEE do Conselho, de 14 de Junho de 1966, relativa à comercialização de sementes de cereais [([^2])](http://publications.europa.eu/resource/cellar/eb242c02-d5a7-4858-9d85-bcff8a39d60e.0016.03/DOC_1#ntr2-L_2004362PT.01002101-E0002), nomeadamente o n.º 2 do artigo 4.ºA,\n\nTendo em conta a Directiva 2002/54/CE do Conselho, de 13 de Junho de 2002, relativa à comercialização de sementes de beterrabas [([^3])](http://publications.europa.eu/resource/cellar/eb242c02-d5a7-4858-9d85-bcff8a39d60e.0016.03/DOC_1#ntr3-L_2004362PT.01002101-E0003), nomeadamente o n.º 2 do artigo 6.º,\n\nTendo em conta a Directiva 2002/55/CE do Conselho, de 13 de Junho de 2002, respeitante à comercialização de sementes de produtos hortícolas [([^4])](http://publications.europa.eu/resource/cellar/eb242c02-d5a7-4858-9d85-bcff8a39d60e.0016.03/DOC_1#ntr4-L_2004362PT.01002101-E0004), nomeadamente o n.º 2 do artigo 23.º,\n\nTendo em conta a Directiva 2002/56/CE do Conselho, de 13 de Junho de 2002, relativa à comercialização de batatas de semente [([^5])](http://publications.europa.eu/resource/cellar/eb242c02-d5a7-4858-9d85-bcff8a39d60e.0016.03/DOC_1#ntr5-L_2004362PT.01002101-E0005), nomeadamente o n.º 2 do artigo 6.º,\n\nTendo em conta a Directiva 2002/57/CE do Conselho, de 13 de Junho de 2002, relativa à comercialização de plantas oleaginosas e de fibras [([^6])](http://publications.europa.eu/resource/cellar/eb242c02-d5a7-4858-9d85-bcff8a39d60e.0016.03/DOC_1#ntr6-L_2004362PT.01002101-E0006), nomeadamente o n.º 2 do artigo 6.º,\n\nConsiderando o seguinte:\n\n(1) Em conformidade com as Directivas 66/401/CEE, 66/402/CEE, 2002/54/CE, 2002/56/CE e 2002/57/CE, os Estados-Membros podem autorizar os produtores de sementes agrícolas a colocar no mercado sementes pertencentes a uma variedade para a qual foi apresentado um pedido de inscrição no catálogo do Estado-Membro em causa, como disposto na Directiva 2002/53/CE do Conselho, de 13 de Junho de 2002, que diz respeito ao catálogo comum das variedades das espécies de plantas agrícolas [([^7])](http://publications.europa.eu/resource/cellar/eb242c02-d5a7-4858-9d85-bcff8a39d60e.0016.03/DOC_1#ntr7-L_2004362PT.01002101-E0007).\n\n(2) Adicionalmente, nos termos da Directiva 2002/55/CE, os Estados-Membros podem autorizar os obtentores e os seus representantes a colocar no mercado sementes pertencentes a uma variedade para a qual foi apresentado, pelo menos num Estado-Membro, um pedido de inscrição num catálogo nacional, como disposto na referida directiva.\n\n(3) Para permitir que os Estados-Membros concedam essas autorizações, é necessário estabelecer as normas de execução das referidas directivas, abrangendo, em particular, as finalidades e as condições para que essas autorizações possam ser concedidas, a rotulagem das embalagens de sementes e, no caso das sementes agrícolas, as quantidades. Convém igualmente que, no caso de uma variedade derivada de um organismo geneticamente modificado, este organismo tenha sido autorizado para colocação no mercado em conformidade com a legislação comunitária.\n\n(4) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "c852e24fab0742ad": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO objectivo da presente decisão é estabelecer as normas segundo as quais um Estado-Membro pode conceder uma autorização de colocação no mercado a:\n\na) Sementes de variedades de espécies agrícolas para as quais foi apresentado ao Estado-Membro em questão um pedido de inscrição no catálogo nacional, previsto no n.º 2 do artigo 1.º da Directiva 2002/53/CE, em observância do disposto no capítulo II da presente decisão; ou\n\nb) Sementes de variedades de espécies hortícolas para as quais foi apresentado, pelo menos num Estado-Membro, um pedido de inscrição num catálogo nacional, previsto no n.º 3 do artigo 3.º da Directiva 2002/55/CE, e para as quais foram apresentadas informações técnicas específicas, em observância do disposto no capítulo III da presente decisão."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "948c4f14a947b3d2": {
+   "fragment_id": "Espécies agrícolas",
+   "type": "divisao",
+   "heading": "Espécies agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Espécies agrícolas"
+  },
+  "ab7bd1f759bd77c2": {
+   "fragment_id": "Artigo 2.º — Autorização",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Autorização\n\n1. No que diz respeito às espécies agrícolas abrangidas pelas Directivas 66/401/CEE, 66/402/CEE, 2002/54/CE, 2002/56/CE e 2002/57/CE, os Estados-Membros podem autorizar os produtores que estejam estabelecidos no seu território a colocar no mercado sementes pertencentes a uma variedade para a qual foi apresentada ao Estado-Membro em causa um pedido de inscrição no catálogo nacional das variedades de espécies agrícolas («catálogo nacional»), em observância do disposto nos artigos 3.º a 18.º da presente decisão.\n\n2. Os Estados-Membros certificar-se-ão de que, caso seja concedida uma autorização de acordo com a presente decisão, o seu titular cumprirá todas as condições ou limitações que essa autorização implica."
+  },
+  "8b694719c3bca305": {
+   "fragment_id": "Artigo 3.º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aplicação\n\n1. A autorização pode ser solicitada pela pessoa que apresentou devidamente um pedido de inscrição das variedades em causa no catálogo do Estado-Membro em questão (em seguida designado «o requerente», que inclui o representante dessa pessoa, desde que este tenha sido oficialmente delegado).\n\n2. O requerente apresentará as seguintes informações:\n\na) Os testes e ensaios previstos;\n\nb) Os nomes dos Estados-Membros onde esses testes e ensaios deverão ser realizados;\n\nc) A descrição da variedade;\n\nd) A selecção de manutenção da variedade."
+  },
+  "d8e6f6429b7a01e4": {
+   "fragment_id": "Artigo 4.º — Finalidade",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Finalidade\n\nAs autorizações só serão concedidas para testes ou ensaios realizados em empresas agrícolas para reunir informações sobre a cultura ou a utilização da variedade."
+  },
+  "d6b1158312249c8f": {
+   "fragment_id": "Artigo 5.º — Condições técnicas",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Condições técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições técnicas\n\n1. As sementes de plantas forrageiras respeitarão as condições estabelecidas nos anexos I e II da Directiva 66/401/CEE no que diz respeito a:\n\na) Sementes certificadas (todas as espécies à excepção de *Pisum sativum* e *Vicia faba*); ou\n\nb) «Sementes certificadas de segunda geração» (*Pisum sativum*, *Vicia faba*).\n\n2. As sementes de cereais respeitarão as condições estabelecidas nos anexos I e II da Directiva 66/402/CEE no que diz respeito a:\n\na) Sementes certificadas (*Phalaris canariensis*, à excepção dos híbridos, *Secale cereale*, *Sorghum bicolor*, *Sorghum sudanense*, *Zea mays* e híbridos de *Avena sativa*, *Hordeum vulgare*, *Oryza sativa*, *Triticum aestivum*, *Triticum durum*, *Triticum spelta* e *x Triticosecale*, à excepção de variedades autogâmicas); ou\n\nb) «Sementes certificadas de segunda geração» (*Avena sativa*, *Hordeum vulgare*, *Oryza sativa*, *Triticum aestivum*, *Triticum durum*, *Triticum spelta* e variedades autogâmicas de *x Triticosecale*, à excepção dos híbridos em todos os casos).\n\n3. As sementes de beterrabas respeitarão as condições estabelecidas no anexo I da Directiva 2002/54/CE no que diz respeito às sementes certificadas.\n\n4. As batatas de semente respeitarão as condições estabelecidas nos anexos I e II da Directiva 2002/56/CE no que diz respeito a batatas de semente certificadas.\n\n5. As sementes de plantas oleaginosas e de fibras respeitarão as condições estabelecidas nos anexos I e II da Directiva 2002/57/CE no que diz respeito a:\n\na) Sementes certificadas (todas as espécies à excepção de *Linum usitatissimum*);\n\nb) «Sementes certificadas de segunda e terceira geração» (*Linum usitatissimum*)."
+  },
+  "cdf5ee57a4d36c83": {
+   "fragment_id": "Artigo 6.º — Exame",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Exame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Exame\n\n1. A observância das condições referidas no artigo 5.º será avaliada:\n\na) No caso das batatas de semente, por um exame oficial;\n\nb) Nos outros casos, por um exame oficial ou por um exame sob supervisão oficial.\n\n2. Para a avaliação da observância das condições respeitantes à identidade e pureza varietais, será utilizada a descrição da variedade fornecida pelo requerente ou, se for adequado, a descrição provisória da variedade com base nos resultados do exame oficial da distinção, homogeneidade e estabilidade da variedade, como previsto no artigo 7.º da Directiva 2002/53/CE.\n\n3. O exame será realizado em conformidade com os métodos internacionais actuais, caso esses métodos existam.\n\n4. Para o exame, serão recolhidas amostras, oficialmente ou sob supervisão oficial ou, no caso de batatas de semente, oficialmente em conformidade com os métodos apropriados.\n\n5. As amostras serão recolhidas de lotes homogéneos.\n\n6. O peso máximo de um lote e o peso mínimo de uma amostra são indicados:\n\na) Plantas forrageiras: no anexo III da Directiva 66/401/CEE;\n\nb) Cereais: no anexo III da Directiva 66/402/CEE;\n\nc) Beterraba: no anexo II da Directiva 2002/54/CE;\n\nd) Plantas oleaginosas e de fibras: no anexo III da Directiva 2002/57/CE."
+  },
+  "a3903d83fbfa5b33": {
+   "fragment_id": "Artigo 7.º — Quantidades",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Quantidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Quantidades\n\nAs quantidades autorizadas para cada variedade não ultrapassarão as seguintes percentagens de sementes da mesma espécie utilizadas anualmente nos Estados-Membros a que se destinam as sementes:\n\na) No caso do trigo duro: 0,05 %;\n\nb) No caso da ervilha forrageira, da fava, da aveia, da cevada e do trigo: 0,3 %;\n\nc) Em todos os outros casos: 0,1 %.\n\nContudo, se essas quantidades não forem suficientes para semear 10 ha por Estado-Membro a que se destinam as sementes, poderá ser autorizada a quantidade necessária para essa área."
+  },
+  "40365a502a32580d": {
+   "fragment_id": "Artigo 8.º — Embalagens e fecho",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Embalagens e fecho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Embalagens e fecho\n\nAs sementes só poderão ser comercializadas em pacotes ou contentores fechados, com um sistema de fecho. As embalagens e os contentores das sementes serão fechados oficialmente ou sob supervisão oficial, de forma a que não possam ser abertos sem danificar o sistema de fecho ou sem deixar marcas de intervenção abusiva quer no rótulo oficial referido no artigo 9.º quer na embalagem. A fim de garantir o empacotamento, o sistema de fecho deverá comportar pelo menos a incorporação neste do rótulo oficial ou a aposição de um selo oficial.\n\nNo caso de batatas de semente, as embalagens serão novas e o contentor estará limpo."
+  },
+  "82e4e97812bbe376": {
+   "fragment_id": "Artigo 9.º — Rotulagem",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Rotulagem\n\n1. As embalagens das sementes ostentarão um rótulo oficial numa das línguas oficiais da Comunidade.\n\n2. O rótulo indicado no n.º 1 deve incluir as seguintes informações:\n\na) O serviço de certificação e o Estado-Membro ou respectivas siglas;\n\nb) O número de referência do lote;\n\nc) O mês e ano de fabrico;\n\nd) A espécie;\n\ne) A denominação da variedade sob a qual as sementes serão comercializadas (a referência do obtentor, a denominação proposta ou a denominação aprovada) e o número oficial do pedido para inscrição da variedade no catálogo, se for o caso;\n\nf) A indicação «variedade ainda não oficialmente incluída no catálogo»;\n\ng) A indicação «só para testes e ensaios»;\n\nh) Quando aplicável, a menção «variedade geneticamente modificada»;\n\ni) Dimensão (só para batatas de semente);\n\nj) O peso líquido ou bruto declarado ou o número declarado de sementes puras ou, se for adequado, de glomérulos;\n\nk) No caso de indicação do peso e da utilização de pesticidas granulados, de substâncias de revestimento ou de outros aditivos sólidos, a indicação da natureza do aditivo, bem como a relação aproximada entre o peso de sementes puras ou, se for adequado, de glomérulos e o peso total.\n\n3. O rótulo indicado no n.º 1 será cor-de-laranja."
+  },
+  "985bd08d40578027": {
+   "fragment_id": "Artigo 10.º — Tratamento químico",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Tratamento químico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Tratamento químico\n\nQualquer tratamento químico será anotado no rótulo oficial referido no artigo 9.º, num rótulo do fornecedor e sobre a embalagem ou dentro dela, ou ainda no contentor."
+  },
+  "10ec9dc661d6d80a": {
+   "fragment_id": "Artigo 11.º — Duração",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Duração\n\nSem prejuízo dos artigos 13.º e 14.º, as autorizações concedidas em conformidade com as disposições da presente decisão serão válidas por um período não superior a um ano e renováveis nos termos do artigo 12.º"
+  },
+  "f35fa188a116339f": {
+   "fragment_id": "Artigo 12.º — Renovação de autorizações",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Renovação de autorizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Renovação de autorizações\n\n1. Sem prejuízo dos artigos 13.º e 14.º, as autorizações referidas no artigo 2.º serão renováveis por períodos não superiores a um ano cada.\n\n2. O pedido deverá ser acompanhado dos seguintes documentos:\n\na) Uma referência à autorização inicial;\n\nb) Qualquer informação disponível que complemente a informação já dada sobre a descrição, a manutenção e/ou o cultivo ou a utilização da variedade objecto da autorização inicial;\n\nc) Provas de que a avaliação para a introdução no catálogo da variedade em causa ainda está em curso, caso não estejam disponíveis de outra forma para o Estado-Membro."
+  },
+  "4577be0d44c054fe": {
+   "fragment_id": "Artigo 13.º — Expiração da validade",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Expiração da validade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Expiração da validade\n\nAs autorizações deixarão de ser válidas se o pedido de inscrição no catálogo nacional for retirado ou rejeitado, ou se a variedade for incluída no catálogo."
+  },
+  "c3e8e79b2b443892": {
+   "fragment_id": "Artigo 14.º — Salvaguarda",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Salvaguarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Salvaguarda\n\nNão obstante a concessão de uma autorização nos termos do artigo 2.º, um Estado-Membro pode proibir a utilização de uma variedade na totalidade ou em parte do seu território ou estabelecer as condições apropriadas para a cultura da variedade, nos casos previstos na alínea c), em conformidade com as condições para utilização dos produtos resultantes desse cultura:\n\na) Quando esteja provado que a cultura da variedade pode ser nociva do ponto de vista fitossanitário para a cultura de outras variedade ou espécies;\n\nb) Quando ensaios oficiais efectuados em cultura realizados no Estado-Membro requerente demonstrarem que a variedade não produz, em nenhuma parte do seu território, resultados correspondentes aos obtidos por uma variedade comparável admitida no território desse Estado-Membro, ou quando for seguramente conhecido que a variedade não é adequada para o cultivo em nenhuma parte do seu território devido ao seu tipo de classe de maturidade; ou\n\nc) Quando existam razões válidas para considerar que a variedade representa um risco para a saúde humana ou para o ambiente."
+  },
+  "f013379b465288b3": {
+   "fragment_id": "Artigo 15.º — Obrigação de informação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Obrigação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Obrigação de informação\n\n1. Após a concessão da autorização, o Estado-Membro que autoriza pode requerer que a pessoa autorizada comunique:\n\na) Os resultados dos testes ou ensaios realizados em empresas agrícolas para reunir informações sobre a cultura ou a utilização da variedade;\n\nb) As quantidades de sementes colocadas no mercado durante o período autorizado e o Estado-Membro ao qual se destinavam as sementes.\n\n2. As informações previstas na alínea b) do n.º 1 serão tratadas como confidenciais."
+  },
+  "c9034bee589ba68a": {
+   "fragment_id": "Artigo 16.º — Controlos das selecções de conservação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Controlos das selecções de conservação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Controlos das selecções de conservação\n\nO Estado-Membro que autoriza pode controlar as selecções de conservação.\n\nQuando as selecções de conservação forem efectuadas num Estado-Membro diferente do Estado-Membro que autoriza, os Estados-Membros prestar-se-ão assistência administrativa no que se refere aos controlos necessários.\n\nUm Estado-Membro pode aceitar as selecções de conservação num país terceiro, desde que tenha sido decidido, nos termos do n.º 1, alínea b), do artigo 22.º da Directiva 2002/53/CE, que os controlos das selecções de conservação efectuados num país terceiro oferecem as mesmas garantias que os controlos efectuados pelos Estados-Membros."
+  },
+  "2a801ac6858c50c1": {
+   "fragment_id": "Artigo 17.º — Comunicação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Comunicação\n\nOs Estados-Membros notificar-se-ão mutuamente e a Comissão do seguinte:\n\na) Um pedido, logo que seja recebido, ou a rejeição de um pedido de autorização; e\n\nb) A concessão, renovação, revogação ou retirada de uma autorização."
+  },
+  "3c8c4e1b344a2d6e": {
+   "fragment_id": "Artigo 18.º — Intercâmbio de informações",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Intercâmbio de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Intercâmbio de informações\n\nOs Estados-Membros utilizarão os sistemas informatizados existentes de intercâmbio de informações para facilitar a troca de dados no que diz respeito aos pedidos de aceitação de variedades nos catálogos nacionais e a autorização de variedades de sementes ainda não incluídas nesses catálogos."
+  },
+  "1874026c2abc672c": {
+   "fragment_id": "Artigo 19.º — Publicação de uma lista de variedades",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Publicação de uma lista de variedades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Publicação de uma lista de variedades\n\nA Comissão pode, com base nas informações fornecidas pelos Estados-Membros, publicar uma lista de variedades que foram autorizadas."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "b14c824a48369685": {
+   "fragment_id": "Espécies hortícolas",
+   "type": "divisao",
+   "heading": "Espécies hortícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Espécies hortícolas"
+  },
+  "b44f0b07c96a0acf": {
+   "fragment_id": "Artigo 20.º — Autorização",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Autorização\n\n1. No que se refere às espécies hortícolas abrangidas pela Directiva 2002/55/CE, os Estados-Membros podem autorizar os obtentores estabelecidos no seu território a colocar no mercado sementes pertencentes a uma variedade para a qual foi apresentado, pelo menos num Estado-Membro, um pedido de inscrição num catálogo nacional de variedades de espécies hortícolas («catálogo nacional») e para a qual foram apresentadas, nos Estados-Membros em questão, informações técnicas específicas, em observância do disposto nos artigos 21.º a 37.º da presente decisão.\n\n2. Os Estados-Membros certificar-se-ão de que, caso seja concedida uma autorização de acordo com a presente decisão, o seu titular cumprirá todas as condições ou limitações que essa autorização implica."
+  },
+  "9a38e78ddf2d77ed": {
+   "fragment_id": "Artigo 21.º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Aplicação\n\n1. A autorização pode ser solicitada pela pessoa que apresentou devidamente um pedido de inscrição das variedades em causa no catálogo de, pelo menos, um Estado-Membro (em seguida designado «o requerente», que inclui o representante dessa pessoa, desde que este tenha sido oficialmente delegado).\n\n2. O requerente apresentará as seguintes informações:\n\na) A descrição da variedade;\n\nb) A selecção de manutenção da variedade."
+  },
+  "43f31c3e9d92fa60": {
+   "fragment_id": "Artigo 22.º — Finalidade",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Finalidade\n\nA autorização só será concedida com o objectivo de adquirir conhecimentos a partir da experiência prática durante o cultivo."
+  },
+  "600e3b643a062a95": {
+   "fragment_id": "Artigo 23.º — Condições técnicas",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Condições técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Condições técnicas\n\nAs sementes de produtos hortícolas respeitarão as condições estabelecidas no anexo II da Directiva 2002/55/CE."
+  },
+  "770275eff38297e0": {
+   "fragment_id": "Artigo 24.º — Exame",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Exame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Exame\n\n1. As sementes de produtos hortícolas serão submetidas a um controlo oficial *a posteriori* para verificação da sua identidade e pureza varietais, com base na descrição da variedade fornecida pelo requerente ou, se for adequado, a descrição provisória da variedade com base nos resultados do exame oficial da distinção, homogeneidade e estabilidade da variedade, como previsto no artigo 7.º da Directiva 2002/55/CE.\n\n2. As amostras serão recolhidas de lotes homogéneos.\n\n3. O peso máximo de um lote e o peso mínimo de uma amostra são indicados no anexo III da Directiva 2002/55/CE."
+  },
+  "374ef16055c89a2b": {
+   "fragment_id": "Artigo 25.º — Variedades geneticamente modificadas",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Variedades geneticamente modificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Variedades geneticamente modificadas\n\nNo caso de uma variedade geneticamente modificada, a autorização só poderá ser concedida se tiverem sido tomadas todas as medidas adequadas no sentido de evitar efeitos nocivos para a saúde humana e para o ambiente. Os materiais geneticamente modificados devem ser autorizados, quer nos termos da Directiva 2001/18/CE do Parlamento Europeu e do Conselho [([^8])](http://publications.europa.eu/resource/cellar/eb242c02-d5a7-4858-9d85-bcff8a39d60e.0016.03/DOC_1#ntr8-L_2004362PT.01002101-E0008), quer nos termos do Regulamento (CE) n.º 1829/2003."
+  },
+  "bda2ca5657145694": {
+   "fragment_id": "Artigo 26.º — Fornecedor",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Fornecedor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Fornecedor\n\nAs pessoas responsáveis pela aposição do rótulo, da inscrição impressa ou do selo nas embalagens:\n\na) Informarão os Estados-Membros do início e do fim das suas actividades;\n\nb) Terão uma contabilidade relativa a todos os lotes de sementes e mantê-la-ão ao dispor dos Estados-Membros durante três anos, no mínimo;\n\nc) Recolherão amostras de cada lote destinado à comercialização e mantê-las-ão à disposição dos Estados-Membros durante, pelo menos, dois anos.\n\nAs operações previstas nas alíneas b) e c) são objecto de um controlo oficial efectuado por amostragem."
+  },
+  "809d32628e78ca35": {
+   "fragment_id": "Artigo 27.º — Embalagens e fecho",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Embalagens e fecho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Embalagens e fecho\n\nAs sementes só poderão ser comercializadas em pacotes fechados, com um sistema de fecho. As embalagens das sementes serão fechadas de forma a que não possam ser abertas sem danificar o sistema de fecho ou sem deixar marcas de intervenção abusiva quer no rótulo oficial referido no artigo 28.º quer na embalagem."
+  },
+  "40811e73e3e47c10": {
+   "fragment_id": "Artigo 28.º — Rotulagem",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Rotulagem\n\n1. As embalagens das sementes ostentarão um rótulo do fornecedor ou uma inscrição impressa ou um selo redigidos numa das línguas oficiais da Comunidade.\n\n2. O rótulo indicado no n.º 1 deve incluir as seguintes informações:\n\na) O número de referência do lote;\n\nb) O mês e ano de fabrico;\n\nc) A espécie;\n\nd) A denominação da variedade sob a qual as sementes serão comercializadas (a referência do obtentor, a denominação proposta ou a denominação aprovada) e o número oficial do pedido para inscrição da variedade no catálogo, se for o caso;\n\ne) A indicação «variedade ainda não oficialmente incluída no catálogo»;\n\nf) Quando aplicável, a menção «variedade geneticamente modificada»;\n\ng) O peso líquido ou bruto declarado ou o número declarado de sementes puras ou, se for adequado, de glomérulos;\n\nh) No caso de indicação do peso e da utilização de pesticidas granulados, de substâncias de revestimento ou de outros aditivos sólidos, a indicação da natureza do aditivo, bem como a relação aproximada entre o peso de sementes puras ou, se for adequado, de glomérulos e o peso total.\n\n3. O rótulo indicado no n.º 1 será cor-de-laranja."
+  },
+  "101f4d3fdfb54f7b": {
+   "fragment_id": "Artigo 29.º — Tratamento químico",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Tratamento químico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Tratamento químico\n\nQualquer tratamento químico será anotado no rótulo referido no artigo 28.º e sobre a embalagem ou dentro dela."
+  },
+  "fddbf831f3fb5b86": {
+   "fragment_id": "Artigo 30.º — Duração",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Duração\n\nSem prejuízo dos artigos 32.º e 33.º, as autorizações concedidas em conformidade com as disposições da presente decisão serão válidas por um período não superior a um ano e renováveis nos termos do artigo 31.º"
+  },
+  "18efba7dfe9f75a8": {
+   "fragment_id": "Artigo 31.º — Renovação de autorizações",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Renovação de autorizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Renovação de autorizações\n\n1. Sem prejuízo dos artigos 32.º e 33.º, as autorizações referidas no artigo 20.º serão renováveis, no máximo, duas vezes por um período não superior a um ano cada.\n\n2. O pedido deverá ser acompanhado dos seguintes documentos:\n\na) Uma referência à autorização inicial;\n\nb) Qualquer informação disponível que complemente a informação já dada sobre a descrição, a manutenção e/ou os conhecimentos a partir da experiência prática durante o cultivo da variedade que é objecto da autorização inicial;\n\nc) Provas de que a avaliação para a introdução no catálogo da variedade em causa ainda está em curso, caso não estejam disponíveis de outra forma para o Estado-Membro."
+  },
+  "932ad80cd33514b6": {
+   "fragment_id": "Artigo 32.º — Expiração da validade",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Expiração da validade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Expiração da validade\n\nAs autorizações deixarão de ser válidas se o pedido de inscrição no catálogo nacional for retirado ou rejeitado, ou se a variedade for incluída no catálogo."
+  },
+  "53ebd7e466f2d8a6": {
+   "fragment_id": "Artigo 33.º — Salvaguarda",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Salvaguarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Salvaguarda\n\nNão obstante a concessão de uma autorização nos termos do artigo 20.º, um Estado-Membro pode ser autorizado a proibir a utilização de uma variedade na totalidade ou em parte do seu território ou a estabelecer as condições apropriadas para a cultura da variedade, nos casos previstos na alínea b), em conformidade com as condições para utilização dos produtos resultantes dessa cultura:\n\na) Quando esteja provado que a cultura da variedade pode ser nociva do ponto de vista fitossanitário para a cultura de outras variedade ou espécies;\n\nb) Quando existam razões válidas para considerar que a variedade representa um risco para a saúde humana ou para o ambiente."
+  },
+  "ced91065d2586eab": {
+   "fragment_id": "Artigo 34.º — Obrigação de informação",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Obrigação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Obrigação de informação\n\n1. Após a concessão da autorização, o Estado-Membro que autoriza pode requerer que a pessoa autorizada comunique:\n\na) Os conhecimentos adquiridos a partir da experiência prática durante o cultivo;\n\nb) As quantidades de sementes colocadas no mercado durante o período autorizado e o Estado-Membro ao qual se destinavam as sementes.\n\n2. As informações previstas na alínea b) do n.º 1 serão tratadas como confidenciais."
+  },
+  "f9468abe4d325af1": {
+   "fragment_id": "Artigo 35.º — Controlos das selecções de conservação",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Controlos das selecções de conservação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Controlos das selecções de conservação\n\nO Estado-Membro que autoriza pode controlar as selecções de conservação.\n\nQuando as selecções de conservação forem efectuadas num Estado-Membro diferente do Estado-Membro que autoriza, os Estados-Membros prestar-se-ão assistência administrativa no que se refere aos controlos necessários.\n\nUm Estado-Membro pode aceitar as selecções de conservação num país terceiro, desde que tenha sido decidido, nos termos do n.º 1, alínea b), do artigo 37.º da Directiva 2002/55/CE, que os controlos das selecções de conservação efectuados num país terceiro oferecem as mesmas garantias que os controlos efectuados pelos Estados-Membros."
+  },
+  "9a71a95aced8478d": {
+   "fragment_id": "Artigo 36.º — Comunicação",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Comunicação\n\nOs Estados-Membros notificar-se-ão mutuamente e a Comissão do seguinte:\n\na) Um pedido, logo que seja recebido, ou a rejeição de um pedido de autorização;\n\nb) A concessão, renovação, revogação ou retirada de uma autorização."
+  },
+  "e3ab0b8c7cd0b347": {
+   "fragment_id": "Artigo 37.º — Intercâmbio de informações",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Intercâmbio de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Intercâmbio de informações\n\nOs Estados-Membros utilizarão os sistemas informatizados existentes de intercâmbio de informações para facilitar a troca de dados no que diz respeito aos pedidos de aceitação de variedades nos catálogos nacionais e a autorização de variedades de sementes ainda não incluídas nesses catálogos."
+  },
+  "34ca03b17fd45eaf": {
+   "fragment_id": "Artigo 38.º — Publicação de uma lista de variedades",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Publicação de uma lista de variedades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Publicação de uma lista de variedades\n\nA Comissão pode, com base nas informações fornecidas pelos Estados-Membros, publicar uma lista de variedades que foram autorizadas."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "fff95baa88e29d7f": {
+   "fragment_id": "Artigo 39.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 1 de Dezembro de 2004.\n\n***Pela Comissão***\n\n**Markos KYPRIANOU**\n\n***Membro da Comissão***\n\n---"
+  },
+  "d8973e329ebf417d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/eb242c02-d5a7-4858-9d85-bcff8a39d60e.0016.03/DOC_1#ntc1-L_2004362PT.01002101-E0001) [JO 125 de 11.7.1966, p. 2298/66](http://publications.europa.eu/resource/oj/JOP_1966_125_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2004/55/CE ([JO L 114 de 21.4.2004, p. 18](http://publications.europa.eu/resource/oj/JOL_2004_114_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/eb242c02-d5a7-4858-9d85-bcff8a39d60e.0016.03/DOC_1#ntc2-L_2004362PT.01002101-E0002) [JO 125 de 11.7.1966, p. 2309/66](http://publications.europa.eu/resource/oj/JOP_1966_125_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2003/61/CE ([JO L 165 de 3.7.2003, p. 23](http://publications.europa.eu/resource/oj/JOL_2003_165_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/eb242c02-d5a7-4858-9d85-bcff8a39d60e.0016.03/DOC_1#ntc3-L_2004362PT.01002101-E0003) [JO L 193 de 20.7.2002, p. 12](http://publications.europa.eu/resource/oj/JOL_2002_193_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2003/61/CE.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/eb242c02-d5a7-4858-9d85-bcff8a39d60e.0016.03/DOC_1#ntc4-L_2004362PT.01002101-E0004) [JO L 193 de 20.7.2002, p. 33](http://publications.europa.eu/resource/oj/JOL_2002_193_R_TOC). Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1829/2003 do Parlamento Europeu e do Conselho ([JO L 268 de 18.10.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_268_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/eb242c02-d5a7-4858-9d85-bcff8a39d60e.0016.03/DOC_1#ntc5-L_2004362PT.01002101-E0005) [JO L 193 de 20.7.2002, p. 60](http://publications.europa.eu/resource/oj/JOL_2002_193_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2003/61/CE.\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/eb242c02-d5a7-4858-9d85-bcff8a39d60e.0016.03/DOC_1#ntc6-L_2004362PT.01002101-E0006) [JO L 193 de 20.7.2002, p. 74](http://publications.europa.eu/resource/oj/JOL_2002_193_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2003/61/CE.\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/eb242c02-d5a7-4858-9d85-bcff8a39d60e.0016.03/DOC_1#ntc7-L_2004362PT.01002101-E0007) [JO L 193 de 20.7.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_193_R_TOC). Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1829/2003 do Parlamento Europeu e do Conselho.\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/eb242c02-d5a7-4858-9d85-bcff8a39d60e.0016.03/DOC_1#ntc8-L_2004362PT.01002101-E0008) [JO L 106 de 17.4.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_106_R_TOC). Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1830/2003 ([JO L 268 de 18.10.2003, p. 24](http://publications.europa.eu/resource/oj/JOL_2003_268_R_TOC))."
+  },
+  "b6728f06d729c39c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Dezembro de 2004\n\nque diz respeito às normas de execução segundo as quais os Estados-Membros podem autorizar a colocação no mercado de sementes pertencentes a variedades para as quais foi apresentado um pedido de inscrição no catálogo nacional de variedades de espécies agrícolas ou de espécies hortícolas\n\n[notificada com o número C(2004) 4493]\n\n(Texto relevante para efeitos do EEE)\n\n(2004/842/CE)"
+  },
+  "4e98fae8b5da0b31": {
+   "fragment_id": "Artigo 9.º — Rotulagem",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Rotulagem\n\n1. As embalagens das sementes ostentarão um rótulo oficial numa das línguas oficiais da Comunidade.\n\n2. O rótulo indicado no n.º 1 deve incluir as seguintes informações:\n\na) O serviço de certificação e o Estado-Membro ou respectivas siglas;\n\naa) o número de ordem atribuído oficialmente;\n\nb) O número de referência do lote;\n\nc) O mês e ano de fabrico;\n\nd) A espécie;\n\ne) A denominação da variedade sob a qual as sementes serão comercializadas (a referência do obtentor, a denominação proposta ou a denominação aprovada) e o número oficial do pedido para inscrição da variedade no catálogo, se for o caso;\n\nf) A indicação «variedade ainda não oficialmente incluída no catálogo»;\n\ng) A indicação «só para testes e ensaios»;\n\nh) Quando aplicável, a menção «variedade geneticamente modificada»;\n\ni) Dimensão (só para batatas de semente);\n\nj) O peso líquido ou bruto declarado ou o número declarado de sementes puras ou, se for adequado, de glomérulos;\n\nk) No caso de indicação do peso e da utilização de pesticidas granulados, de substâncias de revestimento ou de outros aditivos sólidos, a indicação da natureza do aditivo, bem como a relação aproximada entre o peso de sementes puras ou, se for adequado, de glomérulos e o peso total.\n\n3. O rótulo indicado no n.º 1 será cor-de-laranja."
+  },
+  "fb7769cefb174eb1": {
+   "fragment_id": "Artigo 25.º — Variedades geneticamente modificadas",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Variedades geneticamente modificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Variedades geneticamente modificadas\n\nNo caso de uma variedade geneticamente modificada, a autorização só poderá ser concedida se tiverem sido tomadas todas as medidas adequadas no sentido de evitar efeitos nocivos para a saúde humana e para o ambiente. Os materiais geneticamente modificados devem ser autorizados, quer nos termos da Directiva 2001/18/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/a5294fbe-9f59-491b-b3db-153522afb166.0015.02/DOC_1#E0001)), quer nos termos do Regulamento (CE) n.º 1829/2003."
+  },
+  "3df53a3b2c283441": {
+   "fragment_id": "Artigo 39.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente decisão.\n\n---"
+  },
+  "98175b13c1f01214": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a5294fbe-9f59-491b-b3db-153522afb166.0015.02/DOC_1#src.E0001)) JO L 106 de 17.4.2001, p. 1. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1830/2003 (JO L 268 de 18.10.2003, p. 24)."
+  },
+  "3565f022fdf3797f": {
+   "fragment_id": "Artigo 3.º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aplicação\n\n1. A autorização pode ser solicitada pela pessoa que apresentou devidamente um pedido de inscrição das variedades em causa no catálogo do Estado-Membro em questão (em seguida designado «o requerente», que inclui o representante dessa pessoa, desde que este tenha sido oficialmente delegado).\n\n2.\n\nO requerente apresentará as seguintes informações:\n\na) Os testes e ensaios previstos;\n\nb) Os nomes dos Estados-Membros onde esses testes e ensaios deverão ser realizados;\n\nc) A descrição da variedade;\n\nd) A selecção de manutenção da variedade."
+  },
+  "394ae40f02a7951d": {
+   "fragment_id": "Artigo 5.º — Condições técnicas",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Condições técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições técnicas\n\n1.\n\nAs sementes de plantas forrageiras respeitarão as condições estabelecidas nos anexos I e II da Directiva 66/401/CEE no que diz respeito a:\n\na) Sementes certificadas (todas as espécies à excepção de *Pisum sativum* e *Vicia faba*); ou\n\nb) «Sementes certificadas de segunda geração» (*Pisum sativum*, *Vicia faba*).\n\n2.\n\nAs sementes de cereais respeitarão as condições estabelecidas nos anexos I e II da Directiva 66/402/CEE no que diz respeito a:\n\na) Sementes certificadas (*Phalaris canariensis*, à excepção dos híbridos, *Secale cereale*, *Sorghum bicolor*, *Sorghum sudanense*, *Zea mays* e híbridos de *Avena sativa*, *Hordeum vulgare*, *Oryza sativa*, *Triticum aestivum*, *Triticum durum*, *Triticum spelta* e *x Triticosecale*, à excepção de variedades autogâmicas); ou\n\nb) «Sementes certificadas de segunda geração» (*Avena sativa*, *Hordeum vulgare*, *Oryza sativa*, *Triticum aestivum*, *Triticum durum*, *Triticum spelta* e variedades autogâmicas de *x Triticosecale*, à excepção dos híbridos em todos os casos).\n\n3. As sementes de beterrabas respeitarão as condições estabelecidas no anexo I da Directiva 2002/54/CE no que diz respeito às sementes certificadas.\n\n4. As batatas de semente respeitarão as condições estabelecidas nos anexos I e II da Directiva 2002/56/CE no que diz respeito a batatas de semente certificadas.\n\n5.\n\nAs sementes de plantas oleaginosas e de fibras respeitarão as condições estabelecidas nos anexos I e II da Directiva 2002/57/CE no que diz respeito a:\n\na) Sementes certificadas (todas as espécies à excepção de *Linum usitatissimum*);\n\nb) «Sementes certificadas de segunda e terceira geração» (*Linum usitatissimum*)."
+  },
+  "d7519f10f08b56b0": {
+   "fragment_id": "Artigo 6.º — Exame",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Exame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Exame\n\n1.\n\nA observância das condições referidas no artigo 5.º será avaliada:\n\na) No caso das batatas de semente, por um exame oficial;\n\nb) Nos outros casos, por um exame oficial ou por um exame sob supervisão oficial.\n\n2. Para a avaliação da observância das condições respeitantes à identidade e pureza varietais, será utilizada a descrição da variedade fornecida pelo requerente ou, se for adequado, a descrição provisória da variedade com base nos resultados do exame oficial da distinção, homogeneidade e estabilidade da variedade, como previsto no artigo 7.º da Directiva 2002/53/CE.\n\n3. O exame será realizado em conformidade com os métodos internacionais actuais, caso esses métodos existam.\n\n4. Para o exame, serão recolhidas amostras, oficialmente ou sob supervisão oficial ou, no caso de batatas de semente, oficialmente em conformidade com os métodos apropriados.\n\n5. As amostras serão recolhidas de lotes homogéneos.\n\n6.\n\nO peso máximo de um lote e o peso mínimo de uma amostra são indicados:\n\na) Plantas forrageiras: no anexo III da Directiva 66/401/CEE;\n\nb) Cereais: no anexo III da Directiva 66/402/CEE;\n\nc) Beterraba: no anexo II da Directiva 2002/54/CE;\n\nd) Plantas oleaginosas e de fibras: no anexo III da Directiva 2002/57/CE."
+  },
+  "1fd8efa16c484f66": {
+   "fragment_id": "Artigo 9.º — Rotulagem",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Rotulagem\n\n1. As embalagens das sementes ostentarão um rótulo oficial numa das línguas oficiais da Comunidade.\n\n2.\n\nO rótulo indicado no n.º 1 deve incluir as seguintes informações:\n\na) O serviço de certificação e o Estado-Membro ou respectivas siglas;\n\naa) o número de ordem atribuído oficialmente;\n\nb) O número de referência do lote;\n\nc) O mês e ano de fabrico;\n\nd) A espécie;\n\ne) A denominação da variedade sob a qual as sementes serão comercializadas (a referência do obtentor, a denominação proposta ou a denominação aprovada) e o número oficial do pedido para inscrição da variedade no catálogo, se for o caso;\n\nf) A indicação «variedade ainda não oficialmente incluída no catálogo»;\n\ng) A indicação «só para testes e ensaios»;\n\nh) Quando aplicável, a menção «variedade geneticamente modificada»;\n\ni) Dimensão (só para batatas de semente);\n\nj) O peso líquido ou bruto declarado ou o número declarado de sementes puras ou, se for adequado, de glomérulos;\n\nk) No caso de indicação do peso e da utilização de pesticidas granulados, de substâncias de revestimento ou de outros aditivos sólidos, a indicação da natureza do aditivo, bem como a relação aproximada entre o peso de sementes puras ou, se for adequado, de glomérulos e o peso total.\n\n3. O rótulo indicado no n.º 1 será cor-de-laranja."
+  },
+  "0026fdb21b630df7": {
+   "fragment_id": "Artigo 12.º — Renovação de autorizações",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Renovação de autorizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Renovação de autorizações\n\n1. Sem prejuízo dos artigos 13.º e 14.º, as autorizações referidas no artigo 2.º serão renováveis por períodos não superiores a um ano cada.\n\n2.\n\nO pedido deverá ser acompanhado dos seguintes documentos:\n\na) Uma referência à autorização inicial;\n\nb) Qualquer informação disponível que complemente a informação já dada sobre a descrição, a manutenção e/ou o cultivo ou a utilização da variedade objecto da autorização inicial;\n\nc) Provas de que a avaliação para a introdução no catálogo da variedade em causa ainda está em curso, caso não estejam disponíveis de outra forma para o Estado-Membro."
+  },
+  "9c04a91fc876fdae": {
+   "fragment_id": "Artigo 15.º — Obrigação de informação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Obrigação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Obrigação de informação\n\n1.\n\nApós a concessão da autorização, o Estado-Membro que autoriza pode requerer que a pessoa autorizada comunique:\n\na) Os resultados dos testes ou ensaios realizados em empresas agrícolas para reunir informações sobre a cultura ou a utilização da variedade;\n\nb) As quantidades de sementes colocadas no mercado durante o período autorizado e o Estado-Membro ao qual se destinavam as sementes.\n\n2. As informações previstas na alínea b) do n.º 1 serão tratadas como confidenciais."
+  },
+  "dea9d1b3441c985f": {
+   "fragment_id": "Artigo 21.º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Aplicação\n\n1. A autorização pode ser solicitada pela pessoa que apresentou devidamente um pedido de inscrição das variedades em causa no catálogo de, pelo menos, um Estado-Membro (em seguida designado «o requerente», que inclui o representante dessa pessoa, desde que este tenha sido oficialmente delegado).\n\n2.\n\nO requerente apresentará as seguintes informações:\n\na) A descrição da variedade;\n\nb) A selecção de manutenção da variedade."
+  },
+  "2750fa2df850d650": {
+   "fragment_id": "Artigo 25.º — Variedades geneticamente modificadas",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Variedades geneticamente modificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Variedades geneticamente modificadas\n\nNo caso de uma variedade geneticamente modificada, a autorização só poderá ser concedida se tiverem sido tomadas todas as medidas adequadas no sentido de evitar efeitos nocivos para a saúde humana e para o ambiente. Os materiais geneticamente modificados devem ser autorizados, quer nos termos da Directiva 2001/18/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/418b477f-de87-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0001)), quer nos termos do Regulamento (CE) n.º 1829/2003."
+  },
+  "89bbce31234984a3": {
+   "fragment_id": "Artigo 28.º — Rotulagem",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Rotulagem\n\n1. As embalagens das sementes ostentarão um rótulo do fornecedor ou uma inscrição impressa ou um selo redigidos numa das línguas oficiais da Comunidade.\n\n2.\n\nO rótulo indicado no n.º 1 deve incluir as seguintes informações:\n\na) O número de referência do lote;\n\nb) O mês e ano de fabrico;\n\nc) A espécie;\n\nd) A denominação da variedade sob a qual as sementes serão comercializadas (a referência do obtentor, a denominação proposta ou a denominação aprovada) e o número oficial do pedido para inscrição da variedade no catálogo, se for o caso;\n\ne) A indicação «variedade ainda não oficialmente incluída no catálogo»;\n\nf) Quando aplicável, a menção «variedade geneticamente modificada»;\n\ng) O peso líquido ou bruto declarado ou o número declarado de sementes puras ou, se for adequado, de glomérulos;\n\nh) No caso de indicação do peso e da utilização de pesticidas granulados, de substâncias de revestimento ou de outros aditivos sólidos, a indicação da natureza do aditivo, bem como a relação aproximada entre o peso de sementes puras ou, se for adequado, de glomérulos e o peso total.\n\n3. O rótulo indicado no n.º 1 será cor-de-laranja."
+  },
+  "d404ace81104c81e": {
+   "fragment_id": "Artigo 31.º — Renovação de autorizações",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Renovação de autorizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Renovação de autorizações\n\n1. Sem prejuízo dos artigos 32.º e 33.º, as autorizações referidas no artigo 20.º serão renováveis, no máximo, duas vezes por um período não superior a um ano cada.\n\n2.\n\nO pedido deverá ser acompanhado dos seguintes documentos:\n\na) Uma referência à autorização inicial;\n\nb) Qualquer informação disponível que complemente a informação já dada sobre a descrição, a manutenção e/ou os conhecimentos a partir da experiência prática durante o cultivo da variedade que é objecto da autorização inicial;\n\nc) Provas de que a avaliação para a introdução no catálogo da variedade em causa ainda está em curso, caso não estejam disponíveis de outra forma para o Estado-Membro."
+  },
+  "26922c3f80fbec00": {
+   "fragment_id": "Artigo 34.º — Obrigação de informação",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Obrigação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Obrigação de informação\n\n1.\n\nApós a concessão da autorização, o Estado-Membro que autoriza pode requerer que a pessoa autorizada comunique:\n\na) Os conhecimentos adquiridos a partir da experiência prática durante o cultivo;\n\nb) As quantidades de sementes colocadas no mercado durante o período autorizado e o Estado-Membro ao qual se destinavam as sementes.\n\n2. As informações previstas na alínea b) do n.º 1 serão tratadas como confidenciais."
+  },
+  "4600b5298c84e767": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/418b477f-de87-11eb-895a-01aa75ed71a1.0019.02/DOC_1#src.E0001)) JO L 106 de 17.4.2001, p. 1. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1830/2003 (JO L 268 de 18.10.2003, p. 24)."
+  }
+ }
+}

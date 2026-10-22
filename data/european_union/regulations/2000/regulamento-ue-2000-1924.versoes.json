@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000R1924:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R1924-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "2000-09-12",
+   "future": false,
+   "celex": "32000R1924",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f31df5263ed3b99b",
+    "42506b5df64e9f8f",
+    "d9dbc016242872bd",
+    "23fa2f02ce1c7c6e",
+    "a2f76054d850dbea",
+    "3e37b3dc6ad51a5b",
+    "c382128d3d34f1d1"
+   ]
+  }
+ ],
+ "fragments": {
+  "f31df5263ed3b99b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.o 1924/2000 da Comissão, de 11 de Setembro de 2000, que estabelece regras de execução do Regulamento (CE) n.o 104/2000 no respeitante à concessão do reconhecimento específico às organizações de produtores do sector das pescas, a fim de melhorar a qualidade dos seus produtos** *Jornal Oficial nº L 230 de 12/09/2000 p. 0005 - 0006*\n\nRegulamento (CE) n.o 1924/2000 da Comissão\n\nde 11 de Setembro de 2000\n\nque estabelece regras de execução do Regulamento (CE) n.o 104/2000 no respeitante à concessão do reconhecimento específico às organizações de produtores do sector das pescas, a fim de melhorar a qualidade dos seus produtos\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.o 104/2000 do Conselho, de 17 de Dezembro de 1999, que estabelece a organização comum de mercado no sector dos produtos da pesca e da aquicultura(1), e, nomeadamente, o n.o 5 do seu artigo 12.o,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.o 104/2000, que revogou os Regulamentos (CEE) n.o 3759/92(2) e (CEE) n.o 1772/82 do Conselho(3) com efeitos a partir de 1 de Janeiro de 2001, estabelece que pode ser concedido um reconhecimento específico às organizações de produtores que apresentem um plano de melhoramento da qualidade dos seus produtos. As condições relativas ao reconhecimento específico estabelecidas no regulamento em questão foram alteradas relativamente ao quadro jurídico anterior, pelo que é adequado adoptar regras de execução e revogar o actual regulamento nesta matéria, nomeadamente o Regulamento (CE) n.o 2636/95(4).\n\n(2) É necessário definir os produtos da aquicultura que beneficiam do plano de melhoramento da qualidade.\n\n(3) Devem ser estabelecidas as informações a comunicar pelas organizações de produtores e certos aspectos do processo de decisão de concessão, retirada ou recusa do reconhecimento pelo Estado-Membro.\n\n(4) Devem ser estabelecidas as condições de retirada ou de recusa do reconhecimento específico.\n\n(5) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão dos Produtos da Pesca,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "42506b5df64e9f8f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPor produtos da aquicultura referidos no n.o 1 do artigo 12.o do regulamento de base, entende-se os produtos definidos no anexo III, ponto 2.2, alínea a) do Regulamento (CE) n.o 2792/1999 do Conselho(5)."
+  },
+  "d9dbc016242872bd": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs organizações de produtores que pretendam obter o reconhecimento específico apresentarão às autoridades competentes do Estado-Membro as seguintes informações:\n\n1. A lista dos produtos comercializados pelas próprias ou pelos seus membros, em conformidade com as regras gerais estabelecidas pela organização e que são objecto de um plano de melhoramento da qualidade.\n\n2. Os pormenores do plano de melhoramento da qualidade dos referidos produtos; o plano incluirá, pelo menos, os seguintes elementos:\n\n- uma recapitulação dos objectivos pretendidos pelo plano, como definidos no n.o 2, nos dois primeiros travessões, do artigo 12.o do Regulamento (CE) n.o 104/2000,\n\n- uma descrição das medidas a executar em cada fase da produção e da comercialização,\n\n- um resumo dos estudos preparatórios que sublinhe, nomeadamente, a actual norma de qualidade dos produtos em questão, as deficiências do actual sistema e os métodos propostos para melhorar essas deficiências. Estes métodos incluirão a formação e a aplicação de técnicas adequadas e de know-how.\n\n3. Um sistema permanente de avaliação e controlo destinado a assegurar que o plano cumpra os objectivos pretendidos.\n\n4. O orçamento previsto para a execução do plano num período de três anos."
+  },
+  "23fa2f02ce1c7c6e": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. No prazo de 30 dias seguintes à recepção de um plano apresentado por uma organização de produtores, o Estado-Membro transmitirá à Comissão uma cópia integral do plano.\n\n2. Se a Comissão rejeitar o plano no período especificado no n.o 3 do artigo 12.o do Regulamento (CE) n.o 104/2000, o Estado-Membro não poderá conceder o reconhecimento específico à organização de produtores que apresentou o plano. Se a Comissão solicitar alterações do plano, o Estado-Membro em questão poderá aprovar o plano e conceder o reconhecimento específico, sob condição de terem sido efectuadas as alterações solicitadas.\n\n3. O Estado-Membro notificará, por escrito, a organização de produtores da sua decisão, o mais tardar 30 dias após o termo do período especificado no n.o 3 do artigo 12.o do Regulamento (CE) n.o 104/2000. Sempre que for recusado o reconhecimento específico, serão dados os motivos da decisão do Estado-Membro.\n\n4. Sempre que se pretenda retirar o reconhecimento específico, o Estado-Membro notificará a organização de produtores dessa intenção, assim como dos motivos da retirada, pelo menos duas semanas antes da retirada.\n\n5. Os Estados-Membros informarão a Comissão, no prazo de dois meses, de qualquer decisão de conceder, retirar ou recusar o reconhecimento específico e dos motivos de qualquer retirada ou recusa."
+  },
+  "a2f76054d850dbea": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A retirada pelo Estado-Membro do reconhecimento de uma organização de produtores em conformidade com o n.o 1, alínea b), do artigo 6.o do regulamento de base induzirá também a retirada de qualquer reconhecimento específico que tenha sido concedido a essa organização de produtores.\n\n2. Os Estados-Membros podem recusar ou retirar o reconhecimento específico nos seguintes casos:\n\na) Sempre que uma organização de produtores não forneça ao Estado-Membro as informações necessárias para o controlo das suas actividades; ou\n\nb) Sempre que uma organização de produtores não cumpra as suas obrigações por força do presente regulamento ou por força do artigo 12.o do Regulamento (CE) n.o 104/2000.\n\n3. O reconhecimento específico será imediatamente retirado com efeitos retroactivos sempre que a organização a quem tenha sido concedido o tenha utilizado ou dele tenha beneficiado de uma forma fraudulenta. Nesses casos, qualquer ajuda concedida ao abrigo do n.o 1, alínea b), do artigo 15.o do Regulamento (CE) n.o 2792/1999 será recuperada pelo Estado-Membro."
+  },
+  "3e37b3dc6ad51a5b": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nÉ revogado o Regulamento (CE) n.o 2636/95."
+  },
+  "c382128d3d34f1d1": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Janeiro de 2001.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 11 de Setembro de 2000.\n\nPela Comissão\n\nFranz Fischler\n\nMembro da Comissão\n\n(1) JO L 17 de 21.1.2000, p. 22.\n\n(2) JO L 388 de 31.12.1992, p. 1.\n\n(3) JO L 197 de 6.7.1982, p. 1.\n\n(4) JO L 271 de 14.11.1995, p. 8.\n\n(5) JO L 337 de 30.12.1999, p. 10."
+  }
+ }
+}

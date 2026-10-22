@@ -34,6 +34,115 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-07-06'
+version_history:
+  file: regulamento-ue-1992-1768.versoes.json
+  count: 4
+  source_lastmod: '2009-07-06'
+  versions:
+  - date: '1992-07-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-01'
+    amending: null
+    amending_title: Acto de Adesão da Áustria, da Finlândia e da Suécia; Acto relativo às condições de adesão da República
+      Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República
+      da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações
+      dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º — Definições
+    - Adita Artigo 2.º — Âmbito de aplicação
+    - Adita Artigo 3.º — Condições de obtenção do certificado
+    - Adita Artigo 4.º — Objecto da protecção
+    - Adita Artigo 5.º — Efeitos do certificado
+    - Adita Artigo 6.º — Direito ao certificado
+    - Adita Artigo 7.º — Pedido de certificado
+    - Adita Artigo 8.º — Conteúdo do pedido de certificado
+    - Adita Artigo 9.º — Apresentação do pedido de certificado
+    - Adita Artigo 10.º — Concessão do certificado ou recusa do pedido de certificado
+    - Adita Artigo 11.º — Publicação
+    - Adita Artigo 12.º — Taxas anuais
+    - Adita Artigo 13.º — Período de validade do certificado
+    - Adita Artigo 14.º — Caducidade do certificado
+    - Adita Artigo 15.º — Nulidade do certificado
+    - Adita Artigo 16.º — Divulgação da caducidade ou nulidade
+    - Adita Artigo 17.º — Recurso
+    - Adita Artigo 18.º — Processo
+    - Adita DISPOSIÇÕES TRANSITÓRIAS
+    - Adita Artigo 19.º
+    - Adita Artigo 19.º-A — Disposições suplementares relativas ao alargamento da Comunidade
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita DISPOSIÇÃO FINAL
+    - Adita Artigo 23.º — Entrada em vigor
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+  - date: '2007-01-26'
+    amending: eu:celex:32006R1901:por
+    amending_title: REGULAMENTO (CE) N. o 1901/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de Dezembro de 2006; ►A3
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 7.º — Pedido de certificado
+    - Altera Artigo 8.º — Conteúdo do pedido de certificado
+    - Altera Artigo 9.º — Apresentação do pedido de certificado
+    - Altera Artigo 10.º — Concessão do certificado ou recusa do pedido de certificado
+    - Altera Artigo 11.º — Publicação
+    - Altera Artigo 13.º — Período de validade do certificado
+    - Altera Artigo 16.º — Divulgação da caducidade ou nulidade
+    - Altera Artigo 19.º-A — Disposições suplementares relativas ao alargamento da Comunidade
+    - Altera Artigo 20.º
+    - Altera Notas
+    - Adita Artigo 15.º-A — Revogação da prorrogação de validade
+    - Adita Artigo 17.º — Recursos
+    - Suprime Artigo 17.º — Recurso
+  - date: '2009-07-06'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Definições
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Condições de obtenção do certificado
+    - Suprime Artigo 4.º — Objecto da protecção
+    - Suprime Artigo 5.º — Efeitos do certificado
+    - Suprime Artigo 6.º — Direito ao certificado
+    - Suprime Artigo 7.º — Pedido de certificado
+    - Suprime Artigo 8.º — Conteúdo do pedido de certificado
+    - Suprime Artigo 9.º — Apresentação do pedido de certificado
+    - Suprime Artigo 10.º — Concessão do certificado ou recusa do pedido de certificado
+    - Suprime Artigo 11.º — Publicação
+    - Suprime Artigo 12.º — Taxas anuais
+    - Suprime Artigo 13.º — Período de validade do certificado
+    - Suprime Artigo 14.º — Caducidade do certificado
+    - Suprime Artigo 15.º — Nulidade do certificado
+    - Suprime Artigo 15.º-A — Revogação da prorrogação de validade
+    - Suprime Artigo 16.º — Divulgação da caducidade ou nulidade
+    - Suprime Artigo 17.º — Recursos
+    - Suprime Artigo 18.º — Processo
+    - Suprime DISPOSIÇÕES TRANSITÓRIAS
+    - Suprime Artigo 19.º
+    - Suprime Artigo 19.º-A — Disposições suplementares relativas ao alargamento da Comunidade
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime DISPOSIÇÃO FINAL
+    - Suprime Artigo 23.º — Entrada em vigor
+    - Suprime Notas
 identifiers:
   celex: 31992R1768
   eli: http://data.europa.eu/eli/reg/1992/1768/oj
@@ -48,7 +157,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/eb40fe29-a730-4865-a8c9-1f2394293431.0011
   content_url: http://publications.europa.eu/resource/cellar/af404e44-8b62-40e8-8acc-b8e9ef7d5564.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R1768-20090706
-  retrieved_at: '2026-10-22T02:41:08Z'
+  retrieved_at: '2026-10-22T14:41:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T16:52:53.823+01:00'
 integrity:
@@ -57,9 +166,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:08Z'
-  notes: Texto consolidado 01992R1768-20090706.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:31Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-1992-1768.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -212,16 +321,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:08Z'
+  checked_at: '2026-10-22T14:41:31Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01992R1768-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

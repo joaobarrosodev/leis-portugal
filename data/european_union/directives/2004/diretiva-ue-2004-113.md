@@ -34,6 +34,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-19'
+version_history:
+  file: diretiva-ue-2004-113.versoes.json
+  count: 1
+  source_lastmod: '2026-06-19'
+  versions:
+  - date: '2026-06-19'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32004L0113
   eli: http://data.europa.eu/eli/dir/2004/113/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6453f632-1c70-4449-b8b8-be25c8045a79.0016
   content_url: http://publications.europa.eu/resource/cellar/a8aa2679-591e-11f1-b3e2-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0113-20260619
-  retrieved_at: '2026-10-22T02:42:40Z'
+  retrieved_at: '2026-10-22T14:57:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-06-03T23:02:19.513+02:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:40Z'
-  notes: Texto consolidado 02004L0113-20260619.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:28Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2004-113.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -153,28 +162,19 @@ relationships:
 article_structure:
   article_count: 18
   section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:40Z'
-  warnings: []
+  checked_at: '2026-10-22T14:57:28Z'
+  warnings:
+  - '02004L0113-20041221: versão indisponível (Sem expressão na língua por para CELEX 02004L0113-20041221.)'
   errors: []
 ---
 
 # Directiva 2004/113/CE do Conselho, de 13 de Dezembro de 2004
-
-> 02004L0113 — PT — 19.06.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024L1499) — [DIRETIVA (UE) 2024/1499 DO CONSELHO de 7 de maio de 2024](http://publications.europa.eu/resource/celex/32024L1499) — L 1499 — 1 — 29.5.2024
-
-## DIRECTIVA 2004/113/CE DO CONSELHO
 
 de 13 de Dezembro de 2004
 

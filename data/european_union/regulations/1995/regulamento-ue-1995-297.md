@@ -34,6 +34,314 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-04-01'
+version_history:
+  file: regulamento-ue-1995-297.versoes.json
+  count: 17
+  source_lastmod: '2024-04-01'
+  versions:
+  - date: '1995-02-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-11-20'
+    amending: eu:celex:31998R2743:por
+    amending_title: REGULAMENTO (CE) N o 2743/98 DO CONSELHO de 14 de Dezembro de 1998; REGULAMENTO (CE) N. o 494/2003 DA
+      COMISSÃO de 18 de Março de 2003; REGULAMENTO (CE) N. o 1905/2005 DO CONSELHO de 14 de Novembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1º — Âmbito de aplicação
+    - Adita Artigo 3º
+    - Adita Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/9678295a-7807-44ca-b326-19245e96102e.0018.03/DOC_1#E0006))
+    - Adita Artigo 4.º — Medicamentos para uso humano abrangidos pelos procedimentos previstos na Directiva 2001/83/CE
+    - Adita Artigo 5º
+    - Adita Medicamentos veterinários abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004
+    - Adita Artigo 6.º — Medicamentos veterinários abrangidos pelos procedimentos previstos na Directiva 2001/82/CE
+    - Adita Artigo 7º
+    - Adita Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/9678295a-7807-44ca-b326-19245e96102e.0018.03/DOC_1#E0010))
+    - Adita Artigo 8.º — Outras taxas
+    - Adita 1. Taxa por pareceres científicos
+    - Adita 2. Taxa por serviços científicos não abrangidos pelos artigos 3.º a 7.º nem pelo n.º 1 do artigo 8.º
+    - Adita 3. Taxa por serviços administrativos
+    - Adita Artigo 9º — Possibilidade de redução das taxas
+    - Adita Artigo 10.º — Data de vencimento e diferimento do pagamento
+    - Adita Artigo 11º — Normas de aplicação
+    - Adita Artigo 12º — Alterações
+    - Adita Artigo [►M1](http://publications.europa.eu/resource/celex/31998R2743) 13º ◄ — Entrada em vigor e efeitos jurídicos
+    - Adita Notas
+    - Suprime Artigo 3º — Pedidos de autorização de medicamentos para uso humano apresentados segundo o procedimento centralizado
+    - Suprime Artigo 4º — Resolução de litígios sobre pedidos de autorização de medicamentos para uso humano apresentados
+      ao abrigo do procedimento descentralizado
+    - Suprime Artigo 5º — Pedidos de autorização de medicamentos veterinários apresentados ao abrigo do procedimento centralizado
+    - Suprime Artigo 6º — Resolução de litígios sobre pedidos de autorização de medicamentos veterinários apresentados ao
+      abrigo do procedimento descentralizado
+    - Suprime Artigo 7º — Derrogações, reduções e resolução de litígios
+    - Suprime Artigo 8º — Data de vencimento e pagamentos em atraso
+    - Suprime Artigo 9º — Normas de aplicação
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º — Entrada em vigor e efeitos jurídicos
+  - date: '2008-04-01'
+    amending: eu:celex:32008R0312:por
+    amending_title: REGULAMENTO (CE) N. o 312/2008 DA COMISSÃO de 3 de Abril de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Medicamentos para uso humano abrangidos pelos procedimentos previstos na Directiva 2001/83/CE
+    - Altera Artigo 6.º — Medicamentos veterinários abrangidos pelos procedimentos previstos na Directiva 2001/82/CE
+    - Altera 1. Taxa por pareceres científicos
+    - Altera 2. Taxa por serviços científicos não abrangidos pelos artigos 3.º a 7.º nem pelo n.º 1 do artigo 8.º
+    - Altera 3. Taxa por serviços administrativos
+    - Altera Artigo 10.º — Data de vencimento e diferimento do pagamento
+    - Altera Notas
+    - Adita Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/055c21cc-f8f8-46a8-85df-c06660fa9dab.0018.03/DOC_1#E0005))
+    - Adita Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/055c21cc-f8f8-46a8-85df-c06660fa9dab.0018.03/DOC_1#E0009))
+    - Suprime Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/9678295a-7807-44ca-b326-19245e96102e.0018.03/DOC_1#E0006))
+    - Suprime Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/9678295a-7807-44ca-b326-19245e96102e.0018.03/DOC_1#E0010))
+  - date: '2009-04-01'
+    amending: eu:celex:32009R0249:por
+    amending_title: REGULAMENTO (CE) N. o 249/2009 DA COMISSÃO de 23 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Medicamentos para uso humano abrangidos pelos procedimentos previstos na Directiva 2001/83/CE
+    - Altera Artigo 6.º — Medicamentos veterinários abrangidos pelos procedimentos previstos na Directiva 2001/82/CE
+    - Altera 1. Taxa por pareceres científicos
+    - Altera 2. Taxa por serviços científicos não abrangidos pelos artigos 3.º a 7.º nem pelo n.º 1 do artigo 8.º
+    - Altera 3. Taxa por serviços administrativos
+    - Altera Artigo 10.º — Data de vencimento e diferimento do pagamento
+    - Altera Notas
+    - Adita Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/970d2c9e-2c21-4b0e-b167-86191e5b489f.0018.03/DOC_1#E0005))
+    - Adita Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/970d2c9e-2c21-4b0e-b167-86191e5b489f.0018.03/DOC_1#E0009))
+    - Suprime Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/055c21cc-f8f8-46a8-85df-c06660fa9dab.0018.03/DOC_1#E0005))
+    - Suprime Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/055c21cc-f8f8-46a8-85df-c06660fa9dab.0018.03/DOC_1#E0009))
+  - date: '2010-04-01'
+    amending: eu:celex:32010R0261:por
+    amending_title: REGULAMENTO (UE) N. o 261/2010 DA COMISSÃO de 25 de Março de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Medicamentos para uso humano abrangidos pelos procedimentos previstos na Directiva 2001/83/CE
+    - Altera Artigo 6.º — Medicamentos veterinários abrangidos pelos procedimentos previstos na Directiva 2001/82/CE
+    - Altera 1. Taxa por pareceres científicos
+    - Altera 2. Taxa por serviços científicos não abrangidos pelos artigos 3.º a 7.º nem pelo n.º 1 do artigo 8.º
+    - Altera 3. Taxa por serviços administrativos
+    - Altera Artigo 10.º — Data de vencimento e diferimento do pagamento
+    - Altera Notas
+    - Adita Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/4f80dcf0-c28b-4ac5-bf63-d99cb27b6939.0018.03/DOC_1#E0005))
+    - Adita Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/4f80dcf0-c28b-4ac5-bf63-d99cb27b6939.0018.03/DOC_1#E0009))
+    - Suprime Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/970d2c9e-2c21-4b0e-b167-86191e5b489f.0018.03/DOC_1#E0005))
+    - Suprime Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/970d2c9e-2c21-4b0e-b167-86191e5b489f.0018.03/DOC_1#E0009))
+  - date: '2011-04-01'
+    amending: eu:celex:32011R0301:por
+    amending_title: REGULAMENTO (UE) N. o 301/2011 DA COMISSÃO de 28 de Março de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Medicamentos para uso humano abrangidos pelos procedimentos previstos na Directiva 2001/83/CE
+    - Altera Artigo 6.º — Medicamentos veterinários abrangidos pelos procedimentos previstos na Directiva 2001/82/CE
+    - Altera 1. Taxa por pareceres científicos
+    - Altera 2. Taxa por serviços científicos não abrangidos pelos artigos 3.º a 7.º nem pelo n.º 1 do artigo 8.º
+    - Altera 3. Taxa por serviços administrativos
+    - Altera Artigo 10.º — Data de vencimento e diferimento do pagamento
+    - Altera Notas
+    - Adita Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/d25bdd17-81d8-40f1-8d9e-27159dcbc1a4.0018.03/DOC_1#E0005))
+    - Adita Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/d25bdd17-81d8-40f1-8d9e-27159dcbc1a4.0018.03/DOC_1#E0009))
+    - Suprime Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/4f80dcf0-c28b-4ac5-bf63-d99cb27b6939.0018.03/DOC_1#E0005))
+    - Suprime Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/4f80dcf0-c28b-4ac5-bf63-d99cb27b6939.0018.03/DOC_1#E0009))
+  - date: '2012-04-01'
+    amending: eu:celex:32012R0273:por
+    amending_title: REGULAMENTO (UE) N. o 273/2012 DA COMISSÃO de 27 de março de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Medicamentos para uso humano abrangidos pelos procedimentos previstos na Directiva 2001/83/CE
+    - Altera Artigo 6.º — Medicamentos veterinários abrangidos pelos procedimentos previstos na Directiva 2001/82/CE
+    - Altera 1. Taxa por pareceres científicos
+    - Altera 2. Taxa por serviços científicos não abrangidos pelos artigos 3.º a 7.º nem pelo n.º 1 do artigo 8.º
+    - Altera 3. Taxa por serviços administrativos
+    - Altera Artigo 10.º — Data de vencimento e diferimento do pagamento
+    - Altera Notas
+    - Adita Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/0b95e3b2-a45b-43a4-a0c8-f183aa58fcc2.0018.03/DOC_1#E0005))
+    - Adita Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/0b95e3b2-a45b-43a4-a0c8-f183aa58fcc2.0018.03/DOC_1#E0009))
+    - Suprime Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/d25bdd17-81d8-40f1-8d9e-27159dcbc1a4.0018.03/DOC_1#E0005))
+    - Suprime Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/d25bdd17-81d8-40f1-8d9e-27159dcbc1a4.0018.03/DOC_1#E0009))
+  - date: '2013-04-01'
+    amending: eu:celex:32013R0220:por
+    amending_title: REGULAMENTO (UE) N. o 220/2013 DA COMISSÃO de 13 de março de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Medicamentos para uso humano abrangidos pelos procedimentos previstos na Directiva 2001/83/CE
+    - Altera Artigo 6.º — Medicamentos veterinários abrangidos pelos procedimentos previstos na Directiva 2001/82/CE
+    - Altera 1. Taxa por pareceres científicos
+    - Altera 2. Taxa por serviços científicos não abrangidos pelos artigos 3.º a 7.º nem pelo n.º 1 do artigo 8.º
+    - Altera 3. Taxa por serviços administrativos
+    - Altera Artigo 10.º — Data de vencimento e diferimento do pagamento
+    - Altera Notas
+    - Adita Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/ca49ba01-0243-40f2-9107-2980dd6f2fd1.0018.03/DOC_1#E0005))
+    - Adita Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/ca49ba01-0243-40f2-9107-2980dd6f2fd1.0018.03/DOC_1#E0009))
+    - Suprime Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/0b95e3b2-a45b-43a4-a0c8-f183aa58fcc2.0018.03/DOC_1#E0005))
+    - Suprime Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/0b95e3b2-a45b-43a4-a0c8-f183aa58fcc2.0018.03/DOC_1#E0009))
+  - date: '2014-04-01'
+    amending: eu:celex:32014R0272:por
+    amending_title: REGULAMENTO (UE) N. o 272/2014 DA COMISSÃO de 17 de março de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Medicamentos para uso humano abrangidos pelos procedimentos previstos na Directiva 2001/83/CE
+    - Altera Artigo 6.º — Medicamentos veterinários abrangidos pelos procedimentos previstos na Directiva 2001/82/CE
+    - Altera 1. Taxa por pareceres científicos
+    - Altera 2. Taxa por serviços científicos não abrangidos pelos artigos 3.º a 7.º nem pelo n.º 1 do artigo 8.º
+    - Altera 3. Taxa por serviços administrativos
+    - Altera Artigo 10.º — Data de vencimento e diferimento do pagamento
+    - Altera Notas
+    - Adita Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/2f68519c-b243-4224-92f2-18d43d9a58fc.0014.03/DOC_1#E0005))
+    - Adita Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/2f68519c-b243-4224-92f2-18d43d9a58fc.0014.03/DOC_1#E0009))
+    - Suprime Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/ca49ba01-0243-40f2-9107-2980dd6f2fd1.0018.03/DOC_1#E0005))
+    - Suprime Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/ca49ba01-0243-40f2-9107-2980dd6f2fd1.0018.03/DOC_1#E0009))
+  - date: '2015-04-01'
+    amending: eu:celex:32015R0490:por
+    amending_title: REGULAMENTO (UE) 2015/490 DA COMISSÃO de 23 de março de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Medicamentos para uso humano abrangidos pelos procedimentos previstos na Directiva 2001/83/CE
+    - Altera 1. Taxa por pareceres científicos
+    - Altera 2. Taxa por serviços científicos não abrangidos pelos artigos 3.º a 7.º nem pelo n.º 1 do artigo 8.º
+    - Altera Artigo 10.º — Data de vencimento e diferimento do pagamento
+    - Altera Notas
+    - Adita Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/99212e45-bfce-41fa-877b-86a2be6d7b7c.0015.02/DOC_1#E0005))
+    - Adita Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/99212e45-bfce-41fa-877b-86a2be6d7b7c.0015.02/DOC_1#E0009))
+    - Suprime Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/2f68519c-b243-4224-92f2-18d43d9a58fc.0014.03/DOC_1#E0005))
+    - Suprime Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/2f68519c-b243-4224-92f2-18d43d9a58fc.0014.03/DOC_1#E0009))
+  - date: '2016-04-01'
+    amending: eu:celex:32016R0461:por
+    amending_title: REGULAMENTO (UE) 2016/461 DA COMISSÃO de 30 de março de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Medicamentos para uso humano abrangidos pelos procedimentos previstos na Directiva 2001/83/CE
+    - Altera Artigo 6.º — Medicamentos veterinários abrangidos pelos procedimentos previstos na Directiva 2001/82/CE
+    - Altera 1. Taxa por pareceres científicos
+    - Altera 2. Taxa por serviços científicos não abrangidos pelos artigos 3.º a 7.º nem pelo n.º 1 do artigo 8.º
+    - Altera Artigo 10.º — Data de vencimento e diferimento do pagamento
+    - Altera Notas
+    - Adita Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/115ff7f2-932f-4597-ae6a-ff907d5a5781.0015.02/DOC_1#E0005))
+    - Adita Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/115ff7f2-932f-4597-ae6a-ff907d5a5781.0015.02/DOC_1#E0009))
+    - Suprime Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/99212e45-bfce-41fa-877b-86a2be6d7b7c.0015.02/DOC_1#E0005))
+    - Suprime Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/99212e45-bfce-41fa-877b-86a2be6d7b7c.0015.02/DOC_1#E0009))
+  - date: '2017-04-01'
+    amending: eu:celex:32017R0612:por
+    amending_title: REGULAMENTO (UE) 2017/612 DA COMISSÃO de 30 de março de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Medicamentos para uso humano abrangidos pelos procedimentos previstos na Directiva 2001/83/CE
+    - Altera Artigo 6.º — Medicamentos veterinários abrangidos pelos procedimentos previstos na Directiva 2001/82/CE
+    - Altera 1. Taxa por pareceres científicos
+    - Altera 2. Taxa por serviços científicos não abrangidos pelos artigos 3.º a 7.º nem pelo n.º 1 do artigo 8.º
+    - Altera 3. Taxa por serviços administrativos
+    - Altera Artigo 10.º — Data de vencimento e diferimento do pagamento
+    - Altera Notas
+    - Adita Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^1^](http://publications.europa.eu/resource/cellar/d8a9d4e8-0855-4fd9-b90d-3ce86f10f45f.0015.02/DOC_1#E0001))
+    - Adita Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^5^](http://publications.europa.eu/resource/cellar/d8a9d4e8-0855-4fd9-b90d-3ce86f10f45f.0015.02/DOC_1#E0005))
+    - Suprime Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^5^](http://publications.europa.eu/resource/cellar/115ff7f2-932f-4597-ae6a-ff907d5a5781.0015.02/DOC_1#E0005))
+    - Suprime Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^9^](http://publications.europa.eu/resource/cellar/115ff7f2-932f-4597-ae6a-ff907d5a5781.0015.02/DOC_1#E0009))
+  - date: '2018-04-01'
+    amending: eu:celex:32018R0471:por
+    amending_title: REGULAMENTO (UE) 2018/471 DA COMISSÃO de 21 de março de 2018
+    changes:
+    - Altera Artigo 4.º — Medicamentos para uso humano abrangidos pelos procedimentos previstos na Directiva 2001/83/CE
+    - Altera Artigo 6.º — Medicamentos veterinários abrangidos pelos procedimentos previstos na Directiva 2001/82/CE
+    - Altera 1. Taxa por pareceres científicos
+    - Altera 2. Taxa por serviços científicos não abrangidos pelos artigos 3.º a 7.º nem pelo n.º 1 do artigo 8.º
+    - Altera 3. Taxa por serviços administrativos
+    - Altera Artigo 10.º — Data de vencimento e diferimento do pagamento
+    - Altera Notas
+    - Adita Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^1^](http://publications.europa.eu/resource/cellar/8eb6dc82-536e-45a6-8705-57be3347469f.0015.02/DOC_1#E0001))
+    - Adita Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^5^](http://publications.europa.eu/resource/cellar/8eb6dc82-536e-45a6-8705-57be3347469f.0015.02/DOC_1#E0005))
+    - Suprime Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^1^](http://publications.europa.eu/resource/cellar/d8a9d4e8-0855-4fd9-b90d-3ce86f10f45f.0015.02/DOC_1#E0001))
+    - Suprime Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^5^](http://publications.europa.eu/resource/cellar/d8a9d4e8-0855-4fd9-b90d-3ce86f10f45f.0015.02/DOC_1#E0005))
+  - date: '2020-04-01'
+    amending: eu:celex:32019R0480:por
+    amending_title: M15; REGULAMENTO (UE) 2020/422 DA COMISSÃO de 19 de março de 2020
+    changes:
+    - Altera Artigo 4.º — Medicamentos para uso humano abrangidos pelos procedimentos previstos na Directiva 2001/83/CE
+    - Altera Artigo 6.º — Medicamentos veterinários abrangidos pelos procedimentos previstos na Directiva 2001/82/CE
+    - Altera 1. Taxa por pareceres científicos
+    - Altera 2. Taxa por serviços científicos não abrangidos pelos artigos 3.º a 7.º nem pelo n.º 1 do artigo 8.º
+    - Altera 3. Taxa por serviços administrativos
+    - Altera Artigo 10.º — Data de vencimento e diferimento do pagamento
+    - Altera Notas
+    - Adita Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^1^](http://publications.europa.eu/resource/cellar/2277d67d-9f6a-11ea-9d2d-01aa75ed71a1.0019.03/DOC_1#E0001))
+    - Adita Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^5^](http://publications.europa.eu/resource/cellar/2277d67d-9f6a-11ea-9d2d-01aa75ed71a1.0019.03/DOC_1#E0005))
+    - Suprime Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^1^](http://publications.europa.eu/resource/cellar/8eb6dc82-536e-45a6-8705-57be3347469f.0015.02/DOC_1#E0001))
+    - Suprime Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^5^](http://publications.europa.eu/resource/cellar/8eb6dc82-536e-45a6-8705-57be3347469f.0015.02/DOC_1#E0005))
+  - date: '2022-04-01'
+    amending: eu:celex:32022R0510:por
+    amending_title: REGULAMENTO (UE) 2022/510 DA COMISSÃO de 29 de março de 2022
+    changes:
+    - Altera Artigo 4.º — Medicamentos para uso humano abrangidos pelos procedimentos previstos na Directiva 2001/83/CE
+    - Altera Artigo 6.º — Medicamentos veterinários abrangidos pelos procedimentos previstos na Directiva 2001/82/CE
+    - Altera 1. Taxa por pareceres científicos
+    - Altera 2. Taxa por serviços científicos não abrangidos pelos artigos 3.º a 7.º nem pelo n.º 1 do artigo 8.º
+    - Altera 3. Taxa por serviços administrativos
+    - Altera Artigo 10.º — Data de vencimento e diferimento do pagamento
+    - Altera Notas
+    - Adita Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^1^](http://publications.europa.eu/resource/cellar/cc285a09-d06a-11ec-a95f-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Adita Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^5^](http://publications.europa.eu/resource/cellar/cc285a09-d06a-11ec-a95f-01aa75ed71a1.0019.02/DOC_1#E0005))
+    - Suprime Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^1^](http://publications.europa.eu/resource/cellar/2277d67d-9f6a-11ea-9d2d-01aa75ed71a1.0019.03/DOC_1#E0001))
+    - Suprime Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^5^](http://publications.europa.eu/resource/cellar/2277d67d-9f6a-11ea-9d2d-01aa75ed71a1.0019.03/DOC_1#E0005))
+  - date: '2023-04-01'
+    amending: eu:celex:32023R0699:por
+    amending_title: REGULAMENTO (UE) 2023/699 DA COMISSÃO de 29 de março de 2023
+    changes:
+    - Altera Artigo 4.º — Medicamentos para uso humano abrangidos pelos procedimentos previstos na Directiva 2001/83/CE
+    - Altera Artigo 6.º — Medicamentos veterinários abrangidos pelos procedimentos previstos na Directiva 2001/82/CE
+    - Altera 1. Taxa por pareceres científicos
+    - Altera 2. Taxa por serviços científicos não abrangidos pelos artigos 3.º a 7.º nem pelo n.º 1 do artigo 8.º
+    - Altera 3. Taxa por serviços administrativos
+    - Altera Artigo 10.º — Data de vencimento e diferimento do pagamento
+    - Altera Notas
+    - Adita Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^1^](http://publications.europa.eu/resource/cellar/2a536dad-e941-11ed-a05c-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Adita Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^5^](http://publications.europa.eu/resource/cellar/2a536dad-e941-11ed-a05c-01aa75ed71a1.0019.02/DOC_1#E0005))
+    - Suprime Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^1^](http://publications.europa.eu/resource/cellar/cc285a09-d06a-11ec-a95f-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Suprime Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^5^](http://publications.europa.eu/resource/cellar/cc285a09-d06a-11ec-a95f-01aa75ed71a1.0019.02/DOC_1#E0005))
+  - date: '2024-04-01'
+    amending: eu:celex:32024R0848:por
+    amending_title: REGULAMENTO (UE) 2024/848 DA COMISSÃO de 14 de março de 2024
+    changes:
+    - Altera Artigo 4.º — Medicamentos para uso humano abrangidos pelos procedimentos previstos na Directiva 2001/83/CE
+    - Altera Artigo 6.º — Medicamentos veterinários abrangidos pelos procedimentos previstos na Directiva 2001/82/CE
+    - Altera 1. Taxa por pareceres científicos
+    - Altera 2. Taxa por serviços científicos não abrangidos pelos artigos 3.º a 7.º nem pelo n.º 1 do artigo 8.º
+    - Altera 3. Taxa por serviços administrativos
+    - Altera Artigo 10.º — Data de vencimento e diferimento do pagamento
+    - Altera Notas
+    - Adita Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^1^](http://publications.europa.eu/resource/cellar/68f84039-f6b4-11ee-a251-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Adita Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^5^](http://publications.europa.eu/resource/cellar/68f84039-f6b4-11ee-a251-01aa75ed71a1.0019.02/DOC_1#E0005))
+    - Suprime Medicamentos para uso humano abrangidos pelos procedimentos previstos no Regulamento (CE) n.º 726/2004 ([^1^](http://publications.europa.eu/resource/cellar/2a536dad-e941-11ed-a05c-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Suprime Estabelecimento de limites máximos de resíduos (LMR) nos medicamentos veterinários, nos termos dos procedimentos
+      estabelecidos no Regulamento (CEE) n.º 2377/90 ([^5^](http://publications.europa.eu/resource/cellar/2a536dad-e941-11ed-a05c-01aa75ed71a1.0019.02/DOC_1#E0005))
 identifiers:
   celex: 31995R0297
   eli: http://data.europa.eu/eli/reg/1995/297/oj
@@ -48,7 +356,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/421c6084-6ade-4da6-a007-c589a801a7b3.0011
   content_url: http://publications.europa.eu/resource/cellar/68f84039-f6b4-11ee-a251-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995R0297-20240401
-  retrieved_at: '2026-10-22T03:08:08Z'
+  retrieved_at: '2026-10-22T14:44:32Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-01T17:53:10.258+02:00'
 integrity:
@@ -57,9 +365,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:08:08Z'
-  notes: Texto consolidado 01995R0297-20240401.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:44:32Z'
+  notes: 17 versão(ões); histórico completo em regulamento-ue-1995-297.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -214,54 +522,21 @@ relationships:
   date: '2024-02-14'
 article_structure:
   article_count: 13
-  section_count: 3
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:08:08Z'
-  warnings: []
+  checked_at: '2026-10-22T14:44:32Z'
+  warnings:
+  - '01995R0297-19981220: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995R0297-20030320: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) nº 297/95 do Conselho, de 10 de Fevereiro de 1995
-
-> 01995R0297 — PT — 01.04.2024 — 019.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/31998R2743) — [REGULAMENTO (CE) N.º 2743/98 DO CONSELHO de 14 de Dezembro de 1998](http://publications.europa.eu/resource/celex/31998R2743) — L 345 — 3 — 19.12.1998
-- [M2](http://publications.europa.eu/resource/celex/32003R0494) — [REGULAMENTO (CE) N.º 494/2003 DA COMISSÃO de 18 de Março de 2003](http://publications.europa.eu/resource/celex/32003R0494) — L 73 — 6 — 19.3.2003
-- [►M3](http://publications.europa.eu/resource/celex/32005R1905) — [REGULAMENTO (CE) N.º 1905/2005 DO CONSELHO de 14 de Novembro de 2005](http://publications.europa.eu/resource/celex/32005R1905) — L 304 — 1 — 23.11.2005
-- [M4](http://publications.europa.eu/resource/celex/32008R0312) — [REGULAMENTO (CE) N.º 312/2008 DA COMISSÃO de 3 de Abril de 2008](http://publications.europa.eu/resource/celex/32008R0312) — L 93 — 8 — 4.4.2008
-- [M5](http://publications.europa.eu/resource/celex/32009R0249) — [REGULAMENTO (CE) N.º 249/2009 DA COMISSÃO de 23 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0249) — L 79 — 34 — 25.3.2009
-- [M6](http://publications.europa.eu/resource/celex/32010R0261) — [REGULAMENTO (UE) N.º 261/2010 DA COMISSÃO de 25 de Março de 2010](http://publications.europa.eu/resource/celex/32010R0261) — L 80 — 36 — 26.3.2010
-- [M7](http://publications.europa.eu/resource/celex/32011R0301) — [REGULAMENTO (UE) N.º 301/2011 DA COMISSÃO de 28 de Março de 2011](http://publications.europa.eu/resource/celex/32011R0301) — L 81 — 5 — 29.3.2011
-- [M8](http://publications.europa.eu/resource/celex/32012R0273) — [REGULAMENTO (UE) N.º 273/2012 DA COMISSÃO de 27 de março de 2012](http://publications.europa.eu/resource/celex/32012R0273) — L 90 — 11 — 28.3.2012
-- [M9](http://publications.europa.eu/resource/celex/32013R0220) — [REGULAMENTO (UE) N.º 220/2013 DA COMISSÃO de 13 de março de 2013](http://publications.europa.eu/resource/celex/32013R0220) — L 70 — 1 — 14.3.2013
-- [M10](http://publications.europa.eu/resource/celex/32014R0272) — [REGULAMENTO (UE) N.º 272/2014 DA COMISSÃO de 17 de março de 2014](http://publications.europa.eu/resource/celex/32014R0272) — L 79 — 37 — 18.3.2014
-- [M11](http://publications.europa.eu/resource/celex/32015R0490) — [REGULAMENTO (UE) 2015/490 DA COMISSÃO de 23 de março de 2015](http://publications.europa.eu/resource/celex/32015R0490) — L 78 — 9 — 24.3.2015
-- [M12](http://publications.europa.eu/resource/celex/32016R0461) — [REGULAMENTO (UE) 2016/461 DA COMISSÃO de 30 de março de 2016](http://publications.europa.eu/resource/celex/32016R0461) — L 80 — 25 — 31.3.2016
-- [M13](http://publications.europa.eu/resource/celex/32017R0612) — [REGULAMENTO (UE) 2017/612 DA COMISSÃO de 30 de março de 2017](http://publications.europa.eu/resource/celex/32017R0612) — L 86 — 7 — 31.3.2017
-- [M14](http://publications.europa.eu/resource/celex/32018R0471) — [REGULAMENTO (UE) 2018/471 DA COMISSÃO de 21 de março de 2018](http://publications.europa.eu/resource/celex/32018R0471) — L 79 — 19 — 22.3.2018
-- [M15](http://publications.europa.eu/resource/celex/32019R0480) — [REGULAMENTO (UE) 2019/480 DA COMISSÃO de 22 de março de 2019](http://publications.europa.eu/resource/celex/32019R0480) — L 82 — 15 — 25.3.2019
-- [M16](http://publications.europa.eu/resource/celex/32020R0422) — [REGULAMENTO (UE) 2020/422 DA COMISSÃO de 19 de março de 2020](http://publications.europa.eu/resource/celex/32020R0422) — L 84 — 11 — 20.3.2020
-- [M17](http://publications.europa.eu/resource/celex/32022R0510) — [REGULAMENTO (UE) 2022/510 DA COMISSÃO de 29 de março de 2022](http://publications.europa.eu/resource/celex/32022R0510) — L 103 — 3 — 31.3.2022
-- [M18](http://publications.europa.eu/resource/celex/32023R0699) — [REGULAMENTO (UE) 2023/699 DA COMISSÃO de 29 de março de 2023](http://publications.europa.eu/resource/celex/32023R0699) — L 92 — 1 — 30.3.2023
-- [►M19](http://publications.europa.eu/resource/celex/32024R0848) — [REGULAMENTO (UE) 2024/848 DA COMISSÃO de 14 de março de 2024](http://publications.europa.eu/resource/celex/32024R0848) — L 848 — 1 — 15.3.2024
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/31995R0297R%2801%29) — [Rectificação, JO L 075, 4.4.1995, p. 29 (297/1995)](http://publications.europa.eu/resource/celex/31995R0297R%2801%29)
-
-| NB: Esta versão consolidada contém referências à unidade de conta europeia e/ou ao ecu, que a partir de 1 de Janeiro de 1999 devem ser interpretadas como referências ao euro — Regulamento (CEE) n.o 3308/80 do Conselho (JO L 345 de 20.12.1980, p. 1) e Regulamento (CE) n.o 1103/97 do Conselho (JO L 162 de 19.6.1997, p. 1). |
-| --- |
-
-## REGULAMENTO (CE) N.º 297/95 DO CONSELHO
 
 de 10 de Fevereiro de 1995
 

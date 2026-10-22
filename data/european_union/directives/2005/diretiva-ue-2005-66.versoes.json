@@ -1,0 +1,159 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005L0066:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0066-20091124",
+ "dre_path": null,
+ "source_lastmod": "2009-11-24",
+ "versions": [
+  {
+   "date": "2005-11-25",
+   "future": false,
+   "celex": "32005L0066",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "02a179ecf238ed84",
+    "fbb0bf308df873a9",
+    "e2a97d4fd99b07e6",
+    "0e0518c6b87cf56d",
+    "4f33ae35d077be5b",
+    "e775d5d2c46fd872",
+    "0f5c89de3172d09d",
+    "54c297b66194338d",
+    "be5f699872241fe4",
+    "93b9635c72ef3ac7",
+    "6a045bd19751b04c",
+    "b05bc894b8ebefd0"
+   ]
+  },
+  {
+   "date": "2009-11-24",
+   "future": false,
+   "celex": "02005L0066-20091124",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Disposições relativas à homologação",
+    "Suprime Artigo 4.º — Medidas de execução e alterações",
+    "Suprime Artigo 5.º — Revisão",
+    "Suprime Artigo 6.º — Alterações à Directiva 70/156/CEE",
+    "Suprime Artigo 7.º — Transposição",
+    "Suprime Artigo 8.º — Unidades técnicas autónomas",
+    "Suprime Artigo 9.º — Entrada em vigor",
+    "Suprime Artigo 10.º — Destinatários",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "89ea6478a1299d02"
+   ]
+  }
+ ],
+ "fragments": {
+  "02a179ecf238ed84": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Outubro de 2005\n\nrelativa à utilização de sistemas de protecção frontal em veículos a motor e que altera a Directiva 70/156/CEE do Conselho\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/486ef4e0-8db1-45b9-99e6-9fd7b9191874.0017.03/DOC_1#ntr1-L_2005309PT.01003701-E0001),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/486ef4e0-8db1-45b9-99e6-9fd7b9191874.0017.03/DOC_1#ntr2-L_2005309PT.01003701-E0002),\n\nConsiderando o seguinte:\n\n(1) Os sistemas que fornecem uma protecção frontal adicional aos veículos a motor tornaram-se cada vez mais populares nos últimos anos. Alguns desses sistemas constituem um risco para a segurança dos peões e de outros utentes da estrada em caso de colisão. Por conseguinte, é necessário adoptar medidas para proteger o público destes riscos.\n\n(2) Os sistemas de protecção frontal podem ser fornecidos como equipamento de origem montado num veículo ou ser comercializados como unidades técnicas autónomas. Os requisitos técnicos para a homologação de veículos a motor no que se refere aos sistemas de protecção frontal eventualmente montados num veículo devem ser harmonizados, a fim de se evitar a adopção de requisitos diferentes nos vários Estados-Membros e de garantir o correcto funcionamento do mercado interno. Pelas mesmas razões, os requisitos técnicos para a homologação de sistemas de protecção frontal como unidades técnicas autónomas, na acepção da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação da legislação dos Estados-Membros respeitante à homologação dos veículos a motor e seus reboques [([^3])](http://publications.europa.eu/resource/cellar/486ef4e0-8db1-45b9-99e6-9fd7b9191874.0017.03/DOC_1#ntr3-L_2005309PT.01003701-E0003), devem ser harmonizados.\n\n(3) É necessário controlar a utilização de sistemas de protecção frontal e estabelecer os requisitos relativos aos ensaios, à construção e à montagem, com os quais qualquer sistema de protecção frontal deve imperativamente estar em conformidade, quer seja fornecido como equipamento de origem montado num veículo, quer introduzido no mercado como unidade técnica autónoma. Os ensaios devem requerer que os sistemas de protecção frontal sejam concebidos de forma a aumentar a segurança dos peões e reduzir o número de lesões.\n\n(4) Estes requisitos devem também ser tidos em consideração no contexto da protecção dos peões e outros utentes vulneráveis da estrada e da Directiva 2003/102/CE do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativa à protecção dos peões e outros utentes vulneráveis da estrada antes e em caso de colisão com um veículo a motor [([^4])](http://publications.europa.eu/resource/cellar/486ef4e0-8db1-45b9-99e6-9fd7b9191874.0017.03/DOC_1#ntr4-L_2005309PT.01003701-E0004). A presente directiva deve ser revista à luz de novos dados da investigação e da experiência obtida durante os primeiros quatro anos de aplicação.\n\n(5) A presente directiva é uma das directivas específicas do procedimento de homologação CE que foi instituído pela Directiva 70/156/CEE.\n\n(6) A Comissão deverá fiscalizar o impacto da presente directiva e disso dar informação ao Parlamento Europeu e ao Conselho. A Comissão deverá apresentar propostas de alteração à presente directiva em resultado da realização de progressos técnicos, se isso for julgado indispensável à consecução de um reforço acrescido da protecção dos peões\n\n(7) Reconhece-se, no entanto, que determinados veículos incluídos no âmbito da presente directiva, e que podem ser equipados com sistemas de protecção frontal, não estarão sujeitos à Directiva 2003/102/CE. Considera-se que os requisitos da presente directiva para o ensaio relativo à anca podem ser tecnicamente impossíveis de realizar nesses veículos. Para facilitar uma melhoria da segurança dos peões no que se refere aos ferimentos na cabeça, pode ser necessário permitir requisitos alternativos para o ensaio relativo à anca, aplicados apenas a esses veículos, assegurando ao mesmo tempo que a montagem de qualquer sistema de protecção frontal não aumente o risco de ferimentos nas pernas de peões ou de outros utentes vulneráveis da estrada.\n\n(8) As medidas necessárias à execução da presente directiva e à sua adaptação ao progresso técnico e científico deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^5])](http://publications.europa.eu/resource/cellar/486ef4e0-8db1-45b9-99e6-9fd7b9191874.0017.03/DOC_1#ntr5-L_2005309PT.01003701-E0005).\n\n(9) Atendendo a que o objectivo da presente directiva, a saber, a promoção da segurança dos peões e de outros utentes vulneráveis da estrada mediante o estabelecimento de requisitos técnicos para a homologação de veículos no que respeita aos sistemas de protecção frontal, não pode ser suficientemente realizado pelos Estados-Membros e pode, pois, ser melhor alcançado ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aquele objectivo.\n\n(10) A presente directiva faz parte do programa de acção europeu de segurança rodoviária e pode ser complementada por medidas nacionais destinadas a proibir ou restringir a utilização de sistemas de protecção frontal já comercializados antes da sua entrada em vigor.\n\n(11) A Directiva 70/156/CEE deve, pois, ser alterada em conformidade,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "fbb0bf308df873a9": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente directiva tem por objectivo melhorar a segurança dos peões e dos veículos através de medidas passivas. Estabelece os requisitos técnicos para a homologação de veículos a motor no que respeita aos sistemas de protecção frontal fornecidos como equipamentos de origem montados nos veículos ou como unidades técnicas autónomas."
+  },
+  "e2a97d4fd99b07e6": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, são aplicáveis as definições que se seguem e as que constam do ponto 1 do anexo I:\n\n1. Por «veículo» entende-se qualquer veículo a motor da categoria M1, conforme definido no artigo 2.º e no anexo II da Directiva 70/156/CEE, com uma massa máxima total admissível não superior a 3,5 toneladas e qualquer veículo da categoria N1, conforme definido no artigo 2.º e no anexo II da Directiva 70/156/CEE;\n\n2. Por «unidade técnica autónoma» entende-se uma unidade técnica autónoma na acepção do artigo 2.º da Directiva 70/156/CEE e destinado a ser montado e utilizado num ou mais modelos de veículo."
+  },
+  "0e0518c6b87cf56d": {
+   "fragment_id": "Artigo 3.º — Disposições relativas à homologação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Disposições relativas à homologação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Disposições relativas à homologação\n\n1. A partir de 25 de Agosto de 2006, no tocante a novos modelos de veículos equipados com sistemas de protecção frontal conformes com os requisitos estabelecidos nos anexos I e II, os Estados-Membros não podem, por motivos relacionados com os sistemas de protecção frontal:\n\na) Recusar a concessão de uma homologação CE ou de uma homologação de âmbito nacional;\n\nb) Proibir a sua matrícula, venda ou entrada em serviço.\n\n2. A partir de 25 de Agosto de 2006, no tocante a novos tipos de sistema de protecção frontal fornecido como unidade técnica autónoma conformes com os requisitos estabelecidos nos anexos I e II, os Estados-Membros não podem:\n\na) Recusar a concessão de uma homologação CE ou de uma homologação de âmbito nacional;\n\nb) Proibir a sua venda ou entrada em serviço.\n\n3. A partir de 25 de Novembro de 2006, os Estados-Membros devem recusar a concessão da homologação CE ou de uma homologação de âmbito nacional a novos modelos de veículos equipados com sistemas de protecção frontal ou a novos tipos de sistema de protecção frontal fornecido como unidade técnica autónoma que não estejam conformes com os requisitos estabelecidos nos anexos I e II.\n\n4. A partir de 25 de Maio de 2007, no tocante a veículos que não estejam conformes com os requisitos estabelecidos nos anexos I e II, os Estados-Membros devem, por motivos relacionados com os sistemas de protecção frontal:\n\na) Considerar que os certificados de conformidade que acompanham os veículos novos, nos termos da Directiva 70/156/CEE, deixam de ser válidos para efeitos do disposto no n.º 1 do artigo 7.º da mesma directiva;\n\nb) Proibir a matrícula, a venda ou a entrada em serviço de veículos novos não acompanhados de um certificado de conformidade nos termos da Directiva 70/156/CEE.\n\n5. A partir de 25 de Maio de 2007, os requisitos constantes dos anexos I e II relacionados com os sistemas de protecção frontal fornecidos como unidades técnicas autónomas são aplicáveis para os efeitos previstos no n.º 2 do artigo 7.º da Directiva 70/156/CEE."
+  },
+  "4f33ae35d077be5b": {
+   "fragment_id": "Artigo 4.º — Medidas de execução e alterações",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Medidas de execução e alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Medidas de execução e alterações\n\n1. Os requisitos técnicos pormenorizados previstos pelas disposições relativas a ensaios constantes do ponto 3 do anexo I devem ser adoptados pela Comissão nos termos do n.º 3 do artigo 13.º da Directiva 70/156/CEE.\n\n2. As alterações necessárias para a adaptação da presente directiva devem ser adoptadas pela Comissão nos termos do n.º 3 do artigo 13.º da Directiva 70/156/CEE."
+  },
+  "e775d5d2c46fd872": {
+   "fragment_id": "Artigo 5.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Revisão\n\nAté 25 de Agosto de 2010, à luz do progresso técnico e da experiência, a Comissão deve rever as disposições de natureza técnica da presente directiva e, principalmente, as condições para exigir o ensaio «Anca contra sistema de protecção frontal», a inclusão de um ensaio «Cabeça de adulto contra sistema de protecção frontal» e as especificações para o ensaio «Cabeça de criança contra sistema de protecção frontal». Os resultados desta revisão devem ser objecto de um relatório da Comissão a apresentar ao Parlamento Europeu e ao Conselho.\n\nSe, em resultado da revisão, se considerar conveniente adaptar as disposições técnicas da presente directiva, tal adaptação deve ser efectuada nos termos do n.º 3 do artigo 13.º da Directiva 70/156/CEE."
+  },
+  "0f5c89de3172d09d": {
+   "fragment_id": "Artigo 6.º — Alterações à Directiva 70/156/CEE",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Alterações à Directiva 70/156/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alterações à Directiva 70/156/CEE\n\nOs anexos I, III, IV e XI da Directiva 70/156/CEE são alterados em conformidade com o anexo III da presente directiva."
+  },
+  "54c297b66194338d": {
+   "fragment_id": "Artigo 7.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transposição\n\n1. Os Estados-Membros devem aprovar e publicar, até 25 de Agosto de 2006, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva e devem informar de imediato a Comissão desse facto.\n\nOs Estados-Membros devem aplicar essas disposições a partir de 25 de Agosto de 2006.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o teor das principais disposições de direito nacional que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "be5f699872241fe4": {
+   "fragment_id": "Artigo 8.º — Unidades técnicas autónomas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Unidades técnicas autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Unidades técnicas autónomas\n\nA presente directiva não afecta a competência dos Estados-Membros de proibir ou restringir o uso dos sistemas de protecção frontal colocados no mercado como unidades técnicas autónomas antes da entrada em vigor da presente directiva."
+  },
+  "93b9635c72ef3ac7": {
+   "fragment_id": "Artigo 9.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente directiva entra em vigor 20 dias após o da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "6a045bd19751b04c": {
+   "fragment_id": "Artigo 10.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Estrasburgo, em 26 de Outubro de 2005.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BORRELL FONTELLES**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**D. ALEXANDER**\n\n---"
+  },
+  "b05bc894b8ebefd0": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/486ef4e0-8db1-45b9-99e6-9fd7b9191874.0017.03/DOC_1#ntc1-L_2005309PT.01003701-E0001) [JO C 112 de 30.4.2004, p. 18](http://publications.europa.eu/resource/oj/JOC_2004_112_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/486ef4e0-8db1-45b9-99e6-9fd7b9191874.0017.03/DOC_1#ntc2-L_2005309PT.01003701-E0002) Parecer do Parlamento Europeu de 26 de Maio de 2005 (ainda não publicado no Jornal Oficial) e Decisão do Conselho de 11 de Outubro de 2005.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/486ef4e0-8db1-45b9-99e6-9fd7b9191874.0017.03/DOC_1#ntc3-L_2005309PT.01003701-E0003) [JO L 42 de 23.2.1970, p. 1](http://publications.europa.eu/resource/oj/JOL_1970_042_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2005/49/CE da Comissão ([JO L 194 de 26.7.2005, p. 12](http://publications.europa.eu/resource/oj/JOL_2005_194_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/486ef4e0-8db1-45b9-99e6-9fd7b9191874.0017.03/DOC_1#ntc4-L_2005309PT.01003701-E0004) [JO L 321 de 6.12.2003, p. 15](http://publications.europa.eu/resource/oj/JOL_2003_321_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/486ef4e0-8db1-45b9-99e6-9fd7b9191874.0017.03/DOC_1#ntc5-L_2005309PT.01003701-E0005) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC) (rectificação no [JO L 269 de 19.10.1999, p. 45](http://publications.europa.eu/resource/oj/JOL_1999_269_R_TOC))."
+  },
+  "89ea6478a1299d02": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2005L0066 — PT — 24.11.2009 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32005L0066) [DIRECTIVA 2005/66/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32005L0066) [de 26 de Outubro de 2005](http://publications.europa.eu/resource/celex/32005L0066) [relativa à utilização de sistemas de protecção frontal em veículos a motor e que altera a Directiva 70/156/CEE do Conselho](http://publications.europa.eu/resource/celex/32005L0066) (JO L 309, 25.11.2005, p.37)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 78/2009 do Parlamento Europeu e do Conselho de 14 de Janeiro de 2009](http://publications.europa.eu/resource/celex/32009R0078) — L 35 — 1 — 4.2.2009"
+  }
+ }
+}

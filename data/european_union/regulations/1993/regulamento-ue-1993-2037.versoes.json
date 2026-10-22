@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993R2037:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R2037-20061230",
+ "dre_path": null,
+ "source_lastmod": "2006-12-30",
+ "versions": [
+  {
+   "date": "1993-07-28",
+   "future": false,
+   "celex": "31993R2037",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5ec2c0c0aa93319f",
+    "4afe6a7bb9336ac6",
+    "5b885780ee6d5db6",
+    "8db84139df075e8a",
+    "897885a2f554e222",
+    "b300df99ed6aaf93",
+    "d6dc51f68672f68c",
+    "2c7a7e6d912e7ff4"
+   ]
+  },
+  {
+   "date": "2006-12-30",
+   "future": false,
+   "celex": "01993R2037-20061230",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3°",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º"
+   ],
+   "fragments": [
+    "1c18973e73bd5572"
+   ]
+  }
+ ],
+ "fragments": {
+  "5ec2c0c0aa93319f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2037/93 da Comissão, de 27 de Julho de 1993, que estabelece normas de execução do Regulamento (CEE) nº 2081/92 do Conselho relativo à protecção das indicações geográficas e denominações de origem dos produtos agrícolas e dos géneros alimentícios** *Jornal Oficial nº L 185 de 28/07/1993 p. 0005 - 0006 Edição especial finlandesa: Capítulo 3 Fascículo 51 p. 0066 Edição especial sueca: Capítulo 3 Fascículo 51 p. 0066*\n\nREGULAMENTO (CEE) Nº 2037/93 DA COMISSÃO de 27 de Julho de 1993 que estabelece normas de execução do Regulamento (CEE) nº 2081/92 do Conselho relativo à protecção das indicações geográficas e denominações de origem dos produtos agrícolas e dos géneros alimentícios\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) nº 2081/92 do Conselho, de 14 de Julho de 1992, relativo à protecção das indicações geográficas e denominações de origem dos produtos agrícolas e dos géneros alimentícios (1), e, nomeadamente, o seu artigo 16º,\n\nConsiderando que é conveniente determinar as condições em que um pedido de registo pode, a título excepcional, ser apresentado por uma pessoa singular ou colectiva;\n\nConsiderando que, para atender a situações jurídicas diferentes nos Estados-membros, é admissível um pedido de oposição, nos termos do artigo 7º do Regulamento (CEE) nº 2081/92, apresentado por um conjunto de pessoas ligadas por um interesse comum;\n\nConsiderando que, para garantir a aplicação uniforme do referido regulamento, é conveniente definir com precisão os prazos relativos à oposição, aplicáveis aquando do processo de registo;\n\nConsiderando que, a fim de examinar os casos referidos no nº 1 do artigo 3º do Regulamento (CEE) nº 2081/92, e as situações susceptíveis de induzir o consumidor em erro nos Estados-membros, na acepção do Regulamento (CEE) nº 2081/92, a Comissão pode recorrer aos meios adequados;\n\nConsiderando que se trata de um novo sistema comunitário destinado à protecção das denominações de origem e das indicações geográficas, que oferece novas menções distintivas; que se afigura indispensável explicar ao público a sua significação, sem, por esse facto, dispensar os produtores e/ou os transformadores de promoverem os respectivos produtos;\n\nConsiderando que as medidas previstas pelo presente regulamento estão em conformidade com o parecer do Comité das indicações geográficas e das denominações de origem,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "4afe6a7bb9336ac6": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A apresentação do pedido de registo, nos termos do artigo 5º do Regulamento (CEE) nº 2081/92, pode ser efectuada por uma pessoa singular ou colectiva que não corresponda à definição do nº 1, segundo parágrafo, do referido artigo 5º, em casos excepcionais e devidamente justificados, quando se trate do único produtor existente na área geográfica delimitada no momento da apresentação do pedido.\n\nO pedido só pode ser aceite:\n\na) Se existirem métodos locais, leais e constantes, praticados apenas pela pessoa em questão, e\n\nb) Se a zona geográfica delimitada comportar características substancialmente diferentes das zonas vizinhas e/ou se as características do produto forem diferentes.\n\n2. No caso referido no nº 1, só a pessoa singular ou colectiva que tenha apresentado o pedido de registo é considerada como agrupamento, na acepção do artigo 5º do Regulamento (CEE) nº 2081/92."
+  },
+  "5b885780ee6d5db6": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nQuando a regulamentação nacional equiparar um conjunto de pessoas sem personalidade jurídica a uma pessoa colectiva, esse conjunto de pessoas fica autorizado, por um lado, a apresentar um pedido, nos termos do artigo 1° do presente regulamento e, por outro lado, a consultar o pedido, nos termos e nas condições do nº 2 do artigo 7º do Regulamento (CEE) nº 2081/92, assim como a fazer oposição, nos termos e nas condições do nº 3 do artigo 7º do referido regulamento."
+  },
+  "8db84139df075e8a": {
+   "fragment_id": "Artigo 3°",
+   "type": "artigo",
+   "heading": "Artigo 3°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3°\n\nPara efeitos da aplicação do prazo previsto no nº 1 do artigo 7º do Regulamento (CEE) nº 2081/92 será tomada em consideração:\n\n- a data de envio da declaração de oposição pelo Estado-membro, fazendo fé o carimbo postal, ou\n\n- a data de recepção, quando a declaração de oposição pelo Estado-membro seja entregue à Comissão directamente, por telex ou por telecópia."
+  },
+  "897885a2f554e222": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nPara examinar os casos em que é invocado o carácter genérico de uma denominação, na acepção do nº 1 do artigo 3º do Regulamento (CEE) nº 2081/92, assim como as situações susceptíveis de induzir o consumidor em erro, relativamente aos quais seja adoptada uma decisão em conformidade com o artigo 15º do referido regulamento, a Comissão pode aplicar todas as medidas adequadas."
+  },
+  "b300df99ed6aaf93": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nDurante um período de cinco anos a seguir à data de entrada em vigor do presente regulamento, a Comissão tomará as medidas de comunicação indispensáveis, com exclusão de quaisquer ajudas aos produtores e/ou transformadores, para dar a conhecer ao público o significado das menções « DOP », « IGP », « denominação de origem protegida » e « indicação geográfica protegida » nas línguas comunitárias."
+  },
+  "d6dc51f68672f68c": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nO prazo de três meses previsto no nº 5 do artigo 7º do Regulamento (CEE) nº 2081/92 é contado a partir da data de envio do convite da Comissão aos Estados-membros para busca de um acordo."
+  },
+  "2c7a7e6d912e7ff4": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nO presente regulamento entra em vigor em 26 de Julho de 1993.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 27 de Julho de 1993.\n\nPela Comissão\n\nRené STEICHEN\n\nMembro da Comissão\n\n(1) JO nº L 208 de 24. 7. 1992, p. 1."
+  },
+  "1c18973e73bd5572": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993R2037 — PT — 30.12.2006 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993R2037) [REGULAMENTO (CEE) Nº 2037/93 DA COMISSÃO](http://publications.europa.eu/resource/celex/31993R2037) [de 27 de Julho de 1993](http://publications.europa.eu/resource/celex/31993R2037) [que estabelece normas de execução do Regulamento (CEE) nº 2081/92 do Conselho relativo à protecção das indicações geográficas e denominações de origem dos produtos agrícolas e dos géneros alimentícios](http://publications.europa.eu/resource/celex/31993R2037) (JO L 185, 28.7.1993, p.5)\n\n**revogado por:**\n\n- [Regulamento da Comissão (CE) n.o 1898/2006 de 14 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1898) — L 369 — 1 — 23.12.2006"
+  }
+ }
+}

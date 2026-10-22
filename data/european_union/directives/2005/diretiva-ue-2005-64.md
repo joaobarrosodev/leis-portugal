@@ -37,6 +37,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2005-64.versoes.json
+  count: 1
+  source_lastmod: '2009-02-03'
+  versions:
+  - date: '2005-11-25'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32005L0064
   eli: http://data.europa.eu/eli/dir/2005/64/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/dcdff433-7132-4c59-909f-b38e83dec390.0017
   content_url: http://publications.europa.eu/resource/cellar/dcdff433-7132-4c59-909f-b38e83dec390.0017.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:52:02Z'
+  retrieved_at: '2026-10-22T14:59:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T10:26:12.730+01:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:02Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:33Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2005-64.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -130,21 +139,21 @@ relationships:
   date: '2026-07-24'
 article_structure:
   article_count: 13
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:02Z'
+  checked_at: '2026-10-22T14:59:33Z'
   warnings:
-  - 'Versão consolidada 02005L0064-20090203 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02005L0064-20051215: versão indisponível (Sem expressão na língua por para CELEX 02005L0064-20051215.)'
+  - '02005L0064-20090203: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# DIRECTIVA 2005/64/CE DO PARLAMENTO EUROPEU E DO CONSELHO
+# Directiva 2005/64/CE do Parlamento Europeu e do Conselho, de 26 de Outubro de 2005
 
 de 26 de Outubro de 2005
 

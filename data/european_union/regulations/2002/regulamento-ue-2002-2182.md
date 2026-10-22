@@ -34,6 +34,47 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-01-01'
+version_history:
+  file: regulamento-ue-2002-2182.versoes.json
+  count: 2
+  source_lastmod: '2006-01-01'
+  versions:
+  - date: '2002-12-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-01-01'
+    amending: eu:celex:32004R0480:por
+    amending_title: REGULAMENTO (CE) N. o 480/2004 DA COMISSÃO de 15 de Março de 2004; REGULAMENTO (CE) N. o 1881/2005 DA
+      COMISSÃO de 17 de Novembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 29.º
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita CAPÍTULO II
+    - Adita PROGRAMAS DE INFORMAÇÃO
+    - Adita CAPÍTULO III
+    - Adita ACÇÕES DE RECONVERSÃO
+    - Adita Artigo 21.º
+    - Adita CAPÍTULO IV
+    - Adita DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+    - Adita Notas
+    - Suprime CAPÍTULO I — DISPOSIÇÕES GERAIS
+    - Suprime CAPÍTULO II — PROGRAMAS DE INFORMAÇÃO
+    - Suprime CAPÍTULO III — ACÇÕES DE RECONVERSÃO
+    - Suprime Artigo 21.º — Os Estados-Membros comunicarão de imediato à Comissão as medidas que adoptarem em aplicação dos
+      artigos 18.o, 19.o e 20.o
+    - Suprime CAPÍTULO IV — DISPOSIÇÕES TRANSITÓRIAS E FINAIS
 identifiers:
   celex: 32002R2182
   eli: http://data.europa.eu/eli/reg/2002/2182/oj
@@ -48,7 +89,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8d9ba2f9-2d98-4496-a698-2b78a57b2b5a.0010
   content_url: http://publications.europa.eu/resource/cellar/b01fe42f-c4ac-454b-82e5-540f4fef174c.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R2182-20060101
-  retrieved_at: '2026-10-22T02:57:27Z'
+  retrieved_at: '2026-10-22T14:53:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-04T17:14:24.159+02:00'
 integrity:
@@ -57,9 +98,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:27Z'
-  notes: Texto consolidado 02002R2182-20060101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:53:21Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2002-2182.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -130,30 +171,21 @@ relationships:
   date: '2000-08-02'
 article_structure:
   article_count: 29
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:27Z'
-  warnings: []
+  checked_at: '2026-10-22T14:53:21Z'
+  warnings:
+  - '02002R2182-20021210: versão indisponível (Sem expressão na língua por para CELEX 02002R2182-20021210.)'
+  - '02002R2182-20040319: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 2182/2002 da Comissão, de 6 de Dezembro de 2002
-
-> 2002R2182 — PT — 01.01.2006 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32004R0480) — [REGULAMENTO (CE) N.º 480/2004 DA COMISSÃO de 15 de Março de 2004](http://publications.europa.eu/resource/celex/32004R0480) — L 78 — 8 — 16.3.2004
-- [►M2](http://publications.europa.eu/resource/celex/32005R1881) — [REGULAMENTO (CE) N.º 1881/2005 DA COMISSÃO de 17 de Novembro de 2005](http://publications.europa.eu/resource/celex/32005R1881) — L 301 — 3 — 18.11.2005
-
-## REGULAMENTO (CE) N.º 2182/2002 DA COMISSÃO
 
 de 6 de Dezembro de 2002
 

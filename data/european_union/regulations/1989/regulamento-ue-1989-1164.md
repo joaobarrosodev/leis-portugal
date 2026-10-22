@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-1989-1164.versoes.json
+  count: 1
+  source_lastmod: '1992-12-14'
+  versions:
+  - date: '1989-04-29'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31989R1164
   eli: http://data.europa.eu/eli/reg/1989/1164/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fb3afa66-f593-4145-8a14-77aba838eb8c.0011
   content_url: http://publications.europa.eu/resource/cellar/fb3afa66-f593-4145-8a14-77aba838eb8c.0011.01/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:50:10Z'
+  retrieved_at: '2026-10-22T14:36:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T16:49:33.106+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:50:10Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:36:19Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-1989-1164.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -221,17 +230,17 @@ relationships:
 article_structure:
   article_count: 17
   section_count: 3
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:50:10Z'
+  checked_at: '2026-10-22T14:36:19Z'
   warnings:
-  - Versão consolidada 01989R1164-19921214 indisponível (A expressão não tem manifestação XHTML nem HTML.); usado o texto
-    do JO.
-  - Não foi detetado o título principal no XHTML.
+  - '01989R1164-19890502: versão indisponível (Sem expressão na língua por para CELEX 01989R1164-19890502.)'
+  - '01989R1164-19920801: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01989R1164-19921214: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

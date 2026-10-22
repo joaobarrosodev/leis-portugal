@@ -35,6 +35,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-26'
+version_history:
+  file: diretiva-ue-1990-270.versoes.json
+  count: 2
+  source_lastmod: '2019-07-26'
+  versions:
+  - date: '1990-06-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-07-26'
+    amending: eu:celex:32007L0030:por
+    amending_title: DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de
+      Junho de 2007; REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Adita preambulo
+    - Adita SECÇÃO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita Artigo 1.º — Objecto
+    - Adita Artigo 2.º — Definições
+    - Adita SECÇÃO II
+    - Adita OBRIGAÇÕES DA ENTIDADE PATRONAL
+    - Adita Artigo 3.º — Análise dos postos de trabalho
+    - Adita Artigo 4.º — Postos de trabalho colocados em serviço pela primeira vez
+    - Adita Artigo 5.º — Postos de trabalho já existentes
+    - Adita Artigo 6.º — Informação e formação dos trabalhadores
+    - Adita Artigo 7.º — Trabalho diário
+    - Adita Artigo 8.º — Consulta e participação dos trabalhadores
+    - Adita Artigo 9.º — Protecção dos olhos e da vista dos trabalhadores
+    - Adita SECÇÃO III
+    - Adita DISPOSIÇÕES VÁRIAS
+    - Adita Artigo 10.º — Alteração do anexo
+    - Adita Artigo 10.º-A — Exercício da delegação
+    - Adita Artigo 10.º-B — Procedimento de urgência
+    - Adita Artigo 11.º — Disposições finais
+    - Adita Artigo 12.º
+    - Adita ANEXO
+    - Adita PRESCRIÇÕES MÍNIMAS
+    - Adita (artigos 4.º e 5.º)
+    - Adita Nota preliminar
+    - Adita 1. EQUIPAMENTO
+    - Adita a) Observação geral
+    - Adita b) Visor
+    - Adita c) Teclado
+    - Adita d) Mesa ou superfície de trabalho
+    - Adita e) Cadeira de trabalho
+    - Adita 2. MEIO AMBIENTE
+    - Adita a) Espaço
+    - Adita b) Iluminação
+    - Adita c) Reflexos e encandeamentos
+    - Adita d) Ruído
+    - Adita e) Calor
+    - Adita f) Radiações
+    - Adita g) Humidade
+    - Adita 3. INTERFACE COMPUTADOR/HOMEM
 identifiers:
   celex: 31990L0270
   eli: http://data.europa.eu/eli/dir/1990/270/oj
@@ -49,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f8c253f5-83fb-4fb8-8787-4ee85101b737.0011
   content_url: http://publications.europa.eu/resource/cellar/5fb95421-e099-11e9-9c4e-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0270-20190726
-  retrieved_at: '2026-10-22T02:44:10Z'
+  retrieved_at: '2026-10-22T14:36:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T01:02:52.222+01:00'
 integrity:
@@ -58,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:10Z'
-  notes: Texto consolidado 01990L0270-20190726.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:36:42Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1990-270.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -163,34 +217,19 @@ relationships:
   source: null
 article_structure:
   article_count: 14
-  section_count: 25
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 26
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:10Z'
+  checked_at: '2026-10-22T14:36:42Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 90/270/CEE do Conselho, de 29 de Maio de 1990
-
-> 01990L0270 — PT — 26.07.2019 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007L0030) — [DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007](http://publications.europa.eu/resource/celex/32007L0030) — L 165 — 21 — 27.6.2007
-- [►M2](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/31990L0270R%2802%29) — [Rectificação, JO L 171, 4.7.1990, p. 30 (1990/270)](http://publications.europa.eu/resource/celex/31990L0270R%2802%29)
-
-## DIRECTIVA DO CONSELHO
 
 de 29 de Maio de 1990
 

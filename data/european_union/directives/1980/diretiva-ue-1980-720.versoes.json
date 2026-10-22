@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31980L0720:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01980L0720-20100929",
+ "dre_path": null,
+ "source_lastmod": "2010-09-29",
+ "versions": [
+  {
+   "date": "1980-07-28",
+   "future": false,
+   "celex": "31980L0720",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f758e1da534687fa",
+    "9a3f12ec033938c1",
+    "fd088ff3e384f028",
+    "302999920b9484b1",
+    "7f7b3ed77d0702d5",
+    "9383b82e49b507a4",
+    "3a85a5e6542057a5"
+   ]
+  }
+ ],
+ "fragments": {
+  "f758e1da534687fa": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 80/720/CEE do Conselho, de 24 de Junho de 1980, relativa à aproximação das legislações dos Estados-Membros respeitantes ao espaço de manobra, às facilidades de acesso ao lugar de condução, assim como às portas e janelas dos tractores agrícolas ou florestais de rodas** *Jornal Oficial nº L 194 de 28/07/1980 p. 0001 - 0011 Edição especial finlandesa: Capítulo 13 Fascículo 10 p. 0210 Edição especial espanhola: Capítulo 13 Fascículo 11 p. 0031 Edição especial sueca: Capítulo 13 Fascículo 10 p. 0210 Edição especial portuguesa: Capítulo 13 Fascículo 11 p. 0031*\n\nDIRECTIVA DO CONSELHO de 24 de Junho de 1980 relativa à aproximação das legislações dos Estados-membros respeitantes ao espaço de manobra, às facilidades de acesso ao lugar de condução, assim como às portas e janelas dos tratores agricolas e florestais de rodas. 80/720/CEE\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o tratado que institui a Comunidade Económica Europeia e nomeadamente o seu artigo 100º.\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em contta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que as prescrições técnicas a que devem obedecer os tractores por força das legislações nacionais respeitam, nomeadamente, ao espaço de manobra às facilidades de acesso ao lugar de condução (dispositivos de subida e de descida), assim como às portas e janelas;\n\nConsiderando que estas prescrições diferem de um Estado-membro para outro; que daí resulta a necessidade de que sejam adoptadas as mesmas prescrições por todos os Estados-membros, quer em complemento, quer em substituição das suas regulamentações actuais tendo em vista nomeadamente permitir a aplicação, para cada modelo de tractor, do processo de recepção CEE que é objecto da Directiva 74/150/CEE do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos tractores agrícolas ou florestais de rodas (4), com a redacção que lhe foi dada pela Directiva 79/694/CEE (5),\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "9a3f12ec033938c1": {
+   "fragment_id": "Artigo 1º.",
+   "type": "artigo",
+   "heading": "Artigo 1º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º.\n\n1. Entende-se por tractor (agricola ou florestal) qualquer veículo a motor, com rodas ou lagartas tendo pelo menos dois eixos, cuja função principal resida na sua potência de tracção, e especialmente concebido para atrelar, empurrar, carregar ou accionar certas ferramentas, máquinas ou reboques destinados a uma utilização agrícola ou florestal. Pode estar equipado para transportar carga e passageiros.\n\n2. A presente directiva aplica-se exclusivamente aos tratores definidos no nº. 1, montados sobre pneumáticos, com dois eixos, uma velocidade máxima, por construção, compreendida entre 6 e 25 quilómetros por hora e uma via mínima fixa ou regulável de um dos eixos motores de 1150 milímetros ou mais. (1)JO nº. C 25 de 29.1.1979, p. 30. (2)JO nº. C 127 de 21.5.1979, p. 80. (3)JO nº. C 227 de 10.9.79, p. 34. (4)JO nº. L 84 de 28.3.1974, p. 10. (5)JO nº. L 205 de 13.8.1979, p. 17."
+  },
+  "fd088ff3e384f028": {
+   "fragment_id": "Artigo 2º.",
+   "type": "artigo",
+   "heading": "Artigo 2º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º.\n\nOs Estados-membros não podem recusar a recepção CEE nem a recepção de âmbito nacional de um tractor, nem recusar a matricula ou proibir a venda, a entrada em circulação ou a utilização de um tractor por motivos relacionados com: - o espaço de manobra,\n\n- as facilidades de acesso ao lugar de condução (dispositivos de subida e descida),\n\n- as portas e janelas,\n\nse estes respeitarem as prescrições do Anexo I."
+  },
+  "302999920b9484b1": {
+   "fragment_id": "Artigo 3º.",
+   "type": "artigo",
+   "heading": "Artigo 3º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º.\n\nAs alterações necessárias para adaptar ao progresso técnico as prescrições do Anexo I serão adoptadas de acordo com o procedimento previsto no artigo 13º. da Directiva 74/150/CEE."
+  },
+  "7f7b3ed77d0702d5": {
+   "fragment_id": "Artigo 4º.",
+   "type": "artigo",
+   "heading": "Artigo 4º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º.\n\n1. Os Estados-membros porão em vigor as disposições necessárias para dar cumprimento à presente directiva no prazo de dezoito meses a contar da sua notificação e desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros devem assegurar que a Comissão seja informada do texto das principais disposições do direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "9383b82e49b507a4": {
+   "fragment_id": "Artigo 5º.",
+   "type": "artigo",
+   "heading": "Artigo 5º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º.\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 24 de Junho de 1980.\n\nPelo Conselho\n\nO Presidente\n\nS. FORMICA"
+  },
+  "3a85a5e6542057a5": {
+   "fragment_id": "ANEXO I — I. Espaço de manobra",
+   "type": "divisao",
+   "heading": "ANEXO I — I. Espaço de manobra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — I. Espaço de manobra\n\nI.1. Por «espaço de manobra» entende-se o espaço mínimo delimitado por qualquer estrutura fixa posto à disposição do condutor a fim de que possa efectuar qualquer manobra do tractor com toda a segurança a partir do seu banco.\n\nPor «ponto de referência do banco» entende-se o ponto de referência determinado segundo o método descrito no Apêndice 1.\n\nPor «plano de referência» entende-se o plano paralelo ao plano longitudinal médio do tractor que passa pelo ponto de referência do banco.\n\nI.2. O espaço de manobra deve ter uma largura de pelo menos 900 mm a uma altura compreendida entre 400 e 900 mm acima do ponto de referência e ao longo de um comprimento de 450 mm para a frente desse ponto (ver figuras 2 e 3).\n\nI.3. As partes do veículo e os acessórios não devem incomodar o condutor na condução do tractor.\n\nI.4. Em todas as posições da coluna e do volante de direcção, o espaço livre entre a parte inferior do volante de direcção e as partes fixas do tractor deve ser de pelo menos 50 mm; em todas as outras direcções, esse espaço deve ter pelo menos 80 mm a partir do aro do volante, sendo esta distância medida por fora do volume ocupado por este (ver figura 2).\n\nI.5. A parede de trás da cabina deve, a uma altura compreendida entre 300 e 900 mm acima do ponto de referência, encontrar-se a uma distância de pelo menos 150 mm para trás de um plano vertical que passa pelo ponto de referência e perpendicular ao plano de referência (ver figuras 2 e 3).\n\nEsta parede deve ter uma largura de pelo menos 300 mm de cada lado do plano de referência do banco (ver figura 3).\n\nI.6. Os comandos manuais devem estar situados uns em relação aos outros e em relação às outras partes do tractor de tal modo que a sua manobra não provoque ferimentos nas mãos do operador.\n\nQuando o esforço necessário para operar um comando for superior a 150 N, será considerado suficiente um espaço livre de 50 mm e quando esse esforço estiver compreendido entre 80 N e 150 N, esse afastamento será reduzido para 25 mm. Não será exigida nenhuma especificação abaixo de um esforço de 80 N (ver figura 3).\n\nQualquer outra disposição que atinja este objectivo de modo equivalente será aceitável.\n\nI.7. Nenhum ponto do tecto deve estar situado a menos de 1050 mm do ponto de referência do banco, na parte situada à frente de um plano vertical que passa pelo ponto de referência e perpendicular ao plano de referência (ver figura 2).\n\nII. Facilidades de acesso ao lugar de condução (dispositivos de subida e descida)\n\nII.1. Os dispositivos de subida e descida devem poder ser utilizados sem perigo. Os cubos das rodas, os tampões ou as jantes não são aceites como estribos ou degraus.\n\nII.2. As passagens de acesso ao posto de condução e ao banco do passageiro devem estar livres de qualquer peça susceptível de causar ferimentos. Quando existir um obstáculo, tal como um pedal de embraiagem, deve ser previsto um estribo ou uma superfície de apoio para assegurar sem perigo o acesso ao lugar de condução.\n\nII.3. Os estribos, os dispositivos de subida incorporados e os degraus devem ter as seguintes dimensões:\n\nespaço em profundidade: 150 mm no mínimo espaço à largura: 250 mm no mínimo\n\nValores inferiores a esta largura mínima só serão autorizadoç quando justificados pelas necessidades técnicas. Neste caso, deve procurar deixar-se o maior espaço possível à largura. Esta não deve no entanto ser inferior a 150 mm,\n\nespaço em altura: 120 mm no mínimo,\n\nespaço entre as superfícies de apoio de dois degraus: 300 mm no máximo (ver figura 4).\n\nII.4. Aquando da descida, o degrau superior deve ser facilmente reconhecivel e acessível. A distância entre os degraus sucessivos deve ser tanto quanto possível igual.\n\nII.5. Devem ser previstas pegas ou corrimões apropriados para o conjunto dos dispositivos de subida e descida.\n\nII.6. O elemento inferior dos dispositivos de subida e descida não deve estar situado a mais de 550 mm acima do solo quando o tractor estiver equipado com os pneumáticos das maiores dimensões recomendadas pelo fabricante (ver figura 4). Os estribos ou degraus devem ser concebidos e construidos de modo a evitar a derrapagem dos pés.\n\nIII. Portas, panelas e saídas de emergência\n\nIII.1. Os dispositivos que accionam as portas e janelas devem ser concebidos e montados de tal modo que não apresentem qualquer perigo para o condutor e não o incomodem durante a condução.\n\nIII.2. ângulo de abertura da porta deve permitir um acesso e uma descida sem perigo.\n\nIII.3. As janelas que servem para o arejamento devem ser facilmente reguláveis.\n\nIII.4. As cabinas têm normalmente duas portas, uma de cada lado.\n\nIII.5. As cabinas com duas portas devem ter uma saída suplementar que constitue uma saída de emergência.\n\nAs cabinas com uma única porta devem ter duas saídas suplementares que constituam saídas de emergência.\n\nCada uma das três saídas deve estar situada numa parede diferente (o termo parede pode incluir o tecto). Os pára-brisas, as janelas laterais, a janela da retaguarda e a abertura praticada no tecto podem ser consideradas como saídas de emergência, se tiverem sido tomadas disposições que permitam a sua abertura rápida do interior da cabina.\n\nOs bordos das saídas de emergência não devem apresentar perigo quando forem transpostas.\n\nAs saídas de emergência devem apresentar dimensões suficientes para permitir nelas inscrever uma elipse cujo eixo menor seja de 440 mm e o eixo maior de 640 mm.\n\n>PIC FILE= \"T0013581\">\n\n>PIC FILE= \"T0013582\">"
+  }
+ }
+}

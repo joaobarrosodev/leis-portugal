@@ -1,0 +1,538 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993R1848:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R1848-20071026",
+ "dre_path": null,
+ "source_lastmod": "2007-10-26",
+ "versions": [
+  {
+   "date": "1993-07-10",
+   "future": false,
+   "celex": "31993R1848",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8d61d2ca271ab262",
+    "858151ad1a8f32a7",
+    "4c07e4421614107e",
+    "91ab568f72215f87",
+    "5d19ff5daeea9a82",
+    "f91c5396a494c055",
+    "6becca510199eb4b",
+    "32c557a1f3416d74"
+   ]
+  },
+  {
+   "date": "2004-12-19",
+   "future": false,
+   "celex": "01993R1848-20041219",
+   "acts": [
+    {
+     "id": "eu:celex:31994R2515:por",
+     "title": "REGULAMENTO (CE) N. o 2515/94 DA COMISSÃO de 9 de Setembro de 1994",
+     "published": null,
+     "celex": "31994R2515"
+    },
+    {
+     "id": "eu:celex:31998R2182:por",
+     "title": "REGULAMENTO (CE) N. o 2182/98 DA COMISSÃO de 9 de Outubro de 1998",
+     "published": null,
+     "celex": "31998R2182"
+    },
+    {
+     "id": "eu:celex:32004R0296:por",
+     "title": "M3",
+     "published": null,
+     "celex": "32004R0296"
+    },
+    {
+     "id": "eu:celex:32004R2167:por",
+     "title": "REGULAMENTO (CE) N. o 2167/2004 DA COMISSÃO de 17 de Dezembro de 2004",
+     "published": null,
+     "celex": "32004R2167"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 4.º A.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 6.º A",
+    "Adita Artigo 7.º",
+    "Adita ANEXO I",
+    "Adita Parte A",
+    "Adita Español",
+    "Adita Čeština",
+    "Adita Dansk",
+    "Adita Deutsch",
+    "Adita Eesti keel",
+    "Adita Ελληνικά",
+    "Adita English",
+    "Adita Français",
+    "Adita Italiano",
+    "Adita Latviešu valoda",
+    "Adita Lietuvių kalba",
+    "Adita Magyar",
+    "Adita Malti",
+    "Adita Nederlands",
+    "Adita Polski",
+    "Adita Português",
+    "Adita Slovenčina",
+    "Adita Slovenščina",
+    "Adita Suomi",
+    "Adita Svenska",
+    "Adita Parte B",
+    "Adita ANEXO II",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o"
+   ],
+   "fragments": [
+    "8707af35e8f83686",
+    "40e92a1c4982d02a",
+    "f724adb02652634d",
+    "59f9e7b97ed2420d",
+    "13eae2346651ef09",
+    "dc080bd70da3e366",
+    "61d6dced54b39784",
+    "f674e2ecb2034d04",
+    "d851abeaf9e15895",
+    "fff18da114f05cbd",
+    "d664376e2a8dcecd",
+    "6cd9753221daf8f2",
+    "b519975504c0ef6d",
+    "16cece7750c2df78",
+    "bd515dea5619a3a3",
+    "54bf6ac03e75e550",
+    "b749446401c1601c",
+    "8c694410be43174c",
+    "e6bd578376d1dd2c",
+    "2948bacd7dd4a683",
+    "714338375b44e246",
+    "e0259e75b1f09476",
+    "c45473a35c17c4bf",
+    "a9cd1a84b3a8074c",
+    "6a9b749c9c49ecec",
+    "8ee327387d4f86f8",
+    "5a06ac7846448908",
+    "b9aa95ee41533b71",
+    "b99dc12f521931dd",
+    "d1d601e04816f60b",
+    "dcb8161b50e0b520",
+    "f86e9718ac05e4c4",
+    "8b58a07ef0b8e815",
+    "94a0543c49c61dca",
+    "8e160f526c0a54c7"
+   ]
+  },
+  {
+   "date": "2007-10-26",
+   "future": false,
+   "celex": "01993R1848-20071026",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 4.º A.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 6.º A",
+    "Suprime Artigo 7.º",
+    "Suprime ANEXO I",
+    "Suprime Parte A",
+    "Suprime Español",
+    "Suprime Čeština",
+    "Suprime Dansk",
+    "Suprime Deutsch",
+    "Suprime Eesti keel",
+    "Suprime Ελληνικά",
+    "Suprime English",
+    "Suprime Français",
+    "Suprime Italiano",
+    "Suprime Latviešu valoda",
+    "Suprime Lietuvių kalba",
+    "Suprime Magyar",
+    "Suprime Malti",
+    "Suprime Nederlands",
+    "Suprime Polski",
+    "Suprime Português",
+    "Suprime Slovenčina",
+    "Suprime Slovenščina",
+    "Suprime Suomi",
+    "Suprime Svenska",
+    "Suprime Parte B",
+    "Suprime ANEXO II",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "aa0f38f0d977ee45"
+   ]
+  }
+ ],
+ "fragments": {
+  "8d61d2ca271ab262": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 1848/93 da Comissão, de 9 de Julho de 1993, que estabelece as normas de execução do Regulamento (CEE) nº 2082/92 do Conselho relativo aos certificados de especificidade dos produtos agrícolas e dos géneros alimentícios** *Jornal Oficial nº L 168 de 10/07/1993 p. 0035 - 0036 Edição especial finlandesa: Capítulo 3 Fascículo 50 p. 0252 Edição especial sueca: Capítulo 3 Fascículo 50 p. 0252*\n\nREGULAMENTO (CEE) No 1848/93 DA COMISSÃO de 9 de Julho de 1993 que estabelece as normas de execução do Regulamento (CEE) no 2082/92 do Conselho relativo aos certificados de especificidade dos produtos agrícolas e dos géneros alimentícios\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) no 2082/92 do Conselho, de 14 de Julho de 1992, relativo aos certificados de especifidade dos produtos agrícolas e dos géneros alimentícios (1), e, nomeadamente, o seu artigo 20o,\n\nConsiderando que, para garantir a aplicação uniforme do Regulamento (CEE) no 2082/92, é conveniente definir com precisão os prazos aplicáveis aquando do processo de registo;\n\nConsiderando que, no intuito de ter em conta as situações jurídicas diferentes dos Estados-membros, é admissível um pedido de oposição, nos termos do artigo 8o do Regulamento (CEE) no 2082/92, apresentado por um conjunto de pessoas ligadas por um interesse comum;\n\nConsiderando que, para a Comissão poder definir o símbolo comunitário e a menção previstos, respectivamente, nos artigos 12o e 15o do Regulamento (CEE) no 2082/92, é conveniente recolher os elementos de apreciação necessários;\n\nConsiderando que se trata de um novo sistema comunitário que dá resposta aos pedidos de informações dos consumidores sobre os produtos específicos tradicionais; que parece indispensável explicar a significação do símbolo comunitário e da menção ao público, sem, por esse facto, dispensar os produtores e/ou transformadores de promoverem os seus produtos respectivos;\n\nConsiderando que o Regulamento (CEE) no 2082/92 não se opõe à existência de sistemas nacionais de certificação dos produtos agrícolas e dos géneros alimentícios; que é conveniente permitir a utilização, se for caso disso, de símbolos nacionais conjuntamente com o símbolo comunitário na rotulagem, apresentação e publicidade dos referidos produtos;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité dos certificados de especificidade,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "858151ad1a8f32a7": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. O prazo de seis meses previsto no no 1 do artigo 9o do Regulamento (CEE) no 2082/92 começa a correr a partir da data da sua publicação no Jornal Oficial das Comunidades Europeias, prevista no no 1, segundo parágrafo, do artigo 8o do mesmo regulamento.\n\n2. O prazo é constituído por:\n\n- um período de cinco meses durante o qual qualquer pessoa singular ou colectiva com interesse legítimo no registo pode fazer oposição ao registo solicitado, em conformidade com o no 3 do artigo 8o do Regulamento (CEE) no 2082/92\n\ne\n\n- um período de um mês, ou um prazo mais longo, contanto que o prazo previsto no no 1 seja respeitado, colocado à disposição das autoridades competentes dos Estados-membros para transmitir a referida oposição à Comissão."
+  },
+  "4c07e4421614107e": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nSerão tomadas em consideração, para a transmissão pela autoridade competente do Estado-membro dentro dos prazos estipulados:\n\n- da notificação de oposição, nos termos do no 1 do artigo 9o do Regulamento (CEE) no 2082/92,\n\n- das notificações de oposição e de declaração, nos termos do no 4 do artigo 11o do Regulamento (CEE) no 2082/92,\n\na data de expedição, fazendo fé o carimbo postal, ou a data de recepção, quando os documentos sejam transmitidos directamente, por mensagem telex ou por telecópia à Comissão."
+  },
+  "91ab568f72215f87": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nQuando uma legislação nacional equipare um conjunto de pessoas que não tenham personalidade jurídica a uma pessoa colectiva, esse conjunto de pessoas é autorizado a consultar o pedido, nos termos e nas condições do no 2 do artigo 8o do Regulamento (CEE) no 2082/92, bem como a fazer oposição, nos termos e nas condições do no 3 do artigo 8o do referido regulamento."
+  },
+  "5d19ff5daeea9a82": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. O símbolo comunitário previsto no artigo 12o do Regulamento (CEE) no 2082/92, bem como a menção prevista no artigo 15o do mesmo regulamento serão definidos com a maior brevidade possível, de acordo com o processo previsto no artigo 19o do regulamento em questão.\n\n2. Durante um período de cinco anos a seguir à entrada em vigor do presente regulamento, a Comissão tomará as medidas de comunicação indispensáveis, com exclusão de quaisquer ajudas aos produtores e/ou transformadores, para dar conhecimento ao público da significação da menção e do símbolo comunitário."
+  },
+  "f91c5396a494c055": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nA utilização conjunta do símbolo comunitário e de símbolos nacionais é autorizada para os produtos agrícolas e géneros alimentícios que satisfaçam simultaneamente as exigências do Regulamento (CEE) no 2082/92 e as exigências nacionais relativas aos referidos produtos ou géneros alimentícios."
+  },
+  "6becca510199eb4b": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nDepois do registo previsto no no 1 do artigo 9o do Regulamento (CEE) no 2082/92, as autoridades competentes dos Estados-membros velarão por que qualquer pessoa possa consultar o caderno de encargos do produto agrícola ou do género alimentício que tenha sido objecto do registo."
+  },
+  "32c557a1f3416d74": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nO presente regulamento entra em vigor em 26 de Julho de 1993.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 9 de Julho de 1993.\n\nPela Comissão\n\nRené STEICHEN\n\nMembro da Comissão\n\n(1) JO no L 208 de 24. 7. 1992, p. 9."
+  },
+  "8707af35e8f83686": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Julho de 1993\n\nque estabelece as normas de execução do Regulamento (CEE) n.º 2082/92 do Conselho relativo aos certificados de especificidade dos produtos agrícolas e dos géneros alimentícios"
+  },
+  "40e92a1c4982d02a": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O prazo de seis meses previsto no n.º 1 do artigo 9.º do Regulamento (CEE) n.º 2082/92 começa a correr a partir da data da sua publicação no *Jornal Oficial das Comunidades Europeias*, prevista no n.º 1, segundo parágrafo, do artigo 8.º do mesmo regulamento.\n\n2.\n\nO prazo é constituído por:\n\n— um período de cinco meses durante o qual qualquer pessoa singular ou colectiva com interesse legítimo no registo pode fazer oposição ao registo solicitado, em conformidade com o n.º 3 do artigo 8.º do Regulamento (CEE) n.º 2082/92\n\n— um período de um mês, ou um prazo mais longo, contanto que o prazo previsto no n.º 1 seja respeitado, colocado à disposição das autoridades competentes dos Estados-membros para transmitir a referida oposição à Comissão."
+  },
+  "f724adb02652634d": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSerão tomadas em consideração, para a transmissão pela autoridade competente do Estado-membro dentro dos prazos estipulados:\n\n— da notificação de oposição, nos termos do n.º 1 do artigo 9.º do Regulamento (CEE) n.º 2082/92,\n\n— das notificações de oposição e de declaração, nos termos do n.º 4 do artigo 11.º do Regulamento (CEE) n.º 2082/92,\n\na data de expedição, fazendo fé o carimbo postal, ou a data de recepção, quando os documentos sejam transmitidos directamente, por mensagem telex ou por telecópia à Comissão."
+  },
+  "59f9e7b97ed2420d": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nQuando uma legislação nacional equipare um conjunto de pessoas que não tenham personalidade jurídica a uma pessoa colectiva, esse conjunto de pessoas é autorizado a consultar o pedido, nos termos e nas condições do n.º 2 do artigo 8.º do Regulamento (CEE) n.º 2082/92, bem como a fazer oposição, nos termos e nas condições do n.º 3 do artigo 8.º do referido regulamento."
+  },
+  "13eae2346651ef09": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os modelos do símbolo comunitário referido no artigo 12.º do Regulamento (CEE) n.º 2082/92 e da menção referida no artigo 15.º do mesmo regulamento constam do anexo I, parte A e parte B, do presente regulamento. A menção pode ser utilizada sem o símbolo comunitário.\n\nPara utilização do símbolo comunitário e da menção devem ser respeitadas as regras técnicas de reprodução estabelecidas no manual gráfico que figura no anexo II do presente regulamento.\n\n2. Durante um período de [**►M2**](http://publications.europa.eu/resource/celex/31998R2182) nove**◄** anos a seguir à entrada em vigor do presente regulamento, a Comissão tomará as medidas de comunicação indispensáveis, com exclusão de quaisquer ajudas aos produtores e/ou transformadores, para dar conhecimento ao público da significação da menção e do símbolo comunitário.\n\nSerá efectuada uma avaliação das medidas de comunicação realizadas."
+  },
+  "dc080bd70da3e366": {
+   "fragment_id": "Artigo 4.º A.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º A.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º A.º\n\n1. O produtor e/ou transformador, que tenham direito à utilização da menção e do símbolo comunitário ao abrigo do Regulamento (CEE) n.º 2082/92, podem escolher entre os modelos representados no anexo I do presente regulamento aquele(s) que julgar adequado(s) para a comercialização do produto agrícola ou do género alimentício.\n\n2. O produtor e/ou transformador que pretendam referir, na rotulagem, apresentação e/ou publicidade do produto agrícola ou do género alimentício, o sistema dos certificados de especificidade estabelecido pelo Regulamento (CEE) n.º 2082/92 incluirá o(s) modelo(s) apresentado(s) no anexo I do presente regulamento nessa informação."
+  },
+  "61d6dced54b39784": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA utilização conjunta do símbolo comunitário e de símbolos nacionais é autorizada para os produtos agrícolas e géneros alimentícios que satisfaçam simultaneamente as exigências do Regulamento (CEE) n.º 2082/92 e as exigências nacionais relativas aos referidos produtos ou géneros alimentícios."
+  },
+  "f674e2ecb2034d04": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nDepois do registo previsto no n.º 1 do artigo 9.º do Regulamento (CEE) n.º 2082/92, as autoridades competentes dos Estados-membros velarão por que qualquer pessoa possa consultar o caderno de encargos do produto agrícola ou do género alimentício que tenha sido objecto do registo."
+  },
+  "d851abeaf9e15895": {
+   "fragment_id": "Artigo 6.º A",
+   "type": "artigo",
+   "heading": "Artigo 6.º A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º A\n\n1. Um Estado-membro pode prever que o nome do serviço ou organismo de controlo referido no artigo 14.º do Regulamento (CEE) n.º 2082/92, que é parte integrante da sua própria estrutura de controlo, deva figurar no rótulo do produto agrícola ou do género alimentício.\n\n2. O serviço ou organismo de controlo comunicará ao Estado-membro o nome e o endereço dos produtores autorizados a utilizar o nome registado, bem como a menção e o símbolo comunitário. O Estado-membro manterá à disposição dos outros Estados-membros e da Comissão a lista dos produtores autorizados."
+  },
+  "fff18da114f05cbd": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO presente regulamento entra em vigor em 26 de Julho de 1993.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "6cd9753221daf8f2": {
+   "fragment_id": "Parte A",
+   "type": "divisao",
+   "heading": "Parte A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A"
+  },
+  "b519975504c0ef6d": {
+   "fragment_id": "Español",
+   "type": "divisao",
+   "heading": "Español",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Español"
+  },
+  "16cece7750c2df78": {
+   "fragment_id": "Čeština",
+   "type": "divisao",
+   "heading": "Čeština",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Čeština"
+  },
+  "bd515dea5619a3a3": {
+   "fragment_id": "Dansk",
+   "type": "divisao",
+   "heading": "Dansk",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Dansk"
+  },
+  "54bf6ac03e75e550": {
+   "fragment_id": "Deutsch",
+   "type": "divisao",
+   "heading": "Deutsch",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Deutsch"
+  },
+  "b749446401c1601c": {
+   "fragment_id": "Eesti keel",
+   "type": "divisao",
+   "heading": "Eesti keel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Eesti keel"
+  },
+  "8c694410be43174c": {
+   "fragment_id": "Ελληνικά",
+   "type": "divisao",
+   "heading": "Ελληνικά",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Ελληνικά"
+  },
+  "e6bd578376d1dd2c": {
+   "fragment_id": "English",
+   "type": "divisao",
+   "heading": "English",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### English"
+  },
+  "2948bacd7dd4a683": {
+   "fragment_id": "Français",
+   "type": "divisao",
+   "heading": "Français",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Français"
+  },
+  "714338375b44e246": {
+   "fragment_id": "Italiano",
+   "type": "divisao",
+   "heading": "Italiano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Italiano"
+  },
+  "e0259e75b1f09476": {
+   "fragment_id": "Latviešu valoda",
+   "type": "divisao",
+   "heading": "Latviešu valoda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Latviešu valoda"
+  },
+  "c45473a35c17c4bf": {
+   "fragment_id": "Lietuvių kalba",
+   "type": "divisao",
+   "heading": "Lietuvių kalba",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Lietuvių kalba"
+  },
+  "a9cd1a84b3a8074c": {
+   "fragment_id": "Magyar",
+   "type": "divisao",
+   "heading": "Magyar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Magyar"
+  },
+  "6a9b749c9c49ecec": {
+   "fragment_id": "Malti",
+   "type": "divisao",
+   "heading": "Malti",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Malti"
+  },
+  "8ee327387d4f86f8": {
+   "fragment_id": "Nederlands",
+   "type": "divisao",
+   "heading": "Nederlands",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Nederlands"
+  },
+  "5a06ac7846448908": {
+   "fragment_id": "Polski",
+   "type": "divisao",
+   "heading": "Polski",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Polski"
+  },
+  "b9aa95ee41533b71": {
+   "fragment_id": "Português",
+   "type": "divisao",
+   "heading": "Português",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Português"
+  },
+  "b99dc12f521931dd": {
+   "fragment_id": "Slovenčina",
+   "type": "divisao",
+   "heading": "Slovenčina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Slovenčina"
+  },
+  "d1d601e04816f60b": {
+   "fragment_id": "Slovenščina",
+   "type": "divisao",
+   "heading": "Slovenščina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Slovenščina"
+  },
+  "dcb8161b50e0b520": {
+   "fragment_id": "Suomi",
+   "type": "divisao",
+   "heading": "Suomi",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Suomi"
+  },
+  "f86e9718ac05e4c4": {
+   "fragment_id": "Svenska",
+   "type": "divisao",
+   "heading": "Svenska",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Svenska"
+  },
+  "8b58a07ef0b8e815": {
+   "fragment_id": "Parte B",
+   "type": "divisao",
+   "heading": "Parte B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B\n\nES ESPECIALIDAD TRADICIONAL GARANTIZADA\n\nCS ZARUČENÁ TRADIČNÍ SPECIALITA\n\nDA GARANTI FOR TRADITIONEL SPECIALITET\n\nDE GARANTIERT TRADITIONELLE SPEZIALITÄT\n\nET GARANTEERITUD TRADITSIOONILINE ERITUNNUS\n\nΕL ΕΙΔΙΚΟ ΠΑΡΑΔΟΣΙΑΚΟ ΠΡΟΪΟΝ ΕΓΓΥΗΜΕΝΟ\n\nEN TRADITIONAL SPECIALITY GUARANTEED\n\nFR SPÉCIALITÉ TRADITIONNELLE GARANTIE\n\nIT SPECIALITÀ TRADIZIONALE GARANTITA\n\nLV GARANTĒTAS TRADICIONĀLĀS ĪPATNĪBAS\n\nLT GARANTUOTAS TRADICINIS GAMINYS\n\nHU HAGYOMÁNYOS KÜLÖNLEGES TERMÉK\n\nMT SPEĊJALITÀ TRADIZZJONALI GARANTITA\n\nNL GEGARANDEERDE TRADITIONELE SPECIALITEIT\n\nPL GWARANTOWANA TRADYCYJNA SPECJALNOŚĆ\n\nPT ESPECIALIDADE TRADICIONAL GARANTIDA\n\nSK ŠPECIALITA GARANTOVANÁ TRADÍCIOU\n\nSL ZAJAMČENA TRADICIONALNA POSEBNOST\n\nFI AITO PERINTEINEN TUOTE\n\nSV GARANTERAD TRADITIONELL SPECIALITET"
+  },
+  "94a0543c49c61dca": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n---"
+  },
+  "8e160f526c0a54c7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/979cb74b-4c7d-4f94-b3cc-02f80987f1cf.0017.03/DOC_1#src.E0001)) JO n.º L 208 de 24. 7. 1992, p. 9."
+  },
+  "aa0f38f0d977ee45": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993R1848 — PT — 26.10.2007 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993R1848) [REGULAMENTO (CEE) N.º 1848/93 DA COMISSÃO](http://publications.europa.eu/resource/celex/31993R1848) [de 9 de Julho de 1993](http://publications.europa.eu/resource/celex/31993R1848) [que estabelece as normas de execução do Regulamento (CEE) n.º 2082/92 do Conselho relativo aos certificados de especificidade dos produtos agrícolas e dos géneros alimentícios](http://publications.europa.eu/resource/celex/31993R1848) (JO L 168, 10.7.1993, p.35)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1216/2007 da Comissão de 18 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1216) — L 275 — 3 — 19.10.2007"
+  }
+ }
+}

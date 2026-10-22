@@ -34,6 +34,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-06-27'
+version_history:
+  file: diretiva-ue-1993-103.versoes.json
+  count: 2
+  source_lastmod: '2007-06-27'
+  versions:
+  - date: '1993-12-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-27'
+    amending: eu:celex:32007L0030:por
+    amending_title: DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de
+      Junho de 2007
+    changes:
+    - Altera preambulo
+    - Altera ANEXO III
+    - Adita Artigo 1.º — Objecto
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 3.º — Disposições gerais
+    - Adita Artigo 4.º — Navios de pesca novos
+    - Adita Artigo 5.º — Navios de pesca existentes
+    - Adita Artigo 6.º — Reparações, transformações e modificações de grande envergadura
+    - Adita Artigo 7.º — Equipamentos e manutenção
+    - Adita Artigo 8.º — Informação dos trabalhadores
+    - Adita Artigo 9.º — Formação dos trabalhadores
+    - Adita Artigo 10.º — Formação aprofundada das pessoas susceptíveis de comandar um navio
+    - Adita Artigo 11.º — Consulta e participação dos trabalhadores
+    - Adita Artigo 12.º — Adaptação dos anexos
+    - Adita Artigo 13.º — Disposições finais
+    - Adita Artigo 14.º
+    - Adita ANEXO I
+    - Adita PRESCRIÇÕES MÍNIMAS DE SEGURANÇA E DE SAÚDE PARA OS NAVIOS DE PESCA NOVOS
+    - Adita [artigos 4.º e 6.º e n.º 1, alínea a), do artigo 7.º]
+    - Adita Observação preliminar
+    - Adita 1. Navegabilidade e estabilidade
+    - Adita 2. Instalação mecânica e eléctrica
+    - Adita 3. Equipamento de radiocomunicação
+    - Adita 4. Vias e saídas de emergência
+    - Adita 5. Detecção e combate a incêndios
+    - Adita 6. Ventilação das zonas de trabalho fechadas
+    - Adita 7. Temperatura ambiente
+    - Adita 8. Iluminação natural e artificial das zonas de trabalho
+    - Adita 9. Pavimentos, divisórias e tectos
+    - Adita 10. Portas
+    - Adita 11. Vias de circulação — zonas de perigo
+    - Adita 12. Concepção das zonas de trabalho.
+    - Adita 13. Zonas de alojamento
+    - Adita 14. Instalações sanitárias
+    - Adita 15. Primeiros socorros
+    - Adita 16. Escadas e pranchas de embarque
+    - Adita 17. Ruído
+    - Adita ANEXO II
+    - Adita PRESCRIÇÕES MÍNIMAS DE SEGURANÇA E DE SAÚDE PARA OS NAVIOS DE PESCA EXISTENTES
+    - Adita [artigo 5.º e n.º 1, alínea a), do artigo 7.º]
 identifiers:
   celex: 31993L0103
   eli: http://data.europa.eu/eli/dir/1993/103/oj
@@ -48,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9e60440b-449b-4151-9601-30bafdc5cfac.0009
   content_url: http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0103-20070627
-  retrieved_at: '2026-10-22T02:44:25Z'
+  retrieved_at: '2026-10-22T14:42:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T11:48:00.454+01:00'
 integrity:
@@ -57,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:25Z'
-  notes: Texto consolidado 01993L0103-20070627.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:18Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1993-103.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -128,29 +182,19 @@ relationships:
   source: null
 article_structure:
   article_count: 14
-  section_count: 49
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 50
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:25Z'
+  checked_at: '2026-10-22T14:42:18Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 93/103/CE do Conselho, de 23 de Novembro de 1993
-
-> 1993L0103 — PT — 27.06.2007 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007L0030) — [DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007](http://publications.europa.eu/resource/celex/32007L0030) — L 165 — 21 — 27.6.2007
-
-## DIRECTIVA 93/103/CE DO CONSELHO
 
 de 23 de Novembro de 1993
 

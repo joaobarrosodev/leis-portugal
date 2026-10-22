@@ -35,6 +35,80 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: regulamento-ue-2006-1080.versoes.json
+  count: 4
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2006-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-06-10'
+    amending: eu:celex:32009R0397:por
+    amending_title: REGULAMENTO (CE) N. o 397/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de Maio de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Competitividade regional e emprego
+    - Altera Artigo 6.º — Cooperação territorial europeia
+    - Altera Artigo 7.º — Elegibilidade das despesas
+    - Altera Artigo 12.º — Conteúdo
+    - Altera Artigo 18.º — Agrupamento europeu de cooperação territorial
+    - Altera Artigo 25.º — Entrada em vigor
+    - Altera Notas
+  - date: '2010-06-18'
+    amending: eu:celex:32010R0437:por
+    amending_title: REGULAMENTO (UE) N. o 437/2010 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de Maio de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Elegibilidade das despesas
+    - Altera Artigo 14.º — Designação das autoridades
+    - Altera Artigo 18.º — Agrupamento europeu de cooperação territorial
+    - Altera Notas
+  - date: '2014-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Objectivo
+    - Suprime Artigo 3.º — Âmbito de intervenção
+    - Suprime Artigo 4.º — Convergência
+    - Suprime Artigo 5.º — Competitividade regional e emprego
+    - Suprime Artigo 6.º — Cooperação territorial europeia
+    - Suprime Artigo 7.º — Elegibilidade das despesas
+    - Suprime CAPÍTULO II
+    - Suprime DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO TRATAMENTO DAS PARTICULARIDADES TERRITORIAIS
+    - Suprime Artigo 8.º — Desenvolvimento urbano sustentável
+    - Suprime Artigo 9.º — Coordenação com o FEADER e o FEP
+    - Suprime Artigo 10.º — Zonas com desvantagens geográficas e naturais
+    - Suprime Artigo 11.º — Regiões ultraperiféricas
+    - Suprime CAPÍTULO III
+    - Suprime DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO OBJECTIVO DA COOPERAÇÃO TERRITORIAL EUROPEIA
+    - Suprime SECÇÃO 1
+    - Suprime Programas operacionais
+    - Suprime Artigo 12.º — Conteúdo
+    - Suprime SECÇÃO 2
+    - Suprime Elegibilidade
+    - Suprime Artigo 13.º — Disposições relativas às regras de elegibilidade das despesas
+    - Suprime SECÇÃO 3
+    - Suprime Gestão, acompanhamento e controlo
+    - Suprime Artigo 14.º — Designação das autoridades
+    - Suprime Artigo 15.º — Funções da autoridade de gestão
+    - Suprime Artigo 16.º — Sistema de controlo
+    - Suprime Artigo 17.º — Gestão financeira
+    - Suprime Artigo 18.º — Agrupamento europeu de cooperação territorial
+    - Suprime SECÇÃO 4
+    - Suprime Operações
+    - Suprime Artigo 19.º — Selecção das operações
+    - Suprime Artigo 20.º — Responsabilidades do beneficiário principal e dos outros beneficiários
+    - Suprime Artigo 21.º — Condições especiais que regem a localização de operações
+    - Suprime CAPÍTULO IV
+    - Suprime DISPOSIÇÕES FINAIS
+    - Suprime Artigo 22.º — Disposições transitórias
+    - Suprime Artigo 23.º — Revogação
 identifiers:
   celex: 32006R1080
   eli: http://data.europa.eu/eli/reg/2006/1080/oj
@@ -49,7 +123,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017
   content_url: http://publications.europa.eu/resource/cellar/0a873322-8df7-4139-8685-b78c1a87c2dd.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1080-20140101
-  retrieved_at: '2026-10-22T02:37:03Z'
+  retrieved_at: '2026-10-22T15:04:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T15:54:31.147+01:00'
 integrity:
@@ -58,9 +132,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:03Z'
-  notes: Texto consolidado 02006R1080-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:04:44Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2006-1080.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -217,16 +291,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:03Z'
+  checked_at: '2026-10-22T15:04:44Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02006R1080-20060801: versão indisponível (Sem expressão na língua por para CELEX 02006R1080-20060801.)'
   errors: []
 ---
 

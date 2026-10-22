@@ -35,6 +35,58 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-01-01'
+version_history:
+  file: regulamento-ue-1991-2092.versoes.json
+  count: 5
+  source_lastmod: '2009-01-01'
+  versions:
+  - date: '1991-07-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-12-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+    - Suprime Artigo 15o
+    - Suprime Artigo 16o
+    - Suprime ANEXO I — PRINCÍPIOS DE PRODUÇÃO BIOLÓGICA NAS EXPLORAÇÕES
+    - Suprime ANEXO II — >POSIÇÃO NUMA TABELA>
+    - Suprime ANEXO III — EXIGÊNCIAS MÍNIMAS DE CONTROLO E MEDIDAS DE PRECAUÇÃO PREVISTAS NO ÂMBITO DO REGIME DE CONTROLO
+      A QUE SE REFEREM OS ARTIGOS 8o E 9o
+    - Suprime ANEXO IV — DADOS DA NOTIFICAÇÃO PREVISTA NO N° 1, ALÍNEA a), DO ARTIGO 8o
+    - Suprime ANEXO V — INDICAÇÃO DE CONFORMIDADE COM O REGIME DE CONTROLO
+    - Suprime ANEXO VI
+  - date: '2007-12-27'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+  - date: '2008-05-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+  - date: '2009-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
 identifiers:
   celex: 31991R2092
   eli: http://data.europa.eu/eli/reg/1991/2092/oj
@@ -49,7 +101,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/987288f6-680a-42ac-8f55-6c3505212486.0011
   content_url: http://publications.europa.eu/resource/cellar/8271b574-3cb8-4d9c-991e-51b9027e67bb.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991R2092-20090101
-  retrieved_at: '2026-10-22T02:35:44Z'
+  retrieved_at: '2026-10-22T14:40:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T16:19:22.708+01:00'
 integrity:
@@ -58,9 +110,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:44Z'
-  notes: Texto consolidado 01991R2092-20090101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:40:24Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-1991-2092.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -513,16 +565,42 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:44Z'
+  checked_at: '2026-10-22T14:40:24Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01991R2092-19960315: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2092-19970806: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2092-19981201: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2092-19990315: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2092-19990824: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2092-20000419: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2092-20000527: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2092-20000708: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2092-20000824: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2092-20001003: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2092-20010310: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2092-20020218: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2092-20020323: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2092-20030422: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2092-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2092-20030806: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2092-20031230: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2092-20040501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2092-20040827: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2092-20050101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2092-20050701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2092-20050825: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2092-20051005: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2092-20051202: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2092-20060401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2092-20060506: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2092-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2092-20080215: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

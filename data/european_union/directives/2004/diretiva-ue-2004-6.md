@@ -34,6 +34,63 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-01-01'
+version_history:
+  file: diretiva-ue-2004-6.versoes.json
+  count: 3
+  source_lastmod: '2010-01-01'
+  versions:
+  - date: '2004-01-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-05-09'
+    amending: eu:celex:32007L0026:por
+    amending_title: DIRECTIVA 2007/26/CE DA COMISSÃO Texto relevante para efeitos do EEE de 7 de Maio de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera ANEXO
+    - Adita SUBSTÂNCIAS QUE PODEM SER ADICIONADAS, PARA FINS NUTRICIONAIS ESPECÍFICOS, AOS GÉNEROS ALIMENTÍCIOS DESTINADOS
+      A UMA ALIMENTAÇÃO ESPECIAL, NOS TERMOS DA DIRECTIVA 2001/15/CE
+    - 'Adita Categoria 1: Vitaminas'
+    - Adita VITAMINA E
+    - 'Adita Categoria 2: Minerais'
+    - Adita BORO
+    - Adita CÁLCIO
+    - Adita CRÓMIO
+    - Adita COBRE
+    - Adita FERRO
+    - Adita SELÉNIO
+    - Adita MAGNÉSIO
+    - Adita MANGANÊS
+    - Adita ZINCO
+    - Adita Notas
+  - date: '2010-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime ANEXO
+    - Suprime SUBSTÂNCIAS QUE PODEM SER ADICIONADAS, PARA FINS NUTRICIONAIS ESPECÍFICOS, AOS GÉNEROS ALIMENTÍCIOS DESTINADOS
+      A UMA ALIMENTAÇÃO ESPECIAL, NOS TERMOS DA DIRECTIVA 2001/15/CE
+    - 'Suprime Categoria 1: Vitaminas'
+    - Suprime VITAMINA E
+    - 'Suprime Categoria 2: Minerais'
+    - Suprime BORO
+    - Suprime CÁLCIO
+    - Suprime CRÓMIO
+    - Suprime COBRE
+    - Suprime FERRO
+    - Suprime SELÉNIO
+    - Suprime MAGNÉSIO
+    - Suprime MANGANÊS
+    - Suprime ZINCO
+    - Suprime Notas
 identifiers:
   celex: 32004L0006
   eli: http://data.europa.eu/eli/dir/2004/6/oj
@@ -48,7 +105,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/57fe70a9-696b-4234-b3f3-d999fb1eca73.0010
   content_url: http://publications.europa.eu/resource/cellar/81337b58-e7b7-42e7-a218-58368e502776.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0006-20100101
-  retrieved_at: '2026-10-22T02:47:36Z'
+  retrieved_at: '2026-10-22T14:56:35Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-13T20:56:06.291+01:00'
 integrity:
@@ -57,9 +114,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:36Z'
-  notes: Texto consolidado 02004L0006-20100101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:35Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2004-6.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -108,16 +165,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:36Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:56:35Z'
+  warnings: []
   errors: []
 ---
 

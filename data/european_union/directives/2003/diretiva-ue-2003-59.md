@@ -37,6 +37,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-01-12'
+version_history:
+  file: diretiva-ue-2003-59.versoes.json
+  count: 2
+  source_lastmod: '2023-01-12'
+  versions:
+  - date: '2019-07-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-01-12'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Âmbito
+    - Suprime Artigo 2.º — Isenções
+    - Suprime Artigo 3.º — Qualificação e formação
+    - Suprime Artigo 4.º — Direitos adquiridos
+    - Suprime Artigo 5.º — Qualificação inicial
+    - Suprime Artigo 6.º — CAP comprovativo da qualificação inicial
+    - Suprime Artigo 7.º — Formação contínua
+    - Suprime Artigo 8.º — CAP comprovativo da formação contínua
+    - Suprime Artigo 9.º — Local da formação
+    - Suprime Artigo 10.º — Código da União
+    - Suprime Artigo 10.º-A — Rede de execução
+    - Suprime Artigo 11.º — Adaptação ao progresso científico e técnico
+    - Suprime Artigo 11.º-A — Exercício da delegação
+    - Suprime Artigo 13.º — Relatório
+    - Suprime Artigo 14.º — Transposição e aplicação
+    - Suprime Artigo 15.º — Revogação
+    - Suprime Artigo 16.º — Entrada em vigor
+    - Suprime Artigo 17.º — Destinatários
+    - Suprime ANEXO I
+    - Suprime EXIGÊNCIAS MÍNIMAS PARA A QUALIFICAÇÃO E FORMAÇÃO
+    - 'Suprime Secção 1: Lista das matérias'
+    - Suprime 1. Aperfeiçoamento para uma condução racional baseada nas regras de segurança
+    - Suprime 2. Aplicação das regulamentações
+    - Suprime 3. Saúde, segurança rodoviária e segurança ambiental, serviço, logística
+    - 'Suprime Secção 2: Qualificação inicial obrigatória prevista na alínea a) do n.º 1 do artigo 3.º'
+    - Suprime 2.1. Opção que inclui simultaneamente a frequência de cursos e um exame
+    - Suprime 2.2. Opção que inclui exames
+    - 'Suprime Secção 3: Qualificação inicial acelerada prevista no artigo 3.º, n.º 2'
+    - 'Suprime Secção 4: Formação contínua obrigatória prevista no artigo 3.º, n.º 1, alínea b)'
+    - 'Suprime Secção 5: Reconhecimento da qualificação inicial e da formação contínua'
+    - Suprime ANEXO II
+    - Suprime DISPOSIÇÕES RELATIVAS AO MODELO DA UNIÃO EUROPEIA DE CARTA DE QUALIFICAÇÃO DE MOTORISTA
+    - Suprime 3. Segurança, incluindo a protecção de dados
+    - Suprime 4. Disposições específicas
+    - Suprime 5. Disposições transitórias
+    - Suprime MODELO DA UNIÃO EUROPEIA DE CARTA DE QUALIFICAÇÃO DE MOTORISTA
+    - Suprime ANEXO III
+    - Suprime TABELA DE CORRESPONDÊNCIA DAS REFERÊNCIAS A DETERMINADAS CATEGORIAS DE CARTAS DE CONDUÇÃO
+    - Suprime Notas
 identifiers:
   celex: 32003L0059
   eli: http://data.europa.eu/eli/dir/2003/59/oj
@@ -51,7 +104,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ba489a63-085a-456b-98d4-2d8b93cf9022.0010
   content_url: http://publications.europa.eu/resource/cellar/32ff4035-a30b-11ed-b508-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0059-20230112
-  retrieved_at: '2026-10-22T02:40:34Z'
+  retrieved_at: '2026-10-22T14:54:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:25:56.974+02:00'
 integrity:
@@ -60,9 +113,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:34Z'
-  notes: Texto consolidado 02003L0059-20230112.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:55Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2003-59.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -237,16 +290,20 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:34Z'
+  checked_at: '2026-10-22T14:54:55Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '32003L0059: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003L0059-20040501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003L0059-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003L0059-20081211: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003L0059-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003L0059-20180522: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

@@ -1,0 +1,257 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0005:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0005-20150310",
+ "dre_path": null,
+ "source_lastmod": "2015-03-10",
+ "versions": [
+  {
+   "date": "1993-03-04",
+   "future": false,
+   "celex": "31993L0005",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5f30757b1632cca7",
+    "f31cf1a80a7f8e05",
+    "29ee42ab68bda77b",
+    "5554114ed7200fe9",
+    "ab3a5612fdd68a7a",
+    "6106e900d51aec6a",
+    "9b37315b322349d6",
+    "07a0d0f6b510e32d",
+    "cbdcdafee5d0905d",
+    "8cc0f78624ac93a1"
+   ]
+  },
+  {
+   "date": "2003-11-20",
+   "future": false,
+   "celex": "01993L0005-20031120",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o"
+   ],
+   "fragments": [
+    "1f13c093536c3a62",
+    "c8f4ab90b92f25de",
+    "8efe00d6f373f23f",
+    "10890bf928db55b7",
+    "61678656526bf283",
+    "daaf6ddb3834363f",
+    "d9cbebdf791ad2ac",
+    "6d9cf7572c3bdf84",
+    "b1bdb6eb30e3efe7",
+    "068ffaf3712fa337"
+   ]
+  },
+  {
+   "date": "2015-03-10",
+   "future": false,
+   "celex": "01993L0005-20150310",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "e092c6de2416b9cf"
+   ]
+  }
+ ],
+ "fragments": {
+  "5f30757b1632cca7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 93/5/CEE do Conselho, de 25 de Fevereiro de 1993, relativa à assistência dos Estados-membros à Comissão e à sua cooperação na análise científica de questões relacionadas com os produtos alimentares** *Jornal Oficial nº L 052 de 04/03/1993 p. 0018 - 0021 Edição especial finlandesa: Capítulo 15 Fascículo 12 p. 0087 Edição especial sueca: Capítulo 15 Fascículo 12 p. 0087*\n\nDIRECTIVA 93/5/CEE DO CONSELHO de 25 de Fevereiro de 1993 relativa à assistência dos Estados-membros à Comissão e à sua cooperação na análise científica de questões relacionadas com os produtos alimentares\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100oA,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a realização e o bom funcionamento do mercado interno no domínio dos produtos alimentares exigem a análise de questões científicas relativas aos produtos alimentares, especialmente quando tais questões dizem respeito à saúde humana;\n\nConsiderando que os consumidores têm direito a uma política alimentar comunitária que promova a inocuidade dos alimentos, sobretudo no que se refere aos aspectos nutricional, microbiológico e toxicológico;\n\nConsiderando que a Comissão instituiu, pela Decisão 74/234/CEE (4), um comité científico da alimentação humana para a assistir na prossecução desse objectivo;\n\nConsiderando que actualmente a consulta do referido comité é exigida, por razões de saúde pública, por diversas directivas, nomeadamente as que dizem respeito a alimentos dietéticos, materiais e objectos destinados a entrar em contacto com géneros alimentícios, aditivos, aromatizantes e solventes de extracção;\n\nConsiderando que o Comité científico da alimentação humana deve ter uma participação muito mais alargada nas políticas comunitárias que tenham a ver com os alimentos, o regime alimentar e a saúde pública;\n\nConsiderando que o processo de constituição de uma base científica satisfatória nos domínios relacionados com a inocuidade dos géneros alimentícios deve, no interesse dos consumidores e do sector industrial, ser independente, transparente e eficaz e reflectir a situação existente nos Estados-membros;\n\nConsiderando que, para que seja assegurado o funcionamento eficaz desse comité, a Comunidade deve beneficiar de apoio científico por parte dos Estados-membros;\n\nConsiderando que a Comunidade necessita igualmente de apoio científico para outras questões de interesse público essenciais para o funcionamento do mercado interno, nomeadamente o tratamento dos incidentes associados à contaminação de alimentos e, de modo geral, para a elaboração da regulamentação respeitante aos produtos alimentares que tenha incidências na saúde humana;\n\nConsiderando que, para assegurar a execução dessas tarefas, a Comissão deve beneficiar de acesso às informações e à assistência disponíveis nos Estados-membros, os quais devem facilitar o cumprimento da sua missão;\n\nConsiderando que existem nos Estados-membros diversos organismos encarregados de prestar assistência científica aos respectivos governos em questões relativas aos produtos alimentares e que se torna necessária a utilização eficaz de tais recursos, em apoio das actividades comunitárias, sob a forma de cooperação;\n\nConsiderando que os Estados-membros tomarão todas as medidas necessárias, incluindo medidas financeiras, dentro dos limites dos seus recursos, para possibilitar às autoridades e organismos competentes colaborarem com a Comissão e prestar-lhes a assistência necessária na análise científica de questões de interesse público relacionadas com a alimentação humana;\n\nConsiderando que importa, assim, proceder à aproximação das disposições que regem aqueles organismos a fim de possibilitar a sua cooperação com a Comissão tendo em vista, nomeadamente, a elaboração de regulamentação que assegure a livre circulação dos produtos alimentares, com base nos dados científicos disponíveis;\n\nConsiderando que é necessário aumentar e reforçar as funções e a proficiência do Comité científico da alimentação humana, tendo em vista, especialmente, o aumento de eficácia da Comunidade nas questões ligadas à alimentação humana;\n\nConsiderando que é necessário prever a possibilidade de Estados terceiros participarem nessa cooperação;\n\nConsiderando que a Comissão deve assegurar a gestão dessa cooperação e que os Estados-membros devem, por seu lado, assisti-la nessa tarefa, no âmbito do Comité permanente dos géneros alimentícios;\n\nConsiderando que a realização do mercado interno deverá dar origem a uma participação acrescida da Comunidade em reuniões e trabalhos relativos aos produtos alimentares, quer em organizações internacionais quer no âmbito de realizações bilaterais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "f31cf1a80a7f8e05": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Os Estados-membros tomarão as medidas necessárias para possibilitar a cooperação das autoridades e organismos competentes com a Comissão e lhe fornecer a assistência necessária à análise científica de questões de interesse público relacionadas com a alimentação, em especial no domínio da saúde pública, em disciplinas como as que estão relacionadas com a medicina, a nutrição, a toxicologia, a biologia, a higiene, a tecnologia dos produtos alimentares, a biotecnologia, os novos alimentos e processos, as técnicas de avaliação de riscos, a física e a química.\n\n2. a) O procedimento de cooperação da presente directiva é aplicável sempre que os actos do Conselho necessitem de parecer do Comité científico para a alimentação humana.\n\nb) Sempre que necessário, a aplicação do procedimento de cooperação da presente directiva a outras questões relativas à protecção da saúde e segurança das pessoas resultante do consumo de alimentos será decidida em conformidade com o procedimento previsto no artigo 5o"
+  },
+  "29ee42ab68bda77b": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nCada um dos Estados-membros designará a autoridade ou organismo encarregado da cooperação com a Comissão e da repartição das tarefas a que se refere o artigo 3o entre as instituições apropriadas no seu território e disso informará a Comissão.\n\nA Comissão publicará no Jornal Oficial das Comunidades Europeias a lista das autoridades designadas referidas no parágrafo anterior e procederá à sua actualização.\n\nCada uma das autoridades designadas enviará à Comissão uma lista dos institutos participantes no procedimento da cooperação na sua área de jurisdição, bem como qualquer alteração a essa lista. A Comissão transmitirá esta informação às autoridades referidas no primeiro parágrafo, bem como às outras partes interessadas."
+  },
+  "5554114ed7200fe9": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. As principais actividades a desenvolver pelos institutos que participam na cooperação incluirão as que estão indicadas no anexo.\n\n2. As medidas a seguir indicadas serão adoptadas de acordo com o procedimento previsto no artigo 5o:\n\n- definição das regras de gestão administrativa de cooperação, incluindo\n\n- medidas destinadas a garantir a transparência das recomendações formuladas pelo Comité científico para a alimentação humana,\n\n- procedimentos de apresentação e avaliação dos processos,\n\n- definição e actualização, pelo menos de seis em seis meses, da lista das tarefas e das correspondentes prioridades.\n\n3. As tarefas a desempenhar de acordo com a lista adoptada nos termos do no 2, segundo travessão, serão distribuídas de acordo com o procedimento estabelecido no artigo 5o e com base na competência científica e dentro dos limites determinados pelos recursos disponíveis nos Estados-membros."
+  },
+  "ab3a5612fdd68a7a": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nDepois de consultar as autoridades ou organismos referidos no artigo 2o, a Comissão pode convidar institutos de países terceiros a participarem, num regime de voluntariado, na execução das tarefas necessárias ao cumprimento dos objectivos desta directiva e, em especial, as tarefas referidas na lista mencionada no no 2, segundo travessão, do artigo 3o Sempre que um instituto de um país terceiro tenha concordado em participar na execução de tarefas, a Comissão deverá ter em conta essa participação ao distribuir as tarefas nos termos do no 3 do artigo 3o\n\nEm caso algum a participação prevista no primeiro parágrafo pode constituir encargo para o orçamento comunitário."
+  },
+  "6106e900d51aec6a": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nA Comissão é assistida pelo Comité permanente dos géneros alimentícios criado pela Decisão 69/414/CEE, a seguir designado « comité ».\n\nO representante da Comissão submete à apreciação do comité um projecto das medidas a tomar. O comité emite o seu parecer sobre este projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer é emitido por maioria nos termos previstos no no 2 do artigo 148o do Tratado para a adopção das decisões que o Conselho é convidado a tomar sob proposta da Comissão. Nas votações no seio do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\nA Comissão adopta as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nSe as medidas não forem conformes com o parecer do comité ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas, excepto no caso de o Conselho se ter pronunciado por maioria simples contra as referidas medidas."
+  },
+  "9b37315b322349d6": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nA Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre as estruturas, acções e eficácia do Comité científico da alimentação humana, num prazo de três anos a contar da data de aplicação da presente directiva e, posteriormente, de três em três anos."
+  },
+  "07a0d0f6b510e32d": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva antes de 1 de Junho de 1993. Desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem as disposições referidas no no 1, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito interno que adoptarem no domínio regido pela presente directiva."
+  },
+  "cbdcdafee5d0905d": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 25 de Fevereiro de 1993.\n\nPelo Conselho\n\nO Presidente\n\nJ. TROEJBORG\n\n(1) JO no C 108 de 23. 4. 1991, p. 7, e JO no C 107 de 28. 4. 1992, p. 13.\n\n(2) JO no C 94 de 13. 4. 1992, p. 286 e decisão de 20 de Janeiro de 1993 (ainda não publicada no Jornal Oficial).\n\n(3) JO no C 14 de 20. 1. 1992, p. 6.\n\n(4) JO no L 136 de 20. 5. 1974, p. 1."
+  },
+  "8cc0f78624ac93a1": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nAs principais tarefas a serem desempenhadas pelos institutos que participem na cooperação incluirão nomeadamente:\n\n- a elaboração de protocolos de avaliação dos riscos associados aos componentes dos alimentos e de métodos de avaliação nutricional,\n\n- a avaliação da adequação do regime alimentar,\n\n- a análise de resultados de ensaios apresentados à Comissão ao abrigo da regulamentação comunitária e a elaboração de uma monografia a submeter à avaliação do Comité científico da alimentação humana,\n\n- a realização de inquéritos sobre o consumo alimentar, nomeadamente os necessários à determinação ou avaliação das condições de utilização dos aditivos alimentares ou à fixação de valores limite para outros componentes de alimentos,\n\n- a realização de estudos relativos aos componentes do regime alimentar dos vários Estados-membros ou aos contaminantes biológicos ou químicos dos alimentos,\n\n- a assistência à Comissão no cumprimento dos compromissos internacionais da Comunidade, pondo ao seu dispor conhecimentos especializados no domínio da inocuidade dos alimentos."
+  },
+  "1f13c093536c3a62": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1993L0005 — PT — 20.11.2003 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0005:PT:NOT) [DIRECTIVA 93/5/CEE DO CONSELHO de 25 de Fevereiro de 1993 relativa à assistência dos Estados-membros à Comissão e à sua cooperação na análise científica de questões relacionadas com os produtos alimentares](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0005:PT:NOT) (JO L 052, 4.3.1993, p.18)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R1882:PT:NOT) | [Regulamento (CE) n.o 1882/2003 do Parlamento Europeu e do Conselho de 29 de Setembro de 2003](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R1882:PT:NOT) | L 284 | 1 | 31.10.2003 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0005:PT:NOT)\n\nDIRECTIVA 93/5/CEE DO CONSELHO\n\nde 25 de Fevereiro de 1993\n\nrelativa à assistência dos Estados-membros à Comissão e à sua cooperação na análise científica de questões relacionadas com os produtos alimentares\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.oA,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/d8297a08-38b1-40bf-a8cb-c1e7a7c63c87.0018.02/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/d8297a08-38b1-40bf-a8cb-c1e7a7c63c87.0018.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/d8297a08-38b1-40bf-a8cb-c1e7a7c63c87.0018.02/DOC_1#E0003)),\n\nConsiderando que a realização e o bom funcionamento do mercado interno no domínio dos produtos alimentares exigem a análise de questões científicas relativas aos produtos alimentares, especialmente quando tais questões dizem respeito à saúde humana;\n\nConsiderando que os consumidores têm direito a uma política alimentar comunitária que promova a inocuidade dos alimentos, sobretudo no que se refere aos aspectos nutricional, microbiológico e toxicológico;\n\nConsiderando que a Comissão instituiu, pela Decisão 74/234/CEE ([4](http://publications.europa.eu/resource/cellar/d8297a08-38b1-40bf-a8cb-c1e7a7c63c87.0018.02/DOC_1#E0004)), um comité científico da alimentação humana para a assistir na prossecução desse objectivo;\n\nConsiderando que actualmente a consulta do referido comité é exigida, por razões de saúde pública, por diversas directivas, nomeadamente as que dizem respeito a alimentos dietéticos, materiais e objectos destinados a entrar em contacto com géneros alimentícios, aditivos, aromatizantes e solventes de extracção;\n\nConsiderando que o Comité científico da alimentação humana deve ter uma participação muito mais alargada nas políticas comunitárias que tenham a ver com os alimentos, o regime alimentar e a saúde pública;\n\nConsiderando que o processo de constituição de uma base científica satisfatória nos domínios relacionados com a inocuidade dos géneros alimentícios deve, no interesse dos consumidores e do sector industrial, ser independente, transparente e eficaz e reflectir a situação existente nos Estados-membros;\n\nConsiderando que, para que seja assegurado o funcionamento eficaz desse comité, a Comunidade deve beneficiar de apoio científico por parte dos Estados-membros;\n\nConsiderando que a Comunidade necessita igualmente de apoio científico para outras questões de interesse público essenciais para o funcionamento do mercado interno, nomeadamente o tratamento dos incidentes associados à contaminação de alimentos e, de modo geral, para a elaboração da regulamentação respeitante aos produtos alimentares que tenha incidências na saúde humana;\n\nConsiderando que, para assegurar a execução dessas tarefas, a Comissão deve beneficiar de acesso às informações e à assistência disponíveis nos Estados-membros, os quais devem facilitar o cumprimento da sua missão;\n\nConsiderando que existem nos Estados-membros diversos organismos encarregados de prestar assistência científica aos respectivos governos em questões relativas aos produtos alimentares e que se torna necessária a utilização eficaz de tais recursos, em apoio das actividades comunitárias, sob a forma de cooperação;\n\nConsiderando que os Estados-membros tomarão todas as medidas necessárias, incluindo medidas financeiras, dentro dos limites dos seus recursos, para possibilitar às autoridades e organismos competentes colaborarem com a Comissão e prestar-lhes a assistência necessária na análise científica de questões de interesse público relacionadas com a alimentação humana;\n\nConsiderando que importa, assim, proceder à aproximação das disposições que regem aqueles organismos a fim de possibilitar a sua cooperação com a Comissão tendo em vista, nomeadamente, a elaboração de regulamentação que assegure a livre circulação dos produtos alimentares, com base nos dados científicos disponíveis;\n\nConsiderando que é necessário aumentar e reforçar as funções e a proficiência do Comité científico da alimentação humana, tendo em vista, especialmente, o aumento de eficácia da Comunidade nas questões ligadas à alimentação humana;\n\nConsiderando que é necessário prever a possibilidade de Estados terceiros participarem nessa cooperação;\n\nConsiderando que a Comissão deve assegurar a gestão dessa cooperação e que os Estados-membros devem, por seu lado, assisti-la nessa tarefa, no âmbito do Comité permanente dos géneros alimentícios;\n\nConsiderando que a realização do mercado interno deverá dar origem a uma participação acrescida da Comunidade em reuniões e trabalhos relativos aos produtos alimentares, quer em organizações internacionais quer no âmbito de realizações bilaterais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "c8f4ab90b92f25de": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os Estados-membros tomarão as medidas necessárias para possibilitar a cooperação das autoridades e organismos competentes com a Comissão e lhe fornecer a assistência necessária à análise científica de questões de interesse público relacionadas com a alimentação, em especial no domínio da saúde pública, em disciplinas como as que estão relacionadas com a medicina, a nutrição, a toxicologia, a biologia, a higiene, a tecnologia dos produtos alimentares, a biotecnologia, os novos alimentos e processos, as técnicas de avaliação de riscos, a física e a química.\n\na) O procedimento de cooperação da presente directiva é aplicável sempre que os actos do Conselho necessitem de parecer do Comité científico para a alimentação humana.\n\nb) Sempre que necessário, a aplicação do procedimento de cooperação da presente directiva a outras questões relativas à protecção da saúde e segurança das pessoas resultante do consumo de alimentos será decidida em conformidade com o procedimento previsto no artigo 5.o"
+  },
+  "8efe00d6f373f23f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nCada um dos Estados-membros designará a autoridade ou organismo encarregado da cooperação com a Comissão e da repartição das tarefas a que se refere o artigo 3.o entre as instituições apropriadas no seu território e disso informará a Comissão.\n\nA Comissão publicará no Jornal Oficial das Comunidades Europeias a lista das autoridades designadas referidas no parágrafo anterior e procederá à sua actualização.\n\nCada uma das autoridades designadas enviará à Comissão uma lista dos institutos participantes no procedimento da cooperação na sua área de jurisdição, bem como qualquer alteração a essa lista. A Comissão transmitirá esta informação às autoridades referidas no primeiro parágrafo, bem como às outras partes interessadas."
+  },
+  "10890bf928db55b7": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As principais actividades a desenvolver pelos institutos que participam na cooperação incluirão as que estão indicadas no anexo.\n\n2. As medidas a seguir indicadas serão adoptadas de acordo com o procedimento previsto no artigo 5.o:\n\n— definição das regras de gestão administrativa de cooperação, incluindo\n\n— medidas destinadas a garantir a transparência das recomendações formuladas pelo Comité científico para a alimentação humana,\n\n— procedimentos de apresentação e avaliação dos processos,\n\n— definição e actualização, pelo menos de seis em seis meses, da lista das tarefas e das correspondentes prioridades.\n\n3. As tarefas a desempenhar de acordo com a lista adoptada nos termos do n.o 2, segundo travessão, serão distribuídas de acordo com o procedimento estabelecido no artigo 5.o e com base na competência científica e dentro dos limites determinados pelos recursos disponíveis nos Estados-membros."
+  },
+  "61678656526bf283": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nDepois de consultar as autoridades ou organismos referidos no artigo 2.o, a Comissão pode convidar institutos de países terceiros a participarem, num regime de voluntariado, na execução das tarefas necessárias ao cumprimento dos objectivos desta directiva e, em especial, as tarefas referidas na lista mencionada no n.o 2, segundo travessão, do artigo 3.o Sempre que um instituto de um país terceiro tenha concordado em participar na execução de tarefas, a Comissão deverá ter em conta essa participação ao distribuir as tarefas nos termos do n.o 3 do artigo 3.o\n\nEm caso algum a participação prevista no primeiro parágrafo pode constituir encargo para o orçamento comunitário.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R1882:PT:NOT)"
+  },
+  "daaf6ddb3834363f": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.o do Regulamento (CE) n.o 178/2002 ([5](http://publications.europa.eu/resource/cellar/d8297a08-38b1-40bf-a8cb-c1e7a7c63c87.0018.02/DOC_1#E0005)), a seguir designado por «Comité».\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE ([6](http://publications.europa.eu/resource/cellar/d8297a08-38b1-40bf-a8cb-c1e7a7c63c87.0018.02/DOC_1#E0006)), tendo-se em conta o disposto no seu artigo 8.o\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0005:PT:NOT)"
+  },
+  "d9cbebdf791ad2ac": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre as estruturas, acções e eficácia do Comité científico da alimentação humana, num prazo de três anos a contar da data de aplicação da presente directiva e, posteriormente, de três em três anos."
+  },
+  "6d9cf7572c3bdf84": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva antes de 1 de Junho de 1993. Desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem as disposições referidas no n.o 1, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito interno que adoptarem no domínio regido pela presente directiva."
+  },
+  "b1bdb6eb30e3efe7": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "068ffaf3712fa337": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nAs principais tarefas a serem desempenhadas pelos institutos que participem na cooperação incluirão nomeadamente:\n\n— a elaboração de protocolos de avaliação dos riscos associados aos componentes dos alimentos e de métodos de avaliação nutricional,\n\n— a avaliação da adequação do regime alimentar,\n\n— a análise de resultados de ensaios apresentados à Comissão ao abrigo da regulamentação comunitária e a elaboração de uma monografia a submeter à avaliação do Comité científico da alimentação humana,\n\n— a realização de inquéritos sobre o consumo alimentar, nomeadamente os necessários à determinação ou avaliação das condições de utilização dos aditivos alimentares ou à fixação de valores limite para outros componentes de alimentos,\n\n— a realização de estudos relativos aos componentes do regime alimentar dos vários Estados-membros ou aos contaminantes biológicos ou químicos dos alimentos,\n\n— a assistência à Comissão no cumprimento dos compromissos internacionais da Comunidade, pondo ao seu dispor conhecimentos especializados no domínio da inocuidade dos alimentos.\n\n([1](http://publications.europa.eu/resource/cellar/d8297a08-38b1-40bf-a8cb-c1e7a7c63c87.0018.02/DOC_1#src.E0001)) JO n.o C 108 de 23. 4. 1991, p. 7, e JO n.o C 107 de 28. 4. 1992, p. 13.\n\n([2](http://publications.europa.eu/resource/cellar/d8297a08-38b1-40bf-a8cb-c1e7a7c63c87.0018.02/DOC_1#src.E0002)) JO n.o C 94 de 13. 4. 1992, p. 286 e decisão de 20 de Janeiro de 1993 (ainda não publicada no Jornal Oficial).\n\n([3](http://publications.europa.eu/resource/cellar/d8297a08-38b1-40bf-a8cb-c1e7a7c63c87.0018.02/DOC_1#src.E0003)) JO n.o C 14 de 20. 1. 1992, p. 6.\n\n([4](http://publications.europa.eu/resource/cellar/d8297a08-38b1-40bf-a8cb-c1e7a7c63c87.0018.02/DOC_1#src.E0004)) JO n.o L 136 de 20. 5. 1974, p. 1.\n\n([5](http://publications.europa.eu/resource/cellar/d8297a08-38b1-40bf-a8cb-c1e7a7c63c87.0018.02/DOC_1#src.E0005)) JO L 31 de 1.2.2002, p. 1.\n\n([6](http://publications.europa.eu/resource/cellar/d8297a08-38b1-40bf-a8cb-c1e7a7c63c87.0018.02/DOC_1#src.E0006)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "e092c6de2416b9cf": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993L0005 — PT — 10.03.2015 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993L0005) [DIRECTIVA 93/5/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31993L0005) [de 25 de Fevereiro de 1993](http://publications.europa.eu/resource/celex/31993L0005) [relativa à assistência dos Estados-membros à Comissão e à sua cooperação na análise científica de questões relacionadas com os produtos alimentares](http://publications.europa.eu/resource/celex/31993L0005) (JO L 052, 4.3.1993, p.18)\n\n**revogado por:**\n\n- [Diretiva (UE) 2015/254 do Parlamento Europeu e do Conselho de 11 de fevereiro de 2015](http://publications.europa.eu/resource/celex/32015L0254) — L 43 — 1 — 18.2.2015"
+  }
+ }
+}

@@ -35,6 +35,77 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-10-30'
+version_history:
+  file: regulamento-ue-2007-1451.versoes.json
+  count: 4
+  source_lastmod: '2014-10-30'
+  versions:
+  - date: '2007-12-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-04-30'
+    amending: eu:celex:32010R0298:por
+    amending_title: REGULAMENTO (UE) N. o 298/2010 DA COMISSÃO de 9 de Abril de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Substâncias activas existentes
+    - Altera Artigo 5.º — Derrogação aplicável às utilizações essenciais
+    - Altera Artigo 6.º — Géneros alimentícios e alimentos para animais
+    - Altera Artigo 19.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita Requisitos aplicáveis ao processo completo e ao resumo do processo
+  - date: '2013-09-01'
+    amending: eu:celex:32013R0613:por
+    amending_title: REGULAMENTO (UE) N. o 613/2013 DA COMISSÃO de 25 de junho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Substâncias activas existentes
+    - Altera Artigo 4.º — Não inclusão
+    - Altera Artigo 9.º — Apresentação do processo completo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Requisitos aplicáveis ao processo completo e ao resumo do processo
+    - Altera Notas
+    - Adita Artigo 3.º-A — Procedimento de declaração da intenção de notificar
+    - Adita Artigo 3.º-B — Procedimento de notificação
+    - Adita Artigo 3.º-C — Inclusão no programa de análise ou exclusão desse programa
+  - date: '2014-10-30'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Substâncias activas existentes
+    - Suprime Artigo 3.º-A — Procedimento de declaração da intenção de notificar
+    - Suprime Artigo 3.º-B — Procedimento de notificação
+    - Suprime Artigo 3.º-C — Inclusão no programa de análise ou exclusão desse programa
+    - Suprime Artigo 4.º — Não inclusão
+    - Suprime Artigo 5.º — Derrogação aplicável às utilizações essenciais
+    - Suprime Artigo 6.º — Géneros alimentícios e alimentos para animais
+    - Suprime Artigo 7.º — Exame de substâncias activas existentes no âmbito do programa de análise
+    - Suprime Artigo 8.º — Elaboração do processo completo
+    - Suprime Artigo 9.º — Apresentação do processo completo
+    - Suprime Artigo 10.º — Incorporação e substituição de participantes
+    - Suprime Artigo 11.º — Retirada de participantes
+    - Suprime Artigo 12.º — Assunção das funções de participante
+    - Suprime Artigo 13.º — Verificação da completitude dos processos
+    - Suprime Artigo 14.º — Avaliação de processos pelo Estado-Membro relator
+    - Suprime Artigo 15.º — Procedimentos da Comissão
+    - Suprime Artigo 16.º — Acesso à informação
+    - Suprime Artigo 17.º — Suspensão de procedimentos
+    - Suprime Artigo 18.º — Revogação
+    - Suprime Artigo 19.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime ANEXO II
+    - Suprime ANEXO III
+    - Suprime Requisitos aplicáveis ao processo completo e ao resumo do processo
+    - Suprime Notas
 identifiers:
   celex: 32007R1451
   eli: http://data.europa.eu/eli/reg/2007/1451/oj
@@ -49,7 +120,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8d3763ee-7b02-4c80-a715-9d561497851b.0018
   content_url: http://publications.europa.eu/resource/cellar/4cedf2cc-b718-4895-b777-56a5ec791624.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R1451-20141030
-  retrieved_at: '2026-10-22T03:13:12Z'
+  retrieved_at: '2026-10-22T15:10:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T20:42:19.885+01:00'
 integrity:
@@ -58,9 +129,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:12Z'
-  notes: Texto consolidado 02007R1451-20141030.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:10:48Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2007-1451.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -137,16 +208,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:12Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:10:48Z'
+  warnings: []
   errors: []
 ---
 

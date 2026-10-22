@@ -35,6 +35,66 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-01-09'
+version_history:
+  file: diretiva-ue-2004-33.versoes.json
+  count: 3
+  source_lastmod: '2015-01-09'
+  versions:
+  - date: '2004-03-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-04-13'
+    amending: eu:celex:32011L0038:por
+    amending_title: Directiva de Execução 2011/38/UE da Comissão Texto relevante para efeitos do EEE de 11 de Abril de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Destinatários
+    - Adita Artigo 9.º — Transposição
+    - Adita ANEXO I
+    - Adita DEFINIÇÕES
+    - Adita (Artigo 1. º )
+    - Adita ANEXO II
+    - Adita EXIGÊNCIAS EM MATÉRIA DE INFORMAÇÃO
+    - Adita (Artigos 2. º e 3. º )
+    - Adita PARTE A
+    - Adita Informações a prestar aos candidatos a dadores de sangue ou componentes sanguíneos
+    - Adita PARTE B
+    - Adita Informações que devem ser prestadas pelos dadores aos serviços de sangue aquando de cada dádiva
+    - Adita 1. Identificação do dador
+    - Adita 2. História clínica do dador
+    - Adita 3. Assinatura do dador
+    - Adita ANEXO III
+    - Adita CRITÉRIOS DE ELEGIBILIDADE DE DADORES DE SANGUE TOTAL E DE COMPONENTES SANGUÍNEOS
+    - Adita (Artigo 4. º )
+    - Adita 1. CRITÉRIOS DE ACEITAÇÃO PARA DADORES DE SANGUE TOTAL E DE COMPONENTES SANGUÍNEOS
+    - Adita 1.1. Idade e peso dos dadores
+    - Adita 1.2. Valor de hemoglobina no sangue do dador
+    - Adita 1.3. Valor de proteínas no sangue do dador
+    - Adita 1.4. Valor de plaquetas no sangue do dador
+    - Adita 2. CRITÉRIOS DE SUSPENSÃO PARA DADORES DE SANGUE TOTAL E DE COMPONENTES SANGUÍNEOS
+    - Adita 2.1. Critérios de suspensão definitiva de dadores de dádivas homólogas
+    - Adita 2.2. Critérios de suspensão temporária de dadores de dádivas homólogas
+    - Adita 2.2.1. Infecções
+    - Adita 2.2.2. Exposição ao risco de contrair infecção transmissível por transfusão
+    - Adita 2.2.3. Vacinação
+    - Adita 2.2.4. Outras suspensões temporárias
+    - Adita 2.3. Suspensão devida a situações epidemiológicas especiais
+    - Adita 2.4. Critérios de suspensão de dadores de dádivas autólogas
+    - Adita ANEXO IV
+    - Adita CONDIÇÕES DE ARMAZENAMENTO, TRANSPORTE E DISTRIBUIÇÃO DE SANGUE E COMPONENTES SANGUÍNEOS
+    - Adita (Artigo 5. º )
+    - Adita 1. ARMAZENAMENTO
+    - Adita 1.1. Armazenamento de componentes líquidos
+    - Adita 1.2. Criopreservação
+    - Adita 2. TRANSPORTE E DISTRIBUIÇÃO
+  - date: '2015-01-09'
+    amending: eu:celex:32014L0110:por
+    amending_title: DIRETIVA 2014/110/UE DA COMISSÃO Texto relevante para efeitos do EEE de 17 de dezembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera 2.2.1. Infecções
+    - Altera Notas
 identifiers:
   celex: 32004L0033
   eli: http://data.europa.eu/eli/dir/2004/33/oj
@@ -49,7 +109,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/988971b9-6595-4519-8969-8a72ee12bf31.0010
   content_url: http://publications.europa.eu/resource/cellar/436b1fdb-26d0-4d2f-9ecd-8c19e491db6c.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0033-20150109
-  retrieved_at: '2026-10-22T02:42:39Z'
+  retrieved_at: '2026-10-22T14:56:50Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T14:39:41.931+01:00'
 integrity:
@@ -58,9 +118,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:39Z'
-  notes: Texto consolidado 02004L0033-20150109.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:50Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2004-33.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -133,30 +193,19 @@ relationships:
   date: '2015-04-29'
 article_structure:
   article_count: 11
-  section_count: 43
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 44
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:39Z'
+  checked_at: '2026-10-22T14:56:50Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2004/33/CE da Comissão, de 22 de Março de 2004
-
-> 2004L0033 — PT — 09.01.2015 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011L0038) — [DIRECTIVA DE EXECUÇÃO 2011/38/UE DA COMISSÃO Texto relevante para efeitos do EEE de 11 de Abril de 2011](http://publications.europa.eu/resource/celex/32011L0038) — L 97 — 28 — 12.4.2011
-- [►M2](http://publications.europa.eu/resource/celex/32014L0110) — [DIRETIVA 2014/110/UE DA COMISSÃO Texto relevante para efeitos do EEE de 17 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014L0110) — L 366 — 81 — 20.12.2014
-
-## DIRECTIVA 2004/33/CE DA COMISSÃO
 
 de 22 de Março de 2004
 

@@ -35,6 +35,61 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-06-04'
+version_history:
+  file: diretiva-ue-2003-25.versoes.json
+  count: 2
+  source_lastmod: '2023-06-04'
+  versions:
+  - date: '2003-05-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-06-04'
+    amending: eu:celex:32005L0012:por
+    amending_title: DIRECTIVA 2005/12/CE DA COMISSÃO de 18 de Fevereiro de 2005; M2; REGULAMENTO (UE) 2019/1243 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 20 de junho de 2019; DIRETIVA (UE) 2023/946 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de maio
+      de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Âmbito de aplicação
+    - Altera Artigo 4.º — Alturas significativas de vaga
+    - Altera Artigo 5.º — Zonas marítimas
+    - Altera Artigo 6.º — Prescrições específicas de estabilidade
+    - Altera Artigo 8.º — Certificados
+    - Altera Artigo 15.º — Destinatários
+    - Adita Artigo 9.º — Exploração sazonal e outra exploração de curta duração
+    - Adita Artigo 10.º — Alteração dos anexos
+    - Adita Artigo 10.º-A — Exercício da delegação
+    - Adita Artigo 13.º-A — Reapreciação
+    - Adita ANEXO I
+    - Adita PRESCRIÇÕES ESPECÍFICAS DE ESTABILIDADE PARA OS NAVIOS RO-RO DE PASSAGEIROS
+    - Adita (a que se refere o artigo 6.º)
+    - Adita Secção A
+    - Adita Secção B
+    - Adita Apêndice
+    - Adita Método de ensaio com modelo
+    - Adita 1. Objectivos
+    - Adita 2. Definições
+    - Adita 3. Modelo do navio
+    - Adita 4. Procedimento de ensaio
+    - Adita 5. Critérios de sobrevivência
+    - Adita 6. Documentação dos ensaios
+    - Adita ANEXO II
+    - Adita ORIENTAÇÕES PARA AS ADMINISTRAÇÕES NACIONAIS
+    - Adita a que se refere o n.º 3 do artigo 6.º
+    - Adita PARTE I
+    - Adita APLICAÇÃO
+    - Adita Ponto 1
+    - Adita Ponto 1.1
+    - Adita Ponto 1.2
+    - Adita Ponto 1.3
+    - Adita Pontos 1.4/1.5
+    - Adita Ponto 1.6
+    - Adita Ponto 2.1
+    - Adita Ponto 2.2
+    - Adita Ponto 2.3
+    - Adita Ponto 2.5.1
 identifiers:
   celex: 32003L0025
   eli: http://data.europa.eu/eli/dir/2003/25/oj
@@ -49,7 +104,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f8c4ad05-6744-4a78-a253-5dc3db5776bf.0010
   content_url: http://publications.europa.eu/resource/cellar/c906b045-1a62-11ee-806b-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0025-20230604
-  retrieved_at: '2026-10-22T02:42:32Z'
+  retrieved_at: '2026-10-22T14:54:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-03T14:59:10.151+02:00'
 integrity:
@@ -58,9 +113,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:32Z'
-  notes: Texto consolidado 02003L0025-20230604.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:41Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2003-25.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -169,32 +224,22 @@ relationships:
   source: null
 article_structure:
   article_count: 15
-  section_count: 40
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 41
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:32Z'
-  warnings: []
+  checked_at: '2026-10-22T14:54:41Z'
+  warnings:
+  - '02003L0025-20050311: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003L0025-20081211: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003L0025-20190726: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 2003/25/CE do Parlamento Europeu e do Conselho, de 14 de Abril de 2003
-
-> 02003L0025 — PT — 04.06.2023 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32005L0012) — [DIRECTIVA 2005/12/CE DA COMISSÃO de 18 de Fevereiro de 2005](http://publications.europa.eu/resource/celex/32005L0012) — L 48 — 19 — 19.2.2005
-- [M2](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE 22 de Outubro de 2008 que adapta à Decisão 1999/468/CE do Conselho certos actos sujeitos ao procedimento previsto no artigo 251.º do Tratado, no que se refere ao procedimento de regulamentação com controlo](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [►M3](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [►M4](http://publications.europa.eu/resource/celex/32023L0946) — [DIRETIVA (UE) 2023/946 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de maio de 2023](http://publications.europa.eu/resource/celex/32023L0946) — L 128 — 1 — 15.5.2023
-
-## DIRECTIVA 2003/25/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de Abril de 2003
 

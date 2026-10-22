@@ -35,6 +35,129 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-01-03'
+version_history:
+  file: diretiva-ue-2002-95.versoes.json
+  count: 11
+  source_lastmod: '2013-01-03'
+  versions:
+  - date: '2003-02-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-10-25'
+    amending: eu:celex:32005D0717:por
+    amending_title: DECISÃO DA COMISSÃO de 13 de Outubro de 2005; DECISÃO DA COMISSÃO de 21 de Outubro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 7.º — Comité
+    - Altera Artigo 11.º — Destinatários
+    - Adita ANEXO
+    - Adita Aplicações de chumbo, mercúrio, cádmio, crómio hexavalente, bifenilos polibromados (PBB) ou éteres difenílicos
+      polibromados (PBDE) isentas do disposto no n.º 1 do artigo 4.º
+    - Adita Notas
+    - Suprime ANEXO — Aplicações de chumbo, mercúrio, cádmio e crómio hexavalente isentas dos requisitos estabelecidos no
+      n.o 1 do artigo 4.o
+  - date: '2006-07-01'
+    amending: eu:celex:32005D0618:por
+    amending_title: DECISÃO DA COMISSÃO de 18 de Agosto de 2005; DECISÃO DA COMISSÃO de 21 de Abril de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 7.º — Comité
+    - Altera Aplicações de chumbo, mercúrio, cádmio, crómio hexavalente, bifenilos polibromados (PBB) ou éteres difenílicos
+      polibromados (PBDE) isentas do disposto no n.º 1 do artigo 4.º
+    - Altera Notas
+  - date: '2006-10-14'
+    amending: eu:celex:32006D0690:por
+    amending_title: DECISÃO DA COMISSÃO de 12 de Outubro de 2006; DECISÃO DA COMISSÃO de 12 de Outubro de 2006; DECISÃO DA
+      COMISSÃO de 12 de Outubro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 7.º — Comité
+    - Altera Aplicações de chumbo, mercúrio, cádmio, crómio hexavalente, bifenilos polibromados (PBB) ou éteres difenílicos
+      polibromados (PBDE) isentas do disposto no n.º 1 do artigo 4.º
+    - Altera Notas
+  - date: '2008-03-21'
+    amending: eu:celex:32008L0035:por
+    amending_title: DIRECTIVA 2008/35/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Adaptação ao progresso científico e técnico
+    - Altera Artigo 7.º — Comité
+    - Altera Aplicações de chumbo, mercúrio, cádmio, crómio hexavalente, bifenilos polibromados (PBB) ou éteres difenílicos
+      polibromados (PBDE) isentas do disposto no n.º 1 do artigo 4.º
+    - Altera Notas
+  - date: '2008-05-24'
+    amending: eu:celex:32008D0385:por
+    amending_title: DECISÃO DA COMISSÃO de 24 de Janeiro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 7.º — Comité
+    - Altera Aplicações de chumbo, mercúrio, cádmio, crómio hexavalente, bifenilos polibromados (PBB) ou éteres difenílicos
+      polibromados (PBDE) isentas do disposto no n.º 1 do artigo 4.º
+    - Altera Notas
+  - date: '2009-06-11'
+    amending: eu:celex:32009D0428:por
+    amending_title: DECISÃO DA COMISSÃO de 4 de Junho de 2009; DECISÃO DA COMISSÃO de 10 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 7.º — Comité
+    - Altera Aplicações de chumbo, mercúrio, cádmio, crómio hexavalente, bifenilos polibromados (PBB) ou éteres difenílicos
+      polibromados (PBDE) isentas do disposto no n.º 1 do artigo 4.º
+    - Altera Notas
+  - date: '2010-02-26'
+    amending: eu:celex:32010D0122:por
+    amending_title: DECISÃO DA COMISSÃO de 25 de Fevereiro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 7.º — Comité
+    - Altera Aplicações de chumbo, mercúrio, cádmio, crómio hexavalente, bifenilos polibromados (PBB) ou éteres difenílicos
+      polibromados (PBDE) isentas do disposto no n.º 1 do artigo 4.º
+    - Altera Notas
+  - date: '2010-09-25'
+    amending: eu:celex:32010D0571:por
+    amending_title: DECISÃO DA COMISSÃO de 24 de Setembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 7.º — Comité
+    - Altera ANEXO
+    - Altera Notas
+    - Suprime Aplicações de chumbo, mercúrio, cádmio, crómio hexavalente, bifenilos polibromados (PBB) ou éteres difenílicos
+      polibromados (PBDE) isentas do disposto no n.º 1 do artigo 4.º
+  - date: '2011-09-10'
+    amending: eu:celex:32011D0534:por
+    amending_title: DECISÃO DA COMISSÃO de 8 de Setembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 7.º — Comité
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2013-01-03'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Definições
+    - Suprime Artigo 4.º — Prevenção
+    - Suprime Artigo 5.º — Adaptação ao progresso científico e técnico
+    - Suprime Artigo 6.º — Revisão
+    - Suprime Artigo 7.º — Comité
+    - Suprime Artigo 8.º — Sanções
+    - Suprime Artigo 9.º — Transposição
+    - Suprime Artigo 10.º — Entrada em vigor
+    - Suprime Artigo 11.º — Destinatários
+    - Suprime ANEXO
+    - Suprime Notas
 identifiers:
   celex: 32002L0095
   eli: http://data.europa.eu/eli/dir/2002/95/oj
@@ -49,7 +172,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/40f7e431-6fea-4389-b44c-c3bcb87d1510.0010
   content_url: http://publications.europa.eu/resource/cellar/2b53d110-82fb-4438-a358-f26f29c4550e.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0095-20130103
-  retrieved_at: '2026-10-22T02:51:41Z'
+  retrieved_at: '2026-10-22T14:52:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T19:57:38.829+01:00'
 integrity:
@@ -58,9 +181,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:41Z'
-  notes: Texto consolidado 02002L0095-20130103.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:33Z'
+  notes: 11 versão(ões); histórico completo em diretiva-ue-2002-95.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -210,16 +333,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:41Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:52:33Z'
+  warnings: []
   errors: []
 ---
 

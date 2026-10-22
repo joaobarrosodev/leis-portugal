@@ -37,6 +37,251 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-01-01'
+version_history:
+  file: regulamento-ue-2004-795.versoes.json
+  count: 10
+  source_lastmod: '2010-01-01'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-01'
+    amending: eu:celex:32004R1974:por
+    amending_title: REGULAMENTO (CE) N. o 1974/2004 DA COMISSÃO de 29 de Outubro de 2004; REGULAMENTO (CE) N. o 394/2005 DA
+      COMISSÃO de 8 de Março de 2005; REGULAMENTO (CE) N. o 606/2005 DA COMISSÃO de 19 de Abril de 2005; REGULAMENTO (CE)
+      N. o 1085/2005 DA COMISSÃO de 8 de Julho de 2005; REGULAMENTO (CE) N. o 1701/2005 DA COMISSÃO de 18 de Outubro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Cálculo do valor unitário dos direitos ao pagamento
+    - Altera Artigo 7.º — Aplicação do n.º 5 do artigo 42 do Regulamento (CE) n.º 1782/2003 no caso de um número de hectares
+      inferior aos direitos ao pagamento
+    - Altera Artigo 8.º — Direitos ao pagamento não utilizados
+    - Altera Artigo 9.º — Retenções sobre vendas de direitos ao pagamento
+    - Altera Artigo 10.º — Cláusula dos ganhos inesperados
+    - Altera Artigo 12.º — Pedidos
+    - Altera Artigo 16.º — Dificuldades excepcionais
+    - Altera Artigo 18.º — Disposições gerais relativas aos agricultores que se encontrem numa situação especial
+    - Altera Artigo 20.º — Transferência de terras arrendadas
+    - Altera Artigo 21.º — Investimentos
+    - Altera Artigo 22.º — Arrendamento e compra de terras arrendadas
+    - Altera Artigo 23.º — Reconversão da produção
+    - Altera Artigo 24.º — Declaração e utilização de direitos ao pagamento
+    - Altera Artigo 25.º — Transferência de direitos ao pagamento
+    - Altera Artigo 27.º — Cláusula relativa aos contratos privados em caso de arrendamento
+    - Altera Artigo 28.º — Superfícies forrageiras
+    - Altera Artigo 29.º — Produção de cânhamo
+    - Altera Artigo 30.º — Direitos ao pagamento sujeitos a condições especiais
+    - Altera Artigo 31.º — Prémio aos produtos lácteos e pagamentos complementares
+    - Altera Artigo 32.º — Condições relativas à retirada de terras da produção
+    - Altera Artigo 38.º — Atribuição inicial dos direitos ao pagamento
+    - Altera Artigo 41.º — Estabelecimento e transferência de direitos ao pagamento acompanhados de uma autorização
+    - Altera Artigo 47.º — Superação dos limites máximos
+    - Altera Artigo 50.º — Dados relativos aos pagamentos
+    - Altera Artigo 51.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 3.ºA — Hectares determinados e animais verificados
+    - Adita Artigo 3ºB — Elegibilidade
+    - Adita Artigo 23.ºA — Actos administrativos e decisões judiciais
+    - Adita Artigo 28.ºA — Período de três meses previsto na alínea b) do artigo 51.º do Regulamento (CE) n.º 1782/2003
+    - Adita Artigo 31.ºA — Pagamentos para as carnes de bovino, ovino e caprino
+    - Adita CAPÍTULO 6A
+    - Adita NOVOS ESTADOS-MEMBROS
+    - Adita Artigo 48.ºA — Aplicação nos novos Estados-Membros
+    - Adita Artigo 48.ºB — Notificação das decisões
+    - Adita ANEXO I
+    - Adita ANEXO II
+  - date: '2006-01-01'
+    amending: eu:celex:32005R2183:por
+    amending_title: REGULAMENTO (CE) N. o 2183/2005 DA COMISSÃO de 22 de Dezembro de 2005; REGULAMENTO (CE) N. o 658/2006
+      DA COMISSÃO de 27 de Abril de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3ºB — Elegibilidade
+    - Altera Artigo 4.º — Reduções
+    - Altera Artigo 18.º — Disposições gerais relativas aos agricultores que se encontrem numa situação especial
+    - Altera Artigo 21.º — Investimentos
+    - Altera Artigo 24.º — Declaração e utilização de direitos ao pagamento
+    - Altera Artigo 25.º — Transferência de direitos ao pagamento
+    - Altera Artigo 29.º — Produção de cânhamo
+    - Altera Artigo 30.º — Direitos ao pagamento sujeitos a condições especiais
+    - Altera Artigo 32.º — Condições relativas à retirada de terras da produção
+    - Altera Artigo 48.ºA — Aplicação nos novos Estados-Membros
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita Artigo 31.º-B — Determinação e utilização dos direitos no sector do azeite
+    - Adita CAPÍTULO 6-B
+    - Adita INTEGRAÇÃO DOS PAGAMENTOS RELATIVOS AO TABACO, AO AZEITE, AO ALGODÃO E AO LÚPULO E DO APOIO À BETERRABA SACARINA,
+      À CANA-DE-AÇÚCAR E À CHICÓRIA NO REGIME DE PAGAMENTO ÚNICO
+    - Adita Artigo 48.º-C — Disposições gerais
+    - Adita Artigo 48.º-D — Disposições específicas
+    - Adita Artigo 48.-E — Implementação regional
+    - Adita Artigo 49.º-A — Integração do tabaco, do algodão, do azeite, do lúpulo, da beterraba sacarina, da cana-de-açúcar
+      e da chicória
+  - date: '2006-07-26'
+    amending: eu:celex:32006R1134:por
+    amending_title: REGULAMENTO (CE) N. o 1134/2006 DA COMISSÃO de 25 de Julho de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3ºB — Elegibilidade
+    - Altera Artigo 29.º — Produção de cânhamo
+    - Altera Artigo 30.º — Direitos ao pagamento sujeitos a condições especiais
+    - Altera Artigo 32.º — Condições relativas à retirada de terras da produção
+    - Altera Artigo 48.ºA — Aplicação nos novos Estados-Membros
+    - Altera ANEXO I
+    - Altera Notas
+  - date: '2006-08-31'
+    amending: eu:celex:32006R1291:por
+    amending_title: REGULAMENTO (CE) N. o 1291/2006 DA COMISSÃO de 30 de Agosto de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Cálculo do valor unitário dos direitos ao pagamento
+    - Altera Artigo 3ºB — Elegibilidade
+    - Altera Artigo 6.º — Estabelecimento dos direitos ao pagamento
+    - Altera Artigo 23.ºA — Actos administrativos e decisões judiciais
+    - Altera Artigo 24.º — Declaração e utilização de direitos ao pagamento
+    - Altera Artigo 29.º — Produção de cânhamo
+    - Altera Artigo 30.º — Direitos ao pagamento sujeitos a condições especiais
+    - Altera Artigo 32.º — Condições relativas à retirada de terras da produção
+    - Altera Artigo 48.ºA — Aplicação nos novos Estados-Membros
+    - Altera Notas
+    - Adita Artigo 50.º
+    - Suprime Artigo 50.º — Dados relativos aos pagamentos
+  - date: '2007-06-05'
+    amending: eu:celex:32006R2002:por
+    amending_title: REGULAMENTO (CE) N. o 2002/2006 DA COMISSÃO de 21 de Dezembro de 2006; REGULAMENTO (CE) N. o 373/2007
+      DA COMISSÃO de 2 de Abril de 2007; REGULAMENTO (CE) N. o 411/2007 DA COMISSÃO de 17 de Abril de 2007; REGULAMENTO (CE)
+      N. o 608/2007 DA COMISSÃO de 1 de Junho de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3ºB — Elegibilidade
+    - Altera Artigo 21.º — Investimentos
+    - Altera Artigo 29.º — Produção de cânhamo
+    - Altera Artigo 30.º — Direitos ao pagamento sujeitos a condições especiais
+    - Altera Artigo 32.º — Condições relativas à retirada de terras da produção
+    - Altera Artigo 48.ºA — Aplicação nos novos Estados-Membros
+    - Altera Artigo 48.º-C — Disposições gerais
+    - Altera Artigo 48.º-D — Disposições específicas
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita INTEGRAÇÃO DOS PAGAMENTOS RELATIVOS AO TABACO, AO AZEITE, AO ALGODÃO E AO LÚPULO E DO APOIO À BETERRABA SACARINA,
+      À CANA-DE-AÇÚCAR, À CHICÓRIA E ÀS BANANAS NO REGIME DE PAGAMENTO ÚNICO
+    - Adita Artigo 50.ºA — Forragens secas, batata para fécula e frutos e produtos hortícolas
+    - Adita Número de hectares referido no n.º 2 do artigo 60.º do Regulamento (CE) n.º 1782/2003
+    - Suprime INTEGRAÇÃO DOS PAGAMENTOS RELATIVOS AO TABACO, AO AZEITE, AO ALGODÃO E AO LÚPULO E DO APOIO À BETERRABA SACARINA,
+      À CANA-DE-AÇÚCAR E À CHICÓRIA NO REGIME DE PAGAMENTO ÚNICO
+  - date: '2008-01-01'
+    amending: eu:celex:32007R1522:por
+    amending_title: REGULAMENTO (CE) N. o 1522/2007 DA COMISSÃO de 19 de Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3ºB — Elegibilidade
+    - Altera Artigo 21.º — Investimentos
+    - Altera Artigo 29.º — Produção de cânhamo
+    - Altera Artigo 30.º — Direitos ao pagamento sujeitos a condições especiais
+    - Altera Artigo 32.º — Condições relativas à retirada de terras da produção
+    - Altera Artigo 48.ºA — Aplicação nos novos Estados-Membros
+    - Altera Notas
+    - Adita CAPÍTULO 6C
+    - Adita INTEGRAÇÃO DO SECTOR DAS FRUTAS E PRODUTOS HORTÍCOLAS NO REGIME DE PAGAMENTO ÚNICO
+    - Adita Artigo 48.ºF — Regras gerais
+    - Adita Artigo 48.ºG — Regras específicas
+    - Adita Artigo 48.ºH — Aplicação regional
+    - Adita Artigo 49.º-B — Integração do sector das frutas e produtos hortícolas
+  - date: '2008-04-11'
+    amending: eu:celex:32008R0319:por
+    amending_title: REGULAMENTO (CE) N. o 319/2008 DA COMISSÃO de 7 de Abril de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3ºB — Elegibilidade
+    - Altera Artigo 24.º — Declaração e utilização de direitos ao pagamento
+    - Altera Artigo 26.º — Delimitação regional
+    - Altera Artigo 29.º — Produção de cânhamo
+    - Altera Artigo 30.º — Direitos ao pagamento sujeitos a condições especiais
+    - Altera Artigo 32.º — Condições relativas à retirada de terras da produção
+    - Altera Notas
+    - Adita Artigo 31.º-A — Pagamentos para as carnes de bovino, ovino e caprino
+    - Adita Artigo 48.º-A — Aplicação nos novos Estados-Membros
+    - Adita Artigo 48.º-B — Notificação das decisões
+    - Adita CAPÍTULO 6B
+    - Adita Artigo 48.º-E — Implementação regional
+    - Adita Artigo 48.º-F — Regras gerais
+    - Adita Artigo 48.º-G — Regras específicas
+    - Adita Artigo 48.º-H — Aplicação regional
+    - Suprime Artigo 31.ºA — Pagamentos para as carnes de bovino, ovino e caprino
+    - Suprime Artigo 48.ºA — Aplicação nos novos Estados-Membros
+    - Suprime Artigo 48.ºB — Notificação das decisões
+    - Suprime CAPÍTULO 6-B
+    - Suprime Artigo 48.-E — Implementação regional
+    - Suprime Artigo 48.ºF — Regras gerais
+    - Suprime Artigo 48.ºG — Regras específicas
+    - Suprime Artigo 48.ºH — Aplicação regional
+  - date: '2008-11-17'
+    amending: eu:celex:32008R1124:por
+    amending_title: REGULAMENTO (CE) N. o 1124/2008 DA COMISSÃO de 12 de Novembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3ºB — Elegibilidade
+    - Altera Artigo 29.º — Produção de cânhamo
+    - Altera Artigo 30.º — Direitos ao pagamento sujeitos a condições especiais
+    - Altera Artigo 32.º — Condições relativas à retirada de terras da produção
+    - Altera Artigo 48.º-A — Aplicação nos novos Estados-Membros
+    - Altera Notas
+  - date: '2010-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO 1
+    - Suprime ÂMBITO DE APLICAÇÃO E DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Cálculo do valor unitário dos direitos ao pagamento
+    - Suprime Artigo 3.ºA — Hectares determinados e animais verificados
+    - Suprime Artigo 3ºB — Elegibilidade
+    - Suprime CAPÍTULO 2
+    - Suprime RESERVA NACIONAL
+    - Suprime Secção 1
+    - Suprime Estabelecimento da reserva nacional
+    - Suprime Artigo 4.º — Reduções
+    - Suprime Artigo 5.º — Prémios aos produtos lácteos e pagamentos complementares
+    - Suprime Secção 2
+    - Suprime Estabelecimento dos direitos ao pagamento provenientes da reserva nacional
+    - Suprime Artigo 6.º — Estabelecimento dos direitos ao pagamento
+    - Suprime Artigo 7.º — Aplicação do n.º 5 do artigo 42 do Regulamento (CE) n.º 1782/2003 no caso de um número de hectares
+      inferior aos direitos ao pagamento
+    - Suprime Secção 3
+    - Suprime Alimentação da reserva nacional
+    - Suprime Artigo 8.º — Direitos ao pagamento não utilizados
+    - Suprime Artigo 9.º — Retenções sobre vendas de direitos ao pagamento
+    - Suprime Artigo 10.º — Cláusula dos ganhos inesperados
+    - Suprime Secção 4
+    - Suprime Gestão regional
+    - Suprime Artigo 11.º — Reservas regionais
+    - Suprime CAPÍTULO 3
+    - Suprime ATRIBUIÇÃO DOS DIREITOS AO PAGAMENTO
+    - Suprime Atribuição inicial dos direitos ao pagamento
+    - Suprime Artigo 12.º — Pedidos
+    - Suprime Atribuição dos direitos ao pagamento não provenientes da reserva nacional
+    - Suprime Artigo 13.º — Herança e herança antecipada
+    - Suprime Artigo 14.º — Alteração do estatuto jurídico ou da denominação
+    - Suprime Artigo 15.º — Fusões e cisões
+    - Suprime Artigo 16.º — Dificuldades excepcionais
+    - Suprime Artigo 17.º — Cláusula relativa aos contratos privados em caso de venda
+    - Suprime Atribuição dos direitos ao pagamento provenientes da reserva nacional
+    - Suprime Artigo 18.º — Disposições gerais relativas aos agricultores que se encontrem numa situação especial
+    - Suprime Artigo 19.º — Produtores de produtos lácteos
+    - Suprime Artigo 20.º — Transferência de terras arrendadas
 identifiers:
   celex: 32004R0795
   eli: http://data.europa.eu/eli/reg/2004/795/oj
@@ -51,7 +296,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7cf7cfa6-a303-4266-ada6-ab3a6460fd3b.0010
   content_url: http://publications.europa.eu/resource/cellar/05d9e7a9-a141-404f-a165-6e4c1695f8a4.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0795-20100101
-  retrieved_at: '2026-10-22T02:36:26Z'
+  retrieved_at: '2026-10-22T14:57:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-06-03T21:12:18.292+02:00'
 integrity:
@@ -60,9 +305,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:26Z'
-  notes: Texto consolidado 02004R0795-20100101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:58Z'
+  notes: 10 versão(ões); histórico completo em regulamento-ue-2004-795.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -338,16 +583,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:26Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:57:58Z'
+  warnings: []
   errors: []
 ---
 

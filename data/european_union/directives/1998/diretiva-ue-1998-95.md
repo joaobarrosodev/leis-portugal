@@ -37,6 +37,35 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2002-08-09'
+version_history:
+  file: diretiva-ue-1998-95.versoes.json
+  count: 2
+  source_lastmod: '2002-08-09'
+  versions:
+  - date: '1999-02-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-08-09'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º — [▼C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:20::NOT)
+    - Adita Artigo 10.º
+    - Suprime Artigo 1.°
+    - Suprime Artigo 2.°
+    - Suprime Artigo 3.°
+    - Suprime Artigo 4.°
+    - Suprime Artigo 5.°
+    - Suprime Artigo 6.°
+    - Suprime Artigo 7.°
+    - Suprime Artigo 8.°
+    - Suprime Artigo 9.°
+    - Suprime Artigo 10.°
 identifiers:
   celex: 31998L0095
   eli: http://data.europa.eu/eli/dir/1998/95/oj
@@ -51,7 +80,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e3992cba-c0a9-11e4-bbe1-01aa75ed71a1.0011
   content_url: http://publications.europa.eu/resource/cellar/d04cb842-9bc2-4709-a893-1baa31728cf8.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0095-20020809
-  retrieved_at: '2026-10-22T02:38:12Z'
+  retrieved_at: '2026-10-22T14:47:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:08:30.247+02:00'
 integrity:
@@ -60,9 +89,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:12Z'
-  notes: Texto consolidado 01998L0095-20020809.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:10Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1998-95.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -224,15 +253,15 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:12Z'
+  checked_at: '2026-10-22T14:47:10Z'
   warnings:
-  - Não foi detetado o título principal no XHTML.
+  - '01998L0095-19990221: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

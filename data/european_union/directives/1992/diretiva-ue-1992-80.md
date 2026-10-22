@@ -34,6 +34,40 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-01-01'
+version_history:
+  file: diretiva-ue-1992-80.versoes.json
+  count: 3
+  source_lastmod: '2011-01-01'
+  versions:
+  - date: '2003-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-02-27'
+    amending: eu:celex:31999L0081:por
+    amending_title: DIRECTIVA 1999/81/CE DO CONSELHO de 29 de Julho de 1999; DIRECTIVA 2002/10/CE DO CONSELHO de 12 de Fevereiro
+      de 2002; M3; DIRECTIVA 2010/12/UE DO CONSELHO de 16 de Fevereiro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Adita Artigo 3.º
+    - Adita Notas
+    - Suprime Artigo 3.º — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0081:PT:NOT)
+  - date: '2011-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Notas
 identifiers:
   celex: 31992L0080
   eli: http://data.europa.eu/eli/dir/1992/80/oj
@@ -48,7 +82,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/405c1abf-2872-4180-b670-a130d0b6e2c1.0009
   content_url: http://publications.europa.eu/resource/cellar/d23ab994-32aa-4aea-820e-0fd2a6576fc7.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0080-20110101
-  retrieved_at: '2026-10-22T02:55:39Z'
+  retrieved_at: '2026-10-22T14:41:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T01:47:56.436+01:00'
 integrity:
@@ -57,9 +91,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:55:39Z'
-  notes: Texto consolidado 01992L0080-20110101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:11Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1992-80.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -132,16 +166,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:55:39Z'
+  checked_at: '2026-10-22T14:41:11Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '31992L0080: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0080-19990101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0080-20020308: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

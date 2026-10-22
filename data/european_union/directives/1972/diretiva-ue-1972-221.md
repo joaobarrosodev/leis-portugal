@@ -34,6 +34,40 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '1986-01-01'
+version_history:
+  file: diretiva-ue-1972-221.versoes.json
+  count: 2
+  source_lastmod: '1986-01-01'
+  versions:
+  - date: '1972-06-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-01-01'
+    amending: null
+    amending_title: ACTO relativo às condições de adesão da República Helénica e às adaptações dos Tratados; ACTO relativo
+      às condições de adesão do Reino de Espanha e da República Portuguesa e às adaptações dos tratados
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Variáveis adoptadas para a recolha de dados por empresa e de dados por unidade de actividade económica (UAE)
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
 identifiers:
   celex: 31972L0221
   eli: http://data.europa.eu/eli/dir/1972/221/oj
@@ -48,7 +82,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2a022c3d-9a2c-45a8-95e9-076a4f0bf5de.0011
   content_url: http://publications.europa.eu/resource/cellar/1028020f-eba1-11e9-9c4e-01aa75ed71a1.0009.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01972L0221-19860101
-  retrieved_at: '2026-10-22T03:02:15Z'
+  retrieved_at: '2026-10-22T14:30:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-04-19T01:20:50.126+02:00'
 integrity:
@@ -57,9 +91,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:02:15Z'
-  notes: Texto consolidado 01972L0221-19860101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:30:13Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1972-221.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -101,32 +135,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/21daf56b-6df2-47c5-af9d-0f935747f117
 article_structure:
   article_count: 8
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:02:15Z'
+  checked_at: '2026-10-22T14:30:13Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 72/221/CEE do Conselho, de 6 de Junho de 1972
-
-> 01972L0221 — PT — 01.01.1986 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-**Alterada por:**
-
-- [A1](http://publications.europa.eu/resource/celex/11979H%2FACT) — [ACTO relativo às condições de adesão da República Helénica e às adaptações dos Tratados](http://publications.europa.eu/resource/celex/11979H%2FACT) — L 291 — 17 — 19.11.1979
-- [►A2](http://publications.europa.eu/resource/celex/11985I%2FACT) — [ACTO relativo às condições de adesão do Reino de Espanha e da República Portuguesa e às adaptações dos tratados](http://publications.europa.eu/resource/celex/11985I%2FACT) — L 302 — 23 — 15.11.1985
-
-## DIRECTIVA DO CONSELHO
 
 de 6 de Junho de 1972
 

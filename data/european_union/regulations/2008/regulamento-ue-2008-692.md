@@ -38,6 +38,44 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-01-01'
+version_history:
+  file: regulamento-ue-2008-692.versoes.json
+  count: 2
+  source_lastmod: '2022-01-01'
+  versions:
+  - date: '2008-07-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Requisitos de homologação
+    - Suprime Artigo 4.º — Requisitos de homologação relativamente ao sistema OBD
+    - Suprime Artigo 5.º — Pedido de homologação CE de um modelo de veículo no que respeita às emissões e ao acesso à informação
+      relativa à reparação e manutenção de veículos
+    - Suprime Artigo 6.º — Disposições administrativas relativas à homologação CE de um modelo de veículo no que respeita
+      às emissões e ao acesso à informação relativa à reparação e manutenção de veículos
+    - Suprime Artigo 7.º — Alteração das homologações
+    - Suprime Artigo 8.º — Conformidade da produção
+    - Suprime Artigo 9.º — Conformidade em circulação
+    - Suprime Artigo 10.º — Dispositivos de controlo da poluição
+    - Suprime Artigo 11.º — Pedido de homologação CE de um tipo de dispositivo de substituição para controlo da poluição enquanto
+      unidade técnica
+    - Suprime Artigo 12.º — Disposições administrativas relativas à homologação CE de dispositivos de substituição para controlo
+      da poluição enquanto unidades técnicas
+    - Suprime Artigo 13.º — Acesso à informação relativa ao sistema OBD do veículo e à informação relativa à reparação e manutenção
+      de veículos
+    - Suprime Artigo 14.º — Cumprimento das obrigações respeitantes ao acesso à informação relativa ao sistema OBD do veículo
+      e à informação relativa à reparação e manutenção de veículos
+    - Suprime Artigo 15.º — Requisitos especiais relativamente à informação de homologação
+    - Suprime Artigo 16.º — Alterações ao Regulamento (CE) n.º 715/2007
+    - Suprime Artigo 17.º — Entrada em vigor
+    - Suprime Notas
 identifiers:
   celex: 32008R0692
   eli: http://data.europa.eu/eli/reg/2008/692/oj
@@ -52,7 +90,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/087b6ba9-91f0-4e27-b981-54d9da69e4bb.0018
   content_url: http://publications.europa.eu/resource/cellar/10c4a2e9-837f-11ec-8c40-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0692-20220101
-  retrieved_at: '2026-10-22T02:59:00Z'
+  retrieved_at: '2026-10-22T15:17:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T18:27:24.117+01:00'
 integrity:
@@ -61,9 +99,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:00Z'
-  notes: Texto consolidado 02008R0692-20220101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:17:21Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2008-692.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -206,16 +244,27 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:00Z'
+  checked_at: '2026-10-22T15:17:21Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02008R0692-20080731: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0692-20110619: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0692-20120604: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0692-20120802: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0692-20130319: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0692-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0692-20140101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0692-20140305: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0692-20150204: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0692-20160101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0692-20160516: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0692-20170727: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0692-20190901: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

@@ -35,6 +35,54 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-07-26'
+version_history:
+  file: regulamento-ue-2006-2015.versoes.json
+  count: 5
+  source_lastmod: '2008-07-26'
+  versions:
+  - date: '2006-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-07-03'
+    amending: eu:celex:32007R0609:por
+    amending_title: REGULAMENTO (CE) N. o 609/2007 DA COMISSÃO de 1 de Junho de 2007; REGULAMENTO (CE) N. o 754/2007 DO CONSELHO
+      de 28 de Junho de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Olho-de-vidro laranja
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO
+    - Adita PARTE 1
+    - Adita Definição das espécies e grupos de espécies
+    - Adita PARTE 2
+    - Adita Possibilidades de pesca anuais aplicáveis aos navios comunitários nas zonas em que existem limitações das capturas,
+      por espécie e por zona (em toneladas de peso vivo)
+  - date: '2007-12-24'
+    amending: eu:celex:32007R1533:por
+    amending_title: REGULAMENTO (CE) N. o 1533/2007 DO CONSELHO de 17 de Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Possibilidades de pesca anuais aplicáveis aos navios comunitários nas zonas em que existem limitações das capturas,
+      por espécie e por zona (em toneladas de peso vivo)
+    - Altera Notas
+  - date: '2008-06-24'
+    amending: eu:celex:32008R0541:por
+    amending_title: REGULAMENTO (CE) N. o 541/2008 DA COMISSÃO de 16 de Junho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Possibilidades de pesca anuais aplicáveis aos navios comunitários nas zonas em que existem limitações das capturas,
+      por espécie e por zona (em toneladas de peso vivo)
+    - Altera Notas
+  - date: '2008-07-26'
+    amending: eu:celex:32008R0718:por
+    amending_title: REGULAMENTO (CE) N. o 718/2008 DO CONSELHO de 24 de Julho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Possibilidades de pesca anuais aplicáveis aos navios comunitários nas zonas em que existem limitações das capturas,
+      por espécie e por zona (em toneladas de peso vivo)
+    - Altera Notas
 identifiers:
   celex: 32006R2015
   eli: http://data.europa.eu/eli/reg/2006/2015/oj
@@ -49,7 +97,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/37eafc5a-6c04-4440-827c-00bfe338c5c2.0016
   content_url: http://publications.europa.eu/resource/cellar/6204a2af-0f47-43be-8511-897f91a89018.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R2015-20080726
-  retrieved_at: '2026-10-22T02:58:27Z'
+  retrieved_at: '2026-10-22T15:06:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-21T02:21:22.778+01:00'
 integrity:
@@ -58,9 +106,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:27Z'
-  notes: Texto consolidado 02006R2015-20080726.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:06:28Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2006-2015.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -158,33 +206,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/bf293f1e-4d2d-47ab-b5b7-cdcea83cfb32
 article_structure:
   article_count: 8
-  section_count: 5
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 6
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:27Z'
+  checked_at: '2026-10-22T15:06:28Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 2015/2006 do Conselho, de 19 de Dezembro de 2006
-
-> 2006R2015 — PT — 26.07.2008 — 004.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007R0609) — [REGULAMENTO (CE) N.º 609/2007 DA COMISSÃO de 1 de Junho de 2007](http://publications.europa.eu/resource/celex/32007R0609) — L 141 — 33 — 2.6.2007
-- [►M2](http://publications.europa.eu/resource/celex/32007R0754) — [REGULAMENTO (CE) N.º 754/2007 DO CONSELHO de 28 de Junho de 2007](http://publications.europa.eu/resource/celex/32007R0754) — L 172 — 26 — 30.6.2007
-- [►M3](http://publications.europa.eu/resource/celex/32007R1533) — [REGULAMENTO (CE) N.º 1533/2007 DO CONSELHO de 17 de Dezembro de 2007](http://publications.europa.eu/resource/celex/32007R1533) — L 337 — 21 — 21.12.2007
-- [►M4](http://publications.europa.eu/resource/celex/32008R0541) — [REGULAMENTO (CE) N.º 541/2008 DA COMISSÃO de 16 de Junho de 2008](http://publications.europa.eu/resource/celex/32008R0541) — L 157 — 23 — 17.6.2008
-- [►M5](http://publications.europa.eu/resource/celex/32008R0718) — [REGULAMENTO (CE) N.º 718/2008 DO CONSELHO de 24 de Julho de 2008](http://publications.europa.eu/resource/celex/32008R0718) — L 198 — 8 — 26.7.2008
-
-## REGULAMENTO (CE) N.º 2015/2006 DO CONSELHO
 
 de 19 de Dezembro de 2006
 

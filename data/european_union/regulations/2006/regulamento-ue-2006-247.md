@@ -34,6 +34,163 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-03-21'
+version_history:
+  file: regulamento-ue-2006-247.versoes.json
+  count: 7
+  source_lastmod: '2013-03-21'
+  versions:
+  - date: '2006-03-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006R2013:por
+    amending_title: REGULAMENTO (CE) N. o 2013/2006 DO CONSELHO de 19 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Açúcar
+    - Altera Artigo 11.º — Compatibilidade e coerência
+    - Altera Artigo 15.º — Desenvolvimento rural
+    - Altera Artigo 17.º — Programas fitossanitários
+    - Altera Artigo 18.º — Vinho
+    - Altera Artigo 19.º — Leite
+    - Altera Artigo 21.º — Ajuda estatal à produção de tabaco
+    - Altera Artigo 23.º — Dotação financeira
+    - Altera Artigo 26.º — Comité
+    - Altera Artigo 28.º — Comunicações e relatórios
+    - Altera Artigo 30.º — Medidas transitórias
+    - Altera «ANEXO I
+    - Altera «ANEXO VI
+    - Altera Notas
+    - Adita Artigo 24.º-A
+  - date: '2007-10-31'
+    amending: eu:celex:32007R1276:por
+    amending_title: REGULAMENTO (CE) N. o 1276/2007 DA COMISSÃO de 29 de Outubro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Açúcar
+    - Altera Artigo 11.º — Compatibilidade e coerência
+    - Altera Artigo 15.º — Desenvolvimento rural
+    - Altera Artigo 17.º — Programas fitossanitários
+    - Altera Artigo 18.º — Vinho
+    - Altera Artigo 19.º — Leite
+    - Altera Artigo 21.º — Ajuda estatal à produção de tabaco
+    - Altera Artigo 23.º — Dotação financeira
+    - Altera Artigo 24.º-A
+    - Altera Artigo 26.º — Comité
+    - Altera Artigo 30.º — Medidas transitórias
+    - Altera «ANEXO I
+    - Altera «ANEXO VI
+    - Altera Notas
+  - date: '2008-07-24'
+    amending: eu:celex:32008R0674:por
+    amending_title: REGULAMENTO (CE) N. o 674/2008 DA COMISSÃO de 16 de Julho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Açúcar
+    - Altera Artigo 11.º — Compatibilidade e coerência
+    - Altera Artigo 15.º — Desenvolvimento rural
+    - Altera Artigo 17.º — Programas fitossanitários
+    - Altera Artigo 18.º — Vinho
+    - Altera Artigo 19.º — Leite
+    - Altera Artigo 21.º — Ajuda estatal à produção de tabaco
+    - Altera Artigo 23.º — Dotação financeira
+    - Altera Artigo 24.º-A
+    - Altera Artigo 26.º — Comité
+    - Altera Artigo 30.º — Medidas transitórias
+    - Altera «ANEXO I
+    - Altera «ANEXO VI
+    - Altera Notas
+  - date: '2009-02-07'
+    amending: eu:celex:32009R0072:por
+    amending_title: REGULAMENTO (CE) N. o 72/2009 DO CONSELHO de 19 de Janeiro de 2009; REGULAMENTO (CE) N. o 73/2009 DO CONSELHO
+      de 19 de Janeiro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Açúcar
+    - Altera Artigo 11.º — Compatibilidade e coerência
+    - Altera Artigo 15.º — Desenvolvimento rural
+    - Altera Artigo 16.º — Ajudas estatais
+    - Altera Artigo 17.º — Programas fitossanitários
+    - Altera Artigo 18.º — Vinho
+    - Altera Artigo 19.º — Leite
+    - Altera Artigo 21.º — Ajuda estatal à produção de tabaco
+    - Altera Artigo 23.º — Dotação financeira
+    - Altera Artigo 24.º-A
+    - Altera Artigo 26.º — Comité
+    - Altera Artigo 30.º — Medidas transitórias
+    - Altera «ANEXO I
+    - Altera «ANEXO VI
+    - Altera Notas
+    - Adita Artigo 24.º-B
+  - date: '2010-01-01'
+    amending: eu:celex:32010R0641:por
+    amending_title: REGULAMENTO (UE) N. o 641/2010 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de Julho de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Exportação para os países terceiros e expedição para o resto da Comunidade
+    - Altera Artigo 5.º — Açúcar
+    - Altera Artigo 6.º — Preparações lácteas
+    - Altera Artigo 11.º — Compatibilidade e coerência
+    - Altera Artigo 12.º — Conteúdo dos programas comunitários de apoio
+    - Altera Artigo 15.º — Desenvolvimento rural
+    - Altera Artigo 16.º — Ajudas estatais
+    - Altera Artigo 17.º — Programas fitossanitários
+    - Altera Artigo 18.º — Vinho
+    - Altera Artigo 19.º — Leite
+    - Altera Artigo 21.º — Ajuda estatal à produção de tabaco
+    - Altera Artigo 23.º — Dotação financeira
+    - Altera Artigo 24.º-A
+    - Altera Artigo 24.º-B
+    - Altera Artigo 26.º — Comité
+    - Altera Artigo 30.º — Medidas transitórias
+    - Altera «ANEXO I
+    - Altera «ANEXO VI
+    - Altera Notas
+  - date: '2013-03-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime OBJECTO
+    - Suprime Artigo 1.º — Objecto
+    - Suprime TÍTULO II
+    - Suprime REGIME ESPECÍFICO DE ABASTECIMENTO
+    - Suprime Artigo 2.º — Estimativa de abastecimento
+    - Suprime Artigo 3.º — Funcionamento do regime
+    - Suprime Artigo 4.º — Exportação para os países terceiros e expedição para o resto da Comunidade
+    - Suprime Artigo 5.º — Açúcar
+    - Suprime Artigo 6.º — Preparações lácteas
+    - Suprime Artigo 7.º — Importação de arroz para a Reunião
+    - Suprime Artigo 8.º — Normas de execução do regime
+    - Suprime TÍTULO III
+    - Suprime MEDIDAS A FAVOR DAS PRODUÇÕES AGRÍCOLAS LOCAIS
+    - Suprime Artigo 9.º — Programas de apoio
+    - Suprime Artigo 10.º — Medidas
+    - Suprime Artigo 11.º — Compatibilidade e coerência
+    - Suprime Artigo 12.º — Conteúdo dos programas comunitários de apoio
+    - Suprime Artigo 13.º — Seguimento
+    - Suprime TÍTULO IV
+    - Suprime MEDIDAS DE ACOMPANHAMENTO
+    - Suprime Artigo 14.º — Símbolo gráfico
+    - Suprime Artigo 15.º — Desenvolvimento rural
+    - Suprime Artigo 16.º — Ajudas estatais
+    - Suprime Artigo 17.º — Programas fitossanitários
+    - Suprime Artigo 18.º — Vinho
+    - Suprime Artigo 19.º — Leite
+    - Suprime Artigo 20.º — Pecuária
+    - Suprime Artigo 21.º — Ajuda estatal à produção de tabaco
+    - Suprime Artigo 22.º — Isenção de direitos aduaneiros aplicável ao tabaco
+    - Suprime TÍTULO V
+    - Suprime DISPOSIÇÕES FINANCEIRAS
+    - Suprime Artigo 23.º — Dotação financeira
+    - Suprime TÍTULO VI
+    - Suprime DISPOSIÇÕES GERAIS E FINAIS
+    - Suprime Artigo 24.º
+    - Suprime Artigo 24.º-A
+    - Suprime Artigo 24.º-B
+    - Suprime Artigo 25.º — Normas de execução
 identifiers:
   celex: 32006R0247
   eli: http://data.europa.eu/eli/reg/2006/247/oj
@@ -48,7 +205,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/dc7302c0-29dc-4c30-b730-6122048380e7.0016
   content_url: http://publications.europa.eu/resource/cellar/f2c3e711-12f5-4131-9880-9d10d635dd1d.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R0247-20130321
-  retrieved_at: '2026-10-22T02:41:29Z'
+  retrieved_at: '2026-10-22T15:03:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T19:12:54.936+01:00'
 integrity:
@@ -57,9 +214,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:29Z'
-  notes: Texto consolidado 02006R0247-20130321.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:03:19Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2006-247.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -254,16 +411,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:29Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:03:19Z'
+  warnings: []
   errors: []
 ---
 

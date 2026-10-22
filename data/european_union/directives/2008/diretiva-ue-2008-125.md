@@ -36,6 +36,35 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-06-14'
+version_history:
+  file: diretiva-ue-2008-125.versoes.json
+  count: 3
+  source_lastmod: '2011-06-14'
+  versions:
+  - date: '2008-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-11-28'
+    amending: eu:celex:32009L0146:por
+    amending_title: DIRECTIVA 2009/146/CE DA COMISSÃO Texto relevante para efeitos do EEE de 26 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º
+    - Altera Notas
+    - Adita ANEXO
+  - date: '2011-06-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime ANEXO
+    - Suprime Notas
 identifiers:
   celex: 32008L0125
   eli: http://data.europa.eu/eli/dir/2008/125/oj
@@ -50,7 +79,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a91b9b50-d331-4cbc-8cfe-190372031dd4.0018
   content_url: http://publications.europa.eu/resource/cellar/29bdad06-d060-4ab2-b8b5-909aa21716e7.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0125-20110614
-  retrieved_at: '2026-10-22T02:58:54Z'
+  retrieved_at: '2026-10-22T15:13:39Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T18:27:33.007+01:00'
 integrity:
@@ -59,9 +88,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:54Z'
-  notes: Texto consolidado 02008L0125-20110614.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:13:39Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2008-125.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -116,16 +145,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:54Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:13:39Z'
+  warnings: []
   errors: []
 ---
 

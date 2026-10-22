@@ -35,6 +35,40 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '1999-06-01'
+version_history:
+  file: regulamento-ue-1999-1073.versoes.json
+  count: 2
+  source_lastmod: '1999-06-01'
+  versions:
+  - date: '1999-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-06-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivo e funções
+    - Altera Artigo 2.º — Inquéritos administrativos
+    - Altera Artigo 3.º — Inquéritos externos
+    - Altera Artigo 4.º — Inquéritos internos
+    - Altera Artigo 5.º — Abertura dos inquéritos
+    - Altera Artigo 6.º — Realização dos inquéritos
+    - Altera Artigo 8.º — Confidencialidade e protecção de dados
+    - Altera Artigo 9.º — Relatório de inquérito e sequência dos inquéritos
+    - Altera Artigo 11.º — Comité de fiscalização
+    - Altera Artigo 12.º — Director
+    - Altera Artigo 13.º — Financiamento
+    - Altera Artigo 14.º — Controlo da legalidade
+    - Altera Artigo 15.º — Relatório de avaliação
+    - Altera Artigo 16.º — Entrada em vigor
+    - Adita Artigo 7.º — Obrigação de informar o[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999R1073R(01):PT:NOT)
+      Organismo ◄
+    - Adita Artigo 10.º — Transmissão de informações pelo[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999R1073R(01):PT:NOT)
+      Organismo ◄
+    - Suprime Artigo 7.º — Obrigação de informar a organização
+    - Suprime Artigo 10.º — Transmissão de informações pela organização
 identifiers:
   celex: 31999R1073
   eli: http://data.europa.eu/eli/reg/1999/1073/oj
@@ -49,7 +83,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/05d93cd4-6bdc-4ee6-a0eb-69750b4366c5.0011
   content_url: http://publications.europa.eu/resource/cellar/6deab59a-b560-47ae-86e5-26202f1e4ede.0001.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R1073-19990601
-  retrieved_at: '2026-10-22T02:39:33Z'
+  retrieved_at: '2026-10-22T14:48:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:04:30.173+02:00'
 integrity:
@@ -58,9 +92,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:33Z'
-  notes: Texto consolidado 01999R1073-19990601.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:05Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1999-1073.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -171,15 +205,14 @@ relationships:
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:33Z'
-  warnings:
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:48:05Z'
+  warnings: []
   errors: []
 ---
 

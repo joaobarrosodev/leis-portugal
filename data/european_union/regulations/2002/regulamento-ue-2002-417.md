@@ -37,6 +37,87 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-07-20'
+version_history:
+  file: regulamento-ue-2002-417.versoes.json
+  count: 6
+  source_lastmod: '2012-07-20'
+  versions:
+  - date: '2002-03-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-07'
+    amending: eu:celex:32002R2099:por
+    amending_title: REGULAMENTO (CE) N. o 2099/2002 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de Novembro de 2002; REGULAMENTO
+      (CE) N. o 1726/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Julho de 2003; REGULAMENTO (CE) N. o 2172/2004 DA COMISSÃO
+      de 17 de Dezembro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivo
+    - Altera Artigo 2.º — Âmbito
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Cumprimento, pelos navios petroleiros de casco simples, dos requisitos de construção em casco duplo
+      ou equivalente
+    - Altera Artigo 6.º — Programa de avaliação do estado dos navios
+    - Altera Artigo 8.º — Derrogações aplicáveis aos navios em dificuldades ou aos navios que devem ser reparados
+    - Altera Artigo 10.º — Procedimento de comitologia
+    - Altera Artigo 11.º — Procedimento de alteração
+    - Altera Artigo 13.º — Entrada em vigor
+    - Adita Artigo 5.º — Observância do programa de avaliação do estado dos navios das categorias 2 e 3
+    - Adita Notas
+    - Suprime Artigo 5.º — Observância do programa de avaliação do estado dos navios da categoria 1 e da categoria 2
+  - date: '2007-05-20'
+    amending: eu:celex:32007R0457:por
+    amending_title: REGULAMENTO (CE) N. o 457/2007 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de Abril de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Cumprimento, pelos navios petroleiros de casco simples, dos requisitos de construção em casco duplo
+      ou equivalente
+    - Altera Artigo 10.º — Procedimento de comitologia
+    - Altera Notas
+  - date: '2009-04-20'
+    amending: eu:celex:32009R0219:por
+    amending_title: REGULAMENTO (CE) n. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Procedimento de alteração
+    - Altera Notas
+    - Adita Artigo 10.º
+    - Suprime Artigo 10.º — Procedimento de comitologia
+  - date: '2009-12-21'
+    amending: eu:celex:32009R1163:por
+    amending_title: REGULAMENTO (CE) N. o 1163/2009 DA COMISSÃO de 30 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Cumprimento, pelos navios petroleiros de casco simples, dos requisitos de construção em casco duplo
+      ou equivalente
+    - Altera Artigo 7.º — Data-limite
+    - Altera Artigo 9.º — Notificação da OMI
+    - Altera Artigo 10.º
+    - Altera Notas
+  - date: '2012-07-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objectivo
+    - Suprime Artigo 2.º — Âmbito
+    - Suprime Artigo 3.º — Definições
+    - Suprime Artigo 4.º — Cumprimento, pelos navios petroleiros de casco simples, dos requisitos de construção em casco duplo
+      ou equivalente
+    - Suprime Artigo 5.º — Observância do programa de avaliação do estado dos navios das categorias 2 e 3
+    - Suprime Artigo 6.º — Programa de avaliação do estado dos navios
+    - Suprime Artigo 7.º — Data-limite
+    - Suprime Artigo 8.º — Derrogações aplicáveis aos navios em dificuldades ou aos navios que devem ser reparados
+    - Suprime Artigo 9.º — Notificação da OMI
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º — Procedimento de alteração
+    - Suprime Artigo 12.º — Revogação
+    - Suprime Artigo 13.º — Entrada em vigor
+    - Suprime Notas
 identifiers:
   celex: 32002R0417
   eli: http://data.europa.eu/eli/reg/2002/417/oj
@@ -51,7 +132,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c8b9ef02-4841-4a88-8f8b-4b664682a441.0010
   content_url: http://publications.europa.eu/resource/cellar/d25d6d35-d8ff-47a3-8f88-4dda62a4ada6.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R0417-20120720
-  retrieved_at: '2026-10-22T02:45:05Z'
+  retrieved_at: '2026-10-22T14:52:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T17:07:13.300+01:00'
 integrity:
@@ -60,9 +141,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:05Z'
-  notes: Texto consolidado 02002R0417-20120720.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:43Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2002-417.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -183,16 +264,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:05Z'
+  checked_at: '2026-10-22T14:52:43Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02002R0417-20021219: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R0417-20031021: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

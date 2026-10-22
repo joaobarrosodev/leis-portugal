@@ -1,0 +1,163 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002D0348:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002D0348-20070616",
+ "dre_path": null,
+ "source_lastmod": "2007-06-16",
+ "versions": [
+  {
+   "date": "2002-05-08",
+   "future": false,
+   "celex": "32002D0348",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "83ef832ff2a62f18",
+    "a0c43dcd9955964b",
+    "fc42d7fabb8034b4",
+    "61ba8691e4ac7031",
+    "8b28ed1df64ea6c2",
+    "357ee7621c1221e4",
+    "0571f966e4d8a383",
+    "fb6f06dffd1b905d"
+   ]
+  },
+  {
+   "date": "2007-06-16",
+   "future": false,
+   "celex": "02002D0348-20070616",
+   "acts": [
+    {
+     "id": "eu:celex:32007D0412:por",
+     "title": "DECISÃO 2007/412/JAI DO CONSELHO de 12 de Junho de 2007",
+     "published": null,
+     "celex": "32007D0412"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Tarefas do ponto nacional de informações sobre futebol",
+    "Altera Artigo 3.º — Intercâmbio de informações policiais entre pontos nacionais de informações sobre futebol",
+    "Altera Artigo 7.º — Entrada em vigor",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "a9347ab136db2940",
+    "a0c43dcd9955964b",
+    "0b19afe96a9b56fb",
+    "ab76a21784b9247e",
+    "8b28ed1df64ea6c2",
+    "357ee7621c1221e4",
+    "0571f966e4d8a383",
+    "a3c9d57ea4fcb135",
+    "0f80223b48f44c96"
+   ]
+  }
+ ],
+ "fragments": {
+  "83ef832ff2a62f18": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**2002/348/JAI: Decisão do Conselho, de 25 de Abril de 2002, relativa à segurança por ocasião de jogos de futebol com dimensão internacional** *Jornal Oficial nº L 121 de 08/05/2002 p. 0001 - 0003*\n\nDecisão do Conselho\n\nde 25 de Abril de 2002\n\nrelativa à segurança por ocasião de jogos de futebol com dimensão internacional\n\n(2002/348/JAI)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado da União Europeia e, nomeadamente, as alíneas a) e b) do n.o 1 do seu artigo 30.o e a alínea c) do n.o 2 do seu artigo 34.o,\n\nTendo em conta a iniciativa do Reino da Bélgica,\n\nTendo em conta o parecer do Parlamento Europeu(1),\n\nConsiderando o seguinte:\n\n(1) A União Europeia tem como objectivo, nos termos do artigo 29.o do Tratado, facultar aos cidadãos um elevado nível de protecção num espaço de liberdade, segurança e justiça, nomeadamente mediante a instituição de acções em comum entre os Estados-Membros no domínio da cooperação policial.\n\n(2) Em resultado das diversas competições europeias e internacionais e das inúmeras deslocações de adeptos, o fenómeno do futebol assume dimensões marcadamente internacionais. Esta internacionalização exige uma abordagem da segurança no contexto dos jogos de futebol que extravasa o âmbito nacional.\n\n(3) O futebol não deve ser encarado apenas como uma potencial fonte de problemas relacionados com a perturbação da ordem pública, da tranquilidade e da segurança, mas também como um evento que, independentemente do possível risco, deve ser gerido de um modo eficaz.\n\n(4) Especialmente no intuito de prevenir e combater a violência relacionada com o futebol, o intercâmbio de informações assume uma importância crucial ao contribuir para que os serviços de polícia e as autoridades competentes dos Estados-Membros se preparem adequadamente para reagir de maneira apropriada.\n\n(5) Para proceder ao intercâmbio de informações relacionadas com os eventos futebolísticos e atendendo à necessidade de uma cooperação policial internacional por ocasião de jogos de futebol com dimensão internacional, revela-se de primordial importância a criação, em cada Estado-Membro, de um ponto nacional permanente de informações policiais sobre futebol.\n\n(6) No quadro do Conselho da Europa foram aprovadas: a Convenção para a protecção das pessoas relativamente ao tratamento automatizado de dados de carácter pessoal, de 28 de Janeiro de 1981, a Recomendação n.o R (87) 15 do Comité dos Ministros, de 17 de Setembro de 1987, que regulamenta a utilização de dados pessoais no sector da polícia, e a Convenção Europeia de 19 de Agosto de 1995, sobre a violência e os excessos dos espectadores por ocasião de manifestações desportivas e, nomeadamente, de jogos de futebol.\n\n(7) O Conselho aprovou, em 26 de Maio de 1997, a Acção Comum 97/339/JAI relativa à cooperação em matéria de ordem e de segurança públicas(2), e, em 9 de Junho de 1997, a resolução relativa à prevenção e repressão do vandalismo no futebol, mediante o intercâmbio de experiências, a proibição de acesso aos estádios e uma política de comunicação social(3).\n\n(8) O Conselho aprovou igualmente, em 6 de Dezembro de 2001, a resolução relativa a um manual com recomendações para cooperação policial internacional e medidas de prevenção e luta contra a violência e os distúrbios associados aos jogos de futebol com dimensão internacional em que, pelo menos, um Estado-Membro se encontre envolvido(4),\n\nDECIDE:"
+  },
+  "a0c43dcd9955964b": {
+   "fragment_id": "Artigo 1.º — Criação de um ponto nacional de informações sobre futebol",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Criação de um ponto nacional de informações sobre futebol",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação de um ponto nacional de informações sobre futebol\n\n1. Cada Estado-Membro deve criar ou designar um ponto nacional de informações sobre futebol de natureza policial.\n\n2. Cada Estado-Membro notifica por escrito ao Secretariado-Geral do Conselho as coordenadas operacionais do seu ponto nacional de informações sobre futebol, bem como qualquer posterior modificação, por força da presente decisão. O Secretariado-Geral do Conselho mandará publicar essas coordenadas no Jornal Oficial.\n\n3. O ponto nacional de informações sobre futebol servirá como ponto de contacto directo e central para o intercâmbio das informações pertinentes e para facilitar a cooperação policial internacional no âmbito de jogos de futebol com dimensão internacional.\n\nQualquer Estado-Membro pode decidir que determinados contactos que incidam sobre aspectos relacionados com o futebol sejam efectuados através dos serviços especificamente competentes nessa matéria, na condição de o ponto nacional de informações sobre futebol ser minimamente mantido ao corrente, a tempo e de forma adequada.\n\n4. Cada Estado-Membro assegura que o seu ponto nacional de informações sobre futebol tenha capacidade para executar as suas tarefas de forma rápida e eficaz.\n\n5. A presente decisão é aplicável sem prejuízo das disposições nacionais vigentes, especialmente no que se refere à repartição das competências entre as diversas autoridades e serviços nos Estados-Membros em causa."
+  },
+  "fc42d7fabb8034b4": {
+   "fragment_id": "Artigo 2.º — Tarefas do ponto nacional de informações sobre futebol",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Tarefas do ponto nacional de informações sobre futebol",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tarefas do ponto nacional de informações sobre futebol\n\n1. O ponto nacional de informações sobre futebol é responsável por coordenar e facilitar o intercâmbio de informações entre serviços de polícia por ocasião de jogos de futebol com dimensão internacional. Este intercâmbio de informações pode também envolver outras autoridades responsáveis pela aplicação da lei que, em conformidade com a repartição de competências própria ao Estado-Membro em causa, contribuam para a ordem e a segurança públicas.\n\n2. Em conformidade com a legislação nacional e internacional aplicável na matéria, o ponto nacional de informações sobre futebol tem acesso às informações respeitantes a dados de carácter pessoal sobre adeptos de risco.\n\n3. O ponto nacional de informações sobre futebol facilita, coordena ou organiza a execução da cooperação policial internacional relativa a jogos de futebol com dimensão internacional.\n\n4. O ponto nacional de informações sobre futebol pode prestar apoio às autoridades nacionais competentes, em conformidade com as disposições nacionais existentes, em especial a repartição de competências entre as várias autoridades e serviços no Estado-Membro em questão.\n\n5. No âmbito dos jogos com dimensão internacional, o ponto nacional de informações sobre futebol facultará uma análise de riscos referente aos seus clubes e à sua equipa nacional, pelo menos a pedido de outro ponto nacional de informações sobre futebol num Estado-Membro envolvido."
+  },
+  "61ba8691e4ac7031": {
+   "fragment_id": "Artigo 3.º — Intercâmbio de informações policiais entre pontos nacionais de informações sobre futebol",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Intercâmbio de informações policiais entre pontos nacionais de informações sobre futebol",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Intercâmbio de informações policiais entre pontos nacionais de informações sobre futebol\n\n1. Antes, durante e depois do evento futebolístico com dimensão internacional, os pontos nacionais de informações sobre futebol procedem, a pedido de um ponto nacional interessado ou por sua própria iniciativa, ao intercâmbio recíproco de informações gerais e, nas condições previstas no n.o 3, de informações de carácter pessoal.\n\n2. As informações gerais trocadas por ocasião dos jogos de futebol com dimensão internacional são de natureza estratégica, operacional e táctica. Neste contexto, entende-se por:\n\n- informações estratégicas: os dados que descrevem o evento em todas as suas dimensões, especialmente no se refere aos riscos em termos de segurança que o mesmo comporta,\n\n- informações operacionais: os dados que permitem ficar com uma imagem correcta dos factos ocorridos no quadro do evento,\n\n- informações tácticas: os dados que permitem aos responsáveis operacionais agir adequadamente no quadro da manutenção da ordem e da segurança por ocasião do evento.\n\n3. O intercâmbio de informações de carácter pessoal é efectuado em conformidade com a legislação nacional e internacional aplicável, tendo em conta os princípios da Convenção n.o 108 do Conselho da Europa, de 28 de Janeiro de 1981, para a protecção das pessoas relativamente ao tratamento automatizado de dados de carácter pessoal, e, se for caso disso, da Recomendação n.o R (87) 15 do Comité dos Ministros do Conselho da Europa, de 17 de Setembro de 1987, que regulamenta a utilização de dados pessoais no sector da polícia. O referido intercâmbio é efectuado tendo em vista a preparação e a adopção de medidas adequadas para manter a ordem pública por ocasião de um evento futebolístico, podendo incidir especialmente sobre informações referentes a indivíduos que representem ou possam representar uma ameaça para a ordem e a segurança públicas."
+  },
+  "8b28ed1df64ea6c2": {
+   "fragment_id": "Artigo 4.º — Procedimento de comunicação entre os pontos nacionais de informações sobre futebol",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Procedimento de comunicação entre os pontos nacionais de informações sobre futebol",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimento de comunicação entre os pontos nacionais de informações sobre futebol\n\n1. O ponto nacional de informações sobre futebol coordena o tratamento das informações relativas aos jogos de futebol com dimensão internacional e vela por que todos os serviços de polícia em causa recebam atempadamente as informações necessárias. Uma vez processadas, as informações são utilizadas pelo próprio ponto nacional de informações sobre futebol ou enviadas para outras autoridades e serviços de polícia interessados.\n\n2. O ponto nacional de informações sobre futebol do Estado-Membro que organiza o evento futebolístico mantém-se em comunicação antes, durante e após o campeonato ou o jogo com o(s) serviço(s) de polícia do(s) Estado(s)-Membro(s) implicado(s), eventualmente por intermédio do oficial de ligação designado e posto à disposição pelo(s) referido(s) Estado(s)-Membro(s). O referido oficial de ligação pode ser contactado sobre os domínios que têm a ver com a ordem e a segurança públicas, a violência relacionada com futebol, e a criminalidade em geral, desde que haja uma relação com um jogo ou torneio de futebol específico.\n\n3. Os pontos nacionais de informações sobre futebol comunicam da forma adequada a salvaguardar a confidencialidade dos dados. Desde que não se trate de dados de carácter pessoal, as informações trocadas são arquivadas e podem ser posteriormente consultadas por outros pontos nacionais de informação interessados, com a condição de que o ponto nacional de informações sobre futebol que forneceu essa informação tenha previamente tido a oportunidade de se pronunciar sobre a sua divulgação."
+  },
+  "357ee7621c1221e4": {
+   "fragment_id": "Artigo 5.º — Regime linguístico",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Regime linguístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime linguístico\n\nA comunicação entre os diversos pontos nacionais de informações sobre futebol é efectuada nas suas próprias línguas, sendo enviadas cópias numa língua de trabalho comum às partes envolvidas, a menos que estas acordem noutras disposições."
+  },
+  "0571f966e4d8a383": {
+   "fragment_id": "Artigo 6.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Avaliação\n\nO Conselho avalia a execução da presente decisão no prazo de dois anos após a sua adopção."
+  },
+  "fb6f06dffd1b905d": {
+   "fragment_id": "Artigo 7.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente decisão entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial.\n\nFeito no Luxemburgo, em 25 de Abril de 2002.\n\nPelo Conselho\n\nO Presidente\n\nM. Rajoy Brey\n\n(1) Parecer emitido em 9 de Abril de 2002 (ainda não publicado no Jornal Oficial).\n\n(2) JO L 147 de 5.6.1997, p. 1.\n\n(3) JO C 193 de 24.6.1997, p. 1.\n\n(4) JO C 22 de 24.1.2002, p. 1."
+  },
+  "a9347ab136db2940": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Abril de 2002\n\nrelativa à segurança por ocasião de jogos de futebol com dimensão internacional\n\n(2002/348/JAI)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado da União Europeia e, nomeadamente, as alíneas a) e b) do n.º 1 do seu artigo 30.º e a alínea c) do n.º 2 do seu artigo 34.º,\n\nTendo em conta a iniciativa do Reino da Bélgica,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/02a0b52f-6746-47d8-bcea-1d8714992507.0019.03/DOC_1#E0001)),\n\n(1) A União Europeia tem como objectivo, nos termos do artigo 29.º do Tratado, facultar aos cidadãos um elevado nível de protecção num espaço de liberdade, segurança e justiça, nomeadamente mediante a instituição de acções em comum entre os Estados-Membros no domínio da cooperação policial.\n\n(2) Em resultado das diversas competições europeias e internacionais e das inúmeras deslocações de adeptos, o fenómeno do futebol assume dimensões marcadamente internacionais. Esta internacionalização exige uma abordagem da segurança no contexto dos jogos de futebol que extravasa o âmbito nacional.\n\n(3) O futebol não deve ser encarado apenas como uma potencial fonte de problemas relacionados com a perturbação da ordem pública, da tranquilidade e da segurança, mas também como um evento que, independentemente do possível risco, deve ser gerido de um modo eficaz.\n\n(4) Especialmente no intuito de prevenir e combater a violência relacionada com o futebol, o intercâmbio de informações assume uma importância crucial ao contribuir para que os serviços de polícia e as autoridades competentes dos Estados-Membros se preparem adequadamente para reagir de maneira apropriada.\n\n(5) Para proceder ao intercâmbio de informações relacionadas com os eventos futebolísticos e atendendo à necessidade de uma cooperação policial internacional por ocasião de jogos de futebol com dimensão internacional, revela-se de primordial importância a criação, em cada Estado-Membro, de um ponto nacional permanente de informações policiais sobre futebol.\n\n(6) No quadro do Conselho da Europa foram aprovadas: a Convenção para a protecção das pessoas relativamente ao tratamento automatizado de dados de carácter pessoal, de 28 de Janeiro de 1981, a Recomendação n.º R (87) 15 do Comité dos Ministros, de 17 de Setembro de 1987, que regulamenta a utilização de dados pessoais no sector da polícia, e a Convenção Europeia de 19 de Agosto de 1995, sobre a violência e os excessos dos espectadores por ocasião de manifestações desportivas e, nomeadamente, de jogos de futebol.\n\n(7) O Conselho aprovou, em 26 de Maio de 1997, a Acção Comum 97/339/JAI relativa à cooperação em matéria de ordem e de segurança públicas ([^2^](http://publications.europa.eu/resource/cellar/02a0b52f-6746-47d8-bcea-1d8714992507.0019.03/DOC_1#E0002)), e, em 9 de Junho de 1997, a resolução relativa à prevenção e repressão do vandalismo no futebol, mediante o intercâmbio de experiências, a proibição de acesso aos estádios e uma política de comunicação social ([^3^](http://publications.europa.eu/resource/cellar/02a0b52f-6746-47d8-bcea-1d8714992507.0019.03/DOC_1#E0003)).\n\n(8) O Conselho aprovou igualmente, em 6 de Dezembro de 2001, a resolução relativa a um manual com recomendações para cooperação policial internacional e medidas de prevenção e luta contra a violência e os distúrbios associados aos jogos de futebol com dimensão internacional em que, pelo menos, um Estado-Membro se encontre envolvido ([^4^](http://publications.europa.eu/resource/cellar/02a0b52f-6746-47d8-bcea-1d8714992507.0019.03/DOC_1#E0004)),\n\nDECIDE:"
+  },
+  "0b19afe96a9b56fb": {
+   "fragment_id": "Artigo 2.º — Tarefas do ponto nacional de informações sobre futebol",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Tarefas do ponto nacional de informações sobre futebol",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tarefas do ponto nacional de informações sobre futebol\n\n1. O ponto nacional de informações sobre futebol é responsável por coordenar e facilitar o intercâmbio de informações entre serviços de polícia por ocasião de jogos de futebol com dimensão internacional. Este intercâmbio de informações pode também envolver outras autoridades responsáveis pela aplicação da lei que, em conformidade com a repartição de competências própria ao Estado-Membro em causa, contribuam para a ordem e a segurança públicas.\n\n2. Em conformidade com as regras nacionais e internacionais aplicáveis, o ponto nacional de informações sobre futebol tem acesso às informações respeitantes a dados de carácter pessoal sobre adeptos de risco.\n\n3. O ponto nacional de informações sobre futebol facilita, coordena ou organiza a execução da cooperação policial internacional relativa a jogos de futebol com dimensão internacional.\n\n4. O ponto nacional de informações sobre futebol pode prestar apoio às autoridades nacionais competentes, em conformidade com as disposições nacionais existentes, em especial a repartição de competências entre as várias autoridades e serviços no Estado-Membro em questão.\n\n5. No âmbito dos jogos com dimensão internacional, o ponto nacional de informações sobre futebol facultará uma análise de riscos referente aos seus clubes e à sua equipa nacional, pelo menos a pedido de outro ponto nacional de informações sobre futebol num Estado-Membro envolvido.\n\n6. Os pontos nacionais de informações sobre futebol elaboram e comunicam periodicamente aos seus homólogos avaliações genéricas e/ou temáticas sobre distúrbios associados ao futebol a nível nacional."
+  },
+  "ab76a21784b9247e": {
+   "fragment_id": "Artigo 3.º — Intercâmbio de informações policiais entre pontos nacionais de informações sobre futebol",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Intercâmbio de informações policiais entre pontos nacionais de informações sobre futebol",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Intercâmbio de informações policiais entre pontos nacionais de informações sobre futebol\n\n1. Antes, durante e depois do evento futebolístico com dimensão internacional, os pontos nacionais de informações sobre futebol procedem, a pedido de um ponto nacional interessado ou por sua própria iniciativa, ao intercâmbio recíproco de informações gerais e, nas condições previstas no n.º 3, de informações de carácter pessoal.\n\n2. As informações gerais trocadas por ocasião dos jogos de futebol com dimensão internacional são de natureza estratégica, operacional e táctica. Neste contexto, entende-se por:\n\n— informações estratégicas: os dados que descrevem o evento em todas as suas dimensões, especialmente no se refere aos riscos em termos de segurança que o mesmo comporta,\n\n— informações operacionais: os dados que permitem ficar com uma imagem correcta dos factos ocorridos no quadro do evento,\n\n— informações tácticas: os dados que permitem aos responsáveis operacionais agir adequadamente no quadro da manutenção da ordem e da segurança por ocasião do evento.\n\n[**►M1**](http://publications.europa.eu/resource/celex/32007D0412) 3. O intercâmbio de dados de carácter pessoal é efectuado em conformidade com as regras nacionais e internacionais aplicáveis, tendo em conta os princípios da Convenção n.º 108 do Conselho da Europa, de 28 de Janeiro de 1981, para a protecção das pessoas relativamente ao tratamento automatizado de dados de carácter pessoal, e, se for caso disso, da Recomendação n.º R (87) 15 do Comité dos Ministros do Conselho da Europa, de 17 de Setembro de 1987, que regulamenta a utilização de dados pessoais no sector da polícia.**◄** O referido intercâmbio é efectuado tendo em vista a preparação e a adopção de medidas adequadas para manter a ordem pública por ocasião de um evento futebolístico, podendo incidir especialmente sobre informações referentes a indivíduos que representem ou possam representar uma ameaça para a ordem e a segurança públicas.\n\n4. Para o intercâmbio de informações são utilizados os formulários adequados que constam do apêndice do manual com recomendações para a cooperação policial internacional e medidas de prevenção e luta contra a violência e os distúrbios associados aos jogos de futebol com dimensão internacional em que, pelo menos, um Estado-Membro se encontre envolvido. Os pontos nacionais de informações sobre futebol asseguram que as informações por si enviadas sejam completas e conformes com esses formulários."
+  },
+  "a3c9d57ea4fcb135": {
+   "fragment_id": "Artigo 7.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente decisão entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial.\n\n---"
+  },
+  "0f80223b48f44c96": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/02a0b52f-6746-47d8-bcea-1d8714992507.0019.03/DOC_1#src.E0001)) Parecer emitido em 9 de Abril de 2002 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/02a0b52f-6746-47d8-bcea-1d8714992507.0019.03/DOC_1#src.E0002)) JO L 147 de 5.6.1997, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/02a0b52f-6746-47d8-bcea-1d8714992507.0019.03/DOC_1#src.E0003)) JO C 193 de 24.6.1997, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/02a0b52f-6746-47d8-bcea-1d8714992507.0019.03/DOC_1#src.E0004)) JO C 22 de 24.1.2002, p. 1."
+  }
+ }
+}

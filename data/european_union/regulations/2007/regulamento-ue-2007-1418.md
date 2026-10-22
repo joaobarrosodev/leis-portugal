@@ -36,6 +36,86 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-04-02'
+version_history:
+  file: regulamento-ue-2007-1418.versoes.json
+  count: 11
+  source_lastmod: '2022-04-02'
+  versions:
+  - date: '2007-12-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-08-13'
+    amending: eu:celex:32008R0740:por
+    amending_title: REGULAMENTO (CE) N. o 740/2008 DA COMISSÃO de 29 de Julho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Notas
+    - Adita Artigo 1.º-A
+    - Adita ANEXO
+  - date: '2009-11-05'
+    amending: eu:celex:32009R0967:por
+    amending_title: REGULAMENTO (CE) N. o 967/2009 DA COMISSÃO de 15 de Outubro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º-A
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2010-10-08'
+    amending: eu:celex:32010R0837:por
+    amending_title: REGULAMENTO (UE) N. o 837/2010 DA COMISSÃO de 23 de Setembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2011-07-23'
+    amending: eu:celex:32011R0661:por
+    amending_title: REGULAMENTO (UE) N. o 661/2011 DA COMISSÃO de 8 de Julho de 2011
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2012-08-07'
+    amending: eu:celex:32012R0674:por
+    amending_title: REGULAMENTO (UE) N. o 674/2012 DA COMISSÃO de 23 de julho de 2012
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2013-02-07'
+    amending: eu:celex:32013R0057:por
+    amending_title: REGULAMENTO (UE) N. o 57/2013 DA COMISSÃO de 23 de janeiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0519:por
+    amending_title: REGULAMENTO (UE) N. o 519/2013 DA COMISSÃO de 21 de fevereiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2014-07-18'
+    amending: eu:celex:32014R0733:por
+    amending_title: REGULAMENTO (UE) N. o 733/2014 DA COMISSÃO de 24 de junho de 2014
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Suprime Notas
+  - date: '2021-11-10'
+    amending: eu:celex:32021R1840:por
+    amending_title: REGULAMENTO (UE) 2021/1840 DA COMISSÃO de 20 de outubro de 2021
+    changes:
+    - Altera ANEXO
+    - Adita Notas
+  - date: '2022-04-02'
+    amending: eu:celex:32022R0520:por
+    amending_title: REGULAMENTO (UE) 2022/520 DA COMISSÃO de 31 de março de 2022
+    changes:
+    - Altera ANEXO
+    - Altera Notas
 identifiers:
   celex: 32007R1418
   eli: http://data.europa.eu/eli/reg/2007/1418/oj
@@ -50,7 +130,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/625c4006-7f1b-4934-8a55-a912813c0bd8.0018
   content_url: http://publications.europa.eu/resource/cellar/62e808db-c06b-11ec-b6f4-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R1418-20220402
-  retrieved_at: '2026-10-22T02:45:24Z'
+  retrieved_at: '2026-10-22T15:10:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T20:24:19.089+01:00'
 integrity:
@@ -59,9 +139,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:24Z'
-  notes: Texto consolidado 02007R1418-20220402.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:10:27Z'
+  notes: 11 versão(ões); histórico completo em regulamento-ue-2007-1418.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -178,38 +258,19 @@ relationships:
   date: '2007-07-10'
 article_structure:
   article_count: 4
-  section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 2
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:24Z'
+  checked_at: '2026-10-22T15:10:27Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 1418/2007 da Comissão, de 29 de Novembro de 2007
-
-> 02007R1418 — PT — 02.04.2022 — 010.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008R0740) — [REGULAMENTO (CE) N.º 740/2008 DA COMISSÃO de 29 de Julho de 2008](http://publications.europa.eu/resource/celex/32008R0740) — L 201 — 36 — 30.7.2008
-- [►M2](http://publications.europa.eu/resource/celex/32009R0967) — [REGULAMENTO (CE) N.º 967/2009 DA COMISSÃO de 15 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009R0967) — L 271 — 12 — 16.10.2009
-- [M3](http://publications.europa.eu/resource/celex/32010R0837) — [REGULAMENTO (UE) N.º 837/2010 DA COMISSÃO de 23 de Setembro de 2010](http://publications.europa.eu/resource/celex/32010R0837) — L 250 — 1 — 24.9.2010
-- [M4](http://publications.europa.eu/resource/celex/32011R0661) — [REGULAMENTO (UE) N.º 661/2011 DA COMISSÃO de 8 de Julho de 2011](http://publications.europa.eu/resource/celex/32011R0661) — L 181 — 22 — 9.7.2011
-- [►M5](http://publications.europa.eu/resource/celex/32012R0674) — [REGULAMENTO (UE) N.º 674/2012 DA COMISSÃO de 23 de julho de 2012](http://publications.europa.eu/resource/celex/32012R0674) — L 196 — 12 — 24.7.2012
-- [M6](http://publications.europa.eu/resource/celex/32013R0057) — [REGULAMENTO (UE) N.º 57/2013 DA COMISSÃO de 23 de janeiro de 2013](http://publications.europa.eu/resource/celex/32013R0057) — L 21 — 17 — 24.1.2013
-- [►M7](http://publications.europa.eu/resource/celex/32013R0519) — [REGULAMENTO (UE) N.º 519/2013 DA COMISSÃO de 21 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0519) — L 158 — 74 — 10.6.2013
-- [►M8](http://publications.europa.eu/resource/celex/32014R0733) — [REGULAMENTO (UE) N.º 733/2014 DA COMISSÃO de 24 de junho de 2014](http://publications.europa.eu/resource/celex/32014R0733) — L 197 — 10 — 4.7.2014
-- [►M9](http://publications.europa.eu/resource/celex/32021R1840) — [REGULAMENTO (UE) 2021/1840 DA COMISSÃO de 20 de outubro de 2021](http://publications.europa.eu/resource/celex/32021R1840) — L 373 — 1 — 21.10.2021
-- [►M10](http://publications.europa.eu/resource/celex/32022R0520) — [REGULAMENTO (UE) 2022/520 DA COMISSÃO de 31 de março de 2022](http://publications.europa.eu/resource/celex/32022R0520) — L 104 — 63 — 1.4.2022
-
-## REGULAMENTO (CE) N.º 1418/2007 DA COMISSÃO
 
 de 29 de Novembro de 2007
 

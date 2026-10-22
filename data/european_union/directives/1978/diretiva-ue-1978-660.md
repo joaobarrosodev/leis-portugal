@@ -34,6 +34,210 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-19'
+version_history:
+  file: diretiva-ue-1978-660.versoes.json
+  count: 7
+  source_lastmod: '2013-07-19'
+  versions:
+  - date: '1978-08-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-06-29'
+    amending: eu:celex:31983L0349:por
+    amending_title: SÉTIMA DIRECTIVA DO CONSELHO 83/349/CEE de 13 de Junho de 1983; M2; DÉCIMA PRIMEIRA DIRECTIVA DO CONSELHO
+      89/666/CEE de 21 de Dezembro de 1989; DIRECTIVA DO CONSELHO 90/604/CEE de 8 de Novembro de 1990; DIRECTIVA DO CONSELHO
+      90/605/CEE de 8 de Novembro de 1990; M6; M7; DIRECTIVA 2001/65/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de Setembro
+      de 2001; DIRECTIVA 2003/38/CE DO CONSELHO de 13 de Maio de 2003; DIRECTIVA 2003/51/CE DO PARLAMENTO EUROPEU E DO CONSELHO
+      Texto relevante para efeitos do EEE de 18 de Junho de 2003; DIRECTIVA 2006/43/CE DO PARLAMENTO EUROPEU E DO CONSELHO
+      Texto relevante para efeitos do EEE de 17 de Maio de 2006; Acto de Adesão da Grécia; ►A2; Acto de Adesão da Áustria,
+      da Finlândia e da Suécia; Acto relativo às condições de adesão da República Checa, da República da Estónia, da República
+      de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República
+      da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Adita preambulo
+    - Adita Artigo 1º
+    - Adita SECÇÃO 1
+    - Adita Disposições gerais
+    - Adita Artigo 2º
+    - Adita SECÇÃO 2
+    - Adita Disposições gerais relativas ao balanço e à conta de ganhos e perdas
+    - Adita Artigo 3º
+    - Adita Artigo 4º
+    - Adita Artigo 5º
+    - Adita Artigo 6º
+    - Adita Artigo 7º
+    - Adita SECÇÃO 3
+    - Adita Estrutura do balanço
+    - Adita Artigo 8º
+    - Adita Artigo 9º
+    - Adita Artigo 10º
+    - Adita Artigo 10.ºA
+    - Adita Artigo 11º
+    - Adita Artigo 12º
+    - Adita Artigo 13º
+    - Adita Artigo 14º
+    - Adita SECÇÃO 4
+    - Adita Disposições particulares respeitantes a certas rubricas do balanço
+    - Adita Artigo 15º
+    - Adita Artigo 16º
+    - Adita Artigo 17º
+    - Adita Artigo 18º
+    - Adita Artigo 19º
+    - Adita Artigo 20º
+    - Adita Artigo 21º
+    - Adita SECÇÃO 5
+    - Adita Estrutura da conta de ganhos e perdas
+    - Adita Artigo 22º
+    - Adita Artigo 23º
+    - Adita Artigo 24º
+    - Adita Artigo 25º
+    - Adita Artigo 26º
+    - Adita Artigo 27º
+    - Adita SECÇÃO 6
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0046:por
+    amending_title: DIRECTIVA 2006/46/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14 de
+      Junho de 2006; DIRECTIVA 2006/99/CE DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1º
+    - Altera Artigo 4º
+    - Altera Artigo 5º
+    - Altera Artigo 11º
+    - Altera Artigo 27º
+    - Altera Artigo 42.ºA
+    - Altera Artigo 43º
+    - Altera Artigo 45º
+    - Altera Artigo 51º
+    - Altera Notas
+    - Adita Artigo 46.º-A
+    - Adita SECÇÃO 10-A
+    - Adita Obrigações e responsabilidades pela elaboração e publicação das contas anuais e do relatório anual
+    - Adita Artigo 50.º-B
+    - Adita Artigo 50.º-C
+    - Adita Artigo 53.º-A
+    - Adita Artigo 60.º-A
+    - Adita Artigo 61.º-A
+    - Suprime Artigo 53.ºA
+    - Suprime Artigo 61.ºA
+  - date: '2009-07-16'
+    amending: eu:celex:32009L0049:por
+    amending_title: DIRECTIVA 2009/49/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 18 de
+      Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4º
+    - Altera Artigo 5º
+    - Altera Artigo 42.ºA
+    - Altera Artigo 45º
+    - Altera Artigo 46.º-A
+    - Altera Artigo 51º
+    - Altera Notas
+  - date: '2012-04-10'
+    amending: eu:celex:32012L0006:por
+    amending_title: DIRETIVA 2012/6/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14 de março
+      de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1º
+    - Altera Artigo 4º
+    - Altera Artigo 5º
+    - Altera Artigo 9º
+    - Altera Artigo 10º
+    - Altera Artigo 11º
+    - Altera Artigo 12º
+    - Altera Artigo 14º
+    - Altera Artigo 22º
+    - Altera Artigo 23º
+    - Altera Artigo 24º
+    - Altera Artigo 25º
+    - Altera Artigo 26º
+    - Altera Artigo 27º
+    - Altera Artigo 28º
+    - Altera Artigo 30º
+    - Altera Artigo 33º
+    - Altera Artigo 35º
+    - Altera Artigo 38º
+    - Altera Artigo 39º
+    - Altera Artigo 40º
+    - Altera Artigo 41º
+    - Altera Artigo 42.ºA
+    - Altera Artigo 43º
+    - Altera Artigo 45º
+    - Altera Artigo 46.º-A
+    - Altera Artigo 47º
+    - Altera Artigo 48º
+    - Altera Artigo 49º
+    - Altera Artigo 51º
+    - Altera Artigo 52º
+    - Altera Artigo 53.º-A
+    - Altera Artigo 55º
+    - Altera Artigo 56º
+    - Altera Artigo 59º
+    - Altera Artigo 61º
+    - Altera Artigo 62º
+    - Altera Notas
+    - Adita Artigo 1.º-A
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0024:por
+    amending_title: DIRETIVA 2013/24/UE DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1º
+    - Altera Artigo 1.º-A
+    - Altera Artigo 4º
+    - Altera Artigo 5º
+    - Altera Artigo 42.ºA
+    - Altera Artigo 45º
+    - Altera Artigo 46.º-A
+    - Altera Artigo 51º
+    - Altera Artigo 59º
+    - Altera Notas
+  - date: '2013-07-19'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 1.º-A
+    - Suprime SECÇÃO 1
+    - Suprime Disposições gerais
+    - Suprime Artigo 2º
+    - Suprime SECÇÃO 2
+    - Suprime Disposições gerais relativas ao balanço e à conta de ganhos e perdas
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime SECÇÃO 3
+    - Suprime Estrutura do balanço
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 10.ºA
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime SECÇÃO 4
+    - Suprime Disposições particulares respeitantes a certas rubricas do balanço
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime Artigo 17º
+    - Suprime Artigo 18º
+    - Suprime Artigo 19º
+    - Suprime Artigo 20º
+    - Suprime Artigo 21º
+    - Suprime SECÇÃO 5
+    - Suprime Estrutura da conta de ganhos e perdas
+    - Suprime Artigo 22º
+    - Suprime Artigo 23º
+    - Suprime Artigo 24º
+    - Suprime Artigo 25º
+    - Suprime Artigo 26º
+    - Suprime Artigo 27º
 identifiers:
   celex: 31978L0660
   eli: http://data.europa.eu/eli/dir/1978/660/oj
@@ -48,7 +252,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8a3e935f-8f2a-4c5b-9851-b1a5be9224fe.0011
   content_url: http://publications.europa.eu/resource/cellar/0c352087-e6f9-4e26-9358-c41b21040f72.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01978L0660-20130719
-  retrieved_at: '2026-10-22T02:36:08Z'
+  retrieved_at: '2026-10-22T14:32:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T20:52:54.227+01:00'
 integrity:
@@ -57,9 +261,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:08Z'
-  notes: Texto consolidado 01978L0660-20130719.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:32:40Z'
+  notes: 7 versão(ões); histórico completo em diretiva-ue-1978-660.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -338,16 +542,20 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:08Z'
+  checked_at: '2026-10-22T14:32:40Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01978L0660-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01978L0660-19990626: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01978L0660-20011116: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01978L0660-20030515: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01978L0660-20030717: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01978L0660-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

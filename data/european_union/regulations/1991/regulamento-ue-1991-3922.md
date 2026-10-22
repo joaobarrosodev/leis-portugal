@@ -34,6 +34,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-04-08'
+version_history:
+  file: regulamento-ue-1991-3922.versoes.json
+  count: 2
+  source_lastmod: '2012-04-08'
+  versions:
+  - date: '1991-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-04-08'
+    amending: eu:celex:31996R2176:por
+    amending_title: M1; M2; M3; REGULAMENTO (CE) N. o 1592/2002 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Julho de 2002;
+      REGULAMENTO (CE) N. o 1899/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de Dezembro de 2006; REGULAMENTO (CE) N. o
+      1900/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Dezembro de 2006; M7; REGULAMENTO (CE) N. o 216/2008 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 20 de Fevereiro de 2008; M9
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 8.º-A
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 12.º-A
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita ANEXO I
+    - Adita Convénios referidos no n.º 1, alínea h), do artigo 2.º
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+    - Suprime ANEXO I — Convénios referidos no n° 1, alínea h), do artigo 2o
+    - Suprime ANEXO II — Listas dos códigos em vigor onde se encontram as normas técnicas e os procedimentos administrativos
+      comuns referidos no artigo 3o
 identifiers:
   celex: 31991R3922
   eli: http://data.europa.eu/eli/reg/1991/3922/oj
@@ -48,7 +101,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a0ea8a73-37e0-4721-b0db-a4a2ef84a271.0011
   content_url: http://publications.europa.eu/resource/cellar/bbd470fe-0e6c-47f9-a45b-56d79d367e6b.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991R3922-20120408
-  retrieved_at: '2026-10-22T02:40:13Z'
+  retrieved_at: '2026-10-22T14:40:12Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T09:27:27.213+01:00'
 integrity:
@@ -57,9 +110,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:13Z'
-  notes: Texto consolidado 01991R3922-20120408.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:40:12Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1991-3922.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -180,37 +233,27 @@ relationships:
   date: '2018-08-22'
 article_structure:
   article_count: 16
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:13Z'
-  warnings: []
+  checked_at: '2026-10-22T14:40:12Z'
+  warnings:
+  - '01991R3922-19920101: versão indisponível (Sem expressão na língua por para CELEX 01991R3922-19920101.)'
+  - '01991R3922-19961204: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R3922-19990615: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R3922-20010118: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R3922-20020928: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R3922-20070116: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R3922-20080112: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R3922-20080920: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CEE) nº 3922/91 do Conselho, de 16 de Dezembro de 1991
-
-> 1991R3922 — PT — 08.04.2012 — 008.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/31996R2176) — [REGULAMENTO (CE) N.º 2176/96 DA COMISSÃO de 13 de Novembro de 1996](http://publications.europa.eu/resource/celex/31996R2176) — L 291 — 15 — 14.11.1996
-- [M2](http://publications.europa.eu/resource/celex/31999R1069) — [REGULAMENTO (CE) N.º 1069/1999 DA COMISSÃO de 25 de Maio de 1999](http://publications.europa.eu/resource/celex/31999R1069) — L 130 — 16 — 26.5.1999
-- [M3](http://publications.europa.eu/resource/celex/32000R2871) — [REGULAMENTO (CE) N.º 2871/2000 DA COMISSÃO de 28 de Dezembro de 2000](http://publications.europa.eu/resource/celex/32000R2871) — L 333 — 47 — 29.12.2000
-- [►M4](http://publications.europa.eu/resource/celex/32002R1592) — [REGULAMENTO (CE) N.º 1592/2002 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Julho de 2002](http://publications.europa.eu/resource/celex/32002R1592) — L 240 — 1 — 7.9.2002
-- [►M5](http://publications.europa.eu/resource/celex/32006R1899) — [REGULAMENTO (CE) N.º 1899/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1899) — L 377 — 1 — 27.12.2006
-- [►M6](http://publications.europa.eu/resource/celex/32006R1900) — [REGULAMENTO (CE) N.º 1900/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1900) — L 377 — 176 — 27.12.2006
-- [M7](http://publications.europa.eu/resource/celex/32008R0008) — [REGULAMENTO (CE) N.º 8/2008 DA COMISSÃO de 11 de Dezembro de 2007](http://publications.europa.eu/resource/celex/32008R0008) — L 10 — 1 — 12.1.2008
-- [►M8](http://publications.europa.eu/resource/celex/32008R0216) — [REGULAMENTO (CE) N.º 216/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Fevereiro de 2008](http://publications.europa.eu/resource/celex/32008R0216) — L 79 — 1 — 19.3.2008
-- [M9](http://publications.europa.eu/resource/celex/32008R0859) — [REGULAMENTO (CE) N.º 859/2008 DA COMISSÃO de 20 de Agosto de 2008](http://publications.europa.eu/resource/celex/32008R0859) — L 254 — 1 — 20.9.2008
-
-## REGULAMENTO (CEE) N.º 3922/91 DO CONSELHO
 
 de 16 de Dezembro de 1991
 

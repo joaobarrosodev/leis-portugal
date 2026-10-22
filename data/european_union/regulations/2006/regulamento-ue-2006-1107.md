@@ -36,6 +36,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-08-15'
+version_history:
+  file: regulamento-ue-2006-1107.versoes.json
+  count: 2
+  source_lastmod: '2006-08-15'
+  versions:
+  - date: '2006-07-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-08-15'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita ANEXO I
+    - Adita Assistência sob a responsabilidade das entidades gestoras dos aeroportos
+    - Adita ANEXO II
+    - Adita Assistência prestada pelas transportadoras aéreas
+    - Suprime Artigo 1.º — Objectivo e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Proibição da recusa de transporte
+    - Suprime Artigo 4.º — Derrogações, condições especiais e informação
+    - Suprime Artigo 5.º — Designação dos pontos de chegada e de partida
+    - Suprime Artigo 6.º — Transmissão de informações
+    - Suprime Artigo 7.º — Direito à assistência nos aeroportos
+    - Suprime Artigo 8.º — Responsabilidade pela assistência prestada nos aeroportos
+    - Suprime Artigo 9.º — Normas de qualidade para a assistência
+    - Suprime Artigo 10.º — Assistência prestada pelas transportadoras aéreas
+    - Suprime Artigo 11.º — Formação
+    - Suprime Artigo 12.º — Indemnização por perda ou dano de cadeira de rodas, outro equipamento de mobilidade ou dispositivo
+      de assistência
+    - Suprime Artigo 13.º — Proibição de exoneração
+    - Suprime Artigo 14.º — Organismo responsável pela execução e respectivas funções
+    - Suprime Artigo 15.º — Apresentação de reclamações
+    - Suprime Artigo 16.º — Sanções
 identifiers:
   celex: 32006R1107
   eli: http://data.europa.eu/eli/reg/2006/1107/oj
@@ -50,7 +104,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/398c5d9c-5c74-44e0-8419-9cb1b326a47b.0017
   content_url: http://publications.europa.eu/resource/cellar/88a98652-688f-47ff-b79a-e55231b96a2a.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1107-20060815
-  retrieved_at: '2026-10-22T02:40:40Z'
+  retrieved_at: '2026-10-22T15:04:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-21T02:49:19.704+01:00'
 integrity:
@@ -59,9 +113,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:40Z'
-  notes: Texto consolidado 02006R1107-20060815.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:04:55Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2006-1107.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -167,29 +221,19 @@ relationships:
   date: '2025-03-10'
 article_structure:
   article_count: 18
-  section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 5
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:40Z'
+  checked_at: '2026-10-22T15:04:55Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1107/2006 do Parlamento Europeu e do Conselho, de 5 de Julho de 2006
-
-> 2006R1107 — PT — 15.08.2006 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32006R1107R%2801%29) — [Rectificação, JO L 026, 26.1.2013, p. 34 (1107/2006)](http://publications.europa.eu/resource/celex/32006R1107R%2801%29)
-
-## REGULAMENTO (CE) N.º 1107/2006 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 5 de Julho de 2006
 

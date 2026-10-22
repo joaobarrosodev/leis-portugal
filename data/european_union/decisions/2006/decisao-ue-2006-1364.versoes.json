@@ -1,0 +1,543 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006D1364:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006D1364-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "2006-09-22",
+   "future": false,
+   "celex": "32006D1364",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9b1b4e978522b331",
+    "584c2762ca561e2c",
+    "dd51d11a2a0619dd",
+    "7094f4ca68fa92fc",
+    "1c599cd22fd771c0",
+    "063c96ec31c41fdb",
+    "955c11d81ccfa929",
+    "25e4730082065150",
+    "ff551f813d572a38",
+    "1b2f2dd636b4f810",
+    "edcd7e7cba6c5e8d",
+    "4c5c1129ebeaa7f5",
+    "a13abd8382169c38",
+    "4a7489f3a9af85fe",
+    "429c6ece44313535",
+    "0aad96174a1955c7",
+    "a146db3c36edd3c2",
+    "de2e791f04e881e7",
+    "cfc8dbe663be5fa9",
+    "0db0f583ba726284"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "02006D1364-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0517:por",
+     "title": "REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013",
+     "published": null,
+     "celex": "32013R0517"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Âmbito de aplicação",
+    "Altera Artigo 4.º — Prioridades de acção",
+    "Altera Artigo 18.º — Destinatários",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita REDES TRANSEUROPEIAS DE ENERGIA",
+    "Adita REDES DE ELECTRICIDADE",
+    "Adita REDES DE GÁS",
+    "Adita ANEXO II",
+    "Adita ANEXO III",
+    "Adita 1. Desenvolvimento de redes de electricidade em regiões isoladas",
+    "Adita 2. Desenvolvimento das ligações eléctricas entre os Estados-Membros",
+    "Adita 3. Desenvolvimento das ligações eléctricas internas nos Estados-Membros",
+    "Adita 4. Desenvolvimento das ligações eléctricas com países terceiros",
+    "Adita 5. Acções destinadas a melhorar o funcionamento das redes eléctricas interligadas no mercado interno",
+    "Adita 6. Introdução do gás natural em novas regiões",
+    "Adita 7. Desenvolvimento das ligações de gás necessárias ao funcionamento do mercado interno ou ao reforço da segurança do aprovisionamento, incluindo a ligação de redes de gás separadas",
+    "Adita 8. Desenvolvimento da capacidade de recepção de GNL e de armazenamento de gás natural",
+    "Adita 9. Desenvolvimento das capacidades de transporte de gás (através de gasodutos de adução)",
+    "Adita 10. Acções destinadas a melhorar o funcionamento das redes de gás interligadas no âmbito do mercado interno"
+   ],
+   "fragments": [
+    "f3229be4d6f84904",
+    "584c2762ca561e2c",
+    "b4319e5c78ee8f01",
+    "7094f4ca68fa92fc",
+    "64cc44f04e5b8b98",
+    "063c96ec31c41fdb",
+    "955c11d81ccfa929",
+    "25e4730082065150",
+    "ff551f813d572a38",
+    "1b2f2dd636b4f810",
+    "edcd7e7cba6c5e8d",
+    "4c5c1129ebeaa7f5",
+    "a13abd8382169c38",
+    "4a7489f3a9af85fe",
+    "429c6ece44313535",
+    "0aad96174a1955c7",
+    "a146db3c36edd3c2",
+    "de2e791f04e881e7",
+    "6077bc3f6cb7e2ea",
+    "d664376e2a8dcecd",
+    "84ac9bd7ab08b807",
+    "69001dbb628e2bf5",
+    "e270191011867ee2",
+    "852174729551523b",
+    "d406bbdeaf8e1720",
+    "4a8db3a4a0670481",
+    "babc720da291af49",
+    "720af75c92791b10",
+    "d406bbdeaf8e1720",
+    "86fa67c5ce8b2a5f",
+    "fe8976a0c40b685d",
+    "e4f505e2590480cf",
+    "142a5e7bb70c371b",
+    "f79f845a675e43e5",
+    "5215d2291c4a1f72",
+    "0b529582e26ab9d2",
+    "df71e23cc6ffaea3",
+    "1d03ad034791b335",
+    "30f59fc74251250c",
+    "ba32245caa2915ba",
+    "f63f6cd58d1dd95d",
+    "c28847aedb7d98a4"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "02006D1364-20140101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Âmbito de aplicação",
+    "Suprime Artigo 3.º — Objectivos",
+    "Suprime Artigo 4.º — Prioridades de acção",
+    "Suprime Artigo 5.º — Linhas de acção",
+    "Suprime Artigo 6.º — Projectos de interesse comum",
+    "Suprime Artigo 7.º — Projectos prioritários",
+    "Suprime Artigo 8.º — Projectos de interesse europeu",
+    "Suprime Artigo 9.º — Execução de projectos de interesse europeu",
+    "Suprime Artigo 10.º — Coordenador europeu",
+    "Suprime Artigo 11.º — Contexto mais favorável",
+    "Suprime Artigo 12.º — Efeitos sobre a concorrência",
+    "Suprime Artigo 13.º — Restrições",
+    "Suprime Artigo 14.º — Procedimento de comité",
+    "Suprime Artigo 15.º — Relatório",
+    "Suprime Artigo 16.º — Revogação",
+    "Suprime Artigo 17.º — Entrada em vigor",
+    "Suprime Artigo 18.º — Destinatários",
+    "Suprime ANEXO I",
+    "Suprime REDES TRANSEUROPEIAS DE ENERGIA",
+    "Suprime REDES DE ELECTRICIDADE",
+    "Suprime REDES DE GÁS",
+    "Suprime ANEXO II",
+    "Suprime ANEXO III",
+    "Suprime 1. Desenvolvimento de redes de electricidade em regiões isoladas",
+    "Suprime 2. Desenvolvimento das ligações eléctricas entre os Estados-Membros",
+    "Suprime 3. Desenvolvimento das ligações eléctricas internas nos Estados-Membros",
+    "Suprime 4. Desenvolvimento das ligações eléctricas com países terceiros",
+    "Suprime 5. Acções destinadas a melhorar o funcionamento das redes eléctricas interligadas no mercado interno",
+    "Suprime 6. Introdução do gás natural em novas regiões",
+    "Suprime 7. Desenvolvimento das ligações de gás necessárias ao funcionamento do mercado interno ou ao reforço da segurança do aprovisionamento, incluindo a ligação de redes de gás separadas",
+    "Suprime 8. Desenvolvimento da capacidade de recepção de GNL e de armazenamento de gás natural",
+    "Suprime 9. Desenvolvimento das capacidades de transporte de gás (através de gasodutos de adução)",
+    "Suprime 10. Acções destinadas a melhorar o funcionamento das redes de gás interligadas no âmbito do mercado interno",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "a50b661a39d69eb0"
+   ]
+  }
+ ],
+ "fragments": {
+  "9b1b4e978522b331": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Setembro de 2006\n\nque estabelece orientações para as redes transeuropeias de energia e revoga a Decisão 96/391/CE e a Decisão n.º 1229/2003/CE\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 156.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/25c14730-1f30-4337-bbac-d43256a0e313.0017.03/DOC_1#ntr1-L_2006262PT.01000101-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/25c14730-1f30-4337-bbac-d43256a0e313.0017.03/DOC_1#ntr2-L_2006262PT.01000101-E0002),\n\nConsiderando o seguinte:\n\n(1) Após a aprovação da Decisão n.º 1229/2003/CE do Parlamento Europeu e do Conselho, de 26 de Junho de 2003, que estabelece um conjunto de orientações respeitantes às redes transeuropeias no sector da energia [([^3])](http://publications.europa.eu/resource/cellar/25c14730-1f30-4337-bbac-d43256a0e313.0017.03/DOC_1#ntr3-L_2006262PT.01000101-E0003), surgiu a necessidade de integrar plenamente os novos Estados-Membros e os países aderentes e candidatos nestas orientações e de proceder a uma adaptação das mesmas à nova política de proximidade da União Europeia, conforme adequado.\n\n(2) As prioridades das redes transeuropeias de energia resultam da criação de um mercado interno da energia mais aberto e concorrencial, na sequência da aplicação da Directiva 2003/54/CE do Parlamento Europeu e do Conselho, de 26 de Junho de 2003, que estabelece regras comuns para o mercado interno da electricidade [([^4])](http://publications.europa.eu/resource/cellar/25c14730-1f30-4337-bbac-d43256a0e313.0017.03/DOC_1#ntr4-L_2006262PT.01000101-E0004), e da Directiva 2003/55/CE do Parlamento Europeu e do Conselho, de 26 de Junho de 2003, que estabelece regras comuns para o mercado interno de gás natural [([^5])](http://publications.europa.eu/resource/cellar/25c14730-1f30-4337-bbac-d43256a0e313.0017.03/DOC_1#ntr5-L_2006262PT.01000101-E0005). Estas prioridades dão seguimento às conclusões do Conselho Europeu de Estocolmo de 23 e 24 de Março de 2001 sobre o desenvolvimento das infra-estruturas necessárias ao funcionamento do mercado da energia. Deverão ser envidados esforços especiais para alcançar o objectivo de aumento da utilização de fontes de energia renováveis, como um contributo para a promoção de uma política de desenvolvimento sustentável. Todavia, tal objectivo deverá ser conseguido sem provocar perturbações excessivas do equilíbrio normal do mercado. Devem igualmente ser tidos em devida consideração os objectivos da política comunitária de transportes e, especificamente, a possibilidade de reduzir o tráfego rodoviário através da utilização de gasodutos.\n\n(3) A presente decisão contribui para uma maior aproximação do objectivo, acordado pelo Conselho Europeu de Barcelona em 15 e 16 de Março de 2002, relativo ao nível de interligação de electricidade entre os Estados-Membros, e para melhorar assim a fiabilidade e a integridade das redes e para garantir a segurança do aprovisionamento e o bom funcionamento do mercado interno.\n\n(4) Por norma, a construção e a manutenção das infra-estruturas do sector da energia deverão obedecer aos princípios do mercado. Tal é igualmente consentâneo com as regras comuns para a realização do mercado interno no sector da energia e com as regras comuns da legislação em matéria de concorrência, que têm como objectivo a criação de um mercado interno mais aberto e concorrencial no sector da energia. A ajuda financeira da Comunidade para a construção e manutenção deverá, por conseguinte, continuar a ter um carácter altamente excepcional, devendo tais excepções ser devidamente justificadas.\n\n(5) A construção e a manutenção das infra-estruturas no sector da energia deverão assegurar o funcionamento eficaz do mercado interno da energia, tendo devidamente em conta os actuais procedimentos de consulta às populações visadas, sem esquecer os critérios estratégicos e, quando apropriado, os critérios de serviço universal e as obrigações de serviço público.\n\n(6) Atendendo às potenciais sinergias entre as redes de gás natural e as redes de olefinas, deverá ser dada a devida importância ao desenvolvimento e à integração das redes de gases de olefinas, a fim de responder às necessidades de consumo destes gases por parte das indústrias comunitárias.\n\n(7) As prioridades das redes transeuropeias de energia resultam igualmente da importância crescente das redes transeuropeias de energia para a segurança e diversificação do aprovisionamento energético da Comunidade, integrando as redes energéticas dos novos Estados-Membros, dos países aderentes e dos países candidatos e assegurando o funcionamento coordenado das redes de energia na Europa e nos países vizinhos, após consulta aos Estados-Membros envolvidos. Na realidade, os países vizinhos da Comunidade desempenham um papel vital para a política energética desta. Estes países satisfazem a maior parte das necessidades da Comunidade em gás natural, são parceiros-chave para o trânsito de energia primária para a Comunidade e tornar-se-ão progressivamente intervenientes mais importantes nos mercados internos do gás e da electricidade da Comunidade.\n\n(8) Convém salientar, entre os projectos de redes transeuropeias de energia, os projectos prioritários que são de especial importância para o funcionamento do mercado interno da energia e para a segurança do aprovisionamento energético. Além disso, deverá ser aprovada uma declaração de interesse europeu para os projectos a que seja conferida a prioridade máxima, bem como, se for caso disso, um reforço da coordenação.\n\n(9) Para efeitos da recolha das informações requeridas nos termos da presente decisão, a Comissão e os Estados-Membros deverão, na medida do possível, utilizar as informações já disponíveis sobre os projectos declarados de interesse europeu, a fim de evitar uma duplicação de esforços. Tais informações podem, por exemplo, já estar disponíveis no contexto do Regulamento (CE) n.º 2236/95 do Conselho, de 18 de Setembro de 1995, que determina as regras gerais para a concessão de apoio financeiro comunitário no domínio das redes transeuropeias [([^6])](http://publications.europa.eu/resource/cellar/25c14730-1f30-4337-bbac-d43256a0e313.0017.03/DOC_1#ntr6-L_2006262PT.01000101-E0006), no contexto de outra legislação comunitária que preveja o co-financiamento de projectos relativos às redes transeuropeias e das decisões que aprovam projectos individuais ao abrigo da mesma legislação e, ainda, no contexto das Directivas 2003/54/CE e 2003/55/CE.\n\n(10) O procedimento de identificação de projectos de interesse comum no contexto das redes transeuropeias de energia deverá garantir a aplicação harmoniosa do Regulamento (CE) n.º 2236/95. Este procedimento deverá fazer uma distinção entre dois níveis: um primeiro nível, em que é estabelecido um número restrito de critérios para a identificação dos projectos, e um segundo nível, em que estes são descritos em pormenor, designado «especificações».\n\n(11) Deverá ser dada adequada prioridade ao financiamento ao abrigo do Regulamento (CE) n.º 2236/95 de projectos que sejam declarados de interesse europeu. Sempre que apresentem projectos ao abrigo de outros instrumentos financeiros comunitários, os Estados-Membros deverão dar particular atenção aos projectos que sejam declarados de interesse europeu.\n\n(12) Para a maioria dos projectos declarados de interesse europeu, um atraso significativo verificado ou previsível poderá ser um atraso com uma duração prevista de um a dois anos.\n\n(13) Dado ser provável que as especificações sejam sujeitas a alterações, estas apenas podem ser apresentadas a título indicativo. A Comissão deverá, por conseguinte, dispor de competências para a sua actualização. Atendendo a que os projectos podem ter implicações políticas, ambientais e económicas consideráveis, afigura-se importante encontrar um equilíbrio adequado entre controlo legislativo e flexibilidade quando são seleccionados os projectos que merecem o potencial apoio da Comunidade.\n\n(14) Quando se verificar existirem dificuldades de execução em projectos declarados de interesse europeu, em secções desses projectos ou em grupos desses projectos, um coordenador europeu poderá agir como facilitador encorajando a cooperação entre todas as partes interessadas e garantindo o adequado acompanhamento para manter a Comunidade informada dos progressos realizados. A pedido dos Estados-Membros envolvidos, os serviços de um coordenador europeu deverão ser igualmente colocados à disposição para outros projectos.\n\n(15) Os Estados-Membros deverão ser convidados a coordenar a execução de determinados projectos, especialmente projectos transfronteiriços ou secções de projectos transfronteiriços.\n\n(16) Deverá ser criado um contexto mais favorável ao desenvolvimento e à construção das redes transeuropeias de energia, principalmente proporcionando um estímulo para a cooperação técnica entre as entidades responsáveis pelas redes e facilitando a aplicação dos procedimentos de autorização relativos aos projectos de redes nos Estados-Membros, a fim de reduzir os atrasos e mobilizar, de forma adequada, os fundos, instrumentos e programas financeiros comunitários disponíveis para projectos de redes. A Comunidade deverá apoiar as medidas tomadas por cada Estado-Membro para alcançar esse objectivo.\n\n(17) Dado que o orçamento atribuído às redes transeuropeias de energia se destina principalmente a financiar estudos de viabilidade, são os fundos estruturais, os programas e os instrumentos financeiros comunitários que poderão possibilitar, se necessário, o financiamento dessas redes de interligação, em especial das redes inter-regionais.\n\n(18) Os projectos de interesse comum, as respectivas especificações e os projectos prioritários, nomeadamente os de interesse europeu, deverão ser identificados sem prejuízo dos resultados da avaliação do impacto ambiental dos projectos e dos planos ou programas.\n\n(19) As medidas necessárias à execução da presente decisão serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^7])](http://publications.europa.eu/resource/cellar/25c14730-1f30-4337-bbac-d43256a0e313.0017.03/DOC_1#ntr7-L_2006262PT.01000101-E0007).\n\n(20) A Comissão deverá elaborar periodicamente um relatório sobre a execução da presente decisão.\n\n(21) É provável que as informações que cumpre trocar com a Comissão ou transmitir a esta nos termos da presente decisão sejam, em larga medida, detidas por empresas. Consequentemente, para obter essas informações, os Estados-Membros poderão ter que cooperar com essas empresas.\n\n(22) Dado que a presente decisão abrange a mesma matéria e tem o mesmo âmbito que a Decisão 96/391/CE do Conselho, de 28 de Março de 1996, que determina um conjunto de acções destinadas a criar um contexto mais favorável ao desenvolvimento das redes transeuropeias no sector da energia [([^8])](http://publications.europa.eu/resource/cellar/25c14730-1f30-4337-bbac-d43256a0e313.0017.03/DOC_1#ntr8-L_2006262PT.01000101-E0008), e que a Decisão n.º 1229/2003/CE, estas duas decisões devem ser revogadas,\n\nADOPTARAM A PRESENTE DECISÃO:"
+  },
+  "584c2762ca561e2c": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente decisão define a natureza e o âmbito da acção comunitária no que diz respeito à definição de orientações para as redes transeuropeias de energia. Define também um conjunto de orientações que abrangem os objectivos, as prioridades e as grandes linhas de acção da Comunidade no domínio das redes transeuropeias de energia. Estas orientações identificam projectos de interesse comum e projectos prioritários, incluindo os de interesse europeu, no domínio das redes transeuropeias de electricidade e de gás."
+  },
+  "dd51d11a2a0619dd": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nA presente decisão é aplicável:\n\n1. Nas redes de electricidade: a) A todas as linhas de alta tensão, excepto as das redes de distribuição, bem como às ligações submarinas, desde que essa infra-estrutura seja utilizada para transporte ou ligação inter-regional ou internacional; b) A qualquer equipamento ou instalação essencial para o bom funcionamento do sistema em causa, incluindo os sistemas de protecção, monitorização e controlo;\n\na) A todas as linhas de alta tensão, excepto as das redes de distribuição, bem como às ligações submarinas, desde que essa infra-estrutura seja utilizada para transporte ou ligação inter-regional ou internacional;\n\nb) A qualquer equipamento ou instalação essencial para o bom funcionamento do sistema em causa, incluindo os sistemas de protecção, monitorização e controlo;\n\n2. Nas redes de gás natural (que transportem gás natural ou gases de olefinas): a) A gasodutos de alta pressão, exceptuando os das redes de distribuição, que permitam o abastecimento de regiões da Comunidade a partir de fontes internas ou externas; b) A instalações subterrâneas de armazenamento ligadas aos gasodutos de alta pressão acima referidos; c) A instalações de recepção, armazenamento e regaseificação de gás natural liquefeito (GNL), bem como a transportadores de GNL, em função das capacidades a alimentar; d) A qualquer equipamento ou instalação essencial para o bom funcionamento do sistema em causa, incluindo os sistemas de protecção, monitorização e controlo.\n\na) A gasodutos de alta pressão, exceptuando os das redes de distribuição, que permitam o abastecimento de regiões da Comunidade a partir de fontes internas ou externas;\n\nb) A instalações subterrâneas de armazenamento ligadas aos gasodutos de alta pressão acima referidos;\n\nc) A instalações de recepção, armazenamento e regaseificação de gás natural liquefeito (GNL), bem como a transportadores de GNL, em função das capacidades a alimentar;\n\nd) A qualquer equipamento ou instalação essencial para o bom funcionamento do sistema em causa, incluindo os sistemas de protecção, monitorização e controlo."
+  },
+  "7094f4ca68fa92fc": {
+   "fragment_id": "Artigo 3.º — Objectivos",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos\n\nA Comunidade promove a interligação, a interoperabilidade e o desenvolvimento das redes transeuropeias de energia, bem como o acesso a essas redes, de acordo com o direito comunitário em vigor, a fim de:\n\na) Incentivar o bom funcionamento e o desenvolvimento do mercado interno em geral e do mercado interno da energia em especial, sem deixar de incentivar a produção, transporte, distribuição e utilização racionais dos recursos energéticos, bem como o desenvolvimento e ligação dos recursos energéticos renováveis, tendo em vista reduzir o custo da energia para os consumidores e contribuir para a diversificação das fontes de energia;\n\nb) Facilitar o desenvolvimento e reduzir o isolamento das regiões menos favorecidas e insulares da Comunidade, contribuindo deste modo para o reforço da coesão económica e social;\n\nc) Reforçar a segurança do aprovisionamento energético, por exemplo através do estreitamento das relações com países terceiros no sector da energia, no interesse mútuo de todas as partes envolvidas, designadamente no âmbito do Tratado da Carta da Energia e dos acordos de cooperação celebrados pela Comunidade;\n\nd) Contribuir para o desenvolvimento sustentável e para a protecção do ambiente, inclusivamente através da introdução de energias renováveis e da redução dos riscos ambientais associados ao transporte e transmissão de energia."
+  },
+  "1c599cd22fd771c0": {
+   "fragment_id": "Artigo 4.º — Prioridades de acção",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Prioridades de acção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prioridades de acção\n\nAs prioridades da acção comunitária em matéria de redes transeuropeias de energia são compatíveis com o desenvolvimento sustentável e são as seguintes:\n\n1. Para as redes de electricidade e de gás natural: a) Adaptar e desenvolver as redes de energia para apoio ao funcionamento do mercado interno da energia e, em especial, resolver os problemas de estrangulamentos, particularmente estrangulamentos transfronteiriços, congestionamentos e ligações em falta, tendo em conta as necessidades resultantes do funcionamento do mercado interno da electricidade e do gás natural e do alargamento da União Europeia; b) Criar redes de energia em regiões insulares, isoladas, periféricas e ultraperiféricas, promovendo simultaneamente a diversificação das fontes de energia e a utilização de fontes de energia renováveis, a par da interligação dessas redes, se necessário;\n\na) Adaptar e desenvolver as redes de energia para apoio ao funcionamento do mercado interno da energia e, em especial, resolver os problemas de estrangulamentos, particularmente estrangulamentos transfronteiriços, congestionamentos e ligações em falta, tendo em conta as necessidades resultantes do funcionamento do mercado interno da electricidade e do gás natural e do alargamento da União Europeia;\n\nb) Criar redes de energia em regiões insulares, isoladas, periféricas e ultraperiféricas, promovendo simultaneamente a diversificação das fontes de energia e a utilização de fontes de energia renováveis, a par da interligação dessas redes, se necessário;\n\n2. Para as redes de electricidade: a) Adaptar e desenvolver as redes, a fim de facilitar a integração e ligação da produção de energias renováveis; b) Assegurar a interoperabilidade das redes de electricidade na Comunidade e destas com as redes nos países aderentes e candidatos e noutros países da Europa e nas bacias do Mediterrâneo e do mar Negro;\n\na) Adaptar e desenvolver as redes, a fim de facilitar a integração e ligação da produção de energias renováveis;\n\nb) Assegurar a interoperabilidade das redes de electricidade na Comunidade e destas com as redes nos países aderentes e candidatos e noutros países da Europa e nas bacias do Mediterrâneo e do mar Negro;\n\n3. Para as redes de gás natural: a) Desenvolver redes de gás natural, a fim de satisfazer as necessidades de consumo de gás natural da Comunidade e de controlar os seus sistemas de aprovisionamento de gás natural; b) Assegurar a interoperabilidade das redes de gás natural na Comunidade e destas com as redes nos países aderentes e candidatos e nos outros países da Europa e nas bacias do Mediterrâneo, do mar Negro e do mar Cáspio, bem como nas regiões do Médio Oriente e do Golfo, e diversificar as fontes de gás natural e as vias de aprovisionamento.\n\na) Desenvolver redes de gás natural, a fim de satisfazer as necessidades de consumo de gás natural da Comunidade e de controlar os seus sistemas de aprovisionamento de gás natural;\n\nb) Assegurar a interoperabilidade das redes de gás natural na Comunidade e destas com as redes nos países aderentes e candidatos e nos outros países da Europa e nas bacias do Mediterrâneo, do mar Negro e do mar Cáspio, bem como nas regiões do Médio Oriente e do Golfo, e diversificar as fontes de gás natural e as vias de aprovisionamento."
+  },
+  "063c96ec31c41fdb": {
+   "fragment_id": "Artigo 5.º — Linhas de acção",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Linhas de acção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Linhas de acção\n\nSão as seguintes as grandes linhas de acção da Comunidade em matéria de redes transeuropeias de energia:\n\na) Identificação dos projectos de interesse comum e dos projectos prioritários, incluindo os de interesse europeu;\n\nb) Criação de um contexto mais favorável ao desenvolvimento dessas redes."
+  },
+  "955c11d81ccfa929": {
+   "fragment_id": "Artigo 6.º — Projectos de interesse comum",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Projectos de interesse comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Projectos de interesse comum\n\n1. São os seguintes os critérios gerais a aplicar na tomada de decisões sobre a identificação, a alteração, as especificações ou os pedidos de actualização de projectos de interesse comum:\n\na) Os projectos devem inscrever-se no âmbito de aplicação do artigo 2.º;\n\nb) Os projectos devem satisfazer os objectivos e as prioridades de acção estabelecidos nos artigos 3.º e 4.º, respectivamente;\n\nc) Os projectos devem apresentar viabilidade económica potencial.\n\nA avaliação da viabilidade económica deve basear-se numa análise custos/benefícios que tenha em consideração todos os custos e benefícios, inclusivamente a médio e/ou longo prazo, ligados aos aspectos ambientais, de segurança do aprovisionamento e de contribuição para a coesão económica e social. Os projectos de interesse comum que abranjam o território de determinado Estado-Membro exigem a aprovação desse mesmo Estado-Membro.\n\n2. No anexo II, enunciam-se critérios adicionais para a identificação dos projectos de interesse comum. Todas as alterações aos critérios adicionais para a identificação de projectos de interesse comum definidos no anexo II devem ser aprovadas nos termos do artigo 251.º do Tratado.\n\n3. Só são elegíveis para o apoio financeiro comunitário previsto no Regulamento (CE) n.º 2236/95 os projectos enumerados no anexo III da presente decisão que preencham os critérios estabelecidos no n.º 1 do presente artigo e no anexo II da presente decisão.\n\n4. As especificações indicativas dos projectos, incluindo a descrição pormenorizada dos mesmos e, se necessário, a respectiva descrição geográfica, constam do anexo III. Estas especificações devem ser actualizadas nos termos do n.º 2 do artigo 14.º As actualizações são de carácter técnico e devem limitar-se a alterações técnicas dos projectos, a modificações de uma parte do traçado especificado ou a uma adaptação limitada da localização do projecto.\n\n5. Os Estados-Membros tomam todas as medidas que considerem necessárias para facilitar e acelerar a realização dos projectos de interesse comum e minimizar os atrasos, no respeito da legislação comunitária e das convenções internacionais em matéria de ambiente, em particular no respeitante aos projectos que tenham sido declarados como sendo de interesse europeu. Os procedimentos de autorização necessários devem ser rapidamente concluídos.\n\n6. Caso determinados projectos de interesse comum se situem parcialmente no território de países terceiros a Comissão pode, mediante acordo com os Estados-Membros envolvidos, apresentar propostas, se necessário no âmbito da gestão dos acordos entre a Comunidade e esses países terceiros e em conformidade com o disposto no Tratado da Carta da Energia e noutros acordos multilaterais com países terceiros partes nesse Tratado, destinadas a que os países terceiros em causa reconheçam também esses projectos como sendo de interesse mútuo, a fim de facilitar a sua realização."
+  },
+  "25e4730082065150": {
+   "fragment_id": "Artigo 7.º — Projectos prioritários",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Projectos prioritários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Projectos prioritários\n\n1. São prioritários para a concessão do apoio financeiro comunitário previsto no Regulamento (CE) n.º 2236/95 os projectos de interesse comum referidos no n.º 3 do artigo 6.º da presente decisão e abrangidos pelos eixos para projectos prioritários enumerados no anexo I da presente decisão. As alterações ao anexo I devem ser aprovadas nos termos do artigo 251.º do Tratado.\n\n2. No que se refere aos projectos de investimento transfronteiriços, os Estados-Membros tomam as medidas necessárias para assegurar que, no âmbito dos procedimentos nacionais de autorização, o facto de esses projectos aumentarem a capacidade de interligação entre dois ou mais Estados-Membros e, por conseguinte, reforçarem a segurança do aprovisionamento à escala europeia seja um critério de avaliação pelas autoridades nacionais competentes.\n\n3. No âmbito das suas respectivas esferas de competência, os Estados-Membros envolvidos e a Comissão devem, em conjunto com as empresas responsáveis, promover a execução dos projectos prioritários, especialmente dos projectos transfronteiriços.\n\n4. Os projectos prioritários devem ser compatíveis com o desenvolvimento sustentável e preencher os seguintes critérios:\n\na) Devem ter um impacto significativo sobre o funcionamento competitivo do mercado interno; e/ou\n\nb) Devem reforçar a segurança do aprovisionamento da Comunidade; e/ou\n\nc) Devem traduzir-se numa maior utilização das energias renováveis."
+  },
+  "ff551f813d572a38": {
+   "fragment_id": "Artigo 8.º — Projectos de interesse europeu",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Projectos de interesse europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Projectos de interesse europeu\n\n1. Devem ser declarados de interesse europeu os projectos integrados em eixos de projectos prioritários referidos no artigo 7.º que sejam projectos transfronteiriços ou tenham um impacto significativo na capacidade de transporte transfronteiriço. Esses projectos são definidos no anexo I.\n\n2. Na selecção de projectos no âmbito do orçamento consagrado às redes transeuropeias nos termos do artigo 10.º do Regulamento (CE) n.º 2236/95, deve ser conferida adequada prioridade aos projectos declarados de interesse europeu.\n\n3. Na selecção de projectos no âmbito de outros fundos de co-financiamento comunitário, deve ser dada particular atenção aos projectos declarados de interesse europeu.\n\n4. Caso se verifique que o avanço de um projecto declarado de interesse europeu tem ou poderá vir a ter um atraso significativo, a Comissão pode solicitar aos Estados-Membros envolvidos que, num prazo de três meses, dêem conta das razões desse atraso.\n\nNo caso dos projectos declarados de interesse europeu para os quais tenha sido designado um coordenador europeu, este deve fazer constar do seu relatório as razões do atraso.\n\n5. Cinco anos após a conclusão de um projecto declarado de interesse europeu ou de uma das suas secções, a Comissão, assistida pelo comité referido no n.º 1 do artigo 14.º, deve levar a cabo uma avaliação desse projecto que inclua o impacto socioeconómico, o impacto ambiental, o impacto nas trocas comerciais entre os Estados-Membros e o impacto na coesão territorial e no desenvolvimento sustentável. A Comissão informa do resultado desta avaliação o comité referido no n.º 1 do artigo 14.º\n\n6. No caso dos projectos declarados de interesse europeu e, em particular, das secções transfronteiriças de tais projectos, os Estados-Membros tomam as medidas necessárias para assegurar:\n\n— o regular intercâmbio das informações relevantes, e\n\n— a organização de reuniões de coordenação conjuntas, se for caso disso.\n\nAs reuniões de coordenação conjuntas devem ser organizadas em função dos requisitos específicos do projecto, nomeadamente os referentes à sua fase de desenvolvimento e às dificuldades previstas ou encontradas. As reuniões de coordenação conjuntas devem incidir, em particular, nos procedimentos de avaliação e consulta pública. Os Estados-Membros envolvidos asseguram que a Comissão seja informada das reuniões de coordenação conjuntas e do intercâmbio de informações."
+  },
+  "1b2f2dd636b4f810": {
+   "fragment_id": "Artigo 9.º — Execução de projectos de interesse europeu",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Execução de projectos de interesse europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Execução de projectos de interesse europeu\n\n1. Os projectos de interesse europeu devem ser executados rapidamente.\n\nAté 12 de Abril de 2007, e com base num projecto de calendário transmitido para o efeito pela Comissão, os Estados-Membros apresentam à Comissão um calendário actualizado e indicativo da conclusão desses projectos, incluindo, desde que disponíveis, pormenores relativos aos seguintes aspectos:\n\na) Previsão da passagem do projecto pelas várias fases do processo de aprovação da planificação;\n\nb) Calendário relativo à fase de viabilidade e de concepção;\n\nc) Construção do projecto; e\n\nd) Entrada em serviço do projecto.\n\n2. A Comissão, em estreita colaboração com o comité referido no n.º 1 do artigo 14.º, apresenta, de dois em dois anos, um relatório sobre os progressos verificados relativamente aos projectos referidos no n.º 1.\n\nNo caso dos projectos declarados de interesse europeu para os quais tenha sido designado um coordenador europeu, os relatórios anuais apresentados pelo coordenador europeu substituem os relatórios acima referidos."
+  },
+  "edcd7e7cba6c5e8d": {
+   "fragment_id": "Artigo 10.º — Coordenador europeu",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Coordenador europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Coordenador europeu\n\n1. Caso um projecto declarado de interesse europeu sofra atrasos significativos ou seja afectado por dificuldades de execução, incluindo situações em que estejam envolvidos países terceiros, a Comissão pode, de acordo com os Estados-Membros envolvidos e após consulta ao Parlamento Europeu, designar um coordenador europeu. Se necessário, os Estados-Membros podem igualmente solicitar que a Comissão designe um coordenador europeu para outros projectos relativos às redes transeuropeias de energia.\n\n2. O coordenador europeu é escolhido, em particular, com base na sua experiência das instituições europeias e do seu conhecimento das questões de política energética e de financiamento e avaliação socioeconómica e ambiental de grandes projectos.\n\n3. A decisão de designação do coordenador europeu deve precisar as normas de exercício das suas funções.\n\n4. Cabe ao coordenador europeu:\n\na) Promover a dimensão europeia do projecto e o diálogo transfronteiriço entre os promotores do projecto e as pessoas interessadas;\n\nb) Contribuir para a coordenação dos procedimentos nacionais de consulta das pessoas interessadas; e\n\nc) Apresentar anualmente à Comissão um relatório sobre o avanço do projecto ou projectos para que foi designado e sobre quaisquer dificuldades e obstáculos susceptíveis de gerar atrasos significativos. A Comissão transmite estes relatórios aos Estados-Membros envolvidos.\n\n5. Os Estados-Membros envolvidos devem cooperar com o coordenador europeu na execução das funções referidas no n.º 4.\n\n6. A Comissão pode solicitar o parecer do coordenador europeu no contexto do exame de pedidos de financiamento comunitário para projectos ou grupos de projectos para os quais tenha sido designado.\n\n7. A fim de evitar encargos administrativos desnecessários, o nível de coordenação deve ser proporcional aos custos do projecto."
+  },
+  "4c5c1129ebeaa7f5": {
+   "fragment_id": "Artigo 11.º — Contexto mais favorável",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Contexto mais favorável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contexto mais favorável\n\n1. A fim de contribuir para a criação de um contexto mais favorável ao desenvolvimento das redes transeuropeias de energia e sua interoperabilidade, a Comunidade tem em conta os esforços efectuados pelos Estados-Membros para alcançar este objectivo, atribui a maior importância às medidas a seguir indicadas e procede à sua promoção, consoante as necessidades:\n\na) Cooperação técnica entre as entidades responsáveis pelas redes transeuropeias de energia, em especial pelo bom funcionamento das ligações referidas nos pontos 1, 2 e 7 do anexo II;\n\nb) Facilitação da execução dos procedimentos de autorização de projectos de redes transeuropeias de energia, a fim de reduzir os atrasos, em particular no respeitante a projectos declarados de interesse europeu;\n\nc) Prestação de assistência a projectos de interesse comum através dos fundos, instrumentos e programas financeiros comunitários aplicáveis a essas redes.\n\n2. A Comissão, em estreita colaboração com os Estados-Membros envolvidos, toma todas as iniciativas para promover a coordenação das actividades referidas no n.º 1.\n\n3. As medidas necessárias ao desenvolvimento das actividades referidas nas alíneas a) e b) do n.º 1 são aprovadas pela Comissão nos termos do n.º 2 do artigo 14.º"
+  },
+  "a13abd8382169c38": {
+   "fragment_id": "Artigo 12.º — Efeitos sobre a concorrência",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Efeitos sobre a concorrência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Efeitos sobre a concorrência\n\nNa análise dos projectos, são tidos em conta os seus efeitos sobre a concorrência e sobre a segurança do aprovisionamento. O financiamento privado ou o financiamento pelos operadores económicos envolvidos deve constituir a principal fonte de financiamento e ser incentivado. Deve ser evitada toda e qualquer distorção da concorrência entre os operadores do mercado, de acordo com as disposições do Tratado."
+  },
+  "4a7489f3a9af85fe": {
+   "fragment_id": "Artigo 13.º — Restrições",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Restrições\n\n1. A presente decisão em nada prejudica os compromissos financeiros assumidos pelos Estados-Membros ou pela Comunidade.\n\n2. A presente decisão em nada prejudica os resultados da avaliação do impacto ambiental dos projectos, planos ou programas que definem o futuro enquadramento da autorização desses projectos. Os resultados da avaliação do impacto ambiental, caso esta seja necessária nos termos da legislação comunitária aplicável, devem ser tidos em consideração antes de ser tomada a decisão de execução dos projectos nos termos da legislação comunitária relevante."
+  },
+  "429c6ece44313535": {
+   "fragment_id": "Artigo 14.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Procedimento de comité\n\n1. A Comissão é assistida por um comité.\n\n2. Sempre que seja feita referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/486/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "0aad96174a1955c7": {
+   "fragment_id": "Artigo 15.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Relatório\n\nDe dois em dois anos, a Comissão deve elaborar um relatório sobre a execução da presente decisão, que apresentará ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social Europeu e ao Comité das Regiões.\n\nNesse relatório, deve atender-se à execução e aos progressos efectuados na realização dos projectos prioritários relacionados com as ligações transfronteiriças a que se referem os pontos 2, 4 e 7 do anexo II, bem como às respectivas modalidades de financiamento, em especial no que diz respeito à contribuição do financiamento comunitário."
+  },
+  "a146db3c36edd3c2": {
+   "fragment_id": "Artigo 16.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Revogação\n\nSão revogadas a Decisão 96/391/CE e a Decisão n.º 1229/2003/CE."
+  },
+  "de2e791f04e881e7": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nA presente decisão entra em vigor 20 dias após a data da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "cfc8dbe663be5fa9": {
+   "fragment_id": "Artigo 18.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Estrasburgo, em 6 de Setembro de 2006.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BORRELL FONTELLES**\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**P. LEHTOMÄKI**\n\n---"
+  },
+  "0db0f583ba726284": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/25c14730-1f30-4337-bbac-d43256a0e313.0017.03/DOC_1#ntc1-L_2006262PT.01000101-E0001) [JO C 241 de 28.9.2004, p. 17](http://publications.europa.eu/resource/oj/JOC_2004_241_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/25c14730-1f30-4337-bbac-d43256a0e313.0017.03/DOC_1#ntc2-L_2006262PT.01000101-E0002) Parecer do Parlamento Europeu de 7 de Junho de 2005 ([JO C 124 E de 25.5.2006, p. 68](http://publications.europa.eu/resource/oj/JOC_2006_124_E_TOC)), posição comum do Conselho de 1 de Dezembro de 2005 ([JO C 80 E de 4.4.2006, p. 1](http://publications.europa.eu/resource/oj/JOC_2006_080_E_TOC)), posição do Parlamento Europeu de 4 de Abril de 2006 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 24 de Julho de 2006.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/25c14730-1f30-4337-bbac-d43256a0e313.0017.03/DOC_1#ntc3-L_2006262PT.01000101-E0003) [JO L 176 de 15.7.2003, p. 11](http://publications.europa.eu/resource/oj/JOL_2003_176_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/25c14730-1f30-4337-bbac-d43256a0e313.0017.03/DOC_1#ntc4-L_2006262PT.01000101-E0004) [JO L 176 de 15.7.2003, p. 37](http://publications.europa.eu/resource/oj/JOL_2003_176_R_TOC). Directiva alterada pela Directiva 2004/85/CE do Conselho ([JO L 236 de 7.7.2004, p. 10](http://publications.europa.eu/resource/oj/JOL_2004_236_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/25c14730-1f30-4337-bbac-d43256a0e313.0017.03/DOC_1#ntc5-L_2006262PT.01000101-E0005) [JO L 176 de 15.7.2003, p. 57](http://publications.europa.eu/resource/oj/JOL_2003_176_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/25c14730-1f30-4337-bbac-d43256a0e313.0017.03/DOC_1#ntc6-L_2006262PT.01000101-E0006) [JO L 228 de 23.9.1995, p. 1](http://publications.europa.eu/resource/oj/JOL_1995_228_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1159/2005 do Parlamento Europeu e do Conselho ([JO L 191 de 22.7.2005, p. 16](http://publications.europa.eu/resource/oj/JOL_2005_191_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/25c14730-1f30-4337-bbac-d43256a0e313.0017.03/DOC_1#ntc7-L_2006262PT.01000101-E0007) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC). Decisão alterada pela Decisão 2006/512/CE ([JO L 200 de 22.7.2006, p. 11](http://publications.europa.eu/resource/oj/JOL_2006_200_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/25c14730-1f30-4337-bbac-d43256a0e313.0017.03/DOC_1#ntc8-L_2006262PT.01000101-E0008) [JO L 161 de 29.6.1996, p. 154](http://publications.europa.eu/resource/oj/JOL_1996_161_R_TOC)."
+  },
+  "f3229be4d6f84904": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Setembro de 2006\n\nque estabelece orientações para as redes transeuropeias de energia e revoga a Decisão 96/391/CE e a Decisão n.º 1229/2003/CE\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 156.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/5ab6ce00-1195-452b-801f-e3c24a833240.0018.04/DOC_1#E0001)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/5ab6ce00-1195-452b-801f-e3c24a833240.0018.04/DOC_1#E0002)),\n\n(1) Após a aprovação da Decisão n.º 1229/2003/CE do Parlamento Europeu e do Conselho, de 26 de Junho de 2003, que estabelece um conjunto de orientações respeitantes às redes transeuropeias no sector da energia ([^3^](http://publications.europa.eu/resource/cellar/5ab6ce00-1195-452b-801f-e3c24a833240.0018.04/DOC_1#E0003)), surgiu a necessidade de integrar plenamente os novos Estados-Membros e os países aderentes e candidatos nestas orientações e de proceder a uma adaptação das mesmas à nova política de proximidade da União Europeia, conforme adequado.\n\n(2) As prioridades das redes transeuropeias de energia resultam da criação de um mercado interno da energia mais aberto e concorrencial, na sequência da aplicação da Directiva 2003/54/CE do Parlamento Europeu e do Conselho, de 26 de Junho de 2003, que estabelece regras comuns para o mercado interno da electricidade ([^4^](http://publications.europa.eu/resource/cellar/5ab6ce00-1195-452b-801f-e3c24a833240.0018.04/DOC_1#E0004)), e da Directiva 2003/55/CE do Parlamento Europeu e do Conselho, de 26 de Junho de 2003, que estabelece regras comuns para o mercado interno de gás natural ([^5^](http://publications.europa.eu/resource/cellar/5ab6ce00-1195-452b-801f-e3c24a833240.0018.04/DOC_1#E0005)). Estas prioridades dão seguimento às conclusões do Conselho Europeu de Estocolmo de 23 e 24 de Março de 2001 sobre o desenvolvimento das infra-estruturas necessárias ao funcionamento do mercado da energia. Deverão ser envidados esforços especiais para alcançar o objectivo de aumento da utilização de fontes de energia renováveis, como um contributo para a promoção de uma política de desenvolvimento sustentável. Todavia, tal objectivo deverá ser conseguido sem provocar perturbações excessivas do equilíbrio normal do mercado. Devem igualmente ser tidos em devida consideração os objectivos da política comunitária de transportes e, especificamente, a possibilidade de reduzir o tráfego rodoviário através da utilização de gasodutos.\n\n(3) A presente decisão contribui para uma maior aproximação do objectivo, acordado pelo Conselho Europeu de Barcelona em 15 e 16 de Março de 2002, relativo ao nível de interligação de electricidade entre os Estados-Membros, e para melhorar assim a fiabilidade e a integridade das redes e para garantir a segurança do aprovisionamento e o bom funcionamento do mercado interno.\n\n(4) Por norma, a construção e a manutenção das infra-estruturas do sector da energia deverão obedecer aos princípios do mercado. Tal é igualmente consentâneo com as regras comuns para a realização do mercado interno no sector da energia e com as regras comuns da legislação em matéria de concorrência, que têm como objectivo a criação de um mercado interno mais aberto e concorrencial no sector da energia. A ajuda financeira da Comunidade para a construção e manutenção deverá, por conseguinte, continuar a ter um carácter altamente excepcional, devendo tais excepções ser devidamente justificadas.\n\n(5) A construção e a manutenção das infra-estruturas no sector da energia deverão assegurar o funcionamento eficaz do mercado interno da energia, tendo devidamente em conta os actuais procedimentos de consulta às populações visadas, sem esquecer os critérios estratégicos e, quando apropriado, os critérios de serviço universal e as obrigações de serviço público.\n\n(6) Atendendo às potenciais sinergias entre as redes de gás natural e as redes de olefinas, deverá ser dada a devida importância ao desenvolvimento e à integração das redes de gases de olefinas, a fim de responder às necessidades de consumo destes gases por parte das indústrias comunitárias.\n\n(7) As prioridades das redes transeuropeias de energia resultam igualmente da importância crescente das redes transeuropeias de energia para a segurança e diversificação do aprovisionamento energético da Comunidade, integrando as redes energéticas dos novos Estados-Membros, dos países aderentes e dos países candidatos e assegurando o funcionamento coordenado das redes de energia na Europa e nos países vizinhos, após consulta aos Estados-Membros envolvidos. Na realidade, os países vizinhos da Comunidade desempenham um papel vital para a política energética desta. Estes países satisfazem a maior parte das necessidades da Comunidade em gás natural, são parceiros-chave para o trânsito de energia primária para a Comunidade e tornar-se-ão progressivamente intervenientes mais importantes nos mercados internos do gás e da electricidade da Comunidade.\n\n(8) Convém salientar, entre os projectos de redes transeuropeias de energia, os projectos prioritários que são de especial importância para o funcionamento do mercado interno da energia e para a segurança do aprovisionamento energético. Além disso, deverá ser aprovada uma declaração de interesse europeu para os projectos a que seja conferida a prioridade máxima, bem como, se for caso disso, um reforço da coordenação.\n\n(9) Para efeitos da recolha das informações requeridas nos termos da presente decisão, a Comissão e os Estados-Membros deverão, na medida do possível, utilizar as informações já disponíveis sobre os projectos declarados de interesse europeu, a fim de evitar uma duplicação de esforços. Tais informações podem, por exemplo, já estar disponíveis no contexto do Regulamento (CE) n.º 2236/95 do Conselho, de 18 de Setembro de 1995, que determina as regras gerais para a concessão de apoio financeiro comunitário no domínio das redes transeuropeias ([^6^](http://publications.europa.eu/resource/cellar/5ab6ce00-1195-452b-801f-e3c24a833240.0018.04/DOC_1#E0006)), no contexto de outra legislação comunitária que preveja o co-financiamento de projectos relativos às redes transeuropeias e das decisões que aprovam projectos individuais ao abrigo da mesma legislação e, ainda, no contexto das Directivas 2003/54/CE e 2003/55/CE.\n\n(10) O procedimento de identificação de projectos de interesse comum no contexto das redes transeuropeias de energia deverá garantir a aplicação harmoniosa do Regulamento (CE) n.º 2236/95. Este procedimento deverá fazer uma distinção entre dois níveis: um primeiro nível, em que é estabelecido um número restrito de critérios para a identificação dos projectos, e um segundo nível, em que estes são descritos em pormenor, designado «especificações».\n\n(11) Deverá ser dada adequada prioridade ao financiamento ao abrigo do Regulamento (CE) n.º 2236/95 de projectos que sejam declarados de interesse europeu. Sempre que apresentem projectos ao abrigo de outros instrumentos financeiros comunitários, os Estados-Membros deverão dar particular atenção aos projectos que sejam declarados de interesse europeu.\n\n(12) Para a maioria dos projectos declarados de interesse europeu, um atraso significativo verificado ou previsível poderá ser um atraso com uma duração prevista de um a dois anos.\n\n(13) Dado ser provável que as especificações sejam sujeitas a alterações, estas apenas podem ser apresentadas a título indicativo. A Comissão deverá, por conseguinte, dispor de competências para a sua actualização. Atendendo a que os projectos podem ter implicações políticas, ambientais e económicas consideráveis, afigura-se importante encontrar um equilíbrio adequado entre controlo legislativo e flexibilidade quando são seleccionados os projectos que merecem o potencial apoio da Comunidade.\n\n(14) Quando se verificar existirem dificuldades de execução em projectos declarados de interesse europeu, em secções desses projectos ou em grupos desses projectos, um coordenador europeu poderá agir como facilitador encorajando a cooperação entre todas as partes interessadas e garantindo o adequado acompanhamento para manter a Comunidade informada dos progressos realizados. A pedido dos Estados-Membros envolvidos, os serviços de um coordenador europeu deverão ser igualmente colocados à disposição para outros projectos.\n\n(15) Os Estados-Membros deverão ser convidados a coordenar a execução de determinados projectos, especialmente projectos transfronteiriços ou secções de projectos transfronteiriços.\n\n(16) Deverá ser criado um contexto mais favorável ao desenvolvimento e à construção das redes transeuropeias de energia, principalmente proporcionando um estímulo para a cooperação técnica entre as entidades responsáveis pelas redes e facilitando a aplicação dos procedimentos de autorização relativos aos projectos de redes nos Estados-Membros, a fim de reduzir os atrasos e mobilizar, de forma adequada, os fundos, instrumentos e programas financeiros comunitários disponíveis para projectos de redes. A Comunidade deverá apoiar as medidas tomadas por cada Estado-Membro para alcançar esse objectivo.\n\n(17) Dado que o orçamento atribuído às redes transeuropeias de energia se destina principalmente a financiar estudos de viabilidade, são os fundos estruturais, os programas e os instrumentos financeiros comunitários que poderão possibilitar, se necessário, o financiamento dessas redes de interligação, em especial das redes inter-regionais.\n\n(18) Os projectos de interesse comum, as respectivas especificações e os projectos prioritários, nomeadamente os de interesse europeu, deverão ser identificados sem prejuízo dos resultados da avaliação do impacto ambiental dos projectos e dos planos ou programas.\n\n(19) As medidas necessárias à execução da presente decisão serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/5ab6ce00-1195-452b-801f-e3c24a833240.0018.04/DOC_1#E0007)).\n\n(20) A Comissão deverá elaborar periodicamente um relatório sobre a execução da presente decisão.\n\n(21) É provável que as informações que cumpre trocar com a Comissão ou transmitir a esta nos termos da presente decisão sejam, em larga medida, detidas por empresas. Consequentemente, para obter essas informações, os Estados-Membros poderão ter que cooperar com essas empresas.\n\n(22) Dado que a presente decisão abrange a mesma matéria e tem o mesmo âmbito que a Decisão 96/391/CE do Conselho, de 28 de Março de 1996, que determina um conjunto de acções destinadas a criar um contexto mais favorável ao desenvolvimento das redes transeuropeias no sector da energia ([^8^](http://publications.europa.eu/resource/cellar/5ab6ce00-1195-452b-801f-e3c24a833240.0018.04/DOC_1#E0008)), e que a Decisão n.º 1229/2003/CE, estas duas decisões devem ser revogadas,\n\nADOPTARAM A PRESENTE DECISÃO:"
+  },
+  "b4319e5c78ee8f01": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nA presente decisão é aplicável:\n\n1. Nas redes de electricidade:\n\na) A todas as linhas de alta tensão, excepto as das redes de distribuição, bem como às ligações submarinas, desde que essa infra-estrutura seja utilizada para transporte ou ligação inter-regional ou internacional;\n\nb) A qualquer equipamento ou instalação essencial para o bom funcionamento do sistema em causa, incluindo os sistemas de protecção, monitorização e controlo;\n\n2. Nas redes de gás natural (que transportem gás natural ou gases de olefinas):\n\na) A gasodutos de alta pressão, exceptuando os das redes de distribuição, que permitam o abastecimento de regiões da Comunidade a partir de fontes internas ou externas;\n\nb) A instalações subterrâneas de armazenamento ligadas aos gasodutos de alta pressão acima referidos;\n\nc) A instalações de recepção, armazenamento e regaseificação de gás natural liquefeito (GNL), bem como a transportadores de GNL, em função das capacidades a alimentar;\n\nd) A qualquer equipamento ou instalação essencial para o bom funcionamento do sistema em causa, incluindo os sistemas de protecção, monitorização e controlo."
+  },
+  "64cc44f04e5b8b98": {
+   "fragment_id": "Artigo 4.º — Prioridades de acção",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Prioridades de acção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prioridades de acção\n\nAs prioridades da acção comunitária em matéria de redes transeuropeias de energia são compatíveis com o desenvolvimento sustentável e são as seguintes:\n\n1. Para as redes de electricidade e de gás natural:\n\na) Adaptar e desenvolver as redes de energia para apoio ao funcionamento do mercado interno da energia e, em especial, resolver os problemas de estrangulamentos, particularmente estrangulamentos transfronteiriços, congestionamentos e ligações em falta, tendo em conta as necessidades resultantes do funcionamento do mercado interno da electricidade e do gás natural e do alargamento da União Europeia;\n\nb) Criar redes de energia em regiões insulares, isoladas, periféricas e ultraperiféricas, promovendo simultaneamente a diversificação das fontes de energia e a utilização de fontes de energia renováveis, a par da interligação dessas redes, se necessário;\n\n2. Para as redes de electricidade:\n\na) Adaptar e desenvolver as redes, a fim de facilitar a integração e ligação da produção de energias renováveis;\n\nb) Assegurar a interoperabilidade das redes de electricidade na Comunidade e destas com as redes nos países aderentes e candidatos e noutros países da Europa e nas bacias do Mediterrâneo e do mar Negro;\n\n3. Para as redes de gás natural:\n\na) Desenvolver redes de gás natural, a fim de satisfazer as necessidades de consumo de gás natural da Comunidade e de controlar os seus sistemas de aprovisionamento de gás natural;\n\nb) Assegurar a interoperabilidade das redes de gás natural na Comunidade e destas com as redes nos países aderentes e candidatos e nos outros países da Europa e nas bacias do Mediterrâneo, do mar Negro e do mar Cáspio, bem como nas regiões do Médio Oriente e do Golfo, e diversificar as fontes de gás natural e as vias de aprovisionamento."
+  },
+  "6077bc3f6cb7e2ea": {
+   "fragment_id": "Artigo 18.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente decisão."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "84ac9bd7ab08b807": {
+   "fragment_id": "REDES TRANSEUROPEIAS DE ENERGIA",
+   "type": "divisao",
+   "heading": "REDES TRANSEUROPEIAS DE ENERGIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REDES TRANSEUROPEIAS DE ENERGIA\n\nEnumeração dos projectos prioritários, incluindo os projectos de interesse europeu, a levar a efeito em cada eixo de projectos prioritários:"
+  },
+  "69001dbb628e2bf5": {
+   "fragment_id": "REDES DE ELECTRICIDADE",
+   "type": "divisao",
+   "heading": "REDES DE ELECTRICIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### REDES DE ELECTRICIDADE\n\nEL.1. França — Bélgica — Países Baixos — Alemanha:\n\nreforço das redes eléctricas a fim de resolver o congestionamento do fluxo de electricidade através dos Estados do Benelux.\n\nLinha Avelin (FR) — Avelgem (BE)\n\nLinha Moulaine (FR) — Aubange (BE)\n\nEL.2. Fronteiras da Itália com a França, Áustria, Eslovénia e Suíça:\n\naumento das capacidades de interligação eléctrica.\n\nLinha Lienz (AT) — Cordignano (IT)\n\nNova interligação entre a Itália e a Eslovénia\n\nLinha Udine Ovest (IT) — Okroglo (SI)\n\nLinha S. Fiorano (IT) — Nave (IT) — Gorlago (IT)\n\nLinha Venezia Nord (IT) — Cordignano (IT)\n\nLinha St. Peter (AT) — Tauern (AT)\n\nLinha Südburgenland (AT) — Kainachtal (AT)\n\nInterligação Áustria — Itália (Thaur-Brixen) através do túnel ferroviário do Brenner\n\nEL.3. França — Espanha — Portugal:\n\naumento das capacidades de interligação eléctrica entre estes países e para a Península Ibérica e desenvolvimento da rede em regiões insulares.\n\nLinha Sentmenat (ES) — Bescanό (ES) — Baixas (FR)\n\nLinha Valdigem (PT) — Douro Internacional (PT) — Aldeadávila (ES) e instalações do «Douro Internacional»\n\nEL.4. Grécia — Estados dos Balcãs — Sistema UCTE:\n\ndesenvolvimento da infra-estrutura eléctrica para a ligação da Grécia ao sistema UCTE e para permitir o desenvolvimento do mercado da electricidade do Sudeste da Europa.\n\nLinha Philippi (EL) — Hamidabad (TR)\n\nEL.5. Reino Unido — Europa Continental e Norte da Europa:\n\ncriação/aumento das capacidades de interligação eléctrica e possível integração da energia eólica ao largo.\n\nCabo submarino que liga a Inglaterra (UK) e os Países Baixos\n\nEL.6. Irlanda — Reino Unido:\n\naumento das capacidades de interligação eléctrica e possível integração da energia eólica ao largo.\n\nCabo submarino que liga a Irlanda e o País de Gales (UK)\n\nEL.7. Dinamarca — Alemanha — anel do Báltico (incluindo a Noruega — Suécia — Finlândia — Dinamarca — Alemanha — Polónia — Estados Bálticos — Rússia):\n\naumento das capacidades de interligação eléctrica e possível integração da energia eólica ao largo.\n\nLinha Kassø (DK) — Hamburgo/Dollern (DE)\n\nLinha Hamburgo/Krümmel (DE) — Schwerin (DE)\n\nLinha Kassø (DK) — Revsing (DK) — Tjele (DK)\n\nLinha Vester Hassing (DK) — Trige (DK)\n\nCabo submarino Skagerrak 4: entre a Dinamarca e a Noruega\n\nLigação Polónia — Lituânia, incluindo os necessários reforços da rede polaca de electricidade e o perfil Polónia-Alemanha a fim de possibilitar a participação no mercado interno da energia\n\nCabo submarino Finlândia — Estónia (ligação leste)\n\nCabo submarino Fennoscan, entre a Finlândia e a Suécia\n\nLinha Halle/Saale (DE) — Schweinfurt (DE)\n\nEL.8. Alemanha — Polónia — República Checa — Eslováquia — Áustria — Hungria — Eslovénia:\n\naumento das capacidades de interligação eléctrica.\n\nLinha Neuenhagen (DE) — Vierraden (DE) — Krajnik (PL)\n\nLinha Dürnrohr (AT) — Slavětice (CZ)\n\nNova interligação entre a Alemanha e a Polónia\n\nLinha Veľké Kapušany (SK) — Lemešany (SK) — Moldava (SK) — Sajóivánka (HU)\n\nLinha Gabčíkovo (SK) –Veľký Ďur (SK)\n\nLinha Stupava (SK) — Sudeste de Viena (AT)\n\nEL.9. Estados-Membros do Mediterrâneo — anel eléctrico do Mediterrâneo:\n\naumento das capacidades de interligação eléctrica entre os Estados-Membros do Mediterrâneo e Marrocos — Argélia — Tunísia — Líbia — Egipto — Países do Próximo Oriente — Turquia.\n\nLigação eléctrica entre a Tunísia e a Itália."
+  },
+  "e270191011867ee2": {
+   "fragment_id": "REDES DE GÁS",
+   "type": "divisao",
+   "heading": "REDES DE GÁS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### REDES DE GÁS\n\nNG.1. Reino Unido — Norte da Europa continental, incluindo os Países Baixos, Bélgica, Dinamarca, Suécia e Alemanha — Polónia — Lituânia — Letónia — Estónia — Finlândia — Rússia:\n\nGasodutos para ligar algumas das principais fontes de gás na Europa, melhorar a interoperabilidade das redes e aumentar a segurança do aprovisionamento, incluindo os gasodutos através da via ao largo da Rússia para a UE e da via em terra da Rússia para a Polónia e a Alemanha, construção de novos gasodutos e aumento da capacidade de rede na Alemanha, Dinamarca e Suécia e entre estes países, bem como na Polónia, República Checa, Eslováquia, Alemanha e Áustria e entre estes países.\n\nGasoduto norte-europeu\n\nGasoduto Yamal — Europa\n\nGasoduto que liga a Dinamarca, a Alemanha e a Suécia\n\nAumento da capacidade de transmissão no eixo Alemanha — Bélgica — Reino Unido.\n\nNG.2. Argélia — Espanha — Itália — França — Norte da Europa continental:\n\nconstrução de novos gasodutos para o transporte de gás natural da Argélia em direcção a Espanha, França e Itália e aumento das capacidades das redes em e entre a Espanha, França e Itália.\n\nGasoduto Argélia — Tunísia — Itália\n\nGasoduto Argélia — Itália via Sardenha e Córsega com um ramal até França\n\nGasoduto «Medgas» (Argélia — Espanha — França — Europa Continental).\n\nNG.3. Países do mar Cáspio — Médio Oriente — União Europeia:\n\nnovas redes de gasodutos de transporte de gás natural para a União Europeia a partir de novas fontes, incluindo os gasodutos Turquia — Grécia, Grécia — Itália, Turquia — Áustria e Grécia — Eslovénia — Áustria (através dos Balcãs Ocidentais).\n\nGasoduto Turquia — Grécia — Itália\n\nGasoduto Turquia — Áustria.\n\nNG.4. Terminais de gás natural liquefeito (GNL) na Bélgica, França, Espanha, Portugal, Itália, Grécia, Chipre e Polónia:\n\ndiversificação das fontes de aprovisionamento e dos pontos de entrada, incluindo as ligações dos terminais GNL com a rede de transporte.\n\nNG.5. Armazenamento subterrâneo de gás natural em Espanha, Portugal, França, Itália, Grécia e região do mar Báltico:\n\naumento da capacidade em Espanha, França, Itália e região do mar Báltico e construção das primeiras instalações em Portugal, Grécia e Lituânia.\n\nNG.6. Estados-Membros do Mediterrâneo — anel de gás do Mediterrâneo Oriental:\n\nestabelecimento e aumento das capacidades dos gasodutos para o transporte de gás natural entre os Estados-Membros do Mediterrâneo e a Líbia — Egipto — Jordânia — Síria — Turquia.\n\nGasoduto Líbia — Itália."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "d406bbdeaf8e1720": {
+   "fragment_id": "REDES TRANSEUROPEIAS DE ENERGIA",
+   "type": "divisao",
+   "heading": "REDES TRANSEUROPEIAS DE ENERGIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REDES TRANSEUROPEIAS DE ENERGIA"
+  },
+  "4a8db3a4a0670481": {
+   "fragment_id": "REDES DE ELECTRICIDADE",
+   "type": "divisao",
+   "heading": "REDES DE ELECTRICIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### REDES DE ELECTRICIDADE\n\n1. Desenvolvimento das redes de electricidade nas regiões insulares, isoladas, periféricas e ultraperiféricas, promovendo a diversificação das fontes de energia e aumentando a utilização das energias renováveis, bem como a ligação das redes de electricidade dessas regiões, se necessário:\n\n— Irlanda — Reino Unido (País de Gales)\n\n— Grécia (Ilhas)\n\n— Itália (Sardenha) — França (Córsega) — Itália continental\n\n— Ligações em regiões insulares, incluindo ligações com o continente\n\n— Ligações nas regiões ultraperiféricas em França, Espanha e Portugal.\n\n2. Desenvolvimento das ligações de electricidade entre os Estados-Membros necessárias para o funcionamento do mercado interno ou para a garantia da fiabilidade e segurança do funcionamento das redes de electricidade:\n\n— França — Bélgica — Países Baixos — Alemanha\n\n— França — Alemanha\n\n— França — Itália\n\n— França — Espanha\n\n— Portugal — Espanha\n\n— Finlândia — Suécia\n\n— Finlândia — Estónia — Letónia — Lituânia\n\n— Áustria — Itália\n\n— Itália — Eslovénia\n\n— Áustria — Itália — Eslovénia — Hungria\n\n— Alemanha — Polónia\n\n— Alemanha — Polónia — República Checa — Áustria — Eslováquia — Hungria\n\n— Hungria — Eslováquia\n\n— Hungria — Áustria\n\n— Hungria — Croácia\n\n— Polónia — Lituânia\n\n— Irlanda — Reino Unido (Irlanda do Norte)\n\n— Áustria — Alemanha — Eslovénia — Hungria\n\n— Países Baixos — Reino Unido\n\n— Alemanha — Dinamarca — Suécia\n\n— Grécia — Itália\n\n— Hungria — Eslovénia\n\n— Malta — Itália\n\n— Finlândia — Estónia\n\n— Itália — Eslovénia.\n\n3. Desenvolvimento das ligações eléctricas nos Estados-Membros nos casos em que tal seja necessário para a valorização das ligações entre os Estados-Membros, o funcionamento do mercado interno ou a ligação de fontes de energia renováveis:\n\n— Todos os Estados-Membros.\n\n4. Desenvolvimento de ligações eléctricas com Estados não membros, em especial com os países candidatos, contribuindo assim para a interoperabilidade, a fiabilidade operacional e a segurança das redes eléctricas ou para o aprovisionamento de electricidade na Comunidade Europeia:\n\n— Alemanha — Noruega\n\n— Países Baixos — Noruega\n\n— Suécia — Noruega\n\n— Reino Unido — Noruega\n\n— Anel eléctrico do Báltico: Alemanha — Polónia — Bielorrússia — Rússia — Lituânia — Letónia — Estónia — Finlândia — Suécia — Noruega — Dinamarca\n\n— Noruega — Suécia — Finlândia — Rússia\n\n— Anel eléctrico do Mediterrâneo: França — Espanha — Marrocos — Argélia — Tunísia — Líbia — Egipto — países do Próximo Oriente — Turquia — Grécia — Itália\n\n— Grécia — Turquia\n\n— Itália — Suíça\n\n— Áustria — Suíça\n\n— Hungria — Roménia\n\n— Hungria — Sérvia\n\n— Itália — Tunísia\n\n— Grécia — países dos Balcãs\n\n— Espanha — Marrocos\n\n— Espanha — Andorra — França\n\n— UE — países dos Balcãs — Bielorrússia — Rússia — Ucrânia\n\n— Anel eléctrico do mar Negro: Rússia — Ucrânia — Roménia — Bulgária — Turquia — Geórgia\n\n— Bulgária — antiga República jugoslava da Macedónia/Grécia — Albânia — Itália ou Bulgária — Grécia — Itália.\n\n5. Acções destinadas a melhorar o funcionamento das redes eléctricas interligadas no âmbito do mercado interno e, em especial, a identificar os pontos de estrangulamento e as ligações em falta, a definir soluções para tratar os problemas de congestionamento e a adaptar os métodos de previsão e de exploração das redes de electricidade:\n\n— identificação dos pontos de estrangulamento e das ligações em falta, especialmente transfronteiriças, nas redes de electricidade\n\n— desenvolvimento de soluções para a gestão do fluxo de electricidade, a fim de tratar dos problemas de congestionamento nas redes de electricidade\n\n— adaptação dos métodos de previsão e de exploração das redes de electricidade necessária para o funcionamento do mercado interno da electricidade e para a utilização de uma percentagem elevada de fontes de energia renováveis."
+  },
+  "babc720da291af49": {
+   "fragment_id": "REDES DE GÁS",
+   "type": "divisao",
+   "heading": "REDES DE GÁS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### REDES DE GÁS\n\n6. Introdução do gás natural em novas regiões, principalmente nas regiões insulares, isoladas, periféricas e ultraperiféricas, e desenvolvimento das redes de gás natural nessas regiões:\n\n— Reino Unido (Irlanda do Norte)\n\n— Irlanda\n\n— Espanha\n\n— Portugal\n\n— Grécia\n\n— Suécia\n\n— Dinamarca\n\n— Itália (Sardenha)\n\n— França (Córsega)\n\n— Chipre\n\n— Malta\n\n— Regiões ultraperiféricas em França, Espanha e Portugal.\n\n7. Desenvolvimento das ligações de gás natural a fim de satisfazer as necessidades do mercado interno ou de reforçar a segurança do aprovisionamento, incluindo a ligação de redes de gás natural e de gás de olefinas separadas:\n\n— Irlanda — Reino Unido\n\n— França — Espanha\n\n— França — Suíça\n\n— Portugal — Espanha\n\n— Áustria — Alemanha\n\n— Áustria — Hungria\n\n— Áustria — Hungria — Eslováquia — Polónia\n\n— Polónia — República Checa\n\n— Eslováquia — República Checa — Alemanha — Áustria\n\n— Áustria — Itália\n\n— Grécia — países dos Balcãs\n\n— Áustria — Hungria — Roménia — Bulgária — Grécia — Turquia\n\n— França — Itália\n\n— Grécia — Itália\n\n— Áustria — República Checa\n\n— Alemanha — República Checa — Áustria — Itália\n\n— Áustria — Eslovénia — Croácia\n\n— Hungria — Croácia\n\n— Hungria — Roménia\n\n— Hungria — Eslováquia\n\n— Hungria — Ucrânia\n\n— Eslovénia — países dos Balcãs\n\n— Bélgica — Países Baixos — Alemanha\n\n— Reino Unido — Países Baixos — Alemanha\n\n— Alemanha — Polónia\n\n— Dinamarca — Reino Unido\n\n— Dinamarca — Alemanha — Suécia\n\n— Dinamarca — Países Baixos.\n\n8. Desenvolvimento das capacidades de recepção de GNL e de armazenamento de gás natural necessárias para a satisfação da procura, a regulação dos sistemas de aprovisionamento de gás e a diversificação das fontes e das vias de aprovisionamento:\n\n— Todos os Estados-Membros.\n\n9. Desenvolvimento das capacidades de transporte de gás natural (gasodutos de adução) necessárias para satisfação da procura e diversificação do aprovisionamento a partir de fontes internas e externas, bem como das vias de aprovisionamento:\n\n— Rede de gás nórdica: Noruega — Dinamarca — Alemanha — Suécia — Finlândia — Rússia — Estados Bálticos — Polónia\n\n— Argélia — Espanha — França\n\n— Rússia — Ucrânia — UE\n\n— Rússia — Bielorrússia — Ucrânia — UE\n\n— Rússia — Bielorrússia — UE\n\n— Rússia — mar Báltico — Alemanha\n\n— Rússia — Países Bálticos — Polónia — Alemanha\n\n— Alemanha — República Checa — Polónia — Alemanha — outros Estados-Membros\n\n— Líbia — Itália\n\n— Tunísia — Líbia — Itália\n\n— Países do mar Cáspio — UE\n\n— Rússia — Ucrânia — Moldávia — Roménia — Bulgária — Grécia — Eslovénia — outros países dos Balcãs\n\n— Rússia — Ucrânia — Eslováquia — Hungria — Eslovénia — Itália\n\n— Países Baixos — Alemanha — Suíça — Itália\n\n— Bélgica — França — Suíça — Itália\n\n— Dinamarca — Suécia — Polónia\n\n— Noruega — Rússia — UE\n\n— Irlanda\n\n— Argélia — Itália — França\n\n— Argélia — Tunísia — Itália\n\n— Médio Oriente — anel de gás do Mediterrâneo Oriental — UE\n\n— Instalação de mistura de Winksele (BE) no eixo Norte-Sul (mistura de gás H com azoto)\n\n— Aumento da capacidade no eixo Este-Oeste: Zeebrugge (BE) — Eynatten (BE).\n\n10. Acções destinadas a melhorar o funcionamento das redes de gás natural interligadas no mercado interno e nos países de trânsito, em especial, a identificar os pontos de estrangulamento e as ligações em falta, a definir soluções para tratar os problemas de congestionamento e a adaptar os métodos de previsão e de exploração das redes de gás natural de uma forma eficiente e segura:\n\n— identificação dos pontos de estrangulamento e das ligações em falta, especialmente transfronteiriças, nas redes de gás natural,\n\n— desenvolvimento de soluções para a gestão do fluxo de gás natural, a fim de tratar dos problemas de congestionamento nas redes de gás,\n\n— adaptação dos métodos de previsão e de exploração das redes de gás natural necessárias para o funcionamento do mercado interno,\n\n— melhoria do desempenho global e da segurança das redes de gás natural em países de trânsito.\n\n11. Desenvolvimento e integração de capacidades de transporte de gases de olefinas, a fim de satisfazer a procura no mercado interno:\n\n— Todos os Estados-Membros."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "86fa67c5ce8b2a5f": {
+   "fragment_id": "REDES DE ELECTRICIDADE",
+   "type": "divisao",
+   "heading": "REDES DE ELECTRICIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### REDES DE ELECTRICIDADE"
+  },
+  "fe8976a0c40b685d": {
+   "fragment_id": "1. Desenvolvimento de redes de electricidade em regiões isoladas",
+   "type": "divisao",
+   "heading": "1. Desenvolvimento de redes de electricidade em regiões isoladas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Desenvolvimento de redes de electricidade em regiões isoladas\n\n1.1. Cabo submarino Irlanda — País de Gales (UK)\n\n1.2. Ligação das Cíclades do Sul (EL) (ao sistema interligado)\n\n1.3. Ligação de 30 kV por cabo submarino entre as ilhas do Faial, Pico e S. Jorge (Açores, PT)\n\n1.4. Ligação e reforço da rede nas ilhas da Terceira, Faial e S. Miguel (Açores, PT)\n\n1.5. Ligação e reforço da rede na Madeira (PT)\n\n1.6. Cabo submarino Sardenha (IT) — Itália continental\n\n1.7. Cabo submarino Córsega (FR) — Itália\n\n1.8. Ligação Itália continental — Sicília (IT): duplicação da ligação Sorgente (IT) — Rizziconi (IT)\n\n1.9. Novas ligações nas Ilhas Baleares e Canárias (ES)"
+  },
+  "e4f505e2590480cf": {
+   "fragment_id": "2. Desenvolvimento das ligações eléctricas entre os Estados-Membros",
+   "type": "divisao",
+   "heading": "2. Desenvolvimento das ligações eléctricas entre os Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Desenvolvimento das ligações eléctricas entre os Estados-Membros\n\n2.1. Linha Moulaine (FR) — Aubange (BE)\n\n2.2. Linha Avelin (FR) — Avelgem (BE)\n\n2.3. Interligação entre a Alemanha e a Bélgica\n\n2.4. Linha Vigy (FR) — Marlenheim (FR)\n\n2.5. Linha Vigy (FR) — Uchtelfangen (DE)\n\n2.6. Transformador de fase de La Praz (FR)\n\n2.7. Prossecução do reforço da capacidade através da actual interligação entre a França e a Itália\n\n2.8. Nova interligação entre a França e a Itália\n\n2.9. Nova interligação através dos Pirenéus entre a França e a Espanha\n\n2.10. Ligação dos Pirenéus Orientais entre a França e a Espanha\n\n2.11. Ligações das redes entre o Norte de Portugal e o Noroeste de Espanha\n\n2.12. Linha Sines (PT) — Alqueva (PT) — Balboa (ES)\n\n2.13. Ligação entre o Sul de Portugal e o Sudoeste de Espanha\n\n2.14. Linha Valdigem (PT) — Douro Internacional (PT) — Aldeadávila (ES) e instalações do «Douro Internacional»\n\n2.15. Ligações a norte do Golfo da Bótnia e cabo submarino Fennoscan entre a Finlândia e a Suécia\n\n2.16. Linha Lienz (AT) — Cordignano (IT)\n\n2.17. Interligação Somplago (IT) — Würmbach (AT)\n\n2.18. Interligação entre a Áustria e a Itália (Thaur-Brixen) através do túnel ferroviário do Brenner\n\n2.19. Ligação entre a Irlanda e a Irlanda do Norte\n\n2.20. Linha St. Peter (AT) — Isar (DE)\n\n2.21. Cabo submarino entre o Sudeste de Inglaterra e o Centro dos Países Baixos\n\n2.22. Reforço das ligações entre a Dinamarca e a Alemanha, por exemplo, a linha Kassø — Hamburgo\n\n2.23. Reforço das ligações entre a Dinamarca e a Suécia\n\n2.24. Nova interligação entre a Eslovénia e a Hungria: Cirkove (SI) — Hévíz (HU)\n\n2.25. Sajóivánka (HU) — Rimavská Sobota (SK)\n\n2.26. Moldava (SK) — Sajóivánka (HU)\n\n2.27. Stupava (SK) — Viena SE (AT)\n\n2.28. Polónia — Alemanha [Linha Neuenhagen (DE) — Vierraden (DE) — Krajnic (PL)]\n\n2.29. Ligação Polónia — Lituânia (Elk — Alytus)\n\n2.30. Cabo submarino entre a Finlândia e a Estónia\n\n2.31. Instalação de sistemas flexíveis de transporte de corrente alterna entre a Itália e a Eslovénia\n\n2.32. Novas ligações entre os sistemas UCTE e CENTREL\n\n2.33. Dürnrohr (AT) — Slavětice (CZ)\n\n2.34. Ligação eléctrica submarina entre Malta (MT) e a Sicília (IT)\n\n2.35. Nova interligação entre a Itália e a Eslovénia\n\n2.36. Linha Udine Ovest (IT) — Okroglo (SI)"
+  },
+  "142a5e7bb70c371b": {
+   "fragment_id": "3. Desenvolvimento das ligações eléctricas internas nos Estados-Membros",
+   "type": "divisao",
+   "heading": "3. Desenvolvimento das ligações eléctricas internas nos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Desenvolvimento das ligações eléctricas internas nos Estados-Membros\n\n3.1. Ligações no eixo dinamarquês Este — Oeste: ligação das redes ocidental (UCTE) e oriental (NORDEL) da Dinamarca\n\n3.2. Ligações no eixo Norte — Sul dinamarquês\n\n3.3. Novas ligações no Norte de França\n\n3.4. Novas ligações no Sudoeste de França\n\n3.5. Linha Trino Vercellese (IT) — Lacchiarella (IT)\n\n3.6. Linha Turbigo (IT) — Rho (IT) — Bovisio (IT)\n\n3.7. Linha Voghera (IT) — La Casella (IT)\n\n3.8. Linha S. Fiorano (IT) — Nave (IT) — Gorlago (IT)\n\n3.9. Linha Venezia Nord (IT) — Cordignano (IT)\n\n3.10. Linha Redipuglia (IT) — Udine Ovest (IT)\n\n3.11. Novas ligações no eixo Este-Oeste da Itália\n\n3.12. Linha Tavarnuzze (IT) — Casallina (IT)\n\n3.13. Linha Tavarnuzze (IT) — Santa Barbara (IT)\n\n3.14. Linha Rizziconi (IT) — Feroleto (IT) — Laino (IT)\n\n3.15. Novas ligações no eixo Norte-Sul de Itália\n\n3.16. Modificações na rede para facilitar as ligações de energias renováveis em Itália\n\n3.17. Novas ligações eólicas em Itália\n\n3.18. Novas ligações no eixo Norte de Espanha\n\n3.19. Novas ligações no eixo mediterrânico de Espanha\n\n3.20. Novas ligações no eixo Galiza (ES) — Centro (ES)\n\n3.21. Novas ligações no eixo Centro (ES) — Aragão (ES)\n\n3.22. Novas ligações no eixo Aragão (ES) — Levante (ES)\n\n3.23. Novas ligações no eixo centro-sul de Espanha (ES)\n\n3.24. Novas ligações no eixo centro-este de Espanha (ES)\n\n3.25. Novas ligações na Andaluzia (ES)\n\n3.26. Linha Pedralva (PT) — Riba d'Ave (PT) e instalações de Pedralva\n\n3.27. Linha Recarei (PT) — Valdigem (PT)\n\n3.28. Linha Picote (PT) — Pocinho (PT) (reforço)\n\n3.29. Modificação da actual linha Pego (PT) — Cedillo (ES)/Falagueira (PT) e instalações da Falagueira\n\n3.30. Linha Pego (PT) — Batalha (PT) e instalações da Batalha\n\n3.31. Linha Sines (PT) — Ferreira do Alentejo (PT) I (reforço)\n\n3.32. Novas ligações eólicas em Portugal\n\n3.33. Linhas Pereiros (PT) — Zêzere (PT) — Santarém (PT) e instalações do Zêzere\n\n3.34. Linhas Batalha (PT) — Rio Maior (PT) I e II (reforço)\n\n3.35. Linha Carrapatelo (PT) — Mourisca (PT) (reforço)\n\n3.36. Linha Valdigem (PT) — Viseu (PT) — Anadia (PT)\n\n3.37. Desvio da actual linha Rio Maior (PT) — Palmela (PT) para o Ribatejo e instalações do Ribatejo\n\n3.38. Subestações e linhas de ligação de Salónica (EL), Lamia (EL) e Patras (EL)\n\n3.39. Ligações das regiões de Evia (EL), Lakonia (EL) e Trácia (EL)\n\n3.40. Reforço das ligações existentes entre as regiões periféricas da Grécia continental\n\n3.41. Linha Tynagh (IE) — Cashla (IE)\n\n3.42. Linha Flagford (IE) — East Sligo (IE)\n\n3.43. Ligações no Nordeste e Oeste de Espanha, especialmente para ligar geradores eólicos à rede\n\n3.44. Ligações no País Basco (ES), Aragão (ES) e Navarra (ES)\n\n3.45. Ligações na Galiza (ES)\n\n3.46. Ligações no Centro da Suécia\n\n3.47. Ligações no Sul da Suécia\n\n3.48. Linha Hamburgo (DE) — região da Schwerin (DE)\n\n3.49. Linha região de Halle/Saale (DE) — região de Schweinfurt (DE)\n\n3.50. Novas ligações eólicas ao largo e em terra na Alemanha\n\n3.51. Reforço da rede de abastecimento de 380 kV na Alemanha com vista à ligação dos parques eólicos ao largo\n\n3.52. Ligações na Irlanda do Norte, correspondentes às interligações com a Irlanda\n\n3.53. Ligações no Noroeste do Reino Unido\n\n3.54. Ligações na Escócia e Inglaterra, tendo em vista o aumento da utilização de fontes de energia renováveis na geração de electricidade\n\n3.55. Novas ligações eólicas ao largo da Bélgica, incluindo o reforço da rede de abastecimento de 380 kV\n\n3.56. Subestação de Borssele (NL)\n\n3.57. Implementação de equipamento de compensação de energia reactiva (NL)\n\n3.58. Instalação de transformadores esfasadores e/ou de condensadores na Bélgica\n\n3.59. Reforço da rede de abastecimento de 380 kV na Bélgica para aumentar a capacidade de importação\n\n3.60. Linha St. Peter (AT) — Tauern (AT)\n\n3.61. Linha Süd-Burgenland (AT) — Kainachtal (AT)\n\n3.62. Dunowo (PL) — Żydowo (PL) — Krzewina (PL) — Plewiska (PL)\n\n3.63. Pątnów (PL) — Grudziądz (PL)\n\n3.64. Ostrów (PL) — Plewiska (PL)\n\n3.65. Ostrów (PL) — Trębaczew (Rogowiec) (PL)\n\n3.66. Plewiska (PL) — Pątnów (PL)\n\n3.67. Tarnów (PL) — Krosno (PL)\n\n3.68. Ełk (PL) — Olsztyn Matki (PL)\n\n3.69. Ełk (PL) — Narew (PL)\n\n3.70. Mikułowa (PL) — Świebodzice-Dobrzeń (Groszowice) (PL)\n\n3.71. Pątnów (PL) — Sochaczew (PL) — Warszawa (PL)\n\n3.72. Linha Krsko (SI) –Bericevo (SI)\n\n3.73. Aumento de potência do sistema de transporte esloveno de 220 kV para 400 kV\n\n3.74. Medzibrod (SK) — Liptovská Mara (SK)\n\n3.75. Lemešany (SK) — Moldava (SK)\n\n3.76. Lemešany (SK) –Veľké Kapušany (SK)\n\n3.77. Gabčíkovo (SK) –Veľký Ďur (SK)\n\n3.78. Ligações no Norte da Suécia\n\n3.79. Passagem do abastecimento de Saaremaa (EE) para 110 kV\n\n3.80. Aperfeiçoamento do abastecimento de energia eléctrica em Tartu (EE)\n\n3.81. Renovação da subestação (330 kV) de Eesti (EE)\n\n3.82. Renovação das subestações (110 kV) de Kiisa (EE) Püssi (EE) e Viljandi (EE)\n\n3.83. Transformação da linha única de 400 kV numa linha de circuito duplo de 400 kV entre Nošovice (CZ) e Prosenize (CZ)\n\n3.84. Nova linha única de 400 kV entre Krasíkov (CZ) e Horní Životice (CZ)\n\n3.85. Novas ligações eólicas em Malta (MT)\n\n3.86. Pécs (HU) — Ernestinovo (HR)"
+  },
+  "f79f845a675e43e5": {
+   "fragment_id": "4. Desenvolvimento das ligações eléctricas com países terceiros",
+   "type": "divisao",
+   "heading": "4. Desenvolvimento das ligações eléctricas com países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Desenvolvimento das ligações eléctricas com países terceiros\n\n4.1. Nova interligação Itália — Suíça\n\n4.2. Linha Philippi (EL) — Maritsa 3 (Bulgária)\n\n4.3. Linha Amintaio (EL) — Bitola (antiga República jugoslava da Macedónia)\n\n4.4. Linha Kardia (EL) — Elbasan (Albânia)\n\n4.5. Linha Elbasan (Albânia) — Podgorica (Montenegro)\n\n4.6. Subestação de Mostar (Bósnia e Herzegovina) e linhas de ligação\n\n4.8. Novas ligações entre a Grécia e a Albânia, a Bulgária e a antiga República jugoslava da Macedónia\n\n4.9. Linha Philippi (EL) — Hamidabad (TR)\n\n4.10. Cabo submarino do Nordeste/Este de Inglaterra ao Sul da Noruega\n\n4.11. Linha Eemshaven (NL) — Feda (NO)\n\n4.12. Cabo submarino do Sul de Espanha a Marrocos (reforço da ligação existente)\n\n4.13. Ligações para a interligação eléctrica do anel eléctrico do Báltico: Alemanha — Polónia — Rússia — Estónia — Letónia — Lituânia — Suécia — Finlândia — Dinamarca — Bielorrússia\n\n4.14. Ligações Sul da Finlândia — Rússia\n\n4.15. Novas ligações entre o Norte da Suécia e o Norte da Noruega\n\n4.16. Novas ligações entre o Sul da Suécia e o Sul da Noruega\n\n4.17. Linha Borgvik (SE) — Hoesle (NO) — região de Oslo (NO)\n\n4.18. Novas ligações do sistema UCTE/CENTREL aos Estados dos Balcãs\n\n4.19. Ligações e interface entre o sistema UCTE e a Bielorrússia, Rússia e Ucrânia, incluindo a relocalização das estações de conversão CCAT anteriormente em funcionamento entre a Áustria e a Hungria, a Áustria e a República Checa e a Alemanha e a República Checa\n\n4.20. Ligações na interligação eléctrica do anel do mar Negro: Rússia — Ucrânia — Roménia — Bulgária — Turquia — Geórgia\n\n4.21. Novas ligações na região do mar Negro tendo em vista a interoperabilidade do sistema UCTE com as redes dos países em causa\n\n4.22. Novas ligações na interligação eléctrica do anel do Mediterrâneo: França — Espanha — Marrocos — Argélia — Tunísia — Líbia — Egipto — países do Próximo Oriente — Turquia — Grécia — Itália\n\n4.23. Cabo submarino do Sul da Espanha ao Noroeste da Argélia\n\n4.24. Cabo submarino entre a Itália e a África do Norte (Argélia, Tunísia, Líbia)\n\n4.25. Ligação eléctrica entre a Tunísia e a Itália\n\n4.26. Novas ligações na região/zona de Barent\n\n4.27. Reforço das ligações entre a Dinamarca e a Noruega\n\n4.28. Obermoorweiler (DE) — Meiningen (AT) — Bonaduz (CZ): novo aumento da capacidade\n\n4.29. Békéscsaba (HU) — Oradea (RO)\n\n4.30. Pécs (HU) — Sombor (Sérvia)\n\n4.32. Veľké Kapušany (SK) — fronteira da Ucrânia\n\n4.33. Andrall (ES) — Encamp (AD): aumento da capacidade para 220 kV\n\n4.34. Espanha — Andorra — França: reforço das ligações"
+  },
+  "5215d2291c4a1f72": {
+   "fragment_id": "5. Acções destinadas a melhorar o funcionamento das redes eléctricas interligadas no mercado interno",
+   "type": "divisao",
+   "heading": "5. Acções destinadas a melhorar o funcionamento das redes eléctricas interligadas no mercado interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Acções destinadas a melhorar o funcionamento das redes eléctricas interligadas no mercado interno\n\n(Ainda não foram definidas quaisquer especificações)."
+  },
+  "0b529582e26ab9d2": {
+   "fragment_id": "REDES DE GÁS",
+   "type": "divisao",
+   "heading": "REDES DE GÁS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### REDES DE GÁS"
+  },
+  "df71e23cc6ffaea3": {
+   "fragment_id": "6. Introdução do gás natural em novas regiões",
+   "type": "divisao",
+   "heading": "6. Introdução do gás natural em novas regiões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. Introdução do gás natural em novas regiões\n\n6.1. Desenvolvimento da rede de gás de Belfast em direcção à região Noroeste da Irlanda do Norte (UK) e, se necessário, à costa ocidental da Irlanda\n\n6.2. GNL em Santa Cruz de Tenerife, Ilhas Canárias (ES)\n\n6.3. GNL em Las Palmas de Gran Canaria (ES)\n\n6.4. GNL na Madeira (PT)\n\n6.5. Desenvolvimento da rede de gás na Suécia\n\n6.6. Ligação entre as Ilhas Baleares (ES) e a Espanha continental\n\n6.7. Ramal de alta pressão para a Trácia (EL)\n\n6.8. Ramal de alta pressão para Corinto (EL)\n\n6.9. Ramal de alta pressão para o Noroeste da Grécia (EL)\n\n6.10. Ligações das ilhas Lolland (DK) e Falster (DK)\n\n6.11. GNL em Chipre, centro energético de Vasilikos\n\n6.12. Ligação entre a central GNL de Vasilikos (CY) e a central eléctrica de Moni (CY)\n\n6.13. GNL na Ilha de Creta (EL)\n\n6.14. Ramal de alta pressão para Patra (EL)\n\n6.15. GNL em Malta"
+  },
+  "1d03ad034791b335": {
+   "fragment_id": "7. Desenvolvimento das ligações de gás necessárias ao funcionamento do mercado interno ou ao reforço da segurança do aprovisionamento, incluindo a ligação de redes de gás separadas",
+   "type": "divisao",
+   "heading": "7. Desenvolvimento das ligações de gás necessárias ao funcionamento do mercado interno ou ao reforço da segurança do aprovisionamento, incluindo a ligação de redes de gás separadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. Desenvolvimento das ligações de gás necessárias ao funcionamento do mercado interno ou ao reforço da segurança do aprovisionamento, incluindo a ligação de redes de gás separadas\n\n7.1. Gasoduto adicional de interligação entre a Irlanda e a Escócia\n\n7.2. Interligação Norte — Sul, incluindo o gasoduto Dublin — Belfast\n\n7.3. Estação de compressão no gasoduto Lacq (FR) — Calahorra (ES)\n\n7.4. Gasoduto Lussagnet (FR) — Bilbao (ES)\n\n7.5. Gasoduto Perpignan (FR) — Barcelona (ES)\n\n7.6. Aumento da capacidade de transporte dos gasodutos que aprovisionam Portugal através do Sul de Espanha e a Galiza e Astúrias através de Portugal\n\n7.7. Gasoduto Purchkirchen (AT) — Burghausen (DE)\n\n7.8. Gasoduto Andorf (AT) — Simbach (DE)\n\n7.9. Gasoduto Wiener Neustadt (AT) — Sopron (HU)\n\n7.10. Gasoduto Bad Leonfelden (AT) — Linz (AT)\n\n7.11. Gasoduto Noroeste da Grécia — Elbasan (AL)\n\n7.12. Gasoduto de interligação Grécia — Itália\n\n7.13. Estação de compressão no gasoduto principal da Grécia\n\n7.14. Ligação entre as redes da Áustria e da República Checa\n\n7.15. Corredor de transporte de gás no Sudeste da Europa através da Grécia, antiga República jugoslava da Macedónia, Sérvia, Montenegro, Bósnia e Herzegovina, Croácia, Eslovénia e Áustria\n\n7.16. Corredor de transporte de gás entre a Áustria e a Turquia através da Hungria, Roménia e Bulgária\n\n7.17. Gasodutos de interligação entre o Reino Unido, os Países Baixos e a Alemanha, ligando as principais fontes e mercados do Noroeste da Europa\n\n7.18. Ligação do Nordeste da Alemanha (região de Berlim) ao Noroeste da Polónia (região de Szczecin), com um ramal de Schmölln a Lubmin (DE, região de Greifswald)\n\n7.19. Gasoduto Cieszyn (PL) — Ostrava (CZ)\n\n7.20. Görlitz (DE) — Zgorzelec (PL): extensão e interligação de redes separadas de gás natural\n\n7.21. Bernau (DE) — Szczecin (PL): extensão\n\n7.22. Ligação das instalações ao largo no mar do Norte ou das instalações ao largo da Dinamarca com as instalações em terra do Reino Unido\n\n7.23. Reforço da capacidade de transporte entre a França e a Itália\n\n7.24. Interligação do Báltico entre a Dinamarca — Alemanha — Suécia\n\n7.25. Estação de mistura de Winksele (BE) no eixo Norte-Sul\n\n7.26. Aumento da capacidade da ligação entre Zeebrugge (BE) e Eynatten (BE)\n\n7.27. Aumento da capacidade no eixo Norte-Oeste entre Zelzate (BE) e Zeebrugge (BE)\n\n7.28. Construção de um gasoduto de ligação da Dinamarca e dos Países Baixos e das instalações de produção existentes no mar do Norte"
+  },
+  "30f59fc74251250c": {
+   "fragment_id": "8. Desenvolvimento da capacidade de recepção de GNL e de armazenamento de gás natural",
+   "type": "divisao",
+   "heading": "8. Desenvolvimento da capacidade de recepção de GNL e de armazenamento de gás natural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. Desenvolvimento da capacidade de recepção de GNL e de armazenamento de gás natural\n\n8.1. GNL em Verdon-sur-mer (FR, novo terminal) e gasoduto para o armazenamento em Lussagnet (FR)\n\n8.2. GNL em Fos-sur-Mer (FR)\n\n8.3. GNL em Huelva (ES) (ampliação do terminal existente)\n\n8.4. GNL em Cartagena (ES) (ampliação do terminal existente)\n\n8.5. GNL na Galiza (ES) (novo terminal)\n\n8.6. GNL em Bilbau (ES) (novo terminal)\n\n8.7. GNL na região de Valência (ES) (novo terminal)\n\n8.8. GNL em Barcelona (ES) (ampliação do terminal existente)\n\n8.9. GNL em Sines (PT) (novo terminal)\n\n8.10. GNL em Revithoussa (EL) (ampliação do terminal existente)\n\n8.11. GNL na Costa Norte do Adriático (IT)\n\n8.12. GNL ao largo do Norte do mar Adriático (IT)\n\n8.13. GNL na costa Sul do Adriático (IT)\n\n8.14. GNL na costa do mar Jónico (IT)\n\n8.15. GNL na costa do mar Tirreno (IT)\n\n8.16. GNL na costa do mar da Ligúria (IT)\n\n8.17. GNL em Zeebrugge (BE, segunda fase dos aumentos de capacidade)\n\n8.18. GNL na ilha de Grain, Kent (UK)\n\n8.19. Construção de um segundo terminal GNL na Grécia continental\n\n8.20. Desenvolvimento de instalações de armazenamento subterrâneo de gás na Irlanda\n\n8.21. Armazenamento no Sul de Kavala (EL), reconversão de um campo de gás esgotado\n\n8.22. Armazenamento em Lussagnet (FR), ampliação das instalações existentes\n\n8.23. Armazenamento em Pecorade (FR), reconversão de um campo de petróleo esgotado\n\n8.24. Armazenamento na região da Alsácia (FR), desenvolvimento de cavidades salinas\n\n8.25. Armazenamento na região do Centro (FR), desenvolvimento em lençóis freáticos\n\n8.26. Armazenamento no eixo Norte-Sul de Espanha (novas instalações) na Cantábria, em Aragão, Castela e Leão, Castela-La Mancha e Andaluzia\n\n8.27. Armazenamento no eixo mediterrânico de Espanha (novas instalações) na Catalunha, Valência e Múrcia\n\n8.28. Armazenamento em Carriço (PT), novas instalações\n\n8.29. Armazenamento em Loenhout (BE), ampliação das instalações existentes\n\n8.30. Armazenamento em Stenlille (DK) e Lille Torup (DK), ampliação das instalações existentes\n\n8.31. Armazenamento em Tønder (DK), novas instalações\n\n8.32. Armazenamento em Purchkirchen (AT), ampliação das instalações existentes, incluindo o gasoduto em direcção ao sistema Penta West, próximo de Andorf (AT)\n\n8.33. Armazenamento em Baumgarten (AT), novas instalações\n\n8.34. Armazenamento em Haidach (AT), novas instalações, incluindo o gasoduto em direcção à actual rede europeia de gás\n\n8.35. Desenvolvimento de instalações de armazenamento subterrâneo de gás em Itália\n\n8.36. Armazenamento nas instalações de Wiertzchowice (PL) — ampliação das instalações\n\n8.37. Armazenamento em Kossakowo (PL), desenvolvimento do armazenamento subterrâneo\n\n8.38. Gasoduto entre Malta (MT) e a Sicília (IT)\n\n8.39. Armazenamento na Lituânia (novas instalações)"
+  },
+  "ba32245caa2915ba": {
+   "fragment_id": "9. Desenvolvimento das capacidades de transporte de gás (através de gasodutos de adução)",
+   "type": "divisao",
+   "heading": "9. Desenvolvimento das capacidades de transporte de gás (através de gasodutos de adução)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9. Desenvolvimento das capacidades de transporte de gás (através de gasodutos de adução)\n\n9.1. Construção e desenvolvimento de ligações da rede de gás nórdica: Noruega — Dinamarca — Alemanha — Suécia — Finlândia — Rússia — Estados Bálticos — Polónia\n\n9.2. Gasoduto nórdico: Noruega, Suécia e Finlândia\n\n9.3. Gasoduto da Europa do Norte: Rússia, mar Báltico e Alemanha\n\n9.4. Gasoduto da Rússia à Alemanha, através da Letónia, Lituânia e Polónia, incluindo o desenvolvimento de instalações de armazenamento subterrâneo de gás na Letónia («projecto Amber»)\n\n9.5. Gasoduto Finlândia — Estónia\n\n9.6. Novos gasodutos da Argélia à Espanha e França e aumento correspondente de capacidade das redes internas nestes países\n\n9.7. Aumento da capacidade de transporte do gasoduto Argélia — Marrocos — Espanha (até Córdova)\n\n9.8. Gasoduto Córdova (ES) — Ciudad Real (ES)\n\n9.9. Gasoduto Ciudad Real (ES) — Madrid (ES)\n\n9.10. Gasoduto Ciudad Real (ES) — costa mediterrânica (ES)\n\n9.11. Ramais em Castela-La Mancha (ES)\n\n9.12. Prolongamento para o Noroeste de Espanha\n\n9.13. Gasoduto submarino Argélia — Espanha e gasodutos de ligação com a França\n\n9.14. Aumento da capacidade de transporte de recursos da Rússia para a União Europeia através da Ucrânia, Eslováquia e República Checa\n\n9.15. Aumento da capacidade de transporte de recursos da Rússia para a União Europeia através da Bielorrússia e da Polónia\n\n9.16. Gasoduto de gás natural Yamal — Europa II\n\n9.17. Gasoduto Yagal Sud (entre o gasoduto STEGAL, conduzindo ao triângulo DE, FR, CH)\n\n9.18. Gasoduto SUDAL Este (entre o gasoduto MIDAL próximo de Heppenheim até à ligação Burghausen com o gasoduto PENTA, na Áustria)\n\n9.19. Aumento da capacidade do gasoduto STEGAL para o transporte suplementar de gás da fronteira germano-checa e da fronteira germano-polaca através da Alemanha para outros Estados-Membros\n\n9.20. Gasoduto para transporte de recursos originários da Líbia até à Itália\n\n9.21. Gasoduto para transporte de recursos originários dos países do mar Cáspio até à União Europeia\n\n9.22. Gasoduto Grécia — Turquia\n\n9.23. Aumento da capacidade de transporte dos recursos da Rússia para a Grécia e outros Estados dos Balcãs através da Ucrânia, Moldávia, Roménia e Bulgária\n\n9.24. Gasoduto St. Zagora (BG) — Ihtiman (BG)\n\n9.25. Gasoduto Trans-Adriático — Gasoduto de gás natural para as importações de gás da Bacia do Cáspio/da Rússia/do Médio Oriente que liga a Itália e os mercados da energia do Sudeste da Europa\n\n9.26. Ligação dos gasodutos entre as redes de gás alemã, checa, austríaca e italiana\n\n9.27. Gasoduto para transporte de recursos originários da Rússia até à Itália através da Ucrânia, Eslováquia, Hungria e Eslovénia\n\n9.28. Aumento da capacidade de transporte do gasoduto TENP dos Países Baixos até Itália através da Alemanha\n\n9.29. Gasoduto Taisnières (FR) — Oltingue (CH)\n\n9.30. Gasoduto da Dinamarca para a Polónia, eventualmente através da Suécia\n\n9.31. Gasoduto Nybro (DK) — Dragør (DK), incluindo o gasoduto de ligação às instalações de armazenamento em Stenlille (DK)\n\n9.32. Rede de gás para transporte de recursos do mar de Barents até à UE, através da Suécia e Finlândia\n\n9.33. Gasoduto do campo de Corrib (IE), ao largo\n\n9.34. Gasoduto para transporte de recursos da Argélia até à Itália, através da Sardenha, com ramal para a Córsega\n\n9.35. Rede de gás para transporte de recursos do Médio Oriente até à União Europeia\n\n9.36. Gasoduto da Noruega para o Reino Unido\n\n9.37. Ligação Pécs (HU) — Croácia\n\n9.38. Ligação Szeged (HU) — Oradea (RO)\n\n9.39. Ligação Vecsés (HU) — Eslováquia\n\n9.40. Beregdaróc (HU) — Ucrânia: aumento da capacidade"
+  },
+  "f63f6cd58d1dd95d": {
+   "fragment_id": "10. Acções destinadas a melhorar o funcionamento das redes de gás interligadas no âmbito do mercado interno",
+   "type": "divisao",
+   "heading": "10. Acções destinadas a melhorar o funcionamento das redes de gás interligadas no âmbito do mercado interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10. Acções destinadas a melhorar o funcionamento das redes de gás interligadas no âmbito do mercado interno\n\n(Ainda não foram definidas quaisquer especificações).\n\n---"
+  },
+  "c28847aedb7d98a4": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5ab6ce00-1195-452b-801f-e3c24a833240.0018.04/DOC_1#src.E0001)) JO C 241 de 28.9.2004, p. 17.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5ab6ce00-1195-452b-801f-e3c24a833240.0018.04/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 7 de Junho de 2005 (JO C 124 E de 25.5.2006, p. 68), posição comum do Conselho de 1 de Dezembro de 2005 (JO C 80 E de 4.4.2006, p. 1), posição do Parlamento Europeu de 4 de Abril de 2006 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 24 de Julho de 2006.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5ab6ce00-1195-452b-801f-e3c24a833240.0018.04/DOC_1#src.E0003)) JO L 176 de 15.7.2003, p. 11.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5ab6ce00-1195-452b-801f-e3c24a833240.0018.04/DOC_1#src.E0004)) JO L 176 de 15.7.2003, p. 37. Directiva alterada pela Directiva 2004/85/CE do Conselho (JO L 236 de 7.7.2004, p. 10).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/5ab6ce00-1195-452b-801f-e3c24a833240.0018.04/DOC_1#src.E0005)) JO L 176 de 15.7.2003, p. 57.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/5ab6ce00-1195-452b-801f-e3c24a833240.0018.04/DOC_1#src.E0006)) JO L 228 de 23.9.1995, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1159/2005 do Parlamento Europeu e do Conselho (JO L 191 de 22.7.2005, p. 16).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/5ab6ce00-1195-452b-801f-e3c24a833240.0018.04/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23. Decisão alterada pela Decisão 2006/512/CE (JO L 200 de 22.7.2006, p. 11).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/5ab6ce00-1195-452b-801f-e3c24a833240.0018.04/DOC_1#src.E0008)) JO L 161 de 29.6.1996, p. 154."
+  },
+  "a50b661a39d69eb0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02006D1364 — PT — 01.01.2014 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32006D1364) [DECISÃO N.º 1364/2006/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32006D1364) [de 6 de Setembro de 2006](http://publications.europa.eu/resource/celex/32006D1364) [que estabelece orientações para as redes transeuropeias de energia e revoga a Decisão 96/391/CE e a Decisão n.º 1229/2003/CE](http://publications.europa.eu/resource/celex/32006D1364) (JO L 262, 22.9.2006, p.1)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 347/2013 do Parlamento Europeu e do Conselho de 17 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0347) — L 115 — 39 — 25.4.2013"
+  }
+ }
+}

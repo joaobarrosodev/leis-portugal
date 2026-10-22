@@ -1,0 +1,345 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992L0102:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0102-20080828",
+ "dre_path": null,
+ "source_lastmod": "2008-08-28",
+ "versions": [
+  {
+   "date": "1992-12-05",
+   "future": false,
+   "celex": "31992L0102",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6fc6a3d6395172f6",
+    "72bf555cfd40875c",
+    "875b174a7d24db30",
+    "6119d50d3e2283fc",
+    "a988f82b1406cf99",
+    "947937b22e8d7f5e",
+    "c4c74859e65ec218",
+    "491895a513074d58",
+    "cb1232a3b5200d0e",
+    "ac6ff38412050470",
+    "e5fe2d6b4a780af5",
+    "061141762d9abdd6",
+    "78ea5c11d39c809d"
+   ]
+  },
+  {
+   "date": "2005-07-09",
+   "future": false,
+   "celex": "01992L0102-20050709",
+   "acts": [
+    {
+     "id": "eu:celex:32004R0021:por",
+     "title": "REGULAMENTO (CE) N. o 21/2004 DO CONSELHO de 17 de Dezembro de 2003",
+     "published": null,
+     "celex": "32004R0021"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o — Os Estados-membros são os destinatários da presente directiva. Feito em Bruxelas, em 27 de Novembro de 1992. Pelo Conselho"
+   ],
+   "fragments": [
+    "32305ddc2c0ae22a",
+    "7494340c5390e9ac",
+    "eb0d05854b114060",
+    "766aa1db9e534262",
+    "88df854048ad508f",
+    "85d13fd9473c8990",
+    "3b319d92769569b0",
+    "74712b5372ee1696",
+    "5b0a6a3d02e03877",
+    "c13dbd70e04d40d0",
+    "133e461901a92d94",
+    "e7df29f5ef6f6727",
+    "cd2062da3fdffd99",
+    "894e44344a28c837"
+   ]
+  },
+  {
+   "date": "2008-08-28",
+   "future": false,
+   "celex": "01992L0102-20080828",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "e712145765a0ca4d"
+   ]
+  }
+ ],
+ "fragments": {
+  "6fc6a3d6395172f6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 92/102/CEE do Conselho, de 27 de Novembro de 1992, relativa à identificação e ao registo de animais** *Jornal Oficial nº L 355 de 05/12/1992 p. 0032 - 0036 Edição especial finlandesa: Capítulo 3 Fascículo 46 p. 0090 Edição especial sueca: Capítulo 3 Fascículo 46 p. 0090*\n\nDIRECTIVA 92/102/CEE DO CONSELHO de 27 de Novembro de 1992 relativa à identificação e ao registo de animais\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nConsiderando que, nos termos do no 1, alínea c), do artigo 3o da Directiva 90/425/CEE do Conselho, de 26 de Junho de 1990, relativa aos controlos veterinários e zootécnicos aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno (3), os animais destinados ao comércio intracomunitário devem ser identificados de acordo com as exigências da regulamentação comunitária e registados de modo a permitir identificar a exploração, o centro ou o organismo de origem ou de passagem e que esses sistemas de identificação e registo devem, antes de 1 de Janeiro de 1993, ser tornados extensivos à circulação de animais no interior do território de cada Estado-membro;\n\nConsiderando que, nos termos do artigo 14o da Directiva 91/496/CEE do Conselho, de 15 de Julho de 1991, que fixa os princípios relativos à organização dos controlos veterinários dos animais provenientes de países terceiros introduzidos na Comunidade e que altera as Directivas 89/662/CEE, 90/425/CEE e 90/675/CEE (4), a identificação e o registo previstos no no 1, alínea c), do artigo 3o da Directiva 90/425/CEE em relação a esses animais, com excepção dos destinados a abate e dos equídeos registados, devem ser efectuados depois da realização dos referidos controlos;\n\nConsiderando que a gestão de determinados regimes comunitários de ajuda no âmbito da agricultura exige a identificação individual de determinados tipos de animais; que o sistema de identificação e de registo deve, por isso, ser adequado à aplicação e controlo das medidas em causa;\n\nConsiderando que é necessário garantir um intercâmbio rápido e eficiente de informações entre os Estados-membros, para uma correcta aplicação da presente directiva; que foram definidas disposições comunitárias pelo Regulamento (CEE) no 1468/81 do Conselho, de 19 de Maio de 1981, relativo à assistência mútua entre as autoridades administrativas dos Estados-membros e à colaboração entre estas e a Comissão, tendo em vista assegurar a boa aplicação das regulamentações aduaneira ou agrícola (5), e pela Directiva 89/608/CEE do Conselho, de 21 de Novembro de 1989, relativa à assistência mútua entre as autoridades administrativas dos Estados-membros e à colaboração entre estas e a Comissão, tendo em vista assegurar a boa aplicação das legislações veterinária e zootécnica (6);\n\nConsiderando que os detentores de animais devem manter registos actualizados dos animais existentes nas suas explorações; que as pessoas ligadas ao comércio de animais devem conservar registos das suas transacções; que a autoridade competente deve ter acesso, mediante pedido, a esses registos;\n\nConsiderando que, para permitir uma reconstituição rápida e exacta das deslocações dos animais, estes devem poder ser identificados; que, quanto aos bovinos, a forma e o conteúdo da marca devem ser definidos a nível comunitário; que, em relação aos animais das espécies suína, ovina e caprina, convém remeter para uma decisão posterior a definição da natureza da marca e, enquanto se aguarda essa decisão, manter os sistemas nacionais de identificação em relação às deslocações que se limitam ao mercado nacional;\n\nConsiderando que convém prever a possibilidade de derrogação das exigências em matéria de marcas no caso dos animais transportados directamente de uma exploração para um matadouro; que, no entanto, esses animais devem ser sempre identificados de modo a que seja possível determinar a sua exploração de origem;\n\nConsiderando que convém prever a possibilidade de derrogação da obrigação de registo dos detentores que possuam animais por razões de conveniência pessoal e para ter em conta certos casos especiais de regras sobre registos;\n\nConsiderando que, no caso dos animais em que a marca se tenha tornado ilegível ou se tenha perdido, deve ser aplicada uma nova marca que permita estabelecer uma ligação com a marca anterior;\n\nConsiderando que a presente directiva não deve afectar as exigências específicas constantes da Decisão 89/153/CEE da Comissão, de 13 de Fevereiro de 1989, relativa ao estabelecimento da relação entre as amostras colhidas para pesquisa de resíduos e os animais e respectivas explorações de origem (7), ou quaisquer regras de execução relevantes definidas nos termos da Directiva 91/496/CEE;\n\nConsiderando que há que prever um procedimento de comité de gestão para a adopção de quaisquer disposições necessárias à aplicação da presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "72bf555cfd40875c": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva estabelece as exigências mínimas em matéria de identificação e de registo de animais, sem prejuízo de regras comunitárias mais específicas que possam ser estabelecidas para a erradicação ou controlo de doenças.\n\nA presente directiva é aplicável sem prejuízo da Decisão 89/153/CEE e das regras de execução adoptadas nos termos da Directiva 91/496/CEE, e tendo em consideração o artigo 5o do Regulamento (CEE) no 3508/92 do Conselho, de 27 de Novembro de 1992, que estabelece um sistema integrado de gestão e de controlo relativo a determinados regimes de ajudas comunitários (8)."
+  },
+  "875b174a7d24db30": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nNa acepção da presente directiva entende-se por:\n\na) Animal: qualquer animal das espécies referidas nas Directivas 64/432/CEE (9) e 91/68/CEE (10);\n\nb) Exploração: qualquer estabelecimento, construção ou, no caso de uma criação ao ar livre, qualquer local em que os animais sejam mantidos, criados ou manipulados;\n\nc) Detentor: qualquer pessoa singular ou colectiva responsável pelos animais, mesmo a título provisório;\n\nd) Autoridade competente: a autoridade central de um Estado-membro competente para efectuar os controlos veterinários ou qualquer autoridade em que esta tenha delegado competência para efeitos de execução da presente directiva;\n\ne) Comércio: o comércio tal como definido no artigo 2o da Directiva 90/425/CEE."
+  },
+  "6119d50d3e2283fc": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os Estados-membros assegurarão que:\n\na) A autoridade competente disponha de uma lista actualizada de todas as explorações em que existam animais abrangidos pela presente directiva e situadas no seu território, em que se mencionam as espécies de animais existentes e os seus detentores, devendo essas explorações constar da referida lista durante três anos após o desaparecimento dos animais. Essa lista indicará igualmente a marca ou marcas utilizadas para identificação da exploração, nos termos do no 2, alínea a), do segundo parágrafo da alínea c) e do primeiro parágrafo do no 3 do artigo 5o e do artigo 8o;\n\nb) A Comissão, a autoridade competente e qualquer autoridade responsável pelo controlo da execução do Regulamento (CEE) no 3508/92 possam ter acesso a todas as informações obtidas ao abrigo da presente directiva.\n\n2. Os Estados-membros podem ser autorizados, nos termos do procedimento previsto no artigo 18o da Directiva 90/425/CEE, a excluir da lista prevista no no 1, alínea a), as pessoas singulares que detenham um máximo de três animais das espécies ovina e caprina pelos quais não peçam qualquer prémio ou, em função de circunstâncias especiais, as que detenham um porco, e que se destinem à sua própria utilização ou consumo, desde que cada um desses animais seja submetido, antes de qualquer deslocação, aos controlos previstos na presente directiva."
+  },
+  "a988f82b1406cf99": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Os Estados-membros assegurarão que:\n\na) Todos os detentores de animais das espécies bovina e suína referidos na Directiva 64/432/CEE e incluídos na lista prevista no no 1, alínea a), do artigo 3o mantenham um registo em que se indique o número de animais presentes na sua exploração.\n\nEsse registo deve incluir uma indicação actualizada de todos os nascimentos, mortes e deslocações de animais (número de animais envolvido em cada operação de entrada e saída), pelo menos com base em conjuntos deslocados, com menção, consoante o caso, da origem ou do destino dos animais e da data das deslocações.\n\nA marca de identificação aplicada nos termos dos artigos 5o e 8o deve ser mencionada em todos os casos.\n\nTodavia, para os animais da espécie suína, a menção dos nascimentos e mortes não é obrigatória.\n\nNo caso de suínos de raça pura e híbridos inscritos num livro genealógico, nos termos da Directiva 88/661/CEE (11), pode ser reconhecido um sistema de registo baseado numa identificação individual dos animais, de acordo com o procedimento previsto no artigo 18o da Directiva 90/425/CEE, se esse sistema oferecer garantias equivalentes a um registo;\n\nb) Os detentores de ovinos e caprinos cujas explorações constem da lista prevista no no 1, alínea a), do artigo 3o mantenham um registo contendo pelo menos o número total de ovinos e caprinos presentes na exploração em cada ano, numa data a determinar pela autoridade competente.\n\nEste registo incluirá igualmente:\n\n- um assento actualizado do número de fêmeas presentes na exploração, com mais de doze meses de idade ou que tenham parido antes dessa idade,\n\n- as deslocações de ovinos e caprinos (número de animais envolvido em cada operação de entrada e saída), pelo menos com base em conjuntos deslocados, com menção, consoante o caso, da origem ou destino dos animais e da data das deslocações.\n\n2. Contudo, segundo o procedimento previsto no artigo 18o da Directiva 90/425/CEE, deve ser estabelecido um sistema simplificado de registo até 1 de Janeiro de 1993 para os búfalos e até 1 de Outubro de 1994 para os ovinos e caprinos em transumância e para todos os animais acima referidos, mantidos em pastos comuns ou criados em regiões geograficamente isoladas.\n\n3. Os Estados-membros também assegurarão que:\n\na) Os detentores de animais forneçam à autoridade competente, a pedido desta, todas as informações relativas à origem, identificação e, se aplicável, ao destino dos animais que tiverem possuído, detido, transportado, comercializado ou abatido;\n\nb) Os detentores de animais destinados a um mercado ou centro de reagrupamento ou deles provenientes forneçam ao operador, temporariamente detentor dos ditos animais, no mercado ou no centro de reagrupamento, um documento com informações pormenorizadas sobre esses animais, nomeadamente os números ou marcas de identificação dos bovinos;\n\nEsse operador pode utilizar os documentos obtidos nos termos do primeiro parágrafo para cumprir as obrigações previstas no no 1, alínea a), terceiro parágrafo;\n\nc) Os registos e informações estejam disponíveis na exploração e sejam colocados à disposição da autoridade competente, a seu pedido, durante um período mínimo a determinar pela mesma autoridade, mas nunca inferior a três anos."
+  },
+  "947937b22e8d7f5e": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os Estados-membros assegurarão o respeito dos seguintes princípios gerais:\n\na) As marcas de identificação devem ser aplicadas antes de os animais abandonarem a exploração de nascimento;\n\nb) Nenhuma marca pode ser retirada ou substituída sem autorização da autoridade competente.\n\nSempre que uma marca se tenha tornado ilegível ou perdido, aplicar-se-á uma nova marca nos termos do presente artigo;\n\nc) O detentor assentará qualquer nova marca no registo referido no artigo 4o, a fim de estabelecer uma ligação com a marca aplicada anteriormente;\n\nd) A marca auricular prevista no no 2, alínea a), deve ser de um modelo aprovado pela autoridade competente e deve ser à prova de falsificação e legível durante toda a vida do animal. A marca não deve poder ser utilizada mais do que uma vez e deve ser concebida de modo a permanecer aposta no animal sem interferir com o seu bem-estar;\n\n2. Os Estados-membros assegurarão que, em relação aos bovinos:\n\na) Os animais referidos no artigo 2o da Directiva 64/432/CEE e presentes numa exploração sejam identificados através de uma marca auricular que inclua um código alfanumérico com um máximo de 14 caracteres que permita identificar individualmente cada animal e a sua exploração de nascimento ou, no caso dos touros destinados a manifestações culturais ou desportivas, excluindo feiras e exposições, segundo um sistema de identificação que ofereça garantias equivalentes e seja reconhecido pela Comissão.\n\nAs marcas auriculares referidas no primeiro parágrafo devem ser aplicadas num prazo máximo de nove meses a contar da data de adopção, de acordo com o procedimento referido no artigo 18o da Directiva 90/425/CEE, das regras de identificação do Estado-membro e da exploração de origem. Os animais que tenham sido identificados antes do termo deste prazo de nove meses deverão ser marcados, quer de acordo com os sistemas nacionais previstos no terceiro parágrafo quer mediante a marca referida no primeiro parágrafo.\n\nDe acordo com o procedimento referido no artigo 18o da Directiva 90/425/CEE, esse prazo de nove meses será, a pedido dos Estados-membros, prorrogado até 1 de Julho de 1994.\n\nTodavia, os animais que tenham sido identificados antes do termo dos referidos prazos, segundo os sistemas de identificação nacionais vigentes e notificados à Comissão, continuarão a ser controlados com base nesses sistemas;\n\nb) As marcas de identificação sejam atribuídas à exploração, distribuídas e aplicadas nos animais na forma determinada pela autoridade competente;\n\nc) As marcas de identificação sejam aplicadas o mais tardar trinta dias após o nascimento dos animais.\n\nTodavia, a autoridade competente pode diferir a aplicação dessa marca até que os animais tenham atingido uma idade máxima de seis meses, se esses animais forem identificados pelo detentor antes de completarem trinta dias de idade com uma marca provisória, reconhecida pela autoridade competente, que permita identificar a exploração de nascimento e desde que esses animais não possam sair da exploração senão para serem abatidos num matadouro situado no território da responsabilidade da mesma autoridade competente que reconheceu a marca provisória, sem passarem por nenhuma outra exploração.\n\nNo entanto, a autoridade competente pode permitir que os vitelos destinados a abate antes dos seis meses de idade e deslocados antes de atingirem trinta dias de idade, nos termos de um sistema nacional de deslocação reconhecido de acordo com o procedimento previsto no artigo 18o da Directiva 90/425/CEE que permita determinar, pelo menos, a exploração de origem, sejam marcados na exploração de engorda, desde que esses animais tenham transitado directamente da exploração de nascimento para a exploração de engorda e que os vitelos deslocados no contexto desses sistemas não sejam elegíveis para a atribuição de um prémio.\n\n3. Os animais que não os bovinos devem ser marcados o mais rapidamente possível e, em todo o caso, antes de deixarem a exploração, com uma marca auricular ou uma tatuagem que permita relacionar o animal com a sua exploração de proveniência e fazer uma referência à lista referida no no 1, alínea a), do artigo 3o, devendo os documentos de acompanhamento mencionar essa marca.\n\nNa pendência da decisão prevista no artigo 10o da presente directiva e em derrogação do segundo parágrafo da alínea c) do no 1 do artigo 3o da Directiva 90/425/CEE, os Estados-membros podem aplicar os seus sistemas nacionais relativos ao movimento de animais a todas as deslocações de animais não bovinos nos seus territórios. Esses sistemas devem permitir a identificação da exploração de proveniência dos animais e da exploração onde nasceram. Os Estados-membros notificarão a Comissão dos sistemas que tencionem aplicar para este fim, a partir de 1 de Julho de 1993 para os suínos e a partir de 1 parágrafos, de Julho de 1994 para os ovinos e caprinos. De acordo com o procedimento previsto no artigo 18o da Directiva 90/425/CEE, um Estado-membro pode ser convidado a proceder a alterações no sistema se este não satisfizer o requisito mencionado no segundo período deste parágrafo.\n\nOs animais portadores de uma marca temporária de identificação de uma remessa devem ser acompanhados durante toda a deslocação por um documento que permita identificar a sua origem, proprietário e locais de partida e de destino.\n\nContudo, a autoridade competente pode autorizar a deslocação de ovinos e caprinos não munidos de marcas entre explorações com o mesmo estatuto sanitário, pertencentes ao mesmo proprietário e situadas no território da responsabilidade da referida autoridade, desde que essa deslocação se realize no âmbito de um sistema nacional que permita relacionar o animal com a exploração de nascimento. Os Estados-membros devem notificar a Comissão dos sistemas que tencionam instituir para o efeito até 1 de Julho de 1994. De acordo com o procedimento previsto no artigo 18o da Directiva 90/425/CEE, os Estados-membros podem ser convidados a alterar o seu sistema quando esse não preencha o requisito acima referido.\n\n4. No no 2 do artigo 3o da Directiva 64/432/CEE, a alínea e) passa a ter a seguinte redacção:\n\n« e) Ser identificados em conformidade com o artigo 5o da Directiva 92/102/CEE do Conselho de 27 de Novembro de 1992, relativa à identificação e ao registo de animais (*).\n\n(*) JO no L 355 de 5. 12. 1992, p. 32. »."
+  },
+  "c4c74859e65ec218": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Sempre que a autoridade competente do Estado-membro de destino decidir não conservar a marca de identificação atribuída à exploração de origem, todas as despesas associadas à substituição da marca estarão a cargo da referida autoridade. Se a marca tiver sido substituída desse modo, deverá ser estabelecida uma relação entre a identificação atribuída pela autoridade competente do Estado-membro de expedição e a nova identificação atribuída pela autoridade competente do Estado-membro de destino, e essa relação deverá constar no registo previsto no artigo 4o\n\nNão se pode recorrer à possibilidade prevista no primeiro parágrafo no caso de animais destinados ao matadouro que são importados nos termos do artigo 8o sem necessidade de uma nova marca nos termos do artigo 5o\n\n2. Sempre que os animais tenham sido objecto de comércio e para efeito de aplicação do artigo 5o da Directiva 90/425/CEE, a autoridade competente do Estado-membro de destino pode recorrer ao disposto no artigo 4o da Directiva 89/608/CEE para obter informações sobre os animais, os respectivos efectivos de origem e as suas eventuais deslocações."
+  },
+  "491895a513074d58": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros assegurarão que todas as informações relativas às deslocações de animais não acompanhados de um certificado ou documento exigido pela legislação veterinária ou zootécnica sejam conservadas a fim de serem apresentadas a seu pedido à autoridade competente, durante um período mínimo a fixar por essa autoridade."
+  },
+  "cb1232a3b5200d0e": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs animais importados de um país terceiro que tenham sido submetidos com resultados satisfatórios aos controlos previstos na Directiva 91/496/CEE e que permaneçam no território da Comunidade deverão ser identificados por uma marca, tal como previsto no artigo 5o, nos trinta dias seguintes a ter sido sujeito a esses controlos e sempre antes da sua deslocação, excepto se a exploração de destino for um matadouro situado no território da autoridade responsável pelos controlos veterinários e se o animal for efectivamente abatido nesse prazo de trinta dias.\n\nDeve ser estabelecida uma relação entre a identificação feita pelo país terceiro e a identificação que lhe for atribuída pelo Estado-membro de destino. Essa relação deverá constar no registo previsto no artigo 4o"
+  },
+  "ac6ff38412050470": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros tomarão as medidas administrativas e/ou penais necessárias para punir qualquer infracção à legislação veterinária comunitária, sempre que se verifique que a marcação, a identificação dos animais ou a manutenção de registos prevista no artigo 4o não foram efectuadas em conformidade com os requisitos da presente directiva."
+  },
+  "e5fe2d6b4a780af5": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nO mais tardar em 31 de Dezembro de 1996, o Conselho, com base num relatório da Comissão, acompanhado de eventuais propostas sobre as quais deliberará por maioria qualificada, reanalisará a presente directiva, à luz da experiência adquirida, para definir um sistema comunitário harmonizado de identificação e de registo, e decidirá da possibilidade de introdução de um dispositivo electrónico de identificação em função dos progressos realizados nesse domínio pela Organização Internacional de Normalização (ISO)."
+  },
+  "061141762d9abdd6": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva:\n\n- no que se refere às exigências relativas aos bovinos, de modo a que:\n\ni) os bovinos que, a partir de 1 de Fevereiro de 1993, sejam sujeitos a registo de acordo com as normas nacionais existentes que respeitem as exigências previstas no artigo 4o e a uma identificação segundo as regras do no 2, alínea a), segundo e terceiro parágrafos, do artigo 5o,\n\nii) os sistemas comunitários de registo e identificação previstos na presente directiva sejam instituídos a partir de 1 de Outubro de 1993,\n\n- até 1 de Janeiro de 1994 no que se refere às exigências relativas aos suínos,\n\n- até 1 de Janeiro de 1995 no que se refere às exigências relativas aos ovinos e caprinos.\n\nDo facto informarão imediatamente a Comissão.\n\nAs disposições adoptadas pelos Estados-membros devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva.\n\n3. A fixação do termo do prazo de transposição em 1 de Janeiro de 1994 e em 1 de Janeiro de 1995 não prejudica a abolição dos controlos veterinários nas fronteiras prevista na Directiva 90/425/CEE."
+  },
+  "78ea5c11d39c809d": {
+   "fragment_id": "Artigo 12o — Os Estados-membros são os destinatários da presente directiva. Feito em Bruxelas, em 27 de Novembro de 1992. Pelo Conselho",
+   "type": "artigo",
+   "heading": "Artigo 12o — Os Estados-membros são os destinatários da presente directiva. Feito em Bruxelas, em 27 de Novembro de 1992. Pelo Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o — Os Estados-membros são os destinatários da presente directiva. Feito em Bruxelas, em 27 de Novembro de 1992. Pelo Conselho\n\nO Presidente\n\nJ. PATTEN\n\n(1) JO no C 137 de 27. 5. 1992, p. 7. (2) Parecer emitido em 19 de Novembro de 1992 (ainda não publicado no Jornal Oficial). (3) JO no L 224 de 18. 8. 1990, p. 29. Directiva com a última redacção que lhe foi dada pela Directiva 91/496/CEE (JO no L 268 de 24. 9. 1991, p. 56). (4) JO no L 268 de 24. 9. 1991, p. 56. Directiva com a última redacção que lhe foi dada pela Directiva 91/628/CEE (JO no L 340 de 11. 12. 1991, p. 17). (5) JO no L 144 de 2. 6. 1981, p. 1. Regulamento alterado pelo Regulamento (CEE) no 945/87 (JO no L 90 de 2. 4. 1987, p. 3). (6) JO no L 351 de 2. 12. 1989, p. 34. (7) JO no L 59 de 2. 3. 1989, p. 33. (8) Ver página 1 do presente Jornal Oficial. (9) Directiva 64/432/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas de fiscalização sanitária em matéria de comércio intracomunitário de animais das espécies bovina e suína (JO no 121 de 29. 7. 1964, p. 1977/64). Directiva com a última redacção que lhe foi dada pela Directiva 91/687/CEE (JO no L 377 de 31. 12. 1991, p. 16). (10) Directiva 91/68/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem as trocas comerciais intracomunitárias de ovinos e caprinos (JO no L 46 de 19. 2. 1991, p. 19). (11) Directiva 88/661/CEE do Conselho, de 19 de Dezembro de 1988, relativa às normas zootécnicas aplicáveis aos animais reprodutores da espécie suína (JO no L 382 de 31. 12. 1988, p. 36)."
+  },
+  "32305ddc2c0ae22a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Novembro de 1992\n\nrelativa à identificação e ao registo de animais\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/eacbaf66-e0ea-449d-ae01-478c92229bd6.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/eacbaf66-e0ea-449d-ae01-478c92229bd6.0018.03/DOC_1#E0002)),\n\nConsiderando que, nos termos do n.º 1, alínea c), do artigo 3.º da Directiva 90/425/CEE do Conselho, de 26 de Junho de 1990, relativa aos controlos veterinários e zootécnicos aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno ([^3^](http://publications.europa.eu/resource/cellar/eacbaf66-e0ea-449d-ae01-478c92229bd6.0018.03/DOC_1#E0003)), os animais destinados ao comércio intracomunitário devem ser identificados de acordo com as exigências da regulamentação comunitária e registados de modo a permitir identificar a exploração, o centro ou o organismo de origem ou de passagem e que esses sistemas de identificação e registo devem, antes de 1 de Janeiro de 1993, ser tornados extensivos à circulação de animais no interior do território de cada Estado-membro;\n\nConsiderando que, nos termos do artigo 14.º da Directiva 91/496/CEE do Conselho, de 15 de Julho de 1991, que fixa os princípios relativos à organização dos controlos veterinários dos animais provenientes de países terceiros introduzidos na Comunidade e que altera as Directivas 89/662/CEE, 90/425/CEE e 90/675/CEE ([^4^](http://publications.europa.eu/resource/cellar/eacbaf66-e0ea-449d-ae01-478c92229bd6.0018.03/DOC_1#E0004)), a identificação e o registo previstos no n.º 1, alínea c), do artigo 3.º da Directiva 90/425/CEE em relação a esses animais, com excepção dos destinados a abate e dos equídeos registados, devem ser efectuados depois da realização dos referidos controlos;\n\nConsiderando que a gestão de determinados regimes comunitários de ajuda no âmbito da agricultura exige a identificação individual de determinados tipos de animais; que o sistema de identificação e de registo deve, por isso, ser adequado à aplicação e controlo das medidas em causa;\n\nConsiderando que é necessário garantir um intercâmbio rápido e eficiente de informações entre os Estados-membros, para uma correcta aplicação da presente directiva; que foram definidas disposições comunitárias pelo Regulamento (CEE) n.º 1468/81 do Conselho, de 19 de Maio de 1981, relativo à assistência mútua entre as autoridades administrativas dos Estados-membros e à colaboração entre estas e a Comissão, tendo em vista assegurar a boa aplicação das regulamentações aduaneira ou agrícola ([^5^](http://publications.europa.eu/resource/cellar/eacbaf66-e0ea-449d-ae01-478c92229bd6.0018.03/DOC_1#E0005)), e pela Directiva 89/608/CEE do Conselho, de 21 de Novembro de 1989, relativa à assistência mútua entre as autoridades administrativas dos Estados-membros e à colaboração entre estas e a Comissão, tendo em vista assegurar a boa aplicação das legislações veterinária e zootécnica ([^6^](http://publications.europa.eu/resource/cellar/eacbaf66-e0ea-449d-ae01-478c92229bd6.0018.03/DOC_1#E0006));\n\nConsiderando que os detentores de animais devem manter registos actualizados dos animais existentes nas suas explorações; que as pessoas ligadas ao comércio de animais devem conservar registos das suas transacções; que a autoridade competente deve ter acesso, mediante pedido, a esses registos;\n\nConsiderando que, para permitir uma reconstituição rápida e exacta das deslocações dos animais, estes devem poder ser identificados; que, quanto aos bovinos, a forma e o conteúdo da marca devem ser definidos a nível comunitário; que, em relação aos animais das espécies suína, ovina e caprina, convém remeter para uma decisão posterior a definição da natureza da marca e, enquanto se aguarda essa decisão, manter os sistemas nacionais de identificação em relação às deslocações que se limitam ao mercado nacional;\n\nConsiderando que convém prever a possibilidade de derrogação das exigências em matéria de marcas no caso dos animais transportados directamente de uma exploração para um matadouro; que, no entanto, esses animais devem ser sempre identificados de modo a que seja possível determinar a sua exploração de origem;\n\nConsiderando que convém prever a possibilidade de derrogação da obrigação de registo dos detentores que possuam animais por razões de conveniência pessoal e para ter em conta certos casos especiais de regras sobre registos;\n\nConsiderando que, no caso dos animais em que a marca se tenha tornado ilegível ou se tenha perdido, deve ser aplicada uma nova marca que permita estabelecer uma ligação com a marca anterior;\n\nConsiderando que a presente directiva não deve afectar as exigências específicas constantes da Decisão 89/153/CEE da Comissão, de 13 de Fevereiro de 1989, relativa ao estabelecimento da relação entre as amostras colhidas para pesquisa de resíduos e os animais e respectivas explorações de origem ([^7^](http://publications.europa.eu/resource/cellar/eacbaf66-e0ea-449d-ae01-478c92229bd6.0018.03/DOC_1#E0007)), ou quaisquer regras de execução relevantes definidas nos termos da Directiva 91/496/CEE;\n\nConsiderando que há que prever um procedimento de comité de gestão para a adopção de quaisquer disposições necessárias à aplicação da presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "7494340c5390e9ac": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva estabelece as exigências mínimas em matéria de identificação e de registo de animais, sem prejuízo de regras comunitárias mais específicas que possam ser estabelecidas para a erradicação ou controlo de doenças.\n\nA presente directiva é aplicável sem prejuízo da Decisão 89/153/CEE e das regras de execução adoptadas nos termos da Directiva 91/496/CEE, e tendo em consideração o artigo 5.º do Regulamento (CEE) n.º 3508/92 do Conselho, de 27 de Novembro de 1992, que estabelece um sistema integrado de gestão e de controlo relativo a determinados regimes de ajudas comunitários ([^8^](http://publications.europa.eu/resource/cellar/eacbaf66-e0ea-449d-ae01-478c92229bd6.0018.03/DOC_1#E0008))."
+  },
+  "eb0d05854b114060": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nNa acepção da presente directiva entende-se por:\n\na) *Animal:* qualquer animal das espécies referidas na Directiva 64/432/CEE ([^9^](http://publications.europa.eu/resource/cellar/eacbaf66-e0ea-449d-ae01-478c92229bd6.0018.03/DOC_1#E0013)), com excepção dos da espécie bovina;\n\nb) *Exploração:* qualquer estabelecimento, construção ou, no caso de uma criação ao ar livre, qualquer local em que os animais sejam mantidos, criados ou manipulados;\n\nc) *Detentor:* qualquer pessoa singular ou colectiva responsável pelos animais, mesmo a título provisório;\n\nd) *Autoridade competente:* a autoridade central de um Estado-membro competente para efectuar os controlos veterinários ou qualquer autoridade em que esta tenha delegado competência para efeitos de execução da presente directiva;\n\ne) *Comércio:* o comércio tal como definido no artigo 2.º da Directiva 90/425/CEE."
+  },
+  "766aa1db9e534262": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-membros assegurarão que:\n\na) A autoridade competente disponha de uma lista actualizada de todas as explorações em que existam animais abrangidos pela presente directiva e situadas no seu território, em que se mencionam as espécies de animais existentes e os seus detentores, devendo essas explorações constar da referida lista durante três anos após o desaparecimento dos animais. Essa lista indicará igualmente a marca ou marcas utilizadas para identificação da exploração, nos termos do n.º 2, alínea a), do segundo parágrafo da alínea c) e do primeiro parágrafo do n.º 3 do artigo 5.º e do artigo 8.º;\n\nb) A Comissão, a autoridade competente e qualquer autoridade responsável pelo controlo da execução do Regulamento (CEE) n.º 3508/92 possam ter acesso a todas as informações obtidas ao abrigo da presente directiva.\n\n2. [**►M1**](http://publications.europa.eu/resource/celex/32004R0021) Os Estados-Membros podem ser autorizados, nos termos do artigo 18.º da Directiva 90/425/CEE, a excluir da lista prevista na alínea a) do n.º 1 do presente artigo as pessoas singulares que detenham um único porco destinado à sua própria utilização ou consumo, ou em função de circunstâncias especiais, desde que esse animal seja submetido, antes de qualquer deslocação, aos controlos previstos na presente directiva.**◄**"
+  },
+  "88df854048ad508f": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-membros assegurarão que:\n\na) Todos os detentores de [**►M1**](http://publications.europa.eu/resource/celex/32004R0021) suínos**◄** referidos na Directiva 64/432/CEE e incluídos na lista prevista no n.º 1, alínea a), do artigo 3.º mantenham um registo em que se indique o número de animais presentes na sua exploração.\n\n2. Contudo, segundo o procedimento previsto no artigo 18.º da Directiva 90/425/CEE, deve ser estabelecido um sistema simplificado de registo até 1 de Janeiro de 1993 para os búfalos e até 1 de Outubro de 1994 para os ovinos e caprinos em transumância e para todos os animais acima referidos, mantidos em pastos comuns ou criados em regiões geograficamente isoladas.\n\n3. Os Estados-membros também assegurarão que:\n\na) Os detentores de animais forneçam à autoridade competente, a pedido desta, todas as informações relativas à origem, identificação e, se aplicável, ao destino dos animais que tiverem possuído, detido, transportado, comercializado ou abatido;\n\nb) [**►M1**](http://publications.europa.eu/resource/celex/32004R0021) Os detentores de animais destinados a um mercado ou centro de reagrupamento ou deles provenientes forneçam ao operador temporariamente detentor dos ditos animais no mercado ou centro de reagrupamento um documento com informações pormenorizadas sobre esses animais;**◄**\n\nc) Os registos e informações estejam disponíveis na exploração e sejam colocados à disposição da autoridade competente, a seu pedido, durante um período mínimo a determinar pela mesma autoridade, mas nunca inferior a três anos."
+  },
+  "85d13fd9473c8990": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-membros assegurarão o respeito dos seguintes princípios gerais:\n\na) As marcas de identificação devem ser aplicadas antes de os animais abandonarem a exploração de nascimento;\n\nb) Nenhuma marca pode ser retirada ou substituída sem autorização da autoridade competente.\n\nc) O detentor assentará qualquer nova marca no registo referido no artigo 4.º, a fim de estabelecer uma ligação com a marca aplicada anteriormente;\n\nd) A marca auricular prevista no n.º 2, alínea a), deve ser de um modelo aprovado pela autoridade competente e deve ser à prova de falsificação e legível durante toda a vida do animal. A marca não deve poder ser utilizada mais do que uma vez e deve ser concebida de modo a permanecer aposta no animal sem interferir com o seu bem-estar;\n\n3. Os animais [**►M1**](http://publications.europa.eu/resource/celex/32004R0021) —————**◄** devem ser marcados o mais rapidamente possível e, em todo o caso, antes de deixarem a exploração, com uma marca auricular ou uma tatuagem que permita relacionar o animal com a sua exploração de proveniência e fazer uma referência à lista referida no n.º 1, alínea a), do artigo 3.º, devendo os documentos de acompanhamento mencionar essa marca.\n\nEnquanto se aguarda a decisão prevista no artigo 10.º da presente directiva e em derrogação do artigo 3.º, n.º 1, alínea c), segundo parágrafo, da Directiva 90/425/CEE, os Estados-Membros podem aplicar os seus sistemas nacionais relativos a todas as deslocações de animais nos seus territórios. Esses sistemas devem permitir a identificação da exploração de proveniência dos animais e da exploração onde nasceram. Os Estados-Membros notificarão a Comissão dos sistemas que tencionem aplicar para este fim, a partir de 1 de Julho de 1993 para os suínos. Um Estado-Membro pode, nos termos do artigo 18.º da Directiva 90/425/CEE, ser convidado a proceder a alterações no seu sistema se este não satisfizer o requisito acima referido.\n\nOs animais portadores de uma marca temporária de identificação de uma remessa devem ser acompanhados durante toda a deslocação por um documento que permita identificar a sua origem, proprietário e locais de partida e de destino."
+  },
+  "3b319d92769569b0": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Sempre que a autoridade competente do Estado-membro de destino decidir não conservar a marca de identificação atribuída à exploração de origem, todas as despesas associadas à substituição da marca estarão a cargo da referida autoridade. Se a marca tiver sido substituída desse modo, deverá ser estabelecida uma relação entre a identificação atribuída pela autoridade competente do Estado-membro de expedição e a nova identificação atribuída pela autoridade competente do Estado-membro de destino, e essa relação deverá constar no registo previsto no artigo 4.º\n\nNão se pode recorrer à possibilidade prevista no primeiro parágrafo no caso de animais destinados ao matadouro que são importados nos termos do artigo 8.º sem necessidade de uma nova marca nos termos do artigo 5.º\n\n2. Sempre que os animais tenham sido objecto de comércio e para efeito de aplicação do artigo 5.º da Directiva 90/425/CEE, a autoridade competente do Estado-membro de destino pode recorrer ao disposto no artigo 4.º da Directiva 89/608/CEE para obter informações sobre os animais, os respectivos efectivos de origem e as suas eventuais deslocações."
+  },
+  "74712b5372ee1696": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-membros assegurarão que todas as informações relativas às deslocações de animais não acompanhados de um certificado ou documento exigido pela legislação veterinária ou zootécnica sejam conservadas a fim de serem apresentadas a seu pedido à autoridade competente, durante um período mínimo a fixar por essa autoridade."
+  },
+  "5b0a6a3d02e03877": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs animais importados de um país terceiro que tenham sido submetidos com resultados satisfatórios aos controlos previstos na Directiva 91/496/CEE e que permaneçam no território da Comunidade deverão ser identificados por uma marca, tal como previsto no artigo 5.º, nos trinta dias seguintes a ter sido sujeito a esses controlos e sempre antes da sua deslocação, excepto se a exploração de destino for um matadouro situado no território da autoridade responsável pelos controlos veterinários e se o animal for efectivamente abatido nesse prazo de trinta dias.\n\nDeve ser estabelecida uma relação entre a identificação feita pelo país terceiro e a identificação que lhe for atribuída pelo Estado-membro de destino. Essa relação deverá constar no registo previsto no artigo 4.º"
+  },
+  "c13dbd70e04d40d0": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros tomarão as medidas administrativas e/ou penais necessárias para punir qualquer infracção à legislação veterinária comunitária, sempre que se verifique que a marcação, a identificação dos animais ou a manutenção de registos prevista no artigo 4.º não foram efectuadas em conformidade com os requisitos da presente directiva."
+  },
+  "133e461901a92d94": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO mais tardar em 31 de Dezembro de 1996, o Conselho, com base num relatório da Comissão, acompanhado de eventuais propostas sobre as quais deliberará por maioria qualificada, reanalisará a presente directiva, à luz da experiência adquirida, para definir um sistema comunitário harmonizado de identificação e de registo, e decidirá da possibilidade de introdução de um dispositivo electrónico de identificação em função dos progressos realizados nesse domínio pela Organização Internacional de Normalização (ISO)."
+  },
+  "e7df29f5ef6f6727": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva:\n\n— até 1 de Janeiro de 1994 no que se refere às exigências relativas aos suínos,\n\n— para a Finlândia, até 1 de Janeiro de 1996, no que se refere às exigências relativas aos bovinos,suínos, ovinos e caprinos. Se necessário, a Comissão adoptará, durante o período transitório, medidas adequadas, nos termos do procedimento previsto no artigo 18.º da Directiva 90/425/CEE do Conselho.\n\nDo facto informarão imediatamente a Comissão.\n\nAs disposições adoptadas pelos Estados-membros devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva.\n\n3. A fixação do termo do prazo de transposição em 1 de Janeiro de 1994 e em 1 de Janeiro de 1995 não prejudica a abolição dos controlos veterinários nas fronteiras prevista na Directiva 90/425/CEE."
+  },
+  "cd2062da3fdffd99": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n---"
+  },
+  "894e44344a28c837": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/eacbaf66-e0ea-449d-ae01-478c92229bd6.0018.03/DOC_1#src.E0001)) JO n.º C 137 de 27. 5. 1992, p. 7.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/eacbaf66-e0ea-449d-ae01-478c92229bd6.0018.03/DOC_1#src.E0002)) Parecer emitido em 19 de Novembro de 1992 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/eacbaf66-e0ea-449d-ae01-478c92229bd6.0018.03/DOC_1#src.E0003)) JO n.º L 224 de 18. 8. 1990, p. 29. Directiva com a última redacção que lhe foi dada pela Directiva 91/496/CEE (JO n.º L 268 de 24. 9. 1991, p. 56).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/eacbaf66-e0ea-449d-ae01-478c92229bd6.0018.03/DOC_1#src.E0004)) JO n.º L 268 de 24. 9. 1991, p. 56. Directiva com a última redacção que lhe foi dada pela Directiva 91/628/CEE (JO n.º L 340 de 11. 12. 1991, p. 17).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/eacbaf66-e0ea-449d-ae01-478c92229bd6.0018.03/DOC_1#src.E0005)) JO n.º L 144 de 2. 6. 1981, p. 1. Regulamento alterado pelo Regulamento (CEE) n.º 945/87 (JO n.º L 90 de 2. 4. 1987, p. 3).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/eacbaf66-e0ea-449d-ae01-478c92229bd6.0018.03/DOC_1#src.E0006)) JO n.º L 351 de 2. 12. 1989, p. 34.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/eacbaf66-e0ea-449d-ae01-478c92229bd6.0018.03/DOC_1#src.E0007)) JO n.º L 59 de 2. 3. 1989, p. 33.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/eacbaf66-e0ea-449d-ae01-478c92229bd6.0018.03/DOC_1#src.E0008)) Ver página 1 do presente Jornal Oficial.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/eacbaf66-e0ea-449d-ae01-478c92229bd6.0018.03/DOC_1#src.E0013)) JO L 121 de 29.7.1964, p. 1977/64).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/eacbaf66-e0ea-449d-ae01-478c92229bd6.0018.03/DOC_1#src.E0011)) Directiva 88/661/CEE do Conselho, de 19 de Dezembro de 1988, relativa às normas zootécnicas aplicáveis aos animais reprodutores da espécie suína (JO n.º L 382 de 31. 12. 1988, p. 36)."
+  },
+  "e712145765a0ca4d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992L0102 — PT — 28.08.2008 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31992L0102) [DIRECTIVA 92/102/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31992L0102) [de 27 de Novembro de 1992](http://publications.europa.eu/resource/celex/31992L0102) [relativa à identificação e ao registo de animais](http://publications.europa.eu/resource/celex/31992L0102) (JO L 355, 5.12.1992, p.32)\n\n**revogado por:**\n\n- [Directiva 2008/71/CE do Conselho de 15 de Julho de 2008](http://publications.europa.eu/resource/celex/32008L0071) — L 213 — 31 — 8.8.2008"
+  }
+ }
+}

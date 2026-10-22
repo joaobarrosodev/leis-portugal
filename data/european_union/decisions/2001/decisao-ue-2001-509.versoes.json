@@ -1,0 +1,38 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001D0509:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001D0509-20060313",
+ "dre_path": null,
+ "source_lastmod": "2006-03-13",
+ "versions": [
+  {
+   "date": "2001-07-06",
+   "future": false,
+   "celex": "32001D0509",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0fd40ba5db9f9157",
+    "83aa3d4ce74b65c2"
+   ]
+  }
+ ],
+ "fragments": {
+  "0fd40ba5db9f9157": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**2001/509/CE: Decisão do Conselho, de 26 de Junho de 2001, relativa à adesão da Comunidade Europeia ao Regulamento n.° 108 da Comissão Económica para a Europa das Nações Unidas relativo à homologação da produção de pneumáticos recauchutados para veículos automóveis e seus reboques** *Jornal Oficial nº L 183 de 06/07/2001 p. 0037 - 0037*\n\nDecisão do Conselho\n\nde 26 de Junho de 2001\n\nrelativa à adesão da Comunidade Europeia ao Regulamento n.o 108 da Comissão Económica para a Europa das Nações Unidas relativo à homologação da produção de pneumáticos recauchutados para veículos automóveis e seus reboques\n\n(2001/509/CE)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Decisão 97/836/CE de 27 de Novembro de 1997, relativa à adesão da Comunidade Europeia ao Acordo da Comissão Económica para a Europa das Nações Unidas relativo à adopção de prescrições técnicas uniformes aplicáveis aos veículos de rodas, aos equipamentos e às peças susceptíveis de serem montados ou utilizados num veículo de rodas e as condições de reconhecimento recíproco das homologações emitidas em conformidade com essas prescrições(1) (\"Acordo de 1958 Revisto\"), e, nomeadamente, o n.o 3 do seu artigo 3.o e o n.o 2, segundo travessão, do seu artigo 4.o;\n\nTendo em conta a proposta da Comissão(2),\n\nTendo em conta o parecer favorável do Parlamento Europeu(3),\n\nConsiderando o seguinte:\n\n(1) As prescrições uniformes do Regulamento n.o 108 da Comissão Económica para a Europa das Nações Unidas relativo à homologação da produção de pneumáticos recauchutados para veículos automóveis e seus reboques têm por objectivo eliminar os entraves técnicos ao comércio de automóveis a motor entre as Partes Contratantes no que diz respeito aos pneumáticos recauchutados e assegurar um elevado grau de segurança e de protecção do ambiente.\n\n(2) As Partes Contratantes foram notificadas do Regulamento n.o 108, que entrou em vigor como regulamento anexo ao Acordo Revisto de 1958, para todas as Partes Contratantes que não notificaram o seu desacordo na data ou datas nele indicadas.\n\n(3) Para permitir aos operadores económicos tomarem as medidas adequadas para cumprirem a tempo as disposições do Regulamento n.o 108 e para não perturbar o mercado de pneumáticos recauchutados, nomeadamente através de datas de entrada em vigor que poderiam diferir de um Estado-Membro para outro, a aplicação uniforme desse regulamento em toda a Comunidade será regulamentada posteriormente através de uma directiva comunitária. O Regulamento n.o 108 não será todavia integrado no sistema de homologação de veículos a motor e seus reboques,\n\nDECIDE:"
+  },
+  "83aa3d4ce74b65c2": {
+   "fragment_id": "Artigo único",
+   "type": "artigo",
+   "heading": "Artigo único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo único\n\nA Comunidade Europeia adere ao Regulamento n.o 108 da Comissão Económica para a Europa das Nações Unidas relativo à homologação da produção de pneumáticos recauchutados para veículos automóveis e seus reboques.\n\nO texto desse regulamento acompanha a presente decisão(4).\n\nFeito no Luxemburgo, em 26 de Junho de 2001.\n\nPelo Conselho\n\nO Presidente\n\nT. Östros\n\n(1) JO L 346 de 17.12.1997, p. 78.\n\n(2) JO C 177 E de 22.6.2000, p. 47.\n\n(3) Parecer emitido em 15 de Maio de 2001 (ainda não publicado no Jornal Oficial).\n\n(4) O regulamento será publicado posteriormente no Jornal Oficial."
+  }
+ }
+}

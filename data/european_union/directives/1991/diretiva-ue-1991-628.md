@@ -35,6 +35,51 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-05'
+version_history:
+  file: diretiva-ue-1991-628.versoes.json
+  count: 2
+  source_lastmod: '2007-01-05'
+  versions:
+  - date: '1991-12-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I Disposições gerais
+    - Suprime Artigo 1o.
+    - Suprime Artigo 2o.
+    - Suprime CAPÍTULO II Transporte e controlo no território da Comunidade
+    - Suprime Artigo 3o.
+    - Suprime Artigo 4o.
+    - Suprime Artigo 5o.
+    - Suprime Artigo 6o.
+    - Suprime Artigo 7o.
+    - Suprime Artigo 8o.
+    - Suprime Artigo 9o.
+    - Suprime Artigo 10o.
+    - Suprime CAPÍTULO III Importação proveniente de países terceiros
+    - Suprime Artigo 11o.
+    - Suprime CAPÍTULO IV Disposições finais
+    - Suprime Artigo 12o.
+    - Suprime Artigo 13o.
+    - Suprime Artigo 14o.
+    - Suprime Artigo 15o.
+    - Suprime Artigo 16o.
+    - Suprime Artigo 17o.
+    - Suprime Artigo 18o.
+    - Suprime Artigo 19o.
+    - Suprime Artigo 20o.
+    - Suprime Artigo 21o.
+    - Suprime Artigo 22o.
+    - Suprime ANEXO — CAPÍTULO I SOLÍPEDES DOMÉSTICOS E ANIMAIS DOMÉSTICOS DAS ESPÉCIES BOVINA, OVINA, CAPRINA E SUÍNA
+    - Suprime CAPÍTULO II AVES DE CAPOEIRA, AVES DOMÉSTICAS E COELHOS DOMÉSTICOS
+    - Suprime CAPÍTULO III CÃES DOMÉSTICOS E GATOS DOMÉSTICOS
+    - Suprime CAPÍTULO IV OUTROS MAMÍFEROS E AVES
+    - Suprime CAPÍTULO V OUTROS ANIMAIS VERTEBRADOS E ANIMAIS DE SANGUE FRIO
 identifiers:
   celex: 31991L0628
   eli: http://data.europa.eu/eli/dir/1991/628/oj
@@ -49,7 +94,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cadf7620-22d6-4c15-a8b7-f2508c2ac344.0009
   content_url: http://publications.europa.eu/resource/cellar/88947e12-a1b4-4b46-97b2-cf526765d43f.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0628-20070105
-  retrieved_at: '2026-10-22T02:38:55Z'
+  retrieved_at: '2026-10-22T14:39:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-31T20:09:38.943+02:00'
 integrity:
@@ -58,9 +103,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:55Z'
-  notes: Texto consolidado 01991L0628-20070105.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:39:29Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1991-628.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -245,16 +290,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:55Z'
+  checked_at: '2026-10-22T14:39:29Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01991L0628-19920724: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0628-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0628-19950630: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0628-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -34,6 +34,75 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-01-20'
+version_history:
+  file: diretiva-ue-1988-388.versoes.json
+  count: 3
+  source_lastmod: '2011-01-20'
+  versions:
+  - date: '1988-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-11-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I — Teores máximos de certas substâncias indesejáveis presentes nos géneros alimentícios consumidos não
+      transformados e devidas à utilização de aromas
+    - Altera ANEXO II
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 9.oA
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+  - date: '2011-01-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 9.oA
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime ANEXO I — Teores máximos de certas substâncias indesejáveis presentes nos géneros alimentícios consumidos não
+      transformados e devidas à utilização de aromas
+    - Suprime ANEXO II
 identifiers:
   celex: 31988L0388
   eli: http://data.europa.eu/eli/dir/1988/388/oj
@@ -48,7 +117,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4f729209-04b9-42ac-a202-4487fad12882.0011
   content_url: http://publications.europa.eu/resource/cellar/80dcc5f1-535f-4750-8de7-48174050cd07.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01988L0388-20110120
-  retrieved_at: '2026-10-22T02:50:03Z'
+  retrieved_at: '2026-10-22T14:35:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T00:52:16.902+01:00'
 integrity:
@@ -57,9 +126,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:50:03Z'
-  notes: Texto consolidado 01988L0388-20110120.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:35:23Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1988-388.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -129,16 +198,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:50:03Z'
+  checked_at: '2026-10-22T14:35:23Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01988L0388-19910207: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

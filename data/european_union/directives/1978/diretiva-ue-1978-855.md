@@ -34,6 +34,135 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-07-01'
+version_history:
+  file: diretiva-ue-1978-855.versoes.json
+  count: 5
+  source_lastmod: '2011-07-01'
+  versions:
+  - date: '1978-10-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0099:por
+    amending_title: DIRECTIVA 2006/99/CE DO CONSELHO de 20 de Novembro de 2006; Acto de Adesão da Grécia; ►A2; Acto de Adesão
+      da Áustria, da Finlândia e da Suécia; Acto relativo às condições de adesão da República Checa, da República da Estónia,
+      da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de
+      Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que
+      se funda a União Europeia
+    changes:
+    - Adita preambulo
+    - Adita Artigo 1º — Âmbito de aplicação
+    - Adita CAPÍTULO I
+    - Adita Regime da fusão mediante incorporação de uma ou várias sociedades numa outra sociedade e da fusão mediante a constituição
+      de uma nova sociedade
+    - Adita Artigo 2º
+    - Adita Artigo 3º
+    - Adita Artigo 4º
+    - Adita CAPÍTULO II
+    - Adita Fusão mediante incorporação
+    - Adita Artigo 5º
+    - Adita Artigo 6º
+    - Adita Artigo 7º
+    - Adita Artigo 8º
+    - Adita Artigo 9º
+    - Adita Artigo 10º
+    - Adita Artigo 11º
+    - Adita Artigo 12º
+    - Adita Artigo 13º
+    - Adita Artigo 14º
+    - Adita Artigo 15º
+    - Adita Artigo 16º
+    - Adita Artigo 17º
+    - Adita Artigo 18º
+    - Adita Artigo 19º
+    - Adita Artigo 20º
+    - Adita Artigo 21º
+    - Adita Artigo 22º
+    - Adita CAPÍTULO III
+    - Adita Fusão mediante constituição de uma nova sociedade
+    - Adita Artigo 23º
+    - Adita CAPÍTULO IV
+    - Adita Incorporação de uma sociedade numa outra que possua, pelo menos, 90 % das acções da primeira
+    - Adita Artigo 24º
+    - Adita Artigo 25º
+    - Adita Artigo 26º
+    - Adita Artigo 27º
+    - Adita Artigo 28º
+    - Adita Artigo 29º
+    - Adita CAPÍTULO V
+    - Adita Outras operações equiparadas à fusão
+  - date: '2007-12-07'
+    amending: eu:celex:32007L0063:por
+    amending_title: DIRECTIVA 2007/63/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 10º
+    - Altera Artigo 11º
+    - Altera Notas
+  - date: '2009-10-22'
+    amending: eu:celex:32009L0109:por
+    amending_title: DIRECTIVA 2009/109/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Setembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1º — Âmbito de aplicação
+    - Altera Artigo 6º
+    - Altera Artigo 8º
+    - Altera Artigo 11º
+    - Altera Artigo 13º
+    - Altera Artigo 23º
+    - Altera Artigo 24º
+    - Altera Artigo 25º
+    - Altera Artigo 27º
+    - Altera Artigo 28º
+    - Altera Notas
+    - Adita Artigo 9.º
+    - Suprime Artigo 9º
+  - date: '2011-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º — Âmbito de aplicação
+    - Suprime CAPÍTULO I
+    - Suprime Regime da fusão mediante incorporação de uma ou várias sociedades numa outra sociedade e da fusão mediante a
+      constituição de uma nova sociedade
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime CAPÍTULO II
+    - Suprime Fusão mediante incorporação
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime Artigo 17º
+    - Suprime Artigo 18º
+    - Suprime Artigo 19º
+    - Suprime Artigo 20º
+    - Suprime Artigo 21º
+    - Suprime Artigo 22º
+    - Suprime CAPÍTULO III
+    - Suprime Fusão mediante constituição de uma nova sociedade
+    - Suprime Artigo 23º
+    - Suprime CAPÍTULO IV
+    - Suprime Incorporação de uma sociedade numa outra que possua, pelo menos, 90 % das acções da primeira
+    - Suprime Artigo 24º
+    - Suprime Artigo 25º
+    - Suprime Artigo 26º
+    - Suprime Artigo 27º
+    - Suprime Artigo 28º
+    - Suprime Artigo 29º
+    - Suprime CAPÍTULO V
+    - Suprime Outras operações equiparadas à fusão
 identifiers:
   celex: 31978L0855
   eli: http://data.europa.eu/eli/dir/1978/855/oj
@@ -48,7 +177,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/532d0e7a-70fe-4223-bfc2-2d9bb3dc2b1e.0011
   content_url: http://publications.europa.eu/resource/cellar/0480dd04-47f0-4a33-97bf-d6973a19fa19.0014.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01978L0855-20110701
-  retrieved_at: '2026-10-22T02:46:24Z'
+  retrieved_at: '2026-10-22T14:32:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-13T07:09:30.204+01:00'
 integrity:
@@ -57,9 +186,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:24Z'
-  notes: Texto consolidado 01978L0855-20110701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:32:42Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-1978-855.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -172,16 +301,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:24Z'
+  checked_at: '2026-10-22T14:32:42Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01978L0855-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01978L0855-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

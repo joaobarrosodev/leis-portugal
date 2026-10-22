@@ -1,0 +1,239 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31979L0923:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01979L0923-20070116",
+ "dre_path": null,
+ "source_lastmod": "2007-01-16",
+ "versions": [
+  {
+   "date": "1991-12-23",
+   "future": false,
+   "celex": "01979L0923-19911223",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "67698b24601037ce",
+    "1d86c6966f8467d4",
+    "7f1e42ff16007375",
+    "9832f2f4c9013cc9",
+    "67d39122fa3eb6ea",
+    "ed3fac3b077ad7b1",
+    "97f202c3a30e070b",
+    "b9e3493f4d3b7442",
+    "070e9f97df9e7c46",
+    "9dac87b350d0879e",
+    "ac96de216a177c82",
+    "d655c083b40a9f90",
+    "a0ab2b4d5bd190d8",
+    "f955888751d253c4",
+    "a460f0503e721af5",
+    "2070a719ae438e49",
+    "dd037503806f5bd3",
+    "10220b9774fa9034",
+    "e41a895e1fc46c78",
+    "a58985a1107e3784"
+   ]
+  },
+  {
+   "date": "2007-01-16",
+   "future": false,
+   "celex": "01979L0923-20070116",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime ANEXO",
+    "Suprime QUALIDADE EXIGIDA PARA AS ÁGUAS CONQUÍCOLAS",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "ee488bd49f02d5af"
+   ]
+  }
+ ],
+ "fragments": {
+  "67698b24601037ce": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Outubro de 1979\n\nrelativa à qualidade exigida das águas conquícolas\n\n(79/923/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100.º e 235.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/4fe25e3c-5c1c-4a6e-9beb-e4a789ac00ae.0004.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/4fe25e3c-5c1c-4a6e-9beb-e4a789ac00ae.0004.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/4fe25e3c-5c1c-4a6e-9beb-e4a789ac00ae.0004.03/DOC_1#E0003)),\n\nConsiderando que a protecção e a melhoria do ambiente tornam necessárias medidas concretas destinadas a proteger as águas contra a poluição, incluindo as águas conquícolas;\n\nConsiderando que é necessário salvaguardar determinadas populações conquícolas das diversas consequências nefastas resultantes da descarga de substâncias poluentes nas águas do mar;\n\nConsiderando que os programas de acção das Comunidades Europeias em matéria de ambiente de 1973 ([^4^](http://publications.europa.eu/resource/cellar/4fe25e3c-5c1c-4a6e-9beb-e4a789ac00ae.0004.03/DOC_1#E0004)) e de 1977 ([^5^](http://publications.europa.eu/resource/cellar/4fe25e3c-5c1c-4a6e-9beb-e4a789ac00ae.0004.03/DOC_1#E0005)) prevêem o estabelecimento comum, de objectivos de qualidade que fixem as diversas exigências que um ambiente deve satisfazer e, especialmente, a definição dos parâmetros válidos para a água, incluindo as águas conquícolas;\n\nConsiderando que uma disparidade entre as disposições já aplicáveis ou em vias de preparação nos diferentes Estados-membros relativas à qualidade exigida das águas conquícolas pode criar condições de concorrência desiguais e ter, por isso, uma incidência directa no funcionamento do mercado comum; que é conveniente, portanto, proceder, nesse domínio, à aproximação das legislações prevista no artigo 100.º do Tratado;\n\nConsiderando que se afigura necessário conjugar essa aproximação das legislações com uma acção por parte da Comunidade que vise realizar, mediante uma regulamentação mais vasta, um dos objectivos da Comunidade no domínio da protecção do ambiente e da melhoria da qualidade de vida; que é conveniente, portanto, prever determinadas disposições específicas; que, não tendo sido previstos pelo Tratado os poderes de acção específicos necessários para tal efeito, convém recorrer ao artigo 235.º;\n\nConsiderando que, para atingir os objectivos da presente directiva, os Estados-membros devem indicar as águas em que ela é aplicada e fixar os valores limites correspondentes a determinados parâmetros; que as águas indicadas devem respeitar esses valores no prazo de seis anos após a indicação;\n\nConsiderando que, para assegurar o controlo da qualidade exigida das águas conquícolas, se deve proceder a um número mínimo de colheita de amostras e efectuar as medições dos parâmetros especificados no anexo; que essas colheitas podem ser reduzidas em número ou suprimidas em função dos resultados dessas medições;\n\nConsiderando que determinadas circunstâncias naturais escapam ao controlo dos Estados-membros e que, por isso, é necessário prever a possibilidade de derrogar, em certos casos, a presente directiva;\n\nConsiderando que o progresso técnico e científico pode tornar necessária uma adaptação rápida de determinadas disposições que figuram no anexo; que, para facilitar a aplicação das medidas necessárias para tal efeito, é conveniente prever um processo que estabeleça uma estreita cooperação entre os Estados-membros e a Comissão; que essa cooperação deve ser feita no âmbito do Comité para a Adaptação ao Progresso Técnico e Científico, instituído pelo artigo 13.º da Directiva 78/659/CEE do Conselho, de 18 de Junho de 1978, relativa à qualidade das águas doces que necessitam de ser protegidas ou melhoradas a fim de estarem aptas para a vida dos peixes ([^6^](http://publications.europa.eu/resource/cellar/4fe25e3c-5c1c-4a6e-9beb-e4a789ac00ae.0004.03/DOC_1#E0006));\n\nConsiderando que a presente directiva não pode, por si só, assegurar a protecção dos consumidores de produtos conquícolas e que é, por conseguinte, conveniente que a Comissão apresente, o mais rapidamente possível, propostas sobre esta questão;\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "1d86c6966f8467d4": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva diz respeito à qualidade das águas conquícolas e é aplicável às águas do litoral e às águas salobras que tenham sido consideradas pelos Estados-membros como águas que necessitam ser protegidas ou melhoradas a fim de permitir a vida e o crescimento de moluscos (moluscos bivalves e gastrópodes) e contribuir, assim, para a boa qualidade dos produtos conquícolas que podem ser directamente consumidos pelo homem."
+  },
+  "7f1e42ff16007375": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs parâmetros aplicáveis às águas indicadas pelos Estados-membros figuram em anexo."
+  },
+  "9832f2f4c9013cc9": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Para as águas indicadas, os Estados-membros fixarão valores para os parâmetros indicados em anexo, quando existirem valores na coluna G ou na coluna I. Darão cumprimento aos enunciados dessas duas colunas.\n\n2. Os Estados-membros não fixarão valores menos severos do que aqueles que figuram na coluna I do anexo e esforçar-se-ão por respeitar os valores enunciados na coluna G, tendo em conta o princípio estipulado no artigo 8.º.\n\n3. No que diz respeito à descarga de substâncias que são objecto dos parâmetros «substâncias organo-halogenadas» e «metais», as normas de emissão estabelecidas pelos Estados-membros, nos termos da Directiva 76/464/CEE do Conselho, de 4 de Maio de 1976, relativa à poluição causada por determinadas substâncias lançadas no meio aquático da Comunidade ([^7^](http://publications.europa.eu/resource/cellar/4fe25e3c-5c1c-4a6e-9beb-e4a789ac00ae.0004.03/DOC_1#E0007)), são aplicadas ao mesmo tempo que os objectivos de qualidade, assim como as outras obrigações decorrentes da presente directiva, especialmente as referentes à amostragem."
+  },
+  "67d39122fa3eb6ea": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-membros procederão a uma primeira designação das águas conquícolas no prazo de dois anos após a notificação da presente directiva.\n\n2. Os Estados-membros poderão efectuar, posteriormente, designações suplementares.\n\n3. Os Estados-membros poderão proceder à revisão da designação de determinadas águas, nomeadamente, quando existam factores que não tinham sido previstos na data da designação inicial, tendo em consideração o disposto no artigo 8.º."
+  },
+  "ed3fac3b077ad7b1": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-membros estabelecerão programas com o objectivo de reduzir a poluição e garantir que as águas designadas respeitem, no prazo de seis anos a contar da designação feita nos termos do artigo 4.º, os valores fixados pelos Estados-membros em conformidade com o artigo 3.º e com as observações das colunas G e I do Anexo I."
+  },
+  "97f202c3a30e070b": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Para aplicação do artigo 5.º, as águas designadas serão consideradas conformes com a presente directiva se as respectivas amostras, colhidas com a frequência mínima prevista no anexo, num mesmo local de colheita e durante um período de doze meses, indicarem que respeitam os valores fixados pelos Estados-membros de acordo com o artigo 3.º e com as observações das colunas G e I do anexo, no que se refere:\n\n— a 100 % das amostras para os parâmetros «substâncias organo-halogenadas» e «metais»\n\n— a 95 % das amostras para os parâmetros «salinidade» e «oxigénio dissolvido»,\n\n— a 75 % das amostras para os outros parâmetros que figuram no anexo.\n\nSe, de acordo com o n.º 2 do artigo 7.º, a frequência das colheitas, no que se refere aos parâmetros que figuram no anexo, com excepção dos parâmetros «substâncias organo-halogenadas» e «metais», for inferior à indicada no anexo, os valores e os enunciados acima referidos devem ser respeitados para todas as amostras.\n\n2. O não acatamento dos valores fixados pelos Estados-membros em conformidade com o artigo 3.º ou as observações das colunas G e I do anexo não será considerado para o cálculo das percentagens previstas no n.º 1, quando é devido a uma catástrofe."
+  },
+  "b9e3493f4d3b7442": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. As autoridades competentes dos Estados-membros efectuarão as amostragens cuja frequência mínima está fixada no anexo.\n\n2. A frequência das colheitas poderá ser reduzida quando a autoridade competente verificar que a qualidade das águas designadas é sensivelmente superior àquela que resultaria da aplicação dos valores fixados nos termos do artigo 3.º e das observações das colunas G e I do anexo. Se não existir nenhuma poluição nem perigo de deterioração da qualidade das águas, a autoridade competente pode decidir não ser necessária qualquer colheita.\n\n3. Se se verificar, após uma colheita, que um valor fixado por um Estado-membro nos termos do artigo 3.º ou de acordo com as observações das colunas G e I do anexo não foi respeitado, a autoridade competente decidirá se essa situação é devida a uma circunstância fortuita, a um fenómeno natural ou a uma poluição, e adoptará as medidas adequadas.\n\n4. O local exacto de recolha de amostras, a distância deste até ao ponto mais próximo da descarga de poluentes, assim como a profundidade a que as amostras devem ser colhidas, serão definidos pela autoridade competente de cada Estado-membro em função das condições locais do meio.\n\n5. São especificados no anexo os métodos de análise de referência a utilizar para o cálculo do valor dos parâmetros em causa. Os laboratórios que utilizarem outros métodos devem certificar-se que os resultados obtidos são equivalentes ou comparáveis aos indicados no anexo."
+  },
+  "070e9f97df9e7c46": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA aplicação das medidas adoptadas nos termos da presente directiva não poderá, em caso algum, ter como efeito o aumento directo ou indirecto da poluição das águas do litoral ou das águas salobras."
+  },
+  "9dac87b350d0879e": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros poderão, em qualquer momento, fixar, para as águas designadas, valores mais severos do que aqueles previstos pela presente directiva. Podem, igualmente, adoptar disposições relativas a parmetros diferentes daqueles que são previstos na presente directiva."
+  },
+  "ac96de216a177c82": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n[**►C1**](http://publications.europa.eu/resource/celex/31979L0923R%2802%29) Se um Estado-Membro prevê designar águas conquícolas na proximidade imediata da fronteira com outro Estado-Membro, estes Estados devem consultar-se a fim de definir a parte dessas águas à qual a presente directiva é aplicável, assim como as consequências resultantes dos objectivos comuns de qualidade, que serão fixadas após consultas por parte de cada Estado-Membro em causa.**◄** A Comissão pode participar nessas deliberações."
+  },
+  "d655c083b40a9f90": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Estados-membros poderão derrogar a presente directiva no caso de circunstâncias excepcionais, meteorológicas ou geográficas."
+  },
+  "a0ab2b4d5bd190d8": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAs alterações necessárias para adaptar ao progresso técnico e científico os valores G dos parâmetros e os métodos de análise que figuram no anexo, são determinadas pelo Comité instituído pelo artigo 13.º da Directiva 78/659/CEE e de acordo com o processo previsto no artigo 14.º da mesma directiva."
+  },
+  "f955888751d253c4": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nPara efeitos de aplicação da presente directiva, os Estados-membros fornecerão à Comissão as informações relativas:\n\n— às águas designadas, nos termos dos n.^os^ 1 e 2, do artigo 4.º, apresentadas de forma resumida,\n\n— à revisão da designação de determinadas águas, nos termos do n.º 3 do artigo 4.º,\n\n— às disposições tomadas com o objectivo de fixar novos parâmetros, nos termos do artigo 9.º.\n\nSe um Estado-membro recorrer ao artigo 11.º, desse facto informará imediatamente a Comissão, indicando os motivos e os prazos.\n\nDe um modo mais geral, os Estados-membros fornecerão à Comissão, após pedido fundamentado desta, as informações necessárias à aplicação da presente directiva."
+  },
+  "a460f0503e721af5": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nDe três em três anos os Estados-membros transmitirão à Comissão informações sobre a aplicação da presente directiva, no âmbito de um relatório sectorial que abranja igualmente as outras directivas comunitárias pertinentes. Esse relatório deve ser elaborado com base num questionário ou num esquema elaborado pela Comissão de acordo com o procedimento previsto no artigo 6.º da Directiva 91/692/CEE ([^8^](http://publications.europa.eu/resource/cellar/4fe25e3c-5c1c-4a6e-9beb-e4a789ac00ae.0004.03/DOC_1#E0008)). Esse questionário ou esquema deve ser enviado aos Estados-membros seis meses antes do início do período abrangido pelo relatório. Orelatório deve ser enviado à Comissão num prazo de nove meses a contar do final de período de três anos a que se refere.\n\nO primeiro relatório abrangerá o período de 1993 a 1995, inclusive.\n\nA Comissão publicará um relatório comunitário sobre a aplicação da directiva num prazo de noves meses a contar da recepção dos relatórios dos Estados-membros."
+  },
+  "2070a719ae438e49": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias à aplicação da presente directiva, no prazo de dois anos após a data da notificação. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições principais de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "dd037503806f5bd3": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "e41a895e1fc46c78": {
+   "fragment_id": "QUALIDADE EXIGIDA PARA AS ÁGUAS CONQUÍCOLAS",
+   "type": "divisao",
+   "heading": "QUALIDADE EXIGIDA PARA AS ÁGUAS CONQUÍCOLAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### QUALIDADE EXIGIDA PARA AS ÁGUAS CONQUÍCOLAS\n\n|  | Parâmetro | G | I | Método de análise de referência | Frequência mínima de amostragem e de medição |\n| --- | --- | --- | --- | --- | --- |\n| 1 | pH unidade pH |  | 7 — 9 | — electrometria A medição efectua-se *in situ* ao mesmo tempo que a amostragem | Trimestral |\n| 2 | Temperatura ºC | A diferença de temperatura provocada por uma descarga não deve, nas águas conquícolas afectadas por essa descarga, exceder em mais de 2 ºC a temperatura medida nas águas não afectadas |  | — termometria A medição efectua-se *in situ* ao mesmo tempo que a amostragem | Trimestral |\n| 3 | Cor (após filtração) (mg Pt/l) |  | A alteração de cor após filtração, provocada nas águas conquícolas por uma descarga, não deve ultrapassar em mais de 100 mg Pt/l a cor medida nas águas não afectadas | — filtração através de membrana filtrante com uma porosidade de 0,45 *µ*m Método fotométrico com padrões da escala platina-cobalto | Trimestral |\n| 4 | Matérias em suspensão (mg/l) |  | O aumento do teor em matérias em suspensão provocado por uma descarga não deve, nas águas conquílas afectadas por essa descarga, exceder em mais de 30 % o teor medido nas águas não afectadas | — filtração através de membrana filtrante com uma porosidade de 0,45 *µ*m, secagem a 105 ºC e pesagem — centrifugação (tempo mínimo 5 minutos, aceleração média 2 800 a 3 200 g), secagem a 105 ºC e pesagem | Trimestral |\n| 5 | Salinidade (‰) | 12 — 38 ‰ | — ≤ 40 ‰ — a variação da salinidade provocada por uma descarga não deve, nas águas conquícolas afectadas por essa descarga, exceder em mais de 10 % a salinidade medida nas águas não afectadas | Condutimetria | Mensal |\n| 6 | Oxigénio dissolvido (% de saturação) | ≥ 80 % | — ≥ 70 % (valor médio) — se uma medição individual indicar um valor inferior a 70 %, as medições devem ser repetidas — uma medição individual não pode indicar um valor inferior a 60 %, excepto quando não houver consequências nocivas para o desenvolvimento dos povoamentos de moluscos | — método de Winkler — método electroquímico | Mensal, com pelo menos uma amostra representativa do fraco teor em oxigénio no dia da colheita. Contudo, se se suspeitar de variações diurnas significativas, serão efectuadas pelo menos duas colheitas por dia |\n| 7 | Hidrocarbonetos do petróleo |  | Os hidrocarbonetos não devem estar presentes nas águas conquícolas numa quantidade tal que: — produzam à superfície da água uma película visível e/ou um depósito nas conchas — provoquem efeitos nocivos nos moluscos | Exame visual | Trimestral |\n| 8 | Substâncias organohalogenadas | O limite da concentração de cada substância na polpa do molusco deve ser tal que contribua, nos termos do artigo 1.º, para uma boa qualidade dos produtos conquícolas | A concentração de cada substância nas águas conquícolas ou na polpa do molusco não deve ultrapassar um nível que provoque efeitos nocivos nos moluscos e nas suas larvas | Cromatografia em fase gasosa após extracção por meio de solventes adequados e purificação | Trimestral |\n| 9 | *Metais* Prata Ag Arsénio As Cádmio Cd Crómio Cr Cobre Cu Mercúrio Hg Níquel Ni Chumbo Pb Zinco Zn mg/l | O limite de concentração de cada substância na polpa do molusco deve ser tal que contribua, nos termos do artigo 1.º, para uma boa qualidade dos produtos conquícolas | A concentração de cada substância nas águas conquícolas ou na polpa do molusco não deve ultrapassar um nível que provoque efeitos nocivos nos moluscos e nas suas larvas Devem ser tidos em conta os efeitos sinergéticos destes metais | Espectrometria de absorção atómica eventualmente precedida de uma concentração e/ou de uma extracção | Semestral |\n| Prata | Ag |  |  |  |  |\n| Arsénio | As |  |  |  |  |\n| Cádmio | Cd |  |  |  |  |\n| Crómio | Cr |  |  |  |  |\n| Cobre | Cu |  |  |  |  |\n| Mercúrio | Hg |  |  |  |  |\n| Níquel | Ni |  |  |  |  |\n| Chumbo | Pb |  |  |  |  |\n| Zinco | Zn |  |  |  |  |\n| 10 | Coliformes fecais/100 ml | ≤ 300 na polpa do molusco e no líquido intervalar [(^1^)](http://publications.europa.eu/resource/cellar/4fe25e3c-5c1c-4a6e-9beb-e4a789ac00ae.0004.03/DOC_1#E0009) |  | Método de diluição com fermentação em substratos líquidos, em pelo menos três tubos com três diluições. Subcultura dos tubos positivos em meio de confirmação. Contagem segundo NMP (número mais provável). Temperatura de incubação 44 ± 0,5 ºC | Trimestral |\n| 11 | Substâncias que afectam o sabor do molusco |  | Concentração inferior à concentração susceptível de deteriorar o sabor do molusco | Exame gustativo dos moluscos quando se suspeitar da presença de tal substância |  |\n| 12 | Saxitoxina (produzida pelos dinoflagelados) |  |  |  |  |\n| (^1^)Todavia, enquanto se aguarda que seja adoptada uma directiva relativa à protecção dos consumidores de produtos conquícolas, este valor deve ser imperativamente respeitado nas águas onde vivem moluscos directamente consumidos pelo homem.Abreviaturas:G = guia I = imperativo |  |  |  |  |  |\n\n---"
+  },
+  "a58985a1107e3784": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4fe25e3c-5c1c-4a6e-9beb-e4a789ac00ae.0004.03/DOC_1#src.E0001)) JO n.º C 283 de 30. 11. 1976, p. 3.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4fe25e3c-5c1c-4a6e-9beb-e4a789ac00ae.0004.03/DOC_1#src.E0002)) JO n.º C 133 de 6. 6. 1977, p. 48.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4fe25e3c-5c1c-4a6e-9beb-e4a789ac00ae.0004.03/DOC_1#src.E0003)) JO n.º C 114 de 11. 5. 1977, p. 29.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4fe25e3c-5c1c-4a6e-9beb-e4a789ac00ae.0004.03/DOC_1#src.E0004)) JO n.º C 112 de 20. 12. 1973, p. 3.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/4fe25e3c-5c1c-4a6e-9beb-e4a789ac00ae.0004.03/DOC_1#src.E0005)) JO n.º C 139 de 13. 6. 1977, p. 3.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/4fe25e3c-5c1c-4a6e-9beb-e4a789ac00ae.0004.03/DOC_1#src.E0006)) JO n.º L 222 de 14. 8. 1978, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/4fe25e3c-5c1c-4a6e-9beb-e4a789ac00ae.0004.03/DOC_1#src.E0007)) JO n.º L 129 de 18. 5. 1976, p. 23.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/4fe25e3c-5c1c-4a6e-9beb-e4a789ac00ae.0004.03/DOC_1#src.E0008)) JO n.º L 377 de 31. 12. 1991, p. 48."
+  },
+  "ee488bd49f02d5af": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1979L0923 — PT — 16.01.2007 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31979L0923) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31979L0923) [de 30 de Outubro de 1979](http://publications.europa.eu/resource/celex/31979L0923) [relativa à qualidade exigida das águas conquícolas](http://publications.europa.eu/resource/celex/31979L0923) [(79/923/CEE)](http://publications.europa.eu/resource/celex/31979L0923) (JO L 281, 10.11.1979, p.47)\n\n**revogado por:**\n\n- [Directiva 2006/113/CE do Parlamento Europeu e do Conselho de 12 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006L0113) — L 376 — 14 — 27.12.2006"
+  }
+ }
+}

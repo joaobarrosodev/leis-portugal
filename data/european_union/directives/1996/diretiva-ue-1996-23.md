@@ -36,6 +36,187 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-14'
+version_history:
+  file: diretiva-ue-1996-23.versoes.json
+  count: 6
+  source_lastmod: '2019-12-14'
+  versions:
+  - date: '1996-05-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-01-01'
+    amending: eu:celex:32003R0806:por
+    amending_title: REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003; REGULAMENTO (CE) N. o 882/2004 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 29 de Abril de 2004; Acto relativo às condições de adesão da República Checa, da República
+      da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República
+      de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em
+      que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Adita CAPÍTULO I
+    - Adita Âmbito de aplicação e definições
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita CAPÍTULO II
+    - Adita Planos de vigilância da pesquisa de resíduos ou substâncias
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita CAPÍTULO III
+    - Adita Autocontrolo e co-responsabilidade dos operadores
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita CAPÍTULO IV
+    - Adita Controlos oficiais
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita CAPÍTULO V
+    - Adita Medidas a tomar em caso de infracção
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Adita Artigo 28.º
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0104:por
+    amending_title: DIRECTIVA 2006/104/CE DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 20.º
+    - Altera Artigo 23.º
+    - Altera Artigo 29.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera GRUPO DE RESÍDUOS OU SUBSTÂNCIAS A PESQUISAR POR TIPOS DE ANIMAIS, ALIMENTOS E ÁGUAS DE ABEBERAMENTO E POR TIPO
+      DE PRODUTOS ANIMAIS DE ORIGEM PRIMÁRIA
+    - Altera 1. Peixes de viveiro
+    - Altera Notas
+    - Adita GRUPO B — Medicamentos veterinários ([^30^](http://publications.europa.eu/resource/cellar/12f5a447-a098-4729-8947-9d7642a5de3d.0016.03/DOC_1#E0030))
+      e contaminantes
+    - Suprime GRUPO B — Medicamentos veterinários ([^30^](http://publications.europa.eu/resource/cellar/520e98ea-ea3e-4eb7-b7a4-de974b0ae47a.0017.03/DOC_1#E0029))
+      e contaminantes
+  - date: '2009-08-07'
+    amending: eu:celex:32009R0596:por
+    amending_title: REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera GRUPO DE RESÍDUOS OU SUBSTÂNCIAS A PESQUISAR POR TIPOS DE ANIMAIS, ALIMENTOS E ÁGUAS DE ABEBERAMENTO E POR TIPO
+      DE PRODUTOS ANIMAIS DE ORIGEM PRIMÁRIA
+    - Altera 1. Peixes de viveiro
+    - Altera Notas
+    - Adita GRUPO B — Medicamentos veterinários ([^29^](http://publications.europa.eu/resource/cellar/9f0a906e-47a2-415d-a500-96d80c956eb5.0017.03/DOC_1#E0030))
+      e contaminantes
+    - Suprime Artigo 32.º
+    - Suprime GRUPO B — Medicamentos veterinários ([^30^](http://publications.europa.eu/resource/cellar/12f5a447-a098-4729-8947-9d7642a5de3d.0016.03/DOC_1#E0030))
+      e contaminantes
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0020:por
+    amending_title: DIRETIVA 2013/20/UE DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 20.º
+    - Altera Artigo 23.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+    - Altera GRUPO DE RESÍDUOS OU SUBSTÂNCIAS A PESQUISAR POR TIPOS DE ANIMAIS, ALIMENTOS E ÁGUAS DE ABEBERAMENTO E POR TIPO
+      DE PRODUTOS ANIMAIS DE ORIGEM PRIMÁRIA
+    - Altera 1. Peixes de viveiro
+    - Altera Notas
+    - Adita GRUPO B — Medicamentos veterinários ([^29^](http://publications.europa.eu/resource/cellar/898fb937-fb27-4516-98d9-bb6cb487ae66.0017.03/DOC_1#E0030))
+      e contaminantes
+    - Suprime GRUPO B — Medicamentos veterinários ([^29^](http://publications.europa.eu/resource/cellar/9f0a906e-47a2-415d-a500-96d80c956eb5.0017.03/DOC_1#E0030))
+      e contaminantes
+  - date: '2019-12-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime Âmbito de aplicação e definições
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime CAPÍTULO II
+    - Suprime Planos de vigilância da pesquisa de resíduos ou substâncias
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime CAPÍTULO III
+    - Suprime Autocontrolo e co-responsabilidade dos operadores
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime CAPÍTULO IV
+    - Suprime Controlos oficiais
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime CAPÍTULO V
+    - Suprime Medidas a tomar em caso de infracção
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime Artigo 24.º
+    - Suprime Artigo 25.º
+    - Suprime Artigo 26.º
+    - Suprime Artigo 27.º
+    - Suprime Artigo 28.º
+    - Suprime CAPÍTULO VI
 identifiers:
   celex: 31996L0023
   eli: http://data.europa.eu/eli/dir/1996/23/oj
@@ -50,7 +231,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ebc5f19b-fd6c-4d23-b092-4f96d08d73da.0011
   content_url: http://publications.europa.eu/resource/cellar/b9feff78-27e2-11ea-af81-01aa75ed71a1.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0023-20191214
-  retrieved_at: '2026-10-22T02:50:53Z'
+  retrieved_at: '2026-10-22T14:45:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T06:39:13.168+01:00'
 integrity:
@@ -59,9 +240,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:50:53Z'
-  notes: Texto consolidado 01996L0023-20191214.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:45:03Z'
+  notes: 6 versão(ões); histórico completo em diretiva-ue-1996-23.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -239,16 +420,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:50:53Z'
+  checked_at: '2026-10-22T14:45:03Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01996L0023-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996L0023-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -1,0 +1,179 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999R1259:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R1259-20031028",
+ "dre_path": null,
+ "source_lastmod": "2003-10-28",
+ "versions": [
+  {
+   "date": "1999-06-26",
+   "future": false,
+   "celex": "31999R1259",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a77fe36f8641926b",
+    "d295a5985851599f",
+    "4e832242beeada49",
+    "6000b2ebf5d5366d",
+    "ea85f1ebbd0a1a70",
+    "9a242ca8e6d10eaf",
+    "3455212a0332b063",
+    "d804d232ff8cce8e",
+    "2b25ecd938b5ab5e",
+    "c6ad0fe0c056ab80",
+    "53208ee31f7fde7b",
+    "790a07125277f2f5",
+    "a10e93f9b5c566b1",
+    "85b05bbfbfa95f8b"
+   ]
+  },
+  {
+   "date": "2003-10-28",
+   "future": false,
+   "celex": "01999R1259-20031028",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Âmbito de aplicação",
+    "Suprime Artigo 2.º — Pagamento integral",
+    "Suprime Artigo 3.º — Exigências de protecção do ambiente",
+    "Suprime Artigo 4.º — Modulação",
+    "Suprime Artigo 5.º — Disposição comum",
+    "Suprime Artigo 6.º — Revisão",
+    "Suprime Artigo 7.º — Restrição dos pagamentos",
+    "Suprime Artigo 8.º — Avaliação",
+    "Suprime Artigo 9.º — Informação da Comissão",
+    "Suprime Artigo 10.º — Definições",
+    "Suprime Artigo 11.º — Normas de execução",
+    "Suprime Artigo 12.º — Entrada am vigor",
+    "Suprime ANEXO — LISTA DOS REGIMES DE APOIO QUE PREENCHEM OS CRITÉRIOS FIXADOS NO ARTIGO 1.o"
+   ],
+   "fragments": [
+    "d52e11b80e018f94"
+   ]
+  }
+ ],
+ "fragments": {
+  "a77fe36f8641926b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n° 1259/1999 do Conselho de 17 de Maio de 1999 que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum** *Jornal Oficial nº L 160 de 26/06/1999 p. 0113 - 0118*\n\nREGULAMENTO (CE) N.o 1259/1999 DO CONSELHO\n\nde 17 de Maio de 1999\n\nque estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamento, o seu artigo 37.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Parlamento Europeu(2),\n\nTendo em conta o parecer do Comité Económico e Social(3),\n\nTendo em conta o parecer do Comité das Regiões(4),\n\nTendo em conta o parecer to Tribunal de Contas(5),\n\n(1) Considerando que devem ser estabelecidas algumas condições comuns para os pagamentos directos efectuados a título dos vários regimes de apoio ao rendimento no âmbito da política agrícola comum;\n\n(2) Considerando que, sob reserva das reduções explicitamente referidas no presente regulamento, os pagamentos previstos a título dos regimes comunitários de apoio devem ser efectuados na sua integralidade aos beneficiários pelas autoridades competentes nacionais;\n\n(3) Considerando que, para uma melhor integração dos aspectos ligados ao ambiente no contexto das organizações comuns de mercado, os Estados-Membros devem aplicar medidas ambientais adequadas em relação às terras e à produção agrícolas abrangidas por pagamentos directos; que os Estados-Membros devem definir as consequências da inobservância das exigências ambientais; que devem ter a possibilidade de reduzir ou suprimir os benefícios decorrentes dos regimes de apoio quando essas exigências ambientais não sejam respeitadas; que os Estados-Membros devem tomar essas medidas, apesar da possibilidade de concessão de ajudas relativamente a compromissos agro-ambientais facultativos;\n\n(4) Considerando que, para estabilizar a situação do emprego na agricultura e ter em conta a prosperidade global das explorações e o apoio comunitário às mesmas, contribuindo assim para um nível de vida razoável na comunidade agrícola, incluindo todas as pessoas ocupadas na agricultura, os Estados-Membros deverão ser autorizados a reduzir os pagamentos directos aos agricultores quando a força de trabalho utilizada nas suas explorações seja inferior a limites a determinar e/ou quando a prosperidade global das explorações e/ou o montante total dos pagamentos seja superior aos limites a estabelecer pelos Estados-Membros; que, para manter a produtividade agrícola, essas reduções não devem no entanto exceder 20 % do montante total dos pagamentos;\n\n(5) Considerando que os Estados-Membros devem estabelecer regras de execução para as reduções dos pagamentos com base em critérios objectivos; que os Estados-Membros devem ter a possibilidade de utilizar montantes disponibilizados pelas reduções dos pagamentos para determinadas medidas adicionais no quadro do apoio ao desenvolvimento rural previsto no Regulamento (CE) n.o 1257/1999, relativo ao apoio do Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA) ao desenvolvimento rural e que altera e revoga determinados regulamentos(6);\n\n(6) Considerando que os regimes comuns de apoio deverão ser adaptados rapidamente à evolução do mercado; que, por conseguinte, os beneficiários não podem esperar que as condições de apoio permaneçam inalteradas, devendo estar preparados para a eventual revisão dos regimes em função da evolução do mercado;\n\n(7) Considerando que os regimes de apoio existentes no âmbito da política agrícola comum prevêem um apoio directo ao rendimento, nomeadamente para assegurar um nível de vida equitativo à população agrícola; que esse objectivo está intimamente relacionado com a manutenção das zonas rurais; que, para evitar a atribuição incorrecta dos fundos comunitários, não deverão ser concedidos subsídios aos agricultores em relação aos quais existam provas de que criaram artificialmente as condições necessárias à obtenção desses subsídios, tendo principalmente em vista obter beneficios contrários aos objectivos dos regimes de apoio;\n\n(8) Considerando que, perante as consequências orçamentais significativas dos pagamentos directos e a fim de avaliar o seu impacto, os regimes comunitários deverão ser sujeitos a uma avaliação adequada,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "d295a5985851599f": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente regulamento é aplicável aos pagamentos concedidos directamente aos agricultores a título dos regimes de apoio da política agrícola comum, que são financiados, no todo ou em parte, pela secção Garantia do FEOGA, com excepção dos previstos no Regulamento (CE) n.o 1257/1999.\n\nOs regimes de apoio são enunciados no anexo."
+  },
+  "4e832242beeada49": {
+   "fragment_id": "Artigo 2.º — Pagamento integral",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Pagamento integral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pagamento integral\n\nOs pagamentos aos beneficiários a título dos regimes de apoio devem ser efectuados na sua integralidade."
+  },
+  "6000b2ebf5d5366d": {
+   "fragment_id": "Artigo 3.º — Exigências de protecção do ambiente",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Exigências de protecção do ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Exigências de protecção do ambiente\n\n1. No que se refere à actividade agrícola abrangida pelo presente regulamento, os Estados-Membros devem adoptar as medidas ambientais que considerem adequadas, tendo em conta a situação das terras agrícolas utilizadas ou a produção em causa que reflicta os efeitos potenciais ambientais. Essas medidas podem incluir:\n\n- um apoio concedido com contrapartida de compromissos agro-ambientais,\n\n- exigências ambientais obrigatórias de carácter geral,\n\n- exigências ambientais específicas que constituam uma condição para os pagamentos directos.\n\n2. Os Estados-Membros devem definir sanções adequadas e proporcionadas à importância das consequências ecológicas da inobservância das exigências ambientais referidas no n.o 1. Os Estados-Membros podem prever uma redução ou, se for caso disso, a supressão dos benefícios decorrentes dos regimes de apoio em causa se essas exigências ambientais não forem respeitadas."
+  },
+  "ea85f1ebbd0a1a70": {
+   "fragment_id": "Artigo 4.º — Modulação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Modulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Modulação\n\n1. Os Estados-Membros podem decidir reduzir os montantes dos pagamentos que, se o presente número não se aplicasse, seriam concedidos aos agricultores em relação a um dado ano civil quando\n\n- a força de trabalho utilizadas nas suas explorações durante esse ano civil, expressa em unidades de trabalho-ano, seja inferior a limites a determinar pelos Estados-Membros, e/ou\n\n- a prosperidade global das suas explorações durante esse ano civil, expressa em termos de margem bruta padrão correspondente à situação média de uma dada região ou uma unidade geográfica mais pequena, seja superior aos limites a decidir pelos Estados-Membros, e/ou\n\n- o montante global dos pagamentos concedidos ao abrigo dos regimes de apoio durante um ano civil ultrapassar os limites a decidir pelos Estados-Membros.\n\nEntende-ser por \"unidade de trabalho-ano\", o tempo de trabalho médio anual, nacional ou regional, de um trabalhador agrícola adulto que trabalhe a tempo inteiro durante um ano civil.\n\nEntende-se por \"margem bruta padrão\", o saldo entre o valor padrão da produção e o montante padrão de certos custos específicos.\n\n2. A redução do apoio concedido a um agricultor em relação a um dado ano civil, devido à aplicação das medidas referidas no n.o 1, não será superior a 20 % do montante total dos pagamentos que, se não se aplicasse o n.o 1, seriam concedidos ao agricultor para o ano civil em causa."
+  },
+  "9a242ca8e6d10eaf": {
+   "fragment_id": "Artigo 5.º — Disposição comum",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Disposição comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposição comum\n\n1. Os Estados-Membros aplicarão as medidas referidas nos artigos 3.o e 4.o de um modo que garanta um tratamento equitativo dos agricultores e que evite distorções do mercado e da concorrência.\n\n2. A diferença entre os montantes que, se os artigos 3.o e 4.o não se aplicassem, seriam pagos aos agricultores num Estado-Membro relativamente a um ano civil e os montantes calculados após a aplicação desses artigos, ficará disponível para o Estado-Membro em causa, dentro de prazos a fixar nos termos do artigo 11.o, a título de apoio comunitário complementar para medidas abrangidas pelos artigos 10.o a 12.o (reforma antecipada), 13.o a 21.o (zonas desfavorecidas e zonas com condicionantes ambientais) e 22.o a 24.o (medidas agro-ambientais) e 31.o (florestação) do Regulamento (CE) n.o 1257/1999."
+  },
+  "3455212a0332b063": {
+   "fragment_id": "Artigo 6.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Revisão\n\nOs regimes de apoio serão aplicados sem prejuízo da possibilidade de, a qualquer momento, serem revistos em função da evolução dos mercados."
+  },
+  "d804d232ff8cce8e": {
+   "fragment_id": "Artigo 7.º — Restrição dos pagamentos",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Restrição dos pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Restrição dos pagamentos\n\nNão obstante as disposições específicas dos regimes de apoio individuais, nenhum pagamento será feito a beneficiários em relação aos quais se prove terem criado artificialmente as condições exigidas para obter esses pagamentos, a fim de obter um benefício contrário aos objectivos desse regime de apoio."
+  },
+  "2b25ecd938b5ab5e": {
+   "fragment_id": "Artigo 8.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Avaliação\n\nPara garantir a sua eficácia, os pagamentos a título dos regimes de apoio devem ser sujeitos a uma avaliação destinada a determinar o seu impacto em relação aos respectivos objectivos e a examinar os seus efeitos nos mercados relevantes."
+  },
+  "c6ad0fe0c056ab80": {
+   "fragment_id": "Artigo 9.º — Informação da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Informação da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Informação da Comissão\n\nOs Estados-Membros devem informar pormenorizadamente a Comissão das medidas tomadas em execução do presente regulamento."
+  },
+  "53208ee31f7fde7b": {
+   "fragment_id": "Artigo 10.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Definições\n\nPara efeitos do presente regulamento:\n\na) Entende-se por \"agricultor\", um produtor agrícola individual, quer se trate de uma pessoa singular ou colectiva quer a um grupo de pessoas singulares ou colectivas, independentemente do estatuto jurídico que o direito nacional confira ao grupo e aos seus membros, cuja exploração se situe no território da Comunidade;\n\nb) Entende-ser por \"exploração\"o conjunto das unidades de produção geridas por um agricultor situadas no território do mesmo Estado-Membro;\n\nc) Os pagamentos a conceder em relação um ano civil incluirão os pagamentos a conceder em relação a outros períodos com início nesse ano civil."
+  },
+  "790a07125277f2f5": {
+   "fragment_id": "Artigo 11.º — Normas de execução",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Normas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Normas de execução\n\nSerão adoptadas pela Comissão, nos termos do artigo 9 do Regulamento (CE) n.o 1251/1999 do Conselho, de 17 de Maio de 1999, que institui um sistema de apoio aos produtores de determinadas culturas arvenses(7), do artigo 43.o do Regulamento (CE) n.o 1254/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum de mercado no sector da carne de bovino(8) ou, se for caso disso, dos artigos correspondentes dos outros regulamentos relativos às organizações comuns dos mercados agrícolas:\n\n- quando necessário, normas de execução do presente regulamento, especialmente as medidas necessárias para evitar desvios aos artigos 3.o e 4.o, bem como as relativas ao artigo 7.o, e\n\n- as alterações do anexo que se revelarem necessárias, tendo em conta os critérios definidos no artigo 1.o"
+  },
+  "a10e93f9b5c566b1": {
+   "fragment_id": "Artigo 12.º — Entrada am vigor",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada am vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada am vigor\n\nO presente regulamento entra em vigor no dia da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é aplicável a partir de 1 de Janeiro de 2000.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 17 de Maio de 1999.\n\nPelo Conselho\n\nO Presidente\n\nK.-H. FUNKE\n\n(1) JO C 170 de 4.6.1998, p. 93.\n\n(2) Parecer emitido em 6 de Maio de 1999 (ainda não publicado no Jornal Oficial).\n\n(3) JO C 407 de 28.12.1998, p. 208.\n\n(4) JO C 93 de 6.4.1999, p. 3.\n\n(5) JO C 401 de 22.12.1998, p. 3.\n\n(6) Ver a página 80 do presente Jornal Oficial.\n\n(7) Ver a página 1 do presente Journal Oficial.\n\n(8) Ver a página 21 do presente Journal Oficial."
+  },
+  "85b05bbfbfa95f8b": {
+   "fragment_id": "ANEXO — LISTA DOS REGIMES DE APOIO QUE PREENCHEM OS CRITÉRIOS FIXADOS NO ARTIGO 1.o",
+   "type": "divisao",
+   "heading": "ANEXO — LISTA DOS REGIMES DE APOIO QUE PREENCHEM OS CRITÉRIOS FIXADOS NO ARTIGO 1.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — LISTA DOS REGIMES DE APOIO QUE PREENCHEM OS CRITÉRIOS FIXADOS NO ARTIGO 1.o\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "d52e11b80e018f94": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1999R1259 — PT — 28.10.2003 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31999R1259) [REGULAMENTO (CE) N.º 1259/1999 DO CONSELHO](http://publications.europa.eu/resource/celex/31999R1259) [de 17 de Maio de 1999](http://publications.europa.eu/resource/celex/31999R1259) [que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum](http://publications.europa.eu/resource/celex/31999R1259) (JO L 160, 26.6.1999, p.113)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1782/2003 do Conselho de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1782) — L 270 — 1 — 21.10.2003"
+  }
+ }
+}

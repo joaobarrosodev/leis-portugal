@@ -36,6 +36,65 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-12-14'
+version_history:
+  file: regulamento-ue-2006-320.versoes.json
+  count: 4
+  source_lastmod: '2015-12-14'
+  versions:
+  - date: '2007-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-10-30'
+    amending: eu:celex:32007R1261:por
+    amending_title: REGULAMENTO (CE) N. o 1261/2007 DO CONSELHO de 9 de Outubro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Ajuda à reestruturação
+    - Altera Artigo 4.º — Pedido de ajuda à reestruturação
+    - Altera Artigo 5.º — Decisão sobre a ajuda à reestruturação e os controlos
+    - Altera Artigo 6.º — Ajuda à diversificação
+    - Altera Artigo 10.º — Limites financeiros
+    - Altera Artigo 11.º — Montante temporário a título da reestruturação
+    - Altera Artigo 14.º — Alterações do Regulamento (CE) n.º 1290/2005
+    - Altera Notas
+    - Adita Artigo 4.º-A — Pedido de ajuda à reestruturação apresentado por produtores
+  - date: '2009-02-07'
+    amending: eu:celex:32009R0072:por
+    amending_title: REGULAMENTO (CE) N.O 72/2009 DO CONSELHO de 19 de Janeiro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Pedido de ajuda à reestruturação
+    - Altera Artigo 6.º — Ajuda à diversificação
+    - Altera Artigo 11.º — Montante temporário a título da reestruturação
+    - Altera Artigo 14.º — Alterações do Regulamento (CE) n.º 1290/2005
+    - Altera Notas
+    - Adita Artigo 13.º–A — Ajudas estatais
+  - date: '2015-12-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Fundo de reestruturação temporário
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Ajuda à reestruturação
+    - Suprime Artigo 4.º — Pedido de ajuda à reestruturação
+    - Suprime Artigo 4.º-A — Pedido de ajuda à reestruturação apresentado por produtores
+    - Suprime Artigo 5.º — Decisão sobre a ajuda à reestruturação e os controlos
+    - Suprime Artigo 6.º — Ajuda à diversificação
+    - Suprime Artigo 7.º — Ajuda suplementar à diversificação
+    - Suprime Artigo 8.º — Ajuda transitória às refinarias a tempo inteiro
+    - Suprime Artigo 9.º — Ajuda transitória a determinados Estados-Membros
+    - Suprime Artigo 10.º — Limites financeiros
+    - Suprime Artigo 11.º — Montante temporário a título da reestruturação
+    - Suprime Artigo 12.º — Regras de execução
+    - Suprime Artigo 13.º — Medidas específicas
+    - Suprime Artigo 13.º–A — Ajudas estatais
+    - Suprime Artigo 14.º — Alterações do Regulamento (CE) n.º 1290/2005
+    - Suprime Artigo 15.º — Entrada em vigor
+    - Suprime Notas
 identifiers:
   celex: 32006R0320
   eli: http://data.europa.eu/eli/reg/2006/320/oj
@@ -50,7 +109,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ac47aeb9-1556-4ba5-80a7-0f987cbcbf78.0016
   content_url: http://publications.europa.eu/resource/cellar/b1c48790-c730-49c9-9cb0-67939d4d3f04.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R0320-20151214
-  retrieved_at: '2026-10-22T02:40:39Z'
+  retrieved_at: '2026-10-22T15:03:25Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-21T13:42:56.044+01:00'
 integrity:
@@ -59,9 +118,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:39Z'
-  notes: Texto consolidado 02006R0320-20151214.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:03:25Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2006-320.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -228,16 +287,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:39Z'
+  checked_at: '2026-10-22T15:03:25Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02006R0320-20060303: versão indisponível (Sem expressão na língua por para CELEX 02006R0320-20060303.)'
   errors: []
 ---
 

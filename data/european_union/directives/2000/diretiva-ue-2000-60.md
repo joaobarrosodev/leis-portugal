@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-10'
+version_history:
+  file: diretiva-ue-2000-60.versoes.json
+  count: 1
+  source_lastmod: '2026-05-10'
+  versions:
+  - date: '2026-05-10'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32000L0060
   eli: http://data.europa.eu/eli/dir/2000/60/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5c835afb-2ec6-4577-bdf8-756d3d694eeb.0009
   content_url: http://publications.europa.eu/resource/cellar/347d3f45-6f31-11f1-ae88-01aa75ed71a1.0016.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0060-20260510
-  retrieved_at: '2026-10-22T02:23:21Z'
+  retrieved_at: '2026-10-22T14:49:08Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:47:50.214+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:23:21Z'
-  notes: Texto consolidado 02000L0060-20260510.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:08Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2000-60.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -769,36 +778,27 @@ relationships:
   source: null
 article_structure:
   article_count: 29
-  section_count: 44
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 45
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:23:21Z'
-  warnings: []
+  checked_at: '2026-10-22T14:49:08Z'
+  warnings:
+  - '02000L0060-20001222: versão indisponível (Sem expressão na língua por para CELEX 02000L0060-20001222.)'
+  - '02000L0060-20011216: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000L0060-20080321: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0060-20090113: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0060-20090625: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0060-20130913: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0060-20140101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0060-20141120: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 2000/60/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2000
-
-> 02000L0060 — PT — 10.05.2026 — 008.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32001D2455) — [DECISÃO N.º 2455/2001/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Novembro de 2001](http://publications.europa.eu/resource/celex/32001D2455) — L 331 — 1 — 15.12.2001
-- [►M2](http://publications.europa.eu/resource/celex/32008L0032) — [DIRECTIVA 2008/32/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2008](http://publications.europa.eu/resource/celex/32008L0032) — L 81 — 60 — 20.3.2008
-- [M3](http://publications.europa.eu/resource/celex/32008L0105) — [DIRECTIVA 2008/105/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008L0105) — L 348 — 84 — 24.12.2008
-- [►M4](http://publications.europa.eu/resource/celex/32009L0031) — [DIRECTIVA 2009/31/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de Abril de 2009](http://publications.europa.eu/resource/celex/32009L0031) — L 140 — 114 — 5.6.2009
-- [M5](http://publications.europa.eu/resource/celex/32013L0039) — [DIRETIVA 2013/39/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de agosto de 2013](http://publications.europa.eu/resource/celex/32013L0039) — L 226 — 1 — 24.8.2013
-- [►M6](http://publications.europa.eu/resource/celex/32013L0064) — [DIRETIVA 2013/64/UE DO CONSELHO de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013L0064) — L 353 — 8 — 28.12.2013
-- [►M7](http://publications.europa.eu/resource/celex/32014L0101) — [DIRETIVA 2014/101/UE DA COMISSÃO de 30 de outubro de 2014](http://publications.europa.eu/resource/celex/32014L0101) — L 311 — 32 — 31.10.2014
-- [►M8](http://publications.europa.eu/resource/celex/32026L0805) — [DIRETIVA (UE) 2026/805 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de março de 2026](http://publications.europa.eu/resource/celex/32026L0805) — L 805 — 1 — 20.4.2026
-
-## DIRECTIVA 2000/60/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de Outubro de 2000
 

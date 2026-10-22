@@ -35,6 +35,94 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-01-05'
+version_history:
+  file: diretiva-ue-1983-477.versoes.json
+  count: 3
+  source_lastmod: '2010-01-05'
+  versions:
+  - date: '1983-09-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-28'
+    amending: eu:celex:31991L0382:por
+    amending_title: DIRECTIVA DO CONSELHO 91/382/CEE de 25 de Junho de 1991; DIRECTIVA 98/24/CE DO CONSELHO de 7 de Abril
+      de 1998; DIRECTIVA 2003/18/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 27 de Março
+      de 2003; DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho
+      de 2007
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 10.ºA
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 12.ºA
+    - Adita Artigo 12.ºB
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 16.ºA
+    - Adita Artigo 17.º
+    - Adita Artigo 17.º-A — Relatório de aplicação
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita ANEXO II
+    - Adita Recomendações práticas para a vigilância clínica dos trabalhadores referidos na alínea 1) do artigo 15.º
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 13o
+  - date: '2010-01-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 10.ºA
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 12.ºA
+    - Suprime Artigo 12.ºB
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 16.ºA
+    - Suprime Artigo 17.º
+    - Suprime Artigo 17.º-A — Relatório de aplicação
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime ANEXO II
+    - Suprime Recomendações práticas para a vigilância clínica dos trabalhadores referidos na alínea 1) do artigo 15.º
+    - Suprime Notas
 identifiers:
   celex: 31983L0477
   eli: http://data.europa.eu/eli/dir/1983/477/oj
@@ -49,7 +137,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6276d1bc-b8e4-47e4-a9a7-8e64e3cb8041.0011
   content_url: http://publications.europa.eu/resource/cellar/4e5ca2ed-29ae-44c4-88dc-fd2231051f6e.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01983L0477-20100105
-  retrieved_at: '2026-10-22T02:42:00Z'
+  retrieved_at: '2026-10-22T14:33:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T08:05:59.382+01:00'
 integrity:
@@ -58,9 +146,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:00Z'
-  notes: Texto consolidado 01983L0477-20100105.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:33:55Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1983-477.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -148,16 +236,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:00Z'
+  checked_at: '2026-10-22T14:33:55Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01983L0477-19910704: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983L0477-19980525: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983L0477-20030415: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

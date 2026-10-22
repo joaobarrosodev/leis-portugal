@@ -1,0 +1,470 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31979L0117:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01979L0117-20110614",
+ "dre_path": null,
+ "source_lastmod": "2011-06-14",
+ "versions": [
+  {
+   "date": "1979-02-08",
+   "future": false,
+   "celex": "31979L0117",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "54d10220052cc54e",
+    "b3f1b141400381c0",
+    "756833806ff40eee",
+    "2129aa0a3c4b7163",
+    "e4badee622d4e240",
+    "bfda9736c43758b6",
+    "bbb82966e0a699fe",
+    "46a86fa1e281ab48",
+    "d32735219c4299cd",
+    "20a0788c88a257da",
+    "48bd94362c5e1887",
+    "1d0c43af378da4b1"
+   ]
+  },
+  {
+   "date": "2003-06-05",
+   "future": false,
+   "celex": "01979L0117-20030605",
+   "acts": [
+    {
+     "id": "eu:celex:31983L0131:por",
+     "title": "DIRECTIVA DA COMISSÃO 83/131/CEE de 14 de Março de 1983",
+     "published": null,
+     "celex": "31983L0131"
+    },
+    {
+     "id": "eu:celex:31985L0298:por",
+     "title": "DIRECTIVA DA COMISSÃO 85/298/CEE de 22 de Maio de 1985",
+     "published": null,
+     "celex": "31985L0298"
+    },
+    {
+     "id": "eu:celex:31985R3768:por",
+     "title": "M3",
+     "published": null,
+     "celex": "31985R3768"
+    },
+    {
+     "id": "eu:celex:31986L0214:por",
+     "title": "DIRECTIVA DO CONSELHO 86/214/CEE de 26 de Maio de 1986",
+     "published": null,
+     "celex": "31986L0214"
+    },
+    {
+     "id": "eu:celex:31986L0355:por",
+     "title": "DIRECTIVA DO CONSELHO 86/355/CEE de 21 de Julho de 1986",
+     "published": null,
+     "celex": "31986L0355"
+    },
+    {
+     "id": "eu:celex:31987L0181:por",
+     "title": "DIRECTIVA DO CONSELHO 87/181/CEE de 9 de Março de 1987",
+     "published": null,
+     "celex": "31987L0181"
+    },
+    {
+     "id": "eu:celex:31987L0477:por",
+     "title": "M7",
+     "published": null,
+     "celex": "31987L0477"
+    },
+    {
+     "id": "eu:celex:31989L0365:por",
+     "title": "DIRECTIVA DO CONSELHO 89/365/CEE de 30 de Maio de 1989",
+     "published": null,
+     "celex": "31989L0365"
+    },
+    {
+     "id": "eu:celex:31990L0335:por",
+     "title": "DIRECTIVA DA COMISSÃO 90/335/CEE de 7 de Junho de 1990",
+     "published": null,
+     "celex": "31990L0335"
+    },
+    {
+     "id": "eu:celex:31990L0533:por",
+     "title": "DIRECTIVA DO CONSELHO 90/533/CEE de 15 de Outubro de 1990",
+     "published": null,
+     "celex": "31990L0533"
+    },
+    {
+     "id": "eu:celex:31991L0188:por",
+     "title": "DIRECTIVA DA COMISSÃO 91/188/CEE de 19 de Março de 1991",
+     "published": null,
+     "celex": "31991L0188"
+    },
+    {
+     "id": "eu:celex:32003R0807:por",
+     "title": "REGULAMENTO (CE) N. o 807/2003 DO CONSELHO de 14 de Abril de 2003",
+     "published": null,
+     "celex": "32003R0807"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Grécia",
+     "published": null,
+     "celex": "11979H"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o"
+   ],
+   "fragments": [
+    "498351b423b7e67d",
+    "56e9d376182d4ad4",
+    "66b7a780207aba12",
+    "bd36489643d2f8ab",
+    "4294f28bc28449a2",
+    "c72a9b49790e07a1",
+    "2f827f7927af36e9",
+    "3f86235705c774da",
+    "237cafd33c694f57",
+    "d19081989444a512",
+    "52c3b643134db646",
+    "345f8edc768d0dfe",
+    "4812c899f563f8b1"
+   ]
+  },
+  {
+   "date": "2004-05-20",
+   "future": false,
+   "celex": "01979L0117-20040520",
+   "acts": [
+    {
+     "id": "eu:celex:32004R0850:por",
+     "title": "REGULAMENTO (CE) N. o 850/2004 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Abril de 2004",
+     "published": null,
+     "celex": "32004R0850"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera ANEXO",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "748688184d514625",
+    "56e9d376182d4ad4",
+    "66b7a780207aba12",
+    "bd36489643d2f8ab",
+    "4294f28bc28449a2",
+    "c72a9b49790e07a1",
+    "8ede6bbe667fbd58",
+    "3f86235705c774da",
+    "c9d8f7a4dc03d83d",
+    "d19081989444a512",
+    "52c3b643134db646",
+    "01fd8e4fcb9084f6",
+    "286ac8973bbae655"
+   ]
+  },
+  {
+   "date": "2011-06-14",
+   "future": false,
+   "celex": "01979L0117-20110614",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "bd11011414ea8e9b"
+   ]
+  }
+ ],
+ "fragments": {
+  "54d10220052cc54e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 79/117/CEE do Conselho, de 21 de Dezembro de 1978, relativa à proibição de colocação no mercado e da utilização de produtos fitofarmacêuticos contendo determinadas substâncias activas** *Jornal Oficial nº L 033 de 08/02/1979 p. 0036 - 0040 Edição especial finlandesa: Capítulo 3 Fascículo 10 p. 0168 Edição especial grega: Capítulo 03 Fascículo 24 p. 0046 Edição especial sueca: Capítulo 3 Fascículo 10 p. 0168 Edição especial espanhola: Capítulo 03 Fascículo 15 p. 0126 Edição especial portuguesa: Capítulo 03 Fascículo 15 p. 0126*\n\nDIRECTIVA DO CONSELHO de 21 de Dezembro de 1978 relativa à proibição de colocação no mercado e da utilização de produtos fitofarmacêuticos contendo determinadas substâncias activas\n\n(79/117/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a produção vegetal ocupa um lugar muito importante na Comunidade Económica Europeia;\n\nConsiderando que o rendimento desta produção é, constantemente, afectado por organismos nocivos e plantas infestantes e que é absolutamente necessário proteger os vegetais contra estes riscos para evitar uma diminuição do rendimento e para contribuir para a segurança dos abastecimentos;\n\nConsiderando que a utilização de produtos fitofarmacêuticos constitui um dos meios mais importantes de proteger as plantas e os produtos vegetais e de aumentar a produtividade da agricultura;\n\nConsiderando que estes produtos fitofarmacêuticos não têm unicamente repercussões favoráveis sobre a produção vegetal; que a sua utilização pode trazer riscos ao homem e ao ambiente dado que se trata, em geral, de substâncias tóxicas ou de preparações com efeitos perigosos;\n\nConsiderando que, para certos produtos fitofarmacêuticos, a importância destes riscos é tal que se impõe a não tolerância do uso total ou parcial destes produtos;\n\nConsiderando que os Estados-membros regulamentaram não apenas a colocação no mercado de produtos fitofarmacêuticos, mas também impuseram, para alguns destes produtos, limitações ou proibições do seu emprego que abrangem, ígualmente, a colocação no mercado;\n\nConsiderando que as medidas tomadas, para este efeito, nos Estados-membros apresentam diferenças que constituem obstáculos às trocas, que afectam, directamente, o estabelecimento e o funcionamento do mercado comum;\n\nConsiderando que é importante, consequentemente, eliminar estes obstáculos pelo cumprimento das disposições legislativas, regulamentares ou administrativas fixadas pelos Estados-membros;\n\nConsiderando que parece justificado admitir como princípio fundamental a proibição de todos os produtos fitofarmacêuticos contendo substâncias activas que mesmo quando usadas apropriadamente para a finalidade pretendida, apresentam ou podem apresentar efeitos prejudiciais para a saúde humana ou animal, ou efeitos desfavoráveis ao meio ambiente, não aceitáveis;\n\nConsiderando que, para vários destes produtos podem, contudo, ser concedidas derrogações, de certo modo à escala nacional, para usos especiais requeridos por razões ecológicas e quando os riscos implicados são menores que os associados aos usos anteriormente permitidos;\n\nConsiderando que estas derrogações devem ser anuladas logo que estejam disponíveis tratamentos menos nocivos;\n\nConsiderando, por outro lado, que é necessário conceder aos Estados-membros o direito limitado de suspender, temporariamente, e sob a sua própria responsabilidade, proibições de uso nos casos em que um perigo imprevisível ameace a produção vegetal e não possa ser denominado por outros meios;\n\nConsiderando que a directiva não se aplica aos produtos fitofarmacêuticos destinados à investigação ou para fins de análise;\n\nConsiderando, além disso, que devido à aplicação nos países terceiros de medidas, geralmente diferentes, não parece apropriado aplicar as disposições comunitárias aos produtos fitofarmacêuticos destinados à exportação para esses países;\n\nConsiderando que, para pôr em prática a presente directiva, assim como para a adaptação do seu anexo à evolução dos conhecimentos científicos e técnicos é necessária uma cooperação estreita entre a Comissão e os Estados-membros; que a actuação do Comité Fitossanitário Permanente, mesmo se é provisoriamente limitada no tempo, assim como a intervenção do Comité Científico dos Pesticidas, apresentam, a este respeito, uma base adequada,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b3f1b141400381c0": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva respeita à proibição de colocação no mercado e utilização de produtos fitofarmacêuticos contendo determinadas substâncias activas."
+  },
+  "756833806ff40eee": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPara efeitos da presente directiva, entende-se por:\n\n1. Produtos fitofarmacêuticos\n\nAs substâncias activas e as preparações contendo uma ou várias substâncias activas que se destiname a:\n\n1.1. Combater os organismos prejudiciais aos vegetais e aos produtos vegetais ou a evitar a sua acção, desde que estas substâncias ou preparações não estejam definidas nas disposições que se seguem:\n\n1.2. Exercer acção sobre os processos vitais dos vegetais, desde que não se trate de substâncias nutritivas;\n\n1.3. Assegurar a conservação dos produtos vegetais, desde que essas substâncias ou produtos não sejam objecto de disposições particulares, do Conselho ou da Comissão, respeitantes aos agentes conservadores;\n\n1.4. Destruir as plantas indesejáveis, ou a\n\n1.5. Destruir partes de vegetais ou evitar um crescimento indesejável das plantas.\n\n2. Substâncias\n\nOs elementos químicos e os seus compostos tal como se apresentam no estado natural ou tal como são manufacturados.\n\n3. Preparações\n\nAs misturas ou soluções compostas por duas ou várias substâncias, ou de microorganismos ou vírus utilizados como produtos fitofarmacêuticos.\n\n4. Substâncias activas\n\nAs substâncias, microorganismos e vírus exercendo uma acção geral ou específica:\n\n4.1. Sobre os organismos prejudiciais, ou\n\n4.2. Sobre as plantas, partes de plantas ou produtos vegetais.\n\n5. Vegetais\n\nAs plantas vivas e as partes vivas de plantas, incluindo os frutos frescos e as sementes.\n\n6. Produtos vegetais\n\nOs produtos de origem vegetal não transformados ou que sofreram uma preparação simples, tal como moagem, secagem ou pressão, desde que não se trate de vegetais como são definidos no ponto 5.\n\n7. Organismos prejudiciais\n\nOs inimigos das plantas ou dos produtos vegetais, que pertencem aos reinos animal ou vegetal ou que se apresentam sob a forma de vírus, microplasmas ou outros agentes patogénicos.\n\n8. Animais\n\nOs animais que pertencem a espécies normalmente alimentadas em cativeiro e consumidas pelo homem.\n\n9. Colocação no mercado\n\nQualquer remessa a título oneroso ou gratuito.\n\n10. Meio ambiente\n\nA relação entre água, ar, terra assim como todas as formas biológicas e os seres humanos."
+  },
+  "2129aa0a3c4b7163": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros zelarão por que os produtos fitofamacêuticos que contêm uma ou várias substâncias activas das enumeradas no anexo, não possam ser colocados no mercado nem utilizados.\n\nO parágrafo anterior não se aplica às impurezas devidas a processo de fabrico, desde que sejam excluídos os seus efeitos negativos para os homens, os animais e o meio ambiente."
+  },
+  "e4badee622d4e240": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Em derrogação do artigo 3o, os Estados-membros estão autorizados a permitir, temporariamente, a colocação no mercado e utilização, no seu território, de produtos fitofarmacêuticos contendo determinadas substâncias activas, enumeradas na coluna 1 do anexo, nos casos referidos na coluna 2.\n\n2. Os Estados-membros informarão os outros Estados-membros e a Comissão de qualquer aplicação do no 1 e, a pedido da Comissão, comunicar-lhe-ao as indicações respeitantes à importância do uso de cada substância activa em questão."
+  },
+  "bfda9736c43758b6": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nA presente directiva não se aplica aos produtos fitofarmacêuticos destinados:\n\na) À investigação ou a análises, ou\n\nb) À exportação para países terceiros."
+  },
+  "bbb82966e0a699fe": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Após a consulta, pela Comissão, do Comité Científico dos Pesticidas instituído pela Decisão 78/436/CEE (4), serão adoptadas segundo o porcedimento previsto no artigo 8o:\n\na) Todas as alterações aplicadas ao grupo de substâncias A (compostos mercuriais) e B (compostos organoclorados persistentes) da coluna 1, do anexo;\n\nb) Todas as alterações aplicadas à coluna 2, do anexo. Na medida em que uma derrogação deve ser anulada, não se impõe que haja uma consulta prévia ao Comité Científico se todos os Estados-membros informarem a Comissão de que não têm ou já não têm a intenção de utilizar esta derrogação. Esta informação pode ser fornecida ao Comité Fitossanitário Permanente instituído pela Decisão 76/894/CEE (5).\n\n2. O no 1 é aplicável durante um período de cinco anos, a contar de 1 de Janeiro de 1981.\n\nO Conselho, deliberando por unanimidade, sob proposta da Comissão, poderá decidir quer prorrogar a duração da aplicação do no 1, quer suprimir qualquer limitação à sua aplicação.\n\n3. Sob proposta da Comissão, o Conselho adoptará todas as modificações ao anexo que não estão previstas no no 1.\n\n4. A Comissão examinará, de dois em dois anos, se e em que medida a coluna 2 do anexo deve ser alterada.\n\n5. Todas as alterações a aplicar ao anexo, fundamentam-se na evolução dos conhecimentos científicos e técnicos.\n\n6. Uma substância activa é inscrita no anexo, se a sua aplicação - mesmo por ocasião de um uso apropriado para o fim pretendido - apresentar ou poder apresentar:\n\na) Efeitos prejudiciais para a saúde humana ou animal, ou\n\nb) Efeitos desfavoráveis ao meio ambiente, não aceitáveis."
+  },
+  "46a86fa1e281ab48": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Se a utilização, num Estado-membro, de um produto fitofarmacêutico contendo uma o várias substâncias activas enumeradas no anexo, se revelar indispensável devido à existência de um perigo imprevisível que ameace a produção vegetal e que não possa ser dominado por outros meios, o Estado-membro em questão poderá autorizar a colocação no mercado e a utilização do produto durante um período de cento e vinte dias, no máximo. Deste facto informarão, sem demora, os outros Estados-membros e a Comissão.\n\n2. Segundo o procedimento previsto no artigo 8o, é decidido, imediatamente, se e, quando necessário, em que condições, as medidas tomadas pelo Estado-membro, de acordo com o primeiro parágrafo, podem ser mantidas ou repetidas."
+  },
+  "d32735219c4299cd": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. No caso de ser feita referência ao processo defenido no presente artigo, um assunto pode ser submetido, sem demora, ao Comité Fitossanitário Permanente, adiante denominado «Comité», por iniciativa do seu presidente ou a pedido de um Estado-membro.\n\n2. No seio do Comité, atribui-se aos votos dos Estados-membros a ponderação prevista no segundo parágrafo, do artigo 148o do Tratado. O presidente não participa na votação.\n\n3. O representante da Comissão submete um projecto com as medidas a tomar. O Comité emite o seu parecer sobre estas medidas num prazo que o presidente pode fixar em função da urgência das questões submetidas a exame. O Comité pronuncia-se por maioria de quarenta e um votos.\n\n4. A Comissão adopta as medidas e põe-nas imediatamente em aplicação quando forem conformes ao parecer do Comité. Se não forem conformes ao parecer do Comité ou na ausência de parecer do Comité, a Comissão submeterá, imediatamente, ao Conselho uma proposta referente às medidas a tomar. O Conselho adoptará as medidas por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto lhe foi submetido, o Conselho não adoptar medidas, a Comissão adoptará as medidas propostas e aplicá-las-á imediatamente."
+  },
+  "20a0788c88a257da": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar em 1 de Janeiro de 1981. Deste facto informarão, imediatamente, a Comissão."
+  },
+  "48bd94362c5e1887": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 21 de Dezembro de 1978.\n\nPelo Conselho\n\nO Presidente\n\nOtto Graf LAMBSDORFF\n\n(1) JO no C 200 de 26. 8. 1976, p. 10.(2) JO no C 30 de 7. 2. 1977, p. 38.(3) JO no C 114 de 11. 5. 1977, p. 16.(4) JO no L 124 de 12. 5. 1978, p. 16.(5) JO no L 340 de 9. 12. 1976, p. 25."
+  },
+  "1d0c43af378da4b1": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n\"\" ID=\"1\">A. Compostos mercúricos\" ID=\"1\">1. Óxido mercúrico> ID=\"2\">Tratamento, por pincelagem, contra a Nectria galligena (cancro) das árvores de frutos de pevide, depois da colheita e até ao abrolhamento.\"> ID=\"1\" ASSV=\"3\">2. Cloreto mercuroso (calomel)> ID=\"2\">a) Contra Plasmodiophora em Brassicae\"> ID=\"2\">b) Tratamento das sementes e plantas de cebola contra Sclerotium cepivorum\"> ID=\"2\">c) Tratamento da relva ornamental e da relvapara terrenos de desporto, contra Sclerotinia e Fusarium\"> ID=\"1\">3. Outros compostos inorgânicos de mercúrio.\"> ID=\"1\" ASSV=\"2\">4. Composto de alquil-mercúrio.> ID=\"2\">a) Tratamento, por imersão, dos bolbos de flores e de batata-semente;\"> ID=\"2\">b) Tratamento das sementes base e pré-base de cereais, com excepção do milho e das sementes de beterraba açucareira.\"> ID=\"1\" ASSV=\"4\">5. Composto de alcóxialquil e de arilmercúrio> ID=\"2\">a) Tratamento, por pincelamento, contra a Nectria galligena (cancro) das árvores de frutos de pevide, depois da colheita e até ao abrolhamento;\"> ID=\"2\">b) Tratamento de Outono contra a Nectria galligena (cancro) das macieiras «Bramley», se necessário, na Irlanda do Norte, depois de um Verão excepcionalmente húmido;\"> ID=\"2\">c) Tratamento, por imersão, de bolbos de flores e de batata-semente;\"> ID=\"2\">d) Tratamento de sementes de cereais, de beterrabas, de linho e de colza.\"\" ID=\"1\">B. Compostos organoclorados persistentes\" ID=\"1\" ASSV=\"3\">1. Aldrina> ID=\"2\">a) Tratamento de solos contra Otiorrhynchus nos viveiros, nos campos destinados a morangais antes da plantação nas culturas de plantas ornamentais e nas vinhas;\"> ID=\"2\">b) Tratamento de batatas cultivadas em antigas pastagens, contra Agriotes, (alfinetes) na Irlanda e no Reino Unido;\"> ID=\"2\">c) Tratamento dos narcisos que vão ficar 2 ou 3 anos na terra, contra Merodon equestris, Eumerus strigatus e Eumerus tuberculatus.\"> ID=\"1\">2. Clordano\"> ID=\"1\">3. Dialdrina\"> ID=\"1\" ASSV=\"5\">4. DDT> ID=\"2\">a) Tratamento, por imersão, das plântulas de coníferas, contra Hylobius;\"> ID=\"2\">b) Tratamento de árvores individuais contra Scolytidae na luta contra o ceratocystis ulmi;\"> ID=\"2\">c) Tratamento de beterrabas açucareiras, batatas e relva ornamental ou para terrenos de desporto, contra Melolontha, Amphimallon, Phyllopertha, Cetonia e Serica;\"> ID=\"2\">d) Tratamento de beterrabas açucareiras, batatas, morangos, cenouras e plantas ornamentais contra Agrotis e Euxoa;\"> ID=\"2\">e) Tratamento de cereais contra Tipula;\"> ID=\"1\" ASSV=\"2\">5. Endrina> ID=\"2\">a) Tratamento contra os ácaros dos ciclamens e dos estolhos de morangueiros;\"> ID=\"2\">b) Tratamento contra Arvicola terrestris L. nos pomares sem culturas intercalares.\"> ID=\"1\">6. HCH contendo menos de 99,0 % do isómero gama\"> ID=\"1\">7. Heptacloro> ID=\"2\">Tratamento, no estado da sua preparação, de sementes de beterraba contra Atomaria Linearis, Agriotes spec., Myriapoda e Collembola\"> ID=\"1\">8. Hexaclorobenzeno\"\""
+  },
+  "498351b423b7e67d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Dezembro de 1978\n\nrelativa à proibição de colocação no mercado e da utilização de produtos fitofarmacêuticos contendo determinadas substâncias activas\n\n(79/117/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/22a0dd0b-54d7-4014-b67c-bf2e052490d9.0010.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/22a0dd0b-54d7-4014-b67c-bf2e052490d9.0010.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/22a0dd0b-54d7-4014-b67c-bf2e052490d9.0010.03/DOC_1#E0003)),\n\nConsiderando que a produção vegetal ocupa um lugar muito importante na Comunidade Económica Europeia;\n\nConsiderando que o rendimento desta produção é, constantemente, afectado por organismos nocivos e plantas infestantes e que é absolutamente necessário proteger os vegetais contra estes riscos para evitar uma diminuição do rendimento e para contribuir para a segurança dos abastecimentos;\n\nConsiderando que a utilização de produtos fitofarmacêuticos constitui um dos meios mais importantes de proteger as plantas e os produtos vegetais e de aumentar a produtividade da agricultura;\n\nConsiderando que estes produtos fitofarmacêuticos não têm unicamente repercussões favoráveis sobre a produção vegetal; que a sua utilização pode trazer riscos ao homem e ao ambiente dado que se trata, em geral, de substâncias tóxicas ou de preparações com efeitos perigosos;\n\nConsiderando que, para certos produtos fitofarmacêuticos, a importância destes riscos é tal que se impõe a não tolerância do uso total ou parcial destes produtos;\n\nConsiderando que os Estados-membros regulamentaram não apenas a colocação no mercado de produtos fitofarmacêuticos, mas também impuseram, para alguns destes produtos, limitações ou proibições do seu emprego que abrangem, ígualmente, a colocação no mercado;\n\nConsiderando que as medidas tomadas, para este efeito, nos Estados-membros apresentam diferenças que constituem obstáculos às trocas, que afectam, directamente, o estabelecimento e o funcionamento do mercado comum;\n\nConsiderando que é importante, consequentemente, eliminar estes obstáculos pelo cumprimento das disposições legislativas, regulamentares ou administrativas fixadas pelos Estados-membros;\n\nConsiderando que parece justificado admitir como princípio fundamental a proibição de todos os produtos fitofarmacêuticos contendo substâncias activas que mesmo quando usadas apropriadamente para a finalidade pretendida, apresentam ou podem apresentar efeitos prejudiciais para a saúde humana ou animal, ou efeitos desfavoráveis ao meio ambiente, não aceitáveis;\n\nConsiderando que, para vários destes produtos podem, contudo, ser concedidas derrogações, de certo modo à escala nacional, para usos especiais requeridos por razões ecológicas e quando os riscos implicados são menores que os associados aos usos anteriormente permitidos;\n\nConsiderando que estas derrogações devem ser anuladas logo que estejam disponíveis tratamentos menos nocivos;\n\nConsiderando, por outro lado, que é necessário conceder aos Estados-membros o direito limitado de suspender, temporariamente, e sob a sua própria responsabilidade, proibições de uso nos casos em que um perigo imprevisível ameace a produção vegetal e não possa ser denominado por outros meios;\n\nConsiderando que a directiva não se aplica aos produtos fitofarmacêuticos destinados à investigação ou para fins de análise;\n\nConsiderando, além disso, que devido à aplicação nos países terceiros de medidas, geralmente diferentes, não parece apropriado aplicar as disposições comunitárias aos produtos fitofarmacêuticos destinados à exportação para esses países;\n\nConsiderando que, para pôr em prática a presente directiva, assim como para a adaptação do seu anexo à evolução dos conhecimentos científicos e técnicos é necessária uma cooperação estreita entre a Comissão e os Estados-membros; que a actuação do Comité Fitossanitário Permanente, mesmo se é provisoriamente limitada no tempo, assim como a intervenção do Comité Científico dos Pesticidas, apresentam, a este respeito, uma base adequada,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "56e9d376182d4ad4": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva respeita à proibição de colocação no mercado e utilização de produtos fitofarmacêuticos contendo determinadas substâncias activas."
+  },
+  "66b7a780207aba12": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\n1. **Produtos fitofarmacêuticos**\n\n1.1. Combater os organismos prejudiciais aos vegetais e aos produtos vegetais ou a evitar a sua acção, desde que estas substâncias ou preparações não estejam definidas nas disposições que se seguem:\n\n1.2. Exercer acção sobre os processos vitais dos vegetais, desde que não se trate de substâncias nutritivas;\n\n1.3. Assegurar a conservação dos produtos vegetais, desde que essas substâncias ou produtos não sejam objecto de disposições particulares, do Conselho ou da Comissão, respeitantes aos agentes conservadores;\n\n1.4. Destruir as plantas indesejáveis, ou a\n\n1.5. Destruir partes de vegetais ou evitar um crescimento indesejável das plantas.\n\n2. **Substâncias**\n\n3. **Preparações**\n\n4. **Substâncias activas**\n\n4.1. Sobre os organismos prejudiciais, ou\n\n4.2. Sobre as plantas, partes de plantas ou produtos vegetais.\n\n5. **Vegetais**\n\n6. **Produtos vegetais**\n\n7. **Organismos prejudiciais**\n\n8. **Animais**\n\n9. **Colocação no mercado**\n\n10. **Meio ambiente**"
+  },
+  "bd36489643d2f8ab": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-membros zelarão por que os produtos fitofamacêuticos que contêm uma ou várias substâncias activas das enumeradas no anexo, não possam ser colocados no mercado nem utilizados.\n\nO parágrafo anterior não se aplica às impurezas devidas a processo de fabrico, desde que sejam excluídos os seus efeitos negativos para os homens, os animais e o meio ambiente."
+  },
+  "4294f28bc28449a2": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Em derrogação do artigo 3.º, os Estados-membros estão autorizados a permitir, temporariamente, a colocação no mercado e utilização, no seu território, de produtos fitofarmacêuticos contendo determinadas substâncias activas, enumeradas na coluna 1 do anexo, nos casos referidos na coluna 2.\n\n2. Os Estados-membros informarão os outros Estados-membros e a Comissão de qualquer aplicação do n.º 1 e, a pedido da Comissão, comunicar-lhe-ão as indicações respeitantes à importância do uso de cada substância activa em questão."
+  },
+  "c72a9b49790e07a1": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA presente directiva não se aplica aos produtos fitofarmacêuticos destinados:\n\na) À investigação ou a análises, ou\n\nb) À exportação para países terceiros."
+  },
+  "2f827f7927af36e9": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Após a consulta, pela Comissão, do Comité Científico dos Pesticidas instituído pela Decisão 78/436/CEE ([^4^](http://publications.europa.eu/resource/cellar/22a0dd0b-54d7-4014-b67c-bf2e052490d9.0010.03/DOC_1#E0004)), serão adoptadas segundo o porcedimento previsto no artigo 8.º:\n\na) Todas as alterações aplicadas ao grupo de substâncias A (compostos mercuriais) e B (compostos organoclorados persistentes) da coluna 1, do anexo;\n\nb) Todas as alterações aplicadas à coluna 2, do anexo. Na medida em que uma derrogação deve ser anulada, não se impõe que haja uma consulta prévia ao Comité Científico se todos os Estados-membros informarem a Comissão de que não têm ou já não têm a intenção de utilizar esta derrogação. Esta informação pode ser fornecida ao Comité Fitossanitário Permanente instituído pela Decisão 76/894/CEE ([^5^](http://publications.europa.eu/resource/cellar/22a0dd0b-54d7-4014-b67c-bf2e052490d9.0010.03/DOC_1#E0005)).\n\n3. Sob proposta da Comissão, o Conselho adoptará todas as modificações ao anexo que não estão previstas no n.º 1.\n\n4. A Comissão examinará, de dois em dois anos, se e em que medida a coluna 2 do anexo deve ser alterada.\n\n5. Todas as alterações a aplicar ao anexo, fundamentam-se na evolução dos conhecimentos científicos e técnicos.\n\n6. Uma substância activa é inscrita no anexo, se a sua aplicação — mesmo por ocasião de um uso apropriado para o fim pretendido — apresentar ou poder apresentar:\n\na) Efeitos prejudiciais para a saúde humana ou animal, ou\n\nb) Efeitos desfavoráveis ao meio ambiente, não aceitáveis."
+  },
+  "3f86235705c774da": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Se a utilização, num Estado-membro, de um produto fitofarmacêutico contendo uma o várias substâncias activas enumeradas no anexo, se revelar indispensável devido à existência de um perigo imprevisível que ameace a produção vegetal e que não possa ser dominado por outros meios, o Estado-membro em questão poderá autorizar a colocação no mercado e a utilização do produto durante um período de cento e vinte dias, no máximo. Deste facto informarão, sem demora, os outros Estados-membros e a Comissão.\n\n2. Segundo o procedimento previsto no artigo 8.º, é decidido, imediatamente, se e, quando necessário, em que condições, as medidas tomadas pelo Estado-membro, de acordo com o primeiro parágrafo, podem ser mantidas ou repetidas."
+  },
+  "237cafd33c694f57": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^6^](http://publications.europa.eu/resource/cellar/22a0dd0b-54d7-4014-b67c-bf2e052490d9.0010.03/DOC_1#E0006)).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^7^](http://publications.europa.eu/resource/cellar/22a0dd0b-54d7-4014-b67c-bf2e052490d9.0010.03/DOC_1#E0007)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "d19081989444a512": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar em 1 de Janeiro de 1981. Deste facto informarão, imediatamente, a Comissão."
+  },
+  "52c3b643134db646": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "345f8edc768d0dfe": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| Nome das substâncias activas ou dos grupos de substâncias activas referidas no artigo 3.º | Casos dé colocação no mercado ou de utilização autorizados segundo as disposições do artigo 4.º |\n| --- | --- |\n| A. Compostos mercúricos |  |\n| 1. Óxido mercúrico | [**►M11**](http://publications.europa.eu/resource/celex/31991L0188) Tratamento, por pincelagem, contra a (cancro) das árvores de frutos de pevide, depois da colheita e até ao abrolhamento.**◄** |\n| 2. Cloreto mercuroso (calomel) | [**►M2**](http://publications.europa.eu/resource/celex/31985L0298) a) Contra *Plasmodiophora* em *Brassicae* [**►M11**](http://publications.europa.eu/resource/celex/31991L0188) **◄** |\n| 3. Outros compostos inorgânicos de mercúrio. |  |\n| 4. Composto de alquil-mercúrio. | [**►M9**](http://publications.europa.eu/resource/celex/31990L0335) **◄** |\n| 5. Composto de alcóxialquil e de arilmercúrio | [**►M1**](http://publications.europa.eu/resource/celex/31983L0131) **◄** a) **◄**Tratamento de Outono contra a *Nectria galligena* (cancro) das macieiras «Bramley», se necessário, na Irlanda do Norte, depois de um Verão excepcionalmente húmido; [**►M2**](http://publications.europa.eu/resource/celex/31985L0298) b) [**►M11**](http://publications.europa.eu/resource/celex/31991L0188) Tratamento das sementes de cereais **◄** |\n| B. Compostos organoclorados persistentes |  |\n| 1. Aldrina | [**►M9**](http://publications.europa.eu/resource/celex/31990L0335) **◄** |\n| 2. Clordano |  |\n| 3. Dialdrina |  |\n| 4. DDT | [**►M1**](http://publications.europa.eu/resource/celex/31983L0131) **◄** [**►M2**](http://publications.europa.eu/resource/celex/31985L0298) [**►M1**](http://publications.europa.eu/resource/celex/31983L0131) **◄** |\n| 5. Endrina | [**►M9**](http://publications.europa.eu/resource/celex/31990L0335) **◄** b) Tratamento contra *Arvicola terrestris L.* nos pomares sem culturas intercalares. |\n| 6. HCH contendo menos de 99,0 % do isómero gama |  |\n| 7. Heptacloro | [**►M1**](http://publications.europa.eu/resource/celex/31983L0131) Tratamento, no estado da sua preparação, de sementes de beterraba contra e **◄** |\n| 8. Hexaclorobenzeno |  |\n| [▼M1](http://publications.europa.eu/resource/celex/31983L0131) |  |\n| 9. Toxafeno |  |\n| [▼M5](http://publications.europa.eu/resource/celex/31986L0355) |  |\n| [**►M6**](http://publications.europa.eu/resource/celex/31987L0181) |  |\n| C. **Outros compostos** 1. Óxido de etileno **◄** [**►M6**](http://publications.europa.eu/resource/celex/31987L0181) 2. Nitrofeno 3. 1,2-dibromoetano 4. 1,2-dicloroetano **◄** [**►M10**](http://publications.europa.eu/resource/celex/31990L0533) 5. Dinosebe, seus acetados e sais 6. Binapacril 7. Captafol 8. Dicofol que contenha menos de 78 % de p,p'-dicofol ou mais de 1 g/kg de DDT e de compostos relacionados com o DDT9. a) Hidrazida maleica e seus sais, à excepção dos seus sais de colina, de potássio e de sódio b) Sais de colina, de potássio e de sódio da hidrazida maleica que contenham mais de 1 mg/kg de hidrazina livre, expressa em ácido-equivalente 10. Quintozeno que contenha mais de 1 g/kg de HCB ou mais de 10 g/kg de pentacloro-benzeno. **◄** | a) Redução dos germes patogénicos nos produtos hortícolas desidratados abaixo indicados, destinados a ser incorporados em preparados alimentares não submetidos a cozedura completa antes do consumo — espargos — cebolas — alhos franceses — cogumelos |\n| b) Redução dos germes patogénicos nas ervas aromáticas e especiarias secas [(^1^)](http://publications.europa.eu/resource/cellar/22a0dd0b-54d7-4014-b67c-bf2e052490d9.0010.03/DOC_1#E1001) |  |\n| c) Redução dos germes patogénicos nas ervas secas exclusivamente destinadas a ser comercializadas no seu estado inalterado como produtos medicinais |  |\n| d) Redução dos germes patogénicos no cacau em pó e nos aglomerados de cacau |  |\n| e) Fumigação de folhas de tabaco |  |\n| [**►M8**](http://publications.europa.eu/resource/celex/31989L0365) As derrogações constantes das alíneas a), d) e e) expiram, o mais tardar, em 31 de Dezembro de 1989 e as derrogações constantes das alíneas b) e c) expiram, o mais tardar, em 31 de Dezembro de 1990**◄** |  |\n| (^1^)Plantas e produtos vegetais ricos em óleos essenciais e princípios aromáticos e que pelo seu sabor característico são principalmente utilizados como condimentos |  |\n\n---"
+  },
+  "4812c899f563f8b1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/22a0dd0b-54d7-4014-b67c-bf2e052490d9.0010.03/DOC_1#src.E0001)) JO n.º C 200 de 26. 8. 1976, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/22a0dd0b-54d7-4014-b67c-bf2e052490d9.0010.03/DOC_1#src.E0002)) JO n.º C 30 de 7. 2. 1977, p. 38.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/22a0dd0b-54d7-4014-b67c-bf2e052490d9.0010.03/DOC_1#src.E0003)) JO n.º C 114 de 11. 5. 1977, p. 16.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/22a0dd0b-54d7-4014-b67c-bf2e052490d9.0010.03/DOC_1#src.E0004)) JO n.º L 124 de 12. 5. 1978, p. 16.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/22a0dd0b-54d7-4014-b67c-bf2e052490d9.0010.03/DOC_1#src.E0005)) JO n.º L 340 de 9. 12. 1976, p. 25.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/22a0dd0b-54d7-4014-b67c-bf2e052490d9.0010.03/DOC_1#src.E0006)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/22a0dd0b-54d7-4014-b67c-bf2e052490d9.0010.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "748688184d514625": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Dezembro de 1978\n\nrelativa à proibição de colocação no mercado e da utilização de produtos fitofarmacêuticos contendo determinadas substâncias activas\n\n(79/117/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/d18f417a-057a-4367-9acd-b384e6b579a6.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/d18f417a-057a-4367-9acd-b384e6b579a6.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/d18f417a-057a-4367-9acd-b384e6b579a6.0018.03/DOC_1#E0003)),\n\nConsiderando que a produção vegetal ocupa um lugar muito importante na Comunidade Económica Europeia;\n\nConsiderando que o rendimento desta produção é, constantemente, afectado por organismos nocivos e plantas infestantes e que é absolutamente necessário proteger os vegetais contra estes riscos para evitar uma diminuição do rendimento e para contribuir para a segurança dos abastecimentos;\n\nConsiderando que a utilização de produtos fitofarmacêuticos constitui um dos meios mais importantes de proteger as plantas e os produtos vegetais e de aumentar a produtividade da agricultura;\n\nConsiderando que estes produtos fitofarmacêuticos não têm unicamente repercussões favoráveis sobre a produção vegetal; que a sua utilização pode trazer riscos ao homem e ao ambiente dado que se trata, em geral, de substâncias tóxicas ou de preparações com efeitos perigosos;\n\nConsiderando que, para certos produtos fitofarmacêuticos, a importância destes riscos é tal que se impõe a não tolerância do uso total ou parcial destes produtos;\n\nConsiderando que os Estados-membros regulamentaram não apenas a colocação no mercado de produtos fitofarmacêuticos, mas também impuseram, para alguns destes produtos, limitações ou proibições do seu emprego que abrangem, ígualmente, a colocação no mercado;\n\nConsiderando que as medidas tomadas, para este efeito, nos Estados-membros apresentam diferenças que constituem obstáculos às trocas, que afectam, directamente, o estabelecimento e o funcionamento do mercado comum;\n\nConsiderando que é importante, consequentemente, eliminar estes obstáculos pelo cumprimento das disposições legislativas, regulamentares ou administrativas fixadas pelos Estados-membros;\n\nConsiderando que parece justificado admitir como princípio fundamental a proibição de todos os produtos fitofarmacêuticos contendo substâncias activas que mesmo quando usadas apropriadamente para a finalidade pretendida, apresentam ou podem apresentar efeitos prejudiciais para a saúde humana ou animal, ou efeitos desfavoráveis ao meio ambiente, não aceitáveis;\n\nConsiderando que, para vários destes produtos podem, contudo, ser concedidas derrogações, de certo modo à escala nacional, para usos especiais requeridos por razões ecológicas e quando os riscos implicados são menores que os associados aos usos anteriormente permitidos;\n\nConsiderando que estas derrogações devem ser anuladas logo que estejam disponíveis tratamentos menos nocivos;\n\nConsiderando, por outro lado, que é necessário conceder aos Estados-membros o direito limitado de suspender, temporariamente, e sob a sua própria responsabilidade, proibições de uso nos casos em que um perigo imprevisível ameace a produção vegetal e não possa ser denominado por outros meios;\n\nConsiderando que a directiva não se aplica aos produtos fitofarmacêuticos destinados à investigação ou para fins de análise;\n\nConsiderando, além disso, que devido à aplicação nos países terceiros de medidas, geralmente diferentes, não parece apropriado aplicar as disposições comunitárias aos produtos fitofarmacêuticos destinados à exportação para esses países;\n\nConsiderando que, para pôr em prática a presente directiva, assim como para a adaptação do seu anexo à evolução dos conhecimentos científicos e técnicos é necessária uma cooperação estreita entre a Comissão e os Estados-membros; que a actuação do Comité Fitossanitário Permanente, mesmo se é provisoriamente limitada no tempo, assim como a intervenção do Comité Científico dos Pesticidas, apresentam, a este respeito, uma base adequada,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "8ede6bbe667fbd58": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Após a consulta, pela Comissão, do Comité Científico dos Pesticidas instituído pela Decisão 78/436/CEE ([^4^](http://publications.europa.eu/resource/cellar/d18f417a-057a-4367-9acd-b384e6b579a6.0018.03/DOC_1#E0004)), serão adoptadas segundo o porcedimento previsto no artigo 8.º:\n\na) Todas as alterações aplicadas ao grupo de substâncias A (compostos mercuriais) e B (compostos organoclorados persistentes) da coluna 1, do anexo;\n\nb) Todas as alterações aplicadas à coluna 2, do anexo. Na medida em que uma derrogação deve ser anulada, não se impõe que haja uma consulta prévia ao Comité Científico se todos os Estados-membros informarem a Comissão de que não têm ou já não têm a intenção de utilizar esta derrogação. Esta informação pode ser fornecida ao Comité Fitossanitário Permanente instituído pela Decisão 76/894/CEE ([^5^](http://publications.europa.eu/resource/cellar/d18f417a-057a-4367-9acd-b384e6b579a6.0018.03/DOC_1#E0005)).\n\n3. Sob proposta da Comissão, o Conselho adoptará todas as modificações ao anexo que não estão previstas no n.º 1.\n\n4. A Comissão examinará, de dois em dois anos, se e em que medida a coluna 2 do anexo deve ser alterada.\n\n5. Todas as alterações a aplicar ao anexo, fundamentam-se na evolução dos conhecimentos científicos e técnicos.\n\n6. Uma substância activa é inscrita no anexo, se a sua aplicação — mesmo por ocasião de um uso apropriado para o fim pretendido — apresentar ou poder apresentar:\n\na) Efeitos prejudiciais para a saúde humana ou animal, ou\n\nb) Efeitos desfavoráveis ao meio ambiente, não aceitáveis."
+  },
+  "c9d8f7a4dc03d83d": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^6^](http://publications.europa.eu/resource/cellar/d18f417a-057a-4367-9acd-b384e6b579a6.0018.03/DOC_1#E0006)).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^7^](http://publications.europa.eu/resource/cellar/d18f417a-057a-4367-9acd-b384e6b579a6.0018.03/DOC_1#E0007)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "01fd8e4fcb9084f6": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| Nome das substâncias activas ou dos grupos de substâncias activas referidas no artigo 3.º | Casos dé colocação no mercado ou de utilização autorizados segundo as disposições do artigo 4.º |\n| --- | --- |\n| A. **Compostos mercúricos** |  |\n| 1. Óxido mercúrico | [**►M11**](http://publications.europa.eu/resource/celex/31991L0188) Tratamento, por pincelagem, contra a (cancro) das árvores de frutos de pevide, depois da colheita e até ao abrolhamento.**◄** |\n| 2. Cloreto mercuroso (calomel) | [**►M2**](http://publications.europa.eu/resource/celex/31985L0298) [**►M11**](http://publications.europa.eu/resource/celex/31991L0188) **◄** |\n| 3. Outros compostos inorgânicos de mercúrio. |  |\n| 4. Composto de alquil-mercúrio. | [**►M9**](http://publications.europa.eu/resource/celex/31990L0335) **◄** |\n| 5. Composto de alcóxialquil e de arilmercúrio | [**►M1**](http://publications.europa.eu/resource/celex/31983L0131) **◄** [**►M2**](http://publications.europa.eu/resource/celex/31985L0298) b) [**►M11**](http://publications.europa.eu/resource/celex/31991L0188) Tratamento das sementes de cereais **◄** |\n| B. **Compostos organoclorados persistentes** |  |\n| [**►M13**](http://publications.europa.eu/resource/celex/32004R0850) [**►C1**](http://publications.europa.eu/resource/celex/32004R0850R%2801%29) **◄** **◄** | [**►M9**](http://publications.europa.eu/resource/celex/31990L0335) **◄** |\n| [**►M13**](http://publications.europa.eu/resource/celex/32004R0850) [**►C1**](http://publications.europa.eu/resource/celex/32004R0850R%2801%29) **◄** **◄** |  |\n| [**►M13**](http://publications.europa.eu/resource/celex/32004R0850) [**►C1**](http://publications.europa.eu/resource/celex/32004R0850R%2801%29) **◄** **◄** |  |\n| [**►M13**](http://publications.europa.eu/resource/celex/32004R0850) [**►C1**](http://publications.europa.eu/resource/celex/32004R0850R%2801%29) **◄** **◄** | [**►M1**](http://publications.europa.eu/resource/celex/31983L0131) **◄** [**►M2**](http://publications.europa.eu/resource/celex/31985L0298) [**►M1**](http://publications.europa.eu/resource/celex/31983L0131) **◄** |\n| [**►M13**](http://publications.europa.eu/resource/celex/32004R0850) [**►C1**](http://publications.europa.eu/resource/celex/32004R0850R%2801%29) **◄** **◄** | [**►M9**](http://publications.europa.eu/resource/celex/31990L0335) **◄** |\n| [**►M13**](http://publications.europa.eu/resource/celex/32004R0850) [**►C1**](http://publications.europa.eu/resource/celex/32004R0850R%2801%29) **◄** **◄** |  |\n| [**►M13**](http://publications.europa.eu/resource/celex/32004R0850) [**►C1**](http://publications.europa.eu/resource/celex/32004R0850R%2801%29) **◄** **◄** | [**►M1**](http://publications.europa.eu/resource/celex/31983L0131) Tratamento, no estado da sua preparação, de sementes de beterraba contra e **◄** |\n| [**►M13**](http://publications.europa.eu/resource/celex/32004R0850) [**►C1**](http://publications.europa.eu/resource/celex/32004R0850R%2801%29) **◄** **◄** |  |\n| [▼M1](http://publications.europa.eu/resource/celex/31983L0131) |  |\n| 9. Toxafeno |  |\n| [▼M5](http://publications.europa.eu/resource/celex/31986L0355) |  |\n| C. **Outros compostos** 1. Óxido de etileno **◄** [**►M6**](http://publications.europa.eu/resource/celex/31987L0181) 2. Nitrofeno 3. 1,2-dibromoetano 4. 1,2-dicloroetano **◄** [**►M10**](http://publications.europa.eu/resource/celex/31990L0533) 5. Dinosebe, seus acetados e sais 6. Binapacril 7. Captafol 8. Dicofol que contenha menos de 78 % de p,p'-dicofol ou mais de 1 g/kg de DDT e de compostos relacionados com o DDT9. a) Hidrazida maleica e seus sais, à excepção dos seus sais de colina, de potássio e de sódio b) Sais de colina, de potássio e de sódio da hidrazida maleica que contenham mais de 1 mg/kg de hidrazina livre, expressa em ácido-equivalente 10. Quintozeno que contenha mais de 1 g/kg de HCB ou mais de 10 g/kg de pentacloro-benzeno. **◄** | a) Redução dos germes patogénicos nos produtos hortícolas desidratados abaixo indicados, destinados a ser incorporados em preparados alimentares não submetidos a cozedura completa antes do consumo — espargos — cebolas — alhos franceses — cogumelos |\n| b) Redução dos germes patogénicos nas ervas aromáticas e especiarias secas [(^1^)](http://publications.europa.eu/resource/cellar/d18f417a-057a-4367-9acd-b384e6b579a6.0018.03/DOC_1#E0008) |  |\n| c) Redução dos germes patogénicos nas ervas secas exclusivamente destinadas a ser comercializadas no seu estado inalterado como produtos medicinais |  |\n| d) Redução dos germes patogénicos no cacau em pó e nos aglomerados de cacau |  |\n| e) Fumigação de folhas de tabaco |  |\n| [**►M8**](http://publications.europa.eu/resource/celex/31989L0365) As derrogações constantes das alíneas a), d) e e) expiram, o mais tardar, em 31 de Dezembro de 1989 e as derrogações constantes das alíneas b) e c) expiram, o mais tardar, em 31 de Dezembro de 1990.**◄** |  |\n| (^1^)Plantas e produtos vegetais ricos em óleos essenciais e princípios aromáticos e que pelo seu sabor característico são principalmente utilizados como condimentos |  |\n\n---"
+  },
+  "286ac8973bbae655": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d18f417a-057a-4367-9acd-b384e6b579a6.0018.03/DOC_1#src.E0001)) JO n.º C 200 de 26. 8. 1976, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d18f417a-057a-4367-9acd-b384e6b579a6.0018.03/DOC_1#src.E0002)) JO n.º C 30 de 7. 2. 1977, p. 38.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/d18f417a-057a-4367-9acd-b384e6b579a6.0018.03/DOC_1#src.E0003)) JO n.º C 114 de 11. 5. 1977, p. 16.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/d18f417a-057a-4367-9acd-b384e6b579a6.0018.03/DOC_1#src.E0004)) JO n.º L 124 de 12. 5. 1978, p. 16.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/d18f417a-057a-4367-9acd-b384e6b579a6.0018.03/DOC_1#src.E0005)) JO n.º L 340 de 9. 12. 1976, p. 25.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/d18f417a-057a-4367-9acd-b384e6b579a6.0018.03/DOC_1#src.E0006)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/d18f417a-057a-4367-9acd-b384e6b579a6.0018.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "bd11011414ea8e9b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1979L0117 — PT — 14.06.2011 — 016.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31979L0117) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31979L0117) [de 21 de Dezembro de 1978](http://publications.europa.eu/resource/celex/31979L0117) [relativa à proibição de colocação no mercado e da utilização de produtos fitofarmacêuticos contendo determinadas substâncias activas](http://publications.europa.eu/resource/celex/31979L0117) [(79/117/CEE)](http://publications.europa.eu/resource/celex/31979L0117) (JO L 033, 8.2.1979, p.36)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1107/2009 do Parlamento Europeu e do Conselho de 21 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009R1107) — L 309 — 1 — 24.11.2009"
+  }
+ }
+}

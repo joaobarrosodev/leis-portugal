@@ -1,0 +1,617 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997L0007:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997L0007-20140613",
+ "dre_path": null,
+ "source_lastmod": "2014-06-13",
+ "versions": [
+  {
+   "date": "1997-06-04",
+   "future": false,
+   "celex": "31997L0007",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4cbad5a0808af4a1",
+    "ed7949ac591c03cd",
+    "dae2a408f63480ae",
+    "00c93e8c51cca0de",
+    "10e080d063dd2276",
+    "a0a27074132730e3",
+    "a82b8d9e69dcf0d2",
+    "f9f2cb1f72d749fa",
+    "cc3fa7df1fc94963",
+    "8a209648e3883c66",
+    "1ba76f5324baab4f",
+    "058762d2c5cc6304",
+    "7dd5c7c9effe1418",
+    "4d6f5179822054f8",
+    "570ee42f2a00a4bd",
+    "8ecddfa6143b20a3",
+    "8b20f6a1cf291467",
+    "f7cb10334e8276bb",
+    "22aceec6ae90118d",
+    "bc2d324060009e32",
+    "e57e75af9031178c",
+    "8d19595cbe3ba4a8"
+   ]
+  },
+  {
+   "date": "2005-06-12",
+   "future": false,
+   "celex": "01997L0007-20050612",
+   "acts": [
+    {
+     "id": "eu:celex:32002L0065:por",
+     "title": "DIRECTIVA 2002/65/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de Setembro de 2002",
+     "published": null,
+     "celex": "32002L0065"
+    },
+    {
+     "id": "eu:celex:32005L0029:por",
+     "title": "DIRECTIVA 2005/29/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 11 de Maio de 2005",
+     "published": null,
+     "celex": "32005L0029"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º — Objecto",
+    "Adita Artigo 2.º — Definições",
+    "Adita Artigo 3.º — Exclusões",
+    "Adita Artigo 4.º — Informações prévias",
+    "Adita Artigo 5.º — Confirmação por escrito das informações",
+    "Adita Artigo 6.º — Direito de rescisão",
+    "Adita Artigo 7.º — Execução",
+    "Adita Artigo 8.º — Pagamento por cartão",
+    "Adita Artigo 9.º — Fornecimento não solicitado",
+    "Adita Artigo 10.º — Restrições à utilização de determinadas técnicas de comunicação à distância",
+    "Adita Artigo 11.º — Processo judicial ou administrativo",
+    "Adita Artigo 12.º — Carácter imperativo das disposições",
+    "Adita Artigo 13.º — Normas comunitárias",
+    "Adita Artigo 14.º — Cláusula mínima",
+    "Adita Artigo 15.º — Aplicação",
+    "Adita Artigo 16.º — Informação dos consumidores",
+    "Adita Artigo 17.º — Sistemas de reclamações",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Adita ANEXO I",
+    "Adita Técnicas de comunicação referidas no ponto 4 do artigo 2.º",
+    "Adita Notas",
+    "Suprime Artigo 1º — Objecto",
+    "Suprime Artigo 2º — Definições",
+    "Suprime Artigo 3º — Exclusões",
+    "Suprime Artigo 4º — Informações prévias",
+    "Suprime Artigo 5º — Confirmação por escrito das informações",
+    "Suprime Artigo 6º — Direito de rescisão",
+    "Suprime Artigo 7º — Execução",
+    "Suprime Artigo 8º — Pagamento por cartão",
+    "Suprime Artigo 9º — Fornecimento ou prestação não solicitados",
+    "Suprime Artigo 10º — Restrições à utilização de determinadas técnicas de comunicação à distância",
+    "Suprime Artigo 11º — Processo judicial ou administrativo",
+    "Suprime Artigo 12º — Carácter imperativo das disposições",
+    "Suprime Artigo 13º — Normas comunitárias",
+    "Suprime Artigo 14º — Cláusula mínima",
+    "Suprime Artigo 15º — Aplicação",
+    "Suprime Artigo 16º — Informação dos consumidores",
+    "Suprime Artigo 17º — Sistemas de reclamações",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime ANEXO I — Técnicas de comunicação referidas no ponto 4 do artigo 2º",
+    "Suprime ANEXO II — Serviços financeiros referidos no nº 1 do artigo 3º"
+   ],
+   "fragments": [
+    "b8da4b5ac1691d2c",
+    "1d93e867d82a3d75",
+    "6c15c7e6767c84cc",
+    "daf3e08b421e72a7",
+    "6783544a31eb5a73",
+    "de1706e528ebc76d",
+    "86b12c6161f9db60",
+    "7bcfc646ec915e74",
+    "2a8c0ca53ee0b5c4",
+    "1361d0d9a7c3c5c7",
+    "c8c6f48d51e85a93",
+    "a3d7958a3637857a",
+    "c6edab3cf65d7167",
+    "94e9e54640d0ab8d",
+    "105576d1a0edb90c",
+    "723a9613e245fb1a",
+    "13bbcfe707798c35",
+    "b9ffa9dde75d89c7",
+    "a72f20beab945a4c",
+    "fe23fcede97efb4b",
+    "d664376e2a8dcecd",
+    "39048fd9be0cf476",
+    "30d4bdd730208ad9"
+   ]
+  },
+  {
+   "date": "2007-12-25",
+   "future": false,
+   "celex": "01997L0007-20071225",
+   "acts": [
+    {
+     "id": "eu:celex:32007L0064:por",
+     "title": "DIRECTIVA 2007/64/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 13 de Novembro de 2007",
+     "published": null,
+     "celex": "32007L0064"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Exclusões",
+    "Altera Artigo 9.º — Fornecimento não solicitado",
+    "Altera Notas",
+    "Suprime Artigo 8.º — Pagamento por cartão"
+   ],
+   "fragments": [
+    "93a0a84358c9dcf4",
+    "1d93e867d82a3d75",
+    "e470cb42ead1c64e",
+    "a8eab8bcf019f30f",
+    "6783544a31eb5a73",
+    "de1706e528ebc76d",
+    "86b12c6161f9db60",
+    "7bcfc646ec915e74",
+    "8f80f38969d3d310",
+    "c8c6f48d51e85a93",
+    "a3d7958a3637857a",
+    "c6edab3cf65d7167",
+    "94e9e54640d0ab8d",
+    "105576d1a0edb90c",
+    "723a9613e245fb1a",
+    "13bbcfe707798c35",
+    "b9ffa9dde75d89c7",
+    "a72f20beab945a4c",
+    "fe23fcede97efb4b",
+    "d664376e2a8dcecd",
+    "39048fd9be0cf476",
+    "246b97f5d763a277"
+   ]
+  },
+  {
+   "date": "2014-06-13",
+   "future": false,
+   "celex": "01997L0007-20140613",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Exclusões",
+    "Suprime Artigo 4.º — Informações prévias",
+    "Suprime Artigo 5.º — Confirmação por escrito das informações",
+    "Suprime Artigo 6.º — Direito de rescisão",
+    "Suprime Artigo 7.º — Execução",
+    "Suprime Artigo 9.º — Fornecimento não solicitado",
+    "Suprime Artigo 10.º — Restrições à utilização de determinadas técnicas de comunicação à distância",
+    "Suprime Artigo 11.º — Processo judicial ou administrativo",
+    "Suprime Artigo 12.º — Carácter imperativo das disposições",
+    "Suprime Artigo 13.º — Normas comunitárias",
+    "Suprime Artigo 14.º — Cláusula mínima",
+    "Suprime Artigo 15.º — Aplicação",
+    "Suprime Artigo 16.º — Informação dos consumidores",
+    "Suprime Artigo 17.º — Sistemas de reclamações",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime ANEXO I",
+    "Suprime Técnicas de comunicação referidas no ponto 4 do artigo 2.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "13f4d6a4db78107c"
+   ]
+  }
+ ],
+ "fragments": {
+  "4cbad5a0808af4a1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 97/7/CE do Parlamento Europeu e do Conselho de 20 de Maio de 1997, relativa à protecção dos consumidores em matéria de contratos à distância - Declaração do Conselho e do Parlamento Europeu relativa ao n°. 1 do artigo 6. - Declaração da Comissão relativa ao n°. 1, primeiro travessão, do artigo 3.** *Jornal Oficial nº L 144 de 04/06/1997 p. 0019 - 0027*\n\nDIRECTIVA 97/7/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Maio de 1997 relativa à protecção dos consumidores em matéria de contratos à distância\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºB do Tratado (3), em função do projecto comum aprovado pelo Comité de conciliação em 27 de Novembro de 1996,\n\n(1) Considerando que, no contexto da realização dos objectivos do mercado interno, importa aprovar medidas destinadas a consolidar progressivamente esse mercado;\n\n(2) Considerando que a livre circulação de bens e serviços diz respeito não só aos profissionais do comércio, mas também aos particulares; que implica, para os consumidores, a possibilidade de acederem aos bens e serviços de um outro Estado-membro nas mesmas condições que a população desse Estado;\n\n(3) Considerando que as vendas transfronteiras à distância podem constituir, para os consumidores, uma das principais manifestações concretas da realização do mercado interno, conforme observado, nomeadamente, na comunicação da Comissão ao Conselho intitulada «Para um Mercado Único da Distribuição»; que é indispensável ao bom funcionamento do mercado interno que os consumidores se possam dirigir a uma empresa fora do seu país, ainda que esta tenha uma filial no país de residência do consumidor;\n\n(4) Considerando que a introdução de novas tecnologias implica a multiplicação dos meios postos à disposição dos consumidores para conhecerem as ofertas apresentadas em toda a Comunidade e fazerem as suas encomendas; que alguns Estados-membros já tomaram disposições diferentes ou divergentes de protecção dos consumidores em matéria de vendas à distância, com incidências negativas na concorrência entre as empresas que operam no mercado interno; que, por conseguinte, é necessário adoptar um mínimo de regras comuns a nível comunitário neste domínio;\n\n(5) Considerando que nos pontos 18 e 19 do anexo da Resolução do Conselho de 14 de Abril de 1975, relativa a um programa preliminar da Comunidade Económica Europeia para uma política de protecção e informação dos consumidores (4), se salienta a premência de proteger os compradores de bens ou serviços contra o pedido de pagamento de mercadorias não encomendadas e métodos de venda agressivos;\n\n(6) Considerando que a comunicação da Comissão ao Conselho intitulada «Novo Impulso para a Política de Defesa do Consumidor», aprovada pela Resolução do Conselho de 23 de Junho de 1986 (5), anunciava, no ponto 33, que a Comissão apresentaria propostas em matéria de utilização de novas tecnologias da informação que permitem aos consumidores fazerem encomendas a fornecedores, a partir do seu domicílio;\n\n(7) Considerando que na Resolução do Conselho de 9 de Novembro de 1989, sobre as futuras prioridades para o relançamento da política de defesa dos consumidores (6), se convida a Comissão a realizar um esforço prioritário nos domínios referidos no anexo da citada resolução; que este anexo menciona as novas tecnologias de venda à distância; que a Comissão deu seguimento a esta resolução aprovando um «plano de acção trienal relativo à política de defesa do consumidor na Comunidade Económica Europeia (1990-1992)» e que este plano prevê a adopção de uma directiva nesta matéria;\n\n(8) Considerando que a utilização das línguas em matéria de contratos à distância é da competência dos Estados-membros;\n\n(9) Considerando que o contrato à distância se caracteriza pela utilização de uma ou mais técnicas de comunicação à distância; que estas diferentes técnicas são utilizadas no quadro de um sistema organizado de venda ou prestação de serviços à distância, sem a presença simultânea do fornecedor e do consumidor; que a evolução permanente destas técnicas não permite elaborar uma lista exaustiva, antes obriga a definir princípios válidos, inclusivamente em relação àquelas que, por enquanto, são de escassa utilização;\n\n(10) Considerando que uma mesma transacção que comporta sucessivas operações ou uma série de operações ou uma série de operações separadas durante um período de tempo pode ter diferentes denominações jurídicas, consoante o direito dos Estados-membros; que o disposto na presente directiva não se pode aplicar de modo diferente, consoante a legislação dos Estados-membros, sem prejuízo de recorrerem ao artigo 14º; que, por isso, há razões para considerar que se deve observar o disposto na presente directiva pelo menos na altura da primeira de uma série de operações sucessivas ou da primeira de uma série de operações separadas, realizadas num período de tempo que possa ser considerado um todo, quer essa operação ou série de operações sejam objecto de um único contrato, de contratos sucessivos ou de contratos separados;\n\n(11) Considerando que a utilização de técnicas de comunicação à distância não deve conduzir a uma diminuição da informação prestada ao consumidor; que convém, pois, determinar as informações a transmitir obrigatoriamente ao consumidor, seja qual for a técnica de comunicação utilizada; que esta informação deve ainda ser transmitida em conformidade com as restantes normas comunitárias pertinentes, em especial com a Directiva 84/450/CEE do Conselho, de 10 de Setembro de 1984, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros em matéria de publicidade enganosa (7); que, verificando-se excepções à obrigação de prestar informações, cabe ao consumidor, numa base discricionária, pedir determinadas informações básicas como a identidade do fornecedor, as características principais dos bens e dos serviços e o respectivo preço;\n\n(12) Considerando que, no caso de comunicação por telefone, é conveniente que o consumidor receba informações suficientes no início da chamada para decidir continuar ou não;\n\n(13) Considerando que a informação divulgada por algumas tecnologias electrónicas tem frequentemente carácter efémero, na medida em que não é recebida em suporte durável; que é, deste modo, necessário que o consumidor receba por escrito, em tempo útil, as informações necessárias para a correcta execução do contrato;\n\n(14) Considerando que o consumidor não tem, em concreto, possibilidade de ver o produto ou de tomar conhecimento das características do serviço antes da celebração do contrato; que importa prever, salvo disposição em contrário da presente directiva, um direito de rescisão; que é necessário limitar quaisquer custos suportados pelo consumidor para o exercício do direito de rescisão aos custos directos de devolução do bem, dado que, caso contrário, este seria um direito meramente formal; que este direito de rescisão não prejudica os direitos do consumidor previstos na legislação nacional, nomeadamente em matéria de recepção de produtos e serviços deteriorados ou de produtos e serviços que não correspondem à descrição desses produtos ou serviços; que compete aos Estados-membros determinarem as outras condições e modalidades que resultem do exercício do direito de rescisão;\n\n(15) Considerando que é igualmente necessário prever um prazo para a execução do contrato, se este não tiver sido definido no momento da encomenda;\n\n(16) Considerando que não pode ser admitida a técnica promocional que consiste em enviar um produto ou prestar um serviço, a título oneroso, ao consumidor, sem encomenda prévia ou acordo explícito deste último, desde que não se trate de um fornecimento ou prestação a título de substituição;\n\n(17) Considerando os princípios consignados nos artigos 8º e 10º da Convenção Europeia de Protecção dos Direitos do Homem e das Liberdades Fundamentais, de 4 de Novembro de 1950; que é necessário reconhecer ao consumidor o direito à protecção da vida privada, nomeadamente no que diz respeito à tranquilidade face a certas técnicas de comunicação particularmente invasivas; que é necessário, por conseguinte, estabelecer restrições específicas à utilização dessas técnicas; que os Estados-membros devem tomar as medidas apropriadas para proteger eficazmente os consumidores que não desejem ser contactados através de determinados meios de comunicação, sem prejuízo das cláusulas de salvaguarda especiais do consumidor previstas na legislação comunitária relativa à protecção dos dados pessoais e da privacidade;\n\n(18) Considerando que é importante que as regras de base vinculativas constantes da presente directiva sejam completadas, sempre que se justifique, por disposições voluntárias acordadas entre os profissionais envolvidos, segundo a Recomendação 92/295/CEE da Comissão, de 7 de Abril de 1992, relativa a códigos de conduta para protecção dos consumidores em matéria de contratos negociados à distância (8);\n\n(19) Considerando que, para assegurar uma protecção óptima do consumidor, é importante que este seja devidamente informado das disposições da presente directiva e dos eventuais códigos de conduta existentes neste domínio;\n\n(20) Considerando que a inobservância do disposto na presente directiva pode prejudicar tanto os consumidores como os concorrentes; que é, portanto, possível prever disposições que permitam a organismos públicos ou aos seus representantes, a organizações de consumidores que, nos termos da legislação nacional, têm interesse legítimo na defesa dos consumidores ou a organizações profissionais que têm interesse legítimo para agir, zelarem pela aplicação das disposições da presente directiva;\n\n(21) Considerando que, para assegurar a protecção do consumidor, é importante resolver, logo que possível, a questão das reclamações transfronteiras; que, em 14 de Fevereiro de 1996, a Comissão publicou um plano de acção relativo ao acesso dos consumidores à justiça e à resolução dos litígios de consumo no mercado interno; que esse plano de acção prevê iniciativas específicas destinadas a promover os procedimentos extrajudiciais, que são estabelecidos critérios objectivos (anexo II) para garantir a fiabilidade desses procedimentos e se prevê a utilização de formulários-tipo de reclamação (anexo III);\n\n(22) Considerando que, na utilização das novas tecnologias, o consumidor não tem o controlo da técnica; que é, portanto, necessário prever a possibilidade de o ónus da prova caber ao fornecedor;\n\n(23) Considerando que, em certos casos, existe o risco de se privar o consumidor da protecção concedida pela presente directiva ao designar-se o direito de um país terceiro como direito aplicável ao contrato; que, consequentemente, importa prever na presente directiva disposições destinadas a evitar esse risco;\n\n(24) Considerando que, por razões de interesse geral, um Estado-membro pode proibir a comercialização no seu território de determinados produtos e serviços através de contratos à distância; que essa proibição deve respeitar as normas comunitárias; que tais proibições já estão previstas, nomeadamente no tocante a medicamentos, nas Directivas 89/552/CEE do Conselho, de 3 de Outubro de 1989, relativa à coordenação de certas disposições legislativas, regulamentares e administrativas dos Estados-membros relativas ao exercício de actividades de radiodifusão televisiva (9), e 92/28/CEE do Conselho, de 31 de Março de 1992, relativa à publicidade dos medicamentos para uso humano (10),\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "ed7949ac591c03cd": {
+   "fragment_id": "Artigo 1º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º — Objecto\n\nA presente directiva tem por objecto a aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros relativas aos contratos à distância entre consumidores e fornecedores."
+  },
+  "dae2a408f63480ae": {
+   "fragment_id": "Artigo 2º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. Contrato à distância, qualquer contrato relativo a bens ou serviços, celebrado entre um fornecedor e um consumidor, que se integre num sistema de venda ou prestação de serviços à distância organizado pelo fornecedor, que, para esse contrato, utilize exclusivamente uma ou mais técnicas de comunicação à distância até à celebração do contrato, incluindo a própria celebração.\n\n2. Consumidor, qualquer pessoa singular que, nos contratos abrangidos pela presente directiva, actue com fins que não pertençam ao âmbito da sua actividade profissional.\n\n3. Fornecedor, qualquer pessoa singular ou colectiva que, nos contratos abrangidos pela presente directiva, actue no âmbito da sua actividade profissional.\n\n4. Técnica de comunicação à distância, qualquer meio que, sem a presença física e simultânea do fornecedor e do consumidor, possa ser utilizado tendo em vista a celebração do contrato entre as referidas partes. Do anexo I consta uma lista indicativa das técnicas objecto da presente directiva.\n\n5. Operador de técnica de comunicação, qualquer pessoa singular ou colectiva, pública ou privada, cuja actividade profissional consista em pôr à disposição dos fornecedores uma ou mais técnicas de comunicação à distância."
+  },
+  "00c93e8c51cca0de": {
+   "fragment_id": "Artigo 3º — Exclusões",
+   "type": "artigo",
+   "heading": "Artigo 3º — Exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º — Exclusões\n\n1. A presente directiva não se aplica a contratos:\n\n- relativos a serviços financeiros, cuja lista não exaustiva consta do anexo II,\n\n- celebrados através de distribuidores automáticos ou de estabelecimentos comerciais automatizados,\n\n- celebrados com operadores de telecomunicações pela utilização de cabinas telefónicas públicas,\n\n- celebrados para a construção e venda de bens imóveis ou relativos a outros direitos respeitantes a bens imóveis, excepto o arrendamento,\n\n- celebrados em leilões.\n\n2. Os artigos 4º, 5º, 6º e o nº 1 do artigo 7º não se aplicam a contratos:\n\n- de fornecimento de géneros alimentícios, bebidas ou outros bens de consumo doméstico corrente, fornecidos ao domicílio ao consumidor, na sua residência ou no seu local de trabalho por distribuidores que efectuem circuitos frequentes e regulares,\n\n- de prestação de serviços do alojamento, transporte, restauração ou tempos livres, sempre que, na celebração do contrato, o fornecedor se comprometa a prestar esses serviços numa data determinada ou num período especificado; excepcionalmente, no caso de actividades exteriores de tempo livre, o fornecedor pode reservar-se o direito de não aplicar o nº 2 do artigo 7º em circunstâncias específicas."
+  },
+  "10e080d063dd2276": {
+   "fragment_id": "Artigo 4º — Informações prévias",
+   "type": "artigo",
+   "heading": "Artigo 4º — Informações prévias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — Informações prévias\n\n1. Em tempo útil e antes da celebração de qualquer contrato à distância, o consumidor deve dispor das seguintes informações:\n\na) Identidade do fornecedor e, no caso de contratos que exijam pagamento adiantado, respectivo endereço;\n\nb) Características essenciais do bem ou do serviço;\n\nc) Preço do bem ou do serviço, incluindo impostos;\n\nd) Despesas de entrega, se existirem;\n\ne) Modalidades de pagamento, entrega ou execução;\n\nf) Existência do direito de rescisão, excepto nos casos referidos no nº 3 do artigo 6º;\n\ng) Custo da utilização da técnica de comunicação à distância, quando calculado com base numa tarifa que não seja a de base;\n\nh) Prazo de validade da oferta ou do preço;\n\ni) Sempre que necessário, a duração mínima do contrato em caso de contratos de fornecimento de produtos ou prestação de serviços de execução continuada ou periódica.\n\n2. As informações referidas no nº 1, cujo objectivo comercial deve ser inequivocamente explicitado, devem ser fornecidas de maneira clara e compreensível por qualquer meio adaptado à técnica de comunicação à distância utilizada, respeitando, designadamente, os princípios da lealdade em matéria de transacções comerciais e os princípios da protecção de pessoas com incapacidade jurídica em virtude da legislação dos Estados-membros, como os menores.\n\n3. Além disso, no caso das comunicações telefónicas, a identidade do fornecedor e o objectivo comercial da chamada devem ser explicitamente definidos no início de qualquer contacto com o consumidor."
+  },
+  "a0a27074132730e3": {
+   "fragment_id": "Artigo 5º — Confirmação por escrito das informações",
+   "type": "artigo",
+   "heading": "Artigo 5º — Confirmação por escrito das informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Confirmação por escrito das informações\n\n1. Em tempo útil na execução do contrato e o mais tardar, no que diz respeito a bens que não tenham que ser entregues a terceiros, no momento da entrega, o consumidor deve receber confirmação por escrito, ou através de outro suporte durável à sua disposição, das informações a que se refere o nº 1, alíneas a) a f), do artigo 4º, a menos que essas informações já tenham sido fornecidas ao consumidor antes da celebração do contrato, por escrito ou através de outro suporte durável à sua disposição e facilmente utilizável.\n\nDevem ser sempre fornecidos:\n\n- uma informação por escrito sobre as condições e modalidades de exercício do direito de rescisão, na acepção do artigo 6º, incluindo nos casos referidos no nº 3, primeiro travessão, do artigo 6º,\n\n- o endereço geográfico do estabelecimento do fornecedor no qual o consumidor pode apresentar as suas reclamações,\n\n- as informações relativas aos serviços pós-venda e às garantias comerciais existentes,\n\n- as condições de resolução do contrato quando este tiver duração indeterminada ou superior a um ano.\n\n2. O nº 1 não se aplica aos serviços cuja execução seja efectuada através de uma técnica de comunicação à distância, quando tais serviços forem prestados de uma só vez, e facturados pelo operador de técnica de comunicação. Todavia, o consumidor deve em todo o caso poder tomar conhecimento do endereço geográfico do estabelecimento do fornecedor no qual pode apresentar as suas reclamações."
+  },
+  "a82b8d9e69dcf0d2": {
+   "fragment_id": "Artigo 6º — Direito de rescisão",
+   "type": "artigo",
+   "heading": "Artigo 6º — Direito de rescisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º — Direito de rescisão\n\n1. Em qualquer contrato à distância, o consumidor disporá de um prazo de, pelo menos, sete dias úteis para rescindir o contrato sem pagamento de indemnização e sem indicação do motivo. As únicas despesas eventualmente a seu cargo decorrentes do exercício do seu direito de rescisão serão as despesas directas da devolução do bem.\n\nPara o exercício deste direito, o prazo é contado:\n\n- em relação a bens, a partir do dia da sua recepção pelo consumidor sempre que tenham sido cumpridas as obrigações referidas no artigo 5º,\n\n- em relação a serviços, a partir do dia da celebração do contrato ou a partir do dia em que tenham sido cumpridas as obrigações referidas no artigo 5º, se tal suceder após a celebração do contrato, desde que o prazo não exceda o prazo de três meses indicado no parágrafo seguinte.\n\nSe o fornecedor não tiver cumprido as obrigações referidas no artigo 5º, o prazo é de três meses. O prazo é contado:\n\n- em relação a bens, a partir do dia da sua recepção pelo consumidor,\n\n- em relação a serviços, a partir do dia da celebração do contrato.\n\nSe as informações referidas no artigo 5º forem fornecidas dentro do prazo de três meses, o consumidor dispõe, a partir desse momento, do prazo de sete dias úteis indicado no primeiro parágrafo.\n\n2. Quando o direito de rescisão tiver sido exercido pelo consumidor, nos termos do presente artigo, o fornecedor fica obrigado a reembolsar os montantes pagos pelo consumidor sem despesas para este. As únicas despesas eventualmente a cargo do consumidor decorrentes do exercício do seu direito de rescisão serão as despesas directas da devolução do bem. O reembolso deverá ser efectuado o mais rapidamente possível, e sempre no prazo de trinta dias.\n\n3. Salvo acordo em contrário entre as partes, o consumidor não pode exercer o direito de rescisão previsto no nº 1 nos contratos:\n\n- de prestação de serviços cuja execução tenha tido início, com o acordo do consumidor, antes do termo do prazo de sete dias úteis previsto no nº 1,\n\n- de fornecimento de bens ou de prestação de serviços cujo preço dependa de flutuações de taxas do mercado financeiro que o fornecedor não possa controlar,\n\n- de fornecimento de bens confeccionados de acordo com especificações do consumidor ou manifestamente personalizados ou que, pela sua natureza, não possam ser reenviados ou sejam susceptíveis de se deteriorarem ou perecerem rapidamente,\n\n- de fornecimento de gravações audio e vídeo, de discos e de programas informáticos a que o consumidor tenha retirado o selo,\n\n- de fornecimento de jornais e revistas,\n\n- de serviços de apostas e lotarias.\n\n4. Os Estados-membros devem prever na respectiva legislação que:\n\n- se o preço do bem ou do serviço total ou parcialmente coberto por um crédito concedido pelo fornecedor, ou\n\n- se esse preço for total ou parcialmente coberto por um crédito concedido ao consumidor por um terceiro, com base num acordo celebrado entre o terceiro e o fornecedor,\n\no contrato de crédito é resolvido, sem direito a indemnização, se o consumidor exercer o seu direito de rescisão em conformidade com o nº 1.\n\nAs modalidades de resolução do contrato de crédito são estabelecidas pelos Estados-membros."
+  },
+  "f9f2cb1f72d749fa": {
+   "fragment_id": "Artigo 7º — Execução",
+   "type": "artigo",
+   "heading": "Artigo 7º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — Execução\n\n1. Salvo acordo em contrário entre as partes, o fornecedor deve executar a encomenda o mais tardar no prazo de trinta dias a contar do dia seguinte àquele em que o consumidor transmitiu a sua encomenda ao fornecedor.\n\n2. Em caso de incumprimento do contrato por um fornecedor devido a indisponibilidade do bem ou serviço encomendado, o consumidor deve ser informado do facto e deve poder ser reembolsado dos montantes que tenha eventualmente pago, o mais rapidamente possível, e sempre no prazo de trinta dias.\n\n3. Todavia, os Estados-membros podem prever que o fornecedor possa fornecer ou prestar ao consumidor um bem ou serviço de qualidade e preço equivalentes, desde que essa possibilidade tenha sido prevista antes da celebração do contrato ou no próprio contrato. O consumidor será informado desta possibilidade de uma forma clara e compreensível. As despesas de devolução que resultarem do exercício do direito de rescisão ficam, neste caso, a cargo do fornecedor, devendo o consumidor ser informado do facto. Nestes casos, o fornecimento de um bem ou a prestação de um serviço não podem ser equiparados a um fornecimento ou prestação não solicitados na acepção do artigo 9º"
+  },
+  "cc3fa7df1fc94963": {
+   "fragment_id": "Artigo 8º — Pagamento por cartão",
+   "type": "artigo",
+   "heading": "Artigo 8º — Pagamento por cartão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º — Pagamento por cartão\n\nOs Estados-membros devem zelar pela existência de medidas adequadas para que o consumidor:\n\n- possa pedir a anulação de um pagamento no caso de utilização fraudulenta do seu cartão de pagamento em contratos à distância abrangidos pela presente directiva,\n\n- em caso de utilização fraudulenta, seja de novo creditado dos montantes debitados para pagamento ou os montantes lhe sejam restituídos."
+  },
+  "8a209648e3883c66": {
+   "fragment_id": "Artigo 9º — Fornecimento ou prestação não solicitados",
+   "type": "artigo",
+   "heading": "Artigo 9º — Fornecimento ou prestação não solicitados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º — Fornecimento ou prestação não solicitados\n\nOs Estados-membros devem tomar as medidas necessárias para:\n\n- proibir o fornecimento de bens ou a prestação de serviços ao consumidor sem que este os tenha previamente encomendado, sempre que esse fornecimento ou prestação incluírem um pedido de pagamento,\n\n- dispensar o consumidor de qualquer contraprestação em caso de fornecimento ou prestação não encomendados, a ausência de resposta não valendo consentimento."
+  },
+  "1ba76f5324baab4f": {
+   "fragment_id": "Artigo 10º — Restrições à utilização de determinadas técnicas de comunicação à distância",
+   "type": "artigo",
+   "heading": "Artigo 10º — Restrições à utilização de determinadas técnicas de comunicação à distância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º — Restrições à utilização de determinadas técnicas de comunicação à distância\n\n1. A utilização por um fornecedor das seguintes técnicas exige o consentimento prévio do consumidor:\n\n- sistema automatizado de chamada sem intervenção humana (aparelho de chamada automática),\n\n- telefax (telecópia).\n\n2. Os Estados-membros devem zelar por que as técnicas de comunicação à distância diferentes das referidas no nº 1, que permitam uma comunicação individual, só possam ser utilizadas quando não haja oposição manifesta do consumidor."
+  },
+  "058762d2c5cc6304": {
+   "fragment_id": "Artigo 11º — Processo judicial ou administrativo",
+   "type": "artigo",
+   "heading": "Artigo 11º — Processo judicial ou administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º — Processo judicial ou administrativo\n\n1. Os Estados-membros devem zelar pela existência de meios adequados e eficazes para que seja respeitado o disposto na presente directiva no interesse dos consumidores.\n\n2. Os meios referidos no nº 1 incluirão disposições que permitam a um ou mais dos seguintes organismos determinados pela legislação nacional moverem procedimentos nos termos dessa mesma legislação nos tribunais ou nos organismos administrativos competentes para garantir a aplicação das disposições nacionais de execução da presente directiva:\n\na) Organismos públicos ou seus representantes;\n\nb) Organizações de consumidores com interesse legítimo na protecção dos consumidores;\n\nc) Organizações profissionais com interesse legítimo na acção.\n\n3. a) Os Estados-membros podem estabelecer que o ónus da prova da existência de uma informação prévia, de uma confirmação por escrito ou do cumprimento dos prazos e do consentimento do consumidor, pode pertencer ao fornecedor;\n\nb) Os Estados-membros devem tomar as medidas necessárias para que os fornecedores e os operadores de técnicas de comunicação, sempre que o possam fazer, cessem as práticas não conformes com as disposições tomadas em aplicação da presente directiva.\n\n4. Os Estados-membros podem prever que o controlo voluntário do cumprimento do disposto na presente directiva confiado a organismos autónomos e o recurso a tais organismos para a resolução de litígios coexistem com os meios que os Estados-membros devem prever para assegurar o cumprimento do disposto na presente directiva."
+  },
+  "7dd5c7c9effe1418": {
+   "fragment_id": "Artigo 12º — Carácter imperativo das disposições",
+   "type": "artigo",
+   "heading": "Artigo 12º — Carácter imperativo das disposições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º — Carácter imperativo das disposições\n\n1. O consumidor não pode renunciar aos direitos que lhe são conferidos por força da transposição da presente directiva para o direito nacional.\n\n2. Os Estados-membros devem tomar as medidas necessárias para que o consumidor não seja privado da protecção conferida pela presente directiva pelo facto de ter sido escolhido o direito de um país terceiro como direito aplicável ao contrato, desde que o contrato apresente uma relação estreita com o território de um ou mais Estados-membros."
+  },
+  "4d6f5179822054f8": {
+   "fragment_id": "Artigo 13º — Normas comunitárias",
+   "type": "artigo",
+   "heading": "Artigo 13º — Normas comunitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º — Normas comunitárias\n\n1. O disposto na presente directiva aplica-se desde que, no âmbito da regulamentação comunitária, não existam disposições específicas que regulem certos tipos de contratos à distância na sua globalidade.\n\n2. Quando uma regulamentação comunitária específica incluir disposições que regulem apenas determinados aspectos do fornecimento de bens ou prestação de serviços, essas disposições aplicar-se-ão a esses aspectos específicos do contrato à distância, em vez das disposições da presente directiva."
+  },
+  "570ee42f2a00a4bd": {
+   "fragment_id": "Artigo 14º — Cláusula mínima",
+   "type": "artigo",
+   "heading": "Artigo 14º — Cláusula mínima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º — Cláusula mínima\n\nOs Estados-membros podem adoptar ou manter, no domínio regido pela presente directiva, disposições mais rigorosas, compatíveis com o Tratado, para garantir um nível de protecção mais elevado para o consumidor. Essas disposições incluirão eventualmente a proibição, por razões de interesse geral, da comercialização no seu território por meio de contratos à distância, de determinados bens ou serviços, nomeadamente medicamentos, dentro do respeito pelo disposto no Tratado."
+  },
+  "8ecddfa6143b20a3": {
+   "fragment_id": "Artigo 15º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 15º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º — Aplicação\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar três anos a contar da data da sua entrada em vigor. Do facto informarão imediatamente a Comissão.\n\n2. Quando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n3. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno que adoptem no domínio regido pela presente directiva.\n\n4. O mais tardar quatro anos a contar da data de entrada em vigor da presente directiva, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação da presente directiva, acompanhado, se necessário, de uma proposta de revisão da presente directiva."
+  },
+  "8b20f6a1cf291467": {
+   "fragment_id": "Artigo 16º — Informação dos consumidores",
+   "type": "artigo",
+   "heading": "Artigo 16º — Informação dos consumidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º — Informação dos consumidores\n\nOs Estados-membros adoptarão as medidas necessárias para informar os consumidores da legislação interna de transposição da presente directiva e, sempre que adequado, incentivarão as organizações profissionais a informar os consumidores dos seus códigos de conduta."
+  },
+  "f7cb10334e8276bb": {
+   "fragment_id": "Artigo 17º — Sistemas de reclamações",
+   "type": "artigo",
+   "heading": "Artigo 17º — Sistemas de reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º — Sistemas de reclamações\n\nA Comissão analisará a possibilidade de se estabelecer um modo eficaz de tratamento das reclamações dos consumidores em matéria de venda à distância. No prazo de dois anos a contar da data de entrada em vigor da presente directiva, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre os resultados da sua análise eventualmente acompanhado de propostas adequadas."
+  },
+  "22aceec6ae90118d": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "bc2d324060009e32": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 20 de Maio de 1997.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nJ.M. GIL-ROBLES\n\nPelo Conselho\n\nO Presidente\n\nJ. VAN AARTSEN\n\n(1) JO nº C 156 de 23. 6. 1992, p. 14, e JO nº C 308 de 15. 11. 1993, p. 18.\n\n(2) JO nº C 19 de 25. 1. 1993, p. 111.\n\n(3) Parecer do Parlamento Europeu de 26 de Maio de 1993 (JO nº C 176 de 28. 6. 1993, p. 95), posição comum do Conselho de 29 de Junho de 1995 (JO nº C 288 de 30. 10. 1995, p. 1) e decisão do Parlamento Europeu de 13 de Dezembro de 1995 (JO nº C 17 de 22. 1. 1996, p. 51). Decisão do Parlamento Europeu de 16. 1. 1997 e Decisão do Conselho de 20. 1. 1997.\n\n(4) JO nº C 92 de 25. 4. 1975, p. 1.\n\n(5) JO nº C 167 de 5. 7. 1986, p. 1.\n\n(6) JO nº C 294 de 22. 11. 1989, p. 1.\n\n(7) JO nº L 250 de 19. 9. 1984, p. 17.\n\n(8) JO nº L 156 de 10. 6. 1992, p. 21.\n\n(9) JO nº L 298 de 17. 10. 1989, p. 23.\n\n(10) JO nº L 113 de 30. 4. 1992, p. 13."
+  },
+  "e57e75af9031178c": {
+   "fragment_id": "ANEXO I — Técnicas de comunicação referidas no ponto 4 do artigo 2º",
+   "type": "divisao",
+   "heading": "ANEXO I — Técnicas de comunicação referidas no ponto 4 do artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Técnicas de comunicação referidas no ponto 4 do artigo 2º\n\n- Impresso sem endereço\n\n- Impresso com endereço\n\n- Carta normalizada\n\n- Publicidade impressa com nota de encomenda\n\n- Catálogo\n\n- Telefone com intervenção humana\n\n- Telefone sem intervenção humana (aparelho de chamada automática, audiotexto)\n\n- Rádio\n\n- Videofone (telefone com imagem)\n\n- Videotexto (micro computador, ecrã de televisão) com teclado ou ecrã táctil\n\n- Correio electrónico\n\n- Telefax (telecópia)\n\n- Televisão (telecompra, televenda)."
+  },
+  "8d19595cbe3ba4a8": {
+   "fragment_id": "ANEXO II — Serviços financeiros referidos no nº 1 do artigo 3º",
+   "type": "divisao",
+   "heading": "ANEXO II — Serviços financeiros referidos no nº 1 do artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Serviços financeiros referidos no nº 1 do artigo 3º\n\n- Serviços de investimento\n\n- Operações de seguros e resseguros\n\n- Serviços bancários\n\n- Operações relativas a fundos de pensões\n\n- Serviços relativos a operações a prazo ou sobre opções\n\nEstes serviços compreendem em particular:\n\n- os serviços de investimento referidos no anexo da Directiva 93/22/CEE (1), os serviços de empresas de investimentos colectivos,\n\n- os serviços decorrentes das actividades que beneficiam do reconhecimento mútuo e referidos no anexo da Directiva 89/646/CEE (2),\n\n- as operações decorrentes das actividades de seguros e de resseguros referidas:\n\n- no artigo 1º da Directiva 73/239/CEE (3),\n\n- no anexo da Directiva 79/267/CEE (4),\n\n- na Directiva 64/225/CEE (5),\n\n- nas Directivas 92/49/CEE (6) e 92/96/CEE (7).\n\n(1) JO nº L 141 de 11. 6. 1993, p. 27.\n\n(2) JO nº L 386 de 30. 12. 1989, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 92/30/CEE (JO nº L 110 de 28. 4. 1992, p. 52).\n\n(3) JO nº L 228 de 16. 8. 1973, p. 3. Directiva com a última redacção que lhe foi dada pela Directiva 92/49/CEE (JO nº L 228 de 11. 8. 1992, p. 1).\n\n(4) JO nº L 63 de 13. 3. 1979, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 90/619/CEE (JO nº L 330 de 29. 11. 1990, p. 50).\n\n(5) JO nº 56 de 4. 4. 1964, p. 878/64. Directiva alterada pelo Acto de Adesão de 1973.\n\n(6) JO nº L 228 de 11. 8. 1992, p. 1.\n\n(7) JO nº L 360 de 9. 12. 1992, p. 1.\n\nDeclaração do Conselho e do Parlamento Europeu relativa ao nº 1 do artigo 6º\n\nO Conselho e o Parlamento registam que a Comissão estudará a possibilidade e a oportunidade de harmonizar o método de cálculo do prazo de reflexão no âmbito da legislação existente em matéria de protecção dos consumidores, designadamente a Directiva 85/577/CEE, de 20 de Dezembro de 1985, relativa à protecção dos consumidores no caso de contratos negociados fora dos estabelecimentos comerciais («vendas ao domicílio») (1).\n\n(1) JO nº L 372 de 31. 12. 1985, p. 31.\n\nDeclaração da Comissão relativa ao nº 1, primeiro travessão, do artigo 3º\n\nA Comissão reconhece a importância que reveste a protecção dos consumidores em matéria de contratos à distância relativos aos serviços financeiros, tendo mesmo publicado um Livro Verde intitulado «Serviços financeiros: responder às expectativas dos consumidores». À luz das reacções que suscitará o Livro Verde, a Comissão estudará as modalidades de integração da protecção dos consumidores na política relativa aos serviços financeiros e das eventuais incidências legislativas e, se for caso disso, apresentará propostas adequadas."
+  },
+  "b8da4b5ac1691d2c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Maio de 1997\n\nrelativa à protecção dos consumidores em matéria de contratos à distância\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 100.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#E0002)),\n\nDeliberando nos termos do procedimento previsto no artigo 189.ºB do Tratado ([^3^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#E0003)), em função do projecto comum aprovado pelo Comité de conciliação em 27 de Novembro de 1996,\n\n(1) Considerando que, no contexto da realização dos objectivos do mercado interno, importa aprovar medidas destinadas a consolidar progressivamente esse mercado;\n\n(2) Considerando que a livre circulação de bens e serviços diz respeito não só aos profissionais do comércio, mas também aos particulares; que implica, para os consumidores, a possibilidade de acederem aos bens e serviços de um outro Estado-membro nas mesmas condições que a população desse Estado;\n\n(3) Considerando que as vendas transfronteiras à distância podem constituir, para os consumidores, uma das principais manifestações concretas da realização do mercado interno, conforme observado, nomeadamente, na comunicação da Comissão ao Conselho intitulada «Para um Mercado Único da Distribuição»; que é indispensável ao bom funcionamento do mercado interno que os consumidores se possam dirigir a uma empresa fora do seu país, ainda que esta tenha uma filial no país de residência do consumidor;\n\n(4) Considerando que a introdução de novas tecnologias implica a multiplicação dos meios postos à disposição dos consumidores para conhecerem as ofertas apresentadas em toda a Comunidade e fazerem as suas encomendas; que alguns Estados-membros já tomaram disposições diferentes ou divergentes de protecção dos consumidores em matéria de vendas à distância, com incidências negativas na concorrência entre as empresas que operam no mercado interno; que, por conseguinte, é necessário adoptar um mínimo de regras comuns a nível comunitário neste domínio;\n\n(5) Considerando que nos pontos 18 e 19 do anexo da Resolução do Conselho de 14 de Abril de 1975, relativa a um programa preliminar da Comunidade Económica Europeia para uma política de protecção e informação dos consumidores ([^4^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#E0004)), se salienta a premência de proteger os compradores de bens ou serviços contra o pedido de pagamento de mercadorias não encomendadas e métodos de venda agressivos;\n\n(6) Considerando que a comunicação da Comissão ao Conselho intitulada «Novo Impulso para a Política de Defesa do Consumidor», aprovada pela Resolução do Conselho de23 de Junho de 1986 ([^5^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#E0005)), anunciava, no ponto 33, que a Comissão apresentaria propostas em matéria de utilização de novas tecnologias da informação que permitem aos consumidores fazerem encomendas a fornecedores, a partir do seu domicílio;\n\n(7) Considerando que na Resolução do Conselho de 9 de Novembro de 1989, sobre as futuras prioridades para o relançamento da política de defesa dos consumidores ([^6^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#E0006)), se convida a Comissão a realizar um esforço prioritário nos domínios referidos no anexo da citada resolução; que este anexo menciona as novas tecnologias de venda à distância; que a Comissão deu seguimento a esta resolução aprovando um «plano de acção trienal relativo à política de defesa do consumidor na Comunidade Económica Europeia (1990-1992)» e que este plano prevê a adopção de uma directiva nesta matéria;\n\n(8) Considerando que a utilização das línguas em matéria de contratos à distância é da competência dos Estados-membros;\n\n(9) Considerando que o contrato à distância se caracteriza pela utilização de uma ou mais técnicas de comunicação à distância; que estas diferentes técnicas são utilizadas no quadro de um sistema organizado de venda ou prestação de serviços à distância, sem a presença simultânea do fornecedor e do consumidor; que a evolução permanente destas técnicas não permite elaborar uma lista exaustiva, antes obriga a definir princípios válidos, inclusivamente em relação àquelas que, por enquanto, são de escassa utilização;\n\n(10) Considerando que uma mesma transacção que comporta sucessivas operações ou uma série de operações ou uma série de operações separadas durante um período de tempo pode ter diferentes denominações jurídicas, consoante o direito dos Estados-membros; que o disposto na presente directiva não se pode aplicar de modo diferente, consoante a legislação dos Estados-membros, sem prejuízo de recorrerem ao artigo 14.º; que, por isso, há razões para considerar que se deve observar o disposto na presente directiva pelo menos na altura da primeira de uma série de operações sucessivas ou da primeira de uma série de operações separadas, realizadas num período de tempo que possa ser considerado um todo, quer essa operação ou série de operações sejam objecto de um único contrato, de contratos sucessivos ou de contratos separados;\n\n(11) Considerando que a utilização de técnicas de comunicação à distância não deve conduzir a uma diminuição da informação prestada ao consumidor; que convém, pois, determinar as informações a transmitir obrigatoriamente ao consumidor, seja qual for a técnica de comunicação utilizada; que esta informação deve ainda ser transmitida em conformidade com as restantes normas comunitárias pertinentes, em especial com a Directiva 84/450/CEE do Conselho, de 10 de Setembro de 1984, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros em matéria de publicidade enganosa ([^7^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#E0007)); que, verificando-se excepções à obrigação de prestar informações, cabe ao consumidor, numa base discricionária, pedir determinadas informações básicas como a identidade do fornecedor, as características principais dos bens e dos serviços e o respectivo preço;\n\n(12) Considerando que, no caso de comunicação por telefone, é conveniente que o consumidor receba informações suficientes no início da chamada para decidir continuar ou não;\n\n(13) Considerando que a informação divulgada por algumas tecnologias electrónicas tem frequentemente carácter efémero, na medida em que não é recebida em suporte durável; que é, deste modo, necessário que o consumidor receba por escrito, em tempo útil, as informações necessárias para a correcta execução do contrato;\n\n(14) Considerando que o consumidor não tem, em concreto, possibilidade de ver o produto ou de tomar conhecimento das características do serviço antes da celebração do contrato; que importa prever, salvo disposição em contrário da presente directiva, um direito de rescisão; que é necessário limitar quaisquer custos suportados pelo consumidor para o exercício do direito de rescisão aos custos directos de devolução do bem, dado que, caso contrário, este seria um direito meramente formal; que este direito de rescisão não prejudica os direitos do consumidor previstos na legislação nacional, nomeadamente em matéria de recepção de produtos e serviços deteriorados ou de produtos e serviços que não correspondem à descrição desses produtos ou serviços; que compete aos Estados-membros determinarem as outras condições e modalidades que resultem do exercício do direito de rescisão;\n\n(15) Considerando que é igualmente necessário prever um prazo para a execução do contrato, se este não tiver sido definido no momento da encomenda;\n\n(16) Considerando que não pode ser admitida a técnica promocional que consiste em enviar um produto ou prestar um serviço, a título oneroso, ao consumidor, sem encomenda prévia ou acordo explícito deste último, desde que não se trate de um fornecimento ou prestação a título de substituição;\n\n(17) Considerando os princípios consignados nos artigos 8.º e 10.º da Convenção Europeia de Protecção dos Direitos do Homem e das Liberdades Fundamentais, de 4 de Novembro de 1950; que é necessário reconhecer ao consumidor o direito à protecção da vida privada, nomeadamente no que diz respeito à tranquilidade face a certas técnicas de comunicação particularmente invasivas; que é necessário, por conseguinte, estabelecer restrições específicas à utilização dessas técnicas; que os Estados-membros devem tomar as medidas apropriadas para proteger eficazmente os consumidores que não desejem ser contactados através de determinados meios de comunicação, sem prejuízo das cláusulas de salvaguarda especiais do consumidor previstas na legislação comunitária relativa à protecção dos dados pessoais e da privacidade;\n\n(18) Considerando que é importante que as regras de base vinculativas constantes da presente directiva sejam completadas, sempre que se justifique, por disposições voluntárias acordadas entre os profissionais envolvidos, segundo a Recomendação 92/295/CEE da Comissão, de 7 de Abril de 1992, relativa a códigos de conduta para protecção dos consumidores em matéria de contratos negociados à distância ([^8^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#E0008));\n\n(19) Considerando que, para assegurar uma protecção óptima do consumidor, é importante que este seja devidamente informado das disposições da presente directiva e dos eventuais códigos de conduta existentes neste domínio;\n\n(20) Considerando que a inobservância do disposto na presente directiva pode prejudicar tanto os consumidores como os concorrentes; que é, portanto, possível prever disposições que permitam a organismos públicos ou aos seus representantes, a organizações de consumidores que, nos termos da legislação nacional, têm interesse legítimo na defesa dos consumidores ou a organizações profissionais que têm interesse legítimo para agir, zelarem pela aplicação das disposições da presente directiva;\n\n(21) Considerando que, para assegurar a protecção do consumidor, é importante resolver, logo que possível, a questão das reclamações transfronteiras; que, em 14 de Fevereiro de 1996, a Comissão publicou um plano de acção relativo ao acesso dos consumidores à justiça e à resolução dos litígios de consumo no mercado interno; que esse plano de acção prevê iniciativas específicas destinadas a promover os procedimentos extrajudiciais, que são estabelecidos critérios objectivos (anexo II) para garantir a fiabilidade desses procedimentos e se prevê a utilização de formulários-tipo de reclamação (anexo III);\n\n(22) Considerando que, na utilização das novas tecnologias, o consumidor não tem o controlo da técnica; que é, portanto, necessário prever a possibilidade de o ónus da prova caber ao fornecedor;\n\n(23) Considerando que, em certos casos, existe o risco de se privar o consumidor da protecção concedida pela presente directiva ao designar-se o direito de um país terceiro como direito aplicável ao contrato; que, consequentemente, importa prever na presente directiva disposições destinadas a evitar esse risco;\n\n(24) Considerando que, por razões de interesse geral, um Estado-membro pode proibir a comercialização no seu território de determinados produtos e serviços através de contratos à distância; que essa proibição deve respeitar as normas comunitárias; que tais proibições já estão previstas, nomeadamente no tocante a medicamentos, nas Directivas 89/552/CEE do Conselho, de 3 de Outubro de 1989, relativa à coordenação de certas disposições legislativas, regulamentares e administrativas dos Estados-membros relativas ao exercício de actividades de radiodifusão televisiva ([^9^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#E0009)), e 92/28/CEE do Conselho, de 31 de Março de 1992, relativa à publicidade dos medicamentos para uso humano ([^10^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#E0010)),\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "1d93e867d82a3d75": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente directiva tem por objecto a aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros relativas aos contratos à distância entre consumidores e fornecedores."
+  },
+  "6c15c7e6767c84cc": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. *Contrato à distância,* qualquer contrato relativo a bens ou serviços, celebrado entre um fornecedor e um consumidor, que se integre num sistema de venda ou prestação de serviços à distância organizado pelo fornecedor, que, para esse contrato, utilize exclusivamente uma ou mais técnicas de comunicação à distância até à celebração do contrato, incluindo a própria celebração.\n\n2. *Consumidor,* qualquer pessoa singular que, nos contratos abrangidos pela presente directiva, actue com fins que não pertençam ao âmbito da sua actividade profissional.\n\n3. *Fornecedor,* qualquer pessoa singular ou colectiva que, nos contratos abrangidos pela presente directiva, actue no âmbito da sua actividade profissional.\n\n4. *Técnica de comunicação à distância,* qualquer meio que, sem a presença física e simultânea do fornecedor e do consumidor, possa ser utilizado tendo em vista a celebração do contrato entre as referidas partes. Do anexo I consta uma lista indicativa das técnicas objecto da presente directiva.\n\n5. *Operador de técnica de comunicação,* qualquer pessoa singular ou colectiva, pública ou privada, cuja actividade profissional consista em pôr à disposição dos fornecedores uma ou mais técnicas de comunicação à distância."
+  },
+  "daf3e08b421e72a7": {
+   "fragment_id": "Artigo 3.º — Exclusões",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Exclusões\n\n1. A presente directiva não se aplica a contratos:\n\n— relacionado com qualquer serviço financeiro abrangido pela Directiva 2002/65/CE do Parlamento Europeu e do Conselho, de 23 de Setembro de 2002, relativa à comercialização à distância de serviços financeiros prestados a consumidores, e que altera as Directivas 90/619/CEE do Conselho, 97/7/CE e 98/27/CE ([^11^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#E0011)),\n\n— celebrados através de distribuidores automáticos ou de estabelecimentos comerciais automatizados,\n\n— celebrados com operadores de telecomunicações pela utilização de cabinas telefónicas públicas,\n\n— celebrados para a construção e venda de bens imóveis ou relativos a outros direitos respeitantes a bens imóveis, excepto o arrendamento,\n\n— celebrados em leilões.\n\n2. Os artigos 4.º, 5.º, 6.º e o n.º 1 do artigo 7.º não se aplicam a contratos:\n\n— de fornecimento de géneros alimentícios, bebidas ou outros bens de consumo doméstico corrente, fornecidos ao domicílio ao consumidor, na sua residência ou no seu local de trabalho por distribuidores que efectuem circuitos frequentes e regulares,\n\n— de prestação de serviços do alojamento, transporte, restauração ou tempos livres, sempre que, na celebração do contrato, o fornecedor se comprometa a prestar esses serviços numa data determinada ou num período especificado; excepcionalmente, no caso de actividades exteriores de tempo livre, o fornecedor pode reservar-se o direito de não aplicar o n.º 2 do artigo 7.º em circunstâncias específicas."
+  },
+  "6783544a31eb5a73": {
+   "fragment_id": "Artigo 4.º — Informações prévias",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Informações prévias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Informações prévias\n\n1. Em tempo útil e antes da celebração de qualquer contrato à distância, o consumidor deve dispor das seguintes informações:\n\na) Identidade do fornecedor e, no caso de contratos que exijam pagamento adiantado, respectivo endereço;\n\nb) Características essenciais do bem ou do serviço;\n\nc) Preço do bem ou do serviço, incluindo impostos;\n\nd) Despesas de entrega, se existirem;\n\ne) Modalidades de pagamento, entrega ou execução;\n\nf) Existência do direito de rescisão, excepto nos casos referidos no n.º 3 do artigo 6.º;\n\ng) Custo da utilização da técnica de comunicação à distância, quando calculado com base numa tarifa que não seja a de base;\n\nh) Prazo de validade da oferta ou do preço;\n\ni) Sempre que necessário, a duração mínima do contrato em caso de contratos de fornecimento de produtos ou prestação de serviços de execução continuada ou periódica.\n\n2. As informações referidas no n.º 1, cujo objectivo comercial deve ser inequivocamente explicitado, devem ser fornecidas de maneira clara e compreensível por qualquer meio adaptado à técnica de comunicação à distância utilizada, respeitando, designadamente, os princípios da lealdade em matéria de transacções comerciais e os princípios da protecção de pessoas com incapacidade jurídica em virtude da legislação dos Estados-membros, como os menores.\n\n3. Além disso, no caso das comunicações telefónicas, a identidade do fornecedor e o objectivo comercial da chamada devem ser explicitamente definidos no início de qualquer contacto com o consumidor."
+  },
+  "de1706e528ebc76d": {
+   "fragment_id": "Artigo 5.º — Confirmação por escrito das informações",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Confirmação por escrito das informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Confirmação por escrito das informações\n\n1. Em tempo útil na execução do contrato e o mais tardar, no que diz respeito a bens que não tenham que ser entregues a terceiros, no momento da entrega, o consumidor deve receber confirmação por escrito, ou através de outro suporte durável à sua disposição, das informações a que se refere o n.º 1, alíneas a) a f), do artigo 4.º, a menos que essas informações já tenham sido fornecidas ao consumidor antes da celebração do contrato, por escrito ou através de outro suporte durável à sua disposição e facilmente utilizável.\n\nDevem ser sempre fornecidos:\n\n— uma informação por escrito sobre as condições e modalidades de exercício do direito de rescisão, na acepção do artigo 6.º, incluindo nos casos referidos no n.º 3, primeiro travessão, do artigo 6.º,\n\n— o endereço geográfico do estabelecimento do fornecedor no qual o consumidor pode apresentar as suas reclamações,\n\n— as informações relativas aos serviços pós-venda e às garantias comerciais existentes,\n\n— as condições de resolução do contrato quando este tiver duração indeterminada ou superior a um ano.\n\n2. O n.º 1 não se aplica aos serviços cuja execução seja efectuada através de uma técnica de comunicação à distância, quando tais serviços forem prestados de uma só vez, e facturados pelo operador de técnica de comunicação. Todavia, o consumidor deve em todo o caso poder tomar conhecimento do endereço geográfico do estabelecimento do fornecedor no qual pode apresentar as suas reclamações."
+  },
+  "86b12c6161f9db60": {
+   "fragment_id": "Artigo 6.º — Direito de rescisão",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Direito de rescisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direito de rescisão\n\n1. Em qualquer contrato à distância, o consumidor disporá de um prazo de, pelo menos, sete dias úteis para rescindir o contrato sem pagamento de indemnização e sem indicação do motivo. As únicas despesas eventualmente a seu cargo decorrentes do exercício do seu direito de rescisão serão as despesas directas da devolução do bem.\n\nPara o exercício deste direito, o prazo é contado:\n\n— em relação a bens, a partir do dia da sua recepção pelo consumidor sempre que tenham sido cumpridas as obrigações referidas no artigo 5.º,\n\n— em relação a serviços, a partir do dia da celebração do contrato ou a partir do dia em que tenham sido cumpridas as obrigações referidas no artigo 5.º, se tal suceder após a celebração do contrato, desde que o prazo não exceda o prazo de três meses indicado no parágrafo seguinte.\n\nSe o fornecedor não tiver cumprido as obrigações referidas no artigo 5.º, o prazo é de três meses. O prazo é contado:\n\n— em relação a bens, a partir do dia da sua recepção pelo consumidor,\n\n— em relação a serviços, a partir do dia da celebração do contrato.\n\nSe as informações referidas no artigo 5.º forem fornecidas dentro do prazo de três meses, o consumidor dispõe, a partir desse momento, do prazo de sete dias úteis indicado no primeiro parágrafo.\n\n2. Quando o direito de rescisão tiver sido exercido pelo consumidor, nos termos do presente artigo, o fornecedor fica obrigado a reembolsar os montantes pagos pelo consumidor sem despesas para este. As únicas despesas eventualmente a cargo do consumidor decorrentes do exercício do seu direito de rescisão serão as despesas directas da devolução do bem. O reembolso deverá ser efectuado o mais rapidamente possível, e sempre no prazo de trinta dias.\n\n3. Salvo acordo em contrário entre as partes, o consumidor não pode exercer o direito de rescisão previsto no n.º 1 nos contratos:\n\n— de prestação de serviços cuja execução tenha tido início, com o acordo do consumidor, antes do termo do prazo de sete dias úteis previsto no n.º 1,\n\n— de fornecimento de bens ou de prestação de serviços cujo preço dependa de flutuações de taxas do mercado financeiro que o fornecedor não possa controlar,\n\n— de fornecimento de bens confeccionados de acordo com especificações do consumidor ou manifestamente personalizados ou que, pela sua natureza, não possam ser reenviados ou sejam susceptíveis de se deteriorarem ou perecerem rapidamente,\n\n— de fornecimento de gravações audio e vídeo, de discos e de programas informáticos a que o consumidor tenha retirado o selo,\n\n— de fornecimento de jornais e revistas,\n\n— de serviços de apostas e lotarias.\n\n4. Os Estados-membros devem prever na respectiva legislação que:\n\n— se o preço do bem ou do serviço total ou parcialmente coberto por um crédito concedido pelo fornecedor, ou\n\n— se esse preço for total ou parcialmente coberto por um crédito concedido ao consumidor por um terceiro, com base num acordo celebrado entre o terceiro e o fornecedor,\n\no contrato de crédito é resolvido, sem direito a indemnização, se o consumidor exercer o seu direito de rescisão em conformidade com o n.º 1.\n\nAs modalidades de resolução do contrato de crédito são estabelecidas pelos Estados-membros."
+  },
+  "7bcfc646ec915e74": {
+   "fragment_id": "Artigo 7.º — Execução",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Execução\n\n1. Salvo acordo em contrário entre as partes, o fornecedor deve executar a encomenda o mais tardar no prazo de trinta dias a contar do dia seguinte àquele em que o consumidor transmitiu a sua encomenda ao fornecedor.\n\n2. Em caso de incumprimento do contrato por um fornecedor devido a indisponibilidade do bem ou serviço encomendado, o consumidor deve ser informado do facto e deve poder ser reembolsado dos montantes que tenha eventualmente pago, o mais rapidamente possível, e sempre no prazo de trinta dias.\n\n3. Todavia, os Estados-membros podem prever que o fornecedor possa fornecer ou prestar ao consumidor um bem ou serviço de qualidade e preço equivalentes, desde que essa possibilidade tenha sido prevista antes da celebração do contrato ou no próprio contrato. O consumidor será informado desta possibilidade de uma forma clara e compreensível. As despesas de devolução que resultarem do exercício do direito de rescisão ficam, neste caso, a cargo do fornecedor, devendo o consumidor ser informado do facto. Nestes casos, o fornecimento de um bem ou a prestação de um serviço não podem ser equiparados a um fornecimento ou prestação não solicitados na acepção do artigo 9.º"
+  },
+  "2a8c0ca53ee0b5c4": {
+   "fragment_id": "Artigo 8.º — Pagamento por cartão",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Pagamento por cartão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pagamento por cartão\n\nOs Estados-membros devem zelar pela existência de medidas adequadas para que o consumidor:\n\n— possa pedir a anulação de um pagamento no caso de utilização fraudulenta do seu cartão de pagamento em contratos à distância abrangidos pela presente directiva,\n\n— em caso de utilização fraudulenta, seja de novo creditado dos montantes debitados para pagamento ou os montantes lhe sejam restituídos."
+  },
+  "1361d0d9a7c3c5c7": {
+   "fragment_id": "Artigo 9.º — Fornecimento não solicitado",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Fornecimento não solicitado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Fornecimento não solicitado\n\nTendo em conta a proibição das práticas de fornecimento não solicitado estabelecida na Directiva 2005/29/CE do Parlamento Europeu e do Conselho, de 11 de Maio de 2005, relativa às práticas comerciais desleais das empresas face aos consumidores no mercado interno ([^12^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#E0019)), os Estados-Membros devem tomar as medidas necessárias para dispensar o consumidor de qualquer contraprestação em caso de fornecimento ou prestação não solicitados, não valendo como consentimento a ausência de resposta."
+  },
+  "c8c6f48d51e85a93": {
+   "fragment_id": "Artigo 10.º — Restrições à utilização de determinadas técnicas de comunicação à distância",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Restrições à utilização de determinadas técnicas de comunicação à distância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Restrições à utilização de determinadas técnicas de comunicação à distância\n\n1. A utilização por um fornecedor das seguintes técnicas exige o consentimento prévio do consumidor:\n\n— sistema automatizado de chamada sem intervenção humana (aparelho de chamada automática),\n\n— telefax (telecópia).\n\n2. Os Estados-membros devem zelar por que as técnicas de comunicação à distância diferentes das referidas no n.º 1, que permitam uma comunicação individual, só possam ser utilizadas quando não haja oposição manifesta do consumidor."
+  },
+  "a3d7958a3637857a": {
+   "fragment_id": "Artigo 11.º — Processo judicial ou administrativo",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Processo judicial ou administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Processo judicial ou administrativo\n\n1. Os Estados-membros devem zelar pela existência de meios adequados e eficazes para que seja respeitado o disposto na presente directiva no interesse dos consumidores.\n\n2. Os meios referidos no n.º 1 incluirão disposições que permitam a um ou mais dos seguintes organismos determinados pela legislação nacional moverem procedimentos nos termos dessa mesma legislação nos tribunais ou nos organismos administrativos competentes para garantir a aplicação das disposições nacionais de execução da presente directiva:\n\na) Organismos públicos ou seus representantes;\n\nb) Organizações de consumidores com interesse legítimo na protecção dos consumidores;\n\nc) Organizações profissionais com interesse legítimo na acção.\n\na) Os Estados-membros podem estabelecer que o ónus da prova da existência de uma informação prévia, de uma confirmação por escrito ou do cumprimento dos prazos e do consentimento do consumidor, pode pertencer ao fornecedor;\n\nb) Os Estados-membros devem tomar as medidas necessárias para que os fornecedores e os operadores de técnicas de comunicação, sempre que o possam fazer, cessem as práticas não conformes com as disposições tomadas em aplicação da presente directiva.\n\n4. Os Estados-membros podem prever que o controlo voluntário do cumprimento do disposto na presente directiva confiado a organismos autónomos e o recurso a tais organismos para a resolução de litígios coexistem com os meios que os Estados-membros devem prever para assegurar o cumprimento do disposto na presente directiva."
+  },
+  "c6edab3cf65d7167": {
+   "fragment_id": "Artigo 12.º — Carácter imperativo das disposições",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Carácter imperativo das disposições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Carácter imperativo das disposições\n\n1. O consumidor não pode renunciar aos direitos que lhe são conferidos por força da transposição da presente directiva para o direito nacional.\n\n2. Os Estados-membros devem tomar as medidas necessárias para que o consumidor não seja privado da protecção conferida pela presente directiva pelo facto de ter sido escolhido o direito de um país terceiro como direito aplicável ao contrato, desde que o contrato apresente uma relação estreita com o território de um ou mais Estados-membros."
+  },
+  "94e9e54640d0ab8d": {
+   "fragment_id": "Artigo 13.º — Normas comunitárias",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Normas comunitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Normas comunitárias\n\n1. O disposto na presente directiva aplica-se desde que, no âmbito da regulamentação comunitária, não existam disposições específicas que regulem certos tipos de contratos à distância na sua globalidade.\n\n2. Quando uma regulamentação comunitária específica incluir disposições que regulem apenas determinados aspectos do fornecimento de bens ou prestação de serviços, essas disposições aplicar-se-ão a esses aspectos específicos do contrato à distância, em vez das disposições da presente directiva."
+  },
+  "105576d1a0edb90c": {
+   "fragment_id": "Artigo 14.º — Cláusula mínima",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Cláusula mínima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Cláusula mínima\n\nOs Estados-membros podem adoptar ou manter, no domínio regido pela presente directiva, disposições mais rigorosas, compatíveis com o Tratado, para garantir um nível de protecção mais elevado para o consumidor. Essas disposições incluirão eventualmente a proibição, por razões de interesse geral, da comercialização no seu território por meio de contratos à distância, de determinados bens ou serviços, nomeadamente medicamentos, dentro do respeito pelo disposto no Tratado."
+  },
+  "723a9613e245fb1a": {
+   "fragment_id": "Artigo 15.º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aplicação\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar três anos a contar da data da sua entrada em vigor. Do facto informarão imediatamente a Comissão.\n\n2. Quando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n3. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno que adoptem no domínio regido pela presente directiva.\n\n4. O mais tardar quatro anos a contar da data de entrada em vigor da presente directiva, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação da presente directiva, acompanhado, se necessário, de uma proposta de revisão da presente directiva."
+  },
+  "13bbcfe707798c35": {
+   "fragment_id": "Artigo 16.º — Informação dos consumidores",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Informação dos consumidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Informação dos consumidores\n\nOs Estados-membros adoptarão as medidas necessárias para informar os consumidores da legislação interna de transposição da presente directiva e, sempre que adequado, incentivarão as organizações profissionais a informar os consumidores dos seus códigos de conduta."
+  },
+  "b9ffa9dde75d89c7": {
+   "fragment_id": "Artigo 17.º — Sistemas de reclamações",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Sistemas de reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Sistemas de reclamações\n\nA Comissão analisará a possibilidade de se estabelecer um modo eficaz de tratamento das reclamações dos consumidores em matéria de venda à distância. No prazo de dois anos a contar da data de entrada em vigor da presente directiva, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre os resultados da sua análise eventualmente acompanhado de propostas adequadas."
+  },
+  "a72f20beab945a4c": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "fe23fcede97efb4b": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "39048fd9be0cf476": {
+   "fragment_id": "Técnicas de comunicação referidas no ponto 4 do artigo 2.º",
+   "type": "divisao",
+   "heading": "Técnicas de comunicação referidas no ponto 4 do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Técnicas de comunicação referidas no ponto 4 do artigo 2.º\n\n— Impresso sem endereço\n\n— Impresso com endereço\n\n— Carta normalizada\n\n— Publicidade impressa com nota de encomenda\n\n— Catálogo\n\n— Telefone com intervenção humana\n\n— Telefone sem intervenção humana (aparelho de chamada automática, audiotexto)\n\n— Rádio\n\n— Videofone (telefone com imagem)\n\n— Videotexto (micro computador, ecrã de televisão) com teclado ou ecrã táctil\n\n— Correio electrónico\n\n— Telefax (telecópia)\n\n— Televisão (telecompra, televenda).\n\n---"
+  },
+  "30d4bdd730208ad9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#src.E0001)) JO n.º C 156 de 23. 6. 1992, p. 14, e JO n.º C 308 de 15. 11. 1993, p. 18.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#src.E0002)) JO n.º C 19 de 25. 1. 1993, p. 111.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 26 de Maio de 1993 (JO n.º C 176 de 28. 6. 1993, p. 95), posição comum do Conselho de 29 de Junho de 1995 (JO n.º C 288 de 30. 10. 1995, p. 1) e decisão do Parlamento Europeu de 13 de Dezembro de 1995 (JO n.º C 17 de 22. 1. 1996, p. 51). Decisão do Parlamento Europeu de 16. 1. 1997 e Decisão do Conselho de 20. 1. 1997.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#src.E0004)) JO n.º C 92 de 25. 4. 1975, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#src.E0005)) JO n.º C 167 de 5. 7. 1986, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#src.E0006)) JO n.º C 294 de 22. 11. 1989, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#src.E0007)) JO n.º L 250 de 19. 9. 1984, p. 17.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#src.E0008)) JO n.º L 156 de 10. 6. 1992, p. 21.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#src.E0009)) JO n.º L 298 de 17. 10. 1989, p. 23.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#src.E0010)) JO n.º L 113 de 30. 4. 1992, p. 13.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#src.E0011)) JO L 271 de 9.10.2002, p. 16.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/9f66e5ae-490d-4e8d-be4b-3adfcbbca485.0018.03/DOC_1#src.E0019)) JO L 149 de 11.6.2005, p. 22."
+  },
+  "93a0a84358c9dcf4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Maio de 1997\n\nrelativa à protecção dos consumidores em matéria de contratos à distância\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 100.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#E0002)),\n\nDeliberando nos termos do procedimento previsto no artigo 189.ºB do Tratado ([^3^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#E0003)), em função do projecto comum aprovado pelo Comité de conciliação em 27 de Novembro de 1996,\n\n(1) Considerando que, no contexto da realização dos objectivos do mercado interno, importa aprovar medidas destinadas a consolidar progressivamente esse mercado;\n\n(2) Considerando que a livre circulação de bens e serviços diz respeito não só aos profissionais do comércio, mas também aos particulares; que implica, para os consumidores, a possibilidade de acederem aos bens e serviços de um outro Estado-membro nas mesmas condições que a população desse Estado;\n\n(3) Considerando que as vendas transfronteiras à distância podem constituir, para os consumidores, uma das principais manifestações concretas da realização do mercado interno, conforme observado, nomeadamente, na comunicação da Comissão ao Conselho intitulada «Para um Mercado Único da Distribuição»; que é indispensável ao bom funcionamento do mercado interno que os consumidores se possam dirigir a uma empresa fora do seu país, ainda que esta tenha uma filial no país de residência do consumidor;\n\n(4) Considerando que a introdução de novas tecnologias implica a multiplicação dos meios postos à disposição dos consumidores para conhecerem as ofertas apresentadas em toda a Comunidade e fazerem as suas encomendas; que alguns Estados-membros já tomaram disposições diferentes ou divergentes de protecção dos consumidores em matéria de vendas à distância, com incidências negativas na concorrência entre as empresas que operam no mercado interno; que, por conseguinte, é necessário adoptar um mínimo de regras comuns a nível comunitário neste domínio;\n\n(5) Considerando que nos pontos 18 e 19 do anexo da Resolução do Conselho de 14 de Abril de 1975, relativa a um programa preliminar da Comunidade Económica Europeia para uma política de protecção e informação dos consumidores ([^4^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#E0004)), se salienta a premência de proteger os compradores de bens ou serviços contra o pedido de pagamento de mercadorias não encomendadas e métodos de venda agressivos;\n\n(6) Considerando que a comunicação da Comissão ao Conselho intitulada «Novo Impulso para a Política de Defesa do Consumidor», aprovada pela Resolução do Conselho de23 de Junho de 1986 ([^5^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#E0005)), anunciava, no ponto 33, que a Comissão apresentaria propostas em matéria de utilização de novas tecnologias da informação que permitem aos consumidores fazerem encomendas a fornecedores, a partir do seu domicílio;\n\n(7) Considerando que na Resolução do Conselho de 9 de Novembro de 1989, sobre as futuras prioridades para o relançamento da política de defesa dos consumidores ([^6^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#E0006)), se convida a Comissão a realizar um esforço prioritário nos domínios referidos no anexo da citada resolução; que este anexo menciona as novas tecnologias de venda à distância; que a Comissão deu seguimento a esta resolução aprovando um «plano de acção trienal relativo à política de defesa do consumidor na Comunidade Económica Europeia (1990-1992)» e que este plano prevê a adopção de uma directiva nesta matéria;\n\n(8) Considerando que a utilização das línguas em matéria de contratos à distância é da competência dos Estados-membros;\n\n(9) Considerando que o contrato à distância se caracteriza pela utilização de uma ou mais técnicas de comunicação à distância; que estas diferentes técnicas são utilizadas no quadro de um sistema organizado de venda ou prestação de serviços à distância, sem a presença simultânea do fornecedor e do consumidor; que a evolução permanente destas técnicas não permite elaborar uma lista exaustiva, antes obriga a definir princípios válidos, inclusivamente em relação àquelas que, por enquanto, são de escassa utilização;\n\n(10) Considerando que uma mesma transacção que comporta sucessivas operações ou uma série de operações ou uma série de operações separadas durante um período de tempo pode ter diferentes denominações jurídicas, consoante o direito dos Estados-membros; que o disposto na presente directiva não se pode aplicar de modo diferente, consoante a legislação dos Estados-membros, sem prejuízo de recorrerem ao artigo 14.º; que, por isso, há razões para considerar que se deve observar o disposto na presente directiva pelo menos na altura da primeira de uma série de operações sucessivas ou da primeira de uma série de operações separadas, realizadas num período de tempo que possa ser considerado um todo, quer essa operação ou série de operações sejam objecto de um único contrato, de contratos sucessivos ou de contratos separados;\n\n(11) Considerando que a utilização de técnicas de comunicação à distância não deve conduzir a uma diminuição da informação prestada ao consumidor; que convém, pois, determinar as informações a transmitir obrigatoriamente ao consumidor, seja qual for a técnica de comunicação utilizada; que esta informação deve ainda ser transmitida em conformidade com as restantes normas comunitárias pertinentes, em especial com a Directiva 84/450/CEE do Conselho, de 10 de Setembro de 1984, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros em matéria de publicidade enganosa ([^7^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#E0007)); que, verificando-se excepções à obrigação de prestar informações, cabe ao consumidor, numa base discricionária, pedir determinadas informações básicas como a identidade do fornecedor, as características principais dos bens e dos serviços e o respectivo preço;\n\n(12) Considerando que, no caso de comunicação por telefone, é conveniente que o consumidor receba informações suficientes no início da chamada para decidir continuar ou não;\n\n(13) Considerando que a informação divulgada por algumas tecnologias electrónicas tem frequentemente carácter efémero, na medida em que não é recebida em suporte durável; que é, deste modo, necessário que o consumidor receba por escrito, em tempo útil, as informações necessárias para a correcta execução do contrato;\n\n(14) Considerando que o consumidor não tem, em concreto, possibilidade de ver o produto ou de tomar conhecimento das características do serviço antes da celebração do contrato; que importa prever, salvo disposição em contrário da presente directiva, um direito de rescisão; que é necessário limitar quaisquer custos suportados pelo consumidor para o exercício do direito de rescisão aos custos directos de devolução do bem, dado que, caso contrário, este seria um direito meramente formal; que este direito de rescisão não prejudica os direitos do consumidor previstos na legislação nacional, nomeadamente em matéria de recepção de produtos e serviços deteriorados ou de produtos e serviços que não correspondem à descrição desses produtos ou serviços; que compete aos Estados-membros determinarem as outras condições e modalidades que resultem do exercício do direito de rescisão;\n\n(15) Considerando que é igualmente necessário prever um prazo para a execução do contrato, se este não tiver sido definido no momento da encomenda;\n\n(16) Considerando que não pode ser admitida a técnica promocional que consiste em enviar um produto ou prestar um serviço, a título oneroso, ao consumidor, sem encomenda prévia ou acordo explícito deste último, desde que não se trate de um fornecimento ou prestação a título de substituição;\n\n(17) Considerando os princípios consignados nos artigos 8.º e 10.º da Convenção Europeia de Protecção dos Direitos do Homem e das Liberdades Fundamentais, de 4 de Novembro de 1950; que é necessário reconhecer ao consumidor o direito à protecção da vida privada, nomeadamente no que diz respeito à tranquilidade face a certas técnicas de comunicação particularmente invasivas; que é necessário, por conseguinte, estabelecer restrições específicas à utilização dessas técnicas; que os Estados-membros devem tomar as medidas apropriadas para proteger eficazmente os consumidores que não desejem ser contactados através de determinados meios de comunicação, sem prejuízo das cláusulas de salvaguarda especiais do consumidor previstas na legislação comunitária relativa à protecção dos dados pessoais e da privacidade;\n\n(18) Considerando que é importante que as regras de base vinculativas constantes da presente directiva sejam completadas, sempre que se justifique, por disposições voluntárias acordadas entre os profissionais envolvidos, segundo a Recomendação 92/295/CEE da Comissão, de 7 de Abril de 1992, relativa a códigos de conduta para protecção dos consumidores em matéria de contratos negociados à distância ([^8^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#E0008));\n\n(19) Considerando que, para assegurar uma protecção óptima do consumidor, é importante que este seja devidamente informado das disposições da presente directiva e dos eventuais códigos de conduta existentes neste domínio;\n\n(20) Considerando que a inobservância do disposto na presente directiva pode prejudicar tanto os consumidores como os concorrentes; que é, portanto, possível prever disposições que permitam a organismos públicos ou aos seus representantes, a organizações de consumidores que, nos termos da legislação nacional, têm interesse legítimo na defesa dos consumidores ou a organizações profissionais que têm interesse legítimo para agir, zelarem pela aplicação das disposições da presente directiva;\n\n(21) Considerando que, para assegurar a protecção do consumidor, é importante resolver, logo que possível, a questão das reclamações transfronteiras; que, em 14 de Fevereiro de 1996, a Comissão publicou um plano de acção relativo ao acesso dos consumidores à justiça e à resolução dos litígios de consumo no mercado interno; que esse plano de acção prevê iniciativas específicas destinadas a promover os procedimentos extrajudiciais, que são estabelecidos critérios objectivos (anexo II) para garantir a fiabilidade desses procedimentos e se prevê a utilização de formulários-tipo de reclamação (anexo III);\n\n(22) Considerando que, na utilização das novas tecnologias, o consumidor não tem o controlo da técnica; que é, portanto, necessário prever a possibilidade de o ónus da prova caber ao fornecedor;\n\n(23) Considerando que, em certos casos, existe o risco de se privar o consumidor da protecção concedida pela presente directiva ao designar-se o direito de um país terceiro como direito aplicável ao contrato; que, consequentemente, importa prever na presente directiva disposições destinadas a evitar esse risco;\n\n(24) Considerando que, por razões de interesse geral, um Estado-membro pode proibir a comercialização no seu território de determinados produtos e serviços através de contratos à distância; que essa proibição deve respeitar as normas comunitárias; que tais proibições já estão previstas, nomeadamente no tocante a medicamentos, nas Directivas 89/552/CEE do Conselho, de 3 de Outubro de 1989, relativa à coordenação de certas disposições legislativas, regulamentares e administrativas dos Estados-membros relativas ao exercício de actividades de radiodifusão televisiva ([^9^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#E0009)), e 92/28/CEE do Conselho, de 31 de Março de 1992, relativa à publicidade dos medicamentos para uso humano ([^10^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#E0010)),\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "e470cb42ead1c64e": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. *Contrato à distância*, qualquer contrato relativo a bens ou serviços, celebrado entre um fornecedor e um consumidor, que se integre num sistema de venda ou prestação de serviços à distância organizado pelo fornecedor, que, para esse contrato, utilize exclusivamente uma ou mais técnicas de comunicação à distância até à celebração do contrato, incluindo a própria celebração.\n\n2. *Consumidor*, qualquer pessoa singular que, nos contratos abrangidos pela presente directiva, actue com fins que não pertençam ao âmbito da sua actividade profissional.\n\n3. *Fornecedor*, qualquer pessoa singular ou colectiva que, nos contratos abrangidos pela presente directiva, actue no âmbito da sua actividade profissional.\n\n4. *Técnica de comunicação à distância*, qualquer meio que, sem a presença física e simultânea do fornecedor e do consumidor, possa ser utilizado tendo em vista a celebração do contrato entre as referidas partes. Do anexo I consta uma lista indicativa das técnicas objecto da presente directiva.\n\n5. *Operador de técnica de comunicação*, qualquer pessoa singular ou colectiva, pública ou privada, cuja actividade profissional consista em pôr à disposição dos fornecedores uma ou mais técnicas de comunicação à distância."
+  },
+  "a8eab8bcf019f30f": {
+   "fragment_id": "Artigo 3.º — Exclusões",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Exclusões\n\n1. A presente directiva não se aplica a contratos:\n\n— relacionado com qualquer serviço financeiro abrangido pela Directiva 2002/65/CE do Parlamento Europeu e do Conselho, de 23 de Setembro de 2002, relativa à comercialização à distância de serviços financeiros prestados a consumidores, e que altera as Directivas 90/619/CEE do Conselho, 97/7/CE e 98/27/CE ([^11^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#E0011)),\n\n— celebrados através de distribuidores automáticos ou de estabelecimentos comerciais automatizados,\n\n— celebrados com operadores de telecomunicações pela utilização de cabinas telefónicas públicas,\n\n— celebrados para a construção e venda de bens imóveis ou relativos a outros direitos respeitantes a bens imóveis, excepto o arrendamento,\n\n— celebrados em leilões.\n\n2. Os artigos 4.º, 5.º, 6.º e o n.º 1 do artigo 7.º não se aplicam a contratos:\n\n— de fornecimento de géneros alimentícios, bebidas ou outros bens de consumo doméstico corrente, fornecidos ao domicílio ao consumidor, na sua residência ou no seu local de trabalho por distribuidores que efectuem circuitos frequentes e regulares,\n\n— de prestação de serviços do alojamento, transporte, restauração ou tempos livres, sempre que, na celebração do contrato, o fornecedor se comprometa a prestar esses serviços numa data determinada ou num período especificado; excepcionalmente, no caso de actividades exteriores de tempo livre, o fornecedor pode reservar-se o direito de não aplicar o n.º 2 do artigo 7.º em circunstâncias específicas."
+  },
+  "8f80f38969d3d310": {
+   "fragment_id": "Artigo 9.º — Fornecimento não solicitado",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Fornecimento não solicitado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Fornecimento não solicitado\n\nTendo em conta a proibição das práticas de fornecimento não solicitado estabelecida na Directiva 2005/29/CE do Parlamento Europeu e do Conselho, de 11 de Maio de 2005, relativa às práticas comerciais desleais das empresas face aos consumidores no mercado interno ([^12^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#E0012)), os Estados-Membros devem tomar as medidas necessárias para dispensar o consumidor de qualquer contraprestação em caso de fornecimento ou prestação não solicitados, não valendo como consentimento a ausência de resposta."
+  },
+  "246b97f5d763a277": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#src.E0001)) JO n.º C 156 de 23.6.1992, p. 14, e JO n.º C 308 de 15.11.1993, p. 18.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#src.E0002)) JO n.º C 19 de 25.1.1993, p. 111.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 26 de Maio de 1993 (JO n.º C 176 de 28.6.1993, p. 95), posição comum do Conselho de 29 de Junho de 1995 (JO n.º C 288 de 30.10.1995, p. 1) e decisão do Parlamento Europeu de 13 de Dezembro de 1995 (JO n.º C 17 de 22.1.1996, p. 51). Decisão do Parlamento Europeu de 16. 1. 1997 e Decisão do Conselho de 20. 1. 1997.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#src.E0004)) JO n.º C 92 de 25.4.1975, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#src.E0005)) JO n.º C 167 de 5.7.1986, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#src.E0006)) JO n.º C 294 de 22.11.1989, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#src.E0007)) JO n.º L 250 de 19.9.1984, p. 17.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#src.E0008)) JO n.º L 156 de 10.6.1992, p. 21.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#src.E0009)) JO n.º L 298 de 17.10.1989, p. 23.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#src.E0010)) JO n.º L 113 de 30.4.1992, p. 13.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#src.E0011)) JO L 271 de 9.10.2002, p. 16.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/94f19d94-7611-480a-954d-e4c36e759c1b.0018.03/DOC_1#src.E0012)) JO L 149 de 11.6.2005, p. 22."
+  },
+  "13f4d6a4db78107c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1997L0007 — PT — 13.06.2014 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31997L0007) [DIRECTIVA 97/7/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/31997L0007) [de 20 de Maio de 1997](http://publications.europa.eu/resource/celex/31997L0007) [relativa à protecção dos consumidores em matéria de contratos à distância](http://publications.europa.eu/resource/celex/31997L0007) (JO L 144, 4.6.1997, p.19)\n\n**revogado por:**\n\n- [Directiva 2011/83/UE do Parlamento Europeu e do Conselho de 25 de Outubro de 2011](http://publications.europa.eu/resource/celex/32011L0083) — L 304 — 64 — 22.11.2011"
+  }
+ }
+}

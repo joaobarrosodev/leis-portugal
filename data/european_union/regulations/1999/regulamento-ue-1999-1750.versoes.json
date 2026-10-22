@@ -1,0 +1,749 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999R1750:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R1750-20020322",
+ "dre_path": null,
+ "source_lastmod": "2002-03-22",
+ "versions": [
+  {
+   "date": "1999-08-13",
+   "future": false,
+   "celex": "31999R1750",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5e9a33659c2fb695",
+    "f6310044dc834d10",
+    "3fa9c42570993ca0",
+    "2851ee32a14623b5",
+    "a39e453d957b1230",
+    "ca91da7d03682dbd",
+    "118205ae4c9de291",
+    "65b576fc0553d216",
+    "8eee377c655114d9",
+    "3b1cacb7f7816d2a",
+    "e31bdb0266ea1569",
+    "d8bca2643bbc2f30",
+    "894bbc9b353749f5",
+    "ac5b536604bc42d8",
+    "e41bf897249e4bdc",
+    "2e12b132205ee706",
+    "e0d95dd964a5f9c9",
+    "88e691e012c06ce6",
+    "64342ca9e52e7ac9",
+    "108abe99cc5e4584",
+    "e1d06a6a4b33fe29",
+    "d2e9860bff5c5ffb",
+    "376c71edb6617c6d",
+    "efc45cbdef21aac6",
+    "ae1267c11759dba8",
+    "ec96e0701a369a7a",
+    "bee79cf3a737a113",
+    "019f63306c40c78b",
+    "59f12a84908f609a",
+    "ed9e60e9d6157f72",
+    "91e4fd8b9180ea6c",
+    "89242fc6060ec36f",
+    "df7c0faf30c99fc6",
+    "9e6f772981aaa233",
+    "be11c45d46b9347a",
+    "21ee25ee7a40d34b",
+    "389ec3124cebff41",
+    "f96fb9061b699e8d",
+    "930e8849775338d5",
+    "f34dc1bd5cc661e3",
+    "5328f660bcf87c6d",
+    "0ba6aeed4389dbad",
+    "4f4bae739288aa7d",
+    "e9bbdfe1f4109364",
+    "371709971a970107",
+    "7b13730e511e82e6",
+    "58bda6258e905729",
+    "38f8dad4ba5fcc13",
+    "bdd06698f4c887ca",
+    "888fbc63c9c1e051",
+    "043f88df13e7df1c",
+    "3167cf7213f3c1d5",
+    "318a2d1e5df30388",
+    "7439988bac4da7c2",
+    "4828b153d110869e",
+    "1371e5fb65caec3e",
+    "be907b5870a90f8e",
+    "2932c9398f6cb228",
+    "c151f35bfd0fb62f",
+    "f70e8ee8367952ea",
+    "c5eaea9948bd29da",
+    "4f2a86e2086bf420",
+    "75d7eb32a03f0bda",
+    "8fcbedca20203f87",
+    "8225eb898d7b2b50",
+    "6278e4b8eda0bc44",
+    "ace173facafb91eb",
+    "a46166a5f92ec252",
+    "12eb3342c785ff8c",
+    "aabb77367da9aed1",
+    "38b06775acc7132a"
+   ]
+  },
+  {
+   "date": "2002-03-22",
+   "future": false,
+   "celex": "01999R1750-20020322",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I — OBJECTO",
+    "Suprime Artigo 1.º",
+    "Suprime CAPÍTULO II — MEDIDAS DE DESENVOLVIMENTO RURAL",
+    "Suprime SECÇÃO 1 — Investimentos nas explorações agrícolas",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime SECÇÃO 2 — Instalação de jovens agricultores",
+    "Suprime Artigo 5.º",
+    "Suprime SECÇÃO 3 — Formação",
+    "Suprime Artigo 6.º",
+    "Suprime SECÇÃO 4 — Reforma antecipada",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime SECÇÃO 5 — Zonas desfavorecidas e regiões com condicionantes ambientais",
+    "Suprime Artigo 11.º",
+    "Suprime SECÇÃO 6 — Medidas agroambientais",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime SECÇÃO 7 — Melhoria da transformação e comercialização de produtos agrícolas",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime SECÇÃO 8 — Silvicultura",
+    "Suprime Artigo 24.º",
+    "Suprime Artigo 25.º",
+    "Suprime Artigo 26.º",
+    "Suprime Artigo 27.º",
+    "Suprime SECÇÃO 9 — Regras comuns a várias medidas",
+    "Suprime Artigo 28.º",
+    "Suprime Artigo 29.º",
+    "Suprime Artigo 30.º",
+    "Suprime CAPÍTULO III — PRINCÍPIOS GERAIS E DISPOSIÇÕES ADMINISTRATIVAS E FINANCEIRAS",
+    "Suprime SECÇÃO 1 — Princípios gerais",
+    "Suprime Artigo 31.º",
+    "Suprime Artigo 32.º",
+    "Suprime SECÇÃO 2 — Programação",
+    "Suprime Artigo 33.º",
+    "Suprime Artigo 34.º",
+    "Suprime Artigo 35.º",
+    "Suprime SECÇÃO 3 — Medidas adicionais e iniciativas comunitárias",
+    "Suprime Artigo 36.º",
+    "Suprime SECÇÃO 4 — Disposições financeiras",
+    "Suprime Artigo 37.º",
+    "Suprime Artigo 38.º",
+    "Suprime Artigo 39.º",
+    "Suprime Artigo 40.º",
+    "Suprime SECÇÃO 5 — Acompanhamento e avaliacão",
+    "Suprime Artigo 41.º",
+    "Suprime Artigo 42.º",
+    "Suprime Artigo 43.º",
+    "Suprime Artigo 44.º",
+    "Suprime Artigo 45.º",
+    "Suprime SECÇÃO 6 — Pedidos de apoio, controlos e sancões",
+    "Suprime Artigo 46.º",
+    "Suprime Artigo 47.º",
+    "Suprime Artigo 48.º",
+    "Suprime CAPÍTULO IV — REGRAS FINAIS",
+    "Suprime Artigo 49.º",
+    "Suprime Artigo 50.º",
+    "Suprime ANEXO — PLANOS DE DESENVOLVIMENTO RURAL"
+   ],
+   "fragments": [
+    "390b401c9c8325a2"
+   ]
+  }
+ ],
+ "fragments": {
+  "5e9a33659c2fb695": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n° 1750/1999 da Comissão de 23 de Julho de 1999 que estabelece as regras de execução pormenorizadas do Regulamento (CE) n° 1257/1999 do Conselho relativo ao apoio do Fundo Europeu de Orientação e Garantia Agrícola (FEOGA) ao desenvolvimento rural** *Jornal Oficial nº L 214 de 13/08/1999 p. 0031 - 0052*\n\nREGULAMENTO (CE) N.o 1750/1999 DA COMISSÃO\n\nde 23 de Julho de 1999\n\nque estabelece as regras de execução pormenorizadas do Regulamento (CE) n.o 1257/1999 do Conselho relativo ao apoio do Fundo Europeu de Orientação e Garantia Agrícola (FEOGA) ao desenvolvimento rural\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.o 1257/1999 do Conselho, de 17 de Maio de 1999, relativo ao apoio do Fundo Europeu de Orientação e Garantia Agrícola (FEOGA) ao desenvolvimento rural(1), que altera e revoga determinados regulamentos, e, nomeadamente, os seus artigos 34.o e 50.o,\n\n(1) Considerando que o Regulamento (CE) n.o 1257/1999 estabeleceu um quadro jurídico único para o apoio do FEOGA ao desenvolvimento rural, definindo, nomeadamente, no seu título II, as medidas elegíveis para apoio, os seus objectivos e os critérios de elegibilidade; que esse quadro é aplicável ao apoio ao desenvolvimento rural em toda a Comunidade;\n\n(2) Considerando que, para completar esse quadro, é necessário adoptar regras de execução pormenorizadas; que essas regras devem respeitar o princípio da subsidiariedade e, por conseguinte, ser limitadas às regras que é necessário adoptar a nível comunitário;\n\n(3) Considerando que as regras de execução pormenorizadas que definam os critérios de elegibilidade para as diferentes medidas de desenvolvimento rural devem ter em conta a experiência adquirida com os instrumentos aplicados a título dos vários regulamentos do Conselho revogados por força do n.o 1 do artigo 55.o do Regulamento (CE) n.o 1257/1999;\n\n(4) Considerando que, no que se refere ao apoio aos investimentos nas explorações agrícolas e nas empresas de transformação, bem como ao apoio aos jovens agricultores, o Regulamento (CE) n.o 1257/1999 estabelece três condições básicas; que há que definir o momento em que essas condições devem estar satisfeitas, incluindo as que dizem respeito à demonstração da viabilidade económica de uma exploração agrícola aplicáveis a uma ajuda ao investimento, as quais devem basear-se na avaliação das perspectivas dessa exploração;\n\n(5) Considerando que, no respeita aos investimentos nas explorações e nas empresas de transformação, o apoio comunitário está sujeito à condição de existir um escoamento normal no mercado para os produtos em causa; que devem ser estabelecidas regras para a avaliação de tal escoamento;\n\n(6) Considerando que o apoio à formação profissional não deve abranger o ensino agrícola ou silvícola normal;\n\n(7) Considerando que as condições relativas ao apoio à reforma antecipada devem basear-se na experiência adquirida através do regime de ajudas estabelecido pelo Regulamento (CEE) n.o 2079/92 do Conselho(2), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2773/95 da Comissão(3);\n\n(8) Considerando que é, nomeadamente, necessário resolver os problemas específicos resultantes da transferência de uma exploração por vários cedentes ou por um rendeiro;\n\n(9) Considerando que nas zonas desfavorecidas e relativamente às superfícies utilizadas em comum por vários agricultores, devem ser disponibilizadas para cada agricultor que utilize essas superfícies, indemnizações compensatórias proporcionalmente ao seu direito de utilização;\n\n(10) Considerando que as regras de execução relativas ao apoio agro-ambiental devem basear-se na experiência adquirida no âmbito do regime de apoio instituído pelo Regulamento (CEE) n.o 2078/92 do Conselho(4), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2772/95 da Comissão(5) e devem, nomeadamente, ter em conta as normas estabelecidas pelo Regulamento (CE) n.o 746/96 da Comissão(6), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 435/97(7);\n\n(11) Considerando que a definição das condições mínimas a respeitar pelos agricultores em ligação com os diferentes compromissos agro-ambientais garantirá uma aplicação equilibrada do apoio agro-alimentar, tendo em consideração os seus objectivos e contribuindo assim para um desenvolvimento rural sustentado;\n\n(12) Considerando que é necessário definir os critérios de selecção dos investimentos para a melhoria da transformação e comercialização de produtos agrícolas; que, tendo em conta a experiência adquirida no âmbito do regime de apoio em vigor, estabelecido pelo Regulamento (CE) n.o 951/97 do Conselho(8), há que basear esses critérios de selecção mais em princípios gerais que em regras sectoriais;\n\n(13) Considerando que é conveniente estabelecer uma derrogação ao disposto no segundo travessão do n.o 1 do artigo 28.o do Regulamento (CE) n.o 1257/1999, que exclui, para as regiões ultraperiféricas da Comunidade, apoio aos investimentos na transformação e comercialização de produtos provenientes de países terceiros; que esta derrogação deve, todavia, ser submetida a certas condições;\n\n(14) Considerando que algumas florestas excluídas do apoio à silvicultura por força do n.o 3 do artigo 29.o do Regulamento (CE) n.o 1257/1999, deviam ser objecto de uma definição mais precisa;\n\n(15) Considerando que é necessário definir condições pormenorizadas relativamente ao apoio à florestação das terras agrícolas e aos pagamentos concedidos para actividades de preservação e melhoria da estabilidade ecológica das florestas;\n\n(16) Considerando que, em conformidade com o artigo 33.o do Regulamento (CE) n.o 1257/1999, deve ser concedido apoio a outras medidas relacionadas com actividades agrícolas, com a sua reconversão e com actividades rurais, desde que não se enquadrem no âmbito de qualquer outra medida de desenvolvimento rural; que, dada a grande variedade de medidas susceptíveis de ser abrangidas por esse artigo, parece adequado deixar a definição das condições de apoio a cargo dos Estados-Membros no contexto da programação;\n\n(17) Considerando que é necessário definir regras comuns relativas a várias medidas, garantindo, nomeadamente, um nível comum em matéria de boas práticas agrícolas, sempre que as medidas se refiram a tais critérios, e assegurando essa flexibilidade no que respeita aos compromissos de longa duração, para ter em consideração acontecimentos que possam afectar esses compromissos sem, no entanto, pôr em causa a aplicação eficaz das várias medidas de apoio;\n\n(18) Considerando que deve ser estabelecida uma clara linha de demarcação entre o financiamento do apoio ao desenvolvimento rural e o financiamento do apoio no quadro das organizações comuns de mercado; que quaisquer excepções ao princípio segundo o qual as medidas abrangidas pelos regimes de apoio no quadro das organizações comuns de mercado não são elegíveis para o apoio ao desenvolvimento rural devem ser propostas pelos Estados-Membros no âmbito da programação de desenvolvimento rural, em conformidade com as suas necessidades específicas e de acordo com um procedimento transparente;\n\n(19) Considerando que os pagamentos realizados no âmbito do apoio ao desenvolvimento rural devem ser integralmente pagos aos beneficiários;\n\n(20) Considerando que devem ser estabelecidas regras pormenorizadas relativas à apresentação dos planos de desenvolvimento rural e à sua revisão;\n\n(21) Considerando que, para facilitar a elaboração dos planos de desenvolvimento rural, bem como o seu exame e aprovação pela Comissão, devem ser definidas regras comuns para a estrutura e o conteúdo desses planos com base nos requisitos fixados, nomeadamente, pelo artigo 43.o do Regulamento (CE) n.o 1257/1999;\n\n(22) Considerando que devem ser estabelecidas condições relativamente às alterações a introduzir nos documentos de programação em matéria de desenvolvimento rural, para permitir um exame eficaz e rápido dessas alterações pela Comissão;\n\n(23) Considerando que só as alterações substanciais dos documentos de programação em matéria de desenvolvimento rural devem ser submetidas ao procedimento do comité de gestão; que as outras alterações devem ser decididas pelos Estados-Membros e comunicadas à Comissão;\n\n(24) Considerando que devem ser estabelecidas disposições pormenorizadas em matéria de planeamento financeiro e de participação no financiamento no que se refere às medidas pelo FEOGA, secção Garantia, em conformidade com os n.os 1 e 2 do artigo 35.o do Regulamento (CE) n.o 1257/1999;\n\n(25) Considerando que, nesse quadro, os Estados-Membros devem comunicar regularmente à Comissão a situação do financiamento das medidas de desenvolvimento rural;\n\n(26) Considerando que têm de ser tomadas medidas para garantir a utilização eficaz das dotações reservadas para o apoio ao desenvolvimento rural, prevendo, nomeadamente, a concessão de um adiantamento inicial e o necessário ajustamento das dotações em função das necessidades e dos resultados anteriores;\n\n(27) Considerando que, para além das regras específicas estabelecidas pelo presente regulamento, devem ser aplicáveis as regras gerais relativas à disciplina orçamental, nomeadamente as relativas às declarações incompletas ou incorrectas dos Estados-Membros;\n\n(28) Considerando que os aspectos específicos da gestão financeira das medidas de desenvolvimento rural serão regidos pelas regras adoptadas para a execução do Regulamento (CE) n.o 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da Política Agrícola Comum(9);\n\n(29) Considerando que os procedimentos e as exigências em matéria de acompanhamento e avaliação devem ser estabelecidos com base em princípios aplicáveis a outras medidas de apoio comunitário, nomeadamente os aplicáveis no âmbito dos fundos estruturais, estabelecidos pelo Regulamento (CE) n.o 1260/1999 do Conselho, de 21 de Junho de 1999, que estabelece as disposições gerais em matéria de Fundos estruturais(10);\n\n(30) Considerando que as disposições administrativas devem uma gestação, um acompanhamento e um controlo mais adequados do apoio ao desenvolvimento rural; que, por razões de simplificação, as medidas devem, tanto quanto possível, basear-se nas regras já existentes, como o sistema integrado de gestão e de controlo previsto no Regulamento (CEE) n.o 3508/92 do Conselho(11), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1036/1999(12) e no Regulamento (CEE) n.o 3887/92 da Comissão(13), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1678/98(14);\n\n(31) Considerando que convém prever, a nível comunitário e a nível dos Estados-Membros, um sistema de sanções a aplicar;\n\n(32) Considerando que convém revogar os Regulamentos (CEE) n.o 2084/80(15), (CEE) n.o 220/91(16), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1183/98(17), os Regulamentos (CE) n.o 860/94(18), (CE) n.o 1025/94(19), (CE) n.o 1054/94(20), (CE) n.o 1282/94(21), (CE) n.o 1404/94(22), (CE) n.o 1682/94(23), (CE) n.o 1844/94(24), (CE) n.o 746/96, todos da Comissão, bem como as Decisões 92/522/CEE(25) e 94/173/CEE(26) da Comissão, cujas disposições se tornaram obsoletas ou foram substituídas pelas disposições do presente regulamento;\n\n(33) Considerando que o Comité das Estruturas Agrícolas e do Desenvolvimento Rural não emitiu qualquer parecer no prazo limite estabelecido pelo seu presidente,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f6310044dc834d10": {
+   "fragment_id": "CAPÍTULO I — OBJECTO",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — OBJECTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — OBJECTO"
+  },
+  "3fa9c42570993ca0": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece as regras de execução pormenorizadas do Regulamento (CE) n.o 157/1999."
+  },
+  "2851ee32a14623b5": {
+   "fragment_id": "CAPÍTULO II — MEDIDAS DE DESENVOLVIMENTO RURAL",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — MEDIDAS DE DESENVOLVIMENTO RURAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — MEDIDAS DE DESENVOLVIMENTO RURAL"
+  },
+  "a39e453d957b1230": {
+   "fragment_id": "SECÇÃO 1 — Investimentos nas explorações agrícolas",
+   "type": "divisao",
+   "heading": "SECÇÃO 1 — Investimentos nas explorações agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 1 — Investimentos nas explorações agrícolas"
+  },
+  "ca91da7d03682dbd": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs condições previstas no artigo 5.o do Regulamento (CE) n.o 1257/1999 devem estar satisfeitas no momento em que a decisão individual de concessão do apoio seja adoptada.\n\nNo entanto, sempre que sejam realizados investimentos para satisfazer novas normas mínimas de ambiente, higiene e bem-estar dos animais, pode ser concedido apoio com vista à satisfação dessas novas normas. Nesse caso, pode ser previsto um período para a satisfação dessas normas mínimas, desde que esse período seja necessário para resolver os problemas específicos relacionados com a satisfação das referidas normas e desde que esse período esteja em conformidade com a legislação em causa."
+  },
+  "118205ae4c9de291": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Para efeitos do artigo 6.o do Regulamento (CE) n.o 1257/1999, a existência de um escoamento normal no mercado será avaliada ao nível adequado em função:\n\na) dos produtos em causa,\n\nb) dos tipos de investimentos,\n\nc) das capacidades existentes e previstas.\n\n2. Serão tidas em conta quaisquer restrições à produção ou condicionantes do apoio comunitário no quadro das organizações comuns de mercado.\n\n3. Sempre que, no quadro de uma organização comum de mercado, existam restrições à produção ou condicionantes do apoio comunitário a nível dos agricultores individuais, das explorações ou das empresas de transformação, nenhum investimento que teria por efeito aumentar a produção para além dessas restrições ou condicionantes será objecto de apoio."
+  },
+  "65b576fc0553d216": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sempre que os investimentos sejam realizados por jovens agricultores, as percentagens máximas do volume de investimento elegível previstas no segundo período do segundo parágrafo do artigo 7.o do Regulamento (CE) n.o 1257/1999 podem ser aplicadas durante um período máximo de cinco anos após a instalação.\n\n2. O segundo parágrafo do artigo 5.o é igualmente aplicável aos investimentos realizados por jovens agricultores durante um período de cinco anos após a sua instalação."
+  },
+  "8eee377c655114d9": {
+   "fragment_id": "SECÇÃO 2 — Instalação de jovens agricultores",
+   "type": "divisao",
+   "heading": "SECÇÃO 2 — Instalação de jovens agricultores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 2 — Instalação de jovens agricultores"
+  },
+  "3b1cacb7f7816d2a": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs requisitos previstos no n.o 1 do artigo 8.o do Regulamento (CE) n.o 1257/1999 devem estar satisfeitos no momento em que a decisão de concessão do apoio seja adoptada.\n\nNo entanto, no que se refere às aptidões e capacidades profissionais adequadas, viabilidade económica e normas mínimas de ambiente, higiene e bem-estar dos animais, pode ser previsto um período não superior a três anos após a instalação para a satisfação desses requisitos, se for necessário um período de adaptação para facilitar a instalação do jovem agricultor ou a adaptação estrutural da sua exploração."
+  },
+  "e31bdb0266ea1569": {
+   "fragment_id": "SECÇÃO 3 — Formação",
+   "type": "divisao",
+   "heading": "SECÇÃO 3 — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 3 — Formação"
+  },
+  "d8bca2643bbc2f30": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO apoio à formação profissional não abrangerá os cursos ou estágios que façam parte de programas ou regimes normais do ensino agrícola ou silvícola dos graus secundário ou superior."
+  },
+  "894bbc9b353749f5": {
+   "fragment_id": "SECÇÃO 4 — Reforma antecipada",
+   "type": "divisao",
+   "heading": "SECÇÃO 4 — Reforma antecipada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 4 — Reforma antecipada"
+  },
+  "ac5b536604bc42d8": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nSempre que uma exploração agrícola seja cedida por vários cedentes, o apoio global será limitado ao montante previsto para um cedente."
+  },
+  "e41bf897249e4bdc": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA actividade agrícola para fins não comerciais que o cedente continue a praticar, em conformidade com o n.o 1, primeiro travessão do artigo 11.o do Regulamento (CE) n.o 1257/1999, não será elegível para apoio a título da Política Agrícola Comum."
+  },
+  "2e12b132205ee706": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nUm rendeiro pode ceder as terras libertadas ao proprietário desde que o contrato de arrendamento tenha chegado ao seu termo e estejam satisfeitas as condições relativas ao cessionário em questão, previstas no n.o 2 do artigo 11.o do Regulamento (CE) n.o 1257/1999."
+  },
+  "e0d95dd964a5f9c9": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs terras libertadas podem ser incluídas numa operação de emparcelamento ou de simples permuta de parcelas.\n\nNesse caso, as condições aplicáveis à s terras libertadas serão aplicadas a superfícies equivalentes em termos agronómicos às das terras libertadas.\n\nAlém disso, os Estados-Membros podem prever que as terras libertadas sejam tomadas a cargo por uma entidade que se comprometa a entregá-las posteriormente a um cessionário que satisfaça as condições previstas para a reforma antecipada."
+  },
+  "88e691e012c06ce6": {
+   "fragment_id": "SECÇÃO 5 — Zonas desfavorecidas e regiões com condicionantes ambientais",
+   "type": "divisao",
+   "heading": "SECÇÃO 5 — Zonas desfavorecidas e regiões com condicionantes ambientais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 5 — Zonas desfavorecidas e regiões com condicionantes ambientais"
+  },
+  "64342ca9e52e7ac9": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs indemnizações compensatórias relativas a superfícies utilizadas em comum por vários agricultores para pasto de animais podem ser concedidas a cada um dos agricultores que utilizam essas terras, proporcionalmente à sua utilização ou ao seu direito de utilização dessas superficies."
+  },
+  "108abe99cc5e4584": {
+   "fragment_id": "SECÇÃO 6 — Medidas agroambientais",
+   "type": "divisao",
+   "heading": "SECÇÃO 6 — Medidas agroambientais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 6 — Medidas agroambientais"
+  },
+  "e1d06a6a4b33fe29": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nQualquer compromisso de proceder à extensificação da produção animal ou a uma gestão diferente da produção animal satisfará, no mínimo, as seguintes condições:\n\na) a gestão das pastagens será mantida,\n\nb) o efectivo será distribuído na exploração agrícola de modo a que a superfície total de pastagem seja mantida, evitando assim quer a sobrepastagem quer a subutilização,\n\ne\n\nc) o encabeçamento é definido tendo em conta todos os animais que se mantêm na exploração agrícola ou, no caso de um compromisso destinado a reduzir a lixiviação de nutrientes, todos os animais mantidos na exploração agrícola, relevantes para o compromisso em causa."
+  },
+  "d2e9860bff5c5ffb": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO apoio agroalimentar pode abranger compromissos de:\n\na) criação de animais de exploração de raças locais autóctones e em risco de extinção,\n\ne\n\nb) preservação de recursos genéticos da flora, naturalmente adaptados às condições locais e regionais e am eaçados de erosão genética.\n\nAs raças locais e os recursos genéticos da flora devem desempenhar uma função na manutenção do ambiente nas superfícies a que a medida é aplicável."
+  },
+  "376c71edb6617c6d": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nPara efeitos do n.o 1, segundo parágrafo, do artigo 24.o do Regulamento (CE) n.o 1257/1999, os investimentos em infra-estruturas serão considerados não produtivos sempre que, normalmente, não conduzam a um aumento líquido significado do valor ou da rentabilidade da exploração agrícola."
+  },
+  "efc45cbdef21aac6": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs compromissos agroambientais que excedam o período mínimo de cinco anos, referido no n.o 1 do artigo 23.o do Regulamento (CE) n.o 1257/1999 não podem dizer respeito a um período mais longo que o razoavelmente necessário para que os seus efeitos ambientais sejam atingidos. Normalmente, não podem ultrapassar 10 anos, excepto no caso de compromissos para os quais seja considerado indispensável um período mais longo."
+  },
+  "ae1267c11759dba8": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nDesde que sejam complementares e compatíveis, podem ser combinados vários compromissos agroambientais.\n\nQuando tal se verificar, o nível do apoio agrícola terá em conta as perdas de rendimentos e os custo adicionais específicos decorrentes dessa combinação."
+  },
+  "ec96e0701a369a7a": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. O nível de referência para o cálculo das perdas de rendimentos e dos custos adicionais resultantes de um compromisso será o das boas práticas agrícolas correntes nas superfícies a que a medida seja aplicável.\n\nSempre que as circunstâncias agronómicas ou ambientais o justifiquem, podem ser tidas em conta as consequências económicas do abandono das terras ou da cessação de certas práticas agrícolas.\n\n2. Os pagamentos não podem ser efectuados por unidade, com excepção dos relativos ao apoio à criação de animais de exploração em perigo de extinção, que podem ser pagos por cabeça normal ou por animal criado. No caso de compromissos normalmente expressos em unidades diferentes da superfície, os Estados-Membros podem calcular os pagamentos com base nessas unidades.\n\nOs Estados-Membros velarão por que os montantes máximos anuais elegíveis para apoio comunitário estabelecido no Anexo do Regulamento (CE) n.o 1257/1999 sejam respeitados. Para esse efeito, os Estados-Membros podem:\n\na) estabelecer um limite para o número de unidades por hectare da exploração agrícola a que os compromissos agroambientais digam respeito,\n\nou\n\nb) determinar o montante global máximo para cada exploração agrícola participante e velar por que os pagamentos para cada exploração sejam compatíveis com esse limite.\n\n3. Os pagamentos basear-se-ão em restrições à utilização de fertilizantes, de produtos fitossanitários ou de outros factores de produção se tais restrições forem técnica e economicamente mensuráveis."
+  },
+  "bee79cf3a737a113": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs Estados-Membros definirão a necessidade de proporcionar o incentivo previsto no n.o 1, terceiro travessão, do artigo 24.o do Regulamento (CE) n.o 1257/999 com base em critérios objectivos.\n\nEsse incentivo não excederá 20 % das perdas de rendimento e dos custos adicionais resultantes do compromisso em causa, excepto no caso de compromissos para os quais se considere indispensável uma taxa mais elevada para uma aplicação eficaz da medida."
+  },
+  "019f63306c40c78b": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nUm agricultor que subscreva um compromisso agroambiental relativamente a uma parte de uma exploração agrícola deve respeitará no mínimo, as normas das boas práticas agrícolas em toda a exploração."
+  },
+  "59f12a84908f609a": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. Os Estados-Membros podem autorizar a transformação de um compromisso num outro durante o seu período de cumprimento, desde que:\n\na) essa transformação implique vantagens ambientais indiscutíveis,\n\nb) o compromisso existente seja significativamente reforçado,\n\ne\n\nc) o programa aprovado inclua os compromissos em questão.\n\nDe acordo com as condições estabelecidas no primeiro parágrafo, alíneas a) e b), pode ser autorizada a transformação de um compromisso agroambiental num compromisso de florestação de terras agrícolas em conformidade com o artigo 31.o do Regulamento (CE) n.o 1257/1999. O compromisso agroambiental terminará sem que haja lugar a um reembolso.\n\n2. Os Estatos-Membros podem igualmente prever a adaptação de compromissos durante o seu período de cumprimento, desde que:\n\na) o programa aprovado preveja tal possibilidade,\n\ne\n\nb) tendo em conta os objectivos do compromisso, a adaptação seja devidamente justificada."
+  },
+  "ed9e60e9d6157f72": {
+   "fragment_id": "SECÇÃO 7 — Melhoria da transformação e comercialização de produtos agrícolas",
+   "type": "divisao",
+   "heading": "SECÇÃO 7 — Melhoria da transformação e comercialização de produtos agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 7 — Melhoria da transformação e comercialização de produtos agrícolas"
+  },
+  "91e4fd8b9180ea6c": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nAs despesas elegíveis podem dizer respeito:\n\na) À construção e aquisição de bens imóveis, com excepção da compra de terras;\n\nb) A maquinaria e equipamento novos, incluindo programas informáticos;\n\nc) A despesas gerais, nomeadamente as despesas com arquitectos, engenheiros e consultores, estudos de viabilidade, aquisição de patentes e licenças, para além das despesas referidas nas alíneas a) e b) e até ao limite de 12 % destas despesas."
+  },
+  "89242fc6060ec36f": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. Para efeitos do n.o 3 do artigo 26.o do Regulamento (CE) n.o 1257/1999, a existência de um escoamento normal no mercado será avaliada ao nível adequado em função:\n\na) dos produtos em causa,\n\nb) dos tipos de investimento,\n\nc) das capacidades existentes e previstas.\n\n2. Serão tidas em conta quaisquer restrições à produção ou condicionantes do apoio comunitário no quadro das organizações comuns de mercado."
+  },
+  "df7c0faf30c99fc6": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nNas regiões ultraperiféricas, pode ser concedido apoio aos investimentos na transformação ou comercialização de produtos provenientes de países terceiros desde que os produtos transformados se destinem a ser comercializados na região em causa. Para que esta condição seja cumprida, o apoio será limitado às capacidades de transformação correspondentes às necessidades regionais na condição de essas capacidades de transformação não excederem as necessidades regionais."
+  },
+  "9e6f772981aaa233": {
+   "fragment_id": "SECÇÃO 8 — Silvicultura",
+   "type": "divisao",
+   "heading": "SECÇÃO 8 — Silvicultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 8 — Silvicultura"
+  },
+  "be11c45d46b9347a": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nAs florestas excluídas do apoio por força do n.o 3 do artigo 29.o do Regulamento (CE) n.o 1257/1999 serão:\n\na) as florestas ou outras terras arborizadas que sejam propriedade dos governos centrais ou regionais ou de entidades estatais,\n\nb) as florestas ou outras terras arborizadas pertencentes à coroa,\n\nc) as florestas pertencentes a pessoas colectivas cujo capital seja detido em, pelo menos, 50 % por uma das entidades referidas nas alíneas a) e b)."
+  },
+  "21ee25ee7a40d34b": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nAs terras agrícolas elegíveis para o apoio à florestação em conformidade com o artigo 31.o do Regulamento (CE) n.o 1257/1999 serão determinadas pelo Estado-Membro e incluirão, nomeadamente, terras aráveis, prados, pastagens permanentes e terras utilizadas para culturas perenes onde a actividade agrícola seja desenvolvida de uma forma regular."
+  },
+  "389ec3124cebff41": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. Para efeitos do n.o 1, segundo travessão, do artigo 31.o do Regulamento (CE) n.o 1257/1999, entende-se por \"agricultor\" uma pessoa que consagre uma parte essencial do seu tempo de trabalho a actividades agrícolas e que delas retire um parte significativa do seu rendimento, de acordo com critérios pormenorizados a definir pelo Estado-Membro.\n\n2. Para efeitos do n.o 3, segundo parágrafo, do artigo 31.o do Regulamento (CE) n.o 1257/1999 entende-se por \"plantações de espécies de crescimento rápido cultivadas a curto prazo\" as plantações de espécies cujo tempo de rotação (ou seja, o período que separa dois cortes no mesmo local) seja inferior a 15 anos."
+  },
+  "f96fb9061b699e8d": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. apoio previsto no artigo 32.o do Regulamento (CE) n.o 1257/1999 pode não ser concedido para superfícies relativamente às quais tenha sido concedido o apoio previsto no artigo 31.o daquele mesmo regulamento.\n\n2. Os pagamentos destinados à manutenção de corta-fogos através de práticas agrícolas, previstos no n.o 1, segundo travessão, do artigo 32.o do Regulamento (CE) n.o 1257/1999 não serão concedidos para superfícies que sejam objecto de apoio agroambiental.\n\nSerão coerentes com quaisquer restrições à produção ou condicionantes do apoio comunitário no quadro das organizações comuns de mercado e terão e conta os pagamentos efectuados no âmbito destas."
+  },
+  "930e8849775338d5": {
+   "fragment_id": "SECÇÃO 9 — Regras comuns a várias medidas",
+   "type": "divisao",
+   "heading": "SECÇÃO 9 — Regras comuns a várias medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 9 — Regras comuns a várias medidas"
+  },
+  "f34dc1bd5cc661e3": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nPara efeitos do Regulamento (CE) n.o 1257/1999 e do presente regulamento, entende-se por \"boas práticas agrícolas correntes\" as normas agrícolas que um agricultor responsável deve aplicar na região em causa.\n\nOs Estados-Membros definirão nos seus planos de desenvolvimento rural normas passíveis de verificação. De qualquer modo, essas normas incluirão o respeito das exigências ambientais obrigatórias de carácter geral."
+  },
+  "5328f660bcf87c6d": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1. Se, durante o período de um compromisso assumido como condição para a concessão de apoio, o beneficiário transferir toda ou parte da sua exploração para um terceiro, este pode retomar o compromisso em relação à parte do período que falta decorrer. Se tal não acontecer, o beneficiário será obrigado a reembolsar o apoio recebido.\n\nOs Estados-Membros podem decidir não solicitar esse reembolso se, no caso de uma cessação definitiva das actividades agrícolas de um beneficiário que já tenha cumprido uma parte significativa do seu compromisso, este não puder ser retomado por um sucessor.\n\nOs Estados-Membros podem tomar medidas específicas para evitar que, em caso de alterações de pouca importância da situação da exploração agrícola, a aplicação do primeiro parágrafo conduza a resultados inadequados no que respeita ao compromisso assumido.\n\n2. Se, durante o período de um compromisso assumido como condição para a concessão de ajuda, o beneficiário aumenta a área da sua exploração, os Estados-Membros poderão prever:\n\na) A extensão do compromisso à área adicional em relação à parte do período de compromisso que falta decorrer, sob condição de que tal extensão:\n\ni) represente uma vantagem inquestionável para a medida em causa,\n\nii) se justifique em termos da natureza do compromisso, da extensão do período que falta decorrer e da dimensão da área adicional, a qual deve ser significativamente inferior à área original ou não superior a dois hectares,\n\ne\n\niii) não afecte a verificação eficaz do cumprimento das condições da concessão do apoio;\n\nou\n\nb) A substituição do compromisso original do beneficiário por um novo compromisso para o conjunto da área em causa, em condições no mínimo tão rigorosas como as do compromisso anterior.\n\nA alínea b) também será aplicável nos casos em que a área objecto de um compromisso seja aumentada no interior da exploração.\n\n3. Sempre que o beneficiário não possa continuar a cumprir os compromissos assumidos, devido ao facto de a sua exploração ser objecto de um emparcelamento ou de outras intervenções públicas de ordenamento fundiário similares, os Estados-Membros tomarão as medidas necessárias para a adaptação dos compromissos à nova situação da exploração. Se essa adaptação se revelar impossível, o compromisso termina sem que seja solicitado um reembolso relativamente ao período efectivo do compromisso."
+  },
+  "0ba6aeed4389dbad": {
+   "fragment_id": "Artigo 30.º",
+   "type": "artigo",
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n1. Sem prejuízo da necessidade de ter em conta as circunstância relativas a casos individuais, os Estados-Membros podem admitir, nomeadamente, as seguinte categorias de força maior:\n\na) morte do agricultor,\n\nb) incapacidade profissional de longa duração do agricultor,\n\nc) expropriação de uma parte importante da exploração agrícola, no caso de essa expropriação não ser previsível no dia em que o compromisso foi assumido,\n\nd) catástrofe natural grave que afecte de modo significativo a superfície agrícola da exploração,\n\ne) destruição acidental das instalações pecuárias do agricultor,\n\nf) epizootia que afecte a totalidade ou parte dos efectivos do agricultor.\n\nOs Estados-Membros informarão a Comissão das categorias que reconheçam como de força maior.\n\n2. Os casos de força maior e as respectivas provas, que devem constituir prova suficiente perante a autoridade competente, serão comunicados por escrito a esta última no prazo de 10 dias úteis a contar da data em que o agricultor esteja em condições de o fazer."
+  },
+  "4f4bae739288aa7d": {
+   "fragment_id": "CAPÍTULO III — PRINCÍPIOS GERAIS E DISPOSIÇÕES ADMINISTRATIVAS E FINANCEIRAS",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — PRINCÍPIOS GERAIS E DISPOSIÇÕES ADMINISTRATIVAS E FINANCEIRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — PRINCÍPIOS GERAIS E DISPOSIÇÕES ADMINISTRATIVAS E FINANCEIRAS"
+  },
+  "e9bbdfe1f4109364": {
+   "fragment_id": "SECÇÃO 1 — Princípios gerais",
+   "type": "divisao",
+   "heading": "SECÇÃO 1 — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 1 — Princípios gerais"
+  },
+  "371709971a970107": {
+   "fragment_id": "Artigo 31.º",
+   "type": "artigo",
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n1. Para efeitos da execução do n.o 3, segundo parágrafo, do artigo 37.o do Regulamento (CE) n.o 1257/1999, serão aplicáveis os critérios previsto nos n.os 2 e 3 do presente artigo.\n\n2. As medidas ambientais aplicadas no quadro das organizações comuns de mercado, das medidas relativas à qualidade agrícola e à saúde ou das medidas de desenvolvimento rural distintas do apoio agro ambiental não prejudicam o apoio agro ambiental para as mesmas produções, desde que este apoio seja complementar e coerente com essas medidas.\n\nNeste contexto:\n\na) as medidas agroambientais relativas a terras retiradas da produção em conformidade com o artigo 6.o do Regulamento (CE) n.o 1251/1999 do Conselho(27) só serão elegíveis para apoio se os compromissos ultrapassarem as medidas ambientais adequadas previstas no n.o 2 do artigo 6.o desse regulamento,\n\nb) no caso da extensificação da produção de carne de bovino, a ajuda terá em conta o pagamento relativo à extensificação efectuado a título do artigo 13.o do Regulamento (CE) n.o 1254/1999 do Conselho(28),\n\nc) no caso do apoio às zonas desfavorecidas e às zonas submetidas a condicionantes ambientais, os compromissos agroambientais terão em conta as condições previstas para o apoio nas zonas em causa.\n\nQuando ocorra tal combinação, o nível do apoio terá em conta as perdas de rendimento e os custos adicionais específicos resultantes da mesma.\n\nEm nenhum caso, o mesmo compromisso pode ser objecto de pagamentos simultaneamente a título do apoio agroambiental e de um outro regime de ajuda comunitário.\n\n3. Qualquer excepção referida no primeiro travessão do segundo parágrafo do n.o 3 do artigo 37.o do Regulamento (CE) n.o 1257/1999 será proposta pelos Estados-Membros no âmbito dos planos de desenvolvimento rural."
+  },
+  "7b13730e511e82e6": {
+   "fragment_id": "Artigo 32.º",
+   "type": "artigo",
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nOs pagamentos a título das medidas de desenvolvimento rural serão integralmente pagos aos beneficiários."
+  },
+  "58bda6258e905729": {
+   "fragment_id": "SECÇÃO 2 — Programação",
+   "type": "divisao",
+   "heading": "SECÇÃO 2 — Programação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 2 — Programação"
+  },
+  "38f8dad4ba5fcc13": {
+   "fragment_id": "Artigo 33.º",
+   "type": "artigo",
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n1. Os planos de desenvolvimento rural serão apresentados de acordo com o artigo 43.o do Regulamento (CE) n.o 1257/1999 e com os requisitos estabelecidos no anexo do presente regulamento.\n\n2. A aprovação nos termos do n.o 2 do artigo 44.o do Regulamento (CE) n.o 1257/1999 determinará o montante total do apoio comunitário.\n\n3. A aprovação abrange apenas a ajuda pública destinada a proporcionar financiamento adicional para as medidas de desenvolvimento rural identificadas em conformidade com o ponto 16 do anexo.\n\n4. Os Estados-Membros colocarão à disposição do público os documentos de programação em matéria de desenvolvimento rural."
+  },
+  "bdd06698f4c887ca": {
+   "fragment_id": "Artigo 34.º",
+   "type": "artigo",
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nSempre que as medidas de desenvolvimento rural sejam apresentadas sob a forma de disposições-quadro de carácter geral, os planos de desenvolvimento rural farão referência a essas disposições.\n\nNesse caso, os requisitos do artigo 33.o serão inteiramente respeitados."
+  },
+  "888fbc63c9c1e051": {
+   "fragment_id": "Artigo 35.º",
+   "type": "artigo",
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1. Qualquer alteração dos documentos de programação em matéria de desenvolvimento rural será devidamente justificada, nomeadamente com base nas seguintes informações:\n\na) razões e problemas de aplicação, se existirem, que justificam o ajustamento do documento de programação,\n\nb) efeitos esperados da alteração,\n\nc) consequências para o financiamento e a verificação dos compromissos.\n\n2. A Comissão aprovará, de acordo com o procedimento do n.o 2 do artigo 50.o do Regulamento (CE) n.o 1260/1999, qualquer alteração dos documentos de programação em matéria de desenvolvimento rural que:\n\na) afecte as prioridades,\n\nb) altere as características principais das medidas de apoio indicadas no anexo, incluindo alterações da taxa da contribuição comunitária,\n\nc) altere o montante máximo do apoio comunitário,\n\nd) altere o montante financeiro previsto para qualquer medida em mais de 25 % relativamente ao montante previsto para o ano em causa, para a medida em causa ou 5 % relativamente ao montante total previsto para o ano em causa, sendo tido em consideração o montante mais elevado, calculado com base no documento de programação em matéria de desenvolvimento rural aprovado pela Comissão,\n\ne) altere o financiamento adicional através de apoio estatal para qualquer medida em mais do que 25 % relativamente ao montante previsto para o ano em causa, para a medida em causa, ou 5 % relativamente ao montante total previsto para o ano em causa, sendo tido em consideração o montante mais elevado, calculado com base no documento de programação em matéria de desenvolvimento rural aprovado pela Comissão.\n\nQualquer outra alteração será comunicada à Comissão no mínimo dois meses antes da sua entrada em vigor.\n\n3. Se for caso disso, os documentos de programação em matéria de desenvolvimento rural serão revistos em função de alterações subsequentes da legislação comunitária. A segunda frase do primeiro parágrafo do n.o 2 não se aplicará a essas revisões."
+  },
+  "043f88df13e7df1c": {
+   "fragment_id": "SECÇÃO 3 — Medidas adicionais e iniciativas comunitárias",
+   "type": "divisao",
+   "heading": "SECÇÃO 3 — Medidas adicionais e iniciativas comunitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 3 — Medidas adicionais e iniciativas comunitárias"
+  },
+  "3167cf7213f3c1d5": {
+   "fragment_id": "Artigo 36.º",
+   "type": "artigo",
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nNos termos do artigo 45.o do Regulamento (CE) n.o 1257/1999, o âmbito da assistência do FEOGA, secção Orientação, para as medidas da iniciativa comunitária de desenvolvimento rural é alargado a toda a Comunidade e o seu financiamento é alargado às medidas elegíveis a título do Regulamento (CE) n.o 1261/1999(29) e (CE) n.o 1262/1999 do Parlamento Europeu e do Conselho(30)."
+  },
+  "318a2d1e5df30388": {
+   "fragment_id": "SECÇÃO 4 — Disposições financeiras",
+   "type": "divisao",
+   "heading": "SECÇÃO 4 — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 4 — Disposições financeiras"
+  },
+  "7439988bac4da7c2": {
+   "fragment_id": "Artigo 37.º",
+   "type": "artigo",
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n1. Até 30 de Setembro de cada anos, os Estados-Membros comunicarão à Comissão relativamente a cada documento de programação em matéria de desenvolvimento rural:\n\na) o ponto da situação das despesas realizadas no exercício em curso e a realizar até ao final desse exercício,\n\ne\n\nb) as previsões de despesas revistas para os exercícios seguintes até ao final do período de programação em causa, no respeito da dotação atribuída a cada Estado-Membro.\n\n2. Sem prejuízo das regras gerais estabelecidas em matéria de disciplina orçamental, sempre que as informações que os Estados-Membros se obrigam a transmitir à Comissão em conformidade com o n.o 1 estejam incompletas ou o prazo não tenha sido respeitado, a Comissão reduzirá os adiantamentos sobre a contabilização das despesas agrícolas numa base temporária e forfetária."
+  },
+  "4828b153d110869e": {
+   "fragment_id": "Artigo 38.º",
+   "type": "artigo",
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nOs serviços pagadores podem contabilizar, o título de despesa do mês seguinte à decisão de aprovação do documento de programação em matéria de desenvolvimento rural, um adiantamento de 12,5 %, no máximo, de uma anuidade média do total dos recursos comunitário previstos no documento de programação.\n\nEsse adiantamento constituirá um fundo de maneio que, em princípio, só será recuperado no final do período de programação para cada documento de programação em matéria de desenvolvimento rural."
+  },
+  "1371e5fb65caec3e": {
+   "fragment_id": "Artigo 39.º",
+   "type": "artigo",
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\n1. Relativamente a cada Estado-Membro, as despesas declaradas a título de um exercício só serão financiadas até ao limite dos montantes que tenham sido comunicados em aplicação do n.o 1, alínea b) do artigo 37.o e que estejam cobertos pelas dotações inscritas no orçamento do exercício em causa.\n\n2. Se as despesas efectivas de um Estado-Membro relativas a um exercício excederem os montantes comunicados em aplicação do n.o 1, alínea b) do artigo 37.o, as despesas excedentárias do exercício em curso serão contabilizadas até ao limite das dotações que permaneçam disponíveis após o reembolso das despesas aos outros Estados-Membros e proporcionalmente às superações verificadas.\n\n3. Se as despesas efectivas de um Estado-Membro relativas a um dado exercício forem inferiores a um limiar de 75 % dos montantes referidos no n.o 1, as despesas a reconhecer a título do exercício seguinte serão reduzidas de um terço da diferença verificada entre esse limiar e as despesas efectivas verificadas durante esse exercício.\n\nEssa redução não será tida em conta na verificação das despesas efectivas durante o exercício seguinte àquele em que a redução foi efectuada.\n\n4. O parágrafo 3 não se aplica relativamente à primeira declaração de despesa apresentada no âmbito do documento de programação de desenvolvimento rural."
+  },
+  "be907b5870a90f8e": {
+   "fragment_id": "Artigo 40.º",
+   "type": "artigo",
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nA participação no financiamento das avaliações nos Estados-Membros em aplicação do n.o 2 do artigo 49.o do Regulamento (CE) n.o 1257/1999 será aplicável às avaliações que, devido ao seu alcance, nomeadamente através das suas respostas às questões de avaliação comuns e através da sua qualidade, contribuam efectivamente para a avaliação a nível comunitário.\n\nA participação não excederá 50 % de um limite máximo que, excepto em caso devidamente justificados, será de 1 % dos custos totais do programa de desenvolvimento rural. No âmbito de cada programa de desenvolvimento rural, pelo menos 40 % do co-financiamento dirá respeito à avaliação ex post."
+  },
+  "2932c9398f6cb228": {
+   "fragment_id": "SECÇÃO 5 — Acompanhamento e avaliacão",
+   "type": "divisao",
+   "heading": "SECÇÃO 5 — Acompanhamento e avaliacão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 5 — Acompanhamento e avaliacão"
+  },
+  "c151f35bfd0fb62f": {
+   "fragment_id": "Artigo 41.º",
+   "type": "artigo",
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nNos termos do n.o 2 do artigo 48.o do Regulamento (CE) n.o 1257/1999, os relatórios anuais de execução serão apresentados à Comissão o mais tardar em 30 de Abril de cada ano, abrangendo o ano civil anterior. Todos os relatórios de execução incluirão os seguintes elementos:\n\na) Quaisquer alterações das condições gerais que sejam importantes para a execução da intervenção, designadamente as evoluções socioeconómicas significativas, as alterações das políticas nacionais, regionais ou sectoriais;\n\nb) O estado de adiantamento das medidas e dos eixos prioritários, em relação aos seus objectivos operacionais e específicos, procedendo a uma quantificação dos indicadores;\n\nc) As disposições tomadas pela autoridade de gestão e pelo comité de acompanhamento para assegurar a qualidade e a eficácia da execução, em especial:\n\ni) as acções de acompanhamento, de controlo financeiro e de avaliação, incluindo as modalidades em matéria de recolha de dados,\n\nii) um resumo dos problemas significativos surgidos na gestão da intervenção e eventuais medidas tomadas;\n\nd) As medidas tomadas para assegurar a compatibilidade com as políticas comunitárias.\n\nEsses indicadores referidos no primeiro parágrafo da alínea b), seguirão, na medida do possível, uma recomendação de indicadores comuns que será fornecida pela Comissão. Sempre que forem necessários indicadores adicionais a fim de acompanhar eficazmente os progressos em relação aos objectivos dos documentos de programação em matéria de desenvolvimento rural, estes devem ser igualmente incluídos;"
+  },
+  "f70e8ee8367952ea": {
+   "fragment_id": "Artigo 42.º",
+   "type": "artigo",
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\n1. As avaliações serão realizadas por avaliadores independentes de acordo com práticas de avaliação reconhecidas.\n\n2. As avaliações tratarão em especial questões de avaliação comuns definidas pela Comissão em consulta com os Estados-Membros e, em regra geral, serão acompanhadas de critérios e indicadores relacionados com a realização.\n\n3. Os Estados-Membros reunirão os recursos adequados para as avaliações utilizando os resultados do acompanhamento complementados, se for caso disso, pela recolha de informações adicionais."
+  },
+  "c5eaea9948bd29da": {
+   "fragment_id": "Artigo 43.º",
+   "type": "artigo",
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n1. A avaliação ex ante analisará as disparidades, lacunas e potenciais da situação existente, bem como a coerência da estratégia proposta com a situação e os objectivos, tendo em conta as matérias objecto das questões de avaliação comuns. A avaliação ex ante analisará o impacto esperado das prioridades de acção seleccionadas e quantificarão os seus objectivos se a sua natureza o permitir. Além disso, verificarão as regras de realização propostas e a coerência com a Política Agrícola Comum e as outras políticas.\n\n2. A avaliação ex ante será da responsabilidade das autoridades que elaborem o plano de desenvolvimento rural, e faz parte integrante desse plano."
+  },
+  "4f2a86e2086bf420": {
+   "fragment_id": "Artigo 44.º",
+   "type": "artigo",
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\n1. As avaliação intercalar e ex post dirão respeito às questões específicas do documento de programação em matéria de desenvolvimento rural em causa e às questões de avaliação comums pertinentes a nível comunitário. Esta última dirá respeito às condições de vida e à estrutura do emprego e do rendimento da população rural derivado de actividades agrícolas ou outras, às estruturas agrícolas, às produções agrícolas, à qualidade, à concorrência, aos recursos florestais e ao ambiente. Se uma questão de avaliação comum for inadequada relativamente a um determinado documento de programação em matéria de desenvolvimento rural, tal será justificado.\n\n2. As avaliação intercalar, que incluirá as questões da avaliação, analisará, em especial, os primeiros resultados, a sua relevância e coerância com o documento de programação em matéria de desenvolvimento rural e a medida em que os seus objectivos foram atingidos. Além disso, analisará a utilização dos recursos financeiros, a realização do acompanhamento e a execução.\n\nAs avaliação ex post, que responderá às questões da avaliação, analisará, em especial, a utilização dos recursos e a eficácia da assistência e o seu impacto e estabelecerá conclusões relativamente à política de desenvolvimento rural, incluindo as suas contribuições para a Política Agrícola Comum.\n\n3. As avaliação intercalar e ex post serão realizadas em consulta com a Comissão sob a responsabilidade da autoridade encarregada da gestão da programação de desenvolvimento rural.\n\n4. A qualidade de cada avaliação será analisada, de acordo com métodos reconhecidos, pela autoridade responsável pela gestão do documento de programação em matéria de desenvolvimento rural, pelo comité de acompanhamento e pela Comissão. Os resultados das avaliações serão publicados."
+  },
+  "75d7eb32a03f0bda": {
+   "fragment_id": "Artigo 45.º",
+   "type": "artigo",
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\n1. O mais tardar em 31 de Dezembro de 2003 será transmitido à Comissão um relatório de avaliação intercalar. A autoridade responsável pela gestão do documento de programação em matéria de desenvolvimento rural informará a Comissão do seguimento dado às recomendações contidas nesse relatório de avaliação. Após a recepção dos relatórios de avaliação, a Comissão preparará uma síntese a nível comunitário. Se for caso disso, a avaliação intercalar será actualizada em 31 de Dezembro de 2005.\n\n2. O mais tardar dois anos após o termo do período de programação, será transmitido à Comissão um relatório de avaliação ex post. Nos três anos seguintes ao termo do período de programação e depois da recepção dos relatórios de avaliação, a Comissão preparará uma síntese a nível comunitário.\n\n3. Os relatórios de avaliação exporão os métodos aplicados, incluindo as implicações para a qualidade dos dados e das conclusões. Esses relatórios incluirão uma descrição do contexto e conteúdo do programa, informações financeiras, respostas, incluindo os indicadores utilizados, às questões de avaliação comuns e às questões de avaliação definidas a nível nacional ou regional, conclusões e recomendações. Na medida do possível, a sua estrutura respeitará uma estrutura comum para os relatórios de avaliação a definir numa recomendação da Comissão."
+  },
+  "8fcbedca20203f87": {
+   "fragment_id": "SECÇÃO 6 — Pedidos de apoio, controlos e sancões",
+   "type": "divisao",
+   "heading": "SECÇÃO 6 — Pedidos de apoio, controlos e sancões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 6 — Pedidos de apoio, controlos e sancões"
+  },
+  "8225eb898d7b2b50": {
+   "fragment_id": "Artigo 46.º",
+   "type": "artigo",
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\n1. Os pedidos de apoio ao desenvolvimento rural relativos a superfícies ou animais, que são apresentados separadamente dos pedidos de ajudas referidos no artigo 4.o do Regulamento (CEE) n.o 3887/92, indicarão todas as superfícies e todos os animais da exploração relevantes para o controlo dos pedidos relativos à medida em causa, incluindo aqueles para os quais não é pedido apoio.\n\n2. Sempre que uma medida de apoio ao desenvolvimento rural seja relativa a superfícies, dirá respeito a parcelas identificadas individualmente. Durante o período de um compromisso, as parcelas a que o apoio diga respeito não podem ser permutadas, a não ser que tal esteja previsto no documento de programação em matéria de desenvolvimento rural.\n\n3. Sempre que um pedido de pagamento seja apresentado conjuntamente com um pedido de ajuda superfície do sistema de controlo integrado, o Estado-Membro exigirá que as parcelas para as quais é solicitado o apoio ao desenvolvimento rural sejam declaradas separadamente no pedido de ajuda superfície do sistema de controlo integrado.\n\n4. As superfícies e os animais serão identificados em conformidade com os artigos 4.o e 5.o do Regulamento (CEE) n.o 3508/92."
+  },
+  "6278e4b8eda0bc44": {
+   "fragment_id": "Artigo 47.º",
+   "type": "artigo",
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\n1. Os controlos dos pedidos iniciais a título de um regime e os pedidos consecutivos de pagamento serão efectuados de um modo que garanta a verificação eficaz do cumprimento das condições para a concessão da ajuda. Em função da natureza da medida de apoio, os Estados-Membros defínirão os regimes e os meios para a sua verificação, bem como as pessoas a submeter a controlo. Em todos os casos adequados, os Estados-Membros recorrerão ao sistema integrado de gestão e de controlo previsto pelo Regulamento (CEE) n.o 3508/92.\n\n2. As verificações serão realizadas através de controlos administrativos e de controlos no local.\n\n3. Os controlos administrativos serão exaustivos e incluirão controlos cruzados com, nomeadamente, em todos os casos adequados, dados do sistema integrado de gestão e de controlo, relativamente a parcelas e animais objecto de uma medida de apoio, para evitar todos os pagamentos injustificados de ajuda a título do mesmo ano de execução. O respeito dos compromissos a longo prazo deve igualmente ser controlado.\n\n4. Os controlos no local serão realizados em conformidade com os artigos 6.o e 7.o do Regulamento (CEE) n.o 3887/92 da Comissão. Esses controlos incidirão em pelo menos 5 % dos beneficiários em cada ano e abrangerão o conjunto dos diferentes tipos de medidas de desenvolvimento rural previstas nos documentos de programação.\n\nOs controlos no local serão repartidos ao longo do ano de acordo com uma análise dos riscos associados a cada medida de desenvolvimento rural. Serão objecto de controlo todos os compromissos e obrigações de um beneficiário que seja possível controlar quando for efectuada a visita."
+  },
+  "ace173facafb91eb": {
+   "fragment_id": "Artigo 48.º",
+   "type": "artigo",
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\n1. Os n.os 1 e 2 do artigo 9.o do Regulamento (CEE) n.o 3887/92 serão aplicáveis ao apoio concedido com base em superficies e os n.os 2, 3, 7, 11 e 12 do artigo 10.o do mesmo regulamento ao apoio concedido com base em animais.\n\nAlém disso, o n.o 1, alínea a), do artigo 11.o e os artigos 12.o, 13.o e 14.o do Regulamento (CEE) n.o 3887/92 serão aplicáveis aos referidos apoios.\n\n2. Os Estados-Membros determinarão o regime de sanções a aplicar em caso de não respeito das obrigações subscritas e das disposições regulamentares aplicáveis ao caso e adoptarão todas as medidas necessárias para a aplicação desse regime. As referidas sanções serão eficazes, proporcionais ao seu objectivo e terão um efeito dissuasivo adequado.\n\n3. Sempre que se verificar que foi prestada uma falsa declaração por negligência grave, o beneficiário em causa fica excluído de todas as medidas de desenvolvimento rural no âmbito do capítulo relevante do Regulamento (CE) n.o 1257/1999 durante o ano civil em causa. Em caso de falsa declaração prestada intencionalmente, ficará igualmente excluído no ano seguinte. Esta sanção será aplicável sem prejuízo de sanções adicionais previstas pela regulamentação nacional."
+  },
+  "a46166a5f92ec252": {
+   "fragment_id": "CAPÍTULO IV — REGRAS FINAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — REGRAS FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — REGRAS FINAIS"
+  },
+  "12eb3342c785ff8c": {
+   "fragment_id": "Artigo 49.º",
+   "type": "artigo",
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\n1. São revogados os Regulamentos (CEE) n.o 2084/80, (CEE) n.o 220/91, (CE) n.o 860/94, (CE) n.o 1025/94, 1054/94, (CE) n.o 1282/94, (CE) n.o 1404/94, (CE) n.o 1682/94, (CE) n.o 1844/94 e (CE) n.o 746/96 e as Decisões 92/522/CE e 94/173/CE.\n\n2. Os regulamentos e decisões revogados no n.o 1 continuarão a aplicar-se às acções aprovadas pela Comissão ao abrigo dos regulamentos referidos no n.o 1 do artigo 55.o do regulamento do Conselho antes de 1 de Janeiro de 2000."
+  },
+  "aabb77367da9aed1": {
+   "fragment_id": "Artigo 50.º",
+   "type": "artigo",
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável, em relação ao apoio comunitário, a partir de 1 de Janeiro de 2000.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 23 de Julho de 1999.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO L 160 de 26.6.1999, p. 80.\n\n(2) JO L 215 de 30.7.1992, p. 91.\n\n(3) JO L 288 de 1.12.1995, p. 37.\n\n(4) JO L 215 de 30.7.1992, p. 85.\n\n(5) JO L 288 de 1.2.1995, p. 35.\n\n(6) JO L 102 de 25.4.1996, p. 19.\n\n(7) JO L 67 de 7.3.1997, p. 2.\n\n(8) JO L 142 de 2.6.1997, p. 22.\n\n(9) JO L 160 de 26.6.1999, p. 103.\n\n(10) JO L 161 de 26.6.1999, p. 1.\n\n(11) JO L 355 de 5.12.1992, p. 1.\n\n(12) JO L 127 de 21.5.1999, p. 4.\n\n(13) JO L 391 de 31.12.1992, p. 36.\n\n(14) JO L 212 de 30.7.1998, p. 23.\n\n(15) JO L 203 de 5.8.1980, p. 9.\n\n(16) JO L 26 de 31.1.1991, p. 15.\n\n(17) JO L 164 de 9.6.1998, p. 5.\n\n(18) JO L 99 de 19.4.1994, p. 7.\n\n(19) JO L 112 de 3.5.1994, p. 27.\n\n(20) JO L 115 de 6.5.1994, p. 6.\n\n(21) JO L 140 de 3.6.1994, p. 14.\n\n(22) JO L 154 de 21.6.1994, p. 8.\n\n(23) JO L 178 de 12.7.1994, p. 42.\n\n(24) JO L 192 de 28.7.1994, p. 9.\n\n(25) JO L 329 de 16.11.1992, p. 1.\n\n(26) JO L 79 de 23.3.1994, p. 29.\n\n(27) JO L 160 de 26.6.1999, p. 1.\n\n(28) JO L 160 de 26.6.1999, p. 21.\n\n(29) JO L 161 de 26.6.1999, p. 43.\n\n(30) JO L 161 de 26.6.1999, p. 48."
+  },
+  "38b06775acc7132a": {
+   "fragment_id": "ANEXO — PLANOS DE DESENVOLVIMENTO RURAL",
+   "type": "divisao",
+   "heading": "ANEXO — PLANOS DE DESENVOLVIMENTO RURAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — PLANOS DE DESENVOLVIMENTO RURAL\n\n1. Título do plano de desenvolvimento rural\n\n2. Estado-Membro e região administrativa (se for caso disso)\n\n3.\n\n1. Zona geográfica abrangida pelo plano\n\nArtigo 41.o do Regulamento (CE) n.o 1257/1999.\n\n2. Regiões dos objectivos n.os 1 e 2\n\nArtigo 40.o do Regulamento (CE) n.o 1257/1999.\n\nIdentificar:\n\n- Regiões do objectivo n.o 1 e regiões do objectivo n.o 1 em transição. Só se aplica às medidas de acompanhamento (reforma antecipada, indemnizações compensatórias, medidas agroambientais e florestação das terras agrícolas a título do artigo 31.o do regulamento do Conselho);\n\n- Regiões do objectivo n.o 2. Aplica-se:\n\n1. às medidas de acompanhamento,\n\n2. às outras medidas que não fazem parte da programação do objectivo n.o 2.\n\n4. Planeamento ao nível geográfico mais adequado\n\nN.o 2 do artigo 41.o do Regulamento (CE) n.o 1257/1999.\n\nSempre que, excepcionalmente, forem aplicáveis na região vários planos de desenvolvimento rural, indicar:\n\n- Todos os planos em causa;\n\n- A razão da impossibilidade de integrar as medidas num único plano;\n\n- A relação entre as medidas dos vários planos e informações sobre como serão asseguradas a compatibilidade e a coerência entre os mesmos.\n\n5. Descrição quantificada da situação actual\n\nN.o 1, primeiro travessão, do artigo 43.o do Regulamento (CE) n.o 1257/1999.\n\n1. Descrição da situação actual\n\nDescrever, utilizando dados quantificados, a situação actual da zona geográfica, pondo em evidência os pontos fortes, disparidades, lacunas e potencial de desenvolvimento rural. Esta descrição dirá respeito aos sectores agrícola e florestal (incluindo a natureza e importância das deficiências a nível da agricultura nas eventuais zonas desfavorecidas), à economia rural, à situação demográfica, aos recursos humanos, ao emprego e ao estado do ambiente.\n\n2. Impactos do período de programação anterior\n\nDescrever os impactos dos recursos financeiros atribuídos ao desenvolvimento rural no quadro do FEOGA nos anteriores períodos de programação e a título das medidas de acompanhamento desde 1992. Apresentar os resultados das avaliações.\n\n3. Outras informações\n\nSe for caso disso, descrever igualmente as medidas complementares das medidas comunitárias de desenvolvimento rural e acompanhamento que tenham tido impacto na zona de programação em causa.\n\n6. Descrição da estratégia proposta, dos seus objectivos quantitativos, das prioridades de desenvolvimento rural seleccionadas, bem como indicação da zona geográfica abrangida\n\nN.o 1, segundo travessão, do artigo 43.o do Regulamento (CE) n.o 1257/1999.\n\n1. Estratégia proposta, objectivos quantitativos e prioridades seleccionadas\n\nNo que se refere aos pontos fortes, disparidades, lacunas e potencialidades de desenvolvimento identificadas na zona em causa, descrever nomeadamente:\n\n- As prioridades das acções;\n\n- A estratégia adequada para atingir as prioridades;\n\n- Os objectivos operacionais e impactos esperados, quantificados sempre que possível, tanto em termos de acompanhamento como em termos de estimativas de avaliação;\n\n- Em que medida a estratégia tem em conta as características específicas das zonas em causa;\n\n- O modo como a abordagem integrada foi incluída;\n\n- Em que medida a estratégia tem em conta a integração das mulheres e homens;\n\n- Em que medida a estratégia tem em conta todas as obrigações internacionais, comunitárias e nacionais relevantes, relativas à política ambiental, incluindo as respeitantes ao desenvolvimento sustentável, nomeadamente a qualidade e utilização da água, a conservação da biodiversidade, incluindo a conservação das variedades vegetais cultivadas nas explorações agrícolas, e o aquecimento global.\n\n2. Descrição e efeitos de outras medidas\n\nAlém disso, a descrição deve, se for caso disso, explicar as medidas tomadas fora do âmbito do plano de desenvolvimento rural (outras medidas comunitárias ou nacionais, tais como regras obrigatórias, códigos de práticas e medidas objecto de auxílios estatais) e em que medida as necessidades identificadas serão satisfeitas.\n\n3. Zonas abrangidas por medidas territoriais específicas\n\nRelativamente a qualquer medida constante do ponto 8 que não seja aplicável em toda a região indicada no ponto 3, descrever a zona de aplicação.\n\nDefinir nomeadamente:\n\n- a lista de zonas desfavorecidas adoptada para a zona em causa,\n\n- quaisquer alterações da lista de zonas desfavorecidas com a respectiva justificação (n.o 4 do artigo 55.o do regulamento do Conselho),\n\n- as zonas com condicionantes ambientais com a devida justificação.\n\n4. Calendário e participação\n\nCalendário proposto para a execução das diferentes medidas, participação esperada e duração (ver igualmente o ponto 8).\n\n7. Avaliação do impacto económico, ambiental e social esperado\n\nN.o 1, terceiro travessão, do artigo 43.o do Regulamento (CE) n.o 1257/1999.\n\nInformações pormenorizadas em conformidade com o artigo 43.o\n\n8. Quadro financeiro global indicativo\n\nN.o 1, quarto travessão, do artigo 43.o do Regulamento (CE) n.o 1257/1999.\n\nQuadro financeiro indicativo: programas de desenvolvimento rural\n\n>POSIÇÃO NUMA TABELA>\n\n- As medidas são definidas do seguinte modo:\n\na) Investimento nas explorações agrícolas;\n\nb) Instalação de jovens agricultores;\n\nc) Formação;\n\nd) Reforma antecipada;\n\ne) Zonas desfavorecidas e regiões com condicionantes ambientais;\n\nf) Medidas agroambientais;\n\ng) Melhoria da transformação e comercialização de produtos agrícolas;\n\nh) Florestação de terras agrícolas;\n\ni) Outras medidas florestais;\n\nj) Melhoramento fundiário;\n\nk) Emparcelamento;\n\nl) Instalação de serviços de substituição e de gestão nas explorações;\n\nm) Comercialização de produtos agrícolas de qualidade;\n\nn) Serviços básicos para a economia e a população rurais;\n\no) Renovação e desenvolvimento de aldeias e protecção e conservação do património rural;\n\np) Diversificação das actividades no domínio da agricultura ou próximo da agricultura, para criar actividades múltiplas ou rendimentos alternativos;\n\nq) Gestão dos recursos hídricos agrícolas;\n\nr) Desenvolvimento e melhoria das infra-estruturas ligadas ao desenvolvimento da agricultura;\n\ns) Incentivo das actividades de turismo e artesanato;\n\nt) Protecção do ambiente em relação com a preservação da agricultura, das florestas e da paisagem e com a melhoria do bem-estar animal;\n\nu) Reconstituição do potencial de produção agrícola danificado por catástrofes naturais e introdução de instrumentos de prevenção adequados;\n\nv) Engenharia financeira.\n\n9. Descrição das medidas previstas para aplicação dos planos\n\nN.o 1, quinto travessão, do artigo 43.o do Regulamento (CE) n.o 1257/1999.\n\nPara cada ponto infra, fornecer:\n\nA. Aspectos principais das medidas de apoio;\n\nB. Outros elementos.\n\n1. Exigências gerais\n\nA. Aspectos principais das medidas de apoio:\n\n- Lista das medidas de acordo com a ordem constante de regulamento do Conselho;\n\n- Identificação do artigo (e número) correspondente a cada medida de pagamento a favor do desenvolvimento rural. Se forem indicados dois ou mais artigos, a medida de pagamento deve ser dividida nas suas partes constitutivas.\n\nB. Outros elementos:\n\nNenhum.\n\n2. Exigências respeitantes a todas ou várias medidas(1)\n\nA. Aspectos principais:\n\n- Contribuição comunitária baseada no custo total ou na despesa pública;\n\n- Intensidades e/ou montantes da ajuda e diferenciação aplicada (capítulos I a VIII);\n\n- Excepções referidas no n.o 3, primeiro travessão do segundo parágrafo, do artigo 37.o de regulamento do Conselho.\n\nB. Outros elementos:\n\n- Informações pormenorizadas sobre as condições de elegibilidade;\n\n- Critérios de demonstração da viabilidade económica;\n\n- Boas práticas agrícolas correntes (capítulos V e VI);\n\n- Normas mínimas em matéria de ambiente, higiene e bem-estar dos animais (capítulos I, II e VII);\n\n- Nível de aptidões e capacidades profissionais adequadas (capítulo I, II e IV);\n\n- Avaliação suficiente da existência de escoamento normal no mercado para os produtos em causa (capítulo I e VII) em conformidade com os artigos 6 e 26 de regulamento do Conselho;\n\n- Descrição de todos os contratos em execução (do período anterior), nomeadamente em termos financeiros, e procedimentos/normas que lhes são aplicáveis.\n\n3. Informações exigidas para as diferentes medidas\n\nAlém disso, são exigidas as seguintes informações para as medidas de cada capítulo:\n\nI. Investimento nas explorações agrícolas\n\nA. Aspectos principais:\n\n- Sectores de produção primária e tipos de investimentos.\n\nB. Outros elementos:\n\n- Limites máximos do montante de investimento total elegível para apoio;\n\n- Tipos de ajuda.\n\nII. Instalação de jovens agricultores\n\nA. Aspectos principais:\n\nNenhum.\n\nB. Outros elementos:\n\n- Período concedido aos jovens agricultores para satisfazerem os critérios de elegibilidade dentro do período autorizado de três anos em conformidade com o artigo 5o do Regulamento (CE) n.o 1257/1999;\n\n- Limites de idade;\n\n- Condições aplicáveis aos jovens agricultores não estabelecidos como titular único da exploração ou estabelecidos como membros de associações ou cooperativas cujo principal objectivo consiste na gestão de uma exploração agrícola;\n\n- Tipo de ajuda à instalação.\n\nIII. Formação\n\nA. Aspectos principais:\n\nNenhum.\n\nB. Outros elementos:\n\n- Acções elegíveis e beneficiários;\n\n- Garantia de que os regimes e programas educativos normais não serão propostos para financiamento.\n\nIV. Reforma antecipada\n\nA. Aspectos principais:\n\nNenhum.\n\nB. Outros elementos:\n\n- Informações pormenorizadas sobre as condições relativas ao cedente, ao cessionário, ao trabalhador e às terras libertadas, nomeadamente a utilização das terras mantidas pelo cedente para fins não comerciais e o período para melhorar a viabilidade;\n\n- Tipo da ajuda, incluindo uma descrição do regime utilizado para calcular o montante máximo co-financiável por exploração e uma justificação em função do tipo de beneficiário;\n\n- Descrição dos regimes nacionais de reforma e de reforma antecipada;\n\n- Informações sobre a duração da ajuda.\n\nV. Zonas desfavorecidas e regiões com condicionantes ambientais\n\nA. Aspectos principais:\n\n- Nível do montante da ajuda:\n\n1. Para as indemnizações compensatórias a título da alínea a) do artigo 13.o do regulamento do Conselho: a justificação de madulação do montante da ajuda em função dos critérios do n.o 2 do artigo 15o do regulamento do Conselho;\n\n2. Para as indemnizações compensatórias a título da alínea a) do artigo 13.o do regulamento do Conselho: as propostas de utilização das disposições de flexibilidade relativas ao montante co-financiável máximo a título do n.o 3, segundo parágrafo, do artigo 15.o do regulamento do Conselho devem incluir a necessária justificação. Indicar como se garantirá que o limite máximo das indemnizações compensatórias é respeitado nesses casos e explicar o procedimento administrativo através do qual se garantirá o respeito do montante co-financiável máximo;\n\n3. Para os pagamentos a título da alínea b) do artigo 13.o e do artigo 16o do regulamento do Conselho: cálculos agronómicos pormenorizados que mostrem: a) rendimento perdido e os custos resultantes das condicionantes ambientais, b) pressupostos agronómicos utilizados como ponto de referência.\n\nB. Outros elementos:\n\n- Informações pormenorizadas sobre as condições de elegibilidade, nomeadamente:\n\n1. definição da superfície mínima,\n\n2. descriçâo do mecanisme de conversão adequado utilizado no caso de pastagens comuns.\n\nVI. Medidas agroambientais\n\nA. Aspectos principais:\n\n- Uma justificação dos compromissos tendo em conta os seus impactos esperados;\n\n- Para as raças de animais de exploração em riscos de extinção, elementos de prova do estatuto de raça em perigo coerentes com os dados científicos aceites pelas organizações internacionais consideradas autoridades neste domínio;\n\n- Para os recursos genéticos vegetais ameaçados de erosão genética, elementos de prova da erosão genética com base em resultados científicos e indicadores da ocorrência de variedades endémicas/primitivas (locais), da diversidade da sua população e das práticas agrícolas predominantes ao nível local;\n\n- Informações precisas sobre as obrigações dos agricultores e quaisquer outras condições de acordo, incluindo o âmbito e os procedimentos para o ajustamento dos contratos em vigor;\n\n- Uma descrição do alcance da medida, com indicação da amplitude de aplicação em função das necessidades, do grau de incidência em termos de alcance geográfico, sectorial ou outros;\n\n- Cálculos agronómicos pormenorizados que indiquem: a) a perda de rendimento e os custos resultantes das boas práticas agrícolas correntes, b) os pressupostos agronómicos utilizados como ponto de referência, c) o nível do incentivo e uma justificação do mesmo baseada em critérios objectivos;\n\n- Para os compromissos agroambientais no seu conjunto, devem ser indicadas as suas possibilidades de combinação e garantida a coerência entre esses compromissos.\n\nB. Outros elementos:\n\nNenhum.\n\nVII. Transformação e comercialização de produtos agrícolas\n\nA. Aspectos principais:\n\n- Sectores da produção agrícola de base.\n\nB. Outros elementos:\n\n- Critérios de demonstração dos benefícios económicos para os produtores primários.\n\nVIII. Silvicultura\n\nA. Aspectos principais:\n\n- Defínição de:\n\n- \"terras agrícolas\" a título do artigo 25.o,\n\n- \"agricultor\" a título do artigo 26.o.\n\n- Disposições que garantem que essas acções são adaptadas às condições locais e compatíveis com o ambiente e, se for caso disso, mantêm o equilíbrio entre a silvicultura e as populações de animais selvagens;\n\n- Regimes contratuais entre regiões e beneficiários potenciais no que respeita às acções relacionadas com o artigo 32.o do Regulamento (CE) n.o 1257/1997 do Conselho;\n\nB. Outros elementos:\n\n- Acções elegíveis e beneficiários;\n\n- Ligação entre as acções propostas e os programas florestais nacionais/subnacionais ou instrumentos equivalentes;\n\n- Prova da existência de planos de protecção das florestas previstos na legislação para as zonas classificadas como de alto ou médio risco de incêndio florestal e conformidade das medidas propostas com esses planos de protecção.\n\nIX. Promoção da adaptação e do desenvolvimento das zonas rurais\n\nA. Aspectos principais:\n\n- Descrição e justificação da acção proposta a título de cada medida;\n\nB. Outros elementos:\n\n- Definição da engenharia financeira, que deve estar em conformidade com os critérios gerais de elegibilidade.\n\n10. Se for caso disso, informações sobre as necessidades em termos de estudos, projectos de demonstração e operações de formação ou de assistência técnica\n\nN.o 1, sexto travessão, do artigo 43.o do Regulamento (CE) n.o 1257/1999.\n\n11. Designação das autoridades competentes e dos órgãos responsáveis\n\nN.o 1, sétimo travessão, do artigo 43.o do Regulamento (CE) n.o 1257/1999.\n\n12. Disposições que garantem uma execução eficaz e correcta dos planos, incluindo o seu acompanhamento e avaliação, a definição indicadores quantitativos para avaliação, as regras respeitantes aos controlos e sanções e a publicidade adequada\n\nN.o 1, oitavo travessão, do artigo 43.o do Regulamento (CE) n.o 1257/1999.\n\n1. Informações pormenorizadas sobre a aplicação dos artigos 41.o a 45.o\n\nDevem incluir nomeadamente:\n\n- Descrição dos circuitos financeiros para o pagamento da assistência aos beneficiários finais;\n\n- Regras para o acompanhamento e avaliação do programa, nomeadamente sistemas e procedimentos para a recolha, organização e coordenação de dados relativos aos indicadores financeiros, físicos e de impacto;\n\n- Funções, composição e normas de procedimento de eventuais comités de acompanhamento;\n\n- Codificação. Esta codificação deve respeitar o modelo fornecido pela Comissão.\n\n2. Informações pormenorizadas sobre a aplicação dos artigos 46.o a 48.o nomeadamente no que respeita aos critérios gerais de elegibilidade\n\nDevem ser incluídas as medidas de controlo previstas para verificar o conteúdo do pedido e o respeito das condições de apoio, bem como as regras relativas às sanções.\n\n13. Resultados das consultas realizadas e designação das autoridades e organismos envolvidos, bem como parceiros económicos e sociais\n\nN.o 1, nono travessão, do artigo 43.o do Regulamento (CE) n.o 1257/1999.\n\n1. Descrever:\n\n- Os parceiros económicos e sociais e, se for caso disso, outros órgãos nacionais relevantes a consultar de acordo com as normas e práticas nacionais;\n\n- As autoridades e organismos agrícolas e ambientais a associar, nomeadamente, ao desenvolvimento, aplicação, acompanhamento, avaliação e revisão das medidas agroambientais e outras medidas relativas ao ambiente, garantindo assim o equilíbrio entre estas medidas e outras medidas de desenvolvimento rural.\n\n2. Resumir os resultados das consultas e indicar em que medida foram tidos em conta os pareceres e os conselhos recebidos.\n\n14. Equilíbrio necessário entre as diferentes medidas de apoio\n\nN.o 2, segundo travessão, do artigo 43.o do Regulamento (CE) n.o 1257/1999.\n\n1. Descrever, referindo os pontos fortes, necessidades e potencial:\n\n- O equilíbrio entre as diferentes medidas de desenvolvimento rural;\n\n- Em que medida as medidas agroambientais são aplicáveis em todo o seu território.\n\n2. Essa descrição deve, consoante o caso, referir:\n\n- As medidas tomadas fora do quadro do Regulamento (CE) n.o 1257/1999 do Conselho;\n\n- As medidas tomadas ou previstas a título de planos de desenvolvimento rural separados.\n\n15. Compatibilidade e coerência\n\nN.o 2 do artigo 37.o do Regulamento (CE) n.o 1257/1999.\n\nA. Aspectos principais\n\n1. Avaliação da compatibilidade e coerência com:\n\n- As restantes políticas comunitárias e com as medidas aplicadas para a sua execução, nomeadamente a política da concorrência;\n\n- Os outros instrumentos da política agrícola comum, nomeadamente quando estejam previstas derrogações ao disposto no n.o 3 do artigo 37.o do Regulamento (CE) n.o 1257/1999 do Conselho;\n\n- As outras medidas de apoio incluídas nos planos de desenvolvimento rural;\n\n- Os critérios gerais de elegibilidade.\n\n2. Para as medidas do artigo 33.o do Regulamento (CE) n.o 1257/1999 do Conselho, assegurar e, se for caso disso, demonstrar que:\n\n- As medidas tomadas a título dos sexto, sétimo e nono travessões desse artigo não são susceptíveis de ser financiadas a título do FEDER nas zonas rurais, nas regiões do objectivo n.o 2 e nas regiões em transição;\n\n- As medidas não se situam no âmbito de qualquer outra medida referida no título II do Regulamento (CE) n.o 1257/1999 do Conselho.\n\nB. Outros elementos\n\n3. Nomeadamente, essa avaliação deve abranger as medidas destinadas a garantir a correcta coordenação com as administrações responsáveis:\n\n- Pelas medidas de desenvolvimento rural introduzidas no quadro das organizações de mercado;\n\n- Por quaisquer medidas de desenvolvimento rural previstas pela legislação nacional.\n\n16. Auxílios estatais complementares\n\nArtigo 52.o do Regulamento (CE) n.o 1257/1999.\n\nA. Aspectos principais\n\nIdentificar as medidas para as quais serão concedidos auxílios estatais destinados a fornecer um financiamento complementar [artigo 52.o do Regulamento (EG) n.o 1257/1999 do Conselho]. Deve ser fornecido um quadro indicativo com o montante do apoio complementar a conceder para cada uma das medidas em causa durante cada ano abrangido pelo plano.\n\nB. Outros elementos\n\nNenhum.\n\n(1) Referências aos capítulos do Regulamento (CE) n.o 1257/1999."
+  },
+  "390b401c9c8325a2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1999R1750 — PT — 22.03.2002 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31999R1750) [REGULAMENTO (CE) N.º 1750/1999 DA COMISSÃO](http://publications.europa.eu/resource/celex/31999R1750) [de 23 de Julho de 1999](http://publications.europa.eu/resource/celex/31999R1750) [que estabelece as regras de execução pormenorizadas do Regulamento (CE) n.º 1257/1999 do Conselho relativo ao apoio do Fundo Europeu de Orientação e Garantia Agrícola (FEOGA) ao desenvolvimento rural](http://publications.europa.eu/resource/celex/31999R1750) (JO L 214, 13.8.1999, p.31)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 445/2002 da Comissão de 26 de Fevereiro de 2002](http://publications.europa.eu/resource/celex/32002R0445) — L 74 — 1 — 15.3.2002"
+  }
+ }
+}

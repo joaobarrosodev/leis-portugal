@@ -34,6 +34,64 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2004-12-21'
+version_history:
+  file: regulamento-ue-1975-337.versoes.json
+  count: 2
+  source_lastmod: '2004-12-21'
+  versions:
+  - date: '1975-02-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-12-21'
+    amending: eu:celex:31993R1946:por
+    amending_title: REGULAMENTO (CEE) N o 1946/93 DO CONSELHO de 30 de Junho de 1993; REGULAMENTO (CE) N o 1131/94 DO CONSELHO
+      de 16 de Maio de 1994; REGULAMENTO (CE) N. o 251/95 DO CONSELHO de 6 de Fevereiro de 1995; M4; REGULAMENTO (CE) N. o
+      1655/2003 DO CONSELHO de 18 de Junho de 2003; REGULAMENTO (CE) N. o 2051/2004 DO CONSELHO de 25 de Outubro de 2004;
+      Acto de Adesão da Grécia; A2; Acto relativo às condições de adesão da República Checa, da República da Estónia, da República
+      de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República
+      da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 12.ºA
+    - Adita Artigo 12.ºB
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 14.ºA
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+    - Suprime Artigo 15o
+    - Suprime Artigo 16o
+    - Suprime Artigo 17o
 identifiers:
   celex: 31975R0337
   eli: http://data.europa.eu/eli/reg/1975/337/oj
@@ -48,7 +106,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a642c223-150b-4d34-87e4-1209ee0fc4d4.0011
   content_url: http://publications.europa.eu/resource/cellar/32df05b5-97c0-4d73-87c9-da8824cd5046.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01975R0337-20041221
-  retrieved_at: '2026-10-22T03:02:34Z'
+  retrieved_at: '2026-10-22T14:31:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T05:45:03.696+01:00'
 integrity:
@@ -57,9 +115,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:02:34Z'
-  notes: Texto consolidado 01975R0337-20041221.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:31:22Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1975-337.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -146,40 +204,24 @@ relationships:
   date: '2019-01-31'
 article_structure:
   article_count: 21
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:02:34Z'
-  warnings: []
+  checked_at: '2026-10-22T14:31:22Z'
+  warnings:
+  - '01975R0337-19940901: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01975R0337-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01975R0337-19950301: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01975R0337-20031001: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01975R0337-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CEE) nº 337/75 do Conselho, de 10 de Fevereiro de 1975
-
-> 1975R0337 — PT — 21.12.2004 — 006.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/31993R1946) — [REGULAMENTO (CEE) Nº 1946/93 DO CONSELHO de 30 de Junho de 1993](http://publications.europa.eu/resource/celex/31993R1946) — L 181 — 11 — 23.7.1993
-- [►M2](http://publications.europa.eu/resource/celex/31994R1131) — [REGULAMENTO (CE) Nº 1131/94 DO CONSELHO de 16 de Maio de 1994](http://publications.europa.eu/resource/celex/31994R1131) — L 127 — 1 — 19.5.1994
-- [►M3](http://publications.europa.eu/resource/celex/31995R0251) — [REGULAMENTO (CE) N.º 251/95 DO CONSELHO de 6 de Fevereiro de 1995](http://publications.europa.eu/resource/celex/31995R0251) — L 30 — 1 — 9.2.1995
-- [M4](http://publications.europa.eu/resource/celex/31995R0354) — [REGULAMENTO (CE) N.º 354/95 DO CONSELHO de 20 de Fevereiro de 1995](http://publications.europa.eu/resource/celex/31995R0354) — L 41 — 1 — 23.2.1995
-- [►M5](http://publications.europa.eu/resource/celex/32003R1655) — [REGULAMENTO (CE) N.º 1655/2003 DO CONSELHO de 18 de Junho de 2003](http://publications.europa.eu/resource/celex/32003R1655) — L 245 — 41 — 29.9.2003
-- [►M6](http://publications.europa.eu/resource/celex/32004R2051) — [REGULAMENTO (CE) N.º 2051/2004 DO CONSELHO de 25 de Outubro de 2004](http://publications.europa.eu/resource/celex/32004R2051) — L 355 — 1 — 1.12.2004
-
-**Alterado por:**
-
-- [A1](http://publications.europa.eu/resource/celex/11979H) — [Acto de Adesão da Grécia](http://publications.europa.eu/resource/celex/11979H) — L 291 — 17 — 19.11.1979
-- [A2](http://publications.europa.eu/resource/celex/11985I) — L 302 — 23 — 15.11.1985
-- [A3](http://publications.europa.eu/resource/celex/12003T) — [Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T) — L 236 — 33 — 23.9.2003
-
-## REGULAMENTO (CEE) Nº 337/75 DO CONSELHO
 
 de 10 de Fevereiro 1975
 

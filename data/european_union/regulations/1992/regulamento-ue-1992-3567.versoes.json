@@ -1,0 +1,249 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R3567:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R3567-20020101",
+ "dre_path": null,
+ "source_lastmod": "2002-01-01",
+ "versions": [
+  {
+   "date": "1992-12-11",
+   "future": false,
+   "celex": "31992R3567",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2da29f592165bdbb",
+    "846ed3520c622f67",
+    "c739abf3defaf4d7",
+    "fffad8f38fccb55e",
+    "7fd5f34836dfd3c7",
+    "5350d90898649358",
+    "daa467e53506fb83",
+    "32b09e8fc872a0a6",
+    "a08721b0a2066292",
+    "e9448f2cfe5cded2",
+    "02f53feec38b186b",
+    "1eb28160d8b52b45",
+    "409ea09e93e9bae5",
+    "33e9a1d5bcfbde76",
+    "58aa601d0c88b21e",
+    "29cdf0e006bb857a",
+    "bed5cc843502a81e",
+    "da58e557138df067",
+    "5e3395485c2a3ab8",
+    "1ee089f162c2da37",
+    "2e1f9019cbecc76c"
+   ]
+  },
+  {
+   "date": "2002-01-01",
+   "future": false,
+   "celex": "01992R3567-20020101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime TÍTULO I Limites individuais — Artigo 1°",
+    "Suprime Artigo 2°",
+    "Suprime Artigo 3°",
+    "Suprime Artigo 4°",
+    "Suprime TÍTULO II — Reservas nacionais",
+    "Suprime Artigo 5°",
+    "Suprime Artigo 6°",
+    "Suprime TÍTULO III — Transferência dos direitos e cessões temporárias",
+    "Suprime Artigo 7°",
+    "Suprime Artigo 8°",
+    "Suprime Artigo 9°",
+    "Suprime Artigo 10°",
+    "Suprime Artigo 11°",
+    "Suprime TÍTULO IV — Disposições transitórias e finais",
+    "Suprime Artigo 12°",
+    "Suprime Artigo 13°",
+    "Suprime Artigo 14°",
+    "Suprime Artigo 15°",
+    "Suprime Artigo 16°",
+    "Suprime Artigo 17°"
+   ],
+   "fragments": [
+    "7302ca08193c151e"
+   ]
+  }
+ ],
+ "fragments": {
+  "2da29f592165bdbb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 3567/92 da Comissão, de 10 de Dezembro de 1992, que estabelece normas de execução relativas aos limites individuais, reservas nacionais e transferência de direitos, previstos no Regulamento (CEE) nº 3013/89 do Conselho que estabelece a organização comum de mercado no sector das carnes de ovino e caprino** *Jornal Oficial nº L 362 de 11/12/1992 p. 0041 - 0046 Edição especial finlandesa: Capítulo 3 Fascículo 46 p. 0118 Edição especial sueca: Capítulo 3 Fascículo 46 p. 0118*\n\nREGULAMENTO (CEE) No<?%> 3567/92 DA COMISSÃO\n\nde 10 de Dezembro de 1992\n\nque estabelece normas de execução relativas aos limites individuais, reservas nacionais e transferência de direitos, previstos no Regulamento (CEE) n° 3013/89 do Conselho que estabelece a organização comum de mercado no sector das carnes de ovino e caprino\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) n° 3013/89 do Conselho, de 25 de Setembro de 1989, que estabelece a organização comum de mercado no sector das carnes de ovino e caprino (1), com a última redacção que lhe foi dada pelo Regulamento (CEE) n° 2069/92 (2), e, nomeadamente, o n° 4, alíneas d) e f), do seu artigo 5oA, o no 4o do seu artigo 5oB e o n° 2 do seu artigo 5oC,\n\nConsiderando que, com vista à execução do regime de limites individuais, tal como estatuído pelo novo artigo 5oA do Regulamento (CEE) n° 3013/89, há que precisar as regras relativas à determinação e à comunicação aos produtores dos referidos limites, atendendo, designadamente, às questões especiais relacionadas com os agrupamentos de produtores e com as diferentes taxas de prémio no sector ovino e caprino; que, além disso, se impõe a definição de determinados termos para tornar operacional o mesmo artigo 5oA;\n\nConsiderando que, dado o efeito regulador do regime de limites individuais no mercado, é conveniente prever a reintegração na reserva nacional dos direitos ao prémio que não tenham sido utilizados pelo seu titular durante um período determinado; que é igualmente indicado tomar as medidas adequadas para assegurar que os direitos atribuídos gratuitamente pela reserva nacional sejam utilizados pelos beneficiários estritamente para os fins previstos;\n\nConsiderando que a execução uniforme das disposições relativas à transferência e à cessão temporária de direitos pressupõe a determinação de certas regras administrativas; que, a fim de evitar uma sobrecarga de trabalho administrativo e sem deixar de atender à situação especial dos pequenos produtores, é conveniente fixar o número mínimo de direitos que podem ser transferidos e cedidos temporariamente num nível suficientemente elevado; que essas regras devem igualmente evitar que seja transgredida a obrigação, prevista no n° 4 do artigo 5oA do Regulamento (CEE) n° 3013/89, de ceder à reserva nacional, no caso de transferência de direitos sem transferência de exploração, uma certa percentagem dos direitos transferidos; que, além disso, se deve prever que a cessão temporária seja limitada no tempo, a fim de evitar um desvio das regras relativas às transferências;\n\nConsiderando que se justifica assimilar a uma transferência de exploração o caso especial de um produtor que apenas explora terrenos de natureza pública ou colectiva e transfere todos os seus direitos a um outro produtor, cessando simultaneamente a sua produção;\n\nConsiderando que a aplicação de um sistema administrativo de transferência em que todas as transferências de direitos sem transferência de exploração são operadas exclusivamente por intermédio da reserva nacional requer o estabelecimento de um determinado enquadramento jurídico, com o objectivo de conservar a coerência económica em relação ao sistema da transferência directa de direitos entre produtores; que é, nomeadamente, conveniente prever critérios objectivos para a determinação do montante a pagar pela reserva nacional ao produtor que tenha transferido direitos, bem como do montante a pagar pelo produtor que receba direitos equivalentes a partir da reserva nacional;\n\nConsiderando que a escolha da campanha de 1991 como campanha de referência origina problemas de transição que devem ser resolvidos; que, não deixando de assegurar que o número total de direitos existentes não seja aumentado para além do número de direitos adquiridos e/ou potenciais correspondentes apenas à campanha de 1991, se justifica a previsão da atribuição inicial de direitos a certos produtores que se encontrem em situações bem especificadas; que, para atender às circunstâncias excepcionais que tenham conduzido um produtor a não pedir um prémio para a campanha de 1992, tendo já obtido um prémio para a campanha de 1991, se deve prever a possibilidade de esse produtor receber direitos da reserva nacional; que, além disso, em conformidade com o princípio da confiança legítima, é necessário prever, sob forma de atribuição de direitos suplementares, uma compensação ao produtor cujo limite individual não atinja o nível normal devido à sua participação num programa comunitário de extensificação;\n\nConsiderando que as ilhas Canárias só estão sujeitas às normas da política agrícola comum e, nomeadamente, às do regime de prémio por ovelha, desde 1 de Julho de 1992; que, por esse motivo, os limites individuais dos produtores situados nesse território não podem ser estabelecidos por referência aos prémios concedidos ao abrigo da campanha de 1991; que, no entanto, e para que na medida do possível se não verifique um afastamento em relação à situação económica de 1991, é conveniente determinar os limites individuais com base e dentro dos limites do efectivo recenseado no território em 1991 e tendo em atenção os prémios concedidos aos produtores ao abrigo da campanha de 1992;\n\nConsiderando que a passagem do sistema existente à data de entrada em vigor do Regulamento (CEE) n° 2069/92 para o sistema dos limites individuais pode dar origem, em determinados Estados-membros, a problemas especiais relacionados com as transferências e direitos ao prémio por produtores que não sejam proprietários das superfícies ocupadas pelas suas explorações; que, tendo em vista o bom funcionamento do mercado, se deve prever que esses Estados-membros tomem as medidas adequadas para resolver tais problemas, no respeito do vínculo entre produtor e direitos ao prémio, tal como decorre do regime estabelecido pelo artigo 5oA do Regulamento (CEE) n° 3013/89;\n\nConsiderando que o acompanhamento do novo regime pela Comissão exige que esta esteja bem informada sobre os dados essenciais relativos à sua execução pelas autoridades nacionais; que é, pois, indispensável que os Estados-membros lhe comuniquem as informações necessárias;\n\nConsiderando que o Comité de Gestão da Carne de Ovino e Caprino não emitiu parecer no prazo fixado pelo seu presidente,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "846ed3520c622f67": {
+   "fragment_id": "TÍTULO I Limites individuais — Artigo 1°",
+   "type": "divisao",
+   "heading": "TÍTULO I Limites individuais — Artigo 1°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I Limites individuais — Artigo 1°\n\nO presente regulamento determina as normas de execução do regime dos limites individuais por produtor estatuído pelos artigos 5oA a 5oC do Regulamento (CEE) n° 3013/89."
+  },
+  "c739abf3defaf4d7": {
+   "fragment_id": "Artigo 2°",
+   "type": "artigo",
+   "heading": "Artigo 2°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2°\n\n1. Os Estados-membros determinarão para cada produtor individual ou cada membro de um agrupamento de produtores um limite individual, de acordo com as condições estabelecidas no artigo 5oA do Regulamento (CEE) n° 3013/89. Este limite não pode, em caso algum, ser inferior a 10.\n\n2. No caso dos agrupamentos de produtores criados durante a campanha de 1992, o prémio será pago ao agrupamento até ao limite do número total de animais em relação aos quais tiver sido concedido aos seus membros produtores ao abrigo da campanha de 1991, de acordo com as condições estabelecidas no artigo 5oA do Regulamento (CEE) n° 3013/89.\n\nSerá fixado para cada membro produtor um limite individual ao abrigo da campanha de 1993. Sempre que a natureza do agrupamento não permitir identificar, em relação a cada produtor, a propriedade individual dos animais, esse limite será calculado aplicando ao número total de animais referido no primeiro parágrafo a chave de repartição comunicada pelo agrupamento ao abrigo da campanha de 1992.\n\n3. Será comunicado a cada produtor o montante do seu limite individual, o mais tardar 15 dias antes do termo do período previsto pelo Estado-membro para a apresentação dos pedidos de prémio para a campanha de 1993.\n\nNa comunicação será especificado o número de animais em relação aos quais o produtor tem direito ao prémio à taxa plena, por um lado, e à taxa reduzida (50 %), por outro.\n\nNo caso de o número de prémios a pagar ao abrigo da campanha de 1991 não estar ainda definitivamente determinado, na sequência de um litígio entre o produtor e a autoridade competente, a comunicação pode indicar um limite individual provisório.\n\nNo caso de a aplicação do n° 6 do artigo 6° do Regulamento (CEE) n° 3007/84 da Comissão (1), ao abrigo da campanha de 1991, ter implicado a exclusão do benefício do regime do prémio para a campanha de 1992, o limite individual basear-se-á no número de animais elegíveis apurado aquando do controlo que deu origem à aplicação da citada norma.\n\n4. O coeficiente referido no n° 5 do artigo 5oA só se torna definitivo quando os números totais de animais elegíveis mencionados no mesmo forem comparados com o número total de prémios concedidos na sequência de pedidos considerados admissíveis."
+  },
+  "fffad8f38fccb55e": {
+   "fragment_id": "Artigo 3°",
+   "type": "artigo",
+   "heading": "Artigo 3°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3°\n\nPara efeitos do n° 2 do artigo 5oA do Regulamento (CEE) n° 3013/89:\n\na) Considera-se « campanha mais recente » a campanha anterior à de 1991 em que não se tenham verificado as circunstâncias invocadas; todavia, no que diz respeito à Itália e à Grécia, a campanha mais recente é a de 1992;\n\nb) Podem ser consideradas « circunstâncias naturais » as circunstâncias que tenham dado origem à aplicação do n° 2 do artigo 6° do Regulamento (CEE) n° 3007/84, bem como as circunstâncias seguintes, desde que se tenham verificado antes da apresentação do pedido ou antes da data limite para a apresentação dos pedidos de prémio ao abrigo da campanha de 1991 e sejam reconhecidas pela autoridade competente:\n\n- uma catástrofe natural grave que tenha afectado de modo importante a exploração do produtor,\n\n- a destruição acidental dos recursos forrageiros ou dos edifícios do produtor destinados à criação do seu rebanho ovino e/ou caprino,\n\n- uma epizootia que tenha levado ao abate de, pelo menos, metade do rebanho ovino e/ou caprino do produtor."
+  },
+  "7fd5f34836dfd3c7": {
+   "fragment_id": "Artigo 4°",
+   "type": "artigo",
+   "heading": "Artigo 4°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4°\n\nOs Estados-membros comunicarão à Comissão, o mais tardar em 30 de Abril de 1993:\n\n- a soma total dos limites individuais, discriminada por tipo de região (desfavorecida ou não desfavorecida), bem como por taxa de prémio (taxa plena e taxa reduzida); a Comissão comparará esta soma com o resultado dos prémios concedidos na sequência de pedidos considerados admissíveis ao abrigo da campanha de 1991,\n\n- o número de direitos ao prémio suplementares concedidos aos produtores nos termos do n° 2 do artigo 5oA do Regulamento (CEE) n° 3013/89, especificando o tipo de circunstâncias naturais invocadas."
+  },
+  "5350d90898649358": {
+   "fragment_id": "TÍTULO II — Reservas nacionais",
+   "type": "divisao",
+   "heading": "TÍTULO II — Reservas nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Reservas nacionais"
+  },
+  "daa467e53506fb83": {
+   "fragment_id": "Artigo 5°",
+   "type": "artigo",
+   "heading": "Artigo 5°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5°\n\n1. Os Estados-membros informarão a Comissão:\n\n- antes de 31 de Dezembro de 1992, da percentagem de redução adoptada nos termos do n° 1 do artigo 5oB do Regulamento (CEE) n° 3013/89,\n\n- antes de 31 de Dezembro de 1992, se e em que medida terão decidido alimentar a sua reserva em conformidade com o n° 1, terceiro parágrafo, do artigo 5oA do Regulamento (CEE) n° 3013/89.\n\n2. Os Estados-membros informarão a Comissão, a partir da campanha de 1994:\n\n- o mais tardar em 30 de Abril de cada campanha, do número de direitos ao prémio cedidos à reserva nacional na sequência de transferências de direitos sem transferência de exploração durante a campanha anterior,\n\n- o mais tardar em 30 de Abril de cada campanha, do número de direitos ao prémio concedidos nos termos do n° 2 do artigo 5oB do Regulamento (CEE) n° 3013/89 durante a campanha anterior,\n\n- o mais tardar em 30 de Abril de cada campanha, do número total dos direitos ao prémio concedidos aos produtores das zonas desfavorecidas a partir da reserva nacional suplementar durante a campanha anterior."
+  },
+  "32b09e8fc872a0a6": {
+   "fragment_id": "Artigo 6°",
+   "type": "artigo",
+   "heading": "Artigo 6°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6°\n\n1. No caso de obtenção gratuita de direitos ao prémio a partir da reserva nacional:\n\na) Ao produtor não é permitido transferir ou ceder temporariamente os seus direitos durante as três campanhas seguintes;\n\nb) Sempre que o produtor não exerça a totalidade dos seus direitos durante as três campanhas seguintes, o Estado-membro retirará e reintegrará na reserva nacional a média dos direitos não utilizados durante essas três campanhas.\n\n2. Sem prejuízo do disposto no n° 1 e salvo casos excepcionais devidamente justificados, no caso de um produtor não ter utilizado pelo menos 50 % dos seus direitos durante duas campanhas consecutivas, a parte não utilizada durante a última campanha será transferida para a reserva nacional."
+  },
+  "a08721b0a2066292": {
+   "fragment_id": "TÍTULO III — Transferência dos direitos e cessões temporárias",
+   "type": "divisao",
+   "heading": "TÍTULO III — Transferência dos direitos e cessões temporárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Transferência dos direitos e cessões temporárias"
+  },
+  "e9448f2cfe5cded2": {
+   "fragment_id": "Artigo 7°",
+   "type": "artigo",
+   "heading": "Artigo 7°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7°\n\n1. O número mínimo de direitos ao prémio que podem ser objecto de transferência parcial, sem transferência de exploração, é fixado em:\n\n- 10 % do número representativo da dimensão do rebanho de animais elegíveis, com um máximo de 50, para os produtores que tenham pelo menos 50 direitos ao prémio,\n\n- cinco, para os produtores que tenham entre 20 e 49.\n\nPara os produtores que tenham menos de 20 direitos não é previsto nenhum mínimo.\n\n2. A transferência dos direitos ao prémio e a cessão temporária dos direitos apenas se tornam efectivas após comunicação conjunta às autoridades competentes do Estado-membro pelo produtor que transfere e/ou cede os direitos e pelo que os recebe.\n\nA comunicação será efectuada dentro de um prazo a fixar pelo Estado-membro e, o mais tardar, dois meses antes do primeiro dia do (primeiro) período de apresentação dos pedidos previsto por cada Estado-membro.\n\nTodavia, no que se refere à campanha de 1993, a comunicação será efectuada antes de uma data a fixar pelo Estado-membro.\n\n3. Aquando de uma transferência sem transferência de exploração, o número de direitos cedidos à reserva nacional sem compensação não pode, em caso algum, ser inferior à unidade.\n\n4. A cessão temporária só pode incidir em campanhas inteiras e, pelo menos, no número mínimo de animais previsto no n° 1.\n\nDentro de um período de cinco anos a contar da primeira cessão, o produtor deve utilizar, salvo caso de transferência, a totalidade dos seus direitos para si próprio durante, pelo menos, duas campanhas consecutivas.\n\nSe uma destas condições não se realizar, a cessão caducará. Todavia, em relação aos produtores que participem em programas de extensificação reconhecidos pela Comissão, os Estados-membros podem prever uma prorrogação da duração total da cessão temporária em função dos referidos programas."
+  },
+  "02f53feec38b186b": {
+   "fragment_id": "Artigo 8°",
+   "type": "artigo",
+   "heading": "Artigo 8°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8°\n\nQuando o produtor que transfere ou cede temporariamente os direitos estiver abrangido pela aplicação dos limites referidos no n° 7 do artigo 5° do Regulamento (CEE) n° 3013/89:\n\na) Se transferir ou ceder direitos à taxa reduzida (50 %) a outro produtor que fique aquém dos referidos limites, o número dos direitos adquiridos por este último diminui 50 % e esses direitos tornam-se direitos à taxa plena;\n\nb) Se transferir ou ceder direitos à taxa plena a outro produtor que já tenha excedido os referidos limites, o número dos direitos adquiridos por este último aquando da transferência ou da cessão duplica e esses direitos tornam-se direitos à taxa reduzida (50 %)."
+  },
+  "1eb28160d8b52b45": {
+   "fragment_id": "Artigo 9°",
+   "type": "artigo",
+   "heading": "Artigo 9°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9°\n\nEm caso de transferência ou de cessão temporária, os Estados-membros determinarão o novo limite individual e comunicarão aos produtores em causa, antes do início do primeiro período previsto pelo Estado-membro para a apresentação dos pedidos de prémio, o número de direitos ao prémio à taxa plena e o número de direitos ao prémio à taxa reduzida (50 %)."
+  },
+  "409ea09e93e9bae5": {
+   "fragment_id": "Artigo 10°",
+   "type": "artigo",
+   "heading": "Artigo 10°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10°\n\nO produtor que apenas explore terrenos de natureza pública ou colectiva e decida deixar de explorar esses terrenos e transferir a totalidade dos seus direitos para outro produtor será equiparado ao produtor que vende ou transfere a sua exploração. Em todos os restantes casos, esse produtor será equiparado ao produtor que transfere apenas os seus direitos ao prémio."
+  },
+  "33e9a1d5bcfbde76": {
+   "fragment_id": "Artigo 11°",
+   "type": "artigo",
+   "heading": "Artigo 11°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11°\n\nSempre que um Estado-membro previr que a transferência dos direitos, sem transferência de exploração, se efectue através da reserva nacional, aplicará disposições nacionais análogas às previstas no presente título III. Nesse caso:\n\n- os Estados-membros podem prever que a cessão temporária se efectue através da reserva nacional,\n\n- aquando da transferência dos direitos ao prémio ou da cessão temporária em caso de aplicação do travessão anterior, a transferência para a reserva só se torna efectiva após notificação pelas autoridades competentes do Estado-membro ao produtor que transfere e/ou cede e a transferência da reserva para outro produtor só se torna efectiva após notificação daquelas autoridades a este produtor.\n\nTais disposições devem ainda assegurar que a parte dos direitos que não a referida no n° 4, terceiro parágrafo da alínea b), do artigo 5oA seja objecto de um pagamento, pelo Estado-membro, correspondente ao que teria resultado de uma transferência directa entre produtores, atendendo, nomeadamente, ao desenvolvimento da produção no Estado-membro em causa. Esse pagamento será igual ao pagamento pedido ao produtor que receba direitos equivalentes a partir da reserva nacional."
+  },
+  "58aa601d0c88b21e": {
+   "fragment_id": "TÍTULO IV — Disposições transitórias e finais",
+   "type": "divisao",
+   "heading": "TÍTULO IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Disposições transitórias e finais"
+  },
+  "29cdf0e006bb857a": {
+   "fragment_id": "Artigo 12°",
+   "type": "artigo",
+   "heading": "Artigo 12°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12°\n\n1. Os produtores que tenham pedido o prémio em 1992 e tenham herdado ou retomado a exploração de outro produtor que tenha obtido o prémio em 1991 e cessado a produção ovina em 1992 obtêm os direitos que este último teria obtido se tivesse continuado a sua produção em 1992.\n\nOs Estados-membros podem conceder, fora da utilização das reservas previstas nos nos 1 e 3 do artigo 5oB, direitos ao prémio aos produtores que tenham pedido o prémio pela primeira vez em 1992 que não sejam os referidos no parágrafo anterior. Todavia, o número total de direitos assim concedidos em cada Estado-membro não pode em caso algum exceder o número total de direitos potenciais correspondente aos produtores que tenham obtido o prémio em 1991 e tenham cessado a produção em 1992 sem sucessor ou pessoa que retome a exploração neste mesmo ano, assim como aos produtores referidos no n° 2.\n\n2. Os produtores que tenham obtido o prémio em 1991, mas que, devido a circunstâncias excepcionais, não o tenham pedido ao abrigo de 1992, tendo todavia continuado a produzir, podem, se for caso disso, receber direitos ao prémio a partir da reserva nacional.\n\n3. Ao produtor que durante a campanha de 1991 tenha participado num programa de extensificação da produção nos termos do Regulamento (CEE) n° 797/85 do Conselho (1) e a seu pedido é atribuído, no termo da sua participação nesse programa, um número suplementar de direitos ao prémio igual à diferença entre o número dos prémios pagos ao abrigo da campanha de 1991 e o número dos prémios pagos ao abrigo da campanha anterior à campanha de início da participação do produtor no referido programa. Nesse caso:\n\na) A esse produtor não é permitido transferir ou ceder temporariamente os seus direitos durante as três campanhas seguintes;\n\nb) Sempre que o produtor não exerça a totalidade dos seus direitos durante as três campanhas seguintes, o Estado-membro retirará e reintegrará na reserva nacional a média dos direitos não utilizados durante essas três campanhas.\n\n4. Em derrogação do disposto no artigo 3° do Regulamento (CEE) n° 3007/84 e no artigo 1° do Regulamento (CEE) n° 2814/90 da Comissão (2) e no que se refere à campanha de 1993, os Estados-membros podem prever um período específico para a apresentação dos pedidos de prémio para:\n\n- os produtores referidos no n° 2 do artigo 5oB do Regulamento (CEE) n° 3013/89,\n\n- os produtores a quem os limites referidos no n° 1 do artigo 2° tenham sido comunicados após a data limite fixada pelo Estado-membro para a apresentação dos pedidos, no caso de esses limites serem superiores ao pedido apresentado inicialmente.\n\nO período específico não pode, todavia, ultrapassar o dia 30 de Junho de 1993.\n\n5. Aos produtores estabelecidos no território das ilhas Canárias que tenham pedido o prémio pela primeira vez ao abrigo da campanha de 1992 são atribuídos direitos ao prémio nas seguintes condições:\n\na) É fixado um limite regional de acordo com os dados estatísticos respeitantes ao número de ovelhas e de cabras presentes em 1991 nesse território, sem que esse limite possa exceder um total de 178 000 cabeças;\n\nb) É fixado, dentro desse limite regional, um limite individual por produtor, tendo em conta o número de animais em relação aos quais o prémio tenha sido concedido ao abrigo da campanha de 1992, assim como os elementos correctores referidos no n° 1 do artigo 5oA do Regulamento (CEE) n° 3013/89.\n\n6. Os Estados-membros informarão a Comissão, antes de 30 de Junho de 1993, das normas nacionais de execução, bem como do número de direitos ao prémio concedidos nos termos dos números anteriores.\n\n7. Qualquer pedido apresentado ao abrigo da campanha de 1993 relativamente a um número de animais superior aos limites individuais fixados nos termos do n° 1 do artigo 2° será diminuído para o número correspondente àqueles limites."
+  },
+  "bed5cc843502a81e": {
+   "fragment_id": "Artigo 13°",
+   "type": "artigo",
+   "heading": "Artigo 13°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13°\n\nSe necessário, os Estados-membros tomarão as medidas transitórias adequadas para encontrar soluções equitativas a problemas que possam surgir nas relações contratuais existentes, aquando da entrada em vigor do presente regulamento, entre produtores que não sejam proprietários do conjunto dos terrenos que exploram e os proprietários desses terrenos, em caso de transferência de direitos ao prémio ou de outros actos com os mesmos efeitos. Tais medidas só podem ser tomadas para resolução de dificuldades relacionadas com a introdução de um regime de direito ao prémio vinculado ao produtor, sempre no respeito dos princípios que regem esse vínculo."
+  },
+  "da58e557138df067": {
+   "fragment_id": "Artigo 14°",
+   "type": "artigo",
+   "heading": "Artigo 14°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14°\n\nNos cálculos iniciais e nas posteriores alterações dos limites individuais dos direitos ao prémio, apenas serão considerados números inteiros.\n\nPara o efeito, se o resultado final das operações aritméticas não for um número inteiro, será escolhido o número inteiro mais aproximado. Todavia, no caso de esse número não inteiro ser exactamente intermédio de dois números inteiros, será escolhido o número inteiro mais elevado."
+  },
+  "5e3395485c2a3ab8": {
+   "fragment_id": "Artigo 15°",
+   "type": "artigo",
+   "heading": "Artigo 15°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15°\n\nOs Estados-membros adoptarão todas as demais medidas adequadas e necessárias para assegurar uma boa aplicação do regime dos limites individuais. Do facto informarão a Comissão."
+  },
+  "1ee089f162c2da37": {
+   "fragment_id": "Artigo 16°",
+   "type": "artigo",
+   "heading": "Artigo 16°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16°\n\nNa aplicação do artigo 5oC do Regulamento (CEE) n° 3013/89, a Alemanha tomará em consideração as estruturas agrícolas existentes nos novos estados federados, assim como a evolução previsível das estruturas da sua produção agrícola."
+  },
+  "2e1f9019cbecc76c": {
+   "fragment_id": "Artigo 17°",
+   "type": "artigo",
+   "heading": "Artigo 17°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17°\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 10 de Dezembro de 1992. Pela Comissão\n\nRay MAC SHARRY\n\nMembro da Comissão\n\n(1) JO n° L 93 de 30. 3. 1985, p. 1.\n\n(2) JO n° L 268 de 29. 9. 1990, p. 35."
+  },
+  "7302ca08193c151e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992R3567 — PT — 01.01.2002 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992R3567) [REGULAMENTO (CEE) Nº 3567/92 DA COMISSÃO](http://publications.europa.eu/resource/celex/31992R3567) [de 10 de Dezembro de 1992](http://publications.europa.eu/resource/celex/31992R3567) [que estabelece normas de execução relativas aos limites individuais, reservas nacionais e transferência de direitos, previstos no Regulamento (CEE) nº 3013/89 do Conselho que estabelece a organização comum de mercado no sector das carnes de ovino e caprino](http://publications.europa.eu/resource/celex/31992R3567) (JO L 362, 11.12.1992, p.41)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 2550/2001 da Comissão de 21 de Dezembro de 2001](http://publications.europa.eu/resource/celex/32001R2550) — L 341 — 105 — 22.12.2001"
+  }
+ }
+}

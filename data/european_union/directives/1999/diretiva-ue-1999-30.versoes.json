@@ -1,0 +1,821 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999L0030:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0030-20100611",
+ "dre_path": null,
+ "source_lastmod": "2010-06-11",
+ "versions": [
+  {
+   "date": "1999-06-29",
+   "future": false,
+   "celex": "31999L0030",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a74afe686fe412d7",
+    "87849693510e5728",
+    "ca5c6ae4146ddb7b",
+    "cb84e0a741240d3c",
+    "6b7f935eae3840cd",
+    "258989e79f2ae522",
+    "5ba314633bcbd820",
+    "0b6ac3023534eae1",
+    "1493840d6ba6433d",
+    "62aba613ec58f8c9",
+    "45fb9094c61bad1d",
+    "49abe2a11600ce7d",
+    "d5cad4f0d9106565",
+    "7836ed4aa3f1fea6",
+    "48aa6ea950b54074",
+    "1f96547af96bd576",
+    "041db1d482f283f9",
+    "3cb3d18e5ea3102a",
+    "1c62b72a83757e63",
+    "927e6c4e66688778",
+    "a986f41e1d5b94d4",
+    "8795998bd86ceeb6",
+    "87aa295caaf6e4bb",
+    "2d37964c44d48b2c"
+   ]
+  },
+  {
+   "date": "2008-06-11",
+   "future": false,
+   "celex": "01999L0030-20080611",
+   "acts": [
+    {
+     "id": "eu:celex:32001D0744:por",
+     "title": "DECISÃO DA COMISSÃO de 17 de Outubro de 2001",
+     "published": null,
+     "celex": "32001D0744"
+    },
+    {
+     "id": "eu:celex:32008L0050:por",
+     "title": "DIRECTIVA 2008/50/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Maio de 2008",
+     "published": null,
+     "celex": "32008L0050"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º — Partículas em suspensão",
+    "Altera Artigo 7.º — Avaliação das concentrações",
+    "Altera Artigo 9.º — Revogações e acordos transitórios",
+    "Altera Artigo 14.º — Destinatários",
+    "Altera ANEXO V",
+    "Altera ANEXO VI",
+    "Altera ANEXO VII",
+    "Altera ANEXO IX",
+    "Adita ANEXO I",
+    "Adita VALORES-LIMITE E LIMIAR DE ALERTA PARA O DIÓXIDO DE ENXOFRE",
+    "Adita I. Valores-limite para o dióxido de enxofre",
+    "Adita II. Limiar de alerta para o dióxido de enxofre",
+    "Adita III. Dados mínimos a fornecer ao público quando o limiar de alerta para o dióxido de enxofre for excedido",
+    "Adita ANEXO II",
+    "Adita VALORES-LIMITE PARA O DIÓXIDO DE AZOTO (NO2) E ÓXIDOS DE AZOTO (NOx) E LIMIAR DE ALERTA PARA O DIÓXIDO DE AZOTO",
+    "Adita I. Valores-limite para o dióxido de azoto e os óxidos de azoto",
+    "Adita II. Limiar de alerta para o dióxido de azoto",
+    "Adita III. Dados mínimos a fornecer ao público quando o limiar de alerta para o dióxido de azoto for excedido",
+    "Adita ANEXO III",
+    "Adita ANEXO IV",
+    "Adita DETERMINAÇÃO DOS REQUISITOS DE AVALIAÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO (NO2) ÓXIDOS DE AZOTO (NOx) PARTÍCULAS EM SUSPENSÃO (PM10) E CHUMBO NO AR AMBIENTE NUMA ZONA OU AGLOMERAÇÃO",
+    "Adita I. Limiares superiores e limiares inferiores de avaliação",
+    "Adita II. Determinação da superação dos limiares superiores e inferiores de avaliação",
+    "Adita LOCALIZAÇÃO DOS PONTOS DE AMOSTRAGEM PARA A MEDIÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO E ÓXIDOS DE AZOTO, PARTÍCULAS EM SUSPENSÃO E CHUMBO NO AR AMBIENTE",
+    "Adita I. Localização em macro-escala",
+    "Adita a) Protecção da saúde humana",
+    "Adita b) Protecção dos ecossistemas e da vegetação",
+    "Adita II. Localização em micro-escala",
+    "Adita III. Documentação e reavaliação da selecção dos locais",
+    "Adita CRITÉRIOS PARA DETERMINAÇÃO DO NÚMERO MÍNIMO DE PONTOS DE AMOSTRAGEM PARA A MEDIÇÃO FIXA DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE (SO2), DIÓXIDO DE AZOTO (NO2), ÓXIDOS DE AZOTO (NOx), PARTÍCULAS EM SUSPENSÃO E CHUMBO NO AR AMBIENTE",
+    "Adita I. Número mínimo de pontos de amostragem para medição fixa destinada a avaliar o cumprimento dos valores-limite de protecção da saúde humana e dos limiares de alerta em zona e aglomerações em que a medição fixa constitui a única fonte de informações",
+    "Adita a) Fontes difusas",
+    "Adita b) Fontes tópicas",
+    "Adita II. Número mínimo de pontos de amostragem para medição fixa destinada a avaliar o cumprimento dos valores-limite de protecção dos ecossistemas e da vegetação em zonas que não sejam aglomerações",
+    "Adita ANEXO VIII",
+    "Adita OBJECTIVOS DE QUALIDADE DOS DADOS E REGISTO DOS RESULTADOS DO PROCESSO DE AVALIAÇÃO DA QUALIDADE DO AR",
+    "Adita I. Objectivos de qualidade dos dados",
+    "Adita II. Resultados da avaliação da qualidade do ar",
+    "Adita III. Normalização",
+    "Adita MÉTODOS DE REFERÊNCIA PARA AVALIAÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO, ÓXIDOS DE AZOTO, PARTÍCULAS EM SUSPENSÃO (PM10 E PM2,5) E CHUMBO NA ATMOSFERA",
+    "Adita Notas",
+    "Suprime ANEXO I — VALORES-LIMITE E LIMIAR DE ALERTA PARA O DIÓXIDO DE ENXOFRE",
+    "Suprime ANEXO II — VALORES-LIMITE PARA O DIÓXIDO DE AZOTO (NO2) E ÓXIDOS DE AZOTO (NOx) E LIMIAR DE ALERTA PARA O DIÓXIDO DE AZOTO",
+    "Suprime ANEXO III — VALORES-LIMITE E NÍVEIS DE ACÇÃO PARA PARTÍCULAS EM SUSPENSÃO NA ATMOSFERA",
+    "Suprime ANEXO IV — VALOR-LIMITE PARA O CHUMBO",
+    "Suprime ANEXO VIII — OBJECTIVOS DE QUALIDADE DOS DADOS E REGISTO DOS RESULTADOS DO PROCESSO DE AVALIAÇÃO DA QUALIDADE DO AR"
+   ],
+   "fragments": [
+    "8f9102dc120e25a2",
+    "ab3feb981666091d",
+    "72f79dac5507e101",
+    "fd5f212df08f387b",
+    "fd7e012165499b31",
+    "c9a9c2afce1e530f",
+    "e82bc8ce6d90900a",
+    "eb4ac828105d08ec",
+    "c17c4124ef64b94d",
+    "9745378037d4008e",
+    "45fb9094c61bad1d",
+    "49abe2a11600ce7d",
+    "d5cad4f0d9106565",
+    "2adf5cde2b46a018",
+    "fd5dbcac43310f78",
+    "d664376e2a8dcecd",
+    "bceefa40b43bc17a",
+    "64178db0b400775a",
+    "e346bb0c34c47605",
+    "920649d4368fa42e",
+    "852174729551523b",
+    "4b75d6d19e033d68",
+    "2929c859998179c8",
+    "e1e2973847e64924",
+    "c9830a9996194611",
+    "56ed94e5afa2e88d",
+    "b29da574bd504b77",
+    "64610ae29a6cb67c",
+    "a780dcfa14add746",
+    "9c02eecbb206de4c",
+    "bbc75807ab6ec6ea",
+    "90c7d2baf4d44ee2",
+    "6f211fc027f7df1b",
+    "06c0e6e32d76b0ba",
+    "af076c97c603f5f0",
+    "04921d1a0e966899",
+    "cd7f09796d478924",
+    "52c91a291817d9c0",
+    "d46ca50274582635",
+    "a811190f827dc4e8",
+    "387a763e17c4a1d5",
+    "0313dd6a1ed78c87",
+    "5da7674bf9159bcb",
+    "619fcb716ea786a2",
+    "1b41b51ec3248d43",
+    "c212ae69c9446abe",
+    "91290234979576e1",
+    "80ac5b91e31600ea",
+    "81a36dfb2c84698e",
+    "953641e58475eff6",
+    "894951911f013fc7",
+    "87656796dfc29fec"
+   ]
+  },
+  {
+   "date": "2010-06-11",
+   "future": false,
+   "celex": "01999L0030-20100611",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objectivos",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Dióxido de enxofre",
+    "Suprime Artigo 4.º — Dióxido de azoto e óxidos de azoto",
+    "Suprime Artigo 5.º — Partículas em suspensão",
+    "Suprime Artigo 6.º — Chumbo",
+    "Suprime Artigo 7.º — Avaliação das concentrações",
+    "Suprime Artigo 8.º — Informação do público",
+    "Suprime Artigo 9.º — Revogações e acordos transitórios",
+    "Suprime Artigo 10.º — Relatório e revisão",
+    "Suprime Artigo 11.º — Sanções",
+    "Suprime Artigo 12.º — Aplicação",
+    "Suprime Artigo 13.º — Entrada em vigor",
+    "Suprime Artigo 14.º — Destinatários",
+    "Suprime ANEXO I",
+    "Suprime VALORES-LIMITE E LIMIAR DE ALERTA PARA O DIÓXIDO DE ENXOFRE",
+    "Suprime I. Valores-limite para o dióxido de enxofre",
+    "Suprime II. Limiar de alerta para o dióxido de enxofre",
+    "Suprime III. Dados mínimos a fornecer ao público quando o limiar de alerta para o dióxido de enxofre for excedido",
+    "Suprime ANEXO II",
+    "Suprime VALORES-LIMITE PARA O DIÓXIDO DE AZOTO (NO2) E ÓXIDOS DE AZOTO (NOx) E LIMIAR DE ALERTA PARA O DIÓXIDO DE AZOTO",
+    "Suprime I. Valores-limite para o dióxido de azoto e os óxidos de azoto",
+    "Suprime II. Limiar de alerta para o dióxido de azoto",
+    "Suprime III. Dados mínimos a fornecer ao público quando o limiar de alerta para o dióxido de azoto for excedido",
+    "Suprime ANEXO III",
+    "Suprime ANEXO IV",
+    "Suprime ANEXO V",
+    "Suprime DETERMINAÇÃO DOS REQUISITOS DE AVALIAÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO (NO2) ÓXIDOS DE AZOTO (NOx) PARTÍCULAS EM SUSPENSÃO (PM10) E CHUMBO NO AR AMBIENTE NUMA ZONA OU AGLOMERAÇÃO",
+    "Suprime I. Limiares superiores e limiares inferiores de avaliação",
+    "Suprime II. Determinação da superação dos limiares superiores e inferiores de avaliação",
+    "Suprime ANEXO VI",
+    "Suprime LOCALIZAÇÃO DOS PONTOS DE AMOSTRAGEM PARA A MEDIÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO E ÓXIDOS DE AZOTO, PARTÍCULAS EM SUSPENSÃO E CHUMBO NO AR AMBIENTE",
+    "Suprime I. Localização em macro-escala",
+    "Suprime a) Protecção da saúde humana",
+    "Suprime b) Protecção dos ecossistemas e da vegetação",
+    "Suprime II. Localização em micro-escala",
+    "Suprime III. Documentação e reavaliação da selecção dos locais",
+    "Suprime ANEXO VII",
+    "Suprime CRITÉRIOS PARA DETERMINAÇÃO DO NÚMERO MÍNIMO DE PONTOS DE AMOSTRAGEM PARA A MEDIÇÃO FIXA DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE (SO2), DIÓXIDO DE AZOTO (NO2), ÓXIDOS DE AZOTO (NOx), PARTÍCULAS EM SUSPENSÃO E CHUMBO NO AR AMBIENTE",
+    "Suprime I. Número mínimo de pontos de amostragem para medição fixa destinada a avaliar o cumprimento dos valores-limite de protecção da saúde humana e dos limiares de alerta em zona e aglomerações em que a medição fixa constitui a única fonte de informações",
+    "Suprime a) Fontes difusas",
+    "Suprime b) Fontes tópicas",
+    "Suprime II. Número mínimo de pontos de amostragem para medição fixa destinada a avaliar o cumprimento dos valores-limite de protecção dos ecossistemas e da vegetação em zonas que não sejam aglomerações",
+    "Suprime ANEXO VIII",
+    "Suprime OBJECTIVOS DE QUALIDADE DOS DADOS E REGISTO DOS RESULTADOS DO PROCESSO DE AVALIAÇÃO DA QUALIDADE DO AR",
+    "Suprime I. Objectivos de qualidade dos dados",
+    "Suprime II. Resultados da avaliação da qualidade do ar",
+    "Suprime III. Normalização",
+    "Suprime ANEXO IX",
+    "Suprime MÉTODOS DE REFERÊNCIA PARA AVALIAÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO, ÓXIDOS DE AZOTO, PARTÍCULAS EM SUSPENSÃO (PM10 E PM2,5) E CHUMBO NA ATMOSFERA",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "132140d9bb73c985"
+   ]
+  }
+ ],
+ "fragments": {
+  "a74afe686fe412d7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 1999/30/CE do Conselho de 22 de Abril de 1999 relativa a valores-limite para o dióxido de enxofre, dióxido de azoto e óxidos de azoto, partículas em suspensão e chumbo no ar ambiente** *Jornal Oficial nº L 163 de 29/06/1999 p. 0041 - 0060*\n\nDIRECTIVA 1999/30/CE DO CONSELHO\n\nde 22 de Abril de 1999\n\nrelativa a valores-limite para o dióxido de enxofre, dióxido de azoto e óxidos de azoto, partículas em suspensão e chumbo no ar ambiente\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente o n.o 1 do artigo 130.oS,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social(2),\n\nDeliberando nos termos do artigo 189.oC do Tratado(3),\n\n(1) Considerando que, com base nos princípios consignados no artigo 130.oR do Tratado, o programa da Comunidade Europeia de política e acção em matéria de ambiente e desenvolvimento sustentável (quinto programa de acção em matéria de ambiente)(4) prevê em especial alterações à legislação sobre poluentes atmosféricos; que o referido programa recomenda o estabelecimento de objectivos a longo prazo em matéria de qualidade do ar;\n\n(2) Considerando que o artigo 129.o do Tratado prevê que as exigências em matéria de protecção da saúde constituem uma componente das demais políticas comunitárias; que a alínea o) do artigo 3.o do Tratado determina que a acção da Comunidade implica uma contribuição para a realização de um elevado nível de protecção da saúde;\n\n(3) Considerando que, nos termos do n.o 5 do artigo 4.o da Directiva 96/62/CE do Conselho, de 27 de Setembro de 1996, relativa à avaliação e gestão da qualidade do ar ambiente(5), o Conselho deve adoptar a legislação a que se refere o n.o 1, bem como as disposições previstas nos n.os 3 e 4 do mesmo artigo;\n\n(4) Considerando que os valores-limite fixados pela presente directiva constituem requisitos mínimos; que, nos termos do artigo 130.oT do Tratado, os Estados-membros podem manter ou introduzir medidas de protecção reforçadas; que, nomeadamente, podem ser adoptados valores-limite mais rigorosos para proteger a saúde de categorias da população especialmente vulneráveis, como as crianças e os doentes hospitalizados; que os Estados-membros podem determinar que os valores-limite sejam atingidos numa data anterior à fixada na presente directiva;\n\n(5) Considerando que os ecossistemas devem ser protegidos contra os efeitos nocivos do dióxido de enxofre; que a vegetação deve ser protegida contra os efeitos nocivos dos óxidos de azoto;\n\n(6) Considerando que diferentes tipos de partículas podem ter efeitos nocivos diversos sobre a saúde humana; que está provado que os riscos para a saúde humana associados à exposição a partículas em suspensão criadas pelo homem são mais elevados do que os riscos associados à exposição a partículas de origem natural presentes no ar ambiente;\n\n(7) Considerando que a Directiva 96/62/CE prevê o desenvolvimento de planos de acção para zonas em que a concentração de poluentes no ar ambiente exceda os valores-limite acrescidos das margens temporárias de tolerância aplicáveis, para garantir a observância dos valores-limite até à ou às datas indicadas; que, no que se refere a partículas em suspensão, esses planos de acção e outras estratégias de redução devem procurar reduzir as concentrações de partículas finas no contexto da redução total das concentrações de partículas em suspensão;\n\n(8) Considerando que a Directiva 96/62/CE prevê que os valores numéricos para os valores-limite e os limiares de alerta se devem basear nos resultados de trabalhos efectuados por grupos científicos internacionais que operam nesse domínio; que a Comissão deverá tomar em consideração os dados mais recentes da investigação científica nos domínios apropriados da epidemiologia e do ambiente, assim como os mais recentes progressos dos métodos de medição para que sejam avaliados os elementos em que se fundamentam os valores-limite e os limiares de alerta;\n\n(9) Considerando que, para facilitar a revisão da presente directiva em 2003, a Comissão e os Estados-membros deverão estudar modos de promover a investigação sobre os efeitos dos poluentes nela referidos, designadamente o dióxido de enxofre, o dióxido de azoto e os óxidos de azoto, as partículas em suspensão e o chumbo;\n\n(10) Considerando que as técnicas normalizadas de medição exacta e os critérios comuns para a localização das estações de medição são elementos importantes para a avaliação da qualidade do ar ambiente, a fim de obter informações comparáveis em toda a Comunidade;\n\n(11) Considerando que, nos termos do n.o 1 do artigo 12.o da Directiva 96/62/CE, as alterações necessárias à adaptação ao progresso científico e técnico só podem incidir nos critérios e técnicas de avaliação das concentrações de dióxido de enxofre, de dióxido de azoto e óxidos de azoto, partículas em suspensão e chumbo e/ou nas modalidades de envio da informação à Comissão e não devem ter por efeito modificar, directa ou indirectamente, os valores-limite ou os limiares de alerta;\n\n(12) Considerando que deve ser facultado ao público um acesso fácil a informações actualizadas sobre concentrações de dióxido de enxofre, dióxido de azoto e óxidos de azoto, partículas em suspensão e chumbo no ar ambiente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "87849693510e5728": {
+   "fragment_id": "Artigo 1.º — Objectivos",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos\n\nOs objectivos da presente directiva são:\n\n- o estabelecimento de valores-limite e, quando apropriado, de limiares de alerta para as concentrações de dióxido de enxofre, dióxido de azoto e óxidos de azoto, partículas em suspensão e chumbo no ar ambiente, a fim de evitar, prevenir ou limitar os efeitos nocivos destes poluentes sobre a saúde humana e sobre o ambiente na sua globalidade,\n\n- a avaliação, com base em métodos e critérios comuns, das concentrações de dióxido de enxofre, dióxido de azoto e óxidos de azoto, partículas em suspensão e chumbo no ar ambiente,\n\n- a obtenção de informações adequadas sobre as concentrações de dióxido de enxofre, dióxido de azoto e óxidos de azoto, partículas em suspensão e chumbo no ar ambiente e assegurar a sua divulgação junto do público,\n\n- a manutenção da qualidade do ar ambiente, quando esta é boa, e a sua melhoria nos outros casos, no que diz respeito ao dióxido de enxofre, dióxido de azoto e óxidos de azoto, partículas em suspensão e chumbo."
+  },
+  "ca5c6ae4146ddb7b": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. \"Ar ambiente\": o ar exterior da troposfera, excepto o ar dos locais de trabalho.\n\n2. \"Poluente\": as substâncias introduzidas directa ou indirectamente pelo homem no ar ambiente capazes de produzir efeitos nocivos sobre a saúde humana ou o meio ambiente.\n\n3. \"Nível\": a concentração no ar ambiente ou a deposição superficial de um poluente num dado intervalo de tempo.\n\n4. \"Avaliação\": os métodos utilizados para medir, calcular, prever ou estimar o nível de um poluente no ar ambiente.\n\n5. \"Valor-limite\": o nível fixado com base em conhecimentos científicos com o intuito de evitar, prevenir ou reduzir os efeitos nocivos sobre a saúde humana e/ou o ambiente na sua globalidade, susceptível de ser atingido num prazo determinado e que, quando atingido, não deverá ser excedido.\n\n6. \"Limiar de alerta\": o nível acima do qual uma exposição de curta duração acarreta riscos para a saúde humana e a partir do qual os Estados-membros tomarão medidas imediatas, tal como previsto na Directiva 96/62/CE.\n\n7. \"Margem de tolerância\": a percentagem do valor-limite em que este valor pode ser excedido nas condições constantes da Directiva 96/62/CE.\n\n8. \"Zona\": parte do território dos Estados-membros, delimitada por eles próprios.\n\n9. \"Aglomeração\": uma zona caracterizada por uma concentração de população superior a 250000 habitantes ou, quando a concentração da população for inferior ou igual a 250000 habitantes, uma densidade populacional por quilómetro quadrado que justifique que os Estados-membros avaliem e giram a qualidade do ar ambiente.\n\n10. \"Óxidos de azoto\": a soma de monóxido e dióxido de azoto adicionados como partes por bilião e expressas em dióxido de azoto, em microgramas por metro cúbico.\n\n11. \"PM10\": partículas em suspensão susceptíveis de passar através de um filtro selectivo com 50 % de eficiência para um diâmetro aerodinâmico de 10 μm.\n\n12. \"PM2,5\": partículas em suspensão susceptíveis de passar através de um filtro selectivo com 50 % de eficiência para um diâmetro aerodinâmico de 2,5 μm.\n\n13. \"Limiar superior de avaliação\": nível de poluição, especificado no anexo V, abaixo do qual pode ser utilizada uma combinação de medidas e de técnicas de modelização para avaliar a qualidade do ar ambiente, nos termos do n.o 3 do artigo 6.o da Directiva 96/62/CE.\n\n14. \"Limiar inferior de avaliação\": nível de poluição, especificado no anexo V, abaixo do qual só pode ser utilizada a modelização ou a estimativa objectiva para avaliar a qualidade do ar ambiente, nos termos do n.o 4 do artigo 6.o da Directiva 96/62/CE.\n\n15. \"Catástrofe natural\": erupções vulcânicas, actividades sísmicas, actividades geotérmicas, incêndios florestais incontrolados, ventos de grande intensidade ou ressuspensão ou transporte atmosférico de partículas naturais provenientes de regiões secas.\n\n16. \"Medições fixas\": medições efectuadas nos termos do n.o 5 do artigo 6.o da Directiva 96/62/CE."
+  },
+  "cb84e0a741240d3c": {
+   "fragment_id": "Artigo 3.º — Dióxido de enxofre",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Dióxido de enxofre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Dióxido de enxofre\n\n1. Os Estados-membros adoptarão as medidas necessárias para garantir que as concentrações de dióxido de enxofre no ar ambiente, avaliadas nos termos do artigo 7.o, não excedam os valores-limite estabelecidos na secção I do anexo I, a partir das datas nela fixadas.\n\nAs margens de tolerância previstas na secção I do anexo I cumprirão o disposto no artigo 8.o da Directiva 96/62/CE.\n\n2. O limiar de alerta para as concentrações de dióxido de enxofre no ar ambiente consta da secção II do anexo I.\n\n3. A fim de coadjuvar a Comissão na elaboração do relatório previsto no artigo 10.o, os Estados-membros procederão, quando possível, até 31 de Dezembro de 2003, ao registo dos dados relativos às concentrações de dióxido de enxofre, determinadas de 10 em 10 minutos, a partir de algumas das estações de medição seleccionadas pelos Estados-membros como representativas da qualidade do ar em áreas habitadas próximas das fontes e em que as concentrações sejam medidas de hora a hora. Simultaneamente com os dados fornecidos sobre as concentrações de hora a hora, e nos termos do n.o 1 do artigo 11.o da Directiva 96/62/CE, quando possível, os Estados-membros comunicarão à Comissão, para as estações de medição seleccionadas, os valores de concentrações medidas de 10 em 10 minutos que excedam 500 μg/m3, o número de dias do ano em que tal tenha ocorrido, o número desses dias em que, ao mesmo tempo, as concentrações de dióxido de enxofre medidas de hora a hora tenham excedido simultaneamente 350 μg/m3 e a concentração máxima registada de 10 em 10 minutos.\n\n4. Os Estados-membros podem designar zonas ou aglomerações nas quais os valores-limite de dióxido de enxofre referidos na secção I do anexo I são excedidos devido a essas concentrações no ar ambiente, causadas por factores naturais. Os Estados-membros enviarão à Comissão listas dessas zonas ou aglomerações juntamente com informações sobre concentrações e fontes de dióxido de enxofre nas mesmas. Ao informarem a Comissão, nos termos do n.o 1 do artigo 11.o da Directiva 96/62/CE, os Estados-membros deverão fornecer a justificação necessária para demonstrar que as superações se devem a causas naturais.\n\nNessas zonas ou aglomerações, os Estados-membros só executarão planos de acção nos termos do n.o 3 do artigo 8.o da Directiva 96/62/CE, quando os valores-limite estabelecidos na secção I do aexo I forem excedidos devido a emissões criadas pelo homem."
+  },
+  "6b7f935eae3840cd": {
+   "fragment_id": "Artigo 4.º — Dióxido de azoto e óxidos de azoto",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Dióxido de azoto e óxidos de azoto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dióxido de azoto e óxidos de azoto\n\n1. Os Estados-membros adoptarão as medidas necessárias para garantir que as concentrações de dióxido de azoto e, se for caso disso, de óxidos de azoto no ar ambiente, avaliadas nos termos do artigo 7.o, não excedam os valores-limite estabelecidos na secção I do anexo II, a partir das datas nela fixadas.\n\nAs margens de tolerância previstas na secção I do anexo II cumprirão o disposto no artigo 8.o da Directiva 96/62/CE.\n\n2. O limiar de alerta para as concentrações de dióxido de azoto no ar ambiente consta da secção II do anexo II."
+  },
+  "258989e79f2ae522": {
+   "fragment_id": "Artigo 5.º — Partículas em suspensão",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Partículas em suspensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Partículas em suspensão\n\n1. Os Estados-membros adoptarão as medidas necessárias para garantir que as concentrações de PM10 no ar ambiente, avaliadas nos termos do artigo 7.o, não excedam os valores-limite estabelecidos na secção I do anexo III, a partir das datas nela fixadas.\n\nAs margens de tolerância especificadas na secção I do anexo III cumprirão o disposto no artigo 8.o da Directiva 96/62/CE.\n\n2. Os Estados-membros garantirão que as estações de medição que fornecem os dados sobre as concentrações de PM2,5 estão instaladas e operacionais. O número e a localização das estações de medição de PM2,5 serão estabelecidos pelos Estados-membros, tendo em vista a obtenção de valores representativos das concentrações de PM2,5 no respectivo território. Sempre que possível, os seus pontos de amostragem serão instalados conjuntamente com os pontos de amostragem de PM10.\n\nOs Estados-membros enviarão anualmente à Comissão, o mais tardar nove meses após o final de cada ano, a média aritmética dos valores, a mediana, o percentil 98 e o valor da concentração máxima determinados a partir das medições de PM2,5 durante um período de 24 horas no decorrer desse ano. O percentil 98 será calculado nos termos do anexo I, secção 4, da Decisão 97/101/CE do Conselho, de 27 de Janeiro de 1997, que estabelece um intercâmbio recíproco de informações e de dados provenientes das redes e estações individuais que medem a poluição atmosférica nos Estados-membros(6).\n\n3. Os planos de acção estabelecidos para as concentrações de PM10 nos termos do artigo 8.o da Directiva 96/62/CE e as estratégias gerais a adoptar para a sua redução terão também como objectivo a redução das concentrações de PM2,5.\n\n4. Sempre que os valores-limite de PM10 indicados na secção I do anexo III forem excedidos em virtude de concentrações de PM10 no ar ambiente devidas a catástrofes naturais de que resultem concentrações significativamente superiores aos valores de base normais decorrentes de factores naturais, os Estados-membros informarão a Comissão, nos termos do n.o 1 do artigo 11.o da Directiva 96/62/CE, apresentando a justificação necessária para demonstrar que essas superações se devem a catástrofes naturais. Nesses casos, os Estados-membros só serão obrigados a aplicar planos de acção nos termos do n.o 3 do artigo 8.o da Directiva 96/62/CE quando os valores-limite estabelecidos na secção I do anexo III forem excedidos devido a outras causas que não catástrofes naturais.\n\n5. Os Estados-membros podem designar zonas ou aglomerações nas quais os valores-limite de PM10 referidos na secção I do anexo III são excedidos devido a essas concentrações no ar ambiente causadas pela ressuspensão de partículas em consequência da colocação de areia nas estradas durante o Inverno. Os Estados-membros enviarão à Comissão listas dessas zonas ou aglomerações juntamente com informações sobre concentrações e fontes de PM10 nas mesmas. Ao informarem a Comissão, nos termos do n.o 1 do artigo 11.o da Directiva 96/62/CE, os Estados-membros deverão fornecer a justificação necessária para demonstrar que as superações se devem a essas partículas em ressuspensão, e que foram tomadas as medidas possíveis para fazer baixar as concentrações.\n\nNessas zonas ou aglomerações, os Estados-membros só executarão planos de acção nos termos do n.o 3 do artigo 8.o da Directiva 96/62/CE, quando os valores-limite estabelecidos na secção I do anexo III forem excedidos devido a níveis de PM10 que não resultem da colocação de areia nas estradas durante o Inverno."
+  },
+  "5ba314633bcbd820": {
+   "fragment_id": "Artigo 6.º — Chumbo",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Chumbo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Chumbo\n\nOs Estados-membros adoptarão as medidas necessárias para garantir que as concentrações de chumbo no ar ambiente, avaliadas nos termos do artigo 7.o, não excedam os valores-limite estabelecidos na secção I do anexo IV, a partir das datas nela fixadas.\n\nAs margens de tolerância previstas na secção I do anexo IV cumprirão o disposto no artigo 8.o da Directiva 96/62/CE."
+  },
+  "0b6ac3023534eae1": {
+   "fragment_id": "Artigo 7.º — Avaliação das concentrações",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Avaliação das concentrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Avaliação das concentrações\n\n1. Os limiares superior e inferior de avaliação do dióxido de enxofre, do dióxido de azoto e óxidos de azoto, das partículas em suspensão na atmosfera e do chumbo, para efeitos do artigo 6.o da Directiva 96/62/CE, constam da secção I do anexo V.\n\nA classificação de cada zona ou aglomeração para efeitos do referido artigo 6.o será vista, pelo menos de cinco em cinco anos, nos termos da secção II do anexo V. Essa classificação será vista mais cedo, em caso de alterações significativas das actividades relevantes para as concentrações de dióxido de enxofre, dióxido de azoto ou, quando apropriado, óxidos de azoto, partículas em suspensão na atmosfera ou chumbo.\n\n2. O anexo VI estabelece os critérios de escolha da localização dos pontos de amostragem para medição dos níveis de dióxido de enxofre, dióxido de azoto e óxidos de azoto, partículas em suspensão na atmosfera e chumbo. O anexo VII define o número mínimo de pontos de amostragem para medições fixas das concentrações de cada poluente; esses pontos de amostragem devem ser instalados nas zonas ou aglomerações em que são exigidas medições, se a medição fixa for a única fonte de dados sobre concentrações nessas zonas.\n\n3. Nas zonas e aglomerações nas quais as informações recolhidas a partir de estações de medição fixa forem complementadas por dados provenientes de outras fontes, como registos de taxas de emissão, métodos de avaliação de referência e modelização da qualidade do ar, o número de estações de medição fixa a instalar, bem como a resolução espacial de outras técnicas, deverão permitir medir as concentrações de poluentes atmosféricos nos termos da secção I do anexo VI, e da secção I do anexo VIII.\n\n4. Nas zonas e aglomerações em que não são exigidas medições, podem ser utilizadas técnicas de modelização ou de estimativa objectiva.\n\n5. Os métodos de referência a utilizar na análise dos níveis de dióxido de enxofre, dióxido de azoto e óxidos de azoto, e na amostragem e análise dos níveis de chumbo, constam das secções I a III do anexo IX.\n\nO método de referência para a amostragem e a medição dos níveis de PM10 consta da secção IV do anexo IX.\n\nO método de referência provisório para a amostragem e a medição dos níveis de PM2,5 consta da secção V do anexo IX.\n\nAs técnicas de referência para a modelização da qualidade do ar constam da secção VI do anexo IX.\n\n6. Os Estados-membros comunicarão à Comissão os métodos utilizados na avaliacão preliminar da qualidade do ar, nos termos do n.o 1, alínea d), do artigo 11.o da Directiva 96/62/CE, 18 meses a contar da data de entrada em vigor da presente directiva.\n\n7. Quaisquer alterações necessárias para adaptar o presente artigo e os anexos V a IX ao progresso técnico e científico serão adoptadas nos termos do artigo 12.o da Directiva 96/62/CE."
+  },
+  "1493840d6ba6433d": {
+   "fragment_id": "Artigo 8.º — Informação do público",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Informação do público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Informação do público\n\n1. Os Estados-membros garantirão que sejam regularmente facultadas ao público bem como às organizações competentes neste domínio, como as organizações de defesa do ambiente, as organizações de defesa do consumidor, as organizações que representam os interesses das populações mais vulneráveis e outros organismos competentes em matéria de protecção da saúde, informações actualizadas sobre os níveis ambientais de dióxido de enxofre, dióxido de azoto e óxidos de azoto, partículas em suspensão e chumbo, através, por exemplo, da rádio, da imprensa, de painéis de informação ou dos serviços das redes informáticas.\n\nAs informações sobre as concentrações de dióxido de enxofre, dióxido de azoto e partículas em suspensão deverão ser actualizadas pelo menos diariamente e, no caso dos valores do dióxido de enxofre e de óxido de azoto medidos de hora a hora, as informações deverão ser actualizadas de hora a hora, se possível. As informações sobre a concentração de chumbo no ar ambiente deverão ser actualizadas de três em três meses.\n\nEssas informações incluirão pelo menos todos os casos em que as concentrações excedam os valores-limite e os limiares de alerta nos períodos de amostragem especificados nos anexos I a IV, bem como uma breve avaliação relativa aos valores-limite e aos limiares de alerta e informações adequadas quanto aos efeitos sobre a saúde.\n\n2. Ao divulgarem publicamente os planos ou programas nos termos do n.o 3 do artigo 8.o da Directiva 96/62/CE, incluindo os planos ou programas a que se referem o n.o 4 do artigo 3.o, e os n.os 4 e 5 do artigo 5.o da presente directiva, os Estados-membros comunicá-los-ão igualmente às organizações referidas no n.o 1.\n\n3. Sempre que se exceda um limiar de alerta referido no anexo I ou no anexo II, as informações facultadas ao público, nos termos do artigo 10.o da Directiva 96/62/CE, incluirão no mínimo os pontos da lista que consta da secção III do anexo I e do anexo II.\n\n4. As informações divulgadas ao público e às organizações ao abrigo dos n.os 1 e 3 devem ser claras, compreensíveis e acessíveis."
+  },
+  "62aba613ec58f8c9": {
+   "fragment_id": "Artigo 9.º — Revogações e acordos transitórios",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Revogações e acordos transitórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Revogações e acordos transitórios\n\n1. A Directiva 80/779/CEE do Conselho, de 15 de Julho de 1980, relativa a valores-limite e a valores-guia de qualidade do ar para o dióxido de enxofre e as partículas em suspensão(7) é revogada em 19 de Julho de 2001, excepto o artigo 1.o, o n.o 1 do artigo 2.o, o n.o 1 do artigo 3.o, e os artigos 9.o, 15.o e 16.o e os anexos I, III b e IV que são revogados em 1 de Janeiro de 2005.\n\n2. A Directiva 82/884/CEE do Conselho, de 3 de Dezembro de 1982, relativa a um valor-limite para o chumbo contido na atmosfera(8) é revogada em 19 de Julho de 2001, excepto os artigos 1.o e 2.o, o n.o 1 do artigo 3.o e os artigos 7.o, 12.o e 13.o que são revogados em 1 de Janeiro de 2005.\n\n3. A Directiva 85/203/CEE do Conselho, de 7 de Março de 1985, relativa às normas de qualidade do ar para o dióxido de azoto(9) é revogada em 19 de Julho de 2001, excepto o artigo n.o 1, primeiro travessão e o n.o 2 do artigo 1.o, o primeiro travessão do artigo 2.o, o n.o 1 do artigo 3.o e os artigos 5.o, 9.o, 15.o e 16.o e o anexo I que são revogados em 1 de Janeiro de 2001.\n\n4. A partir de 19 de Julho de 2001, os Estados-membros utilizarão estações de medição e outros métodos de avaliação da qualidade do ar, de acordo com os requisitos da presente directiva, para avaliar as concentrações de dióxido de enxofre, de óxido de azoto e chumbo no ar ambiente, de modo a obter dados destinados a demonstrar a observância dos valores-limite estabelecidos nas Directivas 80/779/CEE, 82/884/CEE e 85/203/CEE, até à data em que os valores-limite estabelecidos nessas directivas deixem de ser aplicáveis.\n\n5. A partir de de 19 de Julho de 2001, os Estados-membros poderão utilizar estações de medição e outros métodos de avaliação da qualidade do ar relativos às PM10, de acordo com os requisitos da presente directiva para avaliar as concentrações de partículas em suspensão, de modo a demonstrar a observância dos valores-limite para a totalidade das partículas em suspensão estabelecidos no anexo IV da Directiva 80/779/CEE; no entanto, para demonstrar essa observância, os dados recolhidos serão multiplicados por um factor de 1,2.\n\n6. Os Estados-membros informarão a Comissão de qualquer superação dos valores-limite estabelecidos nas Directivas 80/779/CEE, 82/884/CEE e 85/203/CEE, assim como dos valores registados, das causas que explicam esses valores e das medidas tomadas para evitar que se repitam, anualmente, num prazo de nove meses a contar do final de cada ano, nos termos do artigo 11.o da Directiva 96/62/CE, até à data em que os valores-limite estabelecidos nessas directivas deixarem de ser aplicáveis.\n\n7. Nas zonas em que os Estados-membros considerarem necessário limitar ou prevenir um aumento previsível da poluição por dióxido de enxofre, óxidos de azoto ou partículas em suspensão, poderão continuar a usar os valores-guia para a protecção dos ecossistemas que constam do anexo II da Directiva 80/779/CEE e do anexo II da Directiva 85/203/CEE."
+  },
+  "45fb9094c61bad1d": {
+   "fragment_id": "Artigo 10.º — Relatório e revisão",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Relatório e revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Relatório e revisão\n\nO mais tardar em 31 de Dezembro de 2003, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a experiência adquirida com a aplicação da presente directiva e, designadamente, sobre os resultados dos trabalhos de investigação científica mais recentes acerca dos efeitos na saúde humana e nos ecossistemas da exposição ao dióxido de enxofre, dióxido de azoto e óxidos de azoto, a diferentes fracções de partículas em suspensão e ao chumbo, bem como sobre o progresso tecnológico, incluindo o desenvolvimento dos métodos de medição e de outros tipos de avaliação das concentrações de partículas em suspensão no ar ambiente e da deposição superficial de partículas em suspensão e de chumbo.\n\nA fim de manter um elevado nível de protecção da saúde humana e do ambiente, e tendo em conta a experiência adquirida com a aplicação da presente directiva nos Estados-membros, incluindo, em particular, as condições, previstas no anexo VI, em que se efectuaram as medições, esse relatório será acompanhado, se necessário, de propostas de alteração da presente directiva. Em particular, a Comissão procederá à análise dos valores-limite de PM10 para a segunda fase, a fim de os tornar obrigatórios, e reflectirá sobre uma possível confirmação ou alteração dos valores-limite para a segunda fase e, se adequada, para a primeira fase. Além disso, a Comissão prestará especial atenção à fixação de valores-limite para as PM2,5 ou para diferentes fracções de partículas em suspensão, consoante o caso. A Comissão analisará ainda o valor-limite anual de dióxido de azoto para protecção da saúde humana e apresentará uma proposta de confirmação ou de alteração desse valor. A Comissão analisará igualmente o valor-limite horário de dióxido de azoto, segundo as orientações da Organização Mundial de Saúde e ponderará a confirmação ou alteração desse valor-limite.\n\nA Comissão prestará especial atenção à fixação de limiares de alerta, coerentes com os fixados para outros poluentes na presente directiva, para as PM10, para as PM2,5 ou para determinadas partículas em suspensão, consoante o caso."
+  },
+  "49abe2a11600ce7d": {
+   "fragment_id": "Artigo 11.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sanções\n\nOs Estados-membros determinarão as sanções aplicáveis às violações das disposições nacionais adoptadas em execução da presente directiva. Essas sanções serão efectivas, proporcionadas e dissuasivas."
+  },
+  "d5cad4f0d9106565": {
+   "fragment_id": "Artigo 12.º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Aplicação\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva em 19 de Julho de 2001. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de Direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "7836ed4aa3f1fea6": {
+   "fragment_id": "Artigo 13.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "48aa6ea950b54074": {
+   "fragment_id": "Artigo 14.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Destinatários\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 22 de Abril de 1999.\n\nPelo Conselho\n\nO Presidente\n\nW. MÜLLER\n\n(1) JO C 9 de 14.1.1998, p. 6.\n\n(2) JO C 214 de 10.7.1998, p. 1.\n\n(3) Parecer do Parlamento Europeu de 13 de Maio de 1998 (JO C 167 de 1.6.1998, p. 103), posição comum do Conselho de 24 de Setembro de 1998 (JO C 360 de 23.11.1998, p. 99) e decisão do Parlamento Europeu de 13 de Janeiro de 1999 (JO C 104 de 14.4.1999, p. 44).\n\n(4) JO C 138 de 17.5.1993, p. 5.\n\n(5) JO L 296 de 21.11.1996, p. 55.\n\n(6) JO L 35 de 5.2.1997, p. 14.\n\n(7) JO L 229 de 30.8.1980, p. 30.\n\n(8) JO L 378 de 31.12.1982, p. 15.\n\n(9) JO L 87 de 27.3.1985, p. 1."
+  },
+  "1f96547af96bd576": {
+   "fragment_id": "ANEXO I — VALORES-LIMITE E LIMIAR DE ALERTA PARA O DIÓXIDO DE ENXOFRE",
+   "type": "divisao",
+   "heading": "ANEXO I — VALORES-LIMITE E LIMIAR DE ALERTA PARA O DIÓXIDO DE ENXOFRE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — VALORES-LIMITE E LIMIAR DE ALERTA PARA O DIÓXIDO DE ENXOFRE\n\nI. Valores-limite para o dióxido de enxofre\n\nOs valores-limite serão expressos em μg/m3. O volume tem de ser calculado à temperatura de e à pressão de 293 °K de 101,3 kPa.\n\n>POSIÇÃO NUMA TABELA>\n\nII. Limiar de alerta para o dióxido de enxofre\n\nO limiar de alerta para o dióxido de enxofre é de 500 μg/m3, medido em três horas consecutivas, em locais que sejam representativos da qualidade do ar numa área de, pelo menos, 100 km2, ou numa zona ou aglomeração, consoante o espaço que apresentar menor área.\n\nIII. Dados mínimos a fornecer ao público quando o limiar de alerta para o dióxido de enxofre for excedido\n\nAs informações a fornecer ao público deverão incluir, no mínimo:\n\n- data, hora e local da ocorrência, bem como as razões da ocorrência, sempre que estas sejam conhecidas,\n\n- previsões:\n\n- variação das concentrações (melhoria, estabilização, ou agravamento), e razões das alterações previstas,\n\n- área geográfica afectada,\n\n- duração,\n\n- tipo de população potencialmente vulnerável à ocorrência,\n\n- precauções a tomar pela população vulnerável em causa."
+  },
+  "041db1d482f283f9": {
+   "fragment_id": "ANEXO II — VALORES-LIMITE PARA O DIÓXIDO DE AZOTO (NO2) E ÓXIDOS DE AZOTO (NOx) E LIMIAR DE ALERTA PARA O DIÓXIDO DE AZOTO",
+   "type": "divisao",
+   "heading": "ANEXO II — VALORES-LIMITE PARA O DIÓXIDO DE AZOTO (NO2) E ÓXIDOS DE AZOTO (NOx) E LIMIAR DE ALERTA PARA O DIÓXIDO DE AZOTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — VALORES-LIMITE PARA O DIÓXIDO DE AZOTO (NO2) E ÓXIDOS DE AZOTO (NOx) E LIMIAR DE ALERTA PARA O DIÓXIDO DE AZOTO\n\nI. Valores-limite para o dióxido de azoto e os óxidos de azoto\n\nOs valores-limite serão expressos em μg/m3. O volume tem de ser calculado à temperatura de 293 °K e à pressão de 101,3 kPa.\n\n>POSIÇÃO NUMA TABELA>\n\nII. Limiar de alerta para o dióxido de azoto\n\nO limiar de alerta para o dióxido de azoto é de 400 μg/m3, medido em três horas consecutivas, em locais que sejam representativos da qualidade do ar numa área de, pelo menos, 100 km3, ou numa zona ou aglomeração, consoante o espaço que apresentar menor área.\n\nIII. Dados mínimos a fornecer ao público quando o limiar de alerta para o dióxido de azoto for excedido\n\nAs informações a fornecer ao público deverão incluir, no mínimo:\n\n- data, hora e local da ocorrência, bem como as razões de ocorrência, sempre que estas sejam conhecidas,\n\n- previsões:\n\n- variação das concentrações (melhoria, estabilização, ou agravamento) e razões das alterações previstas,\n\n- área geográfica afectada,\n\n- duração,\n\n- tipo de população potencialmente vulnerável à ocorrência,\n\n- precauções a tomar pela população vulnerável em causa."
+  },
+  "3cb3d18e5ea3102a": {
+   "fragment_id": "ANEXO III — VALORES-LIMITE E NÍVEIS DE ACÇÃO PARA PARTÍCULAS EM SUSPENSÃO NA ATMOSFERA",
+   "type": "divisao",
+   "heading": "ANEXO III — VALORES-LIMITE E NÍVEIS DE ACÇÃO PARA PARTÍCULAS EM SUSPENSÃO NA ATMOSFERA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — VALORES-LIMITE E NÍVEIS DE ACÇÃO PARA PARTÍCULAS EM SUSPENSÃO NA ATMOSFERA\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "1c62b72a83757e63": {
+   "fragment_id": "ANEXO IV — VALOR-LIMITE PARA O CHUMBO",
+   "type": "divisao",
+   "heading": "ANEXO IV — VALOR-LIMITE PARA O CHUMBO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — VALOR-LIMITE PARA O CHUMBO\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "927e6c4e66688778": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V\n\nDETERMINAÇÃO DOS REQUISITOS DE AVALIAÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO (NO2) ÓXIDOS DE AZOTO (NOx) PARTÍCULAS EM SUSPENSÃO (PM10) E CHUMBO NO AR AMBIENTE NUMA ZONA OU AGLOMERAÇÃO\n\nI. Limiares superiores e limiares inferiores de avaliação\n\nSerão aplicados os seguintes limiares superiores e inferiores de avaliação:\n\na) Dióxido de enxofre\n\n>POSIÇÃO NUMA TABELA>\n\nb) Dióxido de azoto e óxidos de azoto\n\n>POSIÇÃO NUMA TABELA>\n\nc) Partículas em suspensão\n\nOs limiares superior e inferior de avaliação para PM10 baseiam-se nos valores indicativos para 1 de Janeiro de 2010.\n\n>POSIÇÃO NUMA TABELA>\n\nd) Chumbo\n\n>POSIÇÃO NUMA TABELA>\n\nII. Determinação da superação do limiar superior e do limiar inferior de avaliação\n\nA superação dos limiares superiores e inferiores de avaliação será determinada com base nas concentrações registadas durante os últimos cinco anos, desde que existam dados suficientes. Considerar-se-á que um limiar de avaliação foi excedido quando o número total de superações da concentração numérica do limiar, durante esses cinco anos, for três vezes superior ao número de superações anualmente permitidas.\n\nQuando os dados disponíveis forem referentes a um período inferior a cinco anos, os Estados-Membros podem conjugar a realização de campanhas de medição de curta duração, durante o período do ano e em locais que possam ser representativos dos níveis de poluição mais elevados, com resultados obtidos a partir de registos de taxas de emissão da modelização, de modo a determinar a superação dos limiares superiores e inferiores de avaliação."
+  },
+  "a986f41e1d5b94d4": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI\n\nLOCALIZAÇÃO DOS PONTOS DE AMOSTRAGEM PARA A MEDIÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO E ÓXIDOS DE AZOTO, PARTÍCULAS EM SUSPENSÃO E CHUMBO NO AR AMBIENTE\n\nAs seguintes considerações são aplicáveis a processos de medição fixos.\n\nI. Localização em macro-escala\n\na) Protecção da saúde humana\n\nOs pontos de amostragem dirigidos para a protecção da saúde humana devem ser instalados:\n\ni) de modo a fornecerem dados em áreas, dentro das zonas e aglomerações, nas quais é provável que a população esteja directa ou indirectamente exposta aos níveis mais elevados durante um período significativo em relação ao período de amostragem do(s) valor(es)-limite,\n\nii) de modo a fornecerem dados sobre os níveis em outras áreas, dentro das zonas e aglomerações, que sejam representativas da exposição da população em geral.\n\nDe um modo geral, os pontos de amostragem devem estar localizados de modo a evitar medir micro-ambientes de muito pequena dimensão na sua proximidade imediata. A título de orientação, um ponto de amostragem deve ter uma localização que o torne representativo da qualidade do ar numa área circundante de pelo menos 200 m2, nos locais dirigidos para o tráfego, e de vários quilómetros quadrados, nos locais situados em meio urbano.\n\nOs pontos de amostragem deverão, se possível, ser igualmente representativos de locais similares não situados na sua proximidade imediata.\n\nDeverá ser tomada em conta a conveniência de localizar pontos de amostragem nas ilhas, sempre que tal for necessário para a protecção da saúde humana;\n\nb) Protecção dos ecossistemas e da vegetação\n\nO ponto de amostragem que visa a protecção dos ecossistemas e da vegetação devem ser instalados para além de 20 km das aglomerações ou 5 km de outra área construída ou instalação industrial ou auto-estrada. A título de orientação, um ponto de amostragem deve estar situado de modo a ser representativo da qualidade do ar numa área envolvente de, pelo menos, 1000 km2. Os Estados-membros poderão determinar que um ponto de amostragem esteja localizado a menor distância ou que seja representativo da qualidade do ar numa área menos alargada, consoante as condições geográficas.\n\nDeverá ser tomada em conta a necessidade de avaliar a qualidade do ar nas ilhas.\n\nII. Localização em micro-escala\n\nNo mínimo, devem ser cumpridas, tanto quanto possível, as seguintes orientações:\n\n- o fluxo de ar em torno da entrada da sonda de amostragem não deve ser restringido por eventuais obstruções que possam afectar o fluxo de ar na proximidade do dispositivo de amostragem (normalmente, a alguns metros de distância de edifícios, varandas, árvores e outros obstáculos e, no mínimo, a 0,5 metros do edifício mais próximo, no caso de pontos de amostragem representativos da qualidade do ar na linha de edificação),\n\n- em geral, a entrada da sonda deve estar a uma distância entre 1,5 m (zona de admissão) e 4 m do solo. Poderá ser necessário, nalguns casos, instalá-la em posições mais elevadas (até cerca de 8 m). A localização em posições mais elevadas pode também ser apropriada, se a estação for representativa de uma vasta área,\n\n- a entrada da sonda não deve ser posicionada na imediata proximidade de fontes, para evitar a admissão directa de emissões não misturadas com o ar ambiente,\n\n- o exaustor da sonda de amostragem deve ser posicionado de modo a evitar a recirculação do ar expedido para a entrada da sonda,\n\n- localização dos dispositivos de amostragem orientadas para o tráfego:\n\n- em relação a todos os poluentes, os pontos de amostragem devem ser instalados a uma distância mínima de 25 metros da berma dos principais cruzamentos e de 4 m do centro da faixa de rodagem mais próxima,\n\n- em relação ao dióxido de azoto, as entradas das sondas devem ser instaladas a menos de 5 metros da berma,\n\n- em relação às partículas em suspensão e ao chumbo, as entradas das sondas devem ser instaladas de modo a que a amostragem seja representativa da qualidade do ar na proximidade da linha de edificação.\n\nPodem igualmente ser tidos em conta os seguintes factores:\n\n- fontes de interferência,\n\n- segurança,\n\n- acessibilidade,\n\n- existência de fontes de energia eléctrica e telecomunicações,\n\n- visibilidade do local em relação à área envolvente,\n\n- segurança do público e dos operadores,\n\n- conveniência de instalar pontos de amostragem para diferentes poluentes,\n\n- requisitos de planeamento.\n\nIII. Documentação e reavaliação da selecção dos locais\n\nOs procedimentos de selecção dos locais devem ser devidamente documentados na fase de classificação, utilizando meios como fotografias com as coordenadas da área envolvente e um mapa pormenorizado. Os locais devem ser reavaliados periodicamente, com base em nova documentação, para garantir que os critérios de selecção continuam a ser válidos ao longo do tempo."
+  },
+  "8795998bd86ceeb6": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII\n\nCRITÉRIOS PARA DETERMINAÇÃO DO NÚMERO MÍNIMO DE PONTOS DE AMOSTRAGEM PARA A MEDIÇÃO FIXA DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE (SO2), DIÓXIDO DE AZOTO (NO2), ÓXIDOS DE AZOTO (NOx), PARTÍCULAS EM SUSPENSÃO E CHUMBO NO AR AMBIENTE\n\nI. Número mínimo de pontos de amostragem para medição fixa destinada a avaliar o cumprimento dos valores-limite de protecção da saúde humana e dos limiares de alerta em zona e aglomerações em que a medição fixa constitui a única fonte de informações\n\na) Fontes difusas\n\n>POSIÇÃO NUMA TABELA>\n\nb) Fontes tópicas\n\nPara avaliar os níveis de poluição na proximidade de fontes tópicas, o número de pontos de amostragem para medição fixa deverá ser calculado tendo em conta as densidades de emissão, os padrões mais prováveis de distribuição da poluição do ar ambiente e a potencial exposição da população.\n\nII. Número mínimo de pontos de amostragem para medição fixa destinada a avaliar o cumprimento dos valores-limite de protecção dos ecossistemas e da vegetação em zonas que não sejam aglomerações\n\n>POSIÇÃO NUMA TABELA>\n\nNas zonas formados por ilhas, o número de pontos de amostragem deverá ser calculado tendo em conta os padrões mais prováveis de distribuição da poluição do ar ambiente e a potencial exposição dos ecossistemas e da vegetação."
+  },
+  "87aa295caaf6e4bb": {
+   "fragment_id": "ANEXO VIII — OBJECTIVOS DE QUALIDADE DOS DADOS E REGISTO DOS RESULTADOS DO PROCESSO DE AVALIAÇÃO DA QUALIDADE DO AR",
+   "type": "divisao",
+   "heading": "ANEXO VIII — OBJECTIVOS DE QUALIDADE DOS DADOS E REGISTO DOS RESULTADOS DO PROCESSO DE AVALIAÇÃO DA QUALIDADE DO AR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII — OBJECTIVOS DE QUALIDADE DOS DADOS E REGISTO DOS RESULTADOS DO PROCESSO DE AVALIAÇÃO DA QUALIDADE DO AR\n\nI. Objectivos de qualidade dos dados\n\nOs seguintes objectivos de qualidade dos dados, relativos à precisão e exactidão dos métodos de avaliação, ao período mínimo de amostragem e à recolha de dados de medição, são fornecidos como linhas de orientação para os programas de controlo de qualidade.\n\n>POSIÇÃO NUMA TABELA>\n\nA exactidão da medição é definida como estipulado no \"Guia para a expressão da margem de erro das medições\" (ISO 1993), ou na ISO 5725-1 \"Exactidão (justeza e precisão) dos métodos e resultados da medição\" (1994). As percentagens constantes do quadro são fornecidas para cada uma das medições, determinadas para o período considerado pelo valor-limite, com um intervalo de confiança de 95 % (erro sistemático + o dobro do desvio normal). A exactidão das medições contínuas deverá ser interpretada como aplicável na região do valor-limite apropriado.\n\nA exactidão da modelização e da estimativa objectiva é definida como o desvio máximo dos níveis de concentração medidos e calculados durante o período considerado pelo valor-limite, sem ter em conta a sequência dos acontecimentos.\n\nOs requisitos para o número mínimo de dados a recolher e o período de amostragem não incluem as perdas de informação decorrentes da calibragem regular ou da manutenção normal dos instrumentos.\n\nPor derrogação, os Estados-membros poderão efectuar medições aleatórias em vez de medições contínuas para as partículas em suspensão e o chumbo, caso possam demonstrar à Comissão que a exactidão relativa ao intervalo de confiança de 95 % respeitante ao controlo contínuo está dentro de um intervalo de 10 %. A amostragem aleatória deverá ser equitativamente distribuída ao longo do ano.\n\nII. Resultados da avaliação da qualidade do ar\n\nAs seguintes informações devem ser recolhidas nas zonas e aglomerações em que forem usadas outras fontes para além da medição para completar os dados obtidos por esta ou como o único processo de avaliação da qualidade do ar:\n\n- uma descrição das actividades de avaliação levadas a cabo,\n\n- os métodos específicos utilizados, acompanhados de referências a descrições dos mesmos,\n\n- fontes de dados e de informações,\n\n- uma descrição dos resultados, incluindo o grau de exactidão e, em especial, a extensão de todas as áreas ou, se tal for relevante, o comprimento da estrada, dentro da zona ou aglomeração em que as concentrações ultrapassem o(s) valor(es)-limite ou, se for caso disso, o(s) valor(es)-limite acrescidos) da(s) respectivas) margem(ns) de tolerância, bem como de todas as áreas em que as concentrações ultrapassem o limiar superior ou o limiar inferior de avaliação,\n\n- para os valores-limite que têm como objectivo a protecção da saúde humana, a população potencialmente exposta a concentrações que excedam o valor-limite.\n\nSempre que possível, os Estados-membros devem elaborar mapas das distribuições das concentrações dentro de cada zona e aglomeração.\n\nIII. Normalização\n\nNo caso do dióxido de enxofre, do dióxido de azoto e dos óxidos de azoto, o volume tem de ser normalizado à temperatura de 293.oK e à pressão de 101,3 kPa."
+  },
+  "2d37964c44d48b2c": {
+   "fragment_id": "ANEXO IX",
+   "type": "divisao",
+   "heading": "ANEXO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX\n\nMÉTODOS DE REFERÊNCIA PARA AVALIAÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO, ÓXIDOS DE AZOTO, PARTÍCULAS EM SUSPENSÃO (PM10 E PM2,5) E CHUMBO NA ATMOSFERA\n\nI. Método de referência da análise do dióxido de enxofre\n\nISO/FDIS 10498 (norma em projecto) Ar ambiente - Determinação do dióxido de enxofre - Método por fluorescência ultravioleta.\n\nOs Estados-membros poderão utilizar qualquer outro método cujos resultados o Estado-membro interessado possa demonstrar serem equivalentes ao método acima referido.\n\nII. Método de referência da análise do dióxido de azoto e dos óxidos de azoto\n\nISO 7996: 1985 Ar ambiente - Determinação das concentrações maciças de óxidos de azoto - Método por quimioluminescência\n\nOs Estados-membros poderão utilizar qualquer outro método cujos resultados o Estado-membro interessado possa demonstrar serem equivalentes ao método acima referido.\n\nIII.A Método de referência para a amostragem do chumbo\n\nO método de referência para a amostragem do chumbo será o método descrito no anexo à Directiva 82/884/CEE até ao momento em que o valor-limite fixado no anexo IV da presente directiva for atingido; a partir desse momento, o método de referência será o estipulado para PM10, como estipulado na secção IV do presente anexo.\n\nOs Estados-membros poderão utilizar qualquer outro método cujos resultados o Estado-membro interessado possa demonstrar serem equivalentes ao método acima referido.\n\nIII.B Método de referência para a análise do chumbo\n\nISO 9855: 1993 Ar ambiente - Determinação do teor de partículas de chumbo de aerossóis recolhidas em filtros. Método por espectroscopia de absorção atómica.\n\nOs Estados-membros poderão utilizar qualquer outro teor cujos resultados o Estado-membro interessado possa demonstrar serem equivalentes ao método acima referido.\n\nIV. Método de referência para a amostragem e medição de PM10\n\nO método descrito em EN 12341 \"Qualidade do Ar - Procedimento de ensaio no terreno para demonstrar a equivalência da referência dos métodos de amostragem para a fracção PM10 das partículas em suspensão\". O princípio de medição é baseado na recolha num filtro da fracção PM10 de partículas em suspensão no ar ambiente e na determinação da massa gravimétrica.\n\nOs Estados-membros poderão igualmente utilizar qualquer outro método cujos resultados o Estado-membro interessado possa demonstrar serem equivalentes ao método acima referido, ou qualquer outro método que o Estado-membro interessado possa demonstrar que possui uma relação sistemática com o método de referência. Nesse caso, os resultados conseguidos por este método deverão ser corrigidos pelo factor adequado de modo a apresentar resultados equivalentes aos resultados que teriam sido conseguidos mediante a utilização do método de referência.\n\nOs Estados-membros informarão a Comissão do método utilizado para realizar a amostragem e a medição de PM10. A Comissão levará a cabo logo que possível exercícios de comparação dos métodos de amostragem e medição de PM10 a fim de proporcionar informações para a revisão do disposto na presente directiva em conformidade com o artigo 10.o\n\nV. Método de referência provisório para a amostragem e medição de PM2,5\n\nA Comissão elaborará orientações, em consulta com o Comité referido no artigo 12.o da Directiva 96/62/CE, para um método de referência provisório para a amostragem e avaliação de PM2,5, até 19 de Julho de 2001.\n\nOs Estados-membros poderão utilizar qualquer outro método que o Estado-membro considere apropriado.\n\nOs Estados-membros informarão a Comissão do método utilizado para realizar a amostragem e a medição de PM2,5. A Comissão levará a cabo logo que possível exercícios de comparação dos métodos de amostragem e medição de PM2,5 a fim de proporcionar informações para a revisão do disposto na presente directiva em conformidade com o artigo 10.o\n\nVI. Técnicas de modelização de referência\n\nAs técnicas de modelização de referência não podem ser actualmente especificadas. Quaisquer alterações destinadas a adaptar este ponto ao progresso técnico e científico serão adoptadas de acordo com o procedimento previsto no n.o 2 do artigo 12.o da Directiva 96/62/CE."
+  },
+  "8f9102dc120e25a2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Abril de 1999\n\nrelativa a valores-limite para o dióxido de enxofre, dióxido de azoto e óxidos de azoto, partículas em suspensão e chumbo no ar ambiente\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente o n.º 1 do artigo 130.ºS,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 189.ºC do Tratado ([^3^](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#E0003)),\n\n(1) Considerando que, com base nos princípios consignados no artigo 130.ºR do Tratado, o programa da Comunidade Europeia de política e acção em matéria de ambiente e desenvolvimento sustentável (quinto programa de acção em matéria de ambiente) ([^4^](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#E0004)) prevê em especial alterações à legislação sobre poluentes atmosféricos; que o referido programa recomenda o estabelecimento de objectivos a longo prazo em matéria de qualidade do ar;\n\n(2) Considerando que o artigo 129.º do Tratado prevê que as exigências em matéria de protecção da saúde constituem uma componente das demais políticas comunitárias; que a alínea o) do artigo 3.º do Tratado determina que a acção da Comunidade implica uma contribuição para a realização de um elevado nível de protecção da saúde;\n\n(3) Considerando que, nos termos do n.º 5 do artigo 4.º da Directiva 96/62/CE do Conselho, de 27 de Setembro de 1996, relativa à avaliação e gestão da qualidade do ar ambiente ([^5^](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#E0005)), o Conselho deve adoptar a legislação a que se refere o n.º 1, bem como as disposições previstas nos n.^os^ 3 e 4 do mesmo artigo;\n\n(4) Considerando que os valores-limite fixados pela presente directiva constituem requisitos mínimos; que, nos termos do artigo 130.ºT do Tratado, os Estados-membros podem manter ou introduzir medidas de protecção reforçadas; que, nomeadamente, podem ser adoptados valores-limite mais rigorosos para proteger a saúde de categorias da população especialmente vulneráveis, como as crianças e os doentes hospitalizados; que os Estados-membros podem determinar que os valores-limite sejam atingidos numa data anterior à fixada na presente directiva;\n\n(5) Considerando que os ecossistemas devem ser protegidos contra os efeitos nocivos do dióxido de enxofre; que a vegetação deve ser protegida contra os efeitos nocivos dos óxidos de azoto;\n\n(6) Considerando que diferentes tipos de partículas podem ter efeitos nocivos diversos sobre a saúde humana; que está provado que os riscos para a saúde humana associados à exposição a partículas em suspensão criadas pelo homem são mais elevados do que os riscos associados à exposição a partículas de origem natural presentes no ar ambiente;\n\n(7) Considerando que a Directiva 96/62/CE prevê o desenvolvimento de planos de acção para zonas em que a concentração de poluentes no ar ambiente exceda os valores-limite acrescidos das margens temporárias de tolerância aplicáveis, para garantir a observância dos valores-limite até à ou às datas indicadas; que, no que se refere a partículas em suspensão, esses planos de acção e outras estratégias de redução devem procurar reduzir as concentrações de partículas finas no contexto da redução total das concentrações de partículas em suspensão;\n\n(8) Considerando que a Directiva 96/62/CE prevê que os valores numéricos para os valores-limite e os limiares de alerta se devem basear nos resultados de trabalhos efectuados por grupos científicos internacionais que operam nesse domínio; que a Comissão deverá tomar em consideração os dados mais recentes da investigação científica nos domínios apropriados da epidemiologia e do ambiente, assim como os mais recentes progressos dos métodos de medição para que sejam avaliados os elementos em que se fundamentam os valores-limite e os limiares de alerta;\n\n(9) Considerando que, para facilitar a revisão da presente directiva em 2003, a Comissão e os Estados-membros deverão estudar modos de promover a investigação sobre os efeitos dos poluentes nela referidos, designadamente o dióxido de enxofre, o dióxido de azoto e os óxidos de azoto, as partículas em suspensão e o chumbo;\n\n(10) Considerando que as técnicas normalizadas de medição exacta e os critérios comuns para a localização das estações de medição são elementos importantes para a avaliação da qualidade do ar ambiente, a fim de obter informações comparáveis em toda a Comunidade;\n\n(11) Considerando que, nos termos do n.º 1 do artigo 12.º da Directiva 96/62/CE, as alterações necessárias à adaptação ao progresso científico e técnico só podem incidir nos critérios e técnicas de avaliação das concentrações de dióxido de enxofre, de dióxido de azoto e óxidos de azoto, partículas em suspensão e chumbo e/ou nas modalidades de envio da informação à Comissão e não devem ter por efeito modificar, directa ou indirectamente, os valores-limite ou os limiares de alerta;\n\n(12) Considerando que deve ser facultado ao público um acesso fácil a informações actualizadas sobre concentrações de dióxido de enxofre, dióxido de azoto e óxidos de azoto, partículas em suspensão e chumbo no ar ambiente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "ab3feb981666091d": {
+   "fragment_id": "Artigo 1.º — Objectivos",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos\n\nOs objectivos da presente directiva são:\n\n— o estabelecimento de valores-limite e, quando apropriado, de limiares de alerta para as concentrações de dióxido de enxofre, dióxido de azoto e óxidos de azoto, partículas em suspensão e chumbo no ar ambiente, a fim de evitar, prevenir ou limitar os efeitos nocivos destes poluentes sobre a saúde humana e sobre o ambiente na sua globalidade,\n\n— a avaliação, com base em métodos e critérios comuns, das concentrações de dióxido de enxofre, dióxido de azoto e óxidos de azoto, partículas em suspensão e chumbo no ar ambiente,\n\n— a obtenção de informações adequadas sobre as concentrações de dióxido de enxofre, dióxido de azoto e óxidos de azoto, partículas em suspensão e chumbo no ar ambiente e assegurar a sua divulgação junto do público,\n\n— a manutenção da qualidade do ar ambiente, quando esta é boa, e a sua melhoria nos outros casos, no que diz respeito ao dióxido de enxofre, dióxido de azoto e óxidos de azoto, partículas em suspensão e chumbo."
+  },
+  "72f79dac5507e101": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Ar ambiente»: o ar exterior da troposfera, excepto o ar dos locais de trabalho.\n\n2. «Poluente»: as substâncias introduzidas directa ou indirectamente pelo homem no ar ambiente capazes de produzir efeitos nocivos sobre a saúde humana ou o meio ambiente.\n\n3. «Nível»: a concentração no ar ambiente ou a deposição superficial de um poluente num dado intervalo de tempo.\n\n4. «Avaliação»: os métodos utilizados para medir, calcular, prever ou estimar o nível de um poluente no ar ambiente.\n\n5. «Valor-limite»: o nível fixado com base em conhecimentos científicos com o intuito de evitar, prevenir ou reduzir os efeitos nocivos sobre a saúde humana e/ou o ambiente na sua globalidade, susceptível de ser atingido num prazo determinado e que, quando atingido, não deverá ser excedido.\n\n6. «Limiar de alerta»: o nível acima do qual uma exposição de curta duração acarreta riscos para a saúde humana e a partir do qual os Estados-membros tomarão medidas imediatas, tal como previsto na Directiva 96/62/CE.\n\n7. «Margem de tolerância»: a percentagem do valor-limite em que este valor pode ser excedido nas condições constantes da Directiva 96/62/CE.\n\n8. «Zona»: parte do território dos Estados-membros, delimitada por eles próprios.\n\n9. «Aglomeração»: uma zona caracterizada por uma concentração de população superior a 250 000 habitantes ou, quando a concentração da população for inferior ou igual a 250 000 habitantes, uma densidade populacional por quilómetro quadrado que justifique que os Estados-membros avaliem e giram a qualidade do ar ambiente.\n\n10. «Óxidos de azoto»: a soma de monóxido e dióxido de azoto adicionados como partes por bilião e expressas em dióxido de azoto, em microgramas por metro cúbico.\n\n11. «PM10»: partículas em suspensão susceptíveis de passar através de um filtro selectivo com 50 % de eficiência para um diâmetro aerodinâmico de 10 μm.\n\n12. «PM2,5»: partículas em suspensão susceptíveis de passar através de um filtro selectivo com 50 % de eficiência para um diâmetro aerodinâmico de 2,5 μm.\n\n13. «Limiar superior de avaliação»: nível de poluição, especificado no anexo V, abaixo do qual pode ser utilizada uma combinação de medidas e de técnicas de modelização para avaliar a qualidade do ar ambiente, nos termos do n.º 3 do artigo 6.º da Directiva 96/62/CE.\n\n14. «Limiar inferior de avaliação»: nível de poluição, especificado no anexo V, abaixo do qual só pode ser utilizada a modelização ou a estimativa objectiva para avaliar a qualidade do ar ambiente, nos termos do n.º 4 do artigo 6.º da Directiva 96/62/CE.\n\n15. «Catástrofe natural»: erupções vulcânicas, actividades sísmicas, actividades geotérmicas, incêndios florestais incontrolados, ventos de grande intensidade ou ressuspensão ou transporte atmosférico de partículas naturais provenientes de regiões secas.\n\n16. «Medições fixas»: medições efectuadas nos termos do n.º 5 do artigo 6.º da Directiva 96/62/CE."
+  },
+  "fd5f212df08f387b": {
+   "fragment_id": "Artigo 3.º — Dióxido de enxofre",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Dióxido de enxofre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Dióxido de enxofre\n\n1. Os Estados-membros adoptarão as medidas necessárias para garantir que as concentrações de dióxido de enxofre no ar ambiente, avaliadas nos termos do artigo 7.º, não excedam os valores-limite estabelecidos na secção I do anexo I, a partir das datas nela fixadas.\n\nAs margens de tolerância previstas na secção I do anexo I cumprirão o disposto no artigo 8.º da Directiva 96/62/CE.\n\n2. O limiar de alerta para as concentrações de dióxido de enxofre no ar ambiente consta da secção II do anexo I.\n\n3. A fim de coadjuvar a Comissão na elaboração do relatório previsto no artigo 10.º, os Estados-membros procederão, quando possível, até 31 de Dezembro de 2003, ao registo dos dados relativos às concentrações de dióxido de enxofre, determinadas de 10 em 10 minutos, a partir de algumas das estações de medição seleccionadas pelos Estados-membros como representativas da qualidade do ar em áreas habitadas próximas das fontes e em que as concentrações sejam medidas de hora a hora. Simultaneamente com os dados fornecidos sobre as concentrações de hora a hora, e nos termos do n.º 1 do artigo 11.º da Directiva 96/62/CE, quando possível, os Estados-membros comunicarão à Comissão, para as estações de medição seleccionadas, os valores de concentrações medidas de 10 em 10 minutos que excedam 500 μg/m^3^, o número de dias do ano em que tal tenha ocorrido, o número desses dias em que, ao mesmo tempo, as concentrações de dióxido de enxofre medidas de hora a hora tenham excedido simultaneamente 350 μg/m^3^ e a concentração máxima registada de 10 em 10 minutos.\n\n4. Os Estados-membros podem designar zonas ou aglomerações nas quais os valores-limite de dióxido de enxofre referidos na secção I do anexo I são excedidos devido a essas concentrações no ar ambiente, causadas por factores naturais. Os Estados-membros enviarão à Comissão listas dessas zonas ou aglomerações juntamente com informações sobre concentrações e fontes de dióxido de enxofre nas mesmas. Ao informarem a Comissão, nos termos do n.º 1 do artigo 11.º da Directiva 96/62/CE, os Estados-membros deverão fornecer a justificação necessária para demonstrar que as superações se devem a causas naturais.\n\nNessas zonas ou aglomerações, os Estados-membros só executarão planos de acção nos termos do n.º 3 do artigo 8.º da Directiva 96/62/CE, quando os valores-limite estabelecidos na secção I do aexo I forem excedidos devido a emissões criadas pelo homem."
+  },
+  "fd7e012165499b31": {
+   "fragment_id": "Artigo 4.º — Dióxido de azoto e óxidos de azoto",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Dióxido de azoto e óxidos de azoto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dióxido de azoto e óxidos de azoto\n\n1. Os Estados-membros adoptarão as medidas necessárias para garantir que as concentrações de dióxido de azoto e, se for caso disso, de óxidos de azoto no ar ambiente, avaliadas nos termos do artigo 7.º, não excedam os valores-limite estabelecidos na secção I do anexo II, a partir das datas nela fixadas.\n\nAs margens de tolerância previstas na secção I do anexo II cumprirão o disposto no artigo 8.º da Directiva 96/62/CE.\n\n2. O limiar de alerta para as concentrações de dióxido de azoto no ar ambiente consta da secção II do anexo II."
+  },
+  "c9a9c2afce1e530f": {
+   "fragment_id": "Artigo 5.º — Partículas em suspensão",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Partículas em suspensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Partículas em suspensão\n\n1. Os Estados-membros adoptarão as medidas necessárias para garantir que as concentrações de PM10 no ar ambiente, avaliadas nos termos do artigo 7.º, não excedam os valores-limite estabelecidos na secção I do anexo III, a partir das datas nela fixadas.\n\nAs margens de tolerância especificadas na secção I do anexo III cumprirão o disposto no artigo 8.º da Directiva 96/62/CE.\n\n2. Os Estados-membros garantirão que as estações de medição que fornecem os dados sobre as concentrações de PM2,5 estão instaladas e operacionais. O número e a localização das estações de medição de PM2,5 serão estabelecidos pelos Estados-membros, tendo em vista a obtenção de valores representativos das concentrações de PM2,5 no respectivo território. Sempre que possível, os seus pontos de amostragem serão instalados conjuntamente com os pontos de amostragem de PM10.\n\nOs Estados-membros enviarão anualmente à Comissão, o mais tardar nove meses após o final de cada ano, a média aritmética dos valores, a mediana, o percentil 98 e o valor da concentração máxima determinados a partir das medições de PM2,5 durante um período de 24 horas no decorrer desse ano. O percentil 98 será calculado nos termos do anexo I, secção 4, da Decisão 97/101/CE do Conselho, de 27 de Janeiro de 1997, que estabelece um intercâmbio recíproco de informações e de dados provenientes das redes e estações individuais que medem a poluição atmosférica nos Estados-membros ([^6^](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#E0006)).\n\n3. Os planos de acção estabelecidos para as concentrações de PM10 nos termos do artigo 8.º da Directiva 96/62/CE e as estratégias gerais a adoptar para a sua redução terão também como objectivo a redução das concentrações de PM2,5.\n\n4. Sempre que os valores-limite de PM10 indicados na secção I do anexo III forem excedidos em virtude de concentrações de PM10 no ar ambiente devidas a catástrofes naturais de que resultem concentrações significativamente superiores aos valores de base normais decorrentes de factores naturais, os Estados-membros informarão a Comissão, nos termos do n.º 1 do artigo 11.º da Directiva 96/62/CE, apresentando a justificação necessária para demonstrar que essas superações se devem a catástrofes naturais. Nesses casos, os Estados-membros só serão obrigados a aplicar planos de acção nos termos do n.º 3 do artigo 8.º da Directiva 96/62/CE quando os valores-limite estabelecidos na secção I do anexo III forem excedidos devido a outras causas que não catástrofes naturais.\n\n5. Os Estados-membros podem designar zonas ou aglomerações nas quais os valores-limite de PM10 referidos na secção I do anexo III são excedidos devido a essas concentrações no ar ambiente causadas pela ressuspensão de partículas em consequência da colocação de areia nas estradas durante o Inverno. Os Estados-membros enviarão à Comissão listas dessas zonas ou aglomerações juntamente com informações sobre concentrações e fontes de PM10 nas mesmas. Ao informarem a Comissão, nos termos do n.º 1 do artigo 11.º da Directiva 96/62/CE, os Estados-membros deverão fornecer a justificação necessária para demonstrar que as superações se devem a essas partículas em ressuspensão, e que foram tomadas as medidas possíveis para fazer baixar as concentrações.\n\nNessas zonas ou aglomerações, os Estados-membros só executarão planos de acção nos termos do n.º 3 do artigo 8.º da Directiva 96/62/CE, quando os valores-limite estabelecidos na secção I do anexo III forem excedidos devido a níveis de PM10 que não resultem da colocação de areia nas estradas durante o Inverno."
+  },
+  "e82bc8ce6d90900a": {
+   "fragment_id": "Artigo 6.º — Chumbo",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Chumbo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Chumbo\n\nOs Estados-membros adoptarão as medidas necessárias para garantir que as concentrações de chumbo no ar ambiente, avaliadas nos termos do artigo 7.º, não excedam os valores-limite estabelecidos na secção I do anexo IV, a partir das datas nela fixadas.\n\nAs margens de tolerância previstas na secção I do anexo IV cumprirão o disposto no artigo 8.º da Directiva 96/62/CE."
+  },
+  "eb4ac828105d08ec": {
+   "fragment_id": "Artigo 7.º — Avaliação das concentrações",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Avaliação das concentrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Avaliação das concentrações\n\n1. Os limiares superior e inferior de avaliação do dióxido de enxofre, do dióxido de azoto e óxidos de azoto, das partículas em suspensão na atmosfera e do chumbo, para efeitos do artigo 6.º da Directiva 96/62/CE, constam da secção I do anexo V.\n\nA classificação de cada zona ou aglomeração para efeitos do referido artigo 6.º será vista, pelo menos de cinco em cinco anos, nos termos da secção II do anexo V. Essa classificação será vista mais cedo, em caso de alterações significativas das actividades relevantes para as concentrações de dióxido de enxofre, dióxido de azoto ou, quando apropriado, óxidos de azoto, partículas em suspensão na atmosfera ou chumbo.\n\n2. O anexo VI estabelece os critérios de escolha da localização dos pontos de amostragem para medição dos níveis de dióxido de enxofre, dióxido de azoto e óxidos de azoto, partículas em suspensão na atmosfera e chumbo. O anexo VII define o número mínimo de pontos de amostragem para medições fixas das concentrações de cada poluente; esses pontos de amostragem devem ser instalados nas zonas ou aglomerações em que são exigidas medições, se a medição fixa for a única fonte de dados sobre concentrações nessas zonas.\n\n3. Nas zonas e aglomerações nas quais as informações recolhidas a partir de estações de medição fixa forem complementadas por dados provenientes de outras fontes, como registos de taxas de emissão, métodos de avaliação de referência e modelização da qualidade do ar, o número de estações de medição fixa a instalar, bem como a resolução espacial de outras técnicas, deverão permitir medir as concentrações de poluentes atmosféricos nos termos da secção I do anexo VI, e da secção I do anexo VIII.\n\n4. Nas zonas e aglomerações em que não são exigidas medições, podem ser utilizadas técnicas de modelização ou de estimativa objectiva.\n\n5. Os métodos de referência a utilizar na análise dos níveis de dióxido de enxofre, dióxido de azoto e óxidos de azoto, e na amostragem e análise dos níveis de chumbo, constam das secções I a III do anexo IX.\n\nO método de referência para a amostragem e a medição dos níveis de PM10 consta da secção IV do anexo IX.\n\nO método de referência provisório para a amostragem e a medição dos níveis de PM2,5 consta da secção V do anexo IX.\n\nAs técnicas de referência para a modelização da qualidade do ar constam da secção VI do anexo IX.\n\n6. Os Estados-membros comunicarão à Comissão os métodos utilizados na avaliacão preliminar da qualidade do ar, nos termos do n.º 1, alínea d), do artigo 11.º da Directiva 96/62/CE, 18 meses a contar da data de entrada em vigor da presente directiva."
+  },
+  "c17c4124ef64b94d": {
+   "fragment_id": "Artigo 8.º — Informação do público",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Informação do público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Informação do público\n\n1. Os Estados-membros garantirão que sejam regularmente facultadas ao público bem como às organizações competentes neste domínio, como as organizações de defesa do ambiente, as organizações de defesa do consumidor, as organizações que representam os interesses das populações mais vulneráveis e outros organismos competentes em matéria de protecção da saúde, informações actualizadas sobre os níveis ambientais de dióxido de enxofre, dióxido de azoto e óxidos de azoto, partículas em suspensão e chumbo, através, por exemplo, da rádio, da imprensa, de painéis de informação ou dos serviços das redes informáticas.\n\nAs informações sobre as concentrações de dióxido de enxofre, dióxido de azoto e partículas em suspensão deverão ser actualizadas pelo menos diariamente e, no caso dos valores do dióxido de enxofre e de óxido de azoto medidos de hora a hora, as informações deverão ser actualizadas de hora a hora, se possível. As informações sobre a concentração de chumbo no ar ambiente deverão ser actualizadas de três em três meses.\n\nEssas informações incluirão pelo menos todos os casos em que as concentrações excedam os valores-limite e os limiares de alerta nos períodos de amostragem especificados nos anexos I a IV, bem como uma breve avaliação relativa aos valores-limite e aos limiares de alerta e informações adequadas quanto aos efeitos sobre a saúde.\n\n2. Ao divulgarem publicamente os planos ou programas nos termos do n.º 3 do artigo 8.º da Directiva 96/62/CE, incluindo os planos ou programas a que se referem o n.º 4 do artigo 3.º, e os n.^os^ 4 e 5 do artigo 5.º da presente directiva, os Estados-membros comunicá-los-ão igualmente às organizações referidas no n.º 1.\n\n3. Sempre que se exceda um limiar de alerta referido no anexo I ou no anexo II, as informações facultadas ao público, nos termos do artigo 10.º da Directiva 96/62/CE, incluirão no mínimo os pontos da lista que consta da secção III do anexo I e do anexo II.\n\n4. As informações divulgadas ao público e às organizações ao abrigo dos n.^os^ 1 e 3 devem ser claras, compreensíveis e acessíveis."
+  },
+  "9745378037d4008e": {
+   "fragment_id": "Artigo 9.º — Revogações e acordos transitórios",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Revogações e acordos transitórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Revogações e acordos transitórios\n\n1. A Directiva 80/779/CEE do Conselho, de 15 de Julho de 1980, relativa a valores-limite e a valores-guia de qualidade do ar para o dióxido de enxofre e as partículas em suspensão ([^7^](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#E0007)) é revogada em 19 de Julho de 2001, excepto o artigo 1.º, o n.º 1 do artigo 2.º, o n.º 1 do artigo 3.º, e os artigos 9.º, 15.º e 16.º e os anexos I, III b e IV que são revogados em 1 de Janeiro de 2005.\n\n2. A Directiva 82/884/CEE do Conselho, de 3 de Dezembro de 1982, relativa a um valor-limite para o chumbo contido na atmosfera ([^8^](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#E0008)) é revogada em 19 de Julho de 2001, excepto os artigos 1.º e 2.º, o n.º 1 do artigo 3.º e os artigos 7.º, 12.º e 13.º que são revogados em 1 de Janeiro de 2005.\n\n3. A Directiva 85/203/CEE do Conselho, de 7 de Março de 1985, relativa às normas de qualidade do ar para o dióxido de azoto ([^9^](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#E0009)) é revogada em 19 de Julho de 2001, excepto o artigo n.º 1, primeiro travessão e o n.º 2 do artigo 1.º, o primeiro travessão do artigo 2.º, o n.º 1 do artigo 3.º e os artigos 5.º, 9.º, 15.º e 16.º e o anexo I que são revogados em 1 de Janeiro de 2001.\n\n4. A partir de 19 de Julho de 2001, os Estados-membros utilizarão estações de medição e outros métodos de avaliação da qualidade do ar, de acordo com os requisitos da presente directiva, para avaliar as concentrações de dióxido de enxofre, de óxido de azoto e chumbo no ar ambiente, de modo a obter dados destinados a demonstrar a observância dos valores-limite estabelecidos nas Directivas 80/779/CEE, 82/884/CEE e 85/203/CEE, até à data em que os valores-limite estabelecidos nessas directivas deixem de ser aplicáveis.\n\n5. A partir de de 19 de Julho de 2001, os Estados-membros poderão utilizar estações de medição e outros métodos de avaliação da qualidade do ar relativos às PM10, de acordo com os requisitos da presente directiva para avaliar as concentrações de partículas em suspensão, de modo a demonstrar a observância dos valores-limite para a totalidade das partículas em suspensão estabelecidos no anexo IV da Directiva 80/779/CEE; no entanto, para demonstrar essa observância, os dados recolhidos serão multiplicados por um factor de 1,2.\n\n6. Os Estados-membros informarão a Comissão de qualquer superação dos valores-limite estabelecidos nas Directivas 80/779/CEE, 82/884/CEE e 85/203/CEE, assim como dos valores registados, das causas que explicam esses valores e das medidas tomadas para evitar que se repitam, anualmente, num prazo de nove meses a contar do final de cada ano, nos termos do artigo 11.º da Directiva 96/62/CE, até à data em que os valores-limite estabelecidos nessas directivas deixarem de ser aplicáveis.\n\n7. Nas zonas em que os Estados-membros considerarem necessário limitar ou prevenir um aumento previsível da poluição por dióxido de enxofre, óxidos de azoto ou partículas em suspensão, poderão continuar a usar os valores-guia para a protecção dos ecossistemas que constam do anexo II da Directiva 80/779/CEE e do anexo II da Directiva 85/203/CEE."
+  },
+  "2adf5cde2b46a018": {
+   "fragment_id": "Artigo 13.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "fd5dbcac43310f78": {
+   "fragment_id": "Artigo 14.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Destinatários\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "bceefa40b43bc17a": {
+   "fragment_id": "VALORES-LIMITE E LIMIAR DE ALERTA PARA O DIÓXIDO DE ENXOFRE",
+   "type": "divisao",
+   "heading": "VALORES-LIMITE E LIMIAR DE ALERTA PARA O DIÓXIDO DE ENXOFRE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VALORES-LIMITE E LIMIAR DE ALERTA PARA O DIÓXIDO DE ENXOFRE"
+  },
+  "64178db0b400775a": {
+   "fragment_id": "I. Valores-limite para o dióxido de enxofre",
+   "type": "divisao",
+   "heading": "I. Valores-limite para o dióxido de enxofre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Valores-limite para o dióxido de enxofre\n\nOs valores-limite serão expressos em μg/m^3^. O volume tem de ser calculado à temperatura de e à pressão de 293 °K de 101,3 kPa.\n\n|  | Período de amostragem | Valor-limite | Margem de tolerância | Data de cumprimento do valor-limite |\n| --- | --- | --- | --- | --- |\n| 1. Valor-limite horário para protecção da saúde humana | 1 hora | 350 μg/m^3^ valor a não exceder mais de 24 vezes em cada ano civil | 150 μg/m^3^ (43 %) data de entrada em vigor da presente directiva, devendo sofrer uma redução a partir de 1 de Janeiro de 2001 e depois, de 12 em 12 meses, numa percentagem anual idêntica, até atingir 0 % em 1 de Janeiro de 2005 | 1 de Janeiro de 2005 |\n| 2. Valor-limite diário para protecção da saúde humana | 24 horas | 125 μg/m^3^ valor a não exceder mais de três vezes em cada ano civil | não se aplica | 1 de Janeiro de 2005 |\n| 3. Valor-limite para protecção dos ecossistemas | ano civil e período de Inverno (1 de Outubro a 31 de Março) | 20 μg/m^3^ | não se aplica | 19 de Julho de 2001 |"
+  },
+  "e346bb0c34c47605": {
+   "fragment_id": "II. Limiar de alerta para o dióxido de enxofre",
+   "type": "divisao",
+   "heading": "II. Limiar de alerta para o dióxido de enxofre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Limiar de alerta para o dióxido de enxofre\n\nO limiar de alerta para o dióxido de enxofre é de 500 μg/m^3^, medido em três horas consecutivas, em locais que sejam representativos da qualidade do ar numa área de, pelo menos, 100 km^2^, ou numa zona ou aglomeração, consoante o espaço que apresentar menor área."
+  },
+  "920649d4368fa42e": {
+   "fragment_id": "III. Dados mínimos a fornecer ao público quando o limiar de alerta para o dióxido de enxofre for excedido",
+   "type": "divisao",
+   "heading": "III. Dados mínimos a fornecer ao público quando o limiar de alerta para o dióxido de enxofre for excedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. Dados mínimos a fornecer ao público quando o limiar de alerta para o dióxido de enxofre for excedido\n\nAs informações a fornecer ao público deverão incluir, no mínimo:\n\n— data, hora e local da ocorrência, bem como as razões da ocorrência, sempre que estas sejam conhecidas,\n\n— previsões:\n\n— variação das concentrações (melhoria, estabilização, ou agravamento), e razões das alterações previstas,\n\n— área geográfica afectada,\n\n— duração,\n\n— tipo de população potencialmente vulnerável à ocorrência,\n\n— precauções a tomar pela população vulnerável em causa."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "4b75d6d19e033d68": {
+   "fragment_id": "VALORES-LIMITE PARA O DIÓXIDO DE AZOTO (NO2) E ÓXIDOS DE AZOTO (NOx) E LIMIAR DE ALERTA PARA O DIÓXIDO DE AZOTO",
+   "type": "divisao",
+   "heading": "VALORES-LIMITE PARA O DIÓXIDO DE AZOTO (NO2) E ÓXIDOS DE AZOTO (NOx) E LIMIAR DE ALERTA PARA O DIÓXIDO DE AZOTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VALORES-LIMITE PARA O DIÓXIDO DE AZOTO (NO2) E ÓXIDOS DE AZOTO (NOx) E LIMIAR DE ALERTA PARA O DIÓXIDO DE AZOTO"
+  },
+  "2929c859998179c8": {
+   "fragment_id": "I. Valores-limite para o dióxido de azoto e os óxidos de azoto",
+   "type": "divisao",
+   "heading": "I. Valores-limite para o dióxido de azoto e os óxidos de azoto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Valores-limite para o dióxido de azoto e os óxidos de azoto\n\nOs valores-limite serão expressos em μg/m^3^. O volume tem de ser calculado à temperatura de 293 °K e à pressão de 101,3 kPa.\n\n|  | Período de amostragem | Valor-limite | Margem de tolerância | Data de cumprimento do valor-limite |\n| --- | --- | --- | --- | --- |\n| 1. Valor-limite horário para protecção da saúde humana | 1 hora | 200 μg/m^3^ NO2 valor a não execer mais de 18 vezes em cada ano civil | 50 % na data da entrada em vigor da presente directiva, devendo sofrer uma redução a partir de 1 de Janeiro de 2001 e depois, de 12 em 12 meses, numa percentagem anual idêntica, até atingir 0 % em 1 de Janeiro de 2010 | 1 de Janeiro de 2010 |\n| 2. Valor-limite horário para protecção da saúde humana | ano civil | 40 μg/m^3^ NO2 | 50 % na data da entrada em vigor da presente directiva, devendo sofrer uma redução a partir de 1 de Janeiro de 2001 e depois, de 12 em 12 meses, numa percentagem anual idêntica, até atingir 0 % em 1 de Janeiro de 2010 | 1 de Janeiro de 2010 |\n| 3. Valor-limite anual para protecção da vegetação | ano civil | 30 μg/m^3^ NOx | não se aplica | 19 de Julho de 2001 |"
+  },
+  "e1e2973847e64924": {
+   "fragment_id": "II. Limiar de alerta para o dióxido de azoto",
+   "type": "divisao",
+   "heading": "II. Limiar de alerta para o dióxido de azoto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Limiar de alerta para o dióxido de azoto\n\nO limiar de alerta para o dióxido de azoto é de 400 μg/m^3^, medido em três horas consecutivas, em locais que sejam representativos da qualidade do ar numa área de, pelo menos, 100 km^3^, ou numa zona ou aglomeração, consoante o espaço que apresentar menor área."
+  },
+  "c9830a9996194611": {
+   "fragment_id": "III. Dados mínimos a fornecer ao público quando o limiar de alerta para o dióxido de azoto for excedido",
+   "type": "divisao",
+   "heading": "III. Dados mínimos a fornecer ao público quando o limiar de alerta para o dióxido de azoto for excedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. Dados mínimos a fornecer ao público quando o limiar de alerta para o dióxido de azoto for excedido\n\nAs informações a fornecer ao público deverão incluir, no mínimo:\n\n— data, hora e local da ocorrência, bem como as razões de ocorrência, sempre que estas sejam conhecidas,\n\n— previsões:\n\n— variação das concentrações (melhoria, estabilização, ou agravamento) e razões das alterações previstas,\n\n— área geográfica afectada,\n\n— duração,\n\n— tipo de população potencialmente vulnerável à ocorrência,\n\n— precauções a tomar pela população vulnerável em causa."
+  },
+  "56ed94e5afa2e88d": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\n|  | Período de amostragem | Valor-limite | Margem de tolerância | Data de cumprimento do valor-limite |\n| --- | --- | --- | --- | --- |\n| 1.ª fase |  |  |  |  |\n| 1. Valor-limite para protecção da saúde humana (em 24 horas) | 24 horas | 50 μg/m^3^ PM10 valor a não exceder mais de 35 vezes em cada no civil | 50 % na data de entrada em vigor da presente directiva, devendo sofrer uma redução a partir de 1 de Janeiro de 2001 e depois, de 12 em 12 meses, numa percentagem anual idêntica, até atingir 0 % em 1 de Janeiro de 2005 | 1 de Janeiro de 2005 |\n| 2. Valor-limite anual para protecção da saúde humana | ano civil | 40 μg/m^3^ PM10 | 20 % na data de entrada em vigor da presente directiva, devendo sofrer uma redução a partir de 1 de Janeiro de 2001 e depois, de 12 em 12 meses, numa percentagem anual idêntica, até atingir 0 % em 1 de Janeiro de 2005 | 1 de Janeiro de 2005 |\n| 2.ª fase [(^1^)](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#E0010) |  |  |  |  |\n| 1. Valor-limite para protecção da saúde humana (em 24 horas) | 24 horas | 50 μg/m^3^ PM10 valor a não exceder mais de sete vezes em cada ano civil | a calcular em função dos dados, de modo a ser equivalente ao valor-limite da 1.ª fase | 1 de Janeiro de 2010 |\n| 2. Valor-limite anual para protecção da saúde humana | ano civil | 20 μg/m^3^ PM10 | 50 % em 1 de Janeiro de 2005, devendo depois sofrer uma redução de 12 em 12 meses, numa percentagem anual idêntica, até atingir 0 % em 1 de Janeiro de 2010 | 1 de Janeiro de 2010 |\n| (^1^)Valores-limite indicativos a rever à luz de novas informações sobre os efeitos na saúde e no meio ambiente, viabilidade técnica e experiência adquirida com a aplicação dos valores-limite para a 1.ª fase nos Estados-membros. |  |  |  |  |"
+  },
+  "b29da574bd504b77": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV\n\n|  | Período de amostragem | Valor-limite | Margem de tolerância | Data de cumprimento do valor-limite |\n| --- | --- | --- | --- | --- |\n| Valor-limite anual para protecção da saúde humana | ano civil | 0,5 μg/m^3^ [(^1^)](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#E0011) | 100 % na data de entrada em vigor da presente directiva, devendo sofrer uma redução a partir de 1 de Janeiro de 2001 e depois, de 12 em 12 meses, numa percentagem anual idêntica, até atingir 0 % em 1 de Janeiro de 2005 ou 1 de Janeiro de 2010, na proximidade imediata de fontes tópicas específicas a notificar à Comissão | 1 de Janeiro de 2005 ou 1 de Janeiro de 2010, na proximidade imediata de fontes industriais específicas, situadas em locais contaminados por décadas de actividade industrial. A Comissão será notificada destas fontes em 19 de Julho de 2001 [(^2^)](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#E0012). Nesses casos, o valor-limite a partir de 1 de Janeiro de 2005 será de 1,0 μg/m^3^ |\n| (^1^)Aquando do processo de revisão da presente directiva previsto no artigo 1.º, será analisada a possibilidade de completar ou substituir o valor-limite por um valor-limite de deposição na proximidade imediata de fontes tópicas específicas. (^2^)Esta notificação será acompanhada da justificação correspondente valores-limite mais elevados poderá distar mais de 1 000 m dessas fontes específicas. |  |  |  |  |"
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "a780dcfa14add746": {
+   "fragment_id": "DETERMINAÇÃO DOS REQUISITOS DE AVALIAÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO (NO2) ÓXIDOS DE AZOTO (NOx) PARTÍCULAS EM SUSPENSÃO (PM10) E CHUMBO NO AR AMBIENTE NUMA ZONA OU AGLOMERAÇÃO",
+   "type": "divisao",
+   "heading": "DETERMINAÇÃO DOS REQUISITOS DE AVALIAÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO (NO2) ÓXIDOS DE AZOTO (NOx) PARTÍCULAS EM SUSPENSÃO (PM10) E CHUMBO NO AR AMBIENTE NUMA ZONA OU AGLOMERAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DETERMINAÇÃO DOS REQUISITOS DE AVALIAÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO (NO2) ÓXIDOS DE AZOTO (NOx) PARTÍCULAS EM SUSPENSÃO (PM10) E CHUMBO NO AR AMBIENTE NUMA ZONA OU AGLOMERAÇÃO"
+  },
+  "9c02eecbb206de4c": {
+   "fragment_id": "I. Limiares superiores e limiares inferiores de avaliação",
+   "type": "divisao",
+   "heading": "I. Limiares superiores e limiares inferiores de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Limiares superiores e limiares inferiores de avaliação\n\nSerão aplicados os seguintes limiares superiores e inferiores de avaliação:\n\na) Dióxido de enxofre\n\n|  | Protecção da saúde | Protecção dos ecossistemas |\n| --- | --- | --- |\n| Limiar superior de avaliação | 60 % do valor-limite para cada 24 h (75 μg/m^3^, valor a não exceder mais de três vezes em cada ano civil) | 60 % do valor-limite para o período de Inverno (12 μg/m^3^) |\n| Limiar inferior de avaliação | 40 % do valor-limite para cada 24 h (50 μg/m^3^, valor a não exceder mais de três vezes em cada ano civil) | 40 % do valor-limite para o período de Inverno (8 μg/m^3^) |\n\nb) Dióxido de azoto e óxidos de azoto\n\n|  | Valor-limite horário para protecção da saúde humana (NO2) | Valor-limite anual para protecção da saúde humana (NO2) | Valor-limite anual para protecção da vegetação (NOx) |\n| --- | --- | --- | --- |\n| Limiar superior de avaliação | 70 % do valor-limite (140 μg/m^3^, valor a não exceder mais de 18 vezes em cada ano civil) | 80 % do valor-limite (32 μg/m^3^) | 80 % do valor-limite (24 μg/m^3^) |\n| Limiar inferior de avaliação | 50 % do valor-limite (100 μg/m^3^, valor a não exceder mais de 18 vezes em cada ano civil) | 65 % do valor-limite (26 μg/m^3^) | 65 % do valor-limite (19,5 μg/m^3^) |\n\nc) Partículas em suspensão\n\n|  | Média em 24 horas | Média anual |\n| --- | --- | --- |\n| Limiar superior de avaliação | 60 % do valor-limite (30 μg/m^3^, valor a não exceder mais de sete vezes em cada ano civil) | 70 % do valor-limite (14 μg/m^3^) |\n| Limiar inferior de avaliação | 40 % do valor-limite (20 μg/m^3^, valor a não exceder mais de sete vezes em cada ano civil) | 50 % do valor-limite (10 μg/m^3^) |\n\nd) Chumbo\n\nMédia anual\n\nLimiar superior de avaliação 70 % do valor-limite (0,35 μg/m^3^)\n\nLimiar inferior de avaliação 50 % do valor-limite (0,25 μg/m^3^)"
+  },
+  "bbc75807ab6ec6ea": {
+   "fragment_id": "II. Determinação da superação dos limiares superiores e inferiores de avaliação",
+   "type": "divisao",
+   "heading": "II. Determinação da superação dos limiares superiores e inferiores de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Determinação da superação dos limiares superiores e inferiores de avaliação\n\nSempre que existirem dados suficientes, a superação dos limiares superiores e inferiores de avaliação deverá ser determinada com base nas concentrações registadas nos últimos cinco anos. Considerar-se-á que o limiar de avaliação foi excedido no caso de ter sido transposto durante, pelo menos, três anos distintos no decurso desses últimos cinco anos.\n\nQuando os dados disponíveis disserem respeito a um período inferior a cinco anos, os Estados-Membros podem conjugar a realização de campanhas de medição de curta duração, nas datas e locais representativos dos níveis de poluição mais elevados, com os resultados obtidos a partir dos inventários de emissões e por modelização, de modo a determinar as excedências dos limiares superiores e inferiores de avaliação."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "6f211fc027f7df1b": {
+   "fragment_id": "LOCALIZAÇÃO DOS PONTOS DE AMOSTRAGEM PARA A MEDIÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO E ÓXIDOS DE AZOTO, PARTÍCULAS EM SUSPENSÃO E CHUMBO NO AR AMBIENTE",
+   "type": "divisao",
+   "heading": "LOCALIZAÇÃO DOS PONTOS DE AMOSTRAGEM PARA A MEDIÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO E ÓXIDOS DE AZOTO, PARTÍCULAS EM SUSPENSÃO E CHUMBO NO AR AMBIENTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LOCALIZAÇÃO DOS PONTOS DE AMOSTRAGEM PARA A MEDIÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO E ÓXIDOS DE AZOTO, PARTÍCULAS EM SUSPENSÃO E CHUMBO NO AR AMBIENTE\n\nAs seguintes considerações são aplicáveis a processos de medição fixos."
+  },
+  "06c0e6e32d76b0ba": {
+   "fragment_id": "I. Localização em macro-escala",
+   "type": "divisao",
+   "heading": "I. Localização em macro-escala",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Localização em macro-escala"
+  },
+  "af076c97c603f5f0": {
+   "fragment_id": "a) Protecção da saúde humana",
+   "type": "divisao",
+   "heading": "a) Protecção da saúde humana",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### a) Protecção da saúde humana\n\nOs pontos de amostragem dirigidos para a protecção da saúde humana devem ser instalados:\n\ni) de modo a fornecerem dados em áreas, dentro das zonas e aglomerações, nas quais é provável que a população esteja directa ou indirectamente exposta aos níveis mais elevados durante um período significativo em relação ao período de amostragem do(s) valor(es)-limite,\n\nii) de modo a fornecerem dados sobre os níveis em outras áreas, dentro das zonas e aglomerações, que sejam representativas da exposição da população em geral.\n\nDe um modo geral, os pontos de amostragem devem estar localizados de modo a evitar medir micro-ambientes de muito pequena dimensão na sua proximidade imediata. A título de orientação, um ponto de amostragem deve ter uma localização que o torne representativo da qualidade do ar numa área circundante de pelo menos 200 m^2^, nos locais dirigidos para o tráfego, e de vários quilómetros quadrados, nos locais situados em meio urbano.\n\nOs pontos de amostragem deverão, se possível, ser igualmente representativos de locais similares não situados na sua proximidade imediata.\n\nDeverá ser tomada em conta a conveniência de localizar pontos de amostragem nas ilhas, sempre que tal for necessário para a protecção da saúde humana;"
+  },
+  "04921d1a0e966899": {
+   "fragment_id": "b) Protecção dos ecossistemas e da vegetação",
+   "type": "divisao",
+   "heading": "b) Protecção dos ecossistemas e da vegetação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### b) Protecção dos ecossistemas e da vegetação\n\nO ponto de amostragem que visa a protecção dos ecossistemas e da vegetação devem ser instalados para além de 20 km das aglomerações ou 5 km de outra área construída ou instalação industrial ou auto-estrada. A título de orientação, um ponto de amostragem deve estar situado de modo a ser representativo da qualidade do ar numa área envolvente de, pelo menos, 1 000 km^2^. Os Estados-membros poderão determinar que um ponto de amostragem esteja localizado a menor distância ou que seja representativo da qualidade do ar numa área menos alargada, consoante as condições geográficas.\n\nDeverá ser tomada em conta a necessidade de avaliar a qualidade do ar nas ilhas."
+  },
+  "cd7f09796d478924": {
+   "fragment_id": "II. Localização em micro-escala",
+   "type": "divisao",
+   "heading": "II. Localização em micro-escala",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Localização em micro-escala\n\nNo mínimo, devem ser cumpridas, tanto quanto possível, as seguintes orientações:\n\n— o fluxo de ar em torno da entrada da sonda de amostragem não deve ser restringido por eventuais obstruções que possam afectar o fluxo de ar na proximidade do dispositivo de amostragem (normalmente, a alguns metros de distância de edifícios, varandas, árvores e outros obstáculos e, no mínimo, a 0,5 metros do edifício mais próximo, no caso de pontos de amostragem representativos da qualidade do ar na linha de edificação),\n\n— em geral, a entrada da sonda deve estar a uma distância entre 1,5 m (zona de admissão) e 4 m do solo. Poderá ser necessário, nalguns casos, instalá-la em posições mais elevadas (até cerca de 8 m). A localização em posições mais elevadas pode também ser apropriada, se a estação for representativa de uma vasta área,\n\n— a entrada da sonda não deve ser posicionada na imediata proximidade de fontes, para evitar a admissão directa de emissões não misturadas com o ar ambiente,\n\n— o exaustor da sonda de amostragem deve ser posicionado de modo a evitar a recirculação do ar expedido para a entrada da sonda,\n\n— localização dos dispositivos de amostragem orientadas para o tráfego:\n\n— em relação a todos os poluentes, os pontos de amostragem devem ser instalados a uma distância mínima de 25 metros da berma dos principais cruzamentos e de 4 m do centro da faixa de rodagem mais próxima,\n\n— em relação ao dióxido de azoto, as entradas das sondas devem ser instaladas a menos de 5 metros da berma,\n\n— em relação às partículas em suspensão e ao chumbo, as entradas das sondas devem ser instaladas de modo a que a amostragem seja representativa da qualidade do ar na proximidade da linha de edificação.\n\nPodem igualmente ser tidos em conta os seguintes factores:\n\n— fontes de interferência,\n\n— segurança,\n\n— acessibilidade,\n\n— existência de fontes de energia eléctrica e telecomunicações,\n\n— visibilidade do local em relação à área envolvente,\n\n— segurança do público e dos operadores,\n\n— conveniência de instalar pontos de amostragem para diferentes poluentes,\n\n— requisitos de planeamento."
+  },
+  "52c91a291817d9c0": {
+   "fragment_id": "III. Documentação e reavaliação da selecção dos locais",
+   "type": "divisao",
+   "heading": "III. Documentação e reavaliação da selecção dos locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. Documentação e reavaliação da selecção dos locais\n\nOs procedimentos de selecção dos locais devem ser devidamente documentados na fase de classificação, utilizando meios como fotografias com as coordenadas da área envolvente e um mapa pormenorizado. Os locais devem ser reavaliados periodicamente, com base em nova documentação, para garantir que os critérios de selecção continuam a ser válidos ao longo do tempo."
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "a811190f827dc4e8": {
+   "fragment_id": "CRITÉRIOS PARA DETERMINAÇÃO DO NÚMERO MÍNIMO DE PONTOS DE AMOSTRAGEM PARA A MEDIÇÃO FIXA DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE (SO2), DIÓXIDO DE AZOTO (NO2), ÓXIDOS DE AZOTO (NOx), PARTÍCULAS EM SUSPENSÃO E CHUMBO NO AR AMBIENTE",
+   "type": "divisao",
+   "heading": "CRITÉRIOS PARA DETERMINAÇÃO DO NÚMERO MÍNIMO DE PONTOS DE AMOSTRAGEM PARA A MEDIÇÃO FIXA DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE (SO2), DIÓXIDO DE AZOTO (NO2), ÓXIDOS DE AZOTO (NOx), PARTÍCULAS EM SUSPENSÃO E CHUMBO NO AR AMBIENTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRITÉRIOS PARA DETERMINAÇÃO DO NÚMERO MÍNIMO DE PONTOS DE AMOSTRAGEM PARA A MEDIÇÃO FIXA DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE (SO2), DIÓXIDO DE AZOTO (NO2), ÓXIDOS DE AZOTO (NOx), PARTÍCULAS EM SUSPENSÃO E CHUMBO NO AR AMBIENTE"
+  },
+  "387a763e17c4a1d5": {
+   "fragment_id": "I. Número mínimo de pontos de amostragem para medição fixa destinada a avaliar o cumprimento dos valores-limite de protecção da saúde humana e dos limiares de alerta em zona e aglomerações em que a medição fixa constitui a única fonte de informações",
+   "type": "divisao",
+   "heading": "I. Número mínimo de pontos de amostragem para medição fixa destinada a avaliar o cumprimento dos valores-limite de protecção da saúde humana e dos limiares de alerta em zona e aglomerações em que a medição fixa constitui a única fonte de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Número mínimo de pontos de amostragem para medição fixa destinada a avaliar o cumprimento dos valores-limite de protecção da saúde humana e dos limiares de alerta em zona e aglomerações em que a medição fixa constitui a única fonte de informações"
+  },
+  "0313dd6a1ed78c87": {
+   "fragment_id": "a) Fontes difusas",
+   "type": "divisao",
+   "heading": "a) Fontes difusas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### a) Fontes difusas\n\n| População da zona ou aglomeração (em milhares) | Para concentrações que ultrapassem o limiar superior de avaliação | Para concentrações máximas compreendidas entre o limiar superior e o limiar inferior de avaliação | Para o SO2 e NO2, em aglomerações em que as concentrações máximas sejam inferiores ao limiar inferior de avaliação |\n| --- | --- | --- | --- |\n| 0-250 | 1 | 1 | não se aplica |\n| 250-499 | 2 | 1 | 1 |\n| 500-749 | 2 | 1 | 1 |\n| 750-999 | 3 | 1 | 1 |\n| 1 000-1 499 | 4 | 2 | 1 |\n| 1 500-1 999 | 5 | 2 | 1 |\n| 2 000-2 749 | 6 | 3 | 2 |\n| 2 750-3 749 | 7 | 3 | 2 |\n| 3 750-4 749 | 8 | 4 | 2 |\n| 4 750-5 999 | 9 | 4 | 2 |\n| > 6 000 | 10 | 5 | 3 |\n|  | Para o NO2 e as partículas em suspensão: incluir pelo menos uma estação em meio urbano e uma estação orientada para o tráfego |  |  |"
+  },
+  "5da7674bf9159bcb": {
+   "fragment_id": "b) Fontes tópicas",
+   "type": "divisao",
+   "heading": "b) Fontes tópicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### b) Fontes tópicas\n\nPara avaliar os níveis de poluição na proximidade de fontes tópicas, o número de pontos de amostragem para medição fixa deverá ser calculado tendo em conta as densidades de emissão, os padrões mais prováveis de distribuição da poluição do ar ambiente e a potencial exposição da população."
+  },
+  "619fcb716ea786a2": {
+   "fragment_id": "II. Número mínimo de pontos de amostragem para medição fixa destinada a avaliar o cumprimento dos valores-limite de protecção dos ecossistemas e da vegetação em zonas que não sejam aglomerações",
+   "type": "divisao",
+   "heading": "II. Número mínimo de pontos de amostragem para medição fixa destinada a avaliar o cumprimento dos valores-limite de protecção dos ecossistemas e da vegetação em zonas que não sejam aglomerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Número mínimo de pontos de amostragem para medição fixa destinada a avaliar o cumprimento dos valores-limite de protecção dos ecossistemas e da vegetação em zonas que não sejam aglomerações\n\nPara concentrações máximas que ultrapassem o limiar superior de avaliação Para concentrações máximas compreendidas entre o limiar superior e o limiar inferior de avaliação\n\n1 estação em cada 20 000 km^2^ 1 estação em cada 40 000 km^2^\n\nNas zonas formados por ilhas, o número de pontos de amostragem deverá ser calculado tendo em conta os padrões mais prováveis de distribuição da poluição do ar ambiente e a potencial exposição dos ecossistemas e da vegetação."
+  },
+  "1b41b51ec3248d43": {
+   "fragment_id": "ANEXO VIII",
+   "type": "divisao",
+   "heading": "ANEXO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII"
+  },
+  "c212ae69c9446abe": {
+   "fragment_id": "OBJECTIVOS DE QUALIDADE DOS DADOS E REGISTO DOS RESULTADOS DO PROCESSO DE AVALIAÇÃO DA QUALIDADE DO AR",
+   "type": "divisao",
+   "heading": "OBJECTIVOS DE QUALIDADE DOS DADOS E REGISTO DOS RESULTADOS DO PROCESSO DE AVALIAÇÃO DA QUALIDADE DO AR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTIVOS DE QUALIDADE DOS DADOS E REGISTO DOS RESULTADOS DO PROCESSO DE AVALIAÇÃO DA QUALIDADE DO AR"
+  },
+  "91290234979576e1": {
+   "fragment_id": "I. Objectivos de qualidade dos dados",
+   "type": "divisao",
+   "heading": "I. Objectivos de qualidade dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Objectivos de qualidade dos dados\n\nOs seguintes objectivos de qualidade dos dados, relativos à precisão e exactidão dos métodos de avaliação, ao período mínimo de amostragem e à recolha de dados de medição, são fornecidos como linhas de orientação para os programas de controlo de qualidade.\n\n|  | Dióxido de enxofre, dióxido de azoto, óxidos de azoto | Partículas em suspensão e chumbo |\n| --- | --- | --- |\n| Medição contínua |  |  |\n| Exactidão | 15 % | 25 % |\n| Número mínimo de dados a recolher | 90 % | 90 % |\n| Medição de referência |  |  |\n| Exactidão | 25 % | 50 % |\n| Número mínimo de dados a recolher | 90 % | 90 % |\n| Período mínimo de amostragem | 14 % (uma medição por semana de modo aleatório, distribuída equitativamente ao longo do ano, ou de oito em oito semanas, distribuídas equitativamente ao longo do ano) | 14 % (uma medição por semana de modo aleatório, distribuída equitativamente ao longo do ano, ou de oito em oito semanas, distribuídas equitativamente ao longo do ano) |\n| Modelização |  |  |\n| Exactidão: Médias horárias Médias diárias Médias anuais | 50 %-60 %50 %30 % | ainda não definidas50 % |\n| Estimativa dos objectivos |  |  |\n| Exactidão: | 75 % | 100 % |\n\nA exactidão da medição é definida como estipulado no «Guia para a expressão da margem de erro das medições» (ISO 1993), ou na ISO 5725-1 «Exactidão (justeza e precisão) dos métodos e resultados da medição» (1994). As percentagens constantes do quadro são fornecidas para cada uma das medições, determinadas para o período considerado pelo valor-limite, com um intervalo de confiança de 95 % (erro sistemático + o dobro do desvio normal). A exactidão das medições contínuas deverá ser interpretada como aplicável na região do valor-limite apropriado.\n\nA exactidão da modelização e da estimativa objectiva é definida como o desvio máximo dos níveis de concentração medidos e calculados durante o período considerado pelo valor-limite, sem ter em conta a sequência dos acontecimentos.\n\nOs requisitos para o número mínimo de dados a recolher e o período de amostragem não incluem as perdas de informação decorrentes da calibragem regular ou da manutenção normal dos instrumentos.\n\nPor derrogação, os Estados-membros poderão efectuar medições aleatórias em vez de medições contínuas para as partículas em suspensão e o chumbo, caso possam demonstrar à Comissão que a exactidão relativa ao intervalo de confiança de 95 % respeitante ao controlo contínuo está dentro de um intervalo de 10 %. A amostragem aleatória deverá ser equitativamente distribuída ao longo do ano."
+  },
+  "80ac5b91e31600ea": {
+   "fragment_id": "II. Resultados da avaliação da qualidade do ar",
+   "type": "divisao",
+   "heading": "II. Resultados da avaliação da qualidade do ar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Resultados da avaliação da qualidade do ar\n\nAs seguintes informações devem ser recolhidas nas zonas e aglomerações em que forem usadas outras fontes para além da medição para completar os dados obtidos por esta ou como o único processo de avaliação da qualidade do ar:\n\n— uma descrição das actividades de avaliação levadas a cabo,\n\n— os métodos específicos utilizados, acompanhados de referências a descrições dos mesmos,\n\n— fontes de dados e de informações,\n\n— uma descrição dos resultados, incluindo o grau de exactidão e, em especial, a extensão de todas as áreas ou, se tal for relevante, o comprimento da estrada, dentro da zona ou aglomeração em que as concentrações ultrapassem o(s) valor(es)-limite ou, se for caso disso, o(s) valor(es)-limite acrescidos) da(s) respectivas) margem(ns) de tolerância, bem como de todas as áreas em que as concentrações ultrapassem o limiar superior ou o limiar inferior de avaliação,\n\n— para os valores-limite que têm como objectivo a protecção da saúde humana, a população potencialmente exposta a concentrações que excedam o valor-limite.\n\nSempre que possível, os Estados-membros devem elaborar mapas das distribuições das concentrações dentro de cada zona e aglomeração."
+  },
+  "81a36dfb2c84698e": {
+   "fragment_id": "III. Normalização",
+   "type": "divisao",
+   "heading": "III. Normalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. Normalização\n\nNo caso do dióxido de enxofre, do dióxido de azoto e dos óxidos de azoto, o volume tem de ser normalizado à temperatura de 293.ºK e à pressão de 101,3 kPa."
+  },
+  "953641e58475eff6": {
+   "fragment_id": "ANEXO IX",
+   "type": "divisao",
+   "heading": "ANEXO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX"
+  },
+  "894951911f013fc7": {
+   "fragment_id": "MÉTODOS DE REFERÊNCIA PARA AVALIAÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO, ÓXIDOS DE AZOTO, PARTÍCULAS EM SUSPENSÃO (PM10 E PM2,5) E CHUMBO NA ATMOSFERA",
+   "type": "divisao",
+   "heading": "MÉTODOS DE REFERÊNCIA PARA AVALIAÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO, ÓXIDOS DE AZOTO, PARTÍCULAS EM SUSPENSÃO (PM10 E PM2,5) E CHUMBO NA ATMOSFERA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MÉTODOS DE REFERÊNCIA PARA AVALIAÇÃO DAS CONCENTRAÇÕES DE DIÓXIDO DE ENXOFRE, DIÓXIDO DE AZOTO, ÓXIDOS DE AZOTO, PARTÍCULAS EM SUSPENSÃO (PM10 E PM2,5) E CHUMBO NA ATMOSFERA\n\nI. Método de referência da análise do dióxido de enxofre ISO/FDIS 10498 (norma em projecto) Ar ambiente — Determinação do dióxido de enxofre — Método por fluorescência ultravioleta. Os Estados-membros poderão utilizar qualquer outro método cujos resultados o Estado-membro interessado possa demonstrar serem equivalentes ao método acima referido.\n\nII. Método de referência da análise do dióxido de azoto e dos óxidos de azoto ISO 7996: 1985 Ar ambiente — Determinação das concentrações maciças de óxidos de azoto — Método por quimioluminescência Os Estados-membros poderão utilizar qualquer outro método cujos resultados o Estado-membro interessado possa demonstrar serem equivalentes ao método acima referido.\n\nIII.A Método de referência para a amostragem do chumbo O método de referência para a amostragem do chumbo será o método descrito no anexo à Directiva 82/884/CEE até ao momento em que o valor-limite fixado no anexo IV da presente directiva for atingido; a partir desse momento, o método de referência será o estipulado para PM10, como estipulado na secção IV do presente anexo. Os Estados-membros poderão utilizar qualquer outro método cujos resultados o Estado-membro interessado possa demonstrar serem equivalentes ao método acima referido.\n\nIII.B Método de referência para a análise do chumbo ISO 9855: 1993 Ar ambiente — Determinação do teor de partículas de chumbo de aerossóis recolhidas em filtros. Método por espectroscopia de absorção atómica. Os Estados-membros poderão utilizar qualquer outro teor cujos resultados o Estado-membro interessado possa demonstrar serem equivalentes ao método acima referido.\n\nIV. Método de referência para a amostragem e medição de PM10 O método descrito em EN 12341 «Qualidade do Ar — Procedimento de ensaio no terreno para demonstrar a equivalência da referência dos métodos de amostragem para a fracção PM10 das partículas em suspensão». O princípio de medição é baseado na recolha num filtro da fracção PM10 de partículas em suspensão no ar ambiente e na determinação da massa gravimétrica. Os Estados-membros poderão igualmente utilizar qualquer outro método cujos resultados o Estado-membro interessado possa demonstrar serem equivalentes ao método acima referido, ou qualquer outro método que o Estado-membro interessado possa demonstrar que possui uma relação sistemática com o método de referência. Nesse caso, os resultados conseguidos por este método deverão ser corrigidos pelo factor adequado de modo a apresentar resultados equivalentes aos resultados que teriam sido conseguidos mediante a utilização do método de referência. Os Estados-membros informarão a Comissão do método utilizado para realizar a amostragem e a medição de PM10. A Comissão levará a cabo logo que possível exercícios de comparação dos métodos de amostragem e medição de PM10 a fim de proporcionar informações para a revisão do disposto na presente directiva em conformidade com o artigo 10.º\n\nV. Método de referência provisório para a amostragem e medição de PM2,5 A Comissão elaborará orientações, em consulta com o Comité referido no artigo 12.º da Directiva 96/62/CE, para um método de referência provisório para a amostragem e avaliação de PM2,5, até 19 de Julho de 2001. Os Estados-membros poderão utilizar qualquer outro método que o Estado-membro considere apropriado. Os Estados-membros informarão a Comissão do método utilizado para realizar a amostragem e a medição de PM2,5. A Comissão levará a cabo logo que possível exercícios de comparação dos métodos de amostragem e medição de PM2,5 a fim de proporcionar informações para a revisão do disposto na presente directiva em conformidade com o artigo 10.º\n\n---"
+  },
+  "87656796dfc29fec": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#src.E0001)) JO C 9 de 14.1.1998, p. 6.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#src.E0002)) JO C 214 de 10.7.1998, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 13 de Maio de 1998 (JO C 167 de 1.6.1998, p. 103), posição comum do Conselho de 24 de Setembro de 1998 (JO C 360 de 23.11.1998, p. 99) e decisão do Parlamento Europeu de 13 de Janeiro de 1999 (JO C 104 de 14.4.1999, p. 44).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#src.E0004)) JO C 138 de 17.5.1993, p. 5.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#src.E0005)) JO L 296 de 21.11.1996, p. 55.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#src.E0006)) JO L 35 de 5.2.1997, p. 14.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#src.E0007)) JO L 229 de 30.8.1980, p. 30.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#src.E0008)) JO L 378 de 31.12.1982, p. 15.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/86046325-3a2a-4d4a-bd7d-ff505a40ab5b.0018.03/DOC_1#src.E0009)) JO L 87 de 27.3.1985, p. 1."
+  },
+  "132140d9bb73c985": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1999L0030 — PT — 11.06.2010 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31999L0030) [DIRECTIVA 1999/30/CE DO CONSELHO](http://publications.europa.eu/resource/celex/31999L0030) [de 22 de Abril de 1999](http://publications.europa.eu/resource/celex/31999L0030) [relativa a valores-limite para o dióxido de enxofre, dióxido de azoto e óxidos de azoto, partículas em suspensão e chumbo no ar ambiente](http://publications.europa.eu/resource/celex/31999L0030) (JO L 163, 29.6.1999, p.41)\n\n**revogado por:**\n\n- [Directiva 2008/50/CE do Parlamento Europeu e do Conselho de 21 de Maio de 2008](http://publications.europa.eu/resource/celex/32008L0050) — L 152 — 1 — 11.6.2008"
+  }
+ }
+}

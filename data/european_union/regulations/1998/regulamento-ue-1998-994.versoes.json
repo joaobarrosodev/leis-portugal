@@ -1,0 +1,276 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998R0994:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998R0994-20151014",
+ "dre_path": null,
+ "source_lastmod": "2015-10-14",
+ "versions": [
+  {
+   "date": "1998-05-14",
+   "future": false,
+   "celex": "31998R0994",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "49eded020f1db191",
+    "541d23b16461bec2",
+    "ed9d534d4c530542",
+    "b05764e67f0e0a5b",
+    "0b92a338bcf9d7d4",
+    "451ea56b092fd9b8",
+    "724a9920a634d53b",
+    "93329365a58d378b",
+    "0b8b1c67d1747e5f",
+    "60e7b10594fc67fc"
+   ]
+  },
+  {
+   "date": "2013-08-20",
+   "future": false,
+   "celex": "01998R0994-20130820",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0733:por",
+     "title": "REGULAMENTO (UE) N. o 733/2013 DO CONSELHO de 22 de julho de 2013",
+     "published": null,
+     "celex": "32013R0733"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º — Isenções por categoria",
+    "Adita Artigo 2.º — De minimis",
+    "Adita Artigo 3.º — Transparência e controlo",
+    "Adita Artigo 4.º — Período de vigência e alteração dos regulamentos",
+    "Adita Artigo 5.º — Relatório de avaliação",
+    "Adita Artigo 6.º — Audição das partes interessadas",
+    "Adita Artigo 7.º — Comité Consultivo",
+    "Adita Artigo 8.º — Consulta do Comité Consultivo",
+    "Adita Artigo 9.º — Disposições finais",
+    "Adita Notas",
+    "Suprime Artigo 1º — Isenções por categoria",
+    "Suprime Artigo 2º — De minimis",
+    "Suprime Artigo 3º — Transparência e controlo",
+    "Suprime Artigo 4º — Período de vigência e alteração dos regulamentos",
+    "Suprime Artigo 5º — Relatório de avaliação",
+    "Suprime Artigo 6º — Audição das partes interessadas",
+    "Suprime Artigo 7º — Comité Consultivo",
+    "Suprime Artigo 8º — Consulta do Comité Consultivo",
+    "Suprime Artigo 9º — Disposições finais"
+   ],
+   "fragments": [
+    "0fdad4d783b09f7f",
+    "5a24efdf226135e3",
+    "8e1fdace6ddbbda1",
+    "eacd10fa39e1ce55",
+    "24efc407fb507963",
+    "64f5f5a75d1af97e",
+    "e0c673b2b79b112f",
+    "6fbcd3f01e896c49",
+    "747c95520f5018ad",
+    "11e9da7b3b047e66",
+    "23e35ef2b010a3d6"
+   ]
+  },
+  {
+   "date": "2015-10-14",
+   "future": false,
+   "celex": "01998R0994-20151014",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Isenções por categoria",
+    "Suprime Artigo 2.º — De minimis",
+    "Suprime Artigo 3.º — Transparência e controlo",
+    "Suprime Artigo 4.º — Período de vigência e alteração dos regulamentos",
+    "Suprime Artigo 5.º — Relatório de avaliação",
+    "Suprime Artigo 6.º — Audição das partes interessadas",
+    "Suprime Artigo 7.º — Comité Consultivo",
+    "Suprime Artigo 8.º — Consulta do Comité Consultivo",
+    "Suprime Artigo 9.º — Disposições finais",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "f9b8ac283ec1b469"
+   ]
+  }
+ ],
+ "fragments": {
+  "49eded020f1db191": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 994/98 do Conselho de 7 de Maio de 1998 relativo à aplicação dos artigos 92º e 93º do Tratado que institui a Comunidade Europeia a determinadas categorias de auxílios estatais horizontais** *Jornal Oficial nº L 142 de 14/05/1998 p. 0001 - 0004*\n\nREGULAMENTO (CE) Nº 994/98 DO CONSELHO de 7 de Maio de 1998 relativo à aplicação dos artigos 92º e 93º do Tratado que institui a Comunidade Europeia a determinadas categorias de auxílios estatais horizontais\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 94º,\n\nTendo em conta a proposta da Comissão (1),\n\nApós consulta do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\n(1) Considerando que, por força do artigo 94º do Tratado, o Conselho pode adoptar todos os regulamentos adequados à execução dos artigos 92º e 93º e fixar, designadamente, as condições de aplicação do nº 3 do artigo 93º e as categorias de auxílios isentas desse procedimento;\n\n(2) Considerando que, por força do Tratado, a apreciação da compatibilidade dos auxílios com o mercado comum é essencialmente da competência da Comissão;\n\n(3) Considerando que o bom funcionamento do mercado interno exige a aplicação rigorosa e eficaz das regras de concorrência em matéria de auxílios estatais;\n\n(4) Considerando que a Comissão aplicou os artigos 92º e 93º do Tratado a numerosas decisões e apresentou igualmente a sua política em diversas comunicações; que, à luz da grande experiência que adquiriu com a aplicação dos artigos 92º e 93º do Tratado e dos textos gerais que adoptou com base nestas disposições, se afigura conveniente, de modo a assegurar o controlo eficaz e simplificar a gestão administrativa sem enfraquecer o controlo da Comissão, que esta seja autorizada a declarar, por meio de regulamentos, em domínios em que tem experiência suficiente para definir critérios gerais de compatibilidade, que determinadas categorias de auxílios são compatíveis com o mercado comum, de acordo com uma ou mais das disposições previstas nos nºs 2 e 3 do artigo 92º do Tratado e estão isentas do disposto no nº 3 do artigo 93º;\n\n(5) Considerando que os regulamentos de isenção por categoria aumentarão a transparência e a segurança jurídica; que podem ser directamente aplicáveis por tribunais nacionais, sem prejuízo dos artigos 5º e 177º do Tratado;\n\n(6) Considerando que se afigura conveniente que a Comissão, quando adopte regulamentos destinados a isentar determinadas categorias de auxílios da obrigação de notificação prevista no nº 3 do artigo 93º, especifique o objectivo desses auxílios, as categorias de beneficiários e, bem assim, limiares destinados a impedir que os auxílios isentos excedam determinados limites calculados em relação ao conjunto dos custos admissíveis ou aos montantes máximos de auxílio, as condições relativas à cumulação dos auxílios e as condições de controlo, a fim de garantir a compatibilidade dos auxílios abrangidos pelo presente regulamento com o mercado comum;\n\n(7) Considerando que se afigura conveniente autorizar a Comissão, quando esta adopte regulamentos destinados a isentar determinadas categorias de auxílios da obrigação de notificação prevista no nº 3 do artigo 93º, a acompanhá-los de outras condições precisas, a fim de garantir a compatibilidade dos auxílios abrangidos pelo presente regulamento com o mercado comum;\n\n(8) Considerando que se pode revelar adequado definir limiares ou outras condições apropriadas para a notificação dos casos de concessão de auxílios, a fim de permitir que a Comissão proceda à avaliação individual do efeito de determinados auxílios sobre a concorrência e o comércio entre Estados-membros e a sua compatibilidade com o mercado comum;\n\n(9) Considerando que a Comissão, tendo em conta a evolução e o funcionamento do mercado comum, deve estar habilitada a declarar, através de regulamento, quando determinados auxílios não satisfazem todos os critérios previstos no nº 1 do artigo 92º do Tratado, e que estão assim isentos do processo de notificação previsto no nº 3 do artigo 93º, desde que os auxílios concedidos à mesma empresa durante determinado período não excedam um montante fixo determinado;\n\n(10) Considerando que o nº 1 do artigo 93º do Tratado cria a obrigação de a Comissão a proceder, em cooperação com os Estados-membros, ao exame permanente dos regimes de auxílios existentes nesses Estados; que, para este efeito e a fim de assegurar o maior grau possível de transparência e um controlo adequado, é desejável que a Comissão garanta a criação de um sistema fiável de registo e compilação das informações relativas à aplicação dos regulamentos por ela adoptados, às quais todos os Estados-membros tenham acesso, e que receba dos Estados-membros todas as informações necessárias sobre a aplicação dos auxílios isentos da obrigação de notificação susceptíveis de ser objecto de uma análise e uma avaliação a efectuar, conjuntamente com os Estados-membros, no âmbito de um comité consultivo; que, para o efeito, se afigura igualmente desejável que a Comissão possa exigir a prestação dessas informações, na medida do necessário para garantir a eficácia dessa análise;\n\n(11) Considerando que o controlo da concessão dos auxílios faz intervir múltiplas considerações factuais, jurídicas e económicas muito complexas, num enquadramento em constante evolução; que é conveniente, por conseguinte, que a Comissão reveja regularmente as categorias de auxílios que devem ser isentas da obrigação de notificação; que a Comissão deve poder revogar ou alterar os regulamentos por ela adoptados por força do presente regulamento, quando se altere qualquer dos elementos importantes que tenham motivado a sua adopção, ou quando o exijam a evolução progressiva ou o funcionamento do mercado comum;\n\n(12) Considerando que é conveniente que a Comissão, em estreita e constante ligação com os Estados-membros, possa definir com exactidão o âmbito destes regulamentos e as respectivas condições; que, a fim de permitir esta cooperação entre a Comissão e as entidades competentes dos Estados-membros, é conveniente criar um comité consultivo em matéria de auxílios concedidos pelos Estados, a consultar antes da adopção, por parte da Comissão, de regulamentos baseados no presente regulamento, adopção, por parte da Comissão, de regulamentos baseados no presente regulamento,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "541d23b16461bec2": {
+   "fragment_id": "Artigo 1º — Isenções por categoria",
+   "type": "artigo",
+   "heading": "Artigo 1º — Isenções por categoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º — Isenções por categoria\n\n1. A Comissão pode, por meio de regulamentos adoptados nos termos do artigo 8º do presente regulamento e do artigo 92º do Tratado, declarar que as categorias de auxílios a seguir indicadas são compatíveis com o mercado comum e não estão sujeitos à obrigação de notificação prevista no nº 3 do artigo 93º do Tratado:\n\na) Os auxílios a favor:\n\ni) das pequenas e médias empresas,\n\nii) da investigação e do desenvolvimento,\n\niii) da protecção do ambiente,\n\niv) do emprego e da formação;\n\nb) Os auxílios respeitantes ao mapa aprovado pela Comissão para cada Estado-membro para a concessão de auxílios com finalidade regional.\n\n2. Os regulamentos a que se refere o nº 1 especificarão, em relação a cada categoria de auxílio:\n\na) O objectivo dos auxílios;\n\nb) As categorias dos beneficiários;\n\nc) Os limiares, expressos quer em termos de intensidade em relação ao conjunto dos custos elegíveis quer em termos de montantes máximos;\n\nd) As condições relativas à cumulação de auxílios;\n\ne) As condições de controlo, tal como especificadas no artigo 3º\n\n3. Além disso, os regulamentos a que se refere o nº 1 podem, nomeadamente:\n\na) Estabelecer limiares ou outras condições para a notificação dos casos de concessão de auxílios individuais;\n\nb) Excluir determinados sectores do seu âmbito de aplicação;\n\nc) Prever condições adicionais relativas à compatibilidade dos auxílios isentos nos termos desses regulamentos."
+  },
+  "ed9d534d4c530542": {
+   "fragment_id": "Artigo 2º — De minimis",
+   "type": "artigo",
+   "heading": "Artigo 2º — De minimis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — De minimis\n\n1. A Comissão pode, através de regulamento adoptado nos termos do artigo 8º do presente regulamento, determinar que, tendo em conta a evolução e o funcionamento do mercado comum, determinados auxílios não satisfazem todos os critérios previstos no nº 1 do artigo 92º do Tratado sendo, por conseguinte, isentos do processo de notificação previsto no nº 3 do artigo 93º do Tratado, desde que os auxílios concedidos a uma mesma empresa, durante determinado período, não excedam um montante fixo determinado.\n\n2. Os Estados-membros prestarão a todo o tempo, a pedido da Comissão, todas as informações adicionais relativas aos auxílios isentos nos termos do nº 1."
+  },
+  "b05764e67f0e0a5b": {
+   "fragment_id": "Artigo 3º — Transparência e controlo",
+   "type": "artigo",
+   "heading": "Artigo 3º — Transparência e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º — Transparência e controlo\n\n1. Quando adoptar regulamentos em aplicação do artigo 1º, a Comissão imporá aos Estados-membros regras precisas para assegurar a transparência e o controlo dos auxílios isentos da obrigação de notificação de acordo com os referidos regulamentos. Essas regras consistirão em particular nas obrigações definidas nos nºs 2, 3 e 4.\n\n2. A partir do início da aplicação de regimes de auxílios, ou de auxílios individuais concedidos fora de um regime, que sejam isentos por força dos referidos regulamentos, os Estados-membros transmitirão à Comissão, para ser publicado no Jornal Oficial das Comunidades Europeias, um resumo das informações relativas a esses regimes de auxílio, ou os casos de auxílios individuais que não resultem de um regime de auxílio isento.\n\n3. Os Estados-membros procederão ao registo e compilação de todas as informações relativas à aplicação das isenções por categoria. Se a Comissão dispuser de elementos que suscitem dúvidas quanto à correcta aplicação de dado regulamento de isenção, os Estados-membros comunicarão todas as informações que aquela considerar necessárias para avaliar a conformidade dos auxílios com o referido regulamento.\n\n4. Os Estados-membros comunicarão à Comissão, pelo menos uma vez por ano, um relatório sobre a aplicação das isenções por categoria, de acordo com os requisitos específicos da Comissão, de preferência sob forma informatizada. A Comissão facultará esses relatórios a todos os Estados-membros. Uma vez por ano, o Comité Consultivo previsto no artigo 7º debaterá e avaliará esses relatórios."
+  },
+  "0b92a338bcf9d7d4": {
+   "fragment_id": "Artigo 4º — Período de vigência e alteração dos regulamentos",
+   "type": "artigo",
+   "heading": "Artigo 4º — Período de vigência e alteração dos regulamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — Período de vigência e alteração dos regulamentos\n\n1. Os regulamentos adoptados por força dos artigos 1º e 2º são aplicáveis durante certos prazo. Os auxílios isentos ao abrigo de um regulamento adoptado por força dos artigos 1º e 2º ficarão isentos durante o período de vigência desse regulamento, bem como durante o período de adaptação previsto nos 2 e 3.\n\n2. Os regulamentos adoptados por força dos artigo 1º e 2º podem ser revogados ou modificados quando se altere qualquer dos elementos importantes que tenham motivado a sua adopção, ou quando o exijam a evolução progressiva ou o funcionamento do mercado comum. Nesse caso, o novo regulamento fixará um período de adaptação de seis meses para o ajustamento dos auxílios abrangidos pelo regulamento anterior.\n\n3. Os regulamentos adoptados por força dos artigos 1º e 2º preverão um período idêntico ao referido no nº 2 para o caso de não serem prorrogados, quando caducarem."
+  },
+  "451ea56b092fd9b8": {
+   "fragment_id": "Artigo 5º — Relatório de avaliação",
+   "type": "artigo",
+   "heading": "Artigo 5º — Relatório de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Relatório de avaliação\n\nDe cinco em cinco anos, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do presente regulamento. O projecto de relatório será submetido à apreciação do Comité Consultivo previsto no artigo 7º"
+  },
+  "724a9920a634d53b": {
+   "fragment_id": "Artigo 6º — Audição das partes interessadas",
+   "type": "artigo",
+   "heading": "Artigo 6º — Audição das partes interessadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º — Audição das partes interessadas\n\nquando se propuser adoptar um regulamento, a Comissão publicará o respectivo projecto, a fim de permitir que todas as pessoas e organizações interessadas apresentem as suas observações num prazo razoável por ela fixado, que não pode ser inferior a um mês."
+  },
+  "93329365a58d378b": {
+   "fragment_id": "Artigo 7º — Comité Consultivo",
+   "type": "artigo",
+   "heading": "Artigo 7º — Comité Consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — Comité Consultivo\n\nÉ instituído um comité de carácter consultivo, a seguir designado por Comité Consultivo em matéria de auxílios concedidos pelos Estados. Este comité será composto por representantes dos Estados-membros e presidido pelo representante da Comissão."
+  },
+  "0b8b1c67d1747e5f": {
+   "fragment_id": "Artigo 8º — Consulta do Comité Consultivo",
+   "type": "artigo",
+   "heading": "Artigo 8º — Consulta do Comité Consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º — Consulta do Comité Consultivo\n\n1. A Comissão consultará o Comité Consultivo em matéria de auxílios concedidos pelos Estados:\n\na) Antes de publicar um projecto de regulamento;\n\nb) Antes de adoptar um regulamento.\n\n2. A consulta do comité terá lugar no decurso de uma reunião realizada a convite da Comissão. Ao convite serão anexados os projectos e documentos a analisar. A reunião realizar-se-á, o mais tardar, dois meses após o envio da convocatória.\n\nEste prazo pode ser reduzido no caso das consultas a que se refere a alínea b) do nº 1, bem como em caso de urgência ou de mera prorrogação de um regulamento.\n\n3. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão, se necessário procedendo a votação.\n\n4. O parecer será exarado em acta; além disso, cada Estado-membro tem o direito de solicitar que a sua posição conste da acta. O Comité Consultivo pode recomendar a publicação desse parecer no Jornal Oficial das Comunidades Europeias.\n\n5. A Comissão tomará na melhor conta o parecer emitido pelo comité. O comité será por ela informado do modo como esse parecer foi tomado em consideração."
+  },
+  "60e7b10594fc67fc": {
+   "fragment_id": "Artigo 9º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 9º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º — Disposições finais\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 7 de Maio de 1998.\n\nPelo Conselho\n\nO Presidente\n\nM. BECKETT\n\n(1) JO C 262 de 28. 8. 1997, p. 6.\n\n(2) JO C 138 de 4. 5. 1998.\n\n(3) JO C 129 de 27. 4. 1998, p. 70."
+  },
+  "0fdad4d783b09f7f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de maio de 1998\n\nrelativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia a determinadas categorias de auxílios estatais horizontais\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 94.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/babdd074-26f1-46b2-aafe-f1ab9371c258.0019.03/DOC_1#E0001)),\n\nApós consulta do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/babdd074-26f1-46b2-aafe-f1ab9371c258.0019.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/babdd074-26f1-46b2-aafe-f1ab9371c258.0019.03/DOC_1#E0003)),\n\n(1) Considerando que, por força do artigo 94.º do Tratado, o Conselho pode adoptar todos os regulamentos adequados à execução dos artigos 92.º e 93.º e fixar, designadamente, as condições de aplicação do n.º 3 do artigo 93.º e as categorias de auxílios isentas desse procedimento;\n\n(2) Considerando que, por força do Tratado, a apreciação da compatibilidade dos auxílios com o mercado comum é essencialmente da competência da Comissão;\n\n(3) Considerando que o bom funcionamento do mercado interno exige a aplicação rigorosa e eficaz das regras de concorrência em matéria de auxílios estatais;\n\n(4) Considerando que a Comissão aplicou os artigos 92.º e 93.º do Tratado a numerosas decisões e apresentou igualmente a sua política em diversas comunicações; que, à luz da grande experiência que adquiriu com a aplicação dos artigos 92.º e 93.º do Tratado e dos textos gerais que adoptou com base nestas disposições, se afigura conveniente, de modo a assegurar o controlo eficaz e simplificar a gestão administrativa sem enfraquecer o controlo da Comissão, que esta seja autorizada a declarar, por meio de regulamentos, em domínios em que tem experiência suficiente para definir critérios gerais de compatibilidade, que determinadas categorias de auxílios são compatíveis com o mercado comum, de acordo com uma ou mais das disposições previstas nos n.^os^ 2 e 3 do artigo 92.º do Tratado e estão isentas do disposto no n.º 3 do artigo 93.º;\n\n(5) Considerando que os regulamentos de isenção por categoria aumentarão a transparência e a segurança jurídica; que podem ser directamente aplicáveis por tribunais nacionais, sem prejuízo dos artigos 5.º e 177.º do Tratado;\n\n(6) Considerando que se afigura conveniente que a Comissão, quando adopte regulamentos destinados a isentar determinadas categorias de auxílios da obrigação de notificação prevista no n.º 3 do artigo 93.º, especifique o objectivo desses auxílios, as categorias de beneficiários e, bem assim, limiares destinados a impedir que os auxílios isentos excedam determinados limites calculados em relação ao conjunto dos custos admissíveis ou aos montantes máximos de auxílio, as condições relativas à cumulação dos auxílios e as condições de controlo, a fim de garantir a compatibilidade dos auxílios abrangidos pelo presente regulamento com o mercado comum;\n\n(7) Considerando que se afigura conveniente autorizar a Comissão, quando esta adopte regulamentos destinados a isentar determinadas categorias de auxílios da obrigação de notificação prevista no n.º 3 do artigo 93.º, a acompanhá-los de outras condições precisas, a fim de garantir a compatibilidade dos auxílios abrangidos pelo presente regulamento com o mercado comum;\n\n(8) Considerando que se pode revelar adequado definir limiares ou outras condições apropriadas para a notificação dos casos de concessão de auxílios, a fim de permitir que a Comissão proceda à avaliação individual do efeito de determinados auxílios sobre a concorrência e o comércio entre Estados-membros e a sua compatibilidade com o mercado comum;\n\n(9) Considerando que a Comissão, tendo em conta a evolução e o funcionamento do mercado comum, deve estar habilitada a declarar, através de regulamento, quando determinados auxílios não satisfazem todos os critérios previstos no n.º 1 do artigo 92.º do Tratado, e que estão assim isentos do processo de notificação previsto no n.º 3 do artigo 93.º, desde que os auxílios concedidos à mesma empresa durante determinado período não excedam um montante fixo determinado;\n\n(10) Considerando que o n.º 1 do artigo 93.º do Tratado cria a obrigação de a Comissão a proceder, em cooperação com os Estados-membros, ao exame permanente dos regimes de auxílios existentes nesses Estados; que, para este efeito e a fim de assegurar o maior grau possível de transparência e um controlo adequado, é desejável que a Comissão garanta a criação de um sistema fiável de registo e compilação das informações relativas à aplicação dos regulamentos por ela adoptados, às quais todos os Estados-membros tenham acesso, e que receba dos Estados-membros todas as informações necessárias sobre a aplicação dos auxílios isentos da obrigação de notificação susceptíveis de ser objecto de uma análise e uma avaliação a efectuar, conjuntamente com os Estados-membros, no âmbito de um comité consultivo; que, para o efeito, se afigura igualmente desejável que a Comissão possa exigir a prestação dessas informações, na medida do necessário para garantir a eficácia dessa análise;\n\n(11) Considerando que o controlo da concessão dos auxílios faz intervir múltiplas considerações factuais, jurídicas e económicas muito complexas, num enquadramento em constante evolução; que é conveniente, por conseguinte, que a Comissão reveja regularmente as categorias de auxílios que devem ser isentas da obrigação de notificação; que a Comissão deve poder revogar ou alterar os regulamentos por ela adoptados por força do presente regulamento, quando se altere qualquer dos elementos importantes que tenham motivado a sua adopção, ou quando o exijam a evolução progressiva ou o funcionamento do mercado comum;\n\n(12) Considerando que é conveniente que a Comissão, em estreita e constante ligação com os Estados-membros, possa definir com exactidão o âmbito destes regulamentos e as respectivas condições; que, a fim de permitir esta cooperação entre a Comissão e as entidades competentes dos Estados-membros, é conveniente criar um comité consultivo em matéria de auxílios concedidos pelos Estados, a consultar antes da adopção, por parte da Comissão, de regulamentos baseados no presente regulamento, adopção, por parte da Comissão, de regulamentos baseados no presente regulamento,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "5a24efdf226135e3": {
+   "fragment_id": "Artigo 1.º — Isenções por categoria",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Isenções por categoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Isenções por categoria\n\n1. A Comissão pode, por meio de regulamentos adoptados nos termos do artigo 8.º do presente regulamento e do artigo 92.º do Tratado, declarar que as categorias de auxílios a seguir indicadas são compatíveis com o mercado comum e não estão sujeitos à obrigação de notificação prevista no n.º 3 do artigo 93.º do Tratado:\n\na) Os auxílios a favor:\n\ni) das pequenas e médias empresas,\n\nii) da investigação, desenvolvimento e inovação,\n\niii) da proteção do ambiente,\n\niv) do emprego e formação,\n\nv) da cultura e conservação do património,\n\nvi) da reparação dos danos causados por catástrofes naturais,\n\nvii) da reparação dos danos causados por certas condições climáticas desfavoráveis no setor das pescas,\n\nviii) da silvicultura,\n\nix) da promoção de produtos do setor alimentar não incluídos no Anexo I do TFUE,\n\nx) da conservação dos recursos biológicos do mar e de água doce,\n\nxi) do desporto,\n\nxii) dos habitantes de regiões periféricas no domínio dos transportes, quando este auxílio tem finalidade social e é concedido sem qualquer discriminação em função da identidade da transportadora,\n\nxiii) dos serviços básicos de infraestrutura de banda larga e medidas individuais de reduzida importância respeitantes a redes de acesso de próxima geração, obras de engenharia civil relacionadas com a banda larga e infraestruturas passivas em regiões que não dispõem dessas infraestruturas de banda larga e nas quais é pouco provável que sejam desenvolvidas infraestruturas desse tipo num futuro próximo,\n\nxiv) da infraestrutura em apoio dos objetivos enumerados em i) a xiii) e alínea b) do presente parágrafo e outros objetivos de interesse comum, em especial os objetivos Europa 2020,\n\nb) Os auxílios respeitantes ao mapa aprovado pela Comissão para cada Estado-membro para a concessão de auxílios com finalidade regional.\n\n2. Os regulamentos a que se refere o n.º 1 especificarão, em relação a cada categoria de auxílio:\n\na) O objectivo dos auxílios;\n\nb) As categorias dos beneficiários;\n\nc) Os limiares, expressos em termos de intensidade de auxílio em relação ao conjunto dos custos elegíveis ou em termos de montantes máximos de auxílio ou, para determinados tipos de auxílio em que possa ser difícil identificar a intensidade do auxílio ou o montante preciso do auxílio, em especial instrumentos de engenharia financeira ou investimentos de capital de risco ou de natureza similar, em termos de nível máximo do apoio concedido pelo Estado ou relacionado com essa medida, sem prejuízo da qualificação das medidas em causa à luz do artigo 107.º, n.º 1, do TFUE;\n\nd) As condições relativas à cumulação de auxílios;\n\ne) As condições de controlo, tal como especificadas no artigo 3.º\n\n3. Além disso, os regulamentos a que se refere o n.º 1 podem, nomeadamente:\n\na) Estabelecer limiares ou outras condições para a notificação dos casos de concessão de auxílios individuais;\n\nb) Excluir determinados sectores do seu âmbito de aplicação;\n\nc) Prever condições adicionais relativas à compatibilidade dos auxílios isentos nos termos desses regulamentos."
+  },
+  "8e1fdace6ddbbda1": {
+   "fragment_id": "Artigo 2.º — De minimis",
+   "type": "artigo",
+   "heading": "Artigo 2.º — De minimis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — De minimis\n\n1. A Comissão pode, através de regulamento adoptado nos termos do artigo 8.º do presente regulamento, determinar que, tendo em conta a evolução e o funcionamento do mercado comum, determinados auxílios não satisfazem todos os critérios previstos no n.º 1 do artigo 92.º do Tratado sendo, por conseguinte, isentos do processo de notificação previsto no n.º 3 do artigo 93.º do Tratado, desde que os auxílios concedidos a uma mesma empresa, durante determinado período, não excedam um montante fixo determinado.\n\n2. Os Estados-membros prestarão a todo o tempo, a pedido da Comissão, todas as informações adicionais relativas aos auxílios isentos nos termos do n.º 1."
+  },
+  "eacd10fa39e1ce55": {
+   "fragment_id": "Artigo 3.º — Transparência e controlo",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Transparência e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Transparência e controlo\n\n1. Quando adoptar regulamentos em aplicação do artigo 1.º, a Comissão imporá aos Estados-membros regras precisas para assegurar a transparência e o controlo dos auxílios isentos da obrigação de notificação de acordo com os referidos regulamentos. Essas regras consistirão em particular nas obrigações definidas nos n.^os^ 2, 3 e 4.\n\n2. A partir do início da aplicação de regimes de auxílios, ou de auxílios individuais concedidos fora de um regime, que sejam isentos por força dos referidos regulamentos, os Estados-Membros transmitirão à Comissão, para ser publicado no seu sítio *web*, um resumo das informações relativas a esses regimes de auxílio, ou os casos de auxílios individuais que não resultem de um regime de auxílio isento.\n\n3. Os Estados-membros procederão ao registo e compilação de todas as informações relativas à aplicação das isenções por categoria. Se a Comissão dispuser de elementos que suscitem dúvidas quanto à correcta aplicação de dado regulamento de isenção, os Estados-membros comunicarão todas as informações que aquela considerar necessárias para avaliar a conformidade dos auxílios com o referido regulamento.\n\n4. Os Estados-membros comunicarão à Comissão, pelo menos uma vez por ano, um relatório sobre a aplicação das isenções por categoria, de acordo com os requisitos específicos da Comissão, de preferência sob forma informatizada. A Comissão facultará esses relatórios a todos os Estados-membros. Uma vez por ano, o Comité Consultivo previsto no artigo 7.º debaterá e avaliará esses relatórios."
+  },
+  "24efc407fb507963": {
+   "fragment_id": "Artigo 4.º — Período de vigência e alteração dos regulamentos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Período de vigência e alteração dos regulamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Período de vigência e alteração dos regulamentos\n\n1. Os regulamentos adoptados por força dos artigos 1.º e 2.º são aplicáveis durante certos prazo. Os auxílios isentos ao abrigo de um regulamento adoptado por força dos artigos 1.º e 2.º ficarão isentos durante o período de vigência desse regulamento, bem como durante o período de adaptação previsto nos 2 e 3.\n\n2. Os regulamentos adoptados por força dos artigo 1.º e 2.º podem ser revogados ou modificados quando se altere qualquer dos elementos importantes que tenham motivado a sua adopção, ou quando o exijam a evolução progressiva ou o funcionamento do mercado comum. Nesse caso, o novo regulamento fixará um período de adaptação de seis meses para o ajustamento dos auxílios abrangidos pelo regulamento anterior.\n\n3. Os regulamentos adoptados por força dos artigos 1.º e 2.º preverão um período idêntico ao referido no n.º 2 para o caso de não serem prorrogados, quando caducarem."
+  },
+  "64f5f5a75d1af97e": {
+   "fragment_id": "Artigo 5.º — Relatório de avaliação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Relatório de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Relatório de avaliação\n\nDe cinco em cinco anos, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do presente regulamento. O projecto de relatório será submetido à apreciação do Comité Consultivo previsto no artigo 7.º"
+  },
+  "e0c673b2b79b112f": {
+   "fragment_id": "Artigo 6.º — Audição das partes interessadas",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Audição das partes interessadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Audição das partes interessadas\n\nquando se propuser adoptar um regulamento, a Comissão publicará o respectivo projecto, a fim de permitir que todas as pessoas e organizações interessadas apresentem as suas observações num prazo razoável por ela fixado, que não pode ser inferior a um mês."
+  },
+  "6fbcd3f01e896c49": {
+   "fragment_id": "Artigo 7.º — Comité Consultivo",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Comité Consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comité Consultivo\n\nÉ instituído um comité de carácter consultivo, a seguir designado por Comité Consultivo em matéria de auxílios concedidos pelos Estados. Este comité será composto por representantes dos Estados-membros e presidido pelo representante da Comissão."
+  },
+  "747c95520f5018ad": {
+   "fragment_id": "Artigo 8.º — Consulta do Comité Consultivo",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Consulta do Comité Consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Consulta do Comité Consultivo\n\n1. A Comissão consultará o Comité Consultivo em matéria de auxílios concedidos pelos Estados:\n\na) No momento em que publique um projeto de regulamento em conformidade com o artigo 6.º;\n\nb) Antes de adoptar um regulamento.\n\n2. A consulta do comité terá lugar no decurso de uma reunião realizada a convite da Comissão. [**►M1**](http://publications.europa.eu/resource/celex/32013R0733) Ao convite serão anexados os projetos e documentos a examinar, que podem ser publicados no sítio *web* da Comissão.**◄** A reunião realizar-se-á, o mais tardar, dois meses após o envio da convocatória.\n\nEste prazo pode ser reduzido no caso das consultas a que se refere a alínea b) do n.º 1, bem como em caso de urgência ou de mera prorrogação de um regulamento.\n\n3. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão, se necessário procedendo a votação.\n\n4. O parecer será exarado em acta; além disso, cada Estado-membro tem o direito de solicitar que a sua posição conste da acta. O Comité Consultivo pode recomendar a publicação desse parecer no *Jornal Oficial das Comunidades Europeias*.\n\n5. A Comissão tomará na melhor conta o parecer emitido pelo comité. O comité será por ela informado do modo como esse parecer foi tomado em consideração."
+  },
+  "11e9da7b3b047e66": {
+   "fragment_id": "Artigo 9.º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições finais\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n---"
+  },
+  "23e35ef2b010a3d6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/babdd074-26f1-46b2-aafe-f1ab9371c258.0019.03/DOC_1#src.E0001)) JO C 262 de 28.8.1997, p. 6.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/babdd074-26f1-46b2-aafe-f1ab9371c258.0019.03/DOC_1#src.E0002)) JO C 138 de 4.5.1998.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/babdd074-26f1-46b2-aafe-f1ab9371c258.0019.03/DOC_1#src.E0003)) JO C 129 de 27.4.1998, p. 70."
+  },
+  "f9b8ac283ec1b469": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1998R0994 — PT — 14.10.2015 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31998R0994) [REGULAMENTO DO CONSELHO (CE) n.º 994/98](http://publications.europa.eu/resource/celex/31998R0994) [de 7 de maio de 1998](http://publications.europa.eu/resource/celex/31998R0994) [relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia a determinadas categorias de auxílios estatais horizontais](http://publications.europa.eu/resource/celex/31998R0994) (JO L 142, 14.5.1998, p.1)\n\n**revogado por:**\n\n- [Regulamento (UE) 2015/1588 do Conselho de 13 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1588) — L 248 — 1 — 24.9.2015"
+  }
+ }
+}

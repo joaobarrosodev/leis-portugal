@@ -34,6 +34,37 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2002-05-30'
+version_history:
+  file: regulamento-ue-1997-2027.versoes.json
+  count: 2
+  source_lastmod: '2002-05-30'
+  versions:
+  - date: '1997-10-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-05-30'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 3.oA
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita ANEXO — Responsabilidade das transportadoras aéreas pelos passageiros e pela sua bagagem
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
 identifiers:
   celex: 31997R2027
   eli: http://data.europa.eu/eli/reg/1997/2027/oj
@@ -48,7 +79,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/39ce2b6f-ded7-4126-8d02-e2bd42365543.0011
   content_url: http://publications.europa.eu/resource/cellar/6e1ae25e-b5cd-452a-b610-ba2f4c62401f.0022.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R2027-20020530
-  retrieved_at: '2026-10-22T02:51:00Z'
+  retrieved_at: '2026-10-22T14:46:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:06:30.192+02:00'
 integrity:
@@ -57,9 +88,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:00Z'
-  notes: Texto consolidado 01997R2027-20020530.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:23Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1997-2027.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -136,15 +167,14 @@ relationships:
 article_structure:
   article_count: 8
   section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:00Z'
-  warnings:
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:46:23Z'
+  warnings: []
   errors: []
 ---
 

@@ -33,6 +33,95 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-12-12'
+version_history:
+  file: diretiva-ue-1975-439.versoes.json
+  count: 4
+  source_lastmod: '2010-12-12'
+  versions:
+  - date: '1975-07-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-12-28'
+    amending: eu:celex:31987L0101:por
+    amending_title: Directiva do Conselho de 22 de Dezembro de 1986 (87/101/CEE); Directiva do Conselho de 23 de Dezembro
+      de 1991 (91/692/CEE); DIRECTIVA 2000/76/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de Dezembro de 2000
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1º
+    - Adita Artigo 2º
+    - Adita Artigo 3º
+    - Adita Artigo 4º
+    - Adita Artigo 5º
+    - Adita Artigo 6º
+    - Adita Artigo 7º
+    - Adita Artigo 8º
+    - Adita Artigo 9º
+    - Adita Artigo 10º
+    - Adita Artigo 11º
+    - Adita Artigo 12º
+    - Adita Artigo 13º
+    - Adita Artigo 14
+    - Adita Artigo 15º
+    - Adita Artigo 16º
+    - Adita Artigo 17º
+    - Adita Artigo 18º
+    - Adita Artigo 19º
+    - Adita Artigo 20º
+    - Adita Artigo 21º
+    - Adita Artigo 22º
+    - Adita DECLARAÇÃO
+    - Adita Nº 3 do artigo 10º da Directiva 75/439/CEE
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+  - date: '2008-12-12'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime Artigo 17º
+    - Suprime Artigo 18º
+    - Suprime Artigo 19º
+    - Suprime Artigo 20º
+    - Suprime Artigo 21º
+    - Suprime Artigo 22º
+    - Suprime DECLARAÇÃO
+    - Suprime Nº 3 do artigo 10º da Directiva 75/439/CEE
+    - Suprime Notas
+  - date: '2010-12-12'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
 identifiers:
   celex: 31975L0439
   eli: http://data.europa.eu/eli/dir/1975/439/oj
@@ -47,7 +136,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b3271ddc-d54f-4492-a82f-06cfbf0a69f3.0009
   content_url: http://publications.europa.eu/resource/cellar/66edce36-8f22-4009-8bfe-3ee5bdfbea4c.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01975L0439-20101212
-  retrieved_at: '2026-10-22T02:41:00Z'
+  retrieved_at: '2026-10-22T14:31:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T16:52:21.503+01:00'
 integrity:
@@ -56,9 +145,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:00Z'
-  notes: Texto consolidado 01975L0439-20101212.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:31:18Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1975-439.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -162,16 +251,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:00Z'
+  checked_at: '2026-10-22T14:31:18Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01975L0439-19911223: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

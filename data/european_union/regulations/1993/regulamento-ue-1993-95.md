@@ -35,6 +35,146 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-10-26'
+version_history:
+  file: regulamento-ue-1993-95.versoes.json
+  count: 9
+  source_lastmod: '2022-10-26'
+  versions:
+  - date: '1993-01-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-07-30'
+    amending: eu:celex:32002R0894:por
+    amending_title: REGULAMENTO (CE) N. o 894/2002 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de Maio de 2002; REGULAMENTO
+      (CE) N. o 1554/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Julho de 2003; REGULAMENTO (CE) N. o 793/2004 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 21 de Abril de 2004
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º — Âmbito de aplicação
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 3.º — Condições para a coordenação dos aeroportos
+    - Adita Artigo 4.º
+    - Adita Facilitador de horários e coordenador
+    - Adita Artigo 5.º — Comité de coordenação
+    - Adita Artigo 6.º — Parâmetros de coordenação
+    - Adita Artigo 7.º — Informações a fornecer ao facilitador de horários e ao coordenador
+    - Adita Artigo 8.º — Procedimento de atribuição de faixas horárias
+    - Adita Artigo 8.ºA — Mobilidade das faixas horárias
+    - Adita Artigo 8.ºB — Exclusão dos pedidos de indemnização
+    - Adita Artigo 9.º — Obrigações de serviço público
+    - Adita Artigo 10.º — Reserva de faixas horárias
+    - Adita Artigo 10.ºA — Acontecimentos de 11 de Setembro de 2001
+    - Adita Artigo 10.ºB
+    - Adita Artigo 11.º — Reclamações e direito de recurso
+    - Adita Artigo 12.º
+    - Adita Relações com países terceiros
+    - Adita Artigo 13.º — Procedimento de comité
+    - Adita Artigo 14.º — Execução
+    - Adita Artigo 14.ºA — Relatório e cooperação
+    - Adita Artigo 15.º — Entrada em vigor
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+    - Suprime Artigo 15o
+  - date: '2009-06-30'
+    amending: eu:celex:32009R0545:por
+    amending_title: REGULAMENTO (CE) N. o 545/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.ºB — Exclusão dos pedidos de indemnização
+    - Altera Artigo 13.º — Procedimento de comité
+    - Altera Notas
+    - Adita Artigo 10.ºA
+    - Suprime Artigo 10.ºA — Acontecimentos de 11 de Setembro de 2001
+    - Suprime Artigo 10.ºB
+  - date: '2020-04-01'
+    amending: eu:celex:32020R0459:por
+    amending_title: REGULAMENTO (UE) 2020/459 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de março de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.ºB — Exclusão dos pedidos de indemnização
+    - Altera Artigo 13.º — Procedimento de comité
+    - Altera Notas
+    - Adita Artigo 10.º-A
+    - Adita Artigo 12.º-A — Exercício da delegação
+    - Adita Artigo 12.º-B — Procedimento de urgência
+    - Suprime Artigo 10.ºA
+  - date: '2020-10-16'
+    amending: eu:celex:32020R1477:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/1477 DA COMISSÃO de 14 de outubro de 2020
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Condições para a coordenação dos aeroportos
+    - Altera Artigo 8.ºA — Mobilidade das faixas horárias
+    - Altera Artigo 8.ºB — Exclusão dos pedidos de indemnização
+    - Altera Artigo 10.º-A
+    - Altera Artigo 13.º — Procedimento de comité
+    - Altera Artigo 14.º — Execução
+    - Altera Notas
+  - date: '2021-02-20'
+    amending: eu:celex:32021R0250:por
+    amending_title: REGULAMENTO (UE) 2021/250 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de fevereiro de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Informações a fornecer ao facilitador de horários e ao coordenador
+    - Altera Artigo 8.º — Procedimento de atribuição de faixas horárias
+    - Altera Artigo 8.ºA — Mobilidade das faixas horárias
+    - Altera Artigo 8.ºB — Exclusão dos pedidos de indemnização
+    - Altera Artigo 10.º — Reserva de faixas horárias
+    - Altera Artigo 12.º-A — Exercício da delegação
+    - Altera Artigo 13.º — Procedimento de comité
+    - Altera Artigo 14.º — Execução
+    - Altera Notas
+    - Adita Artigo 10.º-A — Atribuição de faixas horárias em resposta à crise de COVID-19
+    - Suprime Artigo 10.º-A
+  - date: '2021-10-30'
+    amending: eu:celex:32021R1889:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1889 DA COMISSÃO de 23 de julho de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.ºB — Exclusão dos pedidos de indemnização
+    - Altera Artigo 10.º-A — Atribuição de faixas horárias em resposta à crise de COVID-19
+    - Altera Artigo 13.º — Procedimento de comité
+    - Altera Notas
+  - date: '2022-02-24'
+    amending: eu:celex:32022R0255:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/255 DA COMISSÃO de 15 de dezembro de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.ºB — Exclusão dos pedidos de indemnização
+    - Altera Artigo 10.º-A — Atribuição de faixas horárias em resposta à crise de COVID-19
+    - Altera Artigo 13.º — Procedimento de comité
+    - Altera Notas
+  - date: '2022-10-26'
+    amending: eu:celex:32022R2038:por
+    amending_title: REGULAMENTO (UE) 2022/2038 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de outubro de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Procedimento de atribuição de faixas horárias
+    - Altera Artigo 8.ºB — Exclusão dos pedidos de indemnização
+    - Altera Artigo 10.º — Reserva de faixas horárias
+    - Altera Artigo 11.º — Reclamações e direito de recurso
+    - Altera Artigo 12.º-A — Exercício da delegação
+    - Altera Artigo 13.º — Procedimento de comité
+    - Altera Artigo 14.º — Execução
+    - Altera Notas
+    - Adita Artigo 10.º-A — Atribuição de faixas horárias em resposta a determinadas situações de crise
+    - Suprime Artigo 10.º-A — Atribuição de faixas horárias em resposta à crise de COVID-19
 identifiers:
   celex: 31993R0095
   eli: http://data.europa.eu/eli/reg/1993/95/oj
@@ -49,7 +189,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f875c72f-117d-4fc1-96e1-8d3f2c13806d.0011
   content_url: http://publications.europa.eu/resource/cellar/f9d749ad-7025-11ed-9887-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R0095-20221026
-  retrieved_at: '2026-10-22T02:40:17Z'
+  retrieved_at: '2026-10-22T14:42:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T21:43:50.680+01:00'
 integrity:
@@ -58,9 +198,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:17Z'
-  notes: Texto consolidado 01993R0095-20221026.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:26Z'
+  notes: 9 versão(ões); histórico completo em regulamento-ue-1993-95.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -185,38 +325,22 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/cd217e70-2edf-4068-80ac-1c378fbf2443
 article_structure:
   article_count: 21
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:17Z'
-  warnings: []
+  checked_at: '2026-10-22T14:42:26Z'
+  warnings:
+  - '01993R0095-20020601: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R0095-20030905: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R0095-20040730: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CEE) nº 95/93 do Conselho, de 18 de Janeiro de 1993
-
-> 01993R0095 — PT — 26.10.2022 — 011.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32002R0894) — [REGULAMENTO (CE) N.º 894/2002 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de Maio de 2002](http://publications.europa.eu/resource/celex/32002R0894) — L 142 — 3 — 31.5.2002
-- [M2](http://publications.europa.eu/resource/celex/32003R1554) — [REGULAMENTO (CE) N.º 1554/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Julho de 2003](http://publications.europa.eu/resource/celex/32003R1554) — L 221 — 1 — 4.9.2003
-- [►M3](http://publications.europa.eu/resource/celex/32004R0793) — [REGULAMENTO (CE) N.º 793/2004 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0793) — L 138 — 50 — 30.4.2004
-- [►M4](http://publications.europa.eu/resource/celex/32009R0545) — [REGULAMENTO (CE) N.º 545/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0545) — L 167 — 24 — 29.6.2009
-- [►M5](http://publications.europa.eu/resource/celex/32020R0459) — [REGULAMENTO (UE) 2020/459 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de março de 2020](http://publications.europa.eu/resource/celex/32020R0459) — L 99 — 1 — 31.3.2020
-- [M6](http://publications.europa.eu/resource/celex/32020R1477) — [REGULAMENTO DELEGADO (UE) 2020/1477 DA COMISSÃO de 14 de outubro de 2020](http://publications.europa.eu/resource/celex/32020R1477) — L 338 — 4 — 15.10.2020
-- [►M7](http://publications.europa.eu/resource/celex/32021R0250) — [REGULAMENTO (UE) 2021/250 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de fevereiro de 2021](http://publications.europa.eu/resource/celex/32021R0250) — L 58 — 1 — 19.2.2021
-- [M8](http://publications.europa.eu/resource/celex/32021R1889) — [REGULAMENTO DELEGADO (UE) 2021/1889 DA COMISSÃO de 23 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1889) — L 384 — 20 — 29.10.2021
-- [M9](http://publications.europa.eu/resource/celex/32022R0255) — [REGULAMENTO DELEGADO (UE) 2022/255 DA COMISSÃO de 15 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022R0255) — L 42 — 1 — 23.2.2022
-- [►M10](http://publications.europa.eu/resource/celex/32022R2038) — [REGULAMENTO (UE) 2022/2038 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de outubro de 2022](http://publications.europa.eu/resource/celex/32022R2038) — L 275 — 14 — 25.10.2022
-
-## REGULAMENTO (CEE) N.º 95/93 DO CONSELHO
 
 de 18 de Janeiro de 1993
 

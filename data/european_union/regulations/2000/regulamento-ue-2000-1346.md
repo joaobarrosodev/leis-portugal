@@ -33,6 +33,245 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-10-12'
+version_history:
+  file: regulamento-ue-2000-1346.versoes.json
+  count: 11
+  source_lastmod: '2016-10-12'
+  versions:
+  - date: '2000-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-04-21'
+    amending: eu:celex:32005R0603:por
+    amending_title: REGULAMENTO (CE) N. o 603/2005 DO CONSELHO de 12 de Abril de 2005; Acto relativo às condições de adesão
+      da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia,
+      da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca
+      e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 25.º — Reconhecimento e carácter executório de outras decisões
+    - Altera Artigo 36.º — Abertura posterior do processo principal
+    - Altera Artigo 44.º — Relações com as convenções existentes
+    - Altera Artigo 47.º — Entrada em vigor
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita CAPÍTULO II
+    - Adita Reconhecimento do processo de insolvência
+    - Adita Artigo 26.º ([^6^](http://publications.europa.eu/resource/cellar/9c41c79c-69a9-4e4c-acf1-8ee3fc0ee0d2.0017.03/DOC_1#E0006))
+      — Ordem pública
+    - Adita CAPÍTULO III
+    - Adita Processo de insolvência secundários
+    - Adita Artigo 37.º ([^7^](http://publications.europa.eu/resource/cellar/9c41c79c-69a9-4e4c-acf1-8ee3fc0ee0d2.0017.03/DOC_1#E0007))
+      — Conversão do processo anterior
+    - Adita CAPÍTULO IV
+    - Adita Informação dos credores e reclamação dos respectivos créditos
+    - Adita CAPÍTULO V
+    - Adita Disposições transitórias e finais
+    - Adita ANEXO A
+    - Adita Processos de insolvência a que se refere a alínea a) do artigo 2.º
+    - Adita BELGIË/BELGIQUE
+    - Adita ČESKÁ REPUBLIKA
+    - Adita DEUTSCHLAND
+    - Adita EESTI
+    - Adita ΕΛΛΑΣ
+    - Adita ESPAÑA
+    - Adita FRANCE
+    - Adita IRELAND
+    - Adita ITALIA
+    - Adita ΚΥΠΡΟΣ
+    - Adita LATVIJA
+    - Adita LIETUVA
+    - Adita LUXEMBOURG
+    - Adita MAGYARORSZÁG
+    - Adita MALTA
+    - Adita NEDERLAND
+    - Adita ÖSTERREICH
+    - Adita POLSKA
+    - Adita PORTUGAL
+    - Adita SLOVENIJA
+    - Adita SLOVENSKO
+  - date: '2006-05-07'
+    amending: eu:celex:32006R0694:por
+    amending_title: REGULAMENTO (CE) N. o 694/2006 DO CONSELHO de 27 de Abril de 2006
+    changes:
+    - Altera preambulo
+    - Altera FRANCE
+    - Altera NEDERLAND
+    - Altera PORTUGAL
+    - Altera SLOVENSKO
+    - Altera Notas
+    - Adita Artigo 26.º ([^6^](http://publications.europa.eu/resource/cellar/283c1218-ea07-472e-a232-a87bf3844f9c.0016.03/DOC_1#E0006))
+      — Ordem pública
+    - Adita Artigo 37.º ([^7^](http://publications.europa.eu/resource/cellar/283c1218-ea07-472e-a232-a87bf3844f9c.0016.03/DOC_1#E0007))
+      — Conversão do processo anterior
+    - Adita ΕΛΛΑΔΑ
+    - Suprime Artigo 26.º ([^6^](http://publications.europa.eu/resource/cellar/9c41c79c-69a9-4e4c-acf1-8ee3fc0ee0d2.0017.03/DOC_1#E0006))
+      — Ordem pública
+    - Suprime Artigo 37.º ([^7^](http://publications.europa.eu/resource/cellar/9c41c79c-69a9-4e4c-acf1-8ee3fc0ee0d2.0017.03/DOC_1#E0007))
+      — Conversão do processo anterior
+    - Suprime ΕΛΛΑΣ
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1791:por
+    amending_title: REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 44.º — Relações com as convenções existentes
+    - Altera Notas
+    - Adita Artigo 26.º ([^6^](http://publications.europa.eu/resource/cellar/f3f78100-4832-4fea-b429-a2d2b06011ab.0016.03/DOC_1#E0006))
+      — Ordem pública
+    - Adita Artigo 37.º ([^7^](http://publications.europa.eu/resource/cellar/f3f78100-4832-4fea-b429-a2d2b06011ab.0016.03/DOC_1#E0007))
+      — Conversão do processo anterior
+    - Adita БЪЛГАРИЯ
+    - Adita ROMÂNIA
+    - Suprime Artigo 26.º ([^6^](http://publications.europa.eu/resource/cellar/283c1218-ea07-472e-a232-a87bf3844f9c.0016.03/DOC_1#E0006))
+      — Ordem pública
+    - Suprime Artigo 37.º ([^7^](http://publications.europa.eu/resource/cellar/283c1218-ea07-472e-a232-a87bf3844f9c.0016.03/DOC_1#E0007))
+      — Conversão do processo anterior
+  - date: '2008-01-01'
+    amending: eu:celex:32007R0681:por
+    amending_title: REGULAMENTO (CE) N. o 681/2007 DO CONSELHO de 13 de Junho de 2007
+    changes:
+    - Altera preambulo
+    - Altera ČESKÁ REPUBLIKA
+    - Altera NEDERLAND
+    - Altera ROMÂNIA
+    - Altera Notas
+    - Adita Artigo 26.º ([^6^](http://publications.europa.eu/resource/cellar/90dc8de4-78ae-4b60-a292-915d12ee4a46.0017.03/DOC_1#E0006))
+      — Ordem pública
+    - Adita Artigo 37.º ([^7^](http://publications.europa.eu/resource/cellar/90dc8de4-78ae-4b60-a292-915d12ee4a46.0017.03/DOC_1#E0007))
+      — Conversão do processo anterior
+    - Adita ΕΛΛΑΣ
+    - Suprime Artigo 26.º ([^6^](http://publications.europa.eu/resource/cellar/f3f78100-4832-4fea-b429-a2d2b06011ab.0016.03/DOC_1#E0006))
+      — Ordem pública
+    - Suprime Artigo 37.º ([^7^](http://publications.europa.eu/resource/cellar/f3f78100-4832-4fea-b429-a2d2b06011ab.0016.03/DOC_1#E0007))
+      — Conversão do processo anterior
+    - Suprime ΕΛΛΑΔΑ
+  - date: '2008-08-09'
+    amending: eu:celex:32008R0788:por
+    amending_title: REGULAMENTO (CE) N. o 788/2008 DO CONSELHO de 24 de Julho de 2008
+    changes:
+    - Altera preambulo
+    - Altera ČESKÁ REPUBLIKA
+    - Altera LATVIJA
+    - Altera PORTUGAL
+    - Altera Notas
+    - Adita Artigo 26.º ([^6^](http://publications.europa.eu/resource/cellar/7ce5c026-1c35-4b70-9829-7bf7d57cef23.0018.03/DOC_1#E0006))
+      — Ordem pública
+    - Adita Artigo 37.º ([^7^](http://publications.europa.eu/resource/cellar/7ce5c026-1c35-4b70-9829-7bf7d57cef23.0018.03/DOC_1#E0007))
+      — Conversão do processo anterior
+    - Adita ΕΛΛΑΔΑ
+    - Suprime Artigo 26.º ([^6^](http://publications.europa.eu/resource/cellar/90dc8de4-78ae-4b60-a292-915d12ee4a46.0017.03/DOC_1#E0006))
+      — Ordem pública
+    - Suprime Artigo 37.º ([^7^](http://publications.europa.eu/resource/cellar/90dc8de4-78ae-4b60-a292-915d12ee4a46.0017.03/DOC_1#E0007))
+      — Conversão do processo anterior
+    - Suprime ΕΛΛΑΣ
+  - date: '2010-04-02'
+    amending: eu:celex:32010R0210:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 210/2010 DO CONSELHO de 25 de Fevereiro de 2010
+    changes:
+    - Altera preambulo
+    - Altera BELGIË/BELGIQUE
+    - Altera ČESKÁ REPUBLIKA
+    - Altera LIETUVA
+    - Altera Notas
+    - Adita Artigo 26.º ([^6^](http://publications.europa.eu/resource/cellar/5a045ce6-5f9a-4a32-b95a-b469838f409a.0018.03/DOC_1#E0006))
+      — Ordem pública
+    - Adita Artigo 37.º ([^7^](http://publications.europa.eu/resource/cellar/5a045ce6-5f9a-4a32-b95a-b469838f409a.0018.03/DOC_1#E0007))
+      — Conversão do processo anterior
+    - Adita ΕΛΛΑΣ
+    - Suprime Artigo 26.º ([^6^](http://publications.europa.eu/resource/cellar/7ce5c026-1c35-4b70-9829-7bf7d57cef23.0018.03/DOC_1#E0006))
+      — Ordem pública
+    - Suprime Artigo 37.º ([^7^](http://publications.europa.eu/resource/cellar/7ce5c026-1c35-4b70-9829-7bf7d57cef23.0018.03/DOC_1#E0007))
+      — Conversão do processo anterior
+    - Suprime ΕΛΛΑΔΑ
+  - date: '2011-07-08'
+    amending: eu:celex:32011R0583:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 583/2011 DO CONSELHO de 9 de Junho de 2011
+    changes:
+    - Altera preambulo
+    - Altera ANEXO A
+    - Altera LATVIJA
+    - Altera LIETUVA
+    - Altera ÖSTERREICH
+    - Altera ANEXO B
+    - Altera ANEXO C
+    - Altera Notas
+    - Adita Artigo 26.º ([^6^](http://publications.europa.eu/resource/cellar/a0e131d2-f360-451b-8c5b-90fbf04b9543.0018.03/DOC_1#E0006))
+      — Ordem pública
+    - Adita Artigo 37.º ([^7^](http://publications.europa.eu/resource/cellar/a0e131d2-f360-451b-8c5b-90fbf04b9543.0018.03/DOC_1#E0007))
+      — Conversão do processo anterior
+    - Suprime Artigo 26.º ([^6^](http://publications.europa.eu/resource/cellar/5a045ce6-5f9a-4a32-b95a-b469838f409a.0018.03/DOC_1#E0006))
+      — Ordem pública
+    - Suprime Artigo 37.º ([^7^](http://publications.europa.eu/resource/cellar/5a045ce6-5f9a-4a32-b95a-b469838f409a.0018.03/DOC_1#E0007))
+      — Conversão do processo anterior
+    - Suprime Processos de insolvência a que se refere a alínea a) do artigo 2.º
+    - Suprime Processos de liquidação a que se refere a alínea c) do artigo 2.º
+    - Suprime Síndicos a que se refere a alínea b) do artigo 2.º
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO, de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 26.º ([^6^](http://publications.europa.eu/resource/cellar/75f97059-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#E0006))
+      — Ordem pública
+    - Adita Artigo 37.º ([^7^](http://publications.europa.eu/resource/cellar/75f97059-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#E0007))
+      — Conversão do processo anterior
+    - Adita HRVATSKA
+    - Suprime Artigo 26.º ([^6^](http://publications.europa.eu/resource/cellar/a0e131d2-f360-451b-8c5b-90fbf04b9543.0018.03/DOC_1#E0006))
+      — Ordem pública
+    - Suprime Artigo 37.º ([^7^](http://publications.europa.eu/resource/cellar/a0e131d2-f360-451b-8c5b-90fbf04b9543.0018.03/DOC_1#E0007))
+      — Conversão do processo anterior
+  - date: '2014-07-09'
+    amending: eu:celex:32014R0663:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 663/2014 DO CONSELHO, de 5 de junho de 2014
+    changes:
+    - Altera preambulo
+    - Altera ΚΥΠΡΟΣ
+    - Altera LIETUVA
+    - Altera LUXEMBOURG
+    - Altera POLSKA
+    - Altera PORTUGAL
+    - Altera Notas
+    - Adita Artigo 26.º ([^6^](http://publications.europa.eu/resource/cellar/48b5d5c4-e683-4398-a303-cd9e719a9e85.0014.02/DOC_1#E0006))
+      — Ordem pública
+    - Adita Artigo 37.º ([^7^](http://publications.europa.eu/resource/cellar/48b5d5c4-e683-4398-a303-cd9e719a9e85.0014.02/DOC_1#E0007))
+      — Conversão do processo anterior
+    - Adita BELGIQUE/BELGIË
+    - Adita ÉIRE/IRELAND
+    - Adita ΕΛΛΑΔΑ
+    - Adita ROMÉNIA
+    - Suprime Artigo 26.º ([^6^](http://publications.europa.eu/resource/cellar/75f97059-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#E0006))
+      — Ordem pública
+    - Suprime Artigo 37.º ([^7^](http://publications.europa.eu/resource/cellar/75f97059-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#E0007))
+      — Conversão do processo anterior
+    - Suprime BELGIË/BELGIQUE
+    - Suprime ΕΛΛΑΣ
+    - Suprime IRELAND
+  - date: '2016-10-12'
+    amending: eu:celex:32016R1792:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2016/1792 DO CONSELHO de 29 de setembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera ANEXO A
+    - Altera POLSKA
+    - Altera SLOVENSKO
+    - Altera ANEXO B
+    - Altera ANEXO C
+    - Altera Notas
+    - Adita Artigo 26.º ([^1^](http://publications.europa.eu/resource/cellar/74d4d8e9-6dd1-49ee-b2a0-09b472b99823.0015.02/DOC_1#E0001))
+      — Ordem pública
+    - Adita Artigo 37.º ([^2^](http://publications.europa.eu/resource/cellar/74d4d8e9-6dd1-49ee-b2a0-09b472b99823.0015.02/DOC_1#E0002))
+      — Conversão do processo anterior
+    - 'Adita Processos de insolvência a que se refere o artigo 2.º, alínea a):'
+    - 'Adita Processos de liquidação a que se refere o artigo 2.º, alínea c):'
+    - 'Adita Síndicos a que se refere o artigo 2.º, alínea b):'
+    - Suprime Artigo 26.º ([^6^](http://publications.europa.eu/resource/cellar/48b5d5c4-e683-4398-a303-cd9e719a9e85.0014.02/DOC_1#E0006))
+      — Ordem pública
+    - Suprime Artigo 37.º ([^7^](http://publications.europa.eu/resource/cellar/48b5d5c4-e683-4398-a303-cd9e719a9e85.0014.02/DOC_1#E0007))
+      — Conversão do processo anterior
+    - Suprime ROMÉNIA
 identifiers:
   celex: 32000R1346
   eli: http://data.europa.eu/eli/reg/2000/1346/oj
@@ -47,7 +286,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ed84c3aa-e64e-4292-a567-b40143b80fb4.0009
   content_url: http://publications.europa.eu/resource/cellar/74d4d8e9-6dd1-49ee-b2a0-09b472b99823.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R1346-20161012
-  retrieved_at: '2026-10-22T02:51:12Z'
+  retrieved_at: '2026-10-22T14:49:25Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-27T19:03:41.781+02:00'
 integrity:
@@ -56,9 +295,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:12Z'
-  notes: Texto consolidado 02000R1346-20161012.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:25Z'
+  notes: 11 versão(ões); histórico completo em regulamento-ue-2000-1346.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -362,46 +601,21 @@ relationships:
   date: '2015-06-05'
 article_structure:
   article_count: 47
-  section_count: 97
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 98
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:12Z'
-  warnings: []
+  checked_at: '2026-10-22T14:49:25Z'
+  warnings:
+  - '02000R1346-20020531: versão indisponível (Sem expressão na língua por para CELEX 02000R1346-20020531.)'
+  - '02000R1346-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) n.o 1346/2000 do Conselho, de 29 de Maio de 2000
-
-> 2000R1346 — PT — 12.10.2016 — 011.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32005R0603) — [REGULAMENTO (CE) N.º 603/2005 DO CONSELHO, de 12 de Abril de 2005](http://publications.europa.eu/resource/celex/32005R0603) — L 100 — 1 — 20.4.2005
-- [M2](http://publications.europa.eu/resource/celex/32006R0694) — [REGULAMENTO (CE) N.º 694/2006 DO CONSELHO, de 27 de Abril de 2006](http://publications.europa.eu/resource/celex/32006R0694) — L 121 — 1 — 6.5.2006
-- [►M3](http://publications.europa.eu/resource/celex/32006R1791) — [REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO, de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006R1791) — L 363 — 1 — 20.12.2006
-- [M4](http://publications.europa.eu/resource/celex/32007R0681) — [REGULAMENTO (CE) N.º 681/2007 DO CONSELHO, de 13 de Junho de 2007](http://publications.europa.eu/resource/celex/32007R0681) — L 159 — 1 — 20.6.2007
-- [M5](http://publications.europa.eu/resource/celex/32008R0788) — [REGULAMENTO (CE) N.º 788/2008 DO CONSELHO, de 24 de Julho de 2008](http://publications.europa.eu/resource/celex/32008R0788) — L 213 — 1 — 8.8.2008
-- [M6](http://publications.europa.eu/resource/celex/32010R0210) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 210/2010 DO CONSELHO, de 25 de Fevereiro de 2010](http://publications.europa.eu/resource/celex/32010R0210) — L 65 — 1 — 13.3.2010
-- [M7](http://publications.europa.eu/resource/celex/32011R0583) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 583/2011 DO CONSELHO, de 9 de Junho de 2011](http://publications.europa.eu/resource/celex/32011R0583) — L 160 — 52 — 18.6.2011
-- [M8](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO, de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [M9](http://publications.europa.eu/resource/celex/32014R0663) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 663/2014 DO CONSELHO, de 5 de junho de 2014](http://publications.europa.eu/resource/celex/32014R0663) — L 179 — 4 — 19.6.2014
-- [►M10](http://publications.europa.eu/resource/celex/32016R1792) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1792 DO CONSELHO de 29 de setembro de 2016](http://publications.europa.eu/resource/celex/32016R1792) — L 274 — 35 — 11.10.2016
-
-**Alterado por:**
-
-- [►A1](http://publications.europa.eu/resource/celex/12003T) — [ACTO relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T%2FTXT) — L 236 — 33 — 23.9.2003
-
-**Rectificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32005R0603R%2801%29) — [Rectificação, JO L 049, 17.2.2007, p. 36 (603/2005)](http://publications.europa.eu/resource/celex/32005R0603R%2801%29)
-
-## REGULAMENTO (CE) N.º 1346/2000 DO CONSELHO
 
 de 29 de Maio de 2000
 

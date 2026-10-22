@@ -34,6 +34,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-04-09'
+version_history:
+  file: decisao-ue-1979-542.versoes.json
+  count: 2
+  source_lastmod: '2010-04-09'
+  versions:
+  - date: '1979-06-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-04-09'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime ANEXO
 identifiers:
   celex: 31979D0542
   eli: http://data.europa.eu/eli/dec/1979/542/oj
@@ -48,7 +67,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/027394c2-d9d8-404d-8815-0143cf060bf2.0011
   content_url: http://publications.europa.eu/resource/cellar/3ba44dfc-c04b-420f-80d7-3d06984b3f1d.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01979D0542-20100409
-  retrieved_at: '2026-10-22T03:03:14Z'
+  retrieved_at: '2026-10-22T14:33:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T13:50:46.483+01:00'
 integrity:
@@ -57,9 +76,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:03:14Z'
-  notes: Texto consolidado 01979D0542-20100409.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:33:02Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-1979-542.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -465,16 +484,43 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:03:14Z'
+  checked_at: '2026-10-22T14:33:02Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01979D0542-19840305: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979D0542-19900630: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979D0542-19910703: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979D0542-19920101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979D0542-19920310: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979D0542-19930125: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979D0542-19930407: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979D0542-19930527: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979D0542-19961018: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979D0542-20011020: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979D0542-20040127: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979D0542-20040501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01979D0542-20050101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01979D0542-20050318: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01979D0542-20050818: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01979D0542-20051026: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01979D0542-20060112: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01979D0542-20060331: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01979D0542-20060421: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01979D0542-20060520: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01979D0542-20060708: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01979D0542-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01979D0542-20071201: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01979D0542-20080131: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01979D0542-20080801: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01979D0542-20081201: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01979D0542-20081220: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01979D0542-20090201: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01979D0542-20090301: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

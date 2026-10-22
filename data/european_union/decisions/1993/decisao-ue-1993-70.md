@@ -33,6 +33,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: decisao-ue-1993-70.versoes.json
+  count: 1
+  source_lastmod: '1999-12-13'
+  versions:
+  - date: '1993-02-02'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31993D0070
   eli: http://data.europa.eu/eli/dec/1993/70/oj
@@ -47,7 +56,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0fd40c96-6456-4bb8-950b-ef61e6c866ab.0011
   content_url: http://publications.europa.eu/resource/cellar/0fd40c96-6456-4bb8-950b-ef61e6c866ab.0011.01/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:07:01Z'
+  retrieved_at: '2026-10-22T14:41:50Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-14T17:13:11.649+02:00'
 integrity:
@@ -56,9 +65,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:07:01Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:50Z'
+  notes: 1 versão(ões); histórico completo em decisao-ue-1993-70.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -109,17 +118,18 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:07:01Z'
+  checked_at: '2026-10-22T14:41:50Z'
   warnings:
-  - Versão consolidada 01993D0070-19991213 indisponível (A expressão não tem manifestação XHTML nem HTML.); usado o texto
-    do JO.
-  - Não foi detetado o título principal no XHTML.
+  - '01993D0070-19940412: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993D0070-19970730: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993D0070-19980218: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993D0070-19991213: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -36,6 +36,463 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-03-01'
+version_history:
+  file: diretiva-ue-2003-87.versoes.json
+  count: 17
+  source_lastmod: '2024-03-01'
+  versions:
+  - date: '2003-10-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-11-13'
+    amending: eu:celex:32004L0101:por
+    amending_title: DIRECTIVA 2004/101/CE DO PARLAMENTO EUROPEU E DO CONSELHO, Texto relevante para efeitos do EEE de 27 de
+      Outubro de 2004,
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 17.º — Acesso à informação
+    - Altera Artigo 18.º — Autoridade competente
+    - Altera Artigo 19.º — Registo
+    - Altera Artigo 21.º — Comunicação de informações pelos Estados-Membros
+    - Altera Artigo 26.º — Alteração da Directiva 96/61/CE
+    - Altera Artigo 30.º — Revisão e evolução futura
+    - Altera Artigo 33.º — Destinatários
+    - Adita Artigo 11.ºA — Utilização das URE e RCE de actividades de projecto para utilização no regime comunitário
+    - Adita Artigo 11.ºB — Actividades de projecto
+    - Adita Artigo 21.ºA — Apoio das actividades de reforço de capacidade
+    - Adita ANEXO I
+    - Adita CATEGORIAS DE ACTIVIDADES REFERIDAS NO N.º 1 DO ARTIGO 2.º, NOS ARTIGOS 3.º E 4.º, NO N.º 1 DO ARTIGO 14.º E NOS
+      ARTIGOS 28.º E 30.º
+    - Adita ANEXO II
+    - Adita GASES COM EFEITO DE ESTUFA REFERIDOS NOS ARTIGOS 3.º E 30.º
+    - Adita ANEXO III
+    - Adita CRITÉRIOS PARA OS PLANOS NACIONAIS DE ATRIBUIÇÃO DE LICENÇAS DE EMISSÃO REFERIDOS NOS ARTIGOS 9.º, 22.º E 30.º
+    - Adita ANEXO IV
+    - Adita PRINCÍPIOS DE MONITORIZAÇÃO E COMUNICAÇÃO DE INFORMAÇÕES REFERIDOS NO N.º 1 DO ARTIGO 14.º
+    - Adita Monitorização das emissões de dióxido de carbono
+    - Adita Cálculos
+    - Adita Medição
+    - Adita Monitorização das emissões de outros gases com efeito de estufa
+    - Adita Comunicação de informações sobre as emissões
+    - Adita ANEXO V
+    - Adita CRITÉRIOS DE VERIFICAÇÃO REFERIDOS NO ARTIGO 15.º
+    - Adita Princípios gerais
+    - Adita Metodologia
+    - Adita Análise estratégica
+    - Adita Análise do processo
+    - Adita Análise dos riscos
+    - Adita Relatório
+    - Adita Requisitos de competência mínimos para o verificador
+    - Adita Notas
+    - Suprime ANEXO I — CATEGORIAS DE ACTIVIDADES REFERIDAS NO N.o 1 DO ARTIGO 2.o, NOS ARTIGOS 3.o E 4.o, NO N.o 1 DO ARTIGO
+      14.o E NOS ARTIGOS 28.o E 30.o
+    - Suprime ANEXO II — GASES COM EFEITO DE ESTUFA REFERIDOS NOS ARTIGOS 3.o E 30.o
+    - Suprime ANEXO III — CRITÉRIOS PARA OS PLANOS NACIONAIS DE ATRIBUIÇÃO DE LICENÇAS DE EMISSÃO REFERIDOS NOS ARTIGOS 9.o,
+      22.o E 30.o
+    - Suprime ANEXO IV — PRINCÍPIOS DE MONITORIZAÇÃO E COMUNICAÇÃO DE INFORMAÇÕES REFERIDOS NO N.o 1 DO ARTIGO 14.o
+    - Suprime ANEXO V — CRITÉRIOS DE VERIFICAÇÃO REFERIDOS NO ARTIGO 15.o
+  - date: '2009-02-02'
+    amending: eu:celex:32008L0101:por
+    amending_title: DIRECTIVA 2008/101/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 19 de
+      Novembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Condições e conteúdo do título de emissão de gases com efeito de estufa
+    - Altera Artigo 11.ºA — Utilização das URE e RCE de actividades de projecto para utilização no regime comunitário
+    - Altera Artigo 11.ºB — Actividades de projecto
+    - Altera Artigo 12.º — Transferência, devolução e anulação de licenças de emissão
+    - Altera Artigo 13.º — Validade das licenças de emissão
+    - Altera Artigo 14.º — Orientações para a monitorização e a comunicação de informações relativas a emissões
+    - Altera Artigo 15.º — Verificação
+    - Altera Artigo 16.º — Sanções
+    - Altera Artigo 19.º — Registo
+    - Altera Artigo 23.º — Comité
+    - Altera Artigo 26.º — Alteração da Directiva 96/61/CE
+    - Altera Artigo 28.º — Agrupamento
+    - Altera Artigo 30.º — Revisão e evolução futura
+    - Altera Metodologia
+    - Altera Notas
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita CAPÍTULO II
+    - Adita AVIAÇÃO
+    - Adita Artigo 3.º-A — Âmbito de aplicação
+    - Adita Artigo 3.º-B — Actividades de aviação
+    - Adita Artigo 3.º-C — Quantidade total de licenças de emissão atribuídas às actividades de aviação
+    - Adita Artigo 3.º-D — Método de atribuição das licenças de emissão às actividades de aviação por leilão
+    - Adita Artigo 3.º-E — Atribuição e concessão de licenças de emissão aos operadores de aeronaves
+    - Adita Artigo 3.º-F — Reserva especial para certos operadores de aeronaves
+    - Adita Artigo 3.º-G — Planos de monitorização e apresentação de relatórios
+    - Adita CAPÍTULO III
+    - Adita INSTALAÇÕES FIXAS
+    - Adita Artigo 3.º-H — Âmbito de aplicação
+    - Adita CAPÍTULO IV
+    - Adita DISPOSIÇÕES APLICÁVEIS À AVIAÇÃO E ÀS INSTALAÇÕES FIXAS
+    - Adita Artigo 18.º-A — Estado-Membro responsável
+    - Adita Artigo 18.º-B — Assistência do Eurocontrol
+    - Adita Artigo 25.º-A — Medidas de países terceiros para reduzir o impacto da aviação nas alterações climáticas
+    - Adita CAPÍTULO V
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita CATEGORIAS DE ACTIVIDADES ABRANGIDAS PELA PRESENTE DIRECTIVA
+  - date: '2009-04-20'
+    amending: eu:celex:32009R0219:por
+    amending_title: REGULAMENTO (CE) N. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.ºB — Actividades de projecto
+    - Altera Artigo 14.º — Orientações para a monitorização e a comunicação de informações relativas a emissões
+    - Altera Artigo 18.º-A — Estado-Membro responsável
+    - Altera Artigo 19.º — Registo
+    - Altera Artigo 24.º — Procedimentos para a inclusão unilateral de actividades e gases adicionais
+    - Altera Artigo 25.º — Relações com outros regimes de comércio de licenças de emissão de gases com efeito de estufa
+    - Altera Artigo 26.º — Alteração da Directiva 96/61/CE
+    - Altera Artigo 30.º — Revisão e evolução futura
+    - Altera Monitorização das emissões de outros gases com efeito de estufa
+    - Altera Notas
+    - Adita Artigo 22.º — Alterações ao anexo III
+    - Suprime Artigo 22.º — Alterações do anexo III
+  - date: '2009-06-25'
+    amending: eu:celex:32009L0029:por
+    amending_title: DIRECTIVA 2009/29/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 23 de
+      Abril de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 3.º-C — Quantidade total de licenças de emissão atribuídas às actividades de aviação
+    - Altera Artigo 3.º-G — Planos de monitorização e apresentação de relatórios
+    - Altera Artigo 4.º — Títulos de emissão de gases com efeito de estufa
+    - Altera Artigo 5.º — Pedido de título de emissão de gases com efeito de estufa
+    - Altera Artigo 6.º — Condições e conteúdo do título de emissão de gases com efeito de estufa
+    - Altera Artigo 7.º — Modificação das instalações
+    - Altera Artigo 11.ºB — Actividades de projecto
+    - Altera Artigo 12.º — Transferência, devolução e anulação de licenças de emissão
+    - Altera Artigo 13.º — Validade das licenças de emissão
+    - Altera Artigo 16.º — Sanções
+    - Altera Artigo 18.º-A — Estado-Membro responsável
+    - Altera Artigo 19.º — Registo
+    - Altera Artigo 21.º — Comunicação de informações pelos Estados-Membros
+    - Altera Artigo 23.º — Comité
+    - Altera Artigo 25.º — Relações com outros regimes de comércio de licenças de emissão de gases com efeito de estufa
+    - Altera Artigo 26.º — Alteração da Directiva 96/61/CE
+    - Altera Artigo 30.º — Revisão e evolução futura
+    - Altera CATEGORIAS DE ACTIVIDADES ABRANGIDAS PELA PRESENTE DIRECTIVA
+    - Altera Notas
+    - Adita Artigo 9.º — Quantidade de licenças de emissão a nível comunitário
+    - Adita Artigo 9.ºA — Ajustamento da quantidade de licenças de emissão a nível comunitário
+    - Adita Artigo 10.º — Leilão de licenças de emissão
+    - Adita Artigo 10.º-A — Regras comunitárias transitórias relativas à atribuição harmonizada de licenças de emissão a título
+      gratuito
+    - Adita Artigo 10.º-B — Medidas de apoio a determinadas indústrias com utilização intensiva de energia em caso de fuga
+      de carbono
+    - Adita Artigo 10.º-C — Opção pela atribuição transitória de licenças de emissão a título gratuito com vista à modernização
+      da produção de electricidade
+    - Adita Artigo 11.º — Medidas nacionais de execução
+    - Adita Artigo 11.º-A — Utilização das RCE e URE de actividades de projecto no âmbito do regime comunitário antes da entrada
+      em vigor de um acordo internacional sobre as alterações climáticas
+    - Adita Artigo 14.º — Vigilância e comunicação de informações relativas a emissões
+    - Adita Artigo 15.º — [►M4](http://publications.europa.eu/resource/celex/32009L0029) Verificação e acreditação◄
+    - Adita Artigo 15.º-A — Divulgação de informações e sigilo profissional
+    - Adita Artigo 22.º — Alterações dos anexos
+    - Adita Artigo 24.º — Procedimento de inclusão unilateral de actividades e gases adicionais
+    - Adita Artigo 24.º-A — Regras harmonizadas para projectos de redução de emissões
+    - Adita Artigo 27.º — Exclusão de pequenas instalações sujeitas a medidas equivalentes
+    - Adita Artigo 28.º — Ajustamentos aplicáveis após a aprovação pela Comunidade de um acordo internacional sobre as alterações
+      climáticas
+    - Adita Artigo 29.º — Relatório tendente a garantir um melhor funcionamento do mercado do carbono
+    - Adita Artigo 29.º-A — Medidas em caso de flutuações excessivas dos preços
+  - date: '2013-07-01'
+    amending: null
+    amending_title: ►A1
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Quantidade de licenças de emissão a nível comunitário
+    - Altera Artigo 12.º — Transferência, devolução e anulação de licenças de emissão
+    - Altera Artigo 18.º-A — Estado-Membro responsável
+    - Altera Artigo 26.º — Alteração da Directiva 96/61/CE
+    - Altera Artigo 30.º — Revisão e evolução futura
+    - Altera Aumentos na percentagem de licenças de emissão para venda em leilão pelos Estados-Membros nos termos da alínea
+      a) do n.º 2 do artigo 10.º, para fins de solidariedade comunitária e de crescimento, com vista à redução das emissões
+      e à adaptação aos efeitos das alterações climáticas
+    - Altera Notas
+  - date: '2013-12-19'
+    amending: eu:celex:32013D1359:por
+    amending_title: DECISÃO N. o 1359/2013/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 10.º — Leilão de licenças de emissão
+    - Altera Artigo 12.º — Transferência, devolução e anulação de licenças de emissão
+    - Altera Artigo 18.º-A — Estado-Membro responsável
+    - Altera Artigo 26.º — Alteração da Directiva 96/61/CE
+    - Altera Artigo 30.º — Revisão e evolução futura
+    - Altera Notas
+    - Adita Artigo 15.º
+    - Adita Verificação e acreditação
+    - Suprime Artigo 15.º — [►M4](http://publications.europa.eu/resource/celex/32009L0029) Verificação e acreditação◄
+  - date: '2014-04-30'
+    amending: eu:celex:32014R0421:por
+    amending_title: REGULAMENTO (UE) N. o 421/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de abril de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 12.º — Transferência, devolução e anulação de licenças de emissão
+    - Altera Artigo 18.º-A — Estado-Membro responsável
+    - Altera Artigo 26.º — Alteração da Directiva 96/61/CE
+    - Altera Artigo 30.º — Revisão e evolução futura
+    - Altera CATEGORIAS DE ACTIVIDADES ABRANGIDAS PELA PRESENTE DIRECTIVA
+    - Altera Notas
+    - Adita Artigo 28.º-A — Exceções aplicáveis antes da execução em 2020 de um acordo internacional que aplique uma única
+      medida baseada no mercado global
+  - date: '2015-10-29'
+    amending: eu:celex:32015D1814:por
+    amending_title: DECISÃO (UE) 2015/1814 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 6 de
+      outubro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 10.º — Leilão de licenças de emissão
+    - Altera Artigo 12.º — Transferência, devolução e anulação de licenças de emissão
+    - Altera Artigo 13.º — Validade das licenças de emissão
+    - Altera Artigo 18.º-A — Estado-Membro responsável
+    - Altera Artigo 26.º — Alteração da Directiva 96/61/CE
+    - Altera Artigo 28.º-A — Exceções aplicáveis antes da execução em 2020 de um acordo internacional que aplique uma única
+      medida baseada no mercado global
+    - Altera Artigo 30.º — Revisão e evolução futura
+    - Altera Notas
+  - date: '2017-12-29'
+    amending: eu:celex:32017R2392:por
+    amending_title: REGULAMENTO (UE) 2017/2392 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2017
+    changes:
+    - Altera Artigo 3.º-C — Quantidade total de licenças de emissão atribuídas às actividades de aviação
+    - Altera Artigo 3.º-D — Método de atribuição das licenças de emissão às actividades de aviação por leilão
+    - Altera Artigo 10.º — Leilão de licenças de emissão
+    - Altera Artigo 12.º — Transferência, devolução e anulação de licenças de emissão
+    - Altera Artigo 18.º-A — Estado-Membro responsável
+    - Altera Artigo 26.º — Alteração da Directiva 96/61/CE
+    - Altera Artigo 30.º — Revisão e evolução futura
+    - Altera CATEGORIAS DE ACTIVIDADES ABRANGIDAS PELA PRESENTE DIRECTIVA
+    - Altera Notas
+    - Adita Artigo 28.º-A
+    - Adita Derrogações aplicáveis antes da aplicação da medida baseada no mercado global da OACI
+    - Adita Artigo 28.º-B — Comunicação e revisão de informações pela Comissão sobre a aplicação da medida baseada no mercado
+      global da OACI
+    - Adita Artigo 28.º-C — Disposições em matéria de monitorização, comunicação de informações e verificação para fins da
+      medida baseada no mercado global
+    - Suprime Artigo 28.º-A — Exceções aplicáveis antes da execução em 2020 de um acordo internacional que aplique uma única
+      medida baseada no mercado global
+  - date: '2018-04-08'
+    amending: eu:celex:32018L0410:por
+    amending_title: DIRETIVA (UE) 2018/410 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de março de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 3.º-B — Actividades de aviação
+    - Altera Artigo 3.º-C — Quantidade total de licenças de emissão atribuídas às actividades de aviação
+    - Altera Artigo 3.º-D — Método de atribuição das licenças de emissão às actividades de aviação por leilão
+    - Altera Artigo 3.º-F — Reserva especial para certos operadores de aeronaves
+    - Altera Artigo 3.º-G — Planos de monitorização e apresentação de relatórios
+    - Altera Artigo 4.º — Títulos de emissão de gases com efeito de estufa
+    - Altera Artigo 5.º — Pedido de título de emissão de gases com efeito de estufa
+    - Altera Artigo 6.º — Condições e conteúdo do título de emissão de gases com efeito de estufa
+    - Altera Artigo 10.º — Leilão de licenças de emissão
+    - Altera Artigo 11.º — Medidas nacionais de execução
+    - Altera Artigo 11.ºB — Actividades de projecto
+    - Altera Artigo 12.º — Transferência, devolução e anulação de licenças de emissão
+    - Altera Artigo 13.º — Validade das licenças de emissão
+    - Altera Artigo 14.º — Vigilância e comunicação de informações relativas a emissões
+    - Altera Verificação e acreditação
+    - Altera Artigo 16.º — Sanções
+    - Altera Artigo 18.º-A — Estado-Membro responsável
+    - Altera Artigo 19.º — Registo
+    - Altera Artigo 21.º — Comunicação de informações pelos Estados-Membros
+    - Altera Artigo 24.º — Procedimento de inclusão unilateral de actividades e gases adicionais
+    - Altera Artigo 24.º-A — Regras harmonizadas para projectos de redução de emissões
+    - Altera Artigo 25.º-A — Medidas de países terceiros para reduzir o impacto da aviação nas alterações climáticas
+    - Altera Artigo 26.º — Alteração da Directiva 96/61/CE
+    - Altera Artigo 27.º — Exclusão de pequenas instalações sujeitas a medidas equivalentes
+    - Altera Derrogações aplicáveis antes da aplicação da medida baseada no mercado global da OACI
+    - Altera Artigo 29.º-A — Medidas em caso de flutuações excessivas dos preços
+    - Altera CATEGORIAS DE ACTIVIDADES ABRANGIDAS PELA PRESENTE DIRECTIVA
+    - Altera Monitorização das emissões de outros gases com efeito de estufa
+    - Altera Notas
+    - Adita Artigo 8.º — Coordenação com a Diretiva 2010/75/UE
+    - Adita Artigo 9.º — Quantidade de licenças de emissão a nível [►M9](http://publications.europa.eu/resource/celex/32018L0410)
+      da União◄
+    - Adita Artigo 9.ºA — Ajustamento da quantidade de licenças de emissão a nível [►M9](http://publications.europa.eu/resource/celex/32018L0410)
+      da União◄
+    - Adita Artigo 10.º-A — Regras [►M9](http://publications.europa.eu/resource/celex/32018L0410) da União◄ transitórias relativas
+      à atribuição harmonizada de licenças de emissão a título gratuito
+    - Adita Artigo 10.º-B — Medidas transitórias de apoio a determinadas indústrias com utilização intensiva de energia em
+      caso de fuga de carbono
+    - Adita Artigo 10.º-C — Opção de atribuição transitória de licenças de emissão a título gratuito para a modernização do
+      setor da energia
+    - Adita Artigo 10.º-D — Fundo de modernização
+    - Adita Artigo 11.º-A — Utilização das RCE e URE de actividades de projecto no âmbito do [►M9](http://publications.europa.eu/resource/celex/32018L0410)
+      CELE◄ antes da entrada em vigor de um acordo internacional sobre as alterações climáticas
+  - date: '2020-01-01'
+    amending: eu:celex:32020D1071:por
+    amending_title: DECISÃO DELEGADA (UE) 2020/1071 DA COMISSÃO Texto relevante para efeitos do EEE de 18 de maio de 2020;
+      TRATADO RELATIVO À ADESÃO DA REPÚBLICA DA CROÁCIA À UNIÃO EUROPEIA
+    changes:
+    - Altera Artigo 8.º — Coordenação com a Diretiva 2010/75/UE
+    - Altera Artigo 9.º — Quantidade de licenças de emissão a nível [►M9](http://publications.europa.eu/resource/celex/32018L0410)
+      da União◄
+    - Altera Artigo 10.º — Leilão de licenças de emissão
+    - Altera Artigo 10.º-A — Regras [►M9](http://publications.europa.eu/resource/celex/32018L0410) da União◄ transitórias
+      relativas à atribuição harmonizada de licenças de emissão a título gratuito
+    - Altera Artigo 10.º-B — Medidas transitórias de apoio a determinadas indústrias com utilização intensiva de energia em
+      caso de fuga de carbono
+    - Altera Artigo 12.º — Transferência, devolução e anulação de licenças de emissão
+    - Altera Artigo 14.º — Vigilância e comunicação de informações relativas a emissões
+    - Altera Artigo 18.º-A — Estado-Membro responsável
+    - Altera Artigo 19.º — Registo
+    - Altera Artigo 22.º-A — Procedimento de comité
+    - Altera Artigo 23.º — Exercício da delegação
+    - Altera Artigo 26.º — Alteração da Directiva 96/61/CE
+    - Altera Derrogações aplicáveis antes da aplicação da medida baseada no mercado global da OACI
+    - Altera CATEGORIAS DE ACTIVIDADES ABRANGIDAS PELA PRESENTE DIRECTIVA
+    - Altera Aumentos na percentagem de licenças de emissão para venda em leilão pelos Estados-Membros nos termos da alínea
+      a) do n.º 2 do artigo 10.º, para fins de solidariedade [►M9](http://publications.europa.eu/resource/celex/32018L0410)
+      da União◄ e de crescimento, com vista à redução das emissões e à adaptação aos efeitos das alterações climáticas
+    - Altera Notas
+  - date: '2021-01-01'
+    amending: eu:celex:32021R1416:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1416 DA COMISSÃO de 17 de junho de 2021
+    changes:
+    - Altera Artigo 8.º — Coordenação com a Diretiva 2010/75/UE
+    - Altera Artigo 10.º — Leilão de licenças de emissão
+    - Altera Artigo 10.º-A — Regras [►M9](http://publications.europa.eu/resource/celex/32018L0410) da União◄ transitórias
+      relativas à atribuição harmonizada de licenças de emissão a título gratuito
+    - Altera Artigo 10.º-B — Medidas transitórias de apoio a determinadas indústrias com utilização intensiva de energia em
+      caso de fuga de carbono
+    - Altera Artigo 12.º — Transferência, devolução e anulação de licenças de emissão
+    - Altera Artigo 18.º-A — Estado-Membro responsável
+    - Altera Artigo 22.º-A — Procedimento de comité
+    - Altera Artigo 23.º — Exercício da delegação
+    - Altera Artigo 26.º — Alteração da Directiva 96/61/CE
+    - Altera Derrogações aplicáveis antes da aplicação da medida baseada no mercado global da OACI
+    - Altera CATEGORIAS DE ACTIVIDADES ABRANGIDAS PELA PRESENTE DIRECTIVA
+    - Altera Notas
+  - date: '2023-01-21'
+    amending: eu:celex:32023D0136:por
+    amending_title: DECISÃO (UE) 2023/136 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de janeiro de 2023
+    changes:
+    - Altera Artigo 8.º — Coordenação com a Diretiva 2010/75/UE
+    - Altera Artigo 10.º — Leilão de licenças de emissão
+    - Altera Artigo 10.º-A — Regras [►M9](http://publications.europa.eu/resource/celex/32018L0410) da União◄ transitórias
+      relativas à atribuição harmonizada de licenças de emissão a título gratuito
+    - Altera Artigo 10.º-B — Medidas transitórias de apoio a determinadas indústrias com utilização intensiva de energia em
+      caso de fuga de carbono
+    - Altera Artigo 12.º — Transferência, devolução e anulação de licenças de emissão
+    - Altera Artigo 18.º-A — Estado-Membro responsável
+    - Altera Artigo 22.º-A — Procedimento de comité
+    - Altera Artigo 23.º — Exercício da delegação
+    - Altera Artigo 26.º — Alteração da Directiva 96/61/CE
+    - Altera Derrogações aplicáveis antes da aplicação da medida baseada no mercado global da OACI
+    - Altera Notas
+  - date: '2023-03-01'
+    amending: eu:celex:32023R0435:por
+    amending_title: REGULAMENTO (UE) 2023/435 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de fevereiro de 2023
+    changes:
+    - Altera Artigo 8.º — Coordenação com a Diretiva 2010/75/UE
+    - Altera Artigo 10.º — Leilão de licenças de emissão
+    - Altera Artigo 10.º-A — Regras [►M9](http://publications.europa.eu/resource/celex/32018L0410) da União◄ transitórias
+      relativas à atribuição harmonizada de licenças de emissão a título gratuito
+    - Altera Artigo 10.º-B — Medidas transitórias de apoio a determinadas indústrias com utilização intensiva de energia em
+      caso de fuga de carbono
+    - Altera Artigo 12.º — Transferência, devolução e anulação de licenças de emissão
+    - Altera Artigo 18.º-A — Estado-Membro responsável
+    - Altera Artigo 22.º-A — Procedimento de comité
+    - Altera Artigo 23.º — Exercício da delegação
+    - Altera Artigo 26.º — Alteração da Directiva 96/61/CE
+    - Altera Derrogações aplicáveis antes da aplicação da medida baseada no mercado global da OACI
+    - Altera Notas
+    - Adita Artigo 10.º-E — Mecanismo de Recuperação e Resiliência
+  - date: '2023-06-05'
+    amending: eu:celex:32023L0958:por
+    amending_title: DIRETIVA (UE) 2023/958 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de maio de 2023; DIRETIVA (UE) 2023/959
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de maio de 2023
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 3.º-A — Âmbito de aplicação
+    - Altera Artigo 3.º-C — Quantidade total de licenças de emissão atribuídas às actividades de aviação
+    - Altera Artigo 3.º-D — Método de atribuição das licenças de emissão às actividades de aviação por leilão
+    - Altera Artigo 3.º-G — Planos de monitorização e apresentação de relatórios
+    - Altera Artigo 3.º-H — Âmbito de aplicação
+    - Altera Artigo 6.º — Condições e conteúdo do título de emissão de gases com efeito de estufa
+    - Altera Artigo 8.º — Coordenação com a Diretiva 2010/75/UE
+    - Altera Artigo 9.º — Quantidade de licenças de emissão a nível [►M9](http://publications.europa.eu/resource/celex/32018L0410)
+      da União◄
+    - Altera Artigo 10.º — Leilão de licenças de emissão
+    - Altera Artigo 10.º-A — Regras [►M9](http://publications.europa.eu/resource/celex/32018L0410) da União◄ transitórias
+      relativas à atribuição harmonizada de licenças de emissão a título gratuito
+    - Altera Artigo 10.º-B — Medidas transitórias de apoio a determinadas indústrias com utilização intensiva de energia em
+      caso de fuga de carbono
+    - Altera Artigo 10.º-C — Opção de atribuição transitória de licenças de emissão a título gratuito para a modernização
+      do setor da energia
+    - Altera Artigo 10.º-D — Fundo de modernização
+    - Altera Artigo 10.º-E — Mecanismo de Recuperação e Resiliência
+    - Altera Artigo 11.º — Medidas nacionais de execução
+    - Altera Artigo 11.º-A — Utilização das RCE e URE de actividades de projecto no âmbito do [►M9](http://publications.europa.eu/resource/celex/32018L0410)
+      CELE◄ antes da entrada em vigor de um acordo internacional sobre as alterações climáticas
+    - Altera Artigo 12.º — Transferência, devolução e anulação de licenças de emissão
+    - Altera Artigo 14.º — Vigilância e comunicação de informações relativas a emissões
+    - Altera Artigo 16.º — Sanções
+    - Altera Artigo 18.º-A — Estado-Membro responsável
+    - Altera Artigo 22.º-A — Procedimento de comité
+    - Altera Artigo 23.º — Exercício da delegação
+    - Altera Artigo 25.º-A — Medidas de países terceiros para reduzir o impacto da aviação nas alterações climáticas
+    - Altera Artigo 26.º — Alteração da Directiva 96/61/CE
+    - Altera Artigo 28.º-B — Comunicação e revisão de informações pela Comissão sobre a aplicação da medida baseada no mercado
+      global da OACI
+    - Altera Artigo 29.º — Relatório tendente a garantir um melhor funcionamento do mercado do carbono
+    - Altera Artigo 29.º-A — Medidas em caso de flutuações excessivas dos preços
+    - Altera Artigo 30.º — Revisão à luz da aplicação do Acordo de Paris e do desenvolvimento dos mercados do carbono noutras
+      grandes economias
+    - Altera CATEGORIAS DE ACTIVIDADES ABRANGIDAS PELA PRESENTE DIRECTIVA
+    - Altera Cálculos
+    - Altera Notas
+    - Adita AVIAÇÃO E TRANSPORTE MARÍTIMO
+    - Adita Artigo 3.º-GA — Âmbito de aplicação às atividades de transporte marítimo
+    - Adita Artigo 3.º-GB — Introdução gradual dos requisitos aplicáveis ao transporte marítimo
+    - Adita Artigo 3.º-GC — Disposições relativas à transferência dos custos do CELE da companhia de transporte marítimo para
+      outra entidade
+    - Adita Artigo 3.º-GD — Monitorização e comunicação das emissões do transporte marítimo
+    - Adita Artigo 3.º-GE — Verificação e acreditação das regras de emissões do transporte marítimo
+  - date: '2024-03-01'
+    amending: eu:celex:32024R0795:por
+    amending_title: REGULAMENTO (UE) 2024/795 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de fevereiro de 2024
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 3.º-C — Quantidade total de licenças de emissão atribuídas às actividades de aviação
+    - Altera Artigo 10.º — Leilão de licenças de emissão
+    - Altera Artigo 10.º-A — Regras [►M9](http://publications.europa.eu/resource/celex/32018L0410) da União◄ transitórias
+      relativas à atribuição harmonizada de licenças de emissão a título gratuito
+    - Altera Artigo 10.º-B — Medidas transitórias de apoio a determinadas indústrias com utilização intensiva de energia em
+      caso de fuga de carbono
+    - Altera Artigo 10.º-D — Fundo de modernização
+    - Altera Artigo 10.º-E — Mecanismo de Recuperação e Resiliência
+    - Altera Artigo 12.º — Transferência, devolução e anulação de licenças de emissão
+    - Altera Artigo 14.º — Vigilância e comunicação de informações relativas a emissões
+    - Altera Artigo 18.º-A — Estado-Membro responsável
+    - Altera Artigo 22.º-A — Procedimento de comité
+    - Altera Artigo 23.º — Exercício da delegação
+    - Altera Artigo 26.º — Alteração da Directiva 96/61/CE
+    - Altera Artigo 28.º-A — Derrogações aplicáveis antes da aplicação obrigatória da medida baseada no mercado global da
+      OACI
+    - Altera Artigo 30.º — Revisão à luz da aplicação do Acordo de Paris e do desenvolvimento dos mercados do carbono noutras
+      grandes economias
+    - Altera Artigo 30.º-C — Quantidade de licenças de emissão a nível da União
+    - Altera Artigo 30.º-L — Aconselhamento científico
+    - Altera CATEGORIAS DE ACTIVIDADES ABRANGIDAS PELA PRESENTE DIRECTIVA
+    - Altera Notas
 identifiers:
   celex: 32003L0087
   eli: http://data.europa.eu/eli/dir/2003/87/oj
@@ -50,7 +507,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/518d47fe-bb29-4eac-a25e-42d0499f4e19.0010
   content_url: http://publications.europa.eu/resource/cellar/1c8a1afb-f104-11ee-8e14-01aa75ed71a1.0019.02/DOC_3
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0087-20240301
-  retrieved_at: '2026-10-22T02:35:15Z'
+  retrieved_at: '2026-10-22T14:55:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:42:20.439+02:00'
 integrity:
@@ -59,9 +516,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:15Z'
-  notes: Texto consolidado 02003L0087-20240301.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:16Z'
+  notes: 17 versão(ões); histórico completo em diretiva-ue-2003-87.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -581,55 +1038,19 @@ relationships:
   source: null
 article_structure:
   article_count: 81
-  section_count: 54
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 56
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:15Z'
+  checked_at: '2026-10-22T14:55:16Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2003/87/CE do Parlamento Europeu e do Conselho, de 13 de Outubro de 2003
-
-> 02003L0087 — PT — 01.03.2024 — 016.003
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32004L0101) — [DIRECTIVA 2004/101/CE DO PARLAMENTO EUROPEU E DO CONSELHO, de 27 de Outubro de 2004,](http://publications.europa.eu/resource/celex/32004L0101) — L 338 — 18 — 13.11.2004
-- [►M2](http://publications.europa.eu/resource/celex/32008L0101) — [DIRECTIVA 2008/101/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de Novembro de 2008](http://publications.europa.eu/resource/celex/32008L0101) — L 8 — 3 — 13.1.2009
-- [M3](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) N.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-- [►M4](http://publications.europa.eu/resource/celex/32009L0029) — [DIRECTIVA 2009/29/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de Abril de 2009](http://publications.europa.eu/resource/celex/32009L0029) — L 140 — 63 — 5.6.2009
-- [M5](http://publications.europa.eu/resource/celex/32013D1359) — [DECISÃO N.º 1359/2013/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013D1359) — L 343 — 1 — 19.12.2013
-- [M6](http://publications.europa.eu/resource/celex/32014R0421) — [REGULAMENTO (UE) N.º 421/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de abril de 2014](http://publications.europa.eu/resource/celex/32014R0421) — L 129 — 1 — 30.4.2014
-- [►M7](http://publications.europa.eu/resource/celex/32015D1814) — [DECISÃO (UE) 2015/1814 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de outubro de 2015](http://publications.europa.eu/resource/celex/32015D1814) — L 264 — 1 — 9.10.2015
-- [►M8](http://publications.europa.eu/resource/celex/32017R2392) — [REGULAMENTO (UE) 2017/2392 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2392) — L 350 — 7 — 29.12.2017
-- [►M9](http://publications.europa.eu/resource/celex/32018L0410) — [DIRETIVA (UE) 2018/410 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de março de 2018](http://publications.europa.eu/resource/celex/32018L0410) — L 76 — 3 — 19.3.2018
-- [►M10](http://publications.europa.eu/resource/celex/32020D1071) — [DECISÃO DELEGADA (UE) 2020/1071 DA COMISSÃO de 18 de maio de 2020](http://publications.europa.eu/resource/celex/32020D1071) — L 234 — 16 — 21.7.2020
-- [►M11](http://publications.europa.eu/resource/celex/32021R1416) — [REGULAMENTO DELEGADO (UE) 2021/1416 DA COMISSÃO de 17 de junho de 2021](http://publications.europa.eu/resource/celex/32021R1416) — L 305 — 1 — 31.8.2021
-- [►M12](http://publications.europa.eu/resource/celex/32023D0136) — [DECISÃO (UE) 2023/136 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de janeiro de 2023](http://publications.europa.eu/resource/celex/32023D0136) — L 19 — 1 — 20.1.2023
-- [►M13](http://publications.europa.eu/resource/celex/32023R0435) — [REGULAMENTO (UE) 2023/435 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de fevereiro de 2023](http://publications.europa.eu/resource/celex/32023R0435) — L 63 — 1 — 28.2.2023
-- [►M14](http://publications.europa.eu/resource/celex/32023L0958) — [DIRETIVA (UE) 2023/958 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de maio de 2023](http://publications.europa.eu/resource/celex/32023L0958) — L 130 — 115 — 16.5.2023
-- [►M15](http://publications.europa.eu/resource/celex/32023L0959) — [DIRETIVA (UE) 2023/959 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de maio de 2023](http://publications.europa.eu/resource/celex/32023L0959) — L 130 — 134 — 16.5.2023
-- [►M16](http://publications.europa.eu/resource/celex/32024R0795) — [REGULAMENTO (UE) 2024/795 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024R0795) — L 795 — 1 — 29.2.2024
-
-**Alterada por:**
-
-- [►A1](http://publications.europa.eu/resource/celex/12012J%2FACT) — [TRATADO RELATIVO À ADESÃO DA REPÚBLICA DA CROÁCIA À UNIÃO EUROPEIA](http://publications.europa.eu/resource/celex/12012J%2FACT) — L 112 — 21 — 24.4.2012
-
-**Retificada por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32014R0421R%2801%29) — [Rectificação, JO L 140, 14.5.2014, p. 177 (421/2014)](http://publications.europa.eu/resource/celex/32014R0421R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32017R2392R%2801%29) — [Rectificação, JO L 233, 8.9.2022, p. 91 (2017/2392)](http://publications.europa.eu/resource/celex/32017R2392R%2801%29)
-- [►C3](http://publications.europa.eu/resource/celex/32023L0959R%2803%29) — [Rectificação, JO L 90176, 22.3.2024, p. 1 ((UE) 2023/959)](http://publications.europa.eu/resource/celex/32023L0959R%2803%29)
-- [►C4](http://publications.europa.eu/resource/celex/32023L0959R%2804%29) — [Rectificação, JO L 90308, 24.5.2024, p. 1 (2023/959)](http://publications.europa.eu/resource/celex/32023L0959R%2804%29)
-
-## DIRECTIVA 2003/87/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 13 de Outubro de 2003
 

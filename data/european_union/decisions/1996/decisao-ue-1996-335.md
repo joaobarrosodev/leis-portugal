@@ -34,6 +34,66 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-05-08'
+version_history:
+  file: decisao-ue-1996-335.versoes.json
+  count: 3
+  source_lastmod: '2020-05-08'
+  versions:
+  - date: '1996-06-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-02-09'
+    amending: eu:celex:32006D0257:por
+    amending_title: DECISÃO DA COMISSÃO de 9 de Fevereiro de 2006
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita ANEXO
+    - Adita INVENTÁRIO DOS INGREDIENTES DOS PRODUTOS COSMÉTICOS DA COMUNIDADE EUROPEIA
+    - Adita INTRODUÇÃO GERAL
+    - Adita PARTE I
+    - Adita INGREDIENTES DOS PRODUTOS COSMÉTICOS, COM EXCEPÇÃO DAS MATÉRIAS-PRIMAS ODORÍFICAS E AROMÁTICAS
+    - Adita Introdução
+    - Adita PARTE II
+    - Adita MATÉRIAS-PRIMAS ODORÍFICAS E AROMÁTICAS
+    - Adita 1. Introdução
+    - Adita 2. Identidade dos ingredientes utilizados em perfumaria
+    - Adita 3. Funções dos ingredientes utilizados em perfumaria
+    - Adita 4. Restrições aplicáveis aos ingredientes utilizados em perfumaria
+    - Adita 5. Representatividade do inventário dos ingredientes utilizados em perfumaria
+    - Adita CONVENÇÕES DE NOMENCLATURA
+    - Adita ABREVIATURAS
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime ANEXO — INVENTÁRIO DOS INGREDIENTES DOS PRODUTOS COSMÉTICOS DA COMUNIDADE EUROPEIA
+    - Suprime PARTE I — INGREDIENTES DOS PRODUTOS COSMÉTICOS, COM EXCEPÇÃO DAS MATÉRIAS-PRIMAS ODORÍFICAS E AROMÁTICAS
+    - Suprime PARTE II — MATÉRIAS-PRIMAS ODORÍFICAS E AROMÁTICAS
+  - date: '2020-05-08'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime ANEXO
+    - Suprime INVENTÁRIO DOS INGREDIENTES DOS PRODUTOS COSMÉTICOS DA COMUNIDADE EUROPEIA
+    - Suprime INTRODUÇÃO GERAL
+    - Suprime PARTE I
+    - Suprime INGREDIENTES DOS PRODUTOS COSMÉTICOS, COM EXCEPÇÃO DAS MATÉRIAS-PRIMAS ODORÍFICAS E AROMÁTICAS
+    - Suprime Introdução
+    - Suprime PARTE II
+    - Suprime MATÉRIAS-PRIMAS ODORÍFICAS E AROMÁTICAS
+    - Suprime 1. Introdução
+    - Suprime 2. Identidade dos ingredientes utilizados em perfumaria
+    - Suprime 3. Funções dos ingredientes utilizados em perfumaria
+    - Suprime 4. Restrições aplicáveis aos ingredientes utilizados em perfumaria
+    - Suprime 5. Representatividade do inventário dos ingredientes utilizados em perfumaria
+    - Suprime CONVENÇÕES DE NOMENCLATURA
+    - Suprime ABREVIATURAS
+    - Suprime Notas
 identifiers:
   celex: 31996D0335
   eli: http://data.europa.eu/eli/dec/1996/335/oj
@@ -48,7 +108,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5a1109b9-624a-435d-8c52-b1b9d56c2002.0011
   content_url: http://publications.europa.eu/resource/cellar/9ed2244b-945e-11ea-aac4-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996D0335-20200508
-  retrieved_at: '2026-10-22T03:08:17Z'
+  retrieved_at: '2026-10-22T14:44:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:07:40.213+02:00'
 integrity:
@@ -57,9 +117,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:08:17Z'
-  notes: Texto consolidado 01996D0335-20200508.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:44:59Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-1996-335.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -95,16 +155,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:08:17Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:44:59Z'
+  warnings: []
   errors: []
 ---
 

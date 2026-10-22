@@ -1,0 +1,282 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000L0003:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0003-20000316",
+ "dre_path": null,
+ "source_lastmod": "2000-03-16",
+ "versions": [
+  {
+   "date": "2000-02-25",
+   "future": false,
+   "celex": "32000L0003",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "89ba8a6071d2e457",
+    "090e21bc8b30c109",
+    "37ff14b7aecb5cf4",
+    "1814c1fd4601907b",
+    "648967540239fe62",
+    "ec08961a1ebec13d",
+    "6490247d119ee75d",
+    "8de1deae92314384",
+    "56d0c8e5957e33c5",
+    "c66c26bc222adef5",
+    "cb5283a83d81ff26",
+    "c66c26bc222adef5",
+    "775958b1500b7a1e",
+    "95e6d664d4795d47",
+    "e3b0435b7c7d0fa6",
+    "48607c1b15c5d87c",
+    "f588313e7c1b7a1d",
+    "b9bbae7b316c5006",
+    "57c942c44b5b5eaf",
+    "44bceddb049bf435",
+    "f419b85b7c530000",
+    "9c134ebc6190ce6c",
+    "e2c38ca67334d678",
+    "51fef978b0c2328e",
+    "22e6fe05ac7d38eb",
+    "415690714ad8a9aa",
+    "f2ed62c70398e0e2",
+    "dbc7e8bf01cce101",
+    "2914687cc679c8e6",
+    "124937bdf2aa7865"
+   ]
+  }
+ ],
+ "fragments": {
+  "89ba8a6071d2e457": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2000/3/CE da Comissão, de 22 de Fevereiro de 2000, que adapta ao progresso técnico a Directiva 77/541/CEE do Conselho relativa aos cintos de segurança e aos sistemas de retenção dos veículos a motor (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 053 de 25/02/2000 p. 0001 - 0076*\n\nDIRECTIVA 2000/3/CE DA COMISSÃO\n\nde 22 de Fevereiro de 2000\n\nque adapta ao progresso técnico a Directiva 77/541/CEE do Conselho relativa aos cintos de segurança e aos sistemas de retenção dos veículos a motor\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-Membros respeitantes à recepção dos veículos a motor e seus reboques(1), com a última redacção que lhe foi dada pela Directiva 98/91/CE do Parlamento Europeu e do Conselho(2),\n\nTendo em conta a Directiva 77/541/CEE do Conselho, de 28 de Junho de 1977, relativa à aproximação das legislações dos Estados-Membros respeitantes aos cintos de segurança e aos sistemas de retenção dos veículos a motor(3), com a última redacção que lhe foi dada pela Directiva 96/36/CE da Comissão(4), e, nomeadamente, o seu artigo 10.o,\n\nConsiderando o seguinte:\n\n(1) A Directiva 77/541/CEE é uma das directivas específicas do procedimento de homologação CE instituído pela Directiva 70/156/CEE. Por conseguinte, as disposições da Directiva 70/156/CEE respeitantes aos sistemas, componentes e unidades técnicas dos veículos são aplicáveis à referida directiva.\n\n(2) À luz do progresso técnico, é possível melhorar a protecção dos passageiros tornando obrigatória a instalação de cintos de segurança de três pontos com retractores em todos os lugares dos veículos a motor da categoria M1.\n\n(3) Com a Decisão 97/836/CE do Conselho(5), a Comunidade aderiu ao Acordo da Comissão Económica para a Europa das Nações Unidas (CEE/NU) relativo à adopção de prescrições técnicas uniformes aplicáveis aos veículos de rodas, aos equipamentos e às peças susceptíveis de serem montados ou utilizados num veículo de rodas e às condições de reconhecimento recíproco das homologações emitidas em conformidade com essas prescrições, celebrado em Genebra em 20 de Março de 1958 e revisto em 16 de Outubro de 1995.\n\n(4) Com a sua adesão ao acordo revisto, a Comunidade aderiu a uma lista definida de regulamentos estabelecidos nos termos daquele acordo. Essa lista inclui o Regulamento n° 44 da CEE/NU relativo à homologação de dispositivos de retenção para crianças ocupantes de veículos a motor (sistema de retenção para crianças).\n\n(5) É conveniente incluir requisitos relativos à protecção das crianças e modificar os anexos da Directiva 77/541/CEE introduzindo requisitos específicos relativos a sistemas de retenção para crianças baseados no Regulamento n.o 44 da CEE/NU. Por razões de clareza, é conveniente substituir os anexos.\n\n(6) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité para a Adaptação ao Progresso Técnico instituído pela Directiva 70/156/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "090e21bc8b30c109": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs anexos da Directiva 77/541/CEE são substituídos pelo texto que figura no anexo da presente directiva."
+  },
+  "37ff14b7aecb5cf4": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Com efeito a partir de 1 de Outubro de 2000, os Estados-Membros não podem, por motivos relacionados com cintos de segurança ou sistemas de retenção:\n\n- recusar a homologação CE ou a homologação de âmbito nacional a um modelo de veículo a motor, cinto de segurança, sistema de retenção ou sistema de retenção para crianças, nem\n\n- proibir a matrícula, a venda ou a entrada em circulação de veículos ou a venda ou a entrada em serviço de cintos de segurança, sistemas de retenção ou sistemas de retenção para crianças,\n\nse os cintos de segurança ou sistemas de retenção em questão satisfizerem os requisitos da Directiva 77/541/CEE, com a redacção que lhe é dada pela presente directiva.\n\n2. Com efeitos a partir de 1 de Outubro de 2001, os Estados-Membros:\n\n- deixam de poder conceder a homologação CE, e\n\n- podem recusar a homologação de âmbito nacional,\n\na um modelo de veículo, se não forem satisfeitos os requisitos da Directiva 77/541/CEE, com a redacção que lhe é dada pela presente directiva, no que respeita aos sistemas de retenção para crianças e à instalação de cintos de segurança em todos os lugares sentados nos veículos da categoria M1, incluindo, se estiverem instalados, os sistemas de retenção integrados.\n\nTodavia, a partir de 1 de Abril de 2002 os veículos da categoria M1 terão de dispor de cintos de segurança de três pontos em todos os lugares sentados. Até essa data, os requisitos aplicáveis aos veículos da categoria M1 no que respeita à instalação de cintos de segurança serão os prescritos no anexo XV da Directiva 77/541/CEE.\n\n3. A partir de 1 de Outubro de 2002, os Estados-Membros:\n\n- deixarão de considerar válidos, para efeitos do n.o 1 do artigo 7.o da Directiva 70/156/CEE, os certificados de conformidade que acompanham os veículos novos da categoria M1, nos termos daquela directiva, e recusarão a matrícula, a venda e a entrada em circulação de veículos novos que não sejam acompanhados de um certificado de conformidade válido nos termos da Directiva 70/156/CEE, excepto se forem invocadas as disposições do n.o 2 do artigo 8.o dessa directiva,\n\n- poderão recusar a matrícula, a venda e a entrada em circulação de veículos novos das categorias N1 e M2 com uma massa não superior a 3,5 toneladas, no que respeita aos sistemas integrados de retenção para crianças, quando instalados,\n\npor motivos relacionados com os cintos de segurança e sistemas de retenção, se não forem satisfeitos os requisitos da Directiva 77/541/CEE, com a redacção que lhe é dada pela presente directiva.\n\nTodavia, a partir de 1 de Outubro de 2004 os veículos da categoria M1 terão de dispor de cintos de segurança de três pontos em todos os lugares sentados. Até essa data, os requisitos aplicáveis aos veículos da categoria M1 no que respeita à instalação de cintos de segurança serão os prescritos no anexo XV da Directiva 77/541/CEE.\n\n4. A partir de 1 de Janeiro de 2001, os requisitos da Directiva 77/541/CEE, com a redacção que lhe é dada pela presente directiva, relativos aos sistemas integrados de retenção para crianças se instalados como equipamento de origem num veículo, serão aplicáveis para efeitos do disposto no n.o 1 do artigo 7.o da Directiva 70/156/CEE."
+  },
+  "1814c1fd4601907b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 30 de Setembro de 2000. Desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-Membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "648967540239fe62": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "ec08961a1ebec13d": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em... de... de 2000.\n\nPela Comissão\n\nErkki LIIKANEN\n\nMembro da Comissão\n\n(1) JO L 42 de 23.2.1970, p. 1.\n\n(2) JO L 11 de 16.1.1999, p. 25.\n\n(3) JO L 220 de 29.8.1977, p. 95.\n\n(4) JO L 178 de 17.7.1996, p. 15.\n\n(5) JO L 346 de 17.12.1997, p. 82."
+  },
+  "6490247d119ee75d": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nOs anexos da Directiva 77/541/CEE são substituídos pelos seguintes:\n\n\"LISTA DE ANEXOS\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "8de1deae92314384": {
+   "fragment_id": "ANEXO I — ÂMBITO DE APLICAÇÃO, DEFINIÇÕES, HOMOLOGAÇÃO CE COMO COMPONENTE, REQUISITOS DE INSTALAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO I — ÂMBITO DE APLICAÇÃO, DEFINIÇÕES, HOMOLOGAÇÃO CE COMO COMPONENTE, REQUISITOS DE INSTALAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — ÂMBITO DE APLICAÇÃO, DEFINIÇÕES, HOMOLOGAÇÃO CE COMO COMPONENTE, REQUISITOS DE INSTALAÇÃO\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "56d0c8e5957e33c5": {
+   "fragment_id": "ANEXO II — DOCUMENTAÇÃO DE HOMOLOGAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO II — DOCUMENTAÇÃO DE HOMOLOGAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — DOCUMENTAÇÃO DE HOMOLOGAÇÃO\n\nApêndice 1\n\nFICHA DE INFORMAÇÕES N.o...\n\nrelativa à homologação CE como componente de cintos de segurança e sistemas de retenção (Directiva 77/541/CEE, com a última redacção que lhe foi dada pela Directiva 2000/.../CE)\n\nAs seguintes informações, se aplicáveis, devem ser fornecidas em triplicado e incluir um índice. Se houver desenhos, devem ser fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, estas devem ter o pormenor suficiente.\n\nNo caso de os sistemas, componentes ou unidades técnicas possuírem controlos electrónicos, fornecer as informações relevantes relacionadas com o seu desempenho.\n\n>POSIÇÃO NUMA TABELA>\n\nData, ficheiro\n\nApêndice 2\n\nFICHA DE INFORMAÇÕES N.o...\n\nnos termos do anexo I da Directiva 70/156/CEE do Conselho(1), relativa à homologação CE de um veículo no que diz respeito aos cintos de segurança e sistemas de retenção (Directiva 77/541/CEE, com a última redacção que lhe foi dada pela Directiva 2000/.../CE)\n\nAs seguintes informações, se aplicáveis, devem ser fornecidas em triplicado e incluir um índice. Se houver desenhos, devem ser fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, estas devem ter o pormenor suficiente.\n\nNo caso de os sistemas, componentes ou unidades técnicas possuírem controlos electrónicos, fornecer as informações relevantes relacionadas com o seu desempenho.\n\n>POSIÇÃO NUMA TABELA>\n\nData, processo\n\n(1) Os números dos pontos e as notas de pé-de-página utilizadas nesta ficha de informações correspondem aos do anexo I da Directiva 70/156/CEE. Os pontos não relevantes para efeitos da presente directiva são omitidos.\n\nApêndice 3\n\nMODELO\n\n[formato máximo: A4 (210 × 297 mm)]\n\nCERTIFICADO DE HOMOLOGAÇÃO CE\n\nCarimbo da autoridade administrativa\n\nComunicação relativa à:\n\n- homologação(1)\n\n- extensão da homologação(2)\n\n- recusa da homologação(3)\n\n- revogação da homologação(4)\n\nde um modelo/tipo(5) de veículo/componente/unidade técnica(6) no que diz respeito à Directiva.../.../CEE, com a última redacção que lhe foi dada pela Directiva.../.../CE.\n\nNúmero de homologação:\n\nRazão da extensão:"
+  },
+  "c66c26bc222adef5": {
+   "fragment_id": "SECÇÃO I — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "SECÇÃO I — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — >POSIÇÃO NUMA TABELA>"
+  },
+  "cb5283a83d81ff26": {
+   "fragment_id": "SECÇÃO II — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "SECÇÃO II — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — >POSIÇÃO NUMA TABELA>\n\n(1) Riscar o que não interessar.\n\n(2) Riscar o que não interessar.\n\n(3) Riscar o que não interessar.\n\n(4) Riscar o que não interessar.\n\n(5) Riscar o que não interessar.\n\n(6) Riscar o que não interessar.\n\nAdenda\n\nao certificado de homologação CE n.o...\n\nrelativa à homologação como componente de cintos de segurança e sistemas de retenção no que diz respeito à Directiva 77/541/CEE, com a última redacção que lhe foi dada pela Directiva 2000/.../CE\n\n>POSIÇÃO NUMA TABELA>\n\nApêndice 4\n\nMODELO\n\n[formato máximo: A4 (210 × 297 mm)]\n\nCERTIFICADO DE HOMOLOGAÇÃO CE\n\n(Veículo)\n\nCarimbo da autoridade administrativa\n\nComunicação relativa à:\n\n- homologação(1)\n\n- extensão da homologação(2)\n\n- recusa da homologação(3)\n\n- revogação da homologação(4)\n\nde um modelo/tipo(5) de veículo/componente/unidade técnica(6) no que diz respeito à Directiva.../.../CEE, com a última redacção que lhe foi dada pela Directiva.../.../CE.\n\nNúmero de homologação:\n\nRazão da extensão:"
+  },
+  "775958b1500b7a1e": {
+   "fragment_id": "SECÇÃO II — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "SECÇÃO II — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — >POSIÇÃO NUMA TABELA>\n\n(1) Riscar o que não interessar.\n\n(2) Riscar o que não interessar.\n\n(3) Riscar o que não interessar.\n\n(4) Riscar o que não interessar.\n\n(5) Riscar o que não interessar.\n\n(6) Riscar o que não interessar.\n\nAdenda\n\nao certificado de homologação CE n.o... relativa à homologação de um modelo de veículo no que diz respeito à Directiva 77/541/CEE, com a última redacção que lhe foi dada pela Directiva.../.../CE\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "95e6d664d4795d47": {
+   "fragment_id": "ANEXO III — MARCA DE HOMOLOGAÇÃO CE COMO COMPONENTE",
+   "type": "divisao",
+   "heading": "ANEXO III — MARCA DE HOMOLOGAÇÃO CE COMO COMPONENTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — MARCA DE HOMOLOGAÇÃO CE COMO COMPONENTE\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "e3b0435b7c7d0fa6": {
+   "fragment_id": "ANEXO IV — EXEMPLO DE APARELHAGEM PARA O ENSAIO DE DURABILIDADE DO MECANISMO RETRACTOR",
+   "type": "divisao",
+   "heading": "ANEXO IV — EXEMPLO DE APARELHAGEM PARA O ENSAIO DE DURABILIDADE DO MECANISMO RETRACTOR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — EXEMPLO DE APARELHAGEM PARA O ENSAIO DE DURABILIDADE DO MECANISMO RETRACTOR\n\n>PIC FILE= \"L_2000053PT.004002.EPS\">"
+  },
+  "48607c1b15c5d87c": {
+   "fragment_id": "ANEXO V — EXEMPLO DE APARELHAGEM PARA O ENSAIO DE BLOQUEAMENTO DOS RETRACTORES DE BLOQUEAMENTO DE EMERGÊNCIA",
+   "type": "divisao",
+   "heading": "ANEXO V — EXEMPLO DE APARELHAGEM PARA O ENSAIO DE BLOQUEAMENTO DOS RETRACTORES DE BLOQUEAMENTO DE EMERGÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — EXEMPLO DE APARELHAGEM PARA O ENSAIO DE BLOQUEAMENTO DOS RETRACTORES DE BLOQUEAMENTO DE EMERGÊNCIA\n\nA figura a seguir representa um aparelho adequado a estes ensaios. Compõe-se de um motor com came cujo rolete está ligado por fios a um carrinho montado sobre trilhos. O rolete da came compreende um dispositivo de \"absorção de movimento\" que absorve qualquer movimento quando a bobine se prender antes de o curso completo do rolete ter terminado. A combinação da concepção da came e da velocidade do motor será tal que permita obter a aceleração prescrita à taxa de aumento de aceleração indicada no ponto 2.7.7.2.2 do anexo I; o curso deve ser superior à deslocação máxima autorizada da precinta antes do bloqueamento.\n\nSobre o carrinho está montando um suporte que pode rodar de forma a permitir que o retractor seja montado em posições diferentes em relação à direcção de deslocação do carrinho.\n\nPara os ensaios de sensibilidade dos retractores às deslocações da precinta, o retractor será montado num suporte fixo apropriado e a precinta ligada ao carrinho.\n\nPara os ensaios acima indicados, os suportes ou outros elementos fornecidos pelo fabricante ou pelo seu mandatário devem ser incorporados na instalação de ensaio a fim de simular tão fielmente quanto possível a montagem no interior de um veículo.\n\nOs suportes ou outros elementos indispensáveis para simular a montagem no interior de um veículo devem ser fornecidos pelo fabricante.\n\n>PIC FILE= \"L_2000053PT.004102.EPS\">"
+  },
+  "f588313e7c1b7a1d": {
+   "fragment_id": "ANEXO VI — EXEMPLO DE APARELHAGEM PARA O ENSAIO DE RESISTÊNCIA AO PÓ DOS RETRACTORES",
+   "type": "divisao",
+   "heading": "ANEXO VI — EXEMPLO DE APARELHAGEM PARA O ENSAIO DE RESISTÊNCIA AO PÓ DOS RETRACTORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — EXEMPLO DE APARELHAGEM PARA O ENSAIO DE RESISTÊNCIA AO PÓ DOS RETRACTORES\n\n>PIC FILE= \"L_2000053PT.004202.EPS\">"
+  },
+  "b9bbae7b316c5006": {
+   "fragment_id": "ANEXO VII — DESCRIÇÃO DO CARRINHO, DO BANCO, DAS FIXAÇÕES E DO DISPOSITIVO DE PARAGEM",
+   "type": "divisao",
+   "heading": "ANEXO VII — DESCRIÇÃO DO CARRINHO, DO BANCO, DAS FIXAÇÕES E DO DISPOSITIVO DE PARAGEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — DESCRIÇÃO DO CARRINHO, DO BANCO, DAS FIXAÇÕES E DO DISPOSITIVO DE PARAGEM\n\n>POSIÇÃO NUMA TABELA>\n\nCARACTERÍSTICAS DO MATERIAL ABSORVEDOR DE ENERGIA\n\n(Método ASTM D 735, salvo indicação em contrário)\n\n>POSIÇÃO NUMA TABELA>\n\nFigura 1\n\nCARRINHO, BANCO, FIXAÇÃO\n\n>PIC FILE= \"L_2000053PT.004501.EPS\">\n\nFigura 2\n\nDISPOSITIVO DE PARAGEM\n\n>PIC FILE= \"L_2000053PT.004601.EPS\">\n\nFigura 3\n\nDISPOSITIVO DE PARAGEM\n\n(tubo de poliuretano)\n\n>PIC FILE= \"L_2000053PT.004701.EPS\">\n\nFigura 4\n\nDISPOSITIVO DE PARAGEM\n\n(saliência em forma de azeitona)\n\n>PIC FILE= \"L_2000053PT.004801.EPS\">"
+  },
+  "57c942c44b5b5eaf": {
+   "fragment_id": "ANEXO VIII — DESCRIÇÃO DO MANEQUIM",
+   "type": "divisao",
+   "heading": "ANEXO VIII — DESCRIÇÃO DO MANEQUIM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII — DESCRIÇÃO DO MANEQUIM\n\n>POSIÇÃO NUMA TABELA>\n\nQUADRO 1\n\n>POSIÇÃO NUMA TABELA>\n\nQUADRO 2\n\n>POSIÇÃO NUMA TABELA>\n\nFigura 1\n\n>PIC FILE= \"L_2000053PT.005301.EPS\">\n\nFigura 2\n\n>PIC FILE= \"L_2000053PT.005401.EPS\">\n\nFiguras 3 e 4\n\n>PIC FILE= \"L_2000053PT.005501.EPS\">\n\nFiguras 5 e 6\n\n>PIC FILE= \"L_2000053PT.005601.EPS\">\n\nManequim sentado na posição indicada na figura 1 do anexo VII.\n\nG= Centro de gravidade\n\nT= Ponto de referência do tronco (situado à frente sobre a linha central do manequim)\n\nP= Ponto de referência da bacia (situado atrás sobre a linha central do manequim)"
+  },
+  "44bceddb049bf435": {
+   "fragment_id": "ANEXO IX — DESCRIÇÃO DA CURVA DE DESACELERAÇÃO DO CARRINHO EM FUNÇÃO DO TEMPO",
+   "type": "divisao",
+   "heading": "ANEXO IX — DESCRIÇÃO DA CURVA DE DESACELERAÇÃO DO CARRINHO EM FUNÇÃO DO TEMPO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX — DESCRIÇÃO DA CURVA DE DESACELERAÇÃO DO CARRINHO EM FUNÇÃO DO TEMPO\n\n(Curva para a verificação dos dispositivos de paragem)\n\n>PIC FILE= \"L_2000053PT.005702.EPS\">\n\n>POSIÇÃO NUMA TABELA>\n\nA curva de desaceleração do carrinho lastrado com massas inertes para obter uma massa total de 455 kg +- 20 kg se se tratar de ensaios de cintos de segurança e de 910 kg +- 40 kg se se tratar de ensaios de sistemas de retenção, quando a massa nominal do carrinho e da estrutura do veículo for de 800 kg, deve inscrever-se na zona tracejada acima indicada. Se necessário, a massa nominal do carrinho e da estrutura do veículo a ele ligada pode ser aumentada por incrementos de 200 kg, caso em que será adicionada uma massa inerte suplementar de 28 kg por incremento. Em caso algum deve a massa total do carrinho, estrutura do veículo e massas inertes afastar-se do valor nominal para os ensaios de calibragem em mais de +- 40 kg. A distância de paragem no decurso da calibragem do carrinho deve ser de 400 mm +- 20 mm e a velocidade do carrinho de 50 km/h +- 1 km/h.\n\nNos dois casos indicados, o material de medição terá uma resposta aproximadamente linear até 60 Hz com corte a 100 Hz. As ressonâncias mecânicas devidas à montagem do transdutor não devem provocar distorções suplementares. É preciso ter em conta o efeito do comprimento do cabo e da temperatura sobre a resposta em frequência(1).\n\n(1) Estes requisitos correspondem à recomendação ISO R 6478/1980."
+  },
+  "f419b85b7c530000": {
+   "fragment_id": "ANEXO X — INSTRUÇÕES",
+   "type": "divisao",
+   "heading": "ANEXO X — INSTRUÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO X — INSTRUÇÕES\n\n>POSIÇÃO NUMA TABELA>\n\nApêndice\n\n>POSIÇÃO NUMA TABELA>\n\nCHAVE\n\nU: Adequado para sistemas de retenção da categoria \"universal\" homologados para serem utilizados nesta faixa etária.\n\nUF: Adequado para sistemas de retenção da categoria \"universal\" virados para a frente homologados para serem utilizados nesta faixa etária.\n\nL: Adequado para sistemas de retenção para crianças determinados que figuram em lista anexa. Os sistemas de retenção em questão poderão ser das categorias \"veículo específico\", \"restrito\", \"semiuniversal\" ou \"universal\".\n\nB: Sistemas de retenção incorporados homologados para esta faixa etária.\n\nX: Lugar sentado inadequado para crianças desta faixa etária."
+  },
+  "9c134ebc6190ce6c": {
+   "fragment_id": "ANEXO XI — ENSAIO DA FIVELA COMUM",
+   "type": "divisao",
+   "heading": "ANEXO XI — ENSAIO DA FIVELA COMUM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XI — ENSAIO DA FIVELA COMUM\n\n(referida no ponto 2.7.6.5 do anexo I)\n\n>PIC FILE= \"L_2000053PT.006102.EPS\">"
+  },
+  "e2c38ca67334d678": {
+   "fragment_id": "ANEXO XII — ENSAIOS DE ABRASÃO E DE MICRODESLIZAMENTO",
+   "type": "divisao",
+   "heading": "ANEXO XII — ENSAIOS DE ABRASÃO E DE MICRODESLIZAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XII — ENSAIOS DE ABRASÃO E DE MICRODESLIZAMENTO\n\nFigura 1\n\nEnsaio do tipo 1\n\n>PIC FILE= \"L_2000053PT.006202.EPS\">\n\nExemplo de montagens de ensaio segundo o tipo de dispositivo de regulação\n\nFigura 2\n\nEnsaio do tipo 2\n\n>PIC FILE= \"L_2000053PT.006301.EPS\">\n\nFigura 3\n\nEnsaio do tipo 3 e ensaio de microdeslizamento\n\n>PIC FILE= \"L_2000053PT.006401.EPS\">"
+  },
+  "51fef978b0c2328e": {
+   "fragment_id": "ANEXO XIII — ENSAIO DE CORROSÃO",
+   "type": "divisao",
+   "heading": "ANEXO XIII — ENSAIO DE CORROSÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XIII — ENSAIO DE CORROSÃO\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "22e6fe05ac7d38eb": {
+   "fragment_id": "ANEXO XIV — SEQUÊNCIA DOS ENSAIOS",
+   "type": "divisao",
+   "heading": "ANEXO XIV — SEQUÊNCIA DOS ENSAIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XIV — SEQUÊNCIA DOS ENSAIOS\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "415690714ad8a9aa": {
+   "fragment_id": "ANEXO XV — QUADRO QUE INDICA OS REQUISITOS MÍNIMOS RELATIVOS AOS CINTOS DE SEGURANÇA E RETRACTORES",
+   "type": "divisao",
+   "heading": "ANEXO XV — QUADRO QUE INDICA OS REQUISITOS MÍNIMOS RELATIVOS AOS CINTOS DE SEGURANÇA E RETRACTORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XV — QUADRO QUE INDICA OS REQUISITOS MÍNIMOS RELATIVOS AOS CINTOS DE SEGURANÇA E RETRACTORES\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "f2ed62c70398e0e2": {
+   "fragment_id": "ANEXO XVI — CONTROLO DA CONFORMIDADE DA PRODUÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO XVI — CONTROLO DA CONFORMIDADE DA PRODUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XVI — CONTROLO DA CONFORMIDADE DA PRODUÇÃO\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "dbc7e8bf01cce101": {
+   "fragment_id": "ANEXO XVII — REQUISITOS APLICÁVEIS AOS SISTEMAS DE RETENÇÃO PARA CRIANÇAS",
+   "type": "divisao",
+   "heading": "ANEXO XVII — REQUISITOS APLICÁVEIS AOS SISTEMAS DE RETENÇÃO PARA CRIANÇAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XVII — REQUISITOS APLICÁVEIS AOS SISTEMAS DE RETENÇÃO PARA CRIANÇAS\n\nOs requisitos aplicáveis para efeitos da homologação de sistemas de retenção para crianças figuram nos pontos 2, 6, 7, 8, 9 e 14 do Regulamento n.o 44 da Comissão Económica para a Europa das Nações Unidas(1), juntamente com os anexos 3 a 22, até à terceira série de alterações, inclusive.\n\n(As referências nos pontos 6 a 8 acima referidos aos Regulamentos n.os 14, 16 e 21 devem ser entendidas como referências à Directiva 76/115/CEE, à presente directiva e à Directiva 74/60/CEE.)\n\n(1) Reproduzido e publicado no Jornal Oficial."
+  },
+  "2914687cc679c8e6": {
+   "fragment_id": "ANEXO XVIII — REQUISITOS RELATIVOS À INSTALAÇÃO DE SISTEMAS DE RETENÇÃO PARA CRIANÇAS",
+   "type": "divisao",
+   "heading": "ANEXO XVIII — REQUISITOS RELATIVOS À INSTALAÇÃO DE SISTEMAS DE RETENÇÃO PARA CRIANÇAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XVIII — REQUISITOS RELATIVOS À INSTALAÇÃO DE SISTEMAS DE RETENÇÃO PARA CRIANÇAS\n\nOs requisitos aplicáveis para efeitos de instalação de sistemas de retenção para crianças figuram no anexo 13 da Resolução Consolidada R.E.3 da Comissão Económica para a Europa das Nações Unidas, ponto 5.2 e apêndice 2, reproduzido no apêndice do presente anexo.\n\nApêndice\n\nO texto a seguir reproduzido refere-se ao anexo 13 (ponto 5.2 e apêndice 2) da Resolução Consolidada R.E.3 da Comissão Económica para a Europa das Nações Unidas (documento TRANS/WP.29/78/REV.I de 11.8.1997)."
+  },
+  "124937bdf2aa7865": {
+   "fragment_id": "ANEXO 13",
+   "type": "divisao",
+   "heading": "ANEXO 13",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 13\n\nRECOMENDAÇÃO RELATIVA AOS REQUISITOS DE INSTALAÇÃO DE CINTOS DE SEGURANÇA E SISTEMAS DE RETENÇÃO PARA OCUPANTES ADULTOS DE VEÍCULOS A MOTOR NOS BANCOS VIRADOS PARA A FRENTE E PARA A RETAGUARDA\n\n>POSIÇÃO NUMA TABELA>\n\nApêndice 2\n\nDisposições relativas à instalação de sistemas de retenção para crianças da categoria \"universal\" instalados com o equipamento dos cintos de segurança do veículo\n\n>POSIÇÃO NUMA TABELA>\n\nFigura 1\n\nEspecificação do dispositivo\n\n>PIC FILE= \"L_2000053PT.007401.EPS\">\n\nFigura 2\n\nInstalação do dispositivo no banco do veículo\n\n(ver ponto 2.6.1)\n\n>PIC FILE= \"L_2000053PT.007501.EPS\">\n\nFigura 3\n\nVerificação da compatibilidade\n\n(ver pontos 2.6.1 e 3.2)\n\n>PIC FILE= \"L_2000053PT.007601.EPS\">\""
+  }
+ }
+}

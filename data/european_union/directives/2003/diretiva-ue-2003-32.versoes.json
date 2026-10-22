@@ -1,0 +1,438 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003L0032:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0032-20130829",
+ "dre_path": null,
+ "source_lastmod": "2013-08-29",
+ "versions": [
+  {
+   "date": "2003-04-26",
+   "future": false,
+   "celex": "32003L0032",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6c7b26a940682fae",
+    "6a9ef58ed91d8b4e",
+    "ce87dac42e41550a",
+    "9aa62b18085c8764",
+    "93c5bca41abdb752",
+    "292aeae8bbcf10af",
+    "910699876c4875bb",
+    "325f53fa86b44735",
+    "4fab9bd0172415e8",
+    "88d7a117ae7a3ae0",
+    "6f302f92b20e7557",
+    "f1db8988a0110622"
+   ]
+  },
+  {
+   "date": "2003-05-16",
+   "future": false,
+   "celex": "02003L0032-20030516",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º",
+    "Altera Artigo 10.º",
+    "Altera ANEXO",
+    "Adita 1. ANÁLISE DO RISCO E GESTÃO DO RISCO",
+    "Adita 1.1. Justificação para a utilização de tecidos ou derivados animais",
+    "Adita 1.2. Procedimento de avaliação",
+    "Adita 1.2.1. Os animais como origem de matérias",
+    "Adita 1.2.2. Abastecimento geográfico",
+    "Adita 1.2.3. Natureza do tecido de base",
+    "Adita 1.2.3.1. Ovinos e caprinos",
+    "Adita 1.2.3.2. Bovinos",
+    "Adita 1.2.4. Desactivação ou remoção de agentes transmissíveis",
+    "Adita 1.2.5. Quantidades de tecidos ou derivados animais de base necessárias para produzir uma unidade do dispositivo médico",
+    "Adita 1.2.6. Tecidos ou derivados de origem animal que entram em contacto com os pacientes ou os utilizadores",
+    "Adita 1.2.7. Via de administração",
+    "Adita 1.3. Revisão da avaliação",
+    "Adita 2. AVALIAÇÃO DOS DISPOSITIVOS MÉDICOS DA CLASSE III PELOS ORGANISMOS NOTIFICADOS",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "d2dd005500e2d9e5",
+    "47c83e56fc5242e2",
+    "f426c0781fe9ad70",
+    "a3b9c1263b87b8f8",
+    "c9ed5285e77c3294",
+    "a50e090217668e54",
+    "b0a7a69aa576fd8c",
+    "1864171cac06458d",
+    "4fab9bd0172415e8",
+    "f7d4d389324ba22c",
+    "8121d82e6c54612e",
+    "10220b9774fa9034",
+    "e93b02c6db09e55e",
+    "2904f03a8a1c8076",
+    "5e2564810182e6a9",
+    "2419bdae4226dade",
+    "df1b62196982b667",
+    "68d4a5146865d5a0",
+    "89aac93456c288bf",
+    "b28d47acb6dcd400",
+    "a32fa92fc78e0291",
+    "0a2df6e2fa3b0787",
+    "b32d8d14c9034393",
+    "2fd3a65ca3fe63ed",
+    "964f491539bade6a",
+    "8c21b75a1be74700",
+    "8d23cf781b6b225e"
+   ]
+  },
+  {
+   "date": "2013-08-29",
+   "future": false,
+   "celex": "02003L0032-20130829",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime ANEXO",
+    "Suprime 1. ANÁLISE DO RISCO E GESTÃO DO RISCO",
+    "Suprime 1.1. Justificação para a utilização de tecidos ou derivados animais",
+    "Suprime 1.2. Procedimento de avaliação",
+    "Suprime 1.2.1. Os animais como origem de matérias",
+    "Suprime 1.2.2. Abastecimento geográfico",
+    "Suprime 1.2.3. Natureza do tecido de base",
+    "Suprime 1.2.3.1. Ovinos e caprinos",
+    "Suprime 1.2.3.2. Bovinos",
+    "Suprime 1.2.4. Desactivação ou remoção de agentes transmissíveis",
+    "Suprime 1.2.5. Quantidades de tecidos ou derivados animais de base necessárias para produzir uma unidade do dispositivo médico",
+    "Suprime 1.2.6. Tecidos ou derivados de origem animal que entram em contacto com os pacientes ou os utilizadores",
+    "Suprime 1.2.7. Via de administração",
+    "Suprime 1.3. Revisão da avaliação",
+    "Suprime 2. AVALIAÇÃO DOS DISPOSITIVOS MÉDICOS DA CLASSE III PELOS ORGANISMOS NOTIFICADOS",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "33c78d3d571a5037"
+   ]
+  }
+ ],
+ "fragments": {
+  "6c7b26a940682fae": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2003/32/CE da Comissão, de 23 de Abril de 2003, que introduz especificações pormenorizadas relativamente aos requisitos estabelecidos na Directiva 93/42/CEE do Conselho, no que diz respeito a dispositivos médicos fabricados mediante a utilização de tecidos de origem animal (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 105 de 26/04/2003 p. 0018 - 0023*\n\nDirectiva 2003/32/CE da Comissão\n\nde 23 de Abril de 2003\n\nque introduz especificações pormenorizadas relativamente aos requisitos estabelecidos na Directiva 93/42/CEE do Conselho, no que diz respeito a dispositivos médicos fabricados mediante a utilização de tecidos de origem animal\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 93/42/CEE do Conselho, de 14 de Junho de 1993, relativa aos dispositivos médicos(1), com a última redacção que lhe foi dada pela Directiva 2001/104/CE, do Parlamento Europeu e do Conselho(2) e, nomeadamente, o seu artigo 14.oB,\n\nConsiderando o seguinte:\n\n(1) Em 5 de Março de 2001, a França adoptou uma medida nacional proibindo o fabrico, colocação no mercado, distribuição, importação, exportação e utilização de dispositivos médicos fabricados a partir de matérias de origem animal, sempre que estas são usadas como substitutas da dura mater.\n\n(2) A França justificou a medida com as incertezas existentes quanto ao risco de transmissão a seres humanos de encefalopatias espongiformes animais por esses dispositivos médicos, e pelo facto de estarem disponíveis alternativas, sob a forma de matérias sintéticas ou de matérias autólogas extraídas do paciente.\n\n(3) Outros Estados-Membros tomaram medidas nacionais unilaterais, baseados em outros fundamentos jurídicos, em relação à utilização de certas matérias-primas com origem em tecidos animais e que apresentam riscos específicos de transmissão de encefalopatias espongiformes animais.\n\n(4) Todas as medidas nacionais estão relacionadas com a protecção geral da saúde pública contra os riscos de transmissão de encefalopatias espongiformes animais por dispositivos médicos.\n\n(5) No que respeita ao abastecimento das matérias usadas nos dispositivos médicos é aplicável o Regulamento (CE) n.o 1774/2002 do Parlamento Europeu e do Conselho, de 3 de Outubro de 2002, que estabelece regras sanitárias relativas aos subprodutos animais não destinados ao consumo humano(3).\n\n(6) Com o intuito de melhorar o nível da segurança e da protecção da saúde, é necessário reforçar as medidas protectoras contra o risco geral de transmissão de encefalopatias espongiformes animais por dispositivos médicos.\n\n(7) O Comité Científico dos Medicamentos e dos Dispositivos Médicos adoptou um parecer sobre a utilização de matérias que implicam um risco de transmissão de encefalopatias espongiformes transmissíveis (TSE - Transmissible Spongiform Encephalopathies) para a produção de dispositivos médicos implantáveis, recomendando que o fabricante do dispositivo médico que utilize tecidos ou derivados de origem animal seja obrigado, como parte essencial da gestão do risco, a justificar cabalmente a utilização desses tecidos, no contexto dos benefícios para os pacientes e em comparação com as matérias alternativas.\n\n(8) O Comité Científico Director adoptou vários pareceres sobre matérias de risco especificadas e sobre os produtos derivados de tecidos de ruminantes, como a gelatina e o colagénio, que têm um impacto directo sobre a segurança dos dispositivos médicos.\n\n(9) Os dispositivos médicos fabricados mediante a utilização de tecidos ou derivados animais, não viáveis, são dispositivos da classe III, em conformidade com as regras de classificação estabelecidas no anexo IX da Directiva 93/42/CEE, exceptuados os dispositivos cujo único destino é o de entrarem em contacto com pele intacta.\n\n(10) Antes de serem colocados no mercado, os dispositivos médicos, quer sejam de origem comunitária, quer importados de países terceiros, são objecto dos processos de avaliação de conformidade previstos na Directiva 93/42/CEE.\n\n(11) O anexo I da Directiva 93/42/CEE estabelece os requisitos essenciais que os dispositivos médicos têm de satisfazer, nos termos da directiva. Os pontos 8.1 e 8.2 do anexo estabelecem os requisitos específicos destinados a eliminar ou reduzir, tanto quanto possível, o risco de infecção para o paciente, para o utilizador e para terceiros devido aos tecidos de origem animal, e precisam que as soluções adoptadas pelo fabricante na concepção e construção dos dispositivos devem ser conformes com os princípios de segurança, tendo em conta o estado da técnica geralmente aceite.\n\n(12) No que respeita aos dispositivos médicos fabricados mediante a utilização de tecidos de origem animal, é necessário adoptar precisões mais detalhadas em relação aos requisitos do ponto 8.2 do anexo I da Directiva 93/42/CEE e precisar certos aspectos relacionados com a análise do risco e a gestão do risco no quadro dos processos de avaliação de conformidade referidos no artigo 11.o da directiva.\n\n(13) Alguns termos empregues na Directiva 93/42/CEE devem ser esclarecidos, por forma a assegurar a aplicação uniforme da presente directiva.\n\n(14) É necessário prever o período transitório adequado no que respeita aos dispositivos médicos já abrangidos por um certificado de exame CE de concepção ou por um certificado de exame CE de tipo.\n\n(15) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité dos Dispositivos Médicos criado pelo n.o 2 do artigo 6.o da Directiva 90/385/CEE do Conselho(4),\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "6a9ef58ed91d8b4e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva estabelece especificações pormenorizadas em relação aos riscos de transmissão, em condições normais de utilização, a pacientes ou a outras pessoas, de encefalopatias espongiformes transmissíveis (TSE), por dispositivos médicos fabricados mediante a utilização de tecidos animais tornados não viáveis ou produtos não viáveis derivados de tecidos animais.\n\n2. Os tecidos animais abrangidos pela presente directiva são os originários das espécies bovina, ovina e caprina, bem como cervos, alces, martas e felídeos.\n\n3. O colagénio, gelatina e sebo utilizados no fabrico de dispositivos médicos respeitarão, pelo menos, os requisitos necessários para serem considerados próprios para consumo humano.\n\n4. A presente directiva não se aplica aos dispositivos referidos no n.o 1 que não se destinem a entrar em contacto com o corpo humano ou que se destinem a entrar em contacto apenas com pele intacta."
+  },
+  "ce87dac42e41550a": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, e para além das definições da Directiva 93/42/CEE, são aplicáveis as seguintes definições:\n\na) Célula: a mais pequena unidade organizada de qualquer forma de vida, capaz de ter existência independente e de substituir a sua própria substância um ambiente favorável;\n\nb) Tecido: organização de células e/ou de constituintes extracelulares;\n\nc) Derivado: material obtido a partir de um tecido animal por um processo de fabrico, como o colagénio, a gelatina ou os anticorpos monoclonais;\n\nd) Não viável: incapaz de metabolismo ou multiplicação;\n\ne) Agentes transmissíveis: entidades patogénicas não classificadas, priões ou outras entidades, como agentes da BSE e do tremor epizoótico;\n\nf) Redução, eliminação ou remoção: um processo através do qual o número de agentes transmissíveis é reduzido, eliminado ou removido, por forma a evitar as reacções infecciosas ou patogénicas;\n\ng) Desactivação: um processo através do qual se reduz a capacidade de provocar infecções ou reacções patogénicas por agentes transmissíveis;\n\nh) País de origem: país em que o animal nasceu, se criou e/ou foi abatido;\n\ni) Produtos de base: matérias-primas ou qualquer outro produto de origem animal a partir do qual, ou com o auxílio do qual, são produzidos os dispositivos referidos no artigo 1.o"
+  },
+  "9aa62b18085c8764": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAntes de apresentar o pedido de avaliação de conformidade, nos termos do n.o 1 do artigo 11.o da Directiva 93/42/CEE, o fabricante dos dispositivos médicos referidos no n.o 1 do artigo 1.o deve aplicar o programa de análise do risco e gestão do risco previsto no anexo da presente directiva."
+  },
+  "93c5bca41abdb752": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros verificarão se os organismos notificados nos termos do artigo 16.o da Directiva 93/42/CEE para avaliarem da conformidade dos dispositivos referidos no artigo 1.o com as disposições da Directiva 93/42/CEE e com as especificações da presente directiva têm conhecimentos actualizados desses dispositivos.\n\nSe, após a referida verificação, os Estados-Membros tiverem de alterar o âmbito de actividade de organismos notificados, notificarão desse facto a Comissão e os outros Estados-Membros."
+  },
+  "292aeae8bbcf10af": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os processos de avaliação de conformidade dos dispositivos médicos referidos no artigo 1.o abrangerão a avaliação da sua conformidade com os requisitos essenciais da Directiva 93/42/CEE, e as especificações do anexo da presente directiva.\n\n2. Os organismos notificados avaliarão a estratégia de análise do risco e de gestão do risco do fabricante, em especial:\n\na) A informação disponibilizada pelo fabricante;\n\nb) A justificação para a utilização de tecidos ou derivados animais;\n\nc) Os resultados dos estudos de eliminação e/ou desactivação, ou da investigação bibliográfica;\n\nd) O controlo, por parte do fabricante, das fontes das matérias-primas, dos produtos acabados e dos subcontratantes;\n\ne) A necessidade de verificar aspectos relacionados com o abastecimento, incluindo os fornecimentos por terceiros.\n\n3. Durante a avaliação da análise do risco e da gestão do risco, no quadro do processo de avaliação de conformidade, os organismos notificados terão em conta o certificado de conformidade TSE emitido pela Direcção Europeia da Qualidade dos Medicamentos para produtos de base, sempre que exista.\n\n4. Excepto no que diz respeito aos dispositivos médicos que utilizem produtos de base relativamente aos quais tenha sido emitido o certificado TSE referido no n.o 3, os organismos notificados solicitarão, por intermédio da respectiva autoridade competente, o parecer e as conclusões das autoridades nacionais competentes dos outros Estados-Membros sobre a avaliação por estas efectuada, em matéria de análise do risco e de gestão do risco, dos tecidos ou derivados que se destinem a ser incorporados no dispositivo médico, segundo o fabricante.\n\nAntes de emitirem o certificado de exame de concepção ou o certificado de exame CE de tipo, os organismos notificados tomarão em devida consideração quaisquer observações recebidas no prazo de 12 semanas a partir da data em que tiver sido solicitado o parecer das autoridades nacionais."
+  },
+  "910699876c4875bb": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-Membros tomarão todas as medidas necessárias para garantir que os dispositivos médicos referidos no artigo 1.o só são colocados no mercado e postos em funcionamento se satisfizerem o disposto na Directiva 93/42/CEE e às especificações da presente directiva."
+  },
+  "325f53fa86b44735": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os titulares de certificados de exame CE de concepção ou de certificados de exame CE de tipo emitidos antes de 1 de Abril de 2004 relativamente a dispositivos médicos referido no artigo 1.o devem requerer um certificado complementar de exame CE de concepção ou de exame CE de tipo, por forma darem cumprimento às especificações da presente directiva.\n\n2. Os Estados-Membros deferirão até 30 de Setembro de 2004 a colocação no mercado e a entrada em funcionamento dos dispositivos médicos referidos no n.o 1 do artigo 1.o abrangidos por um certificado de exame CE de concepção ou certificado de exame CE de tipo emitido antes de 1 de Abril de 2004."
+  },
+  "4fab9bd0172415e8": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os Estados-Membros adoptarão e farão publicar antes de 1 de Janeiro de 2004 as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Do facto informarão imediatamente a Comissão.\n\nOs Estados-Membros aplicarão as referidas disposições com efeitos a partir de 1 de Abril de 2004.\n\nAs disposições adoptadas pelos Estados-Membros incluirão uma referência à presente directiva ou serão acompanhadas da referência aquando da publicação oficial. O modo da referência incumbe aos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "88d7a117ae7a3ae0": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia."
+  },
+  "6f302f92b20e7557": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 23 de Abril de 2003.\n\nPela Comissão\n\nErkki Liikanen\n\nMembro da Comissão\n\n(1) JO L 169 de 12.7.1993, p. 1.\n\n(2) JO L 6 de 10.1.2002, p. 50.\n\n(3) JO L 273 de 10.10.2002, p. 1.\n\n(4) JO L 189 de 20.7.1990, p. 17."
+  },
+  "f1db8988a0110622": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1. ANÁLISE DO RISCO E GESTÃO DO RISCO\n\n1.1. Justificação para a utilização de tecidos ou derivados animais\n\nO fabricante justificará, com base na sua estratégia global de análise do risco e de gestão do risco para um determinado dispositivo médico, a decisão de utilizar os tecidos ou derivados de origem animal referidos no artigo 1.o (especificando as espécies e os tecidos animais), tendo em conta os benefícios clínicos esperados, o risco residual potencial e as alternativas adequadas.\n\n1.2. Procedimento de avaliação\n\nPara garantir um elevado nível de protecção dos pacientes e utilizadores, o fabricante dos dispositivos que utilizem os tecidos ou derivados animais referidos no ponto 1.1 implementará uma estratégia adequada e bem documentada de análise do risco e de gestão do risco, para tratar de todos os aspectos pertinentes relacionados com as TSE. Além disso, identificará os riscos associados a esses tecidos ou derivados, estabelecerá documentação sobre as medidas tomadas para minimizar o risco de transmissão e demonstrará a aceitabilidade do risco residual associado com o dispositivo que utiliza esses tecidos ou derivados, tendo em conta as utilizações previstas e os benefícios decorrentes desse dispositivo.\n\nA segurança de um dispositivo, em termos do seu potencial para transmitir um agente transmissível, depende de todos os factores descritos nos pontos 1.2.1 a 1.2.7, que serão analisados, avaliados e geridos. A combinação destas medidas determina a segurança do dispositivo.\n\nHá que considerar dois passos essenciais.\n\nSão eles:\n\n- a selecção dos produtos de base (tecidos ou derivados) considerados adequados quanto à sua potencial contaminação por agentes transmissíveis (ver 1.2.1, 1.2.2 e 1.2.3), tendo em conta o processamento posterior,\n\n- a aplicação de um processo de produção para remover ou desactivar os agentes transmissíveis presentes nos tecidos ou derivados de origem controlada (ver 1.2.4).\n\nAlém disso, as características do dispositivo e a utilização prevista do mesmo serão igualmente tidas em conta (ver 1.2.5, 1.2.6 e 1.2.7).\n\nAo seguir a estratégia de análise do risco e de gestão do risco, deverão ser devidamente tomados em conta os pareceres adoptados pelos comités científicos pertinentes e, se for esse o caso, os pareceres do Comité das Especialidades Farmacêuticas, cujas referências foram publicadas no Jornal Oficial da União Europeia.\n\n1.2.1. Os animais como origem de matérias\n\nO risco de TSE depende das espécies de origem, das estirpes e da natureza do tecido de base. Uma vez que a infecciosidade das TSE se acumula durante um período de incubação de vários anos, o abastecimento de animais jovens e saudáveis é considerado um factor de redução do risco. Os animais de risco, como os animais encontrados mortos, os animais abatidos de emergência e os animais suspeitos de TSE, terão de ser excluídos.\n\n1.2.2. Abastecimento geográfico\n\nEnquanto se aguarda a classificação dos países em função do estatuto da BSE, nos termos do Regulamento (CE) n.o 999/2001 do Parlamento Europeu e do Conselho, de 22 de Maio de 2001(1), que estabelece regras para a prevenção, o controlo e a erradicação de determinadas encefalopatias espongiformes transmissíveis, o risco do país de origem é avaliado com base no risco geográfico de BSE (GBR - Geographical BSE Risk). O GBR é um indicador qualitativo da probabilidade da presença de um ou mais bovinos infectados com BSE, quer pré-clinicamente quer clinicamente, num dado momento, num determinado país. Quando essa presença se confirme, o GBR indica o nível de infecção, tal como a seguir se especifica:\n\n>POSIÇÃO NUMA TABELA>\n\nCertos factores influenciam o risco geográfico de infecção por EEB associado à utilização de tecidos ou derivados brutos oriundos de determinados países. Estes factores são definidos no n.o 1 do artigo 2.3.13.2 do Código Internacional de Saúde Animal do Gabinete Internacional de Epizootias, que está disponível na internet, no site www.oie.int/eng/normes/Mcode/A_00067.htm.\n\nO Comité Científico Director efectuou uma avaliação do risco geográfico de BSE de vários países terceiros e Estados-Membros, e continuará a efectuar essa avaliação para todos os países que solicitaram a sua classificação em função do estatuto da BSE, tendo em conta os principais factores definidos pelo Gabinete Internacional de Epizootias.\n\n1.2.3. Natureza do tecido de base\n\nO fabricante deverá ter em consideração a classificação dos riscos em relação aos diferentes tipos de tecidos de base. O abastecimento de tecidos animais será objecto de controlo e inspecção individual por um veterinário e a carcaça deverá ser certificada como própria para consumo humano.\n\nO fabricante deverá garantir que não existe qualquer risco de contaminação cruzada aquando do abate.\n\nO fabricante não utilizará tecidos ou derivados de origem animal com um elevado potencial de infecciosidade de TSE, a menos que o abastecimento dessas matérias seja necessário em circunstâncias excepcionais, tendo em conta os benefícios importantes para os pacientes e a ausência de tecidos de base alternativos.\n\nAlém disso, serão aplicadas as disposições do Regulamento (CE) n.o 1774/2002 do Parlamento Europeu e do Conselho, de 3 de Outubro de 2002, que estabelece regras sanitárias relativas aos subprodutos animais não destinados ao consumo humano.\n\n1.2.3.1. Ovinos e caprinos\n\nFoi estabelecida uma classificação de infecciosidade dos tecidos de ovinos e caprinos, à luz dos conhecimentos actuais, com base nos títulos de agentes transmissíveis encontrados nos tecidos e fluidos orgânicos de ovinos infectados naturalmente e de caprinos com tremor epizoótico clínico. Em anexo ao parecer do Comité Científico Director de 22 e 23 de Julho de 1999 sobre \"The policy of breeding and genotyping of sheep\" figura uma tabela(2), posteriormente actualizada no parecer do mesmo Comité intitulado \"TSE infectivity distributed in ruminant tissues state of knowledge - December 2001\", adoptado em 10 e 11 de Janeiro de 2002(3).\n\nEsta classificação poderá ser revista à luz de novas provas científicas (por exemplo, utilizando pareceres pertinentes dos comités científicos, do Comité das Especialidades Farmacêuticas e das medidas da Comissão que regulam a utilização de matérias que apresentam riscos de TSE). Um inventário das referências aos documentos/pareceres relevantes será publicado no Jornal Oficial da União Europeia; após a decisão da Comissão será criada uma lista.\n\n1.2.3.2. Bovinos\n\nAs matérias de risco especificadas enumeradas no Regulamento (CE) n.o 999/2001 serão consideradas como tendo um potencial de elevada infecciosidade de TSE.\n\n1.2.4. Desactivação ou remoção de agentes transmissíveis\n\n1.2.4.1. Para os dispositivos que não podem suportar um processo de desactivação/eliminação sem sofrerem uma degradação inaceitável, o fabricante terá que confiar essencialmente no controlo do abastecimento.\n\n1.2.4.2. Para outros dispositivos, se o fabricante alegar que nos processos de fabrico é possível remover ou desactivar os agentes transmissíveis, terá de o comprovar com a documentação adequada.\n\nAs informações pertinentes provenientes de uma investigação e análise adequadas da literatura científica podem ser usadas para justificar os factores de desactivação/eliminação, quando os processos específicos referidos na literatura forem comparáveis com os que são utilizados para o dispositivo. Esta investigação e análise deverão também abranger os pareceres científicos disponíveis que possam ter sido adoptados por um comité científico da União Europeia. Os referidos pareceres servirão de referências nos casos em que existam pareceres discordantes.\n\nSe não for possível comprovar essas alegações com base na investigação bibliográfica, o fabricante deverá lançar um estudo específico sobre desactivação e/ou eliminação com base científica, tendo em conta os seguintes factores:\n\n- os riscos identificados associados com o tecido,\n\n- identificação dos agentes modelo pertinentes,\n\n- justificação da selecção das combinações particulares de agentes modelo,\n\n- identificação da fase seleccionada para eliminar e/ou desactivar os agentes transmissíveis,\n\n- cálculo dos factores de redução.\n\nO relatório final deve identificar os parâmetros e os limites de fabrico considerados críticos para a eficácia do processo de desactivação ou eliminação.\n\nDurante o fabrico, a aplicação dos parâmetros de processamento validados será garantida graças à utilização de procedimentos bem documentados.\n\n1.2.5. Quantidades de tecidos ou derivados animais de base necessárias para produzir uma unidade do dispositivo médico\n\nO fabricante avaliará a quantidade de tecidos ou derivados brutos de origem animal necessária para produzir uma única unidade do dispositivo médico. Em caso de processo de purificação, o fabricante deve avaliar se esse processo tem potencial para concentrar os níveis de agentes transmissíveis presentes nos tecidos ou derivados animais de base.\n\n1.2.6. Tecidos ou derivados de origem animal que entram em contacto com os pacientes ou os utilizadores\n\nO fabricante considerará:\n\ni) a quantidade de tecidos ou derivados animais,\n\nii) a área de contacto: a sua superfície, tipo (por exemplo, pele, mucosas, cérebro, etc.) e estado (por exemplo, saudável ou danificado),\n\niii) o tipo de tecidos ou derivados que entram em contacto com os pacientes e/ou os utilizadores,\n\niv) o tempo durante o qual se prevê que o dispositivo permaneça em contacto com o corpo (incluindo o efeito de bioreabsorção).\n\nSerá tido em consideração o número de dispositivos médicos que podem ser utilizados num dado procedimento.\n\n1.2.7. Via de administração\n\nO fabricante terá em conta a via de administração recomendada na informação sobre o produto, do mais alto risco.\n\n1.3. Revisão da avaliação\n\nO fabricante estabelecerá e manterá um procedimento sistemático de revisão da informação obtida sobre os seus dispositivos médicos ou outros semelhantes na fase posterior à produção. A informação será avaliada com base na sua pertinência para a segurança, especialmente:\n\na) Se forem detectados riscos previamente desconhecidos;\n\nb) Se o risco calculado de um determinado perigo tiver deixado de ser aceitável;\n\nc) Se a avaliação original tiver de alguma forma sido invalidada.\n\nSe qualquer um destes factores se verificar, os resultados da avaliação serão comunicados e incluídos no processo de gestão do risco.\n\nÀ luz desta nova informação, terá de considerar-se uma revisão das medidas adequadas de gestão do risco aplicáveis ao dispositivo (incluindo a justificação da selecção de um determinado tecido ou derivado animal). Se o risco residual ou a sua aceitabilidade puderem ter sofrido alterações, o impacto destas nas medidas de controlo do risco anteriormente implementadas será reavaliado e justificado.\n\nOs resultados desta avaliação terão de ser documentados.\n\n2. AVALIAÇÃO DOS DISPOSITIVOS MÉDICOS DA CLASSE III PELOS ORGANISMOS NOTIFICADOS\n\nNo que respeita aos dispositivos abrangidos pela classe III segundo a regra 17(4) do anexo IX da Directiva 93/42/CEE, os fabricantes devem facultar aos organismos notificados referidos no artigo 4.o da presente directiva todas as informações pertinentes para permitir a avaliação completa da sua estratégia actual de análise do risco e de gestão do risco. Quaisquer novas informações sobre o risco de TSE obtidas pelo fabricante e pertinentes para os seus dispositivos serão enviadas ao organismo notificado para informação.\n\nQuaisquer alterações dos processos de abastecimento, recolha, processamento e desactivação/eliminação que possam modificar os resultados do dossier de gestão do risco do fabricante serão comunicadas ao organismo notificado para aprovação adicional prévia à sua implementação.\n\n(1) JO L 147 de 31.5.2001, p. 1.\n\n(2) Disponível no site da Comissão\n\nhttp://europa.eu.int/comm/food/fs/sc/ssc/outcome_en.html.\n\n(3) Disponível no site da Comissão\n\nhttp://europa.eu.int/comm/food/fs/sc/ssc/outcome_en.html.\n\n(4) Todos os dispositivos em cujo fabrico se utilizem tecidos animais ou seus derivados tornados não viáveis pertencem à classe III, excepto se esses dispositivos se destinarem a entrar em contacto apenas com pele intacta."
+  },
+  "d2dd005500e2d9e5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Abril de 2003\n\nque introduz especificações pormenorizadas relativamente aos requisitos estabelecidos na Directiva 93/42/CEE do Conselho, no que diz respeito a dispositivos médicos fabricados mediante a utilização de tecidos de origem animal\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 93/42/CEE do Conselho, de 14 de Junho de 1993, relativa aos dispositivos médicos ([^1^](http://publications.europa.eu/resource/cellar/0c4cea92-7530-4b8b-8685-7d72c187ceb6.0008.03/DOC_1#E0001)), com a última redacção que lhe foi dada pela Directiva 2001/104/CE, do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/0c4cea92-7530-4b8b-8685-7d72c187ceb6.0008.03/DOC_1#E0002)) e, nomeadamente, o seu artigo 14.ºB,\n\n(1) Em 5 de Março de 2001, a França adoptou uma medida nacional proibindo o fabrico, colocação no mercado, distribuição, importação, exportação e utilização de dispositivos médicos fabricados a partir de matérias de origem animal, sempre que estas são usadas como substitutas da *dura mater*.\n\n(2) A França justificou a medida com as incertezas existentes quanto ao risco de transmissão a seres humanos de encefalopatias espongiformes animais por esses dispositivos médicos, e pelo facto de estarem disponíveis alternativas, sob a forma de matérias sintéticas ou de matérias autólogas extraídas do paciente.\n\n(3) Outros Estados-Membros tomaram medidas nacionais unilaterais, baseados em outros fundamentos jurídicos, em relação à utilização de certas matérias-primas com origem em tecidos animais e que apresentam riscos específicos de transmissão de encefalopatias espongiformes animais.\n\n(4) Todas as medidas nacionais estão relacionadas com a protecção geral da saúde pública contra os riscos de transmissão de encefalopatias espongiformes animais por dispositivos médicos.\n\n(5) No que respeita ao abastecimento das matérias usadas nos dispositivos médicos é aplicável o Regulamento (CE) n.º 1774/2002 do Parlamento Europeu e do Conselho, de 3 de Outubro de 2002, que estabelece regras sanitárias relativas aos subprodutos animais não destinados ao consumo humano ([^3^](http://publications.europa.eu/resource/cellar/0c4cea92-7530-4b8b-8685-7d72c187ceb6.0008.03/DOC_1#E0003)).\n\n(6) Com o intuito de melhorar o nível da segurança e da protecção da saúde, é necessário reforçar as medidas protectoras contra o risco geral de transmissão de encefalopatias espongiformes animais por dispositivos médicos.\n\n(7) O Comité Científico dos Medicamentos e dos Dispositivos Médicos adoptou um parecer sobre a utilização de matérias que implicam um risco de transmissão de encefalopatias espongiformes transmissíveis (TSE — Transmissible Spongiform Encephalopathies) para a produção de dispositivos médicos implantáveis, recomendando que o fabricante do dispositivo médico que utilize tecidos ou derivados de origem animal seja obrigado, como parte essencial da gestão do risco, a justificar cabalmente a utilização desses tecidos, no contexto dos benefícios para os pacientes e em comparação com as matérias alternativas.\n\n(8) O Comité Científico Director adoptou vários pareceres sobre matérias de risco especificadas e sobre os produtos derivados de tecidos de ruminantes, como a gelatina e o colagénio, que têm um impacto directo sobre a segurança dos dispositivos médicos.\n\n(9) Os dispositivos médicos fabricados mediante a utilização de tecidos ou derivados animais, não viáveis, são dispositivos da classe III, em conformidade com as regras de classificação estabelecidas no anexo IX da Directiva 93/42/CEE, exceptuados os dispositivos cujo único destino é o de entrarem em contacto com pele intacta.\n\n(10) Antes de serem colocados no mercado, os dispositivos médicos, quer sejam de origem comunitária, quer importados de países terceiros, são objecto dos processos de avaliação de conformidade previstos na Directiva 93/42/CEE.\n\n(11) O anexo I da Directiva 93/42/CEE estabelece os requisitos essenciais que os dispositivos médicos têm de satisfazer, nos termos da directiva. Os pontos 8.1 e 8.2 do anexo estabelecem os requisitos específicos destinados a eliminar ou reduzir, tanto quanto possível, o risco de infecção para o paciente, para o utilizador e para terceiros devido aos tecidos de origem animal, e precisam que as soluções adoptadas pelo fabricante na concepção e construção dos dispositivos devem ser conformes com os princípios de segurança, tendo em conta o estado da técnica geralmente aceite.\n\n(12) No que respeita aos dispositivos médicos fabricados mediante a utilização de tecidos de origem animal, é necessário adoptar precisões mais detalhadas em relação aos requisitos do ponto 8.2 do anexo I da Directiva 93/42/CEE e precisar certos aspectos relacionados com a análise do risco e a gestão do risco no quadro dos processos de avaliação de conformidade referidos no artigo 11.º da directiva.\n\n(13) Alguns termos empregues na Directiva 93/42/CEE devem ser esclarecidos, por forma a assegurar a aplicação uniforme da presente directiva.\n\n(14) É necessário prever o período transitório adequado no que respeita aos dispositivos médicos já abrangidos por um certificado de exame CE de concepção ou por um certificado de exame CE de tipo.\n\n(15) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité dos Dispositivos Médicos criado pelo n.º 2 do artigo 6.º da Directiva 90/385/CEE do Conselho ([^4^](http://publications.europa.eu/resource/cellar/0c4cea92-7530-4b8b-8685-7d72c187ceb6.0008.03/DOC_1#E0004)),\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "47c83e56fc5242e2": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva estabelece especificações pormenorizadas em relação aos riscos de transmissão, em condições normais de utilização, a pacientes ou a outras pessoas, de encefalopatias espongiformes transmissíveis (TSE), por dispositivos médicos fabricados mediante a utilização de tecidos animais tornados não viáveis ou produtos não viáveis derivados de tecidos animais.\n\n2. Os tecidos animais abrangidos pela presente directiva são os originários das espécies bovina, ovina e caprina, bem como cervos, alces, martas e felídeos.\n\n3. O colagénio, gelatina e sebo utilizados no fabrico de dispositivos médicos respeitarão, pelo menos, os requisitos necessários para serem considerados próprios para consumo humano.\n\n4. A presente directiva não se aplica aos dispositivos referidos no n.º 1 que não se destinem a entrar em contacto com o corpo humano ou que se destinem a entrar em contacto apenas com pele intacta."
+  },
+  "f426c0781fe9ad70": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, e para além das definições da Directiva 93/42/CEE, são aplicáveis as seguintes definições:\n\na) Célula: a mais pequena unidade organizada de qualquer forma de vida, capaz de ter existência independente e de substituir a sua própria substância um ambiente favorável;\n\nb) Tecido: organização de células e/ou de constituintes extracelulares;\n\nc) Derivado: material obtido a partir de um tecido animal por um processo de fabrico, como o colagénio, a gelatina ou os anticorpos monoclonais;\n\nd) Não viável: incapaz de metabolismo ou multiplicação;\n\ne) Agentes transmissíveis: entidades patogénicas não classificadas, priões ou outras entidades, como agentes da BSE e do tremor epizoótico;\n\nf) Redução, eliminação ou remoção: um processo através do qual o número de agentes transmissíveis é reduzido, eliminado ou removido, por forma a evitar as reacções infecciosas ou patogénicas;\n\ng) Desactivação: um processo através do qual se reduz a capacidade de provocar infecções ou reacções patogénicas por agentes transmissíveis;\n\nh) País de origem: país em que o animal nasceu, se criou e/ou foi abatido;\n\ni) Produtos de base: matérias-primas ou qualquer outro produto de origem animal a partir do qual, ou com o auxílio do qual, são produzidos os dispositivos referidos no artigo 1.º"
+  },
+  "a3b9c1263b87b8f8": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAntes de apresentar o pedido de avaliação de conformidade, nos termos do n.º 1 do artigo 11.º da Directiva 93/42/CEE, o fabricante dos dispositivos médicos referidos no n.º 1 do artigo 1.º deve aplicar o programa de análise do risco e gestão do risco previsto no anexo da presente directiva."
+  },
+  "c9ed5285e77c3294": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros verificarão se os organismos notificados nos termos do artigo 16.º da Directiva 93/42/CEE para avaliarem da conformidade dos dispositivos referidos no artigo 1.º com as disposições da Directiva 93/42/CEE e com as especificações da presente directiva têm conhecimentos actualizados desses dispositivos.\n\nSe, após a referida verificação, os Estados-Membros tiverem de alterar o âmbito de actividade de organismos notificados, notificarão desse facto a Comissão e os outros Estados-Membros."
+  },
+  "a50e090217668e54": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os processos de avaliação de conformidade dos dispositivos médicos referidos no artigo 1.º abrangerão a avaliação da sua conformidade com os requisitos essenciais da Directiva 93/42/CEE, e as especificações do anexo da presente directiva.\n\n2. Os organismos notificados avaliarão a estratégia de análise do risco e de gestão do risco do fabricante, em especial:\n\na) A informação disponibilizada pelo fabricante;\n\nb) A justificação para a utilização de tecidos ou derivados animais;\n\nc) Os resultados dos estudos de eliminação e/ou desactivação, ou da investigação bibliográfica;\n\nd) O controlo, por parte do fabricante, das fontes das matérias-primas, dos produtos acabados e dos subcontratantes;\n\ne) A necessidade de verificar aspectos relacionados com o abastecimento, incluindo os fornecimentos por terceiros.\n\n3. Durante a avaliação da análise do risco e da gestão do risco, no quadro do processo de avaliação de conformidade, os organismos notificados terão em conta o certificado de conformidade TSE emitido pela Direcção Europeia da Qualidade dos Medicamentos para produtos de base, sempre que exista.\n\n4. Excepto no que diz respeito aos dispositivos médicos que utilizem produtos de base relativamente aos quais tenha sido emitido o certificado TSE referido no n.º 3, os organismos notificados solicitarão, por intermédio da respectiva autoridade competente, o parecer e as conclusões das autoridades nacionais competentes dos outros Estados-Membros sobre a avaliação por estas efectuada, em matéria de análise do risco e de gestão do risco, dos tecidos ou derivados que se destinem a ser [**►C1**](http://publications.europa.eu/resource/celex/32003L0032R%2801%29) utilizados**◄** no dispositivo médico, segundo o fabricante.\n\nAntes de emitirem o certificado de exame de concepção ou o certificado de exame CE de tipo, os organismos notificados tomarão em devida consideração quaisquer observações recebidas no prazo de 12 semanas a partir da data em que tiver sido solicitado o parecer das autoridades nacionais."
+  },
+  "b0a7a69aa576fd8c": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-Membros tomarão todas as medidas necessárias para garantir que os dispositivos médicos referidos no artigo 1.º só são colocados no mercado e postos em funcionamento se satisfizerem o disposto na Directiva 93/42/CEE e às especificações da presente directiva."
+  },
+  "1864171cac06458d": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os titulares de certificados de exame CE de concepção ou de certificados de exame CE de tipo emitidos antes de 1 de Abril de 2004 relativamente a dispositivos médicos referido no artigo 1.º devem requerer um certificado complementar de exame CE de concepção ou de exame CE de tipo, por forma darem cumprimento às especificações da presente directiva.\n\n2. Os Estados-Membros deferirão até 30 de Setembro de 2004 a colocação no mercado e a entrada em funcionamento dos dispositivos médicos referidos no n.º 1 do artigo 1.º abrangidos por um certificado de exame CE de concepção ou certificado de exame CE de tipo emitido antes de 1 de Abril de 2004."
+  },
+  "f7d4d389324ba22c": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "8121d82e6c54612e": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "e93b02c6db09e55e": {
+   "fragment_id": "1. ANÁLISE DO RISCO E GESTÃO DO RISCO",
+   "type": "divisao",
+   "heading": "1. ANÁLISE DO RISCO E GESTÃO DO RISCO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. ANÁLISE DO RISCO E GESTÃO DO RISCO"
+  },
+  "2904f03a8a1c8076": {
+   "fragment_id": "1.1. Justificação para a utilização de tecidos ou derivados animais",
+   "type": "divisao",
+   "heading": "1.1. Justificação para a utilização de tecidos ou derivados animais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.1. Justificação para a utilização de tecidos ou derivados animais\n\nO fabricante justificará, com base na sua estratégia global de análise do risco e de gestão do risco para um determinado dispositivo médico, a decisão de utilizar os tecidos ou derivados de origem animal referidos no artigo 1.º (especificando as espécies e os tecidos animais), tendo em conta os benefícios clínicos esperados, o risco residual potencial e as alternativas adequadas."
+  },
+  "5e2564810182e6a9": {
+   "fragment_id": "1.2. Procedimento de avaliação",
+   "type": "divisao",
+   "heading": "1.2. Procedimento de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.2. Procedimento de avaliação\n\nPara garantir um elevado nível de protecção dos pacientes e utilizadores, o fabricante dos dispositivos que utilizem os tecidos ou derivados animais referidos no ponto 1.1 implementará uma estratégia adequada e bem documentada de análise do risco e de gestão do risco, para tratar de todos os aspectos pertinentes relacionados com as TSE. Além disso, identificará os riscos associados a esses tecidos ou derivados, estabelecerá documentação sobre as medidas tomadas para minimizar o risco de transmissão e demonstrará a aceitabilidade do risco residual associado com o dispositivo que utiliza esses tecidos ou derivados, tendo em conta as utilizações previstas e os benefícios decorrentes desse dispositivo.\n\nA segurança de um dispositivo, em termos do seu potencial para transmitir um agente transmissível, depende de todos os factores descritos nos pontos 1.2.1 a 1.2.7, que serão analisados, avaliados e geridos. A combinação destas medidas determina a segurança do dispositivo.\n\nHá que considerar dois passos essenciais.\n\nSão eles:\n\n— a selecção dos produtos de base (tecidos ou derivados) considerados adequados quanto à sua potencial contaminação por agentes transmissíveis (ver 1.2.1, 1.2.2 e 1.2.3), tendo em conta o processamento posterior,\n\n— a aplicação de um processo de produção para remover ou desactivar os agentes transmissíveis presentes nos tecidos ou derivados de origem controlada (ver 1.2.4).\n\nAlém disso, as características do dispositivo e a utilização prevista do mesmo serão igualmente tidas em conta (ver 1.2.5, 1.2.6 e 1.2.7).\n\nAo seguir a estratégia de análise do risco e de gestão do risco, deverão ser devidamente tomados em conta os pareceres adoptados pelos comités científicos pertinentes e, se for esse o caso, os pareceres do Comité das Especialidades Farmacêuticas, cujas referências foram publicadas no *Jornal Oficial da União Europeia*."
+  },
+  "2419bdae4226dade": {
+   "fragment_id": "1.2.1. Os animais como origem de matérias",
+   "type": "divisao",
+   "heading": "1.2.1. Os animais como origem de matérias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.2.1. Os animais como origem de matérias\n\nO risco de TSE depende das espécies de origem, das estirpes e da natureza do tecido de base. Uma vez que a infecciosidade das TSE se acumula durante um período de incubação de vários anos, o abastecimento de animais jovens e saudáveis é considerado um factor de redução do risco. Os animais de risco, como os animais encontrados mortos, os animais abatidos de emergência e os animais suspeitos de TSE, terão de ser excluídos."
+  },
+  "df1b62196982b667": {
+   "fragment_id": "1.2.2. Abastecimento geográfico",
+   "type": "divisao",
+   "heading": "1.2.2. Abastecimento geográfico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.2.2. Abastecimento geográfico\n\nEnquanto se aguarda a classificação dos países em função do estatuto da BSE, nos termos do Regulamento (CE) n.º 999/2001 do Parlamento Europeu e do Conselho, de 22 de Maio de 2001 ([^5^](http://publications.europa.eu/resource/cellar/0c4cea92-7530-4b8b-8685-7d72c187ceb6.0008.03/DOC_1#E0005)), que estabelece regras para a prevenção, o controlo e a erradicação de determinadas encefalopatias espongiformes transmissíveis, o risco do país de origem é avaliado com base no risco geográfico de BSE (GBR — Geographical BSE Risk). O GBR é um indicador qualitativo da probabilidade da presença de um ou mais bovinos infectados com BSE, quer pré-clinicamente quer clinicamente, num dado momento, num determinado país. Quando essa presença se confirme, o GBR indica o nível de infecção, tal como a seguir se especifica:\n\nNível de GBR Presença de um ou mais bovinos clinicamente ou pré-clinicamente infectados com o agente da BSE, numa região geográfica ou país\n\nI Altamente improvável\n\nII Improvável mas não excluída\n\nIII Provável mas não confirmada, ou confirmada a um nível inferior\n\nIV Confirmada a um nível superior\n\nCertos factores influenciam o risco geográfico de infecção por EEB associado à utilização de tecidos ou derivados brutos oriundos de determinados países. Estes factores são definidos no n.º 1 do artigo 2.3.13.2 do Código Internacional de Saúde Animal do Gabinete Internacional de Epizootias, que está disponível na internet, no *site* www.oie.int/eng/normes/Mcode/A_00067.htm.\n\nO Comité Científico Director efectuou uma avaliação do risco geográfico de BSE de vários países terceiros e Estados-Membros, e continuará a efectuar essa avaliação para todos os países que solicitaram a sua classificação em função do estatuto da BSE, tendo em conta os principais factores definidos pelo Gabinete Internacional de Epizootias."
+  },
+  "68d4a5146865d5a0": {
+   "fragment_id": "1.2.3. Natureza do tecido de base",
+   "type": "divisao",
+   "heading": "1.2.3. Natureza do tecido de base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.2.3. Natureza do tecido de base\n\nO fabricante deverá ter em consideração a classificação dos riscos em relação aos diferentes tipos de tecidos de base. O abastecimento de tecidos animais será objecto de controlo e inspecção individual por um veterinário e a carcaça deverá ser certificada como própria para consumo humano.\n\nO fabricante deverá garantir que não existe qualquer risco de contaminação cruzada aquando do abate.\n\nO fabricante não utilizará tecidos ou derivados de origem animal com um elevado potencial de infecciosidade de TSE, a menos que o abastecimento dessas matérias seja necessário em circunstâncias excepcionais, tendo em conta os benefícios importantes para os pacientes e a ausência de tecidos de base alternativos.\n\nAlém disso, serão aplicadas as disposições do Regulamento (CE) n.º 1774/2002 do Parlamento Europeu e do Conselho, de 3 de Outubro de 2002, que estabelece regras sanitárias relativas aos subprodutos animais não destinados ao consumo humano."
+  },
+  "89aac93456c288bf": {
+   "fragment_id": "1.2.3.1. Ovinos e caprinos",
+   "type": "divisao",
+   "heading": "1.2.3.1. Ovinos e caprinos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.2.3.1. Ovinos e caprinos\n\nFoi estabelecida uma classificação de infecciosidade dos tecidos de ovinos e caprinos, à luz dos conhecimentos actuais, com base nos títulos de agentes transmissíveis encontrados nos tecidos e fluidos orgânicos de ovinos infectados naturalmente e de caprinos com tremor epizoótico clínico. Em anexo ao parecer do Comité Científico Director de 22 e 23 de Julho de 1999 sobre «The policy of breeding and genotyping of sheep» figura uma tabela ([^6^](http://publications.europa.eu/resource/cellar/0c4cea92-7530-4b8b-8685-7d72c187ceb6.0008.03/DOC_1#E0006)), posteriormente actualizada no parecer do mesmo Comité intitulado «TSE infectivity distributed in ruminant tissues state of knowledge — December 2001», adoptado em 10 e 11 de Janeiro de 2002 ([^7^](http://publications.europa.eu/resource/cellar/0c4cea92-7530-4b8b-8685-7d72c187ceb6.0008.03/DOC_1#E0007)).\n\nEsta classificação poderá ser revista à luz de novas provas científicas (por exemplo, utilizando pareceres pertinentes dos comités científicos, do Comité das Especialidades Farmacêuticas e das medidas da Comissão que regulam a utilização de matérias que apresentam riscos de TSE). Um inventário das referências aos documentos/pareceres relevantes será publicado no *Jornal Oficial da União Europeia*; após a decisão da Comissão será criada uma lista."
+  },
+  "b28d47acb6dcd400": {
+   "fragment_id": "1.2.3.2. Bovinos",
+   "type": "divisao",
+   "heading": "1.2.3.2. Bovinos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.2.3.2. Bovinos\n\nAs matérias de risco especificadas enumeradas no Regulamento (CE) n.º 999/2001 serão consideradas como tendo um potencial de elevada infecciosidade de TSE."
+  },
+  "a32fa92fc78e0291": {
+   "fragment_id": "1.2.4. Desactivação ou remoção de agentes transmissíveis",
+   "type": "divisao",
+   "heading": "1.2.4. Desactivação ou remoção de agentes transmissíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.2.4. Desactivação ou remoção de agentes transmissíveis\n\n1.2.4.1. Para os dispositivos que não podem suportar um processo de desactivação/eliminação sem sofrerem uma degradação inaceitável, o fabricante terá que confiar essencialmente no controlo do abastecimento.\n\n1.2.4.2. Para outros dispositivos, se o fabricante alegar que nos processos de fabrico é possível remover ou desactivar os agentes transmissíveis, terá de o comprovar com a documentação adequada. As informações pertinentes provenientes de uma investigação e análise adequadas da literatura científica podem ser usadas para justificar os factores de desactivação/eliminação, quando os processos específicos referidos na literatura forem comparáveis com os que são utilizados para o dispositivo. Esta investigação e análise deverão também abranger os pareceres científicos disponíveis que possam ter sido adoptados por um comité científico da União Europeia. Os referidos pareceres servirão de referências nos casos em que existam pareceres discordantes. Se não for possível comprovar essas alegações com base na investigação bibliográfica, o fabricante deverá lançar um estudo específico sobre desactivação e/ou eliminação com base científica, tendo em conta os seguintes factores: — os riscos identificados associados com o tecido, — identificação dos agentes modelo pertinentes, — justificação da selecção das combinações particulares de agentes modelo, — identificação da fase seleccionada para eliminar e/ou desactivar os agentes transmissíveis, — cálculo dos factores de redução. O relatório final deve identificar os parâmetros e os limites de fabrico considerados críticos para a eficácia do processo de desactivação ou eliminação. Durante o fabrico, a aplicação dos parâmetros de processamento validados será garantida graças à utilização de procedimentos bem documentados."
+  },
+  "0a2df6e2fa3b0787": {
+   "fragment_id": "1.2.5. Quantidades de tecidos ou derivados animais de base necessárias para produzir uma unidade do dispositivo médico",
+   "type": "divisao",
+   "heading": "1.2.5. Quantidades de tecidos ou derivados animais de base necessárias para produzir uma unidade do dispositivo médico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.2.5. Quantidades de tecidos ou derivados animais de base necessárias para produzir uma unidade do dispositivo médico\n\nO fabricante avaliará a quantidade de tecidos ou derivados brutos de origem animal necessária para produzir uma única unidade do dispositivo médico. Em caso de processo de purificação, o fabricante deve avaliar se esse processo tem potencial para concentrar os níveis de agentes transmissíveis presentes nos tecidos ou derivados animais de base."
+  },
+  "b32d8d14c9034393": {
+   "fragment_id": "1.2.6. Tecidos ou derivados de origem animal que entram em contacto com os pacientes ou os utilizadores",
+   "type": "divisao",
+   "heading": "1.2.6. Tecidos ou derivados de origem animal que entram em contacto com os pacientes ou os utilizadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.2.6. Tecidos ou derivados de origem animal que entram em contacto com os pacientes ou os utilizadores\n\nO fabricante considerará:\n\ni) a quantidade de tecidos ou derivados animais,\n\nii) a área de contacto: a sua superfície, tipo (por exemplo, pele, mucosas, cérebro, etc.) e estado (por exemplo, saudável ou danificado),\n\niii) o tipo de tecidos ou derivados que entram em contacto com os pacientes e/ou os utilizadores,\n\niv) o tempo durante o qual se prevê que o dispositivo permaneça em contacto com o corpo (incluindo o efeito de bioreabsorção).\n\nSerá tido em consideração o número de dispositivos médicos que podem ser utilizados num dado procedimento."
+  },
+  "2fd3a65ca3fe63ed": {
+   "fragment_id": "1.2.7. Via de administração",
+   "type": "divisao",
+   "heading": "1.2.7. Via de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.2.7. Via de administração\n\nO fabricante terá em conta a via de administração recomendada na informação sobre o produto, do mais alto risco."
+  },
+  "964f491539bade6a": {
+   "fragment_id": "1.3. Revisão da avaliação",
+   "type": "divisao",
+   "heading": "1.3. Revisão da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.3. Revisão da avaliação\n\nO fabricante estabelecerá e manterá um procedimento sistemático de revisão da informação obtida sobre os seus dispositivos médicos ou outros semelhantes na fase posterior à produção. A informação será avaliada com base na sua pertinência para a segurança, especialmente:\n\na) Se forem detectados riscos previamente desconhecidos;\n\nb) Se o risco calculado de um determinado perigo tiver deixado de ser aceitável;\n\nc) Se a avaliação original tiver de alguma forma sido invalidada.\n\nSe qualquer um destes factores se verificar, os resultados da avaliação serão comunicados e incluídos no processo de gestão do risco.\n\nÀ luz desta nova informação, terá de considerar-se uma revisão das medidas adequadas de gestão do risco aplicáveis ao dispositivo (incluindo a justificação da selecção de um determinado tecido ou derivado animal). Se o risco residual ou a sua aceitabilidade puderem ter sofrido alterações, o impacto destas nas medidas de controlo do risco anteriormente implementadas será reavaliado e justificado.\n\nOs resultados desta avaliação terão de ser documentados."
+  },
+  "8c21b75a1be74700": {
+   "fragment_id": "2. AVALIAÇÃO DOS DISPOSITIVOS MÉDICOS DA CLASSE III PELOS ORGANISMOS NOTIFICADOS",
+   "type": "divisao",
+   "heading": "2. AVALIAÇÃO DOS DISPOSITIVOS MÉDICOS DA CLASSE III PELOS ORGANISMOS NOTIFICADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. AVALIAÇÃO DOS DISPOSITIVOS MÉDICOS DA CLASSE III PELOS ORGANISMOS NOTIFICADOS\n\nNo que respeita aos dispositivos abrangidos pela classe III segundo a regra 17 ([^8^](http://publications.europa.eu/resource/cellar/0c4cea92-7530-4b8b-8685-7d72c187ceb6.0008.03/DOC_1#E0008)) do anexo IX da Directiva 93/42/CEE, os fabricantes devem facultar aos organismos notificados referidos no artigo 4.º da presente directiva todas as informações pertinentes para permitir a avaliação completa da sua estratégia actual de análise do risco e de gestão do risco. Quaisquer novas informações sobre o risco de TSE obtidas pelo fabricante e pertinentes para os seus dispositivos serão enviadas ao organismo notificado para informação.\n\nQuaisquer alterações dos processos de abastecimento, recolha, processamento e desactivação/eliminação que possam modificar os resultados do dossier de gestão do risco do fabricante serão comunicadas ao organismo notificado para aprovação adicional prévia à sua implementação.\n\n---"
+  },
+  "8d23cf781b6b225e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/0c4cea92-7530-4b8b-8685-7d72c187ceb6.0008.03/DOC_1#src.E0001)) JO L 169 de 12.7.1993, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/0c4cea92-7530-4b8b-8685-7d72c187ceb6.0008.03/DOC_1#src.E0002)) JO L 6 de 10.1.2002, p. 50.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/0c4cea92-7530-4b8b-8685-7d72c187ceb6.0008.03/DOC_1#src.E0003)) JO L 273 de 10.10.2002, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/0c4cea92-7530-4b8b-8685-7d72c187ceb6.0008.03/DOC_1#src.E0004)) JO L 189 de 20.7.1990, p. 17.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/0c4cea92-7530-4b8b-8685-7d72c187ceb6.0008.03/DOC_1#src.E0005)) JO L 147 de 31.5.2001, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/0c4cea92-7530-4b8b-8685-7d72c187ceb6.0008.03/DOC_1#src.E0006)) Disponível no *site* da Comissão\n\n> http://europa.eu.int/comm/food/fs/sc/ssc/outcome_en.html.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/0c4cea92-7530-4b8b-8685-7d72c187ceb6.0008.03/DOC_1#src.E0007)) Disponível no *site* da Comissão\n\n> http://europa.eu.int/comm/food/fs/sc/ssc/outcome_en.html.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/0c4cea92-7530-4b8b-8685-7d72c187ceb6.0008.03/DOC_1#src.E0008)) Todos os dispositivos em cujo fabrico se utilizem tecidos animais ou seus derivados tornados não viáveis pertencem à classe III, excepto se esses dispositivos se destinarem a entrar em contacto apenas com pele intacta."
+  },
+  "33c78d3d571a5037": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2003L0032 — PT — 29.08.2013 — 001.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32003L0032) [DIRECTIVA 2003/32/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/32003L0032) [de 23 de Abril de 2003](http://publications.europa.eu/resource/celex/32003L0032) [que introduz especificações pormenorizadas relativamente aos requisitos estabelecidos na Directiva 93/42/CEE do Conselho, no que diz respeito a dispositivos médicos fabricados mediante a utilização de tecidos de origem animal](http://publications.europa.eu/resource/celex/32003L0032) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32003L0032) (JO L 105, 26.4.2003, p.18)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 722/2012 da Comissão de 8 de agosto de 2012](http://publications.europa.eu/resource/celex/32012R0722) — L 212 — 3 — 9.8.2012"
+  }
+ }
+}

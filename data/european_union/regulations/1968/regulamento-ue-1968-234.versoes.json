@@ -1,0 +1,239 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31968R0234:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01968R0234-20080101",
+ "dre_path": null,
+ "source_lastmod": "2008-01-01",
+ "versions": [
+  {
+   "date": "1968-03-02",
+   "future": false,
+   "celex": "31968R0234",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "419097db0d6d91aa",
+    "4ebf577736b36487",
+    "ca2e79e1ca82ae7d",
+    "ff6622f94599edeb",
+    "2ce836db0ddacc98",
+    "36cf7670e2c24a9a",
+    "64e1b112bc41f055",
+    "5f362cb354bae46a",
+    "47208ca281ce9cb0",
+    "bd559b09d992c8bb",
+    "59666aa7a93d46aa",
+    "5a0ec4395c59f26e",
+    "a2175683ba1e20dd",
+    "a63f51275dff8506",
+    "8ca2f11431f42d06",
+    "a534ce4ba169c89a",
+    "e102fce0dd20ae6a",
+    "2cf2094132be355d",
+    "02e3648d018d056f",
+    "b1b4274790aab71b"
+   ]
+  },
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "celex": "01968R0234-20080101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o"
+   ],
+   "fragments": [
+    "da6190515d2ee320"
+   ]
+  }
+ ],
+ "fragments": {
+  "419097db0d6d91aa": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 234/68 do Conselho, de 27 de Fevereiro de 1968, que estabelece uma organização comum de mercado no sector das plantas vivas e dos produtos de floricultura** *Jornal Oficial nº L 055 de 02/03/1968 p. 0001 - 0004 Edição especial finlandesa: Capítulo 3 Fascículo 2 p. 0005 Edição especial dinamarquesa: Série I Capítulo 1968(I) p. 0026 Edição especial sueca: Capítulo 3 Fascículo 2 p. 0005 Edição especial inglesa: Série I Capítulo 1968(I) p. 0026 Edição especial grega: Capítulo 03 Fascículo 3 p. 0027 Edição especial espanhola: Capítulo 03 Fascículo 2 p. 0094 Edição especial portuguesa: Capítulo 03 Fascículo 2 p. 0094*\n\nREGULAMENTO (CEE) No 234/68 DO CONSELHO de 27 de Fevereiro de 1968 que estabelece uma organização comum de mercado no sector das plantas vivas e dos produtos de floricultura\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, e nomeadamente os seus artigos 42o e 43o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nConsiderando que o funcionamento e o desenvolvimento do mercado comum para os produtos agrícolas devem ser acompanhados do estabelecimento duma política agrícola comum, e que esta deve nomeadamente incluir uma organização comum dos mercados agrícolas a qual pode tomar diversas formas conforme os produtos;\n\nConsiderando que a produção das plantas vivas e dos produtos da floricultura tem uma importância especial na economia agrícola de certas regiões da Comunidade; que para os agricultores destas regiões, esta produção representa uma parte preponderante do seu rendimento; que, por consequência, é preciso favorecer o escoamento racional desta produção e assegurar a estabilidade do mercado por meio de medidas adequadas;\n\nConsiderando que uma das medidas a tomar para a implementação da organização comum de mercado é a aplicação de normas comuns de qualidade aos produtos em causa; que a aplicação destas normas deveria eliminar do mercado os produtos de qualidade não satisfatória e facilitar as relações comerciais baseadas numa concorrência leal, contribuindo assim para melhorar a rentabilidade da produção;\n\nConsiderando que a aplicação destas normas torna necessário um controlo de qualidade para os produtos sujeitos à normalização; que convém, por consequência, prever medidas que assegurem um tal controlo;\n\nConsiderando que as exportações de bolbos de flores para países terceiros apresentam um importante interesse económico para a Comunidade; que a manutenção e o desenvolvimento destas exportações podem ser assegurados por uma estabilização dos preços para estas trocas comerciais; que convém, por consequência, prever preços mínimos para a exportação dos produtos em causa;\n\nConsiderando que a organização comum de mercado no sector das plantas vivas e dos produtos da floricultura justifica a aplicação da pauta aduaneira comum; que é, por outro lado, necessário proceder rapidamente à coordenação e unificação dos regimes de importação aplicados a países terceiros;\n\nConsiderando que para não deixar o mercado comunitário sem defesa contra as perturbações excepcionais que poderiam ocorrer nas importações ou nas exportações, convém permitir que a Comunidade tome rapidamente todas as medidas necessárias;\n\nConsiderando que a organização comum de mercado implica a supressão de todos os obstáculos à livre circulação das mercadorias consideradas nas fronteiras internas da Comunidade;\n\nConsiderando que convém que as disposições do Tratado que permitem apreciar as ajudas concedidas pelos Estados-membros e proibir as que são incompatíveis com o mercado comum sejam aplicáveis no sector das plantas vivas e produtos de floricultura;\n\nConsiderando que, para facilitar a aplicação das disposições consideradas, convém prever um procedimento que conduza a uma estreita cooperação entre os Estados-membros e a Comissão no seio de um Comité de Gestão;\n\nConsiderando que a organização comum de mercado no sector das plantas vivas e dos produtos da floricultura deve ter em conta, paralelamente e de maneira adequada objectivos previstos nos artigos 39o e 110o do Tratado,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "4ebf577736b36487": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nÉ estabelecida uma organização comum de mercado no sector das plantas vivas e produtos de floricultura, que inclui um regime de normas de qualidade e de trocas comerciais se aplica aos produtos indicados no capítulo VI da pauta aduaneira comum."
+  },
+  "ca2e79e1ca82ae7d": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nTendo em vista encorajar as iniciativas profissionais e interprofissionais, podem ser tomadas para os produtos referidos no artigo 1o as seguintes medidas comunitárias:\n\n- medidas tendentes a melhorar a sua qualidade e a desenvolver a sua utilização,\n\n- medidas tendentes a promover uma melhor organização da sua produção e da sua comercialização,\n\n- medidas tendentes a facilitar a verificação da evolução dos seus preços no mercado.\n\nAs regras gerais relativas a estas medidas são adoptadas segundo o procedimento previsto no no 2 do artigo 43o do Tratado."
+  },
+  "ff6622f94599edeb": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nPara os produtos referidos no artigo 1o, ou para grupos destes produtos, podem estabelecer-se normas de qualidade, de calibragem e de acondicionamento, assim como o seu campo de aplicação; estas normas podem incidir nomeadamente sobre a classificação por categoria de qualidade, sobre a embalagem e sobre a apresentação assim como sobre a marcação.\n\nDepois de adoptadas as normas, os produtos aos quais elas se aplicam só podem ser expostos para venda, postos à venda, vendidos, entregues ou comercializados de qualquer outra maneira, se estiverem em conformidade com as referidas normas.\n\nAs normas e as regras gerais da sua aplicação são adoptadas pelo Conselho, que delibera sob proposta da Comissão, segundo o procedimento de voto previsto no no 2 do artigo 43o do Tratado."
+  },
+  "2ce836db0ddacc98": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs ajustamentos a fazer às normas de qualidade para ter em conta as necessidades das técnicas de produção e de comercialização são decididos segundo o procedimento previsto no artigo 14o."
+  },
+  "36cf7670e2c24a9a": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os Estados-membros submetem a um contrlo de conformidade os produtos para os quais são estabelecidas normas de qualidade. Comunicam aos outros Estados-membros e à Comissão, o mais tardar um mês após a entrada em vigor de cada norma de qualidade, o nome e o endereço dos organismos encarregados do controlo para o produto ou grupo de produtos para o qual a norma foi adoptada.\n\n2. As modalidades de aplicação do no 1 são, quando necessário, adoptadas segundo o procedimento previsto no artigo 14o, tendo em conta nomeadamente a necessidade de assegurar a coordenação das actividades dos organismos de controlo, bem como a interpretação e aplicação uniforme das normas de qualidade."
+  },
+  "64e1b112bc41f055": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nDepois de fixadas as normas, qualquer oferta feita ao público por meio de anúncios, de catálogos ou de tarifas, em que o preço esteja indicado, deve precisar a natureza do produto e da calibragem."
+  },
+  "5f362cb354bae46a": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Todos os anos, e pela primeira vez em 1968, podem ser fixados um ou vários preços mínimos para exportação para os países terceiros segundo o procedimento previsto no artigo 14o, para cada um dos produtos da posição 06.01 A da pauta aduaneira comum, em tempo útil, antes do período de comercialização.\n\nAs exportações destes produtos devem fazer-se a um preço igual ou superior ao preço mínimo fixado para o produto em causa.\n\n2. As modalidades de aplicação do no 1 são adoptadas segundo o processo previsto no artigo 14o."
+  },
+  "47208ca281ce9cb0": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. A pauta aduaneira comum é aplicada a partir de 1 de Julho de 1968 para os produtos referidos no artigo 1o; a partir da mesma data está proibida a cobrança de qualquer outro direito aduaneiro.\n\n2. As disposições necessárias em matéria de coordenação e de unificação dos regimes de importação aplicados por cada um dos Estados-membros em relação a países terceiros serão adoptadas pelo Conselho, sob proposta da Comissão, segundo o procedimento de voto previsto no no 2 do artigo 43o do Tratado, antes de 1 de Julho de 1968. Estas medidas serão aplicadas o mais tardar em 1 de Janeiro de 1969."
+  },
+  "bd559b09d992c8bb": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Se, na Comunidade, o mercado de um ou de vários produtos referidos no artigo 1o sofrer, ou corre o risco de sofrer, em função das importações, perturbações graves susceptíveis de pôr em perigo os objectivos do artigo 39o do Tratado, podem ser aplicadas medidas adequadas nas trocas comerciais com países terceiros até que a perturbação ou o risco de perturbação tenha desaparecido.\n\nO Conselho, deliberando sob proposta da Comissão, segundo o procedimento de voto previsto no no 2 do artigo 43o do Tratado, adoptará as modalidades de aplicação do presente número e definirá os casos e os limites dentro dos quais os Estados-membros podem tomar medidas cautelares.\n\n2. Se a situação referida no no 1 se apresentar, a Comissão, a pedido de um Estado-membro ou por sua própria iniciativa, decidirá quais as medidas necessárias que são comunicadas aos Estados-membros e que são imediatamente aplicáveis. Se um Estado-membro submeter um pedido à Comissão, esta decidirá sobre ele nas vinte e quatro horas seguintes à recepção do pedido.\n\n3. Qualquer Estado-membro pode submeter ao Conselho a medida tomada pela Comissão dentro dos três dias úteis seguintes ao da sua comunicação. O Conselho reúne-se imediatamente. O Conselho pode, segundo o procedimento de voto previsto no no 2 do artigo 43o do Tratado, modificar ou anular a medida em causa."
+  },
+  "59666aa7a93d46aa": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. São proibidos no comércio interno da Comunidade:\n\n- a cobrança de qualquer direito aduaneiro ou taxa de efeito equivalente,\n\n- qualquer restrição quantitativa ou medida de efeito equivalente,\n\n- o recurso ao artigo 44o do Tratado.\n\n2. Por derrogação às disposições do segundo e terceiro travessões do no 1, continuam autorizados a manutenção das restrições quantitativas ou medidas de efeito equivalente e o recurso ao artigo 44o do Tratado:\n\n- para as estacas não enraizadas e enxertos de videira da posição 06.02 A I e para as videiras enxertadas ou enraízadas, da posição 06.02 B, até à data fixada para a aplicação em todos os Estados-membros das disposições a adoptar pelo Conselho em matéria de comercialização dos materiais de propagação vegetativa de videira,\n\n- para as plantas em vasos e para as plantas para árvores de fruto, da posição 06.02 C II, até 31 de Decembro de 1968.\n\nPara as plantas em vasos e as plantas para árvores de fruto, da posição 06.02 C II, o Conselho adoptará as medidas eventualmente necessárias no âmbito dos artigos 3o, 12o ou 18o do presente regulamento."
+  },
+  "5a0ec4395c59f26e": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nSob reserva de disposições contrárias do presente regulamento, os artigos 92o a 94o do Tratado são aplicáveis à produção e ao comércio dos produtos referidos no artigo 1o."
+  },
+  "a2175683ba1e20dd": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nO Conselho, deliberando segundo o procedimento previsto no no 2 do artigo 43o do Tratado, adoptará as medidas necessárias tendo em vista completar as disposições do presente regulamento em função da experiência adquirida."
+  },
+  "a63f51275dff8506": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. É instituído um Comité de Gestão das Plantas Vivas e dos Produtos de Floricultura, adiante denominado «Comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. No seio do Comité, atribui-se aos votos dos Estados-membros a ponderação prevista no no 2 do artigo 148o do Tratado. O presidente não toma parte na votação."
+  },
+  "8ca2f11431f42d06": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. No caso em que é feita referência ao procedimento definido no presente artigo, o Comité é convocado pelo seu presidente, quer por iniciativa deste, quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submete um projecto de medidas a tomar. O Comité emite o seu parecer sobre estas medidas num prazo que o presidente pode fixar em função da urgência das questões submetidas a exame. O Comité pronuncia-se por maioria de doze votos.\n\n3. A Comissão adopta medidas que são imediatamente aplicáveis. Todavia, se elas não estiverem em conformidade com o parecer emitido pelo Comité, estas medidas serão imediatamente comunicadas pela Comissão ao Conselho. Neste caso, a Comissão pode adiar por um mês, no máximo, a contar desta comunicação, a aplicação das medidas por ela decididas.\n\nO Conselho, deliberando segundo o procedimento de voto previsto no no 2 do artigo 43o do Tratado, pode tomar uma decisão diferente no prazo de um mês."
+  },
+  "a534ce4ba169c89a": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nO Comité pode examinar qualquer outra questão proposta pelo seu presidente, quer por iniciativa deste, quer a pedido do representante de um Estado-membro."
+  },
+  "e102fce0dd20ae6a": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nNo fim do período de transição, o Conselho, deliberando sob proposta da Comissão, segundo o procedimento de voto previsto no no 2 do artigo 43o do Tratado, decide, tendo em conta a experiência adquirida, a manutenção ou a modificação das disposições do artigo 14o."
+  },
+  "2cf2094132be355d": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nO presente regulamento deve ser aplicado de modo a ter em conta, paralelamente e de maneira adequada, os objectivos previstos nos artigos 39o e 110o do Tratado."
+  },
+  "02e3648d018d056f": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nO presente regulamento aplica-se sem prejuízo das disposições adoptadas ou a adoptar tendo em vista a aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros que têm por fim a manutenção ou o melhoramento do nível técnico ou genético da produção de certos produtos regidos pelo artigo 1o e destinados especificamente à reprodução."
+  },
+  "b1b4274790aab71b": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nO presente regulamento entra em vigor no terceiro dia a seguir ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é aplicável a partir de 1 de Julho de 1968.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 27 de Fevereiro de 1968.\n\nPelo Conselho\n\nO Presidente\n\nE. FAURE\n\n(1) JO no 156 de 15. 7. 1967, p. 27."
+  },
+  "da6190515d2ee320": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1968R0234 — PT — 01.01.2008 — 009.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31968R0234) [REGULAMENTO (CEE) N.º 234/68 DO CONSELHO](http://publications.europa.eu/resource/celex/31968R0234) [de 27 de Fevereiro de 1968](http://publications.europa.eu/resource/celex/31968R0234) [que estabelece uma organização comum de mercado no sector das plantas vivas e dos produtos de floricultura](http://publications.europa.eu/resource/celex/31968R0234) (JO L 055, 2.3.1968, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1234/2007 Do Conselho de 22 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1234) — L 299 — 1 — 16.11.2007"
+  }
+ }
+}

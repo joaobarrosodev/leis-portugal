@@ -37,6 +37,89 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: decisao-ue-2007-573.versoes.json
+  count: 5
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2007-06-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-06-17'
+    amending: eu:celex:32010D0458:por
+    amending_title: DECISÃO N. o 458/2010/UE DO PARLAMENTO EUROPEU E DO CONSELHO, de 19 de Maio de 2010,
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Acções elegíveis nos Estados-Membros
+    - Altera Artigo 4.º — Acções comunitárias
+    - Altera Artigo 12.º — Recursos globais
+    - Altera Artigo 29.º — Autoridade de certificação
+    - Altera Artigo 51.º — Relatório final sobre a execução do programa anual
+    - Altera Artigo 57.º — Destinatários
+    - Altera Notas
+  - date: '2012-03-31'
+    amending: eu:celex:32012D0281:por
+    amending_title: DECISÃO N. o 281/2012/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de março de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 13.º — Repartição anual dos recursos para as acções elegíveis nos Estados-Membros
+    - Altera Artigo 35.º — Elegibilidade — Declarações de despesas
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Lista das prioridades específicas comuns da União em matéria de reinstalação para 2013
+  - date: '2013-03-23'
+    amending: eu:celex:32013D0258:por
+    amending_title: DECISÃO N. o 258/2013/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 14.º — Estrutura do financiamento
+    - Altera Artigo 21.º — Disposições específicas aplicáveis às medidas de emergência
+    - Altera Notas
+  - date: '2014-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime OBJECTO, OBJECTIVOS E ACÇÕES
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Objectivo geral do Fundo
+    - Suprime Artigo 3.º — Acções elegíveis nos Estados-Membros
+    - Suprime Artigo 4.º — Acções comunitárias
+    - Suprime Artigo 5.º — Medidas de emergência
+    - Suprime Artigo 6.º — Grupos-alvo
+    - Suprime CAPÍTULO II
+    - Suprime PRINCÍPIOS DE INTERVENÇÃO
+    - Suprime Artigo 7.º — Complementaridade, coerência e conformidade
+    - Suprime Artigo 8.º — Programação
+    - Suprime Artigo 9.º — Intervenção subsidiária e proporcional
+    - Suprime Artigo 10.º — Métodos de execução
+    - Suprime Artigo 11.º — Parceria
+    - Suprime CAPÍTULO III
+    - Suprime QUADRO FINANCEIRO
+    - Suprime Artigo 12.º — Recursos globais
+    - Suprime Artigo 13.º — Repartição anual dos recursos para as acções elegíveis nos Estados-Membros
+    - Suprime Artigo 14.º — Estrutura do financiamento
+    - Suprime Artigo 15.º — Assistência técnica por iniciativa da Comissão
+    - Suprime Artigo 16.º — Assistência técnica por iniciativa dos Estados-Membros
+    - Suprime CAPÍTULO IV
+    - Suprime PROGRAMAÇÃO
+    - Suprime Artigo 17.º — Aprovação de directrizes estratégicas
+    - Suprime Artigo 18.º — Preparação e aprovação dos programas plurianuais nacionais
+    - Suprime Artigo 19.º — Revisão dos programas plurianuais
+    - Suprime Artigo 20.º — Programas anuais
+    - Suprime Artigo 21.º — Disposições específicas aplicáveis às medidas de emergência
+    - Suprime Artigo 22.º — Reanálise intercalar do programa plurianual
+    - Suprime CAPÍTULO V
+    - Suprime SISTEMAS DE GESTÃO E CONTROLO
+    - Suprime Artigo 23.º — Execução
+    - Suprime Artigo 24.º — Princípios gerais dos sistemas de gestão e controlo
+    - Suprime Artigo 25.º — Designação de autoridades
+    - Suprime Artigo 26.º — Autoridade responsável
+    - Suprime Artigo 27.º — Funções da autoridade responsável
+    - Suprime Artigo 28.º — Delegação de funções pela autoridade responsável
+    - Suprime Artigo 29.º — Autoridade de certificação
 identifiers:
   celex: 32007D0573
   eli: http://data.europa.eu/eli/dec/2007/573/oj
@@ -51,7 +134,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f93b21ee-9548-434c-8cc7-03ebb41c8650.0018
   content_url: http://publications.europa.eu/resource/cellar/5340384a-14d4-4cce-bf6e-c751fcce1e1d.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007D0573-20140101
-  retrieved_at: '2026-10-22T02:52:18Z'
+  retrieved_at: '2026-10-22T15:06:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T06:21:20.425+01:00'
 integrity:
@@ -60,9 +143,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:18Z'
-  notes: Texto consolidado 02007D0573-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:06:40Z'
+  notes: 5 versão(ões); histórico completo em decisao-ue-2007-573.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -184,16 +267,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:18Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:06:40Z'
+  warnings: []
   errors: []
 ---
 

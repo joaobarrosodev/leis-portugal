@@ -36,6 +36,61 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2003-07-25'
+version_history:
+  file: diretiva-ue-1997-33.versoes.json
+  count: 2
+  source_lastmod: '2003-07-25'
+  versions:
+  - date: '1997-07-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-07-25'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º — Âmbito e objectivo
+    - Suprime Artigo 2º — Definições
+    - Suprime Artigo 3º — Interligação a nível nacional e a nível comunitário
+    - Suprime Artigo 4º — Direitos e obrigações respeitantes à interligação
+    - Suprime Artigo 5º — Interligação e contribuições para o serviço universal
+    - Suprime Artigo 6º — Não discriminação e transparência
+    - Suprime Artigo 7º — Princípios aplicáveis aos encargos de interligação e aos sistemas de contabilização dos custos
+    - Suprime Artigo 8º — Separação de contas e relatórios de contas
+    - Suprime Artigo 9º — Responsabilidades gerais das autoridades reguladoras nacionais
+    - Suprime Artigo 10º — Requisitos essenciais
+    - Suprime Artigo 11º — Co-instalação e partilha de funcionalidades
+    - Suprime Artigo 12º — Numeração
+    - Suprime Artigo 13º — Normas técnicas
+    - Suprime Artigo 14º — Publicação de informações e acesso à informação
+    - Suprime Artigo 15º — Processo de comité consultivo
+    - Suprime Artigo 16º — Processo de comité de regulamentação
+    - Suprime Artigo 17º — Processo de resolução de litígios entre organizações que operam ao abrigo de autorizações emitidas
+      por diferentes Estados-membros
+    - Suprime Artigo 18º — Notificação
+    - Suprime Artigo 19º — Adaptação técnica
+    - Suprime Artigo 20º — Diferimento
+    - Suprime Artigo 21º — Interligação com organizações de países terceiros
+    - Suprime Artigo 22º — Revisão
+    - Suprime Artigo 23º — Transposição
+    - Suprime Artigo 24º — Entrada em vigor
+    - Suprime Artigo 25º — Destinatários
+    - Suprime ANEXO I — REDES PÚBLICAS E SERVIÇOS DE TELECOMUNICAÇÕES ACESSÍVEIS AO PÚBLICO ESPECÍFICOS
+    - Suprime Parte 1 — Rede telefónica pública fixa
+    - Suprime Parte 2 — Serviço de linhas alugadas
+    - Suprime Parte 3 — Redes telefónicos públicas móveis
+    - Suprime ANEXO II — ORGANIZAÇÕES COM DIREITOS E OBRIGAÇÕES DE NEGOCIAÇÃO DE INTERLIGAÇÃO ENTRE SI PARA GARANTIR SERVIÇOS
+      EM TODA A COMUNIDADE
+    - Suprime ANEXO III — CÁLCULO DO CUSTO DAS OBRIGAÇÕES DE SERVIÇO UNIVERSAL RELATIVAMENTE À TELEFONIA VOCAL
+    - Suprime ANEXO IV — LISTA DOS ELEMENTOS EXEMPLIFICATIVOS DE CÁLCULO DAS TAXAS DE INTERLIGAÇÃO
+    - Suprime ANEXO V — SISTEMAS DE CONTABILIZAÇÃO DOS CUSTOS DA INTERLIGAÇÃO
+    - Suprime ANEXO VI — LIMIARES DO VOLUME DE NEGÓCIOS EM TELECOMUNICAÇÕES
+    - Suprime Parte 1
+    - Suprime Parte 2
+    - Suprime ANEXO VII — QUADRO DE NEGOCIAÇÃO DOS ACORDOS DE INTERLIGAÇÃO
+    - Suprime Parte 1 — Domínios em que a autoridade reguladora nacional pode fixar condições prévias
+    - Suprime Parte 2 — Outras questões cuja inclusão nos acordos de interligação deve ser incentivada
 identifiers:
   celex: 31997L0033
   eli: http://data.europa.eu/eli/dir/1997/33/oj
@@ -50,7 +105,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2443d74f-6aef-4b74-90ee-2e766d96d14a.0011
   content_url: http://publications.europa.eu/resource/cellar/5102bd88-5290-44b3-9daa-a07f7cae0628.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997L0033-20030725
-  retrieved_at: '2026-10-22T02:56:24Z'
+  retrieved_at: '2026-10-22T14:46:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T21:34:53.045+01:00'
 integrity:
@@ -59,9 +114,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:24Z'
-  notes: Texto consolidado 01997L0033-20030725.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:00Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1997-33.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -160,16 +215,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:24Z'
+  checked_at: '2026-10-22T14:46:00Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01997L0033-19981003: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

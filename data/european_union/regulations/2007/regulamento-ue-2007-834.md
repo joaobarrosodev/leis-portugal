@@ -35,6 +35,115 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-01-01'
+version_history:
+  file: regulamento-ue-2007-834.versoes.json
+  count: 4
+  source_lastmod: '2022-01-01'
+  versions:
+  - date: '2007-07-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-10-10'
+    amending: eu:celex:32008R0967:por
+    amending_title: REGULAMENTO (CE) N. o 967/2008 DO CONSELHO de 29 de Setembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Adita Artigo 28.º
+    - Adita Artigo 29.º
+    - Adita Artigo 30.º
+    - Adita Artigo 31.º
+    - Adita Artigo 32.º
+    - Adita Artigo 33.º
+    - Adita Artigo 34.º
+    - Adita Artigo 35.º
+    - Adita Artigo 36.º
+    - Adita Artigo 37.º
+    - Adita Artigo 38.º
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera TERMOS A QUE SE REFERE O N.º 1 DO ARTIGO 23.º
+    - Altera Notas
+  - date: '2022-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime OBJECTIVO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime TÍTULO II
+    - Suprime OBJECTIVOS E PRINCÍPIOS DA PRODUÇÃO BIOLÓGICA
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime TÍTULO III
+    - Suprime REGRAS DE PRODUÇÃO
+    - Suprime CAPÍTULO 1
+    - Suprime Regras gerais aplicáveis à produção
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime CAPÍTULO 2
+    - Suprime Produção agrícola
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime CAPÍTULO 3
+    - Suprime Produção de alimentos transformados para animais
+    - Suprime Artigo 18.º
+    - Suprime CAPÍTULO 4
+    - Suprime Produção de géneros alimentícios transformados
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime CAPÍTULO 5
+    - Suprime Flexibilidade
+    - Suprime Artigo 22.º
+    - Suprime TÍTULO IV
 identifiers:
   celex: 32007R0834
   eli: http://data.europa.eu/eli/reg/2007/834/oj
@@ -49,7 +158,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/04596ed5-455b-4ef2-8c0e-50f6ebfe3835.0018
   content_url: http://publications.europa.eu/resource/cellar/eea08c10-b6fe-11ec-b6f4-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0834-20220101
-  retrieved_at: '2026-10-22T02:37:32Z'
+  retrieved_at: '2026-10-22T15:09:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T08:58:27.927+01:00'
 integrity:
@@ -58,9 +167,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:32Z'
-  notes: Texto consolidado 02007R0834-20220101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:09:11Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2007-834.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -288,16 +397,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:32Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:09:11Z'
+  warnings: []
   errors: []
 ---
 

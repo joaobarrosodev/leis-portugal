@@ -33,6 +33,50 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-12-12'
+version_history:
+  file: diretiva-ue-1991-689.versoes.json
+  count: 3
+  source_lastmod: '2010-12-12'
+  versions:
+  - date: '2006-02-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-12'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime ANEXO I
+    - Suprime CATEGORIAS OU TIPOS GENÉRICOS DE RESÍDUOS PERIGOSOS CARACTERIZADOS PELA SUA NATUREZA OU PELA ACTIVIDADE DE QUE
+      RESULTAM ([^11^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0011))
+      (OS RESÍDUOS PODEM APRESENTAR-SE SOB FORMA LÍQUIDA, SÓLIDA OU PASTOSA)
+    - Suprime ANEXO I A
+    - Suprime ANEXO I B
+    - Suprime ANEXO II
+    - Suprime ELEMENTOS QUE CONFEREM CARÁCTER PERIGOSO AOS RESÍDUOS DO ANEXO I B QUANDO ESTES APRESENTAM QUALQUER DAS CARACTERÍSTICAS
+      DO ANEXO III ([^12^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0012))
+    - Suprime ANEXO III
+    - Suprime CARACTERÍSTICAS DE PERIGO ATRIBUÍVEIS AOS RESÍDUOS
+    - Suprime Notas
+    - Suprime Métodos de ensaio
+  - date: '2010-12-12'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
 identifiers:
   celex: 31991L0689
   eli: http://data.europa.eu/eli/dir/1991/689/oj
@@ -47,7 +91,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/36b8e69c-e1be-4b66-80c7-8b366b5a2540.0011
   content_url: http://publications.europa.eu/resource/cellar/3f7652aa-d93e-4a3a-91eb-d26acd08c96c.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0689-20101212
-  retrieved_at: '2026-10-22T02:36:13Z'
+  retrieved_at: '2026-10-22T14:39:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T10:33:48.962+01:00'
 integrity:
@@ -56,9 +100,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:13Z'
-  notes: Texto consolidado 01991L0689-20101212.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:39:41Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1991-689.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -228,16 +272,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:13Z'
+  checked_at: '2026-10-22T14:39:41Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01991L0689-19911219: versão indisponível (Sem expressão na língua por para CELEX 01991L0689-19911219.)'
+  - '01991L0689-19940722: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

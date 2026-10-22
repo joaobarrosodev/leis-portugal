@@ -34,6 +34,62 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-01-01'
+version_history:
+  file: regulamento-ue-1968-827.versoes.json
+  count: 3
+  source_lastmod: '2008-01-01'
+  versions:
+  - date: '1968-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-07-01'
+    amending: eu:celex:31971R2727:por
+    amending_title: M1; M2; M3; M4; M5; M6; M7; M8; M9; M10; M11; M12; M13; M14; M15; M16; Regulamento (CE) n o 3290/94 do
+      Conselho de 22 de Dezembro de 1994; M18; REGULAMENTO (CE) N. o 1272/2002 DA COMISSÃO de 12 de Julho de 2002; REGULAMENTO
+      (CE) N. o 865/2004 DO CONSELHO de 29 de Abril de 2004; Acto de Adesão da Áustria, da Finlândia e da Suécia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1º
+    - Adita Artigo 2º
+    - Adita Artigo 3º
+    - Adita Artigo 4º
+    - Adita Artigo 5º
+    - Adita Artigo 6º
+    - Adita Artigo 7º
+    - Adita Artigo 8º
+    - Adita Artigo 9º
+    - Adita Artigo 10º
+    - Adita ANEXO
+    - Adita Notas
+    - Suprime Artigo 1º.
+    - Suprime Artigo 2º.
+    - Suprime Artigo 3º.
+    - Suprime Artigo 4º.
+    - Suprime Artigo 5º.
+    - Suprime Artigo 6º.
+    - Suprime Artigo 7º.
+    - Suprime Artigo 8º.
+    - Suprime Artigo 9º.
+    - Suprime Artigo 10º.
+    - Suprime ANEXO — >PIC FILE= "T0001825""PIC FILE= "T0001826">
+  - date: '2008-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime ANEXO
+    - Suprime Notas
 identifiers:
   celex: 31968R0827
   eli: http://data.europa.eu/eli/reg/1968/827/oj
@@ -48,7 +104,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/444e0f73-04d2-44f6-bfca-e38930911bda.0011
   content_url: http://publications.europa.eu/resource/cellar/a1273ef6-6e95-4ab3-bb86-e4af7659f6e6.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01968R0827-20080101
-  retrieved_at: '2026-10-22T02:49:38Z'
+  retrieved_at: '2026-10-22T14:29:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T23:49:20.061+01:00'
 integrity:
@@ -57,9 +113,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:38Z'
-  notes: Texto consolidado 01968R0827-20080101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:29:23Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1968-827.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -264,16 +320,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:38Z'
+  checked_at: '2026-10-22T14:29:23Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01968R0827-19960101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01968R0827-20020720: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

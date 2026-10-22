@@ -1,0 +1,1331 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008R0300:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0300-20260802",
+ "dre_path": null,
+ "source_lastmod": "2026-08-02",
+ "versions": [
+  {
+   "date": "2008-04-09",
+   "future": false,
+   "celex": "32008R0300",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9c57b3d449be02f6",
+    "0e0853fba0f2b65b",
+    "a1e2e595b1f96404",
+    "b87215b0252670cc",
+    "9680c6bd80a31714",
+    "c3e68b6293dbf290",
+    "ac487633c1d11b64",
+    "23b283c54567f63f",
+    "af6be804ada320bb",
+    "8427b36677ecc2a5",
+    "413b24bf20759755",
+    "fd155aa6a6389c70",
+    "717f09b4d93df48d",
+    "704a163f839cf6f5",
+    "7dc36ff62c5bbb64",
+    "44170ecb5a08ed40",
+    "1482376398f03d5c",
+    "8252577e3a20dbd2",
+    "97bb02fef8d76ada",
+    "5565163c0ffda75e",
+    "fbb8a26f8f2c2325",
+    "ee72b1a974073f40",
+    "f069909162ee4ad6",
+    "d7bf42bc0e763fb2",
+    "8be7a43bf3266efc",
+    "04eb62c20fc07e4a"
+   ]
+  },
+  {
+   "date": "2026-02-23",
+   "future": false,
+   "celex": "02008R0300-20260223",
+   "acts": [
+    {
+     "id": "eu:celex:32010R0018:por",
+     "title": "REGULAMENTO (UE) N. o 18/2010 DA COMISSÃO de 8 de Janeiro de 2010",
+     "published": null,
+     "celex": "32010R0018"
+    },
+    {
+     "id": "eu:celex:32026R0247:por",
+     "title": "REGULAMENTO (UE) 2026/247 DA COMISSÃO de 2 de fevereiro de 2026",
+     "published": null,
+     "celex": "32026R0247"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Definições",
+    "Altera Artigo 24.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita [►M1](http://publications.europa.eu/resource/celex/32010R0018) ANEXO I◄",
+    "Adita NORMAS DE BASE COMUNS DE PROTECÇÃO DA AVIAÇÃO CIVIL CONTRA ACTOS DE INTERFERÊNCIA ILÍCITA (ARTIGO 4.º)",
+    "Adita 1. SEGURANÇA DO AEROPORTO",
+    "Adita 1.1. Requisitos de planeamento aeroportuário",
+    "Adita 1.2. Controlo do acesso",
+    "Adita 1.3. Rastreio de pessoas que não sejam passageiros e dos objectos que transportem",
+    "Adita 1.4. Controlo dos veículos",
+    "Adita 1.5. Vigilância, rondas e outros controlos físicos",
+    "Adita 2. ZONAS DEMARCADAS DOS AEROPORTOS",
+    "Adita 3. SEGURANÇA DAS AERONAVES",
+    "Adita 4. PASSAGEIROS E BAGAGEM DE CABINA",
+    "Adita 4.1. Rastreio dos passageiros e da bagagem de cabina",
+    "Adita 4.2. Protecção dos passageiros e da bagagem de cabina",
+    "Adita 4.3. Passageiros potencialmente causadores de distúrbios",
+    "Adita 5. BAGAGEM DE PORÃO",
+    "Adita 5.1. Rastreio da bagagem de porão",
+    "Adita 5.2. Protecção da bagagem de porão",
+    "Adita 5.3. Reconciliação da bagagem",
+    "Adita 6. CARGA E CORREIO",
+    "Adita 6.1. Controlos de segurança aplicáveis à carga e ao correio",
+    "Adita 6.2. Protecção da carga e do correio",
+    "Adita 7. CORREIO E MATERIAL DA TRANSPORTADORA AÉREA",
+    "Adita 8. PROVISÕES DE BORDO",
+    "Adita 9. PROVISÕES DO AEROPORTO",
+    "Adita 10. MEDIDAS DE SEGURANÇA DURANTE O VOO",
+    "Adita 11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL",
+    "Adita 12. EQUIPAMENTOS DE SEGURANÇA",
+    "Adita ANEXO II",
+    "Adita Especificações comuns para o programa nacional de controlo da qualidade a aplicar por cada Estado-Membro no domínio da segurança da aviação civil",
+    "Adita 1. DEFINIÇÕES",
+    "Adita 2. PODERES DA AUTORIDADE COMPETENTE",
+    "Adita 3. OBJETIVOS E CONTEÚDO DO PROGRAMA NACIONAL DE CONTROLO DA QUALIDADE",
+    "Adita 4. CONTROLO DA CONFORMIDADE",
+    "Adita 5. METODOLOGIA",
+    "Adita 6. AUDITORIAS À SEGURANÇA",
+    "Adita 7. INSPEÇÕES",
+    "Adita 8. TESTES",
+    "Adita 9. INQUÉRITOS",
+    "Adita 10. APRESENTAÇÃO DE RELATÓRIOS SOBRE AS ATIVIDADES DE CONTROLO DA CONFORMIDADE",
+    "Adita 11. CLASSIFICAÇÃO COMUM DO GRAU DE CONFORMIDADE",
+    "Adita 12. CORREÇÃO DE DEFICIÊNCIAS",
+    "Adita 13. ATIVIDADES DE ACOMPANHAMENTO ASSOCIADAS À VERIFICAÇÃO DA CORREÇÃO",
+    "Adita 14. DISPONIBILIDADE DE AUDITORES",
+    "Adita 15. CRITÉRIOS DE QUALIFICAÇÃO DOS AUDITORES",
+    "Adita 16. PODERES DOS AUDITORES",
+    "Adita 17. MELHORES PRÁTICAS",
+    "Adita 18. APRESENTAÇÃO DE RELATÓRIOS À COMISSÃO SOBRE AS ATIVIDADES DE CONTROLO DA CONFORMIDADE",
+    "Adita 19. COMUNICAÇÃO DE OCORRÊNCIAS, INCIDENTES, ATOS DE INTERFERÊNCIA ILÍCITA E RESPETIVOS ATOS PREPARATÓRIOS NO DOMÍNIO DA SEGURANÇA DA AVIAÇÃO",
+    "Adita Apêndice I",
+    "Adita Elementos a incluir no conjunto de medidas de segurança diretamente relacionadas",
+    "Adita Para o ponto 1 — Segurança do aeroporto:",
+    "Adita Para o ponto 2 — Zonas demarcadas dos aeroportos:",
+    "Adita Para o ponto 3 — Segurança das aeronaves:",
+    "Adita Para o ponto 4 — Passageiros e bagagem de cabina:",
+    "Adita Para o ponto 5 — Bagagem de porão:",
+    "Adita Para o ponto 6 — Carga e correio:",
+    "Adita Para o ponto 7 — Correio e material da transportadora aérea:",
+    "Adita Para o ponto 8 — Provisões de bordo:",
+    "Adita Para o ponto 9 — Provisões do aeroporto:",
+    "Adita Para o ponto 10 — Medidas de segurança durante o voo:",
+    "Adita Para o ponto 11 — Recrutamento e formação do pessoal:",
+    "Adita Apêndice II",
+    "Adita Sistema harmonizado de classificação do grau de conformidade",
+    "Adita Apêndice III",
+    "Adita CONTEÚDO DO RELATÓRIO À COMISSÃO",
+    "Adita 1. Estrutura organizativa, responsabilidades e recursos",
+    "Adita 2. Atividades de controlo das operações",
+    "Adita 3. Atividades de correção de deficiências",
+    "Adita 4. Dados e tendências gerais",
+    "Adita 5. Situação em matéria de segurança da aviação nos aeroportos",
+    "Adita Apêndice IV",
+    "Adita Modelo para a comunicação de informações sobre ocorrências e incidentes de segurança ([^2^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0002))",
+    "Adita Apêndice V",
+    "Adita Classificação comum de ocorrências e incidentes de segurança ([^10^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0010))"
+   ],
+   "fragments": [
+    "774f4435587a7aee",
+    "c5b6e4ef335e6c4f",
+    "cf66df4819dd6cad",
+    "2ed640b98ee00b1b",
+    "7254f2177f74ea0d",
+    "c3e68b6293dbf290",
+    "ac487633c1d11b64",
+    "d87ce1445fac45f4",
+    "af6be804ada320bb",
+    "8427b36677ecc2a5",
+    "dd82393439bb5786",
+    "3139262ccdbfb395",
+    "c7d11b6af412be91",
+    "ea2423973bc74875",
+    "435b89a404cdc5b8",
+    "6ecf03ae3ffc7e3c",
+    "1482376398f03d5c",
+    "8252577e3a20dbd2",
+    "97bb02fef8d76ada",
+    "44ae87109ddff6b6",
+    "fbb8a26f8f2c2325",
+    "ee72b1a974073f40",
+    "f069909162ee4ad6",
+    "d7bf42bc0e763fb2",
+    "a0e0d68b06127068",
+    "ca49f9aadf6c2109",
+    "927f94756f1944e4",
+    "d1aa029bbbaa2111",
+    "b1f58ec940b28100",
+    "da720c990fa044f5",
+    "e47239f51f6141d6",
+    "f205eb276be58cc2",
+    "daa2f0144d3f47bc",
+    "781e995441ad3e2f",
+    "3416389251430e32",
+    "5b7f6e516e2911bc",
+    "cf3ae085fa0da83d",
+    "b23cc87a01e2d155",
+    "a05524b73745750f",
+    "95c6b9b6838217d2",
+    "054efa85e7ed2f26",
+    "ac762190afcce4e6",
+    "323d55a3229d90af",
+    "e52235e9fd50eafe",
+    "359d3d80498e87fa",
+    "d6018d41d7932f8d",
+    "616e5c0175a23ca1",
+    "ada4ef4529d48da5",
+    "fda9b3418545dc5a",
+    "02f08052a400b4eb",
+    "05b3b9254773ac6e",
+    "2a707130b0b9a6de",
+    "852174729551523b",
+    "5c607074b2d3786e",
+    "73ccc6a43c5c2d1f",
+    "5c2533568bc58f22",
+    "b9cccaa6d7c9a14a",
+    "711c6f379c71b769",
+    "fdb1c36f172d88b0",
+    "ce43f8039d013146",
+    "723991346ab6e530",
+    "02a20e276c139740",
+    "f0c58688c4797be0",
+    "9a5df3b569c0ec57",
+    "6acd1560ce93c243",
+    "af54cad204d516f6",
+    "01754b1da89cd953",
+    "0ece773417550f4d",
+    "0b1089c6017462a1",
+    "380d3f85a053a924",
+    "9f650e3d7a083480",
+    "0bef3b3613d2c063",
+    "e47838e25cc43b7d",
+    "6210b56d3a422046",
+    "273697d327adbcf3",
+    "aa272ad357a606d1",
+    "c69a969e647bed5d",
+    "86b847e7bc122e3d",
+    "9a727086a647a63b",
+    "cc84aab14d77ef49",
+    "024b68fc7851d63f",
+    "3444774fb249e212",
+    "6a8ba6c25200502e",
+    "0076f5606e5d94ba",
+    "cae25bbdb12d3439",
+    "e8e9136ab968277f",
+    "f23f0836b108367d",
+    "9e233e6c8f7a6831",
+    "83d5c4bcf6edba8a",
+    "e7f5cd663ce11ad7",
+    "a2d0e038131dac2d",
+    "ba448dec16bdb3c2",
+    "b9ec58706a57bb5c",
+    "d86cb65f783a67c2",
+    "4316cfea61361934",
+    "e64e615304283494",
+    "8f91c3fcf2a05493",
+    "efdc1d0e5e7b5c07",
+    "889bf4592c32f386",
+    "96db06f06cada49f"
+   ]
+  },
+  {
+   "date": "2026-08-02",
+   "future": false,
+   "celex": "02008R0300-20260802",
+   "acts": [
+    {
+     "id": "eu:celex:32024R1689:por",
+     "title": "REGULAMENTO (UE) 2024/1689 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024",
+     "published": null,
+     "celex": "32024R1689"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º — Definições",
+    "Altera Artigo 4.º — Normas de base comuns",
+    "Altera Notas",
+    "Adita Modelo para a comunicação de informações sobre ocorrências e incidentes de segurança ([^3^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0003))",
+    "Adita Classificação comum de ocorrências e incidentes de segurança ([^11^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0011))",
+    "Suprime Modelo para a comunicação de informações sobre ocorrências e incidentes de segurança ([^2^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0002))",
+    "Suprime Classificação comum de ocorrências e incidentes de segurança ([^10^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0010))"
+   ],
+   "fragments": [
+    "774f4435587a7aee",
+    "c5b6e4ef335e6c4f",
+    "cf66df4819dd6cad",
+    "6e466e99a1aa6ac5",
+    "70549d0715ddcfd1",
+    "c3e68b6293dbf290",
+    "ac487633c1d11b64",
+    "d87ce1445fac45f4",
+    "af6be804ada320bb",
+    "8427b36677ecc2a5",
+    "dd82393439bb5786",
+    "3139262ccdbfb395",
+    "c7d11b6af412be91",
+    "ea2423973bc74875",
+    "435b89a404cdc5b8",
+    "6ecf03ae3ffc7e3c",
+    "1482376398f03d5c",
+    "8252577e3a20dbd2",
+    "97bb02fef8d76ada",
+    "44ae87109ddff6b6",
+    "fbb8a26f8f2c2325",
+    "ee72b1a974073f40",
+    "f069909162ee4ad6",
+    "d7bf42bc0e763fb2",
+    "a0e0d68b06127068",
+    "ca49f9aadf6c2109",
+    "927f94756f1944e4",
+    "d1aa029bbbaa2111",
+    "b1f58ec940b28100",
+    "da720c990fa044f5",
+    "e47239f51f6141d6",
+    "f205eb276be58cc2",
+    "daa2f0144d3f47bc",
+    "781e995441ad3e2f",
+    "3416389251430e32",
+    "5b7f6e516e2911bc",
+    "cf3ae085fa0da83d",
+    "b23cc87a01e2d155",
+    "a05524b73745750f",
+    "95c6b9b6838217d2",
+    "054efa85e7ed2f26",
+    "ac762190afcce4e6",
+    "323d55a3229d90af",
+    "e52235e9fd50eafe",
+    "359d3d80498e87fa",
+    "d6018d41d7932f8d",
+    "616e5c0175a23ca1",
+    "ada4ef4529d48da5",
+    "fda9b3418545dc5a",
+    "02f08052a400b4eb",
+    "05b3b9254773ac6e",
+    "2a707130b0b9a6de",
+    "852174729551523b",
+    "5c607074b2d3786e",
+    "73ccc6a43c5c2d1f",
+    "5c2533568bc58f22",
+    "b9cccaa6d7c9a14a",
+    "711c6f379c71b769",
+    "fdb1c36f172d88b0",
+    "ce43f8039d013146",
+    "723991346ab6e530",
+    "02a20e276c139740",
+    "f0c58688c4797be0",
+    "9a5df3b569c0ec57",
+    "6acd1560ce93c243",
+    "af54cad204d516f6",
+    "01754b1da89cd953",
+    "0ece773417550f4d",
+    "0b1089c6017462a1",
+    "380d3f85a053a924",
+    "9f650e3d7a083480",
+    "0bef3b3613d2c063",
+    "e47838e25cc43b7d",
+    "6210b56d3a422046",
+    "273697d327adbcf3",
+    "aa272ad357a606d1",
+    "c69a969e647bed5d",
+    "86b847e7bc122e3d",
+    "9a727086a647a63b",
+    "cc84aab14d77ef49",
+    "024b68fc7851d63f",
+    "3444774fb249e212",
+    "6a8ba6c25200502e",
+    "0076f5606e5d94ba",
+    "cae25bbdb12d3439",
+    "e8e9136ab968277f",
+    "f23f0836b108367d",
+    "9e233e6c8f7a6831",
+    "83d5c4bcf6edba8a",
+    "e7f5cd663ce11ad7",
+    "a2d0e038131dac2d",
+    "ba448dec16bdb3c2",
+    "b9ec58706a57bb5c",
+    "d86cb65f783a67c2",
+    "4316cfea61361934",
+    "e64e615304283494",
+    "a9622eee935edfbe",
+    "efdc1d0e5e7b5c07",
+    "23f9049a5e5861bf",
+    "3d1d291276b1ade7"
+   ]
+  }
+ ],
+ "fragments": {
+  "9c57b3d449be02f6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Março de 2008\n\nrelativo ao estabelecimento de regras comuns no domínio da segurança da aviação civil e que revoga o Regulamento (CE) n.º 2320/2002\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 2 do artigo 80.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/da45f838-cc98-4788-be3b-2ac0a9768ae1.0019.02/DOC_1#ntr1-L_2008097PT.01007201-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/da45f838-cc98-4788-be3b-2ac0a9768ae1.0019.02/DOC_1#ntr2-L_2008097PT.01007201-E0002), tendo em conta o projecto comum aprovado em 16 de Janeiro de 2008 pelo Comité de Conciliação,\n\nConsiderando o seguinte:\n\n(1) Para proteger pessoas e bens na União Europeia, é necessário obstar à prática de actos de interferência ilícita nas aeronaves civis que ponham em causa a segurança da aviação civil, através do estabelecimento de regras comuns de protecção da aviação civil. Este objectivo deverá ser alcançado mediante a fixação de regras e normas de base comuns de segurança da aviação, bem como de mecanismos de controlo do seu cumprimento.\n\n(2) No interesse geral da segurança da aviação civil, é conveniente estabelecer uma base que permita uma interpretação comum do anexo 17 da Convenção de Chicago sobre a Aviação Civil Internacional, de 7 de Dezembro de 1944.\n\n(3) O Regulamento (CE) n.º 2320/2002 do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2002, relativo ao estabelecimento de regras comuns no domínio da segurança da aviação civil [([^3])](http://publications.europa.eu/resource/cellar/da45f838-cc98-4788-be3b-2ac0a9768ae1.0019.02/DOC_1#ntr3-L_2008097PT.01007201-E0003), foi aprovado na sequência dos acontecimentos ocorridos nos Estados Unidos em 11 de Setembro de 2001. É necessária uma abordagem comum no domínio da segurança da aviação civil e deverão ser estudados os meios mais eficazes de dar assistência após actos terroristas com grande impacto no sector dos transportes.\n\n(4) É necessário rever o Regulamento (CE) n.º 2320/2002 à luz da experiência adquirida, devendo o mesmo ser revogado e substituído pelo presente regulamento tendo em vista a simplificação, harmonização e clarificação das regras existentes e o aumento dos níveis de segurança.\n\n(5) Atendendo a que é necessária maior flexibilidade na adopção de medidas e procedimentos de segurança para dar resposta à evolução das avaliações de risco e permitir a introdução das novas tecnologias, o presente regulamento deverá estabelecer os princípios de base das medidas a adoptar para proteger a aviação civil contra actos de interferência ilícita, omitindo os pormenores técnicos e processuais de aplicação desses princípios.\n\n(6) O presente regulamento deverá aplicar-se aos aeroportos que servem a aviação civil situados no território dos Estados-Membros, aos operadores que prestam serviços nesses aeroportos e às entidades que fornecem bens e/ou prestam serviços a esses aeroportos ou através deles.\n\n(7) Sem prejuízo da Convenção referente às Infracções e a Certos Outros Actos Cometidos a Bordo de Aeronaves (Tóquio, 1963), da Convenção para a Repressão da Captura Ilícita de Aeronaves (Haia, 1970) e da Convenção para a Repressão de Actos Ilícitos contra a Segurança da Aviação Civil (Montreal, 1971), o presente regulamento deverá igualmente abranger as medidas de segurança aplicáveis a bordo, ou durante o voo, de aeronaves de transportadoras aéreas comunitárias.\n\n(8) Cada Estado-Membro é competente para decidir se coloca agentes de segurança a bordo de aeronaves registadas nesse Estado-Membro e nos voos das transportadoras aéreas por ele licenciadas, bem como para assegurar, em conformidade com o ponto 4.7.7 do anexo 17 da Convenção de Chicago sobre a Aviação Civil Internacional e nos termos dessa Convenção, que esses agentes sejam agentes governamentais especialmente seleccionados e formados, tendo em conta as condições de segurança exigidas a bordo das aeronaves.\n\n(9) Os vários tipos de actividades de aviação civil não estão necessariamente sujeitos ao mesmo grau de ameaça. Ao estabelecer normas de base comuns de segurança da aviação, deverão ser tidas em conta as dimensões da aeronave, a natureza da operação e/ou a frequência das operações nos aeroportos, por forma a permitir a concessão de isenções.\n\n(10) Deverá igualmente ser permitido que, com base numa avaliação de risco, os Estados-Membros apliquem medidas mais restritivas do que as estabelecidas no presente regulamento.\n\n(11) Os países terceiros podem exigir a aplicação de medidas distintas das estabelecidas no presente regulamento aos voos que partam de um aeroporto de um Estado-Membro com destino ao país terceiro em causa ou que sobrevoem o território deste último. No entanto, sem prejuízo de eventuais acordos bilaterais em que a Comunidade seja parte, a Comissão deverá ter a possibilidade de examinar as medidas exigidas pelo país terceiro.\n\n(12) Apesar de, num Estado-Membro, dois ou mais organismos poderem desempenhar funções no domínio da segurança da aviação, cada Estado-Membro deverá designar uma única autoridade responsável pela coordenação e controlo da aplicação das normas de segurança.\n\n(13) A fim de definir as responsabilidades pela aplicação das normas de base comuns de segurança da aviação e de enunciar as medidas exigidas aos operadores e a outras entidades para esse efeito, cada Estado-Membro deverá elaborar um programa nacional de segurança da aviação civil. Além disso, cada operador aeroportuário, transportadora aérea e entidade que aplique normas de segurança da aviação deverão elaborar, aplicar e manter um programa de segurança de modo a garantir o cumprimento das disposições do presente regulamento e de qualquer programa nacional de segurança da aviação civil aplicável.\n\n(14) A fim de controlar o cumprimento das disposições do presente regulamento e do programa nacional de segurança da aviação civil, cada Estado-Membro deverá elaborar um programa nacional destinado a verificar o nível e a qualidade da segurança da aviação civil, e assegurar a sua aplicação.\n\n(15) A fim de controlar a aplicação das disposições do presente regulamento pelos Estados-Membros, e também para formular recomendações destinadas a melhorar a segurança da aviação, a Comissão deverá efectuar inspecções, incluindo inspecções sem aviso prévio.\n\n(16) Como regra geral, a Comissão deverá publicar medidas que tenham um impacto directo nos passageiros. Os actos de execução que estabeleçam medidas e procedimentos comuns para a aplicação das normas de base comuns de segurança da aviação que contenham informações de segurança sensíveis, assim como os relatórios de inspecção da Comissão e as respostas das autoridades competentes, deverão ser considerados «informações classificadas da União Europeia» na acepção da Decisão 2001/844/CE, CECA, Euratom da Comissão, de 29 de Novembro de 2001, que altera o seu Regulamento Interno [([^4])](http://publications.europa.eu/resource/cellar/da45f838-cc98-4788-be3b-2ac0a9768ae1.0019.02/DOC_1#ntr4-L_2008097PT.01007201-E0004). Tais documentos não deverão ser publicados e só deverão ser facultados aos operadores e às entidades que neles tenham um interesse legítimo.\n\n(17) As medidas necessárias à execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^5])](http://publications.europa.eu/resource/cellar/da45f838-cc98-4788-be3b-2ac0a9768ae1.0019.02/DOC_1#ntr5-L_2008097PT.01007201-E0005).\n\n(18) Em especial, deverá ser atribuída competência à Comissão para aprovar medidas gerais destinadas a alterar elementos não essenciais das normas de base comuns completando-as, para estabelecer critérios que permitam aos Estados-Membros derrogar as normas de base comuns e adoptar medidas de segurança alternativas, e para aprovar especificações para os programas nacionais de controlo da qualidade. Atendendo a que têm alcance geral e se destinam a alterar elementos não essenciais do presente regulamento completando-o mediante o aditamento de novos elementos não essenciais, essas medidas devem ser aprovadas pelo procedimento de regulamentação com controlo previsto no artigo 5.º-A da Decisão 1999/468/CE.\n\n(19) Quando, por imperativos de urgência, os prazos normalmente aplicáveis no âmbito do procedimento de regulamentação com controlo não possam ser cumpridos, a Comissão deverá poder aplicar o procedimento de urgência previsto no n.º 6 do artigo 5.º-A da Decisão 1999/468/CE, para a aprovação de regras comuns para a protecção da aviação civil.\n\n(20) Deverá ser promovido o objectivo de criar um «ponto de segurança único» para todos os voos na União Europeia.\n\n(21) Além disso, não deverá ser necessário rastrear de novo os passageiros ou a sua bagagem à chegada a um aeroporto em voos provenientes de países terceiros que tenham normas de segurança da aviação equivalentes às estabelecidas no presente regulamento. Por conseguinte, sem prejuízo do direito que assiste a cada Estado-Membro de aplicar medidas mais restritivas e das competências respectivas da Comunidade e dos seus Estados-Membros, deverão ser encorajadas as decisões da Comissão e, se necessário, os acordos entre a Comunidade e os países terceiros que reconheçam que as normas de segurança aplicadas no país terceiro são equivalentes às normas comunitárias, visto que favorecem o ponto de segurança único.\n\n(22) O presente regulamento não prejudica a aplicação de regras de segurança da aviação, nomeadamente das que digam respeito ao transporte de mercadorias perigosas.\n\n(23) Deverão ser previstas sanções para os casos de violação das disposições do presente regulamento. Essas sanções, que poderão ser de carácter civil ou administrativo, deverão ser efectivas, proporcionadas e dissuasivas.\n\n(24) A Declaração Ministerial sobre o Aeroporto de Gibraltar, acordada em Córdova em 18 de Setembro de 2006, durante a primeira reunião ministerial do Fórum de Diálogo sobre Gibraltar, substituirá a Declaração Conjunta sobre o Aeroporto de Gibraltar, feita em Londres em 2 de Dezembro de 1987, e o pleno cumprimento desta declaração será considerado como cumprimento da Declaração de 1987.\n\n(25) Atendendo a que os objectivos do presente regulamento, a saber, proteger a aviação civil contra actos de interferência ilícita e criar uma base para uma interpretação comum do anexo 17 da Convenção de Chicago sobre a Aviação Civil Internacional, não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, devido à dimensão e aos efeitos do presente regulamento, ser melhor alcançados ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para alcançar aqueles objectivos,\n\nAPROVARAM O PRESENTE REGULAMENTO:"
+  },
+  "0e0853fba0f2b65b": {
+   "fragment_id": "Artigo 1.º — Objectivos",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos\n\n1. O presente regulamento estabelece regras comuns para a protecção da aviação civil contra actos de interferência ilícita que ponham em causa a segurança da aviação civil.\n\nO presente regulamento estabelece igualmente a base para uma interpretação comum do anexo 17 da Convenção de Chicago sobre a Aviação Civil Internacional.\n\n2. Os meios para a consecução dos objectivos estabelecidos no n.º 1 são os seguintes:\n\na) Estabelecimento de regras e normas de base comuns de segurança da aviação;\n\nb) Mecanismos de controlo do cumprimento."
+  },
+  "a1e2e595b1f96404": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento aplica-se:\n\na) A todos os aeroportos ou partes de aeroportos situados no território dos Estados-Membros, que não sejam exclusivamente utilizados para fins militares;\n\nb) A todos os operadores, incluindo transportadoras aéreas, que prestem serviços nos aeroportos referidos na alínea a);\n\nc) A todas as entidades que apliquem normas de segurança da aviação, que operem a partir de instalações situadas no interior ou no exterior das instalações aeroportuárias e que forneçam bens e/ou prestem serviços aos aeroportos referidos na alínea a) ou através desses aeroportos.\n\n2. A aplicação do presente regulamento ao aeroporto de Gibraltar entende-se sem prejuízo das posições jurídicas do Reino de Espanha e do Reino Unido relativamente ao diferendo sobre a soberania do território em que o aeroporto se encontra situado."
+  },
+  "b87215b0252670cc": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Aviação civil», as operações aéreas efectuadas por aeronaves civis, excluindo as operações realizadas por aeronaves estatais referidas no artigo 3.º da Convenção de Chicago sobre a Aviação Civil Internacional;\n\n2) «Segurança da aviação», a combinação de medidas e de recursos humanos e materiais destinada a proteger a aviação civil contra actos de interferência ilícita que ponham em causa a segurança da aviação civil;\n\n3) «Operador», uma pessoa, organização ou empresa que efectue ou se ofereça para efectuar uma operação de transporte aéreo;\n\n4) «Transportadora aérea», uma empresa de transporte aéreo titular de uma licença de exploração válida ou equivalente;\n\n5) «Transportadora aérea comunitária», uma transportadora aérea titular de uma licença de exploração válida concedida por um Estado-Membro em conformidade com o Regulamento (CEE) n.º 2407/92 do Conselho, de 23 de Julho de 1992, relativo à concessão de licenças às transportadoras aéreas [([^6])](http://publications.europa.eu/resource/cellar/da45f838-cc98-4788-be3b-2ac0a9768ae1.0019.02/DOC_1#ntr6-L_2008097PT.01007201-E0006);\n\n6) «Entidade», qualquer pessoa, organização ou empresa que não seja um operador;\n\n7) «Artigos proibidos», armas, explosivos ou outros dispositivos, substâncias ou artigos perigosos susceptíveis de ser utilizados para a prática de actos de interferência ilícita que ponham em causa a segurança da aviação civil;\n\n8) «Rastreio», a aplicação de meios técnicos ou outros destinados a identificar e/ou detectar artigos proibidos;\n\n9) «Controlo de segurança», a aplicação de meios susceptíveis de impedir a introdução de artigos proibidos;\n\n10) «Controlo de acesso», a aplicação de meios susceptíveis de impedir a entrada de pessoas e/ou veículos não autorizados;\n\n11) «Lado ar», a zona de movimento dos aeroportos e os terrenos e edifícios adjacentes, ou parte destes, de acesso restrito;\n\n12) «Lado terra», as zonas dos aeroportos e os terrenos e edifícios adjacentes, ou parte destes, não incluídos no lado ar;\n\n13) «Zona restrita de segurança», a zona do lado ar na qual, além de o acesso ser restrito, se aplicam outras normas de segurança da aviação;\n\n14) «Zona demarcada», uma zona separada através de um controlo de acesso, quer de zonas restritas de segurança quer, se a própria zona demarcada for uma zona restrita de segurança, das outras zonas restritas de segurança do aeroporto;\n\n15) «Verificação de antecedentes», a verificação registada da identidade de um indivíduo, incluindo o eventual registo criminal, como parte da avaliação da sua aptidão para aceder sem escolta às zonas restritas de segurança;\n\n16) «Passageiros, bagagem, carga ou correio em transferência», os passageiros, a bagagem, a carga ou o correio que partem de um aeroporto numa aeronave distinta daquela em que chegaram;\n\n17) «Passageiros, bagagem, carga ou correio em trânsito», os passageiros, a bagagem, a carga ou o correio que partem de um aeroporto na mesma aeronave em que chegaram;\n\n18) «Passageiro potencialmente causador de distúrbios», um passageiro expulso de um país, uma pessoa considerada inadmissível por motivos relacionados com a imigração ou uma pessoa sujeita a uma medida judicial de coacção;\n\n19) «Bagagem de cabina», a bagagem destinada ao transporte na cabina da aeronave;\n\n20) «Bagagem de porão», a bagagem destinada ao transporte no porão da aeronave;\n\n21) «Bagagem de porão acompanhada», a bagagem, transportada no porão de uma aeronave, registada para um voo por um passageiro que viaje nesse mesmo voo;\n\n22) «Correio da transportadora aérea», o correio cujo remetente e cujo destinatário são ambos uma transportadora aérea;\n\n23) «Material da transportadora aérea», o material cujo remetente e cujo destinatário são ambos uma transportadora aérea ou que é utilizado por uma transportadora aérea;\n\n24) «Correio», o despacho de correspondência e outros objectos, excluindo correio da transportadora aérea, enviados por serviços postais e a eles destinados, em conformidade com as regras da União Postal Universal;\n\n25) «Carga», os bens destinados ao transporte numa aeronave que não sejam a bagagem, o correio, o correio da transportadora aérea, o material da transportadora aérea e as provisões a bordo;\n\n26) «Agente reconhecido», a transportadora aérea, o agente, o transitário ou qualquer outra entidade que assegure os controlos de segurança no que respeita à carga ou ao correio;\n\n27) «Expedidor conhecido», o expedidor de carga ou de correio por conta própria cujos procedimentos respeitam regras e normas comuns de segurança suficientes para permitir o transporte de carga ou correio em qualquer aeronave;\n\n28) «Expedidor avençado», o expedidor de carga ou de correio por conta própria cujos procedimentos respeitam regras e normas comuns de segurança suficientes para permitir o transporte dessa carga em aeronaves de carga ou de correio em aeronaves de correio;\n\n29) «Controlo de segurança da aeronave», a inspecção das partes interiores da aeronave a que os passageiros possam ter tido acesso, incluindo a inspecção do porão, destinada a detectar artigos proibidos e interferências ilícitas na aeronave;\n\n30) «Verificação de segurança da aeronave», a inspecção do interior e das zonas exteriores acessíveis da aeronave destinada a detectar artigos proibidos e interferências ilícitas que ponham em causa a segurança da aeronave;\n\n31) «Agente de segurança a bordo», uma pessoa contratada por um Estado para viajar em aeronaves das transportadoras aéreas licenciadas por esse Estado, com o objectivo de proteger essas aeronaves e os seus ocupantes contra actos de interferência ilícita que ponham em causa a segurança dos voos."
+  },
+  "9680c6bd80a31714": {
+   "fragment_id": "Artigo 4.º — Normas de base comuns",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Normas de base comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Normas de base comuns\n\n1. As normas de base comuns de protecção da aviação civil contra actos de interferência ilícita que ponham em causa a segurança da aviação civil constam do anexo.\n\nAs normas de base comuns adicionais não previstas à data de entrada em vigor do presente regulamento devem ser aditadas ao anexo nos termos do artigo 251.º do Tratado.\n\n2. As medidas gerais, que têm por objecto alterar elementos não essenciais das normas de base comuns referidas no n.º 1, completando-as, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 19.º\n\nEssas medidas gerais incidem sobre:\n\na) Os métodos de rastreio autorizados;\n\nb) As categorias de artigos que podem ser proibidos;\n\nc) No que se refere ao controlo de acesso, os motivos para conceder acesso ao lado ar e às zonas restritas de segurança;\n\nd) Os métodos autorizados para o controlo de veículos e para os controlos e verificações de segurança das aeronaves;\n\ne) Os critérios para o reconhecimento da equivalência das normas de segurança dos países terceiros;\n\nf) As condições em que a carga e o correio devem ser rastreados ou submetidos a outros controlos de segurança, bem como o processo para a aprovação ou designação de agentes reconhecidos, de expedidores conhecidos e de expedidores avençados;\n\ng) As condições em que o correio e o material da transportadora aérea devem ser rastreados ou submetidos a outros controlos de segurança;\n\nh) As condições em que as provisões a bordo e as provisões do aeroporto devem ser rastreadas ou submetidas a outros controlos de segurança, bem como o processo para a aprovação ou designação de fornecedores reconhecidos e de fornecedores conhecidos;\n\ni) Os critérios para a definição das partes críticas das zonas restritas de segurança;\n\nj) Os critérios de recrutamento e os métodos de formação do pessoal;\n\nk) As condições em que podem ser aplicados procedimentos especiais de segurança ou isenções de controlos de segurança; e\n\nl) Quaisquer medidas gerais não previstas à data de entrada em vigor do presente regulamento que tenham por objecto alterar elementos não essenciais das normas de base comuns referidas no n.º 1, completando-as.\n\nPor imperativos de urgência, a Comissão pode recorrer ao procedimento de urgência a que se refere o n.º 4 do artigo 19.º\n\n3. As medidas de execução das normas de base comuns referidas no n.º 1 e as medidas gerais referidas no n.º 2 são aprovadas pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 19.º\n\nEssas medidas incluem:\n\na) Os requisitos e procedimentos para o rastreio;\n\nb) Uma lista de artigos proibidos;\n\nc) Os requisitos e procedimentos para o controlo de acesso;\n\nd) Os requisitos e procedimentos para o controlo de veículos e para os controlos e verificações de segurança das aeronaves;\n\ne) As decisões de reconhecimento da equivalência das normas de segurança aplicadas em países terceiros;\n\nf) No que se refere à carga e ao correio, os procedimentos para a aprovação ou designação de agentes reconhecidos, de expedidores conhecidos e de expedidores avençados, bem como as obrigações a cumprir pelos mesmos;\n\ng) Os requisitos e procedimentos para a realização de controlos de segurança do correio da transportadora aérea e do material da transportadora aérea;\n\nh) No que se refere às provisões a bordo e às provisões do aeroporto, os procedimentos para a aprovação ou designação de fornecedores reconhecidos e de fornecedores conhecidos, bem como as obrigações a cumprir pelos mesmos;\n\ni) A definição das partes críticas das zonas restritas de segurança;\n\nj) Os requisitos de recrutamento e formação do pessoal;\n\nk) Os procedimentos especiais de segurança ou as isenções dos controlos de segurança;\n\nl) As especificações técnicas e os procedimentos para a aprovação e utilização de equipamento de segurança; e\n\nm) Os requisitos e procedimentos relativos aos passageiros potencialmente causadores de distúrbios.\n\n4. Quando alterar o presente regulamento através de uma decisão tomada pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 19.º, a Comissão deve estabelecer critérios que permitam aos Estados-Membros derrogar as normas de base comuns referidas no n.º 1 e adoptar medidas de segurança alternativas que proporcionem um nível adequado de protecção com base numa avaliação de risco local. Essas medidas alternativas devem ser justificadas por motivos referentes às dimensões da aeronave ou à natureza, à escala ou à frequência das operações ou de outras actividades relevantes.\n\nPor imperativos de urgência, a Comissão pode recorrer ao procedimento de urgência a que se refere o n.º 4 do artigo 19.º\n\nOs Estados-Membros devem informar a Comissão dessas medidas.\n\n5. Os Estados-Membros asseguram a aplicação das normas de base comuns a que se refere o n.º 1 nos respectivos territórios. Sempre que tiverem motivos para considerar que o nível de segurança da aviação foi comprometido por uma falha de segurança, os Estados-Membros devem assegurar que sejam tomadas medidas adequadas e imediatas para rectificar essa falha e garantir a segurança permanente da aviação civil."
+  },
+  "c3e68b6293dbf290": {
+   "fragment_id": "Artigo 5.º — Custos de segurança",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Custos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Custos de segurança\n\nNos termos da legislação comunitária pertinente, cada Estado-Membro pode determinar em que circunstâncias e em que medida os custos das medidas de segurança tomadas nos termos do presente regulamento para proteger a aviação civil contra actos de interferência ilícita deverão ser suportados pelo Estado, pelas entidades aeroportuárias, pelas transportadoras aéreas, por outros serviços responsáveis ou pelos utilizadores. Se for caso disso e em conformidade com a legislação comunitária, os Estados-Membros podem contribuir, juntamente com os utilizadores, para os custos das medidas de segurança mais restritivas tomadas nos termos do presente regulamento. Sempre que seja possível, quaisquer encargos ou transferências de custos de segurança devem estar directamente relacionados com os custos da prestação dos serviços de segurança em causa, e devem corresponder apenas aos custos realmente incorridos."
+  },
+  "ac487633c1d11b64": {
+   "fragment_id": "Artigo 6.º — Aplicação de medidas mais restritivas pelos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Aplicação de medidas mais restritivas pelos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aplicação de medidas mais restritivas pelos Estados-Membros\n\n1. Os Estados-Membros podem aplicar medidas mais restritivas do que as normas de base comuns referidas no artigo 4.º Para tal, devem basear-se numa avaliação de risco e agir em conformidade com o direito comunitário. Essas medidas devem ser pertinentes, objectivas, não discriminatórias e proporcionais ao risco a que visam dar resposta.\n\n2. Os Estados-Membros informam a Comissão dessas medidas o mais rapidamente possível após a sua aplicação. Aquando da recepção das informações, a Comissão deve comunicá-las aos restantes Estados-Membros.\n\n3. Os Estados-Membros não são obrigados a informar a Comissão caso as medidas em questão se limitem a um voo em concreto numa data específica."
+  },
+  "23b283c54567f63f": {
+   "fragment_id": "Artigo 7.º — Medidas de segurança exigidas por países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Medidas de segurança exigidas por países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Medidas de segurança exigidas por países terceiros\n\n1. Sem prejuízo de eventuais acordos bilaterais em que a Comunidade seja parte, os Estados-Membros devem notificar a Comissão das medidas exigidas por um país terceiro para os voos que partam de um aeroporto de um Estado-Membro com destino a esse país terceiro ou que sobrevoem o território deste último, se essas medidas forem distintas das normas de base comuns referidas no artigo 4.º\n\n2. A pedido do Estado-Membro em causa ou por iniciativa própria, a Comissão examina a aplicação de quaisquer medidas notificadas nos termos do n.º 1, podendo, pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 19.º, elaborar uma resposta apropriada ao país terceiro em questão.\n\n3. O disposto nos n.^os^ 1 e 2 não se aplica se:\n\na) O Estado-Membro em causa aplicar as medidas em questão em conformidade com o disposto no artigo 6.º; ou\n\nb) A exigência do país terceiro se limitar a um voo em concreto numa data específica."
+  },
+  "af6be804ada320bb": {
+   "fragment_id": "Artigo 8.º — Cooperação com a Organização da Aviação Civil Internacional",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Cooperação com a Organização da Aviação Civil Internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Cooperação com a Organização da Aviação Civil Internacional\n\nSem prejuízo do disposto no artigo 300.º do Tratado, a Comissão pode celebrar um Memorando de Entendimento relativo às auditorias com a Organização da Aviação Civil Internacional (OACI) a fim de evitar a dupla verificação do cumprimento pelos Estados-Membros do disposto no anexo 17 da Convenção de Chicago sobre a Aviação Civil Internacional."
+  },
+  "8427b36677ecc2a5": {
+   "fragment_id": "Artigo 9.º — Autoridade competente",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Autoridade competente\n\nCaso dois ou mais organismos desempenhem funções no domínio da segurança da aviação civil num Estado-Membro, este deve designar uma única autoridade (a seguir designada «autoridade competente») como responsável pela coordenação e pelo controlo da aplicação das normas de base comuns referidas no artigo 4.º"
+  },
+  "413b24bf20759755": {
+   "fragment_id": "Artigo 10.º — Programa nacional de segurança da aviação civil",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Programa nacional de segurança da aviação civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Programa nacional de segurança da aviação civil\n\n1. Cada Estado-Membro elabora, aplica e mantém um programa nacional de segurança da aviação civil.\n\nEsse programa define as responsabilidades pela aplicação das normas de base comuns referidas no artigo 4.º e descreve as medidas exigidas para o efeito aos operadores e entidades.\n\n2. A autoridade competente faculta, por escrito e com base no princípio da «necessidade de saber», as partes relevantes do seu programa nacional de segurança da aviação civil aos operadores e às entidades que considere terem um interesse legítimo."
+  },
+  "fd155aa6a6389c70": {
+   "fragment_id": "Artigo 11.º — Programa nacional de controlo da qualidade",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Programa nacional de controlo da qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Programa nacional de controlo da qualidade\n\n1. Cada Estado-Membro elabora, aplica e mantém um programa nacional de controlo da qualidade.\n\nEsse programa deve permitir ao Estado-Membro verificar a qualidade da segurança da aviação civil, de modo a controlar o cumprimento tanto das disposições do presente regulamento como do seu programa nacional de segurança da aviação civil.\n\n2. As especificações do programa nacional de controlo da qualidade são aprovadas através da alteração do presente regulamento mediante o aditamento de um anexo, pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 19.º\n\nPor imperativos de urgência, a Comissão pode recorrer ao procedimento de urgência a que se refere o n.º 4 do artigo 19.º\n\nO programa deve permitir a detecção e correcção rápidas de deficiências. Deve estabelecer igualmente que todos os aeroportos, operadores e entidades responsáveis pela aplicação das normas de segurança da aviação situados ou estabelecidos no território do Estado-Membro em causa sejam controlados periodicamente, quer directamente pela autoridade competente, quer sob a sua supervisão."
+  },
+  "717f09b4d93df48d": {
+   "fragment_id": "Artigo 12.º — Programa de segurança aeroportuária",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Programa de segurança aeroportuária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Programa de segurança aeroportuária\n\n1. Cada operador aeroportuário elabora, aplica e mantém um programa de segurança aeroportuária.\n\nEsse programa deve descrever os métodos e procedimentos que o operador aeroportuário deve aplicar para dar cumprimento tanto às disposições do presente regulamento como ao programa nacional de segurança da aviação civil do Estado-Membro em que o aeroporto está situado.\n\nO programa deve incluir disposições internas de controlo da qualidade que descrevam a forma como o operador aeroportuário deve controlar o cumprimento desses métodos e procedimentos.\n\n2. O programa de segurança aeroportuária é submetido à autoridade competente que, se for caso disso, pode tomar mais medidas."
+  },
+  "704a163f839cf6f5": {
+   "fragment_id": "Artigo 13.º — Programa de segurança da transportadora aérea",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Programa de segurança da transportadora aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Programa de segurança da transportadora aérea\n\n1. Cada transportadora aérea elabora, aplica e mantém um programa de segurança próprio.\n\nEsse programa deve descrever os métodos e procedimentos que a transportadora aérea deve aplicar para dar cumprimento tanto às disposições do presente regulamento como ao programa nacional de segurança da aviação civil do Estado-Membro a partir do qual presta os seus serviços.\n\nO programa deve incluir disposições internas de controlo da qualidade que descrevam a forma como a transportadora aérea deve controlar o cumprimento desses métodos e procedimentos.\n\n2. Quando tal for requerido, o programa de segurança da transportadora aérea é submetido à autoridade competente que, se for caso disso, pode tomar mais medidas.\n\n3. Sempre que o programa de segurança de uma transportadora aérea comunitária tiver sido aprovado pela autoridade competente do Estado-Membro que concedeu a licença de exploração, essa transportadora aérea é reconhecida pelos restantes Estados-Membros como tendo satisfeito os requisitos estabelecidos no n.º 1. O que precede não prejudica o direito de um Estado-Membro solicitar a qualquer transportadora aérea pormenores sobre a forma como aplica:\n\na) As medidas de segurança impostas por esse Estado-Membro nos termos do artigo 6.º; e/ou\n\nb) Os procedimentos locais aplicáveis nos aeroportos onde opera."
+  },
+  "7dc36ff62c5bbb64": {
+   "fragment_id": "Artigo 14.º — Programa de segurança das entidades",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Programa de segurança das entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Programa de segurança das entidades\n\n1. Cada entidade a que o programa nacional de segurança da aviação civil referido no artigo 10.º exija a aplicação de normas de segurança da aviação elabora, aplica e mantém um programa de segurança.\n\nEsse programa deve descrever os métodos e procedimentos que a entidade deve aplicar para dar cumprimento ao programa nacional de segurança da aviação civil do Estado-Membro no que respeita às suas operações nesse Estado-Membro.\n\nO programa deve incluir disposições internas de controlo da qualidade que descrevam a forma como a própria entidade deve controlar o cumprimento desses métodos e procedimentos.\n\n2. Quando tal for requerido, o programa de segurança da entidade que aplica normas de segurança da aviação é submetido à autoridade competente que, se for caso disso, pode tomar mais medidas."
+  },
+  "44170ecb5a08ed40": {
+   "fragment_id": "Artigo 15.º — Inspecções da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Inspecções da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Inspecções da Comissão\n\n1. Em cooperação com a autoridade competente do Estado-Membro em questão, a Comissão efectua inspecções, nomeadamente inspecções aos aeroportos, aos operadores e às entidades que aplicam normas de segurança da aviação, com o objectivo de controlar a aplicação das disposições do presente regulamento pelos Estados-Membros e, se for caso disso, fazer recomendações destinadas a melhorar a segurança da aviação. Para o efeito, a autoridade competente informa por escrito a Comissão de todos os aeroportos que servem a aviação civil situados no seu território que não estejam abrangidos pelo n.º 4 do artigo 4.º\n\nOs procedimentos aplicáveis à realização das inspecções da Comissão são aprovados pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 19.º\n\n2. As inspecções da Comissão aos aeroportos, aos operadores e às entidades que aplicam normas de segurança da aviação são efectuadas sem aviso prévio. A Comissão informa com antecedência suficiente o Estado-Membro em questão da realização de uma inspecção.\n\n3. Os relatórios das inspecções da Comissão são comunicados à autoridade competente do Estado-Membro em questão, que deve, na sua resposta, indicar as medidas tomadas para corrigir as eventuais deficiências identificadas.\n\nO relatório e a resposta da autoridade competente são subsequentemente comunicados às autoridades competentes dos restantes Estados-Membros."
+  },
+  "1482376398f03d5c": {
+   "fragment_id": "Artigo 16.º — Relatório anual",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Relatório anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Relatório anual\n\nA Comissão apresenta anualmente ao Parlamento Europeu, ao Conselho e aos Estados-Membros um relatório que os informe sobre a aplicação do presente regulamento e sobre o seu impacto na melhoria da segurança aérea."
+  },
+  "8252577e3a20dbd2": {
+   "fragment_id": "Artigo 17.º — Grupo Consultivo de Interessados",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Grupo Consultivo de Interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Grupo Consultivo de Interessados\n\nSem prejuízo das competências do comité a que se refere o artigo 19.º, a Comissão cria um Grupo Consultivo de Interessados na Segurança da Aviação, composto por organizações europeias representativas envolvidas ou directamente interessadas na segurança da aviação. A missão deste grupo é unicamente aconselhar a Comissão. O comité a que se refere o artigo 19.º mantém o Grupo Consultivo de Interessados informado ao longo de todo o processo regulamentar."
+  },
+  "97bb02fef8d76ada": {
+   "fragment_id": "Artigo 18.º — Divulgação da informação",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Divulgação da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Divulgação da informação\n\nRegra geral, a Comissão publica as medidas que tenham impacto directo sobre os passageiros. No entanto, os seguintes documentos são considerados «informações classificadas da União Europeia» na acepção da Decisão 2001/844/CE, CECA, Euratom:\n\na) As medidas e os procedimentos referidos nos n.^os^ 3 e 4 do artigo 4.º, no n.º 1 do artigo 6.º e no n.º 1 do artigo 7.º, caso contenham informações de segurança sensíveis;\n\nb) Os relatórios das inspecções da Comissão e as respostas das autoridades pertinentes, referidos no n.º 3 do artigo 15.º"
+  },
+  "5565163c0ffda75e": {
+   "fragment_id": "Artigo 19.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Procedimento de comité\n\n1. A Comissão é assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de um mês.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\n4. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1, 2, 4 e 6 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º"
+  },
+  "fbb8a26f8f2c2325": {
+   "fragment_id": "Artigo 20.º — Acordos entre a Comunidade e os países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Acordos entre a Comunidade e os países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Acordos entre a Comunidade e os países terceiros\n\nSempre que necessário e em conformidade com o direito comunitário, podem ser previstos, nos acordos de serviços aéreos entre a Comunidade e um país terceiro nos termos do artigo 300.º do Tratado, acordos que reconheçam que as normas de segurança aplicadas num país terceiro são equivalentes às normas comunitárias, a fim de alcançar o objectivo de um «ponto de segurança único» para todos os voos entre a União Europeia e os países terceiros."
+  },
+  "ee72b1a974073f40": {
+   "fragment_id": "Artigo 21.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Sanções\n\nOs Estados-Membros estabelecem as regras relativas às sanções aplicáveis às infracções ao disposto no presente regulamento e tomam todas as medidas necessárias para garantir a sua aplicação. As sanções previstas devem ser efectivas, proporcionadas e dissuasivas."
+  },
+  "f069909162ee4ad6": {
+   "fragment_id": "Artigo 22.º — Relatório da Comissão sobre o financiamento",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Relatório da Comissão sobre o financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Relatório da Comissão sobre o financiamento\n\nA Comissão apresentará, até 31 de Dezembro de 2008, um relatório sobre os princípios subjacentes ao financiamento dos custos das medidas de segurança da aviação civil. Esse relatório analisará as medidas a tomar para garantir que sejam utilizadas taxas de segurança apenas para cobrir os custos de segurança, bem como para melhorar a transparência de tais taxas. O relatório também referirá os princípios necessários para salvaguardar uma concorrência sem distorções entre aeroportos e entre transportadoras aéreas, e os diferentes métodos para garantir a defesa dos consumidores no que se refere à distribuição dos custos das medidas de segurança entre os contribuintes e os utilizadores. O relatório da Comissão será acompanhado, se for caso disso, de uma proposta legislativa."
+  },
+  "d7bf42bc0e763fb2": {
+   "fragment_id": "Artigo 23.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Revogação\n\nÉ revogado o Regulamento (CE) n.º 2320/2002."
+  },
+  "8be7a43bf3266efc": {
+   "fragment_id": "Artigo 24.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrada em vigor\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. É aplicável a partir da data especificada nas normas de execução aprovadas nos termos dos n.^os^ 2 e 3 do artigo 4.º, mas o mais tardar 24 meses após a entrada em entrada em vigor do presente regulamento.\n\n3. Em derrogação do n.º 2, os n.^os^ 2, 3 e 4 do artigo 4.º, o artigo 8.º, o n.º 2 do artigo 11.º, o segundo parágrafo do n.º 1 do artigo 15.º, o artigo 17.º, o artigo 19.º e o artigo 22.º são aplicáveis a partir da data de entrada em vigor do presente regulamento.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Estrasburgo, em 11 de Março de 2008.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**H.-G. PÖTTERING**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**J. LENARČIČ**\n\n---"
+  },
+  "04eb62c20fc07e4a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/da45f838-cc98-4788-be3b-2ac0a9768ae1.0019.02/DOC_1#ntc1-L_2008097PT.01007201-E0001) [JO C 185 de 8.8.2006, p. 17](http://publications.europa.eu/resource/oj/JOC_2006_185_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/da45f838-cc98-4788-be3b-2ac0a9768ae1.0019.02/DOC_1#ntc2-L_2008097PT.01007201-E0002) Parecer do Parlamento Europeu de 15 de Junho de 2006 ([JO C 300 E de 9.12.2006, p. 463](http://publications.europa.eu/resource/oj/JOC_2006_300_E_TOC)), posição comum do Conselho de 11 de Dezembro de 2006 ([JO C 70 E de 27.3.2007, p. 21](http://publications.europa.eu/resource/oj/JOC_2007_070_E_TOC)) e posição do Parlamento Europeu de 25 de Abril de 2007 (ainda não publicada no Jornal Oficial), resolução legislativa do Parlamento Europeu de 11 de Março de 2008 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 4 de Março de 2008.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/da45f838-cc98-4788-be3b-2ac0a9768ae1.0019.02/DOC_1#ntc3-L_2008097PT.01007201-E0003) [JO L 355 de 30.12.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_355_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 849/2004 ([JO L 158 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_158_R_TOC). Rectificação no [JO L 229 de 29.6.2004, p. 3](http://publications.europa.eu/resource/oj/JOL_2004_229_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/da45f838-cc98-4788-be3b-2ac0a9768ae1.0019.02/DOC_1#ntc4-L_2008097PT.01007201-E0004) [JO L 317 de 3.12.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_317_R_TOC). Decisão com a última redacção que lhe foi dada pela Decisão 2006/548/CE, Euratom ([JO L 215 de 5.8.2006, p. 38](http://publications.europa.eu/resource/oj/JOL_2006_215_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/da45f838-cc98-4788-be3b-2ac0a9768ae1.0019.02/DOC_1#ntc5-L_2008097PT.01007201-E0005) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC). Decisão com a redacção que lhe foi dada pela Decisão 2006/512/CE ([JO L 200 de 22.7.2006, p. 11](http://publications.europa.eu/resource/oj/JOL_2006_200_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/da45f838-cc98-4788-be3b-2ac0a9768ae1.0019.02/DOC_1#ntc6-L_2008097PT.01007201-E0006) [JO L 240 de 24.8.1992, p. 1](http://publications.europa.eu/resource/oj/JOL_1992_240_R_TOC)."
+  },
+  "774f4435587a7aee": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Março de 2008\n\nrelativo ao estabelecimento de regras comuns no domínio da segurança da aviação civil e que revoga o Regulamento (CE) n.º 2320/2002\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "c5b6e4ef335e6c4f": {
+   "fragment_id": "Artigo 1.º — Objectivos",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos\n\n1.\n\nO presente regulamento estabelece regras comuns para a protecção da aviação civil contra actos de interferência ilícita que ponham em causa a segurança da aviação civil.\n\nO presente regulamento estabelece igualmente a base para uma interpretação comum do anexo 17 da Convenção de Chicago sobre a Aviação Civil Internacional.\n\n2.\n\nOs meios para a consecução dos objectivos estabelecidos no n.º 1 são os seguintes:\n\na) Estabelecimento de regras e normas de base comuns de segurança da aviação;\n\nb) Mecanismos de controlo do cumprimento."
+  },
+  "cf66df4819dd6cad": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1.\n\nO presente regulamento aplica-se:\n\na) A todos os aeroportos ou partes de aeroportos situados no território dos Estados-Membros, que não sejam exclusivamente utilizados para fins militares;\n\nb) A todos os operadores, incluindo transportadoras aéreas, que prestem serviços nos aeroportos referidos na alínea a);\n\nc) A todas as entidades que apliquem normas de segurança da aviação, que operem a partir de instalações situadas no interior ou no exterior das instalações aeroportuárias e que forneçam bens e/ou prestem serviços aos aeroportos referidos na alínea a) ou através desses aeroportos.\n\n2. A aplicação do presente regulamento ao aeroporto de Gibraltar entende-se sem prejuízo das posições jurídicas do Reino de Espanha e do Reino Unido relativamente ao diferendo sobre a soberania do território em que o aeroporto se encontra situado."
+  },
+  "2ed640b98ee00b1b": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Aviação civil», as operações aéreas efectuadas por aeronaves civis, excluindo as operações realizadas por aeronaves estatais referidas no artigo 3.º da Convenção de Chicago sobre a Aviação Civil Internacional;\n\n2) «Segurança da aviação», a combinação de medidas e de recursos humanos e materiais destinada a proteger a aviação civil contra actos de interferência ilícita que ponham em causa a segurança da aviação civil;\n\n3) «Operador», uma pessoa, organização ou empresa que efectue ou se ofereça para efectuar uma operação de transporte aéreo;\n\n4) «Transportadora aérea», uma empresa de transporte aéreo titular de uma licença de exploração válida ou equivalente;\n\n5) «Transportadora aérea comunitária», uma transportadora aérea titular de uma licença de exploração válida concedida por um Estado-Membro em conformidade com o Regulamento (CEE) n.º 2407/92 do Conselho, de 23 de Julho de 1992, relativo à concessão de licenças às transportadoras aéreas ([^1^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0001));\n\n6) «Entidade», qualquer pessoa, organização ou empresa que não seja um operador;\n\n7) «Artigos proibidos», armas, explosivos ou outros dispositivos, substâncias ou artigos perigosos susceptíveis de ser utilizados para a prática de actos de interferência ilícita que ponham em causa a segurança da aviação civil;\n\n8) «Rastreio», a aplicação de meios técnicos ou outros destinados a identificar e/ou detectar artigos proibidos;\n\n9) «Controlo de segurança», a aplicação de meios susceptíveis de impedir a introdução de artigos proibidos;\n\n10) «Controlo de acesso», a aplicação de meios susceptíveis de impedir a entrada de pessoas e/ou veículos não autorizados;\n\n11) «Lado ar», a zona de movimento dos aeroportos e os terrenos e edifícios adjacentes, ou parte destes, de acesso restrito;\n\n12) «Lado terra», as zonas dos aeroportos e os terrenos e edifícios adjacentes, ou parte destes, não incluídos no lado ar;\n\n13) «Zona restrita de segurança», a zona do lado ar na qual, além de o acesso ser restrito, se aplicam outras normas de segurança da aviação;\n\n14) «Zona demarcada», uma zona separada através de um controlo de acesso, quer de zonas restritas de segurança quer, se a própria zona demarcada for uma zona restrita de segurança, das outras zonas restritas de segurança do aeroporto;\n\n15) «Verificação de antecedentes», a verificação registada da identidade de um indivíduo, incluindo o eventual registo criminal, como parte da avaliação da sua aptidão para aceder sem escolta às zonas restritas de segurança;\n\n16) «Passageiros, bagagem, carga ou correio em transferência», os passageiros, a bagagem, a carga ou o correio que partem de um aeroporto numa aeronave distinta daquela em que chegaram;\n\n17) «Passageiros, bagagem, carga ou correio em trânsito», os passageiros, a bagagem, a carga ou o correio que partem de um aeroporto na mesma aeronave em que chegaram;\n\n18) «Passageiro potencialmente causador de distúrbios», um passageiro expulso de um país, uma pessoa considerada inadmissível por motivos relacionados com a imigração ou uma pessoa sujeita a uma medida judicial de coacção;\n\n19) «Bagagem de cabina», a bagagem destinada ao transporte na cabina da aeronave;\n\n20) «Bagagem de porão», a bagagem destinada ao transporte no porão da aeronave;\n\n21) «Bagagem de porão acompanhada», a bagagem, transportada no porão de uma aeronave, registada para um voo por um passageiro que viaje nesse mesmo voo;\n\n22) «Correio da transportadora aérea», o correio cujo remetente e cujo destinatário são ambos uma transportadora aérea;\n\n23) «Material da transportadora aérea», o material cujo remetente e cujo destinatário são ambos uma transportadora aérea ou que é utilizado por uma transportadora aérea;\n\n24) «Correio», o despacho de correspondência e outros objectos, excluindo correio da transportadora aérea, enviados por serviços postais e a eles destinados, em conformidade com as regras da União Postal Universal;\n\n25) «Carga», os bens destinados ao transporte numa aeronave que não sejam a bagagem, o correio, o correio da transportadora aérea, o material da transportadora aérea e as provisões a bordo;\n\n26) «Agente reconhecido», a transportadora aérea, o agente, o transitário ou qualquer outra entidade que assegure os controlos de segurança no que respeita à carga ou ao correio;\n\n27) «Expedidor conhecido», o expedidor de carga ou de correio por conta própria cujos procedimentos respeitam regras e normas comuns de segurança suficientes para permitir o transporte de carga ou correio em qualquer aeronave;\n\n28) «Expedidor avençado», o expedidor de carga ou de correio por conta própria cujos procedimentos respeitam regras e normas comuns de segurança suficientes para permitir o transporte dessa carga em aeronaves de carga ou de correio em aeronaves de correio;\n\n29) «Controlo de segurança da aeronave», a inspecção das partes interiores da aeronave a que os passageiros possam ter tido acesso, incluindo a inspecção do porão, destinada a detectar artigos proibidos e interferências ilícitas na aeronave;\n\n30) «Verificação de segurança da aeronave», a inspecção do interior e das zonas exteriores acessíveis da aeronave destinada a detectar artigos proibidos e interferências ilícitas que ponham em causa a segurança da aeronave;\n\n31) «Agente de segurança a bordo», uma pessoa contratada por um Estado para viajar em aeronaves das transportadoras aéreas licenciadas por esse Estado, com o objectivo de proteger essas aeronaves e os seus ocupantes contra actos de interferência ilícita que ponham em causa a segurança dos voos."
+  },
+  "7254f2177f74ea0d": {
+   "fragment_id": "Artigo 4.º — Normas de base comuns",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Normas de base comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Normas de base comuns\n\n1.\n\nAs normas de base comuns de protecção da aviação civil contra actos de interferência ilícita que ponham em causa a segurança da aviação civil constam do anexo.\n\nAs normas de base comuns adicionais não previstas à data de entrada em vigor do presente regulamento devem ser aditadas ao anexo nos termos do artigo 251.º do Tratado.\n\n2.\n\nAs medidas gerais, que têm por objecto alterar elementos não essenciais das normas de base comuns referidas no n.º 1, completando-as, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 19.º\n\nEssas medidas gerais incidem sobre:\n\na) Os métodos de rastreio autorizados;\n\nb) As categorias de artigos que podem ser proibidos;\n\nc) No que se refere ao controlo de acesso, os motivos para conceder acesso ao lado ar e às zonas restritas de segurança;\n\nd) Os métodos autorizados para o controlo de veículos e para os controlos e verificações de segurança das aeronaves;\n\ne) Os critérios para o reconhecimento da equivalência das normas de segurança dos países terceiros;\n\nf) As condições em que a carga e o correio devem ser rastreados ou submetidos a outros controlos de segurança, bem como o processo para a aprovação ou designação de agentes reconhecidos, de expedidores conhecidos e de expedidores avençados;\n\ng) As condições em que o correio e o material da transportadora aérea devem ser rastreados ou submetidos a outros controlos de segurança;\n\nh) As condições em que as provisões a bordo e as provisões do aeroporto devem ser rastreadas ou submetidas a outros controlos de segurança, bem como o processo para a aprovação ou designação de fornecedores reconhecidos e de fornecedores conhecidos;\n\ni) Os critérios para a definição das partes críticas das zonas restritas de segurança;\n\nj) Os critérios de recrutamento e os métodos de formação do pessoal;\n\nk) As condições em que podem ser aplicados procedimentos especiais de segurança ou isenções de controlos de segurança; e\n\nl) Quaisquer medidas gerais não previstas à data de entrada em vigor do presente regulamento que tenham por objecto alterar elementos não essenciais das normas de base comuns referidas no n.º 1, completando-as.\n\nPor imperativos de urgência, a Comissão pode recorrer ao procedimento de urgência a que se refere o n.º 4 do artigo 19.º\n\n3.\n\nAs medidas de execução das normas de base comuns referidas no n.º 1 e as medidas gerais referidas no n.º 2 são aprovadas pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 19.º\n\nEssas medidas incluem:\n\na) Os requisitos e procedimentos para o rastreio;\n\nb) Uma lista de artigos proibidos;\n\nc) Os requisitos e procedimentos para o controlo de acesso;\n\nd) Os requisitos e procedimentos para o controlo de veículos e para os controlos e verificações de segurança das aeronaves;\n\ne) As decisões de reconhecimento da equivalência das normas de segurança aplicadas em países terceiros;\n\nf) No que se refere à carga e ao correio, os procedimentos para a aprovação ou designação de agentes reconhecidos, de expedidores conhecidos e de expedidores avençados, bem como as obrigações a cumprir pelos mesmos;\n\ng) Os requisitos e procedimentos para a realização de controlos de segurança do correio da transportadora aérea e do material da transportadora aérea;\n\nh) No que se refere às provisões a bordo e às provisões do aeroporto, os procedimentos para a aprovação ou designação de fornecedores reconhecidos e de fornecedores conhecidos, bem como as obrigações a cumprir pelos mesmos;\n\ni) A definição das partes críticas das zonas restritas de segurança;\n\nj) Os requisitos de recrutamento e formação do pessoal;\n\nk) Os procedimentos especiais de segurança ou as isenções dos controlos de segurança;\n\nl) As especificações técnicas e os procedimentos para a aprovação e utilização de equipamento de segurança; e\n\nm) Os requisitos e procedimentos relativos aos passageiros potencialmente causadores de distúrbios.\n\n4.\n\nQuando alterar o presente regulamento através de uma decisão tomada pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 19.º, a Comissão deve estabelecer critérios que permitam aos Estados-Membros derrogar as normas de base comuns referidas no n.º 1 e adoptar medidas de segurança alternativas que proporcionem um nível adequado de protecção com base numa avaliação de risco local. Essas medidas alternativas devem ser justificadas por motivos referentes às dimensões da aeronave ou à natureza, à escala ou à frequência das operações ou de outras actividades relevantes.\n\nPor imperativos de urgência, a Comissão pode recorrer ao procedimento de urgência a que se refere o n.º 4 do artigo 19.º\n\nOs Estados-Membros devem informar a Comissão dessas medidas.\n\n5. Os Estados-Membros asseguram a aplicação das normas de base comuns a que se refere o n.º 1 nos respectivos territórios. Sempre que tiverem motivos para considerar que o nível de segurança da aviação foi comprometido por uma falha de segurança, os Estados-Membros devem assegurar que sejam tomadas medidas adequadas e imediatas para rectificar essa falha e garantir a segurança permanente da aviação civil."
+  },
+  "d87ce1445fac45f4": {
+   "fragment_id": "Artigo 7.º — Medidas de segurança exigidas por países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Medidas de segurança exigidas por países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Medidas de segurança exigidas por países terceiros\n\n1. Sem prejuízo de eventuais acordos bilaterais em que a Comunidade seja parte, os Estados-Membros devem notificar a Comissão das medidas exigidas por um país terceiro para os voos que partam de um aeroporto de um Estado-Membro com destino a esse país terceiro ou que sobrevoem o território deste último, se essas medidas forem distintas das normas de base comuns referidas no artigo 4.º\n\n2. A pedido do Estado-Membro em causa ou por iniciativa própria, a Comissão examina a aplicação de quaisquer medidas notificadas nos termos do n.º 1, podendo, pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 19.º, elaborar uma resposta apropriada ao país terceiro em questão.\n\n3.\n\nO disposto nos n.^os^ 1 e 2 não se aplica se:\n\na) O Estado-Membro em causa aplicar as medidas em questão em conformidade com o disposto no artigo 6.º; ou\n\nb) A exigência do país terceiro se limitar a um voo em concreto numa data específica."
+  },
+  "dd82393439bb5786": {
+   "fragment_id": "Artigo 10.º — Programa nacional de segurança da aviação civil",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Programa nacional de segurança da aviação civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Programa nacional de segurança da aviação civil\n\n1.\n\nCada Estado-Membro elabora, aplica e mantém um programa nacional de segurança da aviação civil.\n\nEsse programa define as responsabilidades pela aplicação das normas de base comuns referidas no artigo 4.º e descreve as medidas exigidas para o efeito aos operadores e entidades.\n\n2. A autoridade competente faculta, por escrito e com base no princípio da «necessidade de saber», as partes relevantes do seu programa nacional de segurança da aviação civil aos operadores e às entidades que considere terem um interesse legítimo."
+  },
+  "3139262ccdbfb395": {
+   "fragment_id": "Artigo 11.º — Programa nacional de controlo da qualidade",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Programa nacional de controlo da qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Programa nacional de controlo da qualidade\n\n1.\n\nCada Estado-Membro elabora, aplica e mantém um programa nacional de controlo da qualidade.\n\nEsse programa deve permitir ao Estado-Membro verificar a qualidade da segurança da aviação civil, de modo a controlar o cumprimento tanto das disposições do presente regulamento como do seu programa nacional de segurança da aviação civil.\n\n2.\n\nAs especificações do programa nacional de controlo da qualidade são aprovadas através da alteração do presente regulamento mediante o aditamento de um anexo, pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 19.º\n\nPor imperativos de urgência, a Comissão pode recorrer ao procedimento de urgência a que se refere o n.º 4 do artigo 19.º\n\nO programa deve permitir a detecção e correcção rápidas de deficiências. Deve estabelecer igualmente que todos os aeroportos, operadores e entidades responsáveis pela aplicação das normas de segurança da aviação situados ou estabelecidos no território do Estado-Membro em causa sejam controlados periodicamente, quer directamente pela autoridade competente, quer sob a sua supervisão."
+  },
+  "c7d11b6af412be91": {
+   "fragment_id": "Artigo 12.º — Programa de segurança aeroportuária",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Programa de segurança aeroportuária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Programa de segurança aeroportuária\n\n1.\n\nCada operador aeroportuário elabora, aplica e mantém um programa de segurança aeroportuária.\n\nEsse programa deve descrever os métodos e procedimentos que o operador aeroportuário deve aplicar para dar cumprimento tanto às disposições do presente regulamento como ao programa nacional de segurança da aviação civil do Estado-Membro em que o aeroporto está situado.\n\nO programa deve incluir disposições internas de controlo da qualidade que descrevam a forma como o operador aeroportuário deve controlar o cumprimento desses métodos e procedimentos.\n\n2. O programa de segurança aeroportuária é submetido à autoridade competente que, se for caso disso, pode tomar mais medidas."
+  },
+  "ea2423973bc74875": {
+   "fragment_id": "Artigo 13.º — Programa de segurança da transportadora aérea",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Programa de segurança da transportadora aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Programa de segurança da transportadora aérea\n\n1.\n\nCada transportadora aérea elabora, aplica e mantém um programa de segurança próprio.\n\nEsse programa deve descrever os métodos e procedimentos que a transportadora aérea deve aplicar para dar cumprimento tanto às disposições do presente regulamento como ao programa nacional de segurança da aviação civil do Estado-Membro a partir do qual presta os seus serviços.\n\nO programa deve incluir disposições internas de controlo da qualidade que descrevam a forma como a transportadora aérea deve controlar o cumprimento desses métodos e procedimentos.\n\n2. Quando tal for requerido, o programa de segurança da transportadora aérea é submetido à autoridade competente que, se for caso disso, pode tomar mais medidas.\n\n3.\n\nSempre que o programa de segurança de uma transportadora aérea comunitária tiver sido aprovado pela autoridade competente do Estado-Membro que concedeu a licença de exploração, essa transportadora aérea é reconhecida pelos restantes Estados-Membros como tendo satisfeito os requisitos estabelecidos no n.º 1. O que precede não prejudica o direito de um Estado-Membro solicitar a qualquer transportadora aérea pormenores sobre a forma como aplica:\n\na) As medidas de segurança impostas por esse Estado-Membro nos termos do artigo 6.º; e/ou\n\nb) Os procedimentos locais aplicáveis nos aeroportos onde opera."
+  },
+  "435b89a404cdc5b8": {
+   "fragment_id": "Artigo 14.º — Programa de segurança das entidades",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Programa de segurança das entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Programa de segurança das entidades\n\n1.\n\nCada entidade a que o programa nacional de segurança da aviação civil referido no artigo 10.º exija a aplicação de normas de segurança da aviação elabora, aplica e mantém um programa de segurança.\n\nEsse programa deve descrever os métodos e procedimentos que a entidade deve aplicar para dar cumprimento ao programa nacional de segurança da aviação civil do Estado-Membro no que respeita às suas operações nesse Estado-Membro.\n\nO programa deve incluir disposições internas de controlo da qualidade que descrevam a forma como a própria entidade deve controlar o cumprimento desses métodos e procedimentos.\n\n2. Quando tal for requerido, o programa de segurança da entidade que aplica normas de segurança da aviação é submetido à autoridade competente que, se for caso disso, pode tomar mais medidas."
+  },
+  "6ecf03ae3ffc7e3c": {
+   "fragment_id": "Artigo 15.º — Inspecções da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Inspecções da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Inspecções da Comissão\n\n1.\n\nEm cooperação com a autoridade competente do Estado-Membro em questão, a Comissão efectua inspecções, nomeadamente inspecções aos aeroportos, aos operadores e às entidades que aplicam normas de segurança da aviação, com o objectivo de controlar a aplicação das disposições do presente regulamento pelos Estados-Membros e, se for caso disso, fazer recomendações destinadas a melhorar a segurança da aviação. Para o efeito, a autoridade competente informa por escrito a Comissão de todos os aeroportos que servem a aviação civil situados no seu território que não estejam abrangidos pelo n.º 4 do artigo 4.º\n\nOs procedimentos aplicáveis à realização das inspecções da Comissão são aprovados pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 19.º\n\n2. As inspecções da Comissão aos aeroportos, aos operadores e às entidades que aplicam normas de segurança da aviação são efectuadas sem aviso prévio. A Comissão informa com antecedência suficiente o Estado-Membro em questão da realização de uma inspecção.\n\n3.\n\nOs relatórios das inspecções da Comissão são comunicados à autoridade competente do Estado-Membro em questão, que deve, na sua resposta, indicar as medidas tomadas para corrigir as eventuais deficiências identificadas.\n\nO relatório e a resposta da autoridade competente são subsequentemente comunicados às autoridades competentes dos restantes Estados-Membros."
+  },
+  "44ae87109ddff6b6": {
+   "fragment_id": "Artigo 19.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Procedimento de comité\n\n1. A Comissão é assistida por um comité.\n\n2.\n\nSempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de um mês.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\n4. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1, 2, 4 e 6 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º"
+  },
+  "a0e0d68b06127068": {
+   "fragment_id": "Artigo 24.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrada em vigor\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. É aplicável a partir da data especificada nas normas de execução aprovadas nos termos dos n.^os^ 2 e 3 do artigo 4.º, mas o mais tardar 24 meses após a entrada em entrada em vigor do presente regulamento.\n\n3. Em derrogação do n.º 2, os n.^os^ 2, 3 e 4 do artigo 4.º, o artigo 8.º, o n.º 2 do artigo 11.º, o segundo parágrafo do n.º 1 do artigo 15.º, o artigo 17.º, o artigo 19.º e o artigo 22.º são aplicáveis a partir da data de entrada em vigor do presente regulamento.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "ca49f9aadf6c2109": {
+   "fragment_id": "[►M1](http://publications.europa.eu/resource/celex/32010R0018) ANEXO I◄",
+   "type": "divisao",
+   "heading": "[►M1](http://publications.europa.eu/resource/celex/32010R0018) ANEXO I◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## [►M1](http://publications.europa.eu/resource/celex/32010R0018) ANEXO I◄"
+  },
+  "927f94756f1944e4": {
+   "fragment_id": "NORMAS DE BASE COMUNS DE PROTECÇÃO DA AVIAÇÃO CIVIL CONTRA ACTOS DE INTERFERÊNCIA ILÍCITA (ARTIGO 4.º)",
+   "type": "divisao",
+   "heading": "NORMAS DE BASE COMUNS DE PROTECÇÃO DA AVIAÇÃO CIVIL CONTRA ACTOS DE INTERFERÊNCIA ILÍCITA (ARTIGO 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NORMAS DE BASE COMUNS DE PROTECÇÃO DA AVIAÇÃO CIVIL CONTRA ACTOS DE INTERFERÊNCIA ILÍCITA (ARTIGO 4.º)"
+  },
+  "d1aa029bbbaa2111": {
+   "fragment_id": "1. SEGURANÇA DO AEROPORTO",
+   "type": "divisao",
+   "heading": "1. SEGURANÇA DO AEROPORTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. SEGURANÇA DO AEROPORTO"
+  },
+  "b1f58ec940b28100": {
+   "fragment_id": "1.1. Requisitos de planeamento aeroportuário",
+   "type": "divisao",
+   "heading": "1.1. Requisitos de planeamento aeroportuário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.1. Requisitos de planeamento aeroportuário\n\n1. Os requisitos de aplicação das normas de base comuns estabelecidos no presente anexo e nos actos de execução devem ser plenamente tidos em conta no projecto e na construção de novas instalações aeroportuárias ou na alteração de instalações existentes.\n\n2. Nos aeroportos, devem ser criadas as seguintes zonas:\n\na) Lado terra;\n\nb) Lado ar;\n\nc) Zonas restritas de segurança; e\n\nd) Partes críticas das zonas restritas de segurança."
+  },
+  "da720c990fa044f5": {
+   "fragment_id": "1.2. Controlo do acesso",
+   "type": "divisao",
+   "heading": "1.2. Controlo do acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.2. Controlo do acesso\n\n1. O acesso ao lado ar deve ser restrito, para impedir a entrada de pessoas e veículos não autorizados nessas zonas.\n\n2. O acesso às zonas restritas de segurança deve ser controlado, para garantir que nelas não entrem pessoas e veículos não autorizados.\n\n3. Só pode ser concedido acesso ao lado ar e às zonas restritas de segurança às pessoas e aos veículos que satisfaçam as condições de segurança exigidas.\n\n4. Antes da emissão dos respectivos cartões, quer de identificação de tripulante, quer de identificação aeroportuária, que permitem o acesso sem escolta às zonas restritas de segurança, as pessoas, incluindo os membros da tripulação de voo, devem ser aprovadas numa verificação de antecedentes."
+  },
+  "e47239f51f6141d6": {
+   "fragment_id": "1.3. Rastreio de pessoas que não sejam passageiros e dos objectos que transportem",
+   "type": "divisao",
+   "heading": "1.3. Rastreio de pessoas que não sejam passageiros e dos objectos que transportem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.3. Rastreio de pessoas que não sejam passageiros e dos objectos que transportem\n\n1. As pessoas que não sejam passageiros e os objectos que elas transportem devem ser submetidos a um rastreio, realizado de forma aleatória e contínua, à entrada das zonas restritas de segurança, para impedir a introdução de artigos proibidos nessas zonas.\n\n2. As pessoas que não sejam passageiros e os objectos que elas transportem devem ser submetidos a um rastreio à entrada das partes críticas das zonas restritas de segurança, para impedir a introdução de artigos proibidos nessas partes."
+  },
+  "f205eb276be58cc2": {
+   "fragment_id": "1.4. Controlo dos veículos",
+   "type": "divisao",
+   "heading": "1.4. Controlo dos veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.4. Controlo dos veículos\n\nOs veículos devem ser controlados à entrada das zonas restritas de segurança, para impedir a introdução de artigos proibidos nessas zonas."
+  },
+  "daa2f0144d3f47bc": {
+   "fragment_id": "1.5. Vigilância, rondas e outros controlos físicos",
+   "type": "divisao",
+   "heading": "1.5. Vigilância, rondas e outros controlos físicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.5. Vigilância, rondas e outros controlos físicos\n\nDeve ser assegurada a vigilância e a realização de rondas e de outros controlos físicos nos aeroportos e, se for caso disso, nas zonas adjacentes de acesso público, para identificar comportamentos suspeitos e vulnerabilidades que possam ser exploradas para a prática de actos de interferência ilícita e para dissuadir as pessoas de praticar tais actos."
+  },
+  "781e995441ad3e2f": {
+   "fragment_id": "2. ZONAS DEMARCADAS DOS AEROPORTOS",
+   "type": "divisao",
+   "heading": "2. ZONAS DEMARCADAS DOS AEROPORTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. ZONAS DEMARCADAS DOS AEROPORTOS\n\nAs aeronaves estacionadas nas zonas demarcadas dos aeroportos às quais se apliquem as medidas alternativas referidas no n.º 4 do artigo 4.º devem ser separadas das aeronaves às quais se apliquem integralmente as normas de base comuns, de forma a garantir que as normas de segurança aplicadas às aeronaves, aos passageiros, à bagagem, à carga e ao correio não sejam comprometidas."
+  },
+  "3416389251430e32": {
+   "fragment_id": "3. SEGURANÇA DAS AERONAVES",
+   "type": "divisao",
+   "heading": "3. SEGURANÇA DAS AERONAVES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. SEGURANÇA DAS AERONAVES\n\n1. Antes da partida, as aeronaves devem ser submetidas a um controlo ou a uma verificação de segurança para garantir a inexistência de artigos proibidos a bordo. As aeronaves em trânsito podem ser sujeitas a outras medidas adequadas.\n\n2. Todas as aeronaves devem ser protegidas contra interferências não autorizadas."
+  },
+  "5b7f6e516e2911bc": {
+   "fragment_id": "4. PASSAGEIROS E BAGAGEM DE CABINA",
+   "type": "divisao",
+   "heading": "4. PASSAGEIROS E BAGAGEM DE CABINA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. PASSAGEIROS E BAGAGEM DE CABINA"
+  },
+  "cf3ae085fa0da83d": {
+   "fragment_id": "4.1. Rastreio dos passageiros e da bagagem de cabina",
+   "type": "divisao",
+   "heading": "4.1. Rastreio dos passageiros e da bagagem de cabina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 4.1. Rastreio dos passageiros e da bagagem de cabina\n\n1. Todos os passageiros em início de viagem, em transferência e em trânsito e a respectiva bagagem de cabina devem ser submetidos a um rastreio para impedir a introdução de artigos proibidos nas zonas restritas de segurança e a bordo da aeronave.\n\n2. Os passageiros em transferência e a respectiva bagagem de cabina podem ser dispensados do rastreio nas seguintes situações:\n\na) À chegada de um Estado-Membro, salvo se a Comissão ou esse Estado-Membro tiverem informado que esses passageiros e a respectiva bagagem de cabina não podem ser considerados como tendo sido rastreados em conformidade com as normas de base comuns; ou\n\nb) À chegada de um país terceiro que aplique normas de segurança reconhecidas como equivalentes às normas de base comuns pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 19.º\n\n3. Os passageiros em trânsito e a respectiva bagagem de cabina podem ser dispensados do rastreio nas seguintes situações:\n\na) Caso permaneçam a bordo da aeronave; ou\n\nb) Caso não se misturem com passageiros rastreados, à espera de embarcar, que não sejam aqueles que embarcam na mesma aeronave; ou\n\nc) À chegada de um Estado-Membro, salvo se a Comissão ou esse Estado-Membro tiverem informado que esses passageiros e a respectiva bagagem de cabina não podem ser considerados como tendo sido rastreados em conformidade com as normas de base comuns; ou\n\nd) À chegada de um país terceiro que aplique normas de segurança reconhecidas como equivalentes às normas de base comuns pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 19.º"
+  },
+  "b23cc87a01e2d155": {
+   "fragment_id": "4.2. Protecção dos passageiros e da bagagem de cabina",
+   "type": "divisao",
+   "heading": "4.2. Protecção dos passageiros e da bagagem de cabina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 4.2. Protecção dos passageiros e da bagagem de cabina\n\n1. Os passageiros e a respectiva bagagem de cabina devem ser protegidos contra interferências não autorizadas a partir do ponto em que são rastreados até à partida da aeronave em que são transportados.\n\n2. Os passageiros rastreados, à espera de embarcar, não se devem misturar com os passageiros que chegam ao aeroporto, excepto:\n\na) Quando os passageiros cheguem de um Estado-Membro, desde que a Comissão ou esse Estado-Membro não tenham informado que esses passageiros e a respectiva bagagem de cabina não podem ser considerados como tendo sido rastreados em conformidade com as normas de base comuns; ou\n\nb) Quando os passageiros cheguem de um país terceiro que aplique normas de segurança reconhecidas como equivalentes às normas de base comuns pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 19.º"
+  },
+  "a05524b73745750f": {
+   "fragment_id": "4.3. Passageiros potencialmente causadores de distúrbios",
+   "type": "divisao",
+   "heading": "4.3. Passageiros potencialmente causadores de distúrbios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 4.3. Passageiros potencialmente causadores de distúrbios\n\nAntes da partida, os passageiros potencialmente causadores de distúrbios devem ser submetidos a medidas de segurança adequadas."
+  },
+  "95c6b9b6838217d2": {
+   "fragment_id": "5. BAGAGEM DE PORÃO",
+   "type": "divisao",
+   "heading": "5. BAGAGEM DE PORÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. BAGAGEM DE PORÃO"
+  },
+  "054efa85e7ed2f26": {
+   "fragment_id": "5.1. Rastreio da bagagem de porão",
+   "type": "divisao",
+   "heading": "5.1. Rastreio da bagagem de porão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 5.1. Rastreio da bagagem de porão\n\n1. Toda a bagagem de porão deve ser rastreada antes de ser carregada na aeronave, a fim de impedir a introdução de artigos proibidos nas zonas restritas de segurança e a bordo da aeronave.\n\n2. A bagagem de porão em transferência pode ser dispensada do rastreio nas seguintes situações:\n\na) À chegada de um Estado-Membro, salvo se a Comissão ou esse Estado-Membro tiverem informado que essa bagagem de porão não pode ser considerada como tendo sido rastreada em conformidade com as normas de base comuns; ou\n\nb) À chegada de um país terceiro que aplique normas de segurança reconhecidas como equivalentes às normas de base comuns pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 19.º\n\n3. A bagagem de porão em trânsito pode ser dispensada do rastreio caso permaneça a bordo da aeronave."
+  },
+  "ac762190afcce4e6": {
+   "fragment_id": "5.2. Protecção da bagagem de porão",
+   "type": "divisao",
+   "heading": "5.2. Protecção da bagagem de porão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 5.2. Protecção da bagagem de porão\n\nA bagagem de porão a transportar numa aeronave deve ser protegida contra interferências não autorizadas desde o ponto em que é rastreada ou aceite à guarda da transportadora aérea, consoante a circunstância que ocorra primeiro, até à partida da aeronave em que deva ser transportada."
+  },
+  "323d55a3229d90af": {
+   "fragment_id": "5.3. Reconciliação da bagagem",
+   "type": "divisao",
+   "heading": "5.3. Reconciliação da bagagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 5.3. Reconciliação da bagagem\n\n1. Cada peça de bagagem de porão deve ser identificada como acompanhada ou não acompanhada.\n\n2. A bagagem de porão não acompanhada não deve ser transportada, a menos que tenha sido separada devido a factores alheios ao controlo do passageiro ou submetida a controlos de segurança adequados."
+  },
+  "e52235e9fd50eafe": {
+   "fragment_id": "6. CARGA E CORREIO",
+   "type": "divisao",
+   "heading": "6. CARGA E CORREIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. CARGA E CORREIO"
+  },
+  "359d3d80498e87fa": {
+   "fragment_id": "6.1. Controlos de segurança aplicáveis à carga e ao correio",
+   "type": "divisao",
+   "heading": "6.1. Controlos de segurança aplicáveis à carga e ao correio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 6.1. Controlos de segurança aplicáveis à carga e ao correio\n\n1. Toda a carga e correio devem ser submetidos a controlos de segurança antes de serem carregados numa aeronave. As transportadoras aéreas não podem aceitar transportar carga ou correio numa aeronave, a menos que tenham elas próprias aplicado esses controlos ou que a aplicação dos controlos tenha sido confirmada e assegurada por um agente reconhecido, um expedidor conhecido ou um expedidor avençado.\n\n2. A carga e o correio em transferência podem ser submetidos a controlos de segurança alternativos que venham a ser especificados em actos de execução.\n\n3. A carga e o correio em trânsito podem ser dispensados dos controlos de segurança caso permaneçam a bordo da aeronave."
+  },
+  "d6018d41d7932f8d": {
+   "fragment_id": "6.2. Protecção da carga e do correio",
+   "type": "divisao",
+   "heading": "6.2. Protecção da carga e do correio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 6.2. Protecção da carga e do correio\n\n1. A carga e o correio a transportar numa aeronave devem ser protegidos contra interferências não autorizadas desde o ponto em que são aplicados os controlos de segurança até à partida da aeronave em que devam ser transportados.\n\n2. A carga e o correio que não sejam devidamente protegidos contra interferências não autorizadas após a aplicação dos controlos de segurança devem ser submetidos a rastreio."
+  },
+  "616e5c0175a23ca1": {
+   "fragment_id": "7. CORREIO E MATERIAL DA TRANSPORTADORA AÉREA",
+   "type": "divisao",
+   "heading": "7. CORREIO E MATERIAL DA TRANSPORTADORA AÉREA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. CORREIO E MATERIAL DA TRANSPORTADORA AÉREA\n\nO correio e o material da transportadora aérea devem ser submetidos a controlos de segurança e posteriormente protegidos até serem carregados na aeronave, para impedir a introdução de artigos proibidos a bordo da aeronave."
+  },
+  "ada4ef4529d48da5": {
+   "fragment_id": "8. PROVISÕES DE BORDO",
+   "type": "divisao",
+   "heading": "8. PROVISÕES DE BORDO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. PROVISÕES DE BORDO\n\nAs provisões de bordo, incluindo os produtos de restauração, destinadas ao transporte ou à utilização a bordo da aeronave devem ser submetidas a controlos de segurança e posteriormente protegidas até serem carregadas na aeronave, para impedir a introdução de artigos proibidos a bordo da aeronave."
+  },
+  "fda9b3418545dc5a": {
+   "fragment_id": "9. PROVISÕES DO AEROPORTO",
+   "type": "divisao",
+   "heading": "9. PROVISÕES DO AEROPORTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9. PROVISÕES DO AEROPORTO\n\nAs provisões destinadas à venda ou utilização nas zonas restritas de segurança dos aeroportos, incluindo as mercadorias das lojas francas e dos restaurantes, devem ser submetidas a controlos de segurança, para impedir a introdução de artigos proibidos nessas zonas."
+  },
+  "02f08052a400b4eb": {
+   "fragment_id": "10. MEDIDAS DE SEGURANÇA DURANTE O VOO",
+   "type": "divisao",
+   "heading": "10. MEDIDAS DE SEGURANÇA DURANTE O VOO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10. MEDIDAS DE SEGURANÇA DURANTE O VOO\n\n1. Sem prejuízo das regras de segurança operacional da aviação aplicáveis:\n\na) Durante o voo, deve ser impedida a entrada de pessoas não autorizadas na cabina de pilotagem;\n\nb) Durante o voo, os passageiros potencialmente causadores de distúrbios devem ser submetidos a medidas de segurança adequadas.\n\n2. Devem ser tomadas medidas de segurança adequadas, como seja a formação da tripulação técnica e do pessoal de cabina, para impedir actos de interferência ilícita durante um voo.\n\n3. Não são permitidas armas a bordo de uma aeronave, com excepção das que são transportadas no porão, salvo quando tenham sido preenchidas as condições de segurança exigidas nos termos da respectiva legislação nacional e os Estados envolvidos o autorizem.\n\n4. O disposto no ponto 3 aplica-se igualmente aos agentes de segurança a bordo que transportem armas."
+  },
+  "05b3b9254773ac6e": {
+   "fragment_id": "11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL",
+   "type": "divisao",
+   "heading": "11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL\n\n1. As pessoas que executam ou são responsáveis pela execução do rastreio, do controlo de acesso ou de outros controlos de segurança devem ser recrutadas, formadas e, se necessário, certificadas de modo a assegurar que estão habilitadas e têm as competências necessárias para desempenhar as funções que lhes estão atribuídas.\n\n2. As pessoas que não sejam passageiros e devam ter acesso às zonas restritas de segurança, devem receber formação em matéria de segurança antes de lhes ser concedido um cartão de identificação aeroportuário ou um cartão de identificação de tripulante.\n\n3. A formação referida nos pontos 1 e 2 deve incluir acções de formação inicial e de formação contínua.\n\n4. Os instrutores envolvidos na formação das pessoas mencionadas nos pontos 1 e 2 devem ter as qualificações necessárias."
+  },
+  "2a707130b0b9a6de": {
+   "fragment_id": "12. EQUIPAMENTOS DE SEGURANÇA",
+   "type": "divisao",
+   "heading": "12. EQUIPAMENTOS DE SEGURANÇA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 12. EQUIPAMENTOS DE SEGURANÇA\n\nOs equipamentos utilizados para o rastreio, o controlo de acesso e os restantes controlos de segurança devem cumprir as especificações definidas e ser adequados à realização dos controlos em causa."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "5c607074b2d3786e": {
+   "fragment_id": "Especificações comuns para o programa nacional de controlo da qualidade a aplicar por cada Estado-Membro no domínio da segurança da aviação civil",
+   "type": "divisao",
+   "heading": "Especificações comuns para o programa nacional de controlo da qualidade a aplicar por cada Estado-Membro no domínio da segurança da aviação civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Especificações comuns para o programa nacional de controlo da qualidade a aplicar por cada Estado-Membro no domínio da segurança da aviação civil"
+  },
+  "73ccc6a43c5c2d1f": {
+   "fragment_id": "1. DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "1. DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. DEFINIÇÕES\n\n1.1. Para efeitos do presente anexo, entende-se por:\n\n1) «Volume de tráfego anual», o número total de passageiros que chegam, partem e se encontram em trânsito (contabilizados uma vez);\n\n2) «Autoridade competente», a autoridade nacional designada por um Estado-Membro, nos termos do artigo 9.º, responsável pela coordenação e pelo controlo da aplicação do seu programa nacional de segurança da aviação civil;\n\n3) «Auditor», qualquer pessoa que exerça atividades nacionais de controlo da conformidade em nome da autoridade competente;\n\n4) «Certificação», avaliação formal e confirmação pela autoridade competente, ou em nome desta, de que uma pessoa possui as competências necessárias para desempenhar as funções de auditor, a um nível aceitável definido pela autoridade competente;\n\n5) «Atividades de controlo da conformidade», qualquer procedimento ou processo utilizado para avaliar a aplicação do presente regulamento e o programa nacional de segurança da aviação;\n\n6) «Deficiência», incumprimento de um requisito de segurança da aviação;\n\n7) «Inspeção», análise da aplicação de medidas e procedimentos de segurança para determinar se são executados de forma eficaz e em conformidade com as normas previstas e detetar eventuais deficiências;\n\n8) «Entrevista», exame oral que um auditor efetua para determinar se são aplicadas medidas ou procedimentos de segurança específicos;\n\n9) «Observação», exame visual que um auditor efetua para determinar se é aplicada uma medida ou um procedimento de segurança;\n\n10) «Teste aberto», exercício anunciado com operadores responsáveis pelo rastreio ou outro pessoal de segurança em causa que simula realisticamente a realização de um controlo de segurança ou um ato de interferência ilícita com o objetivo de avaliar ou medir elementos como a eficácia da aplicação de medidas existentes, as competências e as capacidades desse pessoal para desempenhar as funções atribuídas;\n\n11) «Autoridades competentes», para efeitos do capítulo 19, a autoridade competente ou qualquer outra autoridade nacional responsável pela comunicação de ocorrências, incidentes, atos de interferência ilícita e respetivos atos preparatórios no domínio da segurança da aviação.\n\n12) «Autor da comunicação», qualquer pessoa singular ou coletiva que comunique uma ocorrência, um incidente, um ato de interferência ilícita, um ato preparatório ou outras informações relacionados com segurança em conformidade com o processo de comunicação obrigatório ou voluntário estabelecido pelos Estados-Membros;\n\n13) «Amostra representativa», seleção efetuada a partir das opções de controlo possíveis, cujo número e âmbito são suficientes para constituir uma base de conclusões gerais sobre as normas de aplicação;\n\n14) «Auditoria à segurança», análise aprofundada das medidas e procedimentos de segurança para determinar se são aplicados de forma integral e contínua;\n\n15) «Incidente de segurança», ocorrência de segurança que afeta ou possa afetar a segurança dos passageiros, da tripulação, do pessoal de terra e do público em geral;\n\n16) «Ocorrência de segurança» qualquer evento relacionado com a segurança que possa resultar numa deterioração dos resultados em matéria de segurança, que possa aumentar os riscos operacionais ou que ponha em perigo a segurança dos passageiros, da tripulação, do pessoal de terra e do público em geral, ou que constitua um possível incumprimento. Inclui-se na presente definição a identificação ou a observação de uma vulnerabilidade na proteção da aviação civil face a atos de interferência ilícita;\n\n17) «Teste», aferição das medidas de segurança da aviação, no âmbito da qual a autoridade competente simula a intenção de cometer um ato de interferência ilícita para avaliar a eficácia da aplicação das medidas de segurança vigentes;\n\n18) «Verificação», ação por parte de um auditor para determinar se uma medida de segurança específica se encontra efetivamente em vigor;\n\n19) «Vulnerabilidade», qualquer fragilidade nas medidas e nos procedimentos aplicados de que se possa tirar partido para cometer um ato de interferência ilícita."
+  },
+  "5c2533568bc58f22": {
+   "fragment_id": "2. PODERES DA AUTORIDADE COMPETENTE",
+   "type": "divisao",
+   "heading": "2. PODERES DA AUTORIDADE COMPETENTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. PODERES DA AUTORIDADE COMPETENTE\n\n2.1. Os Estados-Membros conferem os poderes necessários à autoridade competente para controlar e fazer cumprir todos os requisitos do presente regulamento e as suas medidas de aplicação, incluindo o poder de aplicar sanções em conformidade com o artigo 21.º\n\n2.2. A autoridade competente realiza atividades de controlo da conformidade e terá os poderes necessários para exigir a retificação das eventuais deficiências detetadas nos prazos fixados.\n\n2.3. Deve ser estabelecida uma abordagem progressiva e proporcionada relativamente às atividades de correção de deficiências e às medidas de execução. Esta abordagem consistirá numa sucessão de etapas a respeitar até que a correção seja efetuada, nomeadamente:\n\na) Aconselhamento e recomendações por escrito;\n\nb) Aviso formal por escrito;\n\nc) Notificação de execução oficial;\n\nd) Sanções administrativas e procedimentos judiciais."
+  },
+  "b9cccaa6d7c9a14a": {
+   "fragment_id": "3. OBJETIVOS E CONTEÚDO DO PROGRAMA NACIONAL DE CONTROLO DA QUALIDADE",
+   "type": "divisao",
+   "heading": "3. OBJETIVOS E CONTEÚDO DO PROGRAMA NACIONAL DE CONTROLO DA QUALIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. OBJETIVOS E CONTEÚDO DO PROGRAMA NACIONAL DE CONTROLO DA QUALIDADE\n\n3.1. Os objetivos do programa nacional de controlo da qualidade consistem em verificar a aplicação efetiva e adequada das medidas de segurança da aviação e em determinar o nível de conformidade com as disposições do presente regulamento e o programa nacional de segurança da aviação civil, através de atividades de controlo da conformidade.\n\n3.2. O programa nacional de controlo da qualidade inclui os seguintes elementos:\n\na) Estrutura organizativa, responsabilidades e recursos;\n\nb) Descrições das funções e das qualificações exigidas aos auditores;\n\nc) Atividades de controlo da conformidade, incluindo o âmbito das auditorias à segurança, inspeções, testes e, em caso de violação real ou potencial da segurança, investigações, frequências das auditorias à segurança e das inspeções, bem como classificação do grau de conformidade;\n\nd) Inquéritos, caso existam motivos para reavaliar as necessidades em matéria de segurança;\n\ne) Atividades de correção das deficiências que forneçam pormenores sobre a comunicação, o acompanhamento e a correção de deficiências, para garantir o cumprimento dos requisitos de segurança da aviação;\n\nf) Medidas de execução e, se for caso disso, sanções, conforme previsto nos pontos 2.1 e 2.3 do presente anexo;\n\ng) Comunicação das atividades de controlo da conformidade realizadas, incluindo, se for caso disso, intercâmbio de informações entre organismos nacionais sobre os níveis de conformidade;\n\nh) Processo de monitorização das medidas de controlo interno da qualidade do aeroporto, do operador e da entidade;\n\ni) Processo de registo e análise dos resultados do programa nacional de controlo da qualidade, para identificar tendências e orientar o desenvolvimento de políticas futuras;\n\nj) Processo de comunicação obrigatória de informações relativas a incidentes, atos de interferência ilícita e respetivos atos preparatórios no domínio da segurança da aviação, por parte de qualquer operador ou entidade responsável pela execução do programa nacional de segurança da aviação civil, de forma prática e atempada, às autoridades competentes;\n\nk) Sistema de comunicação de informações confidencial e voluntário para analisar as informações de segurança fornecidas por fontes como o público, os passageiros, o pessoal, a tripulação, o pessoal de terra e qualquer outra pessoa do setor da aviação."
+  },
+  "711c6f379c71b769": {
+   "fragment_id": "4. CONTROLO DA CONFORMIDADE",
+   "type": "divisao",
+   "heading": "4. CONTROLO DA CONFORMIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. CONTROLO DA CONFORMIDADE\n\n4.1. Todos os aeroportos, operadores e outras entidades com responsabilidades no domínio da segurança da aviação são objeto de controlos periódicos para garantir a deteção e a correção rápidas de falhas.\n\n4.2. O controlo é efetuado em conformidade com o programa nacional de controlo da qualidade, tendo em conta o nível da ameaça, o tipo e a natureza das operações, o grau de aplicação, os resultados do controlo interno da qualidade dos aeroportos, dos operadores e das entidades, bem como outros fatores e avaliações que afetarão as prioridades e a frequência de controlo.\n\n4.3. O controlo inclui a aplicação e a eficácia das medidas de controlo interno da qualidade dos aeroportos, dos operadores e das entidades.\n\n4.4. O controlo em cada aeroporto individual consiste numa combinação adequada de atividades de controlo da conformidade e proporcionará uma panorâmica global da aplicação das medidas de segurança neste domínio.\n\n4.5. A gestão, o estabelecimento de prioridades e a organização do programa de controlo da qualidade são asseguradas independentemente da aplicação operacional das medidas adotadas no âmbito do programa nacional de segurança da aviação civil.\n\n4.6. As atividades de controlo da conformidade incluem auditorias à segurança, inspeções e testes."
+  },
+  "fdb1c36f172d88b0": {
+   "fragment_id": "5. METODOLOGIA",
+   "type": "divisao",
+   "heading": "5. METODOLOGIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. METODOLOGIA\n\n5.1. A metodologia para a realização de atividades de controlo obedece a uma abordagem normalizada, que inclui a definição de tarefas, o planeamento, a preparação, a atividade no terreno, a classificação das conclusões, a realização do relatório e o processo de correção.\n\n5.2. As atividades de controlo da conformidade baseiam-se na recolha sistemática de informações através de observações, entrevistas, análise de documentos e verificações.\n\n5.3. O controlo da conformidade inclui atividades anunciadas e não anunciadas."
+  },
+  "ce43f8039d013146": {
+   "fragment_id": "6. AUDITORIAS À SEGURANÇA",
+   "type": "divisao",
+   "heading": "6. AUDITORIAS À SEGURANÇA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. AUDITORIAS À SEGURANÇA\n\n6.1. As auditorias à segurança abrangem:\n\na) Todas as medidas de segurança de um aeroporto; ou\n\nb) Todas as medidas de segurança aplicadas por um aeroporto, terminal aeroportuário, operador ou entidade; ou\n\nc) Uma parte específica do programa nacional de segurança da aviação civil.\n\n6.2. Deve ser estabelecida uma metodologia para a realização de auditorias à segurança, tendo em consideração os seguintes elementos:\n\na) Anúncio da auditoria à segurança e envio de um questionário de pré-auditoria, se for caso disso;\n\nb) Fase de preparação, incluindo análise do questionário de pré-auditoria devidamente preenchido e de outra documentação pertinente;\n\nc) Reunião de informação preliminar com representantes do aeroporto/operador/entidade, antes do início da atividade de controlo no terreno;\n\nd) Atividade no terreno;\n\ne) Reunião de balanço e apresentação de relatório;\n\nf) Caso sejam detetadas deficiências, o processo de correção e o controlo associado desse processo.\n\n6.3. A fim de permitir confirmar a aplicação das medidas de segurança, a realização de uma auditoria à segurança deve basear-se numa recolha sistemática de informações por uma ou várias das seguintes técnicas:\n\na) Análise de documentos;\n\nb) Observações;\n\nc) Entrevistas;\n\nd) Verificações.\n\n6.4. Os aeroportos com um volume de tráfego anual superior a 10 milhões de passageiros devem ser subordinados, no mínimo de quatro em quatro anos, a uma auditoria à segurança que abranja todas as normas de segurança da aviação. A análise inclui uma amostra representativa das informações."
+  },
+  "723991346ab6e530": {
+   "fragment_id": "7. INSPEÇÕES",
+   "type": "divisao",
+   "heading": "7. INSPEÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. INSPEÇÕES\n\n7.1. Uma inspeção abrange, no mínimo, um conjunto de medidas de segurança diretamente relacionadas, constantes do anexo I, e as medidas de aplicação correspondentes, controladas no quadro de uma atividade única ou num prazo razoável que, normalmente, não excederá três meses. A análise inclui uma amostra representativa das informações.\n\n7.2. Um conjunto de medidas de segurança diretamente relacionadas inclui um conjunto de requisitos (dois ou mais), conforme previsto no anexo I, e as medidas de aplicação correspondentes, cuja influência recíproca é tão marcada que a consecução do objetivo só pode ser devidamente avaliada se forem considerados conjuntamente. Estes conjuntos incluirão os enumerados no apêndice I do presente anexo.\n\n7.3. As inspeções devem ser não anunciadas. Se a autoridade competente considerar que tal não é possível, as inspeções podem ser anunciadas. Deve ser estabelecida uma metodologia para a realização de inspeções, tendo em consideração os seguintes elementos:\n\na) Fase de preparação;\n\nb) Atividade no terreno;\n\nc) Uma reunião de balanço, em função da frequência e dos resultados das atividades de controlo;\n\nd) Elaboração de relatório/registo de informações;\n\ne) Processo de correção e controlo deste.\n\n7.4. A fim de permitir confirmar a eficácia das medidas de segurança, a realização da inspeção basear-se-á na recolha sistemática de informações por uma ou várias das seguintes técnicas:\n\na) Análise de documentos;\n\nb) Observações;\n\nc) Entrevistas;\n\nd) Verificações.\n\n7.5. Nos aeroportos com um volume de tráfego anual superior a dois milhões de passageiros, a inspeção de todos os conjuntos de medidas de segurança diretamente relacionadas, enunciadas nos capítulos 1 a 6 do anexo I, será efetuada com uma frequência mínima de 12 meses, a menos que o aeroporto tenha sido objeto de uma auditoria durante esse período. A frequência de inspeção de todas as medidas de segurança constantes dos capítulos 7 a 12 do anexo I será determinada pela autoridade competente com base numa avaliação de risco.\n\n7.6. Caso um Estado-Membro não disponha de um aeroporto com um volume de tráfego anual superior a dois milhões de passageiros, os requisitos do ponto 7.5 serão aplicáveis ao aeroporto localizado no seu território com o volume de tráfego anual mais elevado.\n\n7.7. As frequências de inspeção dos aeroportos com um volume de tráfego anual não superior a dois milhões de passageiros, operadores e entidades devem ser determinadas pela autoridade competente tendo em conta os elementos referidos no ponto 4.2. As frequências devem referir-se ao controlo de todos os conjuntos pertinentes de medidas de segurança diretamente relacionadas enunciadas nos capítulos 1 a 12 do anexo I."
+  },
+  "02a20e276c139740": {
+   "fragment_id": "8. TESTES",
+   "type": "divisao",
+   "heading": "8. TESTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. TESTES\n\n8.1. Devem ser realizados testes para avaliar a eficácia da aplicação das medidas de segurança a seguir enumeradas, no mínimo, em todos os aeroportos abrangidos pelos pontos 7.5 e 7.6:\n\na) Controlo de acessos a zonas restritas de segurança;\n\nb) Rastreio de pessoas que não sejam passageiros e dos objetos que transportem;\n\nc) Proteção das aeronaves;\n\nd) Rastreio dos passageiros e da bagagem de cabina;\n\ne) Proteção da bagagem de porão;\n\nf) Rastreio da carga ou do correio;\n\ng) Proteção da carga e do correio.\n\n8.2. A autoridade competente pode, com base numa avaliação de risco, realizar testes para avaliar a eficácia da aplicação das seguintes medidas de segurança adicionais:\n\na) Controlo de veículos;\n\nb) Verificação de segurança da aeronave;\n\nc) Rastreio da bagagem de porão;\n\nd) Rastreio das provisões de bordo e das provisões do aeroporto;\n\ne) Proteção das provisões de bordo e das provisões do aeroporto;\n\nf) Proteção das instalações e do perímetro do aeroporto.\n\n8.3. Deve ser elaborado um protocolo de teste e a metodologia respetiva, tendo em conta os requisitos jurídicos, de segurança e operacionais. A metodologia trata os seguintes elementos:\n\na) Fase de preparação;\n\nb) Atividade no terreno;\n\nc) Uma reunião de balanço, em função da frequência e dos resultados das atividades de controlo;\n\nd) Elaboração de relatório/registo de informações;\n\ne) Processo de correção e controlo associado.\n\n8.4. As frequências dos testes devem ser determinadas pela autoridade competente tendo em conta os elementos referidos no ponto 4.2.\n\n8.5. Os testes podem ser substituídos ou complementados por testes abertos quando não seja possível obter uma amostra representativa de testes devido, por exemplo, à aplicação limitada de certas medidas de segurança ou quando as condições locais prejudiquem a eficácia dos testes."
+  },
+  "f0c58688c4797be0": {
+   "fragment_id": "9. INQUÉRITOS",
+   "type": "divisao",
+   "heading": "9. INQUÉRITOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9. INQUÉRITOS\n\n9.1. Devem ser efetuados inquéritos sempre que a autoridade competente reconhecer a necessidade de reavaliar operações, a fim de identificar e resolver eventuais vulnerabilidades. Caso seja detetada uma vulnerabilidade, a autoridade competente exige a aplicação de medidas de proteção proporcionais à ameaça."
+  },
+  "9a5df3b569c0ec57": {
+   "fragment_id": "10. APRESENTAÇÃO DE RELATÓRIOS SOBRE AS ATIVIDADES DE CONTROLO DA CONFORMIDADE",
+   "type": "divisao",
+   "heading": "10. APRESENTAÇÃO DE RELATÓRIOS SOBRE AS ATIVIDADES DE CONTROLO DA CONFORMIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10. APRESENTAÇÃO DE RELATÓRIOS SOBRE AS ATIVIDADES DE CONTROLO DA CONFORMIDADE\n\n10.1. As atividades de controlo da conformidade são objeto de relatório ou registo num formato normalizado que permita uma análise contínua das tendências.\n\n10.2. Devem ser incluídos no formato normalizado os seguintes elementos:\n\na) Tipo de atividade;\n\nb) Aeroporto, operador ou entidade objeto de controlo;\n\nc) Data e hora da atividade;\n\nd) Nome dos auditores que executam a atividade;\n\ne) Âmbito da atividade;\n\nf) Conclusões relacionadas com as disposições correspondentes do programa nacional de segurança da aviação civil;\n\ng) Classificação do grau de conformidade;\n\nh) Recomendações de medidas corretivas, se for caso disso;\n\ni) Prazo de correção, se for caso disso.\n\n10.3. Caso sejam identificadas deficiências, a autoridade competente comunica as conclusões pertinentes ao aeroporto, aos operadores ou às entidades objeto de controlo."
+  },
+  "6acd1560ce93c243": {
+   "fragment_id": "11. CLASSIFICAÇÃO COMUM DO GRAU DE CONFORMIDADE",
+   "type": "divisao",
+   "heading": "11. CLASSIFICAÇÃO COMUM DO GRAU DE CONFORMIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 11. CLASSIFICAÇÃO COMUM DO GRAU DE CONFORMIDADE\n\n11.1. As atividades de controlo da conformidade avaliam a aplicação do programa nacional de segurança da aviação civil com base no sistema harmonizado de classificação do grau de conformidade previsto no apêndice II."
+  },
+  "af54cad204d516f6": {
+   "fragment_id": "12. CORREÇÃO DE DEFICIÊNCIAS",
+   "type": "divisao",
+   "heading": "12. CORREÇÃO DE DEFICIÊNCIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 12. CORREÇÃO DE DEFICIÊNCIAS\n\n12.1. As deficiências detetadas devem ser prontamente corrigidas. Caso tal não seja possível, são aplicadas medidas compensatórias. Quando o controlo geral da aplicação de uma medida de segurança resultar, devido a falhas individuais ou isoladas, no nível de conformidade «Cumpre, mas melhorias aconselháveis», essas insuficiências também devem ser corrigidas.\n\n12.2. A autoridade competente deve exigir que os aeroportos, os operadores ou as entidades objeto de atividades de controlo da conformidade apresentem, para acordo, um plano de ação sobre quaisquer deficiências mencionadas nos relatórios, bem como um calendário de execução das medidas corretivas, e que confirmem quando o processo de correção estiver concluído."
+  },
+  "01754b1da89cd953": {
+   "fragment_id": "13. ATIVIDADES DE ACOMPANHAMENTO ASSOCIADAS À VERIFICAÇÃO DA CORREÇÃO",
+   "type": "divisao",
+   "heading": "13. ATIVIDADES DE ACOMPANHAMENTO ASSOCIADAS À VERIFICAÇÃO DA CORREÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 13. ATIVIDADES DE ACOMPANHAMENTO ASSOCIADAS À VERIFICAÇÃO DA CORREÇÃO\n\n13.1. Após confirmação por parte do aeroporto, do operador ou da entidade objeto de controlo de que foram adotadas as eventuais medidas corretivas requeridas, a autoridade competente verifica a aplicação das medidas corretivas.\n\n13.2. As atividades de acompanhamento baseiam-se no método de controlo mais adequado."
+  },
+  "0ece773417550f4d": {
+   "fragment_id": "14. DISPONIBILIDADE DE AUDITORES",
+   "type": "divisao",
+   "heading": "14. DISPONIBILIDADE DE AUDITORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 14. DISPONIBILIDADE DE AUDITORES\n\n14.1. Cada Estado-Membro assegura que a autoridade competente disponha de um número suficiente de auditores, diretamente ou sob a sua supervisão, para executar todas as atividades de controlo da conformidade."
+  },
+  "0b1089c6017462a1": {
+   "fragment_id": "15. CRITÉRIOS DE QUALIFICAÇÃO DOS AUDITORES",
+   "type": "divisao",
+   "heading": "15. CRITÉRIOS DE QUALIFICAÇÃO DOS AUDITORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 15. CRITÉRIOS DE QUALIFICAÇÃO DOS AUDITORES\n\n15.1. Cada Estado-Membro assegura que os auditores que desempenham funções em nome da autoridade competente:\n\na) Estão isentos de obrigações contratuais ou pecuniárias em relação ao aeroporto, ao operador ou à entidade a controlar; e\n\nb) Têm as competências adequadas, que incluem experiência teórica e prática suficiente no domínio pertinente.\n\n15.2. Os auditores devem ter as seguintes competências:\n\na) Conhecimento das medidas de segurança aplicáveis em vigor e das suas modalidades de aplicação às operações que são objeto de análise, nomeadamente:\n\n— conhecimento dos princípios de segurança,\n\n— conhecimento das tarefas de supervisão,\n\n— conhecimento dos fatores que afetam o desempenho humano;\n\nb) Conhecimento prático das tecnologias e técnicas de segurança;\n\nc) Conhecimento dos princípios, procedimentos e técnicas de controlo da conformidade;\n\nd) Conhecimento prático das operações objeto de análise;\n\ne) Conhecimento do papel e dos poderes do auditor.\n\n15.3. Os auditores devem receber formação contínua, com uma frequência suficiente que garanta a manutenção das competências existentes e a aquisição de novas competências que tenham em conta a evolução no domínio da segurança."
+  },
+  "380d3f85a053a924": {
+   "fragment_id": "16. PODERES DOS AUDITORES",
+   "type": "divisao",
+   "heading": "16. PODERES DOS AUDITORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 16. PODERES DOS AUDITORES\n\n16.1. Os auditores que realizam atividades de controlo têm autoridade suficiente para obterem as informações necessárias ao desempenho das suas tarefas.\n\n16.2. Os auditores devem portar um título de identificação que os autoriza a exercer atividades de controlo da conformidade em nome da autoridade competente e lhes dá acesso a todas as zonas requeridas.\n\n16.3. Os auditores podem:\n\na) Obter acesso imediato a todas as zonas pertinentes, incluindo aeronaves e edifícios, para fins de controlo; e\n\nb) Exigir a aplicação correta ou a repetição das medidas de segurança.\n\n16.4. Tendo em conta os poderes conferidos aos auditores, a autoridade competente agirá em conformidade com o ponto 2.3 nos seguintes casos:\n\na) Obstrução ou impedimento intencional do trabalho de um auditor;\n\nb) Não atendimento ou recusa de um pedido de informação de um auditor;\n\nc) Prestação de informações falsas ou erróneas a um auditor de forma dolosa; e\n\nd) Usurpação da identidade de um auditor de forma dolosa."
+  },
+  "9f650e3d7a083480": {
+   "fragment_id": "17. MELHORES PRÁTICAS",
+   "type": "divisao",
+   "heading": "17. MELHORES PRÁTICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 17. MELHORES PRÁTICAS\n\n17.1. Os Estados-Membros informam a Comissão das melhores práticas no que respeita aos programas de controlo da qualidade, às metodologias das auditorias e aos auditores. A Comissão partilha essas informações com os Estados-Membros."
+  },
+  "0bef3b3613d2c063": {
+   "fragment_id": "18. APRESENTAÇÃO DE RELATÓRIOS À COMISSÃO SOBRE AS ATIVIDADES DE CONTROLO DA CONFORMIDADE",
+   "type": "divisao",
+   "heading": "18. APRESENTAÇÃO DE RELATÓRIOS À COMISSÃO SOBRE AS ATIVIDADES DE CONTROLO DA CONFORMIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 18. APRESENTAÇÃO DE RELATÓRIOS À COMISSÃO SOBRE AS ATIVIDADES DE CONTROLO DA CONFORMIDADE\n\n18.1. Os Estados-Membros apresentam anualmente um relatório à Comissão sobre as medidas tomadas para cumprirem as obrigações que lhes incumbem por força do presente regulamento e sobre a situação da segurança da aviação nos aeroportos localizados no seu território. O período de referência para o relatório está compreendido entre 1 de janeiro e 31 de dezembro. O relatório deve ser entregue três meses após o termo do período de referência.\n\n18.2. O conteúdo do relatório está em conformidade com o apêndice III, utilizando um modelo previsto pela Comissão.\n\n18.3. A Comissão partilha com os Estados-Membros as principais conclusões retiradas destes relatórios."
+  },
+  "e47838e25cc43b7d": {
+   "fragment_id": "19. COMUNICAÇÃO DE OCORRÊNCIAS, INCIDENTES, ATOS DE INTERFERÊNCIA ILÍCITA E RESPETIVOS ATOS PREPARATÓRIOS NO DOMÍNIO DA SEGURANÇA DA AVIAÇÃO",
+   "type": "divisao",
+   "heading": "19. COMUNICAÇÃO DE OCORRÊNCIAS, INCIDENTES, ATOS DE INTERFERÊNCIA ILÍCITA E RESPETIVOS ATOS PREPARATÓRIOS NO DOMÍNIO DA SEGURANÇA DA AVIAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 19. COMUNICAÇÃO DE OCORRÊNCIAS, INCIDENTES, ATOS DE INTERFERÊNCIA ILÍCITA E RESPETIVOS ATOS PREPARATÓRIOS NO DOMÍNIO DA SEGURANÇA DA AVIAÇÃO\n\n19.1. Sempre que a autoridade competente identifique ou receba informações sobre um ato de interferência ilícita ou um incidente de segurança da aviação ocorrido ou prestes a ocorrer que tenha ou seja suscetível de ter um impacto grave no nível de segurança da aviação na União ou no sistema internacional de segurança da aviação, essa autoridade deve notificar a Comissão desse facto o mais rapidamente possível. Sem prejuízo das regras nacionais em matéria de proteção das informações pertinentes para a segurança nacional, a notificação deve incluir todas as informações factuais pertinentes e disponíveis que sejam úteis para avaliar a necessidade de uma ação rápida com o objetivo de manter ou restabelecer o nível de segurança da aviação na União e assegurar a cooperação e a coordenação necessárias a nível internacional. Após receber essas informações, a Comissão deve informar os restantes Estados-Membros.\n\n19.2. A fim de cumprir os requisitos estabelecidos no ponto 3.2, alíneas j) e k), e as disposições a seguir enunciadas, a partir de 1 de janeiro de 2028, cada Estado-Membro deve criar um processo para a comunicação, classificação, processamento, armazenamento, proteção, análise e agregação de informações sobre incidentes, atos de interferência ilícita e respetivos atos preparatórios no domínio da segurança da aviação. Esse processo deve prever um sistema de comunicação obrigatório e um sistema de comunicação confidencial voluntário e conter requisitos pormenorizados para assegurar uma comunicação eficaz e eficiente e acompanhamento, incluindo a execução e coordenação de tarefas subsequentes, bem como quaisquer medidas ou decisões que sejam adotadas pelas autoridades competentes.\n\n19.3. A partir de 1 de janeiro de 2028, os operadores e as entidades responsáveis pela execução do programa nacional de segurança da aviação civil devem comunicar às autoridades competentes informações sobre incidentes de segurança da aviação. Os incidentes de segurança são designados por um funcionário ou gestor de segurança para uma ocorrência de segurança comunicada, com base numa análise da ocorrência e na determinação de que são necessárias medidas adicionais. Um incidente de segurança pode também resultar, e ser classificado como tal pela autoridade competente, num ato de interferência ilícita que deve ser comunicado à OACI em conformidade com o anexo 17 da Convenção de Chicago. Aplicam-se os seguintes prazos para a referida comunicação obrigatória de informações, a partir do momento em que a ocorrência subjacente é comunicada através do sistema interno de comunicação de informações referido no ponto 19.4:\n\na) O mais rapidamente possível, embora, o mais tardar, no prazo de 24 horas, caso o incidente tenha um impacto grave e imediato no nível de segurança da aviação;\n\nb) No prazo de 72 horas, caso o incidente tenha um impacto grave no nível de segurança da aviação;\n\nc) Mensalmente, no caso dos restantes incidentes.\n\n19.4. A partir de 1 de janeiro de 2028, os operadores e as entidades responsáveis pela execução do programa nacional de segurança da aviação civil devem criar um sistema interno de comunicação de informações sobre ocorrências de segurança da aviação, de forma prática e atempada. Todo o pessoal dos operadores e das entidades responsáveis pela execução do programa nacional de segurança da aviação civil deve comunicar informações sobre ocorrências de segurança da aviação através do referido sistema interno de comunicação de informações.\n\n19.5. A partir de 1 de janeiro de 2028, as autoridades competentes e qualquer operador ou entidade responsável pela execução do programa nacional de segurança da aviação civil devem designar, pelo menos, uma pessoa ou serviço responsável pela comunicação de informações, incluindo a verificação da qualidade dos dados, a fim de melhorar a coerência dos dados. Os requisitos em matéria de recrutamento e formação das pessoas designadas para desempenhar essas funções são estabelecidos nas regras de execução adotadas pela Comissão nos termos do artigo 4.º, n.º 3, do presente regulamento.\n\n19.6. A partir de 1 de janeiro de 2028, a comunicação obrigatória de informações às autoridades competentes deve ser efetuada utilizando o modelo previsto no apêndice IV e fazer referência à classificação comum prevista no apêndice V. A comunicação voluntária de informações pode também ser efetuada utilizando o modelo previsto no Apêndice IV e fazer referência à classificação comum prevista no apêndice V.\n\n19.7. A partir de 1 de janeiro de 2028*,* as autoridades competentes devem guardar os relatórios numa base de dados nacional. A confidencialidade das informações sensíveis relativas à segurança da aviação contidas nos relatórios, bem como de qualquer análise das mesmas, deve ser assegurada nos termos da legislação nacional e da União aplicável. Para o efeito, cada Estado-Membro deve estabelecer requisitos pormenorizados sobre o acesso a essas informações e sobre a sua proteção física e informática.\n\n19.8. A partir de 1 de janeiro de 2028, cada Estado-Membro deve estabelecer requisitos pormenorizados sobre o processamento e o armazenamento de relatórios, a fim de impedir a utilização de informações contidas nos mesmos para outros fins que não a segurança da aviação, e salvaguardar adequadamente a confidencialidade da identidade do autor da comunicação e das pessoas mencionadas no relatório, sem prejuízo dos requisitos em matéria de processos penais, disciplinares ou administrativos previstos no direito nacional.\n\n19.9. A partir de 1 de janeiro de 2028, as autoridades competentes devem estabelecer e aplicar procedimentos para a partilha, com base no princípio da necessidade de conhecer, de informações pertinentes contidas nos relatórios e sobre medidas de acompanhamento, a fim de ajudar outras autoridades e agências nacionais, operadores aeroportuários, transportadoras aéreas e outras entidades em causa, sempre que tal possa contribuir para manter e melhorar a segurança da aviação.\n\n19.10. A partir de 1 de janeiro de 2028, não obstante o disposto no ponto 19.8, caso as informações sejam relevantes para a segurança da aviação, as autoridades competentes podem partilhá-las com as autoridades nacionais de segurança da aviação civil, sem prejuízo dos requisitos aplicáveis em matéria de confidencialidade, proteção e ocultação, se for caso disso.\n\n19.11. A partir de 1 de janeiro de 2028, sem prejuízo dos requisitos em matéria de confidencialidade e proteção previstos na legislação nacional e da União, consoante o caso, as autoridades competentes devem partilhar as informações pertinentes contidas nos relatórios com a Comissão e os outros Estados-Membros, sempre que tal possa contribuir para manter e melhorar a segurança da aviação, nomeadamente em resposta a pedidos específicos da Comissão ou de outros Estados-Membros.\n\n19.12. A partir de 1 de janeiro de 2028, sem prejuízo dos requisitos em matéria de confidencialidade e proteção previstos na legislação nacional e da União, consoante o caso, a Comissão e os Estados-Membros podem partilhar informações pertinentes contidas nos relatórios com organizações internacionais e com as autoridades competentes de países terceiros, sempre que essa partilha seja exigida nos termos de acordos internacionais ou possa contribuir para manter e melhorar a segurança da aviação.\n\n19.13. A partir de 1 de janeiro de 2028, sem prejuízo do disposto nos pontos 19.1 e 19.11, os Estados-Membros devem apresentar anualmente à Comissão um relatório com estatísticas sobre os relatórios recebidos, agregados de acordo com a classificação comum prevista no apêndice V e a sua análise. O período de referência do relatório é de 1 de janeiro a 31 de dezembro, e o relatório é devido seis meses após o termo do período de referência.\n\n19.14. A partir de 1 de janeiro de 2028, a Comissão deve partilhar as principais conclusões retiradas dos relatórios apresentados nos termos do ponto 19.13 com o Comité de Regulamentação para a Segurança da Aviação Civil e com o Grupo Consultivo de Partes Interessadas na Segurança da Aviação.\n\n19.15. A partir de 1 de janeiro de 2028, a fim de proporcionar uma abordagem harmonizada ao nível da União, a Comissão pode disponibilizar um instrumento adequado no domínio das tecnologias de informação para apoiar o cumprimento dos requisitos estabelecidos no presente capítulo, em coordenação com os Estados-Membros."
+  },
+  "6210b56d3a422046": {
+   "fragment_id": "Apêndice I",
+   "type": "divisao",
+   "heading": "Apêndice I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Apêndice I"
+  },
+  "273697d327adbcf3": {
+   "fragment_id": "Elementos a incluir no conjunto de medidas de segurança diretamente relacionadas",
+   "type": "divisao",
+   "heading": "Elementos a incluir no conjunto de medidas de segurança diretamente relacionadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Elementos a incluir no conjunto de medidas de segurança diretamente relacionadas\n\nOs conjuntos de medidas de segurança diretamente relacionadas a que se refere o ponto 7.1 do presente anexo devem incluir os seguintes elementos do anexo I e as disposições correspondentes das suas medidas de aplicação adotadas pela Comissão nos termos do artigo 4.º, n.º 3 do presente regulamento:"
+  },
+  "aa272ad357a606d1": {
+   "fragment_id": "Para o ponto 1 — Segurança do aeroporto:",
+   "type": "divisao",
+   "heading": "Para o ponto 1 — Segurança do aeroporto:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Para o ponto 1 — Segurança do aeroporto:\n\na) Todas as disposições do ponto 1.1; ou\n\nb) Todas as disposições do ponto 1.2 (exceto as disposições relativas aos cartões de identificação e aos livre-trânsitos dos veículos); ou\n\nc) Todas as disposições do ponto 1.2 relativas aos cartões de identificação; ou\n\nd) Todas as disposições do ponto 1.2 relativas aos livre-trânsitos dos veículos; ou\n\ne) Todas as disposições do ponto 1.3 e elementos pertinentes do ponto 12; ou\n\nf) Todas as disposições do ponto 1.4; ou\n\ng) Todas as disposições do ponto 1.5; ou\n\nh) Todas as disposições do ponto 1.7 e elementos pertinentes do ponto 11."
+  },
+  "c69a969e647bed5d": {
+   "fragment_id": "Para o ponto 2 — Zonas demarcadas dos aeroportos:",
+   "type": "divisao",
+   "heading": "Para o ponto 2 — Zonas demarcadas dos aeroportos:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Para o ponto 2 — Zonas demarcadas dos aeroportos:\n\nTodas as disposições do presente ponto."
+  },
+  "86b847e7bc122e3d": {
+   "fragment_id": "Para o ponto 3 — Segurança das aeronaves:",
+   "type": "divisao",
+   "heading": "Para o ponto 3 — Segurança das aeronaves:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Para o ponto 3 — Segurança das aeronaves:\n\na) Todas as disposições do ponto 3.1; ou\n\nb) Todas as disposições do ponto 3.2;"
+  },
+  "9a727086a647a63b": {
+   "fragment_id": "Para o ponto 4 — Passageiros e bagagem de cabina:",
+   "type": "divisao",
+   "heading": "Para o ponto 4 — Passageiros e bagagem de cabina:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Para o ponto 4 — Passageiros e bagagem de cabina:\n\na) Todas as disposições do ponto 4.1 e elementos pertinentes do ponto 12; ou\n\nb) Todas as disposições do ponto 4.2; ou\n\nc) Todas as disposições do ponto 4.3;"
+  },
+  "cc84aab14d77ef49": {
+   "fragment_id": "Para o ponto 5 — Bagagem de porão:",
+   "type": "divisao",
+   "heading": "Para o ponto 5 — Bagagem de porão:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Para o ponto 5 — Bagagem de porão:\n\na) Todas as disposições do ponto 5.1 e elementos pertinentes do ponto 12; ou\n\nb) Todas as disposições do ponto 5.2; ou\n\nc) Todas as disposições do ponto 5.3;"
+  },
+  "024b68fc7851d63f": {
+   "fragment_id": "Para o ponto 6 — Carga e correio:",
+   "type": "divisao",
+   "heading": "Para o ponto 6 — Carga e correio:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Para o ponto 6 — Carga e correio:\n\na) Todas as disposições relativas ao transporte, ao rastreio e aos controlos de segurança aplicados por um agente reconhecido e elementos pertinentes do ponto 12; ou\n\nb) Todas as disposições relativas ao transporte e aos controlos de segurança aplicados por expedidores conhecidos; ou\n\nc) Todas as disposições relativas ao transporte e aos controlos de segurança aplicados por transportadores aprovados; ou\n\nd) Todas as disposições relativas à proteção da carga e do correio nos aeroportos."
+  },
+  "3444774fb249e212": {
+   "fragment_id": "Para o ponto 7 — Correio e material da transportadora aérea:",
+   "type": "divisao",
+   "heading": "Para o ponto 7 — Correio e material da transportadora aérea:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Para o ponto 7 — Correio e material da transportadora aérea:\n\nTodas as disposições do presente ponto."
+  },
+  "6a8ba6c25200502e": {
+   "fragment_id": "Para o ponto 8 — Provisões de bordo:",
+   "type": "divisao",
+   "heading": "Para o ponto 8 — Provisões de bordo:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Para o ponto 8 — Provisões de bordo:\n\nTodas as disposições do presente ponto e elementos pertinentes do ponto 12."
+  },
+  "0076f5606e5d94ba": {
+   "fragment_id": "Para o ponto 9 — Provisões do aeroporto:",
+   "type": "divisao",
+   "heading": "Para o ponto 9 — Provisões do aeroporto:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Para o ponto 9 — Provisões do aeroporto:\n\nTodas as disposições do presente ponto e elementos pertinentes do ponto 12."
+  },
+  "cae25bbdb12d3439": {
+   "fragment_id": "Para o ponto 10 — Medidas de segurança durante o voo:",
+   "type": "divisao",
+   "heading": "Para o ponto 10 — Medidas de segurança durante o voo:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Para o ponto 10 — Medidas de segurança durante o voo:\n\nTodas as disposições do presente ponto."
+  },
+  "e8e9136ab968277f": {
+   "fragment_id": "Para o ponto 11 — Recrutamento e formação do pessoal:",
+   "type": "divisao",
+   "heading": "Para o ponto 11 — Recrutamento e formação do pessoal:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Para o ponto 11 — Recrutamento e formação do pessoal:\n\na) Todas as disposições relativas ao recrutamento do pessoal por um aeroporto, operador, transportadora aérea ou entidade; ou\n\nb) Todas as disposições relativas à formação do pessoal por um aeroporto, operador, transportadora aérea ou entidade."
+  },
+  "f23f0836b108367d": {
+   "fragment_id": "Apêndice II",
+   "type": "divisao",
+   "heading": "Apêndice II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Apêndice II"
+  },
+  "9e233e6c8f7a6831": {
+   "fragment_id": "Sistema harmonizado de classificação do grau de conformidade",
+   "type": "divisao",
+   "heading": "Sistema harmonizado de classificação do grau de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Sistema harmonizado de classificação do grau de conformidade\n\nPara avaliar a execução do programa nacional de segurança da aviação civil, aplica-se a seguinte classificação do grau de conformidade:\n\n|  | Auditoria à segurança | Inspeção | Teste |\n| --- | --- | --- | --- |\n| Cumpre integralmente | √ | √ | √ |\n| Cumpre, mas melhorias aconselháveis | √ | √ | √ |\n| Não cumpre | √ | √ | √ |\n| Não cumpre, com deficiências graves | √ | √ | √ |\n| Não aplicável | √ | √ |  |\n| Não confirmado | √ | √ | √ |"
+  },
+  "83d5c4bcf6edba8a": {
+   "fragment_id": "Apêndice III",
+   "type": "divisao",
+   "heading": "Apêndice III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Apêndice III"
+  },
+  "e7f5cd663ce11ad7": {
+   "fragment_id": "CONTEÚDO DO RELATÓRIO À COMISSÃO",
+   "type": "divisao",
+   "heading": "CONTEÚDO DO RELATÓRIO À COMISSÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTEÚDO DO RELATÓRIO À COMISSÃO"
+  },
+  "a2d0e038131dac2d": {
+   "fragment_id": "1. Estrutura organizativa, responsabilidades e recursos",
+   "type": "divisao",
+   "heading": "1. Estrutura organizativa, responsabilidades e recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Estrutura organizativa, responsabilidades e recursos\n\na) Estrutura da organização de controlo da qualidade, responsabilidades e recursos, incluindo futuras alterações previstas (ver ponto 3.2, alínea a));\n\nb) Número de auditores — atuais e previstos (ver ponto 14);\n\nc) Formação seguida pelos auditores (ver ponto 15.2)."
+  },
+  "ba448dec16bdb3c2": {
+   "fragment_id": "2. Atividades de controlo das operações",
+   "type": "divisao",
+   "heading": "2. Atividades de controlo das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Atividades de controlo das operações\n\nTodas as atividades de controlo realizadas, com especificação de:\n\na) Tipo (auditoria à segurança, inspeção inicial, inspeção de acompanhamento, teste, outro);\n\nb) Aeroportos, operadores e entidades objeto de controlo;\n\nc) Âmbito;\n\nd) Frequências; e\n\ne) Número total de dias.homem passados no terreno."
+  },
+  "b9ec58706a57bb5c": {
+   "fragment_id": "3. Atividades de correção de deficiências",
+   "type": "divisao",
+   "heading": "3. Atividades de correção de deficiências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Atividades de correção de deficiências\n\na) Situação da execução das atividades de correção de deficiências;\n\nb) Principais atividades executadas ou previstas (por exemplo, criação de novos lugares, aquisição de equipamento, obras de construção) e progressos alcançados com vista à correção;\n\nc) Medidas de execução aplicadas (ver ponto 3.2, alínea f))."
+  },
+  "d86cb65f783a67c2": {
+   "fragment_id": "4. Dados e tendências gerais",
+   "type": "divisao",
+   "heading": "4. Dados e tendências gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Dados e tendências gerais\n\na) Volume total do tráfego nacional anual de passageiros e de carga e número de movimentos de aeronaves;\n\nb) Lista de aeroportos por categoria;\n\nc) Número de transportadoras aéreas que operam a partir do território por categoria (nacionais, União, países terceiros);\n\nd) Número de agentes reconhecidos;\n\ne) Número de expedidores conhecidos;\n\nf) Número de transportadores aprovados;\n\ng) Número de fornecedores reconhecidos (para provisões do aeroporto e para provisões de bordo);\n\nh) Número aproximado de outras entidades com responsabilidades no domínio da segurança da aviação (empresas prestadoras de serviços de assistência em escala, empresas de segurança, fornecedores conhecidos de provisões do aeroporto e de provisões de bordo)."
+  },
+  "4316cfea61361934": {
+   "fragment_id": "5. Situação em matéria de segurança da aviação nos aeroportos",
+   "type": "divisao",
+   "heading": "5. Situação em matéria de segurança da aviação nos aeroportos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Situação em matéria de segurança da aviação nos aeroportos\n\nContexto geral da situação em matéria de segurança da aviação no Estado-Membro."
+  },
+  "e64e615304283494": {
+   "fragment_id": "Apêndice IV",
+   "type": "divisao",
+   "heading": "Apêndice IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Apêndice IV"
+  },
+  "8f91c3fcf2a05493": {
+   "fragment_id": "Modelo para a comunicação de informações sobre ocorrências e incidentes de segurança ([^2^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0002))",
+   "type": "divisao",
+   "heading": "Modelo para a comunicação de informações sobre ocorrências e incidentes de segurança ([^2^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0002))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Modelo para a comunicação de informações sobre ocorrências e incidentes de segurança ([^2^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0002))\n\nData e hora exatos ou período ([^3^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0003)) da ocorrência: …/…/…\n\nData do relatório ([^4^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0004)): …/…/…\n\nLocalização da ocorrência ([^5^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0005)):\n\nNome da empresa e/ou da pessoa que comunica as informações (se possível ([^6^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0006))):\n\nDescrição da ocorrência:\n\nAções imediatas tomadas e por quem ([^7^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0007)):\n\nDomínio afetado em matéria de segurança da aviação:\n\nSegurança do lado terra; Passageiros e bagagem de cabina; Pessoal e tripulação; Controlo de acessos; Bagagem de porão; Provisões de bordo; Provisões do aeroporto; Proteção das aeronaves em terra; Medidas de segurança das aeronaves durante o voo; Carga e correio; Controlo do tráfego aéreo; Informação e tecnologias digitais; Sistema(s) de aeronaves não tripuladas (UAS)/Veículo aéreo não tripulado (UAV)/Sistema(s) de aeronaves remotamente pilotadas (RPAS); Arma de lançamento a distância de invulnerabilidade (MANPAD, etc.); Lasers; Informações sobre segurança da aviação; Aviação geral/aeroclubes\n\nEfeito ou potencial efeito em termos de segurança ([^8^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0008)):\n\nOutras observações/propostas/informações ([^9^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0009)):\n\nContacto (endereço eletrónico, número de telefone):"
+  },
+  "efdc1d0e5e7b5c07": {
+   "fragment_id": "Apêndice V",
+   "type": "divisao",
+   "heading": "Apêndice V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Apêndice V"
+  },
+  "889bf4592c32f386": {
+   "fragment_id": "Classificação comum de ocorrências e incidentes de segurança ([^10^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0010))",
+   "type": "divisao",
+   "heading": "Classificação comum de ocorrências e incidentes de segurança ([^10^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0010))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Classificação comum de ocorrências e incidentes de segurança ([^10^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0010))\n\n| Classe [(^1^)](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0011) | Categoria [(^2^)](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0012) |\n| --- | --- |\n| Segurança do lado terra | Deteção ou utilização de engenhos explosivos improvisados (EEI) ou engenhos incendiários improvisados (EII) num carro armadilhado |\n|  | Deteção ou utilização de EEI/EII transportado por uma pessoa |\n|  | Ataque armado |\n|  | Artigos sem vigilância/suspeitos (também aplicável no lado ar) |\n|  | Ataque nuclear, biológico e químico (NBQ) |\n|  | Danos em infraestruturas críticas/pontos vulneráveis |\n|  | Comportamento suspeito |\n|  | Perturbações não previstas, incluindo ameaças ou falsos alarmes de bomba |\n| Passageiros e bagagem de cabina | Deteção ou utilização de artigo proibido/EEI/EII |\n|  | Deficiência no processo de rastreio dos postos de controlo de segurança |\n|  | Mistura de passageiros rastreados e não rastreados |\n|  | Comportamento suspeito |\n| Pessoal e tripulação | Deficiência no processo de rastreio dos postos de controlo de segurança |\n|  | Deteção ou utilização de artigo proibido/EEI/EII |\n|  | Sabotagem |\n|  | Desvio aos controlos de segurança por pessoa com acesso privilegiado |\n|  | Tentativa deliberada de contornar o regime de credenciação/verificação de antecedentes |\n| Controlo de acessos | Violação ou tentativa de violação do perímetro |\n|  | Acesso não autorizado à zona restrita de segurança ou a outra zona controlada (por não pessoal) |\n|  | Acesso não autorizado ou sem escolta na zona restrita de segurança (pessoal) |\n|  | Comportamento suspeito do pessoal |\n|  | Deficiência no sistema de controlo de acessos |\n|  | Deficiência no sistema de emissão de cartões de identificação |\n|  | Deficiência no sistema de controlo de acessos de veículos, incluindo a realização de controlos de segurança e/ou de rastreio de ocupantes e veículos |\n| Bagagem de porão | Deteção ou utilização de artigo proibido/EEI/EII |\n|  | Deficiência na proteção da bagagem de porão rastreada |\n|  | Indícios de manipulação de bagagem de porão rastreada |\n|  | Deficiência no sistema ou no processo de rastreio da bagagem de porão (HBS) (incluindo a reconciliação da bagagem dos passageiros) |\n|  | Deficiência no processo de transporte de armas expedidas |\n| Provisões de bordo | Acesso não autorizado à instalação de provisões de bordo |\n|  | Deficiência na proteção de provisões seguras |\n|  | Indícios de manipulação de provisões de bordo seguras |\n|  | Deficiência na realização de controlos de segurança |\n|  | Deteção ou utilização de artigo proibido/EEI/EII |\n| Provisões do aeroporto | Acesso não autorizado à instalação |\n|  | Deficiência na proteção de provisões seguras |\n|  | Indícios de manipulação de provisões de aeroporto seguras |\n|  | Deficiência na realização de controlos de segurança |\n|  | Deteção ou utilização de artigo proibido/EEI/EII |\n| Proteção das aeronaves em terra | Passageiro não autorizado na aeronave |\n|  | Pessoal não autorizado na aeronave |\n|  | Deficiência na verificação/controlo de segurança da aeronave |\n|  | Deficiência nas medidas de proteção das aeronaves, incluindo nos locais em que as aeronaves ficam estacionadas durante a noite |\n|  | Deteção ou utilização de artigo proibido/EEI/EII na cabina ou no porão da aeronave |\n| Medidas de segurança das aeronaves durante o voo | Passageiro desordeiro [para efeitos de comunicação de informações, considerar os níveis 3 e 4 (ver o Manual de Segurança da Aviação da OACI)] |\n|  | Deficiência no processo/proteção da porta da cabina de pilotagem |\n|  | Deteção ou utilização de artigo proibido/EEI/EII |\n|  | Ataque NBQ |\n|  | Desvio durante o voo |\n|  | Ameaça de bomba durante o voo |\n| Carga e correio | Acesso não autorizado à instalação de rastreio de carga |\n|  | Deficiência no processo de rastreio |\n|  | Deteção ou utilização de artigo proibido/EEI/EII |\n|  | Deficiência na proteção de carga segura |\n|  | Indícios de manipulação de carga segura |\n|  | Deficiência no processo de aceitação |\n|  | Atividade suspeita |\n|  | Notificação «Não Carregar» ao abrigo de regimes PLACI |\n| Controlo do tráfego aéreo | Ataque armado contra a instalação de controlo de tráfego aéreo (ATC) |\n|  | Destruição ou dano de auxílios à navegação aérea |\n|  | Acesso não autorizado |\n| Informação e tecnologias digitais | Ataque aos sistemas das aeronaves |\n|  | Ataque aos sistemas de gestão do tráfego aéreo (ATM) |\n|  | Ataque aos sistemas aeroportuários |\n|  | Ataque a outros sistemas e dados críticos |\n| Sistemas de aeronaves não tripuladas (UAS) | Incursão não autorizada em espaço aéreo controlado |\n| Veículo aéreo não tripulado (UAV) | Falha evitada/aproximação de aeronave em voo |\n| Sistema de aeronave remotamente pilotada (RPAS) | Choque/colisão com aeronave em voo |\n|  | Avistamento a partir da aeronave/aeroporto |\n|  | Ameaça contra aeronave provocada por um veículo aéreo não tripulado (UAV) |\n|  | Ameaça contra infraestruturas aeroportuárias provocada por um UAV |\n|  | Ameaça contra passageiros provocada por um UAV |\n| Arma de lançamento a distância de invulnerabilidade (MANPAD, etc.) | Ataque a aeronave ou a instalação aeroportuária |\n|  | Avistamento comunicado |\n| Lasers | Ataque a aeronave ou a instalação aeroportuária |\n|  | Avistamento comunicado |\n|  | Atividade suspeita |\n| Informações sobre segurança da aviação | Deficiência na proteção de informações sensíveis sobre segurança da aviação |\n|  | Perda de integridade e disponibilidade dos sistemas de informação |\n| Aviação geral/aeroclubes | Acesso não autorizado |\n|  | Deteção de artigo proibido/EEI/EII |\n| (^1^) Classe: descreve o tema a que se refere o incidente de segurança, por exemplo «controlos de acesso», «bagagem de porão» ou «carga/correio». Os identificadores escolhidos já são comummente utilizados no anexo 17 da OACI e no Manual de Segurança da Aviação (Doc. 8973) e prevê-se que seja fácil para as entidades fazer referência aos mesmos e que sejam relevantes para as autoridades efetuarem avaliações. (^2^) Categoria: indica uma descrição mais específica do incidente de segurança em causa. As categorias diferem por classe, uma vez que os eventuais incidentes de segurança variam em função do processo de segurança da aviação a que se referem. Por exemplo, a classe «Proteção das aeronaves em terra» inclui a categoria «deficiência na verificação/controlo de segurança da aeronave», enquanto a classe «bagagem de porão» inclui a categoria «deficiência na proteção da bagagem de porão rastreada». Haveria ainda uma categoria «outros» para os incidentes que possam ser demasiado raros para justificar uma categoria separada ou que possam ser considerados uma nova ameaça ou vulnerabilidade. Porém, esta opção só deve ser utilizada quando nenhuma das restantes categorias for adequada. |  |\n\n---"
+  },
+  "96db06f06cada49f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#src.E0001)) JO L 240 de 24.8.1992, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Para efeitos do modelo, o termo «ocorrência» abrange as ocorrências e incidentes de segurança da aviação.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Caso não seja possível determinar a data e hora exatas.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Caso seja diferente da data da ocorrência.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#src.E0005)) Nome e, eventualmente, o código IATA/OACI do aeroporto, bem como a área em que a ocorrência é observada.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#src.E0006)) O nome da pessoa singular que comunica as informações pode não ser preenchido.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#src.E0007)) Por exemplo, a notificação da situação às autoridades policiais e/ou aeroportuárias locais.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#src.E0008)) Determinar, do ponto de vista do autor da comunicação, de que forma é afetado o nível de segurança da aviação.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#src.E0009)) A presente secção pode incluir outras informações que o autor da comunicação pretenda, nomeadamente no que diz respeito à avaliação de risco preliminar; Ações destinadas a limitar o efeito na segurança da aviação; Medida(s) corretiva(s) (se aplicável); e estado do processo na empresa (se aplicável).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/5e1aac9d-3298-11f1-be39-01aa75ed71a1.0020.02/DOC_1#src.E0010)) O apêndice V pode também servir de instrumento para categorizar dados de segurança e apoiar o desenvolvimento de definições de ocorrências pertinentes."
+  },
+  "6e466e99a1aa6ac5": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Aviação civil», as operações aéreas efectuadas por aeronaves civis, excluindo as operações realizadas por aeronaves estatais referidas no artigo 3.º da Convenção de Chicago sobre a Aviação Civil Internacional;\n\n2) «Segurança da aviação», a combinação de medidas e de recursos humanos e materiais destinada a proteger a aviação civil contra actos de interferência ilícita que ponham em causa a segurança da aviação civil;\n\n3) «Operador», uma pessoa, organização ou empresa que efectue ou se ofereça para efectuar uma operação de transporte aéreo;\n\n4) «Transportadora aérea», uma empresa de transporte aéreo titular de uma licença de exploração válida ou equivalente;\n\n5) «Transportadora aérea comunitária», uma transportadora aérea titular de uma licença de exploração válida concedida por um Estado-Membro em conformidade com o Regulamento (CEE) n.º 2407/92 do Conselho, de 23 de Julho de 1992, relativo à concessão de licenças às transportadoras aéreas ([^1^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0001));\n\n6) «Entidade», qualquer pessoa, organização ou empresa que não seja um operador;\n\n7) «Artigos proibidos», armas, explosivos ou outros dispositivos, substâncias ou artigos perigosos susceptíveis de ser utilizados para a prática de actos de interferência ilícita que ponham em causa a segurança da aviação civil;\n\n8) «Rastreio», a aplicação de meios técnicos ou outros destinados a identificar e/ou detectar artigos proibidos;\n\n9) «Controlo de segurança», a aplicação de meios susceptíveis de impedir a introdução de artigos proibidos;\n\n10) «Controlo de acesso», a aplicação de meios susceptíveis de impedir a entrada de pessoas e/ou veículos não autorizados;\n\n11) «Lado ar», a zona de movimento dos aeroportos e os terrenos e edifícios adjacentes, ou parte destes, de acesso restrito;\n\n12) «Lado terra», as zonas dos aeroportos e os terrenos e edifícios adjacentes, ou parte destes, não incluídos no lado ar;\n\n13) «Zona restrita de segurança», a zona do lado ar na qual, além de o acesso ser restrito, se aplicam outras normas de segurança da aviação;\n\n14) «Zona demarcada», uma zona separada através de um controlo de acesso, quer de zonas restritas de segurança quer, se a própria zona demarcada for uma zona restrita de segurança, das outras zonas restritas de segurança do aeroporto;\n\n15) «Verificação de antecedentes», a verificação registada da identidade de um indivíduo, incluindo o eventual registo criminal, como parte da avaliação da sua aptidão para aceder sem escolta às zonas restritas de segurança;\n\n16) «Passageiros, bagagem, carga ou correio em transferência», os passageiros, a bagagem, a carga ou o correio que partem de um aeroporto numa aeronave distinta daquela em que chegaram;\n\n17) «Passageiros, bagagem, carga ou correio em trânsito», os passageiros, a bagagem, a carga ou o correio que partem de um aeroporto na mesma aeronave em que chegaram;\n\n18) «Passageiro potencialmente causador de distúrbios», um passageiro expulso de um país, uma pessoa considerada inadmissível por motivos relacionados com a imigração ou uma pessoa sujeita a uma medida judicial de coacção;\n\n19) «Bagagem de cabina», a bagagem destinada ao transporte na cabina da aeronave;\n\n20) «Bagagem de porão», a bagagem destinada ao transporte no porão da aeronave;\n\n21) «Bagagem de porão acompanhada», a bagagem, transportada no porão de uma aeronave, registada para um voo por um passageiro que viaje nesse mesmo voo;\n\n22) «Correio da transportadora aérea», o correio cujo remetente e cujo destinatário são ambos uma transportadora aérea;\n\n23) «Material da transportadora aérea», o material cujo remetente e cujo destinatário são ambos uma transportadora aérea ou que é utilizado por uma transportadora aérea;\n\n24) «Correio», o despacho de correspondência e outros objectos, excluindo correio da transportadora aérea, enviados por serviços postais e a eles destinados, em conformidade com as regras da União Postal Universal;\n\n25) «Carga», os bens destinados ao transporte numa aeronave que não sejam a bagagem, o correio, o correio da transportadora aérea, o material da transportadora aérea e as provisões a bordo;\n\n26) «Agente reconhecido», a transportadora aérea, o agente, o transitário ou qualquer outra entidade que assegure os controlos de segurança no que respeita à carga ou ao correio;\n\n27) «Expedidor conhecido», o expedidor de carga ou de correio por conta própria cujos procedimentos respeitam regras e normas comuns de segurança suficientes para permitir o transporte de carga ou correio em qualquer aeronave;\n\n28) «Expedidor avençado», o expedidor de carga ou de correio por conta própria cujos procedimentos respeitam regras e normas comuns de segurança suficientes para permitir o transporte dessa carga em aeronaves de carga ou de correio em aeronaves de correio;\n\n29) «Controlo de segurança da aeronave», a inspecção das partes interiores da aeronave a que os passageiros possam ter tido acesso, incluindo a inspecção do porão, destinada a detectar artigos proibidos e interferências ilícitas na aeronave;\n\n30) «Verificação de segurança da aeronave», a inspecção do interior e das zonas exteriores acessíveis da aeronave destinada a detectar artigos proibidos e interferências ilícitas que ponham em causa a segurança da aeronave;\n\n31) «Agente de segurança a bordo», uma pessoa contratada por um Estado para viajar em aeronaves das transportadoras aéreas licenciadas por esse Estado, com o objectivo de proteger essas aeronaves e os seus ocupantes contra actos de interferência ilícita que ponham em causa a segurança dos voos."
+  },
+  "70549d0715ddcfd1": {
+   "fragment_id": "Artigo 4.º — Normas de base comuns",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Normas de base comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Normas de base comuns\n\n1.\n\nAs normas de base comuns de protecção da aviação civil contra actos de interferência ilícita que ponham em causa a segurança da aviação civil constam do anexo.\n\nAs normas de base comuns adicionais não previstas à data de entrada em vigor do presente regulamento devem ser aditadas ao anexo nos termos do artigo 251.º do Tratado.\n\n2.\n\nAs medidas gerais, que têm por objecto alterar elementos não essenciais das normas de base comuns referidas no n.º 1, completando-as, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 19.º\n\nEssas medidas gerais incidem sobre:\n\na) Os métodos de rastreio autorizados;\n\nb) As categorias de artigos que podem ser proibidos;\n\nc) No que se refere ao controlo de acesso, os motivos para conceder acesso ao lado ar e às zonas restritas de segurança;\n\nd) Os métodos autorizados para o controlo de veículos e para os controlos e verificações de segurança das aeronaves;\n\ne) Os critérios para o reconhecimento da equivalência das normas de segurança dos países terceiros;\n\nf) As condições em que a carga e o correio devem ser rastreados ou submetidos a outros controlos de segurança, bem como o processo para a aprovação ou designação de agentes reconhecidos, de expedidores conhecidos e de expedidores avençados;\n\ng) As condições em que o correio e o material da transportadora aérea devem ser rastreados ou submetidos a outros controlos de segurança;\n\nh) As condições em que as provisões a bordo e as provisões do aeroporto devem ser rastreadas ou submetidas a outros controlos de segurança, bem como o processo para a aprovação ou designação de fornecedores reconhecidos e de fornecedores conhecidos;\n\ni) Os critérios para a definição das partes críticas das zonas restritas de segurança;\n\nj) Os critérios de recrutamento e os métodos de formação do pessoal;\n\nk) As condições em que podem ser aplicados procedimentos especiais de segurança ou isenções de controlos de segurança; e\n\nl) Quaisquer medidas gerais não previstas à data de entrada em vigor do presente regulamento que tenham por objecto alterar elementos não essenciais das normas de base comuns referidas no n.º 1, completando-as.\n\nPor imperativos de urgência, a Comissão pode recorrer ao procedimento de urgência a que se refere o n.º 4 do artigo 19.º\n\n3.\n\nAs medidas de execução das normas de base comuns referidas no n.º 1 e as medidas gerais referidas no n.º 2 são aprovadas pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 19.º\n\nEssas medidas incluem:\n\na) Os requisitos e procedimentos para o rastreio;\n\nb) Uma lista de artigos proibidos;\n\nc) Os requisitos e procedimentos para o controlo de acesso;\n\nd) Os requisitos e procedimentos para o controlo de veículos e para os controlos e verificações de segurança das aeronaves;\n\ne) As decisões de reconhecimento da equivalência das normas de segurança aplicadas em países terceiros;\n\nf) No que se refere à carga e ao correio, os procedimentos para a aprovação ou designação de agentes reconhecidos, de expedidores conhecidos e de expedidores avençados, bem como as obrigações a cumprir pelos mesmos;\n\ng) Os requisitos e procedimentos para a realização de controlos de segurança do correio da transportadora aérea e do material da transportadora aérea;\n\nh) No que se refere às provisões a bordo e às provisões do aeroporto, os procedimentos para a aprovação ou designação de fornecedores reconhecidos e de fornecedores conhecidos, bem como as obrigações a cumprir pelos mesmos;\n\ni) A definição das partes críticas das zonas restritas de segurança;\n\nj) Os requisitos de recrutamento e formação do pessoal;\n\nk) Os procedimentos especiais de segurança ou as isenções dos controlos de segurança;\n\nl) As especificações técnicas e os procedimentos para a aprovação e utilização de equipamento de segurança; e\n\nm) Os requisitos e procedimentos relativos aos passageiros potencialmente causadores de distúrbios.\n\nAquando da adoção de medidas de execução relacionadas com especificações técnicas e procedimentos para a aprovação e utilização de equipamentos de segurança respeitantes a sistemas de inteligência artificial na aceção do Regulamento (UE) 2024/1689 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0002)), devem ser tidos em conta os requisitos estabelecidos no capítulo III, secção 2, desse regulamento.\n\n4.\n\nQuando alterar o presente regulamento através de uma decisão tomada pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 19.º, a Comissão deve estabelecer critérios que permitam aos Estados-Membros derrogar as normas de base comuns referidas no n.º 1 e adoptar medidas de segurança alternativas que proporcionem um nível adequado de protecção com base numa avaliação de risco local. Essas medidas alternativas devem ser justificadas por motivos referentes às dimensões da aeronave ou à natureza, à escala ou à frequência das operações ou de outras actividades relevantes.\n\nPor imperativos de urgência, a Comissão pode recorrer ao procedimento de urgência a que se refere o n.º 4 do artigo 19.º\n\nOs Estados-Membros devem informar a Comissão dessas medidas.\n\n5. Os Estados-Membros asseguram a aplicação das normas de base comuns a que se refere o n.º 1 nos respectivos territórios. Sempre que tiverem motivos para considerar que o nível de segurança da aviação foi comprometido por uma falha de segurança, os Estados-Membros devem assegurar que sejam tomadas medidas adequadas e imediatas para rectificar essa falha e garantir a segurança permanente da aviação civil."
+  },
+  "a9622eee935edfbe": {
+   "fragment_id": "Modelo para a comunicação de informações sobre ocorrências e incidentes de segurança ([^3^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0003))",
+   "type": "divisao",
+   "heading": "Modelo para a comunicação de informações sobre ocorrências e incidentes de segurança ([^3^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0003))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Modelo para a comunicação de informações sobre ocorrências e incidentes de segurança ([^3^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0003))\n\nData e hora exatos ou período ([^4^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0004)) da ocorrência: …/…/…\n\nData do relatório ([^5^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0005)): …/…/…\n\nLocalização da ocorrência ([^6^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0006)):\n\nNome da empresa e/ou da pessoa que comunica as informações (se possível ([^7^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0007))):\n\nDescrição da ocorrência:\n\nAções imediatas tomadas e por quem ([^8^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0008)):\n\nDomínio afetado em matéria de segurança da aviação:\n\nSegurança do lado terra; Passageiros e bagagem de cabina; Pessoal e tripulação; Controlo de acessos; Bagagem de porão; Provisões de bordo; Provisões do aeroporto; Proteção das aeronaves em terra; Medidas de segurança das aeronaves durante o voo; Carga e correio; Controlo do tráfego aéreo; Informação e tecnologias digitais; Sistema(s) de aeronaves não tripuladas (UAS)/Veículo aéreo não tripulado (UAV)/Sistema(s) de aeronaves remotamente pilotadas (RPAS); Arma de lançamento a distância de invulnerabilidade (MANPAD, etc.); Lasers; Informações sobre segurança da aviação; Aviação geral/aeroclubes\n\nEfeito ou potencial efeito em termos de segurança ([^9^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0009)):\n\nOutras observações/propostas/informações ([^10^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0010)):\n\nContacto (endereço eletrónico, número de telefone):"
+  },
+  "23f9049a5e5861bf": {
+   "fragment_id": "Classificação comum de ocorrências e incidentes de segurança ([^11^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0011))",
+   "type": "divisao",
+   "heading": "Classificação comum de ocorrências e incidentes de segurança ([^11^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0011))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Classificação comum de ocorrências e incidentes de segurança ([^11^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0011))\n\n| Classe [(^1^)](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0012) | Categoria [(^2^)](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#E0013) |\n| --- | --- |\n| Segurança do lado terra | Deteção ou utilização de engenhos explosivos improvisados (EEI) ou engenhos incendiários improvisados (EII) num carro armadilhado |\n|  | Deteção ou utilização de EEI/EII transportado por uma pessoa |\n|  | Ataque armado |\n|  | Artigos sem vigilância/suspeitos (também aplicável no lado ar) |\n|  | Ataque nuclear, biológico e químico (NBQ) |\n|  | Danos em infraestruturas críticas/pontos vulneráveis |\n|  | Comportamento suspeito |\n|  | Perturbações não previstas, incluindo ameaças ou falsos alarmes de bomba |\n| Passageiros e bagagem de cabina | Deteção ou utilização de artigo proibido/EEI/EII |\n|  | Deficiência no processo de rastreio dos postos de controlo de segurança |\n|  | Mistura de passageiros rastreados e não rastreados |\n|  | Comportamento suspeito |\n| Pessoal e tripulação | Deficiência no processo de rastreio dos postos de controlo de segurança |\n|  | Deteção ou utilização de artigo proibido/EEI/EII |\n|  | Sabotagem |\n|  | Desvio aos controlos de segurança por pessoa com acesso privilegiado |\n|  | Tentativa deliberada de contornar o regime de credenciação/verificação de antecedentes |\n| Controlo de acessos | Violação ou tentativa de violação do perímetro |\n|  | Acesso não autorizado à zona restrita de segurança ou a outra zona controlada (por não pessoal) |\n|  | Acesso não autorizado ou sem escolta na zona restrita de segurança (pessoal) |\n|  | Comportamento suspeito do pessoal |\n|  | Deficiência no sistema de controlo de acessos |\n|  | Deficiência no sistema de emissão de cartões de identificação |\n|  | Deficiência no sistema de controlo de acessos de veículos, incluindo a realização de controlos de segurança e/ou de rastreio de ocupantes e veículos |\n| Bagagem de porão | Deteção ou utilização de artigo proibido/EEI/EII |\n|  | Deficiência na proteção da bagagem de porão rastreada |\n|  | Indícios de manipulação de bagagem de porão rastreada |\n|  | Deficiência no sistema ou no processo de rastreio da bagagem de porão (HBS) (incluindo a reconciliação da bagagem dos passageiros) |\n|  | Deficiência no processo de transporte de armas expedidas |\n| Provisões de bordo | Acesso não autorizado à instalação de provisões de bordo |\n|  | Deficiência na proteção de provisões seguras |\n|  | Indícios de manipulação de provisões de bordo seguras |\n|  | Deficiência na realização de controlos de segurança |\n|  | Deteção ou utilização de artigo proibido/EEI/EII |\n| Provisões do aeroporto | Acesso não autorizado à instalação |\n|  | Deficiência na proteção de provisões seguras |\n|  | Indícios de manipulação de provisões de aeroporto seguras |\n|  | Deficiência na realização de controlos de segurança |\n|  | Deteção ou utilização de artigo proibido/EEI/EII |\n| Proteção das aeronaves em terra | Passageiro não autorizado na aeronave |\n|  | Pessoal não autorizado na aeronave |\n|  | Deficiência na verificação/controlo de segurança da aeronave |\n|  | Deficiência nas medidas de proteção das aeronaves, incluindo nos locais em que as aeronaves ficam estacionadas durante a noite |\n|  | Deteção ou utilização de artigo proibido/EEI/EII na cabina ou no porão da aeronave |\n| Medidas de segurança das aeronaves durante o voo | Passageiro desordeiro [para efeitos de comunicação de informações, considerar os níveis 3 e 4 (ver o Manual de Segurança da Aviação da OACI)] |\n|  | Deficiência no processo/proteção da porta da cabina de pilotagem |\n|  | Deteção ou utilização de artigo proibido/EEI/EII |\n|  | Ataque NBQ |\n|  | Desvio durante o voo |\n|  | Ameaça de bomba durante o voo |\n| Carga e correio | Acesso não autorizado à instalação de rastreio de carga |\n|  | Deficiência no processo de rastreio |\n|  | Deteção ou utilização de artigo proibido/EEI/EII |\n|  | Deficiência na proteção de carga segura |\n|  | Indícios de manipulação de carga segura |\n|  | Deficiência no processo de aceitação |\n|  | Atividade suspeita |\n|  | Notificação «Não Carregar» ao abrigo de regimes PLACI |\n| Controlo do tráfego aéreo | Ataque armado contra a instalação de controlo de tráfego aéreo (ATC) |\n|  | Destruição ou dano de auxílios à navegação aérea |\n|  | Acesso não autorizado |\n| Informação e tecnologias digitais | Ataque aos sistemas das aeronaves |\n|  | Ataque aos sistemas de gestão do tráfego aéreo (ATM) |\n|  | Ataque aos sistemas aeroportuários |\n|  | Ataque a outros sistemas e dados críticos |\n| Sistemas de aeronaves não tripuladas (UAS) | Incursão não autorizada em espaço aéreo controlado |\n| Veículo aéreo não tripulado (UAV) | Falha evitada/aproximação de aeronave em voo |\n| Sistema de aeronave remotamente pilotada (RPAS) | Choque/colisão com aeronave em voo |\n|  | Avistamento a partir da aeronave/aeroporto |\n|  | Ameaça contra aeronave provocada por um veículo aéreo não tripulado (UAV) |\n|  | Ameaça contra infraestruturas aeroportuárias provocada por um UAV |\n|  | Ameaça contra passageiros provocada por um UAV |\n| Arma de lançamento a distância de invulnerabilidade (MANPAD, etc.) | Ataque a aeronave ou a instalação aeroportuária |\n|  | Avistamento comunicado |\n| Lasers | Ataque a aeronave ou a instalação aeroportuária |\n|  | Avistamento comunicado |\n|  | Atividade suspeita |\n| Informações sobre segurança da aviação | Deficiência na proteção de informações sensíveis sobre segurança da aviação |\n|  | Perda de integridade e disponibilidade dos sistemas de informação |\n| Aviação geral/aeroclubes | Acesso não autorizado |\n|  | Deteção de artigo proibido/EEI/EII |\n| (^1^) Classe: descreve o tema a que se refere o incidente de segurança, por exemplo «controlos de acesso», «bagagem de porão» ou «carga/correio». Os identificadores escolhidos já são comummente utilizados no anexo 17 da OACI e no Manual de Segurança da Aviação (Doc. 8973) e prevê-se que seja fácil para as entidades fazer referência aos mesmos e que sejam relevantes para as autoridades efetuarem avaliações. (^2^) Categoria: indica uma descrição mais específica do incidente de segurança em causa. As categorias diferem por classe, uma vez que os eventuais incidentes de segurança variam em função do processo de segurança da aviação a que se referem. Por exemplo, a classe «Proteção das aeronaves em terra» inclui a categoria «deficiência na verificação/controlo de segurança da aeronave», enquanto a classe «bagagem de porão» inclui a categoria «deficiência na proteção da bagagem de porão rastreada». Haveria ainda uma categoria «outros» para os incidentes que possam ser demasiado raros para justificar uma categoria separada ou que possam ser considerados uma nova ameaça ou vulnerabilidade. Porém, esta opção só deve ser utilizada quando nenhuma das restantes categorias for adequada. |  |\n\n---"
+  },
+  "3d1d291276b1ade7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#src.E0001)) JO L 240 de 24.8.1992, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Regulamento (UE) 2024/1689 do Parlamento Europeu e do Conselho, de 13 de junho de 2024, que cria regras harmonizadas em matéria de inteligência artificial e que altera os Regulamentos (CE) n.º 300/2008, (UE) n.º 167/2013, (UE) n.º 168/2013, (UE) 2018/858, (UE) 2018/1139 e (UE) 2019/2144 e as Diretivas 2014/90/UE, (UE) 2016/797 e (UE) 2020/1828 (Regulamento da Inteligência Artificial) (JO L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1689/oj).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Para efeitos do modelo, o termo «ocorrência» abrange as ocorrências e incidentes de segurança da aviação.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Caso não seja possível determinar a data e hora exatas.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#src.E0005)) Caso seja diferente da data da ocorrência.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#src.E0006)) Nome e, eventualmente, o código IATA/OACI do aeroporto, bem como a área em que a ocorrência é observada.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#src.E0007)) O nome da pessoa singular que comunica as informações pode não ser preenchido.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#src.E0008)) Por exemplo, a notificação da situação às autoridades policiais e/ou aeroportuárias locais.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#src.E0009)) Determinar, do ponto de vista do autor da comunicação, de que forma é afetado o nível de segurança da aviação.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#src.E0010)) A presente secção pode incluir outras informações que o autor da comunicação pretenda, nomeadamente no que diz respeito à avaliação de risco preliminar; Ações destinadas a limitar o efeito na segurança da aviação; Medida(s) corretiva(s) (se aplicável); e estado do processo na empresa (se aplicável).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/ebbfb59a-641b-11f1-9b18-01aa75ed71a1.0020.02/DOC_1#src.E0011)) O apêndice V pode também servir de instrumento para categorizar dados de segurança e apoiar o desenvolvimento de definições de ocorrências pertinentes."
+  }
+ }
+}

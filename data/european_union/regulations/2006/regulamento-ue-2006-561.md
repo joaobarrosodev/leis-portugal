@@ -38,6 +38,82 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-12-31'
+version_history:
+  file: regulamento-ue-2006-561.versoes.json
+  count: 4
+  source_lastmod: '2024-12-31'
+  versions:
+  - date: '2006-04-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-08-20'
+    amending: eu:celex:32009R1073:por
+    amending_title: REGULAMENTO (CE) N. o 1073/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Outubro de 2009; REGULAMENTO
+      (UE) N. o 165/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de fevereiro de 2014; REGULAMENTO (UE) 2020/1054 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 15 de julho de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 22.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 29.º
+    - Altera Notas
+    - Adita Artigo 8.º-A
+    - Adita Artigo 9.º-A
+    - Adita Artigo 23.º-A
+  - date: '2024-05-22'
+    amending: eu:celex:32024R1258:por
+    amending_title: REGULAMENTO (UE) 2024/1258 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 8.º-A
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 23.º-A
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Notas
+    - Adita Artigo 17.º-A
+  - date: '2024-12-31'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º-A
+    - Altera Artigo 13.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 23.º-A
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Notas
 identifiers:
   celex: 32006R0561
   eli: http://data.europa.eu/eli/reg/2006/561/oj
@@ -52,7 +128,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5cf5ebde-d494-40eb-86a7-2131294ccbd9.0017
   content_url: http://publications.europa.eu/resource/cellar/8c19a9e9-bcb1-11ef-91ed-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R0561-20241231
-  retrieved_at: '2026-10-22T02:35:36Z'
+  retrieved_at: '2026-10-22T15:03:39Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T12:17:21.860+01:00'
 integrity:
@@ -61,9 +137,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:36Z'
-  notes: Texto consolidado 02006R0561-20241231.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:03:39Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2006-561.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -459,37 +535,22 @@ relationships:
   date: '1985-12-31'
 article_structure:
   article_count: 33
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:36Z'
-  warnings: []
+  checked_at: '2026-10-22T15:03:39Z'
+  warnings:
+  - '02006R0561-20060501: versão indisponível (Sem expressão na língua por para CELEX 02006R0561-20060501.)'
+  - '02006R0561-20100604: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R0561-20150302: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 561/2006 do Parlamento Europeu e do Conselho, de 15 de Março de 2006
-
-> 02006R0561 — PT — 31.12.2024 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R1073) — [REGULAMENTO (CE) N.º 1073/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009R1073) — L 300 — 88 — 14.11.2009
-- [►M2](http://publications.europa.eu/resource/celex/32014R0165) — [REGULAMENTO (UE) N.º 165/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0165) — L 60 — 1 — 28.2.2014
-- [►M3](http://publications.europa.eu/resource/celex/32020R1054) — [REGULAMENTO (UE) 2020/1054 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de julho de 2020](http://publications.europa.eu/resource/celex/32020R1054) — L 249 — 1 — 31.7.2020
-- [►M4](http://publications.europa.eu/resource/celex/32024R1258) — [REGULAMENTO (UE) 2024/1258 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1258) — L 1258 — 1 — 2.5.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32006R0561R%2804%29) — [Rectificação, JO L 079, 25.3.2011, p. 26 (561/2006)](http://publications.europa.eu/resource/celex/32006R0561R%2804%29)
-- [►C2](http://publications.europa.eu/resource/celex/32006R0561R%2807%29) — [Rectificação, JO L 195, 20.7.2016, p. 83 (n.o 561/2006)](http://publications.europa.eu/resource/celex/32006R0561R%2807%29)
-
-## [**►C2**](http://publications.europa.eu/resource/celex/32006R0561R%2807%29) REGULAMENTO (CE) N.º 561/2006 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de Março de 2006
 

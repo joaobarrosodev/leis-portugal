@@ -35,6 +35,76 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-06-20'
+version_history:
+  file: diretiva-ue-2003-41.versoes.json
+  count: 5
+  source_lastmod: '2013-06-20'
+  versions:
+  - date: '2003-09-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-01-06'
+    amending: eu:celex:32009L0138:por
+    amending_title: DIRECTIVA 2009/138/CE DO PARLAMENTO EUROPEU E DO CONSELHO, Texto relevante para efeitos do EEE de 25 de
+      Novembro de 2009,
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 6.º — Definições
+    - Altera Artigo 11.º — Informação aos membros e beneficiários
+    - Altera Artigo 17.º — Fundos próprios regulamentares
+    - Altera Artigo 18.º — Regras de investimento
+    - Altera Artigo 24.º — Destinatários
+    - Adita Artigo 17.ºA — Margem de solvência disponível
+    - Adita Artigo 17.ºB — Margem de solvência exigida
+    - Adita Artigo 17.ºC — Fundo de garantia
+    - Adita Artigo 17.ºD — Margem de solvência exigida para efeitos do n.º 3 do artigo 17.º-B
+    - Adita Artigo 21.ºA — Revisão do montante do fundo de garantia
+    - Adita Artigo 21.ºB — Comité
+    - Adita Notas
+  - date: '2011-01-04'
+    amending: eu:celex:32010L0078:por
+    amending_title: DIRECTIVA 2010/78/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 24 de
+      Novembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 9.º — Condições de funcionamento
+    - Altera Artigo 13.º — Informações a prestar às autoridades competentes
+    - Altera Artigo 14.º — Poderes de intervenção e deveres das autoridades competentes
+    - Altera Artigo 15.º — Provisões Técnicas
+    - Altera Artigo 17.ºB — Margem de solvência exigida
+    - Altera Artigo 20.º — Actividades transfronteiriças
+    - Altera Artigo 21.ºB — Comité
+    - Altera Notas
+    - Adita Artigo 21.º
+    - Adita Cooperação entre os Estados-Membros, a EIPOA e a Comissão
+    - Suprime Artigo 21.º — Cooperação entre os Estados-Membros e a Comissão
+  - date: '2011-07-21'
+    amending: eu:celex:32011L0061:por
+    amending_title: DIRECTIVA 2011/61/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 8 de Junho
+      de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 9.º — Condições de funcionamento
+    - Altera Artigo 17.ºB — Margem de solvência exigida
+    - Altera Artigo 19.º — Gestão e guarda
+    - Altera Artigo 21.ºB — Comité
+    - Altera Notas
+  - date: '2013-06-20'
+    amending: eu:celex:32013L0014:por
+    amending_title: DIRETIVA 2013/14/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 21 de maio
+      de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 9.º — Condições de funcionamento
+    - Altera Artigo 17.ºB — Margem de solvência exigida
+    - Altera Artigo 18.º — Regras de investimento
+    - Altera Artigo 21.ºB — Comité
+    - Altera Notas
 identifiers:
   celex: 32003L0041
   eli: http://data.europa.eu/eli/dir/2003/41/oj
@@ -49,7 +119,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/beca409b-a5ad-465d-89ee-4e48ba92daae.0010
   content_url: http://publications.europa.eu/resource/cellar/25af5336-dbbb-40c7-97a5-7751873fdb21.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0041-20130620
-  retrieved_at: '2026-10-22T02:36:50Z'
+  retrieved_at: '2026-10-22T14:54:45Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T15:15:20.621+01:00'
 integrity:
@@ -58,9 +128,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:50Z'
-  notes: Texto consolidado 02003L0041-20130620.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:45Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2003-41.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -242,32 +312,19 @@ relationships:
   source: null
 article_structure:
   article_count: 30
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 2
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:50Z'
+  checked_at: '2026-10-22T14:54:45Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2003/41/CE do Parlamento Europeu e do Conselho , de 3 de Junho de 2003
-
-> 2003L0041 — PT — 20.06.2013 — 004.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009L0138) — [DIRECTIVA 2009/138/CE DO PARLAMENTO EUROPEU E DO CONSELHO, Texto relevante para efeitos do EEE de 25 de Novembro de 2009,](http://publications.europa.eu/resource/celex/32009L0138) — L 335 — 1 — 17.12.2009
-- [►M2](http://publications.europa.eu/resource/celex/32010L0078) — [DIRECTIVA 2010/78/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 24 de Novembro de 2010](http://publications.europa.eu/resource/celex/32010L0078) — L 331 — 120 — 15.12.2010
-- [►M3](http://publications.europa.eu/resource/celex/32011L0061) — [DIRECTIVA 2011/61/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 8 de Junho de 2011](http://publications.europa.eu/resource/celex/32011L0061) — L 174 — 1 — 1.7.2011
-- [►M4](http://publications.europa.eu/resource/celex/32013L0014) — [DIRETIVA 2013/14/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 21 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0014) — L 145 — 1 — 31.5.2013
-
-## DIRECTIVA 2003/41/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 3 de Junho de 2003
 

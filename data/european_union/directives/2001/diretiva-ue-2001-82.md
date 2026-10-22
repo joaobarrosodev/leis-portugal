@@ -35,6 +35,157 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-01-28'
+version_history:
+  file: diretiva-ue-2001-82.versoes.json
+  count: 5
+  source_lastmod: '2022-01-28'
+  versions:
+  - date: '2001-11-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-03-06'
+    amending: eu:celex:32004L0028:por
+    amending_title: DIRECTIVA 2004/28/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de Março de 2004; DIRECTIVA 2009/9/CE DA
+      COMISSÃO Texto relevante para efeitos do EEE de 10 de Fevereiro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 42.º
+    - Altera Artigo 44.º
+    - Altera Artigo 50.º
+    - Altera Artigo 51.º
+    - Altera Artigo 53.º
+  - date: '2009-07-20'
+    amending: eu:celex:32009R0470:por
+    amending_title: REGULAMENTO (CE) N. o 470/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de Maio de 2009; DIRECTIVA 2009/53/CE
+      DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 27.º
+    - Altera Artigo 39.º
+    - Altera Artigo 75.º
+    - Altera Artigo 80.º
+    - Altera INTRODUÇÃO E PRINCÍPIOS GERAIS
+    - Altera C. RESUMOS PORMENORIZADOS E CRÍTICOS
+    - Altera 2. Terminologia habitual
+    - Altera 1.2. Excipientes
+    - Altera 1.4. Substâncias de origem biológica
+    - Altera 1. Introdução
+    - Altera 6.2. Disseminação no animal vacinado
+    - Altera Notas
+    - Adita Artigo 27.ºB
+  - date: '2009-08-07'
+    amending: eu:celex:32009R0596:por
+    amending_title: REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 13.º
+    - Altera Artigo 17.º
+    - Altera Artigo 27.º
+    - Altera Artigo 39.º
+    - Altera Artigo 50.º-A
+    - Altera Artigo 51.º
+    - Altera Artigo 67.º
+    - Altera Artigo 68.º
+    - Altera Artigo 75.º
+    - Altera Artigo 79.º
+    - Altera Artigo 80.º
+    - Altera Artigo 88.º
+    - Altera Artigo 89.º
+    - Altera INTRODUÇÃO E PRINCÍPIOS GERAIS
+    - Altera C. RESUMOS PORMENORIZADOS E CRÍTICOS
+    - Altera 2. Terminologia habitual
+    - Altera 1.2. Excipientes
+    - Altera 1.4. Substâncias de origem biológica
+    - Altera 1. Introdução
+    - Altera 6.2. Disseminação no animal vacinado
+    - Altera Notas
+  - date: '2022-01-28'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DEFINIÇÕES
+    - Suprime Artigo 1.º
+    - Suprime TÍTULO II
+    - Suprime ÂMBITO DE APLICAÇÃO
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime TÍTULO III
+    - Suprime INTRODUÇÃO NO MERCADO
+    - Suprime CAPÍTULO 1
+    - Suprime Autorização de introdução no mercado
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 13.º-A
+    - Suprime Artigo 13.º-B
+    - Suprime Artigo 13.º-C
+    - Suprime Artigo 13.º-D
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime CAPÍTULO 2
+    - Suprime Disposições específicas aplicáveis aos medicamentos homeopáticos veterinários
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime CAPÍTULO 3
+    - Suprime Procedimento relativo à autorização de introdução no mercado
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
 identifiers:
   celex: 32001L0082
   eli: http://data.europa.eu/eli/dir/2001/82/oj
@@ -49,7 +200,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c2c47535-c88b-4327-b1cc-037151f17287.0010
   content_url: http://publications.europa.eu/resource/cellar/998dd3ef-9acb-11ec-83e1-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0082-20220128
-  retrieved_at: '2026-10-22T02:37:56Z'
+  retrieved_at: '2026-10-22T14:50:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T16:38:12.562+01:00'
 integrity:
@@ -58,9 +209,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:56Z'
-  notes: Texto consolidado 02001L0082-20220128.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:18Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2001-82.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -252,16 +403,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:56Z'
+  checked_at: '2026-10-22T14:50:18Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02001L0082-20040430: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

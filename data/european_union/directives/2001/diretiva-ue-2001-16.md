@@ -35,6 +35,77 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-07-19'
+version_history:
+  file: diretiva-ue-2001-16.versoes.json
+  count: 3
+  source_lastmod: '2010-07-19'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-02'
+    amending: eu:celex:32007L0032:por
+    amending_title: DIRECTIVA 2007/32/CE DA COMISSÃO Texto relevante para efeitos do EEE de 1 de Junho de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 14.º
+    - Altera Artigo 23.º
+    - Altera 1. INFRA-ESTRUTURAS
+    - Altera 1. INTRODUÇÃO
+    - Altera 2. FASES
+    - Altera 3. CERTIFICADO
+    - Altera 4. PROCESSO TÉCNICO
+    - Altera 5. VIGILÂNCIA
+    - Altera 6. DEPÓSITO
+    - Altera 7. PUBLICAÇÃO
+    - Altera 8. LÍNGUA
+    - Altera Notas
+  - date: '2010-07-19'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime Disposições gerais
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime CAPÍTULO II
+    - Suprime Especificações técnicas de interoperabilidade
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime CAPÍTULO III
+    - Suprime Componentes de interoperabilidade
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime CAPÍTULO IV
+    - Suprime Subsistemas
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime CAPÍTULO V
+    - Suprime Organismos notificados
+    - Suprime Artigo 20.º
+    - Suprime CAPÍTULO VI
+    - Suprime Comité e programa de trabalho
+    - Suprime Artigo 21.º
+    - Suprime Artigo 21.ºA
+    - Suprime Artigo 21.ºB
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime CAPÍTULO VII
+    - Suprime Registos da infra-estrutura e do material circulante
 identifiers:
   celex: 32001L0016
   eli: http://data.europa.eu/eli/dir/2001/16/oj
@@ -49,7 +120,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/91f1f3fa-0f81-4c4d-ab23-10f7ea92025f.0010
   content_url: http://publications.europa.eu/resource/cellar/0b642738-91a2-4c9e-809f-de0f135728d0.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0016-20100719
-  retrieved_at: '2026-10-22T02:47:21Z'
+  retrieved_at: '2026-10-22T14:49:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:23:56.394+02:00'
 integrity:
@@ -58,9 +129,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:21Z'
-  notes: Texto consolidado 02001L0016-20100719.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:57Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2001-16.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -153,16 +224,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:21Z'
+  checked_at: '2026-10-22T14:49:57Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02001L0016-20010420: versão indisponível (Sem expressão na língua por para CELEX 02001L0016-20010420.)'
   errors: []
 ---
 

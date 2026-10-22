@@ -36,6 +36,112 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-04-12'
+version_history:
+  file: regulamento-ue-2006-562.versoes.json
+  count: 3
+  source_lastmod: '2016-04-12'
+  versions:
+  - date: '2006-04-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-11-26'
+    amending: eu:celex:32008R0296:por
+    amending_title: M1; REGULAMENTO (CE) N. o 81/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de Janeiro de 2009; REGULAMENTO
+      (CE) N. o 810/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de Julho de 2009; REGULAMENTO (UE) N. o 265/2010 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 25 de Março de 2010; REGULAMENTO (UE) N. o 610/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de
+      26 de junho de 2013; REGULAMENTO (UE) N. o 1051/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de outubro de 2013; TRATADO
+      RELATIVO À ADESÃO DA REPÚBLICA DA CROÁCIA À UNIÃO EUROPEIA
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Âmbito de aplicação
+    - Altera Artigo 4.º — Passagem das fronteiras externas
+    - Altera Artigo 5.º — Condições de entrada para os nacionais de países terceiros
+    - Altera Artigo 6.º — Realização dos controlos de fronteira
+    - Altera Artigo 7.º — Controlos de fronteira sobre as pessoas
+    - Altera Artigo 9.º — Criação de corredores separados e sinalização
+    - Altera Artigo 11.º — Presunção quanto ao cumprimento das condições de duração da estada
+    - Altera Artigo 12.º — Vigilância de fronteiras
+    - Altera Artigo 13.º — Recusa de entrada
+    - Altera Artigo 15.º — Execução das medidas de controlo
+    - Altera Artigo 18.º — Regras específicas aplicáveis aos vários tipos de fronteiras e aos vários meios de transporte utilizados
+      para a passagem das fronteiras externas
+    - Altera Artigo 19.º — Regras específicas de controlo para determinadas categorias de pessoas
+    - Altera Artigo 21.º — Controlos no interior do território
+    - Altera Artigo 29.º — Relatório sobre a reintrodução do controlo nas fronteiras internas
+    - Altera Artigo 30.º — Informação do público
+    - Altera Artigo 32.º — Alteração dos anexos
+    - Altera Artigo 34.º — Notificações
+    - Altera Artigo 36.º — Ceuta e Melilha
+    - Altera Artigo 37.º — Comunicação de informações pelos Estados-Membros
+    - Altera Artigo 39.º — Revogações
+    - Altera Artigo 40.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 3.º-A — Direitos fundamentais
+    - Adita Artigo 10.º
+    - Adita Aposição de carimbo nos documentos de viagem
+    - Adita Artigo 19.º-A
+    - Adita CAPÍTULO IV-A
+    - Adita Medidas específicas em caso de deficiências graves relacionadas com o controlo nas fronteiras externas
+    - Adita Artigo 19.º-B — Medidas nas fronteiras externas e apoio da Agência
+    - Adita Artigo 23.º — Quadro geral para a reintrodução temporária do controlo nas fronteiras internas
+    - Adita Artigo 23.º-A — Critérios para a reintrodução temporária do controlo nas fronteiras internas
+    - Adita Artigo 24.º — Procedimento para a reintrodução temporária do controlo nas fronteiras internas ao abrigo do artigo
+      23.º, n.º 1
+    - Adita Artigo 25.º — Procedimento específico nos casos que exijam ação imediata
+    - Adita Artigo 26.º — Procedimento específico em circunstâncias excecionais que ponham em risco o funcionamento global
+      do espaço sem controlos nas fronteiras internas
+    - Adita Artigo 26.º-A — Critérios para a reintrodução temporária do controlo nas fronteiras internas em circunstâncias
+      excecionais que ponham em risco o funcionamento global do espaço sem controlos nas fronteiras internas
+    - Adita Artigo 27.º — Informação do Parlamento Europeu e do Conselho
+    - Adita Artigo 33.º — Exercício da delegação
+    - Adita Artigo 33.º-A — Procedimento de comité
+  - date: '2016-04-12'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objecto e princípios
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Âmbito de aplicação
+    - Suprime Artigo 3.º-A — Direitos fundamentais
+    - Suprime TÍTULO II
+    - Suprime FRONTEIRAS EXTERNAS
+    - Suprime CAPÍTULO I
+    - Suprime Passagem das fronteiras externas e condições de entrada
+    - Suprime Artigo 4.º — Passagem das fronteiras externas
+    - Suprime Artigo 5.º — Condições de entrada para os nacionais de países terceiros
+    - Suprime CAPÍTULO II
+    - Suprime Controlo das fronteiras externas e recusa de entrada
+    - Suprime Artigo 6.º — Realização dos controlos de fronteira
+    - Suprime Artigo 7.º — Controlos de fronteira sobre as pessoas
+    - Suprime Artigo 8.º — Simplificação dos controlos de fronteira
+    - Suprime Artigo 9.º — Criação de corredores separados e sinalização
+    - Suprime Artigo 10.º
+    - Suprime Aposição de carimbo nos documentos de viagem
+    - Suprime Artigo 11.º — Presunção quanto ao cumprimento das condições de duração da estada
+    - Suprime Artigo 12.º — Vigilância de fronteiras
+    - Suprime Artigo 13.º — Recusa de entrada
+    - Suprime CAPÍTULO III
+    - Suprime Recursos humanos e meios destinados ao controlo fronteiriço e cooperação entre Estados-Membros
+    - Suprime Artigo 14.º — Recursos humanos e meios destinados ao controlo fronteiriço
+    - Suprime Artigo 15.º — Execução das medidas de controlo
+    - Suprime Artigo 16.º — Cooperação entre os Estados-Membros
+    - Suprime Artigo 17.º — Controlo conjunto
+    - Suprime CAPÍTULO IV
+    - Suprime Regras específicas dos controlos de fronteira
+    - Suprime Artigo 18.º — Regras específicas aplicáveis aos vários tipos de fronteiras e aos vários meios de transporte
+      utilizados para a passagem das fronteiras externas
+    - Suprime Artigo 19.º — Regras específicas de controlo para determinadas categorias de pessoas
+    - Suprime Artigo 19.º-A
+    - Suprime CAPÍTULO IV-A
+    - Suprime Medidas específicas em caso de deficiências graves relacionadas com o controlo nas fronteiras externas
+    - Suprime Artigo 19.º-B — Medidas nas fronteiras externas e apoio da Agência
+    - Suprime TÍTULO III
+    - Suprime FRONTEIRAS INTERNAS
 identifiers:
   celex: 32006R0562
   eli: http://data.europa.eu/eli/reg/2006/562/oj
@@ -50,7 +156,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f7c5f31d-7fbf-4245-9547-ddac7a0908cd.0017
   content_url: http://publications.europa.eu/resource/cellar/a62a23ca-354b-4be6-9a36-1a97ec68536c.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R0562-20160412
-  retrieved_at: '2026-10-22T02:45:18Z'
+  retrieved_at: '2026-10-22T15:03:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T12:28:24.185+01:00'
 integrity:
@@ -59,9 +165,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:18Z'
-  notes: Texto consolidado 02006R0562-20160412.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:03:55Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2006-562.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -355,16 +461,19 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:18Z'
+  checked_at: '2026-10-22T15:03:55Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02006R0562-20080410: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R0562-20090224: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R0562-20100405: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R0562-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R0562-20131018: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

@@ -34,6 +34,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-05-05'
+version_history:
+  file: diretiva-ue-1989-552.versoes.json
+  count: 2
+  source_lastmod: '2010-05-05'
+  versions:
+  - date: '2007-12-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-05-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime Definições
+    - Suprime Artigo 1.º
+    - Suprime CAPÍTULO II
+    - Suprime Disposições gerais
+    - Suprime Artigo 2.º
+    - Suprime Artigo 2.º-A
+    - Suprime Artigo 3.º
+    - Suprime CAPÍTULO II-A
+    - Suprime Disposições aplicáveis a todos os serviços de comunicação social audiovisual
+    - Suprime Artigo 3.º-A
+    - Suprime Artigo 3.º-B
+    - Suprime Artigo 3.º-C
+    - Suprime Artigo 3.º-D
+    - Suprime Artigo 3.º-E
+    - Suprime Artigo 3.º-F
+    - Suprime Artigo 3.º-G
+    - Suprime CAPÍTULO II-B
+    - Suprime Disposições exclusivamente aplicáveis aos serviços de comunicação social audiovisual a pedido
+    - Suprime Artigo 3.º-H
+    - Suprime Artigo 3.º-I
+    - Suprime CAPÍTULO II-C
+    - Suprime Disposições relativas a direitos exclusivos e curtos resumos noticiosos na radiodifusão televisiva
+    - Suprime Artigo 3.º-J
+    - Suprime Artigo 3.º-K
+    - Suprime CAPÍTULO III
+    - Suprime Promoção da distribuição e da produção de programas televisivos
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 9.º
+    - Suprime CAPÍTULO IV
+    - Suprime Publicidade televisiva e televenda
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 18.º-A
+    - Suprime Artigo 19.º
 identifiers:
   celex: 31989L0552
   eli: http://data.europa.eu/eli/dir/1989/552/oj
@@ -48,7 +101,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/63084a3f-be4a-4415-bf02-ac5f76524348.0011
   content_url: http://publications.europa.eu/resource/cellar/8075cd09-a74f-4faa-a00a-1ed7dff3dfa6.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0552-20100505
-  retrieved_at: '2026-10-22T02:38:06Z'
+  retrieved_at: '2026-10-22T14:35:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T16:13:49.175+01:00'
 integrity:
@@ -57,9 +110,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:06Z'
-  notes: Texto consolidado 01989L0552-20100505.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:35:59Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1989-552.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -244,16 +297,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:06Z'
+  checked_at: '2026-10-22T14:35:59Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01989L0552-19891016: versão indisponível (Sem expressão na língua por para CELEX 01989L0552-19891016.)'
+  - '01989L0552-19970730: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

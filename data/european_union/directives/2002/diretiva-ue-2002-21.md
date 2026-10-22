@@ -35,6 +35,151 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-12-21'
+version_history:
+  file: diretiva-ue-2002-21.versoes.json
+  count: 5
+  source_lastmod: '2020-12-21'
+  versions:
+  - date: '2002-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-30'
+    amending: eu:celex:32007R0717:por
+    amending_title: REGULAMENTO (CE) N. o 717/2007 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de Junho de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito e objectivo
+    - Altera Artigo 26.º — Revogação
+    - Altera Artigo 30.º — Destinatários
+    - Altera ANEXO II
+    - Adita CAPÍTULO I
+    - Adita ÂMBITO, OBJECTIVO E DEFINIÇÕES
+    - Adita CAPÍTULO II
+    - Adita AUTORIDADES REGULADORAS NACIONAIS
+    - Adita CAPÍTULO III
+    - Adita FUNÇÕES DAS AUTORIDADES REGULADORAS NACIONAIS
+    - Adita CAPÍTULO IV
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita CAPÍTULO V
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita ANEXO I
+    - Adita Lista dos mercados a incluir na recomendação inicial da Comissão sobre mercados de produtos e serviços referida
+      no artigo 15.º
+    - Adita 1. Mercados referidos na Directiva 2001/22/CE (directiva serviço universal)
+    - Adita 2. Mercados referidos na Directiva 2001/19/CE (directiva acesso)
+    - Adita 3. Mercados referidos no Regulamento (CE) n.º 2887/2000
+    - Adita 4. Mercados adicionais
+    - Adita Critérios a utilizar pelas autoridades reguladoras nacionais na avaliação de uma posição dominante conjunta nos
+      termos do n.º 2, segundo parágrafo, do artigo 14.º
+    - Adita Notas
+    - Suprime CAPÍTULO I — ÂMBITO, OBJECTIVO E DEFINIÇÕES
+    - Suprime CAPÍTULO II — AUTORIDADES REGULADORAS NACIONAIS
+    - Suprime CAPÍTULO III — FUNÇÕES DAS AUTORIDADES REGULADORAS NACIONAIS
+    - Suprime CAPÍTULO IV — DISPOSIÇÕES GERAIS
+    - Suprime CAPÍTULO V — DISPOSIÇÕES FINAIS
+    - Suprime ANEXO I — Lista dos mercados a incluir na recomendação inicial da Comissão sobre mercados de produtos e serviços
+      referida no artigo 15.o
+  - date: '2009-07-02'
+    amending: eu:celex:32009R0544:por
+    amending_title: REGULAMENTO (CE) N. o 544/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito e objectivo
+    - Altera Artigo 26.º — Revogação
+    - Altera Notas
+  - date: '2009-12-19'
+    amending: eu:celex:32009L0140:por
+    amending_title: DIRECTIVA 2009/140/CE DO PARLAMENTO EUROPEU E DO CONSELHO, Texto relevante para efeitos do EEE de 25 de
+      Novembro de 2009,
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito e objectivo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Autoridades reguladoras nacionais
+    - Altera Artigo 4.º — Direito de recurso
+    - Altera Artigo 5.º — Prestação de informações
+    - Altera Artigo 6.º — Mecanismo de consulta e de transparência
+    - Altera Artigo 7.º — Consolidação do mercado interno das comunicações electrónicas
+    - Altera Artigo 8.º — Objectivos de política geral e princípios de regulação
+    - Altera Artigo 9.º — Gestão das radiofrequências para serviços de comunicações electrónicas
+    - Altera Artigo 10.º — Numeração e atribuição de nomes e endereços
+    - Altera Artigo 11.º — Direitos de passagem
+    - Altera Artigo 14.º — Empresas com poder de mercado significativo
+    - Altera Artigo 16.º — Procedimento de análise de mercado
+    - Altera Artigo 17.º — Normalização
+    - Altera Artigo 18.º — Interoperabilidade dos serviços de televisão digital interactiva
+    - Altera Artigo 19.º — Medidas de harmonização
+    - Altera Artigo 20.º — Resolução de litígios entre empresas
+    - Altera Artigo 21.º — Resolução de litígios transfronteiriços
+    - Altera Artigo 22.º — Comité
+    - Altera Artigo 26.º — Revogação
+    - Altera Notas
+    - Adita Artigo 7.ºA — Procedimento para a aplicação coerente de medidas correctivas
+    - Adita Artigo 7.ºB — Disposições de execução
+    - Adita Artigo 8.ºA — Planeamento estratégico e coordenação da política do espectro de radiofrequências
+    - Adita Artigo 9.ºA — Revisão das restrições aos direitos existentes
+    - Adita Artigo 9.ºB — Transferência ou locação de direitos individuais de utilização de radiofrequências
+    - Adita Artigo 12.º — Partilha de locais e de elementos da rede e recursos conexos pelos operadores de redes de comunicações
+      electrónicas
+    - Adita CAPÍTULO III-A
+    - Adita SEGURANÇA E INTEGRIDADE DE REDES E SERVIÇOS
+    - Adita Artigo 13.ºA — Segurança e integridade
+    - Adita Artigo 13.ºB — Aplicação e execução
+    - Adita Artigo 15.º
+    - Adita Procedimento para a identificação e a definição de mercados
+    - Adita Artigo 21.ºA — Sanções
+    - Adita Critérios a utilizar pelas autoridades reguladoras nacionais na avaliação de uma posição dominante conjunta nos
+      termos do segundo parágrafo do n.º 2 do artigo 14.º.
+    - Suprime Artigo 12.º — Partilha de locais e recursos
+    - Suprime Artigo 15.º — Procedimento de definição do mercado
+    - Suprime Artigo 27.º — Medidas transitórias
+    - Suprime ANEXO I
+  - date: '2020-12-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime ÂMBITO, OBJECTIVO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Âmbito e objectivo
+    - Suprime Artigo 2.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime AUTORIDADES REGULADORAS NACIONAIS
+    - Suprime Artigo 3.º — Autoridades reguladoras nacionais
+    - Suprime Artigo 4.º — Direito de recurso
+    - Suprime Artigo 5.º — Prestação de informações
+    - Suprime Artigo 6.º — Mecanismo de consulta e de transparência
+    - Suprime Artigo 7.º — Consolidação do mercado interno das comunicações electrónicas
+    - Suprime Artigo 7.ºA — Procedimento para a aplicação coerente de medidas correctivas
+    - Suprime Artigo 7.ºB — Disposições de execução
+    - Suprime CAPÍTULO III
+    - Suprime FUNÇÕES DAS AUTORIDADES REGULADORAS NACIONAIS
+    - Suprime Artigo 8.º — Objectivos de política geral e princípios de regulação
+    - Suprime Artigo 8.ºA — Planeamento estratégico e coordenação da política do espectro de radiofrequências
+    - Suprime Artigo 9.º — Gestão das radiofrequências para serviços de comunicações electrónicas
+    - Suprime Artigo 9.ºA — Revisão das restrições aos direitos existentes
+    - Suprime Artigo 9.ºB — Transferência ou locação de direitos individuais de utilização de radiofrequências
+    - Suprime Artigo 10.º — Numeração e atribuição de nomes e endereços
+    - Suprime Artigo 11.º — Direitos de passagem
+    - Suprime Artigo 12.º — Partilha de locais e de elementos da rede e recursos conexos pelos operadores de redes de comunicações
+      electrónicas
+    - Suprime Artigo 13.º — Separação contabilística e relatórios financeiros
+    - Suprime CAPÍTULO III-A
+    - Suprime SEGURANÇA E INTEGRIDADE DE REDES E SERVIÇOS
+    - Suprime Artigo 13.ºA — Segurança e integridade
+    - Suprime Artigo 13.ºB — Aplicação e execução
+    - Suprime CAPÍTULO IV
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 14.º — Empresas com poder de mercado significativo
+    - Suprime Artigo 15.º
+    - Suprime Procedimento para a identificação e a definição de mercados
+    - Suprime Artigo 16.º — Procedimento de análise de mercado
+    - Suprime Artigo 17.º — Normalização
+    - Suprime Artigo 18.º — Interoperabilidade dos serviços de televisão digital interactiva
+    - Suprime Artigo 19.º — Medidas de harmonização
+    - Suprime Artigo 20.º — Resolução de litígios entre empresas
+    - Suprime Artigo 21.º — Resolução de litígios transfronteiriços
 identifiers:
   celex: 32002L0021
   eli: http://data.europa.eu/eli/dir/2002/21/oj
@@ -49,7 +194,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/aab5b35a-5fb4-4ab0-8a48-104bdb252fc4.0010
   content_url: http://publications.europa.eu/resource/cellar/1f8608ab-3552-11eb-b27b-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0021-20201221
-  retrieved_at: '2026-10-22T02:41:19Z'
+  retrieved_at: '2026-10-22T14:51:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-27T19:06:20.404+02:00'
 integrity:
@@ -58,9 +203,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:19Z'
-  notes: Texto consolidado 02002L0021-20201221.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:22Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2002-21.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -462,16 +607,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:19Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:51:22Z'
+  warnings: []
   errors: []
 ---
 

@@ -34,6 +34,136 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-10-01'
+version_history:
+  file: regulamento-ue-2006-952.versoes.json
+  count: 8
+  source_lastmod: '2017-10-01'
+  versions:
+  - date: '2006-07-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-05-30'
+    amending: eu:celex:32007R0551:por
+    amending_title: REGULAMENTO (CE) N. o 551/2007 DA COMISSÃO de 22 de Maio de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Produção de açúcar
+    - Altera Artigo 6.º — Produção de uma empresa
+    - Altera Artigo 13.º — Estabelecimento dos preços médios
+    - Altera Artigo 15.º — Disposições transitórias para a transmissão dos dados de preços
+    - Altera Artigo 17.º — Bonificações e reduções
+    - Altera Artigo 18.º — Quotas adicionais de açúcar
+    - Altera Artigo 19.º — Quotas suplementares de isoglicose
+    - Altera Artigo 21.º — Comunicações relativas à produção e às existências
+    - Altera Artigo 32.º — Preço de compra e qualidade do açúcar branco
+    - Altera Artigo 37.º — Controlo dos locais de armazenagem
+    - Altera Artigo 40.º — Anúncio de concurso
+    - Altera Artigo 44.º — Apresentação da proposta
+    - Altera Artigo 56.º — Liberação da garantia
+    - Altera Artigo 60.º — Entrada em vigor
+    - Altera Notas
+    - Adita QUOTAS E ENCARGO DE PRODUÇÃO
+    - Adita Artigo 20.º-A — Encargo de produção
+    - Adita ANEXO
+    - Adita QUANTIDADES POR ESTADO-MEMBRO REFERIDAS NO N.º 3 DO ARTIGO 23.º
+    - Suprime QUOTAS
+  - date: '2008-10-01'
+    amending: eu:celex:32008R0707:por
+    amending_title: REGULAMENTO (CE) N. o 707/2008 DA COMISSÃO de 24 de Julho de 2008; REGULAMENTO (CE) N. o 826/2008 DA COMISSÃO
+      de 20 de Agosto de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Produção de açúcar
+    - Altera Artigo 6.º — Produção de uma empresa
+    - Altera Artigo 10.º — Controlos
+    - Altera Artigo 21.º — Comunicações relativas à produção e às existências
+    - Altera Artigo 23.º — Oferta
+    - Altera Artigo 37.º — Controlo dos locais de armazenagem
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 14.º-A — Informações adicionais
+    - Adita Artigo 15.º-A — Disposições finais para a transmissão dos dados de preços
+    - Adita Artigo 16.º-A — Condições de compra da beterraba
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Condições de compra da beterraba referidas no artigo 16.º-A
+    - Adita PONTO I
+    - Adita PONTO II
+    - Adita PONTO III
+    - Adita PONTO IV
+    - Adita PONTO V
+    - Adita PONTO VI
+    - Adita PONTO VII
+    - Adita PONTO VIII
+    - Adita PONTO IX
+    - Adita PONTO X
+    - Adita PONTO XI
+    - Adita PONTO XII
+    - Adita PONTO XIII
+    - Suprime Artigo 1.º — Objecto
+    - Suprime ANEXO
+    - Suprime QUANTIDADES POR ESTADO-MEMBRO REFERIDAS NO N.º 3 DO ARTIGO 23.º
+  - date: '2009-11-13'
+    amending: eu:celex:32009R1053:por
+    amending_title: REGULAMENTO (CE) N. o 1053/2009 DA COMISSÃO de 5 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Produção de uma empresa
+    - Altera Artigo 14.º — Informação sobre os preços
+    - Altera Artigo 14.º-A — Informações adicionais
+    - Altera Artigo 37.º — Controlo dos locais de armazenagem
+    - Altera Notas
+  - date: '2011-12-25'
+    amending: eu:celex:32011R1369:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1369/2011 DA COMISSÃO de 21 de Dezembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Produção de uma empresa
+    - Altera Artigo 14.º — Informação sobre os preços
+    - Altera Artigo 14.º-A — Informações adicionais
+    - Altera Artigo 37.º — Controlo dos locais de armazenagem
+    - Altera Notas
+  - date: '2014-01-01'
+    amending: eu:celex:32013R0994:por
+    amending_title: Regulamento de Execução (UE) n. o 994/2013 da Comissão de 16 de outubro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Produção de uma empresa
+    - Altera Artigo 14.º-A — Informações adicionais
+    - Altera Artigo 32.º — Preço de compra e qualidade do açúcar branco
+    - Altera Artigo 36.º — Diferendos relativos à qualidade
+    - Altera Artigo 37.º — Controlo dos locais de armazenagem
+    - Altera Notas
+    - Adita Artigo 58.º — Comunicações e notificações
+    - Suprime Artigo 58.º — Comunicações
+  - date: '2016-10-01'
+    amending: eu:celex:32015R2000:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2015/2000 DA COMISSÃO de 9 de novembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Produção de uma empresa
+    - Altera Artigo 14.º-A — Informações adicionais
+    - Altera Artigo 15.º-A — Disposições finais para a transmissão dos dados de preços
+    - Altera Artigo 37.º — Controlo dos locais de armazenagem
+    - Altera Artigo 58.º — Comunicações e notificações
+    - Altera Notas
+  - date: '2017-10-01'
+    amending: eu:celex:32017R1185:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2017/1185 DA COMISSÃO de 20 de abril de 2017
+    changes:
+    - Altera Artigo 6.º — Produção de uma empresa
+    - Altera Artigo 37.º — Controlo dos locais de armazenagem
+    - Altera Artigo 58.º — Comunicações e notificações
+    - Altera Notas
+    - Suprime Artigo 12.º — Comunicações à Comissão
+    - Suprime Artigo 13.º — Estabelecimento dos preços médios
+    - Suprime Artigo 14.º — Informação sobre os preços
+    - Suprime Artigo 14.º-A — Informações adicionais
+    - Suprime Artigo 15.º-A — Disposições finais para a transmissão dos dados de preços
+    - Suprime Artigo 20.º — Imputação das colheitas de beterraba
+    - Suprime Artigo 21.º — Comunicações relativas à produção e às existências
+    - Suprime Artigo 22.º — Balanços de abastecimento
 identifiers:
   celex: 32006R0952
   eli: http://data.europa.eu/eli/reg/2006/952/oj
@@ -48,7 +178,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ca2b025d-fc25-4c30-8273-01e951b46f0c.0016
   content_url: http://publications.europa.eu/resource/cellar/519338d5-3a94-4ab9-bfd2-e37f934fccf3.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R0952-20171001
-  retrieved_at: '2026-10-22T02:52:13Z'
+  retrieved_at: '2026-10-22T15:04:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-19T21:11:23.704+01:00'
 integrity:
@@ -57,9 +187,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:13Z'
-  notes: Texto consolidado 02006R0952-20171001.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:04:27Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-2006-952.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -181,36 +311,19 @@ relationships:
   date: '2002-02-22'
 article_structure:
   article_count: 56
-  section_count: 40
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 41
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:13Z'
+  checked_at: '2026-10-22T15:04:27Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 952/2006 da Comissão, de 29 de Junho de 2006
-
-> 02006R0952 — PT — 01.10.2017 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007R0551) — [REGULAMENTO (CE) N.º 551/2007 DA COMISSÃO de 22 de Maio de 2007](http://publications.europa.eu/resource/celex/32007R0551) — L 131 — 7 — 23.5.2007
-- [►M2](http://publications.europa.eu/resource/celex/32008R0707) — [REGULAMENTO (CE) N.º 707/2008 DA COMISSÃO de 24 de Julho de 2008](http://publications.europa.eu/resource/celex/32008R0707) — L 197 — 4 — 25.7.2008
-- [►M3](http://publications.europa.eu/resource/celex/32008R0826) — [REGULAMENTO (CE) N.º 826/2008 DA COMISSÃO de 20 de Agosto de 2008](http://publications.europa.eu/resource/celex/32008R0826) — L 223 — 3 — 21.8.2008
-- [M4](http://publications.europa.eu/resource/celex/32009R1053) — [REGULAMENTO (CE) N.º 1053/2009 DA COMISSÃO de 5 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1053) — L 290 — 61 — 6.11.2009
-- [M5](http://publications.europa.eu/resource/celex/32011R1369) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1369/2011 DA COMISSÃO de 21 de Dezembro de 2011](http://publications.europa.eu/resource/celex/32011R1369) — L 341 — 38 — 22.12.2011
-- [►M6](http://publications.europa.eu/resource/celex/32013R0994) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 994/2013 DA COMISSÃO de 16 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R0994) — L 276 — 1 — 17.10.2013
-- [M7](http://publications.europa.eu/resource/celex/32015R2000) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/2000 DA COMISSÃO de 9 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R2000) — L 292 — 4 — 10.11.2015
-- [►M8](http://publications.europa.eu/resource/celex/32017R1185) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1185 DA COMISSÃO de 20 de abril de 2017](http://publications.europa.eu/resource/celex/32017R1185) — L 171 — 113 — 4.7.2017
-
-## REGULAMENTO (CE) N.º 952/2006 DA COMISSÃO
 
 de 29 de Junho de 2006
 

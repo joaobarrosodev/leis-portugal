@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0092:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0092-20100101",
+ "dre_path": null,
+ "source_lastmod": "2010-01-01",
+ "versions": [
+  {
+   "date": "2010-01-01",
+   "future": false,
+   "celex": "01993L0092-20100101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ce4848c923e10461"
+   ]
+  }
+ ],
+ "fragments": {
+  "ce4848c923e10461": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993L0092 — PT — 01.01.2010 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993L0092) [DIRECTIVA 93/92/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31993L0092) [de 29 de Outubro de 1993](http://publications.europa.eu/resource/celex/31993L0092) [relativa à instalaçao dos dispositivos de iluminação e de sinalização luminosa nos veículos a motor de duas ou três rodas](http://publications.europa.eu/resource/celex/31993L0092) (JO L 311, 14.12.1993, p.1)\n\n**revogado por:**\n\n- [Directiva 2009/67/CE do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009L0067) — L 222 — 1 — 25.8.2009"
+  }
+ }
+}

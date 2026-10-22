@@ -34,6 +34,68 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-07-08'
+version_history:
+  file: regulamento-ue-2005-2173.versoes.json
+  count: 5
+  source_lastmod: '2025-07-08'
+  versions:
+  - date: '2008-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-06-30'
+    amending: eu:celex:32014R0657:por
+    amending_title: REGULAMENTO (UE) N. o 657/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Notas
+    - Adita Artigo 11.º-A — Exercício da delegação
+    - Adita ANEXO I
+    - Adita PAÍSES PARCEIROS E RESPECTIVAS AUTORIDADES DE LICENCIAMENTO DESIGNADAS
+    - Adita ANEXO II
+    - Adita ANEXO III
+  - date: '2016-11-15'
+    amending: eu:celex:32016R1387:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2016/1387 DA COMISSÃO de 9 de junho de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera PAÍSES PARCEIROS E RESPECTIVAS AUTORIDADES DE LICENCIAMENTO DESIGNADAS
+    - Altera ANEXO III
+    - Altera Notas
+  - date: '2020-01-01'
+    amending: eu:celex:32019R1010:por
+    amending_title: REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera PAÍSES PARCEIROS E RESPECTIVAS AUTORIDADES DE LICENCIAMENTO DESIGNADAS
+    - Altera ANEXO III
+    - Altera Notas
+  - date: '2025-07-08'
+    amending: eu:celex:32025R0530:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/530 DA COMISSÃO de 30 de outubro de 2024
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 11.º
+    - Altera PAÍSES PARCEIROS E RESPECTIVAS AUTORIDADES DE LICENCIAMENTO DESIGNADAS
+    - Altera ANEXO III
+    - Altera Notas
+    - Adita Produtos de madeira cobertos pelo regime de licenciamento FLEGT apenas relativamente aos países parceiros correspondentes
 identifiers:
   celex: 32005R2173
   eli: http://data.europa.eu/eli/reg/2005/2173/oj
@@ -48,7 +110,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b3e32c4b-574f-4421-8e47-22fb888a8c13.0016
   content_url: http://publications.europa.eu/resource/cellar/6ce89a61-5c1f-11f0-a9d0-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R2173-20250708
-  retrieved_at: '2026-10-22T02:58:05Z'
+  retrieved_at: '2026-10-22T15:01:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T02:30:48.716+01:00'
 integrity:
@@ -57,9 +119,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:05Z'
-  notes: Texto consolidado 02005R2173-20250708.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:01:03Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2005-2173.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -132,32 +194,19 @@ relationships:
   date: '2014-11-26'
 article_structure:
   article_count: 13
-  section_count: 11
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 12
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:05Z'
+  checked_at: '2026-10-22T15:01:03Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 2173/2005 do Conselho, de 20 de Dezembro de 2005
-
-> 02005R2173 — PT — 08.07.2025 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014R0657) — [REGULAMENTO (UE) N.º 657/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0657) — L 189 — 108 — 27.6.2014
-- [►M2](http://publications.europa.eu/resource/celex/32016R1387) — [REGULAMENTO DELEGADO (UE) 2016/1387 DA COMISSÃO de 9 de junho de 2016](http://publications.europa.eu/resource/celex/32016R1387) — L 223 — 1 — 18.8.2016
-- [►M3](http://publications.europa.eu/resource/celex/32019R1010) — [REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1010) — L 170 — 115 — 25.6.2019
-- [►M4](http://publications.europa.eu/resource/celex/32025R0530) — [REGULAMENTO DELEGADO (UE) 2025/530 DA COMISSÃO de 30 de outubro de 2024](http://publications.europa.eu/resource/celex/32025R0530) — L 530 — 1 — 20.3.2025
-
-## REGULAMENTO (CE) N.º 2173/2005 DO CONSELHO
 
 de 20 de Dezembro de 2005
 

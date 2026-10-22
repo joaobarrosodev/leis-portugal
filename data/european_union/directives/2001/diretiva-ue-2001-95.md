@@ -35,6 +35,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-01-01'
+version_history:
+  file: diretiva-ue-2001-95.versoes.json
+  count: 2
+  source_lastmod: '2010-01-01'
+  versions:
+  - date: '2002-01-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-01-01'
+    amending: eu:celex:32008R0765:por
+    amending_title: REGULAMENTO (CE) N. o 765/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 Julho de 2008; REGULAMENTO (CE)
+      N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 24.º
+    - Altera ANEXO I
+    - Adita CAPÍTULO I
+    - Adita Objectivos, âmbito de aplicação e definições
+    - Adita CAPÍTULO II
+    - Adita Obrigação geral de segurança, critérios de avaliação da conformidade e normas europeias
+    - Adita CAPÍTULO III
+    - Adita Outras obrigações dos produtores e dos distribuidores
+    - Adita CAPÍTULO IV
+    - Adita Deveres específicos e poderes dos Estados-Membros
+    - Adita CAPÍTULO V
+    - Adita Trocas de informação e situações de intervenção rápida
+    - Adita CAPÍTULO VI
+    - Adita Procedimentos de comité
+    - Adita CAPÍTULO VII
+    - Adita Disposições finais
+    - Adita OBRIGAÇÕES RELATIVAS ÀS INFORMAÇÕES A FORNECER ÀS AUTORIDADES COMPETENTES POR PRODUTORES E DISTRIBUIDORES SOBRE
+      PRODUTOS NÃO CONFORMES COM A OBRIGAÇÃO GERAL DE SEGURANÇA
+    - Adita ANEXO II
+    - Adita PROCEDIMENTOS PARA A APLICAÇÃO DO RAPEX E DAS ORIENTAÇÕES RELATIVAS ÀS NOTIFICAÇÕES
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Adita Notas
+    - Suprime CAPÍTULO I — Objectivos, âmbito de aplicação e definições
+    - Suprime CAPÍTULO II — Obrigação geral de segurança, critérios de avaliação da conformidade e normas europeias
+    - Suprime CAPÍTULO III — Outras obrigações dos produtores e dos distribuidores
+    - Suprime CAPÍTULO IV — Deveres específicos e poderes dos Estados-Membros
+    - Suprime CAPÍTULO V — Trocas de informação e situações de intervenção rápida
+    - Suprime CAPÍTULO VI — Procedimentos de comité
+    - Suprime CAPÍTULO VII — Disposições finais
+    - Suprime ANEXO II — PROCEDIMENTOS PARA A APLICAÇÃO DO RAPEX E DAS ORIENTAÇÕES RELATIVAS ÀS NOTIFICAÇÕES
+    - Suprime ANEXO III — PRAZO DE TRANSPOSIÇÃO DE INÍCIO DA APLICAÇÃO DA DIRECTIVA REVOGADA
+    - Suprime ANEXO IV — TABELA DE CORRESPONDÊNCIA
 identifiers:
   celex: 32001L0095
   eli: http://data.europa.eu/eli/dir/2001/95/oj
@@ -49,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/54d327d4-d684-4620-8cb4-c057d6c78d23.0010
   content_url: http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0095-20100101
-  retrieved_at: '2026-10-22T02:38:37Z'
+  retrieved_at: '2026-10-22T14:50:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:52:30.235+02:00'
 integrity:
@@ -58,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:37Z'
-  notes: Texto consolidado 02001L0095-20100101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:21Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2001-95.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -226,30 +280,19 @@ relationships:
   source: null
 article_structure:
   article_count: 24
-  section_count: 20
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 21
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:37Z'
+  checked_at: '2026-10-22T14:50:21Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2001/95/CE do Parlamento Europeu e do Conselho, de 3 de Dezembro de 2001
-
-> 2001L0095 — PT — 01.01.2010 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008R0765) — [REGULAMENTO (CE) N.º 765/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 Julho de 2008](http://publications.europa.eu/resource/celex/32008R0765) — L 218 — 30 — 13.8.2008
-- [►M2](http://publications.europa.eu/resource/celex/32009R0596) — [REGULAMENTO (CE) N.º 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0596) — L 188 — 14 — 18.7.2009
-
-## DIRECTIVA 2001/95/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 3 de Dezembro de 2001
 

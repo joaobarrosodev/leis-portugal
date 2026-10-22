@@ -35,6 +35,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-01-01'
+version_history:
+  file: regulamento-ue-1983-918.versoes.json
+  count: 2
+  source_lastmod: '2010-01-01'
+  versions:
+  - date: '1983-04-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime CAPÍTULO I — FRANQUIA DE DIREITOS DE IMPORTAÇÃO
+    - Suprime TÍTULO I — BENS PESSOAIS PERTENCENTES A PESSOAS SINGULARES QUE TRANSFEREM A SUA RESIDÊNCIA HABITUAL DE UM PAÍS
+      TERCEIRO PARA A COMUNIDADE
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime TÍTULO II — BENS IMPORTADOS POR OCASIAO DE UM CASAMENTO
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+    - Suprime Artigo 15o
+    - Suprime TÍTULO III — BENS PESSOAIS ADQUIRIDOS POR SUCESSÃO EM CASO DE MORTE
+    - Suprime Artigo 16o
+    - Suprime Artigo 17o
+    - Suprime Artigo 18o
+    - Suprime Artigo 19o
+    - Suprime TÍTULO IV — RECHEIO PARA GUARNIÇÃO DE UMA RESIDÊNCIA SECUNDÁRIA
+    - Suprime Artigo 20o
+    - Suprime Artigo 21o
+    - Suprime Artigo 22o
+    - Suprime Artigo 23o
+    - Suprime Artigo 24o
+    - Suprime TÍTULO V — ENXOVAIS, MATERIAIS ESCOLARES E OUTRAS COISAS MÓVEIS DE ALUNOS OU ESTUDANTES
+    - Suprime Artigo 25o
+    - Suprime Artigo 26o
+    - Suprime TÍTULO VI — REMESSAS DE VALOR INSIGNIFICANTE
+    - Suprime Artigo 27o
+    - Suprime Artigo 28o
+    - Suprime TÍTULO VII — PEQUENAS REMESSAS SEM CARÁCTER COMERCIAL
+    - Suprime Artigo 29o
+    - Suprime Artigo 30o
+    - Suprime Artigo 31o
 identifiers:
   celex: 31983R0918
   eli: http://data.europa.eu/eli/reg/1983/918/oj
@@ -49,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e43c06b8-6973-429a-973f-1f031015968f.0011
   content_url: http://publications.europa.eu/resource/cellar/c6c40aba-37b0-40c7-8b69-659ffd9130a9.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01983R0918-20100101
-  retrieved_at: '2026-10-22T02:54:48Z'
+  retrieved_at: '2026-10-22T14:34:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-27T19:20:08.548+01:00'
 integrity:
@@ -58,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:54:48Z'
-  notes: Texto consolidado 01983R0918-20100101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:04Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1983-918.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -302,16 +356,27 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:54:48Z'
+  checked_at: '2026-10-22T14:34:04Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01983R0918-19830426: versão indisponível (Sem expressão na língua por para CELEX 01983R0918-19830426.)'
+  - '01983R0918-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R0918-19860701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R0918-19880101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R0918-19890101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R0918-19890701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R0918-19920101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R0918-19940101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R0918-19940401: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R0918-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R0918-20001101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R0918-20040501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01983R0918-20081201: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

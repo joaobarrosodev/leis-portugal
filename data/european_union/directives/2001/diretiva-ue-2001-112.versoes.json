@@ -1,0 +1,1163 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0112:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0112-20260614",
+ "dre_path": null,
+ "source_lastmod": "2026-06-14",
+ "versions": [
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "celex": "02001L0112-20080101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fc0f5fa253a58a83",
+    "048501f9e859504c",
+    "19af86e4e56b0121",
+    "be2cc44c2f54f840",
+    "7856ea3cc609d4d9",
+    "4a8d9e9ec50f6a5a",
+    "902592a1d2bf4d07",
+    "9321835075ddd193",
+    "088ce8414b60d459",
+    "6790c1d78bca2e74",
+    "0bdbc0bfe4520d02",
+    "0ad31be1c3330c34",
+    "382b4ab7c18f1593",
+    "d664376e2a8dcecd",
+    "35b7327a9048bdbe",
+    "91dc7f25d1e76eaa",
+    "c2412051b8ec8449",
+    "713dcffbae5533fd",
+    "16ba772e3e15ed24",
+    "852174729551523b",
+    "f7f781de3f0342a1",
+    "720af75c92791b10",
+    "c89b893c10c11b1a",
+    "c47ebd78c3d59eb2",
+    "d99e549894a7dd59"
+   ]
+  },
+  {
+   "date": "2009-01-20",
+   "future": false,
+   "celex": "02001L0112-20090120",
+   "acts": [
+    {
+     "id": "eu:celex:32008R1332:por",
+     "title": "REGULAMENTO (CE) N. o 1332/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Dezembro de 2008",
+     "published": null,
+     "celex": "32008R1332"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera I. DEFINIÇÕES",
+    "Altera 2. Tratamentos e substâncias autorizados",
+    "Altera DEFINIÇÕES DAS MATÉRIAS-PRIMAS",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "50da08f09c266bc4",
+    "048501f9e859504c",
+    "19af86e4e56b0121",
+    "be2cc44c2f54f840",
+    "786ee7eaafd3bb34",
+    "4a8d9e9ec50f6a5a",
+    "1bfa290a49045c71",
+    "9321835075ddd193",
+    "61b447195caf9bea",
+    "6790c1d78bca2e74",
+    "0bdbc0bfe4520d02",
+    "0ad31be1c3330c34",
+    "382b4ab7c18f1593",
+    "d664376e2a8dcecd",
+    "35b7327a9048bdbe",
+    "bbd4a87ae6f811f3",
+    "c2412051b8ec8449",
+    "713dcffbae5533fd",
+    "f438a51e36f4ffd1",
+    "852174729551523b",
+    "3a5a1493c24e92f2",
+    "720af75c92791b10",
+    "c89b893c10c11b1a",
+    "c47ebd78c3d59eb2",
+    "f4e70a94057d435e"
+   ]
+  },
+  {
+   "date": "2009-08-22",
+   "future": false,
+   "celex": "02001L0112-20090822",
+   "acts": [
+    {
+     "id": "eu:celex:32009L0106:por",
+     "title": "DIRECTIVA 2009/106/CE DA COMISSÃO de 14 de Agosto de 2009",
+     "published": null,
+     "celex": "32009L0106"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera I. DEFINIÇÕES",
+    "Altera 2. Tratamentos e substâncias autorizados",
+    "Altera DEFINIÇÕES DAS MATÉRIAS-PRIMAS",
+    "Altera Notas",
+    "Adita ANEXO V"
+   ],
+   "fragments": [
+    "c48294c298ec7e6b",
+    "048501f9e859504c",
+    "19af86e4e56b0121",
+    "7ab84f587d0c9d74",
+    "25ffda65948f051a",
+    "4a8d9e9ec50f6a5a",
+    "8cbab677327876f6",
+    "9321835075ddd193",
+    "9f137bcbe6c11a64",
+    "6790c1d78bca2e74",
+    "0bdbc0bfe4520d02",
+    "0ad31be1c3330c34",
+    "382b4ab7c18f1593",
+    "d664376e2a8dcecd",
+    "35b7327a9048bdbe",
+    "ec03d434008e7052",
+    "c2412051b8ec8449",
+    "713dcffbae5533fd",
+    "16b3c83a7dc87c4f",
+    "852174729551523b",
+    "86e5e9c15cae4dcf",
+    "720af75c92791b10",
+    "c89b893c10c11b1a",
+    "6c64c7a72c41d31b",
+    "0482a2b699f5cdb0",
+    "09f0e9579f5c5a20"
+   ]
+  },
+  {
+   "date": "2012-04-27",
+   "future": false,
+   "celex": "02001L0112-20120427",
+   "acts": [
+    {
+     "id": "eu:celex:32012L0012:por",
+     "title": "DIRETIVA 2012/12/EU DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de abril de 2012",
+     "published": null,
+     "celex": "32012L0012"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera I. DEFINIÇÕES",
+    "Altera DEFINIÇÕES DAS MATÉRIAS-PRIMAS",
+    "Altera ANEXO IV",
+    "Altera ANEXO V",
+    "Altera Notas",
+    "Adita Artigo 7.º-A",
+    "Adita 1. Composição",
+    "Adita 2. Ingredientes autorizados",
+    "Adita 3. Tratamentos e substâncias autorizados",
+    "Adita 1. Fruto:",
+    "Adita 2. Polme de frutos:",
+    "Adita 3. Polme de frutos concentrado:",
+    "Adita 4. Aroma:",
+    "Adita 5. Açúcares:",
+    "Adita 6. Mel:",
+    "Adita 7. Polpa ou células:",
+    "Adita DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS DEFINIDOS NO ANEXO I",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 8.º",
+    "Suprime 1. Ingredientes autorizados",
+    "Suprime 2. Tratamentos e substâncias autorizados",
+    "Suprime DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I"
+   ],
+   "fragments": [
+    "6864d8e60cddc934",
+    "2227ed202c384757",
+    "61e898f44631b156",
+    "bf661441c4148e4b",
+    "67fd19d0aa942a4c",
+    "d377b65a6d23325d",
+    "f70d1efcb94b8780",
+    "4d95eedf2f4678c9",
+    "6790c1d78bca2e74",
+    "0bdbc0bfe4520d02",
+    "0ad31be1c3330c34",
+    "382b4ab7c18f1593",
+    "d664376e2a8dcecd",
+    "35b7327a9048bdbe",
+    "f15ec95546f1bf49",
+    "c2412051b8ec8449",
+    "bb5b1d9d532ae293",
+    "f8a2cbe217357565",
+    "bb664421a014f077",
+    "852174729551523b",
+    "83b88c4e48fb03a3",
+    "d8737c534df9a479",
+    "84fd4debcf4d68b6",
+    "eaab7f9ec5e743ca",
+    "3d6d0720d0a8e505",
+    "9d46cb8749395ca0",
+    "1678bc55b48134b9",
+    "3e504a06657ecc1e",
+    "720af75c92791b10",
+    "3749c07a88c24a19",
+    "723dea4dad29682e",
+    "239aac2d10c63e21",
+    "8326eb1db51d6ed1"
+   ]
+  },
+  {
+   "date": "2014-10-05",
+   "future": false,
+   "celex": "02001L0112-20141005",
+   "acts": [
+    {
+     "id": "eu:celex:32014R1040:por",
+     "title": "REGULAMENTO DELEGADO (UE) N. o 1040/2014 DA COMISSÃO de 25 de julho de 2014",
+     "published": null,
+     "celex": "32014R1040"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera I. DEFINIÇÕES",
+    "Altera II. INGREDIENTES, TRATAMENTOS E SUBSTÂNCIAS AUTORIZADOS",
+    "Altera 4. Aroma:",
+    "Altera 5. Açúcares:",
+    "Altera 6. Mel:",
+    "Altera DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS DEFINIDOS NO ANEXO I",
+    "Altera Notas",
+    "Suprime 1. Composição",
+    "Suprime 2. Ingredientes autorizados",
+    "Suprime 3. Tratamentos e substâncias autorizados"
+   ],
+   "fragments": [
+    "13a85850fa25e67b",
+    "f854cc765053f055",
+    "a03eae420fc59dc0",
+    "80505080d34bbc99",
+    "67fd19d0aa942a4c",
+    "32e94f19920d1242",
+    "f70d1efcb94b8780",
+    "4d95eedf2f4678c9",
+    "6790c1d78bca2e74",
+    "0bdbc0bfe4520d02",
+    "0ad31be1c3330c34",
+    "382b4ab7c18f1593",
+    "d664376e2a8dcecd",
+    "35b7327a9048bdbe",
+    "650345974c53b073",
+    "50eb4d6b0cad8560",
+    "852174729551523b",
+    "83b88c4e48fb03a3",
+    "4bfe87fa2a9727f3",
+    "0b6cd4c426b85d95",
+    "2c56c7397fc29691",
+    "e9d61ffb9959ddac",
+    "fb2297a2cc4479bc",
+    "00b86e282792acbb",
+    "c2227841309cd58a",
+    "720af75c92791b10",
+    "68a74ebdbe8ae916",
+    "723dea4dad29682e",
+    "239aac2d10c63e21",
+    "a6f45baa8fa9ed08"
+   ]
+  },
+  {
+   "date": "2026-06-14",
+   "future": false,
+   "celex": "02001L0112-20260614",
+   "acts": [
+    {
+     "id": "eu:celex:32024L1438:por",
+     "title": "DIRETIVA (UE) 2024/1438 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024",
+     "published": null,
+     "celex": "32024L1438"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 7.º-A",
+    "Altera I. DEFINIÇÕES",
+    "Altera II. INGREDIENTES, TRATAMENTOS E SUBSTÂNCIAS AUTORIZADOS",
+    "Altera 4. Aroma:",
+    "Altera 5. Açúcares:",
+    "Altera 6. Mel:",
+    "Altera DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS DEFINIDOS NO ANEXO I",
+    "Altera ANEXO IV",
+    "Altera ANEXO V",
+    "Altera Notas",
+    "Adita Artigo 7.º-B",
+    "Adita Artigo 7.º-C"
+   ],
+   "fragments": [
+    "13a85850fa25e67b",
+    "d00152126874a52a",
+    "04344d8024cb9a87",
+    "262745403412d794",
+    "67fd19d0aa942a4c",
+    "acfb7eb81e371fe2",
+    "9337080f80f7d565",
+    "2e8be086688eb8c9",
+    "48a9b1c0b0aa88b6",
+    "ff4a39fa02313aea",
+    "6790c1d78bca2e74",
+    "0bdbc0bfe4520d02",
+    "0ad31be1c3330c34",
+    "382b4ab7c18f1593",
+    "d664376e2a8dcecd",
+    "35b7327a9048bdbe",
+    "fdbe5270d068f195",
+    "9a688b120a3cd4c9",
+    "852174729551523b",
+    "83b88c4e48fb03a3",
+    "4bfe87fa2a9727f3",
+    "0b6cd4c426b85d95",
+    "2c56c7397fc29691",
+    "61dd88a64b0ed04b",
+    "270c19e46310baf0",
+    "15b8c8a4cd514b34",
+    "c2227841309cd58a",
+    "720af75c92791b10",
+    "abdd82ac303d224f",
+    "60dc06675cc2ac56",
+    "a9074442cf1cb0c4",
+    "ccecc7524f34590b"
+   ]
+  }
+ ],
+ "fragments": {
+  "fc0f5fa253a58a83": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 2001\n\nrelativa aos sumos de frutos e a determinados produtos similares destinados à alimentação humana\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente o seu artigo 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#E0003)),\n\n(1) De acordo com as conclusões do Conselho Europeu de Edimburgo, de 11 e 12 de Dezembro de 1992, confirmadas pelas conclusões do Conselho Europeu de Bruxelas, de 10 e 11 de Dezembro de 1993, é necessário proceder à simplificação de determinadas directivas verticais no domínio dos géneros alimentícios, a fim de tomar exclusivamente em conta os requisitos essenciais que os produtos por elas abrangidos devem satisfazer para poderem circular livremente no mercado interno.\n\n(2) A Directiva 93/77/CEE do Conselho de 21 de Setembro de 1993, relativa aos sumos de frutos e determinados produtos similares ([^4^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#E0004)), teve por objectivo proceder à codificação da Directiva 75/726/CEE ([^5^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#E0005)), que trata da mesma matéria.\n\n(3) A adopção das Directivas 75/726/CEE e 93/77/CEE foi justificada pelo facto de as diferenças entre as legislações nacionais no que respeita aos sumos e néctares de frutos destinados à alimentação humana poderem criar condições de concorrência desleal, susceptíveis de induzir os consumidores em erro, influenciando deste modo directamente a realização e o funcionamento do mercado interno.\n\n(4) Neste contexto, as citadas directivas estabeleceram regras comuns no que respeita à composição, à utilização das denominações reservadas, às características de fabrico e à rotulagem dos produtos em questão, por forma a garantir a sua livre circulação na Comunidade.\n\n(5) Por motivos de clareza, é necessário proceder à reformulação da Directiva 93/77/CEE, por forma a tornar mais acessíveis as regras relativas às condições de fabrico e comercialização dos sumos de frutos e determinados produtos similares.\n\n(6) Por outro lado, a Directiva 93/77/CEE deve ser adaptada à legislação comunitária geral aplicável aos géneros alimentícios, nomeadamente à legislação relativa à rotulagem e aos corantes, edulcorantes e outros aditivos autorizados.\n\n(7) São aplicáveis as disposições da Directiva 2000/13/CE do Conselho, de 20 de Março de 2000, relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios destinados ao consumidor final ([^6^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#E0006)), em especial os n.^os^ 2 e 5 do artigo 7.º, sob reserva de determinadas condições. Deve estar claramente indicado sempre que o produto seja uma mistura de sumos de frutos e de sumos de frutos fabricados a partir de um produto concentrado e, no caso dos néctares de frutos, sempre que sejam fabricados total ou parcialmente a partir de um produto concentrado. A lista dos ingredientes constante da rotulagem deve incluir os nomes tanto dos sumos de frutos como dos sumos de frutos fabricados a partir de um produto concentrado que foram utilizados.\n\n(8) Sem prejuízo do disposto na Directiva 90/496/CEE do Conselho, de 24 de Setembro de 1990, relativa à rotulagem nutricional dos géneros alimentícios ([^7^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#E0007)), nalguns Estados-Membros, é autorizada a adição de vitaminas aos produtos definidos na presente directiva. Não obstante, não é julgado conveniente alargar essa possibilidade ao conjunto da Comunidade. Nestas circunstâncias, os Estados-Membros são livres de autorizar ou proibir a adição de vitaminas e minerais durante o processo de fabrico. No entanto, deve ser sempre observado o princípio da livre circulação de mercadorias na Comunidade, de acordo com as regras e princípios consagrados no Tratado.\n\n(9) Em aplicação dos princípios da subsidiariedade e da proporcionalidade consagrados no artigo 5.º do Tratado, o objectivo de fixação de definições e regras comuns para os produtos em causa e de alinhamento pelas disposições comunitárias de carácter geral aplicáveis aos géneros alimentícios não pode ser suficientemente realizado pelos Estados-Membros e pode pois, devido à própria natureza da presente directiva, ser melhor alcançado a nível comunitário. A presente directiva limita-se ao necessário para atingir esse objectivo.\n\n(10) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^8^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#E0008)).\n\n(11) Para evitar que sejam criados novos entraves à livre circulação, os Estados-Membros devem abster-se de adoptar, para os produtos em causa, disposições nacionais não previstas na presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "048501f9e859504c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva aplica-se aos produtos definidos no anexo I."
+  },
+  "19af86e4e56b0121": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros podem autorizar, sem prejuízo do disposto na Directiva 90/496/CEE, a adição de vitaminas e minerais aos produtos definidos na parte I do anexo I."
+  },
+  "be2cc44c2f54f840": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA Directiva 2000/13/CE é aplicável aos produtos definidos no anexo I da presente directiva, nas condições seguintes:\n\na) As denominações constantes do anexo I são reservadas aos produtos aí referidos e devem, sem prejuízo do disposto na alínea b), ser utilizadas no comércio para designar esses produtos;\n\nb) Em alternativa às denominações de produtos referidas na alínea a), o anexo III contém uma lista das denominações específicas que podem ser utilizadas na língua e nas condições nele definidas.\n\n2. Quando um produto for fabricado a partir de uma única espécie de frutos, a palavra «frutos» deve ser substituída pela palavra «fruto».\n\n3. No caso dos produtos fabricados a partir de duas ou mais espécies de frutos, com excepção da utilização de sumo de limão, nas condições fixadas na parte II, ponto 1, do anexo I, a denominação deve ser completada pela indicação dos frutos utilizados, por ordem decrescente do volume dos sumos ou polmes de frutos em questão. Contudo, no caso dos produtos fabricados a partir de três ou mais espécies de frutos, a indicação dos frutos utilizados pode ser substituída pela expressão «vários frutos», por uma expressão similar ou pela indicação do número de frutos utilizados.\n\n4. No caso dos sumos de frutos a que tenham sido adicionados açúcares para fins edulcorantes, deve figurar na denominação de venda uma das indicações «adoçado» ou «com adição de açúcares», seguida da quantidade máxima de açúcares adicionados, calculada em termos de resíduo seco e expressa em gramas por litro.\n\n5. O regresso à composição original dos produtos definidos na parte I do anexo I, utilizando apenas as substâncias estritamente necessárias a esta operação, não implica a obrigatoriedade de incluir na rotulagem a lista dos ingredientes utilizados para esse fim.\n\n6. Sem prejuízo do disposto nos n.^os^ 2 e 5 do artigo 7.º da Directiva 2000/13/CE, no caso das misturas de sumos de frutos e de sumos de frutos fabricados a partir de um produto concentrado e dos néctares de frutos fabricados total ou parcialmente a partir de um ou mais produtos concentrados, deve constar da rotulagem a indicação «fabricado à base de sumo(s) concentrado(s)» ou «parcialmente fabricado à base de sumo(s) concentrado(s)», consoante o caso. Esta indicação deve figurar na proximidade imediata da denominação de venda, em caracteres claramente visíveis e destacada dos restantes elementos da rotulagem.\n\n7. No caso dos néctares de frutos, o teor mínimo de sumo de frutos, de polme de frutos, ou de uma mistura destes ingredientes deve constar da rotulagem através da indicação «teor de frutos: no mínimo … %». Esta indicação deve figurar no mesmo campo visual que a denominação de venda."
+  },
+  "7856ea3cc609d4d9": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA rotulagem do sumo de frutos concentrado definido na Parte I, ponto 2, do Anexo I, não destinado ao consumidor final, deve mencionar a presença e quantidade de açúcares adicionados ou de sumo de limão ou agentes acidificantes adicionados, em conformidade com a Directiva 95/2/CE do Parlamento Europeu e do Conselho, de 20 de Fevereiro de 1995, relativa aos aditivos alimentares com excepção dos corantes e dos edulcorantes ([^9^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#E0009)). Esta indicação será aposta na embalagem, num rótulo aplicado à embalagem ou num documento de acompanhamento."
+  },
+  "4a8d9e9ec50f6a5a": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros não adoptarão, para os produtos definidos no anexo I, disposições nacionais não previstas na presente directiva."
+  },
+  "902592a1d2bf4d07": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSem prejuízo do disposto na Directiva 89/107/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-Membros respeitantes aos aditivos que podem ser utilizados nos géneros destinados à alimentação humana ([^10^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#E0010)), só poderão ser utilizados no fabrico dos produtos definidos na parte I do anexo I os tratamentos e substâncias previstos na parte II do anexo I e as matérias-primas que obedeçam ao disposto no anexo II. Além disso, os néctares de frutos deverão obedecer ao disposto no anexo IV."
+  },
+  "9321835075ddd193": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs medidas necessárias à execução da presente directiva relativas às matérias adiante indicadas serão aprovadas pelo procedimento a que se refere o n.º 2 do artigo 8.º:\n\n— harmonização da presente directiva com as disposições comunitárias de carácter geral aplicáveis aos géneros alimentícios;\n\n— adaptações ao progresso técnico;\n\n— quando necessário, harmonização da presente directiva com as normas internacionais pertinentes, em função da evolução destas últimas."
+  },
+  "088ce8414b60d459": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A Comissão é assistida pelo Comité Permanente dos Géneros Alimentícios (a seguir designado por «Comité»), instituído pelo artigo 1.º da Decisão 69/414/CEE ([^11^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#E0011)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "6790c1d78bca2e74": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA Directiva 93/77/CEE é revogada, com efeitos a partir de 12 de Julho de 2003.\n\nAs remissões para a directiva revogada devem entender-se como sendo feitas para a presente directiva."
+  },
+  "0bdbc0bfe4520d02": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 12 de Julho de 2003 e informarão imediatamente a Comissão desse facto.\n\nEstas medidas serão aplicadas de modo a:\n\n— autorizar, com efeitos a partir de 12 de Julho de 2003, a comercialização dos produtos definidos no anexo I que obedeçam às definições e regras previstas na presente directiva,\n\n— proibir, com efeitos a partir de 12 de Julho de 2004, a comercialização dos produtos não conformes com a presente directiva.\n\nContudo, até ao esgotamento das existências, é autorizada a comercialização dos produtos não conformes com a presente directiva que tiverem sido rotulados nos termos da Directiva 93/77/CEE antes de 12 de Julho 2004.\n\nQuando os Estados-Membros adoptarem essas medidas, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-Membros."
+  },
+  "0ad31be1c3330c34": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA presente directiva entra em vigor no dia da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "382b4ab7c18f1593": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-Membros são destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "35b7327a9048bdbe": {
+   "fragment_id": "DENOMINAÇÕES, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS",
+   "type": "divisao",
+   "heading": "DENOMINAÇÕES, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DENOMINAÇÕES, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS"
+  },
+  "91dc7f25d1e76eaa": {
+   "fragment_id": "I. DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "I. DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. DEFINIÇÕES\n\n1. a) Sumo de frutos Designa o produto fermentescível, mas não fermentado, obtido a partir de uma ou mais espécies de frutos sãos e maduros, frescos ou conservados pelo frio, com a cor, o aroma e o gosto característicos dos sumos dos frutos de que provém. Podem ser restituídas ao sumo as substâncias aromáticas, a polpa e as células separadas após a extracção. Os sumos de citrinos devem ser fabricados a partir do endocarpo dos frutos. Contudo, o sumo de lima pode ser fabricado a partir do fruto inteiro, de acordo com práticas de fabrico adequadas que devem permitir reduzir ao mínimo os constituintes das partes exteriores do fruto presentes no sumo. b) Sumo de frutos fabricado a partir de um produto concentrado Designa o produto obtido por reposição num sumo de frutos concentrado da água extraída do sumo durante a concentração e por restituição das substâncias aromáticas e, se for caso disso, da polpa e das células eliminadas do sumo, mas recuperadas durante o processo de produção do sumo de frutos de partida ou de sumo da mesma espécie de frutos. Para preservar as qualidades essenciais do sumo, a água adicionada deve ter características apropriadas, designadamente dos pontos de vista químico, microbiológico e organoléptico. As características organolépticas e analíticas do produto assim obtido devem ser, pelo menos, equivalentes às de um sumo médio obtido a partir de frutos da mesma espécie, na acepção da alínea a).\n\n2. Sumo de frutos concentradoDesigna o produto obtido a partir de sumo de uma ou mais espécies de frutos por eliminação física de uma parte determinada da água. Quando o produto se destinar a consumo directo, a água eliminada não poderá representar menos de 50 %.\n\n3. Sumo de frutos desidratado/em póDesigna o produto obtido a partir de sumo de uma ou mais espécies de frutos por eliminação física de quase toda a água.\n\n4. Néctar de frutos a) Designa o produto fermentescível, mas não fermentado, obtido por adição de água e de açúcares e/ou mel aos produtos definidos nos pontos 1, 2 e 3, a polmes de frutos ou a uma mistura destes produtos e que obedeça aos requisitos do anexo IV. A adição de açúcares e/ou mel é autorizada em quantidades que não representem mais de 20 %, em massa, do produto acabado. No fabrico de néctares de frutos sem adição de açúcares ou de baixo valor energético, os açúcares poderão ser total ou parcialmente substituídos por edulcorantes, nos termos da Directiva 94/35/CE do Parlamento Europeu e do Conselho, de 30 de Junho de 1994, relativa aos edulcorantes para utilização nos géneros alimentícios ([^12^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#E0012)). b) Em derrogação do disposto na alínea a), os frutos enumerados nas partes II e III do anexo IV e os damascos podem ser utilizados, estremes ou misturados entre si, no fabrico de néctares sem adição de açúcares, mel e/ou edulcorantes."
+  },
+  "c2412051b8ec8449": {
+   "fragment_id": "II. INGREDIENTES, TRATAMENTOS E SUBSTÂNCIAS AUTORIZADOS",
+   "type": "divisao",
+   "heading": "II. INGREDIENTES, TRATAMENTOS E SUBSTÂNCIAS AUTORIZADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. INGREDIENTES, TRATAMENTOS E SUBSTÂNCIAS AUTORIZADOS"
+  },
+  "713dcffbae5533fd": {
+   "fragment_id": "1. Ingredientes autorizados",
+   "type": "divisao",
+   "heading": "1. Ingredientes autorizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Ingredientes autorizados\n\n— Nos termos do artigo 2.º, pode ser autorizada a adição de vitaminas e minerais aos produtos definidos na parte I, sem prejuízo do disposto na Directiva 90/496/CEE.\n\n— As substâncias aromáticas, a polpa e as células restituídas ao sumo de frutos definido na alínea a) devem ter sido separadas desse sumo durante a transformação, enquanto as substâncias aromáticas, a polpa e as células restituídas ao sumo de frutos definido na alínea b) do ponto 1 da parte I podem provir também de sumo de frutos do mesmo tipo.\n\n— Apenas no caso dos sumos de uva, podem ser restituídos os sais de ácido tartárico.\n\n— Salvo no que respeita aos sumos de pêra e de uva, é autorizada a adição de açúcares aos produtos referidos nos pontos 1, 2 e 3 da parte I.\n\n— para correcção do gosto ácido, a quantidade de açúcares adicionada, expressa em resíduo seco, não poderá exceder 15 g por litro de sumo;\n\n— para fins edulcorantes, a quantidade de açúcares adicionada, expressa em resíduo seco, não poderá exceder 150 g por litro de sumo,\n\n— desde que a quantidade total de açúcares adicionada tanto para correcção do gosto ácido como para fins edulcorantes não exceda 150 g por litro;\n\n— Para correcção do gosto ácido, é autorizada a adição aos produtos referidos nos pontos 1, 2, 3 e 4 da parte I de uma quantidade de sumo de limão e/ou de sumo de limão concentrado não superior a 3 g por litro de sumo, expressa em ácido cítrico anidro;\n\n— É autorizado o dióxido de carbono, como ingrediente.\n\nÉ proibida a adição ao mesmo sumo de frutos de açúcares e de sumo de limão, concentrado ou não, ou de agentes acidificantes, em conformidade com a Directiva 95/2/CE."
+  },
+  "16ba772e3e15ed24": {
+   "fragment_id": "2. Tratamentos e substâncias autorizados",
+   "type": "divisao",
+   "heading": "2. Tratamentos e substâncias autorizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Tratamentos e substâncias autorizados\n\n— Processos de extracção mecânicos;\n\n— Processos físicos usuais, incluindo extracção de água ( processo in-line — difusão) da parte comestível dos frutos, com excepção das uvas, para o fabrico de sumos de frutos concentrados, desde que os sumos de frutos assim obtidos obedeçam ao disposto na parte I. A utilização de certos processos e tratamentos pode ser limitada ou proibida em conformidade com o procedimento previsto no n.º 2 do artigo 8.º;\n\n— No que respeita aos sumos de uva, no caso de se ter procedido à sulfitação das uvas com dióxido de enxofre, é autorizada a dessulfitação por processos físicos, desde que a quantidade total de SO2 presente no produto acabado não exceda 10 mg/l;\n\n— Enzimas pectolíticos;\n\n— Enzimas proteolíticos;\n\n— Enzimas amilolíticos;\n\n— Gelatina alimentar;\n\n— Tanino;\n\n— Bentonite;\n\n— Sílica-gel;\n\n— Carvão;\n\n— Adjuvantes de filtração e agentes de precipitação quimicamente inertes (por ex., perlites, diatomite lavada, celulose, poliamida insolúvel, polivinilpolipirrolidona, polistireno), que obedeçam às directivas comunitárias relativas aos materiais e artigos destinados a entrar em contacto com os géneros alimentícios;\n\n— Adjuvantes de adsorção quimicamente inertes que obedeçam às directivas relativas aos materiais e artigos destinados a entrar em contacto com os géneros alimentícios e sejam utilizados para reduzir o teor limonóide e naringíneo dos sumos de citrinos sem afectarem significativamente os teores de glucósidos limonóides, de ácidos, de açúcares (inclusive os oligossacáridos) ou de minerais."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "f7f781de3f0342a1": {
+   "fragment_id": "DEFINIÇÕES DAS MATÉRIAS-PRIMAS",
+   "type": "divisao",
+   "heading": "DEFINIÇÕES DAS MATÉRIAS-PRIMAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DEFINIÇÕES DAS MATÉRIAS-PRIMAS\n\nPara efeitos do disposto na presente directiva, entende-se por:\n\n1. Fruto:\n\nTodos os frutos. Para efeitos do disposto na presente directiva, o tomate não é considerado um fruto.\n\n2. Polme de frutos:\n\nO produto fermentescível, mas não fermentado, obtido por peneiração da parte comestível de frutos inteiros ou descascados, sem eliminação do sumo.\n\n3. Polme de frutos concentrado:\n\nO produto obtido a partir de polme de frutos por eliminação física de uma parte determinada da água de constituição.\n\n4. Açúcares:\n\nPara o fabrico de:\n\na) Néctares de frutos:\n\n— os açúcares definidos na Directiva 2001/111/CE do Conselho de, 20 de Dezembro de 2001, relativa a determinados açúcares destinados à alimentação humana ([^13^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#E0013));\n\n— o xarope de frutose;\n\n— os açúcares derivados de frutos;\n\nb) Sumos de frutos fabricados a partir de um produto concentrado:\n\n— os açúcares definidos na Directiva 2001/111/CE;\n\n— o xarope de frutose;\n\nc) Sumos de frutos: os açúcares enumerados na alínea b) que contenham menos de 2 % de água.\n\n5. Mel:\n\ndesigna o produto definido na Directiva 2001/110/CE do Conselho, de 20 de Dezembro de 2001, relativa ao mel ([^14^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#E0014)).\n\n6. Polpa ou células\n\nOs produtos obtidos a partir das partes comestíveis de frutos da mesma espécie, sem eliminação do sumo. No caso dos citrinos, a polpa ou as células são os sacos de sumo obtidos a partir do endocarpo."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "c89b893c10c11b1a": {
+   "fragment_id": "DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I",
+   "type": "divisao",
+   "heading": "DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I\n\na) «vruchtendrank»: néctares de frutos;\n\nb) «Süßmost»\n\n— néctares de frutos obtidos exclusivamente a partir de sumos de frutos, de sumos de frutos concentrados ou de misturas destes produtos, de paladar pouco agradável no estado natural devido à sua elevada acidez;\n\n— sumos de frutos obtidos a partir de peras, eventualmente com a adição de maçãs, mas sem adição de açúcares;\n\nc) «succo e polpa» ou «sumo e polpa»: néctares de frutos obtidos exclusivamente a partir de polmes de frutos, eventualmente concentrados;\n\nd) «aeblemost»: sumo de maçã sem adição de açúcares;\n\n— «sur … saft», completada pelo nome (em dinamarquês) do fruto utilizado: sumos sem adição de açúcares obtidos a partir de groselhas negras, cerejas, groselhas vermelhas, groselhas brancas, framboesas, morangos ou bagas de sabugueiro;\n\n— «sød … saft» ou «sødet … saft», completada pelo nome (em dinamarquês) do fruto utilizado: sumos obtidos a partir desse fruto, adicionados de mais de 200 g de açúcares por litro;\n\nf) «äpplemust»: sumo de maçã sem adição de açúcares;\n\ng) «mosto»: sinónimo de sumo de uva."
+  },
+  "c47ebd78c3d59eb2": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV\n\n| Néctares de frutos | Teor mínimo de sumo e/ou de polme, expresso em percentagem volúmica do produto acabado |\n| --- | --- |\n| I. Frutos de sumo ácido de paladar pouco agradável no estado natural |  |\n| Maracujás | 25 |\n| Solanos de Quito (*Solanum quitoense*) | 25 |\n| Groselhas negras | 25 |\n| Groselhas brancas | 25 |\n| Groselhas vermelhas | 25 |\n| Groselhas verdes (espinhosas) | 30 |\n| Frutos do espinheiro das areias (*Hippophae*) | 25 |\n| Abrunhos | 30 |\n| Ameixas | 30 |\n| Ameixas *quetsche* | 30 |\n| Sorvas | 30 |\n| Frutos da roseira brava | 40 |\n| Cerejas ácidas (ginjas) | 35 |\n| Outras cerejas | 40 |\n| Mirtilos | 40 |\n| Bagas de sabugueiro | 50 |\n| Framboesas | 40 |\n| Damascos | 40 |\n| Morangos | 40 |\n| Amoras | 40 |\n| Airelas vermelhas | 30 |\n| Marmelos | 50 |\n| Limões e limas | 25 |\n| Outros frutos pertencentes a esta categoria | 25 |\n| II. Frutos de fraca acidez, com muita polpa ou muito aromáticos, de sumo de paladar pouco agradável no estado natural |  |\n| Mangas | 25 |\n| Bananas | 25 |\n| Goiabas | 25 |\n| Papaias | 25 |\n| Lichias | 25 |\n| Azarolas | 25 |\n| Anonas (*Annona muricata*) | 25 |\n| Cachimãs (*Annona reticulata*) | 25 |\n| Cherimólias | 25 |\n| Romãs | 25 |\n| Anacardos ou castanhas de cajú | 25 |\n| Cajás-vermelhos (*Spondia purpurea*) | 25 |\n| Imbus (*Spondia tuberosa aroda*) | 25 |\n| Outros frutos pertencentes a esta categoria | 25 |\n| III. Frutos de sumo de paladar agradável no estado natural |  |\n| Maçãs | 50 |\n| Pêras | 50 |\n| Pêssegos | 50 |\n| Citrinos, excepto limões e limas | 50 |\n| Ananases | 50 |\n| Outros frutos pertencentes a esta categoria | 50 |\n\n---"
+  },
+  "d99e549894a7dd59": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#src.E0001)) JO C 231 de 9.8.1996, p. 14.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#src.E0002)) JO C 279 de 1.10.1999, p. 92.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#src.E0003)) JO C 56 de 24.2.1997, p. 20.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#src.E0004)) JO L 33 de 8.2.1979, p. 1. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#src.E0005)) JO L 311 de 1.12.1975, p. 40.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#src.E0006)) JO L 109 de 6.5.2000, p. 29.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#src.E0007)) JO L 276 de 6.10.1990, p. 40.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#src.E0008)) JO L 184 de 7.7.1999, p. 23.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#src.E0009)) JO L 61 de 18.3.1995, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 98/72/CE (JO L 295 de 4.11.1998, p.18).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#src.E0010)) JO L 40 de 11.2.1989, p. 27. Directiva com a última redacção que lhe foi dada pela Directiva 94/34/CE (JO L 237 de 10.9.1994, p. 1).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#src.E0011)) JO L 291 de 19.11.1969, p. 9.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#src.E0012)) JO L 237 de 10.9.1994, p. 3. Directiva com a redacção que lhe foi dada pela Directiva 96/83/CE (JO L 48 de 19.2.1997, p. 16).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#src.E0013)) Ver página 53 do presente Jornal Oficial.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/7c325c40-3bf4-44d7-82a5-cc8882d30bcb.0018.03/DOC_1#src.E0014)) Ver página 47 do presente Jornal Oficial."
+  },
+  "50da08f09c266bc4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 2001\n\nrelativa aos sumos de frutos e a determinados produtos similares destinados à alimentação humana\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente o seu artigo 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#E0003)),\n\n(1) De acordo com as conclusões do Conselho Europeu de Edimburgo, de 11 e 12 de Dezembro de 1992, confirmadas pelas conclusões do Conselho Europeu de Bruxelas, de 10 e 11 de Dezembro de 1993, é necessário proceder à simplificação de determinadas directivas verticais no domínio dos géneros alimentícios, a fim de tomar exclusivamente em conta os requisitos essenciais que os produtos por elas abrangidos devem satisfazer para poderem circular livremente no mercado interno.\n\n(2) A Directiva 93/77/CEE do Conselho de 21 de Setembro de 1993, relativa aos sumos de frutos e determinados produtos similares ([^4^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#E0004)), teve por objectivo proceder à codificação da Directiva 75/726/CEE ([^5^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#E0005)), que trata da mesma matéria.\n\n(3) A adopção das Directivas 75/726/CEE e 93/77/CEE foi justificada pelo facto de as diferenças entre as legislações nacionais no que respeita aos sumos e néctares de frutos destinados à alimentação humana poderem criar condições de concorrência desleal, susceptíveis de induzir os consumidores em erro, influenciando deste modo directamente a realização e o funcionamento do mercado interno.\n\n(4) Neste contexto, as citadas directivas estabeleceram regras comuns no que respeita à composição, à utilização das denominações reservadas, às características de fabrico e à rotulagem dos produtos em questão, por forma a garantir a sua livre circulação na Comunidade.\n\n(5) Por motivos de clareza, é necessário proceder à reformulação da Directiva 93/77/CEE, por forma a tornar mais acessíveis as regras relativas às condições de fabrico e comercialização dos sumos de frutos e determinados produtos similares.\n\n(6) Por outro lado, a Directiva 93/77/CEE deve ser adaptada à legislação comunitária geral aplicável aos géneros alimentícios, nomeadamente à legislação relativa à rotulagem e aos corantes, edulcorantes e outros aditivos autorizados.\n\n(7) São aplicáveis as disposições da Directiva 2000/13/CE do Conselho, de 20 de Março de 2000, relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios destinados ao consumidor final ([^6^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#E0006)), em especial os n.^os^ 2 e 5 do artigo 7.º, sob reserva de determinadas condições. Deve estar claramente indicado sempre que o produto seja uma mistura de sumos de frutos e de sumos de frutos fabricados a partir de um produto concentrado e, no caso dos néctares de frutos, sempre que sejam fabricados total ou parcialmente a partir de um produto concentrado. A lista dos ingredientes constante da rotulagem deve incluir os nomes tanto dos sumos de frutos como dos sumos de frutos fabricados a partir de um produto concentrado que foram utilizados.\n\n(8) Sem prejuízo do disposto na Directiva 90/496/CEE do Conselho, de 24 de Setembro de 1990, relativa à rotulagem nutricional dos géneros alimentícios ([^7^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#E0007)), nalguns Estados-Membros, é autorizada a adição de vitaminas aos produtos definidos na presente directiva. Não obstante, não é julgado conveniente alargar essa possibilidade ao conjunto da Comunidade. Nestas circunstâncias, os Estados-Membros são livres de autorizar ou proibir a adição de vitaminas e minerais durante o processo de fabrico. No entanto, deve ser sempre observado o princípio da livre circulação de mercadorias na Comunidade, de acordo com as regras e princípios consagrados no Tratado.\n\n(9) Em aplicação dos princípios da subsidiariedade e da proporcionalidade consagrados no artigo 5.º do Tratado, o objectivo de fixação de definições e regras comuns para os produtos em causa e de alinhamento pelas disposições comunitárias de carácter geral aplicáveis aos géneros alimentícios não pode ser suficientemente realizado pelos Estados-Membros e pode pois, devido à própria natureza da presente directiva, ser melhor alcançado a nível comunitário. A presente directiva limita-se ao necessário para atingir esse objectivo.\n\n(10) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^8^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#E0008)).\n\n(11) Para evitar que sejam criados novos entraves à livre circulação, os Estados-Membros devem abster-se de adoptar, para os produtos em causa, disposições nacionais não previstas na presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "786ee7eaafd3bb34": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA rotulagem do sumo de frutos concentrado definido na Parte I, ponto 2, do Anexo I, não destinado ao consumidor final, deve mencionar a presença e quantidade de açúcares adicionados ou de sumo de limão ou agentes acidificantes adicionados, em conformidade com a Directiva 95/2/CE do Parlamento Europeu e do Conselho, de 20 de Fevereiro de 1995, relativa aos aditivos alimentares com excepção dos corantes e dos edulcorantes ([^9^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#E0009)). Esta indicação será aposta na embalagem, num rótulo aplicado à embalagem ou num documento de acompanhamento."
+  },
+  "1bfa290a49045c71": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSem prejuízo do disposto na Directiva 89/107/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-Membros respeitantes aos aditivos que podem ser utilizados nos géneros destinados à alimentação humana ([^10^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#E0010)), só poderão ser utilizados no fabrico dos produtos definidos na parte I do anexo I os tratamentos e substâncias previstos na parte II do anexo I e as matérias-primas que obedeçam ao disposto no anexo II. Além disso, os néctares de frutos deverão obedecer ao disposto no anexo IV."
+  },
+  "61b447195caf9bea": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A Comissão é assistida pelo Comité Permanente dos Géneros Alimentícios (a seguir designado por «Comité»), instituído pelo artigo 1.º da Decisão 69/414/CEE ([^11^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#E0011)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "bbd4a87ae6f811f3": {
+   "fragment_id": "I. DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "I. DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. DEFINIÇÕES\n\n1. a) Sumo de frutos Designa o produto fermentescível, mas não fermentado, obtido a partir de uma ou mais espécies de frutos sãos e maduros, frescos ou conservados pelo frio, com a cor, o aroma e o gosto característicos dos sumos dos frutos de que provém. Podem ser restituídas ao sumo as substâncias aromáticas, a polpa e as células separadas após a extracção. Os sumos de citrinos devem ser fabricados a partir do endocarpo dos frutos. Contudo, o sumo de lima pode ser fabricado a partir do fruto inteiro, de acordo com práticas de fabrico adequadas que devem permitir reduzir ao mínimo os constituintes das partes exteriores do fruto presentes no sumo. b) Sumo de frutos fabricado a partir de um produto concentrado Designa o produto obtido por reposição num sumo de frutos concentrado da água extraída do sumo durante a concentração e por restituição das substâncias aromáticas e, se for caso disso, da polpa e das células eliminadas do sumo, mas recuperadas durante o processo de produção do sumo de frutos de partida ou de sumo da mesma espécie de frutos. Para preservar as qualidades essenciais do sumo, a água adicionada deve ter características apropriadas, designadamente dos pontos de vista químico, microbiológico e organoléptico. As características organolépticas e analíticas do produto assim obtido devem ser, pelo menos, equivalentes às de um sumo médio obtido a partir de frutos da mesma espécie, na acepção da alínea a).\n\n2. Sumo de frutos concentradoDesigna o produto obtido a partir de sumo de uma ou mais espécies de frutos por eliminação física de uma parte determinada da água. Quando o produto se destinar a consumo directo, a água eliminada não poderá representar menos de 50 %.\n\n3. Sumo de frutos desidratado/em póDesigna o produto obtido a partir de sumo de uma ou mais espécies de frutos por eliminação física de quase toda a água.\n\n4. Néctar de frutos a) Designa o produto fermentescível, mas não fermentado, obtido por adição de água e de açúcares e/ou mel aos produtos definidos nos pontos 1, 2 e 3, a polmes de frutos ou a uma mistura destes produtos e que obedeça aos requisitos do anexo IV. A adição de açúcares e/ou mel é autorizada em quantidades que não representem mais de 20 %, em massa, do produto acabado. No fabrico de néctares de frutos sem adição de açúcares ou de baixo valor energético, os açúcares poderão ser total ou parcialmente substituídos por edulcorantes, nos termos da Directiva 94/35/CE do Parlamento Europeu e do Conselho, de 30 de Junho de 1994, relativa aos edulcorantes para utilização nos géneros alimentícios ([^12^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#E0012)). b) Em derrogação do disposto na alínea a), os frutos enumerados nas partes II e III do anexo IV e os damascos podem ser utilizados, estremes ou misturados entre si, no fabrico de néctares sem adição de açúcares, mel e/ou edulcorantes."
+  },
+  "f438a51e36f4ffd1": {
+   "fragment_id": "2. Tratamentos e substâncias autorizados",
+   "type": "divisao",
+   "heading": "2. Tratamentos e substâncias autorizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Tratamentos e substâncias autorizados\n\n— Processos de extracção mecânicos;\n\n— Processos físicos usuais, incluindo extracção de água ( processo in-line — difusão) da parte comestível dos frutos, com excepção das uvas, para o fabrico de sumos de frutos concentrados, desde que os sumos de frutos assim obtidos obedeçam ao disposto na parte I. A utilização de certos processos e tratamentos pode ser limitada ou proibida em conformidade com o procedimento previsto no n.º 2 do artigo 8.º;\n\n— No que respeita aos sumos de uva, no caso de se ter procedido à sulfitação das uvas com dióxido de enxofre, é autorizada a dessulfitação por processos físicos, desde que a quantidade total de SO2 presente no produto acabado não exceda 10 mg/l;\n\n— Enzimas pectolíticas, que cumpram os requisitos do Regulamento (CE) n.º 1332/2008 do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2008, relativo às enzimas alimentares ([^13^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#E0013));\n\n— Enzimas proteolíticas, que cumpram os requisitos do Regulamento (CE) n.º 1332/2008;\n\n— Enzimas amilolíticas, que cumpram os requisitos do Regulamento (CE) n.º 1332/2008;\n\n— Gelatina alimentar;\n\n— Tanino;\n\n— Bentonite;\n\n— Sílica-gel;\n\n— Carvão;\n\n— Adjuvantes de filtração e agentes de precipitação quimicamente inertes (por ex., perlites, diatomite lavada, celulose, poliamida insolúvel, polivinilpolipirrolidona, polistireno), que obedeçam às directivas comunitárias relativas aos materiais e artigos destinados a entrar em contacto com os géneros alimentícios;\n\n— Adjuvantes de adsorção quimicamente inertes que obedeçam às directivas relativas aos materiais e artigos destinados a entrar em contacto com os géneros alimentícios e sejam utilizados para reduzir o teor limonóide e naringíneo dos sumos de citrinos sem afectarem significativamente os teores de glucósidos limonóides, de ácidos, de açúcares (inclusive os oligossacáridos) ou de minerais."
+  },
+  "3a5a1493c24e92f2": {
+   "fragment_id": "DEFINIÇÕES DAS MATÉRIAS-PRIMAS",
+   "type": "divisao",
+   "heading": "DEFINIÇÕES DAS MATÉRIAS-PRIMAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DEFINIÇÕES DAS MATÉRIAS-PRIMAS\n\nPara efeitos do disposto na presente directiva, entende-se por:\n\n1. Fruto:\n\nTodos os frutos. Para efeitos do disposto na presente directiva, o tomate não é considerado um fruto.\n\n2. Polme de frutos:\n\nO produto fermentescível, mas não fermentado, obtido por peneiração da parte comestível de frutos inteiros ou descascados, sem eliminação do sumo.\n\n3. Polme de frutos concentrado:\n\nO produto obtido a partir de polme de frutos por eliminação física de uma parte determinada da água de constituição.\n\n4. Açúcares:\n\nPara o fabrico de:\n\na) Néctares de frutos:\n\n— os açúcares definidos na Directiva 2001/111/CE do Conselho de, 20 de Dezembro de 2001, relativa a determinados açúcares destinados à alimentação humana ([^14^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#E0014));\n\n— o xarope de frutose;\n\n— os açúcares derivados de frutos;\n\nb) Sumos de frutos fabricados a partir de um produto concentrado:\n\n— os açúcares definidos na Directiva 2001/111/CE;\n\n— o xarope de frutose;\n\nc) Sumos de frutos: os açúcares enumerados na alínea b) que contenham menos de 2 % de água.\n\n5. Mel:\n\ndesigna o produto definido na Directiva 2001/110/CE do Conselho, de 20 de Dezembro de 2001, relativa ao mel ([^15^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#E0015)).\n\n6. Polpa ou células\n\nOs produtos obtidos a partir das partes comestíveis de frutos da mesma espécie, sem eliminação do sumo. No caso dos citrinos, a polpa ou as células são os sacos de sumo obtidos a partir do endocarpo."
+  },
+  "f4e70a94057d435e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#src.E0001)) JO C 231 de 9.8.1996, p. 14.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#src.E0002)) JO C 279 de 1.10.1999, p. 92.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#src.E0003)) JO C 56 de 24.2.1997, p. 20.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#src.E0004)) JO L 33 de 8.2.1979, p. 1. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#src.E0005)) JO L 311 de 1.12.1975, p. 40.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#src.E0006)) JO L 109 de 6.5.2000, p. 29.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#src.E0007)) JO L 276 de 6.10.1990, p. 40.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#src.E0008)) JO L 184 de 7.7.1999, p. 23.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#src.E0009)) JO L 61 de 18.3.1995, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 98/72/CE (JO L 295 de 4.11.1998, p.18).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#src.E0010)) JO L 40 de 11.2.1989, p. 27. Directiva com a última redacção que lhe foi dada pela Directiva 94/34/CE (JO L 237 de 10.9.1994, p. 1).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#src.E0011)) JO L 291 de 19.11.1969, p. 9.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#src.E0012)) JO L 237 de 10.9.1994, p. 3. Directiva com a redacção que lhe foi dada pela Directiva 96/83/CE (JO L 48 de 19.2.1997, p. 16).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#src.E0013)) JO L 354 de 31.12.2008, p. 7.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#src.E0014)) Ver página 53 do presente Jornal Oficial.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/b446793a-0640-4b25-a1b9-725479331045.0018.03/DOC_1#src.E0015)) Ver página 47 do presente Jornal Oficial."
+  },
+  "c48294c298ec7e6b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 2001\n\nrelativa aos sumos de frutos e a determinados produtos similares destinados à alimentação humana\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente o seu artigo 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#E0003)),\n\n(1) De acordo com as conclusões do Conselho Europeu de Edimburgo, de 11 e 12 de Dezembro de 1992, confirmadas pelas conclusões do Conselho Europeu de Bruxelas, de 10 e 11 de Dezembro de 1993, é necessário proceder à simplificação de determinadas directivas verticais no domínio dos géneros alimentícios, a fim de tomar exclusivamente em conta os requisitos essenciais que os produtos por elas abrangidos devem satisfazer para poderem circular livremente no mercado interno.\n\n(2) A Directiva 93/77/CEE do Conselho de 21 de Setembro de 1993, relativa aos sumos de frutos e determinados produtos similares ([^4^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#E0004)), teve por objectivo proceder à codificação da Directiva 75/726/CEE ([^5^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#E0005)), que trata da mesma matéria.\n\n(3) A adopção das Directivas 75/726/CEE e 93/77/CEE foi justificada pelo facto de as diferenças entre as legislações nacionais no que respeita aos sumos e néctares de frutos destinados à alimentação humana poderem criar condições de concorrência desleal, susceptíveis de induzir os consumidores em erro, influenciando deste modo directamente a realização e o funcionamento do mercado interno.\n\n(4) Neste contexto, as citadas directivas estabeleceram regras comuns no que respeita à composição, à utilização das denominações reservadas, às características de fabrico e à rotulagem dos produtos em questão, por forma a garantir a sua livre circulação na Comunidade.\n\n(5) Por motivos de clareza, é necessário proceder à reformulação da Directiva 93/77/CEE, por forma a tornar mais acessíveis as regras relativas às condições de fabrico e comercialização dos sumos de frutos e determinados produtos similares.\n\n(6) Por outro lado, a Directiva 93/77/CEE deve ser adaptada à legislação comunitária geral aplicável aos géneros alimentícios, nomeadamente à legislação relativa à rotulagem e aos corantes, edulcorantes e outros aditivos autorizados.\n\n(7) São aplicáveis as disposições da Directiva 2000/13/CE do Conselho, de 20 de Março de 2000, relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios destinados ao consumidor final ([^6^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#E0006)), em especial os n.^os^ 2 e 5 do artigo 7.º, sob reserva de determinadas condições. Deve estar claramente indicado sempre que o produto seja uma mistura de sumos de frutos e de sumos de frutos fabricados a partir de um produto concentrado e, no caso dos néctares de frutos, sempre que sejam fabricados total ou parcialmente a partir de um produto concentrado. A lista dos ingredientes constante da rotulagem deve incluir os nomes tanto dos sumos de frutos como dos sumos de frutos fabricados a partir de um produto concentrado que foram utilizados.\n\n(8) Sem prejuízo do disposto na Directiva 90/496/CEE do Conselho, de 24 de Setembro de 1990, relativa à rotulagem nutricional dos géneros alimentícios ([^7^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#E0007)), nalguns Estados-Membros, é autorizada a adição de vitaminas aos produtos definidos na presente directiva. Não obstante, não é julgado conveniente alargar essa possibilidade ao conjunto da Comunidade. Nestas circunstâncias, os Estados-Membros são livres de autorizar ou proibir a adição de vitaminas e minerais durante o processo de fabrico. No entanto, deve ser sempre observado o princípio da livre circulação de mercadorias na Comunidade, de acordo com as regras e princípios consagrados no Tratado.\n\n(9) Em aplicação dos princípios da subsidiariedade e da proporcionalidade consagrados no artigo 5.º do Tratado, o objectivo de fixação de definições e regras comuns para os produtos em causa e de alinhamento pelas disposições comunitárias de carácter geral aplicáveis aos géneros alimentícios não pode ser suficientemente realizado pelos Estados-Membros e pode pois, devido à própria natureza da presente directiva, ser melhor alcançado a nível comunitário. A presente directiva limita-se ao necessário para atingir esse objectivo.\n\n(10) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^8^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#E0008)).\n\n(11) Para evitar que sejam criados novos entraves à livre circulação, os Estados-Membros devem abster-se de adoptar, para os produtos em causa, disposições nacionais não previstas na presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "7ab84f587d0c9d74": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA Directiva 2000/13/CE é aplicável aos produtos definidos no anexo I da presente directiva, nas condições seguintes:\n\na) As denominações constantes do anexo I são reservadas aos produtos aí referidos e devem, sem prejuízo do disposto na alínea b), ser utilizadas no comércio para designar esses produtos;\n\nb) Em alternativa às denominações de produtos referidas na alínea a), o anexo III contém uma lista das denominações específicas que podem ser utilizadas na língua e nas condições nele definidas.\n\n2. Quando um produto for fabricado a partir de uma única espécie de frutos, a palavra «frutos» deve ser substituída pela palavra «fruto».\n\n3. No caso dos produtos fabricados a partir de duas ou mais espécies de frutos, com excepção da utilização de sumo de limão, nas condições fixadas na parte II, ponto 1, do anexo I, a denominação deve ser completada pela indicação dos frutos utilizados, por ordem decrescente do volume dos sumos ou polmes de frutos em questão. Contudo, no caso dos produtos fabricados a partir de três ou mais espécies de frutos, a indicação dos frutos utilizados pode ser substituída pela expressão «vários frutos», por uma expressão similar ou pela indicação do número de frutos utilizados.\n\n4. No caso dos sumos de frutos a que tenham sido adicionados açúcares para fins edulcorantes, deve figurar na denominação de venda uma das indicações «adoçado» ou «com adição de açúcares», seguida da quantidade máxima de açúcares adicionados, calculada em termos de resíduo seco e expressa em gramas por litro.\n\n5. O regresso à composição original dos produtos definidos na parte I do anexo I, utilizando apenas as substâncias estritamente necessárias a esta operação, não implica a obrigatoriedade de incluir na rotulagem a lista dos ingredientes utilizados para esse fim.\n\n6. Sem prejuízo do disposto nos n.^os^ 2 e 5 do artigo 7.º da Directiva 2000/13/CE, no caso das misturas de sumos de frutos e de sumos de frutos fabricados a partir de um produto concentrado e dos néctares de frutos fabricados total ou parcialmente a partir de um ou mais produtos concentrados, deve constar da rotulagem a indicação [**►M3**](http://publications.europa.eu/resource/celex/32009L0106) «proveniente de concentrado(s)»**◄** ou [**►M3**](http://publications.europa.eu/resource/celex/32009L0106) «parcialmente proveniente de concentrado(s)»**◄**, consoante o caso. Esta indicação deve figurar na proximidade imediata da denominação de venda, em caracteres claramente visíveis e destacada dos restantes elementos da rotulagem.\n\n7. No caso dos néctares de frutos, o teor mínimo de sumo de frutos, de polme de frutos, ou de uma mistura destes ingredientes deve constar da rotulagem através da indicação «teor de frutos: no mínimo … %». Esta indicação deve figurar no mesmo campo visual que a denominação de venda."
+  },
+  "25ffda65948f051a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA rotulagem do sumo de frutos concentrado definido na Parte I, ponto 2, do Anexo I, não destinado ao consumidor final, deve mencionar a presença e quantidade de açúcares adicionados ou de sumo de limão ou agentes acidificantes adicionados, em conformidade com a Directiva 95/2/CE do Parlamento Europeu e do Conselho, de 20 de Fevereiro de 1995, relativa aos aditivos alimentares com excepção dos corantes e dos edulcorantes ([^9^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#E0009)). Esta indicação será aposta na embalagem, num rótulo aplicado à embalagem ou num documento de acompanhamento."
+  },
+  "8cbab677327876f6": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSem prejuízo do disposto na Directiva 89/107/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-Membros respeitantes aos aditivos que podem ser utilizados nos géneros destinados à alimentação humana ([^10^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#E0010)), só poderão ser utilizados no fabrico dos produtos definidos na parte I do anexo I os tratamentos e substâncias previstos na parte II do anexo I e as matérias-primas que obedeçam ao disposto no anexo II. Além disso, os néctares de frutos deverão obedecer ao disposto no anexo IV."
+  },
+  "9f137bcbe6c11a64": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A Comissão é assistida pelo Comité Permanente dos Géneros Alimentícios (a seguir designado por «Comité»), instituído pelo artigo 1.º da Decisão 69/414/CEE ([^11^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#E0011)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "ec03d434008e7052": {
+   "fragment_id": "I. DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "I. DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. DEFINIÇÕES\n\n1. a) Sumo de frutos Designa o produto fermentescível, mas não fermentado, obtido a partir de uma ou mais espécies de frutos sãos e maduros, frescos ou conservados pelo frio, com a cor, o aroma e o gosto característicos dos sumos dos frutos de que provém. Podem ser restituídas ao sumo as substâncias aromáticas, a polpa e as células separadas após a extracção. Os sumos de citrinos devem ser fabricados a partir do endocarpo dos frutos. Contudo, o sumo de lima pode ser fabricado a partir do fruto inteiro, de acordo com práticas de fabrico adequadas que devem permitir reduzir ao mínimo os constituintes das partes exteriores do fruto presentes no sumo. b) Sumo de frutos fabricado a partir de um produto concentrado Designa o produto obtido por reposição num sumo de frutos concentrado da água extraída do sumo durante a concentração e por restituição das substâncias aromáticas e, se for caso disso, da polpa e das células eliminadas do sumo, mas recuperadas durante o processo de produção do sumo de frutos de partida ou de sumo da mesma espécie de frutos. Para preservar as qualidades essenciais do sumo, a água adicionada deve ter características apropriadas, designadamente dos pontos de vista químico, microbiológico e organoléptico. [▼M3](http://publications.europa.eu/resource/celex/32009L0106) As características organolépticas e analíticas do produto assim obtido devem ser, pelo menos, equivalentes às de um sumo médio obtido a partir de frutos da mesma espécie, na acepção da alínea a). A graduação Brix mínima dos sumos de frutos provenientes de concentrado é indicada no anexo V. [▼B](http://publications.europa.eu/resource/celex/32001L0112)\n\n2. Sumo de frutos concentradoDesigna o produto obtido a partir de sumo de uma ou mais espécies de frutos por eliminação física de uma parte determinada da água. Quando o produto se destinar a consumo directo, a água eliminada não poderá representar menos de 50 %.\n\n3. Sumo de frutos desidratado/em póDesigna o produto obtido a partir de sumo de uma ou mais espécies de frutos por eliminação física de quase toda a água.\n\n4. Néctar de frutos a) Designa o produto fermentescível, mas não fermentado, obtido por adição de água e de açúcares e/ou mel aos produtos definidos nos pontos 1, 2 e 3, a polmes de frutos ou a uma mistura destes produtos e que obedeça aos requisitos do anexo IV. A adição de açúcares e/ou mel é autorizada em quantidades que não representem mais de 20 %, em massa, do produto acabado. No fabrico de néctares de frutos sem adição de açúcares ou de baixo valor energético, os açúcares poderão ser total ou parcialmente substituídos por edulcorantes, nos termos da Directiva 94/35/CE do Parlamento Europeu e do Conselho, de 30 de Junho de 1994, relativa aos edulcorantes para utilização nos géneros alimentícios ([^12^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#E0012)). b) Em derrogação do disposto na alínea a), os frutos enumerados nas partes II e III do anexo IV e os damascos podem ser utilizados, estremes ou misturados entre si, no fabrico de néctares sem adição de açúcares, mel e/ou edulcorantes."
+  },
+  "16b3c83a7dc87c4f": {
+   "fragment_id": "2. Tratamentos e substâncias autorizados",
+   "type": "divisao",
+   "heading": "2. Tratamentos e substâncias autorizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Tratamentos e substâncias autorizados\n\n— Processos de extracção mecânicos;\n\n— Processos físicos usuais, incluindo extracção de água ( processo in-line — difusão) da parte comestível dos frutos, com excepção das uvas, para o fabrico de sumos de frutos concentrados, desde que os sumos de frutos assim obtidos obedeçam ao disposto na parte I. A utilização de certos processos e tratamentos pode ser limitada ou proibida em conformidade com o procedimento previsto no n.º 2 do artigo 8.º;\n\n— No que respeita aos sumos de uva, no caso de se ter procedido à sulfitação das uvas com dióxido de enxofre, é autorizada a dessulfitação por processos físicos, desde que a quantidade total de SO2 presente no produto acabado não exceda 10 mg/l;\n\n— Enzimas pectolíticas, que cumpram os requisitos do Regulamento (CE) n.º 1332/2008 do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2008, relativo às enzimas alimentares ([^13^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#E0013));\n\n— Enzimas proteolíticas, que cumpram os requisitos do Regulamento (CE) n.º 1332/2008;\n\n— Enzimas amilolíticas, que cumpram os requisitos do Regulamento (CE) n.º 1332/2008;\n\n— Gelatina alimentar;\n\n— Tanino;\n\n— Bentonite;\n\n— Sílica-gel;\n\n— Carvão;\n\n— Adjuvantes de filtração e agentes de precipitação quimicamente inertes (por ex., perlites, diatomite lavada, celulose, poliamida insolúvel, polivinilpolipirrolidona, polistireno), que obedeçam às directivas comunitárias relativas aos materiais e artigos destinados a entrar em contacto com os géneros alimentícios;\n\n— Adjuvantes de adsorção quimicamente inertes que obedeçam às directivas relativas aos materiais e artigos destinados a entrar em contacto com os géneros alimentícios e sejam utilizados para reduzir o teor limonóide e naringíneo dos sumos de citrinos sem afectarem significativamente os teores de glucósidos limonóides, de ácidos, de açúcares (inclusive os oligossacáridos) ou de minerais."
+  },
+  "86e5e9c15cae4dcf": {
+   "fragment_id": "DEFINIÇÕES DAS MATÉRIAS-PRIMAS",
+   "type": "divisao",
+   "heading": "DEFINIÇÕES DAS MATÉRIAS-PRIMAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DEFINIÇÕES DAS MATÉRIAS-PRIMAS\n\nPara efeitos do disposto na presente directiva, entende-se por:\n\n1. Fruto:\n\nTodos os frutos. Para efeitos do disposto na presente directiva, o tomate não é considerado um fruto.\n\n2. Polme de frutos:\n\nO produto fermentescível, mas não fermentado, obtido por peneiração da parte comestível de frutos inteiros ou descascados, sem eliminação do sumo.\n\n3. Polme de frutos concentrado:\n\nO produto obtido a partir de polme de frutos por eliminação física de uma parte determinada da água de constituição.\n\n4. Açúcares:\n\nPara o fabrico de:\n\na) Néctares de frutos:\n\n— os açúcares definidos na Directiva 2001/111/CE do Conselho de, 20 de Dezembro de 2001, relativa a determinados açúcares destinados à alimentação humana ([^14^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#E0014));\n\n— o xarope de frutose;\n\n— os açúcares derivados de frutos;\n\nb) Sumos de frutos fabricados a partir de um produto concentrado:\n\n— os açúcares definidos na Directiva 2001/111/CE;\n\n— o xarope de frutose;\n\nc) Sumos de frutos: os açúcares enumerados na alínea b) que contenham menos de 2 % de água.\n\n5. Mel:\n\ndesigna o produto definido na Directiva 2001/110/CE do Conselho, de 20 de Dezembro de 2001, relativa ao mel ([^15^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#E0015)).\n\n6. Polpa ou células\n\nOs produtos obtidos a partir das partes comestíveis de frutos da mesma espécie, sem eliminação do sumo. No caso dos citrinos, a polpa ou as células são os sacos de sumo obtidos a partir do endocarpo."
+  },
+  "6c64c7a72c41d31b": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV\n\n| Néctares de frutos | Teor mínimo de sumo e/ou de polme, expresso em percentagem volúmica do produto acabado |\n| --- | --- |\n| I. Frutos de sumo ácido de paladar pouco agradável no estado natural |  |\n| Maracujás | 25 |\n| Solanos de Quito (*Solanum quitoense*) | 25 |\n| Groselhas negras | 25 |\n| Groselhas brancas | 25 |\n| Groselhas vermelhas | 25 |\n| Groselhas verdes (espinhosas) | 30 |\n| Frutos do espinheiro das areias (*Hippophae*) | 25 |\n| Abrunhos | 30 |\n| Ameixas | 30 |\n| Ameixas *quetsche* | 30 |\n| Sorvas | 30 |\n| Frutos da roseira brava | 40 |\n| Cerejas ácidas (ginjas) | 35 |\n| Outras cerejas | 40 |\n| Mirtilos | 40 |\n| Bagas de sabugueiro | 50 |\n| Framboesas | 40 |\n| Damascos | 40 |\n| Morangos | 40 |\n| Amoras | 40 |\n| Airelas vermelhas | 30 |\n| Marmelos | 50 |\n| Limões e limas | 25 |\n| Outros frutos pertencentes a esta categoria | 25 |\n| II. Frutos de fraca acidez, com muita polpa ou muito aromáticos, de sumo de paladar pouco agradável no estado natural |  |\n| Mangas | 25 |\n| Bananas | 25 |\n| Goiabas | 25 |\n| Papaias | 25 |\n| Lichias | 25 |\n| Azarolas | 25 |\n| Anonas (*Annona muricata*) | 25 |\n| Cachimãs (*Annona reticulata*) | 25 |\n| Cherimólias | 25 |\n| Romãs | 25 |\n| Anacardos ou castanhas de cajú | 25 |\n| Cajás-vermelhos (*Spondia purpurea*) | 25 |\n| Imbus (*Spondia tuberosa aroda*) | 25 |\n| Outros frutos pertencentes a esta categoria | 25 |\n| III. Frutos de sumo de paladar agradável no estado natural |  |\n| Maçãs | 50 |\n| Pêras | 50 |\n| Pêssegos | 50 |\n| Citrinos, excepto limões e limas | 50 |\n| Ananases | 50 |\n| Outros frutos pertencentes a esta categoria | 50 |"
+  },
+  "0482a2b699f5cdb0": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V\n\n| Nome comum do fruto | Designação botânica | Graduação Brix mínima do sumo de frutos reconstituído e do polme de frutos reconstituído |\n| --- | --- | --- |\n| Maçã (*) | *Malus domestica* Borkh. | 11,2 |\n| Damasco (**) | *Prunus armeniaca* L. | 11,2 |\n| Banana (**) | *Musa sp*. | 21,0 |\n| Groselha negra (*) | *Ribes nigrum* L. | 11,6 |\n| Uva (*) | *Vitis vinifera* L. ou híbridos desta espécie *Vitis labrusca* L. ou híbridos desta espécie | 15,9 |\n| Toranja (*) | *Citrus x paradise* Macfad. | 10,0 |\n| Goiaba (**) | *Psidium guajava* L. | 9,5 |\n| Limão (*) | *Citrus limon* (L.) Burm. f. | 8,0 |\n| Manga (**) | *Mangifera indica* L. | 15,0 |\n| Laranja (*) | *Citrus sinensis* (L.) Osbeck | 11,2 |\n| Maracujá (*) | *Passiflora edulis* Sims | 13,5 |\n| Pêssego (**) | *Prunus persica* (L.) Batsch var. *persica* | 10,0 |\n| Pêra (**) | *Pyrus communis* L. | 11,9 |\n| Ananás (*) | *Ananas comosus* (L.) Merr. | 12,8 |\n| Framboesa (*) | *Rubus idaeus* L. | 7,0 |\n| Ginja (*) | *Prunus cerasus* L. | 13,5 |\n| Morango (*) | *Fragaria x ananassa* Duch. | 7,0 |\n| Tangerina (*) | *Citrus reticulata Blanco* | 11,2 |\n| Se um sumo proveniente de concentrado for fabricado a partir de um fruto não constante desta lista, a graduação Brix mínima do sumo reconstituído é a graduação Brix do sumo extraído do fruto utilizado para produzir o concentrado. No caso dos produtos assinalados com um asterisco (*), que são convertidos em sumo, determina-se a densidade relativa mínima do sumo a 20 °C em relação a água a 20 °C. No caso dos produtos assinalados com dois asteriscos (**), que são convertidos em polme, determina-se apenas uma leitura Brix mínima não corrigida (não corrigida em função da acidez). No caso das groselhas negras, das goiabas, das mangas e dos maracujás, a graduação Brix mínima só se aplica ao sumo de frutos reconstituído e ao polme de frutos reconstituído produzidos na Comunidade. |  |  |\n\n---"
+  },
+  "09f0e9579f5c5a20": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#src.E0001)) JO C 231 de 9.8.1996, p. 14.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#src.E0002)) JO C 279 de 1.10.1999, p. 92.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#src.E0003)) JO C 56 de 24.2.1997, p. 20.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#src.E0004)) JO L 33 de 8.2.1979, p. 1. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#src.E0005)) JO L 311 de 1.12.1975, p. 40.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#src.E0006)) JO L 109 de 6.5.2000, p. 29.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#src.E0007)) JO L 276 de 6.10.1990, p. 40.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#src.E0008)) JO L 184 de 7.7.1999, p. 23.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#src.E0009)) JO L 61 de 18.3.1995, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 98/72/CE (JO L 295 de 4.11.1998, p.18).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#src.E0010)) JO L 40 de 11.2.1989, p. 27. Directiva com a última redacção que lhe foi dada pela Directiva 94/34/CE (JO L 237 de 10.9.1994, p. 1).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#src.E0011)) JO L 291 de 19.11.1969, p. 9.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#src.E0012)) JO L 237 de 10.9.1994, p. 3. Directiva com a redacção que lhe foi dada pela Directiva 96/83/CE (JO L 48 de 19.2.1997, p. 16).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#src.E0013)) JO L 354 de 31.12.2008, p. 7.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#src.E0014)) Ver página 53 do presente Jornal Oficial.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/582a0a54-1485-4d86-b1ee-03c7fd17e221.0018.03/DOC_1#src.E0015)) Ver página 47 do presente Jornal Oficial."
+  },
+  "6864d8e60cddc934": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 2001\n\nrelativa aos sumos de frutos e a determinados produtos similares destinados à alimentação humana\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente o seu artigo 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#E0003)),\n\n(1) De acordo com as conclusões do Conselho Europeu de Edimburgo, de 11 e 12 de Dezembro de 1992, confirmadas pelas conclusões do Conselho Europeu de Bruxelas, de 10 e 11 de Dezembro de 1993, é necessário proceder à simplificação de determinadas directivas verticais no domínio dos géneros alimentícios, a fim de tomar exclusivamente em conta os requisitos essenciais que os produtos por elas abrangidos devem satisfazer para poderem circular livremente no mercado interno.\n\n(2) A Directiva 93/77/CEE do Conselho de 21 de Setembro de 1993, relativa aos sumos de frutos e determinados produtos similares ([^4^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#E0004)), teve por objectivo proceder à codificação da Directiva 75/726/CEE ([^5^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#E0005)), que trata da mesma matéria.\n\n(3) A adopção das Directivas 75/726/CEE e 93/77/CEE foi justificada pelo facto de as diferenças entre as legislações nacionais no que respeita aos sumos e néctares de frutos destinados à alimentação humana poderem criar condições de concorrência desleal, susceptíveis de induzir os consumidores em erro, influenciando deste modo directamente a realização e o funcionamento do mercado interno.\n\n(4) Neste contexto, as citadas directivas estabeleceram regras comuns no que respeita à composição, à utilização das denominações reservadas, às características de fabrico e à rotulagem dos produtos em questão, por forma a garantir a sua livre circulação na Comunidade.\n\n(5) Por motivos de clareza, é necessário proceder à reformulação da Directiva 93/77/CEE, por forma a tornar mais acessíveis as regras relativas às condições de fabrico e comercialização dos sumos de frutos e determinados produtos similares.\n\n(6) Por outro lado, a Directiva 93/77/CEE deve ser adaptada à legislação comunitária geral aplicável aos géneros alimentícios, nomeadamente à legislação relativa à rotulagem e aos corantes, edulcorantes e outros aditivos autorizados.\n\n(7) São aplicáveis as disposições da Directiva 2000/13/CE do Conselho, de 20 de Março de 2000, relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios destinados ao consumidor final ([^6^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#E0006)), em especial os n.^os^ 2 e 5 do artigo 7.º, sob reserva de determinadas condições. Deve estar claramente indicado sempre que o produto seja uma mistura de sumos de frutos e de sumos de frutos fabricados a partir de um produto concentrado e, no caso dos néctares de frutos, sempre que sejam fabricados total ou parcialmente a partir de um produto concentrado. A lista dos ingredientes constante da rotulagem deve incluir os nomes tanto dos sumos de frutos como dos sumos de frutos fabricados a partir de um produto concentrado que foram utilizados.\n\n(8) Sem prejuízo do disposto na Directiva 90/496/CEE do Conselho, de 24 de Setembro de 1990, relativa à rotulagem nutricional dos géneros alimentícios ([^7^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#E0007)), nalguns Estados-Membros, é autorizada a adição de vitaminas aos produtos definidos na presente directiva. Não obstante, não é julgado conveniente alargar essa possibilidade ao conjunto da Comunidade. Nestas circunstâncias, os Estados-Membros são livres de autorizar ou proibir a adição de vitaminas e minerais durante o processo de fabrico. No entanto, deve ser sempre observado o princípio da livre circulação de mercadorias na Comunidade, de acordo com as regras e princípios consagrados no Tratado.\n\n(9) Em aplicação dos princípios da subsidiariedade e da proporcionalidade consagrados no artigo 5.º do Tratado, o objectivo de fixação de definições e regras comuns para os produtos em causa e de alinhamento pelas disposições comunitárias de carácter geral aplicáveis aos géneros alimentícios não pode ser suficientemente realizado pelos Estados-Membros e pode pois, devido à própria natureza da presente directiva, ser melhor alcançado a nível comunitário. A presente directiva limita-se ao necessário para atingir esse objectivo.\n\n(10) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^8^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#E0008)).\n\n(11) Para evitar que sejam criados novos entraves à livre circulação, os Estados-Membros devem abster-se de adoptar, para os produtos em causa, disposições nacionais não previstas na presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "2227ed202c384757": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva aplica-se aos produtos definidos no anexo I.\n\nSalvo disposição em contrário da presente diretiva, os produtos definidos no anexo I estão sujeitos às disposições do direito da União aplicáveis aos alimentos, nomeadamente o Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios ([^9^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#E0009))."
+  },
+  "61e898f44631b156": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA Directiva 2000/13/CE é aplicável aos produtos definidos no anexo I da presente directiva, nas condições seguintes:\n\na) As denominações constantes do anexo I são reservadas aos produtos aí referidos e devem, sem prejuízo do disposto na alínea b), ser utilizadas no comércio para designar esses produtos;\n\nb) Em alternativa às denominações de produtos referidas na alínea a), o anexo III contém uma lista das denominações específicas que podem ser utilizadas na língua e nas condições nele definidas.\n\n2. Quando um produto for fabricado a partir de uma única espécie de frutos, a palavra «frutos» deve ser substituída pela palavra «fruto».\n\n3. No caso dos produtos fabricados a partir de duas ou mais espécies de frutos, com exceção da utilização de sumo de limão e/ou de sumo de lima nas condições previstas no anexo I, parte II, ponto 2, a denominação do produto deve ser constituída pela indicação dos frutos utilizados, por ordem decrescente do volume dos sumos ou polmes de frutos incorporados, tal como indicado na lista de ingredientes. Contudo, no caso dos produtos fabricados a partir de três ou mais espécies de frutos, a indicação dos frutos utilizados pode ser substituída pela expressão «vários frutos», por uma expressão similar ou pelo número de frutos utilizado.\n\n5. O regresso à composição original dos produtos definidos na parte I do anexo I, utilizando apenas as substâncias estritamente necessárias a esta operação, não implica a obrigatoriedade de incluir na rotulagem a lista dos ingredientes utilizados para esse fim.\n\n6. Sem prejuízo do disposto nos n.^os^ 2 e 5 do artigo 7.º da Directiva 2000/13/CE, no caso das misturas de sumos de frutos e de sumos de frutos fabricados a partir de um produto concentrado e dos néctares de frutos fabricados total ou parcialmente a partir de um ou mais produtos concentrados, deve constar da rotulagem a indicação [**►M3**](http://publications.europa.eu/resource/celex/32009L0106) «proveniente de concentrado(s)»**◄** ou [**►M3**](http://publications.europa.eu/resource/celex/32009L0106) «parcialmente proveniente de concentrado(s)»**◄**, consoante o caso. Esta indicação deve figurar na proximidade imediata da denominação de venda, em caracteres claramente visíveis e destacada dos restantes elementos da rotulagem.\n\n7. No caso dos néctares de frutos, o teor mínimo de sumo de frutos, de polme de frutos, ou de uma mistura destes ingredientes deve constar da rotulagem através da indicação «teor de frutos: no mínimo … %». Esta indicação deve figurar no mesmo campo visual que a denominação de venda."
+  },
+  "bf661441c4148e4b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA rotulagem do sumo de frutos concentrado a que se refere o anexo I, parte I, ponto 2, não destinado ao consumidor final, deve mencionar a presença e a quantidade adicionada de sumo de limão ou de lima ou de agentes acidificantes permitidos pelo Regulamento (CE) n.º 1333/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo aos aditivos alimentares ([^10^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#E0010)). Esta menção deve figurar num dos seguintes locais:\n\n— na embalagem,\n\n— num rótulo aplicado à embalagem, ou\n\n— num documento de acompanhamento."
+  },
+  "67fd19d0aa942a4c": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros não adoptarão, para os produtos definidos no anexo I, disposições nacionais não previstas na presente directiva.\n\nA presente diretiva aplica-se aos produtos definidos no anexo I que são colocados no mercado da União nos termos do Regulamento (CE) n.º 178/2002."
+  },
+  "d377b65a6d23325d": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSem prejuízo do disposto na Directiva 89/107/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-Membros respeitantes aos aditivos que podem ser utilizados nos géneros destinados à alimentação humana ([^11^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#E0011)), só poderão ser utilizados no fabrico dos produtos definidos na parte I do anexo I os tratamentos e substâncias previstos na parte II do anexo I e as matérias-primas que obedeçam ao disposto no anexo II. Além disso, os néctares de frutos deverão obedecer ao disposto no anexo IV."
+  },
+  "f70d1efcb94b8780": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA fim de harmonizar os anexos da presente diretiva com a evolução das normas internacionais aplicáveis e ter em conta o progresso técnico, a Comissão fica habilitada a adotar atos delegados, nos termos do artigo 7.º-A, para alterar os anexos da presente diretiva, exceto o anexo I, parte I, e o anexo II."
+  },
+  "4d95eedf2f4678c9": {
+   "fragment_id": "Artigo 7.º-A",
+   "type": "artigo",
+   "heading": "Artigo 7.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º-A\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 7.º é conferido à Comissão por um prazo de cinco anos a partir de 28 de outubro 2013. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por prazos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 7.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho.\n\nA decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou numa data posterior nela especificada. A decisão de revogação não afeta a validade dos atos delegados já em vigor.\n\n4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n5. Os atos delegados adotados nos termos do artigo 7.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação desse ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "f15ec95546f1bf49": {
+   "fragment_id": "I. DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "I. DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. DEFINIÇÕES\n\n1. a) ****Sumo de frutos**** Designa o produto fermentescível, mas não fermentado, obtido a partir da parte comestível de uma ou mais espécies de frutos sãos e maduros, frescos ou conservados por refrigeração ou congelação, com a cor, o aroma e o gosto característicos dos sumos dos frutos de que provém. Podem ser restituídos ao sumo o aroma, a polpa e as células obtidos por processos físicos adequados a partir da mesma espécie de fruto. Os sumos de citrinos devem ser fabricados a partir do endocarpo dos frutos. Contudo, o sumo de lima pode ser fabricado a partir do fruto inteiro. Se os sumos forem obtidos a partir de frutos com sementes e pele, as partes ou componentes de sementes ou pele não podem ser incorporadas no sumo. Esta disposição não se aplica a casos em que as partes ou componentes de sementes ou pele não possam ser removidas pelas boas práticas de fabrico. É autorizada a mistura de sumo de frutos com polme de frutos no fabrico de sumo de frutos. b) ****Sumo de frutos fabricado a partir de um produto concentrado**** Designa o produto obtido por reconstituição de sumo de frutos concentrado, definido no ponto 2, com água potável que preencha os requisitos previstos na Diretiva 98/83/CE do Conselho, de 3 de novembro de 1998, relativa à qualidade da água destinada ao consumo humano ([^12^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#E0013)). O teor de sólidos solúveis do produto acabado não deve ser inferior à graduação Brix mínima para sumo reconstituído fixada no anexo V. Se um sumo fabricado a partir de um produto concentrado for obtido a partir de um fruto não constante do anexo V, a graduação Brix do sumo reconstituído não pode ser inferior à graduação Brix do sumo extraído do fruto utilizado para produzir o concentrado. Podem ser restituídos ao sumo de frutos fabricado a partir de um produto concentrado o aroma, a polpa e as células obtidos por processos físicos adequados a partir da mesma espécie de fruto. O sumo fabricado a partir de um produto concentrado deve ser preparado por processos adequados, que conservem os valores médios das características físicas, químicas, organoléticas e nutricionais essenciais dos sumos obtidos a partir dos frutos de que provém. É autorizada a mistura de sumo de frutos e/ou sumo de frutos concentrado com polme de frutos e/ou polme de frutos concentrado na produção de sumos de frutos fabricados a partir de produtos concentrados.\n\n2. **Sumo de frutos concentrado** Designa o produto obtido a partir de sumo de uma ou mais espécies de frutos por eliminação física de uma parte determinada do teor de água. Caso o produto se destine a consumo direto, a água eliminada deve representar pelo menos 50 % do teor de água. Podem ser restituídos ao sumo de frutos concentrado o aroma, a polpa e as células obtidos por processos físicos adequados a partir da mesma espécie de fruto.\n\n3. **Sumo de frutos extraído com água** Designa o produto obtido por difusão com água de: — frutos com muita polpa inteiros cujo sumo não pode ser extraído por processos físicos, ou — frutos inteiros desidratados.\n\n4. **Sumo de frutos desidratado/em pó** Designa o produto obtido a partir de sumo de uma ou mais espécies de frutos por eliminação física de praticamente toda a água.\n\n5. **Néctar de frutos** O produto fermentescível, mas não fermentado: — que é obtido por adição de água, com ou sem adição de açúcares e/ou de mel, aos produtos definidos nos pontos 1 a 4, a polmes de frutos e/ou a polmes de frutos concentrados e/ou a uma mistura destes produtos, e — que preencha os requisitos do anexo IV. Sem prejuízo do Regulamento (CE) n.º 1924/2006 do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006, relativo às alegações nutricionais e de saúde sobre os alimentos ([^13^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#E0014)), no fabrico de néctares de frutos sem adição de açúcares ou de baixo valor energético, os açúcares podem ser total ou parcialmente substituídos por edulcorantes, nos termos do Regulamento (CE) n.º 1333/2008. Podem ser restituídos ao néctar de frutos o aroma, a polpa e as células obtidos por processos físicos adequados a partir da mesma espécie de fruto."
+  },
+  "bb5b1d9d532ae293": {
+   "fragment_id": "1. Composição",
+   "type": "divisao",
+   "heading": "1. Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Composição\n\nA espécie de fruto correspondente à designação botânica indicada no anexo V deve ser utilizada na preparação de sumos de frutos, polmes de frutos e néctares de frutos identificados pela denominação do produto para o fruto em causa ou pelo nome comum do produto. Se a espécie de fruto não constar do anexo V, deve utilizar-se a designação botânica ou o nome comum corretos.\n\nA graduação Brix de um sumo de frutos deve ser a do sumo tal como é extraído do fruto e não pode ser modificada, exceto por mistura com sumo da mesma espécie de fruto.\n\nAs graduações Brix mínimas estabelecidas no anexo V para o sumo de frutos reconstituído e o polme de frutos reconstituído não contabilizam os sólidos solúveis provenientes dos aditivos ou ingredientes facultativos que sejam incorporados no produto."
+  },
+  "f8a2cbe217357565": {
+   "fragment_id": "2. Ingredientes autorizados",
+   "type": "divisao",
+   "heading": "2. Ingredientes autorizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Ingredientes autorizados\n\nSó podem ser adicionados aos produtos referidos na parte I os seguintes ingredientes:\n\n— vitaminas e minerais autorizados no Regulamento (CE) n.º 1925/2006 do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006, relativo à adição de vitaminas, minerais e determinadas outras substâncias aos alimentos ([^14^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#E0015)),\n\n— aditivos alimentares autorizados nos termos do Regulamento (CE) n.º 1333/2008,\n\ne, além disso:\n\n— no caso dos sumos de frutos, dos sumos de frutos fabricados a partir de produtos concentrados e dos sumos de frutos concentrados: aromas, polpa e células restituídos,\n\n— no caso dos sumos de uva: sais de ácido tartárico restituídos,\n\n— no caso dos néctares de fruto: aromas, polpa e células restituídos; açúcares e/ou mel em quantidades que não representem mais de 20 %, em massa, do produto acabado; e/ou edulcorantes.\n\n— A menção referente à não adição de açúcares ao néctar de fruto, e qualquer menção suscetível de ter o mesmo significado para o consumidor, só pode ser ostentada se o produto não contiver monossacáridos ou dissacarídeos adicionados ou quaisquer outros géneros alimentícios utilizados pelas suas propriedades edulcorantes, incluindo edulcorantes, conforme definidos no Regulamento (CE) n.º 1333/2008. Caso os açúcares estejam naturalmente presentes no alimento, o rótulo deverá também ostentar a seguinte indicação: «Contém açúcares naturalmente presentes»,\n\n— no caso dos produtos referidos no anexo III, alínea a), alínea b), primeiro travessão, alínea c), alínea e), segundo travessão, e alínea h): açúcares e/ou mel,\n\n— no caso dos produtos definidos na parte I, pontos 1 a 5, para correção do gosto ácido: sumo de limão e/ou de lima e/ou de sumo concentrado de limão e/ou de lima em quantidade não superior a 3 g por litro de sumo, expressa em ácido cítrico anidro,\n\n— no caso de sumo de tomate e sumo de tomate fabricado a partir de concentrado: sal, especiarias e ervas aromáticas."
+  },
+  "bb664421a014f077": {
+   "fragment_id": "3. Tratamentos e substâncias autorizados",
+   "type": "divisao",
+   "heading": "3. Tratamentos e substâncias autorizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Tratamentos e substâncias autorizados\n\nAos produtos referidos na parte I só podem ser aplicados os seguintes tratamentos ou adicionadas as seguintes substâncias:\n\n— processos de extração mecânicos,\n\n— processos físicos usuais, incluindo extração com água (processo *in-line* por difusão) da parte comestível dos frutos, com exceção das uvas, para o fabrico de sumos de frutos concentrados, desde que os sumos de frutos assim obtidos obedeçam ao disposto na parte I, ponto 1,\n\n— no caso dos sumos de uva, se as uvas tiverem sido sulfitadas com dióxido de enxofre, é autorizada a dessulfitação por processos físicos, desde que a quantidade total de SO2 presente no produto acabado não exceda 10 mg/l,\n\n— preparações enzimáticas: pectinases (degradação da pectina), proteinases (degradação das proteínas) e amílases (degradação do amido) que cumpram os requisitos do Regulamento (CE) n.º 1332/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo às enzimas alimentares ([^15^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#E0016)),\n\n— gelatina alimentar,\n\n— taninos,\n\n— dílica-sol,\n\n— carvão,\n\n— azoto,\n\n— bentonite como argila adsorvente,\n\n— adjuvantes de filtração e agentes de precipitação quimicamente inertes (incluindo perlite, diatomite lavada, celulose, poliamida insolúvel, polivinilpolipirrolidona, poliestireno) que cumpram os requisitos do Regulamento (CE) n.º 1935/2004 do Parlamento Europeu e do Conselho, de 27 de outubro de 2004, relativo aos materiais e objetos destinados a entrar em contacto com os alimentos ([^16^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#E0017)),\n\n— adjuvantes de adsorção quimicamente inertes que cumpram os requisitos do Regulamento (CE) n.º 1935/2004 e sejam utilizados para reduzir o teor de limonóides e de naringina dos sumos de citrinos sem afetarem significativamente os teores de glucósidos limonóides, de ácidos, de açúcares (incluindo os oligossacáridos) ou de minerais."
+  },
+  "83b88c4e48fb03a3": {
+   "fragment_id": "DEFINIÇÕES DAS MATÉRIAS-PRIMAS",
+   "type": "divisao",
+   "heading": "DEFINIÇÕES DAS MATÉRIAS-PRIMAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DEFINIÇÕES DAS MATÉRIAS-PRIMAS\n\nPara efeitos do disposto na presente diretiva, aplicam-se as seguintes definições:"
+  },
+  "d8737c534df9a479": {
+   "fragment_id": "1. Fruto:",
+   "type": "divisao",
+   "heading": "1. Fruto:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Fruto:\n\nTodos os frutos. Para efeitos do disposto na presente diretiva, o tomate também é considerado fruto.\n\nOs frutos devem estar sãos, convenientemente maduros, e frescos ou conservados por processos físicos ou por tratamentos, incluindo tratamentos pós-colheita aplicados nos termos do direito da União."
+  },
+  "84fd4debcf4d68b6": {
+   "fragment_id": "2. Polme de frutos:",
+   "type": "divisao",
+   "heading": "2. Polme de frutos:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Polme de frutos:\n\nO produto fermentescível, mas não fermentado, obtido por processos físicos adequados, tais como peneiração, trituração ou moenda da parte comestível de frutos inteiros ou descascados, sem eliminação do sumo."
+  },
+  "eaab7f9ec5e743ca": {
+   "fragment_id": "3. Polme de frutos concentrado:",
+   "type": "divisao",
+   "heading": "3. Polme de frutos concentrado:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Polme de frutos concentrado:\n\nO produto obtido a partir de polme de frutos por eliminação física de uma parte determinada da água de constituição.\n\nAos polmes de frutos concentrados podem ser restituídos aromas obtidos por processos físicos adequados, tal como definidos no anexo I, parte II, ponto 3, recuperados da mesma espécie de fruto."
+  },
+  "3d6d0720d0a8e505": {
+   "fragment_id": "4. Aroma:",
+   "type": "divisao",
+   "heading": "4. Aroma:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Aroma:\n\nSem prejuízo do Regulamento (CE) n.º 1334/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo aos aromas e a determinados ingredientes alimentares com propriedades aromatizantes utilizados nos e sobre os géneros alimentícios ([^17^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#E0018)), os aromas a restituir devem ser obtidos por aplicação de processos físicos adequados durante a transformação do fruto. Esses processos físicos são utilizados para fixar, conservar ou estabilizar a qualidade do aroma e incluem, nomeadamente, a espremedura, a extração, a destilação, a filtração, a adsorção, a evaporação, o fracionamento e a concentração.\n\nO aroma deve provir das partes comestíveis do fruto. Admitem-se, no entanto, o óleo obtido por pressão a frio de cascas de citrinos e compostos obtidos das sementes."
+  },
+  "9d46cb8749395ca0": {
+   "fragment_id": "5. Açúcares:",
+   "type": "divisao",
+   "heading": "5. Açúcares:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Açúcares:\n\n— os açúcares definidos na Diretiva 2001/111/CE do Conselho, de 20 de dezembro de 2001, relativa a determinados açúcares destinados à alimentação humana ([^18^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#E0019)),\n\n— o xarope de frutose,\n\n— os açúcares derivados de frutos."
+  },
+  "1678bc55b48134b9": {
+   "fragment_id": "6. Mel:",
+   "type": "divisao",
+   "heading": "6. Mel:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. Mel:\n\nO produto definido na Diretiva 2001/110/CE do Conselho, de 20 de dezembro de 2001, relativa ao mel ([^19^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#E0020))."
+  },
+  "3e504a06657ecc1e": {
+   "fragment_id": "7. Polpa ou células:",
+   "type": "divisao",
+   "heading": "7. Polpa ou células:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. Polpa ou células:\n\nOs produtos obtidos a partir das partes comestíveis de frutos da mesma espécie, sem eliminação do sumo. No caso dos citrinos, «polpa ou células» são as vesículas de sumo do endocarpo."
+  },
+  "3749c07a88c24a19": {
+   "fragment_id": "DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS DEFINIDOS NO ANEXO I",
+   "type": "divisao",
+   "heading": "DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS DEFINIDOS NO ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS DEFINIDOS NO ANEXO I\n\na) «Vruchtendrank»: néctares de frutos;\n\nb) «Süßmost»:\n\n— néctares de frutos obtidos exclusivamente a partir de sumos de frutos, de sumos de frutos concentrados ou de misturas destes produtos, de paladar pouco agradável no estado natural devido à sua elevada acidez,\n\n— sumos de frutos obtidos a partir de maçãs ou de peras, eventualmente com a adição de maçãs, mas sem adição de açúcares;\n\nc) «Succo e polpa» ou «sumo e polpa»: néctares de frutos obtidos exclusivamente a partir de polmes de frutos e/ou polmes de frutos concentrados;\n\nd) «Æblemost»: sumo de maçã sem adição de açúcares;\n\n— «sur … saft», completada pelo nome (em dinamarquês) do fruto utilizado: sumos sem adição de açúcares obtidos a partir de groselhas negras, cerejas, groselhas vermelhas, groselhas brancas, framboesas, morangos ou bagas de sabugueiro,\n\n— «sød … saft» ou «sødet … saft», completada pelo nome (em dinamarquês) do fruto utilizado: sumos obtidos a partir desse fruto, com adição de mais de 200 g de açúcares por litro;\n\nf) «Äppelmust/äpplemust»: sumo de maçã sem adição de açúcares;\n\ng) «Mosto»: sinónimo de sumo de uva;\n\nh) «Smiltsērkšķu sula ar cukuru» ou «astelpaju mahl suhkruga» ou «słodzony sok z rokitnika»: sumos obtidos a partir de bagas «seabuckthorn», com adição de, no máximo, 140 g de açúcares por litro."
+  },
+  "723dea4dad29682e": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV\n\n| Néctares de frutos obtidos a partir de | Teor mínimo de sumo e/ou de polme, expresso em percentagem volúmica do produto acabado |\n| --- | --- |\n| I. **Frutos de sumo ácido de paladar pouco agradável no estado natural** |  |\n| Maracujás | 25 |\n| Solanos de Quito (*Solanum quitoense*) | 25 |\n| Groselhas negras | 25 |\n| Groselhas brancas | 25 |\n| Groselhas vermelhas | 25 |\n| Groselhas verdes (espinhosas) | 30 |\n| Bagas «*seabuckthorn*» | 25 |\n| Abrunhos | 30 |\n| Ameixas | 30 |\n| Ameixas *quetsche* | 30 |\n| Sorvas | 30 |\n| Frutos da roseira brava | 40 |\n| Cerejas ácidas (ginjas) | 35 |\n| Outras cerejas | 40 |\n| Mirtilos | 40 |\n| Bagas de sabugueiro | 50 |\n| Framboesas | 40 |\n| Damascos | 40 |\n| Morangos | 40 |\n| Amoras | 40 |\n| Airelas vermelhas | 30 |\n| Marmelos | 50 |\n| Limões e limas | 25 |\n| Outros frutos pertencentes a esta categoria | 25 |\n| II. **Frutos de fraca acidez, com muita polpa ou muito aromáticos, de sumo de paladar pouco agradável no estado natural** |  |\n| Mangas | 25 |\n| Bananas | 25 |\n| Goiabas | 25 |\n| Papaias | 25 |\n| Lichias | 25 |\n| Azarolas | 25 |\n| Anonas (*Annona niuricata*) | 25 |\n| Cachimãs (*Annona reticulata*) | 25 |\n| Cherimólias Romãs | 25 |\n| Romãs | 25 |\n| Anacardos ou castanhas de caju | 25 |\n| Cajás-vermelhos (*Spondia purpurea*) | 25 |\n| Imbus (*Spondia tuberosa aroda*) | 25 |\n| Outros frutos pertencentes a esta categoria | 25 |\n| III. **Frutos de sumo de paladar agradável no estado natural** |  |\n| Maçãs | 50 |\n| Peras | 50 |\n| Pêssegos | 50 |\n| Citrinos, exceto limões e limas | 50 |\n| Ananases | 50 |\n| Tomates | 50 |\n| Outros frutos pertencentes a esta categoria | 50 |"
+  },
+  "239aac2d10c63e21": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V\n\n| Nome comum do fruto | Designação botânica | Graduação Brix mínima |\n| --- | --- | --- |\n| Maçã (*) | *Malus domestica* Borkh. | 11,2 |\n| Damasco (**) | *Prunus armeniaca* L. | 11,2 |\n| Banana (**) | *Musa x paradisiacal* L. (excluindo os plátanos) | 21,0 |\n| Groselha negra (*) | *Ribes nigrum* L. | 11,0 |\n| Uva (*) | *Vitis vinifera* L. ou híbridos desta espécie *Vitis labrusca* L. ou híbridos desta espécie | 15,9 |\n| Toranja (*) | *Citrus x paradisi* Macfad. | 10,0 |\n| Goiaba (**) | *Psidium guajava* L. | 8,5 |\n| Limão (*) | *Citrus limon* (L.) Burm.f. | 8,0 |\n| Manga (**) | *Mangifera indica* L. | 13,5 |\n| Laranja (*) | *Citrus sinensis* (L.) Osbeck | 11,2 |\n| Maracujá (*) | *Passiflora edulis* Sims | 12,0 |\n| Pêssego (**) | *Prunus persica* (L.) Batsch var. persica | 10,0 |\n| Pera (**) | *Pyrus communis* L. | 11,9 |\n| Ananás (*) | *Ananas comosus* (L.) Merr. | 12,8 |\n| Framboesa (*) | *Rubus idaeus* L. | 7,0 |\n| Ginja (*) | *Prunus cerasus* L. | 13,5 |\n| Morango (*) | *Fragaria x ananassa* Duch. | 7,0 |\n| Tomate (*) | *Lycopersicon esculentum*, Mill. | 5,0 |\n| Tangerina (*) | *Citrus reticulata* Blanco | 11,2 |\n| No caso dos produtos assinalados com um asterisco (*), que são convertidos em sumo, determina-se a densidade relativa mínima do sumo a 20 °C em relação a água a 20 °C. No caso dos produtos assinalados com dois asteriscos (**), que são convertidos em polme, determina-se apenas uma leitura Brix mínima não corrigida (não corrigida em função da acidez). |  |  |\n\n---"
+  },
+  "8326eb1db51d6ed1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#src.E0001)) JO C 231 de 9.8.1996, p. 14.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#src.E0002)) JO C 279 de 1.10.1999, p. 92.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#src.E0003)) JO C 56 de 24.2.1997, p. 20.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#src.E0004)) JO L 33 de 8.2.1979, p. 1. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#src.E0005)) JO L 311 de 1.12.1975, p. 40.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#src.E0006)) JO L 109 de 6.5.2000, p. 29.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#src.E0007)) JO L 276 de 6.10.1990, p. 40.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#src.E0008)) JO L 184 de 7.7.1999, p. 23.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#src.E0009)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#src.E0010)) JO L 354 de 31.12.2008, p. 16.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#src.E0011)) JO L 40 de 11.2.1989, p. 27. Directiva com a última redacção que lhe foi dada pela Directiva 94/34/CE (JO L 237 de 10.9.1994, p. 1).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#src.E0013)) JO L 330 de 5.12.1998, p. 32.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#src.E0014)) JO L 404 de 30.12.2006, p. 9.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#src.E0015)) JO L 404 de 30.12.2006, p. 26.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#src.E0016)) JO L 354 de 31.12.2008, p. 7.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#src.E0017)) JO L 338 de 13.11.2004, p. 4.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#src.E0018)) JO L 354 de 31.12.2008, p. 34.\n\n> ([^18^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#src.E0019)) JO L 10 de 12.1.2002, p. 53.\n\n> ([^19^](http://publications.europa.eu/resource/cellar/16771205-a283-4695-9b67-335111ec03eb.0018.03/DOC_1#src.E0020)) JO L 10 de 12.1.2002, p. 47."
+  },
+  "13a85850fa25e67b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 2001\n\nrelativa aos sumos de frutos e a determinados produtos similares destinados à alimentação humana"
+  },
+  "f854cc765053f055": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva aplica-se aos produtos definidos no anexo I.\n\nSalvo disposição em contrário da presente diretiva, os produtos definidos no anexo I estão sujeitos às disposições do direito da União aplicáveis aos alimentos, nomeadamente o Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios ([^9^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#E0009))."
+  },
+  "a03eae420fc59dc0": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA Directiva 2000/13/CE é aplicável aos produtos definidos no anexo I da presente directiva, nas condições seguintes:\n\n1.\n\na) As denominações constantes do anexo I são reservadas aos produtos aí referidos e devem, sem prejuízo do disposto na alínea b), ser utilizadas no comércio para designar esses produtos;\n\nb) Em alternativa às denominações de produtos referidas na alínea a), o anexo III contém uma lista das denominações específicas que podem ser utilizadas na língua e nas condições nele definidas.\n\n2. Quando um produto for fabricado a partir de uma única espécie de frutos, a palavra «frutos» deve ser substituída pela palavra «fruto».\n\n3. No caso dos produtos fabricados a partir de duas ou mais espécies de frutos, com exceção da utilização de sumo de limão e/ou de sumo de lima nas condições previstas no anexo I, parte II, ponto 2, a denominação do produto deve ser constituída pela indicação dos frutos utilizados, por ordem decrescente do volume dos sumos ou polmes de frutos incorporados, tal como indicado na lista de ingredientes. Contudo, no caso dos produtos fabricados a partir de três ou mais espécies de frutos, a indicação dos frutos utilizados pode ser substituída pela expressão «vários frutos», por uma expressão similar ou pelo número de frutos utilizado.\n\n5. O regresso à composição original dos produtos definidos na parte I do anexo I, utilizando apenas as substâncias estritamente necessárias a esta operação, não implica a obrigatoriedade de incluir na rotulagem a lista dos ingredientes utilizados para esse fim.\n\n6. Sem prejuízo do disposto nos n.^os^ 2 e 5 do artigo 7.º da Directiva 2000/13/CE, no caso das misturas de sumos de frutos e de sumos de frutos fabricados a partir de um produto concentrado e dos néctares de frutos fabricados total ou parcialmente a partir de um ou mais produtos concentrados, deve constar da rotulagem a indicação [**►M3**](http://publications.europa.eu/resource/celex/32009L0106) «proveniente de concentrado(s)»**◄** ou [**►M3**](http://publications.europa.eu/resource/celex/32009L0106) «parcialmente proveniente de concentrado(s)»**◄**, consoante o caso. Esta indicação deve figurar na proximidade imediata da denominação de venda, em caracteres claramente visíveis e destacada dos restantes elementos da rotulagem.\n\n7. No caso dos néctares de frutos, o teor mínimo de sumo de frutos, de polme de frutos, ou de uma mistura destes ingredientes deve constar da rotulagem através da indicação «teor de frutos: no mínimo … %». Esta indicação deve figurar no mesmo campo visual que a denominação de venda."
+  },
+  "80505080d34bbc99": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA rotulagem do sumo de frutos concentrado a que se refere o anexo I, parte I, ponto 2, não destinado ao consumidor final, deve mencionar a presença e a quantidade adicionada de sumo de limão ou de lima ou de agentes acidificantes permitidos pelo Regulamento (CE) n.º 1333/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo aos aditivos alimentares ([^10^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#E0010)). Esta menção deve figurar num dos seguintes locais:\n\n— na embalagem,\n\n— num rótulo aplicado à embalagem, ou\n\n— num documento de acompanhamento."
+  },
+  "32e94f19920d1242": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSem prejuízo do disposto na Directiva 89/107/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-Membros respeitantes aos aditivos que podem ser utilizados nos géneros destinados à alimentação humana ([^11^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#E0011)), só poderão ser utilizados no fabrico dos produtos definidos na parte I do anexo I os tratamentos e substâncias previstos na parte II do anexo I e as matérias-primas que obedeçam ao disposto no anexo II. Além disso, os néctares de frutos deverão obedecer ao disposto no anexo IV."
+  },
+  "650345974c53b073": {
+   "fragment_id": "I. DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "I. DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### I. DEFINIÇÕES\n\n1. a) ****Sumo de frutos**** Designa o produto fermentescível, mas não fermentado, obtido a partir da parte comestível de uma ou mais espécies de frutos sãos e maduros, frescos ou conservados por refrigeração ou congelação, com a cor, o aroma e o gosto característicos dos sumos dos frutos de que provém. Podem ser restituídos ao sumo o aroma, a polpa e as células obtidos por processos físicos adequados a partir da mesma espécie de fruto. Os sumos de citrinos devem ser fabricados a partir do endocarpo dos frutos. Contudo, o sumo de lima pode ser fabricado a partir do fruto inteiro. Se os sumos forem obtidos a partir de frutos com sementes e pele, as partes ou componentes de sementes ou pele não podem ser incorporadas no sumo. Esta disposição não se aplica a casos em que as partes ou componentes de sementes ou pele não possam ser removidas pelas boas práticas de fabrico. É autorizada a mistura de sumo de frutos com polme de frutos no fabrico de sumo de frutos. b) ****Sumo de frutos fabricado a partir de um produto concentrado**** Designa o produto obtido por reconstituição de sumo de frutos concentrado, definido no ponto 2, com água potável que preencha os requisitos previstos na Diretiva 98/83/CE do Conselho, de 3 de novembro de 1998, relativa à qualidade da água destinada ao consumo humano ([^12^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#E0013)). O teor de sólidos solúveis do produto acabado não deve ser inferior à graduação Brix mínima para sumo reconstituído fixada no anexo V. Se um sumo fabricado a partir de um produto concentrado for obtido a partir de um fruto não constante do anexo V, a graduação Brix do sumo reconstituído não pode ser inferior à graduação Brix do sumo extraído do fruto utilizado para produzir o concentrado. Podem ser restituídos ao sumo de frutos fabricado a partir de um produto concentrado o aroma, a polpa e as células obtidos por processos físicos adequados a partir da mesma espécie de fruto. O sumo fabricado a partir de um produto concentrado deve ser preparado por processos adequados, que conservem os valores médios das características físicas, químicas, organoléticas e nutricionais essenciais dos sumos obtidos a partir dos frutos de que provém. É autorizada a mistura de sumo de frutos e/ou sumo de frutos concentrado com polme de frutos e/ou polme de frutos concentrado na produção de sumos de frutos fabricados a partir de produtos concentrados.\n\n2. **Sumo de frutos concentrado** Designa o produto obtido a partir de sumo de uma ou mais espécies de frutos por eliminação física de uma parte determinada do teor de água. Caso o produto se destine a consumo direto, a água eliminada deve representar pelo menos 50 % do teor de água. Podem ser restituídos ao sumo de frutos concentrado o aroma, a polpa e as células obtidos por processos físicos adequados a partir da mesma espécie de fruto.\n\n3. **Sumo de frutos extraído com água** Designa o produto obtido por difusão com água de: — frutos com muita polpa inteiros cujo sumo não pode ser extraído por processos físicos, ou — frutos inteiros desidratados.\n\n4. **Sumo de frutos desidratado/em pó** Designa o produto obtido a partir de sumo de uma ou mais espécies de frutos por eliminação física de praticamente toda a água.\n\n5. **Néctar de frutos** O produto fermentescível, mas não fermentado: — que é obtido por adição de água, com ou sem adição de açúcares e/ou de mel, aos produtos definidos nos pontos 1 a 4, a polmes de frutos e/ou a polmes de frutos concentrados e/ou a uma mistura destes produtos, e — que preencha os requisitos do anexo IV. Sem prejuízo do Regulamento (CE) n.º 1924/2006 do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006, relativo às alegações nutricionais e de saúde sobre os alimentos ([^13^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#E0014)), no fabrico de néctares de frutos sem adição de açúcares ou de baixo valor energético, os açúcares podem ser total ou parcialmente substituídos por edulcorantes, nos termos do Regulamento (CE) n.º 1333/2008. Podem ser restituídos ao néctar de frutos o aroma, a polpa e as células obtidos por processos físicos adequados a partir da mesma espécie de fruto."
+  },
+  "50eb4d6b0cad8560": {
+   "fragment_id": "II. INGREDIENTES, TRATAMENTOS E SUBSTÂNCIAS AUTORIZADOS",
+   "type": "divisao",
+   "heading": "II. INGREDIENTES, TRATAMENTOS E SUBSTÂNCIAS AUTORIZADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### II. INGREDIENTES, TRATAMENTOS E SUBSTÂNCIAS AUTORIZADOS\n\nA espécie de fruto correspondente à designação botânica indicada no anexo V deve ser utilizada na preparação de sumos de frutos, polmes de frutos e néctares de frutos identificados pela denominação do produto para o fruto em causa ou pelo nome comum do produto. Se a espécie de fruto não constar do anexo V, deve utilizar-se a designação botânica ou o nome comum corretos.\n\nA graduação Brix de um sumo de frutos deve ser a do sumo tal como é extraído do fruto e não pode ser modificada, exceto por mistura com sumo da mesma espécie de fruto.\n\nAs graduações Brix mínimas estabelecidas no anexo V para o sumo de frutos reconstituído e o polme de frutos reconstituído não contabilizam os sólidos solúveis provenientes dos aditivos ou ingredientes facultativos que sejam incorporados no produto.\n\nSó podem ser adicionados aos produtos referidos na parte I os seguintes ingredientes:\n\n— vitaminas e minerais autorizados no Regulamento (CE) n.º 1925/2006 do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006, relativo à adição de vitaminas, minerais e determinadas outras substâncias aos alimentos ([^14^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#E0015)),\n\n— aditivos alimentares autorizados nos termos do Regulamento (CE) n.º 1333/2008,\n\ne, além disso:\n\n— no caso dos sumos de frutos, dos sumos de frutos fabricados a partir de produtos concentrados e dos sumos de frutos concentrados: aromas, polpa e células restituídos,\n\n— no caso dos sumos de uva: sais de ácido tartárico restituídos,\n\n— no caso dos néctares de fruto: aromas, polpa e células restituídos; açúcares e/ou mel em quantidades que não representem mais de 20 %, em massa, do produto acabado; e/ou edulcorantes.\n\n— no caso dos produtos referidos no anexo III, alínea a), alínea b), primeiro travessão, alínea c), alínea e), segundo travessão, e alínea h): açúcares e/ou mel,\n\n— no caso dos produtos definidos na parte I, pontos 1 a 5, para correção do gosto ácido: sumo de limão e/ou de lima e/ou de sumo concentrado de limão e/ou de lima em quantidade não superior a 3 g por litro de sumo, expressa em ácido cítrico anidro,\n\n— no caso de sumo de tomate e sumo de tomate fabricado a partir de concentrado: sal, especiarias e ervas aromáticas.\n\nAos produtos referidos na parte I só podem ser aplicados os seguintes tratamentos ou adicionadas as seguintes substâncias:\n\n— processos de extração mecânicos,\n\n— processos físicos usuais, incluindo extração com água (processo *in-line* por difusão) da parte comestível dos frutos, com exceção das uvas, para o fabrico de sumos de frutos concentrados, desde que os sumos de frutos assim obtidos obedeçam ao disposto na parte I, ponto 1,\n\n— no caso dos sumos de uva, se as uvas tiverem sido sulfitadas com dióxido de enxofre, é autorizada a dessulfitação por processos físicos, desde que a quantidade total de SO2 presente no produto acabado não exceda 10 mg/l,\n\n— preparações enzimáticas: pectinases (degradação da pectina), proteinases (degradação das proteínas) e amílases (degradação do amido) que cumpram os requisitos do Regulamento (CE) n.º 1332/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo às enzimas alimentares ([^15^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#E0016)),\n\n— gelatina alimentar,\n\n— taninos,\n\n— dílica-sol,\n\n— carvão,\n\n— azoto,\n\n— bentonite como argila adsorvente,\n\n— adjuvantes de filtração e agentes de precipitação quimicamente inertes (incluindo perlite, diatomite lavada, celulose, poliamida insolúvel, polivinilpolipirrolidona, poliestireno) que cumpram os requisitos do Regulamento (CE) n.º 1935/2004 do Parlamento Europeu e do Conselho, de 27 de outubro de 2004, relativo aos materiais e objetos destinados a entrar em contacto com os alimentos ([^16^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#E0017)),\n\n— adjuvantes de adsorção quimicamente inertes que cumpram os requisitos do Regulamento (CE) n.º 1935/2004 e sejam utilizados para reduzir o teor de limonóides e de naringina dos sumos de citrinos sem afetarem significativamente os teores de glucósidos limonóides, de ácidos, de açúcares (incluindo os oligossacáridos) ou de minerais,\n\n— proteínas vegetais provenientes do trigo, de ervilhas ou de batatas, para clarificação."
+  },
+  "4bfe87fa2a9727f3": {
+   "fragment_id": "1. Fruto:",
+   "type": "divisao",
+   "heading": "1. Fruto:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. Fruto:\n\nTodos os frutos. Para efeitos do disposto na presente diretiva, o tomate também é considerado fruto.\n\nOs frutos devem estar sãos, convenientemente maduros, e frescos ou conservados por processos físicos ou por tratamentos, incluindo tratamentos pós-colheita aplicados nos termos do direito da União."
+  },
+  "0b6cd4c426b85d95": {
+   "fragment_id": "2. Polme de frutos:",
+   "type": "divisao",
+   "heading": "2. Polme de frutos:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. Polme de frutos:\n\nO produto fermentescível, mas não fermentado, obtido por processos físicos adequados, tais como peneiração, trituração ou moenda da parte comestível de frutos inteiros ou descascados, sem eliminação do sumo."
+  },
+  "2c56c7397fc29691": {
+   "fragment_id": "3. Polme de frutos concentrado:",
+   "type": "divisao",
+   "heading": "3. Polme de frutos concentrado:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3. Polme de frutos concentrado:\n\nO produto obtido a partir de polme de frutos por eliminação física de uma parte determinada da água de constituição.\n\nAos polmes de frutos concentrados podem ser restituídos aromas obtidos por processos físicos adequados, tal como definidos no anexo I, parte II, ponto 3, recuperados da mesma espécie de fruto."
+  },
+  "e9d61ffb9959ddac": {
+   "fragment_id": "4. Aroma:",
+   "type": "divisao",
+   "heading": "4. Aroma:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 4. Aroma:\n\nSem prejuízo do Regulamento (CE) n.º 1334/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo aos aromas e a determinados ingredientes alimentares com propriedades aromatizantes utilizados nos e sobre os géneros alimentícios ([^17^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#E0018)), os aromas a restituir devem ser obtidos por aplicação de processos físicos adequados durante a transformação do fruto. Esses processos físicos são utilizados para fixar, conservar ou estabilizar a qualidade do aroma e incluem, nomeadamente, a espremedura, a extração, a destilação, a filtração, a adsorção, a evaporação, o fracionamento e a concentração.\n\nO aroma deve provir das partes comestíveis do fruto. Admitem-se, no entanto, o óleo obtido por pressão a frio de cascas de citrinos e compostos obtidos das sementes."
+  },
+  "fb2297a2cc4479bc": {
+   "fragment_id": "5. Açúcares:",
+   "type": "divisao",
+   "heading": "5. Açúcares:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 5. Açúcares:\n\n— os açúcares definidos na Diretiva 2001/111/CE do Conselho, de 20 de dezembro de 2001, relativa a determinados açúcares destinados à alimentação humana ([^18^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#E0019)),\n\n— o xarope de frutose,\n\n— os açúcares derivados de frutos."
+  },
+  "00b86e282792acbb": {
+   "fragment_id": "6. Mel:",
+   "type": "divisao",
+   "heading": "6. Mel:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 6. Mel:\n\nO produto definido na Diretiva 2001/110/CE do Conselho, de 20 de dezembro de 2001, relativa ao mel ([^19^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#E0020))."
+  },
+  "c2227841309cd58a": {
+   "fragment_id": "7. Polpa ou células:",
+   "type": "divisao",
+   "heading": "7. Polpa ou células:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 7. Polpa ou células:\n\nOs produtos obtidos a partir das partes comestíveis de frutos da mesma espécie, sem eliminação do sumo. No caso dos citrinos, «polpa ou células» são as vesículas de sumo do endocarpo."
+  },
+  "68a74ebdbe8ae916": {
+   "fragment_id": "DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS DEFINIDOS NO ANEXO I",
+   "type": "divisao",
+   "heading": "DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS DEFINIDOS NO ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS DEFINIDOS NO ANEXO I\n\na) «Vruchtendrank»: néctares de frutos;\n\nb) «Süßmost»:\n\n— néctares de frutos obtidos exclusivamente a partir de sumos de frutos, de sumos de frutos concentrados ou de misturas destes produtos, de paladar pouco agradável no estado natural devido à sua elevada acidez,\n\n— sumos de frutos obtidos a partir de maçãs ou de peras, eventualmente com a adição de maçãs, mas sem adição de açúcares;\n\nc) «Succo e polpa» ou «sumo e polpa»: néctares de frutos obtidos exclusivamente a partir de polmes de frutos e/ou polmes de frutos concentrados;\n\nd) «Æblemost»: sumo de maçã sem adição de açúcares;\n\ne)\n\n— «sur … saft», completada pelo nome (em dinamarquês) do fruto utilizado: sumos sem adição de açúcares obtidos a partir de groselhas negras, cerejas, groselhas vermelhas, groselhas brancas, framboesas, morangos ou bagas de sabugueiro,\n\n— «sød … saft» ou «sødet … saft», completada pelo nome (em dinamarquês) do fruto utilizado: sumos obtidos a partir desse fruto, com adição de mais de 200 g de açúcares por litro;\n\nf) «Äppelmust/äpplemust»: sumo de maçã sem adição de açúcares;\n\ng) «Mosto»: sinónimo de sumo de uva;\n\nh) «Smiltsērkšķu sula ar cukuru» ou «astelpaju mahl suhkruga» ou «słodzony sok z rokitnika»: sumos obtidos a partir de bagas «seabuckthorn», com adição de, no máximo, 140 g de açúcares por litro."
+  },
+  "a6f45baa8fa9ed08": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#src.E0001)) JO C 231 de 9.8.1996, p. 14.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#src.E0002)) JO C 279 de 1.10.1999, p. 92.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#src.E0003)) JO C 56 de 24.2.1997, p. 20.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#src.E0004)) JO L 33 de 8.2.1979, p. 1. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#src.E0005)) JO L 311 de 1.12.1975, p. 40.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#src.E0006)) JO L 109 de 6.5.2000, p. 29.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#src.E0007)) JO L 276 de 6.10.1990, p. 40.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#src.E0008)) JO L 184 de 7.7.1999, p. 23.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#src.E0009)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#src.E0010)) JO L 354 de 31.12.2008, p. 16.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#src.E0011)) JO L 40 de 11.2.1989, p. 27. Directiva com a última redacção que lhe foi dada pela Directiva 94/34/CE (JO L 237 de 10.9.1994, p. 1).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#src.E0013)) JO L 330 de 5.12.1998, p. 32.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#src.E0014)) JO L 404 de 30.12.2006, p. 9.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#src.E0015)) JO L 404 de 30.12.2006, p. 26.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#src.E0016)) JO L 354 de 31.12.2008, p. 7.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#src.E0017)) JO L 338 de 13.11.2004, p. 4.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#src.E0018)) JO L 354 de 31.12.2008, p. 34.\n\n> ([^18^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#src.E0019)) JO L 10 de 12.1.2002, p. 53.\n\n> ([^19^](http://publications.europa.eu/resource/cellar/53d8dabc-bd85-4b9a-91c5-811e7c3ae247.0014.02/DOC_1#src.E0020)) JO L 10 de 12.1.2002, p. 47."
+  },
+  "d00152126874a52a": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva aplica-se aos produtos definidos no anexo I.\n\nSalvo disposição em contrário da presente diretiva, os produtos definidos no anexo I estão sujeitos às disposições do direito da União aplicáveis aos alimentos, nomeadamente o Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios ([^1^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#E0001))."
+  },
+  "04344d8024cb9a87": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO Regulamento (UE) n.º 1169/2011 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#E0002)) é aplicável aos produtos definidos no anexo I da presente diretiva, sob as seguintes condições:\n\n1.\n\na) As denominações constantes do anexo I são reservadas aos produtos aí referidos e devem, sem prejuízo do disposto na alínea b), ser utilizadas no comércio para designar esses produtos;\n\nb) Em alternativa às denominações referidas na alínea a), o anexo III contém uma lista das denominações específicas. Quando um operador utiliza as denominações enumeradas na parte I do anexo III, as mesmas são utilizadas na língua e nas condições nele definidas. No que diz respeito às denominações constantes da parte II do anexo III, o Estado-Membro em que o produto é colocado no mercado pode impor que essas designações sejam utilizadas numa ou mais línguas oficiais da União.\n\n2. Quando um produto for fabricado a partir de uma única espécie de frutos, a palavra «frutos» deve ser substituída pela palavra «fruto».\n\n3. No caso dos produtos fabricados a partir de duas ou mais espécies de frutos, com exceção da utilização de sumo de limão e/ou de sumo de lima nas condições previstas no anexo I, parte II, ponto 2, a denominação do produto deve ser constituída pela indicação dos frutos utilizados, por ordem decrescente do volume dos sumos ou polmes de frutos incorporados, tal como indicado na lista de ingredientes. Contudo, no caso dos produtos fabricados a partir de três ou mais espécies de frutos, a indicação dos frutos utilizados pode ser substituída pela expressão «vários frutos», por uma expressão similar ou pelo número de frutos utilizado.\n\n4. A menção «os sumos de frutos contêm apenas açúcares naturalmente presentes» pode figurar no rótulo no mesmo campo visual que a denominação dos produtos referidos na parte I, ponto 1, do anexo I.\n\n5. O regresso à composição original dos produtos definidos na parte I do anexo I, utilizando apenas as substâncias estritamente necessárias a esta operação, não implica a obrigatoriedade de incluir na rotulagem a lista dos ingredientes utilizados para esse fim.\n\n6. Sem prejuízo do disposto no artigo 22.º do Regulamento (UE) n.º 1169/2011 no caso das misturas dos sumos de frutos fabricados a partir de um produto concentrado ou dos sumos de frutos com teor de açúcares reduzido fabricados a partir de um produto concentrado com sumos de frutos ou com sumos de frutos com teor de açúcares reduzido, bem como dos néctares de frutos fabricados total ou parcialmente a partir de um ou mais produtos concentrados, deve constar da rotulagem a indicação «proveniente de concentrado(s)» ou «parcialmente proveniente de concentrado(s)», consoante o caso. Esta indicação deve figurar na proximidade imediata da denominação do produto, em carateres claramente visíveis e destacada dos restantes elementos da rotulagem.\n\n7. No caso dos néctares de frutos, o teor mínimo de sumo de frutos, de polme de frutos, ou de uma mistura destes ingredientes deve constar da rotulagem através da indicação «teor de frutos: no mínimo … %». Esta indicação deve figurar no mesmo campo visual que a denominação de venda."
+  },
+  "262745403412d794": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA rotulagem do sumo de frutos concentrado a que se refere o anexo I, parte I, ponto 2, não destinado ao consumidor final, deve mencionar a presença e a quantidade adicionada de sumo de limão ou de lima ou de agentes acidificantes permitidos pelo Regulamento (CE) n.º 1333/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo aos aditivos alimentares ([^3^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#E0003)). Esta menção deve figurar num dos seguintes locais:\n\n— na embalagem,\n\n— num rótulo aplicado à embalagem, ou\n\n— num documento de acompanhamento."
+  },
+  "acfb7eb81e371fe2": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSó poderão ser utilizados no fabrico dos produtos definidos na parte I do anexo I os tratamentos e substâncias previstos na parte II do anexo I e as matérias-primas que obedeçam ao disposto no anexo II. Além disso, os néctares de frutos deverão obedecer ao disposto no anexo IV."
+  },
+  "9337080f80f7d565": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n[**►M6**](http://publications.europa.eu/resource/celex/32024L1438) 1.**◄** A fim de harmonizar os anexos da presente diretiva com a evolução das normas internacionais aplicáveis e ter em conta o progresso técnico, a Comissão fica habilitada a adotar atos delegados, nos termos do artigo 7.º-A, para alterar os anexos da presente diretiva, exceto o anexo I, parte I, e o anexo II.\n\n2. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 7.º-A a fim de completar a presente diretiva, estabelecendo regras relativas às características físicas, químicas, organoléticas e nutricionais dos produtos enumerados na parte I, ponto 6, alíneas a) e b), e ponto 7, do anexo I e à utilização dos processos autorizados para reduzir os açúcares a que se refere a parte II, ponto 3, desse anexo.\n\n3. A Comissão pode adotar atos de execução que estabeleçam os métodos de análise, tendo em conta as normas internacionais e o progresso técnico, para verificar se os produtos enumerados na parte I, ponto 1, alíneas a) e b), ponto 2, ponto 6, alíneas a) e b), e ponto 7, do anexo I estão em conformidade com a presente diretiva.\n\nOs referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 7.º-B, n.º 2.\n\nAté à aprovação dos atos de execução pertinentes, os Estados-Membros devem, sempre que possível, utilizar métodos de análise validados e internacionalmente reconhecidos, como os aprovados pelo *Codex Alimentarius*, para verificar o cumprimento do disposto na presente diretiva."
+  },
+  "2e8be086688eb8c9": {
+   "fragment_id": "Artigo 7.º-A",
+   "type": "artigo",
+   "heading": "Artigo 7.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º-A\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 7.º, n.º 1, é conferido à Comissão por um prazo de cinco anos a contar de 28 de outubro de 2013. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\nO poder de adotar atos delegados referido no artigo 7.º, n.º 2, é conferido à Comissão por um prazo de cinco anos a contar de 13 de junho de 2024. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no [**►M6**](http://publications.europa.eu/resource/celex/32024L1438) artigo 7.º, n.^os^ 1 e 2**◄** pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho.\n\nA decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou numa data posterior nela especificada. A decisão de revogação não afeta a validade dos atos delegados já em vigor.\n\n4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n5. Os atos delegados adotados nos termos do [**►M6**](http://publications.europa.eu/resource/celex/32024L1438) artigo 7.º, n.^os^ 1 e 2**◄** só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação desse ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "48a9b1c0b0aa88b6": {
+   "fragment_id": "Artigo 7.º-B",
+   "type": "artigo",
+   "heading": "Artigo 7.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º-B\n\n1. A Comissão é assistida pelo Comité Permanente dos Vegetais, Animais e Alimentos para Consumo Humano e Animal criado pelo artigo 58.º, n.º 1, do Regulamento (CE) n.º 178/2002 a respeito do artigo 7.º, n.º 3, da presente diretiva. Este comité é um comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#E0004)).\n\n2. Caso se remeta para o presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.\n\nNa falta de parecer do comité, a Comissão não adota o projeto de ato de execução, aplicando-se o artigo 5.º, n.º 4, terceiro parágrafo, do Regulamento (UE) n.º 182/2011."
+  },
+  "ff4a39fa02313aea": {
+   "fragment_id": "Artigo 7.º-C",
+   "type": "artigo",
+   "heading": "Artigo 7.º-C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º-C\n\nO mais tardar 14 de junho de 2027, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório com uma avaliação da viabilidade das diferentes possibilidades de rotulagem indicando o país ou países de origem onde o fruto ou frutos utilizados no fabrico de sumo de frutos ou de polme de frutos foram colhidos. Esse relatório deve ser acompanhado, se for caso disso, de uma proposta legislativa."
+  },
+  "fdbe5270d068f195": {
+   "fragment_id": "I. DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "I. DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### I. DEFINIÇÕES\n\n1. a) ****Sumo de frutos**** Designa o produto fermentescível, mas não fermentado, obtido a partir da parte comestível de uma ou mais espécies de frutos sãos e maduros, frescos ou conservados por refrigeração ou congelação, com a cor, o aroma e o gosto característicos dos sumos dos frutos de que provém. Podem ser restituídos ao sumo o aroma, a polpa e as células obtidos por processos físicos adequados a partir da mesma espécie de fruto. Os sumos de citrinos devem ser fabricados a partir do endocarpo dos frutos. Contudo, o sumo de lima pode ser fabricado a partir do fruto inteiro. Se os sumos forem obtidos a partir de frutos com sementes e pele, as partes ou componentes de sementes ou pele não podem ser incorporadas no sumo. Esta disposição não se aplica a casos em que as partes ou componentes de sementes ou pele não possam ser removidas pelas boas práticas de fabrico. É autorizada a mistura de sumo de frutos com polme de frutos no fabrico de sumo de frutos. b) ****Sumo de frutos fabricado a partir de um produto concentrado**** [▼M6](http://publications.europa.eu/resource/celex/32024L1438) Designa o produto obtido por reconstituição de sumo de frutos concentrado, como definido no ponto 2, com água potável que preencha os requisitos previstos na Diretiva (UE) 2020/2184 do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#E0006)). [▼M4](http://publications.europa.eu/resource/celex/32012L0012) O teor de sólidos solúveis do produto acabado não deve ser inferior à graduação Brix mínima para sumo reconstituído fixada no anexo V. Se um sumo fabricado a partir de um produto concentrado for obtido a partir de um fruto não constante do anexo V, a graduação Brix do sumo reconstituído não pode ser inferior à graduação Brix do sumo extraído do fruto utilizado para produzir o concentrado. Podem ser restituídos ao sumo de frutos fabricado a partir de um produto concentrado o aroma, a polpa e as células obtidos por processos físicos adequados a partir da mesma espécie de fruto. O sumo fabricado a partir de um produto concentrado deve ser preparado por processos adequados, que conservem os valores médios das características físicas, químicas, organoléticas e nutricionais essenciais dos sumos obtidos a partir dos frutos de que provém. É autorizada a mistura de sumo de frutos e/ou sumo de frutos concentrado com polme de frutos e/ou polme de frutos concentrado na produção de sumos de frutos fabricados a partir de produtos concentrados.\n\n2. **Sumo de frutos concentrado** Designa o produto obtido a partir de sumo de uma ou mais espécies de frutos por eliminação física de uma parte determinada do teor de água. Caso o produto se destine a consumo direto, a água eliminada deve representar pelo menos 50 % do teor de água. Podem ser restituídos ao sumo de frutos concentrado o aroma, a polpa e as células obtidos por processos físicos adequados a partir da mesma espécie de fruto.\n\n3. **Sumo de frutos extraído com água** Designa o produto obtido por difusão com água de: — frutos com muita polpa inteiros cujo sumo não pode ser extraído por processos físicos, ou — frutos inteiros desidratados.\n\n4. **Sumo de frutos desidratado/em pó** Designa o produto obtido a partir de sumo de uma ou mais espécies de frutos por eliminação física de praticamente toda a água.\n\n5. **Néctar de frutos** O produto fermentescível, mas não fermentado: — que é obtido por adição de água, com ou sem adição de açúcares e/ou de mel, aos produtos definidos nos pontos 1 a 4, a polmes de frutos e/ou a polmes de frutos concentrados e/ou a uma mistura destes produtos, e — que preencha os requisitos do anexo IV. Sem prejuízo do Regulamento (CE) n.º 1924/2006 do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006, relativo às alegações nutricionais e de saúde sobre os alimentos ([^6^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#E0007)), no fabrico de néctares de frutos sem adição de açúcares ou de baixo valor energético, os açúcares podem ser total ou parcialmente substituídos por edulcorantes, nos termos do Regulamento (CE) n.º 1333/2008. Podem ser restituídos ao néctar de frutos o aroma, a polpa e as células obtidos por processos físicos adequados a partir da mesma espécie de fruto.\n\n6. a) Sumo de frutos com teor de açúcares reduzido Designa o produto obtido a partir de sumo de frutos como definido no ponto 1, alínea a), se a quantidade de açúcares naturalmente presentes tiver sido reduzida em pelo menos 30 % através de um processo autorizado nas condições estabelecidas na parte II, ponto 3, que conserva os valores médios de todas as outras características físicas, químicas, organoléticas e nutricionais essenciais dos sumos obtidos a partir dos frutos de que provém. O sumo de frutos com teor de açúcares reduzido pode ser obtido por mistura de sumo de frutos com teor de açúcares reduzido com sumo de frutos, polme de frutos ou ambos. b) Sumo de frutos com teor de açúcares reduzido fabricado a partir de um produto concentrado Designa o produto obtido a partir de sumo de frutos fabricado a partir de um produto concentrado como definido no ponto 1, alínea b), se a quantidade de açúcares naturalmente presentes tiver sido reduzida em pelo menos 30 % através de um processo autorizado nas condições estabelecidas na parte II, ponto 3, que conserva os valores médios de todas as outras características físicas, químicas, organoléticas e nutricionais essenciais dos sumos obtidos a partir dos frutos de que provém, ou o produto obtido através da reconstituição de sumo concentrado de frutos com teor de açúcares reduzido, tal como definido no ponto 7, com água potável que preencha os requisitos previstos na Diretiva (UE) 2020/2184. O sumo de frutos com teor de açúcares reduzido fabricado a partir de um produto concentrado pode ser obtido por mistura de sumo de frutos com teor de açúcares reduzido fabricado a partir de um produto concentrado com um ou mais dos seguintes produtos: sumo de frutos, sumo de frutos fabricado a partir de um produto concentrado, sumo de frutos com teor de açúcares reduzido, polme de frutos concentrado e polme de frutos.\n\n7. Sumo de frutos concentrado com teor de açúcares reduzidoDesigna o produto obtido a partir de sumo de frutos concentrado como definido no ponto 2, se a quantidade de açúcares naturalmente presentes tiver sido reduzida em pelo menos 30 % através de um processo autorizado nas condições estabelecidas na parte II, ponto 3, que conserva os valores médios de todas as outras características físicas, químicas, organoléticas e nutricionais essenciais dos produtos, ou o produto obtido a partir de sumo de frutos com teor de açúcares reduzido como definido no ponto 6, alínea a), através da eliminação física de uma proporção específica do seu teor de água. Caso o produto se destine a consumo direto, a água eliminada deve representar pelo menos 50 % do teor de água."
+  },
+  "9a688b120a3cd4c9": {
+   "fragment_id": "II. INGREDIENTES, TRATAMENTOS E SUBSTÂNCIAS AUTORIZADOS",
+   "type": "divisao",
+   "heading": "II. INGREDIENTES, TRATAMENTOS E SUBSTÂNCIAS AUTORIZADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### II. INGREDIENTES, TRATAMENTOS E SUBSTÂNCIAS AUTORIZADOS\n\nA espécie de fruto correspondente à designação botânica indicada no anexo V deve ser utilizada na preparação de sumos de frutos, polmes de frutos e néctares de frutos identificados pela denominação do produto para o fruto em causa ou pelo nome comum do produto. Se a espécie de fruto não constar do anexo V, deve utilizar-se a designação botânica ou o nome comum corretos.\n\nA graduação Brix de um sumo de frutos deve ser a do sumo tal como é extraído do fruto e não pode ser modificada, exceto por mistura com sumo da mesma espécie de fruto.\n\nAs graduações Brix mínimas estabelecidas no anexo V para o sumo de frutos reconstituído e o polme de frutos reconstituído não contabilizam os sólidos solúveis provenientes dos aditivos ou ingredientes facultativos que sejam incorporados no produto.\n\nSó podem ser adicionados aos produtos referidos na parte I os seguintes ingredientes:\n\n— vitaminas e minerais autorizados no Regulamento (CE) n.º 1925/2006 do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006, relativo à adição de vitaminas, minerais e determinadas outras substâncias aos alimentos ([^7^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#E0008)),\n\n— aditivos alimentares autorizados nos termos do Regulamento (CE) n.º 1333/2008; no entanto, não são autorizados edulcorantes no fabrico dos produtos enumerados na parte I do presente anexo, com exceção dos néctares de frutos;\n\ne, além disso:\n\n— no caso dos sumos de frutos, dos sumos de frutos fabricados a partir de um produto concentrado, dos sumos de frutos concentrados, dos sumos de frutos com teor de açúcares reduzido, dos sumos de frutos com teor de açúcares reduzido fabricados a partir de um produto concentrado e dos sumos de frutos concentrados com teor de açúcares reduzido: aromas, polpa e células restituídos,\n\n— no caso dos sumos de uva: sais de ácido tartárico restituídos,\n\n— no caso dos néctares de frutos: aromas, polpa e células restituídos; açúcares e/ou mel em quantidades que não representem mais de 20 %, em massa, dos produtos acabados referidos na parte I do anexo IV, 15 %, em massa, dos produtos acabados referidos na parte II do anexo IV, e 10 %, em massa, dos produtos acabados referidos na parte III do anexo IV; e/ou edulcorantes.\n\n— no caso dos produtos referidos no anexo III, alínea a), alínea b), primeiro travessão, alínea c), alínea e), segundo travessão, e alínea h): açúcares e/ou mel,\n\n— no caso dos produtos definidos na parte I, pontos 1 a 7, para correção do gosto ácido: sumo de limão e/ou de lima e/ou sumo de limão e/ou de lima concentrado em quantidade não superior a 3 g por litro de sumo, expressa em ácido cítrico anidro;\n\n— no caso de sumo de tomate e sumo de tomate fabricado a partir de concentrado: sal, especiarias e ervas aromáticas.\n\n— no caso dos sumos de frutos com teor de açúcares reduzido e de sumo de frutos com teor de açúcares reduzido fabricado a partir de um produto concentrado: água, na medida do estritamente necessário para restituir a água perdida devido ao processo de redução de açúcares.\n\nAos produtos referidos na parte I só podem ser aplicados os seguintes tratamentos ou adicionadas as seguintes substâncias:\n\n— processos de extração mecânicos,\n\n— processos físicos usuais, incluindo extração com água (processo *in-line* por difusão) da parte comestível dos frutos, com exceção das uvas, para o fabrico de sumos de frutos concentrados, desde que os sumos de frutos assim obtidos obedeçam ao disposto na parte I, ponto 1,\n\n— no caso dos sumos de uva, se as uvas tiverem sido sulfitadas com dióxido de enxofre, é autorizada a dessulfitação por processos físicos, desde que a quantidade total de SO2 presente no produto acabado não exceda 10 mg/l,\n\n— preparações enzimáticas: pectinases (degradação da pectina), proteinases (degradação das proteínas) e amílases (degradação do amido) que cumpram os requisitos do Regulamento (CE) n.º 1332/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo às enzimas alimentares ([^8^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#E0009)),\n\n— gelatina alimentar,\n\n— taninos,\n\n— dílica-sol,\n\n— carvão,\n\n— azoto,\n\n— bentonite como argila adsorvente,\n\n— adjuvantes de filtração e agentes de precipitação quimicamente inertes (incluindo perlite, diatomite lavada, celulose, poliamida insolúvel, polivinilpolipirrolidona, poliestireno) que cumpram os requisitos do Regulamento (CE) n.º 1935/2004 do Parlamento Europeu e do Conselho, de 27 de outubro de 2004, relativo aos materiais e objetos destinados a entrar em contacto com os alimentos ([^9^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#E0010)),\n\n— adjuvantes de adsorção quimicamente inertes que cumpram os requisitos do Regulamento (CE) n.º 1935/2004 e sejam utilizados para reduzir o teor de limonóides e de naringina dos sumos de citrinos sem afetarem significativamente os teores de glucósidos limonóides, de ácidos, de açúcares (incluindo os oligossacáridos) ou de minerais,\n\n— proteínas vegetais provenientes do trigo, de ervilhas, de batatas ou de sementes de girassol, para clarificação,\n\n— só no caso dos sumos de frutos com teor de açúcares reduzido, dos sumos de frutos com teor de açúcares reduzido fabricados a partir de um produto concentrado e dos sumos de frutos concentrados com teor de açúcares reduzido: os processos de redução da quantidade de açúcares naturalmente presentes, na medida em que conservem os valores médios de todas as outras características físicas, químicas, organoléticas e nutricionais essenciais dos sumos obtidos a partir dos frutos de que provêm, a saber, filtração por membranas e fermentação por leveduras."
+  },
+  "61dd88a64b0ed04b": {
+   "fragment_id": "4. Aroma:",
+   "type": "divisao",
+   "heading": "4. Aroma:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 4. Aroma:\n\nSem prejuízo do Regulamento (CE) n.º 1334/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo aos aromas e a determinados ingredientes alimentares com propriedades aromatizantes utilizados nos e sobre os géneros alimentícios ([^10^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#E0011)), os aromas a restituir devem ser obtidos por aplicação de processos físicos adequados durante a transformação do fruto. Esses processos físicos são utilizados para fixar, conservar ou estabilizar a qualidade do aroma e incluem, nomeadamente, a espremedura, a extração, a destilação, a filtração, a adsorção, a evaporação, o fracionamento e a concentração.\n\nO aroma deve provir das partes comestíveis do fruto. Admitem-se, no entanto, o óleo obtido por pressão a frio de cascas de citrinos e compostos obtidos das sementes."
+  },
+  "270c19e46310baf0": {
+   "fragment_id": "5. Açúcares:",
+   "type": "divisao",
+   "heading": "5. Açúcares:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 5. Açúcares:\n\n— os açúcares definidos na Diretiva 2001/111/CE do Conselho, de 20 de dezembro de 2001, relativa a determinados açúcares destinados à alimentação humana ([^11^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#E0012)),\n\n— o xarope de frutose,\n\n— os açúcares derivados de frutos."
+  },
+  "15b8c8a4cd514b34": {
+   "fragment_id": "6. Mel:",
+   "type": "divisao",
+   "heading": "6. Mel:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 6. Mel:\n\nO produto definido na Diretiva 2001/110/CE do Conselho, de 20 de dezembro de 2001, relativa ao mel ([^12^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#E0013))."
+  },
+  "abdd82ac303d224f": {
+   "fragment_id": "DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS DEFINIDOS NO ANEXO I",
+   "type": "divisao",
+   "heading": "DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS DEFINIDOS NO ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS DEFINIDOS NO ANEXO I\n\nI. Denominações específicas que só podem ser utilizadas na língua da denominação\n\na) «Vruchtendrank»: néctares de frutos;\n\nb) «Süßmost», só pode ser utilizada juntamente com as denominações de produto «Fruchtsaft» ou «Fruchtnektar» para designar:\n\ni) néctares de frutos obtidos exclusivamente a partir de sumos de frutos, de sumos de frutos concentrados ou de misturas destes produtos, de paladar pouco agradável no estado natural devido à sua elevada acidez,\n\nii) sumos de frutos obtidos a partir de maçãs ou de peras, eventualmente com a adição de maçãs, mas sem adição de açúcares;\n\nc) «Succo e polpa» ou «sumo e polpa»: néctares de frutos obtidos exclusivamente a partir de polmes de frutos e/ou polmes de frutos concentrados;\n\nd)\n\ni)« æblemost», sinónimo de sumo de maçã,\n\nii) «æblemost fra koncentrat», sinónimo de sumo de maçã fabricado a partir de um produto concentrado;\n\ne)\n\ni) «sur … saft», completada pelo nome (em dinamarquês) do fruto utilizado: sumos sem adição de açúcares obtidos a partir de groselhas negras, cerejas, groselhas vermelhas, groselhas brancas, framboesas, morangos ou bagas de sabugueiro,\n\nii) «sød … saft» ou «sødet … saft», completada pelo nome (em dinamarquês) do fruto utilizado: sumos obtidos a partir desse fruto, com adição de mais de 200 g de açúcares por litro;\n\nf) «äppelmust/äpplemust»: sinónimo de sumo de maçã;\n\ng) «mosto»: sinónimo de sumo de uva;\n\nh) «smiltsērkšķu sula ar cukuru» ou «astelpaju mahl suhkruga» ou «słodzony sok z rokitnika»: sumos obtidos a partir de bagas «seabuckthorn», com adição de, no máximo, 140 g de açúcares por litro.\n\nII. Denominações específicas que podem ser utilizadas numa ou mais línguas oficiais da União\n\na) «Água de coco»: o produto que é diretamente extraído do coco sem espremer a polpa do coco, como sinónimo de sumo de coco."
+  },
+  "60dc06675cc2ac56": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV\n\n| Néctares de frutos obtidos a partir de | Teor mínimo de sumo e/ou de polme, expresso em percentagem volúmica do produto acabado |\n| --- | --- |\n| I. **Frutos de sumo ácido de paladar pouco agradável no estado natural** |  |\n| Maracujás | 25 |\n| Solanos de Quito (*Solanum quitoense*) | 25 |\n| Groselhas negras | 25 |\n| Groselhas brancas | 25 |\n| Groselhas vermelhas | 25 |\n| Groselhas verdes (espinhosas) | 30 |\n| Bagas «*seabuckthorn*» | 25 |\n| Abrunhos | 30 |\n| Ameixas | 30 |\n| Ameixas *quetsche* | 30 |\n| Sorvas | 30 |\n| Frutos da roseira brava | 40 |\n| Cerejas ácidas (ginjas) | 35 |\n| Outras cerejas | 40 |\n| Mirtilos | 40 |\n| Bagas de sabugueiro | 50 |\n| Framboesas | 40 |\n| Damascos | 40 |\n| Morangos | 40 |\n| Amoras | 40 |\n| Airelas vermelhas | 30 |\n| [▼M6](http://publications.europa.eu/resource/celex/32024L1438) |  |\n| Marmelos (*Cydonia oblonga* L.) | 50 |\n| [▼M4](http://publications.europa.eu/resource/celex/32012L0012) |  |\n| Limões e limas | 25 |\n| Outros frutos pertencentes a esta categoria | 25 |\n| II. **Frutos de fraca acidez, com muita polpa ou muito aromáticos, de sumo de paladar pouco agradável no estado natural** |  |\n| Mangas | 25 |\n| Bananas | 25 |\n| Goiabas | 25 |\n| Papaias | 25 |\n| Lichias | 25 |\n| Azarolas | 25 |\n| Anonas (*Annona niuricata*) | 25 |\n| Cachimãs (*Annona reticulata*) | 25 |\n| Cherimólias Romãs | 25 |\n| Romãs | 25 |\n| Anacardos ou castanhas de caju | 25 |\n| Cajás-vermelhos (*Spondia purpurea*) | 25 |\n| Imbus (*Spondia tuberosa aroda*) | 25 |\n| Outros frutos pertencentes a esta categoria | 25 |\n| III. **Frutos de sumo de paladar agradável no estado natural** |  |\n| Maçãs | 50 |\n| Peras | 50 |\n| Pêssegos | 50 |\n| Citrinos, exceto limões e limas | 50 |\n| Ananases | 50 |\n| Tomates | 50 |\n| Outros frutos pertencentes a esta categoria | 50 |"
+  },
+  "a9074442cf1cb0c4": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V\n\n| Nome comum do fruto | Designação botânica | Graduação Brix mínima |\n| --- | --- | --- |\n| Maçã (*) | *Malus domestica* Borkh. | 11,2 |\n| Damasco (**) | *Prunus armeniaca* L. | 11,2 |\n| Banana (**) | *Musa x paradisiacal* L. (excluindo os plátanos) | 21,0 |\n| Groselha negra (*) | *Ribes nigrum* L. | 11,0 |\n| [▼M6](http://publications.europa.eu/resource/celex/32024L1438) |  |  |\n| Coco (*) | *Cocos nucifera* L. | 4,5 |\n| [▼M4](http://publications.europa.eu/resource/celex/32012L0012) |  |  |\n| Uva (*) | *Vitis vinifera* L. ou híbridos desta espécie *Vitis labrusca* L. ou híbridos desta espécie | 15,9 |\n| Toranja (*) | *Citrus x paradisi* Macfad. | 10,0 |\n| Goiaba (**) | *Psidium guajava* L. | 8,5 |\n| Limão (*) | *Citrus limon* (L.) Burm.f. | 8,0 |\n| Manga (**) | *Mangifera indica* L. | 13,5 |\n| Laranja (*) | *Citrus sinensis* (L.) Osbeck | 11,2 |\n| Maracujá (*) | *Passiflora edulis* Sims | 12,0 |\n| Pêssego (**) | *Prunus persica* (L.) Batsch var. persica | 10,0 |\n| Pera (**) | *Pyrus communis* L. | 11,9 |\n| Ananás (*) | *Ananas comosus* (L.) Merr. | 12,8 |\n| Framboesa (*) | *Rubus idaeus* L. | 7,0 |\n| Ginja (*) | *Prunus cerasus* L. | 13,5 |\n| Morango (*) | *Fragaria x ananassa* Duch. | 7,0 |\n| Tomate (*) | *Lycopersicon esculentum*, Mill. | 5,0 |\n| Tangerina (*) | *Citrus reticulata* Blanco | 11,2 |\n| No caso dos produtos assinalados com um asterisco (*), que são convertidos em sumo, determina-se a densidade relativa mínima do sumo a 20 °C em relação a água a 20 °C. No caso dos produtos assinalados com dois asteriscos (**), que são convertidos em polme, determina-se apenas uma leitura Brix mínima não corrigida (não corrigida em função da acidez). |  |  |\n\n---"
+  },
+  "ccecc7524f34590b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#src.E0001)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (UE) n.º 1169/2011 do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, relativo à prestação de informação aos consumidores sobre os géneros alimentícios, que altera os Regulamentos (CE) n.º 1924/2006 e (CE) n.º 1925/2006 do Parlamento Europeu e do Conselho e revoga as Diretivas 87/250/CEE da Comissão, 90/496/CEE do Conselho, 1999/10/CE da Comissão, 2000/13/CE do Parlamento Europeu e do Conselho, 2002/67/CE e 2008/5/CE da Comissão e o Regulamento (CE) n.º 608/2004 da Comissão (JO L 304 de 22.11.2011, p. 18).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#src.E0003)) JO L 354 de 31.12.2008, p. 16.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#src.E0004)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#src.E0006)) Diretiva (UE) 2020/2184 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2020, relativa à qualidade da água destinada ao consumo humano (JO L 435 de 23.12.2020, p. 1).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#src.E0007)) JO L 404 de 30.12.2006, p. 9.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#src.E0008)) JO L 404 de 30.12.2006, p. 26.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#src.E0009)) JO L 354 de 31.12.2008, p. 7.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#src.E0010)) JO L 338 de 13.11.2004, p. 4.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#src.E0011)) JO L 354 de 31.12.2008, p. 34.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#src.E0012)) JO L 10 de 12.1.2002, p. 53.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1#src.E0013)) JO L 10 de 12.1.2002, p. 47."
+  }
+ }
+}

@@ -35,6 +35,35 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-26'
+version_history:
+  file: regulamento-ue-2000-141.versoes.json
+  count: 3
+  source_lastmod: '2019-07-26'
+  versions:
+  - date: '2000-01-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-07'
+    amending: eu:celex:32009R0596:por
+    amending_title: REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Critérios de designação
+    - Altera Artigo 5.º — Procedimento de designação e de retirada
+    - Altera Artigo 8.º — Exclusividade de mercado
+    - Altera Artigo 11.º — Entrada em vigor
+    - Adita Artigo 10.º-A
+    - Adita Notas
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Exclusividade de mercado
+    - Altera Artigo 10.º-A
+    - Altera Notas
+    - Adita Artigo 10.º-B — Exercício da delegação
 identifiers:
   celex: 32000R0141
   eli: http://data.europa.eu/eli/reg/2000/141/oj
@@ -49,7 +78,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/445bbed6-7603-4f78-9c4a-1bae3b60465c.0011
   content_url: http://publications.europa.eu/resource/cellar/ddbf4837-e08a-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R0141-20190726
-  retrieved_at: '2026-10-22T02:56:56Z'
+  retrieved_at: '2026-10-22T14:49:12Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T22:10:25.135+01:00'
 integrity:
@@ -58,9 +87,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:56Z'
-  notes: Texto consolidado 02000R0141-20190726.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:12Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2000-141.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -127,30 +156,19 @@ relationships:
   date: '2015-09-19'
 article_structure:
   article_count: 13
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:56Z'
+  checked_at: '2026-10-22T14:49:12Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.o 141/2000 do Parlamento Europeu e do Conselho, de 16 de Dezembro de 1999
-
-> 02000R0141 — PT — 26.07.2019 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0596) — [REGULAMENTO (CE) N.º 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0596) — L 188 — 14 — 18.7.2009
-- [►M2](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-## REGULAMENTO (CE) N.º 141/2000 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Dezembro de 1999
 

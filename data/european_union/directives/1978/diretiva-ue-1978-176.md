@@ -34,6 +34,81 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-07'
+version_history:
+  file: diretiva-ue-1978-176.versoes.json
+  count: 3
+  source_lastmod: '2014-01-07'
+  versions:
+  - date: '1978-02-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-12-23'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera ANEXO II — FISCALIZAÇÃO E CONTROLO DAS OPERAÇÕES DE ELIMINAÇÃO
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º — [▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita ANEXO I — INFORMAÇÕES A FORNECER APARA EFEITOS DE CONCESSÃO DA AUTORIZAÇÃO PRÉVIA REFERIDA NOS ARTIGOS 4.o, 5.o
+      E 6.o
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+    - Suprime Artigo 15o
+    - Suprime Artigo 16o
+    - Suprime ANEXO I — INFORMAÇÕES A FORNECER APARA EFEITOS DE CONCESSÃO DA AUTORIZAÇÃO PRÉVIA REFERIDA NOS ARTIGOS 4o, 5o
+      E 6o
+  - date: '2014-01-07'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º — [▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime ANEXO I — INFORMAÇÕES A FORNECER APARA EFEITOS DE CONCESSÃO DA AUTORIZAÇÃO PRÉVIA REFERIDA NOS ARTIGOS 4.o,
+      5.o E 6.o
+    - Suprime ANEXO II — FISCALIZAÇÃO E CONTROLO DAS OPERAÇÕES DE ELIMINAÇÃO
 identifiers:
   celex: 31978L0176
   eli: http://data.europa.eu/eli/dir/1978/176/oj
@@ -48,7 +123,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b3a8d677-7b19-4ddb-bc24-dc658829b611.0011
   content_url: http://publications.europa.eu/resource/cellar/33141125-95a9-4885-9d0c-8b2d5d07d227.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01978L0176-20140107
-  retrieved_at: '2026-10-22T02:54:34Z'
+  retrieved_at: '2026-10-22T14:32:32Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-18T08:37:50.214+01:00'
 integrity:
@@ -57,9 +132,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:54:34Z'
-  notes: Texto consolidado 01978L0176-20140107.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:32:32Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1978-176.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -123,16 +198,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:54:34Z'
+  checked_at: '2026-10-22T14:32:32Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01978L0176-19821210: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01978L0176-19830128: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

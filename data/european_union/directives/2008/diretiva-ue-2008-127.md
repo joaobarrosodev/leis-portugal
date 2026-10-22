@@ -34,6 +34,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2008-127.versoes.json
+  count: 1
+  source_lastmod: '2009-09-01'
+  versions:
+  - date: '2008-12-20'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32008L0127
   eli: http://data.europa.eu/eli/dir/2008/127/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/eefbd026-2748-4094-b53a-a1a60ccaaa23.0018
   content_url: http://publications.europa.eu/resource/cellar/eefbd026-2748-4094-b53a-a1a60ccaaa23.0018.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:58:55Z'
+  retrieved_at: '2026-10-22T15:13:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T21:33:24.766+01:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:55Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:13:40Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2008-127.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -112,21 +121,20 @@ relationships:
   date: '2010-07-08'
 article_structure:
   article_count: 5
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:55Z'
+  checked_at: '2026-10-22T15:13:40Z'
   warnings:
-  - Versão consolidada 02008L0127-20090901 indisponível (Sem expressão na língua por para CELEX 02008L0127-20090901.); usado
-    o texto do JO.
+  - '02008L0127-20090901: versão indisponível (Sem expressão na língua por para CELEX 02008L0127-20090901.)'
   errors: []
 ---
 
-# DIRECTIVA 2008/127/CE DA COMISSÃO
+# Directiva 2008/127/CE da Comissão, de 18 de Dezembro de 2008
 
 de 18 de Dezembro de 2008
 

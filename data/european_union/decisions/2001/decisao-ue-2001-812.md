@@ -36,6 +36,54 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-14'
+version_history:
+  file: decisao-ue-2001-812.versoes.json
+  count: 3
+  source_lastmod: '2019-12-14'
+  versions:
+  - date: '2001-11-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-09-02'
+    amending: eu:celex:32006D0590:por
+    amending_title: DECISÃO DA COMISSÃO de 1 de Setembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Adita ANEXO
+    - Adita EXIGÊNCIAS PARA APROVAÇÃO DE POSTOS DE INSPECÇÃO FRONTEIRIÇOS
+    - Adita 1. Equipamento técnico
+    - Adita 2. Pessoal
+    - Adita 3. Documentação
+    - Adita 4. Registos
+    - Adita 5. Procedimentos
+    - Adita Notas
+    - Suprime ANEXO — EXIGÊNCIAS PARA APROVAÇÃO DE POSTOS DE INSPECÇÃO FRONTEIRIÇOS
+  - date: '2019-12-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime ANEXO
+    - Suprime EXIGÊNCIAS PARA APROVAÇÃO DE POSTOS DE INSPECÇÃO FRONTEIRIÇOS
+    - Suprime 1. Equipamento técnico
+    - Suprime 2. Pessoal
+    - Suprime 3. Documentação
+    - Suprime 4. Registos
+    - Suprime 5. Procedimentos
+    - Suprime Notas
 identifiers:
   celex: 32001D0812
   eli: http://data.europa.eu/eli/dec/2001/812/oj
@@ -50,7 +98,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cf00d25b-d54b-4c03-ae49-d429f6c5f8f1.0010
   content_url: http://publications.europa.eu/resource/cellar/6b3abe54-27e4-11ea-af81-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001D0812-20191214
-  retrieved_at: '2026-10-22T03:10:06Z'
+  retrieved_at: '2026-10-22T14:49:50Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T07:36:02.879+01:00'
 integrity:
@@ -59,9 +107,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:10:06Z'
-  notes: Texto consolidado 02001D0812-20191214.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:50Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-2001-812.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -121,16 +169,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:10:06Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:49:50Z'
+  warnings: []
   errors: []
 ---
 

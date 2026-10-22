@@ -35,6 +35,72 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-03-03'
+version_history:
+  file: diretiva-ue-2003-55.versoes.json
+  count: 3
+  source_lastmod: '2011-03-03'
+  versions:
+  - date: '2003-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-08-04'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Normas técnicas
+    - Altera Artigo 17.º — Separação das contas
+    - Altera Artigo 22.º — Novas infra-estruturas
+    - Altera Artigo 25.º — Entidades reguladoras
+    - Altera Artigo 35.º — Destinatários
+    - Altera ANEXO A — Medidas de protecção dos consumidores
+    - Altera ANEXO B — Quadro de correspondência
+  - date: '2011-03-03'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I — ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime CAPÍTULO II — REGRAS GERAIS PARA A ORGANIZAÇÃO DO SECTOR
+    - Suprime Artigo 3.º — Obrigações de serviço público e protecção dos consumidores
+    - Suprime Artigo 4.º — Procedimento de autorização
+    - Suprime Artigo 5.º — Monitorização da segurança do fornecimento
+    - Suprime Artigo 6.º — Normas técnicas
+    - Suprime CAPÍTULO III — TRANSPORTE, ARMAZENAMENTO E GNL
+    - Suprime Artigo 7.º — Designação dos operadores das redes de transporte
+    - Suprime Artigo 8.º — Atribuições dos operadores das redes de transporte
+    - Suprime Artigo 9.º — Separação dos operadores das redes de transporte
+    - Suprime Artigo 10.º — Confidencialidade para os operadores de redes de transporte
+    - Suprime CAPÍTULO IV — DISTRIBUIÇÃO E FORNECIMENTO
+    - Suprime Artigo 11.º — Designação dos operadores das redes de distribuição
+    - Suprime Artigo 12.º — Atribuições dos operadores das redes de distribuição
+    - Suprime Artigo 13.º — Separação dos operadores das redes de distribuição
+    - Suprime Artigo 14.º — Confidencialidade para os operadores das redes de distribuição
+    - Suprime Artigo 15.º — Operadores de redes combinadas
+    - Suprime CAPÍTULO V — SEPARAÇÃO E TRANSPARÊNCIA DAS CONTAS
+    - Suprime Artigo 16.º — Direito de acesso à contabilidade
+    - Suprime Artigo 17.º — Separação das contas
+    - Suprime CAPÍTULO VI — ORGANIZAÇÃO DO ACESSO À REDE
+    - Suprime Artigo 18.º — Acesso de terceiros
+    - Suprime Artigo 19.º — Acesso ao armazenamento
+    - Suprime Artigo 20.º — Acesso às redes de gasodutos a montante
+    - Suprime Artigo 21.º — Recusa de acesso
+    - Suprime Artigo 22.º — Novas infra-estruturas
+    - Suprime Artigo 23.º — Abertura dos mercados e reciprocidade
+    - Suprime Artigo 24.º — Condutas directas
+    - Suprime Artigo 25.º — Entidades reguladoras
+    - Suprime CAPÍTULO VII — DISPOSIÇÕES FINAIS
+    - Suprime Artigo 26.º — Medidas de salvaguarda
+    - Suprime Artigo 27.º — Derrogações relacionadas com compromissos assumidos no âmbito de contratos take-or-pay
+    - Suprime Artigo 28.º — Mercados emergentes e isolados
+    - Suprime Artigo 29.º — Processo de revisão
+    - Suprime Artigo 30.º — Comité
+    - Suprime Artigo 31.º — Apresentação de relatórios
+    - Suprime Artigo 32.º — Revogação
 identifiers:
   celex: 32003L0055
   eli: http://data.europa.eu/eli/dir/2003/55/oj
@@ -49,7 +115,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/67335803-4992-422e-988e-f2a882591e77.0010
   content_url: http://publications.europa.eu/resource/cellar/75aedca8-7c02-43af-b037-8436f6f559e9.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0055-20110303
-  retrieved_at: '2026-10-22T02:36:16Z'
+  retrieved_at: '2026-10-22T14:54:51Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T15:13:41.505+01:00'
 integrity:
@@ -58,9 +124,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:16Z'
-  notes: Texto consolidado 02003L0055-20110303.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:51Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2003-55.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -312,16 +378,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:16Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:54:51Z'
+  warnings: []
   errors: []
 ---
 

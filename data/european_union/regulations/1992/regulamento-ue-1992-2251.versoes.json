@@ -1,0 +1,219 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R2251:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R2251-20020101",
+ "dre_path": null,
+ "source_lastmod": "2002-01-01",
+ "versions": [
+  {
+   "date": "1992-08-04",
+   "future": false,
+   "celex": "31992R2251",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "13384b842e370144",
+    "091984301ce38a92",
+    "b65f5b24d1342afc",
+    "fccfd95d05cd1d39",
+    "ce9ae230311dd85b",
+    "7c67545010f037e0",
+    "dfd9d32844d718cf",
+    "c5b86bc139bd95ef",
+    "f5b4495afe553214",
+    "001b92288e619af9",
+    "8cf2f4cc09fedf67",
+    "140b6a41cceca68c",
+    "038486b63360e176",
+    "502a565d581efd12",
+    "03979a5499a62ef8",
+    "b17a29db297b5cb0",
+    "688436166df0f07c",
+    "f9471e6a524dc09e"
+   ]
+  },
+  {
+   "date": "2002-01-01",
+   "future": false,
+   "celex": "01992R2251-20020101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime parte de um lote individualizada pela embalagem.",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o — Os centros de controlo",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime ANEXO I — Certificado de controlo interno",
+    "Suprime ANEXO II — Certificado de destino industrial",
+    "Suprime ANEXO III — ESPÉCIMEN"
+   ],
+   "fragments": [
+    "49054dcf579ec7ef"
+   ]
+  }
+ ],
+ "fragments": {
+  "13384b842e370144": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2251/92 da Comissão, de 29 de Julho de 1992, relativo ao controlo de qualidade das frutas e produtos hortícolas frescos** *Jornal Oficial nº L 219 de 04/08/1992 p. 0009 - 0018*\n\nREGULAMENTO (CEE) No 2251/92 DA COMISSÃO de 29 de Julho de 1992 relativo ao controlo de qualidade das frutas e produtos hortícolas frescos\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) no 1035/72 do Conselho, de 18 de Maio de 1972, que estabelece a organização comum do mercado no sector das frutas e produtos hortícolas (1), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 1754/92 (2) e, nomeadamente, o no 5 do seu artigo 3o, o seu artigo 8o, o no 1 do seu artigo 10o e o no 3 do seu artigo 12o,\n\nConsiderando que, nos termos do Regulamento (CEE) no 1035/72, é necessário verificar, através de um controlo de conformidade realizado por sondagem, que as frutas e produtos hortícolas para as quais existem normas de qualidade, correspondem de facto a essas normas; que parece oportuno estabelecer um conjunto de regras harmonizadas que reuna todas as disposições existentes em matéria de controlo; que é conveniente, portanto, revogar os Regulamentos no 80/63/CEE da Comissão, de 31 de Julho de 1963, relativo ao controlo de qualidade das frutas e produtos hortícolas importados provenientes de países terceiros (3), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 3078/89 (4), no 93/67/CEE da Comissão, de 3 de Maio de 1967, que estabelece as primeiras disposições sobre o controlo de qualidade de frutas e produtos hortícolas comercializados na Comunidade (5), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 2122/86 (6), (CEE) no 2638/69 da Comissão, de 24 de Dezembro de 1969, que estabelece disposições complementares sobre o controlo de qualidade das frutas e produtos hortícolas comercializados na Comunidade (7), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 3078/89, e (CEE) no 496/70 da Comissão, de 17 de Março de 1970, relativo às primeiras disposições sobre o controlo de qualidade de frutos e produtos hortícolas para serem exportados para países terceiros (8), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 3078/89;\n\nConsiderando que, independentemente do fim a que se destinam e das etapas que atravessam as frutas e produtos hortícolas produzidos na Comunidade e submetidos a um controlo de conformidade, o método de controlo a adoptar, que agora se define, deve ser sempre o mesmo para todas as etapas; que, em princípio, qualquer lote de mercadorias pode ser objecto de controlo; que é conveniente definir as condições em que será recusada a conformidade;\n\nConsiderando que a responsabilidade da execução do controlo de conformidade cabe aos organismos competentes, designados pelos Estados-membros e que, em princípio, são estes que devem levar a cabo o referido controlo; que, no entanto, por uma questão de eficiência e para ter em conta a diversidade das situações prevalecentes nos diferentes Estados-membros, é conveniente prever, sob certas condições, uma transferência desta competência para organismos privados aprovados, ou que sejam utilizadas estruturas centralizadas denominadas centros de controlos, ou ainda que seja possível conceder uma isenção a operadores que forneçam as necessárias garantias;\n\nConsiderando que o estabelecimento de um sistema de controlo, bem como a concessão de isenções deste controlo, exige o conhecimento prévio de todos os operadores e importadores do sector; que é conveniente, por conseguinte, prever que se proceda a um registo; que a execução das operações de controlo exige a notificação das referidas operações às autoridades competentes; que, no entanto, as isenções do controlo devem implicar, automaticamente, a isenção da notificação;\n\nConsiderando que as disposições comunitárias se aplicam às importações provenientes de países terceiros; que estas importações devem, portanto, respeitar as normas de qualidade comunitárias ou normas equivalentes, e que devem estar sujeitas ao método comunitário de controlo; que alguns países terceiros podem, desde que garantam, em condições satisfatórias, o respeito da conformidade com as normas, efectuar as operações de controlo dos produtos que exportam para a Comunidade através dos seus próprios serviços, quer no local de exportação quer à chegada; que parece, por conseguinte, ser aconselhável para uma boa gestão administrativa e comercial, prever que as autoridades competentes dos países terceiros importadores possam, a seu pedido, ser aprovadas, desde que cumpram determinadas exigências;\n\nConsiderando que é conveniente garantir que os produtos, comunitários ou importados, que não tenham que corresponder às normas e sejam destinados à transformação industrial, não possam ser escoados para o mercado dos produtos destinados ao consumo em fresco; que, para tal, é conveniente que estes produtos sejam acompanhados de um certificado de destino industrial que ateste o fim a que se destinam e permita o respectivo controlo;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de gestão das frutas e produtos hortícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "091984301ce38a92": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nOs Estados-membros realizarão os controlos de conformidade previstos nos artigos 8o, 9o, 11o e 12o do Regulamento (CEE) no 1035/72 de acordo com as disposições do presente regulamento."
+  },
+  "b65f5b24d1342afc": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPara efeitos do disposto no presente regulamento, entende-se por:\n\na) « Controlo de conformidade »:\n\ntodo o controlo físico ou formalidade administrativa efectuados por agentes especializados dos organismos competentes designados pelos Estados-membros a fim de verificar a conformidade das frutas e produtos hortícolas com as normas comuns de qualidade, de acordo com o método e os processos previstos no presente regulamento;\n\nb) « Controlo de identidade »:\n\ntoda a verificação de conformidade entre os produtos e os documentos ou certificados que os acompanham;\n\nc) « Organismo competente »:\n\no ou os organismos designados por um Estado-membro para a realização dos controlos de conformidade referidos no artigo 1o;\n\nd) « Controlador »:\n\nagente devidamente habilitado pelo organismo competente para efectuar operações de controlo de conformidade e com a formação adequada;\n\ne) « Mercadorias »:\n\nquantidade de produtos destinada a ser comercializada por um dado operador, presente no momento do controlo. As mercadorias podem ser identificadas por um documento, ser constituídas por um ou vários tipos de produtos e conter um ou mais lotes;\n\nf) « Lote »:\n\nquantidade de produto que, no momento do controlo, é apresentada como tendo as mesmas características no que diz respeito:\n\n- à identidade do embalador e/ou expedidor,\n\n- à origem,\n\n- à natureza do produto,\n\n- à categoria de qualidade,\n\n- à variedade ou ao tipo comercial (se for caso disso),\n\n- ao tipo de acondicionamento e à apresentação,\n\n- ao calibre (se for caso disso);\n\ng) « Embalagem »:"
+  },
+  "fccfd95d05cd1d39": {
+   "fragment_id": "parte de um lote individualizada pela embalagem.",
+   "type": "divisao",
+   "heading": "parte de um lote individualizada pela embalagem.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## parte de um lote individualizada pela embalagem.\n\nh) « Operador »:\n\ntoda a pessoa singular ou colectiva que apresente uma mercadoria de origem comunitária ou coloque em livre prática, para efeitos de comercialização no território comunitário ou de exportação para países terceiros;\n\ni) « Importador »:\n\ntoda a pessoa singular ou colectiva que apresente uma mercadoria proveniente de países terceiros para efeitos de introdução no território aduaneiro da Comunidade;\n\nj) « Local de acondicionamento »:\n\ntodo o local onde os produtos são sujeitos às operações de selecção, calibragem, embalagem, marcação e, se for caso disso, armazenagem frigorífica;\n\nk) « Posto de inspecção fronteiriço »:\n\ntodo o posto de inspecção do tipo porto, aeroporto, posto de controlo rodoviário ou posto ferroviário, que efectue os controlos aquando da introdução no território aduaneiro da Comunidade. Deve estar equipado e ser concebido de modo a permitir a realização destes controlos e o intercâmbio de informações, nomeadamente com os interessados e os outros postos de inspecção fronteiriços da Comunidade, da forma mais eficaz e mais rápida;\n\nl) « Colheita de amostras »:\n\nacção de proceder a uma colheita temporária de uma certa quantidade de produto (designada amostra) aquando de um controlo de conformidade;\n\nm) « Amostra elementar »:\n\nembalagem colhida no lote ou, no caso de um produto apresentado a granel, quantidade colhida num ponto do lote;\n\nn) « Amostra global »:\n\ndiversas amostras elementares representativas do lote e colhidas em quantidade suficiente para permitirem a avaliação do lote em função de todos os critérios;\n\no) « Amostra reduzida »:\n\nquantidade representativa de produto colhido na amostra global e com um volume suficiente para permitir a avaliação em função de um certo número de critérios. Podem ser colhidas numa amostra global várias amostras reduzidas. CAPÍTULO I Método de controlo"
+  },
+  "ce9ae230311dd85b": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. O controlo de conformidade é efectuado através da avaliação de uma amostra global colhida, aleatoriamente, em diferentes pontos do lote escolhido para o controlo, e considerada representativa do lote.\n\n2. O controlador designa o ou os lotes e as embalagens do lote que pretende examinar ou, no caso dos produtos a granel, os pontos do lote em que devem ser colhidas as amostras. O operador ou importador responsável pela mercadoria objecto do controlo, ou seu representante, deve apresentar as amostras solicitadas e fornecer todas as informações necessárias à identificação da mercadoria ou dos lotes que a constituem. Se forem necessárias amostras reduzidas para aprofundar a verificação, o controlador procede à sua escolha a partir da amostra global.\n\n3. A identificação dos lotes é efectuada em função das menções ou marcas definidas em conformidade com a Directiva 89/396/CEE do Conselho (9).\n\nSempre que uma mercadoria seja constituída por diversos lotes, o controlador deve proceder a um controlo da identidade de cada um dos lotes, a fim de determinar o grau de conformidade com as indicações constantes dos documentos de acompanhamento ou declarações.\n\nNo entanto, caso seja difícil diferenciar os lotes, podem ser considerados como um lote único todos aqueles que apresentem características uniformes no que diz respeito ao tipo de produto, aos operadores ou importadores em questão, ao país de origem, à categoria de qualidade e, se for caso disso, à variedade, calibre ou tipo comercial.\n\n4. A verificação de um lote inclui, nomeadamente:\n\n- uma avaliação do acondicionamento e da apresentação, através de amostras elementares, que consiste na verificação da conformidade e limpeza do acondicionamento, incluindo dos materiais utilizados na embalagem, bem como da conformidade da apresentação,\n\n- uma verificação do respeito da marcação, através de amostras,\n\n- a verificação da conformidade dos produtos: o controlador decidirá acerca da importância da amostra global susceptível de lhe permitir avaliar os lotes.\n\nO controlador, caso não esteja em condições de tomar uma decisão na sequência de uma verificação, poderá efectuar um novo controlo a fim de exprimir globalmente o resultado médio, em percentagem, dos dois controlos.\n\n5. O produto a controlar deve ser totalmente retirado da sua embalagem. No caso de produtos pré-embalados, o controlador pode dispensar esta operação se o tipo e a natureza do acondicionamento permitirem verificar o seu conteúdo sem desembalar o produto. A verificação da homogeneidade, das características mínimas, das categorias de qualidade e do calibre deve ser feita utilizando a amostra global. Sempre que o produto apresente defeitos, o controlador deve determinar a percentagem, em número ou em peso, de produtos não conformes com a norma.\n\n6. Sempre que as operações de controlo sejam susceptíveis de prejudicar a qualidade dos produtos, o controlador deve verificar a presença ou a ausência de defeitos internos através de amostras reduzidas, cujo volume será limitado à quantidade mínima necessária para a avaliação do lote. Caso se verifique ou se suspeite desses defeitos, o volume da amostra reduzida não poderá exceder 10 % do volume da amostra global, constituída incialmente para a inspecção.\n\n7. No que diz respeito à avaliação da maturidade, o controlador pode utilizar os instrumentos e métodos previstos para o efeito no âmbito das normas comuns de qualidade.\n\nNo que diz respeito às maças, o organismo competente pode referir-se a uma escala colorimétrica e/ou a um teste de regressão do amido (teste de iodo) para verificar se se encontra cumprida a condição prevista nas normas de qualidade para a maças e peras incluídas no primeiro travessão do último parágrafo do capítulo A do título II do anexo do Regulamento (CEE) no 920/89 da Comissão (10).\n\n8. Aquando de um controlo num estádio diferente da expedição, o controlador deve ter em conta, excepto no que diz respeito aos produtos classificados na categoria Extra, que o transporte, mesmo efectuado em condições adequadas à natureza do produto, pode diminuir ligeiramente o estado de frescura e a turgescência que os produtos apresentavam no momento da sua expedição.\n\n9. Na sequência do controlo, o controlador toma uma decisão em função dos resultados da verificação do lote de acordo com os critérios definidos no no 4.\n\nO controlador emite o certificado de controlo referido no anexo I sempre que verifique a conformidade do lote com as disposições comunitárias em vigor para o produto em questão. Em caso de não conformidade, assinalará os defeitos constatados, por escrito, ao operador e/ou importador ou ao seu representante. Neste caso, se este decidir tornar o produto conforme, o controlador emitirá o certificado de controlo quando verificar a conformidade.\n\n10. Caso deva ser pronunciada uma decisão de não conformidade, a amostra global suplementar deve incidir, no mínimo, sobre as seguintes quantidades (11):\n\nProdutos acondicionados\n\nNúmero de embalagens no lote Número de embalagens a colher (amostras elementares) Até 100 5 de 101 a 300 7 de 301 a 500 9 de 501 a 1 000 10 mais de 1 000 15 (no mínimo)\n\nProdutos a granel\n\nMassa do lote, em kg, ou número de unidades nesse lote Massa em kg da amostra elementar ou número de unidades a colher (1) Até 200 10 de 201 a 500 20 de 501 a 1 000 30 de 1 001 a 5 000 60 mais de 5 000 100 (no mínimo)\n\n(1) No caso das frutas e produtos hortícolas frescos volumosos (mais de 2 kg por peça), as amostras elementares devem ser constituídas por, no mínimo, cinco peças.\n\n11. Se um Estado-membro pretender experimentar um método de amostragem diferente do previsto no no 10, a Comissão pode, nas condições por si determinadas, autorizar a aplicação desse método no Estado-membro em questão. Nesse caso, a Comissão informa do facto os restantes Estados-membros.\n\n12. No caso de o produto não ter sido tornado conforme, o controlador elabora uma declaração de não conformidade, especificando quais os critérios não respeitados e assegura-se que as mercadorias não conformes não são introduzidas no mercado para consumo em fresco.\n\nPara tal, o controlador emite um documento que certifique que as mercadorias não foram introduzidas no comércio para consumo em fresco e especifica as medidas adoptadas para garantir o respeito da proibição.\n\n13. Na sequência do controlo, a amostra global é posta à disposição do operador e/ou importador ou do seu representante.\n\nO organismo competente não é obrigado a restituir os elementos da amostra global destruídos por ocasião do controlo. CAPÍTULO II Realização do controlo de conformidade no caso das frutas e produtos hortícolas produzidos na Comunidade"
+  },
+  "7c67545010f037e0": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. As frutas e produtos hortícolas produzidos na Comunidade para consumo em fresco e destinados ao mercado interno ou à exportação são objecto do controlo de conformidade na zona de expedição, quer nos locais de acondicionnamento e carregamento ou, se necessário, durante o processo de expedição quer no centro de controlo designado, e no local de destino nos pontos de venda por grosso ou nas centrais de distribuição.\n\n2. Com vista à execução das operações de controlo referidas no presente artigo, o operador ou o seu representante notifica o organismo competente de todas as informações necessárias. As informações devem incluir indicações para a identificação dos produtos, assim como indicações precisas do local e período em que será ou serão efectuadas as expedições, e do destino previsto.\n\nOs operadores que preencham as condições referidas no no 1 do artigo 6o serão dispensados desta obrigação.\n\n3. Em derrogação ao disposto nos nos 1 e 2, os Estados-membros podem dispensar das notificações e controlos as mercadorias com um peso igual ou inferior a 500 quilogramas por produto.\n\n4. O certificado de controlo a que se refere o no 9 do artigo 3o deve ser emitido nos casos em que as frutas e produtos hortícolas se destinam à exportação."
+  },
+  "dfd9d32844d718cf": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os Estados-membros designarão o ou os organismos competentes responsáveis pela execução dos controlos de conformidade.\n\nEste ou estes organismos podem delegar os seus poderes, total ou parcialmente, a organismos para a execução dos controlos. A aprovação será concedida relativamente a um período de três anos, na sequência de um concurso efectuado pelo Estado-membro destinado aos organismos privados que reúnam as seguintes condições:\n\na) Disponham de controladores que tenham seguido uma formação reconhecida pelo organismo competente;\n\nb) Disponham do material e das instalações necessárias às verificações e análises exigidas pelo controlo;\n\nc) Disponham de equipamento adequado para a transmissão das informações.\n\n2. O organismo competente verificará periodicamente a execução, o número e a eficácia dos controlos realizados pelos organismos aprovados.\n\nO organismo competente revogará a aprovação sempre que verifique anomalias ou irregularidades que ponham em causa a realização normal dos controlos ou sempre que as condições exigidas deixem de ser preenchidas.\n\nA aprovação pode ser renovada por um novo período de três anos.\n\n3. Os organismos aprovados:\n\na) Fornecem todos os meios para a execução dos controlos, bem como todas as informações solicitadas com vista às verificações efectuadas pelo organismo competente;\n\nb) Enviam ao organismo competente, antes de 31 Janeiro de cada ano, uma lista dos operadores sujeitos ao seu controlo durante o ano anterior, acompanhada de um relatório respeitante às condições em que foram efectuados os controlos, bem como aos resultados obtidos."
+  },
+  "c5b86bc139bd95ef": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os operadores podem ser dispensados das operações de controlo na expedição pelo organismo competente do Estado-membro em causa, que emitirá um certificado de isenção sempre que este ofereçam garantias que permitam assegurar uma qualidade constante da produção por eles comercializada e satisfaçam as seguintes condições:\n\na) Disponham de agentes de controlo que tenham seguido uma formação reconhecida pelo organismo competente;\n\nb) Possuam equipamentos adequados para a preparação e o acondicionamento dos produtos;\n\nc) Possuam equipamentos de pré-refrigeração sempre que os produtos comercializados exijam este tratamento frigorífico antes do transporte;\n\nd) Possuam um registo que inclua uma lista de todas as operações efectuadas.\n\nA isenção é concedida por um período renovável de um ano.\n\n2. O organismo competente verifica regularmente a qualidade dos produtos expedidos pelo operador isento.\n\nO organismo competente revogará a aprovação sempre que verifique anomalias ou irregularidades que ponham em causa a conformidade dos produtos ou que deixem de ser preenchidas as condições enumeradas no no 1.\n\nO operador isento do controlo proporcionará todos os meios necessários às verificações efectuadas pelo organismo competente.\n\n3. O operador isento apõe a cada embalagem expedida uma etiqueta, cujo modelo consta do anexo III, que mencione o seu número de inscrição no registo a que se refere o no 3 do artigo 11o"
+  },
+  "f5b4495afe553214": {
+   "fragment_id": "Artigo 7o — Os centros de controlo",
+   "type": "artigo",
+   "heading": "Artigo 7o — Os centros de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o — Os centros de controlo\n\nOs Estados-membros podem prever que o controlo de conformidade seja efectuado pelo organismo competente nos centros de controlo designados pelas autoridades competentes.\n\nOs centros de controlo devem dispor de estruturas de acolhimento adequadas para a realização das operações de controlo.\n\nEstas estruturas devem incluir, nomeadamente:\n\n- cais adaptados aos veículos, que permitam a colheita de amostras em diversos locais de carregamento,\n\n- salas refrigeradas para o depósito das embalagens descarregadas dos veículos,\n\n- equipamentos adequados para a transmissão de informações,\n\n- material ou instalações adequados à natureza das verificações ou análises exigidas pelo controlo.\n\nAs operações de controlo devem ser realizadas o mais rapidamente possível, em conformidade com o método previsto no artigo 3o CAPÍTULO III Controlos de conformidade das frutas e produtos hortícolas aquando da importação para a Comunidade"
+  },
+  "001b92288e619af9": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Antes de serem introduzidos no território da Comunidade, as frutas e produtos hortícolas provenientes de países terceiros destinados a ser consumidos no estado fresco e relativamente aos quais existam normas comuns de qualidade são submetidos a um controlo de conformidade, com o objectivo de verificar se as mercadorias correspondem às prescrições das normas comuns de qualidade ou, para os países terceiros extra-europeus e não incluídos na bacia mediterrânica, a normas pelo menos equivalentes.\n\n2. A Comissão definirá uma tabela de equivalência entre as indicações, respeitantes à categoria de qualidade, constantes das normas aplicadas nos países em questão e as que constam das normas comuns de qualidade."
+  },
+  "8cf2f4cc09fedf67": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Se os serviços oficiais de controlo dos países terceiros tiverem sido previamente aprovados, as mercadorias são objecto de um controlo de conformidade antes da sua exportação para a Comunidade.\n\nA lista dos serviços oficiais a aprovar é adoptada em conformidade com o processo definido no artigo 33o do Regulamento (CEE) no 1035/72. A Comissão completa ou altera essa lista.\n\n2. A aprovação referida no no 1 é concedida ao serviço oficial do país terceiro que a solicitar e em cujo território sejam respeitadas, no que se refere aos produtos exportados para a Comunidade, as normas comuns de qualidade ou as normas que sejam, no mínimo, equivalentes, em conformidade com o no 1 do artigo 8o\n\nO serviço oficial deve ser um organismo de controlo de conformidade oficialmente reconhecido, que ofereça suficientes garantias e disponha do pessoal, material e instalações necessários à realização destes controlos.\n\nAs informações relativas à elaboração e transmissão do pedido de aprovação são dadas ao conhecimento dos interessados através de um aviso da Comissão publicado na série C do Jornal Oficial das Comunidades Europeias.\n\n3. A aprovação é concedida relativamente a um período de três anos, renovável após um controlo minucioso e, nomeadamente, a verificação no local das disposições referidas no no 2.\n\nEssa aprovação será imediatamente revogada pela Comissão caso se verifique que as mercadorias provenientes do país terceiro em questão não correspondem às normas previstas.\n\n4. As mercadorias provenientes de países terceiros, cujo serviço oficial de controlo tenha sido objecto da aprovação prevista no no 3, são acompanhadas de um certificado de controlo (anexo I) emitido pelo referido organismo que comprove a conformidade com a norma de qualidade segundo a qual o produto foi classificado. O certificado conduz à presunção de que aquando da exportação os produtos estavam em conformidade com a norma.\n\nOs organismos competentes dos Estados-membros verificam regularmente a conformidade dos produtos provenientes de países terceiros.\n\nO período de eficácia do certificado de controlo, destinado a comprovar a respectiva conformidade, é fixado pelo serviço de controlo, tendo em conta a natureza do produto.\n\nApós o termo da eficácia do certificado de controlo, é aplicável o no 5.\n\n5. Relativamente às mercadorias provenientes de países terceiros cujos serviços oficiais de controlo não tenham sido objecto da aprovação ou às mercadorias provenientes de países terceiros cujos serviços tenham sido objecto de aprovação mas que não sejam acompanhadas do certificado de controlo previsto no anexo I, aquando da sua importação, a autoridade aduaneira só autorizará a introdução em livre prática no território aduaneiro da Comunidade se a mercadoria tiver sido controlada de acordo com o artigo 3o\n\nSe necessário, caso não tenham efetuado o controlo de certas mercadorias, o organismo competente porá o respectivo carimbo na notificação referida no no 8 e enviará essa notificação às autoridades aduaneiras ou informará de qualquer outro modo as referidas autoridades.\n\nO organismo competente pode decidir não efectuar os controlos supracitados quando as mercadorias sejam destinadas a expedição posterior para um país terceiro.\n\n6. As disposições dos nos 4 e 5 são aplicáveis, sem prejuízo, por um lado, dos controlos pontuais efectuados nos postos de inspecção fronteiriços e, por outro, dos controlos efectuados no destino, nos locais de venda por grosso ou nas centrais de distribuição.\n\n7. Se se proceder à divisão do lote no caso das mercadorias armazenadas que saem de um armazém ou quando as mercadorias não são destinadas a ser introduzidas em livre prática no território do Estado-membro que efectuou o controlo definido no no 1 do artigo 8o, o controlador responsável:\n\n- conserva o ou os certificados originais,\n\n- fornece ao importador ou ao primeiro comprador o número de cópias autenticadas do certificado original correspondente ao número de fracções em que os lotes foram divididos.\n\n8. Com vista à realização dos controlos referidos no artigo 8o, o importador ou o seu representante deve notificar previamente, com a devida antecedência, ao organismo competente do Estado-membro em questão qual o posto de inspecção fronteiriço onde serão apresentados os produtos, bem como a sua natureza e volume, o número de lotes e a data de chegada previsível. CAPÍTULO IV Controlo dos produtos destinados à indústria"
+  },
+  "140b6a41cceca68c": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. Os produtos comunitários destinados a transformação fora da sua região de produção são acompanhados de um documento (« certificado de destino industrial », previsto no anexo II) emitido pelo organismo competente de controlo que envia imediatamente uma cópia do referido documento ao organismo de controlo da região em que se efectuará a transformação.\n\n2. Os produtos importados destinados a transformação na Comunidade são acompanhados, antes da sua introdução em livre prática, de um documento (« certificado de destino industrial », previsto no anexo II emitido pelos organismos de controlo da importação; estes serviços enviam imediatamente uma cópia do referido documento ao organismo de controlo da região em que deve ter lugar a transformação.\n\n3. Após a transformação, a empresa envia o certificado ao organismo de controlo da região em que se tiver efectuado a transformação.\n\n4. O controlo pode ser efectuado no local e ter por base documentos contabilísticos da empresa em questão.\n\nCaso seja detectada uma fraude, deve ser prevenida a sede do organismo de controlo que emitiu o certificado de destino industrial. CAPÍTULO V Disposições finais"
+  },
+  "038486b63360e176": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. O organismo de controlo de cada Estado-membro, no território do qual um lote de mercadorias provenientes de outro Estado-membro é considerado não conforme devido a defeitos ou alterações que pudessem ter sido detectados aquando do acondicionamento, velará por que o caso de não conformidade verificado até ao estádio do mercado por grosso seja comunicado no prazo de 24 horas aos serviços centrais de controlo dos Estados-membros aos quais a questão possa, eventualmente, dizer respeito.\n\n2. Se, aquando da importação proveniente de um país terceiro, um lote de mercadorias for considerado não conforme, devido a defeitos ou alterações que pudessem ter sido detectados aquando do acondicionamento, os serviços de controlo do Estado-membro em causa informarão do facto, no prazo de 24 horas, a Comissão e os serviços centrais dos organismos de controlo dos Estados-membros aos quais a questão possa, eventualmente, dizer respeito; estes últimos garantirão a sua difusão em todo o território do Estado-membro.\n\n3. Os Estados-membros estabecem um registo dos operadores e importadores de frutas e produtos hortícolas, atribuindo a cada um deles um número de inscrição.\n\n4. A Comissão publicará no Jornal Oficial das Comunidades Europeias, série C, para cada Estado-membro, a lista:\n\n- das sedes dos organismos centrais de controlo,\n\n- dos centros de controlo,\n\n- dos organismos aprovados, de cada Estado-membro, bem como\n\n- a lista dos serviços oficiais de controlo aprovados nos países terceiros.\n\nA lista dos operadores isentos será objecto de divulgação na imprensa oficial e/ou especializada de cada Estado-membro."
+  },
+  "502a565d581efd12": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nSão revogados os regulamentos no 80/63/CEE, no 93/67/CEE, (CEE) no 496/70 e (CEE) no 2638/69 da Comissão, com efeitos a partir de 1 de Janeiro de 1993."
+  },
+  "03979a5499a62ef8": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Janeiro de 1993. O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 29 de Julho de 1992. Pela Comissão\n\nRay MAC SHARRY\n\nMembro da Comissão\n\n(1) JO no L 118 de 20. 5. 1972, p. 1. (2) JO no L 180 de 1. 7. 1992, p. 23. (3) JO no 121 de 3. 8. 1963, p. 2137/63. (4) JO no L 294 de 13. 10. 1989, p. 18. (5) JO no 90 de 10. 5. 1967, p. 1765/67. (6) JO no L 185 de 8. 7. 1986, p. 11. (7) JO no L 327 de 30. 12. 1969, p. 33. (8) JO no L 62 de 18. 3. 1970, p. 11. (9) JO no L 186 de 30. 6. 1989, p. 21. (10) JO no L 97 de 11. 4. 1989, p. 19. (11) Estas quantidades não se aplicam no estádio de retalho."
+  },
+  "b17a29db297b5cb0": {
+   "fragment_id": "ANEXO I — Certificado de controlo interno",
+   "type": "divisao",
+   "heading": "ANEXO I — Certificado de controlo interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Certificado de controlo interno\n\nimportação\n\nexportação\n\n1. Operador/importador\n\n2. Embalador identificado na embalagem (caso diferente do operador/importador)\n\nCertificado de controlo\n\nCE no....................\n\nO presente certificado destina-se exclusivamente aos organismos de controlo\n\n3. Serviço de controlo\n\n4. Local de controlo / Região ou país de destino\n\nPaís de origem (1)\n\n5. Identificação do meio de transporte 6. Controlo no destino (se for caso disso) 7. Embalagens (número e tipo) 8. Natureza do produto (variedade, se a norma assim o previr) 9. Categoria de qualidade 10. Peso total em Kg bruto/líquido\n\n11. O serviço de controlo supracitado, após controlo por amostragem, que a mercadoria anteriormente referida corresponde, no momento do controlo, às normas de qualidade em vigor\n\nPosto alfandegário: entrada/saída\n\nPrazo de validade:.................... dias Local e data de emissão\n\nControlador:\n\n(nome em maiúsculas) Assinatura Carimbo\n\ndo controlo\n\n12. Observações:\n\n(1) Se se tratar de um produto reexportado, indicar a origem na casa no 8."
+  },
+  "688436166df0f07c": {
+   "fragment_id": "ANEXO II — Certificado de destino industrial",
+   "type": "divisao",
+   "heading": "ANEXO II — Certificado de destino industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Certificado de destino industrial\n\n1. Operador/importador Certificado de controlo\n\nCE no.......... 2. Origem do produto 3. Serviço de controlo que emite o certificado 4. Destino industrial do produto/\n\nnome e endereço da empresa 5. Serviço de controlo da região de transformação 6. Embalagens a granel 7. Natureza do produto 8. Peso total em kg bruto/líquido\n\n9. Posto alfandegário: entrada/saída\n\nLocal e data de emissão\n\nControlador:\n\n(nome em maiúsculas) Assinatura Carimbo do controlo\n\n10. Observações:\n\n11. A empresa de transformação certifica que o produto supracitado foi objecto de uma transformação.\n\nLocal e data Assinatura Carimbo"
+  },
+  "f9471e6a524dc09e": {
+   "fragment_id": "ANEXO III — ESPÉCIMEN",
+   "type": "divisao",
+   "heading": "ANEXO III — ESPÉCIMEN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — ESPÉCIMEN\n\nREGULAMENTO (CEE) No 2251/92\n\nNo...\n\n(Estado-membro)"
+  },
+  "49054dcf579ec7ef": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992R2251 — PT — 13.06.2001 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992R2251) [REGULAMENTO (CEE) N.º 2251/92 DA COMISSÃO](http://publications.europa.eu/resource/celex/31992R2251) [de 29 de Julho de 1992](http://publications.europa.eu/resource/celex/31992R2251) [relativo ao controlo de qualidade das frutas e produtos hortícolas frescos](http://publications.europa.eu/resource/celex/31992R2251) (JO L 219, 4.8.1992, p.9)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1148/2001 da Comissão de 12 de Junho de 2001](http://publications.europa.eu/resource/celex/32001R1148) — L 156 — 9 — 13.6.2001"
+  }
+ }
+}

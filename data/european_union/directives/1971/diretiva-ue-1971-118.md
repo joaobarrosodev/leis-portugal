@@ -34,6 +34,56 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-01-01'
+version_history:
+  file: diretiva-ue-1971-118.versoes.json
+  count: 2
+  source_lastmod: '2006-01-01'
+  versions:
+  - date: '1971-03-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I — Disposições gerais
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime TÍTULO II — Disposições relativas às trocas comerciais intracomunitárias e às trocas comerciais no interior
+      dos Estados-membros
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime TÍTULO III — Disposições relativas unicamente ao comércio intracomunitário
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+    - Suprime TÍTULO IV — Disposições finais
+    - Suprime Artigo 15o
+    - Suprime Artigo 16o
+    - Suprime Artigo 18o
+    - Suprime ANEXO I — CAPÍTULO I
+    - Suprime CAPÍTULO II — HIGIENE DOS PESSOAL, DOS LOCAIS, DO MATERIAL E DOS UTENSÍLIOS NOS MATADOUROS
+    - Suprime CAPÍTULO III — INSPECÇÃO SANITÁRIA ANTE MORTEM
+    - Suprime CAPÍTULO IV — HIGIENE NO ABATE
+    - Suprime CAPÍTULO V — INSPECÇÃO SANITÁRIA POST MORTEM
+    - Suprime CAPÍTULO VI — DECISÃO DO VETERINÁRIO OFICIAL NA INSPECÇÃO POST MORTEM
+    - Suprime CAPÍTULO VII — APOSIÇÃO DAS MARCAS DE INSPECÇÃO VETERINÁRIA
+    - Suprime CAPÍTULO VIII — CERTIFICADO DE INSPECÇÃO VETERINÁRIA
+    - Suprime CAPÍTULO IX — ARMAZENAGEM
+    - Suprime CAPÍTULO X — EMBALAGEM
+    - Suprime CAPÍTULO XI — TRANSPORTE
+    - Suprime ANEXO II — CONDIÇÕES EXIGIDAS RELATIVAMENTE AOS AUXILIARES
+    - Suprime ANEXO III — MODELO
+    - Suprime ANEXO IV — MODELO
 identifiers:
   celex: 31971L0118
   eli: http://data.europa.eu/eli/dir/1971/118/oj
@@ -48,7 +98,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1dfd0dfa-c287-490b-b9d3-0c02353fda06.0011
   content_url: http://publications.europa.eu/resource/cellar/f4d718aa-37f4-4bf4-bf00-f3415704efac.0006.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01971L0118-20060101
-  retrieved_at: '2026-10-22T02:37:49Z'
+  retrieved_at: '2026-10-22T14:29:52Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-13T18:11:35.524+01:00'
 integrity:
@@ -57,9 +107,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:49Z'
-  notes: Texto consolidado 01971L0118-20060101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:29:52Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1971-118.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -346,16 +396,21 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:49Z'
+  checked_at: '2026-10-22T14:29:52Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01971L0118-19930105: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01971L0118-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01971L0118-19950120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01971L0118-19970701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01971L0118-19980219: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01971L0118-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01971L0118-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -35,6 +35,95 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-14'
+version_history:
+  file: decisao-ue-1992-438.versoes.json
+  count: 4
+  source_lastmod: '2019-12-14'
+  versions:
+  - date: '1992-08-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-06-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º — As modalidades de aplicação da presente decisão serão adoptadas na medida do necessário, de acordo
+      com o procedimento previsto no artigo 13.o
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o — As modalidades de aplicação da presente decisão serão adoptadas na medida do necessário, de acordo
+      com o procedimento previsto no artigo 13o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+    - Suprime Artigo 15o — Os Estados-membros são destinatários da presente decisão. Feito em Bruxelas, em 13 de Julho de
+      1992. Pelo Conselho
+  - date: '2009-06-18'
+    amending: eu:celex:32003R0806:por
+    amending_title: REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003; DECISÃO DO CONSELHO de 25 de Maio de
+      2009; A1
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera ANEXO III
+    - Adita Artigo 12.º
+    - Adita Notas
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º — As modalidades de aplicação da presente decisão serão adoptadas na medida do necessário, de acordo
+      com o procedimento previsto no artigo 13.o
+  - date: '2019-12-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime ANEXO I
+    - Suprime ANEXO II
+    - Suprime ANEXO III
+    - Suprime Notas
 identifiers:
   celex: 31992D0438
   eli: http://data.europa.eu/eli/dec/1992/438/oj
@@ -49,7 +138,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2aed7820-29eb-4d9c-8a88-c0c5e973c7fc.0009
   content_url: http://publications.europa.eu/resource/cellar/56e954ca-2651-11ea-af81-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992D0438-20191214
-  retrieved_at: '2026-10-22T02:55:34Z'
+  retrieved_at: '2026-10-22T14:40:25Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-14T17:16:01.949+02:00'
 integrity:
@@ -58,9 +147,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:55:34Z'
-  notes: Texto consolidado 01992D0438-20191214.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:40:25Z'
+  notes: 4 versão(ões); histórico completo em decisao-ue-1992-438.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -148,16 +237,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:55:34Z'
+  checked_at: '2026-10-22T14:40:25Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01992D0438-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

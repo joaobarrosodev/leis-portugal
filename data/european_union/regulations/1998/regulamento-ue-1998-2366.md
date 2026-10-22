@@ -34,6 +34,76 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2004-08-18'
+version_history:
+  file: regulamento-ue-1998-2366.versoes.json
+  count: 3
+  source_lastmod: '2004-08-18'
+  versions:
+  - date: '1998-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-10-18'
+    amending: eu:celex:31999R1273:por
+    amending_title: REGULAMENTO (CE) N. o 1273/1999 DA COMISSÃO de 17 de Junho de 1999; REGULAMENTO (CE) N. o 648/2001 DA
+      COMISSÃO de 30 de Março de 2001; REGULAMENTO (CE) N. o 2070/2001 DA COMISSÃO de 23 de Outubro de 2001; REGULAMENTO (CE)
+      N. o 1249/2002 DA COMISSÃO de 11 de Julho de 2002; REGULAMENTO (CE) N. o 2383/2002 DA COMISSÃO de 30 de Dezembro de
+      2002; REGULAMENTO (CE) N. o 1780/2003 DA COMISSÃO de 10 de Outubro de 2003
+    changes:
+    - Altera preambulo
+    - Adita CAPÍTULO 1
+    - Adita Declaração de cultura
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita CAPÍTULO 2
+    - Adita Rendimentos
+    - Adita Artigo 6.º
+    - Adita CAPÍTULO 3
+    - Adita Lagares aprovados
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 9.º A
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita CAPÍTULO 4
+    - Adita Pedido e concessão da ajuda
+    - Adita Artigo 12.º
+    - Adita Artigo 12.ºA
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita CAPÍTULO 5
+    - Adita Organizações de produtores e suas uniões
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita CAPÍTULO 6
+    - Adita Sistema de informação geográfica oleícola
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+  - date: '2004-08-18'
+    amending: eu:celex:32004R1432:por
+    amending_title: REGULAMENTO (CE) N. o 1432/2004 DA COMISSÃO de 10 de Agosto de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 12.ºA
+    - Altera Artigo 14.º
+    - Altera Artigo 27.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 32.º
+    - Altera Notas
 identifiers:
   celex: 31998R2366
   eli: http://data.europa.eu/eli/reg/1998/2366/oj
@@ -48,7 +118,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5e08bcf8-4b77-4fa1-98e5-a5ba41a3ec1e.0011
   content_url: http://publications.europa.eu/resource/cellar/613b1fc5-9719-402a-96d5-2ee710ea3549.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998R2366-20040818
-  retrieved_at: '2026-10-22T02:56:36Z'
+  retrieved_at: '2026-10-22T14:47:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T15:39:15.098+01:00'
 integrity:
@@ -57,9 +127,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:36Z'
-  notes: Texto consolidado 01998R2366-20040818.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:24Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1998-2366.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -174,35 +244,27 @@ relationships:
   date: '1984-11-01'
 article_structure:
   article_count: 36
-  section_count: 23
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 24
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:36Z'
-  warnings: []
+  checked_at: '2026-10-22T14:47:24Z'
+  warnings:
+  - '01998R2366-19981101: versão indisponível (Sem expressão na língua por para CELEX 01998R2366-19981101.)'
+  - '01998R2366-19990625: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R2366-19990701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R2366-19991101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R2366-20010407: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R2366-20011031: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R2366-20021101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R2366-20021130: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) nº 2366/98 da Comissão de 30 de Outubro de 1998
-
-> 1998R2366 — PT — 18.08.2004 — 009.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/31999R1273) — [REGULAMENTO (CE) N.º 1273/1999 DA COMISSÃO de 17 de Junho de 1999](http://publications.europa.eu/resource/celex/31999R1273) — L 151 — 12 — 18.6.1999
-- [►M2](http://publications.europa.eu/resource/celex/32001R0648) — [REGULAMENTO (CE) N.º 648/2001 DA COMISSÃO de 30 de Março de 2001](http://publications.europa.eu/resource/celex/32001R0648) — L 91 — 45 — 31.3.2001
-- [►M3](http://publications.europa.eu/resource/celex/32001R2070) — [REGULAMENTO (CE) N.º 2070/2001 DA COMISSÃO de 23 de Outubro de 2001](http://publications.europa.eu/resource/celex/32001R2070) — L 280 — 3 — 24.10.2001
-- [►M4](http://publications.europa.eu/resource/celex/32002R1249) — [REGULAMENTO (CE) N.º 1249/2002 DA COMISSÃO de 11 de Julho de 2002](http://publications.europa.eu/resource/celex/32002R1249) — L 183 — 5 — 12.7.2002
-- [►M6](http://publications.europa.eu/resource/celex/32002R2383) — [REGULAMENTO (CE) N.º 2383/2002 DA COMISSÃO de 30 de Dezembro de 2002](http://publications.europa.eu/resource/celex/32002R2383) — L 358 — 122 — 31.12.2002
-- [►M7](http://publications.europa.eu/resource/celex/32003R1780) — [REGULAMENTO (CE) N.º 1780/2003 DA COMISSÃO de 10 de Outubro de 2003](http://publications.europa.eu/resource/celex/32003R1780) — L 260 — 6 — 11.10.2003
-- [►M8](http://publications.europa.eu/resource/celex/32004R1432) — [REGULAMENTO (CE) N.º 1432/2004 DA COMISSÃO de 10 de Agosto de 2004](http://publications.europa.eu/resource/celex/32004R1432) — L 264 — 6 — 11.8.2004
-
-## REGULAMENTO (CE) N.º 2366/98 DA COMISSÃO
 
 de 30 de Outubro de 1998
 

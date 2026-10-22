@@ -36,6 +36,111 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-03-03'
+version_history:
+  file: diretiva-ue-2003-54.versoes.json
+  count: 4
+  source_lastmod: '2011-03-03'
+  versions:
+  - date: '2003-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-07-08'
+    amending: eu:celex:32004L0085:por
+    amending_title: DIRECTIVA 2004/85/CE DO CONSELHO de 28 de Junho de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Normas técnicas
+    - Altera Artigo 19.º — Separação das contas
+    - Altera Artigo 26.º — Derrogações
+    - Altera Artigo 32.º — Destinatários
+    - Adita CAPÍTULO I
+    - Adita ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Adita CAPÍTULO II
+    - Adita REGRAS GERAIS PARA A ORGANIZAÇÃO DO SECTOR
+    - Adita CAPÍTULO III
+    - Adita PRODUÇÃO
+    - Adita CAPÍTULO IV
+    - Adita EXPLORAÇÃO DA REDE DE TRANSPORTE
+    - Adita CAPÍTULO V
+    - Adita EXPLORAÇÃO DA REDE DE DISTRIBUIÇÃO
+    - Adita CAPÍTULO VI
+    - Adita SEPARAÇÃO E TRANSPARÊNCIA DAS CONTAS
+    - Adita CAPÍTULO VII
+    - Adita ORGANIZAÇÃO DO ACESSO À REDE
+    - Adita CAPÍTULO VIII
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita ANEXO A
+    - Adita Medidas de protecção dos consumidores
+    - Adita ANEXO B
+    - Adita Quadro de correspondência
+    - Adita Notas
+    - Suprime CAPÍTULO I — ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime CAPÍTULO II — REGRAS GERAIS PARA A ORGANIZAÇÃO DO SECTOR
+    - Suprime CAPÍTULO III — PRODUÇÃO
+    - Suprime CAPÍTULO IV — EXPLORAÇÃO DA REDE DE TRANSPORTE
+    - Suprime CAPÍTULO V — EXPLORAÇÃO DA REDE DE DISTRIBUIÇÃO
+    - Suprime CAPÍTULO VI — SEPARAÇÃO E TRANSPARÊNCIA DAS CONTAS
+    - Suprime CAPÍTULO VII — ORGANIZAÇÃO DO ACESSO À REDE
+    - Suprime CAPÍTULO VIII — DISPOSIÇÕES FINAIS
+    - Suprime ANEXO A — Medidas de protecção dos consumidores
+    - Suprime ANEXO B — Quadro de correspondência
+  - date: '2008-01-23'
+    amending: eu:celex:32008L0003:por
+    amending_title: DIRECTIVA 2008/3/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Janeiro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Normas técnicas
+    - Altera Artigo 19.º — Separação das contas
+    - Altera Artigo 26.º — Derrogações
+    - Altera Medidas de protecção dos consumidores
+    - Altera Notas
+  - date: '2011-03-03'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime REGRAS GERAIS PARA A ORGANIZAÇÃO DO SECTOR
+    - Suprime Artigo 3.º — Obrigações de serviço público e protecção dos consumidores
+    - Suprime Artigo 4.º — Monitorização da segurança do fornecimento
+    - Suprime Artigo 5.º — Normas técnicas
+    - Suprime CAPÍTULO III
+    - Suprime PRODUÇÃO
+    - Suprime Artigo 6.º — Procedimento de autorização de novas capacidades
+    - Suprime Artigo 7.º — Concursos para a criação de novas capacidades
+    - Suprime CAPÍTULO IV
+    - Suprime EXPLORAÇÃO DA REDE DE TRANSPORTE
+    - Suprime Artigo 8.º — Designação dos operadores das redes de transporte
+    - Suprime Artigo 9.º — Atribuições dos operadores das redes de transporte
+    - Suprime Artigo 10.º — Separação dos operadores das redes de transporte
+    - Suprime Artigo 11.º — Despacho e compensação
+    - Suprime Artigo 12.º — Confidencialidade para os operadores de redes de transporte
+    - Suprime CAPÍTULO V
+    - Suprime EXPLORAÇÃO DA REDE DE DISTRIBUIÇÃO
+    - Suprime Artigo 13.º — Designação dos operadores das redes de distribuição
+    - Suprime Artigo 14.º — Atribuições dos operadores das redes de distribuição
+    - Suprime Artigo 15.º — Separação dos operadores das redes de distribuição
+    - Suprime Artigo 16.º — Confidencialidade para os operadores de redes de distribuição
+    - Suprime Artigo 17.º — Operadores de redes combinadas
+    - Suprime CAPÍTULO VI
+    - Suprime SEPARAÇÃO E TRANSPARÊNCIA DAS CONTAS
+    - Suprime Artigo 18.º — Direito de acesso à contabilidade
+    - Suprime Artigo 19.º — Separação das contas
+    - Suprime CAPÍTULO VII
+    - Suprime ORGANIZAÇÃO DO ACESSO À REDE
+    - Suprime Artigo 20.º — Acesso de terceiros
+    - Suprime Artigo 21.º — Abertura dos mercados e reciprocidade
+    - Suprime Artigo 22.º — Linhas directas
+    - Suprime Artigo 23.º — Entidades reguladoras
+    - Suprime CAPÍTULO VIII
+    - Suprime DISPOSIÇÕES FINAIS
 identifiers:
   celex: 32003L0054
   eli: http://data.europa.eu/eli/dir/2003/54/oj
@@ -50,7 +155,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/caeb5f68-61fd-4ea8-b3b5-00e692b1013c.0010
   content_url: http://publications.europa.eu/resource/cellar/f1a904a9-4585-4aa9-8eaf-89e9be5427ab.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0054-20110303
-  retrieved_at: '2026-10-22T02:35:56Z'
+  retrieved_at: '2026-10-22T14:54:52Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-16T17:04:42.806+01:00'
 integrity:
@@ -59,9 +164,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:56Z'
-  notes: Texto consolidado 02003L0054-20110303.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:52Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2003-54.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -350,16 +455,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:56Z'
+  checked_at: '2026-10-22T14:54:52Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02003L0054-20030804: versão indisponível (Sem expressão na língua por para CELEX 02003L0054-20030804.)'
   errors: []
 ---
 

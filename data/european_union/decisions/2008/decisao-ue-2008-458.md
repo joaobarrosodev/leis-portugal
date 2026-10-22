@@ -37,6 +37,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: decisao-ue-2008-458.versoes.json
+  count: 1
+  source_lastmod: '2012-09-20'
+  versions:
+  - date: '2008-06-27'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32008D0458
   eli: http://data.europa.eu/eli/dec/2008/458/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/841285b7-c93d-4b98-8eae-dfb8d61c367f.0018
   content_url: http://publications.europa.eu/resource/cellar/841285b7-c93d-4b98-8eae-dfb8d61c367f.0018.04/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:13:19Z'
+  retrieved_at: '2026-10-22T15:12:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T04:06:28.425+01:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:19Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:12:24Z'
+  notes: 1 versão(ões); histórico completo em decisao-ue-2008-458.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -145,21 +154,23 @@ relationships:
   date: '2013-10-23'
 article_structure:
   article_count: 40
-  section_count: 26
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 27
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:19Z'
+  checked_at: '2026-10-22T15:12:24Z'
   warnings:
-  - Versão consolidada 02008D0458-20120920 indisponível (A fonte devolveu HTTP 404 para http://publications.europa.eu/resource/cellar/38a1ebca-ab7d-495f-8eaf-10342b4c63ad.0018.04/DOC_1);
-    usado o texto do JO.
+  - '02008D0458-20090814: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008D0458-20100209: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008D0458-20110323: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008D0458-20120920: versão indisponível (HTTP 404 para http://publications.europa.eu/resource/cellar/38a1ebca-ab7d-495f-8eaf-10342b4c63ad.0018.04/DOC_1)'
   errors: []
 ---
 
-# DECISÃO DA COMISSÃO
+# 2008/458/CE: Decisão da Comissão, de 5 de Março de 2008
 
 de 5 de Março de 2008
 

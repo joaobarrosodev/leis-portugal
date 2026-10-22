@@ -39,6 +39,57 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-04-11'
+version_history:
+  file: regulamento-ue-2005-2111.versoes.json
+  count: 5
+  source_lastmod: '2023-04-11'
+  versions:
+  - date: '2005-12-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-07'
+    amending: eu:celex:32009R0596:por
+    amending_title: REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 3.º — Estabelecimento da lista comunitária
+    - Altera Artigo 8.º — Medidas de execução
+    - Altera Artigo 10.º — Âmbito de aplicação
+    - Altera Artigo 12.º — Direito ao reembolso do preço dos bilhetes ou a reencaminhamento
+    - Altera Artigo 17.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 15.º
+    - Adita ANEXO
+    - Adita Critérios comuns para apreciação de uma proibição de operação por motivos de segurança ao nível comunitário
+    - Suprime Artigo 15.º — Procedimento de comité
+  - date: '2018-09-11'
+    amending: eu:celex:32018R1139:por
+    amending_title: REGULAMENTO (UE) 2018/1139 DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de julho de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 15.º
+    - Suprime Notas
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 3.º — Estabelecimento da lista comunitária
+    - Altera Artigo 15.º
+    - Adita Artigo 8.º — Regras pormenorizadas
+    - Adita Artigo 14.º-A — Exercício da delegação
+    - Adita Artigo 14.º-B — Procedimento de urgência
+    - Adita Notas
+    - Suprime Artigo 8.º — Medidas de execução
+  - date: '2023-04-11'
+    amending: eu:celex:32023R0661:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/661 DA COMISSÃO de 2 de dezembro de 2022
+    changes:
+    - Altera Artigo 14.º-A — Exercício da delegação
+    - Altera Notas
+    - Adita Critérios comuns a considerar para a imposição de uma proibição de operação a nível da União
+    - Suprime Critérios comuns para apreciação de uma proibição de operação por motivos de segurança ao nível comunitário
 identifiers:
   celex: 32005R2111
   eli: http://data.europa.eu/eli/reg/2005/2111/oj
@@ -53,7 +104,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017
   content_url: http://publications.europa.eu/resource/cellar/fa426ddb-d889-11ed-a05c-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R2111-20230411
-  retrieved_at: '2026-10-22T02:45:16Z'
+  retrieved_at: '2026-10-22T15:00:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-02T09:45:40.111+01:00'
 integrity:
@@ -62,9 +113,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:16Z'
-  notes: Texto consolidado 02005R2111-20230411.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:00:55Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2005-2111.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -201,32 +252,20 @@ relationships:
   date: '2022-06-02'
 article_structure:
   article_count: 19
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:16Z'
-  warnings: []
+  checked_at: '2026-10-22T15:00:55Z'
+  warnings:
+  - '02005R2111-20060116: versão indisponível (Sem expressão na língua por para CELEX 02005R2111-20060116.)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 2111/2005 do Parlamento Europeu e do Conselho, de 14 de Dezembro de 2005
-
-> 02005R2111 — PT — 11.04.2023 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0596) — [REGULAMENTO (CE) N.º 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0596) — L 188 — 14 — 18.7.2009
-- [►M2](http://publications.europa.eu/resource/celex/32018R1139) — [REGULAMENTO (UE) 2018/1139 DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de julho de 2018](http://publications.europa.eu/resource/celex/32018R1139) — L 212 — 1 — 22.8.2018
-- [►M3](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [►M4](http://publications.europa.eu/resource/celex/32023R0661) — [REGULAMENTO DELEGADO (UE) 2023/661 DA COMISSÃO de 2 de dezembro de 2022](http://publications.europa.eu/resource/celex/32023R0661) — L 83 — 54 — 22.3.2023
-
-## REGULAMENTO (CE) N.º 2111/2005 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de Dezembro de 2005
 

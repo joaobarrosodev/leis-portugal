@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005R1688:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R1688-20111219",
+ "dre_path": null,
+ "source_lastmod": "2011-12-19",
+ "versions": [
+  {
+   "date": "2005-10-15",
+   "future": false,
+   "celex": "32005R1688",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ca169ac7d44a4567",
+    "c3d10c521e65ac88",
+    "4926321356ccee11",
+    "42a31b1e5333d484",
+    "46acff31506a2d7f",
+    "d58aa19d941ffe0a",
+    "52a94e542201bd5c",
+    "4171f96083dcbd16",
+    "f4dbd926599ca11e",
+    "869d4891ee66f395"
+   ]
+  }
+ ],
+ "fragments": {
+  "ca169ac7d44a4567": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Outubro de 2005\n\nque aplica o Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho no que diz respeito às garantias especiais relativas às salmonelas, aplicáveis às remessas de determinados ovos e carnes destinadas à Finlândia e à Suécia\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, que estabelece regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal [([^1])](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntr1-L_2005271PT.01001701-E0001), nomeadamente o artigo 9.º,\n\nConsiderando o seguinte:\n\n(1) Na momento da adesão, foram concedidas à Finlândia e à Suécia garantias complementares em matéria de salmonelas que abrangiam o comércio de carne fresca de bovinos e suínos, carne fresca de aves de capoeira e ovos de mesa, que foram alargadas à carne picada através da Directiva 94/65/CE do Conselho [([^2])](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntr2-L_2005271PT.01001701-E0002). Estas garantias foram fixadas em certas directivas, alteradas pelo Acto de Adesão da Áustria, Finlândia e Suécia, nomeadamente no que se refere aos alimentos, na Directiva 64/433/CEE do Conselho [([^3])](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntr3-L_2005271PT.01001701-E0003) relativamente à carne fresca, na Directiva 71/118/CEE do Conselho [([^4])](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntr4-L_2005271PT.01001701-E0004) relativamente à carne fresca de aves de capoeira e na Directiva 92/118/CEE do Conselho [([^5])](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntr5-L_2005271PT.01001701-E0005) relativamente aos ovos.\n\n(2) A partir de 1 de Janeiro de 2006, as Directiva 64/433/CEE, 71/118/CEE e 94/65/CE serão revogadas pela Directiva 2004/41/CE do Parlamento Europeu e do Conselho, de 21 de Abril de 2004, que revoga certas directivas relativas à higiene dos géneros alimentícios e às regras sanitárias aplicáveis à produção e à comercialização de determinados produtos de origem animal destinados ao consumo humano e altera as Directivas 89/662/CEE e 92/118/CEE do Conselho e a Decisão 95/408/CE do Conselho [([^6])](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntr6-L_2005271PT.01001701-E0006). A Directiva 92/118/CEE será alterada pela Directiva 2004/41/CE.\n\n(3) O artigo 4.º da Directiva 2004/41/CE dispõe que enquanto se aguarda a adopção das disposições necessárias com base nos Regulamentos (CE) n.º 852/2004 [([^7])](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntr7-L_2005271PT.01001701-E0007), n.º 853/2004, n.º 854/2004 do Parlamento Europeu e do Conselho [([^8])](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntr8-L_2005271PT.01001701-E0008) e na Directiva 2002/99/CE do Conselho [([^9])](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntr9-L_2005271PT.01001701-E0009), continuam a ser aplicáveis, *mutatis mutandis*, as normas de execução adoptadas com base nas directivas referidas nas Directiva 71/118/CEE e 94/65/CE e as adoptadas com base no anexo II da Directiva 92/118/CEE, com excepção da Decisão 94/371/CE do Conselho [([^10])](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntr10-L_2005271PT.01001701-E0010).\n\n(4) A partir de 1 de Janeiro de 2006, aplicar-se-ão, ao abrigo do Regulamento (CE) n.º 853/2004, novas regras em matéria de garantias especiais aplicáveis aos alimentos no que se refere às salmonelas.\n\n(5) É, portanto, necessário actualizar e complementar, conforme adequado, nos termos das novas disposições do Regulamento (CE) n.º 853/2004, as disposições de execução previstas na Decisão 95/168/CE da Comissão, de 8 de Maio de 1995, que estabelece, relativamente às salmonelas, as garantias complementares exigíveis aquando da expedição para a Finlândia e a Suécia de determinados tipos de ovos para consumo humano [([^11])](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntr11-L_2005271PT.01001701-E0011), na Decisão 95/409/CE do Conselho, de 22 de Junho de 1995, que estabelece as regras relativas às análises microbiológicas por amostragem a efectuar, em matéria de salmonelas, nas carnes frescas de bovinos e suínos destinadas à Finlândia e à Suécia [([^12])](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntr12-L_2005271PT.01001701-E0012), na Decisão 95/411/CE do Conselho, de 22 de Junho de 1995, que estabelece as regras relativas às análises microbiológicas por amostragem a efectuar, em matéria de salmonelas, nas carnes frescas de aves de capoeira destinadas à Finlândia e à Suécia [([^13])](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntr13-L_2005271PT.01001701-E0013) e na Decisão 2003/470/CE da Comissão, de 24 de Junho de 2003, relativa à autorização de determinados métodos alternativos a utilizar em análises microbiológicas de carnes destinadas à Finlândia e à Suécia [([^14])](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntr14-L_2005271PT.01001701-E0014). Além disso, é conveniente reunir todas as disposições num único regulamento da Comissão e revogar as decisões 95/168/CE, 95/409/CE, 95/411/CE e 2003/470/CE.\n\n(6) Devem também ser adoptadas disposições de execução para as novas garantias especiais estabelecidas no Regulamento (CE) n.º 853/2004 no que diz respeito à carne picada de aves de capoeira.\n\n(7) É conveniente estabelecer as regras relativas aos testes microbiológicos por amostragem, determinando o método da amostragem, o número de amostras a colher e o método de análise microbiológica das amostras.\n\n(8) Nas regras relativas aos métodos de amostragem, é conveniente fazer uma distinção, no que diz respeito à carne de bovinos e suínos, entre, por um lado, carcaças e meias carcaças e, por outro, quartos, cortes e peças mais pequenas, bem como, no que diz respeito à carne de aves de capoeira, entre, por um lado, carcaças inteiras e, por outro, partes de carcaças e miudezas.\n\n(9) Convém ter em conta métodos internacionais de amostragem e de análise microbiológica das amostras como métodos de referência, permitindo, ao mesmo tempo, a utilização de certos métodos alternativos que tenham sido validados e certificados como fornecendo garantias equivalentes.\n\n(10) É necessário actualizar ou estabelecer, consoante o caso, os modelos dos documentos comerciais e de certificação que acompanham as remessas e que declaram ou certificam que as garantias estão satisfeitas.\n\n(11) Nos termos do n.º 2, alíneas c) e d), do artigo 8.º do Regulamento (CE) n.º 853/2004, as garantias especiais não devem ser aplicáveis a remessas sujeitas a um programa reconhecido como equivalente ao aplicado pela Finlândia e pela Suécia ou a remessas de carne de bovinos e suínos e de ovos destinados a tratamentos especiais.\n\n(12) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "c3d10c521e65ac88": {
+   "fragment_id": "Artigo 1.º — Amostragem de carne de bovinos",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Amostragem de carne de bovinos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Amostragem de carne de bovinos\n\nA amostragem de carne de bovinos, incluindo carne picada mas excluindo preparados de carne e carne separada mecanicamente, destinada à Finlândia e à Suécia e sujeita a testes microbiológicos, é realizada em conformidade com o anexo I."
+  },
+  "4926321356ccee11": {
+   "fragment_id": "Artigo 2.º — Amostragem de carne de suínos",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Amostragem de carne de suínos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Amostragem de carne de suínos\n\nA amostragem de carne de suínos, incluindo carne picada mas excluindo preparados de carne e carne separada mecanicamente, destinada à Finlândia e à Suécia e sujeita a testes microbiológicos, é realizada em conformidade com o anexo I."
+  },
+  "42a31b1e5333d484": {
+   "fragment_id": "Artigo 3.º — Amostragem de carne de aves de capoeira",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Amostragem de carne de aves de capoeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Amostragem de carne de aves de capoeira\n\nA amostragem de carne de galinhas, perus, pintadas, patos e gansos, incluindo carne picada mas excluindo preparados de carne e carne separada mecanicamente, destinada à Finlândia e à Suécia e sujeita a testes microbiológicos, é realizada em conformidade com o anexo II."
+  },
+  "46acff31506a2d7f": {
+   "fragment_id": "Artigo 4.º — Amostragem dos bandos de origem de ovos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Amostragem dos bandos de origem de ovos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Amostragem dos bandos de origem de ovos\n\nA amostragem dos bandos de origem dos ovos destinados à Finlândia e à Suécia e sujeitos a testes microbiológicos é realizada em conformidade com o anexo III."
+  },
+  "d58aa19d941ffe0a": {
+   "fragment_id": "Artigo 5.º — Métodos microbiológicos para análise das amostras",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Métodos microbiológicos para análise das amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Métodos microbiológicos para análise das amostras\n\n1. Os testes microbiológicos para detecção de salmonelas a efectuar às amostras colhidas em conformidade com os artigos 1.º a 4.º são efectuados segundo a edição mais recente:\n\na) Da norma EN/ISO 6579 [([^15])](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntr15-L_2005271PT.01001701-E0015) («EN/ISO 6579»); ou\n\nb) Do método n.º 71 descrito pelo Comité Nórdico de Análises Alimentares (NMKL) [([^16])](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntr16-L_2005271PT.01001701-E0016) («método n.º 71»).\n\nSe os resultados dos testes microbiológicos forem objecto de contestação entre Estados-Membros, a edição mais recente da norma EN/ISO 6579 é considerada como método de referência.\n\n2. No entanto, no caso das amostras de carne de bovinos e suínos e de carne de aves de capoeira, podem utilizar-se para os testes microbiológicos de detecção de salmonelas os seguintes métodos analíticos, validados pela utilização de amostras de carne nos estudos de validação:\n\nMétodos que foram validados por comparação com as mais recentes edições da norma EN/ISO 6579 ou do método n.º 71 e, se for um método próprio, certificado por terceiros em conformidade com o protocolo estabelecido na norma EN/ISSO 16140 («EN/ISO 16140») ou outros protocolos aceites internacionalmente."
+  },
+  "52a94e542201bd5c": {
+   "fragment_id": "Artigo 6.º — Documentação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Documentação\n\n1. As remessas de carne referidas nos artigos 1.º, 2.º e 3.º são acompanhadas por um documento comercial conforme ao modelo que figura no anexo IV.\n\n2. As remessas de ovos referidas no artigo 4.º são acompanhadas por um certificado conforme ao modelo que figura no anexo V."
+  },
+  "4171f96083dcbd16": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nSão revogadas as Decisões 95/168/CE, 95/409/CE, 95/411/CE e 2003/470/CE."
+  },
+  "f4dbd926599ca11e": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 1 de Janeiro de 2006.\n\nO presente Regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 14 de Outubro de 2005.\n\n***Pela Comissão***\n\n**Markos KYPRIANOU**\n\n***Membro da Comissão***\n\n---"
+  },
+  "869d4891ee66f395": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntc1-L_2005271PT.01001701-E0001) [JO L 139 de 30.4.2004, p. 3](http://publications.europa.eu/resource/oj/JOL_2004_139_R_TOC). Regulamento rectificado no [JO L 226 de 25.6.2004, p. 22](http://publications.europa.eu/resource/oj/JOL_2004_226_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntc2-L_2005271PT.01001701-E0002) [JO L 368 de 31.12.1994, p. 10](http://publications.europa.eu/resource/oj/JOL_1994_368_R_TOC). Directiva alterada pelo Regulamento (CE) n.º 806/2003 ([JO L 122 du 16.5.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_122_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntc3-L_2005271PT.01001701-E0003) [JO 121 de 29.7.1964, p. 2012/64](http://publications.europa.eu/resource/oj/JOP_1964_121_R_TOC). Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 2003.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntc4-L_2005271PT.01001701-E0004) [JO L 55 de 8.3.1971, p. 23](http://publications.europa.eu/resource/oj/JOL_1971_055_R_TOC). Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 2003.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntc5-L_2005271PT.01001701-E0005) [JO L 62 de 15.3.1993, p. 49](http://publications.europa.eu/resource/oj/JOL_1993_062_R_TOC). Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 445/2004 da Comissão ([JO L 72 de 11.3.2004, p. 60](http://publications.europa.eu/resource/oj/JOL_2004_072_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntc6-L_2005271PT.01001701-E0006) [JO L 157 de 30.4.2004, p. 33](http://publications.europa.eu/resource/oj/JOL_2004_157_R_TOC). Directiva rectificada no [JO L 195 de 2.6.2004, p. 12](http://publications.europa.eu/resource/oj/JOL_2004_195_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntc7-L_2005271PT.01001701-E0007) [JO L 139 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_139_R_TOC). Regulamento rectificado pelo [JO L 226 de 25.6.2004, p. 3](http://publications.europa.eu/resource/oj/JOL_2004_226_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntc8-L_2005271PT.01001701-E0008) [JO L 139 de 30.4.2004, p. 206](http://publications.europa.eu/resource/oj/JOL_2004_139_R_TOC). Regulamento rectificado pelo [JO L 226 de 25.6.2004, p. 83](http://publications.europa.eu/resource/oj/JOL_2004_226_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntc9-L_2005271PT.01001701-E0009) [JO L 18 de 23.1.2003, p. 11](http://publications.europa.eu/resource/oj/JOL_2003_018_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntc10-L_2005271PT.01001701-E0010) [JO L 168 de 2.7.1994, p. 34](http://publications.europa.eu/resource/oj/JOL_1994_168_R_TOC).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntc11-L_2005271PT.01001701-E0011) [JO L 109 de 16.5.1995, p. 44](http://publications.europa.eu/resource/oj/JOL_1995_109_R_TOC). Decisão alterada pela Decisão 97/278/CE ([JO L 110 de 26.4.1997, p. 77](http://publications.europa.eu/resource/oj/JOL_1997_110_R_TOC)).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntc12-L_2005271PT.01001701-E0012) [JO L 243 de 11.10.1995, p. 21](http://publications.europa.eu/resource/oj/JOL_1995_243_R_TOC). Decisão alterada pela Decisão 98/227/CE ([JO L 87 de 21.3.1998, p. 14](http://publications.europa.eu/resource/oj/JOL_1998_087_R_TOC)).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntc13-L_2005271PT.01001701-E0013) [JO L 243 de 11.10.1995, p. 29](http://publications.europa.eu/resource/oj/JOL_1995_243_R_TOC). Decisão alterada pela Decisão 98/227/CE.\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntc14-L_2005271PT.01001701-E0014) [JO L 157 de 26.6.2003, p. 66](http://publications.europa.eu/resource/oj/JOL_2003_157_R_TOC).\n\n> [(^15^)](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntc15-L_2005271PT.01001701-E0015) EN/ISO 6579: Microbiologia de alimentos para consumo humano e para alimentação animal — Método horizontal para a detecção de *Salmonella spp*.\n\n> [(^16^)](http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07.0016.03/DOC_1#ntc16-L_2005271PT.01001701-E0016) Método NMKL n.º 71: *Salmonelas*. Detecção nos alimentos."
+  }
+ }
+}

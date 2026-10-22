@@ -36,6 +36,37 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-01-01'
+version_history:
+  file: decisao-ue-2004-3.versoes.json
+  count: 3
+  source_lastmod: '2021-01-01'
+  versions:
+  - date: '2004-01-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-01-01'
+    amending: eu:celex:32014D0105:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 24 de fevereiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 5.º
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita Notas
+    - Suprime ANEXO I — >POSIÇÃO NUMA TABELA>
+    - Suprime ANEXO II — Decisão revogada e alterações sucessivas
+    - Suprime ANEXO III — Quadro de correspondência
+  - date: '2021-01-01'
+    amending: eu:celex:32020D2113:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2020/2113 DA COMISSÃO de 16 de dezembro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera ANEXO I
+    - Altera Notas
 identifiers:
   celex: 32004D0003
   eli: http://data.europa.eu/eli/dec/2004/3(1)/oj
@@ -50,7 +81,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/50b51b4b-7307-4ea3-aafe-be6e6bcc6c7c.0010
   content_url: http://publications.europa.eu/resource/cellar/6c4a0653-6558-11eb-aeb5-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004D0003-20210101
-  retrieved_at: '2026-10-22T02:57:41Z'
+  retrieved_at: '2026-10-22T14:56:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-04-29T13:36:47.976+02:00'
 integrity:
@@ -59,9 +90,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:41Z'
-  notes: Texto consolidado 02004D0003-20210101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:24Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-2004-3.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -133,30 +164,19 @@ relationships:
   date: '1995-03-18'
 article_structure:
   article_count: 5
-  section_count: 3
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 4
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:41Z'
+  checked_at: '2026-10-22T14:56:24Z'
   warnings: []
   errors: []
 ---
 
 # 2004/3/CE: Decisão da Comissão, de 19 de Dezembro de 2003
-
-> 02004D0003 — PT — 01.01.2021 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014D0105) — [DECISÃO DE EXECUÇÃO DA COMISSÃO de 24 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014D0105) — L 56 — 16 — 26.2.2014
-- [►M2](http://publications.europa.eu/resource/celex/32020D2113) — [DECISÃO DE EXECUÇÃO (UE) 2020/2113 DA COMISSÃO de 16 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020D2113) — L 427 — 21 — 17.12.2020
-
-## DECISÃO DA COMISSÃO
 
 de 19 de Dezembro de 2003
 

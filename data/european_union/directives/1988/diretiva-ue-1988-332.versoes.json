@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31988L0332:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01988L0332-20020809",
+ "dre_path": null,
+ "source_lastmod": "2002-08-09",
+ "versions": [
+  {
+   "date": "1988-06-17",
+   "future": false,
+   "celex": "31988L0332",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cb1e7d06e369e03a",
+    "bb381e117df05f51",
+    "dc487a550b08fada",
+    "a39cff5b3b733686",
+    "33f714d561abb26c",
+    "700db1461130663a",
+    "d4e419bd4387c8e3",
+    "4016b6a4e4a3cd3b",
+    "ad2e2a672327158f",
+    "0397cac2446f1ef5"
+   ]
+  },
+  {
+   "date": "2002-08-09",
+   "future": false,
+   "celex": "01988L0332-20020809",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 9.º",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º"
+   ],
+   "fragments": [
+    "b1a662a75aabbe1d",
+    "b48c251ebd9c67dc",
+    "aa8d4219cae11236",
+    "0b9b732908289294",
+    "024a354a338174cb",
+    "e549a0e7305d5289"
+   ]
+  }
+ ],
+ "fragments": {
+  "cb1e7d06e369e03a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 88/332/CEE do Conselho de 13 de Junho de 1988 que altera determinadas directivas relativas à comercialização de sementes e propágulos de modo a estabelecer regras de execução para as disposições relativas às sementes e propágulos que satisfaçam exigências reduzidas** *Jornal Oficial nº L 151 de 17/06/1988 p. 0082 - 0083 Edição especial finlandesa: Capítulo 3 Fascículo 26 p. 0212 Edição especial sueca: Capítulo 3 Fascículo 26 p. 0212*\n\n*****\n\nDIRECTIVA DO CONSELHO\n\nde 13 de Junho de 1988\n\nque altera determinadas directivas relativas à comercialização de sementes e propágulos de modo a estabelecer regras de execução para as disposições relativas às sementes e propágulos que satisfaçam exigências reduzidas\n\n(88/332/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nConsiderando que as seguintes directivas, que estabelecem exigências para a comercialização de sementes e propágulos, contêm disposições ao abrigo das quais os Estados-membros podem ser autorizados a permitir, durante certo período, a comercialização de sementes ou propágulos de uma categoria submetida a exigências reduzidas ou de sementes ou propágulos de variedades não incluídas, nem nos catálogos comuns das variedades das espécies agrícolas e hortícolas, nem nos seus catálogos nacionais de variedades:\n\n- Directiva 66/400/CEE do Conselho, de 14 de Junho de 1966, relativa à comercialização de sementes de beterraba (3), com a última redacção que lhe foi dada pela Directiva 88/95/CEE (4),\n\n- Directiva 66/401/CEE do Conselho, de 14 de Junho de 1966, relativa à comercialização de sementes de plantas forrageiras (5), com a última redacção que lhe foi dada pela Directiva 87/480/CEE (6),\n\n- Directiva 66/402/CEE do Conselho, de 14 de Junho de 1966, relativa à comercialização de sementes de cereais (7), com a última redacção que lhe foi dada pela Directiva 87/120/CEE (8),\n\n- Directiva 66/403/CEE do Conselho, de 14 de Junho de 1966, relativa à comercialização de batatas de semente (9), com a última redacção que lhe foi dada pela Directiva 87/374/CEE (10),\n\n- Directiva 66/404/CEE do Conselho, de 14 de Junho de 1966, relativa à comercialização dos materiais florestais de reprodução (11), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 3768/85 (12),\n\n- Directiva 68/193/CEE do Conselho, de 9 de Abril de 1968, relativa à comercialização dos materiais de propagação vegetativa da vinha (13), com a última redacção que lhe foi dada pela Directiva 86/155/CEE (14),\n\n- Directiva 69/208/CEE do Conselho, de 30 de Junho de 1969, relativa à comercialização de sementes de plantas oleaginosas e de fibras (15), com a última redacção que lhe foi dada pela Directiva 87/480/CEE,\n\n- Directiva 70/458/CEE do Conselho, de 29 de Setembro de 1970, respeitante à comercialização das sementes de produtos hortícolas (16), com a última redacção que lhe foi dada pela Directiva 87/481/CEE (17);\n\nConsiderando que a adopção de regras de execução pode mostrar-se adequada para o efeito de uma aplicação mais eficiente dessas disposições;\n\nConsiderando que é conveniente que tais regras de execução sejam adoptadas em conformidade com o processo do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "bb381e117df05f51": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nAo artigo 17º da Directiva 66/400/CEE é aditado o seguinte número:\n\n« 3. As regras de execução do nº 1 podem ser adoptadas em conformidade com o processo estabelecido no artigo 21º »."
+  },
+  "dc487a550b08fada": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nAo artigo 17º da Directiva 66/401/CEE é aditado o seguinte número:\n\n« 3. As regras de execução do nº 1 podem ser adoptadas em conformidade com o processo estabelecido no artigo 21º »."
+  },
+  "a39cff5b3b733686": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nAo artigo 17º da Directiva 66/402/CEE é aditado o seguinte número:\n\n« 3. As regras de execução do nº 1 podem ser adoptadas em conformidade com o processo estabelecido no artigo 21º »."
+  },
+  "33f714d561abb26c": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nAo artigo 16º da Directiva 66/403/CEE é aditado o seguinte número:\n\n« 3. As regras de execução do nº 1 podem ser adoptadas em conformidade com o processo estabelecido no artigo 19º »."
+  },
+  "700db1461130663a": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nAo artigo 15º da Directiva 66/404/CEE é aditado o seguinte número:\n\n« 3. As regras de execução do nº 1 podem ser adoptadas em conformidade com o processo estabelecido no artigo 17º »."
+  },
+  "d4e419bd4387c8e3": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nAo artigo 14º da Directiva 68/193/CEE é aditado o seguinte número:\n\n« 3. As regras de execução do nº 1 podem ser adoptadas em conformidade com o processo estabelecido no artigo 17º »."
+  },
+  "4016b6a4e4a3cd3b": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nAo artigo 16º da Directiva 69/208/CEE é aditado o seguinte número:\n\n« 3. As regras de execução do nº 1 podem ser adoptadas em conformidade com o processo estabelecido no artigo 20º »."
+  },
+  "ad2e2a672327158f": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nAo artigo 33º da Directiva 70/458/CEE é aditado o seguinte número:\n\n« 3. As regras de execução do nº 1 podem ser adoptadas em conformidade com o processo estabelecido no artigo 40º »."
+  },
+  "0397cac2446f1ef5": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 13 de Junho de 1988.\n\nPelo Conselho\n\nO Presidente\n\nI. KIECHLE\n\n(1) JO nº C 287 de 14. 11. 1986, p. 4.\n\n(2) JO nº C 7 de 12. 1. 1987, p. 298.\n\n(3) JO nº 125 de 11. 7. 1966, p. 2290/66.\n\n(4) JO nº L 56 de 2. 3. 1988, p. 42.\n\n(5) JO nº 125 de 11. 7. 1966, p. 2298/66.\n\n(6) JO nº L 273 de 26. 9. 1987, p. 43.\n\n(7) JO nº 125 de 11. 7. 1966, p. 2309/66.\n\n(8) JO nº L 49 de 18. 2. 1987, p. 39.\n\n(9) JO nº 125 de 11. 7. 1966, p. 2320/66.\n\n(10) JO nº L 197 de 18. 7. 1987, p. 36.\n\n(11) JO nº 125 de 11. 7. 1966, p. 2326/66.\n\n(12) JO nº L 362 de 31. 12. 1985, p. 8.\n\n(13) JO nº L 93 de 17. 4. 1968, p. 15.\n\n(14) JO nº L 118 de 7. 5. 1986, p. 23.\n\n(15) JO nº L 169 de 10. 7. 1969, p. 3.\n\n(16) JO nº L 225 de 12. 10. 1970, p. 7.\n\n(17) JO nº L 273 de 26. 9. 1987, p. 45."
+  },
+  "b1a662a75aabbe1d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1988L0332 — PT — 09.08.2002 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0332:PT:NOT) [DIRECTIVA DO CONSELHO de 13 de Junho de 1988 que altera determinadas directivas relativas à comercialização de sementes e propágulos de modo a estabelecer regras de execução para as disposições relativas às sementes e propágulos que satisfaçam exigências reduzidas (88/332/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0332:PT:NOT) (JO L 151, 17.6.1988, p.82)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0054:PT:NOT) | [Directiva 2002/54/CE do Conselho de 13 de Junho de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0054:PT:NOT) | L 193 | 12 | 20.7.2002 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0055:PT:NOT) | [Directiva 2002/55/CE do Conselho de 13 de Junho de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0055:PT:NOT) | L 193 | 33 | 20.7.2002 |\n| [►M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0056:PT:NOT) | [Directiva 2002/56/CE do Conselho de 13 de Junho de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0056:PT:NOT) | L 193 | 60 | 20.7.2002 |\n| [►M4](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0057:PT:NOT) | [Directiva 2002/57/CE do Conselho de 13 de Junho de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0057:PT:NOT) | L 193 | 74 | 20.7.2002 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0332:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 13 de Junho de 1988\n\nque altera determinadas directivas relativas à comercialização de sementes e propágulos de modo a estabelecer regras de execução para as disposições relativas às sementes e propágulos que satisfaçam exigências reduzidas\n\n(88/332/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43.o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#E0002)),\n\nConsiderando que as seguintes directivas, que estabelecem exigências para a comercialização de sementes e propágulos, contêm disposições ao abrigo das quais os Estados-membros podem ser autorizados a permitir, durante certo período, a comercialização de sementes ou propágulos de uma categoria submetida a exigências reduzidas ou de sementes ou propágulos de variedades não incluídas, nem nos catálogos comuns das variedades das espécies agrícolas e hortícolas, nem nos seus catálogos nacionais de variedades:\n\n— Directiva 66/400/CEE do Conselho, de 14 de Junho de 1966, relativa à comercialização de sementes de beterraba ([3](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#E0003)), com a última redacção que lhe foi dada pela Directiva 88/95/CEE ([4](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#E0004)),\n\n— Directiva 66/401/CEE do Conselho, de 14 de Junho de 1966, relativa à comercialização de sementes de plantas forrageiras ([5](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#E0005)), com a última redacção que lhe foi dada pela Directiva 87/480/CEE ([6](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#E0006)),\n\n— Directiva 66/402/CEE do Conselho, de 14 de Junho de 1966, relativa à comercialização de sementes de cereais ([7](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#E0007)), com a última redacção que lhe foi dada pela Directiva 87/120/CEE ([8](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#E0008)),\n\n— Directiva 66/403/CEE do Conselho, de 14 de Junho de 1966, relativa à comercialização de batatas de semente ([9](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#E0009)), com a última redacção que lhe foi dada pela Directiva 87/374/CEE ([10](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#E0010)),\n\n— Directiva 66/404/CEE do Conselho, de 14 de Junho de 1966, relativa à comercialização dos materiais florestais de reprodução ([11](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#E0011)), com a última redacção que lhe foi dada pelo Regulamento (CEE) n.o 3768/85 ([12](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#E0012)),\n\n— Directiva 68/193/CEE do Conselho, de 9 de Abril de 1968, relativa à comercialização dos materiais de propagação vegetativa da vinha ([13](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#E0013)), com a última redacção que lhe foi dada pela Directiva 86/155/CEE ([14](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#E0014)),\n\n— Directiva 69/208/CEE do Conselho, de 30 de Junho de 1969, relativa à comercialização de sementes de plantas oleaginosas e de fibras ([15](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#E0015)), com a última redacção que lhe foi dada pela Directiva 87/480/CEE,\n\n— Directiva 70/458/CEE do Conselho, de 29 de Setembro de 1970, respeitante à comercialização das sementes de produtos hortícolas ([16](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#E0016)), com a última redacção que lhe foi dada pela Directiva 87/481/CEE ([17](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#E0017));\n\nConsiderando que a adopção de regras de execução pode mostrar-se adequada para o efeito de uma aplicação mais eficiente dessas disposições;\n\nConsiderando que é conveniente que tais regras de execução sejam adoptadas em conformidade com o processo do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DIRECTIVA:\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0054:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0332:PT:NOT)"
+  },
+  "b48c251ebd9c67dc": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAo artigo 17.o da Directiva 66/401/CEE é aditado o seguinte número:\n\n«3. As regras de execução do n.o 1 podem ser adoptadas em conformidade com o processo estabelecido no artigo 21.o»\n\n."
+  },
+  "aa8d4219cae11236": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAo artigo 17.o da Directiva 66/402/CEE é aditado o seguinte número:\n\n«3. As regras de execução do n.o 1 podem ser adoptadas em conformidade com o processo estabelecido no artigo 21.o»\n\n.\n\n[▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0056:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0332:PT:NOT)"
+  },
+  "0b9b732908289294": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAo artigo 15.o da Directiva 66/404/CEE é aditado o seguinte número:\n\n«3. As regras de execução do n.o 1 podem ser adoptadas em conformidade com o processo estabelecido no artigo 17.o»\n\n."
+  },
+  "024a354a338174cb": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAo artigo 14.o da Directiva 68/193/CEE é aditado o seguinte número:\n\n«3. As regras de execução do n.o 1 podem ser adoptadas em conformidade com o processo estabelecido no artigo 17.o»\n\n.\n\n[▼M4](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0057:PT:NOT) —————\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0055:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0332:PT:NOT)"
+  },
+  "e549a0e7305d5289": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n([1](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#src.E0001)) JO n.o C 287 de 14. 11. 1986, p. 4.\n\n([2](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#src.E0002)) JO n.o C 7 de 12. 1. 1987, p. 298.\n\n([3](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#src.E0003)) JO n.o 125 de 11. 7. 1966, p. 2290/66.\n\n([4](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#src.E0004)) JO n.o L 56 de 2. 3. 1988, p. 42.\n\n([5](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#src.E0005)) JO n.o 125 de 11. 7. 1966, p. 2298/66.\n\n([6](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#src.E0006)) JO n.o L 273 de 26. 9. 1987, p. 43.\n\n([7](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#src.E0007)) JO n.o 125 de 11. 7. 1966, p. 2309/66.\n\n([8](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#src.E0008)) JO n.o L 49 de 18. 2. 1987, p. 39.\n\n([9](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#src.E0009)) JO n.o 125 de 11. 7. 1966, p. 2320/66.\n\n([10](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#src.E0010)) JO n.o L 197 de 18. 7. 1987, p. 36.\n\n([11](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#src.E0011)) JO n.o 125 de 11. 7. 1966, p. 2326/66.\n\n([12](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#src.E0012)) JO n.o L 362 de 31. 12. 1985, p. 8.\n\n([13](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#src.E0013)) JO n.o L 93 de 17. 4. 1968, p. 15.\n\n([14](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#src.E0014)) JO n.o L 118 de 7. 5. 1986, p. 23.\n\n([15](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#src.E0015)) JO n.o L 169 de 10. 7. 1969, p. 3.\n\n([16](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#src.E0016)) JO n.o L 225 de 12. 10. 1970, p. 7.\n\n([17](http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1#src.E0017)) JO n.o L 273 de 26. 9. 1987, p. 45."
+  }
+ }
+}

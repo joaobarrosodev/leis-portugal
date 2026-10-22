@@ -36,6 +36,58 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-08-07'
+version_history:
+  file: diretiva-ue-2004-23.versoes.json
+  count: 2
+  source_lastmod: '2009-08-07'
+  versions:
+  - date: '2004-04-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-07'
+    amending: eu:celex:32009R0596:por
+    amending_title: REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Rastreabilidade
+    - Altera Artigo 9.º — Importação/exportação de tecidos e células de origem humana
+    - Altera Artigo 29.º — Comité
+    - Altera Artigo 33.º — Destinatários
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita Artigo 1.º — Objectivos
+    - Adita CAPÍTULO II
+    - Adita OBRIGAÇÕES DAS AUTORIDADES DOS ESTADOS-MEMBROS
+    - Adita Artigo 5.º — Supervisão da colheita de tecidos e células de origem humana
+    - Adita CAPÍTULO III
+    - Adita SELECÇÃO E AVALIAÇÃO DOS DADORES
+    - Adita Artigo 12.º — Princípios aplicáveis à dádiva de tecidos e células
+    - Adita CAPÍTULO IV
+    - Adita DISPOSIÇÕES RELATIVAS À QUALIDADE E SEGURANÇA DE TECIDOS E CÉLULAS
+    - Adita Artigo 16.º — Gestão da qualidade
+    - Adita CAPÍTULO V
+    - Adita INTERCÂMBIO DE INFORMAÇÕES, RELATÓRIOS E SANÇÕES
+    - Adita Artigo 25.º — Codificação da informação
+    - Adita CAPÍTULO VI
+    - Adita CONSULTA DOS COMITÉS
+    - Adita Artigo 28.º — Requisitos técnicos e respectiva adaptação ao progresso científico e técnico
+    - Adita CAPÍTULO VII
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita Artigo 31.º — Transposição
+    - Adita ANEXO
+    - Adita DADOS A FORNECER EM RELAÇÃO À DÁDIVA DE TECIDOS E/OU CÉLULAS
+    - Adita A. DADORES VIVOS
+    - Adita B. DADORES MORTOS
+    - Adita Notas
+    - Suprime CAPÍTULO I DISPOSIÇÕES GERAIS — Artigo 1.o
+    - Suprime CAPÍTULO II OBRIGAÇÕES DAS AUTORIDADES DOS ESTADOS-MEMBROS — Artigo 5.o
+    - Suprime CAPÍTULO III SELECÇÃO E AVALIAÇÃO DOS DADORES — Artigo 12.o
+    - Suprime CAPÍTULO IV DISPOSIÇÕES RELATIVAS À QUALIDADE E SEGURANÇA DE TECIDOS E CÉLULAS — Artigo 16.o
+    - Suprime CAPÍTULO V INTERCÂMBIO DE INFORMAÇÕES, RELATÓRIOS E SANÇÕES — Artigo 25.o
+    - Suprime CAPÍTULO VI CONSULTA DOS COMITÉS — Artigo 28.o
+    - Suprime CAPÍTULO VII DISPOSIÇÕES FINAIS — Artigo 31.o
+    - Suprime ANEXO — DADOS A FORNECER EM RELAÇÃO À DÁDIVA DE TECIDOS E/OU CÉLULAS
 identifiers:
   celex: 32004L0023
   eli: http://data.europa.eu/eli/dir/2004/23/oj
@@ -50,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1589d23a-1fd2-40aa-83cb-b8641cb53165.0010
   content_url: http://publications.europa.eu/resource/cellar/e68b4735-602b-42fc-8850-014ac7f0bde3.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0023-20090807
-  retrieved_at: '2026-10-22T02:41:24Z'
+  retrieved_at: '2026-10-22T14:56:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-30T04:37:15.204+01:00'
 integrity:
@@ -59,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:24Z'
-  notes: Texto consolidado 02004L0023-20090807.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:40Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2004-23.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -173,29 +225,19 @@ relationships:
   date: '2024-07-17'
 article_structure:
   article_count: 33
-  section_count: 18
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 19
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:24Z'
+  checked_at: '2026-10-22T14:56:40Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2004/23/CE do Parlamento Europeu e do Conselho, de 31 de Março de 2004
-
-> 2004L0023 — PT — 07.08.2009 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0596) — [REGULAMENTO (CE) N.º 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0596) — L 188 — 14 — 18.7.2009
-
-## DIRECTIVA 2004/23/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 31 de Março de 2004
 

@@ -34,6 +34,48 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-08-02'
+version_history:
+  file: diretiva-ue-2002-99.versoes.json
+  count: 2
+  source_lastmod: '2013-08-02'
+  versions:
+  - date: '2003-01-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-08-02'
+    amending: eu:celex:32013L0020:por
+    amending_title: DIRETIVA 2013/20/UE DO CONSELHO de 13 de maio de 2013; DECISÃO DE EXECUÇÃO DA COMISSÃO de 31 de julho
+      de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos gerais de polícia sanitária
+    - Altera Artigo 8.º — Cumprimento das regras comunitárias
+    - Altera Artigo 16.º
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera ANEXO V
+    - Adita CAPÍTULO I
+    - Adita CONDIÇÕES DE POLÍCIA SANITÁRIA APLICÁVEIS A TODAS AS FASES DE PRODUÇÃO, TRANSFORMAÇÃO E DISTRIBUIÇÃO DE PRODUTOS
+      DE ORIGEM ANIMAL NA COMUNIDADE
+    - Adita CAPÍTULO II
+    - Adita INTRODUÇÃO A PARTIR DE PAÍSES TERCEIROS
+    - Adita CAPÍTULO III
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita ANEXO I
+    - Adita Marca especial de identificação para a carne proveniente de um território ou parte de território que não satisfaz
+      todas as condições de polícia sanitária pertinentes
+    - Adita ANEXO IV
+    - Adita Princípios gerais da certificação
+    - Adita Notas
+    - Suprime CAPÍTULO I — CONDIÇÕES DE POLÍCIA SANITÁRIA APLICÁVEIS A TODAS AS FASES DE PRODUÇÃO, TRANSFORMAÇÃO E DISTRIBUIÇÃO
+      DE PRODUTOS DE ORIGEM ANIMAL NA COMUNIDADE
+    - Suprime CAPÍTULO II — INTRODUÇÃO A PARTIR DE PAÍSES TERCEIROS
+    - Suprime CAPÍTULO III — DISPOSIÇÕES FINAIS
+    - Suprime ANEXO I — Doenças com implicações no comércio de produtos de origem animal, para as quais foram introduzidas
+      medidas de controlo pela legislação comunitária
+    - Suprime ANEXO IV — Princípios gerais da certificação
 identifiers:
   celex: 32002L0099
   eli: http://data.europa.eu/eli/dir/2002/99/oj
@@ -48,7 +90,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/654f89ae-9573-41b1-bcd6-3e558395fb94.0010
   content_url: http://publications.europa.eu/resource/cellar/e66367d2-54a1-49b7-80e0-1f02c121235b.0018.04/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0099-20130802
-  retrieved_at: '2026-10-22T02:45:04Z'
+  retrieved_at: '2026-10-22T14:52:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-04T17:13:57.602+02:00'
 integrity:
@@ -57,9 +99,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:04Z'
-  notes: Texto consolidado 02002L0099-20130802.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:31Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2002-99.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -159,30 +201,19 @@ relationships:
   date: '2016-03-31'
 article_structure:
   article_count: 16
-  section_count: 13
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 14
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:04Z'
+  checked_at: '2026-10-22T14:52:31Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2002/99/CE do Conselho, de 16 de Dezembro de 2002
-
-> 2002L0099 — PT — 02.08.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013L0020) — [DIRETIVA 2013/20/UE DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0020) — L 158 — 234 — 10.6.2013
-- [►M2](http://publications.europa.eu/resource/celex/32013D0417) — [DECISÃO DE EXECUÇÃO DA COMISSÃO de 31 de julho de 2013](http://publications.europa.eu/resource/celex/32013D0417) — L 206 — 13 — 2.8.2013
-
-## DIRECTIVA 2002/99/CE DO CONSELHO
 
 de 16 de Dezembro de 2002
 

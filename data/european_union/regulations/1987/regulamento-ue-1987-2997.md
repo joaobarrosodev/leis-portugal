@@ -34,6 +34,27 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '1995-01-01'
+version_history:
+  file: regulamento-ue-1987-2997.versoes.json
+  count: 2
+  source_lastmod: '1995-01-01'
+  versions:
+  - date: '1987-10-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera ANEXO — Ajuda concedida aos produtores de lúpulo para a colheita de 1986
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989R1809:PT:NOT)
+    - Adita Artigo 3.º
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
 identifiers:
   celex: 31987R2997
   eli: http://data.europa.eu/eli/reg/1987/2997/oj
@@ -48,7 +69,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/20b31ae5-d8e4-4dec-b5a5-e0225adfab29.0011
   content_url: http://publications.europa.eu/resource/cellar/5572e544-1644-48e9-94c5-a3a8d4fd21a4.0009.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01987R2997-19950101
-  retrieved_at: '2026-10-22T02:55:02Z'
+  retrieved_at: '2026-10-22T14:35:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T16:06:34.049+01:00'
 integrity:
@@ -57,9 +78,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:55:02Z'
-  notes: Texto consolidado 01987R2997-19950101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:35:13Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1987-2997.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -129,15 +150,18 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:55:02Z'
+  checked_at: '2026-10-22T14:35:13Z'
   warnings:
-  - Não foi detetado o título principal no XHTML.
+  - '01987R2997-19871010: versão indisponível (Sem expressão na língua por para CELEX 01987R2997-19871010.)'
+  - '01987R2997-19890627: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01987R2997-19910101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01987R2997-19921123: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

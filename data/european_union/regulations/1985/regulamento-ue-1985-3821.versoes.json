@@ -1,0 +1,279 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31985R3821:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01985R3821-20160302",
+ "dre_path": null,
+ "source_lastmod": "2016-03-02",
+ "versions": [
+  {
+   "date": "1985-12-31",
+   "future": false,
+   "celex": "31985R3821",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "778abd9dceb3bd45",
+    "77a0682ca4e9a9b5",
+    "7c93584b95c01496",
+    "2000cc76e9c0d1ea",
+    "394578b0de28c1b2",
+    "f02fd909e53578dc",
+    "f55ee89e5742b49a",
+    "66afb63441c400b8",
+    "b07236d344f3043f",
+    "1d47c747b67cb31a",
+    "25b021e4c0959725",
+    "f29752fbf5f5d0bb",
+    "24dfa3bcfb8f1920",
+    "38fe07e97238b318",
+    "eac63f947b82fdfa",
+    "129edc5f2e243313",
+    "20fe065946b1065e",
+    "6adaef9aad8dfb68",
+    "b50a3df1bbaa4ca8",
+    "a34a5d326d0a295e",
+    "4c983008620996fe",
+    "ee8a1e449e8b0eea",
+    "3938853b87cac6b2",
+    "9f79efa79bbb0f52"
+   ]
+  },
+  {
+   "date": "2016-03-02",
+   "future": false,
+   "celex": "01985R3821-20160302",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I Princípios e âmbito de aplicação — Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime CAPÍTULO II Homologação — Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime CAPÍTULO III Instalação e controlo — Artigo 12º",
+    "Suprime CAPÍTULO IV Normas de utilização — Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime CAPÍTULO V Disposições finais — Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime Artigo 20º",
+    "Suprime Artigo 21º",
+    "Suprime ANEXO I CONDIÇÕES DE CONSTRUÇÃO, ENSAIO, INSTALAÇÃO E CONTROLO — I. DEFINIÇÕES",
+    "Suprime ANEXO II MARCA E CERTIFICADO DE HOMOLOGAÇÃO — I. MARCA DE HOMOLOGAÇÃO"
+   ],
+   "fragments": [
+    "9e29159d7b6403bb"
+   ]
+  }
+ ],
+ "fragments": {
+  "778abd9dceb3bd45": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 3821/85 do Conselho, de 20 de Dezembro de 1985, relativo à introdução de um aparelho de controlo no domínio dos transportes rodoviários** *Jornal Oficial nº L 370 de 31/12/1985 p. 0008 - 0021 Edição especial finlandesa: Capítulo 7 Fascículo 3 p. 0120 Edição especial espanhola: Capítulo 07 Fascículo 4 p. 0028 Edição especial sueca: Capítulo 7 Fascículo 3 p. 0120 Edição especial portuguesa: Capítulo 07 Fascículo 4 p. 0028*\n\nREGULAMENTO (CEE) Nº 3821/85 DO CONSELHO de 20 de Dezembro de 1985 relativo à introdução de um aparelho de controlo no domínio dos transportes rodoviários\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 75º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o Regulamento (CEE) nº 1463/70 (4), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 2828/77 (5), introduziu um aparelho de controlo no domínio dos transportes rodoviários;\n\nConsiderando que, tendo em conta as alterações a seguir enunciadas, é conveniente, num esforço de clareza, reunir num texto único o conjunto das disposições aplicáveis na matéria e, por consequência, revogar o Regulamento (CEE) nº 1463/70; que, todavia, é conveniente manter em vigor por um determinado periodo a isenção prevista no nº 1 do artigo 3º, para determinados transportes de passageiros;\n\nConsiderando que a utilizacão de um aparelho de controlo susceptível de indicar os grupos de tempo referidos no Regulamento (CEE) nº 3820/85 do Conselho, de 20 de Dezembro 1985, respeitante à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários (6), tem como objectivo assegurar um controlo eficaz destas disposições;\n\nConsiderando que a obrigação de utilizar um tal aparelho de controlo só pode ser imposta aos veículos matriculados nos Estados-membros; que, além disso, alguns desses veículos podem ser excluídos sem inconvenientes do âmbito de aplicação do presente regulamento;\n\nConsiderando que, em circunstâncias excepcionais, os Estados-membros deveriam ter poderes para, com a autorização da Comissão, isentar determinados veículos da aplicação das disposições do presente regulamento; que, em casos de urgência, tais isenções deveriam poder ser concedidas por tempo limitado, sem autorização prévia da Comissão;\n\nConsiderando que, para realizar um controlo eficaz, o aparelho deve ser de funcionamento seguro, emprego fácil e concebido de forma a excluir, ao máximo, as possibilidades de fraude; que, para este efeito, é nomeadamente importante que o aparelho de controlo forneça nas folhas individuais de cada condutor, indicações registadas, suficientemente precisas e facilmente identificiáveis, dos diferentes grupos de tempo;\n\nConsiderando que um registo automático de outros elementos relativos à marcha do veículo, tais como a velocidade e o percurso, pode contribuir significativamente para a segurança rodoviária e para a condução racional do veículo e que, consequentemente, parece oportuno prever que o aparelho registre igualmente esses elementos;\n\nConsiderando que é necessário fixar normas comunitárias de construção e de instalação dos aparelhos de controlo e prever um processo de homologação CEE, a fim de evitar qualquer entrave à matrícula dos veículos equipados com tais aparelhos de controlo bem como à sua entrada em circulação ou ao seu uso e à utilização de tais aparelhos em todo o território dos Estados-membros;\n\nConsiderando que, em caso de divergências entre Estados-membros relativamente a uma homologação CEE, é conveniente que a Comissão possa tomar uma decisão sobre o diferendo, quando os Estados-membros interessados não o tenham podido resolver num prazo de seis meses;\n\nConsiderando que seria útil, para a aplicação do presente regulamento e para evitar qualquer abuso, pôr à disposição dos condutores que o solicitem uma cópia das suas folhas de registo;\n\nConsiderando que os objectivos supramencionados de controlo dos tempos de trabalho e de repouso exigem que as entidades empregadoras e os condutores velem obrigatoriamente pelo bom funcionamento do aparelho, executando com cuidado as operações exigidas pela regulamentação;\n\nConsiderando que as disposições relativas ao número de folhas de registo que um condutor deve possuir devem ser modificadas em consequência da substituição da semana flexível pela semana fixa;\n\nConsiderando que o progresso da técnica exige uma rápida adaptação das normas técnicas definidas nos anexos do presente regulamento; que, para facilitar a aplicação das medidas necessárias para esse efeito, é conveniente prever um processo de estreita cooperação entre os Estados-membros e a Comissão no âmbito de um Comité Consultivo; (1) JO nº C 100 de 12.4.1984, p. 3 e JO nº C 223 de 3.9.1985, p. 5. (2) JO nº C 122 de 20.5.1985, p. 168. (3) JO nº C 104 de 25.4.1985, p. 4 e JO nº C 303 de 25.11.1985, p. 29. (4) JO nº L 164 de 27.7.1970, p. 1. (5) JO nº L 334 de 24.12.1977, p. 11. (6) JO nº L 370 de 31.12.1985, p. 1.\n\nConsiderando que é conveniente que os Estados-membros procedam a uma troca das informações disponíveis sobre as infracções verificadas;\n\nConsiderando que, com o objectivo de assegurar um funcionamento seguro e regular do aparelho de controlo, é conveniente prever condições uniformes para as verificações e controlos periódicos, a que o aparelho instalado deve ser submetido,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "77a0682ca4e9a9b5": {
+   "fragment_id": "CAPÍTULO I Princípios e âmbito de aplicação — Artigo 1º",
+   "type": "divisao",
+   "heading": "CAPÍTULO I Princípios e âmbito de aplicação — Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I Princípios e âmbito de aplicação — Artigo 1º\n\nO aparelho de controlo para efeitos do disposto no presente regulamento deve, no que se refere às condições de construção, instalação, utilização e controlo, corresponder às normas do presente regulamento, assim como às dos seus Anexos I e II, que dele fazem parte integrante."
+  },
+  "7c93584b95c01496": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nAs definições enumeradas no artigo 1º do Regulamento (CEE) nº 3820/85 são aplicáveis para efeitos do presente regulamento."
+  },
+  "2000cc76e9c0d1ea": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. O aparelho de controlo deve ser instalado e utilizado nos veículos afectos ao transporte rodoviário de passageiros ou de mercadorias matriculados num Estado-membro, com excepção dos veículos referidos no artigo 4º e no nº 1 do artigo 14º do Regulamento (CEE) nº 3820/85.\n\n2. Os Estados-membros podem isentar da aplicação do presente regulamento os veículos referidos no nº 1 do artigo 13º do Regulamento (CEE) 3820/85. Os Estados-membros informam a Comissão de qualquer isencão concedida em conformidade com o presente número.\n\n3. Os Estados-membros podem, após autorização da Comissão, dispensar da aplicação do presente Regulamento os veículos afectos aos transportes referidos no nº 2 do artigo 13º do Regulamento (CEE) nº 3820/85. Em casos urgentes, podem conceder uma isenção temporária por um período não superior a trinta dias, comunicando-a imediatamente à Comissão. A Comissão notifica os outros Estados-membros de qualquer isenção concedida em conformidade com o presente número.\n\n4. Os Estados-membros podem, em conformidade com o presente regulamento, exigir para os transportes nacionais a instalação e a utilização de um aparelho de controlo em todos os veículos para os quais o nº 1 não o exige."
+  },
+  "394578b0de28c1b2": {
+   "fragment_id": "CAPÍTULO II Homologação — Artigo 4º",
+   "type": "divisao",
+   "heading": "CAPÍTULO II Homologação — Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II Homologação — Artigo 4º\n\nQualquer pedido de homologação CEE para um modelo de aparelho de controlo ou de folha de registo, acompanhado dos documentos descritivos apropriados, será apresentado pelo fabricante ou pelo seu mandatário a um Estado-membro. Para o mesmo modelo de aparelho de controlo ou folha de registo, esse pedido só pode ser apresentado a um único Estado-membro."
+  },
+  "f02fd909e53578dc": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nCada Estado-membro concederá a homologação CEE a um modelo de aparelho de controlo ou a um modelo de folha de registo, desde que estes estejam em conformidade com o disposto no Anexo I e desde que esse Estado-membro esteja em condiçôes de verificar a conformidade da produção com o modelo homologado.\n\nAs alterações ou adjunções a realizar num modelo homologado devem ser objecto de uma homologação CEE complementar, por parte do Estado-membro que tiver concedido a primeira homologaçõa CEE."
+  },
+  "f55ee89e5742b49a": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs Estados-membros atribuirão ao requerente uma marca de homologação CEE, conforme ao modelo estabelecido no Anexo II, para cada modelo de aparelho de controlo ou de folha de registo que homologuem nos termos do artigo 5º"
+  },
+  "66afb63441c400b8": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nAs autoridades competentes do Estado-membro ao qual tenha sido apresentado um pedido de homologação, enviarão às autoridades competentes dos outros Estados-membros, no prazo de um mês, uma cópia da ficha de homologação acompanhada de uma cópia dos documentos descritivos necessários ou comunicar-lhes-ão a recusa de homologação para cada modelo de aparelho de controlo ou de folha de registo que homologuem ou recusem homologar; em caso de recusa, comunicarão os motivos justificativos da decisão."
+  },
+  "b07236d344f3043f": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Se o Estado-membro que tiver procedido à homologação CEE, referida no artigo 5º, verificar que aparelhos de controlo ou folhas de registo portadores da marca de homologação CEE, por ele atribuída, não estão em conformidade com o modelo que homologou, tomará as medidas necessárias para que seja assegurada a conformidade da produção com esse modelo. Essas medidas podem ir, se for caso disso, até à revogação da homogação CEE.\n\n2. O Estado-membro que tiver concedido uma homologação CEE deve revogála se o aparelho de controlo ou a folha de registo que foram objecto de homologação forem considerados como não estando em conformidade com o presente regulamento e os seus anexos, ou apresentem, durante a utilização, um defeito de ordem geral que os torne impróprios para o fim a que se destinam.\n\n3. Se o Estado-membro que tiver concedido uma homologação CEE for informado por um outro Estado-membro da existência de algum dos casos referidos nos nºs 1 e 2, tomará igualmente, após consulta deste último, as medidas previstas nos referidos nºs, sob reserva da aplicação do nº 5.\n\n4. O Estado-membro, que verificar a existência de algum dos casos previstos no nº 2, pode suspender a introdução no mercado e a utilização dos aparelhos de controlo ou das folhas, até nova decisão. O mesmo aplica-se nos casos previstos no nº 1, em relação aos aparelhos de controlo ou folhas dispensados da primeira verificação CEE, se o fabricante, após advertência, não os tiver posto em conformidade com o modelo aprovado ou com as exigências do presente regulamento.\n\nEm qualquer caso, as autoridades competentes dos Estados-membros informar-se-ão mutuamente e a Comissão, no prazo de um mês, sobre a revogação de uma homologação CEE concedida e sobre outras medidas tomadas em conformidade com os nºs 1, 2, e 3 bem como dos motivos justificativos dessa medida.\n\n5. Se o Estado-membro que tiver procedido à homologação CEE contestar a existência de qualquer dos casos previstos nos nºs 1 e 2, de que tiver sido informado, os Estados-membros interessados esforçar-se-ão por resolver o diferendo. A Comissão será regularmente informada sobre este assunto.\n\nQuando, no prazo de quatro meses a contar da data da informação referida no nº 3, as conversações entre os Estados-membros não conduzirem a um acordo, a Comissão, após consulta dos peritos de todos os Estados-membros e exame de todos os factores relevantes, por exemplo, de carácter económico e técnico, tomará uma decisão no prazo de seis meses, a qual será comunicada aos Estados-membros interessados e simultaneamente aos outros Estados-membros. A Comissão fixará, consoante os casos, o prazo para o início da aplicação da sua decisão."
+  },
+  "1d47c747b67cb31a": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. O requerente da homologação CEE para um modelo de folha de registo deve indicar, no seu requerimento, o(s) modelo(s) de aparelho(s) de controlo a que (aos quais) se destina essa folha e fornecer, para fins de ensaio da folha, um aparelho adequado do(s) tipo(s) apropriado(s).\n\n2. As autoridades competentes de cada Estado-membro devem indicar, no certificado de homologação do modelo da folha de registo, o(s) modelo(s) de aparelho(s) de controlo para o qual (para os quais) esse modelo de folha poderá ser utilizado."
+  },
+  "25b021e4c0959725": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros não podem recusar a matrícula ou proibir a circulação ou uso de veículos equipados com um aparelho de controlo por motivos relacionados com esse equipamento, se o aparelho apresentar a marca de homologação CEE, referida no artigo 6º, e da chapa de instalação referida no artigo 12º"
+  },
+  "f29752fbf5f5d0bb": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nQualquer decisão que recuse ou revogue a homologação de um modelo de aparelho de controlo ou de folha de registo, tomada por força do disposto no presente regulamento, deve ser fundamentada de modo preciso. A decisão será comunicada ao interessado, com a indicação das vias de recurso admitidas pela legislação em vigor nos Estados-membros e dos prazos em que esses recursos podem ser interpostos."
+  },
+  "24dfa3bcfb8f1920": {
+   "fragment_id": "CAPÍTULO III Instalação e controlo — Artigo 12º",
+   "type": "divisao",
+   "heading": "CAPÍTULO III Instalação e controlo — Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III Instalação e controlo — Artigo 12º\n\n1. Só serão autorizados a efectuar operações de instalação e de reparação do aparelho de controlo os instaladores ou oficinas aprovados para esse efeito pelas autoridades competentes dos Estados-membros, após ouvirem o parecer, se o desejarem, dos fabricantes interessados.\n\n2. O instalador ou oficina aprovados aplicarão uma marca especial sobre as selagens que efectuem. As autoridades competentes de cada Estado-membro organizarão um registo das marcas utilizadas.\n\n3. As autoridades competentes dos Estados-membros comunicar-se-ão mutuamente a relação dos instaladores ou oficinas aprovados e transmitir-se-ão mutuamente uma cópia das marcas utilizadas.\n\n4. A conformidade da instalação do aparelho de controlo com as normas do presente regulamento será certificada pela chapa da instalação aposta nas condições previstas no Anexo I."
+  },
+  "38fe07e97238b318": {
+   "fragment_id": "CAPÍTULO IV Normas de utilização — Artigo 13º",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV Normas de utilização — Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV Normas de utilização — Artigo 13º\n\nO empregador e os condutores velarão pelo bom funcionamento e por uma utilização correcta do aparelho."
+  },
+  "eac63f947b82fdfa": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. O empregador distribuirá aos condutores o número suficiente de folhas de registo, tendo em conta o carácter individual dessas folhas, a duração do serviço e a exigência de substituir, eventualmente, as folhas danificadas ou apreendidas por um agente encarregado do controlo. O empregador apenas entregará aos condutores folhas de um modelo homologado, adequadas ao aparelho instalado no veículo.\n\n2. A empresa deve conservar as folhas de registo, em boa ordem, durante um período de, pelo menos, um ano a partir da sua utilização e remeter uma cópia aos condutores interessados, caso estes o exijam. As folhas devem ser apresentadas ou remetidas a pedido dos agentes encarregados do controlo."
+  },
+  "129edc5f2e243313": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\n1. Os condutores não podem utilizar folhas de registo sujas ou danificadas. Por conseguinte, devem ser protegidas de forma adequada.\n\nNo caso de se danificar uma folha que contenha registos, os condutores devem juntar a folha danificada à fohla de reserva utilizada para a substituir.\n\n2. Os condutores devem utilizar as folhas de registo sempre que conduzem, a partir do momento em que tomem o veículo a seu cargo. A folha de registo não pode ser retirada antes do fim do período de trabalho diário, a menos que esta operação seja autorizada de outra forma. Nenhuma folha de registo pode ser utilizada por um período mais longo do que aquele para o qual foi destinada.\n\nQuando, em virtude do seu afastamento do veículo, os condutores não possam utilizar os elementos do aparelho instalado no veículo, os períodos de tempo indicados nas alíneas b), c) e d) do segundo travessão do nº 3, devem figurar na folha de registo por inscrição manual, registo automático ou qualquer outro processo, de forma legível e sem sujar as folhas.\n\n3. Os condutores devem: - certificar-se da concordância entre a marcação horária na folha e a hora legal do país onde o veículo foi matriculado,\n\n- preocupar-se em accionar os dispositivos de comutação que permitem distinguir os seguintes grupos de tempo a registar: >PIC FILE= \"T0028093\"> >PIC FILE= \"T0028094\">\n\n4. Cada Estado-membros pode permitir, para as folhas de registo utilizadas para os veículos matriculados no seu território, que todos os períodos referidos nas alíneas b), c) e d), segundo travessão do nº 3, sejam registados sob o símbolo.\n\n5. O condutor deve anotar na folha de registo as seguintes indicações: a) Nome e apelido, no início da utilização da folha;\n\nb) A data e o lugar, no início e no fim da utilização da folha;\n\nc) Número da placa de matrícula do veículo a que tiver estado afecto antes da primeira viagem registada na folha e em seguida, em caso de mudança de veículo, durante a utilização da folha;\n\nd) Leitura do conta-quilómetros: - antes da primeira viagem registada na folha,\n\n- no fim da última viagem anotada na folha,\n\n- em caso de mudança de veículo durante o dia de trabalho (contador do veículo a que esteve afecto e contador do veículo a que vai estar afecto);\n\ne) Se for caso disso, a hora de mudança de veículo.\n\n6. O aparelho deve ser concebido de forma a permitir que os agentes encarregados do controlo possam ler, após eventual abertura do aparelho, os registos relativos às nove horas anteriores à hora do controlo, sem deformar de forma permanente, danificar ou sujar a folha.\n\nPor outro lado, o aparelho deve ser concebido de forma a permitir verificar, sem abertura da caixa, se os registos estão a ser efectuados.\n\n7. O condutor deve estar em condições de apresentar, a qualquer pedido dos agentes encarregados do controlo, as folhas de registo da semana em curso e, em todo o caso, a folha do último dia da semana precedente, no decurso do qual conduziu."
+  },
+  "20fe065946b1065e": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\n1. Em caso de avaria ou de funcionamento defeituoso do aparelho, o empregador deve, assim que as circunstâncias o permitam, promover a sua reparação por instaladores ou oficinas aprovadas.\n\nA reparação será efectuada no percurso, se o regresso às instalações de empresa só se puder efectuar decorrido um período superior a uma semana, a partir do dia da avaria ou da verificação do funcionamento defeituoso.\n\nOs Estados-membros podem tomar medidas, no âmbito das disposições previstas no artigo 19º, no sentido de atribuir às autoridades competentes a faculdade de proibirem o uso do veículo, nos casos em que a avaria ou o funcionamento defeituoso não sejam reparados nas condições acima fixadas.\n\n2. Durante o periodo da avaria ou de funcionamento defeituoso do aparelho, os condutores devem anotar as indicações relativas aos diferentes grupos de tempo, na medida em que estes não sejam registados de forma correcta pelo aparelho, na (ou nas) folha(s) de registo, ou numa folha «ad hoc» a juntar à folha de registo."
+  },
+  "6adaef9aad8dfb68": {
+   "fragment_id": "CAPÍTULO V Disposições finais — Artigo 17º",
+   "type": "divisao",
+   "heading": "CAPÍTULO V Disposições finais — Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V Disposições finais — Artigo 17º\n\nAs alterações que forem necessárias para adaptar os anexos do presente regulamento ao progresso técnico serão adoptadas em conformidade com o processo previsto no artigo 18º"
+  },
+  "b50a3df1bbaa4ca8": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\n1. É instituído um Comité para a adaptação do presente regulamento ao progresso técnico, a seguir denominado «Comité», composto por representantes dos Estados-membros e presidido por um representante la Comissão.\n\n2. O Comité estabelecerá o seu regulamento interno.\n\n3. No caso de ser feita referência ao processo definido no presente artigo, o Comité será convocado pelo seu presidente, que por sua própria iniciativa, quer a pedido do representante de um Estado-membro.\n\n4. O representante da Comissão submeterá ao Comité um projecto das disposições a tomar. O Comité emitirá o seu parecer sobre o projecto no prazo que o presidente pode fixar em função da urgência da questão em causa. O Comité pronuncia-se por maioria qualificada em conformidade com o disposto no nº 2 do artigo 148º do Tratado CEE. O presidente não participa na votação.\n\n5. a) A Comissão adoptará as disposições preconizadas quando estiverem em conformidade com o parecer do Comité;\n\nb) Quando as disposições preconizadas não estiverem em conformidade com o parecer do Comité, ou na falta de parecer, a Comissão submeterá sem demora ao Conselho uma proposta sobre as disposições a tomar. O Conselho delibera por maioria qualificada.\n\nc) Se, findo o prazo de três meses a contar da apresentação da proposta ao Conselho, este não tiver deliberado, as disposições propostas serão adoptadas pela Comissão."
+  },
+  "a34a5d326d0a295e": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\n1. Os Estados-membros adoptarão, atempadamente, e após consulta da Comissão, as disposições legislativas, regulamentares e administrativas necessárias à execução do presente regulamento.\n\nEssas disposições incidirão, entre outras matérias, sobre a organização, o processo e os instrumentos de controlo, assim como sobre as sanções aplicáveis em caso de infracção.\n\n2. Os Estados-membros prestar-se-ão assistência mútua tendo em vista a aplicação das disposições do presente regulamento e do seu controlo.\n\n3. No âmbito desta assistência mútua, as autoridades competentes dos Estados-membros comunicar-se-ão mutuamente com regularidade todas as informações disponiveis que dizem respeito a: - infracções ao presente regulamento cometidas por não residentes e a qualquer sanção aplicada por força de tais infracções,\n\n- sanções aplicadas por um Estado-membro aos seus residentes por força de tais infracções cometidas noutros Estados-membros."
+  },
+  "4c983008620996fe": {
+   "fragment_id": "Artigo 20º",
+   "type": "artigo",
+   "heading": "Artigo 20º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º\n\nO Regulamento (CEE) nº 1463/70 é revogado.\n\nNão obstante, no nº 1 do artigo 3º do referido regulamento continua a ser aplicável, até 31 de Dezembro 1989, aos veículos e aos condutores afectos aos transportes internacionais regulares de passageiros, na medida em que os veículos que efectuam estes serviços não estão equipados com um aparelho de controlo utilizado em conformidade com o presente regulamento."
+  },
+  "ee8a1e449e8b0eea": {
+   "fragment_id": "Artigo 21º",
+   "type": "artigo",
+   "heading": "Artigo 21º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21º\n\nO presente regulamento entra em vigor em 29 de Setembro de 1986.\n\nO presente regulamento é obrigatorio em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 20 de Dezembro de 1985.\n\nPelo Conselho\n\nO Presidente\n\nR. KRIEPS"
+  },
+  "3938853b87cac6b2": {
+   "fragment_id": "ANEXO I CONDIÇÕES DE CONSTRUÇÃO, ENSAIO, INSTALAÇÃO E CONTROLO — I. DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "ANEXO I CONDIÇÕES DE CONSTRUÇÃO, ENSAIO, INSTALAÇÃO E CONTROLO — I. DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I CONDIÇÕES DE CONSTRUÇÃO, ENSAIO, INSTALAÇÃO E CONTROLO — I. DEFINIÇÕES\n\nPara efeitos do disposto no presente anexo, entende-se por: a) Aparelho de controlo:\n\nAparelho destinado a ser instalado a bordo de veículos rodoviários para indicação e registo automático ou semi-automático de dados sobre a marcha desses veículos, assim como sobre certos tempos de trabalho dos seus condutores;\n\nb) Folha de registo:\n\nFolha concebida para receber e fixar registos, a colocar no aparelho de controlo e sobre o qual os dispositivos de marcação deste inscreverão de forma contínua os diagramas dos dados a registar;\n\nc) Constante do aparelho de controlo:\n\nCaracterística numérica que dá o valor do sinal de entrada necessário para obter a indicação e o registo do percurso de uma distância de 1 km; essa constante deve ser expressa quer em rotações por quilómetro (k =... tr/km), quer em impulsos por quilómetro (W =... imp/km);\n\nd) Coeficiente caracteristico do veículo:\n\nCaracterística numérica que dá o valor do sinal de saída emitido pela peça prevista no veículo que faz a ligação deste ao aparelho de controlo (na saída da caixa de velocidades ou nas rodas do veículo, conforme os casos), sempre que o veículo percorrer a distância de 1 km medida em condições normais de ensaio (ver nº 4 do Capítulo VI do presente anexo). O coeficiente caracteristico é expresso quer em rotações por quilómetreo (w =... r/km), quer em impulsos por quilómetro (w =... imp/km);\n\ne) Circunferência efectiva dos pneus das rodas:\n\nMédia das distâncias percorridas por cada uma das rodas de tracção do veículo (rodas motores) quando de uma rotação completa. A medição dessas distâncias deve ser feita em condições normais de ensaio (ver nº 4 do Capítulo VI do presente anexo) e é expressa sob a forma: 1 =... mm.\n\nII. CARACTERÍSTICAS GERAIS E FUNÇÕES DO APARELHO DE CONTROLO\n\nO aparelho de controlo deverá fornecer o registo dos seguintes elementos: 1) Distância percorrida pelo veículo.\n\n2) Velocidade do veículo.\n\n3) Tempo de condução.\n\n4) Outros grupos de tempo de trabalho e de tempo disponível.\n\n5) Interrupções de trabalho e tempos de repouso diários.\n\n6) Abertura da caixa que contém a folha de registo.\n\nPara os veículos que utilizam dois condutores, o aparelho deve permitir o registo simultâneo e diferenciado, em duas folhas distintas, dos grupos de tempo referidos em 3), 4) e 5).\n\nIII. REQUISITOS DE CONSTRUÇÃO DO APARELHO DE CONTROLO\n\na) Generalidades 1. O aparelho de controlo deve incluir os seguintes dispositivos 1.1. Dispositivos indicadores: - da distância percorrida (contador totalizador),\n\n- da velocidade (taquímetro),\n\n- do tempo (relógio).\n\n1.2. Dispositivos de registo incluindo: - um registador de distância percorrida,\n\n- um registador da velocidade,\n\n- um ou mais registadores do tempo, que preencham as condições fixadas no nº 4, alínea c), do Capítulo III.\n\n1.3. Um dispositivo de marcação que assinale na folha de registo qualquer abertura da caixa que contém essa folha.\n\n2. A eventual inclusão no aparelho de outros dispositivos além dos acima enumerados não deve comprometer o bom funcionamento dos dispositivos obrigatórios, nem dificultar a sua leitura.\n\nO aparelho deve ser submetido a homologação munido desses dispositivos complementares eventuais.\n\n3. Materiais 3.1. Todos os elementos constitutivos do aparelho de controlo devem ser feitos de materiais com estabilidade e resistência mecânica suficientes e com características eléctricas e magnéticas invariáveis.\n\n3.2. Qualquer alteração de um elemento do aparelho ou da natureza dos materiais utilizados no seu fabrico deve ser aprovada, antes da utilização, pela autoridade que tiver homologado o aparelho.\n\n4. Medição da distância percorrida\n\nAs distâncias percorridas podem ser totalizadas e registadas: - quer em marcha em frente e marcha atrás,\n\n- quer apenas em marcha em frente.\n\nO eventual registo das manobras de marcha atrás não deve em nada afectar a clareza e a precisão dos outros registos.\n\n5. Medição da velocidade 5.1. O campo da medida de velocidade será fixado pelo certificado de homologação do modelo.\n\n5.2. A frequência natural e o dispositivo de amortecimento do mecanismo de medição devem ser tais que os dispositivos de indicação e de registo da velocidade possam, dentro do campo de medida, seguir as mudanças de aceleração até 2 m/s2 dentro dos limites de tolerância admitidos.\n\n6. Medição do tempo (relógio) 6.1. O comando do dispositivo de ajustamento da hora deve encontrar-se no interior de uma caixa que contém a folha de registo; cada abertura dessa caixa será assinalada automaticamente na folha de registo.\n\n6.2. Se o mecanismo que faz avançar a folha de registo for comandado pelo relógio, a duração do funcionamento correcto deste, após corda completa, deve ser superior em, pelo menos, 10 % à duração do registo correspondentes à carga máxima do aparelho em folha(s).\n\n7. Iluminação e protecção 7.1. Os dispositivos indicadores do aparelho devem estar munidos de uma iluminação adequada, não ofuscante.\n\n7.2. Em condições normais de utilização, todas as partes internas do aparelho devem estar protegidas da humidade e do pó. Além disso, devem estar protegidas de qualquer violação por meio de invólucros selados.\n\nb) Dispositivos indicadores 1. Indicador da distância percorrida (contador totalizador) 1.1. A divisão mínima do dispositivo indicador da distância percorrida deve ser de 0,1 km. Os algarismos que exprimen os hectómetros devem poder distinguir-se dos que exprimem números inteiros de quilómetros.\n\n1.2. Os algarismos do contador totalizador devem ser claramente legíveis e ter uma altura visível de, pelo menos, 4 mm.\n\n1.3. O contador totalizador deve poder indicar, pelo menos, até 99 999,9 km.\n\n2. Indicador da velocidade (taquímetro) 2.1. No interior do campo de medida, a escala da velocidade deve ser graduada uniformemente por 1, 2, 5 ou 10 km/h. O valor de uma divisão da velocidade (espaço compreendido entre duas marcas sucessivas) não deve exceder 10 % da velocidade máxima que figurar no fim da escala.\n\n2.2. O espaço para além do campo de medida não deve ser numerado.\n\n2.3. O comprimento de cada divisão correspondente a uma diferença de velocidade de 10 km/h não deve ser inferior a 10 mm.\n\n2.4. Num indicador com ponteiro, a distância entre este e o mostrador não deve ultrapassar 3 mm.\n\n3. Indicador de tempo (relógio)\n\nO indicador de tempo deve ser visível do exterior do aparelho e a sua leitura deve ser segura, fácil e não ambígua.\n\nc) Dispositivos registadores 1. Generalidades 1.1. Em todos os aparelhos, qualquer que seja a forma da folha de registo (fita ou disco), deve ser prevista uma marca que permita a colocação correcta da folha de registo, de forma a que seja assegurada a correspondência entre a hora indicada pelo relógio e a marcação horária na folha.\n\n1.2. O mecanismo que movimenta a folha de registo deve garantir que esse movimento se efectue sem manipulação e que a folha possa ser colocada e retirada livremente.\n\n1.3. O dispositivo que faz avançar a folha de registo, nos casos em que esta tenha a forma de um disco, será comandado pelo mecanismo do relógio. Neste caso, o movimento de rotação da folha será contínuo e uniforme, com uma velocidade mínima de 7 mm/h medida no bordo interior da coroa circular que delimita a zona de registo da velocidade.\n\nNos aparelhos com fita, quando o dispositivo que faz avançar as folhas for comandado pelo mecanismo do relógio, a velocidade do avanço rectilíneo será, no mínimo, de 10 mm/h.\n\n1.4. Os registos da distância percorrida, da velocidade do veículo e da abertura da caixa contendo a(s) folha(s) de registo devem ser automáticos.\n\n2. Registo da distância percorrida 2.1. Todo o percurso de uma distância de 1 km deve ser representado no diagrama por uma variação de, pelo menos, 1 mm da coordenada correspondente.\n\n2.2. Mesmo a velocidade que se situe no limite superior do campo da medida, o diagrama dos percursos deve ser também claramente legível.\n\n3. Registo da velocidade 3.1. O estilete de registo da velocidade deve, em princípio, ter um movimento rectilíneo e perpendicular à direcção de deslocação da folha de registo, qualquer que seja a forma desta.\n\nTodavia, pode ser admitido um movimento curvilíneo do estilete, se forem preenchidas as seguintes condições: - o traçado descrito pelo estilete deve ser perpendicular à circunferência média (no caso de folhas em forma de disco) ou ao eixo da zona reservada ao registo da velocidade (no caso de folhas em forma de fita),\n\n- a relação entre o raio de curvatura do traçado descrito pelo estilete e a largura da zona reservada ao registo da velocidade não deve ser inferior a 2,4: 1, qualquer que seja a forma da folha de registo,\n\n- os vários traços da escala de tempo devem atravessar a zona de registo segundo uma curva do mesmo raio que o traçado descrito pelo estilete. A distância entre os traços da escala de tempo deve corresponder, no máximo, a 1 hora.\n\n3.2. Qualquer variação de 10 km/h da velocidade deve ser representada no diagrama por uma variação minima de 1,5 mm da coordenada correspondente.\n\n4. Registo dos grupos de tempo 4.1. O aparelho de controlo deve ser construído de tal forma que, através da eventual manobra de um dispositivo de comutação, seja possível o registo automático e diferenciado dos quatro grupos de tempo, tal como indicados no artigo 15º do regulamento.\n\n4.2. As características dos traçados, as suas posições relativas e, eventualmente, os símbolos previstos no artigo 15º do regulamento devem permitir distinguir claramente a natureza dos diferentes grupos de tempo.\n\nA natureza dos diferentes grupos de tempo será representada no diagrama por diferenças de espessura dos traçados a ele respeitantes ou por qualquer outro sistema de eficácia no mínimo igual, do ponto de vista da legilibilidade e interpretação do diagrama.\n\n4.3. No caso de veículos utilizados por uma tripulação composta por vários condutores, os registos referidos no ponto 4.1. precedente devem ser efectuados em duas folhas distintas, cabendo uma a cada condutor. Neste caso, o avanço das várias folhas deve ser assegurado pelo mesmo mecanismo ou por mecanismos sincronizados.\n\nd) Dispositivo de fecho 1. A caixa que contém a(s) folha(s) de registo e o comando do dispositivo de ajustamento da hora deverá ser provida de uma fechadura.\n\n2. Qualquer abertura da caixa que contém a(s) folha(s) de registo e o comando do dispositivo de ajustamento da hora deverá ser automaticamente registada na(s) folha(s).\n\ne) Inscrições 1. No mostrador do aparelho devem figurar as seguintes inscrições: - próximo do número indicado pelo contador totalizador, a unidade de medida das distâncias sob a forma do seu simbolo «km»,\n\n- próximo da escala das velocidades, a indicação «km/h»,\n\n- o campo de medida do taquímetro, sob a forma «Vmin... km/h, Vmax... km/h». Esta indicação não é necessária se figurar na placa sinalética do aparelho.\n\nTodavia, estas disposições não são aplicáveis aos aparelhos de controlo homologados antes de 10 de Agosto de 1970.\n\n2. Na chapa sinalética, incorporada no próprio aparelho, devem constar as seguintes indicações que devem ser visíveis no aparelho instalado: - nome e endereço do fabricante do aparelho,\n\n- nº de fabrico e ano de construção,\n\n- marca de homologação do modelo do aparelho,\n\n- a constante do aparelho sob a forma «K =... r/km» ou «k =... imp/km»,\n\n- eventualmente, o campo de medida da velocidade, sob a forma indicada no ponto 1 precedente,\n\n- se a sensibilidade do instrumento no ângulo de inclinação for susceptível de influenciar as indicações dadas pelo aparelho para além das tolerâncias admitidas, a orientação angular admissível deve ter a forma: >PIC FILE= \"T0028096\">\n\nf) Erros máximos tolerados (dispositivos indicadores e registadores) 1. No banco de ensaio antes da instalação: a) Distância percorrida:\n\n1 %, para mais ou para menos, da distância real, sendo esta, pelo menos igual a 1 km;\n\nb) Velocidade:\n\n3 km/h, para mais ou para menos, em relação à velocidade real;\n\nc) Tempo:\n\n± 2 minutos por dia, com o máximo de 10 minutos em 7 dias, quando a duração do funcionamento do relógio, após corda, não for inferior a esse período.\n\n2. Na instalação: a) Distância percorrida:\n\n2 %, para mais ou para menos, da distância real, sendo esta, pelo menos, igual a 1 km;\n\nb) Velocidade:\n\n4 km/h, para mais ou para menos, em relação à velocidade real;\n\nc) Tempo:\n\n± 2 minutos por dia ou\n\n± 10 minutos em 7 dias.\n\n3. Em uso: a) Distância percorrida:\n\n4 %, para mais ou para menos, da distância real, sendo esta, pelo menos, igual a 1 km;\n\nb) Velocidade:\n\n6 km/h, para mais ou para menos, em relação à velocidade real;\n\nc) Tempo:\n\n± 2 minutos por dia ou\n\n± 10 minutos em 7 dias.\n\n4. Os erros máximos tolerados enumerados nos pontos 1., 2. e 3. predecentes são válidos para temperaturas entre 0 e 40 °C, medidas na proximidade imediata do aparelho.\n\n5. Os erros máximos tolerados enumerados nos pontos 2 e 3 precedentes devem ser medidos nas condições fixadas no Capítulo VI.\n\nIV. FOLHAS DE REGISTO\n\na) Generalidades 1. As folhas de registo devem ser de uma qualidade tal que não impepeçam o funcionamento normal do aparelho e permitam que os registos que nelas se efectuem sejam indeléveis e claramente legíveis e identificáveis.\n\nAs folhas de registo devem conservar as suas dimensões e registos em condições normais de higrometria e de temperatura.\n\nAlém disso, deve ser possível inscrever nas folhas, sem que isso as deteriore ou impeça a leitura dos registos, as indicações referidas no nº 5 do artigo 15º do regulamento.\n\nEm condições normais de conservação, os registos devem ser legíveis com precisão durante, pelo menos, um ano.\n\n2. A capacidade mínima de registo das folhas, qualquer que seja a sua forma, deve ser de 24 horas.\n\nSe vários discos forem ligados entre si, a fim de aumentar a capacidade de registo contínuo sem intervenção do pessoal, as ligações entre os diversos discos devem ser feitos de tal maneira que os registos não apresentem nem interrupções nem sobreposições nos pontos de passagem de um disco ao outro.\n\nb) Zonas de registo e respectivas graduações 1. As folhas de registo devem comportar as seguintes zonas de registo: - uma zona exclusivamente reservada às indicações relativas à velocidade,\n\n- uma zona exclusivamente reservada às indicações relativas às distâncias percorridas,\n\n- uma (ou mais) zona(s) para as indicações relativas aos tempos de condução, aos outros tempos de trabalho e de presença no trabalho, às interrupções de trabalho e ao repouso dos condutores.\n\n2. A zona reservada ao registo da velocidade deve estar subdividida, no mínimo, de 20 em 20 km/h. A velocidade correspondente deve ser indicada em algarismos em cada linha dessa subdivisão. O simbolo km/h deve figurar, pelo menos, uma vez no interior dessa zona. A última linha dessa zona deve coincidir com o limite superior do campo de medida.\n\n3. A zona reservada ao registo dos percursos deve ser impressa de forma a permitir a leitura fácil do número de quilómetros percorridos.\n\n4. A (ou as) zona(s) reservada(s) ao registo dos tempos referidos no ponto 1 precedente deve(m) conter as indicações necessárias para individualizar, sem ambiguidade, os diferentes grupos de tempo.\n\nc) Indicações impressas nas folhas de registo\n\nCada folha deve conter, impressas, as seguintes indicações: - nome e endereço do fabricante,\n\n- marca de homologação do modelo da folha,\n\n- marca de homologação do(s) modelo(s) de aparelho(s) no qual (nos quais) a folha for utilizável,\n\n- limite superior da velocidade registável, em quilómetros por hora.\n\nAlém disso, cada folha deve ter impressa pelo menos uma escala de tempo, graduada de forma a permitir a leitrua directa do tempo com intervalos de 15 minutos, bem como a determinação fácil de cada intervalo de 5 minutos.\n\nd) Espaço livre para as inscrições manuscritas\n\nNas folhas deve ser previsto um espaço livre que permita ao condutor a inscrição de, pelo menos, as seguintes indicações manuscritas: - nome e apelido do condutor,\n\n- data e lugar do início e do fim da utilização da folha.\n\n- Número(s) da matrícula do(s) veículo(s) ao qual (aos quais) o condutor esteve afecto durante a utilização da folha,\n\n- Hora da mudança de veículo.\n\nV. INSTALAÇÃO DO APARELHO DE CONTROLO\n\n1. Os aparelhos de controlo devem ser colocados nos veículos de forma a que, por um lado, o condutor possa vigiar facilmente, do seu lugar, o indicador de velocidade, o contador totalizador e o relógio e que, por outro lado, todos os seus elementos, incluindo os de transmissão, estejam protegidos contra qualquer dano fortuito.\n\n2. A constante do aparelho de controlo deve poder ser adaptada ao coeficiente característico do veículo por meio de um dispositivo adequado denominado adaptador.\n\nOs veículos com várias relações de transmissão ao diferencial devem ser munidos de um dispositivo de comutação que permita o alinhamento automático dessas diversas relações com aquela para a qual tiver sido feita a adaptação do aparelho ao veículo.\n\n3. Após a verificação aquando da primeira instalação, é fixada no veículo a chapa de instalação, bem visível, na proximidade do aparelho ou sobre o próprio aparelho. Após cada intervenção de um instalador ou de uma oficina aprovada que necessite uma alteração da regularização da instalação propriamente dita, deve ser colocada uma nova chapa em substituição da anterior.\n\nA chapa deve conter pelo menos as seguintes indicações: - nome, endereço e marca do instalador ou oficina aprovada\n\n- coeficiente característico do veículo, sob a forma «w =... r/km» «w =... imp/km»,\n\n- perímetro efectivo dos pneumáticos das rodas sob a forma «l =... mm»,\n\n- a data de verificação do coeficiente característico do veículo e de medida do perímetro dos pneumáticos das rodas.\n\n4. Selagens\n\nDevem ser selados os seguintes elementos: a) A chapa de instalação, a menos que seja aplicada de tal maneira que não possa ser retirada sem destruir as indicações;\n\nb) As extremidades da ligação entre o aparelho de controlo propriamente dito e o veículo;\n\nc) O adaptador propriamente dito e a sua inserção no circuito;\n\nd) O dispositivo de comutação para veículos com várias relações de transmissão ao diferencial;\n\ne) As ligações do adaptador e do dispositivo de comutação aos outros elementos da instalação;\n\nf) Os invólucros previstos no ponto 7.2. da alínea a) do Capítulo III.\n\nEm casos particulares, podem ser previstas outras selagens aquando da homologação do modelo de aparelho, devendo indicar-se a sua localização no certificado de homologação.\n\nSó os selos de ligação referidos nas alínea b), c) e e) podem ser retirados em casos de urgência; qualquer quebra desses selos deve ser objecto de uma justificação por escrito, que deve ser mantida à disposição da autoridade competente.\n\nVI. VERIFICAÇÕES E CONTROLOS\n\nOs Estados-membros designarão os organismos que devem efectuar as verificações e os controlos. 1. Certificação dos instrumentos novos ou reparados\n\nQualquer aparelho individual, novo ou reparado, é certificado quanto ao seu bom funcionamento e à exactidão das suas indicações e registos, dentro dos limites fixados no ponto 1 da alínea f) do Capítulo III, pela selagem prevista no ponto 4 da alínea f) do Capítulo V.\n\nOs Estados-membros podem instaurar para esse efeito a primeira verificação, que consiste no controlo e confirmação da conformidade de um aparelho novo ou reparado com o modelo homologado e/ou com as exigências do regulamento e seus anexos, ou delegar a certificação nos fabricantes ou seus mandatários.\n\n2. Instalação\n\nAquando da sua instalação a bordo de um veículo, o aparelho e a instalação devem no seu conjunto satisfazer as normas relativas aos erros máximos admissíveis fixados no ponto 2 da alínea f) do Capítulo III.\n\nOs ensaios de controlo para esse fim são executados, sob a sua responsabilidade, pelo instalador ou oficina aprovada.\n\n3. Controlos periódicos a) Existem controlos periódicos dos aparelhos instalados nos veículos, pelo menos de dois em dois anos, podendo os mesmos efectuar-se no âmbito das inspecções técnicas dos veículos automóveis.\n\nSerão nomeadamente controlados: - o bom funcionamento do aparelho,\n\n- a presença da marca de homologação nos aparelhos,\n\n- a presença da chapa de instalação,\n\n- a integridade dos selos do aparelho e dos outros elementos da instalação,\n\n- a circunferência efectiva dos pneus.\n\nb) O controlo do cumprimento das disposições do ponto 3 da alínea f) do Capítulo III, relativas aos erros máximos admissíveis durante o uso, será efectuado, pelo menos, uma vez de seis em seis anos, podendo qualquer Estado-membro prescrever um prazo mais curto para os veículos matriculados no seu território. Esse controlo inclui obrigatoriamente a substituição da chapa de instalação.\n\n4. Determinação dos erros\n\nA determinação dos erros na instalação e durante o uso efectuar-se-à nas seguintes condições, a considerar como condições normais de ensaio: - veículos em vazio, em condições normais de marcha,\n\n- pressão dos pneus conforme às indicações dadas pelo fabricante,\n\n- desgaste dos pneus dentro dos limites admitidos pelas normas em vigor,\n\n- movimento do veículo: este deve deslocar-se, movido pelo seu próprio motor, em linha recta sobre uma superfície plana, a uma velocidade de 50 ± 5 km/h; o controlo, desde que seja de uma exactidão comparável, pode ser igualmente efectuado num banco de ensaio apropriado."
+  },
+  "9f79efa79bbb0f52": {
+   "fragment_id": "ANEXO II MARCA E CERTIFICADO DE HOMOLOGAÇÃO — I. MARCA DE HOMOLOGAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO II MARCA E CERTIFICADO DE HOMOLOGAÇÃO — I. MARCA DE HOMOLOGAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II MARCA E CERTIFICADO DE HOMOLOGAÇÃO — I. MARCA DE HOMOLOGAÇÃO\n\n1. A marca de homologação é composta: - por um rectângulo, no interior do qual será colocada a letra «e», seguida de uma letra ou de um número distintivo do país que tenha concedido a homologação, em conformidade com os seguintes convenções: >PIC FILE= \"T0028097\">\n\ne\n\n- pelo número de homologação correspondente ao número do certificado de homologação atribuido ao protótipo do aparelho de controlo e da folha, colocado na proximidade do rectângulo.\n\n2. A marca de homologação é aposta na chapa sinalética de cada aparelho e em cada folha de registo. Deve ser indelével e conservar-se sempre bem legível.\n\n3. As dimensões da marca de homologação a seguir desenhada são expressas em milimetros, constituindo dimensões minimas. A relação de proporcionalidade entre essas dimensões deve ser respeitada. >PIC FILE= \"T0028098\">\n\nII. CERTIFICADO DE HOMOLOGAÇÃO\n\nO Estado que tenha procedido a uma homologação concede ao requerente um certificado de homologação conforme ao modelo a seguir indicado. Para informar os outros Estados-membros das homologações concedidas ou eventualmente revogadas, cada Estado-membro utilizará cópias desse certificado. >PIC FILE= \"T0028099\">"
+  },
+  "9e29159d7b6403bb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1985R3821 — PT — 02.03.2016 — 020.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31985R3821) [REGULAMENTO (CEE) N.º 3821/85 DO CONSELHO](http://publications.europa.eu/resource/celex/31985R3821) [de 20 de Dezembro de 1985](http://publications.europa.eu/resource/celex/31985R3821) [relativo à introdução de um aparelho de controlo no domínio dos transportes rodoviários](http://publications.europa.eu/resource/celex/31985R3821) (JO L 370, 31.12.1985, p.8)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 165/2014 do Parlamento Europeu e do Conselho de 4 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0165) — L 60 — 1 — 28.2.2014"
+  }
+ }
+}

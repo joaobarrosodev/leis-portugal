@@ -35,6 +35,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-07-03'
+version_history:
+  file: diretiva-ue-2003-6.versoes.json
+  count: 3
+  source_lastmod: '2016-07-03'
+  versions:
+  - date: '2008-03-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-04'
+    amending: eu:celex:32010L0078:por
+    amending_title: DIRECTIVA 2010/78/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 24 de
+      Novembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 20.º
+    - Altera Notas
+    - Adita Artigo 15.ºA
+    - Adita Artigo 17.ºA
+  - date: '2016-07-03'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 15.ºA
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 17.ºA
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime Notas
 identifiers:
   celex: 32003L0006
   eli: http://data.europa.eu/eli/dir/2003/6/oj
@@ -49,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4f93674d-224f-43f7-abe4-cae0ee127e6b.0010
   content_url: http://publications.europa.eu/resource/cellar/cca58e4d-176c-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0006-20160703
-  retrieved_at: '2026-10-22T02:45:06Z'
+  retrieved_at: '2026-10-22T14:54:32Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T23:31:23.985+01:00'
 integrity:
@@ -58,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:06Z'
-  notes: Texto consolidado 02003L0006-20160703.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:32Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2003-6.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -209,16 +263,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:06Z'
+  checked_at: '2026-10-22T14:54:32Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02003L0006-20030412: versão indisponível (Sem expressão na língua por para CELEX 02003L0006-20030412.)'
   errors: []
 ---
 

@@ -35,6 +35,70 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-16'
+version_history:
+  file: regulamento-ue-1994-1681.versoes.json
+  count: 3
+  source_lastmod: '2007-01-16'
+  versions:
+  - date: '1994-07-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-01-01'
+    amending: eu:celex:32005R2035:por
+    amending_title: REGULAMENTO (CE) N. o 2035/2005 DA COMISSÃO de 12 de Dezembro de 2005
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 1.º-A
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 6.º-A
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 8.º-A
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+  - date: '2007-01-16'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 1.º-A
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 6.º-A
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 8.º-A
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Notas
 identifiers:
   celex: 31994R1681
   eli: http://data.europa.eu/eli/reg/1994/1681/oj
@@ -49,7 +113,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/27455ee3-edfe-4efb-b535-2c87e97ca38e.0011
   content_url: http://publications.europa.eu/resource/cellar/47856859-598b-46c9-bc66-f95c6087a40f.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994R1681-20070116
-  retrieved_at: '2026-10-22T02:56:06Z'
+  retrieved_at: '2026-10-22T14:43:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T15:33:54.798+01:00'
 integrity:
@@ -58,9 +122,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:06Z'
-  notes: Texto consolidado 01994R1681-20070116.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:43:36Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1994-1681.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -129,16 +193,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:06Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:43:36Z'
+  warnings: []
   errors: []
 ---
 

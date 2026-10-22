@@ -1,0 +1,18 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31980L1335:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01980L1335-19870213",
+ "dre_path": null,
+ "source_lastmod": "1987-02-13",
+ "versions": [
+  {
+   "date": "1980-12-31",
+   "future": false,
+   "celex": "31980L1335",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  }
+ ],
+ "fragments": {}
+}

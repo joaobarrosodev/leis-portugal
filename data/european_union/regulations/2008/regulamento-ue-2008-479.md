@@ -40,6 +40,140 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-08-01'
+version_history:
+  file: regulamento-ue-2008-479.versoes.json
+  count: 5
+  source_lastmod: '2009-08-01'
+  versions:
+  - date: '2008-06-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-06-13'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Adita Artigo 28.º
+    - Adita Artigo 29.º
+    - Adita Artigo 30.º
+    - Adita Artigo 31.º
+    - Adita Artigo 32.º
+    - Adita Artigo 33.º
+    - Adita Artigo 34.º
+    - Adita Artigo 35.º
+    - Adita Artigo 36.º
+    - Adita Artigo 37.º
+    - Adita Artigo 38.º
+  - date: '2008-12-16'
+    amending: eu:celex:32008R1246:por
+    amending_title: REGULAMENTO (CE) N. o 1246/2008 DA COMISSÃO de 12 de Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º
+    - Altera Artigo 15.º
+    - Altera Artigo 23.º
+    - Altera Artigo 42.º
+    - Altera Artigo 44.º
+    - Altera Artigo 58.º
+    - Altera Artigo 78.º
+    - Altera Artigo 123.º
+    - Altera Artigo 124.º
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera Notas
+    - Suprime ORÇAMENTO PARA OS PROGRAMAS DE APOIO
+    - Suprime (a que se refere o n.º 1 do artigo 8.º)
+    - Suprime DOTAÇÕES ORÇAMENTAIS PARA O DESENVOLVIMENTO RURAL
+    - Suprime (a que se refere o n.º 3 do artigo 23.º)
+  - date: '2009-02-07'
+    amending: eu:celex:32009R0072:por
+    amending_title: REGULAMENTO (CE) N.O 72/2009 DO CONSELHO de 19 de Janeiro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º
+    - Altera Artigo 15.º
+    - Altera Artigo 42.º
+    - Altera Artigo 44.º
+    - Altera Artigo 58.º
+    - Altera Artigo 78.º
+    - Altera Artigo 123.º
+    - Altera Artigo 124.º
+    - Altera Artigo 127.º
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2009-08-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES PRELIMINARES
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime TÍTULO II
+    - Suprime MEDIDAS DE APOIO
+    - Suprime CAPÍTULO I
+    - Suprime Programas de apoio
+    - Suprime Secção 1
+    - Suprime Disposições preliminares
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Secção 2
+    - Suprime Apresentação e conteúdo dos programas de apoio
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Secção 3
+    - Suprime Medidas de apoio específicas
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Secção 4
+    - Suprime Disposições gerais
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime CAPÍTULO II
+    - Suprime Transferência financeira
+    - Suprime Artigo 23.º
 identifiers:
   celex: 32008R0479
   eli: http://data.europa.eu/eli/reg/2008/479/oj
@@ -54,7 +188,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/aa4e3ad0-a27e-402d-8483-ac66554f8f49.0018
   content_url: http://publications.europa.eu/resource/cellar/6ecd04a1-e069-4859-a3d3-453e2721e6ea.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0479-20090801
-  retrieved_at: '2026-10-22T02:35:41Z'
+  retrieved_at: '2026-10-22T15:14:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T18:32:16.479+01:00'
 integrity:
@@ -63,9 +197,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:41Z'
-  notes: Texto consolidado 02008R0479-20090801.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:14:55Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2008-479.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -362,16 +496,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:41Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:14:55Z'
+  warnings: []
   errors: []
 ---
 

@@ -35,6 +35,37 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-12-31'
+version_history:
+  file: diretiva-ue-1985-572.versoes.json
+  count: 3
+  source_lastmod: '2012-12-31'
+  versions:
+  - date: '1985-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-04-20'
+    amending: eu:celex:32007L0019:por
+    amending_title: DIRECTIVA 2007/19/CE DA COMISSÃO Texto relevante para efeitos do EEE de 30 de Março de 2007
+    changes:
+    - Adita preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita ANEXO
+    - Adita LISTA DOS SIMULADORES
+    - Adita Notas
+  - date: '2012-12-31'
+    amending: eu:celex:32011R0010:por
+    amending_title: REGULAMENTO (UE) N. o 10/2011 DA COMISSÃO de 14 Janeiro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera ANEXO
+    - Altera Notas
+    - Suprime LISTA DOS SIMULADORES
 identifiers:
   celex: 31985L0572
   eli: http://data.europa.eu/eli/dir/1985/572/oj
@@ -49,7 +80,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/bd664554-cb4a-4d7e-8e95-e36da6c900bf.0011
   content_url: http://publications.europa.eu/resource/cellar/b478d016-0e6e-4cb4-8088-7f6ce9b9e277.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01985L0572-20121231
-  retrieved_at: '2026-10-22T02:41:02Z'
+  retrieved_at: '2026-10-22T14:34:30Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T23:49:38.257+01:00'
 integrity:
@@ -58,9 +89,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:02Z'
-  notes: Texto consolidado 01985L0572-20121231.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:30Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1985-572.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -129,35 +160,19 @@ relationships:
   source: null
 article_structure:
   article_count: 5
-  section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 2
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:02Z'
+  checked_at: '2026-10-22T14:34:30Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 85/572/CEE do Conselho, de 19 de Dezembro de 1985
-
-> 1985L0572 — PT — 31.12.2012 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32007L0019) — [DIRECTIVA 2007/19/CE DA COMISSÃO Texto relevante para efeitos do EEE de 30 de Março de 2007](http://publications.europa.eu/resource/celex/32007L0019) — L 91 — 17 — 31.3.2007
-- [►M2](http://publications.europa.eu/resource/celex/32011R0010) — [REGULAMENTO (UE) N.º 10/2011 DA COMISSÃO de 14 Janeiro de 2011](http://publications.europa.eu/resource/celex/32011R0010) — L 12 — 1 — 15.1.2011
-
-**Rectificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32007L0019R%2801%29) — [Rectificação, JO L 094, 4.4.2007, p. 71 (2007/19)](http://publications.europa.eu/resource/celex/32007L0019R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32007L0019R%2802%29) — [Rectificação, JO L 097, 12.4.2007, p. 50 (2007/19)](http://publications.europa.eu/resource/celex/32007L0019R%2802%29)
-
-## DIRECTIVA DO CONSELHO
 
 de 19 de Dezembro de 1985
 

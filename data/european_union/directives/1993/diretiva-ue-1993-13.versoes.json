@@ -1,0 +1,432 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0013:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0013-20220528",
+ "dre_path": null,
+ "source_lastmod": "2022-05-28",
+ "versions": [
+  {
+   "date": "1993-04-21",
+   "future": false,
+   "celex": "31993L0013",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c9d27a846dbe1c03",
+    "96df0f2b141404cf",
+    "97bce240214f1971",
+    "670d4257b5ae3f78",
+    "a528881a0c678343",
+    "38dde64917704e8f",
+    "f107e942c4d71e3a",
+    "85d771edce450af7",
+    "703fa57d5271eb63",
+    "ddbb2186736d8245",
+    "488f6c9fff45738a",
+    "5e5542d96029f72d",
+    "35f8705a724d2aff"
+   ]
+  },
+  {
+   "date": "2011-12-12",
+   "future": false,
+   "celex": "01993L0013-20111212",
+   "acts": [
+    {
+     "id": "eu:celex:32011L0083:por",
+     "title": "DIRECTIVA 2011/83/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 25 de Outubro de 2011",
+     "published": null,
+     "celex": "32011L0083"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 8.º-A",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita CLÁUSULAS PREVISTAS NO N.º 3 DO ARTIGO 3.º",
+    "Adita 1. Cláusulas que têm como objectivo ou como efeito:",
+    "Adita 2. Alcance das alíneas g), j) e l)",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o"
+   ],
+   "fragments": [
+    "055d5b41775d7793",
+    "ec16b1928961809c",
+    "0dcf251028cd1569",
+    "44270664cdb81c97",
+    "5a8ee874f1b9c500",
+    "d66b91cc1fa0a526",
+    "bfc5ce1fedeed37d",
+    "7835bd6780e9cf8c",
+    "e5a18a93d1921af4",
+    "e61d067300ba6bf8",
+    "5d12578b75751cd3",
+    "095bec7399a4c475",
+    "40b91f3ad7775481",
+    "10220b9774fa9034",
+    "4bfa46021d481928",
+    "94c4cf0dd8955dc3",
+    "e6a6fb7e9872a585",
+    "d6d0025a08e9ef99"
+   ]
+  },
+  {
+   "date": "2022-05-28",
+   "future": false,
+   "celex": "01993L0013-20220528",
+   "acts": [
+    {
+     "id": "eu:celex:32019L2161:por",
+     "title": "DIRETIVA (UE) 2019/2161 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019",
+     "published": null,
+     "celex": "32019L2161"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Notas",
+    "Adita Artigo 8.º-B"
+   ],
+   "fragments": [
+    "c21359601226b27f",
+    "ec16b1928961809c",
+    "0dcf251028cd1569",
+    "44270664cdb81c97",
+    "5a8ee874f1b9c500",
+    "d66b91cc1fa0a526",
+    "bfc5ce1fedeed37d",
+    "7835bd6780e9cf8c",
+    "e5a18a93d1921af4",
+    "cba7c52ceb3197de",
+    "ad511bd3af7c8df3",
+    "5d12578b75751cd3",
+    "095bec7399a4c475",
+    "40b91f3ad7775481",
+    "10220b9774fa9034",
+    "4bfa46021d481928",
+    "b1b272a525bc13e5",
+    "b1a344204e36eb3a",
+    "a6a2bf9abfdb973b"
+   ]
+  }
+ ],
+ "fragments": {
+  "c9d27a846dbe1c03": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 93/13/CEE do Conselho, de 5 de Abril de 1993, relativa às cláusulas abusivas nos contratos celebrados com os consumidores** *Jornal Oficial nº L 095 de 21/04/1993 p. 0029 - 0034 Edição especial finlandesa: Capítulo 15 Fascículo 12 p. 0169 Edição especial sueca: Capítulo 15 Fascículo 12 p. 0169*\n\nDIRECTIVA 93/13/CEE DO CONSELHO de 5 de Abril de 1993 relativa às cláusulas abusivas nos contratos celebrados com os consumidores\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100oA,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que é necessário adoptar as medidas destinadas a estabelecer progressivamente o mercado interno durante um período que expira em 31 de Dezembro de 1992; que o mercado interno compreende um espaço sem fronteiras internas, no qual a livre circulação das marcadorias, das pessoas, dos serviços e dos capitais é assegurada;\n\nConsiderando que as legislações dos Estados-membros respeitantes às cláusulas dos contratos celebrados entre, por um lado, o vendedor de bens ou o prestador de serviços e, por outro, o consumidor, revelam numerosas disparidades, daí resultando que os mercados nacionais de venda de bens e de oferta de serviços aos consumidores diferem de país para país e que se podem verificar distorções de concorrência entre vendedores de bens e prestadores de serviços nomeadamente aquando da comercialização noutros Estados-membros;\n\nConsiderando, em especial, que as legislações dos Estados-membros respeitantes às cláusulas abusivas em contratos celebrados com os consumidores apresentam divergências marcantes;\n\nConsiderando que compete aos Estados-membros providenciar para que não sejam incluídas cláusulas abusivas nos contratos celebrados com os consumidores;\n\nConsiderando que, regra geral, os consumidores de um Estado-membro desconhecem as regras por que se regem, nos outros Estados-membros, os contratos relativos à venda de bens ou à oferta de serviços; que esse desconhecimento pode dissuadi-los de efectuarem transacções directas de compra de bens ou de fornecimento de serviços noutro Estado-membro;\n\nConsiderando que, para facilitar o estabelecimento do mercado interno e proteger os cidadãos que, na qualidade de consumidores, adquiram bens e serviços mediante contratos regidos pela legislação de outros Estados-membros, é essencial eliminar desses contratos as cláusulas abusivas;\n\nConsiderando que os vendedores de bens e os prestadores de serviços serão, assim, ajudados na sua actividade de venda de bens e de prestação de serviços, tanto no seu próprio país como no mercado interno; que a concorrência será assim estimulada, contribuindo para uma maior possibilidade de escolha dos cidadãos da Comunidade, enquanto consumidores;\n\nConsiderando que os dois programas comunitários no domínio da política de informação e defesa dos consumidores (4) sublinham a importância de os consumidores serem pretegidos contra cláusulas contratuais abusivas; que esta protecção deve ser assegurada por disposições legislativas e regulamentares, quer harmonizadas a nível comunitário quer directamente adoptadas ao mesmo nível;\n\nConsiderando que, de acordo com o princípio estabelecido nesses dois programas sob o título « Protecção dos interesses económicos dos consumidores », os adquirentes de bens ou de serviços devem ser protegidos contra abusos de poder dos vendedors ou dos prestatários, nomeadamente contra os contratos de adesão e contra a exclusão abusiva de direitos essenciais nos contratos;\n\nConsiderando que se pode obter uma protecção mais eficaz dos consumidores através da adopção de regras uniformes em matéria de cláusulas abusivas; que essas regras devem ser aplicáveis a todos os contratos celebrados entre um profissional e um consumidor; que, por conseguinte, são nomeadamente excluídos da presente directiva os contratos de trabalho, os contratos relativos aos direitos sucessórios, os contratos relativos ao estatuto familiar, bem como os contratos relativos à constituição e aos estatutos das sociedades;\n\nConsiderando que o consumidor deve beneficiar da mesma protecção, tanto para um contrato oral como para um contrato escrito e, neste último caso, independentemente do facto de os termos desse contrato se encontrarem registados num único ou em vários documentos;\n\nConsiderando no entanto que, na actual situação das legislações nacionais, apenas se poderá prever uma harmonização parcial; que, nomeadamente, apenas as cláusulas contratuais que não tenham sido sujeitas a negociações individuais são visadas pela presente directiva; que há que deixar aos Estados-membros a possibilidade de, no respeito pelo Tratado CEE, assegurarem um nível de protecção mais elevado do consumidor através de disposições nacionais mais rigorosas do que as da presente directiva;\n\nConsiderando que se parte do princípio de que as disposições legislativas ou regulamentares dos Estados-membros que estabelecem, directa ou indirectamente, as cláusulas contratuais com os consumidores não contêm cláusulas abusivas; que, consequentemente, se revela desnecessário submeter ao disposto na presente directiva as cláusulas que reflectem as disposições legislativas ou regulamentares imperativas bem como os princípios ou as disposições de convenções internacionais de que são parte os Estados-membros da Comunidade; que, neste contexto, a expressão « disposições legislativas ou regulamentares imperativas » que consta do no 2 do artigo 1o abrange igualmente as normas aplicáveis por lei às partes contratantes quando não tiverem sido acordadas quaisquer outras disposições;\n\nConsiderando, contudo, que os Estados-membros devem providenciar para que tais cláusulas abusivas não figurem nos contratos, nomeadamente por a presente directiva se aplicar igualmente às actividades profissionais de carácter público;\n\nConsiderando que é necessário estabelecer os critérios gerais de apreciação do carácter abusivo das cláusulas contratuais;\n\nConsiderando que a apreciação, segundo os critérios gerais estabelecidos, do carácter abusivo das claúsulas, nomeadamente nas actividades profissionais de carácter público que forneçam serviços colectivos que tenham em conta a solidariedade entre os utentes, necessita de ser completada por um instrumento de avaliação global dos diversos interesses implicados; que tal consiste na exigência de boa fé; que, na apreciação da boa fé, é necessário dar especial atenção à força das posições de negociação das partes, à questão de saber se o consumidor foi de alguma forma incentivado a manifestar o seu acordo com a cláusula e se os bens ou serviços foram vendidos ou fornecidos por especial encomenda do consumidor; que a exigência de boa fé pode ser satisfeita pelo profissional, trantando de forma leal e equitativa com a outra parte, cujos legítimos interesses deve ter em conta;\n\nConsiderando que, pare efeitos da presente directiva, a lista das cláusulas constante do anexo terá um carácter meramente indicativo e que, devido a esse carácter mínimo, poderá ser alargada ou limitada, nomeadamente quanto ao alcance de tais cláusulas, pelos Estados-membros no âmbito das respectivas legislações;\n\nConsiderando que a natureza dos bens ou serviços deverá influir na apreciação do carácter abusivo das cláusulas contratuais;\n\nConsiderando que, para efeitos da presente directiva, a apreciação do carácter abusivo de uma cláusula não deve incidir sobre cláusulas que descrevam o objecto principal do contrato ou a relação qualidade/preço do fornecimento ou de prestação; que o objecto principal do contrato e a relação qualidade/preço podem todavia ser considerados na apreciação do carácter abusivo de outras cláusulas; que desse facto decorre, inter alia, que, no caso de contratos de seguros, as cláusulas que definem ou delimitam claramente o risco segurado e o compromisso do segurador não são objecto de tal apreciação desde que essas limitações sejam tidas em conta no cálculo do prémio a pagar pelo consumidor;\n\nConsiderando que os contratos devem ser redigidos em termos claros e compreensíveis, que o consumidor deve efectivamente ter a oportunidade de tomar conhecimento de todas as cláusulas e que, em caso de dúvida, deve prevalecer a interpretação mais favorável ao consumidor;\n\nConsiderando que os Estados-membros devem tomar as medidas necessárias para evitar a presença de cláusulas abusivas em contratos celebrados entre profissionais e consumidores; que, se apesar de tudo essas cláusulas constarem dos contratos, os consumidores não serão por elas vinculados, continuando o contrato a vincular as partes nos mesmos termos, desde que possa subsistir sem as cláusulas abusivas;\n\nConsiderando que em certos casos existe o risco de privar o consumidor da protecção concedida pela presente directiva designando o direito de um país terceiro como direito aplicável ao contrato; que, consequentemente, importa prever na presente directiva disposições destinadas a evitar este risco;\n\nConsiderando que as pessoas ou organizações que, segundo a legislação de um Estado-membro, têm um interesse legítimo na defesa do consumidor, devem dispor da possibilidade de recorrer, quer a uma autoridade judicial quer a um órgão administrativo competentes para decidir em matéria de queixas ou para intentar acções judiciais adequadas contra cláusulas contratuais, em particular cláusulas abusivas, redigidas com vista a uma utilização generalizada, em contratos celebrados pelos consumidores; que essa faculdade não implica, contudo, um controlo prévio das condições gerais utilizadas nos diversos sectores económicos;\n\nConsiderando que as autoridades judiciárias e órgãos administrativos dos Estados-membros devem dispor de meios adequados e eficazes para pôr termo à aplicação das cláusulas abusivas nos contratos celebrados com os consumidores,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "96df0f2b141404cf": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva tem por objectivo a aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros relativas às cláusulas abusivas em contratos celebrados entre profissionais e consumidores.\n\n2. As disposições da presente directiva não se aplicam às cláusulas contratuais decorrentes de disposições legislativas ou regulamentares imperativas, bem como das disposições ou dos princípios previstos nas convenções internacionais de que os Estados-membros ou a Comunidade sejam parte, nomeadamente no domínio dos transportes."
+  },
+  "97bce240214f1971": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPara efeitos da presente directiva, entende-se por:\n\na) « Cláusulas abusivas », as cláusulas de um contrato tal como são definidas no artigo 3o;\n\nb) « Consumidor », qualquer pessoa singular que, nos contratos abrangidos pela presente directiva, actue com fins que não pertençam ao âmbito da sua actividade profissional;\n\nc) « Profissional », qualquer pessoa singular ou colectiva que, nos contratos abrangidos pela presente directiva, seja activa no âmbito da sua actividade profissional, pública ou privada."
+  },
+  "670d4257b5ae3f78": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Uma cláusula contratual que não tenha sido objecto de negociação individual é considerada abusiva quando, a despeito da exigência de boa fé, der origem a um desequilíbrio significativo em detrimento do consumidor, entre os direitos e obrigações das partes decorrentes do contrato.\n\n2. Considera-se que uma cláusula não foi objecto de negociação individual sempre que a mesma tenha sido redigida previamente e, consequentemente, o consumidor não tenha podido influir no seu conteúdo, em especial no âmbito de um contrato de adesão.\n\nO facto de alguns elementos de uma cláusula ou uma cláusula isolada terem sido objecto de negociação individual não exclui a aplicação do presente artigo ao resto de um contrato se a apreciação global revelar que, apesar disso, se trata de um contrato de adesão.\n\nSe o profissional sustar que uma cláusula normalizada foi objecto de negociação individual, caber-lhe-á o ónus da prova.\n\n3. O anexo contém uma lista indicativa e não exaustiva de cláusulas que podem ser consideradas abusivas."
+  },
+  "a528881a0c678343": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Sem prejuízo do artigo 7o, o carácter abusivo de uma cláusula poderá ser avaliado em função da natureza dos bens ou serviços que sejam objecto do contrato e mediante consideração de todas as circunstâncias que, no momento em que aquele foi celebrado, rodearam a sua celebração, bem como de todas as outras cláusulas do contrato, ou de outro contrato de que este dependa.\n\n2. A avaliação do carácter abusivo das cláusulas não incide nem sobre a definição do objecto principal do contrato nem sobre a adequação entre o preço e a remuneração, por um lado, e os bens ou serviços a fornecer em contrapartida, por outro, desde que essas cláusulas se encontrem redigidas de maneira clara e compreensível."
+  },
+  "38dde64917704e8f": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nNo caso dos contratos em que as cláusulas propostas ao consumidor estejam, na totalidade ou em parte, consignadas por escrito, essas cláusulas deverão ser sempre redigidas de forma clara e compreensível. Em caso de dúvida sobre o significado de uma cláusula, prevalecerá a interpretação mais favorável ao consumidor. Esta regra de interpretação não é aplicável no âmbito dos processos previstos no no 2 do artigo 7o"
+  },
+  "f107e942c4d71e3a": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os Estados-membros estipularão que, nas condições fixadas pelos respectivos direitos nacionais, as cláusulas abusivas constantes de um contrato celebrado com um consumidor por um profissional não vinculem o consumidor e que o contrato continue a vincular as partes nos mesmos termos, se puder subsistir sem as cláusulas abusivas.\n\n2. Os Estados-membros tomarão as medidas necessárias para que o consumidor não seja privado da protecção concedida pela presente directiva pelo facto de ter sido escolhido o direito de um país terceiro como direito aplicável ao contrato, desde que o contrato apresente uma relação estreita com o território dos Estados-membros."
+  },
+  "85d771edce450af7": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Os Estados-membros providenciarão para que, no interesse dos consumidores e dos profissionais concorrentes, existam meios adequados e eficazes para pôr termo à utilização das cláusulas abusivas nos contratos celebrados com os consumidores por um profissional.\n\n2. Os meios a que se refere o no 1 incluirão disposições que habilitem as pessoas ou organizações que, segundo a legislação nacional, têm um interesse legítimo na defesa do consumidor, a recorrer, segundo o direito nacional, aos tribunais ou aos órgãos administrativos competentes para decidir se determinadas cláusulas contratuais, redigidas com vista a uma utilização generalizada, têm ou não um carácter abusivo, e para aplicar os meios adequados e eficazes para pôr termo à utilização dessas cláusulas.\n\n3. Respeitando a legislação nacional, os recursos previstos no no 2 podem ser interpostos, individualmente ou em conjunto, contra vários profissionais do mesmo sector económico ou respectivas associações que utilizem ou recomendem a utilização das mesmas cláusulas contratuais gerais ou de cláusulas semelhantes."
+  },
+  "703fa57d5271eb63": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros podem adoptar ou manter, no domínio regido pela presente directiva, disposições mais rigorosas, compatíveis com o Tratado, para garantir um nível de protecção mais elevado para o consumidor."
+  },
+  "ddbb2186736d8245": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nA Comissão apresentará ao Parlamento Europeu e ao Conselho, o mais tardar, cinco anos após a data referida no no 1 do artigo 10o, um relatório sobre a aplicação da presente directiva."
+  },
+  "488f6c9fff45738a": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. Os Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, em 31 de Dezembro de 1994. Do facto informarão imediatamente a Comissão. As disposições adoptadas serão aplicáveis a todos os contratos celebrados após 31 de Dezembro de 1994.\n\n2. Sempre que os Estados-membros adoptarem tais disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades desta referência serão adoptadas pelos Estados-membros.\n\n3. Os Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito interno que adoptem no domínio abrangido pela presente directiva."
+  },
+  "5e5542d96029f72d": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 5 de Abril de 1993.\n\nPelo Conselho\n\nO Presidente\n\nN. HELVEG PETERSEN\n\n(1) JO no C 73 de 24. 3. 1992, p. 7.\n\n(2) JO no C 326 de 16. 12. 1991, p. 108 e JO no C 21 de 25. 1. 1993.\n\n(3) JO no C 159 de 17. 6. 1991, p. 34.\n\n(4) JO no C 92 de 25. 4. 1975, p. 1 e JO no C 133 de 3. 6. 1981, p. 1."
+  },
+  "35f8705a724d2aff": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nCLÁUSULAS PREVISTAS NO No 3 DO ARTIGO 3o 1. Cláusulas que têm como objectivo ou como efeito:\n\na) Excluir ou limitar a responsabilidade legal do profissional em caso de morte de um consumidor ou danos corporais que tenha sofrido em resultado de um acto ou de uma omissão desse profissional;\n\nb) Excluir ou limitar de forma inadequada os direitos legais do consumidor em relação ao profissional ou a uma outra parte em caso de não execução total ou parcial ou de execução defeituosa pelo profissional de qualquer das obrigações contratuais, incluindo a possibilidade de compensar uma dívida para com o profissional através de qualquer caução existente;\n\nc) Prever um compromisso vinculativo por parte do consumidor, quando a execução das prestações do profissional está sujeita a uma condição cuja realização depende apenas da sua vontade;\n\nd) Permitir ao profissional reter montantes pagos pelo consumidor se este renunciar à celebração ou à execução do contrato, sem prever o direito de o consumidor receber do profissional uma indemnização de montante equivalente se for este a renunciar;\n\ne) Impor ao consumidor que não cumpra as suas obrigações uma indemnização de montante desproporcionalmente elevado;\n\nf) Autorizar o profissional a rescindir o contrato de forma discricionária sem reconhecer essa faculdade ao consumidor, bem como permitir ao profissional reter os montantes pagos a título de prestações por ele ainda não realizadas quando é o próprio profissional que rescinde o contrato;\n\ng) Autorizar o profissional a pôr termo a um contrato de duração indeterminada sem um pré-aviso razoável, excepto por motivo grave;\n\nh) Renovar automaticamente um contrato de duração determinada na falta de comunicação em contrário por parte do consumidor, quando a data limite fixada para comunicar essa vontade de não renovação do contrato por parte do consumidor for excessivamente distante da data do termo do contrato;\n\ni) Declarar verificada, de forma irrefragável, a adesão do consumidor a cláusulas que este não teve efectivamente oportunidade de conhecer antes da celebração do contrato;\n\nj) Autorizar o profissional a alterar unilateralmente os termos do contrato sem razão válida e especificada no mesmo;\n\nk) Autorizar o profissional a modificar unilateralmente sem razão válida algumas das características do produto a entregar ou do serviço a fornecer;\n\nl) Prever que o preço dos bens seja determinado na data da entrega ou conferir ao vendedor de bens ou ao fornecedor de serviços o direito de aumentar os respectivos preços, sem que em ambos os casos o consumidor disponha, por seu lado, de um direito que lhe permita romper o contrato se o preço final for excessivamente elevado em relação ao preço previsto à data da celebração do contrato;\n\nm) Facultar ao profissional o direito de decidir se a coisa entregue ou o serviço fornecido está em conformidade com as disposições do contrato ou conferir-lhe o direito exclusivo de interpretar qualquer cláusula do contrato;\n\nn) Restringir a obrigação, que cabe ao profissional, de respeitar os compromissos assumidos pelos seus mandatários, ou de condicionar os seus compromissos ao cumprimento de uma formalidade específica;\n\no) Obrigar o consumidor a cumprir todas as suas obrigações, mesmo que o profissional não tenha cumprido as suas;\n\np) Prever a possibilidade de cessão da posição contratual por parte do profissional, se esse facto for susceptível de originar uma diminuição das garantias para o consumidor, sem que este tenha dado o seu acordo;\n\nq) Suprimir ou entravar a possibilidade de intentar acções judiciais ou seguir outras vias de recurso, por parte do consumidor, nomeadamente obrigando-o a submeter-se exclusivamente a uma jurisdição de arbitragem não abrangida por disposições legais, limitando indevidamente os meios de prova à sua disposição ou impondo-lhe um ónus da prova que, nos termos do direito aplicável, caberia normalmente a outra parte contratante.\n\n2. Alcance das alíneas g), j) e l)\n\na) A alínea g) não prejudica as cláusulas pelas quais o fornecedor de serviços financeiros se reserva o direito de extinguir unilateralmente e sem pré-aviso, no caso de razão válida, um contrato de duração indeterminada, desde que fique a cargo do profissional a obrigação de informar imediatamente dessa decisão a ou as outras partes contratantes.\n\nb) A alínea j) não prejudica as cláusulas segundo as quais o fornecedor de serviços financeiros se reserva o direito de alterar a taxa de juro devida pelo ou ao consumidor ou o montante de quaisquer outros encargos relativos a serviços financeiros sem qualquer pré-aviso em caso de razão válida, desde que seja atribuída ao profissional a obrigação de informar desse facto a ou as outras partes contratantes o mais rapidamente possível, e que estas sejam livres de rescindir imediatamente o contrato.\n\nA alínea j) ambém não prejudica as cláusulas segundo as quais o profissional se reserva o direito de alterar unilateralmente as condições de um contrato de duração indeterminada desde que seja atribuída ao profissional a obrigação de informar desse facto o consumidor com um pré-aviso razoável e que este tenha a liberdade de rescindir o contrato.\n\nc) As alíneas g), j) e l) não se aplicam:\n\n- às transacções relativas a valores mobiliários e produtos ou serviços cujo preço dependa das flutuações de uma taxa de mercado financeiro que o profissional não controla,\n\n- aos contratos de compra ou venda de divisas, de cheques de viagem ou de vales postais internacionais expressos em divisas.\n\nd) A alínea l) não prejudica as cláusulas de indexação de preços, desde que as mesmas sejam lícitas e o processo de variação do preço nelas esteja explicitamente descrito."
+  },
+  "055d5b41775d7793": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Abril de 1993\n\nrelativa às cláusulas abusivas nos contratos celebrados com os consumidores\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.º A,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/58215d6f-381b-4ff1-8566-a32538137b22.0019.03/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/58215d6f-381b-4ff1-8566-a32538137b22.0019.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/58215d6f-381b-4ff1-8566-a32538137b22.0019.03/DOC_1#E0003)),\n\nConsiderando que é necessário adoptar as medidas destinadas a estabelecer progressivamente o mercado interno durante um período que expira em 31 de Dezembro de 1992; que o mercado interno compreende um espaço sem fronteiras internas, no qual a livre circulação das marcadorias, das pessoas, dos serviços e dos capitais é assegurada;\n\nConsiderando que as legislações dos Estados-membros respeitantes às cláusulas dos contratos celebrados entre, por um lado, o vendedor de bens ou o prestador de serviços e, por outro, o consumidor, revelam numerosas disparidades, daí resultando que os mercados nacionais de venda de bens e de oferta de serviços aos consumidores diferem de país para país e que se podem verificar distorções de concorrência entre vendedores de bens e prestadores de serviços nomeadamente aquando da comercialização noutros Estados-membros;\n\nConsiderando, em especial, que as legislações dos Estados-membros respeitantes às cláusulas abusivas em contratos celebrados com os consumidores apresentam divergências marcantes;\n\nConsiderando que compete aos Estados-membros providenciar para que não sejam incluídas cláusulas abusivas nos contratos celebrados com os consumidores;\n\nConsiderando que, regra geral, os consumidores de um Estado-membro desconhecem as regras por que se regem, nos outros Estados-membros, os contratos relativos à venda de bens ou à oferta de serviços; que esse desconhecimento pode dissuadi-los de efectuarem transacções directas de compra de bens ou de fornecimento de serviços noutro Estado-membro;\n\nConsiderando que, para facilitar o estabelecimento do mercado interno e proteger os cidadãos que, na qualidade de consumidores, adquiram bens e serviços mediante contratos regidos pela legislação de outros Estados-membros, é essencial eliminar desses contratos as cláusulas abusivas;\n\nConsiderando que os vendedores de bens e os prestadores de serviços serão, assim, ajudados na sua actividade de venda de bens e de prestação de serviços, tanto no seu próprio país como no mercado interno; que a concorrência será assim estimulada, contribuindo para uma maior possibilidade de escolha dos cidadãos da Comunidade, enquanto consumidores;\n\nConsiderando que os dois programas comunitários no domínio da política de informação e defesa dos consumidores ([^4^](http://publications.europa.eu/resource/cellar/58215d6f-381b-4ff1-8566-a32538137b22.0019.03/DOC_1#E0004)) sublinham a importância de os consumidores serem pretegidos contra cláusulas contratuais abusivas; que esta protecção deve ser assegurada por disposições legislativas e regulamentares, quer harmonizadas a nível comunitário quer directamente adoptadas ao mesmo nível;\n\nConsiderando que, de acordo com o princípio estabelecido nesses dois programas sob o título «Protecção dos interesses económicos dos consumidores», os adquirentes de bens ou de serviços devem ser protegidos contra abusos de poder dos vendedors ou dos prestatários, nomeadamente contra os contratos de adesão e contra a exclusão abusiva de direitos essenciais nos contratos;\n\nConsiderando que se pode obter uma protecção mais eficaz dos consumidores através da adopção de regras uniformes em matéria de cláusulas abusivas; que essas regras devem ser aplicáveis a todos os contratos celebrados entre um profissional e um consumidor; que, por conseguinte, são nomeadamente excluídos da presente directiva os contratos de trabalho, os contratos relativos aos direitos sucessórios, os contratos relativos ao estatuto familiar, bem como os contratos relativos à constituição e aos estatutos das sociedades;\n\nConsiderando que o consumidor deve beneficiar da mesma protecção, tanto para um contrato oral como para um contrato escrito e, neste último caso, independentemente do facto de os termos desse contrato se encontrarem registados num único ou em vários documentos;\n\nConsiderando no entanto que, na actual situação das legislações nacionais, apenas se poderá prever uma harmonização parcial; que, nomeadamente, apenas as cláusulas contratuais que não tenham sido sujeitas a negociações individuais são visadas pela presente directiva; que há que deixar aos Estados-membros a possibilidade de, no respeito pelo Tratado CEE, assegurarem um nível de protecção mais elevado do consumidor através de disposições nacionais mais rigorosas do que as da presente directiva;\n\nConsiderando que se parte do princípio de que as disposições legislativas ou regulamentares dos Estados-membros que estabelecem, directa ou indirectamente, as cláusulas contratuais com os consumidores não contêm cláusulas abusivas; que, consequentemente, se revela desnecessário submeter ao disposto na presente directiva as cláusulas que reflectem as disposições legislativas ou regulamentares imperativas bem como os princípios ou as disposições de convenções internacionais de que são parte os Estados-membros da Comunidade; que, neste contexto, a expressão «disposições legislativas ou regulamentares imperativas» que consta do n.º 2 do artigo 1.º abrange igualmente as normas aplicáveis por lei às partes contratantes quando não tiverem sido acordadas quaisquer outras disposições;\n\nConsiderando, contudo, que os Estados-membros devem providenciar para que tais cláusulas abusivas não figurem nos contratos, nomeadamente por a presente directiva se aplicar igualmente às actividades profissionais de carácter público;\n\nConsiderando que é necessário estabelecer os critérios gerais de apreciação do carácter abusivo das cláusulas contratuais;\n\nConsiderando que a apreciação, segundo os critérios gerais estabelecidos, do carácter abusivo das claúsulas, nomeadamente nas actividades profissionais de carácter público que forneçam serviços colectivos que tenham em conta a solidariedade entre os utentes, necessita de ser completada por um instrumento de avaliação global dos diversos interesses implicados; que tal consiste na exigência de boa fé; que, na apreciação da boa fé, é necessário dar especial atenção à força das posições de negociação das partes, à questão de saber se o consumidor foi de alguma forma incentivado a manifestar o seu acordo com a cláusula e se os bens ou serviços foram vendidos ou fornecidos por especial encomenda do consumidor; que a exigência de boa fé pode ser satisfeita pelo profissional, trantando de forma leal e equitativa com a outra parte, cujos legítimos interesses deve ter em conta;\n\nConsiderando que, pare efeitos da presente directiva, a lista das cláusulas constante do anexo terá um carácter meramente indicativo e que, devido a esse carácter mínimo, poderá ser alargada ou limitada, nomeadamente quanto ao alcance de tais cláusulas, pelos Estados-membros no âmbito das respectivas legislações;\n\nConsiderando que a natureza dos bens ou serviços deverá influir na apreciação do carácter abusivo das cláusulas contratuais;\n\nConsiderando que, para efeitos da presente directiva, a apreciação do carácter abusivo de uma cláusula não deve incidir sobre cláusulas que descrevam o objecto principal do contrato ou a relação qualidade/preço do fornecimento ou de prestação; que o objecto principal do contrato e a relação qualidade/preço podem todavia ser considerados na apreciação do carácter abusivo de outras cláusulas; que desse facto decorre, *inter alia*, que, no caso de contratos de seguros, as cláusulas que definem ou delimitam claramente o risco segurado e o compromisso do segurador não são objecto de tal apreciação desde que essas limitações sejam tidas em conta no cálculo do prémio a pagar pelo consumidor;\n\nConsiderando que os contratos devem ser redigidos em termos claros e compreensíveis, que o consumidor deve efectivamente ter a oportunidade de tomar conhecimento de todas as cláusulas e que, em caso de dúvida, deve prevalecer a interpretação mais favorável ao consumidor;\n\nConsiderando que os Estados-membros devem tomar as medidas necessárias para evitar a presença de cláusulas abusivas em contratos celebrados entre profissionais e consumidores; que, se apesar de tudo essas cláusulas constarem dos contratos, os consumidores não serão por elas vinculados, continuando o contrato a vincular as partes nos mesmos termos, desde que possa subsistir sem as cláusulas abusivas;\n\nConsiderando que em certos casos existe o risco de privar o consumidor da protecção concedida pela presente directiva designando o direito de um país terceiro como direito aplicável ao contrato; que, consequentemente, importa prever na presente directiva disposições destinadas a evitar este risco;\n\nConsiderando que as pessoas ou organizações que, segundo a legislação de um Estado-membro, têm um interesse legítimo na defesa do consumidor, devem dispor da possibilidade de recorrer, quer a uma autoridade judicial quer a um órgão administrativo competentes para decidir em matéria de queixas ou para intentar acções judiciais adequadas contra cláusulas contratuais, em particular cláusulas abusivas, redigidas com vista a uma utilização generalizada, em contratos celebrados pelos consumidores; que essa faculdade não implica, contudo, um controlo prévio das condições gerais utilizadas nos diversos sectores económicos;\n\nConsiderando que as autoridades judiciárias e órgãos administrativos dos Estados-membros devem dispor de meios adequados e eficazes para pôr termo à aplicação das cláusulas abusivas nos contratos celebrados com os consumidores,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "ec16b1928961809c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva tem por objectivo a aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros relativas às cláusulas abusivas em contratos celebrados entre profissionais e consumidores.\n\n2. As disposições da presente directiva não se aplicam às cláusulas contratuais decorrentes de disposições legislativas ou regulamentares imperativas, bem como das disposições ou dos princípios previstos nas convenções internacionais de que os Estados-membros ou a Comunidade sejam parte, nomeadamente no domínio dos transportes."
+  },
+  "0dcf251028cd1569": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Cláusulas abusivas», as cláusulas de um contrato tal como são definidas no artigo 3.º;\n\nb) «Consumidor», qualquer pessoa singular que, nos contratos abrangidos pela presente directiva, actue com fins que não pertençam ao âmbito da sua actividade profissional;\n\nc) «Profissional», qualquer pessoa singular ou colectiva que, nos contratos abrangidos pela presente directiva, seja activa no âmbito da sua actividade profissional, pública ou privada."
+  },
+  "44270664cdb81c97": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Uma cláusula contratual que não tenha sido objecto de negociação individual é considerada abusiva quando, a despeito da exigência de boa fé, der origem a um desequilíbrio significativo em detrimento do consumidor, entre os direitos e obrigações das partes decorrentes do contrato.\n\n2. Considera-se que uma cláusula não foi objecto de negociação individual sempre que a mesma tenha sido redigida previamente e, consequentemente, o consumidor não tenha podido influir no seu conteúdo, em especial no âmbito de um contrato de adesão.\n\nO facto de alguns elementos de uma cláusula ou uma cláusula isolada terem sido objecto de negociação individual não exclui a aplicação do presente artigo ao resto de um contrato se a apreciação global revelar que, apesar disso, se trata de um contrato de adesão.\n\nSe o profissional sustar que uma cláusula normalizada foi objecto de negociação individual, caber-lhe-á o ónus da prova.\n\n3. O anexo contém uma lista indicativa e não exaustiva de cláusulas que podem ser consideradas abusivas."
+  },
+  "5a8ee874f1b9c500": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sem prejuízo do artigo 7.º, o carácter abusivo de uma cláusula poderá ser avaliado em função da natureza dos bens ou serviços que sejam objecto do contrato e mediante consideração de todas as circunstâncias que, no momento em que aquele foi celebrado, rodearam a sua celebração, bem como de todas as outras cláusulas do contrato, ou de outro contrato de que este dependa.\n\n2. A avaliação do carácter abusivo das cláusulas não incide nem sobre a definição do objecto principal do contrato nem sobre a adequação entre o preço e a remuneração, por um lado, e os bens ou serviços a fornecer em contrapartida, por outro, desde que essas cláusulas se encontrem redigidas de maneira clara e compreensível."
+  },
+  "d66b91cc1fa0a526": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nNo caso dos contratos em que as cláusulas propostas ao consumidor estejam, na totalidade ou em parte, consignadas por escrito, essas cláusulas deverão ser sempre redigidas de forma clara e compreensível. Em caso de dúvida sobre o significado de uma cláusula, prevalecerá a interpretação mais favorável ao consumidor. Esta regra de interpretação não é aplicável no âmbito dos processos previstos no n.º 2 do artigo 7.º"
+  },
+  "bfc5ce1fedeed37d": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-membros estipularão que, nas condições fixadas pelos respectivos direitos nacionais, as cláusulas abusivas constantes de um contrato celebrado com um consumidor por um profissional não vinculem o consumidor e que o contrato continue a vincular as partes nos mesmos termos, se puder subsistir sem as cláusulas abusivas.\n\n2. Os Estados-membros tomarão as medidas necessárias para que o consumidor não seja privado da protecção concedida pela presente directiva pelo facto de ter sido escolhido o direito de um país terceiro como direito aplicável ao contrato, desde que o contrato apresente uma relação estreita com o território dos Estados-membros."
+  },
+  "7835bd6780e9cf8c": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-membros providenciarão para que, no interesse dos consumidores e dos profissionais concorrentes, existam meios adequados e eficazes para pôr termo à utilização das cláusulas abusivas nos contratos celebrados com os consumidores por um profissional.\n\n2. Os meios a que se refere o n.º 1 incluirão disposições que habilitem as pessoas ou organizações que, segundo a legislação nacional, têm um interesse legítimo na defesa do consumidor, a recorrer, segundo o direito nacional, aos tribunais ou aos órgãos administrativos competentes para decidir se determinadas cláusulas contratuais, redigidas com vista a uma utilização generalizada, têm ou não um carácter abusivo, e para aplicar os meios adequados e eficazes para pôr termo à utilização dessas cláusulas.\n\n3. Respeitando a legislação nacional, os recursos previstos no n.º 2 podem ser interpostos, individualmente ou em conjunto, contra vários profissionais do mesmo sector económico ou respectivas associações que utilizem ou recomendem a utilização das mesmas cláusulas contratuais gerais ou de cláusulas semelhantes."
+  },
+  "e5a18a93d1921af4": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-membros podem adoptar ou manter, no domínio regido pela presente directiva, disposições mais rigorosas, compatíveis com o Tratado, para garantir um nível de protecção mais elevado para o consumidor."
+  },
+  "e61d067300ba6bf8": {
+   "fragment_id": "Artigo 8.º-A",
+   "type": "artigo",
+   "heading": "Artigo 8.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-A\n\n1. Se um Estado-Membro adoptar disposições nos termos do artigo 8.º, ele informa a Comissão desse facto, bem como de modificações posteriores, em particular caso essas disposições:\n\n— alarguem a avaliação do carácter abusivo a cláusulas contratuais negociadas individualmente ou à adequação do preço ou da remuneração, ou\n\n— incluam listas de cláusulas contratuais consideradas abusivas.\n\n2. A Comissão assegura que a informação a que se refere o n.º 1 seja facilmente acessível aos consumidores e aos profissionais, nomeadamente num sítio Internet criado para o efeito.\n\n3. A Comissão envia a informação a que se refere o n.º 1 aos restantes Estados-Membros e ao Parlamento Europeu. A Comissão consulta as partes interessadas sobre essa informação."
+  },
+  "5d12578b75751cd3": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA Comissão apresentará ao Parlamento Europeu e ao Conselho, o mais tardar, cinco anos após a data referida no n.º 1 do artigo 10.º, um relatório sobre a aplicação da presente directiva."
+  },
+  "095bec7399a4c475": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, em 31 de Dezembro de 1994. Do facto informarão imediatamente a Comissão. As disposições adoptadas serão aplicáveis a todos os contratos celebrados após 31 de Dezembro de 1994.\n\n2. Sempre que os Estados-membros adoptarem tais disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades desta referência serão adoptadas pelos Estados-membros.\n\n3. Os Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito interno que adoptem no domínio abrangido pela presente directiva."
+  },
+  "40b91f3ad7775481": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "4bfa46021d481928": {
+   "fragment_id": "CLÁUSULAS PREVISTAS NO N.º 3 DO ARTIGO 3.º",
+   "type": "divisao",
+   "heading": "CLÁUSULAS PREVISTAS NO N.º 3 DO ARTIGO 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CLÁUSULAS PREVISTAS NO N.º 3 DO ARTIGO 3.º"
+  },
+  "94c4cf0dd8955dc3": {
+   "fragment_id": "1. Cláusulas que têm como objectivo ou como efeito:",
+   "type": "divisao",
+   "heading": "1. Cláusulas que têm como objectivo ou como efeito:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Cláusulas que têm como objectivo ou como efeito:\n\na) Excluir ou limitar a responsabilidade legal do profissional em caso de morte de um consumidor ou danos corporais que tenha sofrido em resultado de um acto ou de uma omissão desse profissional;\n\nb) Excluir ou limitar de forma inadequada os direitos legais do consumidor em relação ao profissional ou a uma outra parte em caso de não execução total ou parcial ou de execução defeituosa pelo profissional de qualquer das obrigações contratuais, incluindo a possibilidade de compensar uma dívida para com o profissional através de qualquer caução existente;\n\nc) Prever um compromisso vinculativo por parte do consumidor, quando a execução das prestações do profissional está sujeita a uma condição cuja realização depende apenas da sua vontade;\n\nd) Permitir ao profissional reter montantes pagos pelo consumidor se este renunciar à celebração ou à execução do contrato, sem prever o direito de o consumidor receber do profissional uma indemnização de montante equivalente se for este a renunciar;\n\ne) Impor ao consumidor que não cumpra as suas obrigações uma indemnização de montante desproporcionalmente elevado;\n\nf) Autorizar o profissional a rescindir o contrato de forma discricionária sem reconhecer essa faculdade ao consumidor, bem como permitir ao profissional reter os montantes pagos a título de prestações por ele ainda não realizadas quando é o próprio profissional que rescinde o contrato;\n\ng) Autorizar o profissional a pôr termo a um contrato de duração indeterminada sem um pré-aviso razoável, excepto por motivo grave;\n\nh) Renovar automaticamente um contrato de duração determinada na falta de comunicação em contrário por parte do consumidor, quando a data limite fixada para comunicar essa vontade de não renovação do contrato por parte do consumidor for excessivamente distante da data do termo do contrato;\n\ni) Declarar verificada, de forma irrefragável, a adesão do consumidor a cláusulas que este não teve efectivamente oportunidade de conhecer antes da celebração do contrato;\n\nj) Autorizar o profissional a alterar unilateralmente os termos do contrato sem razão válida e especificada no mesmo;\n\nk) Autorizar o profissional a modificar unilateralmente sem razão válida algumas das características do produto a entregar ou do serviço a fornecer;\n\nl) Prever que o preço dos bens seja determinado na data da entrega ou conferir ao vendedor de bens ou ao fornecedor de serviços o direito de aumentar os respectivos preços, sem que em ambos os casos o consumidor disponha, por seu lado, de um direito que lhe permita romper o contrato se o preço final for excessivamente elevado em relação ao preço previsto à data da celebração do contrato;\n\nm) Facultar ao profissional o direito de decidir se a coisa entregue ou o serviço fornecido está em conformidade com as disposições do contrato ou conferir-lhe o direito exclusivo de interpretar qualquer cláusula do contrato;\n\nn) Restringir a obrigação, que cabe ao profissional, de respeitar os compromissos assumidos pelos seus mandatários, ou de condicionar os seus compromissos ao cumprimento de uma formalidade específica;\n\no) Obrigar o consumidor a cumprir todas as suas obrigações, mesmo que o profissional não tenha cumprido as suas;\n\np) Prever a possibilidade de cessão da posição contratual por parte do profissional, se esse facto for susceptível de originar uma diminuição das garantias para o consumidor, sem que este tenha dado o seu acordo;\n\nq) Suprimir ou entravar a possibilidade de intentar acções judiciais ou seguir outras vias de recurso, por parte do consumidor, nomeadamente obrigando-o a submeter-se exclusivamente a uma jurisdição de arbitragem não abrangida por disposições legais, limitando indevidamente os meios de prova à sua disposição ou impondo-lhe um ónus da prova que, nos termos do direito aplicável, caberia normalmente a outra parte contratante."
+  },
+  "e6a6fb7e9872a585": {
+   "fragment_id": "2. Alcance das alíneas g), j) e l)",
+   "type": "divisao",
+   "heading": "2. Alcance das alíneas g), j) e l)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Alcance das alíneas g), j) e l)\n\na) A alínea g) não prejudica as cláusulas pelas quais o fornecedor de serviços financeiros se reserva o direito de extinguir unilateralmente e sem pré-aviso, no caso de razão válida, um contrato de duração indeterminada, desde que fique a cargo do profissional a obrigação de informar imediatamente dessa decisão a ou as outras partes contratantes.\n\nb) A alínea j) não prejudica as cláusulas segundo as quais o fornecedor de serviços financeiros se reserva o direito de alterar a taxa de juro devida pelo ou ao consumidor ou o montante de quaisquer outros encargos relativos a serviços financeiros sem qualquer pré-aviso em caso de razão válida, desde que seja atribuída ao profissional a obrigação de informar desse facto a ou as outras partes contratantes o mais rapidamente possível, e que estas sejam livres de rescindir imediatamente o contrato.\n\nc) As alíneas g), j) e l) não se aplicam:\n\n— às transacções relativas a valores mobiliários e produtos ou serviços cujo preço dependa das flutuações de uma taxa de mercado financeiro que o profissional não controla,\n\n— aos contratos de compra ou venda de divisas, de cheques de viagem ou de vales postais internacionais expressos em divisas.\n\nd) A alínea 1) não prejudica as cláusulas de indexação de preços, desde que as mesmas sejam lícitas e o processo de variação do preço nelas esteja explicitamente descrito.\n\n---"
+  },
+  "d6d0025a08e9ef99": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/58215d6f-381b-4ff1-8566-a32538137b22.0019.03/DOC_1#src.E0001)) JO n.º C 73 de 24.3.1992, p. 7.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/58215d6f-381b-4ff1-8566-a32538137b22.0019.03/DOC_1#src.E0002)) JO n.º C 326 de 16.12.1991, p. 108 e JO n.º C 21 de 25.1.1993.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/58215d6f-381b-4ff1-8566-a32538137b22.0019.03/DOC_1#src.E0003)) JO n.º C 159 de 17.6.1991, p. 34.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/58215d6f-381b-4ff1-8566-a32538137b22.0019.03/DOC_1#src.E0004)) JO n.º C 92 de 25.4.1975, p. 1 e JO n.º C 133 de 3.6.1981, p. 1."
+  },
+  "c21359601226b27f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Abril de 1993\n\nrelativa às cláusulas abusivas nos contratos celebrados com os consumidores"
+  },
+  "cba7c52ceb3197de": {
+   "fragment_id": "Artigo 8.º-A",
+   "type": "artigo",
+   "heading": "Artigo 8.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-A\n\n1.\n\nSe um Estado-Membro adoptar disposições nos termos do artigo 8.º, ele informa a Comissão desse facto, bem como de modificações posteriores, em particular caso essas disposições:\n\n— alarguem a avaliação do carácter abusivo a cláusulas contratuais negociadas individualmente ou à adequação do preço ou da remuneração, ou\n\n— incluam listas de cláusulas contratuais consideradas abusivas.\n\n2. A Comissão assegura que a informação a que se refere o n.º 1 seja facilmente acessível aos consumidores e aos profissionais, nomeadamente num sítio Internet criado para o efeito.\n\n3. A Comissão envia a informação a que se refere o n.º 1 aos restantes Estados-Membros e ao Parlamento Europeu. A Comissão consulta as partes interessadas sobre essa informação."
+  },
+  "ad511bd3af7c8df3": {
+   "fragment_id": "Artigo 8.º-B",
+   "type": "artigo",
+   "heading": "Artigo 8.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-B\n\n1. Os Estados-Membros estabelecem as regras relativas às sanções aplicáveis em caso de violação das disposições nacionais adotadas nos termos da presente diretiva e tomam todas as medidas necessárias para garantir a sua aplicação. As sanções previstas devem ser efetivas, proporcionadas e dissuasivas.\n\n2. Os Estados-Membros podem restringir essas sanções às situações em que as cláusulas contratuais sejam expressamente definidas como abusivas segundo o direito nacional ou em que o profissional continue a recorrer a cláusulas contratuais que tenham sido consideradas abusivas numa decisão definitiva adotada nos termos do artigo 7.º, n.º 2.\n\n3.\n\nOs Estados-Membros asseguram que, na aplicação de uma sanção, são tidos em conta, sempre que for caso disso, os seguintes critérios não exaustivos e indicativos:\n\na) a natureza, gravidade, dimensão e duração da infração cometida;\n\nb) as medidas eventualmente adotadas pelo profissional para atenuar ou reparar os danos causados aos consumidores;\n\nc) as eventuais infrações cometidas anteriormente pelo profissional em causa;\n\nd) os benefícios financeiros obtidos ou os prejuízos evitados pelo profissional em virtude da infração cometida, se os dados em causa estiverem disponíveis;\n\ne) as sanções impostas ao profissional pela mesma infração noutros Estados-Membros, em situações transfronteiriças caso a informação sobre essas sanções esteja disponível através do mecanismo estabelecido pelo Regulamento (UE) 2017/2394 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/ca4536e5-e274-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0001));\n\nf) qualquer outro fator agravante ou atenuante aplicável às circunstâncias do caso concreto.\n\n4. Sem prejuízo do n.º 2 do presente artigo, os Estados-Membros asseguram que, aquando da aplicação de sanções nos termos do artigo 21.º do Regulamento (UE) 2017/2394, essas sanções contemplam a possibilidade de aplicar coimas por meio de procedimentos administrativos ou de intentar uma ação judicial para aplicação de coimas, ou ambas, sendo o montante máximo dessas coimas de, pelo menos, 4% do volume de negócios anual do profissional no(s) Estado(s)-Membro(s) em causa.\n\n5. Para os casos em que deva ser aplicada uma coima nos termos do n.º 4, mas em que não esteja disponível informação sobre o volume de negócios anual do profissional, os Estados-Membros introduzem a possibilidade de aplicar coimas cujo montante máximo deve ser de, pelo menos, dois milhões de euros.\n\n6. Os Estados-Membros notificam a Comissão, até 28 de novembro de 2021, das regras e medidas a que se refere o n.º 1 e notificam-na, sem demora, de qualquer alteração ulterior das mesmas."
+  },
+  "b1b272a525bc13e5": {
+   "fragment_id": "1. Cláusulas que têm como objectivo ou como efeito:",
+   "type": "divisao",
+   "heading": "1. Cláusulas que têm como objectivo ou como efeito:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. Cláusulas que têm como objectivo ou como efeito:\n\na) Excluir ou limitar a responsabilidade legal do profissional em caso de morte de um consumidor ou danos corporais que tenha sofrido em resultado de um acto ou de uma omissão desse profissional;\n\nb) Excluir ou limitar de forma inadequada os direitos legais do consumidor em relação ao profissional ou a uma outra parte em caso de não execução total ou parcial ou de execução defeituosa pelo profissional de qualquer das obrigações contratuais, incluindo a possibilidade de compensar uma dívida para com o profissional através de qualquer caução existente;\n\nc) Prever um compromisso vinculativo por parte do consumidor, quando a execução das prestações do profissional está sujeita a uma condição cuja realização depende apenas da sua vontade;\n\nd) Permitir ao profissional reter montantes pagos pelo consumidor se este renunciar à celebração ou à execução do contrato, sem prever o direito de o consumidor receber do profissional uma indemnização de montante equivalente se for este a renunciar;\n\ne) Impor ao consumidor que não cumpra as suas obrigações uma indemnização de montante desproporcionalmente elevado;\n\nf) Autorizar o profissional a rescindir o contrato de forma discricionária sem reconhecer essa faculdade ao consumidor, bem como permitir ao profissional reter os montantes pagos a título de prestações por ele ainda não realizadas quando é o próprio profissional que rescinde o contrato;\n\ng) Autorizar o profissional a pôr termo a um contrato de duração indeterminada sem um pré-aviso razoável, excepto por motivo grave;\n\nh) Renovar automaticamente um contrato de duração determinada na falta de comunicação em contrário por parte do consumidor, quando a data limite fixada para comunicar essa vontade de não renovação do contrato por parte do consumidor for excessivamente distante da data do termo do contrato;\n\ni) Declarar verificada, de forma irrefragável, a adesão do consumidor a cláusulas que este não teve efectivamente oportunidade de conhecer antes da celebração do contrato;\n\nj) Autorizar o profissional a alterar unilateralmente os termos do contrato sem razão válida e especificada no mesmo;\n\nk) Autorizar o profissional a modificar unilateralmente sem razão válida algumas das características do produto a entregar ou do serviço a fornecer;\n\nl) Prever que o preço dos bens seja determinado na data da entrega ou conferir ao vendedor de bens ou ao fornecedor de serviços o direito de aumentar os respectivos preços, sem que em ambos os casos o consumidor disponha, por seu lado, de um direito que lhe permita romper o contrato se o preço final for excessivamente elevado em relação ao preço previsto à data da celebração do contrato;\n\nm) Facultar ao profissional o direito de decidir se a coisa entregue ou o serviço fornecido está em conformidade com as disposições do contrato ou conferir-lhe o direito exclusivo de interpretar qualquer cláusula do contrato;\n\nn) Restringir a obrigação, que cabe ao profissional, de respeitar os compromissos assumidos pelos seus mandatários, ou de condicionar os seus compromissos ao cumprimento de uma formalidade específica;\n\no) Obrigar o consumidor a cumprir todas as suas obrigações, mesmo que o profissional não tenha cumprido as suas;\n\np) Prever a possibilidade de cessão da posição contratual por parte do profissional, se esse facto for susceptível de originar uma diminuição das garantias para o consumidor, sem que este tenha dado o seu acordo;\n\nq) Suprimir ou entravar a possibilidade de intentar acções judiciais ou seguir outras vias de recurso, por parte do consumidor, nomeadamente obrigando-o a submeter-se exclusivamente a uma jurisdição de arbitragem não abrangida por disposições legais, limitando indevidamente os meios de prova à sua disposição ou impondo-lhe um ónus da prova que, nos termos do direito aplicável, caberia normalmente a outra parte contratante."
+  },
+  "b1a344204e36eb3a": {
+   "fragment_id": "2. Alcance das alíneas g), j) e l)",
+   "type": "divisao",
+   "heading": "2. Alcance das alíneas g), j) e l)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. Alcance das alíneas g), j) e l)\n\na) A alínea g) não prejudica as cláusulas pelas quais o fornecedor de serviços financeiros se reserva o direito de extinguir unilateralmente e sem pré-aviso, no caso de razão válida, um contrato de duração indeterminada, desde que fique a cargo do profissional a obrigação de informar imediatamente dessa decisão a ou as outras partes contratantes.\n\nb) A alínea j) não prejudica as cláusulas segundo as quais o fornecedor de serviços financeiros se reserva o direito de alterar a taxa de juro devida pelo ou ao consumidor ou o montante de quaisquer outros encargos relativos a serviços financeiros sem qualquer pré-aviso em caso de razão válida, desde que seja atribuída ao profissional a obrigação de informar desse facto a ou as outras partes contratantes o mais rapidamente possível, e que estas sejam livres de rescindir imediatamente o contrato.\n\nc) As alíneas g), j) e l) não se aplicam:\n\n— às transacções relativas a valores mobiliários e produtos ou serviços cujo preço dependa das flutuações de uma taxa de mercado financeiro que o profissional não controla,\n\n— aos contratos de compra ou venda de divisas, de cheques de viagem ou de vales postais internacionais expressos em divisas.\n\nd) A alínea 1) não prejudica as cláusulas de indexação de preços, desde que as mesmas sejam lícitas e o processo de variação do preço nelas esteja explicitamente descrito.\n\n---"
+  },
+  "a6a2bf9abfdb973b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ca4536e5-e274-11ec-a534-01aa75ed71a1.0019.02/DOC_1#src.E0001)) ^*^Regulamento (UE) 2017/2394 do Parlamento Europeu e do Conselho, de 12 de dezembro de 2017, relativo à cooperação entre as autoridades nacionais responsáveis pela aplicação da legislação de proteção dos consumidores e que revoga o Regulamento (CE) n.º 2006/2004 (JO L 345 de 27.12.2017, p. 1)."
+  }
+ }
+}

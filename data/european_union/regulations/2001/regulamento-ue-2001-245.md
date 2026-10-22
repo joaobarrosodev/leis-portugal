@@ -36,6 +36,39 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-06-27'
+version_history:
+  file: regulamento-ue-2001-245.versoes.json
+  count: 2
+  source_lastmod: '2008-06-27'
+  versions:
+  - date: '2001-02-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-06-27'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Aprovação dos primeiros transformadores
+    - Suprime Artigo 4.º — Obrigações do transformador assimilado
+    - Suprime Artigo 5.º — Contratos
+    - Suprime Artigo 6.º — Informações a apresentar pelos operadores
+    - Suprime Artigo 7.º — Direito à ajuda
+    - Suprime Artigo 8.º — Quantidades nacionais garantidas
+    - Suprime Artigo 9.º — Pedido de ajuda
+    - Suprime Artigo 10.º — Pagamento por conta da ajuda
+    - Suprime Artigo 11.º — Ajuda complementar
+    - Suprime Artigo 12.º — Pagamento das ajudas
+    - Suprime Artigo 13.º — Controlo
+    - Suprime Artigo 14.º — Sanções
+    - Suprime Artigo 15.º — Comunicações
+    - Suprime Artigo 16.º — Facto gerador
+    - Suprime Artigo 17.º — Medidas transitórias
+    - Suprime Artigo 18.º — Regulamentos revogados
+    - Suprime Artigo 19.º
 identifiers:
   celex: 32001R0245
   eli: http://data.europa.eu/eli/reg/2001/245/oj
@@ -50,7 +83,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/33dbd0d1-9c63-48ea-9361-5a0db188b5a7.0010
   content_url: http://publications.europa.eu/resource/cellar/c9a7b610-b36c-47f6-ba96-e762e9d11670.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R0245-20080627
-  retrieved_at: '2026-10-22T02:51:20Z'
+  retrieved_at: '2026-10-22T14:50:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T19:34:14.407+01:00'
 integrity:
@@ -59,9 +92,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:20Z'
-  notes: Texto consolidado 02001R0245-20080627.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:34Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2001-245.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -194,16 +227,20 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:20Z'
+  checked_at: '2026-10-22T14:50:34Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02001R0245-20010701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0245-20020424: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0245-20020501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0245-20030801: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0245-20050701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02001R0245-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

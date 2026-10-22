@@ -1,0 +1,229 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31979L0373:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01979L0373-20100901",
+ "dre_path": null,
+ "source_lastmod": "2010-09-01",
+ "versions": [
+  {
+   "date": "1979-04-06",
+   "future": false,
+   "celex": "31979L0373",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b59e5647e700cb07",
+    "92141bca08bede52",
+    "39b0f3d96507014b",
+    "126ea1bde4cd2a65",
+    "7a7fc188b90ab59f",
+    "4590ae8c8312dfea",
+    "440f83eea1332874",
+    "a8f2aaa81a46c7cb",
+    "245d2632c82ed5d8",
+    "70ba48b9252b5320",
+    "e3dcf7242815961c",
+    "adaa6324a15f0783",
+    "119f29fa5ccd99e9",
+    "e71c5ea6c790e48f",
+    "dea427dc35c0c02a",
+    "99fa0ba6a6f62d31",
+    "b0aef8b31cfeace0",
+    "4229a4085b59eb2c",
+    "c89cc14dbd188b3a"
+   ]
+  },
+  {
+   "date": "2010-09-01",
+   "future": false,
+   "celex": "01979L0373-20100901",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "d2a5ee2868de02ed"
+   ]
+  }
+ ],
+ "fragments": {
+  "b59e5647e700cb07": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 79/373/CEE do Conselho, de 2 de Abril de 1979, relativa à comercialização de alimentos compostos para animais** *Jornal Oficial nº L 086 de 06/04/1979 p. 0030 - 0037 Edição especial finlandesa: Capítulo 3 Fascículo 10 p. 0205 Edição especial grega: Capítulo 03 Fascículo 25 p. 0033 Edição especial sueca: Capítulo 3 Fascículo 10 p. 0205 Edição especial espanhola: Capítulo 03 Fascículo 16 p. 0075 Edição especial portuguesa: Capítulo 03 Fascículo 16 p. 0075*\n\nDIRECTIVA DO CONSELHO de 2 de Abril de 1979 relativa à comercialização de alimentos compostos para animais\n\n(79/373/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 43o e 100o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a produção animal ocupa um lugar muito importante na agricultura da Comunidade Económica Europeia e que os eventuais resultados satisfatórios dependerão, em larga escala, da utilização de alimentos para animais apropriados e de boa qualidade;\n\nConsiderando que a existência de regulamentação do domínio dos alimentos para animais é um factor importante para o aumento da produtividade agrícola, tendo em consideração o papel importante que neste capítulo poderão desempenhar os alimentos compostos;\n\nConsiderando que, na regulamentação da comercialização dos alimentos compostos, há que ter especial atenção para que os alimentos compostos produzam um efeito positivo na produção animal; que os alimentos deverão por isso apresentar-se sempre sãos, não adulterados e de qualidade comerciável; que não devem, de igual modo, apresentar qualquer perigo para a saúde animal e humana, nem ser comercializados de forma que induza em erro;\n\nConsiderando que é necessário fornecer ao utente uma informação exacta e relevante sobre os alimentos compostos colocados à sua disposição; que, para isso, é conveniente declarar pelo menos o teor dos constituintes analíticos que determinem de forma substancial a qualidade do alimento;\n\nConsiderando que, enquanto não forem adoptadas disposições, suplementares, e dadas as práticas existentes em certos Estados-membros, se verifica a necessidade de prever - provisoriamente - a possibilidade de exigir, a nível nacional, uma declaração mais completa da composição dos alimentos quanto aos seus componentes e aos ingredientes neles utilizados; que, todavia, tais declarações apenas poderão ser exigidas na medida em que estejam previstas na presente directiva;\n\nConsiderando além disso que importa que todos os produtores de alimentos para animais tenham a possibilidade de indicar nas respectivas etiquetas certas informações de utilidade para o utente, que os Estados-membros mantêm igualmente o direito de autorizar os produtores a fornecer indicações complementares;\n\nConsiderando que, enquanto não forem adoptadas disposições comunitárias, os Estados-membros conservam a possibilidade de exigir que os alimentos compostos comercializados no seu território tenham sido fabricados a partir de certos ingredientes, ou estejam isentos de certos ingredientes, na medida em que as suas regulamentações prevejam tais limitações no momento da adopção da presente directiva;\n\nConsiderando que, enquanto os métodos comunitários não forem estabelecidos, os Estados-membros não poderão exigir ou permitir a indicação do valor energético a não ser que tal declaração tenha sido exigida ou autorizada no seu território no momento da adopção da presente directiva;\n\nConsiderando ser conveniente que, para dar garantias suficientes aos utentes, os alimentos compostos sejam, em princípio, comercializados em embalagens ou recipientes fechados; que parece, todavia, necessário prever possibilidades de derrogação a esta regra, em certos casos especiais a definir a nível comunitário;\n\nConsiderando que os Estados-membros devem providenciar no sentido de que os alimentos compostos que obedeçam ao disposto na presente directiva não sejam sujeitos, na Comunidade, a qualquer restrição de comercialização no que respeita à sua marcação e embalagem;\n\nConsiderando que, para assegurar no momento da comercialização o respeito pelas condições fixadas para os alimentos compostos, os Estados-membros têm de prever a existência de controlos apropriados;\n\nConsiderando que, para facilitar a introdução das medidas ora previstas e, em particular, das necessárias alterações e aditamentos às mesmas, mas há que prever um processo que instaure, entre os Estados-membros e a Comissão, uma estreita cooperação ao nível do Comité Permanente dos Alimentos para Animais instituído pela decisão 70/372/CEE (4);\n\nConsiderando que a presente directiva prevê um certo número de disposições nacionais derrogatórias e que, por isso, se torna necessário prever uma cláusula que permita, num dado prazo, rever alguns destes casos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "92141bca08bede52": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva diz respeito aos alimentos compostos para animais comercializados no interior da Comunidade.\n\n2. A presente directiva será aplicável sem prejuízo das disposições relativas:\n\na) Aos alimentos simples para animais;\n\nb) Aos aditivos utilizados na alimentação dos animais;\n\nc) À fixação dos teores máximos de substáncias e produtos nocivos em alimentos para animais;\n\nd) À fixação dos teores máximos de resíduos de pesticidas exterior ou interiormente existentes em produtos destinados à alimentação humana e animal;\n\ne) Às organizações de mercado no sector dos produtos agrícolas."
+  },
+  "39b0f3d96507014b": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nNa acepção da presente directiva, deverá entender-se por:\n\na) Alimentos para animais: substâncias orgânicas ou inorgânicas, simples ou em misturas e contendo ou não aditivos, que se destinem à nutrição animal por via oral;\n\nb) Alimentos compostos para animais: substâncias orgânicas ou inorgânicas em misturas, contendo ou não aditivos, que se destinem à nutrição animal por via oral sob forma quer de alimentos completos quer de alimentos complementares;\n\nc) Ração diária: quantidade total de alimentos, calculada a um teor em humidade de 12 %, necessária em média por dia a um animal, de determinada espécie, categoria etária e rendimento, para satisfazer o conjunto das suas necessidades;\n\nd) Alimentos completos: misturas de alimentos para animais que, dada a sua composição, sejam suficientes para assegurar uma ração diária;\n\ne) Alimentos complementares para animais: misturas de alimentos com elevadas taxas de certas substâncias e que, dada a sua composição, apenas assegurem a ração diária se associados a outros alimentos para animais;\n\nf) Alimentos minerais; alimentos complementares constituídos principalmente por minerais e que contenham pelo menos 40 % de cinza em bruto;\n\ng) Alimentos em melaços: alimentos complementares preparados a partir de melaço e que contenham pelo menos 14 % de açúcares totais, expressos em sacarose;\n\nh) Animais: animais que pertençam a espécies normalmente alimentadas, guardadas ou consumidas pelo homem;\n\ni) Animais de estimação: animais que pertençam a espécies normalmente alimentadas e guardadas, mas não consumidas pelo homem, à excepção dos animais que fornecem peles."
+  },
+  "126ea1bde4cd2a65": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros deverão estipular que os alimentos compostos apenas poderão ser comercializados se forem sãos, não adulterados e de qualidade comerciável. Deverão igualmente estipular que os alimentos compostos não poderão apresentar qualquer perigo para a saúde animal ou humana nem poderão ser apresentados ou comercializados de forma que induza em erro."
+  },
+  "7a7fc188b90ab59f": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Os Estados-membros deverão estipular que os alimentos compostos apenas poderão ser comercializados em embalagens fechadas ou recipientes fechados. Deverão igualmente estipular que as embalagens ou recipientes serão fechados de maneira a que o sistema de fecho fique destruído no momento da sua abertura, não podendo ser reutilizado.\n\n2. As derrogações ao princípio contido no no 1 a admitir a nível comunitário serão adoptadas em conformidade com o procedimento descrito no artigo 13o, devendo, não obstante continuar a ser asseguradas a identificação e a qualidade dos alimentos completos."
+  },
+  "4590ae8c8312dfea": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os Estados-membros deverão estipular que os alimentos compostos apenas poderão ser comercializados se as indicações adiante enumeradas - que deverão ser perfeitamente visíveis, claramente legíveis e indeléveis e responsabilizam o produtor ou o acondicionador, o importador ou o vendedor, ou o distribuidor estabelecidos no interior da Comunidade - constarem da embalagem, recipiente ou etiqueta a este fixada:\n\na) A denominação« alimento composto»;\n\nb) A espécie animal ou a categoria de animais a que seja destinado o alimento composto;\n\nc) O destino exacto;\n\nd) O modo de utilização, caso não figure claramente nas indicações mencionadas nas alíneas b) ou c);\n\ne) As declarações enumeradas no ponto 5 do anexo;\n\nf) O nome, ou denominação social e a morada, ou sede social do responsável pelas indicações a que se refere o presente número;\n\ng) O peso líquido e, para os produtos líquidos, o volume ou o peso líquidos.\n\nNo caso de alimentos compostos constituídos no máximo por três ingredientes, as indicações contidas na alínea b) e caso se justifique, nas alíneas c) e d) não serão necessárias se os ingredientes utilizados forem claramente mencionados na denominação.\n\n2. Os Estados-membros deverão estipular que, sempre que os alimentos compostos forem comercializados em camiões-cisterna, veículos similares ou em conformidade com o disposto no no 2 do artigo 4o, as indicações referidas no no 1, deverão constar da guia que os acompanhe. Caso se trate de alimentos em pequenas quantidades destinados ao último utente, será suficiente dar a conhecer ao comprador as referidas indicações, afixando-as de modo apropriado.\n\n3. Os Estados-membros poderão estipular que apenas será necessário que as indicações referidas nas alíneas b) a e) e g) do no 1 constem de um documento de acompanhamento.\n\n4. Os Estados-membros poderão exigir apenas a totalidade ou parte das seguintes indicações complementares:\n\na) A menção« alimento completo» ou« alimento complementar», conforme o caso, em vez da denominação« alimento completo»;\n\nb) Os ingredientes;\n\nc) As declarações previstas nos pontos 3, 4 e 6 do anexo;\n\nd) A data de fabrico;\n\ne) O peso líquido à embalagem (na origem) em vez do peso líquido previsto na alínea g) do no 1;\n\nf) O teor de leite em pó nos alimentos de aleitamento e o de cereais nos alimentos compostos; e não exigir nese caso, a declaração de outros ingredientes a que se refere o no 7 do artigo 5o.\n\n5. Os Estados-membros deverão estipular que, em relação às indicações previstas no no 1, apenas as indicações complementares adiante enumeradas poderan ser mencionadas na embalagem, no recipiente, na etiqueta ou no documento de acompanhamento dos alimentos compostos:\n\na) A marca de identificação ou a marca comercial do responsável pelas indicações referidas no presente número;\n\nb) O número de referência do lote;\n\nc) A data-limite de conservação do produto;\n\nd) O país de produção ou de fabrico;\n\ne) O preço do produto;\n\nf) O modo de utilização, se não for exigido nos termos do no 1;\n\ng) As declarações mencionadas no ponto 7 do anexo.\n\n6. Os Estados-membros poderão determinar que, em relação às indicações previstas no no 1, poderão apenas ser igualmente mencionadas na embalagem, no recipiente, na etiqueta ou no documento de acompanhamento dos alimentos compostos, as seguintes indicações complementares:\n\na) O nome ou a denominação social e a morada ou a sede social do fabricante, se este não for responsável pelas indicações rotuladas;\n\nb) A denominação comercial do produto;\n\nc) Os ingredientes;\n\nd) Se necessário, indicações relativas ao disposto na alínea a) do artigo 14o;\n\ne) A data de fabrico;\n\nf) As declarações enumeradas no ponto 8 do anexo.\n\n7. Na medida em que forem fornecidas todas as indicações relativas aos ingredientes todos os ingredientes utilizados deverão ser mencionados, quer indicando o seu conteúdo, quer por ordem decrescente de peso no alimento composto. Os Estados-membros poderão optar por exigir uma destas duas formas de indicação, que excluirá a outra. Caso os Estados-membros não tenham tomado quaisquer medidas resultantes do disposto na alínea b) do artigo 10o, classificar os ingredientes por categoria, ou manter categorias existentes, e permitir que a indicação dos ingredientes seja substituída pela das categorias.\n\n8. Quaisquer outras informações que venha a ser necessário inscrever nas embalagens, recipientes, etiquetas e documentos de acompanhamento deverão neles figurar separadamente das menções referidas nos nos 1 a 7."
+  },
+  "440f83eea1332874": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros deverão estipular a obrigatoriedade de aplicação do disposto nos pontos 1, 2, 9.1 e 9.2 do anexo à comercialização dos alimentos compostos."
+  },
+  "a8f2aaa81a46c7cb": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros poderão estipular que o disposto nos pontos 3,4 e 9.3 do anexo seja aplicado à comercialização dos alimentos compostos e, relativamente ao ponto 9.3. do anexo, fixar margens de tolerância para os componentes que dele não constem."
+  },
+  "245d2632c82ed5d8": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros ficam autorizados, desde que a legislação nacional assim o permita à data de adopção da presente directiva, a limitar a comercialização dos alimentos compostos àqueles:\n\n- que forem obtidos a partir de certos ingredientes,\n\nou\n\n- que não contenham certos ingredientes."
+  },
+  "70ba48b9252b5320": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros deverão tomar providências para que os alimentos compostos não fiquem sujeitos, por razões que digam respeito às disposições contidas na presente directiva, a restrições de comercialização diferentes das nela previstas."
+  },
+  "e3dcf7242815961c": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nDe harmonia com o procedimento previsto no artigo 13o, e em função da evolucão dos conhecimentos científicos e técnicos, deverá proceder-se:\n\na) As necessárias alterações ao anexo;\n\nb) Ao estabelecimento de categorias de ingredientes cuja declaração esteja previstas nos nos 4 e 6 do artigo 5o;\n\nc) Ao estabelecimento dos métodos de cálculo do valor energético dos alimentos compostos."
+  },
+  "adaa6324a15f0783": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nPara efeitos das trocas comerciais entre Estados-membros, as indicações referidas nos nos 1 a 7 do artigo 5o deverão ser redigidas pelo menos numa das línguas nacionais ou oficiais do país de destino."
+  },
+  "119f29fa5ccd99e9": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nOs Estados-membros deverão providenciar a que seja feito, pelo menos por sondagem de amostras, um controlo oficial no sentido de fiscalizar se são ou não respeitadas, nas várias fases de comercialização, as condições estipuladas pela presente directiva."
+  },
+  "e71c5ea6c790e48f": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. Em caso de necessidade de aplicação do procedimento definido no presente artigo, o assunto será imediatamente submetido à apreciação do Comité Permanente dos Alimentos para Animais, adiante designado por« Comité», pelo seu presidente, que o fará por sua própria iniciativa ou a pedido de um Estado-membro.\n\n2. Para efeitos da votação pelo Comité, os votos dos Estados-membros serão objecto da ponderação prevista no no 2 do artigo 148o do Tratado, não tendo o presidente direito a voto.\n\n3. O representante da Comissão apresentará um projecto das medidas a tomar, ao Comité, que sobre elas emitirá um parecer, no prazo determinado pelo presidente em função da urgência das questões submetidas a análise, proferido por maioria de quarenta e um votos.\n\n4. A Comissão adoptará e aplicará imediatamente medidas, que deverão estar em conformidade com o parecer do Comité. Se não estiverem em conformidade com o parecer do Comité, ou na ausência de parecer, a Comissão apresentará imediatamente ao Conselho uma proposta de medidas a tomar, as quais serão aprovadas pelo Conselho por maioria qualificada.\n\n5. Se decorrido o prazo de três meses a contar da data em que a questão tenha sido submetida à apreciação do Conselho este não adopte quaisquer medidas, a Comissão adoptará as medidas propostas, aplicando-as imediatamente caso o Conselho contra elas não se tenha pronunciado por maioria simples."
+  },
+  "dea427dc35c0c02a": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nOs Estados-membros não gozarão do direito de:\n\na) Recomendar tipos de alimentos compostos cuja composição tenha certas características;\n\nb) Não aplicar o disposto na presente directiva aos alimentos compostos que se comprove, pelo menos por uma das suas indicações ou marcas, serem destinados à exportação para países terceiros;\n\nc) Não aplicar o disposto na presente directiva aos alimentos compostos que se comprove, por especial indicação contida no respectivo rótulo serem destinados a animais utilizados para fins científicos ou experimentais."
+  },
+  "99fa0ba6a6f62d31": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nA Comissão, com base na experiência adquirida, transmitirá ao Conselho, o mais tardar três anos após a notificação da presente directiva, propostas de alteração à mesma directiva no sentido de permitir a livre circulação dos alimentos compostos para animais e eliminar certas disparidades, em particular no que diz respeito à utilização dos ingredientes e à rotulagem. O Conselho deliberará sobre estas propostas o mais tardar cinco anos após a notificação da presente directiva."
+  },
+  "b0aef8b31cfeace0": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nOs Estados-membros deverão pôr em vigor, antes de 1 de Janeiro de 1981, as disposições legislativas, regulamentares e administrativas necessárias ao cumprimento da presente directiva, do facto informando imediatamente a Comissão."
+  },
+  "4229a4085b59eb2c": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo em 2 de Abril de 1979.\n\nPelo Conselho\n\nO Presidente\n\nJ. FRANÇOIS-PONCET\n\n(1) JO no C 34 de 14. 4. 1971, p. 8.(2) JO no C 10 de 5. 2. 1972, p. 35.(3) JO no C 4 de 20. 1. 1972, p. 3.(4) JO no L 170 de 3. 8. 1970, p. 1."
+  },
+  "c89cc14dbd188b3a": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1. Os teores indicados ou a declarar referir-se-ao, salvo indicações em contrário, ao peso de alimento composto propriamente dito.\n\n2. O teor de água não deverá ultrapassar 7 % nos alimentos para aleitamento e outros alimentos compostos cujo teor de produtos lácteos seja inferior a 40 %.\n\n3. O teor de água não deverá ultrapassar:\n\n- 5 % nos alimentos minerais que não contenham elementos orgânicos;\n\n- 10 % nos alimentos minerais que contenham substâncias orgânicas;\n\n- 14 % nos outros alimentos compostos, com exclusão:\n\n- das sementes inteiras,\n\n- dos alimentos à base de melaços,\n\n- dos alimentos compostos semi-húmidos, húmidos e líquidos, entendendo-se que o referido teor de água poderá ser superior caso tenham sido utilizados agentes de conservação e contanto que tal teor de água e a data de duração do alimento sejam declarados.\n\n4. Os Estados-membros poderão, sem prejuízo do disposto no artigo 3o, estipular que o teor de cinza insolúvel no ácido clorídrico não deverá ultrapassar, em relação à matéria seca, 3,3 % no caso de alimentos compostos que contenham principalmente derivados de arroz e, nos restantes casos, 2,2 %.\n\nEste teor poderá todavia ser superior, no caso:\n\n- de alimentos compostos que contenham agentes que liguem minerais autorizados,\n\n- de alimentos compostos minerais,\n\n- de alimentos compostos que contenham mais de 50 % de casca ou de polpa de beterraba de açúcar,\n\ne contanto que caso aquele teor ultrapasse 3,3 % em relação à matéria seca seja expressamente declarado, em termos percentuais relativamente à matéria total constante do alimento.\n\n5. Declarações em conformidade com o no 1 do artigo 5o:\n\n5.1. Teores dos componentes dos alimentos compostos, à excepcão de misturas de sementes inteiras, dos alimentos compostos referidos em 5.2, 5.3 e dos alimentos compostos para animais de estimação, à excepção de caninos e felinos:\n\n- proteína bruta,\n\n- substâncias gordas brutas,\n\n- celulose bruta,\n\n- cinzas brutas;\n\n5.2. Teores dos componentes dos alimentos minerais:\n\n- cinzas brutas,\n\n- cálcio,\n\n- fósforo,\n\n- sódio;\n\n5.3. Teores dos componentes dos alimentos à base de melaços:\n\n- celulose bruta,\n\n- açúcares totais, expressos em sacarose.\n\n6. Declarações em conformidade com o no 4 do artigo 5o:\n\n6.1. Teores dos componentes e critérios de composição dos alimentos compostos, com excepção de misturas de sementes inteiras, dos alimentos compostos referidos em 6.2, 6.3 e 6.4 e dos alimentos compostos para os animais de estimação não referidos em 6.4:\n\n- proteína solúvel,\n\n- humidade,\n\n- amido,\n\n- açúcares totais, expressos em sacarose,\n\n- cálcio,\n\n- magnésio,\n\n- sódio,\n\n- fósforo,\n\n- cistina unicamente para suínos, aves de capoeira e ruminantes em idade de préruminação,\n\n- lisina unicamente para suínos, aves de capoeira e ruminantes em idade de préruminação,\n\n- metionina unicamente para suínos, aves de capoeira e ruminantes em idade de préruminação,\n\n- valor energético, calculado em conformidade com um método oficialmente reconhecido;\n\n6.2. Teores dos componentes dos alimentos minerais:\n\n- proteína bruta;\n\n- proteína solúvel,\n\n- substâncias gordas brutas,\n\n- celulose bruta,\n\n- magnésio,\n\n- humidade,\n\n- lisina (exclusivamente para suínos);\n\n6.3. Teores dos componentes dos alimentos à base de melaços:\n\n- proteína bruta,\n\n- proteína solúvel,\n\n- substâncias gordas brutas,\n\n- cinzas brutas,\n\n- humidade;\n\n6.4. Teores dos elementos componentes dos alimentos para caninos e felinos de estimação:\n\n- humidade.\n\n7. Declarações em conformidade com o no 5 do artigo 5o:\n\n7.1. Teores dos componentes dos alimentos compostos para caninos e felinos de estimação:\n\n- cálcio,\n\n- sódio,\n\n- fósforo,\n\n- humidade;\n\n7.2. Teores dos componentes dos alimentos compostos para animais de estimação à excepção de caninos e felinos:\n\n- humidade,\n\n- proteína bruta,\n\n- Substâncias gordas brutas,\n\n- celulosa bruta,\n\n- cinzas brutas,\n\n- cálcio,\n\n- sódio,\n\n- fósforo.\n\n8. Declarações em conformidade com o no 6 do artigo 5o:\n\n8.1. Teores dos componentes analíticos e critérios de composição dos alimentos compostos, à exclusão dos alimentos compostos para animais de estimação e dos alimentos compostos referidos no ponto 8.2:\n\n- humidade,\n\n- amido,\n\n- açúcares totais expressos em sacarose,\n\n- proteína solúvel,\n\n- cálcio,\n\n- magnésio,\n\n- sódio,\n\n- fósforo,\n\n- cistina, unicamente para suínos, aves de capoeira e ruminantes em idade de pré-ruminação,\n\n- lisina, unicamente para suínos, aves de capoeira e ruminantes em idade de pré-ruminação,\n\n- metionina unicamente para suínos, aves de capoeira e ruminantes em idade de pré-ruminação,\n\n- valor energético, calculado em conformidade com um método oficialmente reconhecido;\n\n8.2. Teores dos componentes dos alimentos minerais:\n\n- proteína bruta,\n\n- proteína solúvel,\n\n- substâncias gordas brutas,\n\n- celulose bruta,\n\n- magnésio.\n\n9. Se, na sequência de fiscalizacões oficiais dos alimentos compostos prescritos pelo artigo 12o, se verificar uma diferença entre o resultado da fiscalização e o conteúdo declarado, as tolerâncias aplicadas serão, sob reserva das disposições do artigo 3o, pelo menos as seguintes:\n\n9.1. Se o teor verificado for inferior ao teor declarado:\n\n9.1.0. Proteína bruta:\n\n- 1,8 unidades para teores declarados iguais ou superiores a 30 %,\n\n- 6 % do teor declarado para teores declarados inferiores a 30 % (até 15 %),\n\n- 0,9 unidades para teores declarados inferiores a 15 %;\n\n9.1.1. Proteína solúvel:\n\n- 2,5 unidades para teores declarados iguais ou superiores a 25 %,\n\n- 10 % do teor declarado para teores declarados inferiores a 25 % (até 15 %),\n\n- 1,5 unidades para os conteúdos declarados inferiores a 15 %;\n\n9.1.2. Açúcares totais:\n\n- 2 unidades para teores declarados iguais ou superiores a 20 %,\n\n- 10 % do teor declarado para teores declarados inferiores a 20 % (até 10 %),\n\n- 1 unidade para teores declarados inferiores a 10 %;\n\n9.1.3. Amido:\n\n- 2,5 unidades para teores declarados iguais ou superiores a 25 %,\n\n- 10 % do teor declarado para teores declarados inferiores a 25 % (até 10 %),\n\n- 1 unidade para teores declarados inferiores a 10 %;\n\n9.1.4. Substâncias gordas brutas:\n\n- 1,5 unidades para teores declarados iguais ou superiores a 15 %,\n\n- 10 % do teor declarado para teores declarados inferiores a 15 % (até 8 %),\n\n- 0,8 unidades para teores declarados inferiores a 8 %;\n\n9.1.5. Fósforo total, cálcio, magnésio e sódio:\n\n- 1,5 unidades para teores declarados iguais ou superiores a 15 %,\n\n- 10 % do teor declarado para teores declarados inferiores a 15 % (até 1 %),\n\n- 0,1 unidades para teores declarados inferiores a 1 %;\n\n9.1.6. Metionina, lisina e cistina:\n\n- 15 % do teor declarado.\n\n9.2. Se o teor analisado for superior ao teor declarado:\n\n9.2.1. Humidade:\n\n- 1 unidade para teores declarados iguais ou superiores a 10 %,\n\n- 10 % do teor declarado para teores declarados inferiores a 10 % (até 2 %),\n\n- 0,2 unidades para teores declarados inferiores a 2 %;\n\n9.2.2. Cinzas brutas:\n\n- 1 unidade para teores declarados iguais ou superiores a 10 %,\n\n- 10 % do conteúdo declarado para teores declarados inferiores a 10 % (até 5 %),\n\n- 0,5 unidades para teores declarados inferiores a 5 %;\n\n9.2.3. Celulose bruta:\n\n- 1,2 unidades para teores declarados iguais ou superiores a 8 %,\n\n- 15 % do teor declarado para teores declarados inferiores a 8 % (até 4 %),\n\n- 0,6 unidades par teores declarados inferiores a 4 %;\n\n9.2.4. Cinzas insolúveis em ácido clorídrico:\n\n- 10 % do teor declarado para teores declarados iguais ou superiores a 3 %,\n\n- 0,3 unidades para teores declarados inferiores a 3 %;\n\n9.3. Se a diferença verificada for em sentido inverso ao da diferença referida nos pontos 9.1 e 9.2.:\n\n9.3.1. - proteína bruta, substâncias gordas brutas, açúcares totais e amido: margem de tolerância dupla da admitida no ponto 9.1. para as mesmas substâncias,\n\n- fósforo total, cálcio, magnésio, sódio, cinzas brutas e celulose bruta: margem de tolerância tripla da admitida nos pontos 9.1 e 9.2 para as mesmas substâncias."
+  },
+  "d2a5ee2868de02ed": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1979L0373 — PT — 01.09.2010 — 009.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31979L0373) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31979L0373) [de 2 de Abril de 1979](http://publications.europa.eu/resource/celex/31979L0373) [relativa à circulação de alimentos compostos para animais](http://publications.europa.eu/resource/celex/31979L0373) [(79/373/CEE)](http://publications.europa.eu/resource/celex/31979L0373) (JO L 086, 6.4.1979, p.30)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 767/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0767) — L 229 — 1 — 1.9.2009"
+  }
+ }
+}

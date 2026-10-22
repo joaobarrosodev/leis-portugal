@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-08-14'
+version_history:
+  file: diretiva-ue-1996-53.versoes.json
+  count: 1
+  source_lastmod: '2019-08-14'
+  versions:
+  - date: '2019-08-14'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31996L0053
   eli: http://data.europa.eu/eli/dir/1996/53/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/998acf36-d456-4481-b216-96106e8254c5.0011
   content_url: http://publications.europa.eu/resource/cellar/1c5d9587-e9b8-11e9-9c4e-01aa75ed71a1.0019.03/DOC_10
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0053-20190814
-  retrieved_at: '2026-10-22T02:37:38Z'
+  retrieved_at: '2026-10-22T14:45:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T22:10:41.034+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:38Z'
-  notes: Texto consolidado 01996L0053-20190814.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:45:15Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-1996-53.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -236,36 +245,23 @@ relationships:
   source: null
 article_structure:
   article_count: 22
-  section_count: 13
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 14
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:38Z'
-  warnings: []
+  checked_at: '2026-10-22T14:45:15Z'
+  warnings:
+  - '01996L0053-19960917: versão indisponível (Sem expressão na língua por para CELEX 01996L0053-19960917.)'
+  - '01996L0053-20020309: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01996L0053-20150526: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01996L0053-20190710: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 96/53/CE do Conselho de 25 de Julho de 1996
-
-> 01996L0053 — PT — 14.08.2019 — 004.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32002L0007) — [DIRECTIVA 2002/7/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Fevereiro de 2002](http://publications.europa.eu/resource/celex/32002L0007) — L 67 — 47 — 9.3.2002
-- [►M2](http://publications.europa.eu/resource/celex/32015L0719) — [DIRETIVA (UE) 2015/719 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de abril de 2015](http://publications.europa.eu/resource/celex/32015L0719) — L 115 — 1 — 6.5.2015
-- [►M3](http://publications.europa.eu/resource/celex/32019D0984) — [DECISÃO (UE) 2019/984 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019](http://publications.europa.eu/resource/celex/32019D0984) — L 164 — 30 — 20.6.2019
-- [►M4](http://publications.europa.eu/resource/celex/32019R1242) — [REGULAMENTO (UE) 2019/1242 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1242) — L 198 — 202 — 25.7.2019
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32015L0719R%2804%29) — [Rectificação, JO L 277, 27.10.2022, p. 314 (2015/719)](http://publications.europa.eu/resource/celex/32015L0719R%2804%29)
-
-## DIRECTIVA 96/53/CE DO CONSELHO
 
 de 25 de Julho de 1996
 

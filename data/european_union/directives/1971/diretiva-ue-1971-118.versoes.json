@@ -1,0 +1,399 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31971L0118:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01971L0118-20060101",
+ "dre_path": null,
+ "source_lastmod": "2006-01-01",
+ "versions": [
+  {
+   "date": "1971-03-08",
+   "future": false,
+   "celex": "31971L0118",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "45c7e8106e0c09b5",
+    "cd862d01e9a5384c",
+    "41616a824014560b",
+    "c443c5cff3c80afc",
+    "37ab1873299c3023",
+    "e712c131d78afd48",
+    "182eb07d574274f7",
+    "a51f566380b5bbca",
+    "867ebfa434895544",
+    "98990bcc62a62dc4",
+    "9f38c563c08a8e41",
+    "ed4864da97a79795",
+    "aafabf69ec96c7c0",
+    "3c02d51189cb9cee",
+    "803e2cc08c5b9db8",
+    "e4c3fb4bad48561b",
+    "afd9248bb05771f0",
+    "5a5ad464b67f5a90",
+    "bfeb8d9722df2bc4",
+    "f97267057976ef66",
+    "a2b8e4b4910e963e",
+    "0d94c1b0a0c20124",
+    "772d607bea0d352c",
+    "002ba233584ffe6f",
+    "16e2def086f95fa2",
+    "2d860b24a1688cbd",
+    "ec79826508c53709",
+    "665652dce0913196",
+    "4f2613b43229f695",
+    "b98bb30f66f41ec1",
+    "f8221a719c5e7f84",
+    "363b44c1f62e785e",
+    "4f2e94cc1472e71f",
+    "9d95df505a7fe8c9",
+    "3925588250327921",
+    "4abe56c452e86684"
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "celex": "01971L0118-20060101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime TÍTULO I — Disposições gerais",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime TÍTULO II — Disposições relativas às trocas comerciais intracomunitárias e às trocas comerciais no interior dos Estados-membros",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime TÍTULO III — Disposições relativas unicamente ao comércio intracomunitário",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime TÍTULO IV — Disposições finais",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 18o",
+    "Suprime ANEXO I — CAPÍTULO I",
+    "Suprime CAPÍTULO II — HIGIENE DOS PESSOAL, DOS LOCAIS, DO MATERIAL E DOS UTENSÍLIOS NOS MATADOUROS",
+    "Suprime CAPÍTULO III — INSPECÇÃO SANITÁRIA ANTE MORTEM",
+    "Suprime CAPÍTULO IV — HIGIENE NO ABATE",
+    "Suprime CAPÍTULO V — INSPECÇÃO SANITÁRIA POST MORTEM",
+    "Suprime CAPÍTULO VI — DECISÃO DO VETERINÁRIO OFICIAL NA INSPECÇÃO POST MORTEM",
+    "Suprime CAPÍTULO VII — APOSIÇÃO DAS MARCAS DE INSPECÇÃO VETERINÁRIA",
+    "Suprime CAPÍTULO VIII — CERTIFICADO DE INSPECÇÃO VETERINÁRIA",
+    "Suprime CAPÍTULO IX — ARMAZENAGEM",
+    "Suprime CAPÍTULO X — EMBALAGEM",
+    "Suprime CAPÍTULO XI — TRANSPORTE",
+    "Suprime ANEXO II — CONDIÇÕES EXIGIDAS RELATIVAMENTE AOS AUXILIARES",
+    "Suprime ANEXO III — MODELO",
+    "Suprime ANEXO IV — MODELO"
+   ],
+   "fragments": [
+    "068a3a2ef90c4d56"
+   ]
+  }
+ ],
+ "fragments": {
+  "45c7e8106e0c09b5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 71/118/CEE do Conselho, de 15 de Fevereiro de 1971, relativa a problemas sanitários em matéria de comércio de carnes frescas de aves de capoeira** *Jornal Oficial nº L 055 de 08/03/1971 p. 0023 - 0039 Edição especial finlandesa: Capítulo 3 Fascículo 3 p. 0144 Edição especial dinamarquesa: Série I Capítulo 1971(I) p. 0097 Edição especial sueca: Capítulo 3 Fascículo 3 p. 0144 Edição especial inglesa: Série I Capítulo 1971(I) p. 0106 Edição especial grega: Capítulo 03 Fascículo 6 p. 0116 Edição especial espanhola: Capítulo 03 Fascículo 4 p. 0131 Edição especial portuguesa: Capítulo 03 Fascículo 4 p. 0131*\n\nDIRECTIVA DO CONSELHO de 15 de Fevereiro de 1971 relativa a problemas sanitários em matéria de comércio de carnes frescas de aves de capoeira\n\n(71/118/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 43o e 100o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social,\n\nConsiderando que, pelo Regulamento no 123/67/CEE do Conselho, de 13 de Junho de 1967, que estabelece a organização comum de mercado no sector da carne de aves de capoeira (1), se institui um mercado único neste sector;\n\nConsiderando que a aplicação deste regulamento não terá os efeitos pretendidos enquanto o comércio se encontrar entravado pelas disparidades existentes nos Estados-membros em matéria de prescrições sanitárias no domínio das carnes de aves de capoeira;\n\nConsiderando que, para eliminar essas disparidades é necessário proceder à aproximação das legislações dos Estados-membros em matéria sanitária;\n\nConsiderando que é oportuno elaborar, neste domínio, disposições comunitárias destinadas a serem aplicadas igualmente às carnes de aves postas em circulação dentro dos Estados-membros após um período de transição, durante o qual estas disposições apenas se aplicarão ao comércio intracomunitário; que convém, todavia, excluir do campo de aplicação da presente directiva as carnes de aves de capoeira entregues pelo produtor directamente ao consumidor em certas condições;\n\nConsiderando que a aproximação de legislações prevista deve, em especial, ter como objectivo a uniformização das condições sanitárias das carnes de aves de capoeira nos matadouros, bem como das respectivas condições de armazenagem e transporte; que convém deixar às autoridades competentes dos Estados-membros o encargo de licenciar os matadouros que correspondam às condições sanitárias fixadas na presente directiva, e de assegurar o cumprimento das condições previstas para a concessão dessa licença; que é conveniente, igualmente, prever o licenciamento dos armazéns frigoríficos pelos Estados-membros;\n\nConsiderando que, para assegurar uma inspecção sanitária satisfatória é necessário, tendo em conta as condições especiais em que essa inspecção se realiza, confiar certas tarefas a auxiliares qualificados sob a responsabilidade e o controlo do veterinário oficial;\n\nConsiderando que convém definir, para o conjunto dos Estados-membros, exigências mínimas uniformes relativas ao nível teórico e prático de formação desses auxiliares e às condições de qualquer outra natureza indispensáveis para assegurar a sua competência, idoneidade e imparcialidade, sem excluir a eventualidade de uma unificação progressiva no que respeita às regras e aos programas de formação desses auxiliares;\n\nConsiderando que, relativamente ao comércio intracomunitário, a emissão de um certificado de inspecção veterinária passado por um veterinário oficial do país expedidor foi considerada o meio mais apropriado para garantir às autoridades competentes do país de destino que uma determinada remessa de carnes de aves de capoeira obedece ao disposto na presente directiva; que esse certificado deve acompanhar as carnes de aves de capoeira até ao local de destino;\n\nConsiderando que os Estados-membros devem dispor da faculdade de recusar a introdução no seu território de carnes de aves de capoeira provenientes de outro Estado-membro que se apresentem impróprias para consumo humano ou que não obedeçam às disposições comunitárias em matéria sanitária;\n\nConsiderando que, neste caso, se não existirem razões contrárias de natureza sanitária e se o expedidor ou um seu mandatário o requererem, convém permitir-lhe que proceda à reexpedição de carne;\n\nConsiderando que, para permitir aos interessados a apreciação das razões que determinaram uma proibição ou restrição, é importante que os motivos que lhe deram origem sejam dados a conhecer ao expedidor ou ao seu mandatário bem como, em certos casos, às autoridades competentes do país expedidor;\n\nConsiderando que convém dar ao expedidor a possibilidade de solicitar o parecer de um perito veterinário, a escolher de uma lista elaborada pela Comissão, caso entre aquele e as autoridades do Estado-membro destinatário surja qualquer litígio sobre o fundamento de alguma proibição ou restrição;\n\nConsiderando que convém que os conflitos que possam surgir entre os Estados-membros a respeito do fundamento do licenciamento de qualquer matadouro sejam resolvidos, segundo o procedimento de urgência, no interior do Comité Veterinário Permanente, instituído pelo Conselho em 15 de Outubro de 1968;\n\nConsiderando que, em certos domínios onde existem problemas especiais, a aproximação das disposições dos Estados-membros só poderá realizar-se depois de se proceder a um estudo mais aprofundado;\n\nConsiderando que as disposições de polícia sanitária relativas ao comércio de aves de capoeira vivas e de carnes frescas de aves de capoeira serão objecto de outras directivas comunitárias; que se afigura necessário, desde já, efectuar uma primeira aproximação das disposições nacionais neste domínio, definindo certas condições em que os Estados-membros poderão recusar ou restringir a introdução de carnes de aves de capoeira no respectivo território por motivos sanitários e prevendo um procedimento comunitário de urgência no interior do Comité Veterinário Permanente acima referido, segundo o qual as edidas adoptadas por um Estado-membro possam ser examinadas e, se for caso disso, alteradas ou revogadas, em cooperação estreita entre os Estados-membros e a Comissão,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "cd862d01e9a5384c": {
+   "fragment_id": "TÍTULO I — Disposições gerais",
+   "type": "divisao",
+   "heading": "TÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Disposições gerais"
+  },
+  "41616a824014560b": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva diz respeito ao comércio de carnes frescas provenientes de animais domésticos pertencentes às seguintes espécies: galinhas, perus, pintadas, patos e gansos.\n\n2. Consideram-se carnes de aves de capoeira todas as partes desses animais próprias para consumo humano.\n\n3. Consideram-se frescas as carnes de aves de capoeira que não tenham sido submetidas a qualquer tratamento para assegurar a sua conservação; as carnes de aves de capoeira tratadas pelo frio são, todavia, consideradas frescas, para efeitos da aplicação da presente directiva."
+  },
+  "c443c5cff3c80afc": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nNa acepção da presente directiva entende-se por:\n\na) Carcaça: o corpo completo de uma ave de capoeira depois de sangrada, depenada e eviscerada; são facultativos, todavia, a ablação dos rins bem como o seccionamento das patas ao nível do tarso e a ablação da cabeça;\n\nb) Partes da carcaça: as partes da carcaça tal como está definida na alínea a);\n\nc) Miudezas: as carnes frescas que não sejam carne da carcaça tal como definida na alínea a), mesmo que estejam anatomicamente ligadas à carcaça;\n\nd) Vísceras: as miudezas que se encontram nas cavidades torácica, abdominal e pélvica, incluindo a traqueia, o esófago e, se for caso disso, o papo;\n\ne) Inspecção sanitária ante mortem: inspecção de aves de capoeira vivas de acordo com o capítulo III do Anexo I.\n\nf) Inspecção sanitária post mortem: inspecção de aves de capoeira abatidas no matadouro, imediatamente após o abate, de acordo com o Capítulo V do Anexo I;\n\ng) Veterinário oficial: o veterinário designado pela autoridade central competente do Estado-membro;\n\nh) Auxiliar: técnico oficialmente designado pela autoridade central competente do Estado-membro para prestar assistência ao veterinário oficial;\n\ni) País expedidor: o Estado-membro a partir do qual as carnes frescas de aves de capoeira são expedidas para outro Estado-membro;\n\nj) País destinatário: o Estado-membro para onde são expedidas carnes frescas de aves de capoeira provenientes de outro Estado-membro."
+  },
+  "37ab1873299c3023": {
+   "fragment_id": "TÍTULO II — Disposições relativas às trocas comerciais intracomunitárias e às trocas comerciais no interior dos Estados-membros",
+   "type": "divisao",
+   "heading": "TÍTULO II — Disposições relativas às trocas comerciais intracomunitárias e às trocas comerciais no interior dos Estados-membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Disposições relativas às trocas comerciais intracomunitárias e às trocas comerciais no interior dos Estados-membros"
+  },
+  "e712c131d78afd48": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Cada Estado-membro velará para que apenas sejam admitidas no comércio as carnes frescas de aves de capoeira que, sem prejuízo do disposto no artigo 11o, obedeçam às condições seguintes:\n\na) Terem sido obtidas num matadouro autorizado e fiscalizado, de acordo com o no 1 do artigo 5o;\n\nb) Serem provenientes de animais que tenham sido submetidos a inspecção sanitária ante mortem, assegurada por um veterinário oficial ou por auxiliares, de acordo com o disposto no artigo 4o e que, na sequência desse exame, tenham sido considerados próprios para abate para o comércio de carnes frescas de aves de capoeira;\n\nc) Terem sido tratadas em condições de higiene satisfatórias, de acordo com as disposições do Capítulo IV do Anexo I;\n\nd) Terem sido submetidas a inspecção sanitária post mortem assegurada por um veterinário oficial ou por auxiliares, de acordo com o disposto no artigo 4o e consideradas próprias para consumo humano, de acordo com as disposições do Capítulo VI do Anexo I;\n\ne) Apresentarem uma marca de inspecção sanitária, de acordo com as disposições do Capítulo VII do Anexo I;\n\nf) Serem armazenadas, após inspecção post mortem, em condições de higiene satisfatórias, de acordo com as disposições do Capítulo IX do Anexo I, em matadouros autorizados e fiscaldizados, de acordo com o no 1 do artigo 5o ou em armazéns frigoríficos autorizados e fiscalizados nos termos do no 4 do artigo 5o;\n\ng) Serem convenientemente embaladas e transportadas em condições de higiene satisfatórias, de acordo com as disposições dos Capítulos X e XI do Anexo I.\n\n2. Será excluída do comércio:\n\na) A carne fresca de aves de capoeira tratada com água oxigenada ou outras substâncias de efeito descorante, ou com corantes naturais ou artificiais;\n\nb) A carne fresca de aves de capoeira tratada com antibióticos ou conservantes, ou com substâncias para tornar a carne mais tenra;\n\nc) A carne fresca de aves de capoeira tratada com substâncias aromáticas.\n\n3. Todavia, se o país destinatário o autorizar, as condições referidas no no 1 não serão obrigatórias relativamente à carne destinada a outra utilização que não seja o consumo humano; neste caso, o país destinatário tomará as medidas necessárias para evitar que a carne possa ser utilizada para fins diferentes daqueles para que for destinada.\n\n4. As condições do no 1 não se aplicam às carnes frescas de aves de capoeira da própria produção cedidas, em casos isolados, directamente pelo produtor de aves de capoeira ao consumidor final para consumo próprio, com exclusão da venda ambulante, por correspondência ou nos mercados."
+  },
+  "182eb07d574274f7": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Nas inspecções sanitárias ante mortem e post mortem e no controlo das condições de higiene que devem ser observadas pelos matadouros, de acordo com as disposições dos Capítulos II e IV do Anexo I, o veterinário oficial pode ser assistido por auxiliares que operam sob a sua direcção e a sua responsabilidade.\n\n2. Só será admitido como auxiliar quem preencha as condições previstas no Anexo II. Sob proposta da Comissão, o Conselho adoptará normas mais pormenorizadas quanto ao nível de formação dos auxiliares indicado no no 1 alíneas b) e d) e no no 4 do Anexo II.\n\n3. Os auxiliares assistirão o veterinário oficial apenas nas seguintes tarefas:\n\n- verificação da aplicação das medidas de higiene previstas nos Capítulos II e IV do Anexo I,\n\n- constatação da ausência dos sintomas mencionados no no 12 do Capítulo III do Anexo I, aquando da inspecção sanitária ante mortem,\n\n- constatação de que não ocorrem os casos mencionados no no 28 do Capítulo VI do Anexo I, aquando da inspecção sanitária post mortem."
+  },
+  "a51f566380b5bbca": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. A autoridade central competente do Estado-membro onde se situa o matadouro velará para que a autorização prevista no no 1, alínea a), do artigo 3o apenas seja concedida quando forem observadas as disposições dos Capítulos I e II do Anexo I e quando esse matadouro estiver em condições de satisfazer os outros requisitos do referido anexo; velará, igualmente, pela fiscalização da observância dessas disposições por um veterinário oficial e pelo cancelamento da autorização quando uma ou mais das referidas disposições deixarem de ser observadas.\n\n2. Os matadouros licenciados serão todos inscritos numa lista, sendo atribuído um número de licença veterinária a cada matadouro. Cada Estado-membro comunicará aos outros Estados-membros e à Comissão a lista dos matadouros licenciados bem como o respectivo número de licença veterinária e informá-los-á, do canelamento de qualquer licença se for caso disso.\n\n3. Quando um Estado-membro juglar que num matadouro de um outro Estado-membro não são ou deixaram de ser observadas as condições de que depende a autorização, informará imediatamente a autoridade central competente desse Estado. Esta tomará as medidas necessárias e comunicará à autoridade central competente do primeiro Estado-membro, as decisões adoptadas e os motivos\n\ndessas decisões.\n\nSe este Estado-membro recear que essas medidas não sejam tomadas ou não sejam suficientes, poderá dirigir-se à Comissão, que encarregará um ou vários peritos veterinários de emitirem um parecer. Tendo em conta esse parecer, os Estados-membros podem ser autorizados, de acordo com o procedimento previsto no artigo 12o, a recusar provisoriamente a introdução no respectivo território de carne fresca de aves de capoeira proveniente do matadouro em causa.\n\nA autorização acima referida pode ser cancelada de acordo com o procedimento previsto no artigo 12o tendo em conta novo parecer elaborado por um ou vários peritos veterinários.\n\nOs peritos veterinários devem possuir a nacionalidade de um Estado-membro que não seja a dos que se encontram em litígio.\n\nA Comissão, após consulta aos Estados-membros, determinará as modalidades gerais de aplicação de presente número nomeadamente no que respeita à designação dos peritos veterinários e ao procedimento a seguir na elaboração dos respectivos pareceres.\n\n4. Mesmo os armazéns frigoríficos situados fora dos matadouros ficarão sob o controlo de um veterinário oficial, no que diz respeito à armazenagem de carne fresca de aves de capoeira.\n\nA autoridade central competente do Estado-membro onde se situa o armazém frigorífico é responsável pelo licenciamento desse armazém bem como pelo cancelamento da licença, no que diz respeito a armazenagem de carne fresca de aves de capoeira."
+  },
+  "867ebfa434895544": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nSem prejuízo do disposto no no 2 do artigo 3o e até à entrada em vigor de eventuais disposições comunitárias, não serão afectadas pela presente directiva as disposições dos Estados-membros que digam respeito a:\n\na) Condições relativas ao licenciamento dos armazéns frigoríficos mencionados no no 4 do artigo 5o e ao eventual cancelamento dessa licença;\n\nb) Tratamento de aves de capoeira com substâncias susceptíveis de eventualmente tornarem perigoso ou prejudicial para a saíde humana, o consumo de carne fresca dessas aves, bem como absorção pelas aves de substâncias como: antibióticos, estrogéneos, tireostáticos, substâncias que tornem a carne mais tenra, pesticidas, herbicidas e substâncias arsénicas ou antimónicas;\n\nc) Adição de substâncias estranhas à carne fresca de aves de capoeira, bem como o seu tratamento com radiações ionisantes ou ultravioletas."
+  },
+  "98990bcc62a62dc4": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nNão serão afectadas pela presente directiva as vias abertas pela legislacão em vigor nos Estados-membros para permitir o recurso contra as decisões das autoridades competentes e previstas na presente directiva."
+  },
+  "9f38c563c08a8e41": {
+   "fragment_id": "TÍTULO III — Disposições relativas unicamente ao comércio intracomunitário",
+   "type": "divisao",
+   "heading": "TÍTULO III — Disposições relativas unicamente ao comércio intracomunitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Disposições relativas unicamente ao comércio intracomunitário"
+  },
+  "ed4864da97a79795": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nCada Estado-membro assegurará que a carne fresca de aves de capoeira expedida para outro Estado-membro seja acompanhada por um certificado de inspecção veterinária de acordo com o Capítulo VIII do Anexo I, durante o transporte para o país de destino."
+  },
+  "aafabf69ec96c7c0": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Um Estado-membro pode, sem prejuízo dos poderes resultantes do disposto no segundo parágrafo, segunda frase, do no 3 do artigo 5o, proibir a circulação no seu território de carne fresca de aves de capoeira proveniente de outro Estado-membro se se tiver constatado, aquando da inspecção sanitária efectuada no país de destino:\n\na) Que essa carne está imprópria para consumo humano, ou\n\nb) Que não foi observado o disposto nos artigos 3o, 8o e 14o.\n\n2. As decisões adoptadas por força do no 1 devem, a pedido do expedidor ou do seu mandatário, autorizar a reexpedição da carne fresca de aves de capoeira, desde que não existam razões contrárias de ordem sanitária. De qualquer modo, serão tomadas medidas de segurança a fim de evitar a utilização abusiva dessa carne.\n\n3. Essas decisões devem ser comunicadas ao expedidor ou ao seu mandatário com a menção dos motivos. Estas decisões, quando pedidas, devem ser imediatamente comunicadas, por escrito, e mencionando as vias de recurso previstas na legislação em vigor, bem como os meios e os prazos para a sua utilização.\n\n4. Quando essas decisões se findamentarem na constatação de doença contagiosa, numa alteração perigosa para a saúde humana ou numa violação grave das disposições da presente directiva, serão também imediatamente comunicadas indicando os motivos, à autoridade central competente do país expedidor."
+  },
+  "3c02d51189cb9cee": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nCada Estado-membro concederá aos expedidores cuja carne fresca de aves de capoeira não possa ser posta em circulação no seu território, de acordo com o no 1 do artigo 9o, o direito de obterem o parecer de um perito veterinário. Cada Estado-membro providenciará para que, antes de as autoridades competentes tomarem outras medidas tais como a destruição da carne, os peritos veterinários tenham a possibilidade de determinar se estão preenchiadas as condições do no 1 do artigo 9o.\n\nO perito veterinário deve possuir a nacionalidade de um Estado-membro que não seja a do país expedidor nem a do país de destino.\n\nA Comissão, por proposta dos Estados-membros, elaborará a lista dos peritos veterinários que poderão ser encarregados da elaboração desses pareceres. Após consulta aos Estados-membros, a Comissão determinará as modalidades gerais de aplicação nomeadamente no que respeita ao procedimento a seguir na elaboração desses pareceres."
+  },
+  "803e2cc08c5b9db8": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. Sem prejuízo dos nOS 2 a 4, as disposições dos Estados-membros em matéria de política sanitária relativas ao comércio de aves de capoeira vivas e de carne fresca de aves de capoeira continuam a ser aplicáveis até à entrada em vigor de eventuais disposições comunitárias.\n\n2. Um Estado-membro pode, se houver perigo de propagação de doenças de animais com a introdução no seu território de carne fresca de aves de capoeira proveniente de outro Estado-membro, tomar as seguintes medidas:\n\na) Em caso de aparecimento de doença epizoótica nesse outro Estado-membro, pode proibir ou restringir temporariamente a introdução de carne fresca de aves de capoeira proveniente das zonas do território desse Estado onde surgiu a doença;\n\nb) No caso de uma doença epizoótica assumir um carácter extensivo, ou no caso de aparecer uma nova doença grave e contagiosa nos animais, pode proibir ou restringir temporariamente a introdução de carne fresca de aves de capoeira proveniente do conjunto do território desse Estado-membro.\n\n3. Cada Estado-membro deve comunicar imediatamente aos outros Estados-membros e à Comissão o aparecimento no respectivo território de qualquer doença referida no no 2, bem como as medidas que tomou para a debelar. Deve também comunicar-lhes imediatamente o desaparecimento da doença.\n\n4. As medidas tomadas pelos Estados-membros com base no no 2 bem como a sua revogação, devem ser comunicadas imediatamente aos outros Estados-membros e à Comissão, indicando as respectivas razões.\n\nPode decidir-se, de acordo com o procedimento previsto no artigo 12o, que essas medidas devem ser alteradas, nomeadamente para assegurar a sua coordenação com as medidas adoptadas pelos outros Estados-membros, o que devem ser suprimidas.\n\n5. Se ocorrer a situação prevista no no 2 e se se afigurar necessário que outros Estados-membros apliquem igualmente as medidas tomadas por força do referido número, eventualmente alteradas de acordo com o no 4, serão adoptadas as disposições apropriadas de acordo com o procedimento definido no artigo 12o."
+  },
+  "e4c3fb4bad48561b": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. No caso de ser feita referência ao procedimento definido no presente artigo, o assunto será imediatamente submetido ao Comité Veterinário Permanente, instituido pela Decisão do Conselho de 15 de Outubro de 1968, adiante designado por «o Comité», pelo seu presidente, por iniciativa deste ou a pedido de um Estado-membro.\n\n2. Dentro do Comité atribui-se aos votos dos Estados-membros a ponderação prevista no no 2 do artigo 148o do Tratado. O presidente não vota.\n\n3. O representante da Comissão submeterá um projecto das medidas a tomar. O Comité emitirá o seu parecer sobre essas medidas no prazo de dois dias, deliberando pela maioria de doze votos.\n\n4. A Comissão adoptará as medidas e torná-las-á aplicáveis imediatemente se tiverem tido parecer favorável do Comité. Se não tiverem tido parecer favorável do Comité, ou na falta de parecer, a Comissão submeterá de imediato ao Conselho uma proposta relativa às medidas a tomar. O Conselho adoptará as medidas por maioria qualificada.\n\nSe, no termo de um prazo de quinze dias a contar da data em que o assunto lhe foi submetido, o Conselho não tiver adoptado quaisquer medidas, a Comissão adoptará as medidas propostas e torná-las-à imediatemente aplicáveis, excepto se o Conselho tiver deliberado por maioria simples contra as referidas medidas."
+  },
+  "afd9248bb05771f0": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nO disposto no artigo 12o aplicar-se-á durante um período de dezoito meses a contar da data em que o assunto tiver sido submetido ao Comité pela primeira vez, tanto em aplicação do no 1 do artigo 12o como na base de qualquer outra regulamentação análoga."
+  },
+  "5a5ad464b67f5a90": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. Os Estados-membros não permitirão que se empregue o processo de refrigeração de aves de capoeira designado por «Spinchiller» actualmente utilizado. Essa proibição é obrigatória apenas a partir de 1 de Janeiro de 1976.\n\n2. Após consulta dos Estados-membros a efectuar dentro do Comité Veterinário Permanente, a Comissão submeterá ao Conselho, antes de 1 de Janeiro de 1972, um relatório relativo à questão de saber se existe um ou vários processos de refrigeração alternativos.\n\n3. A data prevista no no 1 será adiada para 1 de Janeiro de 1977 a menos que o Conselho, por proposta da Comissão, constate, antes de 1 de Janeiro de 1972, que se descobriram um ou mais processos novos susceptíveis de exploração industrial."
+  },
+  "bfeb8d9722df2bc4": {
+   "fragment_id": "TÍTULO IV — Disposições finais",
+   "type": "divisao",
+   "heading": "TÍTULO IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Disposições finais"
+  },
+  "f97267057976ef66": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nAté à entrada em vigor das disposições comunitárias relativas às importações de carne fresca de aves de capoeira proveniente de países terceiros, os Estados-membros aplicarão a essas importações disposições pelo menos equivalentes às que resultam da presente directiva."
+  },
+  "a2b8e4b4910e963e": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nSem prejuízo do disposto no artigo 14o, os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento às disposições da presente directiva e dos seus anexos:\n\na) No que diz respeito ao comércio intracomunitário: nos dios anos seguintes à notificação da directiva;\n\nb) No que riz respeito à carne fresca de aves de capoeira obtida e colocada em circulação no seu território: no prazo máximo de cinco anos a contar da notificação da directiva.\n\nOs Estados-membros informarão imediatamente a Comissão."
+  },
+  "0d94c1b0a0c20124": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nOs Estados-membros são destinatário da presente directiva.\n\nFeito em Bruxelas em 15 de Fevereiro de 1971.\n\nPelo Conselho\n\nO Presidente\n\nM. COINTAT\n\n(1) JO no 109 de 9. 7. 1964, p. 1721/64.(2) JO no 117 de 19. 6. 1967, p. 2301/67."
+  },
+  "772d607bea0d352c": {
+   "fragment_id": "ANEXO I — CAPÍTULO I",
+   "type": "divisao",
+   "heading": "ANEXO I — CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — CAPÍTULO I\n\nCONDIÇÕES DE HIGIENE RELATIVAS AOS MATADOUROS\n\n1. Os matadouros devem compreender:\n\na) Um local ou um recinto coberto suficientemente vasto e de fácil limpeza e desinfecção para a inspecção ante mortem das aves de capoeira;\n\nb) Um local especial de fácil limpeza e desinfecção, reservado às aves doentes e suspeitas;\n\nc) Um local de abate com dimensões suficientes para que cada uma das operações de atordoamento e sangria, por um lado, e de depena, eventualmente associada a escaldão, por outro, seja efectuada em instalações separadas. Qualquer comunicação entre o local de abate e o local ou recinto referido na alínea a) que não seja a abertura reduzida destinada exclusivamente à passagem das aves a abater, deve estar equipada com uma porta de fecho automático;\n\nd) Um local de evisceração e de acondicionamento com dimensões que permitam que as operações de evisceração sejam efectuados em lugar suficientemente afastado dos restantes postos de trabalho ou separado destes por uma parede de modo a evitar que sejam conspurcados. Qualquer comunicação existente entre o local de evisceração e acondicionamento e o local de abate que não seja a abertura reduzida destinada exclusivamente à passagem dos animais abatidos, deve estar equipada com uma porta de fecho automático;\n\ne) Um local de expedição, se for necessário;\n\nf) Um ou mais locais frigoríficos suficientemente amplos;\n\ng) Um local ou instalação para a recuperação das penas, excepto se estas forem tratadas como desperdícios;\n\nh) Locais especiais fechados à chave, reservados para armazenar, respectivamente, as carnes aprovadas e as carnes insalubres e declaradas impróprias para consumo humano, bem como os desperdícios quando estas carnes e estes disperdícios não sejam evacuados diariamente do matadouro;\n\ni) Um local especial reservado para tratamento técnico e para a destruição das carnes declaradas impróprias para consumo humano, de acordo com o no 28 das que sejam excluídas do consumo humano, de acordo com o no 29, bem como dos desperdícios e dos sub-produtos do abate destinados a uso industrial, se esse tratamento técnico ou essa destruição se realizarem no estabelecimento;\n\nj) Vestiários, lavabos e chuveiros bem como sanitários com autoclismo, não podendo estes últimos abrir directamente para os locais de trabalho; os lavabos devem estar equipados com águas correntes quente e fria e com dispositivos para lavagem e desinfecção das mãos, bem como com toalhas para uma única utilização; estes lavabos devem situar-se na proximidade dos sanitários;\n\nk) Uma instalação especialmente adaptada para os estrumes, quando estes não sejam imediatamente evacuados, em condições higiénicas;\n\nl) Um lugar e dispositivos suficientes para limpeza e desinfacção das grades e dos veículos;\n\nm) Um local suficientemente equipado, fechado à chave, para uso exclusivo do serviço veterinário;\n\nn) Dispositivos suficientes nos locais de trabalho para a lavagem e desinfecção das mãos e do material de trabalho; estes dispositivos devem encontrar-se, quanto possível, próximo dos locais de trabalho; as torneiras não devem poder ser accionadas manualmente; estas instalações devem estar providas de águas correntes fria e quente, de produtos para lavagem e desinfecção e de toalhas para uma única utilização; a água para a lavagem dos utensílios deve estar a temperatura não inferior a + 82 ° C;\n\no) Apetrechos que permitam efectuar a qualquer momento e de maneira eficaz, as operações de inspecção veterinária prescritas na presente directiva;\n\np) Vedação suficiente do matadouro;\n\nq) Separação suficiente entre o sector limpo e o sector sujo, sem prejuízo das disposições das alíneas a), b), c) e d);\n\nr) Nos locais mencionados nas alíneas a) a j):\n\n- pavimento em material impermeável, de fácil limpeza e desinfecção e imputrescível, preparado para permitir o escoamento fácil da água,\n\n- paredes lisas revestidas pelo menos até 2 metros de altura, com material impermeável ou pintura lavável e clara, e com os ângulos e cantos arredondados.\n\ns) Arejamento suficiente e, se necessário, boa evacuação das lamas;\n\nt) Iluminação suficiente, natural ou artificial, que não altere as cores, nos locais reservados às aves de capoeira vivas ou abatidas;\n\nu) Instalação que permita suficiente aprovisionamento de água potável exclusivamente sob pressão e em quantidade suficiente; a utilização de água não potável para produção de vapor, todavia, é autorizada excepcionalmente, sob reserva de que as condutas instaladas para esse efeito não permitam a utilização dessa água para outros fins; a utilização de água não potável pode também ser autorizada, a título excepcional, para a refrigeração das máquinas frigoríficas. As condutas de água não potável devem estar pintadas de encarnado e não devem passar pelos locais onde es encontram as carnes;\n\nv) Instalação que forneça, uma quantidade suficiente de água potável quente, sob pressão;\n\nw) Dispositivo de evacuação de águas residuais que obedeça aos requisitos de higiene;\n\nx) Dispositivos protectores adequados contra animais indesejáveis, tais como insectos, roedores, etc.;\n\ny) Utensílios e material de trabalho e material que entre em contacto com as aves durante a conservação, em matéria inalterável, de fácil limpeza e desinfecção;\n\nz) Recipientes especiais estanques, inalteráveis e invioláveis para recolha das carnes declaradas impróprias para consumo humano na acepção do no 28 do Capítulo VI."
+  },
+  "002ba233584ffe6f": {
+   "fragment_id": "CAPÍTULO II — HIGIENE DOS PESSOAL, DOS LOCAIS, DO MATERIAL E DOS UTENSÍLIOS NOS MATADOUROS",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — HIGIENE DOS PESSOAL, DOS LOCAIS, DO MATERIAL E DOS UTENSÍLIOS NOS MATADOUROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — HIGIENE DOS PESSOAL, DOS LOCAIS, DO MATERIAL E DOS UTENSÍLIOS NOS MATADOUROS\n\n2. Exige-se que tanto o pessoal como os locais de trabalho, o material e os utensílios que se encontrem o mais limpos possível.\n\na) O possoal deve, nomeadamente, usar fatos de trabalho e toucas limpos de cor clara e fáceis de lavar. O pressoal afectado ao abate de animais, ao trabalho e à manipulação de carnes, deve lavar e desinfectar as mãos várias vezes ao longo do dia de trabalho, bem como de cada vez que recomeça o trabalho. As pessoas que tenham estado em contacto com animais doentes ou carne infectada devem, de imediato, lavar as mãos e os braços cuidadosamente com água quente e desinfectá-los a seguir. É proibido fumar nos locais de trabalho e de armazenagem;\n\nb) Com excepção dos animais de trabalho utilizados na actividade do estabelecimento, não podem encontrar-se nos matadouros caes, gatos ou quaisquer outros animais que não sejam as aves de capoeira destinadas a serem abatidas e referidas no no 1 do artigo 1o. Esta proibição não se aplica a coelhos nem a outras aves diferentes das citadas no no 1 do artigo 1o e destinadas a abate imediato, desde que não sejam albergados, abatidos, preparados ou armezenados ao mesmo tempo que as aves de capoeira e nos mesmos locais.\n\nA destruição de roedores, insectos e quaisquer vermes deve realizar-se sistematicamente;\n\nc) Os locais enumerados nas alíneas a), b), c), d) e e) do no 1 do Capítulo I devem ser limpos e desinfectados com a frequência necessária e, em todo o caso, no final das operações do dia de trabalho;\n\nd) As gaiolas que servem para a entrega das aves de capoeira devem ser construídas com materiais resistentes à corrosão, de fácil limpeza e desinfecção, e estar equipadas com uma plataforma impermeável. Devem ser limpas e desinfectadas de cada vez que forem esvaziadas do respectivo conteúdo;\n\ne) O material e os utensílios utilizados no abate, no trabalho das carnes e na sua armazenagem devem ser mantidos em bom estado de conservação e de limpeza. Devem ser lavados e desinfectados cuidadosamente várias vezes ao dia bem como no final das operações do dia de trabalho e antes da reutilização, quando tenham sido conteminados, nomeadamente por germes de qualquer doença;\n\nf) Os recipientes destinados a conter a carne de aves insalubre e imprópria para consumo humano bem como as miudezas devem ser esvaziados, após a utilização, devendo ser lavados e desinfactados de cada vez que forem esvaziados.\n\n3. Os locais, os utensílios, o material de trabalho e os equipamentos empregues no abate, no trabalho das carnes ou no armazenamento só devem ser utilizados para estes fins.\n\n4. As carnes de aves de capoeira bem como os recipientes que as contêm não devem ficar em contacto directo com o pavimento.\n\n5. As penas devem ser evacuadas à medida que os animais são depenados.\n\n6. O emprego de detergentes, desinfectantes e meios de luta contra os animais nocivos não deve afectar a salubridade das carnes.\n\n7. O trabalho de abate e a manipulação das carnes devem ser proibidos a pessoas susceptíveis de as contaminarem, nomeadamente a pessoas:\n\na) Atingidas ou com cuspeitas de estarem atingidas por tifo abdominal, paratifo A e B, enterite infecciosa (salmonelose), desinteria, hepatite infecciosa e escarlatina, ou portadoras de agentes dessas mesmas doenças;\n\nb) Atingidas ou com suspeitas de estarem atingidas por tuberculose contagiosa;\n\nc) Atingidas ou com suspeitas de estarem atingidas por doença de pele contagiosa;\n\nd) Que exerçam simultaneamente uma actividade que possa dar origem à transmissão de micróbios às carnes;\n\ne) Portadoras de pensos nas mas, com exclusão de pensos estanques protectores de ferida não purulenta do dedo.\n\n8. Deve exigir-se um atestado médico a todas as pessoas afectadas ao trabalho de carnes de aves de capoeira, do qual conste que nada impeda a sua afectação a esse serviço; esse atestado deve ser renovado todos os anos e sempre que o veterinário oficial o solicite; devendo estar à disposição deste último."
+  },
+  "16e2def086f95fa2": {
+   "fragment_id": "CAPÍTULO III — INSPECÇÃO SANITÁRIA ANTE MORTEM",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — INSPECÇÃO SANITÁRIA ANTE MORTEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — INSPECÇÃO SANITÁRIA ANTE MORTEM\n\n9. As aves de capoeira destinadas ao abate devem ser submetidas à inspecção ante mortem nas 24 horas seguintes à sua chegada ao matadouro. Esse exame deve ser repetido imediatamente antes do abate se decorreram mais de 24 horas depois de ter sido efectuada a inspecção ante mortem.\n\n10. A inspecção ante mortem pode limitar-se à pesquisa de danos causados pelo transporte, desde que as aves de capoeira tenham sido examinadas na exploração de origem no decurso das últimas 24 horas e tenham sido consideradas sas. Além disso, devem ser identificadas à chegada ao matadouro.\n\nSe o exame ante mortem na exploração de origem e no matadouro, não for efectuado pelo mesmo veterinário oficial, os animais devem ser acompanhados de um certificado sanitário, do qual constem as indicações previstas no Anexo III.\n\n11. A inspecção ante mortem deve ser efectuada em condições de iluminação adequadas.\n\n12. A inspecção deve permitir precisar:\n\na) Se as aves de capoeira foram atingidas por qualquer doença transmissível ao homem ou aos animais, ou se apresentam sintomas ou se se encontrem num estado geral que permita recear o aparecimento de tal doença;\n\nb) Se apresentam sintomas de doença ou perturbação do estado geral, susceptível de tornar as carnes impróprias para o consumo humano.\n\n13. São declaradas impróprias para consumo humano as aves de capoeira atingidas pela peste aviária verdadeira, pela doença de New-Castle, pela raiva, pela salmonelose, pela cólera ou pela ornitose.\n\n14. Não podem ser abatidos para consumo humano no estado de carnes frescas, os animais a respeito dos quais se determinou:\n\n- pela presença de aves de capoeira doentes no matadouro,\n\n- por informações sanitárias relativas à sua proveniência,\n\nque estiveram em contacto com aves atingidas de peste aviária verdadeira, de doença de New-Castle, de raiva, de salmonelose, de cólera ou de ornitose, de modo a que a doença lhes possa ter sido transmitida.\n\n15. As aves de capoeira referidas nos nOS 12, 13 e 14 devem ser abatidas separadamente e em último lugar."
+  },
+  "2d860b24a1688cbd": {
+   "fragment_id": "CAPÍTULO IV — HIGIENE NO ABATE",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — HIGIENE NO ABATE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — HIGIENE NO ABATE\n\n16. As aves de capoeira introduzidas nos locais de abate, devem ser sacrificadas imediatamente após terem sido atordoadas.\n\n17. A sangria deve ser completa e praticada de forma a que o sangue não possa causar sujidade fora do local de abate.\n\n18. A depena deve ser imediata e completa.\n\n19. A evisceração deve ser efectuada sem demora. A carcaça deve ser aberta de forma que as cavidades e todas os vísceras possam ser inspeccionadas. Para esse efeito, o fígado, o baço e o tubo digestivo devem ser extraídos da carcaça de forma a que esta não fique conspurcada e que os ligamentos anatómicos dessas vísceras se mantenham até ao momento da inspecção.\n\n20. Após a inspecção, as víxceras extraídas devem ser imediatamente separadas da carcaça e as partes impróprias para consumo humano devem ser imediatamente retiradas.\n\nAs vísceras ou partes de vísceras que ficarem na carcaça, com excepção dos rins, devem ser imediatamente retiradas, se possível na totalidade, em condições de higiene satisfatória.\n\n21. São proibidos: a insuflação de carnes de aves de capoeira e a sua limpeza com um pano, bem como o enchimento das carcaças excepto se for com um lote de miudezas comestíveis correspondentes a uma das aves de capoeira abatidas no estabelecimento.\n\nAs partes de aves de capoeira e as miudezas devem ser embalados em conformidade com o disposto no no 35.\n\n22. É priobido proceder ao corte da carcaça, a qualquer ablação ou tratamento das carnes das aves de capoeira, antes do final da inspecção. O veterinário oficial pode impor qualquer outra manipulação necessária à inspecção.\n\n23. As carnes aprovadas e as carnes declaradas impróprias para consumo humano de acordo com o no 28 ou excluídas do consumo humano em conformidade com o no 29, as penas e os desperdícios devem ser transportados logo que possível para os locais, instalações ou recipientes previstos nas alíneas g), h) e i) do no 1 e devem ser manipulados de modo a limitar o mais possível a contaminação.\n\n24. No final da inspecção e da extracção das vísceras, as carnes frescas de aves de capoeira devem ser imediatamente limpas e refrigeradas de acordo com as regras da higiene."
+  },
+  "ec79826508c53709": {
+   "fragment_id": "CAPÍTULO V — INSPECÇÃO SANITÁRIA POST MORTEM",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — INSPECÇÃO SANITÁRIA POST MORTEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — INSPECÇÃO SANITÁRIA POST MORTEM\n\n25. Todas as partes do animal devem ser submetidas à inspecção imediatamente após o abate.\n\n26. Á inspecção post mortem deve efectuar-se em condições de iluminação adequadas.\n\n27. A inspecção post mortem deve compreender:\n\na) Exame visual do animal abatido;\n\nb) Palpação e incisão do animal abatido, quando necessário;\n\nc) Pesquisa de anomalias de consistência, cor, cheiro e, eventualmente, sabor;\n\nd) Exames laboratoriais, se necessário."
+  },
+  "665652dce0913196": {
+   "fragment_id": "CAPÍTULO VI — DECISÃO DO VETERINÁRIO OFICIAL NA INSPECÇÃO POST MORTEM",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — DECISÃO DO VETERINÁRIO OFICIAL NA INSPECÇÃO POST MORTEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — DECISÃO DO VETERINÁRIO OFICIAL NA INSPECÇÃO POST MORTEM\n\n28. 1. Serão declaradas impróprias para consumo humano, na totalidade, as aves de capoeira cuja inspecção post mortem revele um dos casos seguintes:\n\n- morte resultante de causa diferente do abate,\n\n- sujidade generalizada,\n\n- lesões e equimoses importantes,\n\n- cheiro, cor e sabor anormais,\n\n- putrefacção,\n\n- anomalias de consistência,\n\n- caquexia,\n\n- hidroémia,\n\n- ascite,\n\n- icterícia,\n\n- doenças infecciosas,\n\n- aspergilose,\n\n- toxoplasmose,\n\n- parasitismo subcutâneo ou muscular extenso,\n\n- tumores malignos ou múltiplos,\n\n- leucose,\n\n- intoxicação.\n\n2. Serão declaradas impróprias para consumo humano as partes do animal abatido que apresentem lesões traumáticas localizadas que não afectem a salubridade do resto da carne.\n\n29. Serão excluídas do consumo humano as vísceras a seguir enumeradas: traqueia, pulmões, separados da carcaça de acordo com as disposições do no 20, esófago, papo, intestino e vasícula biliar."
+  },
+  "4f2613b43229f695": {
+   "fragment_id": "CAPÍTULO VII — APOSIÇÃO DAS MARCAS DE INSPECÇÃO VETERINÁRIA",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII — APOSIÇÃO DAS MARCAS DE INSPECÇÃO VETERINÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — APOSIÇÃO DAS MARCAS DE INSPECÇÃO VETERINÁRIA\n\n30. A aposição das marcas de inspecção veterinária deve ser efectuada sob a responsabilidade do veterinário oficial que detém e conserva, para este efeito:\n\na) Os instrumentos destinados à marcação das carnes, os quais só podem ser entregues auxiliar na altura da marcação e durante o tempo necessário, para a efectuar;\n\nb) As etiquetas e os invólucros na medida em que tenham já aposto o selo ou a marca previstos no no 31, bem como os selos de chapa a que se faz referência no no 31. Essas etiquetas, invólucros e selos de chapa serão entregues ao pessoal auxiliar na altura em que devem ser utilizados e em número correspondente às necessidades.\n\n31. A aposição de marcas de inspecção veterinária deve consistir:\n\na) Em relação às carcaças não embaladas, na fixação de um selo de chapa em cada uma delas.\n\nOs selos de chapa devem ser de natureza tal que seja impossível a sua reutilização; devem ser de material resistente que obedeça a todos os requisitos higiénicos, e ter dimensões que lhes permitam conter as sequintes indicações obrigatórias, em caracteres perfeitamente legíveis:\n\n- na parte superior, as duas primeiras letras, em maiúsculas do país expedidor,\n\n- no centro, o número de autorização veterinária do matadouro,\n\n- na parte inferior, uma das siglas CEE, EEG ou EWG.\n\nTanto as letras como os algarismos devem ter 0,2 cm de altura.\n\nb) Relativamente às carcaças e partes de carcaças embaladas, numa marca impressa num invólucro que deve ser fechado de forma a impossibilitar o seu reemprego após a abertura.\n\nO invólucro deve ser de material suficientemente resistente e que obedeça a todos os requisitos higiénicos; a marca impressa deve conter as mesmas indicações a que se faz referência relativamente ao selo de chapa, impressos em caracteres das mesmas dimensões;\n\nc) Relativamente às miudezas separadas da carcaça, numa marca impressa num invólucro que deve ser fechado, e análogo ao mencionado na alínea b), ou na aposição de um carimbo sobre uma etiqueta bem visível e bem fixa na embalagem. Esta etiqueta deve ser aposta de maneira a ser destruída aquando da abertura da embalagem.\n\nO carimbo deve ser um carimbo a tinta de forma oval com 6,5 cm de largura e 4,5 cm de altura. Do carimbo devem constar as indicações seguintes, em caracteres perfeitamente legíveis:\n\n- na parte superior, o nome, em maiúsculas, do país expedidor,\n\n- no centro, o número de autorização veterinário do matadouro,\n\n- na parte inferior, uma das siglas CEE, EEG ou EWG.\n\nOs caracteres devem ter 0,8 cm de altura, para as letras, e 1,1 cm para os números."
+  },
+  "b98bb30f66f41ec1": {
+   "fragment_id": "CAPÍTULO VIII — CERTIFICADO DE INSPECÇÃO VETERINÁRIA",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII — CERTIFICADO DE INSPECÇÃO VETERINÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — CERTIFICADO DE INSPECÇÃO VETERINÁRIA\n\n32. O original do certificado de inspecção veterinária, que deve acompanhar as carnes frescas de aves de capoeira durante o transporte para o país destinatário, deve ser passado por um veterinário oficial no momento do embarque. O certificado de inspecção veterinária deve corresponder, na apresentação e no conteúdo, ao modelo constante do Anexo IV, devendo ser redigido, pelo menos, na língua do país destinatário e conter as informações previstas no modelo constante do Anexo IV."
+  },
+  "f8221a719c5e7f84": {
+   "fragment_id": "CAPÍTULO IX — ARMAZENAGEM",
+   "type": "divisao",
+   "heading": "CAPÍTULO IX — ARMAZENAGEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — ARMAZENAGEM\n\n33. As carnes frescas de aves de capoeira devem, após a refrigeração prevista no no 24, ser mantidas a uma temperatura que, em nenhum momento, pode ultrapassar + 4 ° C."
+  },
+  "363b44c1f62e785e": {
+   "fragment_id": "CAPÍTULO X — EMBALAGEM",
+   "type": "divisao",
+   "heading": "CAPÍTULO X — EMBALAGEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO X — EMBALAGEM\n\n34. a) As embalagens (por exemplo caixotes, caixas de cartão) devem obedecer a todas as regras de higiene, nomeadamente:\n\n- não podem alterar as características organolépticas da carne,\n\n- não podem transmitir à carne substâncias nocivas para a saúde humana,\n\n- devem ser suficientemente sólidas para assegurar a protecção eficaz das carnes durante o transporte e as manipulações;\n\nb) As embalagens não devem ser reutilizadas para embalar as carnes, excepto se forem de material resistente à corrosão, de fácil limpeza, e tiverem sido previamente limpas e desinfactadas.\n\n35. Quando as carnes frescas de aves de capoeira são envolvidas numa embalagem (por exèmplo folhas de plástico) que com elas entra em contacto directo, essa operação deve ser efectuada de maneira que obedeça às regras de higiene.\n\nEssas embalagens devem ser transparentes incolores, e devem, além disso, obedecer às condições indicadas na alínea a) do no 34; não podem ser utilizadas segunda vez para a embalagem da carne.\n\nAs partes de aves de capoeira e as miudezas separadas da carcaça devem ser sempre envoltas numa embalagem de protecção que obedeça a estes requisitos e esteja solidamente fechada."
+  },
+  "4f2e94cc1472e71f": {
+   "fragment_id": "CAPÍTULO XI — TRANSPORTE",
+   "type": "divisao",
+   "heading": "CAPÍTULO XI — TRANSPORTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XI — TRANSPORTE\n\n36. As carnes frescas de aves de capoeira devem ser transportadas em veículos ou engenhos de transporte concebidos e equipados de forma a garantir a temperatura prevista no Capítulo IX durante todo o tempo do transporte.\n\n37. Os meios de transporte de carnes frescas de aves de capoeira não podem ser utilizados para deslocação de animais vivos ou de qualquer produto susceptível de alterar ou de contaminar as carnes excepto se tiverem sido submetidos a uma limpeza, desinfecção e, eventualmente, desodorização eficazes, após a descarga dos produtos referidos.\n\n38. As carnes frescas de aves de capoeira não podem ser transportadas simultaneamente com matérias susceptíveis de as alterarem ou de lhes transmitirem qualquer cheiro, durante o transporte, a não ser que sejam tomadas precauções para evitar essas eventualidades.\n\n39. As carnes frescas não podem ser transportadas em veículos ou engenhos de transporte que não estejam limpos e desinfectados.\n\n40. O veterinário oficial deve certificar-se, antes da expedição, de que os veículos ou engenhos de transporte, bem como as condições de carga, estão em conformidade com as condições de higiene defimidas no presente capítulo."
+  },
+  "9d95df505a7fe8c9": {
+   "fragment_id": "ANEXO II — CONDIÇÕES EXIGIDAS RELATIVAMENTE AOS AUXILIARES",
+   "type": "divisao",
+   "heading": "ANEXO II — CONDIÇÕES EXIGIDAS RELATIVAMENTE AOS AUXILIARES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — CONDIÇÕES EXIGIDAS RELATIVAMENTE AOS AUXILIARES\n\n1. Só podem ser admitidas como auxiliares as pessoas que:\n\na) Provarem, mediante atestado de uma autoridade competente na matéria, que têm bom comportamento moral e civil;\n\nb) Disponham de instrução de base suficiente;\n\nc) Sejam fisicamente aptas para o exercício dessa função;\n\nd) Mostrem, através de uma prova de capacidade, possuir conhecimento técnicos suficientes.\n\n2. Sem prejouízo do disposto nos nOS 7 e 8 do Capítulo II do Anexo I, não podem ser admitidas como auxiliares as pessoas que:\n\na) Exerçam uma actividade que possa representar um perigo de infecção para a carne fresca de aves de capoeira;\n\nb) Exerçam a profissão de talhante, explorem um matadouro de aves de capoeira ou nele trabalhem a qualquer título, se dediquem ao comércio de aves de capoeira ou de alimentos destinados a aves de capoeira, sejam consultores em matéria de alimentação de aves de capoeira, pratiquem a avicultura com fins profissionais ou sejam empregados em explorações agricolas.\n\n3. A prova de capacidade referida na alinea d) do no 1 será organizada pela autoridade central competente do Estado-membro ou pela autoridade por ela designada para o efeito. Só serão admitidos a esta prova os candidatos que provem ter frequentado um estágio preparatório com a duração de três meses-sob a direcção de um veterinário oficial.\n\n4. O exame referido no no 3 compreende uma parte teérica e uma parte prática e incide nas seguintes matérias:\n\na) Parte teórica:\n\n- noções fundamentais de anatomia e fisiologia das aves de capoeira,\n\n- noções fundamentais de patologia das aves de capoeira,\n\n- noções fundamentais de anatomo-patologia das aves de capoeira,\n\n- noções fundamentais de higiene e nomeadamente de higiene da empresa,\n\n- métodos e processos de abate das aves de capoeira, sua preparação, acondicionamento e transporte,\n\n- conhecimento das disposições legislativas, regulamentares e administrativas necessárias para o exercício das suas funções;\n\nb) Parte prática:\n\n- exame e apreciação das aves de capoeira destinadas ao abate,\n\n- exame e apreciação das aves de capoeira abatidos,\n\n- determinação da espécie animal na sequência de um exame das partes características de um animal,\n\n- determinação de várias partes de aves de capoeira abatidas que apresentem alterações, e comentário,\n\n- prática corrente de inspecção post mortem em cadeia."
+  },
+  "3925588250327921": {
+   "fragment_id": "ANEXO III — MODELO",
+   "type": "divisao",
+   "heading": "ANEXO III — MODELO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — MODELO\n\nCERTIFICADO SANITÁRIO\n\npara aves de capoeira transportadas entre a exploração e o matadouro\n\nServiço competente... No (1)...\n\nI. Identificação dos animais\n\nEspécie animal...\n\nNúmero de animais...\n\nMarca de identificação...\n\nII. Proveniência dos animais\n\nEndereço da exploração de origem...\n\nIII. Destino dos animais\n\nEstes animais são transportados para os seguintes matadouros:...\n\npelos seguintes meios de transporte:...\n\nIV. Atestado\n\nO abaixo assinado, veterinário oficial, certifica que os animais acima indicados foram submetidos a uma inspecção ante mortem na exploração acima mencionada em... as... horas e foram considerados sãos.\n\nFeito em..., em...\n\nAssinatura do veterinário oficial (...)\n\n(1) Facultativo."
+  },
+  "4abe56c452e86684": {
+   "fragment_id": "ANEXO IV — MODELO",
+   "type": "divisao",
+   "heading": "ANEXO IV — MODELO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — MODELO\n\nCERTIFICADO DE INSPECÇÃO VETERINÁRIA\n\nrelativo à carne fresca de aves de capoeira (1) destinada a qualquer Estado-membro da CEE\n\nPaís expedidor... No (2)...\n\nMinistério...\n\nServiço competente...\n\nRef. (2)...\n\nI. Identificação da carne\n\nCarne de... (espécie animal)\n\nNatureza das partes...\n\nNatureza da embalagem...\n\nNúmero de unidades de embalagens...\n\nPeso líquido...\n\nII. Proveniência da Carne\n\nEndereço(s) e número(s) da licença veterinária do(s) matadouro(s)...\n\nIII. Destino da carne\n\nA carne é expedida\n\nde... (local de expedição)\n\npara... (pais e local de destino)\n\npelo meio de transporte seguinte (3)...\n\nNome e endereço do expedidor...\n\nNome e endereço do destinatário...\n\nIV. Atestado de inspecção veterinária\n\nO abaixo assinado, veterinário oficial, certifica:\n\na) - que na carne de aves de capoeira acima designada (4)\n\n- que nas embalagens de carne acima designadas (4)\n\nestá aposta uma marca que prova que a carne provém de animais abatidos em matadouros licenciados;\n\nb) Que essa carne é considerada própria para consumo humano, na sequência de uma inspecção veterinária efectuada em conformidade com a Directiva do Conselho de 15 de Fevereiro de 1971 relativa a problemas sanitários em matéria de comércio de carne fresca de aves de capoeira;\n\nc) Que os veículos e meios de transporte bem como as condições de carga desta expedição satisfazem as exigências de higiene definidas na referida directiva.\n\nFeito em..., em...\n\nAssinatura do veterinário oficial (...)\n\n(1) Carne fresca de aves de capoeira: a carne fresca proveniente das seguintes espécies: galinhas, perús, pintadas, patos e gansos domésticos, que não tenha sido submetida a qualquer tratamento para assegurar a sua conservação; a carne tratada pelo frio, todavia, considera-se fresca.(2) Facultativo.(3) Relativamente aos vagões e camiões, indicar o número da matrícula e, em relação aos aviões, indicar o número do vôo.(4) Riscar o que não interessa."
+  },
+  "068a3a2ef90c4d56": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1971L0118 — PT — 01.01.2006 — 008.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31971L0118) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31971L0118) [de 15 de Fevereiro de 1971](http://publications.europa.eu/resource/celex/31971L0118) [relativa a problemas sanitários em matéria de produção e colocação no mercado de carnes frescas de aves de capoeira](http://publications.europa.eu/resource/celex/31971L0118) [(71/118/CEE)](http://publications.europa.eu/resource/celex/31971L0118) (JO L 055, 8.3.1971, p.23)\n\n**revogado por:**\n\n- [Directiva 2004/41/CE do Parlamento Europeu e do Conselho de 21 de Abril de 2004](http://publications.europa.eu/resource/celex/32004L0041) — L 157 — 33 — 30.4.2004"
+  }
+ }
+}

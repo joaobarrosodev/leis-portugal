@@ -34,6 +34,26 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-03-02'
+version_history:
+  file: diretiva-ue-1991-676.versoes.json
+  count: 2
+  source_lastmod: '2026-03-02'
+  versions:
+  - date: '2008-12-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-03-02'
+    amending: eu:celex:32026L0288:por
+    amending_title: DIRETIVA (UE) 2026/288 DA COMISSÃO de 9 de fevereiro de 2026
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera MEDIDAS A INCLUIR NOS PROGRAMAS DE ACÇÃO NOS TERMOS DO N.º 4 DA ALÍNEA a) DO ARTIGO 5.º
+    - Altera Fertilizantes químicos
+    - Altera Águas doces, costeiras e marinhas
+    - Altera Notas
 identifiers:
   celex: 31991L0676
   eli: http://data.europa.eu/eli/dir/1991/676/oj
@@ -48,7 +68,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0fc6e4e0-9d76-458f-93cc-825a3ba8a76d.0011
   content_url: http://publications.europa.eu/resource/cellar/620ba97e-172b-11f1-8870-01aa75ed71a1.0023.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0676-20260302
-  retrieved_at: '2026-10-22T02:34:58Z'
+  retrieved_at: '2026-10-22T14:39:37Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-07T14:34:28.836+01:00'
 integrity:
@@ -57,9 +77,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:34:58Z'
-  notes: Texto consolidado 01991L0676-20260302.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:39:37Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1991-676.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -355,31 +375,21 @@ relationships:
   source: null
 article_structure:
   article_count: 13
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:34:58Z'
-  warnings: []
+  checked_at: '2026-10-22T14:39:37Z'
+  warnings:
+  - '01991L0676-19911219: versão indisponível (Sem expressão na língua por para CELEX 01991L0676-19911219.)'
+  - '01991L0676-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 91/676/CEE do Conselho, de 12 de Dezembro de 1991
-
-> 01991L0676 — PT — 02.03.2026 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003R1882) — [REGULAMENTO (CE) N.º 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
-- [►M2](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE 22 de Outubro de 2008 que adapta à Decisão 1999/468/CE do Conselho certos actos sujeitos ao procedimento previsto no artigo 251.º do Tratado, no que se refere ao procedimento de regulamentação com controlo](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [►M3](http://publications.europa.eu/resource/celex/32026L0288) — [DIRETIVA (UE) 2026/288 DA COMISSÃO de 9 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026L0288) — L 288 — 1 — 10.2.2026
-
-## DIRECTIVA DO CONSELHO
 
 de 12 de Dezembro de 1991
 

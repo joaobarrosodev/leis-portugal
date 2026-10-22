@@ -36,6 +36,149 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-04-21'
+version_history:
+  file: regulamento-ue-2003-2160.versoes.json
+  count: 9
+  source_lastmod: '2021-04-21'
+  versions:
+  - date: '2003-12-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-07-01'
+    amending: eu:celex:32005R1003:por
+    amending_title: REGULAMENTO (CE) N. o 1003/2005 DA COMISSÃO de 30 de Junho de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 18.º — Entrada em vigor
+    - Altera ANEXO I
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES INTRODUTÓRIAS
+    - Adita Artigo 1.º — Objecto e âmbito de aplicação
+    - Adita CAPÍTULO II
+    - Adita OBJECTIVOS COMUNITÁRIOS
+    - Adita Artigo 4.º — Objectivos comunitários para a redução da prevalência de zoonoses e agentes zoonóticos
+    - Adita CAPÍTULO III
+    - Adita PROGRAMAS DE CONTROLO
+    - Adita Artigo 5.º — Programas nacionais de controlo
+    - Adita CAPÍTULO IV
+    - Adita MÉTODOS DE CONTROLO
+    - Adita Artigo 8.º — Métodos específicos de controlo
+    - Adita CAPÍTULO V
+    - Adita COMÉRCIO
+    - Adita Artigo 9.º — Comércio intracomunitário
+    - Adita CAPÍTULO VI
+    - Adita LABORATÓRIOS
+    - Adita Artigo 11.º — Laboratórios de referência
+    - Adita CAPÍTULO VII
+    - Adita EXECUÇÃO
+    - Adita Artigo 13.º — Medidas de execução e de transição
+    - Adita CAPÍTULO VIII
+    - Adita DISPOSIÇÕES GERAIS E FINAIS
+    - Adita Artigo 17.º — Controlos comunitários
+    - Adita ANEXO II
+    - Adita Controlo das zoonoses e dos agentes zoonóticos constantes do anexo I
+    - Adita A. Requisitos gerais aplicáveis aos programas de controlo nacionais
+    - Adita 1. Generalidades
+    - 'Adita 2. No que diz respeito às empresas do sector alimentar e do sector dos alimentos para animais abrangidas pelo
+      programa:'
+    - Adita B. Requisitos mínimos de amostragem
+    - Adita C. Requisitos específicos aplicáveis aos bandos de reprodução de Gallus gallus
+    - Adita D. Requisitos específicos referentes aos bandos de galinhas poedeiras
+    - Adita E. Requisitos específicos referentes à carne fresca
+    - Adita ANEXO III
+    - Adita Critérios específicos para determinar os serotipos de salmonela significativos em matéria de saúde pública
+    - Adita Notas
+    - Suprime CAPÍTULO I DISPOSIÇÕES INTRODUTÓRIAS — Artigo 1.o
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1791:por
+    amending_title: REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Programas nacionais de controlo
+    - Altera ANEXO I
+    - Altera B. Requisitos mínimos de amostragem
+    - Altera C. Requisitos específicos aplicáveis aos bandos de reprodução de Gallus gallus
+    - Altera Notas
+  - date: '2007-10-27'
+    amending: eu:celex:32007R1237:por
+    amending_title: REGULAMENTO (CE) N. o 1237/2007 DA COMISSÃO de 23 de Outubro de 2007
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera B. Requisitos mínimos de amostragem
+    - Altera C. Requisitos específicos aplicáveis aos bandos de reprodução de Gallus gallus
+    - Altera D. Requisitos específicos referentes aos bandos de galinhas poedeiras
+    - Altera Notas
+  - date: '2010-01-01'
+    amending: eu:celex:32009R0213:por
+    amending_title: REGULAMENTO (CE) N. o 213/2009 DA COMISSÃO de 18 de Março de 2009; REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Objectivos comunitários para a redução da prevalência de zoonoses e agentes zoonóticos
+    - Altera Artigo 5.º — Programas nacionais de controlo
+    - Altera Artigo 8.º — Métodos específicos de controlo
+    - Altera Artigo 9.º — Comércio intracomunitário
+    - Altera Artigo 10.º — Importações provenientes de países terceiros
+    - Altera Artigo 11.º — Laboratórios de referência
+    - Altera Artigo 12.º — Aprovação de laboratórios, requisitos de qualidade e métodos de teste aprovados
+    - Altera Artigo 13.º — Medidas de execução e de transição
+    - Altera Artigo 14.º — Comité
+    - Altera Artigo 17.º — Controlos comunitários
+    - Altera ANEXO I
+    - Altera B. Requisitos mínimos de amostragem
+    - Altera D. Requisitos específicos referentes aos bandos de galinhas poedeiras
+    - Altera Notas
+    - Adita C. Requisitos específicos aplicáveis aos bandos de reprodução de Gallus gallus e perus de reprodução
+    - Suprime C. Requisitos específicos aplicáveis aos bandos de reprodução de Gallus gallus
+  - date: '2011-05-29'
+    amending: eu:celex:32011R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2011 DA COMISSÃO de 25 de Maio de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Objectivos comunitários para a redução da prevalência de zoonoses e agentes zoonóticos
+    - Altera ANEXO I
+    - Altera B. Requisitos mínimos de amostragem
+    - Altera C. Requisitos específicos aplicáveis aos bandos de reprodução de Gallus gallus e perus de reprodução
+    - Altera D. Requisitos específicos referentes aos bandos de galinhas poedeiras
+    - Altera Notas
+  - date: '2011-12-01'
+    amending: eu:celex:32011R1086:por
+    amending_title: REGULAMENTO (UE) N. o 1086/2011 DA COMISSÃO de 27 de Outubro de 2011
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera B. Requisitos mínimos de amostragem
+    - Altera C. Requisitos específicos aplicáveis aos bandos de reprodução de Gallus gallus e perus de reprodução
+    - Altera D. Requisitos específicos referentes aos bandos de galinhas poedeiras
+    - Altera E. Requisitos específicos referentes à carne fresca
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Programas nacionais de controlo
+    - Altera ANEXO I
+    - Altera B. Requisitos mínimos de amostragem
+    - Altera C. Requisitos específicos aplicáveis aos bandos de reprodução de Gallus gallus e perus de reprodução
+    - Altera D. Requisitos específicos referentes aos bandos de galinhas poedeiras
+    - Altera E. Requisitos específicos referentes à carne fresca
+    - Altera Notas
+  - date: '2021-04-21'
+    amending: eu:celex:32016R0429:por
+    amending_title: REGULAMENTO (UE) 2016/429 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de março de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Objectivos comunitários para a redução da prevalência de zoonoses e agentes zoonóticos
+    - Altera Artigo 9.º — Comércio intracomunitário
+    - Altera ANEXO I
+    - Altera B. Requisitos mínimos de amostragem
+    - Altera C. Requisitos específicos aplicáveis aos bandos de reprodução de Gallus gallus e perus de reprodução
+    - Altera D. Requisitos específicos referentes aos bandos de galinhas poedeiras
+    - Altera E. Requisitos específicos referentes à carne fresca
+    - Altera Notas
 identifiers:
   celex: 32003R2160
   eli: http://data.europa.eu/eli/reg/2003/2160/oj
@@ -50,7 +193,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/de9ea5e5-1ae5-4f9b-8718-546362357118.0010
   content_url: http://publications.europa.eu/resource/cellar/3281be39-b2f4-11eb-8aca-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R2160-20210421
-  retrieved_at: '2026-10-22T02:57:40Z'
+  retrieved_at: '2026-10-22T14:56:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-20T17:54:42.372+01:00'
 integrity:
@@ -59,9 +202,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:40Z'
-  notes: Texto consolidado 02003R2160-20210421.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:22Z'
+  notes: 9 versão(ões); histórico completo em regulamento-ue-2003-2160.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -240,41 +383,19 @@ relationships:
   date: '2014-11-13'
 article_structure:
   article_count: 18
-  section_count: 28
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 29
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:40Z'
+  checked_at: '2026-10-22T14:56:22Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 2160/2003 do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003
-
-> 02003R2160 — PT — 21.04.2021 — 008.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32005R1003) — [REGULAMENTO (CE) N.º 1003/2005 DA COMISSÃO de 30 de Junho de 2005](http://publications.europa.eu/resource/celex/32005R1003) — L 170 — 12 — 1.7.2005
-- [►M2](http://publications.europa.eu/resource/celex/32006R1791) — [REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006R1791) — L 363 — 1 — 20.12.2006
-- [►M3](http://publications.europa.eu/resource/celex/32007R1237) — [REGULAMENTO (CE) N.º 1237/2007 DA COMISSÃO de 23 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1237) — L 280 — 5 — 24.10.2007
-- [►M4](http://publications.europa.eu/resource/celex/32009R0213) — [REGULAMENTO (CE) N.º 213/2009 DA COMISSÃO de 18 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0213) — L 73 — 5 — 19.3.2009
-- [►M5](http://publications.europa.eu/resource/celex/32009R0596) — [REGULAMENTO (CE) N.º 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0596) — L 188 — 14 — 18.7.2009
-- [►M6](http://publications.europa.eu/resource/celex/32011R0517) — [REGULAMENTO (UE) N.º 517/2011 DA COMISSÃO de 25 de Maio de 2011](http://publications.europa.eu/resource/celex/32011R0517) — L 138 — 45 — 26.5.2011
-- [►M7](http://publications.europa.eu/resource/celex/32011R1086) — [REGULAMENTO (UE) N.º 1086/2011 DA COMISSÃO de 27 de Outubro de 2011](http://publications.europa.eu/resource/celex/32011R1086) — L 281 — 7 — 28.10.2011
-- [►M8](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [►M9](http://publications.europa.eu/resource/celex/32016R0429) — [REGULAMENTO (UE) 2016/429 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de março de 2016](http://publications.europa.eu/resource/celex/32016R0429) — L 84 — 1 — 31.3.2016
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32011R0517R%2801%29) — [Rectificação, JO L 068, 13.3.2015, p. 90 (517/2011)](http://publications.europa.eu/resource/celex/32011R0517R%2801%29)
-
-## REGULAMENTO (CE) N.º 2160/2003 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de Novembro de 2003
 

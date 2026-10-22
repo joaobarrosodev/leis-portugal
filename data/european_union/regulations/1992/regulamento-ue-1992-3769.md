@@ -35,6 +35,36 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2005-08-18'
+version_history:
+  file: regulamento-ue-1992-3769.versoes.json
+  count: 2
+  source_lastmod: '2005-08-18'
+  versions:
+  - date: '1992-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-08-18'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1° — Dispensa da obrigação de registo relativamente às substâncias inventariadas enumeradas na categoria
+      3
+    - Suprime Artigo 2° — Obrigações específicas relativas à exportação de substâncias inventariadas enumeradas na categoria
+      2
+    - Suprime Artigo 3° — Obrigações específicas relativas à exportação de substâncias inventariadas enumeradas na categoria
+      3
+    - Suprime Artigo 4° — Modelo de autorização de exportação
+    - Suprime Artigo 5° — Autorizações gerais individuais
+    - Suprime Artigo 6° — Substâncias classificadas
+    - Suprime Artigo 7°
+    - Suprime ANEXO I — >POSIÇÃO NUMA TABELA>
+    - Suprime ANEXO II — >POSIÇÃO NUMA TABELA>
+    - Suprime ANEXO III — >POSIÇÃO NUMA TABELA>
+    - Suprime ANEXO IV — AUTORIZAÇÃO INDIVIDUAL PARA A EXPORTAÇÃO DE SUBSTÂNCIAS QUE FIGURAM NO ANEXO DO REGULAMENTO (CEE)
+      N° 3677/90
+    - Suprime ANEXO V
 identifiers:
   celex: 31992R3769
   eli: http://data.europa.eu/eli/reg/1992/3769/oj
@@ -49,7 +79,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ad9c9dd1-100e-48ca-93ec-60f7fc33d42b.0009
   content_url: http://publications.europa.eu/resource/cellar/7dae28d0-d983-4b62-9304-d8e7530113bb.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R3769-20050818
-  retrieved_at: '2026-10-22T03:06:59Z'
+  retrieved_at: '2026-10-22T14:41:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-31T20:06:19.558+02:00'
 integrity:
@@ -58,9 +88,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:06:59Z'
-  notes: Texto consolidado 01992R3769-20050818.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:47Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1992-3769.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -132,16 +162,20 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:06:59Z'
+  checked_at: '2026-10-22T14:41:47Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01992R3769-19930101: versão indisponível (Sem expressão na língua por para CELEX 01992R3769-19930101.)'
+  - '01992R3769-19931117: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R3769-19971114: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R3769-20000814: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R3769-20010717: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R3769-20020730: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999L0099:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0099-19991231",
+ "dre_path": null,
+ "source_lastmod": "1999-12-31",
+ "versions": [
+  {
+   "date": "1999-12-28",
+   "future": false,
+   "celex": "31999L0099",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "247f1c68c1923691",
+    "044ff73472d20787",
+    "4a05d5183bb99672",
+    "e93a66c7b59a3621",
+    "bc1a6f6d6ed4924c",
+    "73535b909afa1642",
+    "57cf29958835eaaf"
+   ]
+  }
+ ],
+ "fragments": {
+  "247f1c68c1923691": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 1999/99/CE da Comissão, de 15 de Dezembro de 1999, que adapta ao progresso técnico a Directiva 80/1269/CEE, relativa à aproximação das legislações dos Estados-Membros respeitantes à potência dos motores dos veículos a motor (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 334 de 28/12/1999 p. 0032 - 0035*\n\nDIRECTIVA 1999/99/CE DA COMISSÃO\n\nde 15 de Dezembro de 1999\n\nque adapta ao progresso técnico a Directiva 80/1269/CEE, relativa à aproximação das legislações dos Estados-Membros respeitantes à potência dos motores dos veículos a motor\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-Membros respeitantes à homologação dos veículos a motor e seus reboques(1), com a última redacção que lhe foi dada pela Directiva 98/91/CE do Parlamento Europeu e do Conselho(2), e, nomeadamente, o n.o 2 do seu artigo 13.o,\n\nTendo em conta a Directiva 80/1269/CEE do Conselho, de 16 de Dezembro de 1980, relativa à aproximação das legislações dos Estados-Membros respeitantes à potência dos motores dos veículos a motor(3), com a última redacção que lhe foi dada pela Directiva 97/21/CE da Comissão(4), e, nomeadamente, o seu artigo 3.o,\n\nConsiderando o seguinte:\n\n(1) A Directiva 80/1269/CEE é uma das directivas específicas do procedimento de homologação CE que foi instituído pela Directiva 70/156/CEE; por conseguinte, as disposições da Directiva 70/156/CEE respeitantes aos sistemas, componentes e unidades técnicas dos veículos são aplicáveis à referida directiva;\n\n(2) É necessário, no quadro da homologação de veículos alimentados a gás (GPL e GN), introduzir disposições na Directiva 80/1269/CEE para a medição da potência dos motores de tais veículos, em especial no que diz respeito aos combustíveis de ensaio a utilizar, definidos na Directiva 98/77/CE da Comissão, de 2 de Outubro de 1998, que adapta ao progresso técnico a Directiva 70/220/CEE do Conselho, relativa à aproximação das legislações dos Estados-Membros respeitantes às medidas a tomar contra a poluição do ar pelas emissões dos veículos a motor(5); a este respeito, é adequado seguir os requisitos técnicos adoptados pela Comissão Económica para a Europa das Nações Unidas no seu Regulamento n.o 85(6);\n\n(3) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité de Adaptação ao Progresso Técnico instituído pela Directiva 70/156/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "044ff73472d20787": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 80/1269/CEE é alterado nos termos do anexo da presente directiva."
+  },
+  "4a05d5183bb99672": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A partir de 1 de Janeiro de 2000, os Estados-Membros não podem, por motivos relacionados com a potência do motor:\n\n- recusar a um modelo de veículo a homologação CE nos termos do artigo 4.o, n.o 1, da Directiva 70/156/CEE, nem\n\n- recusar a um modelo de veículo a homologação de âmbito nacional, nem\n\n- proibir a matrícula, a venda ou a entrada em circulação de veículos nos termos do artigo 7.o da Directiva 70/156/CEE,\n\nse o valor da potência do motor tiver sido determinado de acordo com os requisitos da Directiva 80/1269/CEE, com a redacção que lhe é dada pela presente directiva.\n\n2. A partir de 1 de Janeiro de 2000, os Estados-Membros:\n\n- deixarão de poder conceder a um modelo de veículo a homologação CE nos termos do artigo 4.o, n.o 1, da Directiva 70/156/CEE, e\n\n- recusarão a um modelo de veículo a homologação de âmbito nacional, excepto em casos abrangidos pelo disposto no artigo 8.o, n.o 2, da Directiva 70/156/CEE,\n\nse o valor desta última não tiver sido determinado de acordo com os requisitos da Directiva 80/1269/CEE, com a redacção que lhe é dada pela presente directiva."
+  },
+  "e93a66c7b59a3621": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Até 31 de Dezembro de 1999, os Estados-Membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-Membros adoptarem as referidas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas de tal referência na publicação oficial. As modalidades da referência serão adoptadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "bc1a6f6d6ed4924c": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "73535b909afa1642": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 15 de Dezembro de 1999.\n\nPela Comissão\n\nErkki LIIKANEN\n\nMembro da Comissão\n\n(1) JO L 42 de 23.2.1970, p. 1.\n\n(2) JO L 11 de 16.1.1999, p. 25.\n\n(3) JO L 375 de 31.12.1980, p. 46.\n\n(4) JO L 125 de 16.5.1997, p. 31.\n\n(5) JO L 286 de 23.10.1998, p. 34.\n\n(6) Regulamento n.o 85 da Comissão Económica para a Europa das Nações Unidas (E/ECE324-E/ECE/TRANS/505/Rev. 1/Add. 84), na sua última versão."
+  },
+  "57cf29958835eaaf": {
+   "fragment_id": "ANEXO — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 80/1269/CEE",
+   "type": "divisao",
+   "heading": "ANEXO — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 80/1269/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 80/1269/CEE\n\n1. O ponto 5.3.11 passa a ter a seguinte redacção: \"5.3.11. O combustível utilizado será o seguinte:\n\n5.3.11.1. Para os motores de ignição comandada alimentados a gasolina:\n\nO combustível utilizado será o disponível no mercado. Em caso de litígio, será utilizado o combustível de referência especificado no ponto 1 do anexo IX da Directiva 70/220/CEE. Em vez do combustível de referência acima mencionado, podem ser utilizados os combustíveis de referência definidos pelo CEC(1) no documento CEC RF-08-A-85 para os motores alimentados a gasolina.\n\n5.3.11.2. Para os motores de ignição comandada alimentados a GPL:\n\n5.3.11.2.1. Se o motor tiver alimentação auto-adaptável:\n\nO combustível utilizado será o disponível no mercado. Em caso de litígio, o combustível de referência será um dos combustíveis de referência especificados no anexo IX-A da Directiva 70/220/CEE, com a sua última redacção.\n\n5.3.11.2.2. Se o motor não tiver alimentação auto-adaptável:\n\nO combustível utilizado será o combustível de referência especificado no anexo IX-A da Directiva 70/220/CEE, com o menor teor de hidrocarbonetos C3.\n\n5.3.11.2.3. Se o motor for etiquetado para uma composição específica de combustível:\n\nO combustível utilizado será o combustível para o qual o motor está etiquetado.\n\n5.3.11.2.4. O combustível utilizado será especificado no relatório de ensaio.\n\n5.3.11.3. Para os motores de ignição comandada alimentados a GN:\n\n5.3.11.3.1. Se o motor tiver alimentação auto-adaptável:\n\nO combustível utilizado será o disponível no mercado. Em caso de litígio, o combustível de referência será um dos combustíveis de referência especificados no anexo IX-A da Directiva 70/220/CEE.\n\n5.3.11.3.2. Se o motor não tiver alimentação auto-adaptável:\n\nO combustível utilizado será o combustível disponível no mercado, com um índice de Wobbe de pelo menos 52,6 MJm-3 (0 °C, 101,3 kPa). Em caso de litígio, o combustível utilizado será o combustível de referência G20 especificado no anexo IX-A da Directiva 70/220/CEE, com a sua última redacção, isto é, o combustível com o índice de Wobbe mais elevado.\n\n5.3.11.3.3. Se o motor for etiquetado para uma gama específica de combustíveis:\n\nO combustível utilizado será o combustível disponível no mercado, com um índice de Wobbe de pelo menos 52,6 MJm-3 (0 °C, 101,3 kPa) se o motor estiver etiquetado para a gama H de gases, ou de pelo menos 47,2 MJm-3 (0 °C, 101,3 kPa) se o motor estiver etiquetado para a gama L de gases. Em caso de litígio, o combustível utilizado será o combustível de referência G20 especificado no anexo IX-A da Directiva 70/220/CEE, com a sua última redacção, se o motor estiver etiquetado para a gama H de gases, ou o combustível de referência G23 se o motor estiver etiquetado para a gama L de gases, isto é, o combustível com o índice de Wobbe mais elevado para a gama relevante.\n\n5.3.11.3.4. Se o motor for etiquetado para uma composição específica de combustível:\n\nO combustível utilizado será o combustível para o qual o motor está etiquetado.\n\n5.3.11.3.5. O combustível utilizado será especificado no relatório de ensaio.\n\n5.3.11.4. Para os motores de ignição por compressão:\n\nO combustível utilizado será o disponível no mercado. Em caso de litígio, será utilizado o combustível de referência especificado no ponto 2 do anexo IX da Directiva 70/220/CEE. Em vez do combustível de referência acima mencionado, pode ser utilizado o combustível de referência definido pelo CEC(2) no documento CEC RF-03-A-84 para os motores de ignição por compressão.\n\n5.3.11.5. Os motores de ignição comandada alimentados quer a gasolina quer a combustível gasoso devem ser ensaiados com ambos os combustíveis, nos termos do disposto do ponto 5.3.11.1 ao ponto 5.3.11.3. Os veículos alimentados quer a gasolina quer a combustível gasoso mas em que o sistema de gasolina se destina a situações de emergência ou unicamente ao arranque e em que a capacidade máxima do depósito de gasolina é de 15 litros serão considerados, para efeitos de ensaio, como veículos alimentados exclusivamente a combustível gasoso.\"\n\n2. No final do ponto 8.1, é aditada uma nota de rodapé (1), com a seguinte redacção: \"(1) O fabricante pode declarar um só valor enquanto a potência do motor se mantiver dentro da mesma variante do tipo de motor. Cada variante deve ser claramente definida.\"\n\n3. O ponto 3.2.2 do apêndice 1 passa a ter a seguinte redacção: \"3.2.2. Combustível: diesel/gasolina/GPL/GN(1).\"\n\n4. Ao apêndice 1 são aditados novos pontos (3.2.15 e 3.2.16), com a seguinte redacção:\n\n\">PIC FILE= \"L_1999334PT.003501.EPS\">\"\n\n5. No final do apêndice 1, é aditada uma nova nota de rodapé (3), com a seguinte redacção: \"(3) Quando a presente directiva for alterada no sentido de abranger os depositos de combustível gasoso.\"\n\n6. O ponto 1.1.3 da adenda ao apêndice 2 passa a ter a seguinte redacção: \"1.1.3. Combustível: diesel/gasolina/GPL/GN(1).\"\n\n(1) Conselho Europeu de Coordenação para o desenvolvimento de ensaios de comportamento funcional para os lubrificantes e os combustíveis dos motores.\n\n(2) Conselho Europeu de Coordenação para o desenvolvimento de ensaios de comportamento funcional para os lubrificantes e os combustíveis dos motores."
+  }
+ }
+}

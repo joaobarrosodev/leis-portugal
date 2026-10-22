@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-01-01'
+version_history:
+  file: diretiva-ue-2001-80.versoes.json
+  count: 1
+  source_lastmod: '2016-01-01'
+  versions:
+  - date: '2016-01-01'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32001L0080
   eli: http://data.europa.eu/eli/dir/2001/80/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/25b4f997-ecdc-4744-a617-3fc5b568224f.0010
   content_url: http://publications.europa.eu/resource/cellar/5f4620f5-ab64-467b-bfdc-bbf7aa754850.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0080-20160101
-  retrieved_at: '2026-10-22T02:38:37Z'
+  retrieved_at: '2026-10-22T14:50:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-05T19:36:50.851+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:37Z'
-  notes: Texto consolidado 02001L0080-20160101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:13Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2001-80.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -216,16 +225,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:37Z'
+  checked_at: '2026-10-22T14:50:13Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02001L0080-20011127: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001L0080-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001L0080-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02001L0080-20090625: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

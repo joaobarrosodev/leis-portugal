@@ -35,6 +35,34 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2002-08-09'
+version_history:
+  file: diretiva-ue-1988-332.versoes.json
+  count: 2
+  source_lastmod: '2002-08-09'
+  versions:
+  - date: '1988-06-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-08-09'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 9.º
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
 identifiers:
   celex: 31988L0332
   eli: http://data.europa.eu/eli/dir/1988/332/oj
@@ -49,7 +77,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5ec1b78a-ad91-4dec-93ae-1585832b6a1f.0011
   content_url: http://publications.europa.eu/resource/cellar/dfa649ef-88b0-4ab9-b044-24f552ee278b.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01988L0332-20020809
-  retrieved_at: '2026-10-22T02:55:04Z'
+  retrieved_at: '2026-10-22T14:35:17Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-27T16:36:07.462+02:00'
 integrity:
@@ -58,9 +86,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:55:04Z'
-  notes: Texto consolidado 01988L0332-20020809.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:35:17Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1988-332.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -154,15 +182,14 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:55:04Z'
-  warnings:
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:35:17Z'
+  warnings: []
   errors: []
 ---
 

@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31988L0409:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01988L0409-19920701",
+ "dre_path": null,
+ "source_lastmod": "1992-07-01",
+ "versions": [
+  {
+   "date": "1988-07-22",
+   "future": false,
+   "celex": "31988L0409",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "562cc4fa79da4de2",
+    "9e7aa133c50c1ca3",
+    "43065002f64ebbae",
+    "30d92e1cdc9d2d01",
+    "f351a45f36dcce44",
+    "0f348c0e2b4cbe48",
+    "79821f2562c91aad",
+    "254b0d6fd1b8928e"
+   ]
+  },
+  {
+   "date": "1992-07-01",
+   "future": false,
+   "celex": "01988L0409-19920701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Suprime Artigo 1g.",
+    "Suprime Artigo 2g.",
+    "Suprime Artigo 3g.",
+    "Suprime Artigo 4g.",
+    "Suprime Artigo 5g.",
+    "Suprime Artigo 6g.",
+    "Suprime Artigo 7g. — Os Estados-membros são os destinatários da presente"
+   ],
+   "fragments": [
+    "6c8856653a255f3d",
+    "6eea8dde444509ab",
+    "bd6c7b29311b7abe",
+    "c679115191cc2b54",
+    "a742800758c1867a",
+    "cf69470fd7f74e1b",
+    "3a9cc557cae443c9",
+    "f56d80a2c67398dc"
+   ]
+  }
+ ],
+ "fragments": {
+  "562cc4fa79da4de2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 88/409/CEE do Conselho de 15 de Junho de 1988, que estabelece as regras sanitárias aplicáveis à carne destinada ao mercado nacional e os níveis da taxa a cobrar em conformidade com a Directiva 85/73/CEE para a inspecção dessa mesma carne** *Jornal Oficial nº L 194 de 22/07/1988 p. 0028 - 0029 Edição especial finlandesa: Capítulo 3 Fascículo 27 p. 0029 Edição especial sueca: Capítulo 3 Fascículo 27 p. 0029*\n\nDIRECTIVA DO CONSELHO\n\nde 15 de Junho de 1988\n\nque estabelece as regras sanitárias aplicáveis à carne destinada ao mercado nacional e os níveis da taxa a cobrar em conformidade com a Directiva 85/73/CEE para a inspecção dessa mesma carne\n\n(88/409/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43g.,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a Directiva 64/433/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas sanitários em matéria de comércio intracomunitário de carne fresca (4), com a última redacção que lhe foi dada pelo Regulamento (CEE) n° 3805/87 (5), previu a realização de inspecções e controlos sanitários em relação às carnes frescas destinadas ao comércio intracomunitário;\n\nConsiderando que é conveniente realizar as mesmas\n\ninspecções em relação às carnes frescas destinadas ao comércio no mercado interno de cada Estado-membro a fim de garantir a livre circulação na Comunidade e evitar distorções de concorrência em relação aos produtos sujeitos à organização comum de mercado, assegurando, ao mesmo tempo, condições uniformes de protecção sanitária aos\n\nconsumidores;\n\nConsiderando que, em conformidade com o n° 1 do artigo 2g. da Directiva 85/73/CEE do Conselho, de 29 de Janeiro de 1985, relativa ao financiamento das inspecções e controlos sanitários da carne fresca e da carne de aves de capoeira (6), os níveis das taxas a cobrar relativamente às carnes frescas obtidas em matadouros não aprovados de acordo com a Directiva 64/433/CEE devem ser estabelecidos em relação com a adopção de regras de inspecção das carnes frescas em causa:\n\nConsiderando que devido tanto ao alargamento do âmbito das regras de inspecção estabelecidas na Directiva 64/433/CEE de modo a abranger os animais abatidos para consumo local, como à submissão dessa carne aos controlos\n\nJO n° C 298 de 7. 11. 1987, p. 4.\n\nreferidos na Directiva 85/358/CEE do Conselho, de 16 de Julho de 1985, que completa a Directiva 81/602/CEE respeitante à proibição de determinadas substâncias com efeito hormonal e de substâncias com efeito tireostático (7), e que, tendo em atenção a Directiva 86/469/CEE do Conselho, de 16 de Setembro de 1986, relativa à pesquisa de resíduos nos animais e na carne fresca (8), é conveniente estabelecer para as carnes destinadas ao consumo local\n\nos mesmos níveis de taxas que os previstos na Decisão\n\n88/408/CEE do Conselho, de 15 de Junho de 1988, relativa aos níveis da taxa a cobrar a título das inspecções e controlos sanitários da carne fresca, em conformidade com a Directiva\n\n85/73/CEE (9);\n\nConsiderando, todavia, que convém não regulamentar a nível comunitário, no presente estádio, o caso do abate para as necessidades pessoais do criador;\n\nConsiderando que, em resultado das disposições e dos procedimentos administrativos de gestão e de financiamento nacionais, é conveniente prever um prazo suplementar para permitir que a República Helénica aplique, no conjunto do seu território, as regras de inspecção e o mecanismo necessário à cobrança da taxa relativa às inspecções e\n\ncontrolos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "9e7aa133c50c1ca3": {
+   "fragment_id": "Artigo 1g.",
+   "type": "artigo",
+   "heading": "Artigo 1g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1g.\n\nSem prejuízo das disposições a adoptar em execução do artigo 15g.B da Directiva 71/118/CEE do Conselho, de 15 de Fevereiro de 1971, relativa a problemas sanitários em matéria de comércio de carnes frescas de aves de capoeira (10), com a última redacção que lhe foi dada pelo Regulamento (CEE) n° 3805/87, a presente directiva estabelece as regras de inspecção sanitária e o nível da taxa sanitária aplicáveis à carne destinada ao mercado nacional dos Estados-membros.\n\nPara os efeitos da presente directiva, são aplicáveis as definições constantes do artigo 2g. da Directiva 64/433/CEE.\n\nNão são afectadas pela presente directiva as regulamentações nacionais relativas ao abate de um animal para as necessidades pessoais do criador, desde que essas regulamentações prevejam garantias no sentido do controlo de que não possa ser colocada no mercado a carne proveniente desse\n\nanimal.\n\n;\n\n;\n\n;\n\n22. 7. 88\n\nJornal Oficial das Comunidades Europeias"
+  },
+  "43065002f64ebbae": {
+   "fragment_id": "Artigo 2g.",
+   "type": "artigo",
+   "heading": "Artigo 2g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2g.\n\nA partir de 1 de Janeiro de 1990, os Estados-membros aplicarão as disposições necessárias para garantir que, o mais tardar na data prevista no artigo 6g., toda a carne fresca produzida nos respectivos territórios para aí ser comercializada seja submetida a uma inspecção segundo as regras de inspecção estipuladas no capítulo V, pontos 25, 26 e 27, nos capítulos VI, VII, VIII e no capítulo IX, segundo, quinto e sexto travessões do ponto 47, do Anexo I da Directiva 64/433/CEE. Essa carne não deve ser assinalada com a marca de salubridade prevista no capítulo X daquele mesmo anexo se não estiver conforme aos outros requisitos da referida directiva.\n\nO disposto nos capítulos VI, VIII e IX, ponto 47, do Anexo I da Directiva 64/433/CEE, não se aplica às operações de armazenagem e de corte efectuadas em pequenas quantidades em locais de venda ao consumidor final."
+  },
+  "30d92e1cdc9d2d01": {
+   "fragment_id": "Artigo 3g.",
+   "type": "artigo",
+   "heading": "Artigo 3g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3g.\n\nÉ inserido na Directiva 85/73/CEE o seguinte artigo:\n\n«Artigo 2g.A\n\nOs Estados-membros zelarão por que os custos inerentes às inspecções referidas nos artigos 6g., 8g. e 9g. da Directiva 86/469/CEE sejam imputados na taxa prevista no artigo 1g.»"
+  },
+  "f351a45f36dcce44": {
+   "fragment_id": "Artigo 4g.",
+   "type": "artigo",
+   "heading": "Artigo 4g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4g.\n\nO nível das taxas resultante do artigo 2g. da Decisão 88/408/CEE é aplicável à carne fresca produzida e inspeccionada nos termos do disposto no artigo 2g. da presente directiva, bem como à carne referida no artigo 16g.A da Directiva 71/118/CEE."
+  },
+  "0f348c0e2b4cbe48": {
+   "fragment_id": "Artigo 5g.",
+   "type": "artigo",
+   "heading": "Artigo 5g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5g.\n\n1. Antes de 1 de Outubro de 1989, o Conselho, deliberando por maioria qualificada sob proposta da Comissão, decidirá as condições de alargamento dos outros requisitos da Directiva 64/433/CEE aos estabelecimentos ou matadouros não aprovados nos termos da referida directiva,\n\nvoltará a analisar para esse efeito os critérios de apreciação previstos nomeadamente no n° 1, ponto A, alínea d), do artigo 3g. e no artigo 5g. da referida directiva para que se excluam determinadas carnes das trocas comerciais e adoptará as regras mínimas de higiene e de inspecção a respeitar por um matadouro que pretenda limitar exclusivamente a sua produção ao mercado local.\n\n2. Antes da mesma data e segundo o mesmo processo, serão adoptadas para a carne actualmente destinada ao mercado nacional:\n\n- novas regras de inspecção sanitária ante e post mortem para a carne de aves de capoeira,\n\n- as disposições relativas à qualificação profissional dos inspectores auxiliares, à sua necessária formação e às actividades que deverão exercer."
+  },
+  "79821f2562c91aad": {
+   "fragment_id": "Artigo 6g.",
+   "type": "artigo",
+   "heading": "Artigo 6g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6g.\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 1 de Janeiro do 1991. Do facto informarão imediatamente a Comissão.\n\nN° entanto, a República Helénica beneficia de um prazo suplementar de dois anos para dar cumprimento à presente directiva."
+  },
+  "254b0d6fd1b8928e": {
+   "fragment_id": "Artigo 7g. — Os Estados-membros são os destinatários da presente",
+   "type": "artigo",
+   "heading": "Artigo 7g. — Os Estados-membros são os destinatários da presente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7g. — Os Estados-membros são os destinatários da presente\n\ndirectiva.\n\nFeito no Luxemburgo, em 15 de Junho de 1988.\n\nPelo Conselho\n\nO Presidente\n\nI. KIECHLE\n\nEWG:L111UMBP09.93\n\nFF: 1UPO; SETUP: 01; Hoehe: 889 mm; 164 Zeilen; 7761 Zeichen;\n\nBediener: SUSI Pr.: C;\n\nKunde:................................\n\n(1) JO n° C 302 de 27. 11. 1986, p. 4 e (2) JO n° C 281 de 19. 10. 1987, p. 202.\n\n(3) JO n° C 83 de 30. 3. 1987, p. 2.\n\n(4) JO n° 121 de 29. 7. 1964, 2012/64.\n\n(5) JO n° L 357 de 19. 12. 1987, p. 1.\n\n(6) JO n° L 32 de 5. 2. 1985, p. 14.\n\n(7) JO n° L 191 de 23. 7. 1985, p. 46.\n\n(8) JO n° L 275 de 26. 9. 1986, p. 36.\n\n(9) Ver página 24 do presente Jornal Oficial.\n\n(10) JO n° L 55 de 8. 3. 1971, p. 23."
+  },
+  "6c8856653a255f3d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1988L0409 — PT — 01.07.1992 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0409:PT:NOT) [DIRECTIVA DO CONSELHO de 15 de Junho de 1988 que estabelece as regras sanitárias aplicáveis à carne destinada ao mercado nacional e os níveis da taxa a cobrar em conformidade com a Directiva 85/73/CEE para a inspecção dessa mesma carne (88/409/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0409:PT:NOT) (JO L 194, 22.7.1988, p.28)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0498:PT:NOT) | [Directiva do Conselho 91/498/CEE de 29 de Julho de 1991](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0498:PT:NOT) | L 268 | 105 | 24.9.1991 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0409:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 15 de Junho de 1988\n\nque estabelece as regras sanitárias aplicáveis à carne destinada ao mercado nacional e os níveis da taxa a cobrar em conformidade com a Directiva 85/73/CEE para a inspecção dessa mesma carne\n\n(88/409/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43.o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#E0003)),\n\nConsiderando que a Directiva 64/433/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas sanitários em matéria de comércio intracomunitário de carne fresca ([4](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#E0004)), com a última redacção que lhe foi dada pelo Regulamento (CEE) n.o 3805/87 ([5](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#E0005)), previu a realização de inspecções e controlos sanitários em relação às carnes frescas destinadas ao comércio intracomunitário;\n\nConsiderando que é conveniente realizar as mesmas inspecções em relação às carnes frescas destinadas ao comércio no mercado interno de cada Estado-membro a fim de garantir a livre circulação na Comunidade e evitar distorções de concorrência em relação aos produtos sujeitos à organização comum de mercado, assegurando, ao mesmo tempo, condições uniformes de protecção sanitária aos consumidores;\n\nConsiderando que, em conformidade com o n.o 1 do artigo 2.o da Directiva 85/73/CEE do Conselho, de 29 de Janeiro de 1985, relativa ao financiamento das inspecções e controlos sanitários da carne fresca e da carne de aves de capoeira ([6](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#E0006)), os níveis das taxas a cobrar relativamente às carnes frescas obtidas em matadouros não aprovados de acordo com a Directiva 64/433/CEE devem ser estabelecidos em relação com a adopção de regras de inspecção das carnes frescas em causa:\n\nConsiderando que devido tanto ao alargamento do âmbito das regras de inspecção estabelecidas na Directiva 64/433/CEE de modo a abranger os animais abatidos para consumo local, como à submissão dessa carne aos controlos referidos na Directiva 85/358/CEE do Conselho, de 16 de Julho de 1985, que completa a Directiva 81/602/CEE respeitante à proibição de determinadas substâncias com efeito hormonal e de substâncias com efeito tireostático ([7](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#E0007)), e que, tendo em atenção a Directiva 86/469/CEE do Conselho, de 16 de Setembro de 1986, relativa à pesquisa de resíduos nos animais e na carne fresca ([8](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#E0008)), é conveniente estabelecer para as carnes destinadas ao consumo local os mesmos níveis de taxas que os previstos na Decisão 88/408/CEE do Conselho, de 15 de Junho de 1988, relativa aos níveis da taxa a cobrar a título das inspecções e controlos sanitários da carne fresca, em conformidade com a Directiva 85/73/CEE ([9](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#E0009));\n\nConsiderando, todavia, que convém não regulamentar a nível comunitário, no presente estádio, o caso do abate para as necessidades pessoais do criador;\n\nConsiderando que, em resultado das disposições e dos procedimentos administrativos de gestão e de financiamento nacionais, é conveniente prever um prazo suplementar para permitir que a República Helénica aplique, no conjunto do seu território, as regras de inspecção e o mecanismo necessário à cobrança da taxa relativa às inspecções e controlos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "6eea8dde444509ab": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSem prejuízo das disposições a adoptar em execução do artigo 15.oB da Directiva 71/118/CEE do Conselho, de 15 de Fevereiro de 1971, relativa a problemas sanitários em matéria de comércio de carnes frescas de aves de capoeira ([10](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#E0010)), com a última redacção que lhe foi dada pelo Regulamento (CEE) n.o 3805/87, a presente directiva estabelece as regras de inspecção sanitária e o nível da taxa sanitária aplicáveis à carne destinada ao mercado nacional dos Estados-membros.\n\nPara os efeitos da presente directiva, são aplicáveis as definições constantes do artigo 2.o da Directiva 64/433/CEE.\n\nNão são afectadas pela presente directiva as regulamentações nacionais relativas ao abate de um animal para as necessidades pessoais do criador, desde que essas regulamentações prevejam garantias no sentido do controlo de que não possa ser colocada no mercado a carne proveniente desse animal.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0498:PT:NOT)"
+  },
+  "bd6c7b29311b7abe": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA partir de 1 de Janeiro de 1996, os Estados-membros aplicarão as disposições necessárias para garantir que toda a carne fresca produzida nos respectivos territórios para aí ser comercializada seja obtida num estabelecimento aprovado, em conformidade com os requisitos da Directiva 64/433/CEE.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0409:PT:NOT)"
+  },
+  "c679115191cc2b54": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nÉ inserido na Directiva 85/73/CEE o seguinte artigo:\n\n«Artigo 2.oA\n\nOs Estados-membros zelarão por que os custos inerentes às inspecções referidas nos artigos 6.o, 8.o e 9.o da Directiva 86/469/CEE sejam imputados na taxa prevista no artigo 1.o»"
+  },
+  "a742800758c1867a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO nível das taxas resultante do artigo 2.o da Decisão 88/408/CEE é aplicável à carne fresca produzida e inspeccionada nos termos do disposto no artigo 2.o da presente directiva, bem como à carne referida no artigo 16.oA da Directiva 71/118/CEE."
+  },
+  "cf69470fd7f74e1b": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Antes de 1 de Outubro de 1989, o Conselho, deliberando por maioria qualificada sob proposta da Comissão, decidirá as condições de alargamento dos outros requisitos da Directiva 64/433/CEE aos estabelecimentos ou matadouros não aprovados nos termos da referida directiva, voltará a analisar para esse efeito os critérios de apreciação previstos nomeadamente no n.o 1, ponto A, alínea d), do artigo 3.o e no artigo 5.o da referida directiva para que se excluam determinadas carnes das trocas comerciais e adoptará as regras mínimas de higiene e de inspecção a respeitar por um matadouro que pretenda limitar exclusivamente a sua produção ao mercado local.\n\n2. Antes da mesma data e segundo o mesmo processo, serão adoptadas para a carne actualmente destinada ao mercado nacional:\n\n— novas regras de inspecção sanitária ante e post mortem para a carne de aves de capoeira,\n\n— as disposições relativas à qualificação profissional dos inspectores auxiliares, à sua necessária formação e às actividades que deverão exercer."
+  },
+  "3a9cc557cae443c9": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 1 de Janeiro do 1991. Do facto informarão imediatamente a Comissão.\n\nNo entanto, a República Helénica beneficia de um prazo suplementar de dois anos para dar cumprimento à presente directiva."
+  },
+  "f56d80a2c67398dc": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n([1](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#src.E0001)) JO n.o C 302 de 27. 11. 1986, p. 4 e\n\nJO n.o C 298 de 7. 11. 1987, p. 4.\n\n([2](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#src.E0002)) JO n.o C 281 de 19. 10. 1987, p. 202.\n\n([3](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#src.E0003)) JO n.o C 83 de 30. 3. 1987, p. 2.\n\n([4](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#src.E0004)) JO n.o 121 de 29. 7. 1964, 2012/64.\n\n([5](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#src.E0005)) JO n.o L 357 de 19. 12. 1987, p. 1.\n\n([6](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#src.E0006)) JO n.o L 32 de 5. 2. 1985, p. 14.\n\n([7](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#src.E0007)) JO n.o L 191 de 23. 7. 1985, p. 46.\n\n([8](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#src.E0008)) JO n.o L 275 de 26. 9. 1986, p. 36.\n\n([9](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#src.E0009)) Ver página 24 do presente Jornal Oficial.\n\n([10](http://publications.europa.eu/resource/cellar/1cfc8648-a5b8-42fa-a972-c8ba59ddb194.0018.02/DOC_1#src.E0010)) JO n.o L 55 de 8. 3. 1971, p. 23."
+  }
+ }
+}

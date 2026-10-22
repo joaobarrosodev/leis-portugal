@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0010:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0010-20070720",
+ "dre_path": null,
+ "source_lastmod": "2007-07-20",
+ "versions": [
+  {
+   "date": "2007-07-20",
+   "future": false,
+   "celex": "01993L0010-20070720",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "edd8042c0e6d260f"
+   ]
+  }
+ ],
+ "fragments": {
+  "edd8042c0e6d260f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993L0010 — PT — 20.07.2007 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993L0010) [DIRECTIVA 93/10/CEE DA COMISSÃO](http://publications.europa.eu/resource/celex/31993L0010) [de 15 de Março de 1993](http://publications.europa.eu/resource/celex/31993L0010) [respeitante aos materiais e objectos em película de celulose regenerada destinados a entrar em contacto com géneros alimentícios](http://publications.europa.eu/resource/celex/31993L0010) (JO L 093, 17.4.1993, p.27)\n\n**revogado por:**\n\n- [Directiva 2007/42/CE da Comissão de 29 de Junho de 2007](http://publications.europa.eu/resource/celex/32007L0042) — L 172 — 71 — 30.6.2007"
+  }
+ }
+}

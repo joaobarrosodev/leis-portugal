@@ -37,6 +37,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-07-16'
+version_history:
+  file: regulamento-ue-2008-765.versoes.json
+  count: 1
+  source_lastmod: '2021-07-16'
+  versions:
+  - date: '2021-07-16'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32008R0765
   eli: http://data.europa.eu/eli/reg/2008/765/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fdd70f57-7032-4121-92ae-ccf8ef68c15b.0019
   content_url: http://publications.europa.eu/resource/cellar/e8e78132-f47c-11eb-aeb9-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0765-20210716
-  retrieved_at: '2026-10-22T02:27:28Z'
+  retrieved_at: '2026-10-22T15:17:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T02:30:13.662+01:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:27:28Z'
-  notes: Texto consolidado 02008R0765-20210716.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:17:33Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2008-765.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -505,29 +514,21 @@ relationships:
   date: '1993-02-17'
 article_structure:
   article_count: 29
-  section_count: 22
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 23
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:27:28Z'
-  warnings: []
+  checked_at: '2026-10-22T15:17:33Z'
+  warnings:
+  - '02008R0765-20080813: versão indisponível (Sem expressão na língua por para CELEX 02008R0765-20080813.)'
+  - '02008R0765-20100101: versão indisponível (Sem expressão na língua por para CELEX 02008R0765-20100101.)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 765/2008 do Parlamento Europeu e do Conselho, de 9 Julho de 2008 , que estabelece os requisitos de acreditação e fiscalização do mercado relativos à comercialização de produtos, e que revoga o Regulamento (CEE) n. o 339/93 (Texto relevante para efeitos do EEE)
-
-> 02008R0765 — PT — 16.07.2021 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R1020) — [REGULAMENTO (UE) 2019/1020 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1020) — L 169 — 1 — 25.6.2019
-
-## REGULAMENTO (CE) N.º 765/2008 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 9 de julho de 2008,
 

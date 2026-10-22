@@ -34,6 +34,63 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2005-08-04'
+version_history:
+  file: regulamento-ue-1975-1365.versoes.json
+  count: 2
+  source_lastmod: '2005-08-04'
+  versions:
+  - date: '1975-05-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-08-04'
+    amending: eu:celex:31993R1947:por
+    amending_title: M1; REGULAMENTO (CE) N. o 1649/2003 DO CONSELHO de 18 de Junho de 2003; REGULAMENTO (CE) N. o 1111/2005
+      DO CONSELHO de 24 de Junho de 2005; Acto de Adesão da Áustria, da Finlândia e da Suécia; Acto de Adesão da Grécia; A3;
+      Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República
+      da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República
+      da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 18.ºA
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+    - Suprime Artigo 15o
 identifiers:
   celex: 31975R1365
   eli: http://data.europa.eu/eli/reg/1975/1365/oj
@@ -48,7 +105,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2f0c5d90-f206-45ff-92a7-9d54e46d511c.0011
   content_url: http://publications.europa.eu/resource/cellar/094eff76-7e5a-47da-b3da-3b660c0f8fcc.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01975R1365-20050804
-  retrieved_at: '2026-10-22T03:02:35Z'
+  retrieved_at: '2026-10-22T14:31:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T18:45:22.284+01:00'
 integrity:
@@ -57,9 +114,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:02:35Z'
-  notes: Texto consolidado 01975R1365-20050804.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:31:23Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1975-1365.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -131,39 +188,25 @@ relationships:
   date: '2019-01-31'
 article_structure:
   article_count: 23
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:02:35Z'
-  warnings: []
+  checked_at: '2026-10-22T14:31:23Z'
+  warnings:
+  - '01975R1365-19810101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01975R1365-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01975R1365-19930726: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01975R1365-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01975R1365-20031001: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01975R1365-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CEE) nº 1365/75 do Conselho, de 26 de Maio de 1975
-
-> 1975R1365 — PT — 04.08.2005 — 007.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/31993R1947) — [REGULAMENTO (CEE) N.º 1947/93 DO CONSELHO de 30 de Junho de 1993](http://publications.europa.eu/resource/celex/31993R1947) — L 181 — 13 — 23.7.1993
-- [►M2](http://publications.europa.eu/resource/celex/32003R1649) — [REGULAMENTO (CE) N.º 1649/2003 DO CONSELHO de 18 de Junho de 2003](http://publications.europa.eu/resource/celex/32003R1649) — L 245 — 25 — 29.9.2003
-- [►M3](http://publications.europa.eu/resource/celex/32005R1111) — [REGULAMENTO (CE) N.º 1111/2005 DO CONSELHO de 24 de Junho de 2005](http://publications.europa.eu/resource/celex/32005R1111) — L 184 — 1 — 15.7.2005
-
-**Alterado por:**
-
-- [A1](http://publications.europa.eu/resource/celex/11994N) — [Acto de Adesão da Áustria, da Finlândia e da Suécia](http://publications.europa.eu/resource/celex/11994N) — C 241 — 21 — 29.8.1994
-- (adaptado pela Decisão 95/1/CE, Euratom, CECA do Conselho) — L 001 — 1 — ..
-- [A2](http://publications.europa.eu/resource/celex/11979H) — [Acto de Adesão da Grécia](http://publications.europa.eu/resource/celex/11979H) — L 291 — 17 — 19.11.1979
-- [A3](http://publications.europa.eu/resource/celex/11985I) — L 302 — 23 — 15.11.1985
-- [A4](http://publications.europa.eu/resource/celex/12003T) — [Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T) — L 236 — 33 — 23.9.2003
-
-## REGULAMENTO (CEE) N.O 1365/75 DO CONSELHO
 
 de 26 de Maio de 1975
 

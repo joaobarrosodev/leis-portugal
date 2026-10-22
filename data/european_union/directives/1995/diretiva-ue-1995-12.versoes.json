@@ -1,0 +1,159 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31995L0012:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0012-20111220",
+ "dre_path": null,
+ "source_lastmod": "2011-12-20",
+ "versions": [
+  {
+   "date": "1995-06-21",
+   "future": false,
+   "celex": "31995L0012",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0c034833c871058e",
+    "94e3e56e0da001c8",
+    "b599c775605f9fbc",
+    "dc721fc437546966",
+    "8d88a4048e5466a6",
+    "b903f3dd94ec7553",
+    "afebe03eaf7022fa",
+    "2e072eec4f3111c4",
+    "a72b7d46e5090cc5",
+    "190840f97be7ce7f",
+    "89cb43a0fa12f915",
+    "67f067665cc53e61"
+   ]
+  },
+  {
+   "date": "2011-12-20",
+   "future": false,
+   "celex": "01995L0012-20111220",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime ANEXO I — RÓTULO",
+    "Suprime ANEXO II — FICHA",
+    "Suprime ANEXO III — VENDAS POR CORRESPONDÊNCIA E OUTRAS VENDAS À DISTÂNCIA",
+    "Suprime ANEXO IV — CLASSE DE EFICIÊNCIA ENERGÉTICA",
+    "Suprime ANEXO V — >POSIÇÃO NUMA TABELA>"
+   ],
+   "fragments": [
+    "ab4890e019d7aa52"
+   ]
+  }
+ ],
+ "fragments": {
+  "0c034833c871058e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 95/12/CE da Comissão, de 23 de Maio de 1995, relativa à aplicação da Directiva 92/75/CEE do Conselho à rotulagem energética de máquinas de lavar roupa para uso doméstico** *Jornal Oficial nº L 136 de 21/06/1995 p. 0001 - 0027*\n\nDIRECTIVA 95/12/CE DA COMISSÃO\n\nde 23 de Maio de 1995\n\nrelativa à aplicação da Directiva 92/75/CEE do Conselho à rotulagem energética de máquinas de lavar roupa para uso doméstico\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/75/CEE do Conselho, de 22 de Setembro de 1992, relativa à indicação do consumo de energia dos aparelhos domésticos por meio de rotulagem e outras indicações uniformes relativas aos produtos (1) e, nomeadamente, os seus artigos 9º e 12º,\n\nConsiderando que, nos termos da Directiva 92/75/CEE, a Comissão deve adoptar uma directiva de execução no que diz respeito aos aparelhos domésticos, incluindo as máquinas de lavar roupa;\n\nConsiderando que o consumo de energia eléctrica das máquinas de lavar roupa representa uma parte significativa da procura comunitária total de energia; que a perspectiva de redução do consumo de energia destes aparelhos é substancial;\n\nConsiderando que uma melhor eficiência de lavagem exige, frequentemente, um maior consumo de água e energia; que as informações relativas à eficiência de lavagem de um aparelho são úteis na avaliação das informações respeitantes ao seu consumo de energia e água; que essas informações ajudarão os consumidores a seleccionar aparelhos compatíveis com a utilização racional de energia;\n\nConsiderando que a Comunidade, confirmando o seu interesse num sistema internacional de normalização capaz de produzir normas que sejam efectivamente utilizadas por todos os parceiros no comércio internacional e de satisfazer as exigências da política comunitária, convida os organismos europeus de normalização a prosseguirem a sua cooperação com os organismos internacionais de normalização;\n\nConsiderando que o Comité Europeu de Normalização (CEN) e o Comité Europeu de Normalização Electrotécnica (Cenelec) são os organismos reconhecidos competentes para adoptarem normas harmonizadas, nos termos das orientações gerais de cooperação entre a Comissão e estes dois organismos, assinadas em 13 de Novembro de 1984; que, na acepção da presente directiva, uma norma harmonizada é uma especificação técnica (norma europeia ou documento de harmonização) adoptada pelo Cenelec, com base num mandato da Comissão, nos termos do disposto na Directiva 83/189/CEE do Conselho, de 28 de Março de 1983, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas (2), com a última redacção que lhe foi dada pela Directiva 94/10/CE do Parlamento Europeu e do Conselho (3), e com base nas orientações gerais anteriormente referidas;\n\nConsiderando que as medidas enunciadas na presente directiva estão em conformidade com o parecer do comité instituído pelo artigo 10º da Directiva 92/75/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "94e3e56e0da001c8": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva aplica-se a máquinas de lavar roupa para uso doméstico que sejam alimentadas pela rede eléctrica e exclui:\n\n- as máquinas sem capacidade de centrifugação,\n\n- as máquinas com tambores de lavagem e centrifugação separados (dois tambores, por exemplo),\n\ne\n\n- as máquinas combinadas de lavar e secar roupa.\n\nNão são abrangidos aparelhos que possam igualmente utilizar outras fontes de energia.\n\n2. Os dados requeridos ao abrigo da presente directiva serão avaliados de acordo com normas harmonizadas, cujos números de referência foram publicados no Jornal Oficial das Comunidades Europeias e relativamente aos quais os Estados-membros publicaram os números de referência das normas nacionais que transpõem essas mesmas normas harmonizadas. Quaisquer disposições da presente directiva que exijam a prestação de informações relativas ao ruído apenas serão aplicáveis se tais informações forem solicitadas nos termos do artigo 3º da Directiva 86/594/CEE do Conselho (1). Essas informações, quando pedidas, serão avaliadas em conformidade com essa mesma directiva.\n\n3. As normas harmonizadas referidas no nº 2 serão elaboradas por mandato da Comissão em conformidade com a Directiva 83/189/CEE.\n\n4. Os termos «distribuidor», «fornecedor», «ficha», «outros recursos essenciais» e «informações suplementares» são utilizados na acepção da Directiva 92/75/CEE."
+  },
+  "b599c775605f9fbc": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. A documentação técnica referida no nº 3 do artigo 2º da Directiva 92/75/CEE incluirá:\n\n- o nome e endereço do fornecedor,\n\n- uma descrição genérica do aparelho, que permita identificá-lo inequivocamente,\n\n- dados incluindo, se necessário, desenhos das principais características do projecto do modelo, designadamente as que afectam de modo significativo o consumo de energia,\n\n- relatórios dos ensaios de medição efectuados no âmbito dos procedimentos de ensaio das normas harmonizadas referidos no nº 2 do artigo 1º,\n\n- instruções de funcionamento, se for caso disso.\n\n2. O rótulo referido no nº 1 do artigo 2º da Directiva 92/75/CEE deve obedecer às especificações do anexo I da presente directiva. O rótulo deve ser colocado na parte externa do aparelho, à frente ou em cima, por forma a ser claramente visível e a não ficar tapado.\n\n3. O teor e estrutura da ficha referida no nº 1 do artigo 2º da Directiva 92/75/CEE deve obedecer às especificações do anexo II da presente directiva.\n\n4. Nas circunstâncias previstas no artigo 5º da Directiva 92/75/CEE e se a proposta de venda, aluguer ou aluguer com opção de venda se efectuar através de uma comunicação impressa, como por exemplo um catálogo de vendas por correspondência, essa comunicação deve incluir todos os dados constantes do anexo III da presente directiva.\n\n5. A classe de eficiência energética, de eficiência de lavagem e de eficiência de secagem dos aparelhos, tal como indicado no rótulo e na ficha, deve ser expressa tal como especificado no anexo IV."
+  },
+  "dc721fc437546966": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros adoptarão todas as medidas necessárias para garantirem que todos os fornecedores e distribuidores estabelecidos nos respectivos territórios observem o disposto na presente directiva."
+  },
+  "8d88a4048e5466a6": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Os Estados-membos adoptarão e publicarão a legislação, a regulamentação e as disposições administrativas necessárias para darem cumprimento à presente directiva até 1 de Março de 1996. Do facto informarão imediatamente a Comissão. Essas disposições serão aplicadas até 1 de Abril de 1996.\n\nTodavia, os Estados-membros permitirão, até 30 de Setembro de 1996:\n\n- a colocação no mercado, a comercialização e/ou a exposição dos aparelhos,\n\n- a distribuição de comunicações impressas referidas no nº 4 do artigo 2º\n\nque não obedeçam às disposições da presente directiva.\n\nQuando os Estados-membros adoptarem as disposições referidas no nº 1, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades da referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão as medidas adoptadas no âmbito regido pela presente directiva."
+  },
+  "b903f3dd94ec7553": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nA presente directiva entrará em vigor no vigésimo dia subsequente à data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "afebe03eaf7022fa": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 23 de Maio de 1995.\n\nPela Comissão\n\nChristos PAPOUTSIS\n\nMembro da Comissão\n\n(1) JO nº L 297 de 13 10. 1992, p. 16.\n\n(2) JO nº L 109 de 26. 4. 1983, p. 8.\n\n(3) JO nº L 100 de 19. 4. 1994, p. 30.\n\n(1) JO nº L 334 de 6. 12. 1986, p. 24."
+  },
+  "2e072eec4f3111c4": {
+   "fragment_id": "ANEXO I — RÓTULO",
+   "type": "divisao",
+   "heading": "ANEXO I — RÓTULO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — RÓTULO\n\nEstrutura do rótulo\n\n1. O rótulo deverá ser seleccionado a partir das ilustrações que se seguem, na versão linguística correspondente:\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n> REFERÊNCIA A UMA IMAGEN>\n\nAs notas que se seguem especificam os dados que devem ser incluídos\n\n2.\n\nNota:\n\nI. Nome ou marca comercial do fornecedor.\n\nII. Identificação do modelo do fornecedor.\n\nIII. A classe de eficiência energética dos aparelhos deve ser determinada em conformidade com o anexo IV, sendo indicada ao mesmo nível da seta correspondente.\n\nIV. Sem prejuízo de quaisquer eventuais requisitos decorrentes do sistema comunitário de atribuição de rótulos ecológicos e se, ao abrigo do Regulamento (CEE) nº 880/92 do Conselho (1), tiver sido atribuído a um aparelho o «rótulo ecológico comunitário», poder-se-á incluir uma cópia da marcação ecológica neste ponto. O «guia de desenho de rótulos para máquinas de lavar roupa» abaixo referido explica a forma como a marcação ecológica pode ser incluída no rótulo.\n\nV. Consumo de energia em kWh por ciclo utilizando o ciclo de lavagem de tecidos de algodão a 60 °C, em conformidade com os procedimentos de ensaio das normas harmonizadas referidos no nº 2 do artigo 1º.\n\nVI. Classe de eficiência de lavagem, como determinado no anexo IV.\n\nVII. Classe de eficiência de secagem, como determinado no anexo IV.\n\nVIII. Velocidade máxima de centrifugação obtida no ciclo de lavagem de tecidos de algodão a 60 °C, em conformidade com os procedimentos de ensaio das normas harmonizadas referidos no nº 2 do artigo 1º\n\nIX. Capacidade do aparelho no ciclo de lavagem de tecidos de algodão a 60 °C, em conformidade com as normas harmonizadas referidas no nº 2 do artigo 1º\n\nX. Consumo de água por ciclo utilizando o ciclo de lavagem de tecidos de algodão a 60 °C, em conformidade com os procedimentos de ensaio das normas harmonizadas referidos no nº 2 do artigo 1º\n\nXI. Ruído durante os ciclos de lavagem e centrifugação utilizando o ciclo normalizado de 60 °C, em conformidade com a Directiva 86/594/CEE do Conselho (2).\n\nNota:\n\nOs termos de outras línguas equivalentes aos acima descritos constam do anexo V.\n\nImpressão\n\n3. Definem-se a seguir certos aspectos do rótulo:\n\n>REFERÊNCIA A UMA IMAGEN>\n\nCores utilizadas:\n\nCMAP - ciano, magenta, amarelo, preto.\n\nExemplo: 07X0: 0 % ciano, 70 % magenta, 100 % amarelo, 0 % preto.\n\nSetas:\n\n- A: X0X0\n\n- B: 70X0\n\n- C: 30X0\n\n- D: 00X0\n\n- E: 03X0\n\n- F: 07X0\n\n- G: 0XX0\n\nCor da esquadria: X070\n\nTodo o texto é a preto. O fundo é branco.\n\nTodas as informações necessárias para a impressão estão contidas num «guia de desenho de rótulos energéticos para máquinas de lavar roupa», que pode ser obtido, exclusivamente para efeitos de informação, no:\n\nSecretariado do Comité de rotulagem energética e informações normalizadas sobre electrodomésticos,\n\nDirecção-Geral XVII (Energia),\n\nComissão das Comunidades Europeias,\n\nrue de la Loi/Wetstraat 200,\n\nB-1049 Bruxelas.\n\n(1) JO nº L 99 de 11. 4. 1992, p. 1.\n\n(2) JO nº L 344 de 6. 12. 1986, p. 24. As normas relativas à medição do ruído são as EN 60704-2-4 e EN 60704-3."
+  },
+  "a72b7d46e5090cc5": {
+   "fragment_id": "ANEXO II — FICHA",
+   "type": "divisao",
+   "heading": "ANEXO II — FICHA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — FICHA\n\nA ficha deve conter os dados que se seguem. Os dados podem ser apresentados sob a forma de um quadro que abranja uma série de aparelhos fornecidos pelo mesmo fornecedor, devendo nesse caso obedecer à ordem adiante especificada ou ser indicados junto à descrição do aparelho:\n\n1. Marca comercial do fornecedor.\n\n2. Identificação do modelo do fornecedor.\n\n3. A classe de eficiência energética do modelo, como definida no anexo IV, expressa sob a forma de «Classe de eficiência energética... numa escala de A (mais eficiente) a G (menos eficiente)». Se esta informação for dada num quadro, pode ser expressa de outro modo, desde que fique claro que a escala vai de A (mais eficiente) a G (menos eficiente).\n\n4. Se as informações forem dadas num quadro e se, ao abrigo do Regulamento (CEE) nº 880/92 do Conselho tiver sido atribuído um «rótulo ecológico comunitário» a alguns dos aparelhos constantes do quadro, essa indicação pode ser incluída neste ponto. Nesse caso, o cabeçalho da linha deverá conter a menção «rótulo ecológico comunitário» e a entrada deverá consistir numa cópia da marcação ecológica. A presente disposição não prejudica eventuais requisitos impostos ao abrigo do sistema comunitário de atribuição de rótulos ecológicos.\n\n5. Consumo de energia em kWh por ciclo utilizando o ciclo de lavagem de tecidos de algodão a 60 °C em conformidade com os procedimentos de ensaio referidos no nº 2 do artigo 1º, descrito como «consumo de energia XYZ kWh por ciclo, com base nos resultados do ciclo de lavagem de tecidos de algodão a 60 °C obtidos em ensaio normalizado. O consumo real de energia dependerá das condições de utilização do aparelho».\n\n6. Classe de eficiência de lavagem, como determinado no anexo IV, expressa como «Classe de eficiência de lavagem... numa escala de A (mais alto) a G (mais baixo)». Esta informação pode ser enunciada de outro modo, desde que fique claro que a escala vai de A (mais alto) a G (mais baixo).\n\n7. Classe de eficiência de secagem (anexo IV), expressa como «Classificação da eficácia de secagem... numa escala de A (mais alto) a G (mais baixo)», seguida da observação:\n\n«Se utiliza um secador de tambor, não esqueça que:\n\n- Com uma máquina de lavar com uma eficiência de secagem de categoria A, a secagem no secador de tambor custará menos de metade do que com uma da categoria G.\n\n- A secagem no secador de tambor consome geralmente muito mais energia do que a lavagem».\n\nEsta indicação pode igualmente ser incluída como nota de pé-de-página.\n\nSe esta informação for dada num quadro, pode ser expressa de outro modo, desde que fique claro que a escala vai de A (mais alto) a G (mais baixo) e que a menção relativa aos custos de funcionamento seja incluída no quadro ou numa nota de pé-de-página.\n\n8. Capacidade de extracção da água em conformidade com os procedimentos de ensaio das normas harmonizadas referidos no nº 2 do artigo 1º para um ciclo de lavagem de tecidos de algodão a 60 °C, expressa como «Humidade após centrifugação:... % (percentual ponderal em relação à roupa seca)».\n\n9. Velocidade máxima de centrifugação obtida no ciclo de lavagem de tecidos de algodão a 60 °C, em conformidade com os procedimentos de ensaio das normas harmonizadas referidos no nº 2 do artigo 1º\n\n10. Capacidade do aparelho no ciclo de lavagem de tecidos de algodão a 60 °C, em conformidade com os procedimentos de ensaio das normas harmonizadas referidos no nº 2 do artigo 1º\n\n11. Consumo de água por ciclo utilizando um ciclo de lavagem de tecidos de algodão a 60 °C, em conformidade com os procedimentos de ensaio das normas harmonizadas referidos no nº 2 do artigo 1º\n\n12. Duração do programa no ciclo de lavagem de tecidos de algodão a 60 °C, em conformidade com as normas de medição referidas no nº 2 do artigo 1º\n\n13. Os fornecedores poderão incluir as informações que figuram nos pontos 6 a 12, mas relativamente a outros ciclos de lavagem.\n\n14. Consumo anual médio de energia e água com base em 200 ciclos de lavagem de tecidos de algodão a 60 °C. Esta informação deverá ser expressa como «Consumo anual estimado (200 ciclos de lavagem de tecido de algodão a 60 °C) de um agregado familiar de 4 pessoas».\n\n15. Ruído durante os ciclos de lavagem e centrifugação, utilizando o ciclo de lavagem a 60 °C, em conformidade com a Directiva 86/594/CEE.\n\nOs dados constantes do rótulo podem ser apresentados sob a formade uma representação deste, a cores ou a preto e branco. Nesse caso, devem ser incluídos igualmente os dados adicionais contidos apenas na ficha.\n\nNota:\n\nOs termos de outras línguas equivalentes aos acima descritos constam do anexo V."
+  },
+  "190840f97be7ce7f": {
+   "fragment_id": "ANEXO III — VENDAS POR CORRESPONDÊNCIA E OUTRAS VENDAS À DISTÂNCIA",
+   "type": "divisao",
+   "heading": "ANEXO III — VENDAS POR CORRESPONDÊNCIA E OUTRAS VENDAS À DISTÂNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — VENDAS POR CORRESPONDÊNCIA E OUTRAS VENDAS À DISTÂNCIA\n\nOs catálogos de vendas por correspondência e as restantes comunicações impressas referidas no nº 4 do artigo 2º deverão conter os dados que se seguem, na ordem por que são indicados:\n\n1. Classe de eficiência energética (anexo II, ponto 3)\n\n2. Consumo de energia (anexo II, ponto 5)\n\n3. Classe de eficiência de lavagem (anexo II, ponto 6)\n\n4. Classe de eficiência de secagem (anexo II, ponto 7)\n\n5. Velocidade de centrifugação (anexo I, nota VIII)\n\n6. Capacidade (anexo I, nota IX)\n\n7. Consumo de água (anexo I, nota X)\n\n8. «Consumo-tipo anual de um agregado familiar de 4 pessoas» (anexo II, ponto 14)\n\n9. Ruído (anexo I, nota XI)\n\nCaso sejam apresentados outros dados contidos na ficha de informações sobre o produto, estes deverão respeitar a estrutura definida no anexo II e ser incluídos no quadro supra pela ordem definida na ficha.\n\nNota:\n\nOs termos de outras línguas equivalentes aos acima descritos constam do anexo V."
+  },
+  "89cb43a0fa12f915": {
+   "fragment_id": "ANEXO IV — CLASSE DE EFICIÊNCIA ENERGÉTICA",
+   "type": "divisao",
+   "heading": "ANEXO IV — CLASSE DE EFICIÊNCIA ENERGÉTICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — CLASSE DE EFICIÊNCIA ENERGÉTICA\n\n1. A classe de eficiência energética dos aparelhos deverá ser determinada em conformidade com o quadro 1 infra:\n\n>POSIÇÃO NUMA TABELA>\n\n2. A classe de eficiência de lavagem dos aparelhos deverá ser determinada em conformidade com o quadro 2 infra:\n\n>POSIÇÃO NUMA TABELA>\n\n3. A classe de eficiência de secagem dos aparelhos deverá ser determinada em conformidade com o quadro 3 infra:\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "67f067665cc53e61": {
+   "fragment_id": "ANEXO V — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO V — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — >POSIÇÃO NUMA TABELA>"
+  },
+  "ab4890e019d7aa52": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1995L0012 — PT — 20.12.2011 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31995L0012) [DIRECTIVA 95/12/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/31995L0012) [de 23 de Maio de 1995](http://publications.europa.eu/resource/celex/31995L0012) [relativa à aplicação da Directiva 92/75/CEE do Conselho à rotulagem energética de máquinas de lavar roupa para uso doméstico](http://publications.europa.eu/resource/celex/31995L0012) (JO L 136, 21.6.1995, p.1)\n\n**revogado por:**\n\n- [Regulamento Delegado (UE) n.o 1061/2010 da Comissão de 28 de Setembro de 2010](http://publications.europa.eu/resource/celex/32010R1061) — L 314 — 47 — 30.11.2010"
+  }
+ }
+}

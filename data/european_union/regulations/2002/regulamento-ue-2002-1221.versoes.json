@@ -1,0 +1,255 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002R1221:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R1221-20130701",
+ "dre_path": null,
+ "source_lastmod": "2013-07-01",
+ "versions": [
+  {
+   "date": "2002-07-09",
+   "future": false,
+   "celex": "32002R1221",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ea3f82cdb4bd8e9b",
+    "d1584b876bbc3c5e",
+    "f7267cef80610968",
+    "5043fdd2d8de57db",
+    "ffef26de07a5b03d",
+    "ec85cf9da021ec58",
+    "2d61965b1d6c76b9",
+    "44abd76540198a86",
+    "1d8425ae3dbe6e5a",
+    "3ccf477531297860",
+    "b5ee6e89d15c2800",
+    "057ec535c1a81741"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "02002R1221-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0517:por",
+     "title": "REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013",
+     "published": null,
+     "celex": "32013R0517"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º — Calendário para a transmissão dos dados trimestrais",
+    "Altera Artigo 6.º — Transmissão de dados retrospectivos",
+    "Altera Artigo 10.º — Entrada em vigor",
+    "Adita ANEXO",
+    "Adita CONTEÚDO DAS CONTAS NÃO FINANCEIRAS TRIMESTRAIS DAS ADMINISTRAÇÕES PÚBLICAS",
+    "Adita Notas",
+    "Suprime ANEXO — CONTEÚDO DAS CONTAS NÃO FINANCEIRAS TRIMESTRAIS DAS ADMINISTRAÇÕES PÚBLICAS"
+   ],
+   "fragments": [
+    "73b0aae886c44b47",
+    "d1584b876bbc3c5e",
+    "f7267cef80610968",
+    "96b7f1940ef2a217",
+    "ffef26de07a5b03d",
+    "894a0aba5c85f0eb",
+    "514b642e3858efde",
+    "927110738bce1a34",
+    "2027bcf510c52c11",
+    "a21485d28bd0c1bc",
+    "866a153623d95334",
+    "10220b9774fa9034",
+    "8625fc2804b3ed0d",
+    "149d8cc3bad24abd"
+   ]
+  }
+ ],
+ "fragments": {
+  "ea3f82cdb4bd8e9b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 1221/2002 do Parlamento Europeu e do Conselho, de 10 de Junho de 2002, relativo às contas não financeiras trimestrais das administrações públicas** *Jornal Oficial nº L 179 de 09/07/2002 p. 0001 - 0005*\n\nRegulamento (CE) n.o 1221/2002 do Parlamento Europeu e do Conselho\n\nde 10 de Junho de 2002\n\nrelativo às contas não financeiras trimestrais das administrações públicas\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 285.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Banco Central Europeu(2),\n\nDeliberando nos termos do artigo 251.o do Tratado(3),\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.o 2223/96 do Conselho, de 25 de Junho de 1996, relativo ao sistema europeu de contas nacionais e regionais na Comunidade (SEC 95)(4) contém o quadro de referência das normas, definições, classificações e regras contabilísticas comuns para a elaboração das contas dos Estados-Membros com vista aos requisitos estatísticos da Comunidade, de forma a obterem-se resultados comparáveis entre os Estados-Membros.\n\n(2) O relatório do Comité Monetário sobre os requisitos de informação, adoptado pelo Conselho Ecofin em 18 de Janeiro de 1999, sublinhou que, para um bom funcionamento da União Económica e Monetária e do Mercado Único, uma supervisão eficiente e uma coordenação das políticas económicas são da maior importância e que isso requer um sistema abrangente de informações estatísticas que forneçam aos decisores políticos os dados necessários para servirem de base às suas decisões. Esse relatório dizia também que deve ser dada grande prioridade às estatísticas conjunturais das finanças públicas dos Estados-Membros, em particular dos que participam na União Económica e Monetária, e que o objectivo era a elaboração de contas não financeiras trimestrais simplificadas do sector das administrações públicas, como resultado de uma abordagem gradual.\n\n(3) É conveniente definir as contas não financeiras trimestrais simplificadas das administrações públicas por referência à lista de categorias de despesas e receitas do SEC 95 definidas no Regulamento (CE) n.o 1500/2000 da Comissão, de 10 de Julho de 2000, que aplica o Regulamento (CE) n.o 2223/96 do Conselho no que respeita às despesas e às receitas das administrações públicas(5).\n\n(4) Na abordagem gradual foi dada prioridade aos impostos, às contribuições sociais efectivas e às prestações sociais excepto transferências sociais em espécie, como categorias que representam indicadores fiáveis das tendências das finanças públicas que estão já disponíveis (primeira fase).\n\n(5) A transmissão deste primeiro conjunto de categorias numa base trimestral, a partir de Junho de 2000, em todos os Estados-Membros, está abrangida pelo Regulamento (CE) n.o 264/2000 da Comissão, de 3 de Fevereiro de 2000, relativo à aplicação do Regulamento (CE) n.o 2223/96 do Conselho no que se refere às estatísticas conjunturais sobre finanças públicas(6).\n\n(6) É necessário completar o primeiro passo com outro conjunto de categorias, de forma a obter-se a lista completa das categorias que constituem despesas e receitas das administrações públicas.\n\n(7) A fiabilidade dos dados trimestrais fornecidos ao abrigo do presente comparativamente aos dados anuais tem de ser avaliada. Assim, deverá ser feito até ao final de 2005 um relatório sobre a qualidade dos dados trimestrais.\n\n(8) Os artigos 2.o e 3.o do Regulamento (CE) n.o 2223/96 estabelecem as condições mediante as quais a Comissão pode adoptar alterações à metodologia do SEC 95 de forma a clarificar e melhorar o seu conteúdo. A elaboração das contas não financeiras trimestrais das administrações públicas exigirá recursos adicionais nos Estados-Membros. A sua transmissão à Comissão não pode, portanto, ser objecto de uma decisão da Comissão.\n\n(9) O Comité do Programa Estatístico (CPE), instituído pela Decisão 89/382/CEE, Euratom do Conselho(7), e o Comité de Estatísticas Monetárias, Financeiras e de Balanças de Pagamentos (CMFB), instituído pela Decisão 91/115/CEE do Conselho(8), foram ambos consultados, nos termos do artigo 3.o dessas decisões,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "d1584b876bbc3c5e": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO objectivo do presente regulamento é definir o conteúdo das contas não financeiras trimestrais das administrações públicas, estabelecer a lista das categorias do SEC 95 a transmitir pelos Estados-Membros a partir de 30 de Junho de 2002 e especificar as principais características destas categorias."
+  },
+  "f7267cef80610968": {
+   "fragment_id": "Artigo 2.º — Conteúdo das contas não financeiras trimestrais das administrações públicas",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Conteúdo das contas não financeiras trimestrais das administrações públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conteúdo das contas não financeiras trimestrais das administrações públicas\n\nO conteúdo das contas não financeiras trimestrais das administrações públicas é definido no anexo por referência a uma lista de categorias do SEC 95 que constituem despesas e receitas das administrações públicas."
+  },
+  "5043fdd2d8de57db": {
+   "fragment_id": "Artigo 3.º — Categorias abrangidas pela transmissão de dados trimestrais",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Categorias abrangidas pela transmissão de dados trimestrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Categorias abrangidas pela transmissão de dados trimestrais\n\n1. Os Estados-Membros transmitirão à Comissão (Eurostat) dados trimestrais das categorias ou grupos de categorias incluídos na lista indicada no anexo, com excepção das categorias para as quais têm de ser transmitidos dados nos termos do Regulamento (CE) n.o 264/2000.\n\n2. Os dados trimestrais serão transmitidos para as seguintes categorias (ou grupos de categorias) das despesas e receitas das administrações públicas:\n\na) Do lado das despesas:\n\n- consumo intermédio (P.2),\n\n- formação bruta de capital + aquisições líquidas de cessões de activos não financeiros não produzidos (P.5 + K.2),\n\n- formação bruta de capital fixo (P.51),\n\n- remunerações dos empregados (D.1),\n\n- outros impostos sobre a produção (D.29),\n\n- subsídios, a pagar (D.3),\n\n- rendimentos de propriedade (D.4),\n\n- juros (D.41),\n\n- impostos correntes sobre o rendimento, património, etc. (D.5),\n\n- transferências sociais em espécie relativas às despesas com produtos fornecidos às famílias através de produtores mercantis (D.6311 + D.63121 + D.63131),\n\n- outras transferências correntes (D.7),\n\n- ajustamento pela variação da participação líquida das famílias nos fundos de pensões (D.8),\n\n- impostos de capital + ajudas ao investimento + outras transferências de capital, a pagar (D.91 + D.92 + D.99);\n\nb) Do lado das receitas:\n\n- produção mercantil + produção para utilização final própria + pagamentos pela outra produção não mercantil (P.11 + P.12 + P.131),\n\n- outros subsídios à produção, a receber (D.39),\n\n- rendimentos de propriedade (D.4),\n\n- contribuições sociais imputadas (D.612),\n\n- outras transferências correntes (D.7),\n\n- ajudas ao investimento + outras transferências de capital, a receber (D.92 + D.99).\n\n3. As operações D.41, D.7, D.92 e D.99 são consolidadas dentro do sector das administrações públicas. As outras operações não são consolidadas."
+  },
+  "ffef26de07a5b03d": {
+   "fragment_id": "Artigo 4.º — Elaboração dos dados trimestrais: fontes e métodos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Elaboração dos dados trimestrais: fontes e métodos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Elaboração dos dados trimestrais: fontes e métodos\n\n1. Os dados trimestrais referentes ao primeiro trimestre de 2001 e seguintes serão elaborados de acordo com as regras seguintes:\n\na) Os dados trimestrais basear-se-ão tanto quanto possível em informações directas de fontes de base, com o objectivo de minimizar, para cada trimestre, as diferenças entre as primeiras estimativas e os valores finais;\n\nb) As informações directas serão completadas por ajustamentos da cobertura, se necessário, e por ajustamentos conceptuais, de forma a harmonizar os dados trimestrais com os conceitos do SEC 95;\n\nc) Os dados trimestrais deverão ser coerentes com os dados anuais correspondentes.\n\n2. Os dados trimestrais desde o primeiro trimestre de 1999 até ao quarto trimestre de 2000 serão elaborados de acordo com fontes e métodos que garantam a coerência entre os dados trimestrais e os dados anuais correspondentes."
+  },
+  "ec85cf9da021ec58": {
+   "fragment_id": "Artigo 5.º — Calendário para a transmissão dos dados trimestrais",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Calendário para a transmissão dos dados trimestrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Calendário para a transmissão dos dados trimestrais\n\n1. Os dados trimestrais referidos no artigo 3.o serão enviados à Comissão (Eurostat), o mais tardar três meses após o final do trimestre a que se referem.\n\nQualquer revisão dos dados trimestrais relativos a trimestres anteriores será transmitida ao mesmo tempo.\n\n2. A primeira transmissão dos dados trimestrais referir-se-á aos dados do primeiro trimestre de 2002. Os Estados-Membros fornecerão estes dados até 30 de Junho de 2002.\n\nNo entanto, a Comissão pode conceder uma derrogação, não superior a um ano, no que respeita à data da primeira transmissão dos dados trimestrais a partir do primeiro trimestre de 2002, na medida em que os sistemas estatísticos nacionais necessitem de adaptações importantes."
+  },
+  "2d61965b1d6c76b9": {
+   "fragment_id": "Artigo 6.º — Transmissão de dados retrospectivos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Transmissão de dados retrospectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Transmissão de dados retrospectivos\n\n1. Os Estados-Membros fornecerão à Comissão (Eurostat) dados retrospectivos trimestrais das categorias referidas no artigo 3.o, a partir do primeiro trimestre de 1999.\n\n2. Os dados trimestrais desde o primeiro trimestre de 1999 até ao quarto trimestre de 2001 serão transmitidos à Comissão (Eurostat) até 30 de Junho de 2002.\n\nNo entanto, a Comissão pode conceder uma derrogação, não superior a um ano, no que respeita à data da primeira transmissão dos dados trimestrais a partir do primeiro trimestre de 1999, na medida em que os sistemas estatísticos nacionais necessitem de adaptações importantes."
+  },
+  "44abd76540198a86": {
+   "fragment_id": "Artigo 7.º — Implementação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Implementação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Implementação\n\n1. Os Estados-Membros fornecerão à Comissão (Eurostat) uma descrição das fontes e métodos usados para elaborar os dados trimestrais referidos no artigo 3.o (descrição inicial), no momento em que começarem a transmitir dados trimestrais de acordo com o calendário referido no n.o 2 do artigo 5.o\n\n2. Qualquer revisão da descrição inicial das fontes e métodos usados para elaborar os dados trimestrais deverá ser enviada à Comissão (Eurostat) quando os dados revistos forem comunicados.\n\n3. A Comissão (Eurostat) manterá o CPE e o CMFB informados acerca das fontes e métodos usados por cada Estado-Membro."
+  },
+  "1d8425ae3dbe6e5a": {
+   "fragment_id": "Artigo 8.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Relatório\n\nCom base nos dados transmitidos das categorias enumeradas no artigo 3.o, e após consulta ao CPE, a Comissão (Eurostat) apresentará, até 31 de Dezembro de 2005, um relatório ao Parlamento Europeu e ao Conselho com uma avaliação da fiabilidade dos dados trimestrais fornecidos pelos Estados-Membros."
+  },
+  "3ccf477531297860": {
+   "fragment_id": "Artigo 9.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições transitórias\n\n1. Os Estados-Membros que não tenham possibilidade de transmitir, durante o período transitório previsto no n.o 4, os dados trimestrais, a partir do primeiro trimestre de 2001, segundo as fontes e métodos previstos no n.o 1 do artigo 4.o e segundo o calendário referido no n.o 1 do artigo 5.o, aplicarão o n.o 2.\n\n2. Os Estados-Membros referidos no n.o 1 transmitirão à Comissão (Eurostat) as suas \"melhores estimativas trimestrais\" (ou seja, integrando todas as novas informações que fiquem disponíveis durante o processo de elaboração de um sistema melhorado de contas não financeiras trimestrais das administrações públicas) segundo o calendário referido no n.o 1 do artigo 5.o\n\nOs Estados-Membros indicarão simultaneamente quais os passos que têm ainda de ser dados para respeitarem as fontes e métodos previstos no n.o 1 do artigo 4.o\n\n3. Durante o período transitório previsto no n.o 4, a Comissão (Eurostat) analisará os avanços feitos pelos Estados-Membros no sentido do cumprimento integral do n.o 1 do artigo 4.o\n\n4. O período transitório começará na data da primeira transmissão referida no n.o 2 do artigo 5.o e terminará em 31 de Março de 2005, o mais tardar."
+  },
+  "b5ee6e89d15c2800": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente regulamento entra em vigor 20 dias após a sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito no Luxemburgo, em 10 de Junho de 2002.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nP. Cox\n\nPelo Conselho\n\nO Presidente\n\nJ. Piqué I Camps\n\n(1) JO C 154 E de 29.5.2001, p. 300.\n\n(2) JO C 131 de 3.5.2001, p. 6.\n\n(3) Parecer do Parlamento Europeu de 3 de Julho de 2001 (JO C 65 E de 14.3.2002, p. 33) e decisão do Conselho de 7 de Maio de 2002.\n\n(4) JO L 310 de 30.11.1996, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 359/2002 (JO L 58 de 28.2.2002, p. 1).\n\n(5) JO L 172 de 12.7.2000, p. 3.\n\n(6) JO L 29 de 4.2.2000, p. 4.\n\n(7) JO L 181 de 28.6.1989, p. 47.\n\n(8) JO L 59 de 6.3.1991, p. 19. Decisão com a última redacção que lhe foi dada pela Decisão 96/174/CE (JO L 51 de 1.3.1996, p. 48)."
+  },
+  "057ec535c1a81741": {
+   "fragment_id": "ANEXO — CONTEÚDO DAS CONTAS NÃO FINANCEIRAS TRIMESTRAIS DAS ADMINISTRAÇÕES PÚBLICAS",
+   "type": "divisao",
+   "heading": "ANEXO — CONTEÚDO DAS CONTAS NÃO FINANCEIRAS TRIMESTRAIS DAS ADMINISTRAÇÕES PÚBLICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — CONTEÚDO DAS CONTAS NÃO FINANCEIRAS TRIMESTRAIS DAS ADMINISTRAÇÕES PÚBLICAS\n\nAs contas não financeiras trimestrais das administrações públicas definem-se por referência à lista de despesas e receitas das administrações públicas incluídas no Regulamento (CE) n.o 1500/2000 da Comissão.\n\nAs despesas das administrações públicas incluem as categorias do SEC 95 registadas do lado dos empregos ou as variações do lado do activo ou as variações do lado do passivo e património líquido da sequência de contas das administrações públicas, com excepção de D.3, que se regista do lado dos recursos das contas das administrações públicas.\n\nAs receitas das administrações públicas incluem as categorias do SEC 95 registadas do lado dos recursos ou as variações do lado do passivo e património líquido da sequência de contas não financeiras das administrações públicas, com excepção de D.39, que se regista do lado dos empregos das contas das administrações públicas.\n\nPor definição, a diferença entre as receitas das administrações públicas e as despesas das administrações públicas, conforme acima definido, é a capacidade (+)/necessidade (-) líquida de financiamento do sector das administrações públicas.\n\nAs operações D.41, D.7, D.92 e D.99 são consolidadas dentro do sector das administrações públicas. As outras operações não são consolidadas.\n\nO quadro seguinte mostra as categorias do SEC 95 que constituem despesas e receitas das administrações públicas. As categorias indicadas em itálico são já objecto de transmissão numa base trimestral, no âmbito do Regulamento (CE) n.o 264/2000 da Comissão.\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "73b0aae886c44b47": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Junho de 2002\n\nrelativo às contas não financeiras trimestrais das administrações públicas\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 285.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/88a42fc9-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Banco Central Europeu ([^2^](http://publications.europa.eu/resource/cellar/88a42fc9-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/88a42fc9-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#E0003)),\n\n(1) O Regulamento (CE) n.º 2223/96 do Conselho, de 25 de Junho de 1996, relativo ao sistema europeu de contas nacionais e regionais na Comunidade (SEC 95) ([^4^](http://publications.europa.eu/resource/cellar/88a42fc9-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#E0004)) contém o quadro de referência das normas, definições, classificações e regras contabilísticas comuns para a elaboração das contas dos Estados-Membros com vista aos requisitos estatísticos da Comunidade, de forma a obterem-se resultados comparáveis entre os Estados-Membros.\n\n(2) O relatório do Comité Monetário sobre os requisitos de informação, adoptado pelo Conselho Ecofin em 18 de Janeiro de 1999, sublinhou que, para um bom funcionamento da União Económica e Monetária e do Mercado Único, uma supervisão eficiente e uma coordenação das políticas económicas são da maior importância e que isso requer um sistema abrangente de informações estatísticas que forneçam aos decisores políticos os dados necessários para servirem de base às suas decisões. Esse relatório dizia também que deve ser dada grande prioridade às estatísticas conjunturais das finanças públicas dos Estados-Membros, em particular dos que participam na União Económica e Monetária, e que o objectivo era a elaboração de contas não financeiras trimestrais simplificadas do sector das administrações públicas, como resultado de uma abordagem gradual.\n\n(3) É conveniente definir as contas não financeiras trimestrais simplificadas das administrações públicas por referência à lista de categorias de despesas e receitas do SEC 95 definidas no Regulamento (CE) n.º 1500/2000 da Comissão, de 10 de Julho de 2000, que aplica o Regulamento (CE) n.º 2223/96 do Conselho no que respeita às despesas e às receitas das administrações públicas ([^5^](http://publications.europa.eu/resource/cellar/88a42fc9-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#E0005)).\n\n(4) Na abordagem gradual foi dada prioridade aos impostos, às contribuições sociais efectivas e às prestações sociais excepto transferências sociais em espécie, como categorias que representam indicadores fiáveis das tendências das finanças públicas que estão já disponíveis (primeira fase).\n\n(5) A transmissão deste primeiro conjunto de categorias numa base trimestral, a partir de Junho de 2000, em todos os Estados-Membros, está abrangida pelo Regulamento (CE) n.º 264/2000 da Comissão, de 3 de Fevereiro de 2000, relativo à aplicação do Regulamento (CE) n.º 2223/96 do Conselho no que se refere às estatísticas conjunturais sobre finanças públicas ([^6^](http://publications.europa.eu/resource/cellar/88a42fc9-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#E0006)).\n\n(6) É necessário completar o primeiro passo com outro conjunto de categorias, de forma a obter-se a lista completa das categorias que constituem despesas e receitas das administrações públicas.\n\n(7) A fiabilidade dos dados trimestrais fornecidos ao abrigo do presente comparativamente aos dados anuais tem de ser avaliada. Assim, deverá ser feito até ao final de 2005 um relatório sobre a qualidade dos dados trimestrais.\n\n(8) Os artigos 2.º e 3.º do Regulamento (CE) n.º 2223/96 estabelecem as condições mediante as quais a Comissão pode adoptar alterações à metodologia do SEC 95 de forma a clarificar e melhorar o seu conteúdo. A elaboração das contas não financeiras trimestrais das administrações públicas exigirá recursos adicionais nos Estados-Membros. A sua transmissão à Comissão não pode, portanto, ser objecto de uma decisão da Comissão.\n\n(9) O Comité do Programa Estatístico (CPE), instituído pela Decisão 89/382/CEE, Euratom do Conselho ([^7^](http://publications.europa.eu/resource/cellar/88a42fc9-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#E0007)), e o Comité de Estatísticas Monetárias, Financeiras e de Balanças de Pagamentos (CMFB), instituído pela Decisão 91/115/CEE do Conselho ([^8^](http://publications.europa.eu/resource/cellar/88a42fc9-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#E0008)), foram ambos consultados, nos termos do artigo 3.º dessas decisões,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "96b7f1940ef2a217": {
+   "fragment_id": "Artigo 3.º — Categorias abrangidas pela transmissão de dados trimestrais",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Categorias abrangidas pela transmissão de dados trimestrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Categorias abrangidas pela transmissão de dados trimestrais\n\n1. Os Estados-Membros transmitirão à Comissão (Eurostat) dados trimestrais das categorias ou grupos de categorias incluídos na lista indicada no anexo, com excepção das categorias para as quais têm de ser transmitidos dados nos termos do Regulamento (CE) n.º 264/2000.\n\n2. Os dados trimestrais serão transmitidos para as seguintes categorias (ou grupos de categorias) das despesas e receitas das administrações públicas:\n\na) Do lado das despesas:\n\n— consumo intermédio (P.2),\n\n— formação bruta de capital + aquisições líquidas de cessões de activos não financeiros não produzidos (P.5 + K.2),\n\n— formação bruta de capital fixo (P.51),\n\n— remunerações dos empregados (D.1),\n\n— outros impostos sobre a produção (D.29),\n\n— subsídios, a pagar (D.3),\n\n— rendimentos de propriedade (D.4),\n\n— juros (D.41),\n\n— impostos correntes sobre o rendimento, património, etc. (D.5),\n\n— transferências sociais em espécie relativas às despesas com produtos fornecidos às famílias através de produtores mercantis (D.6311 + D.63121 + D.63131),\n\n— outras transferências correntes (D.7),\n\n— ajustamento pela variação da participação líquida das famílias nos fundos de pensões (D.8),\n\n— impostos de capital + ajudas ao investimento + outras transferências de capital, a pagar (D.91 + D.92 + D.99);\n\nb) Do lado das receitas:\n\n— produção mercantil + produção para utilização final própria + pagamentos pela outra produção não mercantil (P.11 + P.12 + P.131),\n\n— outros subsídios à produção, a receber (D.39),\n\n— rendimentos de propriedade (D.4),\n\n— contribuições sociais imputadas (D.612),\n\n— outras transferências correntes (D.7),\n\n— ajudas ao investimento + outras transferências de capital, a receber (D.92 + D.99).\n\n3. As operações D.41, D.7, D.92 e D.99 são consolidadas dentro do sector das administrações públicas. As outras operações não são consolidadas."
+  },
+  "894a0aba5c85f0eb": {
+   "fragment_id": "Artigo 5.º — Calendário para a transmissão dos dados trimestrais",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Calendário para a transmissão dos dados trimestrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Calendário para a transmissão dos dados trimestrais\n\n1. Os dados trimestrais referidos no artigo 3.º serão enviados à Comissão (Eurostat), o mais tardar três meses após o final do trimestre a que se referem.\n\nQualquer revisão dos dados trimestrais relativos a trimestres anteriores será transmitida ao mesmo tempo.\n\n2. A primeira transmissão dos dados trimestrais referir-se-á aos dados do primeiro trimestre de 2002. Os Estados-Membros fornecerão estes dados até 30 de Junho de 2002. [**►M1**](http://publications.europa.eu/resource/celex/32013R0517) Relativamente à República da Croácia, a primeira transmissão dos dados trimestrais referirseá aos dados do primeiro trimestre de 2012. A República da Croácia fornecerá esses dados o mais tardar no final do primeiro trimestre subsequente à data da adesão.**◄**\n\nNo entanto, a Comissão pode conceder uma derrogação, não superior a um ano, no que respeita à data da primeira transmissão dos dados trimestrais a partir do primeiro trimestre de 2002, na medida em que os sistemas estatísticos nacionais necessitem de adaptações importantes."
+  },
+  "514b642e3858efde": {
+   "fragment_id": "Artigo 6.º — Transmissão de dados retrospectivos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Transmissão de dados retrospectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Transmissão de dados retrospectivos\n\n1. Os Estados-Membros fornecerão à Comissão (Eurostat) dados retrospectivos trimestrais das categorias referidas no artigo 3.º, a partir do primeiro trimestre de 1999. [**►M1**](http://publications.europa.eu/resource/celex/32013R0517) A República da Croácia fornecerá à Comissão (Eurostat) dados retrospetivos trimestrais das categorias referidas no artigo 3.º, a partir do primeiro trimestre de 2002.**◄**\n\n2. Os dados trimestrais desde o primeiro trimestre de 1999 até ao quarto trimestre de 2001 serão transmitidos à Comissão (Eurostat) até 30 de Junho de 2002. [**►M1**](http://publications.europa.eu/resource/celex/32013R0517) A República da Croácia transmitirá à Comissão (Eurostat), o mais tardar até ao final de dezembro de 2015, os dados trimestrais relativos ao período compreendido entre o primeiro trimestre de 2002 e o quarto trimestre de 2011.**◄**\n\nNo entanto, a Comissão pode conceder uma derrogação, não superior a um ano, no que respeita à data da primeira transmissão dos dados trimestrais a partir do primeiro trimestre de 1999, na medida em que os sistemas estatísticos nacionais necessitem de adaptações importantes."
+  },
+  "927110738bce1a34": {
+   "fragment_id": "Artigo 7.º — Implementação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Implementação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Implementação\n\n1. Os Estados-Membros fornecerão à Comissão (Eurostat) uma descrição das fontes e métodos usados para elaborar os dados trimestrais referidos no artigo 3.º (descrição inicial), no momento em que começarem a transmitir dados trimestrais de acordo com o calendário referido no n.º 2 do artigo 5.º\n\n2. Qualquer revisão da descrição inicial das fontes e métodos usados para elaborar os dados trimestrais deverá ser enviada à Comissão (Eurostat) quando os dados revistos forem comunicados.\n\n3. A Comissão (Eurostat) manterá o CPE e o CMFB informados acerca das fontes e métodos usados por cada Estado-Membro."
+  },
+  "2027bcf510c52c11": {
+   "fragment_id": "Artigo 8.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Relatório\n\nCom base nos dados transmitidos das categorias enumeradas no artigo 3.º, e após consulta ao CPE, a Comissão (Eurostat) apresentará, até 31 de Dezembro de 2005, um relatório ao Parlamento Europeu e ao Conselho com uma avaliação da fiabilidade dos dados trimestrais fornecidos pelos Estados-Membros."
+  },
+  "a21485d28bd0c1bc": {
+   "fragment_id": "Artigo 9.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições transitórias\n\n1. Os Estados-Membros que não tenham possibilidade de transmitir, durante o período transitório previsto no n.º 4, os dados trimestrais, a partir do primeiro trimestre de 2001, segundo as fontes e métodos previstos no n.º 1 do artigo 4.º e segundo o calendário referido no n.º 1 do artigo 5.º, aplicarão o n.º 2.\n\n2. Os Estados-Membros referidos no n.º 1 transmitirão à Comissão (Eurostat) as suas «melhores estimativas trimestrais» (ou seja, integrando todas as novas informações que fiquem disponíveis durante o processo de elaboração de um sistema melhorado de contas não financeiras trimestrais das administrações públicas) segundo o calendário referido no n.º 1 do artigo 5.º\n\nOs Estados-Membros indicarão simultaneamente quais os passos que têm ainda de ser dados para respeitarem as fontes e métodos previstos no n.º 1 do artigo 4.º\n\n3. Durante o período transitório previsto no n.º 4, a Comissão (Eurostat) analisará os avanços feitos pelos Estados-Membros no sentido do cumprimento integral do n.º 1 do artigo 4.º\n\n4. O período transitório começará na data da primeira transmissão referida no n.º 2 do artigo 5.º e terminará em 31 de Março de 2005, o mais tardar."
+  },
+  "866a153623d95334": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente regulamento entra em vigor 20 dias após a sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "8625fc2804b3ed0d": {
+   "fragment_id": "CONTEÚDO DAS CONTAS NÃO FINANCEIRAS TRIMESTRAIS DAS ADMINISTRAÇÕES PÚBLICAS",
+   "type": "divisao",
+   "heading": "CONTEÚDO DAS CONTAS NÃO FINANCEIRAS TRIMESTRAIS DAS ADMINISTRAÇÕES PÚBLICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTEÚDO DAS CONTAS NÃO FINANCEIRAS TRIMESTRAIS DAS ADMINISTRAÇÕES PÚBLICAS\n\nAs contas não financeiras trimestrais das administrações públicas definem-se por referência à lista de despesas e receitas das administrações públicas incluídas no Regulamento (CE) n.º 1500/2000 da Comissão.\n\nAs despesas das administrações públicas incluem as categorias do SEC 95 registadas do lado dos empregos ou as variações do lado do activo ou as variações do lado do passivo e património líquido da sequência de contas das administrações públicas, com excepção de D.3, que se regista do lado dos recursos das contas das administrações públicas.\n\nAs receitas das administrações públicas incluem as categorias do SEC 95 registadas do lado dos recursos ou as variações do lado do passivo e património líquido da sequência de contas não financeiras das administrações públicas, com excepção de D.39, que se regista do lado dos empregos das contas das administrações públicas.\n\nPor definição, a diferença entre as receitas das administrações públicas e as despesas das administrações públicas, conforme acima definido, é a capacidade (+)/necessidade (-) líquida de financiamento do sector das administrações públicas.\n\nAs operações D.41, D.7, D.92 e D.99 são consolidadas dentro do sector das administrações públicas. As outras operações não são consolidadas.\n\nO quadro seguinte mostra as categorias do SEC 95 que constituem despesas e receitas das administrações públicas. As categorias indicadas em itálico são já objecto de transmissão numa base trimestral, no âmbito do Regulamento (CE) n.º 264/2000 da Comissão\n\nCódigos do SEC 95 Despesas das administrações públicas\n\nP.2 Consumo intermédio\n\nP.5 + K.2 Formação bruta de capital + aquisições líquidas de cessões de activos não financeiros não produzidos\n\nP.51 Formação bruta de capital fixo\n\nD.1 Remunerações dos empregados\n\nD.29 Outros impostos sobre a produção\n\nD.3 Subsídios, a pagar\n\nD.4 Rendimentos de propriedade\n\nD.41 Juros\n\nD.5 Impostos correntes sobre o rendimento, património, etc.\n\n*D.62* + D.6311 + D.63121 + D.63131 *Prestações sociais excepto transferências sociais em espécie* + transferências sociais em espécie relativas a despesas com produtos fornecidos às famílias através de produtores mercantis\n\nD.7 Outras transferências correntes\n\nD.8 Ajustamento pela variação da participação líquida das famílias nos fundos de pensões\n\nD.9 Transferências de capital, a pagar\n\nCódigos do SEC 95 Receitas das administrações públicas\n\nP.11 + P.12 + P.131 Produção mercantil + produção para utilização final própria + pagamentos pela outra produção não mercantil\n\n*D.2* *Impostos sobre a produção e a importação*\n\nD.39 Outros subsídios à produção\n\nD.4 Rendimentos de propriedade\n\n*D.5* *Impostos correntes sobre o rendimento, património, etc*.\n\nD.61 Contribuições sociais\n\n*D.611* *Contribuições sociais efectivas*\n\nD.612 Contribuições sociais imputadas\n\nD.7 Outras transferências correntes\n\nD.9 [(^1^)](http://publications.europa.eu/resource/cellar/88a42fc9-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#E0009) Transferências de capital, a receber\n\n*D.91* *Impostos de capital*\n\nB.8g Poupança, bruta\n\nB.9 Capacidade + necessidade – líquida de financiamento\n\n---"
+  },
+  "149d8cc3bad24abd": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/88a42fc9-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#src.E0001)) JO C 154 E de 29.5.2001, p. 300.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/88a42fc9-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#src.E0002)) JO C 131 de 3.5.2001, p. 6.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/88a42fc9-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 3 de Julho de 2001 (JO C 65 E de 14.3.2002, p. 33) e decisão do Conselho de 7 de Maio de 2002.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/88a42fc9-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#src.E0004)) JO L 310 de 30.11.1996, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 359/2002 (JO L 58 de 28.2.2002, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/88a42fc9-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#src.E0005)) JO L 172 de 12.7.2000, p. 3.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/88a42fc9-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#src.E0006)) JO L 29 de 4.2.2000, p. 4.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/88a42fc9-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#src.E0007)) JO L 181 de 28.6.1989, p. 47.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/88a42fc9-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#src.E0008)) JO L 59 de 6.3.1991, p. 19. Decisão com a última redacção que lhe foi dada pela Decisão 96/174/CE (JO L 51 de 1.3.1996, p. 48).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/88a42fc9-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#src.E0009)) Os ajustamentos pelos impostos e contribuições sociais calculados mas nunca recebidos, quando registados em D.9, são considerados como rendimento negativo."
+  }
+ }
+}

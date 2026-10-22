@@ -1,0 +1,329 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991R2092:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991R2092-20090101",
+ "dre_path": null,
+ "source_lastmod": "2009-01-01",
+ "versions": [
+  {
+   "date": "1991-07-22",
+   "future": false,
+   "celex": "31991R2092",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "01af3563028c8224",
+    "9874c1814a44af66",
+    "cb88a926e8ce8502",
+    "acadc61a2dd26d9f",
+    "a646784a02dc2ee8",
+    "5e6dee4851701ce6",
+    "9965d5e7b14e2919",
+    "d6e39be455325eed",
+    "f8824095eb472a52",
+    "e693d90fc42cc5a5",
+    "f18be7aa79d88853",
+    "fb9baf7d807bfb83",
+    "b0c28d4909234492",
+    "268e9664232f8651",
+    "c46a3b7790634ade",
+    "de73b9b4b9b8e808",
+    "de62f12c380751f7",
+    "2b599ff572dd7e83",
+    "67ead965688256ef",
+    "7afe67870b86bf4f",
+    "50c37e3b75c6ca1c",
+    "aa5061831d8fe848",
+    "0e5df96848bbc07d"
+   ]
+  },
+  {
+   "date": "2007-12-01",
+   "future": false,
+   "celex": "01991R2092-20071201",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime ANEXO I — PRINCÍPIOS DE PRODUÇÃO BIOLÓGICA NAS EXPLORAÇÕES",
+    "Suprime ANEXO II — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO III — EXIGÊNCIAS MÍNIMAS DE CONTROLO E MEDIDAS DE PRECAUÇÃO PREVISTAS NO ÂMBITO DO REGIME DE CONTROLO A QUE SE REFEREM OS ARTIGOS 8o E 9o",
+    "Suprime ANEXO IV — DADOS DA NOTIFICAÇÃO PREVISTA NO N° 1, ALÍNEA a), DO ARTIGO 8o",
+    "Suprime ANEXO V — INDICAÇÃO DE CONFORMIDADE COM O REGIME DE CONTROLO",
+    "Suprime ANEXO VI"
+   ],
+   "fragments": [
+    "ddbfc0f074ead770"
+   ]
+  },
+  {
+   "date": "2007-12-27",
+   "future": false,
+   "celex": "01991R2092-20071227",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "4295c573e6362eda"
+   ]
+  },
+  {
+   "date": "2008-05-14",
+   "future": false,
+   "celex": "01991R2092-20080514",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "3d6af5ca7b0ba5f8"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "celex": "01991R2092-20090101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "6bf0e19340cb2ef1"
+   ]
+  }
+ ],
+ "fragments": {
+  "01af3563028c8224": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2092/91 do Conselho, de 24 de Junho de 1991, relativo ao modo de produção biológico de produtos agrícolas e à sua indicação nos produtos agrícolas e nos géneros alimentícios** *Jornal Oficial nº L 198 de 22/07/1991 p. 0001 - 0015 Edição especial finlandesa: Capítulo 15 Fascículo 10 p. 0124 Edição especial sueca: Capítulo 15 Fascículo 10 p. 0124*\n\nREGULAMENTO (CEE) N° 2092/91 DO CONSELHO de 24 de Junho de 1991 relativo ao modo de produção biológico de produtos agrícolas e à sua indicação nos produtos agrícolas e nos géneros alimentícios\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que os consumidores procuram cada vez mais produtos agrícolas e géneros alimentícios obtidos por modo biológico; que esse fenómeno cria, portanto, um novo mercado para os produtos agrícolas;\n\nConsiderando que esses produtos se vendem no mercado a um preço mais elevado, embora o referido modo de produção implique uma utilização menos intensiva dos solos; que o referido modo de produção pode, portanto, desempenhar um papel no âmbito da política agrícola comum no que se refere à realização de um melhor equilíbrio entre a oferta e a procura de produtos agrícolas, à protecção do ambiente e à manutenção do espaço rural;\n\nConsiderando que, em resposta à procura crescente, são introduzidos no mercado produtos agrícolas e géneros alimentícios acompanhados de indicações que informam ou levam os compradores a crer que foram obtidos de modo biológico ou sem emprego de produtos químicos de síntese;\n\nConsiderando que alguns Estados-membros adoptaram já disposições regulamentares e controlos relativos à utilização das referidas indicações;\n\nConsiderando que um quadro de normas comunitárias de produção, de rotulagem e de controlo permitirá proteger a agricultura biológica, desde que o referido quadro constitua uma garantia de condições de concorrência leal entre os produtores dos produtos que ostentem as referidas indicações e impeça o anonimato no mercado dos produtos biológicos, assegurando a transparência em todos os estádios da produção e transformação, conduzindo assim a uma maior credibilidade dos referidos produtos aos olhos dos consumidores;\n\nConsiderando que o modo de produção biológico constitui um modo de produção especial ao nível da exploração agrícola; que, por conseguinte, é conveniente prever que, na rotulagem dos produtos transformados, as indicações que se referem ao modo de produção biológico sejam ligadas às indicações relativas aos ingredientes obtidos de acordo com esse modo de produção;\n\nConsiderando que, para a execução das disposições previstas, é conveniente prever processos flexíveis que permitam adaptar, completar ou precisar determinadas normas técnicas ou determinadas medidas a fim de ter em conta a experiência adquirida; que, num período adequado, o presente regulamento será completado por normas equivalentes relativas à produção animal;\n\nConsiderando que, no interesse dos produtores e dos compradores dos produtos munidos de indicações referentes ao modo de produção biológico, é conveniente estabelecer os princípios mínimos a aplicar para que o produto possa ser apresentado com tais indicações;\n\nConsiderando que o modo de produção biológico implica restrições consideráveis no que se refere à utilização de fertilizantes ou de pesticidas que possam produzir efeitos desfavoráveis no ambiente ou ter como resultado a presença de resíduos nos produtos agrícolas; que é conveniente, neste contexto, respeitar as práticas aceites na Comunidade no momento da adopção do presente regulamento segundo os códigos de conduta em vigor na Comunidade neste momento; que além disso, é conveniente, de futuro, estabelecer os princípios que, regem a autorização de produtos susceptíveis de ser utilizados neste tipo de agricultura;\n\nConsiderando que, além disso, a agricultura biológica compreende práticas de cultura variadas e faz uma aplicação limitada de fertilizantes correctivos não químicos e apenas pouco solúveis; que é conveniente especificar essas práticas e prever as condições de utilização de determinados produtos não químicos de síntese;\n\nConsiderando que os processos previstos permitem, se tal se afigurar necessário, completar o anexo I por meio de disposições mais específicas destinadas a evitar a presença de determinados resíduos de produtos químicos de síntese provenientes de outras fontes que não a agricultura (contaminação do ambiente) nos produtos obtidos segundo esse modo de produção;\n\nConsiderando que o controlo do cumprimento das normas de produção exige, em princípio, controlos em todas as fases da produção e da comercialização;\n\nConsiderando que todos os operadores que produzem ou preparam produtos que ostentem indicações referentes aos métodos de produção biológica devem ser submetidos a um regime de controle regular, que satisfaça as exigências mínimas comunitárias e seja efectuado por instâncias de controlo designadas e/ou por organismos privados aprovados e sujeitos a vigilância; que é conveniente fazer constar do rótulo dos produtos sujeitos a esse regime de controlo uma indicação comunitária de inspecção,\n\nADOPTOU O PRESENTE REGULAMENTO:\n\nÂmbito de aplicação"
+  },
+  "9874c1814a44af66": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. O presente regulamento aplica-se aos produtos seguintes, na medida em que ostentem ou sejam destinados a ostentar indicações referentes ao modo de produção biológico;\n\na) Produtos agrícolas vegetais não transformados; além disso, os animais e os produtos animais não transformados, na medida em que os princípios de produção e as respectivas regras específicas de controlo tenham sido introduzidos nos anexos I e III;\n\nb) Os produtos destinados à alimentação humana compostos essencialmente por um ou mais ingredientes de origem vegetal; além disso, a partir da adopção das disposições referidas na alínea a) para a produção animal, os produtos destinados à alimentação humana que contenham ingredientes de origem animal.\n\n2. Será apresentada pela Comissão, o mais rapidamente possível e o mais tardar até 1 de Julho de 1992, uma proposta relativa aos princípios e às medidas de controlo específico que regem a produção biológica dos animais, dos produtos animais não transformados e dos produtos destinados à alimentação humana que contenham ingredientes de origem animal."
+  },
+  "cb88a926e8ce8502": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPara efeitos do presente regulamento, considera-se que um produto ostenta indicações referentes ao modo de produção biológico quando no rótulo, na publicidade ou nos documentos comerciais o produto ou os ingredientes venham caracterizados pelas indicações utilizadas em cada Estado-membro que sugiram ao comprador que o produto ou os seus ingredientes foram obtidos em conformidade com as normas de produção referidas nos artigos 6o e 7o, e em especial pelos seguintes termos, a menos que estes não se apliquem aos produtos agrícolas contidos nos géneros alimentícios e não tenham de forma evidente qualquer relação com o modo de produção;\n\n- em espanhol:ecológico,\n\n- em dinamarquês:oekologisk,\n\n- em alemão:õkoligisch,\n\n- em grego:qéïëïãé÷ae,\n\n- em inglês:organic,\n\n- em francês:biologique,\n\n- em italiano:biologico,\n\n- em neerlandês:biologisch,\n\n- em português:biológico."
+  },
+  "acadc61a2dd26d9f": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nO presente regulamento aplica-se sem prejuízo das outras disposições comunitárias que regem a produção, a preparação, a comercialização, a rotulagem e o controlo dos produtos referidos no artigo 1o\n\nDefinições"
+  },
+  "a646784a02dc2ee8": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. Rotulagem: as menções, indicações, marcas de fábrica ou de comércio, imagens ou sinais que figurem em qualquer embalagem, documento, letreiro, rótulo, cinta ou cabeção que acompanhem ou se refiram a um produto mencionado no artigo 1o;\n\n2. Produção: as operações que visam a obtenção de produtos agrícolas no estado em que normalmente são produzidos na exploração agrícola;\n\n3. Preparação: as operações de transformação, de conservação e de acondicionamento de produtos agrícolas;\n\n4. Comercialização: a detenção ou a exposição com vista à venda, a colocação à venda, a venda, o fornecimento ou qualquer outra forma de colocação no comércio;\n\n5. Operador: a pessoa singular ou colectiva que produz, prepara ou importa de países terceiros produtos referidos no artigo 1o, com vista à sua comercialização, ou que comercializa esses produtos;\n\n6. Ingredientes: as substâncias, incluindo os aditivos, utilizados na preparação de produtos referidos na alínea b) do artigo 1o e ainda presentes no produto acabado, eventualmente sob forma modificada;\n\n7. Produtos fitofarmacêuticos: os produtos definidos no ponto 1 do artigo 2o da Directiva 79/117/CEE de Conselho, de 21 de Dezembro de 1978, relativa à proibição de colocação no mercado e da utilização de produtos fitofarmacêuticos contendo determinadas substâncias activas (1), com a última redacção que lhe foi dada pela Directiva 89/365/CEE (2);\n\n8. Detergentes: as substâncias e as preparações, na acepção da Directiva 73/404/CEE de Conselho, de 22 de Novembro de 1973, relativa à aproximação das legislações dos Estados-membros respeitantes aos detergentes (3), com a última redacção que lhe foi dada pela Directiva 86//94/CEE (4), destinadas a limpar determinados produtos referidos na alínea a) do artigo 1o\n\nRotulagem"
+  },
+  "5e6dee4851701ce6": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Na rotulagem ou na publicidade de um produto referido no n° 1, alínea a), do artigo 1o, só pode fazer-se refêrencia ao modo de produção biológico na medida em que:\n\na) Essas indicações evidenciem que se trata de um modo de produção agrícola;\n\nb) O produto tenha sido obtido em conformidade com as normas referidas nos artigos 6o e 7o, ou tenha sido importado de um país terceiro no âmbito do regime previsto no artigo 11o;\n\nc) Tenha sido produzido ou importado por um operador submetido às medidas de controlo previstas nos artigos 8o e 9o 2. Na rotulagem ou na publicidade de um produto referido no n° 1, alínea b), do artigo 1o, só pode fazer-se referência ao modo de produção biológico na medida em que as indicações evidenciem que se trata de um modo de produção agrícola e estejam relacionadas com a menção de produto agrícola em questão tal como obtido na exploração agrícola.\n\n3. Na rotulagem ou na publicidade de um produto referido no n° 1, alínea b), do artigo 1o, só pode fazer-se referência, na denominação de venda de produto, ao modo de produção biológico na medida em que;\n\na) Todos os ingredientes de origem agrícola de produto sejam produtos ou provenham de produtos obtidos em conformidade com o disposto nos artigos 6o e 7o, ou importados de países terceiros no âmbito do regime previsto no artigo 11o;\n\nb) O produto contenha unicamente substâncias referidas no ponto A do anexo VI como ingredientes de origem não agrícola;\n\nc) O produto, ou respectivos ingredientes, não tenha sido submetido, no decurso da sua preparação, a tratamentos por meio de radiação ionizante ou de substâncias não referidas no ponto B do anexo VI;\n\nd) O produto tenha sido preparado por um operador submetido às medidas de controlo previstas nos artigos 8o e 9o 4. Em derrogação do disposto na alínea a) do n° 3, os ingredientes de origem agrícola que não satisfaçam os requisitos previstos nesse número podem ser utilizados até ao limite de um teor máximo de 5 % dos ingredientes de origem agrícola no produto final, na preparação de produtos a que se refere a alínea b) do artigo 1o, com a condição de que se trate de:\n\n- ingredientes de origem agrícola que não sejam produzidos na Comunidade em conformidade com as normas referidas nos artigos 6o e 7o, ou - ingredientes de origem agrícola que não sejam produzidos em quantidade suficiente na Comunidade em conformidade com as normas referidas nos artigos 6o e 7o 5. Durante um período transitório que expira em 1 de Julho de 1994, podem ser mencionadas na rotulagem e na publicidade dos produtos a que se refere o n° 1, alínea b), do artigo 1o indicações que se refiram à conversão em agricultura biológica, quando esses produtos sejam constituídos por um só ingrediente de origem agrícola, desde que:\n\na) Os requisitos a que se referem respectivamente o n° 1 ou o n° 3 sejam plenamente satisfeitos, com excepção do relativo à duração de período de conversão a que se refere o ponto 1 do anexo I;\n\nb) Tenha sido observado um período de conversão de pelo menos 12 meses antes da colheita;\n\nc) As indicações em causa não induzam em erro o comprador do produto acerca da sua natureza diferente em relação aos produtos que obedeçam a todos os requisitos do presente regulamento;\n\nd) Tenha sido devidamente verificada pelo organismo de controlo o observância das condições enunciadas nas alíneas a) e b).\n\n6. Na rotulagem e na publicidade dos produtos a que se refere a alínea b) do artigo 1o, parcialmente preparado a partir de ingredientes que não satisfaçam os requisitos estabelecidos na alínea a) do n° 3, poderá fazer-se refêrencia a métodos de produção biológica desde que:\n\na) Pelo menos 50 % dos ingredientes de origem agrícola satisfaçam os requisitos estabelecidos na alínea a) do n° 3;\n\nb) O produto satisfaça os requisitos estabelecidos nas alíneas b), c) e d) do n° 3;\n\nc) As referências aos modos de produção biológica:\n\n- só figurem na lista de ingredientes prevista na Directiva 79/112/CEE (1), com a última redacção que lhe foi dada pela Directiva 89/395/CEE (2),\n\n- digam respeito unicamente aos ingredientes obtidos de acordo com as normas referidas nos artigos 6o e 7o;\n\nd) Os ingredientes e o respectivo teor figurem em ordem ponderal descendente na lista dos ingredientes;\n\ne) Quaisquer indicações na lista dos ingredientes figurem com a mesma cor e com tamanho e caracteres idênticos.\n\n7. Poderão ser estabelecidas regras pormenorizadas relativas à aplicação do presente artigo de acordo com o processo previsto no artigo 14o 8. As listas limitativas das substâncias e produtos a que se referem as alíneas b) e c) do n° 3 e os primeiro e segundo travessões do n° 4, incluídas no anexo VI, de acordo com o processo previsto no artigo 14o Poderão ser especificadas condições de utilização e requisitos de composição destes ingredientes.\n\nSempre que um Estado-membro considerar que um produto deverá ser aditado às listas atrás referidas ou que estas deverão ser alteradas, deverá transmitir oficialmente um dossier com a justificação dessa incluisão ou alteração aos outros Estados-membros e à Comissão, que o remeterá para o comité referido no artigo 14o 9. Até 1 de Julho de 1993, a Comissão reexaminará o disposto no presente artigo, nomeadamente nos nos 5 e 6, e apresentará as propostas adequadas para a sua eventual revisão.\n\nRegras de produção"
+  },
+  "9965d5e7b14e2919": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. O método de produção biológico implica que, na produção dos produtos referidos no n° 1, alínea a), do artigo 1o:\n\na) Devem ser respeitadas, pelo menos, as disposições que figuram no anexo I e, se for caso disso, as respectivas regras de execução;\n\nb) Só poderão ser utilizados como produtos fitofarmacêuticos, detergentes, fertilizantes ou correctivos dos solos os produtos constituídos por substâncias enumeradas nos anexos I e II; tais produtos só poderão ser utilizados se respeitarem as condições específicas definidas nos anexos I e II e na medida em que a utilização correspondente for autorizada na agricultura em geral nos Estados-membros em causa, de acordo com as correspondentes disposições comunitárias ou nacionais nos termos do direito comunitário.\n\n2. Por derrogação da alínea b) do n° 1, as sementes tratadas com produtos que não constem do anexo II e que sejam autorizados na agricultura em geral no Estado-membro em causa podem ser utilizadas na medida em que o utilizador de tais sementes possa provar, a pedido do organismo de controlo, que não lhe foi possível encontrar no mercado sementes não tratadas de variedade adequada da espécie em causa."
+  },
+  "d6e39be455325eed": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Os produtos não autorizados à data da adopção do presente regulamento para os fins especificados no n° 1, alínea b), do artigo 6o podem ser incluídos no anexo II, na medida em que se encontrem preenchidas as seguintes condições:\n\na) Se forem utilizados na luta contra organismos prejudiciais ou contra as doenças dos vegetais:\n\n- serem essenciais para a luta contra um organismo prejudicial ou doença particular para que não existam outras alternativas biológicas, de cultura, físicas ou de produção de vegetais,\n\ne - as condições da sua utilização excluírem qualquer contacto directo com as sementes, vegetais ou produtos vegetais; todavia, no caso de tratamento de plantas vivazes, pode existir um contacto directo, mas apenas fora da época de crescimento das partes comestíveis (frutos), na medida em que da referida aplicação não resulte indirectamente a presença de resíduos do produto nas partes comestíveis,\n\ne - a sua utilização não efeitos inaceitáveis no ambiente nem contribuir para uma contaminação deste;\n\nb) Se forem utilizados para fertilização ou correcção dos solos:\n\n- serem essenciais aos requisitos de nutrição específicos dos vegetais ou aos objectivos específicos em matéria de correcção dos solos que não possam ser satisfeitos utilizando as práticas referidas no anexo I,\n\ne - a sua utilização não provocar efeitos inaceitáveis no ambiente nem contribuir para uma contaminação deste.\n\n2. Caso seja necessário, podem ser especificados, em relação a qualquer produto incluído no anexo II:\n\n- a descrição pormenorizada do produto,\n\n- as condições de utilização e os requisitos de composição e/ou de solubilidade, em particular para garantir que estes produtos deixam uma quantidade mínima de resíduos nas partes comestíveis dos vegetais e nos produtos vegetais comestíveis e têm consequências mínimas para o ambiente.\n\n- exigências específicas de rotulagem para os produtos referidos no artigo 1o, quando estes sejam obtidos mediante a utilização de determinados produtos a que se refere o anexo II.\n\n3. A Comissão adoptará, de acordo com o procedimento previsto no artigo 14o, as alterações ao anexo II relativas quer à inscrição ou supressão dos produtos referidos no n° 1 quer à inclusão ou alteração das especificações a que se refere o n° 2.\n\n4. Sempre que um Estado-membro considerar que um produto deve ser inscrito no anexo II, ou que é oportuno introduzir-lhe alterações, velará por que seja oficialmente enviado um dossier que justifique essa inscrição ou alteração aos outros Estados-membros e à Comissão, que o apresentará ao comité referido no artigo 14o\n\nSistema de controlo"
+  },
+  "f8824095eb472a52": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Qualquer operador que produza, prepare ou importe de um país terceiro produtos referidos no artigo 1o, com vista à sua comercialização, deve:\n\na) Notificar essa actividade à autoridade competente do Estado-membro no qual a referida actividade é exercida. A notificação incluirá os dados constantes do anexo IV;\n\nb) Submeter a sua exploração ao regime de controlo referido no artigo 9o 2. Os Estados-membros designarão uma autoridade ou um organismo para a recepção das notificações.\n\nOs Estados-membros podem prever a comunicação de qualquer informação complementar que considerem necessária a um controlo eficaz dos operadores em causa.\n\n3. A autoridade competente deverá facultar aos interessados uma lista actualizada dos nomes e endereços dos operadores sujeitos ao regime de controlo."
+  },
+  "e693d90fc42cc5a5": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Os Estados-membros estabelecerão um regime de controlo gerido por uma ou várias autoridades de controlo designadas e/ou por organismos privados aprovados a que estarão sujeitos operadores que produzam ou preparem produtos referidos no artigo 1o 2. Os Estados-membros tomarão as medidas necessárias para que o operador que cumpra o disposto no presente regulamento e pague a sua parte nas despesas de controlo tenha garantido o acesso ao regime de controlo.\n\n3. O regime de controlo incluirá, pelo menos, a execução das medidas de controlo e de precaução referidas no anexo III.\n\n4. Para a execução do regime de controlo por organismos privados, os Estados-membros designarão uma autoridade encarregada da aprovação e da supervisão desses organismos.\n\n5. Para a aprovação de um organismo de controlo privado, serão tomados em consideração os elementos seguintes:\n\na) O plano-tipo de controlo do organismo, com uma descrição pormenorizada das medidas de controlo e das medidas de precaução que o organismo se compromete a impor aos operadores por ele controlados;\n\nb) As sanções previstas pelo organismo em caso de verificação de irregularidades;\n\nc) Os recursos adequados em matéria de pessoal qualificado e de equipamento administrativo e técnico, bem como a experiência em matéria de controlo e a fiabilidade;\n\nd) a objectividade do organismo de controlo relativamente aos operadores submetidos ao seu controlo.\n\n6. Após aprovação de um organismo de controlo, a autoridade competente:\n\na) Assegurará a objectividade do controlo efectuado pelo organismo de controlo;\n\nb) Verificará a eficácia do controlo;\n\nc) Tomará conhecimento das infracções verificadas e das sanções aplicadas;\n\nd) Retirará a aprovação de um organismo de controlo sempre que esse organismo não preencha os requisitos constantes das alíneas a) e b) ou deixe de satisfazer os critérios referidos no n° 5, ou não preencha os requisitos constantes dos nos 7, 8 e 9.\n\n7. A autoridade de controlo e os organismos de controlo aprovados referidos no n° 1:\n\na) Assegurarão que pelo menos as medidas de controlo e de precaução referidas no anexo III sejam aplicadas nas explorações submetidas ao seu controlo;\n\na) Não facultarão informações e dados obtidos nas suas actividades de controlo a mais ninguém além dos responsáveis da exploração e das autoridades públicas competentes.\n\n8. Os organismos de controlo aprovados:\n\na) Facultarão à autoridade competente, para efeitos de inspecção, o acesso aos seus escritórios e instalações e darão todas as informações e toda a ajuda considerada necessária pela autoridade competente para a execução das suas obrigações nos termos do presente regulamento;\n\nb) Enviarão, o mais tardar até 31 de Janeiro de cada ano, à autoridade competente do Estado-membro, uma lista dos operadores submetidos ao seu controlo, à data de 31 de Dezembro do ano anterior e apresentar-lhe-ão um relatório anual sucinto.\n\n9. A autoridade de controlo e os organismos de controlo aprovados referidos no n° 1 deverão:\n\na) Assegurar que, sempre que se verifique uma irregularidade no tocante à aplicação dos artigos 5o, 6o e 7o ou das medidas referidas no anexo III, sejam retiradas as indicações previstas no artigo 2o relativas ao modo de produção biológico de todo o lote ou de toda a produção afectada pela irregularidade em causa;\n\nb) Em caso de verificação de uma irregularidade manifesta ou com efeito prolongado, proibir ao operador em causa comercialização de produtos com indicações relativas ao modo de produção biológico por um período a decidir com a autoridade competente do Estado-membro.\n\n10. Poderão ser adoptadas as seguintes medidas em conformidade com o processo previsto no artigo 14o:\n\na) Regras de execução relativas às exigências constantes do n° 5 e às medidas enumeradas no n° 6.\n\nb) Regras de execução relativas ao disposto no n° 9.\n\nIndicação de conformidade com o regime de controlo"
+  },
+  "f18be7aa79d88853": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. A indicação de conformidade com o regime de controlo constante do anexo V pode ser mencionada exclusivamente na rotulagem dos produtos referidos no artigo 1o que:\n\na) Estejam conformes com as disposições dos nos 1, 2, 3 e 4 do artigo 5o, dos artigos 6o e 7o bem como as disposições tomadas por força daquelas disposições;\n\nb) Durante todas as operações da sua produção e preparação tenham sido submetidos ao regime de controlo previsto no n° 3 do artigo 9o;\n\nc) Tenham sido produzidos ou preparados por operadores que tenham confiado o controlo da sua exploração à autoridade de controlo ou a um organismo de controlo referidos no n° 1 de artigo 9o e que tenham obtido da referida autoridade ou do referido organismo o direito de mencionar a indicação constante do anexo V;\n\nd) Sejam acondicionados e transportados, até ao ponto de venda a retalho, em embalagens fechadas;\n\ne) Ostentem no rótulo o nome e, se for caso disso, a marca registada do organismo de controlo, o nome e o endereço do produtor ou do preparador e, na medida em que a Directiva 79/112/CEE for aplicável, as indicações exigidas pelas disposições desta directiva.\n\n2. Não pode ser feita qualquer alegação na rotulagem ou na publicidade que sugira ao comprador que a indicação constante do anexo V constitui uma garantia de qualidade organoléptica, nutritiva ou sanitária superior.\n\n3. A autoridade de controlo e os organismos de controlo referidos no n° 1 do artigo 9o devem:\n\na) Em caso de verificação de uma irregularidade no que diz respeito à execução do disposto nos artigos 5o, 6o e 7o ou à execução das medidas constantes do anexo III, mandar eliminar a indicação constante do anexo V de todo o lote ou de toda a produção afectados pela irregularidade;\n\nb) Em caso de verificação de uma infracção manifesta ou com efeito prolongado, retirar ao operador em causa o direito de utilizar a indicação constante do anexo V por um período a decidir com a autoridade competente do Estado-membro.\n\n4. As modalidades de retirada da indicação constante do anexo V, em caso de verificação de determinadas infracções ao disposto nos artigos 5o, 6o e 7o ou aos requisitos e medidas constantes do anexo III podem ser especificados de acordo com o processo previsto no artigo 14o 5. Sempre que um Estado-membro verificar num produto proveniente de um outro Estado-membro e que ostenta as indicações previstas no artigo 2o e/ou anexo V irregularidades relativas à aplicação do presente regulamento, informará desse facto a Comissão e o Estado-membro que tiver aprovado o organismo de controlo.\n\n6. Os Estados-membros tomarão as medidas necessárias para evitar a utilização fraudulenta das indicações previstas no artigo 2o e/ou anexo V.\n\n7. Até 1 de Julho de 1993, a Comissão examinará o artigo 10o, designadamente no que se refere à possibilidade de tornar obrigatória a indicação constante do anexo V, e apresentará propostas adequadas para uma eventual revisão do disposto neste artigo.\n\nImportações de países terceiros"
+  },
+  "fb9baf7d807bfb83": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. Sem prejuízo do artigo 5o, os produtos referidos no artigo 1o e importados de un país terceiro só podem ser comercializados desde que:\n\na) Sejam originários de um país terceiro que figure numa lista a elaborar por decisão da Comissão, nos termos do procedimento previsto no artigo 14o, e provenham de uma região ou de uma unidade de produção e tenham sido controlados por um organismo de controlo que, se for caso disso, tenham sido especificados na decisão relativa ao referido país terceiro; e b) A autoridade ou o organismo competente no país terceiro tenha emitido um certificado de controlo que ateste que o lote designado no certificado:\n\n- foi obtido num sistema de produção que aplica normas equivalentes às enunciadas nos artigos 6o e 7o, e - foi submetido ao regime de controlo cuja equivalência tenha sido reconhecida na análise prevista na alínea b) do n° 2.\n\n2. Para decidir se, relativamente a determinados produtos referidos no artigo 1o, um país terceiro pode, a seu pedido, figurar na lista referida na alínea a) do n° 1, têm-se nomeadamente em conta:\n\na) As garantias que o país terceiro pode oferecer, pelo menos para a produção destinada à Comunidade, no que diz respeito à aplicação de normas equivalentes às referidas nos artigos 6o e 7o;\n\nb) A eficácia das medidas de controlo tomadas que, pelo menos para a produção destinada à Comunidade, deverão ser equivalentes às do regime de controlo referido nos artigos 8o e 9o, para assegurar o cumprimento das disposições referidas na alínea a).\n\nTendo em conta estes elementos, a decisão da Comissão pode especificar as regiões ou as unidades de produção de origem ou os organismos cujo controlo é considerado equivalente.\n\n3. O certificado referido na alínea b) do n° 1 deve:\n\na) Acompanhar a mercadoria no seu exemplar original até à exploração de primeiro destinatário; seguidamente, o importador deve mantê-lo à disposição da autoridade de controlo durante, pelo menos, dois anos;\n\nb) Ser passado em conformidade com determinadas modalidades e com um modelo determinados nos termos do procedimento previsto no artigo 14o 4. Ao analisar o pedido de um país terceiro, a Comissão exige que este forneça todas as informações necessárias; pode, além disso, encarregar peritos de efectuarem, sob a sua autoridade, a análise in loco das normas de produção e das medidas de controlo efectivamente aplicadas no país terceiro em causa.\n\nLivre circulação no interior da comunidade"
+  },
+  "b0c28d4909234492": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nOs Estados-membros não podem, por razões relativas ao modo de produção, à rotulagem ou à apresentação desse modo de produção, proibir ou restringir a comercialização de produtos a que se refere o artigo 1o e conformes com o disposto no presente regulamento.\n\nDisposições administrativas e aplicação"
+  },
+  "268e9664232f8651": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nDe acordo com o procedimento previsto no artigo 14o podem ser aprovadas:\n\n- as alterações a introduzir nos anexos I, II, III, IV e VI,\n\n- as regras de execução relativas aos anexos I e III."
+  },
+  "c46a3b7790634ade": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nA Comissão é assistada por um comité composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\nNos casos em que se faça referência ao processo definido no presente artigo, o representante da Comissão submete à apreciação do comité um projecto das medidas a tomar.\n\nO comité emite o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão. O parecer é emitido por maioria, nos termos previstos no n° 2 do artigo 148o do Tratado. Nas votações no seio do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\nA Comissão adopta as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nSe as medidas previstas não forem conformes com o parecer do comité, ou na falta de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "de73b9b4b9b8e808": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nOs Estados-membros informarão anualmente a Comissão, até de 1 de Julho, das medidas tomadas no ano precedente, com vista à execução do presente regulamento e comunicarão em especial:\n\n- a lista dos operadores que, à data de 31 de Dezembro do ano anterior, efectuaram a notificação referida no n° 1, alínea a), do artigo 8o será sujeita ao regime de controlo a que se refere o artigo 9o,\n\n- um relatório sobre a supervisão exercida em aplicação do n° 6 do artigo 9o Além disso, os Estados-membros comunicarão anualmente à Comissão, até 31 de Março, a lista dos organismos de controlo aprovados, em 31 de Dezembro do ano anterior, a sua estrutura jurídica e funcional, os seus planos-tipo de controlo, o seu sistema de sanções e, se for caso disso, a sua marca.\n\nA Comissão assegurará anualmente a publicação, na série C do Jornal Oficial das Comunidades Europeias, das listas dos organismos aprovados que lhe tenham sido comunicadas no prazo previsto no parágrafo anterior."
+  },
+  "de62f12c380751f7": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\n1. O presente regulamento entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\n2. Num prazo de nove meses após a entrada em vigor do presente regulamento, os Estados-membros porão em aplicação os artigos 8o e 9o 3. O artigo 5o, o n° 1 do artigo 8o e o n° 1 do artigo 11o tornam-se aplicáveis 12 meses após a entrada em vigor do presente regulamento.\n\nDe acordo com o procedimento previsto no artigo 14o, o prazo de entrada em aplicação do n° 1 do artigo 11o pode ser prorrogado por um período determinado, para as importações provenientes de um país terceiro no caso de, em consequência do pedido de um país terceiro, a situação da análise da questão não permitir que se toma uma decisão quanto à inscrição desse país na lista referida no n° 1, alínea a), do artigo 11o antes de expirar o prazo referido no primeiro parágrafo.\n\nA fim de respeitar o período de conversão referido no ponto 1 de anexo I, o período decorrido antes da entrada em vigor do presente regulamento será tomado em consideração desde que o operador possa demonstrar satisfatoriamente ao organismo de controlo que produzia durante este período de acordo com as disposições nacionais em vigor ou, na sua ausência, com as normas internacionais reconhecidas em matéria de produção biológica.\n\n4. Durante um prazo de 12 meses após a entrada em vigor do presente regulamento, os Estados-membros podem, em derrogação do n° 1 do artigo 6o, autorizar a utilização no seu território de produtos contendo substâncias não mencionadas no anexo II e para os quais considerem que as condições enunciadas no n° 1 do artigo 7o se encontram preenchidas.\n\n5. Durante um prazo que expira 12 meses após o estabelecimento do anexo VI nos termos do n° 7 do artigo 5o, os Estados-membros podem continuar a autorizar, em conformidade com as suas disposições nacionais, o emprego de substâncias que não constem no referido anexo VI.\n\n6. Os Estados-membros informarão os outros Estados-membros e a Comissão das substâncias autorizadas por força dos nos 4 e 5.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo, em 24 de Junho de 1991.\n\nPelo Conselho O Presidente J.-C. JUNCKER\n\n(1)JO n° C 4 de 9. 1. 1990, p. 4, e JO n° C 101 de 18. 4. 1991, p. 13.\n\n(2)JO n° C 106 de 22. 4. 1991, p. 27.\n\n(3)JO n° C 182 de 23. 7. 1990, p. 12.\n\n(1)JO n° L 33 de 8. 2. 1979, p. 36.\n\n(2)JO n° L 159 de 10. 6. 1989, p. 58.\n\n(3)JO n° L 347 de 17. 12. 1973, p. 51.\n\n(4)JO n° L 80 de 25. 3. 1986, p. 51.\n\n(1)JO n° L 33 de 8. 2. 1979, p. 1.\n\n(2)JO n° L 186 de 30. 6. 1989, p. 17."
+  },
+  "2b599ff572dd7e83": {
+   "fragment_id": "ANEXO I — PRINCÍPIOS DE PRODUÇÃO BIOLÓGICA NAS EXPLORAÇÕES",
+   "type": "divisao",
+   "heading": "ANEXO I — PRINCÍPIOS DE PRODUÇÃO BIOLÓGICA NAS EXPLORAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — PRINCÍPIOS DE PRODUÇÃO BIOLÓGICA NAS EXPLORAÇÕES\n\nVegetais e produtos vegetais\n\n1.Os princípios enunciados no presente anexo devem, em geral, ter sido postos em prática nas parcelas durante um período de conversão de, pelo menos, dois anos antes da sementeira ou, no caso das culturas perenes, com exepção dos prados, de pelo menos três anos antes de primeira colheita dos produtos referidos no n° 1, alínea a), do artigo 1o O organismo de controlo poderá, por acordo com a autoridade competente, decidir que o período acima referido seja em certos casos prolongado ou reduzido, tendo em conta a anterior utilização das parcelas.\n\n2.A fertilidade e a actividade biológica dos solos devem ser mantidas ou melhoradas, nos casos adequados, através:\n\na)Do cultivo de produtos hortícolas, fertilizantes verdes ou plantas com um sistema radicular profundo, no âmbito de um programa de rotação plurianual adequado; e/ou b)Da incorporação nos solos de matérias orgânicas de compostagem ou não, cuja produção provenha de explorações que obedeçam ao disposto no presente regulamento. Enquanto não forem adoptadas normas técnicas comuns relativas à produção biológica animal, os subprodutos provenientes dos animais, tais como o estrume de animais, poderão ser utilizados se provenientes de explorações de animais que respeitem a regulamentação nacional em vigor ou, caso esta não exista, as práticas internacionalmente reconhecidas relativas à produção biológica animal.\n\nA aplicação complementar de adubos orgânicos ou minerais a que se refere o anexo II só pode ser efectuada na medida em que não for possível uma nutrição adequada dos vegetais em rotação ou o condicionamento dos solos recorrendo apenas aos meios referidos nas alíneas a) e b).\n\nPara a activação de compostagem podem ser utilizados preparados apropriados (preparados biodinâmos) à base de microrganismo ou de vegetais.\n\n3.A luta contra os parasitas, as doenças e as infestantes centra-se no conjunto de medidas a seguir enunciadas:\n\n-escolha de espécies e de variedades apropriadas,\n\n-programa de rotação apropriado,\n\n-processos mecânicos de cultura,\n\n-protecção dos parasitas dos seus inimigos naturais, por meios adequados (por exemplo, sebes, ninhos, disseminação de predadores),\n\n-combate às infestantes por meio do fogo.\n\nA utilização dos produtos inscritos no anexo II só pode ocorrer em caso de perigo imediato para a cultura."
+  },
+  "67ead965688256ef": {
+   "fragment_id": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "7afe67870b86bf4f": {
+   "fragment_id": "ANEXO III — EXIGÊNCIAS MÍNIMAS DE CONTROLO E MEDIDAS DE PRECAUÇÃO PREVISTAS NO ÂMBITO DO REGIME DE CONTROLO A QUE SE REFEREM OS ARTIGOS 8o E 9o",
+   "type": "divisao",
+   "heading": "ANEXO III — EXIGÊNCIAS MÍNIMAS DE CONTROLO E MEDIDAS DE PRECAUÇÃO PREVISTAS NO ÂMBITO DO REGIME DE CONTROLO A QUE SE REFEREM OS ARTIGOS 8o E 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — EXIGÊNCIAS MÍNIMAS DE CONTROLO E MEDIDAS DE PRECAUÇÃO PREVISTAS NO ÂMBITO DO REGIME DE CONTROLO A QUE SE REFEREM OS ARTIGOS 8o E 9o\n\nA.Explorações agrícolas que produzem vegetais e produtos vegetais\n\n1.A produção deve ser efectuada numa unidade cujas parcelas e locais de produção e de armazenagem estejam claramente separados dos de qualquer outra unidade que não produza segundo as normas de produção do presente regulamento; desta unidade podem fazer parte instalações de transformação e/ou acondicionamento desde que a mesma se limite à transformação e/ou acondicionamento da sua própria produção agrícola.\n\n2.No início da aplicação do regime de controlo, o produtor e o organismo de controlo estabelecerão:\n\n-uma descrição completa da unidade com indicação dos locais de armazenagem e de produção e das parcelas e, se for caso disso, os locais onde se efectuam determinadas operações de transformação e/ou acondicionamento,\n\n-todas as medidas concretas a tomar ao nível da unidade, a fim de assegurar a observância das disposições do presente regulamento.\n\nEssa descrição, bem como as medidas em causa, serão indicadas num relatório de inspecção rubricado pelo responsável pela unidade em causa.\n\nO relatório mencionará, além disso:\n\n-a data da última aplicação nas parcelas em causa de produtos cuja utilização seja incompatível com o n° 1, alínea b), do artigo 6o e com o artigo 7o,\n\n-o compromisso do produtor em efectuar as operações em conformidade com os artigos 5o, 6o e 7o, e em acatar, no caso de infracção, a aplicação das medidas previstas no n° 9 do artigo 9o 3.Todos os anos, antes da data indicada pelo organismo de controlo, o produtor deve notificar esse organismo do seu programa de produtos vegetais, pormenorizado ao nível das parcelas.\n\n4.Deve ser mantida uma contabilidade escrita e/ou documental, que permita ao organismo de controlo reconstituir a origem, natureza e quantidades da totalidade das matérias-primas adquiridas, bem como a utilização dessas matérias-primas; deve, além disso, ser mantida uma contabilidade escrita ou documental relativa à natureza, quantidades e destinatários da totalidade dos produtos agrícolas vendidos. Quando dizem respeito a vendas directas ao consumidor final, as quantidadas são registadas diariamente.\n\n5.É proibida a armazenagem, na unidade, de quaisquer matérias-primas além daquelas cuja utilização é compatível com o n° 1, alínea b), do artigo 6o e com o artigo 7o 6.Além de visitas de inspecção não anunciadas, o organismo de controlo deve efectuar, pelo menos uma vez por ano, um controlo físico completo da unidade. Podem ser efectuadas colheitas com vista à pesquisa de produtos não autorizados nos termos do presente regulamento. No entanto, a colheita deve ser efectuada sempre que se suspeite da utilização de um produto não autorizado. Será elaborado, após cada visita, um relatório de inspecção rubricado pelo responsável pela unidade controlada.\n\n7.Para efeitos de inspecção, o produtor facultará ao organismo de controlo o acesso aos locais de armazenagem e de produção e às parcelas, bem como à contabilidade e aos elementos de prova a ela atinentes. Fornecerá ao organismo de controlo todas as informações consideradas necessárias para fins de inspecção.\n\n8.Os produtos referidos no artigo 1o que ainda não estejam acondicionados nas embalagens destinadas ao consumidor final só podem ser transportados para outras unidades em embalagens ou contentores fechados de modo a impedir a substituição do seu conteúdo, munidos de um rótulo que mencione, sem prejuízo de outras indicações eventualmente previstas por disposições regulamentares:\n\n-o nome e o endereço do responsável pela produção ou preparação do produto,\n\n-o nome do produto,\n\n-uma indicação de que o produto se encontra submetido ao regime de controlo a que se refere o presente regulamento.\n\n9.Quando um operador explora várias unidades de produção na mesma região e as unidades situadas na região produzem vegetais ou produtos vegetais não referidos no artigo 1o serão igualmente submetidas ao regime de controlo no que se refere ao primeiro parágrafo do ponto 3 e aos pontos 3, 4, e 5. Nessas unidades não podem ser produzidos vegetais da mesma variedade que os produzidos na unidade referida no ponto 1.\n\nB.Unidades de transformação e de acondicionamento de produtos vegetais e de géneros alimentícios que contenham essencialmente produtos vegetais\n\n1.No início da aplicação do regime de controlo regular, o operador e o organismo de controlo estabelecerão:\n\n-uma descrição completa da unidade com indicação das instalações utilizadas para a transformação, o acondicionamento e a armazenagem dos produtos agrícolas antes e depois das operações,\n\n-todas as medidas concretas a tomar ao nível da unidade para garantir o respeito das disposições do presente regulamento.\n\nEssa descrição e as medidas em causa serão indicadas num relatório de inspecção, rubricado pelo responsável pela unidade em questão.\n\nEsse relatório mencionará, além disso, o compromisso do operador em efectuar as operações de modo a que seja respeitado o disposto no artigo 5o e em acatar, no caso de infracção, a aplicação das medidas previstas no n° 9 do artigo 9o 2.Será mantida uma contabilidade escrita que permita ao organismo de controlo reconstituir:\n\n-a origem, natureza e quantidades dos produtos agrícolas referidos no artigo 1o que tenham sido fornecidos à unidade,\n\n-a natureza, quantidades e destinatários dos produtos referidos no artigo 1o que tenham saído da unidade,\n\n-quaisquer outras informações, tais como a origem, natureza e quantidades dos ingredientes, aditivos e auxiliares de fabrico que tenham sido fornecidos à unidade, bem como a composição dos produtos transformados, requeridas pelo organismo de controlo para um controlo adequado das operações.\n\n3.Quando são igualmente transformados, acondicionados ou armazenados na unidade produtos não referidos no artigo 1o:\n\n-a unidade deve dispor de instalações separadas para a armazenagem dos produtos referidos no artigo 1o, antes e depois das operações,\n\n-as operações devem ser efectuadas por série completa e ser física ou cronologicamente separadas de operações semelhantes sobre produtos não referidos no artigo 1o,\n\n-se as operações não forem efectuadas com frequência, devem ser anunciadas antecipadamente com um prazo fixado de acordo com o organismo de controlo,\n\n-devem ser tomadas todas as medidas a fim de garantir a identificação dos lotes e evitar misturas com produtos não obtidos em conformidade com as normas de produção enunciadas no presente regulamento.\n\n4.Além das visitas de inspecção não anunciadas, o organismo de controlo deve efectuar, pelo menos uma vez por ano, um controlo físico da unidade. Podem ser efectuadas colheitas com vista à pesquisa de produtos não autorizados nos termos do presente regulamento. Essas colheitas devem ser efectuadas sempre que se suspeite da utilização de um produto não autorizado. Será elaborado após cada visita um relatório de inspecção, rubricado pelo responsável pela unidade de controlo.\n\n5.Para efeitos de inspecção, o operador facultará ao organismo de controlo o acesso à unidade, bem como à contabilidade escrita e elementos de prova a ela atinentes. Fornecerá ao organismo de controlo todas as informações consideradas necessárias para fins de inspecção.\n\n6.São aplicáveis os requisitos do ponto 8 da parte A em matéria de transporte."
+  },
+  "50c37e3b75c6ca1c": {
+   "fragment_id": "ANEXO IV — DADOS DA NOTIFICAÇÃO PREVISTA NO N° 1, ALÍNEA a), DO ARTIGO 8o",
+   "type": "divisao",
+   "heading": "ANEXO IV — DADOS DA NOTIFICAÇÃO PREVISTA NO N° 1, ALÍNEA a), DO ARTIGO 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — DADOS DA NOTIFICAÇÃO PREVISTA NO N° 1, ALÍNEA a), DO ARTIGO 8o\n\na)Nome e endereço do operador;\n\nb)Localização das instalações e, se for caso disso, das parcelas (dados cadastrais) onde as operações são efectuadas:\n\nc)Natureza das operações e dos produtos:\n\nd)Compromisso do operador em efectuar as operações nos termos dos artigos 5o, 6o, 7o e/ou 11o;\n\ne)Quando se tratar de uma exploração agrícola, data em que o produtor terminou nas parcelas em causa, a aplicação de produtos cuja utilização não seja compatível com o n° 1, alínea b), do artigo 6o e com o artigo 7o;\n\nf)Identificação do organismo reconhecido ao qual o produtor confiou o controlo da sua exploração, se no Estado-membro em causa o regime de controlo for aplicado através do reconhecimento desses organismos."
+  },
+  "aa5061831d8fe848": {
+   "fragment_id": "ANEXO V — INDICAÇÃO DE CONFORMIDADE COM O REGIME DE CONTROLO",
+   "type": "divisao",
+   "heading": "ANEXO V — INDICAÇÃO DE CONFORMIDADE COM O REGIME DE CONTROLO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — INDICAÇÃO DE CONFORMIDADE COM O REGIME DE CONTROLO\n\nA indicação de conformidade com o regime de controlo será mencionada na ou nas línguas da rotulagem.\n\nES:Agricultura Biológica - Sistema de control CEE DK:OEkologisk Landbrug - EF Kontrolordning D:Biologische Agrarwirtschaft - EWG Kontrollsystem GR:ÂéïëïãéêÞ Ãaaùñãssá - Óýóôçìá AAëÝã÷ïõ AAÏÊ EN:Organic Farming - EEC Control System F:Agriculture biologique - Système de contrôle CEE IT:Agricoltura Biologica - Regime di controllo CEE NL:Biologische Landbouw - EEG Controlesysteem PO:Agricultura biológica - Sistema de controlo CEE"
+  },
+  "0e5df96848bbc07d": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI\n\nA.Substâncias autorizadas como ingredientes de origem não agrícola [n° 3, alínea b), do artigo 5o]:\n\nB.Substâncias cuja utilização é autorizada durante a preparação [n° 3, alínea c), do artigo 5o]:\n\nC.Ingredientes de origem agrícola [n° 4 do artigo 5o]."
+  },
+  "ddbfc0f074ead770": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991R2092 — PT — 01.12.2007 — 028.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/391R2092) [REGULAMENTO (CEE) N.º 2092/91 DO CONSELHO](http://publications.europa.eu/resource/celex/391R2092) [de 24 de Junho de 1991](http://publications.europa.eu/resource/celex/391R2092) [relativo ao modo de produção biológico de produtos agrícolas e à sua indicação nos produtos agrícolas e nos géneros alimentícios](http://publications.europa.eu/resource/celex/391R2092) (JO L 198, 22.7.1991, p.1)\n\n**revogado por:**"
+  },
+  "4295c573e6362eda": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991R2092 — PT — 27.12.2007 — 029.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/391R2092) [REGULAMENTO (CEE) N.º 2092/91 DO CONSELHO](http://publications.europa.eu/resource/celex/391R2092) [de 24 de Junho de 1991](http://publications.europa.eu/resource/celex/391R2092) [relativo ao modo de produção biológico de produtos agrícolas e à sua indicação nos produtos agrícolas e nos géneros alimentícios](http://publications.europa.eu/resource/celex/391R2092) (JO L 198, 22.7.1991, p.1)\n\n**revogado por:**"
+  },
+  "3d6af5ca7b0ba5f8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991R2092 — PT — 14.05.2008 — 031.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/391R2092) [REGULAMENTO (CEE) N.º 2092/91 DO CONSELHO](http://publications.europa.eu/resource/celex/391R2092) [de 24 de Junho de 1991](http://publications.europa.eu/resource/celex/391R2092) [relativo ao modo de produção biológico de produtos agrícolas e à sua indicação nos produtos agrícolas e nos géneros alimentícios](http://publications.europa.eu/resource/celex/391R2092) (JO L 198, 22.7.1991, p.1)\n\n**revogado por:**"
+  },
+  "6bf0e19340cb2ef1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991R2092 — PT — 01.01.2009 — 032.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31991R2092) [REGULAMENTO (CEE) N.º 2092/91 DO CONSELHO](http://publications.europa.eu/resource/celex/31991R2092) [de 24 de Junho de 1991](http://publications.europa.eu/resource/celex/31991R2092) [relativo ao modo de produção biológico de produtos agrícolas e à sua indicação nos produtos agrícolas e nos géneros alimentícios](http://publications.europa.eu/resource/celex/31991R2092) (JO L 198, 22.7.1991, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 834/2007 do Conselho de 28 de Junho de 2007](http://publications.europa.eu/resource/celex/32007R0834) — L 189 — 1 — 20.7.2007"
+  }
+ }
+}

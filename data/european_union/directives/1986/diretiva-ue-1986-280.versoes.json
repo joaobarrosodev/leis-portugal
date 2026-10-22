@@ -1,0 +1,169 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31986L0280:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01986L0280-20121222",
+ "dre_path": null,
+ "source_lastmod": "2012-12-22",
+ "versions": [
+  {
+   "date": "1986-07-04",
+   "future": false,
+   "celex": "31986L0280",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f852ea2c431d5a83",
+    "4045b720efa09bd1",
+    "d6c9277dc150411b",
+    "bc0aaa14fbfdd348",
+    "c36b2bbd499206f5",
+    "f17e635efcf89b4e",
+    "18cf23add6cafd22",
+    "b916d6bd81a28d53",
+    "2d4039d5bced84c1",
+    "6cd80538da7cbc6f",
+    "4d84c0fe3acde217"
+   ]
+  },
+  {
+   "date": "2009-01-13",
+   "future": false,
+   "celex": "01986L0280-20090113",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1",
+    "Suprime Artigo 2",
+    "Suprime Artigo 3",
+    "Suprime Artigo 4",
+    "Suprime Artigo 5",
+    "Suprime Artigo 6",
+    "Suprime Artigo 7",
+    "Suprime Artigo 8",
+    "Suprime ANEXO I DISPOSIÇÕES GERAIS",
+    "Suprime ANEXO II"
+   ],
+   "fragments": [
+    "868e27850a76aa6a"
+   ]
+  },
+  {
+   "date": "2012-12-22",
+   "future": false,
+   "celex": "01986L0280-20121222",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "05bf25d204df4939"
+   ]
+  }
+ ],
+ "fragments": {
+  "f852ea2c431d5a83": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 86/280/CEE do Conselho de 12 de Junho de 1986 relativa aos valores-limite e aos objectivos de qualidade para as descargas de certas substâncias perigosas incluídas na lista I do Anexo da Directiva 76/464/CEE** *Jornal Oficial nº L 181 de 04/07/1986 p. 0016 - 0027 Edição especial finlandesa: Capítulo 15 Fascículo 7 p. 0134 Edição especial sueca: Capítulo 15 Fascículo 7 p. 0134*\n\nDIRECTIVA DO CONSELHO de 12 de Junho de 1986 relativa aos valores-limite e aos objectivos de qualidade para as descargas de certas substâncias perigosas incluídas na lista I do Anexo da Directiva 76/464/CEE (86/280/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus arti- gos 100 e 235,\n\nTendo em conta a Directiva 76/464/CEE do Conselho, de 4 de Maio de 1976, relativa à poluição causada por certas substâncias perigosas lançadas no meio aquático da Comunidade(1), e, nomeadamente, o seu artigo 6,\n\nTendo em conta a proposta da Comissão(2),\n\nTendo em conta o parecer do Parlamento Europeu(3),\n\nTendo em conta o parecer do Comité Económico e Social(4),\n\nConsiderando que, para proteger o meio aquático da Comunidade contra a poluição por certas substâncias perigosas, o artigo 3 da Directiva 76/464/CEE instaura um regime de autorizações prévias que fixam normas de emissão para as descargas das substâncias incluídas na Lista I do seu anexo; que o artigo 6 da referida directiva prevê a fixação de valors-limite para as normas de emissão e também a fixação de objectivos de qualidade para o meio aquático afectado pelas descargas destas substâncias;\n\nConsiderando que os Estados-membros devem aplicar os valores-limite excepto nos casos em que podem recorrer aos objectivos de qualidade;\n\nConsiderando que as substâncias perigosas referidas na presente directiva foram escolhidas sobretudo com base nos critérios definidos na Directiva 76/464/CEE;\n\nConsiderando que, uma vez que a poluição devida às descargas destas substâncias no meio aquático é provocada por um grande número de indústrias, é necessário fixar valores-limite específicos paras as descargas em função do tipo de indústria e fixar objectivos de qualidade para o meio aquático em que as substâncias são lançadas;\n\nConsiderando que a finalidade dos valores-limite e dos objectivos de qualidade é eliminar a poluição das diferentes partes do meio aquático susceptíveis de serem afectadas pela descarga de tais substâncias;\n\nConsiderando que é para este efeito que os valores-limite e os objectivos de qualidade devem ser fixados e não com a intenção de estabelecer regras para a protecção dos consumidores ou para a comercialização de produtos provenientes do meio aquático;\n\nConsiderando que, para que os Estados-membros possam comprovar que os obejectivos de qualidade estão a ser respeitados, convém prever o envio de relatórios à Comissão para cada objectivo de qualidade escolhido e aplicado;\n\nConsiderando que é necessário que os Estados-membros zelem para que as medidas tomadas em aplicação da presente directiva não provoquem uma maior poluição do solo ou do ar;\n\nConsiderando ainda que, para uma aplicação eficaz da presente directiva, há que prever a vigilância, por parte dos Estados-membros, do meio aquático afectado pelas descargas das substâncias acima referidas; que a Directiva 76//464/CEE não prevê poderes para instaurar tal vigilância; que não tendo sido previstos pelo Tratado poderes de acção específicos para este efeito convém recorrer ao artigo 235;\n\nConsiderando que, para certas fontes significativas de poluição por essas substâncias que não as fontes de descarga sujeita ao regime dos valores-limite comunitários ou das normas de emissão nacionais, é necessário estabelecer programas específicos para a eliminação da poluição; que a Directiva 76/464/CEE não prevê poderes de acção específicos para este fim; que, não tendo sido previstos pelo Tratado poderes de acção específicos para este efeito, convém recorrer ao artigo 235;\n\nConsiderando que as águas subterrâneas são objecto da Directiva 80/68/CEE do Conselho de 17 de Dezembro de 1979(5) e podem por- tanto ser excluídas do campo de aplicação da presente directiva;\n\nConsiderando que, para uma aplicação eficaz da presente directiva, importa que a Comissão transmita quinquenalmente ao Conselho uma avaliação comparada da sua aplicação pelos Estados-membros;\n\nConsiderando que a presente directiva terá de ser adaptada e completada, sob proposta da Comissão, de acordo com a evolução dos conhecimentos científicos, especialmente os relativos à toxicidade, à persistência e à acumulação das referidas substâncias nos organismos vivos e nos sedimentos, ou com o aperfeiçoamento de melhores meios técnicos disponíveis; considerando que, para o efeito é necessário prever completar a directiva com medidas relativas a outras substâncias perigosas, bem como modificar o conteúdo dos anexos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "4045b720efa09bd1": {
+   "fragment_id": "Artigo 1",
+   "type": "artigo",
+   "heading": "Artigo 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1\n\n1. A presente directiva:\n\n-fixa, nos termos do n° 1 do artigo 6 da Directiva 76/464/CEE, os valores-limite das normas de emissão das substâncias referidas na alínea a) do artigo 2 para as descargas provenientes de estabelecimentos industriais na acepção da alínea e) do artigo 2 da presente directiva,\n\n-fixa, nos termos do n° 2 do artigo 6 da Directiva 76/464/CEE, os objectivos de qualidade para o meio aquático no que respeita às substâncias referidas na alínea a) do artigo 2 da presente directiva,\n\n-fixa nos termos do n° 4 do artigo 6 da Directiva 76/464/CEE, os prazos prescritos para o respeito das condições previstas nas autorizações concedidas pelas autoridades competentes dos Estados-membros em relação às descargas existentes,\n\n-fixa, nos termos do n° 1 do artigo 12 da Directiva 76/464/CEE, os métodos de medição de referência que permitem determinar a concentração das substâncias referidas na alínea a) do artigo 2 da presente directiva nas descargas e no meio aquático,\n\n-estabelece, nos termos do n° 3 do artigo 6 da Directiva 76/464/CEE, um processo de controlo,\n\n-determina que os Estados-membros colaborem no caso de descargas que afectem as águas de vários Estados-membros,\n\n-determina que os Estados-membros elaborem programas destinados a evitar ou a eliminar a poluição proveniente das fontes referidas no artigo 5,\n\n-prevê no Anexo I uma série de disposições gerais aplicáveis ao conjunto das substâncias referidas na alínea a) do artigo 2, nomeadamente no que se refere aos valores-limite das normas de emissão (Rubrica A), aos objectivos de qualidade (Rubrica B) e aos métodos de medição de referência (Rubrica C),\n\n-prevê, no Anexo II, uma série de disposições específicas aplicáveis substância por substância, que promenorizam e completam aquelas rubricas.\n\n2. A presente directiva é aplicável às águas referidas no artigo 1 da Directiva 76/464/CEE, com excepção das águas subterrâneas."
+  },
+  "d6c9277dc150411b": {
+   "fragment_id": "Artigo 2",
+   "type": "artigo",
+   "heading": "Artigo 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2\n\nNa acepção da presente directiva, entende-se por:\n\na)« Substâncias »\n\nAs substâncias perigosas, escolhidas entre as famílias e os grupos de substâncias constantes da Lista I do Anexo da Directiva 76/464/CEE, e que figuram no Anexo II da presente directiva.\n\nb)« Valores-limite »\n\nOs valores fixados para cada uma das substâncias referidas na alínea a), que estão indicados na Rubrica A do Anexo II.\n\nc)« Objectivos de qualidade »\n\nAs exigências fixadas para cada uma das substâncias referidas na alínea a), que estão indicadas na Rubrica B do Anexo II.\n\nd)« Tratamento das substâncias »\n\nQualquer processo industrial que implique a produção, a transformação ou a utilização das substâncias referidas na alínea a) ou qualquer outro processo industrial a que seja inerente a presença dessas substâncias.\n\ne)« Estabelecimento industrial »\n\nQualquer estabelecimento em que se efectue o tratamento das substâncias referidas na alínea a) ou de quaisquer outras substâncias que contenham as substâncias referidas na alínea a).\n\nf)« Estabelecimento existente »\n\nQualquer estabelecimento industrial em actividade numa data doze meses após a data da notificação da presente directiva ou, se for caso disso, numa data doze meses após a data de notificação de qualquer directiva que a altere e que abranja tal estabelecimento.\n\ng)« Novo estabelecimento»,\n\n-qualquer estabelecimento industrial que iniciou a actividade doze meses após a data de notificação da presente directiva ou, se for caso disso, doze meses após a data de notificação de qualquer directiva que a altere e que abranja tal estabelecimento;\n\n-qualquer estabelecimento industrial existente cuja capacidade de tratamento das substâncias tenha sido significativamente aumentada doze meses após a data de notificação da presente directiva ou, se for caso disso, doze meses após a data de notificação de qualquer directiva que a altere e que abranja tal estabelecimento."
+  },
+  "bc0aaa14fbfdd348": {
+   "fragment_id": "Artigo 3",
+   "type": "artigo",
+   "heading": "Artigo 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3\n\n1. Os valores-limite, os prazos fixados para respeitar esses valores e o processo de vigilância e de controlo a aplicar às descargas são os indicados na Rubrica A dos anexos.\n\n2. Os valores-limite aplicam-se normalmente ao ponto em que as águas residuais contendo as substâncias referidas na alínea a) do artigo 2 saem do estabelecimento industrial.\n\nNos casos em que se considerar necessário, para certas substâncias, prever outros pontos de aplicação dos valores-limite, tais pontos serão fixados no Anexo II.\n\nSe as águas residuais que contêm essas substâncias forem tratadas fora do estabelecimento industrial, numa instalação de tratamento destinada à sua eliminação, o Estado- -membro pode permitir que os valores-limite sejam aplicados ao ponto em que as águas residuais saem da instalação de tratamento.\n\n3. As autorizações previstas no artigo 3 da Directiva 76/464/CEE devem conter disposições tão severas como as da Rubrica A dos anexos, salvo no caso de um Estado-membro dar cumprimento ao n° 3 do artigo 6 da referida directiva com base na Rubrica B dos anexos.\n\nEstas autorizações serão reanalisadas pelo menos de quatro em quatro anos.\n\n4. Sem prejuizo das suas obrigações que resultam dos n° 1, 2 e 3, bem como da Directiva 76/464/CEE, os Estados-membros só podem conceder autorizações para os novos estabelecimentos industriais se estes aplicarem as normas correspondentes aos melhores meios técnicos disponíveis, sempre que tal seja necessário para eliminar a poluição, nos termos do artigo 2 da referida directiva, ou para evitar distorções de concorrência.\n\nNo caso de, por razões técnicas, as medidas em perspectiva não correspondam aos melhores meios técnicos disponíveis, o Estado-membro fornecerá à Comissão a justificação dessas razões, antes de conceder qualquer autorização, qualquer que seja o método adoptado.\n\nA Comissão transmitirá imediatamente essa justificação aos Estados-membros e enviar-lhes-á, no mais curto prazo, o seu parecer sobre a derrogação referida no segundo parágrafo. Se necessário, apresentará simultaneamente propostas adequadas ao Conselho.\n\n5. O método de análise de referência a utilizar para determinar a presença das substâncias referidas na alínea a) do artigo 2 consta da Rubrica C do Anexo II. Podem ser utilizados outros métodos com a condição de os limites de detecção, a precisão e a exactidão de tais métodos serem pelo menos tão válidos como os dos que figuram na Rubrica C do Anexo.II.\n\n6. Os Estados-membros zelarão por que as medidas tomadas em aplicação da presente directiva não acarretem um aumento da poluição por essas substâncias noutros meios, designadamente no solo e no ar."
+  },
+  "c36b2bbd499206f5": {
+   "fragment_id": "Artigo 4",
+   "type": "artigo",
+   "heading": "Artigo 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4\n\nOs Estados-membros interessados assegurarão a vigilância do meio aquático afectado pelas descargas dos estabelecimentos industriais e por quaisquer outras fontes de descargas significativas.\n\nNo caso de descargas que afectem as águas de vários Estados-membros, os Estados-membros interessados colaborarão a fim de harmonizar os processos de vigilância."
+  },
+  "f17e635efcf89b4e": {
+   "fragment_id": "Artigo 5",
+   "type": "artigo",
+   "heading": "Artigo 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5\n\n1. Para as substâncias a que se faz referência especial no Anexo II, os Estados-membros estabelecerão programas específicos a fim de evitar ou eliminar a poluição proveniente de fontes importantes de tais substâncias (fontes múltiplas e difusas inclusive), que não sejam as submetidas ao regime de valores-limite comunitários ou de normas de emissão nacionais.\n\n2. Esses programas incluirão designadamente as medidas e técnicas mais adequadas para garantir a substituição, a retenção e/ou a reciclagem das substâncias referidas no n° 1.\n\nOs programas específicos devem entrar em vigor o mais tardar cinco anos a contar da data da notificação da directiva que visar especificamente a substância em questão."
+  },
+  "18cf23add6cafd22": {
+   "fragment_id": "Artigo 6",
+   "type": "artigo",
+   "heading": "Artigo 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6\n\n1. A Comissão procederá à avaliação comparativa da aplicação da presente directiva pelos Estados-membros, com base nas informações que por estes lhe sejam fornecidas, nos termos do artigo 13 da Directiva 76/464/CEE e a seu pedido, apresentado caso por caso, em especial no que se refere:\n\n-aos pormenores relativos às autorizações que fixam as normas de emissão para as descargas das substâncias,\n\n-ao inventário das descargas das substâncias nas águas a que se refere o n° 2 do artigo 1,\n\n-à observância dos valores-limite ou dos objectivos de qualidade, fixados nas Rubricas A e B do Anexo II,\n\n-aos resultados da vigilância, referida no artigo 4, da região do meio aquático afectada pelas descargas,\n\n-aos programas específicos de eleminação referidos no artigo 5.\n\n2. A Comissão transmitirá ao Conselho a avaliação comparativa referida no n° 1 de cinco em cinco anos e, pela primeira vez, quatro anos a contar da notificação da presente directiva.\n\n3. Em caso de modificação dos conhecimentos científicos relativos principalmente à toxicidade, à persistência e à acumulação das substâncias referidas na alínea a) do artigo 2 nos organismos vivos e nos sedimentos, ou em caso de aperfeiçoamento dos meios técnicos disponíveis, a Comissão apresentará ao Conselho propostas adequadas destinadas a reforçar, se necessário, os valores-limite e os objectivos de qualidade, ou a fixar novos valores-limite e objectivos de qualidade suplementares."
+  },
+  "b916d6bd81a28d53": {
+   "fragment_id": "Artigo 7",
+   "type": "artigo",
+   "heading": "Artigo 7",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7\n\n1. Os Estados-membros porão em vigor as medidas necessárias para dar cumprimento à presente directiva antes de 1 de Janeiro de 1988. De tal facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão, imediatamente após a sua adopção, o texto das disposições de direito interno que adoptarem na área regida pela presente directiva."
+  },
+  "2d4039d5bced84c1": {
+   "fragment_id": "Artigo 8",
+   "type": "artigo",
+   "heading": "Artigo 8",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo, em 12 de Junho de 1986.\n\nPelo ConselhoO PresidenteP. WINSEMIUS\n\n(1)JO n° L 129 de 18. 5. 1976, p. 23.\n\n(2)JO n° C 70 de 18. 3. 1985, p. 15.\n\n(3)JO C 120 de 20. 5. 1986.\n\n(4)JO n° C 188 de 29. 7. 1985, p. 19.\n\n(5)JO n° L 20 de 26. 1. 1980, p. 43."
+  },
+  "6cd80538da7cbc6f": {
+   "fragment_id": "ANEXO I DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "ANEXO I DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I DISPOSIÇÕES GERAIS\n\nO presente anexo é constituído por três rubricas que contêm disposições gerais aplicáveis às substâncias:\n\n-Rubrica A: Valores-limite das normas de emissão,\n\n-Rubrica B: Objectivos de qualidade,\n\n-Rubrica C: Métodos de medição de referência.\n\nAs disposições gerais são referidas em pormenor e completadas no Anexo II por uma série de disposições específicas aplicáveis substância por substância.\n\nRUBRICA A Valores-limite e datas fixados para o respeito por esses valores e processos de vigilância e de controlo a aplicar às descargas 1.Os valores-limite e as datas fixadas para o respeito por esses valores para os diferentes tipos de estabelecimentos industriais interessados vão indicados na Rubrica A do Anexo II.\n\n2.As quantidades de substâncias descarregadas são expressas em função da quantidade de substâncias produzidas, transformadas ou utilizadas pelo estabelecimento industrial durante o mesmo período ou, nos termos do n° 1 do artigo 6 da Directiva 76/464/CEE, em função de qualquer outro parâmetro característico da respectiva actividade.\n\n3.Os valores-limite para os estabelecimentos industriais que descarregam substâncias referidas na alínea a) do artigo 2 e não mencionados na Rubrica A do Anexo II serão fixados pelo Conselho numa fase posterior, em caso de necessidade. Entretanto, os Estados-membros fixarão normas de emissão para as descargas dessas substâncias, de forma autónoma e nos termos da Directiva 76/464/CEE. Tais normas devem ter em conta os melhores meios técnicos disponíveis e não devem ser menos severas do que o valor-limite mais comparável previsto na Rubrica A do Anexo II.\n\nAs disposições do presente número aplicam-se também sempre que um estabelecimento industrial se dedique a actividades diferentes daquelas para as quais a Rubrica A do Anexo II fixa valores-limite e que possam estar na origem de descargas das substâncias referidas na alínea a) do artigo 2.\n\n4.Na Rubrica A do Anexo II vão indicados os valores-limite expressos em termos de concentração, que, em princípio, não devem ser ultrapassados, para os estabelecimentos industriais interessados. Em qualquer caso, os valores-limite expressos em concentrações máximas quando não sejam os únicos valores aplicáveis, não podem ser superiores aos valores-limite expressos em peso divididos pelas carências de água por elemento característico da actividade poluente. Todavia, dado que a concentração dessas substâncias nos efluentes depende do volume de água envolvido, que difere consoante os processos e estabelecimentos industriais, devem sempre respeitar-se os valores-limite expressos em peso de substâncias descarregadas em relação aos parâmetros característicos da actividade que constam da Rubrica A do Anexo II.\n\n5.Para verificar se as descargas das substâncias referidas na alínea a) do artigo 2 satisfazem as normas de emissão, deve ser instituído um processo de controlo.\n\nEsse processo deve prever a colheita e a análise de amostras, a medição dos caudais de descarga e da quantidade de substâncias tratadas ou, se for caso disso, a medição dos parâmetros característicos da actividade poluente constantes da Rubrica A do Anexo II.\n\nEm especial se a quantidade das substâncias tratadas for impossível de determinar, o processo de controlo pode basear-se na quantidade de substâncias que pode ser utilizada em função da capacidade de produção em que se fundamenta a autorização.\n\n6.Deve colher-se uma amostra representativa da descarga durante um período de 24 horas. A quantidade de substâncias descarregadas no decurso de um mês deve ser calculada com base nas quantidades de substâncias descarregadas diariamente.\n\nO Anexo II pode, contudo, fixar, para os desperdícios de certas substâncias, um limiar de quantidade abaixo do qual os Estados-membros podem aplicar um processo de controlo simplificado.\n\n7.As colheitas e a medição do caudal previstos no n° 5 far-se-ão normalmente no ponto a que se aplicam os valores-limite nos termos do n° 2 do artigo 3 da presente directiva.\n\nTodavia, sempre que tal seja necessário para garantir que as medições conservem a qualidade requerida pela Rubrica C dos anexos, o Estado-membro pode permitir que essas colheitas e a medição do caudal sejam realizadas noutro ponto, situado antes do ponto a que se aplicam os valores-limite, na condição de:\n\n-todas as águas do estabelecimento industrial susceptíveis de serem poluídas pela substância em questão serem tidas em conta nessas medições,\n\n-serem feitas campanhas de verificação regulares que provem que as medições são efectivamente representativas das quantidades descarregadas no ponto a que se aplicam os valores-limite ou que são sempre superiores a estas.\n\nRUBRICA B Objectivos de qualidade, prazos fixados para o seu cumprimento e processo de vigilância e de controlo dos objectivos de qualidade 1.Para os Estados-membros que recorrem à excepção referida no n° 3 do artigo 6 da Directiva 76/464/CEE, as normas de emissão que os Estados-membros devem estabelecer e fazer aplicar nos termos do artigo 5 desta última directiva serão fixadas de forma a que na região geográfica afectada pelas descargas das substâncias referidas na alínea a) do artigo 2 seja(m) respeitado(s) o(s) objectivo(s) de qualidade adequado(s), de entre os que são fixados por força do disposto nos n° 2 e 3. A autoridade competente designará a região afectada em cada caso e seleccionará, de entre os objectivos de qualidade fixados por força do disposto nos n° 2 e 3 aquele(s) que considerar adequado(s), tendo presente a utilização da região geográfica afectada e tendo em conta que o objectivo da presente directiva é eliminar qualquer poluição.\n\n2.Com o objectivo de eliminar a poluição, tal como definida na Directiva 76/464/CEE e em execução do artigo 2 da mesma, fixam-se na Rubrica B do Anexo II os objectivos de qualidade e os respectivos prazos de execução.\n\n3.Salvo disposições específicas em contrário e constantes da Rubrica B do Anexo II, todas as concentrações mencionadas como objectivos de qualidade se referem à média aritmética dos resultados obtidos durante um ano.\n\n4.Sempre que sejam aplicados vários objectivos de qualidade às águas de uma região, a qualidade dessas águas deverá ser suficiente para cumprir cada um desses objectivos.\n\n5.Para qualquer autorização concedida nos termos da presente directiva, a autoridade competente especificará as prescrições, as modalidades de vigilância e os prazos para garantir o cumprimento do ou dos objectivos de qualidade em causa.\n\n6.Nos termos do n° 3 do artigo 6 da Directiva 76/464/CEE, para cada objectivo de qualidade escolhido e aplicado, o Estado-membro apresentará à Comissão um relatório sobre:\n\n-os pontos de descarga e o dispositivo de dispersão,\n\n-a região geográfica em que é aplicado o objectivo de qualidade,\n\n-a localização dos pontos de colheita de amostras,\n\n-a frequência de amostragem,\n\n-os métodos de amostragem e de medição,\n\n-os resultados obtidos.\n\n7.As amostras devem ser colhidas num ponto suficientemente próximo do ponto de descarga para serem representativas da qualidade do meio aquático na região afectada por essas descargas, e a frequência de amostragem deve ser suficiente para pôr em evidência as eventuais modificações do meio aquático, tendo designadamente em conta quaisquer variações naturais do regime hidrológico.\n\nRUBRICA C Métodos de medição de referência e limite de detecção 1.As definições que figuram na Directiva 79/869/CEE do Conselho, de 9 de Outubro de 1979, relativa aos métodos de medida e à frequência das amostragens e da análise das águas superficiais destinadas à produção de água potável nos Estados-membros(1) são aplicáveis no âmbito da presente directiva.\n\n2.Os métodos de medição de referência para determinar a concentração das substâncias referidas e o limite de detecção para cada um dos meios abrangidos vão fixados na Rubrica C do Anexo II.\n\n3.O limite de detecção, a exactidão e a precisão do método por substância vão fixados na Rubrica C do Anexo II.\n\n4.A medição do caudal dos efluentes deve ser efectuada com uma exactidão de ± 20 %.\n\n(1)JO n° L 271 de 29. 10. 1979, p. 44."
+  },
+  "4d84c0fe3acde217": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nDISPOSIÇÕES ESPECÍFICAS 1.Relativas ao tetracloreto de carbono 2.Relativas ao DDT 3.Relativas ao pentaclorofenol A numeração das substâncias mencionadas no presente anexo corresponde à da lista de 129 substâncias que consta da comunicação da Comissão ao Conselho de 22 de Junho de 1982(1).\n\nAs substâncias a inserir posteriormente no presente anexo e que não constam da lista acima mencionada serão numeradas por ordem cronológica da sua inclusão, começando no n° 130.\n\nI. DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO TETRACLORETO DE CARBONO (n° 13)(1) CAS - 56-23-5(2) >POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\nRubrica C (13): Método de medição de referência 1. O método de medição de referência para a determinação do tetracloreto de carbono nos efluentes e nas águas é a cromatografia em fase gasosa.\n\nDeve utilizar-se um detector sensível sempre que a concentração seja inferior a 0,5 mg/l e, neste caso, o limite de determinação(1) será de 0,1 ìg/l. Para uma concentração superior a 0,5 mg/l, é adequado um limite de determinação(1) de 0,1 mg/l.\n\n2. A exactidão e a precisão do método devem ser de ± 50 % para uma concentração que represente duas vezes o valor do limite de determinação(1).\n\nII. Disposições específicas relativas ao DDT (n° 46)(1) (2) CAS - 50-29-3(3) STANDSTILL:A concentração de DDT nas águas, nos sedimentos e/ou nos moluscos e/ou nos crustáceos e/ou nos peixes não deve aumentar significativamente com o tempo.\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\nRubrica C (46): Método de medição de referência 1.O método de medição de referência para a determinação do DDT nos efluentes e nas águas é a cromatografia em fase gasosa com detecção por captura de electrões após extracção por solvente apropriado. O limite de determinação(1) para o DDT é de cerca de 4 ng/l para as águas e 1 ìg/l para os efluentes, consoante o número de substâncias parasitas presentes na amostra.\n\n2.O método de referência para a determinação do DDT nos sedimentos e nos organismos é a cromatografia em fase gasosa com detecção por captura de electrões após preparação adequada da amostra. O limite de determinação(1) é de 1 ìg/kg.\n\n3.A exactidão e a precisão do método devem ser de ± 50 % para uma concentração que represente duas vezes o valor limite de determinação(1).\n\nIII. Disposições específicas relativas ao pentaclorofenol (n 102)(1) (2) CAS - 87-86-5(3) STANDSTILL:A concentração de PCP nos sedimentos e/ou nos moluscos e/ou nos crustáceos e/ou nos peixes não deve aumentar significativamente com o tempo.\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\nRubrica C (102): Método de medição de referência 1.O método de medição de referência para a determinação do pentaclorofenol nos efluentes e nas águas é a cromatografia em fase líquida a alta pressão ou a cromatografia em fase gasosa com detecção por captura de electrões após extracção por solvente apropriado. O limite de dèterminação (1) é de 2 ìg/l para os efluentes e de 0,1 ìg/l para as águas.\n\n2.O método de referência para a determinação do pentaclorofenol nos sedimentos e nos organismos é a cromatografia em fase líquida a alta pressão ou a cromatografia em fase gasosa com detecção por captura de electrões após preparação adequada da amostra. O limite de determinação(1) é de 1 ìg/kg.\n\n3.A exactidão e a precisão do método devem ser de ± 50 % para uma concentração que represente duas vezes o valor do limite de determinação(2) (1)JO n° C 176 de 14. 7. 1982, p. 3.\n\n(1)O artigo 5 aplica-se, nomeadamente, à utilização do tetracloreto de carbono nas lavandarias industriais.\n\n(2)Número CAS. (Chemical Abstract Service).\n\n(1)Por limite de determinação xg de uma dada substância, entende-se a mais pequena quantidade quantitativamente determinável numa amostra com base num dado método de trabalho e diferente de zero.\n\n(1)A soma dos isómetros 1,1,1,-tricloro-2,2 bis (p-clorofenil) etano;\n\n1,1,1-tricloro-2-(o-clorofenil)-2-(p-clorofenil) etano;\n\n1,1,1-dicloro-2,2 bis (p-clorofenil) etileno; e 1,1,1-dicloro-2,2 bis (p-clorofenil) etano.\n\n(2)O artigo 5 aplica-se ao DDT na medida em que sejam identificadas outras fontes que não as mencionadas no presente anexo.\n\n(3)Número C.A.S. (Chemical Abstract Service).\n\n(1)Por limite de determinação xg de uma dada substância entende-se a mais pequena quantidade quantitativamente determinável numa amostra com base num dado método de trabalho e diferente de zero.\n\n(1)O composto químico 2, 3, 4, 5, 6-pentacloro-1 hidroxibenzeno e os respectivos sais.\n\n(2)O artigo 5 aplica-se ao pentaclorofenol e, nomeadamente, à sua utilização no tratamento da madeira.\n\n(3)Número C.A.S. (Chemical Abstract Service).\n\n(1)Por limite de determinação xg de uma dada substância entende-se a mais pequena quantidade quantitativamente determinável numa amostra com base num dado método de trabalho e diferente de zero."
+  },
+  "868e27850a76aa6a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1986L0280 — PT — 13.01.2009 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/386L0280) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/386L0280) [de 12 de Junho de 1986](http://publications.europa.eu/resource/celex/386L0280) [relativa aos valores-limite e aos objectivos de qualidade para as descargas de certas substâncias perigosas incluídas na lista I do Anexo da Directiva 76/464/CEE](http://publications.europa.eu/resource/celex/386L0280) [(86/280/CEE)](http://publications.europa.eu/resource/celex/386L0280) (JO L 181, 4.7.1986, p.16)\n\n**revogado por:**"
+  },
+  "05bf25d204df4939": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1986L0280 — PT — 22.12.2012 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31986L0280) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31986L0280) [de 12 de Junho de 1986](http://publications.europa.eu/resource/celex/31986L0280) [relativa aos valores-limite e aos objectivos de qualidade para as descargas de certas substâncias perigosas incluídas na lista I do Anexo da Directiva 76/464/CEE](http://publications.europa.eu/resource/celex/31986L0280) [(86/280/CEE)](http://publications.europa.eu/resource/celex/31986L0280) (JO L 181, 4.7.1986, p.16)\n\n**revogado por:**\n\n- [Directiva 2008/105/CE do Parlamento Europeu e do Conselho de 16 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008L0105) — L 348 — 84 — 24.12.2008"
+  }
+ }
+}

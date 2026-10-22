@@ -35,6 +35,31 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-11-24'
+version_history:
+  file: diretiva-ue-2005-66.versoes.json
+  count: 2
+  source_lastmod: '2009-11-24'
+  versions:
+  - date: '2005-11-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-11-24'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Disposições relativas à homologação
+    - Suprime Artigo 4.º — Medidas de execução e alterações
+    - Suprime Artigo 5.º — Revisão
+    - Suprime Artigo 6.º — Alterações à Directiva 70/156/CEE
+    - Suprime Artigo 7.º — Transposição
+    - Suprime Artigo 8.º — Unidades técnicas autónomas
+    - Suprime Artigo 9.º — Entrada em vigor
+    - Suprime Artigo 10.º — Destinatários
+    - Suprime Notas
 identifiers:
   celex: 32005L0066
   eli: http://data.europa.eu/eli/dir/2005/66/oj
@@ -49,7 +74,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/486ef4e0-8db1-45b9-99e6-9fd7b9191874.0017
   content_url: http://publications.europa.eu/resource/cellar/15fa020e-7826-46d9-8059-eee73d30dccd.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0066-20091124
-  retrieved_at: '2026-10-22T02:57:59Z'
+  retrieved_at: '2026-10-22T14:59:37Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T16:16:19.791+01:00'
 integrity:
@@ -58,9 +83,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:59Z'
-  notes: Texto consolidado 02005L0066-20091124.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:37Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2005-66.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -119,16 +144,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:59Z'
+  checked_at: '2026-10-22T14:59:37Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02005L0066-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

@@ -34,6 +34,140 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-04-29'
+version_history:
+  file: diretiva-ue-1970-156.versoes.json
+  count: 4
+  source_lastmod: '2009-04-29'
+  versions:
+  - date: '1970-02-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-08-15'
+    amending: eu:celex:31978L0315:por
+    amending_title: M1; M2; M3; M4; M5; DIRECTIVA 92/53/CEE DO CONSELHO de 18 de Junho de 1992; M7; M8; M9; M10; M11; DIRECTIVA
+      98/14/CE DA COMISSÃO de 6 de Fevereiro de 1998; M13; M14; M15; M16; DIRECTIVA 2001/116/CE DA COMISSÃO de 20 de Dezembro
+      de 2001; DIRECTIVA 2001/85/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Novembro de 2001; REGULAMENTO (CE) N. o 807/2003
+      DO CONSELHO de 14 de Abril de 2003; DIRECTIVA 2003/102/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de Novembro de 2003;
+      DIRECTIVA 2003/97/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de Novembro de 2003; M22; DIRECTIVA 2004/78/CE DA COMISSÃO
+      de 29 de Abril de 2004; DIRECTIVA 2004/104/CE DA COMISSÃO de 14 de Outubro de 2004; DIRECTIVA 2005/49/CE DA COMISSÃO
+      de 25 de Julho de 2005; ACTO relativo às condições de adesão e às adaptações dos Tratados; ACTE relatif aux conditions
+      d'adhésion de la République hellénique et aux adaptations des traités; ACTO relativo às condições de adesão do Reino
+      de Espanha e da República Portuguesa e às adaptações dos tratados; ACTO (94/C 241/08); ACTO relativo às condições de
+      adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da
+      Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República
+      Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º — Âmbito de aplicação
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 3.º — Pedido de [►C4](http://publications.europa.eu/resource/celex/31992L0053R%2803%29) homologação◄
+    - Adita Artigo 4.º — O processo de [►C4](http://publications.europa.eu/resource/celex/31992L0053R%2803%29) homologação◄
+    - Adita Artigo 5.º — Alteração das recepções
+    - Adita Artigo 6.º — Certificado de conformidade
+    - Adita Artigo 7.º — Matrícula e entrada em serviço
+    - Adita Artigo 8.º — Isenções e procedimentos alternativos
+    - Adita Artigo 9.º — Aceitação de [►C4](http://publications.europa.eu/resource/celex/31992L0053R%2803%29) homologações◄
+      equivalentes
+    - Adita Artigo 10.º — Disposições relativas à conformidade da produção
+    - Adita Artigo 11.º — Não conformidade com o modelo [►C4](http://publications.europa.eu/resource/celex/31992L0053R%2803%29)
+      homologado◄
+    - Adita Artigo 12.º — Notificação das decisões e vias de recurso
+    - Adita Artigo 13.º — Adaptação dos anexos
+    - Adita Artigo 14.º — Notificação relativa às autoridades competentes em matéria de [►C4](http://publications.europa.eu/resource/celex/31992L0053R%2803%29)
+      homologação◄ e aos serviços técnicos
+    - Adita LISTA DE ANEXOS
+    - Adita ANEXO I (ª)
+    - Adita ANEXO II
+    - Adita DEFINIÇÃO DAS CATEGORIAS E MODELOS DE VEÍCULOS
+    - Adita A. DEFINIÇÃO DE CATEGORIA DE VEÍCULO
+    - Adita B. DEFINIÇÃO DE MODELO DE VEÍCULO
+    - Adita C. DEFINIÇÃO DE TIPO DE CARROÇARIA
+    - Adita (apenas para veículos completos/completados)
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Adita LISTA DE REQUISITOS PARA EFEITOS DE HOMOLOGAÇÃO CE DE UM MODELO DE VEÍCULO
+    - Adita PARTE I
+    - Adita PARTE II
+    - Adita ANEXO V
+    - Adita PROCEDIMENTOS A SEGUIR DURANTE O PROCESSO DE HOMOLOGAÇÃO CE DE UM MODELO DE VEÍCULO
+    - Adita ANEXO VI
+    - Adita ANEXO VII
+    - Adita SISTEMA DE NUMERAÇÃO DOS CERTIFICADOS DE HOMOLOGAÇÃO CE ([^5^](http://publications.europa.eu/resource/cellar/d1386acf-32d2-4d53-b12f-813b4349aebb.0010.03/DOC_12#E0014))
+    - Adita ANEXO VIII
+    - Adita ANEXO IX
+    - Adita ANEXO X
+    - Adita CONFORMIDADE DOS PROCESSOS DE PRODUÇÃO
+    - Adita 0. CONFORMIDADE DA PRODUÇÃO
+    - Adita 1. AVALIAÇÃO INICIAL
+    - Adita 2. DISPOSIÇÕES RELATIVAS À CONFORMIDADE DO PRODUTO
+  - date: '2005-12-15'
+    amending: eu:celex:32005L0064:por
+    amending_title: DIRECTIVA 2005/64/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de Outubro de 2005; DIRECTIVA 2005/66/CE
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de Outubro de 2005
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 13.º — Adaptação dos anexos
+    - Altera ANEXO I (ª)
+    - Altera ANEXO III
+    - Altera PARTE I
+    - Altera 0. CONFORMIDADE DA PRODUÇÃO
+    - Altera 1. AVALIAÇÃO INICIAL
+    - Altera Autocaravanas, ambulâncias e carros funerários
+    - Altera Veículos blindados
+    - Altera Outros veículos para fins específicos (incluindo caravanas)
+    - Altera A. LIMITES DAS PEQUENAS SÉRIES
+    - Altera 2. PROCEDIMENTOS
+    - Altera Notas
+    - Adita SISTEMA DE NUMERAÇÃO DOS CERTIFICADOS DE HOMOLOGAÇÃO CE ([^5^](http://publications.europa.eu/resource/cellar/591f7124-93ff-405c-b228-8055917a94ec.0010.03/DOC_20#E0014))
+    - Suprime SISTEMA DE NUMERAÇÃO DOS CERTIFICADOS DE HOMOLOGAÇÃO CE ([^5^](http://publications.europa.eu/resource/cellar/d1386acf-32d2-4d53-b12f-813b4349aebb.0010.03/DOC_12#E0014))
+  - date: '2009-04-29'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Pedido de [►C4](http://publications.europa.eu/resource/celex/31992L0053R%2803%29) homologação◄
+    - Suprime Artigo 4.º — O processo de [►C4](http://publications.europa.eu/resource/celex/31992L0053R%2803%29) homologação◄
+    - Suprime Artigo 5.º — Alteração das recepções
+    - Suprime Artigo 6.º — Certificado de conformidade
+    - Suprime Artigo 7.º — Matrícula e entrada em serviço
+    - Suprime Artigo 8.º — Isenções e procedimentos alternativos
+    - Suprime Artigo 9.º — Aceitação de [►C4](http://publications.europa.eu/resource/celex/31992L0053R%2803%29) homologações◄
+      equivalentes
+    - Suprime Artigo 10.º — Disposições relativas à conformidade da produção
+    - Suprime Artigo 11.º — Não conformidade com o modelo [►C4](http://publications.europa.eu/resource/celex/31992L0053R%2803%29)
+      homologado◄
+    - Suprime Artigo 12.º — Notificação das decisões e vias de recurso
+    - Suprime Artigo 13.º — Adaptação dos anexos
+    - Suprime Artigo 14.º — Notificação relativa às autoridades competentes em matéria de [►C4](http://publications.europa.eu/resource/celex/31992L0053R%2803%29)
+      homologação◄ e aos serviços técnicos
+    - Suprime LISTA DE ANEXOS
+    - Suprime ANEXO I (ª)
+    - Suprime ANEXO II
+    - Suprime DEFINIÇÃO DAS CATEGORIAS E MODELOS DE VEÍCULOS
+    - Suprime A. DEFINIÇÃO DE CATEGORIA DE VEÍCULO
+    - Suprime B. DEFINIÇÃO DE MODELO DE VEÍCULO
+    - Suprime C. DEFINIÇÃO DE TIPO DE CARROÇARIA
+    - Suprime (apenas para veículos completos/completados)
+    - Suprime ANEXO III
+    - Suprime ANEXO IV
+    - Suprime LISTA DE REQUISITOS PARA EFEITOS DE HOMOLOGAÇÃO CE DE UM MODELO DE VEÍCULO
+    - Suprime PARTE I
+    - Suprime PARTE II
+    - Suprime ANEXO V
+    - Suprime PROCEDIMENTOS A SEGUIR DURANTE O PROCESSO DE HOMOLOGAÇÃO CE DE UM MODELO DE VEÍCULO
+    - Suprime ANEXO VI
+    - Suprime ANEXO VII
+    - Suprime SISTEMA DE NUMERAÇÃO DOS CERTIFICADOS DE HOMOLOGAÇÃO CE ([^5^](http://publications.europa.eu/resource/cellar/591f7124-93ff-405c-b228-8055917a94ec.0010.03/DOC_20#E0014))
+    - Suprime ANEXO VIII
+    - Suprime ANEXO IX
+    - Suprime ANEXO X
+    - Suprime CONFORMIDADE DOS PROCESSOS DE PRODUÇÃO
+    - Suprime 0. CONFORMIDADE DA PRODUÇÃO
+    - Suprime 1. AVALIAÇÃO INICIAL
+    - Suprime 2. DISPOSIÇÕES RELATIVAS À CONFORMIDADE DO PRODUTO
 identifiers:
   celex: 31970L0156
   eli: http://data.europa.eu/eli/dir/1970/156/oj
@@ -48,7 +182,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/33214808-2cf0-4970-9dec-8f8843c3468d.0011
   content_url: http://publications.europa.eu/resource/cellar/6ec18193-b265-4a7d-8c98-b24c6102af05.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01970L0156-20090429
-  retrieved_at: '2026-10-22T02:34:53Z'
+  retrieved_at: '2026-10-22T14:31:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T10:59:42.985+01:00'
 integrity:
@@ -57,9 +191,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:34:53Z'
-  notes: Texto consolidado 01970L0156-20090429.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:31:23Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1970-156.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -514,16 +648,37 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:34:53Z'
+  checked_at: '2026-10-22T14:31:23Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01970L0156-19920702: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0156-19931011: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0156-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0156-19951128: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0156-19960728: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0156-19970210: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0156-19970914: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0156-19980414: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0156-19990116: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0156-20000810: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0156-20011109: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0156-20011128: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0156-20020210: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0156-20020213: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0156-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0156-20031207: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0156-20040129: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0156-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0156-20041203: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01970L0156-20060327: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01970L0156-20060704: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01970L0156-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01970L0156-20070712: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

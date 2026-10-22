@@ -1,0 +1,39 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31980L0590:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01980L0590-20041203",
+ "dre_path": null,
+ "source_lastmod": "2004-12-03",
+ "versions": [
+  {
+   "date": "1980-06-19",
+   "future": false,
+   "celex": "31980L0590",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2004-12-03",
+   "future": false,
+   "celex": "01980L0590-20041203",
+   "acts": [],
+   "changes": [
+    "Adita preambulo"
+   ],
+   "fragments": [
+    "c455d4ffab52c87e"
+   ]
+  }
+ ],
+ "fragments": {
+  "c455d4ffab52c87e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1980L0590 — PT — 03.12.2004 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31980L0590) [DIRECTIVA DA COMISSÃO](http://publications.europa.eu/resource/celex/31980L0590) [de 9 de Junho de 1980](http://publications.europa.eu/resource/celex/31980L0590) [que determina o símbolo que pode acompanhar os materiais e objectos destinados a entrar em contacto com os géneros alimentícios](http://publications.europa.eu/resource/celex/31980L0590) [(80/590/CEE)](http://publications.europa.eu/resource/celex/31980L0590) (JO L 151, 19.6.1980, p.21)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1935/2004 do Parlamento Europeu e do Conselho, de 27 de Outubro de 2004,](http://publications.europa.eu/resource/celex/32004R1935) — L 338 — 4 — 13.11.2004"
+  }
+ }
+}

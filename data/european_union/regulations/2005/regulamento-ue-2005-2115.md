@@ -35,6 +35,52 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-06-17'
+version_history:
+  file: regulamento-ue-2005-2115.versoes.json
+  count: 4
+  source_lastmod: '2019-06-17'
+  versions:
+  - date: '2006-06-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-16'
+    amending: eu:celex:32009R1197:por
+    amending_title: REGULAMENTO (CE) N. o 1197/2009 DO CONSELHO de 30 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Autorizações de pesca especiais para a unidade populacional de alabote da Gronelândia
+    - Altera Artigo 6.º — Comunicações
+    - Altera Artigo 7.º — Margem de tolerância nas estimativas das quantidades indicadas no diário de bordo
+    - Altera Artigo 12.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 5.º-A — Entrada na Área de Regulamentação da NAFO
+  - date: '2011-01-01'
+    amending: eu:celex:32009R1224:por
+    amending_title: REGULAMENTO (CE) N. o 1224/2009 do Conselho de 20 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Autorizações de pesca especiais para a unidade populacional de alabote da Gronelândia
+    - Altera Notas
+    - Suprime Artigo 7.º — Margem de tolerância nas estimativas das quantidades indicadas no diário de bordo
+  - date: '2019-06-17'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Totais admissíveis de capturas (TAC)
+    - Suprime Artigo 4.º — Proibição aplicável ao alabote da Gronelândia
+    - Suprime Artigo 5.º — Autorizações de pesca especiais para a unidade populacional de alabote da Gronelândia
+    - Suprime Artigo 5.º-A — Entrada na Área de Regulamentação da NAFO
+    - Suprime Artigo 6.º — Comunicações
+    - Suprime Artigo 8.º — Portos designados
+    - Suprime Artigo 9.º — Notificação prévia
+    - Suprime Artigo 10.º — Inspecções nos portos
+    - Suprime Artigo 11.º — Proibição de desembarcar e transbordar aplicável aos navios de partes não contratantes
+    - Suprime Artigo 12.º — Entrada em vigor
+    - Suprime Notas
 identifiers:
   celex: 32005R2115
   eli: http://data.europa.eu/eli/reg/2005/2115/oj
@@ -49,7 +95,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/13881b70-41b3-4637-be99-aa35ca3cff89.0016
   content_url: http://publications.europa.eu/resource/cellar/7282e4dc-98c9-11e9-b2f2-01aa75ed71a1.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R2115-20190617
-  retrieved_at: '2026-10-22T02:47:44Z'
+  retrieved_at: '2026-10-22T15:00:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T02:00:18.839+01:00'
 integrity:
@@ -58,9 +104,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:44Z'
-  notes: Texto consolidado 02005R2115-20190617.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:00:58Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2005-2115.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -150,16 +196,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:44Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:00:58Z'
+  warnings: []
   errors: []
 ---
 

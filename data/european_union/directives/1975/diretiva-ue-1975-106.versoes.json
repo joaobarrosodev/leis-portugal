@@ -1,0 +1,159 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31975L0106:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01975L0106-20090411",
+ "dre_path": null,
+ "source_lastmod": "2009-04-11",
+ "versions": [
+  {
+   "date": "1975-02-15",
+   "future": false,
+   "celex": "31975L0106",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cc99cece0d91450e",
+    "b239b0322f88653a",
+    "652f732d2b98b612",
+    "de6de0754be49ca2",
+    "a7d6a1a492a8cb20",
+    "bd0cd77dce83bddc",
+    "dd0637d4c766dedf",
+    "163813f65c685bc8",
+    "28469b06fe9fef2e",
+    "8f004e8a6578e959",
+    "ede9a2fa0a6bfe19",
+    "32a0981da144a63b"
+   ]
+  },
+  {
+   "date": "2009-04-11",
+   "future": false,
+   "celex": "01975L0106-20090411",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime ANEXO III"
+   ],
+   "fragments": [
+    "4932144fbad92f8d"
+   ]
+  }
+ ],
+ "fragments": {
+  "cc99cece0d91450e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 75/106/CEE do Conselho, de 19 de Dezembro de 1974, relativa à aproximação das legislações dos Estados-Membros respeitantes ao pré-acondicionamento em volume de certos líquidos em pré-embalagens** *Jornal Oficial nº L 042 de 15/02/1975 p. 0001 - 0013 Edição especial finlandesa: Capítulo 15 Fascículo 1 p. 0201 Edição especial grega: Capítulo 13 Fascículo 3 p. 0032 Edição especial sueca: Capítulo 15 Fascículo 1 p. 0201 Edição especial espanhola: Capítulo 13 Fascículo 4 p. 0054 Edição especial portuguesa: Capítulo 13 Fascículo 4 p. 0054*\n\nDIRECTIVA DO CONSELHO de 19 de Dezembro de 1974 relativa à aproximação das legislações dos Estados-membros respeitantes ao pré-acondicionamento em volume de certos líquidos em pré-embalagens\n\n(75/106/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que, na maior parte dos Estados-membros, as condições de apresentação à venda de líquidos em embalagens preparadas previamente e fechadas são objecto de disposições regulamentares imperativas que diferem de um Estado-membro para outro e entravam, assim, o comércio destas pré-embalagens; que é, por isso, necessário proceder à aproximação destas disposições;\n\nConsiderando que, para permitir uma informação correcta dos consumidores, é conveniente indicar o modo de acordo com o qual devem ser apostas nas pré-embalagens as indicações relativas ao volume nominal do líquido contido na pré-embalagem;\n\nConsiderando que é igualmente necessário especificar os erros máximos admissíveis no conteúdo das pré-embalagens e que, a fim de facilitar o controlo da conformidade das pré-embalagens com as disposições previstas, é conveniente definir um método de referência para este controlo;\n\nConsiderando que é conveniente reduzir tanto quanto possível, para um dado produto, as capacidades muito próximas susceptíveis de induzirem em erro o consumidor; que, no entanto, dado o número extremamente elevado de existências de pré-embalagens na Comunidade, só se pode proceder a esta redução progressivamente;\n\nConsiderando que a Directiva 71/316/CEE do Conselho, de 26 de Julho de 1971, relativa à aproximação das legislações dos Estados-membros respeitantes às disposições comuns sobre os instrumentos de medição e os métodos de controlo metrológico (3), com a última redacção que lhe foi dada pelo Acto de Adesão (4), prevê, no seu artigo 16o, que a harmonização das condições de comercialização de certos produtos, nomeadamente no que respeita à fixação, medição e marcação das quantidades pré-acondicionadas, pode ser objecto de directivas especiais;\n\nConsiderando que, para certos Estados-membros, uma alteração rápida do princípio de enchimento prescrito pela respectiva legislação nacional e a organização de novos tipos de controlo, bem como a mudança de sistema de unidades, apresentam dificuldades; que, assim, é conveniente prever para estes Estados-membros um período de transição que não cause, no entanto, maiores entraves ao comércio intracomunitário dos produtos referidos e não comprometa a aplicação da directiva nos outros Estados-membros,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b239b0322f88653a": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva diz respeito às pré-embalagens que contêm os produtos líquidos enumerados no Anexo III, medidos em volume, tendo em vista a sua venda por quantidades unitárias iguais ou superiores a 0,05 litros e inferiores ou iguais a 5 litros."
+  },
+  "652f732d2b98b612": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Uma pré-embalagem, para efeitos do disposto na presente directiva, é o conjunto de um produto e da embalagem individual na qual é pré-embalado.\n\n2. Um produto considera-se pré-embalado quando é colocado numa embalagem, de qualquer natureza, fora da presença do comprador e de tal modo que a quantidade de produto contida na embalagem tenha um valor previamente determinado e não possa ser modificada sem alterar a embalagem."
+  },
+  "de6de0754be49ca2": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. As pré-embalagens que podem ser marcadas com o símbolo CEE previsto no ponto 3.3 do Anexo I são as que obedecem às prescrições dos Anexos I e III.\n\n2. As pré-embalagens são submetidas aos controlos metrológicos nas condições definidas no ponto 5 do Anexo I e no Anexo II."
+  },
+  "a7d6a1a492a8cb20": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Todas as pré-embalagens referidas no artigo 3o devem trazer a inscrição do volume de líquido, denominado volume nominal, que devem conter, em conformidade com o Anexo I.\n\n2. Para estas pré-embalagens, apenas são admitidos os volumes nominais indicados no Anexo III.\n\n3. Até ao termo do período transitório durante o qual é autorizado na Comunidade o emprego das unidades de medida do sistema imperial que figura no Anexo II da Directiva 71/354/CEE do Conselho, de 18 de Outubro de 1971, relativa à aproximação das legislações dos Estados-membros respeitantes às unidades de medida (5), com a redacção que lhe foi dada pelo Acto de Adesão, a indicação do volume nominal expresso em unidades de medida SI, em conformidade com o disposto no ponto 3.1 do Anexo I da presente directiva deve, se o Reino Unido ou a Irlanda o desejarem, ser acompanhada no respectivo território nacional pela indicação do volume nominal expresso em unidades de medida apropriadas do sistema imperial, se estas figurarem neste Anexo I."
+  },
+  "bd0cd77dce83bddc": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nOs Estados-membros não podem recusar, proibir ou restringir a colocação no mercado de pré-embalagens que obedeçam às disposições e controlos da presente directiva por motivos relacionados com os seus volumes, a determinação destes ultimos ou os métodos segundo os quais eles foram controlados."
+  },
+  "dd0637d4c766dedf": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nAs alterações necessárias para adaptar ao progresso técnico as disposições dos Anexos I e II da presente directiva serão adoptadas em conformidade com o procedimento previsto nos artigos 18o e 19o da Directiva 71/316/CEE."
+  },
+  "163813f65c685bc8": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva no prazo de dezoito meses a contar da sua notificação e desse facto informarão imediatamente a Comissão.\n\n2. Em derrogação do no 1, a Bélgica, a Irlanda, os Países Baixos e o Reino Unido podem adiar a aplicação da presente directiva e dos seus anexos, o mais tardar, até 31 de Dezembro de 1979.\n\n3. Durante o período em que a directiva não estiver em vigor num Estado-membro, este Estado-membro não tornará mais severas que à data da adopção da directiva as medidas relativas à quantidade contida nas pré-embalagens referidas na presente directiva em proveniência de outros Estados-membros.\n\n4. Durante este mesmo período, os Estados-membros em que a directiva tenha entrado em vigor aceitarão as pré-embalagens provenientes dos Estados-membros que beneficiam da derrogação prevista no no 2 e que sejam conformes ao disposto no ponto 1 do Anexo I e no Anexo III da directiva, mesmo que estas não tragam o símbolo CEE previsto no ponto 3.3 do Anexo I, da mesma forma e nas mesmas condições que as pré-embalagens conformes a todas as disposições da directiva.\n\n5. Os Estados-membros devem assegurar que seja comunicado à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "28469b06fe9fef2e": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 19 de Dezembro de 1974.\n\nPelo Conselho\n\nO Presidente\n\nJ. P. FOURCADE\n\n(1) JO no C 56 de 2. 6. 1972, p. 35.(2) JO no C 123 de 27. 11. 1972, p. 9.(3) JO no L 202 de 6. 9. 1971, p. 1.(4) JO no L 73 de 27. 3. 1972, p. 14.(5) JO no L 73 de 27. 3. 1972, p. 14."
+  },
+  "8f004e8a6578e959": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n1. OBJECTIVOS\n\nAs pré-embalagens referidas na presente directiva devem ser confeccionadas de modo a que as pré-embalagens terminadas preencham as condições seguintes:\n\n1.1. O volume efectivo do conteúdo não deve ser inferior, em média, ao volume nominal.\n\n1.2. A proporção de pré-embalagens que apresentam um erro para menos superior ao erro máximo admissível previsto no ponto 2.4 deve ser suficientemente pequena para permitir aos lotes de pré-embalagens satisfazer os controlos definidos no Anexo II.\n\n1.3. As pré-embalagens que apresentem um erro para menos superior ao dobro do erro máximo admissível constante do quadro do ponto 2.4 não podem receber o símbolo CEE previsto no ponto 3.3.\n\n2. DEFINIÇÕES E PRESCRIÇÕES DE BASE\n\n2.1. O volume nominal do conteúdo de uma pré-embalagem é o volume marcado sobre esta pré-embalagem; é o volume de líquido que a embalagem é suposta conter.\n\n2.2. O volume efectivo do conteúdo de uma pré-embalagem é o volume de líquido que ela contém realmente. Em todas as operações de controlo, o valor do volume efectivo tomado em consideração é o valor deste volume à temperatura de 20 ° C.\n\n2.3. O erro para menos é a quantidade em que o volume efectivo do conteúdo difere para menos do volume nominal da pré-embalagem.\n\n2.4. O erro máximo admissível para menos é fixado em conformidade com o quadro seguinte:\n\n\"\" ID=\"1\">de 50 a 100> ID=\"2\">-> ID=\"3\">4,5\"> ID=\"1\">de 100 a 200> ID=\"2\">4,5> ID=\"3\">-\"> ID=\"1\">de 200 a 300> ID=\"2\">-> ID=\"3\">9\"> ID=\"1\">de 300 a 500> ID=\"2\">3> ID=\"3\">-\"> ID=\"1\">de 500 a 1 000> ID=\"2\">-> ID=\"3\">15\"> ID=\"1\">de 1 000 a 5 000> ID=\"2\">1,5> ID=\"3\">-\">\n\n3. INSCRIÇÕES E MARCAÇÃO\n\nAs pré-embalagens confeccionadas em conformidade com a presente directiva devem trazer sobre a embalagem as inscrições seguintes, apostas de tal modo que sejam indeléveis, facilmente legíveis e visíveis na pré-embalagem nas condições habituais de apresentação:\n\n3.1. O volume nominal expresso, utilizando como unidades de medida o litro, o centilitro ou o mililitro, através de algarismos de altura mínima de 6 mm se o volume nominal for superior a 100 cl, de 4 mm se estiver compreendido entre 100 cl inclusive e 20 cl exclusive e de 3 mm se for igual ou inferior a 20 cl, seguidos do símbolo da unidade de medida utilizada, ou eventualmente do seu nome, em conformidade com a Directiva 71/354/CEE.\n\nAté ao termo do período transitório durante o qual é autorizado na Comunidade o emprego das unidades de medida do sistema imperial que figuram no Anexo II da Directiva 71/354/CEE, a indicação do volume nominal, expresso em unidades SI em conformidade com o parágrafo precedente, pode ser acompanhada do resultado da sua transformação em unidades de medida do sistema imperial (UK) obtido utilizando os coeficientes de conversão seguintes:\n\n1 ml = 0,0352 fluid ounce\n\n1 l = 1,760 pint ou 0,220 gallon.\n\nNa medida em que o considerarem necessário, os Estados-membros podem impor esta segunda indicação para os produtos colocados no mercado no respectivo território nacional.\n\n3.2. Uma marca ou inscrição que permita ao serviço competente identificar quem efectuou ou mandou efectuar o enchimento ou ainda o importador, estabelecido na Comunidade.\n\n3.3. A letra minúscula «e» de uma altura mínima de 3 mm, colocada no mesmo campo visual que a indicação do volume nominal, certificando que a pré-embalagem satisfaz as prescrições da presente directiva.\n\nEsta letra tem a forma representada pelo desenho junto ao ponto 3 do Anexo II da Directiva 71/316/CEE.\n\nO artigo 12o desta última directiva é aplicável por analogia.\n\nNo entanto, se a embalagem for um recipiente de medida conforme à directiva que lhe diz respeito e se a indicação da capacidade nominal for visível nas condições habituais de apresentação de pré-embalagem, não é exigida uma outra indicação do volume nominal nos termos do ponto 3.1. para aplicação da presente directiva.\n\nEsta última derrogação não é, no entanto, aplicável quando o volume nominal da pré-embalagem diferir num valor inferior ou igual a 0,05 l de um outro volume nominal previsto no Anexo III para a mesma categoria de produtos.\n\n4. RESPONSABILIDADE DO ACONDICIONADOR OU DO IMPORTADOR\n\nA quantidade de líquido contido numa pré-embalagem, designada volume efectivo ou quantidade de enchimento, deve ser medida ou controlada sob a responsabilidade daquele que enche a embalagem. A medição ou o controlo é feito empregando um instrumento de medida legal apropriado à natureza das operações a efectuar.\n\nO controlo pode ser feito por amostragem.\n\nQuando o volume efectivo não for medido, o controlo do acondicionador deve ser organizado de tal modo que o valor deste conteúdo seja efectivamente garantido.\n\nEsta condição é preenchida se o acondicionador proceder a controlos de fabrico segundo modalidades reconhecidas pelos serviços competentes do Estado-membro e colocar à disposição destes serviços os documentos nos quais estão anotados os resultados deste controlo, a fim de comprovar que os controlos, assim como as correcções e ajustamentos por eles revelados necessários, foram regular e correctamente efectuados.\n\nUma das várias maneiras de satisfazer a obrigação da medição ou do controlo consiste no emprego, para confeccionar a pré-embalagem, de um recipiente de medida definido na directiva que lhe diz respeito e enchido nas condições previstas nessa e na presente directiva.\n\n5. CONTROLOS A EFECTUAR PELOS SERVIÇOS COMPETENTES JUNTO DO ACONDICIONADOR OU DO IMPORTADOR\n\nO controlo da conformidade das pré-embalagens com as disposições da presente directiva é efectuado pelos serviços competentes dos Estados-membros por amostragem junto do acondicionador ou, em caso de impossibilidade prática, junto do importador ou do seu mandatário estabelecido na Comunidade.\n\nEste controlo estatístico por amostragem é efectuado em conformidade com as regras utilizadas em matéria de controlo de qualidade. A sua eficácia deve ser comparável à do método de referência especificado no Anexo II.\n\n6. OUTROS CONTROLOS EXERCIDOS PELOS SERVIÇOS COMPETENTES\n\nA presente directiva não obsta aos controlos que podem ser exercidos em todos os estádios do comércio pelos serviços competentes nos Estados-membros, nomeadamente para verificar a conformidade das pré-embalagens com as prescrições da directiva."
+  },
+  "ede9a2fa0a6bfe19": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nEste anexo fixa as modalidades do método de referência do controlo estatístico dos lotes de pré-embalagens com vista ao cumprimento das prescrições do artigo 3o da directiva e do ponto 5 do Anexo I.\n\nEste controlo baseia-se na norma ISO 2859, relativa aos métodos de ensaio por atributos, utilizando um nível de qualidade aceitável de 2,5 %. O nível de amostragem corresponde, para os testes não destrutivos, ao nível II desta recomendação e, para os testes destrutivos, ao nível S 3.\n\n1. DISPOSIÇÕES RELATIVAS À MEDIÇÃO DO VOLUME EFECTIVO DAS PRÉ-EMBALAGENS\n\nO volume efectivo das pré-embalagens pode ser medido directamente com a ajuda de instrumentos de medida volumétricos ou indirectamente por pesagem e medição da densidade.\n\nQualquer que seja o método utilizado, o erro cometido aquando da medição do volume efectivo de uma pré-embalagem deve ser, no máximo, igual a um quinto do erro máximo admissível correspondente ao volume nominal da pré-embalagem. O processo de medição do volume efectivo de uma pré-embalagem pode ser objecto de uma regulamentação própria de cada Estado-membro.\n\n2. DISPOSIÇÕES RELATIVAS AO CONTROLO DOS LOTES DE PRÉ-EMBALAGENS\n\nO controlo das pré-embalagens é efectuado por amostragem e compreende duas partes:\n\n- um controlo incide sobre o volume efectivo de cada pré-embalagem da amostra;\n\n- um outro controlo incide sobre a média dos volumes efectivos das pré-embalagens da amostra.\n\nUm lote de pré-embalagens é considerado como aceitável se os resultados de ambos os controlos satisfizerem os critérios de aceitação.\n\nPara cada um destes controlos, está prevista a utilização de dois planos de amostragem:\n\n- um para um controlo não destrutivo, isto é, para um controlo que não implica a abertura da embalagem;\n\n- outro para um controlo destrutivo, isto é, para um controlo que implica a abertura ou a destruição da embalagem.\n\nEste último controlo é, por razões económicas e práticas, limitado ao mínimo estritamente indispensável e a sua eficácia é menor que a do controlo precedente.\n\nO controlo destrutivo deve, portanto, apenas ser utilizado quando um controlo não destrutivo não puder ser adoptado, Regra geral, não se aplica a lotes com menos de cem unidades.\n\n2.1. Lote de pré-embalagens\n\n2.1.1. O lote é constituído pelo conjunto das pré-embalagens do mesmo modelo e do mesmo fabrico que é objecto do controlo.\n\n2.1.2. Quando o controlo das pré-embalagens se faz no fim da linha de enchimento, o efectivo do lote é igual à produção horária máxima da linha de enchimento. Nos outros casos, o efectivo do lote é limitado a 10 000.\n\n2.1.3. Para lotes inferiores a 100 pré-embalagens, o controlo não destrutivo, quando tiver lugar, faz-se a 100 %.\n\n2.1.4. Previamente aos controlos previstos nos pontos 2.2. e 2.3, deve ser tirado ao acaso do lote um número suficiente de pré-embalagens, a fim de permitir efectuar o controlo que requer a maior amostra.\n\nPara o outro controlo, a amostra necessária será tirada ao acaso da primeira amostra e marcada.\n\nEsta marcação deve ser efectuada antes do início das operações de medição.\n\n2.2. Controlo do volume mínimo admissível numa pré-embalagem\n\n2.2.1. O volume mínimo admissível é obtido deduzindo do volume nominal da pré-embalagem o erro máximo admissível correspondente a este volume nominal.\n\n2.2.2. As unidades do lote que tenham um volume efectivo inferior ao volume mínimo admissível são consideradas defeituosas.\n\n2.2.3. Para o controlo por amostragem, deve ser adoptado um dos planos de amostragem seguintes (simples ou duplo) à escolha dos Estados-membros.\n\n2.2.3.1. Plano de amostragem simples\n\nO número de pré-embalagens controladas deve ser igual ao efectivo da amostra dada no plano:\n\n- se o número de unidades defeituosas encontradas na amostra for inferior ou igual ao critério de aceitação, o lote de pré-embalagens será considerado como aceitável para este controlo;\n\n- se o número de unidades defeituosas encontradas na amostra for igual ou superior ao critério de rejeição, o lote de pré-embalagens será rejeitado.\n\n2.2.3.1.1. Plano para controlo não destrutivo\n\n\"\" ID=\"1\">de 100 a 150> ID=\"2\">20> ID=\"3\">1> ID=\"4\">2\"> ID=\"1\">de 151 a 280> ID=\"2\">32> ID=\"3\">2> ID=\"4\">3\"> ID=\"1\">de 281 a 500> ID=\"2\">50> ID=\"3\">3> ID=\"4\">4\"> ID=\"1\">de 501 a 1 200> ID=\"2\">80> ID=\"3\">5> ID=\"4\">6\"> ID=\"1\">de 1 201 a 3 200> ID=\"2\">125> ID=\"3\">7> ID=\"4\">8\"> ID=\"1\">3 201 e mais> ID=\"2\">200> ID=\"3\">10> ID=\"4\">11\">\n\n2.2.3.1.2. Plano para controlo destrutivo\n\n\"\" ID=\"1\">Qualquer que seja o efectivo (& ge; 100)> ID=\"2\">20> ID=\"3\">1> ID=\"4\">2\">\n\n2.2.3.2. Plano de amostragem duplo\n\nO primeiro número de pré-embalagens controladas deve ser igual ao efectivo da primeira amostra dada no plano:\n\n- se o número de unidades defeituosas encontrado na primeira amostra for inferior ou igual ao primeiro critério de aceitação, o lote será considerado como aceitável para este controlo;\n\n- se o número de unidades defeituosas encontrado na primeira amostra for igual ou superior ao primeiro critério de rejeição, o lote será rejeitado;\n\n- se o número de unidades defeituosas encontrado na primeira amostra estiver compreendido entre o primeiro critério de aceitação e o primeiro critério de rejeição, deve controlar-se uma segunda amostra cujo efectivo é dado no plano.\n\nOs números de unidades defeituosas encontrados na primeira e segunda amostra devem ser acumulados:\n\n- se o número acumulado de unidades defeituosas for inferior ou igual ao segundo critério de aceitação, o lote será considerado como aceitável para este controlo;\n\n- se o número acumulado de unidades defeituosas for superior ou igual ao segundo critério de rejeição, o lote será rejeitado.\n\n2.2.3.2.1. Plano para controlo não destrutivo\n\n\"\" ID=\"1\" ASSV=\"2\">100 a 150> ID=\"2\">1o> ID=\"3\">13> ID=\"4\">13> ID=\"5\">0> ID=\"6\">2\"> ID=\"2\">2o> ID=\"3\">13> ID=\"4\">26> ID=\"5\">1> ID=\"6\">2\"> ID=\"1\" ASSV=\"2\">151 a 280> ID=\"2\">1o> ID=\"3\">20> ID=\"4\">20> ID=\"5\">0> ID=\"6\">3\"> ID=\"2\">2o> ID=\"3\">20> ID=\"4\">40> ID=\"5\">3> ID=\"6\">4\"> ID=\"1\" ASSV=\"2\">281 a 500> ID=\"2\">1o> ID=\"3\">32> ID=\"4\">32> ID=\"5\">1> ID=\"6\">4\"> ID=\"2\">2o> ID=\"3\">32> ID=\"4\">64> ID=\"5\">4> ID=\"6\">5\"> ID=\"1\" ASSV=\"2\">501 a 1 200> ID=\"2\">1o> ID=\"3\">50> ID=\"4\">50> ID=\"5\">2> ID=\"6\">5\"> ID=\"2\">2o> ID=\"3\">50> ID=\"4\">100> ID=\"5\">6> ID=\"6\">7\"> ID=\"1\" ASSV=\"2\">1 201 a 3 200> ID=\"2\">1o> ID=\"3\">80> ID=\"4\">80> ID=\"5\">3> ID=\"6\">7\"> ID=\"2\">2o> ID=\"3\">80> ID=\"4\">160> ID=\"5\">8> ID=\"6\">9\"> ID=\"1\" ASSV=\"2\">3 201 e mais> ID=\"2\">1o> ID=\"3\">125> ID=\"4\">125> ID=\"5\">5> ID=\"6\">9\"> ID=\"2\">2o> ID=\"3\">125> ID=\"4\">250> ID=\"5\">12> ID=\"6\">13\">\n\n2.2.3.2.2. Plano para controlo destrutivo\n\n\"\" ID=\"1\" ASSV=\"2\">Qualquer que seja a dimensão (& ge; 100)> ID=\"2\">1o> ID=\"3\">13> ID=\"4\">13> ID=\"5\">0> ID=\"6\">2\"> ID=\"2\">2o> ID=\"3\">13> ID=\"4\">26> ID=\"5\">1> ID=\"6\">2\">\n\n2.3. Controlo da média dos volumes efectivos das unidades de um lote de pré-embalagens\n\n2.3.1. Um lote de pré-embalagens será considerado como aceitável para este controlo se a média = S dos volumes efectivos xi das n pré-embalagens de uma amostra for superior ao valor:\n\nVn - · t(1-a)\n\nNesta fórmula, designa-se por:\n\nVn: o volume nominal da pré-embalagem;\n\ns: a estimativa do desvio padrão dos volumes efectivos do lote;\n\nn: o número de pré-embalagens da amostra para o controlo;\n\nt(1-a): a variável aleatória da distribuição de Student, função do número de graus de liberdade V = n-1 e do nível de confiança (1-a) = 0,995.\n\n2.3.2. Designando por xi a medida do volume efectivo do elemento de ordem i da amostra de n elementos, obtém-se:\n\n2.3.2.1. A média das medidas da amostra calculando:\n\n= S\n\n2.3.2.2. A estimativa do desvio padrão s calculando:\n\n- a soma dos quadrados das medidas: Si = ni = 1(xi)2\n\n- o quadrado da soma das medidas: (Si = ni = 1 xi)2, depois (S)2\n\n- a soma corrigida: SC = Si = ni = 1 (xi)2 (S)2\n\n- a estimativa da variância: v =\n\nA estimativa do desvio padrão é: s = & radic;v\n\n2.3.3. Critério de aceitação ou rejeição dos lotes de pré-embalagens, para este controlo:\n\nCritério para controlo não destrutivo\n\n\"\" ID=\"1\">& le; 500> ID=\"2\">30> ID=\"3\">& ge; Vn - 0,503 s> ID=\"4\">< Vn - 0,503 s\"> ID=\"1\"\" 500> ID=\"2\">50> ID=\"3\">& ge; Vn - 0,379 s> ID=\"4\">< Vn - 0,379 s\">\n\nCritério para controlo destrutivo\n\n\"\" ID=\"1\">Qualquer que seja o efectivo (& ge; 100)> ID=\"2\">20> ID=\"3\">& ge; Vn - 0,640 s> ID=\"4\">< Vn - 0,640 s\">"
+  },
+  "32a0981da144a63b": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\n>(1)\"> ID=\"1\">1. a) Vinhos de uvas frescas; mosto de uvas frescas amuado com álcool, com exclusão dos vinhos licorosos (número da pauta aduaneira comum: ex 22.05 C)> ID=\"2\">0,10 - 0,25 - 0,35 - 0,375 - 0,50 - 0,70 - 0,75 - 1 - 1,5 - 2 - 5> ID=\"3\">0,20 - 0,36 - 0,475 - 0,60 - 0,68 - 0,72 - 0,95 - 1,75 - 1,88\"> ID=\"1\">b) Sidra, perada, hidromel e outras bebidas fermentadas, não espumantes nem espumosas (número da pauta aduaneira comum: 22.07 B II)> ID=\"2\">0,10 - 0,25 - 0,35 - 0,375 - 0,50 - 0,70 - 0,75 - 1 - 1,5 - 2 - 5> ID=\"3\">0,20 - 0,33 - 0,36 - 0,72\"> ID=\"1\">c) Vermute e outros vinhos de uvas frescas aromatizados (número de pauta aduaneira comum: 22.06); vinhos licorosos comuns (número da pauta aduaneira comum: ex 22.05 C)> ID=\"2\">0,10 - 0,375 - 0,50 - 0,75 - 1 - 1,5> ID=\"3\">0,20 - 0,35 - 0,36 - 0,68 - 0,70 - 0,72\"> ID=\"1\">2. a) Vinhos espumantes e vinhos espumosos (número da pauta aduaneira comum: 22.05 A + B)> ID=\"2\">0,10 - 0,125 - 0,20 - 0,375 - 0,75 - 1,5 - 3> ID=\"3\">0,57 - 0,77\"> ID=\"1\">b) Sidra, perada, hidromel e outras bebidas fermentadas, espumantes ou espumosas (número da pauta aduaneira comum: 22.07 B I)> ID=\"2\">0,10 - 0,125 - 0,20 - 0,375 - 0,75 - 1 - 1,5 - 3> ID=\"3\">0,57 - 0,77\"> ID=\"1\">3. Cerveja (número da pauta aduaneira comum: 22.03)> ID=\"2\">0,25 - 0,33 - 0,50 - 0,75 - 1 - 2 - 3 - 4 - 5> ID=\"3\">0,18 (unicamente em recipientes metálicos)\n\n0,20 - 0,30 - 0,35 (unicamente em recipientes metálicos)\"> ID=\"1\">- cervejas de fermentação expontânea, gueuze> ID=\"2\">0,375> ID=\"3\">0,45 - 0,66 - 3,8\"> ID=\"1\">4. Alcoóis, aguardentes e espirituosos (número da pauta aduaneira comum: 22.09)> ID=\"2\">0,05 - 0,10 - 0,20 - 0,35 - 0,375 - 0,50 - 0,70 - 0,75 - 1 - 1,5 - 2 - 2,5 - 3> ID=\"3\">0,25 - 0,36 - 0,60 - 0,72\"> ID=\"1\">5. Vinagres e seus sucedâneos, para usos alimentares (número da pauta aduaneira comum: 22.10)> ID=\"2\">0,25 - 0,50 - 0,75 - 1 - 2 - 5> ID=\"3\">0,35 - 0,7 - 1,5 - 2,5\"> ID=\"1\">6. Óleos para usos alimentares (números da pauta aduaneira comum: 15.07 A I e 15.07 D II)> ID=\"2\">0,10 - 0,25 - 0,50 - 1 - 2 - 3 - 5> ID=\"3\">0,375 - 0,625 - 0,75 - 1,5 - 2,5\"> ID=\"1\">7. Leite e bebidas à base de leite vendidas a volume (números da pauta aduaneira comum: ex 04.01 com exclusão do iogurte e do képhir: 22.02 B)> ID=\"2\">0,10 - 0,2 - 0,25 - 0,50 - 0,75 - 1 - 2 - 3 - 4> ID=\"3\">0,22 - 0,33 - 0,6\"> ID=\"1\">8. a) Água, águas minerais, águas gasosas (número da pauta aduaneira comum: 22.01)> ID=\"2\">Todos os volumes abaixo de: 0,20 - 0,20 - 0,25 - 0,33 - 0,50 - 0,70 - 0,75 - 1 - 1,5 - 2> ID=\"3\">0,35 - 0,45 - 0,47 - 0,90 - 0,94\"> ID=\"1\">b) Limonadas, águas gasosas e minerais aromatizadas e outras bebidas não alcoólicas, com exclusão dos sumos de frutas ou de produtos hortícolas (número da pauta aduaneira comum: 22.02 A)> ID=\"2\">Todos os volumes abaixo de: 0,20 - 0,20 - 0,25 - 0,33 - 0,50 - 0,70 - 0,75 - 1 - 1,5 - 2 - 3 - 4 - 5> ID=\"3\">0,35 - 0,45 - 0,47 - 0,60 - 0,90 - 0,94\"> ID=\"1\">9. Sumos de frutas ou de produtos hortícolas não fermentados, sem adição de álcool, com ou sem adição de açúcar (número da pauta aduaneira comum: 20.07, produtos não concentrados)> ID=\"2\">Todos os volumes abaixo de: 0,125 - 0,125 - 0,20 - 0,25 - 0,33 - 0,50 - 0,70 - 0,75 - 1 - 1,5 - 2 - 3 - 4 - 5> ID=\"3\">0,18 - 0,35 (unicamente em recipientes metálicos)\"\">\n\nNota: Os líquidos mencionados nas alíneas a) e b) do ponto 1, no ponto 4, nas alíneas a) e b) do ponto 8 e no ponto 9 apenas podem ser colocados no mercado comunitário em pré-embalagens que tenham um volume nominal que figure no quadro e que sejam conformes às disposições regulamentares ou aos usos comerciais do Estado-membro de origem do líquido, quer o enchimento seja efectuado no Estado-membro de origem ou num outro Estado.\n\n(1)() No que respeita às pré-embalagens cujos volumes nominais figuram na coluna II, o artigo 5o só é aplicável em relação aos países que admitiam a livre circulação destas pré-embalagens à data de 31 de Dezembro de 1971 e isto até 31 de Dezembro de 1980, à excepção dos volumes referidos na alinea a) do ponto 8, para os quais este prazo é prorrogado até 31 de Dezembro de 1988."
+  },
+  "4932144fbad92f8d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1975L0106 — PT — 11.04.2009 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31975L0106) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31975L0106) [de 19 de Dezembro de 1974](http://publications.europa.eu/resource/celex/31975L0106) [relativa à aproximação das legislações dos Estados-membros respeitantes ao pré-acondicionamento em volume de certos líquidos em pré-embalagens](http://publications.europa.eu/resource/celex/31975L0106) [(75/106/CEE)](http://publications.europa.eu/resource/celex/31975L0106) (JO L 042, 15.2.1975, p.1)\n\n**revogado por:**\n\n- [Directiva 2007/45/CE do Parlamento Europeu e do Conselho de 5 de Setembro de 2007](http://publications.europa.eu/resource/celex/32007L0045) — L 247 — 17 — 21.9.2007"
+  }
+ }
+}

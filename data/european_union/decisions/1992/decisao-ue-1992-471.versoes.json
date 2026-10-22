@@ -1,0 +1,109 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992D0471:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992D0471-20050405",
+ "dre_path": null,
+ "source_lastmod": "2005-04-05",
+ "versions": [
+  {
+   "date": "1992-09-15",
+   "future": false,
+   "celex": "31992D0471",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "48aff158ea99e29f",
+    "8cef2f3faca05dca",
+    "2e3cf9bf60c2b7fb",
+    "124c575720402bfe",
+    "407cccf5b4ff4c04",
+    "d97a380498e58471",
+    "548ccb6a19df3d2e"
+   ]
+  },
+  {
+   "date": "2005-04-05",
+   "future": false,
+   "celex": "01992D0471-20050405",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o — Os Estados-membros são os destinatários da presente decisão. Feito em Bruxelas, em 2 de Setembro de 1992. Pela Comissão",
+    "Suprime ANEXO A — PARTE I",
+    "Suprime PARTE II — Lista dos países autorizados a utilizar o modelo de certificado sanitário constante da parte I do anexo A",
+    "Suprime ANEXO B — PARTE I",
+    "Suprime PARTE II — Lista dos países autorizados a utilizar o modelo de certificado sanitário constante da parte I do anexo B"
+   ],
+   "fragments": [
+    "3b3f385d6e54b5d6"
+   ]
+  }
+ ],
+ "fragments": {
+  "48aff158ea99e29f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**92/471/CEE: Decisão da Comissão, de 2 de Setembro de 1992, relativa às condições de polícia sanitária e à certificação veterinária aplicáveis às importações de embriões de bovinos provenientes de países terceiros** *Jornal Oficial nº L 270 de 15/09/1992 p. 0027 - 0034 Edição especial finlandesa: Capítulo 3 Fascículo 45 p. 0076 Edição especial sueca: Capítulo 3 Fascículo 45 p. 0076*\n\nDECISÃO DA COMISSÃO de 2 de Setembro de 1992 relativa às condições de polícia sanitária e à certificação veterinária aplicáveis às importações de embriões de bovinos provenientes de países terceiros (92/471/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 89/556/CEE do Conselho, de 25 de Setembro de 1989, que estabelece as condições de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações provenientes de países terceiros de embriões de animais da espécie bovina (1), alterada pela Directiva 90/425/CEE (2), e, nomeadamente, os seus artigos 9o e 10o,\n\nConsiderando que a lista de países terceiros a partir dos quais os Estados-membros estão autorizados a importar embriões de bovinos foi estabelecida pela Decisão 91/270/CEE da Comissão (3);\n\nConsiderando que a Decisão 92/452/CEE da Comissão (4) estabelece a lista de equipas de colheita de embriões relativamente a determinados países terceiros; que será completada atempadamente com novas informações relativas a outros países terceiros;\n\nConsiderando que é necessário estabelecer as condições de polícia sanitária, bem como a certificação veterinária a que as importações provenientes de países terceiros de embriões de bovinos devem obedecer;\n\nConsiderando que as autoridades competentes dos países terceiros onde se procedeu à colheita dos embriões destinados à exportação para a Comunidade tomaram as providências adequadas para assegurar que estes embriões foram colhidos e tratados por equipas de colheita de embriões oficialmente aprovadas e supervisionadas, foram colhidos em animais cujo estado sanitário é satisfatório, foram armazenados e transportados em conformidade com as regras que garantem o seu estado sanitário e são acompanhados, durante o transporte, de um certificado de polícia sanitária que assegura o cumprimento desta obrigação;\n\nConsiderando que as autoridades veterinárias competentes dos países terceiros que constam da lista se comprometeram a notificar a Comissão e os Estados-membros por telex ou telefax dentro das 24 horas seguintes à confirmação da ocorrência de qualquer das seguintes doenças: peste bovina, febre aftosa, peripneumonia contagiosa bovina, febre catarral, doença hemorrágica epizoótica, febre do vale do Rift e estomatite vesiculosa contagiosa ou da adopção da vacinação contra estas doenças;\n\nConsiderando que a situação de polícia sanitária nos países terceiros que constam da lista é satisfatória do ponto de vista das importações de embriões e que os serviços sanitários destes países bem estruturados e organizados;\n\nConsiderando que o certificado sanitário é adaptado em função das condições de sanidade animal prevalecentes em cada país terceiro;\n\nConsiderando que as medidas estabelecidas na presente decisão estão em conformidade com o parecer do Comité veterinário permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "8cef2f3faca05dca": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Os Estados-membros autorizarão a importação de embriões que estejam em conformidade com as garantias constantes do certificado de polícia sanitária estabelecido na parte I do anexo A. Este certificado deve acompanhar as remessas de embriões provenientes de países terceiros ou de parcelas do território de países terceiros constantes da parte II do anexo A.\n\n2. Os Estados-membros autorizarão a importação de embriões de bovinos que estejam em conformidade com as garantias constantes do certificado de polícia sanitária estabelecido na parte I do anexo B. Este certificado deve acompanhar as remessas de embriões provenientes de países terceiros ou de parcelas do território de países terceiros constantes da parte II do anexo B."
+  },
+  "2e3cf9bf60c2b7fb": {
+   "fragment_id": "Artigo 2o — Os Estados-membros são os destinatários da presente decisão. Feito em Bruxelas, em 2 de Setembro de 1992. Pela Comissão",
+   "type": "artigo",
+   "heading": "Artigo 2o — Os Estados-membros são os destinatários da presente decisão. Feito em Bruxelas, em 2 de Setembro de 1992. Pela Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o — Os Estados-membros são os destinatários da presente decisão. Feito em Bruxelas, em 2 de Setembro de 1992. Pela Comissão\n\nRay MAC SHARRY\n\nMembro da Comissão\n\n(1) JO no L 302 de 19. 10. 1989, p. 1. (2) JO no L 224 de 18. 8. 1990, p. 29. (3) JO no L 134 de 29. 5. 1991, p. 56. (4) JO no L 250 de 29. 8. 1992, p. 40."
+  },
+  "124c575720402bfe": {
+   "fragment_id": "ANEXO A — PARTE I",
+   "type": "divisao",
+   "heading": "ANEXO A — PARTE I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A — PARTE I\n\n1. Expedidor (nome e endereço completo) CERTIFICADO DE POLÍCIA SANITÁRIA\n\nNo ORIGINAL\n\n2. País terceiro de colheita 3. Destinatário (nome e endereço completo)\n\nNOTAS\n\na) Deve ser emitido um certificado separado para cada lote de embriões\n\nb) O original do certificado deve acompanhar o lote até ao local de destino\n\n6. Local de expedição\n\n8. Meio de transporte\n\n9. Local e Estado-membro de destino\n\n11. Número e marca de código do contentor dos embriões\n\n4. AUTORIDADE COMPETENTE\n\n5. AUTORIDADE LOCAL COMPETENTE\n\n7. Nome e endereço da equipa da colheita de embriões\n\n10. Número de registo da equipa de colheita de embriões\n\n12. Identificação da remessa\n\na) Número de embriões b) Data(s) de colheita c) Raça\n\n13. Eu, abaixo assinado, veterinário oficial do governo de,\n\n(nome do país terceiro)\n\ncertifico que:\n\n1. A equipa de colheita de embriões seguidamente identificada:\n\n- foi aprovada pela Decisão 92/452/CEE nos termos do disposto no capítulo I do anexo A da Directiva 89/556/CEE,\n\n- procedeu à colheita, tratamento, armazenagem e transporte dos embriões acima descritos nas condições constantes do capítulo II do anexo A da Directiva 89/556/CEE,\n\n- está sujeita, pelo menos duas vezes por ano, a uma inspecção por parte de um veterinário oficial da autoridade veterinária central de.\n\n(nome do país terceiro)\n\n2. De acordo com as averiguações oficiais\n\n(nome do país terceiro)\n\nesteve:\n\na) Indemne de peste bovina, nos 12 meses imediatamente anteriores à colheita dos embriões a exportar.\n\nb) Quer (1)\n\ni) Indemne de febre aftosa nos 12 meses imediatamente anteriores à colheita de embriões a exportar e não praticou a vacinação contra esta doença\n\nou\n\nii) Não esteve indemne de febre aftosa nos 12 meses imediatamente anteriores à colheita de embriões e/ou praticou a vacinação contra esta doença e\n\n- os animais dadores provêm de uma exploração onde não se vacinou qualquer animal contra a febre aftosa durante os 30 dias que precederam a colheita e\n\n- os embriões foram armazenados em condições aprovadas durante um período mínimo de 30 dias imediatamente após a colheita\n\nc) Quer (1)\n\ni) Indemne de febre catarral e de doença hemorrágica epizoótica (DHE) nos 12 meses imediatamente anteriores à colheita dos embriões a exportar e não procede à vacinação contra estas doenças\n\nou\n\nii) Não esteve indemne de febre catarral e de doença hemorrágica epizoótica (DHE) nos 12 meses imediatamente anteriores à colheita de embriões a exportar e/ou proceder à vacinação contra estas doenças e\n\n- os embriões foram armazenados em condições aprovadas durante um período mínimo de 30 dias imediatamente após a colheita e\n\n- a fêmea dadora foi submetida, com resultados negativos à prova ELISA competitiva, para a detecção de anticorpos de febre catarral, à prova de imunodifusão em ágar-gel e um ensaio de seroneutralização para detecção de anticorpos de doença hemorrágica epizooótica numa amostra de sangue colhida há, pelo menos, 21 dias após a colheita dos embriões.\n\n3. a) As instalações onde os embriões a exportar foram colhidos e transformados, estavam, aquando da colheita, situadas no centro de uma área de 20 km de diâmetro, nas quais, segundo constatações oficiais, não se verificaram quaisquer casos de febre aftosa, febre catarral, doença hemorrágica epizoótica, estomatite vesiculosa contagiosa, febre do vale do Rift, peripneumonia contagiosa bovina nos 30 dias imediatamente anteriores à colheita e, no caso dos embriões certificados nos termos do no 2, ponto ii) da alínea b) e do no 2, ponto ii) da alínea c), nos 30 dias após a colheita;\n\n3. b) Do momento da colheita dos embriões a exportar até à sua expedição, estiveram armazenados ininterruptamente em instalações situadas no centro de uma área de 20 km de diâmetro onde, segundo constatações oficiais, não se verificou qualquer caso de febre aftosa, estomatite vesiculosa contagiosa ou febre do vale do Rift.\n\n4. As fêmeas dadoras:\n\na) Permaneceram, nos 30 dias imediatamente anteriores à colheita dos embriões a exportar, em instalações situadas no centro de uma área de 20 km de diâmetro onde, segundo constatações oficiais, não se verificou qualquer caso de febre aftosa, febre catarral, doença hemorrágica epizoótica, estomative vesiculosa contagiosa, febre do vale du Rift ou peripneumonia contagiosa bovina;\n\nb) Foram artificialmente inseminadas com sémen de um boi que, aquando da colheita do sémen, se encontrava num centro de colheita de sémen oficialmente aprovado nos termos do disposto na Directiva 88/407/CEE do Conselho (2) ou em qualquer decisão posterior;\n\nc) Não apresentaram qualquer sinal clínico de doença no dia da colheita;\n\nd) Permaneceram, nos 6 meses imediatamente anteriores à colheita, no território de\n\nnum máximo de 2 efectivos que:\n\n(nome do país exportador)\n\n- estavam indemnes de tuberculose,\n\n- estavam indemnes de brucelose,\n\n- estavam indemnes de leucose bovina enzoótica ou não apresentaram sinais de leucose bovina enzoótica durante os três últimos anos,\n\n- não apresentaram quaisquer sinais clínicos de rinotraqueíte bovina/vulvovaginite pustulosa infecciosa nos últimos 12 meses.\n\nFeito em\n\nCarimbo em\n\nAssinatura:\n\nNome e qualificação (em maiúsculas):\n\n(1) Riscar o que não interessa.\n\n(2) JO no L 194 de 22. 7. 1988, p. 10.\n\nNota: Este certificado deve:\n\na) Ser estabelecido em, pelo menos, uma língua oficial do Estado-membro de destino e do Estado-membro por onde os embriões darão entrada no território da Comunidade;\n\nb) Ser estabelecido para cada destinatário individual;\n\nc) Acompanhar os embriões no seu original.\n\n(1) JO no L 95 de 13. 4. 1988, p. 21."
+  },
+  "407cccf5b4ff4c04": {
+   "fragment_id": "PARTE II — Lista dos países autorizados a utilizar o modelo de certificado sanitário constante da parte I do anexo A",
+   "type": "divisao",
+   "heading": "PARTE II — Lista dos países autorizados a utilizar o modelo de certificado sanitário constante da parte I do anexo A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE II — Lista dos países autorizados a utilizar o modelo de certificado sanitário constante da parte I do anexo A\n\nÁustria\n\nBósnia-Herzegovina\n\nCanadá - Em relação à parcela do território do Canadá designada « Okanagan area of British Columbia » e definida no anexo da Decisão 88/212/CEE da Comissão (1), é obrigatória a certificação do constante da alínea c), subalínea ii), do ponto 2.\n\nChecoslováquia\n\nCroácia\n\nEslovénia\n\nEstados Unidos da América\n\nFinlândia\n\nHungria\n\nIsrael\n\nNova Zelândia\n\nNoruega\n\nPolónia\n\nRepúblicas Jugoslavas de Sérvia, Montenegro e Macedónia\n\nRoménia\n\nSuécia\n\nSuíça"
+  },
+  "d97a380498e58471": {
+   "fragment_id": "ANEXO B — PARTE I",
+   "type": "divisao",
+   "heading": "ANEXO B — PARTE I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B — PARTE I\n\n1. Expedidor (nome e endereço completo) CERTIFICADO DE POLÍCIA SANITÁRIA\n\nNo ORIGINAL\n\n2. País terceiro de colheita 3. Destinatário (nome e endereço completo)\n\nNOTAS\n\na) Deve ser emitido um certificado separado para cada lote de embriões\n\nb) O original do certificado deve acompanhar o lote até ao local de destino\n\n6. Local de expedição\n\n8. Meio de transporte\n\n9. Local e Estado-membro de destino\n\n11. Número e marca de código do contentor dos embriões\n\n4. AUTORIDADE COMPETENTE\n\n5. AUTORIDADE LOCAL COMPETENTE\n\n7. Nome e endereço da equipa da colheita de embriões\n\n10. Número de registo da equipa de colheita de embriões\n\n12. Identificação da remessa\n\na) Número de embriões b) Data(s) de colheita c) Raça\n\n13. Eu, abaixo assinado, veterinário oficial do governo de,\n\n(nome do país terceiro)\n\ncertifico que:\n\n1. A equipa de colheita de embriões seguidamente identificada:\n\n- foi aprovada pela Decisão 92/452/CEE nos termos do disposto no capítulo I do anexo A da Directiva 89/556/CEE,\n\n- procedeu à colheita, tratamento, armazenagem e transporte dos embriões acima descritos nas condições constantes do capítulo II do anexo A da Directiva 89/556/CEE,\n\n- está sujeita, pelo menos duas vezes por ano, a uma inspecção por parte de um veterinário oficial da autoridade veterinária central de.\n\n(nome do país terceiro)\n\n2. De acordo com as averiguações oficiais\n\n(nome do país terceiro)\n\nesteve:\n\na) Indemne de peste bovina, nos 12 meses imediatamente anteriores à colheita dos embriões a exportar\n\nb) Quer (1)\n\ni) Indemne de febre aftosa nos 12 meses imediatamente anteriores à colheita de embriões a exportar e não praticou a vacinação contra esta doença\n\nou\n\nii) Não esteve indemne de febre aftosa nos 12 meses imediatamente anteriores à colheita de embriões e/ou praticou a vacinação contra esta doença e\n\n- os animais dadores provêm de uma exploração onde não se vacinou qualquer animal contra a febre aftosa durante os 30 dias que precederam a colheita e\n\n- os embriões foram armazenados em condições aprovadas durante um período mínimo de 30 dias imediatamente após a colheita\n\nc) Quer (1)\n\ni) Indemne de febre catarral e de doença hemorrágica epizoótica (DHE) nos 12 meses imediatamente anteriores à colheita dos embriões a exportar e não procede à vacinação contra estas doenças\n\nou\n\nii) Não esteve indemne de febre catarral e de doença hemorrágica epizoótica (DHE) nos 12 meses imediatamente anteriores à colheita de embriões a exportar e/ou proceder à vacinação contra estas doenças e\n\n- os embriões foram armazenados em condições aprovadas durante um período mínimo de 30 dias imediatamente após a colheita e\n\n- a fêmea dadora foi submetida, com resultados negativos à prova ELISA competitiva, para a detecção de anticorpos de febre catarral, à prova de imunodifusão em ágar-gel e um ensaio de seroneutralização para detecção de anticorpos de doença hemorrágica epizooótica numa amostra de sangue colhida há, pelo menos, 21 dias após a colheita dos embriões.\n\n3. a) As instalações onde os embriões a exportar foram colhidos e transformados, estavam, aquando da colheita, situadas no centro de uma área de 20 km de diâmetro, nas quais, segundo constatações oficiais, não se verificaram quaisquer casos de febre aftosa, febre catarral, doença hemorrágica epizoótica, estomatite vesiculosa contagiosa, febre do vale do Rift, peripneumonia contagiosa bovina nos 30 dias imediatamente anteriores à colheita e, no caso dos embriões certificados nos termos do no 2, ponto ii) da alínea b) e do no 2, ponto ii) da alínea c), nos 30 dias após a colheita;\n\n3. b) Do momento da colheita dos embriões a exportar até à sua expedição, estiveram armazenados ininterruptamente em instalações situadas no centro de uma área de 20 km de diâmetro onde, segundo constatações oficiais, não se verificou qualquer caso de febre aftosa, estomatite vesiculosa contagiosa ou febre do vale do Rift.\n\n4. As fêmeas dadoras:\n\na) Permaneceram, nos 30 dias imediatamente anteriores à colheita dos embriões a exportar, em instalações situadas no centro de uma área de 20 km de diâmetro onde, segundo constatações oficiais, não se verificou qualquer caso de febre aftosa, febre catarral, doença hemorrágica epizoótica, estomatite vesiculosa contagiosa, febre do vale du Rift ou peripneumonia contagiosa bovina;\n\nb) Foram artificialmente inseminadas com sémen de um boi que, aquando da colheita do sémen, se encontrava num centro de colheita de sémen oficialmente aprovado nos termos do disposto na Directiva 88/407/CEE do Conselho (2) ou em qualquer decisão posterior;\n\nc) Não apresentaram qualquer sinal clínico de doença no dia da colheita;\n\nd) Permaneceram, nos 6 meses imediatamente anteriores à colheita, no território de\n\nnum máximo de 2 efectivos que:\n\n(nome do país exportador)\n\n- estavam indemnes de tuberculose,\n\n- estavam indemnes de brucelose,\n\n- estavam indemnes de leucose bovina enzoótica ou não apresentaram sinais de leucose bovina enzoótica durante os três últimos anos,\n\n- não apresentaram quaisquer sinais clínicos de rinotraqueíte bovina/vulvovaginite pustulosa infecciosa nos últimos 12 meses;\n\ne) Foram submetidas com resultados negativos à prova de seroneutralização para Akabane numa amostra de sangue colhida há, pelo menos, 21 dias após a colheita dos embriões.\n\nFeito em\n\nCarimbo em\n\nAssinatura:\n\nNome e qualificação (em maiúsculas):\n\n(1) Riscar o que não interessa.\n\n(2) JO no L 194 de 22. 7. 1988, p. 10.\n\nNota: Este certificado deve:\n\na) Ser estabelecido em, pelo menos, uma língua oficial do Estado-membro de destino e do Estado-membro por onde os embriões darão entrada no território da Comunidade;\n\nb) Ser estabelecido para cada destinatário individual;\n\nc) Acompanhar os embriões no seu original."
+  },
+  "548ccb6a19df3d2e": {
+   "fragment_id": "PARTE II — Lista dos países autorizados a utilizar o modelo de certificado sanitário constante da parte I do anexo B",
+   "type": "divisao",
+   "heading": "PARTE II — Lista dos países autorizados a utilizar o modelo de certificado sanitário constante da parte I do anexo B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE II — Lista dos países autorizados a utilizar o modelo de certificado sanitário constante da parte I do anexo B\n\nAustrália"
+  },
+  "3b3f385d6e54b5d6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992D0471 — PT — 05.04.2005 — 008.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992D0471) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/31992D0471) [de 2 de Setembro de 1992](http://publications.europa.eu/resource/celex/31992D0471) [relativa às condições de polícia sanitária e à certificação veterinária aplicáveis às importações de embriões de bovinos provenientes de países terceiros](http://publications.europa.eu/resource/celex/31992D0471) [(92/471/CEE)](http://publications.europa.eu/resource/celex/31992D0471) (JO L 270, 15.9.1992, p.27)\n\n**revogado por:**\n\n- [Decisão da Comissão de 9 de Março de 2005](http://publications.europa.eu/resource/celex/32005D0217) — L 69 — 41 — 16.3.2005"
+  }
+ }
+}

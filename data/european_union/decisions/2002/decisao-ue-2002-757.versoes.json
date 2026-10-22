@@ -1,0 +1,633 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002D0757:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002D0757-20220411",
+ "dre_path": null,
+ "source_lastmod": "2022-04-11",
+ "versions": [
+  {
+   "date": "2002-09-20",
+   "future": false,
+   "celex": "32002D0757",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "52bee0491fb2f5b4",
+    "30a54e45aab5f807",
+    "f3a0f0f5ce7d5098",
+    "6fbe63bb019578ed",
+    "043803fcd781eaf5",
+    "15d4c1689eb93600",
+    "6cf5459ca206ba9e",
+    "75f262a1abf393ba",
+    "1330cb25dc41a5ab",
+    "cba6956cdd81fa06",
+    "aa694a45844ecac5"
+   ]
+  },
+  {
+   "date": "2004-04-30",
+   "future": false,
+   "celex": "02002D0757-20040430",
+   "acts": [
+    {
+     "id": "eu:celex:32004D0426:por",
+     "title": "DECISÃO DA COMISSÃO de 29 de Abril de 2004",
+     "published": null,
+     "celex": "32004D0426"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera ANEXO",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "1d8c5495fc6f7fca",
+    "8e8fdbf5a5e2878f",
+    "f3a0f0f5ce7d5098",
+    "cbf3dd686045e244",
+    "043803fcd781eaf5",
+    "1e76fb31059d8e30",
+    "9522004f23e7c4aa",
+    "75f262a1abf393ba",
+    "4f3ccebe6ab0fb5f",
+    "82b682818d8d24fe",
+    "1ab8af982e9bce52",
+    "735672e57623a52d"
+   ]
+  },
+  {
+   "date": "2007-03-30",
+   "future": false,
+   "celex": "02002D0757-20070330",
+   "acts": [
+    {
+     "id": "eu:celex:32007D0201:por",
+     "title": "DECISÃO DA COMISSÃO de 27 de Março de 2007",
+     "published": null,
+     "celex": "32007D0201"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera ANEXO",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "aef33b8153efd3d5",
+    "2752b376bfa32b9c",
+    "f3a0f0f5ce7d5098",
+    "3f75abbdd5ab3141",
+    "043803fcd781eaf5",
+    "b55fccbf73717182",
+    "5d52301de2fd1347",
+    "75f262a1abf393ba",
+    "e3c20778a595dea6",
+    "82b682818d8d24fe",
+    "2a4fac348d27bddd",
+    "5e7ad6875e9b044e"
+   ]
+  },
+  {
+   "date": "2013-12-20",
+   "future": false,
+   "celex": "02002D0757-20131220",
+   "acts": [
+    {
+     "id": "eu:celex:32013D0782:por",
+     "title": "DECISÃO DE EXECUÇÃO DA COMISSÃO de 18 de dezembro de 2013",
+     "published": null,
+     "celex": "32013D0782"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Notas",
+    "Adita Artigo 6.º-A",
+    "Adita [►M3](http://publications.europa.eu/resource/celex/32013D0782) ANEXO I◄",
+    "Adita ANEXO II",
+    "Adita PARTE I",
+    "Adita Condições referidas no n.º 1, segundo parágrafo, do artigo 3.º",
+    "Adita PARTE II",
+    "Adita Model of Certificate of Kiln-drying",
+    "Adita CERTIFICATE OF KILN DRYING",
+    "Adita Sawn Hardwood Lumber",
+    "Adita Description of Consignment:",
+    "Adita AUTHORIZED PERSON RESPONSIBLE FOR CERTIFICATION",
+    "Adita NATIONAL HARDWOOD LUMBER ASSOCIATION VALIDATION",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "6b2b8220975da9d3",
+    "2752b376bfa32b9c",
+    "f3a0f0f5ce7d5098",
+    "f1ab878e679c999c",
+    "043803fcd781eaf5",
+    "2687287e0d0e8842",
+    "5d52301de2fd1347",
+    "10f93c7cd0050913",
+    "75f262a1abf393ba",
+    "e3c20778a595dea6",
+    "82b682818d8d24fe",
+    "a9e37d39bfa261ab",
+    "852174729551523b",
+    "1886b172d44c9add",
+    "a13235b12ce06312",
+    "de2ce44f7122ebf5",
+    "29a352019a48bcb7",
+    "dea0877d4948a1e5",
+    "9a3ecb71b2f4563e",
+    "721e46a053d208e7",
+    "fbf2c269490f6b0b",
+    "7134458918154b56",
+    "e1a1a21dd260560a"
+   ]
+  },
+  {
+   "date": "2016-11-10",
+   "future": false,
+   "celex": "02002D0757-20161110",
+   "acts": [
+    {
+     "id": "eu:celex:32016D1967:por",
+     "title": "DECISÃO DE EXECUÇÃO (UE) 2016/1967 DA COMISSÃO de 8 de novembro de 2016",
+     "published": null,
+     "celex": "32016D1967"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "a48dccdfecea633f",
+    "2752b376bfa32b9c",
+    "f3a0f0f5ce7d5098",
+    "6690934f603ff599",
+    "043803fcd781eaf5",
+    "07972bde014d5061",
+    "5d52301de2fd1347",
+    "10f93c7cd0050913",
+    "75f262a1abf393ba",
+    "e3c20778a595dea6",
+    "82b682818d8d24fe",
+    "a9e37d39bfa261ab",
+    "852174729551523b",
+    "1886b172d44c9add",
+    "a13235b12ce06312",
+    "de2ce44f7122ebf5",
+    "29a352019a48bcb7",
+    "dea0877d4948a1e5",
+    "9a3ecb71b2f4563e",
+    "721e46a053d208e7",
+    "fbf2c269490f6b0b",
+    "7134458918154b56",
+    "d35dc846e2709182"
+   ]
+  },
+  {
+   "date": "2022-04-11",
+   "future": false,
+   "celex": "02002D0757-20220411",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 6.º-A",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime [►M3](http://publications.europa.eu/resource/celex/32013D0782) ANEXO I◄",
+    "Suprime ANEXO II",
+    "Suprime PARTE I",
+    "Suprime Condições referidas no n.º 1, segundo parágrafo, do artigo 3.º",
+    "Suprime PARTE II",
+    "Suprime Model of Certificate of Kiln-drying",
+    "Suprime CERTIFICATE OF KILN DRYING",
+    "Suprime Sawn Hardwood Lumber",
+    "Suprime Description of Consignment:",
+    "Suprime AUTHORIZED PERSON RESPONSIBLE FOR CERTIFICATION",
+    "Suprime NATIONAL HARDWOOD LUMBER ASSOCIATION VALIDATION",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "0ec9582801eee19c"
+   ]
+  }
+ ],
+ "fragments": {
+  "52bee0491fb2f5b4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "| 20.9.2002 | PT | Jornal Oficial das Comunidades Europeias | L 252/37 |\n| --- | --- | --- | --- |\n\nDECISÃO DA COMISSÃO\n\nde 19 de Setembro de 2002\n\nrelativa a medidas fitossanitárias provisórias de emergência destinadas a impedir a introdução e a dispersão de Phytophthora ramorum Werres, De Cock & Man in 't Veld sp. nov. na Comunidade\n\n[notificada com o número C(2002) 3380]\n\n(2002/757/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua dispersão no interior da Comunidade[(1)](http://publications.europa.eu/resource/cellar/010cc64b-3055-405b-a57e-7464c4739102.0010.05/DOC_1#ntr1-L_2002252PT.01003701-E0001), com a última redacção que lhe foi dada pela Directiva 2002/36/CE da Comissão[(2)](http://publications.europa.eu/resource/cellar/010cc64b-3055-405b-a57e-7464c4739102.0010.05/DOC_1#ntr2-L_2002252PT.01003701-E0002), e, nomeadamente, o n.o 3, terceira frase, do seu artigo 16.o,\n\nConsiderando o seguinte:\n\n(1) Sempre que um Estado-Membro estime que há um perigo de introdução ou propagação no seu território de um organismo prejudicial não constante do anexo I ou do anexo II da Directiva 2000/29/CE, pode adoptar provisoriamente todas as medidas adicionais necessárias para se proteger desse perigo.\n\n(2) Em 29 de Abril de 2002, o Reino Unido informou os outros Estados-Membros e a Comissão da ocorrência de focos de Phytophthora ramorum Werres, De Cock & Man in 't Veld sp. nov. (a seguir designada por o «organismo prejudicial») no seu território e adoptou, em 13 de Maio de 2002, medidas adicionais para impedir a introdução e a dispersão do organismo prejudicial na Comunidade. Os Países Baixos e a Alemanha comunicaram também, em 29 de Abril de 2002, a ocorrência de focos desse organismo nos seus territórios.\n\n(3) O organismo prejudicial não consta presentemente do anexo I nem do anexo II da Directiva 2000/29/CE. No entanto, uma análise preliminar do risco constituído por esta doença, efectuada com base nas informações científicas disponíveis, demonstrou que o organismo prejudicial e os seus efeitos nocivos podem constituir um perigo fitossanitário para a Comunidade, sobretudo os isolados não europeus apenas presentes nos Estados Unidos da América, no caso dos carvalhos da Comunidade, e os isolados europeus, no caso de vegetais ornamentais como as Rhododendron spp. e Viburnum spp. Foi pedido aos serviços responsáveis dos Estados-Membros que prosseguissem os trabalhos científicos sobre o risco que os isolados não europeu constituem para os carvalhos da Comunidade, sobre a epidemiologia do organismo prejudicial e sobre os potenciais vegetais hospedeiros.\n\n(4) É, pois, necessário adoptar medidas fitossanitárias provisórias de emergência contra a introdução e a dispersão do organismo prejudicial na Comunidade.\n\n(5) Essas medidas devem dizer respeito à introdução ou à dispersão do organismo prejudicial, à produção e circulação na Comunidade de vegetais hospedeiros do organismo prejudicial conhecidos, ao controlo do organismo prejudicial e a uma vigilância mais geral para detecção da presença ou da ausência continuada do organismo prejudicial nos Estados-Membros. No entanto, não é necessário aplicar essas medidas aos vegetais de Rhododendron simsii Planch, com excepção dos frutos e sementes, pois as informações disponíveis indicam que esses vegetais não são afectados pelo organismo prejudicial.\n\n(6) Os resultados das medidas referidas serão avaliados regularmente em 2002 e 2003, nomeadamente com base nas informações a fornecer pelos Estados-Membros. À luz dos resultados dessa avaliação e do parecer científico emitido pelos Estados-Membros, serão eventualmente consideradas medidas suplementares.\n\n(7) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Fitossanitário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "30a54e45aab5f807": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos da presente decisão, entende-se por:\n\n1. «Organismo prejudicial», a espécie Phytophthora ramorum Werres, De Cock & Man in 't Veld sp. nov.\n\n2. «Vegetais susceptíveis», os vegetais, com excepção dos frutos e sementes, de Acer macrophyllum Pursh., Aesculus californica Nutt., Arbutus menziesii Pursch., Arctostaphylos spp. Adans, Heteromeles arbutifolia (Lindley) M. Roemer, Lithocarpus densiflorus (H & A), Lonicera hispidula (Dougl.), Quercus spp. L., Rhamnus californica (Esch), Rhododendron spp. L., com excepção da Rhododendron simsii Planch., Umbellularia californica (Pursch.), Vaccinium ovatum (Hook & Arn) Nutt. e Viburnum spp. L.\n\n3. «Madeira susceptível», a madeira de Acer macrophyllum Pursh., Aesculus californica Nutt., Lithocarpus densiflorus (H & A) e Quercus L.\n\n4. «Casca susceptível» a casca isolada de Acer macrophyllum Pursh., Aesculus californica Nutt., Lithocarpus densiflorus (H & A) e Quercus L."
+  },
+  "f3a0f0f5ce7d5098": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão proibidas a introdução e a dispersão na Comunidade de isolados não europeus e europeus do organismo prejudicial."
+  },
+  "6fbe63bb019578ed": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os vegetais susceptíveis e a madeira susceptível só podem ser introduzidos no território da Comunidade se respeitarem as medidas fitossanitárias de emergência estabelecidas nos pontos 1A e 2 do anexo da presente decisão e se forem, aquando da sua entrada na Comunidade, submetidos a inspecção fitossanitária para detecção da presença de isolados não europeus do organismo prejudicial, em conformidade com o n.o 1, alínea a), do artigo 13.o da Directiva 2000/29/CE, e forem considerados, na sequência dessa inspecção, isentos do organismo prejudicial.\n\n2. O disposto nos pontos 1A e 2 do anexo da presente decisão é aplicável apenas aos vegetais susceptíveis e à madeira susceptível originários dos Estados Unidos da América e que deixem os Estados Unidos, com destino à Comunidade, a partir de 1 de Novembro de 2002, inclusive.\n\n3. As medidas estabelecidas na parte A, ponto 3 da secção I, do anexo IV no que diz respeito à madeira de Quercus L., incluindo a madeira que não manteve a sua superfície natural arredondada, originária dos Estados Unidos da América, não são aplicáveis à madeira susceptível de Quercus L. que satisfaça os requisitos da alínea b) do ponto 2 do anexo da presente decisão.\n\n4. A partir de 1 de Novembro de 2002, os vegetais de Rhododendron spp., excepto os de Rhododendron simsii Planch, e de Viburnum spp., com excepção dos frutos e sementes, originários de países terceiros, que não os Estados Unidos da América, introduzidos na Comunidade só podem circular na Comunidade se forem acompanhados de um passaporte fitossanitário preparado e emitido em conformidade com a Directiva 92/105/CEE da Comissão[(3)](http://publications.europa.eu/resource/cellar/010cc64b-3055-405b-a57e-7464c4739102.0010.05/DOC_1#ntr3-L_2002252PT.01003701-E0003)."
+  },
+  "043803fcd781eaf5": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nNão é permitida a entrada na Comunidade de casca susceptível originária dos Estados Unidos da América."
+  },
+  "15d4c1689eb93600": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA partir de 1 de Novembro de 2002, os vegetais de Rhododendron spp., excepto os de Rhododendron simsii Planch., e de Viburnum spp., com excepção dos frutos e sementes, originários da Comunidade não podem ser retirados do seu local de produção a não ser que respeitem as condições estabelecidas no ponto 3 do anexo da presente decisão. Os produtores desses vegetais devem estar registados em conformidade com o disposto na Directiva 92/90/CEE do Conselho[(4)](http://publications.europa.eu/resource/cellar/010cc64b-3055-405b-a57e-7464c4739102.0010.05/DOC_1#ntr4-L_2002252PT.01003701-E0004)."
+  },
+  "6cf5459ca206ba9e": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-Membros efectuarão prospecções oficiais nos seus territórios para determinar se existem provas de infecção provocada pelo organismo prejudicial.\n\n2. Sem prejuízo das disposições do n.o 1 do artigo 16.o da Directiva 2000/29/CE, os resultados das pesquisas previstas no n.o 1 serão notificados à Comissão e aos outros Estados-Membros até 1 de Novembro de 2003."
+  },
+  "75f262a1abf393ba": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-Membros adaptarão, até 31 de Outubro de 2002, as medidas adoptadas para se protegerem da introdução e dispersão do organismo prejudicial de forma a que as medidas cumpram o disposto na presente decisão e informarão imediatamente a Comissão dessas medidas."
+  },
+  "1330cb25dc41a5ab": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA presente decisão será revista até 31 de Dezembro de 2003."
+  },
+  "cba6956cdd81fa06": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 19 de Setembro de 2002.\n\nPela Comissão\n\nDavid BYRNE\n\nMembro da Comissão\n\n[(1)](http://publications.europa.eu/resource/cellar/010cc64b-3055-405b-a57e-7464c4739102.0010.05/DOC_1#ntc1-L_2002252PT.01003701-E0001) [JO L 169 de 10.7.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_169_R_TOC).\n\n[(2)](http://publications.europa.eu/resource/cellar/010cc64b-3055-405b-a57e-7464c4739102.0010.05/DOC_1#ntc2-L_2002252PT.01003701-E0002) [JO L 116 de 3.5.2002, p. 16](http://publications.europa.eu/resource/oj/JOL_2002_116_R_TOC).\n\n[(3)](http://publications.europa.eu/resource/cellar/010cc64b-3055-405b-a57e-7464c4739102.0010.05/DOC_1#ntc3-L_2002252PT.01003701-E0003) [JO L 4 de 8.1.1993, p. 22](http://publications.europa.eu/resource/oj/JOL_1993_004_R_TOC).\n\n[(4)](http://publications.europa.eu/resource/cellar/010cc64b-3055-405b-a57e-7464c4739102.0010.05/DOC_1#ntc4-L_2002252PT.01003701-E0004) [JO L 344 de 26.11.1992, p. 38](http://publications.europa.eu/resource/oj/JOL_1992_344_R_TOC)."
+  },
+  "aa694a45844ecac5": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1A. Sem prejuízo do disposto na parte A, ponto 2, do anexo III e na parte A, pontos 11.1, 39 e 40 da secção I, do anexo IV da Directiva 2000/29/CE, os vegetais susceptíveis originários dos Estados Unidos da América devem ser acompanhados do certificado fitossanitário previsto no artigo 7.o ou no artigo 8.o da Directiva 2000/29/CE: a) Constatando que os vegetais são originários de zonas em que se tem conhecimento de que não ocorrem isolados não europeus do organismo prejudicial. O nome da zona deve ser indicado no certificado, na rúbrica intitulada «Local de origem», ou b) Emitido após verificação oficial, no local de produção, de que não foram observados, nos vegetais susceptíveis, sinais de isolados não europeus do organismo prejudicial durante inspecções oficiais, que incluíram testes laboratoriais relativos a quaisquer sintomas suspeitos, efectuados desde o início do último ciclo vegetativo completo. Além disso, o certificado só pode ser emitido depois de terem sido colhidas, antes da expedição, amostras representativas dos vegetais e de essas amostras terem sido inspeccionadas e consideradas isentas de isolados não europeus do organismo prejudicial. Este facto deve ser indicado no certificado em questão, na rúbrica «Declaração adicional», por meio da menção «Isentos de isolados não europeus de Phytophthora ramorum Werres, De Cock & Man in 't Veld sp. nov.».\n\na) Constatando que os vegetais são originários de zonas em que se tem conhecimento de que não ocorrem isolados não europeus do organismo prejudicial. O nome da zona deve ser indicado no certificado, na rúbrica intitulada «Local de origem», ou\n\nb) Emitido após verificação oficial, no local de produção, de que não foram observados, nos vegetais susceptíveis, sinais de isolados não europeus do organismo prejudicial durante inspecções oficiais, que incluíram testes laboratoriais relativos a quaisquer sintomas suspeitos, efectuados desde o início do último ciclo vegetativo completo.\n\n1B. Os vegetais susceptíveis introduzidos referidos no ponto 1A só podem circular na Comunidade se estiverem acompanhados de um passaporte fitossanitário preparado e emitido em conformidade com o disposto na Directiva 92/105/CEE que confirme a realização das inspecções referidas no n.o 1 do artigo 3.o\n\n2. A madeira susceptível originária dos Estados Unidos da América só pode ser importada para a Comunidade se estiver acompanhada do certificado fitossanitário previsto no artigo 7.o ou no artigo 8.o da Directiva 2000/29/CE e: a) Constatando que a madeira é originária de uma zona em que se tem conhecimento de que não ocorrem isolados não europeus do organismo prejudicial. O nome da zona deve ser indicado no certificado, na rúbrica intitulada «Local de origem», ou b) Emitido após verificação oficial de que a madeira foi descascada e de que: i) foi esquadriada de forma a remover inteiramente a superfície arredondada, ou ii) o seu teor de água, expresso em percentagem de matéria seca, não excede 20 %, ou iii) foi desinfectada por meio de um tratamento adequado por ar quente ou água quente, ou c) No caso da madeira serrada com ou sem casca residual aderente, se for visível a marca «Kiln-dried» (seca em estufa), «KD» ou outra marca reconhecida internacionalmente, aposta na madeira ou na sua embalagem em conformidade com as práticas comerciais correntes, comprovativa de que a que a madeira foi seca em estufa até atingir um teor de humidade, expresso em percentagem da matéria seca aquando da transformação, inferior a 20 %, obtido através de um programa tempo/temperatura adequado.\n\na) Constatando que a madeira é originária de uma zona em que se tem conhecimento de que não ocorrem isolados não europeus do organismo prejudicial. O nome da zona deve ser indicado no certificado, na rúbrica intitulada «Local de origem», ou\n\nb) Emitido após verificação oficial de que a madeira foi descascada e de que: i) foi esquadriada de forma a remover inteiramente a superfície arredondada, ou ii) o seu teor de água, expresso em percentagem de matéria seca, não excede 20 %, ou iii) foi desinfectada por meio de um tratamento adequado por ar quente ou água quente, ou\n\ni) foi esquadriada de forma a remover inteiramente a superfície arredondada, ou\n\nii) o seu teor de água, expresso em percentagem de matéria seca, não excede 20 %, ou\n\niii) foi desinfectada por meio de um tratamento adequado por ar quente ou água quente,\n\nc) No caso da madeira serrada com ou sem casca residual aderente, se for visível a marca «Kiln-dried» (seca em estufa), «KD» ou outra marca reconhecida internacionalmente, aposta na madeira ou na sua embalagem em conformidade com as práticas comerciais correntes, comprovativa de que a que a madeira foi seca em estufa até atingir um teor de humidade, expresso em percentagem da matéria seca aquando da transformação, inferior a 20 %, obtido através de um programa tempo/temperatura adequado.\n\n3. Os vegetais de Rhododendron spp., excepto os de Rhododendron simsii Planch., e de Viburnum spp., com excepção dos frutos e sementes, originários da Comunidade só podem ser retirados do seu local de produção se estiverem acompanhados de um passaporte fitossanitário conforme referido no ponto 1 do presente anexo e a) Forem originários de zonas em que se tem conhecimento de que não ocorrem isolados europeus do organismo prejudicial, ou b) Não foram observados, no local de produção, sinais da presença de isolados europeus do organismo prejudicial nesses vegetais desde o início do último ciclo vegetativo completo em inspecções oficiais, que incluíram testes laboratoriais relativos a quaisquer sintomas suspeitos, efectuados pelo menos uma vez em momentos adequados durante o período de crescimento activo dos vegetais, ou c) Nos casos em que tenham sido encontrados nesses vegetais, no local de produção, sinais de isolados europeus do organismo prejudicial, foram tomadas medidas adequadas para erradicar o organismo prejudicial, consistindo essas medidas, pelo menos, na destruição dos vegetais infectados e de todos os vegetais susceptíveis a uma distância de 2 metros dos vegetais infectados, e — relativamente a todos os vegetais susceptíveis num raio de 10 metros dos vegetais infectados, e relativamente a todos os vegetais restantes do lote afectado, os vegetais foram retidos no local de produção e submetidos a inspecções adicionais pelo menos duas vezes nos três meses seguintes à detecção da infecção, durante o período de crescimento activo dos vegetais, e na sequência dessas inspecções considerados isentos do organismo prejudicial, — relativamente a todos os outros vegetais susceptíveis do local de produção, os vegetais foram submetidos a uma reinspecção intensiva após a detecção da infecção e na sequência dessa reinspecção foram considerados isentos do organismo prejudicial.\n\na) Forem originários de zonas em que se tem conhecimento de que não ocorrem isolados europeus do organismo prejudicial, ou\n\nb) Não foram observados, no local de produção, sinais da presença de isolados europeus do organismo prejudicial nesses vegetais desde o início do último ciclo vegetativo completo em inspecções oficiais, que incluíram testes laboratoriais relativos a quaisquer sintomas suspeitos, efectuados pelo menos uma vez em momentos adequados durante o período de crescimento activo dos vegetais, ou\n\nc) Nos casos em que tenham sido encontrados nesses vegetais, no local de produção, sinais de isolados europeus do organismo prejudicial, foram tomadas medidas adequadas para erradicar o organismo prejudicial, consistindo essas medidas, pelo menos, na destruição dos vegetais infectados e de todos os vegetais susceptíveis a uma distância de 2 metros dos vegetais infectados, e — relativamente a todos os vegetais susceptíveis num raio de 10 metros dos vegetais infectados, e relativamente a todos os vegetais restantes do lote afectado, os vegetais foram retidos no local de produção e submetidos a inspecções adicionais pelo menos duas vezes nos três meses seguintes à detecção da infecção, durante o período de crescimento activo dos vegetais, e na sequência dessas inspecções considerados isentos do organismo prejudicial, — relativamente a todos os outros vegetais susceptíveis do local de produção, os vegetais foram submetidos a uma reinspecção intensiva após a detecção da infecção e na sequência dessa reinspecção foram considerados isentos do organismo prejudicial.\n\n— relativamente a todos os vegetais susceptíveis num raio de 10 metros dos vegetais infectados, e relativamente a todos os vegetais restantes do lote afectado, os vegetais foram retidos no local de produção e submetidos a inspecções adicionais pelo menos duas vezes nos três meses seguintes à detecção da infecção, durante o período de crescimento activo dos vegetais, e na sequência dessas inspecções considerados isentos do organismo prejudicial,\n\n— relativamente a todos os outros vegetais susceptíveis do local de produção, os vegetais foram submetidos a uma reinspecção intensiva após a detecção da infecção e na sequência dessa reinspecção foram considerados isentos do organismo prejudicial."
+  },
+  "1d8c5495fc6f7fca": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Setembro de 2002\n\nrelativa a medidas fitossanitárias provisórias de emergência destinadas a impedir a introdução e a dispersão de *Phytophthora ramorum* Werres, De Cock & Man in 't Veld sp. nov. na Comunidade\n\n[notificada com o número C(2002) 3380]\n\n(2002/757/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua dispersão no interior da Comunidade ([^1^](http://publications.europa.eu/resource/cellar/71bb73cf-0abe-4670-8285-9823c6e0bf62.0017.03/DOC_1#E0001)), com a última redacção que lhe foi dada pela Directiva 2002/36/CE da Comissão ([^2^](http://publications.europa.eu/resource/cellar/71bb73cf-0abe-4670-8285-9823c6e0bf62.0017.03/DOC_1#E0002)), e, nomeadamente, o n.º 3, terceira frase, do seu artigo 16.º,\n\n(1) Sempre que um Estado-Membro estime que há um perigo de introdução ou propagação no seu território de um organismo prejudicial não constante do anexo I ou do anexo II da Directiva 2000/29/CE, pode adoptar provisoriamente todas as medidas adicionais necessárias para se proteger desse perigo.\n\n(2) Em 29 de Abril de 2002, o Reino Unido informou os outros Estados-Membros e a Comissão da ocorrência de focos de *Phytophthora ramorum* Werres, De Cock & Man in 't Veld sp. nov. (a seguir designada por o «organismo prejudicial») no seu território e adoptou, em 13 de Maio de 2002, medidas adicionais para impedir a introdução e a dispersão do organismo prejudicial na Comunidade. Os Países Baixos e a Alemanha comunicaram também, em 29 de Abril de 2002, a ocorrência de focos desse organismo nos seus territórios.\n\n(3) O organismo prejudicial não consta presentemente do anexo I nem do anexo II da Directiva 2000/29/CE. No entanto, uma análise preliminar do risco constituído por esta doença, efectuada com base nas informações científicas disponíveis, demonstrou que o organismo prejudicial e os seus efeitos nocivos podem constituir um perigo fitossanitário para a Comunidade, sobretudo os isolados não europeus apenas presentes nos Estados Unidos da América, no caso dos carvalhos da Comunidade, e os isolados europeus, no caso de vegetais ornamentais como as *Rhododendron* spp. e *Viburnum* spp. Foi pedido aos serviços responsáveis dos Estados-Membros que prosseguissem os trabalhos científicos sobre o risco que os isolados não europeu constituem para os carvalhos da Comunidade, sobre a epidemiologia do organismo prejudicial e sobre os potenciais vegetais hospedeiros.\n\n(4) É, pois, necessário adoptar medidas fitossanitárias provisórias de emergência contra a introdução e a dispersão do organismo prejudicial na Comunidade.\n\n(5) Essas medidas devem dizer respeito à introdução ou à dispersão do organismo prejudicial, à produção e circulação na Comunidade de vegetais hospedeiros do organismo prejudicial conhecidos, ao controlo do organismo prejudicial e a uma vigilância mais geral para detecção da presença ou da ausência continuada do organismo prejudicial nos Estados-Membros. No entanto, não é necessário aplicar essas medidas aos vegetais de *Rhododendron simsii* Planch, com excepção dos frutos e sementes, pois as informações disponíveis indicam que esses vegetais não são afectados pelo organismo prejudicial.\n\n(6) Os resultados das medidas referidas serão avaliados regularmente em 2002 e 2003, nomeadamente com base nas informações a fornecer pelos Estados-Membros. À luz dos resultados dessa avaliação e do parecer científico emitido pelos Estados-Membros, serão eventualmente consideradas medidas suplementares.\n\n(7) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Fitossanitário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "8e8fdbf5a5e2878f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos da presente decisão, entende-se por:\n\n1. «Organismo prejudicial», a espécie *Phytophthora ramorum* Werres, De Cock & Man in 't Veld sp. nov.\n\n2. «Vegetais susceptíveis», os vegetais, com excepção dos frutos e sementes, de *Acer macrophyllum* Pursh, *Aesculus californica* Nutt., *Aesculus hippocastanum* L., *Arbutus menziesii* Pursch., *Arbutus unedo* L., *Arctostaphylos* spp. Adans, *Camellia* spp., *Castanea sativa* Mill., *Fagus sylvatica* L., *Hamamelis virginiana* L., *Heteromeles arbutifolia* (Lindley) M. Roemer, *Kalmia latifolia* L., *Leucothoe fontanesiana* (Steudel) Sleumer, *Lithocarpus densiflorus* (H & A), *Lonicera hispidula* (Dougl.), *Pieris* spp., *Pseudotsuga menziesii* (Mirbel) Franco, *Quercus* spp. L., *Rhamnus californica* (Esch), *Rhododendron* spp. L., com excepção de *Rhododendron simsii* Planch., *Sequoia sempervirens* (D.Don) Endl., *Syringa vulgaris* L., *Taxus* spp., *Trientalis latifolia* (Hook), *Umbellularia californica* (Pursch.), *Vaccinium vitis-idaea* Britt., *Vaccinium ovatum* (Hook & Arn) Nutt. e *Viburnum* spp. L.\n\n3. «Madeira susceptível», a madeira de *Acer macrophyllum* Pursh., *Aesculus californica* Nutt., *Lithocarpus densiflorus* (H & A) e *Quercus* L.\n\n4. «Casca susceptível» a casca isolada de *Acer macrophyllum* Pursh., *Aesculus californica* Nutt., *Lithocarpus densiflorus* (H & A) e *Quercus* L."
+  },
+  "cbf3dd686045e244": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os vegetais susceptíveis e a madeira susceptível só podem ser introduzidos no território da Comunidade se respeitarem as medidas fitossanitárias de emergência estabelecidas nos pontos 1A e 2 do anexo da presente decisão e se forem, aquando da sua entrada na Comunidade, submetidos a inspecção fitossanitária para detecção da presença de isolados não europeus do organismo prejudicial, em conformidade com o n.º 1, alínea a), do artigo 13.º da Directiva 2000/29/CE, e forem considerados, na sequência dessa inspecção, isentos do organismo prejudicial.\n\n2. O disposto nos pontos 1A e 2 do anexo da presente decisão é aplicável apenas aos vegetais susceptíveis e à madeira susceptível originários dos Estados Unidos da América e que deixem os Estados Unidos, com destino à Comunidade, a partir de 1 de Novembro de 2002, inclusive.\n\n3. As medidas estabelecidas na parte A, ponto 3 da secção I, do anexo IV no que diz respeito à madeira de *Quercus* L., incluindo a madeira que não manteve a sua superfície natural arredondada, originária dos Estados Unidos da América, não são aplicáveis à madeira susceptível de *Quercus* L. que satisfaça os requisitos da alínea b) do ponto 2 do anexo da presente decisão.\n\n4. A partir de 1 de Novembro de 2002, [**►M1**](http://publications.europa.eu/resource/celex/32004D0426) os vegetais destinados à plantação de *Viburnum* spp., *Camellia* spp. e *Rhododendron* spp., excepto os de *Rhododendron simsii* Planch, com excepção das sementes**◄**, originários de países terceiros, que não os Estados Unidos da América, introduzidos na Comunidade só podem circular na Comunidade se forem acompanhados de um passaporte fitossanitário preparado e emitido em conformidade com a Directiva 92/105/CEE da Comissão ([^3^](http://publications.europa.eu/resource/cellar/71bb73cf-0abe-4670-8285-9823c6e0bf62.0017.03/DOC_1#E0003))."
+  },
+  "1e76fb31059d8e30": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os vegetais destinados à plantação de *Viburnum* spp., *Camellia* spp. e *Rhododendron* spp., excepto os de *Rhododendron simsii* Planch, com excepção das sementes, originários da Comunidade não podem ser retirados do seu local de produção a não ser que respeitem as condições estabelecidas no ponto 3 do anexo da presente decisão. Os produtores desses vegetais devem estar registados em conformidade com o disposto na Directiva 92/90/CEE da Comissão ([^4^](http://publications.europa.eu/resource/cellar/71bb73cf-0abe-4670-8285-9823c6e0bf62.0017.03/DOC_1#E0005)).\n\n2. Os Estados-Membros assegurarão que os produtores registados notifiquem cada ocorrência suspeita ou presença confirmada do organismo prejudicial no local de produção às respectivas entidades oficiais responsáveis."
+  },
+  "9522004f23e7c4aa": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-Membros efectuarão prospecções oficiais no seu território, incluindo vegetais cultivados e vegetais não cultivados/não geridos nessas prospecções, para determinar se existem provas de infestação provocada pelo organismo prejudicial.\n\n2. Sem prejuízo das disposições do n.º 1 do artigo 16.º da Directiva 2000/29/CE, os resultados das pesquisas previstas no n.º 1 serão notificados à Comissão e aos outros Estados-Membros até [**►M1**](http://publications.europa.eu/resource/celex/32004D0426) 1 de Novembro de 2004**◄**.\n\n3. Os Estados-Membros podem tomar medidas apropriadas no seu território para efectuar a monitorização oficial dos movimentos de plantas susceptíveis, de modo a verificar se estas respeitam as condições dispostas na presente decisão."
+  },
+  "4f3ccebe6ab0fb5f": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA presente decisão será revista até [**►M1**](http://publications.europa.eu/resource/celex/32004D0426) 31 de Dezembro de 2004**◄**."
+  },
+  "82b682818d8d24fe": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-Membros são os destinatários da presente decisão."
+  },
+  "1ab8af982e9bce52": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1A. Sem prejuízo do disposto na parte A, ponto 2, do anexo III e na parte A, pontos 11.1, 39 e 40 da secção I, do anexo IV da Directiva 2000/29/CE, os vegetais susceptíveis originários dos Estados Unidos da América devem ser acompanhados do certificado fitossanitário previsto [**►M1**](http://publications.europa.eu/resource/celex/32004D0426) no n.º 1 do artigo 13.º da Directiva 2000/29/CE**◄**:\n\na) Constatando que os vegetais são originários de zonas em que se tem conhecimento de que não ocorrem isolados não europeus do organismo prejudicial. O nome da zona deve ser indicado no certificado, na rúbrica intitulada «Local de origem», ou\n\nb) Emitido após verificação oficial, no local de produção, de que não foram observados, nos vegetais susceptíveis, sinais de isolados não europeus do organismo prejudicial durante inspecções oficiais, que incluíram testes laboratoriais relativos a quaisquer sintomas suspeitos, efectuados desde o início do último ciclo vegetativo completo.\n\n1B. Os vegetais susceptíveis introduzidos referidos no ponto 1A só podem circular na Comunidade se estiverem acompanhados de um passaporte fitossanitário preparado e emitido em conformidade com o disposto na Directiva 92/105/CEE que confirme a realização das inspecções referidas no n.º 1 do artigo 3.º\n\n2. A madeira susceptível originária dos Estados Unidos da América só pode ser importada para a Comunidade se estiver acompanhada do certificado fitossanitário previsto [**►M1**](http://publications.europa.eu/resource/celex/32004D0426) no n.º 1 do artigo 13.º da Directiva 2000/29/CE**◄** e:\n\na) Constatando que a madeira é originária de uma zona em que se tem conhecimento de que não ocorrem isolados não europeus do organismo prejudicial. O nome da zona deve ser indicado no certificado, na rúbrica intitulada «Local de origem», ou\n\nb) Emitido após verificação oficial de que a madeira foi descascada e de que:\n\ni) foi esquadriada de forma a remover inteiramente a superfície arredondada, ou\n\nii) o seu teor de água, expresso em percentagem de matéria seca, não excede 20 %, ou\n\niii) foi desinfectada por meio de um tratamento adequado por ar quente ou água quente,\n\nc) No caso da madeira serrada com ou sem casca residual aderente, se for visível a marca «*Kiln-dried*» (seca em estufa), «KD» ou outra marca reconhecida internacionalmente, aposta na madeira ou na sua embalagem em conformidade com as práticas comerciais correntes, comprovativa de que a que a madeira foi seca em estufa até atingir um teor de humidade, expresso em percentagem da matéria seca aquando da transformação, inferior a 20 %, obtido através de um programa tempo/temperatura adequado.\n\n3. Os vegetais destinados à plantação de *Viburnum* spp., *Camellia* spp. e *Rhododendro*n spp., excepto os de *Rhododendron simsii* Planch, com excepção das sementes, originários da Comunidade só podem ser retirados do seu local de produção se estiverem acompanhados de um passaporte fitossanitário e:\n\na) Os vegetais forem originários de zonas onde, reconhecidamente, não se registe a ocorrência do organismo prejudicial; ou\n\nb) Não tiverem sido observados, no local de produção, sinais da presença do organismo prejudicial nesses vegetais desde o início do último ciclo vegetativo completo durante inspecções oficiais, que incluíram testes laboratoriais relativos a quaisquer sintomas suspeitos, efectuados pelo menos uma vez em momentos adequados durante o período de crescimento activo dos vegetais; ou\n\nc) Nos casos em que tiverem sido observados, no local de produção, sinais da presença do organismo prejudicial nesses vegetais, tiverem sido tomadas medidas adequadas para erradicar o organismo prejudicial, consistindo essas medidas, pelo menos, na destruição dos vegetais infectados e de todos os vegetais susceptíveis num raio de 2 metros dos vegetais infectados, e:\n\ni) relativamente a todos os vegetais susceptíveis num raio de 10 metros dos vegetais infectados, e relativamente a todos os vegetais restantes do lote afectado:\n\n— os vegetais tiverem sido retidos no local de produção, e\n\n— tiverem sido submetidos a inspecções adicionais pelo menos duas vezes nos três meses seguintes à tomada das medidas de erradicação, durante o período de crescimento activo dos vegetais, e\n\n— durante esse período de três meses não tiverem sido efectuados quaisquer tratamentos que possam ter suprimido os sintomas do organismo prejudicial, e\n\n— na sequência dessas inspecções oficiais, os vegetais tiverem sido considerados isentos do organismo prejudicial;\n\nii) relativamente a todos os outros vegetais susceptíveis no local de produção, os vegetais tiverem sido submetidos a uma reinspecção oficial intensiva, na sequência da descoberta, e tiverem sido considerados isentos do organismo prejudicial nessas inspecções.\n\n4. Nos casos em que tiverem sido detectados sinais do organismo prejudicial em quaisquer vegetais em locais da Comunidade, com excepção dos locais de produção, os Estados-Membros tomarão as medidas apropriadas para, pelo menos, circunscrever o organismo prejudicial. Tais medidas podem incluir a determinação da zona em causa em que as medidas devem ser aplicadas.\n\n---"
+  },
+  "735672e57623a52d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/71bb73cf-0abe-4670-8285-9823c6e0bf62.0017.03/DOC_1#src.E0001)) JO L 169 de 10.7.2000, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/71bb73cf-0abe-4670-8285-9823c6e0bf62.0017.03/DOC_1#src.E0002)) JO L 116 de 3.5.2002, p. 16.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/71bb73cf-0abe-4670-8285-9823c6e0bf62.0017.03/DOC_1#src.E0003)) JO L 4 de 8.1.1993, p. 22.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/71bb73cf-0abe-4670-8285-9823c6e0bf62.0017.03/DOC_1#src.E0005)) JO L 344 de 26.11.1992, p. 38."
+  },
+  "aef33b8153efd3d5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Setembro de 2002\n\nrelativa a medidas fitossanitárias provisórias de emergência destinadas a impedir a introdução e a dispersão de *Phytophthora ramorum* Werres, De Cock & Man in 't Veld sp. nov. na Comunidade\n\n[notificada com o número C(2002) 3380]\n\n(2002/757/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua dispersão no interior da Comunidade ([^1^](http://publications.europa.eu/resource/cellar/c2919396-942a-4ee1-97fc-e6d38d56a6ad.0018.03/DOC_1#E0001)), com a última redacção que lhe foi dada pela Directiva 2002/36/CE da Comissão ([^2^](http://publications.europa.eu/resource/cellar/c2919396-942a-4ee1-97fc-e6d38d56a6ad.0018.03/DOC_1#E0002)), e, nomeadamente, o n.º 3, terceira frase, do seu artigo 16.º,\n\n(1) Sempre que um Estado-Membro estime que há um perigo de introdução ou propagação no seu território de um organismo prejudicial não constante do anexo I ou do anexo II da Directiva 2000/29/CE, pode adoptar provisoriamente todas as medidas adicionais necessárias para se proteger desse perigo.\n\n(2) Em 29 de Abril de 2002, o Reino Unido informou os outros Estados-Membros e a Comissão da ocorrência de focos de *Phytophthora ramorum* Werres, De Cock & Man in 't Veld sp. nov. (a seguir designada por o «organismo prejudicial») no seu território e adoptou, em 13 de Maio de 2002, medidas adicionais para impedir a introdução e a dispersão do organismo prejudicial na Comunidade. Os Países Baixos e a Alemanha comunicaram também, em 29 de Abril de 2002, a ocorrência de focos desse organismo nos seus territórios.\n\n(3) O organismo prejudicial não consta presentemente do anexo I nem do anexo II da Directiva 2000/29/CE. No entanto, uma análise preliminar do risco constituído por esta doença, efectuada com base nas informações científicas disponíveis, demonstrou que o organismo prejudicial e os seus efeitos nocivos podem constituir um perigo fitossanitário para a Comunidade, sobretudo os isolados não europeus apenas presentes nos Estados Unidos da América, no caso dos carvalhos da Comunidade, e os isolados europeus, no caso de vegetais ornamentais como as *Rhododendron* spp. e *Viburnum* spp. Foi pedido aos serviços responsáveis dos Estados-Membros que prosseguissem os trabalhos científicos sobre o risco que os isolados não europeu constituem para os carvalhos da Comunidade, sobre a epidemiologia do organismo prejudicial e sobre os potenciais vegetais hospedeiros.\n\n(4) É, pois, necessário adoptar medidas fitossanitárias provisórias de emergência contra a introdução e a dispersão do organismo prejudicial na Comunidade.\n\n(5) Essas medidas devem dizer respeito à introdução ou à dispersão do organismo prejudicial, à produção e circulação na Comunidade de vegetais hospedeiros do organismo prejudicial conhecidos, ao controlo do organismo prejudicial e a uma vigilância mais geral para detecção da presença ou da ausência continuada do organismo prejudicial nos Estados-Membros. No entanto, não é necessário aplicar essas medidas aos vegetais de *Rhododendron simsii* Planch, com excepção dos frutos e sementes, pois as informações disponíveis indicam que esses vegetais não são afectados pelo organismo prejudicial.\n\n(6) Os resultados das medidas referidas serão avaliados regularmente em 2002 e 2003, nomeadamente com base nas informações a fornecer pelos Estados-Membros. À luz dos resultados dessa avaliação e do parecer científico emitido pelos Estados-Membros, serão eventualmente consideradas medidas suplementares.\n\n(7) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Fitossanitário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "2752b376bfa32b9c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos da presente decisão, entende-se por:\n\n1. «Organismo prejudicial», a espécie *Phytophthora ramorum* Werres, De Cock & Man in 't Veld sp. nov.\n\n2. «Vegetais susceptíveis», os vegetais, com excepção dos frutos e sementes, de *Acer macrophyllum* Pursh, *Acer pseudoplatanus* L., *Adiantum aleuticum* (Rupr.) Paris, *Adiantum jordanii* C. Muell., *Aesculus californica* (Spach) Nutt., *Aesculus hippocastanum* L., *Arbutus menziesii* Pursch., *Arbutus unedo* L., *Arctostaphylos* spp. Adans, *Calluna vulgaris* (L.) Hull, *Camellia* spp. L., *Castanea sativa* Mill., *Fagus sylvatica* L., *Frangula californica* (Eschsch.) Gray, *Frangula purshiana* (DC.) Cooper, *Fraxinus excelsior* L., *Griselinia littoralis* (Raoul), *Hamamelis virginiana* L., *Heteromeles arbutifolia* (Lindley) M. Roemer, *Kalmia latifolia* L., *Laurus nobilis* L., *Leucothoe* spp. D. Don, *Lithocarpus densiflorus* (Hook. & Arn.) Rehd., *Lonicera hispidula* (Lindl.) Dougl. ex Torr.& Gray, *Magnolia* spp. L., *Michelia doltsopa* Buch.-Ham. ex DC, *Nothofagus obliqua* (Mirbel) Blume, *Osmanthus heterophyllus* (G. Don) P. S. Green, *Parrotia persica* (DC) C.A. Meyer, *Photinia x fraseri* Dress, *Pieris* spp. D. Don, *Pseudotsuga menziesii* (Mirbel) Franco, *Quercus* spp. L., *Rhododendron* spp. L., com excepção de *Rhododendron simsii* Planch., *Rosa gymnocarpa* Nutt., *Salix caprea* L., *Sequoia sempervirens* (Lamb. ex D. Don) Endl., *Syringa vulgaris* L., *Taxus* spp. L., *Trientalis latifolia* (Hook), *Umbellularia californica* (Hook. & Arn.) Nutt., *Vaccinium ovatum* Pursh e *Viburnum* spp. L.\n\n3. «Madeira susceptível», a madeira de *Acer macrophyllum* Pursh., *Aesculus californica* (Spach) Nutt., *Lithocarpus densiflorus* (Hook. & Arn.) Rehd., *Quercus* spp. L. e *Taxus brevifolia* Nutt.\n\n4. «Casca susceptível», a casca isolada de *Acer macrophyllum* Pursh., *Aesculus californica* (Spach) Nutt., *Lithocarpus densiflorus* (Hook. & Arn.) Rehd., *Quercus* spp. L. e *Taxus brevifolia* Nutt."
+  },
+  "3f75abbdd5ab3141": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os vegetais susceptíveis e a madeira susceptível só podem ser introduzidos no território da Comunidade se respeitarem as medidas fitossanitárias de emergência estabelecidas nos pontos 1A e 2 do anexo da presente decisão e se forem, aquando da sua entrada na Comunidade, submetidos a inspecção fitossanitária para detecção da presença de isolados não europeus do organismo prejudicial, em conformidade com o n.º 1, alínea a), do artigo 13.º da Directiva 2000/29/CE, e forem considerados, na sequência dessa inspecção, isentos do organismo prejudicial.\n\n2. O disposto nos pontos 1A e 2 do anexo da presente decisão é aplicável apenas aos vegetais susceptíveis e à madeira susceptível originários dos Estados Unidos da América e que deixem os Estados Unidos, com destino à Comunidade, a partir de 1 de Novembro de 2002, inclusive.\n\n3. As medidas estabelecidas na parte A, ponto 3 da secção I, do anexo IV no que diz respeito à madeira de *Quercus* L., incluindo a madeira que não manteve a sua superfície natural arredondada, originária dos Estados Unidos da América, não são aplicáveis à madeira susceptível de *Quercus* L. que satisfaça os requisitos da alínea b) do ponto 2 do anexo da presente decisão.\n\n4. A partir de 1 de Novembro de 2002, [**►M1**](http://publications.europa.eu/resource/celex/32004D0426) os vegetais destinados à plantação de *Viburnum* spp., *Camellia* spp. e *Rhododendron* spp., excepto os de *Rhododendron simsii* Planch, com excepção das sementes**◄**, originários de países terceiros, que não os Estados Unidos da América, introduzidos na Comunidade só podem circular na Comunidade se forem acompanhados de um passaporte fitossanitário preparado e emitido em conformidade com a Directiva 92/105/CEE da Comissão ([^3^](http://publications.europa.eu/resource/cellar/c2919396-942a-4ee1-97fc-e6d38d56a6ad.0018.03/DOC_1#E0003))."
+  },
+  "b55fccbf73717182": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os vegetais destinados à plantação de *Viburnum* spp., *Camellia* spp. e *Rhododendron* spp., excepto os de *Rhododendron simsii* Planch, com excepção das sementes, originários da Comunidade não podem [**►M2**](http://publications.europa.eu/resource/celex/32007D0201) circular na Comunidade**◄** a não ser que respeitem as condições estabelecidas no ponto 3 do anexo da presente decisão. Os produtores desses vegetais devem estar registados em conformidade com o disposto na Directiva 92/90/CEE da Comissão ([^4^](http://publications.europa.eu/resource/cellar/c2919396-942a-4ee1-97fc-e6d38d56a6ad.0018.03/DOC_1#E0004)).\n\n2. Os Estados-Membros assegurarão que os produtores registados notifiquem cada ocorrência suspeita ou presença confirmada do organismo prejudicial no local de produção às respectivas entidades oficiais responsáveis."
+  },
+  "5d52301de2fd1347": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-Membros efectuarão prospecções oficiais no seu território, incluindo vegetais cultivados e vegetais não cultivados/não geridos nessas prospecções, para determinar se existem provas de infestação provocada pelo organismo prejudicial.\n\n2. Sem prejuízo das disposições do n.º 1 do artigo 16.º da Directiva 2000/29/CE, os resultados das prospecções previstas no n.º 1 serão notificados à Comissão e aos outros Estados-Membros, todos os anos, até 1 de Dezembro.\n\n3. Os Estados-Membros podem tomar medidas apropriadas no seu território para efectuar a monitorização oficial dos movimentos de plantas susceptíveis, de modo a verificar se estas respeitam as condições dispostas na presente decisão."
+  },
+  "e3c20778a595dea6": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA presente decisão será revista até [**►M2**](http://publications.europa.eu/resource/celex/32007D0201) 31 de Janeiro de 2008**◄**."
+  },
+  "2a4fac348d27bddd": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1A. Sem prejuízo do disposto na parte A, ponto 2, do anexo III e na parte A, pontos 11.1, 39 e 40 da secção I, do anexo IV da Directiva 2000/29/CE, os vegetais susceptíveis originários dos Estados Unidos da América devem ser acompanhados do certificado fitossanitário previsto [**►M1**](http://publications.europa.eu/resource/celex/32004D0426) no n.º 1 do artigo 13.º da Directiva 2000/29/CE**◄**:\n\na) Constatando que os vegetais são originários de zonas em que se tem conhecimento de que não ocorrem isolados não europeus do organismo prejudicial. O nome da zona deve ser indicado no certificado, na rúbrica intitulada «Local de origem», ou\n\nb) Emitido após verificação oficial, no local de produção, de que não foram observados, nos vegetais susceptíveis, sinais de isolados não europeus do organismo prejudicial durante inspecções oficiais, que incluíram testes laboratoriais relativos a quaisquer sintomas suspeitos, efectuados desde o início do último ciclo vegetativo completo.\n\n1B. Os vegetais susceptíveis introduzidos referidos no ponto 1A só podem circular na Comunidade se estiverem acompanhados de um passaporte fitossanitário preparado e emitido em conformidade com o disposto na Directiva 92/105/CEE que confirme a realização das inspecções referidas no n.º 1 do artigo 3.º\n\n2. A madeira susceptível originária dos Estados Unidos da América só pode ser importada para a Comunidade se estiver acompanhada do certificado fitossanitário previsto [**►M1**](http://publications.europa.eu/resource/celex/32004D0426) no n.º 1 do artigo 13.º da Directiva 2000/29/CE**◄** e:\n\na) Constatando que a madeira é originária de uma zona em que se tem conhecimento de que não ocorrem isolados não europeus do organismo prejudicial. O nome da zona deve ser indicado no certificado, na rúbrica intitulada «Local de origem», ou\n\nb) Emitido após verificação oficial de que a madeira foi descascada e de que:\n\ni) foi esquadriada de forma a remover inteiramente a superfície arredondada, ou\n\nii) o seu teor de água, expresso em percentagem de matéria seca, não excede 20 %, ou\n\niii) foi desinfectada por meio de um tratamento adequado por ar quente ou água quente,\n\nc) No caso da madeira serrada com ou sem casca residual aderente, se for visível a marca «*Kiln-dried*» (seca em estufa), «KD» ou outra marca reconhecida internacionalmente, aposta na madeira ou na sua embalagem em conformidade com as práticas comerciais correntes, comprovativa de que a que a madeira foi seca em estufa até atingir um teor de humidade, expresso em percentagem da matéria seca aquando da transformação, inferior a 20 %, obtido através de um programa tempo/temperatura adequado.\n\n3. Os vegetais destinados à plantação de *Viburnum* spp., *Camellia* spp. e *Rhododendro*n spp., excepto os de *Rhododendron simsii* Planch, com excepção das sementes, originários da Comunidade só podem [**►M2**](http://publications.europa.eu/resource/celex/32007D0201) circular na Comunidade**◄** se estiverem acompanhados de um passaporte fitossanitário e:\n\na) Os vegetais forem originários de zonas onde, reconhecidamente, não se registe a ocorrência do organismo prejudicial; ou\n\nb) Não tiverem sido observados, no local de produção, sinais da presença do organismo prejudicial nesses vegetais desde o início do último ciclo vegetativo completo durante inspecções oficiais, que incluíram testes laboratoriais relativos a quaisquer sintomas suspeitos, efectuados pelo menos uma vez em momentos adequados durante o período de crescimento activo dos vegetais [**►M2**](http://publications.europa.eu/resource/celex/32007D0201) e, a partir de 1 de Maio de 2007, efectuados pelo menos duas vezes durante a época vegetativa, em momentos adequados durante o período de crescimento activo dos vegetais; a intensidade dessas inspecções terá em conta o sistema particular de produção dos vegetais**◄**; ou\n\nc) Nos casos em que tiverem sido observados, no local de produção, sinais da presença do organismo prejudicial nesses vegetais, foram tomadas medidas adequadas para erradicar o organismo prejudicial, consistindo essas medidas, pelo menos, no seguinte:\n\ni) destruição dos vegetais infectados e de todos os vegetais susceptíveis num raio de 2 metros dos vegetais infectados, incluindo os suportes de cultura que lhes estão associados e os resíduos vegetais,\n\nii) relativamente a todos os vegetais susceptíveis num raio de 10 metros dos vegetais infectados, e relativamente a todos os vegetais restantes do lote afectado:\n\n— os vegetais foram retidos no local de produção,\n\n— os vegetais foram submetidos a inspecções oficiais adicionais pelo menos duas vezes nos três meses seguintes à tomada das medidas de erradicação, durante o seu período de crescimento activo,\n\n— durante esse período de três meses não foram efectuados quaisquer tratamentos que possam ter suprimido os sintomas do organismo prejudicial,\n\n— na sequência dessas inspecções oficiais, os vegetais foram considerados isentos do organismo prejudicial,\n\niii) relativamente a todos os outros vegetais susceptíveis no local de produção, os vegetais foram submetidos a uma reinspecção oficial intensiva, na sequência da descoberta, e foram considerados isentos do organismo prejudicial nessas inspecções,\n\niv) foram tomadas medidas fitossanitárias adequadas na superfície de cultura, num raio de 2 metros dos vegetais infectados.\n\n4. Nos casos em que tiverem sido detectados sinais do organismo prejudicial em quaisquer vegetais em locais da Comunidade, com excepção dos locais de produção, os Estados-Membros tomarão as medidas apropriadas para, pelo menos, circunscrever o organismo prejudicial. Tais medidas podem incluir a determinação da zona em causa em que as medidas devem ser aplicadas.\n\n---"
+  },
+  "5e7ad6875e9b044e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c2919396-942a-4ee1-97fc-e6d38d56a6ad.0018.03/DOC_1#src.E0001)) JO L 169 de 10.7.2000, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/c2919396-942a-4ee1-97fc-e6d38d56a6ad.0018.03/DOC_1#src.E0002)) JO L 116 de 3.5.2002, p. 16.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/c2919396-942a-4ee1-97fc-e6d38d56a6ad.0018.03/DOC_1#src.E0003)) JO L 4 de 8.1.1993, p. 22.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/c2919396-942a-4ee1-97fc-e6d38d56a6ad.0018.03/DOC_1#src.E0004)) JO L 344 de 26.11.1992, p. 38."
+  },
+  "6b2b8220975da9d3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Setembro de 2002\n\nrelativa a medidas fitossanitárias provisórias de emergência destinadas a impedir a introdução e a dispersão de *Phytophthora ramorum* Werres, De Cock & Man in 't Veld sp. nov. na Comunidade\n\n[notificada com o número C(2002) 3380]\n\n(2002/757/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua dispersão no interior da Comunidade ([^1^](http://publications.europa.eu/resource/cellar/688c951f-001e-11e4-831f-01aa75ed71a1.0014.03/DOC_1#E0001)), com a última redacção que lhe foi dada pela Directiva 2002/36/CE da Comissão ([^2^](http://publications.europa.eu/resource/cellar/688c951f-001e-11e4-831f-01aa75ed71a1.0014.03/DOC_1#E0002)), e, nomeadamente, o n.º 3, terceira frase, do seu artigo 16.º,\n\n(1) Sempre que um Estado-Membro estime que há um perigo de introdução ou propagação no seu território de um organismo prejudicial não constante do anexo I ou do anexo II da Directiva 2000/29/CE, pode adoptar provisoriamente todas as medidas adicionais necessárias para se proteger desse perigo.\n\n(2) Em 29 de Abril de 2002, o Reino Unido informou os outros Estados-Membros e a Comissão da ocorrência de focos de *Phytophthora ramorum* Werres, De Cock & Man in 't Veld sp. nov. (a seguir designada por o «organismo prejudicial») no seu território e adoptou, em 13 de Maio de 2002, medidas adicionais para impedir a introdução e a dispersão do organismo prejudicial na Comunidade. Os Países Baixos e a Alemanha comunicaram também, em 29 de Abril de 2002, a ocorrência de focos desse organismo nos seus territórios.\n\n(3) O organismo prejudicial não consta presentemente do anexo I nem do anexo II da Directiva 2000/29/CE. No entanto, uma análise preliminar do risco constituído por esta doença, efectuada com base nas informações científicas disponíveis, demonstrou que o organismo prejudicial e os seus efeitos nocivos podem constituir um perigo fitossanitário para a Comunidade, sobretudo os isolados não europeus apenas presentes nos Estados Unidos da América, no caso dos carvalhos da Comunidade, e os isolados europeus, no caso de vegetais ornamentais como as *Rhododendron* spp. e *Viburnum* spp. Foi pedido aos serviços responsáveis dos Estados-Membros que prosseguissem os trabalhos científicos sobre o risco que os isolados não europeu constituem para os carvalhos da Comunidade, sobre a epidemiologia do organismo prejudicial e sobre os potenciais vegetais hospedeiros.\n\n(4) É, pois, necessário adoptar medidas fitossanitárias provisórias de emergência contra a introdução e a dispersão do organismo prejudicial na Comunidade.\n\n(5) Essas medidas devem dizer respeito à introdução ou à dispersão do organismo prejudicial, à produção e circulação na Comunidade de vegetais hospedeiros do organismo prejudicial conhecidos, ao controlo do organismo prejudicial e a uma vigilância mais geral para detecção da presença ou da ausência continuada do organismo prejudicial nos Estados-Membros. No entanto, não é necessário aplicar essas medidas aos vegetais de *Rhododendron simsii* Planch, com excepção dos frutos e sementes, pois as informações disponíveis indicam que esses vegetais não são afectados pelo organismo prejudicial.\n\n(6) Os resultados das medidas referidas serão avaliados regularmente em 2002 e 2003, nomeadamente com base nas informações a fornecer pelos Estados-Membros. À luz dos resultados dessa avaliação e do parecer científico emitido pelos Estados-Membros, serão eventualmente consideradas medidas suplementares.\n\n(7) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Fitossanitário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "f1ab878e679c999c": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os vegetais susceptíveis e a madeira susceptível só podem ser introduzidos no território da União se respeitarem as medidas fitossanitárias de emergência estabelecidas nos pontos 1A e 2 do anexo I da presente decisão, se forem cumpridas as formalidades referidas no n.º 1, primeiro parágrafo, do artigo 13.º da Diretiva 2000/29/CE e se, na sequência dessas formalidades no que se refere à presença de isolados não europeus do organismo prejudicial, forem considerados isentos do organismo prejudicial.\n\nEm derrogação do disposto no primeiro parágrafo, até 30 de novembro de 2016, a madeira serrada descascada de *Acer macrophyllum* Pursh e de *Quercus* spp. L. originária dos Estados Unidos da América pode ser introduzida na União sem cumprir o disposto no ponto 2 do anexo I da presente decisão, desde que cumpra as condições estabelecidas no anexo II da presente decisão.\n\n2. O disposto nos pontos 1A e 2 [**►M3**](http://publications.europa.eu/resource/celex/32013D0782) do anexo I da presente decisão**◄** é aplicável apenas aos vegetais susceptíveis e à madeira susceptível originários dos Estados Unidos da América e que deixem os Estados Unidos, com destino à Comunidade, a partir de 1 de Novembro de 2002, inclusive.\n\n3. As medidas estabelecidas na parte A, ponto 3 da secção I, do anexo IV no que diz respeito à madeira de *Quercus* L., incluindo a madeira que não manteve a sua superfície natural arredondada, originária dos Estados Unidos da América, não são aplicáveis à madeira susceptível de *Quercus* L. que satisfaça os requisitos da alínea b) do ponto 2 [**►M3**](http://publications.europa.eu/resource/celex/32013D0782) do anexo I da presente decisão**◄**.\n\n4. A partir de 1 de Novembro de 2002, [**►M1**](http://publications.europa.eu/resource/celex/32004D0426) os vegetais destinados à plantação de *Viburnum* spp., *Camellia* spp. e *Rhododendron* spp., excepto os de *Rhododendron simsii* Planch, com excepção das sementes**◄**, originários de países terceiros, que não os Estados Unidos da América, introduzidos na Comunidade só podem circular na Comunidade se forem acompanhados de um passaporte fitossanitário preparado e emitido em conformidade com a Directiva 92/105/CEE da Comissão ([^3^](http://publications.europa.eu/resource/cellar/688c951f-001e-11e4-831f-01aa75ed71a1.0014.03/DOC_1#E0003))."
+  },
+  "2687287e0d0e8842": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os vegetais destinados à plantação de *Viburnum* spp., *Camellia* spp. e *Rhododendron* spp., excepto os de *Rhododendron simsii* Planch, com excepção das sementes, originários da Comunidade não podem [**►M2**](http://publications.europa.eu/resource/celex/32007D0201) circular na Comunidade**◄** a não ser que respeitem as condições estabelecidas no ponto 3 [**►M3**](http://publications.europa.eu/resource/celex/32013D0782) do anexo I da presente decisão**◄**. Os produtores desses vegetais devem estar registados em conformidade com o disposto na Directiva 92/90/CEE da Comissão ([^4^](http://publications.europa.eu/resource/cellar/688c951f-001e-11e4-831f-01aa75ed71a1.0014.03/DOC_1#E0004)).\n\n2. Os Estados-Membros assegurarão que os produtores registados notifiquem cada ocorrência suspeita ou presença confirmada do organismo prejudicial no local de produção às respectivas entidades oficiais responsáveis."
+  },
+  "10f93c7cd0050913": {
+   "fragment_id": "Artigo 6.º-A",
+   "type": "artigo",
+   "heading": "Artigo 6.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º-A\n\n1. Os Estados-Membros devem informar, por escrito, a Comissão e os demais Estados-Membros sempre que tenham recorrido à derrogação prevista no artigo 3.º, n.º 1, segundo parágrafo.\n\nOs Estados-Membros que tenham recorrido a essa derrogação devem fornecer à Comissão e aos demais Estados-Membros, antes de 15 de julho de cada ano, informações relativas ao número de remessas importadas no ano anterior ao abrigo do artigo 3.º, n.º 1, segundo parágrafo e um relatório pormenorizado de todos os casos de interceções, tal como referidas no n.º 2.\n\n2. Os Estados-Membros devem notificar a Comissão e os demais Estados-Membros, o mais tardar dois dias úteis após a interceção, de qualquer remessa introduzida no seu território ao abrigo do artigo 3.º, n.º 1, segundo parágrafo, que não cumpra as condições enunciadas no anexo II.\n\n3. A Comissão deve solicitar aos Estados Unidos da América que lhe forneçam as informações técnicas necessárias para que a Comissão possa avaliar o programa de certificação da secagem em estufa de madeira de folhosas serrada."
+  },
+  "a9e37d39bfa261ab": {
+   "fragment_id": "[►M3](http://publications.europa.eu/resource/celex/32013D0782) ANEXO I◄",
+   "type": "divisao",
+   "heading": "[►M3](http://publications.europa.eu/resource/celex/32013D0782) ANEXO I◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## [►M3](http://publications.europa.eu/resource/celex/32013D0782) ANEXO I◄\n\n1A. Sem prejuízo do disposto na parte A, ponto 2, do anexo III e na parte A, pontos 11.1, 39 e 40 da secção I, do anexo IV da Directiva 2000/29/CE, os vegetais susceptíveis originários dos Estados Unidos da América devem ser acompanhados do certificado fitossanitário previsto [**►M1**](http://publications.europa.eu/resource/celex/32004D0426) no n.º 1 do artigo 13.º da Directiva 2000/29/CE**◄**:\n\na) Constatando que os vegetais são originários de zonas em que se tem conhecimento de que não ocorrem isolados não europeus do organismo prejudicial. O nome da zona deve ser indicado no certificado, na rúbrica intitulada «Local de origem», ou\n\nb) Emitido após verificação oficial, no local de produção, de que não foram observados, nos vegetais susceptíveis, sinais de isolados não europeus do organismo prejudicial durante inspecções oficiais, que incluíram testes laboratoriais relativos a quaisquer sintomas suspeitos, efectuados desde o início do último ciclo vegetativo completo.\n\n1B. Os vegetais susceptíveis introduzidos referidos no ponto 1A só podem circular na Comunidade se estiverem acompanhados de um passaporte fitossanitário preparado e emitido em conformidade com o disposto na Directiva 92/105/CEE que confirme a realização das inspecções referidas no n.º 1 do artigo 3.º\n\n2. A madeira susceptível originária dos Estados Unidos da América só pode ser importada para a Comunidade se estiver acompanhada do certificado fitossanitário previsto [**►M1**](http://publications.europa.eu/resource/celex/32004D0426) no n.º 1 do artigo 13.º da Directiva 2000/29/CE**◄** e:\n\na) Constatando que a madeira é originária de uma zona em que se tem conhecimento de que não ocorrem isolados não europeus do organismo prejudicial. O nome da zona deve ser indicado no certificado, na rúbrica intitulada «Local de origem», ou\n\nb) Emitido após verificação oficial de que a madeira foi descascada e de que:\n\ni) foi esquadriada de forma a remover inteiramente a superfície arredondada, ou\n\nii) o seu teor de água, expresso em percentagem de matéria seca, não excede 20 %, ou\n\niii) foi desinfectada por meio de um tratamento adequado por ar quente ou água quente,\n\nc) No caso da madeira serrada com ou sem casca residual aderente, se for visível a marca «*Kiln-dried*» (seca em estufa), «KD» ou outra marca reconhecida internacionalmente, aposta na madeira ou na sua embalagem em conformidade com as práticas comerciais correntes, comprovativa de que a que a madeira foi seca em estufa até atingir um teor de humidade, expresso em percentagem da matéria seca aquando da transformação, inferior a 20 %, obtido através de um programa tempo/temperatura adequado.\n\n3. Os vegetais destinados à plantação de *Viburnum* spp., *Camellia* spp. e *Rhododendro*n spp., excepto os de *Rhododendron simsii* Planch, com excepção das sementes, originários da Comunidade só podem [**►M2**](http://publications.europa.eu/resource/celex/32007D0201) circular na Comunidade**◄** se estiverem acompanhados de um passaporte fitossanitário e:\n\na) Os vegetais forem originários de zonas onde, reconhecidamente, não se registe a ocorrência do organismo prejudicial; ou\n\nb) Não tiverem sido observados, no local de produção, sinais da presença do organismo prejudicial nesses vegetais desde o início do último ciclo vegetativo completo durante inspecções oficiais, que incluíram testes laboratoriais relativos a quaisquer sintomas suspeitos, efectuados pelo menos uma vez em momentos adequados durante o período de crescimento activo dos vegetais [**►M2**](http://publications.europa.eu/resource/celex/32007D0201) e, a partir de 1 de Maio de 2007, efectuados pelo menos duas vezes durante a época vegetativa, em momentos adequados durante o período de crescimento activo dos vegetais; a intensidade dessas inspecções terá em conta o sistema particular de produção dos vegetais**◄**; ou\n\nc) Nos casos em que tiverem sido observados, no local de produção, sinais da presença do organismo prejudicial nesses vegetais, foram tomadas medidas adequadas para erradicar o organismo prejudicial, consistindo essas medidas, pelo menos, no seguinte:\n\ni) destruição dos vegetais infectados e de todos os vegetais susceptíveis num raio de 2 metros dos vegetais infectados, incluindo os suportes de cultura que lhes estão associados e os resíduos vegetais,\n\nii) relativamente a todos os vegetais susceptíveis num raio de 10 metros dos vegetais infectados, e relativamente a todos os vegetais restantes do lote afectado:\n\n— os vegetais foram retidos no local de produção,\n\n— os vegetais foram submetidos a inspecções oficiais adicionais pelo menos duas vezes nos três meses seguintes à tomada das medidas de erradicação, durante o seu período de crescimento activo,\n\n— durante esse período de três meses não foram efectuados quaisquer tratamentos que possam ter suprimido os sintomas do organismo prejudicial,\n\n— na sequência dessas inspecções oficiais, os vegetais foram considerados isentos do organismo prejudicial,\n\niii) relativamente a todos os outros vegetais susceptíveis no local de produção, os vegetais foram submetidos a uma reinspecção oficial intensiva, na sequência da descoberta, e foram considerados isentos do organismo prejudicial nessas inspecções,\n\niv) foram tomadas medidas fitossanitárias adequadas na superfície de cultura, num raio de 2 metros dos vegetais infectados.\n\n4. Nos casos em que tiverem sido detectados sinais do organismo prejudicial em quaisquer vegetais em locais da Comunidade, com excepção dos locais de produção, os Estados-Membros tomarão as medidas apropriadas para, pelo menos, circunscrever o organismo prejudicial. Tais medidas podem incluir a determinação da zona em causa em que as medidas devem ser aplicadas."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "1886b172d44c9add": {
+   "fragment_id": "PARTE I",
+   "type": "divisao",
+   "heading": "PARTE I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE I"
+  },
+  "a13235b12ce06312": {
+   "fragment_id": "Condições referidas no n.º 1, segundo parágrafo, do artigo 3.º",
+   "type": "divisao",
+   "heading": "Condições referidas no n.º 1, segundo parágrafo, do artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Condições referidas no n.º 1, segundo parágrafo, do artigo 3.º\n\nAs condições referidas no n.º 1, segundo parágrafo, do artigo 3.º, ao abrigo das quais pode ser introduzida na União madeira serrada e descascada de *Acer macrophyllum* Pursh e de *Quercus* spp. L. originária dos Estados Unidos da América sem respeitar o disposto no ponto 2 do anexo I são as seguintes:\n\n1) A madeira deve ser produzida em serrações ou tratada em instalações adequadas aprovadas e auditadas pela NHLA (US National Hardwood Lumber Association) para a participação no programa de certificação da secagem em estufa de madeira de folhosas serrada (a seguir «o programa»);\n\n2) A madeira deve ser sujeita a secagem em estufa até atingir um teor de humidade, expresso em percentagem de matéria seca, inferior a 20 %, obtido através de um programa tempo/temperatura adequado;\n\n3) Após o preenchimento da condição estabelecida no ponto 2, o funcionário designado da serração referida no ponto 1 ou alguém sob a sua supervisão, deve afixar a cada malote um clip normalizado de identificação em aço. Cada clip de identificação deve ter impressas as letras «NHLA – KD» bem como um número único atribuído a cada malote;\n\n4) A fim de garantir o cumprimento das condições estabelecidas nos pontos 2 e 3, a madeira deve ser submetida a um sistema de verificação estabelecido ao abrigo do programa e que inclui uma inspeção prévia ao envio e a monitorização nas serrações aprovadas efetuada por auditores externos independentes qualificados e autorizados para esse fim. O Serviço de Inspeção da Sanidade Animal e da Fitossanidade, do Departamento da Agricultura dos EUA, deve efetuar ocasionalmente inspeções prévias aos envios e auditorias semestrais dos registos e procedimentos da NHLA relacionados com o programa, dos auditores externos independentes e das serrações e outras instalações adequadas que participam no programa;\n\n5) A madeira deve ser acompanhada de um certificado de secagem em estufa normalizado, conforme ao modelo estabelecido na parte II, emitido pela pessoa ou pessoas autorizadas a participar no programa e validado por um inspetor da NHLA. O certificado de secagem em estufa deve estar preenchido e deve incluir informações acerca da quantidade de madeira serrada descascada em *board feet* (método de cubagem de madeira usado nos países anglo-saxónicos) e em metros cúbicos. O certificado deve especificar também o número total de malotes e o número de cada clip de identificação atribuído aos referidos malotes."
+  },
+  "de2ce44f7122ebf5": {
+   "fragment_id": "PARTE II",
+   "type": "divisao",
+   "heading": "PARTE II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE II"
+  },
+  "29a352019a48bcb7": {
+   "fragment_id": "Model of Certificate of Kiln-drying",
+   "type": "divisao",
+   "heading": "Model of Certificate of Kiln-drying",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Model of Certificate of Kiln-drying\n\nAgreement No. 07-8100-1173-MU\n\nCert #. xxxxx-xxxxx"
+  },
+  "dea0877d4948a1e5": {
+   "fragment_id": "CERTIFICATE OF KILN DRYING",
+   "type": "divisao",
+   "heading": "CERTIFICATE OF KILN DRYING",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CERTIFICATE OF KILN DRYING"
+  },
+  "9a3ecb71b2f4563e": {
+   "fragment_id": "Sawn Hardwood Lumber",
+   "type": "divisao",
+   "heading": "Sawn Hardwood Lumber",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Sawn Hardwood Lumber\n\n**Lumber Kiln Dried by** **Consignee**\n\nName of Company: Name:\n\nAddress: Address:\n\nCity/State/Zip: City/State/Zip:\n\nPhone: Country:\n\nOrder #: Port:\n\nInvoice #: Container #:\n\nCustomer PO#:\n\nCertificate Standard: This certifies that the lumber described below is of the allowed genera Quercus sp. and/or Platanus sp. and/or the species Acer saccharum and/or Acer macrophyllum; and has met the treatment requirements of the Dry Kiln Operators Manual and is bark free."
+  },
+  "721e46a053d208e7": {
+   "fragment_id": "Description of Consignment:",
+   "type": "divisao",
+   "heading": "Description of Consignment:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Description of Consignment:\n\nBotanical Name of wood:\n\nList species, thickness, grade of various items contained in shipment:\n\n| Bundle Numbers | Clip ID Numbers | Board Footage | Cubic Meters |\n| --- | --- | --- | --- |\n| Totals: | # Bundles | BdFt | Cubic Meters: |\n\n(This document is issued under a program officially approved by the Animal, Plant, Health, and Inspection Service of the U.S. Department of Agriculture. The products covered by this document are subject to pre-shipment inspection by that Agency. No liability shall be attached to the U.S. Department of Agriculture or any representatives of the Department with respect to this certificate.)"
+  },
+  "fbf2c269490f6b0b": {
+   "fragment_id": "AUTHORIZED PERSON RESPONSIBLE FOR CERTIFICATION",
+   "type": "divisao",
+   "heading": "AUTHORIZED PERSON RESPONSIBLE FOR CERTIFICATION",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### AUTHORIZED PERSON RESPONSIBLE FOR CERTIFICATION\n\n| Name (print) _ | Title _ |\n| --- | --- |\n| I certify that the products described above satisfy the Kiln Drying requirements listed under Certificate Standard and is bark free. |  |\n| Signature _ | Date _ |"
+  },
+  "7134458918154b56": {
+   "fragment_id": "NATIONAL HARDWOOD LUMBER ASSOCIATION VALIDATION",
+   "type": "divisao",
+   "heading": "NATIONAL HARDWOOD LUMBER ASSOCIATION VALIDATION",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### NATIONAL HARDWOOD LUMBER ASSOCIATION VALIDATION\n\n| Name (print) | Authorized signature | Title | Date |\n| --- | --- | --- | --- |\n\n**National Hardwood Lumber Association PO Box 34518 | Memphis**, **TN 38184-0518 | Ph. 901-377-1818|Fax 901-347-0034 | www.nhla.com**\n\n**PLEASE SIGN THIS FORM IN BLUE INK**\n\n---"
+  },
+  "e1a1a21dd260560a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/688c951f-001e-11e4-831f-01aa75ed71a1.0014.03/DOC_1#src.E0001)) JO L 169 de 10.7.2000, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/688c951f-001e-11e4-831f-01aa75ed71a1.0014.03/DOC_1#src.E0002)) JO L 116 de 3.5.2002, p. 16.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/688c951f-001e-11e4-831f-01aa75ed71a1.0014.03/DOC_1#src.E0003)) JO L 4 de 8.1.1993, p. 22.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/688c951f-001e-11e4-831f-01aa75ed71a1.0014.03/DOC_1#src.E0004)) JO L 344 de 26.11.1992, p. 38."
+  },
+  "a48dccdfecea633f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Setembro de 2002\n\nrelativa a medidas fitossanitárias provisórias de emergência destinadas a impedir a introdução e a dispersão de *Phytophthora ramorum* Werres, De Cock & Man in 't Veld sp. nov. na Comunidade\n\n[notificada com o número C(2002) 3380]\n\n(2002/757/CE)"
+  },
+  "6690934f603ff599": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os vegetais susceptíveis e a madeira susceptível só podem ser introduzidos no território da União se respeitarem as medidas fitossanitárias de emergência estabelecidas nos pontos 1A e 2 do anexo I da presente decisão, se forem cumpridas as formalidades referidas no n.º 1, primeiro parágrafo, do artigo 13.º da Diretiva 2000/29/CE e se, na sequência dessas formalidades no que se refere à presença de isolados não europeus do organismo prejudicial, forem considerados isentos do organismo prejudicial.\n\nEm derrogação ao disposto no primeiro parágrafo, até 31 de dezembro de 2026, a madeira serrada descascada de *Quercus* spp. L. originária dos Estados Unidos da América pode ser introduzida na União sem cumprir o disposto no ponto 2 do anexo I da presente decisão, desde que cumpra as condições estabelecidas no anexo II da presente decisão.\n\n2. O disposto nos pontos 1A e 2 [**►M3**](http://publications.europa.eu/resource/celex/32013D0782) do anexo I da presente decisão**◄** é aplicável apenas aos vegetais susceptíveis e à madeira susceptível originários dos Estados Unidos da América e que deixem os Estados Unidos, com destino à Comunidade, a partir de 1 de Novembro de 2002, inclusive.\n\n3. As medidas estabelecidas na parte A, ponto 3 da secção I, do anexo IV no que diz respeito à madeira de *Quercus* L., incluindo a madeira que não manteve a sua superfície natural arredondada, originária dos Estados Unidos da América, não são aplicáveis à madeira susceptível de *Quercus* L. que satisfaça os requisitos da alínea b) do ponto 2 [**►M3**](http://publications.europa.eu/resource/celex/32013D0782) do anexo I da presente decisão**◄**.\n\n4. A partir de 1 de Novembro de 2002, [**►M1**](http://publications.europa.eu/resource/celex/32004D0426) os vegetais destinados à plantação de *Viburnum* spp., *Camellia* spp. e *Rhododendron* spp., excepto os de *Rhododendron simsii* Planch, com excepção das sementes**◄**, originários de países terceiros, que não os Estados Unidos da América, introduzidos na Comunidade só podem circular na Comunidade se forem acompanhados de um passaporte fitossanitário preparado e emitido em conformidade com a Directiva 92/105/CEE da Comissão ([^1^](http://publications.europa.eu/resource/cellar/801b3c06-45bc-420f-bc42-87c4778a6187.0015.03/DOC_1#E0001))."
+  },
+  "07972bde014d5061": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os vegetais destinados à plantação de *Viburnum* spp., *Camellia* spp. e *Rhododendron* spp., excepto os de *Rhododendron simsii* Planch, com excepção das sementes, originários da Comunidade não podem [**►M2**](http://publications.europa.eu/resource/celex/32007D0201) circular na Comunidade**◄** a não ser que respeitem as condições estabelecidas no ponto 3 [**►M3**](http://publications.europa.eu/resource/celex/32013D0782) do anexo I da presente decisão**◄**. Os produtores desses vegetais devem estar registados em conformidade com o disposto na Directiva 92/90/CEE da Comissão ([^2^](http://publications.europa.eu/resource/cellar/801b3c06-45bc-420f-bc42-87c4778a6187.0015.03/DOC_1#E0002)).\n\n2. Os Estados-Membros assegurarão que os produtores registados notifiquem cada ocorrência suspeita ou presença confirmada do organismo prejudicial no local de produção às respectivas entidades oficiais responsáveis."
+  },
+  "d35dc846e2709182": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/801b3c06-45bc-420f-bc42-87c4778a6187.0015.03/DOC_1#src.E0001)) JO L 4 de 8.1.1993, p. 22.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/801b3c06-45bc-420f-bc42-87c4778a6187.0015.03/DOC_1#src.E0002)) JO L 344 de 26.11.1992, p. 38."
+  },
+  "0ec9582801eee19c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02002D0757 — PT — 11.04.2022 — 005.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32002D0757) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/32002D0757) [de 19 de Setembro de 2002](http://publications.europa.eu/resource/celex/32002D0757) [relativa a medidas fitossanitárias provisórias de emergência destinadas a impedir a introdução e a dispersão de *Phytophthora ramorum* Werres, De Cock & Man in 't Veld sp. nov. na Comunidade](http://publications.europa.eu/resource/celex/32002D0757) [[notificada com o número C(2002) 3380]](http://publications.europa.eu/resource/celex/32002D0757) [(2002/757/CE)](http://publications.europa.eu/resource/celex/32002D0757) (JO L 252, 20.9.2002, p.37)\n\n**Revogada por:**\n\n- [Regulamento de Execução (UE) 2021/2285 da Comissão de 14 de dezembro de 2021](http://publications.europa.eu/resource/celex/32021R2285) — L 458 — 173 — 22.12.2021"
+  }
+ }
+}

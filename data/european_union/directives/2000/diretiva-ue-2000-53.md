@@ -37,6 +37,156 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-03-30'
+version_history:
+  file: diretiva-ue-2000-53.versoes.json
+  count: 14
+  source_lastmod: '2023-03-30'
+  versions:
+  - date: '2000-10-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-28'
+    amending: eu:celex:32002D0525:por
+    amending_title: DECISÃO DA COMISSÃO de 27 de Junho de 2002; DECISÃO DA COMISSÃO de 24 de Janeiro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Prevenção
+    - Altera Artigo 7.º — Reutilização e valorização
+    - Altera Artigo 9.º — Relatório e informações
+    - Altera Artigo 13.º — Destinatários
+    - Adita ANEXO I
+    - Adita Requisitos técnicos mínimos para o tratamento nos termos dos n.^os^ 1 e 3 do artigo 6.º
+    - Adita ANEXO II
+    - Adita Notas
+    - Suprime ANEXO I — Requisitos técnicos mínimos para o tratamento nos termos dos n.os 1 e 3 do artigo 6.o
+    - Suprime ANEXO II — Materiais e componentes isentos da aplicação do disposto no n.o 2, alínea a), do artigo 4.o
+  - date: '2005-06-15'
+    amending: eu:celex:32005D0438:por
+    amending_title: DECISÃO DA COMISSÃO de 10 de Junho de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Relatório e informações
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2005-07-01'
+    amending: eu:celex:32005D0673:por
+    amending_title: DECISÃO DO CONSELHO de 20 de Setembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Relatório e informações
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2008-03-21'
+    amending: eu:celex:32008L0033:por
+    amending_title: DIRECTIVA 2008/33/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Prevenção
+    - Altera Artigo 5.º — Recolha
+    - Altera Artigo 6.º — Tratamento
+    - Altera Artigo 7.º — Reutilização e valorização
+    - Altera Artigo 8.º — Normas de codificação/Informações de desmantelamento
+    - Altera Artigo 9.º — Relatório e informações
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita Artigo 11.º — Procedimento de comité
+    - Suprime Artigo 11.º — Procedimento do comité
+  - date: '2008-08-26'
+    amending: eu:celex:32008D0689:por
+    amending_title: DECISÃO DA COMISSÃO de 1 de Agosto de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Relatório e informações
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita Materiais e componentes isentos da aplicação do disposto no n.º 2, alínea a), do artigo 4.º
+  - date: '2010-02-25'
+    amending: eu:celex:32010D0115:por
+    amending_title: DECISÃO DA COMISSÃO de 23 de Fevereiro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Relatório e informações
+    - Altera ANEXO II
+    - Altera Notas
+    - Suprime Materiais e componentes isentos da aplicação do disposto no n.º 2, alínea a), do artigo 4.º
+  - date: '2010-12-01'
+    amending: eu:celex:32008L0112:por
+    amending_title: DIRECTIVA 2008/112/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 16 de
+      Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Relatório e informações
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2011-04-20'
+    amending: eu:celex:32011L0037:por
+    amending_title: Directiva 2011/37/UE da Comissão Texto relevante para efeitos do EEE de 30 de Março de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Relatório e informações
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2013-06-11'
+    amending: eu:celex:32013L0028:por
+    amending_title: DIRETIVA 2013/28/UE DA COMISSÃO Texto relevante para efeitos do EEE de 17 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Relatório e informações
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2016-06-08'
+    amending: eu:celex:32016L0774:por
+    amending_title: DIRETIVA (UE) 2016/774 DA COMISSÃO Texto relevante para efeitos do EEE de 18 de maio de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Relatório e informações
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita Materiais e componentes isentos da aplicação do disposto no artigo 4.º, n.º 2, alínea a)
+    - 'Adita Notas:'
+  - date: '2017-12-06'
+    amending: eu:celex:32017L2096:por
+    amending_title: DIRETIVA (UE) 2017/2096 DA COMISSÃO Texto relevante para efeitos do EEE de 15 de novembro de 2017
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Relatório e informações
+    - Altera Materiais e componentes isentos da aplicação do disposto no artigo 4.º, n.º 2, alínea a)
+    - Altera Notas
+    - 'Suprime Notas:'
+  - date: '2020-03-06'
+    amending: eu:celex:32018L0849:por
+    amending_title: DIRETIVA (UE) 2018/849 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 30 de
+      maio de 2018; M14; DIRETIVA DELEGADA (UE) 2020/363 DA COMISSÃO Texto relevante para efeitos do EEE de 17 de dezembro
+      de 2019
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Prevenção
+    - Altera Artigo 5.º — Recolha
+    - Altera Artigo 6.º — Tratamento
+    - Altera Artigo 7.º — Reutilização e valorização
+    - Altera Artigo 8.º — Normas de codificação/Informações de desmantelamento
+    - Altera Artigo 9.º — Relatório e informações
+    - Altera Artigo 11.º — Procedimento de comité
+    - Altera Materiais e componentes isentos da aplicação do disposto no artigo 4.º, n.º 2, alínea a)
+    - Altera Notas
+    - Adita Artigo 9.º-A — Exercício da delegação
+    - Adita Artigo 10.º-A — Reexame
+  - date: '2023-03-30'
+    amending: eu:celex:32023L0544:por
+    amending_title: DIRETIVA DELEGADA (UE) 2023/544 DA COMISSÃO de 16 de dezembro de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Prevenção
+    - Altera Artigo 6.º — Tratamento
+    - Altera Artigo 9.º-A — Exercício da delegação
+    - Altera Artigo 11.º — Procedimento de comité
+    - Altera Materiais e componentes isentos da aplicação do disposto no artigo 4.º, n.º 2, alínea a)
+    - Altera Notas
 identifiers:
   celex: 32000L0053
   eli: http://data.europa.eu/eli/dir/2000/53/oj
@@ -51,7 +201,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/02fa83cf-bf28-4afc-8f9f-eb201bd61813.0009
   content_url: http://publications.europa.eu/resource/cellar/47e6fd60-e3f0-11ed-a05c-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0053-20230330
-  retrieved_at: '2026-10-22T02:37:01Z'
+  retrieved_at: '2026-10-22T14:49:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T20:12:50.136+02:00'
 integrity:
@@ -60,9 +210,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:01Z'
-  notes: Texto consolidado 02000L0053-20230330.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:05Z'
+  notes: 14 versão(ões); histórico completo em diretiva-ue-2000-53.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -276,48 +426,20 @@ relationships:
   source: null
 article_structure:
   article_count: 15
-  section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 5
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:01Z'
-  warnings: []
+  checked_at: '2026-10-22T14:49:05Z'
+  warnings:
+  - '02000L0053-20030101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 2000/53/CE do Parlamento Europeu e do Conselho, de 18 de Setembro de 2000
-
-> 02000L0053 — PT — 30.03.2023 — 015.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32002D0525) — [DECISÃO DA COMISSÃO de 27 de Junho de 2002](http://publications.europa.eu/resource/celex/32002D0525) — L 170 — 81 — 29.6.2002
-- [M2](http://publications.europa.eu/resource/celex/32005D0063) — [DECISÃO DA COMISSÃO de 24 de Janeiro de 2005](http://publications.europa.eu/resource/celex/32005D0063) — L 25 — 73 — 28.1.2005
-- [M3](http://publications.europa.eu/resource/celex/32005D0438) — [DECISÃO DA COMISSÃO de 10 de Junho de 2005](http://publications.europa.eu/resource/celex/32005D0438) — L 152 — 19 — 15.6.2005
-- [M4](http://publications.europa.eu/resource/celex/32005D0673) — [DECISÃO DO CONSELHO de 20 de Setembro de 2005](http://publications.europa.eu/resource/celex/32005D0673) — L 254 — 69 — 30.9.2005
-- [M5](http://publications.europa.eu/resource/celex/32008L0033) — [DIRECTIVA 2008/33/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2008](http://publications.europa.eu/resource/celex/32008L0033) — L 81 — 62 — 20.3.2008
-- [M6](http://publications.europa.eu/resource/celex/32008D0689) — [DECISÃO DA COMISSÃO de 1 de Agosto de 2008](http://publications.europa.eu/resource/celex/32008D0689) — L 225 — 10 — 23.8.2008
-- [►M7](http://publications.europa.eu/resource/celex/32008L0112) — [DIRECTIVA 2008/112/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008L0112) — L 345 — 68 — 23.12.2008
-- [M8](http://publications.europa.eu/resource/celex/32010D0115) — [DECISÃO DA COMISSÃO de 23 de Fevereiro de 2010](http://publications.europa.eu/resource/celex/32010D0115) — L 48 — 12 — 25.2.2010
-- [M9](http://publications.europa.eu/resource/celex/32011L0037) — [DIRECTIVA 2011/37/UE DA COMISSÃO de 30 de Março de 2011](http://publications.europa.eu/resource/celex/32011L0037) — L 85 — 3 — 31.3.2011
-- [M10](http://publications.europa.eu/resource/celex/32013L0028) — [DIRETIVA 2013/28/UE DA COMISSÃO de 17 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0028) — L 135 — 14 — 22.5.2013
-- [M11](http://publications.europa.eu/resource/celex/32016L0774) — [DIRETIVA (UE) 2016/774 DA COMISSÃO de 18 de maio de 2016](http://publications.europa.eu/resource/celex/32016L0774) — L 128 — 4 — 19.5.2016
-- [M12](http://publications.europa.eu/resource/celex/32017L2096) — [DIRETIVA (UE) 2017/2096 DA COMISSÃO de 15 de novembro de 2017](http://publications.europa.eu/resource/celex/32017L2096) — L 299 — 24 — 16.11.2017
-- [►M13](http://publications.europa.eu/resource/celex/32018L0849) — [DIRETIVA (UE) 2018/849 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018](http://publications.europa.eu/resource/celex/32018L0849) — L 150 — 93 — 14.6.2018
-- [M14](http://publications.europa.eu/resource/celex/32020L0362) — [DIRETIVA DELEGADA (UE) 2020/362 DA COMISSÃO de 17 de dezembro de 2019](http://publications.europa.eu/resource/celex/32020L0362) — L 67 — 116 — 5.3.2020
-- [M15](http://publications.europa.eu/resource/celex/32020L0363) — [DIRETIVA DELEGADA (UE) 2020/363 DA COMISSÃO de 17 de dezembro de 2019](http://publications.europa.eu/resource/celex/32020L0363) — L 67 — 119 — 5.3.2020
-- [►M16](http://publications.europa.eu/resource/celex/32023L0544) — [DIRETIVA DELEGADA (UE) 2023/544 DA COMISSÃO de 16 de dezembro de 2022](http://publications.europa.eu/resource/celex/32023L0544) — L 73 — 5 — 10.3.2023
-
-**Retificada por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32020L0362R%2801%29) — [Rectificação, JO L 103, 3.4.2020, p. 53 (2020/362)](http://publications.europa.eu/resource/celex/32020L0362R%2801%29)
-
-## DIRECTIVA 2000/53/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 18 de Setembro de 2000
 

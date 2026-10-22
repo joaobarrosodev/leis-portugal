@@ -34,6 +34,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-05-30'
+version_history:
+  file: regulamento-ue-2007-617.versoes.json
+  count: 2
+  source_lastmod: '2014-05-30'
+  versions:
+  - date: '2007-06-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-05-30'
+    amending: eu:celex:32014R0566:por
+    amending_title: REGULAMENTO (UE) N. o 566/2014 DO CONSELHO de 26 de maio de 2014
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita OBJETIVOS E PRINCÍPIOS GERAIS
+    - Adita Artigo 1.º — Objetivos e critérios de elegibilidade
+    - Adita Artigo 2.º — Princípios gerais
+    - Adita PROGRAMAÇÃO E AFETAÇÃO DOS FUNDOS
+    - Adita Artigo 3.º — Quadro geral de afetação dos fundos
+    - Adita Artigo 4.º — Quadro geral de programação
+    - Adita Artigo 5.º — Documentos de programação
+    - Adita Artigo 6.º — Programação relativa a países e regiões em situação de crise, pós-crise ou fragilidade
+    - Adita Artigo 7.º — Aprovação e modificação dos documentos de programação
+    - Adita Artigo 8.º — Quadro geral de execução
+    - Adita Artigo 9.º — Adoção de programas de ação, de medidas individuais e de medidas especiais
+    - Adita Artigo 10.º — Contribuições adicionais dos Estados-Membros
+    - Adita Artigo 11.º — Impostos, direitos e encargos
+    - Adita Artigo 12.º — Proteção dos interesses financeiros da União
+    - Adita Artigo 13.º — Regras em matéria de nacionalidade e origem aplicáveis a procedimentos de adjudicação de contratos
+      públicos, de concessão de subvenções e outros procedimentos de adjudicação
+    - Adita PROCESSOS DE DECISÃO
+    - Adita Artigo 14.º — Responsabilidades do Comité do FED
+    - Adita Artigo 15.º — Fundo de Apoio à Paz em África
+    - Adita Artigo 16.º — Comité da Facilidade de Investimento
+    - Adita Artigo 17.º — Participação de um país ou de uma região terceiro
+    - Adita Artigo 18.º — Acompanhamento, apresentação de relatórios e avaliação da ajuda do FED
+    - Adita Artigo 19.º — Despesas no domínio da ação climática e da biodiversidade
+    - Adita Artigo 20.º — Serviço Europeu para a Ação Externa
+    - Suprime PRINCÍPIOS GERAIS
+    - Suprime Artigo 1.º — Quadro geral da programação e execução
+    - Suprime PROGRAMAÇÃO
+    - Suprime Artigo 2.º — Processo de programação
+    - Suprime Artigo 3.º — Atribuição de recursos
+    - Suprime Artigo 4.º — Documentos de estratégia por país e regionais e programação plurianual
+    - Suprime Artigo 5.º — Reexames
+    - Suprime Artigo 6.º — Quadro geral de execução
+    - Suprime Artigo 7.º — Programas de acção anuais
+    - Suprime Artigo 8.º — Aprovação de medidas especiais
+    - Suprime Artigo 9.º — Co-financiamento e contribuições adicionais dos Estados-Membros
+    - Suprime Artigo 10.º — Participação de um país terceiro ou de uma região de um país terceiro
+    - Suprime PROCESSOS DE TOMADA DE DECISÃO
+    - Suprime Artigo 11.º — Responsabilidades do Comité do FED
+    - Suprime Artigo 12.º — Fundo de Apoio à Paz em África
 identifiers:
   celex: 32007R0617
   eli: http://data.europa.eu/eli/reg/2007/617/oj
@@ -48,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/174a538c-388e-455d-9941-5684407a2252.0018
   content_url: http://publications.europa.eu/resource/cellar/93d0a897-9432-4adf-95bc-4abdc50b6a2a.0014.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0617-20140530
-  retrieved_at: '2026-10-22T03:13:07Z'
+  retrieved_at: '2026-10-22T15:08:46Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T21:08:17.361+01:00'
 integrity:
@@ -57,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:07Z'
-  notes: Texto consolidado 02007R0617-20140530.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:08:46Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2007-617.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -132,29 +186,19 @@ relationships:
   date: '2008-03-11'
 article_structure:
   article_count: 20
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:07Z'
+  checked_at: '2026-10-22T15:08:46Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 617/2007 do Conselho, de 14 de Maio de 2007
-
-> 2007R0617 — PT — 30.05.2014 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014R0566) — [REGULAMENTO (UE) N.º 566/2014 DO CONSELHO de 26 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0566) — L 157 — 35 — 27.5.2014
-
-## REGULAMENTO (CE) N.º 617/2007 DO CONSELHO
 
 de 14 de Maio de 2007
 

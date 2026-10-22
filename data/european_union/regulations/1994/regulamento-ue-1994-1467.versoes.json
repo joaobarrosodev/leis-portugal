@@ -1,0 +1,239 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994R1467:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994R1467-20041007",
+ "dre_path": null,
+ "source_lastmod": "2004-10-07",
+ "versions": [
+  {
+   "date": "1994-06-28",
+   "future": false,
+   "celex": "31994R1467",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8ab547dcbecc04eb",
+    "2dd1df652c790717",
+    "5396cbfc051fca48",
+    "fff19c3a9682e261",
+    "f52345e62d0b1e23",
+    "8c41ff761caa068e",
+    "1ee4fd993b323bff",
+    "df8d74aca21c6075",
+    "040240b19c5a72db",
+    "7d42fea99fb69bdc",
+    "707748c78a36e066",
+    "f8c21f5a554c9269",
+    "bd02c4e817fdb2cf",
+    "f6617b1b84e53500",
+    "0bcbaf5f3facb2e2",
+    "d8203a91d696ef36",
+    "2999b7c90e3d1f1e",
+    "c574715a23045b1a",
+    "4b36851e5fa5db69",
+    "4fdb064f1d425377"
+   ]
+  },
+  {
+   "date": "2004-10-07",
+   "future": false,
+   "celex": "01994R1467-20041007",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime TÍTULO I Informação e consulta — Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime TÍTULO II Acções específicas — Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime TÍTULO III Programa de acções em matéria de recursos genéticos na agricultura — Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime TÍTULO IV Disposições gerais — Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime ANEXO I — REGRAS DE EXECUÇÃO DO PROGRAMA I. OBJECTIVOS",
+    "Suprime ANEXO II"
+   ],
+   "fragments": [
+    "62885c8d1cfdf1cc"
+   ]
+  }
+ ],
+ "fragments": {
+  "8ab547dcbecc04eb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 1467/94 do Conselho, de 20 de Junho de 1994, relativo à conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura** *Jornal Oficial nº L 159 de 28/06/1994 p. 0001 - 0010 Edição especial finlandesa: Capítulo 3 Fascículo 58 p. 0156 Edição especial sueca: Capítulo 3 Fascículo 58 p. 0156*\n\nREGULAMENTO (CE) Nº 1467/94 DO CONSELHO de 20 de Junho de 1994 relativo à conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura\n\nO CONSELHO DA UNIAO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que convém preservar a diversidade genética e biológica na agricultura da Comunidade, que constitui um património de recursos genéticos e biológicos insubstituível, tomar todas as medidas necessárias para a sua preservação, caracterização, recolha, e utilização a fim de contribuir para os objectivos da política agrícola comum e para a protecção da biodiversidade, de acordo com a convenção sobre a protecção da biodiversidade ratificada pela Comunidade em 1993, bem como encontrar todas as soluções de futuro que venham a revelar-se necessárias;\n\nConsiderando que, no presente regulamento, o domínio agrícola deve ser entendido no sentido lato do termo e que, por conseguinte, os recursos genéticos na agricultura incluem, igualmente, os recursos genéticos silvícolas e florestais;\n\nConsiderando que os recursos genéticos na agricultura incluem os recursos genéticos vegetais e os recursos genéticos animais na acepção do presente regulamento;\n\nConsiderando que o desenvolvimento e coordenação eficazes da conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura devem ter por objectivo organizar no interesse geral os esforços empreendidos nos Estados-membros, utilizar de modo eficaz os resultados desses esforços, orientá-los de acordo com as necessidades da política agrícola comum e, na observância da citada convenção, conjugar os meios devidos para a execução de acções adaptadas às necessidades da Comunidade, atendendo, se for caso disso, às acções empreendidas no mesmo domínio por organizações internacionais de comprovada competência e pelos países terceiros da Europa;\n\nConsiderando que, para atingir este objectivo, é conveniente prever um intercâmbio permanente de informações e, em especial, uma consulta recíproca sobre os programas de conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura, existentes e previstos nos Estados-membros;\n\nConsiderando que a coordenação, a nível da Comunidade, de acções já empreendidas a nível nacional do domínio da conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura deve permitir aumentar a eficácia dos trabalhos em curso;\n\nConsiderando que estes trabalhos se revelam actualmente insuficientes, quer pela sua própria natureza quer por os meios de que dispõem os Estados-membros não lhes permitirem aumentar os esforços em matéria de conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura; que, nesses casos, respeitando o princípio da subsidiariedade, a Comunidade deve poder apoiar e completar os esforços empreendidos nos Estados-membros, contribuindo assim para o cumprimento das obrigaçãos comunitárias em matéria de protecção do ambiente e manutenção da paisagem, bem como de desenvolvimento e execução de planos para a conservação e utilização sustentável da biodiversidade; que, não obstante o problema da conservação dos recursos genéticos na agricultura ter uma dimensão transnacional e dizer respeito a todos os Estados-membros, não existe ainda, a nível comunitário qualquer programa específico neste domínio; que a solução mais eficaz consiste na concertação das acções já existentes e no apoio a novas acções altamente prioritárias; que a ausência de acções conduziria à ineficiência e à perda de recursos genéticos;\n\nConsiderando que os esforços empreendidos no domínio da conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura são de molde a aumentar a diversificação agrícola, contribuir para a manutenção da diversidade biológica, a melhorar a qualidade dos produtos agrícolas e a reduzir os insumos e os custos de produção, contribuindo, nomeadamente, para a extensificação da produção agrícola;\n\nConsiderando que, dada a estreita ligação existente entre a coordenação no domínio da conservação, caracterização, recolha a utilização dos recursos genéticos na agricultura e a política agrícola comum, é necessário assegurar a aplicação, tão rápida quanto possível, dos esforços empreendidos nesse domínio;\n\nConsiderando que, face às exigências de coordenação e à dimensão geográfica do património genético agrícola da Comunidade, bem como à necessidade de acções a executar nesse domínio, é conveniente uma cooperação estreita e constante entre a Comissão e os Estados-membros em matéria de conservação, caracterização, recolha e utilização dos recursos genéticos;\n\nConsiderando que a coordenação dos esforços nacionais exige um conhecimento alargado e aprofundado da situação da conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura em cada Estado-membro; que é necessário proceder ao inventário destes conhecimentos e fixar as modalidades segundo as quais os utilizadores terão acesso aos dados assim recolhidos;\n\nConsiderando que os esforços empreendidos a nível comunitário devem ser orientados, nomeadamente, para o melhoramento da qualidade dos produtos agrícolas e as novas utilizações de produtos agrícolas, tradicionais ou novos, a fim de lhes proporcionar um maior valor acrescentado;\n\nConsiderando que um programa comunitário de acções em matéria de conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura deve contribuir para a preservação do património de diversidade biológica da Comunidade, para a competitividade da agricultura e para uma melhor gestão dos recursos agrícolas;\n\nConsiderando que esse programa comunitário de acções a longo prazo pode permitir encontrar novas formas de produção favoráveis à agricultura, ao ambiente e à paisagem;\n\nConsiderando que é necessário garantir que sejam colocados à disposição da Comunidade os resultados dos esforços em que a mesma participa no âmbito da conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura;\n\nConsiderando que, no âmbito da política geral elaborada pela Comunidade no domínio da conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura, com a ajuda das instâncias consultivas competentes, a criação de um comité composto por representantes dos Estados-membros e presidido por um representante da Comissão constitui o meio mais adequado para desenvolver a cooperação, podendo esse comité apoiar e aconselhar de modo útil a Comissão na execução das tarefas que lhe são confiadas em matéria de coordenação da conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura;\n\nConsiderando que, para permitir a exploração dos resultados obtidos, é conveniente promover a sua difusão e divulgação, e que, por forma a propiciar um aproveitamento tão amplo e racional quanto possível do programa de acção, este deverá ser completado por publicações respeitantes aos resultados e às actividades de aconselhamento,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "2dd1df652c790717": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A fim de contribuir para a realização dos objectivos da política agrícola comum, a coordenação e a promoção, a nível comunitário, dos esforços empreendidos nos Estados-membros em matéria de conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura serão asseguradas nas condições previstas no presente regulamento.\n\n2. Para efeitos do presente regulamento:\n\na) Os recursos genéticos na agricultura incluem os recursos genéticos vegetais e os recursos genéticos animais;\n\nb) Entende-se por:\n\n- « recursos genéticos vegetais », entende-se nomeadamente os que dizem respeito aos sectores das plantas agrícolas, incluindo a vinha e as plantas forrageiras, o sector da horticultura, incluindo as plantas hortícolas, ornamentais, medicinais e aromáticas, os sectores da fruticultura, da silvicultura e das florestas, os cogumelos, os microrganismos, bem como a flora selvagem que se revele ou venha a revelar-se útil no domínio agrícola.\n\n- « recursos genéticos animais », nomeadamente os que se referem aos animais domésticos de criação (vertebrados e certos invertebrados), aos microrganismos, bem como à fauna selvagem que se revele ou venha a revelar-se útil no domínio agrícola.\n\n3. A coordenação e a promoção referidas no nº 1 efectuar-se-ao em conformidade com a política geral adoptada pela Comunidade no domínio dos recursos genéticos na agricultura."
+  },
+  "5396cbfc051fca48": {
+   "fragment_id": "TÍTULO I Informação e consulta — Artigo 2º",
+   "type": "divisao",
+   "heading": "TÍTULO I Informação e consulta — Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I Informação e consulta — Artigo 2º\n\nÉ instituído um sistema de informação e de consulta entre os Estados-membros e a Comissão nas condições previstas nos artigos 3º e 4º"
+  },
+  "fff19c3a9682e261": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros fornecerão à Comissão periodicamente, e pelo menos uma vez por ano, as informações técnicas, económicas e financeiras relativas às acções específicas de conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura, empreendidas ou previstas sob a sua autoridade.\n\nOs Estados-membros esforçar-se-ao por fornecer à Comissão, periodicamente, as mesmas informações relativas às acções de conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura, empreendidos e previstos por organismos não submetidos à sua autoridade.\n\n2. A Comissão manterá um inventário permanente das acções previstas no nº 1 e, mediante medidas adequadas, encorajará a troca de informações entre os organismos competentes dos Estados-membros, nomeadamente os intercâmbios de informações sobre as origens e características individuais dos recursos genéticos disponíveis. Estes intercâmbios podem ser realizados no âmbito das acções financiadas pelo programa a que se refere o artigo 7º\n\n3. Após ter obtido o parecer do comité referido no artigo 13º, a Comissão fixará as modalidades segundo as quais o conjunto das informações colhidas será colocado à disposição dos interessados."
+  },
+  "f52345e62d0b1e23": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. A Comissão estudará permanentemente as políticas, a situação e as tendências da conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura nos Estados-membros, tendo igualmente em conta as resultados de outros estudos pertinentes no domínio dos recursos genéticos, nomeadamente no que se refere à exploração e erosão genética. Para o efeito, a Comissão consultará os Estados-membros no âmbito do comité referido no artigo 13º\n\n2. A Comissão organizará trocas de informações e assegurará o alargamento e aperfeiçoamento das medidas de conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura, nomeadamente através de seminários, cursos de aperfeiçoamento, intercâmbios de peritos, missões de estudo e avaliação científicas e técnicas."
+  },
+  "8c41ff761caa068e": {
+   "fragment_id": "TÍTULO II Acções específicas — Artigo 5º",
+   "type": "divisao",
+   "heading": "TÍTULO II Acções específicas — Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II Acções específicas — Artigo 5º\n\n1. Sem prejuízo das recomendações que possa vir a fazer aos Estados-membros, a Comissão fica encarregada de:\n\na) Prestar assistência à coordenação, a nível comunitário, de determinadas acções nacionais em matéria de conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura, destinada a permitir uma organização racional dos meios mobilizados na Comunidade, uma utilização eficaz dos resultados e uma orientação conforme aos objectivos da política agrícola comum;\n\nb) Elaborar e executar os programas de acções em matéria de conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura a nível da Comunidade, destinados a apoiar ou completar os esforços empreendidos nos Estados-membros.\n\n2. As regras de execução do nº 1 serão adoptadas de acordo com o procedimento previsto no artigo 14º"
+  },
+  "1ee4fd993b323bff": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. A Comissão, de acordo com o procedimento previsto no artigo 14º, tomará todas as medidas necessárias para que os resultados susceptíveis de fazer progredir a realização das acções empreendidas no âmbito da aplicação do nº 1 do artigo 5º sejam colocados à disposição da Comunidade através dos meios mais adequados.\n\n2. A Comissão mobilizará os meios adequados para promover a difusão e a exploração dos resultados susceptíveis de fazer progredir a realização dos objectivos da política agrícola comum e dos esforços empreendidos nos domínios da conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura, nomeadamente em conformidade com os objectivos da política agrícola comum."
+  },
+  "df8d74aca21c6075": {
+   "fragment_id": "TÍTULO III Programa de acções em matéria de recursos genéticos na agricultura — Artigo 7º",
+   "type": "divisao",
+   "heading": "TÍTULO III Programa de acções em matéria de recursos genéticos na agricultura — Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III Programa de acções em matéria de recursos genéticos na agricultura — Artigo 7º\n\nÉ adoptado, por um período de cinco anos, um primeiro programa comunitário de acções em matéria de conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura, tal como definido no anexo I, a seguir designado por « programa »."
+  },
+  "040240b19c5a72db": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nAs modalidades de aplicação do programa, incluindo a taxa da participação financeira da Comunidade, encontram-se definidas no anexo I."
+  },
+  "7d42fea99fb69bdc": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nA Comissão executará o programa após ter obtido o parecer do comité previsto no artigo 13º A consulta terá nomeadamente por objecto:\n\n- a elaboração e actualização de um programa de trabalho,\n\n- o teor dos convites à apresentação de propostas de acções,\n\n- a avaliação das acções concertadas e dos projectos previstos no anexo I,\n\n- a elaboração e utilização do inventário a que se refere o nº 2 do artigo 3º"
+  },
+  "707748c78a36e066": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. O programa de trabalho previsto no primeiro travessão do artigo 9º definirá os objectivos detalhados, o tipo de acções a empreender e as correspondentes disposições financeiras a adoptar. A Comissão lançará concursos públicos destinados à realização de acções baseadas no programa de trabalho.\n\n2. Os contratos celebrados pela Comissão para a realização das diferentes acções regularão as modalidades de difusão, protecção e valorização dos resultados das acções empreendidas no âmbito do programa."
+  },
+  "f8c21f5a554c9269": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. Durante o terceiro ano de execução do programa, a Comissão procederá a um reexame do mesmo e a uma análise da situação, nomeadamente no que diz respeito aos aspectos financeiros. A Comissão apresentará ao Parlamento Europeu, e ao Conselho um relatório sobre os resultados deste reexame.\n\n2. No termo do programa, a Comissão designará um grupo de peritos independentes, que procederão à avaliação dos resultados. O relatório deste grupo, acompanhado das observações da Comissão, será apresentado ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social."
+  },
+  "bd02c4e817fdb2cf": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. O montante considerado necessário para a execução do programa eleva-se a 20 milhões de ecus, incluindo as despesas de pessoal e de administração.\n\n2. É apresentada no anexo II uma repartição indicativa do montante."
+  },
+  "f6617b1b84e53500": {
+   "fragment_id": "TÍTULO IV Disposições gerais — Artigo 13º",
+   "type": "divisao",
+   "heading": "TÍTULO IV Disposições gerais — Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV Disposições gerais — Artigo 13º\n\n1. É instituído um comité da conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura, a seguir designado por « comité », composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. O comité estabelecerá o seu regulamento interno, em conformidade com as regras fixadas em 1965 para os comités de gestão instituídos para gerir as organizações comuns de mercado.\n\n3. O parecer do comité é solicitado de acordo com o processo definido no artigo 14º"
+  },
+  "0bcbaf5f3facb2e2": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. Sempre que se faça referência ao processo definido no presente artigo, o Comité será chamado a pronunciar-se pelo seu presidente, seja por sua própria iniciativa, seja a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. No comité, os votos dos Estados-membros estão sujeitos à ponderação prevista no nº 2 do artigo 148º do Tratado. O presidente não participa na votação.\n\n3. A Comissão adoptará medidas, que são imediatamente aplicáveis. Todavia, se não forem conformes com o parecer emitido pelo comité, essas medidas serão imediatamente comunicadas pela Comissão ao Conselho. Nesse caso, a Comissão pode diferir, por um período de um mês, no máximo, a contar da data dessa comunicação, a aplicação das medidas que aprovou.\n\nO Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo previsto no parágrafo anterior."
+  },
+  "d8203a91d696ef36": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nO comité pode examinar qualquer outra questão relevante evocada pelo seu presidente, seja por sua própria iniciativa seja a pedido do representante de um Estado-membro."
+  },
+  "2999b7c90e3d1f1e": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nA Comissão apresentará periodicamente ao Parlamento Europeu e ao Conselho um relatório sobre as acções de conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura referidas no artigo 5º\n\nEsse relatório incluirá, nomeadamente:\n\n- uma visão global da evolução das acções empreendidas no domínio agrícola nos Estados-membros nos aspectos de conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura,\n\n- uma descrição da evolução da conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura na Comunidade,\n\n- um ponto da situação das acções empreendidas no âmbito do presente regulamento,\n\n- um estudo prospectivo da evolução desejável da conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura nos Estados-membros e da coordenação dos esforços neste domínio a nível comunitário, tendo em conta os objectivos da política agrícola comum e os resultados já obtidos no programa. Este estudo incluirá, se necessário, referências aos trabalhos empreendidos neste domínio por organizações internacionais reconhecidas."
+  },
+  "c574715a23045b1a": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo, em 20 de Junho de 1994.\n\nPelo Conselho\n\nO Presidente\n\nG. MORAITIS\n\n(1) JO nº C 266 de 1. 10. 1993, p. 2.\n\n(2) JO nº C 128 de 9. 5. 1994.\n\n(3) JO nº C 52 de 19. 2. 1994, p. 20."
+  },
+  "4b36851e5fa5db69": {
+   "fragment_id": "ANEXO I — REGRAS DE EXECUÇÃO DO PROGRAMA I. OBJECTIVOS",
+   "type": "divisao",
+   "heading": "ANEXO I — REGRAS DE EXECUÇÃO DO PROGRAMA I. OBJECTIVOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — REGRAS DE EXECUÇÃO DO PROGRAMA I. OBJECTIVOS\n\nConribuir para garantir e melhorar a conservação, caracterização, documentação avaliação, recolha e utilização dos recursos genéticos vegetais e animais com valor potencial na Comunidade.\n\nPara a execução dos objectivos fixados, importa coordenar as acções já em curso nos Estados-membros, completá-las e desenvolvê-las. O princípio da subsidiariedade será aplicado em todas as acções.\n\nSe for caso disso, as acções empreendidas no âmbito do presente programa serão prosseguidas conjuntamente com as acções realizadas no mesmo domínio por organizações internacionais de comprovada competência.\n\nII. DISPOSIÇÕES GERAIS\n\n1. A Comissão executará o programa.\n\n2. As regras de execução do programa referidas no artigo 8º do presente regulamento incluem um inventário permanente dos recursos genéticos na agricultura da Comunidade, acções concertadas, projectos a custos rapartidos para a conservação, caracterização, recolha e utilização dos referidos recursos genéticos, bem como medidas de acompanhamento.\n\n- Inventário permanente\n\nO inventário permanente consiste principalmente na elaboração, actualização periódica e publicação regular do estado e natureza dos recursos genéticos na agricultura existentes em colecções na Comunidade, bem como na enumeração das actividades correntes de conservação, caracterização, recolha e utilização dos referidos recursos genéticos. As despesas decorrentes da elaboração desse inventário e da sua publicação periódica serão imputadas às dotações globais concedidas para a execução do presente programa.\n\n- Acções concertadas\n\nAs acções concertadas consistem em esforços envidados pela Comunidade tendo em vista a coordenação das acções individuais de conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura, realizadas pelos Estados-membros. As acções concertadas podem ser alvo de uma participação financeira da Comunidade susceptível de atingir 100 % das despesas de concertação.\n\n- Projectos a custos repartidos para a conservação, caracterização e utilização dos recursos genéticos na agricultura\n\nOs projectos de conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura são objecto de contratos a custos repartidos. A Comunidade participa financeiramente na execução dos mesmos não excedendo a sua participação de 50 % do custo total dos projectos.\n\nOs projectos a custos repartidos devem, em geral, ser executados por participantes estabelecidos na Comunidade. Os projectos que prevejam a participação de, pelo menos, dois parceiros independentes, estabelecidos em Estados-membros diferentes, beneficiarão de uma certa prioridade. Os contratos referentes aos projectos a custos repartidos para a conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura devem, regra geral, ser concluídos após um processo de selecção baseado em convites à apresentação de propostas publicados no Jornal Oficial das Comunidades Europeias. Caso haja urgência, pode ser utilizado o processo restrito de convite à apresentação de propostas.\n\n- Medidas de acompanhamento\n\nAs medidas de acompanhamento consistem:\n\n- na organização de seminários, conferências técnicas ou workshops,\n\n- em actividades de coordenação interna, por intermédio de grupos técnicos especializados,\n\n- em actividades de formação e intercâmbio de pessoal especializado,\n\n- em promover a utilização dos resultados.\n\nAs medidas de acompanhamento podem ser alvo de uma participação financeira da Comunidade susceptível de atingir 100 % do seu custo total.\n\n3. Qualquer pessoa singular ou colectiva, nacional de um Estado-membro e estabelecida na Comunidade, pode participar na execução das acções previstas a título do presente programa. A participação de parceiros nacionais de países terceiros, bem como a contribuição financeira da Comunidade referente a essa participação, devem ser analisadas individualmente.\n\n4. A difusão dos resultados e conhecimentos adquiridos no âmbito da execução das acções e projectos fica a cargo do programa.\n\n5. As propostas de acções devem incluir uma declaração relativa ao impacte no ambiente. Essa declaração deve ainda incluir um compromisso de respeito pelas regras de segurança pertinentes.\n\nIII. NORMAS TÉCNICAS\n\n1. Âmbito de aplicação\n\na) Actividades elegíveis\n\nO presente programa refere-se à conservação, caracterização, avaliação, recolha e utilização dos recursos genéticos, vegetais e animais, existentes actualmente no território da Comunidade e susceptíveis de desaparecer se não forem tomadas medidas especiais.\n\nSão elegíveis para o programa organismos vegetais (plantas de semente e algumas plantas esporofitas), animais (vertebrados e certos invertebrados) e microrganismos.\n\nÉ elegível qualquer tipo de material, incluindo cultivares e raças domésticas, raças locais, material dos obtentores, colecções de material genético e espécies selvagens. O programa abrange tanto material em crescimento activo como material em estado de dormênica (sementes, embriões, sémen e pólen). Tanto as colecções in situ como as colecções ex situ são abrangidas pelo programa.\n\nSerá dada prioridade a espécies que sejam já economicamente significativas para a agricultura, a horticultura e as florestas, na Comunidade, ou que tenham uma probabilidade razoável de vir a sê-lo. Especial preferência será dada à utilização de recursos genéticos para:\n\n- a diversificação da produção agrícola,\n\n- a melhoria da qualidade dos produtos,\n\n- uma melhor protecção do ambiente.\n\nNa acepção do presente programa, entende-se- por:\n\n- « documentação », a recolha e o registo de dados de qualquer tipo;\n\n- dados do « passaporte », os registados no sítio da recolha;\n\n- « caracterização », os descritores taxinómicos primários registados posteriormente;\n\n- « avaliação », a determinação de outros caracteres, tais como resistência a doenças ou rusticidade.\n\nNo recenseamento das colecções ou na constituição de novas colecções, proceder-se-á de modo a que, no âmbito do programa, seja registada a experiência tradicional própria de região dos interessados (agricultores, horticultores) em matéria de métodos de cultura, de utilização específica, de transformação, de gosto, etc.\n\nb) Actividades excluídas\n\nEstão especificamente excluídas de qualquer participação financeira por parte da Comunidade, no âmbito do presente programa, as seguintes acções: estudos teóricos, estudos para verificação de hipóteses, estudos destinados a melhorar técnicas ou instrumentos, trabalhos que envolvam técnicas não ensaiadas ou sistemas « modelo », e todas as outras actividades de investigação. Tais acções podem ser elegíveis no âmbito dos programas comunitários de investigação e desenvolvimento tecnológico.\n\nAs acções já em curso nos Estados-membros só serão elegíveis no que se refere à execução de « acções concertadas ».\n\nAs acções respeitantes a animais, plantas inferiores e microrganismos só serão elegíveis na medida em que os mesmos sejam criados ou cultivados em terra ou em água doce, ou estejam aptos a ser utilizados como meios de luta biológica na agricultura. Serão abertas excepções nos casos específicos de relações directas e definidas entre genes de parasitas ou simbiontes e genes dos respectivos hospedeiros, em que ambos os organismos devam ser conservados.\n\nA recolha e a aquisição de material ficam subordinadas às prioridades acima referidas.\n\n2. Acções\n\nSerão promovidas as seguintes acções:\n\na) Inventário\n\nElaboração, actualização periódica e publicação regular de um inventário permanente dos trabalhos efectuados na Comunidade em matéria de conservação, caracterização, recolha e utilização da diversidade de recursos genéticos na agricultura bem como dos programas in situ e das colecções ex situ.\n\nO inventário constitui um guia das colecções permanentes de recursos genéticos e das actividades com elas relacionadas, na Comunidade. Tem como objectivo apoiar as actividades do presente programa, dar a conhecer a existência do material conservado e fomentar a sua utilização. O inventário contém informações exaustivas sobre cada uma das bases de dados, e nomeadamente sobre as colecções financiadas no âmbito do presente programa, além de outras informações pertinentes.\n\nb) Conservação, documentação e troca de informações\n\nEsta acção destina-se a reforçar os esforços envidados pela Comunidade para conservar os recursos genéticos agrícolas animais e vegetais, incluindo as espécies silvícolas, bem como elaborar a documentação pertinente, através da harmonização dos trabalhos já em curso e da eliminação das acções repetidas.\n\nO trabalho será desenvolvido por etapas, de acordo com uma sequência lógica. As fases finais só serão elegíveis para uma participação financeira da Comunidade, quando se provar que foram concluídas as etapas precedentes, quer no âmbito do presente programa quer anteriormente.\n\nPosteriormente, poderão ser financiadas novas acções (etapa nº 6), se se puder comprovar a sua necessidade.\n\nPara harmonizar as acções, as bases de dados utilizadas em todas as acções financiadas a título do presente programa deverão tornar-se compatíveis.\n\nEm cada etapa do processo, a informação adquirida será publicada, devendo o material armazenado estar, na medida do possível, disponível para distribuição.\n\nPara cada espécie, as etapas a seguir são:\n\n- Etapa nº 1: Elaboração do plano de trabalho.\n\nElaborar uma lista mínima dos descritores primários, criar e testar uma base de dados comum e um formato comum para a troca de dados. A base de dados comum deve ser concebida de forma a satisfazer as necessidades dos utilizadores e utilizar a linguagem padrão das bases de dados. Os descritores escolhidos devem referir-se a caracteres fortemente hereditários. Os referidos caracteres devem exprimir-se em quaisquer condições ambientais, e a sua avaliação não deve ser dispendiosa.\n\n- Etapa nº 2: Caracterização das colecções.\n\nCriação de base de dados. Recolha dos dados do passaporte, multiplicação ou regeneração do material e caracterização dos descritores primários.\n\n- Etapa nº 3: Avaliação (caracterização secundária)\n\nQuando necessário, acrescentar dados de outros ensaios de selecção (ver adiante « Avaliação e utilização »).\n\n- Etapa nº 4: Triagem das colecções\n\nUtilizando a base de dados comum, identificação das duplicações e lacunas nas colecções existentes. Se necessário, designar uma fracção do total que passa a constituir o « núcleo ».\n\n- Etapa nº 5: Racionalização das colecções\n\nSempre que existam duplicações entre colecções, racionalizar e harmonizar as existências, tendo em atenção que é necessária uma certa sobreposição, de forma a prevenir qualquer perda acidental. No mínimo devem ser conservados duplicados do núcleo, pelo menos em dois sítios designados. A colecção no seu conjunto pode estar dividida por várias localidades designadas.\n\n- Etapa nº 6: Aquisição (recolha) dos recursos genéticos\n\nPode proceder-se à recolha:\n\ni) Sempre que existam nas colecções lacunas que limitem inequivocamente a sua utilidade, ou\n\nii) Sempre que exista material que se possa razoavelmente pressupor único e que, caso não seja incluído na colecção, esteja votado ao desaparecimento.\n\nA recolha e a armazenagem devem sr feitas segundo as normas, sendo em seguida elaborada e introduzida na base de dados a documentação relativa ao material recolhido (etapas nºs 1 a 5). No caso dos animais, a « recolha » pode consistir na colheita e conservação de sémen, óvulos e embriões de raças únicas ameaçadas.\n\nSerá dado especial realce à publicação das informações e à difusão do material resultantes das actividades acima descritas.\n\nc) Avaliação e utilização\n\nEsta acção destina-se a melhorar a avaliação e utilização do material armazenado nas colecções de recursos genéticos da Comunidade, quer in situ quer ex situ.\n\nSão elegíveis as seguintes acções:\n\n- acções directamente conducentes à utilização do material das colecções na agricultura, por exemplo multiplicação do material candidato e respectivo ensaio em condições de campo,\n\n- recolha das informações relevantes junto de utilizadores a que foram previamente distribuídos os recursos genéticos dos bancos de genes, e pesquisa de informações relevantes na literatura,\n\n- avaliação regular do desempenho do material das colecções em condições práticas,\n\n- selecção regular do material das colecções para identificação de genes úteis, tais como genes responsáveis pela qualidade do produto, resistência a pragas e doenças, rusticidade, capacidade geral de combinação e androesterilidade,\n\n- registo de outros caracteres, sem valor económico mas com utilidade operacional, como, por exemplo, os que permitem identificar os genótipos com maior rapidez e precisão.\n\n3. Participação\n\nEstão previstas duas regras de participação nas acções a custos repartidos. Os critérios serão os seguintes:\n\na) Participante designado\n\nO participante designado deve ser:\n\n- aprovado para a formação a nível de doutoramento. O participante deve estar disposto a aceitar estudantes para formações pós-universitárias (três anos)\n\ne/ou\n\n- aprovado pelo Estado-membro\n\ne/ou\n\n- reconhecido pelo Estado-membro como sendo possuidor de um nível de competência equiparável no domínio em questão\n\ne,\n\ncaso seja responsável por uma colecção, esta deverá:\n\n- estar acessível a todos os utilizadores de boa-fé,\n\n- respeitar as normas de boa prática,\n\n- ser activamente utilizada.\n\nb) Participante complementar\n\nUm participante complementar é aquele que detém material complementar ao da mesma espécie existente num banco de genes designado ou possui competências complementares.\n\nOs participantes complementares participarão nos trabalhos na qualidade de subcontratantes, em colaboração com um participante designado.\n\nO presente programa é multidisciplinar. Assim sendo, será especialmente encorajada a participação de todas as disciplinas relevantes, nomeadamente as ligadas à utilização do material armazenado."
+  },
+  "4fdb064f1d425377": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nRECURSOS GENÉTICOS NA AGRICULTURA REPARTIÇÃO FINANCEIRA INDICATIVA \"\" ID=\"1\">I. Inventário permanente> ID=\"2\">10 % \"> ID=\"1\">II. Conservação, caracterização, recolha, utilização> ID=\"2\">88 % \"> ID=\"1\">1. Recursos genéticos vegetais\"> ID=\"1\">66 %\"> ID=\"1\">2. Recursos genéticos animais\"> ID=\"1\">22 %\"> ID=\"1\">III. Avaliação do programa> ID=\"2\">2 % (1)\"> ID=\"1\">Total> ID=\"2\">100 % (2) \"\">\n\n(1) Está previsto para a avaliação e a difusão dos resultados do programa um montante correspondente a cerca de 2 % do montante global.\n\n(2) Incluido as despesas de administração específica do programa que se elevam, aproximadamente, a 2,5 % do montante global e as despesas de pessoal especializado (2 agentes A, 2 agentes B, 2 agentes C) que se elevam, aproximadamente, a 10 % do montante global."
+  },
+  "62885c8d1cfdf1cc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1994R1467 — PT — 07.10.2004 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31994R1467) [REGULAMENTO (CE) N.º 1467/94 DO CONSELHO](http://publications.europa.eu/resource/celex/31994R1467) [de 20 de Junho de 1994](http://publications.europa.eu/resource/celex/31994R1467) [relativo à conservação, caracterização, recolha e utilização dos recursos genéticos na agricultura](http://publications.europa.eu/resource/celex/31994R1467) (JO L 159, 28.6.1994, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1590/2004 do Conselho de 26 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R1590) — L 304 — 1 — 30.9.2004"
+  }
+ }
+}

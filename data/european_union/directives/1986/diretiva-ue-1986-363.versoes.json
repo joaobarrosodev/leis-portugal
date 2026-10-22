@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31986L0363:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01986L0363-20080901",
+ "dre_path": null,
+ "source_lastmod": "2008-09-01",
+ "versions": [
+  {
+   "date": "2008-09-01",
+   "future": false,
+   "celex": "01986L0363-20080901",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2f94c1d8053b610c"
+   ]
+  }
+ ],
+ "fragments": {
+  "2f94c1d8053b610c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1986L0363 — PT — 01.09.2008 — 038.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31986L0363) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31986L0363) [de 24 de Julho de 1986](http://publications.europa.eu/resource/celex/31986L0363) [relativa à fixação de limites máximos para os resíduos de pesticidas à superfície e no interior dos géneros alimentícios de origem animal](http://publications.europa.eu/resource/celex/31986L0363) [(86/363/CEE)](http://publications.europa.eu/resource/celex/31986L0363) (JO L 221, 7.8.1986, p.43)\n\n**revogado por:**\n\n- [Regulamento (CE) N.o 396/2005 do Parlamento Europeu e do conselho de 23 de Fevereiro de 2005](http://publications.europa.eu/resource/celex/32005R0396) — L 70 — 1 — 16.3.2005"
+  }
+ }
+}

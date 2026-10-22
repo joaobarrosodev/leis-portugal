@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004R0811:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0811-20110101",
+ "dre_path": null,
+ "source_lastmod": "2011-01-01",
+ "versions": [
+  {
+   "date": "2011-01-01",
+   "future": false,
+   "celex": "02004R0811-20110101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0fa96e091f829bab",
+    "bce3c85c31bb6fc3",
+    "0a7281ff99a5e19c",
+    "620f6866df969057",
+    "937bd698f14e00f6",
+    "2c71076e64b532db",
+    "1541e3ae0305beb2",
+    "37c144657929255f",
+    "685222215dc7f891",
+    "b0bc30536820e174"
+   ]
+  }
+ ],
+ "fragments": {
+  "0fa96e091f829bab": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Abril de 2004\n\nque estabelece medidas para a recuperação das unidades populacionais de pescada do Norte\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/344dd755-f4c4-4aab-bc6a-8f7f8f9b13b9.0018.03/DOC_1#E0001)),\n\n(1) Um parecer científico recente do Conselho Internacional de Exploração do Mar (CIEM), indica que os níveis de mortalidade por pesca da unidade populacional de pescada do Norte nas águas comunitárias têm vindo a provocar a erosão das quantidades de peixes adultos presentes no mar, a tal ponto que esta unidade populacional pode deixar de se poder reconstituir por reprodução e estar, assim, ameaçada de ruptura.\n\n(2) A unidade populacional em causa evolui no Kattegat, no Skagerrak, no Mar do Norte, no Canal da Mancha, nas águas a oeste da Escócia, em torno da Irlanda e no golfo da Biscaia.\n\n(3) É necessário adoptar medidas para estabelecer um plano plurianual de recuperação desta unidade populacional.\n\n(4) Prevê-se que a recuperação dessa unidade populacional, nas condições do presente regulamento, requeira entre cinco e dez anos.\n\n(5) Deve considerar-se atingido o objectivo do plano para esta unidade populacional, quando, durante dois anos consecutivos, a quantidade de pescada do Norte adulta tiver sido superior ao nível que os gestores fixaram como respeitando os limites biológicos de segurança.\n\n(6) Para atingir este objectivo, é necessário controlar a taxa de mortalidade por pesca, de forma a que haja uma elevada probabilidade de aumento anual das quantidades de peixes adultos no mar.\n\n(7) Este controlo da taxa de mortalidade por pesca pode ser obtido através de um método adequado de fixação do nível dos totais admissíveis de capturas (TAC) da unidade populacional em causa.\n\n(8) Realizada a recuperação, o Conselho deverá decidir das medidas de acompanhamento nos termos do artigo 6.º do Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da política comum das pescas ([^2^](http://publications.europa.eu/resource/cellar/344dd755-f4c4-4aab-bc6a-8f7f8f9b13b9.0018.03/DOC_1#E0002)).\n\n(9) Para assegurar o cumprimento das medidas do presente regulamento, são necessárias medidas de controlo suplementares para além das do Regulamento (CEE) n.º 2847/93 do Conselho, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas ([^3^](http://publications.europa.eu/resource/cellar/344dd755-f4c4-4aab-bc6a-8f7f8f9b13b9.0018.03/DOC_1#E0003)),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "bce3c85c31bb6fc3": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento estabelece um plano de recuperação para as unidades populacionais de pescada do Norte que evoluem na divisão CIEM IIIa, subzona CIEM IV, divisões CIEM Vb (águas comunitárias), VIa (águas comunitárias), subzona CIEM VII e divisões CIEM VIIIa, b, d, e (a seguir denominadas «unidade populacional de pescada do Norte»)."
+  },
+  "0a7281ff99a5e19c": {
+   "fragment_id": "Artigo 2.º — Objectivo do plano de recuperação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Objectivo do plano de recuperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivo do plano de recuperação\n\nO objectivo do plano de recuperação referido no artigo 1.º é o aumento das quantidades de peixes adultos da unidade populacional de pescada do Norte para valores iguais ou superiores a 140 000 toneladas."
+  },
+  "620f6866df969057": {
+   "fragment_id": "Artigo 3.º — Obtenção dos níveis pretendidos",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Obtenção dos níveis pretendidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Obtenção dos níveis pretendidos\n\nSempre que a Comissão verificar, com base num parecer do CIEM e na sequência de acordo do Comité Científico, Técnico e Económico das Pescas (CCTEP) quanto ao referido parecer, que foi atingido o nível pretendido para a unidade populacional de pescada do Norte em causa durante dois anos consecutivos, o Conselho deve decidir, por maioria qualificada sob proposta da Comissão, substituir o plano de recuperação por um plano de gestão para essa unidade populacional nos termos do artigo 6.º do Regulamento (CE) n.º 2371/2002."
+  },
+  "937bd698f14e00f6": {
+   "fragment_id": "Artigo 4.º — Fixação de TAC",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Fixação de TAC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fixação de TAC\n\nSempre que o CCTEP estime, em relação à unidade populacional de pescada do Norte em causa e em função do relatório mais recente do CIEM, que as quantidades de pescada do Norte adulta são iguais ou superiores a 100 000 toneladas, será fixado um TAC nos termos do artigo 5.º"
+  },
+  "2c71076e64b532db": {
+   "fragment_id": "Artigo 5.º — Procedimento de fixação de TAC",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Procedimento de fixação de TAC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimento de fixação de TAC\n\n1. O Conselho determina anualmente, por maioria qualificada sob proposta da Comissão, o TAC para o ano seguinte da unidade populacional de pescada do Norte em causa.\n\n2. Para 2004, o TAC deve ser fixado a um nível correspondente a uma mortalidade por pesca de 0,25, ou seja, 4 % menos do que a mortalidade por pesca actual. Para os anos subsequentes do plano de recuperação, o TAC não pode exceder o nível de capturas que, de acordo com as avaliações científicas efectuadas pelo CCTEP à luz dos relatórios mais recentes do CIEM, corresponderá a uma taxa de mortalidade por pesca de 0,25.\n\n3. O Conselho não pode adoptar nenhum TAC que o CCTEP considere, à luz do relatório mais recente do CIEM, poder conduzir a uma diminuição da biomassa da população reprodutora no ano da sua aplicação.\n\n4. Sempre que se preveja que a fixação de um TAC para um dado ano, nos termos do n.º 2, originará uma quantidade de peixes adultos no final do ano superior ao nível pretendido indicado no artigo 2.º, a Comissão procederá a uma reapreciação do plano de recuperação e proporá os reajustamentos necessários com base nas avaliações científicas mais recentes. Essa reapreciação deve ser efectuada, de qualquer forma, o mais tardar três anos a contar da aprovação do presente regulamento, a fim de garantir o cumprimento dos objectivos do plano de recuperação.\n\n5. Excepto quanto ao primeiro ano de aplicação do presente regulamento, são aplicáveis as seguintes regras:\n\na) Se as regras previstas nos n.^os^ 2 ou 4 conduzirem a um TAC, para um dado ano, superior em mais de 15 % ao TAC do ano anterior, o Conselho adoptará um TAC não superior em mais de 15 % ao desse ano; ou\n\nb) Se as regras previstas nos n.^os^ 2 ou 4 conduzirem a um TAC, para um dado ano, inferior em mais de 15 % ao TAC do ano anterior, o Conselho adoptará um TAC não inferior em mais de 15 % ao desse ano."
+  },
+  "1541e3ae0305beb2": {
+   "fragment_id": "Artigo 6.º — Fixação de TAC em circunstâncias excepcionais",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Fixação de TAC em circunstâncias excepcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fixação de TAC em circunstâncias excepcionais\n\nSempre que o CCTEP estime, em função do relatório mais recente do CIEM, que as quantidades de peixes adultos da unidade populacional de pescada do Norte em causa são inferiores a 100 000 toneladas, são aplicáveis as seguintes regras:\n\na) É aplicável o artigo 5.º nos casos em que se preveja que a sua aplicação originará um aumento das quantidades de peixes adultos da unidade populacional de pescada do Norte no final do ano de aplicação do TAC que permita atingir uma quantidade igual ou superior a 100 000 toneladas;\n\nb) Quando não se preveja que a aplicação do artigo 5.º originará um aumento das quantidades de peixes adultos da unidade populacional de pescada do Norte no final do ano de aplicação do TAC que permita atingir uma quantidade igual ou superior a 100 000 toneladas, o Conselho determinará, por maioria qualificada, sob proposta da Comissão, um TAC para o ano seguinte inferior ao TAC resultante da aplicação do método descrito no artigo 5.º"
+  },
+  "37c144657929255f": {
+   "fragment_id": "Artigo 9.º — Portos designados",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Portos designados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Portos designados\n\n1. Sempre que esteja previsto o desembarque na Comunidade de mais de duas toneladas de pescada do Norte de um navio de pesca comunitário, o capitão do navio deve assegurar que o desembarque seja feito exclusivamente nos portos designados.\n\n2. Cada Estado-Membro designa os portos em que devem ser efectuados os desembarques de mais de duas toneladas de pescada do Norte.\n\n3. Cada Estado-Membro deve comunicar à Comissão, até 4 de Junho de 2004, a lista dos portos designados e, nos 30 dias seguintes, os respectivos processos de inspecção e de vigilância desses portos, incluindo os termos e as condições de registo e de comunicação das quantidades de pescada do Norte em cada desembarque. A Comissão transmite essas informações a todos os Estados-Membros."
+  },
+  "685222215dc7f891": {
+   "fragment_id": "Artigo 14.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados–Membros.\n\n---"
+  },
+  "b0bc30536820e174": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/344dd755-f4c4-4aab-bc6a-8f7f8f9b13b9.0018.03/DOC_1#src.E0001)) Parecer emitido em 11 de Fevereiro de 2004 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/344dd755-f4c4-4aab-bc6a-8f7f8f9b13b9.0018.03/DOC_1#src.E0002)) JO L 358 de 31.12.2002, p. 59.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/344dd755-f4c4-4aab-bc6a-8f7f8f9b13b9.0018.03/DOC_1#src.E0003)) JO L 261 de 20.10.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1954/2003 (JO L 289 de 7.11.2003, p. 1)."
+  }
+ }
+}

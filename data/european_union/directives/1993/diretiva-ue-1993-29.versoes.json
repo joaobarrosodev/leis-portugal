@@ -1,0 +1,129 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0029:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0029-20100101",
+ "dre_path": null,
+ "source_lastmod": "2010-01-01",
+ "versions": [
+  {
+   "date": "1993-07-29",
+   "future": false,
+   "celex": "31993L0029",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "12622a3068aa43c0",
+    "433736fb70ab10a4",
+    "4222c6aa56d520ac",
+    "db209cb077ef3540",
+    "42f84a4f998c907b",
+    "85a90489b162dfa8",
+    "2e6e79e143e3f3a3",
+    "9353339b72dff5fa",
+    "d27b21eb3ddeba28"
+   ]
+  },
+  {
+   "date": "2010-01-01",
+   "future": false,
+   "celex": "01993L0029-20100101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II"
+   ],
+   "fragments": [
+    "ec7669ecf8e8a0e4"
+   ]
+  }
+ ],
+ "fragments": {
+  "12622a3068aa43c0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 93/29/CEE do Conselho, de 14 de Junho de 1993, relativa à identificação dos comandos, avisadores e indicadores dos veículos a motor de duas ou três rodas** *Jornal Oficial nº L 188 de 29/07/1993 p. 0001 - 0010 Edição especial finlandesa: Capítulo 7 Fascículo 4 p. 0207 Edição especial sueca: Capítulo 7 Fascículo 4 p. 0207*\n\nDIRECTIVA 93/29/CEE DO CONSELHO de 14 de Junho de 1993 relativa à identificação dos comandos, avisadores e indicadores dos veículos a motor de duas ou três rodas\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100oA\n\nTendo em conta a Directiva 92/61/CEE do Conselho, de 30 de Junho de 1992, relativa à recepção dos veículos a motor de duas ou três rodas (1),\n\nTendo em conta a proposta da Comissão (2),\n\nEm cooperação com o Parlamento Europeu (3),\n\nTendo em conta o parecer do Comité Económico e Social (4),\n\nConsiderando que o mercado interno compreende um espaço sem fronteiras internas no qual é assegurada a livre circulação de mercadorias, de pessoas, de serviços e de capitais; que importa adoptar as medidas adequadas para este efeito;\n\nConsiderando que os veículos de duas e três rodas devem satisfazer em cada Estado-membro, no que diz respeito à identificação dos comandos, avisadores e indicadores, determinadas características técnicas fixadas por prescrições imperativas que diferem de um Estado-membro para outro; que, pela sua disparidade, essas prescrições entravam o comércio na Comunidade;\n\nConsiderando que esses entraves ao funcionamento do mercado interno podem ser eliminados se forem adoptadas as mesmas prescrições por todos os Estados-membros em vez das respectivas regulamentações nacionais;\n\nConsiderando que o estabelecimento de prescrições harmonizadas relativas à identificação dos comandos, avisadores e indicadores dos veículos a motor de duas ou três rodas é necessário para permitir a aplicação, a cada modelo dos referidos veículos, dos processos de recepção e de homologação que são objecto da Directiva 92/61/CEE;\n\nConsiderando que, dadas as dimensões e os efeitos da acção proposta no sector em causa, as medidas comunitárias objecto da presente directiva são necessárias, até mesmo indispensáveis, para atingir os objectivos fixados, ou seja, a recepção comunitária de modelo de veículo, e que estes não podem ser realizados de modo suficiente pelos Estados-membros individualmente;\n\nConsiderando que, para facilitar o acesso aos mercados dos países não membros da Comunidade, é necessário estabelecer a equivalência entre as prescrições da presente directiva e as do Regulamento no 60 da ECE/ONU,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "433736fb70ab10a4": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva aplica-se à identificação dos comandos, avisadores e indicadores de qualquer tipo de veículo como definido no artigo 1o da Directiva 92/61/CEE."
+  },
+  "4222c6aa56d520ac": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nO processo de concessão da homologação do que diz respeito à identificação dos comandos, avisadores e indicadores de um tipo de veículo a motor de duas ou três rodas e às condições para a livre circulação desses veículos são os estipulados na Directiva 92/61/CEE, nos capítulos II e III, respectivamente."
+  },
+  "db209cb077ef3540": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nEm conformidade com o disposto no artigo 11o da Directiva 92/61/CEE é reconhecida a equivalência entre as prescrições da presente directiva e as do Regulamento no 60 da ECE/ONU (documento E/ECE/TRANS/505 - Add. 59).\n\nAs autoridades dos Estados-membros que concedam a homologação aceitarão as homologações concedidas em conformidade com as prescrições do Regulamento no 60 acima mencionado, bem como as marcas de homologação em vez das homologações correspondentes concedidas em conformidade com as prescrições da presente directiva."
+  },
+  "42f84a4f998c907b": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nA presente directiva pode ser alterada nos termos do artigo 13o da Directiva 70/156/CEE (5) de modo a:\n\n- ter em conta as alterações ao Regulamento da ECE/ONU referido no artigo 3o,\n\n- adaptar o anexo ao progresso técnico."
+  },
+  "85a90489b162dfa8": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os Estados-membros adoptarão e publicarão as disposições necessárias para dar cumprimento à presente directiva o mais tardar em 14 de Dezembro de 1994. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\nA partir da data referida no primeiro parágrafo, os Estados-membros não podem proibir, por razões relacionadas com a identificação dos comandos, avisadores e indicadores, a primeira entrada em circulação dos veículos conformes com a presente directiva.\n\nOs Estados-membros aplicarão as disposições referidas no primeiro parágrafo a partir de 14 de Junho de 1995.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "2e6e79e143e3f3a3": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 14 de Junho de 1993.\n\nPelo Conselho\n\nO Presidente\n\nJ. TROEJBORG\n\n(1) JO no L 225 de 10. 8. 1992, p. 72.(2) JO no C 293 de 9. 11. 1992, p. 5.(3) JO no C 21 de 25. 1. 1993, p. 96, e JO no C 150 de 31. 5. 1993.(4) JO no C 73 de 15. 3. 1993, p. 22.(5) JO no L 42 de 23. 2. 1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 92/53/CEE (JO no L 225 de 10. 8. 1992, p. 1)."
+  },
+  "9353339b72dff5fa": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nPRESCRIÇÕES RELATIVAS À HOMOLOGAÇÃO DOS VEÍCULOS DE DUAS OU TRÊS RODAS NO QUE DIZ RESPEITO À IDENTIFICAÇÃO DOS COMANDOS, AVISADORES E INDICADORES 1. DEFINIÇÕES\n\nPara efeitos do disposto na presente directiva, entende-se por:\n\n1.1. «comando», qualquer parte do veículo ou elemento directamente accionado pelo condutor que provoca uma alteração no estado ou no funcionamento do veículo ou numa das suas partes;\n\n1.2. «avisador», um sinal que indica o accionamento de um dispositivo, o funcionamento ou estado suspeito ou defeituoso ou a ausência de funcionamento;\n\n1.3. «indicador», um dispositivo que dá uma informação relativa ao bom funcionamento ou ao estado de um sistema ou parte de um sistema, por exemplo, o nível de um fluido;\n\n1.4. «símbolo», um desenho que permite identificar um comando, um avisador ou um indicador.\n\n2. PRESCRIÇÕES\n\n2.1. Identificação\n\nOs comandos, avisadores e indicadores, referidos no ponto 2.1.5, devem ser identificados de acordo com as disposições seguintes.\n\n2.1.1. Os símbolos devem sobressair nitidamente em relação ao fundo, ou seja, claros sobre fundo escuro ou o inverso.\n\n2.1.2. O símbolo deve ser colocado no comando ou avisador a identificar ou na sua proximidade imediata. Em caso de impossibilidade, o símbolo e o comando ou o avisador devem ser ligados por um traço contínuo o mais curto possível.\n\n2.1.3. As luzes de estrada (máximos) são representadas por raios luminosos paralelos e horizontais e as luzes de cruzamento (médios), por raios luminosos paralelos e inclinados para baixo.\n\n2.1.4. Sempre que utilizadas nos avisadores ópticos, as cores abaixo indicadas terão o seguinte significado:\n\nvermelho: perigo,\n\nâmbar: prudência,\n\nverde: segurança.\n\nO azul deve ser reservado apenas aos avisadores das luzes de estrada (máximos).\n\n2.1.5. Designação e identificação dos símbolos\n\nNotas\n\n(1) O interior do símbolo pode ser totalmente de cor escura.\n\n(2) A parte escura deste símbolo pode ser substituída pela sua silhueta, sendo, então, a parte representada em branco neste desenho totalmente de cor escura.\n\n(3) Se for utilizado um comando único para as luzes de nevoeiro da frente e da retaguarda, o símbolo utilizado deve ser o denominado «luz de nevoeiro da frente».\n\nApêndice Construção do modelo de base dos símbolos que figuram no ponto 2.1.5. O modelo de base compreende:\n\n1. um quadrado base de 50 milímetros de lado, sendo esta dimensão igual à dimensão nominal «a» do original;\n\n2. um círculo base de 56 milímetros de diâmetro com aproximadamente a mesma área que o quadrado base (1);\n\n3. um segundo círculo de 50 milímetros de diâmetro inscrito no quadrado base (1);\n\n4. um segundo quadrado cujos vértices estão situados sobre o círculo base (2) e cujos lados são paralelos aos do quadrado base (1);\n\n5. e 6. dois rectângulos com a mesma área que o quadrado base (1); os seus lados são mutuamente perpendiculares e cada um deles é construído de maneira a cortar os lados opostos do quadrado base em pontos simétricos;\n\n7. um terceiro quadrado cujos lados passam pelos pontos de intersecção do quadrado base (1) e do círculo base (2) e estão inclinados a 45°, dando as maiores dimensões horizontais e verticais do modelo de base;\n\n8. um octógono irregular, formado por linhas inclinadas a 30° em relação aos lados do quadrado (7).\n\nO modelo de base é aplicado numa grelha com um quadriculado de 12,5 milímetros e que coincide com o quadrado base (1)."
+  },
+  "d27b21eb3ddeba28": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nApêndice 1 Ficha de informações no que diz respeito à identificação dos comandos, avisadores e indicadores de um modelo de veículo a motor de duas ou três rodas\n\n(a juntar ao pedido de homologação, no caso de ser apresentado independentemente do pedido de recepção do veículo)\n\nNúmero de ordem (atribuído pelo requerente):.\n\nO pedido de homologação, no que diz respeito à identificação dos comandos, avisadores e indicadores de um modelo de veículo a motor de duas ou três rodas, deve ser acompanhado das informações que figuram no anexo II da Directiva 92/61/CEE, secção A, nos pontos:\n\n- 0.1,\n\n- 0.2,\n\n- 0.4 a 0.6.\n\nDescrição sumária do veículo, no que diz respeito à identificação dos comandos accionados pelo condutor, avisadores e indicadores.\n\nApêndice 2 Indicação da administração\n\nCertificado de homologação no que diz respeito à identificação dos comandos, avisadores e indicadores de um modelo de veículo a motor de duas ou três rodas\n\nMODELO\n\nRelatório no. do serviço técnico. em......... de......... de........\n\nNúmero da homologação:. Número da extensão:.\n\n1. Marca do veículo:.\n\n2. Modelo do veículo e eventuais versões e variantes:.\n\n3. Nome e morada do fabricante:.\n\n.\n\n4. Nome e morada do eventual mandatário:.\n\n.\n\n5. Veículo apresentado ao ensaio em:.\n\n6. A homologação é concedida/recusada (1).\n\n7. Local:.\n\n8. Data:.\n\n9. Assinatura:.\n\n(1) Riscar o que não interessa."
+  },
+  "ec7669ecf8e8a0e4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993L0029 — PT — 01.01.2010 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993L0029) [DIRECTIVA 93/29/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31993L0029) [de 14 de Junho de 1993](http://publications.europa.eu/resource/celex/31993L0029) [relativa à identificação dos comandos, avisadores e indicadores dos veículos a motor de duas ou três rodas](http://publications.europa.eu/resource/celex/31993L0029) (JO L 188, 29.7.1993, p.1)\n\n**revogado por:**\n\n- [Directiva 2009/80/CE do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009L0080) — L 202 — 16 — 4.8.2009"
+  }
+ }
+}

@@ -35,6 +35,55 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-02-01'
+version_history:
+  file: diretiva-ue-2002-91.versoes.json
+  count: 3
+  source_lastmod: '2012-02-01'
+  versions:
+  - date: '2003-01-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-11'
+    amending: eu:celex:32008R1137:por
+    amending_title: REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Adopção da metodologia
+    - Altera Artigo 8.º — Inspecção de caldeiras
+    - Altera Artigo 13.º — Adaptação do enquadramento para a metodologia de cálculo
+    - Altera Artigo 17.º — Destinatários
+    - Adita Artigo 14.º
+    - Adita ANEXO
+    - Adita Enquadramento geral para o cálculo do desempenho energético dos edifícios (artigo 3.º)
+    - Adita Notas
+    - Suprime Artigo 14.º — Comité
+    - Suprime ANEXO — Enquadramento geral para o cálculo do desempenho energético dos edifícios (artigo 3.o)
+  - date: '2012-02-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objectivo
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Adopção da metodologia
+    - Suprime Artigo 4.º — Estabelecimento de requisitos de desempenho energético
+    - Suprime Artigo 5.º — Edifícios novos
+    - Suprime Artigo 6.º — Edifícios existentes
+    - Suprime Artigo 7.º — Certificado de desempenho energético
+    - Suprime Artigo 8.º — Inspecção de caldeiras
+    - Suprime Artigo 9.º — Inspecção dos sistemas de ar condicionado
+    - Suprime Artigo 10.º — Peritos independentes
+    - Suprime Artigo 11.º — Avaliação
+    - Suprime Artigo 12.º — Informação
+    - Suprime Artigo 13.º — Adaptação do enquadramento para a metodologia de cálculo
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º — Transposição
+    - Suprime Artigo 16.º — Entrada em vigor
+    - Suprime Artigo 17.º — Destinatários
+    - Suprime ANEXO
+    - Suprime Enquadramento geral para o cálculo do desempenho energético dos edifícios (artigo 3.º)
+    - Suprime Notas
 identifiers:
   celex: 32002L0091
   eli: http://data.europa.eu/eli/dir/2002/91/oj
@@ -49,7 +98,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b1db9cf4-1906-4f7f-bcdd-3355f36d1c8b.0010
   content_url: http://publications.europa.eu/resource/cellar/a7a0d7f7-7b25-4ca1-a562-a062a20dd9a0.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0091-20120201
-  retrieved_at: '2026-10-22T02:36:06Z'
+  retrieved_at: '2026-10-22T14:52:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-11-11T20:14:24.977+01:00'
 integrity:
@@ -58,9 +107,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:06Z'
-  notes: Texto consolidado 02002L0091-20120201.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:19Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2002-91.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -229,16 +278,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:06Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:52:19Z'
+  warnings: []
   errors: []
 ---
 

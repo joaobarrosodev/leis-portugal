@@ -1,0 +1,775 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990L0425:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0425-20191214",
+ "dre_path": null,
+ "source_lastmod": "2019-12-14",
+ "versions": [
+  {
+   "date": "1990-08-18",
+   "future": false,
+   "celex": "31990L0425",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "82fed661f0b5595d",
+    "9e183becffad7dc9",
+    "2cdcd931c0079e57",
+    "e89d607c220a3126",
+    "7036f309f8a530ed",
+    "1933430398324722",
+    "8711a98d2269b8a7",
+    "60cce968f2c31cf2",
+    "69b9bfd9ff4cb64d",
+    "a26c15123b920337",
+    "1db5252301e3da43",
+    "54c9ec9786019526",
+    "795996923a39b1ee",
+    "453c59bdd6c497ec",
+    "bae261307db203fa",
+    "2ad3f5d3f38209fa",
+    "54fcc2f8c2384f92",
+    "53626209e7774737",
+    "142fe5bc8b4caa02",
+    "72b6aa621355e4cd",
+    "53b73b07640b5b19",
+    "682d7a4a57a71336",
+    "b7ab6183ba75f0bd",
+    "70e1ba101c6ede29",
+    "60d52a77d430e50e",
+    "51c0cddc19e9570f",
+    "7e3b8e92a568a465",
+    "1d50eef91423600b",
+    "3897f532e55e9d2e",
+    "c75c5dd5ee95abf7",
+    "f2fef2af4313bb8f",
+    "af0f6dcff50c6575",
+    "dc70228ef4eea4fd"
+   ]
+  },
+  {
+   "date": "2002-11-19",
+   "future": false,
+   "celex": "01990L0425-20021119",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º — A Comissão pode alterar a lista das doenças enumeradas no anexo C, segundo o procedimento previsto no artigo 18.o",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Adita Artigo 20.º",
+    "Adita Artigo 21.º",
+    "Adita Artigo 22.º",
+    "Adita Artigo 23.º",
+    "Adita Artigo 24.º",
+    "Adita Artigo 26.º",
+    "Adita Artigo 27.º",
+    "Adita ANEXO A — CAPÍTULO I",
+    "Adita Secção 1",
+    "Adita Secção 2",
+    "Adita CAPÍTULO II — LEIGISLAÇÃO ZOOTÉCNICA",
+    "Adita ANEXO B — ANIMAIS REPRODUTORES NÃO SUJEITOS A HARMONIZAÇÃO MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA",
+    "Adita CAPÍTULO I",
+    "Adita CAPÍTULO II",
+    "Adita ANEXO C — LISTA DAS DOENÇAS OU EPIZOOTIAS QUE REQUEREM UMA ACÇÃO URGENTE OBRIGATÓRIA, COM RESTRIÇÕES TERRITORIAIS (ESTADOS-MEMBROS, REGIÕES OU ZONAS)",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º — A Comissão pode alterar a lista das doenças enumeradas no anexo C, segundo o procedimento previsto no artigo 18º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime Artigo 20º",
+    "Suprime Artigo 21º",
+    "Suprime Artigo 22º",
+    "Suprime Artigo 23º",
+    "Suprime Artigo 24º",
+    "Suprime Artigo 25º",
+    "Suprime Artigo 26º",
+    "Suprime Artigo 27º"
+   ],
+   "fragments": [
+    "ef8b6192e7434030",
+    "d0f6c4389b79546b",
+    "10e5414710c7047e",
+    "e89d607c220a3126",
+    "3fb9aa65c22e9bf7",
+    "5c9fc700c3f43ee9",
+    "8711a98d2269b8a7",
+    "e23764dea33e641c",
+    "76f58aa0dbc8acb5",
+    "ddad0242bd8e2770",
+    "199a08972b811790",
+    "8f68cec00be67dfa",
+    "795996923a39b1ee",
+    "c3e2aeceb0c45e6b",
+    "538928ea193b7e18",
+    "baf12d906d0b8171",
+    "e48b3df607b9ffd7",
+    "2f048d4674fd6934",
+    "e820583ad4fe97c1",
+    "25c1039a3bf52ae5",
+    "559a25abe4a62b90",
+    "d9a478bfbfbd5ba0",
+    "5e7ef914be3c2f1c",
+    "5c6f44fb42f4f5c8",
+    "60d52a77d430e50e",
+    "f5e33b7a5f7e97bb",
+    "f0197e9dd334c33f",
+    "ef6c3adeb9c24f2e",
+    "0dfb6196fc7d8e49",
+    "3f80e196eeb6860b",
+    "11bedfea1850d39b",
+    "cf25b7b599ca5113",
+    "217e217679fe195a",
+    "c91e63908e03b43e",
+    "10bf1c85f223b9a6",
+    "59491887170c0597",
+    "c689c724ac3c7826",
+    "59587711a1b6b2aa",
+    "3e7506b64d91a557",
+    "6372da809a6f8de4"
+   ]
+  },
+  {
+   "date": "2019-12-14",
+   "future": false,
+   "celex": "01990L0425-20191214",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime CAPÍTULO I — Controlos na origem",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime CAPÍTULO II — Controlos no destino",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime CAPÍTULO III — Disposições comuns",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º — A Comissão pode alterar a lista das doenças enumeradas no anexo C, segundo o procedimento previsto no artigo 18.o",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime CAPÍTULO IV — Disposições finais e transitórias",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime Artigo 24.º",
+    "Suprime Artigo 26.º",
+    "Suprime Artigo 27.º",
+    "Suprime ANEXO A — CAPÍTULO I",
+    "Suprime Secção 1",
+    "Suprime Secção 2",
+    "Suprime CAPÍTULO II — LEIGISLAÇÃO ZOOTÉCNICA",
+    "Suprime ANEXO B — ANIMAIS REPRODUTORES NÃO SUJEITOS A HARMONIZAÇÃO MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA",
+    "Suprime CAPÍTULO I",
+    "Suprime CAPÍTULO II",
+    "Suprime ANEXO C — LISTA DAS DOENÇAS OU EPIZOOTIAS QUE REQUEREM UMA ACÇÃO URGENTE OBRIGATÓRIA, COM RESTRIÇÕES TERRITORIAIS (ESTADOS-MEMBROS, REGIÕES OU ZONAS)"
+   ],
+   "fragments": [
+    "d4c0ba55833ee29d"
+   ]
+  }
+ ],
+ "fragments": {
+  "82fed661f0b5595d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 90/425/CEE do Conselho, de 26 de Junho de 1990, relativa aos controlos veterinários e zootécnicos aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno** *Jornal Oficial nº L 224 de 18/08/1990 p. 0029 - 0041 Edição especial finlandesa: Capítulo 3 Fascículo 33 p. 0146 Edição especial sueca: Capítulo 3 Fascículo 33 p. 0146*\n\nDIRECTIVA DO CONSELHO de 26 de Junho de 1990 relativa aos controlos veterinários e zootécnicos aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno (90/425/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a Comunidade deve adoptar medidas destinadas a estabelecer progressivamente o mercado interno ao longo de um período que termina em 31 de Dezembro de 1992;\n\nConsiderando que o funcionamento harmonioso das organizações comuns de mercado para os animais e produtos de origem animal implica o desaparecimento dos abstáculos veterinários e zootécnicos ao desenvolvimento do comércio intracomunitário dos animais e produtos em questão; que, a esse respeito, a livre circulação dos animais e produtos agrícolas constitui um elemento fundamental das organizações comuns de mercado e deve permitir o desenvolvimento racional da produção agrícola, assim como a utilização óptima dos factores de produção;\n\nConsiderando que, no domínio veterinário, as fronteiras são utilizadas para efectuar controlos que visam assegurar a protecção da saúde pública e animal;\n\nConsiderando que o objectivo final é o de limitar os controlos veterinários ao local de partida; que a realização desse objectivo implica a harmonização dos requisitos essenciais relativos à protecção da saúde animal;\n\nConsiderando que, na perspectiva da realização do mercado interno, é conveniente, enquanto esse objectivo não for atingido, pôr a tónica nos controlos a efectuar à partida e organizar os controlos que possam vir a ser efectuados no destino; que essa solução conduz ao abandono da possibilidade de efectuar controlos veterinários nas fronteiras internas da Comunidade e que neste contexto se justifica que se mantenha o certificado sanitário ou um documento de identificação como se prevê na regulamentação comunitária;\n\nConsiderando que essa solução implica uma confiança reforçada nos controlos veterinários efectuados pelo Estado de expedição, nomeadamente através da introdução de um\n\nsistema rápido de trocas de informação; que é essencial que o Estado-membro expedidor vele por que os controlos veterinários sejam efectuados de modo adequado;\n\nConsiderando que, no Estado de destino, os controlos veterinários podem ser efectuados por sondagem no local de destino; que, todavia, no caso de suspeita grave de irregularidades, o controlo veterinário pode ser efectuado durante o encaminhamento dos animais e produtos e que é possível nos domínios não harmonizados manter a possibilidade de impor a quarentena;\n\nConsiderando que importa prever o seguimento a dar a um controlo veterinário em que se verificou a irregularidade de um envio;\n\nConsiderando que é conveniente prever um processo de regulação dos conflitos que possam surgir relacionados com a expedição a partir de uma exploração, de um centro ou de um organismo;\n\nConsiderando que é necessário prever um regime de protecção; que, nesse domínio, nomeadamente por razões de eficácia, a responsabilidade deve caber, em primeiro lugar, ao Estado de expedição; que a Comissão deve poder actuar, nomeadamente deslocando-se ao local e adoptando as medidas adequadas à situação;\n\nConsiderando que, para serem úteis, as regras estabelecidas pela presente directiva deverão abranger o conjunto dos animais e produtos sujeitos, nas trocas comerciais intracomunitárias, a requisitos veterinários;\n\nConsiderando, todavia, que, no estado actual da harmonização e na pendência de regras comunitárias, é conveniente, em relação aos animais e produtos que não foram objecto de regras harmonizadas, manter os requisitos do Estado destinatário desde que estejam em conformidade com o artigo 36º do Tratado;\n\nConsiderando que convém aplicar ao controlo zootécnico as referidas regras;\n\nConsiderando que é conveniente adaptar o disposto nas directivas existentes às novas regras estatuídas pela presente directiva;\n\nConsiderando que é conveniente reanalisar essas regras antes de 1993;\n\nConsiderando que é conveniente confiar à Comissão a tarefa de tomar as medidas de execução da presente directiva; que,\n\npara esse efeito, é conveniente prever processos que estabeleçam uma cooperação, estreita e eficaz, entre a Comissão e os Estados-membros no âmbito do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "9e183becffad7dc9": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nOs Estados-membros assegurarão que os controlos veterinários dos animais vivos e produtos abrangidos pelas directivas referidas no anexo A ou pelo primeiro parágrafo do artigo 21º e destinados ao comércio deixem, sem prejuízo do artigo 7º, de ser efectuados nas fronteiras e passem a sê-lo nos termos do disposto na presente directiva.\n\nOs Estados-membros assegurarão ainda que o controlo dos documentos zootécnicos obedeça às regras de controlo previstas na presente directiva.\n\nA presente directiva não se aplica ao controlo do bem-estar dos animais durante o transporte nem aos controlos efectuados no âmbito das missões executadas de modo não discriminatório pelas autoridades responsáveis pela aplicação geral da lei num determinado Estado-membro."
+  },
+  "2cdcd931c0079e57": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos da presente directiva, entende-se por:\n\n1. Controlo veterinário: qualquer controlo físico e/ou formalidade administrativa que diga respeito aos animais ou produtos referidos no artigo 1º e que vise, de modo directo ou indirecto, assegurar a protecção da saúde pública ou animal.\n\n2. Controlos zootécnicos: qualquer controlo físico e/ou formalidade administrativa que diga respeito aos animais abrangidos pelas directivas mencionadas na parte II do anexo A e que vise, de modo directo ou indirecto, assegurar o melhoramento das raças animais.\n\n3. Comércio: o comércio entre Estados-membros, na acepção do no. 2 do artigo 9º do Tratado.\n\n4. Exploração: o estabelecimento agrícola ou o estábulo de negociante, na acepção das regulamentações nacionais em vigor, situado no território de um Estado-membro, e onde os animais referidos nos anexos A e B, com excepção dos equídeos, são mantidos ou criados de forma habitual, bem como a exploração tal como vem definida na alínea a) do artigo 2º da Directiva 90/426/CEE do Conselho, de 26 de Junho de 1990, relativa às condições de polícia sanitária que regem a circulação de equídeos e às importações de equídeos provenientes de países terceiros (4).\n\n5. Centro ou organismo: qualquer empresa que proceda à produção, armazenamento, tratamento ou manipulação dos produtos referidos no artigo 1º\n\n6. Autoridade competente: a autoridade central de um Estado-membro competente para efectuar os controlos veterinários ou zootécnicos ou qualquer autoridade em quem aquela primeira tenha delegado essa competência.\n\n7. Veterinário oficial: o veterinário designado pela autoridade central competente."
+  },
+  "e89d607c220a3126": {
+   "fragment_id": "CAPÍTULO I — Controlos na origem",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Controlos na origem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Controlos na origem"
+  },
+  "7036f309f8a530ed": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros assegurarão que apenas podem ser destinados ao comércio os animais e os produtos referidos no artigo 1º que preencham as seguintes condições:\n\na) Os animais e produtos referidos no anexo A devem preencher os requisitos das directivas pertinentes mencionadas nesse anexo e os animais e produtos referidos no anexo B devem respeitar as normas de polícia sanitária do Estado-membro do destino;\n\nb)\n\nDevem provir de uma exploração, de um centro ou de um organismo que se encontre sujeito a controles veterinários oficiais regulares, nos termos do no. 3;\n\nc)\n\nDevem, por um lado, ser identificados em conformidade com as exigências da regulamentação comunitária e, por outro, ser registados de modo a permitir identificar a exploração, o centro ou o organismo de origem ou de passagem; os sistemas nacionais de identificação e registo deverão ser notificados à Comissão num prazo de três meses a contar da notificação da presente directiva.\n\nAté 1 de Janeiro 1993, os Estados-membros devem tomar as medidas adequadas para garantir que os sistemas de identificação e registo aplicáveis ao comércio intracomunitário sejam alargados à circulação de animais no interior dos respectivos territórios;\n\nd)\n\nDevem ser acompanhados, durante o transporte, dos certificados sanitários e/ou quaisquer outros documentos previstos nas directivas mencionadas no anexo A e, quando se trate de outros animais e produtos, na regulamentação do Estado-membro de destino.\n\nEstes certificados ou documentos, emitidos pelo veterinário oficial responsável pela exploração, pelo centro ou pelo organismo de origem, ou quando se trate dos documentos previstos na legislação zootécnica referida na parte II, do anexo A, pela autoridade competente, deverão acompanhar o animal, os animais ou os produtos até ao destinatário ou destinatários;\n\ne)\n\nOs animais receptores ou os produtos provenientes de animais receptores, não deverão ser originários:\n\niii) De explorações, de centros, de organismos, de zonas ou de regiões que sejam objecto de restrições nos termos da legislação comunitária aplicável aos animais em questão ou aos produtos dos animais em questão, devido a suspeita, aparecimento ou existência de uma das doenças referidas no anexo C, ou à aplicação de medidas de salvaguarda;\n\niii)\n\nDe uma exploração, de um centro, de um organismo, de uma zona ou de uma região que seja objecto de restrições oficiais devido a suspeita, aparecimento ou existência de doenças não referidas no anexo C ou à aplicação de medidas de salvaguarda;\n\niii)\n\nCaso se destinem a uma exploração, a um centro ou a um organismo em algum dos Estados-membros que tenham obtido as garantias em conformidade com o artigo 9º da Directiva 64/432/CEE ou com outras regras comunitárias equivalentes adoptadas ou a adoptar, ou num Estado cujo território, na totalidade ou em parte, tenha estatuto de indemne, reconhecido pela legislação comunitária em vigor, de uma exploração que não ofereça as garantias exigíveis por esse Estado-membro em relação às doenças não referidas no anexo C;\n\niv)\n\nCaso se destinem a um Estado-membro ou a uma parte do território de um Estado-membro que tenha beneficiado de garantias adicionais em conformidade com o artigo 9º da Directiva 64/432/CEE, ou com outras regras comunitárias equivalentes adoptadas ou a adoptar, de uma exploração, de um centro ou de um organismo e, eventualmente, de uma parte do território que não ofereça as garantias adicionais previstas.\n\nA autoridade competente do país de origem, antes de emitir o certificado ou documento de acompanhamento, certifica-se de que a exploração, o centro ou o organismo se encontra em conformidade com as exigências previstas nesta alínea;\n\nf)\n\nSempre que um transporte tiver vários locais de destino, os animais ou os produtos devem ser agrupados em tantos lotes quantos os destinos. Cada lote deve ser acompanhado dos certificados e/ou documentos referidos na alínea d);\n\ng)\n\nSempre que os animais ou os produtos abrangidos pelas directivas mencionadas no anexo A e em conformidade com as regras comunitárias se destinarem a ser exportados para um país terceiro através do território de outro Estado-membro, o transporte deve permanecer sob controlo aduaneiro até ao local de saída do território da Comunidade - excepto em situações urgentes em que a autoridade competente dê a autorização necessária a fim de assegurar o bem-estar dos animais - segundo regras a\n\ndefinir pela Comissão, deliberando em conformidade com o procedimento previsto no artigo 18º ou, se for caso disso, no artigo 19º\n\nAlém disso, no caso dos animais ou produtos que não satisfaçam as regras comunitárias ou no caso dos animais ou produtos referidos no anexo B, o trânsito só se\n\npoderá efectuar se tiver sido expressamente autorizado pela autoridade competente do Estado-membro de trânsito.\n\n2. Os Estados-membros procurarão assegurar além disso que:\n\n- os animais e os produtos referidos no artigo 1º que devam ser eliminados no quadro de um programa nacional de erradicação de doenças não referidas no anexo C não sejam expedidos para o território de outro Estado-membro,\n\n- os animais e os produtos referidos no anexo A ou os animais e os produtos referidos no anexo B não sejam expedidos para o território de outro Estado-membro se não puderem ser comercializados no seu próprio território por motivos sanitários ou de polícia sanitária justificados nos termos do artigo 36º do Tratado.\n\n3. Sem prejuízo das tarefas de controlo atribuídas ao veterinário oficial pela regulamentação comunitária, a autoridade competente efectuará o controlo das explorações, dos mercados ou dos centros de concentração autorizados, dos centros e dos organismos, a fim de se certificar de que os animais ou produtos destinados ao comércio satisfazem as exigências comunitárias e, em especial, respeitam as condições previstas no no. 1, alíneas c) e d), em matéria de identificação.\n\nSempre que existir uma suspeita fundamentada de que tais requisitos comunitários não são satisfeitos, a autoridade competente procederá às verificações necessárias e, se tal suspeita for confirmada, tomará as medidas adequadas, que podem ir até à colocação em sequestro da exploração, do centro ou do organismo em questão.\n\n4. A Comissão poderá, segundo o procedimento previsto no artigo 18º, ou, se for caso disso, no artigo 19º, adoptar para o presente artigo regras de aplicação destinadas nomeadamente a contemplar a espécie considerada."
+  },
+  "1933430398324722": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Os Estados-membros de expedição tomarão as medidas necessárias para garantir que:\n\na) Os detentores de animais e de produtos referidos no artigo 1º respeitem as exigências sanitárias e zootécnicas nacionais ou comunitárias referidas na presente directiva em todas as fases da produção e da comercialização;\n\nb)\n\nOs animais e os produtos referidos no anexo A sejam controlados, do ponto de vista veterinário, de forma pelo menos tão cuidadosa como se fossem destinados ao mercado nacional, salvo derrogação específica prevista na regulamentação comunitária;\n\nc)\n\nOs animais sejam transportados em meios de transporte adequados que satisfaçam as normas de higiene.\n\n2. No dia da emissão do certificado ou documento de acompanhamento dos animais ou produtos pela autoridade competente do Estado-membro de origem, esta comunicará à autoridade central competente do Estado-membro de destino e à autoridade competente do local de destino, através do sistema informatizado previsto no artigo 20º, as informações a especificar pela Comissão segundo o procedimento previsto no artigo 18º\n\n3. Os Estados-membros de expedição tomarão as medidas adequadas para punir qualquer infracção cometida contra a legislação veterinária e zootécnica por pessoas singulares ou colectivas, sempre que constatarem infracções à legislação comunitária e em especial sempre que se constatar que os certificados, documentos ou marcas de identificação emitidos não correspondem ao estatuto dos animais ou ao das respectivas explorações de origem, ou às características reais dos produtos."
+  },
+  "8711a98d2269b8a7": {
+   "fragment_id": "CAPÍTULO II — Controlos no destino",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Controlos no destino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Controlos no destino"
+  },
+  "60cce968f2c31cf2": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Os Estados-membros de destino tomarão as seguintes medidas de controlo:\n\na) A autoridade competente pode verificar nos locais de destino dos animais ou produtos e através de controlos veterinários por sondagem e de carácter não discriminatório se os requisitos do artigo 3º foram respeitados; a autoridade competente pode, nessa altura, proceder à recolha de amostras.\n\nAlém disso, podem ser igualmente efectuados controlos durante o transporte dos animais e dos produtos no seu território no caso de a autoridade competente do Estado-membro de trânsito ou do Estado-membro de destino dispor de elementos de informação que lhe permitam presumir uma infracção;\n\nb) Além disso, sempre que os animais referidos no artigo 1º e originários de outro Estado-membro se destinarem:\n\niii) A um mercado, ou a um centro de concentração autorizado tal como definido na regulamentação comunitária, o responsável pela exploração desse mercado ou desse centro de concentração autorizado é responsável pela admissão de animais que não satisfaçam as exigências do no. 1 do artigo 3º\n\nA autoridade competente deve verificar, através de controlos não discriminatórios dos certificados ou dos documentos que acompanham os animais, se estes satisfazem aquelas exigências;\n\niii)\n\nA um matadouro colocado sob a responsabilidade de um veterinário oficial, este último deve velar por que apenas sejam abatidos os animais que satisfize-\n\nrem as exigências do no. 1 do artigo 3º, recorrendo, nomeadamente, ao certificado ou documento de acompanhamento.\n\nO responsável pela exploração do matadouro é responsável pelo abate de animais que não satisfaçam as exigências do no. 1, alíneas c) e d), do artigo 3º;\n\niii)\n\nA um comerciante registado que proceda ao fraccionamento dos lotes ou a qualquer estabelecimento não sujeito a controlo permanente, este comerciante ou este estabelecimento deverão ser considerados pela autoridade competente como destinatário dos animais, devendo neste caso ser aplicáveis as condições previstas no segundo parágrafo;\n\niv)\n\nA explorações, a um centro ou a um organismo, inclusive nos casos de descarga parcial durante o transporte, cada animal ou grupo de animais deverá, nos termos do no. 1 do artigo 3º, ser acompanhado do original do certificado sanitário ou do documento de acompanhamento até chegar ao destinatário nele indicado.\n\nOs destinatários referidos nas subalíneas iii) e iv) deverão, antes de qualquer fraccionamento ou comercialização posterior, verificar a presença das marcas de identificação, dos certificados ou dos documentos referidos no no. 1, alíneas c) e d) do artigo 3º e assinalar à autoridade competente qualquer incumprimento ou anomalia, devendo neste último caso isolar os animais em questão até que a autoridade competente tenha deliberado sobre o destino a dar-lhes.\n\nAs garantias a fornecer pelos destinatários referidos nas subalíneas iii) e iv) serão determinadas no âmbito de uma convenção a assinar com a autoridade competente\n\npor ocasião do registo prévio previsto no artigo 12º\n\nA referida autoridade verificará, através de controlos por sondagem, o cumprimento dessas garantias.\n\nAs disposições da presente alínea aplicam-se mutatis mutandis aos destinatários dos produtos referidos no artigo 1º\n\n2. Todos os destinatários que figurem no certificado ou documento previstos no no. 1, alínea d), do artigo 3º:\n\na) Devem, na medida do necessário para a realização dos controlos referidos no no. 1, assinalar previamente a chegada de animais ou produtos provenientes de outro Estado-membro, e designadamente a natureza do carregamento e a data previsível da chegada.\n\nContudo, o prazo de notificação não será normalmente superior a um dia; todavia, os Estados-membros poderão exigir dois dias de notificação prévia em circunstâncias excepcionais.\n\nEsta notificação não é exigida para os cavalos registados, munidos de um documento de identificação previsto pela Directiva 90/427/CEE;\n\nb) Conservarão, durante um período a determinar pela autoridade competente mas não inferior a seis meses, os\n\ncertificados sanitários ou os documentos referidos no artigo 3º, a fim de serem apresentados à autoridade competente, a seu pedido.\n\n3. As regras de execução do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 18º ou, se for caso disso, no artigo 19º"
+  },
+  "69b9bfd9ff4cb64d": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Caso a regulamentação comunitária ou a regulamentação nacional nos domínios ainda não harmonizados, e na observância das regras gerais do Tratado, preveja a quarentena de animais vivos, esta terá lugar, normalmente, na exploração de destino.\n\n2. Sempre que for justificada, do ponto de vista veterinário, a colocação em quarentena pode ter lugar numa estação de quarentena. Esta estação é considerada o local de destino da remessa. O Estado-membro em causa notificará a Comissão dos motivos da colocação em quarentena.\n\n3. As obrigações relativas à colocação em quarentena e o respectivo local serão especificados nas condições veterinárias referidas no segundo parágrafo do artigo 21º"
+  },
+  "a26c15123b920337": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Os Estados-membros assegurarão que, por ocasião dos controlos efectuados nos locais por onde podem ser introduzidos no território da Comunidade animais ou produtos referidos no artigo 1º provenientes de países terceiros, tais como portos, aeroportos e postos de fronteira com países terceiros, sejam tomadas as seguintes medidas:\n\na) Deve proceder-se à verificação dos certificados ou outros documentos que acompanhem os animais ou produtos;\n\nb) Os animais ou produtos importados provenientes de países terceiros devem ser encaminhados, sob controlo aduaneiro, para os postos de inspecção, para aí serem efectuados os controlos veterinários.\n\nOs animais ou produtos referidos no anexo A só podem ser objecto de desalfandegamento se esses controlos permitirem garantir a sua conformidade com a regulamentação comunitária;\n\nc) Os animais e produtos de origem comunitária ficarão sujeitos às regras de controlo previstas no artigo 5º\n\n2. Os animais ou produtos referidos no anexo B ou aqueles que sejam objecto de importações com base em normas nacionais de polícia sanitária devem dar entrada directa no território da Comunidade num dos postos de inspecção do Estado-membro que pretender proceder à sua importação e ser aí inspeccionados em conformidade com o disposto no no. 1, alínea b).\n\nOs Estados-membros que procederem a importações provenientes dos países terceiros com base nas regras nacionais de polícia sanitária deverão informar a Comissão e os outros\n\nEstados-membros - e, nomeadamente, os Estados-membros de trânsito - da existência de tais importações e das exigências a que elas estão sujeitas.\n\nOs Estados-membros destinatários proibirão a reexpedição, a partir do seu território, dos animais que aí não tenham estado durante os períodos previstos nas regulamentações comunitárias específicas ou dos produtos referidos no segundo parágrafo, excepto quando se destinarem, sem trânsito, a outro Estado-membro que utilize a mesma faculdade.\n\nTodavia, enquanto se aguarda regulamentação comunitária, os referidos animais ou produtos podem dar entrada no território de outro Estado-membro não referido no segundo parágrafo, após acordo prévio dado, em geral, por este outro Estado-membro, ou, eventualmente, por um Estado-membro de trânsito, sobre as modalidades de controlo. Informam a Comissão e os outros Estados-membros reunidos no Comité Veterinário Permanente sobre o recurso a essa derrogação e sobre as modalidades de controlo acordadas.\n\n3. No entanto, a partir de 1 de Janeiro de 1993, e em derrogação ao no. 1, todos os animais ou produtos transportados por meios de transporte que assegurem ligações regulares e directas entre dois pontos geográficos da Comunidade ficarão sujeitos às regras de controlo previstas no artigo 5º"
+  },
+  "1db5252301e3da43": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Se, num controlo efectuado no local de destino da remessa ou durante o transporte, as autoridades competentes do Estado-membro de destino verificarem:\n\na) A presença de agentes responsáveis por uma doença referida na Directiva 82/894/CEE (5), com a última redacção que lhe foi dada pela Decisão 90/134/CEE da Comissão (6), de uma zoonose ou de uma doença ou de qualquer outra causa que possa constituir um perigo grave para os animais ou para o homem, ou que os produtos provêm de uma região contaminada por uma doença epizoótica, essas autoridades ordenarão a colocação em quarentena do animal ou do lote de animais no centro de quarentena mais próximo, o seu abate e/ou a sua destruição.\n\nAs despesas decorrentes das medidas previstas no primeiro parágrafo ficarão a cargo do expedidor, do seu mandatário ou da pessoa responsável pelos produtos ou animais.\n\nAs autoridades competentes do Estado-membro de destino comunicarão imediatamente por escrito, através do meio mais adequado, às autoridades competentes dos outros Estados-membros e à Comissão as verificações efectuadas, as decisões tomadas e os motivos das mesmas.\n\nPodem ser aplicadas as medidas de salvaguarda previstas no artigo 10º\n\nAlém disso, para fazer face a situações não previstas na regulamentação comunitária, a Comissão pode, a pedido de um Estado-membro e em conformidade com o procedimento referido no artigo 17º, adoptar quaisquer medidas necessárias para definir uma abordagem concertada dos Estados-membros;\n\nb) Que, sem prejuízo do disposto na alínea a), os animais ou produtos não satisfazem as condições estabelecidas nas directivas comunitárias ou, no caso de o Estado-membro obter as garantias em conformidade com o artigo 9º da Directiva 64/432/CEE ou com as regras comunitárias equivalentes adoptadas ou a adoptar, nas regulamentações nacionais de polícia sanitária, essas autoridades podem, se as condições de salubridade ou de polícia sanitária o permitirem, dar ao expedidor ou ao seu mandatário a possibilidade de escolher entre:\n\n- no caso de presença de resíduos, a sua manutenção sob controlo até que esteja confirmado o cumprimento das regras comunitárias e, em caso de não cumprimento das mesmas, a aplicação das medidas previstas na legislação comunitária,\n\n- o abate dos animais ou a destruição dos produtos,\n\n- a sua reexpedição, com autorização da autoridade competente do Estado-membro de expedição e informação prévia do Estado-membro ou Estados-membros de trânsito.\n\nTodavia, caso os incumprimentos verificados digam respeito ao certificado ou aos documentos, deve ser concedido ao proprietário ou ao seu mandatário um prazo de regularização antes de se recorrer a esta última possibilidade.\n\n2. A Comissão elaborará, de acordo com o procedimento previsto no artigo 18º, a lista das doenças referidas no no. 1, bem como as regras de execução do presente artigo."
+  },
+  "54c9ec9786019526": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Nos casos previstos no artigo 8º, a autoridade competente do Estado-membro de destino entrará sem tardar em contacto com as autoridades competentes do Estado-membro de expedição. Estas últimas tomarão todas as medidas necessárias e comunicarão à autoridade competente do primeiro Estado-membro a natureza dos controlos efectuados, as decisões tomadas e os motivos das mesmas.\n\nSe recear que essas medidas não sejam suficientes, a autoridade competente do Estado-membro de destino procurará, com a autoridade competente do Estado-membro de expedição, as formas e os meios de solucionar a situação, se necessário mediante uma visita ao local.\n\nSempre que os controlos previstos no artigo 8º permitirem verificar a repetição de um incumprimento, a autoridade\n\ncompetente do Estado-membro de destino informará a Comissão e as autoridades competentes dos outros Estados-membros.\n\nA pedido da autoridade competente do Estado-membro de destino ou por sua própria iniciativa, e tendo em conta a natureza das infracções observadas, a Comissão pode:\n\n- enviar ao local, em colaboração com as autoridades nacionais competentes, uma missão de inspecção,\n\n- encarregar um veterinário oficial, cujo nome deve constar numa lista a elaborar pela Comissão sob proposta dos Estados-membros, e que seja aceite pelas diversas partes em causa, de verificar os factos in loco,\n\n- solicitar à autoridade competente que intensifique os controlos da exploração, do centro, do organismo, do mercado ou do centro de concentração autorizados ou da região de origem.\n\nA Comissão informará os Estados-membros das suas conclusões.\n\nNa pendência das conclusões da Comissão, o Estado-membro de expedição deve, a pedido do Estado-membro de destino, reforçar o controlo dos animais ou produtos provenientes da exploracão, do centro, do organismo, do mercado ou do centro de concentração autorizados ou da região em causa e, se existirem razões graves de saúde animal ou de salubridade, suspender a emissão de certificados ou documentos de transporte.\n\nO Estado-membro de destino, por seu lado, pode intensificar o controlo dos animais com a mesma proveniência.\n\nA pedido de um dos dois Estados-membros em questão e caso o parecer do perito confirme os incumprimentos, a Comissão deve, de acordo com o procedimento previsto no artigo 17º, tomar medidas adequadas, que podem ir até à concessão de autorização aos Estados-membros para recusarem provisoriamente a introdução no seu território de animais ou produtos provenientes da exploração, do centro, do organismo, do mercado ou do centro de concentração autorizados ou da região em questão. Estas medidas devem ser confirmadas ou revistas o mais rapidamente possível, de acordo com o procedimento previsto no artigo 17º\n\n2. Salvo no caso previsto no quarto parágrafo, as vias de recurso abertas pela legislação em vigor nos Estados-membros contra as decisões das autoridades competentes não são afectadas pela presente directiva.\n\nAs decisões tomadas pela autoridade competente do Estado de destino devem ser comunicadas, com a indicação dos seus fundamentos, ao expedidor ou ao seu mandatário, assim como à autoridade competente do Estado-membro de expedição.\n\nA pedido do expedidor ou do seu mandatário, as decisões fundamentadas devem ser-lhe comunicadas por escrito, com\n\na indicação das vias de recurso que a legislação em vigor no Estado-membro de destino lhe oferece e da forma e dos prazos em que esses recursos devem ser interpostos.\n\nNo entanto, em caso de litígio, as duas partes em causa, se assim o acordarem, podem, no prazo máximo de um mês, submeter o litígio à apreciação de um perito que conste de uma lista de peritos da Comunidade a elaborar pela Comissão, ficando as despesas relativas à peritagem a cargo da Comunidade.\n\nO perito fica encarregado de emitir parecer num prazo máximo de 72 horas, ou após recepção dos resultados das análises eventualmente efectuadas. As partes acatarão o parecer do perito, na observância da legislação veterinária comunitária.\n\n3. As despesas relativas à reexpedição da remessa, à parcagem ou à colocação em sequestro dos animais ou, se for caso disso, ao seu abate ou destruição ficam a cargo do expedidor, do seu mandatário ou do responsável pelos animais ou produtos.\n\n4. As regras de execução do presente artigo são adopta-\n\ndas em conformidade com o procedimento previsto no artigo 18º ou, se for caso disso, no artigo 19º"
+  },
+  "795996923a39b1ee": {
+   "fragment_id": "CAPÍTULO III — Disposições comuns",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições comuns"
+  },
+  "453c59bdd6c497ec": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Cada Estado-membro assinalará imediatamente aos outros Estados-membros e à Comissão, para além do aparecimento no seu território das doenças previstas na Directiva 82/894/CEE, o aparecimento de zoonoses, doenças ou do que quer que possa constituir um perigo grave para os animais ou para a saúde humana.\n\nO Estado-membro de expedição aplicará imediatamente as medidas de luta ou de prevenção previstas na regulamentação comunitária e, nomeadamente, determinará as zonas de protecção nela previstas ou decidirá qualquer outra medida que considere apropriada.\n\nO Estado-membro de destino ou de trânsito que, por ocasião de um dos controlos referidos no artigo 5º, verificar a existência de uma das doenças ou factores de perigo referidos no primeiro parágrafo pode, se tal for considerado necessário, tomar as medidas de prevenção previstas na regulamentação comunitária, incluindo a colocação dos animais em quarentena.\n\nEnquanto aguarda a tomada de medidas nos termos do no. 4, o Estado-membro de destino pode, por razões graves de protecção da saúde pública ou animal, tomar medidas\n\ncautelares em relação às explorações, centros ou organismos em questão ou, no caso de uma epizootia, em relação à zona de protecção prevista na regulamentação comunitária.\n\nAs medidas tomadas pelos Estados-membros serão comunicadas sem tardar à Comissão e aos outros Estados-membros.\n\n2. Um ou vários representantes da Comissão podem, a pedido do Estado-membro referido no primeiro parágrafo do no. 1 ou por iniciativa da Comissão, deslocar-se imediatamente ao local para examinar, em colaboração com as autoridades competentes, as medidas tomadas, emitindo um parecer sobre essas medidas.\n\n3. Se não tiver sido informada das medidas tomadas ou se as considerar insuficientes, a Comissão pode, em colaboração com o Estado-membro interessado e na pendência da reunião do Comité Veterinário Permanente, tomar medidas cautelares em relação aos animais ou produtos provenientes da região afectada pela epizootia ou de uma dada exploração, centro ou organismo. Essas medidas serão, o mais rapidamente possível, submetidas à apreciação do Comité Veterinário Permanente para serem confirmadas, alteradas ou anuladas de acordo com o procedimento previsto no artigo 17º\n\n4. Em qualquer dos casos, a Comissão procederá, o mais rapidamente possível, à análise da situação a nível do Comité Veterinário Permanente. A Comissão adoptará, de acordo com o procedimento previsto no artigo 17º, as medidas necessárias para os animais e produtos referidos no artigo 1º e, se a situação o exigir, para os produtos derivados desses animais. A Comissão seguirá a evolução da situação e, de acordo com o mesmo procedimento, alterará ou revogará as decisões tomadas, em função dessa evolução.\n\n5. As regras de execução do presente artigo e, nomeadamente, a lista das zoonoses ou outras causas susceptíveis de constituir um perigo grave para a saúde humana serão adoptadas de acordo com o procedimento previsto no artigo 18º"
+  },
+  "bae261307db203fa": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nCada Estado-membro e a Comissão designarão o ou os serviços competentes em matéria de controlos veterinários que assegurarão os controlos veterinários e a colaboração com os serviços de controlo dos outros Estados-membros."
+  },
+  "2ad3f5d3f38209fa": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nOs Estados-membros deverão providenciar para que todos os operadores que procedem ao comércio intracomunitário de animais e/ou produtos referidos no artigo 1º:\n\na) Sejam obrigados, a pedido da autoridade competente, a efectuar um registo prévio num registo oficial;\n\nb) Mantenham um livro de registos no qual sejam mencionadas as entregas e, para os destinatários referidos no no. 1, alínea b), subalínea iii) do artigo 5º, o posterior destino dos animais ou produtos.\n\nEste registo deverá ser conservado por um prazo a fixar pela autoridade nacional competente para poder ser apresentado à autoridade competente, a pedido desta."
+  },
+  "54fcc2f8c2384f92": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nOs Estados-membros assegurarão igualmente que os agentes dos respectivos serviços veterinários, se necessário em colaboração com os agentes de outros serviços habilitados para esse fim, possam nomeadamente:\n\n- inspeccionar as explorações, instalações, meios de transporte e processos utilizados na marcação e identificação dos animais,\n\n- proceder, no que se refere aos produtos constantes no anexo A, a controlos do cumprimento pelo pessoal das exigências previstas nos textos referidos no dito anexo,\n\n- efectuar colheitas de amostras:\n\nii) nos animais detidos para venda, colocados em circulação ou transportados;\n\nii) nos produtos detidos para venda ou armazenagem, colocados no mercado ou transportados,\n\n- analisar o material documental ou informático útil aos controlos resultantes das medidas tomadas por força da presente directiva.\n\nOs Estados-membros devem exigir da parte das explorações, centros ou organismos controlados a colaboração necessária à execução das tarefas acima referidas."
+  },
+  "53626209e7774737": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. A Directiva 64/432/CEE (7), com a última redacção que lhe foi dada pela Directiva 89/662/CEE (8), é alterada do seguinte modo:\n\na) O artigo 6º é substituído pelo seguinte texto:\n\n«Artigo 6º\n\nOs animais de abate que, imediatamente após a chegada ao país destinatário, tenham sido, directamente ou após passagem por um mercado ou por um centro de concentração autorizado, conduzidos a um matadouro, devem aí ser abatidos, logo que possível, de acordo com os requisitos da polícia sanitária.\n\nOs animais de abate que, imediatamente após a chegada ao país destinatário, tenham sido conduzidos a um mercado contíguo a um matadouro, cujo regulamento apenas permita a saída dos animais para um matadouro autorizado para esse efeito pela autoridade central competente, devem ser abatidos nesse matadouro, o mais tardar até cinco dias após a sua entrada no mercado.\n\nA autoridade competente do país destinatário poderá, por razões de polícia sanitária, designar o matadouro para onde devem ser conduzidos os animais.»;\n\nb) Suprimem-se o no. 3 do artigo 7º e o primeiro parágrafo do no. 2 do artigo 8º;\n\nc) Os artigos 9g. e 10g. são substituídos pelos seguintes artigos:\n\n«Artigo 9º\n\n1. Um Estado-membro que disponha de um programa nacional obrigatório de luta contra uma das doenças contagiosas não referidas no anexo E, aplicável em todo ou parte do seu território, pode apresentá-lo à Comissão indicando, nomeadamente:\n\n- a situação da doença no seu território,\n\n- a justificação do programa em função da importância da doença e da relação custos/benefícios prevista,\n\n- a zona geográfica em que o programa vai ser aplicado,\n\n- os diferentes estatutos aplicáveis aos estabelecimentos e as normas que devem ser atingidas em cada categoria, bem como os processos de teste,\n\n- os processos de controlo desse programa,\n\n- as consequências da perda do estatuto do estabelecimento, independentemente da razão dessa perda,\n\n- as medidas a tomar no caso de se constatarem resultados positivos aquando dos controlos efectuados em conformidade com as disposições do programa.\n\n2. A Comissão examinará os programas comunicados pelos Estados-membros. Os programas podem ser aprovados dentro do respeito dos critérios previstos no no. 1, em conformidade com o procedimento previsto no artigo 12º De acordo com o mesmo procedimento, as garantias complementares que podem ser exigidas no âmbito do comércio intracomunitário serão especificadas simultaneamente ou o mais tardar três meses após a aprovação dos programas. Essas garantias devem ser, no máximo, equivalentes às que o Estado-membro exige no âmbito nacional.\n\n3. O programa apresentado pelo Estado-membro pode ser alterado ou completado em conformidade com o procedimento previsto no artigo 12º De acordo com o mesmo procedimento, pode ser aprovada qualquer alteração ou complemento a um programa aprovado anteriormente, bem como às garantias definidas em conformidade com o no. 2."
+  },
+  "142fe5bc8b4caa02": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Qualquer Estado-membro que considere estar total ou parcialmente indemne de uma das doenças que os bovinos e porcinos são susceptíveis de contrair deve apresentar à Comissão as provas adequadas. Deve indicar, nomeadamente:\n\n- a natureza da doença e o historial do seu aparecimento no seu território,\n\n- os resultados dos testes de vigilância baseados numa pesquisa serológica, microbiológica, patológica ou epidemiológica, e no facto de essa doença ser de declaração obrigatória às autoridades competentes,\n\n- a duração da vigilância exercida,\n\n- eventualmente, o período durante o qual foi proibida a vacinação contra a doença e a zona geográfica abrangida por essa proibição,\n\n- as normas que permitem o controlo da ausência da doença.\n\n2. A Comissão examinará as provas apresentadas pelo Estado-membro. As garantias complementares, gerais ou limitadas, que podem ser exigidas no âmbito\n\ndo comércio intracomunitário, podem ser especificadas\n\nem conformidade com o procedimento previsto no artigo 12º Essas garantias devem ser, no máximo, equivalentes às que o Estado-membro exige no âmbito nacional. No caso de as provas serem apresentadas até 1 de Julho de 1991, devem ser tomadas decisões acerca das garantias adicionais antes de 1 de Janeiro de 1992.\n\n3. Estado-membro em causa comunicará à Comissão qualquer alteração das provas relativas à doença referidas no no. 1. A luz dessas informações as garantias definidas em conformidade com o no. 2 podem ser alteradas ou suprimidas de acordo com o procedimento previsto no artigo 12º».\n\n2. Suprimem-se os parágrafos segundo a quinto do no. 2 do artigo 5º e os artigos 7g. e 15g. da Directiva 88//407/CEE (9).\n\n3. Suprimem-se os parágrafos segundo a quarto do no. 2 do artigo 5º e o artigo 14º da Directiva 89/556/CEE (10).\n\n4. Na quinta linha do primeiro parágrafo do artigo 13º da Directiva 72/462/CEE (11), com a última redacção que lhe foi dada pela Directiva 89/227/CEE (12), «três» é substituído por «cinco»."
+  },
+  "72b6aa621355e4cd": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\n1. Nas Directivas 64/432/CEE e 89/556/CEE é inserido o seguinte artigo 14º:\n\n«Artigo 14º\n\nSão aplicáveis as regras previstas na Directiva\n\n90/425/CEE do Conselho, de 26 de Junho de 1990, relativa aos controlos veterinários aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno (*), nomea-\n\ndamente no que se refere aos controlos na origem, à organização e ao seguimento a dar aos controlos a efectuar pelo país destinatário, e às medidas de salvaguarda a tomar.\n\n(*) JO no. L 224 de 18. 8. 1990, p. 29.».\n\n2. Na Directiva 88/407/CEE é inserido o seguinte artigo 15º:\n\n«Artigo 15º\n\nSão aplicáveis as regras previstas na Directiva\n\n90/425/CEE do Conselho, de 26 de Junho, relativa aos controlos veterinários aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno (*), nomeadamente no que se refere aos controlos na origem, à organização e ao seguimento a dar aos controlos a efectuar pelo Estado-membro de destino, e às medidas de salvaguarda a tomar.\n\n(*) JO no. L 224 de 18. 8. 1990, p. 29.».\n\n3. O artigo 9º da Directiva 90/426/CEE é substituído pelo seguinte texto:\n\n«Artigo 9º\n\nSão aplicáveis as regras previstas na Directiva\n\n90/425/CEE do Conselho, de 26 de Junho de 1990, relativa aos controlos veterinários aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno (*), nomeadamente no que se refere aos controlos na origem, à organização e ao seguimento a dar aos controlos a efectuar pelo Estado-membro de destino, e às medidas de salvaguarda a tomar.\n\n(*) JO no. L 224 de 18. 8. 1990, p. 29.»."
+  },
+  "53b73b07640b5b19": {
+   "fragment_id": "Artigo 16º — A Comissão pode alterar a lista das doenças enumeradas no anexo C, segundo o procedimento previsto no artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 16º — A Comissão pode alterar a lista das doenças enumeradas no anexo C, segundo o procedimento previsto no artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º — A Comissão pode alterar a lista das doenças enumeradas no anexo C, segundo o procedimento previsto no artigo 18º"
+  },
+  "682d7a4a57a71336": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nNos casos em que se faça referência ao procedimento previsto no presente artigo, o Comité Veterinário Permanente, criado pela Decisão 68/361/CEE (13), decidirá em conformidade com as regras estabelecidas no artigo 17º da Directiva 89/662/CEE."
+  },
+  "b7ab6183ba75f0bd": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\nNos casos em que se faça referência ao procedimento previsto no presente artigo, o Comité Veterinário Permanente decidirá em conformidade com as regras estabelecidas no artigo 18º da Directiva 89/662/CEE."
+  },
+  "70e1ba101c6ede29": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\nNos casos em que se faça referência ao procedimento previsto no presente artigo, o Comité Zootécnico Permanente, criado pela Decisão 77/505/CEE (14) do Conselho, decidirá em conformidade com as regras estabelecidas no artigo 11º da Directiva 88/661/CEE (15)."
+  },
+  "60d52a77d430e50e": {
+   "fragment_id": "CAPÍTULO IV — Disposições finais e transitórias",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais e transitórias"
+  },
+  "51c0cddc19e9570f": {
+   "fragment_id": "Artigo 20º",
+   "type": "artigo",
+   "heading": "Artigo 20º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º\n\n1. A Comissão criará, de acordo com o procedimento previsto no artigo 18º, um sistema informatizado de ligação entre autoridades veterinárias a fim de, nomeadamente, facilitar o intercâmbio de informação entre as autoridades competentes das regiões em que foi emitido um certificado ou documento sanitários de acompanhamento de animais e produtos de origem animal e as autoridades competentes do Estado-membro de destino.\n\n2. As modalidades da participação financeira comunitária previstas no artigo 37º da Decisão 90/424/CEE, necessárias à realização desse programa, serão adoptadas de acordo com o processo previsto no artigo 42º daquela decisão.\n\n3. De acordo com o processo previsto no artigo 18º, a Comissão adopta as regras de execução do presente artigo e, designadamente, as normas adequadas em matéria de intercâmbio de dados e de regras de segurança dos dados permutados."
+  },
+  "7e3b8e92a568a465": {
+   "fragment_id": "Artigo 21º",
+   "type": "artigo",
+   "heading": "Artigo 21º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21º\n\nAté 31 de Dezembro de 1992, o comércio dos animais e dos produtos referidos no anexo B ficará sujeito, na pendência de regulamentação comunitária e sem prejuízo da manutenção de eventuais regras previstas a nível nacional para a identificação dos lotes, às regras de controlo enumeradas na presente directiva e, em especial, às mencionadas no no. 1, alínea a), segunda parte de frase, do artigo 3º\n\nOs Estados-membros comunicarão à Comissão e aos outros Estados-membros, antes da data prevista no artigo 26º, as condições e regras actualmente aplicáveis à admissão no seu território dos animais e produtos referidos no primeiro parágrafo, incluindo as regras de identificação.\n\nA Comissão determinará, de acordo com o procedimento previsto no artigo 17º, as medidas necessárias à informatização do levantamento das condições referidas no segundo parágrafo.\n\nAs regras de controlo previstas para os animais e produtos referidos no anexo A serão alargadas aos animais e produtos de origem animal ainda não abrangidos por este anexo\n\nquando forem adoptadas as regras harmonizadas que regerão as suas trocas. Até 1 de Janeiro de 1992, o Conselho tomará uma decisão acerca da inclusão, em 31 de Dezembro de 1992, dos animais e produtos de origem animal não abrangidos pela Directiva 89/662/CEE e pela presente directiva no âmbito de aplicação destas directivas."
+  },
+  "1d50eef91423600b": {
+   "fragment_id": "Artigo 22º",
+   "type": "artigo",
+   "heading": "Artigo 22º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22º\n\n1. Os Estados-membros apresentarão à Comissão, antes de 1 de Outubro de 1991, um programa que especifique as medidas nacionais que tencionam pôr em prática para realizar os objectivos previstos na presente directiva, especialmente no que se refere à frequência dos controlos.\n\n2. A Comissão examinará os programas enviados pelos Estados-membros de acordo com o no. 1.\n\n3. Anualmente e pela primeira vez em 1992, a Comissão apresentará aos Estados-membros uma recomendação relativa a um programa de controlos para o ano seguinte, sobre a qual o Comité Veterinário Permanente terá previamente emitido parecer. Esta recomendação poderá ser sujeita a adaptações posteriores."
+  },
+  "3897f532e55e9d2e": {
+   "fragment_id": "Artigo 23º",
+   "type": "artigo",
+   "heading": "Artigo 23º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23º\n\n1. Até 1 de Janeiro de 1991, o Conselho, deliberando por maioria qualificada sob proposta da Comissão, decidirá das regras e princípios gerais a aplicar aos controlos das importações, provenientes de países terceiros, de animais e produtos abrangidos pela presente directiva. Serão também fixados antes dessa data os postos de controlo nas fronteiras externas e os requisitos a que esses postos deverão responder.\n\n2. Até 1 de Janeiro de 1993, o Conselho procederá a uma reanálise das disposições da presente directiva, em especial do artigo 10º e do no. 2, alínea a), do artigo 5º, com base num relatório da Comissão sobre a experiência adquirida, acompanhado de eventuais propostas, sobre as quais se pronunciará por maioria qualificada."
+  },
+  "c75c5dd5ee95abf7": {
+   "fragment_id": "Artigo 24º",
+   "type": "artigo",
+   "heading": "Artigo 24º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24º\n\nAté 21 de Dezembro de 1992, ou o mais tardar 12 meses depois da data em que os Estados-membros deverão dar comprimento à Directiva 90/423/CEE, e a fim de permitir uma aplicação progressiva do regime de controlo previsto na presente directiva, os Estados-membros podem, em derrogação do no. 1 do artigo 5º;\n\n- manter o controlo documental durante o transporte aos animais e produtos referidos nos anexos A e B, a fim de se assegurar da observância dos requisitos específicos previstos na regulamentação comunitária ou nacional,\n\n- efectuar um controlo documental durante o transporte dos animais e produtos importados provenientes de países terceiros de que sejam destinatários."
+  },
+  "f2fef2af4313bb8f": {
+   "fragment_id": "Artigo 25º",
+   "type": "artigo",
+   "heading": "Artigo 25º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25º\n\nDeliberando por maioria qualificada sob proposta da Comissão, o Conselho determinará, até 1 de Outubro de 1992, o regime aplicável ao termo de vigência das disposições transitórias previstas no artigo 24º"
+  },
+  "af0f6dcff50c6575": {
+   "fragment_id": "Artigo 26º",
+   "type": "artigo",
+   "heading": "Artigo 26º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26º\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento:\n\nii) Ao artigo 10º e ao artigo 9º da Directiva 89/662/CEE, dois meses após a data de notificação da presente directiva;\n\nii) Às restantes disposições da presente directiva, numa data a fixar por ocasião da decisão a adoptar antes de 31 de Dezembro de 1990, data essa que não poderá ser posterior a 31 de Dezembro de 1991.\n\nTodavia, a República Heléncia dispõe de um prazo suplementar de um ano para dar cumprimento a estas restantes disposições."
+  },
+  "dc70228ef4eea4fd": {
+   "fragment_id": "Artigo 27º",
+   "type": "artigo",
+   "heading": "Artigo 27º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27º\n\nSão destinatários da presente directiva os Estados-membros.\n\nFeito no Luxemburgo, em 26 de Junho de 1990.\n\nPelo Conselho\n\nO Presidente\n\nM. O'KENNEDY\n\n(1) JO no. C 225 de 31. 8. 1988, p. 4.\n\n(2) JO no. C 326 de 19. 12. 1988, p. 28.\n\n(3) JO no. C 56 de 6. 3. 1989, p. 20.(4) Ver a página 42 do presente Jornal Oficial.(5) JO no. L 378 de 31. 12. 1982, p. 58.\n\n(6) JO no. L 76 de 22. 3. 1990, p. 23.(7) JO no. 121 de 29. 7. 1964, p. 2012/64.\n\n(8) JO no. L 395 de 30. 12. 1989, p. 13.(9) JO no. L 134 de 22. 7. 1988, p. 10.\n\n(10) JO no. L 302 de 19. 10. 1989, p. 1.\n\n(11) JO no. L 302 de 31. 12. 1972, p. 28.\n\n(12) JO no. L 93 de 6. 4. 1989, p. 25.(13) JO no. L 255 de 18. 10. 1968, p. 23.(14) JO no. L 206 de 12. 8. 1977, p. 11.\n\n(15) JO no. L 382 de 31. 12. 1988, p. 16.\n\nANEXO A I. LEGISLAÇÃO VETERINÁRIA Directiva 64/432/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas de fiscalização sanitária em matéria de comércio intracomunitário de animais das espécies bovina e suína.\n\nJO no. 121 de 29. 7. 1964, p. 1977/64.\n\nDirectiva 88/407/CEE do Conselho, de 14 de Junho de 1988, que fixa as exigências de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações de sémen congelado de animais de espécie bovina.\n\nJO no. L 194 de 22. 7. 1988, p. 10.\n\nDirectiva 89/556/CEE do Conselho, de 25 de Setembro de 1989, que estabelece as condições de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações provenientes de países terceiros de embriões de animais da espécie bovina.\n\nJO no. L 302 de 19. 10. 1989, p. 1.\n\nDirectiva 90/426/CEE do Conselho, de 26 de Junho de 1990, relativa às condições de polícia sanitária que regem a circulação de equídeos e as importações de equídeos provenientes de países terceiros (;).\n\nJO no. L 224 de 18. 8. 1990, p. 42.\n\nDirectiva 90/429/CEE do Conselho de 26 de Junho de 1990, que fixa as exigências de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações de sémen de animais de espécie suína.\n\nJO no. L 224 de 18. 8.1990, p. 62.\n\nII. LEGISLAÇÃO ZOOTÉCNICA Directiva 77/504/CEE do Conselho, de 25 de Julho de 1977, que diz respeito aos animais da espécie bovina reprodutores de raça pura.\n\nJO no. L 206 de 12. 8. 1977, p. 8.\n\nDirectiva 88/661/CEE do Conselho, de 19 de Dezembro de 1988, relativa às normas zootécnicas aplicáveis aos animais reprodutores da espécie suína.\n\nJO no. L 382 de 31. 12. 1988, p. 36.\n\nDirectiva 89/361/CEE do Conselho, de 30 de Maio de 1989, relativa aos animais reprodutores de raça pura das espécies ovina e caprina.\n\nJO no. L 153 de 8. 6. 1989, p. 30.\n\nDirectiva 90/427/CEE do Conselho, de 26 de Junho de 1990, relativa às condições zootécnicas e genealógicas que regem o comércio intracomunitário de equídeos.\n\nJO no. L 224 de 18. 8. 1990, p. 55.\n\n(;) A partir de 1 de Janeiro de 1992.\n\nANEXO B ANIMAIS E PRODUTOS NAO SUJEITOS A HARMONIZAÇÃO MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA A. Animais vivos das espécies seguintes:\n\n- ovinos e caprinos,\n\n- aves de capoeira vivas,\n\n- coelhos domésticos.\n\nB. Produtos\n\n- resíduos de animais transformados em ingredientes para alimentos para animais,\n\n- ovos de incubação.\n\nANEXO C LISTA DAS DOENÇAS OU EPIZOOTIAS QUE REQUEREM UMA ACÇÃO URGENTE OBRIGATÓRIA, COM RESTRIÇÕES TERRITORIAIS (ESTADOS-MEMBROS, REGIÕES OU ZONAS) - Febre aftosa\n\n- Peste suína clássica\n\n- Peste suína africana\n\n- Doença vesiculosa do suíno\n\n- Doença de Newcastle\n\n- Peste bovina\n\n- Peste dos pequenos ruminantes\n\n- Estomatite vesiculosa\n\n- Febre catarral\n\n- Peste equina\n\n- Encefalomielite viral do cavalo\n\n- Doença de Teschen\n\n- Gripe aviária\n\n- Varíola ovina e caprina\n\n- Dermatite nodular contagiosa\n\n- Febre do Vale do Rift\n\n- Peripneumonia contagiosa bovina"
+  },
+  "ef8b6192e7434030": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1990L0425 — PT — 19.11.2002 — 011.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0425:PT:NOT) [DIRECTIVA DO CONSELHO de 26 de Junho de 1990 relativa aos controlos veterinários e zootécnicos aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno (90/425/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0425:PT:NOT) (JO L 224, 18.8.1990, p.29)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0539:PT:NOT) | [Directiva do Conselho 90/539/CEE de 15 de Outubro de 1990](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0539:PT:NOT) | L 303 | 6 | 31.10.1990 |\n| [M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0667:PT:NOT) | [Directiva do Conselho 90/667/CEE de 27 de Novembro de 1990](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0667:PT:NOT) | L 363 | 51 | 27.12.1990 |\n| [M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0675:PT:NOT) | [Directiva do Conselho 90/675/CEE de 10 de Dezembro de 1990](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0675:PT:NOT) | L 373 | 1 | 31.12.1990 |\n| [M4](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0068:PT:NOT) | [Directiva do Conselho 91/68/CEE de 28 de Janeiro de 1991](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0068:PT:NOT) | L 46 | 19 | 19.2.1991 |\n| [M5](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0174:PT:NOT) | [Directiva do Conselho 91/174/CEE de 25 de Março de 1991](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0174:PT:NOT) | L 85 | 37 | 5.4.1991 |\n| [►M6](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0496:PT:NOT) | [Directiva do Conselho 91/496/CEE de 15 de Julho de 1991](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0496:PT:NOT) | L 268 | 56 | 24.9.1991 |\n| [►M7](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0628:PT:NOT) | [Directiva do Conselho 91/628/CEE de 19 de Novembro de 1991](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0628:PT:NOT) | L 340 | 17 | 11.12.1991 |\n| [►M8](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0060:PT:NOT) | [Directiva 92/60/CEE do Conselho de 30 de Junho de 1992](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0060:PT:NOT) | L 268 | 75 | 14.9.1992 |\n| [M9](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0065:PT:NOT) | [Directiva 92/65/CEE do Conselho de 13 de Julho de 1992](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0065:PT:NOT) | L 268 | 54 | 14.9.1992 |\n| [►M10](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0118:PT:NOT) | [Directiva 92/118/CEE do Conselho de 17 de Dezembro de 1992](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0118:PT:NOT) | L 62 | 49 | 15.3.1993 |\n| [►M11](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0033:PT:NOT) | [Directiva 2002/33/CE do Parlamento Europeu e do Conselho de 21 de Outubro de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0033:PT:NOT) | L 315 | 14 | 19.11.2002 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0425:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 26 de Junho de 1990\n\nrelativa aos controlos veterinários e zootécnicos aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno\n\n(90/425/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43.o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#E0003)),\n\nConsiderando que a Comunidade deve adoptar medidas destinadas a estabelecer progressivamente o mercado interno ao longo de um período que termina em 31 de Dezembro de 1992;\n\nConsiderando que o funcionamento harmonioso das organizações comuns de mercado para os animais e produtos de origem animal implica o desaparecimento dos abstáculos veterinários e zootécnicos ao desenvolvimento do comércio intracomunitário dos animais e produtos em questão; que, a esse respeito, a livre circulação dos animais e produtos agrícolas constitui um elemento fundamental das organizações comuns de mercado e deve permitir o desenvolvimento racional da produção agrícola, assim como a utilização óptima dos factores de produção;\n\nConsiderando que, no domínio veterinário, as fronteiras são utilizadas para efectuar controlos que visam assegurar a protecção da saúde pública e animal;\n\nConsiderando que o objectivo final é o de limitar os controlos veterinários ao local de partida; que a realização desse objectivo implica a harmonização dos requisitos essenciais relativos à protecção da saúde animal;\n\nConsiderando que, na perspectiva da realização do mercado interno, é conveniente, enquanto esse objectivo não for atingido, pôr a tónica nos controlos a efectuar à partida e organizar os controlos que possam vir a ser efectuados no destino; que essa solução conduz ao abandono da possibilidade de efectuar controlos veterinários nas fronteiras internas da Comunidade e que neste contexto se justifica que se mantenha o certificado sanitário ou um documento de identificação como se prevê na regulamentação comunitária;\n\nConsiderando que essa solução implica uma confiança reforçada nos controlos veterinários efectuados pelo Estado de expedição, nomeadamente através da introdução de um sistema rápido de trocas de informação; que é essencial que o Estado-membro expedidor vele por que os controlos veterinários sejam efectuados de modo adequado;\n\nConsiderando que, no Estado de destino, os controlos veterinários podem ser efectuados por sondagem no local de destino; que, todavia, no caso de suspeita grave de irregularidades, o controlo veterinário pode ser efectuado durante o encaminhamento dos animais e produtos e que é possível nos domínios não harmonizados manter a possibilidade de impor a quarentena;\n\nConsiderando que importa prever o seguimento a dar a um controlo veterinário em que se verificou a irregularidade de um envio;\n\nConsiderando que é conveniente prever um processo de regulação dos conflitos que possam surgir relacionados com a expedição a partir de uma exploração, de um centro ou de um organismo;\n\nConsiderando que é necessário prever um regime de protecção; que, nesse domínio, nomeadamente por razões de eficácia, a responsabilidade deve caber, em primeiro lugar, ao Estado de expedição; que a Comissão deve poder actuar, nomeadamente deslocando-se ao local e adoptando as medidas adequadas à situação;\n\nConsiderando que, para serem úteis, as regras estabelecidas pela presente directiva deverão abranger o conjunto dos animais e produtos sujeitos, nas trocas comerciais intracomunitárias, a requisitos veterinários;\n\nConsiderando, todavia, que, no estado actual da harmonização e na pendência de regras comunitárias, é conveniente, em relação aos animais e produtos que não foram objecto de regras harmonizadas, manter os requisitos do Estado destinatário desde que estejam em conformidade com o artigo 36.o do Tratado;\n\nConsiderando que convém aplicar ao controlo zootécnico as referidas regras;\n\nConsiderando que é conveniente adaptar o disposto nas directivas existentes às novas regras estatuídas pela presente directiva;\n\nConsiderando que é conveniente reanalisar essas regras antes de 1993;\n\nConsiderando que é conveniente confiar à Comissão a tarefa de tomar as medidas de execução da presente directiva; que, para esse efeito, é conveniente prever processos que estabeleçam uma cooperação, estreita e eficaz, entre a Comissão e os Estados-membros no âmbito do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d0f6c4389b79546b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs Estados-membros assegurarão que os controlos veterinários dos animais vivos e produtos abrangidos pelas directivas referidas no anexo A ou pelo primeiro parágrafo do artigo 21.o e destinados ao comércio deixem, sem prejuízo do artigo 7.o, de ser efectuados nas fronteiras e passem a sê-lo nos termos do disposto na presente directiva.\n\nOs Estados-membros assegurarão ainda que o controlo dos documentos zootécnicos obedeça às regras de controlo previstas na presente directiva.\n\n[▼M7](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0628:PT:NOT)\n\nAs disposições da presente directiva não são aplicáveis aos controlos efectuados no âmbito de missões executadas de forma não discriminatória pelas autoridades encarregadas da aplicação geral das leis nos Estados-membros.\n\n[▼M8](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0060:PT:NOT)\n\nA presente directiva não se aplica aos controlos veterinários relativos à deslocação entre Estados-membros, sem objectivo comercial, de animais de companhia que acompanhem pessoas por eles responsáveis durante essa deslocação.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0425:PT:NOT)"
+  },
+  "10e5414710c7047e": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\n1. Controlo veterinário: qualquer controlo físico e/ou formalidade administrativa que diga respeito aos animais ou produtos referidos no artigo 1.o e que vise, de modo directo ou indirecto, assegurar a protecção da saúde pública ou animal.\n\n2. Controlos zootécnicos: qualquer controlo físico e/ou formalidade administrativa que diga respeito aos animais abrangidos pelas directivas mencionadas na parte II do anexo A e que vise, de modo directo ou indirecto, assegurar o melhoramento das raças animais.\n\n3. Comércio: o comércio entre Estados-membros, na acepção do n.o 2 do artigo 9.o do Tratado.\n\n4. Exploração: o estabelecimento agrícola ou o estábulo de negociante, na acepção das regulamentações nacionais em vigor, situado no território de um Estado-membro, e onde os animais referidos nos anexos A e B, com excepção dos equídeos, são mantidos ou criados de forma habitual, bem como a exploração tal como vem definida na alínea a) do artigo 2.o da Directiva 90/426/CEE do Conselho, de 26 de Junho de 1990, relativa às condições de polícia sanitária que regem a circulação de equídeos e às importações de equídeos provenientes de países terceiros ([4](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#E0004)).\n\n5. Centro ou organismo: qualquer empresa que proceda à produção, armazenamento, tratamento ou manipulação dos produtos referidos no artigo 1.o\n\n6. Autoridade competente: a autoridade central de um Estado-membro competente para efectuar os controlos veterinários ou zootécnicos ou qualquer autoridade em quem aquela primeira tenha delegado essa competência.\n\n7. Veterinário oficial: o veterinário designado pela autoridade central competente."
+  },
+  "3fb9aa65c22e9bf7": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-membros assegurarão que apenas podem ser destinados ao comércio os animais e os produtos referidos no artigo 1.o que preencham as seguintes condições:\n\na) Os animais e produtos referidos no anexo A devem preencher os requisitos das directivas pertinentes mencionadas nesse anexo e os animais e produtos referidos no anexo B devem respeitar as normas de polícia sanitária do Estado-membro do destino;\n\nb) Devem provir de uma exploração, de um centro ou de um organismo que se encontre sujeito a controles veterinários oficiais regulares, nos termos do n.o 3;\n\nc) Devem, por um lado, ser identificados em conformidade com as exigências da regulamentação comunitária e, por outro, ser registados de modo a permitir identificar a exploração, o centro ou o organismo de origem ou de passagem; os sistemas nacionais de identificação e registo deverão ser notificados à Comissão num prazo de três meses a contar da notificação da presente directiva.\n\nAté 1 de Janeiro 1993, os Estados-membros devem tomar as medidas adequadas para garantir que os sistemas de identificação e registo aplicáveis ao comércio intracomunitário sejam alargados à circulação de animais no interior dos respectivos territórios;\n\nd) Devem ser acompanhados, durante o transporte, dos certificados sanitários e/ou quaisquer outros documentos previstos nas directivas mencionadas no anexo A e, quando se trate de outros animais e produtos, na regulamentação do Estado-membro de destino.\n\nEstes certificados ou documentos, emitidos pelo veterinário oficial responsável pela exploração, pelo centro ou pelo organismo de origem, ou quando se trate dos documentos previstos na legislação zootécnica referida na parte II, do anexo A, pela autoridade competente, deverão acompanhar o animal, os animais ou os produtos até ao destinatário ou destinatários;\n\ne) Os animais receptores ou os produtos provenientes de animais receptores, não deverão ser originários:\n\ni) De explorações, de centros, de organismos, de zonas ou de regiões que sejam objecto de restrições nos termos da legislação comunitária aplicável aos animais em questão ou aos produtos dos animais em questão, devido a suspeita, aparecimento ou existência de uma das doenças referidas no anexo C, ou à aplicação de medidas de salvaguarda;\n\nii) De uma exploração, de um centro, de um organismo, de uma zona ou de uma região que seja objecto de restrições oficiais devido a suspeita, aparecimento ou existência de doenças não referidas no anexo C ou à aplicação de medidas de salvaguarda;\n\niii) Caso se destinem a uma exploração, a um centro ou a um organismo em algum dos Estados-membros que tenham obtido as garantias em conformidade com o artigo 9.o da Directiva 64/432/CEE ou com outras regras comunitárias equivalentes adoptadas ou a adoptar, ou num Estado cujo território, na totalidade ou em parte, tenha estatuto de indemne, reconhecido pela legislação comunitária em vigor, de uma exploração que não ofereça as garantias exigíveis por esse Estado-membro em relação às doenças não referidas no anexo C;\n\niv) Caso se destinem a um Estado-membro ou a uma parte do território de um Estado-membro que tenha beneficiado de garantias adicionais em conformidade com o artigo 9.o da Directiva 64/432/CEE, ou com outras regras comunitárias equivalentes adoptadas ou a adoptar, de uma exploração, de um centro ou de um organismo e, eventualmente, de uma parte do território que não ofereça as garantias adicionais previstas.\n\nA autoridade competente do país de origem, antes de emitir o certificado ou documento de acompanhamento, certifica-se de que a exploração, o centro ou o organismo se encontra em conformidade com as exigências previstas nesta alínea;\n\nf) Sempre que um transporte tiver vários locais de destino, os animais ou os produtos devem ser agrupados em tantos lotes quantos os destinos. Cada lote deve ser acompanhado dos certificados e/ou documentos referidos na alínea d);\n\ng) Sempre que os animais ou os produtos abrangidos pelas directivas mencionadas no anexo A e em conformidade com as regras comunitárias se destinarem a ser exportados para um país terceiro através do território de outro Estado-membro, o transporte deve permanecer sob controlo aduaneiro até ao local de saída do território da Comunidade — excepto em situações urgentes em que a autoridade competente dê a autorização necessária a fim de assegurar o bem-estar dos animais — segundo regras a definir pela Comissão, deliberando em conformidade com o procedimento previsto no artigo 18.o ou, se for caso disso, no artigo 19.o\n\nAlém disso, no caso dos animais ou produtos que não satisfaçam as regras comunitárias ou no caso dos animais ou produtos referidos no anexo B, o trânsito só se poderá efectuar se tiver sido expressamente autorizado pela autoridade competente do Estado-membro de trânsito.\n\n2. Os Estados-membros procurarão assegurar além disso que:\n\n— os animais e os produtos referidos no artigo 1.o que devam ser eliminados no quadro de um programa nacional de erradicação de doenças não referidas no anexo C não sejam expedidos para o território de outro Estado-membro,\n\n— os animais e os produtos referidos no anexo A ou os animais e os produtos referidos no anexo B não sejam expedidos para o território de outro Estado-membro se não puderem ser comercializados no seu próprio território por motivos sanitários ou de polícia sanitária justificados nos termos do artigo 36.o do Tratado.\n\n3. Sem prejuízo das tarefas de controlo atribuídas ao veterinário oficial pela regulamentação comunitária, a autoridade competente efectuará o controlo das explorações, dos mercados ou dos centros de concentração autorizados, dos centros e dos organismos, a fim de se certificar de que os animais ou produtos destinados ao comércio satisfazem as exigências comunitárias e, em especial, respeitam as condições previstas no n.o 1, alíneas c) e d), em matéria de identificação.\n\nSempre que existir uma suspeita fundamentada de que tais requisitos comunitários não são satisfeitos, a autoridade competente procederá às verificações necessárias e, se tal suspeita for confirmada, tomará as medidas adequadas, que podem ir até à colocação em sequestro da exploração, do centro ou do organismo em questão.\n\n4. A Comissão poderá, segundo o procedimento previsto no artigo 18.o, ou, se for caso disso, no artigo 19.o, adoptar para o presente artigo regras de aplicação destinadas nomeadamente a contemplar a espécie considerada."
+  },
+  "5c9fc700c3f43ee9": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-membros de expedição tomarão as medidas necessárias para garantir que:\n\na) Os detentores de animais e de produtos referidos no artigo 1.o respeitem as exigências sanitárias e zootécnicas nacionais ou comunitárias referidas na presente directiva em todas as fases da produção e da comercialização;\n\nb) Os animais e os produtos referidos no anexo A sejam controlados, do ponto de vista veterinário, de forma pelo menos tão cuidadosa como se fossem destinados ao mercado nacional, salvo derrogação específica prevista na regulamentação comunitária;\n\nc) Os animais sejam transportados em meios de transporte adequados que satisfaçam as normas de higiene.\n\n2. No dia da emissão do certificado ou documento de acompanhamento dos animais ou produtos pela autoridade competente do Estado-membro de origem, esta comunicará à autoridade central competente do Estado-membro de destino e à autoridade competente do local de destino, através do sistema informatizado previsto no artigo 20.o, as informações a especificar pela Comissão segundo o procedimento previsto no artigo 18.o\n\n3. Os Estados-membros de expedição tomarão as medidas adequadas para punir qualquer infracção cometida contra a legislação veterinária e zootécnica por pessoas singulares ou colectivas, sempre que constatarem infracções à legislação comunitária e em especial sempre que se constatar que os certificados, documentos ou marcas de identificação emitidos não correspondem ao estatuto dos animais ou ao das respectivas explorações de origem, ou às características reais dos produtos."
+  },
+  "e23764dea33e641c": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-membros de destino tomarão as seguintes medidas de controlo:\n\na) A autoridade competente pode verificar nos locais de destino dos animais ou produtos e através de controlos veterinários por sondagem e de carácter não discriminatório se os requisitos do artigo 3.o foram respeitados; a autoridade competente pode, nessa altura, proceder à recolha de amostras.\n\nAlém disso, podem ser igualmente efectuados controlos durante o transporte dos animais e dos produtos no seu território no caso de a autoridade competente do Estado-membro de trânsito ou do Estado-membro de destino dispor de elementos de informação que lhe permitam presumir uma infracção;\n\nb) Além disso, sempre que os animais referidos no artigo 1.o e originários de outro Estado-membro se destinarem:\n\ni) A um mercado, ou a um centro de concentração autorizado tal como definido na regulamentação comunitária, o responsável pela exploração desse mercado ou desse centro de concentração autorizado é responsável pela admissão de animais que não satisfaçam as exigências do n.o 1 do artigo 3.o\n\nA autoridade competente deve verificar, através de controlos não discriminatórios dos certificados ou dos documentos que acompanham os animais, se estes satisfazem aquelas exigências;\n\nii) A um matadouro colocado sob a responsabilidade de um veterinário oficial, este último deve velar por que apenas sejam abatidos os animais que satisfizerem as exigências do n.o 1 do artigo 3.o, recorrendo, nomeadamente, ao certificado ou documento de acompanhamento.\n\nO responsável pela exploração do matadouro é responsável pelo abate de animais que não satisfaçam as exigências do n.o 1, alíneas c) e d), do artigo 3.o;\n\niii) A um comerciante registado que proceda ao fraccionamento dos lotes ou a qualquer estabelecimento não sujeito a controlo permanente, este comerciante ou este estabelecimento deverão ser considerados pela autoridade competente como destinatário dos animais, devendo neste caso ser aplicáveis as condições previstas no segundo parágrafo;\n\niv) A explorações, a um centro ou a um organismo, inclusive nos casos de descarga parcial durante o transporte, cada animal ou grupo de animais deverá, nos termos do n.o 1 do artigo 3.o, ser acompanhado do original do certificado sanitário ou do documento de acompanhamento até chegar ao destinatário nele indicado.\n\nOs destinatários referidos nas subalíneas iii) e iv) deverão, antes de qualquer fraccionamento ou comercialização posterior, verificar a presença das marcas de identificação, dos certificados ou dos documentos referidos no n.o 1, alíneas c) e d) do artigo 3.o e assinalar à autoridade competente qualquer incumprimento ou anomalia, devendo neste último caso isolar os animais em questão até que a autoridade competente tenha deliberado sobre o destino a dar-lhes.\n\nAs garantias a fornecer pelos destinatários referidos nas subalíneas iii) e iv) serão determinadas no âmbito de uma convenção a assinar com a autoridade competente por ocasião do registo prévio previsto no artigo 12.o A referida autoridade verificará, através de controlos por sondagem, o cumprimento dessas garantias.\n\nAs disposições da presente alínea aplicam-se mutatis mutandis aos destinatários dos produtos referidos no artigo 1.o\n\n2. Todos os destinatários que figurem no certificado ou documento previstos no n.o 1, alínea d), do artigo 3.o:\n\na) Devem, na medida do necessário para a realização dos controlos referidos no n.o 1, assinalar previamente a chegada de animais ou produtos provenientes de outro Estado-membro, e designadamente a natureza do carregamento e a data previsível da chegada.\n\nContudo, o prazo de notificação não será normalmente superior a um dia; todavia, os Estados-membros poderão exigir dois dias de notificação prévia em circunstâncias excepcionais.\n\nEsta notificação não é exigida para os cavalos registados, munidos de um documento de identificação previsto pela Directiva 90/427/CEE;\n\nb) Conservarão, durante um período a determinar pela autoridade competente mas não inferior a seis meses, os certificados sanitários ou os documentos referidos no artigo 3.o, a fim de serem apresentados à autoridade competente, a seu pedido.\n\n3. As regras de execução do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 18.o ou, se for caso disso, no artigo 19.o"
+  },
+  "76f58aa0dbc8acb5": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Caso a regulamentação comunitária ou a regulamentação nacional nos domínios ainda não harmonizados, e na observância das regras gerais do Tratado, preveja a quarentena de animais vivos, esta terá lugar, normalmente, na exploração de destino.\n\n2. Sempre que for justificada, do ponto de vista veterinário, a colocação em quarentena pode ter lugar numa estação de quarentena. Esta estação é considerada o local de destino da remessa. O Estado-membro em causa notificará a Comissão dos motivos da colocação em quarentena.\n\n3. As obrigações relativas à colocação em quarentena e o respectivo local serão especificados nas condições veterinárias referidas no segundo parágrafo do artigo 21.o\n\n[▼M6](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0496:PT:NOT)"
+  },
+  "ddad0242bd8e2770": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-membros assegurarão que, aquando dos controlos dos animais ou produtos referidos no artigo 1.o provenientes de países terceiros, efectuados nos locais onde podem ser introduzidos nos territórios a que se refere o anexo I da Directiva 90/675/CEE, tais como portos, aeroportos e postos de inspecção fronteiriços com países terceiros, sejam tomadas as seguintes medidas:\n\na) Deverá proceder-se a uma verificação dos certificados ou documentos que acompanham os animais ou os produtos;\n\nb) Os animais e produtos comunitários serão sujeitos às regras de controlo previstas no artigo 5.o;\n\nc) Os produtos dos países terceiros serão sujeitos às regras previstas na Directiva 90/675/CEE;\n\nd) Os animais de países terceiros serão sujeitos às regras previstas na Directiva 91/496/CEE.\n\n2. No entanto, a partir de [►M8](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0060:PT:NOT) 1 de Julho de 1992 ◄ e em derrogação ao n.o 1, todos os animais ou produtos transportados por meios de transporte que assegurem ligações regulares e directas entre dois pontos geográficos da Comunidade ficarão sujeitos às regras de controlo previstas no artigo 5.o\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0425:PT:NOT)"
+  },
+  "199a08972b811790": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Se, num controlo efectuado no local de destino da remessa ou durante o transporte, as autoridades competentes do Estado-membro de destino verificarem:\n\na) A presença de agentes responsáveis por uma doença referida na Directiva 82/894/CEE ([5](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#E0005)), com a última redacção que lhe foi dada pela Decisão 90/134/CEE da Comissão ([6](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#E0006)), de uma zoonose ou de uma doença ou de qualquer outra causa que possa constituir um perigo grave para os animais ou para o homem, ou que os produtos provêm de uma região contaminada por uma doença epizoótica, essas autoridades ordenarão a colocação em quarentena do animal ou do lote de animais no centro de quarentena mais próximo, o seu abate e/ou a sua destruição.\n\nAs despesas decorrentes das medidas previstas no primeiro parágrafo ficarão a cargo do expedidor, do seu mandatário ou da pessoa responsável pelos produtos ou animais.\n\nAs autoridades competentes do Estado-membro de destino comunicarão imediatamente por escrito, através do meio mais adequado, às autoridades competentes dos outros Estados-membros e à Comissão as verificações efectuadas, as decisões tomadas e os motivos das mesmas.\n\nPodem ser aplicadas as medidas de salvaguarda previstas no artigo 10.o\n\nAlém disso, para fazer face a situações não previstas na regulamentação comunitária, a Comissão pode, a pedido de um Estado-membro e em conformidade com o procedimento referido no artigo 17.o, adoptar quaisquer medidas necessárias para definir uma abordagem concertada dos Estados-membros;\n\nb) Que, sem prejuízo do disposto na alínea a), os animais ou produtos não satisfazem as condições estabelecidas nas directivas comunitárias ou, no caso de o Estado-membro obter as garantias em conformidade com o artigo 9.o da Directiva 64/432/CEE ou com as regras comunitárias equivalentes adoptadas ou a adoptar, nas regulamentações nacionais de polícia sanitária, essas autoridades podem, se as condições de salubridade ou de polícia sanitária o permitirem, dar ao expedidor ou ao seu mandatário a possibilidade de escolher entre:\n\n— no caso de presença de resíduos, a sua manutenção sob controlo até que esteja confirmado o cumprimento das regras comunitárias e, em caso de não cumprimento das mesmas, a aplicação das medidas previstas na legislação comunitária,\n\n— o abate dos animais ou a destruição dos produtos,\n\n— a sua reexpedição, com autorização da autoridade competente do Estado-membro de expedição e informação prévia do Estado-membro ou Estados-membros de trânsito.\n\nTodavia, caso os incumprimentos verificados digam respeito ao certificado ou aos documentos, deve ser concedido ao proprietário ou ao seu mandatário um prazo de regularização antes de se recorrer a esta última possibilidade.\n\n2. A Comissão elaborará, de acordo com o procedimento previsto no artigo 18.o, a lista das doenças referidas no n.o 1, bem como as regras de execução do presente artigo."
+  },
+  "8f68cec00be67dfa": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Nos casos previstos no artigo 8.o, a autoridade competente do Estado-membro de destino entrará sem tardar em contacto com as autoridades competentes do Estado-membro de expedição. Estas últimas tomarão todas as medidas necessárias e comunicarão à autoridade competente do primeiro Estado-membro a natureza dos controlos efectuados, as decisões tomadas e os motivos das mesmas.\n\nSe recear que essas medidas não sejam suficientes, a autoridade competente do Estado-membro de destino procurará, com a autoridade competente do Estado-membro de expedição, as formas e os meios de solucionar a situação, se necessário mediante uma visita ao local.\n\nSempre que os controlos previstos no artigo 8.o permitirem verificar a repetição de um incumprimento, a autoridade competente do Estado-membro de destino informará a Comissão e as autoridades competentes dos outros Estados-membros.\n\nA pedido da autoridade competente do Estado-membro de destino ou por sua própria iniciativa, e tendo em conta a natureza das infracções observadas, a Comissão pode:\n\n— enviar ao local, em colaboração com as autoridades nacionais competentes, uma missão de inspecção,\n\n— encarregar um veterinário oficial, cujo nome deve constar numa lista a elaborar pela Comissão sob proposta dos Estados-membros, e que seja aceite pelas diversas partes em causa, de verificar os factos in loco,\n\n— solicitar à autoridade competente que intensifique os controlos da exploração, do centro, do organismo, do mercado ou do centro de concentração autorizados ou da região de origem.\n\nA Comissão informará os Estados-membros das suas conclusões.\n\nNa pendência das conclusões da Comissão, o Estado-membro de expedição deve, a pedido do Estado-membro de destino, reforçar o controlo dos animais ou produtos provenientes da exploracão, do centro, do organismo, do mercado ou do centro de concentração autorizados ou da região em causa e, se existirem razões graves de saúde animal ou de salubridade, suspender a emissão de certificados ou documentos de transporte.\n\nO Estado-membro de destino, por seu lado, pode intensificar o controlo dos animais com a mesma proveniência.\n\nA pedido de um dos dois Estados-membros em questão e caso o parecer do perito confirme os incumprimentos, a Comissão deve, de acordo com o procedimento previsto no artigo 17.o, tomar medidas adequadas, que podem ir até à concessão de autorização aos Estados-membros para recusarem provisoriamente a introdução no seu território de animais ou produtos provenientes da exploração, do centro, do organismo, do mercado ou do centro de concentração autorizados ou da região em questão. Estas medidas devem ser confirmadas ou revistas o mais rapidamente possível, de acordo com o procedimento previsto no artigo 17.o\n\n2. Salvo no caso previsto no quarto parágrafo, as vias de recurso abertas pela legislação em vigor nos Estados-membros contra as decisões das autoridades competentes não são afectadas pela presente directiva.\n\nAs decisões tomadas pela autoridade competente do Estado de destino devem ser comunicadas, com a indicação dos seus fundamentos, ao expedidor ou ao seu mandatário, assim como à autoridade competente do Estado-membro de expedição.\n\nA pedido do expedidor ou do seu mandatário, as decisões fundamentadas devem ser-lhe comunicadas por escrito, com a indicação das vias de recurso que a legislação em vigor no Estado-membro de destino lhe oferece e da forma e dos prazos em que esses recursos devem ser interpostos.\n\nNo entanto, em caso de litígio, as duas partes em causa, se assim o acordarem, podem, no prazo máximo de um mês, submeter o litígio à apreciação de um perito que conste de uma lista de peritos da Comunidade a elaborar pela Comissão, ficando as despesas relativas à peritagem a cargo da Comunidade.\n\nO perito fica encarregado de emitir parecer num prazo máximo de 72 horas, ou após recepção dos resultados das análises eventualmente efectuadas. As partes acatarão o parecer do perito, na observância da legislação veterinária comunitária.\n\n3. As despesas relativas à reexpedição da remessa, à parcagem ou à colocação em sequestro dos animais ou, se for caso disso, ao seu abate ou destruição ficam a cargo do expedidor, do seu mandatário ou do responsável pelos animais ou produtos.\n\n4. As regras de execução do presente artigo são adoptadas em conformidade com o procedimento previsto no artigo 18.o ou, se for caso disso, no artigo 19.o"
+  },
+  "c3e2aeceb0c45e6b": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Cada Estado-membro assinalará imediatamente aos outros Estados-membros e à Comissão, para além do aparecimento no seu território das doenças previstas na Directiva 82/894/CEE, o aparecimento de zoonoses, doenças ou do que quer que possa constituir um perigo grave para os animais ou para a saúde humana.\n\nO Estado-membro de expedição aplicará imediatamente as medidas de luta ou de prevenção previstas na regulamentação comunitária e, nomeadamente, determinará as zonas de protecção nela previstas ou decidirá qualquer outra medida que considere apropriada.\n\nO Estado-membro de destino ou de trânsito que, por ocasião de um dos controlos referidos no artigo 5.o, verificar a existência de uma das doenças ou factores de perigo referidos no primeiro parágrafo pode, se tal for considerado necessário, tomar as medidas de prevenção previstas na regulamentação comunitária, incluindo a colocação dos animais em quarentena.\n\nEnquanto aguarda a tomada de medidas nos termos do n.o 4, o Estado-membro de destino pode, por razões graves de protecção da saúde pública ou animal, tomar medidas cautelares em relação às explorações, centros ou organismos em questão ou, no caso de uma epizootia, em relação à zona de protecção prevista na regulamentação comunitária.\n\nAs medidas tomadas pelos Estados-membros serão comunicadas sem tardar à Comissão e aos outros Estados-membros.\n\n2. Um ou vários representantes da Comissão podem, a pedido do Estado-membro referido no primeiro parágrafo do n.o 1 ou por iniciativa da Comissão, deslocar-se imediatamente ao local para examinar, em colaboração com as autoridades competentes, as medidas tomadas, emitindo um parecer sobre essas medidas.\n\n3. Se não tiver sido informada das medidas tomadas ou se as considerar insuficientes, a Comissão pode, em colaboração com o Estado-membro interessado e na pendência da reunião do Comité Veterinário Permanente, tomar medidas cautelares em relação aos animais ou produtos provenientes da região afectada pela epizootia ou de uma dada exploração, centro ou organismo. Essas medidas serão, o mais rapidamente possível, submetidas à apreciação do Comité Veterinário Permanente para serem confirmadas, alteradas ou anuladas de acordo com o procedimento previsto no artigo 17.o\n\n4. Em qualquer dos casos, a Comissão procederá, o mais rapidamente possível, à análise da situação a nível do Comité Veterinário Permanente. A Comissão adoptará, de acordo com o procedimento previsto no artigo 17.o, as medidas necessárias para os animais e produtos referidos no artigo 1.o e, se a situação o exigir, para os produtos derivados, desses animais. A Comissão seguirá a evolução da situação e, de acordo com o mesmo procedimento, alterará ou revogará as decisões tomadas, em função dessa evolução.\n\n5. As regras de execução do presente artigo e, nomeadamente, a lista das zoonoses ou outras causas susceptíveis de constituir um perigo grave para a saúde humana serão adoptadas de acordo com o procedimento previsto no artigo 18.o"
+  },
+  "538928ea193b7e18": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nCada Estado-membro e a Comissão designarão o ou os serviços competentes em matéria de controlos veterinários que assegurarão os controlos veterinários e a colaboração com os serviços de controlo dos outros Estados-membros."
+  },
+  "baf12d906d0b8171": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-membros deverão providenciar para que todos os operadores que procedem ao comércio intracomunitário de animais e/ou produtos referidos no artigo 1.o:\n\na) Sejam obrigados, a pedido da autoridade competente, a efectuar um registo prévio num registo oficial;\n\nb) Mantenham um livro de registos no qual sejam mencionadas as entregas e, para os destinatários referidos no n.o 1, alínea b), subalínea iii) do artigo 5.o, o posterior destino dos animais ou produtos.\n\nEste registo deverá ser conservado por um prazo a fixar pela autoridade nacional competente para poder ser apresentado à autoridade competente, a pedido desta."
+  },
+  "e48b3df607b9ffd7": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs Estados-membros assegurarão igualmente que os agentes dos respectivos serviços veterinários, se necessário em colaboração com os agentes de outros serviços habilitados para esse fim, possam nomeadamente:\n\n— inspeccionar as explorações, instalações, meios de transporte e processos utilizados na marcação e identificação dos animais,\n\n— proceder, no que se refere aos produtos constantes no anexo A, a controlos do cumprimento pelo pessoal das exigências previstas nos textos referidos no dito anexo,\n\n— efectuar colheitas de amostras:\n\ni) nos animais detidos para venda, colocados em circulação ou transportados;\n\nii) nos produtos detidos para venda ou armazenagem, colocados no mercado ou transportados,\n\n— analisar o material documental ou informático útil aos controlos resultantes das medidas tomadas por força da presente directiva.\n\nOs Estados-membros devem exigir da parte das explorações, centros ou organismos controlados a colaboração necessária à execução das tarefas acima referidas."
+  },
+  "2f048d4674fd6934": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. A Directiva 64/432/CEE ([7](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#E0007)), coma última redacção que lhe foi dada pela Directiva 89/662/CEE ([8](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#E0008)), é alterada do seguinte modo:\n\na) O artigo 6.\n\no\n\né substituído pelo seguinte texto:\n\n«Artigo 6.o\n\nOs animais de abate que, imediatamente após a chegada ao país destinatário, tenham sido, directamente ou após passagem por um mercado ou por um centro de concentração autorizado, conduzidos a um matadouro, devem aí ser abatidos, logo que possível, de acordo com os requisitos da polícia sanitária.\n\nOs animais de abate que, imediatamente após a chegada ao país destinatário, tenham sido conduzidos a um mercado contíguo a um matadouro, cujo regulamento apenas permita a saída dos animais para um matadouro autorizado para esse efeito pela autoridade central competente, devem ser abatidos nesse matadouro, o mais tardar até cinco dias após a sua entrada no mercado.\n\nA autoridade competente do país destinatário poderá, por razões de polícia sanitária, designar o matadouro para onde devem ser conduzidos os animais.»\n\n;\n\nb) Suprimem-se o n.o 3 do artigo 7.o e o primeiro parágrafo do n.o 2 do artigo 8.o;\n\nc) Os artigos 9.\n\no\n\ne 10.\n\no\n\nsão substituídos pelos seguintes artigos:\n\n«Artigo 9.o\n\n1.1. Um Estado-membro que disponha de um programa nacional obrigatório de luta contra uma das doenças contagiosas não referidas no anexo E, aplicável em todo ou parte do seu território, pode apresentá-lo à Comissão indicando, nomeadamente:\n\n— a situação da doença no seu território,\n\n— a justificação do programa em função da importância da doença e da relação custos/benefícios prevista,\n\n— a zona geográfica em que o programa vai ser aplicado,\n\n— os diferentes estatutos aplicáveis aos estabelecimentos e as normas que devem ser atingidas em cada categoria, bem como os processos de teste,\n\n— os processos de controlo desse programa,\n\n— as consequências da perda do estatuto do estabelecimento, independentemente da razão dessa perda,\n\n— as medidas a tomar no caso de se constatarem resultados positivos aquando dos controlos efectuados em conformidade com as disposições do programa.\n\n2. A Comissão examinará os programas comunicados pelos Estados-membros. Os programas podem ser aprovados dentro do respeito dos critérios previstos no n.o 1, em conformidade com o procedimento previsto no artigo 12.o De acordo com o mesmo procedimento, as garantias complementares que podem ser exigidas no âmbito do comércio intracomunitário serão especificadas simultaneamente ou o mais tardar três meses após a aprovação dos programas. Essas garantias devem ser, no máximo, equivalentes às que o Estado-membro exige no âmbito nacional.\n\n3. O programa apresentado pelo Estado-membro pode ser alterado ou completado em conformidade com o procedimento previsto no artigo 12.o De acordo com o mesmo procedimento, pode ser aprovada qualquer alteração ou complemento a um programa aprovado anteriormente, bem como às garantias definidas em conformidade com o n.o 2."
+  },
+  "e820583ad4fe97c1": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1.1. Qualquer Estado-membro que considere estar total ou parcialmente indemne de uma das doenças que os bovinos e porcinos são susceptíveis de contrair deve apresentar à Comissão as provas adequadas. Deve indicar, nomeadamente:\n\n— a natureza da doença e o historial do seu aparecimento no seu território,\n\n— os resultados dos testes de vigilância baseados numa pesquisa serológica, microbiológica, patológica ou epidemiológica, e no facto de essa doença ser de declaração obrigatória às autoridades competentes,\n\n— a duração da vigilância exercida,\n\n— eventualmente, o período durante o qual foi proibida a vacinação contra a doença e a zona geográfica abrangida por essa proibição,\n\n— as normas que permitem o controlo da ausência da doença.\n\n2. A Comissão examinará as provas apresentadas pelo Estado-membro. As garantias complementares, gerais ou limitadas, que podem ser exigidas no âmbito do comércio intracomunitário, podem ser especificadas em conformidade com o procedimento previsto no artigo 12.o Essas garantias devem ser, no máximo, equivalentes às que o Estado-membro exige no âmbito nacional. No caso de as provas serem apresentadas até 1 de Julho de 1991, devem ser tomadas decisões acerca das garantias adicionais antes de 1 de Janeiro de 1992.\n\n3. Estado-membro em causa comunicará à Comissão qualquer alteração das provas relativas à doença referidas no n.o 1. A luz dessas informações as garantias definidas em conformidade com o n.o 2 podem ser alteradas ou suprimidas de acordo com o procedimento previsto no artigo 12.o»\n\n.\n\n2. Suprimem-se os parágrafos segundo a quinto do n.o 2 do artigo 5.o e os artigos 7.o e 15.o da Directiva 88/407/CEE ([9](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#E0009)).\n\n3. Suprimem-se os parágrafos segundo a quarto do n.o 2 do artigo 5.o e o artigo 14.o da Directiva 89/556/CEE ([10](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#E0010)).\n\n4. Na quinta linha do primeiro parágrafo do artigo 13.o da Directiva 72/462/CEE ([11](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#E0011)), com a última redacção que lhe foi dada pela Directiva 89/227/CEE ([12](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#E0012)), «três» é substituído por «cinco»."
+  },
+  "25c1039a3bf52ae5": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Nas Directivas 64/432/CEE e 89/556/CEE é inserido o seguinte artigo 14.o:\n\n«Artigo 14.o\n\nSão aplicáveis as regras previstas na Directiva 90/425/CEE do Conselho, de 26 de Junho de 1990, relativa aos controlos veterinários aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno ([13](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#E0013)), nomeadamente no que se refere aos controlos na origem, à organização e ao seguimento a dar aos controlos a efectuar pelo país destinatário, e às medidas de salvaguarda a tomar.»\n\n1..\n\n2. Na Directiva 88/407/CEE é inserido o seguinte artigo 15.o:\n\n«Artigo 15.o\n\nSão aplicáveis as regras previstas na Directiva 90/425/CEE do Conselho, de 26 de Junho, relativa aos controlos veterinários aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno ([14](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#E0014)), nomeadamente no que se refere aos controlos na origem, à organização e ao seguimento a dar aos controlos a efectuar pelo Estado-membro de destino, e às medidas de salvaguarda a tomar.»\n\n2..\n\n3. O artigo 9.o da Directiva 90/426/CEE é substituído pelo seguinte texto:\n\n«Artigo 9.o\n\nSão aplicáveis as regras previstas na Directiva 90/425/CEE do Conselho, de 26 de Junho de 1990, relativa aos controlos veterinários aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno ([15](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#E0015)), nomeadamente no que se refere aos controlos na origem, à organização e ao seguimento a dar aos controlos a efectuar pelo Estado-membro de destino, e às medidas de salvaguarda a tomar.»\n\n3.."
+  },
+  "559a25abe4a62b90": {
+   "fragment_id": "Artigo 16.º — A Comissão pode alterar a lista das doenças enumeradas no anexo C, segundo o procedimento previsto no artigo 18.o",
+   "type": "artigo",
+   "heading": "Artigo 16.º — A Comissão pode alterar a lista das doenças enumeradas no anexo C, segundo o procedimento previsto no artigo 18.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — A Comissão pode alterar a lista das doenças enumeradas no anexo C, segundo o procedimento previsto no artigo 18.o"
+  },
+  "d9a478bfbfbd5ba0": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nNos casos em que se faça referência ao procedimento previsto no presente artigo, o Comité Veterinário Permanente, criado pela Decisão 68/361/CEE ([16](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#E0016)), decidirá em conformidade com as regras estabelecidas no artigo 17.o da Directiva 89/662/CEE."
+  },
+  "5e7ef914be3c2f1c": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nNos casos em que se faça referência ao procedimento previsto no presente artigo, o Comité Veterinário Permanente decidirá em conformidade com as regras estabelecidas no artigo 18.o da Directiva 89/662/CEE."
+  },
+  "5c6f44fb42f4f5c8": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nNos casos em que se faça referência ao procedimento previsto no presente artigo, o Comité Zootécnico Permanente, criado pela Decisão 77/505/CEE ([17](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#E0017)) do Conselho, decidirá em conformidade com as regras estabelecidas no artigo 11.o da Directiva 88/661/CEE ([18](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#E0018))."
+  },
+  "f5e33b7a5f7e97bb": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. A Comissão criará, de acordo com o procedimento previsto no artigo 18.o, um sistema informatizado de ligação entre autoridades veterinárias a fim de, nomeadamente, facilitar o intercâmbio de informação entre as autoridades competentes das regiões em que foi emitido um certificado ou documento sanitários de acompanhamento de animais e produtos de origem animal e as autoridades competentes do Estado-membro de destino.\n\n2. As modalidades da participação financeira comunitária previstas no artigo 37.o da Decisão 90/424/CEE, necessárias à realização desse programa, serão adoptadas de acordo com o processo previsto no artigo 42.o daquela decisão.\n\n3. De acordo com o processo previsto no artigo 18.o, a Comissão adopta as regras de execução do presente artigo e, designadamente, as normas adequadas em matéria de intercâmbio de dados e de regras de segurança dos dados permutados."
+  },
+  "f0197e9dd334c33f": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n[►M8](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0060:PT:NOT) ————— ◄ O comércio dos animais e dos produtos referidos no anexo B ficará sujeito, na pendência de regulamentação comunitária e sem prejuízo da manutenção de eventuais regras previstas a nível nacional para a identificação dos lotes, às regras de controlo enumeradas na presente directiva e, em especial, às mencionadas no n.o 1, alínea a), segunda parte de frase, do artigo 3.o\n\n[▼M8](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0060:PT:NOT)\n\nOs Estados-membros comunicarão à Comissão e aos outros Estados-membros as condições e regras aplicáveis às trocas comerciais dos animais e produtos referidos no primeiro parágrafo.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0425:PT:NOT)\n\nA Comissão determinará, de acordo com o procedimento previsto no artigo 17.o, as medidas necessárias à informatização do levantamento das condições referidas no segundo parágrafo.\n\nAs regras de controlo previstas para os animais e produtos referidos no anexo A serão alargadas aos animais e produtos de origem animal ainda não abrangidos por este anexo quando forem adoptadas as regras harmonizadas que regerão as suas trocas.[►M8](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0060:PT:NOT) ————— ◄\n\n[▼M8](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0060:PT:NOT)"
+  },
+  "ef6c3adeb9c24f2e": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. Os Estados-membros comunicarão à Comissão, segundo um modelo harmonizado, as informações essenciais relativas aos controlos efectuados ao abrigo da presente directiva.\n\n2. A Comissão examinará as informações referidas no n.o 1 no âmbito do Comité veterinário permanente. A Comissão pode, de acordo com o procedimento previsto no artigo 18.o, adoptar as medidas adequadas.\n\n3. As modalidades de aplicação do presente artigo, nomeadamente a periodicidade da comunicação das informações, o modelo a adoptar e a natureza dessas informações, serão estabelecidas de acordo com o procedimento previsto no artigo 18.o\n\n[▼M6](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0496:PT:NOT)"
+  },
+  "0dfb6196fc7d8e49": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nCom base num relatório acompanhado de eventuais propostas sobre as quais deliberará por maioria qualificada, o Conselho reanalisará:\n\n— as disposições do artigo 10.o e do n.o 2, alínea a), do artigo 5.o, antes de 1 de Janeiro de 1993,\n\n— as outras disposições, antes de 1 de Janeiro de 1996.\n\n[▼M8](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0060:PT:NOT)"
+  },
+  "3f80e196eeb6860b": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nAté 31 de Dezembro de 1992 e a fim de permitir uma aplicação progressiva do regime de controlo previsto na presente directiva, os Estados-membros podem efectuar durante o transporte:\n\n— um controlo documental dos animais e produtos a que se referem os anexos A e B ou importados de países terceiros,\n\n— controlos veterinários, por sondagem e de natureza não discriminatória, dos animais e produtos a que se refere o anexo B.\n\n[▼M8](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0060:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0425:PT:NOT)"
+  },
+  "11bedfea1850d39b": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento:\n\ni) Ao artigo 10.o e ao artigo 9.o da Directiva 89/662/CEE, dois meses após a data de notificação da presente directiva;\n\n[▼M6](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0496:PT:NOT)\n\nas outras disposições da presente directiva, em 1 de Julho de 1992.\n\n[▼M6](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0496:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0425:PT:NOT)"
+  },
+  "cf25b7b599ca5113": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nSão destinatários da presente directiva os Estados-membros.\n\n[▼M10](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0118:PT:NOT)"
+  },
+  "217e217679fe195a": {
+   "fragment_id": "ANEXO A — CAPÍTULO I",
+   "type": "divisao",
+   "heading": "ANEXO A — CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A — CAPÍTULO I\n\nLEGISLAÇÃO VETERINÁRIA"
+  },
+  "c91e63908e03b43e": {
+   "fragment_id": "Secção 1",
+   "type": "divisao",
+   "heading": "Secção 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 1\n\n— Directiva 64/432/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas de fiscalização sanitária em matéria de comércio intracomunitário de animais das espécies bovina e suína (JO n.o L 121 de 29. 7. 1964, p. 1977/64).\n\n— Directiva 88/407/CEE do Conselho, de 14 de Junho de 1988, que fixa as exigências de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações de sémen congelado de animais da espécie bovina (JO n.o L 194 de 22. 7. 1988, p. 10).\n\n— Directiva 89/556/CEE do Conselho, de 25 de Setembro de 1989, que estabelece as condições de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações provenientes de países terceiros de embriões de animais da espécie bovina (JO n.o L 302 de 19. 10. 1989, p. 1).\n\n— Directiva 90/426/CEE do Conselho, de 26 de Junho de 1990, relativa às condições de polícia sanitária que regem a circulação de equídeos e as importações de equídeos provenientes de países terceiros (JO n.o L 224 de 18. 8. 1990, p. 42).\n\n— Directiva 90/429/CEE do Conselho, de 26 de Junho de 1990, que fixa as exigências de polícia sanitária aplicáveis às trocas comerciais intracomunitárias a às importações de sémen de animais da espécie suína (JO n.o L 224 de 18. 8. 1990, p. 62).\n\n— Directiva 90/539/CEE do Conselho, de 15 de Outubro de 1990, relativa às condições de polícia sanitária que regem o comércio intracomunitário e as importações de aves de capoeira e de ovos para incubação provenientes de países terceiros (JO n.o L 303 de 31. 10. 1990, p. 6).\n\n[▼M11](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0033:PT:NOT)\n\n— Regulamento (CE) n.o 1774/2002 do Parlamento Europeu e do Conselho, de 3 de Outubro e 2002, que estabelece as regras sanitárias relativas aos subprodutos animais não destinados ao consumo humano (JO L 273 de 10.10.2002, p. 1).\n\n[▼M10](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0118:PT:NOT)\n\n— Directiva 91/67/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem a introdução no mercado de animais e produtos da aquicultura (JO n.o L 46 de 19. 2. 1991, p. 1).\n\n— Directiva 91/68/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem as trocas comerciais intracomunitárias de ovinos e caprinos (JO n.o L 46 de 19. 2. 1991, p. 19).\n\n— Directiva 91/628/CEE do Conselho, de 19 de Novembro de 1991, realtiva à protecção dos animais durante o transporte e que altera as directiva 90/425/CEE e 91/496/CEE (JO n.o L 340 de 11. 12. 1991, p. 17)."
+  },
+  "10bf1c85f223b9a6": {
+   "fragment_id": "Secção 2",
+   "type": "divisao",
+   "heading": "Secção 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 2\n\nDirectiva 92/65/CEE do Conselho, de 13 de Julho de 1992, que define as condições de polícia sanitária que regem o comércio e as importações na Comunidade de animais, sémens, óvulos e embriões não sujeitos, no que se refere às condições de polícia sanitária, às regulamentações comunitárias específicas referidas na secção I do anexo A da Directiva 90/425/CEE (JO n.o L 268 de 14. 9. 1992, p. 54).\n\n— Para os agentes patogénicos\n\nDirectiva 92/118/CEE do Conselho, de 17 de Dezembro de 1992, que define as condições sanitárias e de polícia sanitária que regem o comércio e as importações na Comunidade de produtos não sujeitos, no que respeita às referidas condições, às regulamentações comunitárias específicas referidas no capítulo I do anexo A da Directiva 89/662/CEE e, no que respeita aos agentes patogénicos, no capítulo I do anexo A da Directiva 90/425/CEE."
+  },
+  "59491887170c0597": {
+   "fragment_id": "CAPÍTULO II — LEIGISLAÇÃO ZOOTÉCNICA",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — LEIGISLAÇÃO ZOOTÉCNICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — LEIGISLAÇÃO ZOOTÉCNICA\n\n— Directiva 77/504/CEE do Conselho, de 25 de Julho de 1977, que diz respeito aos animais da espécie bovina reprodutores de raça pura (JO n.o L 206 de 12. 8. 1977, p. 8).\n\n— Directiva 88/661/CEE do Conselho, de 19 de Dezembro de 1988, relativa às normas zootécnicas aplicáveis aos animais reprodutores da espécie suína (JO n.o L 382 de 31. 12. 1988, p. 36).\n\n— Directiva 89/361/CEE do Conselho, de 30 de Maio de 1989, relativa aos animais reprodutores das espécies ovina e caprina (JO n.o L 153 de 6. 6. 1989, p. 30).\n\n— Directiva 90/427/CEE do Conselho, de 26 de Junho de 1990, relativa às condições zootécnicas e genealógicas que regem o comércio intracomunitário de equídeos (JO n.o L 224 de 18. 8. 1990, p. 55).\n\n— Directiva 91/174/CEE do Conselho, de 25 de Março de 1991, relativa às condições zootécnicas e genealógicas que regem a comercialização de animais de raça e que altera as directivas 77/504/CEE e 90/425/CEE (JO n.o L 85 de 5. 4. 1991, p. 37)."
+  },
+  "c689c724ac3c7826": {
+   "fragment_id": "ANEXO B — ANIMAIS REPRODUTORES NÃO SUJEITOS A HARMONIZAÇÃO MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA",
+   "type": "divisao",
+   "heading": "ANEXO B — ANIMAIS REPRODUTORES NÃO SUJEITOS A HARMONIZAÇÃO MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B — ANIMAIS REPRODUTORES NÃO SUJEITOS A HARMONIZAÇÃO MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA"
+  },
+  "59587711a1b6b2aa": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I\n\nLegislação veterinária — Outros animais vivos que não constam do capítulo I do anexo A."
+  },
+  "3e7506b64d91a557": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II\n\nLegislação veterinária — Sémens, óvulos e embriões que não constam do capítulo I do anexo A.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0425:PT:NOT)"
+  },
+  "6372da809a6f8de4": {
+   "fragment_id": "ANEXO C — LISTA DAS DOENÇAS OU EPIZOOTIAS QUE REQUEREM UMA ACÇÃO URGENTE OBRIGATÓRIA, COM RESTRIÇÕES TERRITORIAIS (ESTADOS-MEMBROS, REGIÕES OU ZONAS)",
+   "type": "divisao",
+   "heading": "ANEXO C — LISTA DAS DOENÇAS OU EPIZOOTIAS QUE REQUEREM UMA ACÇÃO URGENTE OBRIGATÓRIA, COM RESTRIÇÕES TERRITORIAIS (ESTADOS-MEMBROS, REGIÕES OU ZONAS)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C — LISTA DAS DOENÇAS OU EPIZOOTIAS QUE REQUEREM UMA ACÇÃO URGENTE OBRIGATÓRIA, COM RESTRIÇÕES TERRITORIAIS (ESTADOS-MEMBROS, REGIÕES OU ZONAS)\n\n— Febre aftosa\n\n— Peste suína clássica\n\n— Peste suína africana\n\n— Doença vesiculosa do suíno\n\n— Doença de Newcastle\n\n— Peste bovina\n\n— Peste dos pequenos ruminantes\n\n— Estomatite vesiculosa\n\n— Febre catarral\n\n— Peste equina\n\n— Encefalomielite viral do cavalo\n\n— Doença de Teschen\n\n— Gripe aviária\n\n— Varíola ovina e caprina\n\n— Dermatite nodular contagiosa\n\n— Febre do Vale do Rift\n\n— Peripneumonia contagiosa bovina\n\n([1](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#src.E0001)) JO n.o C 225 de 31. 8. 1988, p. 4.\n\n([2](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#src.E0002)) JO n.o C 326 de 19. 12. 1988, p. 28.\n\n([3](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#src.E0003)) JO n.o C 56 de 6. 3. 1989, p. 20.\n\n([4](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#src.E0004)) Ver a página 42 do presente Jornal Oficial.\n\n([5](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#src.E0005)) JO n.o L 378 de 31. 12. 1982, p. 58.\n\n([6](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#src.E0006)) JO n.o L 76 de 22. 3. 1990, p. 23.\n\n([7](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#src.E0007)) JO n.o 121 de 29. 7. 1964, p. 2012/64.\n\n([8](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#src.E0008)) JO n.o L 395 de 30. 12. 1989, p. 13.\n\n([9](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#src.E0009)) JO n.o L 134 de 22. 7. 1988, p. 10.\n\n([10](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#src.E0010)) JO n.o L 302 de 19. 10. 1989, p. 1.\n\n([11](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#src.E0011)) JO n.o L 302 de 31. 12. 1972, p. 28.\n\n([12](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#src.E0012)) JO n.o L 93 de 6. 4. 1989, p. 25.\n\n([13](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#src.E0013)) JO n.o L 224 de 18. 8. 1990, p. 29.\n\n([14](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#src.E0014)) JO n.o L 224 de 18. 8. 1990, p. 29.\n\n([15](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#src.E0015)) JO n.o L 224 de 18. 8. 1990, p. 29.\n\n([16](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#src.E0016)) JO n.o L 134 de 22. 7. 1988, p. 10.\n\n([17](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#src.E0017)) JO n.o L 206 de 12. 8. 1977, p. 11.\n\n([18](http://publications.europa.eu/resource/cellar/cc30de8a-5931-4e5a-b83b-17ea8c9dc551.0018.02/DOC_1#src.E0018)) JO n.o L 382 de 31. 12. 1988, p. 16."
+  },
+  "d4c0ba55833ee29d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01990L0425 — PT — 14.12.2019 — 013.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31990L0425) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31990L0425) [de 26 de junho de 1990](http://publications.europa.eu/resource/celex/31990L0425) [relativa aos controlos veterinários aplicáveis ao comércio intra-União de certos animais vivos e produtos, na perspectiva da realização do mercado interno](http://publications.europa.eu/resource/celex/31990L0425) [(90/425/CEE)](http://publications.europa.eu/resource/celex/31990L0425) (JO L 224, 18.8.1990, p.29)\n\n**Revogada por:**\n\n- [Regulamento (UE) 2017/625 do Parlamento Europeu e do Conselho de 15 de março de 2017](http://publications.europa.eu/resource/celex/32017R0625) — L 95 — 1 — 7.4.2017"
+  }
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994L0020:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0020-20141101",
+ "dre_path": null,
+ "source_lastmod": "2014-11-01",
+ "versions": [
+  {
+   "date": "1994-07-29",
+   "future": false,
+   "celex": "31994L0020",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "46866d4c711957b4",
+    "d658e5a13e8a8f2f",
+    "85fb531f6cdf3eaf",
+    "3d67e86b0d515b3f",
+    "fdd4c9430941cf20"
+   ]
+  },
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "celex": "01994L0020-20141101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º"
+   ],
+   "fragments": [
+    "931f93269962bf85"
+   ]
+  }
+ ],
+ "fragments": {
+  "46866d4c711957b4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 94/20/CE do Parlamento Europeu e do Conselho, de 30 de Maio de 1994, relativa aos dispositivos mecânicos de engate dos veículos a motor e seus reboques e à sua fixação a esses veículos** *Jornal Oficial nº L 195 de 29/07/1994 p. 0001 - 0060 Edição especial finlandesa: Capítulo 13 Fascículo 26 p. 0136 Edição especial sueca: Capítulo 13 Fascículo 26 p. 0136*\n\nDIRECTIVA 94/20/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de Maio de 1994 relativa aos dispositivos mecânicos de engate dos veículos a motor e seus reboques e à sua fixação a esses veículos\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºB do Tratado (3),\n\nConsiderando que o mercado interno compreende um espaço sem fronteiras internas no qual é assegurada a livre circulação de mercadorias, pessoas, serviços e capitais; que há que adoptar as medidas necessárias para o efeito;\n\nConsiderando que os requisitos técnicos que os veículos a motor e seus reboques devem respeitar nos termos das legislações nacionais abrangem, nomeadamente, os engates mecânicos dos referidos veículos;\n\nConsiderando que esses requisitos variam de uns Estados-membros para outros; que é, por conseguinte, necessário que todos os Estados-membros adoptem os mesmos requisitos, quer conjuntamente com as regras existentes, quer em sua substituição, por forma a possibilitar, nomeadamente, a aplicação do procedimento de homologação CEE, objecto da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques (4), ainda por executar;\n\nConsiderando que a presente directiva será uma das directivas específicas do processo de recepção estabelecido na Directiva 70/156/CEE; que, por conseguinte, as disposições da Directiva 70/156/CEE sobre sistemas de veículos, componentes e unidades técnicas separadas são aplicáveis à presente directiva;\n\nConsiderando que, para aumentar a segurança rodoviária e melhorar a compatibilidade dos veículos a motor e seus reboques em trânsito internacional, importa que todos os tipos de veículo que se integrem num conjunto veículo-reboque ou que formem um veículo articulado sejam equipados com sistemas mecânicos de engate normalizados e harmonizados;\n\nConsiderando que é conveniente observar os requisitos técnicos do Regulamento nº 55 da Comissão Económica para a Europa das Nações Unidas (ECE), relativo às disposições uniformes respeitantes aos componentes dos engates mecânicos de combinações de veículos; que o referido regulamento se encontra anexo ao Acordo de 20 de Março de 1958 relativo à adopção de condições uniformes de aprovação e de reconhecimento mútuo de aprovação de equipamento e peças de veículos a motor;\n\nConsiderando que, em relação às dimensões uniformes dos sistemas mecânicos de engate, se atendeu sobretudo a normas internacionais (ISO), por forma a assegurar a compatibilidade dos veículos que se integram em conjuntos veículo-reboque ou que formam veículos articulados e a garantir a livre circulação de mercadorias entre os Estados-membros,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "d658e5a13e8a8f2f": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nPara efeitos da presente directiva, entende-se por:\n\n- «veículo», qualquer veículo a motor, definido no artigo 2º da Directiva 70/156/CEE, destinado a circular na via pública, completo ou incompleto, com pelo menos quatro rodas e uma velocidade máxima de projecto superior a 25 km/h, e respectivos reboques, com excepção dos veículos que se deslocam sobre carris, dos tractores agrícolas e florestais e de todas as máquinas móveis,\n\n- «tipo de engate mecânico», um dispositivo mecânico de engate ao qual pode ser concedida a homologação como componente, na acepção do artigo 2º da Directiva 70/156/CEE."
+  },
+  "85fb531f6cdf3eaf": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nOs Estados-membros não podem recusar:\n\n- a recepção CEE ou a recepção nacional de um veículo, nem recusar ou proibir a venda, registo, entrada em serviço ou utilização de um veículo por este se encontrar equipado com dispositivos mecânicos de engate facultativos,\n\n- a homologação CEE ou a homologação nacional de um dispositivo mecânico de engate, nem proibir a venda ou utilização de um dispositivo mecânico de engate,\n\nse forem preenchidos os requisitos dos anexos."
+  },
+  "3d67e86b0d515b3f": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros adoptarão e publicarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva num prazo de dezoito meses a contar da data da sua adopção. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\nEssas disposições serão aplicáveis dezoito meses a contar da data de adopção da presente directiva."
+  },
+  "fdd4c9430941cf20": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 30 de Maio de 1994.\n\nPelo Parlamento Europeu O Presidente E. KLEPSCH Pelo Conselho O Presidente Th. PANGALOS\n\n(1) JO nº C 134 de 25. 5. 1992, p. 36.\n\n(2) JO nº C 313 de 30. 11. 1992, p. 10.\n\n(3) Parecer do Parlamento Europeu de 29 de Outubro de 1992 (JO nº C 305 de 23. 11. 1992, p. 115). Posição comum do Conselho de 27 de Setembro de 1993 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 9 de Março de 1994 (ainda não publicada no Jornal Oficial).\n\n(4) JO nº L 42 de 23. 2. 1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 92/53/CEE (JO nº L 225 de 10. 8. 1992, p. 1)."
+  },
+  "931f93269962bf85": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1994L0020 — PT — 01.11.2014 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31994L0020) [DIRECTIVA 94/20/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/31994L0020) [de 30 de Maio de 1994](http://publications.europa.eu/resource/celex/31994L0020) [relativa aos dispositivos mecânicos de engate dos veículos a motor e seus reboques e à sua fixação a esses veículos](http://publications.europa.eu/resource/celex/31994L0020) (JO L 195, 29.7.1994, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 661/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0661) — L 200 — 1 — 31.7.2009"
+  }
+ }
+}

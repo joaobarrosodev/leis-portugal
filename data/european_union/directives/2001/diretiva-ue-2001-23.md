@@ -35,6 +35,50 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-10-09'
+version_history:
+  file: diretiva-ue-2001-23.versoes.json
+  count: 2
+  source_lastmod: '2015-10-09'
+  versions:
+  - date: '2001-03-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-10-09'
+    amending: eu:celex:32015L1794:por
+    amending_title: DIRETIVA (UE) 2015/1794 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 6 de
+      outubro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 14.º
+    - Adita CAPÍTULO I
+    - Adita Âmbito de aplicação e definições
+    - Adita CAPÍTULO II
+    - Adita Manutenção dos direitos dos trabalhadores
+    - Adita CAPÍTULO III
+    - Adita Informação e consulta
+    - Adita CAPÍTULO IV
+    - Adita Disposições finais
+    - Adita ANEXO I
+    - Adita PARTE A
+    - Adita Directiva revogada e sua modificação
+    - Adita (referidas no artigo 12. º )
+    - Adita PARTE B
+    - Adita Lista dos prazos de transposição para o direito nacional
+    - Adita (referidos no artigo 12. º )
+    - Adita ANEXO II
+    - Adita Notas
+    - Suprime CAPÍTULO I — Âmbito de aplicação e definições
+    - Suprime CAPÍTULO II — Manutenção dos direitos dos trabalhadores
+    - Suprime CAPÍTULO III — Informação e consulta
+    - Suprime CAPÍTULO IV — Disposições finais
+    - Suprime ANEXO I — PARTE A
+    - Suprime PARTE B — Lista dos prazos de transposição para o direito nacional
+    - Suprime ANEXO II — TABELA DE CORRESPONDÊNCIAS
 identifiers:
   celex: 32001L0023
   eli: http://data.europa.eu/eli/dir/2001/23/oj
@@ -49,7 +93,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/41905bd3-15dc-4d03-b8a1-762092683ce0.0010
   content_url: http://publications.europa.eu/resource/cellar/8f0110ad-8c53-4d7c-98b6-e5d9ef43eda7.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0023-20151009
-  retrieved_at: '2026-10-22T02:42:26Z'
+  retrieved_at: '2026-10-22T14:49:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-26T18:20:58.484+01:00'
 integrity:
@@ -58,9 +102,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:26Z'
-  notes: Texto consolidado 02001L0023-20151009.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:59Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2001-23.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -366,29 +410,20 @@ relationships:
   source: null
 article_structure:
   article_count: 14
-  section_count: 16
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 17
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:26Z'
-  warnings: []
+  checked_at: '2026-10-22T14:49:59Z'
+  warnings:
+  - '02001L0023-20010411: versão indisponível (Sem expressão na língua por para CELEX 02001L0023-20010411.)'
   errors: []
 ---
 
 # Directiva 2001/23/CE do Conselho, de 12 de Março de 2001
-
-> 2001L0023 — PT — 09.10.2015 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015L1794) — [DIRETIVA (UE) 2015/1794 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 6 de outubro de 2015](http://publications.europa.eu/resource/celex/32015L1794) — L 263 — 1 — 8.10.2015
-
-## DIRECTIVA 2001/23/CE DO CONSELHO
 
 de 12 de Março de 2001
 

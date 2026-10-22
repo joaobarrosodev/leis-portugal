@@ -1,0 +1,966 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992L0033:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0033-20080821",
+ "dre_path": null,
+ "source_lastmod": "2008-08-21",
+ "versions": [
+  {
+   "date": "1992-06-10",
+   "future": false,
+   "celex": "31992L0033",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "39c4696bad6f9f11",
+    "90e39ee8acda9be2",
+    "b1116be95b5f2dfc",
+    "b5d13b6df52fd715",
+    "d0bdbe63d9efb9b1",
+    "dd2f00f694e1c07a",
+    "768d3ff482bd676a",
+    "8a8f42e6f2843a0a",
+    "f648cef348ea7993",
+    "8a3ee2c3503ebdc1",
+    "f613519bddd95dd2",
+    "faf551828adeff44",
+    "7b8835ec16ae146a",
+    "56355542faa5298a",
+    "013699702b4f66b8",
+    "20fd86a768f6ace6",
+    "df9ef169e0039a03",
+    "84a807d6f5a071db",
+    "fa4dcbff55303f6e",
+    "271ba2d05ffcd487",
+    "71622aae1033e02c",
+    "12b399938da030c1",
+    "73c71c0c46114be0",
+    "da4888f0f8beda77",
+    "79162585ce612f43",
+    "b82a800df4f62eee",
+    "5a6e9dcf8cf06881",
+    "31cbff29ff7a8def",
+    "4b3bfb10611d6cdb",
+    "0ace93edc7f1fac4"
+   ]
+  },
+  {
+   "date": "2005-01-26",
+   "future": false,
+   "celex": "01992L0033-20050126",
+   "acts": [
+    {
+     "id": "eu:celex:31993D0400:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31993D0400"
+    },
+    {
+     "id": "eu:celex:31994D0152:por",
+     "title": "M2",
+     "published": null,
+     "celex": "31994D0152"
+    },
+    {
+     "id": "eu:celex:31995D0025:por",
+     "title": "M3",
+     "published": null,
+     "celex": "31995D0025"
+    },
+    {
+     "id": "eu:celex:31997D0109:por",
+     "title": "M4",
+     "published": null,
+     "celex": "31997D0109"
+    },
+    {
+     "id": "eu:celex:31999D0029:por",
+     "title": "M5",
+     "published": null,
+     "celex": "31999D0029"
+    },
+    {
+     "id": "eu:celex:32002D0111:por",
+     "title": "M6",
+     "published": null,
+     "celex": "32002D0111"
+    },
+    {
+     "id": "eu:celex:32003R0806:por",
+     "title": "REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003",
+     "published": null,
+     "celex": "32003R0806"
+    },
+    {
+     "id": "eu:celex:32003L0061:por",
+     "title": "DIRECTIVA 2003/61/CE DO CONSELHO de 18 de Junho de 2003",
+     "published": null,
+     "celex": "32003L0061"
+    },
+    {
+     "id": "eu:celex:32005D0055:por",
+     "title": "DECISÃO DA COMISSÃO de 25 de Janeiro de 2005",
+     "published": null,
+     "celex": "32005D0055"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO II",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Adita Artigo 20.º",
+    "Adita Artigo 21.º",
+    "Adita Artigo 22.º",
+    "Adita Artigo 23.º",
+    "Adita Artigo 24.º",
+    "Adita Artigo 25.º",
+    "Adita Artigo 26.º",
+    "Adita ANEXO I",
+    "Adita Condições a fixar nos termos do artigo 4.º",
+    "Adita Parte A",
+    "Adita Lista dos géneros e espécies a que se refere o n.º 2 do artigo 1.º",
+    "Adita Notas",
+    "Suprime Artigo 1o.",
+    "Suprime Artigo 2o.",
+    "Suprime Artigo 3o.",
+    "Suprime Artigo 4o.",
+    "Suprime Artigo 5o.",
+    "Suprime Artigo 6o.",
+    "Suprime Artigo 7o.",
+    "Suprime Artigo 8o.",
+    "Suprime Artigo 9o.",
+    "Suprime Artigo 10o.",
+    "Suprime Artigo 11o.",
+    "Suprime Artigo 12o.",
+    "Suprime Artigo 13o.",
+    "Suprime Artigo 14o.",
+    "Suprime Artigo 15o.",
+    "Suprime Artigo 16o.",
+    "Suprime Artigo 17o.",
+    "Suprime Artigo 18o.",
+    "Suprime Artigo 19o.",
+    "Suprime Artigo 20o.",
+    "Suprime Artigo 21o.",
+    "Suprime Artigo 22o.",
+    "Suprime Artigo 23o.",
+    "Suprime Artigo 24o.",
+    "Suprime Artigo 25o.",
+    "Suprime Artigo 26o.",
+    "Suprime ANEXO I — Condições a fixar nos termos do artigo 4o. Parte A"
+   ],
+   "fragments": [
+    "db54cab19c9c5b75",
+    "864304793166151b",
+    "66e0db042145ff20",
+    "209537f82a6d4cd1",
+    "e309285ea6ec513b",
+    "4de3aab9ea39b029",
+    "07959a44f9527f0d",
+    "eb9e000f83d0f1bf",
+    "3625c6acdb96caa4",
+    "3ff40f83a162583f",
+    "8ded20346725e30e",
+    "691786f779196ffa",
+    "3f07012bf0fbffa4",
+    "763e7c33296f410e",
+    "bfda1559fab16625",
+    "1cb7e7f7482ebc2c",
+    "56ba6c6552a7d93c",
+    "8f1b1b6fd14a9d8e",
+    "d7fb2c9fa58bbc4f",
+    "782574bcf4c7ccb4",
+    "c2f4f140dafc014a",
+    "f11b0a0d86f5a2e5",
+    "6bb8096e8048496d",
+    "292f66870f66ca40",
+    "1e2bd24e805cdc7c",
+    "54bf5a8142c5a407",
+    "3301bf310c4f7cbd",
+    "d664376e2a8dcecd",
+    "8c2046199b6507cb",
+    "38be095c860b68d1",
+    "16782ce5d43323a6",
+    "852174729551523b",
+    "8e157e7ab887e6b8",
+    "4b7458c2ab372168"
+   ]
+  },
+  {
+   "date": "2006-12-26",
+   "future": false,
+   "celex": "01992L0033-20061226",
+   "acts": [
+    {
+     "id": "eu:celex:32006L0124:por",
+     "title": "DIRECTIVA 2006/124/CE DA COMISSÃO Texto relevante para efeitos do EEE de 5 de Dezembro de 2006",
+     "published": null,
+     "celex": "32006L0124"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Lista dos géneros e espécies a que se refere o n.º 2 do artigo 1.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "2bb83f719e7e01f1",
+    "864304793166151b",
+    "66e0db042145ff20",
+    "209537f82a6d4cd1",
+    "e309285ea6ec513b",
+    "4de3aab9ea39b029",
+    "07959a44f9527f0d",
+    "eb9e000f83d0f1bf",
+    "3625c6acdb96caa4",
+    "3ff40f83a162583f",
+    "8ded20346725e30e",
+    "691786f779196ffa",
+    "3f07012bf0fbffa4",
+    "763e7c33296f410e",
+    "bfda1559fab16625",
+    "1cb7e7f7482ebc2c",
+    "56ba6c6552a7d93c",
+    "8f1b1b6fd14a9d8e",
+    "d7fb2c9fa58bbc4f",
+    "782574bcf4c7ccb4",
+    "c2f4f140dafc014a",
+    "32cb96587afbd050",
+    "7552f321536b2b5b",
+    "292f66870f66ca40",
+    "1e2bd24e805cdc7c",
+    "54bf5a8142c5a407",
+    "3301bf310c4f7cbd",
+    "d664376e2a8dcecd",
+    "8c2046199b6507cb",
+    "38be095c860b68d1",
+    "16782ce5d43323a6",
+    "852174729551523b",
+    "1aed4c2c6b754dc9",
+    "8584aec83356d3aa"
+   ]
+  },
+  {
+   "date": "2007-10-30",
+   "future": false,
+   "celex": "01992L0033-20071030",
+   "acts": [
+    {
+     "id": "eu:celex:32007D0699:por",
+     "title": "DECISÃO DA COMISSÃO de 29 de Outubro de 2007",
+     "published": null,
+     "celex": "32007D0699"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 16.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "a2ee63d4e2bdeb68",
+    "864304793166151b",
+    "66e0db042145ff20",
+    "209537f82a6d4cd1",
+    "e309285ea6ec513b",
+    "4de3aab9ea39b029",
+    "07959a44f9527f0d",
+    "eb9e000f83d0f1bf",
+    "3625c6acdb96caa4",
+    "3ff40f83a162583f",
+    "8ded20346725e30e",
+    "691786f779196ffa",
+    "3f07012bf0fbffa4",
+    "763e7c33296f410e",
+    "bfda1559fab16625",
+    "1cb7e7f7482ebc2c",
+    "f1e797414f9f8bf7",
+    "8f1b1b6fd14a9d8e",
+    "d7fb2c9fa58bbc4f",
+    "782574bcf4c7ccb4",
+    "c2f4f140dafc014a",
+    "720974ee8d2b2767",
+    "491da5e47c3003da",
+    "292f66870f66ca40",
+    "1e2bd24e805cdc7c",
+    "54bf5a8142c5a407",
+    "3301bf310c4f7cbd",
+    "d664376e2a8dcecd",
+    "8c2046199b6507cb",
+    "38be095c860b68d1",
+    "16782ce5d43323a6",
+    "852174729551523b",
+    "1aed4c2c6b754dc9",
+    "05b9e4142e096bfb"
+   ]
+  },
+  {
+   "date": "2008-08-21",
+   "future": false,
+   "celex": "01992L0033-20080821",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime Artigo 24.º",
+    "Suprime Artigo 25.º",
+    "Suprime Artigo 26.º",
+    "Suprime ANEXO I",
+    "Suprime Condições a fixar nos termos do artigo 4.º",
+    "Suprime Parte A",
+    "Suprime Parte B",
+    "Suprime ANEXO II",
+    "Suprime Lista dos géneros e espécies a que se refere o n.º 2 do artigo 1.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "e173ac79f15d1121"
+   ]
+  }
+ ],
+ "fragments": {
+  "39c4696bad6f9f11": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 92/33/CEE do Conselho, de 28 de Abril de 1992, relativa à comercialização de material de propagação e plantação de produtos hortícolas, com excepção das sementes** *Jornal Oficial nº L 157 de 10/06/1992 p. 0001 - 0009 Edição especial finlandesa: Capítulo 3 Fascículo 42 p. 0107 Edição especial sueca: Capítulo 3 Fascículo 42 p. 0107*\n\nDIRECTIVA 92/33/CEE DO CONSELHO de 28 de Abril de 1992 relativa à comercialização de material de propagação e plantação de produtos hortícolas, com excepção das sementes\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43o.,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a produção de produtos hortícolas ocupa um lugar importante na agricultura da Comunidade;\n\nConsiderando que a obtenção de resultados satisfatórios na cultura de produtos hortícolas depende em larga medida da qualidade e estado fitossanitário não apenas das sementes já objecto da Directiva 70/458/CEE do Conselho, de 29 de Setembro de 1970, relativa à comercialização de sementes de produtos hortícolas (4), mas também desses produtos e dos materiais de propagação utilizados; que, consequentemente, determinados Estados-membros estabeleceram regras destinadas a garantir a qualidade e o bom estado fitossanitário do material de propagação e plantação de produtos hortícolas colocado no mercado;\n\nConsiderando que as diferenças no tratamento dispensado aos materiais de propação e plantação nos vários Estados-membros podem criar entraves ao comércio e dessa forma impedir a livre circulação desses produtos na Comunidade; que, tendo em vista a realização do mercado interno, os referidos entraves devem ser eliminados através da adopção de disposições comunitárias que substituam as disposições nacionais;\n\nConsiderando que o estabelecimento de condições harmonizadas a nível comunitário irá garantir que, em toda a Comunidade, os compradores recebam materiais de propagação e plantação em bom estado fitossanitário e de boa qualidade;\n\nConsiderando que, na medida em que digam respeito aos aspectos fitossanitários, as referidas condições harmonizadas devem ser conformes à Directiva 77/93/CEE do Conselho, de 21 de Dezembro de 1976, relativa às medidas de protecção contra a introdução nos Estados-membros de organismos prejudiciais às plantas ou produtos vegetais (5);\n\nConsiderando que, sem prejuízo das disposições fitossanitárias contidas na Directiva 77/93/CEE, não é conveniente aplicar as citadas normas comunitárias relativas à comercialização de material de propagação e plantação quando se provar que esses materiais e plantas se destinam à exportação para países terceiros, uma vez que as disposições em vigor nesses países podem ser diferentes das previstas na presente directiva;\n\nConsiderando que o estabelecimento de normas fitossanitárias e de qualidade para cada género e espécie de produtos hortícolas exige uma longa e pormenorizada análise técnica e científica; que, consequentemente, deve ser definido um procedimento para tal fim;\n\nConsiderando que compete em primeiro lugar aos fornecedores de material de propagação e plantação de produtos hortícolas garantir que os seus produtos preencham as condições previstas na presente directiva;\n\nConsiderando que, ao efectuarem os controlos e inspecções, as autoridades competentes dos Estados-membros devem garantir que os fornecedores satisfaçam as referidas condições;\n\nConsiderando que devem ser introduzidas medidas comunitárias de controlo que garantam uma aplicação uniforme em todos os Estados-membros das normas estabelecidas na presente directiva;\n\nConsiderando que o comprador de material de propagação e de plantação tem interesse em que seja conhecida a denominação da variedade e em que seja salvaguardada a sua identidade;\n\nConsiderando que, para tanto, convém prever, na medida do possível, a aplicação das regras relativas ao aspecto varietal ta como já estabelecidas no que respeita à comercialização das sementes de produtos hortícolas;\n\nConsiderando que, para garantir a identidade e a comercialização disciplinada do material de propagação e plantação de produtos hortícolas, devem ser estabelecidas normas comunitárias no que diz respeito à separação dos lotes e à marcação; que os rótulos devem fornecer as indicações necessárias para controlo oficial e para informação do produtor;\n\nConsiderando que devem ser estabelecidas regras que, em caso de dificuldades de fornecimento temporárias, permitam a comercialização de materiais de propagação e plantação sujeitos a exigências menos rigorosas do que as previstas na presente directiva;\n\nConsiderando que, como primeiro passo para a harmonização das condições e no que se refere aos géneros e espécies referidos no anexo II para os quais será criada uma ficha, os Estados-membros devem ser proibidos de impor novas condições ou restrições à referida comercialização para além das previstas na presente directiva;\n\nConsiderando que deve ser prevista a possibilidade de autorizar a comercialização na Comunidade de material de propagação e plantação produzido em países terceiros,desde que este ofereça as mesmas garantias que o material de propagação e plantação produzido na Comunidade em conformidade com as normas comunitárias;\n\nConsiderando que, a fim de harmonizar as técnicas de controlo utilizadas nos Estados-membros e de comparar o material de propagação e plantação produzido na Comunidade com o produzido em países terceiros, devem ser efectuados ensaios comparativos que permitam verificar a conformidade do material de propagação e plantação com as exigências da presente directiva;\n\nConsiderando que, a fim de facilitar uma aplicação eficaz da presente directiva, a Comissão deve ser incumbida da adopção de medidas para a sua aplicação e para a alteração dos seus anexos; que essas medidas devem ser adoptadas por um processo que implique uma colaboração estreita entre a Comissão e os Estados-membros, no âmbito de um comité permanente das sementes e propágulos agrícolas, hortícolas e sílvicolas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "90e39ee8acda9be2": {
+   "fragment_id": "Artigo 1o.",
+   "type": "artigo",
+   "heading": "Artigo 1o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o.\n\n1. A presente directiva diz respeito à comercialização na Comunidade de materiais de propagação e plantação de produtos hortícolas, com excepção das sementes.\n\n2. Os géneros, espécies e respectivos híbridos, referidos no anexo II, ficarão sujeitos ao disposto nos artigos 2o. a 20o. e 24o.\n\nOs referidos artigos aplicam-se também aos porta-enxertos e às partes de plantas de outros géneros ou espécies, ou respectivos híbridos, em que tenha sido ou deva ser enxertado material de um dos géneros ou espécies ou respectivos híbridos acima indicados.\n\n3. As alterações à lista de géneros e espécies incluída no anexo II serão adoptadas de acordo com o procedimento previsto no artigo 22o."
+  },
+  "b1116be95b5f2dfc": {
+   "fragment_id": "Artigo 2o.",
+   "type": "artigo",
+   "heading": "Artigo 2o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o.\n\nA presente directiva não é aplicável ao material de propagação e plantação comprovadamente destinado à exportação para países terceiros e como tal devidamente identificado e suficientemente isolado, sem prejuízo das normas sanitárias constantes da Directiva 77/93/CEE.\n\nAs medidas de execução do primeiro parágrafo, nomeadamente as respeitantes à identificação e aos isolamento, serão adoptadas de acordo com o procedimento previsto no artigo 21o."
+  },
+  "b5d13b6df52fd715": {
+   "fragment_id": "Artigo 3o.",
+   "type": "artigo",
+   "heading": "Artigo 3o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o.\n\nPara efeitos da presente directiva, entende-se por:\n\na) Material de propagação, partes de plantas e qualquer material proveniente de plantas, incluindo os porta-enxertos destinados à propagação e à produção de produtos hortícolas;\n\nb) Material de plantação, plantas e partes de plantas, e os componentes enxertados no caso das plantas enxertadas, destinadas à plantação para a produção de produtos hortícolas;\n\nc) Fornecedor, qualquer pessoa singular ou colectiva que desempenhe, a título profissional, pelo menos uma das seguintes actividades relacionadas com material de propagação e plantação: reprodução, produção, conservação e/ou tratamento e comercialização;\n\nd) Comercialização, a manutenção à disposição ou em stock, a exposição ou a oferta para venda, venda e/ou entrega a outra pessoa, sob qualquer forma, de material de propagação e plantação;\n\ne) Organismo oficial responsável\n\ni) a autoridade central única, criada ou designada por cada Estado-membro, sob controlo do governo nacional e responsável pelas questões de qualidade,\n\nii) qualquer autoridade pública criada:\n\n- quer a nível nacional\n\n- quer a nível regional, sob o controlo das autoridades nacionais, dentro dos limites fixados pela legislação nacional do respectivo Estado-membro.\n\nOs organismos referidos nas subalíneas i) e ii) podem, nos termos da legislação nacional, delegar as funções que lhes são confiadas pela presente directiva, para serem desempenhadas sob a sua autoridade e controlo, em pessoas colectivas, de direito público ou privado que, nos termos dos seus estatutos oficialmente aprovados, desempenhem exclusivamente funções de interesse público específicas, desde que nem essas pessoas colectivas nem os seus membros tenham qualquer interesse pessoal no resultado das medidas que tomem.\n\nCompete aos Estados-membros garantir uma estreita cooperação entre os organismos referidos na subalínea ii) e os referidos na subalínea i).\n\nAlém disso, de acordo com o procedimento previsto no artigo 21o., podem ser aprovadas outras pessoas colectivas criadas por conta de um organismo referido nas subalíneas i) e ii) que actuem sob a autoridade e o controlo desse organismo, desde que essas pessoas colectivas não tenham qualquer interesse pessoal no resultado das medidas que tomem.\n\nOs Estados-membro notificarão a Comissão dos seus organismos oficiais responsáveis. A Comissão transmitirá essa informação aos outros Estados-membros;\n\nf) Medidas oficiais, as medidas tomadas pelo organismo oficial responsável;\n\ng) Inspecção oficial, a inspecção efectuada pelo organismo oficial responsável;\n\nh) Declaração oficial, a declaração feita pelo organismo oficial responsável ou sob a sua responsabilidade;\n\ni) Lote, um conjunto de unidades de um único produto, identificável pela sua homogeneidade de composição e origem;\n\nj) Laboratório, a entidade pública ou privada que efectua análises e elabora diagnósticos correctos que permitem ao produtor controlar a qualidade da produção."
+  },
+  "d0bdbe63d9efb9b1": {
+   "fragment_id": "Artigo 4o.",
+   "type": "artigo",
+   "heading": "Artigo 4o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o.\n\nDe acordo com o procedimento previsto no artigo 22o., será estabelecida no anexo I para cada um dos géneros ou espécies referidos no anexo II, ou para os porta-enxertos de outros géneros ou espécies em que tenha sido ou deva ser enxertado material de um do ditos géneros ou espécies, uma ficha com uma referência às normas fitossanitárias constantes da Directiva 77/93/CEE aplicáveis ao género e/ou espécie em causa, e que estabeleça:\n\ni) Os requisitos a preencher pelo material de plantação, especialmente os que se relacionem com a qualidade e a pureza da colheita e, eventualmente, com as características varietais. Estes requisitos devem ser aditados à parte A do anexo I;\n\nii) Os requisitos a preencher pelo material de propagação, especialmente os que se relacionem com o sistema de propagação utilizado, com a pureza da cultura e, se for esse o caso, com as características varietais. Tais requisitos constam da parte B do anexo I."
+  },
+  "dd2f00f694e1c07a": {
+   "fragment_id": "Artigo 5o.",
+   "type": "artigo",
+   "heading": "Artigo 5o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o.\n\n1. Os Estados-membros assegurarão que os fornecedores tomem todas as medidas necessárias para que seja dado cumprimento às disposições da presente directiva em todas as fases de produção e comercialização dos materiais de propagação e plantação.\n\n2. Para efeitos no no. 1, os referidos fornecedores deverão efectuar, directamente ou através de um fornecedor autorizado ou do organismo oficial responsável, controlos baseados nos seguintes princípios:\n\n- identificação dos pontos críticos do respectivo processo de produção, com base nos métodos de produção utilizados,\n\n- estabelecimento e implementação de métodos de monitorização e controlo dos pontos críticos a que se refere o travessão anterior,\n\n- recolha de amostras para análise num laboratório autorizado pelo organismo oficial responsável para verificar o cumprimento das normas estabelecidas na presente directiva,\n\n- manutenção de um registo escrito ou de qualquer outro tipo de registo duradoudo dos dados a que se referem os primeiro, segundo e terceiro travessões, bem como de um registo da produção e comercialização de material de propagação e plantação, que será mantido à disposição do organismo oficial responsável. Estes documentos serão conservados por um período de, pelo menos, um ano.\n\nNo entanto, os fornecedores cuja actividade neste domínio se limite exclusivamente à distribuição de material de propagação e plantação produzido e embalado em instalações que não sejam as suas, apenas terão de manter um registo escrito ou qualquer outro tipo de registo duradouro das compras e vendas e/ou entregas desses produtos.\n\nO disposto no presente número não se aplica aos fornecedores cuja actividade neste domínio se limite à entrega de pequenas quantidades de material de propagação e plantação a consumidores finais não profissionais.\n\n3. Caso o resultado dos controlos efectuados pelos fornecedores referidos no no. 1 ou quaisquer informações à sua disposição revelem a presença de um ou mais dos organismos prejudiciais visados na Directiva 77/93/CEE ou, numa quantidade superior à normalmente prevista para estar em conformidade com as normas des especificados nas fichas pertinentes elaboradas em conformidade com o artigo 4o., os ditos fornecedores devem informar imediatamente desse facto o organismo oficial responsável e tomar as medidas prescritas por este último. O fornecedor deve manter registos de todos os casos de presença de organismos prejudiciais nas suas instalações e de todas as medidas tomadas em relação a essas ocorrências.\n\n4. As modalidades de aplicação do segundo parágrafo do no. 2 serão adoptadas de acordo com o procedimento previsto no artigo 21o."
+  },
+  "768d3ff482bd676a": {
+   "fragment_id": "Artigo 6o.",
+   "type": "artigo",
+   "heading": "Artigo 6o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o.\n\n1. O organismo oficial responsável autorizará a actividade dos fornecedores após ter verificado que os seus processos de produção e instalações obedecem às exigências da presente directiva no que respeita à natureza das suas actividades. A autorização terá de ser renovada se o fornecedor decidir realizar actividades diferentes daquelas para as quais tiver sido autorizado.\n\n2. O organismo oficial responsável autorizará o funcionamento dos laboratórios após ter verificado que o laboratório e os seus métodos, instalações e pessoal obedecem às exigências da presente directiva, a especificar de acordo com o procedimento previsto no artigo 21o., tendo em conta os testes que efectua. A autorização terá de ser renovada se o laboratório decidir realizar actividades diferentes daquelas para as quais tiver sido autorizado.\n\n3. O organismo oficial responsável deverá tomar as medidas necessárias caso as exigências a que se referem os nos. 1 e 2 deixem de ser respeitadas. Para este efeito, terá especialmente em conta as conclusões de todos os controlos efectuados em conformidade com o disposto no artigo 7o.\n\n4. A fiscalização e o controlo dos fornecedores, instalações e laboratórios serão efectuados regularmente pelo organismo oficial responsável, ou sob a sua responsabilidade, devendo este ter sempre livre acesso a todos os locais das instalações, a fim de assegurar o cumprimento das exigências da presente directiva. Poderão ser adoptadas medidas de execução da fiscalização e controlo de acordo com o procedimento previsto no artigo 21o.\n\nCaso essa fiscalização e esse controlo revelem que as exigências da presente directiva não estão a ser respeitadas, o organismo oficial responsável deverá tomar as medidas adequadas."
+  },
+  "8a8f42e6f2843a0a": {
+   "fragment_id": "Artigo 7o.",
+   "type": "artigo",
+   "heading": "Artigo 7o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o.\n\n1. Os peritos da Comissão, em cooperação com os organismos oficiais responsáveis dos Estados-membros, poderão efectuar inspecções in loco, na medida do necessário, para assegurar a aplicação uniforme da presente directiva, e, nomeadamente, para verificar se os fornecedores estão efectivamente a respeitar as exigências nela previstas. O Estado-membro em cujo território se efectue uma inspecção deverá prestar toda a assistência necessária aos peritos no desempenho das suas funções. A Comissão informará os Estados-membros do resultado das investigações.\n\n2. As regras de aplicação do no. 1 serão adoptadas de acordo com o procedimento previsto no artigo 21o."
+  },
+  "f648cef348ea7993": {
+   "fragment_id": "Artigo 8o.",
+   "type": "artigo",
+   "heading": "Artigo 8o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o.\n\n1. O material de propagação e plantação apenas será comercializado no mercado por fornecedores autorizados e se respeitar as exigências relativas ao material de propagação e plantação estabelecidas na ficha a que se refere o artigo 4o.\n\n2. Sem prejuízo do disposto na Directiva 77/93/CEE, o no. 1 não é aplicável ao material de propagação e plantação destinado a:\n\na) Ensaios ou fins científicos, ou\n\nb) Trabalhos de selecção, ou\n\nc) Medidas que visem a conservação da diversidade genética.\n\nAs modalidades de aplicação das alíneas a) e b) são adoptadas quando necessário de acordo com o procedimento previsto no artigo 21o. As modalidades de aplicação da alínea c) adoptadas, de preferência, antes de 1 de Janeiro de 1993, de acordo com o mesmo procedimento."
+  },
+  "8a3ee2c3503ebdc1": {
+   "fragment_id": "Artigo 9o.",
+   "type": "artigo",
+   "heading": "Artigo 9o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o.\n\n1. Sem prejuízo do artigo 2o., os materiais de propagação e plantação de produtos hortícolas que pertençam aos géneros ou espécies enumerados no anexo II e que estejam igualmente abrangidas pela Directiva 70/458/CEE só serão comercializados na Comunidade se a variedade a que pertencem for admitida em conformidade com o disposto na referida directiva.\n\n2. Sem prejuízo do artigo 2o. e dos nos. 3 e 4 do presente artigo, os materiais de propagação e plantação de produtos hortícolas pertencentes aos géneros ou espécies enumerados no anexo II que não sejam abrangidos pela Directiva 70/458/CEE só serão comercializados na Comunidade se pertencerem a uma variedade oficialmente admitida em pelo menos um Estado-membro.\n\nNo que se refere às condições de admissão, são aplicáveis as disposições previstas nos artigos 4o. e 5o. e no no. 3 do artigo 10o. da referida directiva.\n\nNo que respeita aos procedimentos e formalidades relativos à admissão e à selecção de conservação, são aplicáveis mutatis mutandis as disposições dos nos. 2 e 4 do artigo 3o., dos artigos 6o., 7o. e 8o., dos nos. 1, 2 e 4 do artigo 10o. e dos artigos 11o. a 15o. da mesma directiva.\n\nOs resultados dos exames não oficiais e os ensinamentos práticos recolhidos no decurso da cultura podem sempre ser tomados em consideração.\n\n3. Os Estados-membros tomarão todas as medidas necessárias para assegurar que a admissão oficial das variedades pertencentes aos géneros ou espécies referidas no no. 2 concedida antes de 1 de Janeiro de 1993 em conformidade com princípios diferentes dos previstos na Directiva 70/458/CEE ou com base no facto de os respectivos materiais terem sido comercializados no seu território antes da referida data caduque, o mais tardar, em 30 de Junho de 1998, a não ser que nessa data as variedades em questão tenham sido admitidas em conformidade com o disposto no no. 1.\n\n4. As variedades oficialmente admitidas em conformidade com o disposto nos nos. 2 ou 3 serão inscritas no «Catálogo comum das variedades das espécies de legumes» referido no artigo 17o. da Directiva 70/458/CEE. As disposições dos nos. 2 e 3 do artigo 16o. e dos artigos 17o., 18o. e 19o. da mesma directiva são aplicáveis mutatis mutandis.\n\nEsta publicação designa com uma referência especial as variedades admitidas em conformidade com o disposto no no. 3."
+  },
+  "f613519bddd95dd2": {
+   "fragment_id": "Artigo 10o.",
+   "type": "artigo",
+   "heading": "Artigo 10o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o.\n\n1. No período de cultivo e durante as operação de colheita ou separação do material de origem, o material de propagação e plantação de produtos hortícolas deve ser mantido em lotes separados.\n\n2. Caso material de propagação e plantação de origens diferentes seja colocado conjuntamente ou misturado durante o acondicionamento, a armazenagem, o transporte ou o fornecimento, o fornecedor deverá conservar registos com os seguintes dados: composição do lote e origem de cada um dos seus componentes.\n\n3. Os Estados-membros velarão pelo cumprimento das exigências referidas nos nos. 1 e 2 através de inspecções oficiais."
+  },
+  "faf551828adeff44": {
+   "fragment_id": "Artigo 11o.",
+   "type": "artigo",
+   "heading": "Artigo 11o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o.\n\n1. Sem prejuízo do no. 2 do artigo 10o., os materiais de propagação e plantação de produtos hortícolas apenas devem ser comercializados em lotes suficientemente homogéneos e se se considerar que satisfazem o disposto na presente directiva e forem acompanhados de um documento emitido pelo fornecedor, em conformidade com as condições indicadas na ficha prevista no artigo 4o. Caso este documento contenha uma declaração oficial, esta deverá ficar claramente separada das outras partes do documento.\n\nSerão incluídas na ficha prevista no artigo 4o. exigências relativas à rotulagem e/ou selagem e acondicionamento do material de propagação e plantação.\n\n2. Em caso de fornecimento pelo retalhista de materiais de propagação e plantação de produtos hortícolas a consumidores finais não profissionais, as exigências relativas à rotulagem poderão ser limitadas à informação adequada sobre o produto."
+  },
+  "7b8835ec16ae146a": {
+   "fragment_id": "Artigo 12o.",
+   "type": "artigo",
+   "heading": "Artigo 12o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o.\n\nOs Estados-membros podem dispensar:\n\n- da aplicação do artigo 11o., os pequenos produtores cuja produção total e venda de material de propagação e plantação de produtos hortícolas tenha como destino final pessoas do mercado local que não façam profissão da produção de vegetais («circulação local»),\n\n- dos controlos e da inspecção oficial referidos no artigo 18o., a circulação local de material de propagação e plantação de produtos hortícolas produzido pelos pequenos produtores a que se refere o travessão anterior.\n\nDe acordo com o procedimento previsto no artigo 21o., serão adoptadas modalidades de aplicação relativas a outras exigências referentes às dispensas mencionadas nos primeiro e segundo travessões, em especial no que se refere às noções de «pequenos produtores» e «mercado local» e aos procedimentos que lhes dizem respeito."
+  },
+  "56355542faa5298a": {
+   "fragment_id": "Artigo 13o.",
+   "type": "artigo",
+   "heading": "Artigo 13o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o.\n\nCaso surjam dificuldades temporárias no fornecimento de material de propagação e plantação de produtos hortícolas que satisfaça as exigências da presente directiva, poderão ser adoptadas, de acordo com o procedimento previsto no artigo 21o., disposições que subordinem a comercialização desses produtos a exigências menos rigorosas, sem prejuízo das normas fitossanitárias definidas na Directiva 77/93/CEE."
+  },
+  "013699702b4f66b8": {
+   "fragment_id": "Artigo 14o.",
+   "type": "artigo",
+   "heading": "Artigo 14o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o.\n\n1. Os materiais de propagação e plantação de produtos hortícolas que satisfaçam as exigências e condições previstas na presente directiva não serão sujeitos a quaisquer restrições à comercialização no que se refere a fornecedor, estado fitossanitário, meio de cultura e condições de inspecção para além das previstas na presente directiva.\n\n2. A comercialização do material de propagação e plantação de produtos hortícolas pertencentes a variedades que constem do «Catálogo comum das variedades das espécies de legumes» não será submetida a quaisquer restrições quanto à variedade que não sejam as previstas ou referidas na presente directiva."
+  },
+  "20fd86a768f6ace6": {
+   "fragment_id": "Artigo 15o.",
+   "type": "artigo",
+   "heading": "Artigo 15o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o.\n\nNo que diz respeito aos produtos a que se refere o anexo II, os Estados-membros não imporão condições mais rigorosas ou restrições à comercialização diferentes das previstas nas fichas previstas no artigo 4o. ou, na falta destas, diferentes das existentes à data de adopção da presente directiva."
+  },
+  "df9ef169e0039a03": {
+   "fragment_id": "Artigo 16o.",
+   "type": "artigo",
+   "heading": "Artigo 16o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o.\n\n1. Haverá que decidir, de acordo com o procedimento previsto no artigo 21o., se o material de propagação e plantação de produtos hortícolas produzido num país terceiro e que ofereça as mesmas garantias no que diz respeito a obrigações do fornecedor, identidade, características, estado fitossanitário, meio de cultura, embalagem, condições de inspecção, marcação e selagem é equivalente em todos estes aspectos ao material de propagação e plantação de produtos hortícolas produzido na Comunidade em conformidade com as exigências e condições previstas na presente directiva.\n\n2. Equanto se aguardam as decisões referidas no no. 1, os Estados-membros podem, até 1 de Janeiro de 1993 e sem prejuízo do disposto na Directiva 77/93/CEE, aplicar à importação de material de propagação e plantação de produtos hortícolas proveniente de países terceiros condições pelo menos equivalentes às estabelecidas, a título temporário ou permanente, nas fichas previstas no artigo 4o. Se tais condições não estiverem previstas nas referidas fichas, as condições aplicáveis à importação devem ser pelo menos equivalentes às aplicáveis à produção no Estado-membro em causa.\n\nEnquanto se aguardam as decisões referidas no no. 1, a data mencionada no parágrafo anterior poderá ser prorrogada para os diferentes países terceiros, de acordo com o procedimento previsto no artigo 21o.\n\nO material de propagação e plantação de produtos hortícolas importado por um Estado-membro na sequência de uma decisão tomada por esse Estado-membro nos termos do primeiro parágrafo não será sujeito noutros Estados-membros a quaisquer restrições à comercialização no tocante aos aspectos referidos no no. 1."
+  },
+  "84a807d6f5a071db": {
+   "fragment_id": "Artigo 17o.",
+   "type": "artigo",
+   "heading": "Artigo 17o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o.\n\nOs Estados-membros assegurarão que o material de propagação e plantação de produtos hortícolas seja sujeito a uma inspecção oficial efectuada por amostragem, no decurso da produção e comercialização para verificação da observância das exigências e condições previstas na presente directiva."
+  },
+  "fa4dcbff55303f6e": {
+   "fragment_id": "Artigo 18o.",
+   "type": "artigo",
+   "heading": "Artigo 18o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o.\n\nAs regras de execução aplicáveis aos controlos previstos no artigo 5o. e à inspecção oficial prevista nos artigos 10o. e 17o., incluindo os métodos de amostragem, serão adoptadas, se necessário, em conformidade com o procedimento previsto no artigo 21o."
+  },
+  "271ba2d05ffcd487": {
+   "fragment_id": "Artigo 19o.",
+   "type": "artigo",
+   "heading": "Artigo 19o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o.\n\n1. Se, por ocasião da fiscalização e dos controlos previstos no no. 4 do artigo 6o., da inspecção oficial prevista no artigo 17o. ou dos ensaios previstos no artigo 20o., se verificar que o material de propagação ou plantação de produtos hortícolas não respeita as exigências da presente directiva, o organismo oficial responsável do Estado-membro envolvido tomará as medidas adequadas para garantir a sua conformidade com o disposto na presente directiva ou, caso tal não seja possível, para proibir a comercialização desse material de propagação ou plantação na Comunidade.\n\n2. Caso se verifique que o material de propagação ou plantação de produtos hortícolas comercializado por um determinado fornecedor não respeita as exigências e condições previstas na presente directiva, o Estado-membro em causa deverá assegurar que sejam tomadas medidas adequadas contra esse fornecedor. Caso o fornecedor seja proibido de comercializar material de propagação e plantação de produtos hortícolas, o Estado-membro notificará desse facto a Comissão e os organismos nacionais competentes dos Estados-membros.\n\n3. As medidas adoptadas ao abrigo do no. 2 serão revogadas logo que se verifique, com suficiente rigor, que o material de propagação ou plantação de produtos hortícolas destinado a ser comercializado pelo referido fornecedor passou a respeitar as exigências e condições da presente directiva."
+  },
+  "71622aae1033e02c": {
+   "fragment_id": "Artigo 20o.",
+   "type": "artigo",
+   "heading": "Artigo 20o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o.\n\n1. Nos Estados-membros serão efectuados ensaios ou, eventualmente, análises em amostras, a fim de verificar a conformidade do material de propagação e plantação com as exigências e condições da presente directiva, incluindo as de carácter fitossanitário. A Comissão poderá organizar inspecções dos ensaios, a efectuar por representantes dos Estados-membros e da Comissão.\n\n2. De acordo com o procedimento previsto no artigo 21o., poder-se-á decidir se é necessário efectuar ensaios comunitários com a mesma finalidade dos previstos no no. 1. A Comissão pode organizar inspecções dos ensaios comunitários, a efectuar por representantes dos Estados-membros e da Comissão.\n\n3. Os ensaios ou análises referidos nos nos. 1 e 2 serão utilizados para harmonizar as técnicas de exame do material de propagação e plantação. Serão efectuados relatórios sobre esses ensaios ou análises, que serão enviados confidencialmente aos Estados-membros e à Comissão.\n\n4. A Comissão assegurará que, nos casos apropriados, todas as disposições relativas à coordenação, execução e inspecção dos ensaios referidos nos nos. 1 e 2, bem como à apreciação dos seus resultados, sejam adoptadas no âmbito do comité instituído pelo artigo 21o. No caso de haver problemas de ordem fitossanitária, a Comissão notificará desse facto o Comité fitossanitário permanente. Se necessário, serão adoptadas disposições específicas. Os ensaios incidirão igualmente sobre material de propagação e plantação de produtos hortícolas produzido em países terceiros."
+  },
+  "12b399938da030c1": {
+   "fragment_id": "Artigo 21o.",
+   "type": "artigo",
+   "heading": "Artigo 21o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o.\n\n1. A Comissão será assistida por um comité denominado «Comité permanente das sementes e propágulos agrícolas, hortícolas e silvícolas», presidido pelo representante da Comissão.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão. O parecer será emitido por maioria, nos termos previstos no. 2 do artigo 148o. do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no seio do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3. A Comissão adoptará medidas que são imediatamente aplicáveis.\n\nTodavia, se não forem conformes com o parecer emitido pelo comité, essas medidas serão imediatamente comunicadas pela Comissão ao Conselho. Nesse caso, a Comissão pode diferir por um período de um mês, no máximo, a contar da data dessa comunicação, a aplicação das medidas que aprovou.\n\nO Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo previsto no parágrafo anterior."
+  },
+  "73c71c0c46114be0": {
+   "fragment_id": "Artigo 22o.",
+   "type": "artigo",
+   "heading": "Artigo 22o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o.\n\n1. A Comissão será assistida por um comité denominado «Comité permanente das sementes e propágulos agrícolas, hortícolas e silvícolas», presidido pelo representante da Comissão.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa.\n\nO parecer será emitido por maioria nos termos previstos no no. 2 do artigo 148o. do Tratado para a adopção das decisões que o Conselho é convidado a tomar sob proposta da Comissão. Nas votações no seio do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\n3. A Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nSe as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá, sem demora, ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "da4888f0f8beda77": {
+   "fragment_id": "Artigo 23o.",
+   "type": "artigo",
+   "heading": "Artigo 23o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o.\n\nAs alterações a introduzir nas fichas previstas no artigo 4o. e nas condições e modalidades adoptadas para aplicação da presente directiva serão adoptadas de acordo com o procedimento previsto no artigo 21o."
+  },
+  "79162585ce612f43": {
+   "fragment_id": "Artigo 24o.",
+   "type": "artigo",
+   "heading": "Artigo 24o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24o.\n\n1. Os Estados-membros velarão por que o material de propagação e plantação de produtos hortícolas produzido no seu território e destinado à comercialização satisfaça as exigências previstas na presente directiva.\n\n2. Se, por ocasião de uma inspecção oficial, se verificar que o material de propagação e plantação de produtos hortícolas não pode ser comercializado por não satisfazer um requisito de carácter fitossanitário, o Estado-membro envolvido adoptará as medidas oficiais adequadas para eliminar qualquer risco fitossanitário que daí possa advir."
+  },
+  "b82a800df4f62eee": {
+   "fragment_id": "Artigo 25o.",
+   "type": "artigo",
+   "heading": "Artigo 25o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25o.\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar até 31 de Dezembro de 1992. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. No que diz respeito aos artigos 5o. a 11o., 14o., 15o., 17o., 19o. e 24o., a data de aplicação para cada género ou espécie referida no anexo II será adoptada de acordo com o procedimento previsto no artigo 21o., ao ser elaborada a ficha a que se refere o artigo 4o."
+  },
+  "5a6e9dcf8cf06881": {
+   "fragment_id": "Artigo 26o.",
+   "type": "artigo",
+   "heading": "Artigo 26o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26o.\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 28 de Abril de 1992.\n\nPelo Conselho\n\nO Presidente\n\nArlindo MARQUES CUNHA\n\n(1) JO no. C 46 de 27. 2. 1990, p. 4. e JO no. C 296 de 15. 11. 1991, p. 10.(2) JO no. C 240 de 16. 9. 1991, p. 193.(3) JO no. C 182 de 23. 7. 1990, p. 19.(4) JO no. L 225 de 12. 10. 1970, p. 7. Directiva com a última redacção que lhe foi dada pela Directiva 90/654/CEE (JO no. L 353 de 17. 12. 1990, p. 48).(5) JO no. L 26 de 31. 1. 1977, p. 20. Directiva com a última redacção que lhe foi dada pela Directiva 92/10/CEE (JO no. L 70 de 17. 3. 1992, p. 27)."
+  },
+  "31cbff29ff7a8def": {
+   "fragment_id": "ANEXO I — Condições a fixar nos termos do artigo 4o. Parte A",
+   "type": "divisao",
+   "heading": "ANEXO I — Condições a fixar nos termos do artigo 4o. Parte A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Condições a fixar nos termos do artigo 4o. Parte A\n\nCondições a preencher pelo material de plantação de produtos hortícolas."
+  },
+  "4b3bfb10611d6cdb": {
+   "fragment_id": "Parte B",
+   "type": "divisao",
+   "heading": "Parte B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte B\n\nFichas de géneros e espécies não enumerados na Directiva 70/458/CEE estipulando as condições a preencher pelo material de propagação."
+  },
+  "0ace93edc7f1fac4": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nLista dos géneros e espécies a que se refere o no. 2 do artigo 1o.\n\n- Allium ascalonicum\n\nChalota\n\n- Allium cepa L. Cebola\n\n- Allium fistulosum L. Cebolinho\n\n- Allium porrum L. Alho porro\n\n- Allium sativum Alho\n\n- Anthriscus cerefolium (L.) Hoffm. Cerefólio\n\n- Apium graveolens L. Aipo\n\n- Asparagus officinalis L. Espargo\n\n- Beta vulgaris L. var. vulgaris Acelga\n\n- Beta vulgaris L. var. conditiva Alef. Beterraba encarnada\n\n- Brassica oleracea L. convar. acephala (DC.) Alef. var. sabellica L. Couve franjada\n\n- Brassica oleracea L. convar. botrytis (L.) Alef. var. botrytis L. Couve-flor\n\n- Brassica oleracea L. convar. botrytis (L.) Alef. var. cymosa Duch. Brócolos\n\n- Brassica oleracea L. convar. var. gemmifera DC. Couve-de-bruxelas\n\n- Brassica oleracea L. convar. capitata (L.) Alef. var. sabauda L. Couve lombarda\n\n- Brassica oleracea L. convar. capitata (L.) Alef. var. alba DC. Repolho\n\n- Brassica oleracea L. convar. capitata (L.) Alef. var. rubra DC. Couve roxa\n\n- Brassica oleracea L. convar. acephala (DC.) Alef. var. gongylodes Couve-rábano\n\n- Brassica pekinensis L. Couve chinesa\n\n- Brassica rapa L. var. rapa Nabo, nabiça\n\n- Capsicum annuum L. Pimento\n\n- Chicorium endivia L. Endívia\n\n- Chicorium intybus L. (partim) Chicória crespa-chicória escarola\n\n- Citrullus lanatus (Thunb.) Matsum. et Nakai Melancia\n\n- Cucumis melo L. Melão\n\n- Cucumis sativus L. Pepino\n\n- Cucurbita maxima Duchesne Abóbora menina\n\n- Cucurbita pepo L. Aboborinha\n\n- Cynara Cardunculus Cardo-de-coalho\n\n- Cynara scolymus Alcachofra\n\n- Daucus carota L. Cenoura\n\n- Foeniculum vulgare P. Mill. Funcho\n\n- Lactuca sativa L. Alface\n\n- Lycopersicon lycopersicum (L.) Karsten ex Farw. Tomate\n\n- Petroselinum crispum (Mill.) Nyman ex A. W. Hill Salsa\n\n- Phaseolus coccineus L. Feijão-de-sete-anos\n\n- Phaseolus vulgaris L. Feijão\n\n- Pisum sativum L. (partim) Ervilha\n\n- Raphanus sativus L. Rabanete\n\n- Rheum Ruibarbo\n\n- Scorzonera hispanica L. Escorcioneira\n\n- Solanum melongena L. Beringela\n\n- Spinacia oleracea L. Espinafres\n\n- Valerianelle locusta (L.) Laterr. Alface-de-cordeiro\n\n- Vicia faba L. (partim) Fava"
+  },
+  "db54cab19c9c5b75": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Abril de 1992\n\nrelativa à comercialização de material de propagação e plantação de produtos hortícolas, com excepção das sementes\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/38055dbe-c8fd-4b37-8b05-f25e4affee2d.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/38055dbe-c8fd-4b37-8b05-f25e4affee2d.0017.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/38055dbe-c8fd-4b37-8b05-f25e4affee2d.0017.03/DOC_1#E0003)),\n\nConsiderando que a produção de produtos hortícolas ocupa um lugar importante na agricultura da Comunidade;\n\nConsiderando que a obtenção de resultados satisfatórios na cultura de produtos hortícolas depende em larga medida da qualidade e estado fitossanitário não apenas das sementes já objecto da Directiva 70/458/CEE do Conselho, de 29 de Setembro de 1970, relativa à comercialização de sementes de produtos hortícolas ([^4^](http://publications.europa.eu/resource/cellar/38055dbe-c8fd-4b37-8b05-f25e4affee2d.0017.03/DOC_1#E0004)), mas também desses produtos e dos materiais de propagação utilizados; que, consequentemente, determinados Estados-membros estabeleceram regras destinadas a garantir a qualidade e o bom estado fitossanitário do material de propagação e plantação de produtos hortícolas colocado no mercado;\n\nConsiderando que as diferenças no tratamento dispensado aos materiais de propação e plantação nos vários Estados-membros podem criar entraves ao comércio e dessa forma impedir a livre circulação desses produtos na Comunidade; que, tendo em vista a realização do mercado interno, os referidos entraves devem ser eliminados através da adopção de disposições comunitárias que substituam as disposições nacionais;\n\nConsiderando que o estabelecimento de condições harmonizadas a nível comunitário irá garantir que, em toda a Comunidade, os compradores recebam materiais de propagação e plantação em bom estado fitossanitário e de boa qualidade;\n\nConsiderando que, na medida em que digam respeito aos aspectos fitossanitários, as referidas condições harmonizadas devem ser conformes à Directiva 77/93/CEE do Conselho, de 21 de Dezembro de 1976, relativa às medidas de protecção contra a introdução nos Estados-membros de organismos prejudiciais às plantas ou produtos vegetais ([^5^](http://publications.europa.eu/resource/cellar/38055dbe-c8fd-4b37-8b05-f25e4affee2d.0017.03/DOC_1#E0005));\n\nConsiderando que, sem prejuízo das disposições fitossanitárias contidas na Directiva 77/93/CEE, não é conveniente aplicar as citadas normas comunitárias relativas à comercialização de material de propagação e plantação quando se provar que esses materiais e plantas se destinam à exportação para países terceiros, uma vez que as disposições em vigor nesses países podem ser diferentes das previstas na presente directiva;\n\nConsiderando que o estabelecimento de normas fitossanitárias e de qualidade para cada género e espécie de produtos hortícolas exige uma longa e pormenorizada análise técnica e científica; que, consequentemente, deve ser definido um procedimento para tal fim;\n\nConsiderando que compete em primeiro lugar aos fornecedores de material de propagação e plantação de produtos hortícolas garantir que os seus produtos preencham as condições previstas na presente directiva;\n\nConsiderando que, ao efectuarem os controlos e inspecções, as autoridades competentes dos Estados-membros devem garantir que os fornecedores satisfaçam as referidas condições;\n\nConsiderando que devem ser introduzidas medidas comunitárias de controlo que garantam uma aplicação uniforme em todos os Estados-membros das normas estabelecidas na presente directiva;\n\nConsiderando que o comprador de material de propagação e de plantação tem interesse em que seja conhecida a denominação da variedade e em que seja salvaguardada a sua identidade;\n\nConsiderando que, para tanto, convém prever, na medida do possível, a aplicação das regras relativas ao aspecto varietal ta como já estabelecidas no que respeita à comercialização das sementes de produtos hortícolas;\n\nConsiderando que, para garantir a identidade e a comercialização disciplinada do material de propagação e plantação de produtos hortícolas, devem ser estabelecidas normas comunitárias no que diz respeito à separação dos lotes e à marcação; que os rótulos devem fornecer as indicações necessárias para controlo oficial e para informação do produtor;\n\nConsiderando que devem ser estabelecidas regras que, em caso de dificuldades de fornecimento temporárias, permitam a comercialização de materiais de propagação e plantação sujeitos a exigências menos rigorosas do que as previstas na presente directiva;\n\nConsiderando que, como primeiro passo para a harmonização das condições e no que se refere aos géneros e espécies referidos no anexo II para os quais será criada uma ficha, os Estados-membros devem ser proibidos de impor novas condições ou restrições à referida comercialização para além das previstas na presente directiva;\n\nConsiderando que deve ser prevista a possibilidade de autorizar a comercialização na Comunidade de material de propagação e plantação produzido em países terceiros,desde que este ofereça as mesmas garantias que o material de propagação e plantação produzido na Comunidade em conformidade com as normas comunitárias;\n\nConsiderando que, a fim de harmonizar as técnicas de controlo utilizadas nos Estados-membros e de comparar o material de propagação e plantação produzido na Comunidade com o produzido em países terceiros, devem ser efectuados ensaios comparativos que permitam verificar a conformidade do material de propagação e plantação com as exigências da presente directiva;\n\nConsiderando que, a fim de facilitar uma aplicação eficaz da presente directiva, a Comissão deve ser incumbida da adopção de medidas para a sua aplicação e para a alteração dos seus anexos; que essas medidas devem ser adoptadas por um processo que implique uma colaboração estreita entre a Comissão e os Estados-membros, no âmbito de um comité permanente das sementes e propágulos agrícolas, hortícolas e sílvicolas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "864304793166151b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva diz respeito à comercialização na Comunidade de materiais de propagação e plantação de produtos hortícolas, com excepção das sementes.\n\n2. Os géneros, espécies e respectivos híbridos, referidos no anexo II, ficarão sujeitos ao disposto nos artigos 2.º a 20.º e 24.º\n\nOs referidos artigos aplicam-se também aos porta-enxertos e às partes de plantas de outros géneros ou espécies, ou respectivos híbridos, em que tenha sido ou deva ser enxertado material de um dos géneros ou espécies ou respectivos híbridos acima indicados.\n\n3. As alterações à lista de géneros e espécies incluída no anexo II serão adoptadas de acordo com o procedimento previsto no artigo 22.º"
+  },
+  "66e0db042145ff20": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA presente directiva não é aplicável ao material de propagação e plantação comprovadamente destinado à exportação para países terceiros e como tal devidamente identificado e suficientemente isolado, sem prejuízo das normas sanitárias constantes da Directiva 77/93/CEE.\n\nAs medidas de execução do primeiro parágrafo, nomeadamente as respeitantes à identificação e aos isolamento, serão adoptadas de acordo com o procedimento previsto no artigo 21.º"
+  },
+  "209537f82a6d4cd1": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) *Material de propagação*,partes de plantas e qualquer material proveniente de plantas, incluindo os porta-enxertos destinados à propagação e à produção de produtos hortícolas;\n\nb) *Material de plantação*,plantas e partes de plantas, e os componentes enxertados no caso das plantas enxertadas, destinadas à plantação para a produção de produtos hortícolas;\n\nc) *Fornecedor*,qualquer pessoa singular ou colectiva que desempenhe, a título profissional, pelo menos uma das seguintes actividades relacionadas com material de propagação e plantação: reprodução, produção, conservação e/ou tratamento e comercialização;\n\nd) *Comercialização*,a manutenção à disposição ou em stock, a exposição ou a oferta para venda, venda e/ou entrega a outra pessoa, sob qualquer forma, de material de propagação e plantação;\n\ne) *Organismo oficial responsável* i) a autoridade central única, criada ou designada por cada Estado-membro, sob controlo do governo nacional e responsável pelas questões de qualidade, ii) qualquer autoridade pública criada: — quer a nível nacional — quer a nível regional, sob o controlo das autoridades nacionais, dentro dos limites fixados pela legislação nacional do respectivo Estado-membro. Os organismos referidos nas subalíneas i) e ii) podem, nos termos da legislação nacional, delegar as funções que lhes são confiadas pela presente directiva, para serem desempenhadas sob a sua autoridade e controlo, em pessoas colectivas, de direito público ou privado que, nos termos dos seus estatutos oficialmente aprovados, desempenhem exclusivamente funções de interesse público específicas, desde que nem essas pessoas colectivas nem os seus membros tenham qualquer interesse pessoal no resultado das medidas que tomem. Compete aos Estados-membros garantir uma estreita cooperação entre os organismos referidos na subalínea ii) e os referidos na subalínea i). Além disso, de acordo com o procedimento previsto no artigo 21.º, podem ser aprovadas outras pessoas colectivas criadas por conta de um organismo referido nas subalíneas i) e ii) que actuem sob a autoridade e o controlo desse organismo, desde que essas pessoas colectivas não tenham qualquer interesse pessoal no resultado das medidas que tomem. Os Estados-membro notificarão a Comissão dos seus organismos oficiais responsáveis. A Comissão transmitirá essa informação aos outros Estados-membros;\n\nf) *Medidas oficiais*,as medidas tomadas pelo organismo oficial responsável;\n\ng) *Inspecção oficial*,a inspecção efectuada pelo organismo oficial responsável;\n\nh) *Declaração oficial*,a declaração feita pelo organismo oficial responsável ou sob a sua responsabilidade;\n\ni) *Lote*,um conjunto de unidades de um único produto, identificável pela sua homogeneidade de composição e origem;\n\nj) *Laboratório*,a entidade pública ou privada que efectua análises e elabora diagnósticos correctos que permitem ao produtor controlar a qualidade da produção."
+  },
+  "e309285ea6ec513b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nDe acordo com o procedimento previsto no artigo 22.º, será estabelecida no anexo I para cada um dos géneros ou espécies referidos no anexo II, ou para os porta-enxertos de outros géneros ou espécies em que tenha sido ou deva ser enxertado material de um do ditos géneros ou espécies, uma ficha com uma referência às normas fitossanitárias constantes da Directiva 77/93/CEE aplicáveis ao género e/ou espécie em causa, e que estabeleça:\n\ni) Os requisitos a preencher pelo material de plantação, especialmente os que se relacionem com a qualidade e a pureza da colheita e, eventualmente, com as características varietais. Estes requisitos devem ser aditados à parte A do anexo I;\n\nii) Os requisitos a preencher pelo material de propagação, especialmente os que se relacionem com o sistema de propagação utilizado, com a pureza da cultura e, se for esse o caso, com as características varietais. Tais requisitos constam da parte B do anexo I."
+  },
+  "4de3aab9ea39b029": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-membros assegurarão que os fornecedores tomem todas as medidas necessárias para que seja dado cumprimento às disposições da presente directiva em todas as fases de produção e comercialização dos materiais de propagação e plantação.\n\n2. Para efeitos no n.º 1, os referidos fornecedores deverão efectuar, directamente ou através de um fornecedor autorizado ou do organismo oficial responsável, controlos baseados nos seguintes princípios:\n\n— identificação dos pontos críticos do respectivo processo de produção, com base nos métodos de produção utilizados,\n\n— estabelecimento e implementação de métodos de monitorização e controlo dos pontos críticos a que se refere o travessão anterior,\n\n— recolha de amostras para análise num laboratório autorizado pelo organismo oficial responsável para verificar o cumprimento das normas estabelecidas na presente directiva,\n\n— manutenção de um registo escrito ou de qualquer outro tipo de registo duradoudo dos dados a que se referem os primeiro, segundo e terceiro travessões, bem como de um registo da produção e comercialização de material de propagação e plantação, que será mantido à disposição do organismo oficial responsável. Estes documentos serão conservados por um período de, pelo menos, um ano.\n\n— No entanto, os fornecedores cuja actividade neste domínio se limite exclusivamente à distribuição de material de propagação e plantação produzido e embalado em instalações que não sejam as suas, apenas terão de manter um registo escrito ou qualquer outro tipo de registo duradouro das compras e vendas e/ou entregas desses produtos.\n\n— O disposto no presente número não se aplica aos fornecedores cuja actividade neste domínio se limite à entrega de pequenas quantidades de material de propagação e plantação a consumidores finais não profissionais.\n\n3. Caso o resultado dos controlos efectuados pelos fornecedores referidos no n.º 1 ou quaisquer informações à sua disposição revelem a presença de um ou mais dos organismos prejudiciais visados na Directiva 77/93/CEE ou, numa quantidade superior à normalmente prevista para estar em conformidade com as normas des especificados nas fichas pertinentes elaboradas em conformidade com o artigo 4.º, os ditos fornecedores devem informar imediatamente desse facto o organismo oficial responsável e tomar as medidas prescritas por este último. O fornecedor deve manter registos de todos os casos de presença de organismos prejudiciais nas suas instalações e de todas as medidas tomadas em relação a essas ocorrências.\n\n4. As modalidades de aplicação do segundo parágrafo do n.º 2 serão adoptadas de acordo com o procedimento previsto no artigo 21.º"
+  },
+  "07959a44f9527f0d": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O organismo oficial responsável autorizará a actividade dos fornecedores após ter verificado que os seus processos de produção e instalações obedecem às exigências da presente directiva no que respeita à natureza das suas actividades. A autorização terá de ser renovada se o fornecedor decidir realizar actividades diferentes daquelas para as quais tiver sido autorizado.\n\n2. O organismo oficial responsável autorizará o funcionamento dos laboratórios após ter verificado que o laboratório e os seus métodos, instalações e pessoal obedecem às exigências da presente directiva, a especificar de acordo com o procedimento previsto no artigo 21.º, tendo em conta os testes que efectua. A autorização terá de ser renovada se o laboratório decidir realizar actividades diferentes daquelas para as quais tiver sido autorizado.\n\n3. O organismo oficial responsável deverá tomar as medidas necessárias caso as exigências a que se referem os n.^os^ 1 e 2 deixem de ser respeitadas. Para este efeito, terá especialmente em conta as conclusões de todos os controlos efectuados em conformidade com o disposto no artigo 7.º\n\n4. A fiscalização e o controlo dos fornecedores, instalações e laboratórios serão efectuados regularmente pelo organismo oficial responsável, ou sob a sua responsabilidade, devendo este ter sempre livre acesso a todos os locais das instalações, a fim de assegurar o cumprimento das exigências da presente directiva. Poderão ser adoptadas medidas de execução da fiscalização e controlo de acordo com o procedimento previsto no artigo 21.º\n\nCaso essa fiscalização e esse controlo revelem que as exigências da presente directiva não estão a ser respeitadas, o organismo oficial responsável deverá tomar as medidas adequadas."
+  },
+  "eb9e000f83d0f1bf": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os peritos da Comissão, em cooperação com os organismos oficiais responsáveis dos Estados-membros, poderão efectuar inspecções *in loco*, na medida do necessário, para assegurar a aplicação uniforme da presente directiva, e, nomeadamente, para verificar se os fornecedores estão efectivamente a respeitar as exigências nela previstas. O Estado-membro em cujo território se efectue uma inspecção deverá prestar toda a assistência necessária aos peritos no desempenho das suas funções. A Comissão informará os Estados-membros do resultado das investigações.\n\n2. As regras de aplicação do n.º 1 serão adoptadas de acordo com o procedimento previsto no artigo 21.º"
+  },
+  "3625c6acdb96caa4": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. O material de propagação e plantação apenas será comercializado no mercado por fornecedores autorizados e se respeitar as exigências relativas ao material de propagação e plantação estabelecidas na ficha a que se refere o artigo 4.º\n\n2. Sem prejuízo do disposto na Directiva 77/93/CEE, o n.º 1 não é aplicável ao material de propagação e plantação destinado a:\n\na) Ensaios ou fins científicos, ou\n\nb) Trabalhos de selecção, ou\n\nc) Medidas que visem a conservação da diversidade genética.\n\nAs modalidades de aplicação das alíneas a) e b) são adoptadas quando necessário de acordo com o procedimento previsto no artigo 21.º As modalidades de aplicação da alínea c) adoptadas, de preferência, antes de 1 de Janeiro de 1993, de acordo com o mesmo procedimento."
+  },
+  "3ff40f83a162583f": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Sem prejuízo do artigo 2.º, os materiais de propagação e plantação de produtos hortícolas que pertençam aos géneros ou espécies enumerados no anexo II e que estejam igualmente abrangidas pela Directiva 70/458/CEE só serão comercializados na Comunidade se a variedade a que pertencem for admitida em conformidade com o disposto na referida directiva.\n\n2. Sem prejuízo do artigo 2.º e dos n.^os^ 3 e 4 do presente artigo, os materiais de propagação e plantação de produtos hortícolas pertencentes aos géneros ou espécies enumerados no anexo II que não sejam abrangidos pela Directiva 70/458/CEE só serão comercializados na Comunidade se pertencerem a uma variedade oficialmente admitida em pelo menos um Estado-membro.\n\nNo que se refere às condições de admissão, são aplicáveis as disposições previstas nos artigos 4.º e 5.º e no n.º 3 do artigo 10.º da referida directiva.\n\nNo que respeita aos procedimentos e formalidades relativos à admissão e à selecção de conservação, são aplicáveis *mutatis mutandis* as disposições dos n.^os^ 2 e 4 do artigo 3.º, dos artigos 6.º, 7.º e 8.º, dos n.^os^ 1, 2 e 4 do artigo 10.º e dos artigos 11.º a 15.º da mesma directiva.\n\nOs resultados dos exames não oficiais e os ensinamentos práticos recolhidos no decurso da cultura podem sempre ser tomados em consideração.\n\n3. Os Estados-membros tomarão todas as medidas necessárias para assegurar que a admissão oficial das variedades pertencentes aos géneros ou espécies referidas no n.º 2 concedida antes de 1 de Janeiro de 1993 em conformidade com princípios diferentes dos previstos na Directiva 70/458/CEE ou com base no facto de os respectivos materiais terem sido comercializados no seu território antes da referida data caduque, o mais tardar, em 30 de Junho de 1998, a não ser que nessa data as variedades em questão tenham sido admitidas em conformidade com o disposto no n.º 1.\n\n4. As variedades oficialmente admitidas em conformidade com o disposto nos n.^os^ 2 ou 3 serão inscritas no «Catálogo comum das variedades das espécies de legumes» referido no artigo 17.º da Directiva 70/458/CEE. As disposições dos n.^os^ 2 e 3 do artigo 16.º e dos artigos 17.º, 18.º e 19.º da mesma directiva são aplicáveis *mutatis mutandis*.\n\nEsta publicação designa com uma referência especial as variedades admitidas em conformidade com o disposto no n.º 3."
+  },
+  "8ded20346725e30e": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. No período de cultivo e durante as operação de colheita ou separação do material de origem, o material de propagação e plantação de produtos hortícolas deve ser mantido em lotes separados.\n\n2. Caso material de propagação e plantação de origens diferentes seja colocado conjuntamente ou misturado durante o acondicionamento, a armazenagem, o transporte ou o fornecimento, o fornecedor deverá conservar registos com os seguintes dados: composição do lote e origem de cada um dos seus componentes.\n\n3. Os Estados-membros velarão pelo cumprimento das exigências referidas nos n.^os^ 1 e 2 através de inspecções oficiais."
+  },
+  "691786f779196ffa": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Sem prejuízo do n.º 2 do artigo 10.º, os materiais de propagação e plantação de produtos hortícolas apenas devem ser comercializados em lotes suficientemente homogéneos e se se considerar que satisfazem o disposto na presente directiva e forem acompanhados de um documento emitido pelo fornecedor, em conformidade com as condições indicadas na ficha prevista no artigo 4.º Caso este documento contenha uma declaração oficial, esta deverá ficar claramente separada das outras partes do documento.\n\nSerão incluídas na ficha prevista no artigo 4.º exigências relativas à rotulagem e/ou selagem e acondicionamento do material de propagação e plantação.\n\n2. Em caso de fornecimento pelo retalhista de materiais de propagação e plantação de produtos hortícolas a consumidores finais não profissionais, as exigências relativas à rotulagem poderão ser limitadas à informação adequada sobre o produto."
+  },
+  "3f07012bf0fbffa4": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-membros podem dispensar:\n\n— da aplicação do artigo 11.º, os pequenos produtores cuja produção total e venda de material de propagação e plantação de produtos hortícolas tenha como destino final pessoas do mercado local que não façam profissão da produção de vegetais («circulação local»),\n\n— dos controlos e da inspecção oficial referidos no artigo 18.º, a circulação local de material de propagação e plantação de produtos hortícolas produzido pelos pequenos produtores a que se refere o travessão anterior.\n\nDe acordo com o procedimento previsto no artigo 21.º, serão adoptadas modalidades de aplicação relativas a outras exigências referentes às dispensas mencionadas nos primeiro e segundo travessões, em especial no que se refere às noções de «pequenos produtores» e «mercado local» e aos procedimentos que lhes dizem respeito."
+  },
+  "763e7c33296f410e": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nCaso surjam dificuldades temporárias no fornecimento de material de propagação e plantação de produtos hortícolas que satisfaça as exigências da presente directiva, poderão ser adoptadas, de acordo com o procedimento previsto no artigo 21.º, disposições que subordinem a comercialização desses produtos a exigências menos rigorosas, sem prejuízo das normas fitossanitárias definidas na Directiva 77/93/CEE."
+  },
+  "bfda1559fab16625": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Os materiais de propagação e plantação de produtos hortícolas que satisfaçam as exigências e condições previstas na presente directiva não serão sujeitos a quaisquer restrições à comercialização no que se refere a fornecedor, estado fitossanitário, meio de cultura e condições de inspecção para além das previstas na presente directiva.\n\n2. A comercialização do material de propagação e plantação de produtos hortícolas pertencentes a variedades que constem do «Catálogo comum das variedades das espécies de legumes» não será submetida a quaisquer restrições quanto à variedade que não sejam as previstas ou referidas na presente directiva."
+  },
+  "1cb7e7f7482ebc2c": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nNo que diz respeito aos produtos a que se refere o anexo II, os Estados-membros não imporão condições mais rigorosas ou restrições à comercialização diferentes das previstas nas fichas previstas no artigo 4.º ou, na falta destas, diferentes das existentes à data de adopção da presente directiva."
+  },
+  "56ba6c6552a7d93c": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Haverá que decidir, de acordo com o procedimento previsto no artigo 21.º, se o material de propagação e plantação de produtos hortícolas produzido num país terceiro e que ofereça as mesmas garantias no que diz respeito a obrigações do fornecedor, identidade, características, estado fitossanitário, meio de cultura, embalagem, condições de inspecção, marcação e selagem é equivalente em todos estes aspectos ao material de propagação e plantação de produtos hortícolas produzido na Comunidade em conformidade com as exigências e condições previstas na presente directiva.\n\n2. Equanto se aguardam as decisões referidas no n.º 1, os Estados-membros podem, até [**►M9**](http://publications.europa.eu/resource/celex/32005D0055) 31 de Dezembro de 2007**◄** e sem prejuízo do disposto na Directiva 77/93/CEE, aplicar à importação de material de propagação e plantação de produtos hortícolas proveniente de países terceiros condições pelo menos equivalentes às estabelecidas, a título temporário ou permanente, nas fichas previstas no artigo 4.º Se tais condições não estiverem previstas nas referidas fichas, as condições aplicáveis à importação devem ser pelo menos equivalentes às aplicáveis à produção no Estado-membro em causa.\n\nEnquanto se aguardam as decisões referidas no n.º 1, a data mencionada no parágrafo anterior poderá ser prorrogada para os diferentes países terceiros, de acordo com o procedimento previsto no artigo 21.º\n\nO material de propagação e plantação de produtos hortícolas importado por um Estado-membro na sequência de uma decisão tomada por esse Estado-membro nos termos do primeiro parágrafo não será sujeito noutros Estados-membros a quaisquer restrições à comercialização no tocante aos aspectos referidos no n.º 1."
+  },
+  "8f1b1b6fd14a9d8e": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nOs Estados-membros assegurarão que o material de propagação e plantação de produtos hortícolas seja sujeito a uma inspecção oficial efectuada por amostragem, no decurso da produção e comercialização para verificação da observância das exigências e condições previstas na presente directiva."
+  },
+  "d7fb2c9fa58bbc4f": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nAs regras de execução aplicáveis aos controlos previstos no artigo 5.º e à inspecção oficial prevista nos artigos 10.º e 17.º, incluindo os métodos de amostragem, serão adoptadas, se necessário, em conformidade com o procedimento previsto no artigo 21.º"
+  },
+  "782574bcf4c7ccb4": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. Se, por ocasião da fiscalização e dos controlos previstos no n.º 4 do artigo 6.º, da inspecção oficial prevista no artigo 17.º ou dos ensaios previstos no artigo 20.º, se verificar que o material de propagação ou plantação de produtos hortícolas não respeita as exigências da presente directiva, o organismo oficial responsável do Estado-membro envolvido tomará as medidas adequadas para garantir a sua conformidade com o disposto na presente directiva ou, caso tal não seja possível, para proibir a comercialização desse material de propagação ou plantação na Comunidade.\n\n2. Caso se verifique que o material de propagação ou plantação de produtos hortícolas comercializado por um determinado fornecedor não respeita as exigências e condições previstas na presente directiva, o Estado-membro em causa deverá assegurar que sejam tomadas medidas adequadas contra esse fornecedor. Caso o fornecedor seja proibido de comercializar material de propagação e plantação de produtos hortícolas, o Estado-membro notificará desse facto a Comissão e os organismos nacionais competentes dos Estados-membros.\n\n3. As medidas adoptadas ao abrigo do n.º 2 serão revogadas logo que se verifique, com suficiente rigor, que o material de propagação ou plantação de produtos hortícolas destinado a ser comercializado pelo referido fornecedor passou a respeitar as exigências e condições da presente directiva."
+  },
+  "c2f4f140dafc014a": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. Os ensaios ou, eventualmente, os testes devem ser realizados nos Estados-Membros em amostras, a fim de verificar se o material de propagação e plantação de produtos hortícolas observa os requisitos e condições, da presente directiva, nomeadamente a nível fitossanitário. A Comissão pode organizar inspecções aos ensaios a efectuar por representantes dos Estados-Membros e da Comissão.\n\n2. Podem ser efectuados na Comunidade ensaios e testes comparativos comunitários para o controlo ulterior de amostras de material de propagação e plantação de produtos hortícolas colocado no mercado ao abrigo das disposições, compulsivas ou facultativas e inclusivamente fitossanitárias, da presente directiva. Os ensaios e testes comparativos podem incluir o seguinte:\n\n— material de propagação e plantação de produtos hortícolas produzido em países terceiros,\n\n— material de propagação e plantação de produtos hortícolas próprio para a agricultura biológica,\n\n— material de propagação e plantação de produtos hortícolas comercializado no âmbito de medidas destinadas a contribuir para a preservação da diversidade genética.\n\n3. Estes ensaios e testes comparativos devem ser utilizados para harmonizar os métodos técnicos de análise de material de propagação e plantação de produtos hortícolas e verificar a observância das condições a que esse material deve obedecer.\n\n4. A Comissão, deliberando nos termos do artigo 21.º, toma as disposições necessárias para a realização dos ensaios e testes comparativos. A Comissão deve informar o Comité referido no artigo 21.º sobre as disposições técnicas relativas à realização dos ensaios e testes e respectivos resultados. Sempre que surjam problemas fitossanitários, a Comissão deve notificar o facto ao Comité Fitossanitário Permanente.\n\n5. A Comunidade pode contribuir financeiramente para a realização dos ensaios e testes referidos nos n.º 2 e 3.\n\nA contribuição financeira não deve exceder as dotações anuais estabelecidas pela autoridade orçamental.\n\n6. Os ensaios e testes que podem beneficiar de apoio financeiro da Comunidade, bem como as normas pormenorizadas para a concessão da contribuição financeira, são estabelecidos nos termos do artigo 21.º\n\n7. Os ensaios e testes previstos nos n.º 2 e 3 apenas podem ser realizados por autoridades estatais ou por pessoas colectivas agindo sob a responsabilidade do Estado."
+  },
+  "f11b0a0d86f5a2e5": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. A Comissão é assistida pelo Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE ([^6^](http://publications.europa.eu/resource/cellar/38055dbe-c8fd-4b37-8b05-f25e4affee2d.0017.03/DOC_1#E0006)).\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "6bb8096e8048496d": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. A Comissão é assistida pelo Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Silvícolas.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^7^](http://publications.europa.eu/resource/cellar/38055dbe-c8fd-4b37-8b05-f25e4affee2d.0017.03/DOC_1#E0007)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses."
+  },
+  "292f66870f66ca40": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nAs alterações a introduzir nas fichas previstas no artigo 4.º e nas condições e modalidades adoptadas para aplicação da presente directiva serão adoptadas de acordo com o procedimento previsto no artigo 21.º"
+  },
+  "1e2bd24e805cdc7c": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1. Os Estados-membros velarão por que o material de propagação e plantação de produtos hortícolas produzido no seu território e destinado à comercialização satisfaça as exigências previstas na presente directiva.\n\n2. Se, por ocasião de uma inspecção oficial, se verificar que o material de propagação e plantação de produtos hortícolas não pode ser comercializado por não satisfazer um requisito de carácter fitossanitário, o Estado-membro envolvido adoptará as medidas oficiais adequadas para eliminar qualquer risco fitossanitário que daí possa advir."
+  },
+  "54bf5a8142c5a407": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar até 31 de Dezembro de 1992. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. No que diz respeito aos artigos 5.º a 11.º, 14.º, 15.º, 17.º, 19.º e 24.º, a data de aplicação para cada género ou espécie referida no anexo II será adoptada de acordo com o procedimento previsto no artigo 21.º, ao ser elaborada a ficha a que se refere o artigo 4.º"
+  },
+  "3301bf310c4f7cbd": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "8c2046199b6507cb": {
+   "fragment_id": "Condições a fixar nos termos do artigo 4.º",
+   "type": "divisao",
+   "heading": "Condições a fixar nos termos do artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Condições a fixar nos termos do artigo 4.º"
+  },
+  "38be095c860b68d1": {
+   "fragment_id": "Parte A",
+   "type": "divisao",
+   "heading": "Parte A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A\n\nCondições a preencher pelo material de plantação de produtos hortícolas."
+  },
+  "16782ce5d43323a6": {
+   "fragment_id": "Parte B",
+   "type": "divisao",
+   "heading": "Parte B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B\n\nFichas de géneros e espécies não enumerados na Directiva 70/458/CEE estipulando as condições a preencher pelo material de propagação."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "8e157e7ab887e6b8": {
+   "fragment_id": "Lista dos géneros e espécies a que se refere o n.º 2 do artigo 1.º",
+   "type": "divisao",
+   "heading": "Lista dos géneros e espécies a que se refere o n.º 2 do artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista dos géneros e espécies a que se refere o n.º 2 do artigo 1.º\n\n— Allium ascalonicum Chalota\n\n— Allium cepa L. Cebola\n\n— Allium fistulosum L. Cebolinho\n\n— Allium porrum L. Alho porro\n\n— Allium sativum Alho\n\n— Anthriscus cerefolium (L.) Hoffm. Cerefólio\n\n— Apium graveolens L. Aipo\n\n— Asparagus officinalis L. Espargo\n\n— Beta vulgaris L. var. vulgaris Acelga\n\n— Beta vulgaris L. var. conditiva Alef. Beterraba encarnada\n\n— Brassica oleracea L. convar. acephala (DC.) Alef. var. sabellica L. Couve franjada\n\n— Brassica oleracea L. convar. botrytis (L.) Alef. var. botrytis L. Couve-flor\n\n— Brassica oleracea L. convar. botrytis (L.) Alef. var. cymosa Duch. Brócolos\n\n— Brassica oleracea L. convar. var. gemmifera DC. Couve-de-bruxelas\n\n— Brassica oleracea L. convar. capitata (L.) Alef. var. sabauda L. Couve lombarda\n\n— Brassica oleracea L. convar. capitata (L.) Alef. var. alba DC. Repolho\n\n— Brassica oleracea L. convar. capitata (L.) Alef. var. rubra DC. Couve roxa\n\n— Brassica oleracea L. convar. acephala (DC.) Alef. var. gongylodes Couve-rábano\n\n— Brassica pekinensis L. Couve chinesa\n\n— Brassica rapa L. var. rapa Nabo, nabiça\n\n— Capsicum annuum L. Pimento\n\n— Chicorium endivia L. Endívia\n\n— Chicorium intybus L. (partim) Chicória crespa-chicória escarola\n\n— Citrullus lanatus (Thunb.) Matsum. et Nakai Melancia\n\n— Cucumis melo L. Melão\n\n— Cucumis sativus L. Pepino\n\n— Cucurbita maxima Duchesne Abóbora menina\n\n— Cucurbita pepo L. Aboborinha\n\n— Cynara cardunculus Cardo-de-coalho\n\n— Cynara scolymus Alcachofra\n\n— Daucus carota L. Cenoura\n\n— Foeniculum vulgare P. Mill. Funcho\n\n— Lactuca sativa L. Alface\n\n— Lycopersicon lycopersicum (L.) Karsten ex Farw. Tomate\n\n— Petroselinum crispum (Mill.) Nyman ex A. W. Hill Salsa\n\n— Phaseolus coccineus L. Feijão-de-sete-anos\n\n— Phaseolus vulgaris L. Feijão\n\n— Pisum sativum L. (partim) Ervilha\n\n— Raphanus sativus L. Rabanete\n\n— Rheum Ruibarbo\n\n— Scorzonera hispanica L. Escorcioneira\n\n— Solanum melongena L. Beringela\n\n— Spinacia oleracea L. Espinafres\n\n— Valerianelle locusta (L.) Laterr. Alface-de-cordeiro\n\n— Vicia faba L. (partim) Fava\n\n---"
+  },
+  "4b7458c2ab372168": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/38055dbe-c8fd-4b37-8b05-f25e4affee2d.0017.03/DOC_1#src.E0001)) JO n.º C 46 de 27. 2. 1990, p. 4. e\n\n> JO n.º C 296 de 15. 11. 1991, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/38055dbe-c8fd-4b37-8b05-f25e4affee2d.0017.03/DOC_1#src.E0002)) JO n.º C 240 de 16. 9. 1991, p. 193.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/38055dbe-c8fd-4b37-8b05-f25e4affee2d.0017.03/DOC_1#src.E0003)) JO n.º C 182 de 23. 7. 1990, p. 19.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/38055dbe-c8fd-4b37-8b05-f25e4affee2d.0017.03/DOC_1#src.E0004)) JO n.º L 225 de 12. 10. 1970, p. 7. Directiva com a última redacção que lhe foi dada pela Directiva 90/654/CEE (JO n.º L 353 de 17. 12. 1990, p. 48).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/38055dbe-c8fd-4b37-8b05-f25e4affee2d.0017.03/DOC_1#src.E0005)) JO n.º L 26 de 31. 1. 1977, p. 20. Directiva com a última redacção que lhe foi dada pela Directiva 92/10/CEE (JO n.º L 70 de 17. 3. 1992, p. 27).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/38055dbe-c8fd-4b37-8b05-f25e4affee2d.0017.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> .\n\n> ([^7^](http://publications.europa.eu/resource/cellar/38055dbe-c8fd-4b37-8b05-f25e4affee2d.0017.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23."
+  },
+  "2bb83f719e7e01f1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Abril de 1992\n\nrelativa à comercialização de material de propagação e plantação de produtos hortícolas, com excepção das sementes\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/c2f472b3-bbfc-4147-a142-7c4073307fc8.0016.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/c2f472b3-bbfc-4147-a142-7c4073307fc8.0016.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/c2f472b3-bbfc-4147-a142-7c4073307fc8.0016.03/DOC_1#E0003)),\n\nConsiderando que a produção de produtos hortícolas ocupa um lugar importante na agricultura da Comunidade;\n\nConsiderando que a obtenção de resultados satisfatórios na cultura de produtos hortícolas depende em larga medida da qualidade e estado fitossanitário não apenas das sementes já objecto da Directiva 70/458/CEE do Conselho, de 29 de Setembro de 1970, relativa à comercialização de sementes de produtos hortícolas ([^4^](http://publications.europa.eu/resource/cellar/c2f472b3-bbfc-4147-a142-7c4073307fc8.0016.03/DOC_1#E0004)), mas também desses produtos e dos materiais de propagação utilizados; que, consequentemente, determinados Estados-membros estabeleceram regras destinadas a garantir a qualidade e o bom estado fitossanitário do material de propagação e plantação de produtos hortícolas colocado no mercado;\n\nConsiderando que as diferenças no tratamento dispensado aos materiais de propação e plantação nos vários Estados-membros podem criar entraves ao comércio e dessa forma impedir a livre circulação desses produtos na Comunidade; que, tendo em vista a realização do mercado interno, os referidos entraves devem ser eliminados através da adopção de disposições comunitárias que substituam as disposições nacionais;\n\nConsiderando que o estabelecimento de condições harmonizadas a nível comunitário irá garantir que, em toda a Comunidade, os compradores recebam materiais de propagação e plantação em bom estado fitossanitário e de boa qualidade;\n\nConsiderando que, na medida em que digam respeito aos aspectos fitossanitários, as referidas condições harmonizadas devem ser conformes à Directiva 77/93/CEE do Conselho, de 21 de Dezembro de 1976, relativa às medidas de protecção contra a introdução nos Estados-membros de organismos prejudiciais às plantas ou produtos vegetais ([^5^](http://publications.europa.eu/resource/cellar/c2f472b3-bbfc-4147-a142-7c4073307fc8.0016.03/DOC_1#E0005));\n\nConsiderando que, sem prejuízo das disposições fitossanitárias contidas na Directiva 77/93/CEE, não é conveniente aplicar as citadas normas comunitárias relativas à comercialização de material de propagação e plantação quando se provar que esses materiais e plantas se destinam à exportação para países terceiros, uma vez que as disposições em vigor nesses países podem ser diferentes das previstas na presente directiva;\n\nConsiderando que o estabelecimento de normas fitossanitárias e de qualidade para cada género e espécie de produtos hortícolas exige uma longa e pormenorizada análise técnica e científica; que, consequentemente, deve ser definido um procedimento para tal fim;\n\nConsiderando que compete em primeiro lugar aos fornecedores de material de propagação e plantação de produtos hortícolas garantir que os seus produtos preencham as condições previstas na presente directiva;\n\nConsiderando que, ao efectuarem os controlos e inspecções, as autoridades competentes dos Estados-membros devem garantir que os fornecedores satisfaçam as referidas condições;\n\nConsiderando que devem ser introduzidas medidas comunitárias de controlo que garantam uma aplicação uniforme em todos os Estados-membros das normas estabelecidas na presente directiva;\n\nConsiderando que o comprador de material de propagação e de plantação tem interesse em que seja conhecida a denominação da variedade e em que seja salvaguardada a sua identidade;\n\nConsiderando que, para tanto, convém prever, na medida do possível, a aplicação das regras relativas ao aspecto varietal ta como já estabelecidas no que respeita à comercialização das sementes de produtos hortícolas;\n\nConsiderando que, para garantir a identidade e a comercialização disciplinada do material de propagação e plantação de produtos hortícolas, devem ser estabelecidas normas comunitárias no que diz respeito à separação dos lotes e à marcação; que os rótulos devem fornecer as indicações necessárias para controlo oficial e para informação do produtor;\n\nConsiderando que devem ser estabelecidas regras que, em caso de dificuldades de fornecimento temporárias, permitam a comercialização de materiais de propagação e plantação sujeitos a exigências menos rigorosas do que as previstas na presente directiva;\n\nConsiderando que, como primeiro passo para a harmonização das condições e no que se refere aos géneros e espécies referidos no anexo II para os quais será criada uma ficha, os Estados-membros devem ser proibidos de impor novas condições ou restrições à referida comercialização para além das previstas na presente directiva;\n\nConsiderando que deve ser prevista a possibilidade de autorizar a comercialização na Comunidade de material de propagação e plantação produzido em países terceiros,desde que este ofereça as mesmas garantias que o material de propagação e plantação produzido na Comunidade em conformidade com as normas comunitárias;\n\nConsiderando que, a fim de harmonizar as técnicas de controlo utilizadas nos Estados-membros e de comparar o material de propagação e plantação produzido na Comunidade com o produzido em países terceiros, devem ser efectuados ensaios comparativos que permitam verificar a conformidade do material de propagação e plantação com as exigências da presente directiva;\n\nConsiderando que, a fim de facilitar uma aplicação eficaz da presente directiva, a Comissão deve ser incumbida da adopção de medidas para a sua aplicação e para a alteração dos seus anexos; que essas medidas devem ser adoptadas por um processo que implique uma colaboração estreita entre a Comissão e os Estados-membros, no âmbito de um comité permanente das sementes e propágulos agrícolas, hortícolas e sílvicolas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "32cb96587afbd050": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. A Comissão é assistida pelo Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE ([^6^](http://publications.europa.eu/resource/cellar/c2f472b3-bbfc-4147-a142-7c4073307fc8.0016.03/DOC_1#E0006)).\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "7552f321536b2b5b": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. A Comissão é assistida pelo Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Silvícolas.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^7^](http://publications.europa.eu/resource/cellar/c2f472b3-bbfc-4147-a142-7c4073307fc8.0016.03/DOC_1#E0007))\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses."
+  },
+  "1aed4c2c6b754dc9": {
+   "fragment_id": "Lista dos géneros e espécies a que se refere o n.º 2 do artigo 1.º",
+   "type": "divisao",
+   "heading": "Lista dos géneros e espécies a que se refere o n.º 2 do artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista dos géneros e espécies a que se refere o n.º 2 do artigo 1.º\n\n| *Allium cepa* L. |  |\n| --- | --- |\n| — grupo *cepa* | Cebola «Echalion» |\n| — grupo *aggregatum* | Chalota |\n| *Allium fistulosum* L. | Cebolinha-comum |\n| *Allium porrum* L. | Alho-porro |\n| *Allium sativum* L. | Alho |\n| *Allium schoenoprasum* L. | Cebolinho |\n| *Anthriscus cerefolium* (L.) Hoffm. | Cerefólio |\n| *Apium graveolens* L. | Aipo Aipo-rábano |\n| *Asparagus officinalis* L. | Espargo |\n| *Beta vulgaris* L. | Beterraba, incluindo «Cheltenham beet» Acelga |\n| *Brassica oleracea* L. | Couve-frisada Couve-flor Couve-brócolo Couve-de-bruxelas Couve-lombarda Couve-repolho Couve-roxa Couve-rábano |\n| *Brassica rapa* L. | Couve-chinesa Nabo |\n| *Capsicum annuum* L. | Pimento |\n| *Cichorium endivia* L. | Chicória frisada Escarola |\n| *Cichorium intybus* L. | Chicória “witloof” Chicória com folhas largas ou chicória italiana Chicória para café |\n| *Citrullus lanatus* (Thunb.) Matsum. et Nakai | Melancia |\n| *Cucumis melo* L. | Melão |\n| *Cucumis sativus* L. | Pepinos |\n| *Cucurbita maxima* Duchesne | Abóbora-menina |\n| *Cucurbita pepo* L. | Abóbora-porqueira e aboborinha |\n| *Cynara cardunculus* L. | Alcachofra Cardo |\n| *Daucus carota* L. | Cenoura Cenoura forrageira |\n| *Foeniculum vulgare* Mill. | Funcho |\n| *Lactuca sativa* L. | Alface |\n| *Lycopersicon esculentum* Mill. | Tomate |\n| *Petroselinum crispum* (Mill.) Nyman ex A. W. Hill | Salsa |\n| *Phaseolus coccineus* L. | Feijão-escarlate |\n| *Phaseolus vulgaris* L. | Feijões |\n| *Pisum sativum* L. (partim) | Ervilha rugosa Ervilha lisa Ervilha torta |\n| *Raphanus sativus* L. | Rabanete Rábano |\n| *Rheum rhabarbarum* L. | Ruibarbo |\n| *Scorzonera hispanica* L. | Escorcioneira |\n| *Solanum melongena* L. | Beringela |\n| *Spinacia oleracea* L. | Espinafre |\n| *Valerianella locusta* (L.) Laterr. | Alface-de-cordeiro |\n| *Vicia faba* L. (partim) | Fava |\n| *Zea mays* L. (partim) | Milho doce Milho pipoca |\n\n---"
+  },
+  "8584aec83356d3aa": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c2f472b3-bbfc-4147-a142-7c4073307fc8.0016.03/DOC_1#src.E0001)) JO n.º C 46 de 27. 2. 1990, p. 4. e\n\n> JO n.º C 296 de 15. 11. 1991, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/c2f472b3-bbfc-4147-a142-7c4073307fc8.0016.03/DOC_1#src.E0002)) JO n.º C 240 de 16. 9. 1991, p. 193.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/c2f472b3-bbfc-4147-a142-7c4073307fc8.0016.03/DOC_1#src.E0003)) JO n.º C 182 de 23. 7. 1990, p. 19.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/c2f472b3-bbfc-4147-a142-7c4073307fc8.0016.03/DOC_1#src.E0004)) JO n.º L 225 de 12. 10. 1970, p. 7. Directiva com a última redacção que lhe foi dada pela Directiva 90/654/CEE (JO n.º L 353 de 17. 12. 1990, p. 48).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/c2f472b3-bbfc-4147-a142-7c4073307fc8.0016.03/DOC_1#src.E0005)) JO n.º L 26 de 31. 1. 1977, p. 20. Directiva com a última redacção que lhe foi dada pela Directiva 92/10/CEE (JO n.º L 70 de 17. 3. 1992, p. 27).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/c2f472b3-bbfc-4147-a142-7c4073307fc8.0016.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/c2f472b3-bbfc-4147-a142-7c4073307fc8.0016.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23."
+  },
+  "a2ee63d4e2bdeb68": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Abril de 1992\n\nrelativa à comercialização de material de propagação e plantação de produtos hortícolas, com excepção das sementes\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/96798313-b61f-4806-b036-bbbffb56adf5.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/96798313-b61f-4806-b036-bbbffb56adf5.0017.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/96798313-b61f-4806-b036-bbbffb56adf5.0017.03/DOC_1#E0003)),\n\nConsiderando que a produção de produtos hortícolas ocupa um lugar importante na agricultura da Comunidade;\n\nConsiderando que a obtenção de resultados satisfatórios na cultura de produtos hortícolas depende em larga medida da qualidade e estado fitossanitário não apenas das sementes já objecto da Directiva 70/458/CEE do Conselho, de 29 de Setembro de 1970, relativa à comercialização de sementes de produtos hortícolas ([^4^](http://publications.europa.eu/resource/cellar/96798313-b61f-4806-b036-bbbffb56adf5.0017.03/DOC_1#E0004)), mas também desses produtos e dos materiais de propagação utilizados; que, consequentemente, determinados Estados-membros estabeleceram regras destinadas a garantir a qualidade e o bom estado fitossanitário do material de propagação e plantação de produtos hortícolas colocado no mercado;\n\nConsiderando que as diferenças no tratamento dispensado aos materiais de propação e plantação nos vários Estados-membros podem criar entraves ao comércio e dessa forma impedir a livre circulação desses produtos na Comunidade; que, tendo em vista a realização do mercado interno, os referidos entraves devem ser eliminados através da adopção de disposições comunitárias que substituam as disposições nacionais;\n\nConsiderando que o estabelecimento de condições harmonizadas a nível comunitário irá garantir que, em toda a Comunidade, os compradores recebam materiais de propagação e plantação em bom estado fitossanitário e de boa qualidade;\n\nConsiderando que, na medida em que digam respeito aos aspectos fitossanitários, as referidas condições harmonizadas devem ser conformes à Directiva 77/93/CEE do Conselho, de 21 de Dezembro de 1976, relativa às medidas de protecção contra a introdução nos Estados-membros de organismos prejudiciais às plantas ou produtos vegetais ([^5^](http://publications.europa.eu/resource/cellar/96798313-b61f-4806-b036-bbbffb56adf5.0017.03/DOC_1#E0005));\n\nConsiderando que, sem prejuízo das disposições fitossanitárias contidas na Directiva 77/93/CEE, não é conveniente aplicar as citadas normas comunitárias relativas à comercialização de material de propagação e plantação quando se provar que esses materiais e plantas se destinam à exportação para países terceiros, uma vez que as disposições em vigor nesses países podem ser diferentes das previstas na presente directiva;\n\nConsiderando que o estabelecimento de normas fitossanitárias e de qualidade para cada género e espécie de produtos hortícolas exige uma longa e pormenorizada análise técnica e científica; que, consequentemente, deve ser definido um procedimento para tal fim;\n\nConsiderando que compete em primeiro lugar aos fornecedores de material de propagação e plantação de produtos hortícolas garantir que os seus produtos preencham as condições previstas na presente directiva;\n\nConsiderando que, ao efectuarem os controlos e inspecções, as autoridades competentes dos Estados-membros devem garantir que os fornecedores satisfaçam as referidas condições;\n\nConsiderando que devem ser introduzidas medidas comunitárias de controlo que garantam uma aplicação uniforme em todos os Estados-membros das normas estabelecidas na presente directiva;\n\nConsiderando que o comprador de material de propagação e de plantação tem interesse em que seja conhecida a denominação da variedade e em que seja salvaguardada a sua identidade;\n\nConsiderando que, para tanto, convém prever, na medida do possível, a aplicação das regras relativas ao aspecto varietal ta como já estabelecidas no que respeita à comercialização das sementes de produtos hortícolas;\n\nConsiderando que, para garantir a identidade e a comercialização disciplinada do material de propagação e plantação de produtos hortícolas, devem ser estabelecidas normas comunitárias no que diz respeito à separação dos lotes e à marcação; que os rótulos devem fornecer as indicações necessárias para controlo oficial e para informação do produtor;\n\nConsiderando que devem ser estabelecidas regras que, em caso de dificuldades de fornecimento temporárias, permitam a comercialização de materiais de propagação e plantação sujeitos a exigências menos rigorosas do que as previstas na presente directiva;\n\nConsiderando que, como primeiro passo para a harmonização das condições e no que se refere aos géneros e espécies referidos no anexo II para os quais será criada uma ficha, os Estados-membros devem ser proibidos de impor novas condições ou restrições à referida comercialização para além das previstas na presente directiva;\n\nConsiderando que deve ser prevista a possibilidade de autorizar a comercialização na Comunidade de material de propagação e plantação produzido em países terceiros,desde que este ofereça as mesmas garantias que o material de propagação e plantação produzido na Comunidade em conformidade com as normas comunitárias;\n\nConsiderando que, a fim de harmonizar as técnicas de controlo utilizadas nos Estados-membros e de comparar o material de propagação e plantação produzido na Comunidade com o produzido em países terceiros, devem ser efectuados ensaios comparativos que permitam verificar a conformidade do material de propagação e plantação com as exigências da presente directiva;\n\nConsiderando que, a fim de facilitar uma aplicação eficaz da presente directiva, a Comissão deve ser incumbida da adopção de medidas para a sua aplicação e para a alteração dos seus anexos; que essas medidas devem ser adoptadas por um processo que implique uma colaboração estreita entre a Comissão e os Estados-membros, no âmbito de um comité permanente das sementes e propágulos agrícolas, hortícolas e sílvicolas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "f1e797414f9f8bf7": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Haverá que decidir, de acordo com o procedimento previsto no artigo 21.º, se o material de propagação e plantação de produtos hortícolas produzido num país terceiro e que ofereça as mesmas garantias no que diz respeito a obrigações do fornecedor, identidade, características, estado fitossanitário, meio de cultura, embalagem, condições de inspecção, marcação e selagem é equivalente em todos estes aspectos ao material de propagação e plantação de produtos hortícolas produzido na Comunidade em conformidade com as exigências e condições previstas na presente directiva.\n\n2. Equanto se aguardam as decisões referidas no n.º 1, os Estados-membros podem, até [**►M11**](http://publications.europa.eu/resource/celex/32007D0699) 31 de Dezembro de 2012**◄** e sem prejuízo do disposto na Directiva 77/93/CEE, aplicar à importação de material de propagação e plantação de produtos hortícolas proveniente de países terceiros condições pelo menos equivalentes às estabelecidas, a título temporário ou permanente, nas fichas previstas no artigo 4.º Se tais condições não estiverem previstas nas referidas fichas, as condições aplicáveis à importação devem ser pelo menos equivalentes às aplicáveis à produção no Estado-membro em causa.\n\nEnquanto se aguardam as decisões referidas no n.º 1, a data mencionada no parágrafo anterior poderá ser prorrogada para os diferentes países terceiros, de acordo com o procedimento previsto no artigo 21.º\n\nO material de propagação e plantação de produtos hortícolas importado por um Estado-membro na sequência de uma decisão tomada por esse Estado-membro nos termos do primeiro parágrafo não será sujeito noutros Estados-membros a quaisquer restrições à comercialização no tocante aos aspectos referidos no n.º 1."
+  },
+  "720974ee8d2b2767": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. A Comissão é assistida pelo Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE ([^6^](http://publications.europa.eu/resource/cellar/96798313-b61f-4806-b036-bbbffb56adf5.0017.03/DOC_1#E0006)).\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "491da5e47c3003da": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. A Comissão é assistida pelo Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Silvícolas.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^7^](http://publications.europa.eu/resource/cellar/96798313-b61f-4806-b036-bbbffb56adf5.0017.03/DOC_1#E0007))\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses."
+  },
+  "05b9e4142e096bfb": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/96798313-b61f-4806-b036-bbbffb56adf5.0017.03/DOC_1#src.E0001)) JO n.º C 46 de 27. 2. 1990, p. 4. e\n\n> JO n.º C 296 de 15. 11. 1991, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/96798313-b61f-4806-b036-bbbffb56adf5.0017.03/DOC_1#src.E0002)) JO n.º C 240 de 16. 9. 1991, p. 193.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/96798313-b61f-4806-b036-bbbffb56adf5.0017.03/DOC_1#src.E0003)) JO n.º C 182 de 23. 7. 1990, p. 19.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/96798313-b61f-4806-b036-bbbffb56adf5.0017.03/DOC_1#src.E0004)) JO n.º L 225 de 12. 10. 1970, p. 7. Directiva com a última redacção que lhe foi dada pela Directiva 90/654/CEE (JO n.º L 353 de 17. 12. 1990, p. 48).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/96798313-b61f-4806-b036-bbbffb56adf5.0017.03/DOC_1#src.E0005)) JO n.º L 26 de 31. 1. 1977, p. 20. Directiva com a última redacção que lhe foi dada pela Directiva 92/10/CEE (JO n.º L 70 de 17. 3. 1992, p. 27).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/96798313-b61f-4806-b036-bbbffb56adf5.0017.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/96798313-b61f-4806-b036-bbbffb56adf5.0017.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23."
+  },
+  "e173ac79f15d1121": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992L0033 — PT — 21.08.2008 — 012.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31992L0033) [DIRECTIVA 92/33/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31992L0033) [de 28 de Abril de 1992](http://publications.europa.eu/resource/celex/31992L0033) [relativa à comercialização de material de propagação e plantação de produtos hortícolas, com excepção das sementes](http://publications.europa.eu/resource/celex/31992L0033) (JO L 157, 10.6.1992, p.1)\n\n**revogado por:**\n\n- [Directiva 2008/72/CE do Conselho de 15 de Julho de 2008](http://publications.europa.eu/resource/celex/32008L0072) — L 205 — 28 — 1.8.2008"
+  }
+ }
+}

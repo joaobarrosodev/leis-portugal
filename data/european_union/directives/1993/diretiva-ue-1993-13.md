@@ -34,6 +34,56 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-05-28'
+version_history:
+  file: diretiva-ue-1993-13.versoes.json
+  count: 3
+  source_lastmod: '2022-05-28'
+  versions:
+  - date: '1993-04-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-12-12'
+    amending: eu:celex:32011L0083:por
+    amending_title: DIRECTIVA 2011/83/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 25 de
+      Outubro de 2011
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 8.º-A
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita CLÁUSULAS PREVISTAS NO N.º 3 DO ARTIGO 3.º
+    - 'Adita 1. Cláusulas que têm como objectivo ou como efeito:'
+    - Adita 2. Alcance das alíneas g), j) e l)
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+  - date: '2022-05-28'
+    amending: eu:celex:32019L2161:por
+    amending_title: DIRETIVA (UE) 2019/2161 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 8.º-B
 identifiers:
   celex: 31993L0013
   eli: http://data.europa.eu/eli/dir/1993/13/oj
@@ -48,7 +98,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/954c3cd9-b2fa-47ae-a1f6-b6e62a488ad3.0011
   content_url: http://publications.europa.eu/resource/cellar/ca4536e5-e274-11ec-a534-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0013-20220528
-  retrieved_at: '2026-10-22T02:39:25Z'
+  retrieved_at: '2026-10-22T14:41:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-27T18:02:00.260+02:00'
 integrity:
@@ -57,9 +107,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:25Z'
-  notes: Texto consolidado 01993L0013-20220528.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:58Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1993-13.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -1239,30 +1289,19 @@ relationships:
   source: null
 article_structure:
   article_count: 13
-  section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 5
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:25Z'
+  checked_at: '2026-10-22T14:41:58Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 93/13/CEE do Conselho, de 5 de Abril de 1993
-
-> 01993L0013 — PT — 28.05.2022 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011L0083) — [DIRECTIVA 2011/83/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de Outubro de 2011](http://publications.europa.eu/resource/celex/32011L0083) — L 304 — 64 — 22.11.2011
-- [►M2](http://publications.europa.eu/resource/celex/32019L2161) — [DIRETIVA (UE) 2019/2161 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019L2161) — L 328 — 7 — 18.12.2019
-
-## DIRECTIVA 93/13/CEE DO CONSELHO
 
 de 5 de Abril de 1993
 

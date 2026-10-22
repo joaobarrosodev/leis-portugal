@@ -35,6 +35,141 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-07-10'
+version_history:
+  file: regulamento-ue-1999-1547.versoes.json
+  count: 4
+  source_lastmod: '2007-07-10'
+  versions:
+  - date: '1999-07-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-02-11'
+    amending: eu:celex:32000R0334:por
+    amending_title: REGULAMENTO (CE) N. o 334/2000 DA COMISSÃO de 14 de Fevereiro de 2000; M2; M3; REGULAMENTO (CE) N. o 1552/2000
+      DA COMISSÃO de 14 de Julho de 2000; REGULAMENTO (CE) N. o 77/2001 DA COMISSÃO de 5 de Janeiro de 2001; REGULAMENTO (CE)
+      N. o 1800/2001 DA COMISSÃO de 13 de Setembro de 2001; REGULAMENTO (CE) N. o 2243/2001 DA COMISSÃO de 16 de Novembro
+      de 2001; REGULAMENTO (CE) N. o 2118/2003 DA COMISSÃO de 2 de Dezembro de 2003; REGULAMENTO (CE) N. o 105/2005 DA COMISSÃO
+      de 17 de Novembro de 2004; Acto relativo às condições de adesão da República Checa, da República da Estónia, da República
+      de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República
+      da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera ANEXO A
+    - Altera ANEXO B
+    - Altera ANEXO C
+    - Altera ANEXO D
+    - Adita LITUÂNIA
+    - Adita MACAU
+    - Adita MALÁSIA
+    - Adita SÃO MARINO
+    - Adita SINGAPURA
+    - Adita TAILÂNDIA
+    - Adita TUNÍSIA
+    - Adita ARGENTINA
+    - Adita BÓSNIA-HERZEGÓVINA
+    - Adita BRASIL
+    - Adita CHINA
+    - Adita COLÔMBIA
+    - Adita CUBA
+    - Adita GUINÉ
+    - Adita GUINÉ-BISSAU
+    - Adita HONG KONG
+    - Adita ÍNDIA
+    - Adita INDONÉSIA
+    - Adita JAMAICA
+    - Adita MADAGÁSCAR
+    - Adita ILHA MAURÍCIA
+    - Adita NIGÉRIA
+    - Adita PERU
+    - Adita RÚSSIA
+    - Adita SÃO TOMÉ E PRINCÍPE
+    - Adita TOGO
+    - Adita TRINDADE E TOBAGO
+    - Adita UCRÂNIA
+    - Adita ZÂMBIA
+    - Adita BIELORRÚSSIA
+    - Adita FILIPINAS
+    - Adita ROMÉNIA
+    - Adita TAIWAN
+    - Adita URUGUAI
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1792:por
+    amending_title: REGULAMENTO (CE) N. o 1792/2006 DA COMISSÃO de 23 de Outubro de 2006
+    changes:
+    - Altera preambulo
+    - Altera LITUÂNIA
+    - Altera SINGAPURA
+    - Altera TAILÂNDIA
+    - Altera BRASIL
+    - Altera COLÔMBIA
+    - Altera CUBA
+    - Altera HONG KONG
+    - Altera ÍNDIA
+    - Altera NIGÉRIA
+    - Altera PERU
+    - Altera RÚSSIA
+    - Altera FILIPINAS
+    - Altera TAIWAN
+    - Altera ALBÂNIA
+    - Altera ANGOLA
+    - Altera BURUNDI
+    - Altera CAMARÕES
+    - Altera EGIPTO
+    - Altera MALAVI
+    - Altera MALI
+    - Altera PAQUISTÃO
+    - Altera PARAGUAI
+    - Altera TANZÂNIA
+    - Altera UGANDA
+    - Altera Notas
+    - Suprime ROMÉNIA
+    - Suprime BULGÁRIA
+  - date: '2007-07-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime ANEXO A
+    - Suprime LITUÂNIA
+    - Suprime MACAU
+    - Suprime MALÁSIA
+    - Suprime SÃO MARINO
+    - Suprime SINGAPURA
+    - Suprime TAILÂNDIA
+    - Suprime TUNÍSIA
+    - Suprime ANEXO B
+    - Suprime ARGENTINA
+    - Suprime BÓSNIA-HERZEGÓVINA
+    - Suprime BRASIL
+    - Suprime CHINA
+    - Suprime COLÔMBIA
+    - Suprime CUBA
+    - Suprime GUINÉ
+    - Suprime GUINÉ-BISSAU
+    - Suprime HONG KONG
+    - Suprime ÍNDIA
+    - Suprime INDONÉSIA
+    - Suprime JAMAICA
+    - Suprime MADAGÁSCAR
+    - Suprime ILHA MAURÍCIA
+    - Suprime NIGÉRIA
+    - Suprime PERU
+    - Suprime RÚSSIA
+    - Suprime SÃO TOMÉ E PRINCÍPE
+    - Suprime TOGO
+    - Suprime TRINDADE E TOBAGO
+    - Suprime UCRÂNIA
+    - Suprime ZÂMBIA
+    - Suprime ANEXO C
+    - Suprime BIELORRÚSSIA
+    - Suprime FILIPINAS
+    - Suprime TAIWAN
 identifiers:
   celex: 31999R1547
   eli: http://data.europa.eu/eli/reg/1999/1547/oj
@@ -49,7 +184,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e0e5e460-0994-45a2-9035-d5517370c36d.0011
   content_url: http://publications.europa.eu/resource/cellar/b64f8c62-d386-4f1e-b894-c509431a7a26.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R1547-20070710
-  retrieved_at: '2026-10-22T02:44:51Z'
+  retrieved_at: '2026-10-22T14:48:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-18T21:29:16.332+01:00'
 integrity:
@@ -58,9 +193,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:51Z'
-  notes: Texto consolidado 01999R1547-20070710.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:22Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-1999-1547.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -189,16 +324,24 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:51Z'
+  checked_at: '2026-10-22T14:48:22Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01999R1547-19990816: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1547-20000218: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1547-20000220: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1547-20000612: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1547-20000805: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1547-20010205: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1547-20011004: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1547-20011210: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1547-20031223: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1547-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

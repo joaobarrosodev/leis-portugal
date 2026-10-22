@@ -34,6 +34,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-01-01'
+version_history:
+  file: diretiva-ue-1992-116.versoes.json
+  count: 2
+  source_lastmod: '2006-01-01'
+  versions:
+  - date: '1993-03-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime ANEXO A
+    - Suprime ANEXO B — Directiva 71/118/CEE do Conselho relativa a problemas sanitários em matéria de produção e colocação
+      no mercado de carnes frescas de aves de capoeira
+    - Suprime CAPÍTULO I — Disposições gerais
+    - Suprime CAPÍTULO II — Disposições relativas à produção comunitária
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime CAPÍTULO III — Disposições aplicáveis às importações na Comunidade
+    - Suprime Artigo 14o
+    - Suprime Artigo 15o
+    - Suprime Artigo 16o
+    - Suprime Artigo 17o
+    - Suprime CAPÍTULO IV — Disposições finais
+    - Suprime Artigo 18o
+    - Suprime Artigo 19o
+    - Suprime Artigo 20o
+    - Suprime Artigo 21o
+    - Suprime Artigo 22o
+    - Suprime ANEXO I — CAPÍTULO I
+    - Suprime CAPÍTULO II — CONDIÇÕES ESPECIAIS DE APROVAÇÃO DOS MATADOUROS DE AVES DE CAPOEIRA
+    - Suprime CAPÍTULO III — CONDIÇÕES ESPECIAIS DE APROVAÇÃO DOS ESTABELECIMENTOS DE DESMANCHA
+    - Suprime CAPÍTULO IV — CONDIÇÕES ESPECIAIS DE APROVAÇÃO DOS ENTREPOSTOS FRIGORÍFICOS
+    - Suprime CAPÍTULO V — HIGIENE DO PESSOAL, DAS INSTALAÇÕES E DO MATERIAL NOS ESTABELECIMENTOS
+    - Suprime CAPÍTULO VI — INSPECÇÃO SANITÁRIA ANTES DO ABATE
+    - Suprime CAPÍTULO VII — HIGIENE DO ABATE E DA MANIPULAÇÃO DE CARNES FRESCAS
+    - Suprime CAPÍTULO VIII — INSPECÇÃO SANITÁRIA POST MORTEM
+    - Suprime CAPÍTULO IX — DECISÃO DO VETERINÁRIO OFICIAL NA INSPECÇÃO POST MORTEM
+    - Suprime CAPÍTULO X — DISPOSIÇÕES RELATIVAS ÀS CARNES DESTINADAS À DESMANCHA
+    - Suprime CAPÍTULO XI — CONTROLO SANITÁRIO DAS CARNES CORTADAS E DAS CARNES ARMAZENADAS
 identifiers:
   celex: 31992L0116
   eli: http://data.europa.eu/eli/dir/1992/116/oj
@@ -48,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/557b6489-9d3a-430d-87a8-9e0de9952e88.0009
   content_url: http://publications.europa.eu/resource/cellar/b5b7b819-d58e-49bc-a0d3-031f07bb19f6.0012.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0116-20060101
-  retrieved_at: '2026-10-22T02:40:15Z'
+  retrieved_at: '2026-10-22T14:41:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T04:17:42.454+01:00'
 integrity:
@@ -57,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:15Z'
-  notes: Texto consolidado 01992L0116-20060101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:24Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1992-116.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -171,16 +225,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:15Z'
+  checked_at: '2026-10-22T14:41:24Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01992L0116-19950101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

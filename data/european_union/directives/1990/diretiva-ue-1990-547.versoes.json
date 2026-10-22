@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990L0547:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0547-20040701",
+ "dre_path": null,
+ "source_lastmod": "2004-07-01",
+ "versions": [
+  {
+   "date": "1990-11-13",
+   "future": false,
+   "celex": "31990L0547",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8f4822edd0939f48",
+    "4bdcfd9592984c4e",
+    "113f36b8a00e37f8",
+    "96011840c66642a4",
+    "363319fae966f50d",
+    "31be76771a16f8fc",
+    "b58e9839d0bead05",
+    "e732c0df733469e7"
+   ]
+  },
+  {
+   "date": "2004-07-01",
+   "future": false,
+   "celex": "01990L0547-20040701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime ANEXO — Lista das entidades e das grandes redes da Comunidade referidas na presente directiva"
+   ],
+   "fragments": [
+    "ff5726d900cc1b06"
+   ]
+  }
+ ],
+ "fragments": {
+  "8f4822edd0939f48": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 90/547/CEE do Conselho, de 29 de Outubro de 1990, relativa ao trânsito de electricidade nas grandes redes** *Jornal Oficial nº L 313 de 13/11/1990 p. 0030 - 0033 Edição especial finlandesa: Capítulo 12 Fascículo 2 p. 0105 Edição especial sueca: Capítulo 12 Fascículo 2 p. 0105*\n\n*****\n\nDIRECTIVA DO CONSELHO\n\nde 29 de Outubro de 1990\n\nrelativa ao trânsito de electricidade nas grandes redes\n\n(90/547/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que é necessário adoptar medidas destinadas a estabelecer progressivamente o mercado interno durante um período que termina em 31 de Dezembro de 1992; que o Conselho Europeu nas suas reuniões sucessivas, nomeadamente em Rodes, concluiu pela necessidade de realizar um mercado interno único no sector da energia e que a realização do mercado interno mais particularmente no sector da electricidade facilitará o desenvolvimento posterior dos objectivos energéticos da Comunidade;\n\nConsiderando que a realização do mercado interno único implica que o mercado europeu da energia seja mais bem integrado; que a energia eléctrica constitui uma componente essencial do balanço energético da Comunidade;\n\nConsiderando que a realização do mercado interno da energia, nomeadamente no sector da electricidade, deve ter em conta o objectivo da coesão económica e social, ou seja, de forma concreta, garantir um abastecimento óptimo de electricidade a todos os cidadãos de todas as regiões da Comunidade, com vista a melhorar e harmonizar as condições de vida e as bases de desenvolvimento, em particular nas regiões mais desfavorecidas;\n\nConsiderando que, mais do que qualquer outra medida que contribua para a realização do mercado interno, a política energética não deverá ser executada apenas na perspectiva de uma redução dos custos e da prática da concorrência, mas deverá igualmente ter em conta a necessidade de assegurar a segurança do abastecimento e a compatibilidade dos métodos de produção da energia com o ambiente;\n\nConsiderando que, para alcançar esse objectivo, convém ter em conta as características particulares do sector da electricidade;\n\nConsiderando que existem entre as grandes redes eléctricas de alta tensão dos países europeus trocas de energia eléctrica cuja importância aumenta de ano para ano; que a exploração das interligações permite simultaneamente aumentar a segurança do abastecimento da Comunidade Europeia em energia eléctrica e diminuir o respectivo custo;\n\nConsiderando que as trocas de electricidade entre grandes redes eléctricas decorrentes de contratos com a duração mínima de um ano têm tal importância que os pedidos de transacções e o seu seguimento devem ser sistematicamente conhecidos pela Comissão;\n\nConsiderando que é possível e desejável conseguir o aumento das trocas de electricidade entre as grandes redes sem ignorar as necessidades da segurança e da qualidade do abastecimento em energia eléctrica; que os estudos a que se procedeu mostram que um tal aumento é de natureza a minimizar os custos de investimento e de combustíveis ligados à produção e ao transporte de electricidade numa perspectiva de utilização óptima dos meios de produção e das infra-estruturas;\n\nConsiderando que subsistem ainda hoje entraves ao aumento das trocas em questão; que o cumprimento da obrigação de trânsito de electricidade nas grandes redes e a criação de um dispositivo de controlo do cumprimento desta obrigação, apropriado às especificidades do sector da electricidade, são de natureza a reduzir tais entraves quando estes não resultam do estado das técnicas e das redes;\n\nConsiderando que esta obrigação e este controlo envolvem os trânsitos de interesse comunitário, ou seja, os trânsitos efectuados nas grandes redes de alta tensão;\n\nConsiderando que as condições dos contratos de trânsito de electricidade entre grandes redes devem ser negociadas entre as entidades responsáveis e que as condições de trânsito devem ser equitativas e não comportar directa ou indirectamente disposições contrárias às regras comunitárias de concorrência;\n\nConsiderando que, para facilitar a celebração de contratos de trânsito, a Comissão prevê a criação de um processo de conciliação, de sujeição obrigatória caso uma das partes o solicitar, e sem que o resultado de tal processo tenha um efeito jurídico vinculativo;\n\nConsiderando que é necessário aproximar as disposições adoptadas pelos Estados-membros que afectam o trânsito da electricidade;\n\nConsiderando que da realização do mercado interno da electricidade resultará um processo dinâmico de uma melhor integração das redes nacionais de electricidade e que, nesse contexto, por consequência, será conveniente pôr em prática programas e acções específicas em matéria de infra-estruturas que permitam acelerar o estabelecimento de uma ligação eficaz e socialmente vantajosa das regiões periféricas e insulares da Comunidade ao conjunto da rede interligada;\n\nConsiderando que a interligação das grandes redes europeias se inscreve num quadro geográfico que não coincide com as fronteiras da Comunidade; que é de um interesse manifesto procurar, neste domínio, a cooperação com os países terceiros que fazem parte da rede europeia interligada,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "4bdcfd9592984c4e": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nOs Estados-membros tomarão as disposições necessárias para facilitar nos respectivos territórios o trânsito de electricidade entre grandes redes de transporte de alta tensão nas condições fixadas pela presente directiva."
+  },
+  "113f36b8a00e37f8": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Constitui trânsito de electricidade entre grandes redes, para efeito da presente directiva, e sem prejuízo de acordos específicos celebrados entre a Comunidade e os países terceiros, qualquer operação de transporte de electricidade que preencha as seguintes condições:\n\na) O transporte é efectuado pela entidade ou entidades responsáveis em cada Estado-membro de uma grande rede eléctrica de alta tensão, com exclusão das redes de distribuição, no território de um Estado-membro e contribuem para o bom funcionamento das interligações europeias de alta tensão;\n\nb) A rede de origem ou de destino final está situada no território da Comunidade;\n\nc) Esse transporte implica a passagem, pelo menos, de uma fronteira intracomunitária.\n\n2. Estão abrangidas pelas disposições da presente directiva as grandes redes de transporte de electricidade de alta tensão existentes nos Estados-membros e as entidades por elas responsáveis cuja lista consta do anexo. Esta lista será actualizada pela Comissão, após consulta do Estado-membro em questão, sempre que necessário, no contexto dos objectivos da presente directiva e, nomeadamente, tendo em conta o disposto no nº 1, alínea a)."
+  },
+  "96011840c66642a4": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os contratos que incidem sobre trânsitos de electricidade entre grandes redes serão negociados entre as entidades responsáveis pelas redes em questão e pela qualidade dos serviços assegurados e, eventualmente, com as entidades responsáveis pelas importações e exportações de electricidade nos Estados-membros.\n\n2. As condições de trânsito deverão, nos termos das regras do Tratado, ser não discriminatórias e equitativas para todas as partes interessadas, não conter disposições abusivas nem restrições injustificadas e não deverão fazer perigar a segurança do abastecimento e a qualidade do serviço, para o que deverão ter em plena conta, nomeadamente, a utilização das capacidades de reserva de produção e a exploração mais eficaz dos sistemas existentes.\n\n3. Os Estados-membros adoptarão as medidas necessárias para que, com a máxima brevidade, as entidades sob a sua jurisdição e referidas no anexo:\n\n- comuniquem à Comissão e às autoridades nacionais competentes qualquer pedido de trânsito que corresponda a um contrato de venda de electricidade de duração mínima de um ano,\n\n- iniciem negociações sobre as condições do trânsito de electricidade pedido,\n\n- informem a Comissão e as autoridades nacionais competentes da celebração de um contrato de trânsito,\n\n- informem a Comissão e as autoridades nacionais competentes das razões pelas quais, no final de um período de 12 meses a contar da comunicação do pedido, as negociações não conduziram à celebração de um contrato. 4. Cada uma das entidades interessadas poderá solicitar que as condições de trânsito sejam submetidas à conciliação de um organismo, cirado e presidido pela Comissão, em que estejam representadas as entidades responsáveis pelas grandes redes da Comunidade."
+  },
+  "363319fae966f50d": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nSe os motivos da falta de acordo sobre um trânsito solicitado parecerem injustificados ou insuficientes, a Comissão, com base em denúncia do requerente ou por sua própria iniciativa, dará início aos processos previstos no direito comunitário."
+  },
+  "31be76771a16f8fc": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva até, o mais tardar, 1 de Julho de 1991. Desse facto informarão imediatamente a Comissão."
+  },
+  "b58e9839d0bead05": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 29 de Outubro de 1990.\n\nPelo Conselho\n\nO Presidente\n\nA. BATTAGLIA\n\n(1) JO nº C 8 de 13. 1. 1990, p. 4.\n\n(2) JO nº C 113 de 7. 5. 1990, p. 91, e decisão de 10 de Outubro de 1990 (ainda não publicada no Jornal Oficial).\n\n(3) JO nº C 75 de 26. 3. 1990, p. 23."
+  },
+  "e732c0df733469e7": {
+   "fragment_id": "ANEXO — Lista das entidades e das grandes redes da Comunidade referidas na presente directiva",
+   "type": "divisao",
+   "heading": "ANEXO — Lista das entidades e das grandes redes da Comunidade referidas na presente directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Lista das entidades e das grandes redes da Comunidade referidas na presente directiva\n\n1.2.3 // // // // Estado // Entidade // Rede // // // // República Federal da Alemanha // Badenwerk AG Bayernwerk AG Berliner Kraft und Licht AG (Bewag) Energie-Versorgung Schwaben AG (EVS) Hamburgische Elektrizitaetswerke (HEW) Preussen-Elektra AG RWE Energie AG Vereinigte Elektrizitaetswerke Westfalen AG (VEW) // Redes de interligação // Bélgica // CPTE - Société pour la coordination de la production et du transport de l'électricité // Coordenação da rede de alimentação geral // Dinamarca // ELSAM // Rede de alimentação geral (Jutlândia) // // ELKRAFT // Rede de alimentação geral (Zelândia) // Espanha // Red Eléctrica de España SA // Rede de alimentação geral // França // Électricité de France // Rede de alimentação geral // Grécia // Dimósia Epicheírisi Ilektrismoý (DEI) // Rede de alimentação geral // Irlanda // Electricity Supply Board // Rede de alimentação geral // Itália // ENEL // Rede de alimentação geral // Luxemburgo // CEGEDEL // Rede de alimentação geral // Países Baixos // SEP // Rede de alimentação geral // Portugal // EDP // Rede de alimentação geral // Reino Unido // National Grid Company Scottish Power Scottish Hydro-Electric Northern Ireland Electricity // Redes de transmissão de alta tensão // // //"
+  },
+  "ff5726d900cc1b06": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1990L0547 — PT — 01.07.2004 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31990L0547) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31990L0547) [de 29 de Outubro de 1990](http://publications.europa.eu/resource/celex/31990L0547) [relativa ao trânsito de electricidade nas grandes redes](http://publications.europa.eu/resource/celex/31990L0547) [(90/547/CEE)](http://publications.europa.eu/resource/celex/31990L0547) (JO L 313, 13.11.1990, p.30)\n\n**revogado por:**\n\n- [Directiva 2003/54/CE do Parlamento Europeu e do Conselho de 26 de Junho de 2003](http://publications.europa.eu/resource/celex/32003L0054) — L 176 — 37 — 15.7.2003"
+  }
+ }
+}

@@ -35,6 +35,21 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2004-01-20'
+version_history:
+  file: decisao-ue-2003-566.versoes.json
+  count: 2
+  source_lastmod: '2004-01-20'
+  versions:
+  - date: '2003-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-01-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º
 identifiers:
   celex: 32003D0566
   eli: http://data.europa.eu/eli/dec/2003/566/oj
@@ -49,7 +64,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/497a7098-65ac-4ef8-957a-6d81c4f1e59e.0010
   content_url: http://publications.europa.eu/resource/cellar/38938439-aeeb-440c-acde-0521a6596e0f.0010.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003D0566-20040120
-  retrieved_at: '2026-10-22T03:11:04Z'
+  retrieved_at: '2026-10-22T14:54:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T04:33:23.329+01:00'
 integrity:
@@ -58,9 +73,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:04Z'
-  notes: Texto consolidado 02003D0566-20040120.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:24Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2003-566.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -99,15 +114,14 @@ relationships:
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:04Z'
-  warnings:
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:54:24Z'
+  warnings: []
   errors: []
 ---
 

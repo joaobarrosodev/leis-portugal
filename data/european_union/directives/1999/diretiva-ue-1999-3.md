@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '1999-03-13'
+version_history:
+  file: diretiva-ue-1999-3.versoes.json
+  count: 1
+  source_lastmod: '1999-03-13'
+  versions:
+  - date: '1999-03-13'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31999L0003
   eli: http://data.europa.eu/eli/dir/1999/3/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a82b1577-f707-466a-abdf-bc589f6447f9.0011
   content_url: http://publications.europa.eu/resource/cellar/c5c73c2c-11d9-11f1-8870-01aa75ed71a1.0008.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0003-19990313
-  retrieved_at: '2026-10-22T02:56:39Z'
+  retrieved_at: '2026-10-22T14:47:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T08:02:22.619+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:39Z'
-  notes: Texto consolidado 01999L0003-19990313.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:33Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-1999-3.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -104,28 +113,18 @@ relationships:
 article_structure:
   article_count: 6
   section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:39Z'
+  checked_at: '2026-10-22T14:47:33Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 1999/3/CE do Parlamento Europeu e do Conselho de 22 de Fevereiro de 1999
-
-> 01999L0003 — PT — 13.03.1999 — 000.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/31999L0003R%2801%29) — [Rectificação, JO L 90000, 7.1.2026, p. 1 (1999/3/CE)](http://publications.europa.eu/resource/celex/31999L0003R%2801%29)
-
-## DIRECTIVA 1999/3/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 22 de Fevereiro de 1999
 

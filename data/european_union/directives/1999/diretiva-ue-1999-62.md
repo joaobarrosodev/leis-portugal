@@ -35,6 +35,207 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-12-24'
+version_history:
+  file: diretiva-ue-1999-62.versoes.json
+  count: 6
+  source_lastmod: '2025-12-24'
+  versions:
+  - date: '1999-07-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-06-10'
+    amending: eu:celex:32006L0038:por
+    amending_title: DIRECTIVA 2006/38/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de Maio de 2006; Acto relativo às condições
+      de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República
+      da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da
+      República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Adita CAPÍTULO I
+    - Adita Disposições gerais
+    - Adita CAPÍTULO II
+    - Adita Impostos sobre veículos
+    - Adita CAPÍTULO III
+    - Adita Portagens e direitos de utilização
+    - Adita Artigo 7.º-A
+    - Adita Artigo 7.º-B
+    - Adita Artigo 8.º-A
+    - Adita CAPÍTULO IV
+    - Adita Disposições finais
+    - Adita Artigo 9.º-A
+    - Adita Artigo 9.º-B
+    - Adita Artigo 9.º-C
+    - Adita ANEXO 0
+    - Adita LIMITES DE EMISSÃO
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita MONTANTES MÁXIMOS EM EUROS DOS DIREITOS DE UTILIZAÇÃO, INCLUINDO CUSTOS ADMINISTRATIVOS, REFERIDOS NO N.º 7 DO
+      ARTIGO 7.º
+    - Adita Anuais
+    - Adita Mensais semanais
+    - Adita Diários
+    - Adita ANEXO III
+    - Adita PRINCÍPIOS FUNDAMENTAIS DE IMPUTAÇÃO DE CUSTOS E DE CÁLCULO DAS PORTAGENS
+    - Adita 1. Definição da rede e dos veículos abrangidos
+    - Adita 2. Custos de infra-estrutura
+    - Adita 2.1. Custos de investimento
+    - Adita 2.2. Custos anuais de manutenção e custos estruturais de reparação
+    - Adita 3. Custos de exploração, gestão e cobrança de portagens
+    - Adita 4. Quota de tráfego de mercadorias, coeficientes de equivalência e mecanismo de correcção
+    - Adita ANEXO IV
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0103:por
+    amending_title: DIRECTIVA 2006/103/CE DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera LIMITES DE EMISSÃO
+    - Altera ANEXO I
+    - Altera PRINCÍPIOS FUNDAMENTAIS DE IMPUTAÇÃO DE CUSTOS E DE CÁLCULO DAS PORTAGENS
+    - Altera 2.1. Custos de investimento
+    - Altera 4. Quota de tráfego de mercadorias, coeficientes de equivalência e mecanismo de correcção
+    - Altera Veículos a motor
+    - Altera Notas
+  - date: '2020-08-01'
+    amending: eu:celex:32011L0076:por
+    amending_title: DIRECTIVA 2011/76/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 27 de
+      Setembro de 2011; DIRETIVA 2013/22/UE DO CONSELHO, de 13 de maio de 2013,; M5; M6; M7; Atualização do anexo II e dos
+      quadros 1 e 2 do anexo III-B no que respeita aos valores em euros aplicáveis em conformidade com o artigo 10. o -A da
+      Diretiva 1999/62/CE do Parlamento Europeu e do Conselho, com a redação que lhe foi dada pela Diretiva 2011/76/UE do
+      Parlamento Europeu e do Conselho 2020/C 223/01; ACTO relativo às condições de adesão da República Checa, da República
+      da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República
+      de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em
+      que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 7.º-A
+    - Altera Artigo 7.º-B
+    - Altera Artigo 9.º
+    - Altera Artigo 9.º-B
+    - Altera Artigo 9.º-C
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera LIMITES DE EMISSÃO
+    - Altera ANEXO I
+    - Altera Anuais
+    - Altera PRINCÍPIOS FUNDAMENTAIS DE IMPUTAÇÃO DE CUSTOS E DE CÁLCULO DAS PORTAGENS
+    - Altera 1. Definição da rede e dos veículos abrangidos
+    - Altera 2.1. Custos de investimento
+    - Altera 4. Quota de tráfego de mercadorias, coeficientes de equivalência e mecanismo de correcção
+    - Altera Veículos a motor
+    - Altera Notas
+    - Adita Artigo 7.º-C
+    - Adita Artigo 7.º-D
+    - Adita Artigo 7.º-E
+    - Adita Artigo 7.º-F
+    - Adita Artigo 7.º-G
+    - Adita Artigo 7.º-H
+    - Adita Artigo 7.º-I
+    - Adita Artigo 7.º-J
+    - Adita Artigo 7.º-K
+    - Adita Artigo 8.º-B
+    - Adita Artigo 9.º-D
+    - Adita Artigo 9.º-E
+    - Adita Artigo 9.º-F
+    - Adita Artigo 9.º-G
+    - Adita Artigo 10.º-A
+    - Adita MONTANTES MÁXIMOS EM EUROS DOS DIREITOS DE UTILIZAÇÃO, INCLUINDO CUSTOS ADMINISTRATIVOS, REFERIDOS NO ARTIGO 7.º,
+      N.º 7
+    - Adita Mensais e semanais
+    - Adita Diária
+    - Adita ANEXO III-A
+  - date: '2022-03-24'
+    amending: eu:celex:32022L0362:por
+    amending_title: DIRETIVA (UE) 2022/362 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de Fevereiro de 2022
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 7.º-A
+    - Altera Artigo 7.º-B
+    - Altera Artigo 7.º-C
+    - Altera Artigo 7.º-E
+    - Altera Artigo 7.º-F
+    - Altera Artigo 7.º-G
+    - Altera Artigo 7.º-H
+    - Altera Artigo 7.º-I
+    - Altera Artigo 7.º-J
+    - Altera Artigo 7.º-K
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 9.º-C
+    - Altera Artigo 9.º-D
+    - Altera Artigo 9.º-E
+    - Altera Artigo 10.º-A
+    - Altera Artigo 11.º
+    - Altera LIMITES DE EMISSÃO
+    - Altera ANEXO I
+    - Altera 2.1. Custos de investimento
+    - Altera 2.2. Custos anuais de manutenção e custos estruturais de reparação
+    - Altera REQUISITOS MÍNIMOS PARA A APLICAÇÃO DE TAXAS DE EXTERNALIDADE
+    - Altera 1. Partes da rede rodoviária abrangidas
+    - Altera 2. Veículos, estradas e períodos de utilização abrangidos
+    - Altera 3. Montante da taxa
+    - Altera 4.1. Custo da poluição atmosférica originada pelo tráfego
+    - Altera 4.2. Custo da poluição sonora originada pelo tráfego
+    - Altera Veículos a motor
+    - Altera Conjuntos de veículos (veículos articulados e conjuntos veículo-reboque)
+    - Altera Notas
+    - Adita Artigo 7.º-AA
+    - Adita Artigo 7.º-CA
+    - Adita Artigo 7.º-CB
+    - Adita «Artigo 7.º-D
+    - Adita Artigo 7.º-DA
+  - date: '2025-12-24'
+    amending: null
+    amending_title: Atualização dos anexos II, III-B e III-C da Diretiva 1999/62/CE do Parlamento Europeu e do Conselho (
+      1 ) no que diz respeito aos valores em euros aplicáveis em conformidade com o artigo 10. o -A da referida diretiva C/2025/1824;
+      DIRETIVA (UE) 2025/2459 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de novembro de 2025
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 7.º-CB
+    - Altera Artigo 7.º-GA
+    - Altera Artigo 7.º-GB
+    - Altera Artigo 7.º-H
+    - Altera Artigo 7.º-J
+    - Altera Artigo 9.º-C
+    - Altera Artigo 9.º-E
+    - Altera LIMITES DE EMISSÃO
+    - Altera ANEXO I
+    - Altera MONTANTES MÁXIMOS EM EUROS DOS DIREITOS DE UTILIZAÇÃO, INCLUINDO CUSTOS ADMINISTRATIVOS, REFERIDOS NO ARTIGO
+      7.º-A, N.º 2
+    - Altera 2.1. Custos de investimento
+    - Altera 4. Quota parte de tráfego de veículos pesados, coeficientes de equivalência e mecanismo de correção
+    - Altera 4.1. Custo da poluição atmosférica originada pelo tráfego
+    - Altera 4.2. Custo da poluição sonora originada pelo tráfego
+    - Altera VALORES DE REFERÊNCIA DA TAXA DE EXTERNALIDADE
+    - Altera Veículos a motor
+    - Altera DESEMPENHO EM MATÉRIA DE EMISSÕES
+    - Altera Notas
+    - Adita Anuais
+    - Adita Mensais, semanais e diários
+    - Adita VALORES DE REFERÊNCIA DA TAXA DE EXTERNALIDADE APLICÁVEIS ÀS EMISSÕES DE CO2 DE VEÍCULOS PESADOS DE MERCADORIAS
+    - Suprime VALORES DE REFERÊNCIA DA TAXA DE EXTERNALIDADE APLICÁVEIS ÀS EMISSÕES DE CO2
 identifiers:
   celex: 31999L0062
   eli: http://data.europa.eu/eli/dir/1999/62/oj
@@ -49,7 +250,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/37a38b34-0108-45e2-a635-e7441d7e9c67.0011
   content_url: http://publications.europa.eu/resource/cellar/24500f68-d6d5-11f0-8da2-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0062-20251224
-  retrieved_at: '2026-10-22T02:38:35Z'
+  retrieved_at: '2026-10-22T14:47:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T19:14:17.618+01:00'
 integrity:
@@ -58,9 +259,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:35Z'
-  notes: Texto consolidado 01999L0062-20251224.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:59Z'
+  notes: 6 versão(ões); histórico completo em diretiva-ue-1999-62.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -258,49 +459,24 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 39
-  section_count: 49
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  article_count: 38
+  section_count: 51
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:35Z'
-  warnings: []
+  checked_at: '2026-10-22T14:47:59Z'
+  warnings:
+  - '01999L0062-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999L0062-20111015: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01999L0062-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01999L0062-20160401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 1999/62/CE do Parlamento Europeu e do Conselho, de 17 de Junho de 1999
-
-> 01999L0062 — PT — 24.12.2025 — 010.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006L0038) — [DIRECTIVA 2006/38/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de Maio de 2006](http://publications.europa.eu/resource/celex/32006L0038) — L 157 — 8 — 9.6.2006
-- [►M2](http://publications.europa.eu/resource/celex/32006L0103) — [DIRECTIVA 2006/103/CE DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0103) — L 363 — 344 — 20.12.2006
-- [►M3](http://publications.europa.eu/resource/celex/32011L0076) — [DIRECTIVA 2011/76/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de Setembro de 2011](http://publications.europa.eu/resource/celex/32011L0076) — L 269 — 1 — 14.10.2011
-- [►M4](http://publications.europa.eu/resource/celex/32013L0022) — [DIRETIVA 2013/22/UE DO CONSELHO, de 13 de maio de 2013,](http://publications.europa.eu/resource/celex/32013L0022) — L 158 — 356 — 10.6.2013
-- [M5](http://publications.europa.eu/resource/celex/52014XC0218%2801%29) — [Atualização do anexo II e dos quadros 1 e 2 do anexo III-B, no que respeita aos valores em euros aplicáveis, em conformidade com o artigo 10.º-A da Diretiva 1999/62/CE do Parlamento Europeu e do Conselho, na sua versão alterada 2014/C 46/05](http://publications.europa.eu/resource/celex/52014XC0218%2801%29) — C 46 — 3 — 18.2.2014
-- [M6](http://publications.europa.eu/resource/celex/52016XC0317%2801%29) — [Atualização do anexo II e dos quadros 1 e 2 do anexo III-B no que respeita aos valores em euros aplicáveis em conformidade com o artigo 10.º-A da Diretiva 1999/62/CE do Parlamento Europeu e do Conselho, com a redação que lhe foi dada pela Diretiva 2011/76/UE do Parlamento Europeu e do Conselho 2016/C 101/01](http://publications.europa.eu/resource/celex/52016XC0317%2801%29) — C 101 — 1 — 17.3.2016
-- [M7](http://publications.europa.eu/resource/celex/52018XC0614%2801%29) — [Atualização do anexo II e dos quadros 1 e 2 do anexo III-B no que respeita aos valores em euros aplicáveis em conformidade com o artigo 10.º-A da Diretiva 1999/62/CE do Parlamento Europeu e do Conselho, com a redação que lhe foi dada pela Diretiva 2011/76/UE do Parlamento Europeu e do Conselho 2018/C 205/01](http://publications.europa.eu/resource/celex/52018XC0614%2801%29) — C 205 — 1 — 14.6.2018
-- [M8](http://publications.europa.eu/resource/celex/52020XC0707%2801%29) — [Atualização do anexo II e dos quadros 1 e 2 do anexo III-B no que respeita aos valores em euros aplicáveis em conformidade com o artigo 10.º-A da Diretiva 1999/62/CE do Parlamento Europeu e do Conselho, com a redação que lhe foi dada pela Diretiva 2011/76/UE do Parlamento Europeu e do Conselho 2020/C 223/01](http://publications.europa.eu/resource/celex/52020XC0707%2801%29) — C 223 — 1 — 7.7.2020
-- [►M9](http://publications.europa.eu/resource/celex/32022L0362) — [DIRETIVA (UE) 2022/362 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de Fevereiro de 2022](http://publications.europa.eu/resource/celex/32022L0362) — L 69 — 1 — 4.3.2022
-- [►M10](http://publications.europa.eu/resource/celex/52025XC01824) — [Atualização dos anexos II, III-B e III-C da Diretiva 1999/62/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/24500f68-d6d5-11f0-8da2-01aa75ed71a1.0019.03/DOC_1#E0001)) no que diz respeito aos valores em euros aplicáveis em conformidade com o artigo 10.º-A da referida diretiva C/2025/1824](http://publications.europa.eu/resource/celex/52025XC01824) — C 1824 — 1 — 24.3.2025
-- [►M11](http://publications.europa.eu/resource/celex/32025L2459) — [DIRETIVA (UE) 2025/2459 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de novembro de 2025](http://publications.europa.eu/resource/celex/32025L2459) — L 2459 — 1 — 4.12.2025
-
-**Alterada por:**
-
-- [►A1](http://publications.europa.eu/resource/celex/12003T%2FACT) — [ACTO relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T%2FACT) — L 236 — 33 — 23.9.2003
-
-**Retificada por:**
-
-- [C1](http://publications.europa.eu/resource/celex/52016XC0317%2801%29R%2801%29) — [Rectificação, JO C 194, 1.6.2016, p. 15 (2016/C031)](http://publications.europa.eu/resource/celex/52016XC0317%2801%29R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32022L0362R%2802%29) — [Rectificação, JO L 227, 1.9.2022, p. 133 (2022/362)](http://publications.europa.eu/resource/celex/32022L0362R%2802%29)
-
-## DIRECTIVA 1999/62/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de Junho de 1999
 

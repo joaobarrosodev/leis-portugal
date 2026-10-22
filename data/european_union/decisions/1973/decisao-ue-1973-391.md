@@ -35,6 +35,48 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-11-18'
+version_history:
+  file: decisao-ue-1973-391.versoes.json
+  count: 2
+  source_lastmod: '2006-11-18'
+  versions:
+  - date: '1973-12-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-11-18'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime ANEXO — PROCEDIMENTOS DE CONSULTA E INFORMAÇÃO NOS DOMÍNIOS DO SEGURO DE CRÉDITO, DAS GARANTIAS E DOS CRÉDITOS
+      FINANCEIROS
+    - Suprime TÍTULO I — PROCEDIMENTO GERAL
+    - Suprime Secção I — Âmbito de aplicação
+    - Suprime Artigo 3o
+    - Suprime Secção II — Procedimento
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+    - Suprime Artigo 15o
+    - Suprime TÍTULO II — PROCEDIMENTOS ESPECIAIS
+    - Suprime Artigo 16o
+    - Suprime Artigo 17o
+    - Suprime Artigo 18o
+    - Suprime TÍTULO III — RELATÓRIOS PERIÓDICOS
+    - Suprime Artigo 19o
+    - Suprime ANEXO 1 — NORMAS COMUNITÁRIAS QUE NO NAO PODEM SER DERROGADAS SEM CONSULTA
+    - Suprime ANEXO 2 — TABELA DE VALORES A UTILIZAR
 identifiers:
   celex: 31973D0391
   eli: http://data.europa.eu/eli/dec/1973/391/oj
@@ -49,7 +91,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/379618f2-2777-476f-b232-8f552158e6aa.0011
   content_url: http://publications.europa.eu/resource/cellar/3038b8d0-3e5b-4028-a77c-c2aa62f7d8c7.0013.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01973D0391-20061118
-  retrieved_at: '2026-10-22T02:54:17Z'
+  retrieved_at: '2026-10-22T14:30:30Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T15:14:43.847+01:00'
 integrity:
@@ -58,9 +100,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:54:17Z'
-  notes: Texto consolidado 01973D0391-20061118.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:30:30Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-1973-391.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -133,16 +175,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:54:17Z'
+  checked_at: '2026-10-22T14:30:30Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01973D0391-19740101: versão indisponível (Sem expressão na língua por para CELEX 01973D0391-19740101.)'
+  - '01973D0391-19760816: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01973D0391-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01973D0391-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

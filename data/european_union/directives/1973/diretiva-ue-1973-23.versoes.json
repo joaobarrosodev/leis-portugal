@@ -1,0 +1,199 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31973L0023:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01973L0023-20070116",
+ "dre_path": null,
+ "source_lastmod": "2007-01-16",
+ "versions": [
+  {
+   "date": "1973-03-26",
+   "future": false,
+   "celex": "31973L0023",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2c58c9a758c42415",
+    "703d630fd1e34b46",
+    "230db46af038038f",
+    "484351ae3457ba90",
+    "b90cc913871dd857",
+    "0f372231a46ac0c0",
+    "b1a374bd0257dfd8",
+    "4843134a7d25cefd",
+    "eddc3b7465e247b8",
+    "c0d8aa135d463817",
+    "163b8ed91b3758d3",
+    "718354780d99aefb",
+    "d270e90045f85d4a",
+    "129eee1551b1aa18",
+    "6f1bca3cfedae790",
+    "68fa49420c8e4067"
+   ]
+  },
+  {
+   "date": "2007-01-16",
+   "future": false,
+   "celex": "01973L0023-20070116",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º — Cada Estado-membro comunicará aos outros Estados-membros e à Comissão: - a lista dos organismos referidos no artigo 5º,",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime ANEXO II MATERIAL E FENÓMENOS EXCLUIDOS DO CAMPO DE APLICAÇÃO DESTA DIRECTIVA"
+   ],
+   "fragments": [
+    "dd87c5e52b8d26ed"
+   ]
+  }
+ ],
+ "fragments": {
+  "2c58c9a758c42415": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 73/23/CEE do Conselho, de 19 de Fevereiro de 1973, relativa à harmonização das legislações dos Estados-Membros no domínio do material eléctrico destinado a ser utilizado dentro de certos limites de tensão** *Jornal Oficial nº L 077 de 26/03/1973 p. 0029 - 0033 Edição especial finlandesa: Capítulo 13 Fascículo 2 p. 0167 Edição especial grega: Capítulo 13 Fascículo 2 p. 0058 Edição especial sueca: Capítulo 13 Fascículo 2 p. 0167 Edição especial espanhola: Capítulo 13 Fascículo 2 p. 0182 Edição especial portuguesa: Capítulo 13 Fascículo 2 p. 0182*\n\nDIRECTIVA DO CONSELHO de 19 de Fevereiro de 1973 relativa à harmonização das legislações dos Estados-membros no domínio do material eléctrico destinado a ser utilizado dentro de certos limites de tensão (73/23/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu,\n\nTendo em conta o parecer do Comité Económico e Social,\n\nConsiderando que as disposições que se encontram em vigor nos Estados-membros com vista a garantir segurança de utilização do material eléctrico destinado a ser usado dentro de certos limites de tensão, obedecem a concepções diferentes, o que cria entraves ao comércio;\n\nConsiderando que em certos Estados-membros, e para certos materiais eléctricos, o legislador recorreu, para atingir esse objectivo de segurança, a medidas preventivas e repressivas por meio de disposições de natureza imperativa;\n\nConsiderando que noutros Estados-membros o legislador, para atingir esse mesmo objectivo, recorre a normas técnicas elaboradas por institutos de normalização; que esse sistema apresenta a vantagem de uma adoptação rápida ao progresso técnico, sem que por isso sejam negligenciados os imperativos de segurança;\n\nConsiderando que certos Estados-membros procedem a operações de carácter administrativo para aprovação das normas; que esta aprovação não afecta em nada o conteúdo técnico das normas nem limita as suas condições de utilização que uma tal aprovação não pode pois alterar, do ponto de vista comunitário, os efeitos de uma norma harmonizada e homologada;\n\nConsiderando que, no plano comunitário, deve ser permitida a livre circulação do material eléctrico, sempre que este respeite certas exigências em matéria de segurança reconhecidas por todos os Estados-membros; que, sem prejuízo para qualquer outro processo de verificação, o respeito pelo comprimento dessas exigências pode ser estabelecido por recurso a normas harmonizadas que as concretizem; que essas normas devem ser elaboradas de comum acordo por organismos que são objecto de notificação por cada Estado-membro aos outros Estados-membros e à Comissão e que devem ser objecto de uma ampla publicidade; que uma tal harmonização deve permitir eliminar, no plano comercial, os inconvenientes resultantes das divergências entre as normas nacionais;\n\nConsiderando que, sem prejuízo para qualquer outro processo de verificação, pode presumir-se existir conformidade do material eléctrico com essas normas harmonizadas, pela fixação ou emissão de marcas ou de certificados sob a responsabilidade de organismos competentes, ou, na sua falta, pela declaração de conformidade passada pelo fabricante; que, no entanto, os Estados-membros devem aceitar, como elementos de prova, essas marcas ou certificados, ou a referida declaração, a fim de facilitar a eliminação dos entraves ao comércio; qe para tal efeito essas marcas ou certificados devem ser publicitados, nomeadamente, pela publicação no Jornal Oficial das Comunidades Europeias;\n\nConsiderando que, para o material eléctrico para o qual não existem ainda normas harmonizadas, pode assegurar-se, transitoriamente, a sua livre circulação, recorrendo a normas ou disposições, em matéria de segurança, já elaboradas por outros organismos internacionais ou por um dos organismos que elaboram as normas harmonizadas;\n\nConsiderando que um material eléctrico pode ser posto me livre circulação sem responder ao exigido em matéria de segurança e que, é necessário, portanto, prever disposições adaquadas para eliminar esse perigo,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "703d630fd1e34b46": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nNo sentido da presente directiva entende-se por matérial eléctrico todo o matérial eléctrico destinado a ser utilizado sob uma tensão nominal compreendida entre 50 V e 1 000 V para a corrente alterna, e entre 75 V e 1 000 V para a corrente contínua, com excepção dos materiais, e fenómenos referidos no Anexo II."
+  },
+  "230db46af038038f": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os Estados-membros tomarão todas as medidas necessárias para que o material eléctrico não possa ser colocado no mercado senão quando construído de acordo com as regras da arte em matéria de segurança válidas na Comunidade, de modo a não comprometer, no caso de instalação e manutenção adequadas, e de utilização de acordo com a sua finalidade a segurança de pessoas, animais domésticos e bens.\n\n2. O Anexo I resume os principais elementos dos objectivos de segurança a que se refere o nº 1."
+  },
+  "484351ae3457ba90": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros assegurarão que as empresas não levantem obstáculos, por razões de segurança, à livre circulação, na Comunidade, do material électrico que respeite o disposto no artigo 2º, de acordo com as condições previstas nos artigos 5º, 6º, 7º ou 8º"
+  },
+  "b90cc913871dd857": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs Estados-membros assegurarão que as empresas distribuidoras de electricidade não subordinem a ligação à rede e a alimentação de electricidade aos consumidores no que disser respeito a material eléctrico, a exigências em matéria de segurança mais rigorosas que as previstas no artigo 2º"
+  },
+  "0f372231a46ac0c0": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nTendo em vista a colocação no mercado, referida no artigo 2º ou a livre circulação referida no artigo 3º, os Estados-membros tomarão todas as medidas necessárias para que as respectivas entidades administrativas competentes considerem que o material eléctrico que satisfaça as prescrições, em matéria de segurança, definidas nas normas harmonizadas, está de acordo com o disposto no artigo 2º.\n\nAs normas serão consideradas harmonizadas quando, tendo sido elaboradas de comum acordo pelos organismos notificados pelos Estados-membros nos termos do artigo 11º, forem publicadas de acordo com as legislações nacionais. As normas devem ser actualizadas em função do progresso tecnológico e da evolução das regras da arte em matéria de segurança.\n\nA lista das normas harmonizadas e as respectivas referências serão publicadas a título informativo, no Jornal Oficial das Comunidades Europeias."
+  },
+  "b1a374bd0257dfd8": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Sempre que não existam, elaboradas e publicadas, normas harmonizadas nos termos do artigo 5º, e, tendo em vista a colocação no mercado referida no artigo 2º ou a livre circulação referida no artigo 3º, os Estados-membros tomarão todas as medidas necessárias para que as respectivas entidades administrativas competentes considerem que um material eléctrico está de acordo com o disposto no artigo 2º, desde que satisfaça as regras de segurança da Comissão Internacional das Regulamentações para a Aprovação de Equipamento Eléctrico (CEE-el), ou da «International Electrotechnical Comission» (IEC) - Comisão Electrotécnica Internacional, e que respeitem o processo de publicação previsto nos nos 2 e 3.\n\n2. As disposições de segurança referidas no nº 1 serão notificadas aos Estados-membros pela Comissão a partir da entrada em vigor da presente directiva e, seguidament, a partir da respectiva publicação. A Comissão indicará, após consulta prévia dos Estados-membros, as disposições de segurança e, em especial, as respectivas alterações, para as quais é recomendada a publicação.\n\n3. Os Estados-membros comunicarão à Comissão, no prazo de três meses, as eventuais objecções às disposições que lhe foram notificadas, com indicação dos motivos que, por razoes de segurança, justificam a sua oposição à aceitaçãc de qualquer dessas disposições.\n\nAs disposições que não tenham levantado objecções serão publicadas, a título informativo, no Jornal Oficial das Comunidades Europeias."
+  },
+  "4843134a7d25cefd": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nSempre que não existam as normas harmonizadas, nos termos do artigo 5º, ou as regras de segurança publicadas nos termos do artigo 6º, e tendo em vista a colocação no mercado referida no artigo 2º, ou a livre circulação referida no artigo 3º, os Estados-membros tomarão todas as medidas necessárias para que as respectivas entidades adminstrativas competentes considerem, igualmente, que o material eléctrico, fabricado de acordo com as regras de segurança contidas nas normas aplicadas pelo Estado-membro em que o material foi produzido, respeita o disposto no artigo 2º, desde que fique garantida uma segurança equivalente à que é requerida no seu próprio território."
+  },
+  "eddc3b7465e247b8": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Os Estados-membros tomarão todas as medidas necessárias para que as respectivas entidades administrativas competentes permitam a colocação no mercado referida no artigo 2º, ou a livre circulação referida no artigo 3º de material eléctrico que, embora não respeitando as normas harmonizadas nos termos de artigo 5º, ou o disposto nos artigos 6º e 7º, satisfaça o disposto no artigo 2º\n\n2. Em caso de divergência o construtor ou o importador pode apresentar um relatório, elaborado por um organismo notificado nos termos do artigo 11º, para comprovação da conformidade do material eléctrico com o disposto no artigo 2º"
+  },
+  "c0d8aa135d463817": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Se, por razões de segurança, um Estado-membro proibir a colocação no mercado de um material eléctrico ou levantar obstáculos à sua livre circulação, informará imediatamente os outros Estados-membros interessados, assim como a Comissão, indicando as razões da sua decisão e especificando, nomeadamente: - se a não conformidade com o disposto no artigo 2º resulta da inexistência das normas harmonizadas a que se refere o artigo 5º, das prescrições referidas no artigo 6º ou das normas que constam do artigo 7º,\n\n- se a não conformidade resulta de uma deficiente aplicação das referidas normas ou documentos, ou do não cumprimento das regras da arte a que se refere o artigo 2º\n\n2. Se outros Estados-membros levantarem objecções a uma decisão tomada nos termos do nº 1, a Comissão consultará imediatamente os Estados-membros interessados.\n\n3. Se não for possível obter um acordo dentro de um prazo de três meses, contados a partir da data do aviso referido no nº 1, a Comissão obterá o parecer de um dos organismos, notificados nos termos do artigo 11º, sediado fora do território dos Estados-membros interessados e que não tenha participado nas acções referidas no artigo 8º O parecer indicará quais os aspectos em que as disposições do artigo 2º não foram respeitadas.\n\n4. A Comissão comunicará o parecer desse organismo a todos os Estados-membros os quais podem apresentar as suas observações no prazo de um mês. Simultaneamente a Comissão tomará conhecimento das observações das partes interesadas relativamente ao parecer acima mencionado.\n\n5. Após ter tomado conhecimento de todas estas observações, a Comissão formulará, se for caso disso, as recomendações ou pareceres apropriados."
+  },
+  "163b8ed91b3758d3": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Sem prejuízo de outro modos de verificação, os Estaods-membros tomarão todas as medidas necessárias para que as respectivas entidades administrativas competentes considerem como prova de conformidade com as disposições dos artigos 5º, 6º e 7º, a aposição no material eléctrico de uma marca de conformidade ou a emissão de um certificado de conformidade e, na falta destes, em especial para o equipamento industrial, de uma declaração de conformidade passada pelo construtor.\n\n2. As marcas ou certificados serão estabelecidos separadamente, ou de comum acordo, pelos organismos notificados nos termos do artigo 11º Os respectivos modelos serão publicados por esses organismos e, a título informativo, no Jornal Oficial das Comunidades Europeias."
+  },
+  "718354780d99aefb": {
+   "fragment_id": "Artigo 11º — Cada Estado-membro comunicará aos outros Estados-membros e à Comissão: - a lista dos organismos referidos no artigo 5º,",
+   "type": "artigo",
+   "heading": "Artigo 11º — Cada Estado-membro comunicará aos outros Estados-membros e à Comissão: - a lista dos organismos referidos no artigo 5º,",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º — Cada Estado-membro comunicará aos outros Estados-membros e à Comissão: - a lista dos organismos referidos no artigo 5º,\n\n- a lista dos organismos que podem emitir as marcas e certificados nos termos do artigo 10º,\n\n- a lista dos organismos que podem elaborar os relatórios referidos no artigo 8º ou dar pareceres de acordo com o disposto no artigo 9º,\n\n- os locais de publicação referidos no segundo parágrafo do artigo 5º\n\nCada Estado-membro comunicará aos outros Estados-membros e à Comissão qualquer alteração a estas listas."
+  },
+  "d270e90045f85d4a": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nA presente directiva não se aplicará ao material eléctrico destinado à exportação para países terceiros."
+  },
+  "129eee1551b1aa18": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. Os Estados-membros porão em vigor, dentro do prazo de dezoito meses a partir da sua notificação, as medidas legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva e desse facto informarão imediatamente a Comissão.\n\nPara a Dinamarca, contudo, o prazo acima referido é de cinco anos.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições fundamentais de direito interno que forem adoptadas no âmbito da presente directiva."
+  },
+  "6f1bca3cfedae790": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 19 de Fevereiro de 1973.\n\nPelo Conselho\n\nO Presidente\n\nA. LAVENS\n\nANEXO I PRINCIPAIS ELEMENTOS DOS OBJECTIVOS DE SEGURANÇA PARA O MATERIAL ELÉCTRICO DESTINADO A SER UTILIZADO DENTRO DE CERTOS LIMITES DE TENSÃO\n\n1. Condiçoes gerais a) As características essenciais do material eléctrico cujo conhecimento e cumprimento sejam indispensáveis para uma utilização isenta de perigos e de acordo com o fim a que o material se destina serão afixidas no próprio material, ou, em caso de impossibilidade, num documento que o acompanhe;\n\nb) A marca de fabrico ou a marca comercial será aposta de forma bem visível no material eléctrico ou, se isso não for possível, na embalagem;\n\nc) Tanto o material eléctrico como as partes que o constituem, serão fabricados de modo a poder ser montados de forma segura e adequada;\n\nd) O material eléctrico será porjectado e fabricado de tal modo que fique garantida a protecção contra os riscos mencionados nos pontos 2 e 3 do presente Anexo, desde que seja utilizado de acordo com o fim a que se destina e que seja objecto de um manutenção adequada.\n\n2. Protecção contra os riscos resultantes do material eléctrico\n\nSerão previstas medidas de ordem técnica de acordo com o ponto 1, a fim de que: a) As pessoas e os animais domésticos fiquem protegidos de forma adequada contra os riscos de ferimentos ou de outros acidentes resultantes de contactos directos ou inidrectos;\n\nb) Não se produzam temperaturas, descargas ou radiações que possam provocar perigo;\n\nc) As pessoas, os animais domésticos e os bens sejam protegidos de forma adequada contra os riscos de natureza não eléctrica provenientes do material eléctrico que a esperiência venha a revelar;\n\nd) O isolamento seja adequado aos condicionamentos previstos.\n\n3. Protecção contra os riscos que possam ser provocados por influências exteriores sobre o material eléctrico\n\nSerão previstas medidas de ordem técnica de acordo com o ponto 1, a fim de que: a) O material eléctrico responda às exigências mecânicas previstas, de modo a não pôr em perigo as pessoas, os animais domésticos e os bens;\n\nb) O material eléctrico resista às influências não mecânicas nas condições ambientais previstas, de modo a não por em risco as pessoas, os animais domésticos e os bens;\n\nc) O material eléctrico não ponha em risco as pessoas, os animais domésticos e os bens nas condições de sobrecarga previstas."
+  },
+  "68fa49420c8e4067": {
+   "fragment_id": "ANEXO II MATERIAL E FENÓMENOS EXCLUIDOS DO CAMPO DE APLICAÇÃO DESTA DIRECTIVA",
+   "type": "divisao",
+   "heading": "ANEXO II MATERIAL E FENÓMENOS EXCLUIDOS DO CAMPO DE APLICAÇÃO DESTA DIRECTIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II MATERIAL E FENÓMENOS EXCLUIDOS DO CAMPO DE APLICAÇÃO DESTA DIRECTIVA\n\nEquipamento eléctrico destinado ser utilizado numa atmosfera explosiva.\n\nEquipamento eléctrico para radiologia e para medicina.\n\nPartes eléctricas dos elevadores e monta-cargas.\n\nContadores eléctricos\n\nTomadas de corrente (bases e fichas) para uso doméstico.\n\nPerturbações radioeléctricas.\n\nMaterial eléctrico especializado para utilização em navios ou aviões e nos caminhos de ferro que satisfaça as regras de segurança estabelecidas pelos organismos internacionais de que os Estados-membros façam parte."
+  },
+  "dd87c5e52b8d26ed": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1973L0023 — PT — 16.01.2007 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31973L0023) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31973L0023) [de 19 de Fevereiro de 1973](http://publications.europa.eu/resource/celex/31973L0023) [relativa à harmonização das legislações dos Estados-membros no domínio do material eléctrico destinado a ser utilizado dentro de certos limites de tensão](http://publications.europa.eu/resource/celex/31973L0023) [(73/23/CEE)](http://publications.europa.eu/resource/celex/31973L0023) (JO L 077, 26.3.1973, p.29)\n\n**revogado por:**\n\n- [Directiva 2006/95/CE do Parlamento Europeu e do Conselho de 12 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006L0095) — L 374 — 10 — 27.12.2006"
+  }
+ }
+}

@@ -1,0 +1,788 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003R0343:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R0343-20130719",
+ "dre_path": null,
+ "source_lastmod": "2013-07-19",
+ "versions": [
+  {
+   "date": "2003-02-25",
+   "future": false,
+   "celex": "32003R0343",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "410a3cf28c27270f",
+    "fc07a0c03c486a89",
+    "3a69edd7c5939669",
+    "8a6fd3462eb0fc5c",
+    "ab4a612e9df589a0",
+    "6807964b640727b7",
+    "859c5fdefb3e47a3",
+    "be18ee92f16b7479",
+    "cf7239dae3678380",
+    "646c27cbfcf8ea49",
+    "e430119b6578b0f0",
+    "d65f43907441a84f",
+    "d96d543fd283d8d3",
+    "8d0238159ecf6923",
+    "f75d67ddc0115d82",
+    "390e3dd8ac277f73",
+    "1d6496aa5f2986bd",
+    "704ab0b72b95348f",
+    "544f987176031fc7",
+    "cdd0670fb00212c8",
+    "ea75a5a2fc0661e1",
+    "5034d8093a481d8f",
+    "032de4e580f600a5",
+    "af545dd165338394",
+    "13b327751468ccdd",
+    "08d1a455f936530b",
+    "42620f7f10ca7b6b",
+    "25529bcf0230ca9e",
+    "2840c9d17a2a5641",
+    "dc9a8083b5e528f5",
+    "5a7643867f219977",
+    "77ba7d49e5fa1ba9",
+    "0503624b2f44e93d",
+    "ec1b1330f00c7067",
+    "cb37984e13db54e6",
+    "15c73bcc5c44453f",
+    "a3540602dd987c17"
+   ]
+  },
+  {
+   "date": "2008-12-04",
+   "future": false,
+   "celex": "02003R0343-20081204",
+   "acts": [
+    {
+     "id": "eu:celex:32008R1103:por",
+     "title": "REGULAMENTO (CE) N. o 1103/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008",
+     "published": null,
+     "celex": "32008R1103"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 15.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 29.º",
+    "Adita CAPÍTULO I",
+    "Adita OBJECTO E DEFINIÇÕES",
+    "Adita CAPÍTULO II",
+    "Adita PRINCÍPIOS GERAIS",
+    "Adita CAPÍTULO III",
+    "Adita HIERARQUIA DOS CRITÉRIOS",
+    "Adita CAPÍTULO IV",
+    "Adita CLÁUSULA HUMANITÁRIA",
+    "Adita CAPÍTULO V",
+    "Adita TOMADA E RETOMADA A CARGO",
+    "Adita CAPÍTULO VI",
+    "Adita COOPERAÇÃO ADMINISTRATIVA",
+    "Adita CAPÍTULO VII",
+    "Adita DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+    "Adita Notas",
+    "Suprime CAPÍTULO I — OBJECTO E DEFINIÇÕES",
+    "Suprime CAPÍTULO II — PRINCÍPIOS GERAIS",
+    "Suprime CAPÍTULO III — HIERARQUIA DOS CRITÉRIOS",
+    "Suprime CAPÍTULO IV — CLÁUSULA HUMANITÁRIA",
+    "Suprime CAPÍTULO V — TOMADA E RETOMADA A CARGO",
+    "Suprime CAPÍTULO VI — COOPERAÇÃO ADMINISTRATIVA",
+    "Suprime CAPÍTULO VII — DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+   ],
+   "fragments": [
+    "a1d7dc574563576d",
+    "226c39ffd0a88dad",
+    "65bfbfa6e1731d88",
+    "3a69edd7c5939669",
+    "59307ae55a16fc52",
+    "f0f8c960bfdbce9b",
+    "60e92fc45dfbe5e9",
+    "b5d98f64f1f0e85c",
+    "e42c1edc0907e768",
+    "1e7a0903d2eed348",
+    "c8c9c49230d9da4e",
+    "cf7239dae3678380",
+    "646c27cbfcf8ea49",
+    "e430119b6578b0f0",
+    "d65f43907441a84f",
+    "ff6c6e5d1f288e4f",
+    "82444d2963983238",
+    "8cf07ce356ab932d",
+    "390e3dd8ac277f73",
+    "1d6496aa5f2986bd",
+    "704ab0b72b95348f",
+    "1ecfc79da3f1ac7f",
+    "cab07d9abab8d0eb",
+    "5ba8ed0e05afdfab",
+    "40ed6b62e188ac6f",
+    "b9d4f946baeff0e3",
+    "95c1b3a89743c247",
+    "4291d6777df4dbe7",
+    "b64b08b36a2ad1c8",
+    "db7a491bdee0d227",
+    "1e7cc5e7c871f9b1",
+    "b76d202a844f758e",
+    "5d8c13bb1c61251d",
+    "771d6429a0ad8a58",
+    "5aa1a770847c225f",
+    "bd8d066dd778ccfb",
+    "7fd045ac4f655f13",
+    "fee7c0f6661bbf52",
+    "dc4fee85d8f77cc1",
+    "0503624b2f44e93d",
+    "ec1b1330f00c7067",
+    "78a524f5d84c9c66",
+    "071fb4cb2a92155f",
+    "c19f676a276df169",
+    "0ef587838f790f78"
+   ]
+  },
+  {
+   "date": "2013-07-19",
+   "future": false,
+   "celex": "02003R0343-20130719",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime OBJECTO E DEFINIÇÕES",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime CAPÍTULO II",
+    "Suprime PRINCÍPIOS GERAIS",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime CAPÍTULO III",
+    "Suprime HIERARQUIA DOS CRITÉRIOS",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime CAPÍTULO IV",
+    "Suprime CLÁUSULA HUMANITÁRIA",
+    "Suprime Artigo 15.º",
+    "Suprime CAPÍTULO V",
+    "Suprime TOMADA E RETOMADA A CARGO",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime CAPÍTULO VI",
+    "Suprime COOPERAÇÃO ADMINISTRATIVA",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime CAPÍTULO VII",
+    "Suprime DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+    "Suprime Artigo 24.º",
+    "Suprime Artigo 25.º",
+    "Suprime Artigo 26.º",
+    "Suprime Artigo 27.º",
+    "Suprime Artigo 28.º",
+    "Suprime Artigo 29.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "f621d9e92baa5d27"
+   ]
+  }
+ ],
+ "fragments": {
+  "410a3cf28c27270f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 343/2003 do Conselho, de 18 de Fevereiro de 2003, que estabelece os critérios e mecanismos de determinação do Estado-Membro responsável pela análise e um pedido de asilo apresentado num dos Estados-Membros por um nacional de um país terceiro** *Jornal Oficial nº L 050 de 25/02/2003 p. 0001 - 0010*\n\nRegulamento (CE) n.o 343/2003 do Conselho\n\nde 18 de Fevereiro de 2003\n\nque estabelece os critérios e mecanismos de determinação do Estado-Membro responsável pela análise e um pedido de asilo apresentado num dos Estados-Membros por um nacional de um país terceiro\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, a alínea a do ponto 1 do seu artigo 63.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Parlamento Europeu(2),\n\nTendo em conta o parecer do Comité Económico e Social Europeu(3),\n\nConsiderando o seguinte:\n\n(1) Uma política comum no domínio do asilo, que inclua um sistema de asilo europeu comum, faz parte integrante do objectivo da União Europeia que consiste em estabelecer progressivamente um espaço de liberdade, de segurança e de justiça aberto às pessoas que, forçadas pelas circunstâncias, procuram legitimamente protecção na Comunidade.\n\n(2) O Conselho Europeu, na sua reunião especial de Tampere de 15 e 16 de Outubro de 1999, acordou em envidar esforços no sentido de estabelecer um sistema de asilo europeu comum, baseado na aplicação integral e global da Convenção de Genebra de 28 de Julho de 1951, completada pelo Protocolo de Nova Iorque de 31 de Janeiro de 1967, e assegurar dessa forma que ninguém será enviado para onde possa ser novamente perseguido, ou seja, em manter o princípio da não repulsão. Neste contexto, e sem afectarem os critérios de responsabilidade constantes do presente regulamento, todos os Estados-Membros que respeitarem o princípio da não repulsão são considerados países seguros para os nacionais de países terceiros.\n\n(3) As conclusões do Conselho de Tampere precisaram igualmente que um sistema de asilo europeu comum deve incluir, a curto prazo, um método claro e operacional para determinar o Estado responsável pela análise de um pedido de asilo.\n\n(4) Este método deve basear-se em critérios objectivos e equitativos, tanto para os Estados-Membros como para as pessoas em causa. Deve, nomeadamente, permitir uma determinação rápida do Estado-Membro responsável, por forma a garantir um acesso efectivo aos procedimentos de determinação do estatuto de refugiado e a não comprometer o objectivo de celeridade no tratamento dos pedidos de asilo.\n\n(5) No contexto da realização gradual de um sistema de asilo europeu comum que possa conduzir, no longo prazo, a um procedimento comum e a um estatuto uniforme, válido em toda a União, para as pessoas que beneficiam do asilo, convém, nesta fase, ao mesmo tempo que se introduzem as melhorias necessárias identificadas à luz da experiência, confirmar os princípios em que assenta a Convenção relativa à determinação do Estado responsável pela análise de um pedido de asilo apresentado num dos Estados-Membros das Comunidades Europeias, assinada em Dublim em 15 de Junho de 1990(4) (a seguir denominada \"Convenção de Dublim\"), cuja aplicação estimulou o processo de harmonização das políticas de asilo.\n\n(6) A unidade das famílias deve ser preservada, desde que tal seja compatível com os outros objectivos prosseguidos, através do estabelecimento de critérios e mecanismos de determinação do Estado responsável pela análise de um pedido de asilo.\n\n(7) O tratamento conjunto dos pedidos de asilo dos membros de uma família pelo mesmo Estado-Membro constitui uma medida que permite assegurar uma análise aprofundada dos pedidos e a coerência das decisões tomadas sobre estes. Os Estados-Membros devem ter a possibilidade de aplicar derrogações aos critérios de responsabilidade, a fim de permitir a aproximação dos membros de uma família quando tal seja necessário por motivos de natureza humanitária.\n\n(8) A realização progressiva de um espaço sem fronteiras internas, no qual a livre circulação das pessoas seja garantida em conformidade com as disposições do Tratado que institui a Comunidade Europeia, e a definição de políticas comunitárias relativas às condições de entrada e estadia de nacionais de países terceiros, incluindo esforços comuns de gestão de fronteiras externas, torna necessário estabelecer um equilíbrio entre critérios de responsabilidade, num espírito de solidariedade.\n\n(9) A aplicação do presente regulamento pode ser facilitada e a sua eficácia reforçada por acordos bilaterais entre Estados-Membros destinados a melhorar as comunicações entre os serviços competentes, reduzir os prazos processuais ou simplificar o tratamento dos pedidos para efeitos de tomada ou de retomada a cargo ou a estabelecer regras relativas à execução das transferências.\n\n(10) Deve ser assegurada a continuidade entre o dispositivo de determinação do Estado responsável estabelecido pela Convenção de Dublim e o dispositivo estabelecido pelo presente regulamento. De igual modo, convém garantir a coerência entre o presente regulamento e o Regulamento (CE) n.o 2725/2000 do Conselho, de 11 de Dezembro de 2000, relativo à criação do sistema \"Eurodac\" de comparação de impressões digitais para efeitos da aplicação efectiva da Convenção de Dublim(5).\n\n(11) O funcionamento do Eurodac, tal como estabelecido pelo Regulamento (CE) n.o 2725/2000, e mais especificamente a aplicação dos seus artigos 4.o e 8.o, deverá contribuir para facilitar a execução do presente regulamento.\n\n(12) No que se refere ao tratamento das pessoas abrangidas pelo âmbito de aplicação da presente directiva, os Estados-Membros encontram-se vinculados por obrigações ao abrigo de instrumentos de direito internacional de que são partes.\n\n(13) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(6).\n\n(14) A aplicação do presente regulamento deve ser avaliada periodicamente.\n\n(15) O presente regulamento respeita os direitos fundamentais e observa os princípios reconhecidos, nomeadamente, pela Carta dos Direitos Fundamentais da União Europeia(7). Em particular, visa assegurar o pleno respeito do direito de asilo garantido pelo seu artigo 18.o\n\n(16) Em conformidade com os princípios da proporcionalidade e da subsidiariedade, tal como enunciados no artigo 5.o do Tratado, o objectivo da acção prevista, ou seja, o estabelecimento de critérios e mecanismos de determinação do Estado-Membro responsável pela análise de um pedido de asilo apresentado num dos Estados-Membros por um nacional de um país terceiro, não pode ser realizado pelos Estados-Membros, podendo apenas, devido às dimensões e efeitos da acção prevista, ser realizado a nível comunitário. O presente regulamento limita-se ao mínimo indispensável para alcançar o referido objectivo, não excedendo o necessário para o efeito.\n\n(17) Em conformidade com o artigo 3.o do protocolo relativo à posição do Reino Unido e da Irlanda, anexo ao Tratado da União Europeia e ao Tratado que institui a Comunidade Europeia, o Reino Unido e a Irlanda notificaram, por cartas de 30 de Outubro de 2001, o seu desejo de participar na aprovação e na aplicação do presente regulamento.\n\n(18) Em conformidade com os artigos 1.o e 2.o do protocolo relativo à posição da Dinamarca, anexo ao Tratado da União Europeia e ao Tratado que institui a Comunidade Europeia, a Dinamarca não participa na aprovação do presente regulamento, pelo que este a não vincula nem lhe é aplicável.\n\n(19) A Convenção de Dublim permanece em vigor e continua a ser aplicável entre a Dinamarca e os Estados-Membros que estão vinculados pelo presente regulamento, até que um acordo que permita a participação da Dinamarca no presente regulamento tendo sido celebrado,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "fc07a0c03c486a89": {
+   "fragment_id": "CAPÍTULO I — OBJECTO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — OBJECTO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — OBJECTO E DEFINIÇÕES"
+  },
+  "3a69edd7c5939669": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece os critérios e mecanismos para a determinação do Estado-Membro responsável pela análise de um pedido de asilo apresentado num dos Estados-Membros por um nacional de um país terceiro."
+  },
+  "8a6fd3462eb0fc5c": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento, entende-se por:\n\na) \"Nacional de um país terceiro\": qualquer pessoa que não seja um cidadão da União, na acepção do n.o 1 do artigo 17.o do Tratado que institui a Comunidade Europeia;\n\nb) \"Convenção de Genebra\": a Convenção relativa ao estatuto dos refugiados, assinada em 28 de Julho de 1951, completada pelo Protocolo de Nova Iorque de 31 de Janeiro de 1967;\n\nc) \"Pedido de asilo\": o pedido apresentado por um nacional de um país terceiro que possa ser entendido como um pedido de protecção internacional a um Estado-Membro, ao abrigo da Convenção de Genebra. Presume-se que todos os pedidos de protecção internacional são pedidos de asilo, salvo se o nacional de um país terceiro solicitar expressamente outra forma de protecção para a qual possa apresentar pedido separadamente;\n\nd) \"Requerente\" ou \"candidato a asilo\": o nacional de um país terceiro que apresentou um pedido de asilo que ainda não foi objecto de decisão definitiva;\n\ne) \"Análise de um pedido de asilo\": o conjunto das medidas de análise, decisões ou sentenças relativas a um pedido de asilo determinadas pelas autoridades competentes em conformidade com a legislação nacional, com excepção dos procedimentos de determinação do Estado responsável pela análise do pedido de asilo, nos termos do presente regulamento;\n\nf) \"Retirada do pedido de asilo\": as acções através das quais, explícita ou tacitamente, o requerente de asilo põe termo ao procedimento desencadeado pela introdução do seu pedido de asilo, em conformidade com a legislação nacional;\n\ng) \"Refugiado\": qualquer nacional de um país terceiro que, beneficiando do estatuto definido na Convenção de Genebra, seja autorizado a residir nessa qualidade no território de um Estado-Membro;\n\nh) \"Menor não acompanhado\": pessoa solteira, menor de dezoito anos, que entre no território de um Estado-Membro sem ser acompanhado por um adulto que por ele seja responsável, por força da lei ou do costume, e enquanto não for efectivamente tomado a cargo por esse adulto; estão incluídos os menores que ficam desacompanhados após a sua entrada no território do Estado-Membro;\n\ni) \"Membros da família\": inclui, desde que a família tenha sido constituída previamente no país de origem, os seguintes membros do grupo familiar do requerente, presentes no território do Estado-Membro:\n\ni) o cônjuge do candidato a asilo ou o seu/sua companheiro(a) numa relação duradoura, se a legislação ou prática do Estado-Membro em questão tratar de forma comparável os casais que contraíram e os casais que não contraíram matrimónio, ao abrigo da respectiva legislação sobre estrangeiros;\n\nii) os filhos menores dos casais mencionados no ponto i) ou do requerente, desde que sejam solteiros e estejam a seu cargo, independentemente de terem nascido do casamento ou fora dele, ou os adoptados, nos termos do direito nacional;\n\niii) o pai, a mãe ou o tutor, se o requerente ou refugiado for menor e solteiro;\n\nj) \"Título de residência\": toda a autorização emitida pelas autoridades de um Estado-Membro que permita a estadia de um nacional de um país terceiro no seu território, incluindo os documentos que comprovam a autorização de se manter no território, no âmbito de um regime de protecção temporária ou até que deixem de se verificar as circunstâncias que obstavam à execução de uma medida de afastamento, com excepção dos vistos e das autorizações de residência emitidos durante o período necessário para determinar o Estado-Membro responsável, em conformidade com o presente regulamento, ou durante a análise de um pedido de asilo ou título de residência;\n\nk) \"Visto\": a autorização ou decisão de um Estado-Membro exigida para o trânsito ou a entrada para uma estadia prevista nesse Estado-Membro ou em vários Estados-Membros. A natureza do visto é apreciada em função das seguintes definições:\n\ni) \"visto de longa duração\": a autorização ou a decisão de um Estado-Membro, exigida à entrada para uma estadia prevista nesse Estado-Membro, por um período superior a três meses;\n\nii) \"visto de curta duração\": a autorização ou a decisão de um Estado-Membro, exigida à entrada para uma estadia prevista nesse Estado-Membro ou em vários Estados-Membros, por um período cuja duração total não exceda três meses;\n\niii) \"visto de trânsito\": a autorização ou a decisão de um Estado-Membro, exigida à entrada para trânsito através do território desse Estado-Membro ou de vários Estados-Membros, com excepção do trânsito aeroportuário;\n\niv) \"visto de trânsito aeroportuário\": a autorização ou a decisão que permite ao nacional de um país terceiro, especificamente sujeito a esta exigência, passar pela zona de trânsito de um aeroporto sem aceder ao território nacional do Estado-Membro em causa, aquando de uma escala ou correspondência entre duas etapas de um voo internacional."
+  },
+  "ab4a612e9df589a0": {
+   "fragment_id": "CAPÍTULO II — PRINCÍPIOS GERAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — PRINCÍPIOS GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — PRINCÍPIOS GERAIS"
+  },
+  "6807964b640727b7": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros analisarão todo o pedido de asilo apresentado por um nacional de um país terceiro a qualquer dos Estados-Membros, quer na fronteira, quer no território do Estado-Membro em causa. O pedido de asilo é analisado por um único Estado, que será aquele que os critérios enunciados no capítulo III designarem como responsável.\n\n2. Em derrogação do n.o 1, cada Estado-Membro tem o direito de analisar um pedido de asilo que lhe seja apresentado por um nacional de um país terceiro, mesmo que essa análise não seja da sua competência por força dos critérios definidos no presente regulamento. Nesse caso, este Estado torna-se o Estado responsável, na acepção do presente regulamento, e assume as obrigações inerentes a essa responsabilidade. Se for caso disso, informará o Estado-Membro anteriormente responsável, aquele que conduz o processo de determinação do Estado responsável ou aquele que foi requerido para efeitos de tomada ou retomada a cargo.\n\n3. Os Estados-Membros mantêm a faculdade de, em aplicação dos respectivos direitos nacionais, enviar um candidato a asilo para um país terceiro, com observância das disposições da Convenção de Genebra.\n\n4. O candidato a asilo será informado, por escrito e numa língua que, em princípio, possa compreender, sobre a aplicação do presente regulamento, respectivos prazos e efeitos."
+  },
+  "859c5fdefb3e47a3": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O processo de determinação do Estado-Membro responsável nos termos do presente regulamento tem início a partir do momento em que um pedido de asilo é apresentado pela primeira vez a um Estado-Membro.\n\n2. Considera-se que um pedido de asilo foi apresentado a partir do momento em que as autoridades competentes do Estado-Membro em causa recebam um formulário apresentado pelo requerente de asilo ou um auto lavrado pela autoridade. No caso de um pedido não escrito, o período que medeia entre a declaração de intenção e a elaboração de um auto deve ser tão breve quanto possível.\n\n3. Para efeitos da aplicação do presente regulamento, a situação do filho menor que acompanhe o candidato a asilo e corresponda à definição de membro da família constante da alínea i) do artigo 2.o é indissociável da do pai, mãe ou tutor e é da competência do Estado-Membro responsável pela análise do pedido de asilo desse pai, mãe ou tutor, mesmo que o menor não seja candidato a asilo a título individual. O mesmo se aplica aos filhos nascidos após a chegada dos candidatos ao território dos Estados-Membros, não havendo necessidade de iniciar para estes um novo procedimento de tomada a cargo.\n\n4. Sempre que um pedido de asilo for apresentado às autoridades competentes de um Estado-Membro por um requerente que se encontre no território de outro Estado-Membro, a determinação do Estado-Membro responsável incumbe ao Estado-Membro em cujo território se encontrar o requerente de asilo. Esse Estado-Membro é informado sem demora pelo Estado-Membro a quem tiver sido apresentado o pedido de asilo e, para efeitos do presente regulamento, é considerado como o Estado junto do qual foi introduzido o pedido.\n\nO requerente será informado por escrito dessa transmissão e da data em que esta teve lugar.\n\n5. O Estado-Membro a que tiver sido apresentado o pedido de asilo é obrigado, nas condições previstas no artigo 20.o e a fim de concluir o processo de determinação do Estado responsável pela análise do pedido, a retomar a cargo o candidato que se encontre presente noutro Estado-Membro e aí tenha formulado um novo pedido de asilo, após ter retirado o seu pedido durante o processo de determinação do Estado responsável.\n\nEsta obrigação cessa se o candidato a asilo tiver entretanto abandonado o território dos Estados-Membros durante um período de, pelo menos, três meses, ou for detentor de um título de residência emitido por um Estado-Membro."
+  },
+  "be18ee92f16b7479": {
+   "fragment_id": "CAPÍTULO III — HIERARQUIA DOS CRITÉRIOS",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — HIERARQUIA DOS CRITÉRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — HIERARQUIA DOS CRITÉRIOS"
+  },
+  "cf7239dae3678380": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os critérios de determinação do Estado-Membro responsável, aplicar-se-ão pela ordem em que são enunciados no presente capítulo.\n\n2. A determinação do Estado-Membro responsável em aplicação dos referidos critérios é efectuada com base na situação existente no momento em que o candidato a asilo tiver apresentado pela primeira vez o seu pedido junto de um Estado-Membro."
+  },
+  "646c27cbfcf8ea49": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSe o requerente de asilo for um menor não acompanhado, o Estado-Membro responsável pela análise do seu pedido será o Estado em que se encontrar legalmente um membro da família, desde que tal ocorra no interesse superior do menor.\n\nNa ausência de um membro da família, é responsável pela análise do pedido o Estado-Membro em que o menor apresentou o seu pedido de asilo."
+  },
+  "e430119b6578b0f0": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nSe um membro da família do candidato a asilo, independentemente de a família ter sido constituída previamente no país de origem, tiver sido autorizado a residir como refugiado num Estado-Membro, esse Estado-Membro é responsável pela análise do pedido de asilo, desde que os interessados assim o desejem."
+  },
+  "d65f43907441a84f": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nSe um membro da família do candidato a asilo tiver apresentado, num Estado-Membro, um pedido de asilo que não tenha ainda sido objecto de uma primeira decisão quanto ao fundo esse Estado-Membro é responsável pela análise do pedido de asilo, desde que os interessados assim o desejem."
+  },
+  "d96d543fd283d8d3": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Se o candidato a asilo for titular de um título de residência válido, o Estado-Membro que o tiver emitido é responsável pela análise do pedido de asilo.\n\n2. Se o candidato a asilo for titular de um visto válido, o Estado-Membro que o tiver emitido é responsável pela análise do pedido de asilo, salvo se o visto tiver sido emitido em representação ou mediante autorização escrita de outro Estado-Membro. Nesse caso, é este o Estado-Membro responsável pela análise do pedido de asilo. Sempre que um Estado-Membro consulte previamente a autoridade central de outro Estado-Membro, nomeadamente por razões de segurança, a resposta deste último à consulta não constitui uma autorização escrita, na acepção do presente número.\n\n3. Se o candidato a asilo for titular de vários títulos de residência ou de vários vistos válidos, emitidos por diferentes Estados-Membros, o Estado-Membro responsável pela análise do pedido de asilo é, pela seguinte ordem:\n\na) O Estado-Membro que tiver emitido o título de residência que confira o direito de residência mais longo ou, caso os títulos tenham prazos de validade idênticos, o Estado que tiver emitido o título de residência cuja validade cesse mais tarde;\n\nb) O Estado-Membro que tiver emitido o visto cuja validade cesse mais tarde, quando os vistos forem da mesma natureza;\n\nc) Em caso de vistos de natureza diferente, o Estado-Membro que tiver emitido o visto com um prazo de validade mais longo ou, caso os prazos de validade sejam idênticos, o Estado que tiver emitido o visto cuja validade cesse mais tarde.\n\n4. Se o candidato a asilo apenas for titular de um ou mais títulos de residência caducados há menos de dois anos, ou de um ou mais vistos caducados há menos de seis meses, que lhe tenham efectivamente permitido a entrada no território de um Estado-Membro, são aplicáveis os n.os 1, 2 e 3, enquanto o requerente não abandonar o território dos Estados-Membros.\n\nSe o candidato a asilo for titular de um ou mais títulos de residência caducados há mais de dois anos, ou de um ou mais vistos caducados há mais de seis meses, que lhe tenham efectivamente permitido a entrada no território de um Estado-Membro, e se não tiver abandonado o território dos Estados-Membros, é responsável o Estado-Membro em que o pedido for apresentado.\n\n5. A circunstância de o título de residência ou o visto ter sido emitido com base numa identidade fictícia ou usurpada ou mediante a apresentação de documentos falsos, falsificados ou não válidos, não obsta à atribuição da responsabilidade ao Estado-Membro que o tiver emitido. Todavia, o Estado que tiver emitido o título de residência ou o visto não é responsável, se puder provar que a fraude ocorreu posteriormente a essa emissão."
+  },
+  "8d0238159ecf6923": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Caso se comprove, com base nos elementos de prova ou nos indícios descritos nas duas listas referidas no n.o 3 do artigo 19.o, incluindo os dados referidos no capítulo III do Regulamento (CE) n.o 2725/2000, que o requerente de asilo atravessou irregularmente a fronteira de um Estado-Membro, por via terrestre, marítima ou aérea, e que entrou nesse Estado-Membro a partir de um país terceiro, esse Estado-Membro é responsável pela análise do pedido de asilo. Esta responsabilidade cessa 12 meses após a data em que teve lugar a passagem irregular da fronteira.\n\n2. Quando um Estado-Membro não possa ser ou já não possa ser tido como responsável nos termos do n.o 1 do presente artigo, e caso se comprove, com base nos elementos de prova ou indícios descritos nas duas listas referidas no n.o 3 do artigo 18.o, que o requerente de asilo - que entrou nos territórios dos Estados-Membros irregularmente, ou em circunstâncias que não é possível comprovar - permaneceu num Estado-Membro durante um período ininterrupto de pelo menos cinco meses antes de apresentar o seu pedido, esse Estado-Membro é responsável pela análise do pedido de asilo.\n\nSe o requerente de asilo tiver permanecido durante períodos de pelo menos cinco meses em vários Estados-Membros, o Estado-Membro em que tal ocorreu mais recentemente é responsável pela análise do pedido de asilo."
+  },
+  "f75d67ddc0115d82": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Se um nacional de um país terceiro entrar num Estado-Membro em que está dispensado de visto, esse Estado-Membro é responsável pela análise do pedido de asilo.\n\n2. O princípio estabelecido no n.o 1 não se aplica se o nacional de país terceiro apresentar o seu pedido de asilo noutro Estado-Membro em que está igualmente dispensado de visto de entrada. Nesse caso, é este último Estado-Membro o responsável pela análise do pedido de asilo."
+  },
+  "390e3dd8ac277f73": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nQuando o pedido de asilo for apresentado numa zona de trânsito de um aeroporto de um Estado-Membro por um nacional de um país terceiro, esse Estado-Membro é responsável pela análise do pedido."
+  },
+  "1d6496aa5f2986bd": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nSempre que o Estado-Membro responsável pela análise do pedido de asilo não possa ser designado com base nos critérios enumerados no presente regulamento, é responsável pela análise do pedido o primeiro Estado-Membro em que este tenha sido apresentado."
+  },
+  "704ab0b72b95348f": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nSe vários membros de uma família apresentarem no mesmo Estado-Membro um pedido de asilo em simultâneo, ou em datas suficientemente próximas para que os procedimentos de determinação do Estado responsável sejam conduzidos em conjunto, e se a aplicação dos critérios enunciados no presente regulamento conduzir à sua separação, a determinação do Estado responsável basear-se-á nas seguintes disposições:\n\na) É responsável pela análise dos pedidos de asilo de todos os membros da família o Estado-Membro que os critérios designarem como responsável pela tomada a cargo do maior número dos seus membros;\n\nb) Caso contrário, é responsável o Estado-Membro que os critérios designarem como responsável pela análise do pedido do membro mais idoso do grupo familiar."
+  },
+  "544f987176031fc7": {
+   "fragment_id": "CAPÍTULO IV — CLÁUSULA HUMANITÁRIA",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — CLÁUSULA HUMANITÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — CLÁUSULA HUMANITÁRIA"
+  },
+  "cdd0670fb00212c8": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Mesmo que não seja responsável em aplicação dos critérios definidos no presente regulamento, qualquer Estado-Membro pode reunir membros de uma família, bem como outros familiares dela dependentes, por razões humanitárias, baseadas nomeadamente em motivos familiares ou culturais. Nesse caso, esse Estado-Membro analisará o pedido de asilo da pessoa em questão, a pedido de outro Estado-Membro. As pessoas interessadas terão de dar o seu consentimento.\n\n2. Nos casos em que a pessoa em causa seja dependente da assistência da outra, devido a encontrar-se grávida ou ter dado à luz recentemente, ou ser portadora de doença ou deficiência grave ou ser de idade avançada, os Estados-Membros manterão, por norma, juntos ou reunirão o candidato a asilo e um membro da sua família que se encontre no território de um dos Estados-Membros, desde que os laços familiares existissem já no país de origem.\n\n3. Se o candidato a asilo for um menor não acompanhado que tenha um ou mais familiares noutro Estado-Membro que o possam tomar a cargo, os Estados-Membros reuni-los-ão, se possível, desde que tal não contrarie o interesse superior do menor.\n\n4. Se o Estado-Membro requerido aceder a este pedido, será transferida para este a responsabilidade pela análise do pedido.\n\n5. As condições e procedimentos de aplicação do presente artigo, incluindo, se necessário, mecanismos de conciliação destinados a regular divergências entre Estados-Membros sobre a necessidade ou o local em que convém proceder à aproximação das pessoas em causa, são aprovados em conformidade com o procedimento previsto no n.o 2 do artigo 27.o"
+  },
+  "ea75a5a2fc0661e1": {
+   "fragment_id": "CAPÍTULO V — TOMADA E RETOMADA A CARGO",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — TOMADA E RETOMADA A CARGO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — TOMADA E RETOMADA A CARGO"
+  },
+  "5034d8093a481d8f": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. O Estado-Membro responsável pela análise de um pedido de asilo por força do presente regulamento é obrigado a:\n\na) Tomar a cargo, nas condições previstas nos artigos 17.o a 19.o, o requerente de asilo que tenha apresentado um pedido noutro Estado-Membro;\n\nb) Finalizar a análise do pedido de asilo;\n\nc) Retomar a cargo, nas condições previstas no artigo 20.o, o requerente de asilo cujo pedido esteja a ser analisado e que se encontre, sem para tal ter recebido autorização, no território de outro Estado-Membro;\n\nd) Retomar a cargo, nas condições previstas no artigo 20.o, o requerente de asilo que tenha retirado o seu pedido durante o processo de análise e tenha formulado um pedido de asilo noutro Estado-Membro;\n\ne) Retomar a cargo, nas condições previstas no artigo 20.o, o nacional de um país terceiro cujo pedido tenha rejeitado e que se encontre, sem para tal ter recebido autorização, no território de outro Estado-Membro.\n\n2. Se um Estado conceder um título de residência ao requerente de asilo, serão para ele transferidas as obrigações previstas no n.o 1.\n\n3. Cessam as obrigações previstas no n.o 1 se o nacional de um país terceiro tiver abandonado o território dos Estados-Membros durante um período mínimo de três meses, a menos que seja titular de um título de residência válido emitido pelo Estado-Membro responsável.\n\n4. Cessam igualmente as obrigações previstas nas alíneas d) e e) do n.o 1 se o Estado-Membro responsável pela análise do pedido de asilo tiver tomado e efectivamente aplicado, na sequência da retirada ou da rejeição do pedido de asilo, as disposições necessárias para que o nacional de um país terceiro regresse ao seu país de origem, ou se dirija para outro país em que possa entrar legalmente."
+  },
+  "032de4e580f600a5": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. O Estado-Membro ao qual tenha sido apresentado um pedido de asilo e que considere que a responsabilidade pela análise desse pedido cabe a outro Estado-Membro pode requerer a este último que proceda à tomada a cargo o mais rapidamente possível e, em qualquer caso, no prazo de três meses a contar da apresentação do pedido de asilo, na acepção do n.o 2 do artigo 4.o\n\nSe o pedido de tomada a cargo de um requerente não for formulado no prazo de três meses, a responsabilidade pela análise do pedido de asilo cabe ao Estado-Membro ao qual o pedido tiver sido apresentado.\n\n2. O Estado-Membro requerente pode solicitar uma resposta com urgência nos casos em que o pedido de asilo tenha sido introduzido na sequência de uma recusa de entrada ou de estadia, de uma detenção por estadia irregular, de notificação ou execução, de uma medida de afastamento e/ou quando o candidato a asilo estiver detido.\n\nO pedido indicará as razões que justificam uma resposta urgente e o prazo em que a resposta é aguardada. Este prazo não poderá ser inferior a uma semana.\n\n3. Nos dois casos, o pedido de tomada a cargo por outro Estado-Membro deve fazer-se num formulário-tipo e conter os elementos de prova ou indícios descritos nas duas listas mencionadas no n.o 3 do artigo 18.o e/ou elementos relevantes constantes da declaração do candidato que permitam às autoridades do Estado-Membro requerido verificar a responsabilidade desse Estado com base nos critérios definidos no presente regulamento.\n\nAs regras relativas à elaboração e ao procedimento de transmissão dos pedidos serão adoptadas de acordo com o procedimento previsto no n.o 2 do artigo 27.o"
+  },
+  "af545dd165338394": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. O Estado-Membro requerido procederá às verificações necessárias e deliberará sobre o pedido, para efeitos de tomada a cargo dum requerente, no prazo de dois meses a contar da data de apresentação desse pedido.\n\n2. Na condução do processo de determinação do Estado-Membro responsável pela análise do pedido de asilo estabelecido pelo presente regulamento, serão utilizados elementos de prova e indícios.\n\n3. Serão elaboradas, nos termos do n.o 2 do artigo 27.o, duas listas, a actualizar periodicamente com os elementos de prova e os indícios, de acordo com os seguintes critérios:\n\na) Provas:\n\ni) Trata-se das provas formais que estabelecem a responsabilidade de acordo com o presente regulamento, desde que não sejam refutadas por provas em contrário;\n\nii) Os Estados-Membros apresentarão ao Comité referido no artigo 27.o modelos dos diferentes tipos de documentos administrativos, de acordo com a tipologia estabelecida na lista de provas formais.\n\nb) Indícios:\n\ni) Trata-se dos elementos indicativos que, embora refutáveis, poderão, consoante o valor probatório que lhes for atribuído, ser suficientes em certos casos;\n\nii) Relativamente à responsabilidade pela análise do pedido de asilo, o seu valor probatório será apreciado caso a caso.\n\n4. A exigência de prova não deverá exceder o necessário à correcta aplicação do presente regulamento.\n\n5. Na falta de uma prova formal, o Estado-Membro requerido admitirá a sua responsabilidade se existirem indícios coerentes, verificáveis e suficientemente pormenorizados para estabelecer a responsabilidade.\n\n6. Se o Estado-Membro requerente tiver invocado urgência, em conformidade com o n.o 2 do artigo 17.o, o Estado requerido fará todos os esforços necessários para cumprir o prazo solicitado. Em casos excepcionais, sendo comprovável a especial complexidade da análise do pedido de tomada a cargo do requerente, o Estado-Membro requerido pode responder depois do prazo solicitado, mas sempre no prazo de um mês. Nestes casos, o Estado-Membro requerido deve, dentro do prazo solicitado inicialmente, comunicar ao Estado-Membro requerente a sua decisão de protelar a resposta.\n\n7. A ausência de resposta no termo do prazo de dois meses mencionado no n.o 1 e de um mês, previsto no n.o 6, equivale à aceitação do pedido e tem como consequência a obrigação de tomada a carga da pessoa, incluindo as providências adequadas para a sua chegada."
+  },
+  "13b327751468ccdd": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. Caso o Estado requerido aceite a tomada a cargo dum requerente, o Estado-Membro em que o pedido de asilo foi apresentado notificará o requerente da sua decisão de não analisar o pedido e da obrigação de transferência do requerente para o Estado-Membro responsável.\n\n2. A decisão a que se refere o n.o 1 deverá ser fundamentada e acompanhada das indicações de prazo relativas à execução da transferência, incluindo se necessário informações relativas ao local e à data em que o requerente deve apresentar-se no caso de se dirigir para o Estado-Membro responsável pelos seus próprios meios. A decisão é susceptível de recurso ou revisão. O recurso ou a revisão da decisão não têm efeito suspensivo sobre a execução da transferência, a não ser que os tribunais ou as autoridades competentes assim o decidam, especificamente, e a legislação nacional o permita.\n\n3. A transferência do requerente do Estado-Membro em que o pedido de asilo foi apresentado para o Estado-Membro responsável efectuar-se-á em conformidade com o direito nacional do Estado-Membro, após concertação entre os Estados-Membros envolvidos, logo que seja materialmente possível e, o mais tardar, no prazo de seis meses a contar da aceitação do pedido de tomada a cargo ou da decisão sobre o recurso ou revisão, nos casos em que exista efeito suspensivo.\n\nSe necessário, o Estado-Membro requerente fornecerá ao candidato a asilo um salvo-conduto, em conformidade com o modelo adoptado segundo o procedimento previsto no n.o 2 do artigo 27.o\n\nO Estado-Membro responsável informará o Estado-Membro requerente, consoante o caso, da chegada do candidato a asilo ao destino, ou de que este não se apresentou no prazo prescrito.\n\n4. Se a transferência não for efectuada no prazo de seis meses, a responsabilidade incumbirá ao Estado-Membro em que o pedido de asilo tiver sido apresentado. Este prazo poderá ser alargado até, no máximo, um ano se a transferência não tiver sido efectuada devido a detenção do candidato a asilo, ou 18 meses, em caso de ausência deste.\n\n5. Podem ser adoptadas regras complementares relativas à realização das transferências em conformidade com o procedimento referido no n.o 2 do artigo 27.o"
+  },
+  "08d1a455f936530b": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. A retomada a cargo de um requerente de asilo em conformidade com o disposto no n.o 5 do artigo 4.o e nas alíneas c), d) e e) do artigo 16.o obedece às seguintes regras:\n\na) O pedido de retomada a cargo deve conter indicações que permitam ao Estado-Membro requerido certificar-se de que é responsável;\n\nb) O Estado-Membro ao qual é requerida a retomada a cargo é obrigado a proceder às verificações necessárias e a responder ao pedido que lhe é dirigido o mais rapidamente possível e sempre dentro do prazo de um mês a contar do momento em que a matéria lhe for apresentada. Quando o pedido se baseie em dados obtidos através do sistema Eurodac, o prazo será reduzido a duas semanas;\n\nc) Se o Estado-Membro requerido não der a conhecer a sua decisão no prazo de um mês ou de duas semanas referido na alínea b), considera-se que aceita a retomada a cargo do candidato a asilo;\n\nd) O Estado-Membro que aceita retomar um candidato a asilo é obrigado a readmitir essa pessoa no seu território. A transferência efectua-se em conformidade com o direito nacional do Estado-Membro requerente, após concertação entre os Estados-Membros envolvidos, logo que seja materialmente possível e, o mais tardar, no prazo de seis meses após a aceitação do pedido de retomada a cargo por outro Estado-Membro ou após a decisão tomada em recurso ou revisão com efeitos suspensivos;\n\ne) O Estado-Membro requerente notificará o candidato a asilo da decisão relativa à sua retomada a cargo pelo Estado-Membro responsável. Esta decisão deverá ser fundamentada e acompanhada das indicações de prazo relativas à execução da transferência, incluindo, se necessário, informações relativas ao local e à data em que o requerente deve apresentar-se, no caso de se dirigir para o Estado-Membro responsável pelos seus próprios meios. A decisão é susceptível de recurso ou de revisão. Este recurso ou revisão da decisão não tem efeito suspensivo sobre a execução da transferência, a não ser que os tribunais ou as autoridades competentes assim o decidam, especificamente, e a legislação nacional o permita.\n\nSe necessário, o Estado-Membro requerente fornecerá ao candidato a asilo um salvo-conduto em conformidade com o modelo adoptado, segundo o procedimento referido no n.o 2 do artigo 27.o\n\nO Estado-Membro responsável informará o Estado-Membro requerente, consoante o caso, da chegada do candidato a asilo ao destino, ou de que este não se apresentou no prazo prescrito.\n\n2. Se a transferência não for executada no prazo de seis meses, a responsabilidade caberá ao Estado-Membro da apresentação do pedido. Este prazo poderá ser alargado até, no máximo, um ano se a transferência ou a análise do pedido se não tiver efectuado devido a detenção do candidato a asilo, ou 18 meses, em caso de ausência deste.\n\n3. As regras relativas às provas e indícios e à sua interpretação, bem como à elaboração e às modalidades de transmissão dos pedidos, serão adoptadas em conformidade com o procedimento previsto no n.o 2 do artigo 27.o\n\n4. Podem ser adoptadas regras complementares relativas à realização das transferências, em conformidade com o procedimento previsto no n.o 2 do artigo 27.o"
+  },
+  "42620f7f10ca7b6b": {
+   "fragment_id": "CAPÍTULO VI — COOPERAÇÃO ADMINISTRATIVA",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — COOPERAÇÃO ADMINISTRATIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — COOPERAÇÃO ADMINISTRATIVA"
+  },
+  "25529bcf0230ca9e": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Os Estados-Membros comunicarão aos Estados-Membros que o solicitem todas as informações de carácter pessoal relativas ao candidato a asilo que sejam adequadas, pertinentes e não excessivas, a fim de:\n\na) Determinar o Estado-Membro responsável pela análise do pedido de asilo;\n\nb) Analisar o pedido de asilo;\n\nc) Executar todas as obrigações decorrentes do presente regulamento.\n\n2. As informações referidas no n.o 1 só podem incidir sobre:\n\na) Os dados de identificação relativos ao requerente e, se necessário, aos membros da sua família (nome e apelido - se aplicável, apelido anterior -, alcunhas ou pseudónimos, nacionalidade - actual e anterior -, data e local de nascimento);\n\nb) Os documentos de identidade e de viagem (referências, prazo de validade, data de emissão, autoridade emitente, local de emissão, etc.);\n\nc) Os outros elementos necessários para determinar a identidade do requerente, incluindo as suas impressões digitais, tratadas em conformidade com o disposto no Regulamento (CE) n.o 2725/2000;\n\nd) Os locais de estadia e os itinerários de viagem;\n\ne) Os títulos de residência ou os vistos emitidos por um Estado-Membro;\n\nf) O local em que o pedido foi apresentado;\n\ng) A data de apresentação de um eventual pedido de asilo anterior, a data de apresentação do pedido actual, a situação do processo e, eventualmente, o teor da decisão tomada.\n\n3. Além disso, e desde que tal seja necessário para a análise do pedido de asilo, o Estado-Membro responsável pode pedir a outro Estado-Membro que lhe comunique os motivos invocados pelo candidato a asilo para justificar o seu pedido e, eventualmente, os motivos da decisão tomada a seu respeito. O Estado-Membro solicitado pode recusar dar seguimento ao pedido que lhe é apresentado, se a comunicação destas informações for susceptível de lesar os interesses essenciais do Estado-Membro, ou a protecção das liberdades e dos direitos fundamentais da pessoa em causa ou de qualquer outra pessoa. A comunicação dessas informações subordina-se sempre ao consentimento escrito do requerente de asilo.\n\n4. Os pedidos de informação serão fundamentados e, quando tiverem por objectivo verificar a existência de um critério susceptível de implicar a responsabilidade do Estado-Membro requerido, indicarão o indício - incluindo informações relevantes de fontes fidedignas sobre as formas e meios utilizados pelos requerentes de asilo para entrar nos territórios dos Estados-Membros - ou o elemento concreto e verificável das declarações do requerente em que se baseiam. Entende-se que essas informações relevantes de fontes fidedignas não podem, por si só, ser suficientes para determinar a responsabilidade e a competência de um Estado-Membro nos termos do presente regulamento, mas podem contribuir para a avaliação de outras indicações relativas a um determinado requerente de asilo.\n\n5. O Estado-Membro requerido deve responder no prazo de seis semanas.\n\n6. A troca de informações, que só pode ter lugar entre autoridades cuja designação por cada Estado-Membro seja comunicada à Comissão, efectua-se a pedido de um Estado-Membro, que transmite essa informação aos outros Estados-Membros.\n\n7. As informações trocadas só podem ser utilizadas para os fins previstos no n.o 1. Em cada Estado-Membro, estas informações, considerando a sua natureza e a competência da autoridade destinatária, só podem ser comunicadas às autoridades e jurisdições encarregadas de:\n\na) Determinar o Estado-Membro responsável pela análise do pedido de asilo;\n\nb) Analisar o pedido de asilo;\n\nc) Executar todas as obrigações decorrentes do presente regulamento.\n\n8. O Estado-Membro que comunica os dados velará pela sua exactidão e actualidade. Se se verificar que esse Estado-Membro forneceu dados inexactos ou que não deveriam ter sido comunicados, os Estados-Membros destinatários serão imediatamente informados do facto. Esses Estados-Membros ficarão obrigados a rectificar esses dados ou a apagá-los.\n\n9. O candidato a asilo tem direito a que lhe sejam comunicadas, a seu pedido, as informações tratadas que lhe digam respeito.\n\nSe verificar que essas informações foram tratadas em violação do disposto no presente regulamento ou na Directiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados(8), nomeadamente por serem incompletas ou inexactas, tem o direito de obter a sua rectificação, apagamento ou bloqueio.\n\nA autoridade que procede à rectificação, apagamento ou bloqueio dos dados informará, consoante o caso, o Estado-Membro emissor ou o destinatário das informações.\n\n10. Em cada Estado-Membro interessado, far-se-á menção da comunicação e da recepção das informações trocadas no processo individual da pessoa em causa e/ou em registo próprio.\n\n11. Os dados permutados serão conservados por um período que não exceda o tempo necessário aos fins para os quais foram comunicados.\n\n12. Se os dados não forem tratados automaticamente ou não estiverem contidos num ficheiro, nem se destinarem a ser nele introduzidos, os Estados-Membros deverão tomar as medidas adequadas para assegurar o cumprimento do disposto no presente artigo através de meios de controlo eficazes."
+  },
+  "2840c9d17a2a5641": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. Os Estados-Membros notificarão à Comissão as autoridades responsáveis pelo cumprimento das obrigações decorrentes do presente regulamento e assegurarão que essas autoridades disponham dos recursos necessários para cumprirem a sua missão e, nomeadamente, para responderem, nos prazos previstos, aos pedidos de informações, de tomada a cargo e de retomada a cargo de candidatos a asilo.\n\n2. A regras relativas ao estabelecimento de canais seguros de transmissão electrónica entre as autoridades referidas no n.o 1, por forma a assegurar a transmissão dos pedidos e a recepção automática pelos remetentes de uma prova electrónica da respectiva entrega, serão estabelecidas de acordo com o procedimento referido no n.o 2 do artigo 27.o"
+  },
+  "dc9a8083b5e528f5": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. Os Estados-Membros poderão estabelecer, bilateralmente, acordos administrativos relativos às regras práticas de aplicação do presente regulamento, a fim de facilitar a sua implementação e aumentar a respectiva eficácia. Esses acordos poderão incidir sobre:\n\na) Intercâmbios de agentes de ligação;\n\nb) Simplificação dos procedimentos e redução dos prazos aplicáveis à transmissão e à análise dos pedidos para efeitos de tomada a cargo ou de retomada a cargo de requerentes de asilo\n\n2. Os acordos referidos no n.o 1 serão comunicados à Comissão. A Comissão verificará se os acordos referidos na alínea b) do n.o 1 não contrariam as disposições do presente regulamento."
+  },
+  "5a7643867f219977": {
+   "fragment_id": "CAPÍTULO VII — DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII — DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+  },
+  "77ba7d49e5fa1ba9": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1. O presente regulamento substitui a Convenção sobre a determinação do Estado responsável pela análise de um pedido de asilo apresentado num Estado-Membro das Comunidades Europeias, assinada em Dublim em 15 de Junho de 1990.\n\n2. Todavia, a fim de assegurar a continuidade do processo de determinação do Estado-Membro responsável pelo pedido de asilo, sempre que este tenha sido apresentado após a data referida no segundo parágrafo do artigo 29.o, os factos susceptíveis de implicar a responsabilidade de um Estado-Membro, por força do disposto no presente regulamento, serão tomados em consideração, mesmo que sejam anteriores a essa data, com excepção dos factos a que se refere o n.o 2 do artigo 10.o\n\n3. Sempre que, no Regulamento (CE) n.o 2725/2000, seja feita referência à Convenção de Dublim, essa referência será entendida como uma referência ao presente regulamento."
+  },
+  "0503624b2f44e93d": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. Os prazos previstos no presente regulamento são calculados do seguinte modo:\n\na) Se um prazo fixado em dias, semanas ou meses começar a correr a partir do momento em que ocorre um evento ou se pratica um acto, na sua contagem não se inclui o dia em que esse evento ou acto têm lugar;\n\nb) Um prazo, fixado em semanas ou meses, termina no fim do dia que, na última semana ou no último mês, tenha a mesma denominação ou o mesmo número que o dia em que ocorreu o evento, ou em que se praticou o acto a partir dos quais se deve contar o prazo. Se, num prazo fixado em meses, o dia determinado para o seu termo não existir no último mês, o prazo termina no fim do seu último dia;\n\nc) Os prazos incluem os sábados, os domingos e os feriados oficiais dos Estados-Membros em causa.\n\n2. Os pedidos e as respostas devem ser enviadas por qualquer via que permita apresentar prova de recepção."
+  },
+  "ec1b1330f00c7067": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nNo que diz respeito à República Francesa, as disposições do presente regulamento aplicar-se-ão exclusivamente ao seu território europeu."
+  },
+  "cb37984e13db54e6": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. A Comissão será assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE.\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "15c73bcc5c44453f": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nO mais tardar três anos após a data referida no primeiro parágrafo do artigo 29.o, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do presente regulamento, propondo eventualmente as alterações necessárias. Os Estados-Membros transmitirão à Comissão qualquer informação útil à preparação desse relatório, o mais tardar seis meses antes daquela data.\n\nApós ter apresentado o referido relatório, a Comissão informará o Parlamento Europeu e o Conselho sobre a aplicação do presente regulamento, ao mesmo tempo que submeterá os relatórios relativos à aplicação do sistema Eurodac previstos no n.o 5 do artigo 24.o do Regulamento (CE) n.o 2725/2000."
+  },
+  "a3540602dd987c17": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nO presente regulamento entra em vigor vinte dias após a sua publicação no Jornal Oficial da União Europeia.\n\nÉ aplicável aos pedidos de asilo apresentados a partir do primeiro dia do sexto mês seguinte à sua entrada em vigor, e, a partir dessa data, aplicar-se-á a qualquer pedido de tomada a cargo ou de retomada a cargo de candidatos a asilo, independentemente da data em que esses pedidos foram feitos. A determinação do Estado-Membro responsável pela análise de um pedido de asilo apresentado antes dessa data será efectuada em conformidade com os critérios enunciados na Convenção de Dublim.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros, em conformidade com o Tratado que institui a Comunidade Europeia.\n\nFeito em Bruxelas, em 18 de Fevereiro de 2003.\n\nPelo Conselho\n\nO Presidente\n\nN. Christodoulakis\n\n(1) JO C 304 E de 30.10.2001, p. 192.\n\n(2) Parecer de 9 de Abril de 2002 (ainda não publicado no Jornal Oficial).\n\n(3) JO C 125 de 27.5.2002, p. 28.\n\n(4) JO C 254 de 19.8.1997, p. 1.\n\n(5) JO L 316 de 15.12.2000, p. 1.\n\n(6) JO L 184 de 17.7.1999, p. 23.\n\n(7) JO C 364 de 18.12.2000, p. 1.\n\n(8) JO L 281 de 23.11.1995, p. 31."
+  },
+  "a1d7dc574563576d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Fevereiro de 2003\n\nque estabelece os critérios e mecanismos de determinação do Estado-Membro responsável pela análise e um pedido de asilo apresentado num dos Estados-Membros por um nacional de um país terceiro\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, a alínea a do ponto 1 do seu artigo 63.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/c03601d4-307b-4838-8242-905b0084f38a.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/c03601d4-307b-4838-8242-905b0084f38a.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^3^](http://publications.europa.eu/resource/cellar/c03601d4-307b-4838-8242-905b0084f38a.0018.03/DOC_1#E0003)),\n\n(1) Uma política comum no domínio do asilo, que inclua um sistema de asilo europeu comum, faz parte integrante do objectivo da União Europeia que consiste em estabelecer progressivamente um espaço de liberdade, de segurança e de justiça aberto às pessoas que, forçadas pelas circunstâncias, procuram legitimamente protecção na Comunidade.\n\n(2) O Conselho Europeu, na sua reunião especial de Tampere de 15 e 16 de Outubro de 1999, acordou em envidar esforços no sentido de estabelecer um sistema de asilo europeu comum, baseado na aplicação integral e global da Convenção de Genebra de 28 de Julho de 1951, completada pelo Protocolo de Nova Iorque de 31 de Janeiro de 1967, e assegurar dessa forma que ninguém será enviado para onde possa ser novamente perseguido, ou seja, em manter o princípio da não repulsão. Neste contexto, e sem afectarem os critérios de responsabilidade constantes do presente regulamento, todos os Estados-Membros que respeitarem o princípio da não repulsão são considerados países seguros para os nacionais de países terceiros.\n\n(3) As conclusões do Conselho de Tampere precisaram igualmente que um sistema de asilo europeu comum deve incluir, a curto prazo, um método claro e operacional para determinar o Estado responsável pela análise de um pedido de asilo.\n\n(4) Este método deve basear-se em critérios objectivos e equitativos, tanto para os Estados-Membros como para as pessoas em causa. Deve, nomeadamente, permitir uma determinação rápida do Estado-Membro responsável, por forma a garantir um acesso efectivo aos procedimentos de determinação do estatuto de refugiado e a não comprometer o objectivo de celeridade no tratamento dos pedidos de asilo.\n\n(5) No contexto da realização gradual de um sistema de asilo europeu comum que possa conduzir, no longo prazo, a um procedimento comum e a um estatuto uniforme, válido em toda a União, para as pessoas que beneficiam do asilo, convém, nesta fase, ao mesmo tempo que se introduzem as melhorias necessárias identificadas à luz da experiência, confirmar os princípios em que assenta a Convenção relativa à determinação do Estado responsável pela análise de um pedido de asilo apresentado num dos Estados-Membros das Comunidades Europeias, assinada em Dublim em 15 de Junho de 1990 ([^4^](http://publications.europa.eu/resource/cellar/c03601d4-307b-4838-8242-905b0084f38a.0018.03/DOC_1#E0004)) (a seguir denominada «Convenção de Dublim»), cuja aplicação estimulou o processo de harmonização das políticas de asilo.\n\n(6) A unidade das famílias deve ser preservada, desde que tal seja compatível com os outros objectivos prosseguidos, através do estabelecimento de critérios e mecanismos de determinação do Estado responsável pela análise de um pedido de asilo.\n\n(7) O tratamento conjunto dos pedidos de asilo dos membros de uma família pelo mesmo Estado-Membro constitui uma medida que permite assegurar uma análise aprofundada dos pedidos e a coerência das decisões tomadas sobre estes. Os Estados-Membros devem ter a possibilidade de aplicar derrogações aos critérios de responsabilidade, a fim de permitir a aproximação dos membros de uma família quando tal seja necessário por motivos de natureza humanitária.\n\n(8) A realização progressiva de um espaço sem fronteiras internas, no qual a livre circulação das pessoas seja garantida em conformidade com as disposições do Tratado que institui a Comunidade Europeia, e a definição de políticas comunitárias relativas às condições de entrada e estadia de nacionais de países terceiros, incluindo esforços comuns de gestão de fronteiras externas, torna necessário estabelecer um equilíbrio entre critérios de responsabilidade, num espírito de solidariedade.\n\n(9) A aplicação do presente regulamento pode ser facilitada e a sua eficácia reforçada por acordos bilaterais entre Estados-Membros destinados a melhorar as comunicações entre os serviços competentes, reduzir os prazos processuais ou simplificar o tratamento dos pedidos para efeitos de tomada ou de retomada a cargo ou a estabelecer regras relativas à execução das transferências.\n\n(10) Deve ser assegurada a continuidade entre o dispositivo de determinação do Estado responsável estabelecido pela Convenção de Dublim e o dispositivo estabelecido pelo presente regulamento. De igual modo, convém garantir a coerência entre o presente regulamento e o Regulamento (CE) n.º 2725/2000 do Conselho, de 11 de Dezembro de 2000, relativo à criação do sistema «Eurodac» de comparação de impressões digitais para efeitos da aplicação efectiva da Convenção de Dublim ([^5^](http://publications.europa.eu/resource/cellar/c03601d4-307b-4838-8242-905b0084f38a.0018.03/DOC_1#E0005)).\n\n(11) O funcionamento do Eurodac, tal como estabelecido pelo Regulamento (CE) n.º 2725/2000, e mais especificamente a aplicação dos seus artigos 4.º e 8.º, deverá contribuir para facilitar a execução do presente regulamento.\n\n(12) No que se refere ao tratamento das pessoas abrangidas pelo âmbito de aplicação da presente directiva, os Estados-Membros encontram-se vinculados por obrigações ao abrigo de instrumentos de direito internacional de que são partes.\n\n(13) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/c03601d4-307b-4838-8242-905b0084f38a.0018.03/DOC_1#E0006)).\n\n(14) A aplicação do presente regulamento deve ser avaliada periodicamente.\n\n(15) O presente regulamento respeita os direitos fundamentais e observa os princípios reconhecidos, nomeadamente, pela Carta dos Direitos Fundamentais da União Europeia ([^7^](http://publications.europa.eu/resource/cellar/c03601d4-307b-4838-8242-905b0084f38a.0018.03/DOC_1#E0007)). Em particular, visa assegurar o pleno respeito do direito de asilo garantido pelo seu artigo 18.º\n\n(16) Em conformidade com os princípios da proporcionalidade e da subsidiariedade, tal como enunciados no artigo 5.º do Tratado, o objectivo da acção prevista, ou seja, o estabelecimento de critérios e mecanismos de determinação do Estado-Membro responsável pela análise de um pedido de asilo apresentado num dos Estados-Membros por um nacional de um país terceiro, não pode ser realizado pelos Estados-Membros, podendo apenas, devido às dimensões e efeitos da acção prevista, ser realizado a nível comunitário. O presente regulamento limita-se ao mínimo indispensável para alcançar o referido objectivo, não excedendo o necessário para o efeito.\n\n(17) Em conformidade com o artigo 3.º do protocolo relativo à posição do Reino Unido e da Irlanda, anexo ao Tratado da União Europeia e ao Tratado que institui a Comunidade Europeia, o Reino Unido e a Irlanda notificaram, por cartas de 30 de Outubro de 2001, o seu desejo de participar na aprovação e na aplicação do presente regulamento.\n\n(18) Em conformidade com os artigos 1.º e 2.º do protocolo relativo à posição da Dinamarca, anexo ao Tratado da União Europeia e ao Tratado que institui a Comunidade Europeia, a Dinamarca não participa na aprovação do presente regulamento, pelo que este a não vincula nem lhe é aplicável.\n\n(19) A Convenção de Dublim permanece em vigor e continua a ser aplicável entre a Dinamarca e os Estados-Membros que estão vinculados pelo presente regulamento, até que um acordo que permita a participação da Dinamarca no presente regulamento tendo sido celebrado,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "65bfbfa6e1731d88": {
+   "fragment_id": "OBJECTO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "OBJECTO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTO E DEFINIÇÕES"
+  },
+  "59307ae55a16fc52": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Nacional de um país terceiro»: qualquer pessoa que não seja um cidadão da União, na acepção do n.º 1 do artigo 17.º do Tratado que institui a Comunidade Europeia;\n\nb) «Convenção de Genebra»: a Convenção relativa ao estatuto dos refugiados, assinada em 28 de Julho de 1951, completada pelo Protocolo de Nova Iorque de 31 de Janeiro de 1967;\n\nc) «Pedido de asilo»: o pedido apresentado por um nacional de um país terceiro que possa ser entendido como um pedido de protecção internacional a um Estado-Membro, ao abrigo da Convenção de Genebra. Presume-se que todos os pedidos de protecção internacional são pedidos de asilo, salvo se o nacional de um país terceiro solicitar expressamente outra forma de protecção para a qual possa apresentar pedido separadamente;\n\nd) «Requerente» ou «candidato a asilo»: o nacional de um país terceiro que apresentou um pedido de asilo que ainda não foi objecto de decisão definitiva;\n\ne) «Análise de um pedido de asilo»: o conjunto das medidas de análise, decisões ou sentenças relativas a um pedido de asilo determinadas pelas autoridades competentes em conformidade com a legislação nacional, com excepção dos procedimentos de determinação do Estado responsável pela análise do pedido de asilo, nos termos do presente regulamento;\n\nf) «Retirada do pedido de asilo»: as acções através das quais, explícita ou tacitamente, o requerente de asilo põe termo ao procedimento desencadeado pela introdução do seu pedido de asilo, em conformidade com a legislação nacional;\n\ng) «Refugiado»: qualquer nacional de um país terceiro que, beneficiando do estatuto definido na Convenção de Genebra, seja autorizado a residir nessa qualidade no território de um Estado-Membro;\n\nh) «Menor não acompanhado»: pessoa solteira, menor de dezoito anos, que entre no território de um Estado-Membro sem ser acompanhado por um adulto que por ele seja responsável, por força da lei ou do costume, e enquanto não for efectivamente tomado a cargo por esse adulto; estão incluídos os menores que ficam desacompanhados após a sua entrada no território do Estado-Membro;\n\ni) «Membros da família»: inclui, desde que a família tenha sido constituída previamente no país de origem, os seguintes membros do grupo familiar do requerente, presentes no território do Estado-Membro:\n\ni) o cônjuge do candidato a asilo ou o seu/sua companheiro(a) numa relação duradoura, se a legislação ou prática do Estado-Membro em questão tratar de forma comparável os casais que contraíram e os casais que não contraíram matrimónio, ao abrigo da respectiva legislação sobre estrangeiros;\n\nii) os filhos menores dos casais mencionados no ponto i) ou do requerente, desde que sejam solteiros e estejam a seu cargo, independentemente de terem nascido do casamento ou fora dele, ou os adoptados, nos termos do direito nacional;\n\niii) o pai, a mãe ou o tutor, se o requerente ou refugiado for menor e solteiro;\n\nj) «Título de residência»: toda a autorização emitida pelas autoridades de um Estado-Membro que permita a estadia de um nacional de um país terceiro no seu território, incluindo os documentos que comprovam a autorização de se manter no território, no âmbito de um regime de protecção temporária ou até que deixem de se verificar as circunstâncias que obstavam à execução de uma medida de afastamento, com excepção dos vistos e das autorizações de residência emitidos durante o período necessário para determinar o Estado-Membro responsável, em conformidade com o presente regulamento, ou durante a análise de um pedido de asilo ou título de residência;\n\nk) «Visto»: a autorização ou decisão de um Estado-Membro exigida para o trânsito ou a entrada para uma estadia prevista nesse Estado-Membro ou em vários Estados-Membros. A natureza do visto é apreciada em função das seguintes definições:\n\ni) «visto de longa duração»: a autorização ou a decisão de um Estado-Membro, exigida à entrada para uma estadia prevista nesse Estado-Membro, por um período superior a três meses;\n\nii) «visto de curta duração»: a autorização ou a decisão de um Estado-Membro, exigida à entrada para uma estadia prevista nesse Estado-Membro ou em vários Estados-Membros, por um período cuja duração total não exceda três meses;\n\niii) «visto de trânsito»: a autorização ou a decisão de um Estado-Membro, exigida à entrada para trânsito através do território desse Estado-Membro ou de vários Estados-Membros, com excepção do trânsito aeroportuário;\n\niv) «visto de trânsito aeroportuário»: a autorização ou a decisão que permite ao nacional de um país terceiro, especificamente sujeito a esta exigência, passar pela zona de trânsito de um aeroporto sem aceder ao território nacional do Estado-Membro em causa, aquando de uma escala ou correspondência entre duas etapas de um voo internacional."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "60e92fc45dfbe5e9": {
+   "fragment_id": "PRINCÍPIOS GERAIS",
+   "type": "divisao",
+   "heading": "PRINCÍPIOS GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRINCÍPIOS GERAIS"
+  },
+  "b5d98f64f1f0e85c": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros analisarão todo o pedido de asilo apresentado por um nacional de um país terceiro a qualquer dos Estados-Membros, quer na fronteira, quer no território do Estado-Membro em causa. O pedido de asilo é analisado por um único Estado, que será aquele que os critérios enunciados no capítulo III designarem como responsável.\n\n2. Em derrogação do n.º 1, cada Estado-Membro tem o direito de analisar um pedido de asilo que lhe seja apresentado por um nacional de um país terceiro, mesmo que essa análise não seja da sua competência por força dos critérios definidos no presente regulamento. Nesse caso, este Estado torna-se o Estado responsável, na acepção do presente regulamento, e assume as obrigações inerentes a essa responsabilidade. Se for caso disso, informará o Estado-Membro anteriormente responsável, aquele que conduz o processo de determinação do Estado responsável ou aquele que foi requerido para efeitos de tomada ou retomada a cargo.\n\n3. Os Estados-Membros mantêm a faculdade de, em aplicação dos respectivos direitos nacionais, enviar um candidato a asilo para um país terceiro, com observância das disposições da Convenção de Genebra.\n\n4. O candidato a asilo será informado, por escrito e numa língua que, em princípio, possa compreender, sobre a aplicação do presente regulamento, respectivos prazos e efeitos."
+  },
+  "e42c1edc0907e768": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O processo de determinação do Estado-Membro responsável nos termos do presente regulamento tem início a partir do momento em que um pedido de asilo é apresentado pela primeira vez a um Estado-Membro.\n\n2. Considera-se que um pedido de asilo foi apresentado a partir do momento em que as autoridades competentes do Estado-Membro em causa recebam um formulário apresentado pelo requerente de asilo ou um auto lavrado pela autoridade. No caso de um pedido não escrito, o período que medeia entre a declaração de intenção e a elaboração de um auto deve ser tão breve quanto possível.\n\n3. Para efeitos da aplicação do presente regulamento, a situação do filho menor que acompanhe o candidato a asilo e corresponda à definição de membro da família constante da alínea i) do artigo 2.º é indissociável da do pai, mãe ou tutor e é da competência do Estado-Membro responsável pela análise do pedido de asilo desse pai, mãe ou tutor, mesmo que o menor não seja candidato a asilo a título individual. O mesmo se aplica aos filhos nascidos após a chegada dos candidatos ao território dos Estados-Membros, não havendo necessidade de iniciar para estes um novo procedimento de tomada a cargo.\n\n4. Sempre que um pedido de asilo for apresentado às autoridades competentes de um Estado-Membro por um requerente que se encontre no território de outro Estado-Membro, a determinação do Estado-Membro responsável incumbe ao Estado-Membro em cujo território se encontrar o requerente de asilo. Esse Estado-Membro é informado sem demora pelo Estado-Membro a quem tiver sido apresentado o pedido de asilo e, para efeitos do presente regulamento, é considerado como o Estado junto do qual foi introduzido o pedido.\n\nO requerente será informado por escrito dessa transmissão e da data em que esta teve lugar.\n\n5. O Estado-Membro a que tiver sido apresentado o pedido de asilo é obrigado, nas condições previstas no artigo 20.º e a fim de concluir o processo de determinação do Estado responsável pela análise do pedido, a retomar a cargo o candidato que se encontre presente noutro Estado-Membro e aí tenha formulado um novo pedido de asilo, após ter retirado o seu pedido durante o processo de determinação do Estado responsável.\n\nEsta obrigação cessa se o candidato a asilo tiver entretanto abandonado o território dos Estados-Membros durante um período de, pelo menos, três meses, ou for detentor de um título de residência emitido por um Estado-Membro."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "c8c9c49230d9da4e": {
+   "fragment_id": "HIERARQUIA DOS CRITÉRIOS",
+   "type": "divisao",
+   "heading": "HIERARQUIA DOS CRITÉRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### HIERARQUIA DOS CRITÉRIOS"
+  },
+  "ff6c6e5d1f288e4f": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Se o candidato a asilo for titular de um título de residência válido, o Estado-Membro que o tiver emitido é responsável pela análise do pedido de asilo.\n\n2. Se o candidato a asilo for titular de um visto válido, o Estado-Membro que o tiver emitido é responsável pela análise do pedido de asilo, salvo se o visto tiver sido emitido em representação ou mediante autorização escrita de outro Estado-Membro. Nesse caso, é este o Estado-Membro responsável pela análise do pedido de asilo. Sempre que um Estado-Membro consulte previamente a autoridade central de outro Estado-Membro, nomeadamente por razões de segurança, a resposta deste último à consulta não constitui uma autorização escrita, na acepção do presente número.\n\n3. Se o candidato a asilo for titular de vários títulos de residência ou de vários vistos válidos, emitidos por diferentes Estados-Membros, o Estado-Membro responsável pela análise do pedido de asilo é, pela seguinte ordem:\n\na) O Estado-Membro que tiver emitido o título de residência que confira o direito de residência mais longo ou, caso os títulos tenham prazos de validade idênticos, o Estado que tiver emitido o título de residência cuja validade cesse mais tarde;\n\nb) O Estado-Membro que tiver emitido o visto cuja validade cesse mais tarde, quando os vistos forem da mesma natureza;\n\nc) Em caso de vistos de natureza diferente, o Estado-Membro que tiver emitido o visto com um prazo de validade mais longo ou, caso os prazos de validade sejam idênticos, o Estado que tiver emitido o visto cuja validade cesse mais tarde.\n\n4. Se o candidato a asilo apenas for titular de um ou mais títulos de residência caducados há menos de dois anos, ou de um ou mais vistos caducados há menos de seis meses, que lhe tenham efectivamente permitido a entrada no território de um Estado-Membro, são aplicáveis os n.^os^ 1, 2 e 3, enquanto o requerente não abandonar o território dos Estados-Membros.\n\nSe o candidato a asilo for titular de um ou mais títulos de residência caducados há mais de dois anos, ou de um ou mais vistos caducados há mais de seis meses, que lhe tenham efectivamente permitido a entrada no território de um Estado-Membro, e se não tiver abandonado o território dos Estados-Membros, é responsável o Estado-Membro em que o pedido for apresentado.\n\n5. A circunstância de o título de residência ou o visto ter sido emitido com base numa identidade fictícia ou usurpada ou mediante a apresentação de documentos falsos, falsificados ou não válidos, não obsta à atribuição da responsabilidade ao Estado-Membro que o tiver emitido. Todavia, o Estado que tiver emitido o título de residência ou o visto não é responsável, se puder provar que a fraude ocorreu posteriormente a essa emissão."
+  },
+  "82444d2963983238": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Caso se comprove, com base nos elementos de prova ou nos indícios descritos nas duas listas referidas no n.º 3 do artigo 19.º, incluindo os dados referidos no capítulo III do Regulamento (CE) n.º 2725/2000, que o requerente de asilo atravessou irregularmente a fronteira de um Estado-Membro, por via terrestre, marítima ou aérea, e que entrou nesse Estado-Membro a partir de um país terceiro, esse Estado-Membro é responsável pela análise do pedido de asilo. Esta responsabilidade cessa 12 meses após a data em que teve lugar a passagem irregular da fronteira.\n\n2. Quando um Estado-Membro não possa ser ou já não possa ser tido como responsável nos termos do n.º 1 do presente artigo, e caso se comprove, com base nos elementos de prova ou indícios descritos nas duas listas referidas no n.º 3 do artigo 18.º, que o requerente de asilo — que entrou nos territórios dos Estados-Membros irregularmente, ou em circunstâncias que não é possível comprovar — permaneceu num Estado-Membro durante um período ininterrupto de pelo menos cinco meses antes de apresentar o seu pedido, esse Estado-Membro é responsável pela análise do pedido de asilo.\n\nSe o requerente de asilo tiver permanecido durante períodos de pelo menos cinco meses em vários Estados-Membros, o Estado-Membro em que tal ocorreu mais recentemente é responsável pela análise do pedido de asilo."
+  },
+  "8cf07ce356ab932d": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Se um nacional de um país terceiro entrar num Estado-Membro em que está dispensado de visto, esse Estado-Membro é responsável pela análise do pedido de asilo.\n\n2. O princípio estabelecido no n.º 1 não se aplica se o nacional de país terceiro apresentar o seu pedido de asilo noutro Estado-Membro em que está igualmente dispensado de visto de entrada. Nesse caso, é este último Estado-Membro o responsável pela análise do pedido de asilo."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "cab07d9abab8d0eb": {
+   "fragment_id": "CLÁUSULA HUMANITÁRIA",
+   "type": "divisao",
+   "heading": "CLÁUSULA HUMANITÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CLÁUSULA HUMANITÁRIA"
+  },
+  "5ba8ed0e05afdfab": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Mesmo que não seja responsável em aplicação dos critérios definidos no presente regulamento, qualquer Estado-Membro pode reunir membros de uma família, bem como outros familiares dela dependentes, por razões humanitárias, baseadas nomeadamente em motivos familiares ou culturais. Nesse caso, esse Estado-Membro analisará o pedido de asilo da pessoa em questão, a pedido de outro Estado-Membro. As pessoas interessadas terão de dar o seu consentimento.\n\n2. Nos casos em que a pessoa em causa seja dependente da assistência da outra, devido a encontrar-se grávida ou ter dado à luz recentemente, ou ser portadora de doença ou deficiência grave ou ser de idade avançada, os Estados-Membros manterão, por norma, juntos ou reunirão o candidato a asilo e um membro da sua família que se encontre no território de um dos Estados-Membros, desde que os laços familiares existissem já no país de origem.\n\n3. Se o candidato a asilo for um menor não acompanhado que tenha um ou mais familiares noutro Estado-Membro que o possam tomar a cargo, os Estados-Membros reuni-los-ão, se possível, desde que tal não contrarie o interesse superior do menor.\n\n4. Se o Estado-Membro requerido aceder a este pedido, será transferida para este a responsabilidade pela análise do pedido.\n\n5. As condições e procedimentos de aplicação do presente artigo, incluindo, se necessário, mecanismos de conciliação destinados a regular divergências entre Estados-Membros sobre a necessidade ou o local em que convém proceder à aproximação das pessoas em causa, são aprovadas pela Comissão. Essas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 27.º."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "b9d4f946baeff0e3": {
+   "fragment_id": "TOMADA E RETOMADA A CARGO",
+   "type": "divisao",
+   "heading": "TOMADA E RETOMADA A CARGO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TOMADA E RETOMADA A CARGO"
+  },
+  "95c1b3a89743c247": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. O Estado-Membro responsável pela análise de um pedido de asilo por força do presente regulamento é obrigado a:\n\na) Tomar a cargo, nas condições previstas nos artigos 17.º a 19.º, o requerente de asilo que tenha apresentado um pedido noutro Estado-Membro;\n\nb) Finalizar a análise do pedido de asilo;\n\nc) Retomar a cargo, nas condições previstas no artigo 20.º, o requerente de asilo cujo pedido esteja a ser analisado e que se encontre, sem para tal ter recebido autorização, no território de outro Estado-Membro;\n\nd) Retomar a cargo, nas condições previstas no artigo 20.º, o requerente de asilo que tenha retirado o seu pedido durante o processo de análise e tenha formulado um pedido de asilo noutro Estado-Membro;\n\ne) Retomar a cargo, nas condições previstas no artigo 20.º, o nacional de um país terceiro cujo pedido tenha rejeitado e que se encontre, sem para tal ter recebido autorização, no território de outro Estado-Membro.\n\n2. Se um Estado conceder um título de residência ao requerente de asilo, serão para ele transferidas as obrigações previstas no n.º 1.\n\n3. Cessam as obrigações previstas no n.º 1 se o nacional de um país terceiro tiver abandonado o território dos Estados-Membros durante um período mínimo de três meses, a menos que seja titular de um título de residência válido emitido pelo Estado-Membro responsável.\n\n4. Cessam igualmente as obrigações previstas nas alíneas d) e e) do n.º 1 se o Estado-Membro responsável pela análise do pedido de asilo tiver tomado e efectivamente aplicado, na sequência da retirada ou da rejeição do pedido de asilo, as disposições necessárias para que o nacional de um país terceiro regresse ao seu país de origem, ou se dirija para outro país em que possa entrar legalmente."
+  },
+  "4291d6777df4dbe7": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. O Estado-Membro ao qual tenha sido apresentado um pedido de asilo e que considere que a responsabilidade pela análise desse pedido cabe a outro Estado-Membro pode requerer a este último que proceda à tomada a cargo o mais rapidamente possível e, em qualquer caso, no prazo de três meses a contar da apresentação do pedido de asilo, na acepção do n.º 2 do artigo 4.º\n\nSe o pedido de tomada a cargo de um requerente não for formulado no prazo de três meses, a responsabilidade pela análise do pedido de asilo cabe ao Estado-Membro ao qual o pedido tiver sido apresentado.\n\n2. O Estado-Membro requerente pode solicitar uma resposta com urgência nos casos em que o pedido de asilo tenha sido introduzido na sequência de uma recusa de entrada ou de estadia, de uma detenção por estadia irregular, de notificação ou execução, de uma medida de afastamento e/ou quando o candidato a asilo estiver detido.\n\nO pedido indicará as razões que justificam uma resposta urgente e o prazo em que a resposta é aguardada. Este prazo não poderá ser inferior a uma semana.\n\n3. Nos dois casos, o pedido de tomada a cargo por outro Estado-Membro deve fazer-se num formulário-tipo e conter os elementos de prova ou indícios descritos nas duas listas mencionadas no n.º 3 do artigo 18.º e/ou elementos relevantes constantes da declaração do candidato que permitam às autoridades do Estado-Membro requerido verificar a responsabilidade desse Estado com base nos critérios definidos no presente regulamento.\n\nAs regras relativas à elaboração e ao procedimento de transmissão dos pedidos serão adoptadas de acordo com o procedimento previsto no n.º 2 do artigo 27.º"
+  },
+  "b64b08b36a2ad1c8": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. O Estado-Membro requerido procederá às verificações necessárias e deliberará sobre o pedido, para efeitos de tomada a cargo dum requerente, no prazo de dois meses a contar da data de apresentação desse pedido.\n\n2. Na condução do processo de determinação do Estado-Membro responsável pela análise do pedido de asilo estabelecido pelo presente regulamento, serão utilizados elementos de prova e indícios.\n\n3. Serão elaboradas, nos termos do n.º 2 do artigo 27.º, duas listas, a actualizar periodicamente com os elementos de prova e os indícios, de acordo com os seguintes critérios:\n\na) Provas:\n\ni) Trata-se das provas formais que estabelecem a responsabilidade de acordo com o presente regulamento, desde que não sejam refutadas por provas em contrário;\n\nii) Os Estados-Membros apresentarão ao Comité referido no artigo 27.º modelos dos diferentes tipos de documentos administrativos, de acordo com a tipologia estabelecida na lista de provas formais.\n\nb) Indícios:\n\ni) Trata-se dos elementos indicativos que, embora refutáveis, poderão, consoante o valor probatório que lhes for atribuído, ser suficientes em certos casos;\n\nii) Relativamente à responsabilidade pela análise do pedido de asilo, o seu valor probatório será apreciado caso a caso.\n\n4. A exigência de prova não deverá exceder o necessário à correcta aplicação do presente regulamento.\n\n5. Na falta de uma prova formal, o Estado-Membro requerido admitirá a sua responsabilidade se existirem indícios coerentes, verificáveis e suficientemente pormenorizados para estabelecer a responsabilidade.\n\n6. Se o Estado-Membro requerente tiver invocado urgência, em conformidade com o n.º 2 do artigo 17.º, o Estado requerido fará todos os esforços necessários para cumprir o prazo solicitado. Em casos excepcionais, sendo comprovável a especial complexidade da análise do pedido de tomada a cargo do requerente, o Estado-Membro requerido pode responder depois do prazo solicitado, mas sempre no prazo de um mês. Nestes casos, o Estado-Membro requerido deve, dentro do prazo solicitado inicialmente, comunicar ao Estado-Membro requerente a sua decisão de protelar a resposta.\n\n7. A ausência de resposta no termo do prazo de dois meses mencionado no n.º 1 e de um mês, previsto no n.º 6, equivale à aceitação do pedido e tem como consequência a obrigação de tomada a carga da pessoa, incluindo as providências adequadas para a sua chegada."
+  },
+  "db7a491bdee0d227": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. Caso o Estado requerido aceite a tomada a cargo dum requerente, o Estado-Membro em que o pedido de asilo foi apresentado notificará o requerente da sua decisão de não analisar o pedido e da obrigação de transferência do requerente para o Estado-Membro responsável.\n\n2. A decisão a que se refere o n.º 1 deverá ser fundamentada e acompanhada das indicações de prazo relativas à execução da transferência, incluindo se necessário informações relativas ao local e à data em que o requerente deve apresentar-se no caso de se dirigir para o Estado-Membro responsável pelos seus próprios meios. A decisão é susceptível de recurso ou revisão. O recurso ou a revisão da decisão não têm efeito suspensivo sobre a execução da transferência, a não ser que os tribunais ou as autoridades competentes assim o decidam, especificamente, e a legislação nacional o permita.\n\n3. A transferência do requerente do Estado-Membro em que o pedido de asilo foi apresentado para o Estado-Membro responsável efectuar-se-á em conformidade com o direito nacional do Estado-Membro, após concertação entre os Estados-Membros envolvidos, logo que seja materialmente possível e, o mais tardar, no prazo de seis meses a contar da aceitação do pedido de tomada a cargo ou da decisão sobre o recurso ou revisão, nos casos em que exista efeito suspensivo.\n\nSe necessário, o Estado-Membro requerente fornecerá ao candidato a asilo um salvo-conduto, em conformidade com o modelo adoptado segundo o procedimento previsto no n.º 2 do artigo 27.º\n\nO Estado-Membro responsável informará o Estado-Membro requerente, consoante o caso, da chegada do candidato a asilo ao destino, ou de que este não se apresentou no prazo prescrito.\n\n4. Se a transferência não for efectuada no prazo de seis meses, a responsabilidade incumbirá ao Estado-Membro em que o pedido de asilo tiver sido apresentado. Este prazo poderá ser alargado até, no máximo, um ano se a transferência não tiver sido efectuada devido a detenção do candidato a asilo, ou 18 meses, em caso de ausência deste.\n\n5. A Comissão pode aprovar regras complementares relativas à realização das transferências. Essas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 27.º."
+  },
+  "1e7cc5e7c871f9b1": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. A retomada a cargo de um requerente de asilo em conformidade com o disposto no n.º 5 do artigo 4.º e nas alíneas c), d) e e) do artigo 16.º obedece às seguintes regras:\n\na) O pedido de retomada a cargo deve conter indicações que permitam ao Estado-Membro requerido certificar-se de que é responsável;\n\nb) O Estado-Membro ao qual é requerida a retomada a cargo é obrigado a proceder às verificações necessárias e a responder ao pedido que lhe é dirigido o mais rapidamente possível e sempre dentro do prazo de um mês a contar do momento em que a matéria lhe for apresentada. Quando o pedido se baseie em dados obtidos através do sistema Eurodac, o prazo será reduzido a duas semanas;\n\nc) Se o Estado-Membro requerido não der a conhecer a sua decisão no prazo de um mês ou de duas semanas referido na alínea b), considera-se que aceita a retomada a cargo do candidato a asilo;\n\nd) O Estado-Membro que aceita retomar um candidato a asilo é obrigado a readmitir essa pessoa no seu território. A transferência efectua-se em conformidade com o direito nacional do Estado-Membro requerente, após concertação entre os Estados-Membros envolvidos, logo que seja materialmente possível e, o mais tardar, no prazo de seis meses após a aceitação do pedido de retomada a cargo por outro Estado-Membro ou após a decisão tomada em recurso ou revisão com efeitos suspensivos;\n\ne) O Estado-Membro requerente notificará o candidato a asilo da decisão relativa à sua retomada a cargo pelo Estado-Membro responsável. Esta decisão deverá ser fundamentada e acompanhada das indicações de prazo relativas à execução da transferência, incluindo, se necessário, informações relativas ao local e à data em que o requerente deve apresentar-se, no caso de se dirigir para o Estado-Membro responsável pelos seus próprios meios. A decisão é susceptível de recurso ou de revisão. Este recurso ou revisão da decisão não tem efeito suspensivo sobre a execução da transferência, a não ser que os tribunais ou as autoridades competentes assim o decidam, especificamente, e a legislação nacional o permita.\n\n2. Se a transferência não for executada no prazo de seis meses, a responsabilidade caberá ao Estado-Membro da apresentação do pedido. Este prazo poderá ser alargado até, no máximo, um ano se a transferência ou a análise do pedido se não tiver efectuado devido a detenção do candidato a asilo, ou 18 meses, em caso de ausência deste.\n\n3. As regras relativas às provas e indícios e à sua interpretação, bem como à elaboração e às modalidades de transmissão dos pedidos, serão adoptadas em conformidade com o procedimento previsto no n.º 2 do artigo 27.º\n\n4. A Comissão pode aprovar regras complementares relativas à realização das transferências. Essas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 27.º."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "5d8c13bb1c61251d": {
+   "fragment_id": "COOPERAÇÃO ADMINISTRATIVA",
+   "type": "divisao",
+   "heading": "COOPERAÇÃO ADMINISTRATIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COOPERAÇÃO ADMINISTRATIVA"
+  },
+  "771d6429a0ad8a58": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Os Estados-Membros comunicarão aos Estados-Membros que o solicitem todas as informações de carácter pessoal relativas ao candidato a asilo que sejam adequadas, pertinentes e não excessivas, a fim de:\n\na) Determinar o Estado-Membro responsável pela análise do pedido de asilo;\n\nb) Analisar o pedido de asilo;\n\nc) Executar todas as obrigações decorrentes do presente regulamento.\n\n2. As informações referidas no n.º 1 só podem incidir sobre:\n\na) Os dados de identificação relativos ao requerente e, se necessário, aos membros da sua família (nome e apelido — se aplicável, apelido anterior —, alcunhas ou pseudónimos, nacionalidade — actual e anterior —, data e local de nascimento);\n\nb) Os documentos de identidade e de viagem (referências, prazo de validade, data de emissão, autoridade emitente, local de emissão, etc.);\n\nc) Os outros elementos necessários para determinar a identidade do requerente, incluindo as suas impressões digitais, tratadas em conformidade com o disposto no Regulamento (CE) n.º 2725/2000;\n\nd) Os locais de estadia e os itinerários de viagem;\n\ne) Os títulos de residência ou os vistos emitidos por um Estado-Membro;\n\nf) O local em que o pedido foi apresentado;\n\ng) A data de apresentação de um eventual pedido de asilo anterior, a data de apresentação do pedido actual, a situação do processo e, eventualmente, o teor da decisão tomada.\n\n3. Além disso, e desde que tal seja necessário para a análise do pedido de asilo, o Estado-Membro responsável pode pedir a outro Estado-Membro que lhe comunique os motivos invocados pelo candidato a asilo para justificar o seu pedido e, eventualmente, os motivos da decisão tomada a seu respeito. O Estado-Membro solicitado pode recusar dar seguimento ao pedido que lhe é apresentado, se a comunicação destas informações for susceptível de lesar os interesses essenciais do Estado-Membro, ou a protecção das liberdades e dos direitos fundamentais da pessoa em causa ou de qualquer outra pessoa. A comunicação dessas informações subordina-se sempre ao consentimento escrito do requerente de asilo.\n\n4. Os pedidos de informação serão fundamentados e, quando tiverem por objectivo verificar a existência de um critério susceptível de implicar a responsabilidade do Estado-Membro requerido, indicarão o indício — incluindo informações relevantes de fontes fidedignas sobre as formas e meios utilizados pelos requerentes de asilo para entrar nos territórios dos Estados-Membros — ou o elemento concreto e verificável das declarações do requerente em que se baseiam. Entende-se que essas informações relevantes de fontes fidedignas não podem, por si só, ser suficientes para determinar a responsabilidade e a competência de um Estado-Membro nos termos do presente regulamento, mas podem contribuir para a avaliação de outras indicações relativas a um determinado requerente de asilo.\n\n5. O Estado-Membro requerido deve responder no prazo de seis semanas.\n\n6. A troca de informações, que só pode ter lugar entre autoridades cuja designação por cada Estado-Membro seja comunicada à Comissão, efectua-se a pedido de um Estado-Membro, que transmite essa informação aos outros Estados-Membros.\n\n7. As informações trocadas só podem ser utilizadas para os fins previstos no n.º 1. Em cada Estado-Membro, estas informações, considerando a sua natureza e a competência da autoridade destinatária, só podem ser comunicadas às autoridades e jurisdições encarregadas de:\n\na) Determinar o Estado-Membro responsável pela análise do pedido de asilo;\n\nb) Analisar o pedido de asilo;\n\nc) Executar todas as obrigações decorrentes do presente regulamento.\n\n8. O Estado-Membro que comunica os dados velará pela sua exactidão e actualidade. Se se verificar que esse Estado-Membro forneceu dados inexactos ou que não deveriam ter sido comunicados, os Estados-Membros destinatários serão imediatamente informados do facto. Esses Estados-Membros ficarão obrigados a rectificar esses dados ou a apagá-los.\n\n9. O candidato a asilo tem direito a que lhe sejam comunicadas, a seu pedido, as informações tratadas que lhe digam respeito.\n\nSe verificar que essas informações foram tratadas em violação do disposto no presente regulamento ou na Directiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados ([^8^](http://publications.europa.eu/resource/cellar/c03601d4-307b-4838-8242-905b0084f38a.0018.03/DOC_1#E0008)), nomeadamente por serem incompletas ou inexactas, tem o direito de obter a sua rectificação, apagamento ou bloqueio.\n\nA autoridade que procede à rectificação, apagamento ou bloqueio dos dados informará, consoante o caso, o Estado-Membro emissor ou o destinatário das informações.\n\n10. Em cada Estado-Membro interessado, far-se-á menção da comunicação e da recepção das informações trocadas no processo individual da pessoa em causa e/ou em registo próprio.\n\n11. Os dados permutados serão conservados por um período que não exceda o tempo necessário aos fins para os quais foram comunicados.\n\n12. Se os dados não forem tratados automaticamente ou não estiverem contidos num ficheiro, nem se destinarem a ser nele introduzidos, os Estados-Membros deverão tomar as medidas adequadas para assegurar o cumprimento do disposto no presente artigo através de meios de controlo eficazes."
+  },
+  "5aa1a770847c225f": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. Os Estados-Membros notificarão à Comissão as autoridades responsáveis pelo cumprimento das obrigações decorrentes do presente regulamento e assegurarão que essas autoridades disponham dos recursos necessários para cumprirem a sua missão e, nomeadamente, para responderem, nos prazos previstos, aos pedidos de informações, de tomada a cargo e de retomada a cargo de candidatos a asilo.\n\n2. A regras relativas ao estabelecimento de canais seguros de transmissão electrónica entre as autoridades referidas no n.º 1, por forma a assegurar a transmissão dos pedidos e a recepção automática pelos remetentes de uma prova electrónica da respectiva entrega, serão estabelecidas de acordo com o procedimento referido no n.º 2 do artigo 27.º"
+  },
+  "bd8d066dd778ccfb": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. Os Estados-Membros poderão estabelecer, bilateralmente, acordos administrativos relativos às regras práticas de aplicação do presente regulamento, a fim de facilitar a sua implementação e aumentar a respectiva eficácia. Esses acordos poderão incidir sobre:\n\na) Intercâmbios de agentes de ligação;\n\nb) Simplificação dos procedimentos e redução dos prazos aplicáveis à transmissão e à análise dos pedidos para efeitos de tomada a cargo ou de retomada a cargo de requerentes de asilo\n\n2. Os acordos referidos no n.º 1 serão comunicados à Comissão. A Comissão verificará se os acordos referidos na alínea b) do n.º 1 não contrariam as disposições do presente regulamento."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "fee7c0f6661bbf52": {
+   "fragment_id": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+  },
+  "dc4fee85d8f77cc1": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1. O presente regulamento substitui a Convenção sobre a determinação do Estado responsável pela análise de um pedido de asilo apresentado num Estado-Membro das Comunidades Europeias, assinada em Dublim em 15 de Junho de 1990.\n\n2. Todavia, a fim de assegurar a continuidade do processo de determinação do Estado-Membro responsável pelo pedido de asilo, sempre que este tenha sido apresentado após a data referida no segundo parágrafo do artigo 29.º, os factos susceptíveis de implicar a responsabilidade de um Estado-Membro, por força do disposto no presente regulamento, serão tomados em consideração, mesmo que sejam anteriores a essa data, com excepção dos factos a que se refere o n.º 2 do artigo 10.º\n\n3. Sempre que, no Regulamento (CE) n.º 2725/2000, seja feita referência à Convenção de Dublim, essa referência será entendida como uma referência ao presente regulamento."
+  },
+  "78a524f5d84c9c66": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. A Comissão será assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "071fb4cb2a92155f": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nO mais tardar três anos após a data referida no primeiro parágrafo do artigo 29.º, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do presente regulamento, propondo eventualmente as alterações necessárias. Os Estados-Membros transmitirão à Comissão qualquer informação útil à preparação desse relatório, o mais tardar seis meses antes daquela data.\n\nApós ter apresentado o referido relatório, a Comissão informará o Parlamento Europeu e o Conselho sobre a aplicação do presente regulamento, ao mesmo tempo que submeterá os relatórios relativos à aplicação do sistema Eurodac previstos no n.º 5 do artigo 24.º do Regulamento (CE) n.º 2725/2000."
+  },
+  "c19f676a276df169": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nO presente regulamento entra em vigor vinte dias após a sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável aos pedidos de asilo apresentados a partir do primeiro dia do sexto mês seguinte à sua entrada em vigor, e, a partir dessa data, aplicar-se-á a qualquer pedido de tomada a cargo ou de retomada a cargo de candidatos a asilo, independentemente da data em que esses pedidos foram feitos. A determinação do Estado-Membro responsável pela análise de um pedido de asilo apresentado antes dessa data será efectuada em conformidade com os critérios enunciados na Convenção de Dublim.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros, em conformidade com o Tratado que institui a Comunidade Europeia.\n\n---"
+  },
+  "0ef587838f790f78": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c03601d4-307b-4838-8242-905b0084f38a.0018.03/DOC_1#src.E0001)) JO C 304 E de 30.10.2001, p. 192.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/c03601d4-307b-4838-8242-905b0084f38a.0018.03/DOC_1#src.E0002)) Parecer de 9 de Abril de 2002 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/c03601d4-307b-4838-8242-905b0084f38a.0018.03/DOC_1#src.E0003)) JO C 125 de 27.5.2002, p. 28.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/c03601d4-307b-4838-8242-905b0084f38a.0018.03/DOC_1#src.E0004)) JO C 254 de 19.8.1997, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/c03601d4-307b-4838-8242-905b0084f38a.0018.03/DOC_1#src.E0005)) JO L 316 de 15.12.2000, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/c03601d4-307b-4838-8242-905b0084f38a.0018.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/c03601d4-307b-4838-8242-905b0084f38a.0018.03/DOC_1#src.E0007)) JO C 364 de 18.12.2000, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/c03601d4-307b-4838-8242-905b0084f38a.0018.03/DOC_1#src.E0008)) JO L 281 de 23.11.1995, p. 31."
+  },
+  "f621d9e92baa5d27": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2003R0343 — PT — 19.07.2013 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32003R0343) [REGULAMENTO (CE) N.º 343/2003 DO CONSELHO](http://publications.europa.eu/resource/celex/32003R0343) [de 18 de Fevereiro de 2003](http://publications.europa.eu/resource/celex/32003R0343) [que estabelece os critérios e mecanismos de determinação do Estado-Membro responsável pela análise e um pedido de asilo apresentado num dos Estados-Membros por um nacional de um país terceiro](http://publications.europa.eu/resource/celex/32003R0343) (JO L 050, 25.2.2003, p.1)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 604/2013 do Parlamento Europeu e do Conselho de 26 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0604) — L 180 — 31 — 29.6.2013"
+  }
+ }
+}

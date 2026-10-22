@@ -34,6 +34,81 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-01-01'
+version_history:
+  file: regulamento-ue-2000-1543.versoes.json
+  count: 3
+  source_lastmod: '2009-01-01'
+  versions:
+  - date: '2000-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-11-24'
+    amending: eu:celex:32007R1343:por
+    amending_title: REGULAMENTO (CE) N. o 1343/2007 DO CONSELHO de 13 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 11.º
+    - Adita TÍTULO I
+    - Adita Princípios gerais de recolha e gestão dos dados
+    - Adita TÍTULO II
+    - Adita Processo de definição do conteúdo dos programas comunitários e nacionais
+    - Adita TÍTULO III
+    - Adita Disposições finais
+    - Adita ANEXO I
+    - Adita Programa mínimo e programa alargado
+    - Adita Definição do programa mínimo
+    - Adita Definição do programa alargado
+    - Adita ANEXO II
+    - Adita Espécies de referência e zonas de pesca a cobrir nos programas mínimo e alargado
+    - Adita ANEXO III
+    - Adita Áreas geográficas referidas no anexo I
+    - Adita ANEXO IV
+    - Adita Dados para o acompanhamento económico das empresas de pesca e da indústria de transformação (programa mínimo)
+    - Adita Notas
+    - Suprime TÍTULO I — Princípios gerais de recolha e gestão dos dados
+    - Suprime TÍTULO II — Processo de definição do conteúdo dos programas comunitários e nacionais
+    - Suprime TÍTULO III — Disposições finais
+    - Suprime ANEXO I — Programa mínimo e programa alargado
+    - Suprime ANEXO II — Espécies de referência e zonas de pesca a cobrir nos programas mínimo e alargado
+    - Suprime ANEXO III — Áreas geográficas referidas no anexo I
+    - Suprime ANEXO IV — Dados para o acompanhamento económico das empresas de pesca e da indústria de transformação (programa
+      mínimo)
+  - date: '2009-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime TÍTULO I
+    - Suprime Princípios gerais de recolha e gestão dos dados
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime TÍTULO II
+    - Suprime Processo de definição do conteúdo dos programas comunitários e nacionais
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime TÍTULO III
+    - Suprime Disposições finais
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime ANEXO I
+    - Suprime Programa mínimo e programa alargado
+    - Suprime Definição do programa mínimo
+    - Suprime Definição do programa alargado
+    - Suprime ANEXO II
+    - Suprime Espécies de referência e zonas de pesca a cobrir nos programas mínimo e alargado
+    - Suprime ANEXO III
+    - Suprime Áreas geográficas referidas no anexo I
+    - Suprime ANEXO IV
+    - Suprime Dados para o acompanhamento económico das empresas de pesca e da indústria de transformação (programa mínimo)
+    - Suprime Notas
 identifiers:
   celex: 32000R1543
   eli: http://data.europa.eu/eli/reg/2000/1543/oj
@@ -48,7 +123,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4c838762-b19a-4212-a732-57ba5bf60223.0009
   content_url: http://publications.europa.eu/resource/cellar/78ba79a5-84c8-4569-be49-164e028761be.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R1543-20090101
-  retrieved_at: '2026-10-22T02:56:58Z'
+  retrieved_at: '2026-10-22T14:49:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T02:04:26.641+01:00'
 integrity:
@@ -57,9 +132,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:58Z'
-  notes: Texto consolidado 02000R1543-20090101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:19Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2000-1543.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -147,16 +222,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:58Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:49:19Z'
+  warnings: []
   errors: []
 ---
 

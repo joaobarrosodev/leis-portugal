@@ -1,0 +1,349 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31971R1696:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01971R1696-20060101",
+ "dre_path": null,
+ "source_lastmod": "2006-01-01",
+ "versions": [
+  {
+   "date": "1971-08-04",
+   "future": false,
+   "celex": "31971R1696",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "27f47b06aa1fb0e9",
+    "68f327a3e6c8447e",
+    "7c54d48f5c3ff7ab",
+    "0478788c7ff01a0f",
+    "452427ad99b8792f",
+    "6f22374439918614",
+    "6799134568309608",
+    "2f6ddb5f29d12254",
+    "f973a4530d62f4e8",
+    "36b9b891241e1fce",
+    "44f7eb4336eade8f",
+    "6d3e49c6f1c2347d",
+    "476dece7b60105f8",
+    "a85061fe1c01a166",
+    "d24f64aa1a0eafd4",
+    "360bb41c992405b9",
+    "42e582bce7d26816",
+    "f88f0abac3b5a5eb",
+    "da9b860df5cf4bb2",
+    "e56e6fa9ab4420b1",
+    "9785ea7d333f850e",
+    "758795fa50ce80ca",
+    "50f290e918d01918",
+    "2d51011049637012",
+    "e0250b50bd3398a7",
+    "a486630ae8d73dd7",
+    "defc49b1582138ff",
+    "1ace2bab7003e40e",
+    "57d240c8c6cd15cb",
+    "cfe216a9bf5ef703",
+    "a80a047f638ef7e5"
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "celex": "01971R1696-20060101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime TÍTULO I — Comercialização",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime TÍTULO II — Contratos de entrega",
+    "Suprime Artigo 6o",
+    "Suprime TÍTULO III — Agrupamentos de produtores",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime TÍTULO IV — Ajudas aos produtores",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime TÍTULO V — Regime de trocas comerciais com países terceiros",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime TÍTULO VI — Disposições gerais",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o",
+    "Suprime Artigo 21o",
+    "Suprime Artigo 22o",
+    "Suprime Artigo 23o",
+    "Suprime Artigo 24o"
+   ],
+   "fragments": [
+    "0c8c54be52d1564f"
+   ]
+  }
+ ],
+ "fragments": {
+  "27f47b06aa1fb0e9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 1696/71 do Conselho, de 26 de Julho de 1971, que estabelece uma organização comum de mercado no sector do lúpulo** *Jornal Oficial nº L 175 de 04/08/1971 p. 0001 - 0007 Edição especial finlandesa: Capítulo 3 Fascículo 4 p. 0005 Edição especial dinamarquesa: Série I Capítulo 1971(II) p. 0569 Edição especial sueca: Capítulo 3 Fascículo 4 p. 0005 Edição especial inglesa: Série I Capítulo 1971(II) p. 0634 Edição especial grega: Capítulo 03 Fascículo 7 p. 0022 Edição especial espanhola: Capítulo 03 Fascículo 5 p. 0060 Edição especial portuguesa: Capítulo 03 Fascículo 5 p. 0060*\n\nREGULAMENTO (CEE) No 1696/71 DO CONSELHO de 26 de Julho de 1971 que estabelece uma organização comum de mercado no sector do lúpulo\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 42o, 43o, 113o e 235o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social,\n\nConsiderando que o funcionamento e o desenvolvimento do mercado comum devem ser acompanhados pelo estabelecimento de uma política agrícola comum e que esta deve, nomeadamente, comportar uma organização comum de mercado que pode tomar diversas formas segundo os produtos;\n\nConsiderando que a produção comunitária de lúpulo apresenta um interesse muito particular na economia de certas regiões da Comunidade; que, para certos produtores destas regiões, esta produção representa uma parte preponderante do seu rendimento;\n\nConsiderando que os sucos e extractos vegetais de lúpulo, que não figuram no Anexo II do Tratado, não são objecto da aplicação das disposições agrícolas do referido Tratado ao passo que o lúpulo esta sujeito a estas disposições; que, no entanto, sendo os produtos em causa largamente substituíveis uns pelos outros, esta situação corre o risco de comprometer os efeitos da política agrícola comum seguida no sector do lúpulo; que é por consequência necessário, por força do artigo 113o, tornar extensivas aos sucos e aos extractos vegetais de lúpulo as medidas respeitantes às trocas comerciais com países terceiros e, por força do artigo 235o, as regras de comercialização aprovadas para o lúpulo;\n\nConsiderando que as trocas comerciais internacionais apresentam tradicionalmente uma grande importância para os produtores e utilizadores de lúpulo na Comunidade; que, no essencial, a valorização da produção comunitária foi obtida até ao momento com base na sua competitividade no mercado mundial e no livre ajustamento qualitativo e quantitativo da produção aos mercados; que convém, então, que a organização comum de mercado não provoque alterações essenciais nesta situação, contribuindo simultaneamente através de medidas adequadas, para a melhoria da qualidade dos produtos e protegendo as produtores contra uma eventual deterioração do seu nível de vida actual;\n\nConsiderando que convém prosseguir no plano comunitário uma política de qualidade pela aplicação de disposições relativas à certificação da indicação de proveniência, acompanhadas por regras que em princípio interditem a comercialização dos produtos para os quais o certificado não foi emitido ou, no caso dos produtos importados, que não respondam às características qualitativas mínimas equivalentes; que é indicado, além disso, prever a definição de uma qualidade tipo que constitua uma base de referência nas transacções comerciais e assegure uma transparência satisfatória do mercado;\n\nConsiderando que é necessário dispor de informações suficientes sobre a situação e as perspectivas da evolução do mercado na Comunidade; que, a este respeito, o facto de uma parte substancial da produção ser escoada a coberto de contratos concluídos antes da colheita e mesmo por vários anos pode facilitar a análise previsional do desenvolvimento do mercado; que convém, por consequência, prever o registo do conjunto dos contratos de entrega de lúpulo produzido na Comunidade; que importa, todavia, pôr aquelas informações a coberto do segredo estatístico para assegurar aos interessados que elas não serão utilizadas com outros fins de deste modo poder obter indicações perfeitamente objectivas;\n\nConsiderando que, para assegurar um nível de vida justo à população agrícola e para estabilizar os mercados e assegurar preços razoáveis nas entregas aos consumidores, importa promover a concentração da oferta e a adaptação em comum, pelos agricultores, das suas produções à exigências do mercado;\n\nConsiderando que, para este efeito, a associação dos agricultores no seio de organizações que prevêem a obrigação de os seus aderentes se submeterem a disciplinas comuns, pode favorecer a realização dos objectivos do artigo 39o do Tratado; que estes objectivos podem nomeadamente ser prosseguidos, não só pela associação dos agricultores no seio de agrupamentos de produtores, mas também pela formação de uniões destes agrupamentos;\n\nConsiderando que, a fim de evitar qualquer discriminação entre os produtores e de assegurar a unidade e a eficácia da acção empreendida, é oportuno fixar para o conjunto da Comunidade as condições a que devem corresponder os agrupamentos de produtores e suas uniões de agrupamentos para serem reconhecidos pelos Estados-membros; que, a fim de atingir uma concentração eficaz da oferta, é nomeadamente necessário que, por um lado, os agrupamentos e uniões apresentem uma dimensão económica suficiente e que, por outro, o conjunto da produção dos produtores ou dos agrupamentos membros seja colocado no mercado pelo agrupamento ou pela união, quer directamente, quer pelos produtores segundo regras comuns;\n\nConsiderando que convém prever disposições próprias para facilitar a constituição e o funcionamento destes agrupamentos; que, para este efeito, é oportuno permitir aos Estados-membros conceder-lhes ajudas cujo financiamento será assegurado em parte pela Comunidade; que importa, todavia, limitar o montante dessas ajudas e conferir-lhes um carácter transitório e degressivo a fim de aumentar progressivamente a responsabilidade financeira dos produtores;\n\nConsiderando que as plantações de lúpulo da Comunidade necessitam em certos casos de uma adaptação tanto no que respeita às variedades produzidas como às possibilidades de racionalização das operações de cultivo e de colheita; que convém facilitar, durante um certo número de anos, a sua reconversão varietal e a sua reestruturação pela concessão de ajudas específicas aos agrupamentos de produtores que iniciem tais acções;\n\nConsiderando que, para assegurar um nível de vida justo aos produtores, é conveniente prever um regime de ajudas; que, para se poder verificar se é oportuno fixar esta ajuda, a Comissão deve apresentar anualmente um relatório ao Conselho, depois do escoamento da colheita; que a ajuda pode ser concedida se a análise deste relatório revelar que a receita média por hectare foi insuficiente tendo em conta a situação e a tendência previsível do mercado;\n\nConsiderando que as medidas apontadas devem permitir prever um regime de importação que não inclua outras medidas para além da aplicação da pauta aduaneira comum; que esta se aplica de pleno direito por força do Tratado a partir de 1 de Janeiro de 1970;\n\nConsiderando que o conjunto destas medidas permite renunciar à aplicação de qualquer restrição quantitativa nas fronteiras exteriores da Comunidade; que este mecanismo pode no entanto excepcionalmente ser insuficiente; que, a fim de não deixar em tais casos o mercado comunitário sem defesa contra as perturbações que daí podem resultar, quando os obstáculos à importação anteriormente existentes forem suprimidos, é conveniente permitir à Comunidade tomar rapidamente todas as medidas necessárias;\n\nConsiderando que no comércio interno da Comunidade, a cobrança de qualquer direito aduaneiro ou encargo de efeito equivalente e a aplicação de qualquer restrição quantitativa ou qualquer medida de efeito equivalente são interditas de pleno direito a partir de 1 de Janeiro de 1970, por força das disposições do Tratado; que, na ausência de preço mínimo em 31 de Dezembro de 1969, o recurso ao artigo 44o do Tratado é excluído de pleno direito a partir de 1 de Janeiro de 1970;\n\nConsiderando que a eficácia do conjunto das medidas que regem a organização comum do mercado do lúpulo seria comprometida pela concessão de certas ajudas por parte dos Estados-membros; que convém que as disposições do Tratado que permitem apreciar as ajudas concedidas pelos Estados-membros e proibir as que são incompatíveis com o mercado comum sejam tornadas aplicáveis ao sector do lúpulo; que convém, todavia, prever um regime transitório para as ajudas nacionais concedidas para contratos plurianuais antes da entrado em vigor da organização de mercado;\n\nConsiderando que é oportuno prever a responsabilidade financeira da Comunidade em relação às despesas feitas pelos Estados-membros em consequência das obrigações resultantes da aplicação do presente regulamento, em conformidade com as disposições regulamentares relativas ao financiamento da política agrícola comum;\n\nConsiderando que a passagem do regime em vigor nos Estados-membros para aquele que é instituído pelo presente regulamento deve efectuar-se nas melhores condições; que, por este facto, podem revelar-se necessárias certas medidas transitórias;\n\nConsiderando que a organização comum de mercado no sector do lúpulo deve ter em conta, paralelamente e de maneira adequada, os objectivos previstos nos artigos 39o e 110o do Tratado;\n\nConsiderando que, para facilitar a implementação das disposições previstas, convém prever um processo que instaure uma estreita cooperação entre os Estados-membros e a Comissão no seio de um Comité de Gestão,\n\nADOPTOU O SEGUINTE REGULAMENTO:"
+  },
+  "68f327a3e6c8447e": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. É estabelecida, no sector do lúpulo, uma organização comum de mercado aplicável aos seguintes produtos:\n\n\"\" ID=\"1\">12.06> ID=\"2\">Lúpulo (cones e lupulina)\">\n\n2. As regras relativas à comercialização e às trocas comerciais com países terceiros aplicam-se ainda aos seguintes produtos:\n\n\"\" ID=\"1\">13.03 A VI> ID=\"2\">Sucos e extractos vegetais de lúpulo\">\n\n3. No sentido do presente regulamento, entende-se por:\n\na) Lúpulo: as inflorescências secas, também designadas por cones, da planta (feminina) do lúpulo trepador (humulus lupulus); estas inflorescências, de cor verdeamarelo e forma ovóide, são providas de um pedúnculo e a sua maior dimensão varia geralmente de 2 a 5 cm;\n\nb) Lúpulo em pó: o produto obtido por moedura do lúpulo e que contém todos os elementos naturais;\n\nc) Lúpulo em pó enriquecido em lupulina: o produto obtido por moedura do lúpulo depois da eliminação mecânica das folhas, dos caules, das brácteas e dos raquis;\n\nd) Extracto de lúpulo: os produtos concentrados obtidos pela acção de um solvente sobre o lúpulo;\n\ne) Mistura de lúpulo: produtos obtidos pela mistura de dois ou mais produtos acima referidos."
+  },
+  "7c54d48f5c3ff7ab": {
+   "fragment_id": "TÍTULO I — Comercialização",
+   "type": "divisao",
+   "heading": "TÍTULO I — Comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Comercialização"
+  },
+  "0478788c7ff01a0f": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Os produtos referidos no artigo 1o, colhidos na Comunidade ou elaborados a partir do lúpulo colhido na Comunidade, são sujeitos a um procedimento de certificação de indicação de proveniência.\n\n2. O certificado só pode ser emitido para os produtos:\n\n- colhidos nas regiões de produção reconhecidas ou elaborados a partir de tais produtos,\n\n- pertencentes a variedades que figurem na lista comunitária de variedades, ou elaborados a partir de tais produtos,\n\n- e que apresentem características qualitativas que respondam aos limites mínimos de comercialização válidos num determinado estádio de comercialização.\n\n3. O Conselho, deliberando sob proposta da Comissão de acordo com o procedimento de voto previsto no no 2 do artigo 43o do Tratado, adoptará para cada produto as regras gerais do procedimento de certificação de indicação de proveniência e a data da sua entrada em aplicação."
+  },
+  "452427ad99b8792f": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Na medida em que os produtos referidos no artigo 1o estejam sujeitos a um procedimento de certificação de indicação de proveniência, só podem ser comercializados ou exportados se o certificado tiver sido emitido.\n\n2. Podem ser decididas medidas derrogatórias do disposto no no 1, de acordo com o procedimento previsto no artigo 20o.\n\na) Com vista a satisfazer as exigências comerciais de certos países terceiros, ou\n\nb) Para produtos destinados a utilizações especiais.\n\nAs medidas previstas no parágrafo anterior devem:\n\n- não prejudicar o escoamento normal dos produtos para os quais tenha sido emitido o certificado de indicação de proveniência,\n\n- e serem acompanhadas de garantias para evitar qualquer confusão com os referidos produtos."
+  },
+  "6f22374439918614": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Para o lúpulo colhido na Comunidade, será definida uma qualidade tipo em finção das características exteriores e de critérios objectivos.\n\n2. As modalidades de aplicação do presente artigo serão aprovadas de acordo com o procedimento previsto no artigo 20o."
+  },
+  "6799134568309608": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os produtos referidos no artigo 1o provenientes de países terceiros só podem ser importados se apresentarem características qualitativas pelo menos equivalentes aos limites mínimos de comercialização adoptados para os mesmos produtos colhidos na Comunidade ou elaborados a partir destes.\n\n2. Os produtos referidos no artigo 1o, acompanhados de um atestado emitido pelas autoridades do país de origem e reconhecido como equivalente ao certificado de indicação de proveniência, serão considerados como apresentando as características referidas no no 1.\n\nA equivalência destes atestados será comprovada de acordo com o procedimento previsto no artigo 20o.\n\n3. As modalidades de aplicação do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 20o."
+  },
+  "2f6ddb5f29d12254": {
+   "fragment_id": "TÍTULO II — Contratos de entrega",
+   "type": "divisao",
+   "heading": "TÍTULO II — Contratos de entrega",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Contratos de entrega"
+  },
+  "f973a4530d62f4e8": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Qualquer contrato para a entrega de lúpulo produzido na Comunidade, concluído entre um produtor ou produtores associados e um comprador, será registado pelos organismos designados para este efeito por cada Estado-membro produtor.\n\n2. Os contratos respeitantes à entrega de determinadas quantidades a preços acordados durante um período que abranja uma ou várias colheitas e concluídos antes de 1 de Agosto do ano da primeira colheita a que digam respeito, são denominados «contratos concluídos antecipadamente». Esses contratos serão objecto de registo separado.\n\n3. Os Estados-membros comunicarão periodicamente à Comissão as informações estatísticas respeitantes ao registo dos contratos.\n\n4. Os dados que são objecto do registo só podem ser utilizados para fins de aplicação do presente regulamento.\n\n5. As modalidades de aplicação do presente artigo serão aprovadas de acordo com o procedimento previsto no artigo 20o."
+  },
+  "36b9b891241e1fce": {
+   "fragment_id": "TÍTULO III — Agrupamentos de produtores",
+   "type": "divisao",
+   "heading": "TÍTULO III — Agrupamentos de produtores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Agrupamentos de produtores"
+  },
+  "44f7eb4336eade8f": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. No sentido do presente regulamento, entende-se por «agrupamento reconhecido de produtores» um agrupamento de produtores de lúpulo constituído por iniciativa dos produtores, com o objectivo nomeadamente:\n\na) De adaptar em comum a sua produção à exigências do mercado;\n\nb) De melhorar a produção pela reconversão varietal e pela reestruturação das plantações;\n\nc) De promover a racionalização e a mecanização das operações de cultivo e de colheita a fim de melhorar a rentabilidade da produção;\n\ne que tenha sido reconhecido por um Estado-membro por força do disposto no no 3.\n\n2. No sentido do presente regulamento, entende-se por «união reconhecida» uma união de agrupamentos reconhecidos de produtores, que prossiga os mesmos objectivos que estes agrupamentos e que tenha sido reconhecida por um Estado-membro por força do disposto no no 3.\n\n3. Os Estados-membros reconhecerão os agrupamentos de produtores e suas uniões que requeiram o reconhecimento e que preencham as seguintes condições gerais:\n\na) Aplicar regras comuns de produção e de colocação no mercado (primeiro estádio da comercialização);\n\nb) Incluir nos seus estatutos a obrigação de os produtores membros dos agrupamentos e de os agrupamentos reconhecidos de produtores, membros da união:\n\n- efectuarem a colocação no mercado do conjunto da produção para a qual aderem ao agrupamento ou à união, de acordo com as regras de entrega e de colocação no mercado estabelecidas e controladas respectivamente pelo agrupamento ou pela união, ou\n\n- fazerem efectuar a colocação no mercado do conjunto da produção própria que foi objecto do reconhecimento, respectivamente pelo agrupamento ou pela união, quer em nome e por conta dos membros, quer por conta dos membros, quer ainda em nome e por conta do agrupamento ou da união.\n\nNo que respeita aos agrupamentos de produtores, esta obrigação não se aplica aos produtos:\n\n- para os quais os produtores tenham concluído contratos de venda ou concedido opções antes da filiação no agrupamento, contanto que o referido agrupamento tenha sido informado, antes da adesão, da extensão e da duração das obrigações assim contraídas, e as tenha aprovado,\n\n- que os produtores possam, após a sua filiação e com aprovação expressa do agrupamento, excluir da colocação no mercado pelo referido agrupamento.\n\nc) Fazer prova de uma actividade económica suficiente;\n\nd) Excluir para o conjunto do seu campo de actividade, qualquer discriminação entre os produtores ou agrupamentos da Comunidade, ligada nomeadamente à sua nacionalidade ou ao local do seu estabelecimento;\n\ne) Incluir nos seus estatutos disposições destinadas a assegurar que os membros de um agrupamento ou de uma união, que queiram renunciar à sua qualidade de membros, só o possam fazer:\n\n- depois de um período de três anos de adesão ao agrupamento ou à união,\n\n- e na condição de avisarem o agrupamento ou a união, no mínimo doze meses antes da sua saída;\n\nf) Ter a capacidade jurídica necessária nas condições previstas pela legislação nacional, para cumprir os actos respeitantes à suas atribuições;\n\ng) Incluir nos seus estatutos a obrigação de manter uma contabilidade separada para as actividades que são objecto do reconhecimento.\n\n4. É competente para o reconhecimento dos agrupamentos de produtores e das suas uniões o Estado-membro em cujo território o agrupamento de produtores ou a união tenha a sua sede estatutária.\n\n5. As modalidades de aplicação do presente artigo, e nomeadamente aquelas que dizem respeito às condições previstas nas alíneas a) e c) do no 3, serão adoptadas de acordo com o procedimento previsto no artigo 20o."
+  },
+  "6d3e49c6f1c2347d": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros podem conceder aos agrupamentos reconhecidos de produtores, durante os três anos que se seguem à data do seu reconhecimento, ajudas para encorajar a sua constituição e facilitar o seu funcionamento. O montante destas ajudas não pode exceder, a título do primeiro, do segundo e do terceiro ano, respectivamente 3 %, 2 % e 1 % do valor dos produtos sobre os quais incide o reconhecimento e que são comercializados. Estas ajudas não devem, todavia, exceder no decurso do primeiro ano 60 %, no decurso do segundo ano 40 % e no decurso do terceiro ano 20 % dos encargos de gestão do agrupamento de produtores.\n\nO valor dos produtos comercializados será estabelecido forfetariamente para cada ano, com base:\n\n- na produção média comercializada pelos produtores aderentes, no decurso dos três anos civis que precedem a sua adesão,\n\n- nos preços médios à produção obtidos por estes produtores no decurso do mesmo período."
+  },
+  "476dece7b60105f8": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros podem conceder aos agrupamentos de produtores para as operações realizadas o mais tardar em 31 de Dezembro de 1975, ajudas num montante máximo de 1 500 unidades de conta por hectare, destinadas à reconversão varietal e à reestruturação das plantações referidas no no 1, alínea b) do artigo 7o."
+  },
+  "a85061fe1c01a166": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. O Conselho, deliberando sob proposta da Comissão de acordo com o procedimento de voto previsto no no 2 do artigo 43o do Tratado, adoptará as regras gerais de aplicação dos artigos 8o e 9o.\n\n2. As modalidades de aplicação dos artigos 8o e 9o serão adoptadas de acordo com o procedimento previsto no artigo 20o."
+  },
+  "d24f64aa1a0eafd4": {
+   "fragment_id": "TÍTULO IV — Ajudas aos produtores",
+   "type": "divisao",
+   "heading": "TÍTULO IV — Ajudas aos produtores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Ajudas aos produtores"
+  },
+  "360bb41c992405b9": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nTodos os anos antes do dia 30 de Abril, a Comissão apresentará ao Conselho um relatório sobre a situação da produção e da comercialização do lúpulo.\n\nEste relatório dará conta nomeadamente da evolução dos preços, das plantações, da produção e das necessidades."
+  },
+  "42e582bce7d26816": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. É instituído um regime de ajudas para o lúpulo produzido na Comunidade.\n\n2. Pode ser concedida uma ajuda aos produtores que permita a realização de um rendimento justo.\n\n3. O montante desta ajuda por hectare, que será diferenciado em função das variedades, será fixado tendo em conta:\n\na) A receita média realizada, comparada com as receitas médias realizadas em colheitas anteriores;\n\nb) A situação e a tendência previsível do mercado na Comunidade;\n\nc) A evolução do mercado exterior, bem como os preços nas trocas comerciais internacionais.\n\n4. Se o relatório referido no artigo 11o expressar o risco da criação de excedentes estruturais ou de uma perturbação na estrutura de aprovisionamento do mercado comunitário do lúpulo, a concessão da ajuda pode ser limitada a um montante correspondente a uma superfície determinada com base na média das superfícies cultivadas no decurso dos três anos anteriores àquele que foi objecto de análise.\n\n5. O montante da ajuda válida para as superfícies relativas à colheita do ano civil precedente será fixado, antes do dia 30 de Junho, de acordo com o procedimento previsto no no 2 do artigo 43o do Tratado."
+  },
+  "f88f0abac3b5a5eb": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. A ajuda será concedida aos produtores para as superfícies registadas nas quais a colheita foi realizada.\n\nOs Estados-membros designarão os organismos habilitados a proceder, para cada produtor, ao registo das superfícies consagradas à cultura do lúpulo e que são encarregados do controlo e da actualização do referido registo.\n\n2. Na aplicação das disposições do presente artigo, os Estados-membros podem considerar como um só produtor um agrupamento reconhecido de produtores.\n\n3. O Conselho, deliberando sob proposta da Comissão de acordo com o procedimento de voto previsto no no 2 do artigo 43o do Tratado, adoptará as regras gerais de aplicação do presente artigo.\n\n4. As modalidades de aplicação do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 20o."
+  },
+  "da9b860df5cf4bb2": {
+   "fragment_id": "TÍTULO V — Regime de trocas comerciais com países terceiros",
+   "type": "divisao",
+   "heading": "TÍTULO V — Regime de trocas comerciais com países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — Regime de trocas comerciais com países terceiros"
+  },
+  "e56e6fa9ab4420b1": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nSalvo disposições em contrário do presente regulamento ou derrogação decidida pelo Conselho deliberando sob proposta da Comissão de acordo com o procedimento de voto previsto no no 2 do artigo 43o do Tratado, são proibidas nas trocas comerciais com países terceiros:\n\na) A cobrança de qualquer encargo de efeito equivalente a um direito aduaneiro;\n\nb) A aplicação de qualquer restrição quantitativa ou medida de efeito equivalente."
+  },
+  "9785ea7d333f850e": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\n1. Se, na Comunidade, o mercado dos produtos referidos no artigo 1o sofrer ou correr o risco de sofrer, devido às importações ou exportações, perturbações graves susceptíveis de porem em perigo os objectivos do artigo 39o do Tratado, podem ser aplicadas medidas adequadas nas trocas comerciais com países terceiros, até que a perturbação ou o risco de perturbação tenha desaparecido.\n\nO Conselho, deliberando sob proposta da Comissão de acordo com o procedimento de voto previsto no no 2 do artigo 43o do Tratado, adoptará as modalidades de aplicação do presente número e definirá os casos e os limites dentro dos quais os Estados-membros podem tomar medidas conservatórias.\n\n2. Se se verificar a situação referida no no 1, a Comissão, o pedido de um Estado-membro ou por iniciativa própria, determinará as medidas necessárias que serão comunicadas aos Estados-membros e imediatamente aplicáveis. Se um Estado-membro apresentar um pedido à Comissão, esta decidirá sobre ele nas vinte e quatro horas seguintes à recepção do pedido.\n\n3. Qualquer Estado-membro pode deferir para o Conselho a medida tomada pela Comissão no prazo de três dias úteis a seguir ao dia em que foi feita a comunicação. O Conselho reunir-se-á imediatamente. O Conselho pode alterar ou anular a medida em causa, de acordo com o procedimento de voto previsto no no 2 do artigo 43o do Tratado."
+  },
+  "758795fa50ce80ca": {
+   "fragment_id": "TÍTULO VI — Disposições gerais",
+   "type": "divisao",
+   "heading": "TÍTULO VI — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI — Disposições gerais"
+  },
+  "50f290e918d01918": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nSem prejuízo de disposições em contrário do presente regulamento, os artigos 92o, 93o e 94o do Tratado são aplicáveis à produção e ao comércio dos produtos referidos no no 1 do artigo 1o.\n\nTodavia, a ajuda concedida por um Estado-membro aos produtores de lúpulo pode ser mantida durante o período de validade dos contratos concluídos anteriormente à data de entrada em vigor do presente regulamento, desde que esta ajuda ultrapasse o montante da ajuda comunitária referida no artigo 12o. Esta ajuda não é susceptível de prorrogação."
+  },
+  "2d51011049637012": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\n1. As disposições regulamentares relativas ao financiamento da política agrícola comum aplicam-se ao mercado dos produtos referidos no no 1 do artigo 1o, a partir da data de entrada em aplicação do regime previsto pelo presente regulamento.\n\n2. As medidas previstas nos artigos 8o e 9o constituem uma acção comum na acepção do no 1 do artigo 6o do Regulamento (CEE) no 729/70 do Conselho, de 21 de Abril de 1970, relativo ao financiamento da política agrícola comum (2).\n\n3. O FEOGA, Secção Orientação, reembolsará aos Estados-membros 25 % das despesas elegíveis efectuadas por estes a título das acções previstas no artigo 8o, e 50 % das despesas elegíveis efectuadas por estes a título das acções previstas no artigo 9o.\n\n4. Os pedidos de reembolso incidem sobre as despesas efectuadas no decurso de um ano civil e serão apresentados à Comissão antes do dia 30 de Junho do ano seguinte.\n\n5. O custo previsional total, a cargo do FEOGA, da acção comum eleva-se a 1,6 milhões de unidades de conta.\n\n6. O prazo para a realização da acção referida no artigo 8o é limitado a um período de dez anos a contar da data de entrada em vigor do presente regulamento.\n\n7. As modalidades de aplicação do no 3 serão adoptadas de acordo com o procedimento previsto no artigo 13o do Regulamento (CEE) no 729/70."
+  },
+  "e0250b50bd3398a7": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nOs Estados-membros e a Comissão cimunicarão reciprocamente os dados necessários à aplicação do presente regulamento. As modalidades da comunicação e da difusão destes dados serão adoptadas de acordo com o procedimento previsto no artigo 20o."
+  },
+  "a486630ae8d73dd7": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\n1. É instituído um Comité de Gestão do Lúpulo, a seguir denominado «Comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. No seio do Comité, os votos dos Estados-membros são afectados da ponderação prevista no no 2 do artigo 148o do Tratado. O presidente não toma parte na votação."
+  },
+  "defc49b1582138ff": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\n1. Nos casos em que se faz referência ao procedimento definido no presente artigo, o Comité será chamado a pronunciar-se pelo seu presidente, quer por iniciativa deste, quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submeterá um projecto de medidas a tomar. O Comité emitirá o seu parecer sobre estas medidas num prazo que o presidente pode fixar em função da urgência das questões submetidas a exame. O Comité pronuncia-se por maioria de doze votos.\n\n3. A Comissão adoptará as medidas que são imediatamente aplicáveis. Todavia, se não estiverem em conformidade com o parecer emitido pelo Comité, estas medidas serão imediatamente comunicadas pela Comissão ao Conselho. Neste caso, a Comissão pode adiar por um mês ou mais a contar desta comunicação a aplicação das medidas por si decididas.\n\nO Conselho, deliberando de acordo com o procedimento de voto previsto no no 2 do artigo 43o do Tratado, pode tomar um decisão diferente no prazo de um mês."
+  },
+  "1ace2bab7003e40e": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\nO Comité pode examinar qualquer outra questão evocada pelo seu presidente, quer por iniciativa deste, quer a pedido do representante de um Estado-membro."
+  },
+  "57d240c8c6cd15cb": {
+   "fragment_id": "Artigo 22o",
+   "type": "artigo",
+   "heading": "Artigo 22o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o\n\nO presente regulamento deve ser aplicado de tal modo que sejam tidos em conta, paralelamente e de modo adequado, os objectivos previstos nos artigos 39o e 110o do Tratado."
+  },
+  "cfe216a9bf5ef703": {
+   "fragment_id": "Artigo 23o",
+   "type": "artigo",
+   "heading": "Artigo 23o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o\n\nNo caso de serem necessárias medidas transitórias para facilitar a passagem do regime em vigor nos Estados-membros para o regime previsto pelo presente regulamento, nomeadamente no caso de a entrada em aplicação do novo regime na data prevista encontrar dificuldades sensíveis, essas medidas serão adoptadas de acordo com o procedimento previsto no artigo 20o. Estas medidas manter-se-ao aplicáveis o mais tardar até 31 de Julho de 1972."
+  },
+  "a80a047f638ef7e5": {
+   "fragment_id": "Artigo 24o",
+   "type": "artigo",
+   "heading": "Artigo 24o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24o\n\nO presente regulamento entra em vigor no terceiro dia a seguir ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nAs disposições dos artigos 11o, 12o e 13o serão aplicáveis pela primeira vez, à colheita de 1971.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 26 de Julho de 1971.\n\nPelo Conselho\n\nO Presidente\n\nA. MORO\n\n(1) JO no C 66 de 1. 7. 1971, p. 28.(2) JO no L 94 de 28. 4. 1970, p. 13."
+  },
+  "0c8c54be52d1564f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1971R1696 — PT — 01.01.2006 — 020.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31971R1696) [REGULAMENTO (CEE) N.º 1696/71 DO CONSELHO](http://publications.europa.eu/resource/celex/31971R1696) [de 26 de Julho de 1971](http://publications.europa.eu/resource/celex/31971R1696) [que estabelece uma organização comum de mercado no sector do lúpulo](http://publications.europa.eu/resource/celex/31971R1696) (JO L 175, 4.8.1971, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1952/2005 do Conselho de 23 de Novembro de 2005](http://publications.europa.eu/resource/celex/32005R1952) — L 314 — 1 — 30.11.2005"
+  }
+ }
+}

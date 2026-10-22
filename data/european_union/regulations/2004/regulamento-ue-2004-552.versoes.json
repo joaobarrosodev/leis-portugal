@@ -1,0 +1,1093 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004R0552:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0552-20180911",
+ "dre_path": null,
+ "source_lastmod": "2018-09-11",
+ "versions": [
+  {
+   "date": "2004-03-31",
+   "future": false,
+   "celex": "32004R0552",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6f880b00e64d5926",
+    "1e6d6e0e375c13b5",
+    "67bec96ced71d186",
+    "26987f522f2b486a",
+    "b7ceda0c78195ca3",
+    "9bbf311c26664619",
+    "34d6a47833dc7bf1",
+    "a69dd5572d3f4d0b",
+    "2eeed9c3ac4de0e2",
+    "d79315276c8f8fd3",
+    "6cea6539e481d7b8",
+    "a27b17f93387b88e",
+    "656d915ac2b9e7b5",
+    "1fd3afb32c9090d3",
+    "40910a1c75993385",
+    "47bdbfa6da0d6e88",
+    "bcc2ba3935da853c",
+    "0aa71c16e8241b0d",
+    "8a18f5ae6185b20d",
+    "1b77f5c6162cbc76",
+    "10739e6072f0fa4f",
+    "a2c15af74cbe1267",
+    "bb5b674e45020abb",
+    "7bda8a9ea6ab7bac"
+   ]
+  },
+  {
+   "date": "2009-12-04",
+   "future": false,
+   "celex": "02004R0552-20091204",
+   "acts": [
+    {
+     "id": "eu:celex:32009R1070:por",
+     "title": "REGULAMENTO (CE) N. o 1070/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Outubro de 2009",
+     "published": null,
+     "celex": "32009R1070"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º — Especificações comunitárias",
+    "Altera Artigo 9.º — Revisão dos anexos",
+    "Altera Artigo 10.º — Disposições transitórias",
+    "Altera Artigo 12.º — Entrada em vigor",
+    "Altera Parte A: Requisitos gerais",
+    "Altera Parte B: Requisitos específicos",
+    "Adita CAPÍTULO I",
+    "Adita DISPOSIÇÕES GERAIS",
+    "Adita CAPÍTULO II",
+    "Adita REQUISITOS ESSENCIAIS, REGRAS DE EXECUÇÃO EM MATÉRIA DE INTEROPERABILIDADE E ESPECIFICAÇÕES COMUNITÁRIAS",
+    "Adita CAPÍTULO III",
+    "Adita VERIFICAÇÃO DA CONFORMIDADE",
+    "Adita Artigo 6.º-A — Verificação alternativa do cumprimento",
+    "Adita CAPÍTULO IV",
+    "Adita DISPOSIÇÕES FINAIS",
+    "Adita ANEXO I",
+    "Adita LISTAS DE SISTEMAS PARA SERVIÇOS DE NAVEGAÇÃO AÉREA",
+    "Adita ANEXO II",
+    "Adita REQUISITOS ESSENCIAIS",
+    "Adita 1. Operação uniforme",
+    "Adita 2. Apoio a novos conceitos operacionais",
+    "Adita 3. Segurança",
+    "Adita 4. Coordenação civil-militar",
+    "Adita 5. Limitações ambientais",
+    "Adita 6. Princípios que regem a arquitectura lógica dos sistemas",
+    "Adita 7. Princípios que regem o fabrico dos sistemas",
+    "Adita 1. Sistemas e procedimentos para a gestão do espaço aéreo",
+    "Adita 1.1. Operação uniforme",
+    "Adita 2. Sistemas e procedimentos para a gestão do fluxo de tráfego aéreo",
+    "Adita 2.1. Operação uniforme",
+    "Adita 3. Sistemas e procedimentos para os serviços de tráfego aéreo",
+    "Adita 3.1. Sistemas de processamento dos dados de voo",
+    "Adita 3.1.1. Operação uniforme",
+    "Adita 3.1.2. Apoio a novos conceitos operacionais",
+    "Adita 3.2. Sistemas de processamento dos dados de vigilância",
+    "Adita 3.2.1. Operação uniforme",
+    "Adita 3.2.2. Apoio a novos conceitos operacionais",
+    "Adita 3.3. Sistemas de interface homem-máquina",
+    "Adita 3.3.1. Operação uniforme",
+    "Adita 3.3.2. Apoio a novos conceitos operacionais",
+    "Adita 4. Sistemas e procedimentos de comunicação para comunicações solo-solo, ar-solo e ar-ar",
+    "Adita 4.1. Operação uniforme",
+    "Adita 4.2. Apoio a novos conceitos operacionais",
+    "Adita 5. Sistemas e procedimentos de navegação",
+    "Adita 5.1. Operação uniforme",
+    "Adita 6. Sistemas e procedimentos de vigilância",
+    "Adita 6.1. Operação uniforme",
+    "Adita 7. Sistemas e procedimentos para serviços de informação aeronáutica",
+    "Adita 7.1. Operação uniforme",
+    "Adita 7.2. Apoio a novos conceitos operacionais",
+    "Adita 8. Sistemas e procedimentos para utilização de informação meteorológica",
+    "Adita 8.1. Operação uniforme",
+    "Adita 8.2. Apoio a novos conceitos operacionais",
+    "Adita ANEXO III",
+    "Adita COMPONENTES",
+    "Adita 1. Componentes",
+    "Adita 2. Âmbito de aplicação",
+    "Adita 3. Teor da declaração CE",
+    "Adita ANEXO IV",
+    "Adita SISTEMAS",
+    "Adita 1. Teor da declaração CE de verificação de sistemas",
+    "Adita 2. Procedimento de verificação para sistemas",
+    "Adita 3. Processo técnico",
+    "Adita 4. Apresentação",
+    "Adita ANEXO V",
+    "Adita ORGANISMOS NOTIFICADOS",
+    "Adita Notas",
+    "Suprime CAPÍTULO I — DISPOSIÇÕES GERAIS",
+    "Suprime CAPÍTULO II — REQUISITOS ESSENCIAIS, REGRAS DE EXECUÇÃO EM MATÉRIA DE INTEROPERABILIDADE E ESPECIFICAÇÕES COMUNITÁRIAS",
+    "Suprime CAPÍTULO III — VERIFICAÇÃO DA CONFORMIDADE",
+    "Suprime CAPÍTULO IV — DISPOSIÇÕES FINAIS",
+    "Suprime ANEXO I — LISTAS DE SISTEMAS PARA SERVIÇOS DE NAVEGAÇÃO AÉREA",
+    "Suprime ANEXO II — REQUISITOS ESSENCIAIS",
+    "Suprime ANEXO III — COMPONENTES",
+    "Suprime ANEXO IV — SISTEMAS",
+    "Suprime ANEXO V — ORGANISMOS NOTIFICADOS"
+   ],
+   "fragments": [
+    "6ed25a27367e2fe0",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "67bec96ced71d186",
+    "f0f8c960bfdbce9b",
+    "f99a0d4068c9a93e",
+    "b7ceda0c78195ca3",
+    "4c7c671cf6ce9df9",
+    "77706d35058905d8",
+    "1e7a0903d2eed348",
+    "18acfbacb608fa21",
+    "9506d51ad8a426e7",
+    "95208b03d821c50e",
+    "a0a7e3c6e9746f10",
+    "69d495ce08874ebe",
+    "6c0f6ccf5a7c7fff",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "f5b63418dcf9f4c0",
+    "cbde9026ef58f87d",
+    "96331cd0043637f7",
+    "77c92dca6b39d7dd",
+    "d664376e2a8dcecd",
+    "6c1c42facb4f57fb",
+    "852174729551523b",
+    "d5a04583b961e97f",
+    "cb4f437dcfb36447",
+    "90061d3ec4a7a17f",
+    "2abb1459e874c187",
+    "d9cbb350b043d3ba",
+    "7ba1022aa1a16a9d",
+    "29ce8c9011e8287e",
+    "3b7ddf4d8f4e9a35",
+    "d966970b850a1749",
+    "ef8ede152af8b65f",
+    "3bd174845f000851",
+    "6fde7a2c2753b68a",
+    "058074bae2d96955",
+    "599c71e341654315",
+    "dc277d78434a80f3",
+    "a8c0b05f7d586966",
+    "9c5d9cbc0b4e3147",
+    "89ef138d76f755c8",
+    "3532e709ea17bdcd",
+    "5660f96dc3adabcb",
+    "6e9622979940bf04",
+    "0bb5a0e99b872094",
+    "71f4d0762ce4e9b4",
+    "ef2f232caa522aef",
+    "94c80273a183b1c0",
+    "67d69bd57808cde6",
+    "ca0bfd57b5d862cc",
+    "d6f0172c41f3ec24",
+    "85945182a7aadb50",
+    "d89209cf6b82f87c",
+    "051152cf2d2c4f24",
+    "46dd1eb5dd12d84a",
+    "32ef0dc436b7a9f2",
+    "76f7d169345336cf",
+    "0bebfcbe16651417",
+    "8d3d94ddd139ec06",
+    "3402a2274a981586",
+    "720af75c92791b10",
+    "df67edd515d80363",
+    "b4d295dcecd9b0a5",
+    "09a2726d6580206f",
+    "d77dc3e7b3e71f75",
+    "e03a0eb4d5b2eef3",
+    "5b2860d4b2d0cd91",
+    "8c9c7a6a525b23a4",
+    "43a8e641dc1f57f3",
+    "2a61824f1327ae6d",
+    "994961dea793a9bb",
+    "64610ae29a6cb67c",
+    "1302ec0bee18a9e6",
+    "d548974c80325a49"
+   ]
+  },
+  {
+   "date": "2018-09-11",
+   "future": false,
+   "celex": "02004R0552-20180911",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 1.º — Objectivo e âmbito de aplicação",
+    "Suprime CAPÍTULO II",
+    "Suprime REQUISITOS ESSENCIAIS, REGRAS DE EXECUÇÃO EM MATÉRIA DE INTEROPERABILIDADE E ESPECIFICAÇÕES COMUNITÁRIAS",
+    "Suprime Artigo 2.º — Requisitos essenciais",
+    "Suprime Artigo 3.º — Regras de execução em matéria de interoperabilidade",
+    "Suprime Artigo 4.º — Especificações comunitárias",
+    "Suprime CAPÍTULO III",
+    "Suprime VERIFICAÇÃO DA CONFORMIDADE",
+    "Suprime Artigo 5.º — Declaração CE de conformidade ou de adequação para utilização de componentes",
+    "Suprime Artigo 6.º — Declaração CE de verificação de sistemas",
+    "Suprime Artigo 6.º-A — Verificação alternativa do cumprimento",
+    "Suprime Artigo 7.º — Salvaguardas",
+    "Suprime Artigo 8.º — Organismos notificados",
+    "Suprime CAPÍTULO IV",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 9.º — Revisão dos anexos",
+    "Suprime Artigo 10.º — Disposições transitórias",
+    "Suprime Artigo 11.º — Revogação",
+    "Suprime Artigo 12.º — Entrada em vigor",
+    "Suprime ANEXO I",
+    "Suprime LISTAS DE SISTEMAS PARA SERVIÇOS DE NAVEGAÇÃO AÉREA",
+    "Suprime ANEXO II",
+    "Suprime REQUISITOS ESSENCIAIS",
+    "Suprime Parte A: Requisitos gerais",
+    "Suprime 1. Operação uniforme",
+    "Suprime 2. Apoio a novos conceitos operacionais",
+    "Suprime 3. Segurança",
+    "Suprime 4. Coordenação civil-militar",
+    "Suprime 5. Limitações ambientais",
+    "Suprime 6. Princípios que regem a arquitectura lógica dos sistemas",
+    "Suprime 7. Princípios que regem o fabrico dos sistemas",
+    "Suprime Parte B: Requisitos específicos",
+    "Suprime 1. Sistemas e procedimentos para a gestão do espaço aéreo",
+    "Suprime 1.1. Operação uniforme",
+    "Suprime 2. Sistemas e procedimentos para a gestão do fluxo de tráfego aéreo",
+    "Suprime 2.1. Operação uniforme",
+    "Suprime 3. Sistemas e procedimentos para os serviços de tráfego aéreo",
+    "Suprime 3.1. Sistemas de processamento dos dados de voo",
+    "Suprime 3.1.1. Operação uniforme",
+    "Suprime 3.1.2. Apoio a novos conceitos operacionais",
+    "Suprime 3.2. Sistemas de processamento dos dados de vigilância",
+    "Suprime 3.2.1. Operação uniforme",
+    "Suprime 3.2.2. Apoio a novos conceitos operacionais",
+    "Suprime 3.3. Sistemas de interface homem-máquina",
+    "Suprime 3.3.1. Operação uniforme",
+    "Suprime 3.3.2. Apoio a novos conceitos operacionais",
+    "Suprime 4. Sistemas e procedimentos de comunicação para comunicações solo-solo, ar-solo e ar-ar",
+    "Suprime 4.1. Operação uniforme",
+    "Suprime 4.2. Apoio a novos conceitos operacionais",
+    "Suprime 5. Sistemas e procedimentos de navegação",
+    "Suprime 5.1. Operação uniforme",
+    "Suprime 6. Sistemas e procedimentos de vigilância",
+    "Suprime 6.1. Operação uniforme",
+    "Suprime 7. Sistemas e procedimentos para serviços de informação aeronáutica",
+    "Suprime 7.1. Operação uniforme",
+    "Suprime 7.2. Apoio a novos conceitos operacionais",
+    "Suprime 8. Sistemas e procedimentos para utilização de informação meteorológica",
+    "Suprime 8.1. Operação uniforme",
+    "Suprime 8.2. Apoio a novos conceitos operacionais",
+    "Suprime ANEXO III",
+    "Suprime COMPONENTES",
+    "Suprime 1. Componentes",
+    "Suprime 2. Âmbito de aplicação",
+    "Suprime 3. Teor da declaração CE",
+    "Suprime ANEXO IV",
+    "Suprime SISTEMAS",
+    "Suprime 1. Teor da declaração CE de verificação de sistemas",
+    "Suprime 2. Procedimento de verificação para sistemas",
+    "Suprime 3. Processo técnico",
+    "Suprime 4. Apresentação",
+    "Suprime ANEXO V",
+    "Suprime ORGANISMOS NOTIFICADOS",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "db888bca00cbc064"
+   ]
+  }
+ ],
+ "fragments": {
+  "6f880b00e64d5926": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 552/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo (\"regulamento relativo à interoperabilidade\") (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 096 de 31/03/2004 p. 0026 - 0042*\n\nRegulamento (CE) n.o 552/2004 do Parlamento Europeu e do Conselho\n\nde 10 de Março de 2004\n\nrelativo à interoperabilidade da rede europeia de gestão do tráfego aéreo\n\n(\"regulamento relativo à interoperabilidade\")\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.o 2 do seu artigo 80.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social Europeu(2),\n\nTendo em conta o parecer do Comité das Regiões(3),\n\nDeliberando nos termos do artigo 251.o do Tratado, tendo em conta o projecto comum aprovado pelo Comité de Conciliação em 11 de Dezembro de 2003(4),\n\nConsiderando o seguinte:\n\n(1) A criação do céu único europeu implica a adopção de medidas relativas aos sistemas, componentes e procedimentos associados, com o objectivo de assegurar a interoperabilidade da rede europeia de gestão do tráfego aéreo, a seguir designada \"REGTA\", em coerência com a prestação de serviços de navegação aérea, tal como previsto no Regulamento (CE) n.o 550/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à prestação de serviços de navegação aérea no céu único europeu, a seguir designado \"regulamento relativo à prestação de serviços\"(5), e com a organização e utilização do espaço aéreo, tal como previsto no Regulamento (CE) n.o 551/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004(6), a seguir designado \"regulamento relativo ao espaço aéreo\".\n\n(2) O relatório do grupo de alto nível do céu único europeu confirmou a necessidade de adoptar regulamentação técnica com base na \"nova abordagem\" em conformidade com a resolução do Conselho, de 7 de Maio de 1985, relativa a uma nova abordagem em matéria de harmonização e de normalização(7), de acordo com a qual os requisitos essenciais, as regras e os padrões devem ser complementares e coerentes.\n\n(3) O Regulamento (CE) n.o 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004(8), a seguir designado \"regulamento-quadro\", estabelece o quadro para a realização do céu único europeu.\n\n(4) O relatório do grupo de alto nível confirmou que, apesar dos progressos realizados nos últimos anos no que se refere à operação uniforme da REGTA, a situação continua a ser insatisfatória, caracterizando-se por um nível reduzido de integração dos sistemas nacionais de gestão do tráfego aéreo e um ritmo lento de introdução dos novos conceitos operacionais e tecnológicos necessários para libertar a capacidade adicional requerida.\n\n(5) Melhorar o nível de integração a nível comunitário terá como resultado uma melhor eficácia e custos inferiores no que se refere às aquisições públicas e manutenção de sistemas, bem como uma melhor coordenação operacional.\n\n(6) A predominância de especificações técnicas nacionais nas aquisições públicas levou à fragmentação do mercado de sistemas e não facilita a cooperação industrial a nível comunitário. Consequentemente, a indústria é particularmente afectada por esta situação, uma vez que precisa de adaptar substancialmente os seus produtos para satisfazer cada mercado nacional. As práticas vigentes dificultam desnecessariamente o desenvolvimento e a aplicação de novas tecnologias e abrandam o ritmo de introdução dos novos conceitos operacionais necessários para aumentar a capacidade.\n\n(7) Por conseguinte, interessa a todos os envolvidos na gestão do tráfego aéreo o desenvolvimento de uma nova abordagem de parceria que permita o envolvimento equilibrado de todos e estimule a criatividade, bem como a partilha de conhecimentos, experiências e riscos. Esta parceria deve destinar-se a definir, juntamente com a indústria, um conjunto coerente de especificações comunitárias capazes de satisfazer uma gama de necessidades o mais ampla possível.\n\n(8) O mercado interno é um objectivo da Comunidade, pelo que as medidas tomadas ao abrigo do presente regulamento deverão contribuir para o seu desenvolvimento progressivo neste sector.\n\n(9) Consequentemente, é oportuno definir requisitos essenciais aplicáveis à REGTA, aos seus sistemas, componentes e procedimentos associados.\n\n(10) Sempre que necessário, devem ser elaboradas regras de execução em matéria de interoperabilidade para os sistemas, a fim de complementar ou aperfeiçoar os requisitos essenciais. Sempre que necessário, devem igualmente ser elaboradas regras de execução naquela matéria para facilitar a introdução coordenada de conceitos operacionais ou tecnológicos novos, aprovados e validados. O cumprimento dessas regras deve ser permanentemente assegurado. Tais regras devem basear-se em normas e padrões desenvolvidos por organizações internacionais, tais como o Eurocontrol ou a Organização da Aviação Civil Internacional (OACI).\n\n(11) O desenvolvimento e a adopção de especificações comunitárias relativas à REGTA, aos seus sistemas e componentes e procedimentos associados são um meio adequado para definir as condições técnicas e operacionais necessárias à satisfação dos requisitos essenciais e as regras de execução relevantes em matéria de interoperabilidade. O cumprimento das especificações comunitárias publicadas, que continua a ser facultativo, cria uma presunção de conformidade com os requisitos essenciais e as regras de execução relevantes em matéria de interoperabilidade.\n\n(12) As especificações comunitárias devem ser estabelecidas pelos organismos europeus de normalização, em conjunto com a Organização Europeia para o Equipamento da Aviação Civil, a seguir designada \"Eurocae\", e pelo Eurocontrol, em conformidade com os procedimentos comunitários gerais no domínio da normalização.\n\n(13) Os procedimentos que regem a avaliação da conformidade ou a adequação para utilização dos componentes devem basear-se nos módulos definidos na Decisão 93/465/CEE do Conselho, de 22 de Julho de 1993, relativa aos módulos referentes às diversas fases dos procedimentos de avaliação da conformidade e às regras de aposição e de utilização da marcação \"CE\" de conformidade, destinados a ser utilizados nas directivas de harmonização técnica(9). Estes módulos devem poder ser ampliados na medida do necessário para abranger os requisitos específicos dos sectores em causa.\n\n(14) O mercado em questão é de pequenas dimensões e abrange sistemas e componentes para utilização quase exclusiva na gestão do tráfego aéreo e não destinados ao público em geral. Por conseguinte, seria excessivo exigir a aposição da marcação \"CE\" nos componentes, uma vez que, com base na avaliação da conformidade e/ou da adequação para utilização, a declaração de conformidade do fabricante é suficiente. Não obstante, tal não deve dispensar os fabricantes da obrigação de aposição da marcação \"CE\" em certos componentes para certificar a sua conformidade com outras disposições comunitárias que lhes sejam aplicáveis.\n\n(15) A colocação em serviço dos sistemas de gestão do tráfego aéreo deve estar condicionada à verificação da conformidade com os requisitos essenciais e as regras de execução relevantes em matéria de interoperabilidade. Da conformidade com as especificações comunitárias deve decorrer a presunção de conformidade com os requisitos essenciais e as regras de execução relevantes em matéria de interoperabilidade.\n\n(16) A plena aplicação do presente regulamento deve processar-se de acordo com uma estratégia de transição que procure realizar os objectivos do presente regulamento sem criar obstáculos injustificados à preservação da infra-estrutura existente, em termos de custo-benefício.\n\n(17) No quadro da legislação comunitária relevante, será necessário ter devidamente em conta a necessidade de assegurar:\n\n- condições harmonizadas em termos de disponibilidade e de utilização eficiente do espectro de radiofrequências necessário à realização do céu único europeu, incluindo os aspectos da compatibilidade electromagnética,\n\n- a protecção dos serviços de segurança da vida humana contra interferências nocivas,\n\n- a utilização eficiente e adequada das frequências exclusivamente atribuídas ao sector da aviação e por este geridas.\n\n(18) A Directiva 93/65/CEE do Conselho, de 19 de Julho de 1993, relativa à definição e à utilização de especificações técnicas compatíveis para a aquisição de equipamentos e de sistemas para a gestão do tráfego aéreo(10), refere-se apenas às obrigações das entidades adjudicantes. O presente regulamento é mais abrangente, visto referir-se às obrigações de todas as partes envolvidas, nomeadamente dos prestadores de serviços de navegação aérea, dos utilizadores do espaço aéreo, da indústria e dos aeroportos, e permitir a adopção tanto de regras de aplicação universal como de especificações comunitárias das quais, apesar de serem voluntárias, decorre a presunção de conformidade com os requisitos essenciais. Por conseguinte, a Directiva 93/65/CEE, a Directiva 97/15/CE da Comissão, de 25 de Março de 1997, que adopta as normas Eurocontrol e altera a Directiva 93/65/CEE do Conselho relativa à definição e à utilização de especificações técnicas compatíveis para a aquisição de equipamentos e de sistemas para a gestão do tráfego aéreo(11), o Regulamento (CE) n.o 2082/2000 da Comissão, de 6 de Setembro de 2000, que adopta normas Eurocontrol e altera a Directiva 97/15/CE que adopta as normas Eurocontrol e altera a Directiva 93/65/CEE do Conselho(12), e o Regulamento (CE) n.o 980/2002 da Comissão, de 4 de Junho de 2002, que altera o Regulamento (CE) n.o 2082/2000 que adopta normas Eurocontrol, devem ser revogados no final de um período transitório.\n\n(19) Por razões de segurança jurídica é necessário assegurar que se mantenham em vigor, sem alteração quanto à substância, certas disposições de actos legislativos comunitários aprovados com base na Directiva 93/65/CEE. A aprovação ao abrigo do presente regulamento das regras de execução correspondentes a essas disposições levará algum tempo,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "1e6d6e0e375c13b5": {
+   "fragment_id": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — DISPOSIÇÕES GERAIS"
+  },
+  "67bec96ced71d186": {
+   "fragment_id": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo e âmbito de aplicação\n\n1. No âmbito do regulamento-quadro, o presente regulamento diz respeito à interoperabilidade da REGTA.\n\n2. O presente regulamento aplica-se aos sistemas e aos seus componentes e procedimentos associados enumerados no anexo I.\n\n3. O presente regulamento tem por objectivo alcançar a interoperabilidade entre os diferentes sistemas, os seus componentes e procedimentos associados da REGTA, tendo na devida conta as normas internacionais pertinentes. O presente regulamento destina-se igualmente a assegurar a introdução coordenada e expedita de conceitos operacionais ou tecnológicos novos, aprovados e validados na gestão do tráfego aéreo."
+  },
+  "26987f522f2b486a": {
+   "fragment_id": "CAPÍTULO II — REQUISITOS ESSENCIAIS, REGRAS DE EXECUÇÃO EM MATÉRIA DE INTEROPERABILIDADE E ESPECIFICAÇÕES COMUNITÁRIAS",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — REQUISITOS ESSENCIAIS, REGRAS DE EXECUÇÃO EM MATÉRIA DE INTEROPERABILIDADE E ESPECIFICAÇÕES COMUNITÁRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — REQUISITOS ESSENCIAIS, REGRAS DE EXECUÇÃO EM MATÉRIA DE INTEROPERABILIDADE E ESPECIFICAÇÕES COMUNITÁRIAS"
+  },
+  "b7ceda0c78195ca3": {
+   "fragment_id": "Artigo 2.º — Requisitos essenciais",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Requisitos essenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Requisitos essenciais\n\nA REGTA, os seus sistemas e os seus componentes e procedimentos associados devem respeitar os requisitos essenciais. Os requisitos essenciais constam do anexo II."
+  },
+  "9bbf311c26664619": {
+   "fragment_id": "Artigo 3.º — Regras de execução em matéria de interoperabilidade",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Regras de execução em matéria de interoperabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regras de execução em matéria de interoperabilidade\n\n1. As regras de execução em matéria de interoperabilidade devem ser elaboradas sempre que necessário para alcançar os objectivos do presente regulamento de uma forma coerente.\n\n2. Os sistemas, componentes e procedimentos associados devem cumprir as regras de execução relevantes em matéria de interoperabilidade durante o respectivo ciclo de vida.\n\n3. As regras de execução em matéria de interoperabilidade devem, em especial:\n\na) Determinar eventuais requisitos específicos que complementem ou aperfeiçoem os requisitos essenciais, em especial em termos de segurança, de operação uniforme e de desempenho; e/ou\n\nb) Descrever, quando adequado, quaisquer requisitos específicos que complementem ou aperfeiçoem os requisitos essenciais, em especial no tocante à introdução coordenada de conceitos operacionais ou tecnológicos novos, aprovados e validados; e/ou\n\nc) Determinar os componentes quando se trata de sistemas; e/ou\n\nd) Descrever os procedimentos específicos de avaliação da conformidade que envolvam, quando adequado, os organismos notificados referidos no artigo 8.o, com base nos módulos definidos na Decisão 93/465/CEE, que serão utilizados a fim de avaliar a conformidade ou a adequação para utilização dos componentes, bem como a verificação dos sistemas; e/ou\n\ne) Especificar as condições de execução, incluindo, quando adequado, o prazo em que todos os interessados as têm de cumprir.\n\n4. A preparação, adopção e análise das regras de execução em matéria de interoperabilidade tem em conta os custos e benefícios estimados de soluções técnicas que permitam cumprir essas regras, com o objectivo de definir a solução mais viável, tendo devidamente em conta a manutenção de um nível elevado de segurança acordado. Uma avaliação dos custos e benefícios, para todas as partes interessadas, deve acompanhar cada projecto de regra de execução em matéria de interoperabilidade.\n\n5. As regras de execução em matéria de interoperabilidade são estabelecidas nos termos do artigo 8.o do regulamento-quadro."
+  },
+  "34d6a47833dc7bf1": {
+   "fragment_id": "Artigo 4.º — Especificações comunitárias",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Especificações comunitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Especificações comunitárias\n\n1. Para alcançar o objectivo do presente regulamento, podem ser estabelecidas especificações comunitárias, designadamente:\n\na) Normas europeias para sistemas ou componentes, juntamente com os procedimentos pertinentes, elaboradas pelos organismos europeus de normalização em cooperação com a Eurocae, com base num mandato conferido pela Comissão em conformidade com o n.o 4 do artigo 6.o da Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação(13), e de acordo com as orientações gerais para a cooperação entre a Comissão e os organismos de normalização, assinadas em 13 de Novembro de 1984;\n\nou\n\nb) Especificações relativas à coordenação operacional entre os prestadores de serviços de navegação aérea elaboradas pelo Eurocontrol, em resposta a um pedido da Comissão nos termos do n.o 2 do artigo 5.o do regulamento-quadro.\n\n2. Presume-se que os sistemas, juntamente com os procedimentos associados, ou os componentes que satisfaçam as especificações comunitárias pertinentes cujas referências tenham sido publicadas no Jornal Oficial da União Europeia, cumprem os requisitos essenciais e as regras de execução relevantes em matéria de interoperabilidade.\n\n3. A Comissão publica as referências às normas europeias, referidas na alínea a) do n.o 1, no Jornal Oficial da União Europeia.\n\n4. As referências às especificações do Eurocontrol, referidas na alínea b) do n.o 1, são publicadas pela Comissão no Jornal Oficial da União Europeia nos termos do n.o 2 do artigo 5.o do regulamento-quadro.\n\n5. Se um Estado-Membro ou a Comissão considerar que a conformidade com uma especificação comunitária publicada não garante o cumprimento dos requisitos essenciais e/ou das regras de execução em matéria de interoperabilidade que a referida especificação comunitária se destina a cobrir, aplica-se o procedimento referido no n.o 2 do artigo 5.o do regulamento-quadro.\n\n6. Em caso de insuficiência das normas europeias publicadas, a retirada total ou parcial dessas normas das publicações em que se encontrem, ou a alteração das referidas normas, pode ser decidida nos termos do n.o 2 do artigo 5.o do regulamento-quadro, após consulta ao comité criado ao abrigo do artigo 5.o da Directiva 98/34/CE.\n\n7. Em caso de insuficiência das especificações do Eurocontrol publicadas, a retirada total ou parcial dessas especificações das publicações em que se encontrem, ou a alteração das referidas especificações, pode ser decidida nos termos do n.o 2 do artigo 5.o do regulamento-quadro."
+  },
+  "a69dd5572d3f4d0b": {
+   "fragment_id": "CAPÍTULO III — VERIFICAÇÃO DA CONFORMIDADE",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — VERIFICAÇÃO DA CONFORMIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — VERIFICAÇÃO DA CONFORMIDADE"
+  },
+  "2eeed9c3ac4de0e2": {
+   "fragment_id": "Artigo 5.º — Declaração CE de conformidade ou de adequação para utilização de componentes",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Declaração CE de conformidade ou de adequação para utilização de componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Declaração CE de conformidade ou de adequação para utilização de componentes\n\n1. Os componentes devem ser acompanhados por uma declaração CE de conformidade ou de adequação para utilização. Os elementos desta declaração constam do anexo III.\n\n2. O fabricante, ou o seu representante autorizado estabelecido na Comunidade, deve assegurar e declarar, mediante a declaração CE de conformidade ou de adequação para utilização, que cumpriu os requisitos essenciais e as regras de execução relevantes em matéria de interoperabilidade.\n\n3. Presume-se que os componentes acompanhados de uma declaração CE de conformidade ou de adequação para utilização cumprem os requisitos essenciais e as regras de execução relevantes em matéria de interoperabilidade.\n\n4. As regras de execução relevantes em matéria de interoperabilidade identificam, quando adequado, as tarefas relacionadas com a avaliação da conformidade ou da adequação para utilização dos componentes que serão confiadas aos organismos notificados referidos no artigo 8.o"
+  },
+  "d79315276c8f8fd3": {
+   "fragment_id": "Artigo 6.º — Declaração CE de verificação de sistemas",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Declaração CE de verificação de sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Declaração CE de verificação de sistemas\n\n1. Os sistemas devem ser objecto de uma verificação CE por parte do prestador de serviços de navegação aérea de acordo com as regras de execução relevantes em matéria de interoperabilidade por forma a assegurar que satisfazem os requisitos essenciais do presente regulamento e as referidas regras quando integrados na REGTA.\n\n2. Antes da entrada em serviço de um sistema, o prestador de serviços de navegação aérea em causa deve elaborar uma declaração CE de verificação que confirme o cumprimento e enviá-la à autoridade supervisora nacional, acompanhada por um processo técnico. Os elementos desta declaração e do processo técnico constam do anexo IV. A autoridade supervisora nacional pode exigir quaisquer informações suplementares necessárias à verificação do cumprimento.\n\n3. As regras de execução relevantes em matéria de interoperabilidade identificam, quando adequado, as tarefas relacionadas com a verificação de sistemas que serão confiadas aos organismos notificados referidos no artigo 8.o\n\n4. A declaração CE de verificação não prejudica as avaliações que a autoridade supervisora nacional possa ter que efectuar por motivos que não sejam a interoperabilidade."
+  },
+  "6cea6539e481d7b8": {
+   "fragment_id": "Artigo 7.º — Salvaguardas",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Salvaguardas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Salvaguardas\n\n1. Se a autoridade supervisora nacional entender que:\n\na) Um componente que ostenta a declaração CE de conformidade ou de adequação para utilização; ou\n\nb) Um sistema acompanhado por uma declaração CE de verificação,\n\nnão cumpre todos os requisitos essenciais e/ou as regras de execução relevantes em matéria de interoperabilidade, deve tomar todas as medidas necessárias para restringir o âmbito de aplicação do componente ou do sistema em causa ou proibir a sua utilização pelas entidades tuteladas pela autoridade, tendo na devida conta a necessidade de assegurar a segurança e continuidade das operações.\n\n2. O Estado-Membro em questão informa imediatamente a Comissão dessas medidas, indicando a sua justificação e, em especial, se, na sua opinião, o incumprimento dos requisitos essenciais se deve:\n\na) Ao incumprimento dos requisitos essenciais;\n\nb) À aplicação incorrecta das regras de execução em matéria de interoperabilidade e/ou das especificações comunitárias;\n\nc) À insuficiência das regras de execução em matéria de interoperabilidade e/ou das especificações comunitárias.\n\n3. A Comissão consulta os interessados logo que possível. Após essa consulta, a Comissão informa os Estados-Membros das suas conclusões e se, na sua opinião, as medidas tomadas pela autoridade supervisora nacional se justificam.\n\n4. Se a Comissão concluir que as medidas tomadas pela autoridade supervisora nacional não se justificam, solicita ao Estado-Membro em questão que garanta que sejam revogadas sem demora. Deve informar imediatamente desse facto o fabricante ou o seu representante autorizado estabelecido na Comunidade.\n\n5. Se a Comissão concluir que o incumprimento dos requisitos essenciais se deve à incorrecta aplicação das regras de execução em matéria de interoperabilidade e/ou das especificações comunitárias, o Estado-Membro em causa deve tomar as medidas adequadas contra quem estiver na origem da declaração de conformidade ou de adequação para utilização ou da declaração CE de verificação e informar do facto a Comissão e os restantes Estados-Membros.\n\n6. Se a Comissão concluir que o incumprimento dos requisitos essenciais se deve a insuficiência das especificações comunitárias, aplicam-se os procedimentos referidos nos n.os 6 ou 7 do artigo 4.o"
+  },
+  "a27b17f93387b88e": {
+   "fragment_id": "Artigo 8.º — Organismos notificados",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Organismos notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Organismos notificados\n\n1. Os Estados-Membros notificam a Comissão e os restantes Estados-Membros sobre que organismos designaram para efectuarem as tarefas de avaliação da conformidade ou de adequação para utilização previstas no artigo 5.o e/ou a verificação referida no artigo 6.o, indicando os domínios da competência de cada organismo e o respectivo número de identificação previamente atribuído pela Comissão. A Comissão publica no Jornal Oficial da União Europeia a lista dos organismos, os respectivos números de identificação e domínios de competência e mantém a referida lista actualizada.\n\n2. Os Estados-Membros aplicam os critérios estabelecidos no anexo V para efeitos da avaliação dos organismos a notificar. Presume-se que os organismos que satisfazem os critérios de avaliação previstos nas normas europeias relevantes cumprem os referidos critérios.\n\n3. Os Estados-Membros devem retirar a notificação sempre que um organismo deixe de satisfazer os critérios estabelecidos no anexo V. Devem informar imediatamente desse facto a Comissão e os restantes Estados-Membros.\n\n4. Sem prejuízo dos requisitos mencionados nos n.os 1, 2 e 3, os Estados-Membros podem decidir designar como organismos notificados as organizações reconhecidas em conformidade com o disposto no artigo 3.o do regulamento relativo à prestação de serviços."
+  },
+  "656d915ac2b9e7b5": {
+   "fragment_id": "CAPÍTULO IV — DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — DISPOSIÇÕES FINAIS"
+  },
+  "1fd3afb32c9090d3": {
+   "fragment_id": "Artigo 9.º — Revisão dos anexos",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Revisão dos anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Revisão dos anexos\n\nEm caso de progressos técnicos ou operacionais, podem ser introduzidos ajustamentos aos anexos I e II nos termos do n.o 3 do artigo 5.o do regulamento-quadro."
+  },
+  "40910a1c75993385": {
+   "fragment_id": "Artigo 10.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições transitórias\n\n1. A partir de 20 de Outubro de 2005, os requisitos essenciais aplicam-se à entrada em serviço de sistemas e componentes da REGTA, salvo especificação em contrário nas regras de execução relevantes em matéria de interoperabilidade.\n\n2. Até 20 de Abril de 2011, será exigido o cumprimento dos requisitos essenciais relativamente a todos os sistemas e componentes da REGTA actualmente em funcionamento, salvo especificação em contrário nas regras de execução relevantes em matéria de interoperabilidade.\n\n3. Caso se tenham encomendado sistemas da REGTA ou, para esse efeito, se tenham assinado contratos de carácter vinculativo:\n\n- antes da data de entrada em vigor do presente regulamento, ou, quando adequado,\n\n- antes da data de entrada em vigor de uma ou várias regras de execução relevantes em matéria de interoperabilidade,\n\nnão podendo, por isso, garantir-se o cumprimento dos requisitos essenciais e/ou das regras de execução relevantes em matéria de interoperabilidade dentro do prazo mencionado no n.o 1, o Estado-Membro em questão deve fornecer à Comissão informações pormenorizadas sobre os requisitos essenciais e/ou as regras de execução em matéria de interoperabilidade em relação a cujo cumprimento haja incerteza.\n\nApós consulta às partes em questão, a Comissão toma uma decisão nos termos do n.o 3 do artigo 5.o do regulamento-quadro."
+  },
+  "47bdbfa6da0d6e88": {
+   "fragment_id": "Artigo 11.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Revogação\n\nAs Directivas 93/65/CEE e 97/15/CE e os Regulamentos (CE) n.o 2082/2000 e n.o 980/2002 são revogados com efeitos a partir de 20 de Outubro de 2005."
+  },
+  "bcc2ba3935da853c": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente regulamento entra em vigor 20 dias após o da sua publicação no Jornal Oficial da União Europeia.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Estrasburgo, em 10 de Março de 2004.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nP. Cox\n\nPelo Conselho\n\nO Presidente\n\nD. Roche\n\n(1) JO C 103 E de 30.4.2002, p. 41.\n\n(2) JO C 241 de 7.10.2002, p. 24.\n\n(3) JO C 278 de 14.11.2002, p. 13.\n\n(4) Parecer do Parlamento Europeu de 3 de Setembro de 2002 (JO C 272 E de 13.11.2003, p. 325), posição comum do Conselho de 18 de Março de 2003 (JO C 129 E de 3.6.2003, p. 26) e posição do Parlamento Europeu de 3 de Julho de 2003 (ainda não publicada no Jornal Oficial). Resolução legislativa do Parlamento Europeu de 29 de Janeiro de 2004 e decisão do Conselho de 2 de Fevereiro de 2004.\n\n(5) Ver página 10 do presente Jornal Oficial.\n\n(6) Ver página 20 do presente Jornal Oficial.\n\n(7) JO C 136 de 4.6.1985, p. 1.\n\n(8) Ver página 1do presente Jornal Oficial.\n\n(9) JO L 220 de 30.8.1993, p. 23.\n\n(10) JO L 187 de 29.7.1993, p. 52. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1).\n\n(11) JO L 95 de 10.4.1997, p. 16. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2082/2000 (JO L 254 de 9.10.2000, p. 1).\n\n(12) JO L 254 de 9.10.2000, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 980/2002 (JO L 150 de 8.6.2002, p. 38).\n\n(13) JO L 204 de 21.7.1998, p. 37. Directiva com a última redacção que lhe foi dada pela Directiva 98/48/CE (JO L 217 de 5.8.1998, p. 18)."
+  },
+  "0aa71c16e8241b0d": {
+   "fragment_id": "ANEXO I — LISTAS DE SISTEMAS PARA SERVIÇOS DE NAVEGAÇÃO AÉREA",
+   "type": "divisao",
+   "heading": "ANEXO I — LISTAS DE SISTEMAS PARA SERVIÇOS DE NAVEGAÇÃO AÉREA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — LISTAS DE SISTEMAS PARA SERVIÇOS DE NAVEGAÇÃO AÉREA\n\nPara efeitos do disposto no presente regulamento, a REGTA é subdividida em oito sistemas.\n\n1. Sistemas e procedimentos para a gestão do espaço aéreo.\n\n2. Sistemas e procedimentos para a gestão do fluxo de tráfego aéreo.\n\n3. Sistemas e procedimentos para os serviços de tráfego aéreo, em especial os sistemas de processamento dos dados de voo (FDPS), sistemas de processamento dos dados de vigilância (SDPS) e sistemas de interface homem-máquina.\n\n4. Sistemas e procedimentos de comunicação, para comunicações solo-solo, ar-solo e ar-ar.\n\n5. Sistemas e procedimentos de navegação.\n\n6. Sistemas e procedimentos de vigilância.\n\n7. Sistemas e procedimentos para serviços de informação aeronáutica.\n\n8. Sistemas e procedimentos para utilização de informação meteorológica."
+  },
+  "8a18f5ae6185b20d": {
+   "fragment_id": "ANEXO II — REQUISITOS ESSENCIAIS",
+   "type": "divisao",
+   "heading": "ANEXO II — REQUISITOS ESSENCIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — REQUISITOS ESSENCIAIS"
+  },
+  "1b77f5c6162cbc76": {
+   "fragment_id": "Parte A: Requisitos gerais",
+   "type": "divisao",
+   "heading": "Parte A: Requisitos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte A: Requisitos gerais\n\nTrata-se de requisitos a nível da rede, geralmente aplicáveis a cada um dos sistemas identificados no anexo I.\n\n1. Operação uniforme\n\nOs sistemas de gestão do tráfego aéreo e os respectivos componentes serão concebidos, fabricados, mantidos e operados, segundo os processos adequados e validados, de forma a assegurar a operação uniforme da REGTA, a todo o momento e em todas as fases do voo. A operação uniforme pode ser expressa, em especial, em termos de partilha de informações, incluindo informações relevantes sobre a situação operacional, interpretação comum das informações, desempenhos comparáveis de processamento e procedimentos conexos que permitam desempenhos operacionais comuns, aprovados para a totalidade ou partes da REGTA.\n\n2. Apoio a novos conceitos operacionais\n\nA REGTA, os seus sistemas e os respectivos componentes apoiarão, numa base coordenada, conceitos operacionais novos, aprovados e validados que melhorem a qualidade e eficácia dos serviços de navegação aérea, nomeadamente em termos de segurança e de capacidade.\n\nSerá analisado o potencial de novos conceitos, como, por exemplo, o processo decisório colaborativo, o aumento de automatização e métodos alternativos de delegação da responsabilidade em matéria de separação, tomando em consideração os progressos da tecnologia e a sua segura aplicação, no seguimento da validação.\n\n3. Segurança\n\nOs sistemas e operações da REGTA devem alcançar níveis elevados de segurança acordados. Para este efeito, serão estabelecidas metodologias acordadas de gestão da segurança e de relato de eventos no domínio da segurança.\n\nEm relação aos sistemas pertinentes baseados em terra ou a partes desses sistemas, esses elevados níveis de segurança serão reforçados por redes de segurança que obedecerão às características de desempenho comuns acordadas.\n\nSerá definido um conjunto harmonizado de requisitos de segurança para a concepção, execução, manutenção e operação dos sistemas e seus componentes, em modos de funcionamento normais e degradados, com o objectivo de alcançar os níveis de segurança acordados, para todas as fases do voo e para toda a REGTA.\n\nOs sistemas serão concebidos, fabricados, mantidos e operados segundo os processos adequados e validados, de forma a que as tarefas atribuídas aos controladores sejam compatíveis com as capacidades humanas, em modos de funcionamento normais e degradados, e conformes com os níveis de segurança exigidos.\n\nOs sistemas serão concebidos, fabricados, mantidos e operados segundo os processos adequados e validados, de forma a estarem isentos de interferências nocivas no seu ambiente operacional normal.\n\n4. Coordenação civil-militar\n\nA REGTA, os seus sistemas e os respectivos componentes apoiarão a progressiva execução da coordenação civil-militar, na medida do necessário para uma gestão efectiva do espaço aéreo e do fluxo de tráfego aéreo e uma utilização segura e eficiente do espaço aéreo por todos os utilizadores, através da aplicação do conceito de utilização flexível do espaço aéreo.\n\nPara alcançar esses objectivos, a REGTA, os seus sistemas e os respectivos componentes apoiarão a partilha atempada de informações correctas e coerentes entre as partes civis e militares, relativamente a todas as fases do voo.\n\nDevem ser tidos em conta os requisitos de segurança nacional.\n\n5. Limitações ambientais\n\nOs sistemas e operações da REGTA terão em conta a necessidade de minimizar o impacto ambiental, de acordo com a legislação comunitária.\n\n6. Princípios que regem a arquitectura lógica dos sistemas\n\nOs sistemas serão concebidos e gradualmente integrados a fim de alcançar uma arquitectura lógica coerente e cada vez mais harmonizada, evolutiva e validada na REGTA.\n\n7. Princípios que regem o fabrico dos sistemas\n\nOs sistemas serão concebidos, fabricados e mantidos com base em princípios sólidos de engenharia, em especial no que se refere à modularidade, possibilidade de permutabilidade dos componentes, elevada disponibilidade, redundância e tolerância à falha dos componentes essenciais."
+  },
+  "10739e6072f0fa4f": {
+   "fragment_id": "Parte B: Requisitos específicos",
+   "type": "divisao",
+   "heading": "Parte B: Requisitos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte B: Requisitos específicos\n\nTrata-se de requisitos específicos de cada um dos sistemas e que complementam ou aperfeiçoam os requisitos gerais.\n\n1. Sistemas e procedimentos para a gestão do espaço aéreo\n\n1.1. Operação uniforme\n\nA informação relativa a aspectos pré-tácticos e tácticos da disponibilidade do espaço aéreo deverá ser prestada a todos os envolvidos de forma correcta e atempada, de forma a assegurar uma atribuição e utilização eficientes do espaço aéreo por todos os utilizadores desse espaço. A disponibilização de tal informação deve ter em conta as exigências de segurança nacional.\n\n2. Sistemas e procedimentos para a gestão do fluxo de tráfego aéreo\n\n2.1. Operação uniforme\n\nOs sistemas e procedimentos da gestão do fluxo de tráfego aéreo devem apoiar a partilha de informação de voo estratégica, pré-táctica e táctica, conforme o caso, que seja correcta, coerente e relevante e que cubra todas as fases do voo, bem como proporcionar funcionalidades de diálogo, tendo em vista a optimização da utilização do espaço aéreo.\n\n3. Sistemas e procedimentos para os serviços de tráfego aéreo\n\n3.1. Sistemas de processamento dos dados de voo\n\n3.1.1. Operação uniforme\n\nOs sistemas de processamento de dados de voo devem ser interoperáveis em termos de partilha atempada de informações correctas e coerentes e proporcionar uma interpretação operacional comum de tais informações por forma a assegurar um processo de planificação coerente e consistente e uma coordenação táctica eficiente em termos de recursos, em toda a REGTA, durante todas as fases de voo.\n\nPara assegurar um processamento seguro, sem dificuldades e rápido em toda a REGTA, os desempenhos do processamento dos dados de voo devem ser equivalentes e adequados a um meio determinado (solo, espaço aéreo terminal (TMA) e rota), com características de tráfego conhecidas e conformes a um conceito operacional aprovado e validado, especialmente em termos de precisão e de tolerância a erros dos resultados do processamento.\n\n3.1.2. Apoio a novos conceitos operacionais\n\nOs sistemas de processamento dos dados de voo devem permitir acomodar a aplicação progressiva de conceitos operacionais avançados, aprovados e validados para todas as fases de voo.\n\nAs características dos instrumentos altamente automatizados devem permitir um processamento pré-táctico e táctico coerente e eficiente da informação de voo em partes da REGTA.\n\nOs sistemas de bordo e terrestres e os seus componentes que sustentem novos conceitos operacionais aprovados e validados serão concebidos, fabricados, mantidos e operados, segundo os processos adequados e validados, de forma a assegurar a interoperabilidade em termos de partilha atempada de informações correctas e coerentes e de uma interpretação comum da situação operacional actual e prevista.\n\n3.2. Sistemas de processamento dos dados de vigilância\n\n3.2.1. Operação uniforme\n\nOs sistemas de processamento dos dados de vigilância serão concebidos, fabricados, mantidos e operados, segundo os processos adequados e validados, de forma a proporcionar o desempenho e a qualidade de serviço exigidos num meio determinado (solo, TMA e rota), com características de tráfego conhecidas, especialmente em termos de precisão e fiabilidade dos resultados calculados, correcção, integridade, disponibilidade, continuidade e prontidão da informação na posição de controlo.\n\nOs sistemas de processamento dos dados de vigilância devem permitir a partilha atempada entre si de informações relevantes, exactas, consistentes e coerentes para garantir a optimização das operações nas diferentes partes da REGTA.\n\n3.2.2. Apoio a novos conceitos operacionais\n\nOs sistemas de processamento dos dados de vigilância devem permitir acomodar a disponibilização progressiva de novas fontes de informações de vigilância de forma a melhorar a qualidade global do serviço.\n\n3.3. Sistemas de interface homem-máquina\n\n3.3.1. Operação uniforme\n\nAs interfaces homem-máquina dos sistemas terrestres de gestão do tráfego aéreo serão concebidas, fabricadas, mantidas e operadas, segundo os processos adequados e validados, de forma a proporcionar um ambiente de trabalho progressivamente harmonizado a todos os controladores, incluindo aspectos funcionais e ergonómicos, que satisfaçam o desempenho exigido num meio determinado (solo, TMA e rota) com características de tráfego conhecidas.\n\n3.3.2. Apoio a novos conceitos operacionais\n\nOs sistemas de interface homem-máquina devem permitir acomodar a introdução progressiva de conceitos operacionais novos, aprovados e validados e o aumento da automatização, de forma a que as tarefas atribuídas aos controladores se mantenham compatíveis com as capacidades humanas, em modos de funcionamento normais e degradados.\n\n4. Sistemas e procedimentos de comunicação para comunicações solo-solo, ar-solo e ar-ar\n\n4.1. Operação uniforme\n\nOs sistemas de comunicação serão concebidos, fabricados, mantidos e operados, segundo os processos adequados e validados, de forma a alcançar o desempenho exigido num volume determinado de espaço aéreo ou para uma aplicação específica, especialmente em termos de tempo de processamento da comunicação, integridade, disponibilidade e continuidade de serviço.\n\nA rede de comunicações na REGTA deverá permitir satisfazer as exigências de qualidade de serviço, cobertura e redundância.\n\n4.2. Apoio a novos conceitos operacionais\n\nOs sistemas de comunicação devem apoiar a implementação de conceitos operacionais avançados, aprovados e validados para todas as fases de voo.\n\n5. Sistemas e procedimentos de navegação\n\n5.1. Operação uniforme\n\nOs sistemas de navegação serão concebidos, fabricados, mantidos e operados segundo os processos adequados e validados, de forma a alcançar o desempenho exigido da navegação horizontal e vertical, especialmente em termos de precisão e capacidade funcional para um meio determinado (solo, TMA e rota) com características de tráfego conhecidas, e explorados de acordo com um conceito operacional aprovado e validado.\n\n6. Sistemas e procedimentos de vigilância\n\n6.1. Operação uniforme\n\nOs sistemas de vigilância serão concebidos, fabricados, mantidos e operados segundo os processos adequados e validados, de forma a alcançar o desempenho exigido aplicável num meio determinado (solo, TMA e rota) com características de tráfego conhecidas, e explorados de acordo com um conceito operacional aprovado e validado, especialmente em termos de precisão, cobertura, alcance e qualidade de serviço.\n\nA rede de vigilância na REGTA deverá permitir satisfazer as exigências de precisão, prontidão, cobertura e redundância. A rede de vigilância permitirá a partilha dos dados de vigilância a fim de melhorar as operações em toda a REGTA.\n\n7. Sistemas e procedimentos para serviços de informação aeronáutica\n\n7.1. Operação uniforme\n\nDeve ser progressivamente fornecida em formato electrónico informação aeronáutica precisa, atempada e coerente, com base num conjunto de dados aprovado de comum acordo e normalizado.\n\nSerá disponibilizada em tempo útil informação aeronáutica precisa e coerente, especialmente no que se refere aos componentes ou sistemas de bordo e de terra.\n\n7.2. Apoio a novos conceitos operacionais\n\nSerá disponibilizada e utilizada em tempo útil informação aeronáutica cada vez mais precisa, completa e actualizada para favorecer um aumento contínuo de eficiência na utilização do espaço aéreo e dos aeroportos.\n\n8. Sistemas e procedimentos para utilização de informação meteorológica\n\n8.1. Operação uniforme\n\nOs sistemas e procedimentos para utilização de informação meteorológica melhorarão a coerência e prontidão das suas prestações e a qualidade da sua apresentação, segundo um conjunto de dados aprovado.\n\n8.2. Apoio a novos conceitos operacionais\n\nOs sistemas e procedimentos para utilização de informação meteorológica melhorarão a prontidão da sua disponibilidade e a rapidez com que podem ser utilizados para favorecer um aumento contínuo de eficiência na utilização do espaço aéreo e dos aeroportos."
+  },
+  "a2c15af74cbe1267": {
+   "fragment_id": "ANEXO III — COMPONENTES",
+   "type": "divisao",
+   "heading": "ANEXO III — COMPONENTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — COMPONENTES\n\nDeclaração CE\n\n- de conformidade\n\n- de adequação para utilização\n\n1. Componentes\n\nOs componentes serão identificados nas regras de execução em matéria de interoperabilidade, em conformidade com o artigo 3.o do presente regulamento.\n\n2. Âmbito de aplicação\n\nA declaração CE abrange:\n\n- a avaliação da conformidade intrínseca de um componente considerado isoladamente relativamente às especificações comunitárias a respeitar, ou\n\n- a avaliação/decisão relativa à adequação para utilização de um componente considerado no seu ambiente de gestão do tráfego aéreo.\n\nOs procedimentos de avaliação aplicados pelos organismos notificados nas fases de concepção e fabrico basear-se-ão nos módulos definidos na Decisão 93/465/CEE, de acordo com as condições estabelecidas nas regras de execução relevantes em matéria de interoperabilidade.\n\n3. Teor da declaração CE\n\nA declaração CE de conformidade ou de adequação para utilização e os documentos que a acompanham devem ser assinados e datados.\n\nA declaração deve ser redigida na mesma língua das instruções e conter:\n\n- as referências do regulamento,\n\n- nome e endereço do fabricante ou do seu representante autorizado estabelecido na Comunidade (indicar o nome comercial e endereço completo e, no caso do representante autorizado, indicar igualmente o nome comercial do fabricante),\n\n- a descrição do componente,\n\n- a descrição do procedimento adoptado para declarar a conformidade ou a adequação para utilização (artigo 5.o do presente regulamento),\n\n- todas as disposições relevantes que o componente respeita e, em especial, as condições da sua utilização,\n\n- caso aplicável, o nome e endereço do organismo ou organismos notificados envolvidos no procedimento aplicado no que se refere à conformidade ou à adequação para utilização e data do certificado de exame, bem como, se necessário, o prazo e as condições de validade do certificado,\n\n- se necessário, a referência das especificações comunitárias seguidas,\n\n- a identificação do signatário com poderes para assumir compromissos em nome do fabricante ou do seu representante autorizado estabelecido na Comunidade."
+  },
+  "bb5b674e45020abb": {
+   "fragment_id": "ANEXO IV — SISTEMAS",
+   "type": "divisao",
+   "heading": "ANEXO IV — SISTEMAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — SISTEMAS\n\nDeclaração CE de verificação de sistemas\n\nProcedimento de verificação para sistemas\n\n1. Teor da declaração CE de verificação de sistemas\n\nA declaração CE de verificação e os documentos que a acompanham devem ser datados e assinados. A referida declaração deve ser redigida na mesma língua do processo técnico e conter:\n\n- as referências do regulamento,\n\n- nome e endereço do prestador de serviços de navegação aérea (nome comercial e endereço completo),\n\n- uma breve descrição do sistema,\n\n- a descrição do procedimento adoptado para declarar a conformidade do sistema (artigo 6.o do presente regulamento),\n\n- se aplicável, o nome e endereço do organismo notificado que realizou tarefas ligadas ao procedimento de verificação,\n\n- as referências dos documentos contidos no processo técnico,\n\n- se necessário, a referência às especificações comunitárias,\n\n- todas as disposições relevantes provisórias ou definitivas que os sistemas devem respeitar e, em especial, se necessário, as restrições ou condicionalismos operacionais,\n\n- caso seja temporária: o período de validade da declaração CE,\n\n- a identificação do signatário.\n\n2. Procedimento de verificação para sistemas\n\nA verificação dos sistemas consiste no procedimento através do qual um prestador de serviços de navegação aérea controla e certifica a conformidade de um sistema com o presente regulamento e garante que o sistema em causa pode entrar em funcionamento com base no presente regulamento.\n\nO sistema é controlado relativamente a cada um dos seguintes aspectos:\n\n- concepção global,\n\n- desenvolvimento e integração do sistema, incluindo, em especial, a montagem de componentes e as adaptações gerais,\n\n- integração operacional do sistema,\n\n- disposições específicas relativas à manutenção do sistema, se necessário.\n\nQuando as regras de execução relevantes em matéria de interoperabilidade exigirem a participação de um organismo notificado, este, após ter realizado as tarefas que lhe são impostas pelas regras pertinentes, emitirá um certificado de conformidade relativamente às tarefas que tiver efectuado. Este certificado destinar-se-á ao prestador de serviços de navegação aérea. Este último elabora em seguida a declaração CE de verificação destinada à autoridade supervisora nacional.\n\n3. Processo técnico\n\nO processo técnico que acompanha a declaração CE de verificação deve conter todos os documentos necessários relativos às características do sistema, incluindo as condições e limites da sua utilização, bem como, se necessário, os documentos que certificam a conformidade dos componentes.\n\nNo mínimo, devem ser incluídos os seguintes documentos:\n\n- indicação das partes relevantes das especificações técnicas utilizadas para as aquisições públicas que asseguram o cumprimento das regras de aplicação relevantes em matéria de interoperabilidade e, se necessário, das especificações comunitárias,\n\n- lista dos componentes, tal como referido no artigo 3.o do presente regulamento,\n\n- cópias da declaração CE de conformidade ou de adequação para utilização, que deve acompanhar os componentes acima referidos de acordo com o disposto no artigo 5.o do presente regulamento, juntamente, se necessário, com uma cópia dos registos dos ensaios e exames realizados pelos organismos notificados,\n\n- no caso de um organismo notificado ter sido envolvido na verificação de um ou mais sistemas, um certificado por este rubricado declarando a conformidade do sistema com o presente regulamento e mencionando todas as reservas registadas durante o desempenho de actividades e não retiradas,\n\n- caso não tenha sido envolvido um organismo notificado, um registo dos ensaios e das configurações da instalação destinadas a garantir a conformidade com os requisitos essenciais e quaisquer requisitos específicos consagrados nas regras de aplicação relevantes em matéria de interoperabilidade.\n\n4. Apresentação\n\nO processo técnico deve acompanhar a declaração CE de verificação que o prestador de serviços de navegação aérea apresenta à autoridade supervisora nacional.\n\nO prestador de serviços de navegação aérea deve conservar uma cópia do processo técnico durante o período de vida útil do sistema. Tal cópia deve ser enviada a qualquer Estado-Membro que o solicite."
+  },
+  "7bda8a9ea6ab7bac": {
+   "fragment_id": "ANEXO V — ORGANISMOS NOTIFICADOS",
+   "type": "divisao",
+   "heading": "ANEXO V — ORGANISMOS NOTIFICADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — ORGANISMOS NOTIFICADOS\n\n1. O organismo, o seu director e o pessoal responsável pela realização dos controlos podem não ser envolvidos, directamente ou na qualidade de representantes autorizados, na concepção, fabrico, comercialização ou manutenção dos componentes ou sistemas ou na respectiva utilização. Isto não exclui a possibilidade de o fabricante ou construtor e esse organismo procederem a um intercâmbio de informações técnicas.\n\n2. O organismo e o pessoal responsável pela realização dos controlos deve efectuá-los com a maior integridade profissional e competência técnica possíveis e estar isento de pressões e incentivos, em especial de natureza financeira, que possam afectar a sua apreciação ou os resultados das inspecções, especialmente por parte de pessoas ou grupos de pessoas afectados por esses resultados.\n\n3. O organismo deve empregar pessoal e possuir os meios necessários para efectuar adequadamente as tarefas técnicas e administrativas ligadas aos controlos e ter acesso ao equipamento necessário a eventuais controlos excepcionais.\n\n4. O pessoal responsável pela inspecção deve ter:\n\n- uma formação técnica e profissional sólida,\n\n- um conhecimento satisfatório dos requisitos das inspecções que realizam e uma experiência adequada no domínio de tais operações,\n\n- a capacidade necessária para elaborar declarações, registos e relatórios para demonstrar a realização das inspecções.\n\n5. Deve ser garantida a imparcialidade do pessoal responsável pelas inspecções. A respectiva remuneração não deve depender do número de inspecções realizadas, nem dos resultados das mesmas.\n\n6. O organismo deve subscrever um seguro de responsabilidade, excepto se o Estado-Membro a assumir, em conformidade com a legislação nacional, ou o próprio Estado-Membro for directamente responsável pelas inspecções.\n\n7. O pessoal do organismo deve respeitar a obrigação de sigilo profissional no que se refere a todas as informações obtidas durante a realização das suas tarefas ao abrigo do presente regulamento."
+  },
+  "6ed25a27367e2fe0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Março de 2004\n\nrelativo à interoperabilidade da rede europeia de gestão do tráfego aéreo\n\n(«regulamento relativo à interoperabilidade»)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 80.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado, tendo em conta o projecto comum aprovado pelo Comité de Conciliação em 11 de Dezembro de 2003 ([^4^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#E0004)),\n\n(1) A criação do céu único europeu implica a adopção de medidas relativas aos sistemas, componentes e procedimentos associados, com o objectivo de assegurar a interoperabilidade da rede europeia de gestão do tráfego aéreo, a seguir designada «REGTA», em coerência com a prestação de serviços de navegação aérea, tal como previsto no Regulamento (CE) n.º 550/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à prestação de serviços de navegação aérea no céu único europeu, a seguir designado «regulamento relativo à prestação de serviços» ([^5^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#E0005)), e com a organização e utilização do espaço aéreo, tal como previsto no Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004 ([^6^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#E0006)), a seguir designado «regulamento relativo ao espaço aéreo».\n\n(2) O relatório do grupo de alto nível do céu único europeu confirmou a necessidade de adoptar regulamentação técnica com base na «nova abordagem» em conformidade com a resolução do Conselho, de 7 de Maio de 1985, relativa a uma nova abordagem em matéria de harmonização e de normalização ([^7^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#E0007)), de acordo com a qual os requisitos essenciais, as regras e os padrões devem ser complementares e coerentes.\n\n(3) O Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004 ([^8^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#E0008)), a seguir designado «regulamento-quadro», estabelece o quadro para a realização do céu único europeu.\n\n(4) O relatório do grupo de alto nível confirmou que, apesar dos progressos realizados nos últimos anos no que se refere à operação uniforme da REGTA, a situação continua a ser insatisfatória, caracterizando-se por um nível reduzido de integração dos sistemas nacionais de gestão do tráfego aéreo e um ritmo lento de introdução dos novos conceitos operacionais e tecnológicos necessários para libertar a capacidade adicional requerida.\n\n(5) Melhorar o nível de integração a nível comunitário terá como resultado uma melhor eficácia e custos inferiores no que se refere às aquisições públicas e manutenção de sistemas, bem como uma melhor coordenação operacional.\n\n(6) A predominância de especificações técnicas nacionais nas aquisições públicas levou à fragmentação do mercado de sistemas e não facilita a cooperação industrial a nível comunitário. Consequentemente, a indústria é particularmente afectada por esta situação, uma vez que precisa de adaptar substancialmente os seus produtos para satisfazer cada mercado nacional. As práticas vigentes dificultam desnecessariamente o desenvolvimento e a aplicação de novas tecnologias e abrandam o ritmo de introdução dos novos conceitos operacionais necessários para aumentar a capacidade.\n\n(7) Por conseguinte, interessa a todos os envolvidos na gestão do tráfego aéreo o desenvolvimento de uma nova abordagem de parceria que permita o envolvimento equilibrado de todos e estimule a criatividade, bem como a partilha de conhecimentos, experiências e riscos. Esta parceria deve destinar-se a definir, juntamente com a indústria, um conjunto coerente de especificações comunitárias capazes de satisfazer uma gama de necessidades o mais ampla possível.\n\n(8) O mercado interno é um objectivo da Comunidade, pelo que as medidas tomadas ao abrigo do presente regulamento deverão contribuir para o seu desenvolvimento progressivo neste sector.\n\n(9) Consequentemente, é oportuno definir requisitos essenciais aplicáveis à REGTA, aos seus sistemas, componentes e procedimentos associados.\n\n(10) Sempre que necessário, devem ser elaboradas regras de execução em matéria de interoperabilidade para os sistemas, a fim de complementar ou aperfeiçoar os requisitos essenciais. Sempre que necessário, devem igualmente ser elaboradas regras de execução naquela matéria para facilitar a introdução coordenada de conceitos operacionais ou tecnológicos novos, aprovados e validados. O cumprimento dessas regras deve ser permanentemente assegurado. Tais regras devem basear-se em normas e padrões desenvolvidos por organizações internacionais, tais como o Eurocontrol ou a Organização da Aviação Civil Internacional (OACI).\n\n(11) O desenvolvimento e a adopção de especificações comunitárias relativas à REGTA, aos seus sistemas e componentes e procedimentos associados são um meio adequado para definir as condições técnicas e operacionais necessárias à satisfação dos requisitos essenciais e as regras de execução relevantes em matéria de interoperabilidade. O cumprimento das especificações comunitárias publicadas, que continua a ser facultativo, cria uma presunção de conformidade com os requisitos essenciais e as regras de execução relevantes em matéria de interoperabilidade.\n\n(12) As especificações comunitárias devem ser estabelecidas pelos organismos europeus de normalização, em conjunto com a Organização Europeia para o Equipamento da Aviação Civil, a seguir designada «Eurocae», e pelo Eurocontrol, em conformidade com os procedimentos comunitários gerais no domínio da normalização.\n\n(13) Os procedimentos que regem a avaliação da conformidade ou a adequação para utilização dos componentes devem basear-se nos módulos definidos na Decisão 93/465/CEE do Conselho, de 22 de Julho de 1993, relativa aos módulos referentes às diversas fases dos procedimentos de avaliação da conformidade e às regras de aposição e de utilização da marcação «CE» de conformidade, destinados a ser utilizados nas directivas de harmonização técnica ([^9^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#E0009)). Estes módulos devem poder ser ampliados na medida do necessário para abranger os requisitos específicos dos sectores em causa.\n\n(14) O mercado em questão é de pequenas dimensões e abrange sistemas e componentes para utilização quase exclusiva na gestão do tráfego aéreo e não destinados ao público em geral. Por conseguinte, seria excessivo exigir a aposição da marcação «CE» nos componentes, uma vez que, com base na avaliação da conformidade e/ou da adequação para utilização, a declaração de conformidade do fabricante é suficiente. Não obstante, tal não deve dispensar os fabricantes da obrigação de aposição da marcação «CE» em certos componentes para certificar a sua conformidade com outras disposições comunitárias que lhes sejam aplicáveis.\n\n(15) A colocação em serviço dos sistemas de gestão do tráfego aéreo deve estar condicionada à verificação da conformidade com os requisitos essenciais e as regras de execução relevantes em matéria de interoperabilidade. Da conformidade com as especificações comunitárias deve decorrer a presunção de conformidade com os requisitos essenciais e as regras de execução relevantes em matéria de interoperabilidade.\n\n(16) A plena aplicação do presente regulamento deve processar-se de acordo com uma estratégia de transição que procure realizar os objectivos do presente regulamento sem criar obstáculos injustificados à preservação da infra-estrutura existente, em termos de custo-benefício.\n\n(17) No quadro da legislação comunitária relevante, será necessário ter devidamente em conta a necessidade de assegurar: — condições harmonizadas em termos de disponibilidade e de utilização eficiente do espectro de radiofrequências necessário à realização do céu único europeu, incluindo os aspectos da compatibilidade electromagnética, — a protecção dos serviços de segurança da vida humana contra interferências nocivas, — a utilização eficiente e adequada das frequências exclusivamente atribuídas ao sector da aviação e por este geridas.\n\n(18) A Directiva 93/65/CEE do Conselho, de 19 de Julho de 1993, relativa à definição e à utilização de especificações técnicas compatíveis para a aquisição de equipamentos e de sistemas para a gestão do tráfego aéreo ([^10^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#E0010)), refere-se apenas às obrigações das entidades adjudicantes. O presente regulamento é mais abrangente, visto referir-se às obrigações de todas as partes envolvidas, nomeadamente dos prestadores de serviços de navegação aérea, dos utilizadores do espaço aéreo, da indústria e dos aeroportos, e permitir a adopção tanto de regras de aplicação universal como de especificações comunitárias das quais, apesar de serem voluntárias, decorre a presunção de conformidade com os requisitos essenciais. Por conseguinte, a Directiva 93/65/CEE, a Directiva 97/15/CE da Comissão, de 25 de Março de 1997, que adopta as normas Eurocontrol e altera a Directiva 93/65/CEE do Conselho relativa à definição e à utilização de especificações técnicas compatíveis para a aquisição de equipamentos e de sistemas para a gestão do tráfego aéreo ([^11^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#E0011)), o Regulamento (CE) n.º 2082/2000 da Comissão, de 6 de Setembro de 2000, que adopta normas Eurocontrol e altera a Directiva 97/15/CE que adopta as normas Eurocontrol e altera a Directiva 93/65/CEE do Conselho ([^12^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#E0012)), e o Regulamento (CE) n.º 980/2002 da Comissão, de 4 de Junho de 2002, que altera o Regulamento (CE) n.º 2082/2000 que adopta normas Eurocontrol, devem ser revogados no final de um período transitório.\n\n(19) Por razões de segurança jurídica é necessário assegurar que se mantenham em vigor, sem alteração quanto à substância, certas disposições de actos legislativos comunitários aprovados com base na Directiva 93/65/CEE. A aprovação ao abrigo do presente regulamento das regras de execução correspondentes a essas disposições levará algum tempo,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "f99a0d4068c9a93e": {
+   "fragment_id": "REQUISITOS ESSENCIAIS, REGRAS DE EXECUÇÃO EM MATÉRIA DE INTEROPERABILIDADE E ESPECIFICAÇÕES COMUNITÁRIAS",
+   "type": "divisao",
+   "heading": "REQUISITOS ESSENCIAIS, REGRAS DE EXECUÇÃO EM MATÉRIA DE INTEROPERABILIDADE E ESPECIFICAÇÕES COMUNITÁRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS ESSENCIAIS, REGRAS DE EXECUÇÃO EM MATÉRIA DE INTEROPERABILIDADE E ESPECIFICAÇÕES COMUNITÁRIAS"
+  },
+  "4c7c671cf6ce9df9": {
+   "fragment_id": "Artigo 3.º — Regras de execução em matéria de interoperabilidade",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Regras de execução em matéria de interoperabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regras de execução em matéria de interoperabilidade\n\n1. As regras de execução em matéria de interoperabilidade devem ser elaboradas sempre que necessário para alcançar os objectivos do presente regulamento de uma forma coerente.\n\n2. Os sistemas, componentes e procedimentos associados devem cumprir as regras de execução relevantes em matéria de interoperabilidade durante o respectivo ciclo de vida.\n\n3. As regras de execução em matéria de interoperabilidade devem, em especial:\n\na) Determinar eventuais requisitos específicos que complementem ou aperfeiçoem os requisitos essenciais, em especial em termos de segurança, de operação uniforme e de desempenho; e/ou\n\nb) Descrever, quando adequado, quaisquer requisitos específicos que complementem ou aperfeiçoem os requisitos essenciais, em especial no tocante à introdução coordenada de conceitos operacionais ou tecnológicos novos, aprovados e validados; e/ou\n\nc) Determinar os componentes quando se trata de sistemas; e/ou\n\nd) Descrever os procedimentos específicos de avaliação da conformidade que envolvam, quando adequado, os organismos notificados referidos no artigo 8.º, com base nos módulos definidos na Decisão 93/465/CEE, que serão utilizados a fim de avaliar a conformidade ou a adequação para utilização dos componentes, bem como a verificação dos sistemas; e/ou\n\ne) Especificar as condições de execução, incluindo, quando adequado, o prazo em que todos os interessados as têm de cumprir.\n\n4. A preparação, adopção e análise das regras de execução em matéria de interoperabilidade tem em conta os custos e benefícios estimados de soluções técnicas que permitam cumprir essas regras, com o objectivo de definir a solução mais viável, tendo devidamente em conta a manutenção de um nível elevado de segurança acordado. Uma avaliação dos custos e benefícios, para todas as partes interessadas, deve acompanhar cada projecto de regra de execução em matéria de interoperabilidade.\n\n5. As regras de execução em matéria de interoperabilidade são estabelecidas nos termos do artigo 8.º do regulamento-quadro."
+  },
+  "77706d35058905d8": {
+   "fragment_id": "Artigo 4.º — Especificações comunitárias",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Especificações comunitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Especificações comunitárias\n\n1. Para alcançar o objectivo do presente regulamento, podem ser estabelecidas especificações comunitárias, designadamente:\n\na) Normas europeias para sistemas ou componentes, juntamente com os procedimentos pertinentes, elaboradas pelos organismos europeus de normalização em cooperação com a Eurocae, com base num mandato conferido pela Comissão em conformidade com o n.º 4 do artigo 6.º da Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação ([^13^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#E0013)), e de acordo com as orientações gerais para a cooperação entre a Comissão e os organismos de normalização, assinadas em 13 de Novembro de 1984;\n\nb) Especificações relativas à coordenação operacional entre os prestadores de serviços de navegação aérea elaboradas pelo Eurocontrol, em resposta a um pedido da Comissão nos termos do n.º 2 do artigo 5.º do regulamento-quadro.\n\n2. Presume-se que os sistemas, juntamente com os procedimentos associados, ou os componentes que satisfaçam as especificações comunitárias pertinentes cujas referências tenham sido publicadas no *Jornal Oficial da União Europeia*, cumprem os requisitos essenciais e as regras de execução relevantes em matéria de interoperabilidade.\n\n3. A Comissão publica as referências às normas europeias, referidas na alínea a) do n.º 1, no *Jornal Oficial da União Europeia*.\n\n4. As referências às especificações do Eurocontrol, referidas na alínea b) do n.º 1, são publicadas pela Comissão no *Jornal Oficial da União Europeia* nos termos do n.º 2 do artigo 5.º do regulamento-quadro.\n\n5. Se um Estado-Membro ou a Comissão considerar que a conformidade com uma especificação comunitária publicada não garante o cumprimento dos requisitos essenciais e/ou das regras de execução em matéria de interoperabilidade que a referida especificação comunitária se destina a cobrir, aplica-se o procedimento referido no n.º 2 do artigo 5.º do regulamento-quadro.\n\n6. Em caso de insuficiência das normas europeias publicadas, a retirada total ou parcial dessas normas das publicações em que se encontrem, ou a alteração das referidas normas, pode ser decidida nos termos do n.º 2 do artigo 5.º do regulamento-quadro, após consulta ao comité criado ao abrigo do artigo 5.º da Directiva 98/34/CE.\n\n7. Em caso de insuficiência das especificações do Eurocontrol publicadas, a retirada total ou parcial dessas especificações das publicações em que se encontrem, ou a alteração das referidas especificações, pode ser decidida nos termos do n.º 2 do artigo 5.º do regulamento-quadro."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "18acfbacb608fa21": {
+   "fragment_id": "VERIFICAÇÃO DA CONFORMIDADE",
+   "type": "divisao",
+   "heading": "VERIFICAÇÃO DA CONFORMIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VERIFICAÇÃO DA CONFORMIDADE"
+  },
+  "9506d51ad8a426e7": {
+   "fragment_id": "Artigo 5.º — Declaração CE de conformidade ou de adequação para utilização de componentes",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Declaração CE de conformidade ou de adequação para utilização de componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Declaração CE de conformidade ou de adequação para utilização de componentes\n\n1. Os componentes devem ser acompanhados por uma declaração CE de conformidade ou de adequação para utilização. Os elementos desta declaração constam do anexo III.\n\n2. O fabricante, ou o seu representante autorizado estabelecido na Comunidade, deve assegurar e declarar, mediante a declaração CE de conformidade ou de adequação para utilização, que cumpriu os requisitos essenciais e as regras de execução relevantes em matéria de interoperabilidade.\n\n3. Presume-se que os componentes acompanhados de uma declaração CE de conformidade ou de adequação para utilização cumprem os requisitos essenciais e as regras de execução relevantes em matéria de interoperabilidade.\n\n4. As regras de execução relevantes em matéria de interoperabilidade identificam, quando adequado, as tarefas relacionadas com a avaliação da conformidade ou da adequação para utilização dos componentes que serão confiadas aos organismos notificados referidos no artigo 8.º"
+  },
+  "95208b03d821c50e": {
+   "fragment_id": "Artigo 6.º — Declaração CE de verificação de sistemas",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Declaração CE de verificação de sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Declaração CE de verificação de sistemas\n\n1. Os sistemas devem ser objecto de uma verificação CE por parte do prestador de serviços de navegação aérea de acordo com as regras de execução relevantes em matéria de interoperabilidade por forma a assegurar que satisfazem os requisitos essenciais do presente regulamento e as referidas regras quando integrados na REGTA.\n\n2. Antes da entrada em serviço de um sistema, o prestador de serviços de navegação aérea em causa deve elaborar uma declaração CE de verificação que confirme o cumprimento e enviá-la à autoridade supervisora nacional, acompanhada por um processo técnico. Os elementos desta declaração e do processo técnico constam do anexo IV. A autoridade supervisora nacional pode exigir quaisquer informações suplementares necessárias à verificação do cumprimento.\n\n3. As regras de execução relevantes em matéria de interoperabilidade identificam, quando adequado, as tarefas relacionadas com a verificação de sistemas que serão confiadas aos organismos notificados referidos no artigo 8.º\n\n4. A declaração CE de verificação não prejudica as avaliações que a autoridade supervisora nacional possa ter que efectuar por motivos que não sejam a interoperabilidade."
+  },
+  "a0a7e3c6e9746f10": {
+   "fragment_id": "Artigo 6.º-A — Verificação alternativa do cumprimento",
+   "type": "artigo",
+   "heading": "Artigo 6.º-A — Verificação alternativa do cumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º-A — Verificação alternativa do cumprimento\n\nQualquer certificado emitido nos termos do Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho, de 20 de Fevereiro de 2008, relativo a regras comuns no domínio da aviação civil e que cria a Agência Europeia para a Segurança da Aviação ([^14^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#E0014)), desde que se aplique a componentes ou sistemas, é considerado, para efeitos do disposto nos artigos 5.º e 6.º do presente regulamento, como uma declaração CE de conformidade ou de aptidão para utilização ou como uma declaração CE de verificação, caso inclua uma demonstração do cumprimento dos requisitos essenciais do presente regulamento e das regras de execução aplicáveis em matéria de interoperabilidade."
+  },
+  "69d495ce08874ebe": {
+   "fragment_id": "Artigo 7.º — Salvaguardas",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Salvaguardas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Salvaguardas\n\n1. Se a autoridade supervisora nacional entender que:\n\na) Um componente que ostenta a declaração CE de conformidade ou de adequação para utilização; ou\n\nb) Um sistema acompanhado por uma declaração CE de verificação,\n\nnão cumpre todos os requisitos essenciais e/ou as regras de execução relevantes em matéria de interoperabilidade, deve tomar todas as medidas necessárias para restringir o âmbito de aplicação do componente ou do sistema em causa ou proibir a sua utilização pelas entidades tuteladas pela autoridade, tendo na devida conta a necessidade de assegurar a segurança e continuidade das operações.\n\n2. O Estado-Membro em questão informa imediatamente a Comissão dessas medidas, indicando a sua justificação e, em especial, se, na sua opinião, o incumprimento dos requisitos essenciais se deve:\n\na) Ao incumprimento dos requisitos essenciais;\n\nb) À aplicação incorrecta das regras de execução em matéria de interoperabilidade e/ou das especificações comunitárias;\n\nc) À insuficiência das regras de execução em matéria de interoperabilidade e/ou das especificações comunitárias.\n\n3. A Comissão consulta os interessados logo que possível. Após essa consulta, a Comissão informa os Estados-Membros das suas conclusões e se, na sua opinião, as medidas tomadas pela autoridade supervisora nacional se justificam.\n\n4. Se a Comissão concluir que as medidas tomadas pela autoridade supervisora nacional não se justificam, solicita ao Estado-Membro em questão que garanta que sejam revogadas sem demora. Deve informar imediatamente desse facto o fabricante ou o seu representante autorizado estabelecido na Comunidade.\n\n5. Se a Comissão concluir que o incumprimento dos requisitos essenciais se deve à incorrecta aplicação das regras de execução em matéria de interoperabilidade e/ou das especificações comunitárias, o Estado-Membro em causa deve tomar as medidas adequadas contra quem estiver na origem da declaração de conformidade ou de adequação para utilização ou da declaração CE de verificação e informar do facto a Comissão e os restantes Estados-Membros.\n\n6. Se a Comissão concluir que o incumprimento dos requisitos essenciais se deve a insuficiência das especificações comunitárias, aplicam-se os procedimentos referidos nos n.^os^ 6 ou 7 do artigo 4.º"
+  },
+  "6c0f6ccf5a7c7fff": {
+   "fragment_id": "Artigo 8.º — Organismos notificados",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Organismos notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Organismos notificados\n\n1. Os Estados-Membros notificam a Comissão e os restantes Estados-Membros sobre que organismos designaram para efectuarem as tarefas de avaliação da conformidade ou de adequação para utilização previstas no artigo 5.º e/ou a verificação referida no artigo 6.º, indicando os domínios da competência de cada organismo e o respectivo número de identificação previamente atribuído pela Comissão. A Comissão publica no *Jornal Oficial da União Europeia* a lista dos organismos, os respectivos números de identificação e domínios de competência e mantém a referida lista actualizada.\n\n2. Os Estados-Membros aplicam os critérios estabelecidos no anexo V para efeitos da avaliação dos organismos a notificar. Presume-se que os organismos que satisfazem os critérios de avaliação previstos nas normas europeias relevantes cumprem os referidos critérios.\n\n3. Os Estados-Membros devem retirar a notificação sempre que um organismo deixe de satisfazer os critérios estabelecidos no anexo V. Devem informar imediatamente desse facto a Comissão e os restantes Estados-Membros.\n\n4. Sem prejuízo dos requisitos mencionados nos n.^os^ 1, 2 e 3, os Estados-Membros podem decidir designar como organismos notificados as organizações reconhecidas em conformidade com o disposto no artigo 3.º do regulamento relativo à prestação de serviços."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "f5b63418dcf9f4c0": {
+   "fragment_id": "Artigo 9.º — Revisão dos anexos",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Revisão dos anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Revisão dos anexos\n\nAs medidas que têm por objecto alterar elementos não essenciais dos anexos, para ter em conta desenvolvimentos técnicos ou operacionais, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 4 do artigo 5.º do regulamento-quadro."
+  },
+  "cbde9026ef58f87d": {
+   "fragment_id": "Artigo 10.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições transitórias\n\n1. A partir de 20 de Outubro de 2005, os requisitos essenciais aplicam-se à entrada em serviço de sistemas e componentes da REGTA, salvo especificação em contrário nas regras de execução relevantes em matéria de interoperabilidade.\n\n2. Até 20 de Abril de 2011, será exigido o cumprimento dos requisitos essenciais relativamente a todos os sistemas e componentes da REGTA actualmente em funcionamento, salvo especificação em contrário nas regras de execução relevantes em matéria de interoperabilidade.\n\n2-A. Para efeitos do n.º 2 do presente artigo, os Estados-Membros podem declarar que os sistemas e componentes da REGTA cumprem os requisitos essenciais e ficam isentos do disposto nos artigos 5.º e 6.º.\n\n3. Caso se tenham encomendado sistemas da REGTA ou, para esse efeito, se tenham assinado contratos de carácter vinculativo:\n\n— antes da data de entrada em vigor do presente regulamento, ou, quando adequado,\n\n— antes da data de entrada em vigor de uma ou várias regras de execução relevantes em matéria de interoperabilidade,\n\nnão podendo, por isso, garantir-se o cumprimento dos requisitos essenciais e/ou das regras de execução relevantes em matéria de interoperabilidade dentro do prazo mencionado no n.º 1, o Estado-Membro em questão deve fornecer à Comissão informações pormenorizadas sobre os requisitos essenciais e/ou as regras de execução em matéria de interoperabilidade em relação a cujo cumprimento haja incerteza.\n\nApós consulta às partes em questão, a Comissão toma uma decisão nos termos do n.º 3 do artigo 5.º do regulamento-quadro."
+  },
+  "96331cd0043637f7": {
+   "fragment_id": "Artigo 11.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Revogação\n\nAs Directivas 93/65/CEE e 97/15/CE e os Regulamentos (CE) n.º 2082/2000 e n.º 980/2002 são revogados com efeitos a partir de 20 de Outubro de 2005."
+  },
+  "77c92dca6b39d7dd": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente regulamento entra em vigor 20 dias após o da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "6c1c42facb4f57fb": {
+   "fragment_id": "LISTAS DE SISTEMAS PARA SERVIÇOS DE NAVEGAÇÃO AÉREA",
+   "type": "divisao",
+   "heading": "LISTAS DE SISTEMAS PARA SERVIÇOS DE NAVEGAÇÃO AÉREA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTAS DE SISTEMAS PARA SERVIÇOS DE NAVEGAÇÃO AÉREA\n\nPara efeitos do disposto no presente regulamento, a REGTA é subdividida em oito sistemas.\n\n1. Sistemas e procedimentos para a gestão do espaço aéreo.\n\n2. Sistemas e procedimentos para a gestão do fluxo de tráfego aéreo.\n\n3. Sistemas e procedimentos para os serviços de tráfego aéreo, em especial os sistemas de processamento dos dados de voo (FDPS), sistemas de processamento dos dados de vigilância (SDPS) e sistemas de interface homem-máquina.\n\n4. Sistemas e procedimentos de comunicação, para comunicações solo-solo, ar-solo e ar-ar.\n\n5. Sistemas e procedimentos de navegação.\n\n6. Sistemas e procedimentos de vigilância.\n\n7. Sistemas e procedimentos para serviços de informação aeronáutica.\n\n8. Sistemas e procedimentos para utilização de informação meteorológica."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "d5a04583b961e97f": {
+   "fragment_id": "REQUISITOS ESSENCIAIS",
+   "type": "divisao",
+   "heading": "REQUISITOS ESSENCIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS ESSENCIAIS"
+  },
+  "cb4f437dcfb36447": {
+   "fragment_id": "Parte A: Requisitos gerais",
+   "type": "divisao",
+   "heading": "Parte A: Requisitos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: Requisitos gerais\n\nTrata-se de requisitos a nível da rede, geralmente aplicáveis a cada um dos sistemas identificados no anexo I."
+  },
+  "90061d3ec4a7a17f": {
+   "fragment_id": "1. Operação uniforme",
+   "type": "divisao",
+   "heading": "1. Operação uniforme",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Operação uniforme\n\nOs sistemas de gestão do tráfego aéreo e os respectivos componentes serão concebidos, fabricados, mantidos e operados, segundo os processos adequados e validados, de forma a assegurar a operação uniforme da REGTA, a todo o momento e em todas as fases do voo. A operação uniforme pode ser expressa, em especial, em termos de partilha de informações, incluindo informações relevantes sobre a situação operacional, interpretação comum das informações, desempenhos comparáveis de processamento e procedimentos conexos que permitam desempenhos operacionais comuns, aprovados para a totalidade ou partes da REGTA."
+  },
+  "2abb1459e874c187": {
+   "fragment_id": "2. Apoio a novos conceitos operacionais",
+   "type": "divisao",
+   "heading": "2. Apoio a novos conceitos operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Apoio a novos conceitos operacionais\n\nA REGTA e os seus sistemas e respectivos componentes apoiam, de forma coordenada, conceitos operacionais novos, aprovados e validados que melhorem a qualidade, a sustentabilidade e a eficácia dos serviços de navegação aérea, nomeadamente em termos de segurança e de capacidade.\n\nSerá analisado o potencial de novos conceitos, como, por exemplo, o processo decisório colaborativo, o aumento de automatização e métodos alternativos de delegação da responsabilidade em matéria de separação, tomando em consideração os progressos da tecnologia e a sua segura aplicação, no seguimento da validação."
+  },
+  "d9cbb350b043d3ba": {
+   "fragment_id": "3. Segurança",
+   "type": "divisao",
+   "heading": "3. Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Segurança\n\nOs sistemas e operações da REGTA devem alcançar níveis elevados de segurança acordados. Para este efeito, serão estabelecidas metodologias acordadas de gestão da segurança e de relato de eventos no domínio da segurança.\n\nEm relação aos sistemas pertinentes baseados em terra ou a partes desses sistemas, esses elevados níveis de segurança serão reforçados por redes de segurança que obedecerão às características de desempenho comuns acordadas.\n\nSerá definido um conjunto harmonizado de requisitos de segurança para a concepção, execução, manutenção e operação dos sistemas e seus componentes, em modos de funcionamento normais e degradados, com o objectivo de alcançar os níveis de segurança acordados, para todas as fases do voo e para toda a REGTA.\n\nOs sistemas serão concebidos, fabricados, mantidos e operados segundo os processos adequados e validados, de forma a que as tarefas atribuídas aos controladores sejam compatíveis com as capacidades humanas, em modos de funcionamento normais e degradados, e conformes com os níveis de segurança exigidos.\n\nOs sistemas serão concebidos, fabricados, mantidos e operados segundo os processos adequados e validados, de forma a estarem isentos de interferências nocivas no seu ambiente operacional normal."
+  },
+  "7ba1022aa1a16a9d": {
+   "fragment_id": "4. Coordenação civil-militar",
+   "type": "divisao",
+   "heading": "4. Coordenação civil-militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Coordenação civil-militar\n\nA REGTA, os seus sistemas e os respectivos componentes apoiarão a progressiva execução da coordenação civil-militar, na medida do necessário para uma gestão efectiva do espaço aéreo e do fluxo de tráfego aéreo e uma utilização segura e eficiente do espaço aéreo por todos os utilizadores, através da aplicação do conceito de utilização flexível do espaço aéreo.\n\nPara alcançar esses objectivos, a REGTA, os seus sistemas e os respectivos componentes apoiarão a partilha atempada de informações correctas e coerentes entre as partes civis e militares, relativamente a todas as fases do voo.\n\nDevem ser tidos em conta os requisitos de segurança nacional."
+  },
+  "29ce8c9011e8287e": {
+   "fragment_id": "5. Limitações ambientais",
+   "type": "divisao",
+   "heading": "5. Limitações ambientais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Limitações ambientais\n\nOs sistemas e operações da REGTA terão em conta a necessidade de minimizar o impacto ambiental, de acordo com a legislação comunitária."
+  },
+  "3b7ddf4d8f4e9a35": {
+   "fragment_id": "6. Princípios que regem a arquitectura lógica dos sistemas",
+   "type": "divisao",
+   "heading": "6. Princípios que regem a arquitectura lógica dos sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. Princípios que regem a arquitectura lógica dos sistemas\n\nOs sistemas serão concebidos e gradualmente integrados a fim de alcançar uma arquitectura lógica coerente e cada vez mais harmonizada, evolutiva e validada na REGTA."
+  },
+  "d966970b850a1749": {
+   "fragment_id": "7. Princípios que regem o fabrico dos sistemas",
+   "type": "divisao",
+   "heading": "7. Princípios que regem o fabrico dos sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. Princípios que regem o fabrico dos sistemas\n\nOs sistemas serão concebidos, fabricados e mantidos com base em princípios sólidos de engenharia, em especial no que se refere à modularidade, possibilidade de permutabilidade dos componentes, elevada disponibilidade, redundância e tolerância à falha dos componentes essenciais."
+  },
+  "ef8ede152af8b65f": {
+   "fragment_id": "Parte B: Requisitos específicos",
+   "type": "divisao",
+   "heading": "Parte B: Requisitos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: Requisitos específicos\n\nTrata-se de requisitos específicos de cada um dos sistemas e que complementam ou aperfeiçoam os requisitos gerais."
+  },
+  "3bd174845f000851": {
+   "fragment_id": "1. Sistemas e procedimentos para a gestão do espaço aéreo",
+   "type": "divisao",
+   "heading": "1. Sistemas e procedimentos para a gestão do espaço aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Sistemas e procedimentos para a gestão do espaço aéreo"
+  },
+  "6fde7a2c2753b68a": {
+   "fragment_id": "1.1. Operação uniforme",
+   "type": "divisao",
+   "heading": "1.1. Operação uniforme",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.1. Operação uniforme\n\nA informação relativa a aspectos pré-tácticos e tácticos da disponibilidade do espaço aéreo deverá ser prestada a todos os envolvidos de forma correcta e atempada, de forma a assegurar uma atribuição e utilização eficientes do espaço aéreo por todos os utilizadores desse espaço. A disponibilização de tal informação deve ter em conta as exigências de segurança nacional."
+  },
+  "058074bae2d96955": {
+   "fragment_id": "2. Sistemas e procedimentos para a gestão do fluxo de tráfego aéreo",
+   "type": "divisao",
+   "heading": "2. Sistemas e procedimentos para a gestão do fluxo de tráfego aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Sistemas e procedimentos para a gestão do fluxo de tráfego aéreo"
+  },
+  "599c71e341654315": {
+   "fragment_id": "2.1. Operação uniforme",
+   "type": "divisao",
+   "heading": "2.1. Operação uniforme",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Operação uniforme\n\nOs sistemas e procedimentos da gestão do fluxo de tráfego aéreo devem apoiar a partilha de informação de voo estratégica, pré-táctica e táctica, conforme o caso, que seja correcta, coerente e relevante e que cubra todas as fases do voo, bem como proporcionar funcionalidades de diálogo, tendo em vista a optimização da utilização do espaço aéreo."
+  },
+  "dc277d78434a80f3": {
+   "fragment_id": "3. Sistemas e procedimentos para os serviços de tráfego aéreo",
+   "type": "divisao",
+   "heading": "3. Sistemas e procedimentos para os serviços de tráfego aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Sistemas e procedimentos para os serviços de tráfego aéreo"
+  },
+  "a8c0b05f7d586966": {
+   "fragment_id": "3.1. Sistemas de processamento dos dados de voo",
+   "type": "divisao",
+   "heading": "3.1. Sistemas de processamento dos dados de voo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1. Sistemas de processamento dos dados de voo"
+  },
+  "9c5d9cbc0b4e3147": {
+   "fragment_id": "3.1.1. Operação uniforme",
+   "type": "divisao",
+   "heading": "3.1.1. Operação uniforme",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1.1. Operação uniforme\n\nOs sistemas de processamento de dados de voo devem ser interoperáveis em termos de partilha atempada de informações correctas e coerentes e proporcionar uma interpretação operacional comum de tais informações por forma a assegurar um processo de planificação coerente e consistente e uma coordenação táctica eficiente em termos de recursos, em toda a REGTA, durante todas as fases de voo.\n\nPara assegurar um processamento seguro, sem dificuldades e rápido em toda a REGTA, os desempenhos do processamento dos dados de voo devem ser equivalentes e adequados a um meio determinado (solo, espaço aéreo terminal (TMA) e rota), com características de tráfego conhecidas e conformes a um conceito operacional aprovado e validado, especialmente em termos de precisão e de tolerância a erros dos resultados do processamento."
+  },
+  "89ef138d76f755c8": {
+   "fragment_id": "3.1.2. Apoio a novos conceitos operacionais",
+   "type": "divisao",
+   "heading": "3.1.2. Apoio a novos conceitos operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1.2. Apoio a novos conceitos operacionais\n\nOs sistemas de processamento dos dados de voo devem permitir incluir a aplicação progressiva de conceitos operacionais avançados, aprovados e validados para todas as fases de voo, conforme previsto, nomeadamente, no plano director ATM.\n\nAs características dos instrumentos altamente automatizados devem permitir um processamento pré-táctico e táctico coerente e eficiente da informação de voo em partes da REGTA.\n\nOs sistemas de bordo e terrestres e os seus componentes que sustentem novos conceitos operacionais aprovados e validados serão concebidos, fabricados, mantidos e operados, segundo os processos adequados e validados, de forma a assegurar a interoperabilidade em termos de partilha atempada de informações correctas e coerentes e de uma interpretação comum da situação operacional actual e prevista."
+  },
+  "3532e709ea17bdcd": {
+   "fragment_id": "3.2. Sistemas de processamento dos dados de vigilância",
+   "type": "divisao",
+   "heading": "3.2. Sistemas de processamento dos dados de vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Sistemas de processamento dos dados de vigilância"
+  },
+  "5660f96dc3adabcb": {
+   "fragment_id": "3.2.1. Operação uniforme",
+   "type": "divisao",
+   "heading": "3.2.1. Operação uniforme",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2.1. Operação uniforme\n\nOs sistemas de processamento dos dados de vigilância serão concebidos, fabricados, mantidos e operados, segundo os processos adequados e validados, de forma a proporcionar o desempenho e a qualidade de serviço exigidos num meio determinado (solo, TMA e rota), com características de tráfego conhecidas, especialmente em termos de precisão e fiabilidade dos resultados calculados, correcção, integridade, disponibilidade, continuidade e prontidão da informação na posição de controlo.\n\nOs sistemas de processamento dos dados de vigilância devem permitir a partilha atempada entre si de informações relevantes, exactas, consistentes e coerentes para garantir a optimização das operações nas diferentes partes da REGTA."
+  },
+  "6e9622979940bf04": {
+   "fragment_id": "3.2.2. Apoio a novos conceitos operacionais",
+   "type": "divisao",
+   "heading": "3.2.2. Apoio a novos conceitos operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2.2. Apoio a novos conceitos operacionais\n\nOs sistemas de processamento dos dados de vigilância devem abranger a disponibilidade progressiva de novas fontes de informações de vigilância de forma a melhorar a qualidade global do serviço, conforme previsto, nomeadamente no plano director ATM."
+  },
+  "0bb5a0e99b872094": {
+   "fragment_id": "3.3. Sistemas de interface homem-máquina",
+   "type": "divisao",
+   "heading": "3.3. Sistemas de interface homem-máquina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.3. Sistemas de interface homem-máquina"
+  },
+  "71f4d0762ce4e9b4": {
+   "fragment_id": "3.3.1. Operação uniforme",
+   "type": "divisao",
+   "heading": "3.3.1. Operação uniforme",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.3.1. Operação uniforme\n\nAs interfaces homem-máquina dos sistemas terrestres de gestão do tráfego aéreo serão concebidas, fabricadas, mantidas e operadas, segundo os processos adequados e validados, de forma a proporcionar um ambiente de trabalho progressivamente harmonizado a todos os controladores, incluindo aspectos funcionais e ergonómicos, que satisfaçam o desempenho exigido num meio determinado (solo, TMA e rota) com características de tráfego conhecidas."
+  },
+  "ef2f232caa522aef": {
+   "fragment_id": "3.3.2. Apoio a novos conceitos operacionais",
+   "type": "divisao",
+   "heading": "3.3.2. Apoio a novos conceitos operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.3.2. Apoio a novos conceitos operacionais\n\nOs sistemas de interface homem-máquina devem permitir acomodar a introdução progressiva de conceitos operacionais novos, aprovados e validados e o aumento da automatização, de forma a que as tarefas atribuídas aos controladores se mantenham compatíveis com as capacidades humanas, em modos de funcionamento normais e degradados."
+  },
+  "94c80273a183b1c0": {
+   "fragment_id": "4. Sistemas e procedimentos de comunicação para comunicações solo-solo, ar-solo e ar-ar",
+   "type": "divisao",
+   "heading": "4. Sistemas e procedimentos de comunicação para comunicações solo-solo, ar-solo e ar-ar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Sistemas e procedimentos de comunicação para comunicações solo-solo, ar-solo e ar-ar"
+  },
+  "67d69bd57808cde6": {
+   "fragment_id": "4.1. Operação uniforme",
+   "type": "divisao",
+   "heading": "4.1. Operação uniforme",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.1. Operação uniforme\n\nOs sistemas de comunicação serão concebidos, fabricados, mantidos e operados, segundo os processos adequados e validados, de forma a alcançar o desempenho exigido num volume determinado de espaço aéreo ou para uma aplicação específica, especialmente em termos de tempo de processamento da comunicação, integridade, disponibilidade e continuidade de serviço.\n\nA rede de comunicações na REGTA deverá permitir satisfazer as exigências de qualidade de serviço, cobertura e redundância."
+  },
+  "ca0bfd57b5d862cc": {
+   "fragment_id": "4.2. Apoio a novos conceitos operacionais",
+   "type": "divisao",
+   "heading": "4.2. Apoio a novos conceitos operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.2. Apoio a novos conceitos operacionais\n\nOs sistemas de comunicação devem apoiar a aplicação de conceitos operacionais avançados, aprovados e validados para todas as fases de voo, conforme previsto, nomeadamente, no plano director ATM."
+  },
+  "d6f0172c41f3ec24": {
+   "fragment_id": "5. Sistemas e procedimentos de navegação",
+   "type": "divisao",
+   "heading": "5. Sistemas e procedimentos de navegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Sistemas e procedimentos de navegação"
+  },
+  "85945182a7aadb50": {
+   "fragment_id": "5.1. Operação uniforme",
+   "type": "divisao",
+   "heading": "5.1. Operação uniforme",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5.1. Operação uniforme\n\nOs sistemas de navegação serão concebidos, fabricados, mantidos e operados segundo os processos adequados e validados, de forma a alcançar o desempenho exigido da navegação horizontal e vertical, especialmente em termos de precisão e capacidade funcional para um meio determinado (solo, TMA e rota) com características de tráfego conhecidas, e explorados de acordo com um conceito operacional aprovado e validado."
+  },
+  "d89209cf6b82f87c": {
+   "fragment_id": "6. Sistemas e procedimentos de vigilância",
+   "type": "divisao",
+   "heading": "6. Sistemas e procedimentos de vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. Sistemas e procedimentos de vigilância"
+  },
+  "051152cf2d2c4f24": {
+   "fragment_id": "6.1. Operação uniforme",
+   "type": "divisao",
+   "heading": "6.1. Operação uniforme",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.1. Operação uniforme\n\nOs sistemas de vigilância serão concebidos, fabricados, mantidos e operados segundo os processos adequados e validados, de forma a alcançar o desempenho exigido aplicável num meio determinado (solo, TMA e rota) com características de tráfego conhecidas, e explorados de acordo com um conceito operacional aprovado e validado, especialmente em termos de precisão, cobertura, alcance e qualidade de serviço.\n\nA rede de vigilância na REGTA deverá permitir satisfazer as exigências de precisão, prontidão, cobertura e redundância. A rede de vigilância permitirá a partilha dos dados de vigilância a fim de melhorar as operações em toda a REGTA."
+  },
+  "46dd1eb5dd12d84a": {
+   "fragment_id": "7. Sistemas e procedimentos para serviços de informação aeronáutica",
+   "type": "divisao",
+   "heading": "7. Sistemas e procedimentos para serviços de informação aeronáutica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. Sistemas e procedimentos para serviços de informação aeronáutica"
+  },
+  "32ef0dc436b7a9f2": {
+   "fragment_id": "7.1. Operação uniforme",
+   "type": "divisao",
+   "heading": "7.1. Operação uniforme",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7.1. Operação uniforme\n\nDeve ser progressivamente fornecida em formato electrónico informação aeronáutica precisa, atempada e coerente, com base num conjunto de dados aprovado de comum acordo e normalizado.\n\nSerá disponibilizada em tempo útil informação aeronáutica precisa e coerente, especialmente no que se refere aos componentes ou sistemas de bordo e de terra."
+  },
+  "76f7d169345336cf": {
+   "fragment_id": "7.2. Apoio a novos conceitos operacionais",
+   "type": "divisao",
+   "heading": "7.2. Apoio a novos conceitos operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7.2. Apoio a novos conceitos operacionais\n\nSerá disponibilizada e utilizada em tempo útil informação aeronáutica cada vez mais precisa, completa e actualizada para favorecer um aumento contínuo de eficiência na utilização do espaço aéreo e dos aeroportos."
+  },
+  "0bebfcbe16651417": {
+   "fragment_id": "8. Sistemas e procedimentos para utilização de informação meteorológica",
+   "type": "divisao",
+   "heading": "8. Sistemas e procedimentos para utilização de informação meteorológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. Sistemas e procedimentos para utilização de informação meteorológica"
+  },
+  "8d3d94ddd139ec06": {
+   "fragment_id": "8.1. Operação uniforme",
+   "type": "divisao",
+   "heading": "8.1. Operação uniforme",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8.1. Operação uniforme\n\nOs sistemas e procedimentos para utilização de informação meteorológica melhorarão a coerência e prontidão das suas prestações e a qualidade da sua apresentação, segundo um conjunto de dados aprovado."
+  },
+  "3402a2274a981586": {
+   "fragment_id": "8.2. Apoio a novos conceitos operacionais",
+   "type": "divisao",
+   "heading": "8.2. Apoio a novos conceitos operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8.2. Apoio a novos conceitos operacionais\n\nOs sistemas e procedimentos para utilização de informação meteorológica melhorarão a prontidão da sua disponibilidade e a rapidez com que podem ser utilizados para favorecer um aumento contínuo de eficiência na utilização do espaço aéreo e dos aeroportos."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "df67edd515d80363": {
+   "fragment_id": "COMPONENTES",
+   "type": "divisao",
+   "heading": "COMPONENTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COMPONENTES\n\nDeclaração CE\n\n— de conformidade\n\n— de adequação para utilização"
+  },
+  "b4d295dcecd9b0a5": {
+   "fragment_id": "1. Componentes",
+   "type": "divisao",
+   "heading": "1. Componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Componentes\n\nOs componentes serão identificados nas regras de execução em matéria de interoperabilidade, em conformidade com o artigo 3.º do presente regulamento."
+  },
+  "09a2726d6580206f": {
+   "fragment_id": "2. Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "2. Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Âmbito de aplicação\n\nA declaração CE abrange:\n\n— a avaliação da conformidade intrínseca de um componente considerado isoladamente relativamente às especificações comunitárias a respeitar, ou\n\n— a avaliação/decisão relativa à adequação para utilização de um componente considerado no seu ambiente de gestão do tráfego aéreo.\n\nOs procedimentos de avaliação aplicados pelos organismos notificados nas fases de concepção e fabrico basear-se-ão nos módulos definidos na Decisão 93/465/CEE, de acordo com as condições estabelecidas nas regras de execução relevantes em matéria de interoperabilidade."
+  },
+  "d77dc3e7b3e71f75": {
+   "fragment_id": "3. Teor da declaração CE",
+   "type": "divisao",
+   "heading": "3. Teor da declaração CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Teor da declaração CE\n\nA declaração CE de conformidade ou de adequação para utilização e os documentos que a acompanham devem ser assinados e datados.\n\nA declaração deve ser redigida na mesma língua das instruções e conter:\n\n— as referências do regulamento,\n\n— nome e endereço do fabricante ou do seu representante autorizado estabelecido na Comunidade (indicar o nome comercial e endereço completo e, no caso do representante autorizado, indicar igualmente o nome comercial do fabricante),\n\n— a descrição do componente,\n\n— a descrição do procedimento adoptado para declarar a conformidade ou a adequação para utilização (artigo 5.º do presente regulamento),\n\n— todas as disposições relevantes que o componente respeita e, em especial, as condições da sua utilização,\n\n— caso aplicável, o nome e endereço do organismo ou organismos notificados envolvidos no procedimento aplicado no que se refere à conformidade ou à adequação para utilização e data do certificado de exame, bem como, se necessário, o prazo e as condições de validade do certificado,\n\n— se necessário, a referência das especificações comunitárias seguidas,\n\n— a identificação do signatário com poderes para assumir compromissos em nome do fabricante ou do seu representante autorizado estabelecido na Comunidade."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "5b2860d4b2d0cd91": {
+   "fragment_id": "SISTEMAS",
+   "type": "divisao",
+   "heading": "SISTEMAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SISTEMAS\n\nDeclaração CE de verificação de sistemas\n\nProcedimento de verificação para sistemas"
+  },
+  "8c9c7a6a525b23a4": {
+   "fragment_id": "1. Teor da declaração CE de verificação de sistemas",
+   "type": "divisao",
+   "heading": "1. Teor da declaração CE de verificação de sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Teor da declaração CE de verificação de sistemas\n\nA declaração CE de verificação e os documentos que a acompanham devem ser datados e assinados. A referida declaração deve ser redigida na mesma língua do processo técnico e conter:\n\n— as referências do regulamento,\n\n— nome e endereço do prestador de serviços de navegação aérea (nome comercial e endereço completo),\n\n— uma breve descrição do sistema,\n\n— a descrição do procedimento adoptado para declarar a conformidade do sistema (artigo 6.º do presente regulamento),\n\n— se aplicável, o nome e endereço do organismo notificado que realizou tarefas ligadas ao procedimento de verificação,\n\n— as referências dos documentos contidos no processo técnico,\n\n— se necessário, a referência às especificações comunitárias,\n\n— todas as disposições relevantes provisórias ou definitivas que os sistemas devem respeitar e, em especial, se necessário, as restrições ou condicionalismos operacionais,\n\n— caso seja temporária: o período de validade da declaração CE,\n\n— a identificação do signatário."
+  },
+  "43a8e641dc1f57f3": {
+   "fragment_id": "2. Procedimento de verificação para sistemas",
+   "type": "divisao",
+   "heading": "2. Procedimento de verificação para sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Procedimento de verificação para sistemas\n\nA verificação dos sistemas consiste no procedimento através do qual um prestador de serviços de navegação aérea controla e certifica a conformidade de um sistema com o presente regulamento e garante que o sistema em causa pode entrar em funcionamento com base no presente regulamento.\n\nO sistema é controlado relativamente a cada um dos seguintes aspectos:\n\n— concepção global,\n\n— desenvolvimento e integração do sistema, incluindo, em especial, a montagem de componentes e as adaptações gerais,\n\n— integração operacional do sistema,\n\n— disposições específicas relativas à manutenção do sistema, se necessário.\n\nQuando as regras de execução relevantes em matéria de interoperabilidade exigirem a participação de um organismo notificado, este, após ter realizado as tarefas que lhe são impostas pelas regras pertinentes, emitirá um certificado de conformidade relativamente às tarefas que tiver efectuado. Este certificado destinar-se-á ao prestador de serviços de navegação aérea. Este último elabora em seguida a declaração CE de verificação destinada à autoridade supervisora nacional."
+  },
+  "2a61824f1327ae6d": {
+   "fragment_id": "3. Processo técnico",
+   "type": "divisao",
+   "heading": "3. Processo técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Processo técnico\n\nO processo técnico que acompanha a declaração CE de verificação deve conter todos os documentos necessários relativos às características do sistema, incluindo as condições e limites da sua utilização, bem como, se necessário, os documentos que certificam a conformidade dos componentes.\n\nNo mínimo, devem ser incluídos os seguintes documentos:\n\n— indicação das partes relevantes das especificações técnicas utilizadas para as aquisições públicas que asseguram o cumprimento das regras de aplicação relevantes em matéria de interoperabilidade e, se necessário, das especificações comunitárias,\n\n— lista dos componentes, tal como referido no artigo 3.º do presente regulamento,\n\n— cópias da declaração CE de conformidade ou de adequação para utilização, que deve acompanhar os componentes acima referidos de acordo com o disposto no artigo 5.º do presente regulamento, juntamente, se necessário, com uma cópia dos registos dos ensaios e exames realizados pelos organismos notificados,\n\n— no caso de um organismo notificado ter sido envolvido na verificação de um ou mais sistemas, um certificado por este rubricado declarando a conformidade do sistema com o presente regulamento e mencionando todas as reservas registadas durante o desempenho de actividades e não retiradas,\n\n— caso não tenha sido envolvido um organismo notificado, um registo dos ensaios e das configurações da instalação destinadas a garantir a conformidade com os requisitos essenciais e quaisquer requisitos específicos consagrados nas regras de aplicação relevantes em matéria de interoperabilidade."
+  },
+  "994961dea793a9bb": {
+   "fragment_id": "4. Apresentação",
+   "type": "divisao",
+   "heading": "4. Apresentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Apresentação\n\nO processo técnico deve acompanhar a declaração CE de verificação que o prestador de serviços de navegação aérea apresenta à autoridade supervisora nacional.\n\nO prestador de serviços de navegação aérea deve conservar uma cópia do processo técnico durante o período de vida útil do sistema. Tal cópia deve ser enviada a qualquer Estado-Membro que o solicite."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "1302ec0bee18a9e6": {
+   "fragment_id": "ORGANISMOS NOTIFICADOS",
+   "type": "divisao",
+   "heading": "ORGANISMOS NOTIFICADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ORGANISMOS NOTIFICADOS\n\n1. O organismo, o seu director e o pessoal responsável pela realização dos controlos podem não ser envolvidos, directamente ou na qualidade de representantes autorizados, na concepção, fabrico, comercialização ou manutenção dos componentes ou sistemas ou na respectiva utilização. Isto não exclui a possibilidade de o fabricante ou construtor e esse organismo procederem a um intercâmbio de informações técnicas.\n\n2. O organismo e o pessoal responsável pela realização dos controlos deve efectuá-los com a maior integridade profissional e competência técnica possíveis e estar isento de pressões e incentivos, em especial de natureza financeira, que possam afectar a sua apreciação ou os resultados das inspecções, especialmente por parte de pessoas ou grupos de pessoas afectados por esses resultados.\n\n3. O organismo deve empregar pessoal e possuir os meios necessários para efectuar adequadamente as tarefas técnicas e administrativas ligadas aos controlos e ter acesso ao equipamento necessário a eventuais controlos excepcionais.\n\n4. O pessoal responsável pela inspecção deve ter:\n\n— uma formação técnica e profissional sólida,\n\n— um conhecimento satisfatório dos requisitos das inspecções que realizam e uma experiência adequada no domínio de tais operações,\n\n— a capacidade necessária para elaborar declarações, registos e relatórios para demonstrar a realização das inspecções.\n\n5. Deve ser garantida a imparcialidade do pessoal responsável pelas inspecções. A respectiva remuneração não deve depender do número de inspecções realizadas, nem dos resultados das mesmas.\n\n6. O organismo deve subscrever um seguro de responsabilidade, excepto se o Estado-Membro a assumir, em conformidade com a legislação nacional, ou o próprio Estado-Membro for directamente responsável pelas inspecções.\n\n7. O pessoal do organismo deve respeitar a obrigação de sigilo profissional no que se refere a todas as informações obtidas durante a realização das suas tarefas ao abrigo do presente regulamento.\n\n---"
+  },
+  "d548974c80325a49": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#src.E0001)) JO C 103 E de 30.4.2002, p. 41.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#src.E0002)) JO C 241 de 7.10.2002, p. 24.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#src.E0003)) JO C 278 de 14.11.2002, p. 13.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 3 de Setembro de 2002 (JO C 272 E de 13.11.2003, p. 325), posição comum do Conselho de 18 de Março de 2003 (JO C 129 E de 3.6.2003, p. 26) e posição do Parlamento Europeu de 3 de Julho de 2003 (ainda não publicada no Jornal Oficial). Resolução legislativa do Parlamento Europeu de 29 de Janeiro de 2004 e decisão do Conselho de 2 de Fevereiro de 2004.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#src.E0005)) Ver página 10 do presente Jornal Oficial.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#src.E0006)) Ver página 20 do presente Jornal Oficial.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#src.E0007)) JO C 136 de 4.6.1985, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#src.E0008)) Ver página 1do presente Jornal Oficial.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#src.E0009)) JO L 220 de 30.8.1993, p. 23.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#src.E0010)) JO L 187 de 29.7.1993, p. 52. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#src.E0011)) JO L 95 de 10.4.1997, p. 16. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2082/2000 (JO L 254 de 9.10.2000, p. 1).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#src.E0012)) JO L 254 de 9.10.2000, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 980/2002 (JO L 150 de 8.6.2002, p. 38).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#src.E0013)) JO L 204 de 21.7.1998, p. 37. Directiva com a última redacção que lhe foi dada pela Directiva 98/48/CE (JO L 217 de 5.8.1998, p. 18).\n\n> ([^14^](http://publications.europa.eu/resource/cellar/9d6cc73e-ac2d-499f-9b36-eb9e64d489c2.0018.03/DOC_1#src.E0014)) JO L 79 de 19.3.2008, p. 1."
+  },
+  "db888bca00cbc064": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02004R0552 — PT — 11.09.2018 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32004R0552) [REGULAMENTO (CE) N.º 552/2004 DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32004R0552) [de 10 de Março de 2004](http://publications.europa.eu/resource/celex/32004R0552) [relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo](http://publications.europa.eu/resource/celex/32004R0552) [(«regulamento relativo à interoperabilidade»)](http://publications.europa.eu/resource/celex/32004R0552) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32004R0552) (JO L 096, 31.3.2004, p.26)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2018/1139 do Parlamento Europeu e do Conselho de 4 de julho de 2018](http://publications.europa.eu/resource/celex/32018R1139) — L 212 — 1 — 22.8.2018"
+  }
+ }
+}

@@ -36,6 +36,125 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-31'
+version_history:
+  file: regulamento-ue-2004-883.versoes.json
+  count: 8
+  source_lastmod: '2019-07-31'
+  versions:
+  - date: '2010-05-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-11'
+    amending: eu:celex:32010R1244:por
+    amending_title: Regulamento (UE) n. o 1244/2010 da Comissão de 9 de Dezembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 18.º — Estada no Estado-Membro competente e residência noutro Estado-Membro - Regras especiais aplicáveis
+      aos familiares dos trabalhadores fronteiriços
+    - Altera Artigo 28.º — Regras especiais aplicáveis aos trabalhadores fronteiriços reformados
+    - Altera Artigo 54.º — Cumulação de prestações da mesma natureza
+    - Altera Artigo 57.º — Períodos de seguro ou de residência inferiores a um ano
+    - Altera Artigo 90.º — Revogação
+    - Altera (N.º 3 do artigo 46.º)
+    - Altera Notas
+    - Adita DISPOSIÇÕES DE CONVENÇÕES MANTIDAS EM VIGOR E, CONFORME O CASO, LIMITADAS ÀS PESSOAS ABRANGIDAS POR ESSAS CONVENÇÕES
+    - Adita (n.º 1 do artigo 8.O)
+    - Adita CASOS EM QUE O CÁLCULO PROPORCIONAL NÃO É EFECTUADO OU NÃO É APLICÁVEL
+    - Adita (n.^os^ 4 e 5 do artigo 52.º)
+    - Adita PRESTAÇÕES PECUNIÁRIAS ESPECIAIS DE CARÁCTER NÃO CONTRIBUTIVO
+    - Adita [alínea c) do n.º 2 do artigo 70.º]
+    - Suprime DISPOSIÇÕES DE CONVENÇÕES MANTIDAS EM VIGOR E, CONFORME O CASO, LIMITADAS ÀS PESSOAS ABRANGIDAS POR ESSAS CONVENÇÕES
+      (n.º 1 do artigo 8.O)
+    - Suprime CASOS EM QUE O CÁLCULO PROPORCIONAL NÃO É EFECTUADO OU NÃO É APLICÁVEL (n.^os^ 4 e 5 do artigo 52.º)
+    - Suprime PRESTAÇÕES PECUNIÁRIAS ESPECIAIS DE CARÁCTER NÃO CONTRIBUTIVO [alínea c) do n.º 2 do artigo 70.º]
+  - date: '2012-06-28'
+    amending: eu:celex:32012R0465:por
+    amending_title: REGULAMENTO (UE) N. o 465/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de maio de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Regras gerais
+    - Altera Artigo 12.º — Regras especiais
+    - Altera Artigo 13.º — Exercício de actividades em dois ou mais Estados-Membros
+    - Altera Artigo 18.º — Estada no Estado-Membro competente e residência noutro Estado-Membro - Regras especiais aplicáveis
+      aos familiares dos trabalhadores fronteiriços
+    - Altera Artigo 28.º — Regras especiais aplicáveis aos trabalhadores fronteiriços reformados
+    - Altera Artigo 36.º — Direito às prestações em espécie e pecuniárias
+    - Altera Artigo 54.º — Cumulação de prestações da mesma natureza
+    - Altera Artigo 57.º — Períodos de seguro ou de residência inferiores a um ano
+    - Altera Artigo 63.º — Disposições especiais relativas à derrogação das regras de residência
+    - Altera Artigo 71.º
+    - Altera Artigo 72.º — Atribuições da Comissão Administrativa
+    - Altera Artigo 75.º — Comité Consultivo para a Coordenação dos Sistemas de Segurança Social
+    - Altera Artigo 78.º — Tratamento da informação
+    - Altera Artigo 79.º — Financiamento das acções no domínio da segurança social
+    - Altera Artigo 90.º — Revogação
+    - Altera (N.º 3 do artigo 46.º)
+    - Altera Notas
+    - Adita Artigo 9.º — Declarações dos Estados-Membros sobre o âmbito do presente regulamento
+    - Adita Artigo 65.º-A — Disposições especiais para trabalhadores fronteiriços por conta própria em situação de desemprego
+      completo na falta de um regime de prestações de desemprego que cubra trabalhadores por conta própria no Estado-Membro
+      de residência
+    - Adita Artigo 87.º-A — Disposição transitória para a aplicação do Regulamento (UE) n.º 465/2012
+    - Suprime Artigo 9.º — Declarações dos Estados-Membros relativas ao âmbito de aplicação do presente regulamento
+  - date: '2013-01-08'
+    amending: eu:celex:32012R1224:por
+    amending_title: REGULAMENTO (UE) N. o 1224/2012 DA COMISSÃO de 18 de dezembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 90.º — Revogação
+    - Altera REINO UNIDO
+    - Altera (N.º 3 do artigo 46.º)
+    - Altera Notas
+    - Adita Subsídio de emprego e auxílio
+    - Adita a) Grã-Bretanha
+    - Adita b) Irlanda do Norte
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 90.º — Revogação
+    - Altera (a que se refere o n.º 2 do artigo 18.º)
+    - Altera (N.º 3 do artigo 46.º)
+    - Altera Notas
+    - Adita CROÁCIA
+    - Adita BULGÁRIA-CROÁCIA
+    - Adita ALEMANHA — CROÁCIA
+    - Adita CROÁCIA-ITÁLIA
+    - Adita CROÁCIA-HUNGRIA
+    - Adita CROÁCIA-ÁUSTRIA
+    - Adita CROÁCIA — ESLOVÉNIA
+  - date: '2014-01-01'
+    amending: eu:celex:32013R1372:por
+    amending_title: REGULAMENTO (UE) N. o 1372/2013 DA COMISSÃO de 19 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 90.º — Revogação
+    - Altera (N.º 3 do artigo 46.º)
+    - Altera Notas
+  - date: '2017-04-11'
+    amending: eu:celex:32014R1368:por
+    amending_title: REGULAMENTO (UE) N. o 1368/2014 DA COMISSÃO de 17 de dezembro de 2014; REGULAMENTO (UE) 2017/492 DA COMISSÃO
+      de 21 de março de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 90.º — Revogação
+    - Altera REINO UNIDO
+    - Altera (N.º 3 do artigo 46.º)
+    - Altera Notas
+    - Suprime Subsídio de emprego e auxílio
+    - Suprime a) Grã-Bretanha
+    - Suprime b) Irlanda do Norte
+  - date: '2019-07-31'
+    amending: eu:celex:32019R1149:por
+    amending_title: REGULAMENTO (UE) 2019/1149 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 90.º — Revogação
+    - Altera (N.º 3 do artigo 46.º)
+    - Altera Notas
+    - Adita Artigo 74.º-A — Autoridade Europeia do Trabalho
 identifiers:
   celex: 32004R0883
   eli: http://data.europa.eu/eli/reg/2004/883/oj
@@ -50,7 +169,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/21eb3af6-32c2-4bb4-be0f-99f6c51e9278.0010
   content_url: http://publications.europa.eu/resource/cellar/296c9322-ca95-11e9-992f-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0883-20190731
-  retrieved_at: '2026-10-22T02:39:06Z'
+  retrieved_at: '2026-10-22T14:58:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-07-31T16:14:37.610+02:00'
 integrity:
@@ -59,9 +178,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:06Z'
-  notes: Texto consolidado 02004R0883-20190731.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:58:42Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-2004-883.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -562,41 +681,21 @@ relationships:
   date: '1971-06-14'
 article_structure:
   article_count: 95
-  section_count: 250
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 251
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:06Z'
-  warnings: []
+  checked_at: '2026-10-22T14:58:42Z'
+  warnings:
+  - '32004R0883: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02004R0883-20040520: versão indisponível (Sem expressão na língua por para CELEX 02004R0883-20040520.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 883/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004
-
-> 02004R0883 — PT — 31.07.2019 — 008.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0988) — [REGULAMENTO (CE) N.º 988/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Setembro de 2009](http://publications.europa.eu/resource/celex/32009R0988) — L 284 — 43 — 30.10.2009
-- [►M2](http://publications.europa.eu/resource/celex/32010R1244) — [REGULAMENTO (UE) N.º 1244/2010 DA COMISSÃO de 9 de Dezembro de 2010](http://publications.europa.eu/resource/celex/32010R1244) — L 338 — 35 — 22.12.2010
-- [►M3](http://publications.europa.eu/resource/celex/32012R0465) — [REGULAMENTO (UE) N.º 465/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de maio de 2012](http://publications.europa.eu/resource/celex/32012R0465) — L 149 — 4 — 8.6.2012
-- [►M4](http://publications.europa.eu/resource/celex/32012R1224) — [REGULAMENTO (UE) N.º 1224/2012 DA COMISSÃO de 18 de dezembro de 2012](http://publications.europa.eu/resource/celex/32012R1224) — L 349 — 45 — 19.12.2012
-- [►M5](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [►M6](http://publications.europa.eu/resource/celex/32013R1372) — [REGULAMENTO (UE) N.º 1372/2013 DA COMISSÃO de 19 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1372) — L 346 — 27 — 20.12.2013
-- [►M7](http://publications.europa.eu/resource/celex/32014R1368) — Alterado por: [REGULAMENTO (UE) N.º 1368/2014 DA COMISSÃO de 17 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014R1368) — L 366 — 15 — 20.12.2014
-- [►M8](http://publications.europa.eu/resource/celex/32017R0492) — [REGULAMENTO (UE) 2017/492 DA COMISSÃO de 21 de março de 2017](http://publications.europa.eu/resource/celex/32017R0492) — L 76 — 13 — 22.3.2017
-- [►M9](http://publications.europa.eu/resource/celex/32019R1149) — [REGULAMENTO (UE) 2019/1149 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1149) — L 186 — 21 — 11.7.2019
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32004R0883R%2801%29) — [Rectificação, JO L 200, 7.6.2004, p. 1 (n.o 883/2004)](http://publications.europa.eu/resource/celex/32004R0883R%2801%29)
-
-## REGULAMENTO (CE) N.º 883/2004 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 29 de Abril de 2004
 

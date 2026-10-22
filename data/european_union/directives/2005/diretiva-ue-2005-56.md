@@ -35,6 +35,111 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-07-20'
+version_history:
+  file: diretiva-ue-2005-56.versoes.json
+  count: 5
+  source_lastmod: '2017-07-20'
+  versions:
+  - date: '2005-11-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-22'
+    amending: eu:celex:32009L0109:por
+    amending_title: DIRECTIVA 2009/109/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Setembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Outras disposições respeitantes ao âmbito de aplicação
+    - Suprime Artigo 4.º — Condições relativas às fusões transfronteiriças
+    - Suprime Artigo 5.º — Projectos comuns de fusões transfronteiriças
+    - Suprime Artigo 6.º — Publicação
+    - Suprime Artigo 7.º — Relatório dos órgãos de direcção ou de administração
+    - Suprime Artigo 8.º — Relatório de peritos independentes
+    - Suprime Artigo 9.º — Aprovação pela assembleia geral
+    - Suprime Artigo 10.º — Certificado prévio à fusão
+    - Suprime Artigo 11.º — Fiscalização da legalidade das fusões transfronteiriça
+    - Suprime Artigo 12.º — Produção de efeitos da fusão transfronteiriça
+    - Suprime Artigo 13.º — Registo
+    - Suprime Artigo 14.º — Consequências da fusão transfronteiriça
+    - Suprime Artigo 15.º — Formalidades simplificadas
+    - Suprime Artigo 16.º — Participação dos trabalhadores
+    - Suprime Artigo 17.º — Validade
+  - date: '2012-07-06'
+    amending: eu:celex:32012L0017:por
+    amending_title: DIRETIVA 2012/17/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 13 de junho
+      de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 8.º
+    - Altera Notas
+    - Adita Artigo 13.º — Registo
+    - Adita Artigo 17.º-A — Proteção dos dados
+    - Suprime Artigo 13.º
+  - date: '2014-07-02'
+    amending: eu:celex:32014L0059:por
+    amending_title: DIRETIVA 2014/59/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 15 de maio
+      de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+    - Altera Artigo 13.º — Registo
+    - Altera Artigo 17.º-A — Proteção dos dados
+    - Altera Notas
+  - date: '2017-07-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º — Registo
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 17.º-A — Proteção dos dados
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime Notas
 identifiers:
   celex: 32005L0056
   eli: http://data.europa.eu/eli/dir/2005/56/oj
@@ -49,7 +154,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/90484384-a530-4927-b9b5-7e7339548256.0017
   content_url: http://publications.europa.eu/resource/cellar/c5c2e087-739b-408d-a4f4-c38aefcdc684.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0056-20170720
-  retrieved_at: '2026-10-22T02:42:42Z'
+  retrieved_at: '2026-10-22T14:59:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T01:07:19.851+01:00'
 integrity:
@@ -58,9 +163,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:42Z'
-  notes: Texto consolidado 02005L0056-20170720.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:27Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2005-56.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -183,16 +288,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:42Z'
+  checked_at: '2026-10-22T14:59:27Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02005L0056-20051215: versão indisponível (Sem expressão na língua por para CELEX 02005L0056-20051215.)'
   errors: []
 ---
 

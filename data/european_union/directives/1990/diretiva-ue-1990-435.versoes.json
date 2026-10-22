@@ -1,0 +1,326 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990L0435:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0435-20120118",
+ "dre_path": null,
+ "source_lastmod": "2012-01-18",
+ "versions": [
+  {
+   "date": "1990-08-20",
+   "future": false,
+   "celex": "31990L0435",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9a4afe11f113d0cb",
+    "cb3f57cd3b113c07",
+    "58592b9ab0a9fc3c",
+    "c19806560ebc350b",
+    "06fa817a618962ba",
+    "89b26b55254a99e8",
+    "39ccf90d33e5392a",
+    "834300efa16f3810",
+    "ebf80b87b0ffcc83",
+    "d7c28c4aaaef01d0",
+    "c5aad69b034607b7"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01990L0435-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32003L0123:por",
+     "title": "DIRECTIVA 2003/123/CE DO CONSELHO de 22 de Dezembro de 2003",
+     "published": null,
+     "celex": "32003L0123"
+    },
+    {
+     "id": "eu:celex:32006L0098:por",
+     "title": "DIRECTIVA 2006/98/CE DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006L0098"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita ANEXO",
+    "Adita LISTA DAS SOCIEDADES A QUE SE REFERE A ALÍNEA A) DO N.º 1 DO ARTIGO 2.º",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime ANEXO Lista das sociedades referidas na alínea a) do artigo 2°"
+   ],
+   "fragments": [
+    "16b4e5ea3fe113ae",
+    "3feeec85efa0f662",
+    "d873d50937569424",
+    "84c58faad049b9da",
+    "1d329aa031c2ea4d",
+    "7acf4d9a00c1b1e1",
+    "32dc324f9fe09562",
+    "9aa50384a80d7f66",
+    "3d4d023d9e8752ea",
+    "b3b798c71ec3e038",
+    "10220b9774fa9034",
+    "389ac2e39f66ff32",
+    "b146e49d0373b8e0"
+   ]
+  },
+  {
+   "date": "2012-01-18",
+   "future": false,
+   "celex": "01990L0435-20120118",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime ANEXO",
+    "Suprime LISTA DAS SOCIEDADES A QUE SE REFERE A ALÍNEA A) DO N.º 1 DO ARTIGO 2.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "1393088179573c31"
+   ]
+  }
+ ],
+ "fragments": {
+  "9a4afe11f113d0cb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 90/435/CEE do Conselho, de 23 de Julho de 1990, relativa ao regime fiscal comum aplicável às sociedades-mães e sociedades afiliadas de Estados- membros diferentes** *Jornal Oficial nº L 225 de 20/08/1990 p. 0006 - 0009 Edição especial finlandesa: Capítulo 9 Fascículo 2 p. 0025 Edição especial sueca: Capítulo 9 Fascículo 2 p. 0025*\n\nDIRECTIVA DO CONSELHO de 23 de Julho de 1990 relativa ao regime fiscal comum aplicável às sociedades-maes e sociedades afiliadas de Estados-membros diferentes (90/435/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100°,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que os agrupamentos de sociedades de Estados-membros diferentes podem ser necessários para criar, na Comunidade, condições análogas às de um mercado interno e para garantir assim o estabelecimento e o bom funcionamento do mercado comum; que essas operações não devem ser dificultadas por restrições, desvantagens ou distorções especiais decorrentes das disposições fiscais dos Estados-membros; que importa, por conseguinte, instaurar, para esses agrupamentos, regras fiscais neutras relativamente à concorrência, a fim de permitir que as empresas se adaptem às exigências do mercado comum, aumentem a sua produtividade e reforcem a sua posição concorrencial no plano internacional;\n\nConsiderando que os agrupamentos em questão podem levar à criação de grupos de sociedades-maes e afiliadas;\n\nConsiderando que as disposições fiscais que regem actualmente as relações entre sociedades-maes e afiliadas de Estados-membros diferentes variam sensivelmente de uns Estados-membros para os outros e são, em geral, menos favoráveis que as aplicáveis às relações entre sociedades-maes e afiliadas de um mesmo Estado-membro; que, por esse facto, a cooperação entre sociedades de Estados-membros diferentes é penalizada em comparação com a cooperação entre sociedades de um mesmo Estado-membro; que se torna necessário eliminar essa penalização através da instituição de um regime comum e facilitar assim os agrupamentos de sociedades à escala comunitária;\n\nConsiderando que, quando uma sociedade-mae recebe, na qualidade de sócia da sociedade sua afiliada, lucros distribuídos, o Estado da sociedade-mae deve:\n\n- ou abster-se de tributar estes lucros,\n\n- ou tributá-los, autorizando simultaneamente esta sociedade a deduzir do montante do seu imposto a fracção do imposto da sociedade afiliada correspondente a estes lucros;\n\nConsiderando que, além disso, para garantir a neutralidade fiscal, se torna necessário isentar de retenção na fonte, excepto em alguns casos especiais, os lucros que uma sociedade afiliada distribui à sua sociedade-mae; que, todavia, se impõe autorizar a República Federal da Alemanha e a República Helénica, devido à especificidade dos seus sistemas de imposto sobre as sociedades, e a República Portuguesa, por razões orçamentais, a continuar a cobrar tem-\n\nporariamente uma retenção na fonte,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "cb3f57cd3b113c07": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. Os Estados-membros aplicarão a presente directiva:\n\n- à distribuição dos lucros obtidos por sociedades desse Estado e provenientes das suas afiliadas de outros Estados-membros,\n\n- à distribuição dos lucros efectuada por sociedades desse Estado a sociedades de outros Estados-membros, de que aquelas sejam afiliadas.\n\n2. A presente directiva não impede a aplicação das disposições nacionais ou convencionais necessárias para evitar fraudes e abusos."
+  },
+  "58592b9ab0a9fc3c": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos de aplicação da presente directiva, a expressão «sociedade de um Estado-membro» designa qualquer sociedade:\n\na) Que revista uma das formas enumeradas no anexo;\n\nb)\n\nQue, de acordo com a legislação fiscal de um Estado-membro, seja considerada como tendo nele o seu domicílio fiscal e que, nos termos de uma convenção em matéria de dupla tributação celebrada com um Estado terceiro, não seja considerada como tendo domicílio fora da Comunidade;\n\nc)\n\nQue, além disso, esteja sujeita, sem possibilidade de opção e sem deles se encontrar isenta, a um dos seguintes impostos:\n\n- impôt des sociétés/vennootschapsbelasting, na Bélgica,\n\n- selskabsskat, na Dinamarca,\n\n- Koerperschaftsteuer, na Alemanha,\n\n- foros eisodimatos nomikon prosopon kerdoskopikoy charaktira na Grécia,\n\n- impuesto sobre sociedades, em Espanha,\n\n- impôt sur les sociétés, em França,\n\n- corporation tax, na Irlanda,\n\n- imposta sul reddito delle persone giuridiche, em Itália,\n\n- impôt sur le revenu des collectivités, no Luxemburgo,\n\n- vennootschapsbelasting, nos Países Baixos,\n\n- imposto sobre o rendimento das pessoas colectivas, em Portugal,\n\n- corporation tax, no Reino Unido,\n\nou a qualquer outro imposto que possa vir a substituir um destes impostos."
+  },
+  "c19806560ebc350b": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Para efeitos de aplicação da presente directiva.\n\na) É reconhecida a qualidade de sociedade-mae, pelo menos, a qualquer sociedade de um Estado-membro que satisfaça as condições enunciadas no artigo 2° e que detenha no capital de uma sociedade de outro Estado-membro, que preencha as mesmas condições, uma participação mínima de 25 %;\n\nb) Deve entender-se por «sociedade afiliada» a socie-\n\ndade em cujo capital é detida a participação referida na alínea a).\n\n2. Em derrogação do disposto no no. 1, os Estados-membros têm a faculdade:\n\n- de, por via de acordo bilateral, substituir o critério de participação no capital pelo de detenção de direitos de voto,\n\n- de não aplicar a presente directiva às suas sociedades que não conservem, por um período ininterrupto de pelo menos dois anos, uma participação que dê direito à qualidade de sociedade-mae, ou às sociedades em que uma sociedade de outro Estado-membro não conserve essa participação durante um período ininterrupto de pelo menos dois anos."
+  },
+  "06fa817a618962ba": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Sempre que uma sociedade-mae receba, na qualidade de sócia da sociedade sua afiliada, lucros distribuídos de outra forma que não seja por ocasião da liquidação desta última, o Estado da sociedade-mae:\n\n- ou se abstém de tributar esses lucros,\n\n- ou os tributa, autorizando esta sociedade a deduzir do montante do imposto a fracção do imposto da afiliada correspondente a tais lucros e, se for caso disso, o montante da retenção na fonte efectuada pelo Estado-\n\n-membro da residência afiliada nos termos das disposições derrogatórias do artigo 5°, dentro do limite do montante do imposto nacional correspondente.\n\n2. Todavia, todos os Estados-membros conservam a faculdade de prever que os encargos respeitantes à participação e as menos-valias resultantes da distribuição dos lucros da sociedade afiliada não sejam dedutíveis do lucro tributável da sociedade-mae. Se, nesse caso, as despesas de gestão relativas à participação forem fixadas de modo forfetário, o montante forfetário não pode exceder 5 % dos lucros distribuídos pela sociedade afiliada.\n\n3. O disposto no no. 1 aplica-se até à data de aplicação efectiva de um sistema comum de imposto de sociedades.\n\nO Conselho adoptará em tempo útil as disposições aplicáveis a partir da data referida no primeiro parágrafo."
+  },
+  "89b26b55254a99e8": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Os lucros distribuídos por uma sociedade afiliada à sua sociedade-mae são, pelo menos quando esta detém uma participação mínima de 25 % no capital da afiliada, isentos de retenção na fonte.\n\n2. Em derrogação do disposto no no. 1, a República Helénica, enquanto não aplicar o imposto sobre sociedades aos lucros distribuídos, pode cobrar uma retenção na fonte sobre os lucros distribuídos às sociedades-maes de outros Estados-membros. Contudo, a taxa dessa retenção não pode ultrapassar a taxa fixada pelas convenções bilaterais destinadas a evitar a dupla tributação.\n\n3. Em derrogação do disposto no no. 1, a República Federal da Alemanha, enquanto aplicar aos lucros distribuídos uma taxa de imposto sobre sociedades inferior em pelo menos 11 pontos à aplicável aos lucros não distribuídos, mas o mais tardar até meados de 1996, pode cobrar, a título de imposto compensatório, uma retenção na fonte de 5 % sobre os lucros distribuídos pelas suas sociedades afiliadas.\n\n4. Em derrogação do disposto no no. 1, a República Portuguesa pode cobrar uma retenção na fonte sobre os lucros distribuídos pelas suas sociedades afiliadas a sociedades-maes de outros Estados-membros até uma data que não poderá ser posterior ao fim do oitavo ano seguinte à data de entrada em aplicação da presente directiva.\n\nSem prejuízo das disposições das convenções bilaterais existentes, celebradas entre Portugal e um Estado-membro, a taxa dessa retenção não pode exceder 15 % durante os cinco primeiros anos do período referido no parágrafo anterior e 10 % durante os três últimos anos.\n\nAntes do fim do oitavo ano, o Conselho decidirá por unanimidade, sob proposta da Comissão, sobre a eventual prorrogação das disposições do presente número."
+  },
+  "39ccf90d33e5392a": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nO Estado-membro de que depende a sociedade-mae não pode aplicar uma retenção na fonte sobre os lucros que esta sociedade recebe da sua afiliada."
+  },
+  "834300efa16f3810": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. A expressão «retenção na fonte», utilizada na presente directiva não abrange o pagamento antecipado ou prévio (pagamento por conta) do imposto sobre as sociedades ao Estado-membro em que está situada a afiliada, efectuado em ligação com a distribuição de lucros à sociedade-mae.\n\n2. A presente directiva não afecta a aplicação de disposições nacionais ou convencionais destinadas a suprimir ou atenuar a dupla tributação económica dos dividendos, em especial as relativas ao pagamento de créditos de imposto aos beneficiários de dividendos."
+  },
+  "ebf80b87b0ffcc83": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para se conformarem à presente directiva o mais tardar até\n\n1 de Janeiro de 1992. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros providenciarão para que seja comunicado à Comissão o texto das disposições essenciais de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "d7c28c4aaaef01d0": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 23 de Julho de 1990.\n\nPelo Conselho\n\nO Presidente\n\nG. CARLI\n\n(1) JO no. C 39 de 22. 3. 1969, p. 7, e modificação transmitida em\n\n5 de Julho de 1985.(2)\n\nJO no. C 51 de 29. 4. 1970, p. 6.(3)\n\nJO no. C 100 de 1. 8. 1969, p. 7."
+  },
+  "c5aad69b034607b7": {
+   "fragment_id": "ANEXO Lista das sociedades referidas na alínea a) do artigo 2°",
+   "type": "divisao",
+   "heading": "ANEXO Lista das sociedades referidas na alínea a) do artigo 2°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO Lista das sociedades referidas na alínea a) do artigo 2°\n\na) As sociedades de direito belga denominadas «société anonyme»/«naamloze vennootschap», «société en commandite par actions»/«commanditaire vennootschap op aandelen», «société privée à responsabilité limitée»/«besloten vennootschap met beperkte aansprakelijkheid», bem como as entidades de direito público que operam sob o regime do direito privado;\n\nb)\n\nAs sociedades de direito dinamarquês denominadas «aktieselskab», «anpartsselskab»;\n\nc)\n\nAs sociedades de direito alemão denominadas «Aktiengesellschaft», «Kommanditgesellschaft auf Aktien», «Gesellschaft mit beschraenkter Haftung», «Bergrechtliche Gewerkschaft»;\n\nd)\n\nAs sociedades de direito helénico denominadas «anonymi etairia»;\n\ne)\n\nAs sociedades de direito espanhol denominadas «sociedad anónima», «sociedad commanditaria por acciones», «sociedad de responsabilidad limitada», bem como as entidades de direito público que operam em regime de direito privado;\n\nf)\n\nAs sociedades de direito francês denominadas «société anonyme», «société en commandite par actions», «société à responsabilité limitée» bem como os estabelecimentos e empresas públicos de carácter industrial e comercial;\n\ng)\n\nAs sociedades de direito irlandês denominadas «public companies limited by shares» ou «public companies limited by guarantee», «private companies limited by shares» ou «private companies limited by guarantee», as entidades registadas sob o regime dos «Industrial and Provident Societies Acts» ou as «building societies» registadas sob o regime dos «Building Societies Acts»;\n\nh)\n\nAs sociedades de direito italiano denominadas «società per azioni», «società in accomandita per azioni», «società a responsabilità limitata», bem como as entidades públicas e privadas que exercem actividades industriais e comerciais;\n\ni)\n\nAs sociedades de direito luxemburguês denominadas «société anonyme», «société en commandite par actions», «société à responsabilité limitée»;\n\nj)\n\nAs sociedades de direito neerlandês denominadas «naamloze vennootschap», «besloten vennootschap met beperkte aansprakelijkheid»;\n\nk)\n\nSociedades comerciais ou civis sob forma comercial e as cooperativas e empresas públicas constituídas de acordo com a legislação portuguesa;\n\nl)\n\nAs sociedades constituídas de acordo com a legislação do Reino Unido."
+  },
+  "16b4e5ea3fe113ae": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Julho de 1990\n\nrelativa ao regime fiscal comum aplicável às sociedades-mães e sociedades afiliadas de Estados-membros diferentes\n\n(90/435/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/11821577-3744-407a-a2ba-6a89051cfa7d.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/11821577-3744-407a-a2ba-6a89051cfa7d.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/11821577-3744-407a-a2ba-6a89051cfa7d.0018.03/DOC_1#E0003)),\n\nConsiderando que os agrupamentos de sociedades de Estados-membros diferentes podem ser necessários para criar, na Comunidade, condições análogas às de um mercado interno e para garantir assim o estabelecimento e o bom funcionamento do mercado comum; que essas operações não devem ser dificultadas por restrições, desvantagens ou distorções especiais decorrentes das disposições fiscais dos Estados-membros; que importa, por conseguinte, instaurar, para esses agrupamentos, regras fiscais neutras relativamente à concorrência, a fim de permitir que as empresas se adaptem às exigências do mercado comum, aumentem a sua produtividade e reforcem a sua posição concorrencial no plano internacional;\n\nConsiderando que os agrupamentos em questão podem levar à criação de grupos de sociedades-mães e afiliadas;\n\nConsiderando que as disposições fiscais que regem actualmente as relações entre sociedades-mães e afiliadas de Estados-membros diferentes variam sensivelmente de uns Estados-membros para os outros e são, em geral, menos favoráveis que as aplicáveis às relações entre sociedades-mães e afiliadas de um mesmo Estado-membro; que, por esse facto, a cooperação entre sociedades de Estados-membros diferentes é penalizada em comparação com a cooperação entre sociedades de um mesmo Estado-membro; que se torna necessário eliminar essa penalização através da instituição de um regime comum e facilitar assim os agrupamentos de sociedades à escala comunitária;\n\nConsiderando que, quando uma sociedade-mãe recebe, na qualidade de sócia da sociedade sua afiliada, lucros distribuídos, o Estado da sociedade-mãe deve:\n\n— ou abster-se de tributar estes lucros,\n\n— ou tributá-los, autorizando simultaneamente esta sociedade a deduzir do montante do seu imposto a fracção do imposto da sociedade afiliada correspondente a estes lucros;\n\nConsiderando que, além disso, para garantir a neutralidade fiscal, se torna necessário isentar de retenção na fonte, excepto em alguns casos especiais, os lucros que uma sociedade afiliada distribui à sua sociedade-mãe; que, todavia, se impõe autorizar a República Federal da Alemanha e a República Helénica, devido à especificidade dos seus sistemas de imposto sobre as sociedades, e a República Portuguesa, por razões orçamentais, a continuar a cobrar temporariamente uma retenção na fonte,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "3feeec85efa0f662": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os Estados-membros aplicarão a presente directiva:\n\n— à distribuição dos lucros obtidos por sociedades desse Estado e provenientes das suas afiliadas de outros Estados-membros,\n\n— à distribuição dos lucros efectuada por sociedades desse Estado a sociedades de outros Estados-membros, de que aquelas sejam afiliadas,\n\n— à distribuição de lucros obtidos por estabelecimentos estáveis, situados nesse Estado, de sociedades de outros Estados-Membros e provenientes das suas afiliadas instaladas num Estado-Membro que não seja o Estado-Membro em que está situado o estabelecimento estável,\n\n— à distribuição de lucros por sociedades desse Estado-Membro a estabelecimentos estáveis, situados noutro Estado-Membro, de sociedades do mesmo Estado-Membro de que aquelas sejam afiliadas.\n\n2. A presente directiva não impede a aplicação das disposições nacionais ou convencionais necessárias para evitar fraudes e abusos."
+  },
+  "d873d50937569424": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n[**►M1**](http://publications.europa.eu/resource/celex/32003L0123) 1.**◄** Para efeitos de aplicação da presente directiva, a expressão «sociedade de um Estado-membro» designa qualquer sociedade:\n\na) Que revista uma das formas enumeradas no anexo;\n\nb) Que, de acordo com a legislação fiscal de um Estado-membro, seja considerada como tendo nele o seu domicílio fiscal e que, nos termos de uma convenção em matéria de dupla tributação celebrada com um Estado terceiro, não seja considerada como tendo domicílio fora da Comunidade;\n\nc) Que, além disso, esteja sujeita, sem possibilidade de opção e sem deles se encontrar isenta, a um dos seguintes impostos:\n\n— impôt des sociétés/vennootschapsbelasting, na Bélgica,\n\n— selskabsskat, na Dinamarca,\n\n— Körperschaftsteuer, na Alemanha,\n\n— φόρος εισοδήματος νομικών προσώπων κερδοσκοπικού χαρακτήρα na Grécia,\n\n— impuesto sobre sociedades, em Espanha,\n\n— impôt sur les sociétés, em França,\n\n— corporation tax, na Irlanda,\n\n— imposta sul reddito delle persone giuridiche, em Itália,\n\n— impôt sur le revenu des collectivités, no Luxemburgo,\n\n— vennootschapsbelasting, nos Países Baixos,\n\n— imposto sobre o rendimento das pessoas colectivas, em Portugal,\n\n— corporation tax, no Reino Unido,\n\n— Körperschaftsteuer, na Áustria,\n\n— Yhteisöjen tulovero/inkomstskatten för samfund, na Finlândia,\n\n— Statlig inkomstskatt, na Suécia,\n\n— *Daň z příjmů právnických*, na República Checa,\n\n— *Tulumaks*, na Estónia,\n\n— *Φόρος Εισοδήματος*em Chipre,\n\n— *uzņēmumu ienākuma nodoklis*, na Letónia,\n\n— *Pelno mokestis*, na Lituânia,\n\n— *Társasági adó, osztalékadó*, na Hungria,\n\n— *Taxxa fuq l-income*, em Malta,\n\n— *Podatek dochodowy od osób prawnych*, na Polónia,\n\n— *Davek od dobička pravnih oseb*, na Eslovénia,\n\n— *daň z príjmov právnických osôb*in Slovakia,\n\n— *корпоративен данък*, na Bulgária,\n\n— *impozit pe profit*, na Roménia,\n\n2. Para efeitos da presente directiva, entende-se por «estabelecimento estável» qualquer instalação fixa, situada num Estado-Membro, através da qual uma sociedade de outro Estado-Membro exerce, no todo ou em parte, a sua actividade, na medida em que os lucros dessa instalação fixa sejam sujeitos a imposto no Estado-Membro em que estiver situada, ao abrigo do Tratado Fiscal bilateral aplicável ou, na ausência do mesmo, ao abrigo do direito nacional."
+  },
+  "84c58faad049b9da": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Para os efeitos da presente directiva:\n\na) É reconhecida a qualidade de sociedade-mãe, pelo menos, a qualquer sociedade de um Estado-Membro que satisfaça as condições enunciadas no artigo 2.º e que detenha no capital de uma sociedade de outro Estado-Membro, que preencha as mesmas condições, uma participação mínima de 20 %.\n\nb) Entende-se por «sociedade afiliada» a sociedade em cujo capital é detida a participação a que se refere a alínea a).\n\n2. Em derrogação do disposto no n.º 1, os Estados-membros têm a faculdade:\n\n— de, por via de acordo bilateral, substituir o critério de participação no capital pelo de detenção de direitos de voto,\n\n— de não aplicar a presente directiva às suas sociedades que não conservem, por um período ininterrupto de pelo menos dois anos, uma participação que dê direito à qualidade de sociedade-mãe, ou às sociedades em que uma sociedade de outro Estado-membro não conserve essa participação durante um período ininterrupto de pelo menos dois anos."
+  },
+  "1d329aa031c2ea4d": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sempre que uma sociedade-mãe ou o seu estabelecimento estável, em virtude da associação com a sociedade sua afiliada, obtenha lucros distribuídos de outra forma que não seja por ocasião da liquidação desta última, o Estado da sociedade-mãe e o Estado do estabelecimento estável da sociedade-mãe:\n\n— ou se abstém de tributar esses lucros,\n\n— ou os tributa, autorizando a sociedade-mãe e o estabelecimento estável a deduzir do montante do imposto devido a fracção do imposto sobre as sociedades pago sobre tais lucros pela sociedade afiliada e por qualquer sociedade sub-afiliada, sob condição de cada sociedade e respectiva sociedade sub-afiliada satisfazerem em cada nível os requisitos previstos nos artigos 2.º e 3.º, até ao limite do montante do correspondente imposto devido.\n\n1A. A presente directiva não contém qualquer disposição que impeça o Estado da sociedade-mãe de considerar que uma sociedade afiliada é transparente do ponto de vista fiscal à luz da avaliação, por esse Estado-Membro, das características jurídicas dessa sociedade afiliada resultantes do direito ao abrigo do qual foi constituída e de, nesse caso, tributar a sociedade-mãe pela sua parte nos lucros da sociedade afiliada, à medida e quando estes são obtidos. Nesse caso, o Estado da sociedade-mãe deve abster-se de tributar os lucros distribuídos da sociedade afiliada.\n\nQuando da tributação da parte da sociedade-mãe nos lucros da sua sociedade afiliada, à medida que estes são obtidos, o Estado da sociedade-mãe deve isentar esses lucros ou autorizá-la a deduzir, do montante do imposto devido, a fracção do imposto sobre as sociedades relativo à parte da sociedade-mãe nos lucros pago pela sua sociedade afiliada e por qualquer sociedade sub-afiliada, na condição de cada sociedade e respectiva sociedade sub-afiliada satisfazerem em cada nível os requisitos previstos nos artigos 2.º e 3.º, até ao limite do montante do imposto correspondente devido.\n\n2. Todavia, todos os Estados-membros conservam a faculdade de prever que os encargos respeitantes à participação e as menos-valias resultantes da distribuição dos lucros da sociedade afiliada não sejam dedutíveis do lucro tributável da sociedade-mãe. Se, nesse caso, as despesas de gestão relativas à participação forem fixadas de modo forfetário, o montante forfetário não pode exceder 5 % dos lucros distribuídos pela sociedade afiliada.\n\n3. [**►M1**](http://publications.europa.eu/resource/celex/32003L0123) O disposto nos n.^os^ 1 e 1A é aplicável até à data de entrada em vigor efectiva de um sistema comum de imposto sobre as sociedades.**◄**\n\nO Conselho adoptará em tempo útil as disposições aplicáveis a partir da data referida no primeiro parágrafo."
+  },
+  "7acf4d9a00c1b1e1": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. [**►M1**](http://publications.europa.eu/resource/celex/32003L0123) Os lucros distribuídos por uma sociedade afiliada à sua sociedade-mãe são isentos de retenção na fonte.**◄**"
+  },
+  "32dc324f9fe09562": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO Estado-membro de que depende a sociedade-mãe não pode aplicar uma retenção na fonte sobre os lucros que esta sociedade recebe da sua afiliada."
+  },
+  "9aa50384a80d7f66": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A expressão «retenção na fonte», utilizada na presente directiva, não abrange o pagamento antecipado ou prévio (pagamento por conta) do imposto sobre as sociedades ao Estado-membro em que está situada a afiliada, efectuado em ligação com a distribuição de lucros à sociedade-mãe.\n\n2. A presente directiva não afecta a aplicação de disposições nacionais ou convencionais destinadas a suprimir ou atenuar a dupla tributação económica dos dividendos, em especial as relativas ao pagamento de créditos de imposto aos beneficiários de dividendos."
+  },
+  "3d4d023d9e8752ea": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para se conformarem à presente directiva o mais tardar até 1 de Janeiro de 1992. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros providenciarão para que seja comunicado à Comissão o texto das disposições essenciais de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "b3b798c71ec3e038": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "389ac2e39f66ff32": {
+   "fragment_id": "LISTA DAS SOCIEDADES A QUE SE REFERE A ALÍNEA A) DO N.º 1 DO ARTIGO 2.º",
+   "type": "divisao",
+   "heading": "LISTA DAS SOCIEDADES A QUE SE REFERE A ALÍNEA A) DO N.º 1 DO ARTIGO 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA DAS SOCIEDADES A QUE SE REFERE A ALÍNEA A) DO N.º 1 DO ARTIGO 2.º\n\na) As sociedades constituídas em conformidade com o Regulamento (CE) n.º 2157/2001 do Conselho, de 8 de Outubro de 2001, relativo ao Estatuto da Sociedade Europeia (SE) e a Directiva 2001/86/CE do Conselho, de 8 de Outubro de 2001, que completa o estatuto da Sociedade Europeia no que respeita ao envolvimento dos trabalhadores, e as sociedades cooperativas constituídas em conformidade com o Regulamento (CE) n.º 1435/2003 do Conselho, de 22 de Julho de 2003, relativo ao Estatuto da Sociedade Cooperativa Europeia (SCE), e a Directiva 2003/72/CE do Conselho, de 22 de Julho de 2003, que completa o estatuto da sociedade cooperativa europeia no que respeita ao envolvimento dos trabalhadores;\n\nb) As sociedades de direito belga denominadas «société anonyme»/«naamloze vennootschap»,«société en commandite par actions»/«commanditaire vennootschap op aandelen», «société privée à responsabilité limitée»/«besloten vennootschap met beperkte aansprakelijkheid», «société coopérative à responsabilité limitée»/«coöperatieve vennootschap met beperkte aansprakelijkheid», «société coopérative à responsabilité illimitée»/«coöperatieve vennootschap met onbeperkte aansprakelijkheid», «société en nom collectif»/«vennootschap onder firma», «société en commandite simple»/«gewone commanditaire vennootschap», e as empresas públicas que tenham adoptado uma das formas jurídicas acima referidas, bem como outras sociedades de direito belga sujeitas ao imposto sobre as sociedades na Bélgica;\n\nc) As sociedades de direito búlgaro denominadas «събирателното дружество», «командитното дружество», «дружеството с ограничена отговорност», «акционерното дружество», «командитното дружество с акции», «неперсонифицирано дружество», «кооперации», «кооперативни съюзи»«държавни предприятия» constituídas no âmbito do direito búlgaro e que exerçam actividades comerciais;\n\nd) As sociedades de direito checo denominadas «akciová společnost», «společnost s ručením omezeným»;\n\ne) As sociedades de direito dinamarquês denominadas «aktieselskab» e «anpartsselskab»; outras sociedades sujeitas a impostos nos termos da lei relativa ao imposto sobre as sociedades, na medida em que os seus rendimentos tributáveis sejam calculados e tributados de acordo com as regras fiscais gerais aplicáveis às «aktieselskaber»;\n\nf) As sociedades de direito alemão denominadas «Aktiengesellschaft», «Kommanditgesellschaft auf Aktien», «Gesellschaft mit beschränkter Haftung», «Versicherungsverein auf Gegenseitigkeit», «Erwerbs– und Wirtschaftsgenossenschaft», «Betriebe gewerblicher Art von juristischen Personen des öffentlichen Rechts», bem como outras sociedades de direito alemão sujeitas ao imposto sobre as sociedades na Alemanha;\n\ng) As sociedades de direito estónio denominadas «täisühing», «usaldusühing», «osaühing», «aktsiaselts», «tulundusühistu»;\n\nh) As sociedades de direito helénico denominadas «ανώνυμη εταιρεία», «εταιρεία περιορισμένης ευθύνης (Ε.Π.Ε.)» bem como outras sociedades de direito grego sujeitas ao imposto sobre as sociedades na Grécia;\n\ni) As sociedades de direito espanhol denominadas «sociedad anónima», «sociedad comanditaria por acciones», «sociedad de responsabilidad limitada», entidades de direito público que operam em regime de direito privado; outras entidades de direito espanhol sujeitas ao imposto sobre as sociedades em Espanha («impuestos sobre sociedades»);\n\nj) As sociedades de direito francês designadas «société anonyme», «société en commandite par actions», «société à responsabilité limitée», «sociétés par actions simplifiées», «sociétés d'assurances mutuelles», «caisses d'épargne et de prévoyance», «sociétés civiles» que são automaticamente sujeitas ao imposto sobre as sociedades, «coopératives», «unions de coopératives», e os estabelecimentos e as empresas públicos de carácter industrial e comercial, bem como outras sociedades de direito francês sujeitas ao imposto sobre as sociedades em França;\n\nk) As sociedades constituídas de acordo com o direito irlandês, os organismos registados nos termos do Industrial and Provident Societies Act, as «building societies» constituídas ao abrigo dos Building Societies Acts, bem como os «trustee savings banks» na acepção do Trustee Savings Banks Act de 1989;\n\nl) As sociedades de direito italiano denominadas «società per azioni», «società in accomandita per azioni», «società a responsibilità limitata», «società cooperative», «società di mutua assicurazione», bem como entidades públicas e privadas que exerçam actividades total ou essencialmente comerciais;\n\nm) Nos termos do direito cipriota: «εταιρείες» tal como definido na legislação relativa ao imposto sobre os rendimentos;\n\nn) As sociedades de direito letão denominadas «akciju sabiedrība», «sabiedrība ar ierobežotu atbildību»;\n\no) As sociedades constituídas segundo o direito lituano;\n\np) As sociedades de direito luxemburguês denominadas «société anonyme», «société en commandite par actions», «société à responsabilité limitée», «société coopérative», «société coopérative organisée comme une société anonyme», «association d'assurances mutuelles», «association d'épargne-pension», «entreprise de nature commerciale, industrielle ou minière de l'Etat, des communes, des syndicats de communes, des établissements publics et des autres personnes morales de droit public», bem como outras sociedades de direito luxemburguês sujeitas ao imposto sobre as sociedades no Luxemburgo;\n\nq) As sociedades de direito húngaro denominadas «közkereseti társaság», «betéti társaság», «közös vállalat», «korlátolt felelősségű társaság», «részvénytársaság», «egyesülés», «szövetkezet»;\n\nr) As sociedades de direito maltês denominadas «Kumpaniji ta' Responsabilita' Limitata», «Soċjetajiet en commandite li l-kapital tagħhom maqsum f'azzjonijiet»;\n\ns) As sociedades de direito neerlandês denominadas «naamloze vennnootschap», «besloten vennootschap met beperkte aansprakelijkheid», «Open commanditaire vennootschap», «Coöperatie», «onderlinge waarborgmaatschappij», «Fonds voor gemene rekening», «vereniging op coöperatieve grondslag», «vereniging welke op onderlinge grondslag als verzekeraar of kredietinstelling optreedt», bem como outras sociedades de direito neerlandês sujeitas ao imposto sobre as sociedades nos Países Baixos;\n\nt) As sociedades de direito austríaco denominadas «Aktiengesellschaft», «Gesellschaft mit beschränkter Haftung», «Versicherungsvereine auf Gegenseitigkeit», «Erwerbs– und Wirtschaftsgenossenschaften», «Betriebe gewerblicher Art von Körperschaften des öffentlichen Rechts», «Sparkassen», bem como outras sociedades de direito austríaco sujeitas ao imposto sobre as sociedades na Áustria;\n\nu) As sociedades de direito polaco denominadas «spółka akcyjna», «spółka z ograniczoną odpowiedzialnością»;\n\nv) As sociedades comerciais ou as sociedades de direito civil sob forma comercial e as cooperativas e empresas públicas constituídas de acordo com a legislação portuguesa;\n\nw) As sociedades de direito romeno denominadas «societăți pe acțiuni», «societăți în comandită pe acțiuni», «societăți cu răspundere limitată»;\n\nx) As sociedades de direito esloveno denominadas «delniška družba», «komanditna družba», «družba z omejeno odgovornostjo»;\n\ny) As sociedades de direito eslovaco denominadas «akciová spoločnosť», «spoločnosť s ručením obmedzeným», «komanditná spoločnosť»;\n\nz) As sociedades de direito finlandês denominadas «osakeyhtiö/aktiebolag», «osuuskunta/andelslag»,«säästöpankki/sparbank» e «vakuutusyhtiö/försäkringsbolag»;\n\naa) As sociedades de direito sueco denominadas «aktiebolag», «försäkringsaktiebolag», «ekonomiska föreningar», «sparbanker», «ömsesidiga försäkringsbolag»;\n\nab) As sociedades constituídas de acordo com a legislação do Reino Unido.\n\n---"
+  },
+  "b146e49d0373b8e0": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/11821577-3744-407a-a2ba-6a89051cfa7d.0018.03/DOC_1#src.E0001)) JO n.º C 39 de 22. 3. 1969, p. 7, e modificação transmitida em 5 de Julho de 1985.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/11821577-3744-407a-a2ba-6a89051cfa7d.0018.03/DOC_1#src.E0002)) JO n.º C 51 de 29. 4. 1970, p. 6.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/11821577-3744-407a-a2ba-6a89051cfa7d.0018.03/DOC_1#src.E0003)) JO n.º C 100 de 1. 8. 1969, p. 7."
+  },
+  "1393088179573c31": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1990L0435 — PT — 18.01.2012 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31990L0435) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31990L0435) [de 23 de Julho de 1990](http://publications.europa.eu/resource/celex/31990L0435) [relativa ao regime fiscal comum aplicável às sociedades-mães e sociedades afiliadas de Estados-membros diferentes](http://publications.europa.eu/resource/celex/31990L0435) [(90/435/CEE)](http://publications.europa.eu/resource/celex/31990L0435) (JO L 225, 22.9.1990, p.6)\n\n**revogado por:**\n\n- [Directiva 2011/96/UE do Conselho de 30 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011L0096) — L 345 — 8 — 29.12.2011"
+  }
+ }
+}

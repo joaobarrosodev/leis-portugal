@@ -34,6 +34,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-09-03'
+version_history:
+  file: diretiva-ue-1988-661.versoes.json
+  count: 1
+  source_lastmod: '2008-09-03'
+  versions:
+  - date: '2008-09-03'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31988L0661
   eli: http://data.europa.eu/eli/dir/1988/661/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/bdda5088-3142-4d0d-97cd-60b480f7c058.0011
   content_url: http://publications.europa.eu/resource/cellar/a5e19494-f460-49f4-8a8f-91d13ae63ff8.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01988L0661-20080903
-  retrieved_at: '2026-10-22T02:42:03Z'
+  retrieved_at: '2026-10-22T14:35:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T01:04:50.671+01:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:03Z'
-  notes: Texto consolidado 01988L0661-20080903.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:35:29Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-1988-661.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -136,39 +145,22 @@ relationships:
   date: '2016-06-29'
 article_structure:
   article_count: 16
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:03Z'
-  warnings: []
+  checked_at: '2026-10-22T14:35:29Z'
+  warnings:
+  - '01988L0661-19881222: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01988L0661-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01988L0661-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 88/661/CEE do Conselho de 19 de Dezembro de 1988
-
-> 1988L0661 — PT — 03.09.2008 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003R0806) — [REGULAMENTO (CE) N.º 806/2003 DO CONSELHO de 14 de Abril de 2003](http://publications.europa.eu/resource/celex/32003R0806) — L 122 — 1 — 16.5.2003
-- [►M2](http://publications.europa.eu/resource/celex/32008L0073) — [DIRECTIVA 2008/73/CE DO CONSELHO Texto relevante para efeitos do EEE de 15 de Julho de 2008](http://publications.europa.eu/resource/celex/32008L0073) — L 219 — 40 — 14.8.2008
-
-**Alterado por:**
-
-- [A1](http://publications.europa.eu/resource/celex/11994N) — [Acto de Adesão da Áustria, da Finlândia e da Suécia](http://publications.europa.eu/resource/celex/11994N) — C 241 — 21 — 29.8.1994
-- (adaptado pela Decisão 95/1/CE, Euratom, CECA do Conselho) — L 001 — 1 — ..
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/31988L0661R%2801%29) — [Rectificação, JO L 289, 7.10.1989, p. 51 (88/661)](http://publications.europa.eu/resource/celex/31988L0661R%2801%29)
-
-## DIRECTIVA DO CONSELHO
 
 de 19 de Dezembro de 1988
 

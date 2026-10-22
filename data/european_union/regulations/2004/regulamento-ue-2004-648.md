@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2004-648.versoes.json
+  count: 1
+  source_lastmod: '2015-06-01'
+  versions:
+  - date: '2004-04-08'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32004R0648
   eli: http://data.europa.eu/eli/reg/2004/648/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2b1a3908-f4c7-45bd-91ef-9bf22e4665b5.0010
   content_url: http://publications.europa.eu/resource/cellar/2b1a3908-f4c7-45bd-91ef-9bf22e4665b5.0010.01/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:45:11Z'
+  retrieved_at: '2026-10-22T14:57:46Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-30T04:53:53.638+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:11Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:46Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2004-648.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -229,17 +238,22 @@ relationships:
 article_structure:
   article_count: 19
   section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:11Z'
+  checked_at: '2026-10-22T14:57:46Z'
   warnings:
-  - 'Versão consolidada 02004R0648-20150601 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
-  - Não foi detetado o título principal no XHTML.
+  - '02004R0648-20051008: versão indisponível (Sem expressão na língua por para CELEX 02004R0648-20051008.)'
+  - '02004R0648-20060711: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0648-20070112: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0648-20090120: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0648-20090420: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0648-20090627: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0648-20120419: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0648-20150601: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

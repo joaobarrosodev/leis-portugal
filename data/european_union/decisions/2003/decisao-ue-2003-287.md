@@ -36,6 +36,103 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-07-30'
+version_history:
+  file: decisao-ue-2003-287.versoes.json
+  count: 3
+  source_lastmod: '2009-07-30'
+  versions:
+  - date: '2003-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-01-19'
+    amending: eu:celex:32008D0063:por
+    amending_title: DECISÃO DA COMISSÃO de 20 de Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Adita ANEXO
+    - Adita CONTEXTO
+    - Adita Objectivos dos critérios
+    - Adita Requisitos de avaliação e verificação
+    - Adita CRITÉRIOS OBRIGATÓRIOS
+    - Adita ENERGIA
+    - Adita 1. Electricidade produzida a partir de fontes de energia renováveis
+    - Adita 2. Carvão e óleos pesados.
+    - Adita 3. Electricidade utilizada para o aquecimento
+    - Adita 4. Rendimento das caldeiras
+    - Adita 5. Ar condicionado
+    - Adita 6. Isolamento das janelas
+    - Adita 7. Desligamento do aquecimento e do ar condicionado
+    - Adita 8. Desligamento das luzes
+    - Adita 9. Eficiência energética das lâmpadas eléctricas
+    - Adita 10. Temporizador de sauna
+    - Adita ÁGUA
+    - Adita 11. Fonte de abastecimento de água
+    - Adita 12. Caudal de água das torneiras e chuveiros
+    - Adita 13. Economia de água nas casas de banho
+    - Adita 14. Recipientes para o lixo nas casas de banho
+    - Adita 15. Autoclismos dos urinóis
+    - Adita 16. Perdas de água
+    - Adita 17. Mudança de toalhas e lençóis
+    - Adita 18. Rega das plantas e jardins
+    - Adita 19. Tratamento das águas residuais
+    - Adita 20. Plano de águas residuais
+    - Adita DETERGENTES E DESINFECTANTES
+    - Adita 21. Desinfectantes
+    - Adita 22. Formação do pessoal em matéria de utilização de detergentes e desinfectantes
+    - Adita RESÍDUOS
+    - Adita 23. Triagem dos resíduos pelos hóspedes
+    - Adita 24. Resíduos perigosos
+    - Adita 25. Triagem dos resíduos
+    - Adita 26. Transporte dos resíduos
+    - Adita 27. Produtos descartáveis
+  - date: '2009-07-30'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime ANEXO
+    - Suprime CONTEXTO
+    - Suprime Objectivos dos critérios
+    - Suprime Requisitos de avaliação e verificação
+    - Suprime CRITÉRIOS OBRIGATÓRIOS
+    - Suprime ENERGIA
+    - Suprime 1. Electricidade produzida a partir de fontes de energia renováveis
+    - Suprime 2. Carvão e óleos pesados.
+    - Suprime 3. Electricidade utilizada para o aquecimento
+    - Suprime 4. Rendimento das caldeiras
+    - Suprime 5. Ar condicionado
+    - Suprime 6. Isolamento das janelas
+    - Suprime 7. Desligamento do aquecimento e do ar condicionado
+    - Suprime 8. Desligamento das luzes
+    - Suprime 9. Eficiência energética das lâmpadas eléctricas
+    - Suprime 10. Temporizador de sauna
+    - Suprime ÁGUA
+    - Suprime 11. Fonte de abastecimento de água
+    - Suprime 12. Caudal de água das torneiras e chuveiros
+    - Suprime 13. Economia de água nas casas de banho
+    - Suprime 14. Recipientes para o lixo nas casas de banho
+    - Suprime 15. Autoclismos dos urinóis
+    - Suprime 16. Perdas de água
+    - Suprime 17. Mudança de toalhas e lençóis
+    - Suprime 18. Rega das plantas e jardins
+    - Suprime 19. Tratamento das águas residuais
+    - Suprime 20. Plano de águas residuais
+    - Suprime DETERGENTES E DESINFECTANTES
+    - Suprime 21. Desinfectantes
+    - Suprime 22. Formação do pessoal em matéria de utilização de detergentes e desinfectantes
+    - Suprime RESÍDUOS
+    - Suprime 23. Triagem dos resíduos pelos hóspedes
+    - Suprime 24. Resíduos perigosos
 identifiers:
   celex: 32003D0287
   eli: http://data.europa.eu/eli/dec/2003/287/oj
@@ -50,7 +147,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b3461abf-ca30-4292-9a2b-1d8c039da11b.0010
   content_url: http://publications.europa.eu/resource/cellar/1291b5bf-849f-4de6-bfb4-9453952ab291.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003D0287-20090730
-  retrieved_at: '2026-10-22T03:11:04Z'
+  retrieved_at: '2026-10-22T14:54:25Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T22:06:38.035+01:00'
 integrity:
@@ -59,9 +156,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:04Z'
-  notes: Texto consolidado 02003D0287-20090730.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:25Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-2003-287.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -105,16 +202,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:04Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:54:25Z'
+  warnings: []
   errors: []
 ---
 

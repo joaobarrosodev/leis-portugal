@@ -1,0 +1,139 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001D0218:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001D0218-20060223",
+ "dre_path": null,
+ "source_lastmod": "2006-02-23",
+ "versions": [
+  {
+   "date": "2001-03-21",
+   "future": false,
+   "celex": "32001D0218",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b53878702c3ce37f",
+    "f04941d52efbd6c7",
+    "b892ec8add4d9431",
+    "485e9c8c2a3b3c46",
+    "4bdd248704c36e09",
+    "368c76567fee794d",
+    "a49d28f8505a4df0",
+    "6ce660f64e75963b",
+    "183e0e2bf02f6e2c",
+    "913ac0ac0bd7117a"
+   ]
+  },
+  {
+   "date": "2006-02-23",
+   "future": false,
+   "celex": "02001D0218-20060223",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "2d6d7b66b6164920"
+   ]
+  }
+ ],
+ "fragments": {
+  "b53878702c3ce37f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**2001/218/CE: Decisão da Comissão, de 12 de Março de 2001, que requer que os Estados-Membros adoptem provisoriamente medidas adicionais contra a propagação de Bursaphelenchus xylophilus (Steiner et Buhrer) Nickle et al. (nemátodo do pinheiro) no que diz respeito a zonas de Portugal, com excepção daquelas em que a sua ausência é conhecida [notificada com o número C(2001) 692]** *Jornal Oficial nº L 081 de 21/03/2001 p. 0034 - 0038*\n\nDecisão da Comissão\n\nde 12 de Março de 2001\n\nque requer que os Estados-Membros adoptem provisoriamente medidas adicionais contra a propagação de Bursaphelenchus xylophilus (Steiner et Buhrer) Nickle et al. (nemátodo do pinheiro) no que diz respeito a zonas de Portugal, com excepção daquelas em que a sua ausência é conhecida\n\n[notificada com o número C(2001) 692]\n\n(2001/218/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade(1), e, nomeadamente, o n.o 3 do seu artigo 16.o,\n\nConsiderando o seguinte:\n\n(1) Sempre que um Estado-Membro estime que há um perigo iminente de introdução no seu território de Bursaphelenchus xylophilus (Steiner et Buhrer) Nickle et al. (nemátodo do pinheiro) a partir de outro Estado-Membro, pode adoptar provisoriamente todas as medidas adicionais necessárias para se proteger desse perigo.\n\n(2) Em 25 de Junho de 1999, Portugal informou os outros Estados-Membros e a Comissão de que algumas amostras de pinheiros originárias do seu território tinham sido identificadas como infestadas pelo nemátodo do pinheiro. Relatórios complementares apresentados por Portugal indicaram que novas amostras de pinheiros se encontravam infestadas pelo nemátodo do pinheiro.\n\n(3) A Suécia, com base nas informações supramencionadas, adoptou, em 29 de Setembro de 1999, certas medidas adicionais, incluindo um tratamento especial pelo calor e a utilização de um passaporte fitossanitário, aplicáveis a toda a madeira saída de Portugal, a fim de se proteger de forma mais eficaz da introdução do nemátodo do pinheiro de Portugal.\n\n(4) Não foi ainda possível identificar a fonte de contaminação, embora haja elementos indicativos de que os materiais de embalagem são a via mais provável.\n\n(5) Pela Decisão 2000/58/CE(2), a Comissão autorizou os Estados-Membros a adoptar provisoriamente medidas adicionais contra a propagação do nemátodo do pinheiro no que diz respeito a zonas de Portugal, com excepção daquelas em que a sua ausência é conhecida.\n\n(6) De uma avaliação pelo Servição Alimentar e Veterinário em Maio e Outubro de 2000 e de informações adicionais fornecidas por Portugal, conclui-se que a situação fitossanitária melhorou em resultado da aplicação de um programa de erradicação. No entanto, foram ainda encontradas árvores com sintomas de infestação pelo nemátodo do pinheiro durante pesquisas efectuadas na zona onde a sua ocorrência era previamente conhecida.\n\n(7) Em pesquisas oficiais efectuadas pelos outros Estados-Membros em madeira, casca isolada e vegetais de Abies Mill., Cedrus Trew, Larix Mill., Picea A. Dietr., Pinus L., Pseudotsuga Carr. e Tsuga Carr. originários dos seus países, nenhuma das amostras colhidas e analisadas apresentou resultados positivos na detecção do nemátodo do pinheiro.\n\n(8) É, pois, necessário que Portugal continue a tomar medidas específicas. Pode também ser necessário que os outros Estados-Membros continuem a adoptar medidas adicionais para se protegerem.\n\n(9) As medidas supramencionadas devem dizer respeito ao transporte de madeira, casca isolada e vegetais hospedeiros em zonas demarcadas de Portugal e dessas zonas para outras zonas de Portugal e para os outros Estados-Membros.\n\n(10) É também necessário que Portugal continue a tomar medidas para controlar a propagação do nemátodo do pinheiro com vista à sua erradicação.\n\n(11) O efeito das medidas de emergência será avaliado continuamente durante 2001/2002, nomeadamente com base nas informações a fornecer por Portugal e pelos outros Estados-Membros. Se se verificar que as medidas de emergência referidas na presente decisão não são suficientes para evitar a propagação no nemátodo do pinheiro ou que não foram cumpridas, devem ser previstas medidas mais severas ou alternativas.\n\n(12) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Fitossanitário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "f04941d52efbd6c7": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos da presente decisão, entende-se por:\n\n- \"nemátodo do pinheiro\", a Bursaphelenchus xylophilus (Steiner et Buhrer) Nickle et al.,\n\n- \"madeira e casca susceptíveis\", a madeira e a casca isolada de coníferas (Coniferales), com excepção das de Thuja L.,\n\n- \"vegetais susceptíveis\", os vegetais (com excepção dos frutos e sementes) de Abies Mill., Cedrus Trew, Larix Mill., Picea A. Dietr., Pinus L., Pseudotsuga Carr. e Tsuga Carr."
+  },
+  "b892ec8add4d9431": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAté 28 de Fevereiro de 2002, Portugal assegurará que sejam respeitadas as condições estabelecidas no anexo da presente decisão relativamente à madeira, casca e vegetais susceptíveis que se destinem a ser transportados em zonas demarcadas de Portugal ou a partir de zonas demarcadas de Portugal, definidas em conformidade com o artigo 5.o, quer para outras zonas de Portugal quer para outros Estados-Membros.\n\nAs condições especificadas no ponto 1 do anexo da presente decisão são aplicáveis apenas às remessas que deixem as zonas demarcadas de Portugal após 28 de Fevereiro de 2001."
+  },
+  "485e9c8c2a3b3c46": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros de destino que não Portugal:\n\na) Podem submeter as remesssas de madeira e casca susceptíveis e de vegetais susceptíveis provenientes de zonas demarcadas de Portugal e transportados para os seus territórios a testes para detecção da presença do nemátodo do pinheiro;\n\nb) Podem tomar outras medidas adequadas para efectuarem um controlo oficial dessas remessas, a fim de avaliar se as mesmas respeitam as condições aplicáveis especificadas no anexo da presente decisão."
+  },
+  "4bdd248704c36e09": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros efectuarão, em madeira e casca susceptíveis e em vegetais susceptíveis originários dos seus territórios, pesquisas oficiais para detecção do nemátodo do pinheiro destinadas a determinar se há quaisquer indícios de infestação por esse nemátodo.\n\nSem prejuízo do disposto no n.o 1 do artigo 16.o da Directiva 2000/29/CE, sempre que os resultados das pesquisas referidas no primeiro parágrafo indicarem que o nemátodo do pinheiro ocorre em zonas em que a sua presença era previamente desconhecida, esses resultados serão notificados aos outros Estados-Membros e à Comissão até 15 de Novembro de 2001."
+  },
+  "368c76567fee794d": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nPortugal determinará as zonas em que é conhecida a ausência do nemátodo do pinheiro e demarcará zonas (a seguir designadas por zonas demarcadas) constituídas por uma parte em que a ocorrência do nemátodo do pinheiro é conhecida e por uma parte, designada por zona tampão, com uma largura não inferior a 20 quilómetros em redor da parte anteriormente referida, tendo em conta os resultados das pesquisas referidas no artigo 4.o\n\nA Comissão compilará uma lista de \"zonas\" em que se tem conhecimento da ausência do nemátodo do pinheiro e enviará essa lista ao Comité Fitossanitário Permanente e aos Estados-Membros. As zonas de Portugal que não estejam incluídas nessa lista serão consideradas zonas demarcadas.\n\nA lista das zonas referidas na primeira parte do segundo parágrafo será ajustada pela Comissão em função dos resultados das pesquisas referidos no segundo parágrafo do artigo 4.o e das constatações notificadas nos termos do n.o 1 do artigo 16.o da Directiva 2000/29/CE."
+  },
+  "a49d28f8505a4df0": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA presente decisão será reexaminada até 15 de Dezembro de 2001, o mais tardar."
+  },
+  "6ce660f64e75963b": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA Decisão 2000/58/CE é revogada com efeitos a partir da data de entrada em vigor da presente decisão."
+  },
+  "183e0e2bf02f6e2c": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 12 de Março de 2001.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 169 de 10.7.2000, p. 1.\n\n(2) JO L 21 de 26.1.2000, p. 36."
+  },
+  "913ac0ac0bd7117a": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nPara efeitos do artigo 2.o, devem ser cumpridas as seguintes condições:\n\n1. Sem prejuízo das disposições referidas no ponto 2, em caso de transporte de zonas demarcadas para zonas de Portugal que não sejam zonas demarcadas ou para outros Estados-Membros:\n\na) Os vegetais susceptíveis serão acompanhados de um passaporte fitossanitário preparado e emitido em conformidade com as disposições da Directiva 92/105/CEE da Comissão(1):\n\n- após terem sido oficialmente inspeccionados e considerados isentos de sinais ou sintomas do nemátodo do pinheiro e\n\n- se não tiverem sido observados sintomas do nemátodo do pinheiro no local de podução ou na sua vizinhança imediata desde o início do último ciclo vegetativo completo;\n\nb) A madeira e a casca isolada susceptíveis, com excepção da madeira sob a forma de:\n\n- estilhas, partículas, desperdícios ou aparas obtidos no todo ou em parte das coníferas em causa,\n\n- caixotes, engradados ou barricas,\n\n- paletes simples, paletes-caixas ou outros estrados para carga,\n\n- esteiras, separadores e suportes,\n\nmas incluindo a madeira que não manteve a sua superfície natural arredondada, serão acompanhadas do passaporte fitossanitário referido na alínea a) do ponto 1 supra, após a madeira ou a casca isolada terem sido submetidas a um tratamento adequado pelo calor até atingirem uma temperatura central mínima de 56 °C durante 30 minutos de forma a assegurar a isenção de nemátodos do pinheiro vivos;\n\nc) A madeira susceptível sob a forma de estilhas, partículas, desperdícios ou aparas obtidos no todo ou em parte das coníferas em causa será acompanhada do passaporte fitossanitário referido após ter sido submetia a um tratamento adequado por fumigação de forma a assegurar a isenção de nemátodos do pinheiro vivos;\n\nd) A madeira susceptível sob a forma de esteiras, separadores e suportes, incluindo a madeira que não manteve a sua superfície natural arredondada:\n\n- será descascada,\n\n- não apresentará orifícios de larvas com diâmetro superior a 3 milímetros,\n\n- apresentará um teor de humidade, expresso em percentagem de matéria seca aquando da transformação, inferior a 20 %;\n\ne) A madeira susceptível sob a forma de caixotes, caixas, engradados, barricas e embalagens semelhantes, paletes simples, paletes-caixas e outros estrados para carga e taipais de paletes, que estejam ou não a ser utilizados para o transporte de qualquer tipo de objectos, será submetida quer a um tratamento adequado pelo calor até atingir uma temperatura central mínima de 56 °C durante 30 minutos, quer a um tratamento por pressão (impregnação), quer a fumigação, a fim de assegurar a isenção de nemátodos do pinheiro vivos, que apresentará uma marca de tratamento oficialmente apovado que permita identificar onde e por quem o tratamento foi efectuado, quer será acompanhada do passaporte fitossanitário referido que ateste as medidas aplicadas.\n\n2. Em caso de transporte dentro de zonas demarcadas de Portugal:\n\na) Os vegetais susceptíveis:\n\n- produzidos em áreas nas quais, e na vizinhança imediata das quais, não foram observados sintomas do nemátodo do pinheiro desde o início do último ciclo vegetativo completo e considerados isentos de sinais ou sintomas do nemátodo do pinheiro em resultado de inspecções oficiais serão acompanhados do passaporte fitossanitário referido quando transportados da área de produção,\n\n- produzidos em áreas nas quais, e na vizinhança imediata das quais, foram observados sintomas do nemátodo do pinheiro desde o início do último ciclo vegetativo completo ou identificados como infestados pelo nemátodo do pinheiro não serão transportados da área de produção e serão queimados com vista à sua destruição,\n\n- produzidos de áreas, tais como florestas, jardins públicos ou jardins privados, identificadas como infestadas pelo nemátodo do pinheiro, ou cujos sintomas indiquem estar pouco sãos, ou que se encontrem em áreas queimadas ou debilitadas, serão:\n\n- se identificados entre 1 de Novembro e 1 de Abril, abatidos durante esse período, ou\n\n- se identificados entre 2 de Abril e 31 de Outubro, imediatamente abatidos, e\n\n- se situados na parte das zonas demarcadas designadas como zonas tampão em conformidade com o disposto no artigo 5.o, testados para a detecção da presença do nemátodo do pinheiro. Se a presença for confirmada, a delimitação das zonas demarcadas será consequentemente alterada;\n\nb) No período de 1 de Novembro a 1 de Abril, a madeira susceptível sob a forma de madeira redonda ou serrada, com ou sem casca, incluindo a madeira que não manteve a sua superfície natural arredondada:\n\ni) Obtida de árvores identificadas como infestadas pelo nemátodo do pinheiro, ou que se encontre em áreas queimadas ou debilitadas, ou cujos sintomas indiquem estar pouco sã, será, antes de 2 de Abril:\n\n- queimada com vista à sua destruição sob controlo oficial em locais adequados, ou\n\n- transportada sob controlo oficial para:\n\n- uma instalação de transformação para ser reduzida a estilhas e utilizada nessa instalação, ou\n\n- uma instalação industrial para utilização como combustível nessa instalação, ou\n\n- uma instalação de transformação onde será:\n\n- tratada pelo calor de forma a que a sua temperatura central atinja um mínimo de 56 °C durante 30 minutos, ou\n\n- reduzida a estilhas e fumigada de forma a assegurar a isenção de nemátodos do pinheiro vivos;\n\nii) Obtida de árvores que não as referidas na alínea i) será:\n\noficialmente testada para detecção da presença do nemátodo do pinheiro e de Monochamus spp.; se a presença for confirmada, a madeira será objecto das disposições referidas na alínea i); se a presença for infirmada, a madeira pode ser transportada sob controlo oficial para uma instalação de transformação para ser posteriormente utilizada como madeira de construção, ou, em derrogação, transportada para zonas de Portugal, que não as zonas demarcadas, sob controlo oficial, para instalações de transformação aprovadas notificadas à Comissão, nas quais a madeira, no período de 1 de Novembro a 1 de Abril, será:\n\n- tratada pelo calor de forma a que a temperatura central da madeira atinja um mínimo de 56 °C durante 30 minutos. O subsequente transporte dessa madeira tratada pelo calor é permitido desde que a madeira seja acompanhada do passaporte fitossanitário referido, ou\n\n- reduzida a estilhas e fumigada de forma a assegurar a isenção de nemátodos do pinheiro vivos. O subsequente transporte dessa madeira fumigada é pemitido desde que a madeira seja acompanhada do passaporte fitossanitário referido, ou\n\n- transformada em estilhas e utilizada para fins industriais nessa instalação, ou\n\n- transportada sob controlo oficial para uma instalação de transformação onde será:\n\n- tratada pelo calor de forma a que a sua temperatura central atinja um mínimo de 56 °C durante 30 minutos, ou\n\n- reduzida a estilhas e fumigada de forma a assegurar a isenção de nemátodos do pinheiro vivos, ou\n\n- reduzida a estilhas e utilizada para fins industriais;\n\nc) No período de 2 de Abril a 31 de Outubro, a madeira susceptível sob a forma de madeira redonda ou serrada, com ou sem casca, incluindo a madeira que não manteve a sua superfície natural arredondada:\n\ni) Obtida de árvores identificadas como infestadas pelo nemátodo do pinheiro, ou que se encontre em áreas queimadas ou debilitadas, ou cujos sintomas indiquem estar pouco são, será:\n\n- imediatamente queimada com vista à sua destruição sob controlo oficial em locais adequados, ou\n\n- imediatamente descascada em locais adequados fora da floresta, antes de ser transportada sob controlo oficial para locais de armazenagem em que seja tratada com um insecticida adequado ou que disponham de estruturas adequadas e aprovadas de armazenagem em meio húmido, disponíveis pelo menos durante o período em questão, a fim de ser subsequentemente transportada para uma instalação industrial:\n\n- para ser imediatamente reduzida a estilhas e utilizada para fins industriais, ou\n\n- para ser imediatamente utilizada como combustível nessa instalação, ou\n\n- para ser imediatamente tratada pelo calor de forma a que a sua temperatura central atinja um mínimo de 56 °C durante 30 minutos, ou\n\n- para ser imediatamente reduzida a estilhas e fumigada de forma a assegurar a isenção de nemátodos do pinheiro vivos;\n\nii) Obtida de árvores que não as referidas na alínea i) será imediatamente descascada no local de abate ou na sua vizinhança imediata e:\n\n- oficialmente testada para detecção da presença do nemátodo, do pinheiro e de Monochamus spp.; se a presença for confirmada, a madeira será objecto das disposições referidas na alínea i); se a presença for infirmada, a madeira pode ser transportada sob controlo oficial para uma instalação de transformação para ser posteriormente utilizada como madeira de construção, ou\n\n- transportada sob controlo oficial para uma instalação de transformação onde será:\n\n- reduzida a estilhas e utilizada para fins industriais, ou\n\n- tratada pelo calor de forma a que a sua temperatura central atinja um mínimo de 56 °C durante 30 minutos, ou\n\n- reduzida a estilhas e fumigada de forma a assegurar a isenção de nemátodos do pinheiro vivos;\n\nd) A casca susceptível será:\n\n- queimada com vista à sua destruição ou utilizada como combustível numa instalação de transformação industrial, ou\n\n- tratada pelo calor de forma a que, em toda a casca, seja atingida a temperatura mínima de 56 °C durante 30 minutos, ou\n\n- fumigada de forma a assegurar a isenção de nemátodos do pinheiro vivos;\n\ne) A madeira susceptível sob a forma de resíduos produzidos aquando do abate será queimada sob controlo oficial em locais adequados:\n\n- entre 1 de Novembro e 1 de Abril, durante esse período, ou\n\n- entre 2 de Abril e 31 de Outubro, imediatamente;\n\nf) A madeira susceptível sob a forma de resíduos produzidos aquando da transformação da madeira será imediatamente queimada em locais adequados sob controlo oficial ou utilizada como combustível na instalação de transformação ou fumigada de forma a assegurar a isenção de nemátodos do pinheiro vivos;\n\ng) A madeira susceptível, sob a forma de caixotes, caixas, engradados, barricas e embalagens semelhantes, paletes simples, paletes-caixas e outros estrados para carga, taipais de paletes, esteiras, separadores e suportes, incluindo a madeira que não manteve a sua superfície natural arredondada:\n\n- será descascada,\n\n- não apresentará orifícios de larvas com diâmetro superior a 3 milímetros,\n\n- apresentará um teor de humidade, expresso em percentagem de matéria seca aquando da transformação, inferior a 20 %.\n\n(1) JO L 4 de 8.1.1993, p. 22."
+  },
+  "2d6d7b66b6164920": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2001D0218 — PT — 23.02.2006 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32001D0218) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/32001D0218) [de 12 de Março de 2001](http://publications.europa.eu/resource/celex/32001D0218) [que requer que os Estados-Membros adoptem provisoriamente medidas adicionais contra a propagação de *Bursaphelenchus xylophilus* (Steiner et Buhrer) Nickle et al. (nemátodo do pinheiro) no que diz respeito a zonas de Portugal, com excepção daquelas em que a sua ausência é conhecida](http://publications.europa.eu/resource/celex/32001D0218) [[notificada com o número C(2001) 692]](http://publications.europa.eu/resource/celex/32001D0218) [(2001/218/CE)](http://publications.europa.eu/resource/celex/32001D0218) (JO L 081, 21.3.2001, p.34)\n\n**revogado por:**\n\n- [Decisão da Comissão de 13 de Fevereiro de 2006](http://publications.europa.eu/resource/celex/32006D0133) — L 52 — 34 — 23.2.2006"
+  }
+ }
+}

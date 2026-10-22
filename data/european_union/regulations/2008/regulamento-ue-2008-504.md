@@ -35,6 +35,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-01-01'
+version_history:
+  file: regulamento-ue-2008-504.versoes.json
+  count: 2
+  source_lastmod: '2016-01-01'
+  versions:
+  - date: '2008-06-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime OBJECTO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime DOCUMENTO DE IDENTIFICAÇÃO
+    - Suprime Artigo 3.º — Princípios gerais e obrigação de identificação dos equídeos
+    - Suprime Artigo 4.º — Organismos emissores de documentos de identificação de equídeos
+    - Suprime Artigo 5.º — Identificação dos equídeos nascidos na Comunidade
+    - Suprime Artigo 6.º — Derrogação ao preenchimento integral da secção I do documento de identificação
+    - Suprime Artigo 7.º — Derrogações relativas à identificação de determinados equídeos em estado selvagem ou semi-selvagem
+    - Suprime Artigo 8.º — Identificação de equídeos importados
+    - Suprime CAPÍTULO III
+    - Suprime CONTROLOS EXIGIDOS ANTES DA EMISSÃO DOS DOCUMENTOS DE IDENTIFICAÇÃO E REPETIDORES
+    - Suprime Artigo 9.º — Verificação dos documentos de identificação únicos emitidos para os equídeos
+    - Suprime Artigo 10.º — Medidas para detectar anterior marcação electrónica nos equídeos
+    - Suprime Artigo 11.º — Métodos electrónicos de verificação da identidade
+    - Suprime Artigo 12.º — Métodos alternativos para verificação da identidade
+    - Suprime CAPÍTULO IV
+    - Suprime CIRCULAÇÃO E TRANSPORTE DE EQUÍDEOS
+    - Suprime Artigo 13.º — Circulação e transporte de equídeos registados e de equídeos de criação e de rendimento
+    - Suprime Artigo 14.º — Derrogação aplicável a determinadas situações de deslocação ou transporte com ou sem documentos
+      de identificação simplificados
+    - Suprime Artigo 15.º — Circulação e transporte de equídeos destinados a abate
+    - Suprime CAPÍTULO V
+    - Suprime DUPLICAÇÃO, SUBSTITUIÇÃO E SUSPENSÃO DO DOCUMENTO DE IDENTIFICAÇÃO
+    - Suprime Artigo 16.º — Duplicata do documento de identificação
+    - Suprime Artigo 17.º — Documento de identificação substituto
+    - Suprime Artigo 18.º — Suspensão do documento de identificação para efeitos de deslocação
+    - Suprime CAPÍTULO VI
+    - Suprime MORTE DO EQUÍDEO, EQUÍDEO DESTINADO A ABATE PARA CONSUMO HUMANO E REGISTO DE MEDICAMENTOS
+    - Suprime Artigo 19.º — Morte do equídeo
+    - Suprime Artigo 20.º — Equídeos destinados a abate para consumo humano e registo de medicação
+    - Suprime CAPÍTULO VII
+    - Suprime REGISTOS E SANÇÕES
+    - Suprime Artigo 21.º — Base de dados
+    - Suprime Artigo 22.º — Comunicação do código das bases de dados dos organismos emissores
+    - Suprime Artigo 23.º — Bases de dados centrais e respectivos pontos de contacto e cooperação
+    - Suprime Artigo 24.º — Sanções
+    - Suprime CAPÍTULO VIII
 identifiers:
   celex: 32008R0504
   eli: http://data.europa.eu/eli/reg/2008/504/oj
@@ -49,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/48935fca-a455-403f-a6d5-311d04add576.0018
   content_url: http://publications.europa.eu/resource/cellar/d0cd5bb4-646f-4a4f-ba6a-1c1e9b1d861c.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0504-20160101
-  retrieved_at: '2026-10-22T02:48:00Z'
+  retrieved_at: '2026-10-22T15:15:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T03:28:37.429+01:00'
 integrity:
@@ -58,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:00Z'
-  notes: Texto consolidado 02008R0504-20160101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:15:21Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2008-504.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -232,16 +286,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:00Z'
+  checked_at: '2026-10-22T15:15:21Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02008R0504-20080627: versão indisponível (Sem expressão na língua por para CELEX 02008R0504-20080627.)'
+  - '02008R0504-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0504-20141121: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

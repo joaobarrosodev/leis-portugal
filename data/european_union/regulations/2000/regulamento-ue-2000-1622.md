@@ -36,6 +36,210 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-06-04'
+version_history:
+  file: regulamento-ue-2000-1622.versoes.json
+  count: 9
+  source_lastmod: '2008-06-04'
+  versions:
+  - date: '2000-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-01'
+    amending: eu:celex:32000R2451:por
+    amending_title: REGULAMENTO (CE) N. o 2451/2000 DA COMISSÃO de 7 de Novembro de 2000; REGULAMENTO (CE) N.O 885/2001 DA
+      COMISSÃO de 24 de Abril de 2001; M3; REGULAMENTO (CE) N. o 1655/2001 DA COMISSÃO de 14 de Agosto de 2001; REGULAMENTO
+      (CE) N. o 2066/2001 DA COMISSÃO de 22 de Outubro de 2001; REGULAMENTO (CE) N. o 2244/2002 DA COMISSÃO de 16 de Dezembro
+      de 2002; REGULAMENTO (CE) N. o 1410/2003 DA COMISSÃO de 7 de Agosto de 2003; Acto relativo às condições de adesão da
+      República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia,
+      da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca
+      e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Ácido tartárico
+    - Altera Artigo 12.º — Resinas permutadoras de iões
+    - Altera Artigo 19.º — Teor de dióxido de enxofre
+    - Altera Artigo 24.º — Enriquecimento dos vinhos de base destinados à elaboração dos vinhos espumantes
+    - Altera Artigo 34.º — Definição
+    - Altera Artigo 44.º — Revogações
+    - Altera Artigo 45.º
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera ANEXO XVI
+    - Adita TÍTULO I
+    - Adita PRESCRIÇÕES RELATIVAS A CERTAS UVAS E MOSTOS DE UVAS
+    - Adita Artigo 3.º — Utilização de certos produtos que não têm o título alcoométrico volúmico natural na produção de vinhos
+      espumantes, vinhos espumosos gaseificados ou vinhos frisantes gaseificados
+    - Adita Artigo 4.º — Utilização de mostos de uvas provenientes de certas castas de videira na elaboração de vinhos espumantes
+      de qualidade de tipo aromático e de veqprd de tipo aromático e derrogações dessa utilização
+    - Adita TÍTULO II
+    - Adita PRÁTICAS E TRATAMENTOS ENOLÓGICOS
+    - Adita CAPÍTULO I
+    - Adita LIMITES E CONDIÇÕES RELATIVOS À UTILIZAÇÃO DE CERTAS SUBSTÂNCIAS AUTORIZADAS PARA FINS ENOLÓGICOS
+    - Adita Artigo 6.º
+    - Adita Artigo 11.ºA — Lisozima
+    - Adita CAPÍTULO II
+    - Adita LIMITES E CONDIÇÕES ESPECIAIS
+    - Adita PRÁTICAS ENOLÓGICAS
+    - Adita ENRIQUECIMENTO
+    - Adita ACIDIFICAÇÃO E DESACIDIFICAÇÃO
+    - Adita CAPÍTULO III
+    - Adita REGRAS COMUNS ÀS OPERAÇÕES DE ENRIQUECIMENTO, ACIDIFICAÇÃO E DESACIDIFICAÇÃO
+    - Adita CAPÍTULO IV
+    - Adita EDULCORAÇÃO
+    - Adita CAPÍTULO V
+    - Adita LOTE
+    - Adita CAPÍTULO VI
+    - Adita ADIÇÃO DE OUTROS PRODUTOS
+    - Adita CAPÍTULO VII
+    - Adita CONDIÇÕES RELATIVAS AO ENVELHECIMENTO
+    - Adita TÍTULO III
+    - Adita UTILIZAÇÃO EXPERIMENTAL DE NOVAS PRÁTICAS ENOLÓGICAS
+    - Adita TÍTULO IV
+  - date: '2004-08-01'
+    amending: eu:celex:32004R1427:por
+    amending_title: REGULAMENTO (CE) N. o 1427/2004 DA COMISSÃO de 9 de Agosto de 2004; REGULAMENTO (CE) N. o 1428/2004 DA
+      COMISSÃO de 9 de Agosto de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Ácido tartárico
+    - Altera Artigo 12.º — Resinas permutadoras de iões
+    - Altera (artigo 4.º do presente regulamento)
+    - Altera (artigo 5.º do presente regulamento)
+    - Altera 1. PRESCRIÇÕES APLICÁVEIS ÀS MEMBRANAS
+    - Altera (artigo 19.º do presente regulamento)
+    - Altera Teor de acidez volátil
+    - Altera 1. Lista dos vlqprd cuja elaboração inclui a adição de álcool de vinho ou de uvas secas, com um título alcoométrico
+      igual ou superior a 95 % vol. e inferior ou igual a 96 % vol.
+    - Altera 2. Lista dos vlqprd cuja elaboração inclui a adição de aguardente vínica ou de bagaço, com um título alcoométrico
+      igual ou superior a 52 % vol. e inferior ou igual a 86 % vol.
+    - Altera 4. Lista dos vlqprd cuja elaboração inclui a adição de mosto de uvas parcialmente fermentado proveniente de uvas
+      passas
+    - Altera Notas
+    - Adita Artigo 18.º A — Derrame de vinho ou de mostos de uvas sobre borra de vinho e bagaço de uvas ou polpa de aszú espremida
+    - Adita A. Lista das castas de videira cujas uvas podem ser utilizadas na constituição do vinho de base destinado à elaboração
+      de vinhos espumantes de qualidade de tipo aromático e de veqprd de tipo aromático
+    - Suprime Artigo 36.º — Regras específicas relativas ao lote de vinhos brancos e tintos em Espanha
+    - Suprime A. Lista das castas de videira cujas uvas podem ser utilizados na constituição do vinho de base destinado à
+      elaboração de vinhos espumantes de qualidade de tipo aromático e de veqprd de tipo aromático
+  - date: '2005-07-27'
+    amending: eu:celex:32005R1163:por
+    amending_title: REGULAMENTO (CE) N. o 1163/2005 DA COMISSÃO de 19 de Julho de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Ácido tartárico
+    - Altera Artigo 12.º — Resinas permutadoras de iões
+    - Altera Artigo 44.º — Revogações
+    - Altera (artigo 5.º do presente regulamento)
+    - Altera 1. PRESCRIÇÕES APLICÁVEIS ÀS MEMBRANAS
+    - Altera Notas
+  - date: '2006-05-05'
+    amending: eu:celex:32006R0643:por
+    amending_title: REGULAMENTO (CE) N. o 643/2006 DA COMISSÃO de 27 de Abril de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Ácido tartárico
+    - Altera Artigo 12.º — Resinas permutadoras de iões
+    - Altera 1. PRESCRIÇÕES APLICÁVEIS ÀS MEMBRANAS
+    - Altera Notas
+    - Adita Artigo 15.º A — Dicarbonato dimetílico
+    - Adita Limites de utilização de determinadas substâncias
+    - Adita (Artigo 5.º do presente regulamento)
+    - Adita ANEXO IX-A
+    - Adita Prescrições aplicáveis ao dicarbonato dimetílico
+    - Adita (Artigo 15.º-A do presente regulamento)
+    - Suprime Limites de emprego de certas substâncias
+    - Suprime (artigo 5.º do presente regulamento)
+  - date: '2006-10-19'
+    amending: eu:celex:32006R1507:por
+    amending_title: REGULAMENTO (CE) N. o 1507/2006 DA COMISSÃO de 11 de Outubro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Ácido tartárico
+    - Altera Artigo 12.º — Resinas permutadoras de iões
+    - Altera (Artigo 5.º do presente regulamento)
+    - Altera 1. PRESCRIÇÕES APLICÁVEIS ÀS MEMBRANAS
+    - Altera Notas
+    - Adita Artigo 18.º-B — Utilização de pedaços de madeira de carvalho
+    - Adita ANEXO XI A
+    - Adita Prescrições relativas aos pedaços de madeira de carvalho
+    - Adita OBJECTO, ORIGEM E DOMÍNIO DE APLICAÇÃO
+    - Adita ROTULAGEM DO PRODUTO
+    - Adita DIMENSÕES
+    - Adita PUREZA
+  - date: '2007-05-27'
+    amending: eu:celex:32006R2030:por
+    amending_title: REGULAMENTO (CE) N. o 2030/2006 DA COMISSÃO de 21 de Dezembro de 2006; M14; REGULAMENTO (CE) N. o 389/2007
+      DA COMISSÃO de 11 de Abril de 2007; REGULAMENTO (CE) N. o 556/2007 DA COMISSÃO de 23 de Maio de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Ácido tartárico
+    - Altera Artigo 12.º — Resinas permutadoras de iões
+    - Altera (Artigo 5.º do presente regulamento)
+    - Altera 1. PRESCRIÇÕES APLICÁVEIS ÀS MEMBRANAS
+    - Altera Teor de acidez volátil
+    - Altera Notas
+    - Adita ANEXO XII A
+    - Suprime ANEXO ΧΙΙA
+  - date: '2007-11-10'
+    amending: eu:celex:32007R1300:por
+    amending_title: REGULAMENTO (CE) N. o 1300/2007 DA COMISSÃO de 6 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Ácido tartárico
+    - Altera Artigo 12.º — Resinas permutadoras de iões
+    - Altera (Artigo 5.º do presente regulamento)
+    - Altera 1. PRESCRIÇÕES APLICÁVEIS ÀS MEMBRANAS
+    - Altera Teor de acidez volátil
+    - Altera Notas
+  - date: '2008-06-04'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto do presente regulamento
+    - Suprime TÍTULO I
+    - Suprime PRESCRIÇÕES RELATIVAS A CERTAS UVAS E MOSTOS DE UVAS
+    - Suprime Artigo 2.º — Utilização de uvas provenientes de certas castas
+    - Suprime Artigo 3.º — Utilização de certos produtos que não têm o título alcoométrico volúmico natural na produção de
+      vinhos espumantes, vinhos espumosos gaseificados ou vinhos frisantes gaseificados
+    - Suprime Artigo 4.º — Utilização de mostos de uvas provenientes de certas castas de videira na elaboração de vinhos espumantes
+      de qualidade de tipo aromático e de veqprd de tipo aromático e derrogações dessa utilização
+    - Suprime TÍTULO II
+    - Suprime PRÁTICAS E TRATAMENTOS ENOLÓGICOS
+    - Suprime CAPÍTULO I
+    - Suprime LIMITES E CONDIÇÕES RELATIVOS À UTILIZAÇÃO DE CERTAS SUBSTÂNCIAS AUTORIZADAS PARA FINS ENOLÓGICOS
+    - Suprime Artigo 5.º — Limites de emprego de certas substâncias
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º — Tartarato de cálcio
+    - Suprime Artigo 8.º — Ácido tartárico
+    - Suprime Artigo 9.º — Resina de pinheiro de Alepo
+    - Suprime Artigo 10.º — Betaglucanase
+    - Suprime Artigo 11.º — Bactérias lácteas
+    - Suprime Artigo 11.ºA — Lisozima
+    - Suprime Artigo 12.º — Resinas permutadoras de iões
+    - Suprime Artigo 13.º — Ferrocianeto de potássio
+    - Suprime Artigo 14.º — Fitato de cálcio
+    - Suprime Artigo 15.º — Ácido DL-tartárico
+    - Suprime Artigo 15.º A — Dicarbonato dimetílico
+    - Suprime Artigo 16.º — Tratamento por electrodiálise
+    - Suprime Artigo 17.º — Urease
+    - Suprime Artigo 18.º — Adição de oxigénio
+    - Suprime Artigo 18.º A — Derrame de vinho ou de mostos de uvas sobre borra de vinho e bagaço de uvas ou polpa de aszú
+      espremida
+    - Suprime Artigo 18.º-B — Utilização de pedaços de madeira de carvalho
+    - Suprime CAPÍTULO II
+    - Suprime LIMITES E CONDIÇÕES ESPECIAIS
+    - Suprime Artigo 19.º — Teor de dióxido de enxofre
+    - Suprime Artigo 20.º — Teor de acidez volátil
+    - Suprime Artigo 21.º — Utilização de sulfato de cálcio em certos vinhos licorosos
+    - Suprime PRÁTICAS ENOLÓGICAS
+    - Suprime ENRIQUECIMENTO
+    - Suprime Artigo 22.º — Autorização da adição de sacarose
+    - Suprime Artigo 23.º — Enriquecimento quando as condições climáticas tenham sido excepcionalmente desfavoráveis
+    - Suprime Artigo 24.º — Enriquecimento dos vinhos de base destinados à elaboração dos vinhos espumantes
+    - Suprime Artigo 25.º — Regras administrativas relativas ao enriquecimento
 identifiers:
   celex: 32000R1622
   eli: http://data.europa.eu/eli/reg/2000/1622/oj
@@ -50,7 +254,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/87b2e4db-45c1-4d6a-8f62-a7cf5324bb04.0009
   content_url: http://publications.europa.eu/resource/cellar/15c634f1-2d0e-4f1d-82ec-d1e13d6585ec.0016.04/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R1622-20080604
-  retrieved_at: '2026-10-22T02:47:18Z'
+  retrieved_at: '2026-10-22T14:49:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T10:46:17.674+01:00'
 integrity:
@@ -59,9 +263,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:18Z'
-  notes: Texto consolidado 02000R1622-20080604.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:29Z'
+  notes: 9 versão(ões); histórico completo em regulamento-ue-2000-1622.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -304,16 +508,21 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:18Z'
+  checked_at: '2026-10-22T14:49:29Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02000R1622-20001111: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000R1622-20010517: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000R1622-20010801: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000R1622-20010816: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000R1622-20011026: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000R1622-20030106: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000R1622-20030801: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -35,6 +35,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-06-27'
+version_history:
+  file: diretiva-ue-1992-91.versoes.json
+  count: 2
+  source_lastmod: '2007-06-27'
+  versions:
+  - date: '1992-11-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-27'
+    amending: eu:celex:32007L0030:por
+    amending_title: DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de
+      Junho de 2007
+    changes:
+    - Altera preambulo
+    - Adita SECÇÃO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita Artigo 1.º — Objecto
+    - Adita Artigo 2.º — Definições
+    - Adita SECÇÃO II
+    - Adita OBRIGAÇÕES DA ENTIDADE PATRONAL
+    - Adita Artigo 3.º — Obrigações gerais
+    - Adita Artigo 4.º — Protecção contra incêndios, explosões e atmosferas nocivas
+    - Adita Artigo 5.º — Meios de evacuação e salvamento
+    - Adita Artigo 6.º — Sistemas de comunicação, aviso e alarme
+    - Adita Artigo 7.º — Informação dos trabalhadores
+    - Adita Artigo 8.º — Vigilância da saúde
+    - Adita Artigo 9.º — Consulta e participação dos trabalhadores
+    - Adita Artigo 10.º — Prescrições mínimas da segurança e de saúde
+    - Adita SECÇÃO III
+    - Adita DISPOSIÇÕES DIVERSAS
+    - Adita Artigo 11.º — Adaptação dos anexos
+    - Adita Artigo 12.º — Disposições finais
+    - Adita Artigo 13.º
+    - Adita ANEXO
+    - Adita PRESCRIÇÕES MÍNIMAS DE SEGURANÇA E DE SAÚDE A QUE SE REFERE O ARTIGO 10.º DA DIRECTIVA
+    - Adita Observação preliminar
+    - Adita PARTE A
+    - Adita Prescrições mínimas comuns aplicáveis às explorações localizadas em terra e no mar
+    - Adita 1. Estabilidade e solidez
+    - Adita 2. Vigilância e organização
+    - Adita 2.1. Organização dos locais de trabalho
+    - Adita 2.2. Pessoa responsável
+    - Adita 2.3. Vigilância
+    - Adita 2.4. Trabalhadores competentes
+    - Adita 2.5. Informação, instruções e formação
+    - Adita 2.6. Instruções escritas
+    - Adita 2.7. Formas de actuar seguras
+    - Adita 2.8. Licenças de trabalho
+    - Adita 2.9. Análise periódica das medidas de segurança e de saúde
+    - Adita 3. Equipamentos e instalações mecânicas e eléctricas
+    - Adita 3.1. Generalidades
+    - Adita 3.2. Disposições especiais
+    - Adita 4. Manutenção
 identifiers:
   celex: 31992L0091
   eli: http://data.europa.eu/eli/dir/1992/91/oj
@@ -49,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7fd02e7c-5e6c-4840-a975-75af08d50a96.0011
   content_url: http://publications.europa.eu/resource/cellar/24f894c6-a0b3-40d3-af6f-4a365e29853c.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0091-20070627
-  retrieved_at: '2026-10-22T02:42:10Z'
+  retrieved_at: '2026-10-22T14:41:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T23:17:14.125+01:00'
 integrity:
@@ -58,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:10Z'
-  notes: Texto consolidado 01992L0091-20070627.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:16Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1992-91.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -119,29 +173,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/1338a22e-5af5-4932-857f-a077025cf89a
 article_structure:
   article_count: 13
-  section_count: 75
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 76
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:10Z'
+  checked_at: '2026-10-22T14:41:16Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 92/91/CEE do Conselho, de 3 de Novembro de 1992
-
-> 1992L0091 — PT — 27.06.2007 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007L0030) — [DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007](http://publications.europa.eu/resource/celex/32007L0030) — L 165 — 21 — 27.6.2007
-
-## DIRECTIVA 92/91/CEE DO CONSELHO
 
 de 3 de Novembro de 1992
 

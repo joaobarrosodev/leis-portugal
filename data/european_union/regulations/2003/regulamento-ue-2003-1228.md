@@ -36,6 +36,86 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-03-03'
+version_history:
+  file: regulamento-ue-2003-1228.versoes.json
+  count: 4
+  source_lastmod: '2011-03-03'
+  versions:
+  - date: '2003-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-07-01'
+    amending: eu:celex:32004R1223:por
+    amending_title: REGULAMENTO (CE) N. o 1223/2004 DO CONSELHO de 28 de Junho de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Novas interligações
+    - Altera Artigo 15.º — Entrada em vigor
+    - Adita ANEXO
+    - Adita Orientações para a gestão e a atribuição da capacidade de transporte disponível das interligações entre redes
+      nacionais
+    - Adita Geral
+    - Adita Caso dos contratos a longo prazo
+    - Adita Fornecimento de informações
+    - Adita Princípios que regem os métodos de gestão dos congestionamentos
+    - Adita Orientações para leilões explícitos
+    - Adita Notas
+    - Suprime ANEXO — Orientações para a gestão e a atribuição da capacidade de transporte disponível das interligações entre
+      redes nacionais
+  - date: '2006-12-01'
+    amending: eu:celex:32006D0770:por
+    amending_title: DECISÃO DA COMISSÃO de 9 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Notas
+    - Adita Orientações sobre a gestão e a atribuição da capacidade de transporte disponível nas linhas de interligação entre
+      redes nacionais
+    - Adita 1. Disposições gerais
+    - Adita 2. Métodos de gestão dos congestionamentos
+    - Adita 3. Coordenação
+    - Adita 4. Horário das operações do mercado
+    - Adita 5. Transparência
+    - Adita 6. Utilização das receitas provenientes dos procedimentos de gestão de congestionamentos
+    - Suprime Orientações para a gestão e a atribuição da capacidade de transporte disponível das interligações entre redes
+      nacionais
+    - Suprime Geral
+    - Suprime Caso dos contratos a longo prazo
+    - Suprime Fornecimento de informações
+    - Suprime Princípios que regem os métodos de gestão dos congestionamentos
+    - Suprime Orientações para leilões explícitos
+  - date: '2011-03-03'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto e âmbito
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Mecanismo de compensação entre operadores de redes de transporte
+    - Suprime Artigo 4.º — Tarifas de acesso às redes
+    - Suprime Artigo 5.º — Fornecimento de informações sobre as capacidades de interligação
+    - Suprime Artigo 6.º — Princípios gerais de gestão dos congestionamentos
+    - Suprime Artigo 7.º — Novas interligações
+    - Suprime Artigo 8.º — Orientações
+    - Suprime Artigo 9.º — Entidades reguladoras
+    - Suprime Artigo 10.º — Fornecimento de informações e confidencialidade
+    - Suprime Artigo 11.º — Direito dos Estados-Membros de preverem medidas mais detalhadas
+    - Suprime Artigo 12.º — Sanções
+    - Suprime Artigo 13.º — Comité
+    - Suprime Artigo 14.º — Relatório da Comissão
+    - Suprime Artigo 15.º — Entrada em vigor
+    - Suprime ANEXO
+    - Suprime Orientações sobre a gestão e a atribuição da capacidade de transporte disponível nas linhas de interligação
+      entre redes nacionais
+    - Suprime 1. Disposições gerais
+    - Suprime 2. Métodos de gestão dos congestionamentos
+    - Suprime 3. Coordenação
+    - Suprime 4. Horário das operações do mercado
+    - Suprime 5. Transparência
+    - Suprime 6. Utilização das receitas provenientes dos procedimentos de gestão de congestionamentos
+    - Suprime Notas
 identifiers:
   celex: 32003R1228
   eli: http://data.europa.eu/eli/reg/2003/1228/oj
@@ -50,7 +130,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a11cd3a1-8c11-4319-8c57-261639a0b75b.0010
   content_url: http://publications.europa.eu/resource/cellar/10bb241f-748f-4a39-9b33-7cc1e557d54b.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R1228-20110303
-  retrieved_at: '2026-10-22T02:41:23Z'
+  retrieved_at: '2026-10-22T14:55:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:30:00.664+02:00'
 integrity:
@@ -59,9 +139,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:23Z'
-  notes: Texto consolidado 02003R1228-20110303.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:36Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2003-1228.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -152,16 +232,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:23Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:55:36Z'
+  warnings: []
   errors: []
 ---
 

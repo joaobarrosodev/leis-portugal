@@ -36,6 +36,47 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-10-27'
+version_history:
+  file: diretiva-ue-2000-26.versoes.json
+  count: 3
+  source_lastmod: '2009-10-27'
+  versions:
+  - date: '2000-07-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-06-11'
+    amending: eu:celex:32005L0014:por
+    amending_title: DIRECTIVA 2005/14/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 11 de
+      Maio de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Representante para sinistros
+    - Altera Artigo 5.º — Centros de informação
+    - Altera Artigo 9.º
+    - Altera Artigo 13.º — Destinatários
+    - Adita Artigo 6.ºA — Organismo central
+    - Adita Notas
+  - date: '2009-10-27'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Ambito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Direito de acção directa
+    - Suprime Artigo 4.º — Representante para sinistros
+    - Suprime Artigo 5.º — Centros de informação
+    - Suprime Artigo 6.º — Organismos de indemnização
+    - Suprime Artigo 6.ºA — Organismo central
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º — Execução
+    - Suprime Artigo 11.º — Entrada em vigor
+    - Suprime Artigo 12.º — Sanções
+    - Suprime Artigo 13.º — Destinatários
+    - Suprime Notas
 identifiers:
   celex: 32000L0026
   eli: http://data.europa.eu/eli/dir/2000/26/oj
@@ -50,7 +91,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/42b7fe26-a97e-4953-a833-5c1ad449a1a7.0009
   content_url: http://publications.europa.eu/resource/cellar/f37721bd-315e-4ea5-a16c-7ab20b7c4a61.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0026-20091027
-  retrieved_at: '2026-10-22T02:40:30Z'
+  retrieved_at: '2026-10-22T14:48:45Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-12T11:40:10.125+02:00'
 integrity:
@@ -59,9 +100,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:30Z'
-  notes: Texto consolidado 02000L0026-20091027.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:45Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2000-26.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -194,16 +235,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:30Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:48:45Z'
+  warnings: []
   errors: []
 ---
 

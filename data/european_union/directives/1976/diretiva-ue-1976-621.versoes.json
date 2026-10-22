@@ -1,0 +1,129 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31976L0621:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0621-20151214",
+ "dre_path": null,
+ "source_lastmod": "2015-12-14",
+ "versions": [
+  {
+   "date": "2003-06-05",
+   "future": false,
+   "celex": "01976L0621-20030605",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "558cb2f78f2bd6da",
+    "a6af3ac3426eecd7",
+    "26317d3e1f71e9b5",
+    "9cf9419fc2d478c1",
+    "25b96bad6b0ef515",
+    "7a1978ed29f1a03b",
+    "6ed7e4e39bef36e4",
+    "239c524fb78b5c31",
+    "2eb36d0cf53d365d"
+   ]
+  },
+  {
+   "date": "2015-12-14",
+   "future": false,
+   "celex": "01976L0621-20151214",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º"
+   ],
+   "fragments": [
+    "167584c2f2d64381"
+   ]
+  }
+ ],
+ "fragments": {
+  "558cb2f78f2bd6da": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1976L0621 — PT — 05.06.2003 — 003.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31976L0621:PT:NOT) [DIRECTIVA DO CONSELHO de 20 de Julho de 1976 relativa à fixação do teor máximo de ácido erúcico nos óleos e gorduras destinados directamente à alimentação humana, bem como nos géneros alimentícios adicionados de óleos ou gorduras (76/621/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31976L0621:PT:NOT) (JO L 202, 28.7.1976, p.35)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT) | [Regulamento (CE) n.o 807/2003 do Conselho de 14 de Abril de 2003](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT) | L 122 | 36 | 16.5.2003 |\n\nAlterado por:\n\n| [A1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11979H:FR:NOT) | [Acto de Adesão da Grécia](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11979H:FR:NOT) | L 291 | 17 | 19.11.1979 |\n| --- | --- | --- | --- | --- |\n| [A2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11985I:FR:NOT) |  | L 302 | 23 | 15.11.1985 |\n\n(*) Este acto não existe em língua portuguesa.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31976L0621:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 20 de Julho de 1976\n\nrelativa à fixação do teor máximo de ácido erúcico nos óleos e gorduras destinados directamente à alimentação humana, bem como nos géneros alimentícios adicionados de óleos ou gorduras\n\n(76/621/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 43.o e 100.o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([1](http://publications.europa.eu/resource/cellar/4658ecda-2fdb-486b-b847-b40f3b7fae83.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([2](http://publications.europa.eu/resource/cellar/4658ecda-2fdb-486b-b847-b40f3b7fae83.0018.02/DOC_1#E0002)),\n\nConsiderando que se verificou que a administração de grandes quantidades de óleo de colza a animais de experiência produziu efeitos indesejáveis, mas que não ficou demonstrado que esses efeitos possam surgir no homem;\n\nConsiderando que estes efeitos parecem ser devidos principalmente ao ácido erúcico, um dos componentes deste óleo;\n\nConsiderando que outros óleos e gorduras comestíveis contêm ácido erúcico;\n\nConsiderando que estão actualmente em curso outros trabalhos relativos ao óleo de colza e a outros óleos e gorduras, mas que, a título de precaução, enquanto se aguarda a conclusão desses trabalhos, deve ser limitada a absorção de ácido erúcico;\n\nConsiderando que, para alcançar este objectivo, é conveniente fixar um teor máximo de ácido erúcico nos óleos e gorduras, bem como nos géneros alimentícios aos quais foram adicionados; que, todavia, é possível, sem inconveniente para a saúde humana, excluir do âmbito da aplicação de presente directiva os géneros alimentícios que, no total, contêm apenas pequenas quantidades de matérias gordas;\n\nConsiderando que, a este respeito, é conveniente fixar um valor máximo aplicável o mais tardar em 1 de Julho de 1979 que, na falta de elementos científicos precisos e definitivos nesta matéria, e tendo em conta a evolução qualitativa da produção de sementes de colza na Comunidade, assegure a protecção da saúde humana;\n\nConsiderando que em qualquer caso, o valor máximo de ácido erúcico não deve ser superior a 10 % a partir de 1 de Julho de 1977;\n\nConsiderando que certos Estados-membros fixaram jà, em função dos tipos de produtos e dos hábitos alimentares, o teor máximo de ácido erúcico, com base em exigências justificadas do ponto de vista da saúde pública;\n\nConsiderando que a fixação das modalidades relativas à colheita de amostras e dos métodos de análise necessários à determinação do teor de ácido erúcico dos produtos considerados são medidas de aplicação de natureza técnica e que é conveniente atribuir a sua adopção à Comissão, a fim de simplificar e acelerar o processo;\n\nConsiderando que, em todos os casos em que o Conselho atribui competência à Comissão para execução das regras estabelecidas no domínio dos géneros alimentícios, é conveniente prever um procedimento que institua uma estreita cooperação entre os Estados-membros e a Comissão no âmbito do Comité Permanente dos Géneros Alimentícios instituído pela Decisão do Conselho de 13 de Novembro de 1969 ([3](http://publications.europa.eu/resource/cellar/4658ecda-2fdb-486b-b847-b40f3b7fae83.0018.02/DOC_1#E0003)),\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "a6af3ac3426eecd7": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva aplica-se a:\n\na) Oleos, gorduras e suas misturas destinadas directamente ao consumo humano;\n\nb) Géneros alimentícios compostos, aos quais os óleos, as gorduras ou as suas misturas foram adicionados, e cujo teor total de matérias gordas seja superior a 5 %; os Estados-membros podem contudo aplicar igualmente as disposições da presente directiva aos géneros alimentícios cujo teor em matérias gordas seja igual ou inferior a 5 %."
+  },
+  "26317d3e1f71e9b5": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A partir de 1 de Julho de 1979, o mais tardar, o teor de ácido erúcico dos produtos referidos no artigo 1.o, calculado sobre o seu teor total de ácidos gordos na fase gorda, não pode ultrapassar 5 %.\n\n2. De qualquer modo, os Estados-membros fixarão a partir de 1 de Julho de 1977 um teor de ácido erúcico não superior a 10 %."
+  },
+  "9cf9419fc2d478c1": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs modalidades relativas à colheita de amostras e os métodos de análise necessários à determinação do teor de ácido erúcico nos produtos referidos no artigo 1.o, serão adoptados de acordo com o procedimento previsto no artigo 5.o"
+  },
+  "25b96bad6b0ef515": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Se um Estado-membro verificar com base numa fundamentação pormenorizada motivada por novos dados ou por uma nova avaliação dos dados já existentes, surgidos após a adopção da directiva, que os teores máximos do ácido erúcico fixados no artigo 2.o apresentam perigo para a saúde humana, mesmo que estejam conformes ao disposto na presente directiva, esse Estado-membro pode provisoriamente suspender ou restringir, no seu território, a aplicação das disposições em causa. Desse facto informará imediatamente os outros Estados-membros e a Comissão, especificando os motivos que justificam a sua decisão.\n\n2. A Comissão examinará com a maior brevidade os motivos invocados pelo Estado-membro interessado e procederá à consulta dos Estados-membros, no âmbito do Comité Permanente dos Géneros Alimentícios, após o que formulará sem demora o seu parecer e tomará as medidas adequadas.\n\n3. Se a Comissão considerar que é necessário alterar a directiva com vista a obviar às dificuldades referidas no n.o 1 e a assegurar a protecção da saúde humana, dará início ao procedimento previsto no artigo 5.o com vista a adoptar essas alterações; neste caso, o Estado-membro que adoptou medidas de protecção pode mantê-las até à entrada em vigor destas alterações.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT)"
+  },
+  "7a1978ed29f1a03b": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.o do Regulamento (CE) n.o 178/2002 ([4](http://publications.europa.eu/resource/cellar/4658ecda-2fdb-486b-b847-b40f3b7fae83.0018.02/DOC_1#E0004)).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE ([5](http://publications.europa.eu/resource/cellar/4658ecda-2fdb-486b-b847-b40f3b7fae83.0018.02/DOC_1#E0005)).\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31976L0621:PT:NOT)"
+  },
+  "6ed7e4e39bef36e4": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO artigo 5.o é aplicável durante um período de dezoito meses a contar da data em que o assunto tenha sido submetido pela primeira vez à apreciação do Comité por força do n.o 1 do artigo 5.o"
+  },
+  "239c524fb78b5c31": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-membros alterarão a sua legislação antes de 1 de Janeiro de 1977, se for caso disso, para darem cumprimento às disposições da presente directiva. Desse facto informarão imediatamente a Comissão.\n\n2. A legislação assim alterada é aplicável aos produtos comercializados pela primeira vez a partir de 1 de Julho de 1977 e 1 de Julho de 1979, respectivamente."
+  },
+  "2eb36d0cf53d365d": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-membros são destinatários da presente directiva.\n\n([1](http://publications.europa.eu/resource/cellar/4658ecda-2fdb-486b-b847-b40f3b7fae83.0018.02/DOC_1#src.E0001)) JO n.o C 280 de 8.12.1975, p. 13.\n\n([2](http://publications.europa.eu/resource/cellar/4658ecda-2fdb-486b-b847-b40f3b7fae83.0018.02/DOC_1#src.E0002)) JO n.o C 286 de 15.12.1975, p. 39.\n\n([3](http://publications.europa.eu/resource/cellar/4658ecda-2fdb-486b-b847-b40f3b7fae83.0018.02/DOC_1#src.E0003)) JO n.o L 291 de 29.11.1969, p. 9.\n\n([4](http://publications.europa.eu/resource/cellar/4658ecda-2fdb-486b-b847-b40f3b7fae83.0018.02/DOC_1#src.E0004)) JO L 31 de 1.2.2002, p. 1.\n\n([5](http://publications.europa.eu/resource/cellar/4658ecda-2fdb-486b-b847-b40f3b7fae83.0018.02/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "167584c2f2d64381": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1976L0621 — PT — 14.12.2015 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31976L0621) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31976L0621) [de 20 de Julho de 1976](http://publications.europa.eu/resource/celex/31976L0621) [relativa à fixação do teor máximo de ácido erúcico nos óleos e gorduras destinados directamente à alimentação humana, bem como nos géneros alimentícios adicionados de óleos ou gorduras](http://publications.europa.eu/resource/celex/31976L0621) [(76/621/CEE)](http://publications.europa.eu/resource/celex/31976L0621) (JO L 202, 28.7.1976, p.35)\n\n**revogado por:**\n\n- [Regulamento (UE) 2015/2284 do Parlamento Europeu e do Conselho de 25 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R2284) — L 327 — 23 — 11.12.2015"
+  }
+ }
+}

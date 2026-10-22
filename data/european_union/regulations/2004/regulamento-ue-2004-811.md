@@ -34,6 +34,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-01-01'
+version_history:
+  file: regulamento-ue-2004-811.versoes.json
+  count: 1
+  source_lastmod: '2011-01-01'
+  versions:
+  - date: '2011-01-01'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32004R0811
   eli: http://data.europa.eu/eli/reg/2004/811/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/11268d40-a145-4a45-8632-d09bf2529fe6.0010
   content_url: http://publications.europa.eu/resource/cellar/344dd755-f4c4-4aab-bc6a-8f7f8f9b13b9.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0811-20110101
-  retrieved_at: '2026-10-22T03:11:58Z'
+  retrieved_at: '2026-10-22T14:58:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-31T07:30:57.786+01:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:58Z'
-  notes: Texto consolidado 02004R0811-20110101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:58:00Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2004-811.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -112,33 +121,20 @@ relationships:
   date: '2019-03-25'
 article_structure:
   article_count: 8
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:58Z'
-  warnings: []
+  checked_at: '2026-10-22T14:58:00Z'
+  warnings:
+  - '32004R0811: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 811/2004, do Conselho de 21 de Abril de 2004
-
-> 2004R0811 — PT — 01.01.2011 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R1224) — [REGULAMENTO (CE) N.º 1224/2009 do Conselho de 20 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1224) — L 343 — 1 — 22.12.2009
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32004R0811R%2801%29) — [Rectificação, JO L 185, 24.5.2004, p. 1 (811/2004)](http://publications.europa.eu/resource/celex/32004R0811R%2801%29)
-
-## REGULAMENTO (CE) N.º 811/2004 DO CONSELHO
 
 de 21 de Abril de 2004
 

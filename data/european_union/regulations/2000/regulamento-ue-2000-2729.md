@@ -35,6 +35,52 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-08-01'
+version_history:
+  file: regulamento-ue-2000-2729.versoes.json
+  count: 2
+  source_lastmod: '2008-08-01'
+  versions:
+  - date: '2000-12-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-08-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Controlos e sanções
+    - Suprime TÍTULO I — CONTROLOS A EFECTUAR PELOS ESTADOS-MEMBROS
+    - Suprime Artigo 2.º — Princípios
+    - Suprime Artigo 3.º — Instâncias de controlo
+    - Suprime Artigo 4.º — Poderes dos agentes de controlo
+    - Suprime Artigo 5.º — Potencial vitícola
+    - Suprime TÍTULO II — ESTRUTURA COMUNITÁRIA DE CONTROLO
+    - Suprime Artigo 6.º — Corpo de agentes específicos da Comissão,
+    - Suprime TÍTULO III — ASSISTÊNCIA ENTRE AS INSTÂNCIAS DE CONTROLO
+    - Suprime Artigo 7.º — Assistência a pedido
+    - Suprime Artigo 8.º — Assistência espontânea
+    - Suprime Artigo 9.º — Disposições comuns
+    - Suprime TÍTULO IV — BANCO DE DADOS ANALÍTICOS
+    - Suprime Artigo 10.º — Finalidades do banco de dados
+    - Suprime Artigo 11.º — Amostras
+    - Suprime Artigo 12.º — Análises isotópicas
+    - Suprime Artigo 13.º — Comunicação dos resultados
+    - Suprime Artigo 14.º — Respeito dos procedimentos
+    - Suprime TÍTULO V — COLHEITA DE AMOSTRAS PARA EFEITOS DE CONTROLO
+    - Suprime Artigo 15.º — Pedido de colheita de amostras
+    - Suprime Artigo 16.º — Despesas relativas à colheita, envio e análise das amostras
+    - Suprime TÍTULO VI — DISPOSIÇÕES GERAIS E FINAIS
+    - Suprime Artigo 17.º — Força probatória
+    - Suprime Artigo 18.º — Sanções
+    - Suprime Artigo 19.º — Destinatários dos controlos
+    - Suprime Artigo 20.º — Revogações
+    - Suprime Artigo 21.º
+    - Suprime ANEXO I
+    - Suprime ANEXO II — >PIC FILE= "L_2000316PT.002402.EPS">
+    - Suprime ANEXO III — >PIC FILE= "L_2000316PT.002602.EPS">
+    - Suprime ANEXO IV — Colheita de amostras no âmbito da assistência entre instâncias de controlo
+    - Suprime ANEXO V — >PIC FILE= "L_2000316PT.002902.EPS">
 identifiers:
   celex: 32000R2729
   eli: http://data.europa.eu/eli/reg/2000/2729/oj
@@ -49,7 +95,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cba2a99d-55d2-40fa-81c1-3dddb22cd373.0009
   content_url: http://publications.europa.eu/resource/cellar/53f3940c-a630-447f-b81e-bbdcf349ff58.0016.04/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R2729-20080801
-  retrieved_at: '2026-10-22T03:10:01Z'
+  retrieved_at: '2026-10-22T14:49:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T08:00:29.754+01:00'
 integrity:
@@ -58,9 +104,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:10:01Z'
-  notes: Texto consolidado 02000R2729-20080801.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:40Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2000-2729.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -133,16 +179,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:10:01Z'
+  checked_at: '2026-10-22T14:49:40Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02000R2729-20041217: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000R2729-20060219: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000R2729-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

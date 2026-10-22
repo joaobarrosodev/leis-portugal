@@ -1,0 +1,169 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31980L1177:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01980L1177-20030101",
+ "dre_path": null,
+ "source_lastmod": "2003-01-01",
+ "versions": [
+  {
+   "date": "1980-12-23",
+   "future": false,
+   "celex": "31980L1177",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "01e14c4d87581781",
+    "795038d119caa8d9",
+    "67a27aa96e8631ba",
+    "5c7366f247a47ed5",
+    "69fed886ea9a8aeb",
+    "dcf682b162c2e926",
+    "ae2e55bbe5846e9b",
+    "3993f47b90c4d8b6",
+    "0fe6808f73361a57",
+    "005e3cb0f37de5c4",
+    "837899006714a82a",
+    "29d20d7d7d1ca3ef",
+    "f790fbca4e6fa9fc"
+   ]
+  },
+  {
+   "date": "2003-01-01",
+   "future": false,
+   "celex": "01980L1177-20030101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º.",
+    "Suprime Artigo 2º.",
+    "Suprime Artigo 3º.",
+    "Suprime Artigo 4º.",
+    "Suprime Artigo 5º.",
+    "Suprime Artigo 6º.",
+    "Suprime Artigo 7º.",
+    "Suprime Artigo 8º.",
+    "Suprime ANEXO I — >PIC FILE= \"T0014109\">",
+    "Suprime ANEXO II NOMENCLATURA GEOGRÁFICA DAS REGIÕES — Bélgica",
+    "Suprime ANEXO III LISTA DOS PAÍSES E DOS GRUPOS DE PAÍSES — I. Comunidades Europeias",
+    "Suprime ANEXO IV — >PIC FILE= \"T0014111\"> QUADRO 1 B"
+   ],
+   "fragments": [
+    "66f925ccf619915b"
+   ]
+  }
+ ],
+ "fragments": {
+  "01e14c4d87581781": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 80/1177/CEE do Conselho, de 4 de Dezembro de 1980, relativa ao registo estatístico dos transportes ferroviários de mercadorias no âmbito de uma estatística regional** *Jornal Oficial nº L 350 de 23/12/1980 p. 0023 - 0040 Edição especial finlandesa: Capítulo 7 Fascículo 2 p. 0151 Edição especial grega: Capítulo 16 Fascículo 2 p. 0027 Edição especial sueca: Capítulo 7 Fascículo 2 p. 0151 Edição especial espanhola: Capítulo 07 Fascículo 2 p. 0237 Edição especial portuguesa: Capítulo 07 Fascículo 2 p. 0237*\n\nDIRECTIVA DO CONSELHO de 4 de Dezembro de 1980 relativa ao registo estatístico dos transportes ferroviários de mercadorias no âmbito de uma estatística regional (80/1177/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 213º.,\n\nTendo em conta o projecto de directiva submetido pela Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que, para realizar as tarefas que lhe incumben em aplicação do Tratado, a Comissão deve dispor de uma forma contínua de dados estatísticos coerentes e sincronizados sobre a amplitude e a evolução do transporte ferroviário de mercadorias nos Estados-membros; que estes dados devem ser comparáveis de Estado a Estado e sê-lo igualmente com os dados relativos aos outros modos de transporte, e que devem considerar o tráfego nacional, internacional e em trânsito;\n\nConsiderando que, tendo em conta as vantagens no plano económico e ambiente dos transportes combinados, é conveniente que as estatísticas forneçam indicações distintas no que respeita aos transportes acima mencionados;\n\nConsiderando que, para obter informações satisfatórias sobre o mercado dos transportes ferroviários de mercadorias, é conveniente discriminar os dados estatísticos segundo as principais relações de tráfego;\n\nConsiderando que é importante prosseguir a harmonização, ao nível da Comunidade, dos dados estatísticos já disponíveis nos diversos Estados-membros no que respeita aos transportes de mercadorias;\n\nConsiderando que, para facilitar a execução das disposições propostas, é conveniente prever certos prazos para que a documentação estatística necessária se encontre disponível;\n\nConsiderando que a Comissão deve apresentar um relatório ao Conselho a fim de permitir a este examinar em que medida os objectivos da presente directiva podem ser atingidos com a ajuda dos dados estatísticos comunicados; que ela deve, por consequência, prever a possibilidade de propor melhorias nos métodos utilizados para o estabelecimento destas estatísticas; que o Conselho deve decidir, sob proposta da Comissão, o estabelecimento de estatísticas respeitantes ao tráfego internacional entre regiões, assim como estatísticas separadas sobre as remessas por comboio completo;\n\nConsiderando que os dados estatísticos são necessários para conhecer a amplitude e a evolução dos transportes de mercadorias; que é conveniente, por conseguinte, que a Comunidade conceda aos Estados-membros, durante um período inicial, uma contribuição financeira para a realização dos trabalhos sobre a matéria,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "795038d119caa8d9": {
+   "fragment_id": "Artigo 1º.",
+   "type": "artigo",
+   "heading": "Artigo 1º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º.\n\n1. Os Estados-membros estabelecerão estatísticas sobre o transporte de mercadorias nas principais redes de caminho de ferro situadas no seu território e abertas ao tráfego público.\n\n2. Para efeitos no disposto na presente directiva, entende-se por: a) Redes principais de caminho-de-ferro, o conjunto das linhas e instalações de caminho-de-ferro geridas pelas seguintes administrações:\n\nSNCB/NMBS: Société nationale des chemins de fer belges/Nationale Maatschappij der Belgische Spoorwegen, Bélgica,\n\nDSB: Danske Statsbaner, Dinamarca,\n\nDB: Deutsche Bundesbahn, República Federal da Alemanha, >PIC FILE= \"T0014108\">\n\nSNCF: Société nationale des chemins de fer français, França,\n\nCIE: Coras Iompair Eireann, Irlanda,\n\nFS: Azienda autonoma delle Ferrovie dello Stato, Itália, (1)JO nº. C 85 de 8.4.1980, p. 75. (2)JO nº. C 300 de 18.11.1980, p. 3.\n\nCFL: Société nationale des chemins de fer luxembourgeois, Luxemburgo,\n\nNS: Naamloze Vennootschap Nederlandsche Spoorwegen, Países Baixos,\n\nBR: British Railways Board, Reino Unido,\n\nNIR: Northern Ireland Railway Company, Reino Unido.\n\nb) Transporte ferroviário de mercadorias, toda a deslocação de mercadorias efectuada por meio de veículos ferroviários entre o local de carga e o local de descarga.\n\n3. A presente directiva aplica-se igualmente ao transporte de mercadorias por veículo ferroviário que efectue uma parte do percurso em barco de passagem (ferry boat).\n\n4. A presente directiva não se aplica aos seguintes transportes ferroviários de mercadorias: - tráfego de serviço efectuado para fins não comerciais;\n\n- bagagens e viaturas que acompanham os passageiros;\n\n- correio por conta das administrações dos correios.\n\n5. As primeiras estatísticas serão estabelecidas a partir de 1 de Janeiro de 1982."
+  },
+  "67a27aa96e8631ba": {
+   "fragment_id": "Artigo 2º.",
+   "type": "artigo",
+   "heading": "Artigo 2º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º.\n\n1. No que respeita aos transportes de mercadorias efectuados pelas redes principais de caminho de ferro, serão registadas as características seguintes: a) O peso das mercadorias, expresso em toneladas:\n\nb) As principais relações de tráfego, a saber: - o tráfego nacional, em que tanto o local de carga como o local de descarga estão situados no Estado-membro declarante, qualquer que seja o itinerário seguido pelo veículo ferroviário;\n\n- o tráfego internacional, em que o local de carga ou o local de descarga, mas não os dois, está situado no Estado-membro declarante, com discriminação entre mercadorias carregadas e mercadorias descarregadas;\n\n- o tráfego em trânsito, em que as mercadorias passam pelo Estado-membro declarante sem aí serem carregadas, descarregadas ou transbordadas.\n\nc) O tipo de remessa: - por vagão completo ou comboio completo: remessa de mercadorias incluindo o conjunto de pequenas remessas, para a qual está tabelada a utilização exclusiva do vagão ou comboio, quer seja utilizada a capacidade total do vagão ou apenas uma parte;\n\n- pequenas remassas: outras remessas de mercadorias, compreendendo os volumes expresso e outras.\n\nd) No que respeita às remessas por vagão completo ou comboio completo: - a natureza da mercadoria, segundo os grupos previstos na primeira coluna da lista que figura no Anexo I;\n\n- para o tráfego nacional as regiões nacionais de carga e de descarga, segundo a nomenclatura geográfica que figura no Anexo II;\n\n- para o tráfego internacional e de trânsito, os países de carga e de descarga, segundo a lista que figura no Anexo III.\n\ne) A distância em quilómetros, percorrida nas redes principais de caminho de ferro nacionais.\n\n2. No que respeita ao transporte combinado nas redes principais de caminho de ferro, serão estabelecidas as seguintes características suplementares (se necessário com base em estimativas): a) Grandes contentores de 6,1 m (20 pés) ou mais, de comprimento exterior: - o peso bruto do contentor e das mercadorias transportadas;\n\n- o número de contentores vazios e carregados.\n\nb) Transportes estrada/caminho-de-ferro: automóveis pesados de mercadorias, reboques, semi-reboques (com ou sem unidade de tracção) e superestruturas amovíveis: - o peso bruto das mercadorias transportadas, compreendendo o peso dos veículos rodoviários;\n\n- o número de vagões de caminho de ferro carregados."
+  },
+  "5c7366f247a47ed5": {
+   "fragment_id": "Artigo 3º.",
+   "type": "artigo",
+   "heading": "Artigo 3º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º.\n\n1. Com excepção das informações sujeitas ao segredo estatístico em aplicação das legislações nacionais, os Estados-membros comunicarão os resultados estatísticos à Comissão, logo que possível, o mais tardar quatro meses após o fim do período de referência respectivo. Contudo, para o caso dos quadros 1 b, 5 b, 6 b e 7, que figuram no Anexo IV, este prazo é prorrogado até 8 meses.\n\n2. Os resultados serão comunicados por meio de quadros conformes aos modelos que figuram no Anexo IV.\n\n3. Os resultados tratados por computador podem ser comunicados através de um suporte de leitura cujo tipo e formato serão determinados pela Comissão após consulta dos respectivos Estados-membros."
+  },
+  "69fed886ea9a8aeb": {
+   "fragment_id": "Artigo 4º.",
+   "type": "artigo",
+   "heading": "Artigo 4º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º.\n\n1. Os Estados-membros transmitirão à Comissão, antes de 31 de Dezembro de 1981, uma descrição pormenorizada dos métodos que pretendem utilizar para compilar as estatísticas, no que respeita ao tratamento dos dados e ao cálculo das toneladas quilómetros.\n\n2. A Comissão examinará, em colaboração com os Estados-membros, os problemas de ordem metodológica e técnica postos pela compilação das estatísticas, a fim de encontrar soluções que permitam tornar os dados tão coerentes e comparáveis quanto possível."
+  },
+  "dcf682b162c2e926": {
+   "fragment_id": "Artigo 5º.",
+   "type": "artigo",
+   "heading": "Artigo 5º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º.\n\n1. A Comissão publicará os resultados estatísticos adequados.\n\n2. Antes de 1 de Janeiro de 1985, a Comissão apresentará ao Conselho um relatório sobre a experiência adquirida no quadro dos trabalhos efectuados em aplicação da presente directiva e proporá as melhorias que se verificarem necessárias.\n\n3. Nos dois anos seguintes à entrada em vigor da presente directiva, o Conselho decidirá, sob proposta da Comissão, o estabelecimento de estatísticas respeitantes ao tráfego internacional entre regiões, assim como de estatísticas separadas sobre as remessas por comboios completos."
+  },
+  "ae2e55bbe5846e9b": {
+   "fragment_id": "Artigo 6º.",
+   "type": "artigo",
+   "heading": "Artigo 6º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º.\n\nDurante os três primeiros anos da realização dos registos estatísticos previstos na presente directiva será concedida uma contribuição financeira para as despesas suportadas pelos Estados-membros, dentro dos limites de crédito abertos para este fim no orçamento das Comunidades Europeias."
+  },
+  "3993f47b90c4d8b6": {
+   "fragment_id": "Artigo 7º.",
+   "type": "artigo",
+   "heading": "Artigo 7º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º.\n\nOs Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva o mais tardar em 1 de Janeiro de 1982."
+  },
+  "0fe6808f73361a57": {
+   "fragment_id": "Artigo 8º.",
+   "type": "artigo",
+   "heading": "Artigo 8º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º.\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 4 de Dezembro de 1980.\n\nPelo Conselho\n\nO Presidente\n\nJ. BARTHEL"
+  },
+  "005e3cb0f37de5c4": {
+   "fragment_id": "ANEXO I — >PIC FILE= \"T0014109\">",
+   "type": "divisao",
+   "heading": "ANEXO I — >PIC FILE= \"T0014109\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — >PIC FILE= \"T0014109\">"
+  },
+  "837899006714a82a": {
+   "fragment_id": "ANEXO II NOMENCLATURA GEOGRÁFICA DAS REGIÕES — Bélgica",
+   "type": "divisao",
+   "heading": "ANEXO II NOMENCLATURA GEOGRÁFICA DAS REGIÕES — Bélgica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II NOMENCLATURA GEOGRÁFICA DAS REGIÕES — Bélgica\n\nVlaams gewest, excepto Antwerpen\n\nAntwerpen\n\nRégion wallonne\n\nRégion bruxelloise/Brusselse gewest\n\nDinamarca\n\nDanmark\n\nRepública Federal de Alemanha\n\nSchleswig-Holstein\n\nHamburg\n\nNordostteil von Niedersachsen\n\nWestteil von Niedersachsen\n\nSüdostteil von Niedersachsen\n\nBremen (Land)\n\nNordteil von Nordrhein-Westfalen\n\nRuhrgebiet\n\nSüdwestteil von Nordrhein-Westfalen\n\nOstteil von Nordrhein-Westfalen (Sieger-Sauerland und Ostteil von Westfalen)\n\nNordteil von Hessen\n\nSüdteil von Hessen\n\nNordteil von Rheinland-Pfalz\n\nSüdteil von Rheinland-Pfalz\n\nNordbaden\n\nSüdbaden\n\nWürttemberg\n\nNordbayern (Franken)\n\nOstbayern (Oberpfalz und Niederbayern)\n\nSüdbayern (Schwaben und Oberbayern)\n\nSaarland\n\nBerlin (West)\n\nGrécia\n\n>PIC FILE= \"T0014110\">\n\nFrança\n\nÎle-de-France\n\nChampagne-Ardennes\n\nPicardie\n\nHaute-Normandie\n\nCentre\n\nBasse-Normandie\n\nBourgogne\n\nNord - Pas-de-Calais\n\nLorraine\n\nAlsace\n\nFranche-Comté\n\nPays de la Loire\n\nBretagne\n\nPoitou-Charentes\n\nAquitaine\n\nMidi-Pyrénées\n\nLimousin\n\nRhône-Alpes\n\nAuvergne\n\nLanguedoc-Roussillon\n\nProvence-Alpes-Côte d'Azur\n\nIrlanda\n\nIreland\n\nItália\n\nPiemonte\n\nValle d'Aosta\n\nLiguria\n\nLombardia\n\nTrentino-Alto Adige\n\nVeneto\n\nFriuli-Venezia Giulia\n\nEmilia-Romagna\n\nToscana\n\nUmbria\n\nMarche\n\nLazio\n\nCampania\n\nAbruzzo\n\nMolise\n\nPuglia\n\nBasilicata\n\nCalabria\n\nSicilia\n\nSardegna\n\nLuxemburgo\n\nLuxembourg\n\nPaíses Baixos\n\nNoord\n\nWest, excepto Rijnmond e IJmond\n\nRijnmond\n\nIJmond\n\nZuidwest\n\nZuid\n\nOost\n\nReino Unido\n\nNorth\n\nYorkshire and Humberside\n\nEast Midlands\n\nEast Anglia\n\nSouth East\n\nSouth West\n\nWest Midlands\n\nNorth West\n\nWales\n\nScotland\n\nNorthern Ireland"
+  },
+  "29d20d7d7d1ca3ef": {
+   "fragment_id": "ANEXO III LISTA DOS PAÍSES E DOS GRUPOS DE PAÍSES — I. Comunidades Europeias",
+   "type": "divisao",
+   "heading": "ANEXO III LISTA DOS PAÍSES E DOS GRUPOS DE PAÍSES — I. Comunidades Europeias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III LISTA DOS PAÍSES E DOS GRUPOS DE PAÍSES — I. Comunidades Europeias\n\n01. Bélgica\n\n02. Dinamarca\n\n03. República Federal de Alemanha\n\n04. Grécia\n\n05. França\n\n06. Irlanda\n\n07. Itália\n\n08. Luxemburgo\n\n09. Países Baixos\n\n10. Reino Unido\n\nII. Países terceiros\n\n11. Suíça\n\n12. Áustria\n\n13. Jugoslávia\n\n14. Turquia\n\n15. Espanha\n\n16. Portugal\n\n17. Noruega\n\n18. Suécia\n\n19. Finlândia\n\n20. URSS\n\n21. República Democrática Alemã\n\n22. Polónia\n\n23. Checoslováquia\n\n24. Hungria\n\n25. Roménia\n\n26. Bulgária\n\n27. Países do Próximo e Médio Oriente\n\n28. Outros países"
+  },
+  "f790fbca4e6fa9fc": {
+   "fragment_id": "ANEXO IV — >PIC FILE= \"T0014111\"> QUADRO 1 B",
+   "type": "divisao",
+   "heading": "ANEXO IV — >PIC FILE= \"T0014111\"> QUADRO 1 B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — >PIC FILE= \"T0014111\"> QUADRO 1 B\n\n>PIC FILE= \"T0014112\">\n\nQUADRO 2\n\n>PIC FILE= \"T0014113\">\n\nQUADRO 3\n\n>PIC FILE= \"T0014114\">\n\nQUADRO 4 A\n\n>PIC FILE= \"T0014115\">\n\nQUADRO 4 B\n\n>PIC FILE= \"T0014116\">\n\nQUADRO 5 A\n\n>PIC FILE= \"T0014117\">\n\nQUADRO 5 B\n\n>PIC FILE= \"T0014118\">\n\nQUADRO 6 A\n\n>PIC FILE= \"T0014119\">\n\nQUADRO 6B\n\n>PIC FILE= \"T0014120\">\n\nQUADRO 7\n\n>PIC FILE= \"T0014121\">\n\nQUADRO 8\n\n>PIC FILE= \"T0014122\">"
+  },
+  "66f925ccf619915b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1980L1177 — PT — 01.01.2003 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31980L1177) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31980L1177) [de 4 de Dezembro de 1980](http://publications.europa.eu/resource/celex/31980L1177) [relativa ao registo estatístico dos transportes ferroviários de mercadorias no âmbito de uma estatística regional](http://publications.europa.eu/resource/celex/31980L1177) [(80/1177/CEE)](http://publications.europa.eu/resource/celex/31980L1177) (JO L 350, 23.12.1980, p.23)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 91/2003 do Parlamento Europeu e do Conselho de 16 de Dezembro de 2002](http://publications.europa.eu/resource/celex/32003R0091) — L 14 — 1 — 21.1.2003"
+  }
+ }
+}

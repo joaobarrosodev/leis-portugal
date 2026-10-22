@@ -35,6 +35,66 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-10-05'
+version_history:
+  file: regulamento-ue-2006-1033.versoes.json
+  count: 6
+  source_lastmod: '2023-10-05'
+  versions:
+  - date: '2006-07-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-11-15'
+    amending: eu:celex:32010R0929:por
+    amending_title: REGULAMENTO (UE) N. o 929/2010 DA COMISSÃO de 18 de Outubro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Disposições da ICAO mencionadas no n.º 1 do artigo 3.º
+  - date: '2012-12-04'
+    amending: eu:celex:32012R0923:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 923/2012 DA COMISSÃO de 26 de setembro de 2012; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 428/2013 DA COMISSÃO de 8 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de interoperabilidade e de desempenho
+    - Altera Notas
+    - Adita Disposições da ICAO mencionadas no artigo 3.º, n.º 1
+    - Suprime Disposições da ICAO mencionadas no n.º 1 do artigo 3.º
+  - date: '2016-12-23'
+    amending: eu:celex:32016R2120:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2016/2120 DA COMISSÃO de 2 de dezembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Notas
+    - Adita Disposições referidas no artigo 3.º, n.º 1,
+    - Suprime Disposições da ICAO mencionadas no artigo 3.º, n.º 1
+  - date: '2018-02-19'
+    amending: eu:celex:32018R0139:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2018/139 DA COMISSÃO de 29 de janeiro de 2018
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Disposições referidas no artigo 3.º, n.º 1,
+    - Altera Notas
+  - date: '2023-10-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Requisitos de interoperabilidade e de desempenho
+    - Suprime Artigo 4.º — Regras de segurança
+    - Suprime Artigo 5.º — Regras suplementares
+    - Suprime Artigo 6.º — Entrada em vigor e aplicação
+    - Suprime ANEXO
+    - Suprime Disposições referidas no artigo 3.º, n.º 1,
+    - Suprime Notas
 identifiers:
   celex: 32006R1033
   eli: http://data.europa.eu/eli/reg/2006/1033/oj
@@ -49,7 +109,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8b98cf42-de7c-4587-bb88-a3df1f40099f.0016
   content_url: http://publications.europa.eu/resource/cellar/e6669d6e-854b-11ee-99ba-01aa75ed71a1.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1033-20231005
-  retrieved_at: '2026-10-22T02:45:20Z'
+  retrieved_at: '2026-10-22T15:04:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T12:28:33.323+01:00'
 integrity:
@@ -58,9 +118,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:20Z'
-  notes: Texto consolidado 02006R1033-20231005.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:04:41Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2006-1033.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -141,16 +201,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:20Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:04:41Z'
+  warnings: []
   errors: []
 ---
 

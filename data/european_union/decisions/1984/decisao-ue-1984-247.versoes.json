@@ -1,0 +1,165 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31984D0247:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01984D0247-20070608",
+ "dre_path": null,
+ "source_lastmod": "2007-06-08",
+ "versions": [
+  {
+   "date": "1984-05-12",
+   "future": false,
+   "celex": "31984D0247",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "159741a2a84a4a88",
+    "e99e4a2b34d79ea3",
+    "2420be2ddef517c7",
+    "a80d2445839a4284",
+    "8ae9e6e3150da8de",
+    "18bc42b1f83d568b"
+   ]
+  },
+  {
+   "date": "2007-06-08",
+   "future": false,
+   "celex": "01984D0247-20070608",
+   "acts": [
+    {
+     "id": "eu:celex:32007D0371:por",
+     "title": "DECISÃO DA COMISSÃO de 29 de Maio de 2007",
+     "published": null,
+     "celex": "32007D0371"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o"
+   ],
+   "fragments": [
+    "652472174fd29263",
+    "f7a94fb187f6a605",
+    "a8052e3b3288a680",
+    "d85ec05531722192",
+    "c5f1e35c68f621fa",
+    "0e43ffb9b6e4013a",
+    "9c7e5d7a328fedb7"
+   ]
+  }
+ ],
+ "fragments": {
+  "159741a2a84a4a88": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**84/247/CEE: Decisão da Comissão, de 27 de Abril de 1984, que determina os critérios de reconhecimento das organizações e associações de criadores que criem ou mantenham livros genealógicos para bovinos reprodutores de raça pura** *Jornal Oficial nº L 125 de 12/05/1984 p. 0058 - 0059 Edição especial finlandesa: Capítulo 3 Fascículo 17 p. 0126 Edição especial espanhola: Capítulo 03 Fascículo 30 p. 0167 Edição especial sueca: Capítulo 3 Fascículo 17 p. 0126 Edição especial portuguesa: Capítulo 03 Fascículo 30 p. 0167*\n\nDECISÃO DA COMISSÃO de 27 de Abril de 1984 que determina os critérios de reconhecimento das organizações e associações de criadores que criem ou mantenham livros genealógicos para bovinos reprodutores de raça pura\n\n(84/247/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 77/504/CEE do Conselho, de 25 de Julho de 1977, relativa a animais da espécie bovina reprodutores de raça pura (1), com a última redacção que lhe foi dada pelo Acto de Adesão da Grécia e, nomeadamente, o no 1, segundo e terceiro travessões do seu artigo 6o,\n\nConsiderando que, por força do no 1, segundo e terceiro travessões, do artigo 6o da Directiva 77/504/CEE, compete à Comissão, de acordo com o procedimento previsto no artigo 8o da referida directiva, determinar os critérios de reconhecimento das organizações e das associações de criadores, bem como os critérios para a criação de livros genealógicos;\n\nConsiderando que em todos os Estados-membros, actualmente com excepção da Grécia, os livros genealógicos são mantidos ou criados por organizações e associações de criadores; que, por consequência, importa determinar os critérios de reconhecimento das organizações e associações de criadores que mantenham ou criem livros genealógicos;\n\nConsiderando que o pedido de reconhecimento oficial deverá ser apresentado pelas organizações ou associações de criadores às autoridades competentes do Estado-membro em cujo território se situe a respectiva sede social;\n\nConsiderando que, quando uma associação ou organização de criadores satisfaça certos critérios e tenha definido os seus objectivos, deve ser oficialmente reconhecida pelas autoridades do Estado-membro às quais foi dirigido o respectivo pedido;\n\nConsiderando que as medidas previstas na presente decisão estão de acordo com o parecer do Comité Zootécnico Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "e99e4a2b34d79ea3": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nPara serem oficialmente reconhecidas, as organizações ou associações de criadores que mantenham ou criem livros genealógicos devem apresentar o seu pedido às autoridades do Estado-membro em cujo território se situa a respectiva sede social."
+  },
+  "2420be2ddef517c7": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nAs autoridades do Estado-membro em causa devem reconhecer oficialmente toda e qualquer organização ou associação de criadores que mantenha ou crie livros genealógicas, se essa organização ou associação corresponder às condições previstas no anexo.\n\nNo entanto, num Estado-membro onde existam uma ou mais organizações ou associações oficialmente reconhecidas para uma mesma raça, as autoridades do Estado-membro em causa podem não reconhecer uma nova organização ou associação de criadores, se esta puser em perigo a conservação da raça, ou comprometer o programa zootécnico de uma organização ou associação existente. Neste último caso, os Estados-membros informarão a Comissão das autoridades concedidas das autorizações recusadas."
+  },
+  "a80d2445839a4284": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nAs autoridades do Estado-membro em causa retirarão o reconhecimento oficial a qualquer organização ou associação de criadores que mantenha livros genealógicos, quando esta deixar de corresponder de forma durável às condições previstas no anexo."
+  },
+  "8ae9e6e3150da8de": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs Estados-membros são destinatários da presente decisão.\n\nFeito em Bruxelas em 27 de Abril de 1984.\n\nPela Comissão\n\nPoul DALSAGER\n\nMembro da Comissão\n\n(1) JO no L 206 de 12. 8. 1977, p. 8."
+  },
+  "18bc42b1f83d568b": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nPara serem oficialmente reconhecidas, as organizações ou associações de criadores que mantenham ou criem livros genealógicos devem:\n\n1. Dispor de personalidade jurídica nos termos da legislação em vigor no Estado-membro em que é apresentado o pedido;\n\n2. Satisfazer os controlos das autoridades competentes relativamente:\n\na) À eficácia do seu funcionamento,\n\nb) À sua capacidade de exercer os controlos necessários à conservação das genealogias,\n\nc) À posse de um efectivo de animais suficiente para a realização de um programa de melhoramento ou para assegurar a conservação da raça, quando tal seja considerado necessário,\n\nd) À sua capacidade para utilizar os dados relativos às realizações zootécnicas necessárias para a realização do programa de melhoramento ou de conservação da raça;\n\n3. Ter estabelecido as disposições relativas:\n\na) À definição das características da raça (ou raças),\n\nb) Ao sistema de identificação dos animais,\n\nc) Ao sistema de registo das genalogias,\n\nd) À definição dos seus objectivos de criação,\n\ne) Ao sistema de utilização dos dados zootécnicos,\n\nf) À divisão do livro genealógico, se houver várias modalidades de inscrição dos animais no livro, ou várias modalidades de classificação dos animais inscritos no livro;\n\n4. Dispor de um regulamento interno adoptado em conformidade com os respectivos estatutos, e que preveja, nomeadamente, a ausência de discriminação entre os seus aderentes."
+  },
+  "652472174fd29263": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Abril de 1984\n\nque determina os critérios de reconhecimento das organizações e associações de criadores que criem ou mantenham livros genealógicos para bovinos reprodutores de raça pura\n\n(84/247/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 77/504/CEE do Conselho, de 25 de Julho de 1977, relativa a animais da espécie bovina reprodutores de raça pura ([^1^](http://publications.europa.eu/resource/cellar/7b2ecc9d-177c-46ef-b0bc-3ad1a7de4b3b.0018.03/DOC_1#E0001)), com a última redacção que lhe foi dada pelo Acto de Adesão da Grécia e, nomeadamente, o n.º 1, segundo e terceiro travessões do seu artigo 6.º,\n\nConsiderando que, por força do n.º 1, segundo e terceiro travessões, do artigo 6.º da Directiva 77/504/CEE, compete à Comissão, de acordo com o procedimento previsto no artigo 8.º da referida directiva, determinar os critérios de reconhecimento das organizações e das associações de criadores, bem como os critérios para a criação de livros genealógicos;\n\nConsiderando que em todos os Estados-membros, actualmente com excepção da Grécia, os livros genealógicos são mantidos ou criados por organizações e associações de criadores; que, por consequência, importa determinar os critérios de reconhecimento das organizações e associações de criadores que mantenham ou criem livros genealógicos;\n\nConsiderando que o pedido de reconhecimento oficial deverá ser apresentado pelas organizações ou associações de criadores às autoridades competentes do Estado-membro em cujo território se situe a respectiva sede social;\n\nConsiderando que, quando uma associação ou organização de criadores satisfaça certos critérios e tenha definido os seus objectivos, deve ser oficialmente reconhecida pelas autoridades do Estado-membro às quais foi dirigido o respectivo pedido;\n\nConsiderando que as medidas previstas na presente decisão estão de acordo com o parecer do Comité Zootécnico Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "f7a94fb187f6a605": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara serem oficialmente reconhecidas, as organizações ou associações de criadores que mantenham ou criem livros genealógicos devem apresentar o seu pedido às autoridades do Estado-membro em cujo território se situa a respectiva sede social."
+  },
+  "a8052e3b3288a680": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs autoridades do Estado-membro em causa devem reconhecer oficialmente toda e qualquer organização ou associação de criadores que mantenha ou crie livros genealógicas, se essa organização ou associação corresponder às condições previstas no anexo.\n\nNo entanto, num Estado-membro onde existam uma ou mais organizações ou associações oficialmente reconhecidas para uma mesma raça, as autoridades do Estado-membro em causa podem não reconhecer uma nova organização ou associação de criadores, se esta puser em perigo a conservação da raça, ou comprometer o programa zootécnico de uma organização ou associação existente. Neste último caso, os Estados-membros informarão a Comissão das autoridades concedidas das autorizações recusadas."
+  },
+  "d85ec05531722192": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs autoridades do Estado-membro em causa retirarão o reconhecimento oficial a qualquer organização ou associação de criadores que mantenha livros genealógicos, quando esta deixar de corresponder de forma durável às condições previstas no anexo."
+  },
+  "c5f1e35c68f621fa": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-membros são destinatários da presente decisão."
+  },
+  "0e43ffb9b6e4013a": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nPara serem oficialmente reconhecidas, as organizações ou associações de criadores que mantenham ou criem livros genealógicos devem:\n\n1. Dispor de personalidade jurídica nos termos da legislação em vigor no Estado-membro em que é apresentado o pedido;\n\n2. Satisfazer os controlos das autoridades competentes relativamente:\n\na) À eficácia do seu funcionamento,\n\nb) À sua capacidade de exercer os controlos necessários à conservação das genealogias,\n\nc) À posse de um efectivo de animais suficiente para a realização de um programa de melhoramento ou para assegurar a conservação da raça, quando tal seja considerado necessário,\n\nd) À sua capacidade para utilizar os dados relativos às realizações zootécnicas necessárias para a realização do programa de melhoramento ou de conservação da raça;\n\n3. Ter estabelecido as disposições relativas:\n\na) À definição das características da raça, incluindo o nome da raça;\n\nb) À identificação e ao registo dos animais, em conformidade com o sistema e o conteúdo da base de dados requerida nos termos do Regulamento (CE) n.º 1760/2000 ([^2^](http://publications.europa.eu/resource/cellar/7b2ecc9d-177c-46ef-b0bc-3ad1a7de4b3b.0018.03/DOC_1#E0002)) e das regras adoptadas para a sua execução;\n\nc) Ao sistema de registo das genealogias;\n\nd) À definição dos seus objectivos de criação os quais, no caso da constituição de um livro genealógico para uma nova raça, incluem as circunstâncias pormenorizadas da criação da nova raça;\n\ne) Aos sistemas de utilização dos dados relativos ao desempenho dos animais;\n\nf) À divisão do livro genealógico, caso haja diversas condições de inscrição dos animais no livro ou diversos procedimentos de classificação dos animais nele inscritos.\n\n4. Dispor de um regulamento interno adoptado em conformidade com os respectivos estatutos, e que preveja, nomeadamente, a ausência de discriminação entre os seus aderentes.\n\n---"
+  },
+  "9c7e5d7a328fedb7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7b2ecc9d-177c-46ef-b0bc-3ad1a7de4b3b.0018.03/DOC_1#src.E0001)) JO n.º L 206 de 12. 8. 1977, p. 8.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7b2ecc9d-177c-46ef-b0bc-3ad1a7de4b3b.0018.03/DOC_1#src.E0002)) JO L 204 de 11.8.2000, p. 1.."
+  }
+ }
+}

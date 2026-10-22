@@ -34,6 +34,199 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-01-01'
+version_history:
+  file: diretiva-ue-2002-83.versoes.json
+  count: 9
+  source_lastmod: '2016-01-01'
+  versions:
+  - date: '2002-12-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-01'
+    amending: eu:celex:32004L0066:por
+    amending_title: DIRECTIVA 2004/66/CE DO CONSELHO de 26 de Abril de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Actividades e organismos não abrangidos
+    - Altera Artigo 6.º — Condições de obtenção da autorização
+    - Altera Artigo 13.º — Contabilidade, informações prudenciais e estatísticas — poder de fiscalização
+    - Altera Artigo 17.º — Função dos auditores
+    - Altera Artigo 18.º — Prática simultânea de seguro de vida e de não vida
+    - Altera Artigo 19.º — Gestão separada dos seguros de vida e não vida
+    - Altera Artigo 20.º — Constituição de provisões técnicas
+    - Altera Artigo 23.º — Categorias de activos admitidos
+    - Altera Artigo 27.º — Margem de solvência disponível
+    - Altera Artigo 28.º — Margem de solvência exigida
+    - Altera Artigo 52.º — Disposições aplicáveis às sucursais das empresas de países terceiros
+    - Altera Artigo 74.º — Destinatários
+    - Adita TÍTULO I
+    - Adita DEFINIÇÕES E ÂMBITO DE APLICAÇÃO
+    - Adita TÍTULO II
+    - Adita ACESSO À ACTIVIDADE DE SEGURO DE VIDA
+    - Adita TÍTULO III
+    - Adita CONDIÇÕES DE EXERCÍCIO DA ACTIVIDADE DE SEGUROS
+    - Adita CAPÍTULO 1
+    - Adita PRINCÍPIOS E MÉTODOS DA SUPERVISÃO FINANCEIRA
+    - Adita CAPÍTULO 2
+    - Adita REGRAS RELATIVAS ÀS PROVISÕES TÉCNICAS E À SUA REPRESENTAÇÃO
+    - Adita CAPÍTULO 3
+    - Adita REGRAS RELATIVAS À MARGEM DE SOLVÊNCIA E AOS FUNDOS DE GARANTIA
+    - Adita CAPÍTULO 4
+    - Adita DIREITO DOS CONTRATOS E DAS CONDIÇÕES DE SEGUROS
+    - Adita CAPÍTULO 5
+    - Adita EMPRESAS DE SEGUROS EM DIFICULDADE OU EM SITUAÇÃO IRREGULAR
+    - Adita TÍTULO IV
+    - Adita DISPOSIÇÕES RELATIVAS AO DIREITO DE ESTABELECIMENTO E À LIVRE PRESTAÇÃO DE SERVIÇOS
+    - Adita TÍTULO V
+    - Adita REGRAS APLICÁVEIS ÀS AGÊNCIAS OU SUCURSAIS ESTABELECIDAS NO INTERIOR DA COMUNIDADE, DE EMPRESAS COM SEDE SOCIAL
+      E FORA DA COMUNIDADE
+    - Adita TÍTULO VI
+    - Adita REGRAS APLICÁVEIS ÀS FILIAIS DE UMA EMPRESA-MÃE SUJEITA À ORDEM JURÍDICA DE UM PAÍS TERCEIRO E À AQUISIÇÃO DE
+      PARTICIPAÇÕES POR ESSA EMPRESA-MÃE
+    - Adita TÍTULO VII
+    - Adita DISPOSIÇÕES TRANSITÓRIAS E DIVERSAS
+    - Adita TÍTULO VIII
+  - date: '2005-04-13'
+    amending: eu:celex:32005L0001:por
+    amending_title: DIRECTIVA 2005/1/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 9 de Março
+      de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 17.º — Função dos auditores
+    - Altera Artigo 23.º — Categorias de activos admitidos
+    - Altera Artigo 46.º — Incumprimento das normas legais pelas empresas de seguros
+    - Altera Artigo 58.º — Informação dos Estados-Membros à Comissão
+    - Altera Artigo 65.º — Procedimento do Comité
+    - Altera Notas
+  - date: '2005-12-10'
+    amending: eu:celex:32005L0068:por
+    amending_title: DIRECTIVA 2005/68/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 16 de
+      Novembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 10.º — Autoridades competentes e objectivo da supervisão
+    - Altera Artigo 15.º — Participação qualificada
+    - Altera Artigo 16.º — Sigilo profissional
+    - Altera Artigo 17.º — Função dos auditores
+    - Altera Artigo 20.º — Constituição de provisões técnicas
+    - Altera Artigo 23.º — Categorias de activos admitidos
+    - Altera Artigo 27.º — Margem de solvência disponível
+    - Altera Artigo 28.º — Margem de solvência exigida
+    - Altera Artigo 37.º — Empresa de seguros em dificuldade
+    - Altera Artigo 65.º — Procedimento do Comité
+    - Altera Notas
+    - Adita Artigo 9.º-A
+    - Adita Artigo 28.º-A
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0101:por
+    amending_title: DIRECTIVA 2006/101/CE DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 6.º — Condições de obtenção da autorização
+    - Altera Artigo 17.º — Função dos auditores
+    - Altera Artigo 18.º — Prática simultânea de seguro de vida e de não vida
+    - Altera Artigo 23.º — Categorias de activos admitidos
+    - Altera Artigo 27.º — Margem de solvência disponível
+    - Altera Artigo 65.º — Procedimento do Comité
+    - Altera Notas
+  - date: '2007-09-21'
+    amending: eu:celex:32007L0044:por
+    amending_title: DIRECTIVA 2007/44/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5 de Setembro
+      de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 15.º — Participação qualificada
+    - Altera Artigo 17.º — Função dos auditores
+    - Altera Artigo 23.º — Categorias de activos admitidos
+    - Altera Artigo 27.º — Margem de solvência disponível
+    - Altera Artigo 37.º — Empresa de seguros em dificuldade
+    - Altera Artigo 38.º — Plano de recuperação financeira
+    - Altera Artigo 64.º — Adaptação técnica
+    - Altera Artigo 65.º — Procedimento do Comité
+    - Altera Notas
+    - Adita Artigo 15.º-A
+    - Adita Artigo 15.º-B
+    - Adita Artigo 15.º-C
+  - date: '2008-03-20'
+    amending: eu:celex:32008L0019:por
+    amending_title: DIRECTIVA 2008/19/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 15.º-A
+    - Altera Artigo 15.º-B
+    - Altera Artigo 17.º — Função dos auditores
+    - Altera Artigo 23.º — Categorias de activos admitidos
+    - Altera Artigo 27.º — Margem de solvência disponível
+    - Altera Artigo 64.º — Adaptação técnica
+    - Altera Artigo 65.º — Procedimento do Comité
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0023:por
+    amending_title: Diretiva 2013/23/UE do Conselho de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 6.º — Condições de obtenção da autorização
+    - Altera Artigo 15.º-A
+    - Altera Artigo 15.º-B
+    - Altera Artigo 17.º — Função dos auditores
+    - Altera Artigo 18.º — Prática simultânea de seguro de vida e de não vida
+    - Altera Artigo 23.º — Categorias de activos admitidos
+    - Altera Artigo 27.º — Margem de solvência disponível
+    - Altera Artigo 65.º — Procedimento do Comité
+    - Altera Notas
+  - date: '2016-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DEFINIÇÕES E ÂMBITO DE APLICAÇÃO
+    - Suprime Artigo 1.º — Definições
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Actividades e organismos não abrangidos
+    - Suprime TÍTULO II
+    - Suprime ACESSO À ACTIVIDADE DE SEGURO DE VIDA
+    - Suprime Artigo 4.º — Princípio de autorização
+    - Suprime Artigo 5.º — Âmbito da autorização
+    - Suprime Artigo 6.º — Condições de obtenção da autorização
+    - Suprime Artigo 7.º — Programa de actividades
+    - Suprime Artigo 8.º — Accionistas e associados qualificados
+    - Suprime Artigo 9.º — Recusa de autorização
+    - Suprime Artigo 9.º-A
+    - Suprime TÍTULO III
+    - Suprime CONDIÇÕES DE EXERCÍCIO DA ACTIVIDADE DE SEGUROS
+    - Suprime CAPÍTULO 1
+    - Suprime PRINCÍPIOS E MÉTODOS DA SUPERVISÃO FINANCEIRA
+    - Suprime Artigo 10.º — Autoridades competentes e objectivo da supervisão
+    - Suprime Artigo 11.º — Supervisão das sucursais estabelecidas noutros Estados-Membros
+    - Suprime Artigo 12.º — Proibição de cessão obrigatória aos organismos públicos
+    - Suprime Artigo 13.º — Contabilidade, informações prudenciais e estatísticas — poder de fiscalização
+    - Suprime Artigo 14.º — Transferência de carteira
+    - Suprime Artigo 15.º — Participação qualificada
+    - Suprime Artigo 15.º-A
+    - Suprime Artigo 15.º-B
+    - Suprime Artigo 15.º-C
+    - Suprime Artigo 16.º — Sigilo profissional
+    - Suprime Artigo 17.º — Função dos auditores
+    - Suprime Artigo 18.º — Prática simultânea de seguro de vida e de não vida
+    - Suprime Artigo 19.º — Gestão separada dos seguros de vida e não vida
+    - Suprime CAPÍTULO 2
+    - Suprime REGRAS RELATIVAS ÀS PROVISÕES TÉCNICAS E À SUA REPRESENTAÇÃO
+    - Suprime Artigo 20.º — Constituição de provisões técnicas
+    - Suprime Artigo 21.º — Prémios dos novos contratos
+    - Suprime Artigo 22.º — Activos representativos das provisões técnicas
+    - Suprime Artigo 23.º — Categorias de activos admitidos
+    - Suprime Artigo 24.º — Regras de diversificação dos investimentos
+    - Suprime Artigo 25.º — Contratos ligados a OICVM ou a um índice de acções
 identifiers:
   celex: 32002L0083
   eli: http://data.europa.eu/eli/dir/2002/83/oj
@@ -48,7 +241,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3c3a1f86-1504-435e-bb3c-b525b971221b.0010
   content_url: http://publications.europa.eu/resource/cellar/819a0e48-2b18-443b-8cda-e84fc77f68be.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0083-20160101
-  retrieved_at: '2026-10-22T02:45:04Z'
+  retrieved_at: '2026-10-22T14:52:25Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:30:25.770+02:00'
 integrity:
@@ -57,9 +250,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:04Z'
-  notes: Texto consolidado 02002L0083-20160101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:25Z'
+  notes: 9 versão(ões); histórico completo em diretiva-ue-2002-83.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -260,16 +453,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:04Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:52:25Z'
+  warnings: []
   errors: []
 ---
 

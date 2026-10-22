@@ -33,6 +33,210 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-09-01'
+version_history:
+  file: diretiva-ue-1966-402.versoes.json
+  count: 11
+  source_lastmod: '2022-09-01'
+  versions:
+  - date: '1966-07-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-25'
+    amending: eu:celex:31969L0060:por
+    amending_title: DIRECTIVA DO CONSELHO 69/60/CEE de 18 de Fevereiro de 1969; DIRECTIVA DO CONSELHO 71/162/CEE de 30 de
+      Março de 1971; DIRECTIVA DO CONSELHO 72/274/CEE de 20 de Julho de 1972; DIRECTIVA DO CONSELHO 72/418/CEE de 6 de Dezembro
+      de 1972; DIRECTIVA DO CONSELHO 73/438/CEE de 11 de Dezembro de 1973; DIRECTIVA DO CONSELHO 75/444/CEE de 26 de Junho
+      de 1975; DIRECTIVA DO CONSELHO 78/55/CEE de 19 de Dezembro de 1977; PRIMEIRA DIRECTIVA DA COMISSÃO 78/387/CEE de 18
+      de Abril de 1978; DIRECTIVA DO CONSELHO 78/692/CEE de 25 de Julho de 1978; M10; DIRECTIVA DA COMISSÃO 79/641/CEE de
+      27 de Junho de 1979; DIRECTIVA DO CONSELHO 79/692/CEE de 24 de Julho de 1979; DIRECTIVA DA COMISSÃO 81/126/CEE de 16
+      de Fevereiro de 1981; M14; M15; DIRECTIVA DO CONSELHO 86/155/CEE de 22 de Abril de 1986; DIRECTIVA DA COMISSÃO 86/320/CEE
+      de 20 de Junho de 1986; DIRECTIVA DA COMISSÃO 87/l20/CEE de 14 de Janeiro de 1987; M19; DIRECTIVA DO CONSELHO 88/380/CEE
+      de 13 de Junho de 1988; DIRECTIVA DA COMISSÃO 88/506/CEE de 13de Setembro de 1988; M22; M23; DIRECTIVA DA COMISSÃO 90/654/CEE
+      de 4 de Dezembro de 1990; DIRECTIVA 93/2/CEE DA COMISSÃO de 28 de Janeiroo de 1993; DIRECTIVA 95/6/CE DA COMISSÃO de
+      20 de Março de 1995; DIRECTIVA 96/72/CE DO CONSELHO de 18 de Novembro de 1996; DIRECTIVA 98/95/CE DO CONSELHO de 14
+      de Dezembro de 1998; DIRECTIVA 98/96/CE DO CONSELHO de 14 de Dezembro de 1998; DIRECTIVA 1999/8/CE DA COMISSÃO de 18
+      de Fevereiro de 1999; DIRECTIVA 1999/54/CE DA COMISSÃO de 26 de Maio de 1999; DIRECTIVA 2001/64/CE DO CONSELHO de 31
+      de Agosto de 2001; DIRECTIVA 2003/61/CE DO CONSELHO de 18 de Junho de 2003; DIRECTIVA 2004/117/CE DO CONSELHO de 22
+      de Dezembro de 2004; Acto de Adesão da Dinamarca, da Irlanda e do Reino Unido da Grã-Bretanha e da Irlanda do Norte;
+      Acto de Adesão da Grécia; Acto de Adesão da Áustria, da Finlândia e da Suécia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 1.ºA
+    - Adita Artigo 2º
+    - Adita Artigo 3º
+    - Adita Artigo 3.ºA
+    - Adita Artigo 4º
+    - Adita Artigo 4.ºA
+    - Adita Artigo 5º
+    - Adita Artigo 5.ºA
+    - Adita Artigo 6º
+    - Adita Artigo 7º
+    - Adita Artigo 8º
+    - Adita Artigo 9º
+    - Adita Artigo 10º
+    - Adita Artigo 10.ºA
+    - Adita Artigo 11.º
+    - Adita Artigo 11.ºA
+    - Adita Artigo 12º
+    - Adita Artigo 13º
+    - Adita Artigo 13ºA
+    - Adita Artigo 14º
+    - Adita Artigo 14.ºA
+    - Adita Artigo 15º
+    - Adita Artigo 16º
+    - Adita Artigo 17.º
+    - Adita Artigo 18º
+    - Adita Artigo 19º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 21ºA
+    - Adita Artigo 21ºB
+    - Adita Artigo 22º
+    - Adita Artigo 22.ºA
+    - Adita Artigo 23º
+    - Adita Artigo 23ºA
+    - Adita Artigo 24º
+    - Adita ANEXO I
+    - Adita CONDIÇÕES A QUE DEVE OBEDECER A CULTURA
+    - Adita ANEXO II
+  - date: '2006-06-20'
+    amending: eu:celex:32006L0055:por
+    amending_title: DIRECTIVA 2006/55/CE DA COMISSÃO Texto relevante para efeitos do EEE de 12 de Junho de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 10.ºA
+    - Altera Artigo 21.º
+    - Altera PESO DOS LOTES E DAS AMOSTRAS
+    - Altera Notas
+  - date: '2009-07-04'
+    amending: eu:celex:32009L0074:por
+    amending_title: DIRECTIVA 2009/74/CE DA COMISSÃO Texto relevante para efeitos do EEE de 26 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2º
+    - Altera Artigo 10.ºA
+    - Altera Artigo 21.º
+    - Altera CONDIÇÕES A QUE DEVE OBEDECER A CULTURA
+    - Altera ANEXO III
+    - Altera Notas
+    - Adita CONDIÇÕES A QUE DEVEM OBEDECER AS SEMENTES
+    - Suprime PESO DOS LOTES E DAS AMOSTRAS
+  - date: '2012-01-14'
+    amending: eu:celex:32012L0001:por
+    amending_title: DIRETIVA DE EXECUÇÃO 2012/1/UE DA COMISSÃO Texto relevante para efeitos do EEE de 6 de janeiro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 10.ºA
+    - Altera Artigo 21.º
+    - Altera CONDIÇÕES A QUE DEVE OBEDECER A CULTURA
+    - Altera CONDIÇÕES A QUE DEVEM OBEDECER AS SEMENTES
+    - Altera A. Indicações prescritas
+    - Altera A. Informações que devem constar do rótulo
+    - Altera C. Informações que devem constar do documento
+    - Altera Notas
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 13.ºA
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 21.ºA
+    - Adita Artigo 21.ºB
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 23.ºA
+    - Adita Artigo 24.º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+  - date: '2012-11-30'
+    amending: eu:celex:32012L0037:por
+    amending_title: DIRETIVA DE EXECUÇÃO 2012/37/UE DA COMISSÃO Texto relevante para efeitos do EEE de 22 de novembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 10.ºA
+    - Altera Artigo 21.º
+    - Altera CONDIÇÕES A QUE DEVEM OBEDECER AS SEMENTES
+    - Altera ANEXO III
+    - Altera A. Indicações prescritas
+    - Altera Notas
+  - date: '2016-07-01'
+    amending: eu:celex:32015L1955:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2015/1955 DA COMISSÃO Texto relevante para efeitos do EEE de 29 de outubro de
+      2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 10.ºA
+    - Altera Artigo 21.º
+    - Altera CONDIÇÕES A QUE DEVE OBEDECER A CULTURA
+    - Altera CONDIÇÕES A QUE DEVEM OBEDECER AS SEMENTES
+    - Altera Notas
+  - date: '2017-04-01'
+    amending: eu:celex:32016L0317:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2016/317 DA COMISSÃO Texto relevante para efeitos do EEE de 3 de março de 2016
+    changes:
+    - Altera Artigo 10.ºA
+    - Altera Artigo 21.º
+    - Altera CONDIÇÕES A QUE DEVEM OBEDECER AS SEMENTES
+    - Altera A. Indicações prescritas
+    - Altera A. Informações que devem constar do rótulo
+    - Altera C. Informações que devem constar do documento
+    - Altera Notas
+  - date: '2020-02-16'
+    amending: eu:celex:32018L1027:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2018/1027 DA COMISSÃO Texto relevante para efeitos do EEE de 19 de julho de
+      2018; DIRETIVA DE EXECUÇÃO (UE) 2020/177 DA COMISSÃO Texto relevante para efeitos do EEE de 11 de fevereiro de 2020;
+      ACTO relativo às condições de adesão e às adaptações dos Tratados; ACTO relativo às condições de adesão da República
+      Helénica e às adaptações dos Tratados; ACTO (94/C 241/08)
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 10.ºA
+    - Altera Artigo 21.º
+    - Altera CONDIÇÕES A QUE DEVE OBEDECER A CULTURA
+    - Altera CONDIÇÕES A QUE DEVEM OBEDECER AS SEMENTES
+    - Altera A. Indicações prescritas
+    - Altera Notas
+  - date: '2022-02-01'
+    amending: eu:celex:32021L0415:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2021/415 DA COMISSÃO de 8 de março de 2021; DIRETIVA DE EXECUÇÃO (UE) 2021/2171
+      DA COMISSÃO de 7 de dezembro de 2021
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 10.ºA
+    - Altera Artigo 21.º
+    - Altera CONDIÇÕES A QUE DEVE OBEDECER A CULTURA
+    - Altera CONDIÇÕES A QUE DEVEM OBEDECER AS SEMENTES
+    - Altera ANEXO III
+    - Altera Notas
+  - date: '2022-09-01'
+    amending: eu:celex:32021L0971:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2021/971 DA COMISSÃO de 16 de junho de 2021; DIRETIVA DE EXECUÇÃO (UE) 2021/1927
+      DA COMISSÃO de 5 de novembro de 2021
+    changes:
+    - Altera Artigo 10.ºA
+    - Altera Artigo 21.º
+    - Altera CONDIÇÕES A QUE DEVE OBEDECER A CULTURA
+    - Altera CONDIÇÕES A QUE DEVEM OBEDECER AS SEMENTES
+    - Altera ANEXO III
+    - Altera Notas
 identifiers:
   celex: 31966L0402
   eli: http://data.europa.eu/eli/dir/1966/402/oj
@@ -47,7 +251,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7fc42eea-19dd-4763-90ac-2ae9268d818f.0008
   content_url: http://publications.europa.eu/resource/cellar/7f94787e-1dc6-11ed-8fa0-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01966L0402-20220901
-  retrieved_at: '2026-10-22T02:37:04Z'
+  retrieved_at: '2026-10-22T14:29:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2021-06-25T19:26:00.978+02:00'
 integrity:
@@ -56,9 +260,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:04Z'
-  notes: Texto consolidado 01966L0402-20220901.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:29:14Z'
+  notes: 11 versão(ões); histórico completo em diretiva-ue-1966-402.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -439,87 +643,29 @@ relationships:
   date: '1998-01-28'
 article_structure:
   article_count: 36
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:04Z'
-  warnings: []
+  checked_at: '2026-10-22T14:29:14Z'
+  warnings:
+  - '01966L0402-19930129: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01966L0402-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01966L0402-19950414: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01966L0402-19961217: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01966L0402-19990201: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01966L0402-19990221: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01966L0402-19990318: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01966L0402-19990625: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01966L0402-20010901: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01966L0402-20030710: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 66/402/CEE do Conselho, de 14 de Junho de 1966
-
-> 01966L0402 — PT — 01.09.2022 — 021.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/31969L0060) — [DIRECTIVA DO CONSELHO de 18 de Fevereiro de 1969](http://publications.europa.eu/resource/celex/31969L0060) — L 48 — 1 — 26.2.1969
-- [►M2](http://publications.europa.eu/resource/celex/31971L0162) — [DIRECTIVA DO CONSELHO de 30 de Março de 1971](http://publications.europa.eu/resource/celex/31971L0162) — L 87 — 24 — 17.4.1971
-- [►M3](http://publications.europa.eu/resource/celex/31972L0274) — [DIRECTIVA DO CONSELHO de 20 de Julho de 1972](http://publications.europa.eu/resource/celex/31972L0274) — L 171 — 37 — 29.7.1972
-- [►M4](http://publications.europa.eu/resource/celex/31972L0418) — [DIRECTIVA DO CONSELHO de 6 de Dezembro de 1972](http://publications.europa.eu/resource/celex/31972L0418) — L 287 — 22 — 26.12.1972
-- [►M5](http://publications.europa.eu/resource/celex/31973L0438) — [DIRECTIVA DO CONSELHO de 11 de Dezembro de 1973](http://publications.europa.eu/resource/celex/31973L0438) — L 356 — 79 — 27.12.1973
-- [►M6](http://publications.europa.eu/resource/celex/31975L0444) — [DIRECTIVA DO CONSELHO de 26 de Junho de 1975](http://publications.europa.eu/resource/celex/31975L0444) — L 196 — 6 — 26.7.1975
-- [►M7](http://publications.europa.eu/resource/celex/31978L0055) — [DIRECTIVA DO CONSELHO de 19 de Dezembro de 1977](http://publications.europa.eu/resource/celex/31978L0055) — L 16 — 23 — 20.1.1978
-- [M8](http://publications.europa.eu/resource/celex/31978L0387) — [PRIMEIRA DIRECTIVA DA COMISSÃO de 18 de Abril de 1978](http://publications.europa.eu/resource/celex/31978L0387) — L 113 — 13 — 25.4.1978
-- [►M9](http://publications.europa.eu/resource/celex/31978L0692) — [DIRECTIVA DO CONSELHO de 25 de Julho de 1978](http://publications.europa.eu/resource/celex/31978L0692) — L 236 — 13 — 26.8.1978
-- [M10](http://publications.europa.eu/resource/celex/31978L1020) — [DIRECTIVA DO CONSELHO de 5 de Dezembro de 1978](http://publications.europa.eu/resource/celex/31978L1020) — L 350 — 27 — 14.12.1978
-- [►M11](http://publications.europa.eu/resource/celex/31979L0641) — [DIRECTIVA DA COMISSÃO de 27 de Junho de 1979](http://publications.europa.eu/resource/celex/31979L0641) — L 183 — 13 — 19.7.1979
-- [►M12](http://publications.europa.eu/resource/celex/31979L0692) — [DIRECTIVA DO CONSELHO de 24 de Julho de 1979](http://publications.europa.eu/resource/celex/31979L0692) — L 205 — 1 — 13.8.1979
-- [M13](http://publications.europa.eu/resource/celex/31981L0126) — [DIRECTIVA DA COMISSÃO de 16 de Fevereiro de 1981](http://publications.europa.eu/resource/celex/31981L0126) — L 67 — 36 — 12.3.1981
-- [M14](http://publications.europa.eu/resource/celex/31981L0561) — [DIRECTIVA DEL CONSELHO de 13 de Julho de 1981](http://publications.europa.eu/resource/celex/31981L0561) — L 203 — 52 — 23.7.1981
-- [M15](http://publications.europa.eu/resource/celex/31985R3768) — [REGULAMENTO (CEE) Nº 3768/85 DO CONSELHO de 20 de Dezembro de 1985](http://publications.europa.eu/resource/celex/31985R3768) — L 362 — 8 — 31.12.1985
-- [►M16](http://publications.europa.eu/resource/celex/31986L0155) — [DIRECTIVA DO CONSELHO de 22 de Abril de 1986](http://publications.europa.eu/resource/celex/31986L0155) — L 118 — 23 — 7.5.1986
-- [►M17](http://publications.europa.eu/resource/celex/31986L0320) — [DIRECTIVA DA COMISSÃO de 20 de Junho de 1986](http://publications.europa.eu/resource/celex/31986L0320) — L 200 — 38 — 23.7.1986
-- [►M18](http://publications.europa.eu/resource/celex/31987L0120) — [DIRECTIVA DA COMISSÃO de 14 de Janeiro de 1987](http://publications.europa.eu/resource/celex/31987L0120) — L 49 — 39 — 18.2.1987
-- [M19](http://publications.europa.eu/resource/celex/31988L0332) — [DIRECTIVA DO CONSELHO de 13 de Junho de 1988](http://publications.europa.eu/resource/celex/31988L0332) — L 151 — 82 — 17.6.1988
-- [►M20](http://publications.europa.eu/resource/celex/31988L0380) — [DIRECTIVA DO CONSELHO de 13 de Junho de 1988](http://publications.europa.eu/resource/celex/31988L0380) — L 187 — 31 — 16.7.1988
-- [M21](http://publications.europa.eu/resource/celex/31988L0506) — [DIRECTIVA DA COMISSÃO de 13de Setembro de 1988](http://publications.europa.eu/resource/celex/31988L0506) — L 274 — 44 — 6.10.1988
-- [M22](http://publications.europa.eu/resource/celex/31989L0002) — [DIRECTIVA DA COMISSÃO de 15 de Dezembro de 1988](http://publications.europa.eu/resource/celex/31989L0002) — L 5 — 31 — 7.1.1989
-- [M23](http://publications.europa.eu/resource/celex/31990L0623) — [COMISSÃO DIRECTIVA DA COMISSÃO de 7 de Novembro de 1990](http://publications.europa.eu/resource/celex/31990L0623) — L 333 — 65 — 30.11.1990
-- [►M24](http://publications.europa.eu/resource/celex/31990L0654) — [DIRECTIVA DA COMISSÃO de 4 de Dezembro de 1990](http://publications.europa.eu/resource/celex/31990L0654) — L 353 — 48 — 17.12.1990
-- [M25](http://publications.europa.eu/resource/celex/31993L0002) — [DIRECTIVA 93/2/CEE DA COMISSÃO de 28 de Janeiroo de 1993](http://publications.europa.eu/resource/celex/31993L0002) — L 54 — 20 — 5.3.1993
-- [M26](http://publications.europa.eu/resource/celex/31995L0006) — [DIRECTIVA 95/6/CE DA COMISSÃO de 20 de Março de 1995](http://publications.europa.eu/resource/celex/31995L0006) — L 67 — 30 — 25.3.1995
-- [►M27](http://publications.europa.eu/resource/celex/31996L0072) — [DIRECTIVA 96/72/CE DO CONSELHO de 18 de Novembro de 1996](http://publications.europa.eu/resource/celex/31996L0072) — L 304 — 10 — 27.11.1996
-- [►M28](http://publications.europa.eu/resource/celex/31998L0095) — [DIRECTIVA 98/95/CE DO CONSELHO de 14 de Dezembro de 1998](http://publications.europa.eu/resource/celex/31998L0095) — L 25 — 1 — 1.2.1999
-- [►M29](http://publications.europa.eu/resource/celex/31998L0096) — [DIRECTIVA 98/96/CE DO CONSELHO de 14 de Dezembro de 1998](http://publications.europa.eu/resource/celex/31998L0096) — L 25 — 27 — 1.2.1999
-- [M30](http://publications.europa.eu/resource/celex/31999L0008) — [DIRECTIVA 1999/8/CE DA COMISSÃO de 18 de Fevereiro de 1999](http://publications.europa.eu/resource/celex/31999L0008) — L 50 — 26 — 26.2.1999
-- [►M31](http://publications.europa.eu/resource/celex/31999L0054) — [DIRECTIVA 1999/54/CE DA COMISSÃO de 26 de Maio de 1999](http://publications.europa.eu/resource/celex/31999L0054) — L 142 — 30 — 5.6.1999
-- [►M32](http://publications.europa.eu/resource/celex/32001L0064) — [DIRECTIVA 2001/64/CE DO CONSELHO de 31 de Agosto de 2001](http://publications.europa.eu/resource/celex/32001L0064) — L 234 — 60 — 1.9.2001
-- [►M33](http://publications.europa.eu/resource/celex/32003L0061) — [DIRECTIVA 2003/61/CE DO CONSELHO de 18 de Junho de 2003](http://publications.europa.eu/resource/celex/32003L0061) — L 165 — 23 — 3.7.2003
-- [►M34](http://publications.europa.eu/resource/celex/32004L0117) — [DIRECTIVA 2004/117/CE DO CONSELHO de 22 de Dezembro de 2004](http://publications.europa.eu/resource/celex/32004L0117) — L 14 — 18 — 18.1.2005
-- [M35](http://publications.europa.eu/resource/celex/32006L0055) — [DIRECTIVA 2006/55/CE DA COMISSÃO de 12 de Junho de 2006](http://publications.europa.eu/resource/celex/32006L0055) — L 159 — 13 — 13.6.2006
-- [►M36](http://publications.europa.eu/resource/celex/32009L0074) — [DIRECTIVA 2009/74/CE DA COMISSÃO de 26 de Junho de 2009](http://publications.europa.eu/resource/celex/32009L0074) — L 166 — 40 — 27.6.2009
-- [M37](http://publications.europa.eu/resource/celex/32012L0001) — [DIRETIVA DE EXECUÇÃO 2012/1/UE DA COMISSÃO de 6 de janeiro de 2012](http://publications.europa.eu/resource/celex/32012L0001) — L 4 — 8 — 7.1.2012
-- [►M38](http://publications.europa.eu/resource/celex/32012L0037) — [DIRETIVA DE EXECUÇÃO 2012/37/UE DA COMISSÃO de 22 de novembro de 2012](http://publications.europa.eu/resource/celex/32012L0037) — L 325 — 13 — 23.11.2012
-- [►M39](http://publications.europa.eu/resource/celex/32015L1955) — [DIRETIVA DE EXECUÇÃO (UE) 2015/1955 DA COMISSÃO de 29 de outubro de 2015](http://publications.europa.eu/resource/celex/32015L1955) — L 284 — 142 — 30.10.2015
-- [►M40](http://publications.europa.eu/resource/celex/32016L0317) — [DIRETIVA DE EXECUÇÃO (UE) 2016/317 DA COMISSÃO de 3 de março de 2016](http://publications.europa.eu/resource/celex/32016L0317) — L 60 — 72 — 5.3.2016
-- [►M41](http://publications.europa.eu/resource/celex/32018L1027) — [DIRETIVA DE EXECUÇÃO (UE) 2018/1027 DA COMISSÃO de 19 de julho de 2018](http://publications.europa.eu/resource/celex/32018L1027) — L 184 — 4 — 20.7.2018
-- [►M42](http://publications.europa.eu/resource/celex/32020L0177) — [DIRETIVA DE EXECUÇÃO (UE) 2020/177 DA COMISSÃO de 11 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020L0177) — L 41 — 1 — 13.2.2020
-- [►M43](http://publications.europa.eu/resource/celex/32021L0415) — [DIRETIVA DE EXECUÇÃO (UE) 2021/415 DA COMISSÃO de 8 de março de 2021](http://publications.europa.eu/resource/celex/32021L0415) — L 81 — 65 — 9.3.2021
-- [►M44](http://publications.europa.eu/resource/celex/32021L0971) — [DIRETIVA DE EXECUÇÃO (UE) 2021/971 DA COMISSÃO de 16 de junho de 2021](http://publications.europa.eu/resource/celex/32021L0971) — L 214 — 62 — 17.6.2021
-- [►M45](http://publications.europa.eu/resource/celex/32021L1927) — [DIRETIVA DE EXECUÇÃO (UE) 2021/1927 DA COMISSÃO de 5 de novembro de 2021](http://publications.europa.eu/resource/celex/32021L1927) — L 393 — 13 — 8.11.2021
-- [►M46](http://publications.europa.eu/resource/celex/32021L2171) — [DIRETIVA DE EXECUÇÃO (UE) 2021/2171 DA COMISSÃO de 7 de dezembro de 2021](http://publications.europa.eu/resource/celex/32021L2171) — L 438 — 84 — 8.12.2021
-
-**Alterada por:**
-
-- [A1](http://publications.europa.eu/resource/celex/11972B%2FACT) — [ACTO relativo às condições de adesão e às adaptações dos Tratados](http://publications.europa.eu/resource/celex/11972B%2FACT) — L 73 — 14 — 27.3.1972
-- L 002 — 1 — ..
-- [A2](http://publications.europa.eu/resource/celex/11979H%2FACT) — [ACTO relativo às condições de adesão da República Helénica e às adaptações dos Tratados](http://publications.europa.eu/resource/celex/11979H%2FACT) — L 291 — 17 — 19.11.1979
-- [A3](http://publications.europa.eu/resource/celex/11994N%2FACT) — [ACTO (94/C 241/08)](http://publications.europa.eu/resource/celex/11994N%2FACT) — C 241 — 21 — 29.8.1994
-- L 001 — 1 — ..
-
-**Retificada por:**
-
-- [C1](http://publications.europa.eu/resource/celex/31998L0095R%2802%29) — [Rectificação, JO L 161, 16.6.2001, p. 47 (1998/95)](http://publications.europa.eu/resource/celex/31998L0095R%2802%29)
-- [C2](http://publications.europa.eu/resource/celex/31998L0096R%2802%29) — [Rectificação, JO L 161, 16.6.2001, p. 48 (1998/96)](http://publications.europa.eu/resource/celex/31998L0096R%2802%29)
-
-## DIRECTIVA DO CONSELHO
 
 de 14 de Junho de 1966
 

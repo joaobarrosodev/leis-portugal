@@ -34,6 +34,92 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-09-03'
+version_history:
+  file: diretiva-ue-1992-35.versoes.json
+  count: 5
+  source_lastmod: '2008-09-03'
+  versions:
+  - date: '1992-06-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-12-12'
+    amending: eu:celex:32003R0806:por
+    amending_title: REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003; DECISÃO DA COMISSÃO de 5 de Dezembro
+      de 2006; Acto de Adesão da Áustria, da Finlândia e da Suécia; Acto relativo às condições de adesão da República Checa,
+      da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da
+      Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações
+      dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera ANEXO III
+    - Altera ANEXO IV
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita ANEXO I
+    - Adita A. LISTA DOS LABORATÓRIOS NACIONAIS DA PESTE EQUINA
+    - Adita B. FUNÇÕES DOS LABORATÓRIOS NACIONAIS DA PESTE EQUINA
+    - Adita ANEXO II
+    - Adita LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA
+    - Adita FUNÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA DA PESTE EQUINA
+    - Adita CRITÉRIOS PARA A ELABORAÇÃO DOS PLANOS DE INTERVENÇÃO
+    - Adita Notas
+    - Suprime Artigo 1o.
+    - Suprime Artigo 2o.
+    - Suprime Artigo 3o.
+    - Suprime Artigo 4o.
+    - Suprime Artigo 5o.
+    - Suprime Artigo 6o.
+    - Suprime Artigo 7o.
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0104:por
+    amending_title: DIRECTIVA 2006/104/CE DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 19.º
+    - Altera A. LISTA DOS LABORATÓRIOS NACIONAIS DA PESTE EQUINA
+    - Altera Notas
+  - date: '2007-11-13'
+    amending: eu:celex:32007D0729:por
+    amending_title: DECISÃO DA COMISSÃO de 7 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 19.º
+    - Altera A. LISTA DOS LABORATÓRIOS NACIONAIS DA PESTE EQUINA
+    - Altera LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA
+    - Altera Notas
+  - date: '2008-09-03'
+    amending: eu:celex:32008L0073:por
+    amending_title: DIRECTIVA 2008/73/CE DO CONSELHO Texto relevante para efeitos do EEE de 15 de Julho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 14.º
+    - Altera Artigo 19.º
+    - Altera Notas
+    - Suprime A. LISTA DOS LABORATÓRIOS NACIONAIS DA PESTE EQUINA
 identifiers:
   celex: 31992L0035
   eli: http://data.europa.eu/eli/dir/1992/35/oj
@@ -48,7 +134,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6e59a817-44b0-4a37-85f8-47cf263eb3b0.0009
   content_url: http://publications.europa.eu/resource/cellar/2f62fee8-734e-4244-9255-1549a6a7df3a.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0035-20080903
-  retrieved_at: '2026-10-22T02:46:46Z'
+  retrieved_at: '2026-10-22T14:40:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2017-02-20T14:23:10.752+01:00'
 integrity:
@@ -57,9 +143,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:46Z'
-  notes: Texto consolidado 01992L0035-20080903.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:40:49Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-1992-35.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -166,39 +252,22 @@ relationships:
   date: '2016-03-31'
 article_structure:
   article_count: 22
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:46Z'
-  warnings: []
+  checked_at: '2026-10-22T14:40:49Z'
+  warnings:
+  - '01992L0035-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0035-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0035-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 92/35/CEE do Conselho, de 29 de Abril de 1992
-
-> 1992L0035 — PT — 03.09.2008 — 007.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003R0806) — [REGULAMENTO (CE) N.º 806/2003 DO CONSELHO de 14 de Abril de 2003](http://publications.europa.eu/resource/celex/32003R0806) — L 122 — 1 — 16.5.2003
-- [M2](http://publications.europa.eu/resource/celex/32006D0911) — [DECISÃO DA COMISSÃO de 5 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006D0911) — L 346 — 41 — 9.12.2006
-- [M3](http://publications.europa.eu/resource/celex/32006L0104) — [DIRECTIVA 2006/104/CE DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0104) — L 363 — 352 — 20.12.2006
-- [►M4](http://publications.europa.eu/resource/celex/32007D0729) — [DECISÃO DA COMISSÃO de 7 de Novembro de 2007](http://publications.europa.eu/resource/celex/32007D0729) — L 294 — 26 — 13.11.2007
-- [►M5](http://publications.europa.eu/resource/celex/32008L0073) — [DIRECTIVA 2008/73/CE DO CONSELHO Texto relevante para efeitos do EEE de 15 de Julho de 2008](http://publications.europa.eu/resource/celex/32008L0073) — L 219 — 40 — 14.8.2008
-
-**Alterado por:**
-
-- [A1](http://publications.europa.eu/resource/celex/11994N) — [Acto de Adesão da Áustria, da Finlândia e da Suécia](http://publications.europa.eu/resource/celex/11994N) — C 241 — 21 — 29.8.1994
-- (adaptado pela Decisão 95/1/CE, Euratom, CECA do Conselho) — L 001 — 1 — ..
-- [A2](http://publications.europa.eu/resource/celex/12003T) — [Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T) — L 236 — 33 — 23.9.2003
-
-## DIRECTIVA 92/35/CEE DO CONSELHO
 
 de 29 de Abril de 1992
 

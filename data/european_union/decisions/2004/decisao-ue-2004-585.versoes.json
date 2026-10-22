@@ -1,0 +1,290 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004D0585:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004D0585-20150309",
+ "dre_path": null,
+ "source_lastmod": "2015-03-09",
+ "versions": [
+  {
+   "date": "2006-05-30",
+   "future": false,
+   "celex": "32004D0585",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "17de08e5263cfb2c",
+    "eb069942c6c2c2ca",
+    "ec27d2e5cd60e16a",
+    "9608343feb887a65",
+    "1ce548842952b67e",
+    "f0fe45a4075350c1",
+    "74b1005f2914c74d",
+    "953d23e5c38f765c",
+    "cd934befd1041a83",
+    "0ae073bb3553feb7",
+    "2b549402f675a277",
+    "b71b86f84ce028b0",
+    "0f4cf9e1c0d74b37",
+    "af0d65e34091be7c"
+   ]
+  },
+  {
+   "date": "2007-06-22",
+   "future": false,
+   "celex": "02004D0585-20070622",
+   "acts": [
+    {
+     "id": "eu:celex:32007D0409:por",
+     "title": "DECISÃO DO CONSELHO de 11 de Junho de 2007",
+     "published": null,
+     "celex": "32007D0409"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 9.º — Financiamento",
+    "Altera Artigo 12.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita Artigo 9.ºA — Verificações por parte da Comissão",
+    "Adita ANEXO I",
+    "Adita ANEXO II",
+    "Adita Contribuição comunitária para os custos suportados pelos conselhos consultivos regionais"
+   ],
+   "fragments": [
+    "311052fd5b5cd787",
+    "eb069942c6c2c2ca",
+    "ec27d2e5cd60e16a",
+    "9608343feb887a65",
+    "1ce548842952b67e",
+    "f0fe45a4075350c1",
+    "74b1005f2914c74d",
+    "953d23e5c38f765c",
+    "cd934befd1041a83",
+    "b0a462509d6d921a",
+    "72899b2cf9bc3e3f",
+    "2b549402f675a277",
+    "b71b86f84ce028b0",
+    "9165c3b0aa2305fa",
+    "0df696884952c900",
+    "852174729551523b",
+    "0b230e72bc7f358f",
+    "d776bba48af754cb"
+   ]
+  },
+  {
+   "date": "2015-03-09",
+   "future": false,
+   "celex": "02004D0585-20150309",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Definições",
+    "Suprime Artigo 2.º — Instituição de conselhos consultivos regionais",
+    "Suprime Artigo 3.º — Procedimento",
+    "Suprime Artigo 4.º — Estrutura",
+    "Suprime Artigo 5.º — Membros",
+    "Suprime Artigo 6.º — Participação de não membros",
+    "Suprime Artigo 7.º — Funcionamento",
+    "Suprime Artigo 8.º — Coordenação entre conselhos consultivos regionais",
+    "Suprime Artigo 9.º — Financiamento",
+    "Suprime Artigo 9.ºA — Verificações por parte da Comissão",
+    "Suprime Artigo 10.º — Relatório anual e auditoria",
+    "Suprime Artigo 11.º — Revisão",
+    "Suprime Artigo 12.º — Entrada em vigor",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime Contribuição comunitária para os custos suportados pelos conselhos consultivos regionais",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "ca760cf9369c835e"
+   ]
+  }
+ ],
+ "fragments": {
+  "17de08e5263cfb2c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Julho de 2004\n\nque institui conselhos consultivos regionais no âmbito da política comum das pescas\n\n(2004/585/CE)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/d61ccb9f-0f6a-4bbc-8b94-26a8186bfc42.0016.03/DOC_1#ntr1-L_2004256PT.01001701-E0001),\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^2])](http://publications.europa.eu/resource/cellar/d61ccb9f-0f6a-4bbc-8b94-26a8186bfc42.0016.03/DOC_1#ntr2-L_2004256PT.01001701-E0002),\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da política comum das pescas [([^3])](http://publications.europa.eu/resource/cellar/d61ccb9f-0f6a-4bbc-8b94-26a8186bfc42.0016.03/DOC_1#ntr3-L_2004256PT.01001701-E0003) prevê, designadamente nos artigos 31.º e 32.º, novas formas de participação das partes interessadas na política comum das pescas, através da instituição de conselhos consultivos regionais.\n\n(2) Uma abordagem coerente da criação de conselhos consultivos regionais exige que estes correspondam a unidades de gestão baseadas em critérios biológicos e que o seu número seja limitado, de modo a poderem oferecer pareceres relevantes e ainda por motivos de ordem prática.\n\n(3) Dado que os conselhos consultivos regionais são organizações dirigidas pelas partes interessadas, a sua estrutura deve ser adaptada às características específicas das pescarias e das regiões a que respeitam. Para a instituição dos conselhos consultivos regionais é, no entanto, necessário um quadro geral.\n\n(4) Por razões de eficácia, é necessário limitar a dimensão dos conselhos consultivos regionais, garantindo que neles estejam presentes todos os grupos de interesses envolvidos na política comum das pescas e reconhecendo a primazia dos interesses de pesca, dados os efeitos que têm sobre estes as decisões e políticas de gestão.\n\n(5) A fim de assegurar a coerência das questões de interesse comum para mais do que um conselho consultivo regional, é essencial estabelecer ligações entre os diferentes conselhos consultivos regionais.\n\n(6) Atendendo às funções do Comité Consultivo da Pesca e da Aquicultura, renovado pela Decisão 1999/478/CE da Comissão [([^4])](http://publications.europa.eu/resource/cellar/d61ccb9f-0f6a-4bbc-8b94-26a8186bfc42.0016.03/DOC_1#ntr4-L_2004256PT.01001701-E0004) e composto por representantes de um vasto leque de organizações e interesses europeus, o trabalho dos conselhos consultivos regionais deverá ser coordenado com o do citado comité, aos quais deverão igualmente enviar os seus relatórios.\n\n(7) Para garantir a instituição efectiva dos conselhos consultivos regionais, é indispensável prever um financiamento público para as despesas a que devem fazer face na fase de arranque e para as despesas de interpretação e de tradução.\n\n(8) Sem prejuízo das competências da autoridade orçamental definidas no Tratado, é inserido na presente decisão, para toda a duração das disposições de financiamento, um montante de referência financeira, na acepção do ponto 34 do Acordo Interinstitucional de 6 de Maio de 1999 entre o Parlamento Europeu, o Conselho e a Comissão sobre a disciplina orçamental e a melhoria do processo orçamental [([^5])](http://publications.europa.eu/resource/cellar/d61ccb9f-0f6a-4bbc-8b94-26a8186bfc42.0016.03/DOC_1#ntr5-L_2004256PT.01001701-E0005),\n\nDECIDE:"
+  },
+  "eb069942c6c2c2ca": {
+   "fragment_id": "Artigo 1.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara efeitos da presente decisão, entende- se por:\n\n1) «Estado-Membro interessado»: um Estado-Membro que tenha interesses de pesca na zona ou nas pescarias da competência de um conselho consultivo regional.\n\n2) «Sector das pescas»: o subsector de captura, incluindo os proprietários de navios, os pescadores que praticam a pequena pesca, os pescadores assalariados, as organizações de produtores, bem como, entre outros, os transformadores, os comerciantes e outras organizações de mercado e redes de mulheres.\n\n3) «Outros grupos de interesses»: os grupos e organizações ambientais, os aquicultores, os consumidores, os pescadores desportivos ou de lazer, entre outros."
+  },
+  "ec27d2e5cd60e16a": {
+   "fragment_id": "Artigo 2.º — Instituição de conselhos consultivos regionais",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Instituição de conselhos consultivos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Instituição de conselhos consultivos regionais\n\n1. É instituído um conselho consultivo regional para cada uma das seguintes zonas:\n\na) Mar Báltico;\n\nb) Mar Mediterrâneo;\n\nc) Mar do Norte;\n\nd) Águas ocidentais norte;\n\ne) Águas ocidentais sul;\n\nf) Unidades populacionais pelágicas;\n\ng) Frota de mar alto/longa distância.\n\n2. As zonas geográficas da competência de cada conselho consultivo regional são indicadas no anexo I. Cada conselho consultivo regional pode criar subdivisões para tratar questões relativas a pescarias específicas e a regiões biológicas."
+  },
+  "9608343feb887a65": {
+   "fragment_id": "Artigo 3.º — Procedimento",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Procedimento\n\n1. Os representantes do sector das pescas e outros grupos de interesses que pretendam integrar um dos conselhos consultivos regionais apresentarão aos Estados-Membros interessados e à Comissão um pedido relativo ao funcionamento desse conselho consultivo regional. Esse pedido será compatível com os objectivos, princípios e orientações da política comum das pescas, tal como constam do Regulamento (CE) n.º 2371/2002, e incluirá:\n\na) Uma declaração de objectivos;\n\nb) Os princípios de funcionamento;\n\nc) O regulamento interno inicial;\n\nd) A estimativa orçamental;\n\ne) Uma lista provisória de organizações.\n\n2. Os Estados-Membros interessados decidirão se o pedido é representativo e está conforme com as disposições da presente decisão, se necessário na sequência de debates com as partes interessadas, e transmitirão, de comum acordo, uma recomendação à Comissão sobre esse conselho consultivo regional.\n\n3. Depois de avaliar a recomendação e proceder a eventuais alterações do pedido, a Comissão aprovará logo que possível e, de qualquer forma, visará aprovar, o mais tardar no prazo de três meses, uma decisão que especifique a data a partir da qual entrará em funcionamento o conselho consultivo regional. A decisão será publicada no *Jornal Oficial da União Europeia*."
+  },
+  "1ce548842952b67e": {
+   "fragment_id": "Artigo 4.º — Estrutura",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estrutura\n\n1. Cada conselho consultivo regional será constituído por uma assembleia geral e um comité executivo.\n\n2. A assembleia geral reunir-se-á pelo menos uma vez por ano para aprovar o relatório anual e o plano estratégico anual elaborados pelo comité executivo.\n\n3. A assembleia geral nomeará um comité executivo composto, no máximo, por 24 membros. O comité executivo gerirá as actividades do conselho consultivo regional e aprovará as suas recomendações."
+  },
+  "f0fe45a4075350c1": {
+   "fragment_id": "Artigo 5.º — Membros",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Membros\n\n1. Os conselhos consultivos regionais serão compostos por representantes do sector das pescas e de outros grupos de interesses envolvidos na política comum das pescas.\n\n2. As organizações europeias e nacionais que representam o sector das pescas e outros grupos de interesses podem propor membros aos Estados-Membros interessados. Estes Estados-Membros decidirão sobre os membros da assembleia geral.\n\n3. Na assembleia geral e no comité executivo, dois terços dos mandatos serão atribuídos a representantes do sector das pescas e um terço a representantes dos outros grupos de interesses envolvidos na política comum das pescas.\n\n4. O comité executivo incluirá, pelo menos, um representante do subsector da captura de cada Estado-Membro interessado."
+  },
+  "74b1005f2914c74d": {
+   "fragment_id": "Artigo 6.º — Participação de não membros",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Participação de não membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Participação de não membros\n\n1. Serão convidados a participar como peritos nos trabalhos dos conselhos consultivos regionais cientistas provenientes de instituições dos Estados-Membros interessados. Poderão ser igualmente convidados quaisquer outros cientistas qualificados.\n\n2. A Comissão e as administrações nacionais e regionais dos Estados-Membros interessados terão o direito de participar em qualquer reunião de um conselho consultivo regional na qualidade de observadores activos.\n\n3. Um representante do Comité Consultivo da Pesca e da Aquicultura terá o direito de participar a título de observador activo em qualquer reunião de um conselho consultivo regional.\n\n4. Os representantes do sector das pescas e de outros grupos de interesses de países terceiros, incluindo representantes das organizações regionais de pesca que possuam interesses de pesca na zona ou nas pescarias da competência de um conselho consultivo regional, podem ser convidados a participar, como observadores activos, nesse conselho consultivo regional, quando nele sejam debatidas questões que os afectem.\n\n5. As reuniões da assembleia geral serão abertas ao público. As reuniões do comité executivo serão abertas ao público, excepto se, em casos excepcionais, a maioria dos membros desse comité decidir em contrário."
+  },
+  "953d23e5c38f765c": {
+   "fragment_id": "Artigo 7.º — Funcionamento",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funcionamento\n\n1. Os conselhos consultivos regionais aprovarão as medidas necessárias para a sua organização, criando, se adequado, um secretariado e grupos de trabalho.\n\n2. Os conselhos consultivos regionais adoptarão as medidas necessárias para garantir a transparência de todas as fases do seu processo decisório. As recomendações aprovadas pelo comité executivo serão imediatamente postas à disposição da assembleia geral, da Comissão, dos Estados-Membros interessados e, a pedido, de qualquer membro do público.\n\n3. As recomendações serão, sempre que possível, aprovadas pelos membros do comité executivo por consenso. Na impossibilidade de se chegar a um consenso, as opiniões divergentes expressas pelos membros serão registadas nas recomendações aprovadas pela maioria dos membros presentes e votantes. Após recepção escrita das recomendações, a Comissão e, sempre que pertinente, os Estados-Membros interessados, responderão com precisão a essas recomendações num prazo razoável, o mais tardar três meses.\n\n4. Cada conselho consultivo regional designará, por consenso, um presidente. O presidente actuará com imparcialidade.\n\n5. Os Estados-Membros interessados fornecerão o apoio adequado, incluindo ajuda logística, para facilitar o funcionamento de um conselho consultivo regional."
+  },
+  "cd934befd1041a83": {
+   "fragment_id": "Artigo 8.º — Coordenação entre conselhos consultivos regionais",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Coordenação entre conselhos consultivos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Coordenação entre conselhos consultivos regionais\n\nSe uma questão se revestir de interesse comum para dois ou mais conselhos consultivos regionais, estes coordenarão as suas posições, a fim de aprovarem recomendações comuns sobre essa questão."
+  },
+  "0ae073bb3553feb7": {
+   "fragment_id": "Artigo 9.º — Financiamento",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Financiamento\n\n1. Os conselhos consultivos regionais que tiverem adquirido personalidade jurídica poderão solicitar uma ajuda financeira comunitária.\n\n2. Pode ser concedida uma ajuda comunitária ao arranque para as despesas de funcionamento dos conselhos consultivos regionais durante os seus primeiros cinco anos, de acordo com as condições fixadas na parte 1 do anexo II.\n\n3. Pode ser concedida uma ajuda comunitária para as despesas de interpretação e tradução das reuniões dos conselhos consultivos regionais, tal como consta da parte 2 do anexo II.\n\n4. O montante de referência financeira para a execução da presente acção para o período de 2004-2011 é de 7 596 000 euros. Relativamente ao período que tem início em 1 de Janeiro de 2007, o montante será considerado confirmado se for compatível, para essa fase, com as perspectivas financeiras em vigor durante esse período. As dotações anuais serão autorizadas pela autoridade orçamental dentro dos limites das perspectivas financeiras."
+  },
+  "2b549402f675a277": {
+   "fragment_id": "Artigo 10.º — Relatório anual e auditoria",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Relatório anual e auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Relatório anual e auditoria\n\n1. Cada conselho consultivo regional transmitirá à Comissão, aos Estados-Membros interessados e ao Comité Consultivo da Pesca e da Aquicultura, um relatório anual sobre as suas actividades, até 31 de Março do ano subsequente ao abrangido pelo relatório.\n\n2. A Comissão ou o Tribunal de Contas poderão, a qualquer momento, organizar uma auditoria que será efectuada quer por um organismo externo de sua escolha quer pelos seus próprios serviços.\n\n3. Cada conselho consultivo regional nomeará um revisor de contas pelo período durante o qual beneficie de financiamento comunitário."
+  },
+  "b71b86f84ce028b0": {
+   "fragment_id": "Artigo 11.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Revisão\n\nTrês anos após a data em que o último conselho consultivo regional se tornar operacional ou, o mais tardar, até 30 de Junho de 2007, a Comissão informará o Parlamento Europeu e o Conselho sobre a aplicação da presente decisão e o funcionamento dos conselhos consultivos regionais."
+  },
+  "0f4cf9e1c0d74b37": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nA presente decisão entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nFeito em Bruxelas, em 19 de Julho de 2004.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**C. VEERMAN**\n\n---"
+  },
+  "af0d65e34091be7c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/d61ccb9f-0f6a-4bbc-8b94-26a8186bfc42.0016.03/DOC_1#ntc1-L_2004256PT.01001701-E0001) Parecer emitido em 1 de Abril de 2004 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/d61ccb9f-0f6a-4bbc-8b94-26a8186bfc42.0016.03/DOC_1#ntc2-L_2004256PT.01001701-E0002) Parecer emitido em 26 de Fevereiro de 2004 (ainda não publicado no Jornal Oficial).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/d61ccb9f-0f6a-4bbc-8b94-26a8186bfc42.0016.03/DOC_1#ntc3-L_2004256PT.01001701-E0003) [JO L 358 de 31.12.2002, p. 59](http://publications.europa.eu/resource/oj/JOL_2002_358_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1242/2004 ([JO L 236 de 7.7.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_236_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/d61ccb9f-0f6a-4bbc-8b94-26a8186bfc42.0016.03/DOC_1#ntc4-L_2004256PT.01001701-E0004) [JO L 187 de 20.7.1999, p. 70](http://publications.europa.eu/resource/oj/JOL_1999_187_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/d61ccb9f-0f6a-4bbc-8b94-26a8186bfc42.0016.03/DOC_1#ntc5-L_2004256PT.01001701-E0005) [JO C 172 de 18.6.1999, p. 1](http://publications.europa.eu/resource/oj/JOC_1999_172_R_TOC). Acordo com a última redacção que lhe foi dada pela Decisão 2003/249/CE do Parlamento Europeu e do Conselho ([JO L 147 de 14.6.2003, p. 25](http://publications.europa.eu/resource/oj/JOL_2003_147_R_TOC))."
+  },
+  "311052fd5b5cd787": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Julho de 2004\n\nque institui conselhos consultivos regionais no âmbito da política comum das pescas\n\n(2004/585/CE)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/42c766af-8fea-4a9f-b825-485ea35e9a19.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/42c766af-8fea-4a9f-b825-485ea35e9a19.0018.03/DOC_1#E0002)),\n\n(1) O Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da política comum das pescas ([^3^](http://publications.europa.eu/resource/cellar/42c766af-8fea-4a9f-b825-485ea35e9a19.0018.03/DOC_1#E0003)) prevê, designadamente nos artigos 31.º e 32.º, novas formas de participação das partes interessadas na política comum das pescas, através da instituição de conselhos consultivos regionais.\n\n(2) Uma abordagem coerente da criação de conselhos consultivos regionais exige que estes correspondam a unidades de gestão baseadas em critérios biológicos e que o seu número seja limitado, de modo a poderem oferecer pareceres relevantes e ainda por motivos de ordem prática.\n\n(3) Dado que os conselhos consultivos regionais são organizações dirigidas pelas partes interessadas, a sua estrutura deve ser adaptada às características específicas das pescarias e das regiões a que respeitam. Para a instituição dos conselhos consultivos regionais é, no entanto, necessário um quadro geral.\n\n(4) Por razões de eficácia, é necessário limitar a dimensão dos conselhos consultivos regionais, garantindo que neles estejam presentes todos os grupos de interesses envolvidos na política comum das pescas e reconhecendo a primazia dos interesses de pesca, dados os efeitos que têm sobre estes as decisões e políticas de gestão.\n\n(5) A fim de assegurar a coerência das questões de interesse comum para mais do que um conselho consultivo regional, é essencial estabelecer ligações entre os diferentes conselhos consultivos regionais.\n\n(6) Atendendo às funções do Comité Consultivo da Pesca e da Aquicultura, renovado pela Decisão 1999/478/CE da Comissão ([^4^](http://publications.europa.eu/resource/cellar/42c766af-8fea-4a9f-b825-485ea35e9a19.0018.03/DOC_1#E0004)) e composto por representantes de um vasto leque de organizações e interesses europeus, o trabalho dos conselhos consultivos regionais deverá ser coordenado com o do citado comité, aos quais deverão igualmente enviar os seus relatórios.\n\n(7) Para garantir a instituição efectiva dos conselhos consultivos regionais, é indispensável prever um financiamento público para as despesas a que devem fazer face na fase de arranque e para as despesas de interpretação e de tradução.\n\n(8) Sem prejuízo das competências da autoridade orçamental definidas no Tratado, é inserido na presente decisão, para toda a duração das disposições de financiamento, um montante de referência financeira, na acepção do ponto 34 do Acordo Interinstitucional de 6 de Maio de 1999 entre o Parlamento Europeu, o Conselho e a Comissão sobre a disciplina orçamental e a melhoria do processo orçamental ([^5^](http://publications.europa.eu/resource/cellar/42c766af-8fea-4a9f-b825-485ea35e9a19.0018.03/DOC_1#E0005)),\n\nDECIDE:"
+  },
+  "b0a462509d6d921a": {
+   "fragment_id": "Artigo 9.º — Financiamento",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Financiamento\n\n1. Os conselhos consultivos regionais que tiverem adquirido personalidade jurídica podem solicitar uma ajuda financeira comunitária na qualidade de organismos que prosseguem um fim de interesse geral europeu, na acepção da alínea b) do artigo 162.º do Regulamento (CE, Euratom) n.º 2342/2002 da Comissão, de 23 de Dezembro de 2002, que estabelece as normas de execução do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^6^](http://publications.europa.eu/resource/cellar/42c766af-8fea-4a9f-b825-485ea35e9a19.0018.03/DOC_1#E0006)).\n\n2. A Comissão assina com cada conselho consultivo regional uma convenção de subvenção para cobrir os respectivos custos de funcionamento, incluindo os custos de interpretação e de tradução, em conformidade com o anexo II."
+  },
+  "72899b2cf9bc3e3f": {
+   "fragment_id": "Artigo 9.ºA — Verificações por parte da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 9.ºA — Verificações por parte da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.ºA — Verificações por parte da Comissão\n\nA Comissão pode proceder a todas as verificações que considere necessárias para garantir o cumprimento das tarefas atribuídas aos conselhos consultivos regionais pelo Regulamento (CE) n.º 2371/2002 e pela presente decisão."
+  },
+  "9165c3b0aa2305fa": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nA presente decisão entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "0df696884952c900": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| Denominação do conselho consultivo regional | Zonas CIEM, divisões COPACE e Comissão Geral das Pescas do Mediterrâneo [(^1^)](http://publications.europa.eu/resource/cellar/42c766af-8fea-4a9f-b825-485ea35e9a19.0018.03/DOC_1#E0007) |\n| --- | --- |\n| Mar Báltico | IIIb, IIIc e IIId |\n| Mar Mediterrâneo | Águas marítimas do Mediterrâneo a leste do meridiano 5.º 36' de longitude oeste |\n| Mar do Norte | IV, IIIa |\n| Águas ocidentais norte | V (excluindo Va e unicamente águas comunitárias em Vb), VI, VII |\n| Águas ocidentais sul | VIII, IX e X (águas circundantes dos Açores), e divisões COPACE 34.1.1, 34.1.2 e 34.2.0 (águas circundantes da Madeira e Canárias) |\n| Unidades populacionais pelágicas (verdinho, sarda, carapau e arenque) | Todas as zonas (excepto o mar Báltico e o Mediterrâneo) |\n| Frota de mar alto/de longa distância | Todas as águas não comunitárias |\n| (^1^)Para efeitos da presente decisão, as zonas CIEM são as zonas definidas no Regulamento (CEE) n.º 3880/91 (JO L 365 de 31.12.1991, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1) e as divisões COPACE são as divisões definidas no Regulamento (CE) n.º 2597/95 (JO L 270 de 13.11.1995, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003. |  |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "0b230e72bc7f358f": {
+   "fragment_id": "Contribuição comunitária para os custos suportados pelos conselhos consultivos regionais",
+   "type": "divisao",
+   "heading": "Contribuição comunitária para os custos suportados pelos conselhos consultivos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Contribuição comunitária para os custos suportados pelos conselhos consultivos regionais\n\nA Comunidade contribui para o financiamento de parte dos custos de funcionamento dos conselhos consultivos regionais na sua qualidade de organismos que prosseguem um fim de interesse geral europeu. A subvenção concedida pela Comunidade a cada conselho consultivo regional para a cobertura dos seus custos de funcionamento não ultrapassa 90 % do orçamento de funcionamento desse conselho consultivo regional. Nos anos subsequentes, a contribuição financeira deve ser permanente e dependente do orçamento disponível. Todos os anos, a Comissão assina com cada conselho consultivo regional uma «convenção de subvenção ao funcionamento» que deve especificar as condições e termos precisos e as normas de concessão da subvenção.\n\nOs custos elegíveis são os custos necessários para assegurar o funcionamento normal dos conselhos consultivos regionais, permitindo-lhes prosseguir os seus objectivos. Só as despesas efectivas serão objecto da contribuição comunitária, que só será concedida se as outras fontes de financiamento tiverem sido utilizadas.\n\nSão elegíveis os custos directos relativos aos seguintes elementos:\n\n— pessoal (custo do pessoal por cada dia de trabalho no projecto),\n\n— salas de reunião,\n\n— equipamento novo ou usado,\n\n— materiais e fornecimentos,\n\n— divulgação de informações aos membros,\n\n— viagem e alojamento dos peritos que participem nas reuniões dos conselhos consultivos regionais (com base em tabelas ou regras estabelecidas pelos serviços da Comissão),\n\n— auditorias,\n\n— custos de interpretação e de tradução,\n\n— uma reserva para imprevistos, limitada a 5 % dos custos directos elegíveis.\n\n---"
+  },
+  "d776bba48af754cb": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/42c766af-8fea-4a9f-b825-485ea35e9a19.0018.03/DOC_1#src.E0001)) Parecer emitido em 1 de Abril de 2004 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/42c766af-8fea-4a9f-b825-485ea35e9a19.0018.03/DOC_1#src.E0002)) Parecer emitido em 26 de Fevereiro de 2004 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/42c766af-8fea-4a9f-b825-485ea35e9a19.0018.03/DOC_1#src.E0003)) JO L 358 de 31.12.2002, p. 59. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1242/2004 (JO L 236 de 7.7.2004, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/42c766af-8fea-4a9f-b825-485ea35e9a19.0018.03/DOC_1#src.E0004)) JO L 187 de 20.7.1999, p. 70.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/42c766af-8fea-4a9f-b825-485ea35e9a19.0018.03/DOC_1#src.E0005)) JO C 172 de 18.6.1999, p. 1. Acordo com a última redacção que lhe foi dada pela Decisão 2003/249/CE do Parlamento Europeu e do Conselho (JO L 147 de 14.6.2003, p. 25).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/42c766af-8fea-4a9f-b825-485ea35e9a19.0018.03/DOC_1#src.E0006)) JO L 357 de 31.12.2002, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE, Euratom) n.º 478/2007 (JO L 111 de 28.4.2007, p. 13)."
+  },
+  "ca760cf9369c835e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2004D0585 — PT — 09.03.2015 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32004D0585) [DECISÃO DO CONSELHO](http://publications.europa.eu/resource/celex/32004D0585) [de 19 de Julho de 2004](http://publications.europa.eu/resource/celex/32004D0585) [que institui conselhos consultivos regionais no âmbito da política comum das pescas](http://publications.europa.eu/resource/celex/32004D0585) [(2004/585/CE)](http://publications.europa.eu/resource/celex/32004D0585) (JO L 256, 3.8.2004, p.17)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 1380/2013 do Parlamento Europeu e do Conselho de 11 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1380) — L 354 — 22 — 28.12.2013"
+  }
+ }
+}

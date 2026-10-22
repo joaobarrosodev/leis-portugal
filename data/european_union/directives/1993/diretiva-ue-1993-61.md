@@ -35,6 +35,50 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-12-24'
+version_history:
+  file: diretiva-ue-1993-61.versoes.json
+  count: 3
+  source_lastmod: '2024-12-24'
+  versions:
+  - date: '1993-10-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-02-16'
+    amending: eu:celex:32020L0177:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2020/177 DA COMISSÃO Texto relevante para efeitos do EEE de 11 de fevereiro
+      de 2020
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita ANEXO
+    - Adita RNQP relativas a materiais de propagação e plantação de produtos hortícolas
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - 'Suprime ANEXO — /* Quadros: ver JO */'
+  - date: '2024-12-24'
+    amending: eu:celex:32024L3010:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2024/3010 DA COMISSÃO de 29 de novembro de 2024
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera RNQP relativas a materiais de propagação e plantação de produtos hortícolas
+    - Altera Notas
 identifiers:
   celex: 31993L0061
   eli: http://data.europa.eu/eli/dir/1993/61/oj
@@ -49,7 +93,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/12cf8749-3ccf-4f25-b040-83861526add3.0011
   content_url: http://publications.europa.eu/resource/cellar/03760846-d248-11ef-be2a-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0061-20241224
-  retrieved_at: '2026-10-22T02:42:14Z'
+  retrieved_at: '2026-10-22T14:42:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-16T09:50:03.782+02:00'
 integrity:
@@ -58,9 +102,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:14Z'
-  notes: Texto consolidado 01993L0061-20241224.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:10Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1993-61.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -138,30 +182,19 @@ relationships:
   source: null
 article_structure:
   article_count: 8
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:14Z'
+  checked_at: '2026-10-22T14:42:10Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 93/61/CEE da Comissão, de 2 de Julho de 1993
-
-> 01993L0061 — PT — 24.12.2024 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020L0177) — [DIRETIVA DE EXECUÇÃO (UE) 2020/177 DA COMISSÃO de 11 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020L0177) — L 41 — 1 — 13.2.2020
-- [►M2](http://publications.europa.eu/resource/celex/32024L3010) — [DIRETIVA DE EXECUÇÃO (UE) 2024/3010 DA COMISSÃO de 29 de novembro de 2024](http://publications.europa.eu/resource/celex/32024L3010) — L 3010 — 1 — 4.12.2024
-
-## DIRECTIVA 93/61/CEE DA COMISSÃO
 
 de 2 de Julho de 1993
 

@@ -36,6 +36,69 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-07-16'
+version_history:
+  file: diretiva-ue-2004-42.versoes.json
+  count: 6
+  source_lastmod: '2021-07-16'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-11'
+    amending: eu:celex:32008R1137:por
+    amending_title: REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Adaptação ao progresso técnico
+    - Altera Artigo 12.º — Comité
+    - Altera Artigo 16.º — Destinatários
+    - Adita ANEXO I
+    - Adita ÂMBITO
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita MÉTODOS REFERIDOS NO N.º 1 DO ARTIGO 3.º
+    - Adita Notas
+    - Suprime ANEXO I — ÂMBITO
+    - Suprime ANEXO II — >POSIÇÃO NUMA TABELA>
+    - Suprime ANEXO III — MÉTODOS REFERIDOS NO N.o 1 DO ARTIGO 3.o
+  - date: '2009-01-12'
+    amending: eu:celex:32008L0112:por
+    amending_title: DIRECTIVA 2008/112/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 16 de
+      Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2010-12-10'
+    amending: eu:celex:32010L0079:por
+    amending_title: DIRECTIVA 2010/79/UE DA COMISSÃO de 19 de Novembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita MÉTODOS REFERIDOS NO ARTIGO 3.º, N.º 1
+    - Suprime MÉTODOS REFERIDOS NO N.º 1 DO ARTIGO 3.º
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Adaptação ao progresso técnico
+    - Altera Artigo 12.º — Comité
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita Artigo 11.º-A — Exercício da delegação
+  - date: '2021-07-16'
+    amending: eu:celex:32019R1020:por
+    amending_title: REGULAMENTO (UE) 2019/1020 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 11.º-A — Exercício da delegação
+    - Altera ANEXO II
+    - Altera Notas
+    - Suprime Artigo 6.º — Controlo
+    - Suprime Artigo 7.º — Relatórios
 identifiers:
   celex: 32004L0042
   eli: http://data.europa.eu/eli/dir/2004/42/oj
@@ -50,7 +113,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/08b98185-31f7-4dad-8e41-e643b82e6870.0010
   content_url: http://publications.europa.eu/resource/cellar/05b98c9c-de78-11eb-895a-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0042-20210716
-  retrieved_at: '2026-10-22T02:40:36Z'
+  retrieved_at: '2026-10-22T14:57:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-31T08:17:52.859+01:00'
 integrity:
@@ -59,9 +122,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:36Z'
-  notes: Texto consolidado 02004L0042-20210716.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:13Z'
+  notes: 6 versão(ões); histórico completo em diretiva-ue-2004-42.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -192,33 +255,19 @@ relationships:
   source: null
 article_structure:
   article_count: 15
-  section_count: 5
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 6
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:36Z'
+  checked_at: '2026-10-22T14:57:13Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2004/42/CE do Parlamento Europeu e do Conselho, de 21 de Abril de 2004
-
-> 02004L0042 — PT — 16.07.2021 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [►M2](http://publications.europa.eu/resource/celex/32008L0112) — [DIRECTIVA 2008/112/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008L0112) — L 345 — 68 — 23.12.2008
-- [►M3](http://publications.europa.eu/resource/celex/32010L0079) — [DIRECTIVA 2010/79/UE DA COMISSÃO de 19 de Novembro de 2010](http://publications.europa.eu/resource/celex/32010L0079) — L 304 — 18 — 20.11.2010
-- [►M4](http://publications.europa.eu/resource/celex/32019R1020) — [REGULAMENTO (UE) 2019/1020 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1020) — L 169 — 1 — 25.6.2019
-- [►M5](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-## DIRECTIVA 2004/42/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 21 de Abril de 2004
 

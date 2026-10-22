@@ -1,0 +1,443 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003D0061:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003D0061-20081129",
+ "dre_path": null,
+ "source_lastmod": "2008-11-29",
+ "versions": [
+  {
+   "date": "2003-01-28",
+   "future": false,
+   "celex": "32003D0061",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b2f1b386e2810959",
+    "f2904f08b27fc813",
+    "0575995b3b4a25f0",
+    "4c20201e01aa8ed6",
+    "fb9f652429ddb96a",
+    "9cd04fbb886092a9",
+    "2dcc1cdb6a421d0d",
+    "2652d9eb86079226",
+    "8f9bae02df5c2b58",
+    "bb4f684bae31a34c",
+    "8f9e7cba428d009f",
+    "09bfa1678a5065d7",
+    "bd679b8bc59f7db4",
+    "c71ac62e8dc4a558",
+    "059cf1ae74301b65",
+    "36867833e7f1cd0c",
+    "a3367428161fb889"
+   ]
+  },
+  {
+   "date": "2005-12-01",
+   "future": false,
+   "celex": "02003D0061-20051201",
+   "acts": [
+    {
+     "id": "eu:celex:32005D0850:por",
+     "title": "DECISÃO DA COMISSÃO de 25 de Novembro de 2005",
+     "published": null,
+     "celex": "32005D0850"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "dd34600510681b30",
+    "02e80eb654c957ab",
+    "a343efda879607b6",
+    "75344ac09d6fd911",
+    "71cd0c526f5d7a2a",
+    "d2aa15a392bb7bdd",
+    "49907160454d67e4",
+    "1f56a60144d3d9b6",
+    "0377ed74a0a7eb25",
+    "8f0632c9438d473a",
+    "aa4be7a574b6498c",
+    "a489a7d0afa67fd7",
+    "498bd153a2e4cf58",
+    "c71ac62e8dc4a558",
+    "1a6906c7299b6b97",
+    "33415358ce9996ed",
+    "3a51f5f679699550",
+    "6267be226b9730cf"
+   ]
+  },
+  {
+   "date": "2008-11-29",
+   "future": false,
+   "celex": "02003D0061-20081129",
+   "acts": [
+    {
+     "id": "eu:celex:32008D0891:por",
+     "title": "DECISÃO DA COMISSÃO de 26 de Novembro de 2008",
+     "published": null,
+     "celex": "32008D0891"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 15.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "9dc9afaa2b37c4bd",
+    "1f52056c415c802c",
+    "a343efda879607b6",
+    "75344ac09d6fd911",
+    "0583a3b208070bdf",
+    "d2aa15a392bb7bdd",
+    "49907160454d67e4",
+    "4a33a093134fa892",
+    "0377ed74a0a7eb25",
+    "8f0632c9438d473a",
+    "aa4be7a574b6498c",
+    "a489a7d0afa67fd7",
+    "498bd153a2e4cf58",
+    "c71ac62e8dc4a558",
+    "1a6906c7299b6b97",
+    "96e22e805d1b49aa",
+    "3a51f5f679699550",
+    "cc3ee2f1316a3710"
+   ]
+  }
+ ],
+ "fragments": {
+  "b2f1b386e2810959": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**2003/61/CE: Decisão da Comissão, de 27 de Janeiro de 2003, que autoriza determinados Estados-Membros a prever derrogações temporárias de certas disposições da Directiva 2000/29/CE do Conselho relativamente às batatas de semente originárias de determinadas províncias do Canadá [notificada com o número C(2003) 334]** *Jornal Oficial nº L 023 de 28/01/2003 p. 0031 - 0034*\n\nDecisão da Comissão\n\nde 27 de Janeiro de 2003\n\nque autoriza determinados Estados-Membros a prever derrogações temporárias de certas disposições da Directiva 2000/29/CE do Conselho relativamente às batatas de semente originárias de determinadas províncias do Canadá\n\n[notificada com o número C(2003) 334]\n\n(Apenas fazem fé os textos nas línguas espanhola, grega italiana e portuguesa)\n\n(2003/61/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade(1), com a última redacção que lhe foi dada pela Directiva 2002/89/CE(2), e, nomeadamente, o n.o 1 do seu artigo 15.o,\n\nTendo em conta os pedidos apresentados por Itália e por Portugal,\n\nConsiderando o seguinte:\n\n(1) Nos termos da Directiva 2000/29/CE, os tubérculos de batatas de semente originárias do continente americano não podem, em princípio, ser introduzidas na Comunidade. Porém, a directiva permite derrogações dessa regra, desde que se determine que não existem riscos de propagação de organismos prejudiciais.\n\n(2) Desde 1981, através de uma sucessão de decisões das quais a mais recente é a Decisão 1999/751/CE da Comissão(3), foram autorizadas, por períodos limitados, derrogações de certas disposições da Directiva 2000/29/CE relativamente às batatas de semente originárias do Canadá, desde que sejam respeitadas certas condições específicas. As circunstâncias que justificaram essas derrogações permanecem válidas.\n\n(3) O Canadá está agora completamente indemne do viróide do afuselamento do tubérculo da batateira (potato spindle tuber viroid), mas não se encontra ainda completamente indemne de Clavibacter michiganensis (Smith) Davis et al. ssp. sepedonicus (Spieckermann et Kotthoff) Davis et al. (\"Clavibacter michiganensis\").\n\n(4) As informações fornecidas pelo Canadá indicam que esse país reforçou o seu programa de erradicação de Clavibacter michiganensis nas províncias de New Brunswick e Prince Edward Island, sendo, pois, razoável concluir que o programa de erradicação se mostrou eficaz em certas partes dessas províncias. Pode, assim, presumir-se que, desde que sejam cumpridas certas condições técnicas, não existe risco de propagação de Clavibacter michiganensis.\n\n(5) O risco de surgimento e propagação de Clavibacter michiganensis é mais elevado em regiões húmidas e frias do que em regiões secas e quentes. Assim, a autorização para prever derrogações de certas disposições da Directiva 2000/29/CE não deve ser aplicável aos Estados-Membros que se encontrem especialmente expostos a esse risco. A autorização deve, pois, ser aplicável à Grécia, a Itália, a Portugal e a Espanha.\n\n(6) Essa autorização para prever as derrogações em questão deve ser aplicável nas três próximas campanhas de comercialização de batata de semente, sem prejuízo das Directivas 2002/56/CE(4) e 2002/53/CE(5) do Conselho.\n\n(7) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Fitossanitário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "f2904f08b27fc813": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A Grécia, Itália, Portugal e Espanha ficam autorizados a prever derrogações das seguintes disposições:\n\na) N.o 1 do artigo 4.o da Directiva 2000/29/CE, no que diz respeito à proibição referida na parte A, ponto 10, do anexo III dessa directiva;\n\nb) N.o 1 do artigo 5.o e n.o 1, terceiro travessão da alínea a), do artigo 13.o, no que diz respeito às exigências particulares referidas na parte A, pontos 25.2 e 25.3 da secção I, do anexo IV da mesma directiva.\n\n2. A autorização para prever derrogações referida no n.o 1 só é aplicável:\n\na) Às batatas de semente das variedades \"Atlantic\", \"Donna\", \"Kennebec\", \"Russet Burbank\", \"Sebago\" e \"Shepody\", originárias das províncias de New Brunswick e Prince Edward Island, no Canadá (\"as batatas de semente\");\n\nb) Às batatas de semente que, além das exigências estabelecidas nos anexos I, II e IV da Directiva 2000/29/CE, satisfaçam as condições previstas nos artigos 2.o a 13.o da presente decisão;\n\nc) Às campanhas de comercialização de batata de 1 de Fevereiro de 2003 a 31 de Março de 2003, de 1 de Dezembro de 2003 a 31 de Março de 2004 e de 1 de Dezembro de 2004 a 31 de Março de 2005."
+  },
+  "0575995b3b4a25f0": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Nas províncias de Prince Edward Island ou New Brunswick, as batatas de semente devem ter sido produzidas em parcelas de terreno localizadas numa zona que, independentemente de as parcelas serem exploradas por produtores sediados dentro ou fora da zona, respeite as condições enunciadas nos n.os 2 a 8.\n\n2. A zona deve ter sido oficialmente declarada, pela \"Canadian Food Inspection Agency\", indemne do viróide do afuselamento do tubérculo da batateira e de Clavibacter michiganensis (Smith) Davis et al. ssp. sepedonicus (Spieckermann et Kotthoff) Davis et al. (\"Clavibacter michiganensis\").\n\n3. A zona:\n\na) Consiste em parcelas de terreno pertencentes a, ou arrendadas por, pelo menos, três diferentes produtores de batatas, ou\n\nb) Abrange uma superfície de, pelo menos, quatro quilómetros quadrados, inteiramente rodeada por água ou por terrenos onde a presença dos organismos prejudiciais referidos no n.o 2 não se registou nos últimos três anos.\n\n4. Todas as batatas produzidas na zona devem pertencer à primeira geração directa de batatas de semente das categorias \"Pré-Elite\", \"Elite I\", \"Elite II\", \"Elite III\" ou \"Elite IV\", produzidas em estabelecimentos qualificados para produzir batatas de semente das categorias \"Pré-Elite\" ou \"Elite I\", que sejam estabelecimentos oficiais ou estabelecimentos oficialmente designados e controlados para esse efeito.\n\n5. A superfície destinada à produção de batatas de semente que não venham a ser certificadas como batatas de semente não pode exceder um quinto da superfície total destinada à produção de batatas certificadas.\n\n6. As autoridades oficiais competentes do Canadá devem ter procedido, pelo menos durante os últimos cinco anos, em todas as parcelas dessa zona cultivadas com batatas e nas batatas aí colhidas, a controlos anuais sistemáticos e representativos efectuados em condições adequadas para a detecção dos organismos prejudiciais referidos no n.o 2, nomeadamente através de análises laboratoriais adequadas, que não tenham revelado qualquer resultado positivo nem qualquer outro elemento que obste a que essa zona seja declarada indemne.\n\n7. Devem ter sido adoptadas medidas legislativas, administrativas ou outras que assegurem:\n\na) Que nessa zona não possam ser introduzidas batatas originárias de zonas do Canadá que não tenham sido declaradas indemnes ou de países onde se verifique a ocorrência dos organismos prejudiciais referidos no n.o 2;\n\nb) Que não haja possibilidade de contacto entre batatas originárias dessa zona ou contentores, material de embalagem, veículos e equipamento de manuseamento, calibragem e acondicionamento nela utilizados e batatas originárias de zonas que não tenham sido declaradas indemnes, ou material ou equipamento equivalente nelas utilizado.\n\n8. Antes da introdução das batatas de semente na Comunidade, a \"Canadian Food Inspection Agency\" deve ter fornecido à Comissão uma lista completa das zonas declaradas indemnes, acompanhada de um relatório técnico, actualizado anualmente, respeitante ao estatuto fitossanitário da produção de batatas de semente no ano anterior."
+  },
+  "4c20201e01aa8ed6": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nDeve ter sido oficialmente certificado pelas autoridades competentes do Canadá que as batatas de semente respeitam, pelo menos, as condições estabelecidas para a categoria \"Foundation\"."
+  },
+  "fb9f652429ddb96a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Devem ser colhidas oficialmente amostras de, pelo menos, 200 tubérculos de batata de semente por lote de 25 toneladas ou menos, de cada lote destinado a ser exportado para a Comunidade.\n\n2. Cada lote deve ser constituído apenas por tubérculos de batatas de semente de uma mesma variedade e classe que tenham sido produzidos num único estabelecimento e tenham o mesmo número de referência.\n\n3. As amostras devem ser examinadas por laboratórios oficiais a fim de detectar a eventual presença de Clavibacter michiganensis. Os exames devem incidir em toda a amostra e respeitar o Método de detecção e diagnóstico da bactéria da podridão anelar em lotes de batata, estabelecido na Directiva 93/85/CEE do Conselho(6)."
+  },
+  "9cd04fbb886092a9": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs batatas de semente destinadas à exportação para a Comunidade devem ter sido objecto de disposições legislativas, administrativas ou outras destinadas a assegurar:\n\na) A supervisão directa e o controlo pela \"Canadian Food Inspection Agency\":\n\ni) do processo de amostragem, isto é, colheita, rotulagem e selagem,\n\nii) do sistema de etiquetagem, através de processos adequados de controlo das etiquetas, a fim de assegurar que, para cada lote de batatas de semente de cada remessa expedida para a Comunidade, seja utilizada uma etiqueta numerada, cosida nos sacos separadamente das etiquetas de certificação,\n\niii) do código de cores relevante correspondente a um importador especificado no Estado-Membro de importação;\n\nb) Que, aquando do carregamento do navio, sejam retirados e armazenados sob a jurisdição e controlo da \"Canadian Food Inspection Agency\" dois sacos selados de batatas de semente de cada lote expedido para a Comunidade, pelo menos até à obtenção dos resultados dos exames referidos no artigo 10.o;\n\nc) Que os lotes sejam mantidos separadamente em todas as operações, incluindo o transporte, pelo menos até à entrega nos estabelecimentos dos importadores referidos no artigo 7.o"
+  },
+  "2dcc1cdb6a421d0d": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O certificado fitossanitário exigido será emitido separadamente para cada remessa e somente após confirmação pelos cientistas responsáveis de que os exames referidos no artigo 4.o não confirmaram suspeitas da presença nem a presença de Clavibacter michiganensis na remessa e, em especial, de que o teste IF foi negativo.\n\n2. O certificado fitossanitário deve conter, na casa \"Declaração Adicional\", as seguintes informações:\n\na) Confirmação da observância das condições estabelecidas nos artigos 2.o, 3.o e 4.o;\n\nb) Nome do estabelecimento ou estabelecimentos que produziram os lotes de batatas de semente;\n\nc) Números de certificação dos lotes de batatas de semente;\n\nd) Nome da zona referida no artigo 2.o;\n\ne) Nome do estabelecimento referido no n.o 4 do artigo 2.o, e\n\nf) Número de sacos.\n\n3. O certificado fitossanitário deve conter, na casa \"Marcas dos volumes\", o código de cores correspondente a um determinado importador no Estado-Membro de importação, bem como a descrição pormenorizada da etiqueta numerada utilizada para cada lote de batatas de semente em cada remessa.\n\n4. Os documentos que acompanham o certificado fitossanitário como parte integrante do mesmo devem corresponder precisamente a esse certificado quanto à descrição e quantidade das batatas de semente."
+  },
+  "2652d9eb86079226": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Antes da introdução na Comunidade, o importador deve, com antecedência suficiente, notificar da introdução de cada remessa os organismos oficiais responsáveis do Estado-Membro em causa, conforme referidos no n.o 1, alínea g), do artigo 2.o da Directiva 2000/29/CE, indicando:\n\na) A variedade das batatas de semente;\n\nb) A quantidade;\n\nc) A data de importação declarada;\n\nd) Os nomes e endereços dos estabelecimentos dos importadores das batatas de semente e os inscritos no registo previsto no artigo 1.o da Directiva 93/50/CEE da Comissão(7).\n\nO Estado-Membro em causa deve comunicar sem demora à Comissão o teor da notificação e de eventuais alterações dessa notificação.\n\n2. Aquando da introdução, o importador deve confirmar os dados constantes da notificação prévia referida no n.o 1 aos organismos oficiais responsáveis do Estado-Membro em causa."
+  },
+  "8f9bae02df5c2b58": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs batatas de semente só podem ser introduzidas na Comunidade através dos seguintes portos:\n\na) Aveiro;\n\nb) Lisboa;\n\nc) Porto;\n\nd) Genova;\n\ne) La Spezia;\n\nf) Livorno;\n\ng) Napoli;\n\nh) Ravenna;\n\ni) Salerno;\n\nj) Savona."
+  },
+  "bb4f684bae31a34c": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs inspecções exigidas nos termos do n.o 8, terceiro parágrafo, do artigo 13.o da Directiva 2000/29/CE serão efectuadas pelos organismos oficiais responsáveis.\n\nSem prejuízo das verificações referidas no n.o 3, segundo travessão, do artigo 21.o da Directiva 2000/29/CE, a Comissão determinará em que medida as inspecções referidas nesse travessão serão integradas no programa de inspecções em conformidade com o n.o 5, quinto parágrafo, do artigo 21.o da mesma directiva.\n\nOs organismos oficiais responsáveis e, se for caso disso, os peritos referidos no n.o 3 do artigo 21.o da Directiva 2000/29/CE inspeccionarão os estabelecimentos dos importadores para confirmar os dados relativos às quantidades de batatas importadas do Canadá, os códigos de cores, as etiquetas numeradas e os destinos para plantação em estabelecimentos inscritos no registo previsto no artigo 1.o da Directiva 93/50/CEE."
+  },
+  "8f9e7cba428d009f": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os organismos oficiais responsáveis dos Estados-Membros de importação devem colher uma amostra de, pelo menos, 200 tubérculos por lote de 25 toneladas ou menos de cada lote acondicionado de batatas de semente destinado a ser importado nos termos da presente decisão, com vista à realização de exames oficiais para detecção de Clavibacter michiganensis, segundo o Método de detecção e diagnóstico de Clavibacter michiganensis, estabelecido na Directiva 93/85/CEE.\n\n2. Os lotes de batatas de semente devem ficar separados sob controlo oficial e não podem ser comercializados ou utilizados até que esteja estabelecido que os exames referidos no n.o 1 não confirmaram suspeitas da presença nem a presença de Clavibacter michiganensis. A totalidade dos lotes importados não pode exceder uma quantidade adequada para a realização dos exames, tendo em conta os meios disponíveis para o efeito.\n\n3. As amostras referidas no n.o 1 devem ser conservadas para exame posterior por outros Estados-Membros. Até 15 de Abril de 2003, 15 de Abril de 2004 e 15 de Abril de 2005, os organismos oficiais responsáveis do Estado-Membro de importação informarão a Comissão com vista à organização desse exame e do respectivo registo."
+  },
+  "09bfa1678a5065d7": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs batatas de semente devem apenas ser plantadas em estabelecimentos no Estado-Membro de importação cujos nomes e endereços possam ser identificados. No entanto, esta restrição não é aplicável no caso de utilizadores finais que plantem as batatas de semente importadas ou de utilizadores que apenas vendam no mercado local.\n\nNo que respeita a esses estabelecimentos, as batatas produzidas a partir das batatas de semente em questão devem ser devidamente embaladas e etiquetadas e devem apresentar o número dos estabelecimentos inscritos no registo previsto na Directiva 93/50/CEE, bem como a origem canadiana das batatas de semente utilizadas. Essas batatas só podem circular nos Estados-Membros após aprovação pelos organismos oficiais responsáveis, tendo em conta os resultados das inspecções referidas no artigo 12.o."
+  },
+  "bd679b8bc59f7db4": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nNo período vegetativo que se segue à introdução, os referidos organismos oficiais responsáveis inspeccionarão, em momentos oportunos, uma proporção adequada das plantas nos estabelecimentos inscritos do registo previsto na Directiva 93/50/CEE ou nos estabelecimentos referidos no artigo 11.o"
+  },
+  "c71ac62e8dc4a558": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nAs batatas produzidas a partir de batatas de semente introduzidas nos termos da presente decisão:\n\na) Não serão certificadas como batatas de semente, e\n\nb) Serão apenas utilizadas como batatas de consumo."
+  },
+  "059cf1ae74301b65": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs Estados-Membros de importação informarão os outros Estados-Membros e a Comissão, por meio da notificação prévia referida no artigo 7.o, de qualquer uso que façam da autorização de prever derrogações nos termos de presente decisão.\n\nOs Estados-Membros de importação comunicarão à Comissão e aos outros Estados-Membros, antes de 1 de Junho de 2003, de 1 de Junho de 2004 e de 1 de Junho de 2005, informações sobre as quantidades (lotes de batatas de semente/remessas) importadas ao abrigo da presente decisão e enviar-lhes-ão um relatório técnico pormenorizado dos exames oficiais referidos no artigo 10.o\n\nNos casos em que os Estados-Membros tenham efectuado exames oficiais de amostras conforme referido no artigo 10.o, os respectivos relatórios técnicos pormenorizados serão também enviados aos outros Estados-Membros e à Comissão antes de 1 de Junho de 2003, de 1 de Junho de 2004 e de 1 de Junho de 2005.\n\nDevem ser transmitidas à Comissão cópias de cada certificado fitossanitário."
+  },
+  "36867833e7f1cd0c": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA autorização para prever derrogações referida no artigo 1.o será revogada antes de 31 de Março de 2005 se:\n\na) Se constatar que as disposições dos artigos 2.o a 13.o:\n\ni) são insuficientes para evitar a introdução de Clavibacter michiganensis na Comunidade ou\n\nii) não foram cumpridas;\n\nb) Se verificar que existem elementos que obstam ao bom funcionamento do conceito de \"zona indemne\" no Canadá."
+  },
+  "a3367428161fb889": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nA República Helénica, o Reino de Espanha, a República Italiana e a República Portuguesa são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 27 de Janeiro de 2003.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 169 de 10.7.2000, p. 1.\n\n(2) JO L 355 de 30.12.2002, p. 45.\n\n(3) JO L 299 de 20.11.1999, p. 36.\n\n(4) JO L 193 de 20.7.2002, p. 60.\n\n(5) JO L 193 de 20.7.2002, p. 1.\n\n(6) JO L 259 de 18.10.1993, p. 1.\n\n(7) JO L 205 de 17.8.1993, p. 22."
+  },
+  "dd34600510681b30": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Janeiro de 2003\n\nque autoriza determinados Estados-Membros a prever derrogações temporárias de certas disposições da Directiva 2000/29/CE do Conselho relativamente às batatas de semente originárias de determinadas províncias do Canadá\n\n[notificada com o número C(2003) 334]\n\n(Apenas fazem fé os textos nas línguas espanhola, grega italiana e portuguesa)\n\n(2003/61/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade ([^1^](http://publications.europa.eu/resource/cellar/2025bd4e-3fbd-451f-be68-fd8191bf49e8.0010.03/DOC_1#E0001)), com a última redacção que lhe foi dada pela Directiva 2002/89/CE ([^2^](http://publications.europa.eu/resource/cellar/2025bd4e-3fbd-451f-be68-fd8191bf49e8.0010.03/DOC_1#E0002)), e, nomeadamente, o n.º 1 do seu artigo 15.º,\n\nTendo em conta os pedidos apresentados por Itália e por Portugal,\n\n(1) Nos termos da Directiva 2000/29/CE, os tubérculos de batatas de semente originárias do continente americano não podem, em princípio, ser introduzidas na Comunidade. Porém, a directiva permite derrogações dessa regra, desde que se determine que não existem riscos de propagação de organismos prejudiciais.\n\n(2) Desde 1981, através de uma sucessão de decisões das quais a mais recente é a Decisão 1999/751/CE da Comissão ([^3^](http://publications.europa.eu/resource/cellar/2025bd4e-3fbd-451f-be68-fd8191bf49e8.0010.03/DOC_1#E0003)), foram autorizadas, por períodos limitados, derrogações de certas disposições da Directiva 2000/29/CE relativamente às batatas de semente originárias do Canadá, desde que sejam respeitadas certas condições específicas. As circunstâncias que justificaram essas derrogações permanecem válidas.\n\n(3) O Canadá está agora completamente indemne do viróide do afuselamento do tubérculo da batateira (*potato spindle tuber viroid*), mas não se encontra ainda completamente indemne de *Clavibacter michiganensis* (Smith) Davis et al. ssp. *sepedonicus* (Spieckermann et Kotthoff) Davis et al. («*Clavibacter michiganensis*»).\n\n(4) As informações fornecidas pelo Canadá indicam que esse país reforçou o seu programa de erradicação de *Clavibacter michiganensis* nas províncias de New Brunswick e Prince Edward Island, sendo, pois, razoável concluir que o programa de erradicação se mostrou eficaz em certas partes dessas províncias. Pode, assim, presumir-se que, desde que sejam cumpridas certas condições técnicas, não existe risco de propagação de *Clavibacter michiganensis*.\n\n(5) O risco de surgimento e propagação de *Clavibacter michiganensis* é mais elevado em regiões húmidas e frias do que em regiões secas e quentes. Assim, a autorização para prever derrogações de certas disposições da Directiva 2000/29/CE não deve ser aplicável aos Estados-Membros que se encontrem especialmente expostos a esse risco. A autorização deve, pois, ser aplicável à Grécia, a Itália, a Portugal e a Espanha.\n\n(6) Essa autorização para prever as derrogações em questão deve ser aplicável nas três próximas campanhas de comercialização de batata de semente, sem prejuízo das Directivas 2002/56/CE ([^4^](http://publications.europa.eu/resource/cellar/2025bd4e-3fbd-451f-be68-fd8191bf49e8.0010.03/DOC_1#E0004)) e 2002/53/CE ([^5^](http://publications.europa.eu/resource/cellar/2025bd4e-3fbd-451f-be68-fd8191bf49e8.0010.03/DOC_1#E0005)) do Conselho.\n\n(7) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Fitossanitário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "02e80eb654c957ab": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A [**►M1**](http://publications.europa.eu/resource/celex/32005D0850) Grécia, Espanha, Itália, Chipre, Malta e Portugal**◄** ficam autorizados a prever derrogações das seguintes disposições:\n\na) N.º 1 do artigo 4.º da Directiva 2000/29/CE, no que diz respeito à proibição referida na parte A, ponto 10, do anexo III dessa directiva;\n\nb) N.º 1 do artigo 5.º e n.º 1, terceiro travessão da alínea a), do artigo 13.º, no que diz respeito às exigências particulares referidas na parte A, pontos 25.2 e 25.3 da secção I, do anexo IV da mesma directiva.\n\n2. A autorização para prever derrogações referida no n.º 1 só é aplicável:\n\na) Às batatas de semente das variedades «Atlantic», «Donna», «Kennebec», «Russet Burbank», «Sebago» e «Shepody», originárias das províncias de New Brunswick e Prince Edward Island, no Canadá («as batatas de semente»);\n\nb) Às batatas de semente que, além das exigências estabelecidas nos anexos I, II e IV da Directiva 2000/29/CE, satisfaçam as condições previstas nos artigos 2.º a 13.º da presente decisão;\n\nc) Às campanhas de comercialização de batata de 1 de Fevereiro de 2003 a 31 de Março de 2003, de 1 de Dezembro de 2003 a 31 de Março de 2004, de 1 de Dezembro de 2004 a 31 de Março de 2005, de 1 de Dezembro de 2005 a 31 de Março de 2006, de 1 de Dezembro de 2006 a 31 de Março de 2007 e de 1 de Dezembro de 2007 a 31 de Março de 2008."
+  },
+  "a343efda879607b6": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Nas províncias de Prince Edward Island ou New Brunswick, as batatas de semente devem ter sido produzidas em parcelas de terreno localizadas numa zona que, independentemente de as parcelas serem exploradas por produtores sediados dentro ou fora da zona, respeite as condições enunciadas nos n.^os^ 2 a 8.\n\n2. A zona deve ter sido oficialmente declarada, pela «Canadian Food Inspection Agency», indemne do viróide do afuselamento do tubérculo da batateira e de *Clavibacter michiganensis* (Smith) Davis et al. ssp. *sepedonicus* (Spieckermann et Kotthoff) Davis et al. («*Clavibacter michiganensis*»).\n\n3. A zona:\n\na) Consiste em parcelas de terreno pertencentes a, ou arrendadas por, pelo menos, três diferentes produtores de batatas, ou\n\nb) Abrange uma superfície de, pelo menos, quatro quilómetros quadrados, inteiramente rodeada por água ou por terrenos onde a presença dos organismos prejudiciais referidos no n.º 2 não se registou nos últimos três anos.\n\n4. Todas as batatas produzidas na zona devem pertencer à primeira geração directa de batatas de semente das categorias «Pré-Elite», «Elite I», «Elite II», «Elite III» ou «Elite IV», produzidas em estabelecimentos qualificados para produzir batatas de semente das categorias «Pré-Elite» ou «Elite I», que sejam estabelecimentos oficiais ou estabelecimentos oficialmente designados e controlados para esse efeito.\n\n5. A superfície destinada à produção de batatas de semente que não venham a ser certificadas como batatas de semente não pode exceder um quinto da superfície total destinada à produção de batatas certificadas.\n\n6. As autoridades oficiais competentes do Canadá devem ter procedido, pelo menos durante os últimos cinco anos, em todas as parcelas dessa zona cultivadas com batatas e nas batatas aí colhidas, a controlos anuais sistemáticos e representativos efectuados em condições adequadas para a detecção dos organismos prejudiciais referidos no n.º 2, nomeadamente através de análises laboratoriais adequadas, que não tenham revelado qualquer resultado positivo nem qualquer outro elemento que obste a que essa zona seja declarada indemne.\n\n7. Devem ter sido adoptadas medidas legislativas, administrativas ou outras que assegurem:\n\na) Que nessa zona não possam ser introduzidas batatas originárias de zonas do Canadá que não tenham sido declaradas indemnes ou de países onde se verifique a ocorrência dos organismos prejudiciais referidos no n.º 2;\n\nb) Que não haja possibilidade de contacto entre batatas originárias dessa zona ou contentores, material de embalagem, veículos e equipamento de manuseamento, calibragem e acondicionamento nela utilizados e batatas originárias de zonas que não tenham sido declaradas indemnes, ou material ou equipamento equivalente nelas utilizado.\n\n8. Antes da introdução das batatas de semente na Comunidade, a «Canadian Food Inspection Agency» deve ter fornecido à Comissão uma lista completa das zonas declaradas indemnes, acompanhada de um relatório técnico, actualizado anualmente, respeitante ao estatuto fitossanitário da produção de batatas de semente no ano anterior."
+  },
+  "75344ac09d6fd911": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nDeve ter sido oficialmente certificado pelas autoridades competentes do Canadá que as batatas de semente respeitam, pelo menos, as condições estabelecidas para a categoria «Foundation»."
+  },
+  "71cd0c526f5d7a2a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Devem ser colhidas oficialmente amostras de, pelo menos, 200 tubérculos de batata de semente por lote de 25 toneladas ou menos, de cada lote destinado a ser exportado para a Comunidade.\n\n2. Cada lote deve ser constituído apenas por tubérculos de batatas de semente de uma mesma variedade e classe que tenham sido produzidos num único estabelecimento e tenham o mesmo número de referência.\n\n3. As amostras devem ser examinadas por laboratórios oficiais a fim de detectar a eventual presença de *Clavibacter michiganensis*. Os exames devem incidir em toda a amostra e respeitar o Método de detecção e diagnóstico da bactéria da podridão anelar em lotes de batata, estabelecido na Directiva 93/85/CEE do Conselho ([^6^](http://publications.europa.eu/resource/cellar/2025bd4e-3fbd-451f-be68-fd8191bf49e8.0010.03/DOC_1#E0006))."
+  },
+  "d2aa15a392bb7bdd": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs batatas de semente destinadas à exportação para a Comunidade devem ter sido objecto de disposições legislativas, administrativas ou outras destinadas a assegurar:\n\na) A supervisão directa e o controlo pela «Canadian Food Inspection Agency»:\n\ni) do processo de amostragem, isto é, colheita, rotulagem e selagem,\n\nii) do sistema de etiquetagem, através de processos adequados de controlo das etiquetas, a fim de assegurar que, para cada lote de batatas de semente de cada remessa expedida para a Comunidade, seja utilizada uma etiqueta numerada, cosida nos sacos separadamente das etiquetas de certificação,\n\niii) do código de cores relevante correspondente a um importador especificado no Estado-Membro de importação;\n\nb) Que, aquando do carregamento do navio, sejam retirados e armazenados sob a jurisdição e controlo da «Canadian Food Inspection Agency» dois sacos selados de batatas de semente de cada lote expedido para a Comunidade, pelo menos até à obtenção dos resultados dos exames referidos no artigo 10.º;\n\nc) Que os lotes sejam mantidos separadamente em todas as operações, incluindo o transporte, pelo menos até à entrega nos estabelecimentos dos importadores referidos no artigo 7.º"
+  },
+  "49907160454d67e4": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O certificado fitossanitário exigido será emitido separadamente para cada remessa e somente após confirmação pelos cientistas responsáveis de que os exames referidos no artigo 4.º não confirmaram suspeitas da presença nem a presença de *Clavibacter michiganensis* na remessa e, em especial, de que o teste IF foi negativo.\n\n2. O certificado fitossanitário deve conter, na casa «Declaração Adicional», as seguintes informações:\n\na) Confirmação da observância das condições estabelecidas nos artigos 2.º, 3.º e 4.º;\n\nb) Nome do estabelecimento ou estabelecimentos que produziram os lotes de batatas de semente;\n\nc) Números de certificação dos lotes de batatas de semente;\n\nd) Nome da zona referida no artigo 2.º;\n\ne) Nome do estabelecimento referido no n.º 4 do artigo 2.º, e\n\nf) Número de sacos.\n\n3. O certificado fitossanitário deve conter, na casa «Marcas dos volumes», o código de cores correspondente a um determinado importador no Estado-Membro de importação, bem como a descrição pormenorizada da etiqueta numerada utilizada para cada lote de batatas de semente em cada remessa.\n\n4. Os documentos que acompanham o certificado fitossanitário como parte integrante do mesmo devem corresponder precisamente a esse certificado quanto à descrição e quantidade das batatas de semente."
+  },
+  "1f56a60144d3d9b6": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Antes da introdução na Comunidade, o importador deve, com antecedência suficiente, notificar da introdução de cada remessa os organismos oficiais responsáveis do Estado-Membro em causa, conforme referidos no n.º 1, alínea g), do artigo 2.º da Directiva 2000/29/CE, indicando:\n\na) A variedade das batatas de semente;\n\nb) A quantidade;\n\nc) A data de importação declarada;\n\nd) Os nomes e endereços dos estabelecimentos dos importadores das batatas de semente e os inscritos no registo previsto no artigo 1.º da Directiva 93/50/CEE da Comissão ([^7^](http://publications.europa.eu/resource/cellar/2025bd4e-3fbd-451f-be68-fd8191bf49e8.0010.03/DOC_1#E0007)).\n\nO Estado-Membro em causa deve comunicar sem demora à Comissão o teor da notificação e de eventuais alterações dessa notificação.\n\n2. Aquando da introdução, o importador deve confirmar os dados constantes da notificação prévia referida no n.º 1 aos organismos oficiais responsáveis do Estado-Membro em causa."
+  },
+  "0377ed74a0a7eb25": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs batatas de semente só podem ser introduzidas na Comunidade através dos seguintes portos:\n\na) Aveiro;\n\nb) Lisboa;\n\nc) Porto;\n\nd) Genova;\n\ne) La Spezia;\n\nf) Livorno;\n\ng) Napoli;\n\nh) Ravenna;\n\ni) Salerno;\n\nj) Savona;\n\nk) Lemesos;\n\nl) Larnaca;\n\nm) Marsaxlokk;\n\nn) La Valeta;\n\no) Sines."
+  },
+  "8f0632c9438d473a": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs inspecções exigidas nos termos do n.º 8, terceiro parágrafo, do artigo 13.º da Directiva 2000/29/CE serão efectuadas pelos organismos oficiais responsáveis.\n\nSem prejuízo das verificações referidas no n.º 3, segundo travessão, do artigo 21.º da Directiva 2000/29/CE, a Comissão determinará em que medida as inspecções referidas nesse travessão serão integradas no programa de inspecções em conformidade com o n.º 5, quinto parágrafo, do artigo 21.º da mesma directiva.\n\nOs organismos oficiais responsáveis e, se for caso disso, os peritos referidos no n.º 3 do artigo 21.º da Directiva 2000/29/CE inspeccionarão os estabelecimentos dos importadores para confirmar os dados relativos às quantidades de batatas importadas do Canadá, os códigos de cores, as etiquetas numeradas e os destinos para plantação em estabelecimentos inscritos no registo previsto no artigo 1.º da Directiva 93/50/CEE."
+  },
+  "aa4be7a574b6498c": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os organismos oficiais responsáveis dos Estados-Membros de importação devem colher uma amostra de, pelo menos, 200 tubérculos por lote de 25 toneladas ou menos de cada lote acondicionado de batatas de semente destinado a ser importado nos termos da presente decisão, com vista à realização de exames oficiais para detecção de *Clavibacter michiganensis*, segundo o Método de detecção e diagnóstico de Clavibacter michiganensis, estabelecido na Directiva 93/85/CEE.\n\n2. Os lotes de batatas de semente devem ficar separados sob controlo oficial e não podem ser comercializados ou utilizados até que esteja estabelecido que os exames referidos no n.º 1 não confirmaram suspeitas da presença nem a presença de *Clavibacter michiganensis*. A totalidade dos lotes importados não pode exceder uma quantidade adequada para a realização dos exames, tendo em conta os meios disponíveis para o efeito.\n\n3. As amostras referidas no n.º 1 devem ser conservadas para exame posterior por outros Estados-Membros. [**►M1**](http://publications.europa.eu/resource/celex/32005D0850) Até 15 de Abril de cada ano civil em que se efectue a importação, os organismos oficiais responsáveis dos Estados-Membros que façam uso desta derrogação informarão a Comissão, com vista à organização desse exame e do respectivo registo.**◄**"
+  },
+  "a489a7d0afa67fd7": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs batatas de semente devem apenas ser plantadas em estabelecimentos no Estado-Membro de importação cujos nomes e endereços possam ser identificados. No entanto, esta restrição não é aplicável no caso de utilizadores finais que plantem as batatas de semente importadas ou de utilizadores que apenas vendam no mercado local.\n\nNo que respeita a esses estabelecimentos, as batatas produzidas a partir das batatas de semente em questão devem ser devidamente embaladas e etiquetadas e devem apresentar o número dos estabelecimentos inscritos no registo previsto na Directiva 93/50/CEE, bem como a origem canadiana das batatas de semente utilizadas. Essas batatas só podem circular nos Estados-Membros após aprovação pelos organismos oficiais responsáveis, tendo em conta os resultados das inspecções referidas no artigo 12.º."
+  },
+  "498bd153a2e4cf58": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nNo período vegetativo que se segue à introdução, os referidos organismos oficiais responsáveis inspeccionarão, em momentos oportunos, uma proporção adequada das plantas nos estabelecimentos inscritos do registo previsto na Directiva 93/50/CEE ou nos estabelecimentos referidos no artigo 11.º"
+  },
+  "1a6906c7299b6b97": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs Estados-Membros de importação informarão os outros Estados-Membros e a Comissão, por meio da notificação prévia referida no artigo 7.º, de qualquer uso que façam da autorização de prever derrogações nos termos de presente decisão.\n\nOs Estados-Membros de importação comunicarão à Comissão e aos outros Estados-Membros, antes de 1 de Junho de cada ano civil em que se efectue a importação, informações sobre as quantidades (lotes de batatas de semente/remessas) importadas ao abrigo da presente decisão e enviar-lhes-ão um relatório técnico pormenorizado dos exames oficiais referidos no artigo 10.º\n\nNos casos em que os Estados-Membros tenham efectuado exames oficiais de amostras conforme referido no artigo 10.º, os respectivos relatórios técnicos pormenorizados serão também enviados aos outros Estados-Membros e à Comissão antes de 1 de Junho de cada ano civil.\n\nDevem ser transmitidas à Comissão cópias de cada certificado fitossanitário."
+  },
+  "33415358ce9996ed": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA autorização para prever derrogações referida no artigo 1.º será revogada antes de [**►M1**](http://publications.europa.eu/resource/celex/32005D0850) 31 de Março de 2008**◄** se:\n\na) Se constatar que as disposições dos artigos 2.º a 13.º:\n\ni) são insuficientes para evitar a introdução de *Clavibacter michiganensis* na Comunidade ou\n\nii) não foram cumpridas;\n\nb) Se verificar que existem elementos que obstam ao bom funcionamento do conceito de «zona indemne» no Canadá."
+  },
+  "3a51f5f679699550": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nA República Helénica, o Reino de Espanha, a República Italiana e a República Portuguesa são os destinatários da presente decisão.\n\n---"
+  },
+  "6267be226b9730cf": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/2025bd4e-3fbd-451f-be68-fd8191bf49e8.0010.03/DOC_1#src.E0001)) JO L 169 de 10.7.2000, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/2025bd4e-3fbd-451f-be68-fd8191bf49e8.0010.03/DOC_1#src.E0002)) JO L 355 de 30.12.2002, p. 45.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/2025bd4e-3fbd-451f-be68-fd8191bf49e8.0010.03/DOC_1#src.E0003)) JO L 299 de 20.11.1999, p. 36.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/2025bd4e-3fbd-451f-be68-fd8191bf49e8.0010.03/DOC_1#src.E0004)) JO L 193 de 20.7.2002, p. 60.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/2025bd4e-3fbd-451f-be68-fd8191bf49e8.0010.03/DOC_1#src.E0005)) JO L 193 de 20.7.2002, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/2025bd4e-3fbd-451f-be68-fd8191bf49e8.0010.03/DOC_1#src.E0006)) JO L 259 de 18.10.1993, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/2025bd4e-3fbd-451f-be68-fd8191bf49e8.0010.03/DOC_1#src.E0007)) JO L 205 de 17.8.1993, p. 22."
+  },
+  "9dc9afaa2b37c4bd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Janeiro de 2003\n\nque autoriza determinados Estados-Membros a prever derrogações temporárias de certas disposições da Directiva 2000/29/CE do Conselho relativamente às batatas de semente originárias de determinadas províncias do Canadá\n\n[notificada com o número C(2003) 334]\n\n(Apenas fazem fé os textos nas línguas espanhola, grega italiana e portuguesa)\n\n(2003/61/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade ([^1^](http://publications.europa.eu/resource/cellar/db6e2a8f-3add-4a43-b147-4d38fa3d3a4a.0010.03/DOC_1#E0001)), com a última redacção que lhe foi dada pela Directiva 2002/89/CE ([^2^](http://publications.europa.eu/resource/cellar/db6e2a8f-3add-4a43-b147-4d38fa3d3a4a.0010.03/DOC_1#E0002)), e, nomeadamente, o n.º 1 do seu artigo 15.º,\n\nTendo em conta os pedidos apresentados por Itália e por Portugal,\n\n(1) Nos termos da Directiva 2000/29/CE, os tubérculos de batatas de semente originárias do continente americano não podem, em princípio, ser introduzidas na Comunidade. Porém, a directiva permite derrogações dessa regra, desde que se determine que não existem riscos de propagação de organismos prejudiciais.\n\n(2) Desde 1981, através de uma sucessão de decisões das quais a mais recente é a Decisão 1999/751/CE da Comissão ([^3^](http://publications.europa.eu/resource/cellar/db6e2a8f-3add-4a43-b147-4d38fa3d3a4a.0010.03/DOC_1#E0003)), foram autorizadas, por períodos limitados, derrogações de certas disposições da Directiva 2000/29/CE relativamente às batatas de semente originárias do Canadá, desde que sejam respeitadas certas condições específicas. As circunstâncias que justificaram essas derrogações permanecem válidas.\n\n(3) O Canadá está agora completamente indemne do viróide do afuselamento do tubérculo da batateira (*potato spindle tuber viroid*), mas não se encontra ainda completamente indemne de *Clavibacter michiganensis* (Smith) Davis et al. ssp. *sepedonicus* (Spieckermann et Kotthoff) Davis et al. («*Clavibacter michiganensis*»).\n\n(4) As informações fornecidas pelo Canadá indicam que esse país reforçou o seu programa de erradicação de *Clavibacter michiganensis* nas províncias de New Brunswick e Prince Edward Island, sendo, pois, razoável concluir que o programa de erradicação se mostrou eficaz em certas partes dessas províncias. Pode, assim, presumir-se que, desde que sejam cumpridas certas condições técnicas, não existe risco de propagação de *Clavibacter michiganensis*.\n\n(5) O risco de surgimento e propagação de *Clavibacter michiganensis* é mais elevado em regiões húmidas e frias do que em regiões secas e quentes. Assim, a autorização para prever derrogações de certas disposições da Directiva 2000/29/CE não deve ser aplicável aos Estados-Membros que se encontrem especialmente expostos a esse risco. A autorização deve, pois, ser aplicável à Grécia, a Itália, a Portugal e a Espanha.\n\n(6) Essa autorização para prever as derrogações em questão deve ser aplicável nas três próximas campanhas de comercialização de batata de semente, sem prejuízo das Directivas 2002/56/CE ([^4^](http://publications.europa.eu/resource/cellar/db6e2a8f-3add-4a43-b147-4d38fa3d3a4a.0010.03/DOC_1#E0004)) e 2002/53/CE ([^5^](http://publications.europa.eu/resource/cellar/db6e2a8f-3add-4a43-b147-4d38fa3d3a4a.0010.03/DOC_1#E0005)) do Conselho.\n\n(7) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Fitossanitário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "1f52056c415c802c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A [**►M1**](http://publications.europa.eu/resource/celex/32005D0850) Grécia, Espanha, Itália, Chipre, Malta e Portugal**◄** ficam autorizados a prever derrogações das seguintes disposições:\n\na) N.º 1 do artigo 4.º da Directiva 2000/29/CE, no que diz respeito à proibição referida na parte A, ponto 10, do anexo III dessa directiva;\n\nb) N.º 1 do artigo 5.º e n.º 1, terceiro travessão da alínea a), do artigo 13.º, no que diz respeito às exigências particulares referidas na parte A, pontos 25.2 e 25.3 da secção I, do anexo IV da mesma directiva.\n\n2. A autorização para prever derrogações referida no n.º 1 só é aplicável:\n\na) Às batatas de semente das variedades «Atlantic», «Donna», «Kennebec», «Russet Burbank», «Sebago» e «Shepody», originárias das províncias de New Brunswick e Prince Edward Island, no Canadá («as batatas de semente»);\n\nb) Às batatas de semente que, além das exigências estabelecidas nos anexos I, II e IV da Directiva 2000/29/CE, satisfaçam as condições previstas nos artigos 2.º a 13.º da presente decisão;\n\nc) Às campanhas de comercialização de batata de 1 de Fevereiro de 2003 a 31 de Março de 2003, de 1 de Dezembro de 2003 a 31 de Março de 2004, de 1 de Dezembro de 2004 a 31 de Março de 2005, de 1 de Dezembro de 2005 a 31 de Março de 2006, de 1 de Dezembro de 2006 a 31 de Março de 2007, de 1 de Dezembro de 2007 a 31 de Março de 2008, de 1 de Dezembro de 2008 a 31 de Março de 2009, de 1 de Dezembro de 2009 a 31 de Março de 2010, de 1 de Dezembro de 2010 a 31 de Março de 2011."
+  },
+  "0583a3b208070bdf": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Devem ser colhidas oficialmente amostras de, pelo menos, 200 tubérculos de batata de semente por lote de 25 toneladas ou menos, de cada lote destinado a ser exportado para a Comunidade.\n\n2. Cada lote deve ser constituído apenas por tubérculos de batatas de semente de uma mesma variedade e classe que tenham sido produzidos num único estabelecimento e tenham o mesmo número de referência.\n\n3. As amostras devem ser examinadas por laboratórios oficiais a fim de detectar a eventual presença de *Clavibacter michiganensis*. Os exames devem incidir em toda a amostra e respeitar o Método de detecção e diagnóstico da bactéria da podridão anelar em lotes de batata, estabelecido na Directiva 93/85/CEE do Conselho ([^6^](http://publications.europa.eu/resource/cellar/db6e2a8f-3add-4a43-b147-4d38fa3d3a4a.0010.03/DOC_1#E0006))."
+  },
+  "4a33a093134fa892": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Antes da introdução na Comunidade, o importador deve, com antecedência suficiente, notificar da introdução de cada remessa os organismos oficiais responsáveis do Estado-Membro em causa, conforme referidos no n.º 1, alínea g), do artigo 2.º da Directiva 2000/29/CE, indicando:\n\na) A variedade das batatas de semente;\n\nb) A quantidade;\n\nc) A data de importação declarada;\n\nd) Os nomes e endereços dos estabelecimentos dos importadores das batatas de semente e os inscritos no registo previsto no artigo 1.º da Directiva 93/50/CEE da Comissão ([^7^](http://publications.europa.eu/resource/cellar/db6e2a8f-3add-4a43-b147-4d38fa3d3a4a.0010.03/DOC_1#E0007)).\n\nO Estado-Membro em causa deve comunicar sem demora à Comissão o teor da notificação e de eventuais alterações dessa notificação.\n\n2. Aquando da introdução, o importador deve confirmar os dados constantes da notificação prévia referida no n.º 1 aos organismos oficiais responsáveis do Estado-Membro em causa."
+  },
+  "96e22e805d1b49aa": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA autorização para prever derrogações referida no artigo 1.º será revogada antes de [**►M2**](http://publications.europa.eu/resource/celex/32008D0891) 31 de Março de 2011**◄** se:\n\na) Se constatar que as disposições dos artigos 2.º a 13.º:\n\ni) são insuficientes para evitar a introdução de *Clavibacter michiganensis* na Comunidade ou\n\nii) não foram cumpridas;\n\nb) Se verificar que existem elementos que obstam ao bom funcionamento do conceito de «zona indemne» no Canadá."
+  },
+  "cc3ee2f1316a3710": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/db6e2a8f-3add-4a43-b147-4d38fa3d3a4a.0010.03/DOC_1#src.E0001)) JO L 169 de 10.7.2000, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/db6e2a8f-3add-4a43-b147-4d38fa3d3a4a.0010.03/DOC_1#src.E0002)) JO L 355 de 30.12.2002, p. 45.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/db6e2a8f-3add-4a43-b147-4d38fa3d3a4a.0010.03/DOC_1#src.E0003)) JO L 299 de 20.11.1999, p. 36.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/db6e2a8f-3add-4a43-b147-4d38fa3d3a4a.0010.03/DOC_1#src.E0004)) JO L 193 de 20.7.2002, p. 60.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/db6e2a8f-3add-4a43-b147-4d38fa3d3a4a.0010.03/DOC_1#src.E0005)) JO L 193 de 20.7.2002, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/db6e2a8f-3add-4a43-b147-4d38fa3d3a4a.0010.03/DOC_1#src.E0006)) JO L 259 de 18.10.1993, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/db6e2a8f-3add-4a43-b147-4d38fa3d3a4a.0010.03/DOC_1#src.E0007)) JO L 205 de 17.8.1993, p. 22."
+  }
+ }
+}

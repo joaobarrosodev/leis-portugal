@@ -1,0 +1,137 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31986L0415:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01986L0415-20100430",
+ "dre_path": null,
+ "source_lastmod": "2010-04-30",
+ "versions": [
+  {
+   "date": "1986-08-26",
+   "future": false,
+   "celex": "31986L0415",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "872466d8a7be3635",
+    "a8483d14c1ba72eb",
+    "7e5c9f3d2dca8106",
+    "641faaeca6e7d078",
+    "4aeb9f758c2b976d",
+    "d75e3f90154757ff",
+    "d01f367a04e9f031",
+    "6102b3d826ca96d5",
+    "846016d1b988a22c",
+    "5bdfbf0c1d14c917",
+    "69ba386422c9928a",
+    "5ee441de004e8148",
+    "22f6e0ee9d207635"
+   ]
+  }
+ ],
+ "fragments": {
+  "872466d8a7be3635": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 86/415/CEE do Conselho de 24 de Julho de 1986 relativa à instalação, à colocação, ao funcionamento e à identificação dos comandos dos tractores agrícolas ou florestais de rodas** *Jornal Oficial nº L 240 de 26/08/1986 p. 0001 - 0018 Edição especial finlandesa: Capítulo 13 Fascículo 15 p. 0238 Edição especial sueca: Capítulo 13 Fascículo 15 p. 0238*\n\nDIRECTIVA DO CONSELHO\n\nde 24 de Julho de 1986\n\nrelativa à instalação, à colocação, ao funcionamento e à identificação dos comandos dos tractores agrícolas ou florestais de rodas\n\n(86/415/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100g.,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que as normas técnicas a que devem obedecer os tractores agrícolas ou florestais de rodas por força das legislações nacionais dizem, nomeadamente, respeito à instalação, à colocação, ao funcionamento e à identificação dos comandos;\n\nConsiderando que tais normas diferem de Estado para Estado; que daí decorre a necessidade de que todos os Estados-membros adoptem as mesmas normas, quer em complemento da sua regulamentação actual quer em lugar desta, em ordem, nomeadamente, a tornar possível a concretização, para cada tipo de tractor, do processo de recepção CEE que é objecto da Directiva 74/150/CEE do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos tractores agrícolas ou florestais de rodas (3), com a última redacção que que lhe foi dada pelo Acto de Adesão de Espanha e de Portugal;\n\nConsiderando que a harmonização destas normas é um factor evidente de segurança e permite, no tocante à colocação e à simbolização dos comandos, afastar o problema da existência de inscrições nas diferentes línguas;\n\nConsiderando que a aproximação das legislações nacionais respeitantes aos tractores agrícolas ou florestais de rodas\n\n(1) JO n° C 172 de 13. 7. 1981, p. 108.\n\n(2) JO n° C 189 de 30. 7. 1981, p. 15.\n\n(3) JO n° L 84 de 28. 3. 1974, p. 10.\n\nimplica que os Estados-membros reconheçam mutuamente os controlos efectuados por cada um com base nas normas comuns,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "a8483d14c1ba72eb": {
+   "fragment_id": "Artigo 1g.",
+   "type": "artigo",
+   "heading": "Artigo 1g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1g.\n\n1. Entende-se por tractor (agrícola ou florestal) qualquer veículo a motor, com rodas ou lagartas, tendo pelo menos dois eixos, cuja função principal resida na potência de tracção, e especialmente concebido para atrelar, empurrar, carregar ou accionar certas alfaias, máquinas ou reboques destinados a utilização agrícola ou florestal. Pode ser equipado para transportar carga ou passageiros.\n\n2. A presente directiva aplica-se exclusivamente aos tractores definidos no número anterior montados sobre pneumáticos, tendo pelo menos dois eixos e uma velocidade máxima, por construção, compreendida entre 6 e 30 quilómetros por hora."
+  },
+  "7e5c9f3d2dca8106": {
+   "fragment_id": "Artigo 2g.",
+   "type": "artigo",
+   "heading": "Artigo 2g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2g.\n\nOs Estados-membros não podem recusar a recepção CEE ou a recepção de alcance nacional de um tractor, nem recusar ou proibir a venda, a matrícula, a entrada em circulação ou a utilização de um tractor por motivos relacionados com a instalação, a colocação, o funcionamento e a identificação dos comandos, se satisfizerem as normas constantes dos Anexo I, II, III e IV."
+  },
+  "641faaeca6e7d078": {
+   "fragment_id": "Artigo 3g.",
+   "type": "artigo",
+   "heading": "Artigo 3g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3g.\n\nA presente directiva não prejudica a faculdade de os Estados-membros, no respeito pelo Tratado, estipularem os requisitos que considerem necessários para garantir a pro-\n\ntecção dos trabalhadores aquando da utilização dos tractores em causa, desde que isso não implique modificações nos tractores relativamente às normas da presente directiva."
+  },
+  "4aeb9f758c2b976d": {
+   "fragment_id": "Artigo 4g.",
+   "type": "artigo",
+   "heading": "Artigo 4g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4g.\n\nAs alterações necessárias para adaptar as normas dos anexos ao progresso técnico serão adoptadas nos termos do procedimento previsto no artigo 13g. da Directiva 74/150/CEE."
+  },
+  "d75e3f90154757ff": {
+   "fragment_id": "Artigo 5g.",
+   "type": "artigo",
+   "heading": "Artigo 5g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5g.\n\n1. Os Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva até 1 de Outubro de 1987, o mais tardar. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito nacional que adoptarem no domínio regido pela presente directiva."
+  },
+  "d01f367a04e9f031": {
+   "fragment_id": "Artigo 6g.",
+   "type": "artigo",
+   "heading": "Artigo 6g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6g.\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 24 de Julho de 1986.\n\nPelo Conselho\n\nO Presidente\n\nA. CLARK\n\nEWG:L333UMBP00.96\n\nFF: 3UPO; SETUP: 01; Hoehe: 847 mm; 137 Zeilen; 4363 Zeichen;\n\nBediener: MARK Pr.: C;\n\nKunde: paort"
+  },
+  "6102b3d826ca96d5": {
+   "fragment_id": "ANEXO I — DEFINIÇÕES, PEDIDO DE RECEPÇÃO CEE, RECEPÇÃO CEE",
+   "type": "divisao",
+   "heading": "ANEXO I — DEFINIÇÕES, PEDIDO DE RECEPÇÃO CEE, RECEPÇÃO CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — DEFINIÇÕES, PEDIDO DE RECEPÇÃO CEE, RECEPÇÃO CEE\n\n1.\n\nDEFINIÇÕES\n\n1.1.\n\nTipo de tractor\n\nPor «tipo de tractor no respeitante à posição e à identificação dos comandos instalação, colocação, funcionamento e identificação» dos comandos entendem-se os tractores que não difiram essencialmente entre si no respeitante aos elementos de disposição interna que possam afectar a colocação e a identificação dos comandos.\n\n1.2.\n\nComando\n\nPor «comando» entende-se qualquer parte do tractor cujo accionamento directo permita modificar o estado ou o funcionamento do tractor ou de qualquer material a este atrelado.\n\n2.\n\nPEDIDO DE RECEPÇÃO CEE\n\n2.1.\n\nO pedido de recepção de um tipo de tractor no tocante à instalação, à colocação, ao funcionamento e à identificação dos comandos deve ser apresentado pelo construtor do tractor ou pelo seu mandatário.\n\n2.2.\n\nO pedido deve ser acompanhado por uma descrição (fotografias ou esquemas), em triplicado, das partes do tractor contempladas pelas normas da presente directiva.\n\n2.3.\n\nDevem ser apresentados ao serviço técnico encarregado dos ensaios de recepção um tractor representativo do tipo a recepcionar, ou a (ou as) parte(s) do tractor considerada(s) essencial (ais) para a execução dos controlos estipulados pela presente directiva.\n\n3.\n\nRECEPÇÃO CEE\n\nA ficha de recepção CEE será acompanhada por uma ficha conforme ao modelo constante do Anexo V.\n\nEWG:L333UMBP01.97\n\nFF: 3UPO; SETUP: 01; Hoehe: 257 mm; 25 Zeilen; 1476 Zeichen;\n\nBediener: MARK Pr.: C;\n\nKunde: portugal"
+  },
+  "846016d1b988a22c": {
+   "fragment_id": "ANEXO II — REQUISITOS TÉCNICOS",
+   "type": "divisao",
+   "heading": "ANEXO II — REQUISITOS TÉCNICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — REQUISITOS TÉCNICOS\n\n1.\n\nNORMAS GERAIS\n\n1.1.\n\nOs comandos devem ser de fácil acesso e não apresentar perigo para o operador, que deve poder accioná-los com facilidade e sem riscos; devem ser concebidos e estar dispostos, ou protegidos, de modo a excluir toda e qualquer comutação intempestiva ou o desencadear involuntário de quaisquer movimentos ou operações que impliquem perigo.\n\n1.2.\n\nOs símbolos utilizados para a identificação simbólica dos comandos devem ser conformes aos representados no Anexo III.\n\n1.3.\n\nPodem ser utilizados para outros fins símbolos que não constem do Anexo III, desde que não exista qualquer risco de confusão relativamente aos que constam desse anexo.\n\n1.4.\n\nOs símbolos serão considerados conformes se for respeitada a proporcionalidade das dimensões constantes do Anexo IV.\n\n1.5.\n\nOs símbolos devem figurar nos comandos ou na sua proximidade imediata.\n\n1.6.\n\nOs símbolos devem destacar-se nitidamente do fundo.\n\n1.7.\n\nNa medida em que, no ponto 2, se aplicarem normas específicas no tocante à instalação, à colocação, ao funcionamento e à identificação dos comandos, estes últimos devem satisfazer as normas específicas do ponto 2. São autorizadas outras soluções, quando o construtor provar que têm um efeito pelo menos equivalente aos requisitos citados na presente directiva.\n\n2.\n\nNORMAS ESPECÍFICAS\n\n2.1.\n\nComando de arranque\n\nNão deve ser possível pôr o motor em funcionamento se houver o risco de essa operação provocar um deslocamento intempestivo do tractor. Considera-se satisfeito esse requisito quando só for possível pôr o motor em funcionamento:\n\n- se a alavanca das velocidades estiver em posição neutra ou no ponto morto ou\n\n- se a alavanca de selecção de gamas estiver em posição neutra ou no ponto morto ou\n\n- se o mecanismo de embraiagem estiver desengatado ou\n\n- se o dispositivo hidrostático estiver no ponto morto ou sem pressão ou\n\n- se, no caso de uma transmissão hidraúlica, o dispositivo de engate voltar automaticamente à posição neutra.\n\n2.2.\n\nComando de paragem do motor\n\nO accionamento deste dispositivo deve, sem esforço manual significativo, provocar a paragem do motor, o qual não poderá voltar a entrar em funcionamento automaticamente.\n\nSe o comando de paragem do motor não estiver combinado com o comando de arranque, deve ser de cor nitidamente contrastante com o fundo e com os outros comandos. Se tal comando for constituído por um botão, este deve ser de cor vermelha.\n\n2.3.\n\nComando do bloqueio do diferencial\n\nSe o tractor estiver equipado com este comando, a sua identificação é obrigatória. A entrada em funcionamento do bloqueio do diferencial deve ser claramente assinalada, se a posição do comando não o indicar.\n\n2.4.\n\nComando do mecanismo de elevação da atrelagem de três pontos\n\n2.4.1.\n\nÉ necessário ou que os comandos do mecanismo de elevação da atrelagem de três pontos estejam instalados de modo a garantir a segurança das manobras de elevação e descida e/ou que estejam previstos nos dispositivos de atrelagem do material elementos de acoplamento automáticos que não\n\nexijam a presença de um operador entre o tractor e o material. Se o tractor estiver equipado com um comando deste tipo, a sua presença deve ser obrigatoriamente assinalada.\n\n2.4.2.\n\nConsidera-se que os requisitos de segurança relativos à elevação e descida dos equipamentos transportados estão satisfeitos quando se encontrem preenchidas as seguintes condições:\n\n2.4.2.1.\n\nComandos principais\n\nOs comandos principais e a sua transmissão eventual estarem dispostos ou protegidos de modo a ficarem fora do alcance do operador quando este se encontrar no solo entre o tractor e o equipamento atrelado; em alternativa, devem ser previstos comandos externos;\n\n2.4.2.2.\n\nComandos externos\n\n2.4.2.2.1.\n\nOs comandos estarem dispostos de tal modo que o operador possa accioná-los a partir de um local não perigoso, por exemplo se os comandos de elevação hidráulica de atrelagem de três pontos ou os comandos suplementares eventualmente existentes para tal elevação se encontrarem fora do espaço delimitado pelos planos verticais formados pelas paredes internas dos guarda-lamas;\n\ne\n\n2.4.2.2.2.\n\nO accionamento da elevação hidráulica da atrelagem de três pontos ser efectuado por meio de comandos que permitam uma elevação limitada, de modo que a cada accionamento do comando corresponda um curso não superior a 100 mm. Os pontos de medida são nesse caso constituídos pelos pontos de acoplamento aos braços inferiores da atrelagem de três pontos;\n\nou\n\n2.4.2.2.3.\n\nO mecanismo de elevação hidráulica da atrelagem de três pontos ser accionado por comandos que operem segundo o princípio do homom morto;\n\n2.4.2.3.\n\nTractores de via estreita\n\nN° caso dos tractores com um eixo motor de via mínima fixa ou regulável não superior a 1 150 mm, os comandos principais estarem situados à frente do plano vertical que passa pelo ponto de referência do banco, estando este em posição central.\n\n2.4.2.4.\n\nSão autorizadas outras soluções quando o construtor provar que têm um efeito pelo menos equivalente aos requisitos descritos nos pontos 2.4.2.1, 2.4.2.2 e 2.4.2.3.\n\nEWG:L333UMBP02.96\n\nFF: 3UPO; SETUP: 01; Hoehe: 511 mm; 74 Zeilen; 5243 Zeichen;\n\nBediener: MIKE Pr.: A;\n\nKunde: portugal"
+  },
+  "5bdfbf0c1d14c917": {
+   "fragment_id": "ANEXO III — SÍMBOLOS",
+   "type": "divisao",
+   "heading": "ANEXO III — SÍMBOLOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — SÍMBOLOS\n\n>INÍCIO DE GRÁFICO>\n\n1. Comando de arranque>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\n2. Comando do regime de rotação do motor\n\n<?aeFN17,10><?aeIR19,>Significado: variação contínua rotativa\n\n<?aeNF><?aeIC><?aeIL19,>Variação contínua linear\n\n>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\n3. Comando de paragem do motor\n\n<?aeFN6>(motor de ignição comandado e motor de ignição por compressão)>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\n4. Comando do travão de estacionamento>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\n5. Comando de bloqueio do diferencial>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\n6. Comando de embraiagem da tomada de força\n\n<?aeFN18,><?aeIR19,>Significado: posição embraiada\n\n<?aeNF><?aeIC><?aeIL19,>Posição desembraiada\n\n>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\n7. Comando do engrenamento da tomada de força e/ou de selecção das velocidades de rotação\n\n<?aeFN19,> Significado: posição desembraiada e desengrenada\n\n<?aeFN20,6><?aeIR19,>Significado: posição engrenada mas não embraiada\n\n<?aeIC><?aeNF><?aeIL19,>Posição embraiada e engrenada\n\n>FIM DE GRÁFICO>\n\nNB.:\n\nOs símbolos acima reproduzidos referem-se a um comando de engrenamento e de selecção das velocidades de rotação de uma tomada de força (tdf) com duas velocidades de rotação. O símbolo N° 1 corresponde à situação em que o selector se encontra em ponto neutro e a embraiagem está desembraiada; o símbolo N° 2 correspondente à situação de tdf engrenada na velocidade de rotação de 1 000 rpm mas não embraiada e o símbolo N° 3 corresponde à situação de tdf embraiada e engrenada na velocidade de rotação de 1 000 rpm.\n\n>INÍCIO DE GRÁFICO>\n\n8. Comando do mecanismo de elevacão\n\n<?aeFN17,10><?aeIR19,>Significado: posição de subida\n\n<?aeIC><?aeNF><?aeIL19,>Posição de descida>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\n9. Comando para o accionamento à distância dos acessórios externos\n\n<?aeFN17,10><?aeIR19,>Significado: posição engatada\n\n<?aeIC><?aeNF><?aeIL19,>Posição desengatada\n\n>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\n10. Comando dos faróis (médios)\n\nFN20,4>11. >FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\nComando dos indicadores de mudança de direcção\n\n>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\n12. Comando do sinal de emergência>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\n13. Comando geral das luzes\n\n>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\n14. Comando das luzes de presença dianteiras>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\n15. Comando dos faróis (máximos)\n\n>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\n16. Comando dos faróis de nevoeiro dianteiros> FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\n17. Comando do(s) farol(óis) de nevoeiro da retaguarda\n\n>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\n18. Comando da(s) luz(es) de estacionamento>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\n19. Comando do projector de trabalho\n\n>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\n20. Comando do limpa pára-brisas>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\n21. Comando da buzina\n\n<?aeFN20,4><?aeIB18,> <?aeRW.4><?aeRF><?aeIC\"FIM DE GRÁFICO>\n\nEWG:L333UMBP03.96\n\nFF: 3UPO; SETUP: 01; Hoehe: 2795 mm; 48 Zeilen; 2531 Zeichen;\n\nBediener: MARK Pr.: C;\n\nKunde: 37208, L 333 Port. 03"
+  },
+  "69ba386422c9928a": {
+   "fragment_id": "ANEXO IV — CONSTRUÇÃO DO MODELO DE BASE DOS SÍMBOLOS CONSTANTES DO ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO IV — CONSTRUÇÃO DO MODELO DE BASE DOS SÍMBOLOS CONSTANTES DO ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — CONSTRUÇÃO DO MODELO DE BASE DOS SÍMBOLOS CONSTANTES DO ANEXO III\n\n>INÍCIO DE GRÁFICO>\n\nFigura 1<?aa6A>\n\n<?aeFN2,><?aa8H>Modelo de base\n\n<?aeFN1,><?aa8N\"FIM DE GRÁFICO>\n\nO modelo de base é constituído por:\n\n1. Um quadrado fundamental de 50 mm de lado; a cota a) é igual à dimensão nominal a) do original;\n\n2. Um círculo fundamental de 56 mm de diâmetro com uma superfície aproximadamente igual à do quadrado fundamental 1;\n\n3. Um segundo círculo de 50 mm de diâmetro inscrito no quadrado fundamental 1;\n\n4. Um segundo quadrado com os vértices sobre a circunferência que delimita o círculo fundamental 2 e com os lados paralelos aos do quadrado fundamental 1;\n\n5. e 6. Dois rectângulos com a mesma superfície do quadrado fundamental 1; os lados homólogos destes dois rectângulos são perpendiculares entre si, e cada um deles é construído de modo a intersectar os lados opostos do quadrado fundamental em pontos simétricos;\n\n7. Um terceiro quadrado cujos lados passam pelos pontos de intersecção do quadrado fundamental 1 com a circunferência fundamental 2 e apresentam uma inclinação de 45g, dando as duas maiores dimensões horizontais e verticais do modelo de base;\n\n8. Um octógono irregular, formado por segmentos de recta com uma inclinação de 30g relativamente aos lados do quadrado 7.\n\nO modelo de base é aplicado sobre uma grelha com passo de 12,5 mm, coincidente com o quadrado fundamen-\n\ntal 1.\n\nEWG:L333UMBP04.97\n\nFF: 3UPO; SETUP: 01; Hoehe: 257 mm; 23 Zeilen; 1440 Zeichen;\n\nBediener: MARK Pr.: C;\n\nKunde: fdas"
+  },
+  "5ee441de004e8148": {
+   "fragment_id": "ANEXO V — MODELO",
+   "type": "divisao",
+   "heading": "ANEXO V — MODELO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — MODELO\n\nFormato máximo: DIN A4 (210 mm x 297 mm)\n\nIndicação da\n\nAdministração"
+  },
+  "22f6e0ee9d207635": {
+   "fragment_id": "ANEXO À FICHA DE RECEPÇÃO CEE DE UM TIPO DE TRACTOR NO TOCANTE À INSTALAÇÃO, — À COLOCAÇÃO, AO FUNCIONAMENTO E À IDENTIFICAÇÃO DOS COMANDOS",
+   "type": "divisao",
+   "heading": "ANEXO À FICHA DE RECEPÇÃO CEE DE UM TIPO DE TRACTOR NO TOCANTE À INSTALAÇÃO, — À COLOCAÇÃO, AO FUNCIONAMENTO E À IDENTIFICAÇÃO DOS COMANDOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO À FICHA DE RECEPÇÃO CEE DE UM TIPO DE TRACTOR NO TOCANTE À INSTALAÇÃO, — À COLOCAÇÃO, AO FUNCIONAMENTO E À IDENTIFICAÇÃO DOS COMANDOS\n\n(N°. 2 do artigo 4°. e artigo 10°. da Directiva 74/150/CEE do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos tractores agrícolas ou florestais de rodas)\n\nNúmero de recepção CEE.\n\n1. Marca de fábrica ou marca comercial do tractor.\n\n.\n\n2. Tipo de tractor.\n\n3. Nome e endereço do construtor.\n\n.\n\n.\n\n4. Se for caso disso, nome e endereço do mandatário do construtor.\n\n.\n\n.\n\n5. Descrição sumária do tipo de tractor no tocante à instalação, colocação, funcionamento e identificação dos comandos.\n\n.\n\n6. Tractor presente à recepção em (data).\n\n7. Serviço técnico encarregado dos ensaios de recepção.\n\n8. Data do relatório emitido por esse serviço.\n\n9. Número do relatório emitido por esse serviço.\n\n10. A recepção no tocante à instalação, colocação, funcionamento e identificação dos comandos é concedida/recusada (¹).\n\n11. Local.\n\n12. Data.\n\n13. Assinatura.\n\n14. À presente comunicação juntam-se os seguintes desenhos, que levam o número de recepção atrás indicado:\n\nUma colecção de desenhos dos comandos e das partes do tractor consideradas de interesse para efeitos da Directiva 86/415/CEE do Conselho, de 24 de Julho de 1986 relativa à instalação, à colocação, ao funcionamento e à identificação dos comandos dos tractores agrícolas ou florestais de rodas.\n\nEstes desenhos serão fornecidos às autoridades competentes dos outros Estados-membros a seu pedido expresso.\n\n15. Observações eventuais.\n\n.\n\n.\n\n(¹) Riscar a menção inútil.\n\nEWG:L333UMBP05.96\n\nFF: 3UPO; SETUP: 01; Hoehe: 260 mm; 48 Zeilen; 1850 Zeichen;\n\nBediener: MARK Pr.: C;\n\nKunde: 37208 Portugal"
+  }
+ }
+}

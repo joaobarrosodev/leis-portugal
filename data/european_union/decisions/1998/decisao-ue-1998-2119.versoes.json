@@ -1,0 +1,558 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998D2119:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998D2119-20131106",
+ "dre_path": null,
+ "source_lastmod": "2013-11-06",
+ "versions": [
+  {
+   "date": "1998-10-03",
+   "future": false,
+   "celex": "31998D2119",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "13046064a277f2dc",
+    "9b343fddfd2c8284",
+    "886884b45aa4dba7",
+    "59aba81c06e8cbbf",
+    "c7fcff2ed4ec035c",
+    "fc21c4949658840e",
+    "c66c73dc3d74903e",
+    "6e69ae928c40867e",
+    "dc6e1e73b9d2699f",
+    "af1574b6e4313c4c",
+    "c03420817f0d80f8",
+    "2aac8d022326d8d2",
+    "2780341bc3fc23ae",
+    "ac064c0499ed26ec",
+    "d44b8cfff78f6ed7",
+    "037dd4c482176afd",
+    "622757a15a289616",
+    "4740fc4dd00e7b22"
+   ]
+  },
+  {
+   "date": "2007-12-28",
+   "future": false,
+   "celex": "01998D2119-20071228",
+   "acts": [
+    {
+     "id": "eu:celex:32003D0534:por",
+     "title": "M1",
+     "published": null,
+     "celex": "32003D0534"
+    },
+    {
+     "id": "eu:celex:32003R1882:por",
+     "title": "REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1882"
+    },
+    {
+     "id": "eu:celex:32007D0875:por",
+     "title": "DECISÃO DA COMISSÃO de 18 de Dezembro de 2007",
+     "published": null,
+     "celex": "32007D0875"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita ANEXO",
+    "Adita LISTA INDICATIVA DAS CATEGORIAS DE DOENÇAS TRANSMISSÍVEIS",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º — O anexo poderá ser alterado ou completado nos termos do artigo 7º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime ANEXO — LISTA INDICATIVA DAS CATEGORIAS DE DOENÇAS TRANSMISSÍVEIS"
+   ],
+   "fragments": [
+    "856ff2e13e8fb239",
+    "df23abc777c19c99",
+    "f91ee33962aedb76",
+    "9cc0d6bcfabafbc3",
+    "7d01cd9d69c86aa0",
+    "48b2ac979f18a15f",
+    "68276826e542a971",
+    "1e2fbe47dbcc0ca8",
+    "f751dddd98e073a1",
+    "d5f0cf252245ca41",
+    "e54905c4db24a813",
+    "a23ee9b814103c33",
+    "235bb3ca62eee7a9",
+    "4f41d38ae846e56a",
+    "2ea3decd270088c0",
+    "730f12b0c919dec6",
+    "3de5a1d66f3437c6",
+    "10220b9774fa9034",
+    "45b7401627a62efa",
+    "999f46246c7f8af5"
+   ]
+  },
+  {
+   "date": "2009-08-07",
+   "future": false,
+   "celex": "01998D2119-20090807",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0596:por",
+     "title": "REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009",
+     "published": null,
+     "celex": "32009R0596"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "7b374a4f397f9270",
+    "df23abc777c19c99",
+    "f91ee33962aedb76",
+    "7b8fe6ae6eb713ac",
+    "7d01cd9d69c86aa0",
+    "48b2ac979f18a15f",
+    "a1edcf3f06442a2f",
+    "00386e332f01ead5",
+    "24aba749ef765045",
+    "d5f0cf252245ca41",
+    "e54905c4db24a813",
+    "a23ee9b814103c33",
+    "235bb3ca62eee7a9",
+    "4f41d38ae846e56a",
+    "2ea3decd270088c0",
+    "730f12b0c919dec6",
+    "3de5a1d66f3437c6",
+    "10220b9774fa9034",
+    "45b7401627a62efa",
+    "88452b6796eb1220"
+   ]
+  },
+  {
+   "date": "2013-11-06",
+   "future": false,
+   "celex": "01998D2119-20131106",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime ANEXO",
+    "Suprime LISTA INDICATIVA DAS CATEGORIAS DE DOENÇAS TRANSMISSÍVEIS",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "8b397a6d04c8cfee"
+   ]
+  }
+ ],
+ "fragments": {
+  "13046064a277f2dc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Decisão nº 2119/98/CE do Parlamento Europeu e do Conselho de 24 de Setembro de 1998 que institui uma rede de vigilância epidemiológica e de controlo das doenças transmissíveis na Comunidade** *Jornal Oficial nº L 268 de 03/10/1998 p. 0001 - 0007*\n\nDECISÃO Nº 2119/98/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de Setembro de 1998 que institui uma rede de vigilância epidemiológica e de controlo das doenças transmissíveis na Comunidade\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente o seu artigo 129º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nTendo em conta o parecer do Comité das Regiões (3),\n\nDeliberando nos termos do artigo 189º-B do Tratado CE (4), tendo em conta o projecto comum aprovado em 27 de Maio de 1998 pelo Comité de Conciliação,\n\n(1) Considerando que a prevenção das doenças, principalmente dos grandes flagelos, constitui para a acção da Comunidade uma prioridade que necessita de uma abordagem global e coordenada dos Estados-membros;\n\n(2) Considerando que, na resolução sobre a política de saúde pública após Maastricht (5), o Parlamento Europeu convidou a Comissão a criar uma rede transfronteiriça com a missão de encontrar definições concretas das doenças cuja declaração é obrigatória e de recolher, actualizar, analisar e divulgar os dados dos Estados-membros relativos a essas doenças, bem como de cooperar, nestes domínios, com os organismos nacionais e internacionais;\n\n(3) Considerando que, na Resolução, de 2 de Junho de 1994, relativa ao quadro de acção da Comunidade no domínio da saúde pública (6), o Conselho acordou em que actualmente devia ser dada prioridade principalmente às doenças transmissíveis;\n\n(4) Considerando que, nas conclusões de 13 de Dezembro de 1993 (7), o Conselho considera que deve ser criada, a nível comunitário, uma rede de vigilância e de controlo das doenças transmissíveis que tenha por objectivo principal a recolha de informações provenientes das redes de vigilância existentes nos Estados-membros;\n\n(5) Considerando que, nessas mesmas conclusões, o Conselho convida a Comissão a, nas suas propostas relativas ao quadro de acção no domínio da saúde pública, dedicar especial atenção à criação de uma rede epidemiológica na Comunidade, tendo em conta os trabalhos em curso e os dispositivos existentes a nível da Comunidade e dos Estados-membros, assegurando a comparabilidade e a compatibilidade dos dados;\n\n(6) Considerando que, na resolução, de 13 de Novembro de 1992, relativa ao controlo e à vigilância das doenças transmissíveis (8), o Conselho e os ministros da Saúde dos Estados-membros reunidos no Conselho, salientam a necessidade de, no interior da Comunidade, aumentar a densidade e a eficácia das redes de vigilância das doenças transmissíveis existentes entre os Estados-membros (incluindo no domínio da informática), bem como de manter, criar ou reforçar a coordenação entre elas a fim de vigiar os focos de doenças transmissíveis sempre que tal possa representar uma mais valia em relação às medidas existentes;\n\n(7) Considerando que, nessa mesma resolução, o Conselho e os ministros da Saúde, reunidos no Conselho, sublinham a utilidade de se reunirem os dados recolhidos nos Estados-membros sobre um número limitado de doenças raras e graves cujo estudo epidemiológico exige grande número de amostras;\n\n(8) Considerando que, nessa mesma resolução, o Conselho e os ministros da Saúde, reunidos no Conselho, convidam a Comissão a analisar a oportunidade de efectuar certas propostas prioritárias adequadas em matéria de controlo e de vigilância das doenças transmissíveis, tendo em conta, entre outros critérios, a estimativa da sua relação custo-eficácia;\n\n(9) Considerando que, em conformidade com o princípio de subsidiariedade, qualquer nova medida num domínio que não seja da competência exclusiva da Comunidade, como a vigilância epidemiológica e o controlo das doenças transmissíveis, apenas pode ser adoptada pela Comunidade no caso de, devido à sua dimensão ou aos seus efeitos, os objectivos da acção prevista poderem ser melhor alcançados à escala comunitária do que pelos Estados-membros;\n\n(10) Considerando que os diferentes níveis e necessidades de vigilância epidemiológica das doenças transmissíveis nos Estados-membros tornam necessária a criação de uma rede permanente a nível comunitário;\n\n(11) Considerando que as medidas a tomar em matéria de saúde devem ter em conta as outras acções empreendidas pela Comunidade no domínio da saúde pública ou com impacto neste domínio;\n\n(12) Considerando que as medidas a tomar no contexto da presente decisão deverão ser adoptadas com exclusão de qualquer harmonização das disposições legislativas e regulamentares dos Estados-membros;\n\n(13) Considerando que a Decisão nº 647/96/CE do Parlamento Europeu e do Conselho, de 29 de Março de 1996, relativa à adopção de um programa de acção comunitária relativo à prevenção da sida e de outras doenças transmissíveis no âmbito da acção no domínio da saúde pública (1996-2000) (9), prevê um certo número de acções comunitárias destinadas, designadamente, à criação e ao desenvolvimento de redes de vigilância e de controlo de certas doenças transmissíveis, à detecção precoce dessas doenças transmissíveis, assim como à promoção da formação de epidemiologistas de terreno;\n\n(14) Considerando que deve ser incentivada a cooperação com as organizações internacionais competentes, em particular com a Organização Mundial da Saúde, nomeadamente no que se refere à classificação das doenças, incluindo a utilização de uma linguagem e de uma tecnologia adequadas;\n\n(15) Considerando que deve ser apoiada a cooperação com os países terceiros, nomeadamente em caso de aparecimento ou de ressurgimento de doenças transmissíveis graves;\n\n(16) Considerando que o aparecimento ou o ressurgimento recentes de doenças transmissíveis graves demonstrou que, em caso de situação de emergência, a Comissão deve receber rapidamente todos os dados e informações necessários recolhidos segundo uma metodologia acordada;\n\n(17) Considerando que, em situações de emergência, os Estados-membros devem trocar imediatamente, através da rede comunitária, os dados e informações úteis, a fim de garantir a protecção da população; que deve ser dada sempre prioridade à protecção da saúde pública;\n\n(18) Considerando que o disposto na Directiva 92/117/CEE do Conselho, de 17 de Dezembro de 1992, relativa às medidas de protecção contra as zoonoses e certos agentes zoonóticos em animais e produtos de origem animal a fim de evitar focos de infecção e de intoxicação de origem alimentar (10), se aplica também às informações relacionadas com as zoonoses que afectam os seres humanos; que a referida directiva estabelece um processo de recolha e transmissão de informações relativas a um certo número de zoonoses e de agentes zoonóticos;\n\n(19) Considerando que a criação de uma rede de vigilância epidemiológica e de controlo das doenças transmissíveis a nível comunitário pressupõe imperativamente o respeito pelas disposições legais em matéria de protecção das pessoas singulares no que diz respeito ao tratamento dos dados pessoais e a criação de dispositivos que garantam a sua confidencialidade e segurança; que, nesta matéria, o Parlamento Europeu e o Conselho adoptaram a Directiva 95/46/CE (11);\n\n(20) Considerando que os projectos comunitários no domínio do intercâmbio telemático de dados entre administrações (IDA) (12) e os projectos do G7 deverão ser intimamente coordenados com a aplicação das acções comunitárias em matéria de vigilância epidemiológica e de controlo das doenças transmissíveis;\n\n(21) Considerando os esforços que estão a ser desenvolvidos para incentivar a cooperação internacional nesta matéria, nomeadamente através do plano de acção conjunto com os Estados Unidos da América;\n\n(22) Considerando que é importante que, numa situação de emergência, as estruturas e/ou autoridades nacionais competentes reforcem a sua cooperação, designadamente no domínio da identificação de amostras biológicas;\n\n(23) Considerando que os processos comunitários que podem ser criados tendo em vista o intercâmbio rápido de informações não afectam os direitos nem as obrigações dos Estados-membros por força de acordos ou convenções bilaterais e multilaterais;\n\n(24) Considerando que é necessário estabelecer um procedimento que promova a coordenação entre os Estados-membros das medidas que estes possam vir a decidir tomar para controlar a propagação de doenças transmissíveis; que a adopção e a aplicação dessas medidas é da competência exclusiva dos Estados-membros;\n\n(25) Considerando que é importante que a Comissão assegure o funcionamento da rede comunitária em estreita colaboração com os Estados-membros; que, para o efeito, é necessário prever um processo que permita assegurar a participação plena dos Estados-membros no funcionamento;\n\n(26) Considerando que os custos que poderá comportar o funcionamento da rede a nível comunitário deverão ser suportados por recursos comunitários e/ou por programas comunitários relevantes;\n\n(27) Considerando que os custos que poderá comportar o funcionamento da rede a nível nacional deverão ser financiados pelos próprios Estados-membros, salvo disposições comunitárias em sentido contrário;\n\n(28) Considerando que, em 20 de Dezembro de 1994, se concluiu um modus vivendi entre o Parlamento Europeu, o Conselho e a Comissão em matéria de medidas de execução dos actos adoptados pelo procedimento previsto no artigo 189º B do Tratado (13),\n\nADOPTARAM A PRESENTE DECISÃO:"
+  },
+  "9b343fddfd2c8284": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA presente decisão tem por objecto instituir uma rede a nível comunitário para fomentar a cooperação e a coordenação entre os Estados-membros, com o apoio da Comissão, a fim de melhorar a prevenção e o controlo na Comunidade das categorias de doenças transmissíveis enumeradas no anexo. Essa rede será utilizada para:\n\n- a vigilância epidemiológica dessas doenças, e\n\n- um sistema de alerta rápido e resposta com vista à prevenção e ao controlo dessas doenças.\n\nNo que respeita à vigilância epidemiológica, a rede será instituída através de uma ligação permanente, por todos os meios técnicos apropriados, entre a Comissão e as estruturas e/ou autoridades que, a nível de cada Estado-membro e sob a responsabilidade deste, são competentes a nível nacional e têm a seu cargo a recolha de informações respeitantes à vigilância epidemiológica das doenças transmissíveis, bem como através da definição de processos de divulgação dos dados pertinentes relativos à vigilância a nível comunitário.\n\nNo que respeita ao sistema de alerta rápido e resposta, essa rede será formada através de uma ligação permanente, pelos meios apropriados, entre a Comissão e as autoridades sanitárias de cada Estado-membro responsáveis pela determinação das medidas que possam ser necessárias para a protecção da saúde pública.\n\nA Comissão coordenará a rede em colaboração com os Estados-membros."
+  },
+  "886884b45aa4dba7": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos da presente decisão, entende-se por:\n\n1. «Vigilância epidemiológica», a recolha, análise, interpretação e divulgação sistemáticas e contínuas de dados sanitários, incluindo os estudos epidemiológicos, relativos às categorias de doenças transmissíveis enumeradas no anexo, nomeadamente o padrão de propagação destas doenças no tempo e no espaço e a análise dos factores de risco de as contrair, a fim de se poder adoptar as medidas de prevenção e de combate apropriadas;\n\n2. «Prevenção e controlo das doenças transmissíveis», o conjunto das medidas, incluindo as investigações epidemiológicas, adoptadas pelas autoridades sanitárias competentes dos Estados-membros com o objectivo de prevenir e conter a propagação das doenças transmissíveis;\n\n3. «Rede comunitária», a rede de vigilância epidemiológica e de controlo das doenças transmissíveis, ou seja o sistema de intercâmbio das informações necessárias para realizar as actividades referidas nos pontos 1 e 2."
+  },
+  "59aba81c06e8cbbf": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nPara garantir o funcionamento eficaz da rede comunitária no que diz respeito à vigilância epidemiológica e para se conseguir uma informação homogénea nesse âmbito, os seguintes elementos serão determinados nos termos do artigo 7º:\n\na) Doenças transmissíveis que deverão ser progressivamente abrangidas pela rede comunitária;\n\nb) Critérios de selecção dessas doenças, tendo em conta as categorias enumeradas no anexo e as redes de colaboração existentes em matéria de vigilância das doenças que poderão servir de apoio;\n\nc) Definição dos casos, especialmente das características clínicas e microbiológicas;\n\nd) Natureza e tipo de dados e informações a recolher e transmitir pelas estruturas e/ou autoridades referidas no segundo parágrafo do artigo 1º no contexto da vigilância epidemiológica, bem como os meios necessários para fazer com que tais dados sejam comparáveis e compatíveis;\n\ne) Métodos de vigilância epidemiológica e microbiológica;\n\nf) Recomendações sobre as medidas de protecção a adoptar, sobretudo nas fronteiras externas, nomeadamente em situações de emergência;\n\ng) Recomendações sobre informação e guias de práticas correctas para uso das populações;\n\nh) Meios técnicos adequados e procedimentos para a divulgação e análise dos dados a nível comunitário."
+  },
+  "c7fcff2ed4ec035c": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nCada estrutura e/ou autoridade referida no segundo ou terceiro parágrafo do artigo 1º, conforme o caso, comunicará à rede comunitária:\n\na) Informações relativas ao aparecimento ou ao ressurgimento de casos de doenças transmissíveis referidas na alínea a) do artigo 3º no Estado-membro a que pertence a referida estrutura e/ou autoridade, juntamente com a informação referente às medidas de controlo aplicadas;\n\nb) Todas as informações úteis relativas à evolução dos estados epidémicos em relação aos quais tem a responsabilidade de recolher informações;\n\nc) Informações relativas a fenómenos epidémicos insólitos ou a novas doenças transmissíveis de origem desconhecida;\n\nd) Todas as informações úteis de que disponha sobre:\n\n- casos de doenças transmissíveis abrangidas pelas categorias enumeradas no anexo,\n\n- novas doenças transmissíveis de origem desconhecida que tenham aparecido em países terceiros;\n\ne) Informações relativas aos mecanismos e procedimentos, existentes ou propostos, para a prevenção e o controlo das doenças transmissíveis, nomeadamente em situações de emergência;\n\nf) Todos os elementos de apreciação que possam ajudar os Estados-membros a coordenarem os seus esforços de prevenção e de controlo das doenças transmissíveis, incluindo as medidas de combate aplicadas."
+  },
+  "fc21c4949658840e": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nA Comissão transmitirá as informações referidas no artigo 3º a todas as estruturas e autoridades mencionadas no artigo 1º Cada estrutura/autoridade deverá assegurar que a informação comunicada à rede, nos termos do artigo 4º, será transmitida, sem demora, a todas as demais estruturas/autoridades participantes e à Comissão."
+  },
+  "c66c73dc3d74903e": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Com base nas informações disponíveis através da rede comunitária, os Estados-membros consultar-se-ão, em ligação com a Comissão, a fim de coordenarem os seus esforços de prevenção e de controlo das doenças transmissíveis.\n\n2. Sempre que um Estado-membro tencionar adoptar medidas de controlo de doenças transmissíveis, deverá, antes de adoptar tais medidas, informar os restantes Estados-membros e a Comissão, através da rede comunitária, sobre a natureza e o alcance daquelas medidas. O Estado-membro interessado deverá igualmente consultar os demais Estados-membros e a Comissão, através da rede comunitária, sobre a natureza e o alcance daquelas medidas, a menos que tal consulta se revele impossível tendo em conta a urgência da protecção da saúde pública.\n\n3. Sempre que um Estado-membro tenha de adoptar com carácter de urgência medidas de controlo para dar resposta ao aparecimento ou ao ressurgimento de doenças transmissíveis, informará logo que possível os restantes Estados-membros e a Comissão através da rede comunitária.\n\nEm casos específicos devidamente justificados, podem ser tomadas medidas apropriadas de prevenção e protecção, adoptadas de comum acordo entre Estados-membros em ligação com a Comissão, pelos Estados-membros que desejem.\n\n4. Com base nas consultas recíprocas e nas informações fornecidas, os Estados-membros coordenar-se-ão, em ligação com a Comissão, no que se refere às medidas que tenham adoptado ou tencionem adoptar a nível nacional.\n\n5. Os procedimentos respeitantes à informação e à consulta referidas nos nºs 1, 2 e 3 e os procedimentos respeitantes à coordenação referida nos nº 1 e 4 serão definidos nos termos do artigo 7º"
+  },
+  "6e69ae928c40867e": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Para efeitos de aplicação da presente decisão, a Comissão é assistida por um comité composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\n2. O representante da Comissão submete à apreciação do comité um projecto das medidas a tomar. O comité emite o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer é emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3. a) A Comissão adopta as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este último ainda não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "dc6e1e73b9d2699f": {
+   "fragment_id": "Artigo 8º — O anexo poderá ser alterado ou completado nos termos do artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 8º — O anexo poderá ser alterado ou completado nos termos do artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º — O anexo poderá ser alterado ou completado nos termos do artigo 7º"
+  },
+  "af1574b6e4313c4c": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nCada Estado-membro designará, no prazo de seis meses a contar da entrada em vigor da presente decisão, as estruturas e/ou as autoridades referidas no segundo e terceiro parágrafos do artigo 1º e do facto informará a Comissão e os restantes Estados-membros. As estruturas e/ou autoridades assim designadas serão indicadas publicamente pelos Estados-membros como fazendo parte da rede comunitária criada pela presente decisão."
+  },
+  "c03420817f0d80f8": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nPara efeitos da presente decisão, as autoridades competentes dos Estados-membros e a Comissão fomentarão a cooperação com os países terceiros e as organizações internacionais competentes no domínio da saúde pública, em especial a Organização Mundial da Saúde."
+  },
+  "2aac8d022326d8d2": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nA presente decisão é aplicável sem prejuízo do disposto nas Directivas 92/117/CEE e 95/46/CE."
+  },
+  "2780341bc3fc23ae": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. A presente decisão não afecta o direito de os Estados-membros manterem ou introduzirem outras disposições, procedimentos e medidas no que se refere aos respectivos sistemas nacionais de vigilância epidemiológica e de controlo das doenças transmissíveis.\n\n2. A presente decisão não afecta os direitos e as obrigações dos Estados-membros decorrentes de acordos ou convenções bilaterais ou multilaterais, vigentes ou futuros, no domínio abrangido pela presente decisão."
+  },
+  "ac064c0499ed26ec": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nCom a ajuda dos Estados-membros, a Comissão assegurará a coerência e complementaridade entre a presente decisão e os programas e iniciativas pertinentes da Comunidade, incluindo os que se inserem no domínio da saúde pública, assim como, designadamente, o programa-quadro de informação estatística, os projectos no domínio do intercâmbio telemático de dados entre administrações e o programa-quadro de investigação e desenvolvimento tecnológico, em especial as aplicações telemáticas deste último."
+  },
+  "d44b8cfff78f6ed7": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. A Comissão apresentará ao Parlamento Europeu e ao Conselho relatórios periódicos de avaliação do funcionamento da rede comunitária.\n\n2. O primeiro relatório, a apresentar no prazo de três anos após a entrada em vigor da presente decisão, referirá em especial os elementos da rede comunitária que devem ser melhorados ou adaptados. Conterá igualmente qualquer proposta de alteração ou de adaptação da presente decisão que a Comissão entenda necessária.\n\n3. A Comissão procederá, depois disso, a uma avaliação da rede comunitária de cinco em cinco anos, conferindo especial atenção à sua capacidade estrutural e à utilização efectiva dos recursos, e deverá apresentar um relatório ao Parlamento Europeu e ao Conselho."
+  },
+  "037dd4c482176afd": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nA presente decisão entra em vigor em 3 de Janeiro de 1999."
+  },
+  "622757a15a289616": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nOs Estados-membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 24 de Setembro de 1998.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nJ. M. GIL-ROBLES\n\nPelo Conselho\n\nO Presidente\n\nJ. FARNLEITNER\n\n(1) JO C 123 de 26. 4. 1996, p. 10 e JO C 103 de 2. 4. 1997, p. 11.\n\n(2) JO C 30 de 30. 1. 1997, p. 1.\n\n(3) JO C 337 de 11. 11. 1996, p. 67.\n\n(4) Parecer do Parlamento Europeu, de 13 de Novembro de 1996 (JO C 362 de 2. 12. 1996, p. 111), posição comum do Conselho, de 22 de Julho de 1997 (JO C 284 de 19. 9. 1997, p. 10) e decisão do Parlamento Europeu de 14 de Janeiro de 1998 (JO C 34 de 2. 2. 1998, p. 70). Decisão do Parlamento Europeu, de 15 de Julho de 1998 (JO C 292 de 21. 9. 1998). Decisão do Conselho, de 20 de Julho de 1998.\n\n(5) JO C 329 de 6. 12. 1993, p. 375.\n\n(6) JO C 165 de 17. 6. 1994, p. 1.\n\n(7) JO C 15 de 18. 1. 1994, p. 6.\n\n(8) JO C 326 de 11. 12. 1992, p. 1.\n\n(9) JO L 95 de 16. 4. 1996, p. 16.\n\n(10) JO L 62 de 15. 3. 1993, p. 38.\n\n(11) JO L 281 de 23. 11. 1995, p. 31.\n\n(12) JO L 269 de 11. 11. 1995, p. 23.\n\n(13) JO C 102 de 4. 4. 1996, p. 1."
+  },
+  "4740fc4dd00e7b22": {
+   "fragment_id": "ANEXO — LISTA INDICATIVA DAS CATEGORIAS DE DOENÇAS TRANSMISSÍVEIS",
+   "type": "divisao",
+   "heading": "ANEXO — LISTA INDICATIVA DAS CATEGORIAS DE DOENÇAS TRANSMISSÍVEIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — LISTA INDICATIVA DAS CATEGORIAS DE DOENÇAS TRANSMISSÍVEIS\n\n- Doenças de prevenção vacinal\n\n- Doenças sexualmente transmissíveis\n\n- Hepatites virais\n\n- Doenças de origem alimentar\n\n- Doenças de origem hídrica e ambiental\n\n- Infecções nosocomiais\n\n- Outras doenças transmissíveis por agentes não convencionais (incluindo a doença de Creutzfeldt-Jacob)\n\n- Doenças fixadas no Regulamento Sanitário Internacional (febre amarela, cólera, peste)\n\n- Outras doenças (raiva, tifo exantemático, febres hemorrágicas virais, paludismo e qualquer outra doença epidémica grave ainda não classificada, etc.)\n\nDeclaração da Comissão\n\nA Comissão prestará especial atenção à criação de uma estrutura correctamente identificada e dotada de pessoal suficiente para garantir a aplicação da decisão, tendo em conta os recursos disponíveis."
+  },
+  "856ff2e13e8fb239": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Setembro de 1998\n\nque institui uma rede de vigilância epidemiológica e de controlo das doenças transmissíveis na Comunidade\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente o seu artigo 129.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 189.º-B do Tratado CE ([^4^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#E0004)), tendo em conta o projecto comum aprovado em 27 de Maio de 1998 pelo Comité de Conciliação,\n\n(1) Considerando que a prevenção das doenças, principalmente dos grandes flagelos, constitui para a acção da Comunidade uma prioridade que necessita de uma abordagem global e coordenada dos Estados-membros;\n\n(2) Considerando que, na resolução sobre a política de saúde pública após Maastricht ([^5^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#E0005)), o Parlamento Europeu convidou a Comissão a criar uma rede transfronteiriça com a missão de encontrar definições concretas das doenças cuja declaração é obrigatória e de recolher, actualizar, analisar e divulgar os dados dos Estados-membros relativos a essas doenças, bem como de cooperar, nestes domínios, com os organismos nacionais e internacionais;\n\n(3) Considerando que, na Resolução, de 2 de Junho de 1994, relativa ao quadro de acção da Comunidade no domínio da saúde pública ([^6^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#E0006)), o Conselho acordou em que actualmente devia ser dada prioridade principalmente às doenças transmissíveis;\n\n(4) Considerando que, nas conclusões de 13 de Dezembro de 1993 ([^7^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#E0007)), o Conselho considera que deve ser criada, a nível comunitário, uma rede de vigilância e de controlo das doenças transmissíveis que tenha por objectivo principal a recolha de informações provenientes das redes de vigilância existentes nos Estados-membros;\n\n(5) Considerando que, nessas mesmas conclusões, o Conselho convida a Comissão a, nas suas propostas relativas ao quadro de acção no domínio da saúde pública, dedicar especial atenção à criação de uma rede epidemiológica na Comunidade, tendo em conta os trabalhos em curso e os dispositivos existentes a nível da Comunidade e dos Estados-membros, assegurando a comparabilidade e a compatibilidade dos dados;\n\n(6) Considerando que, na resolução, de 13 de Novembro de 1992, relativa ao controlo e à vigilância das doenças transmissíveis ([^8^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#E0008)), o Conselho e os ministros da Saúde dos Estados-membros reunidos no Conselho, salientam a necessidade de, no interior da Comunidade, aumentar a densidade e a eficácia das redes de vigilância das doenças transmissíveis existentes entre os Estados-membros (incluindo no domínio da informática), bem como de manter, criar ou reforçar a coordenação entre elas a fim de vigiar os focos de doenças transmissíveis sempre que tal possa representar uma mais valia em relação às medidas existentes;\n\n(7) Considerando que, nessa mesma resolução, o Conselho e os ministros da Saúde, reunidos no Conselho, sublinham a utilidade de se reunirem os dados recolhidos nos Estados-membros sobre um número limitado de doenças raras e graves cujo estudo epidemiológico exige grande número de amostras;\n\n(8) Considerando que, nessa mesma resolução, o Conselho e os ministros da Saúde, reunidos no Conselho, convidam a Comissão a analisar a oportunidade de efectuar certas propostas prioritárias adequadas em matéria de controlo e de vigilância das doenças transmissíveis, tendo em conta, entre outros critérios, a estimativa da sua relação custo-eficácia;\n\n(9) Considerando que, em conformidade com o princípio de subsidiariedade, qualquer nova medida num domínio que não seja da competência exclusiva da Comunidade, como a vigilância epidemiológica e o controlo das doenças transmissíveis, apenas pode ser adoptada pela Comunidade no caso de, devido à sua dimensão ou aos seus efeitos, os objectivos da acção prevista poderem ser melhor alcançados à escala comunitária do que pelos Estados-membros;\n\n(10) Considerando que os diferentes níveis e necessidades de vigilância epidemiológica das doenças transmissíveis nos Estados-membros tornam necessária a criação de uma rede permanente a nível comunitário;\n\n(11) Considerando que as medidas a tomar em matéria de saúde devem ter em conta as outras acções empreendidas pela Comunidade no domínio da saúde pública ou com impacto neste domínio;\n\n(12) Considerando que as medidas a tomar no contexto da presente decisão deverão ser adoptadas com exclusão de qualquer harmonização das disposições legislativas e regulamentares dos Estados-membros;\n\n(13) Considerando que a Decisão n.º 647/96/CE do Parlamento Europeu e do Conselho, de 29 de Março de 1996, relativa à adopção de um programa de acção comunitária relativo à prevenção da sida e de outras doenças transmissíveis no âmbito da acção no domínio da saúde pública (1996-2000) ([^9^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#E0009)), prevê um certo número de acções comunitárias destinadas, designadamente, à criação e ao desenvolvimento de redes de vigilância e de controlo de certas doenças transmissíveis, à detecção precoce dessas doenças transmissíveis, assim como à promoção da formação de epidemiologistas de terreno;\n\n(14) Considerando que deve ser incentivada a cooperação com as organizações internacionais competentes, em particular com a Organização Mundial da Saúde, nomeadamente no que se refere à classificação das doenças, incluindo a utilização de uma linguagem e de uma tecnologia adequadas;\n\n(15) Considerando que deve ser apoiada a cooperação com os países terceiros, nomeadamente em caso de aparecimento ou de ressurgimento de doenças transmissíveis graves;\n\n(16) Considerando que o aparecimento ou o ressurgimento recentes de doenças transmissíveis graves demonstrou que, em caso de situação de emergência, a Comissão deve receber rapidamente todos os dados e informações necessários recolhidos segundo uma metodologia acordada;\n\n(17) Considerando que, em situações de emergência, os Estados-membros devem trocar imediatamente, através da rede comunitária, os dados e informações úteis, a fim de garantir a protecção da população; que deve ser dada sempre prioridade à protecção da saúde pública;\n\n(18) Considerando que o disposto na Directiva 92/117/CEE do Conselho, de 17 de Dezembro de 1992, relativa às medidas de protecção contra as zoonoses e certos agentes zoonóticos em animais e produtos de origem animal a fim de evitar focos de infecção e de intoxicação de origem alimentar ([^10^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#E0010)), se aplica também às informações relacionadas com as zoonoses que afectam os seres humanos; que a referida directiva estabelece um processo de recolha e transmissão de informações relativas a um certo número de zoonoses e de agentes zoonóticos;\n\n(19) Considerando que a criação de uma rede de vigilância epidemiológica e de controlo das doenças transmissíveis a nível comunitário pressupõe imperativamente o respeito pelas disposições legais em matéria de protecção das pessoas singulares no que diz respeito ao tratamento dos dados pessoais e a criação de dispositivos que garantam a sua confidencialidade e segurança; que, nesta matéria, o Parlamento Europeu e o Conselho adoptaram a Directiva 95/46/CE ([^11^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#E0011));\n\n(20) Considerando que os projectos comunitários no domínio do intercâmbio telemático de dados entre administrações (IDA) ([^12^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#E0012)) e os projectos do G7 deverão ser intimamente coordenados com a aplicação das acções comunitárias em matéria de vigilância epidemiológica e de controlo das doenças transmissíveis;\n\n(21) Considerando os esforços que estão a ser desenvolvidos para incentivar a cooperação internacional nesta matéria, nomeadamente através do plano de acção conjunto com os Estados Unidos da América;\n\n(22) Considerando que é importante que, numa situação de emergência, as estruturas e/ou autoridades nacionais competentes reforcem a sua cooperação, designadamente no domínio da identificação de amostras biológicas;\n\n(23) Considerando que os processos comunitários que podem ser criados tendo em vista o intercâmbio rápido de informações não afectam os direitos nem as obrigações dos Estados-membros por força de acordos ou convenções bilaterais e multilaterais;\n\n(24) Considerando que é necessário estabelecer um procedimento que promova a coordenação entre os Estados-membros das medidas que estes possam vir a decidir tomar para controlar a propagação de doenças transmissíveis; que a adopção e a aplicação dessas medidas é da competência exclusiva dos Estados-membros;\n\n(25) Considerando que é importante que a Comissão assegure o funcionamento da rede comunitária em estreita colaboração com os Estados-membros; que, para o efeito, é necessário prever um processo que permita assegurar a participação plena dos Estados-membros no funcionamento;\n\n(26) Considerando que os custos que poderá comportar o funcionamento da rede a nível comunitário deverão ser suportados por recursos comunitários e/ou por programas comunitários relevantes;\n\n(27) Considerando que os custos que poderá comportar o funcionamento da rede a nível nacional deverão ser financiados pelos próprios Estados-membros, salvo disposições comunitárias em sentido contrário;\n\n(28) Considerando que, em 20 de Dezembro de 1994, se concluiu um *modus vivendi* entre o Parlamento Europeu, o Conselho e a Comissão em matéria de medidas de execução dos actos adoptados pelo procedimento previsto no artigo 189.º B do Tratado ([^13^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#E0013)),\n\nADOPTARAM A PRESENTE DECISÃO:"
+  },
+  "df23abc777c19c99": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente decisão tem por objecto instituir uma rede a nível comunitário para fomentar a cooperação e a coordenação entre os Estados-membros, com o apoio da Comissão, a fim de melhorar a prevenção e o controlo na Comunidade das categorias de doenças transmissíveis enumeradas no anexo. Essa rede será utilizada para:\n\n— a vigilância epidemiológica dessas doenças, e\n\n— um sistema de alerta rápido e resposta com vista à prevenção e ao controlo dessas doenças.\n\nNo que respeita à vigilância epidemiológica, a rede será instituída através de uma ligação permanente, por todos os meios técnicos apropriados, entre a Comissão e as estruturas e/ou autoridades que, a nível de cada Estado-membro e sob a responsabilidade deste, são competentes a nível nacional e têm a seu cargo a recolha de informações respeitantes à vigilância epidemiológica das doenças transmissíveis, bem como através da definição de processos de divulgação dos dados pertinentes relativos à vigilância a nível comunitário.\n\nNo que respeita ao sistema de alerta rápido e resposta, essa rede será formada através de uma ligação permanente, pelos meios apropriados, entre a Comissão e as autoridades sanitárias de cada Estado-membro responsáveis pela determinação das medidas que possam ser necessárias para a protecção da saúde pública.\n\nA Comissão coordenará a rede em colaboração com os Estados-membros."
+  },
+  "f91ee33962aedb76": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente decisão, entende-se por:\n\n1. «Vigilância epidemiológica», a recolha, análise, interpretação e divulgação sistemáticas e contínuas de dados sanitários, incluindo os estudos epidemiológicos, relativos às categorias de doenças transmissíveis enumeradas no anexo, nomeadamente o padrão de propagação destas doenças no tempo e no espaço e a análise dos factores de risco de as contrair, a fim de se poder adoptar as medidas de prevenção e de combate apropriadas;\n\n2. «Prevenção e controlo das doenças transmissíveis», o conjunto das medidas, incluindo as investigações epidemiológicas, adoptadas pelas autoridades sanitárias competentes dos Estados-membros com o objectivo de prevenir e conter a propagação das doenças transmissíveis;\n\n3. «Rede comunitária», a rede de vigilância epidemiológica e de controlo das doenças transmissíveis, ou seja o sistema de intercâmbio das informações necessárias para realizar as actividades referidas nos pontos 1 e 2."
+  },
+  "9cc0d6bcfabafbc3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara garantir o funcionamento eficaz da rede comunitária no que diz respeito à vigilância epidemiológica e para se conseguir uma informação homogénea nesse âmbito, os seguintes elementos serão determinados nos termos do artigo 7.º:\n\na) Doenças transmissíveis que deverão ser progressivamente abrangidas pela rede comunitária;\n\nb) Critérios de selecção dessas doenças, tendo em conta as categorias enumeradas no anexo e as redes de colaboração existentes em matéria de vigilância das doenças que poderão servir de apoio;\n\nc) Definição dos casos, especialmente das características clínicas e microbiológicas;\n\nd) Natureza e tipo de dados e informações a recolher e transmitir pelas estruturas e/ou autoridades referidas no segundo parágrafo do artigo 1.º no contexto da vigilância epidemiológica, bem como os meios necessários para fazer com que tais dados sejam comparáveis e compatíveis;\n\ne) Métodos de vigilância epidemiológica e microbiológica;\n\nf) Recomendações sobre as medidas de protecção a adoptar, sobretudo nas fronteiras externas, nomeadamente em situações de emergência;\n\ng) Recomendações sobre informação e guias de práticas correctas para uso das populações;\n\nh) Meios técnicos adequados e procedimentos para a divulgação e análise dos dados a nível comunitário."
+  },
+  "7d01cd9d69c86aa0": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nCada estrutura e/ou autoridade referida no segundo ou terceiro parágrafo do artigo 1.º, conforme o caso, comunicará à rede comunitária:\n\na) Informações relativas ao aparecimento ou ao ressurgimento de casos de doenças transmissíveis referidas na alínea a) do artigo 3.º no Estado-membro a que pertence a referida estrutura e/ou autoridade, juntamente com a informação referente às medidas de controlo aplicadas;\n\nb) Todas as informações úteis relativas à evolução dos estados epidémicos em relação aos quais tem a responsabilidade de recolher informações;\n\nc) Informações relativas a fenómenos epidémicos insólitos ou a novas doenças transmissíveis de origem desconhecida;\n\nd) Todas as informações úteis de que disponha sobre:\n\n— casos de doenças transmissíveis abrangidas pelas categorias enumeradas no anexo,\n\n— novas doenças transmissíveis de origem desconhecida que tenham aparecido em países terceiros;\n\ne) Informações relativas aos mecanismos e procedimentos, existentes ou propostos, para a prevenção e o controlo das doenças transmissíveis, nomeadamente em situações de emergência;\n\nf) Todos os elementos de apreciação que possam ajudar os Estados-membros a coordenarem os seus esforços de prevenção e de controlo das doenças transmissíveis, incluindo as medidas de combate aplicadas."
+  },
+  "48b2ac979f18a15f": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA Comissão transmitirá as informações referidas no artigo 3.º a todas as estruturas e autoridades mencionadas no artigo 1.º Cada estrutura/autoridade deverá assegurar que a informação comunicada à rede, nos termos do artigo 4.º, será transmitida, sem demora, a todas as demais estruturas/autoridades participantes e à Comissão."
+  },
+  "68276826e542a971": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Com base nas informações disponíveis através da rede comunitária, os Estados-membros consultar-se-ão, em ligação com a Comissão, a fim de coordenarem os seus esforços de prevenção e de controlo das doenças transmissíveis.\n\n2. Sempre que um Estado-membro tencionar adoptar medidas de controlo de doenças transmissíveis, deverá, antes de adoptar tais medidas, informar os restantes Estados-membros e a Comissão, através da rede comunitária, sobre a natureza e o alcance daquelas medidas. O Estado-membro interessado deverá igualmente consultar os demais Estados-membros e a Comissão, através da rede comunitária, sobre a natureza e o alcance daquelas medidas, a menos que tal consulta se revele impossível tendo em conta a urgência da protecção da saúde pública.\n\n3. Sempre que um Estado-membro tenha de adoptar com carácter de urgência medidas de controlo para dar resposta ao aparecimento ou ao ressurgimento de doenças transmissíveis, informará logo que possível os restantes Estados-membros e a Comissão através da rede comunitária.\n\nEm casos específicos devidamente justificados, podem ser tomadas medidas apropriadas de prevenção e protecção, adoptadas de comum acordo entre Estados-membros em ligação com a Comissão, pelos Estados-membros que desejem.\n\n4. Com base nas consultas recíprocas e nas informações fornecidas, os Estados-membros coordenar-se-ão, em ligação com a Comissão, no que se refere às medidas que tenham adoptado ou tencionem adoptar a nível nacional.\n\n5. Os procedimentos respeitantes à informação e à consulta referidas nos n.^os^ 1, 2 e 3 e os procedimentos respeitantes à coordenação referida nos n.º 1 e 4 serão definidos nos termos do artigo 7.º"
+  },
+  "1e2fbe47dbcc0ca8": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Para efeitos de aplicação da presente decisão, a Comissão é assistida por um Comité.\n\n2. São aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^14^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#E0014)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "f751dddd98e073a1": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO anexo poderá ser alterado ou completado nos termos do artigo 7.º"
+  },
+  "d5f0cf252245ca41": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nCada Estado-membro designará, no prazo de seis meses a contar da entrada em vigor da presente decisão, as estruturas e/ou as autoridades referidas no segundo e terceiro parágrafos do artigo 1.º e do facto informará a Comissão e os restantes Estados-membros. As estruturas e/ou autoridades assim designadas serão indicadas publicamente pelos Estados-membros como fazendo parte da rede comunitária criada pela presente decisão."
+  },
+  "e54905c4db24a813": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nPara efeitos da presente decisão, as autoridades competentes dos Estados-membros e a Comissão fomentarão a cooperação com os países terceiros e as organizações internacionais competentes no domínio da saúde pública, em especial a Organização Mundial da Saúde."
+  },
+  "a23ee9b814103c33": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA presente decisão é aplicável sem prejuízo do disposto nas Directivas 92/117/CEE e 95/46/CE."
+  },
+  "235bb3ca62eee7a9": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. A presente decisão não afecta o direito de os Estados-membros manterem ou introduzirem outras disposições, procedimentos e medidas no que se refere aos respectivos sistemas nacionais de vigilância epidemiológica e de controlo das doenças transmissíveis.\n\n2. A presente decisão não afecta os direitos e as obrigações dos Estados-membros decorrentes de acordos ou convenções bilaterais ou multilaterais, vigentes ou futuros, no domínio abrangido pela presente decisão."
+  },
+  "4f41d38ae846e56a": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nCom a ajuda dos Estados-membros, a Comissão assegurará a coerência e complementaridade entre a presente decisão e os programas e iniciativas pertinentes da Comunidade, incluindo os que se inserem no domínio da saúde pública, assim como, designadamente, o programa-quadro de informação estatística, os projectos no domínio do intercâmbio telemático de dados entre administrações e o programa-quadro de investigação e desenvolvimento tecnológico, em especial as aplicações telemáticas deste último."
+  },
+  "2ea3decd270088c0": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. A Comissão apresentará ao Parlamento Europeu e ao Conselho relatórios periódicos de avaliação do funcionamento da rede comunitária.\n\n2. O primeiro relatório, a apresentar no prazo de três anos após a entrada em vigor da presente decisão, referirá em especial os elementos da rede comunitária que devem ser melhorados ou adaptados. Conterá igualmente qualquer proposta de alteração ou de adaptação da presente decisão que a Comissão entenda necessária.\n\n3. A Comissão procederá, depois disso, a uma avaliação da rede comunitária de cinco em cinco anos, conferindo especial atenção à sua capacidade estrutural e à utilização efectiva dos recursos, e deverá apresentar um relatório ao Parlamento Europeu e ao Conselho."
+  },
+  "730f12b0c919dec6": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA presente decisão entra em vigor em 3 de Janeiro de 1999."
+  },
+  "3de5a1d66f3437c6": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs Estados-membros são os destinatários da presente decisão."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "45b7401627a62efa": {
+   "fragment_id": "LISTA INDICATIVA DAS CATEGORIAS DE DOENÇAS TRANSMISSÍVEIS",
+   "type": "divisao",
+   "heading": "LISTA INDICATIVA DAS CATEGORIAS DE DOENÇAS TRANSMISSÍVEIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA INDICATIVA DAS CATEGORIAS DE DOENÇAS TRANSMISSÍVEIS\n\n— Doenças de prevenção vacinal\n\n— Doenças sexualmente transmissíveis\n\n— Hepatites virais\n\n— Doenças de origem alimentar\n\n— Doenças de origem hídrica e ambiental\n\n— Infecções nosocomiais\n\n— Outras doenças transmissíveis por agentes não convencionais (incluindo a doença de Creutzfeldt-Jacob)\n\n— Doenças transmissíveis susceptíveis de provocar situações de emergência de importância internacional, identificadas em conformidade com o anexo 2 do Regulamento Sanitário Internacional\n\n— Doenças transmitidas por vectores\n\n— Doenças zoonóticas\n\n— Outras doenças transmissíveis de importância para a saúde pública, incluindo doenças causadas por libertação deliberada.\n\n---"
+  },
+  "999f46246c7f8af5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#src.E0001)) JO C 123 de 26. 4. 1996, p. 10 e JO C 103 de 2. 4. 1997, p. 11.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#src.E0002)) JO C 30 de 30. 1. 1997, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#src.E0003)) JO C 337 de 11. 11. 1996, p. 67.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu, de 13 de Novembro de 1996 (JO C 362 de 2. 12. 1996, p. 111), posição comum do Conselho, de 22 de Julho de 1997 (JO C 284 de 19. 9. 1997, p. 10) e decisão do Parlamento Europeu de 14 de Janeiro de 1998 (JO C 34 de 2. 2. 1998, p. 70). Decisão do Parlamento Europeu, de 15 de Julho de 1998 (JO C 292 de 21. 9. 1998). Decisão do Conselho, de 20 de Julho de 1998.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#src.E0005)) JO C 329 de 6. 12. 1993, p. 375.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#src.E0006)) JO C 165 de 17. 6. 1994, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#src.E0007)) JO C 15 de 18. 1. 1994, p. 6.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#src.E0008)) JO C 326 de 11. 12. 1992, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#src.E0009)) JO L 95 de 16. 4. 1996, p. 16.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#src.E0010)) JO L 62 de 15. 3. 1993, p. 38.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#src.E0011)) JO L 281 de 23. 11. 1995, p. 31.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#src.E0012)) JO L 269 de 11. 11. 1995, p. 23.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#src.E0013)) JO C 102 de 4. 4. 1996, p. 1.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/13a83657-97b6-4a80-aa32-3b335bdf80be.0018.03/DOC_1#src.E0014)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "7b374a4f397f9270": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Setembro de 1998\n\nque institui uma rede de vigilância epidemiológica e de controlo das doenças transmissíveis na Comunidade\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente o seu artigo 129.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 189.º-B do Tratado CE ([^4^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#E0004)), tendo em conta o projecto comum aprovado em 27 de Maio de 1998 pelo Comité de Conciliação,\n\n(1) Considerando que a prevenção das doenças, principalmente dos grandes flagelos, constitui para a acção da Comunidade uma prioridade que necessita de uma abordagem global e coordenada dos Estados-membros;\n\n(2) Considerando que, na resolução sobre a política de saúde pública após Maastricht ([^5^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#E0005)), o Parlamento Europeu convidou a Comissão a criar uma rede transfronteiriça com a missão de encontrar definições concretas das doenças cuja declaração é obrigatória e de recolher, actualizar, analisar e divulgar os dados dos Estados-membros relativos a essas doenças, bem como de cooperar, nestes domínios, com os organismos nacionais e internacionais;\n\n(3) Considerando que, na Resolução, de 2 de Junho de 1994, relativa ao quadro de acção da Comunidade no domínio da saúde pública ([^6^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#E0006)), o Conselho acordou em que actualmente devia ser dada prioridade principalmente às doenças transmissíveis;\n\n(4) Considerando que, nas conclusões de 13 de Dezembro de 1993 ([^7^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#E0007)), o Conselho considera que deve ser criada, a nível comunitário, uma rede de vigilância e de controlo das doenças transmissíveis que tenha por objectivo principal a recolha de informações provenientes das redes de vigilância existentes nos Estados-membros;\n\n(5) Considerando que, nessas mesmas conclusões, o Conselho convida a Comissão a, nas suas propostas relativas ao quadro de acção no domínio da saúde pública, dedicar especial atenção à criação de uma rede epidemiológica na Comunidade, tendo em conta os trabalhos em curso e os dispositivos existentes a nível da Comunidade e dos Estados-membros, assegurando a comparabilidade e a compatibilidade dos dados;\n\n(6) Considerando que, na resolução, de 13 de Novembro de 1992, relativa ao controlo e à vigilância das doenças transmissíveis ([^8^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#E0008)), o Conselho e os ministros da Saúde dos Estados-membros reunidos no Conselho, salientam a necessidade de, no interior da Comunidade, aumentar a densidade e a eficácia das redes de vigilância das doenças transmissíveis existentes entre os Estados-membros (incluindo no domínio da informática), bem como de manter, criar ou reforçar a coordenação entre elas a fim de vigiar os focos de doenças transmissíveis sempre que tal possa representar uma mais valia em relação às medidas existentes;\n\n(7) Considerando que, nessa mesma resolução, o Conselho e os ministros da Saúde, reunidos no Conselho, sublinham a utilidade de se reunirem os dados recolhidos nos Estados-membros sobre um número limitado de doenças raras e graves cujo estudo epidemiológico exige grande número de amostras;\n\n(8) Considerando que, nessa mesma resolução, o Conselho e os ministros da Saúde, reunidos no Conselho, convidam a Comissão a analisar a oportunidade de efectuar certas propostas prioritárias adequadas em matéria de controlo e de vigilância das doenças transmissíveis, tendo em conta, entre outros critérios, a estimativa da sua relação custo-eficácia;\n\n(9) Considerando que, em conformidade com o princípio de subsidiariedade, qualquer nova medida num domínio que não seja da competência exclusiva da Comunidade, como a vigilância epidemiológica e o controlo das doenças transmissíveis, apenas pode ser adoptada pela Comunidade no caso de, devido à sua dimensão ou aos seus efeitos, os objectivos da acção prevista poderem ser melhor alcançados à escala comunitária do que pelos Estados-membros;\n\n(10) Considerando que os diferentes níveis e necessidades de vigilância epidemiológica das doenças transmissíveis nos Estados-membros tornam necessária a criação de uma rede permanente a nível comunitário;\n\n(11) Considerando que as medidas a tomar em matéria de saúde devem ter em conta as outras acções empreendidas pela Comunidade no domínio da saúde pública ou com impacto neste domínio;\n\n(12) Considerando que as medidas a tomar no contexto da presente decisão deverão ser adoptadas com exclusão de qualquer harmonização das disposições legislativas e regulamentares dos Estados-membros;\n\n(13) Considerando que a Decisão n.º 647/96/CE do Parlamento Europeu e do Conselho, de 29 de Março de 1996, relativa à adopção de um programa de acção comunitária relativo à prevenção da sida e de outras doenças transmissíveis no âmbito da acção no domínio da saúde pública (1996-2000) ([^9^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#E0009)), prevê um certo número de acções comunitárias destinadas, designadamente, à criação e ao desenvolvimento de redes de vigilância e de controlo de certas doenças transmissíveis, à detecção precoce dessas doenças transmissíveis, assim como à promoção da formação de epidemiologistas de terreno;\n\n(14) Considerando que deve ser incentivada a cooperação com as organizações internacionais competentes, em particular com a Organização Mundial da Saúde, nomeadamente no que se refere à classificação das doenças, incluindo a utilização de uma linguagem e de uma tecnologia adequadas;\n\n(15) Considerando que deve ser apoiada a cooperação com os países terceiros, nomeadamente em caso de aparecimento ou de ressurgimento de doenças transmissíveis graves;\n\n(16) Considerando que o aparecimento ou o ressurgimento recentes de doenças transmissíveis graves demonstrou que, em caso de situação de emergência, a Comissão deve receber rapidamente todos os dados e informações necessários recolhidos segundo uma metodologia acordada;\n\n(17) Considerando que, em situações de emergência, os Estados-membros devem trocar imediatamente, através da rede comunitária, os dados e informações úteis, a fim de garantir a protecção da população; que deve ser dada sempre prioridade à protecção da saúde pública;\n\n(18) Considerando que o disposto na Directiva 92/117/CEE do Conselho, de 17 de Dezembro de 1992, relativa às medidas de protecção contra as zoonoses e certos agentes zoonóticos em animais e produtos de origem animal a fim de evitar focos de infecção e de intoxicação de origem alimentar ([^10^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#E0010)), se aplica também às informações relacionadas com as zoonoses que afectam os seres humanos; que a referida directiva estabelece um processo de recolha e transmissão de informações relativas a um certo número de zoonoses e de agentes zoonóticos;\n\n(19) Considerando que a criação de uma rede de vigilância epidemiológica e de controlo das doenças transmissíveis a nível comunitário pressupõe imperativamente o respeito pelas disposições legais em matéria de protecção das pessoas singulares no que diz respeito ao tratamento dos dados pessoais e a criação de dispositivos que garantam a sua confidencialidade e segurança; que, nesta matéria, o Parlamento Europeu e o Conselho adoptaram a Directiva 95/46/CE ([^11^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#E0011));\n\n(20) Considerando que os projectos comunitários no domínio do intercâmbio telemático de dados entre administrações (IDA) ([^12^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#E0012)) e os projectos do G7 deverão ser intimamente coordenados com a aplicação das acções comunitárias em matéria de vigilância epidemiológica e de controlo das doenças transmissíveis;\n\n(21) Considerando os esforços que estão a ser desenvolvidos para incentivar a cooperação internacional nesta matéria, nomeadamente através do plano de acção conjunto com os Estados Unidos da América;\n\n(22) Considerando que é importante que, numa situação de emergência, as estruturas e/ou autoridades nacionais competentes reforcem a sua cooperação, designadamente no domínio da identificação de amostras biológicas;\n\n(23) Considerando que os processos comunitários que podem ser criados tendo em vista o intercâmbio rápido de informações não afectam os direitos nem as obrigações dos Estados-membros por força de acordos ou convenções bilaterais e multilaterais;\n\n(24) Considerando que é necessário estabelecer um procedimento que promova a coordenação entre os Estados-membros das medidas que estes possam vir a decidir tomar para controlar a propagação de doenças transmissíveis; que a adopção e a aplicação dessas medidas é da competência exclusiva dos Estados-membros;\n\n(25) Considerando que é importante que a Comissão assegure o funcionamento da rede comunitária em estreita colaboração com os Estados-membros; que, para o efeito, é necessário prever um processo que permita assegurar a participação plena dos Estados-membros no funcionamento;\n\n(26) Considerando que os custos que poderá comportar o funcionamento da rede a nível comunitário deverão ser suportados por recursos comunitários e/ou por programas comunitários relevantes;\n\n(27) Considerando que os custos que poderá comportar o funcionamento da rede a nível nacional deverão ser financiados pelos próprios Estados-membros, salvo disposições comunitárias em sentido contrário;\n\n(28) Considerando que, em 20 de Dezembro de 1994, se concluiu um *modus vivendi* entre o Parlamento Europeu, o Conselho e a Comissão em matéria de medidas de execução dos actos adoptados pelo procedimento previsto no artigo 189.º B do Tratado ([^13^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#E0013)),\n\nADOPTARAM A PRESENTE DECISÃO:"
+  },
+  "7b8fe6ae6eb713ac": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n[**►M4**](http://publications.europa.eu/resource/celex/32009R0596) Para garantir o funcionamento eficaz da rede comunitária no que diz respeito à vigilância epidemiológica e para se conseguir uma informação homogénea nesse âmbito, os seguintes elementos serão determinados pela Comissão:**◄**\n\na) Doenças transmissíveis que deverão ser progressivamente abrangidas pela rede comunitária;\n\nb) Critérios de selecção dessas doenças, tendo em conta as categorias enumeradas no anexo e as redes de colaboração existentes em matéria de vigilância das doenças que poderão servir de apoio;\n\nc) Definição dos casos, especialmente das características clínicas e microbiológicas;\n\nd) Natureza e tipo de dados e informações a recolher e transmitir pelas estruturas e/ou autoridades referidas no segundo parágrafo do artigo 1.º no contexto da vigilância epidemiológica, bem como os meios necessários para fazer com que tais dados sejam comparáveis e compatíveis;\n\ne) Métodos de vigilância epidemiológica e microbiológica;\n\nf) Recomendações sobre as medidas de protecção a adoptar, sobretudo nas fronteiras externas, nomeadamente em situações de emergência;\n\ng) Recomendações sobre informação e guias de práticas correctas para uso das populações;\n\nh) Meios técnicos adequados e procedimentos para a divulgação e análise dos dados a nível comunitário.\n\nAs medidas referidas nas alíneas a), b) e e), que têm por objecto alterar elementos não essenciais da presente decisão, nomeadamente completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 7.º. Por imperativos de urgência, a Comissão pode recorrer ao procedimento de urgência referido no n.º 4 do artigo 7.º.\n\nAs medidas referidas nas alíneas c), d), f), g) e h) são aprovadas pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 7.º."
+  },
+  "a1edcf3f06442a2f": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Com base nas informações disponíveis através da rede comunitária, os Estados-membros consultar-se-ão, em ligação com a Comissão, a fim de coordenarem os seus esforços de prevenção e de controlo das doenças transmissíveis.\n\n2. Sempre que um Estado-membro tencionar adoptar medidas de controlo de doenças transmissíveis, deverá, antes de adoptar tais medidas, informar os restantes Estados-membros e a Comissão, através da rede comunitária, sobre a natureza e o alcance daquelas medidas. O Estado-membro interessado deverá igualmente consultar os demais Estados-membros e a Comissão, através da rede comunitária, sobre a natureza e o alcance daquelas medidas, a menos que tal consulta se revele impossível tendo em conta a urgência da protecção da saúde pública.\n\n3. Sempre que um Estado-membro tenha de adoptar com carácter de urgência medidas de controlo para dar resposta ao aparecimento ou ao ressurgimento de doenças transmissíveis, informará logo que possível os restantes Estados-membros e a Comissão através da rede comunitária.\n\nEm casos específicos devidamente justificados, podem ser tomadas medidas apropriadas de prevenção e protecção, adoptadas de comum acordo entre Estados-membros em ligação com a Comissão, pelos Estados-membros que desejem.\n\n4. Com base nas consultas recíprocas e nas informações fornecidas, os Estados-membros coordenar-se-ão, em ligação com a Comissão, no que se refere às medidas que tenham adoptado ou tencionem adoptar a nível nacional.\n\n5. Os procedimentos respeitantes à informação e à consulta referidas nos n.^os^ 1, 2 e 3 e os procedimentos respeitantes à coordenação referida nos n.^os^ 1 e 4 são definidos pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 7.º."
+  },
+  "00386e332f01ead5": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Para efeitos de aplicação da presente decisão, a Comissão é assistida por um Comité.\n\n2. São aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^14^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#E0014)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º.\n\n4. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1, 2, 4 e 6 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º."
+  },
+  "24aba749ef765045": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO anexo pode ser alterado ou completado pela Comissão. Estas medidas, que têm por objecto alterar elementos não essenciais da presente decisão, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 7.º. Por imperativos de urgência, a Comissão pode recorrer ao procedimento de urgência referido no n.º 4 do artigo 7.º.."
+  },
+  "88452b6796eb1220": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#src.E0001)) JO C 123 de 26. 4. 1996, p. 10 e JO C 103 de 2. 4. 1997, p. 11.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#src.E0002)) JO C 30 de 30. 1. 1997, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#src.E0003)) JO C 337 de 11. 11. 1996, p. 67.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu, de 13 de Novembro de 1996 (JO C 362 de 2. 12. 1996, p. 111), posição comum do Conselho, de 22 de Julho de 1997 (JO C 284 de 19. 9. 1997, p. 10) e decisão do Parlamento Europeu de 14 de Janeiro de 1998 (JO C 34 de 2. 2. 1998, p. 70). Decisão do Parlamento Europeu, de 15 de Julho de 1998 (JO C 292 de 21. 9. 1998). Decisão do Conselho, de 20 de Julho de 1998.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#src.E0005)) JO C 329 de 6. 12. 1993, p. 375.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#src.E0006)) JO C 165 de 17. 6. 1994, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#src.E0007)) JO C 15 de 18. 1. 1994, p. 6.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#src.E0008)) JO C 326 de 11. 12. 1992, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#src.E0009)) JO L 95 de 16. 4. 1996, p. 16.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#src.E0010)) JO L 62 de 15. 3. 1993, p. 38.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#src.E0011)) JO L 281 de 23. 11. 1995, p. 31.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#src.E0012)) JO L 269 de 11. 11. 1995, p. 23.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#src.E0013)) JO C 102 de 4. 4. 1996, p. 1.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/70fa8860-1e6a-4988-9c6e-c34b3015347a.0018.03/DOC_1#src.E0014)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "8b397a6d04c8cfee": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01998D2119 — PT — 06.11.2013 — 005.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31998D2119) [DECISÃO N.º 2119/98/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/31998D2119) [de 24 de Setembro de 1998](http://publications.europa.eu/resource/celex/31998D2119) [que institui uma rede de vigilância epidemiológica e de controlo das doenças transmissíveis na Comunidade](http://publications.europa.eu/resource/celex/31998D2119) (JO L 268, 3.10.1998, p.1)\n\n**revogado por:**\n\n- [Decisão n.o 1082/2013/UE do Parlamento Europeu e do Conselho de 22 de outubro de 2013](http://publications.europa.eu/resource/celex/32013D1082) — L 293 — 1 — 5.11.2013"
+  }
+ }
+}

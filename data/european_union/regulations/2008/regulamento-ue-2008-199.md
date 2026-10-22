@@ -35,6 +35,70 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-07-10'
+version_history:
+  file: regulamento-ue-2008-199.versoes.json
+  count: 3
+  source_lastmod: '2017-07-10'
+  versions:
+  - date: '2008-03-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-03-12'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Programa comunitário
+    - Altera Artigo 8.º — Assistência financeira comunitária
+    - Altera Artigo 15.º — Dados abrangidos
+    - Altera Artigo 29.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO
+  - date: '2017-07-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPITULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Definições
+    - Suprime CAPITULO II
+    - Suprime RECOLHA, GESTÃO E UTILIZAÇÃO DE DADOS NO ÂMBITO DE PROGRAMAS PLURIANUAIS
+    - Suprime SECÇÃO 1
+    - Suprime Programa comunitário e programas nacionais
+    - Suprime Artigo 3.º — Programa comunitário
+    - Suprime Artigo 4.º — Programas nacionais
+    - Suprime Artigo 5.º — Coordenação e cooperação
+    - Suprime Artigo 6.º — Avaliação e aprovação dos programas nacionais
+    - Suprime Artigo 7.º — Avaliação e aprovação dos resultados dos programas nacionais
+    - Suprime Artigo 8.º — Assistência financeira comunitária
+    - Suprime SECÇÃO 2
+    - Suprime Exigências aplicáveis ao processo de recolha de dados
+    - Suprime Artigo 9.º — Programas de amostragem
+    - Suprime Artigo 10.º — Acesso aos locais de amostragem
+    - Suprime Artigo 11.º — Supervisão no mar da pesca comercial e recreativa
+    - Suprime Artigo 12.º — Inquéritos de investigação no mar
+    - Suprime CAPITULO III
+    - Suprime PROCESSO DE GESTÃO DOS DADOS
+    - Suprime Artigo 13.º — Armazenamento dos dados
+    - Suprime Artigo 14.º — Controlo da qualidade e validação dos dados
+    - Suprime CAPITULO IV
+    - Suprime UTILIZAÇÃO DOS DADOS RECOLHIDOS NO CONTEXTO DA PCP
+    - Suprime Artigo 15.º — Dados abrangidos
+    - Suprime Artigo 16.º — Acesso e transmissão dos dados primários
+    - Suprime Artigo 17.º — Tratamento dos dados primários
+    - Suprime Artigo 18.º — Apresentação dos dados pormenorizados e agregados
+    - Suprime Artigo 19.º — Transmissão dos dados pormenorizados e agregados
+    - Suprime Artigo 20.º — Procedimento de transmissão dos dados pormenorizados e agregados
+    - Suprime Artigo 21.º — Análise das situações de recusa do fornecimento de dados
+    - Suprime Artigo 22.º — Obrigações dos utilizadores finais
+    - Suprime CAPITULO V
+    - Suprime APOIO AO ACONSELHAMENTO CIENTÍFICO
+    - Suprime Artigo 23.º — Participação em reuniões de organismos internacionais
+    - Suprime Artigo 24.º — Coordenação e cooperação
+    - Suprime CAPITULO VI
 identifiers:
   celex: 32008R0199
   eli: http://data.europa.eu/eli/reg/2008/199/oj
@@ -49,7 +113,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e67dbad9-5ce7-4ec8-bbb0-51f52edab45d.0018
   content_url: http://publications.europa.eu/resource/cellar/10c24e24-5917-4be0-b954-2f7b1e03f2e8.0014.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0199-20170710
-  retrieved_at: '2026-10-22T02:58:55Z'
+  retrieved_at: '2026-10-22T15:13:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T19:44:53.465+01:00'
 integrity:
@@ -58,9 +122,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:55Z'
-  notes: Texto consolidado 02008R0199-20170710.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:13:48Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2008-199.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -201,16 +265,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:55Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:13:48Z'
+  warnings: []
   errors: []
 ---
 

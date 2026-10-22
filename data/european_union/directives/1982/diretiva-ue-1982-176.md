@@ -34,6 +34,37 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-12-22'
+version_history:
+  file: diretiva-ue-1982-176.versoes.json
+  count: 3
+  source_lastmod: '2012-12-22'
+  versions:
+  - date: '1982-03-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-13'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime ANEXO I — Valores-limite, prazos fixados para a entrada em vigor desses valores e procedimento de vigilância
+      e de controlo a aplicar às descargas
+    - Suprime ANEXO II — Objectivos de qualidade
+    - Suprime ANEXO III — Métodos padrão de análise
+    - Suprime ANEXO IV — Procedimento de controlo para os objectivos de qualidade
+  - date: '2012-12-22'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
 identifiers:
   celex: 31982L0176
   eli: http://data.europa.eu/eli/dir/1982/176/oj
@@ -48,7 +79,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9985e70e-134c-4179-95f2-8f2d2ce6095e.0011
   content_url: http://publications.europa.eu/resource/cellar/44845db6-bf71-450c-8a12-08abc1f05e18.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01982L0176-20121222
-  retrieved_at: '2026-10-22T02:43:56Z'
+  retrieved_at: '2026-10-22T14:33:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T11:22:50.230+01:00'
 integrity:
@@ -57,9 +88,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:56Z'
-  notes: Texto consolidado 01982L0176-20121222.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:33:36Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1982-176.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -128,16 +159,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:56Z'
+  checked_at: '2026-10-22T14:33:36Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01982L0176-19911223: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -1,0 +1,797 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004L0009:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0009-20190726",
+ "dre_path": null,
+ "source_lastmod": "2019-07-26",
+ "versions": [
+  {
+   "date": "2004-02-20",
+   "future": false,
+   "celex": "32004L0009",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "589f020b539f8f93",
+    "d80b45867e90fb32",
+    "6f25b237c9269650",
+    "c1823866b4b443ee",
+    "fb1114963cb65ecc",
+    "188695217748a355",
+    "0ac6ac8b6f63811b",
+    "2e9b535b204f7091",
+    "e05a7c96f0222378",
+    "14243252c8c2afdd",
+    "09ed7a6062c8740d",
+    "5541607758a7408a",
+    "12ae6c18a9916d9e",
+    "4e885a3c55de3a43",
+    "3ca673279ecee034",
+    "b7c95020023e4684"
+   ]
+  },
+  {
+   "date": "2009-04-20",
+   "future": false,
+   "celex": "02004L0009-20090420",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0219:por",
+     "title": "REGULAMENTO (CE) N. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009",
+     "published": null,
+     "celex": "32009R0219"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera ANEXO I",
+    "Adita PARTE A GUIA REVISTO PARA OS PROCEDIMENTOS DE VERIFICAÇÃO DO CUMPRIMENTO DAS BPL",
+    "Adita Definição de termos",
+    "Adita Elementos de verificação do cumprimento das boas práticas de laboratório (BPL)",
+    "Adita Confidencialidade",
+    "Adita Pessoal e formação",
+    "Adita Programas (nacionais) de cumprimento das BPL",
+    "Adita Sequência a dar às inspecções a instalações de ensaio e às auditorias a estudos",
+    "Adita Procedimentos de recurso",
+    "Adita PARTE B ORIENTAÇÕES PARA A REALIZAÇÃO DE INSPECÇÕES A INSTALAÇÕES DE ENSAIO E AUDITORIAS DE ESTUDOS",
+    "Adita Introdução",
+    "Adita Inspecções a instalações de ensaio",
+    "Adita Procedimento de inspecção",
+    "Adita Reunião inicial",
+    "Adita Organização e pessoal",
+    "Adita Programa de garantia da qualidade",
+    "Adita Instalações",
+    "Adita Cuidados a ter com os sistemas de ensaio biológicos e respectiva acomodação e confinamento",
+    "Adita Equipamentos, materiais, reagentes e espécimes",
+    "Adita Sistemas de ensaio",
+    "Adita Sistemas físicos e químicos",
+    "Adita Sistemas de ensaio biológicos",
+    "Adita Substâncias para ensaio e substâncias de referência",
+    "Adita Procedimentos habituais de funcionamento (PHF)",
+    "Adita Execução do estudo",
+    "Adita Relatório dos resultados dos estudos",
+    "Adita Armazenamento e conservação dos registos",
+    "Adita Auditorias a estudos",
+    "Adita Finalização da inspecção ou da auditoria de um estudo",
+    "Adita ANEXO II",
+    "Adita PARTE A",
+    "Adita PARTE B",
+    "Adita ANEXO III",
+    "Adita Notas",
+    "Suprime ANEXO II — PARTE A",
+    "Suprime PARTE B — PRAZOS DE TRANSPOSIÇÃO",
+    "Suprime ANEXO III — QUADRO DE CORRESPONDÊNCIA"
+   ],
+   "fragments": [
+    "ab618704a63d4317",
+    "6137412d46f87028",
+    "2c3d1d6df079753a",
+    "8e707e9b4f87c949",
+    "ee5f77150cd64c96",
+    "03d89671a2e160c8",
+    "8214433dcaa25ec7",
+    "0de94f640a299641",
+    "dc1bd8e19ad96a71",
+    "14243252c8c2afdd",
+    "82605ab005dcaed9",
+    "ce9fa090e4baa8eb",
+    "8649a3b01968c340",
+    "72b5d898c8d19891",
+    "e1e5327f159f7133",
+    "2ae931366d5f4669",
+    "738c460327b730ec",
+    "72e817c75a862f28",
+    "3a36391283873ceb",
+    "6ef6fca8de503bb7",
+    "368bff0247bfa969",
+    "24aaa19b74421153",
+    "398ff633e4dc3be7",
+    "3e554cb2b44c03f3",
+    "bd696e96add66205",
+    "01c6cb5fe6cf741e",
+    "074e0099fe6391bd",
+    "fe784454397f3ad7",
+    "2a95d72333d07217",
+    "2a05bb56c170e1e0",
+    "7eaf6c4c83435f48",
+    "93bd55ab6cee1785",
+    "f58c0fbdcc28e380",
+    "496d7c4f18a42471",
+    "d95832b4b25e83ea",
+    "0d28bfd857fe66c7",
+    "05e828b9331bd43d",
+    "62424f6804fd0202",
+    "b52400052cd6db1d",
+    "306f5bebfaf2456f",
+    "187877be32484f89",
+    "064472adcdbc3fd7",
+    "852174729551523b",
+    "8b18b2c106d0266e",
+    "2b311860bd39179e",
+    "41b0053c9a66477e",
+    "0ac2e3b62e143d6a"
+   ]
+  },
+  {
+   "date": "2019-07-26",
+   "future": false,
+   "celex": "02004L0009-20190726",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1243:por",
+     "title": "REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019",
+     "published": null,
+     "celex": "32019R1243"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera PARTE A",
+    "Altera PARTE B",
+    "Altera Notas",
+    "Adita Artigo 6.º-A",
+    "Adita GUIA REVISTO PARA OS PROCEDIMENTOS DE VERIFICAÇÃO DO CUMPRIMENTO DAS BPL",
+    "Adita ORIENTAÇÕES PARA A REALIZAÇÃO DE INSPECÇÕES A INSTALAÇÕES DE ENSAIO E AUDITORIAS DE ESTUDOS",
+    "Suprime PARTE A GUIA REVISTO PARA OS PROCEDIMENTOS DE VERIFICAÇÃO DO CUMPRIMENTO DAS BPL",
+    "Suprime PARTE B ORIENTAÇÕES PARA A REALIZAÇÃO DE INSPECÇÕES A INSTALAÇÕES DE ENSAIO E AUDITORIAS DE ESTUDOS"
+   ],
+   "fragments": [
+    "b5b56c48cdb37706",
+    "6137412d46f87028",
+    "2c3d1d6df079753a",
+    "8e707e9b4f87c949",
+    "ee5f77150cd64c96",
+    "03d89671a2e160c8",
+    "bb3c191c7afd8371",
+    "751e76920905caf6",
+    "2b315dee70aedbe0",
+    "b367d63c71c20149",
+    "14243252c8c2afdd",
+    "82605ab005dcaed9",
+    "ce9fa090e4baa8eb",
+    "8649a3b01968c340",
+    "87cee521b2f0bb1e",
+    "2a39b07d937315f8",
+    "e1e5327f159f7133",
+    "2ae931366d5f4669",
+    "738c460327b730ec",
+    "72e817c75a862f28",
+    "3a36391283873ceb",
+    "6ef6fca8de503bb7",
+    "368bff0247bfa969",
+    "6041be3baf7dcb43",
+    "5e99aba076cd89e9",
+    "398ff633e4dc3be7",
+    "3e554cb2b44c03f3",
+    "bd696e96add66205",
+    "01c6cb5fe6cf741e",
+    "074e0099fe6391bd",
+    "fe784454397f3ad7",
+    "2a95d72333d07217",
+    "2a05bb56c170e1e0",
+    "7eaf6c4c83435f48",
+    "93bd55ab6cee1785",
+    "f58c0fbdcc28e380",
+    "496d7c4f18a42471",
+    "d95832b4b25e83ea",
+    "0d28bfd857fe66c7",
+    "05e828b9331bd43d",
+    "62424f6804fd0202",
+    "b52400052cd6db1d",
+    "306f5bebfaf2456f",
+    "187877be32484f89",
+    "064472adcdbc3fd7",
+    "852174729551523b",
+    "8b18b2c106d0266e",
+    "2b311860bd39179e",
+    "41b0053c9a66477e",
+    "a292e108774018a1"
+   ]
+  }
+ ],
+ "fragments": {
+  "589f020b539f8f93": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2004/9/CE do Parlamento Europeu e do Conselho, de 11 de Fevereiro de 2004, relativa à inspecção e verificação das boas práticas de laboratório (BPL) (versão codificada) (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 050 de 20/02/2004 p. 0028 - 0043*\n\nDirectiva 2004/9/CE do Parlamento Europeu e do Conselho\n\nde 11 de Fevereiro de 2004\n\nrelativa à inspecção e verificação das boas práticas de laboratório (BPL)\n\n(versão codificada)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 95.o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu(1),\n\nDeliberando nos termos do artigo 251.o do Tratado(2),\n\nConsiderando o seguinte:\n\n(1) A Directiva 88/320/CEE do Conselho, de 7 de Junho de 1988, relativa à inspecção e verificação das boas práticas de laboratório (BPL)(3) foi por diversas vezes alterada de forma substancial. É conveniente, por motivos de lógica e clareza, proceder à codificação da referida directiva.\n\n(2) A aplicação de um modo de organização normalizado e de condições de planificação, execução, registo e divulgação dos estudos laboratoriais para ensaios não clínicos sobre produtos químicos, com vista à protecção do homem, dos animais e do ambiente, a seguir designado por \"boas práticas de laboratório\" (BPL), contribui para assegurar aos Estados-Membros a qualidade dos resultados de ensaios obtidos.\n\n(3) O Conselho da Organização de Cooperação e de Desenvolvimento Económicos (OCDE) adoptou, no anexo 2 da sua decisão de 12 de Maio de 1981, relativa à aceitação mútua de dados para a avaliação dos produtos químicos, princípios de boas práticas de laboratório aceites na Comunidade e especificados na Directiva 2004/10/CE do Parlamento Europeu e do Conselho, de 11 de Fevereiro de 2004, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à aplicação dos princípios de boas práticas de laboratório e ao controlo da sua aplicação para os ensaios sobre as substâncias químicas(4).\n\n(4) Na realização de ensaios sobre os produtos químicos, é desejável que os recursos em mão-de-obra especializada e em laboratórios de ensaio não sejam desperdiçados pela necessidade de repetir ensaios devido a diferenças nas práticas de laboratório entre os Estados-Membros. É o que deve passar-se nomeadamente no que respeita à protecção dos animais, que exige que se limite o número de experiências com animais, nos termos da Directiva 86/609/CEE do Conselho, de 24 de Novembro de 1986, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros respeitantes à protecção dos animais utilizados para fins experimentais e outros fins científicos(5). O reconhecimento mútuo dos resultados dos ensaios obtidos por utilização de métodos normalizados e reconhecidos é uma condição essencial para a redução do número de experiências executadas nesse domínio.\n\n(5) A fim de assegurar que os resultados de ensaios obtidos nos laboratórios de um Estado-Membro sejam também reconhecidos pelos outros Estados-Membros, é necessário prever um sistema harmonizado de verificação de estudos e de inspecção de laboratórios que garanta que estes últimos trabalham no respeito das BPL.\n\n(6) Os Estados-Membros designam as autoridades encarregadas de exercer o controlo de conformidade com as BPL.\n\n(7) Um comité constituído por membros nomeados pelos Estados-Membros auxiliaria a Comissão na aplicação técnica da presente directiva e participaria nos seus esforços para encorajar a livre circulação das mercadorias pelo reconhecimento mútuo pelos Estados-Membros dos processos de controlo de conformidade com as BPL. O comité instituído pela Directiva 67/548/CEE do Conselho, de 27 de Junho de 1967, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem de substâncias perigosas(6), pode ser utilizado para esse fim.\n\n(8) O referido comité pode, não só apoiar a Comissão na aplicação da presente directiva, mas também contribuir para a troca de informações e de experiências nesta matéria.\n\n(9) As medidas necessárias à execução à presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(7).\n\n(10) A presente directiva não deve prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição que constam da parte B do anexo II,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "d80b45867e90fb32": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva é aplicável à inspecção e verificação do modo de organização e às condições de planificação, execução, registo e divulgação de estudos laboratoriais para ensaios não clínicos, efectuados para efeitos de regulamentação dos produtos químicos (tais como cosméticos, produtos químicos industriais, produtos medicinais, aditivos alimentares, aditivos para alimentação animal, pesticidas) e destinados à avaliação dos efeitos desses produtos sobre o homem, os animais e o ambiente.\n\n2. Para os efeitos da presente directiva, entende-se por \"boas práticas de laboratório\" as práticas de laboratório de acordo com os princípios fixados na Directiva 2004/10/CE.\n\n3. A presente directiva não diz respeito à interpretação e avaliação dos resultados dos ensaios."
+  },
+  "6f25b237c9269650": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros controlarão, nos termos do artigo 3.o, a conformidade com as BPL por parte de qualquer laboratório situado no respectivo território que declare aplicar as BPL na realização de ensaios sobre produtos químicos.\n\n2. Cumprido o disposto no n.o 1 e sendo satisfatórios os resultados da inspecção e da verificação, o Estado-Membro em causa pode aprovar o laboratório, no que respeita ao cumprimento das BPL, utilizando a fórmula: \"Certificado de conformidade com as BPL, nos termos da Directiva 2004/10/CE, em...\"."
+  },
+  "c1823866b4b443ee": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros designam as autoridades encarregadas da inspecção dos laboratórios situados no seu território e da verificação dos estudos efectuados por laboratórios para avaliar da conformidade com as BPL.\n\n2. As autoridades referidas no n.o 1 inspeccionam os laboratórios e procedem às verificações de estudos em conformidade com o disposto no anexo I."
+  },
+  "fb1114963cb65ecc": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-Membros elaboram anualmente um relatório relativo à aplicação das BPL no seu território.\n\nEste relatório contém uma lista dos laboratórios inspeccionados, a data em que essa inspecção foi efectuada e um breve resumo das conclusões das inspecções.\n\n2. Os relatórios são transmitidos anualmente à Comissão, até 31 de Março. A Comissão comunica esses relatórios ao comité referido no n.o 1 do artigo 7.o O comité pode solicitar mais informações relativas aos elementos a que se refere o n.o 1 do presente artigo.\n\n3. Os Estados-Membros asseguram que as informações comercialmente sensíveis e outras informações confidenciais a que tenham acesso no âmbito das suas actividades de controlo de conformidade com as BPL sejam apenas comunicadas à Comissão, às autoridades nacionais de regulamentação e às autoridades designadas, bem como ao organismo que financie um laboratório ou um estudo e que esteja directamente envolvido numa inspecção ou numa verificação de estudos específica.\n\n4. Não são considerados confidenciais os nomes dos laboratórios submetidos a inspecção por uma autoridade designada, a sua situação no que se refere à conformidade com as BPL, ou as datas em que tiverem sido efectuadas as inspecções ou as verificações de estudos."
+  },
+  "188695217748a355": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Sem prejuízo do artigo 6.o, os resultados das inspecções de laboratórios e das verificações de estudos efectuadas por um Estado-Membro acerca da conformidade com as BPL são vinculativas para os outros Estados-Membros.\n\n2. Quando um Estado-Membro considerar que um laboratório, situado no seu território, que alegue respeitar as BPL, não as respeita de facto, por forma a que a seriedade ou a autenticidade dos estudos que efectua possam ficar comprometidas, informará imediatamente a Comissão desse facto. A Comissão informará os outros Estados-Membros."
+  },
+  "0ac6ac8b6f63811b": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Quando um Estado-Membro tiver boas razões para considerar que um laboratório, situado num outro Estado-Membro, que alegue o respeito das BPL não efectuou um determinado ensaio em conformidade com as BPL, pode pedir informações mais pormenorizadas a esse Estado-Membro e, nomeadamente, pedir a realização de uma verificação de estudos, eventualmente acompanhada de uma nova inspecção.\n\nSe não for possível chegar a um acordo, os Estados-Membros informarão imediatamente os outros Estados-Membros e a Comissão precisando as razões da sua decisão.\n\n2. A Comissão examina, logo que possível, as razões apresentadas pelos Estados-Membros no âmbito do comité previsto no n.o 1 do artigo 7.o, após o que adopta as medidas adequadas nos termos do n.o 2 do artigo 7.o A Comissão pode, para este efeito, solicitar o parecer de peritos das autoridades designadas pelos Estados-Membros.\n\n3. Se a Comissão considerar que, para regular os problemas referidos no n.o 1, são necessárias alterações à presente directiva, dará início ao processo previsto no n.o 2 do artigo 7.o, com vista a adoptar essas alterações."
+  },
+  "2e9b535b204f7091": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A Comissão é assistida pelo comité criado pelo artigo 29.o da Directiva 67/548/CEE, a seguir denominado \"comité\".\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.o\n\n3. O prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n4. O comité aprovará o seu regulamento interno."
+  },
+  "e05a7c96f0222378": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. O comité pode analisar qualquer questão que lhe seja apresentada pelo seu presidente, quer por iniciativa deste quer a pedido de um representante de um Estado-Membro, que incida sobre a aplicação da presente directiva, nomeadamente no que respeita:\n\n- à cooperação entre as autoridades designadas pelos Estados-Membros relativa aos aspectos técnicos e administrativos decorrentes da aplicação das BPL, e\n\n- à troca de informações sobre a formação dos inspectores.\n\n2. As alterações necessárias para a adaptação da fórmula referida no n.o 2 do artigo 2.o e do anexo I, para ter em conta os progressos técnicos, serão adoptadas nos termos do n.o 2 do artigo 7.o"
+  },
+  "14243252c8c2afdd": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nÉ revogada a Directiva 88/320/CEE, sem prejuízo das obrigações dos Estados-Membros em relação aos prazos de transposição que constam da parte B do anexo II.\n\nAs remissões feitas para a directiva revogada devem entender-se como feitas para a presente directiva e devem ler-se nos termos do quadro de correspondência que consta do anexo III."
+  },
+  "09ed7a6062c8740d": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA presente directiva entra em vigor 20 dias após o da sua publicação no Jornal Oficial da União Europeia."
+  },
+  "5541607758a7408a": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Estrasburgo, em 11 de Fevereiro de 2004.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nP. Cox\n\nPelo Conselho\n\nO Presidente\n\nM. McDowell\n\n(1) JO C 85 de 8.4.2003, p. 137.\n\n(2) Parecer do Parlamento Europeu de 1 de Julho de 2003 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 20 de Janeiro de 2004.\n\n(3) JO L 145 de 11.6.1988, p. 35. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1).\n\n(4) Ver página 44 do presente Jornal Oficial.\n\n(5) JO L 358 de 18.12.1986, p. 1.\n\n(6) JO L 196 de 16.8.1967, p. 1. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 807/2003 (JO L 122 de 16.5.2003, p. 36).\n\n(7) JO L 184 de 17.7.1999, p. 23."
+  },
+  "12ae6c18a9916d9e": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nAs disposições para a inspecção e verificação das BPL que são mencionadas nas partes A e B figuram no anexo I (guias relativos aos procedimentos de verificação do cumprimento das boas práticas de laboratório) e no anexo II (orientações para a condução de inspecções de instalações de ensaio e auditorias a estudos) da decisão-recomendação do Conselho da OCDE relativa à conformidade com os princípios de boas práticas de laboratório [C(89) 87 final] de 2 de Outubro de 1989, tal como revistas pela decisão do Conselho da OCDE \"Modificação dos anexos à decisão-recomendação do Conselho relativa à conformidade com os princípios de boas práticas de laboratório\" [C(95) 8 final] de 9 de Março de 1995.\n\nPARTE A GUIA REVISTO PARA OS PROCEDIMENTOS DE VERIFICAÇÃO DO CUMPRIMENTO DAS BPL\n\nA fim de facilitar a aceitação mútua dos dados de ensaios realizados para apresentação às autoridades regulamentares dos países membros da OCDE, é essencial harmonizar os procedimentos adoptados para verificar o cumprimento das boas práticas de laboratório (BPL), além de assegurar que a sua qualidade e rigor são comparáveis. O objectivo da parte A do presente anexo consiste em fornecer aos Estados-Membros uma orientação prática e pormenorizada sobre a estrutura, mecanismos e procedimentos que devem adoptar sempre que elaborem programas nacionais destinados a verificar o cumprimento das BPL, de modo a que esses programas sejam internacionalmente reconhecidos.\n\nOs Estados-Membros deverão adoptar os princípios das BPL e estabelecer procedimentos de verificação do seu cumprimento, de acordo com as práticas jurídicas e administrativas nacionais, bem como as suas prioridades, nomeadamente a extensão da cobertura inicial e subsequente no que respeita às categorias de produtos químicos e ao tipo de ensaio. Uma vez que os Estados-Membros, devido à sua estrutura legal de controlo dos produtos químicos, poderão estabelecer mais do que uma autoridade de acompanhamento das BPL, poderá elaborar-se mais do que um programa de cumprimento das BPL. A orientação apresentada infra diz respeito a cada uma dessas autoridades e a cada um desses programas, conforme adequado.\n\nDefinição de termos\n\nAs definições dos termos constantes dos princípios de boas práticas de laboratório da OCDE, adoptados no âmbito do artigo 1.o da Directiva 2004/10/CE, são aplicáveis à presente parte do presente anexo. Também se aplicam as seguintes definições:\n\n- princípios BPL: boas práticas de laboratório conformes com os \"Princípios de boas práticas de laboratório da OCDE\", adoptados no âmbito do artigo 1.o da Directiva 2004/10/CE,\n\n- verificação do cumprimento das BPL: inspecção periódica das instalações de ensaio e/ou a auditoria dos estudos com o objectivo de verificar a conformidade com os princípios BPL,\n\n- programa (nacional) de cumprimento das BPL: regime específico criado por um Estado-Membro para acompanhar o cumprimento das BPL, pelas instalações de ensaio do seu território, através de inspecções e de auditorias aos estudos realizados,\n\n- autoridade (nacional) de acompanhamento das BPL: organismo estabelecido num Estado-Membro com a responsabilidade de avaliar o cumprimento das BPL, pelas instalações de ensaio no seu território e se assim for determinado a nível nacional, desempenhar outras funções relacionadas com as BPL. Podem estabelecer-se vários organismos deste tipo num Estado-Membro,\n\n- inspecção de uma instalação de ensaio: verificação in situ dos procedimentos e práticas adoptados por uma determinada instalação de ensaio, de modo a avaliar o grau de cumprimento dos princípios BPL. Durante as inspecções serão analisadas as estruturas de gestão e os procedimentos operacionais da instalação de ensaio. Serão efectuadas entrevistas ao pessoal técnico com maior nível de responsabilidade e avaliadas e comunicadas a qualidade e integridade dos dados gerados na instalação de ensaio. No final será elaborado um relatório,\n\n- auditoria de estudo: comparação entre os dados em bruto e registos associados, por um lado, e o relatório intermédio ou final, por outro, de modo a determinar se os dados em bruto foram apresentados de forma rigorosa e os ensaios efectuados de acordo com o plano de estudos e com os procedimentos habituais de funcionamento. Tendo ainda o objectivo de obter informações complementares não apresentadas no relatório de estudo e verificar se, no tratamento dos dados, foram utilizadas práticas que poderiam prejudicar a sua validade,\n\n- inspector: pessoa que executa as inspecções das instalações de ensaio e as auditorias a estudos em nome da autoridade (nacional) de acompanhamento das BPL,\n\n- situação de cumprimento das BPL: nível de conformidade de uma instalação de ensaio com os princípios BPL, avaliado pela autoridade (nacional) de acompanhamento das BPL,\n\n- autoridade regulamentar: organismo nacional com responsabilidade jurídica relativamente a determinados aspectos do controlo dos produtos químicos.\n\nElementos de verificação do cumprimento das boas práticas de laboratório (BPL)\n\nOrganização\n\nUm programa (nacional) de cumprimento das BPL deve ser da responsabilidade de um organismo devidamente constituído, com estatuto legal, pessoal adequado e operando segundo um quadro administrativo definido.\n\nOs Estados-Membros devem:\n\n- assegurar que a autoridade (nacional) de acompanhamento das BPL seja directa ou indirectamente responsável por um grupo adequado de inspectores com as qualificações técnicas/científicas necessárias,\n\n- publicar documentos relacionados com a adopção de princípios BPL nos seus territórios,\n\n- publicar documentos que forneçam pormenores sobre o programa (nacional) de cumprimento das BPL, incluindo informações sobre a estrutura jurídica ou administrativa em cujo âmbito o programa opera, referências a actos, documentos normativos (por exemplo regulamentos, normas de conduta), manuais de inspecção, guias, periodicidade das inspecções e/ou critérios utilizados para a definição dos calendários de inspecção, etc.,\n\n- manter registos sobre as instalações de ensaio inspeccionadas (e a respectiva situação de cumprimento das BPL) e sobre os estudos sujeitos a \"auditoria de estudo\".\n\nConfidencialidade\n\nAs autoridades (nacionais) de acompanhamento das BPL terão acesso a informações com valor comercial e, ocasionalmente, poderão até ter necessidade de retirar de uma instalação de ensaio documentos comercialmente sensíveis ou de fazer referências pormenorizadas a esses documentos nos seus relatórios.\n\nOs Estados-Membros devem:\n\n- tomar providências para a manutenção da confidencialidade, não apenas por parte dos inspectores mas também por parte de toda e qualquer pessoa que tenha acesso a informações confidenciais resultantes de actividades de verificação do cumprimento das BPL,\n\n- garantir que os relatórios das inspecções de instalações de ensaio e as auditorias a estudos, excepto no caso de terem sido removidas todas as informações comercialmente sensíveis e confidenciais, sejam acessíveis apenas às autoridades regulamentadoras e, quando apropriado, às instalações de ensaio inspeccionadas ou relacionadas com os estudos sujeitos a auditoria e/ou aos patrocinadores desses mesmos estudos.\n\nPessoal e formação\n\nAs autoridades (nacionais) de acompanhamento das BPL devem:\n\n- Garantir que dispõem de um número adequado de inspectores.\n\nO número de inspectores necessários dependerá:\n\na) Do número de instalações de ensaio abrangidas pelo programa (nacional) de cumprimento das BPL;\n\nb) Da frequência com que vai ser verificado o cumprimento das BPL por parte das instalações de ensaio;\n\nc) Do número e da complexidade dos estudos realizados por essas instalações de ensaio;\n\nd) Do número de inspecções ou auditorias especiais pedidas pelas autoridades regulamentares.\n\n- Garantir a qualificação e formação adequadas dos inspectores.\n\nOs inspectores devem ter qualificações e experiência prática no domínio das disciplinas científicas relevantes para os ensaios de produtos químicos. As autoridades (nacionais) de acompanhamento das BPL devem:\n\na) Assegurar que são tomadas disposições para a formação adequada de inspectores no domínio das BPL, tendo em conta as suas qualificações e experiência individuais;\n\nb) Incentivar o intercâmbio de informação, incluindo, quando necessário, actividades de formação conjuntas com autoridades (nacionais) de acompanhamento das BPL noutros países membros da OCDE, de forma a promover a harmonização internacional da interpretação e aplicação dos princípios BPL e da verificação do cumprimento de tais princípios.\n\n- Assegurar que o pessoal envolvido nas inspecções, incluindo os eventuais peritos externos, não possui qualquer interesse financeiro ou de outro tipo nas instalações de ensaio inspeccionadas, nos estudos sujeitos a auditoria ou nas firmas que patrocinam tais estudos.\n\n- Fornecer aos inspectores meios de identificação adequados (por exemplo um cartão de identificação).\n\nOs inspectores podem:\n\n- pertencer ao quadro permanente da autoridade (nacional) de acompanhamento das BPL,\n\n- pertencer ao quadro permanente de um organismo independente da autoridade (nacional) de acompanhamento das BPL, ou\n\n- ser contratados, por qualquer meio, pela autoridade (nacional) de acompanhamento das BPL para efectuarem inspecções a instalações de ensaio ou auditorias a estudos.\n\nNos dois últimos casos, a autoridade (nacional) de acompanhamento das BPL deve ter a responsabilidade última pela avaliação do cumprimento das BPL por parte das instalações de ensaio, da qualidade/validade das auditorias a estudos realizadas e pela tomada de qualquer acção que possa ser necessária com base nos resultados dessas inspecções a instalações de ensaio ou auditorias a estudos.\n\nProgramas (nacionais) de cumprimento das BPL\n\nA verificação do cumprimento das BPL tem por objectivo averiguar se as instalações de ensaio aplicam os princípios BPL na realização dos respectivos estudos e se possuem condições para assegurar uma qualidade adequada dos dados resultantes. Como já foi indicado, os Estados-Membros devem publicar, de forma pormenorizada, o seu programa (nacional) de cumprimento das BPL. Tal informação deve, nomeadamente:\n\n- Definir o alcance e amplitude do programa.\n\nUm programa (nacional) de cumprimento das BPL pode abranger apenas uma gama limitada de produtos químicos, nomeadamente os produtos químicos industriais, os pesticidas, os produtos farmacêuticos, etc., ou todos os produtos químicos. O âmbito do referido acompanhamento deve ser definido tanto em relação às categorias de produtos químicos como aos tipos de ensaios a realizar (por exemplo: físicos, químicos, toxicológicos e/ou ecotoxicológicos).\n\n- Fornecer indicações sobre o mecanismo através do qual as instalações de ensaio participam no programa.\n\nA aplicação dos princípios BPL pode ser obrigatória para os dados de segurança relativos ao ambiental e à saúde que sejam obtidos para fins de regulamentação. Deverá existir um mecanismo que permita à autoridade (nacional) relevante a verificação do cumprimento dos princípios BPL pelas instalações de ensaio.\n\n- Fornecer informações sobre as categorias de inspecções a instalações de ensaio/auditorias a estudos.\n\nUm programa nacional de cumprimento das BPL deve incluir:\n\na) Inspecções de rotina às instalações de ensaio. Essas inspecções podem traduzir-se tanto em inspecções gerais às instalações de ensaio como em auditorias a estudos em curso ou já terminados;\n\nb) Inspecções especiais a instalações de ensaio/auditorias a estudos a pedido de uma autoridade regulamentar - ou seja, desencadeadas por uma dúvida suscitada durante o processo de apresentação dos dados a uma autoridade regulamentar.\n\n- Definir os poderes dos inspectores para a entrada em instalações de ensaio e o acesso aos dados mantidos pelas mesmas (incluindo espécimes, procedimentos habituais de funcionamento, documentação de outro tipo, etc.).\n\nNormalmente não é desejável a entrada dos inspectores nas instalações de ensaio contra a vontade da administração mas podem, no entanto, surgir ocasiões em que a entrada e o acesso aos dados sejam essenciais para proteger a saúde pública ou o ambiente. Devem, pois, definir-se os poderes da autoridade (nacional) de acompanhamento das BPL em tais casos.\n\n- Descrever os procedimentos de verificação do cumprimento das BPL nas inspecções a instalações de ensaio e nas auditorias a estudos.\n\nA documentação deve indicar os procedimentos que serão utilizados para analisar quer os processos organizativos quer as condições em que os estudos laboratoriais são planeados, realizados, acompanhados e registados. As directrizes para tais procedimentos constam da parte B do presente anexo.\n\n- Descrever as acções que poderão ser adoptadas na sequência de uma inspecção ou da auditoria de um estudo.\n\nSequência a dar às inspecções a instalações de ensaio e às auditorias a estudos\n\nNo final da inspecção de uma instalação de ensaio ou da auditoria de um estudo, o inspector deve elaborar por escrito um relatório com as suas conclusões.\n\nQuando se constatarem desvios em relação aos princípios BPL durante ou após a inspecção de uma instalação de ensaio ou a auditoria de um estudo, os Estados-Membros devem adoptar medidas. A acção a seguir deve ser descrita em documentos elaborados pela autoridade (nacional) de acompanhamento das BPL.\n\nSe a inspecção de uma instalação de ensaio ou a auditoria de um estudo revelar apenas pequenos desvios em relação aos princípios BPL, deverá ser pedido a essa instalação que corrija tais desvios. Na devida altura, o inspector pode pretender efectuar uma nova visita às instalações para verificar se as correcções foram introduzidas.\n\nCaso tenham sido constatados apenas pequenos desvios, ou não tenham sido constatados quaisquer desvios, as autoridades (nacionais) de acompanhamento das BPL podem:\n\n- emitir uma declaração especificando que a instalação de ensaio foi inspeccionada e está conforme com os princípios BPL. Deve referir-se a data da inspecção e, se necessário, os tipos de ensaios objecto de inspecção nessa altura, tais declarações podem ser utilizadas para fornecer informações às autoridades (nacionais) de acompanhamento das BPL de outros países membros da OCDE,\n\ne/ou\n\n- fornecer à autoridade regulamentar que solicitou a auditoria do estudo um relatório pormenorizado das suas conclusões.\n\nCaso sejam detectados desvios graves, as providências a tomar pelas autoridades (nacionais) de acompanhamento das BPL dependerão das circunstâncias específicas de cada caso e das disposições jurídicas ou administrativas ao abrigo das quais o acompanhamento das BPL foi estabelecido. As providências que podem ser tomadas incluem, de forma não exaustiva:\n\n- emissão de uma declaração detalhada dos desvios ou erros encontrados que possam afectar a validade dos estudos efectuados na instalação de ensaio,\n\n- recomendação à autoridade regulamentar no sentido de recusar um determinado estudo,\n\n- suspensão das inspecções a uma instalação de ensaio, ou da auditoria dos estudos de uma instalação de ensaio, e, por exemplo, quando tal seja administrativamente possível, retirar essa instalação do programa (nacional) de cumprimento das BPL, ou de qualquer lista ou registo existente,\n\n- exigência de inclusão nos relatórios, referentes a estes estudos específicos, de uma declaração pormenorizando os desvios constatados,\n\n- acção judicial, quando as circunstâncias o justifiquem, e os procedimentos jurídicos/administrativos o permitam.\n\nProcedimentos de recurso\n\nOs problemas ou divergências de opinião entre os inspectores e a administração das instalações de ensaio serão normalmente resolvidos durante a realização da inspecção da instalação ou da auditoria. Contudo, por vezes poderá não ser possível chegar a acordo. Deve existir um processo através do qual uma instalação de ensaio possa actuar, em função dos resultados de uma inspecção ou da auditoria de um estudo para a verificação do cumprimento das BPL e/ou em relação à acção que as autoridades nacionais se propõem adoptar com base nesses resultados.\n\nPARTE B ORIENTAÇÕES PARA A REALIZAÇÃO DE INSPECÇÕES A INSTALAÇÕES DE ENSAIO E AUDITORIAS DE ESTUDOS\n\nIntrodução\n\nO objectivo da presente parte do presente anexo consiste em fornecer orientações para a realização de inspecções a instalações de ensaio e auditorias de estudos que sejam mutuamente aceitáveis pelos países membros da OCDE. O presente anexo refere-se fundamentalmente às inspecções a instalações de ensaio, actividade que ocupa a maior parte do tempo dos inspectores de BPL. A inspecção de uma instalação de ensaio inclui, normalmente, a auditoria ou a \"revisão\" de um estudo, embora por vezes também possam ser realizadas, isoladamente, auditorias a estudos, nomeadamente, a pedido de uma autoridade regulamentar. No final do presente anexo são apresentadas orientações gerais para a realização de auditorias de estudos.\n\nAs inspecções a instalações de ensaio são realizadas com o objectivo de determinar o grau de conformidade destas, e dos estudos laboratoriais, com os princípios BPL, bem como de verificar a integridade dos resultados, de forma a garantir que a qualidade dos dados resultantes é adequada aos processos de avaliação e tomada de decisões por parte das autoridades regulamentares nacionais. Das inspecções são elaborados relatórios, nos quais deve constar o grau de conformidade com os princípios BPL. As inspecções a instalações de ensaio devem ser realizadas numa base regular e de rotina, de forma a obter e manter um registo da situação de cumprimento dos princípios BPL.\n\nPodem ser obtidas mais informações acerca da presente parte do presente anexo nos Documentos de Consenso sobre BPL da OCDE (por exemplo, o papel e as responsabilidades do director do estudo).\n\nDefinição de termos\n\nAs definições dos termos constantes dos princípios de BPL da OCDE, adoptados pelo artigo 1.o da Directiva 2004/10/CE na parte A do presente anexo são aplicáveis à presente parte do mesmo.\n\nInspecções a instalações de ensaio\n\nAs inspecções para verificação do cumprimento dos princípios BPL podem incidir sobre qualquer instalação de ensaios que produza dados de segurança sobre saúde ou ambiente, para fins de regulamentação. Os inspectores poderão ter de proceder à auditoria de dados relacionados com as propriedades físicas, químicas, toxicológicas ou ecotoxicológicas de uma substância ou preparação. Em certos casos, os inspectores poderão necessitar da assistência de peritos em domínios específicos.\n\nDevido à grande diversidade de instalações (quer em termos de implantação física quer de estrutura administrativa), bem como à variedade dos tipos de estudos objecto de inspecção, os inspectores devem apelar ao seu próprio bom senso na avaliação do grau e da extensão da conformidade com os princípios BPL. Contudo, os inspectores devem tentar adoptar uma abordagem consistente, de modo a avaliar se uma determinada instalação de ensaio ou estudo atingiram um nível adequado no que respeita ao cumprimento de cada um dos requisitos BPL.\n\nNos capítulos seguintes são fornecidas orientações sobre os vários aspectos da instalação de ensaio, incluindo o seu pessoal e procedimentos, que poderão ser examinados pelos inspectores. Cada capítulo inclui uma declaração de objectivos e também uma lista ilustrativa de elementos específicos que poderão ser tidos em conta durante a realização das inspecções. As referidas listas não pretendem ser exaustivas e não devem ser consideradas como tais.\n\nOs inspectores não se devem preocupar com a concepção científica dos estudos nem com a interpretação das conclusões desses estudos no que respeita aos riscos para a saúde humana ou para o ambiente. Estes aspectos são da responsabilidade das autoridades regulamentares às quais os dados são apresentados para fins de regulamentação.\n\nAs inspecções a instalações de ensaio e as auditorias de estudos perturbam inevitavelmente o trabalho normal na instalação. Por conseguinte, os inspectores devem planear o seu trabalho de forma cuidadosa e, tanto quanto possível, respeitar os pedidos da administração da instalação de ensaio no que se refere ao horário das visitas a determinadas partes das instalações.\n\nDurante a realização das inspecções e auditorias de estudo, os inspectores terão acesso a informações confidenciais e com valor comercial. É importante que os inspectores assegurem que tais informações só serão acessíveis a pessoal autorizado. As suas responsabilidades a este respeito devem ser definidas no âmbito dos programas (nacionais) de verificação do cumprimento das BPL.\n\nProcedimento de inspecção\n\nPré-inspecção\n\nObjectivo: familiarizar o inspector com a instalação que vai ser inspeccionada, no que respeita à sua estrutura administrativa, à implantação física dos edifícios e ao tipo de estudos realizados.\n\nAntes da realização da inspecção de uma instalação de ensaio ou auditoria de estudo, os inspectores devem familiarizar-se com a instalação em causa. Devem analisar todas as informações disponíveis sobre a referida instalação, facto que pode incluir a análise de relatórios de inspecções anteriores, da implantação da instalação, de organogramas, relatórios de estudos, protocolos e dos curricula vitae (CV) do pessoal principal. Esses documentos fornecerão informações sobre:\n\n- tipo, dimensões e implantação da instalação,\n\n- tipo de estudos que poderão ser encontrados durante a inspecção,\n\n- estrutura administrativa da instalação.\n\nOs inspectores devem registar, enfatizando, quaisquer deficiências constatadas em inspecções anteriores. Caso não tenham sido realizadas inspecções anteriores, pode efectuar-se uma visita de pré-inspecção para obter informações relevantes.\n\nAs instalações de ensaio devem ser informadas da data e hora da chegada dos inspectores, do objectivo da visita e do período de tempo que os inspectores pensam permanecer nas instalações. Tal facto permitirá à instalação de ensaio assegurar a disponibilidade do pessoal e o acesso à documentação. Nos casos que impliquem a análise de documentos ou registos específicos, poderá ser útil referir previamente tal facto aos responsáveis pela instalação de ensaio, de modo a que os referidos documentos ou registos estejam prontamente disponíveis durante a inspecção.\n\nReunião inicial\n\nObjectivo: informar a direcção e o pessoal da instalação dos motivos da inspecção ou auditoria a que se vai proceder e identificar as zonas, estudo(s) seleccionado(s) para auditoria, documentos e pessoal da instalação que, provavelmente, serão objecto de inspecção.\n\nOs pormenores administrativos e práticos da inspecção de uma instalação de ensaio ou da auditoria de um estudo devem ser discutidos com a direcção das instalações no início da visita. Na reunião inicial, os inspectores devem:\n\n- delinear o objectivo e alcance da visita,\n\n- descrever a documentação necessária para a inspecção da instalação de ensaio, como por exemplo, listas de estudos já terminados e em curso, planos de estudos, procedimentos habituais de funcionamento, relatórios de estudos, etc. Durante esta reunião deve chegar-se a acordo sobre o acesso a documentos relevantes e, se necessário, às disposições para a obtenção de cópias dos mesmos,\n\n- solicitar informações ou esclarecimentos sobre a estrutura da direcção (organização) das instalações e de pessoal,\n\n- solicitar informações sobre a realização, no mesmo loca1, de estudos sujeitos às BPL e de outros estudos aos quais não se apliquem os princípios BPL,\n\n- fazer uma análise inicial das zonas da instalação que serão objecto da inspecção,\n\n- descrever os documentos e amostras necessários para o(s) estudo(s) já terminado(s), ou em curso, seleccionado(s) para auditoria,\n\n- comunicar que no final da inspecção terá lugar uma reunião final.\n\nÉ aconselhável que, antes de iniciar a inspecção, o(s) inspector(es) estabeleça(m) contacto com a unidade de garantia da qualidade (GQ) da instalação.\n\nRegra geral, poderá ser útil que, ao procederem à inspecção das instalações, os inspectores sejam acompanhados de um elemento da unidade de garantia da qualidade.\n\nOs inspectores podem solicitar que lhes seja reservada uma sala para o exame de documentos e outras actividades.\n\nOrganização e pessoal\n\nObjectivo: determinar se a instalação de ensaios dispõe de pessoal qualificado e de recursos suficientes, em termos de pessoal e serviços de apoio, para a diversidade e o número de estudos, se a estrutura da organização é adequada e se a direcção estabeleceu uma política de formação e vigilância da saúde do pessoal adequada aos estudos efectuados na instalação.\n\nDeve solicitar-se à direcção que apresente determinados documentos, como, por exemplo:\n\n- plantas das instalações,\n\n- organogramas relativos à gestão e à organização científica da instalação,\n\n- CV do pessoal envolvido no(s) tipo(s) de estudo(s) seleccionado(s) para auditoria,\n\n- lista(s) de estudos em curso e já terminados, incluindo informações relativas ao tipo de estudo, datas de início e de conclusão, sistemas de ensaio, métodos de aplicação da substância a ensaiar e nome do director do estudo,\n\n- políticas de vigilância da saúde do pessoal,\n\n- descrição das funções de cada pessoa e programas e registos de formação do pessoal,\n\n- uma relação dos procedimentos habituais de funcionamento da instalação,\n\n- procedimentos habituais de funcionamento específicos dos estudos ou procedimentos sujeitos a inspecção ou auditoria,\n\n- lista(s) dos directores de estudos e patrocinadores associados ao(s) estudo(s) sujeito(s) a auditoria.\n\nO inspector deve verificar, em especial:\n\n- as listas de estudos terminados e em curso, de modo a verificar o nível do trabalho levado a cabo pela instalação de ensaio,\n\n- a identificação e as habilitações do(s) director(es) de estudos, do chefe da unidade de garantia da qualidade e de outro pessoal importante,\n\n- a existência de procedimentos habituais de funcionamento em todas as áreas de ensaios relevantes.\n\nPrograma de garantia da qualidade\n\nObjectivo: determinar se a direcção da instalação de ensaio dispõe de mecanismos adequados que possam garantir a realização dos estudos laboratoriais em conformidade com os princípios BPL.\n\nDeve solicitar-se ao chefe da unidade de GQ que demonstre os sistemas e métodos de inspecção e acompanhamento de estudos para efeitos de GQ, bem como o sistema de registo de observações durante o acompanhamento para efeitos de GQ. Os inspectores devem verificar:\n\n- as qualificações do chefe e de todo o pessoal da unidade de GQ,\n\n- se a unidade de GQ funciona independentemente do pessoal envolvido nos estudos,\n\n- a forma como a unidade de GQ planeia e efectua as inspecções e acompanha as fases dum estudo identificadas como críticas, bem como os recursos de que dispõe para a realização das inspecções e actividades de acompanhamento para efeitos de GQ,\n\n- se, nos casos em que os estudos são de tal forma breves que se torna impraticável um acompanhamento individual, existem disposições para um acompanhamento com base numa amostragem,\n\n- a extensão e pormenor do acompanhamento efectuado pela unidade de GQ durante as fases práticas do estudo,\n\n- os procedimentos utilizados pela unidade de GQ para verificar o relatório final e garantir que o mesmo está em conformidade com os dados em bruto,\n\n- se a direcção recebe relatórios da unidade de GQ relativos a problemas susceptíveis de afectarem a qualidade ou integridade de um estudo,\n\n- as acções tomadas pela GQ quando são detectados desvios,\n\n- quando relevante, o papel da GQ, no caso de determinados estudos ou partes de estudos efectuados em laboratórios exteriores, sob contrato,\n\n- quando relevante, o papel da GQ na análise, revisão e actualização dos procedimentos habituais de funcionamento.\n\nInstalações\n\nObjectivo: determinar se a instalação de ensaio, quer no interior quer no exterior, tem as dimensões, concepção e localização adequadas para satisfazer as exigências dos estudos em curso.\n\nO inspector deve verificar:\n\n- se a planta das instalações permite que exista um grau de separação adequado, de forma a que, por exemplo, as substâncias, os animais, as dietas, os espécimes patológicos, etc., utilizados nos ensaios de um estudo, não possam ser confundidos com os de outro estudo,\n\n- se existem, e se funcionam de forma adequada, os procedimentos de controlo e acompanhamento do ambiente em zonas críticas, como as salas dos sistemas de ensaios em animais e outros ensaios biológicos, as áreas de armazenamento de substâncias para os ensaios e as zonas laboratoriais,\n\n- se a manutenção geral é adequada no que se refere às diversas instalações e se existem, em caso de necessidade, procedimentos de controlo de pragas.\n\nCuidados a ter com os sistemas de ensaio biológicos e respectiva acomodação e confinamento\n\nObjectivo: determinar se a instalação de ensaios, sempre que efectue estudos que utilizem animais ou outros sistemas biológicos de ensaio, dispõe de meios e condições de apoio para o tratamento, acomodação e confinamento dos referidos animais e sistemas adequados para impedir o stress e outros problemas susceptíveis de afectar os sistemas de ensaio e, consequentemente, a qualidade dos dados.\n\nUma instalação de ensaios pode efectuar estudos que exijam uma diversidade de espécies animais ou vegetais, assim como sistemas microbianos ou outros sistemas celulares ou subcelulares. O tipo de sistemas de ensaio utilizado determinará os aspectos relativos ao tratamento, acomodação ou confinamento, que o inspector deverá avaliar. O inspector deve, perante os sistemas de ensaio, e fazendo uso do seu bom senso, verificar se:\n\n- existem meios adequados aos sistemas de ensaio utilizados e às necessidades dos ensaios,\n\n- existem disposições para a colocação em quarentena de animais e/ou plantas aquando da recepção na instalação, e se essas disposições funcionam de forma satisfatória,\n\n- existem disposições para o isolamento de animais (ou, em caso de necessidade, de outros elementos de um sistema de ensaio) doentes ou portadores de doença ou que se suspeite estarem nessas condições,\n\n- existe um acompanhamento e manutenção de registos adequados relativos à saúde, comportamento ou outros aspectos úteis para o sistema de ensaio,\n\n- o equipamento que mantém as condições de ambiente exigidas para cada sistema de ensaio é adequado e eficaz, e se a sua manutenção é bem realizada,\n\n- as gaiolas dos animais, prateleiras, tanques e outros recipientes, assim como os equipamentos acessórios, estão suficientemente limpos,\n\n- são efectuadas, em função das necessidades, análises que permitam verificar as condições de ambiente e os sistemas de apoio,\n\n- existem meios para a remoção e eliminação de detritos animais e resíduos dos sistemas de ensaio e se estes são utilizados de modo a minimizar a infestação por parasitas, o aparecimento de cheiros, o risco de doenças e a contaminação do ambiente,\n\n- existem áreas para o armazenamento dos alimentos dos animais ou materiais equivalentes, para todos os sistemas de ensaio; se essas áreas não são utilizadas para o armazenamento de outros materiais, nomeadamente substâncias de ensaio, produtos químicos para controlo de pragas ou desinfectantes e ainda se são separadas das zonas onde se encontram os animais ou outros sistemas biológicos,\n\n- os alimentos armazenados e as camas para animais estão protegidos contra a deterioração decorrente de condições ambientais adversas, infestação ou contaminação.\n\nEquipamentos, materiais, reagentes e espécimes\n\nObjectivo: determinar se a instalação de ensaio dispõe de equipamentos adequados e bem localizados, em quantidade suficiente e de capacidade adequada para satisfazerem as exigências dos ensaios efectuados, se os materiais, reagentes e espécimes estão correctamente rotulados e armazenados e se são utilizados de forma adequada.\n\nO inspector deve verificar se:\n\n- os equipamentos estão limpos e em boas condições de funcionamento,\n\n- são mantidos registos do funcionamento, manutenção, verificação, calibração e validação dos equipamentos e aparelhos de medição (incluindo os sistemas informáticos),\n\n- os materiais e reagentes químicos estão convenientemente rotulados, se são armazenados a temperaturas adequadas e se não são excedidos os prazos de validade. Os rótulos dos reagentes devem indicar a sua origem, identificação e concentração e/ou outras informações pertinentes,\n\n- os espécimes estão devidamente identificados por sistema de ensaio, estudo, natureza e data de colheita,\n\n- os equipamentos e materiais utilizados não interferem significativamente com os sistemas de ensaios.\n\nSistemas de ensaio\n\nObjectivo: verificar se existem procedimentos adequados para o manuseamento e controlo da variedade dos sistemas de ensaio exigida pelos estudos levados a cabo na instalação, como por exemplo, sistemas químicos e físicos, sistemas celulares e microbianos, plantas ou animais.\n\nSistemas físicos e químicos\n\nO inspector deve verificar:\n\n- se foi determinada a estabilidade das substâncias de ensaio e das substâncias de referência, e se foram utilizadas as substâncias de referência especificadas nos planos do ensaio, nos casos em que tal é exigido pelos planos de estudo,\n\n- no caso de sistemas automatizados, se os dados produzidos na forma de gráficos, traçados de registadores ou material impresso por via electrónica foram classificados como dados em bruto e arquivados.\n\nSistemas de ensaio biológicos\n\nTomando em consideração os aspectos relevantes acima referidos e que dizem respeito aos cuidados a ter com o tratamento, acomodação e confinamento dos sistemas de ensaio biológicos, o inspector deve verificar se:\n\n- os sistemas de ensaio estão conformes ao especificado nos planos de estudo,\n\n- os animais são identificados de modo correcto e, se necessário e adequado, único ao longo do estudo; e se existem registos em relação à recepção dos sistemas de ensaio e que documentem de forma completa o número de sistemas de ensaio recebidos, utilizados, substituídos ou eliminados,\n\n- as áreas de acomodação, ou recipientes dos sistemas de ensaio, estão correctamente identificados com todas as informações necessárias,\n\n- existe uma separação adequada entre os estudos realizados nas mesmas espécies animais (ou nos mesmos sistemas biológicos de ensaio) mas com substâncias diferentes,\n\n- existe uma separação adequada das espécies animais (e outros sistemas de ensaio biológicos) no espaço e no tempo,\n\n- o ambiente dos sistemas de ensaio biológicos está conforme com o plano do estudo e com os procedimentos habituais de funcionamento, no que se refere a aspectos como a temperatura ou os ciclos luz/obscuridade,\n\n- o registo da recepção, manuseamento, acomodação ou confinamento, cuidados a ter e avaliação do estado de saúde é adequado aos sistemas de ensaio,\n\n- são mantidos registos escritos dos exames, quarentena, morbilidade, mortalidade, comportamento, diagnóstico e tratamento dos sistemas de ensaio que utilizam animais ou plantas ou outros aspectos semelhantes adequados a cada sistema de ensaio biológico,\n\n- existem disposições para a eliminação adequada dos sistemas de ensaio no fim dos ensaios.\n\nSubstâncias para ensaio e substâncias de referência\n\nObjectivo: determinar se a instalação de ensaio dispõe de procedimentos: i) para assegurar que a identificação, actividade, quantidade e composição das substâncias para ensaio e de referência estão em conformidade com as suas especificações, ii) para receber e armazenar correctamente as referidas substâncias.\n\nO inspector deve verificar se:\n\n- existem registos escritos da recepção (que incluam a identificação da pessoa responsável), manuseamento, recolha de amostras, utilização e armazenagem de substâncias para teste e de referência,\n\n- os recipientes que contêm as substâncias para ensaio e substâncias de referência estão correctamente rotulados,\n\n- as condições de armazenagem são adequadas para preservar a pureza, estabilidade e a concentração das substâncias para ensaio e substâncias de referência,\n\n- se conservam registos da identificação, determinação da pureza, composição e estabilidade das substâncias para ensaio e de referência, e para a prevenção da sua contaminação, quando aplicável,\n\n- existem procedimentos para a determinação da homogeneidade e estabilidade de misturas que contenham substâncias para ensaio e de referência, quando aplicável,\n\n- os recipientes que contêm misturas (ou diluições) de substâncias para ensaio e de referência estão rotulados, e se são mantidos registos relativos à homogeneidade e estabilidade do seu conteúdo, quando aplicável,\n\n- quando o ensaio tiver duração superior a quatro semanas retiram amostras, para fins analíticos, de cada lote de substâncias para ensaio e de referência e se estas foram conservadas por um período de tempo apropriado,\n\n- os procedimentos para a mistura de substâncias foram elaborados de forma a impedir erros de identificação ou contaminações cruzadas.\n\nProcedimentos habituais de funcionamento (PHF)\n\nObjectivo: verificar se a instalação de ensaio dispõe de PHF escritos, relativos a todos os aspectos importantes do seu funcionamento, tendo em conta que estes constituem uma das ferramentas de gestão mais importantes para o controlo do funcionamento da instalação. Os PHF estão directamente relacionados com os elementos de rotina dos ensaios efectuados na instalação.\n\nO inspector deve verificar se:\n\n- cada área da instalação de ensaio tem imediatamente disponíveis cópias autorizadas dos PHF relevantes,\n\n- existem procedimentos para a revisão e actualização dos PHF,\n\n- todas as alterações ou mudanças dos PHF foram autorizadas e datadas,\n\n- são mantidos arquivos do histórico dos PHF,\n\n- existem PHF para as seguintes actividades (numa lista não exaustiva):\n\ni) recepção; identificação do produto, pureza, composição e estabilidade; rotulagem; manuseamento; amostragem; armazenamento das substâncias de ensaio e das substâncias de referência,\n\nii) utilização, manutenção, limpeza, calibração e validação dos aparelhos de medida, dos sistemas informáticos e dos equipamentos de controlo do ambiente,\n\niii) preparação de reagentes e das dosagens das formulações,\n\niv) conservação de registos, elaboração de relatórios, armazenamento e acesso a registos e relatórios,\n\nv) preparação e controlo ambiental das áreas que contêm os sistemas de ensaio,\n\nvi) recepção, transferência, localização, caracterização, identificação e cuidados a ter com os sistemas de ensaio,\n\nvii) manuseamento dos sistemas de ensaio antes, durante e após a finalização do estudo,\n\nviii) eliminação dos sistemas de ensaio,\n\nix) utilização de agentes de controlo de pragas e de agentes de limpeza,\n\nx) actividades relativas ao programa de garantia da qualidade.\n\nExecução do estudo\n\nObjectivo: verificar se existem planos de estudo escritos e se esses planos e a realização do estudo estão em conformidade com os princípios BPL.\n\nO inspector deve verificar se:\n\n- o plano de estudo foi assinado pelo director de estudo,\n\n- todas as alterações feitas ao plano de estudo foram assinadas e datadas pelo director de estudo,\n\n- foi registada a data da aprovação do plano de estudo pelo respectivo patrocinador (quando aplicável),\n\n- as medições, observações e exames estão em conformidade com o plano de estudo e os PHF relevantes,\n\n- os resultados dessas medições, observações e exames foram registados directa e imediatamente, de forma rigorosa e legível, e assinados (ou rubricados) e datados,\n\n- qualquer alteração dos dados em bruto, incluindo os armazenados em computador, não eliminam entradas anteriores, incluem os motivos das alterações e estão assinadas e datadas,\n\n- os dados gerados ou armazenados electronicamente estão identificados e se os procedimentos para os proteger contra alterações não autorizadas ou perdas são adequados,\n\n- os sistemas informáticos utilizados para os estudos são fiáveis, exactos e podem ser validados,\n\n- todas as ocorrências imprevistas registadas nos dados em bruto foram investigadas e avaliadas,\n\n- os resultados apresentados nos relatórios do estudo, intermédios ou finais, são coerentes, completos e reflectem de forma correcta os dados em bruto.\n\nRelatório dos resultados dos estudos\n\nObjectivo: determinar se os relatórios finais são preparados em conformidade com os princípios BPL.\n\nNa análise de um relatório final, o inspector deve verificar se:\n\n- está assinado e datado pelo director de estudo, indicando que o mesmo aceita a responsabilidade pela validade do estudo e confirma que este foi realizado em conformidade com os princípios BPL,\n\n- está assinado e datado pelos cientistas principais participantes, no caso dos relatórios de trabalhos que implicam a colaboração em diversos domínios,\n\n- o relatório inclui uma declaração de garantia da qualidade, assinada e datada,\n\n- todas as alterações foram efectuadas pelo pessoal responsável,\n\n- apresenta uma lista da localização de todas as amostras, espécimes e dados em bruto nos arquivos.\n\nArmazenamento e conservação dos registos\n\nObjectivo: verificar se a instalação elaborou registos e relatórios adequados e se foram tomadas as providências necessárias para o armazenamento e conservação em segurança dos registos e materiais.\n\nO inspector deve verificar:\n\n- se foi nomeada uma pessoa responsável pelo arquivo,\n\n- as instalações do arquivo para o armazenamento de planos de estudos, de dados em bruto (incluindo os provenientes de estudos em conformidade com as BPL que tenham sido interrompidos), de relatórios finais, das amostras e espécimes, bem como registos das habilitações e formação do pessoal envolvido,\n\n- o procedimento de consulta dos materiais arquivados,\n\n- os procedimentos através dos quais o acesso aos arquivos é limitado ao pessoal autorizado e são conservados registos das pessoas que dispõem de acesso aos dados em bruto, diapositivos, etc.,\n\n- se é mantido um inventário dos materiais retirados e devolvidos aos arquivos,\n\n- se os registos e materiais são conservados durante o período de tempo necessário ou adequado e se estão protegidos contra a perda ou danos causados pelo fogo, por condições ambientais adversas, etc.\n\nAuditorias a estudos\n\nAs inspecções das instalações de ensaio incluem, normalmente, a realização de auditorias aos estudos já terminados ou em curso. A auditoria de um estudo específico poderá ser solicitada pelas autoridades regulamentares; essas auditorias poderão ser realizadas de forma independente das inspecções às instalações. Devido à grande variedade de tipos de estudos que podem ser sujeitos a auditoria, só se considera adequado fornecer orientações gerais, devendo os inspectores e outras pessoas envolvidas na auditoria utilizar a sua intuição no que respeita à natureza e amplitude dos exames que efectuarem.\n\nO objectivo consiste na reconstituição do estudo com base na comparação entre o plano de estudo e o relatório final, os PHF relevantes, dados em bruto e outro material arquivado. Nalguns casos, os inspectores poderão necessitar da ajuda de outros peritos, de modo a efectuarem uma auditoria eficiente. Como exemplo, pode referir-se o exame microscópico de cortes de tecido.\n\nAo efectuar a auditoria de um estudo, o inspector deve:\n\n- obter os nomes, funções e informações sobre a formação e experiência dos principais participantes no(s) estudo(s), nomeadamente o director de estudo e os cientistas principais,\n\n- verificar se existe pessoal com qualificações adequadas nas áreas relevantes para o(s) estudos(s) realizado(s),\n\n- identificar elementos de aparelhos ou equipamentos especiais utilizados no estudo e verificar a sua calibração, manutenção e registos de reparações,\n\n- verificar os registos relativos à estabilidade das substâncias para ensaio, à análise das substâncias e formulações para ensaio, à análise dos espécimes utilizados, etc.,\n\n- tentar determinar, se possível através de entrevistas, quais as tarefas atribuídas a alguns indivíduos, seleccionados, participantes no estudo, de modo a verificar se dispuseram de tempo suficiente para realizar as tarefas constantes do plano ou do relatório do estudo,\n\n- obter cópias de toda a documentação relativa aos procedimentos de controlo ou que façam parte integrante do estudo, nomeadamente:\n\ni) o plano do estudo,\n\nii) os PHF em vigor na altura em que o estudo foi efectuado,\n\niii) diários, livros de apontamentos dos laboratórios, ficheiros, folhas de cálculo, registos impressos de dados armazenados em computador, etc.; verificar os cálculos, quando apropriado,\n\niv) o relatório final.\n\nNos caso dos estudos em que são utilizados animais (por exemplo roedores ou outros mamíferos), os inspectores devem seguir o percurso individual de alguns animais desde a sua chegada às instalações de ensaio até à autópsia. Devem prestar uma atenção especial aos registos que digam respeito:\n\n- a massa corporal dos animais, ao consumo de água/alimentos, à formulação de doses e administração, etc.,\n\n- às observações clínicas e resultados da autópsia,\n\n- à química clínica,\n\n- à patologia.\n\nFinalização da inspecção ou da auditoria de um estudo\n\nApós finalizar a inspecção a uma instalação de ensaio ou a auditoria de um estudo, o inspector deverá estar preparado para discutir com representantes da instalação de ensaio, no âmbito de uma conferência final, os resultados obtidos, bem como para elaborar um relatório por escrito - o relatório de inspecção.\n\nA inspecção de qualquer grande instalação de ensaio é susceptível de revelar um certo número de pequenos desvios relativamente aos princípios das BPL, embora, em geral, esses desvios não sejam suficientemente graves para afectar a validade dos estudos efectuados nessa instalação. Em tais casos, o inspector poderá referir que a instalação de ensaio funciona em conformidade com os princípios das BPL e os critérios estabelecidos pela autoridade (nacional) de acompanhamento das BPL. Contudo, a instalação de ensaio deve ser informada em pormenor dos desvios/não conformidades ou deficiências constatados, devendo a direcção apresentar garantias de que adoptará acções correctivas adequadas.\n\nO inspector poderá necessitar de efectuar uma nova visita à instalação, após um período de tempo determinado, para verificar se foram implementadas de forma eficaz as acções correctivas propostas.\n\nSe, durante a inspecção a uma instalação de ensaio ou a auditoria de um estudo, for detectado um desvio/não conformidade grave em relação aos princípios das BPL que, na opinião do inspector, possa ter afectado a validade desse estudo ou dos estudos efectuados na instalação, o inspector deve indicar esse facto à autoridade (nacional) de acompanhamento das BPL. A acção a adoptar por esse organismo e/ou pelas autoridades regulamentares dependerá da natureza e amplitude dos desvios/não conformidades e também das disposições legais e/ou administrativas previstas nos programas de verificação do cumprimento das BPL.\n\nSempre que a auditoria de um estudo tiver sido efectuada a pedido de uma autoridade regulamentar, deverá ser elaborado um relatório, que será enviado à autoridade regulamentar interessada através da autoridade (nacional) correspondente de acompanhamento das BPL."
+  },
+  "4e885a3c55de3a43": {
+   "fragment_id": "ANEXO II — PARTE A",
+   "type": "divisao",
+   "heading": "ANEXO II — PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — PARTE A\n\nDIRECTIVA REVOGADA E ALTERAÇÕES SUCESSIVAS\n\n(artigo 9.o)\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "3ca673279ecee034": {
+   "fragment_id": "PARTE B — PRAZOS DE TRANSPOSIÇÃO",
+   "type": "divisao",
+   "heading": "PARTE B — PRAZOS DE TRANSPOSIÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE B — PRAZOS DE TRANSPOSIÇÃO\n\n(artigo 9.o)\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "b7c95020023e4684": {
+   "fragment_id": "ANEXO III — QUADRO DE CORRESPONDÊNCIA",
+   "type": "divisao",
+   "heading": "ANEXO III — QUADRO DE CORRESPONDÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — QUADRO DE CORRESPONDÊNCIA\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "ab618704a63d4317": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Fevereiro de 2004\n\nrelativa à inspecção e verificação das boas práticas de laboratório (BPL)\n\n(versão codificada)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/396a33ce-0d3d-4afc-a038-9fbf0ad1457a.0018.03/DOC_1#E0001)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/396a33ce-0d3d-4afc-a038-9fbf0ad1457a.0018.03/DOC_1#E0002)),\n\n(1) A Directiva 88/320/CEE do Conselho, de 7 de Junho de 1988, relativa à inspecção e verificação das boas práticas de laboratório (BPL) ([^3^](http://publications.europa.eu/resource/cellar/396a33ce-0d3d-4afc-a038-9fbf0ad1457a.0018.03/DOC_1#E0003)) foi por diversas vezes alterada de forma substancial. É conveniente, por motivos de lógica e clareza, proceder à codificação da referida directiva.\n\n(2) A aplicação de um modo de organização normalizado e de condições de planificação, execução, registo e divulgação dos estudos laboratoriais para ensaios não clínicos sobre produtos químicos, com vista à protecção do homem, dos animais e do ambiente, a seguir designado por «boas práticas de laboratório» (BPL), contribui para assegurar aos Estados-Membros a qualidade dos resultados de ensaios obtidos.\n\n(3) O Conselho da Organização de Cooperação e de Desenvolvimento Económicos (OCDE) adoptou, no anexo 2 da sua decisão de 12 de Maio de 1981, relativa à aceitação mútua de dados para a avaliação dos produtos químicos, princípios de boas práticas de laboratório aceites na Comunidade e especificados na Directiva 2004/10/CE do Parlamento Europeu e do Conselho, de 11 de Fevereiro de 2004, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à aplicação dos princípios de boas práticas de laboratório e ao controlo da sua aplicação para os ensaios sobre as substâncias químicas ([^4^](http://publications.europa.eu/resource/cellar/396a33ce-0d3d-4afc-a038-9fbf0ad1457a.0018.03/DOC_1#E0004)).\n\n(4) Na realização de ensaios sobre os produtos químicos, é desejável que os recursos em mão-de-obra especializada e em laboratórios de ensaio não sejam desperdiçados pela necessidade de repetir ensaios devido a diferenças nas práticas de laboratório entre os Estados-Membros. É o que deve passar-se nomeadamente no que respeita à protecção dos animais, que exige que se limite o número de experiências com animais, nos termos da Directiva 86/609/CEE do Conselho, de 24 de Novembro de 1986, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros respeitantes à protecção dos animais utilizados para fins experimentais e outros fins científicos ([^5^](http://publications.europa.eu/resource/cellar/396a33ce-0d3d-4afc-a038-9fbf0ad1457a.0018.03/DOC_1#E0005)). O reconhecimento mútuo dos resultados dos ensaios obtidos por utilização de métodos normalizados e reconhecidos é uma condição essencial para a redução do número de experiências executadas nesse domínio.\n\n(5) A fim de assegurar que os resultados de ensaios obtidos nos laboratórios de um Estado-Membro sejam também reconhecidos pelos outros Estados-Membros, é necessário prever um sistema harmonizado de verificação de estudos e de inspecção de laboratórios que garanta que estes últimos trabalham no respeito das BPL.\n\n(6) Os Estados-Membros designam as autoridades encarregadas de exercer o controlo de conformidade com as BPL.\n\n(7) Um comité constituído por membros nomeados pelos Estados-Membros auxiliaria a Comissão na aplicação técnica da presente directiva e participaria nos seus esforços para encorajar a livre circulação das mercadorias pelo reconhecimento mútuo pelos Estados-Membros dos processos de controlo de conformidade com as BPL. O comité instituído pela Directiva 67/548/CEE do Conselho, de 27 de Junho de 1967, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem de substâncias perigosas ([^6^](http://publications.europa.eu/resource/cellar/396a33ce-0d3d-4afc-a038-9fbf0ad1457a.0018.03/DOC_1#E0006)), pode ser utilizado para esse fim.\n\n(8) O referido comité pode, não só apoiar a Comissão na aplicação da presente directiva, mas também contribuir para a troca de informações e de experiências nesta matéria.\n\n(9) As medidas necessárias à execução à presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/396a33ce-0d3d-4afc-a038-9fbf0ad1457a.0018.03/DOC_1#E0007)).\n\n(10) A presente directiva não deve prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição que constam da parte B do anexo II,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "6137412d46f87028": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva é aplicável à inspecção e verificação do modo de organização e às condições de planificação, execução, registo e divulgação de estudos laboratoriais para ensaios não clínicos, efectuados para efeitos de regulamentação dos produtos químicos (tais como cosméticos, produtos químicos industriais, produtos medicinais, aditivos alimentares, aditivos para alimentação animal, pesticidas) e destinados à avaliação dos efeitos desses produtos sobre o homem, os animais e o ambiente.\n\n2. Para os efeitos da presente directiva, entende-se por «boas práticas de laboratório» as práticas de laboratório de acordo com os princípios fixados na Directiva 2004/10/CE.\n\n3. A presente directiva não diz respeito à interpretação e avaliação dos resultados dos ensaios."
+  },
+  "2c3d1d6df079753a": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros controlarão, nos termos do artigo 3.º, a conformidade com as BPL por parte de qualquer laboratório situado no respectivo território que declare aplicar as BPL na realização de ensaios sobre produtos químicos.\n\n2. Cumprido o disposto no n.º 1 e sendo satisfatórios os resultados da inspecção e da verificação, o Estado-Membro em causa pode aprovar o laboratório, no que respeita ao cumprimento das BPL, utilizando a fórmula: «Certificado de conformidade com as BPL, nos termos da Directiva 2004/10/CE, em …»."
+  },
+  "8e707e9b4f87c949": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros designam as autoridades encarregadas da inspecção dos laboratórios situados no seu território e da verificação dos estudos efectuados por laboratórios para avaliar da conformidade com as BPL.\n\n2. As autoridades referidas no n.º 1 inspeccionam os laboratórios e procedem às verificações de estudos em conformidade com o disposto no anexo I."
+  },
+  "ee5f77150cd64c96": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-Membros elaboram anualmente um relatório relativo à aplicação das BPL no seu território.\n\nEste relatório contém uma lista dos laboratórios inspeccionados, a data em que essa inspecção foi efectuada e um breve resumo das conclusões das inspecções.\n\n2. Os relatórios são transmitidos anualmente à Comissão, até 31 de Março. A Comissão comunica esses relatórios ao comité referido no n.º 1 do artigo 7.º O comité pode solicitar mais informações relativas aos elementos a que se refere o n.º 1 do presente artigo.\n\n3. Os Estados-Membros asseguram que as informações comercialmente sensíveis e outras informações confidenciais a que tenham acesso no âmbito das suas actividades de controlo de conformidade com as BPL sejam apenas comunicadas à Comissão, às autoridades nacionais de regulamentação e às autoridades designadas, bem como ao organismo que financie um laboratório ou um estudo e que esteja directamente envolvido numa inspecção ou numa verificação de estudos específica.\n\n4. Não são considerados confidenciais os nomes dos laboratórios submetidos a inspecção por uma autoridade designada, a sua situação no que se refere à conformidade com as BPL, ou as datas em que tiverem sido efectuadas as inspecções ou as verificações de estudos."
+  },
+  "03d89671a2e160c8": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Sem prejuízo do artigo 6.º, os resultados das inspecções de laboratórios e das verificações de estudos efectuadas por um Estado-Membro acerca da conformidade com as BPL são vinculativas para os outros Estados-Membros.\n\n2. Quando um Estado-Membro considerar que um laboratório, situado no seu território, que alegue respeitar as BPL, não as respeita de facto, por forma a que a seriedade ou a autenticidade dos estudos que efectua possam ficar comprometidas, informará imediatamente a Comissão desse facto. A Comissão informará os outros Estados-Membros."
+  },
+  "8214433dcaa25ec7": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Quando um Estado-Membro tiver boas razões para considerar que um laboratório, situado num outro Estado-Membro, que alegue o respeito das BPL não efectuou um determinado ensaio em conformidade com as BPL, pode pedir informações mais pormenorizadas a esse Estado-Membro e, nomeadamente, pedir a realização de uma verificação de estudos, eventualmente acompanhada de uma nova inspecção.\n\nSe não for possível chegar a um acordo, os Estados-Membros informarão imediatamente os outros Estados-Membros e a Comissão precisando as razões da sua decisão.\n\n2. A Comissão examina, logo que possível, as razões apresentadas pelos Estados-Membros no âmbito do comité previsto no n.º 1 do artigo 7.º, após o que adopta as medidas adequadas nos termos do n.º 2 do artigo 7.º A Comissão pode, para este efeito, solicitar o parecer de peritos das autoridades designadas pelos Estados-Membros.\n\n3. Se considerar necessário para regular os problemas referidos no n.º 1, a Comissão aprova alterações à presente directiva.\n\nEssas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 7.º."
+  },
+  "0de94f640a299641": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A Comissão é assistida pelo comité criado pelo n.º 1 do artigo 29.º da Directiva 67/548/CEE do Conselho ([^8^](http://publications.europa.eu/resource/cellar/396a33ce-0d3d-4afc-a038-9fbf0ad1457a.0018.03/DOC_1#E0008)), a seguir designado «comité».\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "dc1bd8e19ad96a71": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. O comité pode analisar qualquer questão que lhe seja apresentada pelo seu presidente, quer por iniciativa deste quer a pedido de um representante de um Estado-Membro, que incida sobre a aplicação da presente directiva, nomeadamente no que respeita:\n\n— à cooperação entre as autoridades designadas pelos Estados-Membros relativa aos aspectos técnicos e administrativos decorrentes da aplicação das BPL, e\n\n— à troca de informações sobre a formação dos inspectores.\n\n2. A Comissão deve aprovar medidas de execução para os seguintes fins:\n\na) Adaptação da fórmula referida no n.º 2 do artigo 2.º;\n\nb) Adaptação do anexo I ao progresso técnico.\n\nEssas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 7.º."
+  },
+  "82605ab005dcaed9": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA presente directiva entra em vigor 20 dias após o da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "ce9fa090e4baa8eb": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "8649a3b01968c340": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nAs disposições para a inspecção e verificação das BPL que são mencionadas nas partes A e B figuram no anexo I (guias relativos aos procedimentos de verificação do cumprimento das boas práticas de laboratório) e no anexo II (orientações para a condução de inspecções de instalações de ensaio e auditorias a estudos) da decisão-recomendação do Conselho da OCDE relativa à conformidade com os princípios de boas práticas de laboratório [C(89) 87 final] de 2 de Outubro de 1989, tal como revistas pela decisão do Conselho da OCDE «Modificação dos anexos à decisão-recomendação do Conselho relativa à conformidade com os princípios de boas práticas de laboratório» [C(95) 8 final] de 9 de Março de 1995."
+  },
+  "72b5d898c8d19891": {
+   "fragment_id": "PARTE A GUIA REVISTO PARA OS PROCEDIMENTOS DE VERIFICAÇÃO DO CUMPRIMENTO DAS BPL",
+   "type": "divisao",
+   "heading": "PARTE A GUIA REVISTO PARA OS PROCEDIMENTOS DE VERIFICAÇÃO DO CUMPRIMENTO DAS BPL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A GUIA REVISTO PARA OS PROCEDIMENTOS DE VERIFICAÇÃO DO CUMPRIMENTO DAS BPL\n\nA fim de facilitar a aceitação mútua dos dados de ensaios realizados para apresentação às autoridades regulamentares dos países membros da OCDE, é essencial harmonizar os procedimentos adoptados para verificar o cumprimento das boas práticas de laboratório (BPL), além de assegurar que a sua qualidade e rigor são comparáveis. O objectivo da parte A do presente anexo consiste em fornecer aos Estados-Membros uma orientação prática e pormenorizada sobre a estrutura, mecanismos e procedimentos que devem adoptar sempre que elaborem programas nacionais destinados a verificar o cumprimento das BPL, de modo a que esses programas sejam internacionalmente reconhecidos.\n\nOs Estados-Membros deverão adoptar os princípios das BPL e estabelecer procedimentos de verificação do seu cumprimento, de acordo com as práticas jurídicas e administrativas nacionais, bem como as suas prioridades, nomeadamente a extensão da cobertura inicial e subsequente no que respeita às categorias de produtos químicos e ao tipo de ensaio. Uma vez que os Estados-Membros, devido à sua estrutura legal de controlo dos produtos químicos, poderão estabelecer mais do que uma autoridade de acompanhamento das BPL, poderá elaborar-se mais do que um programa de cumprimento das BPL. A orientação apresentada *infra* diz respeito a cada uma dessas autoridades e a cada um desses programas, conforme adequado."
+  },
+  "e1e5327f159f7133": {
+   "fragment_id": "Definição de termos",
+   "type": "divisao",
+   "heading": "Definição de termos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Definição de termos\n\nAs definições dos termos constantes dos princípios de boas práticas de laboratório da OCDE, adoptados no âmbito do artigo 1.º da Directiva 2004/10/CE, são aplicáveis à presente parte do presente anexo. Também se aplicam as seguintes definições:\n\n— princípios BPL: boas práticas de laboratório conformes com os «Princípios de boas práticas de laboratório da OCDE», adoptados no âmbito do artigo 1.º da Directiva 2004/10/CE,\n\n— verificação do cumprimento das BPL: inspecção periódica das instalações de ensaio e/ou a auditoria dos estudos com o objectivo de verificar a conformidade com os princípios BPL,\n\n— programa (nacional) de cumprimento das BPL: regime específico criado por um Estado-Membro para acompanhar o cumprimento das BPL, pelas instalações de ensaio do seu território, através de inspecções e de auditorias aos estudos realizados,\n\n— autoridade (nacional) de acompanhamento das BPL: organismo estabelecido num Estado-Membro com a responsabilidade de avaliar o cumprimento das BPL, pelas instalações de ensaio no seu território e se assim for determinado a nível nacional, desempenhar outras funções relacionadas com as BPL. Podem estabelecer-se vários organismos deste tipo num Estado-Membro,\n\n— inspecção de uma instalação de ensaio: verificação *in situ* dos procedimentos e práticas adoptados por uma determinada instalação de ensaio, de modo a avaliar o grau de cumprimento dos princípios BPL. Durante as inspecções serão analisadas as estruturas de gestão e os procedimentos operacionais da instalação de ensaio. Serão efectuadas entrevistas ao pessoal técnico com maior nível de responsabilidade e avaliadas e comunicadas a qualidade e integridade dos dados gerados na instalação de ensaio. No final será elaborado um relatório,\n\n— auditoria de estudo: comparação entre os dados em bruto e registos associados, por um lado, e o relatório intermédio ou final, por outro, de modo a determinar se os dados em bruto foram apresentados de forma rigorosa e os ensaios efectuados de acordo com o plano de estudos e com os procedimentos habituais de funcionamento. Tendo ainda o objectivo de obter informações complementares não apresentadas no relatório de estudo e verificar se, no tratamento dos dados, foram utilizadas práticas que poderiam prejudicar a sua validade,\n\n— inspector: pessoa que executa as inspecções das instalações de ensaio e as auditorias a estudos em nome da autoridade (nacional) de acompanhamento das BPL,\n\n— situação de cumprimento das BPL: nível de conformidade de uma instalação de ensaio com os princípios BPL, avaliado pela autoridade (nacional) de acompanhamento das BPL,\n\n— autoridade regulamentar: organismo nacional com responsabilidade jurídica relativamente a determinados aspectos do controlo dos produtos químicos."
+  },
+  "2ae931366d5f4669": {
+   "fragment_id": "Elementos de verificação do cumprimento das boas práticas de laboratório (BPL)",
+   "type": "divisao",
+   "heading": "Elementos de verificação do cumprimento das boas práticas de laboratório (BPL)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Elementos de verificação do cumprimento das boas práticas de laboratório (BPL)\n\nOrganização\n\nUm programa (nacional) de cumprimento das BPL deve ser da responsabilidade de um organismo devidamente constituído, com estatuto legal, pessoal adequado e operando segundo um quadro administrativo definido.\n\nOs Estados-Membros devem:\n\n— assegurar que a autoridade (nacional) de acompanhamento das BPL seja directa ou indirectamente responsável por um grupo adequado de inspectores com as qualificações técnicas/científicas necessárias,\n\n— publicar documentos relacionados com a adopção de princípios BPL nos seus territórios,\n\n— publicar documentos que forneçam pormenores sobre o programa (nacional) de cumprimento das BPL, incluindo informações sobre a estrutura jurídica ou administrativa em cujo âmbito o programa opera, referências a actos, documentos normativos (por exemplo regulamentos, normas de conduta), manuais de inspecção, guias, periodicidade das inspecções e/ou critérios utilizados para a definição dos calendários de inspecção, etc.,\n\n— manter registos sobre as instalações de ensaio inspeccionadas (e a respectiva situação de cumprimento das BPL) e sobre os estudos sujeitos a «auditoria de estudo»."
+  },
+  "738c460327b730ec": {
+   "fragment_id": "Confidencialidade",
+   "type": "divisao",
+   "heading": "Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Confidencialidade\n\nAs autoridades (nacionais) de acompanhamento das BPL terão acesso a informações com valor comercial e, ocasionalmente, poderão até ter necessidade de retirar de uma instalação de ensaio documentos comercialmente sensíveis ou de fazer referências pormenorizadas a esses documentos nos seus relatórios.\n\nOs Estados-Membros devem:\n\n— tomar providências para a manutenção da confidencialidade, não apenas por parte dos inspectores mas também por parte de toda e qualquer pessoa que tenha acesso a informações confidenciais resultantes de actividades de verificação do cumprimento das BPL,\n\n— garantir que os relatórios das inspecções de instalações de ensaio e as auditorias a estudos, excepto no caso de terem sido removidas todas as informações comercialmente sensíveis e confidenciais, sejam acessíveis apenas às autoridades regulamentadoras e, quando apropriado, às instalações de ensaio inspeccionadas ou relacionadas com os estudos sujeitos a auditoria e/ou aos patrocinadores desses mesmos estudos."
+  },
+  "72e817c75a862f28": {
+   "fragment_id": "Pessoal e formação",
+   "type": "divisao",
+   "heading": "Pessoal e formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Pessoal e formação\n\nAs autoridades (nacionais) de acompanhamento das BPL devem:\n\n— Garantir que dispõem de um número adequado de inspectores.\n\n— O número de inspectores necessários dependerá:\n\na) Do número de instalações de ensaio abrangidas pelo programa (nacional) de cumprimento das BPL;\n\nb) Da frequência com que vai ser verificado o cumprimento das BPL por parte das instalações de ensaio;\n\nc) Do número e da complexidade dos estudos realizados por essas instalações de ensaio;\n\nd) Do número de inspecções ou auditorias especiais pedidas pelas autoridades regulamentares.\n\n— Garantir a qualificação e formação adequadas dos inspectores.\n\n— Os inspectores devem ter qualificações e experiência prática no domínio das disciplinas científicas relevantes para os ensaios de produtos químicos. As autoridades (nacionais) de acompanhamento das BPL devem:\n\na) Assegurar que são tomadas disposições para a formação adequada de inspectores no domínio das BPL, tendo em conta as suas qualificações e experiência individuais;\n\nb) Incentivar o intercâmbio de informação, incluindo, quando necessário, actividades de formação conjuntas com autoridades (nacionais) de acompanhamento das BPL noutros países membros da OCDE, de forma a promover a harmonização internacional da interpretação e aplicação dos princípios BPL e da verificação do cumprimento de tais princípios.\n\n— Assegurar que o pessoal envolvido nas inspecções, incluindo os eventuais peritos externos, não possui qualquer interesse financeiro ou de outro tipo nas instalações de ensaio inspeccionadas, nos estudos sujeitos a auditoria ou nas firmas que patrocinam tais estudos.\n\n— Fornecer aos inspectores meios de identificação adequados (por exemplo um cartão de identificação).\n\nOs inspectores podem:\n\n— pertencer ao quadro permanente da autoridade (nacional) de acompanhamento das BPL,\n\n— pertencer ao quadro permanente de um organismo independente da autoridade (nacional) de acompanhamento das BPL, ou\n\n— ser contratados, por qualquer meio, pela autoridade (nacional) de acompanhamento das BPL para efectuarem inspecções a instalações de ensaio ou auditorias a estudos.\n\nNos dois últimos casos, a autoridade (nacional) de acompanhamento das BPL deve ter a responsabilidade última pela avaliação do cumprimento das BPL por parte das instalações de ensaio, da qualidade/validade das auditorias a estudos realizadas e pela tomada de qualquer acção que possa ser necessária com base nos resultados dessas inspecções a instalações de ensaio ou auditorias a estudos."
+  },
+  "3a36391283873ceb": {
+   "fragment_id": "Programas (nacionais) de cumprimento das BPL",
+   "type": "divisao",
+   "heading": "Programas (nacionais) de cumprimento das BPL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Programas (nacionais) de cumprimento das BPL\n\nA verificação do cumprimento das BPL tem por objectivo averiguar se as instalações de ensaio aplicam os princípios BPL na realização dos respectivos estudos e se possuem condições para assegurar uma qualidade adequada dos dados resultantes. Como já foi indicado, os Estados-Membros devem publicar, de forma pormenorizada, o seu programa (nacional) de cumprimento das BPL. Tal informação deve, nomeadamente:\n\n— Definir o alcance e amplitude do programa.\n\n— Um programa (nacional) de cumprimento das BPL pode abranger apenas uma gama limitada de produtos químicos, nomeadamente os produtos químicos industriais, os pesticidas, os produtos farmacêuticos, etc., ou todos os produtos químicos. O âmbito do referido acompanhamento deve ser definido tanto em relação às categorias de produtos químicos como aos tipos de ensaios a realizar (por exemplo: físicos, químicos, toxicológicos e/ou ecotoxicológicos).\n\n— Fornecer indicações sobre o mecanismo através do qual as instalações de ensaio participam no programa.\n\n— A aplicação dos princípios BPL pode ser obrigatória para os dados de segurança relativos ao ambiental e à saúde que sejam obtidos para fins de regulamentação. Deverá existir um mecanismo que permita à autoridade (nacional) relevante a verificação do cumprimento dos princípios BPL pelas instalações de ensaio.\n\n— Fornecer informações sobre as categorias de inspecções a instalações de ensaio/auditorias a estudos.\n\n— Um programa nacional de cumprimento das BPL deve incluir:\n\na) Inspecções de rotina às instalações de ensaio. Essas inspecções podem traduzir-se tanto em inspecções gerais às instalações de ensaio como em auditorias a estudos em curso ou já terminados;\n\nb) Inspecções especiais a instalações de ensaio/auditorias a estudos a pedido de uma autoridade regulamentar — ou seja, desencadeadas por uma dúvida suscitada durante o processo de apresentação dos dados a uma autoridade regulamentar.\n\n— Definir os poderes dos inspectores para a entrada em instalações de ensaio e o acesso aos dados mantidos pelas mesmas (incluindo espécimes, procedimentos habituais de funcionamento, documentação de outro tipo, etc.).\n\n— Normalmente não é desejável a entrada dos inspectores nas instalações de ensaio contra a vontade da administração mas podem, no entanto, surgir ocasiões em que a entrada e o acesso aos dados sejam essenciais para proteger a saúde pública ou o ambiente. Devem, pois, definir-se os poderes da autoridade (nacional) de acompanhamento das BPL em tais casos.\n\n— Descrever os procedimentos de verificação do cumprimento das BPL nas inspecções a instalações de ensaio e nas auditorias a estudos.\n\n— A documentação deve indicar os procedimentos que serão utilizados para analisar quer os processos organizativos quer as condições em que os estudos laboratoriais são planeados, realizados, acompanhados e registados. As directrizes para tais procedimentos constam da parte B do presente anexo.\n\n— Descrever as acções que poderão ser adoptadas na sequência de uma inspecção ou da auditoria de um estudo."
+  },
+  "6ef6fca8de503bb7": {
+   "fragment_id": "Sequência a dar às inspecções a instalações de ensaio e às auditorias a estudos",
+   "type": "divisao",
+   "heading": "Sequência a dar às inspecções a instalações de ensaio e às auditorias a estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Sequência a dar às inspecções a instalações de ensaio e às auditorias a estudos\n\nNo final da inspecção de uma instalação de ensaio ou da auditoria de um estudo, o inspector deve elaborar por escrito um relatório com as suas conclusões.\n\nQuando se constatarem desvios em relação aos princípios BPL durante ou após a inspecção de uma instalação de ensaio ou a auditoria de um estudo, os Estados-Membros devem adoptar medidas. A acção a seguir deve ser descrita em documentos elaborados pela autoridade (nacional) de acompanhamento das BPL.\n\nSe a inspecção de uma instalação de ensaio ou a auditoria de um estudo revelar apenas pequenos desvios em relação aos princípios BPL, deverá ser pedido a essa instalação que corrija tais desvios. Na devida altura, o inspector pode pretender efectuar uma nova visita às instalações para verificar se as correcções foram introduzidas.\n\nCaso tenham sido constatados apenas pequenos desvios, ou não tenham sido constatados quaisquer desvios, as autoridades (nacionais) de acompanhamento das BPL podem:\n\n— emitir uma declaração especificando que a instalação de ensaio foi inspeccionada e está conforme com os princípios BPL. Deve referir-se a data da inspecção e, se necessário, os tipos de ensaios objecto de inspecção nessa altura, tais declarações podem ser utilizadas para fornecer informações às autoridades (nacionais) de acompanhamento das BPL de outros países membros da OCDE,\n\n— e/ou\n\n— fornecer à autoridade regulamentar que solicitou a auditoria do estudo um relatório pormenorizado das suas conclusões.\n\nCaso sejam detectados desvios graves, as providências a tomar pelas autoridades (nacionais) de acompanhamento das BPL dependerão das circunstâncias específicas de cada caso e das disposições jurídicas ou administrativas ao abrigo das quais o acompanhamento das BPL foi estabelecido. As providências que podem ser tomadas incluem, de forma não exaustiva:\n\n— emissão de uma declaração detalhada dos desvios ou erros encontrados que possam afectar a validade dos estudos efectuados na instalação de ensaio,\n\n— recomendação à autoridade regulamentar no sentido de recusar um determinado estudo,\n\n— suspensão das inspecções a uma instalação de ensaio, ou da auditoria dos estudos de uma instalação de ensaio, e, por exemplo, quando tal seja administrativamente possível, retirar essa instalação do programa (nacional) de cumprimento das BPL, ou de qualquer lista ou registo existente,\n\n— exigência de inclusão nos relatórios, referentes a estes estudos específicos, de uma declaração pormenorizando os desvios constatados,\n\n— acção judicial, quando as circunstâncias o justifiquem, e os procedimentos jurídicos/administrativos o permitam."
+  },
+  "368bff0247bfa969": {
+   "fragment_id": "Procedimentos de recurso",
+   "type": "divisao",
+   "heading": "Procedimentos de recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Procedimentos de recurso\n\nOs problemas ou divergências de opinião entre os inspectores e a administração das instalações de ensaio serão normalmente resolvidos durante a realização da inspecção da instalação ou da auditoria. Contudo, por vezes poderá não ser possível chegar a acordo. Deve existir um processo através do qual uma instalação de ensaio possa actuar, em função dos resultados de uma inspecção ou da auditoria de um estudo para a verificação do cumprimento das BPL e/ou em relação à acção que as autoridades nacionais se propõem adoptar com base nesses resultados."
+  },
+  "24aaa19b74421153": {
+   "fragment_id": "PARTE B ORIENTAÇÕES PARA A REALIZAÇÃO DE INSPECÇÕES A INSTALAÇÕES DE ENSAIO E AUDITORIAS DE ESTUDOS",
+   "type": "divisao",
+   "heading": "PARTE B ORIENTAÇÕES PARA A REALIZAÇÃO DE INSPECÇÕES A INSTALAÇÕES DE ENSAIO E AUDITORIAS DE ESTUDOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B ORIENTAÇÕES PARA A REALIZAÇÃO DE INSPECÇÕES A INSTALAÇÕES DE ENSAIO E AUDITORIAS DE ESTUDOS"
+  },
+  "398ff633e4dc3be7": {
+   "fragment_id": "Introdução",
+   "type": "divisao",
+   "heading": "Introdução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Introdução\n\nO objectivo da presente parte do presente anexo consiste em fornecer orientações para a realização de inspecções a instalações de ensaio e auditorias de estudos que sejam mutuamente aceitáveis pelos países membros da OCDE. O presente anexo refere-se fundamentalmente às inspecções a instalações de ensaio, actividade que ocupa a maior parte do tempo dos inspectores de BPL. A inspecção de uma instalação de ensaio inclui, normalmente, a auditoria ou a «revisão» de um estudo, embora por vezes também possam ser realizadas, isoladamente, auditorias a estudos, nomeadamente, a pedido de uma autoridade regulamentar. No final do presente anexo são apresentadas orientações gerais para a realização de auditorias de estudos.\n\nAs inspecções a instalações de ensaio são realizadas com o objectivo de determinar o grau de conformidade destas, e dos estudos laboratoriais, com os princípios BPL, bem como de verificar a integridade dos resultados, de forma a garantir que a qualidade dos dados resultantes é adequada aos processos de avaliação e tomada de decisões por parte das autoridades regulamentares nacionais. Das inspecções são elaborados relatórios, nos quais deve constar o grau de conformidade com os princípios BPL. As inspecções a instalações de ensaio devem ser realizadas numa base regular e de rotina, de forma a obter e manter um registo da situação de cumprimento dos princípios BPL.\n\nPodem ser obtidas mais informações acerca da presente parte do presente anexo nos Documentos de Consenso sobre BPL da OCDE (por exemplo, o papel e as responsabilidades do director do estudo)."
+  },
+  "3e554cb2b44c03f3": {
+   "fragment_id": "Definição de termos",
+   "type": "divisao",
+   "heading": "Definição de termos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Definição de termos\n\nAs definições dos termos constantes dos princípios de BPL da OCDE, adoptados pelo artigo 1.º da Directiva 2004/10/CE na parte A do presente anexo são aplicáveis à presente parte do mesmo."
+  },
+  "bd696e96add66205": {
+   "fragment_id": "Inspecções a instalações de ensaio",
+   "type": "divisao",
+   "heading": "Inspecções a instalações de ensaio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Inspecções a instalações de ensaio\n\nAs inspecções para verificação do cumprimento dos princípios BPL podem incidir sobre qualquer instalação de ensaios que produza dados de segurança sobre saúde ou ambiente, para fins de regulamentação. Os inspectores poderão ter de proceder à auditoria de dados relacionados com as propriedades físicas, químicas, toxicológicas ou ecotoxicológicas de uma substância ou preparação. Em certos casos, os inspectores poderão necessitar da assistência de peritos em domínios específicos.\n\nDevido à grande diversidade de instalações (quer em termos de implantação física quer de estrutura administrativa), bem como à variedade dos tipos de estudos objecto de inspecção, os inspectores devem apelar ao seu próprio bom senso na avaliação do grau e da extensão da conformidade com os princípios BPL. Contudo, os inspectores devem tentar adoptar uma abordagem consistente, de modo a avaliar se uma determinada instalação de ensaio ou estudo atingiram um nível adequado no que respeita ao cumprimento de cada um dos requisitos BPL.\n\nNos capítulos seguintes são fornecidas orientações sobre os vários aspectos da instalação de ensaio, incluindo o seu pessoal e procedimentos, que poderão ser examinados pelos inspectores. Cada capítulo inclui uma declaração de objectivos e também uma lista ilustrativa de elementos específicos que poderão ser tidos em conta durante a realização das inspecções. As referidas listas não pretendem ser exaustivas e não devem ser consideradas como tais.\n\nOs inspectores não se devem preocupar com a concepção científica dos estudos nem com a interpretação das conclusões desses estudos no que respeita aos riscos para a saúde humana ou para o ambiente. Estes aspectos são da responsabilidade das autoridades regulamentares às quais os dados são apresentados para fins de regulamentação.\n\nAs inspecções a instalações de ensaio e as auditorias de estudos perturbam inevitavelmente o trabalho normal na instalação. Por conseguinte, os inspectores devem planear o seu trabalho de forma cuidadosa e, tanto quanto possível, respeitar os pedidos da administração da instalação de ensaio no que se refere ao horário das visitas a determinadas partes das instalações.\n\nDurante a realização das inspecções e auditorias de estudo, os inspectores terão acesso a informações confidenciais e com valor comercial. É importante que os inspectores assegurem que tais informações só serão acessíveis a pessoal autorizado. As suas responsabilidades a este respeito devem ser definidas no âmbito dos programas (nacionais) de verificação do cumprimento das BPL."
+  },
+  "01c6cb5fe6cf741e": {
+   "fragment_id": "Procedimento de inspecção",
+   "type": "divisao",
+   "heading": "Procedimento de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Procedimento de inspecção\n\nPré-inspecção\n\nObjectivo: familiarizar o inspector com a instalação que vai ser inspeccionada, no que respeita à sua estrutura administrativa, à implantação física dos edifícios e ao tipo de estudos realizados.\n\nAntes da realização da inspecção de uma instalação de ensaio ou auditoria de estudo, os inspectores devem familiarizar-se com a instalação em causa. Devem analisar todas as informações disponíveis sobre a referida instalação, facto que pode incluir a análise de relatórios de inspecções anteriores, da implantação da instalação, de organogramas, relatórios de estudos, protocolos e dos *curricula vitae* (CV) do pessoal principal. Esses documentos fornecerão informações sobre:\n\n— tipo, dimensões e implantação da instalação,\n\n— tipo de estudos que poderão ser encontrados durante a inspecção,\n\n— estrutura administrativa da instalação.\n\nOs inspectores devem registar, enfatizando, quaisquer deficiências constatadas em inspecções anteriores. Caso não tenham sido realizadas inspecções anteriores, pode efectuar-se uma visita de pré-inspecção para obter informações relevantes.\n\nAs instalações de ensaio devem ser informadas da data e hora da chegada dos inspectores, do objectivo da visita e do período de tempo que os inspectores pensam permanecer nas instalações. Tal facto permitirá à instalação de ensaio assegurar a disponibilidade do pessoal e o acesso à documentação. Nos casos que impliquem a análise de documentos ou registos específicos, poderá ser útil referir previamente tal facto aos responsáveis pela instalação de ensaio, de modo a que os referidos documentos ou registos estejam prontamente disponíveis durante a inspecção."
+  },
+  "074e0099fe6391bd": {
+   "fragment_id": "Reunião inicial",
+   "type": "divisao",
+   "heading": "Reunião inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Reunião inicial\n\nObjectivo: informar a direcção e o pessoal da instalação dos motivos da inspecção ou auditoria a que se vai proceder e identificar as zonas, estudo(s) seleccionado(s) para auditoria, documentos e pessoal da instalação que, provavelmente, serão objecto de inspecção.\n\nOs pormenores administrativos e práticos da inspecção de uma instalação de ensaio ou da auditoria de um estudo devem ser discutidos com a direcção das instalações no início da visita. Na reunião inicial, os inspectores devem:\n\n— delinear o objectivo e alcance da visita,\n\n— descrever a documentação necessária para a inspecção da instalação de ensaio, como por exemplo, listas de estudos já terminados e em curso, planos de estudos, procedimentos habituais de funcionamento, relatórios de estudos, etc. Durante esta reunião deve chegar-se a acordo sobre o acesso a documentos relevantes e, se necessário, às disposições para a obtenção de cópias dos mesmos,\n\n— solicitar informações ou esclarecimentos sobre a estrutura da direcção (organização) das instalações e de pessoal,\n\n— solicitar informações sobre a realização, no mesmo loca1, de estudos sujeitos às BPL e de outros estudos aos quais não se apliquem os princípios BPL,\n\n— fazer uma análise inicial das zonas da instalação que serão objecto da inspecção,\n\n— descrever os documentos e amostras necessários para o(s) estudo(s) já terminado(s), ou em curso, seleccionado(s) para auditoria,\n\n— comunicar que no final da inspecção terá lugar uma reunião final.\n\nÉ aconselhável que, antes de iniciar a inspecção, o(s) inspector(es) estabeleça(m) contacto com a unidade de garantia da qualidade (GQ) da instalação.\n\nRegra geral, poderá ser útil que, ao procederem à inspecção das instalações, os inspectores sejam acompanhados de um elemento da unidade de garantia da qualidade.\n\nOs inspectores podem solicitar que lhes seja reservada uma sala para o exame de documentos e outras actividades."
+  },
+  "fe784454397f3ad7": {
+   "fragment_id": "Organização e pessoal",
+   "type": "divisao",
+   "heading": "Organização e pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Organização e pessoal\n\nObjectivo: determinar se a instalação de ensaios dispõe de pessoal qualificado e de recursos suficientes, em termos de pessoal e serviços de apoio, para a diversidade e o número de estudos, se a estrutura da organização é adequada e se a direcção estabeleceu uma política de formação e vigilância da saúde do pessoal adequada aos estudos efectuados na instalação.\n\nDeve solicitar-se à direcção que apresente determinados documentos, como, por exemplo:\n\n— plantas das instalações,\n\n— organogramas relativos à gestão e à organização científica da instalação,\n\n— CV do pessoal envolvido no(s) tipo(s) de estudo(s) seleccionado(s) para auditoria,\n\n— lista(s) de estudos em curso e já terminados, incluindo informações relativas ao tipo de estudo, datas de início e de conclusão, sistemas de ensaio, métodos de aplicação da substância a ensaiar e nome do director do estudo,\n\n— políticas de vigilância da saúde do pessoal,\n\n— descrição das funções de cada pessoa e programas e registos de formação do pessoal,\n\n— uma relação dos procedimentos habituais de funcionamento da instalação,\n\n— procedimentos habituais de funcionamento específicos dos estudos ou procedimentos sujeitos a inspecção ou auditoria,\n\n— lista(s) dos directores de estudos e patrocinadores associados ao(s) estudo(s) sujeito(s) a auditoria.\n\nO inspector deve verificar, em especial:\n\n— as listas de estudos terminados e em curso, de modo a verificar o nível do trabalho levado a cabo pela instalação de ensaio,\n\n— a identificação e as habilitações do(s) director(es) de estudos, do chefe da unidade de garantia da qualidade e de outro pessoal importante,\n\n— a existência de procedimentos habituais de funcionamento em todas as áreas de ensaios relevantes."
+  },
+  "2a95d72333d07217": {
+   "fragment_id": "Programa de garantia da qualidade",
+   "type": "divisao",
+   "heading": "Programa de garantia da qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Programa de garantia da qualidade\n\nObjectivo: determinar se a direcção da instalação de ensaio dispõe de mecanismos adequados que possam garantir a realização dos estudos laboratoriais em conformidade com os princípios BPL.\n\nDeve solicitar-se ao chefe da unidade de GQ que demonstre os sistemas e métodos de inspecção e acompanhamento de estudos para efeitos de GQ, bem como o sistema de registo de observações durante o acompanhamento para efeitos de GQ. Os inspectores devem verificar:\n\n— as qualificações do chefe e de todo o pessoal da unidade de GQ,\n\n— se a unidade de GQ funciona independentemente do pessoal envolvido nos estudos,\n\n— a forma como a unidade de GQ planeia e efectua as inspecções e acompanha as fases dum estudo identificadas como críticas, bem como os recursos de que dispõe para a realização das inspecções e actividades de acompanhamento para efeitos de GQ,\n\n— se, nos casos em que os estudos são de tal forma breves que se torna impraticável um acompanhamento individual, existem disposições para um acompanhamento com base numa amostragem,\n\n— a extensão e pormenor do acompanhamento efectuado pela unidade de GQ durante as fases práticas do estudo,\n\n— os procedimentos utilizados pela unidade de GQ para verificar o relatório final e garantir que o mesmo está em conformidade com os dados em bruto,\n\n— se a direcção recebe relatórios da unidade de GQ relativos a problemas susceptíveis de afectarem a qualidade ou integridade de um estudo,\n\n— as acções tomadas pela GQ quando são detectados desvios,\n\n— quando relevante, o papel da GQ, no caso de determinados estudos ou partes de estudos efectuados em laboratórios exteriores, sob contrato,\n\n— quando relevante, o papel da GQ na análise, revisão e actualização dos procedimentos habituais de funcionamento."
+  },
+  "2a05bb56c170e1e0": {
+   "fragment_id": "Instalações",
+   "type": "divisao",
+   "heading": "Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Instalações\n\nObjectivo: determinar se a instalação de ensaio, quer no interior quer no exterior, tem as dimensões, concepção e localização adequadas para satisfazer as exigências dos estudos em curso.\n\nO inspector deve verificar:\n\n— se a planta das instalações permite que exista um grau de separação adequado, de forma a que, por exemplo, as substâncias, os animais, as dietas, os espécimes patológicos, etc., utilizados nos ensaios de um estudo, não possam ser confundidos com os de outro estudo,\n\n— se existem, e se funcionam de forma adequada, os procedimentos de controlo e acompanhamento do ambiente em zonas críticas, como as salas dos sistemas de ensaios em animais e outros ensaios biológicos, as áreas de armazenamento de substâncias para os ensaios e as zonas laboratoriais,\n\n— se a manutenção geral é adequada no que se refere às diversas instalações e se existem, em caso de necessidade, procedimentos de controlo de pragas."
+  },
+  "7eaf6c4c83435f48": {
+   "fragment_id": "Cuidados a ter com os sistemas de ensaio biológicos e respectiva acomodação e confinamento",
+   "type": "divisao",
+   "heading": "Cuidados a ter com os sistemas de ensaio biológicos e respectiva acomodação e confinamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Cuidados a ter com os sistemas de ensaio biológicos e respectiva acomodação e confinamento\n\nObjectivo: determinar se a instalação de ensaios, sempre que efectue estudos que utilizem animais ou outros sistemas biológicos de ensaio, dispõe de meios e condições de apoio para o tratamento, acomodação e confinamento dos referidos animais e sistemas adequados para impedir o *stress* e outros problemas susceptíveis de afectar os sistemas de ensaio e, consequentemente, a qualidade dos dados.\n\nUma instalação de ensaios pode efectuar estudos que exijam uma diversidade de espécies animais ou vegetais, assim como sistemas microbianos ou outros sistemas celulares ou subcelulares. O tipo de sistemas de ensaio utilizado determinará os aspectos relativos ao tratamento, acomodação ou confinamento, que o inspector deverá avaliar. O inspector deve, perante os sistemas de ensaio, e fazendo uso do seu bom senso, verificar se:\n\n— existem meios adequados aos sistemas de ensaio utilizados e às necessidades dos ensaios,\n\n— existem disposições para a colocação em quarentena de animais e/ou plantas aquando da recepção na instalação, e se essas disposições funcionam de forma satisfatória,\n\n— existem disposições para o isolamento de animais (ou, em caso de necessidade, de outros elementos de um sistema de ensaio) doentes ou portadores de doença ou que se suspeite estarem nessas condições,\n\n— existe um acompanhamento e manutenção de registos adequados relativos à saúde, comportamento ou outros aspectos úteis para o sistema de ensaio,\n\n— o equipamento que mantém as condições de ambiente exigidas para cada sistema de ensaio é adequado e eficaz, e se a sua manutenção é bem realizada,\n\n— as gaiolas dos animais, prateleiras, tanques e outros recipientes, assim como os equipamentos acessórios, estão suficientemente limpos,\n\n— são efectuadas, em função das necessidades, análises que permitam verificar as condições de ambiente e os sistemas de apoio,\n\n— existem meios para a remoção e eliminação de detritos animais e resíduos dos sistemas de ensaio e se estes são utilizados de modo a minimizar a infestação por parasitas, o aparecimento de cheiros, o risco de doenças e a contaminação do ambiente,\n\n— existem áreas para o armazenamento dos alimentos dos animais ou materiais equivalentes, para todos os sistemas de ensaio; se essas áreas não são utilizadas para o armazenamento de outros materiais, nomeadamente substâncias de ensaio, produtos químicos para controlo de pragas ou desinfectantes e ainda se são separadas das zonas onde se encontram os animais ou outros sistemas biológicos,\n\n— os alimentos armazenados e as camas para animais estão protegidos contra a deterioração decorrente de condições ambientais adversas, infestação ou contaminação."
+  },
+  "93bd55ab6cee1785": {
+   "fragment_id": "Equipamentos, materiais, reagentes e espécimes",
+   "type": "divisao",
+   "heading": "Equipamentos, materiais, reagentes e espécimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Equipamentos, materiais, reagentes e espécimes\n\nObjectivo: determinar se a instalação de ensaio dispõe de equipamentos adequados e bem localizados, em quantidade suficiente e de capacidade adequada para satisfazerem as exigências dos ensaios efectuados, se os materiais, reagentes e espécimes estão correctamente rotulados e armazenados e se são utilizados de forma adequada.\n\nO inspector deve verificar se:\n\n— os equipamentos estão limpos e em boas condições de funcionamento,\n\n— são mantidos registos do funcionamento, manutenção, verificação, calibração e validação dos equipamentos e aparelhos de medição (incluindo os sistemas informáticos),\n\n— os materiais e reagentes químicos estão convenientemente rotulados, se são armazenados a temperaturas adequadas e se não são excedidos os prazos de validade. Os rótulos dos reagentes devem indicar a sua origem, identificação e concentração e/ou outras informações pertinentes,\n\n— os espécimes estão devidamente identificados por sistema de ensaio, estudo, natureza e data de colheita,\n\n— os equipamentos e materiais utilizados não interferem significativamente com os sistemas de ensaios."
+  },
+  "f58c0fbdcc28e380": {
+   "fragment_id": "Sistemas de ensaio",
+   "type": "divisao",
+   "heading": "Sistemas de ensaio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Sistemas de ensaio\n\nObjectivo: verificar se existem procedimentos adequados para o manuseamento e controlo da variedade dos sistemas de ensaio exigida pelos estudos levados a cabo na instalação, como por exemplo, sistemas químicos e físicos, sistemas celulares e microbianos, plantas ou animais."
+  },
+  "496d7c4f18a42471": {
+   "fragment_id": "Sistemas físicos e químicos",
+   "type": "divisao",
+   "heading": "Sistemas físicos e químicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Sistemas físicos e químicos\n\nO inspector deve verificar:\n\n— se foi determinada a estabilidade das substâncias de ensaio e das substâncias de referência, e se foram utilizadas as substâncias de referência especificadas nos planos do ensaio, nos casos em que tal é exigido pelos planos de estudo,\n\n— no caso de sistemas automatizados, se os dados produzidos na forma de gráficos, traçados de registadores ou material impresso por via electrónica foram classificados como dados em bruto e arquivados."
+  },
+  "d95832b4b25e83ea": {
+   "fragment_id": "Sistemas de ensaio biológicos",
+   "type": "divisao",
+   "heading": "Sistemas de ensaio biológicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Sistemas de ensaio biológicos\n\nTomando em consideração os aspectos relevantes acima referidos e que dizem respeito aos cuidados a ter com o tratamento, acomodação e confinamento dos sistemas de ensaio biológicos, o inspector deve verificar se:\n\n— os sistemas de ensaio estão conformes ao especificado nos planos de estudo,\n\n— os animais são identificados de modo correcto e, se necessário e adequado, único ao longo do estudo; e se existem registos em relação à recepção dos sistemas de ensaio e que documentem de forma completa o número de sistemas de ensaio recebidos, utilizados, substituídos ou eliminados,\n\n— as áreas de acomodação, ou recipientes dos sistemas de ensaio, estão correctamente identificados com todas as informações necessárias,\n\n— existe uma separação adequada entre os estudos realizados nas mesmas espécies animais (ou nos mesmos sistemas biológicos de ensaio) mas com substâncias diferentes,\n\n— existe uma separação adequada das espécies animais (e outros sistemas de ensaio biológicos) no espaço e no tempo,\n\n— o ambiente dos sistemas de ensaio biológicos está conforme com o plano do estudo e com os procedimentos habituais de funcionamento, no que se refere a aspectos como a temperatura ou os ciclos luz/obscuridade,\n\n— o registo da recepção, manuseamento, acomodação ou confinamento, cuidados a ter e avaliação do estado de saúde é adequado aos sistemas de ensaio,\n\n— são mantidos registos escritos dos exames, quarentena, morbilidade, mortalidade, comportamento, diagnóstico e tratamento dos sistemas de ensaio que utilizam animais ou plantas ou outros aspectos semelhantes adequados a cada sistema de ensaio biológico,\n\n— existem disposições para a eliminação adequada dos sistemas de ensaio no fim dos ensaios."
+  },
+  "0d28bfd857fe66c7": {
+   "fragment_id": "Substâncias para ensaio e substâncias de referência",
+   "type": "divisao",
+   "heading": "Substâncias para ensaio e substâncias de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Substâncias para ensaio e substâncias de referência\n\nObjectivo: determinar se a instalação de ensaio dispõe de procedimentos: i) para assegurar que a identificação, actividade, quantidade e composição das substâncias para ensaio e de referência estão em conformidade com as suas especificações, ii) para receber e armazenar correctamente as referidas substâncias.\n\nO inspector deve verificar se:\n\n— existem registos escritos da recepção (que incluam a identificação da pessoa responsável), manuseamento, recolha de amostras, utilização e armazenagem de substâncias para teste e de referência,\n\n— os recipientes que contêm as substâncias para ensaio e substâncias de referência estão correctamente rotulados,\n\n— as condições de armazenagem são adequadas para preservar a pureza, estabilidade e a concentração das substâncias para ensaio e substâncias de referência,\n\n— se conservam registos da identificação, determinação da pureza, composição e estabilidade das substâncias para ensaio e de referência, e para a prevenção da sua contaminação, quando aplicável,\n\n— existem procedimentos para a determinação da homogeneidade e estabilidade de misturas que contenham substâncias para ensaio e de referência, quando aplicável,\n\n— os recipientes que contêm misturas (ou diluições) de substâncias para ensaio e de referência estão rotulados, e se são mantidos registos relativos à homogeneidade e estabilidade do seu conteúdo, quando aplicável,\n\n— quando o ensaio tiver duração superior a quatro semanas retiram amostras, para fins analíticos, de cada lote de substâncias para ensaio e de referência e se estas foram conservadas por um período de tempo apropriado,\n\n— os procedimentos para a mistura de substâncias foram elaborados de forma a impedir erros de identificação ou contaminações cruzadas."
+  },
+  "05e828b9331bd43d": {
+   "fragment_id": "Procedimentos habituais de funcionamento (PHF)",
+   "type": "divisao",
+   "heading": "Procedimentos habituais de funcionamento (PHF)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Procedimentos habituais de funcionamento (PHF)\n\nObjectivo: verificar se a instalação de ensaio dispõe de PHF escritos, relativos a todos os aspectos importantes do seu funcionamento, tendo em conta que estes constituem uma das ferramentas de gestão mais importantes para o controlo do funcionamento da instalação. Os PHF estão directamente relacionados com os elementos de rotina dos ensaios efectuados na instalação.\n\nO inspector deve verificar se:\n\n— cada área da instalação de ensaio tem imediatamente disponíveis cópias autorizadas dos PHF relevantes,\n\n— existem procedimentos para a revisão e actualização dos PHF,\n\n— todas as alterações ou mudanças dos PHF foram autorizadas e datadas,\n\n— são mantidos arquivos do histórico dos PHF,\n\n— existem PHF para as seguintes actividades (numa lista não exaustiva):\n\ni) recepção; identificação do produto, pureza, composição e estabilidade; rotulagem; manuseamento; amostragem; armazenamento das substâncias de ensaio e das substâncias de referência,\n\nii) utilização, manutenção, limpeza, calibração e validação dos aparelhos de medida, dos sistemas informáticos e dos equipamentos de controlo do ambiente,\n\niii) preparação de reagentes e das dosagens das formulações,\n\niv) conservação de registos, elaboração de relatórios, armazenamento e acesso a registos e relatórios,\n\nv) preparação e controlo ambiental das áreas que contêm os sistemas de ensaio,\n\nvi) recepção, transferência, localização, caracterização, identificação e cuidados a ter com os sistemas de ensaio,\n\nvii) manuseamento dos sistemas de ensaio antes, durante e após a finalização do estudo,\n\nviii) eliminação dos sistemas de ensaio,\n\nix) utilização de agentes de controlo de pragas e de agentes de limpeza,\n\nx) actividades relativas ao programa de garantia da qualidade."
+  },
+  "62424f6804fd0202": {
+   "fragment_id": "Execução do estudo",
+   "type": "divisao",
+   "heading": "Execução do estudo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Execução do estudo\n\nObjectivo: verificar se existem planos de estudo escritos e se esses planos e a realização do estudo estão em conformidade com os princípios BPL.\n\nO inspector deve verificar se:\n\n— o plano de estudo foi assinado pelo director de estudo,\n\n— todas as alterações feitas ao plano de estudo foram assinadas e datadas pelo director de estudo,\n\n— foi registada a data da aprovação do plano de estudo pelo respectivo patrocinador (quando aplicável),\n\n— as medições, observações e exames estão em conformidade com o plano de estudo e os PHF relevantes,\n\n— os resultados dessas medições, observações e exames foram registados directa e imediatamente, de forma rigorosa e legível, e assinados (ou rubricados) e datados,\n\n— qualquer alteração dos dados em bruto, incluindo os armazenados em computador, não eliminam entradas anteriores, incluem os motivos das alterações e estão assinadas e datadas,\n\n— os dados gerados ou armazenados electronicamente estão identificados e se os procedimentos para os proteger contra alterações não autorizadas ou perdas são adequados,\n\n— os sistemas informáticos utilizados para os estudos são fiáveis, exactos e podem ser validados,\n\n— todas as ocorrências imprevistas registadas nos dados em bruto foram investigadas e avaliadas,\n\n— os resultados apresentados nos relatórios do estudo, intermédios ou finais, são coerentes, completos e reflectem de forma correcta os dados em bruto."
+  },
+  "b52400052cd6db1d": {
+   "fragment_id": "Relatório dos resultados dos estudos",
+   "type": "divisao",
+   "heading": "Relatório dos resultados dos estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Relatório dos resultados dos estudos\n\nObjectivo: determinar se os relatórios finais são preparados em conformidade com os princípios BPL.\n\nNa análise de um relatório final, o inspector deve verificar se:\n\n— está assinado e datado pelo director de estudo, indicando que o mesmo aceita a responsabilidade pela validade do estudo e confirma que este foi realizado em conformidade com os princípios BPL,\n\n— está assinado e datado pelos cientistas principais participantes, no caso dos relatórios de trabalhos que implicam a colaboração em diversos domínios,\n\n— o relatório inclui uma declaração de garantia da qualidade, assinada e datada,\n\n— todas as alterações foram efectuadas pelo pessoal responsável,\n\n— apresenta uma lista da localização de todas as amostras, espécimes e dados em bruto nos arquivos."
+  },
+  "306f5bebfaf2456f": {
+   "fragment_id": "Armazenamento e conservação dos registos",
+   "type": "divisao",
+   "heading": "Armazenamento e conservação dos registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Armazenamento e conservação dos registos\n\nObjectivo: verificar se a instalação elaborou registos e relatórios adequados e se foram tomadas as providências necessárias para o armazenamento e conservação em segurança dos registos e materiais.\n\nO inspector deve verificar:\n\n— se foi nomeada uma pessoa responsável pelo arquivo,\n\n— as instalações do arquivo para o armazenamento de planos de estudos, de dados em bruto (incluindo os provenientes de estudos em conformidade com as BPL que tenham sido interrompidos), de relatórios finais, das amostras e espécimes, bem como registos das habilitações e formação do pessoal envolvido,\n\n— o procedimento de consulta dos materiais arquivados,\n\n— os procedimentos através dos quais o acesso aos arquivos é limitado ao pessoal autorizado e são conservados registos das pessoas que dispõem de acesso aos dados em bruto, diapositivos, etc.,\n\n— se é mantido um inventário dos materiais retirados e devolvidos aos arquivos,\n\n— se os registos e materiais são conservados durante o período de tempo necessário ou adequado e se estão protegidos contra a perda ou danos causados pelo fogo, por condições ambientais adversas, etc."
+  },
+  "187877be32484f89": {
+   "fragment_id": "Auditorias a estudos",
+   "type": "divisao",
+   "heading": "Auditorias a estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Auditorias a estudos\n\nAs inspecções das instalações de ensaio incluem, normalmente, a realização de auditorias aos estudos já terminados ou em curso. A auditoria de um estudo específico poderá ser solicitada pelas autoridades regulamentares; essas auditorias poderão ser realizadas de forma independente das inspecções às instalações. Devido à grande variedade de tipos de estudos que podem ser sujeitos a auditoria, só se considera adequado fornecer orientações gerais, devendo os inspectores e outras pessoas envolvidas na auditoria utilizar a sua intuição no que respeita à natureza e amplitude dos exames que efectuarem.\n\nO objectivo consiste na reconstituição do estudo com base na comparação entre o plano de estudo e o relatório final, os PHF relevantes, dados em bruto e outro material arquivado. Nalguns casos, os inspectores poderão necessitar da ajuda de outros peritos, de modo a efectuarem uma auditoria eficiente. Como exemplo, pode referir-se o exame microscópico de cortes de tecido.\n\nAo efectuar a auditoria de um estudo, o inspector deve:\n\n— obter os nomes, funções e informações sobre a formação e experiência dos principais participantes no(s) estudo(s), nomeadamente o director de estudo e os cientistas principais,\n\n— verificar se existe pessoal com qualificações adequadas nas áreas relevantes para o(s) estudos(s) realizado(s),\n\n— identificar elementos de aparelhos ou equipamentos especiais utilizados no estudo e verificar a sua calibração, manutenção e registos de reparações,\n\n— verificar os registos relativos à estabilidade das substâncias para ensaio, à análise das substâncias e formulações para ensaio, à análise dos espécimes utilizados, etc.,\n\n— tentar determinar, se possível através de entrevistas, quais as tarefas atribuídas a alguns indivíduos, seleccionados, participantes no estudo, de modo a verificar se dispuseram de tempo suficiente para realizar as tarefas constantes do plano ou do relatório do estudo,\n\n— obter cópias de toda a documentação relativa aos procedimentos de controlo ou que façam parte integrante do estudo, nomeadamente:\n\ni) o plano do estudo,\n\nii) os PHF em vigor na altura em que o estudo foi efectuado,\n\niii) diários, livros de apontamentos dos laboratórios, ficheiros, folhas de cálculo, registos impressos de dados armazenados em computador, etc.; verificar os cálculos, quando apropriado,\n\niv) o relatório final.\n\nNos caso dos estudos em que são utilizados animais (por exemplo roedores ou outros mamíferos), os inspectores devem seguir o percurso individual de alguns animais desde a sua chegada às instalações de ensaio até à autópsia. Devem prestar uma atenção especial aos registos que digam respeito:\n\n— a massa corporal dos animais, ao consumo de água/alimentos, à formulação de doses e administração, etc.,\n\n— às observações clínicas e resultados da autópsia,\n\n— à química clínica,\n\n— à patologia."
+  },
+  "064472adcdbc3fd7": {
+   "fragment_id": "Finalização da inspecção ou da auditoria de um estudo",
+   "type": "divisao",
+   "heading": "Finalização da inspecção ou da auditoria de um estudo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Finalização da inspecção ou da auditoria de um estudo\n\nApós finalizar a inspecção a uma instalação de ensaio ou a auditoria de um estudo, o inspector deverá estar preparado para discutir com representantes da instalação de ensaio, no âmbito de uma conferência final, os resultados obtidos, bem como para elaborar um relatório por escrito — o relatório de inspecção.\n\nA inspecção de qualquer grande instalação de ensaio é susceptível de revelar um certo número de pequenos desvios relativamente aos princípios das BPL, embora, em geral, esses desvios não sejam suficientemente graves para afectar a validade dos estudos efectuados nessa instalação. Em tais casos, o inspector poderá referir que a instalação de ensaio funciona em conformidade com os princípios das BPL e os critérios estabelecidos pela autoridade (nacional) de acompanhamento das BPL. Contudo, a instalação de ensaio deve ser informada em pormenor dos desvios/não conformidades ou deficiências constatados, devendo a direcção apresentar garantias de que adoptará acções correctivas adequadas.\n\nO inspector poderá necessitar de efectuar uma nova visita à instalação, após um período de tempo determinado, para verificar se foram implementadas de forma eficaz as acções correctivas propostas.\n\nSe, durante a inspecção a uma instalação de ensaio ou a auditoria de um estudo, for detectado um desvio/não conformidade grave em relação aos princípios das BPL que, na opinião do inspector, possa ter afectado a validade desse estudo ou dos estudos efectuados na instalação, o inspector deve indicar esse facto à autoridade (nacional) de acompanhamento das BPL. A acção a adoptar por esse organismo e/ou pelas autoridades regulamentares dependerá da natureza e amplitude dos desvios/não conformidades e também das disposições legais e/ou administrativas previstas nos programas de verificação do cumprimento das BPL.\n\nSempre que a auditoria de um estudo tiver sido efectuada a pedido de uma autoridade regulamentar, deverá ser elaborado um relatório, que será enviado à autoridade regulamentar interessada através da autoridade (nacional) correspondente de acompanhamento das BPL."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "8b18b2c106d0266e": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A\n\nDirectiva 88/320/CEE do Conselho (JO L 145 de 11.6.1988, p. 35)\n\nDirectiva 90/18/CEE da Comissão (JO L 11 de 13.1.1990, p. 37)\n\nDirectiva 1999/12/CE da Comissão (JO L 77 de 23.3.1999, p. 22)\n\nRegulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho, apenas o ponto 8 do anexo III (JO L 284 de 31.10.2003, p. 1)"
+  },
+  "2b311860bd39179e": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B\n\nDirectiva Data-limite de transposição\n\n88/320/CEE 1.1.1989\n\n90/18/CEE 1.7.1990\n\n1999/12/CE 30.9.1999"
+  },
+  "41b0053c9a66477e": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nDirectiva 88/320/CEE Presente directiva\n\nArtigos 1.º-6.º Artigos 1.º-6.º\n\nArtigo 7.º Artigo 8.º\n\nArtigo 8.º Artigo 7.º\n\nArtigo 9.º —\n\n— Artigo 9.º\n\n— Artigo 10.º\n\nArtigo 10.º Artigo 11.º\n\nAnexo Anexo I\n\n— Anexo II\n\n— Anexo III\n\n---"
+  },
+  "0ac2e3b62e143d6a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/396a33ce-0d3d-4afc-a038-9fbf0ad1457a.0018.03/DOC_1#src.E0001)) JO C 85 de 8.4.2003, p. 137.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/396a33ce-0d3d-4afc-a038-9fbf0ad1457a.0018.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 1 de Julho de 2003 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 20 de Janeiro de 2004.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/396a33ce-0d3d-4afc-a038-9fbf0ad1457a.0018.03/DOC_1#src.E0003)) JO L 145 de 11.6.1988, p. 35. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/396a33ce-0d3d-4afc-a038-9fbf0ad1457a.0018.03/DOC_1#src.E0004)) Ver página 44 do presente Jornal Oficial.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/396a33ce-0d3d-4afc-a038-9fbf0ad1457a.0018.03/DOC_1#src.E0005)) JO L 358 de 18.12.1986, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/396a33ce-0d3d-4afc-a038-9fbf0ad1457a.0018.03/DOC_1#src.E0006)) JO L 196 de 16.8.1967, p. 1. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 807/2003 (JO L 122 de 16.5.2003, p. 36).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/396a33ce-0d3d-4afc-a038-9fbf0ad1457a.0018.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/396a33ce-0d3d-4afc-a038-9fbf0ad1457a.0018.03/DOC_1#src.E0008)) JO 196 de 16.8.1967, p. 1."
+  },
+  "b5b56c48cdb37706": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Fevereiro de 2004\n\nrelativa à inspecção e verificação das boas práticas de laboratório (BPL)\n\n(versão codificada)\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "bb3c191c7afd8371": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Quando um Estado-Membro tiver boas razões para considerar que um laboratório, situado num outro Estado-Membro, que alegue o respeito das BPL não efectuou um determinado ensaio em conformidade com as BPL, pode pedir informações mais pormenorizadas a esse Estado-Membro e, nomeadamente, pedir a realização de uma verificação de estudos, eventualmente acompanhada de uma nova inspecção.\n\nSe não for possível chegar a um acordo, os Estados-Membros informarão imediatamente os outros Estados-Membros e a Comissão precisando as razões da sua decisão.\n\n2. A Comissão examina, logo que possível, as razões apresentadas pelos Estados-Membros no âmbito do comité previsto no n.º 1 do artigo 7.º, após o que adopta as medidas adequadas nos termos do n.º 2 do artigo 7.º A Comissão pode, para este efeito, solicitar o parecer de peritos das autoridades designadas pelos Estados-Membros.\n\n3. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 6.º-A no que diz respeito a alterar a diretiva a fim de resolver as questões referidas no n.º 1. As alterações ao anexo I não mudam a sua natureza, que consiste em prestar orientações para os procedimentos de verificação do cumprimento das BPL e para a condução de inspeções de instalações de ensaio e auditorias a estudos."
+  },
+  "751e76920905caf6": {
+   "fragment_id": "Artigo 6.º-A",
+   "type": "artigo",
+   "heading": "Artigo 6.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º-A\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 6.º, n.º 3, e no artigo 8.º, n.º 2, é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 6.º, n.º 3, e no artigo 8.º, n.º 2, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^1^](http://publications.europa.eu/resource/cellar/8a917c63-eb97-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 6.º, n.º 3, e do artigo 8.º, n.º 2, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "2b315dee70aedbe0": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A Comissão é assistida pelo comité criado pelo n.º 1 do artigo 29.º da Directiva 67/548/CEE do Conselho ([^2^](http://publications.europa.eu/resource/cellar/8a917c63-eb97-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0002)), a seguir designado «comité».\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses."
+  },
+  "b367d63c71c20149": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. O comité pode analisar qualquer questão que lhe seja apresentada pelo seu presidente, quer por iniciativa deste quer a pedido de um representante de um Estado-Membro, que incida sobre a aplicação da presente directiva, nomeadamente no que respeita:\n\n— à cooperação entre as autoridades designadas pelos Estados-Membros relativa aos aspectos técnicos e administrativos decorrentes da aplicação das BPL, e\n\n— à troca de informações sobre a formação dos inspectores.\n\n2. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 6.º-A que alterem:\n\na) A fórmula constante do artigo 2.º, n.º 2;\n\nb) O anexo I, tendo em conta o progresso técnico."
+  },
+  "87cee521b2f0bb1e": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A"
+  },
+  "2a39b07d937315f8": {
+   "fragment_id": "GUIA REVISTO PARA OS PROCEDIMENTOS DE VERIFICAÇÃO DO CUMPRIMENTO DAS BPL",
+   "type": "divisao",
+   "heading": "GUIA REVISTO PARA OS PROCEDIMENTOS DE VERIFICAÇÃO DO CUMPRIMENTO DAS BPL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GUIA REVISTO PARA OS PROCEDIMENTOS DE VERIFICAÇÃO DO CUMPRIMENTO DAS BPL\n\nA fim de facilitar a aceitação mútua dos dados de ensaios realizados para apresentação às autoridades regulamentares dos países membros da OCDE, é essencial harmonizar os procedimentos adoptados para verificar o cumprimento das boas práticas de laboratório (BPL), além de assegurar que a sua qualidade e rigor são comparáveis. O objectivo da parte A do presente anexo consiste em fornecer aos Estados-Membros uma orientação prática e pormenorizada sobre a estrutura, mecanismos e procedimentos que devem adoptar sempre que elaborem programas nacionais destinados a verificar o cumprimento das BPL, de modo a que esses programas sejam internacionalmente reconhecidos.\n\nOs Estados-Membros deverão adoptar os princípios das BPL e estabelecer procedimentos de verificação do seu cumprimento, de acordo com as práticas jurídicas e administrativas nacionais, bem como as suas prioridades, nomeadamente a extensão da cobertura inicial e subsequente no que respeita às categorias de produtos químicos e ao tipo de ensaio. Uma vez que os Estados-Membros, devido à sua estrutura legal de controlo dos produtos químicos, poderão estabelecer mais do que uma autoridade de acompanhamento das BPL, poderá elaborar-se mais do que um programa de cumprimento das BPL. A orientação apresentada *infra* diz respeito a cada uma dessas autoridades e a cada um desses programas, conforme adequado."
+  },
+  "6041be3baf7dcb43": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B"
+  },
+  "5e99aba076cd89e9": {
+   "fragment_id": "ORIENTAÇÕES PARA A REALIZAÇÃO DE INSPECÇÕES A INSTALAÇÕES DE ENSAIO E AUDITORIAS DE ESTUDOS",
+   "type": "divisao",
+   "heading": "ORIENTAÇÕES PARA A REALIZAÇÃO DE INSPECÇÕES A INSTALAÇÕES DE ENSAIO E AUDITORIAS DE ESTUDOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ORIENTAÇÕES PARA A REALIZAÇÃO DE INSPECÇÕES A INSTALAÇÕES DE ENSAIO E AUDITORIAS DE ESTUDOS"
+  },
+  "a292e108774018a1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8a917c63-eb97-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 123 de 12.5.2016, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8a917c63-eb97-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0002)) JO 196 de 16.8.1967, p. 1."
+  }
+ }
+}

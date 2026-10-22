@@ -34,6 +34,76 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-12-13'
+version_history:
+  file: regulamento-ue-1997-1466.versoes.json
+  count: 3
+  source_lastmod: '2011-12-13'
+  versions:
+  - date: '1997-08-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-07-27'
+    amending: eu:celex:32005R1055:por
+    amending_title: REGULAMENTO (CE) N. o 1055/2005 DO CONSELHO de 27 de Junho de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Adita SECÇÃO 1
+    - Adita OBJECTO DE DEFINIÇÕES
+    - Adita SECÇÃO 1A
+    - Adita OBJECTIVOS ORÇAMENTAIS DE MÉDIO PRAZO
+    - Adita Artigo 2.ºA
+    - Adita SECÇÃO 2
+    - Adita PROGRAMAS DE ESTABILIDADE
+    - Adita SECÇÃO 3
+    - Adita PROGRAMAS DE CONVERGÊNCIA
+    - Adita SECÇÃO 4
+    - Adita DISPOSIÇÕES COMUNS
+    - Adita Notas
+    - Suprime SECÇÃO 1 — OBJECTO DE DEFINIÇÕES
+    - Suprime SECÇÃO 2 — PROGRAMAS DE ESTABILIDADE
+    - Suprime SECÇÃO 3 — PROGRAMAS DE CONVERGÊNCIA
+    - Suprime SECÇÃO 4 — DISPOSIÇÕES COMUNS
+  - date: '2011-12-13'
+    amending: eu:celex:32011R1175:por
+    amending_title: REGULAMENTO (UE) N. o 1175/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Novembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Notas
+    - Adita SECÇÃO 1- –A
+    - Adita SEMESTRE EUROPEU PARA A COORDENAÇÃO DAS POLÍTICAS ECONÓMICAS
+    - Adita Artigo 2.º- –A
+    - Adita SECÇÃO 1- –AA
+    - Adita DIÁLOGO ECONÓMICO
+    - Adita Artigo 2.º- –AB
+    - Adita Artigo 2.º-A
+    - Adita SECÇÃO 3-A
+    - Adita PRINCÍPIO DA INDEPENDÊNCIA ESTATÍSTICA
+    - Adita Artigo 10.º-A
+    - Adita Artigo –11.º
+    - Adita Artigo 12.º-A
+    - Suprime Artigo 2.ºA
 identifiers:
   celex: 31997R1466
   eli: http://data.europa.eu/eli/reg/1997/1466/oj
@@ -48,7 +118,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/509d41f6-5829-4bf9-aa9c-880ddb96cecb.0011
   content_url: http://publications.europa.eu/resource/cellar/29dc8d07-3f22-4497-9703-c9d803360a9f.0019.03/DOC_3
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R1466-20111213
-  retrieved_at: '2026-10-22T02:40:25Z'
+  retrieved_at: '2026-10-22T14:46:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:23:29.183+02:00'
 integrity:
@@ -57,9 +127,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:25Z'
-  notes: Texto consolidado 01997R1466-20111213.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:23Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1997-1466.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -168,34 +238,19 @@ relationships:
   date: '2024-04-30'
 article_structure:
   article_count: 19
-  section_count: 16
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 17
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:25Z'
+  checked_at: '2026-10-22T14:46:23Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) nº 1466/97 do Conselho de 7 de Julho de 1997
-
-> 01997R1466 — PT — 13.12.2011 — 002.005
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32005R1055) — [REGULAMENTO (CE) N.º 1055/2005 DO CONSELHO de 27 de Junho de 2005](http://publications.europa.eu/resource/celex/32005R1055) — L 174 — 1 — 7.7.2005
-- [►M2](http://publications.europa.eu/resource/celex/32011R1175) — [REGULAMENTO (UE) N.º 1175/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1175) — L 306 — 12 — 23.11.2011
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32011R1175R%2803%29) — [Rectificação, JO L 200, 30.7.2015, p. 19 (n.o 1175/2011)](http://publications.europa.eu/resource/celex/32011R1175R%2803%29)
-
-## REGULAMENTO (CE) N.º 1466/97 DO CONSELHO
 
 de 7 de Julho de 1997
 

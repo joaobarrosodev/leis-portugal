@@ -35,6 +35,76 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-06-10'
+version_history:
+  file: decisao-ue-1998-179.versoes.json
+  count: 4
+  source_lastmod: '2021-06-10'
+  versions:
+  - date: '1998-03-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1792:por
+    amending_title: REGULAMENTO (CE) N. o 1792/2006 DA COMISSÃO de 23 de Outubro de 2006; Acto relativo às condições de adesão
+      da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia,
+      da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca
+      e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita ANEXO
+    - Adita Regras a aplicar na colheita de amostras oficiais e no tratamento dessas amostras
+    - Adita 1. Competências
+    - Adita 1.1. Inspector
+    - Adita 1.2. Laboratórios aprovados
+    - Adita 2. Colheita das amostras
+    - Adita 2.1. Aspectos fundamentais
+    - Adita 2.2. Estratégia de amostragem
+    - Adita 2.3. Colheita das amostras
+    - Adita 2.4. Quantidade de amostra
+    - Adita 2.5. Divisão em subamostras
+    - Adita 2.6. Recipientes para as amostras
+    - Adita 2.7. Relatório da colheita de amostras
+    - Adita 2.8. Relatório ao laboratório
+    - Adita 2.9. Transporte e conservação
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime ANEXO — Regras a aplicar na colheita de amostras oficiais e no tratamento dessas amostras
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0519:por
+    amending_title: REGULAMENTO (UE) N. o 519/2013 DA COMISSÃO de 21 de fevereiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera 1.2. Laboratórios aprovados
+    - Altera 2.1. Aspectos fundamentais
+    - Altera 2.2. Estratégia de amostragem
+    - Altera Notas
+  - date: '2021-06-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime ANEXO
+    - Suprime Regras a aplicar na colheita de amostras oficiais e no tratamento dessas amostras
+    - Suprime 1. Competências
+    - Suprime 1.1. Inspector
+    - Suprime 1.2. Laboratórios aprovados
+    - Suprime 2. Colheita das amostras
+    - Suprime 2.1. Aspectos fundamentais
+    - Suprime 2.2. Estratégia de amostragem
+    - Suprime 2.3. Colheita das amostras
+    - Suprime 2.4. Quantidade de amostra
+    - Suprime 2.5. Divisão em subamostras
+    - Suprime 2.6. Recipientes para as amostras
+    - Suprime 2.7. Relatório da colheita de amostras
+    - Suprime 2.8. Relatório ao laboratório
+    - Suprime 2.9. Transporte e conservação
+    - Suprime Notas
 identifiers:
   celex: 31998D0179
   eli: http://data.europa.eu/eli/dec/1998/179/oj
@@ -49,7 +119,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/36a81857-edeb-4967-a125-f73db2dec9d1.0009
   content_url: http://publications.europa.eu/resource/cellar/279ad2eb-d359-11eb-ac72-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998D0179-20210610
-  retrieved_at: '2026-10-22T03:08:58Z'
+  retrieved_at: '2026-10-22T14:46:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-13T15:10:24.251+02:00'
 integrity:
@@ -58,9 +128,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:08:58Z'
-  notes: Texto consolidado 01998D0179-20210610.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:31Z'
+  notes: 4 versão(ões); histórico completo em decisao-ue-1998-179.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -107,16 +177,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:08:58Z'
+  checked_at: '2026-10-22T14:46:31Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01998D0179-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

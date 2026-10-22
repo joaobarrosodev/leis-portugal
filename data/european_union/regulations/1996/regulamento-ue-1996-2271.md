@@ -34,6 +34,40 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-02-20'
+version_history:
+  file: regulamento-ue-1996-2271.versoes.json
+  count: 2
+  source_lastmod: '2014-02-20'
+  versions:
+  - date: '2003-06-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-02-20'
+    amending: eu:celex:32003R0807:por
+    amending_title: M1; REGULAMENTO (UE) N. o 37/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de janeiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera ANEXO
+    - Adita Artigo 11.º-A
+    - Adita LEIS, REGULAMENTOS E OUTROS ACTOS LEGISLATIVOS ([^7^](http://publications.europa.eu/resource/cellar/056540f9-40e5-4b0c-9bfb-c5165d60ef77.0018.02/DOC_1#E0007))
+    - 'Adita PAÍS: ESTADOS UNIDOS DA AMÉRICA'
+    - Adita LEIS
+    - Adita 1. «National Defense Authorization Act for Fiscal Year 1993», título XVII — Cuban Democracy Act de 1992, secções
+      1704 e 1706
+    - Adita 2. «Cuban Liberty and Democratic Solidarity Act» de 1996
+    - Adita 3. «Iran and Libya Sanctions Act» de 1996
+    - Adita REGULAMENTOS
+    - Adita [►C1](http://publications.europa.eu/resource/celex/31996R2271R%2801%29) 1. 31 CFR◄ (Code of Federal Regulations)
+      capítulo V (edição de 7/1/95) Parte 515 — «Cuban Assets Control Regulations», subpartes B («Prohibitions»), E («Licenses,
+      Authorizations and Statements of Licensing Policy») e G («Penalties»).
+    - Adita Notas
+    - Suprime Título I
 identifiers:
   celex: 31996R2271
   eli: http://data.europa.eu/eli/reg/1996/2271/oj
@@ -48,7 +82,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1c1b11bd-c209-4b4a-b139-081abe8160ad.0011
   content_url: http://publications.europa.eu/resource/cellar/056540f9-40e5-4b0c-9bfb-c5165d60ef77.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996R2271-20140220
-  retrieved_at: '2026-10-22T02:56:21Z'
+  retrieved_at: '2026-10-22T14:45:39Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-18T21:07:55.938+01:00'
 integrity:
@@ -57,9 +91,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:21Z'
-  notes: Texto consolidado 01996R2271-20140220.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:45:39Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1996-2271.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -147,34 +181,20 @@ relationships:
   date: '2021-12-21'
 article_structure:
   article_count: 13
-  section_count: 9
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 10
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:21Z'
-  warnings: []
+  checked_at: '2026-10-22T14:45:39Z'
+  warnings:
+  - '01996R2271-19961129: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) nº 2271/96 do Conselho de 22 de Novembro de 1996
-
-> 1996R2271 — PT — 20.02.2014 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32003R0807) — [REGULAMENTO (CE) N.º 807/2003 DO CONSELHO de 14 de Abril de 2003](http://publications.europa.eu/resource/celex/32003R0807) — L 122 — 36 — 16.5.2003
-- [►M2](http://publications.europa.eu/resource/celex/32014R0037) — [REGULAMENTO (UE) N.º 37/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de janeiro de 2014](http://publications.europa.eu/resource/celex/32014R0037) — L 18 — 1 — 21.1.2014
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/31996R2271R%2801%29) — [Rectificação, JO L 179, 8.7.1997, p. 10 (2271/1996)](http://publications.europa.eu/resource/celex/31996R2271R%2801%29)
-
-## REGULAMENTO (CE) N.º 2271/96 DO CONSELHO
 
 de 22 de Novembro de 1996
 

@@ -41,6 +41,1065 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-22'
+version_history:
+  file: regulamento-ue-2006-1907.versoes.json
+  count: 24
+  source_lastmod: '2026-06-22'
+  versions:
+  - date: '2020-08-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-01'
+    amending: eu:celex:32020R0878:por
+    amending_title: REGULAMENTO (UE) 2020/878 DA COMISSÃO de 18 de junho de 2020
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.1. Introdução
+    - Altera 0.2. Requisitos gerais para a elaboração de uma ficha de dados de segurança
+    - Altera 0.4. Conteúdo da ficha de dados de segurança
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 1.1. Identificador do produto
+    - Altera 1.2. Utilizações identificadas relevantes da substância ou mistura e utilizações desaconselhadas
+    - Altera 1.3. Identificação do fornecedor da ficha de dados de segurança
+    - Altera 2.1. Classificação da substância ou mistura
+    - Altera 2.2. Elementos do rótulo
+    - Altera 2.3. Outros perigos
+    - Altera 3.1. Substâncias
+    - Altera 3.2. Misturas
+    - Altera 5.1. Meios de extinção
+    - Altera 5.3. Recomendações para o pessoal de combate a incêndios
+    - Altera 6.2. Precauções a nível ambiental
+    - 'Altera 7. SECÇÃO 7: Manuseamento e armazenagem'
+    - Altera 7.1. Precauções para um manuseamento seguro
+    - Altera 7.3. Utilização(ões) final(is) específica(s)
+    - 'Altera 8. SECÇÃO 8: Controlo da exposição/Proteção individual'
+    - Altera 8.1. Parâmetros de controlo
+    - Altera 8.2. Controlo da exposição
+    - Altera 8.2.1. Controlos técnicos adequados
+    - Altera 8.2.2. Medidas de proteção individual, nomeadamente equipamentos de proteção individual
+    - Altera 8.2.3. Controlo da exposição ambiental
+    - 'Altera 9. SECÇÃO 9: Propriedades físico-químicas'
+    - Altera 9.1. Informações sobre propriedades físicas e químicas de base
+    - Altera 9.2. Outras informações
+  - date: '2021-02-15'
+    amending: eu:celex:32019R1148:por
+    amending_title: REGULAMENTO (UE) 2019/1148 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019; REGULAMENTO (UE)
+      2020/2081 DA COMISSÃO de 14 de dezembro de 2020; REGULAMENTO (UE) 2020/2096 DA COMISSÃO de 15 de dezembro de 2020; REGULAMENTO
+      (UE) 2020/2160 DA COMISSÃO de 18 de dezembro de 2020; REGULAMENTO (UE) 2021/57 DA COMISSÃO de 25 de janeiro de 2021
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 41.º — Verificação da conformidade dos registos
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera MODELO DOS RELATÓRIOS DE SEGURANÇA QUÍMICA
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera 1.1. Utilização de dados já existentes
+    - Altera 3. ENSAIOS DE EXPOSIÇÃO ADAPTADOS À SUBSTÂNCIA
+    - Altera 1. CRITÉRIOS DE IDENTIFICAÇÃO DE SUBSTÂNCIAS PBT E mPmB
+    - Altera 2. PESQUISA E AVALIAÇÃO DAS PROPRIEDADES DE PERSISTÊNCIA, MUITA PERSISTÊNCIA, BIOACUMULAÇÃO, MUITA BIOACUMULAÇÃO
+      E TOXICIDADE
+    - Altera 3. INFORMAÇÕES PERTINENTES PARA PESQUISA E AVALIAÇÃO DAS PROPRIEDADES DE PERSISTÊNCIA, MUITA PERSISTÊNCIA, BIOACUMULAÇÃO,
+      MUITA BIOACUMULAÇÃO E TOXICIDADE
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - Altera Lista de métodos de ensaio
+    - Altera Apêndice 11
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/dc640773-6ae5-11eb-aeb5-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/dc640773-6ae5-11eb-aeb5-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/dc640773-6ae5-11eb-aeb5-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/dc640773-6ae5-11eb-aeb5-01aa75ed71a1.0019.02/DOC_1#E0065))
+    - 'Adita Entrada 28 — Substâncias cancerígenas: Categoria 1A'
+    - 'Adita Entrada 28 — Substâncias cancerígenas: Categoria 1B'
+    - 'Adita Entrada 29 — Substâncias mutagénicas em células germinativas: Categoria 1A'
+    - 'Adita Entrada 29 — Substâncias mutagénicas em células germinativas: Categoria 1B'
+    - 'Adita Entrada 30 — Substâncias tóxicas para a reprodução: Categoria 1A'
+    - 'Adita Entrada 30 — Substâncias tóxicas para a reprodução: Categoria 1B'
+    - Adita Apêndice 13
+    - Suprime 1. RESUMO DAS MEDIDAS DE GESTÃO DE RISCOS
+    - Suprime 2. DECLARAÇÃO DE QUE AS MEDIDAS DE GESTÃO DE RISCOS FORAM POSTAS EM PRÁTICA
+  - date: '2021-07-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera 3. ENSAIOS DE EXPOSIÇÃO ADAPTADOS À SUBSTÂNCIA
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - 'Altera Entrada 28 — Substâncias cancerígenas: Categoria 1B'
+    - 'Altera Entrada 30 — Substâncias tóxicas para a reprodução: Categoria 1B'
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/721ddedf-d370-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/721ddedf-d370-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/721ddedf-d370-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/721ddedf-d370-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0065))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/dc640773-6ae5-11eb-aeb5-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/dc640773-6ae5-11eb-aeb5-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/dc640773-6ae5-11eb-aeb5-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/dc640773-6ae5-11eb-aeb5-01aa75ed71a1.0019.02/DOC_1#E0065))
+  - date: '2021-08-25'
+    amending: eu:celex:32021R1199:por
+    amending_title: REGULAMENTO (UE) 2021/1199 DA COMISSÃO de 20 de julho de 2021; M65
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera 3. ENSAIOS DE EXPOSIÇÃO ADAPTADOS À SUBSTÂNCIA
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/b8049e49-0bd6-11ec-adb1-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/b8049e49-0bd6-11ec-adb1-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/b8049e49-0bd6-11ec-adb1-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/b8049e49-0bd6-11ec-adb1-01aa75ed71a1.0019.02/DOC_1#E0065))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/721ddedf-d370-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/721ddedf-d370-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/721ddedf-d370-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/721ddedf-d370-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0065))
+  - date: '2021-10-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera 3. ENSAIOS DE EXPOSIÇÃO ADAPTADOS À SUBSTÂNCIA
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - 'Altera Entrada 28 — Substâncias cancerígenas: Categoria 1B'
+    - 'Altera Entrada 30 — Substâncias tóxicas para a reprodução: Categoria 1A'
+    - 'Altera Entrada 30 — Substâncias tóxicas para a reprodução: Categoria 1B'
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/e735f12b-25f5-11ec-bd8e-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/e735f12b-25f5-11ec-bd8e-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/e735f12b-25f5-11ec-bd8e-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/e735f12b-25f5-11ec-bd8e-01aa75ed71a1.0019.02/DOC_1#E0065))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/b8049e49-0bd6-11ec-adb1-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/b8049e49-0bd6-11ec-adb1-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/b8049e49-0bd6-11ec-adb1-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/b8049e49-0bd6-11ec-adb1-01aa75ed71a1.0019.02/DOC_1#E0065))
+  - date: '2022-01-08'
+    amending: eu:celex:32021R0979:por
+    amending_title: REGULAMENTO (UE) 2021/979 DA COMISSÃO de 17 de junho de 2021; REGULAMENTO (UE) 2021/2030 DA COMISSÃO de
+      19 de novembro de 2021; REGULAMENTO (UE) 2021/2045 DA COMISSÃO de 23 de novembro de 2021
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera 7. INFORMAÇÕES SOBRE AS PROPRIEDADES FÍSICO-QUÍMICAS DA SUBSTÂNCIA
+    - Altera 8. INFORMAÇÃO TOXICOLÓGICA
+    - Altera 1.1. Utilização de dados já existentes
+    - Altera 1.2. Suficiência de prova
+    - Altera 1.5. Grupos de substâncias e métodos comparativos por interpolação
+    - Altera 3. ENSAIOS DE EXPOSIÇÃO ADAPTADOS À SUBSTÂNCIA
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/a74f0f8a-53cd-11ec-91ac-01aa75ed71a1.0019.02/DOC_2#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/a74f0f8a-53cd-11ec-91ac-01aa75ed71a1.0019.02/DOC_2#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/a74f0f8a-53cd-11ec-91ac-01aa75ed71a1.0019.02/DOC_2#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/a74f0f8a-53cd-11ec-91ac-01aa75ed71a1.0019.02/DOC_2#E0065))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/e735f12b-25f5-11ec-bd8e-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/e735f12b-25f5-11ec-bd8e-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/e735f12b-25f5-11ec-bd8e-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/e735f12b-25f5-11ec-bd8e-01aa75ed71a1.0019.02/DOC_1#E0065))
+  - date: '2022-03-01'
+    amending: eu:celex:32021R2204:por
+    amending_title: REGULAMENTO (UE) 2021/2204 DA COMISSÃO de 13 de dezembro de 2021
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - 'Altera Entrada 28 — Substâncias cancerígenas: Categoria 1B'
+    - 'Altera Entrada 29 — Substâncias mutagénicas em células germinativas: Categoria 1B'
+    - 'Altera Entrada 30 — Substâncias tóxicas para a reprodução: Categoria 1B'
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/37453e08-732d-11ec-9136-01aa75ed71a1.0019.02/DOC_2#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/37453e08-732d-11ec-9136-01aa75ed71a1.0019.02/DOC_2#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/37453e08-732d-11ec-9136-01aa75ed71a1.0019.02/DOC_2#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/37453e08-732d-11ec-9136-01aa75ed71a1.0019.02/DOC_2#E0065))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/a74f0f8a-53cd-11ec-91ac-01aa75ed71a1.0019.02/DOC_2#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/a74f0f8a-53cd-11ec-91ac-01aa75ed71a1.0019.02/DOC_2#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/a74f0f8a-53cd-11ec-91ac-01aa75ed71a1.0019.02/DOC_2#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/a74f0f8a-53cd-11ec-91ac-01aa75ed71a1.0019.02/DOC_2#E0065))
+  - date: '2022-05-01'
+    amending: eu:celex:32022R0586:por
+    amending_title: REGULAMENTO (UE) 2022/586 DA COMISSÃO de 8 de abril de 2022
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/fba7051c-f174-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/fba7051c-f174-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/fba7051c-f174-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/fba7051c-f174-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0065))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/37453e08-732d-11ec-9136-01aa75ed71a1.0019.02/DOC_2#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/37453e08-732d-11ec-9136-01aa75ed71a1.0019.02/DOC_2#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/37453e08-732d-11ec-9136-01aa75ed71a1.0019.02/DOC_2#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/37453e08-732d-11ec-9136-01aa75ed71a1.0019.02/DOC_2#E0065))
+  - date: '2022-10-14'
+    amending: eu:celex:32022R0477:por
+    amending_title: REGULAMENTO (UE) 2022/477 DA COMISSÃO de 24 de março de 2022
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera 1. INFORMAÇÕES GERAIS SOBRE O REGISTANTE
+    - Altera 2. IDENTIFICAÇÃO DA SUBSTÂNCIA
+    - Altera 3. INFORMAÇÕES SOBRE O FABRICO E A(S) UTILIZAÇÃO(ÕES) DA(S) SUBSTÂNCIA(S)
+    - Altera 8. INFORMAÇÃO TOXICOLÓGICA
+    - Altera 9. INFORMAÇÃO ECOTOXICOLÓGICA
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/7a4dcea5-4a28-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/7a4dcea5-4a28-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/7a4dcea5-4a28-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/7a4dcea5-4a28-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0065))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/fba7051c-f174-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/fba7051c-f174-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/fba7051c-f174-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/fba7051c-f174-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0065))
+  - date: '2022-12-17'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - 'Altera Entrada 28 — Substâncias cancerígenas: Categoria 1B'
+    - 'Altera Entrada 30 — Substâncias tóxicas para a reprodução: Categoria 1B'
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/28e9c58b-6671-11ed-b14f-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/28e9c58b-6671-11ed-b14f-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/28e9c58b-6671-11ed-b14f-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/28e9c58b-6671-11ed-b14f-01aa75ed71a1.0019.02/DOC_1#E0065))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/7a4dcea5-4a28-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/7a4dcea5-4a28-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/7a4dcea5-4a28-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/7a4dcea5-4a28-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0065))
+  - date: '2023-05-28'
+    amending: eu:celex:32023R0923:por
+    amending_title: REGULAMENTO (UE) 2023/923 DA COMISSÃO de 3 de maio de 2023
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/6c8b08ab-09dc-11ee-b12e-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/6c8b08ab-09dc-11ee-b12e-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/6c8b08ab-09dc-11ee-b12e-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/6c8b08ab-09dc-11ee-b12e-01aa75ed71a1.0019.02/DOC_1#E0065))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/28e9c58b-6671-11ed-b14f-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/28e9c58b-6671-11ed-b14f-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/28e9c58b-6671-11ed-b14f-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/28e9c58b-6671-11ed-b14f-01aa75ed71a1.0019.02/DOC_1#E0065))
+  - date: '2023-06-29'
+    amending: eu:celex:32023R1132:por
+    amending_title: REGULAMENTO (UE) 2023/1132 DA COMISSÃO de 8 de junho de 2023
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - 'Altera Entrada 28 — Substâncias cancerígenas: Categoria 1A'
+    - 'Altera Entrada 28 — Substâncias cancerígenas: Categoria 1B'
+    - 'Altera Entrada 30 — Substâncias tóxicas para a reprodução: Categoria 1A'
+    - 'Altera Entrada 30 — Substâncias tóxicas para a reprodução: Categoria 1B'
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/e04a51ed-200b-11ee-94cb-01aa75ed71a1.0002.02/DOC_1#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/e04a51ed-200b-11ee-94cb-01aa75ed71a1.0002.02/DOC_1#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/e04a51ed-200b-11ee-94cb-01aa75ed71a1.0002.02/DOC_1#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/e04a51ed-200b-11ee-94cb-01aa75ed71a1.0002.02/DOC_1#E0065))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/6c8b08ab-09dc-11ee-b12e-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/6c8b08ab-09dc-11ee-b12e-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/6c8b08ab-09dc-11ee-b12e-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/6c8b08ab-09dc-11ee-b12e-01aa75ed71a1.0019.02/DOC_1#E0065))
+  - date: '2023-08-06'
+    amending: eu:celex:32023R1464:por
+    amending_title: REGULAMENTO (UE) 2023/1464 DA COMISSÃO de 14 de julho de 2023
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/d1e1387f-4119-11ee-b2f2-01aa75ed71a1.0018.02/DOC_1#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/d1e1387f-4119-11ee-b2f2-01aa75ed71a1.0018.02/DOC_1#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/d1e1387f-4119-11ee-b2f2-01aa75ed71a1.0018.02/DOC_1#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/d1e1387f-4119-11ee-b2f2-01aa75ed71a1.0018.02/DOC_1#E0065))
+    - Adita Apêndice 14
+    - Adita 1. Medição do formaldeído libertado para o ar interior dos artigos referidos no n.º 1, primeiro parágrafo, da
+      entrada 77
+    - Adita 2. Medição da concentração de formaldeído no interior dos veículos a que se refere o n.º 2, primeiro parágrafo,
+      da entrada 77
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/e04a51ed-200b-11ee-94cb-01aa75ed71a1.0002.02/DOC_1#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/e04a51ed-200b-11ee-94cb-01aa75ed71a1.0002.02/DOC_1#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/e04a51ed-200b-11ee-94cb-01aa75ed71a1.0002.02/DOC_1#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/e04a51ed-200b-11ee-94cb-01aa75ed71a1.0002.02/DOC_1#E0065))
+  - date: '2023-12-01'
+    amending: eu:celex:32023R2055:por
+    amending_title: REGULAMENTO (UE) 2023/2055 DA COMISSÃO de 25 de setembro de 2023; REGULAMENTO (UE) 2023/2482 DA COMISSÃO
+      de 13 de novembro de 2023
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 65.º — Obrigação dos titulares de autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - 'Altera Entrada 28 — Substâncias cancerígenas: Categoria 1B'
+    - 'Altera Entrada 30 — Substâncias tóxicas para a reprodução: Categoria 1B'
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera 1. Medição do formaldeído libertado para o ar interior dos artigos referidos no n.º 1, primeiro parágrafo, da
+      entrada 77
+    - Altera 2. Medição da concentração de formaldeído no interior dos veículos a que se refere o n.º 2, primeiro parágrafo,
+      da entrada 77
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/3e15ea37-6d87-11ee-9220-01aa75ed71a1.0008.02/DOC_2#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/3e15ea37-6d87-11ee-9220-01aa75ed71a1.0008.02/DOC_2#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/3e15ea37-6d87-11ee-9220-01aa75ed71a1.0008.02/DOC_2#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/3e15ea37-6d87-11ee-9220-01aa75ed71a1.0008.02/DOC_2#E0065))
+    - Adita Apêndice 15
+    - Adita Entrada 78 — Regras relativas à comprovação da degradabilidade
+    - Adita 1. Métodos de ensaio
+    - Adita 1.1. Grupo 1. Métodos de ensaio de despistagem e critérios de aprovação para demonstrar a biodegradação rápida
+    - Adita 1.2. Grupo 2. Métodos de ensaio de despistagem melhorados e modificados, e critérios de aprovação para demonstrar
+      a biodegradação rápida
+    - Adita 1.3. Grupo 3. Método de ensaio de despistagem e critérios de aprovação para demonstrar a degradação inerente
+    - Adita 1.4. Grupo 4. Métodos de ensaio de despistagem e critérios de aprovação para demonstrar a degradação em relação
+      a um material de referência
+    - Adita 1.5. Grupo 5. Métodos de ensaio de simulação e critérios de aprovação para demonstrar a degradação em condições
+      ambientais pertinentes
+    - Adita 2. Requisitos específicos para demonstrar a degradabilidade de polímeros em produtos destinados a aplicações agrícolas
+      e hortícolas
+    - Adita 2.1. Produtos fertilizantes que contenham polímeros que atuam como agentes de revestimento ou aumentam a capacidade
+      de retenção de água ou a molhabilidade do produto
+    - Adita 2.2. Produtos agrícolas e hortícolas que não os produtos fertilizantes referidos no n.º 2.1
+  - date: '2024-06-06'
+    amending: eu:celex:32024R1328:por
+    amending_title: REGULAMENTO (UE) 2024/1328 DA COMISSÃO de 16 de maio de 2024
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 65.º — Obrigação dos titulares de autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera 1. Medição do formaldeído libertado para o ar interior dos artigos referidos no n.º 1, primeiro parágrafo, da
+      entrada 77
+    - Altera 2. Medição da concentração de formaldeído no interior dos veículos a que se refere o n.º 2, primeiro parágrafo,
+      da entrada 77
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/160a9507-492e-11ef-acbc-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/160a9507-492e-11ef-acbc-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/160a9507-492e-11ef-acbc-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/160a9507-492e-11ef-acbc-01aa75ed71a1.0019.02/DOC_1#E0065))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/3e15ea37-6d87-11ee-9220-01aa75ed71a1.0008.02/DOC_2#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/3e15ea37-6d87-11ee-9220-01aa75ed71a1.0008.02/DOC_2#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/3e15ea37-6d87-11ee-9220-01aa75ed71a1.0008.02/DOC_2#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/3e15ea37-6d87-11ee-9220-01aa75ed71a1.0008.02/DOC_2#E0065))
+  - date: '2024-10-10'
+    amending: eu:celex:32024R2462:por
+    amending_title: REGULAMENTO (UE) 2024/2462 DA COMISSÃO de 19 de setembro de 2024
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera 1. Medição do formaldeído libertado para o ar interior dos artigos referidos no n.º 1, primeiro parágrafo, da
+      entrada 77
+    - Altera 2. Medição da concentração de formaldeído no interior dos veículos a que se refere o n.º 2, primeiro parágrafo,
+      da entrada 77
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/b8817066-9087-11ef-a130-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/b8817066-9087-11ef-a130-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/b8817066-9087-11ef-a130-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/b8817066-9087-11ef-a130-01aa75ed71a1.0019.02/DOC_1#E0065))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/160a9507-492e-11ef-acbc-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/160a9507-492e-11ef-acbc-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/160a9507-492e-11ef-acbc-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/160a9507-492e-11ef-acbc-01aa75ed71a1.0019.02/DOC_1#E0065))
+  - date: '2024-12-18'
+    amending: eu:celex:32024R2929:por
+    amending_title: M79
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera 1. Medição do formaldeído libertado para o ar interior dos artigos referidos no n.º 1, primeiro parágrafo, da
+      entrada 77
+    - Altera 2. Medição da concentração de formaldeído no interior dos veículos a que se refere o n.º 2, primeiro parágrafo,
+      da entrada 77
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/c95ef254-fe7b-11ef-b7db-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/c95ef254-fe7b-11ef-b7db-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/c95ef254-fe7b-11ef-b7db-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/c95ef254-fe7b-11ef-b7db-01aa75ed71a1.0019.02/DOC_1#E0065))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/b8817066-9087-11ef-a130-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/b8817066-9087-11ef-a130-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/b8817066-9087-11ef-a130-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/b8817066-9087-11ef-a130-01aa75ed71a1.0019.02/DOC_1#E0065))
+  - date: '2025-04-22'
+    amending: eu:celex:32025R0660:por
+    amending_title: REGULAMENTO (UE) 2025/660 DA COMISSÃO de 1 de abril de 2025
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera 1. Medição do formaldeído libertado para o ar interior dos artigos referidos no n.º 1, primeiro parágrafo, da
+      entrada 77
+    - Altera 2. Medição da concentração de formaldeído no interior dos veículos a que se refere o n.º 2, primeiro parágrafo,
+      da entrada 77
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/6004954b-35ae-11f0-8a44-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/6004954b-35ae-11f0-8a44-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/6004954b-35ae-11f0-8a44-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/6004954b-35ae-11f0-8a44-01aa75ed71a1.0019.02/DOC_1#E0065))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/c95ef254-fe7b-11ef-b7db-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/c95ef254-fe7b-11ef-b7db-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/c95ef254-fe7b-11ef-b7db-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/c95ef254-fe7b-11ef-b7db-01aa75ed71a1.0019.02/DOC_1#E0065))
+  - date: '2025-06-23'
+    amending: eu:celex:32025R1090:por
+    amending_title: REGULAMENTO (UE) 2025/1090 DA COMISSÃO de 2 de junho de 2025
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - 'Altera SECÇÃO 4: Medidas de primeiros socorros'
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - Altera Disposições especiais relativas à rotulagem dos artigos que contenham amianto
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera 1. Medição do formaldeído libertado para o ar interior dos artigos referidos no n.º 1, primeiro parágrafo, da
+      entrada 77
+    - Altera 2. Medição da concentração de formaldeído no interior dos veículos a que se refere o n.º 2, primeiro parágrafo,
+      da entrada 77
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/5022c702-7203-11f0-bf4e-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/5022c702-7203-11f0-bf4e-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/5022c702-7203-11f0-bf4e-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/5022c702-7203-11f0-bf4e-01aa75ed71a1.0019.02/DOC_1#E0065))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/6004954b-35ae-11f0-8a44-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/6004954b-35ae-11f0-8a44-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/6004954b-35ae-11f0-8a44-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/6004954b-35ae-11f0-8a44-01aa75ed71a1.0019.02/DOC_1#E0065))
+  - date: '2025-09-01'
+    amending: eu:celex:32025R1731:por
+    amending_title: REGULAMENTO (UE) 2025/1731 DA COMISSÃO de 8 de agosto de 2025
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - 'Altera Entrada 28 — Substâncias cancerígenas: Categoria 1B'
+    - 'Altera Entrada 29 — Substâncias mutagénicas em células germinativas: Categoria 1B'
+    - 'Altera Entrada 30 — Substâncias tóxicas para a reprodução: Categoria 1B'
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera 1. Medição do formaldeído libertado para o ar interior dos artigos referidos no n.º 1, primeiro parágrafo, da
+      entrada 77
+    - Altera 2. Medição da concentração de formaldeído no interior dos veículos a que se refere o n.º 2, primeiro parágrafo,
+      da entrada 77
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/c1dcf3a2-986f-11f0-97c8-01aa75ed71a1.0020.02/DOC_1#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/c1dcf3a2-986f-11f0-97c8-01aa75ed71a1.0020.02/DOC_1#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/c1dcf3a2-986f-11f0-97c8-01aa75ed71a1.0020.02/DOC_1#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/c1dcf3a2-986f-11f0-97c8-01aa75ed71a1.0020.02/DOC_1#E0065))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/5022c702-7203-11f0-bf4e-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/5022c702-7203-11f0-bf4e-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/5022c702-7203-11f0-bf4e-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/5022c702-7203-11f0-bf4e-01aa75ed71a1.0019.02/DOC_1#E0065))
+  - date: '2025-10-23'
+    amending: eu:celex:32025R1988:por
+    amending_title: REGULAMENTO (UE) 2025/1988 DA COMISSÃO de 2 de outubro de 2025
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera 1. Medição do formaldeído libertado para o ar interior dos artigos referidos no n.º 1, primeiro parágrafo, da
+      entrada 77
+    - Altera 2. Medição da concentração de formaldeído no interior dos veículos a que se refere o n.º 2, primeiro parágrafo,
+      da entrada 77
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/9dc6f4af-f60b-11f0-b9bc-01aa75ed71a1.0019.02/DOC_2#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/9dc6f4af-f60b-11f0-b9bc-01aa75ed71a1.0019.02/DOC_2#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/9dc6f4af-f60b-11f0-b9bc-01aa75ed71a1.0019.02/DOC_2#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/9dc6f4af-f60b-11f0-b9bc-01aa75ed71a1.0019.02/DOC_2#E0065))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/c1dcf3a2-986f-11f0-97c8-01aa75ed71a1.0020.02/DOC_1#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/c1dcf3a2-986f-11f0-97c8-01aa75ed71a1.0020.02/DOC_1#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/c1dcf3a2-986f-11f0-97c8-01aa75ed71a1.0020.02/DOC_1#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/c1dcf3a2-986f-11f0-97c8-01aa75ed71a1.0020.02/DOC_1#E0065))
+  - date: '2026-05-11'
+    amending: eu:celex:32026R0859:por
+    amending_title: REGULAMENTO (UE) 2026/859 DA COMISSÃO de 20 de abril de 2026
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera 1. Medição do formaldeído libertado para o ar interior dos artigos referidos no n.º 1, primeiro parágrafo, da
+      entrada 77
+    - Altera 2. Medição da concentração de formaldeído no interior dos veículos a que se refere o n.º 2, primeiro parágrafo,
+      da entrada 77
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/2164b807-6f33-11f1-ae88-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/2164b807-6f33-11f1-ae88-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/2164b807-6f33-11f1-ae88-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/2164b807-6f33-11f1-ae88-01aa75ed71a1.0019.02/DOC_1#E0065))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/9dc6f4af-f60b-11f0-b9bc-01aa75ed71a1.0019.02/DOC_2#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/9dc6f4af-f60b-11f0-b9bc-01aa75ed71a1.0019.02/DOC_2#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/9dc6f4af-f60b-11f0-b9bc-01aa75ed71a1.0019.02/DOC_2#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/9dc6f4af-f60b-11f0-b9bc-01aa75ed71a1.0019.02/DOC_2#E0065))
+  - date: '2026-06-22'
+    amending: eu:celex:32026R1168:por
+    amending_title: REGULAMENTO (UE) 2026/1168 DA COMISSÃO de 1 de junho de 2026
+    changes:
+    - Altera Artigo 2.º — Aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Relatório de segurança química e obrigação de aplicar e recomendar medidas de redução dos riscos
+    - Altera Artigo 15.º — Substâncias presentes em produtos fitofarmacêuticos e produtos biocidas
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 60.º — Concessão de autorizações
+    - Altera Artigo 61.º — Revisão das autorizações
+    - Altera Artigo 97.º — Implementação do orçamento da Agência
+    - Altera Artigo 98.º — Combate à fraude
+    - Altera Artigo 104.º — Línguas
+    - Altera Artigo 120.º — Cooperação com países terceiros e organizações internacionais
+    - 'Altera 3.3. Terceira fase: Determinação da PNEC'
+    - Altera 0.5. Outros requisitos de informação
+    - Altera 0.6. Unidades
+    - Altera 0.7. Casos especiais
+    - Altera LISTA DAS SUBSTÂNCIAS SUJEITAS A AUTORIZAÇÃO
+    - Altera RESTRIÇÕES APLICÁVEIS AO FABRICO, À COLOCAÇÃO NO MERCADO E À UTILIZAÇÃO DE DETERMINADAS SUBSTÂNCIAS E MISTURAS
+      PERIGOSAS E DE CERTOS ARTIGOS PERIGOSOS
+    - Altera Apêndice 11
+    - Altera Apêndice 13
+    - Altera 1. Medição do formaldeído libertado para o ar interior dos artigos referidos no n.º 1, primeiro parágrafo, da
+      entrada 77
+    - Altera 2. Medição da concentração de formaldeído no interior dos veículos a que se refere o n.º 2, primeiro parágrafo,
+      da entrada 77
+    - Altera Notas
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/11f48a79-a0a6-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/11f48a79-a0a6-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/11f48a79-a0a6-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Adita INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR A
+      MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/11f48a79-a0a6-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0065))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A UMA TONELADA ([^59^](http://publications.europa.eu/resource/cellar/2164b807-6f33-11f1-ae88-01aa75ed71a1.0019.02/DOC_1#E0059))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A DEZ TONELADAS ([^61^](http://publications.europa.eu/resource/cellar/2164b807-6f33-11f1-ae88-01aa75ed71a1.0019.02/DOC_1#E0061))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A CEM TONELADAS ([^63^](http://publications.europa.eu/resource/cellar/2164b807-6f33-11f1-ae88-01aa75ed71a1.0019.02/DOC_1#E0063))
+    - Suprime INFORMAÇÕES-PADRÃO EXIGIDAS NO CASO DAS SUBSTÂNCIAS FABRICADAS OU IMPORTADAS EM QUANTIDADE IGUAL OU SUPERIOR
+      A MIL TONELADAS ([^65^](http://publications.europa.eu/resource/cellar/2164b807-6f33-11f1-ae88-01aa75ed71a1.0019.02/DOC_1#E0065))
 identifiers:
   celex: 32006R1907
   eli: http://data.europa.eu/eli/reg/2006/1907/oj
@@ -55,7 +1114,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5a380587-970b-46c6-80b0-985dd1d4812d.0017
   content_url: http://publications.europa.eu/resource/cellar/11f48a79-a0a6-11f1-b25c-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1907-20260622
-  retrieved_at: '2026-10-22T02:34:51Z'
+  retrieved_at: '2026-10-22T15:12:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-16T09:47:44.681+02:00'
 integrity:
@@ -64,9 +1123,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:34:51Z'
-  notes: Texto consolidado 02006R1907-20260622.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:12:24Z'
+  notes: 24 versão(ões); histórico completo em regulamento-ue-2006-1907.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -1069,129 +2128,64 @@ relationships:
   date: '2000-05-04'
 article_structure:
   article_count: 136
-  section_count: 247
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 248
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:34:51Z'
-  warnings: []
+  checked_at: '2026-10-22T15:12:24Z'
+  warnings:
+  - '32006R1907: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02006R1907-20071123: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20081012: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20090120: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20090220: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20090627: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20100402: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20101201: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20110221: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20110306: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20110505: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20111210: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20120601: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20120605: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20121009: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20130306: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20130421: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20140410: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20140822: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20150101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20150323: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20150513: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20150601: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20150925: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20151227: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20160203: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20160308: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20160401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20160621: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20160714: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20161011: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20170102: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20170302: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20170704: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20171010: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20180131: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20180301: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20180509: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20181201: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20190702: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20191030: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20200101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20200227: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1907-20200428: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 1907/2006 do Parlamento Europeu e do Conselho, de 18 de Dezembro de 2006
-
-> 02006R1907 — PT — 22.06.2026 — 069.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32007R1354) — [REGULAMENTO (CE) N.º 1354/2007 DO CONSELHO de 15 de Novembro de 2007](http://publications.europa.eu/resource/celex/32007R1354) — L 304 — 1 — 22.11.2007
-- [►M2](http://publications.europa.eu/resource/celex/32008R0987) — [REGULAMENTO (CE) N.º 987/2008 DA COMISSÃO de 8 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R0987) — L 268 — 14 — 9.10.2008
-- [►M3](http://publications.europa.eu/resource/celex/32008R1272) — [REGULAMENTO (CE) N.º 1272/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008R1272) — L 353 — 1 — 31.12.2008
-- [►M4](http://publications.europa.eu/resource/celex/32009R0134) — [REGULAMENTO (CE) N.º 134/2009 DA COMISSÃO de 16 de Fevereiro de 2009](http://publications.europa.eu/resource/celex/32009R0134) — L 46 — 3 — 17.2.2009
-- [►M5](http://publications.europa.eu/resource/celex/32009R0552) — [REGULAMENTO (CE) N.º 552/2009 DA COMISSÃO de 22 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0552) — L 164 — 7 — 26.6.2009
-- [►M6](http://publications.europa.eu/resource/celex/32010R0276) — [REGULAMENTO (UE) N.º 276/2010 DA COMISSÃO de 31 de Março de 2010](http://publications.europa.eu/resource/celex/32010R0276) — L 86 — 7 — 1.4.2010
-- [►M7](http://publications.europa.eu/resource/celex/32010R0453) — [REGULAMENTO (UE) N.º 453/2010 DA COMISSÃO de 20 de Maio de 2010](http://publications.europa.eu/resource/celex/32010R0453) — L 133 — 1 — 31.5.2010
-- [M8](http://publications.europa.eu/resource/celex/32011R0143) — [REGULAMENTO (UE) N.º 143/2011 DA COMISSÃO de 17 de Fevereiro de 2011](http://publications.europa.eu/resource/celex/32011R0143) — L 44 — 2 — 18.2.2011
-- [►M9](http://publications.europa.eu/resource/celex/32011R0207) — [REGULAMENTO (UE) N.º 207/2011 DA COMISSÃO de 2 de Março de 2011](http://publications.europa.eu/resource/celex/32011R0207) — L 58 — 27 — 3.3.2011
-- [►M10](http://publications.europa.eu/resource/celex/32011R0252) — [REGULAMENTO (UE) N.º 252/2011 DA COMISSÃO de 15 de Março de 2011](http://publications.europa.eu/resource/celex/32011R0252) — L 69 — 3 — 16.3.2011
-- [►M11](http://publications.europa.eu/resource/celex/32011R0253) — [REGULAMENTO (UE) N.º 253/2011 DA COMISSÃO de 15 de Março de 2011](http://publications.europa.eu/resource/celex/32011R0253) — L 69 — 7 — 16.3.2011
-- [►M12](http://publications.europa.eu/resource/celex/32011R0366) — [REGULAMENTO (UE) N.º 366/2011 DA COMISSÃO de 14 de Abril de 2011](http://publications.europa.eu/resource/celex/32011R0366) — L 101 — 12 — 15.4.2011
-- [►M13](http://publications.europa.eu/resource/celex/32011R0494) — [REGULAMENTO (UE) N.º 494/2011 DA COMISSÃO de 20 de Maio de 2011](http://publications.europa.eu/resource/celex/32011R0494) — L 134 — 2 — 21.5.2011
-- [►M14](http://publications.europa.eu/resource/celex/32012R0109) — [REGULAMENTO (UE) N.º 109/2012 DA COMISSÃO de 9 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012R0109) — L 37 — 1 — 10.2.2012
-- [►M15](http://publications.europa.eu/resource/celex/32012R0125) — [REGULAMENTO (UE) N.º 125/2012 DA COMISSÃO de 14 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012R0125) — L 41 — 1 — 15.2.2012
-- [►M16](http://publications.europa.eu/resource/celex/32012R0412) — [REGULAMENTO (UE) N.º 412/2012 DA COMISSÃO de 15 de maio de 2012](http://publications.europa.eu/resource/celex/32012R0412) — L 128 — 1 — 16.5.2012
-- [►M17](http://publications.europa.eu/resource/celex/32012R0835) — [REGULAMENTO (UE) N.º 835/2012 DA COMISSÃO de 18 de setembro de 2012](http://publications.europa.eu/resource/celex/32012R0835) — L 252 — 1 — 19.9.2012
-- [►M18](http://publications.europa.eu/resource/celex/32012R0836) — [REGULAMENTO (UE) N.º 836/2012 DA COMISSÃO de 18 de setembro de 2012](http://publications.europa.eu/resource/celex/32012R0836) — L 252 — 4 — 19.9.2012
-- [►M19](http://publications.europa.eu/resource/celex/32012R0847) — [REGULAMENTO (UE) N.º 847/2012 DA COMISSÃO de 19 de setembro de 2012](http://publications.europa.eu/resource/celex/32012R0847) — L 253 — 1 — 20.9.2012
-- [►M20](http://publications.europa.eu/resource/celex/32012R0848) — [REGULAMENTO (UE) N.º 848/2012 DA COMISSÃO de 19 de setembro de 2012](http://publications.europa.eu/resource/celex/32012R0848) — L 253 — 5 — 20.9.2012
-- [►M21](http://publications.europa.eu/resource/celex/32013R0126) — [REGULAMENTO (UE) N.º 126/2013 DA COMISSÃO de 13 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0126) — L 43 — 24 — 14.2.2013
-- [►M22](http://publications.europa.eu/resource/celex/32013R0348) — [REGULAMENTO (UE) N.º 348/2013 DA COMISSÃO de 17 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0348) — L 108 — 1 — 18.4.2013
-- [►M23](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [►M24](http://publications.europa.eu/resource/celex/32013R1272) — [REGULAMENTO (UE) N.º 1272/2013 DA COMISSÃO de 6 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1272) — L 328 — 69 — 7.12.2013
-- [►M25](http://publications.europa.eu/resource/celex/32014R0301) — [REGULAMENTO (UE) N.º 301/2014 DA COMISSÃO de 25 de março de 2014](http://publications.europa.eu/resource/celex/32014R0301) — L 90 — 1 — 26.3.2014
-- [►M26](http://publications.europa.eu/resource/celex/32014R0317) — [REGULAMENTO (UE) N.º 317/2014 DA COMISSÃO de 27 de março de 2014](http://publications.europa.eu/resource/celex/32014R0317) — L 93 — 24 — 28.3.2014
-- [►M27](http://publications.europa.eu/resource/celex/32014R0474) — [REGULAMENTO (UE) N.º 474/2014 DA COMISSÃO de 8 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0474) — L 136 — 19 — 9.5.2014
-- [►M28](http://publications.europa.eu/resource/celex/32014R0895) — [REGULAMENTO (UE) N.º 895/2014 DA COMISSÃO de 14 de agosto de 2014](http://publications.europa.eu/resource/celex/32014R0895) — L 244 — 6 — 19.8.2014
-- [►M29](http://publications.europa.eu/resource/celex/32015R0282) — [REGULAMENTO (UE) 2015/282 DA COMISSÃO de 20 de fevereiro de 2015](http://publications.europa.eu/resource/celex/32015R0282) — L 50 — 1 — 21.2.2015
-- [►M30](http://publications.europa.eu/resource/celex/32015R0326) — [REGULAMENTO (UE) 2015/326 DA COMISSÃO de 2 de março de 2015](http://publications.europa.eu/resource/celex/32015R0326) — L 58 — 43 — 3.3.2015
-- [►M31](http://publications.europa.eu/resource/celex/32015R0628) — [REGULAMENTO (UE) 2015/628 DA COMISSÃO de 22 de abril de 2015](http://publications.europa.eu/resource/celex/32015R0628) — L 104 — 2 — 23.4.2015
-- [M32](http://publications.europa.eu/resource/celex/32015R0830) — [REGULAMENTO (UE) 2015/830 DA COMISSÃO de 28 de maio de 2015](http://publications.europa.eu/resource/celex/32015R0830) — L 132 — 8 — 29.5.2015
-- [►M33](http://publications.europa.eu/resource/celex/32015R1494) — [REGULAMENTO (UE) 2015/1494 DA COMISSÃO de 4 de setembro de 2015](http://publications.europa.eu/resource/celex/32015R1494) — L 233 — 2 — 5.9.2015
-- [►M34](http://publications.europa.eu/resource/celex/32016R0026) — [REGULAMENTO (UE) 2016/26 DA COMISSÃO de 13 de janeiro de 2016](http://publications.europa.eu/resource/celex/32016R0026) — L 9 — 1 — 14.1.2016
-- [►M35](http://publications.europa.eu/resource/celex/32016R0217) — [REGULAMENTO (UE) 2016/217 DA COMISSÃO de 16 de fevereiro de 2016](http://publications.europa.eu/resource/celex/32016R0217) — L 40 — 5 — 17.2.2016
-- [►M36](http://publications.europa.eu/resource/celex/32016R0863) — [REGULAMENTO (UE) 2016/863 DA COMISSÃO de 31 de maio de 2016](http://publications.europa.eu/resource/celex/32016R0863) — L 144 — 27 — 1.6.2016
-- [►M37](http://publications.europa.eu/resource/celex/32016R1005) — [REGULAMENTO (UE) 2016/1005 DA COMISSÃO de 22 de junho de 2016](http://publications.europa.eu/resource/celex/32016R1005) — L 165 — 4 — 23.6.2016
-- [►M38](http://publications.europa.eu/resource/celex/32016R1017) — [REGULAMENTO (UE) 2016/1017 DA COMISSÃO de 23 de junho de 2016](http://publications.europa.eu/resource/celex/32016R1017) — L 166 — 1 — 24.6.2016
-- [M39](http://publications.europa.eu/resource/celex/32016R1688) — [REGULAMENTO (UE) 2016/1688 DA COMISSÃO de 20 de setembro de 2016](http://publications.europa.eu/resource/celex/32016R1688) — L 255 — 14 — 21.9.2016
-- [►M40](http://publications.europa.eu/resource/celex/32016R2235) — [REGULAMENTO (UE) 2016/2235 DA COMISSÃO de 12 de dezembro de 2016](http://publications.europa.eu/resource/celex/32016R2235) — L 337 — 3 — 13.12.2016
-- [M41](http://publications.europa.eu/resource/celex/32017R0227) — [REGULAMENTO (UE) 2017/227 DA COMISSÃO de 9 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0227) — L 35 — 6 — 10.2.2017
-- [►M42](http://publications.europa.eu/resource/celex/32017R0706) — [REGULAMENTO (UE) 2017/706 DA COMISSÃO de 19 de abril de 2017](http://publications.europa.eu/resource/celex/32017R0706) — L 104 — 8 — 20.4.2017
-- [►M43](http://publications.europa.eu/resource/celex/32017R0999) — [REGULAMENTO (UE) 2017/999 DA COMISSÃO de 13 de junho de 2017](http://publications.europa.eu/resource/celex/32017R0999) — L 150 — 7 — 14.6.2017
-- [M44](http://publications.europa.eu/resource/celex/32017R1000) — [REGULAMENTO (UE) 2017/1000 DA COMISSÃO de 13 de junho de 2017](http://publications.europa.eu/resource/celex/32017R1000) — L 150 — 14 — 14.6.2017
-- [►M45](http://publications.europa.eu/resource/celex/32017R1510) — [REGULAMENTO (UE) 2017/1510 DA COMISSÃO de 30 de agosto de 2017](http://publications.europa.eu/resource/celex/32017R1510) — L 224 — 110 — 31.8.2017
-- [M46](http://publications.europa.eu/resource/celex/32018R0035) — [REGULAMENTO (UE) 2018/35 DA COMISSÃO de 10 de janeiro de 2018](http://publications.europa.eu/resource/celex/32018R0035) — L 6 — 45 — 11.1.2018
-- [►M47](http://publications.europa.eu/resource/celex/32018R0588) — [REGULAMENTO (UE) 2018/588 DA COMISSÃO de 18 de abril de 2018](http://publications.europa.eu/resource/celex/32018R0588) — L 99 — 3 — 19.4.2018
-- [M48](http://publications.europa.eu/resource/celex/32018R0589) — [REGULAMENTO (UE) 2018/589 DA COMISSÃO de 18 de abril de 2018](http://publications.europa.eu/resource/celex/32018R0589) — L 99 — 7 — 19.4.2018
-- [►M49](http://publications.europa.eu/resource/celex/32018R0675) — [REGULAMENTO (UE) 2018/675 DA COMISSÃO de 2 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0675) — L 114 — 4 — 4.5.2018
-- [►M50](http://publications.europa.eu/resource/celex/32018R1513) — [REGULAMENTO (UE) 2018/1513 DA COMISSÃO de 10 de outubro de 2018](http://publications.europa.eu/resource/celex/32018R1513) — L 256 — 1 — 12.10.2018
-- [►M51](http://publications.europa.eu/resource/celex/32018R1881) — [REGULAMENTO (UE) 2018/1881 DA COMISSÃO de 3 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1881) — L 308 — 1 — 4.12.2018
-- [►M52](http://publications.europa.eu/resource/celex/32018R2005) — [REGULAMENTO (UE) 2018/2005 DA COMISSÃO de 17 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R2005) — L 322 — 14 — 18.12.2018
-- [►M53](http://publications.europa.eu/resource/celex/32019R0957) — [REGULAMENTO (UE) 2019/957 DA COMISSÃO de 11 de junho de 2019](http://publications.europa.eu/resource/celex/32019R0957) — L 154 — 37 — 12.6.2019
-- [►M54](http://publications.europa.eu/resource/celex/32019R1148) — [REGULAMENTO (UE) 2019/1148 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1148) — L 186 — 1 — 11.7.2019
-- [►M55](http://publications.europa.eu/resource/celex/32019R1691) — [REGULAMENTO (UE) 2019/1691 DA COMISSÃO de 9 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R1691) — L 259 — 9 — 10.10.2019
-- [►M56](http://publications.europa.eu/resource/celex/32020R0171) — [REGULAMENTO (UE) 2020/171 DA COMISSÃO de 6 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020R0171) — L 35 — 1 — 7.2.2020
-- [►M57](http://publications.europa.eu/resource/celex/32020R0507) — [REGULAMENTO (UE) 2020/507 DA COMISSÃO de 7 de abril de 2020](http://publications.europa.eu/resource/celex/32020R0507) — L 110 — 1 — 8.4.2020
-- [►M58](http://publications.europa.eu/resource/celex/32020R0878) — [REGULAMENTO (UE) 2020/878 DA COMISSÃO de 18 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0878) — L 203 — 28 — 26.6.2020
-- [►M59](http://publications.europa.eu/resource/celex/32020R1149) — [REGULAMENTO (UE) 2020/1149 DA COMISSÃO de 3 de agosto de 2020](http://publications.europa.eu/resource/celex/32020R1149) — L 252 — 24 — 4.8.2020
-- [►M60](http://publications.europa.eu/resource/celex/32020R2081) — [REGULAMENTO (UE) 2020/2081 DA COMISSÃO de 14 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2081) — L 423 — 6 — 15.12.2020
-- [►M61](http://publications.europa.eu/resource/celex/32020R2096) — [REGULAMENTO (UE) 2020/2096 DA COMISSÃO de 15 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2096) — L 425 — 3 — 16.12.2020
-- [►M62](http://publications.europa.eu/resource/celex/32020R2160) — [REGULAMENTO (UE) 2020/2160 DA COMISSÃO de 18 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2160) — L 431 — 38 — 21.12.2020
-- [►M63](http://publications.europa.eu/resource/celex/32021R0057) — [REGULAMENTO (UE) 2021/57 DA COMISSÃO de 25 de janeiro de 2021](http://publications.europa.eu/resource/celex/32021R0057) — L 24 — 19 — 26.1.2021
-- [►M64](http://publications.europa.eu/resource/celex/32021R0979) — [REGULAMENTO (UE) 2021/979 DA COMISSÃO de 17 de junho de 2021](http://publications.europa.eu/resource/celex/32021R0979) — L 216 — 121 — 18.6.2021
-- [►M65](http://publications.europa.eu/resource/celex/32021R1199) — [REGULAMENTO (UE) 2021/1199 DA COMISSÃO de 20 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1199) — L 259 — 1 — 21.7.2021
-- [►M66](http://publications.europa.eu/resource/celex/32021R1297) — [REGULAMENTO (UE) 2021/1297 DA COMISSÃO de 4 de agosto de 2021](http://publications.europa.eu/resource/celex/32021R1297) — L 282 — 29 — 5.8.2021
-- [►M67](http://publications.europa.eu/resource/celex/32021R2030) — [REGULAMENTO (UE) 2021/2030 DA COMISSÃO de 19 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R2030) — L 415 — 16 — 22.11.2021
-- [►M68](http://publications.europa.eu/resource/celex/32021R2045) — [REGULAMENTO (UE) 2021/2045 DA COMISSÃO de 23 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R2045) — L 418 — 6 — 24.11.2021
-- [►M69](http://publications.europa.eu/resource/celex/32021R2204) — [REGULAMENTO (UE) 2021/2204 DA COMISSÃO de 13 de dezembro de 2021](http://publications.europa.eu/resource/celex/32021R2204) — L 446 — 34 — 14.12.2021
-- [►M70](http://publications.europa.eu/resource/celex/32022R0477) — [REGULAMENTO (UE) 2022/477 DA COMISSÃO de 24 de março de 2022](http://publications.europa.eu/resource/celex/32022R0477) — L 98 — 38 — 25.3.2022
-- [►M71](http://publications.europa.eu/resource/celex/32022R0586) — [REGULAMENTO (UE) 2022/586 DA COMISSÃO de 8 de abril de 2022](http://publications.europa.eu/resource/celex/32022R0586) — L 112 — 6 — 11.4.2022
-- [►M72](http://publications.europa.eu/resource/celex/32023R0923) — [REGULAMENTO (UE) 2023/923 DA COMISSÃO de 3 de maio de 2023](http://publications.europa.eu/resource/celex/32023R0923) — L 123 — 1 — 8.5.2023
-- [►M73](http://publications.europa.eu/resource/celex/32023R1132) — [REGULAMENTO (UE) 2023/1132 DA COMISSÃO de 8 de junho de 2023](http://publications.europa.eu/resource/celex/32023R1132) — L 149 — 49 — 9.6.2023
-- [►M74](http://publications.europa.eu/resource/celex/32023R1464) — [REGULAMENTO (UE) 2023/1464 DA COMISSÃO de 14 de julho de 2023](http://publications.europa.eu/resource/celex/32023R1464) — L 180 — 12 — 17.7.2023
-- [►M75](http://publications.europa.eu/resource/celex/32023R2055) — [REGULAMENTO (UE) 2023/2055 DA COMISSÃO de 25 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R2055) — L 238 — 67 — 27.9.2023
-- [►M76](http://publications.europa.eu/resource/celex/32023R2482) — [REGULAMENTO (UE) 2023/2482 DA COMISSÃO de 13 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2482) — L 2482 — 1 — 14.11.2023
-- [►M77](http://publications.europa.eu/resource/celex/32024R1328) — [REGULAMENTO (UE) 2024/1328 DA COMISSÃO de 16 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1328) — L 1328 — 1 — 17.5.2024
-- [►M78](http://publications.europa.eu/resource/celex/32024R2462) — [REGULAMENTO (UE) 2024/2462 DA COMISSÃO de 19 de setembro de 2024](http://publications.europa.eu/resource/celex/32024R2462) — L 2462 — 1 — 20.9.2024
-- [M79](http://publications.europa.eu/resource/celex/32024R2929) — [REGULAMENTO (UE) 2024/2929 DA COMISSÃO de 27 de novembro de 2024](http://publications.europa.eu/resource/celex/32024R2929) — L 2929 — 1 — 28.11.2024
-- [►M80](http://publications.europa.eu/resource/celex/32025R0660) — [REGULAMENTO (UE) 2025/660 DA COMISSÃO de 1 de abril de 2025](http://publications.europa.eu/resource/celex/32025R0660) — L 660 — 1 — 2.4.2025
-- [►M81](http://publications.europa.eu/resource/celex/32025R1090) — [REGULAMENTO (UE) 2025/1090 DA COMISSÃO de 2 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1090) — L 1090 — 1 — 3.6.2025
-- [►M82](http://publications.europa.eu/resource/celex/32025R1731) — [REGULAMENTO (UE) 2025/1731 DA COMISSÃO de 8 de agosto de 2025](http://publications.europa.eu/resource/celex/32025R1731) — L 1731 — 1 — 11.8.2025
-- [►M83](http://publications.europa.eu/resource/celex/32025R1988) — [REGULAMENTO (UE) 2025/1988 DA COMISSÃO de 2 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R1988) — L 1988 — 1 — 3.10.2025
-- [►M84](http://publications.europa.eu/resource/celex/32026R0859) — [REGULAMENTO (UE) 2026/859 DA COMISSÃO de 20 de abril de 2026](http://publications.europa.eu/resource/celex/32026R0859) — L 859 — 1 — 21.4.2026
-- [►M85](http://publications.europa.eu/resource/celex/32026R1168) — [REGULAMENTO (UE) 2026/1168 DA COMISSÃO de 1 de junho de 2026](http://publications.europa.eu/resource/celex/32026R1168) — L 1168 — 1 — 2.6.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32006R1907R%2801%29) — [Rectificação, JO L 136, 29.5.2007, p. 3 (1907/2006)](http://publications.europa.eu/resource/celex/32006R1907R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32006R1907R%2802%29) — [Rectificação, JO L 141, 31.5.2008, p. 22 (1907/2006)](http://publications.europa.eu/resource/celex/32006R1907R%2802%29)
-- [C3](http://publications.europa.eu/resource/celex/32006R1907R%2803%29) — [Rectificação, JO L 036, 5.2.2009, p. 84 (1907/2006)](http://publications.europa.eu/resource/celex/32006R1907R%2803%29)
-- [►C4](http://publications.europa.eu/resource/celex/32011R0143R%2801%29) — [Rectificação, JO L 049, 24.2.2011, p. 52 (143/2011)](http://publications.europa.eu/resource/celex/32011R0143R%2801%29)
-- [►C5](http://publications.europa.eu/resource/celex/32011R0494R%2801%29) — [Rectificação, JO L 136, 24.5.2011, p. 105 (494/2011)](http://publications.europa.eu/resource/celex/32011R0494R%2801%29)
-- [C6](http://publications.europa.eu/resource/celex/32015R0830R%2802%29) — [Rectificação, JO L 012, 17.1.2017, p. 97 (2015/830)](http://publications.europa.eu/resource/celex/32015R0830R%2802%29)
-- [►C7](http://publications.europa.eu/resource/celex/32018R0589R%2801%29) — [Rectificação, JO L 102, 23.4.2018, p. 99 (2018/589)](http://publications.europa.eu/resource/celex/32018R0589R%2801%29)
-- [C8](http://publications.europa.eu/resource/celex/32017R0227R%2801%29) — [Rectificação, JO L 249, 4.10.2018, p. 18 (2017/227)](http://publications.europa.eu/resource/celex/32017R0227R%2801%29)
-- [►C9](http://publications.europa.eu/resource/celex/32020R0171R%2801%29) — [Rectificação, JO L 141, 5.5.2020, p. 37 (2020/171)](http://publications.europa.eu/resource/celex/32020R0171R%2801%29)
-- [►C10](http://publications.europa.eu/resource/celex/32021R1297R%2801%29) — [Rectificação, JO L 083, 10.3.2022, p. 64 (2021/1297)](http://publications.europa.eu/resource/celex/32021R1297R%2801%29)
-- [►C11](http://publications.europa.eu/resource/celex/32020R0878R%2804%29) — [Rectificação, JO L 90475, 2.6.2025, p. 1 ((UE) 2020/878)](http://publications.europa.eu/resource/celex/32020R0878R%2804%29)
-- [►C12](http://publications.europa.eu/resource/celex/32023R2055R%2801%29) — [Rectificação, JO L 90479, 6.6.2025, p. 1 ((UE) 2023/2055)](http://publications.europa.eu/resource/celex/32023R2055R%2801%29)
-- [►C13](http://publications.europa.eu/resource/celex/32024R2462R%2802%29) — [Rectificação, JO L 90141, 20.2.2026, p. 1 ((UE) 2024/24622024/2462)](http://publications.europa.eu/resource/celex/32024R2462R%2802%29)
-
-## REGULAMENTO (CE) N.º 1907/2006 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 18 de Dezembro de 2006
 

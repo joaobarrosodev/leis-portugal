@@ -34,6 +34,720 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-08-01'
+version_history:
+  file: diretiva-ue-1991-414.versoes.json
+  count: 18
+  source_lastmod: '2011-08-01'
+  versions:
+  - date: '1991-08-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-04-28'
+    amending: eu:celex:31993L0071:por
+    amending_title: DIRECTIVA 93/71/CEE DA COMISSÃO de 27 de Julho de 1993; DIRECTIVA 94/37/CE DA COMISSÃO de 22 de Julho
+      de 1994; M3; DIRECTIVA 94/79/CE DA COMISSÃO de 21 de Dezembro de 1994; DIRECTIVA 95/35/CE DA COMISSÃO Texto relevante
+      para efeitos do EEE de 14 de Julho de 1995; DIRECTIVA 95/36/CE DA COMISSÃO Texto relevante para efeitos do EEE de 14
+      de Julho de 1995; DIRECTIVA 96/12/CE DA COMISSÃO Texto relevante para efeitos do EEE de 8 de Março de 1996; DIRECTIVA
+      96/46/CE DA COMISSÃO Texto relevante para efeitos do EEE de 16 de Julho de 1996; DIRECTIVA 96/68/CE DA COMISSÃO Texto
+      relevante para efeitos do EEE de 21 de Outubro de 1996; DIRECTIVA 97/57/CE DO CONSELHO de 22 de Setembro de 1997; M11;
+      M12; M13; M14; M15; M16; M17; M18; M19; M20; M21; DIRECTIVA 2000/80/CE DA COMISSÃO de 4 de Dezembro de 2000; DIRECTIVA
+      2001/21/CE DA COMISSÃO de 5 de Março de 2001; DIRECTIVA 2001/28/CE DA COMISSÃO de 20 de Abril de 2001; DIRECTIVA 2001/36/CE
+      DA COMISSÃO Texto relevante para efeitos do EEE de 16 de Maio de 2001; DIRECTIVA 2001/47/CE DA COMISSÃO de 25 de Junho
+      de 2001; DIRECTIVA 2001/49/CE DA COMISSÃO de 28 de Junho de 2001; DIRECTIVA 2001/87/CE DA COMISSÃO de 12 de Outubro
+      de 2001; DIRECTIVA 2001/99/CE DA COMISSÃO de 20 de Novembro de 2001; DIRECTIVA 2001/103/CE DA COMISSÃO Texto relevante
+      para efeitos do EEE de 28 de Novembro de 2001; DIRECTIVA 2002/18/CE DA COMISSÃO de 22 de Fevereiro de 2002; DIRECTIVA
+      2002/37/CE DA COMISSÃO Texto relevante para efeitos do EEE de 3 de Maio de 2002; DIRECTIVA 2002/48/CE DA COMISSÃO de
+      30 de Maio de 2002; DIRECTIVA 2002/64/CE DA COMISSÃO de 15 de Julho de 2002; DIRECTIVA 2002/81/CE DA COMISSÃO Texto
+      relevante para efeitos do EEE de 10 de Outubro de 2002; DIRECTIVA 2003/5/CE DA COMISSÃO Texto relevante para efeitos
+      do EEE de 10 de Janeiro de 2003; DIRECTIVA 2003/23/CE DA COMISSÃO Texto relevante para efeitos do EEE de 25 de Março
+      de 2003; DIRECTIVA 2003/31/CE DA COMISSÃO Texto relevante para efeitos do EEE de 11 de Abril de 2003; REGULAMENTO (CE)
+      N. o 806/2003 DO CONSELHO de 14 de Abril de 2003; DIRECTIVA 2003/39/CE DA COMISSÃO Texto relevante para efeitos do EEE
+      de 15 de Maio de 2003; DIRECTIVA 2003/68/CE DA COMISSÃO Texto relevante para efeitos do EEE de 11 de Julho de 2003;
+      DIRECTIVA 2003/70/CE DA COMISSÃO Texto relevante para efeitos do EEE de 17 de Julho de 2003; DIRECTIVA 2003/79/CE DA
+      COMISSÃO Texto relevante para efeitos do EEE de 13 de Agosto de 2003; DIRECTIVA 2003/81/CE DA COMISSÃO Texto relevante
+      para efeitos do EEE de 5 de Setembro de 2003; DIRECTIVA 2003/82/CE DA COMISSÃO Texto relevante para efeitos do EEE de
+      11 de Setembro de 2003; DIRECTIVA 2003/84/CE DA COMISSÃO Texto relevante para efeitos do EEE de 25 de Setembro de 2003;
+      DIRECTIVA 2003/112/CE DA COMISSÃO Texto relevante para efeitos do EEE de 1 de Dezembro de 2003; DIRECTIVA 2003/119/CE
+      DA COMISSÃO Texto relevante para efeitos do EEE de 5 de Dezembro de 2003; DIRECTIVA 2004/20/CE DA COMISSÃO Texto relevante
+      para efeitos do EEE de 2 de Março de 2004; DIRECTIVA 2004/30/CE DA COMISSÃO Texto relevante para efeitos do EEE de 10
+      de Março de 2004; DIRECTIVA 2004/58/CE DA COMISSÃO Texto relevante para efeitos do EEE de 23 de Abril de 2004; DIRECTIVA
+      2004/60/CE DA COMISSÃO Texto relevante para efeitos do EEE de 23 de Abril de 2004; DIRECTIVA 2004/62/CE DA COMISSÃO
+      Texto relevante para efeitos do EEE de 26 de Abril de 2004; DIRECTIVA 2004/71/CE DA COMISSÃO Texto relevante para efeitos
+      do EEE de 28 de Abril de 2004; DIRECTIVA 2004/66/CE DO CONSELHO de 26 de Abril de 2004; DIRECTIVA 2004/99/CE da Comissão
+      Texto relevante para efeitos do EEE de 1 de Outubro de 2004; DIRECTIVA 2005/2/CE DA COMISSÃO Texto relevante para efeitos
+      do EEE de 19 de Janeiro de 2005; DIRECTIVA 2005/3/CE DA COMISSÃO Texto relevante para efeitos do EEE de 19 de Janeiro
+      de 2005; REGULAMENTO (CE) N. o 396/2005 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de Fevereiro de 2005; DIRECTIVA 2005/25/CE
+      DO CONSELHO Texto relevante para efeitos do EEE de 14 de Março de 2005
+    changes:
+    - Altera preambulo
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Adita Âmbito de aplicação
+    - Adita Artigo 1.º
+    - Adita Definições
+    - Adita Artigo 2.º
+    - Adita Disposições gerais
+    - Adita Artigo 3.º
+    - Adita Concessão, revisão e retirada de autorização de produtos fitofarmacêuticos
+    - Adita Artigo 4.º
+    - Adita Inscrição das substâncias activas no anexo I
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Informação sobre os potenciais efeitos perigosos
+    - Adita Artigo 7.º
+    - Adita Medidas transitórias e derrogatórias
+    - Adita Artigo 8.º
+    - Adita Disposições relativas ao pedido de autorização
+    - Adita Artigo 9.º
+    - Adita Reconhecimento mútuo das autorizações
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Intercâmbio de informações
+    - Adita Artigo 12.º
+    - Adita Prescrições em matéria de dados, protecção dos dados e confidencialidade
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Acondicionamento e rotulagem dos produtos fitofarmacêuticos
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Medidas de controlo
+    - Adita Artigo 17.º
+    - Adita Disposições administrativas
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Investigação e desenvolvimento
+    - Adita Artigo 22.º
+  - date: '2005-06-01'
+    amending: eu:celex:32005L0034:por
+    amending_title: DIRECTIVA 2005/34/CE DA COMISSÃO Texto relevante para efeitos do EEE de 17 de Maio de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 14.º
+    - Altera Artigo 19.º
+    - Altera ANEXO I
+    - Altera INTRODUÇÃO
+    - Altera 3.7. Métodos e precauções recomendados relativos à manipulação, armazenagem, transporte ou incêndio
+    - Altera 5.1. Estudos relativos à absorção, distribuição, excreção e metabolismo, em mamíferos
+    - Altera 5.2.1. Oral
+    - Altera 5.5. Toxicidade a longo prazo e carcinogenia
+    - Altera 5.9. Dados clínicos
+    - Altera 5.9.3. Observações relativas à exposição da população em geral e, ser for adequado, estudos epidemiológicos
+    - Altera 6. Resíduos nos produtos tratados e alimentos para consumo humano e de animais
+    - Altera 7.1.1. Via e taxa de degradação
+    - Altera 8.1. Efeitos nas aves
+    - Altera 8.2. Efeitos nos organismos aquáticos
+    - Altera 8.3. Efeitos em artrópodes
+    - Altera 8.4. Efeitos em minhocas
+    - Altera Introdução
+    - Altera 3.7. Métodos e precauções recomendados quanto à manipulação, armazenagem, transporte e incêndio
+    - Altera 5.1.1. Dados médicos
+    - Altera 5.2.2.2. Toxicidade, patogenicidade e infecciosidade agudas por via inalatória
+    - Altera 6.6.3. Efeito em vegetais ou partes de vegetais tratados a utilizar em propagação vegetativa
+    - Altera 7.2. Dados relativos à exposição
+    - Altera 7.2.1.2. Determinação da exposição do operador
+    - Altera 7.4. Dados toxicológicos disponíveis relativos a substâncias inertes
+    - Altera 2.2.1. Efeitos da luz, temperatura e humidade nas características técnicas do produto fitofarmacêutico
+    - Altera 6. DADOS DE EFICÁCIA
+    - Altera 7.1.1. Toxicidade aguda por via oral
+    - Altera 7.4. Dados toxicológicos disponíveis relativos às substâncias não activas
+    - Altera 2.5.1. Destino e disseminação no ambiente
+    - Altera 2.1.1. Identidade do microrganismo presente no produto fitofarmacêutico
+    - Altera 2.7. Destino e comportamento no ambiente
+    - Altera 2.6.1. Efeitos sobre a saúde humana e animal decorrentes do produto fitofarmacêutico
+    - Altera Notas
+    - Adita Substâncias químicas ([^19^](http://publications.europa.eu/resource/cellar/e96aa062-55e7-4f7d-bd5f-497c32f9f477.0010.03/DOC_1#E0026))
+    - Adita 5.2.1. Hipersensibilização ([^37^](http://publications.europa.eu/resource/cellar/e96aa062-55e7-4f7d-bd5f-497c32f9f477.0010.03/DOC_1#E0044))
+    - Suprime Substâncias químicas ([^19^](http://publications.europa.eu/resource/cellar/1121a2f8-0cbf-45db-88e6-22b1843dbca6.0010.03/DOC_1#E0026))
+    - Suprime 5.2.1. Hipersensibilização ([^37^](http://publications.europa.eu/resource/cellar/1121a2f8-0cbf-45db-88e6-22b1843dbca6.0010.03/DOC_1#E0044))
+  - date: '2005-12-01'
+    amending: eu:celex:32005L0058:por
+    amending_title: DIRECTIVA 2005/58/CE DA COMISSÃO Texto relevante para efeitos do EEE de 21 de Setembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 14.º
+    - Altera Artigo 19.º
+    - Altera ANEXO I
+    - Altera INTRODUÇÃO
+    - Altera 3.7. Métodos e precauções recomendados relativos à manipulação, armazenagem, transporte ou incêndio
+    - Altera 5.1. Estudos relativos à absorção, distribuição, excreção e metabolismo, em mamíferos
+    - Altera 5.2.1. Oral
+    - Altera 5.5. Toxicidade a longo prazo e carcinogenia
+    - Altera 5.9. Dados clínicos
+    - Altera 5.9.3. Observações relativas à exposição da população em geral e, ser for adequado, estudos epidemiológicos
+    - Altera 6. Resíduos nos produtos tratados e alimentos para consumo humano e de animais
+    - Altera 7.1.1. Via e taxa de degradação
+    - Altera 8.1. Efeitos nas aves
+    - Altera 8.2. Efeitos nos organismos aquáticos
+    - Altera 8.3. Efeitos em artrópodes
+    - Altera 8.4. Efeitos em minhocas
+    - Altera Introdução
+    - Altera 3.7. Métodos e precauções recomendados quanto à manipulação, armazenagem, transporte e incêndio
+    - Altera 5.1.1. Dados médicos
+    - Altera 5.2.2.2. Toxicidade, patogenicidade e infecciosidade agudas por via inalatória
+    - Altera 6.6.3. Efeito em vegetais ou partes de vegetais tratados a utilizar em propagação vegetativa
+    - Altera 7.2. Dados relativos à exposição
+    - Altera 7.2.1.2. Determinação da exposição do operador
+    - Altera 7.4. Dados toxicológicos disponíveis relativos a substâncias inertes
+    - Altera 2.2.1. Efeitos da luz, temperatura e humidade nas características técnicas do produto fitofarmacêutico
+    - Altera 6. DADOS DE EFICÁCIA
+    - Altera 7.1.1. Toxicidade aguda por via oral
+    - Altera 7.4. Dados toxicológicos disponíveis relativos às substâncias não activas
+    - Altera 2.5.1. Destino e disseminação no ambiente
+    - Altera 2.1.1. Identidade do microrganismo presente no produto fitofarmacêutico
+    - Altera 2.7. Destino e comportamento no ambiente
+    - Altera 2.6.1. Efeitos sobre a saúde humana e animal decorrentes do produto fitofarmacêutico
+    - Altera Notas
+    - Adita Substâncias químicas ([^19^](http://publications.europa.eu/resource/cellar/c8108292-5bef-4e40-ba89-ef7e79a386e9.0016.03/DOC_1#E0026))
+    - Adita 5.2.1. Hipersensibilização ([^37^](http://publications.europa.eu/resource/cellar/c8108292-5bef-4e40-ba89-ef7e79a386e9.0016.03/DOC_1#E0044))
+    - Suprime Substâncias químicas ([^19^](http://publications.europa.eu/resource/cellar/e96aa062-55e7-4f7d-bd5f-497c32f9f477.0010.03/DOC_1#E0026))
+    - Suprime 5.2.1. Hipersensibilização ([^37^](http://publications.europa.eu/resource/cellar/e96aa062-55e7-4f7d-bd5f-497c32f9f477.0010.03/DOC_1#E0044))
+  - date: '2006-08-01'
+    amending: eu:celex:32005L0053:por
+    amending_title: DIRECTIVA 2005/53/CE DA COMISSÃO Texto relevante para efeitos do EEE de 16 de Setembro de 2005; DIRECTIVA
+      2005/54/CE DA COMISSÃO Texto relevante para efeitos do EEE de 19 de Setembro de 2005; DIRECTIVA 2005/57/CE DA COMISSÃO
+      Texto relevante para efeitos do EEE de 21 de Setembro de 2005; DIRECTIVA 2005/72/CE DA COMISSÃO Texto relevante para
+      efeitos do EEE de 21 de Outubro de 2005; DIRECTIVA 2006/10/CE DA COMISSÃO Texto relevante para efeitos do EEE de 27
+      de Janeiro de 2006; DIRECTIVA 2006/16/CE DA COMISSÃO Texto relevante para efeitos do EEE de 7 de Fevereiro de 2006;
+      DIRECTIVA 2006/19/CE DA COMISSÃO Texto relevante para efeitos do EEE de 14 de Fevereiro de 2006; DIRECTIVA 2006/45/CE
+      DA COMISSÃO Texto relevante para efeitos do EEE de 16 de Maio de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 14.º
+    - Altera Artigo 19.º
+    - Altera ANEXO I
+    - Altera INTRODUÇÃO
+    - Altera 3.7. Métodos e precauções recomendados relativos à manipulação, armazenagem, transporte ou incêndio
+    - Altera 5.1. Estudos relativos à absorção, distribuição, excreção e metabolismo, em mamíferos
+    - Altera 5.2.1. Oral
+    - Altera 5.5. Toxicidade a longo prazo e carcinogenia
+    - Altera 5.9. Dados clínicos
+    - Altera 5.9.3. Observações relativas à exposição da população em geral e, ser for adequado, estudos epidemiológicos
+    - Altera 6. Resíduos nos produtos tratados e alimentos para consumo humano e de animais
+    - Altera 7.1.1. Via e taxa de degradação
+    - Altera 8.1. Efeitos nas aves
+    - Altera 8.2. Efeitos nos organismos aquáticos
+    - Altera 8.3. Efeitos em artrópodes
+    - Altera 8.4. Efeitos em minhocas
+    - Altera Introdução
+    - Altera 3.7. Métodos e precauções recomendados quanto à manipulação, armazenagem, transporte e incêndio
+    - Altera 5.1.1. Dados médicos
+    - Altera 5.2.2.2. Toxicidade, patogenicidade e infecciosidade agudas por via inalatória
+    - Altera 6.6.3. Efeito em vegetais ou partes de vegetais tratados a utilizar em propagação vegetativa
+    - Altera 7.2. Dados relativos à exposição
+    - Altera 7.2.1.2. Determinação da exposição do operador
+    - Altera 7.4. Dados toxicológicos disponíveis relativos a substâncias inertes
+    - Altera 2.2.1. Efeitos da luz, temperatura e humidade nas características técnicas do produto fitofarmacêutico
+    - Altera 6. DADOS DE EFICÁCIA
+    - Altera 7.1.1. Toxicidade aguda por via oral
+    - Altera 7.4. Dados toxicológicos disponíveis relativos às substâncias não activas
+    - Altera 2.5.1. Destino e disseminação no ambiente
+    - Altera 2.1.1. Identidade do microrganismo presente no produto fitofarmacêutico
+    - Altera 2.7. Destino e comportamento no ambiente
+    - Altera 2.6.1. Efeitos sobre a saúde humana e animal decorrentes do produto fitofarmacêutico
+    - Altera Notas
+    - Adita Substâncias químicas ([^19^](http://publications.europa.eu/resource/cellar/97fb72c4-25ad-42a8-97ff-a49c617b69c5.0016.03/DOC_1#E0026))
+    - Adita 5.2.1. Hipersensibilização ([^37^](http://publications.europa.eu/resource/cellar/97fb72c4-25ad-42a8-97ff-a49c617b69c5.0016.03/DOC_1#E0044))
+    - Suprime Substâncias químicas ([^19^](http://publications.europa.eu/resource/cellar/c8108292-5bef-4e40-ba89-ef7e79a386e9.0016.03/DOC_1#E0026))
+    - Suprime 5.2.1. Hipersensibilização ([^37^](http://publications.europa.eu/resource/cellar/c8108292-5bef-4e40-ba89-ef7e79a386e9.0016.03/DOC_1#E0044))
+  - date: '2007-02-01'
+    amending: eu:celex:32006L0005:por
+    amending_title: DIRECTIVA 2006/5/CE DA COMISSÃO Texto relevante para efeitos do EEE de 17 de Janeiro de 2006; DIRECTIVA
+      2006/6/CE DA COMISSÃO Texto relevante para efeitos do EEE de 17 de Janeiro de 2006; DIRECTIVA 2006/39/CE DA COMISSÃO
+      Texto relevante para efeitos do EEE de 12 de Abril de 2006; DIRECTIVA 2006/41/CE DA COMISSÃO Texto relevante para efeitos
+      do EEE de 7 de Julho de 2006; DIRECTIVA 2006/75/CE DA COMISSÃO Texto relevante para efeitos do EEE de 11 de Setembro
+      de 2006; DIRECTIVA 2006/76/CE DA COMISSÃO Texto relevante para efeitos do EEE de 22 de Setembro de 2006; DIRECTIVA 2006/131/CE
+      DA COMISSÃO Texto relevante para efeitos do EEE de 11 de Dezembro de 2006; DIRECTIVA 2006/132/CE DA COMISSÃO Texto relevante
+      para efeitos do EEE de 11 de Dezembro de 2006; DIRECTIVA 2006/133/CE DA COMISSÃO Texto relevante para efeitos do EEE
+      de 11 de Dezembro de 2006; DIRECTIVA 2006/134/CE DA COMISSÃO Texto relevante para efeitos do EEE de 11 de Dezembro de
+      2006; DIRECTIVA 2006/135/CE DA COMISSÃO Texto relevante para efeitos do EEE de 11 de Dezembro de 2006; DIRECTIVA 2006/136/CE
+      DA COMISSÃO Texto relevante para efeitos do EEE de 11 de Dezembro de 2006; DIRECTIVA 2006/104/CE DO CONSELHO de 20 de
+      Novembro de 2006; DIRECTIVA 2007/6/CE DA COMISSÃO Texto relevante para efeitos do EEE de 14 de Fevereiro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 14.º
+    - Altera Artigo 19.º
+    - Altera ANEXO I
+    - Altera INTRODUÇÃO
+    - Altera 3.7. Métodos e precauções recomendados relativos à manipulação, armazenagem, transporte ou incêndio
+    - Altera 4.2. Métodos de determinação de resíduos
+    - Altera 5.1. Estudos relativos à absorção, distribuição, excreção e metabolismo, em mamíferos
+    - Altera 5.2.1. Oral
+    - Altera 5.2.3. Inalação
+    - Altera 5.5. Toxicidade a longo prazo e carcinogenia
+    - Altera 5.9. Dados clínicos
+    - Altera 5.9.3. Observações relativas à exposição da população em geral e, ser for adequado, estudos epidemiológicos
+    - Altera 6. Resíduos nos produtos tratados e alimentos para consumo humano e de animais
+    - Altera 7.1.1. Via e taxa de degradação
+    - Altera 8.1. Efeitos nas aves
+    - Altera 8.2. Efeitos nos organismos aquáticos
+    - Altera 8.3. Efeitos em artrópodes
+    - Altera 8.4. Efeitos em minhocas
+    - Altera Introdução
+    - Altera 3.7. Métodos e precauções recomendados quanto à manipulação, armazenagem, transporte e incêndio
+    - Altera 5.1.1. Dados médicos
+    - Altera 5.2.2.2. Toxicidade, patogenicidade e infecciosidade agudas por via inalatória
+    - Altera 6.6.3. Efeito em vegetais ou partes de vegetais tratados a utilizar em propagação vegetativa
+    - Altera 7.1.3. Inalação
+    - Altera 7.2. Dados relativos à exposição
+    - Altera 7.2.1.2. Determinação da exposição do operador
+    - Altera 7.4. Dados toxicológicos disponíveis relativos a substâncias inertes
+    - Altera 10.4. Efeitos em abelhas
+    - Altera 2.2.1. Efeitos da luz, temperatura e humidade nas características técnicas do produto fitofarmacêutico
+    - Altera 6. DADOS DE EFICÁCIA
+    - Altera 7.1.1. Toxicidade aguda por via oral
+    - Altera 7.1.2. Toxicidade aguda por via inalatória
+    - Altera 7.4. Dados toxicológicos disponíveis relativos às substâncias não activas
+    - Altera 1.1. Riscos especiais para os seres humanos (RSh)
+    - Altera SP 1
+    - Altera 2.1. Precauções a tomar pelos operadores (SPo)
+    - Altera 2.2. Precauções a tomar em relação ao ambiente (SPe)
+  - date: '2007-12-01'
+    amending: eu:celex:32006L0064:por
+    amending_title: DIRECTIVA 2006/64/CE DA COMISSÃO Texto relevante para efeitos do EEE de 18 de Julho de 2006; DIRECTIVA
+      2006/74/CE DA COMISSÃO Texto relevante para efeitos do EEE de 21 de Agosto de 2006; DIRECTIVA 2006/85/CE DA COMISSÃO
+      Texto relevante para efeitos do EEE de 23 de Outubro de 2006; DIRECTIVA 2007/5/CE DA COMISSÃO Texto relevante para efeitos
+      do EEE de 7 de Fevereiro de 2007; DIRECTIVA 2007/21/CE DA COMISSÃO Texto relevante para efeitos do EEE de 10 de Abril
+      de 2007; DIRECTIVA 2007/25/CE DA COMISSÃO Texto relevante para efeitos do EEE de 23 de Abril de 2007; DIRECTIVA 2007/31/CE
+      DA COMISSÃO Texto relevante para efeitos do EEE de 31 de Maio de 2007; DIRECTIVA 2007/50/CE DA COMISSÃO Texto relevante
+      para efeitos do EEE de 2 de Agosto de 2007; DIRECTIVA 2007/52/CE DA COMISSÃO Texto relevante para efeitos do EEE de
+      16 de Agosto de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 14.º
+    - Altera Artigo 19.º
+    - Altera ANEXO I
+    - Altera INTRODUÇÃO
+    - Altera 3.7. Métodos e precauções recomendados relativos à manipulação, armazenagem, transporte ou incêndio
+    - Altera 5.1. Estudos relativos à absorção, distribuição, excreção e metabolismo, em mamíferos
+    - Altera 5.2.1. Oral
+    - Altera 5.5. Toxicidade a longo prazo e carcinogenia
+    - Altera 5.9. Dados clínicos
+    - Altera 5.9.3. Observações relativas à exposição da população em geral e, ser for adequado, estudos epidemiológicos
+    - Altera 6. Resíduos nos produtos tratados e alimentos para consumo humano e de animais
+    - Altera 7.1.1. Via e taxa de degradação
+    - Altera 8.1. Efeitos nas aves
+    - Altera 8.2. Efeitos nos organismos aquáticos
+    - Altera 8.3. Efeitos em artrópodes
+    - Altera 8.4. Efeitos em minhocas
+    - Altera Introdução
+    - Altera 3.7. Métodos e precauções recomendados quanto à manipulação, armazenagem, transporte e incêndio
+    - Altera 5.1.1. Dados médicos
+    - Altera 5.2.2.2. Toxicidade, patogenicidade e infecciosidade agudas por via inalatória
+    - Altera 6.6.3. Efeito em vegetais ou partes de vegetais tratados a utilizar em propagação vegetativa
+    - Altera 7.2. Dados relativos à exposição
+    - Altera 7.2.1.2. Determinação da exposição do operador
+    - Altera 7.4. Dados toxicológicos disponíveis relativos a substâncias inertes
+    - Altera 2.2.1. Efeitos da luz, temperatura e humidade nas características técnicas do produto fitofarmacêutico
+    - Altera 6. DADOS DE EFICÁCIA
+    - Altera 7.1.1. Toxicidade aguda por via oral
+    - Altera 7.4. Dados toxicológicos disponíveis relativos às substâncias não activas
+    - Altera 2.5.1. Destino e disseminação no ambiente
+    - Altera 2.1.1. Identidade do microrganismo presente no produto fitofarmacêutico
+    - Altera 2.7. Destino e comportamento no ambiente
+    - Altera 2.6.1. Efeitos sobre a saúde humana e animal decorrentes do produto fitofarmacêutico
+    - Altera Notas
+    - Adita Substâncias químicas ([^19^](http://publications.europa.eu/resource/cellar/f3701682-b523-4055-9443-8ca9a0717588.0017.03/DOC_1#E0024))
+    - Adita 5.2.1. Hipersensibilização ([^37^](http://publications.europa.eu/resource/cellar/f3701682-b523-4055-9443-8ca9a0717588.0017.03/DOC_1#E0042))
+    - Suprime Substâncias químicas ([^19^](http://publications.europa.eu/resource/cellar/fe1f1045-c8e6-4abc-94d0-a6794d54d639.0016.03/DOC_1#E0024))
+    - Suprime 5.2.1. Hipersensibilização ([^37^](http://publications.europa.eu/resource/cellar/fe1f1045-c8e6-4abc-94d0-a6794d54d639.0016.03/DOC_1#E0042))
+  - date: '2008-08-01'
+    amending: eu:celex:32008L0044:por
+    amending_title: DIRECTIVA 2008/44/CE DA COMISSÃO Texto relevante para efeitos do EEE de 4 de Abril de 2008; DIRECTIVA
+      2008/45/CE DA COMISSÃO Texto relevante para efeitos do EEE de 4 de Abril de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 14.º
+    - Altera Artigo 19.º
+    - Altera ANEXO I
+    - Altera INTRODUÇÃO
+    - Altera 3.7. Métodos e precauções recomendados relativos à manipulação, armazenagem, transporte ou incêndio
+    - Altera 5.1. Estudos relativos à absorção, distribuição, excreção e metabolismo, em mamíferos
+    - Altera 5.2.1. Oral
+    - Altera 5.5. Toxicidade a longo prazo e carcinogenia
+    - Altera 5.9. Dados clínicos
+    - Altera 5.9.3. Observações relativas à exposição da população em geral e, ser for adequado, estudos epidemiológicos
+    - Altera 6. Resíduos nos produtos tratados e alimentos para consumo humano e de animais
+    - Altera 7.1.1. Via e taxa de degradação
+    - Altera 8.1. Efeitos nas aves
+    - Altera 8.2. Efeitos nos organismos aquáticos
+    - Altera 8.3. Efeitos em artrópodes
+    - Altera 8.4. Efeitos em minhocas
+    - Altera Introdução
+    - Altera 3.7. Métodos e precauções recomendados quanto à manipulação, armazenagem, transporte e incêndio
+    - Altera 5.1.1. Dados médicos
+    - Altera 5.2.2.2. Toxicidade, patogenicidade e infecciosidade agudas por via inalatória
+    - Altera 6.6.3. Efeito em vegetais ou partes de vegetais tratados a utilizar em propagação vegetativa
+    - Altera 7.2. Dados relativos à exposição
+    - Altera 7.2.1.2. Determinação da exposição do operador
+    - Altera 7.4. Dados toxicológicos disponíveis relativos a substâncias inertes
+    - Altera 2.2.1. Efeitos da luz, temperatura e humidade nas características técnicas do produto fitofarmacêutico
+    - Altera 6. DADOS DE EFICÁCIA
+    - Altera 7.1.1. Toxicidade aguda por via oral
+    - Altera 7.4. Dados toxicológicos disponíveis relativos às substâncias não activas
+    - Altera 2.5.1. Destino e disseminação no ambiente
+    - Altera 2.1.1. Identidade do microrganismo presente no produto fitofarmacêutico
+    - Altera 2.7. Destino e comportamento no ambiente
+    - Altera 2.6.1. Efeitos sobre a saúde humana e animal decorrentes do produto fitofarmacêutico
+    - Altera Notas
+    - Adita Substâncias químicas ([^19^](http://publications.europa.eu/resource/cellar/0d6bfaf5-497d-41a1-991e-e21aaa8a51d7.0017.03/DOC_1#E0024))
+    - Adita 5.2.1. Hipersensibilização ([^37^](http://publications.europa.eu/resource/cellar/0d6bfaf5-497d-41a1-991e-e21aaa8a51d7.0017.03/DOC_1#E0042))
+    - Suprime Substâncias químicas ([^19^](http://publications.europa.eu/resource/cellar/f3701682-b523-4055-9443-8ca9a0717588.0017.03/DOC_1#E0024))
+    - Suprime 5.2.1. Hipersensibilização ([^37^](http://publications.europa.eu/resource/cellar/f3701682-b523-4055-9443-8ca9a0717588.0017.03/DOC_1#E0042))
+  - date: '2009-01-01'
+    amending: eu:celex:32007L0076:por
+    amending_title: DIRECTIVA 2007/76/CE DA COMISSÃO Texto relevante para efeitos do EEE de 20 de Dezembro de 2007; DIRECTIVA
+      2008/40/CE DA COMISSÃO Texto relevante para efeitos do EEE de 28 de Março de 2008; DIRECTIVA 2008/41/CE DA COMISSÃO
+      Texto relevante para efeitos do EEE de 31 de Março de 2008; DIRECTIVA 2008/66/CE DA COMISSÃO Texto relevante para efeitos
+      do EEE de 30 de Junho de 2008; DIRECTIVA 2008/69/CE DA COMISSÃO Texto relevante para efeitos do EEE de 1 de Julho de
+      2008; DIRECTIVA 2008/70/CE DA COMISSÃO Texto relevante para efeitos do EEE de 11 de Julho de 2008; DIRECTIVA 2008/91/CE
+      DA COMISSÃO Texto relevante para efeitos do EEE de 29 de Setembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 14.º
+    - Altera Artigo 19.º
+    - Altera ANEXO I
+    - Altera INTRODUÇÃO
+    - Altera 3.7. Métodos e precauções recomendados relativos à manipulação, armazenagem, transporte ou incêndio
+    - Altera 5.1. Estudos relativos à absorção, distribuição, excreção e metabolismo, em mamíferos
+    - Altera 5.2.1. Oral
+    - Altera 5.5. Toxicidade a longo prazo e carcinogenia
+    - Altera 5.9. Dados clínicos
+    - Altera 5.9.3. Observações relativas à exposição da população em geral e, ser for adequado, estudos epidemiológicos
+    - Altera 6. Resíduos nos produtos tratados e alimentos para consumo humano e de animais
+    - Altera 7.1.1. Via e taxa de degradação
+    - Altera 8.1. Efeitos nas aves
+    - Altera 8.2. Efeitos nos organismos aquáticos
+    - Altera 8.3. Efeitos em artrópodes
+    - Altera 8.4. Efeitos em minhocas
+    - Altera Introdução
+    - Altera 3.7. Métodos e precauções recomendados quanto à manipulação, armazenagem, transporte e incêndio
+    - Altera 5.1.1. Dados médicos
+    - Altera 5.2.2.2. Toxicidade, patogenicidade e infecciosidade agudas por via inalatória
+    - Altera 6.6.3. Efeito em vegetais ou partes de vegetais tratados a utilizar em propagação vegetativa
+    - Altera 7.2. Dados relativos à exposição
+    - Altera 7.2.1.2. Determinação da exposição do operador
+    - Altera 7.4. Dados toxicológicos disponíveis relativos a substâncias inertes
+    - Altera 2.2.1. Efeitos da luz, temperatura e humidade nas características técnicas do produto fitofarmacêutico
+    - Altera 6. DADOS DE EFICÁCIA
+    - Altera 7.1.1. Toxicidade aguda por via oral
+    - Altera 7.4. Dados toxicológicos disponíveis relativos às substâncias não activas
+    - Altera 2.5.1. Destino e disseminação no ambiente
+    - Altera 2.1.1. Identidade do microrganismo presente no produto fitofarmacêutico
+    - Altera 2.7. Destino e comportamento no ambiente
+    - Altera 2.6.1. Efeitos sobre a saúde humana e animal decorrentes do produto fitofarmacêutico
+    - Altera Notas
+    - Adita Substâncias químicas ([^19^](http://publications.europa.eu/resource/cellar/bd3c69aa-faf3-492d-bdb5-0dfdc19e4420.0017.03/DOC_1#E0024))
+    - Adita 5.2.1. Hipersensibilização ([^37^](http://publications.europa.eu/resource/cellar/bd3c69aa-faf3-492d-bdb5-0dfdc19e4420.0017.03/DOC_1#E0042))
+    - Suprime Substâncias químicas ([^19^](http://publications.europa.eu/resource/cellar/0d6bfaf5-497d-41a1-991e-e21aaa8a51d7.0017.03/DOC_1#E0024))
+    - Suprime 5.2.1. Hipersensibilização ([^37^](http://publications.europa.eu/resource/cellar/0d6bfaf5-497d-41a1-991e-e21aaa8a51d7.0017.03/DOC_1#E0042))
+  - date: '2009-05-01'
+    amending: eu:celex:32008L0107:por
+    amending_title: DIRECTIVA 2008/107/CE DA COMISSÃO Texto relevante para efeitos do EEE de 25 de Novembro de 2008; DIRECTIVA
+      2008/108/CE DA COMISSÃO Texto relevante para efeitos do EEE de 26 de Novembro de 2008; DIRECTIVA 2008/113/CE DA COMISSÃO
+      Texto relevante para efeitos do EEE de 8 de Dezembro de 2008; DIRECTIVA 2009/25/CE DA COMISSÃO Texto relevante para
+      efeitos do EEE de 2 de Abril de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 14.º
+    - Altera Artigo 19.º
+    - Altera ANEXO I
+    - Altera INTRODUÇÃO
+    - Altera 3.7. Métodos e precauções recomendados relativos à manipulação, armazenagem, transporte ou incêndio
+    - Altera 5.1. Estudos relativos à absorção, distribuição, excreção e metabolismo, em mamíferos
+    - Altera 5.2.1. Oral
+    - Altera 5.5. Toxicidade a longo prazo e carcinogenia
+    - Altera 5.9. Dados clínicos
+    - Altera 5.9.3. Observações relativas à exposição da população em geral e, ser for adequado, estudos epidemiológicos
+    - Altera 6. Resíduos nos produtos tratados e alimentos para consumo humano e de animais
+    - Altera 7.1.1. Via e taxa de degradação
+    - Altera 8.1. Efeitos nas aves
+    - Altera 8.2. Efeitos nos organismos aquáticos
+    - Altera 8.3. Efeitos em artrópodes
+    - Altera 8.4. Efeitos em minhocas
+    - Altera Introdução
+    - Altera 3.7. Métodos e precauções recomendados quanto à manipulação, armazenagem, transporte e incêndio
+    - Altera 5.1.1. Dados médicos
+    - Altera 5.2.2.2. Toxicidade, patogenicidade e infecciosidade agudas por via inalatória
+    - Altera 6.6.3. Efeito em vegetais ou partes de vegetais tratados a utilizar em propagação vegetativa
+    - Altera 7.2. Dados relativos à exposição
+    - Altera 7.2.1.2. Determinação da exposição do operador
+    - Altera 7.4. Dados toxicológicos disponíveis relativos a substâncias inertes
+    - Altera 2.2.1. Efeitos da luz, temperatura e humidade nas características técnicas do produto fitofarmacêutico
+    - Altera 6. DADOS DE EFICÁCIA
+    - Altera 7.1.1. Toxicidade aguda por via oral
+    - Altera 7.4. Dados toxicológicos disponíveis relativos às substâncias não activas
+    - Altera 2.5.1. Destino e disseminação no ambiente
+    - Altera 2.1.1. Identidade do microrganismo presente no produto fitofarmacêutico
+    - Altera 2.7. Destino e comportamento no ambiente
+    - Altera 2.6.1. Efeitos sobre a saúde humana e animal decorrentes do produto fitofarmacêutico
+    - Altera Notas
+    - Adita Substâncias químicas ([^19^](http://publications.europa.eu/resource/cellar/143a544e-a91e-4f03-905a-f4cf707c7e6f.0017.03/DOC_1#E0024))
+    - Adita 5.2.1. Hipersensibilização ([^37^](http://publications.europa.eu/resource/cellar/143a544e-a91e-4f03-905a-f4cf707c7e6f.0017.03/DOC_1#E0042))
+    - Suprime Substâncias químicas ([^19^](http://publications.europa.eu/resource/cellar/bd3c69aa-faf3-492d-bdb5-0dfdc19e4420.0017.03/DOC_1#E0024))
+    - Suprime 5.2.1. Hipersensibilização ([^37^](http://publications.europa.eu/resource/cellar/bd3c69aa-faf3-492d-bdb5-0dfdc19e4420.0017.03/DOC_1#E0042))
+  - date: '2009-09-01'
+    amending: eu:celex:32008L0116:por
+    amending_title: DIRECTIVA 2008/116/CE DA COMISSÃO Texto relevante para efeitos do EEE de 15 de Dezembro de 2008; DIRECTIVA
+      2008/125/CE DA COMISSÃO Texto relevante para efeitos do EEE de 19 de Dezembro de 2008; DIRECTIVA 2008/127/CE DA COMISSÃO
+      Texto relevante para efeitos do EEE de 18 de Dezembro de 2008; DIRECTIVA 2009/51/CE DA COMISSÃO Texto relevante para
+      efeitos do EEE de 25 de Maio de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 14.º
+    - Altera Artigo 19.º
+    - Altera ANEXO I
+    - Altera INTRODUÇÃO
+    - Altera 3.7. Métodos e precauções recomendados relativos à manipulação, armazenagem, transporte ou incêndio
+    - Altera 5.1. Estudos relativos à absorção, distribuição, excreção e metabolismo, em mamíferos
+    - Altera 5.2.1. Oral
+    - Altera 5.5. Toxicidade a longo prazo e carcinogenia
+    - Altera 5.9. Dados clínicos
+    - Altera 5.9.3. Observações relativas à exposição da população em geral e, ser for adequado, estudos epidemiológicos
+    - Altera 6. Resíduos nos produtos tratados e alimentos para consumo humano e de animais
+    - Altera 7.1.1. Via e taxa de degradação
+    - Altera 8.1. Efeitos nas aves
+    - Altera 8.2. Efeitos nos organismos aquáticos
+    - Altera 8.3. Efeitos em artrópodes
+    - Altera 8.4. Efeitos em minhocas
+    - Altera Introdução
+    - Altera 3.7. Métodos e precauções recomendados quanto à manipulação, armazenagem, transporte e incêndio
+    - Altera 5.1.1. Dados médicos
+    - Altera 5.2.2.2. Toxicidade, patogenicidade e infecciosidade agudas por via inalatória
+    - Altera 6.6.3. Efeito em vegetais ou partes de vegetais tratados a utilizar em propagação vegetativa
+    - Altera 7.2. Dados relativos à exposição
+    - Altera 7.2.1.2. Determinação da exposição do operador
+    - Altera 7.4. Dados toxicológicos disponíveis relativos a substâncias inertes
+    - Altera 2.2.1. Efeitos da luz, temperatura e humidade nas características técnicas do produto fitofarmacêutico
+    - Altera 6. DADOS DE EFICÁCIA
+    - Altera 7.1.1. Toxicidade aguda por via oral
+    - Altera 7.4. Dados toxicológicos disponíveis relativos às substâncias não activas
+    - Altera 2.5.1. Destino e disseminação no ambiente
+    - Altera 2.1.1. Identidade do microrganismo presente no produto fitofarmacêutico
+    - Altera 2.7. Destino e comportamento no ambiente
+    - Altera 2.6.1. Efeitos sobre a saúde humana e animal decorrentes do produto fitofarmacêutico
+    - Altera Notas
+    - Adita Substâncias químicas ([^19^](http://publications.europa.eu/resource/cellar/8ced39ab-0093-4b96-9d84-87ba511ff690.0017.03/DOC_1#E0024))
+    - Adita 5.2.1. Hipersensibilização ([^37^](http://publications.europa.eu/resource/cellar/8ced39ab-0093-4b96-9d84-87ba511ff690.0017.03/DOC_1#E0042))
+    - Suprime Substâncias químicas ([^19^](http://publications.europa.eu/resource/cellar/143a544e-a91e-4f03-905a-f4cf707c7e6f.0017.03/DOC_1#E0024))
+    - Suprime 5.2.1. Hipersensibilização ([^37^](http://publications.europa.eu/resource/cellar/143a544e-a91e-4f03-905a-f4cf707c7e6f.0017.03/DOC_1#E0042))
+  - date: '2010-04-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Âmbito de aplicação
+    - Suprime Artigo 1.º
+    - Suprime Definições
+    - Suprime Artigo 2.º
+    - Suprime Disposições gerais
+    - Suprime Artigo 3.º
+    - Suprime Concessão, revisão e retirada de autorização de produtos fitofarmacêuticos
+    - Suprime Artigo 4.º
+    - Suprime Inscrição das substâncias activas no anexo I
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Informação sobre os potenciais efeitos perigosos
+    - Suprime Artigo 7.º
+    - Suprime Medidas transitórias e derrogatórias
+    - Suprime Artigo 8.º
+    - Suprime Disposições relativas ao pedido de autorização
+    - Suprime Artigo 9.º
+    - Suprime Reconhecimento mútuo das autorizações
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Intercâmbio de informações
+    - Suprime Artigo 12.º
+    - Suprime Prescrições em matéria de dados, protecção dos dados e confidencialidade
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Acondicionamento e rotulagem dos produtos fitofarmacêuticos
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Medidas de controlo
+    - Suprime Artigo 17.º
+    - Suprime Disposições administrativas
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime Investigação e desenvolvimento
+    - Suprime Artigo 22.º
+    - Suprime Aplicação da directiva
+    - Suprime Artigo 23.º
+  - date: '2010-06-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+  - date: '2010-08-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+  - date: '2010-09-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+  - date: '2010-11-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+  - date: '2011-06-01'
+    amending: eu:celex:32009L0011:por
+    amending_title: Directiva 2009/11/CE da Comissão Texto relevante para efeitos do EEE de 18 de Fevereiro de 2009; Directiva
+      2009/37/CE da Comissão Texto relevante para efeitos do EEE de 23 de Abril de 2009; Directiva 2009/70/CE da Comissão
+      Texto relevante para efeitos do EEE de 25 de Junho de 2009; Directiva 2009/77/CE da Comissão Texto relevante para efeitos
+      do EEE de 1 de Julho de 2009; Directiva 2009/82/CE do Conselho Texto relevante para efeitos do EEE de 13 de Julho de
+      2009; Directiva 2009/115/CE da Comissão Texto relevante para efeitos do EEE de 31 de Agosto de 2009; Directiva 2009/116/CE
+      do Conselho Texto relevante para efeitos do EEE de 25 de Junho de 2009; Directiva 2009/117/CE do Conselho Texto relevante
+      para efeitos do EEE de 25 de Junho de 2009; M124; Directiva 2009/153/CE da Comissão Texto relevante para efeitos do
+      EEE de 30 de Novembro de 2009; Directiva 2009/154/CE da Comissão Texto relevante para efeitos do EEE de 30 de Novembro
+      de 2009; Directiva 2009/155/CE da Comissão Texto relevante para efeitos do EEE de 30 de Novembro de 2009; M128; Directiva
+      2010/2/UE da Comissão Texto relevante para efeitos do EEE de 27 de Janeiro de 2010; Directiva 2010/14/UE da Comissão
+      Texto relevante para efeitos do EEE de 3 de Março de 2010; Directiva 2010/15/UE da Comissão Texto relevante para efeitos
+      do EEE de 8 de Março de 2010; Directiva 2010/17/UE da Comissão Texto relevante para efeitos do EEE de 9 de Março de
+      2010; Directiva 2010/20/UE da Comissão Texto relevante para efeitos do EEE de 9 de Março de 2010; Directiva 2010/21/UE
+      da Comissão Texto relevante para efeitos do EEE de 12 de Março de 2010; Directiva 2010/25/UE da Comissão Texto relevante
+      para efeitos do EEE de 18 de Março de 2010; Directiva 2010/27/UE da Comissão Texto relevante para efeitos do EEE de
+      23 de Abril de 2010; Directiva 2010/28/UE da Comissão Texto relevante para efeitos do EEE de 23 de Abril de 2010; Directiva
+      2010/29/UE da Comissão Texto relevante para efeitos do EEE de 27 de Abril de 2010; Directiva 2010/34/UE da Comissão
+      Texto relevante para efeitos do EEE de 31 de Maio de 2010; Directiva 2010/38/UE da Comissão Texto relevante para efeitos
+      do EEE de 18 de Junho de 2010; Directiva 2010/39/UE da Comissão Texto relevante para efeitos do EEE de 22 de Junho de
+      2010; Directiva 2010/42/UE da Comissão Texto relevante para efeitos do EEE de 28 de Junho de 2010; Directiva 2010/58/UE
+      da Comissão Texto relevante para efeitos do EEE de 23 de Agosto de 2010; Directiva 2010/70/UE da Comissão Texto relevante
+      para efeitos do EEE de 28 de Outubro de 2010; Directiva 2010/77/UE da Comissão Texto relevante para efeitos do EEE de
+      10 de Novembro de 2010; Directiva 2010/81/UE da Comissão Texto relevante para efeitos do EEE de 25 de Novembro de 2010;
+      Directiva 2010/82/UE da Comissão Texto relevante para efeitos do EEE de 29 de Novembro de 2010; Directiva 2010/83/UE
+      da Comissão Texto relevante para efeitos do EEE de 30 de Novembro de 2010; Directiva 2010/85/UE da Comissão Texto relevante
+      para efeitos do EEE de 2 de Dezembro de 2010; Directiva 2010/86/UE da Comissão Texto relevante para efeitos do EEE de
+      2 de Dezembro de 2010; Directiva 2010/87/UE da Comissão Texto relevante para efeitos do EEE de 3 de Dezembro de 2010;
+      Directiva 2010/89/UE da Comissão Texto relevante para efeitos do EEE de 6 de Dezembro de 2010; Directiva 2010/90/UE
+      da Comissão Texto relevante para efeitos do EEE de 7 de Dezembro de 2010; Directiva 2010/91/UE da Comissão Texto relevante
+      para efeitos do EEE de 10 de Dezembro de 2010; Directiva 2010/92/UE da Comissão Texto relevante para efeitos do EEE
+      de 21 de Dezembro de 2010; Directiva 2011/1/UE da Comissão Texto relevante para efeitos do EEE de 3 de Janeiro de 2011;
+      Directiva 2011/2/UE da Comissão Texto relevante para efeitos do EEE de 7 de Janeiro de 2011; Directiva 2011/4/UE da
+      Comissão Texto relevante para efeitos do EEE de 20 de Janeiro de 2011; Directiva 2011/5/UE da Comissão Texto relevante
+      para efeitos do EEE de 20 de Janeiro de 2011; Directiva 2011/6/UE da Comissão Texto relevante para efeitos do EEE de
+      20 de Janeiro de 2011; Directiva 2011/9/UE da Comissão Texto relevante para efeitos do EEE de 1 de Fevereiro de 2011;
+      Directiva 2011/19/UE da Comissão Texto relevante para efeitos do EEE de 2 de Março de 2011; Directiva 2011/20/UE da
+      Comissão Texto relevante para efeitos do EEE de 2 de Março de 2011; Directiva 2011/21/UE da Comissão Texto relevante
+      para efeitos do EEE de 2 de Março de 2011; Directiva 2011/23/UE da Comissão Texto relevante para efeitos do EEE de 3
+      de Março de 2011; Directiva 2011/25/UE da Comissão Texto relevante para efeitos do EEE de 3 de Março de 2011; Directiva
+      2011/26/UE da Comissão Texto relevante para efeitos do EEE de 3 de Março de 2011; Directiva 2011/27/UE da Comissão Texto
+      relevante para efeitos do EEE de 4 de Março de 2011; Directiva 2011/28/UE da Comissão Texto relevante para efeitos do
+      EEE de 4 de Março de 2011; Directiva 2011/29/UE da Comissão Texto relevante para efeitos do EEE de 7 de Março de 2011;
+      Directiva 2011/30/UE da Comissão Texto relevante para efeitos do EEE de 7 de Março de 2011; Directiva 2011/31/UE da
+      Comissão Texto relevante para efeitos do EEE de 7 de Março de 2011; Directiva 2011/32/UE da Comissão Texto relevante
+      para efeitos do EEE de 8 de Março de 2011; Directiva 2011/33/UE da Comissão Texto relevante para efeitos do EEE de 8
+      de Março de 2011; Directiva 2011/34/UE da Comissão Texto relevante para efeitos do EEE de 8 de Março de 2011
+    changes:
+    - Altera preambulo
+    - Adita Âmbito de aplicação
+    - Adita Artigo 1.º
+    - Adita Definições
+    - Adita Artigo 2.º
+    - Adita Disposições gerais
+    - Adita Artigo 3.º
+    - Adita Concessão, revisão e retirada de autorização de produtos fitofarmacêuticos
+    - Adita Artigo 4.º
+    - Adita Inscrição das substâncias activas no anexo I
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Informação sobre os potenciais efeitos perigosos
+    - Adita Artigo 7.º
+    - Adita Medidas transitórias e derrogatórias
+    - Adita Artigo 8.º
+    - Adita Disposições relativas ao pedido de autorização
+    - Adita Artigo 9.º
+    - Adita Reconhecimento mútuo das autorizações
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Intercâmbio de informações
+    - Adita Artigo 12.º
+    - Adita Prescrições em matéria de dados, protecção dos dados e confidencialidade
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Acondicionamento e rotulagem dos produtos fitofarmacêuticos
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Medidas de controlo
+    - Adita Artigo 17.º
+    - Adita Disposições administrativas
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Investigação e desenvolvimento
+    - Adita Artigo 22.º
+    - Adita Aplicação da directiva
+    - Adita Artigo 23.º
+  - date: '2011-08-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Âmbito de aplicação
+    - Suprime Artigo 1.º
+    - Suprime Definições
+    - Suprime Artigo 2.º
+    - Suprime Disposições gerais
+    - Suprime Artigo 3.º
+    - Suprime Concessão, revisão e retirada de autorização de produtos fitofarmacêuticos
+    - Suprime Artigo 4.º
+    - Suprime Inscrição das substâncias activas no anexo I
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Informação sobre os potenciais efeitos perigosos
+    - Suprime Artigo 7.º
+    - Suprime Medidas transitórias e derrogatórias
+    - Suprime Artigo 8.º
+    - Suprime Disposições relativas ao pedido de autorização
+    - Suprime Artigo 9.º
+    - Suprime Reconhecimento mútuo das autorizações
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Intercâmbio de informações
+    - Suprime Artigo 12.º
+    - Suprime Prescrições em matéria de dados, protecção dos dados e confidencialidade
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Acondicionamento e rotulagem dos produtos fitofarmacêuticos
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Medidas de controlo
+    - Suprime Artigo 17.º
+    - Suprime Disposições administrativas
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime Investigação e desenvolvimento
+    - Suprime Artigo 22.º
+    - Suprime Aplicação da directiva
+    - Suprime Artigo 23.º
 identifiers:
   celex: 31991L0414
   eli: http://data.europa.eu/eli/dir/1991/414/oj
@@ -48,7 +762,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c2514307-b9a4-4a7b-9f36-a9f3662df21b.0011
   content_url: http://publications.europa.eu/resource/cellar/5103495c-e081-4576-ae14-9a0a0a367dd2.0018.03/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0414-20110801
-  retrieved_at: '2026-10-22T02:35:12Z'
+  retrieved_at: '2026-10-22T14:39:50Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2020-02-25T16:31:46.491+01:00'
 integrity:
@@ -57,9 +771,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:12Z'
-  notes: Texto consolidado 01991L0414-20110801.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:39:50Z'
+  notes: 18 versão(ões); histórico completo em diretiva-ue-1991-414.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -1361,16 +2075,27 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:12Z'
+  checked_at: '2026-10-22T14:39:50Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01991L0414-19940901: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0414-19970927: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0414-20001229: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0414-20020101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0414-20021001: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0414-20030101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0414-20030301: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0414-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0414-20030701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0414-20031101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0414-20040101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0414-20110101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991L0414-20110201: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

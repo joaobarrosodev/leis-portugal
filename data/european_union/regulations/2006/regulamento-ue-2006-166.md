@@ -36,6 +36,81 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-01-01'
+version_history:
+  file: regulamento-ue-2006-166.versoes.json
+  count: 5
+  source_lastmod: '2020-01-01'
+  versions:
+  - date: '2006-02-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-07'
+    amending: eu:celex:32009R0596:por
+    amending_title: REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Emissões de fontes difusas
+    - Altera Artigo 11.º — Confidencialidade
+    - Altera Artigo 13.º — Acesso à justiça
+    - Altera Artigo 18.º — Alteração dos anexos
+    - Altera Artigo 19.º — Procedimento do comité
+    - Altera Artigo 22.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Actividades
+    - Adita ANEXO II
+    - Adita Poluentes ([^12^](http://publications.europa.eu/resource/cellar/d79d67fc-8606-4b85-9ec7-3b8ec67933d9.0018.03/DOC_1#E0016))
+    - Adita ANEXO III
+    - Adita Formato para a comunicação pelos Estados-Membros à Comissão dos dados relativos às emissões e transferências
+  - date: '2019-06-26'
+    amending: eu:celex:32019R1010:por
+    amending_title: REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Comunicação de dados pelos operadores
+    - Altera Artigo 11.º — Confidencialidade
+    - Altera Artigo 13.º — Acesso à justiça
+    - Altera Actividades
+    - Altera Formato para a comunicação pelos Estados-Membros à Comissão dos dados relativos às emissões e transferências
+    - Altera Notas
+    - Adita Poluentes ([^1^](http://publications.europa.eu/resource/cellar/57818007-ca80-11e9-992f-01aa75ed71a1.0018.03/DOC_1#E0009))
+    - Suprime Artigo 16.º — Informações suplementares a comunicar pelos Estados-Membros
+    - Suprime Artigo 17.º — Exame pela Comissão
+    - Suprime Poluentes ([^12^](http://publications.europa.eu/resource/cellar/d79d67fc-8606-4b85-9ec7-3b8ec67933d9.0018.03/DOC_1#E0016))
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Emissões de fontes difusas
+    - Altera Artigo 11.º — Confidencialidade
+    - Altera Artigo 13.º — Acesso à justiça
+    - Altera Artigo 18.º — Alteração dos anexos
+    - Altera Artigo 19.º — Procedimento do comité
+    - Altera Actividades
+    - Altera Formato para a comunicação pelos Estados-Membros à Comissão dos dados relativos às emissões e transferências
+    - Altera Notas
+    - Adita Artigo 18.º-A — Exercício da delegação
+    - Adita Poluentes ([^1^](http://publications.europa.eu/resource/cellar/7829c423-0009-11ea-8c1f-01aa75ed71a1.0018.03/DOC_1#E0010))
+    - Suprime Poluentes ([^1^](http://publications.europa.eu/resource/cellar/57818007-ca80-11e9-992f-01aa75ed71a1.0018.03/DOC_1#E0009))
+  - date: '2020-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Comunicação de dados pelos Estados-Membros
+    - Altera Artigo 11.º — Confidencialidade
+    - Altera Artigo 13.º — Acesso à justiça
+    - Altera Artigo 18.º-A — Exercício da delegação
+    - Altera Actividades
+    - Altera Notas
+    - Adita Poluentes ([^1^](http://publications.europa.eu/resource/cellar/f7824d46-32e6-11ea-ba6e-01aa75ed71a1.0018.03/DOC_2#E0010))
+    - Suprime Poluentes ([^1^](http://publications.europa.eu/resource/cellar/7829c423-0009-11ea-8c1f-01aa75ed71a1.0018.03/DOC_1#E0010))
+    - Suprime ANEXO III
+    - Suprime Formato para a comunicação pelos Estados-Membros à Comissão dos dados relativos às emissões e transferências
 identifiers:
   celex: 32006R0166
   eli: http://data.europa.eu/eli/reg/2006/166/oj
@@ -50,7 +125,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a346ea24-b297-404e-95a7-b3ab1880f456.0017
   content_url: http://publications.europa.eu/resource/cellar/f7824d46-32e6-11ea-ba6e-01aa75ed71a1.0018.03/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R0166-20200101
-  retrieved_at: '2026-10-22T02:47:48Z'
+  retrieved_at: '2026-10-22T15:03:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T13:14:37.853+01:00'
 integrity:
@@ -59,9 +134,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:48Z'
-  notes: Texto consolidado 02006R0166-20200101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:03:15Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2006-166.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -189,35 +264,20 @@ relationships:
   date: '2024-05-02'
 article_structure:
   article_count: 21
-  section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 5
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:48Z'
-  warnings: []
+  checked_at: '2026-10-22T15:03:15Z'
+  warnings:
+  - '02006R0166-20060224: versão indisponível (Sem expressão na língua por para CELEX 02006R0166-20060224.)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 166/2006 do Parlamento Europeu e do Conselho, de 18 de Janeiro de 2006
-
-> 02006R0166 — PT — 01.01.2020 — 004.003
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32009R0596) — [REGULAMENTO (CE) N.º 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0596) — L 188 — 14 — 18.7.2009
-- [►M2](http://publications.europa.eu/resource/celex/32019R1010) — [REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1010) — L 170 — 115 — 25.6.2019
-- [►M3](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R1010R%2802%29) — [Rectificação, JO L 043, 24.2.2022, p. 93 (2019/1010)](http://publications.europa.eu/resource/celex/32019R1010R%2802%29)
-
-## REGULAMENTO (CE) N.º 166/2006 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 18 de Janeiro de 2006
 

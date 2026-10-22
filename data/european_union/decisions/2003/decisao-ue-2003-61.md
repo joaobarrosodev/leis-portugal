@@ -35,6 +35,39 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-11-29'
+version_history:
+  file: decisao-ue-2003-61.versoes.json
+  count: 3
+  source_lastmod: '2008-11-29'
+  versions:
+  - date: '2003-01-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-12-01'
+    amending: eu:celex:32005D0850:por
+    amending_title: DECISÃO DA COMISSÃO de 25 de Novembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Adita Notas
+  - date: '2008-11-29'
+    amending: eu:celex:32008D0891:por
+    amending_title: DECISÃO DA COMISSÃO de 26 de Novembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 15.º
+    - Altera Notas
 identifiers:
   celex: 32003D0061
   eli: http://data.europa.eu/eli/dec/2003/61(1)/oj
@@ -49,7 +82,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2dcbd83e-e9d6-45af-ad79-dfd35dd290db.0010
   content_url: http://publications.europa.eu/resource/cellar/db6e2a8f-3add-4a43-b147-4d38fa3d3a4a.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003D0061-20081129
-  retrieved_at: '2026-10-22T02:47:30Z'
+  retrieved_at: '2026-10-22T14:54:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T04:53:30.941+01:00'
 integrity:
@@ -58,9 +91,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:30Z'
-  notes: Texto consolidado 02003D0061-20081129.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:21Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-2003-61.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -132,30 +165,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/3b237693-9bb0-4d15-8203-f56d0d95c71f
 article_structure:
   article_count: 16
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:30Z'
+  checked_at: '2026-10-22T14:54:21Z'
   warnings: []
   errors: []
 ---
 
 # 2003/61/CE: Decisão da Comissão, de 27 de Janeiro de 2003
-
-> 2003D0061 — PT — 29.11.2008 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32005D0850) — [DECISÃO DA COMISSÃO de 25 de Novembro de 2005](http://publications.europa.eu/resource/celex/32005D0850) — L 315 — 18 — 1.12.2005
-- [►M2](http://publications.europa.eu/resource/celex/32008D0891) — [DECISÃO DA COMISSÃO de 26 de Novembro de 2008](http://publications.europa.eu/resource/celex/32008D0891) — L 319 — 71 — 29.11.2008
-
-## DECISÃO DA COMISSÃO
 
 de 27 de Janeiro de 2003
 

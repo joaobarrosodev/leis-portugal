@@ -34,6 +34,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-06-10'
+version_history:
+  file: diretiva-ue-1990-219.versoes.json
+  count: 2
+  source_lastmod: '2009-06-10'
+  versions:
+  - date: '2005-03-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-06-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 20.ºA
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime ANEXO I
+    - Suprime PARTE A
+    - Suprime PARTE B
+    - Suprime ANEXO II
+    - Suprime Critérios destinados a determinar a segurança para a saúde humana e para o ambiente dos MGM
+    - Suprime 1. INTRODUÇÃO
+    - Suprime 2. CRITÉRIOS GERAIS
+    - Suprime 2.1. Verificação/autenticação da estirpe
+    - Suprime 2.2. Dados de segurança documentados e comprovados
+    - Suprime 2.3. Estabilidade genética
+    - Suprime 3. CRITÉRIOS ESPECÍFICOS
+    - Suprime 3.1. Não patogénico
+    - Suprime 3.1.1. Não toxigénico
+    - Suprime 3.1.2. Não alergénico
+    - Suprime 3.2. Ausência de agentes adventícios nocivos
 identifiers:
   celex: 31990L0219
   eli: http://data.europa.eu/eli/dir/1990/219/oj
@@ -48,7 +101,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c9a05ab2-ff6c-4743-a122-e3180cf24591.0011
   content_url: http://publications.europa.eu/resource/cellar/65aa0565-0613-41e3-9de0-18539058b7c1.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0219-20090610
-  retrieved_at: '2026-10-22T02:37:51Z'
+  retrieved_at: '2026-10-22T14:36:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T02:57:06.050+01:00'
 integrity:
@@ -57,9 +110,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:51Z'
-  notes: Texto consolidado 01990L0219-20090610.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:36:41Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1990-219.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -181,16 +234,19 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:51Z'
+  checked_at: '2026-10-22T14:36:41Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01990L0219-19900502: versão indisponível (Sem expressão na língua por para CELEX 01990L0219-19900502.)'
+  - '01990L0219-19941208: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0219-19981205: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0219-20010315: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0219-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

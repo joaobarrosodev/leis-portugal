@@ -1,0 +1,101 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998R0881:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998R0881-20010401",
+ "dre_path": null,
+ "source_lastmod": "2001-04-01",
+ "versions": [
+  {
+   "date": "1998-04-25",
+   "future": false,
+   "celex": "31998R0881",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "83772622db2674fb",
+    "f2e80116b61bb534",
+    "0a7ff987aaa73af4",
+    "f421252ded065071",
+    "2124034d9331638f",
+    "9983928d5c1b1ac1",
+    "48f0cf7b6f89acfa",
+    "351fe3e40e1033bd",
+    "1625812c2ab881d3"
+   ]
+  }
+ ],
+ "fragments": {
+  "83772622db2674fb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 881/98 da Comissão de 24 de Abril de 1998 que estabelece normas de execução relativas à protecção das menções tradicionais complementares utilizadas para certos tipos de vinhos de qualidade produzidos em regiões determinadas** *Jornal Oficial nº L 124 de 25/04/1998 p. 0022 - 0026*\n\nREGULAMENTO (CE) Nº 881/98 DA COMISSÃO de 24 de Abril de 1998 que estabelece normas de execução relativas à protecção das menções tradicionais complementares utilizadas para certos tipos de vinhos de qualidade produzidos em regiões determinadas\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CEE) nº 823/87 do Conselho, de 16 de Março de 1987, que estabelece disposições especiais relativas aos vinhos de qualidade produzidos em regiões determinadas (1), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1426/96 (2), e, nomeadamente, o nº 8 do seu artigo 15º,\n\nConsiderando que o artigo 15º do Regulamento (CEE) nº 823/87 prevê, nos seus nºs 1 e 2, a protecção das menções tradicionais utilizadas para os vqprd; que o mesmo artigo 15º enumera as menções tradicionais comunitárias e as menções específicas tradicionais admitidas pela legislação dos Estados-membros, referidas nos seus nºs 1 e 2, garantindo assim o seu conhecimento e a sua protecção na Comunidade; que, no entanto, as menções tradicionais complementares admitidas pela legislação nacional dos Estados-membros produtores, referidas no nº 2 do artigo 15º do Regulamento (CEE) nº 823/87, não foram ainda objecto de uma enumeração completa; que importa estabelecer uma lista de tais menções a fim de assegurar o seu conhecimento e consolidar assim a sua protecção na Comunidade;\n\nConsiderando que, para beneficiarem de uma protecção em todos os Estados-membros, as menções tradicionais complementares devem ser registadas ao nível comunitário, de modo a possibilitar a informação dos consumidores e dos profissionais;\n\nConsiderando que certas menções tradicionais complementares dos vinhos tranquilos e espumantes estão já enumeradas na regulamentação comunitária sobre a designação de tais vinhos;\n\nConsiderando que, em relação a certas categorias de vinhos, nomeadamente os licorosos e os frisantes, não se procedeu ainda à enumeração na legislação comunitária das menções tradicionais complementares admitidas pelas legislações nacionais; que, no entanto, os Estados-membros comunicaram aos serviços da Comissão a lista das menções tradicionais reconhecidas para os vinhos licorosos e os vinhos frisantes, indicando em relação a cada menção a referência às disposições nacionais aplicáveis; que é conveniente enumerar em anexo ao presente regulamento as menções de tal modo ligadas a um ou certos vinhos licorosos de qualidade produzidos em regiões determinadas (vfqprd) e vinhos frisantes de qualidade produzidos em regiões determinadas (vfqprd) que mereçam uma protecção exclusiva, dada a sua notoriedade e/ou exclusividade;\n\nConsiderando, no entanto, que certas menções tradicionais complementares que podem ser utilizadas para uma categoria de vlqprd ou vfqprd em um ou mais Estados-membros o são, em condições comparáveis e de modo leal e constante, para certos vinhos designados com recurso a uma indicação geográfica de um país terceiro; que é necessário prever a possibilidade de tais menções serem utilizadas, sob certas condições, para esses vinhos na Comunidade;\n\nConsiderando que as menções tradicionais complementares que beneficiam de uma protecção devem satisfazer um certo número de condições;\n\nConsiderando que, no intuito de estabelecer as condições de uma concorrência leal entre os diversos vinhos, há que proteger as menções tradicionais complementares que constam em anexo, por um lado, contra a sua utilização na designação e apresentação de outros vinhos que não tenham direito a tais menções e, por outro, a fim de evitar que a sua reputação seja usufruída para induzir o público em erro; que, com vista a uma eficaz protecção das menções utilizadas para a designação dos vlqprd ou vfqprd, importa proibir as marcas que contenham palavras idênticas a uma menção tradicional constante do anexo do presente regulamento; que é, todavia, necessário proteger a confiança legítima dos titulares das marcas registadas antes da entrada em vigor do prtesente regulamento;\n\nConsiderando que certos vlqprd e vfqprd utilizam menções tradicionais complementares de modo a distinguirem-se claramente de outro produto através de características que lhes são próprias; que é, pois, conveniente, para assegurar a protecção do consumidor, que a utilização de tais menções seja controlada;\n\nConsiderando que a protecção visada pelo presente regulamento diz apenas respeito à utilização das menções em causa para os vinhos e não abrange a sua utilização para outras bebidas; que deve entender-se por «vinho» o produto do código NC 2204 da nomenclatura combinada;\n\nConsiderando que as medidas estatuídas no presente regulamento estão em conformidade com o parecer do Comité de Gestão do Vinho,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f2e80116b61bb534": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. O presente regulamento estabelece as normas de execução relativas à protecção das menções tradicionais complementares dos vlqprd e vfqprd admitidas pelas legislações nacionais dos Estados-membros produtores, referidas no nº 2 do artigo 15º do Regulamento (CEE) nº 823/27.\n\nTodavia, o presente regulamento não impede a utilização de um termo na designação e apresentação de um vinho ou um mosto de uvas em que tal utilização seja permitida ao abrigo dos Regulamentos (CEE) nº 2392/89 (3), (CEE) nº 3201/90 (4), (CEE) nº 2333/92 (5), e (CE) nº 554/95 (6) do Conselho.\n\n2. Para efeitos do presente regulamento, entende-se por menção tradicional complementar um termo tradicionalmente utilizado para os vqprd nos Estados-membros produtores que se refere, nomeadamente, a um método de produção, de elaboração ou de envelhecimento ou à qualidade, cor ou tipo de um vinho e é reconhecido pela legislação dos Estados-membros produtores para efeitos de designação e apresentação dos vqprd originários do seu território."
+  },
+  "0a7ff987aaa73af4": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara poder beneficiar da protecção referida no nº 1 do artigo 1º, uma menção tradicional complementar atribuída a um vlqprd ou a um vfqprd deve cumprir as seguintes condições:\n\n- ser específica em si mesma e definida com precisão na legislação do Estado-membro,\n\n- ser suficientemente distintiva e/ou desfrutar de uma reputação estabelecida,\n\n- ser de uso tradicional e constante, ou seja, ter sido utilizada durante pelo menos cinco anos antes da utilização oficialmente admitida no Estado-membro,\n\n- estar ligada a um ou, se for caso disso, a certos vlqprd ou vfqprd ou categorias de vlqprd ou vfqprd."
+  },
+  "f421252ded065071": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. São enumeradas em anexo as menções tradicionais complementares admitidas nos Estados-membros produtores, referidas no nº 1 do artigo 1º, que são reservadas aos vlqprd e vfqprd para que foram reconhecidas e só podem ser utilizadas para os respectivos vinhos, referidos no nº 2 do artigo 1º do Regulamento (CEE) nº 823/87.\n\nTodavia em derrogação do primeiro parágrafo, certas menções tradicionais complementares enumeradas em anexo podem ser admitidas, se for caso disso, na língua do país terceiro de origem, para vinhos licorosos e frisantes designados com recurso a uma indicação geográfica protegida em países terceiros, desde que esses países:\n\n- cumpram condições equivalentes às enumeradas no artigo 2º,\n\n- tenham apresentado um pedido à Comissão e comunicado os textos legislativos relativos às menções em causa,\n\nÉ estabelecida em anexo a lista dos países terceiros e das menções tradicionais que podem ser utilizadas na designação de vinhos licorosos e frisantes na Comunidade.\n\n2. Os Estados-membros comunicarão à Comissão:\n\n- os nomes das menções tradicionais dos vlqprd e vfqprd admitidas na sua legislação,\n\n- se for caso disso, os nomes de menções tradicionais que deixarem de ser protegidas no seu país de origem."
+  },
+  "2124034d9331638f": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. As menções tradicionais complementares constantes do anexo são protegidas contra qualquer:\n\na) Utilização comercial directa ou indirecta para vinhos não previstos, na medida em que esses produtos sejam comparáveis aos registados sob tal denominação ou em que essa utilização permita usufruir da reputação da menção protegida;\n\nb) Usurpação, imitação ou evocação, mesmo que a menção protegida seja acompanhada de uma expressão tal como «género», «tipo», «método», «modo», «imitação» ou similar;\n\nc) Outra indicação abusiva, falsa ou falaciosa quanto à natureza ou às qualidades substanciais do vinho que figure no acondicionamento ou embalagem, na publicidade ou em documentos relacionados com o produto em causa;\n\nd) Outra prática susceptível de induzir o público em erro, designadamente fazendo crer que o vinho beneficia da menção tradicional protegida.\n\n2. Para efeitos de designação de um vinho, não podem ser utilizadas nos rótulos marcas que contenham nomes das menções tradicionais constantes do anexo sem que esse vinho tenha direito a tal designação.\n\nTodavia, o primeiro parágrafo não se aplica no que diz respeito às marcas registadas antes da entrada em vigor do presente regulamento e efectivamente utilizadas desde o seu registo."
+  },
+  "9983928d5c1b1ac1": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros tomarão as medidas necessárias para controlar e assegurar a protecção, referida no artigo 4º, das menções tradicionais complementares constantes em anexo."
+  },
+  "48f0cf7b6f89acfa": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs Estados-membros tomarão todas as medidas úteis para que as menções utilizadas ao nível nacional não possam ser confundidas com as enumeradas em anexo e reservadas nos termos do nº 1 do artigo 3º"
+  },
+  "351fe3e40e1033bd": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Outubro de 1998.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 24 de Abril de 1998.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO L 84 de 27. 3. 1987, p. 59.\n\n(2) JO L 184 de 24. 7. 1996, p. 1.\n\n(3) JO L 232 de 9. 8. 1989, p. 13.\n\n(4) JO L 309 de 8. 11. 1990, p. 1.\n\n(5) JO L 231 de 13. 8. 1992, p. 9.\n\n(6) JO L 56 de 14. 3. 1995, p. 3."
+  },
+  "1625812c2ab881d3": {
+   "fragment_id": "ANEXO — Lista de menções tradicionais complementares, referidas no nº 1 do artigo 3º",
+   "type": "divisao",
+   "heading": "ANEXO — Lista de menções tradicionais complementares, referidas no nº 1 do artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Lista de menções tradicionais complementares, referidas no nº 1 do artigo 3º\n\nMenções tradicionais complementares\n\n>POSIÇÃO NUMA TABELA>"
+  }
+ }
+}

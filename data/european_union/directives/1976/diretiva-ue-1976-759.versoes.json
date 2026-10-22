@@ -1,0 +1,271 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31976L0759:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0759-20141101",
+ "dre_path": null,
+ "source_lastmod": "2014-11-01",
+ "versions": [
+  {
+   "date": "1976-09-27",
+   "future": false,
+   "celex": "31976L0759",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "03eb38b2a0f444b9",
+    "bb6a63612f747e99",
+    "4c7af554b306f940",
+    "ec5e9310b69d169f",
+    "5523547e4309a55f",
+    "ac6abc36ed3b94e7",
+    "f6ad435f19e7688a",
+    "5cd4e0d99e8f4fdc",
+    "a1508f709dfb46c7",
+    "285556700888f6aa",
+    "b0bdb9716779546b",
+    "80500db2b193bdba",
+    "473f8352e251c574",
+    "0b22d74172ab6e5e",
+    "57c5b641e70c1e25",
+    "a40a8231333b8961",
+    "e988c424456d370b",
+    "0b22d74172ab6e5e",
+    "57c5b641e70c1e25",
+    "a40a8231333b8961",
+    "bc179332ce41953a",
+    "fd1e902859532aae",
+    "7ed3cb08fcdc2ef7",
+    "d83a262301413899",
+    "2360259b2d44708f",
+    "448182fad77ec9cd"
+   ]
+  },
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "celex": "01976L0759-20141101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Anexo II - Modelo de ficha de homologação CEE.",
+    "Suprime Anexo IV (1)() - Medições fotométricas.",
+    "Suprime Anexo V (1)() - Cores das luzes, coordenadas tricromáticas.",
+    "Suprime ANEXO I — CATEGORIAS DAS LUZES INDICADORAS DE MUDANÇA DE DIRECÇÃO ÂNGULOS MINIMOS EXIGIDOS PARA A DISTRIBUIÇÃO DA LUZ NO ESPAÇO (1)()",
+    "Suprime ANEXO 0 — DEFINIÇÃO, ESPECIFICAÇÕES GERAIS, INTENSIDADE DA LUZ EMITIDA, MODALIDADES DOS ENSAIOS, COR DA LUZ EMITIDA, CONFORMIDADE DA PRODUÇÃO",
+    "Suprime ANEXO II — MODELO DA FICHA DE HOMOLOGAÇÃO CEE",
+    "Suprime ANEXO III — CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO",
+    "Suprime ANEXO IV — MEDIÇÕES FOTOMÉTRICAS",
+    "Suprime ANEXO V — COR DA LUZ EMITIDA"
+   ],
+   "fragments": [
+    "d8dccf53c2de6df8"
+   ]
+  }
+ ],
+ "fragments": {
+  "03eb38b2a0f444b9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 76/759/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-Membros respeitantes às luzes indicadoras de mudança de direcção dos veículos a motor e seus reboques** *Jornal Oficial nº L 262 de 27/09/1976 p. 0071 - 0084 Edição especial finlandesa: Capítulo 13 Fascículo 5 p. 0100 Edição especial grega: Capítulo 13 Fascículo 4 p. 0042 Edição especial sueca: Capítulo 13 Fascículo 5 p. 0100 Edição especial espanhola: Capítulo 13 Fascículo 5 p. 0110 Edição especial portuguesa: Capítulo 13 Fascículo 5 p. 0110*\n\nDIRECTIVA DO CONSELHO de 27 de Julho de 1976 relativa à aproximação das legislações dos Estados-membros respeitantes às luzes indicadoras de mudança de direcção dos veículos a motor e seus reboques\n\n(76/759/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que as prescrições técnicas exigidas para os veículos a motor pelas legislações nacionais respeitam, nomeadamente, às luzes indicadoras de mudança de direcção;\n\nConsiderando que estas prescrições variam de um Estado-membro para outro; que daí resulta a necessidade de que sejam adoptadas as mesmas prescrições por todos os Estados-membros, quer em complemento, quer em substituição das suas regulamentações actuais, tendo em vista nomeadamente permitir a aplicação, para cada modelo de veículo, do processo de aprovação CEE que é objecto da Directiva 70/156/CEE, do Conselho de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à aprovação dos veículos a motor e seus reboques (3);\n\nConsiderando que, pela Directiva 76/756/CEE (4), o Conselho adoptou as prescrições comuns respeitantes à instalação dos dispositivos de iluminação e de sinalização luminosa dos veículos a motor e seus reboques;\n\nConsiderando que, por um processo de homologação harmonizado das luzes indicadoras de mudança de direcção, cada Estado-membro terá a possibilidade de verificar o cumprimento das prescrições comuns de construção e de ensaio e de informar os outros Estados-membros da verificação feita pelo envio de uma cópia da ficha de homologação estabelecida para cada tipo de luz indicadora de mudança de direcção; que a aposição de uma marca de homologação CEE em todos os dispositivos fabricados em conformidade com o tipo homologado torna desnecessário um controlo técnico destes dispositivos nos outros Estados-membros;\n\nConsiderando que convém ter em conta certas prescrições técnicas adoptadas pela Comissão Económica para a Europa da ONU no seu Regulamento no 6 (Prescrições uniformes relativas à homologação das luzes indicadoras de mudança de direcção dos veículos a motor (com excepção dos motociclos) e seus reboques) (5) anexado ao Acordo, de 20 de Março de 1958, relativo à adopção de condições uniformes de homologação e ao reconhecimento recíproco da homologação de equipamentos e peças de veículos a motor;\n\nConsiderando que a aproximação de legislações nacionais respeitantes aos veículos a motor implica um reconhecimento recíproco pelos Estados-membros dos controlos efectuados por cada um deles com base nas prescrições comuns,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "bb6a63612f747e99": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Cada Estado-membro procederá à homologação CEE de qualquer tipo de luz indicadora de mudança de direcção, que esteja em conformidade com as prescrições de construção e de ensaio constantes dos Anexos O, III, IV e V.\n\n2. O Estado-membro que tiver procedido à homologação CEE tomará as medidas necessárias para controlar, tanto quanto necessário, a conformidade da produção com o modelo homologado, se for caso disso em colaboração com as autoridades competentes dos outros Estados-membros. Este controlo limitar-se-à a amostragens."
+  },
+  "4c7af554b306f940": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros atribuirão ao fabricante ou ao seu mandatário uma marca de homologação CEE conforme ao modelo estabelecido no Anexo III para cada tipo de luz indicadora de mudança de direcção que homologuem por força do artigo 1o.\n\nOs Estados-membros tomarão todas as disposições necessárias para impedir a utilização de marcas que possam criar confusões entre as luzes indicadoras de mudança de direcção, cujo tipo tenha sido homologado por força do artigo 1o e outros dispositivos."
+  },
+  "ec5e9310b69d169f": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os Estados-membros não podem proibir a colocação no mercado de luzes indicadoras de mudança de direcção por motivos relacionados com a sua construção ou o seu funcionamento, se estas ostentarem a marca de homologação CEE.\n\n2. Contudo, um Estado-membro pode proibir a colocação no mercado das luzes indicadoras de mudança de direcção que ostentem a marca de homologação CEE mas que, de forma sistemática, não sejam conformes ao tipo homologado.\n\nEsse Estado informará imediatamente os outros Estados-membros e a Comissão das medidas tomadas, especificando os motivos da sua decisão."
+  },
+  "5523547e4309a55f": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nAs autoridades competentes de cada Estado-membro enviarão às dos outros Estados-membros, no prazo de um mês, uma cópia das fichas de homologação cujo modelo figura no Anexo II, estabelecidas para cada tipo de luz indicadora de mudança de direcção que homologuem ou recusem homologar."
+  },
+  "ac6abc36ed3b94e7": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Se o Estado-membro que procedeu à homologação CEE verificar que várias luzes indicadoras de mudança de direcção, que ostentam a mesma marca de homologação CEE, não são conformes ao tipo que homologou, tomará as medidas necessárias para que a conformidade da produção com o tipo homologado seja assegurada. As autoridades competentes desse Estado avisarão dos outros Estados-membros das medidas tomadas, que podem ir até à revogação da homologação CEE quando a não conformidade for sistemática. As referidas autoridades tomarão as mesmas disposições se forem informadas pelas autoridades competentes de um outro Estado-membro da existência de tal falta de conformidade.\n\n2. As autoridades competentes dos Estados-membros informar-se-ao mutuamente, no prazo de um mês, da revogação de uma homologação CEE concedida, bem como dos motivos que justificam essa medida."
+  },
+  "f6ad435f19e7688a": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nQualquer decisão de recusa ou revogação da homologação ou de proibição de colocação no mercado ou da utilização, tomada por força das disposições adoptadas em execução da presente directiva, será fundamentada de forma precisa. Será notificada ao interessado, com a indicação das vias de recurso previstas na legislação em vigor nos Estados-membros e dos prazos nos quais estes recursos podem ser interpostos."
+  },
+  "5cd4e0d99e8f4fdc": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros não podem recusar a recepção CEE nem a recepção de âmbito nacional de um veículo por motivos relacionados com as luzes indicadoras de mudança de direcção, se estas ostentarem a marca de homologação CEE e estiverem montadas em conformidade com as prescrições constantes da Directiva 76/756/CEE."
+  },
+  "a1508f709dfb46c7": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros não podem recusar ou proibir a venda, a matrícula, a entrada em circulação ou a utilização de um veículo por motivos relacionados com as luzes indicadoras de mudança de direcção, se estas ostentarem a marca de homologação CEE e estiverem montadas em conformidade com as prescrições constantes da Directiva 76/756/CEE."
+  },
+  "285556700888f6aa": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nPara efeitos do disposto na presente directiva entende-se por veículo qualquer veículo a motor destinado a transitar na estrada, com ou sem carroçaria, tendo pelo menos quatro rodas e uma velocidade máxima, por construção, superior a 25 km/h, assim como os seus reboques, com excepção dos veículos que se deslocam sobre carris, dos tractores e máquinas agrícolas, bem como das máquinas de obras públicas."
+  },
+  "b0bdb9716779546b": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nAs alterações necessárias para adaptar ao progresso técnico as prescrições dos anexos serão adoptadas em conformidade com o procedimento previsto no Artigo 13o da Directiva 70/156/CEE."
+  },
+  "80500db2b193bdba": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. Os Estados-membros adoptarão e publicarão, antes de 1 de Julho de 1977, as disposições necessárias para darem cumprimento à presente directiva e desse facto informarão imediatamente a Comissão. Aplicarão estas disposições o mais tardar a partir de 1 de Outubro de 1977.\n\n2. A partir da notificação da presente directiva, os Estados-membros devem assegurar que a Comissão seja informada, em tempo útil que lhe permita apresentar as suas observações, de qualquer projecto de disposições de natureza legislativa, regulamentar ou administrativa que tenham a intenção de adoptar no domínio regulado pela presente directiva."
+  },
+  "473f8352e251c574": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 27 de Julho de 1976.\n\nPelo Conselho\n\nO Presidente\n\nM. van der STOEL\n\n(1) JO no 28 de 17. 2. 1967, p. 458/67.(2) JO no 224 de 5. 12. 1966, p. 3802/66.(3) JO no L 42 de 23. 2. 1970, p. 1.(4) Vide p. 1 do JO L 262 de 27. 9. 1976.(5) Documento da Comissão Económica para a Europa E/ECE/324 Ad. 5 de 22. 5. 1967.\n\nLista dos Anexos\n\nAnexo 0 (1)() - Definição, especificações gerais, intensidade da luz emitida, modalidades dos ensaios, cor da luz emitida, conformidade da produção.\n\nAnexo I (1)() - Categorias das luzes indicadoras de mudança de direcção: ângulos mínimos exigidos para a distribuição da luz no espaço."
+  },
+  "0b22d74172ab6e5e": {
+   "fragment_id": "Anexo II - Modelo de ficha de homologação CEE.",
+   "type": "divisao",
+   "heading": "Anexo II - Modelo de ficha de homologação CEE.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II - Modelo de ficha de homologação CEE.\n\nAnexo III - Condições de homologação CEE e marcação. Apêndice: exemplo de marca de homologação CEE."
+  },
+  "57c5b641e70c1e25": {
+   "fragment_id": "Anexo IV (1)() - Medições fotométricas.",
+   "type": "divisao",
+   "heading": "Anexo IV (1)() - Medições fotométricas.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV (1)() - Medições fotométricas."
+  },
+  "a40a8231333b8961": {
+   "fragment_id": "Anexo V (1)() - Cores das luzes, coordenadas tricromáticas.",
+   "type": "divisao",
+   "heading": "Anexo V (1)() - Cores das luzes, coordenadas tricromáticas.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V (1)() - Cores das luzes, coordenadas tricromáticas.\n\n(1)() As exigências técnicas deste anexo são análogas às do Regulamento no 6 da Comissão Económica para a Europa; em particular, as subdivisões em pontos são as mesmas. É por isso que se um ponto do Regulamento no 6 nãotiver correspondência na presente directiva, o seu número é indicado, para referência, entre parênteses."
+  },
+  "e988c424456d370b": {
+   "fragment_id": "ANEXO I — CATEGORIAS DAS LUZES INDICADORAS DE MUDANÇA DE DIRECÇÃO ÂNGULOS MINIMOS EXIGIDOS PARA A DISTRIBUIÇÃO DA LUZ NO ESPAÇO (1)()",
+   "type": "divisao",
+   "heading": "ANEXO I — CATEGORIAS DAS LUZES INDICADORAS DE MUDANÇA DE DIRECÇÃO ÂNGULOS MINIMOS EXIGIDOS PARA A DISTRIBUIÇÃO DA LUZ NO ESPAÇO (1)()",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — CATEGORIAS DAS LUZES INDICADORAS DE MUDANÇA DE DIRECÇÃO ÂNGULOS MINIMOS EXIGIDOS PARA A DISTRIBUIÇÃO DA LUZ NO ESPAÇO (1)()\n\nEm todos os casos, os ângulos mínimos verticais de distribuição da luz no es espaço são de 15 ° para cima e 15 ° para baixo da horizontal.\n\nÂngulos mínimos horizontais de distribuição da luz no espaço\n\n(1)() Os ângulos que constam nos esquemas correspondem a dispositivos destinados a serem instalados no lado direito do veículo.\n\nAs setas estão dirigidas para a frente do veículo.\n\nLista dos Anexos\n\nAnexo 0 (1)() - Definição, especificações gerais, intensidade da luz emitida, modalidades dos ensaios, cor da luz emitida, conformidade da produção.\n\nAnexo I (1)() - Categorias das luzes indicadoras de mudança de direcção: ângulos mínimos exigidos para a distribuição da luz no espaço."
+  },
+  "bc179332ce41953a": {
+   "fragment_id": "ANEXO 0 — DEFINIÇÃO, ESPECIFICAÇÕES GERAIS, INTENSIDADE DA LUZ EMITIDA, MODALIDADES DOS ENSAIOS, COR DA LUZ EMITIDA, CONFORMIDADE DA PRODUÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO 0 — DEFINIÇÃO, ESPECIFICAÇÕES GERAIS, INTENSIDADE DA LUZ EMITIDA, MODALIDADES DOS ENSAIOS, COR DA LUZ EMITIDA, CONFORMIDADE DA PRODUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 0 — DEFINIÇÃO, ESPECIFICAÇÕES GERAIS, INTENSIDADE DA LUZ EMITIDA, MODALIDADES DOS ENSAIOS, COR DA LUZ EMITIDA, CONFORMIDADE DA PRODUÇÃO\n\n1. DEFINIÇÃO\n\n1.1. Luz indicadora de mudança de direcção\n\nPor luz indicadora de mudança de direcção, entende-se a luz que serve para indicar aos outros utentes da estrada que o condutor tem a intenção de mudar de direcção para a direita ou para a esquerda.\n\n(2.)\n\n(3.)\n\n(4.)\n\n5. ESPECIFICAÇÕES GERAIS\n\n5.1. Cada uma das amostras deve corresponder às especificações indicadas nos pontos 6 e 8.\n\n5.2. Os dispositivos devem ser concebidos e construídos de tal modo que, em condições normais de utilização e apesar das vibrações às quais podem estar sujeitos, o seu bom funcionamento seja assegurado e conservem as características impostas pela presente directiva.\n\n6. INTENSIDADE DA LUZ EMITIDA\n\n6.1. No eixo de referência, a intensidade da luz emitida por cada uma das duas amostras não deve ser inferior nem superior ao máximo a seguir definidos:\n\n\"\" ID=\"1\">1> ID=\"2\">175> ID=\"3\">700 (1)\"> ID=\"1\">2> ID=\"2\">50> ID=\"3\">200\"> ID=\"1\">5> ID=\"2\">0,3> ID=\"3\">200\"\">\n\n6.2. Fora do eixo de referência, dentro dos campos definidos nos esquemas do Anexo I, a intensidade da luz emitida por cada uma das duas amostras\n\n6.2.1. Deve, em cada direcção correspondente aos pontos do quadro de distribuição da luz objecto do Anexo IV, ser pelo menos igual ao produto do mínimo que consta do ponto 6.1. pela percentagem que indica esse quadro para a direcção em questão.\n\n6.2.2. Não deve ultrapassar em nenhuma direcção do espaço de onde a luz pode ser observada o máximo que consta do ponto 6.1.\n\n6.2.3. Além disso,\n\n6.2.3.1. Para os dispositivos das categorias 1, 2 e 5, a intensidade da luz emitida na extensão total dos campos definidos nos esquemas do Anexo I deve ser pelo menos igual a 0,3 cd.\n\n6.2.3.2. Para os dispositivos da categoria 1, a intensidade da luz emitida nas direcções correspondentes aos pontos de medição do quadro de distribuição da luz além de 0 à 5o para a esquerda e 0 a 5o para a direita não deve ultrapassar 400 cd.\n\n6.2.3.3. As prescrições do ponto 2.2. do Anexo IV sobre as variações locais de intensidade devem ser cumpridas.\n\n6.3. As intensidades serão medidas com lâmpada(s) permanentemente acesas e com luz colorida.\n\n6.4. O Anexo IV ao qual se refere o ponto 6.2.1 dá pormenores sobre os métodos de medição a aplicar.\n\n7. MODALIDADES DOS ENSAIOS\n\n7.1. Todas as medições serão efectuadas com lâmpadas padrão incolores pertencentes aos tipos de lâmpadas previstos para o dispositivos e reguladas para emitir o fluxo luminoso normal prescrito para esses tipos de lâmpadas.\n\n(7.2.)\n\n8. COR DA LUZ EMITIDA\n\nO dispositivo deve emitir uma luz de cor âmbar. A cor da luz emitida, medida utilizando uma fonte luminosa que tenha uma temperatura de cor de 2854 K correspondente ao iluminante A da Comissão Internacional de Iluminação (CIE), deve encontrar-se dentro dos limites das coordenadas prescritas no Anexo V.\n\n9. CONFORMIDADE DA PRODUÇÃO\n\nQualquer dispositivo que ostente uma marca de homologação CEE deve estar em conformidade com otipo homologado e corresponder às condições fotométricas indicadas nos pontos 6. e 8. Contudo, para um dispositivo qualquer retirado de um fabrico em série, as exigências respeitantes ao mínimo de intensidade da luz emitida (medida com uma lâmpada-padrão como a referida no ponto 7) podem limitar-se, em cada direcção em causa, a 80 % dos valores mínimos prescritos nos pontos 6.1 e 6.2.\n\n(10.)\n\n(11.)\n\n(12.)\n\n(1) Ver, contudo, o ponto 6.2.3.2 do presente anexo e o Anexo IV."
+  },
+  "fd1e902859532aae": {
+   "fragment_id": "ANEXO I — CATEGORIAS DAS LUZES INDICADORAS DE MUDANÇA DE DIRECÇÃO ÂNGULOS MINIMOS EXIGIDOS PARA A DISTRIBUIÇÃO DA LUZ NO ESPAÇO (1)()",
+   "type": "divisao",
+   "heading": "ANEXO I — CATEGORIAS DAS LUZES INDICADORAS DE MUDANÇA DE DIRECÇÃO ÂNGULOS MINIMOS EXIGIDOS PARA A DISTRIBUIÇÃO DA LUZ NO ESPAÇO (1)()",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — CATEGORIAS DAS LUZES INDICADORAS DE MUDANÇA DE DIRECÇÃO ÂNGULOS MINIMOS EXIGIDOS PARA A DISTRIBUIÇÃO DA LUZ NO ESPAÇO (1)()\n\nEm todos os casos, os ângulos mínimos verticais de distribuição da luz no es espaço são de 15 ° para cima e 15 ° para baixo da horizontal.\n\nÂngulos mínimos horizontais de distribuição da luz no espaço\n\n(1)() Os ângulos que constam nos esquemas correspondem a dispositivos destinados a serem instalados no lado direito do veículo.\n\nAs setas estão dirigidas para a frente do veículo."
+  },
+  "7ed3cb08fcdc2ef7": {
+   "fragment_id": "ANEXO II — MODELO DA FICHA DE HOMOLOGAÇÃO CEE",
+   "type": "divisao",
+   "heading": "ANEXO II — MODELO DA FICHA DE HOMOLOGAÇÃO CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — MODELO DA FICHA DE HOMOLOGAÇÃO CEE\n\n(Formato máximo: A4 (210 × 297 mm))\n\nDenominação da autoridade administrativa\n\nComunicação relativa à homologação CEE, recusa ou revogação da homologação CEE de um tipo de luz de mudança de direcção\n\nNúmero de homologação...\n\n1. Dispositivo (1)()...\n\n- da categoria 1\n\n- da categoria 2\n\n- da categoria 5\n\n2. tipo e número de lâmpadas:...\n\n3. Marca de fabrico ou comercial:...\n\n4. Nome e morada do fabricante:...\n\n5. Se forcaso disso, nome e morada do seu mandatário:...\n\n6. Apresentado à homologação CEE em...\n\n7. Serviço técnico encarregado de ensaios de homologação CEE:...\n\n8. Data do relatório emitido por esse serviço:...\n\n9. Número do relatório emitido por esse serviço:...\n\n10. Data da homologação/recusa/revogação da homologação CEE (1)():...\n\n11. Homologação CEE única concedida com base no ponto 3.3. do Anexo III a um dispositivo de iluminação e de sinalização luminosa possuindo várias luzes e nomeadamente:...\n\n12. Data da recusa/revogação da homologação CEE única (1)():...\n\n13. Local:...\n\n14. Data:...\n\n15. Assinatura:...\n\n16. O desenho no em anexo indica as características e as condições geométricas de montagem do dispositivo no veículo, bem como o eixo de referência e o centro de referência do dispositivo....\n\n17. Observações eventuais...\n\n(1)() Riscar o que não interessa."
+  },
+  "d83a262301413899": {
+   "fragment_id": "ANEXO III — CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO III — CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO\n\n1. PEDIDO DE HOMOLOGAÇÃO CEE\n\n1.1. O pedido de homologação CEE será apresentado pelo detentor da marca de fabrico ou comercial, ou pelo seu mandatario.\n\n1.2. Para cada tipo de luz indicadora de mudança de direcção, o pedido será acompanhado:\n\n1.2.1. Pela indicação da ou das categorias 1, 2 ou 5 à qual ou às quais pertença o dispositivo.\n\n1.2.2. Por uma descrição técnica resumida especificando nomeadamente a categoria e o (ou os) tipo(s) de lâmpada(s) previsto(s).\n\n1.2.3. Por desenhos, em triplicado, suficientemente detalhados para permitir a identificação do tipo da (ou das) categoria(s) e indicando as condições geométricas da montagem no veículo, bem como o eixo de observação que deve ser considerado nos ensaios como eixo de referência (ângulo horizontal A = O °, ângulo vertical V = O °) e o ponto que deve ser considerado como centro de referência nesses ensaios.\n\n1.2.4. Por duas amostras; se os dispositivos não puderem ser montados indiferentemente na parte direita ou na parte esquerda do veículo, as duas amostras apresentadas podem ser idênticas e servir apenas ou para a parte direita ou para a parte esquerda do veículo.\n\n2. INSCRIÇÕES\n\n2.1. Os dispositivos apresentados à homologação CEE devem:\n\n2.1.1. Ostentar a marca de fabrico ou de comércio do requerente; esta marca deve ser nitidamente legível e indelével.\n\n2.1.2. Ostentar a indicação, nitidamente legível e indelével, do (ou dos) tipo(s) de lâmpada(s) previsto(s).\n\n2.1.3. Dispor de um espaço de largura suficiente para a marca de homologação CEE e os símbolos adicionais previstos no ponto 4; este espaço está indicado nos desenhos referidos no ponto 1.2.3.\n\n3. HOMOLOGAÇÃO CEE\n\n3.1. Quando todas as amostras apresentadas em conformidade com o ponto 1 satisfizerem as disposições dos Anexos O, I, III, IV e V, a homologação CEE será concedida e será atribuido um número de homologação.\n\n3.2. Esse número não será atribuído a nenhum outro tipo de dispositivo de luz indicadora de mudança de direcção.\n\n3.3. Quando a homologação CEE for pedida para um tipo de dispositivo de iluminação e de sinalização luminosa que inclua uma luz indicadora de mudança de direcção e outras luzes, pode ser concedida numa marca de homologação CEE única desde que a luz indicadora de mudança direcção corresponda as prescrições da presente directiva e que cada uma das outras luzes que façam parte do tipo de dispositivo de iluminação e de sinalização luminosa para o qual a homologação CEE for pedida corresponda à directiva especial que lhe é aplicável.\n\n4. MARCAÇÃO\n\n4.1. Todas as luzes indicadoras de mudança de direcção em conformidade com um tip homologado por aplicação da presente directiva deve ostentar uma marca de homologação CEE.\n\n4.2. Esta marca será constituída por um rectângulo dentro do qual estará colocada a letra «e» minúscula, seguida pelo número ou grupo de letras distintivo do Estado-membro que tiver emitido a homologação:\n\n1 para a Alemanha\n\n2 para a França\n\n3 para a Itália\n\n4 para os Países Baixos\n\n6 para a Bélgica\n\n11 para o Reino Unido\n\n13 para o Luxemburgo\n\nDK para a Dinamarca\n\nIRL para a Irlanda,\n\ne um número de homologação CEE que corresponda ao número da ficha de homologação CEE emitida para o tipo de luz indicadora de mudança de direcção.\n\n4.3. A marca de homologação CEE será completada pelo ou pelos símbolos adicionais seguintes:\n\n4.3.1. Um ou mais dos números 1, 2 ou 5, conforme o dispositivo pertença a uma ou mais das categorias 1, 2 ou 5 previstas no ponto 1.2.1. Este ou estes números serão colocados acima do rectângulo.\n\n4.3.2. Uma seta indicando o sentido de montagem nos dispositivos que não possam ser instalados indiferentemente na parte direita ou na parte esquerda do veículo. A seta será orientada para o exterior do veículo para os dispositivos das categorias 1 e 2 e para a frente do veículo para os dispositivos da categoria 5.\n\n4.4. O número de homologação CEE deve ser colocado nas proximidades do rectângulo circunscrito à letra «e», numa posição qualquer em relação a este.\n\n4.5. A marca de homologação CEE e o ou os símbolos adicionais devem ser ostentadas no vidro ou num dos vidros de tal modo que seja indelével e bem legível mesmo quando as luzes estiverem montadas no veículo.\n\n4.6. Um exemplo da marca de homologação CEE é apresentado em apêndice.\n\n4.7. No caso de atribuição de um número de homologação CEE único previsto no ponto 3.3. para um tipo de dispositivo de iluminação e de sinalização luminosa que inclua uma luzindicadora de mudança de direcção e outras luzes, pode se ostentada uma única marca de homologação CEE, consistindo de:\n\n- um rectângulo dentro do qual estará colocada a letra «e» seguida do número ou grupo de letras distintivo do Estado-membro que tiver emitido a homologação,\n\n- um número de homologação CEE,\n\n- os símbolos adicionais previstos nas diversas directivas nos termos das quais a homologação CEE tiver sido emitida.\n\n4.8. As dimensões dos vários elementos desta marca não devem ser inferiores às maiores dimensões mínimas prescritas para as marcações individuais pelas directivas nos termos das quais a homologação CEE tiver sido emitida.\n\nApêndice\n\nEXEMPLO DE MARCA DE HOMOLOGAÇÃO CEE"
+  },
+  "2360259b2d44708f": {
+   "fragment_id": "ANEXO IV — MEDIÇÕES FOTOMÉTRICAS",
+   "type": "divisao",
+   "heading": "ANEXO IV — MEDIÇÕES FOTOMÉTRICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — MEDIÇÕES FOTOMÉTRICAS\n\n1. MÉTODOS DE MEDIÇÃO\n\n1.1. Aquando das medições fotométricas, uma máscara apropriada deverá impedir as reflexões parasitas.\n\n1.2. No caso de protesto sobre os resultados das medidas, estas serão executadas do seguinte modo:\n\n1.2.1. A distância de medição deve ser tal que seja aplicável a lei do inverso do quadrado da distância.\n\n1.2.2. A aparelhagem de medição deve ser tal que a abertura angular do receptor, vista do centro de referência da luz, esteja compreendida entre 10' et 1o.\n\n1.2.3. A exigência de intensidade para uma direcção de observação determinada será considerada satisfeita quando for obtida numa direcção que não se afaste mais de 15' da direcção de observação.\n\n2. QUADRO DE DISTRIBUIÇÃO NORMALIZADA DA LUZ NO ESPAÇO\n\n2.1. A direcção H = O ° e V = O ° corresponde ao eixo de referência (no veículo é horizontal, paralelo ao plano longitudinal médio do veículo e orientado no sentido da visibilidade imposto). Passa pelo centro de referência. Os valores indicados no quadro dão para as várias direcções de medição as intensidades mínimas em % do mínimo exigido para cada luz no eixo (na direcção H = O ° e V = O °).\n\n2.2. Quando, à vista, uma luz parecer apresentar variações locais de intensidade importantes, verificar-se-á que nenhuma intensidade medida entre duas das direcções de medição referidas no ponto 2.1 seja:\n\n2.2.1. Para uma especificação mínima, inferior a 50 % da intensidade mínima mais baixa entre as duas prescritas para essas direcções de medição.\n\n2.2.2. Para uma especificação máxima, superior à intensidade máxima mais baixa entre as duas prescritas para essas direcções de medição, aumentada de uma fracção da diferença entre as intensidades prescritas para essas direcções de medição, sendo esta fracção uma função linear da diferença."
+  },
+  "448182fad77ec9cd": {
+   "fragment_id": "ANEXO V — COR DA LUZ EMITIDA",
+   "type": "divisao",
+   "heading": "ANEXO V — COR DA LUZ EMITIDA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — COR DA LUZ EMITIDA\n\nCOORDENADAS TRICROMÁTICAS\n\nÂMBAR:\n\nLimite para o amarelo: y & le; 0,429\n\nLimite para o vermelho: y & ge; 0,398\n\nLimite para o branco: z & le; 0,007\n\nPara a verificação das características colorimétricas, empregar-se-á uma fonte luminosa à temperatura de cor de 2 854 K correspondente ao iluminante A da Comissão Internacional de Iluminação (CIE)."
+  },
+  "d8dccf53c2de6df8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1976L0759 — PT — 01.11.2014 — 010.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31976L0759) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31976L0759) [de 27 de Julho de 1976](http://publications.europa.eu/resource/celex/31976L0759) [relativa à aproximação das legislações dos Estados-membros respeitantes às luzes indicadoras de mudança de direcção dos veículos a motor e seus reboques](http://publications.europa.eu/resource/celex/31976L0759) [(76/759/CEE)](http://publications.europa.eu/resource/celex/31976L0759) (JO L 262, 27.9.1976, p.71)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 661/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0661) — L 200 — 1 — 31.7.2009"
+  }
+ }
+}

@@ -1,0 +1,490 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989R1553:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989R1553-20210101",
+ "dre_path": null,
+ "source_lastmod": "2021-01-01",
+ "versions": [
+  {
+   "date": "1989-06-07",
+   "future": false,
+   "celex": "31989R1553",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "dc9cf6ea960ca7e7",
+    "cd862d01e9a5384c",
+    "6ffa29946a7e54fc",
+    "79084d8d88461b34",
+    "73db3a3cfd2b182f",
+    "667fd418e292d3ab",
+    "c57a85d012fd7122",
+    "e0891f54df293c76",
+    "28c399ef2531f76c",
+    "7c40c2e5f46f7b6b",
+    "31459852012f9fe8",
+    "6e04a216b90b7442",
+    "8a7969f927c39723",
+    "6b6e842722158c50",
+    "508f121750fdb52b",
+    "4fc1d6cf8b9fd3f0",
+    "49dca407b35d6838",
+    "9c51e9d1e5eda2f6",
+    "8372f088479afe10",
+    "0c2f6165c2ffbb98",
+    "7a667dbab1e7f713"
+   ]
+  },
+  {
+   "date": "2003-06-05",
+   "future": false,
+   "celex": "01989R1553-20030605",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "e1f15b288f10358d",
+    "cd862d01e9a5384c",
+    "6ffa29946a7e54fc",
+    "79084d8d88461b34",
+    "57bc2a699bf61180",
+    "667fd418e292d3ab",
+    "c57a85d012fd7122",
+    "b2c37efe2dbb898d",
+    "28c399ef2531f76c",
+    "74a7a851cd8f742a",
+    "31459852012f9fe8",
+    "6e04a216b90b7442",
+    "8a7969f927c39723",
+    "6b6e842722158c50",
+    "508f121750fdb52b",
+    "4fc1d6cf8b9fd3f0",
+    "72a2063be02e7a1e",
+    "9c51e9d1e5eda2f6",
+    "949f03eae50a8cb8",
+    "0c2f6165c2ffbb98",
+    "8628057296bd24d6"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "celex": "01989R1553-20210101",
+   "acts": [
+    {
+     "id": "eu:celex:31999R1026:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31999R1026"
+    },
+    {
+     "id": "eu:celex:32003R0807:por",
+     "title": "M2",
+     "published": null,
+     "celex": "32003R0807"
+    },
+    {
+     "id": "eu:celex:32021R0769:por",
+     "title": "REGULAMENTO (UE, Euratom) 2021/769 DO CONSELHO de 30 de abril de 2021",
+     "published": null,
+     "celex": "32021R0769"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Adita Artigo 13.º-A",
+    "Adita Notas",
+    "Suprime TÍTULO I — Disposições gerais",
+    "Suprime TÍTULO II — Âmbito de aplicação",
+    "Suprime TÍTULO III — Método de cálculo",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime TÍTULO IV — Disposições relativas à contabilização e à colocação à disposição",
+    "Suprime TÍTULO V — Disposições relativas ao controlo",
+    "Suprime TÍTULO VI — Disposições finais"
+   ],
+   "fragments": [
+    "863314564d6e9859",
+    "465aac5ac77fd168",
+    "9f4a1015c33c4527",
+    "57ea9ec99b8537e1",
+    "8b4a1253bfb874b5",
+    "0d95a89b0e0cb3d3",
+    "9b05b6727cee5f7f",
+    "af6e17cccd0b87aa",
+    "15f73f43dbf32bfa",
+    "a8b31f894f56c080",
+    "9953785a0d7ea401",
+    "80b4528dc37d447c",
+    "c5979fd0b5c58e65",
+    "45866aa0961baa7f",
+    "59af5f09df1dbbee"
+   ]
+  }
+ ],
+ "fragments": {
+  "dc9cf6ea960ca7e7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE, Euratom) nº 1553/89 do Conselho, de 29 de Maio de 1989, relativo ao regime uniforme e definitivo de cobrança dos recursos próprios provenientes do Imposto sobre o Valor Acrescentado** *Jornal Oficial nº L 155 de 07/06/1989 p. 0009 - 0013 Edição especial finlandesa: Capítulo 1 Fascículo 2 p. 0107 Edição especial sueca: Capítulo 1 Fascículo 2 p. 0107 edição especial em língua checa: Capítulo 01 Fascículo 01 p. 197 - 201 edição especial em língua estónia: Capítulo 01 Fascículo 01 p. 197 - 201 edição especial em língua húngara Capítulo 01 Fascículo 01 p. 197 - 201 edição especial em língua lituana: Capítulo 01 Fascículo 01 p. 197 - 201 edição especial em língua letã: Capítulo 01 Fascículo 01 p. 197 - 201 edição especial em língua maltesa: Capítulo 01 Fascículo 01 p. 197 - 201 edição especial em língua polaca: Capítulo 01 Fascículo 01 p. 197 - 201 edição especial em língua eslovaca: Capítulo 01 Fascículo 01 p. 197 - 201 edição especial em língua eslovena: Capítulo 01 Fascículo 01 p. 197 - 201 edição especial em língua búlgara: Capítulo 01 Fascículo 01 p. 80 - 84 edição especial em língua romena: Capítulo 01 Fascículo 01 p. 80 - 84*\n\nREGULAMENTO (CEE, EURATOM) N.o 1553/89 DO CONSELHO\n\nde 29 de Maio de 1989\n\nrelativo ao regime uniforme e definitivo de cobrança dos recursos próprios provenientes do Imposto sobre o Valor Acrescentado\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 209.o,\n\nTendo em conta o Tratado que institui a Comunidade Europeia da Energia Atómica e, nomeadamente, o seu artigo 183.o,\n\nTendo em conta a Decisão 88/376/CEE, Euratom do Conselho, de 24 de Junho de 1988, relativa ao sistema de recursos próprios das Comunidades [1], e, nomeadamente, o n.o 2 do seu artigo 8.o,\n\nTendo em conta a proposta da Comissão [2],\n\nTendo em conta o parecer do Parlamento Europeu [3],\n\nTendo em conta o parecer do Tribunal de Contas [4],\n\nConsiderando que, nos termos do seu artigo 14.o, o Regulamento (CEE, Euratom, CECA) n.o 2892/77 do Conselho, de 19 de Dezembro de 1977, que dá aplicação, no que diz respeito aos recursos próprios provenientes do Imposto sobre o Valor Acrescentado, à decisão de 21 de Abril de 1970, relativa à substituição das contribuições financeiras dos Estados-membros por recursos próprios das Comunidades [5], com a última redacção que lhe foi dada pelo Regulamento (CECA, CEE, Euratom) n.o 3735/85 [6], é aplicável durante um período transitório que termina em 31 de Dezembro de 1988;\n\nConsiderando que as disposições relativas ao regime uniforme e definitivo de cobrança dos recursos provenientes do Imposto sobre o Valor Acrescentado, adiante denominados \"recursos IVA\", bem como as regras de entrada em vigor desse regime, devem ser aplicadas a partir de 1 de Janeiro de 1989;\n\nConsiderando que há que escolher o método das receitas enquanto método único definitivo de determinação da base dos recursos IVA, dado que esse método é fiável e é já aplicado pela maioria dos Estados-membros;\n\nConsiderando que as disposições do Regulamento (CEE, Euratom, CECA) n.o 2892/77 podem ser mantidas, com excepção das que já não são necessárias ou que é conveniente alterar em função da experiência adquirida;\n\nConsiderando que a experiência adquirida na aplicação do processo de rectificação dos apuramentos revelou a necessidade de clarificar o seu alcance, esclarecendo que ele é aplicável a toda e qualquer rectificação;\n\nConsiderando que os Estados-membros devem informar a Comissão sobre os processos de registo dos sujeitos passivos, de determinação e de cobrança do IVA aplicados nesses Estados, bem como sobre as modalidades e resultados dos respectivos sistemas de controlo no domínio desse imposto; que é conveniente que a Comissão analise, em colaboração com cada Estado-membro interessado, se é possível prever eventuais aperfeiçoamentos dos processos com vista a aumentar a sua eficácia; que é conveniente que a Comissão elabore de três em três anos um relatório sobre os processos aplicados nos Estados-membros bem como sobre os eventuais aperfeiçoamentos previstos;\n\nConsiderando as competências do Tribunal de Contas resultantes do artigo 206.oA do Tratado CEE e do artigo 180.oA do Tratado CEEA,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "cd862d01e9a5384c": {
+   "fragment_id": "TÍTULO I — Disposições gerais",
+   "type": "divisao",
+   "heading": "TÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Disposições gerais"
+  },
+  "6ffa29946a7e54fc": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs recursos IVA resultam da aplicação da taxa uniforme, fixada nos termos da Decisão 88/376/CEE, Euratom, à base determinada nos termos do presente regulamento."
+  },
+  "79084d8d88461b34": {
+   "fragment_id": "TÍTULO II — Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "TÍTULO II — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Âmbito de aplicação"
+  },
+  "73db3a3cfd2b182f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A base dos recursos IVA será determinada a partir das operações tributáveis referidas no artigo 2.o da Directiva 77/388/CEE do Conselho, de 17 de Maio de 1977, relativa à harmonização das legislações dos Estados-membros respeitantes aos impostos sobre o volume de negócios — sistemas comuns do Imposto sobre o Valor Acrescentado: matéria colectável uniforme [7], com a última redacção que lhe foi dada pela Decisão 84/386/CEE [8], com excepção das operações isentas nos termos dos artigos 13.o a 16.oda referida directiva.\n\n2. Para efeitos da aplicação do disposto no número anterior, devem ser tidas em conta na determinação dos recursos IVA:\n\n- as operações que, nos termos do n.o 2 do artigo 28.o da Directiva 77/388/CEE, sejam objecto de isenção com reembolso dos impostos pagos no estádio anterior,\n\n- as operações que os Estados-membros continuem a tributar, por força do n.o 3, alínea a), do artigo 28.o da Directiva 77/388/CEE,\n\n- as operações que os Estados-membros continuem a isentar, por força do n.o 3, alínea b), do artigo 28.o da Directiva 77/388/CEE,\n\n- as operações que sejam tributadas por força do direito de opção concedido aos sujeitos passivos pelos Estados-membros nos termos do n.o 3, alínea c), do artigo 28.o da Directiva 77/388/CEE.\n\n3. Em derrogação do disposto no n.o 1, os Estados-membros podem não tomar em consideração, para a determinação dos recursos IVA, as operações efectuadas pelos sujeitos passivos cujo volume de negócios anual, determinado segundo as regras previstas no n.o 4 do artigo 24.o da Directiva 77/388/CEE, não exceda o montante de 10000 ecus, convertido em moeda nacional à taxa média do exercício considerado, podendo os Estados-membros arredondar até 10 %, para mais ou para menos, os montantes resultantes da conversão."
+  },
+  "667fd418e292d3ab": {
+   "fragment_id": "TÍTULO III — Método de cálculo",
+   "type": "divisao",
+   "heading": "TÍTULO III — Método de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Método de cálculo"
+  },
+  "c57a85d012fd7122": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara um ano civil determinado, e sem prejuízo do disposto nos artigos 5.o e 6.o, a base dos recursos IVA é calculada dividindo o total das receitas líquidas do IVA cobradas pelo Estado-membro nesse ano pela taxa à qual o imposto tenha sido cobrado durante o mesmo ano.\n\nSe num Estado-membro forem aplicadas várias taxas de IVA, a base dos recursos IVA é calculada dividindo o total das receitas líquidas cobradas pela taxa média ponderada do IVA. Nesse caso, o Estado-membro determinará a taxa média ponderada, calculada até à quarta casa decimal, aplicando o método comum de cálculo definido no artigo 4.o Essa taxa média ponderada é expressa em percentagem."
+  },
+  "e0891f54df293c76": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Para o cálculo da ponderação das diversas taxas referidas no artigo 3.o, o Estado-membro repartirá pela taxa do IVA aplicada todas as operações que sejam tributáveis segundo a sua legislação nacional e que, em virtude do artigo 17.o da Directiva 77/388/CEE, sejam oneradas de IVA não dedutível pelo destinatário, bem como o autoconsumo dos agricultores sujeitos ao regime forfetário e as respectivas vendas directas aos consumidores finais.\n\nAs taxas de IVA a tomar em consideração são as que, nos termos do n.o 7, têm incidências nas receitas do IVA cobradas no ano considerado.\n\nAs operações a que se aplique, nos termos do n.o 2 do artigo 28.o da Directiva 77/388/CEE, uma isenção com reembolso dos impostos pagos no estádio anterior são consideradas operações tributáveis a uma taxa de 0 %.\n\n2. A repartição por taxas do IVA será efectuada em relação às categorias adiante enumeradas, na medida em que sejam oneradas de IVA não dedutível:\n\n- consumo final das famílias, incluindo o autoconsumo dos agricultores sujeitos ao regime forfetário e as suas vendas directas ao consumidor final,\n\n- consumo intermédio das administrações privadas e das administrações públicas,\n\n- consumo intermédio dos outros sectores,\n\n- formação bruta de capital fixo das administrações privadas e das administrações públicas,\n\n- formação bruta de capital fixo dos outros sectores,\n\n- terrenos contruídos e para construção definidos no n.o 3, alínea b), do artigo 4.o da Directiva 77/388/CEE,\n\n- operações sobre ouro, com exclusão do destinado a fins industriais,\n\nefectuadas no território referido no artigo 3.o da Directiva 77/388/CEE para o Estado-membro em causa.\n\n3. Em relação à repartição do consumo final, o autoconsumo dos agricultores sujeitos ao regime forfetário e as suas vendas directas ao consumidor final serão sujeitos a uma taxa que corresponde à percentagem do IVA cobrado a montante dessas operações.\n\n4. A repartição das operações por categoria estatística é determinada por intermédio de dados provenientes das contas nacionais elaboradas de acordo com o Sistema Europeu de Contas Económicas Integradas (SEC). As contas nacionais em causa são as relativas ao penúltimo ano anterior ao exercício orçamental em relação ao qual se deve calcular a base dos recursos IVA.\n\nOs Estados-membros podem ser autorizados, de acordo com o processo previsto no artigo 13.o, a utilizar dados relativos a outro ano, que não deve ser anterior ao quinto ano anterior ao exercício orçamental em causa.\n\n5. Para efectuar a selecção de determinadas operações oneradas de IVA não dedutível e a repartição por taxas de IVA, pode recorrer-se a dados provenientes de fontes exteriores ao SEC, mas susceptíveis de a ele serem adaptadas, ou seja, em primeiro lugar, das contas nacionais internas, se incluírem a discriminação necessária ou, na sua falta, de qualquer outra fonte apropriada.\n\n6. Para determinar a ponderação relativa a cada taxa, o Estado-membro calculará a razão entre, por um lado, o valor das operações relativas a essa taxa e, por outro, o valor total do conjunto das operações.\n\n7. Se a taxa de IVA aplicável a todas ou a determinadas operações ou o regime fiscal de certas operações for objecto de uma alteração que tenha incidência nas receitas do IVA cobradas, o Estado-membro calculará uma nova taxa média ponderada. Esta nova taxa média ponderada será aplicada às receitas provenientes da aplicação da taxa ou do regime alterados.\n\nEm derrogação do disposto no parágrafo anterior, os Estados-membros têm a faculdade de calcular uma única taxa média ponderada. Para o efeito, as operações que tenham sido objecto de uma alteração de taxa ou de regime serão repartidas proporcionalmente entre a antiga e a nova taxa ou o antigo e o novo regime, tendo em conta o período médio que medeia entre a entrada em vigor da taxa ou regime alterados e a cobrança das receitas provenientes da aplicação dessa taxa ou desse regime, calculado em relação à totalidade do ano considerado. Esse período médio pode ser arredondado ao mês completo."
+  },
+  "28c399ef2531f76c": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Para efeitos da aplicação do disposto no artigo 3.o, os Estados-membros acrescentarão, se necessário, às receitas cobradas um montante correspondente ao total do IVA não cobrado em virtude das atenuações degressivas do imposto, concedidas ao abrigo do n.o 2 do artigo 24.o da Directiva 77/388/CEE.\n\n2. As receitas cobradas por um Estado-membro serão corrigidas se a percentagem forfetária de compensação prevista no n.o 3 do artigo 25.o da Directiva 77/388/CEE e aplicada às operações efectuadas pelos agricultores sujeitos ao regime forfetário não corresponderem à percentagem da carga fiscal do IVA a montante que, durante o ano em questão, foi efectivamente aplicado a essas operações, à excepção das relativas ao autoconsumo e às vendas directas aos consumidores finais. O montante da correcção será igual à diferença entre as duas percentagens."
+  },
+  "7c40c2e5f46f7b6b": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Para efeitos da aplicação do n.o 1 do artigo 2.o às operações efectuadas pelos sujeitos passivos cujo volume de negócios anual exceda 10000 ecus, mas que beneficiem de uma isenção nos termos do n.o 2 do artigo 24.o da Directiva 77/388/CEE, bem como aos casos referidos no n.o 2 do presente artigo, os Estados-membros determinarão a matéria colectável dos recursos IVA com base nas declarações a prestar pelos sujeitos passivos, em conformidade com o artigo 22.o da referida directiva e, na falta de declarações ou quando essas declarações não incluam as informações necessárias, a partir de dados adequados, tais como outras declarações fiscais, contabilidade a nível do sector de actividade e séries estatísticas completas.\n\n2. Para efeitos da aplicação do n.o 2, segundo, terceiro e quarto travessões, do artigo 2.o:\n\n- para as operações enumeradas no anexo E da Directiva 77/388/CEE que os Estados-membros continuarem a tributar em virtude do n.o 3, alínea a), do artigo 28.o da referida directiva, os Estados-membros calcularão a matéria colectável dos recursos IVA como se essas operações estivessem isentas,\n\n- para as operações enumeradas no anexo F da Directiva 77/388/CEE que os Estados-membros continuarem a isentar em virtude do n.o 3, alínea b), do artigo 28.o da referida directiva, os Estados-membros calcularão a matéria colectável dos recursos IVA como se essas operações fossem tributadas,\n\n- para as operações referidas no anexo G, n.o 1, alínea a) da Directiva 77/388/CEE, que forem tributadas com fundamento numa opção concedida aos sujeitos passivos pelos Estados-membros nos termos do n.o 3, alínea c), do artigo 28.o da referida directiva, os Estados-membros calcularão a matéria colectável dos recursos IVA como se essas operações estivessem isentas.\n\n3. Um Estado-membro pode ser autorizado, segundo o processo previsto no artigo 13.o:\n\n- quer a não ter em conta, para o cálculo da matéria colectável dos recursos IVA:\n\na) Uma ou mais categorias de operações enumeradas nos anexos E, F e G da Directiva 77/388/CEE e às quais se aplique o n.o 2 do presente artigo,\n\nb) Os impostos não cobrados devido às atenuações degressivas do imposto, concedidas com fundamento no n.o 2 do artigo 24.o da Directiva 77/388/CEE,\n\n- quer a calcular a matéria colectável dos recursos IVA nos casos referidos nas alíneas a) e b), utilizando estimativas aproximativas,\n\nsempre que o cálculo exacto da matéria colectável dos recursos IVA nesses casos possa dar origem a encargos administrativos que não se justifiquem quando cotejados com a incidência das operações em causa na matéria colectável total dos recursos IVA desse Estado-membro.\n\n4. Sempre que um Estado-membro aplique o disposto no n.o 6, segundo parágrafo, e no n.o 7 do artigo 17.o da Directiva 77/388/CEE para restringir o exercício dos direitos à dedução, a matéria colectável dos recursos IVA pode ser determinada como se o exercício do direito à dedução não tivesse sido restringido.\n\nO disposto no primeiro parágrafo só se aplica, no que diz respeito ao n.o 6, segundo parágrafo, do artigo 17.o da Directiva 77/388/CEE, à compra de produtos petrolíferos e de veículos automóveis de turismo bem como às despesas decorrentes do leasing e do aluguer e às despesas de manutenção e de reparação dos referidos veículos, desde que sejam utilizados a título profissional.\n\n5. No caso de reembolsos do imposto concedidos por um Estado-membro, por força da aplicação do artigo 6.o da Directiva 69/169/CEE do Conselho, de 28 de Maio de 1969, relativa à harmonização das disposições legislativas, regulamentares e administrativas respeitantes às isenções dos impostos sobre o volume de negócios e dos impostos sobre consumos específicos cobrados na importação no tráfego internacional de passageiros [9], com a última redacção que lhe foi dada pela Directiva 89/194/CEE [10], será deduzida da matéria colectável dos recursos IVA, se necessário, o montante tributável das operações que originam esses reembolsos."
+  },
+  "31459852012f9fe8": {
+   "fragment_id": "TÍTULO IV — Disposições relativas à contabilização e à colocação à disposição",
+   "type": "divisao",
+   "heading": "TÍTULO IV — Disposições relativas à contabilização e à colocação à disposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Disposições relativas à contabilização e à colocação à disposição"
+  },
+  "6e04a216b90b7442": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Antes de 31 de Julho, os Estados-membros transmitirão à Comissão um relatório indicando o montante total da matéria colectável dos recursos IVA, calculada nos termos do artigo 3.o, relativa ao ano civil anterior e à qual deve ser aplicada a taxa referida no artigo 1.o\n\n2. Esse relatório fornecerá todos os dados necessários utilizados para o estabelecimento da matéria colectável de molde a permitir os controlos referidos no artigo 11.o Esse apuramento deve indicar, distintamente, a proveniência das operações referidas no artigo 5.o e nos n.os1 a 4 do artigo 6.o\n\n3. Os dados a utilizar para o estabelecimento da matéria colectável serão os dados mais recentes disponíveis aquando da elaboração do relatório."
+  },
+  "8a7969f927c39723": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAnualmente, o mais tardar a 15 de Abril, os Estados-membros transmitirão à Comissão uma estimativa da matéria colectável dos recursos IVA para o exercício seguinte."
+  },
+  "6b6e842722158c50": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. As rectificações a fazer, por qualquer motivo que seja, aos relatórios referidos no n.o 1 do artigo 7.o que sejam relativas aos exercícios precedentes só podem ser efectuadas mediante acordo entre a Comissão e o Estado-membro.\n\nNa falta do acordo do Estado-membro e após novo exame, a Comissão tomará as medidas que considere necessárias para a aplicação correcta do presente regulamento.\n\nAs rectificações serão agrupadas em mapas cumulativos adoptados em 31 de Julho que alterarão os relatórios prévios elaborados para os exercícios em causa.\n\n2. Depois do dia 31 de Julho do quarto ano seguinte a um determinado exercício, o relatório anual referido no n.o 1 do artigo 7.o não será objecto de outras rectificações, excepto no que diz respeito aos pontos notificados antes desse prazo, quer pela Comissão quer pelo Estado-membro em causa."
+  },
+  "508f121750fdb52b": {
+   "fragment_id": "TÍTULO V — Disposições relativas ao controlo",
+   "type": "divisao",
+   "heading": "TÍTULO V — Disposições relativas ao controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — Disposições relativas ao controlo"
+  },
+  "4fc1d6cf8b9fd3f0": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. No que diz respeito a cada exercício, os Estados-membros informarão a Comissão, o mais tardar até 30 de Abril, das soluções e alterações que tencionem adoptar para determinar a matéria colectável dos recursos IVA relativa a cada uma das categorias de operações referidas no artigo 5.o e nos n.os 1 a 4 do artigo 6.o, indicando, se for caso disso, a natureza dos dados que consideram adequados, bem como uma estimativa do valor da matéria colectável correspondente a cada uma dessas categorias de operações.\n\nA Comissão comunicará aos outros Estados-membros, no prazo de trinta dias, as informações acima referidas que receba de cada um dos Estados-membros.\n\n2. A Comissão examinará, segundo o processo previsto no artigo 13.o, as soluções e alterações previstas."
+  },
+  "49dca407b35d6838": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. No que diz respeito aos recursos IVA, os controlos da Comissão exercer-se-ão junto das administrações competentes dos Estados-membros. No âmbito desses controlos, a Comissão certificar-se-á, em especial, da regularidade das operações de centralização da matéria colectável e da determinação da taxa média ponderada referida nos artigos 3.o e 4.o, bem como do montante total das receitas líquidas do Imposto sobre o Valor Acrescentado cobradas; certificar-se-á igualmente do cumprimento do carácter adequado dos dados utilizados e da conformidade com o presente regulamento dos cálculos efectuados, com o objectivo de determinar o montante dos recursos IVA provenientes das operações referidas no artigo 5.o e nos n.os 1 a 4 do artigo 6.o\n\n2. O Regulamento (CEE, Euratom, CECA) n.o 165/74 do Conselho, de 21 de Janeiro de 1974, que determina os poderes e obrigações dos agentes mandatados pela Comissão, por força do n.o 5 do artigo 14.o do Regulamento (CEE, Euratom, CECA) n.o 2/71 [11], aplica-se ao controlo dos recursos IVA. Para efeitos da aplicação do disposto no artigo 5.o do referido regulamento, considera-se que as informações nele referidas apenas podem ser comunicadas às pessoas que, por força das suas funções relativas à colocação à disposição e ao controlo dos recursos IVA, delas devam ter conhecimento.\n\n3. Na sequência dos controlos referidos no n.o 1, o relatório anual relativo a um determinado exercício será rectificado nas condições previstas no artigo 9.o"
+  },
+  "9c51e9d1e5eda2f6": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Os Estados-membros informarão a Comissão dos processos de registo dos sujeitos passivos, bem como de determinação e cobrança do IVA aplicados nos Estados-membros, bem como das regras e resultados dos respectivos sistemas de controlo no domínio desse imposto.\n\n2. A Comissão analisará, em colaboração com cada um dos Estados-membros interessados, a possibilidade de serem considerados eventuais aperfeiçoamentos dos processos, com o objectivo de aumentar a respectiva eficácia.\n\n3. De três em três anos, a Comissão elaborará um relatório sobre os processos aplicados nos Estados-membros, bem como sobre os eventuais melhoramentos a considerar.\n\nA Comissão apresentará esse relatório ao Parlamento Europeu e ao Conselho, pela primeira vez, o mais tardar em 31 de Dezembro de 1991."
+  },
+  "8372f088479afe10": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. O Comité referido no artigo 20.o do Regulamento (CEE, Euratom) n.o 1552/89 [12], a seguir denominado \"Comité\", examinará regularmente, por iniciativa da Comissão ou a pedido de um Estado-membro, os problemas levantados pela aplicação do presente regulamento.\n\n2. O Estado-membro que solicitar a autorização prevista no n.o 4 do artigo 4.o ou no n.o 3 do artigo 6.o dirigirá o seu pedido à Comissão logo que possível, mas o mais tardar em 30 de Abril do exercício a partir do qual a autorização deva ser aplicada.\n\nO representante da Comissão, logo que possível, mas o mais tardar em 31 de Dezembro desse exercício, submeterá à apreciação do Comité um projecto de decisão.\n\n3. Por iniciativa da Comissão ou a pedido de um Estado-membro, o Comité examinará as soluções referidas no artigo 10.o\n\nSe, após o exame do Comité, surgirem divergências quanto às soluções previstas, o representante da Comissão submeterá ao Comité, logo que possível, mas o mais tardar em 31 de Dezembro do exercício a partir do qual a solução deve ser aplicada, um projecto de decisão.\n\n4. O Comité emitirá o seu parecer sobre os projectos de decisão referidos nos n.os 2 e 3 num prazo que o presidente pode fixar em função da urgência da questão em causa, se necessário procedendo a uma votação.\n\nEsse parecer dever ser exarado em acta; além disso, cada Estado-membro tem o direito de solicitar que a sua posição conste da acta.\n\nA Comissão tomará na melhor conta o parecer emitido pelo Comité. O Comité será por ela informado do modo como esse parecer foi tomado em consideração.\n\n5. Antes do final de um prazo de sessenta dias a seguir ao parecer do Comité, a Comissão tomará uma decisão de que informará os Estados-membros."
+  },
+  "0c2f6165c2ffbb98": {
+   "fragment_id": "TÍTULO VI — Disposições finais",
+   "type": "divisao",
+   "heading": "TÍTULO VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI — Disposições finais"
+  },
+  "7a667dbab1e7f713": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Janeiro de 1989.\n\nNo entanto, não se aplicará à elaboração ou à correcção dos relatórios que indiquem a matéria colectável dos recursos IVA dos anos anteriores a 1989 e que tenham sido elaborados nos termos do Regulamento (CEE, Euratom, CECA) n.o 2892/77, que continuará a ser aplicável para os relatórios em questão.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 29 de Maio de 1989.\n\nPelo Conselho\n\nO Presidente\n\nC. ROMERO HERRERA\n\n[1] JO n.o L 185 de 15. 7. 1988, p. 24.\n\n[2] JO n.o C 128 de 17. 5. 1988, p. 4 e JO n.o C 15 de 19. 1. 1989, p. 11.\n\n[3] JO n.o C 309 de 5. 12. 1988, p. 30.\n\n[4] JO n.o C 191 de 20. 7. 1988, p. 3.\n\n[5] JO n.o L 336 de 27. 2. 1977, p. 8.\n\n[6] JO n.o L 356 de 31. 12. 1985, p. 1.\n\n[7] JO n.o L 145 de 13. 6. 1977, p. 1.\n\n[8] JO n.o L 208 de 3. 9. 1984, p. 58.\n\n[9] JO n.o L 133 de 4. 6. 1969, p. 6.\n\n[10] JO n.o L 73 de 17. 3. 1989, p. 47.\n\n[11] JO n.o L 20 de 24. 1. 1974, p. 1.\n\n[12] Ver página 1 do presente Jornal Oficial.\n\n--------------------------------------------------"
+  },
+  "e1f15b288f10358d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1989R1553 — PT — 05.06.2003 — 002.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989R1553:PT:NOT) [REGULAMENTO (CEE, EURATOM) N.o 1553/89 DO CONSELHO de 29 de Maio de 1989 relativo ao regime uniforme e definitivo de cobrança dos recursos próprios provenientes do Imposto sobre o Valor Acrescentado](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989R1553:PT:NOT) (JO L 155, 7.6.1989, p.9)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999R1026:PT:NOT) | [Regulamento (CE, EURATOM) n.o 1026/1999 do Conselho de 10 de Maio de 1999](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999R1026:PT:NOT) | L 126 | 1 | 20.5.1999 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT) | [Regulamento (CE) n.o 807/2003 do Conselho de 14 de Abril de 2003](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT) | L 122 | 36 | 16.5.2003 |\n\n| NB: Esta versão consolidada contém referências à unidade de conta europeia e/ou ao ecu, que a partir de 1 de Janeiro de 1999 devem ser interpretadas como referências ao euro — Regulamento (CEE) n.o 3308/80 do Conselho (JO L 345 de 20.12.1980, p. 1) e Regulamento (CE) n.o 1103/97 do Conselho (JO L 162 de 19.6.1997, p. 1). |\n| --- |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989R1553:PT:NOT)\n\nREGULAMENTO (CEE, EURATOM) N.o 1553/89 DO CONSELHO\n\nde 29 de Maio de 1989\n\nrelativo ao regime uniforme e definitivo de cobrança dos recursos próprios provenientes do Imposto sobre o Valor Acrescentado\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 209.o,\n\nTendo em conta o Tratado que institui a Comunidade Europeia da Energia Atómica e, nomeadamente, o seu artigo 183.o,\n\nTendo em conta a Decisão 88/376/CEE, Euratom do Conselho, de 24 de Junho de 1988, relativa ao sistema de recursos próprios das Comunidades ([1](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#E0001)), e, nomeadamente, o n.o 2 do seu artigo 8.o,\n\nTendo em conta a proposta da Comissão ([2](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Parlamento Europeu ([3](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#E0003)),\n\nTendo em conta o parecer do Tribunal de Contas ([4](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#E0004)),\n\nConsiderando que, nos termos do seu artigo 14.o, o Regulamento (CEE, Euratom, CECA) n.o 2892/77 do Conselho, de 19 de Dezembro de 1977, que dá aplicação, no que diz respeito aos recursos próprios provenientes do Imposto sobre o Valor Acrescentado, à decisão de 21 de Abril de 1970, relativa à substituição das contribuições financeiras dos Estados-membros por recursos próprios das Comunidades ([5](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#E0005)), com a última redacção que lhe foi dada pelo Regulamento (CECA, CEE, Euratom) n.o 3735/85 ([6](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#E0006)), é aplicável durante um período transitório que termina em 31 de Dezembro de 1988;\n\nConsiderando que as disposições relativas ao regime uniforme e definitivo de cobrança dos recursos provenientes do Imposto sobre o Valor Acrescentado, adiante denominados «recursos IVA», bem como as regras de entrada em vigor desse regime, devem ser aplicadas a partir de 1 de Janeiro de 1989;\n\nConsiderando que há que escolher o método das receitas enquanto método único definitivo de determinação da base dos recursos IVA, dado que esse método é fiável e é já aplicado pela maioria dos Estados-membros;\n\nConsiderando que as disposições do Regulamento (CEE, Euratom, CECA) n.o 2892/77 podem ser mantidas, com excepção das que já não são necessárias ou que é conveniente alterar em função da experiência adquirida;\n\nConsiderando que a experiência adquirida na aplicação do processo de rectificação dos apuramentos revelou a necessidade de clarificar o seu alcance, esclarecendo que ele é aplicável a toda e qualquer rectificação;\n\nConsiderando que os Estados-membros devem informar a Comissão sobre os processos de registo dos sujeitos passivos, de determinação e de cobrança do IVA aplicados nesses Estados, bem como sobre as modalidades e resultados dos respectivos sistemas de controlo no domínio desse imposto; que é conveniente que a Comissão analise, em colaboração com cada Estado-membro interessado, se é possível prever eventuais aperfeiçoamentos dos processos com vista a aumentar a sua eficácia; que é conveniente que a Comissão elabore de três em três anos um relatório sobre os processos aplicados nos Estados-membros bem como sobre os eventuais aperfeiçoamentos previstos;\n\nConsiderando as competências do Tribunal de Contas resultantes do artigo 206.oA do Tratado CEE e do artigo 180.oA do Tratado CEEA,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "57bc2a699bf61180": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A base dos recursos IVA será determinada a partir das operações tributáveis referidas no artigo 2.o da Directiva 77/388/CEE do Conselho, de 17 de Maio de 1977, relativa à harmonização das legislações dos Estados-membros respeitantes aos impostos sobre o volume de negócios — sistemas comuns do Imposto sobre o Valor Acrescentado: matéria colectável uniforme ([7](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#E0007)), com a última redacção que lhe foi dada pela Decisão 84/386/CEE ([8](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#E0008)), com excepção das operações isentas nos termos dos artigos 13.o a 16.oda referida directiva.\n\n2. Para efeitos da aplicação do disposto no número anterior, devem ser tidas em conta na determinação dos recursos IVA:\n\n— as operações que, nos termos do n.o 2 do artigo 28.o da Directiva 77/388/CEE, sejam objecto de isenção com reembolso dos impostos pagos no estádio anterior,\n\n— as operações que os Estados-membros continuem a tributar, por força do n.o 3, alínea a), do artigo 28.o da Directiva 77/388/CEE,\n\n— as operações que os Estados-membros continuem a isentar, por força do n.o 3, alínea b), do artigo 28.o da Directiva 77/388/CEE,\n\n— as operações que sejam tributadas por força do direito de opção concedido aos sujeitos passivos pelos Estados-membros nos termos do n.o 3, alínea c), do artigo 28.o da Directiva 77/388/CEE.\n\n3. Em derrogação do disposto no n.o 1, os Estados-membros podem não tomar em consideração, para a determinação dos recursos IVA, as operações efectuadas pelos sujeitos passivos cujo volume de negócios anual, determinado segundo as regras previstas no n.o 4 do artigo 24.o da Directiva 77/388/CEE, não exceda o montante de 10 000 ecus, convertido em moeda nacional à taxa média do exercício considerado, podendo os Estados-membros arredondar até 10 %, para mais ou para menos, os montantes resultantes da conversão."
+  },
+  "b2c37efe2dbb898d": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Para o cálculo da ponderação das diversas taxas referidas no artigo 3.o, o Estado-membro repartirá pela taxa do IVA aplicada todas as operações que sejam tributáveis segundo a sua legislação nacional e que, em virtude do artigo 17.o da Directiva 77/388/CEE, sejam oneradas de IVA não dedutível pelo destinatário, bem como o autoconsumo dos agricultores sujeitos ao regime forfetário e as respectivas vendas directas aos consumidores finais.\n\nAs taxas de IVA a tomar em consideração são as que, nos termos do n.o 7, têm incidências nas receitas do IVA cobradas no ano considerado.\n\nAs operações a que se aplique, nos termos do n.o 2 do artigo 28.o da Directiva 77/388/CEE, uma isenção com reembolso dos impostos pagos no estádio anterior são consideradas operações tributáveis a uma taxa de 0 %.\n\n2. A repartição por taxas do IVA será efectuada em relação às categorias adiante enumeradas, na medida em que sejam oneradas de IVA não dedutível:\n\n— consumo final das famílias, incluindo o autoconsumo dos agricultores sujeitos ao regime forfetário e as suas vendas directas ao consumidor final,\n\n— consumo intermédio das administrações privadas e das administrações públicas,\n\n— consumo intermédio dos outros sectores,\n\n— formação bruta de capital fixo das administrações privadas e das administrações públicas,\n\n— formação bruta de capital fixo dos outros sectores,\n\n— terrenos contruídos e para construção definidos no n.o 3, alínea b), do artigo 4.o da Directiva 77/388/CEE,\n\n— operações sobre ouro, com exclusão do destinado a fins industriais,\n\n2. efectuadas no território referido no artigo 3.o da Directiva 77/388/CEE para o Estado-membro em causa.\n\n3. Em relação à repartição do consumo final, o autoconsumo dos agricultores sujeitos ao regime forfetário e as suas vendas directas ao consumidor final serão sujeitos a uma taxa que corresponde à percentagem do IVA cobrado a montante dessas operações.\n\n4. A repartição das operações por categoria estatística é determinada por intermédio de dados provenientes das contas nacionais elaboradas de acordo com o Sistema Europeu de Contas Económicas Integradas (SEC). As contas nacionais em causa são as relativas ao penúltimo ano anterior ao exercício orçamental em relação ao qual se deve calcular a base dos recursos IVA.\n\nOs Estados-membros podem ser autorizados, de acordo com o processo previsto no artigo 13.o, a utilizar dados relativos a outro ano, que não deve ser anterior ao quinto ano anterior ao exercício orçamental em causa.\n\n5. Para efectuar a selecção de determinadas operações oneradas de IVA não dedutível e a repartição por taxas de IVA, pode recorrer-se a dados provenientes de fontes exteriores ao SEC, mas susceptíveis de a ele serem adaptadas, ou seja, em primeiro lugar, das contas nacionais internas, se incluírem a discriminação necessária ou, na sua falta, de qualquer outra fonte apropriada.\n\n6. Para determinar a ponderação relativa a cada taxa, o Estado-membro calculará a razão entre, por um lado, o valor das operações relativas a essa taxa e, por outro, o valor total do conjunto das operações.\n\n7. Se a taxa de IVA aplicável a todas ou a determinadas operações ou o regime fiscal de certas operações for objecto de uma alteração que tenha incidência nas receitas do IVA cobradas, o Estado-membro calculará uma nova taxa média ponderada. Esta nova taxa média ponderada será aplicada às receitas provenientes da aplicação da taxa ou do regime alterados.\n\nEm derrogação do disposto no parágrafo anterior, os Estados-membros têm a faculdade de calcular uma única taxa média ponderada. Para o efeito, as operações que tenham sido objecto de uma alteração de taxa ou de regime serão repartidas proporcionalmente entre a antiga e a nova taxa ou o antigo e o novo regime, tendo em conta o período médio que medeia entre a entrada em vigor da taxa ou regime alterados e a cobrança das receitas provenientes da aplicação dessa taxa ou desse regime, calculado em relação à totalidade do ano considerado. Esse período médio pode ser arredondado ao mês completo."
+  },
+  "74a7a851cd8f742a": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Para efeitos da aplicação do n.o 1 do artigo 2.o às operações efectuadas pelos sujeitos passivos cujo volume de negócios anual exceda 10 000 ecus, mas que beneficiem de uma isenção nos termos do n.o 2 do artigo 24.o da Directiva 77/388/CEE, bem como aos casos referidos no n.o 2 do presente artigo, os Estados-membros determinarão a matéria colectável dos recursos IVA com base nas declarações a prestar pelos sujeitos passivos, em conformidade com o artigo 22.o da referida directiva e, na falta de declarações ou quando essas declarações não incluam as informações necessárias, a partir de dados adequados, tais como outras declarações fiscais, contabilidade a nível do sector de actividade e séries estatísticas completas.\n\n2. Para efeitos da aplicação do n.o 2, segundo, terceiro e quarto travessões, do artigo 2.o:\n\n— para as operações enumeradas no anexo E da Directiva 77/388/CEE que os Estados-membros continuarem a tributar em virtude do n.o 3, alínea a), do artigo 28.o da referida directiva, os Estados-membros calcularão a matéria colectável dos recursos IVA como se essas operações estivessem isentas,\n\n— para as operações enumeradas no anexo F da Directiva 77/388/CEE que os Estados-membros continuarem a isentar em virtude do n.o 3, alínea b), do artigo 28.o da referida directiva, os Estados-membros calcularão a matéria colectável dos recursos IVA como se essas operações fossem tributadas,\n\n— para as operações referidas no anexo G, n.o 1, alínea a) da Directiva 77/388/CEE, que forem tributadas com fundamento numa opção concedida aos sujeitos passivos pelos Estados-membros nos termos do n.o 3, alínea c), do artigo 28.o da referida directiva, os Estados-membros calcularão a matéria colectável dos recursos IVA como se essas operações estivessem isentas.\n\n3. Um Estado-membro pode ser autorizado, segundo o processo previsto no artigo 13.o:\n\n— quer a não ter em conta, para o cálculo da matéria colectável dos recursos IVA:\n\na) Uma ou mais categorias de operações enumeradas nos anexos E, F e G da Directiva 77/388/CEE e às quais se aplique o n.o 2 do presente artigo,\n\nb) Os impostos não cobrados devido às atenuações degressivas do imposto, concedidas com fundamento no n.o 2 do artigo 24.o da Directiva 77/388/CEE,\n\n— quer a calcular a matéria colectável dos recursos IVA nos casos referidos nas alíneas a) e b), utilizando estimativas aproximativas,\n\n3. sempre que o cálculo exacto da matéria colectável dos recursos IVA nesses casos possa dar origem a encargos administrativos que não se justifiquem quando cotejados com a incidência das operações em causa na matéria colectável total dos recursos IVA desse Estado-membro.\n\n4. Sempre que um Estado-membro aplique o disposto no n.o 6, segundo parágrafo, e no n.o 7 do artigo 17.o da Directiva 77/388/CEE para restringir o exercício dos direitos à dedução, a matéria colectável dos recursos IVA pode ser determinada como se o exercício do direito à dedução não tivesse sido restringido.\n\nO disposto no primeiro parágrafo só se aplica, no que diz respeito ao n.o 6, segundo parágrafo, do artigo 17.o da Directiva 77/388/CEE, à compra de produtos petrolíferos e de veículos automóveis de turismo bem como às despesas decorrentes do leasing e do aluguer e às despesas de manutenção e de reparação dos referidos veículos, desde que sejam utilizados a título profissional.\n\n5. No caso de reembolsos do imposto concedidos por um Estado-membro, por força da aplicação do artigo 6.o da Directiva 69/169/CEE do Conselho, de 28 de Maio de 1969, relativa à harmonização das disposições legislativas, regulamentares e administrativas respeitantes às isenções dos impostos sobre o volume de negócios e dos impostos sobre consumos específicos cobrados na importação no tráfego internacional de passageiros ([9](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#E0009)), com a última redacção que lhe foi dada pela Directiva 89/194/CEE ([10](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#E0010)), será deduzida da matéria colectável dos recursos IVA, se necessário, o montante tributável das operações que originam esses reembolsos."
+  },
+  "72a2063be02e7a1e": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. No que diz respeito aos recursos IVA, os controlos da Comissão exercer-se-ão junto das administrações competentes dos Estados-membros. No âmbito desses controlos, a Comissão certificar-se-á, em especial, da regularidade das operações de centralização da matéria colectável e da determinação da taxa média ponderada referida nos artigos 3.o e 4.o, bem como do montante total das receitas líquidas do Imposto sobre o Valor Acrescentado cobradas; certificar-se-á igualmente do cumprimento do carácter adequado dos dados utilizados e da conformidade com o presente regulamento dos cálculos efectuados, com o objectivo de determinar o montante dos recursos IVA provenientes das operações referidas no artigo 5.o e nos n.os 1 a 4 do artigo 6.o\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999R1026:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989R1553:PT:NOT)\n\n3. Na sequência dos controlos referidos no n.o 1, o relatório anual relativo a um determinado exercício será rectificado nas condições previstas no artigo 9.o"
+  },
+  "949f03eae50a8cb8": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. O Comité referido no artigo 20.o do Regulamento (CEE, Euratom) n.o 1552/89 ([11](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#E0012)), a seguir denominado «Comité», examinará regularmente, por iniciativa da Comissão ou a pedido de um Estado-membro, os problemas levantados pela aplicação do presente regulamento.\n\n2. O Estado-membro que solicitar a autorização prevista no n.o 4 do artigo 4.o ou no n.o 3 do artigo 6.o dirigirá o seu pedido à Comissão logo que possível, mas o mais tardar em 30 de Abril do exercício a partir do qual a autorização deva ser aplicada.\n\nO representante da Comissão, logo que possível, mas o mais tardar em 31 de Dezembro desse exercício, submeterá à apreciação do Comité um projecto de decisão.\n\n3. Por iniciativa da Comissão ou a pedido de um Estado-membro, o Comité examinará as soluções referidas no artigo 10.o\n\nSe, após o exame do Comité, surgirem divergências quanto às soluções previstas, o representante da Comissão submeterá ao Comité, logo que possível, mas o mais tardar em 31 de Dezembro do exercício a partir do qual a solução deve ser aplicada, um projecto de decisão.\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT)\n\n4. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 3.o e 7.o da Decisão 1999/468/CE ([12](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#E0013)).\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989R1553:PT:NOT)\n\n5. Antes do final de um prazo de sessenta dias a seguir ao parecer do Comité, a Comissão tomará uma decisão de que informará os Estados-membros.\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT)\n\n6. O comité aprovará o seu regulamento interno.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989R1553:PT:NOT)"
+  },
+  "8628057296bd24d6": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Janeiro de 1989.\n\nNo entanto, não se aplicará à elaboração ou à correcção dos relatórios que indiquem a matéria colectável dos recursos IVA dos anos anteriores a 1989 e que tenham sido elaborados nos termos do Regulamento (CEE, Euratom, CECA) n.o 2892/77, que continuará a ser aplicável para os relatórios em questão.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n([1](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#src.E0001)) JO n.o L 185 de 15. 7. 1988, p. 24.\n\n([2](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#src.E0002)) JO n.o C 128 de 17. 5. 1988, p. 4 e JO n.o C 15 de 19. 1. 1989, p. 11.\n\n([3](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#src.E0003)) JO n.o C 309 de 5. 12. 1988, p. 30.\n\n([4](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#src.E0004)) JO n.o C 191 de 20. 7. 1988, p. 3.\n\n([5](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#src.E0005)) JO n.o L 336 de 27. 2. 1977, p. 8.\n\n([6](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#src.E0006)) JO n.o L 356 de 31. 12. 1985, p. 1.\n\n([7](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#src.E0007)) JO n.o L 145 de 13. 6. 1977, p. 1.\n\n([8](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#src.E0008)) JO n.o L 208 de 3. 9. 1984, p. 58.\n\n([9](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#src.E0009)) JO n.o L 133 de 4. 6. 1969, p. 6.\n\n([10](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#src.E0010)) JO n.o L 73 de 17. 3. 1989, p. 47.\n\n([11](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#src.E0012)) Ver página 1 do presente Jornal Oficial.\n\n([12](http://publications.europa.eu/resource/cellar/5b470402-3d1e-4276-9184-a4490ab24a61.0018.02/DOC_1#src.E0013)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "863314564d6e9859": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Maio de 1989\n\nrelativo ao regime uniforme e definitivo de cobrança dos recursos próprios provenientes do Imposto sobre o Valor Acrescentado"
+  },
+  "465aac5ac77fd168": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO recurso próprio baseado no IVA resulta da aplicação da taxa de mobilização uniforme a que se refere o artigo 2.º, n.º 1, alínea b), da Decisão (UE, Euratom) 2020/2053 do Conselho ([^1^](http://publications.europa.eu/resource/cellar/09e5ef6b-d36a-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0001)), à base tributável determinada nos termos do presente regulamento."
+  },
+  "9f4a1015c33c4527": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO recurso próprio baseado no IVA é calculado com base nas operações tributáveis referidas no artigo 2.º da Diretiva 2006/112/CE do Conselho ([^2^](http://publications.europa.eu/resource/cellar/09e5ef6b-d36a-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0002))."
+  },
+  "57ea9ec99b8537e1": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Para um ano civil determinado, a base tributável do recurso próprio baseado no IVA é determinada dividindo o total das receitas líquidas do IVA cobradas pelo Estado-Membro das transações referidas no Artigo 2 nesse ano, retificado em conformidade com o n.º 2 do presente artigo, pela taxa média ponderada plurianual definitiva do IVA calculada segundo o método estabelecido no artigo 4.º.\n\nEssa taxa média ponderada plurianual definitiva é expressa em percentagem, aplicando o método de cálculo estabelecido no artigo 4.º.\n\n2.\n\nO montante total das receitas líquidas do IVA referidas no n.º 1 do presente artigo é corrigido de modo a ter em conta o seguinte:\n\na) Os montantes que devem ser tratados, para efeitos do recurso próprio, como operações em proveniência ou com destino a um Estado-Membro, sendo embora originárias de, ou destinadas a, um dos territórios referidos no artigo 6.º da Diretiva 2006/112/CE;\n\nb) Os montantes provenientes de transações originadas em ou destinadas a um dos lugares referidos no artigo 7.º da Diretiva 2006/112/CE, desde que o Estado-Membro possa provar que as receitas foram efetivamente transferidas para esse lugar;\n\nc) Os montantes devidos na sequência de retificações decorrentes de uma infração da Diretiva 2006/112/CE.\n\n3. O montante obtido em aplicação do n.º 1 do presente artigo é multiplicado pela taxa de mobilização uniforme a que se refere o artigo 2.º, n.º 1, alínea b), da Decisão (UE, Euratom) 2020/2053 do Conselho para determinar o recurso próprio baseado no IVA a disponibilizar ao orçamento da União."
+  },
+  "8b4a1253bfb874b5": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O recurso próprio baseado no IVA é calculado por referência aos anos civis.\n\n2. A taxa média ponderada plurianual definitiva é calculada com base no método estabelecido nos n.^os^ 3 a 8.\n\n3. A taxa média ponderada plurianual definitiva é a percentagem calculada por cada Estado-Membro respetivamente para o exercício financeiro de 2016, de acordo com as disposições do presente artigo, como aplicável antes de 1 de janeiro de 2021.\n\n4. A percentagem em que é expressa a taxa média ponderada plurianual definitiva é calculada à quarta casa decimal.\n\n5. A taxa média ponderada plurianual definitiva deverá ter sido controlada e não ser objeto de notificações relativas a questões pendentes, conforme referido no artigo 9.º, n.º 2.\n\n6. Uma taxa média ponderada alvo de notificação é utilizada até que as questões notificadas tal como se refere o artigo 9.º, n.º 2, tenham sido resolvidas, e é considerada como a taxa média ponderada plurianual provisória.\n\n7. Logo que resolvidas as questões objeto de notificação a que se refere o artigo 9.º, n.º 2, a percentagem resultante substitui a taxa média ponderada plurianual provisória e passa a ser a taxa média ponderada plurianual definitiva a partir do exercício financeiro de 2021.\n\n8. O impacto orçamental de eventuais diferenças entre a taxa média ponderada plurianual provisória e a taxa média ponderada plurianual definitiva é tratado de acordo como procedimento descrito no artigo 10.º-B, n.º 5, do Regulamento (UE, Euratom), n.º 609/2014 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/09e5ef6b-d36a-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0003)) («exercício de balanço anual»)."
+  },
+  "0d95a89b0e0cb3d3": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Até 31 de julho de cada ano, os Estados-Membros transmitem à Comissão uma declaração que indique o montante total da base tributável do recurso próprio baseado no IVA relativa ao ano civil anterior, determinada nos termos do artigo 3.º, e à qual se deve aplicar a taxa uniforme referida no artigo 1.º.\n\n2. A declaração a que se refere o n.º 1 do presente artigo contém todos os dados utilizados para a determinação da base tributável, que são necessários para a realização das inspeções referidas no artigo 2.º, n.º 4, do Regulamento (UE, Euratom) 2021/768 ([^4^](http://publications.europa.eu/resource/cellar/09e5ef6b-d36a-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0006))do Conselho.\n\n3. Os dados utilizados para determinar a base tributável do recurso próprio baseado no IVA são os dados mais recentes disponíveis aquando da elaboração da declaração.\n\n4. Os Estados-Membros podem solicitar uma prorrogação do prazo fixado no n.º 1 do presente artigo caso circunstâncias excecionais fora do seu controlo os impeçam de efetuar os cálculos nos termos do artigo 3.º e, por conseguinte, de cumprir esse prazo. Esse pedido é apresentado por escrito à Comissão e especifica as razões subjacentes às circunstâncias excecionais.\n\n5. Após ter examinado o pedido referido no n.º 4 do presente artigo, a Comissão pode conceder uma única prorrogação do prazo fixado no n.º 1 do presente artigo por um período máximo de dois meses. A Comissão transmite anualmente ao Comité referido no artigo 13.º, n.º 1, informações sobre o número de pedidos e sobre as suas decisões correspondentes."
+  },
+  "9b05b6727cee5f7f": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPor razões de ordem orçamental, até 15 de abril de cada ano, os Estados-Membros transmitem à Comissão uma estimativa da base tributável do recurso próprio baseado no IVA para o exercício seguinte."
+  },
+  "af6e17cccd0b87aa": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Qualquer que seja o motivo para fazer retificações às declarações referidas no artigo 7.º, n.º 1, do presente regulamento em relação aos exercícios financeiros anteriores, só podem ser efetuadas mediante acordo entre a Comissão e o Estado-Membro em causa.\n\nSe o Estado-Membro em causa e a Comissão não chegarem a acordo quanto a uma retificação, a Comissão informa, por carta, o Estado-Membro sobre a retificação necessária. Essa carta constitui uma «medida» na aceção do artigo 12.º, n.º 2, alínea c), do Regulamento (UE, Euratom) n.º 609/2014.\n\n1-A. O Estado-Membro em causa pode solicitar à Comissão que reveja a retificação comunicada por carta referida no n.º 1, segundo parágrafo, do presente artigo, no prazo de dois meses a contar da data de receção dessa carta. O procedimento de revisão termina com uma decisão, que a Comissão deverá adotar o mais tardar três meses após a data de receção do pedido do Estado-Membro.\n\nCaso a decisão da Comissão resultar numa revisão total ou parcial dos montantes correspondentes à retificação comunicada por carta referida no n.º 1, segundo parágrafo, do presente artigo, o Estado-Membro disponibiliza o montante correspondente. Nem um pedido de revisão da retificação por parte do Estado-Membro nem um recurso de anulação da decisão da Comissão afetam a obrigação do Estado-Membro de disponibilizar o montante correspondente à retificação.\n\nAs retificações às declarações referidas no artigo 7.º, n.º 1, são integradas em declarações agregadas que alteram as declarações anteriores para os exercícios em causa.\n\n1-B. A Comissão pode adotar atos de execução que fornecem mais detalhes sobre as modalidades processuais do procedimento de revisão a que se refere o n.º 1-A. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 13.º, n.º 3.\n\n2. Após 31 de julho do quarto ano seguinte a um determinado exercício, a declaração referida no artigo 7.º, n.º 1, não será objeto de novas retificações, salvo se essas retificações forem relativas a questões notificadas antes desse prazo, quer pela Comissão quer pelo Estado-Membro em causa."
+  },
+  "15f73f43dbf32bfa": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Até 30 de abril de cada exercício, cada Estado-Membro informa a Comissão de quaisquer soluções e alterações relacionadas que tencione adotar com vista a determinar os montantes a que se refere o artigo 3.º, n.º 2, alíneas a) e b). A solução proposta indica, se aplicável, a natureza dos dados que o Estado-Membro considera adequados, e inclui uma estimativa do valor da base tributável do recurso próprio baseado no IVA para cada ponto.\n\nA Comissão transmite aos outros Estados-Membros, até 31 de maio do mesmo exercício, as informações referidas no primeiro parágrafo do presente número que tenha recebido de um Estado-Membro.\n\n2. A Comissão pode adotar atos de execução no que diz respeito às soluções e alterações conexas propostas pelos Estados-Membros em conformidade com o n.º 1 do presente artigo. Os referidos atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 13.º, n.º 2, no prazo de 60 dias após o Comité a que se refere o artigo 13.º, n.º 1, ter emitido o seu parecer."
+  },
+  "a8b31f894f56c080": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Na sequência das inspeções referidas no artigo 2.º, n.º 4, do Regulamento (UE, Euratom) 2021/768, o relatório anual a que se refere o artigo 7.º, n.º 1, deve ser retificado de acordo com o estabelecido no artigo 9.º do presente regulamento.\n\n2. No que diz respeito à taxa média ponderada referida plurianual definitiva no artigo 4.º, n.º 2, a Comissão procede à avaliação das retificações referidas no artigo 9.º apresentadas pelos Estados-Membros, a fim de resolver as notificações relativas a questões pendentes sobre a taxa média ponderada."
+  },
+  "9953785a0d7ea401": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Cada Estado-Membro faculta à Comissão, anualmente, informações relativas a todas as alterações relevantes dos seus processos administrativos e dos procedimentos que aplicam com vista à cobrança do IVA, comparativamente às informações previamente submetidas.\n\n2. A Comissão pondera, em colaboração com o Estado-Membro em causa, a possibilidade de melhorar os processos e procedimentos a que se refere o n.º 1.\n\n3. De cinco em cinco anos, a Comissão elabora um relatório sobre as medidas adotadas e os progressos realizados pelos Estados-Membros no que respeita à cobrança do IVA, bem como sobre os eventuais melhoramentos.\n\nA Comissão apresenta esse relatório ao Parlamento Europeu e ao Conselho, pela primeira vez, até 31 de dezembro de 2025."
+  },
+  "80b4528dc37d447c": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. A Comissão é assistida pelo Comité Consultivo dos Recursos Próprios (CCRP/IVA) criado pelo artigo 7.º, n.º 1, do Regulamento (UE, Euratom) 2021/768. Esse comité é um comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/09e5ef6b-d36a-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0007)).\n\n2. Caso se remeta para o presente número, aplica-se o artigo 4.º do Regulamento (UE) n.º 182/2011.\n\n3. Caso se remeta para o presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "c5979fd0b5c58e65": {
+   "fragment_id": "Artigo 13.º-A",
+   "type": "artigo",
+   "heading": "Artigo 13.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-A\n\n1.\n\nA Comissão elabora um relatório sobre o funcionamento do sistema do recurso próprio baseado no IVA, o mais tardar até 1 de janeiro de 2025. Este relatório indica:\n\na) O número de Estados-Membros que ainda aplicam uma taxa média ponderada objeto de eventuais notificações relativas a questões pendentes;\n\nb) Quaisquer alterações das taxas nacionais de IVA.\n\n2. O relatório referido no n.º 1 inclui uma avaliação da eficácia e da adequação do sistema do recurso próprio baseado no IVA, em particular, da taxa média ponderada plurianual. Caso se afigure adequado, o relatório é acompanhado de uma proposta de alteração do presente regulamento, a fim de calcular a taxa média ponderada plurianual definitiva com base em dados mais recentes."
+  },
+  "45866aa0961baa7f": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nÉ aplicável a partir de 1 de Janeiro de 1989.\n\nNo entanto, não se aplicará à elaboração ou à correcção dos relatórios que indiquem a matéria colectável dos recursos IVA dos anos anteriores a 1989 e que tenham sido elaborados nos termos do Regulamento (CEE, Euratom, CECA) n.º 2892/77, que continuará a ser aplicável para os relatórios em questão.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n---"
+  },
+  "59af5f09df1dbbee": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/09e5ef6b-d36a-11eb-895a-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Decisão (UE, Euratom) 2020/2053 do Conselho, de 14 de dezembro de 2020, relativa ao sistema de recursos próprios da União Europeia e que revoga a decisão 2014/335/UE, Euratom que revoga (JO L 424 de 15.12.2020, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/09e5ef6b-d36a-11eb-895a-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Diretiva 2006/112/CE do Conselho, de 28 de novembro de 2006, relativa ao sistema comum do Imposto sobre o Valor Acrescentado (JO L 347 de 11.12.2006, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/09e5ef6b-d36a-11eb-895a-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Regulamento (UE, Euratom) n.º 609/2014 do Conselho, de 26 de maio de 2014, relativo aos métodos e ao procedimento para a colocação à disposição dos recursos próprios tradicionais e dos recursos próprios provenientes do IVA e do RNB e às medidas destinadas a satisfazer as necessidades da tesouraria (JO L 168 de 7.6.2014, p. 39).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/09e5ef6b-d36a-11eb-895a-01aa75ed71a1.0019.02/DOC_1#src.E0006)) Regulamento (UE, Euratom) 2021/768 do Conselho, de 30 de abril de 2021, que estabelece as medidas de execução do sistema de recursos próprios da União Europeia e que revoga o regulamento (UE, Euratom) n.º 608/2014 (JO165 de 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/09e5ef6b-d36a-11eb-895a-01aa75ed71a1.0019.02/DOC_1#src.E0007)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13)."
+  }
+ }
+}

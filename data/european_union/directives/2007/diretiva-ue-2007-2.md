@@ -35,6 +35,40 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-11-26'
+version_history:
+  file: diretiva-ue-2007-2.versoes.json
+  count: 3
+  source_lastmod: '2024-11-26'
+  versions:
+  - date: '2007-04-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-06-26'
+    amending: eu:celex:32019R1010:por
+    amending_title: REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita CATEGORIAS TEMÁTICAS DE DADOS GEOGRÁFICOS A QUE SE REFEREM A ALÍNEA A) DO ARTIGO 6.º, O N.º 1 DO ARTIGO 8.º E
+      A ALÍNEA A) DO ARTIGO 9.º
+    - Adita ANEXO II
+    - Adita CATEGORIAS TEMÁTICAS DE DADOS GEOGRÁFICOS A QUE SE REFEREM A ALÍNEA A) DO ARTIGO 6.º, O N.º 1 DO ARTIGO 8.º E
+      A ALÍNEA B) DO ARTIGO 9.º
+    - Adita ANEXO III
+    - Adita CATEGORIAS TEMÁTICAS DE DADOS GEOGRÁFICOS A QUE SE REFEREM A ALÍNEA B) DO ARTIGO 6.º E A ALÍNEA B) DO ARTIGO 9.º
+  - date: '2024-11-26'
+    amending: eu:celex:32024D2829:por
+    amending_title: DECISÃO (UE) 2024/2829 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024
+    changes:
+    - Altera Artigo 21.º
+    - Altera Notas
 identifiers:
   celex: 32007L0002
   eli: http://data.europa.eu/eli/dir/2007/2/oj
@@ -49,7 +83,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0018
   content_url: http://publications.europa.eu/resource/cellar/4c15da8c-a680-11ef-85f0-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007L0002-20241126
-  retrieved_at: '2026-10-22T02:36:52Z'
+  retrieved_at: '2026-10-22T15:07:01Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T13:48:46.945+01:00'
 integrity:
@@ -58,9 +92,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:52Z'
-  notes: Texto consolidado 02007L0002-20241126.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:07:01Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2007-2.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -242,34 +276,19 @@ relationships:
   source: null
 article_structure:
   article_count: 26
-  section_count: 20
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 21
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:52Z'
+  checked_at: '2026-10-22T15:07:01Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2007/2/CE do Parlamento Europeu e do Conselho, de 14 de Março de 2007
-
-> 02007L0002 — PT — 26.11.2024 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R1010) — [REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1010) — L 170 — 115 — 25.6.2019
-- [►M2](http://publications.europa.eu/resource/celex/32024D2829) — [DECISÃO (UE) 2024/2829 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024](http://publications.europa.eu/resource/celex/32024D2829) — L 2829 — 1 — 6.11.2024
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32007L0002R%2802%29) — [Rectificação, JO L 010, 15.1.2009, p. 35 (2007/2/CE)](http://publications.europa.eu/resource/celex/32007L0002R%2802%29)
-
-## DIRECTIVA 2007/2/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de Março de 2007
 

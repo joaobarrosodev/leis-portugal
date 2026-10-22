@@ -1,0 +1,1073 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R3759:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R3759-19950101",
+ "dre_path": null,
+ "source_lastmod": "1995-01-01",
+ "versions": [
+  {
+   "date": "1992-12-31",
+   "future": false,
+   "celex": "31992R3759",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8d853545626844c9",
+    "eb82be4ab94f1318",
+    "e818d53fb7b0b262",
+    "a23520911ba7f717",
+    "de2ea30cf3e4b8c7",
+    "b4f65f50ca8dbd9c",
+    "bb13f5b39302f640",
+    "5dd67e94c34d3498",
+    "ad124c6782c21919",
+    "ab4201331dce516a",
+    "3cff425b29005e68",
+    "fb64ff409603a64f",
+    "d34f4b1476ce698c",
+    "f7feebbff7137011",
+    "3d96d60cf22165fc",
+    "c28d959369bd54ba",
+    "10a5d2969768382e",
+    "32318debeb8c6e69",
+    "1b1ba2fb38b9f3a7",
+    "3e28701a43079fdb",
+    "e65ced401897841e",
+    "9ca5ec952b49dcfe",
+    "ed93f45675f3e0dc",
+    "42265063857f9aa6",
+    "9844545109b2afde",
+    "150dcf34035b6b03",
+    "bbc10240efad528e",
+    "ec9903b86d0b2fa5",
+    "8496819a520fff6a",
+    "2fc4864d89a67a43",
+    "a2a8c6189a7f9d02",
+    "9b66ccadec6fe030",
+    "7ca7f32a7c425458",
+    "17b66643fad9b7ac",
+    "c93c2df6eacd89fa",
+    "b622368fa042c031",
+    "59704d4e2e63922e",
+    "f92fca94309e7252",
+    "e9d7e2ab08e10ec4",
+    "478262bd06971a71",
+    "a88c6d42baf095d9",
+    "b99229a6d395524e",
+    "b2cc967aeede60e6",
+    "d64d4213a24ec34d",
+    "0829c56da2863f1c",
+    "a2d03a5fbfe63521",
+    "70c9e0a12ca7229e",
+    "a21d00ba90c04ad1",
+    "faa700466b7c36bf",
+    "be184828048a50f3",
+    "be184828048a50f3",
+    "5f60742dc26d280c",
+    "a6c8c7a87e748ea0",
+    "a1c2c0238c55bd25",
+    "9a01f344c03cafe3",
+    "209ebbe7841b1e7b",
+    "73da0ba465660df1",
+    "3e2be9ab815c2b2e",
+    "3e2be9ab815c2b2e",
+    "843a84e5b4f3c906",
+    "843a84e5b4f3c906",
+    "33af8f06b7430919",
+    "5e52ccce6e34d015",
+    "51f474f65fb7ee29",
+    "251f38c27ac37898",
+    "5e52ccce6e34d015",
+    "bdf0d4998f1f8344",
+    "c1b98bb193bfbfcd",
+    "c1b98bb193bfbfcd",
+    "251f38c27ac37898",
+    "bf168a47463223cf",
+    "bdf0d4998f1f8344",
+    "0081a4606b1b163b",
+    "bf168a47463223cf",
+    "931ffa6404dd9314",
+    "0081a4606b1b163b",
+    "ebb5fd94aa6545ba",
+    "931ffa6404dd9314",
+    "0ff9203eef2b0e19",
+    "0f6c670fca6e7171",
+    "0eafe249e681eb8b",
+    "60d2e1f937dc8242",
+    "60d2e1f937dc8242",
+    "76bbfdc856f404d4",
+    "7411d5a890aae3a9",
+    "bdc5cebec3217bfb",
+    "d5a7ad86167debf1",
+    "0081a4606b1b163b",
+    "33853103b66b87b7",
+    "7411d5a890aae3a9",
+    "bf871c7e41d468c1",
+    "d5a7ad86167debf1",
+    "2c35350c2d1f4fe0",
+    "33853103b66b87b7",
+    "4c5e0181b1de75e5",
+    "a5ff71a9de794121",
+    "bf871c7e41d468c1",
+    "354ac0c6cbfee2a4",
+    "2c35350c2d1f4fe0",
+    "4c3478ee926a5123",
+    "a5ff71a9de794121",
+    "1f90d254c29cc176",
+    "354ac0c6cbfee2a4",
+    "6074eafbc499e22b",
+    "927e1d3197941d0d",
+    "4c3478ee926a5123",
+    "ea0c43d4f4c68f38",
+    "fe7d5d75d9e74039",
+    "1f90d254c29cc176",
+    "b3ee6b53df9b190f",
+    "6666fc3cd6c1ca56",
+    "9ccb14fbd89d1c40",
+    "927e1d3197941d0d",
+    "4be77a97c53e39fd",
+    "e169935f220e8222",
+    "9f95446276a59d47",
+    "fe7d5d75d9e74039",
+    "23c0057d3095fbd3",
+    "b3ee6b53df9b190f",
+    "ec46ddcaa1e08e06",
+    "9ccb14fbd89d1c40",
+    "dd52428de7048cc3",
+    "4be77a97c53e39fd",
+    "efb6effe89448c6d",
+    "9f95446276a59d47",
+    "145c53b0af7174b6",
+    "23c0057d3095fbd3",
+    "3b6340e580f00f83",
+    "ec46ddcaa1e08e06",
+    "80d14e78f5f32838",
+    "cdab5bf7f3dc8a00",
+    "faa700466b7c36bf",
+    "be184828048a50f3",
+    "5f60742dc26d280c",
+    "5eed8d5b63f15f2c",
+    "a1c2c0238c55bd25",
+    "d06ed18c214c0fd0",
+    "4bc1969c8ca5dc10",
+    "73da0ba465660df1",
+    "3e2be9ab815c2b2e",
+    "3e2be9ab815c2b2e",
+    "843a84e5b4f3c906",
+    "843a84e5b4f3c906",
+    "33af8f06b7430919",
+    "5e52ccce6e34d015",
+    "51f474f65fb7ee29",
+    "251f38c27ac37898",
+    "5e52ccce6e34d015",
+    "bdf0d4998f1f8344",
+    "c1b98bb193bfbfcd",
+    "c1b98bb193bfbfcd",
+    "251f38c27ac37898",
+    "bf168a47463223cf",
+    "bdf0d4998f1f8344",
+    "0081a4606b1b163b",
+    "bf168a47463223cf",
+    "931ffa6404dd9314",
+    "0081a4606b1b163b",
+    "ebb5fd94aa6545ba",
+    "931ffa6404dd9314",
+    "0ff9203eef2b0e19",
+    "0f6c670fca6e7171",
+    "0eafe249e681eb8b",
+    "60d2e1f937dc8242",
+    "60d2e1f937dc8242",
+    "76bbfdc856f404d4",
+    "7411d5a890aae3a9",
+    "bdc5cebec3217bfb",
+    "d5a7ad86167debf1",
+    "0081a4606b1b163b",
+    "33853103b66b87b7",
+    "7411d5a890aae3a9",
+    "bf871c7e41d468c1",
+    "d5a7ad86167debf1",
+    "2c35350c2d1f4fe0",
+    "33853103b66b87b7",
+    "4c5e0181b1de75e5",
+    "a5ff71a9de794121",
+    "bf871c7e41d468c1",
+    "354ac0c6cbfee2a4",
+    "2c35350c2d1f4fe0",
+    "4c3478ee926a5123",
+    "a5ff71a9de794121",
+    "1f90d254c29cc176",
+    "354ac0c6cbfee2a4",
+    "6074eafbc499e22b",
+    "927e1d3197941d0d",
+    "4c3478ee926a5123",
+    "ea0c43d4f4c68f38",
+    "fe7d5d75d9e74039",
+    "1f90d254c29cc176",
+    "b3ee6b53df9b190f",
+    "6666fc3cd6c1ca56",
+    "9ccb14fbd89d1c40",
+    "927e1d3197941d0d",
+    "4be77a97c53e39fd",
+    "e169935f220e8222",
+    "9f95446276a59d47",
+    "fe7d5d75d9e74039",
+    "23c0057d3095fbd3",
+    "b3ee6b53df9b190f",
+    "ec46ddcaa1e08e06",
+    "9ccb14fbd89d1c40",
+    "dd52428de7048cc3",
+    "4be77a97c53e39fd",
+    "efb6effe89448c6d",
+    "9f95446276a59d47",
+    "145c53b0af7174b6",
+    "23c0057d3095fbd3",
+    "3b6340e580f00f83",
+    "ec46ddcaa1e08e06",
+    "80d14e78f5f32838",
+    "cdab5bf7f3dc8a00"
+   ]
+  }
+ ],
+ "fragments": {
+  "8d853545626844c9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 3759/92 do Conselho, de 17 de Dezembro de 1992, que estabelece a organização comum de mercado no sector dos produtos da pesca e da aquicultura** *Jornal Oficial nº L 388 de 31/12/1992 p. 0001 - 0036 Edição especial finlandesa: Capítulo 4 Fascículo 4 p. 0118 Edição especial sueca: Capítulo 4 Fascículo 4 p. 0118*\n\nREGULAMENTO (CEE) No. 3759/92 DO CONSELHO de 17 de Dezembro de 1992 que estabelece a organização comum de mercado no sector dos produtos da pesca e da aquicultura\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 42o. e 43o.,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que as disposições fundamentais relativas à organização dos mercados no sector dos produtos da pesca devem ser revistas para ter em conta a evolução do mercado, as alterações registadas nos últimos anos nas actividades de pesca e as insuficiências verificadas na aplicação das regras em vigor; que, dada a quantidade e complexidade das alterações a efectuar, essas disposições, se não forem integralmente reformuladas, carecerão da clareza que deve caracterizar qualquer regulamentação; que o Regulamento (CEE) no. 3687/91 do Conselho, de 28 de Novembro de 1981, que estabelece a organização comum de mercado no sector dos produtos da pesca (3), tinha, por uma questão de clareza e de racionalidade, codificado as disposições em vigor, sem afectar a substância dos textos codificados; que, por conseguinte, é conveniente substituir o Regulamento (CEE) no. 3687/91;\n\nConsiderando que a política agrícola comum deve, nomeadamente, incluir uma organização comum dos mercados agrícolas podendo tomar diversas formas consoante os produtos;\n\nConsiderando que a pesca tem uma importância especial na economia agrícola de certas regiões costeiras da Comunidade; que esta produção representa uma parte preponderante do rendimento dos pescadores destas regiões; que convém, portanto, favorecer a estabilidade do mercado com as medidas adequadas;\n\nConsiderando que uma das medidas a tomar para pôr em prática a organização comum dos mercados é a aplicação de normas comuns de comercialização para os produtos em causa; que a aplicação destas normas deverá ter por efeito eliminar do mercado os produtos de qualidade não satisfatória e facilitar as relações comerciais na base de uma concorrência leal, contribuindo assim para melhorar a rentabilidade da produção;\n\nConsiderando que a aplicação destas normas torna necessário um controlo dos produtos submetidos à normalização; que convém, por conseguinte, prever medidas que assegurem esse controlo;\n\nConsiderando que, no âmbito das regras relativas ao funcionamento dos mercados, convém prever disposições que permitam adaptar a oferta às exigências do mercado e assegurar, na medida do possível, um rendimento equitativo para os produtores; que, tendo em conta as características do mercado dos produtos da pesca, a criação de organizações de produtores que prevejam a obrigação para os seus membros de cumprir certas regras, nomeadamente em matéria de produção e de comercialização, contribui para a realização destes objectivos;\n\nConsiderando que, a fim de reforçar a acção dessas organizações e de facilitar assim uma maior estabilidade do mercado, convém permitir aos Estados-membros alargar, sob certas condições, ao conjunto dos não membros que exercem o comércio em determinada região, as regras adoptadas pela organização na região considerada para os seus membros, especialmente no que se refere à gestão das quotas de captura autorizadas e à comercialização;\n\nConsiderando que a aplicação do regime acima descrito ocasiona despesas para as organizações cujas regras foram alargadas; que é conveniente, portanto, fazer participar nestas despesas os não membros; que convém, por outro lado, prever a possibilidade para o Estado-membro respectivo de conceder a esses operadores uma indemnização para os produtos que, embora estando em conformidade com as normas de comercialização, não puderam ser comercializados e foram retirados do mercado;\n\nConsiderando que convém prever disposições próprias para facilitar a constituição e o funcionamento dessas organizações, bem como os investimentos ocasionados pela aplicação das suas regras comuns; que, para o efeito, é conveniente permitir aos Estados-membros conceder-lhes ajudas, de que a Comunidade assegurará uma parte do financiamento; que, todavia, é conveniente limitar o montante dessas ajudas e conferir-lhes um carácter transitório degressivo, a fim de aumentar progressivamente a responsabilidade financeira dos produtores;\n\nConsiderando que convém prever, para todos os casos, disposições que assegurem que as organizações de produtores não ocupam uma posição dominante na Comunidade;\n\nConsiderando que, para certos produtos da pesca que apresentam um interesse especial para o rendimento dos produtores, e para fazer face a situações de mercado susceptíveis de conduzir a preços que provoquem perturbações no mercado comunitário, é necessário fixar para cada um desses produtos um preço de orientação representativo das zonas de produção da Comunidade, servindo para determinar o nível dos preços para as intervenções no mercado;\n\nConsiderando que, para estabilizar as cotações, é desejável que as organizações de produtores possam intervir no mercado, em especial pela aplicação do preço de retirada no interior de uma grelha, para ter em conta as flutuações sazonais dos preços de mercado;\n\nConsiderando que, em certos casos e sob determinadas condições, é oportuno apoiar a acção das organizações de produtores, concedendo-lhes compensações financeiras pelas quantidades retiradas do mercado;\n\nConsiderando que a intervenção das organizações de produtores deve ser circunscrita a excedentes pontuais que o mercado não possa absorver e que não possam ter sido evitados por medidas de outra natureza; que as compensações financeiras devem, em consequência, ser limitadas a um volume de produção a determinar;\n\nConsiderando que, para incentivar os pescadores a melhor adaptar as suas ofertas às necessidades do mercado, convém prever uma diferenciação do montante da compensação financeira em função do volume de retiradas do mercado;\n\nConsiderando que, nomeadamente em razão de penúria de certas espécies, é conveniente evitar na medida do possível a destruição de peixes de alto valor comercial que foram retirados do mercado; que, para este fim, há que conceder uma ajuda para a transformação e armazenagem, tendo em vista o consumo humano de determinadas quantidades de produtos frescos retirados; que todas as espécies passíveis de retiradas no mercado devem poder beneficiar dessa medida;\n\nConsiderando que, em relação a certas espécies, as diferenças regionais de preços não permitem, de imediato, uma integração no regime de compensação financeira concedida às organizações de produtores; que, no entanto para favorecer uma maior estabilidade do mercado dos produtos em causa, e tendo ao mesmo tempo em conta as suas características e a diversidade das suas condições de produção e comercialização, convém prever para esses produtos um regime comunitário de apoio de preços, adaptado às suas especificidades;\n\nConsiderando que um regime desse tipo, baseado na aplicação de um preço de retirada fixado de modo autónomo pelas organizações de produtores, foi introduzido a título provisório; que o mesmo prevê a possibilidade de conceder, sob determinadas condições, uma ajuda forfetária a essas organizações em relação aos produtos que tenham sido objecto de intervenções autónomas, sob a forma de retirada ou de transformação e armazenagem para consumo humano de quantidades limitadas desses produtos, que permite ainda, quando a sua aplicação conduzir a uma aproximação dos preços na sequência da evolução das condições de produção e de comercialização das espécies em causa, encarar a integração destas no regime da compensação financeira;\n\nConsiderando que a observação do mercado das espécies em causa mostra que os efeitos da aplicação do regime provisório são conformes aos objectivos prosseguidos; que, por conseguinte, é oportuno que o regime seja instituído a título permanente, segundo os mesmos princípios, procedendo-se à adaptação da lista das espécies;\n\nConsiderando que, no caso de evolução significativa dos preços de certos produtos congelados no sentido da queda, é oportuno prever a possibilidade de conceder às organizações de produtores ajudas à armazenagem privada deste produtos de origem comunitária;\n\nConsiderando que é necessário melhorar a eficácia do mecanismo de ajuda à armazenagem privada, nomeadamente à luz das especificidades da produção em causa; que, por outro lado, a evolução dessa produção exige a adaptação da lista dos produtos em questão;\n\nConsiderando que uma diminuição dos preços de importação de atuns destinados à indústria de conservas pode ameaçar o nível do rendimento dos produtores comunitários destes produto; que convém, por conseguinte, prever que sejam concedidas aos produtores indemnizações compensatórias na medida do necessário;\n\nConsiderando que, em relação ao mercado do atum, é conveniente, para racionalizar a comercialização de uma produção homogénea, reservar o bénefício da indemnização compensatória, sob determinadas condições, às organizações de produtores;\n\nConsiderando que, para determinar se existe no mercado comunitário uma situação ligada à evolução do nível dos preços no mercado mundial do atum que justifique o pagamento da indemnização compensatória, é necessário verificar que a descida dos preços no mercado comunitário resulta de uma descida dos preços de importação;\n\nConsiderando que, para não favorecer um desenvolvimento anormal da produção de atum, se justifica que sejam previstos limites dentro dos quais aquela indemnização pode ser concedida às organizações de produtores em função das condições de abastecimento constatadas no mercado comunitário;\n\nConsiderando que, todavia, é do interesse da Comunidade que a aplicação dos direitos da Pauta Aduaneira Comum seja suspensa na totalidade para certos produtos da pesca; que, na ausência de uma produção comunitária suficiente de atum, convém manter em relação às indústrias de transformação alimentar utilizadoras destes produtos condições de aprovisionamento comparáveis às de que beneficiam os países terceiros exportadores, a fim de não contrariar o seu desenvolvimento no âmbito das condições internacionais de concorrência; que os inconvenientes que podem resultar deste regime para os produtos comunitários de atuns são susceptíveis de ser compensados pela concessão das indemnizações previstas para este fim;\n\nConsiderando que a nomenclatura pautal que resulta da aplicação do presente regulamento consta da Pauta Aduaneira Comum; que é necessário retomar no presente regulamento as alterações introduzidas na Pauta Aduaneira Comum;\n\nConsiderando que a experiência mostrou que se pode revelar necessário tomar medidas aduaneiras muito rapidamente, para assegurar o respeito dos compromissos internacionais da Comunidade; que, para permitir à Comunidade fazer face a essas situações com toda a diligência necessária, convém prever um processo que permita tomar rapidamente as medidas que se impõem;\n\nConsiderando que, para certos produtos, convém tomar medidas em relação às importações provenientes de países terceiros efectuadas a preços anormalmente baixos, a fim de evitar perturbações nos mercados da Comunidade; que, para assegurar uma maior eficácia dessas medidas, convém, por um lado, melhorar o sistema de fixação dos preços de importação e, por outro lado, aumentar a lista dos produtos que podem ser submetidos ao regime de preços de referência;\n\nConsiderando que, para a maior parte dos produtos, o regime assim instaurado permite renunciar a qualquer medida de restrição quantitativa na fronteira exterior da Comunidade e apenas aplicar o direito da Pauta Aduaneira Comum efectivamente cobrado;\n\nConsiderando, todavia, que, em relação a certos produtos e para permitir à indústria comunitária de transformação adaptar as suas condições de produção para melhorar a sua competitividade face às importações em proveniência de certos países terceiros, é oportuno criar a título provisório um regime comunitário de importação em relação a determinados produtos; que esse regime deve ter por objectivo limitar, segundo critérios a definir, a evolução das quantidades importadas dos produtos em causa, respeitando as obrigações internacionais da Comunidade;\n\nConsiderando que o mecanismo de salvaguarda pode, em circunstâncias excepcionais, ser prejudicado; que, para não deixar, nesses casos, o mercado comunitário sem defesa contra as perturbações que daí possam resultar convém permitir à Comunidade que tome todas as medidas necessárias;\n\nConsiderando que, no âmbito do comércio interno da Comunidade, são proibidas pelo Tratado a percepção de quaisquer direitos aduaneiros ou taxas de efeito equivalente e a aplicação de quaisquer restrições quantitativas ou medidas de efeito equivalente;\n\nConsiderando que a realização de um mercado único assente num sistema de preços comuns ficaria comprometida pela concessão de certas ajudas; que convém, por conseguinte, tornar aplicáveis ao sector da pesca as disposições do Tratado relativas à apreciação das ajudas concedidas pelos Estados-membros e proibição das ajudas incompatíveis com o mercado comum;\n\nConsiderando que a organização comum de mercado no sector de pesca deve ter em conta, simultânea e adequadamente, os objectivos previstos nos artigos 39o. e 110o. do Tratado;\n\nConsiderando que a realização desta organização comum deve, também, ter em conta o interesse comunitário de preservação, na medida do possível, dos fundos de pesca; que terá, assim, que excluir o financiamento de medidas cujo objecto são quantidades que ultrapassam as quantidades eventualmente atribuídas aos Estados-membros;\n\nConsiderando que, para facilitar a execução das disposições previstas, convém instituir um processo de estreita cooperação entre os Estados-membros e a Comissão no âmbito de um comité de gestão;\n\nConsiderando que as despesas suportadas pelos Estados-membros resultantes da aplicação do presente regulamento incumbem à Comunidade, nos termos dos artigos 2o. e 3o. do Regulamento (CEE) no. 729/70 do Conselho, de 21 de Abril de 1970, relativo ao financiamento da política agrícola comum (4),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "eb82be4ab94f1318": {
+   "fragment_id": "Artigo 1o.",
+   "type": "artigo",
+   "heading": "Artigo 1o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o.\n\nÉ estabelecida, no sector dos produtos da pesca, uma organização comum de mercado que compreende um regime de preços e de comércio, bem como regras comuns em matéria de concorrência.\n\nPara efeitos do presente regulamento, a expressão «produtos da pesca» inclui os produtos das capturas e os produtos da aquicultura.\n\nEsta organização abrange os seguintes produtos:\n\nCódigo NC\n\nDesignação das mercadorias\n\na)\n\n0301\n\nPeixes vivos\n\n0302\n\nPeixes frescos ou refrigerados, excepto os filetes de peixe e outra carne de peixe da posição 0304\n\n0303\n\nPeixes congelados, excepto os filetes de peixe e outra carne de peixe da posição 0304\n\n0304\n\nFiletes de peixes e outra carne de peixes (mesmo picada), frescos, refrigerados ou congelados\n\nb)\n\n0305\n\nPeixes secos, salgados ou em salmoura; peixes defumados, mesmo cozidos antes ou durante a defumação; farinha de peixe própria para a alimentação humana\n\nc)\n\n0306\n\nCrustáceos, mesmo sem casca, vivos, frescos, refrigerados, congelados, secos, salgados ou em salmoura; crustáceos com casca, cozidos em água ou vapor, mesmo refrigerados, congelados, secos, salgados ou em salmoura\n\n0307\n\nMoluscos, com ou sem concha, vivos, frescos, refrigerados, congelados, secos, salgados ou em salmoura; invertebrados aquáticos, excepto crustáceos e moluscos, vivos, frescos, refrigerados, congelados, secos, salgados ou em salmoura\n\nd)\n\nProdutos de origem animal, não especificados nem compreendidos em outras posições; animais mortos dos capítulos 1 ou 3, impróprios para a alimentação humana:\n\n-Outros:\n\n--Produtos de peixes ou crustáceos, de moluscos ou de outros invertebrados aquáticos; animais mortos do capítulo 3:\n\n0511 91 10\n\n---Desperdícios de peixe\n\n0511 91 90\n\n---Outros\n\ne)\n\n1604\n\nPreparações e conservas de peixe; caviar e seus sucedâneos preparados a partir de ovos de peixe\n\nf)\n\n1605\n\nCrustáceos, moluscos e outros invertebrados aquáticos, preparados ou em conservas\n\ng)\n\nMassas alimentícias, mesmo cozidas ou recheadas (de carne ou de outras substâncias) ou preparadas de outro modo, tais como esparguete, macarrão, aletria, lasanha, nhoque, raviole e canelones; cuscuz mesmo preparado:\n\n1902 20 10\n\n-Contendo mais de 20 % de peso de peixe e crustáceos, moluscos e outros invertebrados aquáticos\n\nh)\n\nFarinhas, pós e pellets, de carnes, miudezas, peixes ou crustáceos moluscos ou outros invertebrados aquáticos, impróprios para a alimentação humana; torresmos:\n\n2301 20 00\n\n-Farinhas, pós e pellets, de peixes ou crustáceos, moluscos ou outros invertebrados aquáticos"
+  },
+  "e818d53fb7b0b262": {
+   "fragment_id": "TÍTULO I NORMAS DE COMERCIALIZAÇÃO",
+   "type": "divisao",
+   "heading": "TÍTULO I NORMAS DE COMERCIALIZAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I NORMAS DE COMERCIALIZAÇÃO"
+  },
+  "a23520911ba7f717": {
+   "fragment_id": "Artigo 2o.",
+   "type": "artigo",
+   "heading": "Artigo 2o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o.\n\n1. Em relação aos produtos referidos no artigo 1o. ou aos grupos destes produtos, podem ser estabelecidas normas comuns de comercialização assim como o seu âmbito de aplicação; essas normas podem, nomeadamente, dizer respeito à classificação por categoria de qualidade, de tamanho ou de peso, à embalagem, apresentação e rotulagem.\n\n2. Quando as normas de comercialização forem adoptadas, os produtos aos quais se aplicam não podem ser expostos para venda, postos à venda, vendidos ou comercializados de qualquer outro modo senão em conformidade com as referidas normas, sem prejuízo de disposições especiais que possam ser adoptadas para o comércio com países terceiros.\n\n3. As normas de comercialização e as respectivas regras gerais de execução incluindo as disposições especiais referidas no no. 2, serão adoptadas pelo Conselho deliberando por maioria qualificada, sob proposta da Comissão.\n\n4. As outras regras de execução, nomeadamente os ajustamentos às normas comuns de comercialização para ter em conta a evolução das condições de produção e venda, serão adoptadas de acordo com o processo previsto no artigo 32o."
+  },
+  "de2ea30cf3e4b8c7": {
+   "fragment_id": "Artigo 3o.",
+   "type": "artigo",
+   "heading": "Artigo 3o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o.\n\n1. Os produtos em relação aos quais tenham sido adoptadas normas comuns de comercialização serão submetidos pelos Estados-membros a um controlo de conformidade com essas normas.\n\nEsse controlo pode realizar-se em todos os estádios da comercialização, assim como durante o transporte.\n\n2. Os Estados-membros tomarão todas as medidas adequadas para punir as infracções ao disposto no artigo 2o.\n\n3. Os Estados-membro notificarão os outros Estados-membros e a Comissão, o mais tardar um mês após a entrada em vigor de cada norma de comercialização, do nome e do endereço dos organismos de controlo para o produto ou grupo de produtos relativamente ao qual a norma foi adoptada.\n\n4. As regras de execução do no. 1 serão, na medida do necessário, adoptadas de acordo com o processo previsto no artigo 32o., tendo em conta nomeadamente a necessidade de assegurar a coordenação das tarefas dos organismos de controlo, bem como a uniformidade de interpretação e aplicação das normas comuns de comercialização."
+  },
+  "b4f65f50ca8dbd9c": {
+   "fragment_id": "TÍTULO II ORGANIZAÇÕES DE PRODUTORES — Capítulo 1 Papel das organizações de produtores",
+   "type": "divisao",
+   "heading": "TÍTULO II ORGANIZAÇÕES DE PRODUTORES — Capítulo 1 Papel das organizações de produtores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II ORGANIZAÇÕES DE PRODUTORES — Capítulo 1 Papel das organizações de produtores"
+  },
+  "bb13f5b39302f640": {
+   "fragment_id": "Artigo 4o.",
+   "type": "artigo",
+   "heading": "Artigo 4o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o.\n\n1. Na acepção do presente regulamento, entende-se por «organização de produtores» qualquer organização ou associação de tais organizações reconhecida, constituída por iniciativa dos produtores com o objectivo de tomarem medidas próprias para assegurar o exercício racional da pesca e a melhoria das condições de venda da sua produção.\n\nEstas medidas, tendentes nomeadamente a promover a execução de planos de captura, a concentração da oferta e a regularização dos preços, devem implicar, para os membros, a obrigação de:\n\n- escoar, por intermédio da organização, o conjunto da produção do ou dos produtos relativamente ao qual ou aos quais aderiram à organização; esta pode decidir que a obrigação acima referida não se aplique desde que o escoamento seja efectuado de acordo com regras comuns previamente estabelecidas,\n\n- aplicar as regras adoptadas pela organização de produtores em matéria de produção e de comercialização, com o objectivo, nomeadamente, de melhorar a qualidade dos produtos, adaptar o volume da oferta às necessidades do mercado e assegurar a boa gestão das quotas de captura autorizadas,\n\n- aplicar, quando o Estado-membro em causa tiver previsto a gestão pelas organizações de produtores da totalidade ou parte da sua ou suas quotas de captura nacionais, dentro dos limites das quantidades atribuídas a esse Estado-membro no volume total de capturas autorizadas para a unidade populacional ou grupo de unidades populacionais em causa, as medidas necessárias para assegurar a boa gestão das quotas de captura autorizadas.\n\n2. As organizações de produtores não devem deter uma posição dominante no mercado comum, a não ser que seja necessária à prossecução dos objectivos previstos no artigo 39o. do Tratado.\n\n3. O Conselho, deliberando por maioria qualificada sob proposta da Comissão, adoptará as regras gerais de execução do presente artigo."
+  },
+  "5dd67e94c34d3498": {
+   "fragment_id": "Artigo 5o.",
+   "type": "artigo",
+   "heading": "Artigo 5o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o.\n\n1. No caso de uma organização de produtores ser considerada representativa da produção e da comercialização num ou em vários locais de desembarque situados numa parte do litoral de um Estado-membro, este pode obrigar os produtores que não sejam membros dessa organização e que comercializem qualquer dos produtos referidos no artigo 1o. na zona representada por essa mesma organização a respeitar:\n\na) As regras de comercialização ou de produção referidas no no. 1, segundo travessão do segundo parágrafo, do artigo 4o.;\n\nb) As regras adoptadas pela organização em questão em matéria de retirada e de reporte para os produtos frescos ou refrigerados referidos no segundo parágrafo, alíneas a) e c), do artigo 1o.\n\nContudo, estas regras só podem ser tornadas extensivas aos não membros, em relação aos produtos constantes do anexo I, letras A e D, se o preço de retirada for igual ao preço fixado nos termos do artigo 11o. e, em relação aos produtos enunciados no anexo I, letra E, se o preço de intervenção for igual ao preço fixado nos termos do artigo 13o.\n\nPode ser decidido que as regras atrás referidas não sejam aplicáveis a certas categorias de vendas.\n\n2. Os Estados-membros comunicarão à Comissão as regras que prevêem tornar obrigatórias nos termos do no. 1.\n\nA Comissão deve, o mais rapidamente possível e de qualquer modo num prazo de dois meses a contar da sua notificação, informar o Estado-membro em causa, por meio de uma decisão fundamentada, se as regras comunicadas podem tornar-se obrigatórias.\n\nCaso a Comissão não tome qualquer decisão dentro do prazo estipulado, o Estado-membro em causa pode tornar obrigatórias as regras comunicadas.\n\n3. Os Estados-membros tomarão todas as medidas adequadas para:\n\n- controlar o cumprimento das regras referidas no no. 1,\n\n- punir as infrações às referidas regras.\n\nOs Estados-membros comunicarão imediatamente estas medidas à Comissão.\n\n4. Sempre que for aplicável o no. 1, o Estado-membro em questão pode decidir que os que não são membros fiquem sujeitos no todo ou em parte às quotizações pagas pelos produtores membros, na medida em que estas quotizações se destinem a cobrir as despesas administrativas resultantes da aplicação do regime referido no no. 1.\n\n5. Sempre que for aplicável o no. 1, os Estados-membros devem assegurar, quando necessário, por intermédio das organizações de produtores, a retirada dos produtos que não estão em conformidade com as regras de comercialização ou que não puderam ser vendidos a um preço no mínimo igual ao preço de retirada.\n\n6. O Conselho, deliberando por maioria qualificada sob proposta da Comissão, adoptará as regras gerais de execução do presente artigo."
+  },
+  "ad124c6782c21919": {
+   "fragment_id": "Artigo 6o.",
+   "type": "artigo",
+   "heading": "Artigo 6o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o.\n\n1. Sempre que for aplicável o no. 1 do artigo 5o., o Estado-membro pode conceder uma indemnização aos produtores que não sejam membros de uma organização e que estejam estabelecidos na Comunidade, pelas quantidades de produtos:\n\n- que não puderam ser comercializados por força do no. 1, alínea a), do artigo 5, ou\n\n- que foram retirados do mercado por força do no. 1, alínea b), do mesmo artigo.\n\nEsta indemnização será concedida sem discriminação em razão da nacionalidade ou do local de estabelecimento dos beneficiários e não pode ultrapassar 60 % do montante que resulta da aplicação às quantidades retiradas:\n\n- do preço de retirada fixado nos termos do artigo 11o. em relação aos produtos enumerados no anexo I, letras A e D,\n\nou\n\n- do preço de venda fixado nos termos do artigo 13o. em relação aos produtos referidos no anexo I, letra E.\n\n2. As despesas resultantes da concessão da indemnização referida no no. 1 ficam a cargo do Estado-membro em causa."
+  },
+  "ab4201331dce516a": {
+   "fragment_id": "Capítulo 2 Ajudas às organizações de produtores",
+   "type": "divisao",
+   "heading": "Capítulo 2 Ajudas às organizações de produtores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 2 Ajudas às organizações de produtores"
+  },
+  "3cff425b29005e68": {
+   "fragment_id": "Artigo 7o.",
+   "type": "artigo",
+   "heading": "Artigo 7o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o.\n\n1. Os Estados-membros podem conceder às organizações de produtores constituídas após 1 de Janeiro de 1993 ajudas destinadas a incentivar a sua constituição e a facilitar o seu funcionamento.\n\n2. Essas ajudas referir-se-ao aos três anos seguintes à data do reconhecimento. O montante destas ajudas não pode exceder no primeiro, segundo e terceiro anos, respectivamente, 3 %, 2 % e 1 % do valor da produção comercializada, coberta pela organização de produtores. Contudo, não devem exceder durante o primeiro, segundo e terceiro anos respectivamente, 60 %, 40 % e 20 % das despesas administrativas da organização.\n\nO pagamento do montante destas ajudas é efectuado num prazo de cinco anos a contar da data do reconhecimento.\n\n3. O valor dos produtos comercializados é fixado forfetariamente para cada ano, com base:\n\n- na produção média comercializada pelos produtores membros, durante os três anos civis anteriores ao período para o qual é pedida a ajuda,\n\n- nos preços médios do produção, obtidos por esses produtores nesse mesmo período.\n\n4. Durante os cinco anos seguintes à constituição dos fundos de intervenção referidos no artigo 8o., os Estados-membros podem conceder às organizações de produtores, directamente ou por intermédio de instituições de crédito, ajudas sob a forma de empréstimos de características especiais destinadas a cobrir uma parte das despesas previsíveis relativas às intervenções no mercado referidas no artigo 8o.\n\n5. As ajudas referidas no no. 2 são comunicadas à Comissão através de um relatório que os Estados-membros lhe transmitem no fim de cada exercício orçamental.\n\nAs ajudas referidas no no. 4 serão comunicadas à Comissão logo que sejam concedidas.\n\n6. O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, adoptará as regras gerais de execução do presente artigo."
+  },
+  "fb64ff409603a64f": {
+   "fragment_id": "TÍTULO III INTERVENÇÃO — Capítulo 1 Regime de retiradas",
+   "type": "divisao",
+   "heading": "TÍTULO III INTERVENÇÃO — Capítulo 1 Regime de retiradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III INTERVENÇÃO — Capítulo 1 Regime de retiradas"
+  },
+  "d34f4b1476ce698c": {
+   "fragment_id": "Artigo 8o.",
+   "type": "artigo",
+   "heading": "Artigo 8o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o.\n\n1. Relativamente aos produtos referidos no artigo 1o., as organizações de produtores podem fixar um preço de retirada abaixo do qual não vendem os produtos fornecidos pelos seus membros.\n\nEm casos semelhantes, em relação às quantidades retiradas do mercado:\n\n- no que diz respeito aos produtos enumerados no anexo I, letras A e D, e no anexo VI, que correspondem às normas adoptadas nos termos do artigo 2o., as organizações de produtores concedem uma indemnização aos seus membros,\n\n- no que diz respeito aos outros produtos referidos no artigo 1o. e que não estão enumerados no anexo I, letras A e D, nem no anexo VI, as organizações de produtores podem conceder uma indemnização aos seus membros.\n\nPara cada produto referido no artigo 1o. pode ser fixado um nível máximo de preço de retirada, nos termos do no. 5.\n\n2. A organização de produtores deve determinar o destino dos produtos assim retirados, de modo a não entravar o escoamento normal da produção em causa.\n\n3. As organizações de produtores constituirão fundos de intervenção para o financiamento destas medidas de retirada, os quais serão alimentados por quotizações com base nas quantidades colocadas à venda ou recorrerão a um sistema de perequação.\n\n4. As organizações de produtores comunicarão às autoridades nacionais, que transmitirão à Comissão, os elementos seguintes:\n\n- lista dos produtos em relação aos quais tencionam praticar o sistema referido no no. 1,\n\n- período durante o qual os preços de retirada são aplicáveis,\n\n- níveis dos preços de retirada previstos e praticados.\n\n5. As regras de execução do presente artigo serão adoptadas do acordo com o processo previsto no artigo 32o.."
+  },
+  "f7feebbff7137011": {
+   "fragment_id": "Artigo 9o.",
+   "type": "artigo",
+   "heading": "Artigo 9o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o.\n\n1. Para cada um dos produtos que constam do anexo I, letras A, D e E, e para cada um dos produtos ou grupos de produtos enunciados no anexo II, é fixado um preço de orientação antes do início da campanha de pesca.\n\nEsses preços são aplicáveis em toda a Comunidade e fixados para cada campanha de pesca ou para cada um dos períodos em que esta se subdivide.\n\n2. O preço de orientação é fixado:\n\n- com base na média dos preços verificados nos mercados grossistas ou os portos representativos durante as três últimas campanhas de pesca anteriores àquela para que é fixado o preço, em relação a uma parte significativa da produção comunitária e a um produto com características comerciais bem definidas,\n\n- tendo em conta as perspectivas de evolução da produção e da procura.\n\nNa fixação desse preço, dever-se-á igualmente atender à necessidade de:\n\n- estabilizar os preços de mercado e evitar a formação de excedentes na Comunidade,\n\n- contribuir para a manutenção do rendimento dos produtores,\n\n- tomar em consideração os interesses dos consumidores.\n\n3. O Conselho, deliberando por maioria qualificada, fixará o nível dos preços de orientação referidos no no. 1."
+  },
+  "3d96d60cf22165fc": {
+   "fragment_id": "Artigo 10o.",
+   "type": "artigo",
+   "heading": "Artigo 10o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o.\n\n1. Enquanto durar a aplicação do preço de orientação, os Estados-membros comunicam à Comissão os preços registados nos mercados grossistas ou nos portos representativos relativamente aos produtos que tenham as características consideradas na fixação do preço de orientação.\n\n2. São de considerar como representativos, na acepção do no. 1, os mercados e os portos dos Estados-membros onde, em relação a um determinado produto, é comercializada uma parte significativa da produção comunitária.\n\n3. As regras de execução do presente artigo e a lista de mercados e portos representativos referidos no no. 2 serão adoptadas de acordo com o processo previsto no artigo 32o."
+  },
+  "c28d959369bd54ba": {
+   "fragment_id": "Artigo 11o.",
+   "type": "artigo",
+   "heading": "Artigo 11o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o.\n\n1. Para cada um dos produtos que constam do anexo I, letras A e D, será fixado um preço de retirada comunitário em função da frescura, do tamanho ou do peso e da apresentação do produto, adiante designados por «categoria de produto», aplicando o coeficiente de adaptação da categoria do produto em causa a um montante pelo menos igual a 70 % e que não exceda 90 % do preço de orientação. Estes coeficientes reflectem a relação de preços entre a categoria de produtos considerada e a tomada como base para a fixação do preço de orientação. O preço de retirada comunitário não deve, todavia, exceder, em qualquer caso, 90 % do preço de orientação.\n\n2. A fim de assegurar aos produtores das zonas de desembarque muito afastadas dos principais centros de consumo da Comunidade o acesso aos mercados em condições satisfatórias, podem ser aplicados, em relação a estas zonas, coeficientes de ajustamento aos preços referidos no no. 1.\n\n3. As regras de execução do presente artigo e, nomeadamente, a determinação da percentagem do preço de orientação que serve como elemento de cálculo dos preços de retirada comunitários e a determinação das zonas de desembarque referidas no no. 2, bem como os preços serão adoptados de acordo com o processo previsto no artigo 32o."
+  },
+  "10a5d2969768382e": {
+   "fragment_id": "Artigo 12o.",
+   "type": "artigo",
+   "heading": "Artigo 12o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o.\n\n1. Os Estados-membros concedem uma compensação financeira às organizações de produtores que efectuem intervenções, no âmbito do artigo 8o., para os produtos enumerados no anexo I, letras A e D, desde que:\n\na) O preço de retirada aplicado por essas organizações seja o preço de retirada comunitário fixado nos termos do artigo 11o., sendo, contudo, admitida uma margem de tolerância de 10 % por defeito ou por excesso em relação a esse preço, para ter em conta as flutuações sazonais dos preços de mercado;\n\nb) Os produtos retirados respeitam as normas adoptadas nos termos do artigo 2o.;\n\nc) A indemnização concedida aos produtores membros pelas quantidades retiradas do mercado seja pelo menos igual, para os vários níveis de quantidades retiradas, à percentagem do preço de retirada aplicado por estas organizações às quantidades referidas no no. 3, acrescido de 10;\n\nd) Um preço de retirada igual, no mínimo, ao preço referido no artigo 11o. seja aplicado para cada categoria do produto em questão. Todavia, uma organização de produtores que, no âmbito das medidas citadas no no. 1 do artigo 4o., proíba a venda de certas categorias de produtos não tem de aplicar os preços de retirada comunitários que se referem a essas categorias de produtos.\n\n2. A compensação financeira só é concedida se os produtos retirados do mercado forem escoados para fins diferentes do consumo humano ou em condições tais que não constituam entrave à comercialização normal dos produtos mencionados no artigo 11o.\n\n3. O montante da compensação financeira é igual a:\n\n- 87,5 % do preço de retirada aplicado pela organização de produtores em causa às quantidades retiradas do mercado pela organização de produtores em questão que não ultrapassem 7 %,\n\n- 75 % do preço de retirada aplicado pela organização de produtores em causa às quantidades retiradas do mercado pela organização de produtores em questão superiores a 7 % e que não ultrapassem 14 %,\n\n- 0 % do preço de retirada aplicado pela organização de produtores em causa às quantidades retiradas do mercado pela organização de produtores em questão que ultrapassem 14 %,\n\ndas quantidades anuais do produto considerado colocadas à venda nos termos do no. 1 do artigo 4o.\n\n4. A produção dos membros de uma organização que é retirada do mercado por aquela ou por outra organização, nos termos do artigo 5o., é tomada em consideração para fins do cálculo do montante da compensação financeira a conceder à organização a que pertencem os produtores em causa.\n\n5. O montante da compensação financeira é diminuído do valor, fixado forfetariamente, do produto destinado a fins diferentes do consumo humano ou das receitas líquidas realizadas por ocasião do escoamento dos produtos para fins de consumo humano, nos termos do no.2. O referido valor é fixado no início da campanha de pesca; porém, o seu nível é ajustado se se verificarem variações de preços importantes e duradouras nos mercados comunitários.\n\n6. As regras de execução do presente artigo serão adoptadas de acordo com o processo previsto no artigo 32o."
+  },
+  "32318debeb8c6e69": {
+   "fragment_id": "Artigo 13o.",
+   "type": "artigo",
+   "heading": "Artigo 13o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o.\n\nEm relação a cada um dos produtos que constam do anexo I, letra E, é fixado um preço de venda comunitário, de acordo com condições idênticas às previstas no artigo 11o. para a fixação do preço de retirada."
+  },
+  "1b1ba2fb38b9f3a7": {
+   "fragment_id": "Artigo 14o.",
+   "type": "artigo",
+   "heading": "Artigo 14o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o.\n\n1. Beneficiam de uma ajuda ao reporte:\n\n- os produtos, constantes do anexo I, letras A e D, retirados do mercado ao preço de retirada referido no artigo 11o.,\n\n- os produtos, constantes do anexo I, letra E, que tenham sido colocados à venda mas em relação aos quais se tenha provado que não encontraram comprador ao preço de venda comunitário fixado nos termos do artigo 13o.\n\nSerá no entanto admitida uma margem de tolerância de 10 % por defeito ou por excesso em relação a esses preços, nomeadamente para ter em conta as flutuações sazonais dos preços de mercado.\n\n2. Só podem ser objecto de uma ajuda ao reporte as quantidades que:\n\n- tenham sido fornecidas por um produtor membro,\n\n- satisfaçam certas exigências em matéria de qualidade, tamanho e apresentação,\n\n- sejam quer transformadas com vista à sua estabilização e armazenadas quer conservadas em condições e durante um período a determinar.\n\n3. Em relação a cada um dos produtos em causa, a ajuda só é concedida para as quantidades que não ultrapassem 6 % da quantidade anual dos produtos em questão colocada à venda nos termos do no. 1 do artigo 4o.\n\nO montante da ajuda não pode exceder o montante das despesas técnicas e financeiras das operações indispensáveis à estabilização e armazenagem.\n\n4. Os métodos de transformação a que se refere o presente artigo são:\n\na) - congelação,\n\n- salga,\n\n- secagem\n\n- e, quando adequado, cozedura;\n\nb) Corte em filetes e em pedaços e, se adequado, descabeçamento, quando estas operações forem acompanhadas de um dos processos enunciados na alínea a).\n\n5. As regras de execução do presente artigo serão adoptadas de acordo com o processo previsto no artigo 32o."
+  },
+  "3e28701a43079fdb": {
+   "fragment_id": "Artigo 15o.",
+   "type": "artigo",
+   "heading": "Artigo 15o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o.\n\n1. Para os produtos constantes do anexo VI, os Estados-membros concederão uma ajuda forfetária às organizações de produtores que efectuem intervenções no âmbito do artigo 8o., desde que:\n\na) Essas organizações de produtores determinem, antes do início da campanha, um preço de retirada, adiante designado «preço de retirada autónomo»; esse preço é aplicado pelas organizações de produtores durante toda a campanha, admitindo-se uma margem de tolerância de 10 % por defeito ou por excesso; esse preço não pode, porém, ser superior a 80 % do preço médio ponderado registado em relação às categorias de produtos em questão na zona de actividade das organizações de produtores em causa durante as três campanhas de pesca anteriores;\n\nb) Os produtos retirados sejam conformes às normas adoptadas nos termos do artigo 2o.;\n\nc) A indemnização concedida aos produtores membros pelas quantidades de produtos retiradas do mercado seja igual ao preço de retirada autónomo aplicado por essas organizações.\n\n2. A ajuda forfetária será concedida em relação às quantidades retiradas do mercado que tenham sido colocadas à venda nos termos do no. 1 do artigo 4o. e que sejam escoadas por forma a não entravar o escoamento normal da produção em causa.\n\n3. O montante da ajuda forfetária será igual a 75 % do preço de retirada autónomo aplicado durante a campanha em curso, sendo este montante diminuído do valor, fixado forfetariamente, do produto escoado como indicado no no. 2.\n\n4. A ajuda forfetária será igualmente concedida em relação às quantidades retiradas do mercado que sejam quer transformadas com vista à sua estabilização e armazenadas quer conservadas em condições e durante um período a determinar. Nesse caso, o montante da ajuda forfetária não pode ser superior ao montante dos custos técnicos e financeiros das operações indispensáveis à estabilização e armazenagem.\n\n5. A soma das quantidades elegíveis para a ajuda forfetária, nos termos dos no. 2 e 4, não pode ultrapassar 10 % das quantidades anuais dos produtos em causa colocadas à venda nos termos do no. 1 do artigo 4o.\n\n6. Os Estados-membros em causa instituirão um regime de controlo que permita assegurar que os produtos em relação aos quais seja pedida a ajuda forfetária têm o direito de dela beneficiar.\n\nPara efeitos de controlo, os beneficiários da ajuda forfetária manterão uma contabilidade de existências segundo critérios a determinar. Os Estados-membros enviarão à Comissão, em intervalos a determinar, um quadro que indique, por produto e por categoria de produto, os preços médios registados nos mercados ou nos portos representativos.\n\n7. O Conselho, deliberando por maioria qualificada sob proposta da Comissão, decidirá, em função da aproximação dos preços das espécies visadas pelo presente artigo, da inclusão dessas espécies na lista de produtos constantes do anexo I, letra A.\n\n8. As regras de execução do presente artigo serão adoptadas de acordo com o processo previsto no artigo 32o."
+  },
+  "e65ced401897841e": {
+   "fragment_id": "Capítulo 2 Ajuda à armazenagem privada",
+   "type": "divisao",
+   "heading": "Capítulo 2 Ajuda à armazenagem privada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 2 Ajuda à armazenagem privada"
+  },
+  "9ca5ec952b49dcfe": {
+   "fragment_id": "Artigo 16o.",
+   "type": "artigo",
+   "heading": "Artigo 16o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o.\n\n1. Em relação aos produtos constantes do anexo II, pode ser concedida uma ajuda à armazenagem privada às organizações de produtores que apliquem o no. 1 do artigo 4o. à produção e à comercialização, durante a campanha em curso.\n\n2. A ajuda à armazenagem privada será concedida sempre que os preços médios obtidos para um produto colocado à venda pelas organizações de produtores durante um período significativo a determinar forem inferiores a 85 % do preço de orientação referido no no. 1 do artigo 9.\n\n3. Só podem ser objecto de ajuda à armazenagem privada os produtos:\n\n- que tenham sido pescados, congelados a bordo e desembarcados na Comunidade por um membro de uma organização de produtores,\n\n- cujas quantidades não excedam 15 % da quantidade média do produto em causa posta à venda na Comunidade, nos termos do artigo 4o., durante o mesmo período das três últimas campanhas de pesca que antecedem a campanha em relação à qual é concedida a ajuda. Contudo, as quantidades susceptíveis de beneficiar da ajuda não podem exceder 15 % da quantidade posta à venda durante o período em curso,\n\n- que sejam armazenados durante um período mínimo e reintroduzidos no mercado comunitário.\n\n4. O montante da ajuda à armazenagem privada não pode exceder o montante das despesas técnicas e dos juros durante um período máximo de três meses. Esse montante é fixado mensalmente de forma degressiva.\n\n5. As regras de execução do presente artigo, nomeadamente o montante e as condições de concessão da ajuda à armazenagem privada, serão adoptadas de acordo com o processos previsto no artigo 32o."
+  },
+  "ed93f45675f3e0dc": {
+   "fragment_id": "Capítulo 3 Atum destinado à indústria de conservas",
+   "type": "divisao",
+   "heading": "Capítulo 3 Atum destinado à indústria de conservas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 3 Atum destinado à indústria de conservas"
+  },
+  "42265063857f9aa6": {
+   "fragment_id": "Artigo 17o.",
+   "type": "artigo",
+   "heading": "Artigo 17o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o.\n\n1. Em relação aos produtos mencionados no anexo III, será fixado um preço de produção comunitário antes do início da campanha de pesca.\n\nEsse preço será aplicável em toda a Comunidade e será fixado para cada campanha de pesca.\n\n2. O preço de produção comunitário é fixado:\n\n- com base na media dos preços verificados nos mercados grossistas ou nos portos representativos durante as três últimas campanhas de pesca anteriores àquela para que é fixado o preço, em relação a uma parte significativa da produção comunitária e a um produto com características comerciais bem definidas,\n\n- tendo em conta as perspectivas de evolução da produção e da procura.\n\nNa fixação desse preço, dever-se-á igualmente atender à necessidade de:\n\n- tomar em consideração as correntes de abastecimento da indústria comunitária de conservas,\n\n- contribuir para a manutenção do rendimento dos produtores,\n\n- evitar a formação de excedentes na Comunidade.\n\n3. Antes do início de cada campanha de pesca, o Conselho, deliberando por maioria qualificada sob proposta da Comissão, fixará o nível do preço de produção comunitário referido no no. 1.\n\n4. Os Estados-membros comunicarão à Comissão os preços médios mensais registados nos mercados grossistas ou nos portos representativos para os produtos de origem comunitária referidos no no. 1 e definidos nas suas características comerciais.\n\n5. Devem-se considerar representativos, na acepção do no. 4, os mercados e os portos dos Estados-membros onde é comercializada uma parte significativa da produção comunitária de atum.\n\n6. As regras de execução do presente artigo, nomeadamente a fixação dos coeficientes de adaptação aplicáveis às diversas espécies, tamanhos e formas de apresentação do atum, bem como a lista dos mercados e dos portos representativos referidos no no. 4, serão adoptadas de acordo com o processo previsto no artigo 32."
+  },
+  "9844545109b2afde": {
+   "fragment_id": "Artigo 18o.",
+   "type": "artigo",
+   "heading": "Artigo 18o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o.\n\n1. Para os produtos constantes do anexo III e dentro dos limites referidos no no. 4, será concedida uma indemnização às organizações de produtores sempre que se verifique, simultaneamente, em relação a um trimestre civil, que:\n\n- o preço de venda médio registado no mercado comunitário\n\ne\n\n- o preço franco-fronteira referido no artigo 24o. acrescido, se for caso, do direito de compensação que tenha sido objecto,\n\nse situam a um nível inferior a um limiar de desencadeamento igual a 93 % do preço de produção comunitário do produto em causa.\n\n2. A indemnização será concedida às organizações de produtores nas condições e limites estipulados no presente artigo e em relação às quantidades de produto em questão pescadas pelos seus membros e que tenham sido vendidas e entregues, durante o período em causa, à industria de conservas estabelecida no território aduaneiro da Comunidade.\n\n3. O montante da indemnização não pode exceder:\n\n- a diferença entre o limiar de desencadeamento e o preço média de venda do produto em questão registado no mercado comunitário ou,\n\n- um montante forfetário igual a 12 % desse limiar ou,\n\n- para cada organização de produtores, a diferença entre esse limar e o preço médio de venda cobrado por essa organização de produtores.\n\n4. Durante o trimestre em relação ao qual a indemnização é concedida, o volume global das quantidades susceptíveis de beneficiar da indemnização não pode, em caso algum, exceder:\n\n- 62,8 % das quantidades de atum utilizadas pela indústria comunitária de conservas durante o mesmo trimestre,\n\n- a média das quantidades vendidas e entregues, nas condições referidas no no. 2, no decurso do mesmo trimestre das três campanhas de pesca anteriores ao trimestre em relação ao qual a indemnização é paga,\n\n- 110 % da média das quantidades vendidas e entregues, nas condições referidas no no. 2, durante o mesmo trimestre das campanhas de pesca de 1984 a 1986.\n\n5. Dentro dos limites referidos no no. 4, o montante da indemnização concedida a cada organização de produtores será igual:\n\n- ao montante definido no no. 3, para as quantidades do produto em causa escoadas nos termos do no. 2 que não sejam superiores à média das quantidades vendidas e entregues nas mesmas condições pelos seus membros no decurso do mesmo trimestre das campanhas de refêrencia de 1984 a 1986,\n\n- a 95 % do montante definido no no. 3, para as quantidades do produto em causa que sejam superiores à média das quantidades referidas no primeiro travessão sem ultrapassar 110 % dessas quantidades,\n\n- a 90 % do montante definido no no. 3, para as quantidades do produto em causa superiores às definidas no segundo travessão que sejam iguais ao saldo das quantidades resultantes da repartição entre as organizações de produtores das quantidades elegíveis ao abrigo do no. 4.\n\nA repartição será feita entre as organizações de produtores em questão na proporção da respectiva produção durante o mesmo trimestre das campanhas de 1984 a 1986.\n\n6. As organizações de produtores repartirão a indemnização concedida aos seus membros proporcionalmente às quantidades por estes produzidas e entregues nas condições referidas no no. 2.\n\nA indemnização paga pela organização de produtores aos seus membos será acrescida de uma compensação igual a: - 2,5 % do montante definido no no. 3, quando o montante pago à organização de produtores for igual a esse montante,\n\n- 5 % do montante definido no no. 3, quando o montante pago à organização de produtores for igual a 95 % desse montante,\n\n- 10 % do montante definido no no. 3, quando o montante pago à organização de produtores for igual a 90 % desse montante.\n\nEssa compensação será financiada por um fundo constituído nos termos do no. 3 do artigo 9o.\n\n7. O Conselho, deliberando por maioria qualificada sob proposta da Comissão, adoptará as regras gerais relativas à atribuição da indemnização.\n\n8. As regras de execução do presente artigo, nomeadamente o montante e as condições de atribuição da indemnização, serão adoptadas de acordo com o processo previsto no artigo 32o.\n\n9. Até 30 de junho de 1994, a Comissão deverá apresentar um relatório sobre a situação do mercado do atum e o funcionamento do regime e das disposições existentes, acompanhado, se necessário, das propostas adequadas. O Conselho, deliberando em conformidade com os procedimentos definidos no artigo 43o. do Tratado, decidirá sobre estas propostas até 31 de Dezembro de 1994."
+  },
+  "150dcf34035b6b03": {
+   "fragment_id": "TÍTULO IV TROCAS COMERCIAIS COM PAÍSES TERCEIROS — Capítulo 1 Regime aduaneiro",
+   "type": "divisao",
+   "heading": "TÍTULO IV TROCAS COMERCIAIS COM PAÍSES TERCEIROS — Capítulo 1 Regime aduaneiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV TROCAS COMERCIAIS COM PAÍSES TERCEIROS — Capítulo 1 Regime aduaneiro"
+  },
+  "bbc10240efad528e": {
+   "fragment_id": "Artigo 19o.",
+   "type": "artigo",
+   "heading": "Artigo 19o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o.\n\n1. A nomenclatura pautal e estatística da Pauta Aduaneira Comum é alterada nos termos do anexo VII.\n\n2. As regras gerais de interpretação da Pauta Aduaneira Comum e as regras especiais para a sua aplicação são aplicáveis à classificação dos produtos abrangidos pelo presente regulamento; a nomenclatura pautal resultante da aplicação do presente regulamento é retomada na Pauta Aduaneiro Comum.\n\n3. Salvo disposição em contrário do presente regulamento ou derrogação decidida pelo Conselho, deliberando por maioria qualificada, sob proposta da Comissão, são proibidas:\n\n- a cobrança de qualquer taxa de efeito equivalente a um direito aduaneiro,\n\n- a aplicação de qualquer restrição quantitativa."
+  },
+  "ec9903b86d0b2fa5": {
+   "fragment_id": "Artigo 20o.",
+   "type": "artigo",
+   "heading": "Artigo 20o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o.\n\n1. Em caso de emergência causada:\n\n- por dificuldades de abastecimento do mercado comunitário,\n\nou\n\n- pelo cumprimento de compromissos internacionais,\n\npode ser decidida a suspensão total ou parcial dos direitos da Pauta Aduaneira Comum para os produtos referidos no artigo 1o., de acordo com o processo previsto no artigo 32o.\n\n2. A Comissão informará o Parlamento Europeu e o Conselho de qualquer decisão tomada nos termos do no. 1."
+  },
+  "8496819a520fff6a": {
+   "fragment_id": "Capítulo 2 Disposições especiais relativas a determinados produtos",
+   "type": "divisao",
+   "heading": "Capítulo 2 Disposições especiais relativas a determinados produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 2 Disposições especiais relativas a determinados produtos"
+  },
+  "2fc4864d89a67a43": {
+   "fragment_id": "Artigo 21o.",
+   "type": "artigo",
+   "heading": "Artigo 21o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o.\n\n1. Por um período de quatro anos a contar da entrada em vigor do presente regulamento, as importações anuais para a Comunidade dos produtos em conserva mencionados no anexo IV, letra C, são limitadas a um montante máximo igual ao volume total de importações dos mesmo produtos registado em 1991, adiante designado «ano de referência», afectado de uma taxa anual de aumento.\n\nTodavia, em relação aos produtos do anexo IV, letra C, ponto 1, apenas são abrangidos pelo presente artigo os produtos fabricados a partir de sardinhas de espécie sardina pilchardus, de acordo com as normas definidas no Regulamento (CEE) no. 2136/89 do Conselho, de 21 de Junho de 1989, que fixa normas comuns de comercialização para as conservas de sardinha (¹). Em relação aos produtos do anexo IV, letra C, ponto 2, apenas são abrangidos pelo presente artigo os produtos fabricados das espécies incluídas no anexo ao Regulamento (CEE) no. 1536/92 do Conselho, de 9 de Junho de 1992, que fixa normas comuns de comercialização para as conservas de atum e de bonito (²), de acordo com as normas definidas no referido regulamento.\n\n2. A taxa anual de aumento referida no no. 1 é a que resulta da média aritmética das taxas de evolução do consumo dos produtos em causa na Comunidade, durante o ano de referência e os dois anos anteriores, sem poder ser inferior a uma taxa mínima de 6 %.\n\n3. A taxa anual de aumento definida no no. 2 é aplicável ao cálculo do montante máximo anual referido no no. 1 a contar do primeiro ano seguinte ao ano de referência.\n\n(¹) JO no. L 212 de 22. 7. 1989, p. 79.\n\n(²) JO no. L 163 de 17. 6. 1992, p. 1.\n\n4. O presente artigo será aplicado de acordo com o disposto no artigo 11o. do Regulamento (CEE) no. 288/82 do Conselho, de 5 de Fevereiro de 1982, relativo ao regime comum aplicável às importações (³).\n\n5. As outras regras de execução serão adoptadas de acordo com o processo previsto no artigo 32o."
+  },
+  "a2a8c6189a7f9d02": {
+   "fragment_id": "Capítulo 3 Preços de referência",
+   "type": "divisao",
+   "heading": "Capítulo 3 Preços de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 3 Preços de referência"
+  },
+  "9b66ccadec6fe030": {
+   "fragment_id": "Artigo 22o.",
+   "type": "artigo",
+   "heading": "Artigo 22o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o.\n\n1. Para os produtos enumerados nos anexos I, II, III, IV, letra B, e no anexo V são fixados anualmente e por categoria de produto preços de referência válidos para a Comunidade, a fim de evitar perturbações causadas por fornecimentos provenientes de países terceiros feitos a preços anormalmente baixos ou em condições tais que comprometam as medidas de estabilização referidas nos artigos 11o., 12o., 13o., 14o., 16o. ou 17o., sob reserva dos processos de consulta previstos para certos produtos de acordo com os compromissos internacionais da Comunidade no âmbito do Acordo Geral sobre Pautas Aduaneiras e Comércio (GATT).\n\n2. Para os produtos constantes do anexo I, letras A, e D, o preço de referência é igual ao preço de retirada fixado nos termos do no. 1 do artigo 11o. Para os produtos indicados no anexo I, letra C, o preço de referência é fixado com base no preço de referência dos produtos constantes do anexo I, letra A, tendo em conta os custos de transformação e a necessidade de assegurar uma relação de preços em conformidade com a situação do mercado.\n\nEm relação aos produtos que constam do anexo I, letra E, o preço de referência é igual ao preço de venda comunitário fixado nos termos do artigo 13o.\n\nPara os produtos constantes do anexo I, letra B, do anexo IV, letra B, e do anexo V, o preço de referência é determinado com base na média dos preços de referência do produto em fresco e tendo em conta os custos de transformação e a necessidade de assegurar uma relação de preços em conformidade com a situação do mercado. Na falta de preço de referência para um produto fresco, este preço é determinado com base no preço de referência aplicado a um produto fresco comercialmente similar.\n\nPara os produtos constantes do anexo II, o preço de referência é derivado do preço de orientação referido no no. 1 do artigo 9o. em função do nível especificado no no. 2 (³) JO no. L 35 de 9. 2. 1982, p. 1. Com a última redacção que lhe foi dada pelo Regulamento (CEE) no. 848/92 (JO no. L 89 de 4. 4. 1992, p. 1).\n\ndo artigo 16o. a partir do qual podem ser desencadeadas as medidas de intervenção previstas nesse número e é fixado tendo em conta a situação do mercado desses produtos.\n\nPara os atuns referidos no anexo III destinados à indústria de conservas, o preço de referência é determinado com base na média ponderada dos preços franco-fronteira registados nos mercados ou portos de importação mais representativos dos Estados-membros durante os três anos anteriores à data da fixação do preço de referência, diminuída de um montante igual aos direitos aduaneiros e taxas que incidam sobre estes produtos, assim como das despesas de desembarque e transporte desde os pontos de passagem na fronteira da Comunidade até esses mercados ou portos.\n\nEm relação às diferentes variedades de atum e às diferentes formas de apresentação, aplicam-se os coeficientes de adaptação fixados de acordo com o processo previsto no no. 5 do artigo 17o.\n\n3. Para os produtos enunciados no anexo I, letras A, D e E, é estabelecido um preço franco-fronteira com base nos preços registados pelos Estados-membros para as diferentes categorias de produtos numa determinada fase comercial para o produto importado nos mercados ou nos portos de importação representativos, depois de reduzido um montante igual ao direito aduaneiro da Pauta Aduaneira Comum efectivamente cobrado e quaisquer taxas que incidam sobre estes produtos, assim como das despesas de desembarque e transporte desde os pontos de passagem na fronteira da Comunidade até esses mercados ou portos.\n\nPara os produtos enumerados no anexo I, letras B e C, nos anexos II, III, IV, letra B, e no anexo V, é estabelecido um preço franco-fronteira com base no preço registado em cada Estado-membro para as quantidades comerciais habituais importadas na Comunidade, depois de deduzido um montante igual ao direito aduaneiro da Pauta Aduaneira Comum efectivamente cobrado e quaisquer taxas que incidam sobre estes produtos, assim como das despesas de desembarque e de transporte.\n\nOs Estados-membros comunicarão regularmente à Comissão:\n\n- os preços dos produtos, referidos no primeiro parágrafo, registados nos mercados ou portos representativos,\n\n- os preços dos produtos referidos no segundo parágrafo.\n\n4. Se o preço franco-fronteira de um determinado produto, importado de países terceiros, for inferior ao preço de referência e se forem importadas quantidades significativas desse produto:\n\na) Pode ser suprimido o benefício da suspensão autónoma dos direitos da Pauta Aduaneira Comum nas importações em relação às quais se verifique que o preço franco-fronteira é inferior ao preço de referência;\n\nb) Para os produtos constantes do anexo I, letras A (com excepção do produto mencionado no ponto 3), C, D e E, dos anexos II e IV, letra B, e do anexo V, as importações podem ficar sujeitas à condição de o preço franco-fronteira determinado nos termos do no. 3 ser, no mínimo, igual ao preço de referência;\n\nc) Para os produtos enumerados no anexo I, letra A, ponto 3, e letra B, e no anexo III, as importações podem ser submetidas à cobrança de um direito de compensação, no respeito das regras de consolidação do GATT. Todavia, se só forem efectuadas importações provenientes de determinados países ou referentes apenas a determinadas espécies, a preços de entrada inferiores ao preço de referência, o direito de compensação incide apenas sobre as importações provenientes desses países ou as importações dessas espécies.\n\nO montante do direito de compensação é igual à diferença entre o preço de referência e o preço franco-fronteira. Esse direito, de igual montante para todos os Estados-membros, acrescenta-se aos direitos aduaneiros em vigor.\n\n5. Contudo, as medidas referidas na alínea c) do no. 4 não são aplicáveis aos países terceiros que assumam o compromisso de garantir que, em determinadas condições, os seus produtos serão oferecidos a preços a calcular nos termos do no. 3, pelo menos iguais ao preço de referência, e que respeitem efectivamente este preço nas suas entregas com destino à Comunidade.\n\n6. As regras de execução do presente artigo, nomeadamente o nível do preço de referência, serão adoptadas de acordo com o processo previsto no artigo 32o. A aplicação ou a revogação das medidas previstas no no. 4 serão decididas de acordo com o mesmo processo.\n\nContudo, essas medidas serão adoptadas pela Comissão, nos intervalos entre as reuniões periódicas do Comité de Gestão. Neste caso, são válidas até à entrada em vigor de eventuais medidas tomadas de acordo com o processo previsto no artigo 32o."
+  },
+  "7ca7f32a7c425458": {
+   "fragment_id": "Artigo 23o.",
+   "type": "artigo",
+   "heading": "Artigo 23o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o.\n\n1. Para os produtos referidos no anexo IV, letra A, podem ser fixados preços de referência antes do início de cada campanha de comercialização, a fim de evitar perturbações causadas por fornecimentos provenientes de países terceiros a preços anormalmente baixos. Esses preços podem ser diferenciados por períodos a determinar durante a campanha de comercialização e em função das flutuações sazonais dos preços.\n\n2. Os preços de referências referidos no no. 1 serão fixados com base na média dos preços de produção registados durante os três anos anteriores à data da fixação do preço de referência para um produto com características comerciais definidas nas zonas de produção representativas da Comunidade.\n\n3. Se o preço franco-fronteira válido para uma remessa usual dos produtos referidos no no. 1 de determinada proveniência for inferior ao preço de referência, as importações destes produtos provenientes do país terceiro em questão podem ser sujeitas, no respeito das regras de consolidação do GATT, à cobrança de um direito de compensação igual à diferença entre o preço de referência e o preço franco-fronteira, acrescido do direito aduaneiro da Pauta Aduaneira Comum efectivamente cobrado. A Comissão acompanhará regularmente a evolução dos preços franco-fronteira de produtos importados das diferentes proveniências.\n\n4. Todavia, o direito de compensação referido no no. 3 não é cobrado em relação a países terceiros que estejam aptos a garantir que, na importação na Comunidade dos produtos mencionados no no. 1 originários e provenientes do seu território, o preço praticado, acrescido do direito aduaneiro da Pauta Aduaneira Comum efectivamente cobrado, não será inferior ao preço de referência e que será evitado qualquer desvio de tráfico.\n\n5. As regras de execução do presente artigo, nomeadamente no que respeita ao nível dos preços de referência, serão adoptadas de acordo com o processo previsto no artigo 32o. A instituição, modificação ou revogação do direito de compensação e a admissão de países terceiros ao benefício do no. 4 serão decididas de acordo com o mesmo processo."
+  },
+  "17b66643fad9b7ac": {
+   "fragment_id": "Capítulo 4 Medidas de emergência",
+   "type": "divisao",
+   "heading": "Capítulo 4 Medidas de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 4 Medidas de emergência"
+  },
+  "c93c2df6eacd89fa": {
+   "fragment_id": "Artigo 24o.",
+   "type": "artigo",
+   "heading": "Artigo 24o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24o.\n\n1. Se, devido às importações ou exportações, o mercado comunitário de um ou mais dos produtos referidos no artigo 1o. sofrer ou estiver ameaçado de sofrer perturbações graves susceptíveis de pôr em perigo os objectivos do artigo 39o. do Tratado, podem ser aplicadas medidas apropriadas nas trocas comerciais com países terceiros, até que essa perturbação ou ameaça de perturbação tenha desaparecido.\n\nO Conselho, deliberando por maioria qualificada, sob proposta da Comissão, adoptará as regras de execução do presente número.\n\n2. Se se verificar a situação referida no no. 1, a Comissão, a pedido de um Estado-membro ou por sua própria iniciativa, decidirá das medidas necessárias que serão comunicadas aos Estados-membros e imediatamente aplicáveis. Se for apresentado à Comissão um pedido de um Estado-membro, esta decidirá no prazo de cinco dias úteis a contar da recepção do pedido.\n\n3. Qualquer Estado-membro pode submeter à apreciação do Conselho as medidas tomadas pela Comissão, no prazo de cinco dias úteis a contar da data da comunicação. O Conselho reunir-se-á de imediato e pode, deliberando por maioria qualificada, alterar ou revogar as medidas em causa."
+  },
+  "b622368fa042c031": {
+   "fragment_id": "TÍTULO V DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "TÍTULO V DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V DISPOSIÇÕES GERAIS"
+  },
+  "59704d4e2e63922e": {
+   "fragment_id": "Artigo 25o.",
+   "type": "artigo",
+   "heading": "Artigo 25o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25o.\n\n1. As ajudas concedidas pelos Estados-membros dos no.s 1 e 2 do artigo 7o. são reembolsadas pelo Fundo Europeu de Orientação e Garantia Agrícola (FEOGA), secção «Orientação», na proporção de 50 % do seu montante.\n\n2. O financiamento das medidas de intervenção, previsto nos artigos 6o., 12o., 14o., 15o., 16o. e 18o., é concedido apenas aos produtos provenientes de uma unidade populacional ou grupo de unidades populacionais, até ao limite das quantidades eventualmente atribuídas ao Estado-membro em questão, com base no volume global de capturas autorizadas por unidade populacional ou grupo de unidades populacionais em questão.\n\n3. As regras de execução do presente artigo serão adoptadas de acordo com o processo previsto no artigo 32o."
+  },
+  "f92fca94309e7252": {
+   "fragment_id": "Artigo 26o.",
+   "type": "artigo",
+   "heading": "Artigo 26o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26o.\n\nSem prejuízo de outras disposições comunitárias, os Estados-membros adoptarão as disposições necessárias para assegurar, entre todos os navios de pesca que arvorem pavilhão de um Estado-membro, a igualdade de condições de acesso aos portos e às instalações de primeira colocação no mercado, assim como a todos os equipamentos e a todas as instalações técnicas que deles dependam."
+  },
+  "e9d7e2ab08e10ec4": {
+   "fragment_id": "Artigo 27o.",
+   "type": "artigo",
+   "heading": "Artigo 27o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27o.\n\nSem prejuízo de disposições em contrário adoptadas nos termos dos artigos 42o. e 43o. do Tratado, os artigos 92o., 93o. e 94o. do Tratado são aplicáveis à produção e ao comércio dos produtos referidos no artigo 1o."
+  },
+  "478262bd06971a71": {
+   "fragment_id": "Artigo 28o.",
+   "type": "artigo",
+   "heading": "Artigo 28o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28o.\n\nQuando se verifique, no mercado comunitário, uma subida de preços que ultrapasse em mais de certa percentagem a determinar um dos preços de orientação referidos no no. 1 do artigo 9o. ou o preço de produção comunitário mencionado no no. 1 do artigo 17o. e quando essa situação possa persistir e perturbe ou ameace perturbar o mercado, podem ser adoptadas as medidas necessárias para remediar a situação.\n\nO Conselho, deliberando por maioria qualificada, sob proposta da Comissão, adoptará as regras gerais de execução do presente artigo."
+  },
+  "a88c6d42baf095d9": {
+   "fragment_id": "Artigo 29o.",
+   "type": "artigo",
+   "heading": "Artigo 29o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29o.\n\nO Conselho, deliberando por maioria qualificada, sob proposta da Comissão, pode alterar os anexos do presente regulamento e as percentagens referidas nos artigos 11o. e 16o."
+  },
+  "b99229a6d395524e": {
+   "fragment_id": "Artigo 30o.",
+   "type": "artigo",
+   "heading": "Artigo 30o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30o.\n\nOs Estados-membros e a Comissão comunicarão reciprocamente os dados necessários à aplicação do presente regulamento. As regras relativas à comunicação e à divulgação desses dados serão adoptadas de acordo com o processo previsto no artigo 32o."
+  },
+  "b2cc967aeede60e6": {
+   "fragment_id": "Artigo 31o.",
+   "type": "artigo",
+   "heading": "Artigo 31o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31o.\n\nÉ instituído o Comité de Gestão dos Produtos da Pesca, adiante designado «o comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão."
+  },
+  "d64d4213a24ec34d": {
+   "fragment_id": "Artigo 32o.",
+   "type": "artigo",
+   "heading": "Artigo 32o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32o.\n\nSempre que se faça referência ao processo definido no presente artigo, o comité é convocado pelo seu presidente, quer por sua própria iniciativa, quer a pedido do representante de um Estado-membro.\n\nO representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no no. 2 do artigo 148o. do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\nA Comissão adoptará medidas que serão imediatamente aplicáveis. Todavia, se não forem conformes com o parecer emitido pelo comité, essas medidas serão imediatamente comunicadas pela Comissão ao Conselho. Nesse caso, a Comissão pode diferir, por um período máximo de um mês, a contar da data dessa comunicação, a aplicação das medidas que aprovou.\n\nO Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo previsto no parágrafo anterior."
+  },
+  "0829c56da2863f1c": {
+   "fragment_id": "Artigo 33o.",
+   "type": "artigo",
+   "heading": "Artigo 33o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33o.\n\nO comité pode examinar qualquer outra questão apresentada pelo seu presidente, quer por iniciativa deste quer a pedido do representante de um Estado-membro."
+  },
+  "a2d03a5fbfe63521": {
+   "fragment_id": "Artigo 34o.",
+   "type": "artigo",
+   "heading": "Artigo 34o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34o.\n\nO presente regulamento deve ser aplicado de modo a que sejam tidos em conta, simultânea e adequadamente, os objectivos previstos nos artigos 39o. e 110o. do Tratado."
+  },
+  "70c9e0a12ca7229e": {
+   "fragment_id": "Artigo 35o.",
+   "type": "artigo",
+   "heading": "Artigo 35o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35o.\n\n1. Ficam revogados os regulamentos (CEE) no. 3687/91, (CEE) no. 2202/82 (¹), e (CEE) no. 2203/82 (²) a partir da data de entrada em vigor do presente regulamento.\n\n2. As remissões para o Regulamento (CEE) no. 3687/91 entendem-se como sendo feitas para o presente regulamento e devem ser lidas de acordo com a tabela de correspondências que consta do anexo VIII."
+  },
+  "a21d00ba90c04ad1": {
+   "fragment_id": "Artigo 36o.",
+   "type": "artigo",
+   "heading": "Artigo 36o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36o.\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1993.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 17 de Dezembro de 1992.\n\nPelo Conselho\n\nO Presidente\n\nR. NEEDHAM\n\n(1) JO no. C 305 de 23. 11. 1992,(2) JO no. C 313 de 30. 11. 1992 p. 22.(3) JO no. L 354 de 23. 12. 1991, p. 1.(4) JO no. L 94 de 28. 4. 1970, p. 13. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) no. 2048/88 (JO no. L 185 de 15. 7. 1988, p. 1).(5) JO no. L 235 de 10. 8. 1982, p. 1.(6) JO no. L 235 de 10. 8. 1982, p. 4."
+  },
+  "faa700466b7c36bf": {
+   "fragment_id": "ANEXO I — Código NC",
+   "type": "divisao",
+   "heading": "ANEXO I — Código NC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Código NC\n\nDesignação das mercadorias\n\nA. Produtos frescos ou refrigerados das posições 0302 e 0307:\n\n1. 0302 22 00\n\nSolhas ou patruças (Pleuronectes platessa)\n\n2. ex 0302 29 90\n\nSolha escura do mar do norte (Limanda limanda)\n\n3. 0302 29 10\n\nArceiro (Lepidorhombus spp.)\n\n4. ex 0302 29 90\n\nAzevias (Platichtys flesus)\n\n5. 0302 31 10 e\n\n0302 31 90\n\nAtuns brancos ou germões (thunnus alalunga)\n\n6. ex 0302 40\n\nArenques da espécie Clupea harengus\n\n7. 0302 50 10\n\nBacalhau-do-atlântico da espécie Gadus morhua\n\n8. 0302 61 10\n\nSardinhas da espécie Sardina pilchardus\n\n9. 0302 62 00\n\nEglefinos ou arincas (Melanogrammus aeglefinus)\n\n10. 0302 63 00\n\nEscamudos negros (Pollachius virens)\n\n11. ex 0302 64\n\nCavalas, cavalinhas e sardas das espécies Scomber scombrus e Scomber japonicus\n\n12. 0302 65 20 e\n\n0302 65 50\n\nGalhudo malhado e pata-roxas (Squalus acanthias e Scyliorhinus spp.)\n\n13. 0302 69 31 e\n\n0302 69 33\n\nCantarilhos do Norte (Sebastes spp.)\n\n14. 0302 69 41\n\nBadejos (Merlangus merlangus)\n\n15. 0302 69 45\n\nLingues ou marucas (Molva spp.)\n\n16. 0302 69 55\n\nBiqueirões (Engraulis spp.)\n\n17. ex 0302 69 65\n\nPescadas e abróteas da espécie Merluccius merluccius\n\n18. 0302 69 75\n\nXaputa/Goraz (Brama spp.)\n\n19. 0302 69 81\n\nTamboris (Lophius spp.)\n\n20. ex 0307 41 80\n\nChocos (Sepia Officinalis, Rosia macrosoma)\n\nB. Produtos congelados das posições 0303 e 0304:\n\nex 0303 50 10\n\nArenques da espécie Clupea harengus\n\nex 0303 50 90\n\nex 0304 90 21 e\n\nex 0304 90 25\n\nC. Filetes de peixes e outra carne de peixes (mesmo picada) das espécies previstas em A, frescos ou refrigerados, dos códigos ex 0304 10 31, ex 0304 10 39, ex 0304 10 92, ex 0304 10 93 ou ex 0304 10 98 da Nomenclatura Combinada\n\nD. Produtos vivos, frescos ou refrigerados ou produtos cozidos em água ou vapor:\n\nex 0306 23 31 e\n\nex 0306 23 39\n\nCamarão negro da espécie Crangon crangon\n\nE. Produtos vivos, frescos ou refrigerados ou produtos cozidos em água ou vapor:\n\n0302 23 00\n\nLinguados (Solea spp.)\n\nex 0306 24 30\n\nSapateiras (Cancer pagurus)\n\nex 0306 29 30\n\nLagostins (Nephrops norvegicus)"
+  },
+  "be184828048a50f3": {
+   "fragment_id": "ANEXO II — Código NC",
+   "type": "divisao",
+   "heading": "ANEXO II — Código NC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Código NC\n\nDesignação das mercadorias\n\nA. Produtos congelados das posições 0303 e 0304:\n\n1. 0303 31 10\n\nAlabotes negros (Reinhardtins hippoglossoides)\n\n2. 0303 78 10 e\n\n0304 20 57\n\nPescadas do género Merluccius spp.\n\n3. 0303 79 71\n\nDouradas do mar das espécies Dentex dentex e Pagellus spp.\n\nB. Produtos congelados da posição 0306:\n\n0306 13 10\n\nCamarões da família Penaeidae\n\nC. Produtos da posição 0307:\n\n1. 0307 49 19\n\nChocos (Sepia officinalis, Rossia macrosoma) e chopo-avrão da espécie Sepiola rondeletti\n\n2. 0307 49 31\n\nLulas das espécies Loligo spp.\n\n0307 49 33\n\n0307 49 35 e\n\n0307 49 38\n\n3. 0307 49 51\n\nPota europeia das espécies Ommastrephes sagittatus\n\n4. 0307 59 10\n\nPolvos (Octopus spp.)\n\n5. 0307 99 11\n\nPotas (Illex spp.)"
+  },
+  "5f60742dc26d280c": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nAtuns (do género Thunnus), gaiado ou bonito de ventre raiado [Euthynnus (Katsuwonus) pelamis] e outras espécies do género Euthynnus, frescos, refrigerados ou congelados, destinados ao fabrico industrial de produtos abrangidos pelo no. 1604 e subsumíveis a um dos seguintes códigos da Nomenclatura Combinada: Designação das mercadorias\n\nCódigo NC\n\nFresco ou refrigerado\n\nCongelado\n\nApresentados noutra forma que não as referidas na posição 0304:\n\nI. As espécies seguintes:\n\na) Atum voador (Thunnus alalunga), com excepção dos atuns\n\nfrescos ou refrigerados\n\n1. Com peso superior a 10 kg/peça (*)\n\n0303 41 11, 0303 41 13 e 0303 41 19\n\n2. Com peso não superior a 10 kg/peça (*)\n\n0303 41 11, 0303 41 13 e 0303 41 19\n\nb) Atum albacora (Thunnus albacares)\n\n1. Com peso superior a 10 kg/peça\n\n0302 32 10 (*)\n\n0303 42 12, 0303 42 32 e 0303 42 52\n\n2. Com peso não superior a 10 kg/peça\n\n0302 32 10 (*)\n\n0303 42 18, 0303 42 38 e 0303 42 58\n\nc) Gaiado ou bonito de ventre raiado [Euthynnus (Katsuwonus) pelamis]\n\n0302 33 10\n\n0303 43 11, 0303 43 13 e 0303 43 19\n\nd) Atum rabilho (Thunnus thynnus), com excepção dos atuns frescos ou refrigerados\n\nex 0303 49 11, ex 0303 49 13 e\n\nex 0303 49 19\n\ne) Outras espécies dos géneros Thunnus e Euthynnus\n\nex 0302 39 10 e\n\nex 0302 69 21\n\nex 0303 49 11, ex 0303 49 13,\n\nex 0303 49 19, 0303 79 21, 0303 79 23\n\ne 0303 79 29\n\nII. Apresentados numa das formas seguintes:\n\na) Inteiros\n\nb) Eviscerados e sem guelras\n\nc) Outras (por exemplo, descabeçados)\n\n(*) As referências de peso reportam-se a produtos inteiros."
+  },
+  "a6c8c7a87e748ea0": {
+   "fragment_id": "ANEXO IV — A. Produtos vivos, frescos, refrigerados ou congelados: Código NC",
+   "type": "divisao",
+   "heading": "ANEXO IV — A. Produtos vivos, frescos, refrigerados ou congelados: Código NC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — A. Produtos vivos, frescos, refrigerados ou congelados: Código NC\n\nDesignação das mercadorias\n\n1. 0301 91 00, 0302 11 00, 0303 21 00, 0304 10 11, ex 0304 10 91, 0304 20 11 e ex 0304 90 10\n\nTrutas (Salmo trutta, Salmo gairdneri, Salmo clarki, Salmo aguabonita, Salmo gilae)\n\n0301 93 00, 0302 69 11, 0303 79 11, ex 0304 10 19, ex 0304 10 91, ex 0304 20 19 e ex 0304 90 10\n\nCarpas\n\n2. 0301 99 11, 0302 12 00, 0303 10 00, 0303 22 00, 0304 10 13, ex 0304 10 91, 0304 20 13 e\n\nex 0304 90 10\n\nSalmões-do-pacífico (Oncorhynchus spp.)\n\nSalmões-do-atlântico (Salmo salar)\n\ne Salmões-do-danúbio (Hucho hucho)\n\n0306 12 e ex 0306 22\n\nLavagantes (Homarus spp.)\n\nB. Produtos congelados ou salgados; crustáceos congelados: As seguintes espécies\n\nClassificáveis num dos seguintes códigos NC\n\nPeixes congelados,\n\nexcepto os filetes de\n\npeixes e outra carne\n\nde peixes da posição\n\n0304\n\nFiletes de peixes\n\ne outra carne de peixes\n\n(mesmo picada),\n\ncongelados\n\nPeixes salgados,\n\nsecos ou não\n\nPreparações\n\ne conservas\n\nde peixe da\n\nposição 1604\n\nCrustáceos\n\ncongelados\n\nEscamudo\n\n(Pollachius virens)\n\n0303 73 00\n\n0304 20 31 e\n\n0304 90 41\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nBacalhau-do-atlântico\n\n(Gadus morhua)\n\n0303 60 11\n\nex 0304 20 29 e\n\n0304 90 38\n\nex 0305 30 19,\n\nex 0305 51 90 e\n\nex 0305 62 00\n\nex 1604 19 91\n\nGalhudo malhado e\n\npatas-roxas\n\n(Squalus acanthias e\n\nScyliorhinus spp.)\n\n0303 75 20 e\n\n0303 75 50\n\n0304 20 61 e\n\nex 0304 90 97\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nEglefinos ou arincas\n\n(Melanogrammus aeglefinus)\n\n0303 72 00\n\n0304 20 33 e\n\n0304 90 45\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nPescadas brancas da espécie\n\nMerluccius merluccius\n\nex 0303 78 10\n\nex 0304 90 47\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nArenques da espécie\n\nClupea harengus\n\nex 0303 50 10 e\n\nex 0303 50 90\n\nex 0304 20 75,\n\nex 0304 90 21 e\n\nex 0304 90 25\n\nex 0305 30 90,\n\nex 0305 59 30 e\n\nex 0305 61 00\n\nex 1604 12 10\n\nLingues ou marucas\n\n(Molva spp.)\n\n0303 79 51\n\n0304 20 43 e\n\nex 0304 90 97\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nCavalas, cavalinhas e sardas\n\ndas espécies\n\nScomber scombrus e Scomber\n\njaponicus\n\n0303 74 11 e\n\n0303 74 19\n\nex 0304 20 53 e\n\nex 0304 90 97\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 15 10\n\nAreeiros\n\n(Lepidorhombus spp.)\n\n0303 39 20\n\n0304 20 79 e\n\n0304 90 51\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nTamboris (Lophius spp.)\n\n0303 79 81\n\n0304 20 83 e\n\n0304 90 57\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nSolhas\n\n(Pleuronectes platessa)\n\n0303 32 00\n\n0304 20 71 e\n\nex 0304 90 97\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nAs seguintes espécies\n\nClassificáveis num dos seguintes códigos NC\n\nPeixes congelados,\n\nexcepto os filetes de\n\npeixes e outra carne\n\nde peixes da posição\n\n0304\n\nFiletes de peixes\n\ne outra carne de peixes\n\n(mesmo picada),\n\ncongelados\n\nPeixes salgados,\n\nsecos ou não\n\nPreparações\n\ne conservas\n\nde peixe da\n\nposição 1604\n\nCrustáceos\n\ncongelados\n\nXaputas\n\n(Brama spp.)\n\n0303 79 75\n\n0304 20 81 e\n\n0304 90 55\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nCantarilhos do Norte\n\n(Sebastes spp.)\n\n0303 79 35 e\n\n0303 79 37\n\n0304 20 35,\n\n0304 20 37 e\n\n0304 90 31\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nBadejos\n\n(Merlangus merlangus)\n\n0303 79 45\n\n0304 20 41 e\n\nex 0304 90 97\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nSapateira (Cancer pagurus)\n\n0306 14 30\n\nLagostim\n\n(Nephrops norvegicus)\n\n0306 19 30\n\nSardinhas (Sardina pilchardus)\n\n0303 71 10\n\nex 0304 20 97\n\nex 0304 90 97\n\nex 1604 20 50\n\nex 1604 13 11\n\nex 1604 13 19\n\nAtum do género Thunnus e\n\npeixes do género Euthynnus\n\nex 0304 20 45\n\nex 0304 90 97\n\nex 1604 14 19\n\nex 1604 20 70\n\nC. Produtos em conserva: Código NC\n\nDesignação das mercadorias\n\n1. 1604 13 11, 1604 13 19 e ex 1604 20 50\n\nSardinhas\n\n2. ex 1604 14 11, ex 1604 14 19, ex 1604 19 30 e\n\nex 1604 20 70\n\nAtuns (Thunnus spp.), gaiado ou bonitos de ventre raiado [Euthynnus (Katsuwonus) pelamis] e outras espécies do género Euthynnus"
+  },
+  "a1c2c0238c55bd25": {
+   "fragment_id": "ANEXO V — Produtos congelados ou salgados; crustáceos congelados ou salgados; crustáceos sem concha e apenas cozidos em água ou vapor: As seguintes espécies",
+   "type": "divisao",
+   "heading": "ANEXO V — Produtos congelados ou salgados; crustáceos congelados ou salgados; crustáceos sem concha e apenas cozidos em água ou vapor: As seguintes espécies",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — Produtos congelados ou salgados; crustáceos congelados ou salgados; crustáceos sem concha e apenas cozidos em água ou vapor: As seguintes espécies\n\nClassificáveis num dos seguintes códigos NC\n\nPeixes congelados,\n\nexcepto os filetes de\n\npeixes e outra carne\n\nde peixes da posição\n\n0304\n\nFiletes de peixes\n\ne outra carne de peixes\n\n(mesmo picada),\n\ncongelados\n\nPeixes salgados,\n\nsecos ou não\n\nFiletes crus,\n\nsimplesmente\n\nrevestidos de\n\npasta ou de\n\npão ralado\n\n(panados),\n\nmesmo pré-cozidos\n\nem óleo,\n\ncongelados\n\nCrustáceos,\n\ncongelados\n\nEscamudo do Alasca\n\n(Theregra chalcogramma)\n\nex 0303 79 55\n\n0304 20 85 e\n\n0304 90 61\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nBacalhau polar\n\nBoreagadus saida\n\n0303 79 41\n\nex 0304 20 29 e\n\nex 0304 90 39\n\nex 0305 30 19,\n\nex 0305 59 19 e\n\nex 0305 69 10\n\nex 1604 19 91\n\nBacalhaus das espécies\n\nGadus ogac e Gadus macrocephalus\n\n0303 60 19 e\n\n0303 60 90\n\n0304 20 21,\n\nex 0304 20 29,\n\n0304 90 35 e\n\nex 0304 90 39\n\nex 0305 30 11,\n\nex 0305 30 19,\n\nex 0305 51 90 e\n\nex 0305 62 00\n\nex 1604 19 91\n\nSolha das pedras\n\n(Platichthys flesus)\n\n0303 39 10\n\n0304 20 73 e\n\n0304 90 97\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nPescadas e abróteas (Merluccius spp., excepto Merluccius merluccius)\n\nex 0304 90 47\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nArenques da espécie\n\nClupea pallasii\n\nex 0303 50 10 e\n\nex 0303 50 90\n\nex 0304 20 75,\n\nex 0304 90 21 e\n\nex 0304 90 25\n\nex 0305 30 90,\n\nex 0305 59 30 e\n\nex 0305 61 00\n\nex 1604 12 10\n\nPalmeta\n\nOrcynopsis unicolor\n\n0303 79 61 e\n\n0303 79 63\n\nex 0304 20 53 e\n\nex 0304 90 97\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 50\n\nJuliana\n\n(Pollachius pollachius)\n\nex 0303 79 55\n\nex 0304 20 98 e\n\nex 0304 90 97\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nEspadarte\n\n(Xiphias gladius)\n\n0303 79 87\n\n0304 20 87 e\n\n0304 90 65\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nCamarões, outros que os da\n\nespécie Crangon crangon\n\n-Congelados:\n\nex 0306 13\n\n-Salgados:\n\nex 0306 23 10,\n\nex 0306 23 39 e\n\nex 0306 23 90\n\n-Sem concha\n\napenas cozidos em\n\nágua ou vapor:\n\nex 1605 20 00"
+  },
+  "9a01f344c03cafe3": {
+   "fragment_id": "ANEXO VI — Produtos frescos ou refrigerados",
+   "type": "divisao",
+   "heading": "ANEXO VI — Produtos frescos ou refrigerados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — Produtos frescos ou refrigerados\n\ndas seguintes espécies\n\nSubsumíveis\n\naos códigos NC\n\nseguintes:\n\n1. Solha limão (Microstomus kitt)\n\nex 0302 29 90\n\n2. Atum rabilho (Thunnus thynnus)\n\nex 0302 39 10\n\nex 0302 39 90\n\n3. Juliana (Pollachius pollachius)\n\nex 0302 69 51\n\n4. Verdinho (Micromesistius poutassou ou Gadus poutassou)\n\n0302 69 85\n\n5. Faneca (Trisopterus luscus) e franeção (Trisopterus minutus)\n\nex 0302 69 97\n\n6. Boga-do-mar (Boops boops)\n\nex 0302 69 97\n\n7. Trombeiro-boga (Maena smaris)\n\nex 0302 69 97\n\n8. Congro (Conger conger)\n\nex 0302 69 97\n\n9. Cabras e ruivos (Trigla spp.)\n\nex 0302 69 97\n\n10. Carapaus (Trachurus spp.)\n\nex 0302 69 97\n\n11. Tainha (Mugil spp.)\n\nex 0302 69 97\n\n12. Raia (Raja spp.)\n\nex 0302 69 97 e\n\nex 0304 10 97\n\n13. Peixe-espada do Pacífico (Lepidopus caudatus e Aphanopus carbo)\n\nex 0302 69 97"
+  },
+  "209ebbe7841b1e7b": {
+   "fragment_id": "ANEXO VII — Código NC",
+   "type": "divisao",
+   "heading": "ANEXO VII — Código NC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — Código NC\n\nDesignação das mercadorias\n\nTaxas dos direitos\n\nautónomos\n\n(%)\n\nou\n\nniveladores\n\n(AGR)\n\nconvencionais\n\n(%)\n\nUnidade\n\nsuplementar\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0301\n\nPeixes vivos:\n\n0301 10\n\n-Peixes ornamentais:\n\n0301 10 10\n\n--De água doce\n\n10\n\nIsenção\n\n-\n\n0301 10 90\n\n--Do mar\n\n15\n\n15\n\n-\n\n-Outros peixes vivos:\n\n0301 91 00\n\n--Trutas (Salmo trutta, Salmo gairdneri, Salmo clarki, Salmo aguabonita, Salmo gilae)\n\n16\n\n12\n\n-\n\n0301 92 00\n\n--Enguias (Anguilla spp.)\n\n10\n\n3\n\n-\n\n0301 93 00\n\n--Carpas\n\n10\n\n8\n\n-\n\n0301 99\n\n--Outros:\n\n---De água doce:\n\n0301 99 11\n\n----Salmões-do-pacífico (Oncorhynchus spp.), salmões-do-atlântico (Salmo salar) e salmões-do-danúbio (Hucho hucho)\n\n16\n\n2\n\n-\n\n0301 99 19\n\n----Outros\n\n10\n\n8\n\n-\n\n0301 99 90\n\n---Do mar\n\n17\n\n16\n\n-\n\n0302\n\nPeixes frescos ou refrigerados, excepto filetes de peixes e outra carne de peixes da posição 0304:\n\n-Salmonídeos, excepto fígados, ovas e sémen:\n\n0302 11 00\n\n--Trutas (Salmo trutta, Salmo gairdneri, Salmo clarki, Salmo aguabonita, Salmo gilae)\n\n16\n\n12\n\n-\n\n0302 12 00\n\n--Salmões-do-pacífico (Oncorhynchus spp.), salmões-do-atlântico\n\n(Salmo salar) e salmões-do-danúbio (Hucho hucho)\n\n16\n\n2\n\n-\n\n0302 19 00\n\n--Outros\n\n16\n\n8\n\n-\n\n-Peixes chatos (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae e Citharidae), excepto fígados, ovas e sémen:\n\n0302 21\n\n--Alabotes (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis):\n\n0302 21 10\n\n---Alabote negro (Reinhardtius hippoglossoides)\n\n15\n\n8\n\n-\n\n0302 21 30\n\n---Alabote-do-atlântico (Hippoglossus hippoglossus)\n\n15\n\n8\n\n-\n\n0302 21 90\n\n---Alabote-do-pacífico (Hippoglossus stenolepis)\n\n15\n\n15\n\n-\n\n0302 22 00\n\n--Solhas ou patruças (Pleuronectes platessa)\n\n15\n\n15\n\n-\n\n0302 23 00\n\n--Linguados (Solea spp.)\n\n15\n\n15\n\n-\n\n0302 29\n\n--Outros:\n\n0302 29 10\n\n---Areiros (Lepidorhombus spp.)\n\n15\n\n15\n\n-\n\n0302 29 90\n\n---Outros\n\n15\n\n15\n\n-\n\n-Atuns (do género Thunnus), bonitos listados ou bonitos de ventre raiado [Euthynnus (Katsuwonus) pelamis], excepto fígados, ovas e sémen:\n\n0302 31\n\n--Atuns brancos ou germões (Thunnus alalunga):\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0302 31 10\n\n---Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (¹)\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0302 31 90\n\n---Outros\n\n25 (²)\n\n22 (²) (& {highdigit};)\n\n-\n\n0302 32\n\n--Albacoras ou atuns de barbatanas amarelas (Thunnus albacares):\n\n0302 32 10\n\n---Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (¹)\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0302 32 90\n\n---Outros\n\n25 (²)\n\n22 (²) (& {highdigit};)\n\n-\n\n0302 33\n\n--Bonitos listados ou bonitos de ventre raiado:\n\n0302 33 10\n\n---Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (¹)\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0302 33 90\n\n---Outros\n\n25 (²)\n\n22 (²) (& {highdigit};)\n\n-\n\n0302 39\n\n--Outros:\n\n0302 39 10\n\n---Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (¹)\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0302 39 90\n\n---Outros\n\n25 (²)\n\n22 (²) (& {highdigit};)\n\n-\n\n0302 40\n\n-Arenques (Clupea harengus, Clupea pallasii), excepto fígados, ovas e sémen:\n\n0302 40 10\n\n--De 15 de Fevereiro a 15 de Junho\n\nIsenção\n\nIsenção\n\n-\n\n0302 40 90\n\n--De 16 de Junho a 14 de Fevereiro\n\n20 (²)\n\n15 (²) (& {highdigit};)\n\n-\n\n0302 50\n\n-Bacalhaus (Gadus morhua, Gadus ogac, Gadus macrocephalus), excepto fígados, ovas e sémen:\n\n0302 50 10\n\n--Da espécie Gadus morhua\n\n15\n\n12\n\n-\n\n0302 50 90\n\n--Outros\n\n15\n\n15\n\n-\n\n-Outros peixes, excepto fígados, ovas e sémen:\n\n0302 61\n\n--Sardinhas (Sardina pilchardus, Sardinops spp.), sardinelas (Sardinella spp.) e espadilhas (Sprattus sprattus):\n\n0302 61 10\n\n---Sardinhas da espécie Sardina pilchardus\n\n25\n\n23\n\n-\n\n0302 61 30\n\n---Sardinhas do género Sardinops; sardinelas (Sardinella spp.)\n\n15\n\n15\n\n-\n\n---Espadilhas (Sprattus sprattus):\n\n0302 61 91\n\n----De 15 de Fevereiro a 15 de Junho\n\nIsenção\n\nIsenção\n\n-\n\n0302 61 99\n\n----De 16 de Junho a 14 de Fevereiro\n\n20\n\n13\n\n-\n\n0302 62 00\n\n--Eglefinos ou arincas (Melanogrammus aeglefinus)\n\n15\n\n15\n\n-\n\n0302 63 00\n\n--Escamudos negros (Pollachius virens)\n\n15\n\n15\n\n-\n\n0302 64\n\n--Cavalas, cavalinhas e sardas (Scomber scombrus, Scomber australasicus, Scomber japonicus):\n\n0302 64 10\n\n---De 15 de Fevereiro a 15 de Junho\n\nIsenção\n\nIsenção\n\n-\n\n0302 64 90\n\n---De 16 de Junho a 14 de Fevereiro\n\n20\n\n20\n\n-\n\n0302 65\n\n--Esqualos:\n\n0302 65 20\n\n---Caes-do-mar ou tubarões espinhosos (Squalus acanthias)\n\n15\n\n8 (& {highdigit};)\n\n-\n\n0302 65 50\n\n---Pata-roxas (Scyliorhinus spp.)\n\n15\n\n8\n\n-\n\n(¹) A admissão nesta subposição está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n(²) Sujeito à observância do preço de referência. Em caso de inobservância do preço de referência, está prevista a cobrança de um direito de compensação.\n\n(³) A cobrança deste direito está suspensa por um período indeterminado.\n\n(& {highdigit};) Isenção para o atum e para os peixos do género Euthynnus das posições 0302 e 0303, destinados à indústria da conserva, dentro do limite de um contingente pautal anual global de 17 250 toneladas a conceder pelas autoridades comunitárias competentes e na condição da observância do preço de referência. Outrossim, a admissão ao benefício deste contingente está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n(& {highdigit};) Isenção para os arenques das subposições 0302 40 90, 0303 50 90, 0304 10 93, 0304 10 98 e 0304 90 25, dentro do limite de um contingente pautal anual global de 34 000 toneladas a conceder pelas autoridades comunitárias competentes e sujeito à observância do preço de referência.\n\n(& {highdigit};) Direito de 6 % para os caes-do-mar (Squalus acanthias) das subposições 0302 65 20 e 0303 75 20, dentro do limite de um contingente pautal anual global de 5 000 toneladas a conceder pelas autoridades comunitárias competentes.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0302 65 90\n\n---Outros\n\n15\n\n8\n\n-\n\n0302 66 00\n\n--Enguias (Anguilla spp.)\n\n10\n\n3\n\n-\n\n0302 69\n\n--Outros:\n\n---De água doce:\n\n0302 69 11\n\n----Carpas\n\n10\n\n8\n\n-\n\n0302 69 19\n\n----Outros\n\n10\n\n8\n\n-\n\n---Do mar:\n\n----Peixes do género Euthynnus, excepto os bonitos listados ou bonitos de ventre raiado [Euthynnus (Katsuwonus) pelamis] referidos na subposição 0302 33 acima:\n\n0302 69 21\n\n-----Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (¹)\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0302 69 25\n\n-----Outros\n\n25 (²)\n\n22 (²) (& {highdigit};)\n\n-\n\n----Cantarilhos (Sebastes spp.):\n\n0302 69 31\n\n-----Da espécie Sebastes marinus\n\n15\n\n8\n\n-\n\n0302 69 33\n\n-----Outros\n\n15\n\n15\n\n-\n\n0302 69 35\n\n----Peixes da espécie Boreogadus saida\n\n15\n\n12\n\n-\n\n0302 69 41\n\n----Badejos (Merlangus merlangus)\n\n15\n\n15\n\n-\n\n0302 69 45\n\n----Lingues (Molva spp.)\n\n15\n\n15\n\n-\n\n0302 69 51\n\n----Escamudo do Alasca (Theragra chalcogramma) e escamudo amarelo (Pollachius pollachius)\n\n15\n\n15\n\n-\n\n0302 69 55\n\n----Anchovas (Engraulis spp.)\n\n15\n\n15\n\n-\n\n0302 69 61\n\n----Douradas do mar das espécies Dentex dentex e Pagellus spp.\n\n15\n\n15\n\n-\n\n0302 69 65\n\n----Pescadas (Merluccius spp., Urophycis spp.)\n\n15\n\n15 (& {highdigit};)\n\n-\n\n0302 69 75\n\n----Xaputa (Brama spp.)\n\n15\n\n15\n\n-\n\n0302 69 81\n\n----Tamboril (Lophius spp.)\n\n15\n\n15\n\n-\n\n0302 69 85\n\n----Pichelim ou verdinho (Micromesistius poutassou ou Gadus poutassou)\n\n15\n\n15\n\n-\n\n0302 69 87\n\n----Espadarte (Xiphias gladius)\n\n15\n\n15\n\n-\n\n0302 69 91\n\n----Carapaus e chicharros (Caranx trachurus, Trachurus trachurus)\n\n15\n\n15\n\n-\n\n0302 69 97\n\n----Outros\n\n15\n\n15\n\n-\n\n0302 70 00\n\n-Figados, ovas e sémen\n\n14\n\n10\n\n-\n\n0303\n\nPeixes congelados, excepto os filetes de peixes e outra carne de peixes da posição 0304:\n\n0303 10 00\n\n-Salmões-do-pacífico (Oncorhynchus spp.), excepto fígados, ovas e sémen\n\n16\n\n2\n\n-\n\n-Outros salmonídeos, excepto fígados, ovas e sémen:\n\n0303 21 00\n\n--Trutas (Salmo trutta, Salmo gairdneri, Salmo clarki, Salmo aguabonita, Salmo gilae)\n\n16\n\n12\n\n-\n\n0303 22 00\n\n--Salmões-do-atlântico (Salmo salar) e salmões-do-danúbio (Hucho hucho)\n\n16\n\n2\n\n-\n\n0303 29 00\n\n--Outros\n\n16\n\n9\n\n-\n\n(¹) A admissão nesta subposição está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n(²) Sujeito à observância do preço de referência. Em caso de inobservância de preço de referência, está prevista a cobrança de um direito de compensação.\n\n(³) A cobrança deste direito está suspensa por um período indeterminado.\n\n(& {highdigit};) Isenção para o atum e para os peixes do género Euthynnus, das posições 0302 e 0303, destinados à indústria da conserva dentro do limite de um contingente pautal anual global de 17 250 toneladas a conceder pelas autoridades comunitárias competentes e na condição da observância do preço de referência. Outrossim, a admissão ao benefício deste contingente está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n(& {highdigit};) Direito de 8 % para a pescada prateada (Merluccius bilinearis) das subposições 0302 69 65, 0303 78 10 e 0304 90 47, dentro do limite de um contingente pautal anual global de 2 000 toneladas a conceder pelas autoridades comunitárias competentes.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n-Peixes chatos (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae e Citharidae), excepto fígados, ovas e sémen:\n\n0303 31\n\n--Alabotes (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis):\n\n0303 31 10\n\n---Alabotes negros (Reinhardtius hippoglossoides)\n\n15\n\n8\n\n-\n\n0303 31 30\n\n---Alabotes-do-atlântico (Hippoglossus hippoglossus)\n\n15\n\n8\n\n-\n\n0303 31 90\n\n---Alabotes-do-pacífico (Hippoglossus stenolepis)\n\n15\n\n15\n\n-\n\n0303 32 00\n\n--Solhas ou patruças (Pleuronectes platessa)\n\n15\n\n15\n\n-\n\n0303 33 00\n\n--Linguados (Solea spp.)\n\n15\n\n15\n\n-\n\n0303 39\n\n--Outros:\n\n0303 39 10\n\n---Azevias (Platichthys flesus)\n\n15\n\n15\n\n-\n\n0303 39 20\n\n---Areiros (Lepidorhombus spp.)\n\n15\n\n15\n\n-\n\n0303 39 90\n\n---Outros\n\n15\n\n15\n\n-\n\n-Atuns (do género Thunnus), bonitos listados ou bonitos de ventre raiado [Euthynnus (Katsuwonus) pelamis], excepto fígados, ovas e sémen:\n\n0303 41\n\n--Atuns brancos ou germões (Thunnus alalunga):\n\n---Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (¹):\n\n0303 41 11\n\n----Inteiros\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0303 41 13\n\n----Eviscerados, sem guelras\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0303 41 19\n\n----Outros (por exemplo descabeçados)\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0303 41 90\n\n---Outros\n\n25 (²)\n\n22 (²) (& {highdigit};)\n\n-\n\n0303 42\n\n--Albacoras ou atuns de barbatanas amarelas (Thunnus albacares):\n\n---Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (¹):\n\n----Inteiros:\n\n0303 42 12\n\n-----Pesando mais de 10 kg cada um\n\n25 (²) (³)\n\n20 (²) (& {highdigit};)\n\n-\n\n0303 42 18\n\n-----Outros\n\n25 (²) (³)\n\n20 (²) (& {highdigit};)\n\n-\n\n----Eviscerados, sem guelras:\n\n0303 42 32\n\n-----Pesando mais de 10 kg cada um\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0303 42 38\n\n-----Outros\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n----Outros (por exemplo descabeçados):\n\n0303 42 52\n\n-----Pesando mais de 10 kg cada um\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0303 42 58\n\n-----Outros\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0303 42 90\n\n---Outros\n\n25 (²)\n\n22 (²) (& {highdigit};)\n\n-\n\n0303 43\n\n--Bonitos listados ou bonitos de ventre raiado:\n\n---Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (¹):\n\n0303 43 11\n\n----Inteiros\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0303 43 13\n\n----Eviscerados, sem guelras\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n(¹) A admissão nesta subposição está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n(²) Sujeito à observância do preço de referência. Em caso de inobservância do preço de referência, está prevista a cobrança de um direito de compensação.\n\n(³) A cobrança deste direito está suspensa por um período indeterminado.\n\n(& {highdigit};) Isenção para o atum e para os peixes do género Euthynnus, das posições 0302 e 0303, destinados à indústria da conserva dentro do limite de um contingente pautal anual global de 17 250 toneladas a conceder pelas autoridades comunitárias competentes e na condição da observância do preço de referência. Outrossim, a admissão ao benefício deste contingente está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0303 43 19\n\n----Outros (por exemplo descabeçados)\n\n25 (¹) (²)\n\n22 (¹) (³)\n\n-\n\n0303 43 90\n\n---Outros\n\n25 (¹)\n\n22 (¹) (³)\n\n-\n\n0303 49\n\n--Outros:\n\n---Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (& {highdigit};):\n\n0303 49 11\n\n----Inteiros\n\n25 (¹) (²)\n\n22 (¹) (³)\n\n-\n\n0303 49 13\n\n----Eviscerados, sem guelras\n\n25 (¹) (²)\n\n22 (¹) (³)\n\n-\n\n0303 49 19\n\n----Outros (por exemplo descabeçados)\n\n25 (¹) (²)\n\n22 (¹) (³)\n\n-\n\n0303 49 90\n\n---Outros\n\n25 (¹)\n\n22 (¹) (³)\n\n-\n\n0303 50\n\n-Arenques (Clupea harengus, Clupea pallasii), excepto fígados, ovas e sémen:\n\n0303 50 10\n\n--De 15 de Fevereiro a 15 de Junho\n\nIsenção\n\nIsenção\n\n-\n\n0303 50 90\n\n--De 16 de Junho a 14 de Fevereiro\n\n20 (¹)\n\n15 (¹) (& {highdigit};)\n\n-\n\n0303 60\n\n-Bacalhaus (Gadus morhua, Gadus ogac, Gadus macrocephalus), excepto fígados, ovas e sémen:\n\n0303 60 11\n\n--Da espécie Gadus morhua\n\n15\n\n12 (& {highdigit};)\n\n-\n\n0303 60 19\n\n--Da espécie Gadus ogac\n\n15\n\n15 (& {highdigit};)\n\n-\n\n0303 60 90\n\n--Da espécie Gadus macrocephalus\n\n15\n\n15\n\n-\n\n-Outros peixes, excepto fígados, ovas e sémen:\n\n0303 71\n\n--Sardinhas (Sardina pilchardus, Sardinops spp.), sardinelas (Sardinella spp.) e espadilhas (Sprattus sprattus):\n\n0303 71 10\n\n---Sardinhas da espécie Sardina pilchardus\n\n25\n\n23\n\n-\n\n0303 71 30\n\n---Sardinhas do género Sardinops; sardinelas (Sardinella spp.)\n\n15\n\n15\n\n-\n\n---Espadilhas (Sprattus sprattus):\n\n0303 71 91\n\n----De 15 de Fevereiro a 15 de Junho\n\nIsenção\n\nIsenção\n\n-\n\n0303 71 99\n\n----De 16 de Junho a 14 de Fevereiro\n\n20\n\n13\n\n-\n\n0303 72 00\n\n--Eglefinos ou arincas (Melanogrammus aeglefinus)\n\n15\n\n15\n\n-\n\n0303 73 00\n\n--Escamudos negros (Pollachius virens)\n\n15\n\n15\n\n-\n\n0303 74\n\n--Cavalas, cavalinhas e sardas (Scomber scombrus, Scomber australasicus, Scomber japonicus):\n\n---Das espécies Scomber scombrus e Scomber japonicus:\n\n0303 74 11\n\n----De 15 de Fevereiro a 15 de Junho\n\nIsenção\n\nIsenção\n\n-\n\n0303 74 19\n\n----De 16 de Junho a 14 de Fevereiro\n\n20\n\n20\n\n-\n\n0303 74 90\n\n---Da espécie Scomber australasicus\n\n15\n\n15\n\n-\n\n0303 75\n\n--Esqualos:\n\n0303 75 20\n\n---Caes-do-mar ou tubarões espinhosos (Squalus acanthias)\n\n15\n\n8 (& {highdigit};)\n\n-\n\n0303 75 50\n\n---Pata-roxas (Scyliorhinus spp.)\n\n15\n\n8\n\n-\n\n0303 75 90\n\n---Outros\n\n15\n\n8\n\n-\n\n0303 76 00\n\n--Enguias (Anguilla spp.)\n\n10\n\n3\n\n-\n\n(¹) Sujeito à observância do preço de referência. Em caso de inobservância do preço de referência, está prevista a cobrança de um direito de compensação.\n\n(²) A cobrança deste direito está suspensa por um período indeterminado.\n\n(³) Isenção para o atum e para os peixes do género Euthynnus das posições 0302 e 0303, destinados à indústria da conserva, dentro do limite de um contingente pautal anual global de 17 250 toneladas a conceder pelas autoridades comunitárias competentes e na condição da observância do preço de referência. Outrossim, a admissão ao benefício deste contingente está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n(& {highdigit};) A admissão nesta subposição está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n(& {highdigit};) Isenção para os arenques das subposições 0302 40 90, 0303 50 90, 0304 10 93, 0304 10 98 e 0304 90 25, dentro do limite de um contingente pautal anual global de 34 000 toneladas a conceder pelas autoridades comunitárias competentes e sujeito à observância do preço de referência.\n\n(& {highdigit};) Sob reserva dos limites e condições a determinar pelas autoridades competentes.\n\n(& {highdigit};) Direito de 6 % para os caes-do-mar (Squalus acanthias) das subposições 0302 65 20 e 0303 75 20, dentro do limite de um contingente pautal anual global de 5 000 toneladas a conceder pelas autoridades comunitárias competentes.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0303 77 00\n\n--Robalos e bailas (Dicentrarchus labrax, Dicentrarchus punctatus)\n\n15\n\n15\n\n-\n\n0303 78\n\n--Pescadas (Merluccius spp., Urophycis spp.):\n\n0303 78 10\n\n---Pescadas do género Merluccius\n\n15\n\n15 (¹)\n\n-\n\n0303 78 90\n\n---Pescadas do género Urophycis\n\n15\n\n15\n\n-\n\n0303 79\n\n--Outros:\n\n---De água doce:\n\n0303 79 11\n\n----Carpas\n\n10\n\n8\n\n-\n\n0303 79 19\n\n----Outros\n\n10\n\n8\n\n-\n\n---Do mar:\n\n----Peixes do género Euthynnus, excepto os bonitos listados ou bonitos de ventre raiado [Euthynnus (Katsuwonus) pelamis] referidos na subposição 0303 43 acima:\n\n-----Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (²):\n\n0303 79 21\n\n------Inteiros\n\n25 (³) (& {highdigit};)\n\n22 (³) (& {highdigit};)\n\n-\n\n0303 79 23\n\n------Eviscerados, sem guelras\n\n25 (³) (& {highdigit};)\n\n22 (³) (& {highdigit};)\n\n-\n\n0303 79 29\n\n------Outros (por exemplo descabeçados)\n\n25 (³) (& {highdigit};)\n\n22 (³) (& {highdigit};)\n\n-\n\n0303 79 31\n\n-----Outros\n\n25 (³)\n\n22 (³) (& {highdigit};)\n\n-\n\n----Cantarilhos (Sebastes spp.):\n\n0303 79 35\n\n-----Da espécie Sebastes marinus\n\n15\n\n8\n\n-\n\n0303 79 37\n\n-----Outros\n\n15\n\n15\n\n-\n\n0303 79 41\n\n----Peixes da espécie Boreogadus saida\n\n15\n\n12 (& {highdigit};)\n\n-\n\n0303 79 45\n\n----Badejos (Merlangus merlangus)\n\n15\n\n15\n\n-\n\n0303 79 51\n\n----Lingues (Molva spp.)\n\n15\n\n15\n\n-\n\n0303 79 55\n\n----Escamudo do Alasca (Theragra chalcogramma) e escamudo amarelo (Pollachius pollachius)\n\n15\n\n15\n\n-\n\n----Peixes da espécie Orcynopsis unicolor:\n\n0303 79 61\n\n-----De 15 de Fevereiro a 15 de Junho\n\nIsenção\n\nIsenção\n\n-\n\n0303 79 63\n\n-----De 16 de Junho a 14 de Fevereiro\n\n20\n\n20\n\n-\n\n0303 79 65\n\n----Anchovas (Engraulis spp.)\n\n15\n\n15\n\n-\n\n0303 79 71\n\n----Douradas do mar das espécies Dentex dentex e Pagellus spp.\n\n15\n\n15\n\n-\n\n0303 79 75\n\n----Xaputas (Brama spp.)\n\n15\n\n15\n\n-\n\n0303 79 81\n\n----Tamboril (Lophius spp.)\n\n15\n\n15\n\n-\n\n0303 79 83\n\n----Pichelim ou verdinho (Micromesistius poutassou ou Gadus poutassou)\n\n15\n\n15\n\n-\n\n0303 79 87\n\n----Espadarte (Xiphias gladius)\n\n15\n\n15\n\n-\n\n0303 79 91\n\n----Carapaus e chicharros (Caranx trachurus, Trachurus trachurus)\n\n15\n\n15\n\n-\n\n0303 79 97\n\n----Outros\n\n15\n\n15\n\n-\n\n0303 80 00\n\n-Fígados, ovas e sémen\n\n14\n\n10\n\n-\n\n(¹) Direito de 8 % para a pescada prateada (Merluccius bilinearis) das subposições 0302 69 65, 0303 78 10 e 0304 90 47, dentro do limite de um contingente pautal anual global de 2 000 toneladas a conceder pelas autoridades comunitárias competentes.\n\n(²) A admissão nesta subposição está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n(³) Sujeito à observância do preço de referência. Em caso de inobservância do preço, está prevista a cobrança de um direito de compensação.\n\n(& {highdigit};) A cobrança deste direito está suspensa por um período indeterminado.\n\n(& {highdigit};) Isenção para o atum e para os peixes do género Euthynnus das posições 0302 e 0303, destinados à indústria da conserva, dentro do limite de um contingente pautal anual global de 17 250 toneladas a conceder pelas autoridades comunitárias competentes a na condição da observância do preço de referência. Outrossim, a admissão ao benefício deste contingente está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n(& {highdigit};) Sob reserva dos limites e condições a determinar pelas autoridades competentes.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0304\n\nFiletes de peixes e outra carne de peixes (mesmo picada), frescos, refrigerados ou congelados:\n\n0304 10\n\n-Frescos ou refrigerados:\n\n--Filetes:\n\n---De peixes de água doce:\n\n0304 10 11\n\n----De trutas (Salmo trutta, Salmo gairdneri, Salmo clarki, Salmo aguabonita, Salmo gilae)\n\n16\n\n12\n\n-\n\n0304 10 13\n\n----De salmões-do-pacífico (Oncorhynchus spp.), salmões-do-atlântico (Salmo salar) e salmões-do-danúbio (Hucho hucho)\n\n16\n\n2\n\n-\n\n0304 10 19\n\n----De outros peixes de água doce\n\n13\n\n9\n\n-\n\n---Outros:\n\n0304 10 31\n\n----De bacalhaus (Gadus morhua, Gadus ogac, Gadus macrocephalus) e de peixes da espécie Boreogadus saida\n\n18\n\n18\n\n-\n\n0304 10 33\n\n----De escamudos negros (Pollachius virens)\n\n18\n\n18\n\n-\n\n0304 10 35\n\n----De cantarilhos (Sebastes spp.)\n\n18\n\n18\n\n-\n\n0304 10 38\n\n----Outros\n\n18\n\n18\n\n-\n\n--Outra carne de peixes (mesmo picada):\n\n0304 10 91\n\n---De peixes de água doce\n\n8\n\n8\n\n-\n\n---Outros:\n\n----Lombos de arenques:\n\n0304 10 92\n\n-----De 15 de Fevereiro a 15 de Junho\n\nIsenção\n\nIsenção\n\n-\n\n0304 10 93\n\n-----De 16 de Junho a 14 de Fevereiro\n\n20\n\n15 (¹)\n\n-\n\n0304 10 98\n\n----Outros\n\n18\n\n15 (¹)\n\n-\n\n0304 20\n\n-Filetes congelados:\n\n--De peixes de água doce:\n\n0304 20 11\n\n---De trutas (Salmo trutta, Salmo gairdneri, Salmo clarki, Salmo aguabonita, Salmo gilae)\n\n16\n\n12\n\n-\n\n0304 20 13\n\n---De salmões-do-pacífico (Oncorhynchus spp.), salmões-do-atlântico (Salmo salar) e salmões-do-danúbio (Hucho hucho)\n\n16\n\n2\n\n-\n\n0304 20 19\n\n---De outros peixes de água doce\n\n13\n\n9\n\n-\n\n--De bacalhaus (Gadus morhua, Gadus ogac, Gadus macrocephalus) e de peixes da espécie Boreogadus saida:\n\n0304 20 21\n\n---De bacalhaus da espécie Gadus macrocephalus\n\n18\n\n15\n\n-\n\n0304 20 29\n\n---Outros\n\n18\n\n15 (²) (³)\n\n-\n\n0304 20 31\n\n--De escamudos negros (Pollachius virens)\n\n18\n\n15\n\n-\n\n0304 20 33\n\n--De eglefinos ou arincas (Melanogrammus aeglefinus)\n\n18\n\n15\n\n-\n\n--De cantarilhos (Sebastes spp.):\n\n0304 20 35\n\n---Da espécie Sebastes marinus\n\n18\n\n12\n\n-\n\n0304 20 37\n\n---Outros\n\n18\n\n15\n\n-\n\n0304 20 41\n\n--De badejos (Merlangus merlangus)\n\n18\n\n15\n\n-\n\n0304 20 43\n\n--De lingues (Molva spp.)\n\n18\n\n15\n\n-\n\n0304 20 45\n\n--De atum (do género Thunnus), e peixes do género Euthynnus\n\n18\n\n18\n\n-\n\n--De cavalas, cavalinhas e sardas (Scomber scombrus, Scomber australasicus, Scomber japonicus) e da espécie Orcynopsis unicolor:\n\n0304 20 51\n\n---Da espécie Scomber australasicus\n\n18\n\n15\n\n-\n\n(¹) Isenção para os arenques das subposições 0302 40 90, 0303 50 90, 0304 10 93, 0304 10 98 e 0304 90 25, dentro do limite de um contingente pautal anual global de 34 000 toneladas a conceder pelas autoridades comunitárias competentes e sujeito à observância do preço de referência.\n\n(²) Direito de 8 % para o bacalhau da espécie Gadus morhua dentro do limite dum contingente pautal anual de 10 000 toneladas a conceder pelas autoridades comunitárias competentes.\n\n(³) Sob reserva dos limites e condições a determinar pelas autoridades competentes.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0304 20 53\n\n---Outros\n\n18\n\n15\n\n-\n\n--De pescada (Merluccius spp., Urophycis spp.):\n\n0304 20 57\n\n---Pescada do género Merluccius\n\n18\n\n15 (¹) (²)\n\n-\n\n0304 20 59\n\n---Pescada de género Urophycis\n\n18\n\n15\n\n-\n\n--De esqualos:\n\n0304 20 61\n\n---Caes-do-mar ou tubarões espinhosos e pata-roxas (Squalus acanthias e Scyliorhinus spp.)\n\n18\n\n15\n\n-\n\n0304 20 69\n\n---De outros esqualos\n\n18\n\n15\n\n-\n\n0304 20 71\n\n--De solhas ou patruças (Pleuronectes platessa)\n\n18\n\n15\n\n-\n\n0304 20 73\n\n--De azevia (Platichthys flesus)\n\n18\n\n15\n\n-\n\n0304 20 75\n\n--De arenques (Clupea harengus, Clupea pallasii)\n\n18\n\n15\n\n-\n\n0304 20 79\n\n--De areiros (Lepidorhombus spp.)\n\n18\n\n15\n\n-\n\n0304 20 81\n\n--De xaputa (Brama spp.)\n\n18\n\n15\n\n-\n\n0304 20 83\n\n--De tamboril (Lophius spp.)\n\n18\n\n15\n\n-\n\n0304 20 85\n\n--De escamudo do Alasca (Theragra chalcogramma)\n\n18\n\n15\n\n-\n\n0304 20 87\n\n--De espadarte (Xiphias gladius)\n\n18\n\n15\n\n-\n\n0304 20 97\n\n--Outros\n\n18\n\n15\n\n-\n\n0304 90\n\n-Outros:\n\n0304 90 10\n\n--De peixes de água doce\n\n8\n\n8\n\n-\n\n--Outros:\n\n---De arenques (Clupea harengus, Clupea pallasii):\n\n0304 90 21\n\n----De 15 de Fevereiro a 15 de Junho\n\nIsenção\n\nIsenção\n\n-\n\n0304 90 25\n\n----De 16 de Junho a 14 de Fevereiro\n\n20 (³)\n\n15 (³) (& {highdigit};)\n\n-\n\n0304 90 31\n\n---De cantarilhos (Sebastes spp.)\n\n15\n\n8\n\n-\n\n---De bacalhaus (Gadus morhua, Gadus ogac, Gadus macrocephalus) e de peixes da espécie Boreogadus saida:\n\n0304 90 35\n\n----De bacalhau da espécie Gadus macrocephalus\n\n15\n\n15\n\n-\n\n0304 90 38\n\n----De bacalhau da espécie Gadus morhua\n\n15\n\n12 (& {highdigit};)\n\n-\n\n0304 90 39\n\n----Outros\n\n15\n\n15 (& {highdigit};)\n\n-\n\n0304 90 41\n\n---De escamudos negros (Pollachius virens)\n\n15\n\n15\n\n-\n\n0304 90 45\n\n---De eglefinos ou arincas (Melanogrammus aeglefinus)\n\n15\n\n15\n\n-\n\n---De pescada (Merluccius spp., Urophycis spp.):\n\n0304 90 47\n\n----Pescada do género Merluccius\n\n15\n\n15 (& {highdigit};)\n\n-\n\n0304 90 49\n\n----Pescada do género Urophycis\n\n15\n\n15\n\n-\n\n0304 90 51\n\n---De areiros (Lepidorhombus spp.)\n\n15\n\n15\n\n-\n\n0304 90 55\n\n---De xaputa (Brama spp.)\n\n15\n\n15\n\n-\n\n0304 90 57\n\n---De tamboril (Lophius spp.)\n\n15\n\n15\n\n-\n\n(¹) Sujeito à observância do preço de referência.\n\n(²) Direito de 10 % sujeito à observância do preço de referência, dentro do limite de um contingente anual de 5 000 toneladas, para as placas industriais com espinhas («padrão») congeladas, no período de 1 de Julho a 31 de Dezembro, a conceder pelas autoridades competentes da Comunidade.\n\n(³) Sujeito à observância do preço de referência. Em caso de inobservância do preço de referência, está prevista a cobrança de um direito de compensação.\n\n(& {highdigit};) Isenção para os arenques das subposições 0302 40 90, 0303 50 90, 0304 10 93, 0304 10 98 e 0304 90 25, dentro do limite de um contingente pautal anual global de 34 000 toneladas a conceder pelas autoridades comunitárias competentes e sujeito à observância do preço de referência.\n\n(& {highdigit};) Sob reserva dos limites e condições a determinar pelas autoridades competentes.\n\n(& {highdigit};) Direito de 8 % para a pescada prateada (Merluccius bilinearis) das subposições 0302 69 65, 0303 78 10 e 0304 90 47, dentro do limite de um contingente pautal anual global de 2 000 toneladas a conceder pelas autoridades comunitárias competentes.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0304 90 59\n\n---De pichelim ou verdinho (Micromesistius poutassou ou Gadus poutassou)\n\n15\n\n15\n\n-\n\n0304 90 61\n\n---De escamudo do Alasca (Theragra chalcogramma)\n\n15\n\n15\n\n-\n\n0304 90 65\n\n---De espadarte (Xiphias gladius)\n\n15\n\n15\n\n-\n\n0304 90 97\n\n---Outros\n\n15\n\n15\n\n-\n\n0305\n\nPeixes secos, salgados ou em salmoura; peixes fumados, mesmo cozidos antes ou durante a defumação; farinhas, pó e «pellets» de peixe, próprios para a alimentação humana:\n\n0305 10 00\n\n-Farinhas, pó e «pellets» de peixe, próprios para a alimentação humana\n\n15\n\n13\n\n-\n\n0305 20 00\n\n-Fígados, ovas e sémen, de peixes, secos, fumados, salgados ou em salmoura\n\n15\n\n11\n\n-\n\n0305 30\n\n-Filetes de peixes, secos, salgados ou em salmoura, mas não fumados:\n\n--De bacalhaus (Gadus morhua, Gadus ogac, Gadus macrocephalus) e de peixes da espécie Boreogadus saida:\n\n0305 30 11\n\n---De bacalhau da espécie Gadus macrocephalus\n\n18\n\n16\n\n-\n\n0305 30 19\n\n---Outros\n\n20\n\n20\n\n-\n\n0305 30 30\n\n--De salmões-do-pacífico (Oncorhynchus spp.), salmões-do-atlântico (Salmo salar) e salmões-do-danúbio (Hucho hucho), salgados ou em salmoura\n\n18\n\n15\n\n-\n\n0305 30 50\n\n--De alabote negro (Reinhardtius hippoglossoides), salgados ou em salmoura\n\n18\n\n15\n\n-\n\n0305 30 90\n\n--Outros\n\n18\n\n16\n\n-\n\n-Peixes fumados, mesmo em filetes:\n\n0305 41 00\n\n--Salmões-do-pacífico (Oncorhynchus spp.), salmões-do-atlântico (Salmo salar) e salmões-do-danúbio (Hucho hucho)\n\n16\n\n13\n\n-\n\n0305 42 00\n\n--Arenques (Clupea harengus, Clupea pallasii)\n\n16\n\n10\n\n-\n\n0305 49\n\n--Outros:\n\n0305 49 10\n\n---Alabote negro (Reinhardtius hippoglossoides)\n\n16\n\n15\n\n-\n\n0305 49 20\n\n---Alabote-do-atlântico (Hippoglossus hippoglossus)\n\n16\n\n16\n\n-\n\n0305 49 30\n\n---Cavalas, cavalinhas e sardas (Scomber scombrus, Scomber australasicus, Scomber japonicus)\n\n16\n\n14\n\n-\n\n0305 49 40\n\n---Trutas (Salmo trutta, Salmo gairdneri, Salmo clarki, Salmo aguabonita, Salmo gilae)\n\n16\n\n14\n\n-\n\n0305 49 50\n\n---Enguias (Anguilla spp.)\n\n16\n\n14\n\n-\n\n0305 49 90\n\n---Outros\n\n16\n\n14\n\n-\n\n-Peixes secos, mesmo salgados mas não fumados:\n\n0305 51\n\n--Bacalhaus (Gadus morhua, Gadus ogac, Gadus macrocephalus):\n\n0305 51 10\n\n---Secos, não salgados\n\n13\n\n13 (¹)\n\n-\n\n0305 51 90\n\n---Secos e salgados\n\n13\n\n13 (¹)\n\n-\n\n0305 59\n\n--Outros:\n\n---Peixes da espécie Boreogadus saida:\n\n0305 59 11\n\n----Secos, não salgados\n\n13\n\n13 (¹)\n\n-\n\n0305 59 19\n\n----Secos e salgados\n\n13\n\n13 (¹)\n\n-\n\n0305 59 30\n\n---Arenques (Clupea harengus, Clupea pallasii)\n\n12\n\n12\n\n-\n\n0305 59 50\n\n---Anchovas (Engraulis spp.)\n\n15\n\n10\n\n-\n\n0305 59 60\n\n---Alabote negro (Reinhardtius hippoglossoides) e alabote-do-pacífico (Hippoglossus stenolepis)\n\n15\n\n12\n\n-\n\n(¹) Isenção para bacalhaus das espécies Gadus morhua e Gadus ogac das subposições 0305 51 10, 0305 51 90 e 0305 62 00 e para peixes da espécie Boreogadus saida das subposições 0305 59 11, 0305 59 19 e 0305 69 10, dentro do limite de um contingente pautal anual global de 25 000 toneladas a conceder pelas autoridades competentes.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0305 59 70\n\n---Alabote-do-atlântico (Hippoglossus hippoglossus)\n\n15\n\n-\n\n-\n\n0305 59 90\n\n---Outros\n\n15\n\n12\n\n-\n\n-Peixes salgados, não secos nem fumados, e peixes em salmoura:\n\n0305 61 00\n\n--Arenques (Clupea harengus, Clupea pallasii)\n\n12\n\n12\n\n-\n\n0305 62 00\n\n--Bacalhaus (Gadus morhua, Gadus ogac, Gadus macrocephalus)\n\n13\n\n13 (¹)\n\n-\n\n0305 63 00\n\n--Anchovas (Engraulis spp.)\n\n15\n\n10\n\n-\n\n0305 69\n\n--Outros:\n\n0305 69 10\n\n---Peixes da espécie Boreogadus saida\n\n13\n\n13 (¹)\n\n-\n\n0305 69 20\n\n---Alabote negro (Reinhardtius hippoglossoides) e alabote-do-pacífico (Hippoglossus stenolepis)\n\n15\n\n12\n\n-\n\n0305 69 30\n\n---Alabote-do-atlântico (Hippoglossus hippoglossus)\n\n15\n\n-\n\n-\n\n0305 69 50\n\n---Salmões-do-pacífico (Oncorhynchus spp.), salmões-do-atlântico (Salmo salar) e salmões-do-danúbio (Hucho hucho)\n\n15\n\n11\n\n-\n\n0305 69 90\n\n---Outros\n\n15\n\n12\n\n-\n\n0306\n\nCrustáceos, mesmo sem casca, vivos, frescos, refrigerados, congelados, secos, salgados ou em salmoura; crustáceos com casca, cozidos em água ou vapor, mesmo refrigerados, congelados, secos, salgados ou em salmoura; farinhas, pó e «pellets» de crustáceos, próprios para a alimentação humana:\n\n-Congelados:\n\n0306 11 00\n\n--Lagostas (Palinurus spp., Palinurus spp., Jasus spp.)\n\n25\n\n(²)\n\n-\n\n0306 12\n\n--Lavagantes (Homarus spp.):\n\n0306 12 10\n\n---Inteiros\n\n25\n\n8 (³)\n\n-\n\n0306 12 90\n\n---Outros\n\n25\n\n16\n\n-\n\n0306 13\n\n--Camarões:\n\n0306 13 10\n\n---Camarões da família Pandalidae\n\n18\n\n12\n\n-\n\n0306 13 30\n\n---Camarões negros do género Crangon\n\n18\n\n18\n\n-\n\n0306 13 90\n\n---Outros\n\n18\n\n18\n\n-\n\n0306 14\n\n--Caranguejos:\n\n0306 14 10\n\n---Caranguejos das espécies Paralithodes camchaticus, Chionoecetes spp. e Callinectes sapidus\n\n18\n\n8\n\n-\n\n0306 14 30\n\n---Sapateiras (Cancer pagurus)\n\n18\n\n15\n\n-\n\n0306 14 90\n\n---Outros\n\n18\n\n15\n\n-\n\n0306 19\n\n--Outros, incluindo as farinhas, pó e «pellets» de crustáceos, próprios para a alimentação humana:\n\n0306 19 10\n\n---Lagostins de água doce\n\n18\n\n15\n\n-\n\n0306 19 30\n\n---Lagostins (Nephropsnorvegicus)\n\n14\n\n12\n\n-\n\n0306 19 90\n\n---Outros\n\n14\n\n12\n\n-\n\n-Não congelados:\n\n0306 21 00\n\n--Lagostas (Palinurus spp., Palinurus spp., Jasus spp.)\n\n25\n\n(²)\n\n-\n\n0306 22\n\n--Lavagantes (Homarus spp.):\n\n0306 22 10\n\n---Vivos\n\n25\n\n8 (³)\n\n-\n\n---Outros:\n\n0306 22 91\n\n----Inteiros\n\n25\n\n8 (³)\n\n-\n\n0306 22 99\n\n----Outros\n\n25\n\n20\n\n-\n\n(¹) Isenção para bacalhaus das espécies Gadus morhua e Gadus ogac das subposições 0305 51 10, 0305 51 90 e 0305 62 00 e para peixes da espécie Boreogadus saida das subposições 0305 59 11, 0305 59 19 e 0305 69 10, dentro do limite de um contingente pautal anual global de 25 000 toneladas a conceder pelas autoridades competentes.\n\n(²) Ver anexo.\n\n(³) Sob reserva dos limites e condições a determinar pelas autoridades competentes.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0306 23\n\n--Camarões:\n\n0306 23 10\n\n---Camarões da família Pandalidae\n\n18\n\n12\n\n-\n\n---Camarões negros do género Crangon:\n\n0306 23 31\n\n----Frescos, refrigerados ou cozidos em água ou a vapor\n\n18\n\n18\n\n-\n\n0306 23 39\n\n----Outros\n\n18\n\n18\n\n-\n\n0306 23 90\n\n---Outros\n\n18\n\n18\n\n-\n\n0306 24\n\n--Caranguejos:\n\n0306 24 10\n\n---Caranguejos das espécies Paralithodes camchaticus, Chionoecetes spp. e Callinectes sapidus\n\n18\n\n8\n\n-\n\n0306 24 30\n\n---Sapateiras (Cancer pagurus)\n\n18\n\n15\n\n-\n\n0306 24 90\n\n---Outros\n\n18\n\n15\n\n-\n\n0306 29\n\n--Outros, incluindo as farinhas, pó e «pellets» de crustácios, próprios para a alimentação humana:\n\n0306 29 10\n\n---Lagostins de água doce\n\n18\n\n15\n\n-\n\n0306 29 30\n\n---Lagostins (Nephrops norvegicus)\n\n14\n\n12\n\n-\n\n0306 29 90\n\n---Outros\n\n14\n\n12\n\n-\n\n0307\n\nMoluscos, com ou sem concha, vivos, frescos, refrigerados, congelados, secos, salgados ou em salmoura; invertebrados aquáticos, excepto crustáceos e moluscos, vivos, frescos, refrigerados, congelados, secos, salgados ou em salmoura; farinhas, pó e «pellets» de invertebrados aquáticos, excepto crustáceos, próprios para a alimentação humana:\n\n0307 10\n\n-Ostras:\n\n0307 10 10\n\n--Ostras planas (Ostrea spp.) vivas, pesando, com casca, até 40 g por unidade\n\nIsenção\n\nIsenção\n\n-\n\n0307 10 90\n\n--Outras\n\n18\n\n18\n\n-\n\n-Vieiras e outros mariscos dos géneros Pecten, Chlamys ou Placopecten:\n\n0307 21 00\n\n--Vivos, frescos ou refrigerados\n\n8\n\n8\n\n-\n\n0307 29\n\n--Outros:\n\n0307 29 10\n\n---Vieiras (Pecten maximus), congeladas\n\n8\n\n8\n\n-\n\n0307 29 90\n\n---Outros\n\n8\n\n8\n\n-\n\n-Mexilhões (Mytilus spp., Perna spp.):\n\n0307 31\n\n--Vivos, frescos ou refrigerados:\n\n0307 31 10\n\n---Mytilus spp.\n\n10\n\n10\n\n-\n\n0307 31 90\n\n---Perna spp.\n\n8\n\n8\n\n-\n\n0307 39\n\n--Outros:\n\n0307 39 10\n\n---Mytilus spp.\n\n10\n\n10\n\n-\n\n0307 39 90\n\n---Perna spp.\n\n8\n\n8\n\n-\n\n-Chocos (Sepia officinalis, Rossia macrosoma) e sepiolas (Sepiola spp.); potas e lulas (Ommastrephes spp., Loligo spp., Nototodarus spp., Sepioteuthis spp.):\n\n0307 41\n\n--Vivos, frescos ou refrigerados:\n\n0307 41 10\n\n---Chocos (Sepia officinalis, Rossia macrosoma) e sepiolas (Sepiola spp.)\n\n8\n\n8\n\n-\n\n---Potas e lulas (Ommastrephes spp., Loligo spp., Nototodarus spp., Sepioteuthis spp.):\n\n0307 41 91\n\n----Loligo spp., Ommastrephes sagittatus\n\n8\n\n6\n\n-\n\n0307 41 99\n\n----Outras\n\n8\n\n8\n\n-\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0307 49\n\n--Outros:\n\n---Congelados:\n\n----Chocos (Sepia officinalis, Rossia macrosoma) e sepiolas (Sepiola spp.):\n\n0307 49 11\n\n-----Do género Sepiola, excepto Sepiola rondeleti\n\n8\n\n8\n\n-\n\n0307 49 19\n\n-----Outros\n\n8\n\n8\n\n-\n\n----Potas e lulas (Ommastrephes spp., Loligo spp., Nototodarus spp., Sepioteuthis spp.):\n\n-----Loligo spp.:\n\n0307 49 31\n\n------Loligo vulgaris\n\n8\n\n6\n\n-\n\n0307 49 33\n\n------Loligo pealei\n\n8\n\n6\n\n-\n\n0307 49 35\n\n------Loligo patagonica\n\n8\n\n6\n\n-\n\n0307 49 38\n\n------Outras\n\n8\n\n6\n\n-\n\n0307 49 51\n\n-----Ommastrephes sagittatus\n\n8\n\n6\n\n-\n\n0307 49 59\n\n-----Outras\n\n8\n\n8\n\n-\n\n---Outros:\n\n0307 49 71\n\n----Chocos (Sepia officinalis, Rossia macrosoma) e sepiolas (Sepiola spp.)\n\n8\n\n8\n\n-\n\n----Potas e lulas (Ommastrephes spp., Loligo spp., Nototodarus spp., Sepioteuthis spp.):\n\n0307 49 91\n\n-----Loligo spp.,Ommastrephes sagittatus\n\n8\n\n6\n\n-\n\n0307 49 99\n\n-----Outras\n\n8\n\n8\n\n-\n\n-Polvos (Octopus spp.):\n\n0307 51 00\n\n--Vivos, frescos ou refrigerados\n\n8\n\n8\n\n-\n\n0307 59\n\n--Outros:\n\n0307 59 10\n\n---Congelados\n\n8\n\n8\n\n-\n\n0307 59 90\n\n---Outros\n\n8\n\n8\n\n-\n\n0307 60 00\n\n-Caracóis, excepto do mar\n\n6\n\nIsenção\n\n-\n\n-Outros, incluindo as farinhas, pó e «pellets» de invertebrados aquáticos, excepto crustáceos, própriós para a alimentação humana:\n\n0307 91 00\n\n--Vivos, frescos ou refrigerados\n\n11\n\n11\n\n-\n\n0307 99\n\n--Outros:\n\n---Congelados:\n\n0307 99 11\n\n----Illex spp.\n\n8\n\n8\n\n-\n\n0307 99 13\n\n----Palurdes ou amêijoas e outras espécies da família Veneridae\n\n8\n\n8\n\n-\n\n0307 99 19\n\n----Outros invertebrados aquáticos\n\n14\n\n11\n\n-\n\n0307 99 90\n\n---Outros\n\n16\n\n11\n\n-\n\n0511\n\nProdutos de origem animal, não especificados nem compreendidos em outras posições; animais mortos dos capítulos 1 ou 3, impróprios para a alimentação humana:\n\n0511 91\n\n--Produtos de peixes ou de crustáceos, moluscos ou outros invertebrados aquáticos; animais mortos do capítulo 3:\n\n0511 91 10\n\n---Desperdícios de peixes\n\nIsenção\n\nIsenção\n\n-\n\n0511 91 90\n\n---Outros\n\nIsenção\n\n(¹)\n\n-\n\n(¹) Ver anexo.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n1604\n\nPreparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe:\n\n-Peixes inteiros ou em pedaços, excepto peixes picados:\n\n1604 11 00\n\n--Salmões\n\n20\n\n5,5\n\n-\n\n1604 12\n\n--Arenques:\n\n1604 12 10\n\n---Filetes crus, simplesmente revestidos de pasta ou de pão ralado (panados), mesmo pré-cozidos em óleo, congelados\n\n18\n\n15\n\n-\n\n1604 12 90\n\n---Outros\n\n23\n\n20\n\n-\n\n1604 13\n\n--Sardinhas, sardinelas e espadilhas:\n\n---Sardinhas:\n\n1604 13 11\n\n----Em azeite de oliveira\n\n25\n\n25\n\n-\n\n1604 13 19\n\n----Outras\n\n25\n\n25\n\n-\n\n1604 13 90\n\n---Outras\n\n25\n\n20\n\n-\n\n1604 14\n\n--Atuns, bonitos-listados e bonitos (Sarda spp.):\n\n---Atuns e bonitos-listados:\n\n1604 14 11\n\n----Em óleos vegetais\n\n25\n\n24\n\n-\n\n1604 12 19\n\n----Outros\n\n25\n\n24\n\n-\n\n1604 14 90\n\n---Bonitos (Sarda spp.)\n\n25\n\n25\n\n-\n\n1604 15\n\n--Cavalas, cavalinhas e sardas:\n\n---Das espécies Scomber scombrus e Scomber japonicus:\n\n1604 15 11\n\n----Filetes\n\n25\n\n25\n\n-\n\n1604 15 19\n\n----Outros\n\n25\n\n25\n\n-\n\n1604 15 90\n\n---Da espécie Scomber australasicus\n\n25\n\n20\n\n-\n\n1604 16 00\n\n--Anchovas\n\n25\n\n-\n\n-\n\n1604 19\n\n--Outros:\n\n1604 19 10\n\n---Salmonídeos, excepto salmões\n\n20\n\n7\n\n-\n\n1604 19 30\n\n---Peixes do género Euthynnus, excepto os listados [Euthynnus (Katsuwonus) pelamis]\n\n25\n\n24\n\n-\n\n1604 19 50\n\n---Peixes da espécie Orcynopsis unicolor\n\n25\n\n25\n\n-\n\n---Outros:\n\n1604 19 91\n\n----Filetes crus, simplesmente revestidos de pasta ou de pão ralado (panados), mesmo pré-cozidos em óleo, congelados\n\n18\n\n15\n\n-\n\n----Outros:\n\n1604 19 92\n\n-----Bacalhaus (Gadus morhua, Gadus ogac, Gadus macrocephalus)\n\n25\n\n20\n\n-\n\n1604 19 93\n\n-----Escamudos negros (Pollachius virens)\n\n25\n\n20\n\n-\n\n1604 19 94\n\n-----Pescadas (Merluccius spp. Urophycis spp.)\n\n25\n\n20\n\n-\n\n1604 19 95\n\n-----Escamudo do Alasca (Theragra chalcogramma) e escamudo amarelo (Pollachius pollachius)\n\n25\n\n20\n\n-\n\n1604 19 98\n\n-----Outros\n\n25\n\n20\n\n-\n\n1604 20\n\n-Outras preparações e conservas de peixes:\n\n1604 20 10\n\n--De salmões\n\n20\n\n5,5\n\n-\n\n1604 20 30\n\n--De salmonídeos, excepto salmões\n\n20\n\n7\n\n-\n\n1604 20 40\n\n--De anchovas\n\n25\n\n-\n\n-\n\n1604 20 50\n\n--De sardinhas, de bonitos, de cavalas e cavalinhas das espécies Scomber scombrus e Scomber japonicus e peixes das espécies Orcynopsis unicolor\n\n25\n\n25\n\n-\n\n1604 20 70\n\n--De atuns, bonitos-listados e outros peixes do género Euthynnus\n\n25\n\n24\n\n-\n\n1604 20 90\n\n--De outros peixes\n\n25\n\n20\n\n-\n\n1604 30\n\n-Caviar e seus sucedâneos:\n\n1604 30 10\n\n--Caviar (ovas de esturjão)\n\n30\n\n30\n\n-\n\n1604 30 90\n\n--Sucedâneos de caviar\n\n30\n\n30\n\n-\n\n1\n\n2\n\n3\n\n4\n\n5\n\n1605\n\nCrustáceos, moluscos e outros invertebrados aquáticos, preparados ou em conservas:\n\n1605 10 00\n\n-Caranguejos\n\n20\n\n16\n\n-\n\n1605 20 00\n\n-Camarões\n\n20\n\n20\n\n-\n\n1605 30 00\n\n-Lavagantes\n\n20\n\n20\n\n-\n\n1605 40 00\n\n-Outros crustáceos\n\n20\n\n20\n\n-\n\n1605 90\n\n-Outros:\n\n1605 90 10\n\n--Moluscos\n\n20\n\n20\n\n-\n\n1605 90 90\n\n--Outros invertebrados aquáticos\n\n26\n\n26\n\n-\n\n1902\n\nMassas alimentícias, mesmo cozidas ou recheadas (de carne ou de outras substâncias) ou preparadas de outro modo, tais como esparguete, macarrão, aletria, lasanha, nhoque, raviole e canelone; cuscuz, mesmo preparado:\n\n-Massas alimentícias não cozidas, nem recheadas, nem preparadas de outro modo:\n\n1902 20\n\n-Massas alimentícias recheadas (mesmo cozidas ou preparadas de outro modo):\n\n1902 20 10\n\n--Contendo, em peso, mais de 20 % de peixes e crustáceos, moluscos e outros invertebrados aquáticos\n\n17\n\n17\n\n-\n\n2301\n\nFarinhas, pó e pellets, de carnes miudezas, peixes ou crustáceos, moluscos ou outros invertebrados aquáticos, impróprios para a alimentação humana; torresmos:\n\n2301 20 00\n\n-Farinhas, pó e «pellets», de peixes ou crustáceos, moluscos ou outros invertebrados aquáticos\n\n5\n\n2\n\n-"
+  },
+  "73da0ba465660df1": {
+   "fragment_id": "ANEXO VIII — QUADRO DE CORRESPONDÊNCIA Regulamento (CEE) no. 3687/91",
+   "type": "divisao",
+   "heading": "ANEXO VIII — QUADRO DE CORRESPONDÊNCIA Regulamento (CEE) no. 3687/91",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII — QUADRO DE CORRESPONDÊNCIA Regulamento (CEE) no. 3687/91\n\nPresente regulamento"
+  },
+  "3e2be9ab815c2b2e": {
+   "fragment_id": "Artigo 1o.",
+   "type": "artigo",
+   "heading": "Artigo 1o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o."
+  },
+  "843a84e5b4f3c906": {
+   "fragment_id": "Artigo 2o.",
+   "type": "artigo",
+   "heading": "Artigo 2o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o."
+  },
+  "33af8f06b7430919": {
+   "fragment_id": "Artigo 3o. — Artigo 2o., no. 4",
+   "type": "artigo",
+   "heading": "Artigo 3o. — Artigo 2o., no. 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o. — Artigo 2o., no. 4"
+  },
+  "5e52ccce6e34d015": {
+   "fragment_id": "Artigo 4o.",
+   "type": "artigo",
+   "heading": "Artigo 4o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o."
+  },
+  "51f474f65fb7ee29": {
+   "fragment_id": "Artigo 3o.",
+   "type": "artigo",
+   "heading": "Artigo 3o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o."
+  },
+  "251f38c27ac37898": {
+   "fragment_id": "Artigo 5o.",
+   "type": "artigo",
+   "heading": "Artigo 5o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o."
+  },
+  "bdf0d4998f1f8344": {
+   "fragment_id": "Artigo 6o.",
+   "type": "artigo",
+   "heading": "Artigo 6o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o."
+  },
+  "c1b98bb193bfbfcd": {
+   "fragment_id": "Artigo 7o.",
+   "type": "artigo",
+   "heading": "Artigo 7o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o."
+  },
+  "bf168a47463223cf": {
+   "fragment_id": "Artigo 8o.",
+   "type": "artigo",
+   "heading": "Artigo 8o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o."
+  },
+  "0081a4606b1b163b": {
+   "fragment_id": "Artigo 9o.",
+   "type": "artigo",
+   "heading": "Artigo 9o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o."
+  },
+  "931ffa6404dd9314": {
+   "fragment_id": "Artigo 10o.",
+   "type": "artigo",
+   "heading": "Artigo 10o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o."
+  },
+  "ebb5fd94aa6545ba": {
+   "fragment_id": "Artigo 11o.",
+   "type": "artigo",
+   "heading": "Artigo 11o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o."
+  },
+  "0ff9203eef2b0e19": {
+   "fragment_id": "Artigo 12o.",
+   "type": "artigo",
+   "heading": "Artigo 12o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o.\n\nArtigos 11o. e 13o."
+  },
+  "0f6c670fca6e7171": {
+   "fragment_id": "Artigo 13o.",
+   "type": "artigo",
+   "heading": "Artigo 13o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o."
+  },
+  "0eafe249e681eb8b": {
+   "fragment_id": "Artigo 12o.",
+   "type": "artigo",
+   "heading": "Artigo 12o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o."
+  },
+  "60d2e1f937dc8242": {
+   "fragment_id": "Artigo 14o.",
+   "type": "artigo",
+   "heading": "Artigo 14o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o."
+  },
+  "76bbfdc856f404d4": {
+   "fragment_id": "Artigo 15o. — -",
+   "type": "artigo",
+   "heading": "Artigo 15o. — -",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o. — -"
+  },
+  "7411d5a890aae3a9": {
+   "fragment_id": "Artigo 16o.",
+   "type": "artigo",
+   "heading": "Artigo 16o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o."
+  },
+  "bdc5cebec3217bfb": {
+   "fragment_id": "Artigo 15o.",
+   "type": "artigo",
+   "heading": "Artigo 15o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o."
+  },
+  "d5a7ad86167debf1": {
+   "fragment_id": "Artigo 17o.",
+   "type": "artigo",
+   "heading": "Artigo 17o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o."
+  },
+  "33853103b66b87b7": {
+   "fragment_id": "Artigo 18o.",
+   "type": "artigo",
+   "heading": "Artigo 18o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o."
+  },
+  "bf871c7e41d468c1": {
+   "fragment_id": "Artigo 19o.",
+   "type": "artigo",
+   "heading": "Artigo 19o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o."
+  },
+  "2c35350c2d1f4fe0": {
+   "fragment_id": "Artigo 20o.",
+   "type": "artigo",
+   "heading": "Artigo 20o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o."
+  },
+  "4c5e0181b1de75e5": {
+   "fragment_id": "Artigo 21o. — -",
+   "type": "artigo",
+   "heading": "Artigo 21o. — -",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o. — -"
+  },
+  "a5ff71a9de794121": {
+   "fragment_id": "Artigo 22o.",
+   "type": "artigo",
+   "heading": "Artigo 22o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o."
+  },
+  "354ac0c6cbfee2a4": {
+   "fragment_id": "Artigo 23o.",
+   "type": "artigo",
+   "heading": "Artigo 23o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o."
+  },
+  "4c3478ee926a5123": {
+   "fragment_id": "Artigo 24o.",
+   "type": "artigo",
+   "heading": "Artigo 24o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24o."
+  },
+  "1f90d254c29cc176": {
+   "fragment_id": "Artigo 25o.",
+   "type": "artigo",
+   "heading": "Artigo 25o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25o."
+  },
+  "6074eafbc499e22b": {
+   "fragment_id": "Artigo 26o. — -",
+   "type": "artigo",
+   "heading": "Artigo 26o. — -",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26o. — -"
+  },
+  "927e1d3197941d0d": {
+   "fragment_id": "Artigo 27o.",
+   "type": "artigo",
+   "heading": "Artigo 27o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27o."
+  },
+  "ea0c43d4f4c68f38": {
+   "fragment_id": "Artigo 28o. — -",
+   "type": "artigo",
+   "heading": "Artigo 28o. — -",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28o. — -"
+  },
+  "fe7d5d75d9e74039": {
+   "fragment_id": "Artigo 29o.",
+   "type": "artigo",
+   "heading": "Artigo 29o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29o."
+  },
+  "b3ee6b53df9b190f": {
+   "fragment_id": "Artigo 30o.",
+   "type": "artigo",
+   "heading": "Artigo 30o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30o."
+  },
+  "6666fc3cd6c1ca56": {
+   "fragment_id": "Artigo 26o.",
+   "type": "artigo",
+   "heading": "Artigo 26o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26o."
+  },
+  "9ccb14fbd89d1c40": {
+   "fragment_id": "Artigo 31o.",
+   "type": "artigo",
+   "heading": "Artigo 31o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31o."
+  },
+  "4be77a97c53e39fd": {
+   "fragment_id": "Artigo 32o.",
+   "type": "artigo",
+   "heading": "Artigo 32o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32o."
+  },
+  "e169935f220e8222": {
+   "fragment_id": "Artigo 28o.",
+   "type": "artigo",
+   "heading": "Artigo 28o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28o."
+  },
+  "9f95446276a59d47": {
+   "fragment_id": "Artigo 33o.",
+   "type": "artigo",
+   "heading": "Artigo 33o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33o."
+  },
+  "23c0057d3095fbd3": {
+   "fragment_id": "Artigo 34o.",
+   "type": "artigo",
+   "heading": "Artigo 34o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34o."
+  },
+  "ec46ddcaa1e08e06": {
+   "fragment_id": "Artigo 35o.",
+   "type": "artigo",
+   "heading": "Artigo 35o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35o."
+  },
+  "dd52428de7048cc3": {
+   "fragment_id": "Artigo 36o.",
+   "type": "artigo",
+   "heading": "Artigo 36o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36o."
+  },
+  "efb6effe89448c6d": {
+   "fragment_id": "Artigo 37o.",
+   "type": "artigo",
+   "heading": "Artigo 37o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37o."
+  },
+  "145c53b0af7174b6": {
+   "fragment_id": "Artigo 38o.",
+   "type": "artigo",
+   "heading": "Artigo 38o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38o."
+  },
+  "3b6340e580f00f83": {
+   "fragment_id": "Artigo 39o.",
+   "type": "artigo",
+   "heading": "Artigo 39o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39o."
+  },
+  "80d14e78f5f32838": {
+   "fragment_id": "Artigo 40o.",
+   "type": "artigo",
+   "heading": "Artigo 40o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40o."
+  },
+  "cdab5bf7f3dc8a00": {
+   "fragment_id": "Artigo 36o. — Anexos I a VII",
+   "type": "artigo",
+   "heading": "Artigo 36o. — Anexos I a VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36o. — Anexos I a VII\n\nAnexos I a VII"
+  },
+  "5eed8d5b63f15f2c": {
+   "fragment_id": "ANEXO IV — A. Produtos vivos, frescos, refrigerados ou congelados: Código NC",
+   "type": "divisao",
+   "heading": "ANEXO IV — A. Produtos vivos, frescos, refrigerados ou congelados: Código NC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — A. Produtos vivos, frescos, refrigerados ou congelados: Código NC\n\nDesignação das mercadorias\n\n1. 0301 91 00, 0302 11 00, 0303 21 00, 0304 10 11, ex 0304 10 91, 0304 20 11 e ex 0304 90 10\n\nTrutas (Salmo trutta, Salmo gairdneri, Salmo clarki, Salmo aguabonita, Salmo gilae)\n\n0301 93 00, 0302 69 11, 0303 79 11, ex 0304 10 19, ex 0304 10 91, ex 0304 20 19 e ex 0304 90 10\n\nCarpas\n\n2. 0301 99 11, 0302 12 00, 0303 10 00, 0303 22 00, 0304 10 13, ex 0304 10 91, 0304 20 13 e\n\nex 0304 90 10\n\nSalmões-do-pacífico (Oncorhynchus spp.)\n\nSalmões-do-atlântico (Salmo salar)\n\ne Salmões-do-danúbio (Hucho hucho)\n\n0306 12 e ex 0306 22\n\nLavagantes (Homarus spp.)\n\nB. Produtos congelados ou salgados; crustáceos congelados: As seguintes espécies\n\nClassificáveis num dos seguintes códigos NC\n\nPeixes congelados,\n\nexcepto os filetes de\n\npeixes e outra carne\n\nde peixes da posição\n\n0304\n\nFiletes de peixes\n\ne outra carne de peixes\n\n(mesmo picada),\n\ncongelados\n\nPeixes salgados,\n\nsecos ou não\n\nPreparações\n\ne conservas\n\nde peixe da\n\nposição 1604\n\nCrustáceos\n\ncongelados\n\nEscamudo\n\n(Pollachius virens)\n\n0303 73 00\n\n0304 20 31 e\n\n0304 90 41\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nBacalhau-do-atlântico\n\n(Gadus morhua)\n\n0303 60 11\n\nex 0304 20 29 e\n\n0304 90 38\n\nex 0305 30 19,\n\nex 0305 51 90 e\n\nex 0305 62 00\n\nex 1604 19 91\n\nGalhudo malhado e\n\npatas-roxas\n\n(Squalus acanthias e\n\nScyliorhinus spp.)\n\n0303 75 20 e\n\n0303 75 50\n\n0304 20 61 e\n\nex 0304 90 97\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nEglefinos ou arincas\n\n(Melanogrammus aeglefinus)\n\n0303 72 00\n\n0304 20 33 e\n\n0304 90 45\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nPescadas brancas da espécie\n\nMerluccius merluccius\n\nex 0303 78 10\n\nex 0304 90 47\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nArenques da espécie\n\nClupea harengus\n\nex 0303 50 10 e\n\nex 0303 50 90\n\nex 0304 20 75,\n\nex 0304 90 21 e\n\nex 0304 90 25\n\nex 0305 30 90,\n\nex 0305 59 30 e\n\nex 0305 61 00\n\nex 1604 12 10\n\nLingues ou marucas\n\n(Molva spp.)\n\n0303 79 51\n\n0304 20 43 e\n\nex 0304 90 97\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nCavalas, cavalinhas e sardas\n\ndas espécies\n\nScomber scombrus e Scomber\n\njaponicus\n\n0303 74 11 e\n\n0303 74 19\n\nex 0304 20 53 e\n\nex 0304 90 97\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 15 10\n\nAreeiros\n\n(Lepidorhombus spp.)\n\n0303 39 20\n\n0304 20 79 e\n\n0304 90 51\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nTamboris (Lophius spp.)\n\n0303 79 81\n\n0304 20 83 e\n\n030490 57\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nSolhas\n\n(Pleuronectes platessa)\n\n0303 32 00\n\n0304 20 71 e\n\nex 0304 90 97\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nAs seguintes espécies\n\nClassificáveis num dos seguintes códigos NC\n\nPeixes congelados,\n\nexcepto os filetes de\n\npeixes e outra carne\n\nde peixes da posição\n\n0304\n\nFiletes de peixes\n\ne outra carne de peixes\n\n(mesmo picada),\n\ncongelados\n\nPeixes salgados,\n\nsecos ou não\n\nPreparações\n\ne conservas\n\nde peixe da\n\nposição 1604\n\nCrustáceos\n\ncongelados\n\nXaputas\n\n(Brama spp.)\n\n0303 79 75\n\n0304 20 81 e\n\n0304 90 55\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nCantarilhos do Norte\n\n(Sebastes spp.)\n\n0303 79 35 e\n\n0303 79 37\n\n0304 20 35,\n\n0304 20 37 e\n\n0304 90 31\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nBadejos\n\n(Merlangus merlangus)\n\n0303 79 45\n\n0304 20 41 e\n\nex 0304 90 97\n\nex 0305 30 90,\n\nex 0305 59 90 e\n\nex 0305 69 90\n\nex 1604 19 91\n\nSapateira (Cancer pagurus)\n\n0306 14 30\n\nLagostim\n\n(Nephrops norvegicus)\n\n0306 19 30\n\nSardinhas (Sardina pilchardus)\n\n0303 71 10\n\nex 0304 20 97\n\nex 0304 90 97\n\nex 1604 20 50\n\nex 1604 13 11\n\nex 1604 13 19\n\nAtum do género Thunnus e\n\npeixes do género Euthynnus\n\nex 0304 20 45\n\nex 0304 90 97\n\nex 1604 14 19\n\nex 1604 20 70\n\nC. Produtos em conserva: Código NC\n\nDesignação das mercadorias\n\n1. 1604 13 11, 1604 13 19 e ex 1604 20 50\n\nSardinhas\n\n2. ex 1604 14 11, ex 1604 14 19, ex 1604 19 30 e\n\nex 1604 20 70\n\nAtuns (Thunnus spp.), gaiado ou bonitos de ventre raiado [Euthynnus (Katsuwonus) pelamis] e outras espécies do género Euthynnus"
+  },
+  "d06ed18c214c0fd0": {
+   "fragment_id": "ANEXO VI — Produtos frescos ou refrigerados",
+   "type": "divisao",
+   "heading": "ANEXO VI — Produtos frescos ou refrigerados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — Produtos frescos ou refrigerados\n\ndas seguintes espécies\n\nSubsumíveis\n\naos códigos NC\n\nseguintes:\n\n1. Solha limão (Microstomus kitt)\n\nex 0302 29 90\n\n2. Atum rabilho (Thunnus thynnus)\n\nex 0302 39 10\n\nex 0302 39 90\n\n3. Juliana (Pollachius pollachius)\n\nex 0302 69 51\n\n4. Verdinho (Micromesistius poutassou ou Gadus poutassou)\n\n0302 69 85\n\n5. Faneca (Trisopterus luscus) e franeção (Trisopterus minutus)\n\nex 0302 69 97\n\n6. Boga-do-mar (Boops boops)\n\nex 0302 69 97\n\n7. Trombeiro-boga (Maena smaris)\n\nex 0302 69 97\n\n8. Congro (Conger conger)\n\nex 0302 69 97\n\n9. Cabras e ruivos (Trigla spp.)\n\nex 0302 69 97\n\n10. Carapaus (Trachurus spp.)\n\nex 0302 69 97\n\n11. Tainha (Mugil spp.)\n\nex 0302 69 97\n\n12.Raia (Raja spp.)\n\nex 0302 69 97 e\n\nex 0304 10 97\n\n13. Peixe-espada do Pacífico (Lepidopus caudatus e Aphanopus carbo)\n\nex 0302 69 97"
+  },
+  "4bc1969c8ca5dc10": {
+   "fragment_id": "ANEXO VII — Código NC",
+   "type": "divisao",
+   "heading": "ANEXO VII — Código NC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — Código NC\n\nDesignação das mercadorias\n\nTaxas dos direitos\n\nautónomos\n\n(%)\n\nou\n\nniveladores\n\n(AGR)\n\nconvencionais\n\n(%)\n\nUnidade\n\nsuplementar\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0301\n\nPeixes vivos:\n\n0301 10\n\n-Peixes ornamentais:\n\n0301 10 10\n\n--De água doce\n\n10\n\nIsenção\n\n-\n\n0301 10 90\n\n--Do mar\n\n15\n\n15\n\n-\n\n-Outros peixes vivos:\n\n0301 91 00\n\n--Trutas (Salmo trutta, Salmo gairdneri, Salmo clarki, Salmo aguabonita, Salmo gilae)\n\n16\n\n12\n\n-\n\n0301 92 00\n\n--Enguias (Anguilla spp.)\n\n10\n\n3\n\n-\n\n0301 93 00\n\n--Carpas\n\n10\n\n8\n\n-\n\n0301 99\n\n--Outros:\n\n---De água doce:\n\n0301 99 11\n\n----Salmões-do-pacífico (Oncorhynchus spp.), salmões-do-atlântico (Salmo salar) e salmões-do-danúbio (Hucho hucho)\n\n16\n\n2\n\n-\n\n0301 99 19\n\n----Outros\n\n10\n\n8\n\n-\n\n0301 99 90\n\n---Do mar\n\n17\n\n16\n\n-\n\n0302\n\nPeixes frescos ou refrigerados, excepto filetes de peixes e outra carne de peixes da posição 0304:\n\n-Salmonídeos, excepto fígados, ovas e sémen:\n\n0302 11 00\n\n--Trutas (Salmo trutta, Salmo gairdneri, Salmo clarki, Salmo aguabonita, Salmo gilae)\n\n16\n\n12\n\n-\n\n0302 12 00\n\n--Salmões-do-pacífico (Oncorhynchus spp.), salmões-do-atlântico\n\n(Salmo salar) e salmões-do-danúbio (Hucho hucho)\n\n16\n\n2\n\n-\n\n0302 19 00\n\n--Outros\n\n16\n\n8\n\n-\n\n-Peixes chatos (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae e Citharidae), excepto fígados, ovas e sémen:\n\n0302 21\n\n--Alabotes (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis):\n\n0302 21 10\n\n---Alabote negro (Reinhardtius hippoglossoides)\n\n15\n\n8\n\n-\n\n0302 21 30\n\n---Alabote-do-atlântico (Hippoglossus hippoglossus)\n\n15\n\n8\n\n-\n\n0302 21 90\n\n---Alabote-do-pacífico (Hippoglossus stenolepis)\n\n15\n\n15\n\n-\n\n0302 22 00\n\n--Solhas ou patruças (Pleuronectes platessa)\n\n15\n\n15\n\n-\n\n0302 23 00\n\n--Linguados (Solea spp.)\n\n15\n\n15\n\n-\n\n0302 29\n\n--Outros:\n\n0302 29 10\n\n---Areiros (Lepidorhombus spp.)\n\n15\n\n15\n\n-\n\n0302 29 90\n\n---Outros\n\n15\n\n15\n\n-\n\n-Atuns (do género Thunnus), bonitos listados ou bonitos de ventre raiado [Euthynnus (Katsuwonus) pelamis], excepto fígados, ovas e sémen:\n\n0302 31\n\n--Atuns brancos ou germões (Thunnus alalunga):\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0302 31 10\n\n---Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (¹)\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0302 31 90\n\n---Outros\n\n25 (²)\n\n22 (²) (& {highdigit};)\n\n-\n\n0302 32\n\n--Albacoras ou atuns de barbatanas amarelas (Thunnus albacares):\n\n0302 32 10\n\n---Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (¹)\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0302 32 90\n\n---Outros\n\n25 (²)\n\n22 (²) (& {highdigit};)\n\n-\n\n0302 33\n\n--Bonitos listados ou bonitos de ventre raiado:\n\n0302 33 10\n\n---Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (¹)\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0302 33 90\n\n---Outros\n\n25 (²)\n\n22 (²) (& {highdigit};)\n\n-\n\n0302 39\n\n--Outros:\n\n0302 39 10\n\n---Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (¹)\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0302 39 90\n\n---Outros\n\n25 (²)\n\n22 (²) (& {highdigit};)\n\n-\n\n0302 40\n\n-Arenques (Clupea harengus, Clupea pallasii), excepto fígados, ovas e sémen:\n\n0302 40 10\n\n--De 15 de Fevereiro a 15 de Junho\n\nIsenção\n\nIsenção\n\n-\n\n0302 40 90\n\n--De 16 de Junho a 14 de Fevereiro\n\n20 (²)\n\n15 (²) (& {highdigit};)\n\n-\n\n0302 50\n\n-Bacalhaus (Gadus morhua, Gadus ogac, Gadus macrocephalus), excepto fígados, ovas e sémen:\n\n0302 50 10\n\n--Da espécie Gadus morhua\n\n15\n\n12\n\n-\n\n0302 50 90\n\n--Outros\n\n15\n\n15\n\n-\n\n-Outros peixes, excepto fígados, ovas e sémen:\n\n0302 61\n\n--Sardinhas (Sardina pilchardus, Sardinops spp.), sardinelas (Sardinella spp.) e espadilhas (Sprattus sprattus):\n\n0302 61 10\n\n---Sardinhas da espécie Sardina pilchardus\n\n25\n\n23\n\n-\n\n0302 61 30\n\n---Sardinhas do género Sardinops; sardinelas (Sardinella spp.)\n\n15\n\n15\n\n-\n\n---Espadilhas (Sprattus sprattus):\n\n0302 61 91\n\n----De 15 de Fevereiro a 15 de Junho\n\nIsenção\n\nIsenção\n\n-\n\n0302 61 99\n\n----De 16 de Junho a 14 de Fevereiro\n\n20\n\n13\n\n-\n\n0302 62 00\n\n--Eglefinos ou arincas (Melanogrammus aeglefinus)\n\n15\n\n15\n\n-\n\n0302 63 00\n\n--Escamudos negros (Pollachius virens)\n\n15\n\n15\n\n-\n\n0302 64\n\n--Cavalas, cavalinhas e sardas (Scomber scombrus, Scomber australasicus, Scomber japonicus):\n\n0302 64 10\n\n---De 15 de Fevereiro a 15 de Junho\n\nIsenção\n\nIsenção\n\n-\n\n0302 64 90\n\n---De 16 de Junho a 14 de Fevereiro\n\n20\n\n20\n\n-\n\n0302 65\n\n--Esqualos:\n\n0302 65 20\n\n---Caes-do-mar ou tubarões espinhosos (Squalus acanthias)\n\n15\n\n8 (& {highdigit};)\n\n-\n\n0302 65 50\n\n---Pata-roxas (Scyliorhinus spp.)\n\n15\n\n8\n\n-\n\n(¹) A admissão nesta subposição está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n(²) Sujeito à observância do preço de referência. Em caso de inobservância do preço de referência, está prevista a cobrança de um direito de compensação.\n\n(³) A cobrança deste direito está suspensa por um período indeterminado.\n\n(& {highdigit};) Isenção para o atum e para os peixos do género Euthynnus das posições 0302 e 0303, destinados à indústria da conserva, dentro do limite de um contingente pautal anual global de 17 250 toneladas a conceder pelas autoridades comunitárias competentes e na condição da observância do preço de referência. Outrossim, a admissão ao benefício deste contingente está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n(& {highdigit};) Isenção para os arenques das subposições 0302 40 90, 0303 50 90, 0304 10 93, 0304 10 98 e 0304 90 25, dentro do limite de um contingente pautal anual global de 34 000 toneladas a conceder pelas autoridades comunitárias competentes e sujeito à observância do preço de referência.\n\n(& {highdigit};) Direito de 6 % para os caes-do-mar (Squalus acanthias) das subposições 0302 65 20 e 0303 75 20, dentro do limite de um contingente pautal anual global de 5 000 toneladas a conceder pelas autoridades comunitárias competentes.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0302 65 90\n\n---Outros\n\n15\n\n8\n\n-\n\n0302 66 00\n\n--Enguias (Anguilla spp.)\n\n10\n\n3\n\n-\n\n0302 69\n\n--Outros:\n\n---De água doce:\n\n0302 69 11\n\n----Carpas\n\n10\n\n8\n\n-\n\n0302 69 19\n\n----Outros\n\n10\n\n8\n\n-\n\n---Do mar:\n\n----Peixes do género Euthynnus, excepto os bonitos listados ou bonitos de ventre raiado [Euthynnus (Katsuwonus) pelamis] referidos na subposição 0302 33 acima:\n\n0302 69 21\n\n-----Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (¹)\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0302 69 25\n\n-----Outros\n\n25 (²)\n\n22 (²) (& {highdigit};)\n\n-\n\n----Cantarilhos (Sebastes spp.):\n\n0302 69 31\n\n-----Da espécie Sebastes marinus\n\n15\n\n8\n\n-\n\n0302 69 33\n\n-----Outros\n\n15\n\n15\n\n-\n\n0302 69 35\n\n----Peixes da espécie Boreogadus saida\n\n15\n\n12\n\n-\n\n0302 69 41\n\n----Badejos (Merlangus merlangus)\n\n15\n\n15\n\n-\n\n0302 69 45\n\n----Lingues (Molva spp.)\n\n15\n\n15\n\n-\n\n0302 69 51\n\n----Escamudo do Alasca (Theragra chalcogramma) e escamudo amarelo (Pollachius pollachius)\n\n15\n\n15\n\n-\n\n0302 69 55\n\n----Anchovas (Engraulis spp.)\n\n15\n\n15\n\n-\n\n0302 69 61\n\n----Douradas do mar das espécies Dentex dentex e Pagellus spp.\n\n15\n\n15\n\n-\n\n0302 69 65\n\n----Pescadas (Merluccius spp., Urophycis spp.)\n\n15\n\n15 (& {highdigit};)\n\n-\n\n0302 69 75\n\n----Xaputa (Brama spp.)\n\n15\n\n15\n\n-\n\n0302 69 81\n\n----Tamboril (Lophius spp.)\n\n15\n\n15\n\n-\n\n0302 69 85\n\n----Pichelim ou verdinho (Micromesistius poutassou ou Gadus poutassou)\n\n15\n\n15\n\n-\n\n0302 69 87\n\n----Espadarte (Xiphias gladius)\n\n15\n\n15\n\n-\n\n0302 69 91\n\n----Carapaus e chicharros (Caranx trachurus, Trachurus trachurus)\n\n15\n\n15\n\n-\n\n0302 69 97\n\n----Outros\n\n15\n\n15\n\n-\n\n0302 70 00\n\n-Figados, ovas e sémen\n\n14\n\n10\n\n-\n\n0303\n\nPeixes congelados, excepto os filetes de peixes e outra carne de peixes da posição 0304:\n\n0303 10 00\n\n-Salmões-do-pacífico (Oncorhynchus spp.), excepto fígados, ovas e sémen\n\n16\n\n2\n\n-\n\n-Outros salmonídeos, excepto fígados, ovas e sémen:\n\n0303 21 00\n\n--Trutas (Salmo trutta, Salmo gairdneri, Salmo clarki, Salmo aguabonita, Salmo gilae)\n\n16\n\n12\n\n-\n\n0303 22 00\n\n--Salmões-do-atlântico (Salmo salar) e salmões-do-danúbio (Hucho hucho)\n\n16\n\n2\n\n-\n\n0303 29 00\n\n--Outros\n\n16\n\n9\n\n-\n\n(¹) A admissão nesta subposição está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n(²) Sujeito à observância do preço de referência. Em caso de inobservância de preço de referência, está prevista a cobrança de um direito de compensação.\n\n(³) A cobrança deste direito está suspensa por um período indeterminado.\n\n(& {highdigit};) Isenção para o atum e para os peixes do género Euthynnus, das posições 0302 e 0303, destinados à indústria da conserva dentro do limite de um contingente pautal anual global de 17 250 toneladas a conceder pelas autoridades comunitárias competentes e na condição da observância do preço de referência. Outrossim, a admissão ao benefício deste contingente está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n(& {highdigit};) Direito de 8 % para a pescada prateada (Merluccius bilinearis) das subposições 0302 69 65, 0303 78 10 e 0304 90 47, dentro do limite de um contingente pautal anual global de 2 000 toneladas a conceder pelas autoridades comunitárias competentes.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n-Peixes chatos (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae e Citharidae), excepto fígados, ovas e sémen:\n\n0303 31\n\n--Alabotes (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis):\n\n0303 31 10\n\n---Alabotes negros (Reinhardtius hippoglossoides)\n\n15\n\n8\n\n-\n\n0303 31 30\n\n---Alabotes-do-atlântico (Hippoglossus hippoglossus)\n\n15\n\n8\n\n-\n\n0303 31 90\n\n---Alabotes-do-pacífico (Hippoglossus stenolepis)\n\n15\n\n15\n\n-\n\n0303 32 00\n\n--Solhas ou patruças (Pleuronectes platessa)\n\n15\n\n15\n\n-\n\n0303 33 00\n\n--Linguados (Solea spp.)\n\n15\n\n15\n\n-\n\n0303 39\n\n--Outros:\n\n0303 39 10\n\n---Azevias (Platichthys flesus)\n\n15\n\n15\n\n-\n\n0303 39 20\n\n---Areiros (Lepidorhombus spp.)\n\n15\n\n15\n\n-\n\n0303 39 90\n\n---Outros\n\n15\n\n15\n\n-\n\n-Atuns (do género Thunnus), bonitos listados ou bonitos de ventre raiado [Euthynnus (Katsuwonus) pelamis], excepto fígados, ovas e sémen:\n\n0303 41\n\n--Atuns brancos ou germões (Thunnus alalunga):\n\n---Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (¹):\n\n0303 41 11\n\n----Inteiros\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0303 41 13\n\n----Eviscerados, sem guelras\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0303 41 19\n\n----Outros (por exemplo descabeçados)\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0303 41 90\n\n---Outros\n\n25 (²)\n\n22 (²) (& {highdigit};)\n\n-\n\n0303 42\n\n--Albacoras ou atuns de barbatanas amarelas (Thunnus albacares):\n\n---Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (¹):\n\n----Inteiros:\n\n0303 42 12\n\n-----Pesando mais de 10 kg cada um\n\n25 (²) (³)\n\n20 (²) (& {highdigit};)\n\n-\n\n0303 42 18\n\n-----Outros\n\n25 (²) (³)\n\n20 (²) (& {highdigit};)\n\n-\n\n----Eviscerados, sem guelras:\n\n0303 42 32\n\n-----Pesando mais de 10 kg cada um\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0303 42 38\n\n-----Outros\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n----Outros (por exemplo descabeçados):\n\n0303 42 52\n\n-----Pesando mais de 10 kg cada um\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0303 42 58\n\n-----Outros\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0303 42 90\n\n---Outros\n\n25 (²)\n\n22 (²) (& {highdigit};)\n\n-\n\n0303 43\n\n--Bonitos listados ou bonitos de ventre raiado:\n\n---Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (¹):\n\n0303 43 11\n\n----Inteiros\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n0303 43 13\n\n----Eviscerados, sem guelras\n\n25 (²) (³)\n\n22 (²) (& {highdigit};)\n\n-\n\n(¹) A admissão nesta subposição está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n(²) Sujeito à observância do preço de referência. Em caso de inobservância do preço de referência, está prevista a cobrança de um direito de compensação.\n\n(³) A cobrança deste direito está suspensa por um período indeterminado.\n\n(& {highdigit};) Isenção para o atum e para os peixes do género Euthynnus, das posições 0302 e 0303, destinados à indústria da conserva dentro do limite de um contingente pautal anual global de 17 250 toneladas a conceder pelas autoridades comunitárias competentes e na condição da observância do preço de referência. Outrossim, a admissão ao benefício deste contingente está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0303 43 19\n\n----Outros (por exemplo descabeçados)\n\n25 (¹) (²)\n\n22 (¹) (³)\n\n-\n\n0303 43 90\n\n---Outros\n\n25 (¹)\n\n22 (¹) (³)\n\n-\n\n0303 49\n\n--Outros:\n\n---Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (& {highdigit};):\n\n0303 49 11\n\n----Inteiros\n\n25 (¹) (²)\n\n22 (¹) (³)\n\n-\n\n0303 49 13\n\n----Eviscerados, sem guelras\n\n25 (¹) (²)\n\n22 (¹) (³)\n\n-\n\n0303 49 19\n\n----Outros (por exemplo descabeçados)\n\n25 (¹) (²)\n\n22 (¹) (³)\n\n-\n\n0303 49 90\n\n---Outros\n\n25 (¹)\n\n22 (¹) (³)\n\n-\n\n0303 50\n\n-Arenques (Clupea harengus, Clupea pallasii), excepto fígados, ovas e sémen:\n\n0303 50 10\n\n--De 15 de Fevereiro a 15 de Junho\n\nIsenção\n\nIsenção\n\n-\n\n0303 50 90\n\n--De 16 de Junho a 14 de Fevereiro\n\n20 (¹)\n\n15 (¹) (& {highdigit};)\n\n-\n\n0303 60\n\n-Bacalhaus (Gadus morhua, Gadus ogac, Gadus macrocephalus), excepto fígados, ovas e sémen:\n\n0303 60 11\n\n--Da espécie Gadus morhua\n\n15\n\n12 (& {highdigit};)\n\n-\n\n0303 60 19\n\n--Da espécie Gadus ogac\n\n15\n\n15 (& {highdigit};)\n\n-\n\n0303 60 90\n\n--Da espécie Gadus macrocephalus\n\n15\n\n15\n\n-\n\n-Outros peixes, excepto fígados, ovas e sémen:\n\n0303 71\n\n--Sardinhas (Sardina pilchardus, Sardinops spp.), sardinelas (Sardinella spp.) e espadilhas (Sprattus sprattus):\n\n0303 71 10\n\n---Sardinhas da espécie Sardina pilchardus\n\n25\n\n23\n\n-\n\n0303 71 30\n\n---Sardinhas do género Sardinops; sardinelas (Sardinella spp.)\n\n15\n\n15\n\n-\n\n---Espadilhas (Sprattus sprattus):\n\n0303 71 91\n\n----De 15 de Fevereiro a 15 de Junho\n\nIsenção\n\nIsenção\n\n-\n\n0303 71 99\n\n----De 16 de Junho a 14 de Fevereiro\n\n20\n\n13\n\n-\n\n0303 72 00\n\n--Eglefinos ou arincas (Melanogrammus aeglefinus)\n\n15\n\n15\n\n-\n\n0303 73 00\n\n--Escamudos negros (Pollachius virens)\n\n15\n\n15\n\n-\n\n0303 74\n\n--Cavalas, cavalinhas e sardas (Scomber scombrus, Scomber australasicus, Scomber japonicus):\n\n---Das espécies Scomber scombrus e Scomber japonicus:\n\n0303 74 11\n\n----De 15 de Fevereiro a 15 de Junho\n\nIsenção\n\nIsenção\n\n-\n\n0303 74 19\n\n----De 16 de Junho a 14 de Fevereiro\n\n20\n\n20\n\n-\n\n0303 74 90\n\n---Da espécie Scomber australasicus\n\n15\n\n15\n\n-\n\n0303 75\n\n--Esqualos:\n\n0303 75 20\n\n---Caes-do-mar ou tubarões espinhosos (Squalus acanthias)\n\n15\n\n8 (& {highdigit};)\n\n-\n\n0303 75 50\n\n---Pata-roxas (Scyliorhinus spp.)\n\n15\n\n8\n\n-\n\n0303 75 90\n\n---Outros\n\n15\n\n8\n\n-\n\n0303 76 00\n\n--Enguias (Anguilla spp.)\n\n10\n\n3\n\n-\n\n(¹) Sujeito à observância do preço de referência. Em caso de inobservância do preço de referência, está prevista a cobrança de um direito de compensação.\n\n(²) A cobrança deste direito está suspensa por um período indeterminado.\n\n(³) Isenção para o atum e para os peixes do género Euthynnus das posições 0302 e 0303, destinados à indústria da conserva, dentro do limite de um contingente pautal anual global de 17 250 toneladas a conceder pelas autoridades comunitárias competentes e na condição da observância do preço de referência. Outrossim, a admissão ao benefício deste contingente está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n(& {highdigit};) A admissão nesta subposição está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n(& {highdigit};) Isenção para os arenques das subposições 0302 40 90, 0303 50 90, 0304 10 93, 0304 10 98 e 0304 90 25, dentro do limite de um contingente pautal anual global de 34 000 toneladas a conceder pelas autoridades comunitárias competentes e sujeito à observância do preço de referência.\n\n(& {highdigit};) Sob reserva dos limites e condições a determinar pelas autoridades competentes.\n\n(& {highdigit};) Direito de 6 % para os caes-do-mar (Squalus acanthias) das subposições 0302 65 20 e 0303 75 20, dentro do limite de um contingente pautal anual global de 5 000 toneladas a conceder pelas autoridades comunitárias competentes.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0303 77 00\n\n--Robalos e bailas (Dicentrarchus labrax, Dicentrarchus punctatus)\n\n15\n\n15\n\n-\n\n0303 78\n\n--Pescadas (Merluccius spp., Urophycis spp.):\n\n0303 78 10\n\n---Pescadas do género Merluccius\n\n15\n\n15 (¹)\n\n-\n\n0303 78 90\n\n---Pescadas do género Urophycis\n\n15\n\n15\n\n-\n\n0303 79\n\n--Outros:\n\n---De água doce:\n\n0303 79 11\n\n----Carpas\n\n10\n\n8\n\n-\n\n0303 79 19\n\n----Outros\n\n10\n\n8\n\n-\n\n---Do mar:\n\n----Peixes do género Euthynnus, excepto os bonitos listados ou bonitos de ventre raiado [Euthynnus (Katsuwonus) pelamis] referidos na subposição 0303 43 acima:\n\n-----Destinados à fabricação industrial dos produtos classificáveis pela posição 1604 (²):\n\n0303 79 21\n\n------Inteiros\n\n25 (³) (& {highdigit};)\n\n22 (³) (& {highdigit};)\n\n-\n\n0303 79 23\n\n------Eviscerados, sem guelras\n\n25 (³) (& {highdigit};)\n\n22 (³) (& {highdigit};)\n\n-\n\n0303 79 29\n\n------Outros (por exemplo descabeçados)\n\n25 (³) (& {highdigit};)\n\n22 (³) (& {highdigit};)\n\n-\n\n0303 79 31\n\n-----Outros\n\n25 (³)\n\n22 (³) (& {highdigit};)\n\n-\n\n----Cantarilhos (Sebastes spp.):\n\n0303 79 35\n\n-----Da espécie Sebastes marinus\n\n15\n\n8\n\n-\n\n0303 79 37\n\n-----Outros\n\n15\n\n15\n\n-\n\n0303 79 41\n\n----Peixes da espécie Boreogadus saida\n\n15\n\n12 (& {highdigit};)\n\n-\n\n0303 79 45\n\n----Badejos (Merlangus merlangus)\n\n15\n\n15\n\n-\n\n0303 79 51\n\n----Lingues (Molva spp.)\n\n15\n\n15\n\n-\n\n0303 79 55\n\n----Escamudo do Alasca (Theragra chalcogramma) e escamudo amarelo (Pollachius pollachius)\n\n15\n\n15\n\n-\n\n----Peixes da espécie Orcynopsis unicolor:\n\n0303 79 61\n\n-----De 15 de Fevereiro a 15 de Junho\n\nIsenção\n\nIsenção\n\n-\n\n0303 79 63\n\n-----De 16 de Junho a 14 de Fevereiro\n\n20\n\n20\n\n-\n\n0303 79 65\n\n----Anchovas (Engraulis spp.)\n\n15\n\n15\n\n-\n\n0303 79 71\n\n----Douradas do mar das espécies Dentex dentex e Pagellus spp.\n\n15\n\n15\n\n-\n\n0303 79 75\n\n----Xaputas (Brama spp.)\n\n15\n\n15\n\n-\n\n0303 79 81\n\n----Tamboril (Lophius spp.)\n\n15\n\n15\n\n-\n\n0303 79 83\n\n----Pichelim ou verdinho (Micromesistius poutassou ou Gadus poutassou)\n\n15\n\n15\n\n-\n\n0303 79 87\n\n----Espadarte (Xiphias gladius)\n\n15\n\n15\n\n-\n\n0303 79 91\n\n----Carapaus e chicharros (Caranx trachurus, Trachurus trachurus)\n\n15\n\n15\n\n-\n\n0303 79 97\n\n----Outros\n\n15\n\n15\n\n-\n\n0303 80 00\n\n-Fígados, ovas e sémen\n\n14\n\n10\n\n-\n\n(¹) Direito de 8 % para a pescada prateada (Merluccius bilinearis) das subposições 0302 69 65, 0303 78 10 e 0304 90 47, dentro do limite de um contingente pautal anual global de 2 000 toneladas a conceder pelas autoridades comunitárias competentes.\n\n(²) A admissão nesta subposição está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n(³) Sujeito à observância do preço de referência. Em caso de inobservância do preço, está prevista a cobrança de um direito de compensação.\n\n(& {highdigit};) A cobrança deste direito está suspensa por um período indeterminado.\n\n(& {highdigit};) Isenção para o atum e para os peixes do género Euthynnus das posições 0302 e 0303, destinados à indústria da conserva, dentro do limite de um contingente pautal anual global de 17 250 toneladas a conceder pelas autoridades comunitárias competentes a na condição da observância do preço de referência. Outrossim, a admissão ao benefício deste contingente está sujeita às condições previstas nas disposições comunitárias em vigor na matéria.\n\n(& {highdigit};) Sob reserva dos limites e condições a determinar pelas autoridades competentes.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0304\n\nFiletes de peixes e outra carne de peixes (mesmo picada), frescos, refrigerados ou congelados:\n\n0304 10\n\n-Frescos ou refrigerados:\n\n--Filetes:\n\n---De peixes de água doce:\n\n0304 10 11\n\n----De trutas (Salmo trutta, Salmo gairdneri, Salmo clarki, Salmo aguabonita, Salmo gilae)\n\n16\n\n12\n\n-\n\n0304 10 13\n\n----De salmões-do-pacífico (Oncorhynchus spp.), salmões-do-atlântico (Salmo salar) e salmões-do-danúbio (Hucho hucho)\n\n16\n\n2\n\n-\n\n0304 10 19\n\n----De outros peixes de água doce\n\n13\n\n9\n\n-\n\n---Outros:\n\n0304 10 31\n\n----De bacalhaus (Gadus morhua, Gadus ogac, Gadus macrocephalus) e de peixes da espécie Boreogadus saida\n\n18\n\n18\n\n-\n\n0304 10 33\n\n----De escamudos negros (Pollachius virens)\n\n18\n\n18\n\n-\n\n0304 10 35\n\n----De cantarilhos (Sebastes spp.)\n\n18\n\n18\n\n-\n\n0304 10 38\n\n----Outros\n\n18\n\n18\n\n-\n\n--Outra carne de peixes (mesmo picada):\n\n0304 10 91\n\n---De peixes de água doce\n\n8\n\n8\n\n-\n\n---Outros:\n\n----Lombos de arenques:\n\n0304 10 92\n\n-----De 15 de Fevereiro a 15 de Junho\n\nIsenção\n\nIsenção\n\n-\n\n0304 10 93\n\n-----De 16 de Junho a 14 de Fevereiro\n\n20\n\n15 (¹)\n\n-\n\n0304 10 98\n\n----Outros\n\n18\n\n15 (¹)\n\n-\n\n0304 20\n\n-Filetes congelados:\n\n--De peixes de água doce:\n\n0304 20 11\n\n---De trutas (Salmo trutta, Salmo gairdneri, Salmo clarki, Salmo aguabonita, Salmo gilae)\n\n16\n\n12\n\n-\n\n0304 20 13\n\n---De salmões-do-pacífico (Oncorhynchus spp.), salmões-do-atlântico (Salmo salar) e salmões-do-danúbio (Hucho hucho)\n\n16\n\n2\n\n-\n\n0304 20 19\n\n---De outros peixes de água doce\n\n13\n\n9\n\n-\n\n--De bacalhaus (Gadus morhua, Gadus ogac, Gadus macrocephalus) e de peixes da espécie Boreogadus saida:\n\n0304 20 21\n\n---De bacalhaus da espécie Gadus macrocephalus\n\n18\n\n15\n\n-\n\n0304 20 29\n\n---Outros\n\n18\n\n15 (²) (³)\n\n-\n\n0304 20 31\n\n--De escamudos negros (Pollachius virens)\n\n18\n\n15\n\n-\n\n0304 20 33\n\n--De eglefinos ou arincas (Melanogrammus aeglefinus)\n\n18\n\n15\n\n-\n\n--De cantarilhos (Sebastes spp.):\n\n0304 20 35\n\n---Da espécie Sebastes marinus\n\n18\n\n12\n\n-\n\n0304 20 37\n\n---Outros\n\n18\n\n15\n\n-\n\n0304 20 41\n\n--De badejos (Merlangus merlangus)\n\n18\n\n15\n\n-\n\n0304 20 43\n\n--De lingues (Molva spp.)\n\n18\n\n15\n\n-\n\n0304 20 45\n\n--De atum (do género Thunnus), e peixes do género Euthynnus\n\n18\n\n18\n\n-\n\n--De cavalas, cavalinhas e sardas (Scomber scombrus, Scomber australasicus, Scomber japonicus) e da espécie Orcynopsis unicolor:\n\n0304 20 51\n\n---Da espécie Scomber australasicus\n\n18\n\n15\n\n-\n\n(¹) Isenção para os arenques das subposições 0302 40 90, 0303 50 90, 0304 10 93, 0304 10 98 e 0304 90 25, dentro do limite de um contingente pautal anual global de 34 000 toneladas a conceder pelas autoridades comunitárias competentes e sujeito à observância do preço de referência.\n\n(²) Direito de 8 % para o bacalhau da espécie Gadus morhua dentro do limite dum contingente pautal anual de 10 000 toneladas a conceder pelas autoridades comunitárias competentes.\n\n(³) Sob reserva dos limites e condições a determinar pelas autoridades competentes.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0304 20 53\n\n---Outros\n\n18\n\n15\n\n-\n\n--De pescada (Merluccius spp., Urophycis spp.):\n\n0304 20 57\n\n---Pescada do género Merluccius\n\n18\n\n15 (¹) (²)\n\n-\n\n0304 20 59\n\n---Pescada de género Urophycis\n\n18\n\n15\n\n-\n\n--De esqualos:\n\n0304 20 61\n\n---Caes-do-mar ou tubarões espinhosos e pata-roxas (Squalus acanthias e Scyliorhinus spp.)\n\n18\n\n15\n\n-\n\n0304 20 69\n\n---De outros esqualos\n\n18\n\n15\n\n-\n\n0304 20 71\n\n--De solhas ou patruças (Pleuronectes platessa)\n\n18\n\n15\n\n-\n\n0304 20 73\n\n--De azevia (Platichthys flesus)\n\n18\n\n15\n\n-\n\n0304 20 75\n\n--De arenques (Clupea harengus, Clupea pallasii)\n\n18\n\n15\n\n-\n\n0304 20 79\n\n--De areiros (Lepidorhombus spp.)\n\n18\n\n15\n\n-\n\n0304 20 81\n\n--De xaputa (Brama spp.)\n\n18\n\n15\n\n-\n\n0304 20 83\n\n--De tamboril (Lophius spp.)\n\n18\n\n15\n\n-\n\n0304 20 85\n\n--De escamudo do Alasca (Theragra chalcogramma)\n\n18\n\n15\n\n-\n\n0304 20 87\n\n--De espadarte (Xiphias gladius)\n\n18\n\n15\n\n-\n\n0304 20 97\n\n--Outros\n\n18\n\n15\n\n-\n\n0304 90\n\n-Outros:\n\n0304 90 10\n\n--De peixes de água doce\n\n8\n\n8\n\n-\n\n--Outros:\n\n---De arenques (Clupea harengus, Clupea pallasii):\n\n0304 90 21\n\n----De 15 de Fevereiro a 15 de Junho\n\nIsenção\n\nIsenção\n\n-\n\n0304 90 25\n\n----De 16 de Junho a 14 de Fevereiro\n\n20 (³)\n\n15 (³) (& {highdigit};)\n\n-\n\n0304 90 31\n\n---De cantarilhos (Sebastes spp.)\n\n15\n\n8\n\n-\n\n---De bacalhaus (Gadus morhua, Gadus ogac, Gadus macrocephalus) e de peixes da espécie Boreogadus saida:\n\n0304 90 35\n\n----De bacalhau da espécie Gadus macrocephalus\n\n15\n\n15\n\n-\n\n0304 90 38\n\n----De bacalhau da espécie Gadus morhua\n\n15\n\n12 (& {highdigit};)\n\n-\n\n0304 90 39\n\n----Outros\n\n15\n\n15 (& {highdigit};)\n\n-\n\n0304 90 41\n\n---De escamudos negros (Pollachius virens)\n\n15\n\n15\n\n-\n\n0304 90 45\n\n---De eglefinos ou arincas (Melanogrammus aeglefinus)\n\n15\n\n15\n\n-\n\n---De pescada (Merluccius spp., Urophycis spp.):\n\n0304 90 47\n\n----Pescada do género Merluccius\n\n15\n\n15 (& {highdigit};)\n\n-\n\n0304 90 49\n\n----Pescada do género Urophycis\n\n15\n\n15\n\n-\n\n0304 90 51\n\n---De areiros (Lepidorhombus spp.)\n\n15\n\n15\n\n-\n\n0304 90 55\n\n---De xaputa (Brama spp.)\n\n15\n\n15\n\n-\n\n0304 90 57\n\n---De tamboril (Lophius spp.)\n\n15\n\n15\n\n-\n\n(¹) Sujeito à observância do preço de referência.\n\n(²) Direito de 10 % sujeito à observância do preço de referência, dentro do limite de um contingente anual de 5 000 toneladas, para as placas industriais com espinhas («padrão») congeladas, no período de 1 de Julho a 31 de Dezembro, a conceder pelas autoridades competentes da Comunidade.\n\n(³) Sujeito à observância do preço de referência. Em caso de inobservância do preço de referência, está prevista a cobrança de um direito de compensação.\n\n(& {highdigit};) Isenção para os arenques das subposições 0302 40 90, 0303 50 90, 0304 10 93, 0304 10 98 e 0304 90 25, dentro do limite de um contingente pautal anual global de 34 000 toneladas a conceder pelas autoridades comunitárias competentes e sujeito à observância do preço de referência.\n\n(& {highdigit};) Sob reserva dos limites e condições a determinar pelas autoridades competentes.\n\n(& {highdigit};) Direito de 8 % para a pescada prateada (Merluccius bilinearis) das subposições 0302 69 65, 0303 78 10 e 0304 90 47, dentro do limite de um contingente pautal anual global de 2 000 toneladas a conceder pelas autoridades comunitárias competentes.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0304 90 59\n\n---De pichelim ou verdinho (Micromesistius poutassou ou Gadus poutassou)\n\n15\n\n15\n\n-\n\n0304 90 61\n\n---De escamudo do Alasca (Theragra chalcogramma)\n\n15\n\n15\n\n-\n\n0304 90 65\n\n---De espadarte (Xiphias gladius)\n\n15\n\n15\n\n-\n\n0304 90 97\n\n---Outros\n\n15\n\n15\n\n-\n\n0305\n\nPeixes secos, salgados ou em salmoura; peixes fumados, mesmo cozidos antes ou durante a defumação; farinhas, pó e «pellets» de peixe, próprios para a alimentação humana:\n\n0305 10 00\n\n-Farinhas, pó e «pellets» de peixe, próprios para a alimentação humana\n\n15\n\n13\n\n-\n\n0305 20 00\n\n-Fígados, ovas e sémen, de peixes, secos, fumados, salgados ou em salmoura\n\n15\n\n11\n\n-\n\n0305 30\n\n-Filetes de peixes, secos, salgados ou em salmoura, mas não fumados:\n\n--De bacalhaus (Gadus morhua, Gadus ogac, Gadus macrocephalus) e de peixes da espécie Boreogadus saida:\n\n0305 30 11\n\n---De bacalhau da espécie Gadus macrocephalus\n\n18\n\n16\n\n-\n\n0305 30 19\n\n---Outros\n\n20\n\n20\n\n-\n\n0305 30 30\n\n--De salmões-do-pacífico (Oncorhynchus spp.), salmões-do-atlântico (Salmo salar) e salmões-do-danúbio (Hucho hucho), salgados ou em salmoura\n\n18\n\n15\n\n-\n\n0305 30 50\n\n--De alabote negro (Reinhardtius hippoglossoides), salgados ou em salmoura\n\n18\n\n15\n\n-\n\n0305 30 90\n\n--Outros\n\n18\n\n16\n\n-\n\n-Peixes fumados, mesmo em filetes:\n\n0305 41 00\n\n--Salmões-do-pacífico (Oncorhynchus spp.), salmões-do-atlântico (Salmo salar) e salmões-do-danúbio (Hucho hucho)\n\n16\n\n13\n\n-\n\n0305 42 00\n\n--Arenques (Clupea harengus, Clupea pallasii)\n\n16\n\n10\n\n-\n\n0305 49\n\n--Outros:\n\n0305 49 10\n\n---Alabote negro (Reinhardtius hippoglossoides)\n\n16\n\n15\n\n-\n\n0305 49 20\n\n---Alabote-do-atlântico (Hippoglossus hippoglossus)\n\n16\n\n16\n\n-\n\n0305 49 30\n\n---Cavalas, cavalinhas e sardas (Scomber scombrus, Scomber australasicus, Scomber japonicus)\n\n16\n\n14\n\n-\n\n0305 49 40\n\n---Trutas (Salmo trutta, Salmo gairdneri, Salmo clarki, Salmo aguabonita, Salmo gilae)\n\n16\n\n14\n\n-\n\n0305 49 50\n\n---Enguias (Anguilla spp.)\n\n16\n\n14\n\n-\n\n0305 49 90\n\n---Outros\n\n16\n\n14\n\n-\n\n-Peixes secos, mesmo salgados mas não fumados:\n\n0305 51\n\n--Bacalhaus (Gadus morhua, Gadus ogac, Gadus macrocephalus):\n\n0305 51 10\n\n---Secos, não salgados\n\n13\n\n13 (¹)\n\n-\n\n0305 51 90\n\n---Secos e salgados\n\n13\n\n13 (¹)\n\n-\n\n0305 59\n\n--Outros:\n\n---Peixes da espécie Boreogadus saida:\n\n0305 59 11\n\n----Secos, não salgados\n\n13\n\n13 (¹)\n\n-\n\n0305 59 19\n\n----Secos e salgados\n\n13\n\n13 (¹)\n\n-\n\n0305 59 30\n\n---Arenques (Clupea harengus, Clupea pallasii)\n\n12\n\n12\n\n-\n\n0305 59 50\n\n---Anchovas (Engraulis spp.)\n\n15\n\n10\n\n-\n\n0305 59 60\n\n---Alabote negro (Reinhardtius hippoglossoides) e alabote-do-pacífico (Hippoglossus stenolepis)\n\n15\n\n12\n\n-\n\n(¹) Isenção para bacalhaus das espécies Gadus morhua e Gadus ogac das subposições 0305 51 10, 0305 51 90 e 0305 62 00 e para peixes da espécie Boreogadus saida das subposições 0305 59 11, 0305 59 19 e 0305 69 10, dentro do limite de um contingente pautal anual global de 25 000 toneladas a conceder pelas autoridades competentes.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0305 59 70\n\n---Alabote-do-atlântico (Hippoglossus hippoglossus)\n\n15\n\n-\n\n-\n\n0305 59 90\n\n---Outros\n\n15\n\n12\n\n-\n\n-Peixes salgados, não secos nem fumados, e peixes em salmoura:\n\n0305 61 00\n\n--Arenques (Clupea harengus, Clupea pallasii)\n\n12\n\n12\n\n-\n\n0305 62 00\n\n--Bacalhaus (Gadus morhua, Gadus ogac, Gadus macrocephalus)\n\n13\n\n13 (¹)\n\n-\n\n0305 63 00\n\n--Anchovas (Engraulis spp.)\n\n15\n\n10\n\n-\n\n0305 69\n\n--Outros:\n\n0305 69 10\n\n---Peixes da espécie Boreogadus saida\n\n13\n\n13 (¹)\n\n-\n\n0305 69 20\n\n---Alabote negro (Reinhardtius hippoglossoides) e alabote-do-pacífico (Hippoglossus stenolepis)\n\n15\n\n12\n\n-\n\n0305 69 30\n\n---Alabote-do-atlântico (Hippoglossus hippoglossus)\n\n15\n\n-\n\n-\n\n0305 69 50\n\n---Salmões-do-pacífico (Oncorhynchus spp.), salmões-do-atlântico (Salmo salar) e salmões-do-danúbio (Hucho hucho)\n\n15\n\n11\n\n-\n\n0305 69 90\n\n---Outros\n\n15\n\n12\n\n-\n\n0306\n\nCrustáceos, mesmo sem casca, vivos, frescos, refrigerados, congelados, secos, salgados ou em salmoura; crustáceos com casca, cozidos em água ou vapor, mesmo refrigerados, congelados, secos, salgados ou em salmoura; farinhas, pó e «pellets» de crustáceos, próprios para a alimentação humana:\n\n-Congelados:\n\n0306 11 00\n\n--Lagostas (Palinurus spp., Palinurus spp., Jasus spp.)\n\n25\n\n(²)\n\n-\n\n0306 12\n\n--Lavagantes (Homarus spp.):\n\n0306 12 10\n\n---Inteiros\n\n25\n\n8 (³)\n\n-\n\n0306 12 90\n\n---Outros\n\n25\n\n16\n\n-\n\n0306 13\n\n--Camarões:\n\n0306 13 10\n\n---Camarões da família Pandalidae\n\n18\n\n12\n\n-\n\n0306 13 30\n\n---Camarões negros do género Crangon\n\n18\n\n18\n\n-\n\n0306 13 90\n\n---Outros\n\n18\n\n18\n\n-\n\n0306 14\n\n--Caranguejos:\n\n0306 14 10\n\n---Caranguejos das espécies Paralithodes camchaticus, Chionoecetes spp. e Callinectes sapidus\n\n18\n\n8\n\n-\n\n0306 14 30\n\n---Sapateiras (Cancer pagurus)\n\n18\n\n15\n\n-\n\n0306 14 90\n\n---Outros\n\n18\n\n15\n\n-\n\n0306 19\n\n--Outros, incluindo as farinhas, pó e «pellets» de crustáceos, próprios para a alimentação humana:\n\n0306 19 10\n\n---Lagostins de água doce\n\n18\n\n15\n\n-\n\n0306 19 30\n\n---Lagostins (Nephrops norvegicus)\n\n14\n\n12\n\n-\n\n0306 19 90\n\n---Outros\n\n14\n\n12\n\n-\n\n-Não congelados:\n\n0306 21 00\n\n--Lagostas (Palinurus spp., Palinurus spp., Jasus spp.)\n\n25\n\n(²)\n\n-\n\n0306 22\n\n--Lavagantes (Homarus spp.):\n\n0306 22 10\n\n---Vivos\n\n25\n\n8 (³)\n\n-\n\n---Outros:\n\n0306 22 91\n\n----Inteiros\n\n25\n\n8 (³)\n\n-\n\n0306 22 99\n\n----Outros\n\n25\n\n20\n\n-\n\n(¹) Isenção para bacalhaus das espécies Gadus morhua e Gadus ogac das subposições 0305 51 10, 0305 51 90 e 0305 62 00 e para peixes da espécie Boreogadus saida das subposições 0305 59 11, 0305 59 19 e 0305 69 10, dentro do limite de um contingente pautal anual global de 25 000 toneladas a conceder pelas autoridades competentes.\n\n(²) Ver anexo.\n\n(³) Sob reserva dos limites e condições a determinar pelas autoridades competentes.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0306 23\n\n--Camarões:\n\n0306 23 10\n\n---Camarões da família Pandalidae\n\n18\n\n12\n\n-\n\n---Camarões negros do género Crangon:\n\n0306 23 31\n\n----Frescos, refrigerados ou cozidos em água ou a vapor\n\n18\n\n18\n\n-\n\n0306 23 39\n\n----Outros\n\n18\n\n18\n\n-\n\n0306 23 90\n\n---Outros\n\n18\n\n18\n\n-\n\n0306 24\n\n--Caranguejos:\n\n0306 24 10\n\n---Caranguejos das espécies Paralithodes camchaticus, Chionoecetes spp. e Callinectes sapidus\n\n18\n\n8\n\n-\n\n0306 24 30\n\n---Sapateiras (Cancer pagurus)\n\n18\n\n15\n\n-\n\n0306 24 90\n\n---Outros\n\n18\n\n15\n\n-\n\n0306 29\n\n--Outros, incluindo as farinhas, pó e «pellets» de crustácios, próprios para a alimentação humana:\n\n0306 29 10\n\n---Lagostins de água doce\n\n18\n\n15\n\n-\n\n0306 29 30\n\n---Lagostins (Nephrops norvegicus)\n\n14\n\n12\n\n-\n\n0306 29 90\n\n---Outros\n\n14\n\n12\n\n-\n\n0307\n\nMoluscos, com ou sem concha, vivos, frescos, refrigerados, congelados, secos, salgados ou em salmoura; invertebrados aquáticos, excepto crustáceos e moluscos, vivos, frescos, refrigerados, congelados, secos, salgados ou em salmoura; farinhas, pó e «pellets» de invertebrados aquáticos, excepto crustáceos, próprios para a alimentação humana:\n\n0307 10\n\n-Ostras:\n\n0307 10 10\n\n--Ostras planas (Ostrea spp.) vivas, pesando, com casca, até 40 g por unidade\n\nIsenção\n\nIsenção\n\n-\n\n0307 10 90\n\n--Outras\n\n18\n\n18\n\n-\n\n-Vieiras e outros mariscos dos géneros Pecten, Chlamys ou Placopecten:\n\n0307 21 00\n\n--Vivos, frescos ou refrigerados\n\n8\n\n8\n\n-\n\n0307 29\n\n--Outros:\n\n0307 29 10\n\n---Vieiras (Pecten maximus), congeladas\n\n8\n\n8\n\n-\n\n0307 29 90\n\n---Outros\n\n8\n\n8\n\n-\n\n-Mexilhões (Mytilus spp., Perna spp.):\n\n0307 31\n\n--Vivos, frescos ou refrigerados:\n\n0307 31 10\n\n---Mytilus spp.\n\n10\n\n10\n\n-\n\n0307 31 90\n\n---Perna spp.\n\n8\n\n8\n\n-\n\n0307 39\n\n--Outros:\n\n0307 39 10\n\n---Mytilus spp.\n\n10\n\n10\n\n-\n\n0307 39 90\n\n---Perna spp.\n\n8\n\n8\n\n-\n\n-Chocos (Sepia officinalis, Rossia macrosoma) e sepiolas (Sepiola spp.); potas e lulas (Ommastrephes spp., Loligo spp., Nototodarus spp., Sepioteuthis spp.):\n\n0307 41\n\n--Vivos, frescos ou refrigerados:\n\n0307 41 10\n\n---Chocos (Sepia officinalis, Rossia macrosoma) e sepiolas (Sepiola spp.)\n\n8\n\n8\n\n-\n\n---Potas e lulas (Ommastrephes spp., Loligo spp., Nototodarus spp., Sepioteuthis spp.):\n\n0307 41 91\n\n----Loligo spp., Ommastrephes sagittatus\n\n8\n\n6\n\n-\n\n0307 41 99\n\n----Outras\n\n8\n\n8\n\n-\n\n1\n\n2\n\n3\n\n4\n\n5\n\n0307 49\n\n--Outros:\n\n---Congelados:\n\n----Chocos (Sepia officinalis, Rossia macrosoma) e sepiolas (Sepiola spp.):\n\n0307 49 11\n\n-----Do género Sepiola, excepto Sepiola rondeleti\n\n8\n\n8\n\n-\n\n0307 49 19\n\n-----Outros\n\n8\n\n8\n\n-\n\n----Potas e lulas (Ommastrephes spp., Loligo spp., Nototodarus spp., Sepioteuthis spp.):\n\n-----Loligo spp.:\n\n0307 49 31\n\n------Loligo vulgaris\n\n8\n\n6\n\n-\n\n0307 49 33\n\n------Loligo pealei\n\n8\n\n6\n\n-\n\n0307 49 35\n\n------Loligo patagonica\n\n8\n\n6\n\n-\n\n0307 49 38\n\n------Outras\n\n8\n\n6\n\n-\n\n0307 49 51\n\n-----Ommastrephes sagittatus\n\n8\n\n6\n\n-\n\n0307 49 59\n\n-----Outras\n\n8\n\n8\n\n-\n\n---Outros:\n\n0307 49 71\n\n----Chocos (Sepia officinalis, Rossia macrosoma) e sepiolas (Sepiola spp.)\n\n8\n\n8\n\n-\n\n----Potas e lulas (Ommastrephes spp., Loligo spp., Nototodarus spp., Sepioteuthis spp.):\n\n0307 49 91\n\n-----Loligo spp., Ommastrephes sagittatus\n\n8\n\n6\n\n-\n\n0307 49 99\n\n-----Outras\n\n8\n\n8\n\n-\n\n-Polvos (Octopus spp.):\n\n0307 51 00\n\n--Vivos, frescos ou refrigerados\n\n8\n\n8\n\n-\n\n0307 59\n\n--Outros:\n\n0307 59 10\n\n---Congelados\n\n8\n\n8\n\n-\n\n0307 59 90\n\n---Outros\n\n8\n\n8\n\n-\n\n0307 60 00\n\n-Caracóis, excepto do mar\n\n6\n\nIsenção\n\n-\n\n-Outros, incluindo as farinhas, pó e «pellets» de invertebrados aquáticos, excepto crustáceos, própriós para a alimentação humana:\n\n0307 91 00\n\n--Vivos, frescos ou refrigerados\n\n11\n\n11\n\n-\n\n0307 99\n\n--Outros:\n\n---Congelados:\n\n0307 99 11\n\n----Illex spp.\n\n8\n\n8\n\n-\n\n0307 99 13\n\n----Palurdes ou amêijoas e outras espécies da família Veneridae\n\n8\n\n8\n\n-\n\n0307 99 19\n\n----Outros invertebrados aquáticos\n\n14\n\n11\n\n-\n\n0307 99 90\n\n---Outros\n\n16\n\n11\n\n-\n\n0511\n\nProdutos de origem animal, não especificados nem compreendidos em outras posições; animais mortos dos capítulos 1 ou 3, impróprios para a alimentação humana:\n\n0511 91\n\n--Produtos de peixes ou de crustáceos, moluscos ou outros invertebrados aquáticos; animais mortos do capítulo 3:\n\n0511 91 10\n\n---Desperdícios de peixes\n\nIsenção\n\nIsenção\n\n-\n\n0511 91 90\n\n---Outros\n\nIsenção\n\n(¹)\n\n-\n\n(¹) Ver anexo.\n\n1\n\n2\n\n3\n\n4\n\n5\n\n1604\n\nPreparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe:\n\n-Peixes inteiros ou em pedaços, excepto peixes picados:\n\n1604 11 00\n\n--Salmões\n\n20\n\n5,5\n\n-\n\n1604 12\n\n--Arenques:\n\n1604 12 10\n\n---Filetes crus, simplesmente revestidos de pasta ou de pão ralado (panados), mesmo pré-cozidos em óleo, congelados\n\n18\n\n15\n\n-\n\n1604 12 90\n\n---Outros\n\n23\n\n20\n\n-\n\n1604 13\n\n--Sardinhas, sardinelas e espadilhas:\n\n---Sardinhas:\n\n1604 13 11\n\n----Em azeite de oliveira\n\n25\n\n25\n\n-\n\n1604 13 19\n\n----Outras\n\n25\n\n25\n\n-\n\n1604 13 90\n\n---Outras\n\n25\n\n20\n\n-\n\n1604 14\n\n--Atuns, bonitos-listados e bonitos (Sarda spp.):\n\n---Atuns e bonitos-listados:\n\n1604 14 11\n\n----Em óleos vegetais\n\n25\n\n24\n\n-\n\n1604 12 19\n\n----Outros\n\n25\n\n24\n\n-\n\n1604 14 90\n\n---Bonitos (Sarda spp.)\n\n25\n\n25\n\n-\n\n1604 15\n\n--Cavalas, cavalinhas e sardas:\n\n---Das espécies Scomber scombrus e Scomber japonicus:\n\n1604 15 11\n\n----Filetes\n\n25\n\n25\n\n-\n\n1604 15 19\n\n----Outros\n\n25\n\n25\n\n-\n\n1604 15 90\n\n---Da espécie Scomber australasicus\n\n25\n\n20\n\n-\n\n1604 16 00\n\n--Anchovas\n\n25\n\n-\n\n-\n\n1604 19\n\n--Outros:\n\n1604 19 10\n\n---Salmonídeos, excepto salmões\n\n20\n\n7\n\n-\n\n1604 19 30\n\n---Peixes do género Euthynnus, excepto os listados [Euthynnus (Katsuwonus) pelamis]\n\n25\n\n24\n\n-\n\n1604 19 50\n\n---Peixes da espécie Orcynopsis unicolor\n\n25\n\n25\n\n-\n\n---Outros:\n\n1604 19 91\n\n----Filetes crus, simplesmente revestidos de pasta ou de pão ralado (panados), mesmo pré-cozidos em óleo, congelados\n\n18\n\n15\n\n-\n\n----Outros:\n\n1604 19 92\n\n-----Bacalhaus (Gadus morhua, Gadus ogac, Gadus macrocephalus)\n\n25\n\n20\n\n-\n\n1604 19 93\n\n-----Escamudos negros (Pollachius virens)\n\n25\n\n20\n\n-\n\n1604 19 94\n\n-----Pescadas (Merluccius spp. Urophycis spp.)\n\n25\n\n20\n\n-\n\n1604 19 95\n\n-----Escamudo do Alasca (Theragra chalcogramma) e escamudo amarelo (Pollachius pollachius)\n\n25\n\n20\n\n-\n\n1604 19 98\n\n-----Outros\n\n25\n\n20\n\n-\n\n1604 20\n\n-Outras preparações e conservas de peixes:\n\n1604 20 10\n\n--De salmões\n\n20\n\n5,5\n\n-\n\n1604 20 30\n\n--De salmonídeos, excepto salmões\n\n20\n\n7\n\n-\n\n1604 20 40\n\n--De anchovas\n\n25\n\n-\n\n-\n\n1604 20 50\n\n--De sardinhas, de bonitos, de cavalas e cavalinhas das espécies Scomber scombrus e Scomber japonicus e peixes das espécies Orcynopsis unicolor\n\n25\n\n25\n\n-\n\n1604 20 70\n\n--De atuns, bonitos-listados e outros peixes do género Euthynnus\n\n25\n\n24\n\n-\n\n1604 20 90\n\n--De outros peixes\n\n25\n\n20\n\n-\n\n1604 30\n\n-Caviar e seus sucedâneos:\n\n1604 30 10\n\n--Caviar (ovas de esturjão)\n\n30\n\n30\n\n-\n\n1604 30 90\n\n--Sucedâneos de caviar\n\n30\n\n30\n\n-\n\n1\n\n2\n\n3\n\n4\n\n5\n\n1605\n\nCrustáceos, moluscos e outros invertebrados aquáticos, preparados ou em conservas:\n\n1605 10 00\n\n-Caranguejos\n\n20\n\n16\n\n-\n\n1605 20 00\n\n-Camarões\n\n20\n\n20\n\n-\n\n1605 30 00\n\n-Lavagantes\n\n20\n\n20\n\n-\n\n1605 40 00\n\n-Outros crustáceos\n\n20\n\n20\n\n-\n\n1605 90\n\n-Outros:\n\n1605 90 10\n\n--Moluscos\n\n20\n\n20\n\n-\n\n1605 90 90\n\n--Outros invertebrados aquáticos\n\n26\n\n26\n\n-\n\n1902\n\nMassas alimentícias, mesmo cozidas ou recheadas (de carne ou de outras substâncias) ou preparadas de outro modo, tais como esparguete, macarrão, aletria, lasanha, nhoque, raviole e canelone; cuscuz, mesmo preparado:\n\n-Massas alimentícias não cozidas, nem recheadas, nem preparadas de outro modo:\n\n1902 20\n\n-Massas alimentícias recheadas (mesmo cozidas ou preparadas de outro modo):\n\n1902 20 10\n\n--Contendo, em peso, mais de 20 % de peixes e crustáceos, moluscos e outros invertebrados aquáticos\n\n17\n\n17\n\n-\n\n2301\n\nFarinhas, pó e pellets, de carnes miudezas, peixes ou crustáceos, moluscos ou outros invertebrados aquáticos, impróprios para a alimentação humana; torresmos:\n\n2301 20 00\n\n-Farinhas, pó e «pellets», de peixes ou crustáceos, moluscos ou outros invertebrados aquáticos\n\n5\n\n2\n\n-"
+  }
+ }
+}

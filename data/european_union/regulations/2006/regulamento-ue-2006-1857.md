@@ -36,6 +36,63 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-07-01'
+version_history:
+  file: regulamento-ue-2006-1857.versoes.json
+  count: 2
+  source_lastmod: '2014-07-01'
+  versions:
+  - date: '2013-11-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO 1
+    - Suprime ÂMBITO DE APLICAÇÃO, DEFINIÇÕES E CONDIÇÕES
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Condições de isenção
+    - Suprime CAPÍTULO 2
+    - Suprime CATEGORIAS DE AUXÍLIOS
+    - Suprime Artigo 4.º — Investimentos nas explorações agrícolas
+    - Suprime Artigo 5.º — Preservação das paisagens e edifícios tradicionais
+    - Suprime Artigo 6.º — Relocalização de edifícios agrícolas no interesse público
+    - Suprime Artigo 7.º — Auxílios à instalação de jovens agricultores
+    - Suprime Artigo 8.º — Auxílios à reforma antecipada
+    - Suprime Artigo 9.º — Auxílios aos agrupamentos de produtores
+    - Suprime Artigo 10.º — Auxílios relativos às doenças dos animais e das plantas e às infestações por parasitas
+    - Suprime Artigo 11.º — Auxílios relativos a perdas devidas a acontecimentos climáticos adversos
+    - Suprime Artigo 12.º — Auxílios para o pagamento de prémios de seguro
+    - Suprime Artigo 13.º — Auxílios ao emparcelamento
+    - Suprime Artigo 14.º — Auxílios para incentivar a produção de produtos agrícolas de qualidade
+    - Suprime Artigo 15.º — Prestação de assistência técnica no sector agrícola
+    - Suprime Artigo 16.º — Apoio ao sector pecuário
+    - Suprime Artigo 17.º — Auxílios previstos em determinados regulamentos do Conselho
+    - Suprime CAPÍTULO 3
+    - Suprime DISPOSIÇÕES COMUNS E FINAIS
+    - Suprime Artigo 18.º — Fases prévias à concessão do auxílio
+    - Suprime Artigo 19.º — Cumulação
+    - Suprime Artigo 20.º — Transparência e controlo
+    - Suprime Artigo 21.º — Alteração do Regulamento (CE) n.º 70/2001
+    - Suprime Artigo 22.º — Medidas transitórias
+    - Suprime Artigo 23.º — Entrada em vigor e aplicabilidade
+    - Suprime ANEXO I
+    - Suprime Modelo para a comunicação das informações sintéticas a transmitir sempre que um regime de auxílios isento nos
+      termos do presente regulamento seja aplicado e que um auxílio individual isento nos termos do presente regulamento seja
+      concedido fora do âmbito de qualquer regime de auxílios
+    - Suprime Informações sintéticas relativas a auxílios estatais concedidos em conformidade com o Regulamento n.º (CE) 1857/2006
+      da Comissão
+    - Suprime ANEXO II
+    - Suprime Modelo de relatório periódico a apresentar à Comissão
+    - Suprime Modelo de relatório anual sobre os regimes de auxílios isentos ao abrigo de um regulamento de isenção por categoria
+      adoptado nos termos do artigo 1.º do Regulamento (CE) n.º 994/98 do Conselho
+    - Suprime 1. Denominação do regime de auxílios
+    - Suprime 2. Regulamento de isenção da Comissão aplicável
+    - Suprime 3. Despesa
+    - Suprime 4. Outras informações e observações.
 identifiers:
   celex: 32006R1857
   eli: http://data.europa.eu/eli/reg/2006/1857/oj
@@ -50,7 +107,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b6e75c72-0775-4185-ac93-83ea23f4bea5.0016
   content_url: http://publications.europa.eu/resource/cellar/950ad30f-4e1f-11ec-91ac-01aa75ed71a1.0021.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1857-20140701
-  retrieved_at: '2026-10-22T02:52:15Z'
+  retrieved_at: '2026-10-22T15:05:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-19T13:52:02.128+01:00'
 integrity:
@@ -59,9 +116,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:15Z'
-  notes: Texto consolidado 02006R1857-20140701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:05:24Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2006-1857.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -189,16 +246,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:15Z'
+  checked_at: '2026-10-22T15:05:24Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02006R1857-20070101: versão indisponível (Sem expressão na língua por para CELEX 02006R1857-20070101.)'
   errors: []
 ---
 

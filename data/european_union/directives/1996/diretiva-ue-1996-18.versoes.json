@@ -1,0 +1,149 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996L0018:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0018-20020809",
+ "dre_path": null,
+ "source_lastmod": "2002-08-09",
+ "versions": [
+  {
+   "date": "1996-03-26",
+   "future": false,
+   "celex": "31996L0018",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a115d92a7dc1f5f1",
+    "006016d8a1fa84cd",
+    "209edd7c601dfba6",
+    "118cb49b30d628c9",
+    "173c14d56078998b",
+    "a3f8808507e1f925",
+    "5d0f756c50133cef"
+   ]
+  },
+  {
+   "date": "2002-08-09",
+   "future": false,
+   "celex": "01996L0018-20020809",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º"
+   ],
+   "fragments": [
+    "41806911c0fee09c",
+    "9389001cf037bccf",
+    "b4048c06285da019",
+    "a86d815be6049200",
+    "61a772ec809815ea"
+   ]
+  }
+ ],
+ "fragments": {
+  "a115d92a7dc1f5f1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 96/18/CE da Comissão, de 19 de Março de 1996, que altera várias directivas do Conselho relativas à comercialização de sementes e propágulos (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 076 de 26/03/1996 p. 0021 - 0022*\n\nDIRECTIVA 96/18/CE DA COMISSÃO de 19 de Março de 1996 que altera várias directivas do Conselho relativas à comercialização de sementes e propágulos (Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 66/401/CEE do Conselho, de 14 de Junho de 1966, relativa à comercialização de sementes de plantas forrageiras (1), com a última redacção que lhe foi dada pelo Acto de Adesão da Áustria, da Finlândia e da Suécia, e, nomeadamente, o seu artigo 21ºA,\n\nTendo em conta a Directiva 69/208/CEE do Conselho, de 30 de Junho de 1969, relativa à comercialização de sementes de plantas oleaginosas e de fibras (2), com a última redacção que lhe foi dada pelo Acto de Adesão da Áustria, da Finlândia e da Suécia, e, nomeadamente, o seu artigo 20ºA,\n\nTendo em conta a Directiva 70/458/CEE do Conselho, de 29 de Setembro de 1970, relativa à comercialização das sementes de produtos hortícolas (3), com a última redacção que lhe foi dada pelo Acto de Adesão da Áustria, da Finlândia e da Suécia, e, nomeadamente, o seu artigo 40ºA,\n\nConsiderando que, à luz da evolução dos conhecimentos científicos e técnicos, as Directivas 66/401/CEE, 69/208/CEE e 70/458/CEE devem ser alteradas pelas razões a seguir indicadas;\n\nConsiderando que as regras internacionais em vigor, nomeadamente as da Associação Internacional de Ensaios de Sementes e as da Organização de Cooperação e de Desenvolvimento Económico, foram revistas recentemente no que diz respeito aos pesos máximos dos lotes de sementes de determinadas espécies; que se verificou que esta revisão pode ser adoptada pela Comunidade;\n\nConsiderando que os pesos máximos nas regras comunitárias para lotes de sementes das referidas espécies devem, portanto, ser revistos;\n\nConsiderando que as medidas previstas na presente directiva estão em conformidade com o parecer do Comité permanente das sementes e propágulos agrícolas, hortícolas e florestais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "006016d8a1fa84cd": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nNa coluna 2 do quadro do anexo III da Directiva 66/401/CEE, a menção «20» é substituída por «25» no caso de:\n\n- Lupinus albus,\n\n- Lupinus angustifolius,\n\n- Lupinus luteus,\n\n- Pisum sativum,\n\n- Vicia faba, e\n\n- Vicia sativa."
+  },
+  "209edd7c601dfba6": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nNa coluna 2 do quadro do anexo III da Directiva 69/208/CEE, a menção «20» é substituída por «25» em todas as ocorrências e a menção «10» é substituída por «25» no caso de Carthamus tinctorius."
+  },
+  "118cb49b30d628c9": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nO ponto 1 do anexo III da Directiva 70/458/CEE, passa a ter a seguinte redacção:\n\n«1. Peso máximo de um lote de sementes:\n\n>POSIÇÃO NUMA TABELA>\n\nO peso máximo de um lote não pode ser excedido em mais de 5 %.»."
+  },
+  "173c14d56078998b": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 1 de Julho de 1996. Do facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem tais disposições, estas deverão incluir uma referência à presente directiva ou serem acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptem no domínio regido pela presente directiva."
+  },
+  "a3f8808507e1f925": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nA presente directiva entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "5d0f756c50133cef": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs Estados-membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 19 de Março de 1996.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO nº 125 de 11. 7. 1966, p. 2298/66.\n\n(2) JO nº L 169 de 10. 7. 1969, p. 3.\n\n(3) JO nº L 225 de 12. 10. 1970, p. 7."
+  },
+  "41806911c0fee09c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1996L0018 — PT — 09.08.2002 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0018:PT:NOT) [DIRECTIVA 96/18/CE DA COMISSÃO de 19 de Março de 1996 que altera várias directivas do Conselho relativas à comercialização de sementes e propágulos (Texto relevante para efeitos do EEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0018:PT:NOT) (JO L 076, 26.3.1996, p.21)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0055:PT:NOT) | [Directiva 2002/55/CE do Conselho de 13 de Junho de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0055:PT:NOT) | L 193 | 33 | 20.7.2002 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0057:PT:NOT) | [Directiva 2002/57/CE do Conselho de 13 de Junho de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0057:PT:NOT) | L 193 | 74 | 20.7.2002 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0018:PT:NOT)\n\nDIRECTIVA 96/18/CE DA COMISSÃO\n\nde 19 de Março de 1996\n\nque altera várias directivas do Conselho relativas à comercialização de sementes e propágulos\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 66/401/CEE do Conselho, de 14 de Junho de 1966, relativa à comercialização de sementes de plantas forrageiras ([1](http://publications.europa.eu/resource/cellar/68572d02-d17f-43d8-b73a-2bf2bde7a742.0018.02/DOC_1#E0001)), com a última redacção que lhe foi dada pelo Acto de Adesão da Áustria, da Finlândia e da Suécia, e, nomeadamente, o seu artigo 21.oA,\n\nTendo em conta a Directiva 69/208/CEE do Conselho, de 30 de Junho de 1969, relativa à comercialização de sementes de plantas oleaginosas e de fibras ([2](http://publications.europa.eu/resource/cellar/68572d02-d17f-43d8-b73a-2bf2bde7a742.0018.02/DOC_1#E0002)), com a última redacção que lhe foi dada pelo Acto de Adesão da Áustria, da Finlândia e da Suécia, e, nomeadamente, o seu artigo 20.oA,\n\nTendo em conta a Directiva 70/458/CEE do Conselho, de 29 de Setembro de 1970, relativa à comercialização das sementes de produtos hortícolas ([3](http://publications.europa.eu/resource/cellar/68572d02-d17f-43d8-b73a-2bf2bde7a742.0018.02/DOC_1#E0003)), com a última redacção que lhe foi dada pelo Acto de Adesão da Áustria, da Finlândia e da Suécia, e, nomeadamente, o seu artigo 40.oA,\n\nConsiderando que, à luz da evolução dos conhecimentos científicos e técnicos, as Directivas 66/401/CEE, 69/208/CEE e 70/458/CEE devem ser alteradas pelas razões a seguir indicadas;\n\nConsiderando que as regras internacionais em vigor, nomeadamente as da Associação Internacional de Ensaios de Sementes e as da Organização de Cooperação e de Desenvolvimento Económico, foram revistas recentemente no que diz respeito aos pesos máximos dos lotes de sementes de determinadas espécies; que se verificou que esta revisão pode ser adoptada pela Comunidade;\n\nConsiderando que os pesos máximos nas regras comunitárias para lotes de sementes das referidas espécies devem, portanto, ser revistos;\n\nConsiderando que as medidas previstas na presente directiva estão em conformidade com o parecer do Comité permanente das sementes e propágulos agrícolas, hortícolas e florestais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "9389001cf037bccf": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNa coluna 2 do quadro do anexo III da Directiva 66/401/CEE, a menção «20» é substituída por «25» no caso de:\n\n— Lupinus albus,\n\n— Lupinus angustifolius,\n\n— Lupinus luteus,\n\n— Pisum sativum,\n\n— Vicia faba, e\n\n— Vicia sativa.\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0057:PT:NOT) —————\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0055:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0018:PT:NOT)"
+  },
+  "b4048c06285da019": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 1 de Julho de 1996. Do facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem tais disposições, estas deverão incluir uma referência à presente directiva ou serem acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptem no domínio regido pela presente directiva."
+  },
+  "a86d815be6049200": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA presente directiva entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "61a772ec809815ea": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros são os destinatários da presente decisão.\n\n([1](http://publications.europa.eu/resource/cellar/68572d02-d17f-43d8-b73a-2bf2bde7a742.0018.02/DOC_1#src.E0001)) JO n.o 125 de 11. 7. 1966, p. 2298/66.\n\n([2](http://publications.europa.eu/resource/cellar/68572d02-d17f-43d8-b73a-2bf2bde7a742.0018.02/DOC_1#src.E0002)) JO n.o L 169 de 10. 7. 1969, p. 3.\n\n([3](http://publications.europa.eu/resource/cellar/68572d02-d17f-43d8-b73a-2bf2bde7a742.0018.02/DOC_1#src.E0003)) JO n.o L 225 de 12. 10. 1970, p. 7."
+  }
+ }
+}

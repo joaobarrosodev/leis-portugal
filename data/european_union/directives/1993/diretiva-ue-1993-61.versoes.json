@@ -1,0 +1,330 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0061:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0061-20241224",
+ "dre_path": null,
+ "source_lastmod": "2024-12-24",
+ "versions": [
+  {
+   "date": "1993-10-07",
+   "future": false,
+   "celex": "31993L0061",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ee4633c1d9c0284b",
+    "62da567e25496330",
+    "88f4ad0982be95fb",
+    "69e3eeead187e3a4",
+    "1bc414c78a8e358d",
+    "a2934c9aa24363f1",
+    "22a8c7feb54fc91a",
+    "007d62d0e7958668",
+    "920060b8e3e1dd45",
+    "9b741dda84f1a0aa"
+   ]
+  },
+  {
+   "date": "2020-02-16",
+   "future": false,
+   "celex": "01993L0061-20200216",
+   "acts": [
+    {
+     "id": "eu:celex:32020L0177:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2020/177 DA COMISSÃO Texto relevante para efeitos do EEE de 11 de fevereiro de 2020",
+     "published": null,
+     "celex": "32020L0177"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita ANEXO",
+    "Adita RNQP relativas a materiais de propagação e plantação de produtos hortícolas",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime ANEXO — /* Quadros: ver JO */"
+   ],
+   "fragments": [
+    "7aca217fbd62c553",
+    "7482c6b28989e8da",
+    "ce7827fd6b167a60",
+    "8933a1b12f584e18",
+    "f72032d07b0b7d03",
+    "866d14ee5367b99f",
+    "a671b87c96553a7e",
+    "943a7557dd209123",
+    "b1bdb6eb30e3efe7",
+    "10220b9774fa9034",
+    "d402e2e21f75df65",
+    "8bffddd765a9d077"
+   ]
+  },
+  {
+   "date": "2024-12-24",
+   "future": false,
+   "celex": "01993L0061-20241224",
+   "acts": [
+    {
+     "id": "eu:celex:32024L3010:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2024/3010 DA COMISSÃO de 29 de novembro de 2024",
+     "published": null,
+     "celex": "32024L3010"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera RNQP relativas a materiais de propagação e plantação de produtos hortícolas",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "7aca217fbd62c553",
+    "7482c6b28989e8da",
+    "483aedb6c4c88b0f",
+    "9bddfc3d78b49f6e",
+    "f72032d07b0b7d03",
+    "866d14ee5367b99f",
+    "c84dc2be79de0d03",
+    "943a7557dd209123",
+    "b1bdb6eb30e3efe7",
+    "10220b9774fa9034",
+    "cf008f91d42c0a48",
+    "ea17c4f707162411"
+   ]
+  }
+ ],
+ "fragments": {
+  "ee4633c1d9c0284b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 93/61/CEE da Comissão, de 2 de Julho de 1993, que estabelece a ficha relativa às condições a satisfazer pelos materiais de propagação e plantação de produtos hortícolas, com excepção das sementes, em conformidade com a Directiva 92/33/CEE do Conselho** *Jornal Oficial nº L 250 de 07/10/1993 p. 0019 - 0028 Edição especial finlandesa: Capítulo 3 Fascículo 52 p. 0248 Edição especial sueca: Capítulo 3 Fascículo 52 p. 0248*\n\nDIRECTIVA 93/61/CEE DA COMISSÃO de 2 de Julho de 1993 que estabelece a ficha relativa às condições a satisfazer pelos materiais de propagação e plantação de produtos hortícolas, com excepção das sementes, em conformidade com a Directiva 92/33/CEE do Conselho\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 92/33/CEE do Conselho, de 28 de Abril de 1992, relativa à comercialização de material de propagação e plantação de produtos hortícolas, com excepção das sementes(1), e, nomeadamente, o seu artigo 4o,\n\nConsiderando que, para efeitos da aplicação do disposto na presente directiva, é conveniente atender aos ciclos de produção dos vários materiais;\n\nConsiderando que, dadas as condições actuais de produção na Comunidade, as condições estabelecidas na presente directiva devem ser consideradas, nesta fase, normas mínimas aceitáveis; que estas condições serão gradualmente desenvolvidas e aperfeiçoadas a fim de atingir níveis de qualidade mais elevados;\n\nConsiderando que as medidas previstas na presente directiva estão em conformidade com o parecer do Comité permanente das sementes e propágulos agrícolas, hortícolas e silvícolas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "62da567e25496330": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva estabelece a ficha referida no artigo 4o da Directiva 92/33/CEE e fixa as exigências relativas à rotulagem previstas no artigo 11o da mesma.\n\n2. As fichas são aplicáveis à cultura, aos materiais de propagação de produtos hortícolas (incluindo porta-enxertos) e materiais de plantação deles derivados de todos os géneros e espécies referidos no anexo II da Directiva 92/33/CEE, bem como aos porta-enxertos de outros géneros e espécies referidos no artigo 4o da mesma, independentemente do sistema de propagação utilizado, a seguir denominados «materiais».\n\n3. O disposto na presente directiva será aplicado gradualmente, tendo em conta os ciclos de produção dos materiais referidos no no 2."
+  },
+  "88f4ad0982be95fb": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nSe for caso disso, os materiais devem satisfazer as condições fitossanitárias aplicáveis na matéria estabelecidas na Directiva 77/93/CEE do Conselho(2)."
+  },
+  "69e3eeead187e3a4": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Sem prejuízo do disposto no artigo 2o, os materiais devem, pelo menos através de um exame visual, estar substancialmente isentos de quaisquer organismos prejudiciais e doenças com incidência significativa na qualidade, bem como dos respectivos sinais e sintomas, que reduzam a eficácia dos materiais de propagação ou de plantação e, em especial, dos constantes do anexo relativamente aos géneros ou espécies em causa.\n\n2. Todos os materiais que apresentem sinais ou sintomas visíveis dos organismos prejudiciais ou doenças referidos no no 1 durante o período vegatativo serão tratados de modo adequado, imediatamente após o aparecimento dos mesmos ou, se for caso disso, retirados.\n\n3. No caso de bolbos de chalotas e de alho comum, devem ser respeitadas, igualmente, as seguintes exigências: o material de propagação deve provir directamente de material que, durante o período vegetativo, tenha sido controlado e considerado substancialmente isento de quaisquer organismos prejudiciais e doenças, bem como dos respectivos sinais e sintomas, referidos no no 1 e, em especial, dos constantes do anexo."
+  },
+  "1bc414c78a8e358d": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs materiais devem ter identidade e pureza relativamente ao género e à espécie, devendo, igualmente, ter identidade e pureza suficientes em relação à variedade."
+  },
+  "a2934c9aa24363f1": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os materiais devem estar substancialmente isentos de quaisquer defeitos susceptíveis de prejudicar a sua qualidade enquanto materiais de propagação ou de plantação.\n\n2. Os materiais devem apresentar o vigor e as dimensões adequados à sua utilização como material de propagação e de plantação. Além disso, deve ser assegurado um equilíbrio adequado entre as raízes, o caule e as folhas."
+  },
+  "22a8c7feb54fc91a": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. O documento emitido pelo fornecedor referido no artigo 11o da Directiva 92/33/CEE deve ser de material adequado, que não tenha sido previamente utilizado, e impresso, pelo menos, numa das línguas oficiais da Comunidade. Do documento devem constar as seguintes informações:\n\ni) Indicação «Qualidade CEE»;\n\nii) Indicação do código do Estado-membro CEE;\n\niii) Indicação do organismo oficial responsável e respectivo código;\n\niv) Número de registo ou de acreditação;\n\nv) Nome do fornecedor;\n\nvi) Número de série, semana ou lote;\n\nvii) Data de emissão do documento do fornecedor;\n\nviii) Número de referência do lote de sementes, no caso de plantas jovens produzidas directamente a partir de sementes comercializadas nos termos da Directiva 70/458/CEE do Conselho(3). Em alternativa, este número de referência deve ser posto à disposição do organismo oficial responsável, mediante pedido deste;\n\nix) Nome comum ou, no caso de os materiais serem acompanhados de um passaporte fitossanitário, nos termos da Directiva 92/105/CEE da Comissão(4), nome botânico;\n\nx) Denominação da variedade. No caso de porta-enxertos, denominação da variedade ou sua designação;\n\nxi) Quantidade;\n\nxii) No caso de importações provenientes de países terceiros nos termos do no 2 do artigo 16o da Directiva 92/33/CEE, nome do país de colheita.\n\n2. No caso de, nos termos da Directiva 92/105/CEE, os materiais serem acompanhados de um passaporte fitossanitário, este constituirá, se o fornecedor assim o desejar, o documento do fornecedor referido no no 1. Não obstante, é obrigatória a menção «Qualidade CEE», bem como uma indicação do organismo oficial responsável nos termos da Directiva 92/33/CEE e uma referência à denominação da variedade. No caso de importações provenientes de países terceiros nos termos do no 2 do artigo 16o da Directiva 92/33/CEE, deve ser igualmente indicado o nome do país de colheita. Esta informação pode constar do mesmo documento que o passaporte fitossanitário, mas deve ser claramente separada."
+  },
+  "007d62d0e7958668": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, em 31 de Dezembro de 1993. Do facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As normas relativas a essa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptem no domínio regido pela presente directiva."
+  },
+  "920060b8e3e1dd45": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 2 de Julho de 1993.\n\nPelo Comissão René STEICHEN Membro da Comissão\n\n(1) JO no L 157 de 10. 6. 1992, p. 1.\n\n(2) JO no L 26 de 31. 1. 1977, p. 20.\n\n(3) JO no L 225 de 12. 10. 1970, p. 7.\n\n(4) JO no L 4 de 8. 1. 1993, p. 22."
+  },
+  "9b741dda84f1a0aa": {
+   "fragment_id": "ANEXO — /* Quadros: ver JO */",
+   "type": "divisao",
+   "heading": "ANEXO — /* Quadros: ver JO */",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — /* Quadros: ver JO */"
+  },
+  "7aca217fbd62c553": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Julho de 1993\n\nque estabelece a ficha relativa às condições a satisfazer pelos materiais de propagação e plantação de produtos hortícolas, com excepção das sementes, em conformidade com a Directiva 92/33/CEE do Conselho"
+  },
+  "7482c6b28989e8da": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva estabelece a ficha referida no artigo 4.º da Directiva 92/33/CEE e fixa as exigências relativas à rotulagem previstas no artigo 11.º. da mesma.\n\n2. As fichas são aplicáveis à cultura, aos materiais de propagação de produtos hortícolas (incluindo porta-enxertos) e materiais de plantação deles derivados de todos os géneros e espécies referidos no anexo II da Directiva 92/33/CEE, bem como aos porta-enxertos de outros géneros e espécies referidos no artigo 4.º da mesma, independentemente do sistema de propagação utilizado, a seguir denominados «materiais».\n\n3. O disposto na presente directiva será aplicado gradualmente, tendo em conta os ciclos de produção dos materiais referidos no n.º 2."
+  },
+  "ce7827fd6b167a60": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSe for caso disso, os materiais devem satisfazer as condições fitossanitárias aplicáveis na matéria estabelecidas na Directiva 77/93/CEE do Conselho ([^1^](http://publications.europa.eu/resource/cellar/e82a6d4c-a66a-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0001))."
+  },
+  "8933a1b12f584e18": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs materiais de propagação e plantação de produtos hortícolas devem, pelo menos através de uma inspeção visual, ser considerados, no local de produção, praticamente isentos de todas as pragas enumeradas no anexo relativamente aos respetivos materiais de propagação e plantação.\n\nA presença de pragas regulamentadas não sujeitas a quarentena (RNQP) nos materiais de propagação e plantação de produtos hortícolas comercializados não deve, pelo menos através de uma inspeção visual, exceder os respetivos limiares estabelecidos no anexo.\n\nOs materiais de propagação e plantação de produtos hortícolas devem, através de uma inspeção visual, ser considerados praticamente isentos de quaisquer pragas, com exceção das pragas enumeradas no anexo no que se refere aos respetivos materiais de propagação e plantação, que reduzam a sua utilidade e qualidade.\n\nOs materiais de propagação e plantação de produtos hortícolas devem cumprir igualmente os requisitos relativos às pragas de quarentena da União, às pragas de quarentena de zonas protegidas e às pragas regulamentadas não sujeitas a quarentena estabelecidos no Regulamento (UE) 2016/2031 ([^2^](http://publications.europa.eu/resource/cellar/e82a6d4c-a66a-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0002)) e nos atos de execução adotados no âmbito desse regulamento, incluindo as medidas adotadas nos termos do artigo 30.º, n.º 1, do mesmo regulamento."
+  },
+  "f72032d07b0b7d03": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs materiais devem ter identidade e pureza relativamente ao género e à espécie, devendo, igualmente, ter identidade e pureza suficientes em relação à variedade."
+  },
+  "866d14ee5367b99f": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os materiais devem estar substancialmente isentos de quaisquer defeitos susceptíveis de prejudicar a sua qualidade enquanto materiais de propagação ou de plantação.\n\n2. Os materiais devem apresentar o vigor e as dimensões adequados à sua utilização como material de propagação e de plantação. Além disso, deve ser assegurado um equilíbrio adequado entre as raízes, o caule e as folhas."
+  },
+  "a671b87c96553a7e": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O documento emitido pelo fornecedor referido no artigo 11.º.º da Directiva 92/33/CEE deve ser de material adequado, que não tenha sido previamente utilizado, e impresso, pelo menos, numa das línguas oficiais da Comunidade. Do documento devem constar as seguintes informações:\n\ni) Indicação «Qualidade CEE»;\n\nii) Indicação do código do Estado-membro CEE;\n\niii) Indicação do organismo oficial responsável e respectivo código;\n\niv) Número de registo ou de acreditação;\n\nv) Nome do fornecedor;\n\nvi) Número de série, semana ou lote;\n\nvii) Data de emissão do documento do fornecedor;\n\nviii) Número de referência do lote de sementes, no caso de plantas jovens produzidas directamente a partir de sementes comercializadas nos termos da Directiva 70/458/CEE do Conselho ([^3^](http://publications.europa.eu/resource/cellar/e82a6d4c-a66a-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0003)). Em alternativa, este número de referência deve ser posto à disposição do organismo oficial responsável, mediante pedido deste;\n\nix) Nome comum ou, no caso de os materiais serem acompanhados de um passaporte fitossanitário, nos termos da Directiva 92/105/CEE da Comissão ([^4^](http://publications.europa.eu/resource/cellar/e82a6d4c-a66a-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004)), nome botânico;\n\nx) Denominação da variedade. No caso de porta-enxertos, denominação da variedade ou sua designação;\n\nxi) Quantidade;\n\nxii) No caso de importações provenientes de países terceiros nos termos do n.º2 do artigo 16.º da Directiva 92/33/CEE, nome do país de colheita.\n\n2. No caso de, nos termos da Directiva 92/105/CEE, os materiais serem acompanhados de um passaporte fitossanitário, este constituirá, se o fornecedor assim o desejar, o documento do fornecedor referido no n.º 1. Não obstante, é obrigatória a menção «Qualidade CEE», bem como uma indicação do organismo oficial responsável nos termos da Directiva 92/33/CEE e uma referência à denominação da variedade. No caso de importações provenientes de países terceiros nos termos do n.º2 do artigo 16.º da Directiva 92/33/CEE, deve ser igualmente indicado o nome do país de colheita. Esta informação pode constar do mesmo documento que o passaporte fitossanitário, mas deve ser claramente separada."
+  },
+  "943a7557dd209123": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, em 31 de Dezembro de 1993. Do facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As normas relativas a essa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptem no domínio regido pela presente directiva."
+  },
+  "b1bdb6eb30e3efe7": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "d402e2e21f75df65": {
+   "fragment_id": "RNQP relativas a materiais de propagação e plantação de produtos hortícolas",
+   "type": "divisao",
+   "heading": "RNQP relativas a materiais de propagação e plantação de produtos hortícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RNQP relativas a materiais de propagação e plantação de produtos hortícolas\n\n| **Bactérias** |  |  |\n| --- | --- | --- |\n| RNQP ou sintomas causados por RNQP | Material de propagação e plantação de produtos hortícolas (género ou espécie) | Limiar para a presença de RNQP nos materiais de propagação e plantação de produtos hortícolas |\n| *Clavibacter michiganensis* ssp. *michiganensis* (Smith) Davis *et al*. [CORBMI] | *Solanum lycopersicum* L. | 0 % |\n| *Xanthomonas euvesicatoria* Jones *et al*. [XANTEU] | *Capsicum annuum* L., *Solanum lycopersicum* L. | 0 % |\n| *Xanthomonas gardneri* (ex Šutič 1957) Jones *et al*. [XANTGA] | *Capsicum annuum* L., *Solanum lycopersicum* L. | 0 % |\n| *Xanthomonas perforans* Jones *et al*. [XANTPF] | *Capsicum annuum* L., *Solanum lycopersicum L.* | 0 % |\n| *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al*. [XANTVE] | *Capsicum annuum* L., *Solanum lycopersicum* L. | 0 % |\n| **Fungos e oomicetas** |  |  |\n| RNQP ou sintomas causados por RNQP | Material de propagação e plantação de produtos hortícolas (género ou espécie) | Limiar para a presença de RNQP nos materiais de propagação e plantação de produtos hortícolas |\n| *Fusarium* Link (género anamórfico) [1FUSAG], exceto *Fusarium oxysporum* f. sp. *albedinis* (Kill. & Maire) W.L. Gordon [FUSAAL] e *Fusarium circinatum* Nirenberg & O’Donnell [GIBBCI] | *Asparagus officinalis* L. | 0 % |\n| *Helicobasidium brebissonii* (Desm.) Donk [HLCBBR] | *Asparagus officinalis* L. | 0 % |\n| *Stromatinia cepivora* Berk. [SCLOCE] | *Allium cepa* L., *Allium fistulosum* L., *Allium porrum* L*., Allium sativum* L. | 0 % |\n| *Verticillium dahliae* Kleb. [VERTDA] | *Cynara cardunculus* L. | 0 % |\n| **Nemátodes** |  |  |\n| RNQP ou sintomas causados por RNQP | Material de propagação e plantação de produtos hortícolas (género ou espécie) | Limiar para a presença de RNQP nos materiais de propagação e plantação de produtos hortícolas |\n| *Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI] | *Allium cepa* L., *Allium sativum* L. | 0 % |\n| **Vírus, viroides, doenças similares a vírus e fitoplasmas** |  |  |\n| RNQP ou sintomas causados por RNQP | Material de propagação e plantação de produtos hortícolas (género ou espécie) | Limiar para a presença de RNQP nos materiais de propagação e plantação de produtos hortícolas |\n| *Leek yellow stripe virus* [LYSV00] | *Allium sativum* L. | 1 % |\n| *Onion yellow dwarf virus* [OYDV00] | *Allium cepa* L., *Allium sativum* L. | 1 % |\n| *Potato spindle tuber viroid* [PSTVD0] | *Capsicum annuum* L., *Solanum lycopersicum* L. | 0 % |\n| *Tomato spotted wilt tospovirus* [TSWV00] | *Capsicum annuum L., Lactuca sativa L., Solanum lycopersicum L., Solanum melongena L.* | 0 % |\n| *Tomato yellow leaf curl virus* [TYLCV0] | *Solanum lycopersicum* L. | 0 % |\n\n---"
+  },
+  "8bffddd765a9d077": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> () JO n.ºL 26 de 31.1.1977, p. 20.\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e82a6d4c-a66a-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#src.E0002)) Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, e que altera os Regulamentos (UE) n.º 228/2013, (UE) n.º 652/2014 e (UE) n.º 1143/2014 do Parlamento Europeu e do Conselho e revoga as Diretivas 69/464/CEE, 74/647/CEE, 93/85/CEE, 98/57/CE, 2000/29/CE, 2006/91/CE e 2007/33/CE do Conselho (JO L 317 de 23.11.2016, p. 4).\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e82a6d4c-a66a-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#src.E0003)) JO n.º L 225 de 12.10.1970, p. 7.\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e82a6d4c-a66a-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#src.E0004)) JO n.º L 4 de 8.1.1993 p. 22."
+  },
+  "483aedb6c4c88b0f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSe for caso disso, os materiais devem satisfazer as condições fitossanitárias aplicáveis na matéria estabelecidas na Directiva 77/93/CEE do Conselho ([^1^](http://publications.europa.eu/resource/cellar/03760846-d248-11ef-be2a-01aa75ed71a1.0019.02/DOC_1#E0001))."
+  },
+  "9bddfc3d78b49f6e": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs materiais de propagação e plantação de produtos hortícolas devem, pelo menos através de uma inspeção visual, ser considerados, no local de produção, praticamente isentos de todas as pragas enumeradas no anexo relativamente aos respetivos materiais de propagação e plantação.\n\nA presença de pragas regulamentadas não sujeitas a quarentena (RNQP) nos materiais de propagação e plantação de produtos hortícolas comercializados não deve, pelo menos através de uma inspeção visual, exceder os respetivos limiares estabelecidos no anexo.\n\nOs materiais de propagação e plantação de produtos hortícolas devem, através de uma inspeção visual, ser considerados praticamente isentos de quaisquer pragas, com exceção das pragas enumeradas no anexo no que se refere aos respetivos materiais de propagação e plantação, que reduzam a sua utilidade e qualidade.\n\nOs materiais de propagação e plantação de produtos hortícolas devem cumprir igualmente os requisitos relativos às pragas de quarentena da União, às pragas de quarentena de zonas protegidas e às pragas regulamentadas não sujeitas a quarentena estabelecidos no Regulamento (UE) 2016/2031 ([^2^](http://publications.europa.eu/resource/cellar/03760846-d248-11ef-be2a-01aa75ed71a1.0019.02/DOC_1#E0002)) e nos atos de execução adotados no âmbito desse regulamento, incluindo as medidas adotadas nos termos do artigo 30.º, n.º 1, do mesmo regulamento."
+  },
+  "c84dc2be79de0d03": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1.\n\nO documento emitido pelo fornecedor referido no artigo 11.º.º da Directiva 92/33/CEE deve ser de material adequado, que não tenha sido previamente utilizado, e impresso, pelo menos, numa das línguas oficiais da Comunidade. Do documento devem constar as seguintes informações:\n\ni) Indicação «Qualidade CEE»;\n\nii) Indicação do código do Estado-membro CEE;\n\niii) Indicação do organismo oficial responsável e respectivo código;\n\niv) Número de registo ou de acreditação;\n\nv) Nome do fornecedor;\n\nvi) Número de série, semana ou lote;\n\nvii) Data de emissão do documento do fornecedor;\n\nviii) Número de referência do lote de sementes, no caso de plantas jovens produzidas directamente a partir de sementes comercializadas nos termos da Directiva 70/458/CEE do Conselho ([^3^](http://publications.europa.eu/resource/cellar/03760846-d248-11ef-be2a-01aa75ed71a1.0019.02/DOC_1#E0003)). Em alternativa, este número de referência deve ser posto à disposição do organismo oficial responsável, mediante pedido deste;\n\nix) Nome comum ou, no caso de os materiais serem acompanhados de um passaporte fitossanitário, nos termos da Directiva 92/105/CEE da Comissão ([^4^](http://publications.europa.eu/resource/cellar/03760846-d248-11ef-be2a-01aa75ed71a1.0019.02/DOC_1#E0004)), nome botânico;\n\nx) Denominação da variedade. No caso de porta-enxertos, denominação da variedade ou sua designação;\n\nxi) Quantidade;\n\nxii) No caso de importações provenientes de países terceiros nos termos do n.º2 do artigo 16.º da Directiva 92/33/CEE, nome do país de colheita.\n\n2. No caso de, nos termos da Directiva 92/105/CEE, os materiais serem acompanhados de um passaporte fitossanitário, este constituirá, se o fornecedor assim o desejar, o documento do fornecedor referido no n.º 1. Não obstante, é obrigatória a menção «Qualidade CEE», bem como uma indicação do organismo oficial responsável nos termos da Directiva 92/33/CEE e uma referência à denominação da variedade. No caso de importações provenientes de países terceiros nos termos do n.º2 do artigo 16.º da Directiva 92/33/CEE, deve ser igualmente indicado o nome do país de colheita. Esta informação pode constar do mesmo documento que o passaporte fitossanitário, mas deve ser claramente separada."
+  },
+  "cf008f91d42c0a48": {
+   "fragment_id": "RNQP relativas a materiais de propagação e plantação de produtos hortícolas",
+   "type": "divisao",
+   "heading": "RNQP relativas a materiais de propagação e plantação de produtos hortícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RNQP relativas a materiais de propagação e plantação de produtos hortícolas\n\n| **Bactérias** |  |  |\n| --- | --- | --- |\n| RNQP ou sintomas causados por RNQP | Material de propagação e plantação de produtos hortícolas (género ou espécie) | Limiar para a presença de RNQP nos materiais de propagação e plantação de produtos hortícolas |\n| *Clavibacter michiganensis* ssp. *michiganensis* (Smith) Davis *et al*. [CORBMI] | *Solanum lycopersicum* L. | 0 % |\n| *Xanthomonas euvesicatoria* Jones *et al*. [XANTEU] | *Capsicum annuum* L., *Solanum lycopersicum* L. | 0 % |\n| *Xanthomonas gardneri* (ex Šutič 1957) Jones *et al*. [XANTGA] | *Capsicum annuum* L., *Solanum lycopersicum* L. | 0 % |\n| *Xanthomonas perforans* Jones *et al*. [XANTPF] | *Capsicum annuum* L., *Solanum lycopersicum L.* | 0 % |\n| *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al*. [XANTVE] | *Capsicum annuum* L., *Solanum lycopersicum* L. | 0 % |\n| **Fungos e oomicetas** |  |  |\n| RNQP ou sintomas causados por RNQP | Material de propagação e plantação de produtos hortícolas (género ou espécie) | Limiar para a presença de RNQP nos materiais de propagação e plantação de produtos hortícolas |\n| *Fusarium* Link (género anamórfico) [1FUSAG], exceto *Fusarium oxysporum* f. sp. *albedinis* (Kill. & Maire) W.L. Gordon [FUSAAL] e *Fusarium circinatum* Nirenberg & O’Donnell [GIBBCI] | *Asparagus officinalis* L. | 0 % |\n| *Helicobasidium brebissonii* (Desm.) Donk [HLCBBR] | *Asparagus officinalis* L. | 0 % |\n| *Stromatinia cepivora* Berk. [SCLOCE] | *Allium cepa* L., *Allium fistulosum* L., *Allium porrum* L*., Allium sativum* L. | 0 % |\n| *Verticillium dahliae* Kleb. [VERTDA] | *Cynara cardunculus* L. | 0 % |\n| **Nemátodes** |  |  |\n| RNQP ou sintomas causados por RNQP | Material de propagação e plantação de produtos hortícolas (género ou espécie) | Limiar para a presença de RNQP nos materiais de propagação e plantação de produtos hortícolas |\n| *Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI] | *Allium cepa* L., *Allium sativum* L. | 0 % |\n| **Vírus, viroides, doenças similares a vírus e fitoplasmas** |  |  |\n| RNQP ou sintomas causados por RNQP | Material de propagação e plantação de produtos hortícolas (género ou espécie) | Limiar para a presença de RNQP nos materiais de propagação e plantação de produtos hortícolas |\n| *Leek yellow stripe virus* [LYSV00] | *Allium sativum* L. | 1 % |\n| *Onion yellow dwarf virus* [OYDV00] | *Allium cepa* L., *Allium sativum* L. | 1 % |\n| *Potato spindle tuber viroid* [PSTVD0] | *Capsicum annuum* L., *Solanum lycopersicum* L. | 0 % |\n| [▼M2](http://publications.europa.eu/resource/celex/32024L3010) |  |  |\n| Vírus do fruto rugoso castanho do tomateiro [ToBRFV] | *Capsicum annuum* L., com exceção de material pertencente a uma variedade reconhecidamente resistente ao ToBRFV. *Solanum lycopersicum* L. e seus híbridos. | 0 % |\n| [▼M1](http://publications.europa.eu/resource/celex/32020L0177) |  |  |\n| *Tomato spotted wilt tospovirus* [TSWV00] | *Capsicum annuum L., Lactuca sativa L., Solanum lycopersicum L., Solanum melongena L.* | 0 % |\n| *Tomato yellow leaf curl virus* [TYLCV0] | *Solanum lycopersicum* L. | 0 % |\n\n---"
+  },
+  "ea17c4f707162411": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> () JO n.ºL 26 de 31.1.1977, p. 20.\n\n> ([^1^](http://publications.europa.eu/resource/cellar/03760846-d248-11ef-be2a-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, e que altera os Regulamentos (UE) n.º 228/2013, (UE) n.º 652/2014 e (UE) n.º 1143/2014 do Parlamento Europeu e do Conselho e revoga as Diretivas 69/464/CEE, 74/647/CEE, 93/85/CEE, 98/57/CE, 2000/29/CE, 2006/91/CE e 2007/33/CE do Conselho (JO L 317 de 23.11.2016, p. 4).\n\n> ([^1^](http://publications.europa.eu/resource/cellar/03760846-d248-11ef-be2a-01aa75ed71a1.0019.02/DOC_1#src.E0003)) JO n.º L 225 de 12.10.1970, p. 7.\n\n> ([^1^](http://publications.europa.eu/resource/cellar/03760846-d248-11ef-be2a-01aa75ed71a1.0019.02/DOC_1#src.E0004)) JO n.º L 4 de 8.1.1993 p. 22."
+  }
+ }
+}

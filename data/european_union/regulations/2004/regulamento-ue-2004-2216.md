@@ -35,6 +35,97 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-01-01'
+version_history:
+  file: regulamento-ue-2004-2216.versoes.json
+  count: 3
+  source_lastmod: '2012-01-01'
+  versions:
+  - date: '2009-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-10-15'
+    amending: eu:celex:32010R0920:por
+    amending_title: REGULAMENTO (UE) N. o 920/2010 DA COMISSÃO de 7 de Outubro de 2010
+    changes:
+    - Altera Artigo 6.º — Elo de comunicação entre os registos e o diário independente de operações da Comunidade
+    - Altera Artigo 10.º — Confidencialidade
+    - Altera Artigo 11.º — Contas
+    - Altera Artigo 19.º — Criação de contas de depósito pessoais
+    - Altera Artigo 23.º — Representantes autorizados
+    - Altera Artigo 34.º-A — Anulação manual de operações finalizadas iniciadas por erro
+    - Altera Artigo 49.º — Transferências de licenças e de unidades de Quioto por titulares de conta
+    - Altera Artigo 53.º — Utilização de RCE e URE
+    - Altera Artigo 62.º — Anulação voluntária de licenças e unidades de Quioto
+    - Altera Artigo 67.º — Suspensão do acesso a contas
+    - Altera Lista dos códigos de resposta para todos os processos
+    - Altera Informações dos registos e do diário independente de operações da Comunidade a disponibilizar ao público
+    - Altera Informações dos registos a disponibilizar ao público
+    - Altera Informações do diário independente de operações da Comunidade a disponibilizar ao público
+    - Altera Notas
+    - Adita Artigo 21.º-A — Encerramento de contas e remoção do representante autorizado do registo por iniciativa do administrador
+    - Adita Informações relativas às contas de depósito pessoais a fornecer ao administrador do registo
+    - Adita ANEXO IV-A
+    - Adita Informações relativas aos representantes autorizados e aos representantes autorizados adicionais a fornecer ao
+      administrador do registo
+    - Suprime Atribuição e emissão de licenças para o período 2005-2007
+    - Suprime Artigo 38.º — Tabela relativa ao plano nacional de atribuição para o período 2005-2007
+    - Suprime Artigo 39.º — Emissão de licenças
+    - Suprime Artigo 40.º — Atribuição de licenças a operadores
+    - Suprime Artigo 41.º — Devolução de licenças por ordem da autoridade competente
+    - Suprime Artigo 42.º — Atribuição de licenças a novos intervenientes
+    - Suprime Artigo 43.º — Emissão de licenças de força maior
+    - Suprime Artigo 54.º — Devolução de licenças de força maior
+    - Suprime Artigo 58.º — Anulação e retirada de licenças devolvidas e licenças de força maior para o período 2005-2007
+    - Suprime Anulação e substituição
+    - Suprime Artigo 60.º — Anulação e substituição de licenças emitidas para o período 2005-2007
+    - Suprime Artigo 61.º — Anulação e substituição de licenças emitidas para o período 2008-2012 e períodos subsequentes
+    - Suprime Informações relativas às contas referidas nos n.^os^ 1, 3 e 4 do artigo 11.º e às contas de depósito pessoais
+      a fornecer ao administrador de registo
+  - date: '2012-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime OBJECTO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime REGISTOS E DIÁRIOS DE OPERAÇÕES
+    - Suprime Artigo 3.º — Registos
+    - Suprime Artigo 4.º — Registos consolidados
+    - Suprime Artigo 5.º — Diário independente de operações da Comunidade
+    - Suprime Artigo 6.º — Elo de comunicação entre os registos e o diário independente de operações da Comunidade
+    - Suprime Artigo 7.º — Elo de comunicação entre os diários independentes de operações
+    - Suprime Artigo 7.º-A
+    - Suprime Artigo 8.º — Administradores de registo
+    - Suprime CAPÍTULO III
+    - Suprime CONTEÚDO DOS REGISTOS
+    - Suprime SECÇÃO 1
+    - Suprime Comunicação de informações e confidencialidade
+    - Suprime Artigo 9.º — Comunicação de informações
+    - Suprime Artigo 10.º — Confidencialidade
+    - Suprime SECÇÃO 2
+    - Suprime Contas
+    - Suprime Artigo 11.º — Contas
+    - Suprime SECÇÃO 3
+    - Suprime Contas da Parte
+    - Suprime Artigo 12.º — Criação de contas da Parte
+    - Suprime Artigo 13.º — Encerramento de contas da Parte
+    - Suprime Artigo 14.º — Notificação
+    - Suprime SECÇÃO 4
+    - Suprime Contas de depósito de operador
+    - Suprime Artigo 15.º — Criação de contas de depósito de operador
+    - Suprime Artigo 16.º — Depósito de unidades de Quioto em contas de depósito de operador
+    - Suprime Artigo 17.º — Encerramento de contas de depósito de operador
+    - Suprime Artigo 18.º — Notificação
+    - Suprime SECÇÃO 5
+    - Suprime Contas de depósito pessoais
+    - Suprime Artigo 19.º — Criação de contas de depósito pessoais
+    - Suprime Artigo 20.º — Depósito de unidades de Quioto em contas de depósito pessoais
+    - Suprime Artigo 21.º — Encerramento de contas de depósito pessoais
+    - Suprime Artigo 21.º-A — Encerramento de contas e remoção do representante autorizado do registo por iniciativa do administrador
 identifiers:
   celex: 32004R2216
   eli: http://data.europa.eu/eli/reg/2004/2216/oj
@@ -49,7 +140,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/90557eb4-f4e9-44fa-860f-53b7305450bc.0016
   content_url: http://publications.europa.eu/resource/cellar/b29790d5-f02a-451d-9016-a2c683725516.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R2216-20120101
-  retrieved_at: '2026-10-22T02:42:42Z'
+  retrieved_at: '2026-10-22T14:59:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-06-04T05:14:05.768+02:00'
 integrity:
@@ -58,9 +149,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:42Z'
-  notes: Texto consolidado 02004R2216-20120101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:09Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2004-2216.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -177,16 +268,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:42Z'
+  checked_at: '2026-10-22T14:59:09Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02004R2216-20041230: versão indisponível (Sem expressão na língua por para CELEX 02004R2216-20041230.)'
+  - '02004R2216-20070804: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R2216-20080201: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R2216-20111130: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

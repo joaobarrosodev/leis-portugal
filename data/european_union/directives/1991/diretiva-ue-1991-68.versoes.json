@@ -1,0 +1,389 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991L0068:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0068-20161116",
+ "dre_path": null,
+ "source_lastmod": "2016-11-16",
+ "versions": [
+  {
+   "date": "2013-12-20",
+   "future": false,
+   "celex": "01991L0068-20131220",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a309b64f035c4008",
+    "3506c20c5efb4574",
+    "b0c5bf2e9a84ccaf",
+    "b67045b27eb1b2f9",
+    "ce2efce612a201cb",
+    "42b85d67d8cea60a",
+    "a6a8bc4359e81260",
+    "aa653d05a87ffc28",
+    "8041244c9770ea22",
+    "14f83bdebbb13830",
+    "294a7279371d1267",
+    "d078a77da5a74b0b",
+    "abcc09cd09a3b991",
+    "7a81f509a0435719",
+    "ccfef5b6f86f3d1c",
+    "301d2c0d2d5eedef",
+    "9ffed8b4ee610635",
+    "4bfc0da672b17133",
+    "d3c0d1d07f4dfdf1",
+    "48c1cb2e3a6dd1c3",
+    "8aebe67bec96fbd7",
+    "e100e1ab47c50b06",
+    "75b0bb36a3be7d26",
+    "c5f705ca1c5a3e34",
+    "a09c7731cdd0b969",
+    "8765a75a72489d89",
+    "505cf9a46be218d4",
+    "ec2b18140b6b4802",
+    "534ebb226b4bd732",
+    "c13b99ba13d00e28",
+    "b340421948b282a1",
+    "ceee4d1607ef55b7",
+    "591b360bfddd10d2",
+    "8571d3d2039dc6dc",
+    "0470f2b2d090a327",
+    "a5ccab39e49cda34",
+    "770bf5cf1c6359a7",
+    "e2ff72a40ba24e75",
+    "f88256a1e97acff5",
+    "ead16fdc701eaca3",
+    "d2cce831fc3b56a6"
+   ]
+  }
+ ],
+ "fragments": {
+  "a309b64f035c4008": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Janeiro de 1991\n\nrelativa às condições de polícia sanitária que regem as trocas comerciais intracomunitárias de ovinos e caprinos\n\n(91/68/CEE)"
+  },
+  "3506c20c5efb4574": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva define as condições de polícia sanitária que regem as trocas comerciais intracomunitárias de ovinos e de caprinos."
+  },
+  "b0c5bf2e9a84ccaf": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\na) As definições constantes do artigo 2.º da Directiva 90/425/CEE e do artigo 2.º da Directiva 91/628/CEE do Conselho, de 19 de Novembro de 1991, relativa à protecção dos animais durante o transporte e que altera as Directivas 90/425/CEE e 91/496/CEE ([^6^](http://publications.europa.eu/resource/cellar/b254c77f-32b9-429e-b3cb-0740b92f8484.0018.02/DOC_1#E0006)) aplicam-se quando pertinentes;\n\nb) Além disso, para efeitos da presente directiva, entende-se por:\n\n1. «Ovino ou caprino para abate», qualquer animal das espécies ovina ou caprina destinado a ser levado quer directamente quer através de um centro de agrupamento para um matadouro com vista a abate;\n\n2. «Ovino ou caprino para reprodução», qualquer animal das espécies ovina ou caprina para além dos referidos nos pontos 1 e 3 que vá ser transportado para o local de destino, quer directamente, quer através de um centro de agrupamento aprovado para fins de reprodução e de produção.\n\n3. «Ovino ou caprino para engorda», qualquer animal das espécies ovina ou caprina para além dos referidos nos pontos 1 e 2 que vá ser transportado para o local de destino, quer directamente, quer através de um centro de agrupamento aprovado para fins de engorda para abate subsequente.\n\n4. «Exploração de ovinos ou caprinos oficialmente indemne de brucelose», qualquer exploração que satisfaça as condições estabelecidas na rubrica I do capítulo 1 do anexo A.\n\n5. «Exploração de ovinos ou caprinos indemne de brucelose», qualquer exploração que satisfaça as condições estabelecidas no capítulo 2 do anexo A.\n\n6. «Doença de notificação obrigatória», uma doença enumerada na secção I do anexo B.\n\n7. «Veterinário oficial», o veterinário designado pela autoridade competente do Estado-Membro.\n\n8. «Exploração de origem», qualquer exploração em que os ovinos ou caprinos tenham residido continuamente como previsto na presente directiva e sobre a qual se mantêm registos que comprovam o lugar de residência dos animais e que possam ser objecto de auditoria pelas autoridades competentes.\n\n9. «Centros de agrupamento», os centros de agrupamento e os mercados em que os ovinos ou caprinos provenientes de diferentes explorações são agrupados, sob o controlo do veterinário oficial, para formar remessas de animais destinados a movimentos nacionais.\n\n10. «Centros de agrupamento aprovados», as instalações em que os ovinos ou caprinos provenientes de diferentes explorações são agrupados para formar remessas de animais destinados ao comércio intracomunitário.\n\n11. «Comerciante», qualquer pessoa singular ou colectiva que, directa ou indirectamente, compra e vende animais para fins comerciais, que tem uma rotação regular desses animais e que, no prazo máximo de 29 dias a contar da aquisição, os revende ou transfere das primeiras instalações para outras instalações ou directamente para um matadouro que não sejam da sua propriedade.\n\n12. «Instalações de comerciantes aprovados», instalações dirigidas por um comerciante, como previsto no ponto 11 e aprovadas pelas autoridades competentes em que os ovinos ou caprinos provenientes de diferentes explorações são agrupados para formar remessas de animais destinados ao comércio intracomunitário.\n\n13. «Transportador», qualquer pessoa singular ou colectiva referida no artigo 5.º da Directiva 91/628/CEE.\n\n14. «Região», a parte do território de um Estado-membro de área não inferior a 2 000 km^2^ sujeita a inspecção pelas autoridades competentes e que inclua pelo menos uma das seguintes circunscrições administrativas:\n\n| — Bélgica: | province/provincie |\n| --- | --- |\n| — Alemanha: | Regierungsbezirk |\n| — Dinamarca: | amt ou island |\n| — França: | département |\n| — Itália: | provincia |\n| — Luxemburgo: | _ |\n| — Países Baixos: | RVV-kring |\n| — Reino Unido: |  |\n| Inglaterra, País de Gales e Irlanda do Norte: | county |\n| Escócia: | district ou island area |\n| — Irlanda: | county |\n| — Grécia: | íïìüò |\n| — Espanha: | provincia |\n| — Portugal: |  |\n| continente: | distrito |\n| outras partes do território português: | região autónoma |\n| — Áustria: | Bezirk |\n| — Suécia: | län |\n| — Finlândia: | lääni/län. |\n| [▼M11](http://publications.europa.eu/resource/celex/32006L0104) |  |\n| — Bulgária: | област |\n| — Roménia: | județ. |\n| [▼M13](http://publications.europa.eu/resource/celex/32013L0020) |  |\n| — Croácia: | županija. |"
+  },
+  "b67045b27eb1b2f9": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os ovinos e caprinos para abate podem ser objecto de comércio se preencherem as condições definidas em conformidade com os artigos 4.º, 4.ºA, 4.ºB e 4.ºC.\n\n2. Os ovinos e caprinos para engorda só podem ser objecto de comércio se preencherem as condições definidas em conformidade com os artigos 4.º, 4.ºA, 4.º-B e 5.º, sem prejuízo de eventuais garantias suplementares que possam ser exigidas por força dos artigos 7.º e 8.º\n\n3. Os ovinos e caprinos para reprodução só podem ser objecto de comércio se preencherem as condições definidas em conformidade com os artigos 4.º, 4.ºA, 4.º-B, 5.º e 6.º sem prejuízo de eventuais garantias suplementares que possam ser exigidas por força dos artigos 7.º e 8.º\n\n4. Em derrogação dos n.^os^ 2 e 3, as autoridades competentes dos Estados-Membros de destino podem conceder derrogações gerais ou limitadas relativas à circulação de ovinos e caprinos para reprodução e engorda, que se destinam exclusivamente à pastagem temporária nas zonas fronteiriças da Comunidade. Os Estados-Membros que recorram a essas derrogações devem notificar imediatamente a Comissão do conteúdo das derrogações concedidas.\n\n5. Os ovinos e caprinos abrangidos pela presente directiva não devem, em momento algum, desde a saída da exploração de origem até à chegada ao local de destino, ter estado em contacto com outros animais artiodáctilos que não sejam ovinos ou caprinos como o mesmo estatuto sanitário."
+  },
+  "ce2efce612a201cb": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1.\n\nOs Estados-Membros devem assegurar que os ovinos e caprinos:\n\na) Sejam identificados e registados em conformidade com a legislação comunitária;\n\nb) Sejam inspeccionados por um veterinário oficial durante as 24 horas que precedem o seu carregamento e não apresentem qualquer sinal clínico de doença;\n\nc) Não provenham, nem eles nem os animais com que tenham estado em contacto, de uma exploração que seja objecto de uma proibição por motivos de polícia sanitária; essa proibição deve vigorar, após o abate e/ou a eliminação do último animal afectado por, ou susceptível a, uma das doenças referidas nas subalíneas i), ii) ou iii), durante pelo menos:\n\ni) 42 dias no caso da brucelose,\n\nii) 30 dias no caso da raiva,\n\niii) 15 dias no caso do carbúnculo bacteriano;\n\nd) Não provenham, nem eles nem os animais com que tenham estado em contacto, de uma exploração situada numa zona, por motivos de polícia sanitária, que seja objecto de uma proibição ou restrição que afecte a espécie em questão em conformidade com a legislação comunitária e/ou nacional;\n\ne) Não foram objecto de medidas em matéria de polícia sanitária decorrentes da legislação comunitária relativa à febre aftosa nem foram vacinados contra esta doença.\n\n2.\n\nOs Estados-Membros devem assegurar que não sejam objecto de comércio:\n\na) Os ovinos e caprinos que possam ter que ser abatidos no âmbito de um programa nacional de erradicação de doenças não referidas no anexo C da Directiva 90/425/CEE ou no capítulo I do anexo B da presente directiva;\n\nb) Os ovinos e caprinos que não possam ser comercializados no seu próprio território por razões de saúde pública ou sanidade animal justificadas pelo artigo 30.º do Tratado.\n\n3.\n\nOs Estados-Membros devem assegurar que os ovinos e caprinos:\n\na) Tenham nascido e sido criados desde o seu nascimento na Comunidade; ou\n\nb) Tenham sido importados de um país terceiro em conformidade com a legislação comunitária."
+  },
+  "42b85d67d8cea60a": {
+   "fragment_id": "Artigo 4.ºA",
+   "type": "artigo",
+   "heading": "Artigo 4.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.ºA\n\n1.\n\nOs Estados-Membros devem assegurar que os ovinos e caprinos destinados ao abate, à criação ou à engorda não serão expedidos para outro Estado-Membro, salvo se os animais:\n\na) Tiverem permanecido continuamente na exploração de origem por um período de pelo menos 30 dias ou desde a nascença, no caso dos animais terem menos de 30 dias de idade; e\n\nb) Não provirem de uma exploração na qual tenham sido introduzidos ovinos ou caprinos nos 21 dias anteriores à expedição; e\n\nc) Não provirem de uma exploração na qual tenham sido introduzidos biungulados importados de um país terceiro nos 30 dias anteriores à expedição.\n\n2. Em derrogação das alíneas b) e c) do n.º 1, os Estados-Membros podem autorizar a expedição, para outros Estados-Membros, de ovinos e caprinos sempre que os animais referidos nos alíneas b) e c) do n.º 1 tenham sido completamente isolados de todos os outros animais da exploração."
+  },
+  "a6a8bc4359e81260": {
+   "fragment_id": "Artigo 4.ºB",
+   "type": "artigo",
+   "heading": "Artigo 4.ºB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.ºB\n\n1. Os Estados-Membros devem assegurar que são aplicadas as condições indicadas nos n.^os^ 2 a 6 ao comércio intracomunitário de todos os ovinos e caprinos.\n\n2. Os animais não devem permanecer fora da sua exploração de origem por mais de seis dias antes de serem certificados pela última vez tendo em vista o comércio ou o destino final noutro Estado-Membro como indicado no certificado sanitário.\n\nSem prejuízo do n.º 1 do artigo 9.º, no caso de transporte marítimo, o prazo de seis dias é prorrogado pelo período de duração da viagem marítima.\n\n3. Depois de abandonarem a exploração de origem, os animais devem ser enviados directamente para o seu destino noutro Estado-Membro.\n\n4. Em derrogação do n.º 3, os ovinos e caprinos podem transitar por um único centro de agrupamento aprovado, situado no Estado-Membro de origem, depois de deixarem a exploração de origem e antes da sua chegada ao destino noutro Estado-Membro.\n\nNo caso dos ovinos e caprinos para abate, o centro de agrupamento aprovado poderá ser substituído por instalações de comerciantes aprovados situados no Estado-Membro de origem.\n\n5. Os animais para abate que, logo após a sua chegada ao Estado-Membro de destino, tenham sido conduzidos para um matadouro têm de ser abatidos com a maior brevidade, e nunca em prazo superior a 72 horas a contar da sua chegada.\n\n6. Sem prejuízo do n.º 5 do artigo 3.º, os Estados-Membros devem assegurar que, em nenhum momento, desde a saída da exploração de origem até à chegada ao local de destino, os animais abrangidos pela presente directiva comprometam o estatuto sanitário dos ovinos e caprinos não destinados ao comércio intracomunitário."
+  },
+  "aa653d05a87ffc28": {
+   "fragment_id": "Artigo 4.ºC",
+   "type": "artigo",
+   "heading": "Artigo 4.ºC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.ºC\n\n1. Em derrogação da alínea a) do n.º 1 do artigo 4.ºA, os ovinos e caprinos para abate podem ser objecto de comércio após um período de residência contínua na exploração de origem durante 21 dias.\n\n2. Em derrogação da alínea b) do n.º 1 do artigo 4.ºA, bem como sem prejuízo do disposto no n.º 1 e do n.º 2 do artigo 4.ºB, os ovinos e caprinos para abate podem ser entregues directamente da exploração de origem a um matadouro situado noutro Estado-Membro para abate imediato, sem terem completado o período de imobilização e sem terem sido sujeitos a nenhuma operação de agrupamento nem passarem por nenhum ponto de paragem estabelecido nos termos da Directiva 91/628/CEE.\n\n3.\n\nEm derrogação dos n.^os^ 3 e 4 do artigo 4.ºB, e sem prejuízo do disposto no n.º 2 do mesmo artigo, os ovinos e caprinos para abate, depois de deixarem a exploração de origem, podem passar por mais um centro de agrupamento, nas seguintes condições alternativas:\n\na) Os animais, antes de passarem pelo centro de agrupamento aprovado a que é feita referência no n.º 4 do artigo 4.ºB, situado no Estado-Membro de origem, satisfazem as seguintes condições:\n\ni) após deixarem a exploração de origem, os animais passam por um único centro de agrupamento sob controlo do veterinário oficial, onde só são aceites em simultâneo animais com, pelo menos, o mesmo estatuto sanitário, e\n\nii) sem prejuízo da legislação comunitária relativa à identificação dos ovinos e caprinos, os animais são identificados, o mais tardar nesse centro de agrupamento de modo a permitir, em cada caso, a rastreabilidade da sua exploração de origem, e\n\niii) do centro de agrupamento, os animais são transportados, juntamente com um documento do veterinário oficial, para o centro de agrupamento aprovado a que é feita referência no n.º 4 do artigo 4.ºB, para serem certificados e entregues directamente num matadouro no Estado-Membro de destino; ou\n\nb) Depois de expedidos do Estado-Membro de origem, os animais transitam por um centro de agrupamento aprovado, antes de serem entregues no matadouro no Estado-Membro de destino, nas seguintes condições:\n\ni) o centro de agrupamento aprovado está situado no Estado-Membro de destino do qual é necessário remover os animais sob a responsabilidade do veterinário oficial, directamente para um matadouro a fim de se proceder ao respectivo abate no prazo máximo de cinco dias após a sua chegada ao centro de agrupamento, ou\n\nii) o centro de agrupamento aprovado está situado num Estado-Membro de trânsito a partir do qual os animais são entregues directamente no matadouro do Estado-Membro de destino que se encontra indicado no certificado sanitário emitido em conformidade com o n.º. 6 do artigo 9.º"
+  },
+  "8041244c9770ea22": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSem prejuízo das garantias complementares exigíveis em conformidade com o disposto nos artigos 7.º e 8.º, os ovinos e caprinos de reprodução, de produção e para engorda deverão satisfazer — além das condições previstas no artigo 4.º —, para serem introduzidos numa exploração ovina e caprina oficialmente indemne de brucelose ou indemne de brucelose, as disposições previstas no capítulo I, ponto D ou no capítulo II, ponto D do anexo A, respectivamente."
+  },
+  "14f83bdebbb13830": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSem prejuízo das garantias complementares exigíveis em conformidade com o disposto nos artigos 7.º e 8.º, os animais de criação e de reprodução devem ainda satisfazer as seguintes exigências:\n\na) Devem ter sido adquiridos numa exploração e apenas terem estado em contacto com animais de uma exploração:\n\ni) na qual não foram clinicamente constatadas as seguintes doenças:\n\n— no decurso dos últimos seis meses, a agalaxia contagiosa dos ovinos *(Mycoplasme agalactieae),* a agalaxia contagiosa dos caprinos *(Mycoplasma agalactiae, M. caprycolum, M. mycoides subesp. mycoides* «large Colony»),\n\n— no decurso dos últimos 12 meses, a pseudotuberculose ou a linfadenite caseosa,\n\n— no decurso dos últimos três anos, a adenomatose pulmonar, a *Maedi visna* ou a artrite encefalite viral caprina. Todavia, este prazo será reduzido para 12 meses se os animais atingidos de *Maedi visna* ou de artrite encefalite viral caprina tiverem sido abatidos e os restantes animais tiverem reagido negativamente a dois testes reconhecidos pelo procedimento previsto no artigo 15.º,\n\nii) na qual não tenha ocorrido e levado ao conhecimento do veterinário oficial encarregado de emitir o certificado sanitário, qualquer facto que permita concluir pela não observância das exigências referidas na subalínea i),\n\niii) cujo proprietário tenha declarado não ter tido conhecimento desses factos e tenha declarado ainda, por escrito, que o animal ou os animais destinados às trocas comerciais intracomunitárias satisfazem os critérios previstos na subalínea i);\n\nc) No que respeita à epidimiorquite infecciosa do carneiro *(B. ovis),* os carneiros de reprodução e de criação não castrados devem:\n\n— provir de uma exploração onde não tenha sido constatado qualquer caso de epididimiorquite infecciosa do carneiro *(B. ovis)*durante os últimos 12 meses,\n\n— ter sido permanentemente mantidos nessa exploração durante os 60 dias anteriores à expedição,\n\n— ter, nos 30 dias que antecedem a expedição, sido submetidos, com resultado negativo, a uma análise serológica praticada de acordo com as normas do anexo D, ou satisfazerem as garantias sanitárias equivalentes reconhecidas de acordo com o procedimento previsto no artigo 15.º;\n\nd) Deverá ser mencionada a observância destas exigências em certificado conforme ao modelo III do anexo E."
+  },
+  "294a7279371d1267": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1.\n\nUm Estado-membro que disponha de um programa nacional obrigatório ou voluntário de luta ou um programa nacional de controlo contra uma das doenças contagiosas [**►M4**](http://publications.europa.eu/resource/celex/32001L0010) referidas no capítulo III do anexo B**◄**, aplicável em todo ou parte do seu território, pode apresentá-lo à Comissão indicando, nomeadamente:\n\n— a situação da doença no seu território,\n\n— a justificação do programa em função da importância da doença e da relação custos/benefícios prevista,\n\n— a zona geográfica em que o programa vai ser aplicado,\n\n— os diferentes estatutos aplicáveis aos estabelecimentos e as normas que devem ser alcançados em cada categoria, bem como os processos de teste,\n\n— os processos de controlo desse programa,\n\n— as consequências da perda do estatuto da exploração, independentemente da razão dessa perda,\n\n— as medidas a tomar no caso de se constatarem resultados positivos aquando dos controlos efectuados em conformidade com as disposições do programa.\n\n2. A Comissão examinará os programas comunicados pelos Estados-membros. Os programas podem ser aprovados dentro do respeito dos critérios previstos no n.º 1, em conformidade com o procedimento previsto no artigo 15.º De acordo com o mesmo procedimento, as garantias complementares que podem ser exigidas no âmbito do comércio intracomunitário serão especificadas simultaneamente ou, o mais tardar, três meses após a aprovação dos programas. Essas garantias devem ser, no máximo, equivalentes às que o Estado-membro exige no âmbito nacional.\n\n3. Os programas apresentados pelos Estados-membros podem ser alterados ou completados em conformidade com o procedimento previsto no artigo 15.º De acordo com o mesmo procedimento, pode ser aprovada qualquer alteração ou complemento a um programa aprovado anteriormente, bem como às garantias definidas em conformidade com o n.º 2.\n\n4. Os programas aprovados em conformidade com o presente artigo beneficiam do financiamento comunitário previsto no artigo 24.º da Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário ([^7^](http://publications.europa.eu/resource/cellar/b254c77f-32b9-429e-b3cb-0740b92f8484.0018.02/DOC_1#E0007)), no que se refere às doenças e condições nele previstas."
+  },
+  "d078a77da5a74b0b": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1.\n\nQualquer Estado-membro que considere estar total ou parcialmente indemne de uma das doenças [**►M4**](http://publications.europa.eu/resource/celex/32001L0010) enumeradas no capítulo III do anexo B**◄** que os ovinos e caprinos são susceptíveis de contrair deve apresentar à Comissão as provas adequadas. Deve indicar, nomeadamente:\n\n— a natureza da doença e o historial do seu aparecimento no seu território,\n\n— os resultados dos testes de vigilância baseados numa pesquisa serológica, microbiológica, patológica ou epidemiológica e no facto de essa doença ser de declaração obrigatória às autoridades competentes,\n\n— a duração da vigilância exercida,\n\n— eventualmente, o período durante o qual foi proibida a vacinação contra a doença e a zona geográfica abrangida por essa proibição,\n\n— as normas que permitem o controlo da ausência da doença.\n\n2. A Comissão examinará as provas apresentadas pelo Estado-membro. As garantias complementares, gerais ou limitadas, que podem ser exigidas no âmbito do comércio intracomunitário, podem ser especificadas em conformidade com o procedimento previsto no artigo 15.º Essas garantias devem ser, no máximo, equivalentes às que o Estado-membro exige no âmbito nacional. No caso de as provas serem apresentadas até 1 de Janeiro de 1992, devem ser tomadas decisões acerca das garantias adicionais antes de 1 de Julho de 1992.\n\n3. O Estado-membro em causa comunicará à Comissão qualquer alteração das provas relativas à doença referidas no n.º 1. À luz dessas informações, as garantias definidas em conformidade com o n.º 2 podem ser alteradas ou suprimidas de acordo com o procedimento previsto no artigo 15.º\n\n4. A Comissão examinará o mais rapidamente possível as justificações apresentadas pela Suécia em relação à paratuberculose do carneiro e à agalaxia contagiosa do carneiro. Na sequência deste exame, e caso se justifique, pode ser aplicável o disposto no n.º 2. As decisões adequadas previstas no n.º 2 serão adoptadas o mais rapidamente possível. Enquanto se aguardam essas decisões, a Suécia pode, durante um ano a contar da data de entrada em vigor do Tratado de Adesão, aplicar as suas normas nacionais em relação às doenças acima referidas, que estejam em vigor antes desta última data. O referido período de um ano pode ser eventualmente prorrogado nos termos do procedimento previsto no artigo 15.º"
+  },
+  "abcc09cd09a3b991": {
+   "fragment_id": "Artigo 8.ºA",
+   "type": "artigo",
+   "heading": "Artigo 8.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.ºA\n\n1.\n\nOs Estados-Membros devem assegurar que os centros de agrupamento satisfaçam pelo menos as seguintes condições para serem autorizados pela autoridade competente:\n\na) Estarem sob a supervisão de um veterinário oficial que garanta, em especial, o cumprimento das disposições estabelecidas no n.º 3 do artigo 3.º;\n\nb) Estarem localizados numa zona não sujeita a proibição ou restrição em conformidade com a legislação comunitária e/ou nacional pertinente;\n\nc) Serem limpos e desinfectados antes de cada utilização, de acordo com as instruções do veterinário oficial;\n\nd) Estarem dotados, em função da capacidade de acolhimento:\n\n— de instalações reservadas exclusivamente para esse fim, quando utilizados como centros de agrupamento,\n\n— de instalações apropriadas que permitam carregar, descarregar e acomodar convenientemente os animais, abeberá-los, alimentá-los e administrar-lhes todos os tratamentos necessários; essas instalações devem ser fáceis de limpar e desinfectar,\n\n— de infra-estruturas de inspecção adequadas,\n\n— de infra-estruturas de isolamento adequadas,\n\n— de equipamentos adequados para a limpeza e desinfecção das instalações e camiões,\n\n— de uma área de armazenagem adequada para a forragem, camas e estrume,\n\n— de um sistema adequado de recolha das águas usadas,\n\n— de um gabinete ou instalações para o veterinário oficial;\n\ne) Só admitirem animais identificados nos termos da legislação comunitária e que satisfaçam as condições sanitárias previstas na presente directiva para essa categoria de animais. Para o efeito, quando os animais são admitidos o proprietário ou o responsável do centro deve assegurar que venham acompanhados dos documentos sanitários ou certificados adequados para a espécie e categoria em questão;\n\nf) Serem periodicamente inspeccionados pela autoridade competente a fim de se verificar se continuam a ser preenchidas as condições que permitiram a sua aprovação.\n\n2.\n\nO proprietário ou responsável do centro de agrupamento é obrigado, quer com base no documento de acompanhamento dos animais, quer com base nos números ou marcas de identificação dos animais, a inscrever num registo ou base de dados e a conservar durante pelo menos três anos as seguintes informações:\n\n— o nome do proprietário, a origem, a data de entrada e saída, o número e a identificação dos ovinos ou caprinos ou o número de registo da exploração de origem dos animais que entram no centro, quando for caso disso, o número de homologação ou de registo do centro de agrupamento pelo qual os animais passaram antes de entrarem no centro e o destino para eles previsto,\n\n— o número de registo do transportador e a matrícula do veículo que entrega os animais no centro ou nele os recebe.\n\n3. A autoridade competente emite um número de aprovação para cada centro de agrupamento aprovado. As aprovações são limitadas a uma ou outra das espécies abrangidas pela presente directiva ou aos animais para reprodução ou engorda ou aos animais para abate.\n\nA autoridade competente elabora e mantém actualizada uma lista de centros de agrupamento aprovados e respectivos números únicos de aprovação, disponibilizando-a aos demais Estados-Membros e ao público.\n\n4. A autoridade competente pode suspender ou revogar a autorização em caso de incumprimento do presente artigo ou de outras disposições da presente directiva ou de qualquer outra directiva relativa a restrições em matéria sanitária. A autorização pode ser restituída depois de a autoridade competente se certificar de que o centro de agrupamento está em plena conformidade com todas as disposições pertinentes da presente directiva.\n\n5. A autoridade competente deve comprovar que os centros de agrupamento, quando em funcionamento, dispõem de um número suficiente de veterinários oficiais para executar todas as suas atribuições.\n\n6. As regras de execução uniforme do presente artigo são aprovadas nos termos do n.º 2 do artigo 15.º"
+  },
+  "7a81f509a0435719": {
+   "fragment_id": "Artigo 8.ºB",
+   "type": "artigo",
+   "heading": "Artigo 8.ºB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.ºB\n\n1.\n\nOs Estados-Membros devem assegurar que todos os comerciantes estejam registados e, para efeitos do comércio intracomunitário, estejam aprovados e possuam um número de autorização fornecido pela autoridade competente, e que os comerciantes aprovados satisfaçam pelo menos as seguintes condições:\n\na) Só comercializarem animais identificados e provenientes de explorações que satisfaçam as condições previstas no artigo 3.º Para o efeito, o comerciante deve assegurar que todos os animais sejam adequadamente identificados e venham acompanhados por documentos sanitários adequados em conformidade com a presente directiva;\n\nb) O comerciante é obrigado, quer com base no documento de acompanhamento dos animais, quer com base nos números ou marcas de identificação dos animais, a inscrever num registo ou base de dados e a conservar durante pelo menos três anos as seguintes informações:\n\n— o nome do proprietário, a origem, a data de compra, as categorias, o número e a identificação dos ovinos ou caprinos ou o número de registo da exploração de origem dos animais comprados, quando for caso disso, o número de homologação ou de registo do centro de agrupamento pelo qual os animais passaram antes da compra e o destino para eles previsto,\n\n— o número de registo do transportador e/ou a matrícula do veículo que entrega e recolhe os animais,\n\n— o nome e o endereço do comprador e o local de destino dos animais,\n\n— cópias dos itinerários seguidos e ou os números de série dos certificados sanitários;\n\nc) Caso o comerciante detenha animais nas suas instalações, deve assegurar que:\n\n— seja dada formação específica ao pessoal responsável pelos animais no que se refere à aplicação dos requisitos da presente directiva e ao tratamento e bem-estar dos animais,\n\n— o veterinário oficial realize inspecções e se necessário análises periódicas e sejam tomadas todas as medidas necessárias para impedir a propagação de doenças.\n\n2.\n\nOs Estados-Membros devem assegurar que as instalações utilizadas pelos comerciantes no exercício da sua actividade estejam registadas e possuam um número de autorização fornecido pela autoridade competente, e que satisfaçam pelo menos as seguintes condições:\n\na) Estarem sob a supervisão de um veterinário oficial;\n\nb) Estarem localizadas numa zona não sujeita a proibição ou restrição em conformidade com a legislação comunitária ou nacional pertinente;\n\nc) Estarem dotadas:\n\n— de instalações adequadas com capacidade suficiente e em particular infra-estruturas de inspecção e de isolamento adequadas de modo a que se possam isolar todos os animais caso ocorra uma doença contagiosa,\n\n— de instalações apropriadas que permitam descarregar e se necessário acomodar convenientemente os animais, abeberá-los, alimentá-los e administrar-lhes todos os tratamentos necessários; essas instalações devem ser fáceis de limpar e desinfectar,\n\n— de uma área de recepção adequada para as camas e o estrume,\n\n— de um sistema adequado de recolha das águas usadas;\n\nd) Serem limpas e desinfectadas antes de cada utilização, de acordo com as instruções do veterinário oficial.\n\n3. A autoridade competente pode suspender ou revogar a autorização em caso de incumprimento do presente artigo ou de outras disposições da presente directiva ou de qualquer outra directiva relativas a restrições em matéria sanitária. A autorização pode ser restituída depois de a autoridade competente se certificar de que o comerciante está em plena conformidade com todas as disposições pertinentes da presente directiva.\n\n4. A autoridade competente deve efectuar inspecções periódicas para verificar o cumprimento dos requisitos pertinentes do presente artigo.\n\n5. Os Estados-Membros elaboram e mantêm actualizada uma lista dos comerciantes aprovados e das instalações registadas utilizadas pelos comerciantes no contexto do seu negócio e respectivos números de aprovação, disponibilizando essa lista aos demais Estados-Membros e ao público.\n\nPodem ser aprovadas nos termos do n.º 2 do artigo 15.º regras de execução para uma aplicação uniformizada do presente número."
+  },
+  "ccfef5b6f86f3d1c": {
+   "fragment_id": "Artigo 8.ºC",
+   "type": "artigo",
+   "heading": "Artigo 8.ºC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.ºC\n\n1.\n\nOs Estados-Membros devem assegurar que os transportadores referidos no artigo 5.º da Directiva 91/628/CEE observem as seguintes condições adicionais:\n\na) Utilizarem, para o transporte dos animais, meios de transporte que sejam:\n\n— construídos de modo a que as fezes, a cama ou a forragem dos animais não possam verter ou cair para fora do veículo,\n\n— limpos e desinfectados com desinfectantes autorizados pela autoridade competente, imediatamente depois de cada transporte de animais ou de qualquer outro produto que possa afectar a saúde animal, e se necessário antes de novo carregamento de animais;\n\nb) Disporem de instalações de limpeza e de desinfecção apropriadas, aprovadas pela autoridade competente, incluindo instalações de armazenagem da cama e do estrume, ou comprovarem que essas operações são efectuadas por terceiros aprovados pela autoridade competente.\n\n2.\n\nO transportador deve, em relação a cada veículo destinado ao transporte de animais, assegurar a manutenção de um registo contendo, pelo menos, as seguintes informações, que devem ser conservadas por um período mínimo de três anos:\n\ni) local e data do carregamento, nome ou firma das exploração ou centro de agrupamento onde os animais foram carregados,\n\nii) local e data de entrega, nome ou firma e endereço do ou dos destinatários,\n\niii) espécie e número de animais transportados,\n\niv) data e local de desinfecção,\n\nv) indicação pormenorizada da documentação de acompanhamento (número de série, etc.).\n\n3. Os transportadores devem assegurar que os animais transportados não entrem em contacto com animais de estatuto sanitário inferior em momento algum da viagem, desde a saída da exploração ou do centro de agrupamento de origem até à chegada ao respectivo destino.\n\n4.\n\nOs Estados-Membros devem assegurar que os transportadores se comprometam por escrito a, nomeadamente:\n\n— tomar todas as medidas necessárias para dar cumprimento à presente directiva e em especial ao disposto no presente artigo no que se refere à documentação adequada que deve acompanhar os animais,\n\n— confiar o transporte de animais a pessoas com as aptidões, competências profissionais e conhecimentos necessários.\n\n5. Em caso de incumprimento do disposto no presente artigo, é aplicável *mutatis mutandis* o disposto no artigo 18.º da Directiva 91/628/CEE."
+  },
+  "301d2c0d2d5eedef": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Durante o transporte para o local de destino, os ovinos e caprinos abrangidos pela presente directiva devem ser acompanhados de um certificado sanitário conforme com um dos modelos I, II ou III constantes do anexo E, consoante adequado. O certificado consiste numa única folha ou, nos casos em que seja necessária mais que uma folha, deverá ser constituído de maneira a que todas as folhas façam parte de um conjunto integrado e indivisível, e deve conter um número de série. Deve ser emitido no dia da inspecção sanitária, pelo menos numa das línguas oficiais do país de destino. O certificado ser válido durante dez dias a contar da data da inspecção sanitária.\n\n2. As inspecções sanitárias para a emissão do certificado sanitário, incluindo as garantias adicionais, para uma remessa de animais podem ter lugar na exploração de origem, num centro de agrupamento ou, no caso dos animais destinados a abate, nas instalações do comerciante. Para o efeito, a autoridade competente deve assegurar por que os certificados sanitários sejam estabelecidos pelo veterinário oficial após as inspecções, visitas e controlos previstos pela presente directiva.\n\n3. O veterinário oficial responsável pelo centro de agrupamento deve realizar todas as verificações necessárias nos animais logo após a chegada destes.\n\n4. Para os ovinos e caprinos destinados a engorda e reprodução expedidos para outro Estado-Membro a partir de um centro de agrupamento aprovado situado no Estado-Membro de origem, o certificado sanitário referido no n.º 1, emitido de acordo com os modelos II ou III constantes do anexo E, consoante o caso, pode ser emitido com base nas inspecções contempladas no n.º 3 e num documento oficial contendo as necessárias informações completado pelo veterinário oficial responsável pela exploração de origem.\n\n5. No caso dos ovinos e caprinos destinados a abate expedidos para outro Estado-Membro a partir de um centro de agrupamento aprovado ou de instalações de comerciantes aprovados situadas no Estado-Membro de origem, o certificado sanitário referido no n.º 1, emitido de acordo com o modelo I constante do anexo E, só pode ser emitido com base nas inspecções previstas no n.º 3 e num documento oficial contendo as necessárias informações e completado pelo veterinário oficial responsável pela exploração de origem ou pelo centro de agrupamento referido no artigo 4.ºC, n.º 3, alínea a), subalínea i).\n\n6. No caso dos ovinos e caprinos destinados a abate que passam por um centro de agrupamento aprovado nos termos do artigo 4.ºC, n.º 3, alínea b), subalínea ii), o veterinário oficial responsável pelo centro de agrupamento aprovado no Estado-Membro de trânsito deve fornecer certificação ao Estado-Membro de destino mediante a emissão de um segundo certificado sanitário, emitido de acordo com o modelo I constante do anexo E, completando-o com os dados exigidos a partir do ou dos certificados sanitários originais e apensando-lhe uma cópia autenticada deste ou destes últimos. Neste caso, a validade combinada dos certificados não excede o prazo previsto no n.º 1.\n\n7. O veterinário oficial que emita um certificado sanitário para o comércio intracomunitário conforme com um dos modelos I, II ou III constantes do anexo E, consoante adequado, deve assegurar o registo do transporte dos animais no sistema ANIMO no dia da emissão do certificado."
+  },
+  "9ffed8b4ee610635": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. As regras previstas pela Directiva 90/425/CEE são aplicáveis, nomeadamente no que respeita aos controlos na origem, à organização e ao seguimento a dar aos controlos a efectuar pelo Estado-membro de destino e às medidas de salvaguarda a aplicar.\n\n2. Ao capítulo I do anexo A da Directiva 90/425/CEE, é acrescentada a seguinte referência:\n\n«Directiva 91/68/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que fixam as trocas intracomunitárias de ovinos e caprinos.\n\nJO n.º L 46 de 19. 2. 1991, p. 19.».\n\n3. No ponto A do anexo B da Directiva 90/425/CEE é suprimido o primeiro travessão."
+  },
+  "4bfc0da672b17133": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Na medida em que tal seja necessário para a aplicação uniforme da presente directiva e em colaboração com as autoridades nacionais competentes, podem ser efectuados controlos no local por peritos veterinários da Comunidade. O Estado-membro em cujo território estiver a ser efectuado um controlo prestará toda a assistência aos peritos no cumprimento da sua missão. A Comissão informará os Estados-membros do resultados dos controlos efectuados.\n\n2. As disposições gerais de execução do presente artigo serão fixadas de acordo com o procedimento previsto no artigo 15.º\n\nDe acordo com o mesmo procedimento, serão estabelecidas as regras a seguir aquando do controlo previsto no presente artigo."
+  },
+  "d3c0d1d07f4dfdf1": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-membros que aplicam um regime alternativo de controlo, que ofereça garantias equivalentes às previstas no artigo 5.º e nas alíneas a) e c) do artigo 6.º para a circulação no seu território de ovinos e de caprinos, podem conceder mutuamente, numa base de reciprocidade, uma derrogação à inspecção prevista no n.º 1, alínea b), do artigo 4.º e à obrigação do certificado previsto no artigo 9.º Do facto informarão a Comissão."
+  },
+  "48c1cb2e3a6dd1c3": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. O anexo A é alterado pelo Conselho, deliberando por maioria qualificada, sob recomendação da Comissão.\n\n2. Os anexos B, C, D e E são alterados nos termos do n.º 2 do artigo 15.º\n\n3. As regras de execução da presente directiva são aprovadas nos termos do n.º 2 do artigo 15.º"
+  },
+  "8aebe67bec96fbd7": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^8^](http://publications.europa.eu/resource/cellar/b254c77f-32b9-429e-b3cb-0740b92f8484.0018.02/DOC_1#E0008)).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^9^](http://publications.europa.eu/resource/cellar/b254c77f-32b9-429e-b3cb-0740b92f8484.0018.02/DOC_1#E0009)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "e100e1ab47c50b06": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1.\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares ou administrativas para darem cumprimento:\n\ni) ao disposto nos artigos 7.º e 8.º da presente directiva, dois meses após a sua data de notificação, ficando entendido que as disposições nacionais correspondentes se mantêm aplicáveis até à aprovação dos programas e, na falta de programas, até à data prevista em ii),\n\nii) as outras disposições da presente directiva, o mais tardar, em 31 de Dezembro de 1992.\n\n2. Estas disposições, ao serem adoptadas pelos Estados-membros, farão referência à presente directiva ou serão acompanhadas dessa referência aquando da respectiva publicação oficial. As modalidades dessa referência serão decididas pelos Estados-membros."
+  },
+  "75b0bb36a3be7d26": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "c5f705ca1c5a3e34": {
+   "fragment_id": "ANEXO A",
+   "type": "divisao",
+   "heading": "ANEXO A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A"
+  },
+  "a09c7731cdd0b969": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 1"
+  },
+  "8765a75a72489d89": {
+   "fragment_id": "I. Exploração de ovinos ou de caprinos oficialmente indemne de brucelose (B. melitensis)",
+   "type": "divisao",
+   "heading": "I. Exploração de ovinos ou de caprinos oficialmente indemne de brucelose (B. melitensis)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### I. Exploração de ovinos ou de caprinos oficialmente indemne de brucelose (B. melitensis)\n\nA. *Concessão do estatuto*\n\n1. Uma exploração em que:\n\na) Todos os animais das espécies sensíveis à brucelose *(B. melitensis)* estejam isentos de sinais clínicos ou de qualquer outra manifestação de brucelose *(B. melitensis)* pelo menos há 12 meses;\n\nb) Não existam animais da espécie ovina ou caprina vacinados contra a brucelose *(B. melitensis),* a não ser que se trate de animais vacinados, pelo menos há dois anos, com a vacina Rev. 1 ou qualquer outra vacina aprovada de acordo com o procedimento previsto no artigo 15.º da presente directiva;\n\nc) Tenham sido realizados dois testes com resultado negativo com, pelo menos, seis meses de intervalo, em conformidade com o anexo C, em todos os ovinos e caprinos da exploração com idade superior a seis meses no momento do teste;\n\nd) Após a conclusão dos testes referidos na alínea c), apenas se encontrem ovinos e caprinos que tenham nascido na exploração ou que provenham de uma exploração oficialmente indemne de brucelose nas condições definidas no ponto D;\n\n2. Uma exploração situada num Estado-membro ou numa região reconhecida oficialmente indemne de brucelose de acordo com o ponto II.\n\nB. *Manutenção do estatuto*\n\n1. No que se refere às explorações ovinas ou caprinas oficialmente indemnes de brucelose *(B. melitensis)* que não se situem numa parte do território considerada oficialmente indemne de brucelose e nas quais, após a sua qualificação, a introdução de animais é efectuada em conformidade com o disposto no ponto D, é controlada anualmente uma fracção representativa da população de ovinos e caprinos em cada exploração, com idade superior a seis meses. O estatuto da exploração pode ser mantido se os resultados dos testes forem negativos.\n\n— todos os animais machos não castrados, com idade superior a seis meses,\n\n— todos os animais introduzidos na exploração desde o controlo anterior,\n\n— 25 % das fêmeas em idade reprodutiva (sexualmente adultas) ou em lactação, sem que esse número possa ser inferior a 50 por exploração, excepto nas explorações onde existem menos de 50 destas fêmeas; neste caso, todas estas fêmeas devem ser controladas.\n\n2. Para uma região nã;o oficialmente indemne e na qual mais de 99 % das explorações ovinas ou caprinas são declaradas oficialmente indemnes de brucelose *(B. melitensis),* a periodicidade do controlo das explorações ovinas e caprinas oficialmente indemnes de brucelose pode ser alargada para três anos, na condição de as explorações não oficialmente indemnes ficarem sob controlo oficial ou submetidas a um programa de erradicação.\n\nC. *Suspeita ou aparecimento da brucelose*\n\n1. Sempre que, numa exploração ovina ou caprina oficialmente indemne de brucelose:\n\na) Seja observada uma suspeita de brucelose *(B. melitensis)* num ou mais ovinos ou caprinos, é retirada a qualificação desta exploração. Todavia, a qualificação pode ser suspensa provisoriamente se o animal ou os animais forem imediatamente eliminados ou isolados, enquanto se aguarda uma confirmação oficial da brucelose *(B. melitensis);*\n\nb) A brucelose *(B. melitensis)* seja confirmada, a suspensão provisória só pode ser retirada pela autoridade competente se todos os animais infectados ou todos os animais das espécies susceptíveis de serem infectadas forem abatidos e se os dois testes efectuados de acordo com as disposições do anexo C, com um intervalo de pelo menos três meses, em todos os animais da exploração com idade superior a seis meses, derem resultado negativo.\n\n2. Se a exploração referida no n.º 1 se situar numa região considerada oficialmente indemne de brucelose *(B. melitensis),* o Estado-membro em questão informa imediatamente a Comissão e os outros Estados-membros.\n\na) Manda proceder ao abate de todos os animais infectados, bem como de todos os animais das espécies susceptíveis de estarem infectados na exploração em questão. O Estado-membro em questão mantém a Comissão e os outros Estados-membros informados da evolução da situação;\n\nb) Realiza um inquérito epidemiológico, devendo os efectivos epidemiologicamente em contacto com o efectivo contagiado ser submetidos aos testes previstos na alínea b) do ponto 1.\n\n3. Em caso de brucelose confirmada, em conformidade com o ponto I.C.2, a Comissão, após ter apreciado as circunstâncias do recrudescimento da brucelose *(B. melitensis),* adopta, se essa apreciação o justificar, uma decisão destinada a suspender ou a retirar o estatuto desta região, de acordo com procedimento previsto no artigo 15.º No caso de o estatuto ser retirado, as condições de uma nova qualificação serão precisadas de acordo com o mesmo procedimento.\n\nD. Introdução de animais numa exploração ovina ou caprina oficialmente indemne de brucelose *(B. melitensis)*\n\n1. ou serem provenientes de uma exploração ovina ou caprina oficialmente indemne de brucelose,\n\n2. ou\n\n— serem provenientes de uma exploração indemne de brucelose,\n\n— serem identificados individualmente, em conformidade com a alínea a) do artigo 4.º da presente directiva,\n\n— nunca terem sido vacinados contra a brucelose ou se o tiverem sido há mais de dois anos. Todavia, as fêmeas com idade superior a dois anos e que tenham sido vacinadas antes da idade de sete meses podem igualmente ser introduzidas,\n\n— terem sido isolados na exploração de origem sob controlo oficial e durante esse período terem sido sujeitos a dois testes com resultados negativos, com pelo menos seis semanas de intervalo, em conformidade com o anexo C."
+  },
+  "505cf9a46be218d4": {
+   "fragment_id": "II. Estado-membro ou região oficialmente indemne de brucelose",
+   "type": "divisao",
+   "heading": "II. Estado-membro ou região oficialmente indemne de brucelose",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### II. Estado-membro ou região oficialmente indemne de brucelose\n\nPodem ser reconhecidos, de acordo com o procedimento previsto no artigo 15.º da presente directiva, como oficialmente indemnes de brucelose, qualquer Estado-membro ou qualquer região na acepção do ponto 10 do artigo 2.º:\n\n1.\n\na) No qual pelo menos 99,8 % das explorações ovina e caprina sejam explorações oficialmente indemnes de brucelose;\n\nb) Que satisfaçam as seguintes condições:\n\ni) a brucelose ovina ou caprina é uma doença de declaração obrigatória há, pelo menos, cinco anos,\n\nii) nenhum caso de brucelose ovina ou caprina foi oficialmente confirmado há, pelo menos, cinco anos,\n\niii) a vacinação está proibida há, pelo menos, três anos;\n\nc) Para os quais o respeito destas condições tenha sido constatado de acordo com o procedimento previsto no artigo 15.º da presente directiva.\n\n2. No qual, estando satisfeitas as condições previstas no ponto 1:\n\ni)\n\n— No primeiro ano seguinte ao reconhecimento do Estado-membro ou região como oficialmente indemne de brucelose *(B. melitensis)*, os controlos aleatórios praticados a nível da exploração ou a nível do matadouro demonstrem, com um índice de certeza de 99 %, que menos de 0,2 % das explorações estão infectadas ou pelo menos 10 % dos ovinos e dos caprinos com mais de seis meses foram submetidos a testes praticados em conformidade como disposto no anexo C, com resultados negativos,\n\n— anualmente, a partir do segundo ano seguinte ao reconhecimento do Estado-membro ou região como oficialmente indemne de brucelose *(B. melitensis)*, os controlos aleatórios praticados a nível da exploração ou a nível do matadouro demonstrem, com um índice de certeza de 95 %, que menos de 0,2 % das explorações estão infectadas ou pelo menos 5 % dos ovinos e dos caprinos com mais de seis meses foram submetidos a testes praticados em conformidade com o disposto no anexo C, com resultados negativos,\n\n— as disposições dos dois primeiros travessões podem ser alteradas de acordo com o processo previsto no artigo 15.º.\n\nii) as condições de qualificação se mantêm."
+  },
+  "ec2b18140b6b4802": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 2"
+  },
+  "534ebb226b4bd732": {
+   "fragment_id": "Exploração ovina ou caprina indemne de brucelose (B. melitensis)",
+   "type": "divisao",
+   "heading": "Exploração ovina ou caprina indemne de brucelose (B. melitensis)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Exploração ovina ou caprina indemne de brucelose (B. melitensis)\n\nA. *Concessão do estatuto*\n\n1. Na qual:\n\na) Todos os animais das espécies sensíveis à brucelose *(B. melitensis)* estejam isentos de sinais clínicos ou de qualquer outra manifestação de brucelose pelo menos há 12 meses;\n\nb) Todos os animais das espécies ovina ou caprina, ou uma parte dos mesmos, tenham sido vacinados por meio da vacina Rev. 1 ou de qualquer outra vacina aprovada de acordo com o procedimento previsto no artigo 15.º da presente directiva. Os animais devem ter sido vacinados antes da idade de sete meses;\n\nc) Tenham sido realizados dois testes, com resultados negativos, com pelo menos seis meses de intervalo, em conformidade com o anexo C, em todos os ovinos ou caprinos vacinados da exploração com idade superior a 18 meses no momento do teste;\n\nd) Tenham sido realizados dois testes, com resultados negativos, com pelo menos seis meses de intervalo, em conformidade com o anexo C, em todos os ovinos ou caprinos não vacinados da exploração com idade superior a seis meses no momento do teste;\n\ne) Após a realização dos testes referidos nas alíneas c) ou d), só se encontrem presentes ovinos ou caprinos nascidos na exploração ou provenientes de uma exploração nas condições previstas no ponto D;\n\n2. Na qual, após qualificação, se mantenham as exigências previstas no ponto B.\n\nB. *Manutenção do estatuto*\n\n— todos os animais machos não castrados e não vacinados, com idade superior a seis meses,\n\n— todos os animais machos não castrados e vacinados, com idade superior a 18 meses,\n\n— todos os animais introduzidos recentemente na exploração desde o controlo anterior,\n\n— 25 % das fêmeas em idade de reprodução sexualmente adultas ou em lactação, sem que o seu número possa ser inferior a 50 por exploração, excepto nas explorações onde existam menos de 50 destas fêmeas; neste caso, todas estas fêmeas devem ser controladas.\n\nC. *Suspeita ou aparecimento da brucelose*\n\n1. Se, numa exploração ovina ou caprina indemne de brucelose, for observada uma suspeita de brucelose *(B. melitensis)* num ou vários ovinos ou caprinos, é retirada a qualificação desta exploração. Todavia, esta pode ser suspensa provisoriamente se o animal ou os animais forem imediatamente eliminados ou isolados, enquanto se aguarda a confirmação oficial da existência de brucelose *(B. melitensis)*.\n\n2. No caso de ser confirmada a existência de brucelose *(B. melitensis)* a suspensão provisória só pode ser retirada se todos os animais infectados ou todos os animais das espécies susceptíveis de ser infectadas forem abatidos e se dois testes, efectuados de acordo com as disposições previstas no anexo C, com um intervalo de pelo menos três meses,\n\n— em todos os animais com idade superior a 18 meses, caso tenham sido vacinados,\n\n— em todos os animais com idade superior a seis meses, caso não tenham sido vacinados,\n\nD. *Introdução de animais numa exploração ovina ou caprina indemne de brucelose* (B. melitensis)\n\n1. Ou ovinos ou caprinos provenientes de uma exploração ovina ou caprina oficialmente indemne ou indemne de brucelose *(B. melitensis)*;\n\n2. Ou, até à data prevista para a qualificação das explorações no âmbito dos planos de erradicação aprovados em conformidade com a Decisão 90/242/CEE ([^10^](http://publications.europa.eu/resource/cellar/b254c77f-32b9-429e-b3cb-0740b92f8484.0018.02/DOC_1#E0010)), os ovinos ou caprinos provenientes de explorações que não as referidas no n.º 1 que satisfaçam as seguintes condições:\n\na) Serem identificados individualmente, em conformidade com a alínea a) do artigo 4.º da presente directiva;\n\nb) Serem originários de um exploração na qual todos os animais das espécies sensíveis à brucelose *(B. melitensis)* estão isentos de sinais clínicos ou qualquer outra manifestação de brucelose, desde há pelo menos 12 meses;\n\nc)\n\ni)\n\n— não terem sido vacinados no decurso dos últimos dois anos,\n\n— terem sido isolados na exploração de origem, sob controlo veterinário, e durante esse período terem sido sujeitos a dois testes com resultados negativos, realizados com um intervalo de pelo menos cinco semanas, em conformidade com o anexo C;\n\nii) Terem sido vacinados por meio da vacina Rev. 1 ou de qualquer outra vacina aprovada de acordo com o procedimento previsto no artigo 15.º da presente directiva antes da idade de sete meses mas o mais tardar, 15 dias antes da sua introdução na exploração de destino.\n\nE. *Alteração do estatuto*\n\na) Nela não existir qualquer animal vacinado contra a brucelose *(B. melitensis)* desde há pelo menos dois anos;\n\nb) As condições previstas no ponto D.2 tiverem sido respeitadas sem interrupção durante este período;\n\nc) No final do segundo ano, os animais com idade superior a seis meses tiverem apresentado um resultado negativo num teste efectuado em conformidade com o anexo C."
+  },
+  "c13b99ba13d00e28": {
+   "fragment_id": "ANEXO B",
+   "type": "divisao",
+   "heading": "ANEXO B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B"
+  },
+  "b340421948b282a1": {
+   "fragment_id": "I ([^11^](http://publications.europa.eu/resource/cellar/b254c77f-32b9-429e-b3cb-0740b92f8484.0018.02/DOC_1#E0011))",
+   "type": "divisao",
+   "heading": "I ([^11^](http://publications.europa.eu/resource/cellar/b254c77f-32b9-429e-b3cb-0740b92f8484.0018.02/DOC_1#E0011))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I ([^11^](http://publications.europa.eu/resource/cellar/b254c77f-32b9-429e-b3cb-0740b92f8484.0018.02/DOC_1#E0011))\n\n— Febre aftosa\n\n— Brucelose *(B. melitensis)*\n\n— Epidimiorquite infecciosa do carneiro *(B. ovis)*\n\n— Carbúnculo bacteriano\n\n— Raiva"
+  },
+  "ceee4d1607ef55b7": {
+   "fragment_id": "III",
+   "type": "divisao",
+   "heading": "III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III\n\n— Agalaxia contagiosa\n\n— Paratuberculose\n\n— Linfadenite caseosa\n\n— Adenomatose pulmonar\n\n— *Maedi visna*\n\n— Artrite encefalite viral caprina."
+  },
+  "591b360bfddd10d2": {
+   "fragment_id": "ANEXO C",
+   "type": "divisao",
+   "heading": "ANEXO C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C"
+  },
+  "8571d3d2039dc6dc": {
+   "fragment_id": "Provas para a pesquisa da brucelose (B. melitensis)",
+   "type": "divisao",
+   "heading": "Provas para a pesquisa da brucelose (B. melitensis)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Provas para a pesquisa da brucelose (B. melitensis)\n\nNo que respeita à qualificação das explorações, a pesquisa da brucelose *(B. melitensis)* para efeitos de qualificação de uma exploração deve ser efectuada por meio do teste Rosa Bengala, ou por meio do teste de fixação do complemento a seguir descrito no anexo da Decisão 90/242/CEE, ou ainda por qualquer outro método reconhecido de acordo com o procedimento referido no artigo 15.º O teste de fixação do complemento fica reservado aos testes a efectuar em animais individuais.\n\nSe, ao utilizar o teste Rosa Bengala nesta pesquisa, mais de 5 % dos animais da exploração apresentarem uma reacção positiva, deverão submeter-se todos os animais da exploração a um controlo suplementar mediante um teste de fixação do complemento.\n\nNo que se refere ao teste de fixação do complemento, deverá considerar-se como positivo o soro que contenha pelo menos 20 unidades de ICFT por ml.\n\nOs antigéneos utilizados devem ser aprovados pelo laboratório nacional e devem ser normalizados em relação ao segundo soro padrão internacional anti-*brucella abortus*."
+  },
+  "0470f2b2d090a327": {
+   "fragment_id": "ANEXO D",
+   "type": "divisao",
+   "heading": "ANEXO D",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO D"
+  },
+  "a5ccab39e49cda34": {
+   "fragment_id": "Teste oficial para a pesquisa da epididimiorquite infecciosa do carneiro (B. ovis)",
+   "type": "divisao",
+   "heading": "Teste oficial para a pesquisa da epididimiorquite infecciosa do carneiro (B. ovis)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Teste oficial para a pesquisa da epididimiorquite infecciosa do carneiro (B. ovis)\n\nTeste de fixação do complemento:\n\nO antigéneo específico utilizado deve ser aprovado pelo laboratório nacional e deve ser normalizado em relação ao soro padrão internacional anti-*brucella ovis*.\n\nO soro de trabalho (de controlo diário) deve ser calibrado em relação ao soro padrão internacional anti-*brucella ovis*, preparado pelo laboratório veterinário central de Weybridge, Surrey, Reino Unido.\n\nUm soro que contenha pelo menos 50 unidades internacionais por ml deve ser considerado como positivo."
+  },
+  "770bf5cf1c6359a7": {
+   "fragment_id": "ANEXO E",
+   "type": "divisao",
+   "heading": "ANEXO E",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO E"
+  },
+  "e2ff72a40ba24e75": {
+   "fragment_id": "MODELO I",
+   "type": "divisao",
+   "heading": "MODELO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODELO I"
+  },
+  "f88256a1e97acff5": {
+   "fragment_id": "MODELO II",
+   "type": "divisao",
+   "heading": "MODELO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODELO II"
+  },
+  "ead16fdc701eaca3": {
+   "fragment_id": "MODELO III",
+   "type": "divisao",
+   "heading": "MODELO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODELO III\n\n---"
+  },
+  "d2cce831fc3b56a6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b254c77f-32b9-429e-b3cb-0740b92f8484.0018.02/DOC_1#src.E0001)) JO n.º C 48 de 27. 2. 1989, p. 21.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b254c77f-32b9-429e-b3cb-0740b92f8484.0018.02/DOC_1#src.E0002)) JO n.º C 96 de 17. 4. 1989, p. 187.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b254c77f-32b9-429e-b3cb-0740b92f8484.0018.02/DOC_1#src.E0003)) JO n.º C 194 de 31. 7. 1989, p. 9.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b254c77f-32b9-429e-b3cb-0740b92f8484.0018.02/DOC_1#src.E0004)) JO n.º 121 de 29. 7. 1964, p. 1977/64.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b254c77f-32b9-429e-b3cb-0740b92f8484.0018.02/DOC_1#src.E0005)) JO n.º L 224 de 18. 8. 1990, p. 29.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b254c77f-32b9-429e-b3cb-0740b92f8484.0018.02/DOC_1#src.E0006)) JO L 340 de 11.12.1991, p. 17. Directiva com a última redacção que lhe foi dada pela Directiva 95/29/CE (JO L 148 de 30.6.1995, p. 52).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b254c77f-32b9-429e-b3cb-0740b92f8484.0018.02/DOC_1#src.E0007)) JO n.º L 224 de 18. 8. 1990, p. 19.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/b254c77f-32b9-429e-b3cb-0740b92f8484.0018.02/DOC_1#src.E0008)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/b254c77f-32b9-429e-b3cb-0740b92f8484.0018.02/DOC_1#src.E0009)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/b254c77f-32b9-429e-b3cb-0740b92f8484.0018.02/DOC_1#src.E0010)) JO n.º L 140 de 1. 6. 1990, p. 123.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/b254c77f-32b9-429e-b3cb-0740b92f8484.0018.02/DOC_1#src.E0011)) Doenças de declaração obrigatória."
+  }
+ }
+}

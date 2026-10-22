@@ -38,6 +38,212 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: regulamento-ue-2002-178.versoes.json
+  count: 11
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '2002-02-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-04-28'
+    amending: eu:celex:32003R1642:por
+    amending_title: REGULAMENTO (CE) N. o 1642/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Julho de 2003; REGULAMENTO
+      (CE) N. o 575/2006 DA COMISSÃO de 7 de Abril de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 21.º — Responsabilidade
+    - Altera Artigo 25.º — Conselho de Administração
+    - Altera Artigo 26.º — Director Executivo
+    - Altera Artigo 28.º — Comité Científico e Painéis Científicos
+    - Altera Artigo 43.º — Aprovação do orçamento da Autoridade
+    - Altera Artigo 44.º — Execução do orçamento da Autoridade
+    - Altera Artigo 63.º — Competência da Agência Europeia de Avaliação dos Medicamentos
+    - Altera Artigo 65.º — Entrada em vigor
+    - Adita CAPÍTULO I
+    - Adita ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Adita Artigo 2.º — Definição de «género alimentício»
+    - Adita CAPÍTULO II
+    - Adita LEGISLAÇÃO ALIMENTAR GERAL
+    - Adita SECÇÃO 1
+    - Adita PRINCÍPIOS GERAIS DA LEGISLAÇÃO ALIMENTAR
+    - Adita SECÇÃO 2
+    - Adita PRINCÍPIOS DE TRANSPARÊNCIA
+    - Adita SECÇÃO 3
+    - Adita OBRIGAÇÕES GERAIS DO COMÉRCIO DE GÉNEROS ALIMENTÍCIOS
+    - Adita SECÇÃO 4
+    - Adita REQUISITOS GERAIS DA LEGISLAÇÃO ALIMENTAR
+    - Adita CAPÍTULO III
+    - Adita AUTORIDADE EUROPEIA PARA A SEGURANÇA DOS ALIMENTOS
+    - Adita ATRIBUIÇÕES E TAREFAS
+    - Adita ORGANIZAÇÃO
+    - Adita FUNCIONAMENTO
+    - Adita INDEPENDÊNCIA, TRANSPARÊNCIA, CONFIDENCIALIDADE E COMUNICAÇÃO
+    - Adita Artigo 41.º — Acesso aos documentos
+    - Adita SECÇÃO 5
+    - Adita DISPOSIÇÕES FINANCEIRAS
+    - Adita SECÇÃO 6
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita CAPÍTULO IV
+    - Adita SISTEMA DE ALERTA RÁPIDO, GESTÃO DE CRISES E SITUAÇÕES DE EMERGÊNCIA
+    - Adita SISTEMA DE ALERTA RÁPIDO
+    - Adita SITUAÇÕES DE EMERGÊNCIA
+    - Adita GESTÃO DE CRISES
+    - Adita CAPÍTULO V
+    - Adita PROCEDIMENTOS E DISPOSIÇÕES FINAIS
+  - date: '2008-03-25'
+    amending: eu:celex:32008R0202:por
+    amending_title: REGULAMENTO (CE) N. o 202/2008 DA COMISSÃO de 4 de Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definição de «género alimentício»
+    - Altera Artigo 21.º — Responsabilidade
+    - Altera Artigo 25.º — Conselho de Administração
+    - Altera Artigo 28.º — Comité Científico e Painéis Científicos
+    - Altera Artigo 41.º — Acesso aos documentos
+    - Altera Artigo 63.º — Competência da Agência Europeia de Avaliação dos Medicamentos
+    - Altera Notas
+  - date: '2009-08-07'
+    amending: eu:celex:32009R0596:por
+    amending_title: REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definição de «género alimentício»
+    - Altera Artigo 21.º — Responsabilidade
+    - Altera Artigo 25.º — Conselho de Administração
+    - Altera Artigo 28.º — Comité Científico e Painéis Científicos
+    - Altera Artigo 29.º — Pareceres científicos
+    - Altera Artigo 36.º — Criação de redes de organismos que trabalhem nos domínios da competência da Autoridade
+    - Altera Artigo 41.º — Acesso aos documentos
+    - Altera Artigo 58.º — Comité
+    - Altera Artigo 63.º — Competência da Agência Europeia de Avaliação dos Medicamentos
+    - Altera Notas
+  - date: '2014-06-30'
+    amending: eu:celex:32014R0652:por
+    amending_title: REGULAMENTO (UE) N. o 652/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definição de «género alimentício»
+    - Altera Artigo 21.º — Responsabilidade
+    - Altera Artigo 25.º — Conselho de Administração
+    - Altera Artigo 41.º — Acesso aos documentos
+    - Altera Artigo 58.º — Comité
+    - Altera Artigo 63.º — Competência da Agência Europeia de Avaliação dos Medicamentos
+    - Altera Notas
+  - date: '2019-07-26'
+    amending: eu:celex:32017R0228:por
+    amending_title: REGULAMENTO (UE) 2017/228 DA COMISSÃO de 9 de fevereiro de 2017; REGULAMENTO (UE) 2019/1243 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definição de «género alimentício»
+    - Altera Artigo 21.º — Responsabilidade
+    - Altera Artigo 25.º — Conselho de Administração
+    - Altera Artigo 28.º — Comité Científico e Painéis Científicos
+    - Altera Artigo 29.º — Pareceres científicos
+    - Altera Artigo 36.º — Criação de redes de organismos que trabalhem nos domínios da competência da Autoridade
+    - Altera Artigo 41.º — Acesso aos documentos
+    - Altera Artigo 58.º — Comité
+    - Altera Artigo 63.º — Competência da Agência Europeia de Avaliação dos Medicamentos
+    - Altera Notas
+    - Adita EXERCÍCIO DA DELEGAÇÕES DE PODERES, COMITÉ E PROCESSO DE MEDIAÇÃO
+    - Adita Artigo 57.º-A — Exercício da delegação
+    - Suprime COMITOLOGIA E PROCESSO DE MEDIAÇÃO
+  - date: '2021-03-27'
+    amending: eu:celex:32019R1381:por
+    amending_title: REGULAMENTO (UE) 2019/1381 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 2.º — Definição de «género alimentício»
+    - Altera Artigo 6.º — Análise dos riscos
+    - Altera Artigo 21.º — Responsabilidade
+    - Altera Artigo 22.º — Atribuições da Autoridade
+    - Altera Artigo 25.º — Conselho de Administração
+    - Altera Artigo 38.º — Transparência
+    - Altera Artigo 39.º — Confidencialidade
+    - Altera Artigo 40.º — Comunicações da Autoridade
+    - Altera Artigo 41.º — Acesso aos documentos
+    - Altera Artigo 57.º-A — Exercício da delegação
+    - Altera Artigo 58.º — Comité
+    - Altera Artigo 61.º — Cláusula de revisão
+    - Altera Artigo 63.º — Competência da Agência Europeia de Avaliação dos Medicamentos
+    - Altera Notas
+    - Adita SECÇÃO 1-A
+    - Adita COMUNICAÇÃO DE RISCO
+    - Adita Artigo 8.º-A — Objetivos da comunicação de risco
+    - Adita Artigo 8.º-B — Princípios gerais da comunicação de risco
+    - Adita Artigo 8.º-C — Plano geral de comunicação de risco
+    - Adita Artigo 32.º-A — Aconselhamento prévio à apresentação do pedido
+    - Adita Artigo 32.º-B — Notificação dos estudos
+    - Adita Artigo 32.º-C — Consulta a terceiros
+    - Adita Artigo 32.º-D — Estudos de verificação
+    - Adita Artigo 39.º-A — Pedido de confidencialidade
+    - Adita Artigo 39.º-B — Decisão sobre a confidencialidade
+    - Adita Artigo 39.º-C — Reexame da confidencialidade
+    - Adita Artigo 39.º-D — Obrigações em matéria de confidencialidade
+    - Adita Artigo 39.º-E — Proteção de dados pessoais
+    - Adita Artigo 39.º-F — Formatos normalizados de dados
+    - Adita Artigo 39.º-G — Sistemas de informação
+    - Adita Artigo 61.º-A — Missões de averiguação
+  - date: '2021-05-26'
+    amending: eu:celex:32017R0745:por
+    amending_title: REGULAMENTO (UE) 2017/745 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de abril de 2017
+    changes:
+    - Altera Artigo 2.º — Definição de «género alimentício»
+    - Altera Artigo 21.º — Responsabilidade
+    - Altera Artigo 25.º — Conselho de Administração
+    - Altera Artigo 36.º — Criação de redes de organismos que trabalhem nos domínios da competência da Autoridade
+    - Altera Artigo 39.º-E — Proteção de dados pessoais
+    - Altera Artigo 41.º — Acesso aos documentos
+    - Altera Artigo 57.º-A — Exercício da delegação
+    - Altera Artigo 58.º — Comité
+    - Altera Artigo 63.º — Competência da Agência Europeia de Avaliação dos Medicamentos
+    - Altera Notas
+  - date: '2022-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definição de «género alimentício»
+    - Altera Artigo 21.º — Responsabilidade
+    - Altera Artigo 25.º — Conselho de Administração
+    - Altera Artigo 28.º — Comité Científico e Painéis Científicos
+    - Altera Artigo 39.º-E — Proteção de dados pessoais
+    - Altera Artigo 41.º — Acesso aos documentos
+    - Altera Artigo 57.º-A — Exercício da delegação
+    - Altera Artigo 58.º — Comité
+    - Altera Artigo 63.º — Competência da Agência Europeia de Avaliação dos Medicamentos
+    - Altera Notas
+  - date: '2024-07-01'
+    amending: eu:celex:32024R0908:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/908 DA COMISSÃO de 17 de janeiro de 2024
+    changes:
+    - Altera Artigo 2.º — Definição de «género alimentício»
+    - Altera Artigo 21.º — Responsabilidade
+    - Altera Artigo 25.º — Conselho de Administração
+    - Altera Artigo 28.º — Comité Científico e Painéis Científicos
+    - Altera Artigo 39.º-E — Proteção de dados pessoais
+    - Altera Artigo 41.º — Acesso aos documentos
+    - Altera Artigo 57.º-A — Exercício da delegação
+    - Altera Artigo 58.º — Comité
+    - Altera Artigo 63.º — Competência da Agência Europeia de Avaliação dos Medicamentos
+    - Altera Notas
+  - date: '2026-01-01'
+    amending: eu:celex:32025R2457:por
+    amending_title: REGULAMENTO (UE) 2025/2457 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de novembro de 2025
+    changes:
+    - Altera Artigo 2.º — Definição de «género alimentício»
+    - Altera Artigo 21.º — Responsabilidade
+    - Altera Artigo 23.º — Tarefas da Autoridade
+    - Altera Artigo 25.º — Conselho de Administração
+    - Altera Artigo 27.º — Fórum Consultivo
+    - Altera Artigo 39.º-E — Proteção de dados pessoais
+    - Altera Artigo 41.º — Acesso aos documentos
+    - Altera Artigo 57.º-A — Exercício da delegação
+    - Altera Artigo 58.º — Comité
+    - Altera Artigo 63.º — Competência da Agência Europeia de Avaliação dos Medicamentos
+    - Altera Notas
+    - Adita Artigo 30.º
+    - Suprime Artigo 30.º — Pareceres científicos divergentes
 identifiers:
   celex: 32002R0178
   eli: http://data.europa.eu/eli/reg/2002/178/oj
@@ -52,7 +258,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/72de3b0c-c182-4754-9a9c-8cc5217c60f8.0010
   content_url: http://publications.europa.eu/resource/cellar/0ac7c9d6-0c92-11f1-8870-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R0178-20260101
-  retrieved_at: '2026-10-22T02:34:42Z'
+  retrieved_at: '2026-10-22T14:52:46Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-18T21:00:43.368+01:00'
 integrity:
@@ -61,9 +267,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:34:42Z'
-  notes: Texto consolidado 02002R0178-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:46Z'
+  notes: 11 versão(ões); histórico completo em regulamento-ue-2002-178.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -642,39 +848,20 @@ relationships:
   date: '1970-08-03'
 article_structure:
   article_count: 81
-  section_count: 42
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 43
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:34:42Z'
-  warnings: []
+  checked_at: '2026-10-22T14:52:46Z'
+  warnings:
+  - '02002R0178-20031001: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 178/2002 do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2002
-
-> 02002R0178 — PT — 01.01.2026 — 012.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003R1642) — [REGULAMENTO (CE) N.º 1642/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Julho de 2003](http://publications.europa.eu/resource/celex/32003R1642) — L 245 — 4 — 29.9.2003
-- [►M2](http://publications.europa.eu/resource/celex/32006R0575) — [REGULAMENTO (CE) N.º 575/2006 DA COMISSÃO de 7 de Abril de 2006](http://publications.europa.eu/resource/celex/32006R0575) — L 100 — 3 — 8.4.2006
-- [M3](http://publications.europa.eu/resource/celex/32008R0202) — [REGULAMENTO (CE) N.º 202/2008 DA COMISSÃO de 4 de Março de 2008](http://publications.europa.eu/resource/celex/32008R0202) — L 60 — 17 — 5.3.2008
-- [►M4](http://publications.europa.eu/resource/celex/32009R0596) — [REGULAMENTO (CE) N.º 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0596) — L 188 — 14 — 18.7.2009
-- [►M5](http://publications.europa.eu/resource/celex/32014R0652) — [REGULAMENTO (UE) N.º 652/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0652) — L 189 — 1 — 27.6.2014
-- [►M6](http://publications.europa.eu/resource/celex/32017R0228) — [REGULAMENTO (UE) 2017/228 DA COMISSÃO de 9 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0228) — L 35 — 10 — 10.2.2017
-- [►M7](http://publications.europa.eu/resource/celex/32017R0745) — [REGULAMENTO (UE) 2017/745 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de abril de 2017](http://publications.europa.eu/resource/celex/32017R0745) — L 117 — 1 — 5.5.2017
-- [►M8](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [►M9](http://publications.europa.eu/resource/celex/32019R1381) — [REGULAMENTO (UE) 2019/1381 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1381) — L 231 — 1 — 6.9.2019
-- [►M10](http://publications.europa.eu/resource/celex/32024R0908) — [REGULAMENTO DELEGADO (UE) 2024/908 DA COMISSÃO de 17 de janeiro de 2024](http://publications.europa.eu/resource/celex/32024R0908) — L 908 — 1 — 20.3.2024
-- [►M11](http://publications.europa.eu/resource/celex/32025R2457) — [REGULAMENTO (UE) 2025/2457 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2457) — L 2457 — 1 — 12.12.2025
-
-## REGULAMENTO (CE) N.º 178/2002 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 28 de Janeiro de 2002
 

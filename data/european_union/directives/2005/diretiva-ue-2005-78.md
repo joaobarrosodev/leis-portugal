@@ -37,6 +37,26 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-12-31'
+version_history:
+  file: diretiva-ue-2005-78.versoes.json
+  count: 2
+  source_lastmod: '2013-12-31'
+  versions:
+  - date: '2005-11-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-12-31'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Notas
 identifiers:
   celex: 32005L0078
   eli: http://data.europa.eu/eli/dir/2005/78/oj
@@ -51,7 +71,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f293fb5d-218b-417f-9597-ab3e0673f7b7.0016
   content_url: http://publications.europa.eu/resource/cellar/a4495383-7ccb-4c73-afe5-b46378f443f1.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0078-20131231
-  retrieved_at: '2026-10-22T02:58:00Z'
+  retrieved_at: '2026-10-22T14:59:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T17:25:20.301+01:00'
 integrity:
@@ -60,9 +80,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:00Z'
-  notes: Texto consolidado 02005L0078-20131231.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:55Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2005-78.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -129,16 +149,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:00Z'
+  checked_at: '2026-10-22T14:59:55Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02005L0078-20051219: versão indisponível (Sem expressão na língua por para CELEX 02005L0078-20051219.)'
+  - '02005L0078-20060610: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005L0078-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005L0078-20080808: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

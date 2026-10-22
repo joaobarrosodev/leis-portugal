@@ -36,6 +36,23 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-11-28'
+version_history:
+  file: decisao-ue-2002-657.versoes.json
+  count: 2
+  source_lastmod: '2022-11-28'
+  versions:
+  - date: '2021-06-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-11-28'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera 2.3. MÉTODOS DE CONFIRMAÇÃO PARA RESÍDUOS E CONTAMINANTES ORGÂNICOS
+    - Altera 3.1. PROCEDIMENTOS DE VALIDAÇÃO
+    - Altera Notas
+    - Suprime ANEXO II
 identifiers:
   celex: 32002D0657
   eli: http://data.europa.eu/eli/dec/2002/657/oj
@@ -50,7 +67,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ed928116-a955-4a84-b10a-cf7a82bad858.0010
   content_url: http://publications.europa.eu/resource/cellar/b85d5a65-2aef-11ee-839d-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002D0657-20221128
-  retrieved_at: '2026-10-22T02:51:25Z'
+  retrieved_at: '2026-10-22T14:51:12Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T13:05:14.714+01:00'
 integrity:
@@ -59,9 +76,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:25Z'
-  notes: Texto consolidado 02002D0657-20221128.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:12Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2002-657.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -143,37 +160,22 @@ relationships:
   date: '1993-05-14'
 article_structure:
   article_count: 0
-  section_count: 11
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 12
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:25Z'
+  checked_at: '2026-10-22T14:51:12Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
+  - '02002D0657-20020817: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002D0657-20030315: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002D0657-20040110: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # 2002/657/CE: Decisão da Comissão, de 12 de Agosto de 2002
-
-> 02002D0657 — PT — 28.11.2022 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32003D0181) — [DECISÃO DA COMISSÃO de 13 de Março de 2003](http://publications.europa.eu/resource/celex/32003D0181) — L 71 — 17 — 15.3.2003
-- [M2](http://publications.europa.eu/resource/celex/32004D0025) — [DECISÃO DA COMISSÃO de 22 de Dezembro de 2003](http://publications.europa.eu/resource/celex/32004D0025) — L 6 — 38 — 10.1.2004
-- [►M3](http://publications.europa.eu/resource/celex/32021R0808) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/808 DA COMISSÃO de 22 de março de 2021](http://publications.europa.eu/resource/celex/32021R0808) — L 180 — 84 — 21.5.2021
-- [M4](http://publications.europa.eu/resource/celex/32021R0810) — Alterada por: [REGULAMENTO DE EXECUÇÃO (UE) 2021/810 DA COMISSÃO de 20 de maio de 2021](http://publications.europa.eu/resource/celex/32021R0810) — L 180 — 112 — 21.5.2021
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32002D0657R%2801%29) — [Rectificação, JO L 239, 6.9.2002, p. 66 (2002/657/CE)](http://publications.europa.eu/resource/celex/32002D0657R%2801%29)
-
-## DECISÃO DA COMISSÃO
 
 de [**►C1**](http://publications.europa.eu/resource/celex/32002D0657R%2801%29) 14 de Agosto de 2002**◄**
 

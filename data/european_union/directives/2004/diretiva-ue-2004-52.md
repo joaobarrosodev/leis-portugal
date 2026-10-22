@@ -35,6 +35,31 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-10-20'
+version_history:
+  file: diretiva-ue-2004-52.versoes.json
+  count: 2
+  source_lastmod: '2021-10-20'
+  versions:
+  - date: '2009-04-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-10-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objectivo e âmbito de aplicação
+    - Suprime Artigo 2.º — Soluções tecnológicas
+    - Suprime Artigo 3.º — Criação de um serviço electrónico europeu de portagem
+    - Suprime Artigo 4.º — Características do serviço electrónico europeu de portagem
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º — Execução
+    - Suprime Artigo 7.º — Entrada em vigor
+    - Suprime Artigo 8.º — Destinatários
+    - Suprime ANEXO
+    - Suprime Elementos necessários para definir e realizar o serviço electrónico europeu de portagem
+    - Suprime Notas
 identifiers:
   celex: 32004L0052
   eli: http://data.europa.eu/eli/dir/2004/52/oj
@@ -49,7 +74,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6278e5e6-024f-4e1b-89c8-946245dac0cb.0010
   content_url: http://publications.europa.eu/resource/cellar/f6c4da6a-5904-11ec-91ac-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0052-20211020
-  retrieved_at: '2026-10-22T02:35:27Z'
+  retrieved_at: '2026-10-22T14:57:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-31T10:10:31.363+01:00'
 integrity:
@@ -58,9 +83,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:27Z'
-  notes: Texto consolidado 02004L0052-20211020.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:15Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2004-52.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -291,16 +316,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:27Z'
+  checked_at: '2026-10-22T14:57:15Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '32004L0052: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

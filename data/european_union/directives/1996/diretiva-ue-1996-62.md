@@ -33,6 +33,110 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-06-11'
+version_history:
+  file: diretiva-ue-1996-62.versoes.json
+  count: 3
+  source_lastmod: '2010-06-11'
+  versions:
+  - date: '1996-11-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-06-11'
+    amending: eu:celex:32003R1882:por
+    amending_title: REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003; DIRECTIVA
+      2008/50/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Maio de 2008
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º — Objectivos
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 3.º — Aplicação e responsabilidades
+    - Adita Artigo 4.º — Fixação dos valores-limite e dos limiares de alerta para o ar ambiente
+    - Adita Artigo 5.º — Avaliação preliminar da qualidade do ar ambiente
+    - Adita Artigo 6.º — Avaliação da qualidade do ar ambiente
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º — Medidas aplicáveis nas zonas onde os níveis são superiores ao valor-limite
+    - Adita Artigo 9.º — Requisitos aplicáveis nas zonas em que os níveis são inferiores ao valor-limite
+    - Adita Artigo 10.º — Medidas aplicáveis em caso de ultrapassagem dos limiares de alerta
+    - Adita Artigo 11.º — Envio de informações e relatórios
+    - Adita Artigo 12.º — Comité e funções do Comité
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita ANEXO I
+    - Adita LISTA DOS POLUENTES ATMOSFÉRICOS QUE DEVEM SER TOMADOS EM CONSIDERAÇÃO NO ÂMBITO DA AVALIAÇÃO E GESTÃO DA QUALIDADE
+      DO AR AMBIENTE
+    - Adita I. Poluentes a analisar na fase inicial, incluindo os abrangidos pelas directivas comunitárias existentes no domínio
+      da qualidade do ar ambiente
+    - Adita II. Outros poluentes atmosféricos
+    - Adita ANEXO II
+    - Adita FACTORES A CONSIDERAR NA FIXAÇÃO DOS VALORES-LIMITE E DOS LIMIARES DE ALERTA
+    - Adita ANEXO III
+    - Adita CRITÉRIOS PARA A SELECÇÃO DOS POLUENTES ATMOSFÉRICOS A TOMAR EM CONSIDERAÇÃO
+    - Adita ANEXO IV
+    - Adita INFORMAÇÕES A INCLUIR NOS PROGRAMAS LOCAIS, REGIONAIS OU NACIONAIS PARA O MELHORAMENTO DA QUALIDADE DO AR AMBIENTE
+    - Adita Informações a fornecer por força do n.º 3 do artigo 8.º
+    - Adita 1. Localização da ultrapassagem
+    - Adita 2. Informações gerais
+    - Adita 3. Autoridades responsáveis
+    - Adita 4. Natureza e avaliação da poluição
+    - Adita 5. Origem da poluição
+    - Adita 6. Análise da situação
+    - Adita 7. Informações sobre as medidas ou projectos de melhoramento da qualidade do ar que já existiam antes da entrada
+      em vigor da presente directiva
+    - Adita 8. Informações sobre as medidas ou projectos adoptados com vista a reduzir a poluição, na sequência da entrada
+      em vigor da presente directiva
+    - Adita 9. Informações sobre as medidas ou projectos a longo prazo, previstos ou planeados
+    - Adita 10. Lista das publicações, documentos, trabalhos, etc. utilizados para completar o presente anexo
+    - Adita Notas
+    - Suprime Artigo 1º — Objectivos
+    - Suprime Artigo 2º — Definições
+  - date: '2010-06-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objectivos
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Aplicação e responsabilidades
+    - Suprime Artigo 4.º — Fixação dos valores-limite e dos limiares de alerta para o ar ambiente
+    - Suprime Artigo 5.º — Avaliação preliminar da qualidade do ar ambiente
+    - Suprime Artigo 6.º — Avaliação da qualidade do ar ambiente
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º — Medidas aplicáveis nas zonas onde os níveis são superiores ao valor-limite
+    - Suprime Artigo 9.º — Requisitos aplicáveis nas zonas em que os níveis são inferiores ao valor-limite
+    - Suprime Artigo 10.º — Medidas aplicáveis em caso de ultrapassagem dos limiares de alerta
+    - Suprime Artigo 11.º — Envio de informações e relatórios
+    - Suprime Artigo 12.º — Comité e funções do Comité
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime ANEXO I
+    - Suprime LISTA DOS POLUENTES ATMOSFÉRICOS QUE DEVEM SER TOMADOS EM CONSIDERAÇÃO NO ÂMBITO DA AVALIAÇÃO E GESTÃO DA QUALIDADE
+      DO AR AMBIENTE
+    - Suprime I. Poluentes a analisar na fase inicial, incluindo os abrangidos pelas directivas comunitárias existentes no
+      domínio da qualidade do ar ambiente
+    - Suprime II. Outros poluentes atmosféricos
+    - Suprime ANEXO II
+    - Suprime FACTORES A CONSIDERAR NA FIXAÇÃO DOS VALORES-LIMITE E DOS LIMIARES DE ALERTA
+    - Suprime ANEXO III
+    - Suprime CRITÉRIOS PARA A SELECÇÃO DOS POLUENTES ATMOSFÉRICOS A TOMAR EM CONSIDERAÇÃO
+    - Suprime ANEXO IV
+    - Suprime INFORMAÇÕES A INCLUIR NOS PROGRAMAS LOCAIS, REGIONAIS OU NACIONAIS PARA O MELHORAMENTO DA QUALIDADE DO AR AMBIENTE
+    - Suprime Informações a fornecer por força do n.º 3 do artigo 8.º
+    - Suprime 1. Localização da ultrapassagem
+    - Suprime 2. Informações gerais
+    - Suprime 3. Autoridades responsáveis
+    - Suprime 4. Natureza e avaliação da poluição
+    - Suprime 5. Origem da poluição
+    - Suprime 6. Análise da situação
+    - Suprime 7. Informações sobre as medidas ou projectos de melhoramento da qualidade do ar que já existiam antes da entrada
+      em vigor da presente directiva
+    - Suprime 8. Informações sobre as medidas ou projectos adoptados com vista a reduzir a poluição, na sequência da entrada
+      em vigor da presente directiva
+    - Suprime 9. Informações sobre as medidas ou projectos a longo prazo, previstos ou planeados
+    - Suprime 10. Lista das publicações, documentos, trabalhos, etc. utilizados para completar o presente anexo
+    - Suprime Notas
 identifiers:
   celex: 31996L0062
   eli: http://data.europa.eu/eli/dir/1996/62/oj
@@ -47,7 +151,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ee5c86c3-16a5-4885-b29f-f376fddc0b38.0011
   content_url: http://publications.europa.eu/resource/cellar/0ddd6d11-113b-4c72-a00a-87d60581a320.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0062-20100611
-  retrieved_at: '2026-10-22T02:38:10Z'
+  retrieved_at: '2026-10-22T14:45:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T20:06:09.086+01:00'
 integrity:
@@ -56,9 +160,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:10Z'
-  notes: Texto consolidado 01996L0062-20100611.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:45:18Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1996-62.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -182,16 +286,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:10Z'
+  checked_at: '2026-10-22T14:45:18Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01996L0062-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

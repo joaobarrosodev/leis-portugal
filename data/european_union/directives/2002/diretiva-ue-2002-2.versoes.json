@@ -1,0 +1,142 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002L0002:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0002-20070615",
+ "dre_path": null,
+ "source_lastmod": "2007-06-15",
+ "versions": [
+  {
+   "date": "2002-03-06",
+   "future": false,
+   "celex": "32002L0002",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "41665eac83768009",
+    "ff9fc8d52932ca03",
+    "11f7b5dbb976a4fc",
+    "53d9baa89221ecd0",
+    "d0b7fd7dad3b9a9a",
+    "a57f048a50a0988f"
+   ]
+  },
+  {
+   "date": "2007-06-15",
+   "future": false,
+   "celex": "02002L0002-20070615",
+   "acts": [
+    {
+     "id": "eu:celex:32007D0623:por",
+     "title": "DECISÃON. o 623/2007/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de Maio de 2007",
+     "published": null,
+     "celex": "32007D0623"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "dab81ccf7b0d43c4",
+    "48721d80ae34659d",
+    "11f7b5dbb976a4fc",
+    "53d9baa89221ecd0",
+    "948575d356553180",
+    "a016a79c2e218f56",
+    "22457d317a0abbc8"
+   ]
+  }
+ ],
+ "fragments": {
+  "41665eac83768009": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2002/2/CE do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2002, que altera a Directiva 79/373/CEE do Conselho relativa à circulação de alimentos compostos para animais e revoga a Directiva 91/357/CEE da Comissão** *Jornal Oficial nº L 063 de 06/03/2002 p. 0023 - 0025*\n\nDirectiva 2002/2/CE do Parlamento Europeu e do Conselho\n\nde 28 de Janeiro de 2002\n\nque altera a Directiva 79/373/CEE do Conselho relativa à circulação de alimentos compostos para animais e revoga a Directiva 91/357/CEE da Comissão\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.o 4, alínea b), do seu artigo 152.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social(2),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.o do Tratado(3), à luz do projecto comum aprovado pelo Comité de Conciliação em 20 de Novembro de 2001,\n\nConsiderando o seguinte:\n\n(1) A Directiva 79/373/CEE do Conselho(4) estabelece regras aplicáveis à circulação de alimentos compostos para animais na Comunidade.\n\n(2) Em relação à rotulagem, o objectivo da Directiva 79/373/CEE é garantir a informação objectiva e tão precisa quanto possível dos criadores sobre a composição e utilização dos alimentos para animais.\n\n(3) Até ao momento, a Directiva 79/373/CEE previa uma declaração flexível, limitada à indicação das matérias-primas para alimentação animal, sem especificar a sua quantidade em relação aos alimentos para animais de produção, admitindo a possibilidade da declaração de categorias de matérias-primas, em vez da declaração das próprias matérias-primas.\n\n(4) Todavia, a crise da encefalopatia espongiforme bovina e a recente crise das dioxinas revelaram a inadequação das disposições actuais e a necessidade de informações mais pormenorizadas, qualitativa e quantitativamente, sobre a composição dos alimentos compostos para animais de produção.\n\n(5) As informações pormenorizadas quantitativas podem ser úteis na orientação da rastreabilidade das matérias potencialmente contaminadas para lotes específicos, o que será vantajoso em termos de saúde pública e evitará que se desperdicem produtos que não constituem um risco significativo para a saúde pública.\n\n(6) É, portanto, adequado, nesta fase, impor a declaração obrigatória de todas as matérias-primas utilizadas nos alimentos compostos para animais de produção, bem como das respectivas quantidades.\n\n(7) Por uma questão de ordem prática, será autorizada a apresentação da declaração das matérias-primas utilizadas nos alimentos compostos para animais de produção num rótulo ad hoc ou num documento de acompanhamento.\n\n(8) A declaração das matérias-primas utilizadas nos alimentos para animais constitui, em certos casos, um elemento de informação importante para os criadores. É, portanto, conveniente que o responsável pela rotulagem forneça, a pedido do cliente, a lista pormenorizada, expressa em percentagens ponderais exactas, de todas as matérias-primas utilizadas.\n\n(9) É igualmente importante assegurar a exequibilidade da verificação oficial da exactidão das declarações em todas as fases da circulação dos alimentos para animais. É conveniente que a lealdade das informações dadas pela rotulagem dos alimentos compostos para animais seja controlada pelas autoridades competentes nos termos da Directiva 95/53/CE do Conselho, de 25 de Outubro de 1995, que fixa os princípios relativos à organização dos controlos oficiais no domínio da alimentação animal(5), e que, para assegurar a eficácia desses controlos, os fabricantes de alimentos compostos ponham à disposição das autoridades competentes todos os documentos relativos à composição dos alimentos destinados a ser colocados em circulação.\n\n(10) Com base no estudo de viabilidade e o mais tardar até 31 de Dezembro de 2002, a Comissão apresentará um relatório ao Parlamento Europeu e ao Conselho, acompanhado por uma proposta adequada, que tenha em conta as conclusões do dito relatório, no sentido da elaboração de uma lista positiva.\n\n(11) Devem-se também prever disposições especiais para a rotulagem dos alimentos para animais de companhia, dado o carácter especial deste tipo de alimentos para animais.\n\n(12) No futuro, deixa de ser possível a declaração de categorias de matérias-primas, em lugar da declaração das próprias matérias-primas, no caso dos alimentos compostos para animais de produção, pelo que a Directiva 91/357/CEE da Comissão, de 13 de Junho de 1991, que fixa as categorias de matérias-primas utilizadas nos alimentos para animais que podem ser utilizadas na rotulagem dos alimentos compostos destinados a animais com excepção dos animais de companhia(6), deve ser revogada,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "ff9fc8d52932ca03": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Directiva 79/373/CEE do Conselho é alterada do seguinte modo:\n\n1. No artigo 5.o, o n.o 1 é alterado do seguinte modo:\n\na) A alínea j) passa a ter a seguinte redacção: \"j) O número de referência do lote\"\n\nb) É aditada uma nova alínea: \"l) No caso dos alimentos compostos não destinados a animais de companhia, a menção 'a percentagem ponderal exacta das matérias-primas utilizadas na composição deste alimento, pode ser obtida junto de:...' (indicação do nome ou denominação social, da morada ou sede social e do número de telefone do responsável pelas indicações a que se refere o presente número). Esta informação será fornecida a pedido do cliente.\".\n\n2. No artigo 5.o, o n.o 3 é alterado do seguinte modo:\n\na) A alínea c) é suprimida.\n\nb) A alínea g) é suprimida\n\n3. No artigo 5.o, a alínea d) do n.o 5 passa a ter a seguinte redacção: \"d) A data de duração mínima, o peso líquido, o número de referência do lote e o número de homologação ou de registo podem figurar fora da zona reservada à menção das indicações previstas no n.o 1; nesse caso, as menções supracitadas são acompanhadas de uma referência ao local em que se encontram.\".\n\n4. O artigo 5.o-C passa a ter a seguinte redacção: \"Artigo 5.o-C\n\n1. Todas as matérias-primas que entrem na composição do alimento composto para animais devem ser enumeradas sob a sua denominação específica.\n\n2. A enumeração das matérias-primas para alimentação animal fica sujeita às seguintes regras:\n\na) Alimentos compostos não destinados a animais de companhia:\n\ni) enumeração das matérias-primas para alimentação animal, com indicação, por ordem de importância decrescente, das percentagens ponderais presentes no alimento composto, ou\n\nii) no que se refere às percentagens acima indicadas, é permitida uma tolerância de +/- do valor declarado;\n\nb) Alimentos compostos para animais de companhia: enumeração das matérias-primas para alimentação animal, quer indicando o seu teor, quer mencionando-as por ordem decrescente da respectiva importância ponderal.\n\n3. No caso dos alimentos compostos para animais de companhia, a indicação do nome específico da matéria-prima para alimentação animal pode ser substituída pelo nome da categoria a que a mesma pertence, segundo as categorias de matérias-primas estabelecidas nos termos da alínea a) do artigo 10.o\n\nO recurso a uma destas duas formas de declaração excluirá a utilização da outra, excepto se uma das matérias-primas para alimentação animal não pertencer a nenhuma das categorias definidas; nesse caso, a matéria-prima, designada pelo seu nome específico, deve ser mencionada por ordem decrescente da respectiva importância ponderal em relação às categorias.\n\n4. A rotulagem dos alimentos compostos para animais de companhia pode igualmente ser mais apelativa, através de uma declaração específica da presença ou do baixo teor de uma ou mais matérias-primas para alimentação animal que seja essencial para a caracterização do alimento. Nesse caso, deve ser claramente indicado o teor mínimo ou máximo, expresso em percentagens ponderais, da ou das matérias-primas para alimentação animal incorporadas, quer junto à declaração que chama especial atenção para a ou as matérias-primas para alimentação animal, quer na lista de matérias-primas, mencionando a ou as matérias-primas e a ou as percentagens ponderais respectivas junto à categoria correspondente de matérias-primas.\".\n\n5. No artigo 12.o, é aditado o seguinte parágrafo: \"Os Estados-Membros devem determinar que os produtores de alimentos compostos sejam obrigados a colocar à disposição das autoridades encarregadas dos controlos oficiais, a pedido destas, qualquer documento relativo à composição dos alimentos destinados a serem colocados em circulação que permita verificar a lealdade das informações dadas na rotulagem.\".\n\n6. É inserido um novo artigo: \"Artigo 15.o-A\n\nO mais tardar em 6 de Novembro de 2006 a Comissão apresentará ao Conselho e ao Parlamento Europeu, com base nas informações recebidas dos Estados-Membros, um relatório sobre a execução do regime instituído pelo artigo 5.o, n.o 1, alíneas j) e l), n.o 5, alínea d), pelo artigo 5.o-C e pelo artigo 12.o, segundo parágrafo, nomeadamente no que se refere à indicação das quantidades, sob forma de percentagem ponderal, das matérias-primas na rotulagem dos alimentos compostos, incluindo a tolerância autorizada, acompanhado de eventuais propostas para melhorar essas disposições.\"."
+  },
+  "11f7b5dbb976a4fc": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Directiva 91/357/CEE da Comissão é revogada com efeitos a partir de 6 de Novembro de 2003."
+  },
+  "53d9baa89221ecd0": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros devem adoptar e publicar, o mais tardar em 6 de Março de 2003, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva e informar imediatamente a Comissão desse facto.\n\nOs Estados-Membros devem aplicar essas disposições a partir de 6 de Novembro de 2003.\n\nQuando os Estados-Membros adoptarem essas disposições, estas devem conter uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "d0b7fd7dad3b9a9a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "a57f048a50a0988f": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 28 de Janeiro de 2002.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nP. Cox\n\nPelo Conselho\n\nO Presidente\n\nJ. Piqué i Camps\n\n(1) JO C 120 E de 24.4.2001, p. 178.\n\n(2) JO C 140 de 18.5.2000, p. 12.\n\n(3) Parecer do Parlamento Europeu de 4 de Outubro de 2000 (JO C 178 de 22.6.2001, p. 177), Posição Comum do Conselho de 19 de Dezembro de 2000 (JO C 36 de 2.2.2001, p. 35) e Decisão do Parlamento Europeu de 5 de Abril de 2001 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 11 de Dezembro de 2001 e Decisão do Conselho de 19 de Dezembro de 2001.\n\n(4) JO L 86 de 6.4.1979, p. 30. Directiva com a última redacção que lhe foi dada pela Directiva 2000/16/CE (JO L 105 de 3.5.2000, p. 26).\n\n(5) JO L 265 de 8.11.1995, p. 17. Directiva com a redacção que lhe foi dada pela Directiva 1999/20/CE do Conselho (JO L 80 de 26.3.1999, p. 20).\n\n(6) JO L 193 de 17.7.1991, p. 34. Directiva com a última redacção que lhe foi dada pela Directiva 98/67/CE da Comissão (JO L 261 de 24.9.1998, p. 10)."
+  },
+  "dab81ccf7b0d43c4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Janeiro de 2002\n\nque altera a Directiva 79/373/CEE do Conselho relativa à circulação de alimentos compostos para animais e revoga a Directiva 91/357/CEE da Comissão\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 4, alínea b), do seu artigo 152.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/fd6e788b-c39c-4fec-8bb3-0537b4a17c0a.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/fd6e788b-c39c-4fec-8bb3-0537b4a17c0a.0018.03/DOC_1#E0002)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/fd6e788b-c39c-4fec-8bb3-0537b4a17c0a.0018.03/DOC_1#E0003)), à luz do projecto comum aprovado pelo Comité de Conciliação em 20 de Novembro de 2001,\n\n(1) A Directiva 79/373/CEE do Conselho ([^4^](http://publications.europa.eu/resource/cellar/fd6e788b-c39c-4fec-8bb3-0537b4a17c0a.0018.03/DOC_1#E0004)) estabelece regras aplicáveis à circulação de alimentos compostos para animais na Comunidade.\n\n(2) Em relação à rotulagem, o objectivo da Directiva 79/373/CEE é garantir a informação objectiva e tão precisa quanto possível dos criadores sobre a composição e utilização dos alimentos para animais.\n\n(3) Até ao momento, a Directiva 79/373/CEE previa uma declaração flexível, limitada à indicação das matérias-primas para alimentação animal, sem especificar a sua quantidade em relação aos alimentos para animais de produção, admitindo a possibilidade da declaração de categorias de matérias-primas, em vez da declaração das próprias matérias-primas.\n\n(4) Todavia, a crise da encefalopatia espongiforme bovina e a recente crise das dioxinas revelaram a inadequação das disposições actuais e a necessidade de informações mais pormenorizadas, qualitativa e quantitativamente, sobre a composição dos alimentos compostos para animais de produção.\n\n(5) As informações pormenorizadas quantitativas podem ser úteis na orientação da rastreabilidade das matérias potencialmente contaminadas para lotes específicos, o que será vantajoso em termos de saúde pública e evitará que se desperdicem produtos que não constituem um risco significativo para a saúde pública.\n\n(6) É, portanto, adequado, nesta fase, impor a declaração obrigatória de todas as matérias-primas utilizadas nos alimentos compostos para animais de produção, bem como das respectivas quantidades.\n\n(7) Por uma questão de ordem prática, será autorizada a apresentação da declaração das matérias-primas utilizadas nos alimentos compostos para animais de produção num rótulo *ad hoc* ou num documento de acompanhamento.\n\n(8) A declaração das matérias-primas utilizadas nos alimentos para animais constitui, em certos casos, um elemento de informação importante para os criadores. É, portanto, conveniente que o responsável pela rotulagem forneça, a pedido do cliente, a lista pormenorizada, expressa em percentagens ponderais exactas, de todas as matérias-primas utilizadas.\n\n(9) É igualmente importante assegurar a exequibilidade da verificação oficial da exactidão das declarações em todas as fases da circulação dos alimentos para animais. É conveniente que a lealdade das informações dadas pela rotulagem dos alimentos compostos para animais seja controlada pelas autoridades competentes nos termos da Directiva 95/53/CE do Conselho, de 25 de Outubro de 1995, que fixa os princípios relativos à organização dos controlos oficiais no domínio da alimentação animal ([^5^](http://publications.europa.eu/resource/cellar/fd6e788b-c39c-4fec-8bb3-0537b4a17c0a.0018.03/DOC_1#E0005)), e que, para assegurar a eficácia desses controlos, os fabricantes de alimentos compostos ponham à disposição das autoridades competentes todos os documentos relativos à composição dos alimentos destinados a ser colocados em circulação.\n\n(10) Com base no estudo de viabilidade e o mais tardar até 31 de Dezembro de 2002, a Comissão apresentará um relatório ao Parlamento Europeu e ao Conselho, acompanhado por uma proposta adequada, que tenha em conta as conclusões do dito relatório, no sentido da elaboração de uma lista positiva.\n\n(11) Devem-se também prever disposições especiais para a rotulagem dos alimentos para animais de companhia, dado o carácter especial deste tipo de alimentos para animais.\n\n(12) No futuro, deixa de ser possível a declaração de categorias de matérias-primas, em lugar da declaração das próprias matérias-primas, no caso dos alimentos compostos para animais de produção, pelo que a Directiva 91/357/CEE da Comissão, de 13 de Junho de 1991, que fixa as categorias de matérias-primas utilizadas nos alimentos para animais que podem ser utilizadas na rotulagem dos alimentos compostos destinados a animais com excepção dos animais de companhia ([^6^](http://publications.europa.eu/resource/cellar/fd6e788b-c39c-4fec-8bb3-0537b4a17c0a.0018.03/DOC_1#E0006)), deve ser revogada,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "48721d80ae34659d": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Directiva 79/373/CEE do Conselho é alterada do seguinte modo:\n\n1. No artigo 5.º, o n.º 1 é alterado do seguinte modo:\n\na) A alínea j) passa a ter a seguinte redacção:\n\n«j) O número de referência do lote»\n\n2. No artigo 5.º, o n.º 3 é alterado do seguinte modo:\n\na) A alínea c) é suprimida.\n\nb) A alínea g) é suprimida\n\n3. No artigo 5.º, a alínea d) do n.º 5 passa a ter a seguinte redacção:\n\n«d) A data de duração mínima, o peso líquido, o número de referência do lote e o número de homologação ou de registo podem figurar fora da zona reservada à menção das indicações previstas no n.º 1; nesse caso, as menções supracitadas são acompanhadas de uma referência ao local em que se encontram.».\n\n4. O artigo 5.º-C passa a ter a seguinte redacção:\n\n1. Todas as matérias-primas que entrem na composição do alimento composto para animais devem ser enumeradas sob a sua denominação específica.\n\n2. A enumeração das matérias-primas para alimentação animal fica sujeita às seguintes regras:\n\na) Alimentos compostos não destinados a animais de companhia:\n\ni) enumeração das matérias-primas para alimentação animal, com indicação, por ordem de importância decrescente, das percentagens ponderais presentes no alimento composto, ou\n\nii) no que se refere às percentagens acima indicadas, é permitida uma tolerância de +/– do valor declarado;\n\nb) Alimentos compostos para animais de companhia: enumeração das matérias-primas para alimentação animal, quer indicando o seu teor, quer mencionando-as por ordem decrescente da respectiva importância ponderal.\n\n3. No caso dos alimentos compostos para animais de companhia, a indicação do nome específico da matéria-prima para alimentação animal pode ser substituída pelo nome da categoria a que a mesma pertence, segundo as categorias de matérias-primas estabelecidas nos termos da alínea a) do artigo 10.º\n\nO recurso a uma destas duas formas de declaração excluirá a utilização da outra, excepto se uma das matérias-primas para alimentação animal não pertencer a nenhuma das categorias definidas; nesse caso, a matéria-prima, designada pelo seu nome específico, deve ser mencionada por ordem decrescente da respectiva importância ponderal em relação às categorias.\n\n4. A rotulagem dos alimentos compostos para animais de companhia pode igualmente ser mais apelativa, através de uma declaração específica da presença ou do baixo teor de uma ou mais matérias-primas para alimentação animal que seja essencial para a caracterização do alimento. Nesse caso, deve ser claramente indicado o teor mínimo ou máximo, expresso em percentagens ponderais, da ou das matérias-primas para alimentação animal incorporadas, quer junto à declaração que chama especial atenção para a ou as matérias-primas para alimentação animal, quer na lista de matérias-primas, mencionando a ou as matérias-primas e a ou as percentagens ponderais respectivas junto à categoria correspondente de matérias-primas.».\n\n5. No artigo 12.º, é aditado o seguinte parágrafo:\n\n«Os Estados-Membros devem determinar que os produtores de alimentos compostos sejam obrigados a colocar à disposição das autoridades encarregadas dos controlos oficiais, a pedido destas, qualquer documento relativo à composição dos alimentos destinados a serem colocados em circulação que permita verificar a lealdade das informações dadas na rotulagem.».\n\n6. É inserido um novo artigo:\n\nAté 6 de Novembro de 2006, a Comissão apresentará ao Parlamento Europeu e ao Conselho, com base nas informações recebidas dos Estados-Membros, um relatório sobre a execução do regime instituído pelo artigo 5.º, n.º 1, alínea j) e n.º 5, alínea d), pelo artigo 5.º- C e pelo artigo 12.º, segundo parágrafo, nomeadamente no que se refere à indicação das quantidades, sob forma de percentagem ponderal, das matérias-primas na rotulagem dos alimentos compostos, incluindo a tolerância autorizada, eventualmente acompanhado de propostas destinadas a melhorar aquelas disposições.»"
+  },
+  "948575d356553180": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "a016a79c2e218f56": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\n---"
+  },
+  "22457d317a0abbc8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/fd6e788b-c39c-4fec-8bb3-0537b4a17c0a.0018.03/DOC_1#src.E0001)) JO C 120 E de 24.4.2001, p. 178.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/fd6e788b-c39c-4fec-8bb3-0537b4a17c0a.0018.03/DOC_1#src.E0002)) JO C 140 de 18.5.2000, p. 12.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/fd6e788b-c39c-4fec-8bb3-0537b4a17c0a.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 4 de Outubro de 2000 (JO C 178 de 22.6.2001, p. 177), Posição Comum do Conselho de 19 de Dezembro de 2000 (JO C 36 de 2.2.2001, p. 35) e Decisão do Parlamento Europeu de 5 de Abril de 2001 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 11 de Dezembro de 2001 e Decisão do Conselho de 19 de Dezembro de 2001.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/fd6e788b-c39c-4fec-8bb3-0537b4a17c0a.0018.03/DOC_1#src.E0004)) JO L 86 de 6.4.1979, p. 30. Directiva com a última redacção que lhe foi dada pela Directiva 2000/16/CE (JO L 105 de 3.5.2000, p. 26).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/fd6e788b-c39c-4fec-8bb3-0537b4a17c0a.0018.03/DOC_1#src.E0005)) JO L 265 de 8.11.1995, p. 17. Directiva com a redacção que lhe foi dada pela Directiva 1999/20/CE do Conselho (JO L 80 de 26.3.1999, p. 20).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/fd6e788b-c39c-4fec-8bb3-0537b4a17c0a.0018.03/DOC_1#src.E0006)) JO L 193 de 17.7.1991, p. 34. Directiva com a última redacção que lhe foi dada pela Directiva 98/67/CE da Comissão (JO L 261 de 24.9.1998, p. 10)."
+  }
+ }
+}

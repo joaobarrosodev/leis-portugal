@@ -35,6 +35,137 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-07-01'
+version_history:
+  file: regulamento-ue-2001-2529.versoes.json
+  count: 5
+  source_lastmod: '2008-07-01'
+  versions:
+  - date: '2001-12-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-01'
+    amending: null
+    amending_title: Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre,
+      da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia,
+      da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 31.º
+    - Adita TÍTULO I
+    - Adita MERCADO INTERNO
+    - Adita CAPÍTULO I
+    - Adita PAGAMENTOS DIRECTOS
+    - Adita Secção 1
+    - Adita Prémio por ovelha e por cabra
+    - Adita Secção 2
+    - Adita Prémio complementar
+    - Adita Secção 3
+    - Adita Disposições comuns
+    - Adita Secção 4
+    - Adita Limites individuais
+    - Adita CAPÍTULO II
+    - Adita PAGAMENTOS COMPLEMENTARES
+    - Adita Artigo 11.º-A
+    - Adita CAPÍTULO III
+    - Adita Armazenagem privada
+    - Adita TÍTULO II
+    - Adita REGIME COMERCIAL COM PAÍSES TERCEIROS
+    - Adita Artigo 14.º
+    - Adita TÍTULO III
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita Notas
+    - Suprime TÍTULO I — MERCADO INTERNO
+    - Suprime CAPÍTULO I — PAGAMENTOS DIRECTOS
+    - Suprime Secção 1 — Prémio por ovelha e por cabra
+    - Suprime Secção 2 — Prémio complementar
+    - Suprime Secção 3 — Disposições comuns
+    - Suprime Secção 4 — Limites individuais
+    - Suprime CAPÍTULO II — PAGAMENTOS COMPLEMENTARES
+    - Suprime CAPÍTULO III — Armazenagem privada
+    - Suprime TÍTULO II — REGIME COMERCIAL COM PAÍSES TERCEIROS
+  - date: '2005-01-01'
+    amending: eu:celex:32003R1782:por
+    amending_title: REGULAMENTO (CE) N. o 1782/2003 DO CONSELHO de 29 de Setembro de 2003
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera Notas
+    - Suprime Artigo 3.º
+    - Suprime Secção 1
+    - Suprime Prémio por ovelha e por cabra
+    - Suprime Artigo 4.º
+    - Suprime Secção 2
+    - Suprime Prémio complementar
+    - Suprime Artigo 5.º
+    - Suprime Secção 3
+    - Suprime Disposições comuns
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Secção 4
+    - Suprime Limites individuais
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+  - date: '2005-12-02'
+    amending: eu:celex:32005R1913:por
+    amending_title: REGULAMENTO (CE) N. o 1913/2005 DO CONSELHO de 23 de Novembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 22.º
+    - Altera ANEXO I
+    - Altera Notas
+  - date: '2008-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime TÍTULO I
+    - Suprime MERCADO INTERNO
+    - Suprime Artigo 2.º
+    - Suprime CAPÍTULO I
+    - Suprime PAGAMENTOS DIRECTOS
+    - Suprime CAPÍTULO II
+    - Suprime PAGAMENTOS COMPLEMENTARES
+    - Suprime Artigo 11.º-A
+    - Suprime CAPÍTULO III
+    - Suprime Armazenagem privada
+    - Suprime Artigo 12.º
+    - Suprime TÍTULO II
+    - Suprime REGIME COMERCIAL COM PAÍSES TERCEIROS
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime TÍTULO III
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime Artigo 24.º
+    - Suprime Artigo 25.º
+    - Suprime Artigo 26.º
+    - Suprime Artigo 27.º
+    - Suprime Artigo 28.º
+    - Suprime Artigo 29.º
+    - Suprime Artigo 30.º
+    - Suprime Artigo 31.º
+    - Suprime ANEXO I
+    - Suprime ANEXO II
+    - Suprime ANEXO III
+    - Suprime Notas
 identifiers:
   celex: 32001R2529
   eli: http://data.europa.eu/eli/reg/2001/2529/oj
@@ -49,7 +180,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c9437d9b-50d9-40a8-865c-e11c94ad05b6.0010
   content_url: http://publications.europa.eu/resource/cellar/54ca107c-3bce-4c0f-a285-fe97dfdd5a10.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R2529-20080701
-  retrieved_at: '2026-10-22T02:41:18Z'
+  retrieved_at: '2026-10-22T14:51:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T19:53:43.941+01:00'
 integrity:
@@ -58,9 +189,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:18Z'
-  notes: Texto consolidado 02001R2529-20080701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:00Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2001-2529.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -200,16 +331,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:18Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:51:00Z'
+  warnings: []
   errors: []
 ---
 

@@ -35,6 +35,104 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-04-14'
+version_history:
+  file: regulamento-ue-2005-768.versoes.json
+  count: 4
+  source_lastmod: '2019-04-14'
+  versions:
+  - date: '2006-06-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-01-01'
+    amending: eu:celex:32009R1224:por
+    amending_title: REGULAMENTO (CE) N. o 1224/2009 do Conselho de 20 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Missão
+    - Altera Artigo 5.º — Atribuições relativas à coordenação operacional
+    - Altera Artigo 8.º — Execução das obrigações da Comunidade em matéria de controlo e inspecção
+    - Altera Artigo 19.º — Pessoal
+    - Altera Artigo 22.º — Línguas
+    - Altera Artigo 36.º — Execução e controlo do orçamento
+    - Altera Artigo 38.º — Disposições financeiras
+    - Altera Artigo 41.º — Alteração
+    - Altera Artigo 42.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 7.º — Apoio à Comissão e aos Estados-Membros
+    - Adita Artigo 9.º — Execução de programas específicos de controlo e de inspecção
+    - Adita CAPÍTULO III-A
+    - Adita COMPETÊNCIAS DA AGÊNCIA
+    - Adita Artigo 17.ºA — Designação de agentes da Agência como inspectores comunitários
+    - Adita Artigo 17.ºB — Medidas adoptadas pela da Agência
+    - Adita Artigo 17.ºC — Cooperação
+    - Adita Artigo 17.ºD — Unidade de emergência
+    - Adita Artigo 17.ºE — Tarefas da unidade de emergência
+    - Adita Artigo 17.ºF — Programa de trabalho plurianual
+    - Adita Artigo 17.ºG — Cooperação em matéria de assuntos marítimos
+    - Adita Artigo 17.ºH — Regras de execução
+    - Suprime Artigo 7.º — Apoio aos Estados-Membros
+    - Suprime Artigo 9.º — Execução de programas específicos de controlo e inspecção
+    - Suprime «Artigo 34.º-C
+  - date: '2016-10-06'
+    amending: eu:celex:32016R1626:por
+    amending_title: REGULAMENTO (UE) 2016/1626 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de setembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivo
+    - Altera Artigo 3.º — Missão
+    - Altera Artigo 7.º — Apoio à Comissão e aos Estados-Membros
+    - Altera Artigo 19.º — Pessoal
+    - Altera Artigo 22.º — Línguas
+    - Altera Artigo 36.º — Execução e controlo do orçamento
+    - Altera Artigo 38.º — Disposições financeiras
+    - Altera Artigo 41.º — Alteração
+    - Altera Notas
+    - Adita Artigo 7.º-A — Cooperação europeia no domínio das funções de guarda costeira
+  - date: '2019-04-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime OBJECTIVO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Objectivo
+    - Suprime Artigo 2.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime MISSÃO E ATRIBUIÇÕES DA AGÊNCIA
+    - Suprime Artigo 3.º — Missão
+    - Suprime Artigo 4.º — Atribuições relativas às obrigações internacionais da Comunidade em matéria de controlo e inspecção
+    - Suprime Artigo 5.º — Atribuições relativas à coordenação operacional
+    - Suprime Artigo 6.º — Prestação de serviços contratuais aos Estados-Membros
+    - Suprime Artigo 7.º — Apoio à Comissão e aos Estados-Membros
+    - Suprime Artigo 7.º-A — Cooperação europeia no domínio das funções de guarda costeira
+    - Suprime CAPÍTULO III
+    - Suprime COORDENAÇÃO OPERACIONAL
+    - Suprime Artigo 8.º — Execução das obrigações da Comunidade em matéria de controlo e inspecção
+    - Suprime Artigo 9.º — Execução de programas específicos de controlo e de inspecção
+    - Suprime Artigo 10.º — Conteúdo dos planos de utilização conjunta
+    - Suprime Artigo 11.º — Notificação dos meios de controlo e inspecção
+    - Suprime Artigo 12.º — Procedimento para a adopção de planos de utilização conjunta
+    - Suprime Artigo 13.º — Execução dos planos de utilização conjunta
+    - Suprime Artigo 14.º — Avaliação dos planos de utilização conjunta
+    - Suprime Artigo 15.º — Actividades de pesca que não sejam objecto de programas de controlo e inspecção
+    - Suprime Artigo 16.º — Rede de informação
+    - Suprime Artigo 17.º — Regras de execução
+    - Suprime CAPÍTULO III-A
+    - Suprime COMPETÊNCIAS DA AGÊNCIA
+    - Suprime Artigo 17.ºA — Designação de agentes da Agência como inspectores comunitários
+    - Suprime Artigo 17.ºB — Medidas adoptadas pela da Agência
+    - Suprime Artigo 17.ºC — Cooperação
+    - Suprime Artigo 17.ºD — Unidade de emergência
+    - Suprime Artigo 17.ºE — Tarefas da unidade de emergência
+    - Suprime Artigo 17.ºF — Programa de trabalho plurianual
+    - Suprime Artigo 17.ºG — Cooperação em matéria de assuntos marítimos
+    - Suprime Artigo 17.ºH — Regras de execução
+    - Suprime CAPÍTULO IV
+    - Suprime ESTRUTURA INTERNA E FUNCIONAMENTO
+    - Suprime Artigo 18.º — Estatuto jurídico e sede principal
+    - Suprime Artigo 19.º — Pessoal
+    - Suprime Artigo 20.º — Privilégios e imunidades
 identifiers:
   celex: 32005R0768
   eli: http://data.europa.eu/eli/reg/2005/768/oj
@@ -49,7 +147,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016
   content_url: http://publications.europa.eu/resource/cellar/c75200a1-a264-11e9-9d01-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R0768-20190414
-  retrieved_at: '2026-10-22T02:58:03Z'
+  retrieved_at: '2026-10-22T15:00:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T12:30:18.922+01:00'
 integrity:
@@ -58,9 +156,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:03Z'
-  notes: Texto consolidado 02005R0768-20190414.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:00:09Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2005-768.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -155,16 +253,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:03Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:00:09Z'
+  warnings: []
   errors: []
 ---
 

@@ -35,6 +35,43 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-12-31'
+version_history:
+  file: diretiva-ue-2001-15.versoes.json
+  count: 3
+  source_lastmod: '2009-12-31'
+  versions:
+  - date: '2001-02-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-04-11'
+    amending: eu:celex:32004L0005:por
+    amending_title: DIRECTIVA 2004/5/CE DA COMISSÃO Texto relevante para efeitos do EEE de 20 de Janeiro de 2004; DIRECTIVA
+      2006/34/CE DA COMISSÃO Texto relevante para efeitos do EEE de 21 de Março de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 5.º
+    - Adita ANEXO
+    - Adita SUBSTÂNCIAS PARA FINS NUTRICIONAIS ESPECÍFICOS QUE PODEM SER UTILIZADOS NO FABRICO DE GÉNEROS ALIMENTÍCIOS DESTINADOS
+      A UMA ALIMENTAÇÃO ESPECIAL
+    - Adita Notas
+    - Suprime ANEXO — SUBSTÂNCIAS PARA FINS NUTRICIONAIS ESPECÍFICOS QUE PODEM SER UTILIZADOS NO FABRICO DE GÉNEROS ALIMENTÍCIOS
+      DESTINADOS A UMA ALIMENTAÇÃO ESPECIAL
+  - date: '2009-12-31'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime ANEXO
+    - Suprime SUBSTÂNCIAS PARA FINS NUTRICIONAIS ESPECÍFICOS QUE PODEM SER UTILIZADOS NO FABRICO DE GÉNEROS ALIMENTÍCIOS DESTINADOS
+      A UMA ALIMENTAÇÃO ESPECIAL
+    - Suprime Notas
 identifiers:
   celex: 32001L0015
   eli: http://data.europa.eu/eli/dir/2001/15/oj
@@ -49,7 +86,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a1ba4ebc-47e3-4f63-a723-6ec4004a1b79.0010
   content_url: http://publications.europa.eu/resource/cellar/e7a09d1c-7101-461f-9251-471c8cfa0bc9.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0015-20091231
-  retrieved_at: '2026-10-22T02:47:20Z'
+  retrieved_at: '2026-10-22T14:49:56Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T18:05:34.119+01:00'
 integrity:
@@ -58,9 +95,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:20Z'
-  notes: Texto consolidado 02001L0015-20091231.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:56Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2001-15.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -134,16 +171,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:20Z'
+  checked_at: '2026-10-22T14:49:56Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02001L0015-20010314: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001L0015-20040210: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

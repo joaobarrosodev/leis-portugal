@@ -35,6 +35,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-02-27'
+version_history:
+  file: diretiva-ue-1997-67.versoes.json
+  count: 2
+  source_lastmod: '2008-02-27'
+  versions:
+  - date: '1998-01-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-02-27'
+    amending: eu:celex:32002L0039:por
+    amending_title: M1; M2; DIRECTIVA 2008/6/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Fevereiro de 2008
+    changes:
+    - Altera preambulo
+    - Adita CAPÍTULO 1
+    - Adita Objectivo e âmbito de aplicação
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita CAPÍTULO 2
+    - Adita Serviço universal
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita CAPÍTULO 3
+    - Adita Financiamento do serviço universal
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita CAPÍTULO 4
+    - Adita Condições relativas à prestação de serviços postais e ao acesso à rede
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 11.º-A
+    - Adita CAPÍTULO 5
+    - Adita Princípios tarifários e transparência das contas
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita CAPÍTULO 6
+    - Adita Qualidade dos serviços
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita CAPÍTULO 7
+    - Adita Harmonização das normas técnicas
+    - Adita Artigo 20.º
+    - Adita CAPÍTULO 8
+    - Adita Comité
+    - Adita Artigo 21.º
+    - Adita CAPÍTULO 9
 identifiers:
   celex: 31997L0067
   eli: http://data.europa.eu/eli/dir/1997/67/oj
@@ -49,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6f9157b3-7b2f-4238-88d3-ca56b04adbca.0011
   content_url: http://publications.europa.eu/resource/cellar/7f2a3ce9-380d-4671-8651-f95695a9ebad.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997L0067-20080227
-  retrieved_at: '2026-10-22T02:37:55Z'
+  retrieved_at: '2026-10-22T14:46:07Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-20T13:19:10.185+02:00'
 integrity:
@@ -58,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:55Z'
-  notes: Texto consolidado 01997L0067-20080227.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:07Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1997-67.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -315,35 +368,22 @@ relationships:
   source: null
 article_structure:
   article_count: 27
-  section_count: 29
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 30
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:55Z'
-  warnings: []
+  checked_at: '2026-10-22T14:46:07Z'
+  warnings:
+  - '01997L0067-19980210: versão indisponível (Sem expressão na língua por para CELEX 01997L0067-19980210.)'
+  - '01997L0067-20020705: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01997L0067-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 97/67/CE do Parlamento Europeu e do Conselho de 15 de Dezembro de 1997
-
-> 1997L0067 — PT — 27.02.2008 — 003.005
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32002L0039) — [DIRECTIVA 2002/39/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de Junho de 2002](http://publications.europa.eu/resource/celex/32002L0039) — L 176 — 21 — 5.7.2002
-- [M2](http://publications.europa.eu/resource/celex/32003R1882) — [REGULAMENTO (CE) N.º 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
-- [►M3](http://publications.europa.eu/resource/celex/32008L0006) — [DIRECTIVA 2008/6/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Fevereiro de 2008](http://publications.europa.eu/resource/celex/32008L0006) — L 52 — 3 — 27.2.2008
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32008L0006R%2803%29) — [Rectificação, JO L 225, 28.8.2015, p. 49 (2008/6/CE)](http://publications.europa.eu/resource/celex/32008L0006R%2803%29)
-
-## DIRECTIVA 97/67/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de Dezembro de 1997
 

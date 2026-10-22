@@ -34,6 +34,119 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-01-10'
+version_history:
+  file: regulamento-ue-2001-44.versoes.json
+  count: 4
+  source_lastmod: '2015-01-10'
+  versions:
+  - date: '2001-01-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-05-14'
+    amending: eu:celex:32002R1496:por
+    amending_title: M1; M2; M3; REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006; REGULAMENTO (CE) N.
+      o 1103/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008; REGULAMENTO (CE) N. o 280/2009 DA COMISSÃO
+      de 6 de Abril de 2009; REGULAMENTO (UE) N. o 416/2010 DA COMISSÃO de 12 de Maio de 2010; ACTO relativo às condições
+      de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República
+      da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da
+      República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º
+    - Altera Artigo 14.º
+    - Altera Artigo 22.º
+    - Altera Artigo 26.º
+    - Altera Artigo 62.º
+    - Altera Artigo 65.º
+    - Altera Artigo 69.º
+    - Altera Artigo 71.º
+    - Altera Artigo 74.º
+    - Altera Artigo 75.º
+    - Altera Artigo 76.º
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera ANEXO IV
+    - Adita CAPÍTULO I
+    - Adita ÂMBITO DE APLICAÇÃO
+    - Adita CAPÍTULO II
+    - Adita COMPETÊNCIA
+    - Adita Secção 1
+    - Adita Disposições gerais
+    - Adita Secção 2
+    - Adita Competências especiais
+    - Adita Secção 3
+    - Adita Competência em matéria de seguros
+    - Adita Artigo 8.º
+    - Adita Secção 4
+    - Adita Competência em matéria de contratos celebrados por consumidores
+    - Adita Secção 5
+    - Adita Competência em matéria de contratos individuais de trabalho
+    - Adita Secção 6
+    - Adita Competências exclusivas
+    - Adita Secção 7
+    - Adita Extensão de competência
+    - Adita Secção 8
+    - Adita Verificação da competência e da admissibilidade
+    - Adita Secção 9
+    - Adita Litispendência e conexão
+    - Adita Secção 10
+    - Adita Medidas provisórias e cautelares
+  - date: '2012-03-14'
+    amending: eu:celex:32012R0156:por
+    amending_title: REGULAMENTO (UE) N. o 156/2012 DA COMISSÃO de 22 de fevereiro de 2012
+    changes:
+    - Altera Artigo 14.º
+    - Altera Artigo 26.º
+    - Altera Regras de competência nacionais referidas no artigo 3.º, n.º 2, e no artigo 4.º, n.º 2
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera ANEXO IV
+    - Altera Notas
+  - date: '2015-01-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime ÂMBITO DE APLICAÇÃO
+    - Suprime Artigo 1.º
+    - Suprime CAPÍTULO II
+    - Suprime COMPETÊNCIA
+    - Suprime Secção 1
+    - Suprime Disposições gerais
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Secção 2
+    - Suprime Competências especiais
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Secção 3
+    - Suprime Competência em matéria de seguros
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Secção 4
+    - Suprime Competência em matéria de contratos celebrados por consumidores
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Secção 5
+    - Suprime Competência em matéria de contratos individuais de trabalho
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime Secção 6
+    - Suprime Competências exclusivas
+    - Suprime Artigo 22.º
+    - Suprime Secção 7
 identifiers:
   celex: 32001R0044
   eli: http://data.europa.eu/eli/reg/2001/44/oj
@@ -48,7 +161,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ad56097c-16e0-450c-b517-8185ede09af1.0010
   content_url: http://publications.europa.eu/resource/cellar/664f5718-e7fb-4b37-b657-ed2cdf10c1bf.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R0044-20150110
-  retrieved_at: '2026-10-22T02:42:29Z'
+  retrieved_at: '2026-10-22T14:50:39Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-02-03T11:38:00.159+01:00'
 integrity:
@@ -57,9 +170,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:29Z'
-  notes: Texto consolidado 02001R0044-20150110.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:39Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2001-44.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -963,16 +1076,24 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:29Z'
+  checked_at: '2026-10-22T14:50:39Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02001R0044-20020301: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0044-20020829: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0044-20040501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02001R0044-20041117: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02001R0044-20050104: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02001R0044-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02001R0044-20081204: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02001R0044-20090408: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02001R0044-20130709: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02001R0044-20150109: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

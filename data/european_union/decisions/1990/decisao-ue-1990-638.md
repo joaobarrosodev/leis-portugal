@@ -34,6 +34,39 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-12-22'
+version_history:
+  file: decisao-ue-1990-638.versoes.json
+  count: 3
+  source_lastmod: '2006-12-22'
+  versions:
+  - date: '1990-12-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-07-29'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita ANEXO I — Critérios a ter em conta nos programas de erradicação
+    - Adita ANEXO II — Critérios a ter em conta nos programas de vigilância
+    - Adita ANEXO III — Critérios a adoptar nos programas de luta contra a raiva
+    - Suprime Artigo 1°
+    - Suprime Artigo 2°
+    - Suprime ANEXO I
+    - Suprime ANEXO II
+  - date: '2006-12-22'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime ANEXO I — Critérios a ter em conta nos programas de erradicação
+    - Suprime ANEXO II — Critérios a ter em conta nos programas de vigilância
+    - Suprime ANEXO III — Critérios a adoptar nos programas de luta contra a raiva
 identifiers:
   celex: 31990D0638
   eli: http://data.europa.eu/eli/dec/1990/638/oj
@@ -48,7 +81,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e6420c8a-c8f4-42cc-a1b2-e0af52ca3c2b.0009
   content_url: http://publications.europa.eu/resource/cellar/a2da098c-6234-4b2e-b8b7-ff43a4da92ba.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990D0638-20061222
-  retrieved_at: '2026-10-22T02:50:10Z'
+  retrieved_at: '2026-10-22T14:36:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-14T17:13:10.301+02:00'
 integrity:
@@ -57,9 +90,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:50:10Z'
-  notes: Texto consolidado 01990D0638-20061222.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:36:33Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-1990-638.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -108,16 +141,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:50:10Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:36:33Z'
+  warnings: []
   errors: []
 ---
 

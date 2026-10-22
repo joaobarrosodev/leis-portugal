@@ -35,6 +35,138 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-07-14'
+version_history:
+  file: diretiva-ue-2002-60.versoes.json
+  count: 6
+  source_lastmod: '2021-07-14'
+  versions:
+  - date: '2002-07-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-12-12'
+    amending: eu:celex:32006D0911:por
+    amending_title: DECISÃO DA COMISSÃO de 5 de Dezembro de 2006; Acto relativo às condições de adesão da República Checa,
+      da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da
+      Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações
+      dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Medidas em caso de suspeita de peste suína africana numa exploração
+    - Altera Artigo 10.º — Medidas aplicáveis na zona de protecção estabelecida
+    - Altera Artigo 11.º — Medidas aplicáveis na zona de vigilância estabelecida
+    - Altera Artigo 15.º — Medidas em caso de suspeita ou confirmação de peste suína africana em suínos selvagens
+    - Altera Artigo 18.º — Procedimentos de diagnóstico e requisitos em termos de biossegurança
+    - Altera Artigo 22.º — Centros de luta contra a epizootia e grupos de peritos
+    - Altera Artigo 30.º — Destinatários
+    - Adita ANEXO I
+    - Adita Notificação da doença e outros dados epidemiológicos que devem ser fornecidos pelo Estado-Membro em caso de confirmação
+      da peste suína africana
+    - Adita ANEXO II
+    - Adita Princípios e procedimentos de limpeza, desinfecção e tratamento por meio de insecticidas
+    - Adita ANEXO III
+    - Adita Directrizes para a pesquisa de vectores
+    - Adita ANEXO IV
+    - Adita Laboratórios nacionais da peste suína africana e respectivas tarefas
+    - Adita ANEXO V
+    - Adita Laboratório comunitário de referência da peste suína africana
+    - Adita ANEXO VI
+    - Adita Critérios e requisitos relativos aos planos de emergência
+    - Adita Notas
+    - Suprime ANEXO I — Notificação da doença e outros dados epidemiológicos que devem ser fornecidos pelo Estado-Membro em
+      caso de confirmação da peste suína africana
+    - Suprime ANEXO II — Princípios e procedimentos de limpeza, desinfecção e tratamento por meio de insecticidas
+    - Suprime ANEXO III — Directrizes para a pesquisa de vectores
+    - Suprime ANEXO IV — Laboratórios nacionais da peste suína africana e respectivas tarefas
+    - Suprime ANEXO V — Laboratório comunitário de referência da peste suína africana
+    - Suprime ANEXO VI — Critérios e requisitos relativos aos planos de emergência
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0104:por
+    amending_title: DIRECTIVA 2006/104/CE DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Medidas em caso de suspeita de peste suína africana numa exploração
+    - Altera Artigo 10.º — Medidas aplicáveis na zona de protecção estabelecida
+    - Altera Artigo 15.º — Medidas em caso de suspeita ou confirmação de peste suína africana em suínos selvagens
+    - Altera Artigo 18.º — Procedimentos de diagnóstico e requisitos em termos de biossegurança
+    - Altera Artigo 22.º — Centros de luta contra a epizootia e grupos de peritos
+    - Altera Laboratórios nacionais da peste suína africana e respectivas tarefas
+    - Altera Notas
+  - date: '2007-11-13'
+    amending: eu:celex:32007D0729:por
+    amending_title: DECISÃO DA COMISSÃO de 7 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Medidas em caso de suspeita de peste suína africana numa exploração
+    - Altera Artigo 10.º — Medidas aplicáveis na zona de protecção estabelecida
+    - Altera Artigo 15.º — Medidas em caso de suspeita ou confirmação de peste suína africana em suínos selvagens
+    - Altera Artigo 18.º — Procedimentos de diagnóstico e requisitos em termos de biossegurança
+    - Altera Artigo 22.º — Centros de luta contra a epizootia e grupos de peritos
+    - Altera Laboratórios nacionais da peste suína africana e respectivas tarefas
+    - Altera Notas
+  - date: '2008-09-03'
+    amending: eu:celex:32008L0073:por
+    amending_title: DIRECTIVA 2008/73/CE DO CONSELHO Texto relevante para efeitos do EEE de 15 de Julho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Medidas em caso de suspeita de peste suína africana numa exploração
+    - Altera Artigo 10.º — Medidas aplicáveis na zona de protecção estabelecida
+    - Altera Artigo 15.º — Medidas em caso de suspeita ou confirmação de peste suína africana em suínos selvagens
+    - Altera Artigo 18.º — Procedimentos de diagnóstico e requisitos em termos de biossegurança
+    - Altera Artigo 22.º — Centros de luta contra a epizootia e grupos de peritos
+    - Altera Notas
+    - Adita Tarefas dos laboratórios nacionais da peste suína africana
+    - Suprime Laboratórios nacionais da peste suína africana e respectivas tarefas
+  - date: '2021-07-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Notificação da peste suína africana
+    - Suprime Artigo 4.º — Medidas em caso de suspeita de peste suína africana numa exploração
+    - Suprime Artigo 5.º — Medidas em caso de confirmação de peste suína africana numa exploração
+    - Suprime Artigo 6.º — Medidas em caso de confirmação da peste suína africana em explorações com várias unidades de produção
+    - Suprime Artigo 7.º — Medidas nas explorações de contacto
+    - Suprime Artigo 8.º — Inquérito epidemiológico
+    - Suprime Artigo 9.º — Estabelecimento de zonas de protecção e vigilância
+    - Suprime Artigo 10.º — Medidas aplicáveis na zona de protecção estabelecida
+    - Suprime Artigo 11.º — Medidas aplicáveis na zona de vigilância estabelecida
+    - Suprime Artigo 12.º — Limpeza, desinfecção e desinsectização
+    - Suprime Artigo 13.º — Repovoamento das explorações suinícolas após surtos da doença
+    - Suprime Artigo 14.º — Medidas em caso de suspeita ou confirmação de peste suína africana num matadouro ou num meio de
+      transporte
+    - Suprime Artigo 15.º — Medidas em caso de suspeita ou confirmação de peste suína africana em suínos selvagens
+    - Suprime Artigo 16.º — Planos de erradicação da peste suína africana numa população de suínos selvagens
+    - Suprime Artigo 17.º — Medidas de prevenção da propagação do vírus da peste suína africana através de vectores
+    - Suprime Artigo 18.º — Procedimentos de diagnóstico e requisitos em termos de biossegurança
+    - Suprime Artigo 19.º — Utilização, fabrico e venda de vacinas contra a peste suína africana
+    - Suprime Artigo 20.º — Controlos comunitários
+    - Suprime Artigo 21.º — Planos de emergência
+    - Suprime Artigo 22.º — Centros de luta contra a epizootia e grupos de peritos
+    - Suprime Artigo 23.º — Procedimento de regulamentação normal
+    - Suprime Artigo 24.º — Procedimento de regulamentação acelerado
+    - Suprime Artigo 25.º — Alteração do anexo I da Directiva 92/119/CEE
+    - Suprime Artigo 26.º — Medidas de execução
+    - Suprime Artigo 27.º — Disposições transitórias
+    - Suprime Artigo 28.º — Transposição para a legislação nacional
+    - Suprime Artigo 29.º — Entrada em vigor
+    - Suprime Artigo 30.º — Destinatários
+    - Suprime ANEXO I
+    - Suprime Notificação da doença e outros dados epidemiológicos que devem ser fornecidos pelo Estado-Membro em caso de
+      confirmação da peste suína africana
+    - Suprime ANEXO II
+    - Suprime Princípios e procedimentos de limpeza, desinfecção e tratamento por meio de insecticidas
+    - Suprime ANEXO III
+    - Suprime Directrizes para a pesquisa de vectores
+    - Suprime ANEXO IV
+    - Suprime Tarefas dos laboratórios nacionais da peste suína africana
+    - Suprime ANEXO V
 identifiers:
   celex: 32002L0060
   eli: http://data.europa.eu/eli/dir/2002/60/oj
@@ -49,7 +181,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/86f74ab2-4f72-410d-a4c1-12c55948d13a.0010
   content_url: http://publications.europa.eu/resource/cellar/7e42a4be-fa26-11eb-b520-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0060-20210714
-  retrieved_at: '2026-10-22T02:57:21Z'
+  retrieved_at: '2026-10-22T14:52:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T15:58:59.073+01:00'
 integrity:
@@ -58,9 +190,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:21Z'
-  notes: Texto consolidado 02002L0060-20210714.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:03Z'
+  notes: 6 versão(ões); histórico completo em diretiva-ue-2002-60.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -193,16 +325,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:21Z'
+  checked_at: '2026-10-22T14:52:03Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02002L0060-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -35,6 +35,20 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2003-07-25'
+version_history:
+  file: diretiva-ue-1998-10.versoes.json
+  count: 2
+  source_lastmod: '2003-07-25'
+  versions:
+  - date: '1998-04-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-07-25'
+    amending: null
+    amending_title: null
+    changes:
+    - Adita preambulo
 identifiers:
   celex: 31998L0010
   eli: http://data.europa.eu/eli/dir/1998/10/oj
@@ -49,7 +63,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6160e7c3-34f7-43b3-9509-88d1a54a05b8.0011
   content_url: http://publications.europa.eu/resource/cellar/94695075-32d6-4678-82a7-ab6211dd33da.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0010-20030725
-  retrieved_at: '2026-10-22T02:51:02Z'
+  retrieved_at: '2026-10-22T14:46:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-26T09:47:30.633+01:00'
 integrity:
@@ -58,9 +72,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:02Z'
-  notes: Texto consolidado 01998L0010-20030725.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:36Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1998-10.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -176,16 +190,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:02Z'
+  checked_at: '2026-10-22T14:46:36Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01998L0010-19980421: versão indisponível (Sem expressão na língua por para CELEX 01998L0010-19980421.)'
+  - '01998L0010-20010110: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

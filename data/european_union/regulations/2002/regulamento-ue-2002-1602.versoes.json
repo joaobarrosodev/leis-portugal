@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002R1602:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R1602-20020930",
+ "dre_path": null,
+ "source_lastmod": "2002-09-30",
+ "versions": [
+  {
+   "date": "2002-09-10",
+   "future": false,
+   "celex": "32002R1602",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a76dbb46a086be9c",
+    "f597b834ed60e164",
+    "98a817f72eb5b0fb",
+    "af05679991b7627c",
+    "eb640e4992c642b9",
+    "9b0a158e258e6f4f",
+    "833838021d28a40e"
+   ]
+  }
+ ],
+ "fragments": {
+  "a76dbb46a086be9c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 1602/2002 da Comissão, de 9 de Setembro de 2002, que estabelece as normas de execução da Directiva 1999/105/CE do Conselho no que diz respeito à autorização aos Estados-Membros para proibir a comercialização de materiais florestais de reprodução específicos junto do utilizador final** *Jornal Oficial nº L 242 de 10/09/2002 p. 0018 - 0020*\n\nRegulamento (CE) n.o 1602/2002 da Comissão\n\nde 9 de Setembro de 2002\n\nque estabelece as normas de execução da Directiva 1999/105/CE do Conselho no que diz respeito à autorização aos Estados-Membros para proibir a comercialização de materiais florestais de reprodução específicos junto do utilizador final\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 1999/105/CE do Conselho, de 22 de Dezembro de 1999, relativa à comercialização de materiais florestais de reprodução(1), e, nomeadamente, o n.o 3 do seu artigo 17.o,\n\nConsiderando o seguinte:\n\n(1) Em conformidade com o n.o 1 do artigo 17.o da Directiva 1999/105/CE, os Estados-Membros devem assegurar que os materiais florestais de reprodução colocados no mercado nos termos dessa directiva não sejam sujeitos a quaisquer restrições de comercialização não estabelecidas na mesma directiva no que diz respeito às suas características, às exigências quanto a exame e inspecção, à rotulagem e à selagem.\n\n(2) Os Estados-Membros podem, em certas circunstâncias, ser autorizados a proibir a comercialização junto do utilizador final, com vista à sementeira ou plantação, de materiais florestais de reprodução específicos inadequados para utilização nos seus territórios.\n\n(3) Essas autorizações devem ser concedidas apenas quando haja razões para crer que, devido às características fenotípicas ou genéticas desses materiais de reprodução, a sua utilização pode ter efeitos adversos sobre a silvicultura, o ambiente, os recursos genéticos ou a biodiversidade no território do Estado-Membro em causa.\n\n(4) A fim de permitir à Comissão decidir com pleno conhecimento de causa, o pedido de autorização deve ser acompanhado de provas e informações relacionadas com a região de proveniência ou origem dos materiais e de resultados de ensaios ou investigação científica ou resultados da prática silvícola. É necessário especificar quais são as informações exigidas.\n\n(5) A fim de auxiliar um Estado-Membro na preparação do seu pedido, os outros Estados-Membros devem fornecer, quando lhes seja pedido, todas as informações pertinentes sobre a região de proveniência ou de origem e as listas nacionais de materiais de base para produção de materiais florestais de reprodução.\n\n(6) Ao mesmo tempo, deve ser enviada, ao Estado-Membro em que se situa a região de proveniência ou de origem, uma cópia do pedido a fim de permitir a esse Estado-Membro informar a Comissão da sua posição.\n\n(7) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f597b834ed60e164": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Um Estado-Membro que deseje, nos termos do n.o 2 do artigo 17.o da Directiva 1999/105/CE, ser autorizado a proibir a comercialização de materiais florestais de reprodução específicos junto do utilizador final apresentará à Comissão um pedido no qual enunciará as razões pelas quais considera que são satisfeitos os critérios estabelecidos no n.o 2 do artigo 17.o O pedido deve ser acompanhado de todas as informações e documentos justificativos disponíveis, conforme estabelecido nos n.os 2 a 5.\n\n2. Devem ser fornecidos mapas e informações sobre a região de proveniência ou de origem dos materiais, juntamente com documentação que mostre as diferenças das respectivas características climáticas e ecológicas, conforme especificado no anexo.\n\n3. Devem ser fornecidos resultados de ensaios ou investigação científica ou resultados da prática silvícola que mostrem as razões pelas quais os materiais são inadequados para utilização na totalidade ou parte do território do Estado-Membro em que é proposta a sua proibição. Devem ser fornecidas informações sobre os ensaios, tais como o delineamento, o processo de avaliação e a análise dos dados. Os ensaios devem ter sido efectuados em tipos de estações representativos e de acordo com as exigências previstas no ponto 1 do anexo V da Directiva 1999/105/CE. Devem também ser fornecidas informações sobre as pessoas que realizaram os ensaios e comunicado se os resultados foram revistos por especialistas ou publicados.\n\n4. No que diz respeito aos resultados da investigação científica, devem ser fornecidas informações sobre o delineamento da investigação, a origem dos dados, o processo de avaliação e os resultados obtidos.\n\n5. No que diz respeito aos resultados da prática silvícola, devem ser fornecidas informações e documentação sobre a sobrevivência e o desenvolvimento dos materiais florestais de reprodução, incluindo o crescimento."
+  },
+  "98a817f72eb5b0fb": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nNo que diz respeito aos pedidos relativos à proibição da comercialização de materiais florestais de reprodução das categorias \"fonte identificada\" ou \"seleccionados\" obtidos de materiais de base aprovados sob a forma de arboretos ou povoamentos, os Estados-Membros que desejem proibir os materiais devem fornecer uma avaliação da sua inadequabilidade efectuada por referência à região de proveniência."
+  },
+  "af05679991b7627c": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nNo que diz respeito aos pedidos relativos à proibição da comercialização de materiais florestais de reprodução das categorias \"qualificados\" ou \"testados\" obtidos de materiais de base aprovados sob a forma de pomares de sementes, progenitores familiares, clones ou misturas clonais, os Estados-Membros que desejem proibir os materiais devem fornecer uma avaliação da sua inadequabilidade efectuada por referência às unidades de aprovação individuais.\n\nAlém das informações especificadas no artigo 10.o da Directiva 1999/105/CE, devem ser fornecidas, se solicitadas, as seguintes informações:\n\na) Os critérios de selecção utilizados para os componentes dos materiais de base;\n\nb) A composição dos materiais de base;\n\nc) A região ou regiões de proveniência em que foram seleccionados os componentes originais."
+  },
+  "eb640e4992c642b9": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Para auxiliar o Estado-Membro que prepara um pedido em conformidade com o artigo 1.o, os outros Estados-Membros fornecerão, a pedido daquele Estado-Membro, mapas e informações respeitantes às condições climáticas e ecológicas na região de proveniência dos materiais florestais de reprodução para os quais será pedida a autorização de proibição de comercialização junto do utilizador final.\n\n2. Ao mesmo tempo que for apresentado o pedido de autorização à Comissão, deve ser enviada uma sua cópia ao Estado-Membro em que se situa a região de proveniência ou de origem dos materiais a proibir.\n\n3. O Estado-Membro referido no n.o 2 disporá de três meses para estudar o pedido e informar a Comissão da sua posição. Caso se justifique, a Comissão pode, a pedido desse Estado-Membro, prolongar o período em questão."
+  },
+  "9b0a158e258e6f4f": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é aplicável a partir de 1 de Janeiro de 2003.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 9 de Setembro de 2002.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 11 de 15.1.2000, p. 17."
+  },
+  "833838021d28a40e": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nLista das informações que devem acompanhar os pedidos efectuados pelos Estados-Membros nos termos do n.o 2 do artigo 17.o da Directiva 1999/105/CE do Conselho\n\n1. Informações sobre a espécie que se desenvolve no território ou parte de território: indígena ou introduzida\n\n2. Mapas e referências da região de proveniência ou da unidade de aprovação dos materiais florestais de reprodução para os quais é efectuado o pedido\n\n3. Indicação do território ou parte de território para o qual é apresentado o pedido de proibição de comercialização dos materiais florestais de reprodução junto do utilizador final, com vista à sementeira ou à plantação\n\n4. Dados climáticos da região de proveniência ou da unidade de aprovação especificada no ponto 2 e do território ou parte de território especificado no ponto 3\n\na) Precipitação anual total (mm);\n\nb) Precipitação no período de crescimento (mm), incluindo os meses de ocorrência;\n\nc) Temperatura:\n\n- média anual, em °C,\n\n- média do mês mais frio, em °C,\n\n- média do mês mais quente, em °C;\n\nd) Duração do período de crescimento (dias com temperaturas superiores a 5°C ou outro parâmetro adequado).\n\n5. Dados ecológicos da região de proveniência ou da unidade de aprovação especificada no ponto 2 e do território ou parte de território especificado no ponto 3\n\na) Amplitude altitudinal;\n\nb) Principal ou principais formações geológicas;\n\nc) Principal ou principais tipos de solo."
+  }
+ }
+}

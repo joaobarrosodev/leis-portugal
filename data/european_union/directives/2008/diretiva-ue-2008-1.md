@@ -35,6 +35,45 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-06-25'
+version_history:
+  file: diretiva-ue-2008-1.versoes.json
+  count: 2
+  source_lastmod: '2009-06-25'
+  versions:
+  - date: '2008-01-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-06-25'
+    amending: eu:celex:32009L0031:por
+    amending_title: DIRECTIVA 2009/31/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 23 de
+      Abril de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Princípios gerais das obrigações fundamentais do operador
+    - Altera Artigo 4.º — Licenciamento de novas instalações
+    - Altera Artigo 6.º — Pedidos de licenciamento
+    - Altera Artigo 9.º — Condições de licenciamento
+    - Altera Artigo 15.º — Acesso à informação e participação do público no processo de licenciamento
+    - Altera Artigo 17.º — Intercâmbio de informações
+    - Altera Artigo 19.º — Valores-limite de emissão comunitários
+    - Altera Artigo 24.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita CATEGORIAS DE ACTIVIDADES INDUSTRIAIS REFERIDAS NO ARTIGO 1.º
+    - Adita ANEXO II
+    - Adita LISTA DAS DIRECTIVAS A QUE SE REFEREM OS N.^os^ 2 E 3 DO ARTIGO 19.º E O ARTIGO 20.º
+    - Adita ANEXO III
+    - Adita LISTA INDICATIVA DAS PRINCIPAIS SUBSTÂNCIAS POLUENTES A TER OBRIGATORIAMENTE EM CONTA SE FOREM PERTINENTES PARA
+      A FIXAÇÃO DOS VALORES-LIMITE DE EMISSÃO
+    - Adita Atmosfera
+    - Adita Água
+    - Adita ANEXO IV
+    - Adita ANEXO V
+    - Adita PARTICIPAÇÃO DO PÚBLICO NA TOMADA DE DECISÕES
+    - Adita ANEXO VI
+    - Adita ANEXO VII
 identifiers:
   celex: 32008L0001
   eli: http://data.europa.eu/eli/dir/2008/1/oj
@@ -49,7 +88,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/72d5da67-0af9-4aa9-911a-df3f940c1409.0018
   content_url: http://publications.europa.eu/resource/cellar/8d93f60d-8563-498f-899e-a2620527cb42.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0001-20090625
-  retrieved_at: '2026-10-22T02:39:45Z'
+  retrieved_at: '2026-10-22T15:12:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-31T03:56:22.763+01:00'
 integrity:
@@ -58,9 +97,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:45Z'
-  notes: Texto consolidado 02008L0001-20090625.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:12:31Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2008-1.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -228,29 +267,19 @@ relationships:
   source: null
 article_structure:
   article_count: 24
-  section_count: 13
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 14
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:45Z'
+  checked_at: '2026-10-22T15:12:31Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2008/1/CE do Parlamento Europeu e do Conselho, de 15 de Janeiro de 2008
-
-> 2008L0001 — PT — 25.06.2009 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009L0031) — [DIRECTIVA 2009/31/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 23 de Abril de 2009](http://publications.europa.eu/resource/celex/32009L0031) — L 140 — 114 — 5.6.2009
-
-## DIRECTIVA 2008/1/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de Janeiro de 2008
 

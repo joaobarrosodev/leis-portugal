@@ -1,0 +1,129 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31978L0549:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01978L0549-20141101",
+ "dre_path": null,
+ "source_lastmod": "2014-11-01",
+ "versions": [
+  {
+   "date": "1978-06-26",
+   "future": false,
+   "celex": "31978L0549",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "472d0c83f45e7d97",
+    "a834846cadc510d1",
+    "ce148541dd3c531e",
+    "552bb28db94bf27c",
+    "772f7d8b23489128",
+    "917f65a0113a8c7d",
+    "e2029e832739bcfc",
+    "9ac70b8af8dc4567",
+    "12a5af7f1bb3eec8"
+   ]
+  },
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "celex": "01978L0549-20141101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II — MODELO"
+   ],
+   "fragments": [
+    "9d2308ae0aa17d6d"
+   ]
+  }
+ ],
+ "fragments": {
+  "472d0c83f45e7d97": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 78/549/CEE do Conselho, de 12 de Junho de 1978, relativa à aproximação das legislações dos Estados-Membros respeitantes ao recobrimento das rodas dos veículos a motor** *Jornal Oficial nº L 168 de 26/06/1978 p. 0045 - 0050 Edição especial finlandesa: Capítulo 13 Fascículo 8 p. 0145 Edição especial grega: Capítulo 13 Fascículo 7 p. 0130 Edição especial sueca: Capítulo 13 Fascículo 8 p. 0145 Edição especial espanhola: Capítulo 13 Fascículo 8 p. 0195 Edição especial portuguesa: Capítulo 13 Fascículo 8 p. 0195*\n\nDIRECTIVA DO CONSELHO de 12 de Junho de 1978 relativa à aproximação das legislações dos Estados-membros respeitantes ao recobrimento das rodas dos veículos a motor\n\n(78/549/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que as prescrições técnicas exigidas para os veículos a motor pelas legislações nacionais respeitam, nomeadamente, ao recobrimento das rodas dos veículos a motor;\n\nConsiderando que essas prescrições diferem de um Estado-membro para outro; que daí resulta a necessidade de que sejam adoptadas as mesmas prescrições por todos os Estados-membros, quer em complemento, quer em substituição das suas regulamentações actuais, tendo em vista nomeadamente permitir a aplicação, para cada modelo de veículo, do processo de recepção CEE que é objecto da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques (3), com a última redacção que lhe foi dada pela Directiva 78/547/CEE (4);\n\nConsiderando que a aproximação das legislações nacionais respeitantes aos veículos a motor implica um reconhecimento recíproco pelos Estados-membros dos controlos efectuados por cada um deles com base nas prescrições comuns,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "a834846cadc510d1": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nPara efeitos do disposto na presente directiva, entende-se por veículo qualquer veículo a motor da categoria M1, definida no Anexo I da Directiva 70/156/CEE, destinado transitar na estrada, tendo pelo menos quatro rodas e uma velocidade máxima, por construção, superior a 25 quilómetros por hora."
+  },
+  "ce148541dd3c531e": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros não podem recusar a recepção CEE nem a recepção de âmbito nacional de um veículo por motivos relacionados com o recobrimento das rodas se este corresponder às prescrições do Anexo I."
+  },
+  "552bb28db94bf27c": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros não podem recusar ou proibir a venda, a matrícula, a entrada em circulação ou a utilização dos veículos por motivos relacionados com o recobrimento das rodas se este corresponder às prescrições do Anexo I."
+  },
+  "772f7d8b23489128": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nAs alterações necessárias para adaptar ao progresso técnico as prescrições dos anexos serão adoptadas em conformidade com o procedimento previsto no artigo 13o da Directiva 70/156/CEE."
+  },
+  "917f65a0113a8c7d": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os Estados-membros porão em vigor as disposições necessárias para darem cumprimento à presente directiva no prazo de dezoito meses a contar da sua notificação e desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros devem assegurar que a Comissão seja informada do texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "e2029e832739bcfc": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo em 12 de Junho de 1978.\n\nPelo Conselho\n\nO Presidente\n\nK. OLESEN\n\n(1) JO no C 118 de 16. 5. 1977, p. 29.(2) JO no C 114 de 11. 5. 1977, p. 6.(3) JO no L 42 de 23. 2. 1970, p. 1.(4) JO no L 168 de 26. 6. 1978, p. 39."
+  },
+  "9ac70b8af8dc4567": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n1. PRESCRIÇÕES GERAIS\n\n1.1. Os veículos devem estar equipadas com elementos que recubram as rodas (partes da carroçaria, guarda-lamas, etc.)\n\n1.2. Os elementos de recobrimento das rodas devem ser concebidos de modo a proteger, na medida do possível, os outros utentes da estrada contra as projecções de pedras, lama, gelo, neve e água, bem como de modo a reduzir, para os referidos utentes, os perigos originados pelo contacto com as rodas em movimento.\n\n2. PRESCRIÇÕES ESPECIAIS\n\n2.1. Quando a veículo estiver em ordem de marcha (ver ponto 2.6 do Anexo I da Directiva 70/156/CEE) e as rodas estiverem paralelas ao eixo longitudinal do veículo, os elementos de recobrimento das rodas devem statisfazer as condições a seguir referidas:\n\n2.1.1. Na parte delimitada pelos planos radiais que formam um ângulo de 30 ° para a frente e de 50 ° para trás do centro da roda (ver figura 1), a largura total (q) dos elementos que recobrem a roda deve ser pelo menos suficiente para cobrir a largura (b) do pneumático, tendo em conta as condições extremas da combinação pneumático/roda, tal como são especificadas pelo fabricante e indicadas no ponto 5.2 da comunicação prevista no Anexo II. No caso de rodas duplas, deve ser tomada em consideração a largura total (t) dos dois pneumáticos.\n\n2.1.1.1. Para a determinação das larguras referidas no ponto 2.1.1, as inscrições, decorações, bandas ou nervuras de protecção das partes laterais dos pneumáticos não são consideradas.\n\n2.1.2. A parte de trás dos elementos de recobrimento das rodas não deve ultrapassar um plano horizontal situado 150 milímetros acima do eixo de rotação das rodas (distância medida em relação ao eixo que passa pelo centro das rodas) e, além disso, a intersecção do bordo do elemento que recobre as rodas com esse plano (ponto A da figura 1) deve situar-se no exterior do plano longitudinal médio do pneumático ou, no caso de rodas duplas, no exterior do plano longitudinal médio do pneumático exterior.\n\n2.1.3. O contorno e a posição dos elementos que recobrem as rodas devem ser tais que esses elementos se encontrem tão perto quanto possível do pneumático e, em particular, no interior da parte delimitada pelos planos radiais referidos no ponto 2.1.1, devendo o contorno e a posição satisfazer as seguintes condições:\n\n2.1.3.1. A projecção - situada no plano vertical axial do pneumático - da profundidade (p) dos bordos exteriores dos elementos que recobrem as rodas, medida no plano vertical longitudinal que passa pelo centro do pneumático, deve ser pelo menos 30 milímetros. Esta profundidade (p) pode ser progressivamente levada a zero nos planos radiais referidos no ponto 2.1.1.\n\n2.1.3.2. A distância (c) entre os bordos inferiores dos elementos que recobrem as rodas e o eixo que passa pelo centro das rodas não deve ultrapassar 2 x r, sendo «r» o raio estático do pneumático.\n\n2.1.4. No caso dos veículos cuja suspensão for regulável em altura, as condições acima referidas devem ser satisfeitas na posição normal de marcha especificada pelo fabricante do veículo.\n\n2.2. Os elementos que recobrem as rodas podem ser compostos por várias partes desde que não haja espaço livre entre estas nem no interior de cada uma delas quando estiverem agrupadas.\n\n2.3. Os elementos que recobrem as rodas devem estar solidamente fixados. Podem, contudo, ser desmontáveis no seu todo ou em parte.\n\n3. UTILIZAÇÃO DE CORRENTES\n\n3.1. O fabricante deve assegurar que o veículo esteja concebido de modo a que pelo menos um tipo de correntes possa ser utilizado pelo menos num dos tipos de pneumáticos aprovados para as rodas motoras desse modelo de veículo. Uma combinação adequada corrente/pneumático para o veículo deverá ser especificada pelo fabricante e indicada no ponto 5.1 da comunicação prevista no Anexo II.\n\n4. PEDIDO DE RECEPÇÃO CEE\n\n4.1. O pedido de recepção CEE de um modelo de veículo no que diz respeito ao recobrimento das rodas será apresentado pelo fabricante do veículo ou pelo seu mandatário.\n\n4.2. Será acompanhado pelos documentos, em triplicado, e pelas indicações seguintes:\n\n4.2.1. - Descrição detalhada do modelo de veículo no que diz respeito ao recobrimento das rodas.\n\n4.2.2. - Desenhos detalhados dos elementos que recobrem as rodas e sua posição no veículo.\n\n4.3. Um veículo representativo do modelo de veículo a recepcionar deve ser apresentado ao serviço técnico encarregado dos ensaios de recepção.\n\nFigura 1\n\n(1) A medição é feita na parte alta do pneumático."
+  },
+  "12a5af7f1bb3eec8": {
+   "fragment_id": "ANEXO II — MODELO",
+   "type": "divisao",
+   "heading": "ANEXO II — MODELO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — MODELO\n\n(Formato máximo: A4 (210 × 297 mm))\n\nDenominação da autoridade administrativa\n\nANEXO DA FICHA DE RECEPÇÃO CEE DE UM MODELO DE VEICULO NO QUE DIZ RESPEITO AO RECOBRIMENTO DAS RODAS\n\n(no 2, artigo 4o e artigo 10o da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação de legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques)\n\nNo de recepção CEE...\n\n1. Marca de fábrica ou comercial do veículo...\n\n2. Modelo de veículo...\n\n3. Nome e morada do fabricante...\n\n4. Se for caso disso, nome e morada do mandatário...\n\n5. Descrição sumária do modelo de veículo no que diz respeito ao recobrimento das rodas...\n\n5.1. Combinação correntes/pneumático adequada ao modelo de veículo indicado pelo fabricante...\n\n5.2. Combinação pneumático/roda indicada pelo fabricante...\n\n6. Veículo apresentado à recepção, em...\n\n7. Serviço técnico encarregado das verificações para a recepção...\n\n8. Data do relatório emitido por esse serviço...\n\n9. No do relatório emitido por esse serviço...\n\n10. A recepção no que diz respeito ao recobrimento das rodas é concedida/recusada (1)...\n\n11. Local...\n\n12. Data...\n\n13. Assinatura...\n\n14. Os seguintes documentos, contendo o número de recepção acima indicado, são anexados à presente comunicação: uma descrição detalhada e um esquema do conjunto dos elementos de recobrimento das rodas bem como das partes do veículo que apresentem interesse no âmbito da presente directiva.\n\n15. Observações eventuais...\n\n(1) Riscar o que não interessa."
+  },
+  "9d2308ae0aa17d6d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1978L0549 — PT — 01.11.2014 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31978L0549) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31978L0549) [de 12 de Junho de 1978](http://publications.europa.eu/resource/celex/31978L0549) [relativa à aproximação das legislações dos Estados-membros respeitantes ao recobrimento das rodas dos veículos a motor](http://publications.europa.eu/resource/celex/31978L0549) [(78/549/CEE)](http://publications.europa.eu/resource/celex/31978L0549) (JO L 168, 26.6.1978, p.45)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 661/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0661) — L 200 — 1 — 31.7.2009"
+  }
+ }
+}

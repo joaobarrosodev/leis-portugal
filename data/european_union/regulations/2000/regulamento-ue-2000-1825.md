@@ -35,6 +35,32 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-03-23'
+version_history:
+  file: regulamento-ue-2000-1825.versoes.json
+  count: 2
+  source_lastmod: '2007-03-23'
+  versions:
+  - date: '2000-08-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-03-23'
+    amending: eu:celex:32007R0275:por
+    amending_title: REGULAMENTO (CE) N. o 275/2007 DA COMISSÃO de 15 de Março de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Rotulagem quando não estiverem disponíveis informações
+    - Altera Artigo 5.º — Carne picada
+    - Altera Artigo 14.º — Entrada em vigor
+    - Adita Artigo 1.º-A — Definições
+    - Adita Artigo 4.º — Dimensão e composição de um grupo
+    - Adita Artigo 5.º-A — Aparas
+    - Adita Artigo 5.º-B — Carne cortada pré-embalada
+    - Adita Artigo 5.º-C — Carne cortada não pré-embalada
+    - Adita ANEXO
+    - Adita Notas
+    - Suprime Artigo 4.º — Dimensão de um grupo
+    - Suprime ANEXO — Quadro de correspondência
 identifiers:
   celex: 32000R1825
   eli: http://data.europa.eu/eli/reg/2000/1825/oj
@@ -49,7 +75,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c260aaff-d94d-4cab-8da8-5e640a11bc3d.0009
   content_url: http://publications.europa.eu/resource/cellar/0eada53a-5df5-4218-af6f-a378d8728d1b.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R1825-20070323
-  retrieved_at: '2026-10-22T02:57:00Z'
+  retrieved_at: '2026-10-22T14:49:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T21:03:37.252+01:00'
 integrity:
@@ -58,9 +84,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:00Z'
-  notes: Texto consolidado 02000R1825-20070323.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:29Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2000-1825.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -120,29 +146,19 @@ relationships:
   date: '1997-06-25'
 article_structure:
   article_count: 18
-  section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 2
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:00Z'
+  checked_at: '2026-10-22T14:49:29Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n° 1825/2000 da Comissão, de 25 de Agosto de 2000
-
-> 2000R1825 — PT — 23.03.2007 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007R0275) — [REGULAMENTO (CE) N.º 275/2007 DA COMISSÃO de 15 de Março de 2007](http://publications.europa.eu/resource/celex/32007R0275) — L 76 — 12 — 16.3.2007
-
-## REGULAMENTO (CE) N.º 1825/2000 DA COMISSÃO
 
 de 25 de Agosto de 2000
 

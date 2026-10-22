@@ -41,6 +41,62 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-04-20'
+version_history:
+  file: regulamento-ue-2004-725.versoes.json
+  count: 2
+  source_lastmod: '2009-04-20'
+  versions:
+  - date: '2004-04-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-04-20'
+    amending: eu:celex:32009D0083:por
+    amending_title: DECISÃO DA COMISSÃO de 23 de Janeiro de 2009; REGULAMENTO (CE) n. o 219/2009 DO PARLAMENTO EUROPEU E DO
+      CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Medidas comuns e âmbito de aplicação
+    - Altera Artigo 10.º — Integração das alterações aos instrumentos internacionais
+    - Altera Artigo 12.º — Confidencialidade
+    - Altera Artigo 13.º — Divulgação de informações
+    - Altera Artigo 15.º — Entrada em vigor
+    - Altera PARTE A
+    - Adita Artigo 11.º
+    - Adita ANEXO I
+    - Adita ALTERAÇÕES AO ANEXO DA CONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA VIDA HUMANA NO MAR DE 1974, (VERSÃO ALTERADA)
+    - Adita «CAPÍTULO XI-2 MEDIDAS ESPECIAIS PARA REFORÇAR A PROTECÇÃO DO TRANSPORTE MARÍTIMO
+    - Adita Regra 1 Definições
+    - Adita Regra 2 Aplicação
+    - Adita Regra 3 Obrigações dos Governos Contratantes no que respeita à protecção
+    - Adita Regra 4 Prescrições aplicáveis às companhias e aos navios
+    - Adita Regra 5 Responsabilidades específicas das companhias
+    - Adita Regra 6 Sistema de alerta de protecção do navio
+    - Adita Regra 7 Ameaças aos navios
+    - Adita Regra 8 Poder discricionário do comandante em matéria de segurança operacional e protecção do navio
+    - Adita Regra 9 Medidas de controlo e execução
+    - Adita Regra 10 Prescrições aplicáveis às instalações portuárias
+    - Adita Regra 11 Convénios de protecção alternativos
+    - Adita Regra 12 Disposições de protecção equivalentes
+    - Adita Regra 13 Comunicação de informações
+    - Adita ANEXO II
+    - Adita «CÓDIGO INTERNACIONAL DE PROTECÇÃO DOS NAVIOS E DAS INSTALAÇÕES PORTUÁRIAS
+    - Adita PREÂMBULO
+    - Adita PRESCRIÇÕES OBRIGATÓRIAS NO ÂMBITO DAS DISPOSIÇÕES DO CAPÍTULO XI-2 DO ANEXO DA CONVENÇÃO INTERNACIONAL PARA A
+      SALVAGUARDA DA VIDA HUMANA NO MAR DE 1974, TAL COMO ALTERADA
+    - Adita Apêndice da parte A
+    - Adita APÊNDICE 1
+    - Adita APÊNDICE 2
+    - Adita ANEXO III
+    - Adita «PARTE B
+    - Adita ORIENTAÇÕES RELATIVAS ÀS DISPOSIÇÕES DO CAPÍTULO XI-2 DO ANEXO DA CONVENÇÃO INTERNACIONAL PARA A SALVAGUARDA DA
+      VIDA HUMANA NO MAR DE 1974, TAL COMO ALTERADA, E DA PARTE A DO PRESENTE CÓDIGO
+    - Adita 1. INTRODUÇÃO
+    - Adita 2. DEFINIÇÕES
+    - Adita 3. APLICAÇÃO
+    - Adita 4. RESPONSABILIDADES DOS GOVERNOS CONTRATANTES
+    - Adita 5. DECLARAÇÃO DE PROTECÇÃO
+    - Adita 6. OBRIGAÇÕES DA COMPANHIA
 identifiers:
   celex: 32004R0725
   eli: http://data.europa.eu/eli/reg/2004/725/oj
@@ -55,7 +111,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ca13ae8e-0bd4-423b-bb7a-c930309a010b.0010
   content_url: http://publications.europa.eu/resource/cellar/eeccddc7-070a-473c-9c21-3740d61fe1bd.0018.04/DOC_11
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0725-20090420
-  retrieved_at: '2026-10-22T02:38:42Z'
+  retrieved_at: '2026-10-22T14:57:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-31T06:58:26.134+01:00'
 integrity:
@@ -64,9 +120,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:42Z'
-  notes: Texto consolidado 02004R0725-20090420.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:47Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2004-725.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -194,34 +250,21 @@ relationships:
   date: '2026-07-16'
 article_structure:
   article_count: 15
-  section_count: 49
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 50
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:42Z'
-  warnings: []
+  checked_at: '2026-10-22T14:57:47Z'
+  warnings:
+  - '02004R0725-20040519: versão indisponível (Sem expressão na língua por para CELEX 02004R0725-20040519.)'
+  - '02004R0725-20090131: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 725/2004 do Parlamento Europeu e do Conselho, de 31 de Março de 2004
-
-> 02004R0725 — PT — 20.04.2009 — 002.006
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009D0083) — [DECISÃO DA COMISSÃO de 23 de Janeiro de 2009](http://publications.europa.eu/resource/celex/32009D0083) — L 29 — 53 — 31.1.2009
-- [►M2](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) n.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32004R0725R%2804%29) — [Rectificação, JO L 90571, 16.7.2026, p. 1 (n.o 725/2004)](http://publications.europa.eu/resource/celex/32004R0725R%2804%29)
-
-## REGULAMENTO (CE) N.º 725/2004 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 31 de Março de 2004
 

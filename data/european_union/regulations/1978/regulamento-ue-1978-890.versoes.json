@@ -1,0 +1,770 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31978R0890:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01978R0890-20070401",
+ "dre_path": null,
+ "source_lastmod": "2007-04-01",
+ "versions": [
+  {
+   "date": "1978-04-29",
+   "future": false,
+   "celex": "31978R0890",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6d44a7a2eea1f3ed",
+    "ab024eea0acf4a82",
+    "748c5a579dc5a161",
+    "63792b6027d18f03",
+    "3cf2be971c13a0b3",
+    "bf8f27471a3d7d09",
+    "491b8e519127ef7e",
+    "c1b18a92452a0154",
+    "6b58d8e1213d3d1e",
+    "ed9160d1ccef8918",
+    "e16ecc53f3eab890",
+    "84b81d6a8431f3a9",
+    "21e9ca8ae864a9ee",
+    "ce73b2eb41f70740",
+    "7c4ac72858991846",
+    "97d611e93ea721af",
+    "dd05befdce24deb2"
+   ]
+  },
+  {
+   "date": "2004-12-18",
+   "future": false,
+   "celex": "01978R0890-20041218",
+   "acts": [
+    {
+     "id": "eu:celex:31979R1465:por",
+     "title": "REGULAMENTO (CEE) N. o 890/78 DA COMISSÃO de 28 de Abril de 1978",
+     "published": null,
+     "celex": "31979R1465"
+    },
+    {
+     "id": "eu:celex:31980R3479:por",
+     "title": "M2",
+     "published": null,
+     "celex": "31980R3479"
+    },
+    {
+     "id": "eu:celex:31983R1979:por",
+     "title": "M3",
+     "published": null,
+     "celex": "31983R1979"
+    },
+    {
+     "id": "eu:celex:31985R2600:por",
+     "title": "REGULAMENTO (CEE) N. o 2600/85 DA COMISSÃO de 16 de Setembro de 1985",
+     "published": null,
+     "celex": "31985R2600"
+    },
+    {
+     "id": "eu:celex:31985R3589:por",
+     "title": "M5",
+     "published": null,
+     "celex": "31985R3589"
+    },
+    {
+     "id": "eu:celex:31988R3994:por",
+     "title": "REGULAMENTO (CEE) N. o 3994/88 DA COMISSÃO de 21 de Dezembro de 1988",
+     "published": null,
+     "celex": "31988R3994"
+    },
+    {
+     "id": "eu:celex:31989R0921:por",
+     "title": "REGULAMENTO (CEE) N. o 921/89 DA COMISSÃO de 10 de Abril de 1989",
+     "published": null,
+     "celex": "31989R0921"
+    },
+    {
+     "id": "eu:celex:31991R2265:por",
+     "title": "REGULAMENTO (CEE) N. o 2265/91 DA COMISSÃO de 26 de Julho de 1991",
+     "published": null,
+     "celex": "31991R2265"
+    },
+    {
+     "id": "eu:celex:31993R2928:por",
+     "title": "REGULAMENTO (CEE) N. o 2928/93 DA COMISSÃO de 25 de Outubro de 1993",
+     "published": null,
+     "celex": "31993R2928"
+    },
+    {
+     "id": "eu:celex:31994R0852:por",
+     "title": "REGULAMENTO (CE) N. o 852/94 DA COMISSÃO de 15 de Abril de 1994",
+     "published": null,
+     "celex": "31994R0852"
+    },
+    {
+     "id": "eu:celex:31995R1021:por",
+     "title": "REGULAMENTO (CE) N. o 1021/95 DA COMISSÃO de 5 de Maio de 1995",
+     "published": null,
+     "celex": "31995R1021"
+    },
+    {
+     "id": "eu:celex:32004R2125:por",
+     "title": "REGULAMENTO (CE) N. o 2125/2004 DA COMISSÃO de 14 de Dezembro de 2004",
+     "published": null,
+     "celex": "32004R2125"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Grécia",
+     "published": null,
+     "celex": "11979H"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 5.ºA",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 8.ºA",
+    "Adita Artigo 9.º",
+    "Adita Artigo 9.ºA",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita ANEXO I",
+    "Adita EXIGÊNCIAS MÍNIMAS DE COMERCIALIZAÇÃO DO LÚPULO EM CONES",
+    "Adita ANEXO II",
+    "Adita A. MÉTODO DE AMOSTRAGEM",
+    "Adita 1. Tomada de amostra",
+    "Adita 2. Mistura",
+    "Adita 3. Sub-amostragem",
+    "Adita B. MÉTODO DE CONTROLO DA TAXA DE HUMIDADE DO LÚPULO",
+    "Adita 1. Método (i)",
+    "Adita 2. Método (ii)",
+    "Adita C. MÉTODO DE CONTROLO DO TEOR EM CORPOS ESTRANHOS",
+    "Adita 1. Determinação das proporções de folhas, de pés e de detritos de lúpulo",
+    "Adita 2. Determinação da proporçãao de grânulos (sementes)",
+    "Adita ANEXO II A",
+    "Adita INDICAÇÕES REFERIDAS NO ARTIGO 5.º A",
+    "Adita ANEXO III",
+    "Adita CODIFICAÇÃO E ORDEM DE COMPOSIÇÃO DO NÚMERO DE REFERÊNCIA DE CERTIFICAÇÃO",
+    "Adita 1. Centro de certificação",
+    "Adita 2. Estados-Membros que procedem à certificação",
+    "Adita 3. Ano de colheita",
+    "Adita 4. Identificação do lote",
+    "Adita ANEXO IV",
+    "Adita MARCAÇÃO DAS EMBALAGENS",
+    "Adita ANEXO V",
+    "Adita ANEXO VI",
+    "Adita PRODUTOS ISOMERIZADOS DE LÚPULO JÁ COMERCIALIZADOS OU EM VIAS DE COMERCIALIZAÇÃO — NOVEMBRO DE 1992",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime ANEXO I — EXIGÊNCIAS MÍNIMAS DE COMERCIALIZAÇÃO DO LÚPULO EM CONES",
+    "Suprime ANEXO II — A. MÉTODO DE AMOSTRAGEM",
+    "Suprime ANEXO III — CODIFICAÇÃO E ORDEM DE COMPOSIÇÃO DO NÚMERO DE REFERÊNCIA DE CERTIFICAÇÃO",
+    "Suprime ANEXO IV — MARCAÇÃO DAS EMBALAGENS"
+   ],
+   "fragments": [
+    "66052f444ee44f03",
+    "5cf2095b2553b6d6",
+    "f0fc67d82e6d136f",
+    "c00833c2681a5a70",
+    "950157fd9e4d3377",
+    "4bfc5dbbed532437",
+    "0ec05784ffc2ddc7",
+    "a6bec8d4e3adc1e7",
+    "89e40e3be64f2c5d",
+    "595355b90ddb7b82",
+    "d982883404e09bed",
+    "3e727d13389cb2c0",
+    "36870ad16c4284e4",
+    "a33999dfa384b68c",
+    "b30d61b052056e4b",
+    "f820f087bfd408b7",
+    "d664376e2a8dcecd",
+    "84ba670ca5375351",
+    "852174729551523b",
+    "555df51c009d3571",
+    "3aeead3437762abd",
+    "6d49f1cee7548046",
+    "ce2de8697bf1da87",
+    "4024cfca3ec8adba",
+    "3e224901a73610cc",
+    "67b951ec129244cf",
+    "5038d1509e8be4d0",
+    "5cbc16eccad88194",
+    "9d199181246efcb2",
+    "5fc95b8f64e8782f",
+    "c0299d5c3c97069e",
+    "720af75c92791b10",
+    "fbd09a62599a2484",
+    "8659cbaca978e8ee",
+    "dc44191d541f5e97",
+    "6efb9e7128971433",
+    "d6e2f629f3cb15a9",
+    "e03a0eb4d5b2eef3",
+    "9a38c8312be68945",
+    "c553c7de8766494e",
+    "90c7d2baf4d44ee2",
+    "1e8e7c768b70e572",
+    "3d37bebe420b4ef8"
+   ]
+  },
+  {
+   "date": "2007-04-01",
+   "future": false,
+   "celex": "01978R0890-20070401",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 5.ºA",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 8.ºA",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 9.ºA",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime ANEXO I",
+    "Suprime EXIGÊNCIAS MÍNIMAS DE COMERCIALIZAÇÃO DO LÚPULO EM CONES",
+    "Suprime ANEXO II",
+    "Suprime A. MÉTODO DE AMOSTRAGEM",
+    "Suprime 1. Tomada de amostra",
+    "Suprime 2. Mistura",
+    "Suprime 3. Sub-amostragem",
+    "Suprime B. MÉTODO DE CONTROLO DA TAXA DE HUMIDADE DO LÚPULO",
+    "Suprime 1. Método (i)",
+    "Suprime 2. Método (ii)",
+    "Suprime C. MÉTODO DE CONTROLO DO TEOR EM CORPOS ESTRANHOS",
+    "Suprime 1. Determinação das proporções de folhas, de pés e de detritos de lúpulo",
+    "Suprime 2. Determinação da proporçãao de grânulos (sementes)",
+    "Suprime ANEXO II A",
+    "Suprime INDICAÇÕES REFERIDAS NO ARTIGO 5.º A",
+    "Suprime ANEXO III",
+    "Suprime CODIFICAÇÃO E ORDEM DE COMPOSIÇÃO DO NÚMERO DE REFERÊNCIA DE CERTIFICAÇÃO",
+    "Suprime 1. Centro de certificação",
+    "Suprime 2. Estados-Membros que procedem à certificação",
+    "Suprime 3. Ano de colheita",
+    "Suprime 4. Identificação do lote",
+    "Suprime ANEXO IV",
+    "Suprime MARCAÇÃO DAS EMBALAGENS",
+    "Suprime ANEXO V",
+    "Suprime ANEXO VI",
+    "Suprime PRODUTOS ISOMERIZADOS DE LÚPULO JÁ COMERCIALIZADOS OU EM VIAS DE COMERCIALIZAÇÃO — NOVEMBRO DE 1992",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "fe386022b6c37c2c"
+   ]
+  }
+ ],
+ "fragments": {
+  "6d44a7a2eea1f3ed": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 890/78 da Comissão, de 28 de Abril de 1978, relativo às modalidades de certificação do lúpulo** *Jornal Oficial nº L 117 de 29/04/1978 p. 0043 - 0049 Edição especial finlandesa: Capítulo 3 Fascículo 9 p. 0224 Edição especial grega: Capítulo 03 Fascículo 21 p. 0013 Edição especial sueca: Capítulo 3 Fascículo 9 p. 0224 Edição especial espanhola: Capítulo 03 Fascículo 14 p. 0017 Edição especial portuguesa: Capítulo 03 Fascículo 14 p. 0017*\n\nREGULAMENTO (CEE) No 890/78 DA COMISSÃO de 28 de Abril de 1978 relativo às modalidades de certificação do lúpulo\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) no 1696/71 do Conselho, de 26 de Julho de 1971, que estabelece a organização comum de mercado no sector do lúpulo (1), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 1170/77 (2) e, nomeadamente o no 5 do seu artigo 2o,\n\nConsiderando que o Regulamento (CEE) no 1784/77 do Conselho de 19 de Julho de 1977 (3) estabeleceu as regras gerais para a certificação do lúpulo;\n\nConsiderando que, para assegurar uma aplicação uniforme do processo de certificação nos Estados-membros, convém definir os produtos que estão sujeitos a esse processo, as operações envolvidas e as indicações que devem constar nos vários documentos que acompanham os referidos produtos;\n\nConsiderando que é oportuno, para controlo do lúpulo em cones, que a certificação seja acompanhada de uma declaração assinada pelo produtor individual ou associado; que este documento deve incluir indicações que permitam a identificação do lúpulo desde a sua apresentação para certificação até à emissão do certificado;\n\nConsiderando que, para a determinação das características qualitativas que deve apresentar o lúpulo admitido à comercialização, convém ter em conta o teor de humidade e de corpos estranhos; que dada a reputação de qualidade adquirida pelo lúpulo comunitário é necessário ter em consideração os hábitos correntes nas transacções comerciais;\n\nConsiderando que convém deixar aos Estados-membros a escolha do método de controlo da humidade do lúpulo; que no entanto é conveniente que com estes métodos se obtenham resultados comparáveis; que em caso de contestação, é necessário utilizar um método comunitário;\n\nConsiderando que, para ter em conta os usos comerciais correntes em certas regiões da Comunidade, é conveniente definir o lúpulo comercializado com ou sem sementes e prever a sua indicação no certificado;\n\nConsiderando que, para assegurar aos utilizadores uma informação exacta sobre a origem e as características dos produtos comercializados, é conveniente estabelecer as regras comuns para rotulação das embalagens e a numeração de referência dos certificados;\n\nConsiderando que convém prever que a certificação do lúpulo preparado a partir do lúpulo certificado não preparado só pode realizar-se se a preparação tiver lugar em circuito fechado de operação; que no entanto, se estas operações se realizarem em centros ou entrepostos de certificação, é oportuno simplificar o processo de certificação subsequente;\n\nConsiderando que quando a substituição da embalagem de um produto é feita sob controlo oficial e sem transformação, é também conveniente simplificar o processo de certificação subsequente;\n\nConsiderando que o Regulamento (CEE) no 1784/77 prevê no no 1, segundo parágrafo, do seu artigo 1o, que os produtos isentos de certificação devem ser sujeitos a um controlo; que este controlo deve assegurar que esses produtos, por um lado, não podem perturbar o circuito normal de comercialização dos produtos certificados e por outro estão conformes com o fim a que se destinam e são utilizados apenas pelos seus destinatários;\n\nConsiderando que convém encarregar deste controlo os organismos que asseguram a certificação;\n\nConsiderando que as medidas previstas no presente regulamento estão conformes com o parecer do Comité de Gestão do Lúpulo,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ab024eea0acf4a82": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nNa acepção do presente regulamento, entende-se por:\n\na) «Lúpulo não preparado» o lúpulo que sofreu apenas as operações de primeira secagem e primeira embalagem;\n\nb) «Lúpulo preparado» o lúpulo que sofreu, entre outras, as operações de secagem final e embalagem final;\n\nc) «Lúpulo com sementes» o lúpulo que contém sementes numa proporção superior a 2 % do seu peso;\n\nd) «Lúpulo sem sementes» o lúpulo que contém sementes numa proporção não superior a 2 % do seu peso;\n\ne) «Extracto isomerizado de lúpulo» um extracto em que os ácidos alfa sofreram uma isomerização quase total;\n\nf) «Selagem das embalagens» fecho da embalagem sob controlo oficial de forma a que o selo fique inutilizado no acto da abertura;\n\ng) «Circuito fechado de operação» um processo de preparação ou de transformação do lúpulo efectuado sob controlo oficial para assegurar que será utilizada uma única entrada para os produtos originais e uma única saída para os produtos preparados ou transformados, sem possibilidade de juntar ou retirar lúpulo ou produtos derivados durante a operação;\n\nh) «Lote» um número de embalagens de lúpulo ou de produtos derivados com as mesmas características apresentados simultaneamente à certificação pelo mesmo produtor individual ou associado ou pelo mesmo transformador."
+  },
+  "748c5a579dc5a161": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Todos os lotes de lúpulo em cones apresentados para certificação devem ser acompanhados de uma declaração, assinada pelo produtor, que inclua:\n\n- nome e morada do produtor,\n\n- ano de colheita,\n\n- variedade,\n\n- local de produção,\n\n- registo cadastral ou indicação oficial equivalente,\n\n- número de volumes que compõem o lote.\n\n2. Essa declaração acompanha o lote de lúpulo durante todas as operações de preparação ou de mistura e em todo o caso até à emissão do certificado."
+  },
+  "63792b6027d18f03": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Para o lúpulo em cones, só pode ser apresentado para certificação o lúpulo correspondente à definição do no 3, alínea a), do artigo 1o do Regulamento (CEE) no 1696/71 e às exigências mínimas de comercialização fixadas no Anexo I do presente regulamento.\n\n2. O cumprimento das exigências mínimas de comercialização em relação à taxa de humidade do lúpulo é controlado segundo um dos métodos referidos no Anexo II, secção B. No entanto os métodos referidos no Anexo II, secção B, ponto 2 devem ser visados pelo organismo de controlo e devem obter-se resultados cujo desvio padrão não exceda 2,0. Em casa de contestação, o controlo será efectuado segundo o método referido no Anexo II, secção B, ponto 1.\n\nOs Estados-membros comunicam à Comissão os métodos utilizados.\n\n3. O cumprimento das exigências mínimas de comercialização, com exclusão da taxa de humidade, é controlado segundo os usos comerciais correntes. No entanto, em caso de contestação, o controlo efectua-se segundo o método referido no Anexo II, secção C."
+  },
+  "3cf2be971c13a0b3": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nPara a aplicação dos métodos de controlo referidos no artigo 3o e inseridos no ponto I, secção B, do Anexo II e na secção C, do Anexo II, a recolha de amostras efectua-se do seguinte modo:\n\na) Em cada lote a amostra é retirada de pelo menos um volume em cada 10 e em todo o caso de pelo menos 2 volumes num mesmo lote;\n\nb) Procede-se à recolha e ao tratamento das amostras segundo o método descrito na secção A do Anexo II."
+  },
+  "bf8f27471a3d7d09": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nO certificado referido no artigo 5o do Regulamento (CEE) no 1784/77 deve incluir a referência «lúpulo com sementes» ou «lúpulo sem sementes», conforme o caso."
+  },
+  "491b8e519127ef7e": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. O número de referência de certificado referido no artigo 5o do Regulamento (CEE) no 1784/77 é formado por elementos de codificação que designam os centros de certificação, os Estados-membros, as anos de colheita e a identificação dos lotes como indicado no Anexo III.\n\n2. Este número deve ser o mesmo para todos os componentes de um mesmo lote.\n\n3. Antes de 1 de Setembro de 1978, os Estados-membros comunicam à Comissão, a lista dos centros de certificação e o código de cada centro.\n\nA lista destes centros e da sua codificação é publicada no Jornal Oficial das Comunidades Europeias. É publicada todos os anos uma actualização desta lista."
+  },
+  "c1b18a92452a0154": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nA rotulação referida no no 2, do artigo 1o, do Regulamento (CEE) no 1784/77 efectua-se sob controlo, após selagem, sobre a embalagem em que o produto será comercializado, como indicado no Anexo IV."
+  },
+  "6b58d8e1213d3d1e": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. O lúpulo preparado a partir de lúpulo rectificado não preparado só pode ser certificado se a preparação se efectuar em circuito fechado de operação.\n\n2. No caso de a preparação de lúpulo se efectuar nos centros ou entrepostos de certificação:\n\na) O certificado só é emitido após a preparação;\n\nb) O lúpulo original não preparado, é acompanhado da declaração referida no artigo 2o;\n\n3. Em todos os casos, antes da preparação, é atribuído um número ao lote de lúpulo original. Esse número deve figurar no certificado do lúpulo preparado.\n\n4. Para serem certificados, os produtos elaborados a partir do lúpulo referidos no artigo 7o do Regulamento (CEE) no 1784/77 devem ser fabricados em circuito fechado de operação."
+  },
+  "ed9160d1ccef8918": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Enquanto estão em circulação, as embalagens de pós e extractos de lúpulo só podem sofrer a alteração referida no no 5 do artigo 1o do Regulamento (CEE) no 1784/77 sob controlo oficial.\n\n2. Quando se realiza a operação referida no número anterior sem que haja transformação do produto, o novo processo de certificação inclui apenas:\n\n- a rotulação da nova embalagem;\n\n- a indicação desta rotulação e da alteração de embalagem no certificado original."
+  },
+  "e16ecc53f3eab890": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nOs produtos referidos no no 1, alíneas a) a d), do artigo 1o do Regulamento (CEE) no 1784/77 estão sujeitos a um controlo nos seguintes moldes:\n\na) Para o lúpulo colhido nas explorações pertencentes a uma empresa cervejeira e por ele utilizado em bruto ou transformado:\n\n- para cada colheita a empresa cervejeira envia antes de 1 de Novembro ao organismo de controlo referido no no 6 do artigo 1o do Regulamento (CEE) no 1784/77, uma declaração relativa às variedades, quantidades colhidas, locais de produção, superfícies com registo cadastral ou com documento oficial equivalente,\n\n- é desnecessário qualquer controlo suplementar se o lúpulo for transformado ou utilizado em bruto na própria empresa cervejeira. Nos outros casos, o controlo é o mesmo que está previsto na alínea c), com excepção do ponto 5;\n\nb) Para os extractos isomerizados de lúpulo, o transformador declara, todos os anos até 31 de Dezembro, ao organismo de controlo as quantidades produzidas e as quantidades comercializadas. A embalagem deve incluir a expresão «extracto isomerizado de lúpulo» e a indicação do peso ou do volume;\n\nc) Para os produtos derivados do lúpulo transformados em regime de contrato por conta de um empresa cervejeira, na condição de esses produtos serem utilizados pela própria cervejeira, o organismo de certificação emite, à entrada do lúpulo no local de transformação, um documento que inclui, no decorrer das operações, pelo menos as seguintes indicações:\n\n1. referência do contrato,\n\n2. destinatário,\n\n3. estabelecimento de transformação,\n\n4. designações do produto transformado,\n\n5. número de referência do certificado ou do comprovativo de equivalência do lúpulo original,\n\n6. peso do produto transformado.\n\nEste documento toma uma referência que é inscrita na embalagem;\n\nd) Para o lúpulo e produtos derivados em pequenas embalagens destinadas a venda a particulares para seu uso próprio, o peso da embalagem não pode exceder:\n\n- 500 gramas para os cones ou para o pó,\n\n- 150 gramas para o extracto,\n\nna embalagem devem constar a designação e o peso do produto."
+  },
+  "84b81d6a8431f3a9": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nOs Estados-membros comunicam à Comissão até 1 de Setembro de 1978, a lista das zonas ou das regiões de produção referidas no no 1 do artigo 6o do Regulamento (CEE) no 1784/77."
+  },
+  "21e9ca8ae864a9ee": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nO presente regulamento é aplicável a partir de 1 de Agosto de 1978.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 28 de Abril de 1978.\n\nPela Comissão\n\nFinn GUNDELACH\n\nVice-presidente\n\n(1) JO no L 175 de 4. 8. 1971, p. 1.(2) JO no L 137 de 3. 6. 1977, p. 7.(3) JO no L 200 de 8. 8. 1977, p. 1."
+  },
+  "ce73b2eb41f70740": {
+   "fragment_id": "ANEXO I — EXIGÊNCIAS MÍNIMAS DE COMERCIALIZAÇÃO DO LÚPULO EM CONES",
+   "type": "divisao",
+   "heading": "ANEXO I — EXIGÊNCIAS MÍNIMAS DE COMERCIALIZAÇÃO DO LÚPULO EM CONES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — EXIGÊNCIAS MÍNIMAS DE COMERCIALIZAÇÃO DO LÚPULO EM CONES\n\n\"\" ID=\"1\">a) Humidade> ID=\"2\">Teor em água> ID=\"3\">12> ID=\"4\">14\"> ID=\"1\">b) Proporção de folhas e de caules> ID=\"2\">Partes de folhas de sarmentos, sarmentos, pedúnculos de folhas ou de cones; os pedúnculos só são considerados como caules a partir de 2,5 cm de comprimento> ID=\"3\">6> ID=\"4\">6\"> ID=\"1\">c) Proporção de brácteas> ID=\"2\">Brácteas e bractéolas destacadas do ráquis> ID=\"3\">(sem objecto)> ID=\"4\">15\"> ID=\"1\">d) Proporção de detritos do lúpulo> ID=\"2\">Pequenas partículas resultantes da colheita com máquina, de uma cor que vai do verde escuro ao preto, não proveniente geralmente do cone> ID=\"3\">3> ID=\"4\">4\"> ID=\"1\">e) Para o «lúpulo sem grânulos»> ID=\"2\">Frutos do cone chegados à maturidade> ID=\"3\">2> ID=\"4\">2\"> ID=\"1\">Proporção de grânulos (sementes)\">"
+  },
+  "7c4ac72858991846": {
+   "fragment_id": "ANEXO II — A. MÉTODO DE AMOSTRAGEM",
+   "type": "divisao",
+   "heading": "ANEXO II — A. MÉTODO DE AMOSTRAGEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — A. MÉTODO DE AMOSTRAGEM\n\nProceder-se-á da seguinte forma para amostragem do lúpulo em cones com vista à determinação da taxa de humidade do lúpulo e, se for caso disso, do teor em corpos estranhos:\n\n1. Tomada de amostra\n\na) Lúpulo embalado\n\nTomar, no número de fardos previsto no artigo 4o, a um peso de lúpulo proporcional ao peso do fardo fazendo as amostras suficientes para que o número de cones represente correctamente o fardo.\n\nb) Lúpulo em monte\n\nTomar proções iguais provenientes de 5 a 10 partes diferentes do monte, tanto à superfície como a diversas profundidades. Colocar a amostra desde que possível no recipiente. Para evitar uma deterioração rápida, a quantidade de lúpulo deverá ser suficientemente grande para que seja fortemente comprimido no momento do fecho do recipiente.\n\nO peso da amostra não deverá ser inferior a 100 gramas.\n\n2. Mistura\n\nAs amostras deverão ser cuidadosamente misturadas para serem representativas do lote.\n\n3. Sub-amostragem\n\nDepois da mistura, tomar uma ou várias amostras representativas e colocá-las num recipiente hermético e calafetado como por exemplo, uma caixa metálica ou em frasco de boca larga em vidro, salvo no caso do controlo dos corpos estranhos.\n\n4. Salvo durante o seu transporte, as amostras devem ser conservadas em frio. Tomar-se-á o cuidado de só abrir o recipiente para efectuar o exame ou a análise da amostra no momento em que esta já se encontrar de novo à temperatura ambiente.\n\nB. MÉTODO DE CONTROLO DA TAXA DE HUMIDADE DO LÚPULO\n\n1. Método (i)\n\nAconselha-se a não moer a amostra destinada à determinação da humidade. É muito importante que as amostras só sejam expostas ao ar o mínimo de tempo necessário à sua transferência do recipiente para o recipiente a pesar (que será munido duma tampa).\n\nAparelhagem\n\nBalança sensível a 0,005 grama.\n\nEstufa eléctrica com termóstato a 105 - 107 graus Celsius, cuja eficácia será controlada através do teste do sulfato de cobre.\n\nCaixas metálicas de 70 a 100 milímetros de diâmetro e 20 a 30 milímetros de profundidade, munidas duma tampa bem adaptada.\n\nExcicador, que permita receber as caixas e que contenha uma agente excicante tal como a silicagel com indicador de cor para avaliar a saturação.\n\nModo operatório\n\nPesar rigorosamente 3 a 5 gramas de lúpulo numa caixa tarada munida de tampa. Operar tão rapidamente quanto possível. Levantar a tampa e pôr a caixa na estufa durante exactamente uma hora. Colocar rapidamente a tampa na caixa e pô-la durante pelo menos vinte minutos no excicador antes de a pesar.\n\nCálculo\n\nCalcular a perda de peso e exprimi-la em percentagem de peso inicial de lúpulo. O desvio máximo admitido para uma única determinação é igual a 1 %.\n\n2. Método (ii)\n\nMétodo que utiliza uma balança electrónica que seca o lúpulo com o auxílio de raios infra-vermelhos ou de ar aquecido, ou uma balança eléctrica; estes aparelhos devem indicar numa escala a taxa de humidade da amostra tratada.\n\nC. MÉTODO DE CONTROLO DO TEOR EM CORPOS ESTRANHOS\n\n1. Determinação das proporções de folhas e de caules, de brácteas e de detritos de lúpulo\n\nAs amostras de 5 vezes 100 gramas são crivadas com o auxílio de um crivo de 2 milímetros. A lupulina, os detritos e as sementes daí resultantes são reunidos e as sementes são separadas à mão. As amostras são colocadas de lado. O conteúdo do crivo de 2 milímetros é transferido separadamente para um crivo de 10 milímetros e crivado de novo.\n\nOs cones de lúpulo, as folhas, os caules e as matérias estranhas são reunidas à mão no crivo enquanto as folhas de cone, as sementes, os detritos de lupulina e uma pequena quantidade de folhas e de caules passam através do crivo. Tudo isto é separado à mão e os bocados são reagrupados do seguinte modo:\n\n1. folhas e caules;\n\n2. lúpulo (folhas de cone, cones de lúpulo e lupulina);\n\n3. detritos;\n\n4. sementes;\n\n5. brácteas para o lúpulo não preparado.\n\nÉ impossível separar os detritos e a lupulina. Por conseguinte, utilizando um julgamento objectivo da cor, é preciso estimar a percentagem relativa de cada uma das duas e o peso calcula-se supondo-se que a sua densidade seja idêntica.\n\nOs diferentes grupos são pesados e a percentagem de cada grupo é determinada em relação ao peso da amostra inicial.\n\n2. Determinação da proporção de grânulos (sementes)\n\nA amostra de 25 gramas será depositada num recipiente metálico com tampa e colocada numa estufa a 115 graus Celsius durante duas hoas a fim de neutralizar a substância resinosa e pegajosa.\n\nA amostra seca será embrulhada num pano de algodão de malha grosseira e friccionada vigorosamente - ou então batida mecanicamente - com o fim de separar os grânulos do lúpulo. O lúpulo seco e partido em finas partículas será separado dos grânulos de lúpulo com o auxílio de um triturador ou então utilizando um crivo de malha metálica de 1 milímetro. Os raquis de estróbilo que fiquem com os grânulos serão separados quer utilizando um tabuleiro inclinado guarnecido de papel-esmeril, quer recorrendo a outros dispositivos que permitam atingir o mesmo objectivo, isto é, reter os raquis de estróbilo e outras matérias e deixar passar os grânulos.\n\nOs grânulos devem ser pesados. A percentagem de grânulos deve ser calculada em relação ao peso da amostra inicial."
+  },
+  "97d611e93ea721af": {
+   "fragment_id": "ANEXO III — CODIFICAÇÃO E ORDEM DE COMPOSIÇÃO DO NÚMERO DE REFERÊNCIA DE CERTIFICAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO III — CODIFICAÇÃO E ORDEM DE COMPOSIÇÃO DO NÚMERO DE REFERÊNCIA DE CERTIFICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — CODIFICAÇÃO E ORDEM DE COMPOSIÇÃO DO NÚMERO DE REFERÊNCIA DE CERTIFICAÇÃO\n\n1. Centro de certificação\n\nnúmero de 0 a 100 comunicado pelo Estado-membro\n\n2. Estados-membros que procedem à certificação\n\nB para Bélgica\n\nD para República Federal da Alemanha\n\nDK para Dinamarca\n\nF para França\n\nIRL para Irlanda\n\nITA para Itália\n\nLUX para Luxemburgo\n\nNL para Holanda\n\nUK para Reino Unido\n\n3. Ano de colheita\n\nos dois números do décimo do ano de colheita.\n\n4. Identificação do lote\n\nnúmero atribuído ao lote pelo organismo de certificação. Exemplo: 12 B 77 170225."
+  },
+  "dd05befdce24deb2": {
+   "fragment_id": "ANEXO IV — MARCAÇÃO DAS EMBALAGENS",
+   "type": "divisao",
+   "heading": "ANEXO IV — MARCAÇÃO DAS EMBALAGENS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — MARCAÇÃO DAS EMBALAGENS\n\nA marcação será efectuada, segundo a natureza da embalagem, do seguinte modo:\n\na) Lúpulo em cones embalado em fardos ou volumes:\n\n- por impresão na embalagem;\n\nb) Pó de lúpulo em pacotes:\n\n- por impressão no pacote;\n\nc) Pó ou extracto de lúpulo em caixas metálicas:\n\n- por impressão na caixa ou gravação no metal da caixa;\n\nd) Embalagem selada que contém um lote de pacotes ou caixas de pó ou de extracto:\n\n- por impressão na embalagem selada."
+  },
+  "66052f444ee44f03": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Abril de 1978\n\nrelativo às modalidades de certificação do lúpulo\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) n.º 1696/71 do Conselho, de 26 de Julho de 1971, que estabelece a organização comum de mercado no sector do lúpulo ([^1^](http://publications.europa.eu/resource/cellar/606f902a-9e3d-425b-b0d4-ef85ffb66325.0016.03/DOC_1#E0001)), com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 1170/77 ([^2^](http://publications.europa.eu/resource/cellar/606f902a-9e3d-425b-b0d4-ef85ffb66325.0016.03/DOC_1#E0002)) e, nomeadamente o n.º 5 do seu artigo 2.º,\n\nConsiderando que o Regulamento (CEE) n.º 1784/77 do Conselho de 19 de Julho de 1977 ([^3^](http://publications.europa.eu/resource/cellar/606f902a-9e3d-425b-b0d4-ef85ffb66325.0016.03/DOC_1#E0003)) estabeleceu as regras gerais para a certificação do lúpulo;\n\nConsiderando que, para assegurar uma aplicação uniforme do processo de certificação nos Estados-membros, convém definir os produtos que estão sujeitos a esse processo, as operações envolvidas e as indicações que devem constar nos vários documentos que acompanham os referidos produtos;\n\nConsiderando que é oportuno, para controlo do lúpulo em cones, que a certificação seja acompanhada de uma declaração assinada pelo produtor individual ou associado; que este documento deve incluir indicações que permitam a identificação do lúpulo desde a sua apresentação para certificação até à emissão do certificado;\n\nConsiderando que, para a determinação das características qualitativas que deve apresentar o lúpulo admitido à comercialização, convém ter em conta o teor de humidade e de corpos estranhos; que dada a reputação de qualidade adquirida pelo lúpulo comunitário é necessário ter em consideração os hábitos correntes nas transacções comerciais;\n\nConsiderando que convém deixar aos Estados-membros a escolha do método de controlo da humidade do lúpulo; que no entanto é conveniente que com estes métodos se obtenham resultados comparáveis; que em caso de contestação, é necessário utilizar um método comunitário;\n\nConsiderando que, para ter em conta os usos comerciais correntes em certas regiões da Comunidade, é conveniente definir o lúpulo comercializado com ou sem sementes e prever a sua indicação no certificado;\n\nConsiderando que, para assegurar aos utilizadores uma informação exacta sobre a origem e as características dos produtos comercializados, é conveniente estabelecer as regras comuns para rotulação das embalagens e a numeração de referência dos certificados;\n\nConsiderando que convém prever que a certificação do lúpulo preparado a partir do lúpulo certificado não preparado só pode realizar-se se a preparação tiver lugar em circuito fechado de operação; que no entanto, se estas operações se realizarem em centros ou entrepostos de certificação, é oportuno simplificar o processo de certificação subsequente;\n\nConsiderando que quando a substituição da embalagem de um produto é feita sob controlo oficial e sem transformação, é também conveniente simplificar o processo de certificação subsequente;\n\nConsiderando que o Regulamento (CEE) n.º 1784/77 prevê no n.º 1, segundo parágrafo, do seu artigo 1.º, que os produtos isentos de certificação devem ser sujeitos a um controlo; que este controlo deve assegurar que esses produtos, por um lado, não podem perturbar o circuito normal de comercialização dos produtos certificados e por outro estão conformes com o fim a que se destinam e são utilizados apenas pelos seus destinatários;\n\nConsiderando que convém encarregar deste controlo os organismos que asseguram a certificação;\n\nConsiderando que as medidas previstas no presente regulamento estão conformes com o parecer do Comité de Gestão do Lúpulo,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "5cf2095b2553b6d6": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNa acepção do presente regulamento, entende-se por:\n\na) «Lúpulo não preparado»: o lúpulo que sofreu apenas as operações de primeira secagem e primeira embalagem;\n\nb) «Lúpulo preparado»: o lúpulo que sofreu, nomeadamente, as operações de secagem final e embalagem final;\n\nc) «Lúpulo com sementes»: o lúpulo que contém sementes numa proporção superior a 2 % do seu peso;\n\nd) «Lúpulo sem sementes»: o lúpulo que contém sementes numa proporção não superior a 2 % do seu peso;\n\ne) «Extracto isomerizado de lúpulo»: o extracto em que os ácidos alfa sofreram uma isomerização quase total;\n\nf) «Pó isornerizado de lúpulo»: o pó em que os ácidos alfa sofreram uma isomeração quase total;\n\ng) «Novos produtos isomerizados de lúpulo»: produtos em que não só os ácidos alfa sofreram uma isomerização quase total como outros compostos foram igualmente objecto de uma alteração maior ou menor (em função do estádio de partida e das condições em que foi efectuada a transformação dos ácidos alfa) ou foram mesmo deliberadamente eliminados do produto final;\n\nh) «Selagem das embalagens»: o fecho da embalagem efectuado sob controlo oficial de forma a que o selo fique deteriorado aquando da abertura;\n\ni) «Circuito fechado de operação»: um processo de preparação ou de transformação do lúpulo efectuado sob controlo oficial e de modo a que não possa ser adicionado ou retirado durante a operação qualquer lúpulo ou produtos transformados. O circuito fechado de operação tem início com a abertura da embalagem selada que contém o lúpulo ou produto do lúpulo a preparar ou transformar e termina com a selagem da embalagem que contém o lúpulo ou produto de lúpulo transformado;\n\nj) «Lote»: um número de embalagens de lúpulo ou de produtos derivados com as mesmas características apresentados simultaneamente à certificação pelo mesmo produtor individual ou associado ou pelo mesmo transformador."
+  },
+  "f0fc67d82e6d136f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Todos os lotes de lúpulo em cones apresentados para certificação devem ser acompanhados de uma declaração, assinada pelo produtor, que inclua:\n\n— nome e morada do produtor,\n\n— ano de colheita,\n\n— variedade,\n\n— local de produção,\n\n— registo cadastral ou indicação oficial equivalente,\n\n— número de volumes que compõem o lote.\n\n2. Essa declaração acompanha o lote de lúpulo durante todas as operações de preparação ou de mistura e em todo o caso até à emissão do certificado."
+  },
+  "c00833c2681a5a70": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Para o lúpulo em cones, só pode ser apresentado para certificação o lúpulo correspondente à definição do n.º 3, alínea a), do artigo 1.º do Regulamento (CEE) n.º 1696/71 e às exigências mínimas de comercialização fixadas no Anexo I do presente regulamento.\n\n2. O cumprimento das exigências mínimas de comercialização em relação à taxa de humidade do lúpulo é controlado segundo um dos métodos referidos no Anexo II, secção B. No entanto os métodos referidos no Anexo II, secção B, ponto 2 devem ser visados pelo organismo de controlo e devem obter-se resultados cujo desvio padrão não exceda 2,0. Em casa de contestação, o controlo será efectuado segundo o método referido no Anexo II, secção B, ponto 1.\n\nOs Estados-membros comunicam à Comissão os métodos utilizados.\n\n3. O cumprimento das exigências mínimas de comercialização, com exclusão da taxa de humidade, é controlado segundo os usos comerciais correntes. No entanto, em caso de contestação, o controlo efectua-se segundo o método referido no Anexo II, secção C."
+  },
+  "950157fd9e4d3377": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPara a aplicação dos métodos de controlo referidos no artigo 3.º e inseridos no ponto I, secção B, do Anexo II e na secção C, do Anexo II, a recolha de amostras efectua-se do seguinte modo:\n\na) Em cada lote a amostra é retirada de pelo menos um volume em cada 10 e em todo o caso de pelo menos 2 volumes num mesmo lote;\n\nb) Procede-se à recolha e ao tratamento das amostras segundo o método descrito na secção A do Anexo II."
+  },
+  "4bfc5dbbed532437": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO certificado referido no artigo 5.º do Regulamento (CEE) n.º 1784/77 deve incluir a referência «lúpulo com sementes» ou «lúpulo sem sementes», conforme o caso."
+  },
+  "0ec05784ffc2ddc7": {
+   "fragment_id": "Artigo 5.ºA",
+   "type": "artigo",
+   "heading": "Artigo 5.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.ºA\n\nO certificado referido no artigo 5.º do Regulamento (CEE) n.º 1784/77 conterá pelo menos uma das indicações constantes do anexo IIA, inscritas pela autoridade competente para efectuar a certificação."
+  },
+  "a6bec8d4e3adc1e7": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O número de referência de certificação referido no artigo 5.º do Regulamento (CEE) n.º 1784/77 é formado por elementos de codificação que designam os centros de certificação, os Estados-membros, as anos de colheita e a identificação dos lotes como indicado no Anexo III.\n\n2. Este número deve ser o mesmo para todos os componentes de um mesmo lote.\n\n3. Até 1 de Setembro de 1978, os Estados-membros comunicarão à Comissão a lista dos centros de certificação e o código de cada centro.\n\nNo caso da Grécia, Espanha, Portugal e Áustria, as comunicações devem ser apresentadas até ao final do terceiro mês seguinte à data da adesão.\n\nNo caso da República Checa, da Estónia, de Chipre, da Letónia, da Lituânia, da Hungria, de Malta, da Polónia, da Eslovénia e da Eslováquia, essas comunicações devem ser apresentadas antes de 1 de Janeiro de 2005.\n\nA lista dos centros e a sua codificação é publicada no *Jornal Oficial das Comunidades Europeias*. Anualmente será publicada uma actualização da lista."
+  },
+  "89e40e3be64f2c5d": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA rotulação referida no n.º 2, do artigo 1.º, do Regulamento (CEE) n.º 1784/77 efectua-se sob controlo, após selagem, sobre a embalagem em que o produto será comercializado, como indicado no Anexo IV."
+  },
+  "595355b90ddb7b82": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. O lúpulo preparado a partir de lúpulo rectificado não preparado só pode ser certificado se a preparação se efectuar em circuito fechado de operação.\n\n2. No caso de a preparação de lúpulo se efectuar nos centros ou entrepostos de certificação:\n\na) O certificado só é emitido após a preparação;\n\nb) O lúpulo original não preparado, é acompanhado da declaração referida no artigo 2.º;\n\n3. Em todos os casos, antes da preparação, é atribuído um número ao lote de lúpulo original. Esse número deve figurar no certificado do lúpulo preparado.\n\n4. Para serem certificados, os produtos elaborados a partir do lúpulo referidos no artigo 7.º do Regulamento (CEE) n.º 1784/77 devem ser fabricados em circuito fechado de operação.\n\n5. Com excepção das substâncias constantes do anexo V, apenas podem entrar no circuito fechado de operação lúpulo certificado e produtos de lúpulo certificados referidos no artigo 7.º do Regulamento (CEE) n.º 1784/77. Apenas podem ser introduzidos no estado em que foram certificados.\n\n6. Se, no caso da produção de extractos com utilização de dióxido de carbono, a transformação no circuito fechado de operação tiver que ser interrompida devido a exigências técnicas, os representantes dos organismos ou serviços oficiais referidos no n.º 6 do artigo 1.º do Regulamento (CEE) n.º 1784/77 procederão à selagem da embalagem que contém o produto intermédio no momento da interrupção. Os selos apenas podem ser removidos pelos representantes acima referidos no momento em que a transformação for retomada."
+  },
+  "d982883404e09bed": {
+   "fragment_id": "Artigo 8.ºA",
+   "type": "artigo",
+   "heading": "Artigo 8.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.ºA\n\n1. No caso da produção de produtos de lúpulo, as autoridades referidas no n.º 6 do artigo 8.º estarão sempre presentes durante o processo de transformação. As autoridades procederão à supervisão da transformação em todas as fases, isto é, desde a abertura da embalagem selada que contém o lúpulo ou produto de lúpulo a transformar até estarem terminadas as operações de embalagem, selagem e rotulagem do produto de lúpulo. Desde que possa ser garantido por meios técnicos que as disposições do presente regulamento são respeitadas, é admissível uma ausência temporária.\n\n2. Antes da passagem para um novo lote no sistema de transformação, os representantes referidos no n.º 6 do artigo 8.º assegurarão, através de uma inspecção, que o sistema de transformação está vazio, pelo menos na medida do necessário para assegurar que os elementos de dois lotes diferentes não são misturados. Se, enquanto é transformado lúpulo de um novo lote, permanecer em segmentos do sistema de transformação, tais como recipientes de mistura ou enlatagem, qualquer lúpulo, produtos de lúpulo, resíduos ou qualquer outro produto derivado, estes segmentos têm que ser desligados do sistema de transformação por meios técnicos adequados e sob supervisão oficial. Apenas podem ser ligados novamente ao sistema de transformação sob supervisão oficial. Não é permitida nenhuma ligação física entre a linha de transformação para o pó de lúpulo concentrado e a linha de transformação para o pó de lúpulo não concentrado enquanto qualquer dessas linhas estiver a funcionar.\n\n3. Os responsáveis pelas fábricas de transformação de lúpulo fornecerão aos representantes referidos no n.º 6 do artigo 8.º, bem como aos representantes dos organismos oficiais nacionais responsáveis pela observância do sistema de certificação, na acepção do n.º 6 do artigo 1.º do Regulamento (CEE) n.º 1784/77, todas as informações relativas ao funcionamento técnico da fábrica de transformação de lúpulo.\n\n4. Os responsáveis pelas fábricas de transformação de lúpulo manterão registos exactos da massa de lúpulo transformado. Para cada lote de lúpulo a transformar serão estabelecidos registos do peso de produto utilizado e de produto transformado, bem como do peso de desperdícios, incluindo resíduos de lúpulo, materiais estranhos rejeitados e a perda de água estimada. No que diz respeito ao produto inicial utilizado, dos registos constará também o número referido no ponto 1, alínea b), do artigo 5.º do Regulamento (CEE) n.º 1784/77 para todas as remessas de lúpulo em questão, bem como a variedade de lúpulo. Se no mesmo lote for utilizada mais que uma variedade, devem constar dos registos as proporções, em peso, dessas variedades. No que se refere ao produto transformado, devem também constar dos registos a variedade ou, no caso de o produto transformado ser uma mistura, a composição por variedades. Todos os pesos poderão ser arredondados ao quilograma.\n\n5. Os registos da massa utilizada no processo de transformação devem ser estabelecidos sob a supervisão dos representantes, referidos no n.º 6 do artigo 8.º, e assinados por eles logo que a transformação de um lote esteja completa. Esses registos deverão ser mantidos durante pelo menos três anos pelos responsáveis das fábricas de transformação de lúpulo.\n\n6. Os representantes dos organismos oficiais responsáveis pela observância do sistema de certificação realizarão, regularmente e sem aviso prévio, controlos, por amostragem, nas instalações das fábricas de transformação de lúpulo. Estes controlos devem incluir um exame do trabalho dos representantes referidos no n.º 6 do artigo 8.º, da incontestabilidade dos produtos certificados, dos certificados que acompanham o lúpulo e da massa de material utilizada em cada processo de transformação, conforme referido no n.º 4 do presente artigo. O número de controlos a efectuar durante um ano não pode ser inferior a 5 % por fábrica de transformação de lúpulo.\n\n7. Os Estados-membros comunicarão à Comissão, anualmente e até 30 de Junho, a frequência, tipo e resultado das medidas de supervisão relativas às certificações realizadas durante o ano anterior à data acima referida.\n\n8. Se se verificar que na preparação dos produtos de lúpulo foram utilizadas componentes não autorizadas ou que as componentes autorizadas não estão em conformidade com as informações constantes do certificado, tal como enumeradas no artigo 5.º do Regulamento (CEE) n.º 1784/77, e se tal facto for imputável a acção deliberada ou a omissão ou falta grave do responsável da fábrica ou dos seus subordinados, o Estado-membro deve retirar à fábrica em questão a sua aprovação como centro de certificação. A pedido do responsável, a aprovação pode voltar a ser concedida dois anos mais tarde ou, em casos graves, o mais tardar três anos a contar da data de retirada."
+  },
+  "3e727d13389cb2c0": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Enquanto estão em circulação, as embalagens de pós e extractos de lúpulo só podem sofrer a alteração referida no n.º 5 do artigo 1.º do Regulamento (CEE) n.º 1784/77 sob controlo oficial.\n\n2. Quando se realiza a operação referida no número anterior sem que haja transformação do produto, o novo processo de certificação inclui apenas:\n\n— a rotulação da nova embalagem;\n\n— a indicação desta rotulação e da alteração de embalagem no certificado original."
+  },
+  "36870ad16c4284e4": {
+   "fragment_id": "Artigo 9.ºA",
+   "type": "artigo",
+   "heading": "Artigo 9.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.ºA\n\nEm caso de revenda no território da Comunidade, após fraccionamento de um lote certificado, o produto deve ser acompanhado de uma factura ou de um documento comercial emitido pelo vendedor, indicando o número do certificado e o nome do organismo emissor. Devem também figurar no documento comercial ou na factura as seguintes informações do certificado:\n\na) Para lúpulos em cones:\n\n— designação do produto,\n\n— peso bruto e/ou líquido,\n\n— local de produção,\n\n— ano de colheita,\n\n— variedade;\n\nb) Para os produtos derivados do lúpulo:"
+  },
+  "a33999dfa384b68c": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs produtos referidos no n.º 1, alíneas a) a f), do artigo 1.º do Regulamento (CEE) n.º 1784/77 estão sujeitos a um controlo nos seguintes moldes: [▼B](http://publications.europa.eu/resource/celex/31978R0890)\n\na) Para o lúpulo colhido nas explorações pertencentes a uma empresa cervejeira e por ele utilizado em bruto ou transformado:\n\n— para cada colheita a empresa cervejeira envia antes de 1 de Novembro ao organismo de controlo referido no n.º 6 do artigo 1.º do Regulamento (CEE) n.º 1784/77, uma declaração relativa às variedades, quantidades colhidas, locais de produção, superfícies com registo cadastral ou com documento oficial equivalente,\n\n— é desnecessário qualquer controlo suplementar se o lúpulo for transformado ou utilizado em bruto na própria empresa cervejeira. Nos outros casos, o controlo é o mesmo que está previsto na alínea c), com excepção do ponto 5;\n\nb) Para os extractos isomerizados de lúpulo, os pós isomerizados de lúpulo e os novos produtos isomerizados de lúpulo cuja lista consta do anexo VI, o transformador declara, todos os anos, o mais tardar até 31 de Dezembro, ao organismo de controlo as quantidades produzidas e as quantidades comercializadas. A embalagem deve ostentar a menção «extracto isomerizado de lúpulo», «pó isomerizado de lúpulo» ou «novo produto isomerizado de lúpulo» e a indicação do peso ou volume, variedade original, produto utilizado e sua percentagem;\n\nc) Para os produtos derivados do lúpulo transformados em regime de contrato por conta de um empresa cervejeira, na condição de esses produtos serem utilizados pela própria cervejeira, o organismo de certificação emite, à entrada do lúpulo no local de transformação, um documento que inclui, no decorrer das operações, pelo menos as seguintes indicações:\n\n1. referência do contrato,\n\n2. destinatário,\n\n3. estabelecimento de transformação,\n\n4. designações do produto transformado,\n\n5. número de referência do certificado ou do comprovativo de equivalência do lúpulo original,\n\n6. peso do produto transformado.\n\nd) Para o lúpulo e produtos derivados do lúpulo em pequenas embalagens destinadas a venda a particulares para seu uso próprio, o peso da embalagem não pode exceder:\n\n— 1 quilograma para os cones ou o pó,\n\n— 300 gramas para o extracto, o pó ou os novos produtos isomerizados."
+  },
+  "b30d61b052056e4b": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAté 1 de Setembro de 1978, os Estados-membros comunicarão à Comissão a lista das zonas ou das regiões de produção referidas no n.º 1 do artigo 6.º do Regulamento (CEE) n.º 1784/77.\n\nNo caso da Grécia, Espanha, Portugal e Áustria, as comunicações devem ser apresentadas até ao final do terceiro mês seguinte à data da adesão.\n\nNo caso da República Checa, da Estónia, de Chipre, da Letónia, da Lituânia, da Hungria, de Malta, da Polónia, da Eslovénia e da Eslováquia, essas comunicações devem ser apresentadas antes de 1 de Janeiro de 2005."
+  },
+  "f820f087bfd408b7": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO presente regulamento é aplicável a partir de 1 de Agosto de 1978.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "84ba670ca5375351": {
+   "fragment_id": "EXIGÊNCIAS MÍNIMAS DE COMERCIALIZAÇÃO DO LÚPULO EM CONES",
+   "type": "divisao",
+   "heading": "EXIGÊNCIAS MÍNIMAS DE COMERCIALIZAÇÃO DO LÚPULO EM CONES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### EXIGÊNCIAS MÍNIMAS DE COMERCIALIZAÇÃO DO LÚPULO EM CONES\n\n| Características | Descrição | Teor máximo (em % do peso) |  |\n| --- | --- | --- | --- |\n| Lúpulo preparado | Lúpulo não preparado |  |  |\n| a) Humidade | Teor em água | 12 | 14 |\n| b) Proporção de folhas e de pés | Partes de folhas de sarmentos, pedúnculos de folhas ou de cones; os pedúnculos dos cones só são considerados como sarmento desde, que o comprimento seja de 2,5 cm ou mais | 6 | 6 |\n| c) Proporção de detritos de lúpulo | Pequenas partículas resultantes da colheita mecânica, com uma côr desde o verde escuro ao preto e que [**►M6**](http://publications.europa.eu/resource/celex/31988R3994) não provêem geralmente do cone; partículas provenientes de variedades de lúpulo que não as variedades a certificar podem, todavia, contribuir para os teores máximos indicados até ao limite de 2 % do peso**◄** |  | 4 |\n| d) Para o «lúpulo sem semente» Proporção de grãos (sementes) | Frutos do cone maduros | 2 | 2 |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "555df51c009d3571": {
+   "fragment_id": "A. MÉTODO DE AMOSTRAGEM",
+   "type": "divisao",
+   "heading": "A. MÉTODO DE AMOSTRAGEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. MÉTODO DE AMOSTRAGEM\n\nProceder-se-á da seguinte forma para amostragem do lúpulo em cones com vista à determinação da taxa de humidade do lúpulo e, se for caso disso, do teor em corpos estranhos:"
+  },
+  "3aeead3437762abd": {
+   "fragment_id": "1. Tomada de amostra",
+   "type": "divisao",
+   "heading": "1. Tomada de amostra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Tomada de amostra\n\na) *Lúpulo embalado*\n\nb) *Lúpulo em monte*"
+  },
+  "6d49f1cee7548046": {
+   "fragment_id": "2. Mistura",
+   "type": "divisao",
+   "heading": "2. Mistura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Mistura\n\nAs amostras deverão ser cuidadosamente misturadas para serem representativas do lote."
+  },
+  "ce2de8697bf1da87": {
+   "fragment_id": "3. Sub-amostragem",
+   "type": "divisao",
+   "heading": "3. Sub-amostragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Sub-amostragem\n\nDepois da mistura, tomar uma ou várias amostras representativas e colocá-las num recipiente hermético e calafetado como por exemplo, uma caixa metálica ou em frasco de boca larga em vidro, salvo no caso do controlo dos corpos estranhos.\n\n4. Salvo durante o seu transporte, as amostras devem ser conservadas em frio. Tomar-se-á o cuidado de só abrir o recipiente para efectuar o exame ou a análise da amostra no momento em que esta já se encontrar de novo à temperatura ambiente."
+  },
+  "4024cfca3ec8adba": {
+   "fragment_id": "B. MÉTODO DE CONTROLO DA TAXA DE HUMIDADE DO LÚPULO",
+   "type": "divisao",
+   "heading": "B. MÉTODO DE CONTROLO DA TAXA DE HUMIDADE DO LÚPULO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. MÉTODO DE CONTROLO DA TAXA DE HUMIDADE DO LÚPULO"
+  },
+  "3e224901a73610cc": {
+   "fragment_id": "1. Método (i)",
+   "type": "divisao",
+   "heading": "1. Método (i)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Método (i)\n\nAconselha-se a não moer a amostra destinada à determinação da humidade. É muito importante que as amostras só sejam expostas ao ar o mínimo de tempo necessário à sua transferência do recipiente para o recipiente a pesar (que será munido duma tampa).\n\n*Aparelhagem*\n\nBalança sensível a 0,005 grama.\n\nEstufa eléctrica com termóstato a 105 — 107 graus Celsius, cuja eficácia será controlada através do teste do sulfato de cobre.\n\nCaixas metálicas de 70 a 100 milímetros de diâmetro e 20 a 30 milímetros de profundidade, munidas duma tampa bem adaptada.\n\nExcicador, que permita receber as caixas e que contenha um agente excicante tal como a silicagel com indicador de cor para avaliar a saturação.\n\n*Modo operatório*\n\nPesar rigorosamente 3 a 5 gramas de lúpulo numa caixa tarada munida de tampa. Operar tão rapidamente quanto possível. Levantar a tampa e pôr a caixa na estufa durante exactamente uma hora. Colocar rapidamente a tampa na caixa e pô-la durante pelo menos vinte minutos no excicador antes de a pesar.\n\n*Cálculo*\n\nCalcular a perda de peso e exprimi-la em percentagem de peso inicial de lúpulo. O desvio máximo admitido para uma única determinação é igual a 1 %."
+  },
+  "67b951ec129244cf": {
+   "fragment_id": "2. Método (ii)",
+   "type": "divisao",
+   "heading": "2. Método (ii)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Método (ii)\n\nMétodo que utiliza uma balança electrónica que seca o lúpulo com o auxílio de raios infra-vermelhos ou de ar aquecido, ou uma balança eléctrica; estes aparelhos devem indicar numa escala a taxa de humidade da amostra tratada."
+  },
+  "5038d1509e8be4d0": {
+   "fragment_id": "C. MÉTODO DE CONTROLO DO TEOR EM CORPOS ESTRANHOS",
+   "type": "divisao",
+   "heading": "C. MÉTODO DE CONTROLO DO TEOR EM CORPOS ESTRANHOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. MÉTODO DE CONTROLO DO TEOR EM CORPOS ESTRANHOS"
+  },
+  "5cbc16eccad88194": {
+   "fragment_id": "1. Determinação das proporções de folhas, de pés e de detritos de lúpulo",
+   "type": "divisao",
+   "heading": "1. Determinação das proporções de folhas, de pés e de detritos de lúpulo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Determinação das proporções de folhas, de pés e de detritos de lúpulo\n\nAs amostras de 5 × 100 gramas são peneiradas com a ajuda de uma peneira de 2 milímetros. O lupulino, os detritos e as sementes que daí resultam, são apanhados e as sementes são separadas à mão. As amostras são colocadas de lado. O conteúdo da peneira de 2 milímetros é transferido separadamente para uma peneira de 10 milímetros e peneirado de novo.\n\nOs cones de lúpulo, as folhas, os pés e as matérias estranhas são retiradas à mão da peneira, enquanto que as folhas do cone, as sementes, os detritos de lupulino e uma pequena quantidade de folhas e de pés passam através da peneira. Tudo isto é separado manualmente e os bocados são reagrupados do seguinte modo:\n\n1. folhas e pés;\n\n2. lúpulo (folhas de cone, cones de lúpulo e lupulino);\n\n3. detritos;\n\n4. sementes.\n\nÉ muito difícil realizar uma separação precisa dos detritos e da lupulina. Todavia, utilizando um crivo com uma malha de 0,8 milímetros, é possível determinar aproximadamente as percentagens dos detritos e da lupulina.\n\nPara estimar a percentagem de lupulina, é conveniente ter em conta que a massa volúmica da lupulina é quatro vezes superior à dos detritos.\n\nOs diferentes grupos são pesados e a percentagem de cada grupo é determinada em relação ao peso da amostra inicial."
+  },
+  "9d199181246efcb2": {
+   "fragment_id": "2. Determinação da proporçãao de grânulos (sementes)",
+   "type": "divisao",
+   "heading": "2. Determinação da proporçãao de grânulos (sementes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Determinação da proporçãao de grânulos (sementes)\n\nA amostra de 25 gramas será depositada num recipiente metálico com tampa e colocada numa estufa a 115 graus Celsius durante duas horas a fim de neutralizar a substância resinosa e pegajosa.\n\nA amostra seca será embrulhada num pano de algodão de malha grosseira e friccionada vigorosamente — ou então batida mecanicamente — com o fim de separar os grânulos do lúpulo. O lúpulo seco e partido em finas partículas será separado dos grânulos de lúpulo com o auxílio de um triturador ou então utilizando um crivo de malha metálica de 1 milímetro. Os raquis de estróbilo que fiquem com os grânulos serão separados quer utilizando um tabuleiro inclinado guarnecido de papel-esmeril, quer recorrendo a outros dispositivos que permitam atingir o mesmo objectivo, isto é, reter os raquis de estróbilo e outras matérias e deixar passar os grânulos.\n\nOs grânulos devem ser pesados. A percentagem de grânulos deve ser calculada em relação ao peso da amostra inicial."
+  },
+  "5fc95b8f64e8782f": {
+   "fragment_id": "ANEXO II A",
+   "type": "divisao",
+   "heading": "ANEXO II A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II A"
+  },
+  "c0299d5c3c97069e": {
+   "fragment_id": "INDICAÇÕES REFERIDAS NO ARTIGO 5.º A",
+   "type": "divisao",
+   "heading": "INDICAÇÕES REFERIDAS NO ARTIGO 5.º A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INDICAÇÕES REFERIDAS NO ARTIGO 5.º A\n\n— *[em espanhol]* Producto certificado — Reglamento (CEE) nº 890/78,\n\n— *[em checo]* Ověřený produkt – Nařízení (EHS) 890/78,\n\n— *[em dinamarquês]* Certificeret produkt — Forordning (EØF) nr. 890/78,\n\n— *[em alemão]* Zertifiziertes Erzeugnis — Verordnung (EWG) Nr. 890/78,\n\n— *[em estónio]* Sertifitseeritud Produkt – Määrus (EMÜ) nr 890/78,\n\n— *[em grego]* Πιστοποιημένο προϊόν — κανονισμός (ΕΟΚ) αριθ. 890/78,\n\n— *[em inglês]* Certified product — Regulation (EEC) No 890/78,\n\n— *[em francês]* Produit certifié — Règlement (CEE) nº 890/78,\n\n— *[em italiano]* Prodotto certificato — Regolamento (CEE) n. 890/78,\n\n— *[em letão]* Sertificēts produkts – Reglaments (EEK) Nr. 890/78,\n\n— *[em lituano]* Sertifikuotas produktas – Reglamentas (EEB) Nr. 890/78,\n\n— *[em húngaro]* Minősített termék – 890/78/EGK rendelet,\n\n— *[em maltês]* Prodott Iccertifikat — Regolament (KEE) Nru 890/78,\n\n— *[em neerlandês]* Gecertificeerd product — Verordening (EEG) nr. 890/78,\n\n— *[em polaco]* Produkt certyfikowany — Rozporządzenie (EWG) Nr 890/78,\n\n— *[em português]* Produto certificado — Regulamento (CEE) n.º 890/78,\n\n— *[em esloveno]* Certificiran pridelek – Uredba (EGS) št. 890/78,\n\n— *[em eslovaco]* Certifikovaný výrobok – Nariadenie (EHS) č. 890/78,\n\n— *[em finlandês]* Varmennettu tuote – Asetus (ETY) N:o 890/78,\n\n— *[em sueco]* Certifierad produkt – Förordning (EEG) nr 890/78."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "fbd09a62599a2484": {
+   "fragment_id": "CODIFICAÇÃO E ORDEM DE COMPOSIÇÃO DO NÚMERO DE REFERÊNCIA DE CERTIFICAÇÃO",
+   "type": "divisao",
+   "heading": "CODIFICAÇÃO E ORDEM DE COMPOSIÇÃO DO NÚMERO DE REFERÊNCIA DE CERTIFICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CODIFICAÇÃO E ORDEM DE COMPOSIÇÃO DO NÚMERO DE REFERÊNCIA DE CERTIFICAÇÃO"
+  },
+  "8659cbaca978e8ee": {
+   "fragment_id": "1. Centro de certificação",
+   "type": "divisao",
+   "heading": "1. Centro de certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Centro de certificação\n\nnúmero de 0 a 100 comunicado pelo Estado-membro"
+  },
+  "dc44191d541f5e97": {
+   "fragment_id": "2. Estados-Membros que procedem à certificação",
+   "type": "divisao",
+   "heading": "2. Estados-Membros que procedem à certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Estados-Membros que procedem à certificação\n\nBE para Bélgica\n\nCZ para República Checa\n\nDK para Dinamarca\n\nDE para Alemanha\n\nEE para Estónia\n\nEL para Grécia\n\nES para Espanha\n\nFR para França\n\nIE para Irlanda\n\nIT para Itália\n\nCY para Chipre\n\nLV para Letónia\n\nLT para Lituânia\n\nLU para Luxemburgo\n\nHU para Hungria\n\nMT para Malta\n\nNL para Países Baixos\n\nAT para Áustria\n\nPL para Polónia\n\nPT para Portugal\n\nSI para Eslovénia\n\nSK para Eslováquia\n\nFI para Finlândia\n\nSE para Suécia\n\nUK para Reino Unido"
+  },
+  "6efb9e7128971433": {
+   "fragment_id": "3. Ano de colheita",
+   "type": "divisao",
+   "heading": "3. Ano de colheita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Ano de colheita\n\nos dois números do décimo do ano de colheita."
+  },
+  "d6e2f629f3cb15a9": {
+   "fragment_id": "4. Identificação do lote",
+   "type": "divisao",
+   "heading": "4. Identificação do lote",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Identificação do lote\n\nnúmero atribuído ao lote pelo organismo de certificação. Exemplo: 12 B 77 170225."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "9a38c8312be68945": {
+   "fragment_id": "MARCAÇÃO DAS EMBALAGENS",
+   "type": "divisao",
+   "heading": "MARCAÇÃO DAS EMBALAGENS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MARCAÇÃO DAS EMBALAGENS\n\nA marcação será efectuada, segundo a natureza da embalagem, do seguinte modo:\n\na) Lúpulo em cones embalado em fardos ou volumes:\n\n— por impresão na embalagem;\n\nb) Pó de lúpulo em pacotes:\n\n— por impressão no pacote;\n\nc) Pó ou extracto de lúpulo em caixas metálicas:\n\n— por impressão na caixa ou gravação no metal da caixa;\n\nd) Embalagem selada que contém um lote de pacotes ou caixas de pó ou de extracto:\n\n— por impressão na embalagem selada[**►M7**](http://publications.europa.eu/resource/celex/31989R0921) e em cada um dos pacotes ou caixas de pó ou de extracto contidos na embalagem selada**◄**."
+  },
+  "c553c7de8766494e": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V\n\nSubstâncias autorizadas para normalização de extractos de lúpulo:\n\n1. Xarope de glicose\n\n2. Extracto de resinas de lúpulo em água quente."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "1e8e7c768b70e572": {
+   "fragment_id": "PRODUTOS ISOMERIZADOS DE LÚPULO JÁ COMERCIALIZADOS OU EM VIAS DE COMERCIALIZAÇÃO — NOVEMBRO DE 1992",
+   "type": "divisao",
+   "heading": "PRODUTOS ISOMERIZADOS DE LÚPULO JÁ COMERCIALIZADOS OU EM VIAS DE COMERCIALIZAÇÃO — NOVEMBRO DE 1992",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRODUTOS ISOMERIZADOS DE LÚPULO JÁ COMERCIALIZADOS OU EM VIAS DE COMERCIALIZAÇÃO — NOVEMBRO DE 1992\n\n| Produto | Processo | Utilização |\n| --- | --- | --- |\n| *Pellets* isomerizados | Pó tipo 90 convencional, misturado com um óxido de metal (geralmente magnésio), peletizado e submetido a um aquecimento a baixa temperatura | Em substituição dos *pellets* de lúpulo anteriormente utilizados na caldeira, ou para incorporação durante a fase final de cozedura |\n| Extrudido (pó de lúpulo extrudido) | Pó convencional, misturado com carbonatos, óxidos ou hidróxidos de metais (ou suas misturas), passado por uma extrusora onde se procede à cozedura (pressão a temperaturas altas durante um período curto) | A mesma que no caso dos *pellets* isomerizados |\n| *Pellets* estabilizados | Como os *pellets isomerizados,* mas sem aquecimento | A mesma que no caso de *pellets* isomerizados |\n| Extractos isomerizados de produtos da caldeira (incluindo PIKE, MIKE, IKE, IRE) | Trata-se geralmente de extractos convencionais (normalmente CO2) misturados com óxidos, hidróxidos ou carbonatos de metais (ou suas misturas) e submetidos a aquecimento ou pressão (ou ambos). Nalguns produtos, os iões metálicos e os sais metálicos são retirados da mistura final | Em substituição dos extractos normalmente utilizados na cozedura, ou para incorporação na fase final de cozedura |\n| Pós-fermentação Extractos isomerizados | Extractos de lúpulo purificados e submetidos ao tratamento acima indicado, para obtenção de ácido alfa isomerizado relativamente puro [geralmente na forma de sais de metais alcalinos [geralmente potássio) de ácidos alfa isomerizados] | Para o ajustamento final do amargor da cerveja, sem que sejam afectados outras características aromáticas |\n| Pós-fermentação Extractos isomerizados reduzidos | Extractos de lúpulo purificados, quimicamente reduzidos e tratados como acima descrito para obtenção de produtos isomerizados reduzidos relativamente puros | Controlo do amargor da cerveja, protecção contra o escurecimento e aumento da estabilidade da espuma, sem que sejam afectadas outras características aromáticas |\n\n---"
+  },
+  "3d37bebe420b4ef8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/606f902a-9e3d-425b-b0d4-ef85ffb66325.0016.03/DOC_1#src.E0001)) JO n.º L 175 de 4. 8. 1971. p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/606f902a-9e3d-425b-b0d4-ef85ffb66325.0016.03/DOC_1#src.E0002)) JO n.º L 137 de 3. 6. 1977, p. 7.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/606f902a-9e3d-425b-b0d4-ef85ffb66325.0016.03/DOC_1#src.E0003)) JO n.º L 200 de 8. 8. 1977, p. 1."
+  },
+  "fe386022b6c37c2c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1978R0890 — PT — 01.04.2007 — 013.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31978R0890) [REGULAMENTO (CEE) N.º 890/78 DA COMISSÃO](http://publications.europa.eu/resource/celex/31978R0890) [de 28 de Abril de 1978](http://publications.europa.eu/resource/celex/31978R0890) [relativo às modalidades de certificação do lúpulo](http://publications.europa.eu/resource/celex/31978R0890) (JO L 117, 29.4.1978, p.43)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1850/2006 da Comissão de 14 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1850) — L 355 — 72 — 15.12.2006"
+  }
+ }
+}

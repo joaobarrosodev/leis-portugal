@@ -1,0 +1,605 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0096:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0096-20081211",
+ "dre_path": null,
+ "source_lastmod": "2008-12-11",
+ "versions": [
+  {
+   "date": "2002-01-16",
+   "future": false,
+   "celex": "32001L0096",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "99654faa5b7c68f3",
+    "6f8a0875c363b805",
+    "9647403da10f3119",
+    "98bae3a01679eebe",
+    "e44ff74d1b61fc9f",
+    "7e2ce1cc4c8b2b12",
+    "ea78a9ac429aa6d7",
+    "be010e30e1624029",
+    "a6a1a58faa44a06b",
+    "84873b59191632ef",
+    "336c03b74a6c433c",
+    "bb040206952945e0",
+    "57cf2f19f6b1ba28",
+    "dbb106e16dcbcd98",
+    "9409a3786f559f2b",
+    "f85a825d75a88b85",
+    "bfe8e3578def084d",
+    "7994f6c4d48afa71",
+    "7b36efaf956a523b",
+    "c92090522381efd2",
+    "3744ebeae1acc0ab",
+    "55d740fa29dee241",
+    "b2f0ac2e5de183ac",
+    "69542cb1a3f54302",
+    "eb1a40aa6d6625e9",
+    "140952fa534f097a"
+   ]
+  },
+  {
+   "date": "2008-12-11",
+   "future": false,
+   "celex": "02001L0096-20081211",
+   "acts": [
+    {
+     "id": "eu:celex:32002L0084:por",
+     "title": "DIRECTIVA 2002/84/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5 de Novembro de 2002",
+     "published": null,
+     "celex": "32002L0084"
+    },
+    {
+     "id": "eu:celex:32008R1137:por",
+     "title": "REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008",
+     "published": null,
+     "celex": "32008R1137"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Definições",
+    "Altera Artigo 5.º — Requisitos de aptidão dos terminais",
+    "Altera Artigo 8.º — Procedimentos entre navios graneleiros e terminais",
+    "Altera Artigo 15.º — Procedimento de alteração",
+    "Altera Artigo 19.º — Destinatários",
+    "Adita Artigo 14.º — Procedimento de comité",
+    "Adita ANEXO I",
+    "Adita REQUISITOS RELATIVOS À APTIDÃO OPERACIONAL DOS NAVIOS GRANELEIROS PARA CARREGAR E DESCARREGAR CARGAS SÓLIDAS A GRANEL",
+    "Adita (conforme previsto no artigo 4.º)",
+    "Adita ANEXO II",
+    "Adita REQUISITOS DE APTIDÃO DOS TERMINAIS PARA A CARGA E DESCARGA DE CARGAS SÓLIDAS A GRANEL",
+    "Adita (conforme previsto no ponto 1 do artigo 5.º)",
+    "Adita ANEXO III",
+    "Adita INFORMAÇÕES A FORNECER PELO COMANDANTE AO TERMINAL",
+    "Adita [conforme previsto no ponto 1, alínea b), do artigo 7.º]",
+    "Adita ANEXO IV",
+    "Adita OBRIGAÇÕES DO COMANDANTE ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA",
+    "Adita [conforme previsto no ponto 1, alínea d), do artigo 7.º]",
+    "Adita ANEXO V",
+    "Adita INFORMAÇÕES A FORNECER PELO TERMINAL AO COMANDANTE",
+    "Adita [conforme previsto no ponto 2, alínea a), do artigo 7.º]",
+    "Adita ANEXO VI",
+    "Adita OBRIGAÇÕES DO REPRESENTANTE DO TERMINAL ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA",
+    "Adita [conforme previsto no ponto 2, alínea d), do artigo 7.º]",
+    "Adita Notas",
+    "Suprime Artigo 14.º — Comité de regulamentação",
+    "Suprime ANEXO I — REQUISITOS RELATIVOS À APTIDÃO OPERACIONAL DOS NAVIOS GRANELEIROS PARA CARREGAR E DESCARREGAR CARGAS SÓLIDAS A GRANEL",
+    "Suprime ANEXO II — REQUISITOS DE APTIDÃO DOS TERMINAIS PARA A CARGA E DESCARGA DE CARGAS SÓLIDAS A GRANEL",
+    "Suprime ANEXO III — INFORMAÇÕES A FORNECER PELO COMANDANTE AO TERMINAL",
+    "Suprime ANEXO IV — OBRIGAÇÕES DO COMANDANTE ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA",
+    "Suprime ANEXO V — INFORMAÇÕES A FORNECER PELO TERMINAL AO COMANDANTE",
+    "Suprime ANEXO VI — OBRIGAÇÕES DO REPRESENTANTE DO TERMINAL ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA"
+   ],
+   "fragments": [
+    "bcea9183e2e22e4d",
+    "6f8a0875c363b805",
+    "9647403da10f3119",
+    "560cd7e04bb748fd",
+    "e44ff74d1b61fc9f",
+    "8a6ba94b35b6a7cd",
+    "5fc0b107a8e45312",
+    "be010e30e1624029",
+    "e422d2237b72c9f5",
+    "42d26565d8e43184",
+    "db8a37d42fa6546d",
+    "b07709d41cce0f04",
+    "db140a452f5bcc57",
+    "dbb106e16dcbcd98",
+    "ed1cb4160e4028ac",
+    "750f15896cb191cb",
+    "bfe8e3578def084d",
+    "7994f6c4d48afa71",
+    "015429293633853b",
+    "d3d26ff61fad641c",
+    "d664376e2a8dcecd",
+    "276c7cd2f334a9d7",
+    "a90fa323a2ed8109",
+    "852174729551523b",
+    "d92f6ff4d2a14ad6",
+    "2f0ac00056c09a0f",
+    "720af75c92791b10",
+    "a078035306ab14c1",
+    "00cedbb86693a362",
+    "e03a0eb4d5b2eef3",
+    "d7b79b57a3482a7e",
+    "14eb62484f78abf0",
+    "64610ae29a6cb67c",
+    "b47892c7adb78b31",
+    "608b34246b883f67",
+    "90c7d2baf4d44ee2",
+    "f7e43908b2fc56b7",
+    "f2b05d64ee8580c3",
+    "56dea5b5d6a978a9"
+   ]
+  }
+ ],
+ "fragments": {
+  "99654faa5b7c68f3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2001/96/CE do Parlamento Europeu e do Conselho, de 4 de Dezembro de 2001, que estabelece normas e procedimentos harmonizados para a segurança das operações de carga e descarga de navios graneleiros (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 013 de 16/01/2002 p. 0009 - 0020*\n\nDirectiva 2001/96/CE do Parlamento Europeu e do Conselho\n\nde 4 de Dezembro de 2001\n\nque estabelece normas e procedimentos harmonizados para a segurança das operações de carga e descarga de navios graneleiros\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.o 2 do seu artigo 80.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social(2),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.o do Tratado(3),\n\nConsiderando o seguinte:\n\n(1) Perante o elevado número de acidentes marítimos com navios graneleiros e a perda de vidas humanas que deles resultam, torna-se necessário tomar novas medidas, destinadas a reforçar a segurança do transporte marítimo, no quadro da política comum dos transportes.\n\n(2) A investigação das causas dos acidentes com navios graneleiros indica que as operações de carga e descarga de cargas sólidas a granel podem, quando incorrectamente conduzidas, contribuir para a perda dos navios, quer por submeterem a estrutura a tensões excessivas, quer por causarem estragos mecânicos em elementos estruturais dos porões de carga. A protecção da segurança dos navios graneleiros pode ser reforçada com a adopção de medidas destinadas a reduzir o risco de avarias estruturais e de perdas resultantes de operações de carga e descarga mal conduzidas.\n\n(3) A nível internacional, a Organização Marítima Internacional (OMI), mediante um conjunto de resoluções da sua assembleia, adoptou recomendações no domínio da segurança dos navios graneleiros relativas à interface navio/porto em geral e às operações de carga e descarga em particular.\n\n(4) A OMI adoptou, mediante a Resolução A.862(20) da assembleia, um código de conduta para a segurança das operações de carga e descarga de navios graneleiros (a seguir designado por \"código BLU\"), exortando os governos contratantes a aplicá-lo com a maior brevidade e a informarem-na de qualquer situação de incumprimento. Nessa resolução, a OMI exortou ainda os governos contratantes em cujos territórios se localizem terminais de carga e descarga de cargas sólidas a granel a introduzirem regulamentação que permita implementar um conjunto de princípios essenciais necessários à aplicação do código.\n\n(5) O impacto das operações de carga e descarga na segurança dos navios graneleiros tem implicações transnacionais, dada a natureza global do tráfego de cargas sólidas a granel. O desenvolvimento de acções preventivas destinadas a evitar o afundamento de navios graneleiros em resultado de práticas incorrectas de carga e descarga terá, por conseguinte, melhores resultados se forem estabelecidos, a nível comunitário, normas e procedimentos harmonizados tendo em vista a aplicação das recomendações da OMI constantes da Resolução A.862(20) da sua assembleia e do código BLU.\n\n(6) À luz do princípio da subsidiariedade, constante do artigo 5.o do Tratado, uma directiva constitui o instrumento jurídico mais adequado, visto estabelecer, para os Estados-Membros, um quadro de aplicação uniforme e obrigatória das normas e procedimentos de carga e descarga seguras de navios graneleiros, deixando-lhes, no entanto, o direito de decidir dos meios de execução que melhor se adequam ao seu sistema interno. De acordo com o princípio da proporcionalidade, a presente directiva não excede o necessário para atingir os objectivos prosseguidos.\n\n(7) A segurança dos navios graneleiros e das suas tripulações pode ser reforçada através da redução dos riscos resultantes da má condução das operações de carga ou descarga de cargas sólidas a granel nos terminais. Esse reforço pode ser implementado mediante o estabelecimento de procedimentos harmonizados de cooperação e comunicação entre os navios e os terminais e de requisitos de aptidão para os navios e os terminais.\n\n(8) No sentido de reforçar a segurança dos navios graneleiros e de evitar distorções da concorrência, os procedimentos harmonizados e os critérios de aptidão devem aplicar-se a todos os navios graneleiros, independentemente do pavilhão que arvorem, e a todos os terminais da Comunidade que os navios demandem, em circunstâncias normais, para efeitos de carga ou descarga de cargas sólidas a granel.\n\n(9) Os navios graneleiros que demandem terminais para carregar ou descarregar cargas sólidas a granel devem ser adequados a esse fim. Do mesmo modo, os terminais devem igualmente estar aptos a receber, carregar e descarregar navios graneleiros. Para o efeito, foram estabelecidos critérios de aptidão no código BLU.\n\n(10) A fim de reforçar a cooperação e a comunicação com os comandantes dos navios em matérias relacionadas com a carga e descarga de cargas sólidas a granel, os terminais deverão designar um representante responsável por essas operações nos terminais e pôr à disposição dos comandantes opúsculos informativos sobre os requisitos do porto e do terminal, estando previstas no código BLU disposições nesse sentido.\n\n(11) O desenvolvimento, aplicação e manutenção de um sistema de gestão da qualidade pelos terminais permitirá assegurar que a cooperação e a comunicação dos procedimentos e das operações efectivas de carga e descarga são planeadas e executadas num quadro harmonizado, internacionalmente reconhecido e fiscalizável. Para que seja reconhecido internacionalmente, o sistema de gestão da qualidade deverá ser compatível com a série de normas ISO 9000 adoptadas pela Organização Internacional de Normalização. A fim de permitir que os novos terminais obtenham com tempo suficiente os certificados pertinentes, é importante garantir que lhes seja concedida uma autorização temporária para operarem durante um período limitado.\n\n(12) A fim de assegurar que as operações de carga e descarga são preparadas, acordadas e conduzidas com o devido cuidado, de modo a evitar que possam comprometer a segurança do navio ou da tripulação, é necessário definir as obrigações do comandante e do representante do terminal. A Convenção Internacional para a salvaguarda da vida humana no mar (Convenção SOLAS de 1974), a Resolução A.862(20) da assembleia da OMI e o código BLU prevêem disposições nesse sentido. Para o mesmo efeito, os procedimentos aplicáveis à preparação, acordo e condução de operações de carga e descarga podem ser baseadas nas disposições desses instrumentos internacionais.\n\n(13) No interesse geral da Comunidade de erradicar dos seus portos os navios que não cumpram as normas, os representantes dos terminais devem notificar presumíveis anomalias que se verifiquem em navios graneleiros, susceptíveis de comprometer a segurança das operações de carga ou descarga.\n\n(14) É necessário que as autoridades competentes dos Estados-Membros disponham de poderes para impedir ou suspender as operações de carga ou descarga quando tiverem indicações claras de que estas podem comprometer a segurança do navio ou da sua tripulação. Por uma questão de segurança, as autoridades deverão igualmente intervir em caso de desacordo entre o comandante e o representante do terminal quanto à aplicação dos procedimentos acima referidos. As acções desenvolvidas pelas autoridades competentes, relacionadas com a segurança, deverão ser independentes dos interesses comerciais dos terminais.\n\n(15) É necessário estabelecer procedimentos destinados a assegurar que as avarias causadas aos navios durante as operações de carga ou descarga sejam comunicadas às entidades adequadas, tais como as sociedades de classificação pertinentes, e, se necessário, reparadas. Quando tais avarias possam comprometer a segurança ou a navegabilidade do navio, a decisão quanto à necessidade e urgência das reparações deve ser tomada pelas autoridades estaduais de controlo portuário, em consulta com a administração do Estado de pavilhão. Dada a competência técnica necessária para a tomada dessa decisão, as referidas autoridades deverão poder confiar a uma organização reconhecida a inspecção das avarias e o aconselhamento sobre a necessidade de efectuar qualquer reparação.\n\n(16) O cumprimento da presente directiva deverá ser reforçado através de procedimentos eficazes de fiscalização e de verificação nos Estados-Membros. A comunicação dos resultados das inspecções fornecerá informações úteis sobre a eficácia dos requisitos e procedimentos harmonizados constantes da presente directiva.\n\n(17) Na Resolução A.797(19) da assembleia da OMI, de 23 de Novembro de 1995, relativa à segurança dos navios que transportam carga sólida a granel, esta requeria que as autoridades de controlo portuário lhe confirmassem a conformidade dos terminais de carga e descarga de cargas sólidas a granel com os códigos e recomendações da OMI no domínio da cooperação navio/terra. A notificação à OMI da aprovação da presente directiva constituirá uma resposta adequada a essa solicitação e dará à comunidade marítima internacional um sinal claro do empenhamento da Comunidade em apoiar os esforços desenvolvidos a nível internacional no sentido de reforçar a segurança das operações de carga e descarga de navios graneleiros.\n\n(18) As medidas necessárias à aplicação da presente directiva devem ser adoptadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(4).\n\n(19) Certas disposições da presente directiva devem poder ser alteradas de acordo com aquele procedimento, tendo em vista a sua harmonização com instrumentos internacionais e comunitários aprovados, alterados ou que entrem em vigor após a entrada em vigor da presente directiva, bem como a aplicação dos procedimentos nela previstos, sem alargamento do seu âmbito.\n\n(20) A Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho(5) e as suas directivas específicas relevantes são aplicáveis ao trabalho relativo à carga e descarga dos navios graneleiros,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "6f8a0875c363b805": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO objectivo da presente directiva é reforçar a segurança dos navios graneleiros que demandam terminais dos Estados-Membros para carregar ou descarregar cargas sólidas a granel, reduzindo o risco de se produzirem tensões excessivas e avarias materiais na estrutura do navio, durante as operações de carga ou descarga, mediante o estabelecimento de:\n\n1. Requisitos harmonizados de aptidão para os navios e os terminais; e\n\n2. Procedimentos harmonizados de cooperação e comunicação entre os navios e os terminais."
+  },
+  "9647403da10f3119": {
+   "fragment_id": "Artigo 2.º — Âmbito",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA presente directiva é aplicável a:\n\n1. Todos os navios graneleiros, seja qual for o pavilhão que arvorem, que demandem um terminal para carregar ou descarregar cargas sólidas a granel; e\n\n2. Todos os terminais dos Estados-Membros a que acostem navios graneleiros abrangidos pela presente directiva.\n\nSem prejuízo do disposto na regra VI/7 da Convenção SOLAS de 1974, a presente directiva não se aplica às instalações que só em circunstâncias excepcionais sejam utilizadas para operações de carga ou descarga de cargas sólidas e a granel em navios graneleiros, nem aos casos em que as operações de carga ou descarga sejam efectuadas apenas com o equipamento do navio graneleiro em causa."
+  },
+  "98bae3a01679eebe": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. \"Convenções internacionais\", as convenções em vigor em 4 de Dezembro de 2001, tal como definidas no n.o 1 do artigo 2.o da Directiva 95/21/CE do Conselho(6);\n\n2. \"Convenção SOLAS de 1974\", a Convenção Internacional para a salvaguarda da vida humana no mar, bem como os seus protocolos e alterações, na redacção em vigor em 4 de Dezembro de 2001;\n\n3. \"Código BLU\", o código de práticas para a segurança das operações de carga e descarga de navios graneleiros, constante do anexo da Resolução A.862 (20) da assembleia da OMI, de 27 de Novembro de 1997, na sua redacção em 4 de Dezembro de 2001;\n\n4. \"Graneleiro\", um navio conforme com a definição dada na regra IX/1.6 da Convenção SOLAS de 1974 e com a interpretação constante da Resolução 6 da Conferência SOLAS de 1997, nomeadamente:\n\n- um navio com um só convés, com tanques superiores laterais e tanques inferiores laterais tipo tremonha nos porões de carga e destinado principalmente ao transporte de carga sólida a granel, ou\n\n- um mineraleiro, ou seja, um navio de mar de um só convés, com duas anteparas longitudinais e um duplo fundo a toda a extensão do espaço de carga, destinado ao transporte de minério exclusivamente nos porões centrais, ou\n\n- um navio de carga combinado, conforme definido na regra II-2/3.27 da Convenção SOLAS de 1974;\n\n5. \"Carga seca a granel\" ou \"carga sólida a granel\", a carga a granel definida na regra XII/1.4 da Convenção SOLAS de 1974, excluindo grão;\n\n6. \"Grão\",os cereais referidos na regra VI/8.2 da Convenção SOLAS de 1974;\n\n7. \"Terminal\", uma instalação fixa, flutuante ou móvel, equipada e utilizada para a carga e descarga de navios graneleiros com carga sólida a granel;\n\n8. \"Operador de terminal\", o proprietário de um terminal, ou a organização ou pessoa para quem o proprietário transferiu a responsabilidade pelas operações de carga e descarga efectuadas no terminal em relação a um dado graneleiro;\n\n9. \"Representante do terminal\", a pessoa designada pelo operador do terminal, à qual cabe a responsabilidade geral de controlar a preparação, a realização e a conclusão das operações de carga ou descarga efectuadas pelo terminal em relação a um dado navio graneleiro e que dispõe de autoridade para esse efeito;\n\n10. \"Comandante\", o comandante de um navio graneleiro ou o oficial do navio afectado pelo comandante às operações de carga ou descarga;\n\n11. \"Organização reconhecida\", uma organização reconhecida de acordo com o artigo 4.o da Directiva 94/57/CE do Conselho(7);\n\n12. \"Administração do Estado de pavilhão\", as autoridades competentes do Estado cujo pavilhão o navio está autorizado a arvorar;\n\n13. \"Autoridade de controlo do Estado do porto\", a autoridade competente de um Estado-Membro com poderes para aplicar as disposições de controlo previstas na Directiva 95/21/CE;\n\n14. \"Autoridade competente\", uma entidade pública nacional, regional ou local de um Estado-Membro, com poderes conferidos pela legislação nacional para aplicar e fazer cumprir as normas da presente directiva;\n\n15. \"Informações sobre a carga\", as informações sobre a carga exigidas pela regra VI/2 da Convenção SOLAS de 1974;\n\n16. \"Plano de carga ou descarga\", o plano referido na regra VI/7.3 da Convenção SOLAS de 1974, na forma prevista no apêndice 2 do código BLU;\n\n17. \"Lista de verificações de segurança navio/terra\", a lista de verificações referida na secção 4 do código BLU, na forma prevista no apêndice 3 do mesmo código;\n\n18. \"Declaração de densidade da carga sólida a granel\", as informações sobre a densidade da carga, a fornecer de acordo com a regra XII/10 da Convenção SOLAS de 1974."
+  },
+  "e44ff74d1b61fc9f": {
+   "fragment_id": "Artigo 4.º — Requisitos de aptidão operacional dos navios graneleiros",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Requisitos de aptidão operacional dos navios graneleiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de aptidão operacional dos navios graneleiros\n\nOs Estados-Membros tomarão as medidas necessárias para assegurar que os operadores de terminais estão de acordo com a aptidão operacional dos navios graneleiros para carregar ou descarregar cargas sólidas a granel, fiscalizando o cumprimento das disposições do anexo I."
+  },
+  "7e2ce1cc4c8b2b12": {
+   "fragment_id": "Artigo 5.º — Requisitos de aptidão dos terminais",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Requisitos de aptidão dos terminais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos de aptidão dos terminais\n\nOs Estados-Membros devem certificar-se de que os operadores de terminais que exercem as suas funções nos termos da presente directiva asseguram que os terminais sob a sua responsabilidade:\n\n1. Obedecem às disposições do anexo II;\n\n2. Designaram um (ou mais) representante(s) do terminal;\n\n3. Prepararam opúsculos informativos contendo os requisitos do terminal e das autoridades competentes e informações sobre o porto e o terminal, conforme indicado no ponto 1.2 do apêndice 1 do código BLU, e os põem à disposição dos comandantes dos navios graneleiros que demandam o terminal para carregar ou descarregar cargas sólidas a granel; e\n\n4. Criaram, aplicaram e mantêm um sistema de gestão da qualidade certificado de acordo com a norma ISO 9001: 2000 ou com uma norma equivalente que satisfaça, no mínimo, todos os aspectos da ISO 9001: 2000 e inspeccionado de acordo com as orientações da norma ISO 10011: 1991 ou de uma norma equivalente que satisfaça todos os aspectos da ISO 10011: 1991. Os Estados-Membros assegurarão o cumprimento da Directiva 98/34/CE(8) no que se refere às normas equivalentes.\n\nSerá concedido um período transitório de três anos a contar da entrada em vigor da presente directiva para a instauração do sistema de gestão da qualidade e um período adicional de um ano para a obtenção do respectivo certificado."
+  },
+  "ea78a9ac429aa6d7": {
+   "fragment_id": "Artigo 6.º — Autorização temporária",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Autorização temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Autorização temporária\n\nEm derrogação aos requisitos constantes do n.o 4 do artigo 5.o, poderá ser emitida pela autoridade competente uma autorização temporária, válida por 12 meses, no máximo, para que os terminais recentemente criados possam operar. O terminal deverá, todavia, provar o seu plano de aplicação de um sistema de gestão da qualidade de acordo com a norma ISO 9001:2000 ou com uma norma equivalente, tal como previsto no n.o 4 do artigo 5.o"
+  },
+  "be010e30e1624029": {
+   "fragment_id": "Artigo 7.º — Responsabilidades dos comandantes e dos representantes dos terminais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Responsabilidades dos comandantes e dos representantes dos terminais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Responsabilidades dos comandantes e dos representantes dos terminais\n\nOs Estados-Membros tomarão as medidas necessárias para assegurar que os princípios seguintes, relativos às responsabilidades dos comandantes e dos representantes dos terminais, sejam respeitados e aplicados.\n\n1. Responsabilidades do comandante:\n\na) O comandante é sempre responsável pela segurança da carga e descarga do navio graneleiro sob o seu comando;\n\nb) O comandante fornecerá ao terminal, com antecedência bastante em relação à hora estimada de chegada do navio, as informações referidas no anexo III;\n\nc) Antes de ser embarcada qualquer carga sólida a granel, o comandante certificar-se-á de que recebeu as informações sobre a carga exigidas na regra VI/2.2 da Convenção SOLAS de 1974 e, quando necessário, uma declaração sobre a densidade dessa carga sólida a granel. Esta informação deve ser incluída no formulário de declaração da carga, que figura no apêndice 5 do código BLU;\n\nd) Antes do início e durante a operação de carga ou descarga, o comandante dará cumprimento às obrigações enunciadas no anexo IV.\n\n2. Responsabilidades do representante do terminal:\n\na) Ao receber a comunicação inicial da hora estimada de chegada do navio, o representante do terminal fornecerá ao comandante as informações referidas no anexo V;\n\nb) O representante do terminal certificar-se-á de que o comandante recebe o mais cedo possível as informações incluídas no formulário de declaração da carga;\n\nc) O representante do terminal notificará sem demora ao comandante e à autoridade de controlo do Estado do porto as presumíveis anomalias por si verificadas a bordo do navio graneleiro que possam comprometer a segurança das operações de carga ou descarga das cargas sólidas a granel;\n\nd) Antes do início e durante a operação de carga ou descarga, o representante do terminal dará cumprimento às obrigações enunciadas no anexo VI."
+  },
+  "a6a1a58faa44a06b": {
+   "fragment_id": "Artigo 8.º — Procedimentos entre navios graneleiros e terminais",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Procedimentos entre navios graneleiros e terminais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Procedimentos entre navios graneleiros e terminais\n\nOs Estados-Membros assegurarão a aplicação dos procedimentos a seguir enunciados no que se refere às operações de carga ou descarga de navios graneleiros que transportam cargas sólidas a granel:\n\n1. Antes de as cargas sólidas a granel serem carregadas ou descarregadas, o comandante acordará com o representante do terminal um plano de carga ou descarga, em conformidade com as disposições da regra VI/7.3 da Convenção SOLAS de 1974. O plano de carga ou descarga deve ser elaborado conforme previsto no apêndice 2 do código BLU e conter o número OMI do graneleiro em causa, devendo o comandante e o representante do terminal confirmar o seu acordo com o plano, apondo as suas assinaturas.\n\nQualquer modificação do plano que, no entender de uma das partes, possa afectar a segurança do navio ou da tripulação,deve ser preparada, aceite e aprovada por ambas as partes, assumindo a forma de plano revisto.\n\nO plano de carga ou descarga acordado, e todas as revisões ulteriormente aprovadas, devem ser conservados no navio e no terminal por um período de seis meses, tendo em vista quaisquer verificações necessárias por parte das autoridades competentes.\n\n2. Antes do início da operação de carga ou descarga, deve ser elaborada e assinada pelo comandante e pelo representante do terminal uma lista de verificações de segurança navio/terra, de acordo com as orientações do apêndice 4 do código BLU.\n\n3. Deve ser estabelecida e mantida a todo o momento uma comunicação efectiva entre o navio e o terminal, capaz de responder a pedidos de informação sobre o processo de carga ou descarga e de assegurar o cumprimento imediato de uma eventual ordem do comandante ou do representante do terminal de suspensão das operações de carga ou descarga.\n\n4. O comandante e o representante do terminal conduzirão as operações de carga ou descarga em conformidade com o plano acordado. O representante do terminal é responsável pela carga ou descarga da carga sólida a granel no que se refere à ordem dos porões, à quantidade e ao regime de carga ou descarga destes, constantes do plano. Não pode desviar-se do plano de carga ou descarga acordado, a não ser mediante consulta prévia e acordo por escrito do comandante.\n\n5. Uma vez concluída a operação de carga ou descarga, o comandante e o representante do terminal devem declarar por escrito que a carga ou descarga foi efectuada de acordo com o respectivo plano, incluindo quaisquer modificações acordadas. Em caso de descarga, este acordo deve incluir igualmente o registo de que os porões de carga foram esvaziados e limpos de acordo com as instruções do comandante, bem como o registo de quaisquer avarias sofridas pelo navio e das eventuais reparações efectuadas."
+  },
+  "84873b59191632ef": {
+   "fragment_id": "Artigo 9.º — Papel das autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Papel das autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Papel das autoridades competentes\n\n1. Sem prejuízo dos direitos e obrigações do comandante previstos na regra VI/7.7 da Convenção SOLAS de 1974, os Estados-Membros assegurarão que as suas autoridades competentes impeçam ou suspendam a carga ou descarga de cargas sólidas a granel quando tiverem indicações claras de que a segurança do navio ou da tripulação seria posta em risco por essas operações.\n\n2. No caso de a autoridade competente ser informada de que há desacordo entre o comandante e o representante do terminal quanto à aplicação dos procedimentos previstos no artigo 8.o, a autoridade competente intervirá, quando necessário, no interesse da segurança e/ou do meio marinho."
+  },
+  "336c03b74a6c433c": {
+   "fragment_id": "Artigo 10.º — Reparação de avarias ocorridas durante a operação de carga ou descarga",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Reparação de avarias ocorridas durante a operação de carga ou descarga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Reparação de avarias ocorridas durante a operação de carga ou descarga\n\n1. Se ocorrer avaria na estrutura ou no equipamento do navio durante a operação de carga ou descarga, esta deve ser comunicada pelo representante do terminal ao comandante e, se necessário, reparada.\n\n2. Se a avaria puder afectar a estrutura ou a estanquidade do casco, ou ainda os sistemas de máquinas essenciais do navio, a administração do Estado de pavilhão, ou uma organização por ela reconhecida e agindo em seu nome, assim como a autoridade de controlo portuário, serão informadas da situação pelo representante do terminal e/ou pelo comandante. A decisão sobre se é necessária uma reparação imediata ou se esta pode ser adiada será tomada pela autoridade de controlo portuário, que terá na devida conta o parecer, a existir, da administração do Estado de pavilhão ou da organização reconhecida que age em seu nome e o parecer do comandante. Se for considerada necessária a reparação da avaria, esta deverá ser efectuada de acordo com as exigências do comandante e da autoridade competente, antes de o navio deixar o porto.\n\n3. A fim de tomar a decisão referida no n.o 2, a autoridade de controlo portuário pode confiar a uma organização reconhecida a inspecção das avarias e o parecer sobre a necessidade de efectuar reparações ou sobre o seu adiamento.\n\n4. O presente artigo é aplicável sem prejuízo do disposto na Directiva 95/21/CE."
+  },
+  "bb040206952945e0": {
+   "fragment_id": "Artigo 11.º — Fiscalização e relatórios",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Fiscalização e relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fiscalização e relatórios\n\n1. Os Estados-Membros fiscalizarão regularmente a conformidade dos terminais com o disposto no ponto 1 do artigo 5.o, no ponto 2 do artigo 7.o e no artigo 8.o O processo de fiscalização incluirá a realização de inspecções, sem aviso prévio, durante as operações de carga ou descarga.\n\nAlém disso, os Estados-Membros verificarão se os terminais cumprem os requisitos estabelecidos no ponto 4 do artigo 5.o, no final do período nele previsto, e, em relação aos novos terminais, no final do período fixado no artigo 6.o\n\n2. Os Estados-Membros apresentarão à Comissão, de três em três anos, um relatório sobre os resultados da fiscalização. O relatório incluirá também uma avaliação da eficácia dos procedimentos harmonizados de cooperação e comunicação entre os navios graneleiros e os terminais, tal como previsto na presente directiva. O relatório será apresentado até 30 de Abril do ano seguinte ao período de três anos civis a que se refere."
+  },
+  "57cf2f19f6b1ba28": {
+   "fragment_id": "Artigo 12.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Avaliação\n\nA Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre o funcionamento do sistema previsto na presente directiva, elaborado com base nos relatórios dos Estados-Membros, tal como previsto no n.o 2 do artigo 11.o Esse relatório incluirá igualmente uma apreciação da necessidade de prosseguir com os referidos relatórios dos Estados-Membros referidos no n.o 2 do artigo 11.o"
+  },
+  "dbb106e16dcbcd98": {
+   "fragment_id": "Artigo 13.º — Notificação da OMI",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Notificação da OMI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Notificação da OMI\n\nA Presidência do Conselho, em nome dos Estados-Membros, e a Comissão informarão conjuntamente a OMI da adopção da presente directiva, fazendo referência ao ponto 1.7 do anexo à Resolução A.797(19)."
+  },
+  "9409a3786f559f2b": {
+   "fragment_id": "Artigo 14.º — Comité de regulamentação",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Comité de regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Comité de regulamentação\n\n1. A Comissão será assistida pelo comité criado nos termos do n.o 1 do artigo 12.o da Directiva 93/75/CEE do Conselho(9), a seguir designado por \"comité\".\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.o\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é fixado em três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "f85a825d75a88b85": {
+   "fragment_id": "Artigo 15.º — Procedimento de alteração",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Procedimento de alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Procedimento de alteração\n\n1. As definições contidas nos n.os 1 a 6 e nos n.os 15 a 18 do artigo 3.o, as referências a convenções e códigos internacionais, a resoluções e circulares da OMI, às normas ISO e aos instrumentos comunitários, assim como os anexos, podem ser alterados de acordo com o procedimento previsto no n.o 2 do artigo 12.o, a fim de os harmonizar com os instrumentos internacionais e comunitários aprovados, alterados ou que entrem em vigor após a aprovação da presente directiva, desde que o âmbito desta não seja alargado.\n\n2. O procedimento previsto no n.o 2 do artigo 14.o é aplicável quando forem alterados o artigo 8.o e os anexos relativos à aplicação dos procedimentos previstos na presente directiva, e quando alterem ou revoguem as obrigações de apresentação de relatórios referidas no n.o 2 do artigo 11.o e no artigo 12.o, desde que as disposições assim adoptadas não alarguem o âmbito da presente directiva."
+  },
+  "bfe8e3578def084d": {
+   "fragment_id": "Artigo 16.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Sanções\n\nOs Estados-Membros determinarão o regime de sanções aplicáveis às violações das disposições nacionais adoptadas nos termos da presente directiva e tomarão todas as medidas necessárias para garantir a sua aplicação. As sanções previstas devem ser efectivas, proporcionadas e dissuasivas."
+  },
+  "7994f6c4d48afa71": {
+   "fragment_id": "Artigo 17.º — Execução e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Execução e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Execução e aplicação\n\n1. Os Estados-Membros adoptarão e publicarão as disposições necessárias para dar cumprimento à presente directiva até 5 de Agosto de 2003. Do facto informarão imediatamente a Comissão.\n\nOs Estados-Membros aplicarão as referidas disposições a partir de 1 de Março de 2004.\n\nAs disposições adoptadas pelos Estados-Membros incluirão uma referência à presente directiva ou serão acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão todas as disposições de direito interno que adoptem no domínio regido pela presente directiva."
+  },
+  "7b36efaf956a523b": {
+   "fragment_id": "Artigo 18.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "c92090522381efd2": {
+   "fragment_id": "Artigo 19.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 4 de Dezembro de 2001.\n\nPelo Parlamento Europeu\n\nA Presidente\n\nN. Fontaine\n\nPelo Conselho\n\nO Presidente\n\nD. Reynders\n\n(1) JO C 311 E de 31.10.2000, p. 240, e\n\nJO C 180 E de 26.6.2001, p. 273.\n\n(2) JO C 14 de 16.1.2001, p. 37.\n\n(3) Parecer do Parlamento Europeu de 13 de Fevereiro de 2001 (JO C 276 de 1.10.2001, p. 38), posição comum do Conselho de 27 de Junho de 2001 (ainda não publicada no Jornal Oficial) e decisão do Parlamento Europeu de 25 de Outubro de 2001 (ainda não publicada no Jornal Oficial).\n\n(4) JO L 184 de 17.7.1999, p. 23.\n\n(5) JO L 183 de 29.6.1989, p. 1.\n\n(6) Directiva 95/21/CE do Conselho, de 19 de Junho de 1995, relativa à aplicação, aos navios que escalem os portos da Comunidade ou naveguem em águas sob jurisdição dos Estados-Membros, das normas internacionais respeitantes à segurança da navegação, à prevenção da poluição e às condições de vida e de trabalho a bordo dos navios (inspecção pelo Estado do porto) (JO L 157 de 7.7.1995, p. 1). Directiva com a última redacção que lhe foi dada pela Directiva 1999/97/CE da Comissão (JO L 331 de 23.12.1999, p. 67).\n\n(7) Directiva 94/57/CE do Conselho, de 22 de Novembro de 1994, relativa às regras comuns para as organizações de vistoria e inspecção dos navios e para as actividades relevantes das administrações marítimas (JO L 319 de 12.12.1994, p. 20). Directiva alterada pela Directiva 97/58/CE da Comissão (JO L 274 de 7.10.1997, p. 8).\n\n(8) Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação (JO L 204 de 21.7.1998, p. 37). Directiva com a redacção que lhe foi dada pela Directiva 98/48/CE (JO L 217 de 5.8.1998, p. 18).\n\n(9) Directiva 93/75/CEE do Conselho, de 13 de Setembro de 1993, relativa às condições mínimas exigidas aos navios com destino aos portos marítimos da Comunidade ou que deles saiam transportando mercadorias perigosas ou poluentes (JO L 247 de 5.10.1993, p. 19). Directiva com a última redacção que lhe foi dada pela Directiva 98/74/CE da Comissão (JO L 276 de 13.10.1998, p. 7)."
+  },
+  "3744ebeae1acc0ab": {
+   "fragment_id": "ANEXO I — REQUISITOS RELATIVOS À APTIDÃO OPERACIONAL DOS NAVIOS GRANELEIROS PARA CARREGAR E DESCARREGAR CARGAS SÓLIDAS A GRANEL",
+   "type": "divisao",
+   "heading": "ANEXO I — REQUISITOS RELATIVOS À APTIDÃO OPERACIONAL DOS NAVIOS GRANELEIROS PARA CARREGAR E DESCARREGAR CARGAS SÓLIDAS A GRANEL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — REQUISITOS RELATIVOS À APTIDÃO OPERACIONAL DOS NAVIOS GRANELEIROS PARA CARREGAR E DESCARREGAR CARGAS SÓLIDAS A GRANEL\n\n(conforme previsto no artigo 4.o)\n\nOs navios graneleiros que demandem terminais dos Estados-Membros para carregar ou descarregar cargas sólidas a granel serão controlados no que se refere à observância dos seguintes requisitos:\n\n1. Os navios deverão dispor de porões de carga e de escotilhas de dimensão suficiente e com uma configuração que permita que a carga sólida a granel seja carregada, estivada, rechegada e descarregada de modo satisfatório.\n\n2. Os navios deverão apresentar os números de identificação das escotilhas dos porões de carga que figuram no plano de carga ou descarga. A localização, dimensão e cor desses números deverão ser bem visíveis e identificáveis pelo operador do equipamento de carga ou descarga do terminal.\n\n3. As escotilhas dos porões de carga, os sistemas de manobra das tampas de escotilha e os dispositivos de segurança deverão estar em boas condições de funcionamento e ser utilizados apenas para os fins previstos.\n\n4. As luzes de indicação de adornamento, se existentes, deverão ser testadas antes da operação de carga ou descarga e o seu bom funcionamento deve ser comprovado.\n\n5. Se for exigido a bordo um computador de carga aprovado, esse instrumento deverá estar certificado e operacional para efectuar o cálculo dos esforços durante a carga ou descarga.\n\n6. As máquinas de propulsão e auxiliares deverão estar em boas condições de funcionamento.\n\n7. O equipamento de convés utilizado para as operações de amarração e atracação deverá estar operacional e em bom estado."
+  },
+  "55d740fa29dee241": {
+   "fragment_id": "ANEXO II — REQUISITOS DE APTIDÃO DOS TERMINAIS PARA A CARGA E DESCARGA DE CARGAS SÓLIDAS A GRANEL",
+   "type": "divisao",
+   "heading": "ANEXO II — REQUISITOS DE APTIDÃO DOS TERMINAIS PARA A CARGA E DESCARGA DE CARGAS SÓLIDAS A GRANEL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — REQUISITOS DE APTIDÃO DOS TERMINAIS PARA A CARGA E DESCARGA DE CARGAS SÓLIDAS A GRANEL\n\n(conforme previsto no ponto 1 do artigo 5.o)\n\n1. Os terminais apenas devem admitir, para operações de carga ou descarga de cargas sólidas a granel, navios graneleiros que possam atracar com segurança na instalação de carga ou descarga, tendo em conta a profundidade da água no cais, a dimensão máxima do navio, os meios de amarração, as defensas, a segurança de acesso e os possíveis obstáculos às operações de carga ou descarga.\n\n2. O equipamento de carga e descarga do terminal deverá estar devidamente certificado e mantido em bom estado, em conformidade com as regras e normas pertinentes, e ser operado apenas por pessoal devidamente qualificado e, nos casos apropriados, certificado.\n\n3. O pessoal que trabalha no terminal deverá, em todos os aspectos relativos à segurança da carga e descarga de navios graneleiros, receber formação adequada às suas funções. A formação será concebida de molde a familiarizá-los com os perigos gerais da carga e descarga de cargas sólidas a granel e com os efeitos adversos que a má condução das operações de carga e descarga pode ter na segurança do navio.\n\n4. O pessoal que trabalha no terminal e está envolvido nas operações de carga e descarga deve receber e utilizar equipamento de protecção individual e gozar o descanso devido para evitar acidentes resultantes da fadiga."
+  },
+  "b2f0ac2e5de183ac": {
+   "fragment_id": "ANEXO III — INFORMAÇÕES A FORNECER PELO COMANDANTE AO TERMINAL",
+   "type": "divisao",
+   "heading": "ANEXO III — INFORMAÇÕES A FORNECER PELO COMANDANTE AO TERMINAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — INFORMAÇÕES A FORNECER PELO COMANDANTE AO TERMINAL\n\n[conforme previsto no ponto 1, alínea b), do artigo 7.o]\n\n1. A hora estimada de chegada do navio ao terminal, com a maior antecedência possível. Esta informação será actualizada sempre que necessário.\n\n2. Com a notificação inicial da hora de chegada:\n\na) Nome, indicativo de chamada, número OMI, bandeira, porto de registo;\n\nb) Plano de carga ou descarga, indicando a quantidade de carga, estiva por escotilha, ordem de carga ou descarga e quantidade a carregar em cada lote ou a descarregar em cada etapa de descarga;\n\nc) Calado de chegada e calado de saída previsto;\n\nd) Tempo necessário para a lastragem ou deslastragem;\n\ne) Comprimento de fora a fora e boca do navio e comprimento do espaço de carga da braçola de vante da escotilha mais a vante à braçola de ré da escotilha mais à ré para ou de onde a carga será carregada ou descarregada;\n\nf) Distância da linha de água à primeira escotilha a carregar ou descarregar e distância do costado do navio à escotilha;\n\ng) Localização da escada de portaló do navio;\n\nh) Tirante de ar;\n\ni) Detalhes e capacidade do equipamento de movimentação de carga do navio, se existente;\n\nj) Número e tipo de amarras;\n\nk) Pedidos específicos, relativos, por exemplo, ao rechego da carga ou à medição contínua do teor de água na carga;\n\nl) Elementos sobre eventuais reparações necessárias que possam atrasar a atracação, o início das operações de carga ou descarga ou a partida do navio após a conclusão dessas operações;\n\nm) Outras informações relativas ao navio solicitadas pelo terminal."
+  },
+  "69542cb1a3f54302": {
+   "fragment_id": "ANEXO IV — OBRIGAÇÕES DO COMANDANTE ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA",
+   "type": "divisao",
+   "heading": "ANEXO IV — OBRIGAÇÕES DO COMANDANTE ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — OBRIGAÇÕES DO COMANDANTE ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA\n\n[conforme previsto no ponto 1, alínea d), do artigo 7.o]\n\nAntes do início e durante as operações de carga ou descarga, o comandante assegurará que:\n\n1. O embarque ou desembarque da carga e a descarga ou embarque de água de lastro sejam supervisionados pelo oficial do navio responsável;\n\n2. A distribuição da carga e da água de lastro seja controlada durante todo o processo de carga ou descarga, de modo a garantir que a estrutura do navio não seja submetida a esforços excessivos;\n\n3. O navio se mantenha direito ou, se for necessário adorná-lo por razões operacionais, que o adornamento seja o menor possível;\n\n4. O navio permaneça ancorado em segurança, tendo na devida conta as condições e previsões meteorológicas locais;\n\n5. Se mantenham a bordo oficiais e tripulantes suficientes para procederem ao ajuste das amarras ou atenderem a qualquer situação normal ou de emergência, considerando a necessidade de a tripulação gozar períodos de descanso suficientes para evitar a fadiga;\n\n6. O representante do terminal seja informado dos requisitos de rechego da carga, que deverão obedecer aos procedimentos do código IMO de práticas seguras para a segurança do transporte de cargas sólidas a granel;\n\n7. O representante do terminal seja informado da necessidade de harmonizar os regimes de deslastragem ou lastragem e de embarque ou desembarque da carga do navio e de qualquer desvio do plano de deslastragem ou lastragem, bem como de qualquer outra questão que possa afectar as operações de carga ou descarga;\n\n8. A água de lastro seja descarregada a débitos conformes com o plano de carga acordado e não provoque o alagamento do cais ou das embarcações adjacentes. Quando não for prático o navio descarregar totalmente a água de lastro antes da fase de rechego do processo de carga, o comandante acordará com o representante do terminal as horas em que poderá ser necessário suspender o carregamento e a duração dessas suspensões;\n\n9. Haja acordo com o representante do terminal relativamente às medidas a tomar em caso de chuva ou outras condições meteorológicas adversas, quando a natureza da carga constitua um perigo nessas condições;\n\n10. Não seja realizado trabalho a quente a bordo ou junto do navio enquanto este estiver atracado no cais, a não ser com autorização do representante do terminal e de acordo com os requisitos da autoridade competente;\n\n11. Seja exercida uma vigilância apertada da operação de carga ou descarga e do navio durante as etapas finais da carga ou descarga;\n\n12. O representante do terminal seja imediatamente avisado caso o processo de carga ou descarga tenha causado avaria ou criado uma situação perigosa ou seja susceptível de o fazer;\n\n13. O representante do terminal seja informado de quando se deve proceder ao caímento final do navio, por forma a permitir o esvaziamento do sistema transportador;\n\n14. A descarga a bombordo seja rigorosamente equivalente à de estibordo no mesmo porão, para evitar torções na estrutura do navio;\n\n15. Quando estiver a ser efectuada a lastragem de um ou mais porões, seja tida em conta a possibilidade de libertação de vapores inflamáveis dos porões e sejam tomadas precauções antes de se autorizar qualquer trabalho a quente junto ou por cima desses porões."
+  },
+  "eb1a40aa6d6625e9": {
+   "fragment_id": "ANEXO V — INFORMAÇÕES A FORNECER PELO TERMINAL AO COMANDANTE",
+   "type": "divisao",
+   "heading": "ANEXO V — INFORMAÇÕES A FORNECER PELO TERMINAL AO COMANDANTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — INFORMAÇÕES A FORNECER PELO TERMINAL AO COMANDANTE\n\n[conforme previsto no ponto 2, alínea a), do artigo 7.o]\n\n1. Denominação do cais onde será efectuada a carga ou descarga e horas estimadas de atracação e conclusão das operações de carga ou descarga(1).\n\n2. Características do equipamento de carga ou descarga, incluindo o regime nominal de carga ou descarga do terminal e o número de cabeças de carga ou descarga a utilizar, bem como o tempo necessário estimado para carregar cada lote ou - em caso de descarga - para cada etapa da descarga.\n\n3. Características do cais ou ponte-cais que o comandante deva conhecer, incluindo a posição dos obstáculos fixos e móveis, das defensas, dos cabeços e dos meios de amarração.\n\n4. Profundidade mínima da água junto ao cais e nos canais de aproximação e de saída(2).\n\n5. Densidade da água junto ao cais.\n\n6. Distância máxima da linha de água ao topo das tampas ou braçolas das escotilhas de carga, consoante o que for relevante para a operação de carga ou descarga, máxima altura do navio fora de água.\n\n7. Disposições tomadas relativamente às pranchas e ao acesso.\n\n8. O costado do navio a encostar ao cais.\n\n9. Velocidade máxima de aproximação à ponte-cais permitida e disponibilidade de rebocadores, seu tipo e força de tracção.\n\n10. Sequência do embarque dos diferentes lotes de carga, bem como quaisquer outras restrições aplicáveis caso não seja possível embarcar a carga numa ordem determinada ou em determinados porões segundo a conveniência do navio.\n\n11. Propriedades da carga que possam constituir um perigo se esta entrar em contacto com carga ou resíduos a bordo.\n\n12. Informação prévia sobre as operações de carga ou descarga previstas ou as alterações a planos de carga ou descarga existentes.\n\n13. Se o equipamento de carga e descarga do terminal é fixo ou há limitações ao seu movimento.\n\n14. Amarras necessárias.\n\n15. Aviso de meios de amarração fora do normal.\n\n16. Eventuais restrições à lastragem ou deslastragem.\n\n17. Calado máximo de navegação permitido pela autoridade competente.\n\n18. Qualquer outro elemento relativo ao terminal solicitado pelo comandante.\n\n(1) As informações sobre as horas estimadas de atracação e partida e sobre a profundidade mínima da água no cais serão progressivamente actualizadas e enviadas ao comandante após recepção das sucessivas notificações da hora estimada de chegada. A informação sobre a profundidade mínima da água nos canais de aproximação e saída será fornecida pelo terminal ou pela autoridade competente, conforme adequado.\n\n(2) As informações sobre as horas estimadas de atracação e partida e sobre a profundidade mínima da água no cais serão progressivamente actualizadas e enviadas ao comandante após recepção das sucessivas notificações da hora estimada de chegada. A informação sobre a profundidade mínima da água nos canais de aproximação e saída será fornecida pelo terminal ou pela autoridade competente, conforme adequado."
+  },
+  "140952fa534f097a": {
+   "fragment_id": "ANEXO VI — OBRIGAÇÕES DO REPRESENTANTE DO TERMINAL ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA",
+   "type": "divisao",
+   "heading": "ANEXO VI — OBRIGAÇÕES DO REPRESENTANTE DO TERMINAL ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — OBRIGAÇÕES DO REPRESENTANTE DO TERMINAL ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA\n\n[conforme previsto no ponto 2, alínea d), do artigo 7.o]\n\nAntes do início e durante as operações de carga ou descarga, o representante do terminal deve:\n\n1. Indicar ao comandante os procedimentos de contacto e os nomes dos membros do pessoal do terminal ou do agente do carregador que serão responsáveis pela operação de carga ou descarga e com quem o comandante contactará;\n\n2. Tomar todas as medidas de prevenção para evitar que o equipamento de carga ou descarga cause avarias no navio e informar o comandante no caso de ocorrer avaria;\n\n3. Assegurar que o navio se mantenha direito ou, se for necessário adorná-lo por razões operacionais, que o adornamento seja o menor possível;\n\n4. Assegurar que a descarga a bombordo seja rigorosamente equivalente à de estibordo no mesmo porão, para evitar torções na estrutura do navio;\n\n5. No caso de cargas de elevada densidade, ou quando a capacidade do balde for grande, alertar o comandante para o facto de a estrutura do navio poder ser localmente submetida a cargas de impacto elevadas até o tecto do duplo fundo estar totalmente coberto de carga, especialmente se for permitida queda livre de grandes alturas, devendo ser tomado especial cuidado no início da operação de carga em cada porão;\n\n6. Assegurar que haja acordo com o comandante em todas as etapas e em relação a todos os aspectos das operações de carga ou descarga e que o comandante seja informado de qualquer alteração ao regime de carga acordado e, após o carregamento de cada lote, do peso total da carga embarcada;\n\n7. Manter um registo do peso e distribuição da carga embarcada ou desembarcada e assegurar que os pesos nos porões não se desviem do previsto no plano de carga ou descarga acordado;\n\n8. Assegurar que a carga seja rechegada, durante as operações de carga ou descarga, de acordo com as instruções do comandante;\n\n9. Assegurar que, no cálculo das quantidades de carga necessárias para se obter o calado e o caimento de saída, se tenha em conta a capacidade dos sistemas transportadores do terminal, a fim de permitir o seu esvaziamento após a conclusão de um carregamento. Para esse efeito, o representante do terminal deverá informar o comandante da tonelagem nominal do sistema transportador do terminal e de quaisquer requisitos para o esvaziamento do sistema após a conclusão do carregamento;\n\n10. Em caso de descarga, avisar o comandante, com a maior antecedência possível, quando se pretenda aumentar ou reduzir o número de cabeças de descarga utilizadas e informar igualmente o comandante quando se considerar concluída a descarga de cada porão;\n\n11. Assegurar que não seja efectuado qualquer trabalho a quente a bordo ou junto do navio enquanto este se encontra atracado, a não ser com autorização do comandante e de acordo com os requisitos da autoridade competente."
+  },
+  "bcea9183e2e22e4d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Dezembro de 2001\n\nque estabelece normas e procedimentos harmonizados para a segurança das operações de carga e descarga de navios graneleiros\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 80.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#E0002)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#E0003)),\n\n(1) Perante o elevado número de acidentes marítimos com navios graneleiros e a perda de vidas humanas que deles resultam, torna-se necessário tomar novas medidas, destinadas a reforçar a segurança do transporte marítimo, no quadro da política comum dos transportes.\n\n(2) A investigação das causas dos acidentes com navios graneleiros indica que as operações de carga e descarga de cargas sólidas a granel podem, quando incorrectamente conduzidas, contribuir para a perda dos navios, quer por submeterem a estrutura a tensões excessivas, quer por causarem estragos mecânicos em elementos estruturais dos porões de carga. A protecção da segurança dos navios graneleiros pode ser reforçada com a adopção de medidas destinadas a reduzir o risco de avarias estruturais e de perdas resultantes de operações de carga e descarga mal conduzidas.\n\n(3) A nível internacional, a Organização Marítima Internacional (OMI), mediante um conjunto de resoluções da sua assembleia, adoptou recomendações no domínio da segurança dos navios graneleiros relativas à interface navio/porto em geral e às operações de carga e descarga em particular.\n\n(4) A OMI adoptou, mediante a Resolução A.862(20) da assembleia, um código de conduta para a segurança das operações de carga e descarga de navios graneleiros (a seguir designado por «código BLU»), exortando os governos contratantes a aplicá-lo com a maior brevidade e a informarem-na de qualquer situação de incumprimento. Nessa resolução, a OMI exortou ainda os governos contratantes em cujos territórios se localizem terminais de carga e descarga de cargas sólidas a granel a introduzirem regulamentação que permita implementar um conjunto de princípios essenciais necessários à aplicação do código.\n\n(5) O impacto das operações de carga e descarga na segurança dos navios graneleiros tem implicações transnacionais, dada a natureza global do tráfego de cargas sólidas a granel. O desenvolvimento de acções preventivas destinadas a evitar o afundamento de navios graneleiros em resultado de práticas incorrectas de carga e descarga terá, por conseguinte, melhores resultados se forem estabelecidos, a nível comunitário, normas e procedimentos harmonizados tendo em vista a aplicação das recomendações da OMI constantes da Resolução A.862(20) da sua assembleia e do código BLU.\n\n(6) À luz do princípio da subsidiariedade, constante do artigo 5.º do Tratado, uma directiva constitui o instrumento jurídico mais adequado, visto estabelecer, para os Estados-Membros, um quadro de aplicação uniforme e obrigatória das normas e procedimentos de carga e descarga seguras de navios graneleiros, deixando-lhes, no entanto, o direito de decidir dos meios de execução que melhor se adequam ao seu sistema interno. De acordo com o princípio da proporcionalidade, a presente directiva não excede o necessário para atingir os objectivos prosseguidos.\n\n(7) A segurança dos navios graneleiros e das suas tripulações pode ser reforçada através da redução dos riscos resultantes da má condução das operações de carga ou descarga de cargas sólidas a granel nos terminais. Esse reforço pode ser implementado mediante o estabelecimento de procedimentos harmonizados de cooperação e comunicação entre os navios e os terminais e de requisitos de aptidão para os navios e os terminais.\n\n(8) No sentido de reforçar a segurança dos navios graneleiros e de evitar distorções da concorrência, os procedimentos harmonizados e os critérios de aptidão devem aplicar-se a todos os navios graneleiros, independentemente do pavilhão que arvorem, e a todos os terminais da Comunidade que os navios demandem, em circunstâncias normais, para efeitos de carga ou descarga de cargas sólidas a granel.\n\n(9) Os navios graneleiros que demandem terminais para carregar ou descarregar cargas sólidas a granel devem ser adequados a esse fim. Do mesmo modo, os terminais devem igualmente estar aptos a receber, carregar e descarregar navios graneleiros. Para o efeito, foram estabelecidos critérios de aptidão no código BLU.\n\n(10) A fim de reforçar a cooperação e a comunicação com os comandantes dos navios em matérias relacionadas com a carga e descarga de cargas sólidas a granel, os terminais deverão designar um representante responsável por essas operações nos terminais e pôr à disposição dos comandantes opúsculos informativos sobre os requisitos do porto e do terminal, estando previstas no código BLU disposições nesse sentido.\n\n(11) O desenvolvimento, aplicação e manutenção de um sistema de gestão da qualidade pelos terminais permitirá assegurar que a cooperação e a comunicação dos procedimentos e das operações efectivas de carga e descarga são planeadas e executadas num quadro harmonizado, internacionalmente reconhecido e fiscalizável. Para que seja reconhecido internacionalmente, o sistema de gestão da qualidade deverá ser compatível com a série de normas ISO 9000 adoptadas pela Organização Internacional de Normalização. A fim de permitir que os novos terminais obtenham com tempo suficiente os certificados pertinentes, é importante garantir que lhes seja concedida uma autorização temporária para operarem durante um período limitado.\n\n(12) A fim de assegurar que as operações de carga e descarga são preparadas, acordadas e conduzidas com o devido cuidado, de modo a evitar que possam comprometer a segurança do navio ou da tripulação, é necessário definir as obrigações do comandante e do representante do terminal. A Convenção Internacional para a salvaguarda da vida humana no mar (Convenção SOLAS de 1974), a Resolução A.862(20) da assembleia da OMI e o código BLU prevêem disposições nesse sentido. Para o mesmo efeito, os procedimentos aplicáveis à preparação, acordo e condução de operações de carga e descarga podem ser baseadas nas disposições desses instrumentos internacionais.\n\n(13) No interesse geral da Comunidade de erradicar dos seus portos os navios que não cumpram as normas, os representantes dos terminais devem notificar presumíveis anomalias que se verifiquem em navios graneleiros, susceptíveis de comprometer a segurança das operações de carga ou descarga.\n\n(14) É necessário que as autoridades competentes dos Estados-Membros disponham de poderes para impedir ou suspender as operações de carga ou descarga quando tiverem indicações claras de que estas podem comprometer a segurança do navio ou da sua tripulação. Por uma questão de segurança, as autoridades deverão igualmente intervir em caso de desacordo entre o comandante e o representante do terminal quanto à aplicação dos procedimentos acima referidos. As acções desenvolvidas pelas autoridades competentes, relacionadas com a segurança, deverão ser independentes dos interesses comerciais dos terminais.\n\n(15) É necessário estabelecer procedimentos destinados a assegurar que as avarias causadas aos navios durante as operações de carga ou descarga sejam comunicadas às entidades adequadas, tais como as sociedades de classificação pertinentes, e, se necessário, reparadas. Quando tais avarias possam comprometer a segurança ou a navegabilidade do navio, a decisão quanto à necessidade e urgência das reparações deve ser tomada pelas autoridades estaduais de controlo portuário, em consulta com a administração do Estado de pavilhão. Dada a competência técnica necessária para a tomada dessa decisão, as referidas autoridades deverão poder confiar a uma organização reconhecida a inspecção das avarias e o aconselhamento sobre a necessidade de efectuar qualquer reparação.\n\n(16) O cumprimento da presente directiva deverá ser reforçado através de procedimentos eficazes de fiscalização e de verificação nos Estados-Membros. A comunicação dos resultados das inspecções fornecerá informações úteis sobre a eficácia dos requisitos e procedimentos harmonizados constantes da presente directiva.\n\n(17) Na Resolução A.797(19) da assembleia da OMI, de 23 de Novembro de 1995, relativa à segurança dos navios que transportam carga sólida a granel, esta requeria que as autoridades de controlo portuário lhe confirmassem a conformidade dos terminais de carga e descarga de cargas sólidas a granel com os códigos e recomendações da OMI no domínio da cooperação navio/terra. A notificação à OMI da aprovação da presente directiva constituirá uma resposta adequada a essa solicitação e dará à comunidade marítima internacional um sinal claro do empenhamento da Comunidade em apoiar os esforços desenvolvidos a nível internacional no sentido de reforçar a segurança das operações de carga e descarga de navios graneleiros.\n\n(18) As medidas necessárias à aplicação da presente directiva devem ser adoptadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^4^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#E0004)).\n\n(19) Certas disposições da presente directiva devem poder ser alteradas de acordo com aquele procedimento, tendo em vista a sua harmonização com instrumentos internacionais e comunitários aprovados, alterados ou que entrem em vigor após a entrada em vigor da presente directiva, bem como a aplicação dos procedimentos nela previstos, sem alargamento do seu âmbito.\n\n(20) A Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho ([^5^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#E0005)) e as suas directivas específicas relevantes são aplicáveis ao trabalho relativo à carga e descarga dos navios graneleiros,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "560cd7e04bb748fd": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Convenções internacionais», as convenções em vigor em 4 de Dezembro de 2001, tal como definidas no n.º 1 do artigo 2.º da Directiva 95/21/CE do Conselho ([^6^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#E0006));\n\n2. «Convenção SOLAS de 1974», a Convenção Internacional para a salvaguarda da vida humana no mar, bem como os seus protocolos e alterações, na redacção [**►M1**](http://publications.europa.eu/resource/celex/32002L0084) da versão actualizada**◄**;\n\n3. «Código BLU», o código de práticas para a segurança das operações de carga e descarga de navios graneleiros, constante do anexo da Resolução A.862 (20) da assembleia da OMI, de 27 de Novembro de 1997, na sua redacção em 4 de Dezembro de 2001;\n\n4. «Graneleiro», um navio conforme com a definição dada na regra IX/1.6 da Convenção SOLAS de 1974 e com a interpretação constante da Resolução 6 da Conferência SOLAS de 1997, nomeadamente:\n\n— um navio com um só convés, com tanques superiores laterais e tanques inferiores laterais tipo tremonha nos porões de carga e destinado principalmente ao transporte de carga sólida a granel, ou\n\n— um mineraleiro, ou seja, um navio de mar de um só convés, com duas anteparas longitudinais e um duplo fundo a toda a extensão do espaço de carga, destinado ao transporte de minério exclusivamente nos porões centrais, ou\n\n— um navio de carga combinado, conforme definido na regra II-2/3.27 da Convenção SOLAS de 1974;\n\n5. «Carga seca a granel» ou «carga sólida a granel», a carga a granel definida na regra XII/1.4 da Convenção SOLAS de 1974, excluindo grão;\n\n6. «Grão»,os cereais referidos na regra VI/8.2 da Convenção SOLAS de 1974;\n\n7. «Terminal», uma instalação fixa, flutuante ou móvel, equipada e utilizada para a carga e descarga de navios graneleiros com carga sólida a granel;\n\n8. «Operador de terminal», o proprietário de um terminal, ou a organização ou pessoa para quem o proprietário transferiu a responsabilidade pelas operações de carga e descarga efectuadas no terminal em relação a um dado graneleiro;\n\n9. «Representante do terminal», a pessoa designada pelo operador do terminal, à qual cabe a responsabilidade geral de controlar a preparação, a realização e a conclusão das operações de carga ou descarga efectuadas pelo terminal em relação a um dado navio graneleiro e que dispõe de autoridade para esse efeito;\n\n10. «Comandante», o comandante de um navio graneleiro ou o oficial do navio afectado pelo comandante às operações de carga ou descarga;\n\n11. «Organização reconhecida», uma organização reconhecida de acordo com o artigo 4.º da Directiva 94/57/CE do Conselho ([^7^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#E0007));\n\n12. «Administração do Estado de pavilhão», as autoridades competentes do Estado cujo pavilhão o navio está autorizado a arvorar;\n\n13. «Autoridade de controlo do Estado do porto», a autoridade competente de um Estado-Membro com poderes para aplicar as disposições de controlo previstas na Directiva 95/21/CE;\n\n14. «Autoridade competente», uma entidade pública nacional, regional ou local de um Estado-Membro, com poderes conferidos pela legislação nacional para aplicar e fazer cumprir as normas da presente directiva;\n\n15. «Informações sobre a carga», as informações sobre a carga exigidas pela regra VI/2 da Convenção SOLAS de 1974;\n\n16. «Plano de carga ou descarga», o plano referido na regra VI/7.3 da Convenção SOLAS de 1974, na forma prevista no apêndice 2 do código BLU;\n\n17. «Lista de verificações de segurança navio/terra», a lista de verificações referida na secção 4 do código BLU, na forma prevista no apêndice 3 do mesmo código;\n\n18. «Declaração de densidade da carga sólida a granel», as informações sobre a densidade da carga, a fornecer de acordo com a regra XII/10 da Convenção SOLAS de 1974."
+  },
+  "8a6ba94b35b6a7cd": {
+   "fragment_id": "Artigo 5.º — Requisitos de aptidão dos terminais",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Requisitos de aptidão dos terminais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos de aptidão dos terminais\n\nOs Estados-Membros devem certificar-se de que os operadores de terminais que exercem as suas funções nos termos da presente directiva asseguram que os terminais sob a sua responsabilidade:\n\n1. Obedecem às disposições do anexo II;\n\n2. Designaram um (ou mais) representante(s) do terminal;\n\n3. Prepararam opúsculos informativos contendo os requisitos do terminal e das autoridades competentes e informações sobre o porto e o terminal, conforme indicado no ponto 1.2 do apêndice 1 do código BLU, e os põem à disposição dos comandantes dos navios graneleiros que demandam o terminal para carregar ou descarregar cargas sólidas a granel; e\n\n4. Criaram, aplicaram e mantêm um sistema de gestão da qualidade certificado de acordo com a norma ISO 9001: 2000 ou com uma norma equivalente que satisfaça, no mínimo, todos os aspectos da ISO 9001: 2000 e inspeccionado de acordo com as orientações da norma ISO 10011: 1991 ou de uma norma equivalente que satisfaça todos os aspectos da ISO 10011: 1991. Os Estados-Membros assegurarão o cumprimento da Directiva 98/34/CE ([^8^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#E0008)) no que se refere às normas equivalentes."
+  },
+  "5fc0b107a8e45312": {
+   "fragment_id": "Artigo 6.º — Autorização temporária",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Autorização temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Autorização temporária\n\nEm derrogação aos requisitos constantes do n.º 4 do artigo 5.º, poderá ser emitida pela autoridade competente uma autorização temporária, válida por 12 meses, no máximo, para que os terminais recentemente criados possam operar. O terminal deverá, todavia, provar o seu plano de aplicação de um sistema de gestão da qualidade de acordo com a norma ISO 9001:2000 ou com uma norma equivalente, tal como previsto no n.º 4 do artigo 5.º"
+  },
+  "e422d2237b72c9f5": {
+   "fragment_id": "Artigo 8.º — Procedimentos entre navios graneleiros e terminais",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Procedimentos entre navios graneleiros e terminais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Procedimentos entre navios graneleiros e terminais\n\nOs Estados-Membros assegurarão a aplicação dos procedimentos a seguir enunciados no que se refere às operações de carga ou descarga de navios graneleiros que transportam cargas sólidas a granel:\n\n1. Antes de as cargas sólidas a granel serem carregadas ou descarregadas, o comandante acordará com o representante do terminal um plano de carga ou descarga, em conformidade com as disposições da regra VI/7.3 da Convenção SOLAS de 1974. O plano de carga ou descarga deve ser elaborado conforme previsto no apêndice 2 do código BLU e conter o número OMI do graneleiro em causa, devendo o comandante e o representante do terminal confirmar o seu acordo com o plano, apondo as suas assinaturas.\n\n2. Antes do início da operação de carga ou descarga, deve ser elaborada e assinada pelo comandante e pelo representante do terminal uma lista de verificações de segurança navio/terra, de acordo com as orientações do apêndice 4 do código BLU.\n\n3. Deve ser estabelecida e mantida a todo o momento uma comunicação efectiva entre o navio e o terminal, capaz de responder a pedidos de informação sobre o processo de carga ou descarga e de assegurar o cumprimento imediato de uma eventual ordem do comandante ou do representante do terminal de suspensão das operações de carga ou descarga.\n\n4. O comandante e o representante do terminal conduzirão as operações de carga ou descarga em conformidade com o plano acordado. O representante do terminal é responsável pela carga ou descarga da carga sólida a granel no que se refere à ordem dos porões, à quantidade e ao regime de carga ou descarga destes, constantes do plano. Não pode desviar-se do plano de carga ou descarga acordado, a não ser mediante consulta prévia e acordo por escrito do comandante.\n\n5. Uma vez concluída a operação de carga ou descarga, o comandante e o representante do terminal devem declarar por escrito que a carga ou descarga foi efectuada de acordo com o respectivo plano, incluindo quaisquer modificações acordadas. Em caso de descarga, este acordo deve incluir igualmente o registo de que os porões de carga foram esvaziados e limpos de acordo com as instruções do comandante, bem como o registo de quaisquer avarias sofridas pelo navio e das eventuais reparações efectuadas."
+  },
+  "42d26565d8e43184": {
+   "fragment_id": "Artigo 9.º — Papel das autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Papel das autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Papel das autoridades competentes\n\n1. Sem prejuízo dos direitos e obrigações do comandante previstos na regra VI/7.7 da Convenção SOLAS de 1974, os Estados-Membros assegurarão que as suas autoridades competentes impeçam ou suspendam a carga ou descarga de cargas sólidas a granel quando tiverem indicações claras de que a segurança do navio ou da tripulação seria posta em risco por essas operações.\n\n2. No caso de a autoridade competente ser informada de que há desacordo entre o comandante e o representante do terminal quanto à aplicação dos procedimentos previstos no artigo 8.º, a autoridade competente intervirá, quando necessário, no interesse da segurança e/ou do meio marinho."
+  },
+  "db8a37d42fa6546d": {
+   "fragment_id": "Artigo 10.º — Reparação de avarias ocorridas durante a operação de carga ou descarga",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Reparação de avarias ocorridas durante a operação de carga ou descarga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Reparação de avarias ocorridas durante a operação de carga ou descarga\n\n1. Se ocorrer avaria na estrutura ou no equipamento do navio durante a operação de carga ou descarga, esta deve ser comunicada pelo representante do terminal ao comandante e, se necessário, reparada.\n\n2. Se a avaria puder afectar a estrutura ou a estanquidade do casco, ou ainda os sistemas de máquinas essenciais do navio, a administração do Estado de pavilhão, ou uma organização por ela reconhecida e agindo em seu nome, assim como a autoridade de controlo portuário, serão informadas da situação pelo representante do terminal e/ou pelo comandante. A decisão sobre se é necessária uma reparação imediata ou se esta pode ser adiada será tomada pela autoridade de controlo portuário, que terá na devida conta o parecer, a existir, da administração do Estado de pavilhão ou da organização reconhecida que age em seu nome e o parecer do comandante. Se for considerada necessária a reparação da avaria, esta deverá ser efectuada de acordo com as exigências do comandante e da autoridade competente, antes de o navio deixar o porto.\n\n3. A fim de tomar a decisão referida no n.º 2, a autoridade de controlo portuário pode confiar a uma organização reconhecida a inspecção das avarias e o parecer sobre a necessidade de efectuar reparações ou sobre o seu adiamento.\n\n4. O presente artigo é aplicável sem prejuízo do disposto na Directiva 95/21/CE."
+  },
+  "b07709d41cce0f04": {
+   "fragment_id": "Artigo 11.º — Fiscalização e relatórios",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Fiscalização e relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fiscalização e relatórios\n\n1. Os Estados-Membros fiscalizarão regularmente a conformidade dos terminais com o disposto no ponto 1 do artigo 5.º, no ponto 2 do artigo 7.º e no artigo 8.º O processo de fiscalização incluirá a realização de inspecções, sem aviso prévio, durante as operações de carga ou descarga.\n\nAlém disso, os Estados-Membros verificarão se os terminais cumprem os requisitos estabelecidos no ponto 4 do artigo 5.º, no final do período nele previsto, e, em relação aos novos terminais, no final do período fixado no artigo 6.º\n\n2. Os Estados-Membros apresentarão à Comissão, de três em três anos, um relatório sobre os resultados da fiscalização. O relatório incluirá também uma avaliação da eficácia dos procedimentos harmonizados de cooperação e comunicação entre os navios graneleiros e os terminais, tal como previsto na presente directiva. O relatório será apresentado até 30 de Abril do ano seguinte ao período de três anos civis a que se refere."
+  },
+  "db140a452f5bcc57": {
+   "fragment_id": "Artigo 12.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Avaliação\n\nA Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre o funcionamento do sistema previsto na presente directiva, elaborado com base nos relatórios dos Estados-Membros, tal como previsto no n.º 2 do artigo 11.º Esse relatório incluirá igualmente uma apreciação da necessidade de prosseguir com os referidos relatórios dos Estados-Membros referidos no n.º 2 do artigo 11.º"
+  },
+  "ed1cb4160e4028ac": {
+   "fragment_id": "Artigo 14.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS), instituído pelo artigo 3.º do Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#E0009)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "750f15896cb191cb": {
+   "fragment_id": "Artigo 15.º — Procedimento de alteração",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Procedimento de alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Procedimento de alteração\n\n1. As definições contidas nos n.^os^ 1 a 6 e nos n.^os^ 15 a 18 do artigo 3.º, as referências a convenções e códigos internacionais, a resoluções e circulares da OMI, às normas ISO e aos instrumentos comunitários, assim como os anexos podem ser alterados, a fim de os harmonizar com os instrumentos internacionais e comunitários aprovados, alterados ou que entrem em vigor após a aprovação da presente directiva, desde que essas alterações não alarguem o seu âmbito de aplicação. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 14.º.\n\n2. A Comissão pode alterar o artigo 8.º e os anexos relativos à aplicação dos procedimentos previstos na presente directiva, bem como alterar ou revogar as obrigações de apresentação de relatórios referidas no n.º 2 do artigo 11.º e no artigo 12.º, desde que as alterações não alarguem o seu âmbito de aplicação. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 14.º.\n\n3. As alterações dos instrumentos internacionais mencionados no artigo 3.º podem ser excluídas do âmbito de aplicação da presente directiva, nos termos do disposto no artigo 5.º do Regulamento (CE) n.º 2099/2002."
+  },
+  "015429293633853b": {
+   "fragment_id": "Artigo 18.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "d3d26ff61fad641c": {
+   "fragment_id": "Artigo 19.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "276c7cd2f334a9d7": {
+   "fragment_id": "REQUISITOS RELATIVOS À APTIDÃO OPERACIONAL DOS NAVIOS GRANELEIROS PARA CARREGAR E DESCARREGAR CARGAS SÓLIDAS A GRANEL",
+   "type": "divisao",
+   "heading": "REQUISITOS RELATIVOS À APTIDÃO OPERACIONAL DOS NAVIOS GRANELEIROS PARA CARREGAR E DESCARREGAR CARGAS SÓLIDAS A GRANEL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS RELATIVOS À APTIDÃO OPERACIONAL DOS NAVIOS GRANELEIROS PARA CARREGAR E DESCARREGAR CARGAS SÓLIDAS A GRANEL"
+  },
+  "a90fa323a2ed8109": {
+   "fragment_id": "(conforme previsto no artigo 4.º)",
+   "type": "divisao",
+   "heading": "(conforme previsto no artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (conforme previsto no artigo 4.º)\n\nOs navios graneleiros que demandem terminais dos Estados-Membros para carregar ou descarregar cargas sólidas a granel serão controlados no que se refere à observância dos seguintes requisitos:\n\n1. Os navios deverão dispor de porões de carga e de escotilhas de dimensão suficiente e com uma configuração que permita que a carga sólida a granel seja carregada, estivada, rechegada e descarregada de modo satisfatório.\n\n2. Os navios deverão apresentar os números de identificação das escotilhas dos porões de carga que figuram no plano de carga ou descarga. A localização, dimensão e cor desses números deverão ser bem visíveis e identificáveis pelo operador do equipamento de carga ou descarga do terminal.\n\n3. As escotilhas dos porões de carga, os sistemas de manobra das tampas de escotilha e os dispositivos de segurança deverão estar em boas condições de funcionamento e ser utilizados apenas para os fins previstos.\n\n4. As luzes de indicação de adornamento, se existentes, deverão ser testadas antes da operação de carga ou descarga e o seu bom funcionamento deve ser comprovado.\n\n5. Se for exigido a bordo um computador de carga aprovado, esse instrumento deverá estar certificado e operacional para efectuar o cálculo dos esforços durante a carga ou descarga.\n\n6. As máquinas de propulsão e auxiliares deverão estar em boas condições de funcionamento.\n\n7. O equipamento de convés utilizado para as operações de amarração e atracação deverá estar operacional e em bom estado."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "d92f6ff4d2a14ad6": {
+   "fragment_id": "REQUISITOS DE APTIDÃO DOS TERMINAIS PARA A CARGA E DESCARGA DE CARGAS SÓLIDAS A GRANEL",
+   "type": "divisao",
+   "heading": "REQUISITOS DE APTIDÃO DOS TERMINAIS PARA A CARGA E DESCARGA DE CARGAS SÓLIDAS A GRANEL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS DE APTIDÃO DOS TERMINAIS PARA A CARGA E DESCARGA DE CARGAS SÓLIDAS A GRANEL"
+  },
+  "2f0ac00056c09a0f": {
+   "fragment_id": "(conforme previsto no ponto 1 do artigo 5.º)",
+   "type": "divisao",
+   "heading": "(conforme previsto no ponto 1 do artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (conforme previsto no ponto 1 do artigo 5.º)\n\n1. Os terminais apenas devem admitir, para operações de carga ou descarga de cargas sólidas a granel, navios graneleiros que possam atracar com segurança na instalação de carga ou descarga, tendo em conta a profundidade da água no cais, a dimensão máxima do navio, os meios de amarração, as defensas, a segurança de acesso e os possíveis obstáculos às operações de carga ou descarga.\n\n2. O equipamento de carga e descarga do terminal deverá estar devidamente certificado e mantido em bom estado, em conformidade com as regras e normas pertinentes, e ser operado apenas por pessoal devidamente qualificado e, nos casos apropriados, certificado.\n\n3. O pessoal que trabalha no terminal deverá, em todos os aspectos relativos à segurança da carga e descarga de navios graneleiros, receber formação adequada às suas funções. A formação será concebida de molde a familiarizá-los com os perigos gerais da carga e descarga de cargas sólidas a granel e com os efeitos adversos que a má condução das operações de carga e descarga pode ter na segurança do navio.\n\n4. O pessoal que trabalha no terminal e está envolvido nas operações de carga e descarga deve receber e utilizar equipamento de protecção individual e gozar o descanso devido para evitar acidentes resultantes da fadiga."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "a078035306ab14c1": {
+   "fragment_id": "INFORMAÇÕES A FORNECER PELO COMANDANTE AO TERMINAL",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES A FORNECER PELO COMANDANTE AO TERMINAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÕES A FORNECER PELO COMANDANTE AO TERMINAL"
+  },
+  "00cedbb86693a362": {
+   "fragment_id": "[conforme previsto no ponto 1, alínea b), do artigo 7.º]",
+   "type": "divisao",
+   "heading": "[conforme previsto no ponto 1, alínea b), do artigo 7.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [conforme previsto no ponto 1, alínea b), do artigo 7.º]\n\n1. A hora estimada de chegada do navio ao terminal, com a maior antecedência possível. Esta informação será actualizada sempre que necessário.\n\n2. Com a notificação inicial da hora de chegada:\n\na) Nome, indicativo de chamada, número OMI, bandeira, porto de registo;\n\nb) Plano de carga ou descarga, indicando a quantidade de carga, estiva por escotilha, ordem de carga ou descarga e quantidade a carregar em cada lote ou a descarregar em cada etapa de descarga;\n\nc) Calado de chegada e calado de saída previsto;\n\nd) Tempo necessário para a lastragem ou deslastragem;\n\ne) Comprimento de fora a fora e boca do navio e comprimento do espaço de carga da braçola de vante da escotilha mais a vante à braçola de ré da escotilha mais à ré para ou de onde a carga será carregada ou descarregada;\n\nf) Distância da linha de água à primeira escotilha a carregar ou descarregar e distância do costado do navio à escotilha;\n\ng) Localização da escada de portaló do navio;\n\nh) Tirante de ar;\n\ni) Detalhes e capacidade do equipamento de movimentação de carga do navio, se existente;\n\nj) Número e tipo de amarras;\n\nk) Pedidos específicos, relativos, por exemplo, ao rechego da carga ou à medição contínua do teor de água na carga;\n\nl) Elementos sobre eventuais reparações necessárias que possam atrasar a atracação, o início das operações de carga ou descarga ou a partida do navio após a conclusão dessas operações;\n\nm) Outras informações relativas ao navio solicitadas pelo terminal."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "d7b79b57a3482a7e": {
+   "fragment_id": "OBRIGAÇÕES DO COMANDANTE ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA",
+   "type": "divisao",
+   "heading": "OBRIGAÇÕES DO COMANDANTE ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBRIGAÇÕES DO COMANDANTE ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA"
+  },
+  "14eb62484f78abf0": {
+   "fragment_id": "[conforme previsto no ponto 1, alínea d), do artigo 7.º]",
+   "type": "divisao",
+   "heading": "[conforme previsto no ponto 1, alínea d), do artigo 7.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [conforme previsto no ponto 1, alínea d), do artigo 7.º]\n\nAntes do início e durante as operações de carga ou descarga, o comandante assegurará que:\n\n1. O embarque ou desembarque da carga e a descarga ou embarque de água de lastro sejam supervisionados pelo oficial do navio responsável;\n\n2. A distribuição da carga e da água de lastro seja controlada durante todo o processo de carga ou descarga, de modo a garantir que a estrutura do navio não seja submetida a esforços excessivos;\n\n3. O navio se mantenha direito ou, se for necessário adorná-lo por razões operacionais, que o adornamento seja o menor possível;\n\n4. O navio permaneça ancorado em segurança, tendo na devida conta as condições e previsões meteorológicas locais;\n\n5. Se mantenham a bordo oficiais e tripulantes suficientes para procederem ao ajuste das amarras ou atenderem a qualquer situação normal ou de emergência, considerando a necessidade de a tripulação gozar períodos de descanso suficientes para evitar a fadiga;\n\n6. O representante do terminal seja informado dos requisitos de rechego da carga, que deverão obedecer aos procedimentos do código IMO de práticas seguras para a segurança do transporte de cargas sólidas a granel;\n\n7. O representante do terminal seja informado da necessidade de harmonizar os regimes de deslastragem ou lastragem e de embarque ou desembarque da carga do navio e de qualquer desvio do plano de deslastragem ou lastragem, bem como de qualquer outra questão que possa afectar as operações de carga ou descarga;\n\n8. A água de lastro seja descarregada a débitos conformes com o plano de carga acordado e não provoque o alagamento do cais ou das embarcações adjacentes. Quando não for prático o navio descarregar totalmente a água de lastro antes da fase de rechego do processo de carga, o comandante acordará com o representante do terminal as horas em que poderá ser necessário suspender o carregamento e a duração dessas suspensões;\n\n9. Haja acordo com o representante do terminal relativamente às medidas a tomar em caso de chuva ou outras condições meteorológicas adversas, quando a natureza da carga constitua um perigo nessas condições;\n\n10. Não seja realizado trabalho a quente a bordo ou junto do navio enquanto este estiver atracado no cais, a não ser com autorização do representante do terminal e de acordo com os requisitos da autoridade competente;\n\n11. Seja exercida uma vigilância apertada da operação de carga ou descarga e do navio durante as etapas finais da carga ou descarga;\n\n12. O representante do terminal seja imediatamente avisado caso o processo de carga ou descarga tenha causado avaria ou criado uma situação perigosa ou seja susceptível de o fazer;\n\n13. O representante do terminal seja informado de quando se deve proceder ao caímento final do navio, por forma a permitir o esvaziamento do sistema transportador;\n\n14. A descarga a bombordo seja rigorosamente equivalente à de estibordo no mesmo porão, para evitar torções na estrutura do navio;\n\n15. Quando estiver a ser efectuada a lastragem de um ou mais porões, seja tida em conta a possibilidade de libertação de vapores inflamáveis dos porões e sejam tomadas precauções antes de se autorizar qualquer trabalho a quente junto ou por cima desses porões."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "b47892c7adb78b31": {
+   "fragment_id": "INFORMAÇÕES A FORNECER PELO TERMINAL AO COMANDANTE",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES A FORNECER PELO TERMINAL AO COMANDANTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÕES A FORNECER PELO TERMINAL AO COMANDANTE"
+  },
+  "608b34246b883f67": {
+   "fragment_id": "[conforme previsto no ponto 2, alínea a), do artigo 7.º]",
+   "type": "divisao",
+   "heading": "[conforme previsto no ponto 2, alínea a), do artigo 7.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [conforme previsto no ponto 2, alínea a), do artigo 7.º]\n\n1. Denominação do cais onde será efectuada a carga ou descarga e horas estimadas de atracação e conclusão das operações de carga ou descarga ([^10^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#E0010)).\n\n2. Características do equipamento de carga ou descarga, incluindo o regime nominal de carga ou descarga do terminal e o número de cabeças de carga ou descarga a utilizar, bem como o tempo necessário estimado para carregar cada lote ou — em caso de descarga — para cada etapa da descarga.\n\n3. Características do cais ou ponte-cais que o comandante deva conhecer, incluindo a posição dos obstáculos fixos e móveis, das defensas, dos cabeços e dos meios de amarração.\n\n4. Profundidade mínima da água junto ao cais e nos canais de aproximação e de saída ([^11^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#E0011)).\n\n5. Densidade da água junto ao cais.\n\n6. Distância máxima da linha de água ao topo das tampas ou braçolas das escotilhas de carga, consoante o que for relevante para a operação de carga ou descarga, máxima altura do navio fora de água.\n\n7. Disposições tomadas relativamente às pranchas e ao acesso.\n\n8. O costado do navio a encostar ao cais.\n\n9. Velocidade máxima de aproximação à ponte-cais permitida e disponibilidade de rebocadores, seu tipo e força de tracção.\n\n10. Sequência do embarque dos diferentes lotes de carga, bem como quaisquer outras restrições aplicáveis caso não seja possível embarcar a carga numa ordem determinada ou em determinados porões segundo a conveniência do navio.\n\n11. Propriedades da carga que possam constituir um perigo se esta entrar em contacto com carga ou resíduos a bordo.\n\n12. Informação prévia sobre as operações de carga ou descarga previstas ou as alterações a planos de carga ou descarga existentes.\n\n13. Se o equipamento de carga e descarga do terminal é fixo ou há limitações ao seu movimento.\n\n14. Amarras necessárias.\n\n15. Aviso de meios de amarração fora do normal.\n\n16. Eventuais restrições à lastragem ou deslastragem.\n\n17. Calado máximo de navegação permitido pela autoridade competente.\n\n18. Qualquer outro elemento relativo ao terminal solicitado pelo comandante."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "f7e43908b2fc56b7": {
+   "fragment_id": "OBRIGAÇÕES DO REPRESENTANTE DO TERMINAL ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA",
+   "type": "divisao",
+   "heading": "OBRIGAÇÕES DO REPRESENTANTE DO TERMINAL ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBRIGAÇÕES DO REPRESENTANTE DO TERMINAL ANTES E DURANTE AS OPERAÇÕES DE CARGA OU DESCARGA"
+  },
+  "f2b05d64ee8580c3": {
+   "fragment_id": "[conforme previsto no ponto 2, alínea d), do artigo 7.º]",
+   "type": "divisao",
+   "heading": "[conforme previsto no ponto 2, alínea d), do artigo 7.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [conforme previsto no ponto 2, alínea d), do artigo 7.º]\n\nAntes do início e durante as operações de carga ou descarga, o representante do terminal deve:\n\n1. Indicar ao comandante os procedimentos de contacto e os nomes dos membros do pessoal do terminal ou do agente do carregador que serão responsáveis pela operação de carga ou descarga e com quem o comandante contactará;\n\n2. Tomar todas as medidas de prevenção para evitar que o equipamento de carga ou descarga cause avarias no navio e informar o comandante no caso de ocorrer avaria;\n\n3. Assegurar que o navio se mantenha direito ou, se for necessário adorná-lo por razões operacionais, que o adornamento seja o menor possível;\n\n4. Assegurar que a descarga a bombordo seja rigorosamente equivalente à de estibordo no mesmo porão, para evitar torções na estrutura do navio;\n\n5. No caso de cargas de elevada densidade, ou quando a capacidade do balde for grande, alertar o comandante para o facto de a estrutura do navio poder ser localmente submetida a cargas de impacto elevadas até o tecto do duplo fundo estar totalmente coberto de carga, especialmente se for permitida queda livre de grandes alturas, devendo ser tomado especial cuidado no início da operação de carga em cada porão;\n\n6. Assegurar que haja acordo com o comandante em todas as etapas e em relação a todos os aspectos das operações de carga ou descarga e que o comandante seja informado de qualquer alteração ao regime de carga acordado e, após o carregamento de cada lote, do peso total da carga embarcada;\n\n7. Manter um registo do peso e distribuição da carga embarcada ou desembarcada e assegurar que os pesos nos porões não se desviem do previsto no plano de carga ou descarga acordado;\n\n8. Assegurar que a carga seja rechegada, durante as operações de carga ou descarga, de acordo com as instruções do comandante;\n\n9. Assegurar que, no cálculo das quantidades de carga necessárias para se obter o calado e o caimento de saída, se tenha em conta a capacidade dos sistemas transportadores do terminal, a fim de permitir o seu esvaziamento após a conclusão de um carregamento. Para esse efeito, o representante do terminal deverá informar o comandante da tonelagem nominal do sistema transportador do terminal e de quaisquer requisitos para o esvaziamento do sistema após a conclusão do carregamento;\n\n10. Em caso de descarga, avisar o comandante, com a maior antecedência possível, quando se pretenda aumentar ou reduzir o número de cabeças de descarga utilizadas e informar igualmente o comandante quando se considerar concluída a descarga de cada porão;\n\n11. Assegurar que não seja efectuado qualquer trabalho a quente a bordo ou junto do navio enquanto este se encontra atracado, a não ser com autorização do comandante e de acordo com os requisitos da autoridade competente.\n\n---"
+  },
+  "56dea5b5d6a978a9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#src.E0001)) JO C 311 E de 31.10.2000, p. 240, e\n\n> JO C 180 E de 26.6.2001, p. 273.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#src.E0002)) JO C 14 de 16.1.2001, p. 37.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 13 de Fevereiro de 2001 (JO C 276 de 1.10.2001, p. 38), posição comum do Conselho de 27 de Junho de 2001 (ainda não publicada no Jornal Oficial) e decisão do Parlamento Europeu de 25 de Outubro de 2001 (ainda não publicada no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#src.E0004)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#src.E0005)) JO L 183 de 29.6.1989, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#src.E0006)) Directiva 95/21/CE do Conselho, de 19 de Junho de 1995, relativa à aplicação, aos navios que escalem os portos da Comunidade ou naveguem em águas sob jurisdição dos Estados-Membros, das normas internacionais respeitantes à segurança da navegação, à prevenção da poluição e às condições de vida e de trabalho a bordo dos navios (inspecção pelo Estado do porto) (JO L 157 de 7.7.1995, p. 1). Directiva com a última redacção que lhe foi dada pela Directiva 1999/97/CE da Comissão (JO L 331 de 23.12.1999, p. 67).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#src.E0007)) Directiva 94/57/CE do Conselho, de 22 de Novembro de 1994, relativa às regras comuns para as organizações de vistoria e inspecção dos navios e para as actividades relevantes das administrações marítimas (JO L 319 de 12.12.1994, p. 20). Directiva alterada pela Directiva 97/58/CE da Comissão (JO L 274 de 7.10.1997, p. 8).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#src.E0008)) Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação (JO L 204 de 21.7.1998, p. 37). Directiva com a redacção que lhe foi dada pela Directiva 98/48/CE (JO L 217 de 5.8.1998, p. 18).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#src.E0009)) JO L 324 de 29.11.2002, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#src.E0010)) As informações sobre as horas estimadas de atracação e partida e sobre a profundidade mínima da água no cais serão progressivamente actualizadas e enviadas ao comandante após recepção das sucessivas notificações da hora estimada de chegada. A informação sobre a profundidade mínima da água nos canais de aproximação e saída será fornecida pelo terminal ou pela autoridade competente, conforme adequado.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/3807750b-6105-4d65-b63a-0b86113fafb4.0018.03/DOC_1#src.E0011)) As informações sobre as horas estimadas de atracação e partida e sobre a profundidade mínima da água no cais serão progressivamente actualizadas e enviadas ao comandante após recepção das sucessivas notificações da hora estimada de chegada. A informação sobre a profundidade mínima da água nos canais de aproximação e saída será fornecida pelo terminal ou pela autoridade competente, conforme adequado."
+  }
+ }
+}

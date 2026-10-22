@@ -34,6 +34,46 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-09-26'
+version_history:
+  file: diretiva-ue-1992-42.versoes.json
+  count: 2
+  source_lastmod: '2013-09-26'
+  versions:
+  - date: '1992-06-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-09-26'
+    amending: eu:celex:31993L0068:por
+    amending_title: DIRECTIVA 93/68/CEE DO CONSELHO de 22 de Julho de 1993; M2; M3; M4; REGULAMENTO (UE) N. o 813/2013 DA
+      COMISSÃO de 2 de agosto de 2013
+    changes:
+    - Altera preambulo
+    - Altera ANEXO V
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita ANEXO III
+    - 'Adita Módulo B: exame «CE» de tipo'
+    - Adita ANEXO IV
+    - 'Adita Módulo C: conformidade com o tipo'
+    - 'Adita Módulo D: garantia de qualidade de produção'
+    - 'Adita Módulo E: garantia de qualidade do produto'
+    - Adita Critérios mínimos a ter em conta pelos Estados-membros para a notificação dos organismos
+    - Suprime Artigo 1o.
+    - Suprime Artigo 2o.
+    - Suprime Artigo 3o.
+    - Suprime Artigo 4o.
+    - Suprime Artigo 5o.
+    - Suprime Artigo 6o.
+    - Suprime Artigo 7o.
+    - Suprime Artigo 8o.
+    - Suprime Artigo 9o.
+    - Suprime Artigo 10o.
+    - Suprime Artigo 11o.
+    - Suprime ANEXO I — MARCA DE CONFORMIDADE E MARCAÇÕES ESPECÍFICAS SUPLEMENTARES 1. Marca de conformidade
+    - Suprime ANEXO II
+    - 'Suprime ANEXO III — Módulo B: exame «CE» de tipo'
+    - 'Suprime ANEXO IV — Módulo C: conformidade com o tipo'
 identifiers:
   celex: 31992L0042
   eli: http://data.europa.eu/eli/dir/1992/42/oj
@@ -48,7 +88,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c13fc54c-86d8-4809-838c-76183117c2c5.0011
   content_url: http://publications.europa.eu/resource/cellar/987ae7a5-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0042-20130926
-  retrieved_at: '2026-10-22T02:40:15Z'
+  retrieved_at: '2026-10-22T14:40:51Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T17:46:54.199+01:00'
 integrity:
@@ -57,9 +97,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:15Z'
-  notes: Texto consolidado 01992L0042-20130926.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:40:51Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1992-42.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -197,32 +237,22 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:15Z'
-  warnings: []
+  checked_at: '2026-10-22T14:40:51Z'
+  warnings:
+  - '01992L0042-19930802: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0042-20040221: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0042-20050811: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01992L0042-20080321: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 92/42/CEE do Conselho, de 21 de Maio de 1992
-
-> 1992L0042 — PT — 26.09.2013 — 005.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/31993L0068) — [DIRECTIVA 93/68/CEE DO CONSELHO de 22 de Julho de 1993](http://publications.europa.eu/resource/celex/31993L0068) — L 220 — 1 — 30.8.1993
-- [M2](http://publications.europa.eu/resource/celex/32004L0008) — [DIRECTIVA 2004/8/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Fevereiro de 2004](http://publications.europa.eu/resource/celex/32004L0008) — L 52 — 50 — 21.2.2004
-- [M3](http://publications.europa.eu/resource/celex/32005L0032) — [DIRECTIVA 2005/32/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de Julho de 2005](http://publications.europa.eu/resource/celex/32005L0032) — L 191 — 29 — 22.7.2005
-- [M4](http://publications.europa.eu/resource/celex/32008L0028) — [DIRECTIVA 2008/28/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2008](http://publications.europa.eu/resource/celex/32008L0028) — L 81 — 48 — 20.3.2008
-- [►M5](http://publications.europa.eu/resource/celex/32013R0813) — [REGULAMENTO (UE) N.º 813/2013 DA COMISSÃO de 2 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0813) — L 239 — 136 — 6.9.2013
-
-## DIRECTIVA 92/42/CEE DO CONSELHO
 
 de 21 de Maio de 1992
 

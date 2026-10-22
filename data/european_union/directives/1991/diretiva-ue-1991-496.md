@@ -35,6 +35,76 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-14'
+version_history:
+  file: diretiva-ue-1991-496.versoes.json
+  count: 3
+  source_lastmod: '2019-12-14'
+  versions:
+  - date: '2007-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-09-03'
+    amending: eu:celex:32008L0073:por
+    amending_title: DIRECTIVA 2008/73/CE DO CONSELHO Texto relevante para efeitos do EEE de 15 de Julho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Notas
+  - date: '2019-12-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime CAPÍTULO I
+    - Suprime Organização e sequência dos controlos
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 17.º-A
+    - Suprime CAPÍTULO II
+    - Suprime Salvaguarda
+    - Suprime Artigo 18.º
+    - Suprime CAPÍTULO III
+    - Suprime Inspecção
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime CAPÍTULO IV
+    - Suprime Disposições gerais
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime Artigo 24.º
+    - Suprime Artigo 25.º
+    - Suprime Artigo 26.º
+    - Suprime Artigo 27.º
+    - Suprime Artigo 28.º
+    - Suprime Artigo 29.º
+    - Suprime Artigo 30.º
 identifiers:
   celex: 31991L0496
   eli: http://data.europa.eu/eli/dir/1991/496/oj
@@ -49,7 +119,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3ed86f37-3881-4162-8d8d-48e59de7b01e.0011
   content_url: http://publications.europa.eu/resource/cellar/532491f0-4294-11ea-b81b-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0496-20191214
-  retrieved_at: '2026-10-22T02:38:54Z'
+  retrieved_at: '2026-10-22T14:39:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T02:20:18.033+01:00'
 integrity:
@@ -58,9 +128,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:54Z'
-  notes: Texto consolidado 01991L0496-20191214.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:39:23Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1991-496.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -260,16 +330,21 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:54Z'
+  checked_at: '2026-10-22T14:39:23Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01991L0496-19910819: versão indisponível (Sem expressão na língua por para CELEX 01991L0496-19910819.)'
+  - '01991L0496-19920724: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0496-19930101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0496-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0496-19950630: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0496-19960701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0496-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

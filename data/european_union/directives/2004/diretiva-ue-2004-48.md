@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2004-04-30'
+version_history:
+  file: diretiva-ue-2004-48.versoes.json
+  count: 1
+  source_lastmod: '2004-04-30'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32004L0048
   eli: http://data.europa.eu/eli/dir/2004/48/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c5da2d9b-495e-4618-a6c8-c6400c00f1f9.0010
   content_url: http://publications.europa.eu/resource/cellar/d7b13e26-4d17-4b3d-90b9-5ab4a7b40d9a.0006.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0048-20040430
-  retrieved_at: '2026-10-22T02:51:55Z'
+  retrieved_at: '2026-10-22T14:57:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-04-23T08:14:17.187+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:55Z'
-  notes: Texto consolidado 02004L0048-20040430.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:13Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2004-48.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -333,29 +342,18 @@ relationships:
 article_structure:
   article_count: 22
   section_count: 23
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:55Z'
+  checked_at: '2026-10-22T14:57:13Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2004/48/CE do Parlamento Europeu e do Conselho de 29.4.2004 relativa ao respeito dos direitos de propriedade intelectual (Texto relevante para efeitos do EEE)
-
-> 02004L0048 — PT — 30.04.2004 — 000.003
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32004L0048R%2801%29) — [Rectificação, JO L 195, 2.6.2004, p. 16 (2004/48/CE)](http://publications.europa.eu/resource/celex/32004L0048R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32004L0048R%2804%29) — [Rectificação, JO L 90031, 19.1.2026, p. 1 (2004/48/CE)](http://publications.europa.eu/resource/celex/32004L0048R%2804%29)
-
-## DIRECTIVA 2004/48/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 29 de Abril de 2004
 

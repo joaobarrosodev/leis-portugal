@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2005-1.versoes.json
+  count: 1
+  source_lastmod: '2019-12-14'
+  versions:
+  - date: '2005-01-05'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32005R0001
   eli: http://data.europa.eu/eli/reg/2005/1/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/dcca2396-000e-4c6f-bf0f-79ccb7738362.0017
   content_url: http://publications.europa.eu/resource/cellar/dcca2396-000e-4c6f-bf0f-79ccb7738362.0017.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:38:19Z'
+  retrieved_at: '2026-10-22T14:59:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T03:04:01.102+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:19Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:58Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2005-1.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -310,21 +319,21 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 37
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:19Z'
+  checked_at: '2026-10-22T14:59:58Z'
   warnings:
-  - 'Versão consolidada 02005R0001-20191214 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02005R0001-20050125: versão indisponível (Sem expressão na língua por para CELEX 02005R0001-20050125.)'
+  - '02005R0001-20191214: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO (CE) N.º 1/2005 DO CONSELHO
+# Regulamento (CE) n.° 1/2005 do Conselho, de 22 de Dezembro de 2004
 
 de 22 de Dezembro de 2004
 

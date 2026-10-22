@@ -35,6 +35,119 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-12-21'
+version_history:
+  file: diretiva-ue-2002-22.versoes.json
+  count: 4
+  source_lastmod: '2020-12-21'
+  versions:
+  - date: '2002-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-19'
+    amending: eu:celex:32009L0136:por
+    amending_title: DIRECTIVA 2009/136/CE DO PARLAMENTO EUROPEU E DO CONSELHO, Texto relevante para efeitos do EEE de 25 de
+      Novembro de 2009,
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Listas e serviços de informações de listas
+    - Altera Artigo 8.º — Designação das empresas
+    - Altera Artigo 9.º — Acessibilidade das tarifas
+    - Altera Artigo 11.º — Qualidade do serviço das empresas designadas
+    - Altera Artigo 17.º — Controlos regulamentares dos serviços a retalho
+    - Altera Artigo 20.º — Contratos
+    - Altera Artigo 21.º — Transparência e publicação de informações
+    - Altera Artigo 22.º — Qualidade do serviço
+    - Altera Artigo 29.º — Oferta de recursos adicionais
+    - Altera Artigo 33.º — Consulta às partes interessadas
+    - Altera Artigo 34.º — Resolução extrajudicial de litígios
+    - Altera Artigo 36.º — Procedimento de notificação, monitorização e revisão
+    - Altera Artigo 40.º — Destinatários
+    - Altera ANEXO IV
+    - 'Altera Parte A: Cálculo do custo líquido'
+    - Adita CAPÍTULO I
+    - Adita ÂMBITO, OBJECTIVOS E DEFINIÇÕES
+    - Adita Artigo 1.º — Objecto e âmbito de aplicação
+    - Adita CAPÍTULO II
+    - Adita OBRIGAÇÕES DE SERVIÇO UNIVERSAL, INCLUINDO OBRIGAÇÕES SOCIAIS
+    - Adita Artigo 4.º — Oferta de acesso num local fixo e oferta de serviços telefónicos
+    - Adita Artigo 6.º
+    - Adita Postos públicos e outros pontos de acesso a serviços de telefonia vocal acessíveis ao público
+    - Adita Artigo 7.º — Medidas para utilizadores com deficiência
+    - Adita CAPÍTULO III
+    - Adita CONTROLOS REGULAMENTARES IMPOSTOS ÀS EMPRESAS COM PODER DE MERCADO SIGNIFICATIVO EM MERCADOS RETALHISTAS ESPECÍFICOS
+    - Adita CAPÍTULO IV
+    - Adita INTERESSES E DIREITOS DOS UTILIZADORES FINAIS
+    - Adita Artigo 23.º — Disponibilidade dos serviços
+    - Adita Artigo 23.º-A — Garantia de acesso e de escolha de níveis equivalentes para os utilizadores com deficiência
+    - Adita Artigo 25.º — [►M1](http://publications.europa.eu/resource/celex/32009L0136) Serviços de informações de listas
+      telefónicas◄
+    - Adita Artigo 26.º — Serviços de emergência e número único europeu de chamadas de emergência
+    - Adita Artigo 27.º — Indicativos telefónicos de acesso europeus
+    - Adita Artigo 27.º-A — Números harmonizados destinados a serviços harmonizados de valor social, incluindo o número de
+      chamada da linha de emergência para casos de crianças desaparecidas
+    - Adita Artigo 28.º — Acesso a números e serviços
+    - Adita Artigo 30.º — Facilidades na mudança de operador
+    - Adita Artigo 31.º — Obrigações de transporte («must carry»)
+    - Adita CAPÍTULO V
+  - date: '2016-04-30'
+    amending: eu:celex:32015R2120:por
+    amending_title: REGULAMENTO (UE) 2015/2120 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de novembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 5.º — Listas e serviços de informações de listas
+    - Altera Artigo 11.º — Qualidade do serviço das empresas designadas
+    - Altera Artigo 27.º-A — Números harmonizados destinados a serviços harmonizados de valor social, incluindo o número de
+      chamada da linha de emergência para casos de crianças desaparecidas
+    - Altera Notas
+  - date: '2020-12-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime ÂMBITO, OBJECTIVOS E DEFINIÇÕES
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime OBRIGAÇÕES DE SERVIÇO UNIVERSAL, INCLUINDO OBRIGAÇÕES SOCIAIS
+    - Suprime Artigo 3.º — Disponibilidade do serviço universal
+    - Suprime Artigo 4.º — Oferta de acesso num local fixo e oferta de serviços telefónicos
+    - Suprime Artigo 5.º — Listas e serviços de informações de listas
+    - Suprime Artigo 6.º
+    - Suprime Postos públicos e outros pontos de acesso a serviços de telefonia vocal acessíveis ao público
+    - Suprime Artigo 7.º — Medidas para utilizadores com deficiência
+    - Suprime Artigo 8.º — Designação das empresas
+    - Suprime Artigo 9.º — Acessibilidade das tarifas
+    - Suprime Artigo 10.º — Controlo das despesas
+    - Suprime Artigo 11.º — Qualidade do serviço das empresas designadas
+    - Suprime Artigo 12.º — Determinação dos custos das obrigações de serviço universal
+    - Suprime Artigo 13.º — Financiamento das obrigações de serviço universal
+    - Suprime Artigo 14.º — Transparência
+    - Suprime Artigo 15.º — Revisão do âmbito do serviço universal
+    - Suprime CAPÍTULO III
+    - Suprime CONTROLOS REGULAMENTARES IMPOSTOS ÀS EMPRESAS COM PODER DE MERCADO SIGNIFICATIVO EM MERCADOS RETALHISTAS ESPECÍFICOS
+    - Suprime Artigo 17.º — Controlos regulamentares dos serviços a retalho
+    - Suprime CAPÍTULO IV
+    - Suprime INTERESSES E DIREITOS DOS UTILIZADORES FINAIS
+    - Suprime Artigo 20.º — Contratos
+    - Suprime Artigo 21.º — Transparência e publicação de informações
+    - Suprime Artigo 22.º — Qualidade do serviço
+    - Suprime Artigo 23.º — Disponibilidade dos serviços
+    - Suprime Artigo 23.º-A — Garantia de acesso e de escolha de níveis equivalentes para os utilizadores com deficiência
+    - Suprime Artigo 24.º — Interoperabilidade dos equipamentos de televisão digital de consumo
+    - Suprime Artigo 25.º — [►M1](http://publications.europa.eu/resource/celex/32009L0136) Serviços de informações de listas
+      telefónicas◄
+    - Suprime Artigo 26.º — Serviços de emergência e número único europeu de chamadas de emergência
+    - Suprime Artigo 27.º — Indicativos telefónicos de acesso europeus
+    - Suprime Artigo 27.º-A — Números harmonizados destinados a serviços harmonizados de valor social, incluindo o número
+      de chamada da linha de emergência para casos de crianças desaparecidas
+    - Suprime Artigo 28.º — Acesso a números e serviços
+    - Suprime Artigo 29.º — Oferta de recursos adicionais
+    - Suprime Artigo 30.º — Facilidades na mudança de operador
+    - Suprime Artigo 31.º — Obrigações de transporte («must carry»)
 identifiers:
   celex: 32002L0022
   eli: http://data.europa.eu/eli/dir/2002/22/oj
@@ -49,7 +162,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f13f3e8d-265e-4fec-96ae-62a4d90abbd3.0010
   content_url: http://publications.europa.eu/resource/cellar/6d4fcd0d-33dc-11eb-b27b-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0022-20201221
-  retrieved_at: '2026-10-22T02:37:27Z'
+  retrieved_at: '2026-10-22T14:51:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-27T19:08:20.359+02:00'
 integrity:
@@ -58,9 +171,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:27Z'
-  notes: Texto consolidado 02002L0022-20201221.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:24Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2002-22.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -397,16 +510,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:27Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:51:24Z'
+  warnings: []
   errors: []
 ---
 

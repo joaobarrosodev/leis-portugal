@@ -1,0 +1,179 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31983L0183:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01983L0183-20090630",
+ "dre_path": null,
+ "source_lastmod": "2009-06-30",
+ "versions": [
+  {
+   "date": "1983-04-23",
+   "future": false,
+   "celex": "31983L0183",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "45ed1a1a33eaeb54",
+    "1275a30cbd6fc166",
+    "49bc0578b0f2136c",
+    "c8c96de7b51fd6fe",
+    "200c0b7cdab6a007",
+    "5f82aa3c8cbe678e",
+    "67826880ec6eae39",
+    "8fc431cbfc9ba452",
+    "8e10f4fef08a98f8",
+    "63045cefee8c8e55",
+    "dfe5b4b0aca93dfc",
+    "43940f049f3629f1",
+    "1d933857a57bed7e",
+    "c0c934596c880de1"
+   ]
+  },
+  {
+   "date": "2009-06-30",
+   "future": false,
+   "celex": "01983L0183-20090630",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime TITULO I DISPOSIÇÕS GERAIS — Artigo 1º",
+    "Suprime Artigo 2º — Condições respeitantes aos bens",
+    "Suprime Artigo 3º — Condições em relação à importação",
+    "Suprime Artigo 4º — Obrigações posteriores à importação",
+    "Suprime Artigo 5º — Condições especificas para certos bens",
+    "Suprime Artigo 6º — Regras gerais relativas à fixação de residência",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime TITULO IV IMPORTAÇÃO DE BENS POR OCASIÃO DE CASAMENTO — Artigo 9º",
+    "Suprime TITULO V IMPORTAÇÃO DE BENS PESSOAIS DO FALECIDO ADQUIRIDOS POR VIA SUCESSÓRIA — Artigo 10º",
+    "Suprime TITULO VI DISPOSIÇÕES FINAIS — Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º"
+   ],
+   "fragments": [
+    "6815bf959d7cfc55"
+   ]
+  }
+ ],
+ "fragments": {
+  "45ed1a1a33eaeb54": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 83/183/CEE do Conselho, de 28 de Março de 1983, relativa às isenções fiscais aplicáveis às importações definitivas de bens pessoais de particulares provenientes de um Estado-Membro** *Jornal Oficial nº L 105 de 23/04/1983 p. 0064 - 0067 Edição especial finlandesa: Capítulo 9 Fascículo 1 p. 0117 Edição especial espanhola: Capítulo 09 Fascículo 1 p. 0161 Edição especial sueca: Capítulo 9 Fascículo 1 p. 0117 Edição especial portuguesa: Capítulo 09 Fascículo 1 p. 0161*\n\nDIRECTIVA DO CONSELHO de 28 de Março de 1983 relativa às isenções fiscais aplicáveis às importações definitivas de bens pessoais de particulares provenientes de um Estado-membro (83/183/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 99º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que, para que a população dos Estados-membros tome mais consciência da Comunidade Europeia, convém prosseguir em beneficio dos particulares a acção empreendida com o propósito de criar, na Comunidade, condições análogas às de um mercado interno;\n\nConsiderando, designadamente, que os entraves fiscais à importação num Estado-membro, por particulares, de bens pessoais que se encontrem num outro Estado-membro são susceptiveis de dificultar a livre circulação de pessoas na Comunidade; que importa, por conseguinte, eliminar esses entraves na medida do possível, mediante a criação de isenções fiscais;\n\nConsiderando que tais isenções fiscais só podem ser aplicadas as importações de bens que não tenham carácter comercial ou especulativo, e que convém, por consequência, fixar os respectivos limites e condições de aplicação,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "1275a30cbd6fc166": {
+   "fragment_id": "TITULO I DISPOSIÇÕS GERAIS — Artigo 1º",
+   "type": "divisao",
+   "heading": "TITULO I DISPOSIÇÕS GERAIS — Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TITULO I DISPOSIÇÕS GERAIS — Artigo 1º\n\nAmbito de aplicação\n\n1. Os Estados-membros concedem, nas condições e nos casos a seguir indicados, uma isenção dos impostos sobre o volume de negócios, dos impostos sobre consumos especificos e outros impostos sobre o consumo normalmente exigíveis na importação definitiva, por um particular, de bens pessoais provenientes de um outro Estado-membro.\n\n2. A presente directiva não abrange os direitos e imposições especificas e/ou periódicas respeitantes à utilização desses bens no interior do pais, tais como, por exemplo, os direitos cobrados aquando do registo de veiculos automóveis, os impostos de circulação redoviária, as taxas de televisão."
+  },
+  "49bc0578b0f2136c": {
+   "fragment_id": "Artigo 2º — Condições respeitantes aos bens",
+   "type": "artigo",
+   "heading": "Artigo 2º — Condições respeitantes aos bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — Condições respeitantes aos bens\n\n1. Para efeitos do disposto na presente directiva, são considerados «bens pessoais» os bens afectos ao uso pessoal dos interessados ou às necessidades do respectivo agregado familiar. Os referidos bens não devem traduzir, quer pela sua natureza, quer pela sua quantitade, qualquer preocupação de ordem comercial, nem destinar-se a uma actividade económica, na acepção do artigo 4º, da Directiva 77/388/CEE (4). Todavia, constituem igualmente bens pessoais os instrumentos de artes mecinicas ou liberais mecânicas ao exercicio da profissao do interessado.\n\n2. A isenção prevista no artigo 1º e concedida relativamente aos bens pessoais que: a) Tenham sido adquiridos segundo as condições gerais de tributação do mercado interno de um Estado-membro e que não beneficiem, a titulo de exportação, de qualquer isenção ou reembolso de impostos sobre o volume de negócios, de impostos sobre consumos especificos ou de outros impostos sobre o consumo. Para aplicação da presente directiva, considera-se que preenchem estas condições os bens adquiridos nas condições referidas no nº 10 do artigo 15º, da Directiva 77/388/CEE; (1) JO nº C 267 de 21.11.1975, p. 11. (2) JO nº C 53 de 8.3.1976, p. 39. (3) JO nº C 131 de 12.6.1976, p. 49. (4) JO nº L 145 de 13.6.1977, p. 1.\n\nb) Tenham sido realmente afectos ao uso do interessado, no Estado-membro de exportação, desde, há pelo menos: - seis meses antes da mudança de residência, no que se refere aos veiculos rodoviários a motor (incluindo os respectivos reboques), caravanas, habitações móveis, barcos de recreio e aviões de turismo;\n\n- três meses antes da mudança de residência ou da fixação de uma residência secundária, no que se refere aos restantes bens.\n\nTodavia, relativamente aos bens referidos na segunda frase de alínea a), os Estados-membros podem alargar os prazos atrás mencionados para doze meses.\n\n3. As autoridades competentes exigirão a prova de que se encontram preenchidas as condições fixadas no nº 2 no que respeita aos veiculos rodoviários a motor (incluindo os respectivos reboques), às caravanas, habitações móveis, barcos de recreio a aviões de turismo. Relativamente aos outros bens, só exigirão que seja feita prova no caso de suspeita grave de fraude."
+  },
+  "c8c96de7b51fd6fe": {
+   "fragment_id": "Artigo 3º — Condições em relação à importação",
+   "type": "artigo",
+   "heading": "Artigo 3º — Condições em relação à importação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º — Condições em relação à importação\n\nA importação dos bens pode efectuar-se numa ou em várias vezes, dentro dos prazos previstos nos artigos 7º, 8º, 9º e 10º."
+  },
+  "200c0b7cdab6a007": {
+   "fragment_id": "Artigo 4º — Obrigações posteriores à importação",
+   "type": "artigo",
+   "heading": "Artigo 4º — Obrigações posteriores à importação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — Obrigações posteriores à importação\n\nOs bens importados não podem ser objecto de cessão, locação ou empréstimo nos doze meses seguintes à sua importação com isenção salvo em casos devidamente justificados que satisfaçam as autoridades competentes do Estado-membro de importação."
+  },
+  "5f82aa3c8cbe678e": {
+   "fragment_id": "Artigo 5º — Condições especificas para certos bens",
+   "type": "artigo",
+   "heading": "Artigo 5º — Condições especificas para certos bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Condições especificas para certos bens\n\n1. Os Estados-membros podem estabelecer que os bens enumerados no nº 1 do artigo 4º da Directiva 69/169/CEE (1), com a última redacção que lhe foi dada bela Directiva 82/443/CEE (2), só podem ser importados com isenção, até ao limite das quantidades previstas no referido artigo, no tráfego entre os Estados-membros.\n\n2. A isenção na importação de cavalos de sela, veiculos rodoviários a motor (incluindo os respectivos reboques), caravanas, habitações moveis, barcos de recreio e aviões de turismo só será concedida se o particular mudar a sua residência normal para o Estado-membro de importação."
+  },
+  "67826880ec6eae39": {
+   "fragment_id": "Artigo 6º — Regras gerais relativas à fixação de residência",
+   "type": "artigo",
+   "heading": "Artigo 6º — Regras gerais relativas à fixação de residência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º — Regras gerais relativas à fixação de residência\n\n1. Para aplicação da presente directiva, entende-se por «residência normal» o lugar onde uma pessoa vive habitualmente, isto é, durante pelo menos 185 dias por ano civil, em consequência de vinculos pessoais e profissionais, ou, no caso de uma pessoa sem vinculos profissionais, em consequência de vinculos pessoais indicativos de laços estreitos entre ela próperia e o lugar onde vive.\n\nTodavia, a residência normal de uma pessoa cujos vinculos profissionais se sitvem num lugar diferente do lugar onde possui os seus vinculos pessoais e que, por esse facto, viva alternadamente em lugares distintos situados em dois ou mais Estados-membros, considera-se como estando situada no lugar dos seus vinculos pessoais, desde que ai se desloque regularmente. Esta última condição não é exigida quando uma pessoa permaneça no Estado-membro, para efeitos de execução de uma missão de duração determinada. A frequência de uma universidade ou escola não implica a mudança da residência normal.\n\n2. Os particulares comprovam o lugar da sua residência normal por qualquer meio, designadamente bilhete de identidade, ou qualquer outro documento válido.\n\n3. No caso de as autoridades competentes do Estado-membro de importação terem dúvidas quanto à validade de declaração da residência normal, efectuada nos termos do nº 2, ou para efeitos de determinados controlos especificos, podem exigir quaisquer elementos de informação ou provas suplementares.\n\nTITULO II IMPORTAÇÃO DE BENS PESSOAIS POR OCASIÃO DA MUNDANÇA DA RESIDÊNCIA NORMAL"
+  },
+  "8fc431cbfc9ba452": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. A isenção prevista no artigo 1º é concedida nas condições previstas nos artigos 2º a 5º, relativamente à importação dos bens pessoais efectuada por um particular por ocasião da mudança da sua residência normal.\n\n2. A última importação deve efectuar-se o mais tardar doze meses após a mudança da residência normal. (1) JO nº L 133 de 4.6.1969, p. 6. (2) JO nº L 206 de 14.7.1982, p. 35.\n\nTITULO III IMPORTAÇÃO DE BENS PESSOAIS POR OCASIÃO DA INSTALAÇÃO DE UMA RESIDÊNCIA SECUNDÁRIA OU DO ABANDONO DESTA"
+  },
+  "8e10f4fef08a98f8": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. A isenção prevista no artigo 1º é concedida, nas condições previstas nos artigos 2º a 5º, relativamente à importação dos bens pessoais, efectuada por um particular com o fim de mobilar uma residência secundária.\n\nA isenção só será concedida se: i) A pessoa em causa for proprietária da residência secundária ou a tiver arrendado por um periodo de, pelo menos, doze meses;\n\nii) Os bens importados corresponderem ao mobiliário normal da residência secundária.\n\n2. A isenção é igualmente concedida nas condições referidas no nº 1, no caso de importação de bens com destino à residência normal ou a uma outra residência secundária no seguimento do abandono de uma residência secundária, desde que os bens em causa tenham estado efectivamente na posse do interessado e afectados ao uso deste durante um periodo de, pelo menos, doze meses.\n\nA última importação deve efectuar-se, o mais tardar, doze meses apos o abandono da residência secundária.\n\nO artigo 4º não se aplica no caso de reimportação de bens."
+  },
+  "63045cefee8c8e55": {
+   "fragment_id": "TITULO IV IMPORTAÇÃO DE BENS POR OCASIÃO DE CASAMENTO — Artigo 9º",
+   "type": "divisao",
+   "heading": "TITULO IV IMPORTAÇÃO DE BENS POR OCASIÃO DE CASAMENTO — Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TITULO IV IMPORTAÇÃO DE BENS POR OCASIÃO DE CASAMENTO — Artigo 9º\n\n1. Em derrogação do disposto no nº 2, alinea b), segundo travessão, do artigo 2º, mas sem prejuizo das outras disposições dos artigos 2º a 5º, qualquer pessoa, por ocasião do seu casamento, pode importar em regime de isenção dos impostos referidos no artigo 1º, no Estado-membro para onde pretenda mudar a sua residência normal, bens pessoais adquiridos ou na sua posse há menos de três meses, nas seguintes condições: a) A importação deve efectuar-se durante o periodo que tem inicio dois meses antes da data prevista para o casamento e que termina quatro meses após a data da celebração;\n\nb) O interessado deve apresentar prova de que o casamento se realizou ou de que foram iniciadas as diligências oficiais para a sua realização.\n\n2. São igualmente admitidos com isenção os presentes habitualmente oferecidos por ocasião do casamento, remetidos a uma pessoa que satisfaça as condições do nº 1 por pessoas que tenham a sua residência normal num Estado-membro que não seja o de importação. A isenção é aplicàvel aos presentes cujo valor unitário não exceda 200 ECUs. Os Estados-membros podem, todavia, conceder uma isenção superior a 200 ECUs, desde que o valor da cada presente admitido com isenção não exceda 1 000 ECUs.\n\n3. Os Estados-membros podem submeter a concessão da isenção à prestação de uma garantia adequada, quando a importação se efectue antes da data do casamento.\n\n4. No caso de o particular não apresentar prova do casamento no prazo de quatro meses a partir da data indicada para a sua celebração, os impotos serão devidos à data da importação."
+  },
+  "dfe5b4b0aca93dfc": {
+   "fragment_id": "TITULO V IMPORTAÇÃO DE BENS PESSOAIS DO FALECIDO ADQUIRIDOS POR VIA SUCESSÓRIA — Artigo 10º",
+   "type": "divisao",
+   "heading": "TITULO V IMPORTAÇÃO DE BENS PESSOAIS DO FALECIDO ADQUIRIDOS POR VIA SUCESSÓRIA — Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TITULO V IMPORTAÇÃO DE BENS PESSOAIS DO FALECIDO ADQUIRIDOS POR VIA SUCESSÓRIA — Artigo 10º\n\n1. Em derrogação do disposto nos nºs 2 e 3 do artigo 2º, no artigo 4º e no nº 2 do artigo 5º, mas sem prejuizo das outras disposições dos artigos 2º, 3º e 5º, um particular que adquira por via sucessória (causa mortis) a propriedade ou o usufruto de bens pessoais de um falecido, que se encontrem num Estado-membro, pode importar esses bens para um outro Estado-membro onde tenha residência com isenção dos impostos referidos no artigo 1º, nas seguintes condições: a) O particular deve apresentar às autoridades competentes do Estado-membro de importação um certificado passado por um notário ou por qualquer outra entidade competente do Estado-membro de exportação, comprovativo da aquisição por via sucessória dos bens importados;\n\nb) A importação deve efectuar-se no prazo de dois anos após a entrada na posse dos bens."
+  },
+  "43940f049f3629f1": {
+   "fragment_id": "TITULO VI DISPOSIÇÕES FINAIS — Artigo 11º",
+   "type": "divisao",
+   "heading": "TITULO VI DISPOSIÇÕES FINAIS — Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TITULO VI DISPOSIÇÕES FINAIS — Artigo 11º\n\n1. Até à entrada em vigor das normas fiscais comunitárias adoptadas em aplicação do nº 2 do artigo 14º da Directiva 77/388/CEE, os Estados-membros procurarão reduzir tanto quanto possivel as formalidades respeitantes às importações efectuadas por particulares, nos limites e condições da presente directiva, e procurarão evitar formalidades na importação que impliquem controlos que tenham como efeito rupturas importantes de carga, na fronteira.\n\n2. Os Estados-membros têm a faculdade de manter e/ou de prever condições de concessão de isenção mais liberais do que as previstas na presente directiva, com excepção das estabelecidas no nº 2 do artigo 2º.\n\n3. Sem prejuizo do disposto no nº 2 do artigo 2º, os Estados-membros não podem aplicar, por força da presente directiva, isenções fiscais, na Comunidade, menos favoráveis do que as que concederiam relativamente às importações de bens pessoais por particulares provenientes de um pais terceiro."
+  },
+  "1d933857a57bed7e": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva o mais tardar em 1 de Janeiro de 1984. Desse facto informarão imediatamente a Comissão. Todavia, a República Helénica pode manter o seu regime de tributação em vigor, desde que evite a dupla tributação, até à introdução do sistema comum do imposto sobre o valor acrescentado.\n\n2. Os Estados-membros comunicarão à Comissão as disposições essenciais de direito interno que venham a adoptar no dimínio regulado pela presente directiva, designadamente as que resultam da aplicação do disposto nos nºs 2 e 3 do artigo 11º. A Comissão comunicará aos outros Estados-membros estas disposições.\n\n3. A Comissão após consulta dos Estados-membros, apresentará ao Conselho e ao Parlamento Europeu, de dois em dois anos, um relatório sobre e aplicação da presente directiva nos Estados-membros."
+  },
+  "c0c934596c880de1": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 28 de Março de 1983.\n\nPelo Conselho\n\nO Presidente\n\nJ. ERTL"
+  },
+  "6815bf959d7cfc55": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1983L0183 — PT — 30.06.2009 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31983L0183) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31983L0183) [de 28 de Março de 1983](http://publications.europa.eu/resource/celex/31983L0183) [relativa às isenções fiscais aplicáveis às importações definitivas de bens pessoais de particulares provenientes de um Estado-membro](http://publications.europa.eu/resource/celex/31983L0183) [(83/183/CEE)](http://publications.europa.eu/resource/celex/31983L0183) (JO L 105, 23.4.1983, p.64)\n\n**revogado por:**\n\n- [Directiva 2009/55/CE do Conselho de 25 de Maio de 2009](http://publications.europa.eu/resource/celex/32009L0055) — L 145 — 36 — 10.6.2009"
+  }
+ }
+}

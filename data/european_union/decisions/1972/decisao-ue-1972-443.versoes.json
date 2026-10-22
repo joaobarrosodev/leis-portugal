@@ -1,0 +1,229 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31972D0443:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01972D0443-19950101",
+ "dre_path": null,
+ "source_lastmod": "1995-01-01",
+ "versions": [
+  {
+   "date": "1972-12-30",
+   "future": false,
+   "celex": "31972D0443",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "37a9beea70252ec9",
+    "2eec23a6f9ec9f33",
+    "c7d86e030ab16536",
+    "a443fb405fc636f3",
+    "0ff159b63cb0a006",
+    "ad7e320b2b4cca1b",
+    "d21bad12e6651695",
+    "e47367635c1e6ca1",
+    "b97d2181fdc40b97",
+    "0f27ee1b71187dfa"
+   ]
+  },
+  {
+   "date": "1995-01-01",
+   "future": false,
+   "celex": "01972D0443-19950101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o"
+   ],
+   "fragments": [
+    "b32315db17d65354",
+    "035919103ac730a3",
+    "6f9b6473ffff725e",
+    "4c46cda1d03cc2f6",
+    "c0d661f5ed2771b4",
+    "fd51da53e4830d6d",
+    "78b19aada69f3818",
+    "6199b337b39f12da",
+    "e8e47ebc5cec5079",
+    "0013e2bb1ce339d1"
+   ]
+  }
+ ],
+ "fragments": {
+  "37a9beea70252ec9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**72/443/CECA: Decisão da Comissão, de 22 de Dezembro de 1972, relativa ao alinhamento das vendas de carvão no mercado comum** *Jornal Oficial nº L 297 de 30/12/1972 p. 0045 - 0047 Edição especial finlandesa: Capítulo 12 Fascículo 1 p. 0043 Edição especial dinamarquesa: Série I Capítulo 1972(28-30.12) p. 0033 Edição especial sueca: Capítulo 12 Fascículo 1 p. 0043 Edição especial inglesa: Série I Capítulo 1972(30-31.12) p. 0025 Edição especial grega: Capítulo 08 Fascículo 1 p. 0104 Edição especial espanhola: Capítulo 08 Fascículo 2 p. 0026 Edição especial portuguesa: Capítulo 08 Fascículo 2 p. 0026*\n\nDECISÃO DA COMISSÃO de 22 de Dezembro de 1972 relativa ao alinhamento das vendas de carvão no mercado comum\n\n(72/443/CECA)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia do Carvão e do Aço e, nomeadamente, o no 2, alínea b), do seu artigo 60o e o seu artigo 47o,\n\nTendo em conta a Decisão no 30-53 de 2 de Maio de 1963, relativa às práticas proibidas no mercado comum do carvão e do aço pelo no 1 do artigo 60o (1),\n\nTendo em conta a Decisão no 3-58 de 18 de Março de 1958, relativa ao alinhamento das vendas de carvão no mercado comum (2),\n\nTendo em conta a decisão relativa à adesão de novos Estados-membros à Comunidade Europeia do Carvão e do Aço, assinada em 22 de Janeiro de 1972 e, nomeadamente, o artigo 153o do Acto que lhe está anexo,\n\nApós consulta do Comité Consultivo,\n\nConsiderando que pela Decisão no 3-58 e para evitar perturbações no mercado comum, foi limitado o direito de as empresas alinharem as suas ofertas por uma tabela estabelecida com base noutro ponto e que proporcione ao comprador as condições mais vantajosas no local de entrega;\n\nConsiderando que o mercado do carvão se modificou desde 1958; que as restrições ao direito de alinhamento actualmente em vigor devem ser adaptadas a esta nova situação; que, além disso, convém ter em consideração a adesão à Comunidade do Reino Unido, da Dinamarca e da Irlanda e as consequências daí resultantes para a evolução futura do mercado carbonífero;\n\nConsiderando que é, assim, necessário substituir as regras estabelecidas pela Decisão no 3-58 por novas disposições; que, por força do artigo 30o do Acto referido, é conveniente ter em consideração as orientações definidas no Anexo II daquele Acto;\n\nConsiderando que o direito de alinhamento deve ser limitado às tabelas das empresas e das organizações de venda importantes para a formação dos preços no mercado comum, tendo em conta o volume e as condições da sua produção; que a experiência desde 1958 mostrou que as empresas importantes são as que vendem anualmente no mercado comum mais de 1 milhão de toneladas de hulha ou de produtos obtidos a partir da sua própria produção de hulha ou de lignite; que é conveniente ter também em consideração as empresas cuja suspensão de produção está iminente;\n\nConsiderando que, por outro lado, é conveniente limitar as quantidades que, no mercado comum, podem ser fornecidas por alinhamento pelas empresas mencionadas; que, para evitar modificações sensíveis nas correntes de abastecimento tradicionais, importa que esta limitação seja praticada numa base geográfica e distinguindo os grupos de produtos principais;\n\nConsiderando que o exercício do direito de alinhamento pressupõe que os combustíveis a fornecer sejam comparáveis com os produtos da tabela com base na qual se pratica o alinhamento;\n\nConsiderando que, para impedir subcotações ilícitas de preços, as empresas são obrigadas, nos termos do artigo 3o da Decisão no 30-53, para a determinação do preço incluindo portes, a observar todas as condições da tabela pela qual efectuam o alinhamento;\n\nConsiderando que, para o cálculo exacto do preço incluindo portes, as empresas devem conhecer de maneira precisa o montante das despesas de transporte;\n\nConsiderando que, para permitir o exame das reduções de alinhamento, nos casos que envolvam transportes marítimos, as empresas devem comunicar à Comissão os fretes marítimos considerados nos seus cálculos de reduções de alinhamento; que, para levar ao conhecimento dos interessados os fretes marítimos aplicados, a Comissão pode publicá-los;\n\nConsiderando que, para julgar a amplitude das transacções efectuadas pelas empresas em consequência de alinhamentos e também para verificar se as disposições contidas na presente decisão são efectivamente aplicadas, as empresas devem ser obrigadas a comunicar regularmente à Comissão a natureza e o montante das transacções efectuadas por alinhamento,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "2eec23a6f9ec9f33": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. As empresas da indústria carbonífera apenas podem usar o direito de alinhar os seus preços por uma tabela estabelecida com base noutro ponto que dê ao comprador as condições mais vantajosas no local de entrega (alinhamento) de acordo com as disposições constantes da presente decisão.\n\n2. As disposições da presente decisão são igualmente aplicáveis às organizações de venda das empresas da indústria carbonífera, na acepção do artigo 1o (2) da Decisão no 30-53."
+  },
+  "c7d86e030ab16536": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nAs empresas da indústria carbonífera apenas podem alinhar os seus preços pelas tabelas das empresas e organizações de venda a seguir enumeradas:\n\nAachener Kohlenverkauf GmbH, Aachen,\n\nComptoir belge des charbons, Bruxelles\n\nGewerkschaft Auguste-Viktoria, Marl i. W.,\n\nHouillères du Bassin du Centre et du Midi, Saint-Etienne,\n\nHoullières du Bassin de Lorrainne, Metz,\n\nHoullières du Bassin du Nord et du Pas-de-Callais, Douai,\n\nMaatschappij Laura & Vereeniging, Eygelshoven,\n\nMaatschappij Orange-Nassau, Heerlen,\n\nNational Coal Board, London\n\nNiedersaechsischer Kohlen-Verkauf GmbH, Hannover,\n\nRheinischer Braunkohlenbrikett-Verkauf GmbH, Koeln,\n\nRuhrkohle AG, Essen,\n\nSaarbergwerke AG, Saarbruecken,\n\nSophia-Jacoba Handelsgesellschaft m.b.H., Huckelhoven,\n\nVerkoopkantoor des Staatsmijnen, Den Haag."
+  },
+  "a443fb405fc636f3": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. As empresas enumeradas no artigo 2o só podem, em cada uma das regiões de venda abaixo indicadas, proceder a alinhamentos até às quantidades por elas vendidas durante o ano civil anterior.\n\nPara efeitos desta disposição, as regiões de venda são as seguintes:\n\na) Gra-Bretanha e Irlanda do Norte\n\nb) na República Federal da Alemanha:\n\n- os «Laender» Baixa Saxónia, Schleswig-Holstein, Hamburgo è Brema\n\n- os «Laender» Renânia do Norte-Vestefália, Renânia-Palatinado e Sarre\n\n- os «Laender» Hesse, Bade-Vurtenberga e Baviera\n\nc) Bélgica e Luxemburgo\n\nd) Em França:\n\n- a região a leste dos departamentos: Aisne, Seine-et-Marne, Loiret, Loir-et-Cher, Indre, Haute-Vienne, Dordogne, lot-et-Garonne/Gers, Hautes-Pyrénées, incluindo estes departamentos.\n\n- todos os outros departamentos franceses.\n\ne) Itália\n\nf) Países Baixos\n\ng) Dinamarca\n\nh) Irlanda\n\n2. As quantidades referidas no no 1 aplicam-se separadamente aos seguintes produtos:\n\na) carvões destinados a coquefacção\n\nb) carvões destinados a uso doméstico e à pequena indústria\n\nc) outros carvões\n\nd) coques de altos-fornos\n\ne) coques de fundição\n\nf) outros coques\n\ng) aglomerados de hulha\n\nh) aglomerados de lignite\n\n3. A Comissão pode, perante um pedido devidamente fundamentado, aumentar, em favor de certas empresas ou organizações de venda, as quantidades limites definidas nos nOS 1 e 2."
+  },
+  "0ff159b63cb0a006": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. O alinhamento apenas é admitido se a empresa puder determinar, com exactidão, o montante das despesas de transporte até ao local de destino.\n\n2. Se as despesas de transporte não estiverem incluídas em tarifas publicadas, a empresa que pratica o alinhamento deve, quando necessário, assegurar-se, através de documentos comprovativos autênticos, da exactidão dos dados relativos ao montante das despesas de transporte fornecidos pelo comprador ou pela empresa de transporte."
+  },
+  "ad7e320b2b4cca1b": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nPara a determinação do preço incluindo portes no local de entrega, a empresa que pratica o alinhamento deve ter em consideração os eventuais custos a suportar pelo consumidor, bem como majorações ou reduções de preços em função do teor em cinzas ou humidade, suplementos de qualidade, e outros elementos determinantes do valor de utilização do carvão (p.ex. calibre, teor em matérias voláteis, poder calorífico, teor em enxofre, aptidão para coquefacção)."
+  },
+  "d21bad12e6651695": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. As empresas da indústria de carvão devem comunicar à Comissão as transacções por alinhamento no mercado comum que incluam um transporte marítimo. Esta comunicação deve referir o montante do frete marítimo em que se baseou o cálculo da redução de alinhamento.\n\n2. A comunicação será feita no momento da conclusão do contrato de venda e incluirá os elementos de cálculo do preço de alinhamento, separando os encargos de colocação a bordo e o frete (incluindo encargos portuários, seguros e encargos diversos apresentados pelo transportador).\n\n3. A Comissão comunicará, a pedido das empresas interessadas, os fretes marítimos levados ao seu conhecimento; pode também publicá-los de forma adequada."
+  },
+  "e47367635c1e6ca1": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nAs empresas que usem o direito de alinhamento devem comunicar à Comissão, relativamente a cada semestre, nos dias 15 de Agosto e 15 de Fevereiro do ano seguinte:\n\na) As quantidades de combustíveis para as quais tenham sido concluídos contratos de fornecimento por alinhamento, com indicação das condições acordadas,\n\nb) As quantidades de combustíveis fornecidas por alinhamento e ao preço de tabela em cada uma das regiões de venda definidas no no 1 do artigo 3o.\n\nAs comunicações serão feitas pelas empresas em formulários cujo modelo será indicado pela Comissão."
+  },
+  "b97d2181fdc40b97": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nAs disposições da presente decisão não impedem que as empresas, de acordo com o no 2, último parágrafo, do artigo 60o, alinhem os seus preços por condições oferecidas por empresas exteriores à Comunidade."
+  },
+  "0f27ee1b71187dfa": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nA presente decisão entra em vigor em 1 de Janeiro de 1973. A Decisão no 3-58 é revogada, com efeito na mesma data.\n\nFeito em Bruxelas em 22 de Dezembro de 1972.\n\nPela Comissão\n\nO Presidente\n\nS. L. MANSHOLT\n\n(1) JO da CECA no 6 de 4. 5. 1953, p. 109.(2) JO da CECA no 11 de 29. 3. 1958, p. 157/158."
+  },
+  "b32315db17d65354": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1972D0443 — PT — 01.01.1995 — 003.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31972D0443:PT:NOT) [DECISÃO DA COMISSÃO de 22 de Dezembro de 1972 relativa ao alinhamento das vendas de carvão no mercado comum (72/443/CECA)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31972D0443:PT:NOT) (JO L 297, 30.12.1972, p.45)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986S2526:PT:NOT) | [Decisão n.o 2526/86/CECA da Comissão de 31 de Julho de 1986](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986S2526:PT:NOT) | L 222 | 8 | 8.8.1986 |\n\nAlterado por:\n\n| [►A1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11979H:FR:NOT) | [Acto de Adesão da Grécia](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11979H:FR:NOT) | L 291 | 17 | 19.11.1979 |\n| --- | --- | --- | --- | --- |\n| [A2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N:PT:NOT) | [Acto de Adesão da Áustria, da Finlândia e da Suécia](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N:PT:NOT) | C 241 | 21 | 29.8.1994 |\n|  | (adaptado pela Decisão 95/1/CE, Euratom, CECA do Conselho) | L 001 | 1 | .. |\n\n(*) Este acto não existe em língua portuguesa.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31972D0443:PT:NOT)\n\nDECISÃO DA COMISSÃO\n\nde 22 de Dezembro de 1972\n\nrelativa ao alinhamento das vendas de carvão no mercado comum\n\n(72/443/CECA)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia do Carvão e do Aço e, nomeadamente, o n.o 2, alínea b), do seu artigo 60.o e o seu artigo 47.o,\n\nTendo em conta a Decisão n.o 30-53 de 2 de Maio de 1963, relativa às práticas proibidas no mercado comum do carvão e do aço pelo n.o 1 do artigo 60.o ([1](http://publications.europa.eu/resource/cellar/8dbb49da-7ae2-4bfa-a44f-ee1e97c2bddf.0010.02/DOC_1#E0001)),\n\nTendo em conta a Decisão n.o 3-58 de 18 de Março de 1958, relativa ao alinhamento das vendas de carvão no mercado comum ([2](http://publications.europa.eu/resource/cellar/8dbb49da-7ae2-4bfa-a44f-ee1e97c2bddf.0010.02/DOC_1#E0002)),\n\nTendo em conta a decisão relativa à adesão de novos Estado-membros à Comunidade Europeia do Carvão e do Aço, assinada em 22 de Janeiro de 1972 e, nomeadamente, o artigo 153.o do Acto que lhe está anexo,\n\nApós consulta do Comité Consultivo,\n\nConsiderando que pela Decisão n.o 3-58 e para evitar perturbações no mercado comum, foi limitado o direito de as empresas alinharem as suas ofertas por uma tabela estabelecida com base noutro ponto e que proporcione ao comprador as condições mais vantajosas no local de entrega;\n\nConsiderando que o mercado do carvão se modificou desde 1958; que as restrições ao direito de alinhamento actualmente em vigor devem ser adaptadas a esta nova situação; que, além disso, convém ter em consideração a adesão à Comunidade do Reino Unido, da Dinamarca e da Irlanda e as consequências daí resultantes para a evolução futura do mercado carbonífero;\n\nConsiderando que é, assim, necessário substituir as regras estabelecidas pela Decisão n.o 3-58 por novas disposições; que, por força do artigo 30.o do Acto referido, é conveniente ter em consideração as orientações definidas no Anexo II daquele Acto;\n\nConsiderando que o direito de alinhamento deve ser limitado às tabelas das empresas e das organizações de venda importantes para a formação dos preços no mercado comum, tendo em conta o volume e as condições da sua produção; que a experiência desde 1958 mostrou que as empresas importantes são as que vendem anualmente no mercado comum mais de 1 milhão de toneladas de hulha ou de produtos obtidos a partir da sua própria produção de hulha ou de lignite; que é conveniente ter também em consideração as empresas cuja suspensão de produção está iminente;\n\nConsiderando que, por outro lado, é conveniente limitar as quantidades que, no mercado comum, podem ser fornecidas por alinhamento pelas empresas mencionadas; que, para evitar modificações sensíveis nas correntes de abastecimento tradicionais, importa que esta limitação seja praticada numa base geográfica e distinguindo os grupos de produtos principais;\n\nConsiderando que o exercício do direito de alinhamento pressupõe que os combustíveis a fornecer sejam comparáveis com os produtos da tabela com base na qual se pratica o alinhamento;\n\nConsiderando que, para impedir subcotações ilícitas de preços, as empresas são obrigadas, nos termos do artigo 3.o da Decisão n.o 30-53, para a determinação do preço incluindo portes, a observar todas as condições da tabela pela qual efectuam o alinhamento;\n\nConsiderando que, para o cálculo exacto do preço incluindo portes, as empresas devem conhecer de maneira precisa o montante das despesas de transporte;\n\nConsiderando que, para permitir o exame das reduções de alinhamento, nos casos que envolvam transportes marítimos, as empresas devem comunicar à Comissão os fretes marítimos considerados nos seus cálculos de reduções de alinhamento; que, para levar ao conhecimento dos interessados os fretes marítimos aplicados, a Comissão pode publicá-los;\n\nConsiderando que, para julgar a amplitude das transacções efectuadas pelas empresas em consequência de alinhamentos e também para verificar se as disposições contidas na presente decisão são efectivamente aplicadas, as empresas devem ser obrigadas a comunicar regularmente à Comissão a natureza e o montante das transacções efectuadas por alinhamento,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "035919103ac730a3": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. As empresas da indústria carbonífera apenas podem usar o direito de alinhar os seus preços por uma tabela estabelecida com base noutro ponto que dê ao comprador as condições mais vantajosas no local de entrega (alinhamento) de acordo com as disposições constantes da presente decisão.\n\n2. As disposições da presente decisão são igualmente aplicáveis às organizações de venda das empresas da indústria carbonífera, na acepção do artigo 1.o (2) da Decisão n.o 30-53."
+  },
+  "6f9b6473ffff725e": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs empresas da indústria carbonífera apenas podem alinhar os seus preços pelas tabelas das empresas e organizações de venda a seguir enumeradas:\n\nAachener Kohlenverkauf GmbH, Aachen,\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986S2526:PT:NOT) —————\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986S2526:PT:NOT)\n\nEmpresa Nacional Carbonífera del Sur (ENCASUR), Córdoba,\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31972D0443:PT:NOT)\n\nGewerkschaft Auguste-Viktoria, Marl i. W.,\n\nHouillères du Bassin du Centre et du Midi, Saint-Etienne,\n\nHoullières du Bassin de Lorrainne, Metz,\n\nHoullières du Bassin du Nord et du Pas-de-Callais, Douai,\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986S2526:PT:NOT)\n\nHullera Vasco Leonesa, SA Madrid,\n\nHulleras del Norte, SA (HUNOSA) Oviedo,\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986S2526:PT:NOT) —————\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986S2526:PT:NOT)\n\nMinero Siderúrgica de Ponferrada, SA, Madrid,\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31972D0443:PT:NOT)\n\nNational Coal Board, London\n\nNiedersächsischer Kohlen-Verkauf GmbH, Hannover,\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986S2526:PT:NOT)\n\nNV Kempense Steenkolenmijnen, Houthalen-Helchteren,\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31972D0443:PT:NOT)\n\nRheinischer Braunkohlenbrikett-Verkauf GmbH, Köln,\n\nRuhrkohle AG, Essen,\n\nSaarbergwerke AG, Saarbrücken,\n\nSophia-Jacoba Handelsgesellschaft m.b.H., Huckelhoven.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986S2526:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31972D0443:PT:NOT)"
+  },
+  "4c46cda1d03cc2f6": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As empresas enumeradas no artigo 2.o só podem, em cada uma das regiões de venda abaixo indicadas, proceder a alinhamentos até às quantidades por elas vendidas durante o ano civil anterior.\n\nPara efeitos desta disposição, as regiões de venda são as seguintes:\n\na) Grã-Bretanha e Irlanda do Norte\n\nb) na República Federal da Alemanha:\n\n— os «Länder» Baixa Saxónia, Schleswig-Holstein, Hamburgo, Brema[►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986S2526:PT:NOT) e Berlin West ◄\n\n— os «Länder» Renânia do Norte-Vestefália, Renânia-Palatinado e Sarre\n\n— os «Länder» Hesse, Bade-Vurtenberga e Baviera\n\nc) Bélgica e Luxemburgo\n\nd) Em França:\n\n— a região a leste dos departamentos: Aisne, Seine-et-Marne, Loiret, Loir-et-Cher, Indre, Haute-Vienne, Dordogne, lot-et-Garonne/Gers, Hautes-Pyrénées, incluindo estes departamentos.\n\n— todos os outros departamentos franceses.\n\ne) Itália\n\nf) Países Baixos\n\ng) Dinamarca\n\nh) Irlanda\n\n[▼A1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11979H:FR:NOT)\n\ni) Grèce\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986S2526:PT:NOT)\n\nj) Espanha\n\nk) Portugal\n\n[▼](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N:PT:NOT)\n\nl) Áustria\n\nm) Finlândia\n\nn) Suécia\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31972D0443:PT:NOT)\n\n2. As quantidades referidas no n.o 1 aplicam-se separadamente aos seguintes produtos:\n\na) carvões destinados a coquefacção\n\nb) carvões destinados a uso doméstico e à pequena indústria\n\nc) outros carvões\n\nd) coques de altos-fornos\n\ne) coques de fundição\n\nf) outros coques\n\ng) aglomerados de hulha\n\nh) aglomerados de lignite\n\n3. A Comissão pode, perante um pedido devidamente fundamentado, aumentar, em favor de certas empresas ou organizações de venda, as quantidades limites definidas nos n.os 1 e 2."
+  },
+  "c0d661f5ed2771b4": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O alinhamento apenas é admitido se a empresa puder determinar, com exactidão, o montante das despesas de transporte até ao local de destino.\n\n2. Se as despesas de transporte não estiverem incluídas em tarifas publicadas, a empresa que pratica o alinhamento deve, quando necessário, assegurar-se, através de documentos comprovativos autênticos, da exactidão dos dados relativos ao montante das despesas de transporte fornecidos pelo comprador ou pela empresa de transporte."
+  },
+  "fd51da53e4830d6d": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nPara a determinação do preço incluindo portes no local de entrega, a empresa que pratica o alinhamento deve ter em consideração os eventuais custos a suportar pelo consumidor, bem como majorações ou reduções de preços em função do teor em cinzas ou humidade, suplementos de qualidade, e outros elementos determinantes do valor de utilização do carvão (p.ex. calibre, teor em matérias voláteis, poder calorífico, teor em enxofre, aptidão para coquefacção)."
+  },
+  "78b19aada69f3818": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. As empresas da indústria de carvão devem comunicar à Comissão as transacções por alinhamento no mercado comum que incluam um transporte marítimo. Esta comunicação deve referir o montante do frete marítimo em que se baseou o cálculo da redução de alinhamento.\n\n2. A comunicação será feita no momento da conclusão do contrato de venda e incluirá os elementos de cálculo do preço de alinhamento, separando os encargos de colocação a bordo e o frete (incluindo encargos portuários, seguros e encargos diversos apresentados pelo transportador).\n\n3. A Comissão comunicará, a pedido das empresas interessadas, os fretes marítimos levados ao seu conhecimento; pode também publicá-los de forma adequada."
+  },
+  "6199b337b39f12da": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs empresas que usem o direito de alinhamento devem comunicar à Comissão, relativamente a cada semestre, nos dias 15 de Agosto e 15 de Fevereiro do ano seguinte:\n\na) As quantidades de combustíveis para as quais tenham sido concluídos contratos de fornecimento por alinhamento, com indicação das condições acordadas,\n\nb) As quantidades de combustíveis fornecidas por alinhamento e ao preço de tabela em cada uma das regiões de venda definidas no n.o 1 do artigo 3.o.\n\nAs comunicações serão feitas pelas empresas em formulários cujo modelo será indicado pela Comissão."
+  },
+  "e8e47ebc5cec5079": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs disposições da presente decisão não impedem que as empresas, de acordo com o n.o 2, último parágrafo, do artigo 60.o, alinhem os seus preços por condições oferecidas por empresas exteriores à Comunidade."
+  },
+  "0013e2bb1ce339d1": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA presente decisão entra em vigor em 1 de Janeiro de 1973. A Decisão n.o 3-58 é revogada, com efeito na mesma data.\n\n([1](http://publications.europa.eu/resource/cellar/8dbb49da-7ae2-4bfa-a44f-ee1e97c2bddf.0010.02/DOC_1#src.E0001)) JO da CECA n.o 6 de 4. 5. 1953, p. 109.\n\n([2](http://publications.europa.eu/resource/cellar/8dbb49da-7ae2-4bfa-a44f-ee1e97c2bddf.0010.02/DOC_1#src.E0002)) JO da CECA n.o 11 de 29. 3. 1958, p. 157/158."
+  }
+ }
+}

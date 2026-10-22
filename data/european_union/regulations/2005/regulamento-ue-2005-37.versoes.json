@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005R0037:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R0037-20050202",
+ "dre_path": null,
+ "source_lastmod": "2005-02-02",
+ "versions": [
+  {
+   "date": "2005-01-13",
+   "future": false,
+   "celex": "32005R0037",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "715820d2300d63e8",
+    "df829d08dfc2332b",
+    "4329b0d7414a3442",
+    "83608e18abeac37f",
+    "dbaf04cec5cac681",
+    "9e63ee7f2d76c3e0",
+    "d04f98972cef10d1"
+   ]
+  }
+ ],
+ "fragments": {
+  "715820d2300d63e8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Janeiro de 2005\n\nrelativo ao controlo das temperaturas nos meios de transporte e nas instalações de depósito e armazenagem de alimentos ultracongelados destinados à alimentação humana\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 89/108/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-Membros respeitantes aos alimentos ultracongelados destinados à alimentação humana [([^1])](http://publications.europa.eu/resource/cellar/fadbb4db-70e7-4bb2-916d-786f153b9446.0016.03/DOC_1#ntr1-L_2005010PT.01001801-E0001), nomeadamente o artigo 11.º;\n\nConsiderando o seguinte:\n\n(1) A Directiva 92/1/CEE da Comissão, de 13 de Janeiro de 1992, relativa ao controlo das temperaturas nos meios de transporte e nas instalações de depósito e armazenagem de alimentos ultracongelados destinados à alimentação humana [([^2])](http://publications.europa.eu/resource/cellar/fadbb4db-70e7-4bb2-916d-786f153b9446.0016.03/DOC_1#ntr2-L_2005010PT.01001801-E0002), estabelece requisitos para garantir que as temperaturas exigidas pela Directiva 89/108/CEE são rigorosamente mantidas.\n\n(2) Quando foi adoptada a Directiva 92/1/CEE, não foram fixadas quaisquer normas europeias a aplicar aos instrumentos para medir as temperaturas nos meios de transporte e nas instalações de depósito e armazenagem de alimentos ultracongelados.\n\n(3) O Comité Europeu de Normalização fixou normas relativamente aos instrumentos de registo das temperaturas do ar e aos termómetros em 1999 e 2001. A utilização destas normas uniformes garantiria a conformidade do equipamento utilizado para controlar as temperaturas dos alimentos com um conjunto harmonizado de requisitos técnicos.\n\n(4) A fim de facilitar uma aplicação gradual destas medidas pelos operadores, a utilização de instrumentos de medição já instalados de acordo com a legislação em vigor antes da adopção do presente regulamento deveria ser permitida durante um período de transição.\n\n(5) A Directiva 92/1/CEE da Comissão prevê uma derrogação para o transporte por via férrea de alimentos ultracongelados. Esta derrogação já não se justifica e deveria ser revogada após um período de transição.\n\n(6) A imposição de requisitos de registo de temperatura para os equipamentos pequenos utilizados no comércio a retalho seria excessiva, pelo que se deveriam manter as derrogações em vigor para os expositores e as câmaras frias de pequena dimensão utilizadas para armazenar existências nos estabelecimentos comerciais de venda a retalho.\n\n(7) É aconselhável garantir a aplicabilidade directa das novas normas para os equipamentos de medição e das disposições técnicas contidas na Directiva 92/1/CEE. A bem da coerência e da uniformidade da legislação comunitária, é oportuno revogar a Directiva 92/1/CEE e substituí-la pelo presente regulamento.\n\n(8) As medidas previstas no presente regulamento estão em conformidade com o parecer emitido pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "df829d08dfc2332b": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\nO presente regulamento refere-se ao controlo das temperaturas nos meios de transporte e nas instalações de depósito e armazenagem de alimentos ultracongelados."
+  },
+  "4329b0d7414a3442": {
+   "fragment_id": "Artigo 2.º — Controlo e registo da temperatura",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Controlo e registo da temperatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Controlo e registo da temperatura\n\n1. Os meios de transporte e as instalações de depósito e armazenagem de alimentos ultracongelados serão dotados de instrumentos de registo adequados para controlar, com intervalos frequentes e regulares, a temperatura do ar a que estão sujeitos os alimentos ultracongelados.\n\n2. A partir de 1 de Janeiro de 2006 todos os instrumentos de medição utilizados para controlar a temperatura, nos termos do disposto no n.º 1, deverão cumprir as normas EN 12830, EN 13485 e EN 13486. Os operadores das empresas do sector alimentar deverão conservar todos os documentos que permitam verificar a conformidade dos instrumentos referidos supra com a norma EN relevante.\n\nTodavia, os instrumentos de medição instalados até 31 de Dezembro de 2005 de acordo com a legislação em vigor antes da adopção do presente regulamento poderão continuar a ser utilizados até 31 de Dezembro de 2009.\n\n3. O registo da temperatura será datado e conservado pelo operador da empresa do sector alimentar por um período mínimo de um ano ou por um período superior tendo em conta a natureza e o prazo de validade dos alimentos ultracongelados."
+  },
+  "83608e18abeac37f": {
+   "fragment_id": "Artigo 3.º — Derrogações ao artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Derrogações ao artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Derrogações ao artigo 2º\n\n1. Em derrogação ao disposto no artigo 2.º, a temperatura do ar durante a armazenagem em expositores de venda a retalho e no decurso da distribuição local será medida por pelo menos um termómetro facilmente visível.\n\nPara os expositores abertos:\n\na) A linha de carga máxima do expositor deverá estar devidamente evidenciada;\n\nb) O termómetro deverá estar colocado à altura dessa linha.\n\n2. A autoridade competente pode derrogar ao disposto no artigo 2.º no caso entrepostos frigoríficos com menos de 10 metros cúbicos destinados a armazenar existências em estabelecimentos de venda a retalho, autorizando a medição da temperatura do ar por meio de um termómetro facilmente visível."
+  },
+  "dbaf04cec5cac681": {
+   "fragment_id": "Artigo 4.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Revogação\n\nÉ revogada a Directiva 92/1/CEE da Comissão."
+  },
+  "9e63ee7f2d76c3e0": {
+   "fragment_id": "Artigo 5.º — Entrada em vigor e aplicabilidade",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Entrada em vigor e aplicabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e aplicabilidade\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nTodavia, para os transportes ferroviários, entrará em vigor em 1 de Janeiro de 2006.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 12 de Janeiro de 2005.\n\n***Pela Comissão***\n\n**Markos KYPRIANOU**\n\n***Membro da Comissão***\n\n---"
+  },
+  "d04f98972cef10d1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/fadbb4db-70e7-4bb2-916d-786f153b9446.0016.03/DOC_1#ntc1-L_2005010PT.01001801-E0001) [JO L 40 de 11.2.1989, p. 34](http://publications.europa.eu/resource/oj/JOL_1989_040_R_TOC). Directiva alterada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho ([JO L 284 de 31.10.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_284_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/fadbb4db-70e7-4bb2-916d-786f153b9446.0016.03/DOC_1#ntc2-L_2005010PT.01001801-E0002) [JO L 34 de 11.2.1992, p. 30](http://publications.europa.eu/resource/oj/JOL_1992_034_R_TOC)."
+  }
+ }
+}

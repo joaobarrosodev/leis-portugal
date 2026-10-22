@@ -37,6 +37,28 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2005-02-17'
+version_history:
+  file: regulamento-ue-2004-261.versoes.json
+  count: 2
+  source_lastmod: '2005-02-17'
+  versions:
+  - date: '2004-02-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-02-17'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Âmbito
+    - Altera Artigo 6.º — Atrasos
+    - Altera Artigo 8.º — Direito a reembolso ou reencaminhamento
+    - Altera Artigo 14.º — Obrigação de informar os passageiros dos seus direitos
+    - Altera Artigo 19.º — Entrada em vigor
+    - Adita DECLARAÇÃO DA COMISSÃO
+    - Adita Notas
 identifiers:
   celex: 32004R0261
   eli: http://data.europa.eu/eli/reg/2004/261/oj
@@ -51,7 +73,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/439cd3a7-fd3c-4da7-8bf4-b0f60600c1d6.0010
   content_url: http://publications.europa.eu/resource/cellar/2b23873c-819d-45d9-ae5a-595a59542afc.0005.03/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0261-20050217
-  retrieved_at: '2026-10-22T02:41:26Z'
+  retrieved_at: '2026-10-22T14:57:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-27T18:05:30.462+02:00'
 integrity:
@@ -60,9 +82,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:26Z'
-  notes: Texto consolidado 02004R0261-20050217.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:33Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2004-261.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -665,30 +687,19 @@ relationships:
   date: '1991-02-08'
 article_structure:
   article_count: 19
-  section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 2
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:26Z'
+  checked_at: '2026-10-22T14:57:33Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 261/2004 do Parlamento Europeu e do Conselho, de 11 de Fevereiro de 2004
-
-> 02004R0261 — PT — 17.02.2005 — 000.010
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32004R0261R%2802%29) — [Rectificação, JO L 037, 9.2.2007, p. 10 (261/2004)](http://publications.europa.eu/resource/celex/32004R0261R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/32004R0261R%2811%29) — [Rectificação, JO L 119, 7.5.2019, p. 202 (261/2004)](http://publications.europa.eu/resource/celex/32004R0261R%2811%29)
-
-## REGULAMENTO (CE) N.º 261/2004 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de Fevereiro de 2004
 

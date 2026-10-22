@@ -1,0 +1,65 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993R0738:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R0738-20010601",
+ "dre_path": null,
+ "source_lastmod": "2001-06-01",
+ "versions": [
+  {
+   "date": "1993-03-31",
+   "future": false,
+   "celex": "31993R0738",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3b11aa9bd65c089b",
+    "1634819f0d8bece1",
+    "ff42e8530050febc",
+    "70d7ccd28247c0c9",
+    "a97ff1effb11d81a"
+   ]
+  }
+ ],
+ "fragments": {
+  "3b11aa9bd65c089b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 738/93 do Conselho, de 17 de Março de 1993, que altera o regime transitório de organização comum do mercado dos cereais e do arroz em Portugal previsto no Regulamento (CEE) nº 3653/90** *Jornal Oficial nº L 077 de 31/03/1993 p. 0001 - 0003 Edição especial finlandesa: Capítulo 3 Fascículo 48 p. 0256 Edição especial sueca: Capítulo 3 Fascículo 48 p. 0256*\n\nREGULAMENTO (CEE) No 738/93 DO CONSELHO de 17 de Março de 1993 que altera o regime transitório de organização comum do mercado dos cereais e do arroz em Portugal previsto no Regulamento (CEE) no 3653/90\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Acto de Adesão de Espanha e de Portugal e, nomeadamente, o no 3 do seu artigo 234o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nConsiderando que a realização do mercado único pressupõe a eliminação dos obstáculos ao comércio, não só entre os Estados-membros da Comunidade na sua composição em 31 de Dezembro de 1985, mas também, tanto quanto possível, entre estes Estados-membros e a Espanha e Portugal;\n\nConsiderando que essa orientação leva à supressão do mecanismo complementar das trocas (MCT) aplicável aos cereais e ao arroz, e, no que diz respeito aos cereais, torna adequado, para permitir que os agricultores portugueses enfrentem a concorrência acrescida dos outros Estados-membros, um maior escalonamento da degressividade da ajuda prevista no Regulamento (CEE) no 3653/90 do Conselho, de 11 de Dezembro de 1990, que prevê disposições transitórias relativas à organização comum do mercado dos cereais e do arroz em Portugal (2);\n\nConsiderando que, no âmbito da reforma da política agrícola comum, foi prevista, através do Regulamento (CEE) no 1766/92 do Conselho, de 30 de Junho de 1992, que estabelece a organização comum de mercado no sector dos cereais (3), uma redução de preços de intervenção; que as perdas de rendimento daí resultantes serão compensadas por meio de um apoio directo por hectare, instituído pelo Regulamento (CEE) no 1765/92 do Conselho, de 30 de Junho de 1992, que institui um sistema de apoio aos produtores de determinadas culturas arvenses (4); que o método de cálculo das ajudas portuguesas deve ser adaptado, a fim de evitar uma compensação dupla;\n\nConsiderando que, no comércio de arroz entre Portugal e os outros Estados-membros, são aplicáveis montantes compensatórios de adesão até ao final da campanha de 1994/1995, dado que o Regulamento (CEE) no 3653/90 previu para essa data o alinhamento do preço desse produto pelo preço comum;\n\nConsiderando que, em relação a esse produto, é possível antecipar o alinhamento dos preços e, por conseguinte, eliminar nessa data os montantes compensatórios de adesão, desde que a perda de rendimento dos produtores portugueses de arroz seja compensada por uma ajuda análoga à prevista para os cereais no Regulamento (CEE) no 3653/90; que é, portanto, necessário alterar neste sentido o regime previsto neste último regulamento;\n\nConsiderando que, para atender às dificuldades que a supressão do MCT para o arroz implica para os produtores portugueses, é necessário fixar o montante inicial da ajuda acima referida num nível superior à simples diferença dos preços (17,45 ecus por tonelada) e prever a sua degressividade até ao final da campanha de 1997/1998;\n\nConsiderando que, na mesma ocasião, é conveniente desmantelar os elementos fixos aplicáveis aos produtos transformados à base de cereais e de arroz, o mais tardar, até 31 de Dezembro de 1999, nos termos do regulamento supracitado; que, efectivamente, em relação à maior parte dos produtos, estes elementos originariam, no estádio da realização do mercado único, dificuldades e custos de controlo desproporcionados em relação ao seu reduzido montante, sem serem, de resto, realmente necessários para assegurar a protecção da indústria portuguesa; que as eventuais dificuldades que essa supressão poderá provocar no sector do arroz, especialmente sensível em Portugal, poderão ser solucionadas no âmbito das medidas transitórias previstas;\n\nConsiderando que o desmantelamento dos elementos fixos torna conveniente a supressão das diferenças previstas no no 2 do artigo 287o do Acto de Adesão,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1634819f0d8bece1": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Em derrogação ou em complemento dos artigos 2o, 3o e 9o do Regulamento (CEE) no 3653/90:\n\na) A ajuda prevista no artigo 3o do referido regulamento:\n\n- é concedida até ao fim da campanha de comercialização de 2002/2003,\n\n- é, em relação a cada campanha de comercialização, fixada tal como vem indicado no anexo;\n\nb) É aplicável em Portugal o preço comum de intervenção do arroz paddy;\n\nc) É concedida, em relação às campanhas de comercialização de 1992/1993, 1993/1994, 1994/1995, 1995/1996, 1996/1997 e 1997/1998, uma ajuda aos produtores de arroz paddy. Esta ajuda, a que são aplicáveis o artigo 5o e o primeiro parágrafo do artigo 10o do Regulamento (CEE) no 3653/90, é:\n\n- fixada em 25 ecus por tonelada, para a campanha de comercialização de 1992/1993,\n\n- reduzida, respectivamente, em um sexto, um quinto, um quarto, um terço e em metade para as campanhas de comercialização de 1993/1994, 1994/1995, 1995/1996, 1996/1997 e 1997/1998;\n\nd) São suprimidos os elementos fixos relativos aos produtos referidos no no 3 do artigo 286o do Acto de Adesão.\n\n2. É suprimida a diferença prevista no no 2 do artigo 287o do Acto de Adesão."
+  },
+  "ff42e8530050febc": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nAs medidas transitórias necessárias para assegurar a passagem harmoniosa do regime previsto no Regulamento (CEE) no 3653/90 para o regime previsto no presente regulamento, designadamente as relativas às indemnizações referentes às existências normais de arroz em Portugal em 31 de Março de 1993, serão adoptadas de acordo com o processo previsto no artigo 26o do Regulamento (CEE) no 2727/75 (5) ou no artigo 27o do Regulamento (CEE) no 1418/76 (6)."
+  },
+  "70d7ccd28247c0c9": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 17 de Março de 1993.\n\nPelo Conselho\n\nO Presidente\n\nB. WESTH\n\n(1) JO no C 21 de 25. 1. 1993.\n\n(2) JO no L 362 de 27. 12. 1990, p. 28.\n\n(3) JO no L 181 de 1. 7. 1992, p. 21.\n\n(4) JO no L 181 de 1. 7. 1992, p. 12. Regulamento alterado pelo Regulamento (CEE) no 2467/92 da Comissão (JO no L 246 de 27. 8. 1992, p. 1).\n\n(5) JO no L 281 de 1. 11. 1975, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) no 1738/92 (JO no L 180 de 1. 7. 1992, p. 1).\n\n(6) JO no L 166 de 25. 6. 1976, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) no 674/92 (JO no L 73 de 19. 3. 1992, p. 7)."
+  },
+  "a97ff1effb11d81a": {
+   "fragment_id": "ANEXO — Ajuda aos produtores portugueses de cereais",
+   "type": "divisao",
+   "heading": "ANEXO — Ajuda aos produtores portugueses de cereais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Ajuda aos produtores portugueses de cereais\n\n/* Quadros: ver JO */"
+  }
+ }
+}

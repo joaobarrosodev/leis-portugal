@@ -36,6 +36,159 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-01-09'
+version_history:
+  file: diretiva-ue-2004-109.versoes.json
+  count: 7
+  source_lastmod: '2024-01-09'
+  versions:
+  - date: '2004-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-03-20'
+    amending: eu:celex:32008L0022:por
+    amending_title: DIRECTIVA 2008/22/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Relatórios financeiros anuais
+    - Altera Artigo 5.º — Relatórios financeiros semestrais
+    - Altera Artigo 9.º — Notificação da aquisição ou alienação de participações qualificadas
+    - Altera Artigo 12.º — Procedimento de notificação e divulgação de participações qualificadas
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º — Requisitos em matéria de informação para os emitentes cujas acções estejam admitidas à negociação
+      num mercado regulamentado
+    - Altera Artigo 18.º — Requisitos em matéria de informação para os emitentes cujos títulos de dívida estejam admitidos
+      à negociação num mercado regulamentado
+    - Altera Artigo 19.º — Controlo por parte do Estado-Membro de origem
+    - Altera Artigo 21.º — Acesso às informações regulamentares
+    - Altera Artigo 22.º — Orientações
+    - Altera Artigo 23.º — Países terceiros
+    - Altera Artigo 27.º — Procedimento de comité
+    - Altera Artigo 30.º — Disposições transitórias
+    - Altera Artigo 32.º — Alterações
+    - Altera Artigo 35.º — Destinatários
+    - Altera Notas
+  - date: '2011-01-04'
+    amending: eu:celex:32010L0073:por
+    amending_title: DIRECTIVA 2010/73/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 24 de
+      Novembro de 2010; DIRECTIVA 2010/78/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 24
+      de Novembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Relatórios financeiros anuais
+    - Altera Artigo 5.º — Relatórios financeiros semestrais
+    - Altera Artigo 8.º — Isenções
+    - Altera Artigo 9.º — Notificação da aquisição ou alienação de participações qualificadas
+    - Altera Artigo 12.º — Procedimento de notificação e divulgação de participações qualificadas
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º — Requisitos em matéria de informação para os emitentes cujas acções estejam admitidas à negociação
+      num mercado regulamentado
+    - Altera Artigo 18.º — Requisitos em matéria de informação para os emitentes cujos títulos de dívida estejam admitidos
+      à negociação num mercado regulamentado
+    - Altera Artigo 19.º — Controlo por parte do Estado-Membro de origem
+    - Altera Artigo 20.º — Regime linguístico
+    - Altera Artigo 21.º — Acesso às informações regulamentares
+    - Altera Artigo 22.º — Orientações
+    - Altera Artigo 23.º — Países terceiros
+    - Altera Artigo 24.º — Autoridades competentes e respectivos poderes
+    - Altera Artigo 25.º — Sigilo profissional e cooperação entre Estados-Membros
+    - Altera Artigo 26.º — Medidas cautelares
+    - Altera Artigo 27.º — Procedimento de comité
+    - Altera Notas
+    - Adita ACTOS DELEGADOS E MEDIDAS DE EXECUÇÃO
+    - Adita Artigo 27.ºA — Revogação da delegação
+    - Adita Artigo 27.ºB — Objecções aos actos delegados
+    - Suprime Medidas de execução
+  - date: '2013-11-26'
+    amending: eu:celex:32013L0050:por
+    amending_title: DIRETIVA 2013/50/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 22 de outubro
+      de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Integração dos mercados de valores mobiliários
+    - Altera Artigo 4.º — Relatórios financeiros anuais
+    - Altera Artigo 5.º — Relatórios financeiros semestrais
+    - Altera Artigo 8.º — Isenções
+    - Altera Artigo 9.º — Notificação da aquisição ou alienação de participações qualificadas
+    - Altera Artigo 12.º — Procedimento de notificação e divulgação de participações qualificadas
+    - Altera Artigo 13.º
+    - Altera Artigo 16.º — Informações adicionais
+    - Altera Artigo 19.º — Controlo por parte do Estado-Membro de origem
+    - Altera Artigo 21.º — Acesso às informações regulamentares
+    - Altera Artigo 23.º — Países terceiros
+    - Altera Artigo 24.º — Autoridades competentes e respectivos poderes
+    - Altera Artigo 25.º — Sigilo profissional e cooperação entre Estados-Membros
+    - Altera Artigo 31.º — Transposição
+    - Altera Notas
+    - Adita Artigo 6.º — Relatório sobre os pagamentos efetuados a administrações públicas
+    - Adita Artigo 13.º-A — Agregação
+    - Adita Artigo 21.º-A — Ponto de acesso eletrónico europeu
+    - Adita Artigo 22.º — Acesso a informações regulamentares a nível da União
+    - Adita CAPÍTULO VI-A
+    - Adita SANÇÕES E MEDIDAS
+    - Adita Artigo 28.º — Medidas e sanções administrativas
+    - 'Adita Artigo 28.º-A: — Infrações'
+    - Adita Artigo 28.º-B — Poderes sancionatórios
+    - Adita Artigo 28.º-C — Exercício de poderes sancionatórios
+    - Adita CAPÍTULO VI-B
+    - Adita PUBLICAÇÃO DE DECISÕES
+    - Adita Artigo 29.º — Publicação de decisões
+    - Suprime Artigo 6.º — Declarações intercalares de gestão
+    - Suprime Artigo 22.º — Orientações
+    - Suprime Artigo 28.º — Sanções
+    - Suprime Artigo 29.º — Direito de recurso
+  - date: '2021-03-18'
+    amending: eu:celex:32021R0337:por
+    amending_title: REGULAMENTO (UE) 2021/337 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de fevereiro de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Integração dos mercados de valores mobiliários
+    - Altera Artigo 4.º — Relatórios financeiros anuais
+    - Altera Artigo 6.º — Relatório sobre os pagamentos efetuados a administrações públicas
+    - Altera Artigo 9.º — Notificação da aquisição ou alienação de participações qualificadas
+    - Altera Artigo 12.º — Procedimento de notificação e divulgação de participações qualificadas
+    - Altera Artigo 22.º — Acesso a informações regulamentares a nível da União
+    - Altera Artigo 25.º — Sigilo profissional e cooperação entre Estados-Membros
+    - Altera Artigo 28.º-B — Poderes sancionatórios
+    - Altera Notas
+  - date: '2023-01-05'
+    amending: eu:celex:32022L2464:por
+    amending_title: DIRETIVA (UE) 2022/2464 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Integração dos mercados de valores mobiliários
+    - Altera Artigo 4.º — Relatórios financeiros anuais
+    - Altera Artigo 6.º — Relatório sobre os pagamentos efetuados a administrações públicas
+    - Altera Artigo 9.º — Notificação da aquisição ou alienação de participações qualificadas
+    - Altera Artigo 12.º — Procedimento de notificação e divulgação de participações qualificadas
+    - Altera Artigo 22.º — Acesso a informações regulamentares a nível da União
+    - Altera Artigo 23.º — Países terceiros
+    - Altera Artigo 25.º — Sigilo profissional e cooperação entre Estados-Membros
+    - Altera Artigo 28.º-B — Poderes sancionatórios
+    - Altera Notas
+    - Adita Artigo 28.º-D — Orientações da ESMA
+  - date: '2024-01-09'
+    amending: eu:celex:32023L2864:por
+    amending_title: DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Integração dos mercados de valores mobiliários
+    - Altera Artigo 4.º — Relatórios financeiros anuais
+    - Altera Artigo 6.º — Relatório sobre os pagamentos efetuados a administrações públicas
+    - Altera Artigo 9.º — Notificação da aquisição ou alienação de participações qualificadas
+    - Altera Artigo 12.º — Procedimento de notificação e divulgação de participações qualificadas
+    - Altera Artigo 22.º — Acesso a informações regulamentares a nível da União
+    - Altera Artigo 25.º — Sigilo profissional e cooperação entre Estados-Membros
+    - Altera Artigo 28.º-B — Poderes sancionatórios
+    - Altera Notas
+    - Adita Artigo 23.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Suprime Artigo 21.º-A — Ponto de acesso eletrónico europeu
 identifiers:
   celex: 32004L0109
   eli: http://data.europa.eu/eli/dir/2004/109/oj
@@ -50,7 +203,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/222f03e7-c991-408f-a0f1-f9b680b6433f.0017
   content_url: http://publications.europa.eu/resource/cellar/aa467f94-c57b-11ee-95d9-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0109-20240109
-  retrieved_at: '2026-10-22T02:38:16Z'
+  retrieved_at: '2026-10-22T14:57:30Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-06-03T09:52:18.710+02:00'
 integrity:
@@ -59,9 +212,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:16Z'
-  notes: Texto consolidado 02004L0109-20240109.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:30Z'
+  notes: 7 versão(ões); histórico completo em diretiva-ue-2004-109.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -247,35 +400,19 @@ relationships:
   source: null
 article_structure:
   article_count: 43
-  section_count: 22
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 23
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:16Z'
+  checked_at: '2026-10-22T14:57:30Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2004/109/CE do Parlamento Europeu e do Conselho, de 15 de Dezembro de 2004
-
-> 02004L0109 — PT — 09.01.2024 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008L0022) — [DIRECTIVA 2008/22/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2008](http://publications.europa.eu/resource/celex/32008L0022) — L 76 — 50 — 19.3.2008
-- [►M2](http://publications.europa.eu/resource/celex/32010L0073) — [DIRECTIVA 2010/73/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de Novembro de 2010](http://publications.europa.eu/resource/celex/32010L0073) — L 327 — 1 — 11.12.2010
-- [►M3](http://publications.europa.eu/resource/celex/32010L0078) — [DIRECTIVA 2010/78/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de Novembro de 2010](http://publications.europa.eu/resource/celex/32010L0078) — L 331 — 120 — 15.12.2010
-- [►M4](http://publications.europa.eu/resource/celex/32013L0050) — [DIRETIVA 2013/50/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de outubro de 2013](http://publications.europa.eu/resource/celex/32013L0050) — L 294 — 13 — 6.11.2013
-- [►M5](http://publications.europa.eu/resource/celex/32021R0337) — [REGULAMENTO (UE) 2021/337 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de fevereiro de 2021](http://publications.europa.eu/resource/celex/32021R0337) — L 68 — 1 — 26.2.2021
-- [►M6](http://publications.europa.eu/resource/celex/32022L2464) — [DIRETIVA (UE) 2022/2464 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022L2464) — L 322 — 15 — 16.12.2022
-- [►M7](http://publications.europa.eu/resource/celex/32023L2864) — [DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023L2864) — L — 1 — 20.12.2023
-
-## DIRECTIVA 2004/109/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de Dezembro de 2004
 

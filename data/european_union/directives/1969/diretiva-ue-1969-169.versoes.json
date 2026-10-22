@@ -1,0 +1,139 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31969L0169:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01969L0169-20080101",
+ "dre_path": null,
+ "source_lastmod": "2008-01-01",
+ "versions": [
+  {
+   "date": "1969-06-04",
+   "future": false,
+   "celex": "31969L0169",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4d4f2969f0529f81",
+    "70a0adfb0e5dc1cb",
+    "47739abc5fe56140",
+    "6bf25360b640e3be",
+    "02f3ab314ff2a70f",
+    "d9e27046b7090a14",
+    "42e31d29a8ab9359",
+    "b97f590fc8fa0fb3",
+    "760cd853aff69f46",
+    "ca68f2eaf204af11"
+   ]
+  },
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "celex": "01969L0169-20080101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º.",
+    "Suprime Artigo 2º.",
+    "Suprime Artigo 3º.",
+    "Suprime Artigo 4º.",
+    "Suprime Artigo 5º.",
+    "Suprime Artigo 6º.",
+    "Suprime Artigo 7º.",
+    "Suprime Artigo 8º.",
+    "Suprime Artigo 9º."
+   ],
+   "fragments": [
+    "cb312e7728041f23"
+   ]
+  }
+ ],
+ "fragments": {
+  "4d4f2969f0529f81": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 69/169/CEE do Co nselho, de 28 de Maio de 1969, relativa à harmonização das disposições legislativas, regulamentares e administrativas respeitantes às franquias dos impostos sobre consumos específicos cobrados na importação no tráfego internacional de viajantes** *Jornal Oficial nº L 133 de 04/06/1969 p. 0006 - 0008 Edição especial finlandesa: Capítulo 9 Fascículo 1 p. 0010 Edição especial dinamarquesa: Série I Capítulo 1969(I) p. 0218 Edição especial sueca: Capítulo 9 Fascículo 1 p. 0010 Edição especial inglesa: Série I Capítulo 1969(I) p. 0232 Edição especial grega: Capítulo 09 Fascículo 1 p. 0017 Edição especial espanhola: Capítulo 09 Fascículo 1 p. 0019 Edição especial portuguesa: Capítulo 09 Fascículo 1 p. 0019*\n\nDIRECTIVA DO CONSELHO de 28 de Maio de 1969 relativa à harmonização das disposições legislativas, regulamentares e administrativas respeitantes às franquias dos impostos sobre consumos específicos cobrados na importação no tráfego internacional de viajantes (69/169/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, ou seu artigo 99º.,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que, não obstante a realização da união aduaneira que inclui a supressão dos direitos aduaneiros e da maior parte dos encargos de efeito equivalente nas trocas comerciais entre os Estados-membros, é necessário manter a tributação na importação e o desagravamento na exportação relativamente às referidas trocas, até uma harmonização mais avançada dos impostos indirectos;\n\nConsiderando que é desejável, mesmo antes de tal harmonização, que a população dos Estados-membros tome mais fortemente consciência da realidade do mercado comum e que, para o efeito, sejam tomadas medidas destinadas a uma maior liberalização do regime tributário das importações no tráfego de viajantes entre os Estados-membros; que a necessidade de tais medidas tem sido repetidamente sublinhada por membros do Parlamento Europeu;\n\nConsiderando que os desagravamentos deste tipo, no tráfego de viajantes, constituem um novo passo no sentido da abertura recíproca dos mercados dos Estados-membros e da criação de condicões análogas às de um mercado interno;\n\nConsiderando que os referidos desagravamentos devem restringir-se às importações não comerciais de mercadorias, efectuadas por viajantes; que, em regra, essas mercadorias só podem ser adquiridas no país da proveniência «pais de saída» oneradas fiscalmente, pelo que a renúncia pelo país de entrada, dentro dos limites previstos, à cobrança dos impostos sobre o volume de negócios e dos impostos sobre consumos específicos, na importação, evita uma dupla tributação, sem que se traduza numa ausência de tributação;\n\nConsiderando que se revela igualmente necessário um regime comunitário de desagravamentos fiscais na importação no âmbito do tráfego de viajantes entre países terceiros e a Comunidade,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "70a0adfb0e5dc1cb": {
+   "fragment_id": "Artigo 1º.",
+   "type": "artigo",
+   "heading": "Artigo 1º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º.\n\n1. No âmbito do tráfego de viajantes entre países terceiros e a Comunidade, é aplicável uma franquia dos impostos sobre o volume de negócios e dos impostos sobre consumos específicos cobrados na importação, relativamente às mercadorias contidas na bagagem pessoal dos viajantes, na medida em que se trate de importações sem carácter comercial, cujo valor global não exceda vinte e cinco unidades de conta, por pessoa.\n\n2. Os Estados-membros têm a faculdade de reduzir a referida franquia até dez unidades de conta, relativamente aos viajantes de idade inferior a 15 anos.\n\n3. Quando o valor global de diversas mercadorias exceda, por pessoa, respectivamente o montante de vinte e cinco unidades de conta ou o montante fixado nos termos do nº. 2, a franquia é concedida até ao limite desses montantes, relativamente àquelas mercadorias que, se importadas separadamente, teriam podido beneficiar da referida franquia, entendendo-se que o valor de uma mercadoria não pode ser fraccionada."
+  },
+  "47739abc5fe56140": {
+   "fragment_id": "Artigo 2º.",
+   "type": "artigo",
+   "heading": "Artigo 2º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º.\n\n1. No âmbito do tráfego de viajantes entre Estados-membros, é aplicável uma franquia dos impostos sobre o volume de negócios e dos impostos sobre consumos específicos cobrados na importação, às mercadorias que satisfaçam as condições previstas nos artigos 9º. e 10º. do Tratado, contidas na bagagem pessoal dos viajantes, na medida em que se trate de importações sem carácter comercial, cujo valor global não exceda, por pessoa, setenta e cinco unidade de conta. Esta franquia é igualmente concedida nos casos em que o tráfego acima mencionado se efectue em trânsito num território que não seja o de um Estado-membro.\n\n2. Os Estados-membros têm a faculdade de reduzir esta isenção até 20 unidades de conta, relativamente aos viajantes de idade inferior a quinze anos.\n\n3. Quando o valor global de diversas mercadorias exceda, por pessoa, respectivamente o montante de setenta e cinco unidades de conta ou o montante fixado nos termos do nº. 2, a franquia é concedida, até ao limite desses montantes, relativamente às mercadorias que, se importadas separadamente, teriam podido beneficiar da referida franquia, entendendo-se que o valor de uma mercadoria não pode ser fraccionado."
+  },
+  "6bf25360b640e3be": {
+   "fragment_id": "Artigo 3º.",
+   "type": "artigo",
+   "heading": "Artigo 3º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º.\n\nPara efeitos da aplicação da presente directiva: 1. O valor dos objectos pessoais importados temporariamente ou reimportados após a sua exportação temporária não é tomado em consideração na determinação da franquia prevista nos artigos 1º. e 2º..\n\n2. São consideradas sem carácter comercial as importações que: a) Apresentem natureza ocasional e\n\nb) Respeitem exclusivamente a mercadorias reservadas ao uso pessoal ou familiar dos viajantes ou se destinem a oferta, não devendo traduzir, quer pela sua natureza, quer pela quantidade, qualquer preocupação de ordem comercial."
+  },
+  "02f3ab314ff2a70f": {
+   "fragment_id": "Artigo 4º.",
+   "type": "artigo",
+   "heading": "Artigo 4º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º.\n\n1. Sem prejuízo das disposições nacionais aplicáveis nesta matéria aos viajantes com residência fora da Europa, cada Estado-membro estabelecerá, no que diz respeito à importação em franquia dos impostos sobre o volume de negócios e dos impostos sobre consumos específicos das mercadorias abaixo enumeradas, os seguintes limites quantitativos:\n\n>PIC FILE= \"T9000113\">\n\n2. Os viajantes de idade inferior a quinze anos não beneficiam de qualquer franquia relativamente às mercadorias referidas nas alíneas a), b) e d) do nº. 1.\n\n3. Nos limites quantitativos fixados no nº. 1 e tendo em conta as restrições previstas no nº. 2, o valor das mercadorias enumeradas no nº. 1 não é tomado em consideração na determinação da franquia referida nos artigos 1º. e 2º."
+  },
+  "d9e27046b7090a14": {
+   "fragment_id": "Artigo 5º.",
+   "type": "artigo",
+   "heading": "Artigo 5º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º.\n\n1. Os Estados-membros têm a faculdade de reduzir o valor e/ou as quantidades das mercadorias a admitir em franquia quando estas sejam importadas: - no âmbito do tráfego fronteiriço;\n\n- pelo pessoal afecto aos meios de transporte utilizados no tráfego internacional;\n\n- pelos membros das forças armadas de um Estado-membro, incluíndo o pessoal civil, bem como os respectivos cônjuges e filhos a cargo, estacionados num outro Estado-membro.\n\n2. Os Estados-membros têm a faculdade de excluir da franquia as mercadorias das posições 71.07 e 71.08 da pauta aduaneira comum.\n\n3. Os Estados-membros têm a faculdade de reduzir as quantidades das mercadorias referidas no nº. 1, alínea a) e d) do artigo 4º., relativamente aos viajantes que, procedentes de um país terceiro, entrem um Estado-membro."
+  },
+  "42e31d29a8ab9359": {
+   "fragment_id": "Artigo 6º.",
+   "type": "artigo",
+   "heading": "Artigo 6º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º.\n\nOs Estados-membros adoptarão as medidas adequadas para evitar a concessão de desagravamentos fiscais relativamente a entregas efectuadas a viajantes, cujo domicilio, residência habitual ou centro da actividade profissional se encontre situado num Estado-membro e que beneficiem do regime previsto na presente directiva."
+  },
+  "b97f590fc8fa0fb3": {
+   "fragment_id": "Artigo 7º.",
+   "type": "artigo",
+   "heading": "Artigo 7º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º.\n\nOs Estados-membres têm a faculdade de proceder ao arredondamento do montante em moeda nacional que resulte da conversão dos montantes em unidades de conta previstos nos artigos 1º. e 2º.."
+  },
+  "760cd853aff69f46": {
+   "fragment_id": "Artigo 8º.",
+   "type": "artigo",
+   "heading": "Artigo 8º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º.\n\n1. Os Estados-membros porão em vigor as medidas necessárias para darem cumprimento à presente directiva, até 1 de Janeiro de 1970.\n\n2. Cada Estado-membro comunicará à Comissão as disposições que venha a adoptar para aplicação da presente directiva.\n\nA Comissão transmitirá essas informações aos outros Estados-membros."
+  },
+  "ca68f2eaf204af11": {
+   "fragment_id": "Artigo 9º.",
+   "type": "artigo",
+   "heading": "Artigo 9º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º.\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 28 de Maio de 1969.\n\nPelo Conselho\n\nO Presidente\n\nG. THORN"
+  },
+  "cb312e7728041f23": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1969L0169 — PT — 01.01.2008 — 018.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/369L0169) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/369L0169) [de 28 de Maio de 1969](http://publications.europa.eu/resource/celex/369L0169) [relativa à harmonização das disposições legislativas, regulamentares e administrativas respeitantes às franquias dos impostos sobre consumos específicos cobrados na importação no tráfego internacional de viajantes](http://publications.europa.eu/resource/celex/369L0169) [(69/169/CEE)](http://publications.europa.eu/resource/celex/369L0169) (JO L 133, 4.6.1969, p.6)\n\n**revogado por:**"
+  }
+ }
+}

@@ -35,6 +35,27 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-01-11'
+version_history:
+  file: diretiva-ue-1983-201.versoes.json
+  count: 2
+  source_lastmod: '2006-01-11'
+  versions:
+  - date: '1983-04-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-01-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
 identifiers:
   celex: 31983L0201
   eli: http://data.europa.eu/eli/dir/1983/201/oj
@@ -49,7 +70,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fa7214c6-5b42-4df0-ba09-3109110045ed.0011
   content_url: http://publications.europa.eu/resource/cellar/a279b53e-3b63-4822-89d9-2d2dc92633ae.0013.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01983L0201-20060111
-  retrieved_at: '2026-10-22T03:04:22Z'
+  retrieved_at: '2026-10-22T14:33:52Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T21:44:06.239+01:00'
 integrity:
@@ -58,9 +79,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:04:22Z'
-  notes: Texto consolidado 01983L0201-20060111.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:33:52Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1983-201.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -95,16 +116,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:04:22Z'
+  checked_at: '2026-10-22T14:33:52Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01983L0201-19831115: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

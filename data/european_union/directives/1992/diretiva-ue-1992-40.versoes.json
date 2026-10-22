@@ -1,0 +1,369 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992L0040:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0040-20070701",
+ "dre_path": null,
+ "source_lastmod": "2007-07-01",
+ "versions": [
+  {
+   "date": "1992-06-22",
+   "future": false,
+   "celex": "31992L0040",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0a23e83e40329b2b",
+    "75d6eee4890b7ac2",
+    "a89061663a194718",
+    "ef8d4666af196304",
+    "0a38a7806cd0f389",
+    "f80c30aa89a7abce",
+    "0c226686039d9f2d",
+    "534b8a72bc0139bf",
+    "fbdc54c33256f9d8",
+    "9e66fd0aebcafde9",
+    "85b504cd3c8a1d8c",
+    "b2ef5234e118eb2d",
+    "4b9fb446a1b2c1d5",
+    "c057cdef36950615",
+    "8063250a251f5528",
+    "b6fcf36728e78b58",
+    "0051898b10ac8dcc",
+    "c6df2afbdcd0c3a1",
+    "0478878ddb14f254",
+    "bca9782af19b8aaa",
+    "da1cded713f72caf",
+    "aba2fadc8da4af69",
+    "c571eb0c99d19cf9",
+    "fcacfd4495ab8960",
+    "4b21e9e9fd79f416",
+    "30ae15fbd9720e77",
+    "ede2c501f2009db5",
+    "5e068a12f1390b4d",
+    "4969fc7515f39760",
+    "f3ed1267db51bbb9",
+    "6f8e07dc8d16f757",
+    "986614976583334f",
+    "bb4e3efb840540ff"
+   ]
+  },
+  {
+   "date": "2007-07-01",
+   "future": false,
+   "celex": "01992L0040-20070701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o.",
+    "Suprime Artigo 2o.",
+    "Suprime Artigo 3o.",
+    "Suprime Artigo 4o.",
+    "Suprime Artigo 5o.",
+    "Suprime Artigo 6o.",
+    "Suprime Artigo 7o.",
+    "Suprime Artigo 8o.",
+    "Suprime Artigo 9o.",
+    "Suprime Artigo 10o.",
+    "Suprime Artigo 11o.",
+    "Suprime Artigo 12o.",
+    "Suprime Artigo 13o.",
+    "Suprime Artigo 14o.",
+    "Suprime Artigo 15o.",
+    "Suprime Artigo 16o.",
+    "Suprime Artigo 17o.",
+    "Suprime Artigo 18o.",
+    "Suprime Artigo 19o.",
+    "Suprime Artigo 20o.",
+    "Suprime Artigo 21o.",
+    "Suprime Artigo 22o.",
+    "Suprime Artigo 23o.",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II — PROCESSO DE LIMPEZA E DE DESINFECÇÃO DE UMA EXPLORAÇÃO INFECTADA I. Limpeza preliminar e desinfecção",
+    "Suprime ANEXO III",
+    "Suprime CAPÍTULO 1 Amostragem e tratamento das amostras 1. Amostras",
+    "Suprime CAPÍTULO 3 Diagnóstico diferencial 1. Diferenciação preliminar",
+    "Suprime CAPÍTULO 5 Teste de hemaglutinação (HA) Reagentes",
+    "Suprime ANEXO IV — LISTA DOS LABORATÓRIOS NACIONAIS PARA A GRIPE AVIÁRIA",
+    "Suprime ANEXO V — NOME DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA DA GRIPE AVIÁRIA Nome do laboratório",
+    "Suprime ANEXO VI"
+   ],
+   "fragments": [
+    "d80c75ebcff1af24"
+   ]
+  }
+ ],
+ "fragments": {
+  "0a23e83e40329b2b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 92/40/CEE do Conselho, de 19 de Maio de 1992, que estabelece medidas comunitárias de luta contra a gripe aviária** *Jornal Oficial nº L 167 de 22/06/1992 p. 0001 - 0016 Edição especial finlandesa: Capítulo 3 Fascículo 42 p. 0148 Edição especial sueca: Capítulo 3 Fascículo 42 p. 0148*\n\nDIRECTIVA 92/40/CEE DO CONSELHO de 19 de Maio de 1992 que estabelece medidas comunitárias de luta contra a gripe aviária\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43o.,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que as aves de capoeira constam da lista estabelecida no anexo II do Tratado; que a comercialização das aves de capoeira constitui uma fonte de rendimentos importante para o população agrícola;\n\nConsiderando que é necessário estabelecer a nível comunitário medidas de luta a aplicar em caso de aparecimento de um foco de gripe aviária na forma altamente patogénica, provocada por um vírus da gripe com características específicas, a seguir designada gripe aviária, a fim de assegurar o desenvolvimento nacional do sector das aves de capoeira e contribuir parta a protecção da sanidade animal na Comunidade;\n\nConsiderando que um foco de gripe aviária pode revestir-se de um carácter epizoótico, provocando um nível de mortalidade e de perturbações susceptível de comprometer consideravelmente a rentabilidade do conjunto das explorações avícolas;\n\nConsiderando que devem ser tomadas medidas logo que haja suspeitas da presença da doença, a fim de permitir uma luta imediata e eficaz quando tal presença seja confirmada;\n\nConsiderando que é necessário evitar qualquer propagação da doença após o seu aparecimento por meio de um controlo preciso da circulação dos animais e da utilização de produtos susceptíveis de serem contaminados e ainda, quando adequado, por meio de um recurso à vacinação;\n\nConsiderando que o diagnóstico da doença deve ser efectuado sob a égide dos laboratórios nacionais responsáveis, cuja coordenação deve ser assegurada por um laboratório comunitário de referência;\n\nConsiderando que as medidas comuns de controlo da gripe aviária constituem uma base para a manutenção de um padrão de sanidade animal;\n\nConsiderando que, quando surge gripe aviária, se aplica o disposto no artigo 3o. da Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário (4);\n\nConsiderando que é adequado confiar à Comissão a tarefa de tomar as medidas de aplicação necessárias,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "75d6eee4890b7ac2": {
+   "fragment_id": "Artigo 1o.",
+   "type": "artigo",
+   "heading": "Artigo 1o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o.\n\nA presente directiva define as medidas comunitárias de controlo a aplicar em caso de aparecimento de um foco de gripe aviária nas aves de capoeira, sem prejuízo das disposições comunitárias que regem o comércio intracomunitário.\n\nA presente directiva não é aplicável em caso de detecção da gripe aviária noutras aves; todavia, nesse caso, os Estados-membros informarão a Comissão de quaisquer medidas que tomarem."
+  },
+  "a89061663a194718": {
+   "fragment_id": "Artigo 2o.",
+   "type": "artigo",
+   "heading": "Artigo 2o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o.\n\nPara efeitos de aplicação da presente directiva, são aplicáveis, na medida em que tal for necessário, as definições que constam do artigo 2o. da Directiva 90/539/CEE do Conselho, de 15 de Outubro de 1990, relativa às condições de polícia sanitária que regem o comércio intracomunitário e as importações de aves de capoeira e de ovos para incubação provenientes de países terceiros (5).\n\nAlém disso, entende-se por:\n\na) Ave de capoeira infectada: qualquer ave de capoeira:\n\n- na qual foi oficialmente confirmada a gripe aviária, na acepção do anexo I, na sequência de um exame laboratorial efectuado por um laboratório aprovado, ou\n\n- no caso de segundo foco e focos subsequentes, em que se verificam sinais clínicos ou lesões pós-morte correspondentes à gripe aviária;\n\nb) Ave de capoeira suspeita de estar infectada: qualquer ave de capoeira que apresenta sinais clínicos ou lesões pós-morte de tal modo que seja valido suspeitar da presença de gripe aviária, ou em que tenha sido provada a presença do vírus A da gripe dos subtipos H5 ou H7;\n\nc) Ave de capoeira suspeita de estar contaminada: qualquer ave de capoeira que pode ter sido exposta, directa ou indirectamente, ao vírus da gripe aviária ou ao vírus A da gripe dos subtipos H5 ou H7;\n\nd) Autoridade competente: autoridade competente na acepção do no. 6 do artigo 2o. da Directiva 90/425/CEE (6);\n\ne) Veterinário oficial: o veterinário designado pela autoridade competente."
+  },
+  "ef8d4666af196304": {
+   "fragment_id": "Artigo 3o.",
+   "type": "artigo",
+   "heading": "Artigo 3o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o.\n\nOs Estados-membros assegurarão que qualquer suspeita de gripe aviária seja obrigatória e imediatamente notificada à autoridade competente."
+  },
+  "0a38a7806cd0f389": {
+   "fragment_id": "Artigo 4o.",
+   "type": "artigo",
+   "heading": "Artigo 4o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o.\n\n1. Quando numa exploração existem aves de capoeira suspeitas de estarem infectadas pela gripe aviária, os Estados-membros assegurarão que o veterinário oficial utiliza imediatamente os meios oficiais de investigação para confirmar ou infirmar a presença da referida doença; deve, nomeadamente, proceder ou mandar proceder às colheitas de amostras necessárias aos exames laboratoriais.\n\n2. Logo após a notificação da suspeita, a autoridade competente mandará colocar a exploração sob vigilância oficial e exigirá, nomeadamente, que:\n\na) Se efectue um registo de todas as categorias de aves de capoeira da exploração, com indicação, relativamente a cada categoria, do número de aves de capoeira que morreram, das que apresentam sinais clínicos e das que não apresentam qualquer sinal. Este registo deve ser mantido actualizado para ter em conta as aves de capoeira que nasceram e morreram durante o período de suspeita; os dados desse registo devem ser actualizados e fornecidos mediante pedido e poderão ser controlados aquando de cada inspecção;\n\nb) Todas as aves de capoeira da exploração sejam mantidas nos seus locais de alojamento ou confinadas noutros locais onde possam estar isoladas e sem contacto com outras aves;\n\nc) Seja proibido qualquer movimento de aves de capoeira provenientes ou destinadas à exploração;\n\nd) Fique subordinado à autorização da autoridade competente:\n\n- qualquer movimento de pessoas, de outros animais e de veículos em proveniência ou com destino à exploração,\n\n- qualquer movimento de carne ou de carcaças de aves de capoeira, alimentos para animais, material, detritos, dejectos, camas de estrume ou tudo o que seja susceptível de transmitir o vírus da gripe aviária;\n\ne) Seja proibida a saída de ovos da exploração, excepto os ovos enviados directamente para um estabelecimento aprovado para o fabrico e/ou tratamento de ovoprodutos, em conformidade com as disposições previstas no no. 1 do artigo 6o. da Directiva 89/437/CEE (7), e que sejam transportados em conformidade com uma autorização emitida pela autoridade competente; esta autorização deverá respeitar as exigências previstas no anexo I;\n\nf) Sejam utilizados meios adequados de desinfecção nas entradas e saídas das instalações de alojamento das aves de capoeira, bem como nas da própria exploração;\n\ng) Seja realizado um inquérito epizootiológico em conformidade com o artigo 7o.\n\n3. Na pendêndia da execução das medidas oficiais estabelecidas no no. 2, o proprietário ou o criador de qualquer ave de capoeira suspeita de estar doente deve tomar todas as medidas adequadas para dar cumprimento ao disposto no no. 2, com excepção da alínea g).\n\n4. A autoridade competente pode aplicar qualquer das medidas previstas no no. 2 a outras explorações caso a sua implantação, a configuração do local ou os contactos com a exploração em que a doença é suspeitada permitam suspeitar de uma eventual contaminação.\n\n5. As medidas referidas nos nos. 1 e 2 só serão levantadas quando a suspeita da gripe aviária for infirmada pelo veterinário oficial."
+  },
+  "f80c30aa89a7abce": {
+   "fragment_id": "Artigo 5o.",
+   "type": "artigo",
+   "heading": "Artigo 5o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o.\n\n1. Logo que a presença da gripe aviária seja oficialmente confirmada numa exploração, os Estados-membros assegurarão que a autoridade competente exija, em complemento das medidas enumeradas no no. 2 do artigo 4o., a execução das seguintes medidas:\n\na) O abate imediato, no local, de todas as aves de capoeira presentes na exploração. As aves de capoeira que tenham morrido ou sido abatidas, bem como todos os ovos, devem ser destruídos. Estas operações devem ser efectuadas de modo a minimizar o risco de propagação da doença;\n\nb) A destruição ou a tratamento apropriado de todas as substâncias ou detritos, tais como alimentos para animais, camas e estrumes, susceptíveis de estarem contaminados. O tratamento efectuado em conformidade com as instruções do veterinário oficial deve assegurar a destruição de qualquer vírus da gripe aviária presente:\n\nc) A pesquisa, na medida do possível, e a destruição da carne des aves de capoeira provenientes da exploração e abatidas durante o período provável de incubação da doença;\n\nd) A pesquisa e a destruição dos ovos para incubação produzidos durante o período provável de incubação da doença e que tenham saído da exploração, ficando assente que as aves de capoeira provenientes desses ovos devem ser colocadas sob vigilância oficial; os ovos de mesa produzidos durante o período provável de incubação e retirados da exploração devem ser alvo, sempre que possível, de pesquisa e destruição, excepto se tiverem sido correctamente desinfectados antes;\n\ne) Após a realização das operações enunciadas nas alíneas a) e b) e em conformidade com o disposto no artigo 11o., a limpeza e a desinfecção das instalações de alojamento das aves de capoeira e dos locais adjacentes, dos veículos de transporte e de qualquer material susceptível de estar contaminado;\n\nf) A observância, após a realização das operações previstas na alínea e), de um vazio sanitário de, pelo menos, 21 dias antes da reintrodução de aves de capoeira na exploração;\n\ng) A realização de um inquérito epizootiológico em conformidade com o artigo 7o.\n\n2. A autoridade competente pode aplicar as medidas previstas no no. 1 a outras explorações caso a sua implantação, a configuração do local ou os contactos com a exploração em que a doença foi confirmada permitam suspeitar de uma eventual contaminação."
+  },
+  "0c226686039d9f2d": {
+   "fragment_id": "Artigo 6o.",
+   "type": "artigo",
+   "heading": "Artigo 6o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o.\n\nNo caso de uma exploração com dois ou mais bandos distintos, a autoridade competente pode, com base em critérios estabelecidos pela Comissão, de acordo com o processo previsto no artigo 21o., prever derrogações das exigências do no. 1 do artigo 5o., no que respeita aos bandos saudáveis de uma exploação infectada, desde que o veterinário oficial tenha confirmado que as operações aí efectuadas são tais que os bandos estão completamente separados no que diz respeito ao alojamento, ao tratamento e à alimentação, de tal modo que o vírus não pode propagar-se de um bando para outro."
+  },
+  "534b8a72bc0139bf": {
+   "fragment_id": "Artigo 7o.",
+   "type": "artigo",
+   "heading": "Artigo 7o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o.\n\n1. O inquérito epizootiológico abrangerá:\n\n- a duração do período durante o qual a gripe aviária pode ter existido na exploração,\n\n- a origem possível da gripe aviária na exploração e a determinação das outras exporações em que se encontram aves de capoeira que possam ter sido infectadas ou contaminadas a partir dessa mesma origem,\n\n- a circulação de pessoas, aves de capoeira ou outros animais, veículos, ovos, carne e carcaças e qualquer material ou substância susceptíveis de terem transportado o vírus da gripe aviária a partir de ou em direcção à exploração em causa.\n\n2. A fim de garantir a coordenação completa de todas as medidas necessárias para assegurar, no mais breve prazo, a erradicação da gripe aviária e para efeitos de realização do inquérito epizootiológico, será estabelecida uma célula de crise.\n\nAs regras gerais relativas às células de crise nacionais e comunitárias serão adoptadas pelo Conselho, deliberando por maioria qualificada sob proposta da Comissão."
+  },
+  "fbdc54c33256f9d8": {
+   "fragment_id": "Artigo 8o.",
+   "type": "artigo",
+   "heading": "Artigo 8o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o.\n\n1. Quando o veterinário oficial dispuser de razões para suspeitar de que, em qualquer exploração, existem aves de capoeira que possam ter sido contaminadas devido à circulação de pessoas, animais ou veículos ou qualquer outro meio, essa exploração será colocada sob controlo oficial em conformidade com o no. 2.\n\n2. O controlo oficial tem como objectivo detectar imediatamente qualquer suspeita de gripe aviária, proceder ao recenseamento e ao controlo da circulação de aves de capoeira, bem como, se for caso disso, executar a acção prevista no no. 3.\n\n3. Quando uma exploração tiver sido submetida ao controlo oficial nos termos dos nos. 1 e 2, a autoridade competente proibirá a saída das aves de capoeira da exploração, excepto quando se tratar do transporte directo para o matadouro sob vigilância oficial com vista ao seu abate imediato. Previamente à concessão da autorização supracitada, o veterinário oficial deve ter efectuado um exame clínico de todas as aves de capoeira a fim de informar a presença de gripe aviária na exploração. As restrições à circulação referidas no presente artigo serão aplicáveis durante um período de 21 dias a partir da última data de contaminação potencial; no entanto, essas restrições serão aplicáveis durante um período de, pelo menos, sete dias.\n\n4. Quando considerar que as condições o permitem, a autoridade competente pode limitar as medidas previstas no presente artigo a uma parte da exploração e às aves de capoeira que aí se encontram, desde que essas aves de capoeira tenham sido alojadas, tratadas e alimentadas de modo totalmente separado e por um pessoal distinto."
+  },
+  "9e66fd0aebcafde9": {
+   "fragment_id": "Artigo 9o.",
+   "type": "artigo",
+   "heading": "Artigo 9o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o.\n\n1. Logo que o diagnóstico da gripe aviária seja oficialmente confirmado, os Estados-membros assegurarão que a autoridade competente delimite, em redor da exploração infectada, um zona considerada infectada que inclua uma zona de protecção de um raio mínimo de três quilómetros ela própria dentro de uma zona de vigilância de um raio mínimo de 10 quilómetros. A delimitação dessas zonas deve ter em conta os factores de ordem geográfica, administrativa, ecológica e epizootiológica relacionados com a gripe aviária e as estruturas de controlo.\n\n2. As medidas aplicadas na zona de protecção incluirão:\n\na) A identificação de todas as explorações da zona onde existam aves de capoeira;\n\nb) Visitas periódicas a todas as explorações onde existam aves de capoeira, exame clínico dessas aves, incluindo, se for caso disso, a colheita de amostras para exames laboratoriais; deve ser mantido um registo das visitas e dos seus resultados;\n\nc) A manutenção de todas as aves de capoeira nos seus locais de alojamento ou em qualquer outro local que permita o seu isolamento;\n\nd) A utilização de meios de desinfecção adequados nas entradas e saídas das explorações;\n\ne) O controlo dos movimentos de pessoas que manipulam as aves de capoeira, os seus respectivos ovos e carcaças, bem como dos veículos que transportam as aves de capoeira, carcaças e ovos na zona; de um modo geral, é proibido o transporte de aves de capoeira, excepto em caso de trânsito nos grandes eixos rodoviários ou ferroviários;\n\nf) A proibição de saída das aves de capoeira da exploração onde se encontram, bem como dos ovos para incubação, excepto se a autoridade competente tiver autorizado o transporte;\n\ni) das aves de capoeira, com vista ao seu abate imediato, para um matadouro situado de preferência na zona infectada ou, em caso de impossibilidade, para um matadouro designado pela autoridade competente situado fora da zona infectada. A carne dessas aves de capoeira deve ostentar a marca especial de salubridade prevista no no. 1 do artigo 5o.da Directiva 91/494/CEE (8),\n\nii) dos pintos do dia ou das galinhas prontas para a postura para uma exploração, situada na zona de vigilância, e onde não existam quaisquer outras aves de capoeira. Essa exploração deve ser colocada sob o controlo oficial previsto no no. 2 do artigo 8o.,\n\niii) dos ovos para incubação para um centro de incubação designado pela autoridade competente; antes da partida, os ovos e as suas embalagens devem ser desinfectados. Os movimentos previstos nas subalíneas i), ii) e iii) devem ser objecto de transportes directos, sob controlo oficial. Esses movimentos só podem ser autorizados após uma inspecção sanitária da exploração pelo veterinário oficial. Os meios de transporte utilizados devem ser limpos e desinfectados antes e após a sua utilização;\n\ng) A proibição de transportar ou de espalhar, sem autorização, os estrumes e chorumes de aves de capoeira;\n\nh) A proibição de feiras, mercados, exposições e outras situações que originem uma concentração de aves de capoeira ou de outras aves.\n\n3. As medidas aplicadas na zona de protecção serão mantidas durante pelo menos 21 dias após a execução, nos termos do artigo 11o., das operações preliminares de limpeza e de desinfecção na exploração infectada. A zona de protecção fará então parte da zona de vigilância.\n\n4. As medidas aplicadas na zona de vigilância incluirão:\n\na) A identificação de todas as exportações da zona onde existam aves de capoeira;\n\nb) O controlo da ciruclação de aves de capoeira e de ovos para incubação na zona;\n\nc) A proibição da saída de aves de capoeira da zona durante os primeiros 15 dias, excepto para envio directo a um matadouro situado fora da zona de vigilância e designado pela autoridade competente. Essa carne deve ostentar a marca especial de salubridade prevista no artigo 5o. da Directiva 91/494/CEE;\n\nd) A proibição de saída dos ovos para incubação da zona de vigilância excepto para incubadoras designadas pela autoridade competente. Antes da partida, os ovos e as suas embalagens devem ser desinfectados;\n\ne) A proibição de saída da zona de estrumes e chorumes de aves de capoeira;\n\nf) A proibição de feiras, mercados, exposições e outras situações que originem a concentração de aves de capoeira ou de outras aves;\n\ng) Sem prejuízo do disposto nas alíneas a) e b), a proibição do transporte das aves de capoeira na zona, com exclusão do trânsito pelos grande eixos rodoviários ou ferroviários.\n\n5. As medidas aplicadas na zona de vigilância serão mantidas durante pelo menos 30 dias após a execução das operações preliminares de limpeza e desinfecção na exploração infectada, nos termos do artigo 11o.\n\n6. No caso de as zonas se situarem no território de vários Estados-membros, as autoridades competentes dos Estados-membros em causa colaborarão de modo a delimitar as zonas referidas no no. 1. Todavia, se necessário, a zona de protecção e a zona de vigilância serão delimitadas de acordo com o processo previsto no artigo 21o."
+  },
+  "85b504cd3c8a1d8c": {
+   "fragment_id": "Artigo 10o.",
+   "type": "artigo",
+   "heading": "Artigo 10o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o.\n\nOs Estados-membros assegurarão que:\n\na) A autoridade competente fixe as modalidades que lhe permitam determinar a circulação dos ovos e das aves de capoeira;\n\nb) O proprietário ou o responsável pelas aves de capoeira seja obrigado a apresentar à autoridade competente, sempre que esta última o solicite, as informações relativas às aves de capoeira e aos ovos que entram ou saiam da sua exploração;\n\nc) Qualquer pessoa que proceda ao transporte ou ao comércio de aves de capoeira e de ovos possa apresentar à autoridade competente as informações relativas aos movimentos das aves de capoeira e dos ovos que transportou ou comercializou e fornecer todos os pormenores relativos a essas informações."
+  },
+  "b2ef5234e118eb2d": {
+   "fragment_id": "Artigo 11o.",
+   "type": "artigo",
+   "heading": "Artigo 11o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o.\n\nOs Estados-membros assegurarão que:\n\na) Os desinfectantes a utilizar bem como as suas concentrações sejam oficialmente aprovados pela autoridade competente;\n\nb) As operações de limpeza e desinfecção sejam efectuadas sob vigilância oficial, em conformidade com:\n\ni) as instruções do veterinário oficial,\n\nii) o processo de limpeza e desinfecção de uma exploração infectada previsto no anexo II."
+  },
+  "4b9fb446a1b2c1d5": {
+   "fragment_id": "Artigo 12o.",
+   "type": "artigo",
+   "heading": "Artigo 12o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o.\n\nAs colheitas de amostras e os exames laboratoriais destinados a detectar a presença do vírus da gripe aviária devem ser efectuados em conformidade com o anexo III."
+  },
+  "c057cdef36950615": {
+   "fragment_id": "Artigo 13o.",
+   "type": "artigo",
+   "heading": "Artigo 13o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o.\n\nOs Estados-membros providenciarão para que a autoridade competente adopte todas as medidas adequadas para informar as pessoas estabelecidas nas zonas de protecção e de vigilância das restrições em vigor e adoptem todas as disposições que se impõem a fim de aplicar de um modo adequado estas medidas."
+  },
+  "8063250a251f5528": {
+   "fragment_id": "Artigo 14o.",
+   "type": "artigo",
+   "heading": "Artigo 14o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o.\n\n1. Os Estados-membros assegurarão que em cada Estado-membro sejam designados:\n\na) Um laboratório nacional com instalações e pessoal especializado que lhe permita proceder à avaliação da patogenicidade dos isolados do vírus da gripe aviária (capítulo 7 do anexo III) e à identificação dos vírus A da gripe dos subtipos H5 ou H7;\n\nb) Um laboratório nacional encarregado de controlar os reagentes utilizados pelos laboratórios de diagnóstico regionais;\n\nc) Um instituto ou laboratório nacional em que poderão ser testadas as vacinas autorizadas, para verificar a sua conformidade com as especificações fixadas na autorização de colocação no mercado.\n\n2. Os laboratórios nacionais mencionados no anexo IV serão responsáveis pela coordenação das normas e métodos de diagnóstico, da utilização de reagentes e controlo das vacinas.\n\n3. Os laboratórios nacionais indicados no anexo IV para a gripe aviária referidos no no. 2 serão responsáveis pela coordenação dos padrões e dos métodos de diagnóstico estabelecidos em cada laboratório de diagnóstico da gripe aviária no Estado-membro. Para o efeito:\n\na) Podem fornecer reagentes de diagnóstico aos laboratórios regionais;\n\nb) Devem controlar a qualidade de todos os reagentes de diagnóstico utilizados nesse Estado-membro;\n\nc) Devem organizar periodicamente testes comparativos;\n\nd) Devem manter isolados do vírus da gripe aviária a partir de casos confirmados nesse Estado-membro;\n\ne) Devem assegurar a confirmação dos resultados positivos obtidos nos laboratórios de diagnóstico regionais.\n\n4. Os laboratórios nacionais indicados no anexo IV assegurarão a ligação com o laboratório comunitário de referência previsto no artigo 15o."
+  },
+  "b6fcf36728e78b58": {
+   "fragment_id": "Artigo 15o.",
+   "type": "artigo",
+   "heading": "Artigo 15o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o.\n\nO laboratório de referência comunitário para a gripe aviária é indicado no anexo V. Sem prejuízo das disposições previstas na Decisão 90/424/CEE e, nomeadamente, no seu artigo 28o., as competências e obrigações desse laboratório são as indicadas no referido anexo."
+  },
+  "0051898b10ac8dcc": {
+   "fragment_id": "Artigo 16o.",
+   "type": "artigo",
+   "heading": "Artigo 16o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o.\n\nA vacinação contra a gripe aviária por meio de vacinas autorizadas pela autoridade competente só pode ser praticada em complemento das medidas de controlo tomadas aquando do aparecimento da doença e em conformidade com as seguintes disposições:\n\na) A decisão de introduzir a vacinação em complemento das medidas de controlo será tomada pela Comissão, em colaboração com o Estado em causa, em conformidade com o processo previsto no artigo 21o. Esta decisão deve atender, em especial:\n\n- à concentração de aves de capoeira na zona afectada,\n\n- às características e composição da vacina a utilizar,\n\n- aos processos de controlo da distribuição, armazenagem e utilização das vacinas,\n\n- às espécies e categorias de aves de capoeira que podem ou devem ser submetidas à vacinação,\n\n- às áreas em que a vacinação pode ou deve ser praticada.\n\nContudo, em derrogação do no.1, a decisão de introduzir a vacinação de emergência em redor do foco poderá ser tomada pelo Estado-membro em causa, após notificação da Comissão, desde que não sejam postos em causa os interesses fundamentais da Comunidade. Esta decisão será imediatamente reexaminada no âmbito do Comité veterinário permanente, de acordo com o procedimento previsto no artigo 21o.;\n\nb) Quando, em conformidade com o disposto na alínea a) um Estado-membro for autorizado a recorrer à vacinação de emergência numa parte limitada do seu território, o estatuto do restante território não será afectado desde que as medidas de imobilização dos animais vacinados sejam aplicadas durante um período a determinar de acordo com o processo estabelecido no artigo 21o."
+  },
+  "c6df2afbdcd0c3a1": {
+   "fragment_id": "Artigo 17o.",
+   "type": "artigo",
+   "heading": "Artigo 17o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o.\n\n1. Cada Estado-membro elaborará um plano de emergência, especificando as medidas nacionais a executar em caso de aparecimento de um foco de gripe aviária.\n\nEste plano deve permitir o acesso a instalações, equipamento, pessoal e outros meios adequados necessários para uma erradicação rápida e eficiente do foco.\n\n2. Os critérios a aplicar para a elaboração destes planos constam do anexo VI.\n\n3. Os planos elaborados em conformidade com os critérios previstos no no. 2 serão submetidos à apreciação da Comissão, o mais tardar, seis meses após a entrada em vigor da presente directiva.\n\n4. A Comissão examinará os planos a fim de determinar se os mesmos permitem atingir o objectivo desejado e sugerirá aos Estados-membros em causa quaisquer alterações necessárias, nomeadamente para garantir a sua compatibilidade com os planos dos outros Estados-membros.\n\nA Comissão aprovará os planos, se necessário alterados, de acordo com o processo definido no artigo 21o.\n\nOs planos podem, posteriormente, ser alterados ou completados, de acordo com o mesmo processo, a fim de ter em conta a evolução da situação."
+  },
+  "0478878ddb14f254": {
+   "fragment_id": "Artigo 18o.",
+   "type": "artigo",
+   "heading": "Artigo 18o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o.\n\nNa medida em que tal seja necessário à aplicação uniforme da presente directiva e em colaboração com as autoridades competentes, os peritos da Comissão poderão efectuar controlos no local. Para esse efeito poderão verificar, através do controlo de uma percentagem representativa de explorações, se as autoridades competentes controlam o cumprimento das disposições da presente directiva. A Comissão informará os Estados-membros do resultado dos controlos efectuados.\n\nO Estado-membro em cujo território esteja a ser efectuado um controlo deve prestar todo o apoio necessário aos peritos no cumprimento da sua missão.\n\nAs modalidades de aplicação do presente artigo serão definidas em conformidade com o processo previsto no artigo 21o."
+  },
+  "bca9782af19b8aaa": {
+   "fragment_id": "Artigo 19o.",
+   "type": "artigo",
+   "heading": "Artigo 19o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o.\n\nAs condições da participação financeira da Comunidade nas acções decorrentes da aplicação da presente directiva são definadas pela Decisão 90/424/CEE."
+  },
+  "da1cded713f72caf": {
+   "fragment_id": "Artigo 20o.",
+   "type": "artigo",
+   "heading": "Artigo 20o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o.\n\nOs anexos serão alterados, consoante as necessidades, pelo Conselho, deliberando por maioria qualificada, sob proposta da Comissão, nomeadamente a fim de ter em conta a evolução da investigação e dos processos de diagnóstico."
+  },
+  "aba2fadc8da4af69": {
+   "fragment_id": "Artigo 21o.",
+   "type": "artigo",
+   "heading": "Artigo 21o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o.\n\n1. Sempre que se faça referência ao processo definido no presente artigo, o Comité veterinário permanente, instituído pela Decisão 68/361/CEE (9), a seguir denominado «comité», será chamado a pronunciar-se pelo seu presidente, seja por sua própria iniciativa seja a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no no. 2 do artigo 148o. do Tratado, para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3. a) A Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do comité,\n\nb) Se as medidas projectadas não forem conformes com o parece do comité, ou na ausência da parecer, a Comissão submeterá imediatamente ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que a proposta da Comissão lhe foi submetida, o Conselho não tiver deliberado, a Comissão adoptará as medidas propostas, excepto no caso de o Conselho se ter pronunciado por maioria simples contra as medidas em causa."
+  },
+  "c571eb0c99d19cf9": {
+   "fragment_id": "Artigo 22o.",
+   "type": "artigo",
+   "heading": "Artigo 22o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o.\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento às disposições da presente directiva, antes de 1 de Janeiro de 1993. Desse facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros aprovarem as referidas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial; as modalidades desta referência serão adoptadas pelos Estados-membros."
+  },
+  "fcacfd4495ab8960": {
+   "fragment_id": "Artigo 23o.",
+   "type": "artigo",
+   "heading": "Artigo 23o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o.\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 19 de Maio de 1992.\n\nPelo Conselho\n\nO Presidente\n\nArlindo MARQUES CUNHA\n\n(1) JO no. C 231 de 5. 9. 1991, p. 4.(2) JO no. C 326 de 16. 12. 1991, p. 242.(3) JO no. C 79 de 30. 3. 1992, p. 8.(4) JO no. L 224 de 18. 8. 1990, p. 19. Decisão alterada pela Decisão 91/133/CEE (JO no. L 66 de 13. 3. 1991, p. 18.)(5) JO no. L 303 de 31. 10. 1990, p. 6. Directiva com a última redacção que lhe foi dada pela Directiva 91/496/CEE (JO no. L 268 de 24. 9. 1991, p. 56.)(6) JO no. L 224 de 18. 8. 1990, p. 29. Directiva com a última redacção que lhe foi dada pela Directiva 91/496/CEE (JO no. L 268 de 24. 9. 1991, p. 56).(7) JO no. L 212 de 22. 7. 1989, p. 87. Directiva alterada pela Directiva 89/662/CEE (JO no. L 395 de 30. 12. 1989, p. 13.)(8) JO no. L 268 de 24. 9.1991, p. 35.(9) JO no. L 265 de 18. 10. 1968, p. 23."
+  },
+  "4b21e9e9fd79f416": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nAUTORIZAÇÃO PARA SAÍDA DE OVOS DE UMA EXPLORAÇÃO SUJEITA ÀS CONDIÇÕES DO No. 2, ALÍNEA E), DO ARTIGO 4o. DA PRESENTE DIRECTIVA A autorização emitida pela autoridade competente para efeitos de transporte de ovos de uma exploração suspeita sujeita ao disposto no no. 2, alínea e), do artigo 4o. para um estabelecimento aprovado para o fabrico e para o tratamento de ovoprodutos, em conformidade com o disposto no no. 1 do artigo 6o. da Directiva 89/437/CEE, adiante denominado «estabelecimento designado», deverá respeitar as seguintes condições:\n\n1. Para poderem sair da exploração suspeita, os ovos deverão:\n\na) Respeitar as exigências do anexo, capítulo IV, da Directiva 89/437/CEE;\n\nb) Ser directamente enviados da exploração suspeita para o estabelecimento designado; cada envio deverá ser selado antes da partida pelo veterinário oficial da exploração suspeita e deverá manter-se selado durante todo o transporte até ao estabelecimento designado.\n\n2. O veterinário oficial da exploração suspeita informará a autoridade competente do estabelecimento designado da intenção de lhe enviar os referidos ovos.\n\n3. A autoridade competente responsável do estabelecimento designado assegurará que:\n\na) Os ovos referidos na alínea b) do no. 1 sejam mantidos isolados dos outros ovos desde a sua chegada até serem tratados;\n\nb) As cascas desses ovos sejam consideradas material de alto risco, em conformidade com o no. 2 do artigo 2o. da Directiva 90/667/CEE (¹) e sejam tratadas em conformidade com as exigências do capítulo II da directiva acima referida;\n\nc) O material de embalagem, os veículos utilizados para o transporte dos ovos referidos na alínea b) do no. 1 e todos os locais com que os ovos possam ter estado em contacto sejam limpos e desinfectados de forma a destruir qualquer vírus de gripe aviária;\n\nd) O veterinário oficial da exploração suspeita seja informado de qualquer expedição de ovos tratados.\n\n(¹) JO no. L 363 de 27. 12. 1990, p. 51."
+  },
+  "30ae15fbd9720e77": {
+   "fragment_id": "ANEXO II — PROCESSO DE LIMPEZA E DE DESINFECÇÃO DE UMA EXPLORAÇÃO INFECTADA I. Limpeza preliminar e desinfecção",
+   "type": "divisao",
+   "heading": "ANEXO II — PROCESSO DE LIMPEZA E DE DESINFECÇÃO DE UMA EXPLORAÇÃO INFECTADA I. Limpeza preliminar e desinfecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — PROCESSO DE LIMPEZA E DE DESINFECÇÃO DE UMA EXPLORAÇÃO INFECTADA I. Limpeza preliminar e desinfecção\n\na) Logo que as carcaças das aves de capoeira tenham sido retiradas para serem destruídas, as partes dos locais onde as aves estiveram e qualquer parte das instalações, espaço fechado, etc. contaminados durante o abate ou inspecção post mortem deverão ser limpas com desinfectante aprovado nos termos do artigo 11o. da presente directiva.\n\nb) Qualquer tecido de aves de capoeira e quaisquer ovos que tenham podido contaminar as instalações, os espaços fechados, os utensílios, etc. deverão ser cuidadosamente recolhidos e destruídos juntamente com as carcaças.\n\nc) O desinfectante utilizado deve ficar na superfície tratada pelo menos durante 24 horas.\n\nII. Limpeza final e desinfecção\n\na) A gordura e as sujidades devem ser retiradas de todas as superfícies mediante aplicação de um desengordurante e em seguida lavadas com água.\n\nb) Após a lavagem com água descrita na alínea a), voltar a aplicar desinfectante.\n\nc) Sete dias depois, os locais devem ser tratados com um desengordurante, lavados com água fria, borrifados com desinfectante e lavados novamente com água.\n\nd) As camas utilizadas e o estrume devem ser tratados através de um método capaz de matar o vírus. Este método deve incluir um dos seguintes meios:\n\ni) serem incinerados ou tratados pelo vapor a uma temperatura de 70o C;\n\nii) serem enterrados a uma profundidade que impeça o acesso aos vermes e às aves selvagens;\n\niii) serem empilhados e humedecidos (se necessário, para facilitar a fermentação), e cobertos para manter o calor de modo a que seja atingida uma temperatura de 20o C e ficarem cobertos durante 42 dias de forma a impedir o acesso dos vermes e das aves selvagens."
+  },
+  "ede2c501f2009db5": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nPROCESSOS DE DIAGNÓSTICO PARA CONFIRMAÇÃO E DIAGNÓSTICO DIFERENCIAL DA GRIPE AVIÁRIA Os processos de isolamento e caracterização dos vírus da gripe aviária devem ser considerados como directrizes e os processos mínimos a serem aplicados no diagnóstico da doença.\n\nPara efeitos dos processos de diagnóstico para confirmação e do diagnóstico diferencial da gripe aviária, entende-se por:\n\n«Gripe aviária», uma infecção das aves de capoeira provocada por qualquer vírus A da gripe com um índice de patogenicidade intravenosa em frangos com seis semanas superior a 1,2 ou qualquer infecção com vírus A da gripe dos subtipos H5 ou H7 em relação aos quais a sequência de nucleótidos demonstrou a presença de múltiplos aminoácidos básicos no local de clivagem da hemagiutinina."
+  },
+  "5e068a12f1390b4d": {
+   "fragment_id": "CAPÍTULO 1 Amostragem e tratamento das amostras 1. Amostras",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1 Amostragem e tratamento das amostras 1. Amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 1 Amostragem e tratamento das amostras 1. Amostras\n\nZaragatoa de cloaca (ou fezes) e zaragatoa de traqueia de aves doentes; fezes ou conteúdo intestinal, tecido cerebral, traqueia, pulmões, figado, baço e outros órgãos visivelmente afectados provenientes de aves mortas recentemente.\n\n2. Tratamento das amostras\n\nOs órgãos e tecidos enumerados no no. 1 podem ser tratados em conjunto; todavia, é essencial o tratamento separado das substâncias fecais. As zaragatoas devem ser colocadas num meio antibiótico suficiente para assegurar a sua imersão completa. As amostras de fezes e de órgãos devem ser homogeneizadas (num misturador fechado ou utilizando um almofariz e pilão e areia estéril) num meio antibiótico, sendo feitas suspensões no meio a 10-20 % m/v. As suspensões devem ser mantidas durante cerca de duas horas à temperatura ambiente (ou períodos mais longos a 40o C) e seguidamente clarificadas por centrifugação (por exemplo, 800 a 1 000 rotações durante 10 minutos).\n\n3. Meio antibiótico\n\nMuitos laboratórios têm utilizado, com êxito, várias formulações de meios antibióticos e os laboratórios nacionais poderão proporcionar pareceres. No que respeita às amostras de fezes, são necessárias concentrações elevadas de antibióticos, sendo a mistura típica de: 10 000 unidades/ml de penicilina, 10 mg/ml de estreptomicina, 0,25 mg/ml de gentamicina e 5 000 unidades/ml de micostatina numa solução salina tamponada com fosfato. Estes níveis podem ser reduzidos até cinco vezes no caso dos tecidos e das zaragatoas de traqueia. Para o controlo das Chlamydia podem ser adicionados 50 mg/ml de oxitetraciclina. É imperativo, aquando da preparação do meio, que o pH seja verificado após a adição dos antibióticos e reajustado ao pH 7,0-7,4.\n\nCAPÍTULO 2 Isolamento do vírus Isolamento do vírus em ovos de galinha embrionados\n\nO líquido sobrenadante clarificado deve ser inoculado em quantidades de 0,1-0,2 ml na cavidade alantóide de cada um dos, pelo menos, quatro ovos de galinhas embrionados, incubados durante oito a 10 dias. De preferência, estes ovos devem ser provenientes de um bando indemne de um organismo patogénico específico; em caso de impossibilidade, podem utilizar-se ovos provenientes de um bando sem anticorpos do vírus da gripe aviária. Os ovos inoculados devem ser mantidos a uma temperatura de 37o C e transiluminados diariamente. Os ovos com embriões mortos ou em vias de morrer, à medida que forem detectados, bem como todos os ovos restantes seis dias após a inoculação, devem ser arrefecidos a uma temperatura de 4o C, sendo testados los líquidos alantóico-amniótico em relação à actividade de hemaglutinação. Caso não seja detectada a hemaglutinação, o processo é repetido utilizando como inóculo os líquidos alantóico-amniótico por diluir.\n\nQuando for detectada a hemaglutinação, a presença da bactérias deve ser excluída por meio de cultura. Caso seja detectada a presença de bactérias, os líquidos devem ser passados por um filtro de membrana de 450 nm e após a adição de mais antibióticos devem ser inoculados em ovos embrionados, tal como acima descrito."
+  },
+  "4969fc7515f39760": {
+   "fragment_id": "CAPÍTULO 3 Diagnóstico diferencial 1. Diferenciação preliminar",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3 Diagnóstico diferencial 1. Diferenciação preliminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 3 Diagnóstico diferencial 1. Diferenciação preliminar\n\nAtendendo à importância de introduzir, o mais rapidamente possível, medidas de controlo destinadas a limitar a propagação do vírus, cada laboratório regional deve poder identificar, para além do vírus da doença de Newcastle, qualquer vírus hemaglutinante isolado como sendo um vírus da gripe dos subtipos H5 ou H7. Os líquidos hemaglutinantes devem, pois, ser utilizados num teste de inibição da hemaglutinação, tal como descrito nos capítulos 5 e 6. Uma inibição positiva, isto é, de 2& {È%}; ou mais, com o anti-soro policional específico dos subtipos H5 ou H7 do vírus A da gripe e de título conhecido com sendo, pelo menos, de 29, poderia servir de identificação preliminar e permitir, assim, a imposição de medidas de controlo provisórias.\n\n2. Identificação confirmatória\n\nUma vez que existem 13 subtipos de hemaglutininas e nove subtipos de neuraminidase de vírus da gripe e que podem registar-se em cada um destes variações, não é viável nem rentável que cada laboratório nacional mantenha anti-soros que permitam a plena caracterização antigénica dos isolados da gripe. No entanto, cada laboratório nacional deve:\n\ni) Confirmar que o isolado é um vírus A da gripe, utilizando o teste da dupla difusão imunológica para detectar o grupo de antigénio, segundo o processo descrito no capítulo 9 (se o laboratório nacional assim o preferir, podem ser utilizadas as técnicas da imunoflorescência e Elisa para detectar o grupo dos antigénios);\n\nii) Determinar se o isolado é ou não do subtipo H5 ou H7;\n\niii) Realizar o teste do índice da patogenicidade intravenosa em frangos com seis semanas, como descrito no capítulo 7 do presente anexo. Os índices de patogenicidades intravenosa superiores a 1,2 indicam a presença do vírus, exigindo a aplicação completa das medidas de controlo (seria útil que os laboratórios nacionais efectuassem igualmente testes para determinar a capacidade de o isolado produzir placas em culturas de células como especificado no capítulo 8).\n\nOs laboratórios nacionais devem enviar imediatamente todos os isolados de gripe aviária e dos subtipos H5 e H7 ao laboratório de referência comunitário, com vista à sua caracterização completa.\n\n3. Outras classificações e caracterizações de isolados\n\nO laboratório de referência comunitário deve receber dos laboratórios nacionais todos os vírus hemaglutinantes, com vista à realização de outros estudos antigénicos que permitam uma melhor compreensão da epizootiologia da(s) doença(s) na Comunidade Europeia, respeitando assim as competências e as tarefas do laboratório comunitário de referência.\n\nPara além destes deveres, o laboratório comunitário de referência deve proceder à definição completa dos tipos antigénicos de todos os vírus de gripe recebidos. Em relação aos vírus H5 e H7, que não apresentam índices de patogenicidade intravenosa superiores a 1,2 deve-se igualmente determinar a sequência de nucleótidos do gene de hemaglutinina, a fim de estabelecer se existem ou não múltiplos aminoácidos básicos no ponto de clivagem da proteína de hemaglutinina. Os vírus que têm múltiplos aminoácidos básicos no ponto de clivagem, apesar de apresentarem índices baixos de patogenicidade, exigem a aplicação completa das medidas de controlo da gripe aviária.\n\nCAPÍTULO 4 Testes sorológicos para os anticorpos do vírus da gripe aviária 1. Durante os programas de erradicação, quando já seja conhecido o subtipo H do vírus responsável, ou utilizando o vírus homólogo como antigénio, pode proceder-se à vigilância serológica relativamente a indícios de infecção, através de testes de inibição da hemaglutinação, de acordo com o processo descrito nos capítulos 5 e 6.\n\nSe for desconhecido o subtipo de hemaglutinina, podem ser obtidos sinais de infecção como os vírus A da gripe através da detecção de anticorpos em relação ao grupo de antigénios específicos.\n\nPara tal, podem ser utilizados tanto um teste de dupla difusão imunológica (descrito no capítulo 9) como um teste Elisa (neste caso, há o problema da especificidade do hospedeiro do teste, um vez que a mesma é dependente da detecção das imunoglobulinas do hospedeiro). As aves aquáticas raramente dão resultados positivos nos testes de dupla difusão imunológica e, a não ser que o subtipo seja conhecido, so é provavelmente viável examinar essas aves relativamente à presença de anticorpos para os subtipos H5 e H7.\n\n2. a) Amostras\n\nDevem ser colhidas amostras de sangue de todas as aves se a dimensão do bando for inferior a 20, ou de 20 aves no caso de bandos maiores (tal dá origem a uma probabilidade superior a 99 % de detecção de, pelo menos, um soro positivo se 25 % ou mais do bando for positivo, independentemente da dimensão do bando). Deve deixar-se o sangue coagular, utilizando-se o soro na realização do teste.\n\nb) Exame dos anticorpos\n\nAs amostras individuais de soro devem ser testadas em relação à sua capacidade de inibirem o antigénio hemaglutinante do vírus da gripe aviária em testes-padrão de inibição da hemaglutinação, como definido no capítulo 6.\n\nExiste alguma polémica sobre se devem ser utilizadas quatro ou oito unidades de hemoglutinina nos testes de inibição da hemaglutinação. Aparentemente, ambas as doses são válidas e caberia aos laboratórios nacionais a escolha dessa dose.\n\nTodavia, o antigénio utilizado afecta o nível em que um soro é considerado positivo: para quatro unidades de hemaglutinina, um soro positivo apresenta um título maior ou igual a 2& {È%};; para oito unidades de hemaglutinina, um soro positivo apresenta um título maior ou igual a 2³."
+  },
+  "f3ed1267db51bbb9": {
+   "fragment_id": "CAPÍTULO 5 Teste de hemaglutinação (HA) Reagentes",
+   "type": "divisao",
+   "heading": "CAPÍTULO 5 Teste de hemaglutinação (HA) Reagentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 5 Teste de hemaglutinação (HA) Reagentes\n\n1. Solução isotónica salina tamponada com fosfato (0,05M) a pH 7,0-7,4.\n\n2. Colher hemácias de, pelo menos, três frangos sem organismos patogénicos específicos (se tal não for possível, pode colher-se sangue de aves controladas regularmente e que se tenham apresentado isentas de anticorpos do vírus da gripe aviária) e misturá-las num volume igual de solução de Alsever. As células devem ser lavadas três vezes na solução isotónica salina tamponada com fosfato antes da sua utilização. Para o teste, recomenda-se uma suspensão a 1 % (células empacotadas v/v).\n\n3. O laboratório de referência comunitário fornecerá ou recomendará os vírus H5 ou H7, de reduzida virulência, para utilização como antigénios-padrão.\n\nTécnica\n\n1. Colcoar 0,025 ml de solução isotónica salina tamponada com fosfato em cada cavidade de um placa de microtitulação de plástico (devem ser utilizadas cavidades com fundos em «V»).\n\n2. Colocar 0,025 ml de suspensão de vírus (isto é, líquido alantóico) na primeira cavidade.\n\n3. Utilizar um diluente de microtitulação para proceder às diluições duplas (1:2 a 1:4 096) do vírus de cavidade ao longo da placa.\n\n4. Colocar mais 0,025 ml de solução isotónica salina tamponada com fosfato em cada cavidade.\n\n5. Juntar 0,025 ml de hemácias a 1 % em cada cavidade.\n\n6. Misturar agitando ligeiramente e colocar a 4 oC.\n\n7. Ler as placas 30 a 40 minutos depois, quando as testemunhas tiverem sedimentado. A leitura é feita através da inclinação da placa, observando a presença ou a ausência de um fluxo, em forma de lágrima, das hemácias. As cavidades sem hemaglutinação devem fluir à mesma velocidade que as células testemunha sem vírus.\n\n8. O título de hemaglutinação é a diluição mais elevada que provoca a aglutinação de hemácias. Essa diluição pode ser considerada como contendo uma unidade de hemaglutinação. Um método mais exacto de determinação do título de hemaglutinação consiste na realização de testes de hemaglutinação em vírus provenientes de uma série de diluições iniciais mais próximas, isto é, 1:3, 1:4, 1:5, 1:6, etc. Este método é recomendado para a preparação exacta do antigénio destinado aos testes de inibição da hemaglutinação (capítulo 6).\n\nCAPÍTIULO 6 Teste de inibição da hemaglutinação Reagentes\n\n1. Solução isotónica salina tamponada com fosfato.\n\n2. Líquido alantóico que contenha vírus, diluído na solução isotónica salina tamponada com fosfato para conter quatro ou oito unidades de hemaglutinação por 0,025 ml.\n\n3. Hemácias de frango a 1 %.\n\n4. Soro-testemunha de frango, negativo.\n\n5. Soro-testemunha positivo.\n\nTécnica\n\n1. Colocar 0,025 ml de solução isotónica salina tamponada com fosfato em todas as cavidades de uma placa de microtitulação de plástico (com cavidades com fundos em «V»).\n\n2. Colocoar 0,025 ml de soro na primeira cavidade de placa.\n\n3. Utilizar um diluente de microtitulação para fazer diluições duplas de soro de cavidade em cavidade ao longo de placa.\n\n4. Juntar 0,025 ml de líquido alantóico diluído que contenha quatro ou oito unidades de hemaglutinação.\n\n5. Misturar agitando ligeiramente e colocar a placa a 4 oC durante pelo menos 60 minutos ou à temperatura ambiente durante pelo menos 30 minutos.\n\n6. Juntar 0,025 ml de hemácias a 1 % a todas as cavidades.\n\n7. Misturar agitando ligeiramente e colocar a 4 oC.\n\n8. Ler as placas 30 a 40 minutos depois, quando a testemunha de hemácias tiver sedimentado. A leitura é feita através da inclinação da placa, observando a presença ou a ausência de um fluxo, em forma de lágrima, das hemácias. As cavidades sem hemaglutinação devem fluir à mesma velocidade que as células testemunha que contêm apenas hemácias (0,025 ml) e solução isotónica salina tamponada com fosfato (0,05 ml).\n\n9. O título da inibição da hemaglutinação é a diluição mais elevada de anti-soro que provoca a inibição completa de quatro ou oito unidades de vírus (deveria ser incluída em cada teste uma titulação da hemaglutinação para confirmar a presença da unidade de hemaglutinação exigida).\n\n10. A validade dos resultados depende da obtenção de um título inferior a 2³ para quatro unidades de hemaglutinação ou 2² para oito unidades de hemaglutinação com o soro-testemunha negativo e de um título de diluição imediatamente superior ou imediatamente inferior ao título conhecido do soro-testemunha positivo.\n\nCAPÍTULO 7 Índice de patogenicidade intravenosa 1. Diluir a 10-¹ numa solução isotónica salina estéril líquido alantóico infeccioso colhido recentemente, de preferência do isolamento inicial sem qualquer selecção.\n\n2. Injectar intravenosamente 0,1 ml de vírus diluído em cada um dos frangos com 10 semanas (devem ser usadas aves indemnes do patogénico específico).\n\n3. As aves são examinadas com intervalos de 24 horas, durante 10 dias.\n\n4. Em cada observação, cada ave é considerada normal (0), doente (1), muito doente (2) ou morta (3).\n\n5. Neste exemplo são indicados resultados registados e o índice calculado:\n\nSinais clínicos\n\nDia após a inoculação\n\n(número de aves)\n\n1\n\n2\n\n3\n\n4\n\n5\n\n6\n\n7\n\n8\n\n9\n\n10\n\nTotal\n\nclassificação\n\nNormal\n\n10\n\n2\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n12 × 0\n\n= 0\n\nDoente\n\n0\n\n4\n\n2\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n6 × 1\n\n= 6\n\nMuito doente (*)\n\n0\n\n2\n\n2\n\n2\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n6 × 2\n\n= 12\n\nMorta\n\n0\n\n2\n\n6\n\n8\n\n10\n\n10\n\n10\n\n10\n\n10\n\n10\n\n76 × 3\n\n= 228\n\nTotal\n\n= 246\n\nÍndice = resultado médio por ave e por observação =\n\n246\n\n100\n\n= 2,46\n\n(*) Trata-se de um resultado clínico subjectivo, mas que envolve, normalmente, aves que apresentam mais de um dos seguintes sinais: problemas respiratórios, depressão, diarreia, cianose da pele ou da barbela exposta, edema da face e/ou cabeça, sinais nervosos.\n\nCAPÍTULO 8 Avaliação da capacidade de formação de placas 1. É geralmente mais aconselhável utilizar uma série de diluições do vírus, a fim de assegurar a presença na placa de Petri de um número óptimo de placas. Devem ser suficientes diluições de 10 vezes até 10-& {È)}; numa solução isotónica salina tamponada com fosfato.\n\n2. Em placas de Petri de 5 cm de diâmetro, preparam-se camadas simples confluentes de células de embriões de pintos ou linhas adequadas de células (por exemplo, rim de bovino Madin-Darby).\n\n3. Junta-se a cada uma de duas placas de Petri 0,2 ml de cada diluição de vírus; deixa-se o vírus absorver durante 30 minutos.\n\n4. Depois de lavar três vezes com solução isotónica salina tamponada com fosfato, as células infectadas são cobertas com o respectivo meio que contém 1 % m/v de ágar e 0,01 mg/ml de tripsina ou sem tripsina; é importante que não seja adicionado soro ao meio de cobertura.\n\n5. Após 72 horas de incubação a 37 oC, as placas devem ter a dimensão suficiente. Estas placas são observadas mais correctamente se a camada de ágar for removida e se a camada simples de células for corada com cristal violeta (0,5 % m/v) em etanol (25 % v/v).\n\n6. Todos os vírus devem originar placas claras quando incubados na presença da tripsina na cobertura. Quando esta não é utilizada na cobertura, apenas os vírus virulentos para os frangos produzirão placas.\n\nCAPÍTULO 9 Difusão dupla imunológica O melhor método para demonstrar a presença do vírus A da gripe consiste na demonstração da existência do nucleocapsídeo ou matriz de antigénios, comum a todos os vírus A da gripe. Para tal, efectuam-se geralmente testes de dupla difusão imunológica, recorrendo tanto a preparados concentrados de vírus como a extractos de membranas corioalantóicas infectadas.\n\nPodem obter-se preparados adequados de vírus concentrados através da centrifugação a alta velocidade de fluido alentóico infeccioso e rompimento do vírus para libertar o tratamento com o detergente laurolisarcosinato de sódio. Pode também ser utilizada a precipitação ácida através de adição de ácido clorídico 1N ao fluido alentóico infeccioso, para obter um pH final de 3,5-4,0, refrigeração durante pelo menos uma hora a 0 oC e centrifugação a baixa velocidade a 1 000 g durante 10 minutos.\n\nO sobrenadante pode ser eliminado e o precipitado que contém o vírus de novo suspenso num volume mínimo de tampão de sarcosil-glicina (1 % de laurolisarcosinato de sódio tamponado a pH 9,0 com glicina a 0,5 M). Estes preparados têm tanto o nucleocapsídio como a matriz de antigénios.\n\nBeard (1970) descreveu a preparação de um nucleocapsídio rico em antigénios a partir de membranas corioalantóicas retiradas de ovos infectados. Este método engloba: remoção das membranas coriolantóicas de ovos infectados positivos para a hemaglutinina, trituração ou homogeneização das membranas, congelamento e descongelamento três vezes, seguindo-se uma centrifugação a 1 000 g durante 10 minutos. O revestimento exterior é rompido e o sobrenadante tratado com formalina a 0,1 % para a utilização como antigénio.\n\nNos testes da dupla difusão imunológica pode ser empregue qualquer um dos dois antigénios, utilizando-se geles de agarose a 1 %, ou ágar, que contenham cloreto de sódio a 8,0 % perfazendo-se com tampão de fosfato 0,1 M, com pH de 7,2. O vírus A da gripe é confirmado através das linhas de precipitina formadas pelo antigénio de teste e pelo antigénio positivo conhecido de um anti-soro positivo conhecido, que se misturam dando origem a uma linha de identidade."
+  },
+  "6f8e07dc8d16f757": {
+   "fragment_id": "ANEXO IV — LISTA DOS LABORATÓRIOS NACIONAIS PARA A GRIPE AVIÁRIA",
+   "type": "divisao",
+   "heading": "ANEXO IV — LISTA DOS LABORATÓRIOS NACIONAIS PARA A GRIPE AVIÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — LISTA DOS LABORATÓRIOS NACIONAIS PARA A GRIPE AVIÁRIA\n\nBélgica\n\nInstitut National de Recherches Vétérinaires,\n\nGroeselenberg 99, B-1180 Bruxelles\n\nDinamarca\n\nNational Veterinary Laboratory, Poultry Disease Division,\n\nHangoevej 2, DK-8200 Aarhus N\n\nAlemanha\n\nInstitut fuer Kleintierzucht der Bundesforschungsanstalt fuer Landwirtschaft,\n\nBraunschweig-Voelkenrode, Postfach 280, D-3100 Celle\n\nFrança\n\nCentre National d'Etudes Vétérinaires et Alimentaires - Laboratoire Central de Recherches Agricoles et Porcines,\n\nBP 53, F-22440 Ploufragan\n\nGrécia\n\nÉíóôéôïýôï Ëïéìùaeþí êáé Ðáñáóéôéêþí ÍïóçìUEôùí\n\n66, 26çò Ïêôùâñssïõ, 54627-Èaaóóáëïíssêç\n\nInstituto das Doenças Infecciosas e Parasitárias\n\n66, rue du 26 octobre, GR-54627 Thessaloniki\n\nIrlanda\n\nVeterinary Research Laboratory,\n\nAbbotstown, Castleknock, IRL-Dublin 15\n\nItália\n\nIstituto Patologie Aviaire, Facoltà di Medicina Veterinaria,\n\nUniversità di Napoli,\n\nvia Aniezzo, Falcone 394, I-80127 Napoli F Delpino 1\n\nLuxemburgo\n\nInstitut National de Recherches Vétérinaires,\n\nGroeselenberg 99, B-1180 Bruxelles\n\nPaíses Baixos\n\nCentraal Diergeneeskundig Instituut, Vestiging Virologie,\n\nHoutribweg 39, NL-8221 RA Lelystad\n\nPortugal\n\nLaboratório Nacional de Investigação Veterinária (LNIV),\n\nEstrada de Benfica 701, P-1500 Lisboa\n\nEspanha\n\nCentro Nacional de Referencia para la Peste Aviar es el Laboratorio Nacional de Sanidad y Producción Animal de Barcelona,\n\nZona Franca Circunvalación-Tramo 6, Esquina Calle 3, E-Barcelona\n\nReino Unido\n\nCentral Veterinary Laboratory,\n\nNew Haw, Weybridge, UK-Surrey KT15 3NB"
+  },
+  "986614976583334f": {
+   "fragment_id": "ANEXO V — NOME DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA DA GRIPE AVIÁRIA Nome do laboratório",
+   "type": "divisao",
+   "heading": "ANEXO V — NOME DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA DA GRIPE AVIÁRIA Nome do laboratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — NOME DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA DA GRIPE AVIÁRIA Nome do laboratório\n\nCentral Veterinary Laboratory\n\nNew Haw\n\nWeybridge\n\nUK-Surrey KT15 3NB\n\nSão as seguintes as competências e tarefas do laboratório comunitário de referência da gripe aviária:\n\n1. Coordenar, em consulta com a Comissão, os métodos de diagnóstico da gripe aviária nos Estados-membros, nomeadamente, mediante:\n\na) A caracterização, posse e fornecimento das estirpes do vírus da gripe aviária destinados aos testes serológicos e à preparação do anti-soro,\n\nb) O fornecimento dos soros de referência e de outros reagentes de referência aos laboratórios nacionais de referência para a normalização dos testes e dos reagentes utilizados em cada Estado-membro,\n\nc) A constituição e a conservação de uma colecção de estirpes e isolados do vírus da gripe aviária,\n\nd) A organização periódica de testes comunitários comparativos dos processos de diagnóstico,\n\ne) A recolha e o confronto dos dados e informações relativos aos métodos de diagnóstico utilizados e os resultados dos testes efectuados na Comunidade,\n\nf) A caracterização dos isolados do vírus da gripe aviária pelos métodos mais avançados, de modo a permitir uma melhor compreensão da epizootiologia da gripe aviária,\n\ng) O acompanhamento da evolução da situação em todo o mundo em matéria de vigilância, epizootiologia e de prevenção da gripe aviária,\n\nh) A actualização permanente dos conhecimentos sobre o vírus da gripe aviária e sobre outros vírus implicados, para permitir um diagnóstico diferencial rápido,\n\ni) A aquisição de um conhecimento aprofundado na preparação e utilização dos produtos de medicina veterinária imunológica utilizados na erradicação e no controlo da gripe aviária;\n\n2. Prestar ajuda activa na identificação de focos de gripe aviária nos Estados-membros através do estudo dos isolados de vírus que lhe sejam enviados para confirmação do diagnóstico, caracterização e estudos epizootiológicos. O laboratório deveria, em especial, poder analisar a sequência dos nucleóticos, de modo a permitir a determinação da sequência de ácidos aminados deduzidos no ponto de clivagem da molécula de hemaglutinina dos vírus gripais dos subtipos H5 ou H7;\n\n3. Facilitar a formação ou reciclagem dos peritos em diagnóstico de laboratório para harmonização das técnicas de diagnóstico em toda a Comunidade."
+  },
+  "bb4e3efb840540ff": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI\n\nCRITÉRIOS MÍNIMOS APLICÁVEIS AOS PLANOS DE INTERVENÇÃO Os planos de intervenção devem prever pelo menos:\n\n1. A criação a nível nacional de um centro de crise que coordenará todas as medidas de urgência no Estado-membro em causa;\n\n2. Uma lista dos centros locais de emergência que dispõem de equipamento adequado para coordenar as medidas de controlo a nível local;\n\n3. Informações pormenorizadas sobre o pessoal encarregado das medidas de emergência, as respectivas qualificações profissionais e responsabilidades;\n\n4. Possibilidade de os centros locais de emergência contactarem rapidamente as pessoas ou organizações directa ou indirectamente envolvidas em caso de ocorrência de um foco de infecção;\n\n5. Material e equipamento adequado disponível para levar a efeito as medidas de emergência;\n\n6. Instruções precisas relativamente às acções a desenvolver em caso de suspeita e confirmação da infecção ou contaminação, incluindo meios de destruição das carcaças;\n\n7. Programas de formação com vista à actualização e desenvolvimento dos conhecimentos em matéria de actuação in loco e de processos administrativos;\n\n8. Para os laboratórios de diagnóstico, instalações adequadas para exames post mortem, capacidade necessária para análises de serologia, histologia, etc., e técnicas actualizadas de diagnóstico rápido (devem ser previstas as condições necessárias para o rápido transporte das amostras);\n\n9. Precisões sobre a quantidade de vacina contra a gripe aviária estimada necessária em caso de recurso à vacinação de emergência;\n\n10. Disposições regulamentares necessárias à execução dos planos de intervenção."
+  },
+  "d80c75ebcff1af24": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992L0040 — PT — 01.07.2007 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992L0040) [DIRECTIVA 92/40/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31992L0040) [de 19 de Maio de 1992](http://publications.europa.eu/resource/celex/31992L0040) [que estabelece medidas comunitárias de luta contra a gripe aviária](http://publications.europa.eu/resource/celex/31992L0040) (JO L 167, 22.6.1992, p.1)\n\n**revogado por:**\n\n- [Directiva 2005/94/CE do Conselho de 20 de Dezembro de 2005](http://publications.europa.eu/resource/celex/32005L0094) — L 10 — 16 — 14.1.2006"
+  }
+ }
+}

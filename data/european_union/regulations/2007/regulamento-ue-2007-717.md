@@ -36,6 +36,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-07-01'
+version_history:
+  file: regulamento-ue-2007-717.versoes.json
+  count: 3
+  source_lastmod: '2012-07-01'
+  versions:
+  - date: '2007-06-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-07-02'
+    amending: eu:celex:32009R0544:por
+    amending_title: REGULAMENTO (CE) N. o 544/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Tarifas grossistas para chamadas de itinerância regulamentadas efectuadas
+    - Altera Artigo 4.º — Tarifas retalhistas para as chamadas de itinerância regulamentadas
+    - Altera Artigo 7.º — Supervisão e execução
+    - Altera Artigo 9.º — Sanções
+    - Altera Artigo 11.º — Revisão
+    - Altera Artigo 12.º — Exigências de notificação
+    - Altera Artigo 13.º — Entrada em vigor e caducidade
+    - Altera Notas
+    - Adita Artigo 4.ºA — Tarifas grossistas para as mensagens SMS itinerantes regulamentadas
+    - Adita Artigo 4.ºB — Tarifas retalhistas para as mensagens SMS itinerantes regulamentadas
+    - Adita Artigo 4.ºC — Características técnicas das mensagens SMS itinerantes regulamentadas
+    - Adita Artigo 6.º — Transparência das tarifas retalhistas para chamadas e mensagens SMS itinerantes regulamentadas
+    - Adita Artigo 6.ºA — Transparência e mecanismos de salvaguarda para os serviços regulamentados de itinerância de dados
+    - Suprime Artigo 5.º — Aplicação dos artigos 3.º e 6.º
+    - Suprime Artigo 6.º — Transparência das tarifas retalhistas
+  - date: '2012-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Tarifas grossistas para chamadas de itinerância regulamentadas efectuadas
+    - Suprime Artigo 4.º — Tarifas retalhistas para as chamadas de itinerância regulamentadas
+    - Suprime Artigo 4.ºA — Tarifas grossistas para as mensagens SMS itinerantes regulamentadas
+    - Suprime Artigo 4.ºB — Tarifas retalhistas para as mensagens SMS itinerantes regulamentadas
+    - Suprime Artigo 4.ºC — Características técnicas das mensagens SMS itinerantes regulamentadas
+    - Suprime Artigo 6.º — Transparência das tarifas retalhistas para chamadas e mensagens SMS itinerantes regulamentadas
+    - Suprime Artigo 6.ºA — Transparência e mecanismos de salvaguarda para os serviços regulamentados de itinerância de dados
+    - Suprime Artigo 7.º — Supervisão e execução
+    - Suprime Artigo 8.º — Resolução de litígios
+    - Suprime Artigo 9.º — Sanções
+    - Suprime Artigo 10.º — Alteração da Directiva 2002/21/CE (Directiva-Quadro)
+    - Suprime Artigo 11.º — Revisão
+    - Suprime Artigo 12.º — Exigências de notificação
+    - Suprime Artigo 13.º — Entrada em vigor e caducidade
+    - Suprime Notas
 identifiers:
   celex: 32007R0717
   eli: http://data.europa.eu/eli/reg/2007/717/oj
@@ -50,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e45fd633-34a1-4bad-ba89-fe57dad83687.0019
   content_url: http://publications.europa.eu/resource/cellar/f8e8a5a4-fb93-455c-8a84-afce49fb3a86.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0717-20120701
-  retrieved_at: '2026-10-22T02:52:26Z'
+  retrieved_at: '2026-10-22T15:09:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T23:47:25.699+01:00'
 integrity:
@@ -59,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:26Z'
-  notes: Texto consolidado 02007R0717-20120701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:09:03Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2007-717.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -145,16 +198,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:26Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:09:03Z'
+  warnings: []
   errors: []
 ---
 

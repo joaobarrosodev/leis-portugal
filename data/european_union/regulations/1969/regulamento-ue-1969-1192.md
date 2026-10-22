@@ -34,6 +34,115 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-01-12'
+version_history:
+  file: regulamento-ue-1969-1192.versoes.json
+  count: 4
+  source_lastmod: '2017-01-12'
+  versions:
+  - date: '1969-06-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:31990R3572:por
+    amending_title: REGULAMENTO (CEE) N.O 3572/90 DO CONSELHO de 4 de Dezembro de 1990; REGULAMENTO (CE) N.O 1791/2006 DO
+      CONSELHO de 20 de Novembro de 2006; Acto de Adesão da Dinamarca, da Irlanda e do Reino Unido da Grã-Bretanha e da Irlanda
+      do Norte; Acto de Adesão da Grécia; A3; Acto de Adesão da Áustria, da Finlândia e da Suécia; Acto relativo às condições
+      de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República
+      da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da
+      República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera ANEXO VI
+    - Altera ANEXO VIII
+    - Altera ANEXO X
+    - Altera ANEXO XI
+    - Altera ANEXO XII
+    - Altera ANEXO XIII
+    - Adita SECÇÃO I
+    - Adita Definições e âmbito de aplicação
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita SECÇÃO II
+    - Adita Regras comuns de normalização e de compensação
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita SECÇÃO III
+    - Adita Disposições finais
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita A. Âmbito de aplicação
+    - Adita B. Princípio de cálculo
+    - Adita B. Princípios de cálculo
+    - Adita ANEXO IV
+    - Adita ANEXO V
+    - Adita Âmbito de aplicação
+    - Adita ANEXO VII
+    - Adita ANEXO IX
+    - Adita ANEXO XIV
+    - Adita ANEXO XV
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Notas
+  - date: '2017-01-12'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime SECÇÃO I
+    - Suprime Definições e âmbito de aplicação
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime SECÇÃO II
+    - Suprime Regras comuns de normalização e de compensação
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime SECÇÃO III
+    - Suprime Disposições finais
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime ANEXO I
+    - Suprime A. Âmbito de aplicação
+    - Suprime B. Princípio de cálculo
+    - Suprime ANEXO II
+    - Suprime B. Princípios de cálculo
+    - Suprime ANEXO III
+    - Suprime ANEXO IV
+    - Suprime ANEXO V
+    - Suprime Âmbito de aplicação
+    - Suprime ANEXO VI
+    - Suprime ANEXO VII
+    - Suprime ANEXO VIII
+    - Suprime ANEXO IX
+    - Suprime ANEXO X
+    - Suprime ANEXO XI
+    - Suprime ANEXO XII
+    - Suprime ANEXO XIII
+    - Suprime ANEXO XIV
+    - Suprime ANEXO XV
 identifiers:
   celex: 31969R1192
   eli: http://data.europa.eu/eli/reg/1969/1192/oj
@@ -48,7 +157,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1746c225-1893-4874-b187-604a642ce911.0011
   content_url: http://publications.europa.eu/resource/cellar/492f930c-2b84-418e-81b0-38de2dcd1a66.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01969R1192-20170112
-  retrieved_at: '2026-10-22T02:40:57Z'
+  retrieved_at: '2026-10-22T14:29:30Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T17:47:31.381+01:00'
 integrity:
@@ -57,9 +166,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:57Z'
-  notes: Texto consolidado 01969R1192-20170112.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:29:30Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-1969-1192.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -175,16 +284,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:57Z'
+  checked_at: '2026-10-22T14:29:30Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01969R1192-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01969R1192-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

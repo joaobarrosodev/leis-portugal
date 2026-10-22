@@ -1,0 +1,1005 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998L0026:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0026-20240408",
+ "dre_path": null,
+ "source_lastmod": "2024-04-08",
+ "versions": [
+  {
+   "date": "1998-06-11",
+   "future": false,
+   "celex": "31998L0026",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "30f638ada01a8eea",
+    "a7bab2dbcfae3f20",
+    "2bfda86ee94c01e9",
+    "d31ce35b035dd4af",
+    "b64513a601e54860",
+    "a418ee0408c10755",
+    "524b2dab937d7a2e",
+    "651e840a96620bdc",
+    "87e1ed986d205d6c",
+    "c5dcf6f85b333bba",
+    "3fc129f98bad5995",
+    "94f6fba200201f3a",
+    "4ee143a522ebd3bc",
+    "a2002ed1ce359e83",
+    "6aff75dbc7fa50d6",
+    "4c5a4fa7ff11b0a9",
+    "97c4fa5244e357af",
+    "84a47117cd1e8e7d",
+    "ea4ccebb5ac18333",
+    "d25d94b788194f64"
+   ]
+  },
+  {
+   "date": "2009-06-30",
+   "future": false,
+   "celex": "01998L0026-20090630",
+   "acts": [
+    {
+     "id": "eu:celex:32009L0044:por",
+     "title": "DIRECTIVA 2009/44/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 6 de Maio de 2009",
+     "published": null,
+     "celex": "32009L0044"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita SECÇÃO I",
+    "Adita ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita SECÇÃO II",
+    "Adita COMPENSAÇÃO E ORDENS DE TRANSFERÊNCIA",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita SECÇÃO III",
+    "Adita DISPOSIÇÕES RELATIVAS AOS PROCESSOS DE FALÊNCIA",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita SECÇÃO IV",
+    "Adita PRESERVAÇÃO DOS DIREITOS DOS TITULARES DE GARANTIAS CONTRA OS EFEITOS DA FALÊNCIA DA PARTE QUE CONSTITUIU AS GARANTIAS",
+    "Adita Artigo 9.º",
+    "Adita SECÇÃO V",
+    "Adita DISPOSIÇÕES FINAIS",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Notas",
+    "Suprime SECÇÃO I — ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime SECÇÃO II — COMPENSAÇÃO E ORDENS DE TRANSFERÊNCIA",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime SECÇÃO III — DISPOSIÇÕES RELATIVAS AOS PROCESSOS DE FALÊNCIA",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime SECÇÃO IV — PRESERVAÇÃO DOS DIREITOS DOS TITULARES DE GARANTIAS CONTRA OS EFEITOS DA FALÊNCIA DA PARTE QUE CONSTITUIU AS GARANTIAS",
+    "Suprime Artigo 9º",
+    "Suprime SECÇÃO V — DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º"
+   ],
+   "fragments": [
+    "6e2594fe5cf13b09",
+    "19572906891c0646",
+    "5ab355e9e3267ddf",
+    "11deba1c888465f4",
+    "25138579d636dbbc",
+    "0b50b9972a75b595",
+    "3563d4252f886f89",
+    "350afe33ce35244a",
+    "fd4b28329b54a151",
+    "d135593c0703511c",
+    "b4f1bfdbc841cf04",
+    "727fde58b44d7396",
+    "d13a9dc766cadc62",
+    "16fa0df8320fa504",
+    "1eedb625773f0edb",
+    "b9c1c438fac65788",
+    "30127d281a3c1f1a",
+    "b28929c754c792ad",
+    "184c1b7a3d24aa39",
+    "dde9cf53e9ae6c9a",
+    "bfbc6272286fbf51",
+    "e92c46d92893f4b2",
+    "662d504815b97dbc",
+    "c8c48c56297b2ea9",
+    "9c264c46c8c1b6fd",
+    "42f01bc3986d3e1a"
+   ]
+  },
+  {
+   "date": "2011-01-04",
+   "future": false,
+   "celex": "01998L0026-20110104",
+   "acts": [
+    {
+     "id": "eu:celex:32010L0078:por",
+     "title": "Directiva 2010/78/UE do Parlamento Europeu e do Conselho Texto relevante para efeitos do EEE de 24 de Novembro de 2010",
+     "published": null,
+     "celex": "32010L0078"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Notas",
+    "Adita Artigo 10.ºA"
+   ],
+   "fragments": [
+    "b0129fe77f2dd445",
+    "19572906891c0646",
+    "5ab355e9e3267ddf",
+    "11deba1c888465f4",
+    "06eee40dc50ad852",
+    "0b50b9972a75b595",
+    "3563d4252f886f89",
+    "6b3a5d8267f92e2a",
+    "fd4b28329b54a151",
+    "d135593c0703511c",
+    "b4f1bfdbc841cf04",
+    "727fde58b44d7396",
+    "b8149c86833dff9d",
+    "16fa0df8320fa504",
+    "1eedb625773f0edb",
+    "b9c1c438fac65788",
+    "30127d281a3c1f1a",
+    "0fe12801caf46c18",
+    "184c1b7a3d24aa39",
+    "dde9cf53e9ae6c9a",
+    "0e65d89906031271",
+    "99e896c4b811f8a5",
+    "e92c46d92893f4b2",
+    "662d504815b97dbc",
+    "c8c48c56297b2ea9",
+    "9c264c46c8c1b6fd",
+    "7b3fac91cb9311e6"
+   ]
+  },
+  {
+   "date": "2012-08-16",
+   "future": false,
+   "celex": "01998L0026-20120816",
+   "acts": [
+    {
+     "id": "eu:celex:32012R0648:por",
+     "title": "REGULAMENTO (UE) N. o 648/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de julho de 2012",
+     "published": null,
+     "celex": "32012R0648"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "22fb888cd3b10d68",
+    "19572906891c0646",
+    "5ab355e9e3267ddf",
+    "11deba1c888465f4",
+    "4de31225f50e9b8f",
+    "0b50b9972a75b595",
+    "3563d4252f886f89",
+    "350afe33ce35244a",
+    "fd4b28329b54a151",
+    "d135593c0703511c",
+    "b4f1bfdbc841cf04",
+    "727fde58b44d7396",
+    "564b660ff896ef79",
+    "16fa0df8320fa504",
+    "1eedb625773f0edb",
+    "b9c1c438fac65788",
+    "30127d281a3c1f1a",
+    "9f78435f1048bc82",
+    "184c1b7a3d24aa39",
+    "dde9cf53e9ae6c9a",
+    "539fa6241adb0fa5",
+    "99e896c4b811f8a5",
+    "e92c46d92893f4b2",
+    "662d504815b97dbc",
+    "c8c48c56297b2ea9",
+    "9c264c46c8c1b6fd",
+    "a6d471accc40a1ee"
+   ]
+  },
+  {
+   "date": "2014-09-17",
+   "future": false,
+   "celex": "01998L0026-20140917",
+   "acts": [
+    {
+     "id": "eu:celex:32014R0909:por",
+     "title": "REGULAMENTO (UE) N. o 909/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de julho de 2014",
+     "published": null,
+     "celex": "32014R0909"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "d0c85e0ad34c6c26",
+    "19572906891c0646",
+    "5ab355e9e3267ddf",
+    "11deba1c888465f4",
+    "f3353a0f7bd20616",
+    "0b50b9972a75b595",
+    "3563d4252f886f89",
+    "350afe33ce35244a",
+    "fd4b28329b54a151",
+    "d135593c0703511c",
+    "b4f1bfdbc841cf04",
+    "727fde58b44d7396",
+    "36bdfa5c0daea238",
+    "16fa0df8320fa504",
+    "1eedb625773f0edb",
+    "b9c1c438fac65788",
+    "30127d281a3c1f1a",
+    "9f78435f1048bc82",
+    "184c1b7a3d24aa39",
+    "dde9cf53e9ae6c9a",
+    "ecab93af537a3f11",
+    "99e896c4b811f8a5",
+    "b55277969ac2390f",
+    "662d504815b97dbc",
+    "c8c48c56297b2ea9",
+    "9c264c46c8c1b6fd",
+    "5a794f8e64dc6dfb"
+   ]
+  },
+  {
+   "date": "2019-06-27",
+   "future": false,
+   "celex": "01998L0026-20190627",
+   "acts": [
+    {
+     "id": "eu:celex:32019L0879:por",
+     "title": "DIRETIVA (UE) 2019/879 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019",
+     "published": null,
+     "celex": "32019L0879"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º",
+    "Altera Notas",
+    "Adita Artigo 12.º-A"
+   ],
+   "fragments": [
+    "8bd0ff70d1d176ad",
+    "19572906891c0646",
+    "5ab355e9e3267ddf",
+    "11deba1c888465f4",
+    "805d17f66970ce9d",
+    "0b50b9972a75b595",
+    "3563d4252f886f89",
+    "350afe33ce35244a",
+    "fd4b28329b54a151",
+    "d135593c0703511c",
+    "b4f1bfdbc841cf04",
+    "727fde58b44d7396",
+    "07f18f8c6935c3bf",
+    "16fa0df8320fa504",
+    "1eedb625773f0edb",
+    "b9c1c438fac65788",
+    "30127d281a3c1f1a",
+    "9f78435f1048bc82",
+    "184c1b7a3d24aa39",
+    "dde9cf53e9ae6c9a",
+    "6bdb2bf6bbf2ce96",
+    "99e896c4b811f8a5",
+    "b55277969ac2390f",
+    "662d504815b97dbc",
+    "18bed617fee96182",
+    "c8c48c56297b2ea9",
+    "9c264c46c8c1b6fd",
+    "2fe7b75b04374fe2"
+   ]
+  },
+  {
+   "date": "2024-04-08",
+   "future": false,
+   "celex": "01998L0026-20240408",
+   "acts": [
+    {
+     "id": "eu:celex:32024R0886:por",
+     "title": "REGULAMENTO (UE) 2024/886 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024",
+     "published": null,
+     "celex": "32024R0886"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "8bd0ff70d1d176ad",
+    "19572906891c0646",
+    "5ab355e9e3267ddf",
+    "11deba1c888465f4",
+    "fd5d1ae0d95652a4",
+    "0b50b9972a75b595",
+    "3563d4252f886f89",
+    "ff2e1fd5a6f46624",
+    "fd4b28329b54a151",
+    "d135593c0703511c",
+    "b4f1bfdbc841cf04",
+    "727fde58b44d7396",
+    "5561b33bcbed5523",
+    "16fa0df8320fa504",
+    "1eedb625773f0edb",
+    "b9c1c438fac65788",
+    "30127d281a3c1f1a",
+    "e39035448575c813",
+    "184c1b7a3d24aa39",
+    "dde9cf53e9ae6c9a",
+    "512ca54209f26a82",
+    "99e896c4b811f8a5",
+    "b55277969ac2390f",
+    "662d504815b97dbc",
+    "18bed617fee96182",
+    "c8c48c56297b2ea9",
+    "9c264c46c8c1b6fd",
+    "8e533a8d24b7f326"
+   ]
+  }
+ ],
+ "fragments": {
+  "30f638ada01a8eea": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 98/26/CE do Parlamento Europeu e do Conselho de 19 de Maio 1998 relativa ao carácter definitivo da liquidação nos sistemas de pagamentos e de liquidação de valores mobiliários** *Jornal Oficial nº L 166 de 11/06/1998 p. 0045 - 0050*\n\nDIRECTIVA 98/26/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de Maio 1998 relativa ao carácter definitivo da liquidação nos sistemas de pagamentos e de liquidação de valores mobiliários\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Instituto Monetário Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nDeliberando nos termos do artigo 189ºB do Tratado (4),\n\n(1) Considerando que o relatório Lamfalussy de 1990 dirigido aos governadores dos bancos centrais dos países do Grupo dos Dez demonstrou a importância dos riscos sistémicos inerentes aos sistemas de pagamentos que funcionam com base em vários tipos jurídicos de compensação (netting) de pagamentos, em particular os multilaterais; que a redução da incerteza jurídica associada à participação em sistemas com liquidação pelo valor bruto em tempo real é de uma importância fundamental, dado o crescente desenvolvimento desses sistemas;\n\n(2) Considerando que é também da máxima importância minorar os riscos associados à participação nos sistemas de liquidação de operações sobre valores mobiliários, em particular nos casos em que existe uma estreita ligação entre esses sistemas e os sistemas de pagamentos;\n\n(3) Considerando que a presente directiva se destina a contribuir para reforçar a eficácia do funcionamento dos mecanismos transfronteiras de pagamento e de liquidação de valores mobiliários na Comunidade, bem como para reduzir os seus custos, fortalecendo assim a liberdade de circulação de capitais no mercado interno; que a presente directiva se inscreve, portanto, no quadro dos progressos feitos no sentido da realização do mercado interno, nomeadamente no domínio da liberdade de prestação de serviços e da liberalização dos movimentos de capitais, com vista à realização da união económica e monetária;\n\n(4) Considerando que é desejável que a legislação dos Estados-membros vise minimizar as perturbações dos sistemas decorrentes de processos de falência intentados contra participantes nesses sistemas;\n\n(5) Considerando que continua pendente no Conselho uma proposta de directiva relativa ao saneamento e à liquidação das instituições de crédito, apresentada em 1985 e alterada em 8 de Fevereiro de 1988; que a Convenção relativa aos processos de falência, estabelecida em 23 de Novembro de 1995 pelos Estados-membros reunidos no Conselho, exclui expressamente do seu âmbito de aplicação as empresas de seguros, as instituições de crédito e as empresas de investimento;\n\n(6) Considerando que a presente directiva se destina a abranger os sistemas de pagamentos e de liquidação de operações sobre valores mobiliários, tanto nacionais como com um carácter transfronteiras; que a directiva é aplicável aos sistemas comunitários e às garantias constituídas pelos seus participantes, comunitários ou de países terceiros, no quadro da sua participação nesses sistemas;\n\n(7) Considerando que os Estados-membros podem aplicar as disposições da presente directiva às suas próprias instituições que participem directamente em sistemas de países terceiros e às garantias constituídas no quadro da participação nesses sistemas;\n\n(8) Considerando que os Estados-membros devem poder considerar como abrangido pela presente directiva um sistema cuja actividade principal seja a liquidação de operações sobre valores mobiliários, mesmo que o sistema também opere, em medida limitada, com instrumentos derivados sobre matérias-primas;\n\n(9) Considerando que a redução do risco sistémico requer, em especial, o carácter definitivo da liquidação e a exigibilidade das garantias constituídas; que, por garantia, se entende qualquer meio fornecido por um participante aos restantes participantes num sistema de pagamentos e/ou de liquidação de operações sobre valores mobiliários para garantir os direitos e obrigações decorrentes da participação nesse sistema, incluindo os contratos de reporte e similares, as garantias legais e as transferências fiduciárias; que a regulamentação, pelo direito nacional, dos tipos de garantias que podem ser utilizados não é afectada pela definição de garantia da presente directiva;\n\n(10) Considerando que a presente directiva, ao abranger as garantias constituídas no quadro das operações efectuadas pelos bancos centrais dos Estados-membros, na sua qualidade de bancos centrais, incluindo as operações de política monetária, apoia o Instituto Monetário Europeu nas suas funções de promover a eficácia dos pagamentos transfronteiras, na perspectiva da preparação da terceira fase da união económica e monetária, contribuindo desse modo para configurar o quadro jurídico de que deverá dispor o futuro Banco Central Europeu para realizar a sua política;\n\n(11) Considerando que deve ser garantida a produção de efeitos jurídicos das ordens de transferência e da sua compensação (netting) nas legislações de todos os Estados-membros, bem como a sua oponibilidade a terceiros;\n\n(12) Considerando que as disposições relativas ao carácter definitivo da compensação não devem obstar a que os sistemas verifiquem, antes de se efectuar a compensação, se as ordens que entraram no sistema obedecem às regras desse sistema e permitem a liquidação por esse sistema;\n\n(13) Considerando que a presente directiva não impede um participante ou um terceiro de exercerem, relativamente a uma ordem de transferência que tenha sido introduzida num sistema, qualquer direito ou qualquer pretensão a uma cobrança ou a uma restituição, decorrente da transacção subjacente, nomeadamente em caso de fraude ou de erro técnico, desde que esse direito ou pretensão não acarrete a reforma da compensação nem conduza à revogação da ordem de transferência no sistema;\n\n(14) Considerando que é necessário garantir que as ordens de transferência não possam ser revogadas após o momento definido pelas regras do sistema;\n\n(15) Considerando que é necessário que um Estado-membro notifique imediatamente os outros Estados-membros da abertura de um processo de falência contra um participante no sistema;\n\n(16) Considerando que os processos de falência não devem ter efeitos retroactivos sobre os direitos e obrigações dos participantes no sistema;\n\n(17) Considerando que a presente directiva tem ainda em vista determinar, em caso de abertura de um processo de falência contra um participante num sistema, a legislação sobre falência aplicável aos direitos e obrigações do participante decorrentes da sua participação nesse sistema;\n\n(18) Considerando que as garantias constituídas devem ser preservadas dos efeitos da legislação sobre falência aplicável ao participante insolvente;\n\n(19) Considerando que o disposto no nº 2 do artigo 9º é aplicável apenas a um registo, conta ou sistema de depósito centralizado que evidencie a existência de direitos sobre os valores em questão, ou a entrega ou transferência desses valores;\n\n(20) Considerando que o disposto no nº 2 do artigo 9º tem por objectivo assegurar que, se o participante, o banco central de um Estado-membro ou o futuro Banco Central Europeu beneficiar de uma garantia válida e eficaz ao abrigo da legislação do Estado-membro em que se situe o registo, conta ou sistema de depósito centralizado pertinente, a validade e a exigibilidade dessa garantia em relação a esse sistema, ao respectivo operador e a qualquer outra pessoa que reclame um crédito, directa ou indirectamente, através do sistema, serão determinadas unicamente pela legislação desse Estado-membro;\n\n(21) Considerando que o disposto no nº 2 do artigo 9º não tem por objectivo afectar a aplicação e os efeitos da legislação do Estado-membro em que os valores mobiliários estejam constituídos ou do Estado-membro em que esses valores possam de outra forma estar situados (incluindo, sem restrições, a legislação relativa à criação, propriedade ou transferência desses valores ou dos direitos sobre esses valores) e não pode ser interpretado como significando que uma garantia nos termos referidos será directamente exigível ou susceptível de ser reconhecida em qualquer um desses Estados-membros de um modo contrário à sua legislação;\n\n(22) Considerando que é desejável que os Estados-membros se esforcem por estabelecer ligações suficientes entre todos os sistemas de liquidação de valores mobiliários abrangidos pela presente directiva, a fim de promover a máxima transparência e segurança jurídica das transaccões relativas a valores mobiliários;\n\n(23) Considerando que a adopção da presente directiva constitui a forma mais adequada de realizar os objectivos acima referidos, não excedendo o necessário para esse efeito,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "a7bab2dbcfae3f20": {
+   "fragment_id": "SECÇÃO I — ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "SECÇÃO I — ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — ÂMBITO DE APLICAÇÃO E DEFINIÇÕES"
+  },
+  "2bfda86ee94c01e9": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO disposto na presente directiva é aplicável:\n\na) A qualquer sistema, definido no artigo 2º, alínea a), regulado pela legislação de um Estado-membro, que realize operações em qualquer moeda, em ecus ou em várias moedas que o sistema converta entre si;\n\nb) A qualquer participante nesse sistema;\n\nc) Às garantias constituídas no quadro:\n\n- da participação num sistema, ou\n\n- das operações dos bancos centrais dos Estados-membros na sua qualidade de bancos centrais."
+  },
+  "d31ce35b035dd4af": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Sistema» um acordo formal:\n\n- entre três ou mais participantes, sem contar com um eventual agente de liquidação, uma eventual contraparte central, uma eventual câmara de compensação ou um eventual participante indirecto, com regras comuns e procedimentos padronizados para a execução de ordens de transferência entre os participantes,\n\n- regulado pela legislação de um Estado-membro escolhida pelos participantes; contudo, os participantes apenas podem escolher a legislação de um Estado-membro em que pelo menos um deles tenha a sua sede e\n\n- designado, sem prejuízo de outras condições mais rigorosas de aplicação geral previstas na legislação nacional, como sistema e notificado à Comissão pelo Estado-membro cuja legislação é aplicável, depois de esse Estado-membro se ter certificado da adequação das regras do sistema.\n\nNas mesmas condições do primeiro parágrafo, os Estados-membros podem designar como sistema de pagamentos um acordo formal, cuja actividade consista na execução de ordens de transferência tal como definidas no segundo travessão da alínea i) e que, em medida limitada, execute ordens relacionadas com outros instrumentos financeiros, quando os Estados-membros considerarem que essa designação se justifica em termos de risco sistémico.\n\nOs Estados-membros podem ainda, caso a caso, designar como sistema um dos referidos acordos formais entre dois participantes, sem contar com um eventual agente de liquidação, uma eventual contraparte central, uma eventual câmara de compensação ou um eventual participante indirecto, quando considerarem que essa designação se justifica em termos de risco sistémico;\n\nb) «Instituição»:\n\n- uma instituição de crédito, tal como definida no primeiro travessão do artigo 1º da Directiva 77/780/CEE (5), incluindo as instituições enumeradas no nº 2 do seu artigo 2º, ou\n\n- uma empresa de investimento, tal como definida no nº 2 do artigo 1º da Directiva 93/22/CEE (6), excluindo as instituições enumeradas no nº 2, alíneas a) a k), do seu artigo 2º, ou\n\n- um organismo público ou uma empresa que beneficie de garantia estatal, ou\n\n- qualquer empresa com sede fora da Comunidade e cujas funções correspondam às das instituições de crédito ou das empresas de investimento da Comunidade, na acepção do primeiro e segundo travessões,\n\nque participe num sistema e que seja responsável pela execução das obrigações financeiras decorrentes de ordens de transferência emitidas no âmbito desse sistema.\n\nSe um sistema for supervisado nos termos da legislação nacional e apenas executar ordens de transferência tal como definidas no segundo travessão da alínea i), bem como os pagamentos decorrentes dessas ordens, os Estados-membros têm a faculdade de decidir que as empresas que participem nesse sistema e que estejam incumbidas da execução das obrigações financeiras decorrentes de ordens de transferência emitidas no âmbito desse sistema, podem ser consideradas instituições, desde que pelo menos três dos outros participantes nesse sistema pertençam às categorias referidas no primeiro parágrafo e que essa decisão se justifique em termos de risco sistémico;\n\nc) «Contraparte central»: uma entidade intermediária entre as instituições de um sistema e que actua como contraparte exclusiva dessas instituições no que respeita às suas ordens de transferência;\n\nd) «Agente de liquidação»: uma entidade que assegura, às instituições e/ou à contraparte central que participam nos sistemas, contas de liquidação, através das quais são liquidadas as ordens de transferência emitidas no quadro desses sistemas e que pode, eventualmente, conceder crédito a essas instituições e/ou contrapartes centrais para efeitos de liquidação;\n\ne) «Câmara de compensação»: uma entidade incumbida do cálculo das posições líquidas das instituições, uma eventual contraparte central e/ou um eventual agente de liquidação;\n\nf) «Participante»: uma instituição, uma contraparte central, um agente de liquidação ou uma câmara de compensação.\n\nDe acordo com as regras do sistema, o mesmo participante pode actuar como contraparte central, agente de liquidação ou câmara de compensação ou exercer uma parte ou a totalidade dessas funções.\n\nPara efeitos da presente directiva, os Estados-membros podem considerar um participante indirecto como participante, quando entenderem que essa designação se justifica em termos de risco sistémico e desde que o participante indirecto seja conhecido do sistema;\n\ng) «Participante indirecto»: uma instituição de crédito, tal como definida no primeiro travessão da alínea b), que tenha uma relação contratual com uma instituição que participe num sistema que execute ordens de transferência, tal como definidas no primeiro travessão da alínea i), relação essa que permita à instituição de crédito acima referida executar ordens de transferência através do sistema;\n\nh) «Valores mobiliários»: todos os instrumentos referidos na secção B do anexo da Directiva 93/22/CEE;\n\ni) «Ordem de transferência»:\n\n- uma instrução de um participante para colocar um certo montante pecuniário à disposição de um destinatário, através do lançamento nas contas de uma instituição de crédito, de um banco central ou de um agente de liquidação, ou uma instrução que resulte na assunção ou execução de uma obrigação de pagamento tal como definida pelas regras do sistema, ou\n\n- uma instrução de um participante para transferir a titularidade de um ou mais valores mobiliários ou o direito relativo a um ou mais valores mobiliários através da inscrição num registo, ou sob outra forma;\n\nj) «Processo de falência»: qualquer medida colectiva prevista na legislação de um Estado-membro ou de um país terceiro para efeitos da liquidação do participante ou da sua reestruturação, desde que tal medida implique a suspensão ou limitação das transferências ou pagamentos;\n\nk) «Compensação» (netting): a conversão dos créditos e obrigações decorrentes de ordens de transferência que um ou mais participantes emitem a favor de outro ou outros participantes, ou que dele ou deles recebem, num único crédito (líquido ou numa única obrigação líquida, de forma que apenas será exigível esse crédito líquido ou devida essa obrigação líquida;\n\nl) «Conta de liquidação»: uma conta num banco central, num agente de liquidação ou numa contraparte central utilizada para depósito de fundos e valores mobiliários, bem como para a liquidação de transacções entre participantes num sistema;\n\nm) «Garantia»: qualquer activo realizável dado em penhor (incluindo dinheiro dado em penhor), de um contrato de reporte ou similar, ou de qualquer outro modo, com o objectivo de garantir direitos e obrigações que possam eventualmente decorrer do funcionamento de um sistema, ou fornecido aos bancos centrais dos Estados-membros ou ao futuro Banco Central Europeu."
+  },
+  "b64513a601e54860": {
+   "fragment_id": "SECÇÃO II — COMPENSAÇÃO E ORDENS DE TRANSFERÊNCIA",
+   "type": "divisao",
+   "heading": "SECÇÃO II — COMPENSAÇÃO E ORDENS DE TRANSFERÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — COMPENSAÇÃO E ORDENS DE TRANSFERÊNCIA"
+  },
+  "a418ee0408c10755": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. As ordens de transferência e a compensação têm efeitos jurídicos e, mesmo em caso de falência de um participante, serão oponíveis a terceiros, desde que as ordens de transferência tenham sido introduzidas no sistema antes do momento da abertura do processo de falência tal como definido no nº 1 do artigo 6º\n\nSempre que, excepcionalmente, as ordens de transferência tenham sido introduzidas no sistema após a abertura do processo de falência e tenham sido executadas no dia dessa abertura, só produzirão efeitos jurídicos e serão oponíveis a terceiros se o agente de liquidação, a contraparte central ou a câmara de compensação puderem provar, após o momento de execução, que não tinham conhecimento nem obrigação de ter conhecimento da abertura do processo de falência.\n\n2. Nenhuma lei, regulamento, regra ou prática em matéria de anulação de contratos e transacções celebrados antes do momento da abertura de um processo de falência tal como definido no nº 1 do artigo 6º pode conduzir à reforma de uma compensação.\n\n3. O momento da introdução de uma ordem de transferência num sistema será definido pelas regras aplicáveis desse sistema. Se o direito nacional previr condições que regulamentem o sistema quanto ao momento da introdução, as regras desse sistema devem estar em conformidade com essas condições."
+  },
+  "524b2dab937d7a2e": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs Estados-membros podem estabelecer que a abertura de um processo de falência de um participante não obste a que os fundos ou valores mobiliários disponíveis na conta de liquidação desse participante sejam utilizados para satisfazer as obrigações do participante no âmbito do sistema no dia da abertura do processo de falência. Além disso, os Estados-membros podem também prever que seja utilizada uma linha de crédito desse participante relacionada com o sistema, contra uma garantia existente e disponível, para lhe permitir cumprir as suas obrigações no âmbito desse sistema."
+  },
+  "651e840a96620bdc": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nUma ordem de transferência não pode ser revogada por um participante no sistema, nem por terceiros, a partir do momento definido nas regras aplicáveis a esse sistema."
+  },
+  "87e1ed986d205d6c": {
+   "fragment_id": "SECÇÃO III — DISPOSIÇÕES RELATIVAS AOS PROCESSOS DE FALÊNCIA",
+   "type": "divisao",
+   "heading": "SECÇÃO III — DISPOSIÇÕES RELATIVAS AOS PROCESSOS DE FALÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — DISPOSIÇÕES RELATIVAS AOS PROCESSOS DE FALÊNCIA"
+  },
+  "c5dcf6f85b333bba": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Para efeitos da presente directiva, o momento da abertura de um processo de falência será o momento em que a autoridade judicial ou administrativa competente proferir a sua decisão.\n\n2. Quando for proferida uma decisão nos termos do nº 1, a autoridade judicial ou administrativa competente notificará imediatamente essa decisão à autoridade competente designada pelo seu Estado-membro.\n\n3. O Estado-membro referido no nº 2 notificará imediatamente os outros Estados-membros."
+  },
+  "3fc129f98bad5995": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nUm processo de falência não terá efeitos retroactivos sobre os direitos e obrigações de um participante decorrentes da sua participação no sistema ou a ela associados antes do momento da abertura desse processo tal como definido no nº 1 do artigo 6º"
+  },
+  "94f6fba200201f3a": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nSe for aberto um processo de falência de um participante num sistema, os direitos e obrigações decorrentes da sua participação ou associados a essa participação serão determinados pela legislação aplicável ao sistema."
+  },
+  "4ee143a522ebd3bc": {
+   "fragment_id": "SECÇÃO IV — PRESERVAÇÃO DOS DIREITOS DOS TITULARES DE GARANTIAS CONTRA OS EFEITOS DA FALÊNCIA DA PARTE QUE CONSTITUIU AS GARANTIAS",
+   "type": "divisao",
+   "heading": "SECÇÃO IV — PRESERVAÇÃO DOS DIREITOS DOS TITULARES DE GARANTIAS CONTRA OS EFEITOS DA FALÊNCIA DA PARTE QUE CONSTITUIU AS GARANTIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — PRESERVAÇÃO DOS DIREITOS DOS TITULARES DE GARANTIAS CONTRA OS EFEITOS DA FALÊNCIA DA PARTE QUE CONSTITUIU AS GARANTIAS"
+  },
+  "a2002ed1ce359e83": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Os direitos\n\n- de um participante beneficiário das garantias constituídas a seu favor no quadro de um sistema, e\n\n- dos bancos centrais dos Estados-membros ou do futuro Banco Central Europeu beneficiários das garantias constituídas a seu favor,\n\nnão serão afectados por um processo de falência contra o participante ou a contraparte dos bancos centrais dos Estados-membros ou do futuro Banco Central Europeu que constituiu as garantias. Estas poderão ser realizadas para satisfação desses direitos.\n\n2. Quando forem dados valores mobiliários (incluindo direitos sobre valores mobiliários) como garantia aos participantes e/ou aos bancos centrais dos Estados-membros ou ao futuro Banco Central Europeu nos termos referidos no nº 1 e o direito destes (ou o de qualquer mandatário, agente ou terceiro actuando em seu nome) relativamente aos valores esteja legalmente inscrito num registo, conta ou sistema de depósito centralizado situado num Estado-membro, a determinação dos direitos dessas entidades como titulares da garantia relativa a esses valores regular-se-á pela legislação desse Estado-membro."
+  },
+  "6aff75dbc7fa50d6": {
+   "fragment_id": "SECÇÃO V — DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "SECÇÃO V — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — DISPOSIÇÕES FINAIS"
+  },
+  "4c5a4fa7ff11b0a9": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros designarão os sistemas que devem ser incluídos no âmbito de aplicação da presente directiva e deles notificarão a Comissão; informarão igualmente a Comissão das autoridades que tiverem designado nos termos do nº 2 do artigo 6º\n\nO sistema indicará ao Estado-membro cuja legislação seja aplicável quais os participantes no sistema, incluindo quaisquer eventuais participantes indirectos, assim como qualquer alteração que se verifique nessa participação.\n\nPara além da indicação prevista no segundo parágrafo, os Estados-membros poderão sujeitar os sistemas sob a sua jurisdição a supervisão ou autorização.\n\nQualquer pessoa com um interesse legítimo pode requerer a qualquer instituição que a informe sobre os sistemas em que participa e sobre as disposições essenciais que regulam o funcionamento desses sistemas."
+  },
+  "97c4fa5244e357af": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 11 de Decembro de 1999. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva. Nas suas comunicações, os Estados-membros apresentarão um quadro de correspondências que indique as disposições nacionais em vigor ou que estejam a ser introduzidas que correspondem a cada um dos artigos da presente directiva."
+  },
+  "84a47117cd1e8e7d": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nO mais tardar três anos a contar da data referida no nº 1 do artigo 11º, a Comissão apresentará um relatório ao Parlamento Europeu e ao Conselho sobre a aplicação da presente directiva, acompanhado, se for caso disso, de propostas de revisão."
+  },
+  "ea4ccebb5ac18333": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "d25d94b788194f64": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 19 de Maio de 1998.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nJ.M. GIL-ROBLES\n\nPelo Conselho\n\nO Presidente\n\nG. BROWN\n\n(1) JO C 207 de 18. 7. 1996, p. 13 e JO C 259 de 26. 8. 1997, p. 6.\n\n(2) Parecer emitido em 21 de Novembro de 1996.\n\n(3) JO C 56 de 24. 2. 1997, p. 1.\n\n(4) Parecer do Parlamento Europeu de 9 de Abril de 1997 (JO C 132 de 28. 4. 1997, p. 74), posição comum do Conselho de 13 de Outubro de 1997 (JO C 375 de 10. 12. 1997, p. 34), e decisão do Parlamento Europeu de 29 de Janeiro de 1998, (JO C 56 de 23. 2. 1998). Decisão do Conselho de 27 de Abril de 1998.\n\n(5) Primeira Directiva 77/780/CEE do Conselho, de 12 de Dezembro de 1977, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao acesso à actividade dos estabelecimentos de crédito e ao seu exercício (JO L 322 de 17. 12. 1977, p. 30). Directiva com a última redacção que lhe foi dada pela Directiva 96/13/CE (JO L 66 de 16. 3. 1996, p. 15).\n\n(6) Directiva 93/22/CEE do Conselho, de 10 de Maio de 1993, relativa aos serviços de investimento no domínio dos valores mobiliários (JO L 141 de 11. 6. 1993, p. 27). Directiva com a última redacção que Ihe foi dada pela Directiva 97/9/CE (JO L 84 de 26. 3. 1997, p. 22)."
+  },
+  "6e2594fe5cf13b09": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Maio 1998\n\nrelativa ao carácter definitivo da liquidação nos sistemas de pagamentos e de liquidação de valores mobiliários\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 100.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/70a98af6-3f92-4e4f-9311-01d316371b1f.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Instituto Monetário Europeu ([^2^](http://publications.europa.eu/resource/cellar/70a98af6-3f92-4e4f-9311-01d316371b1f.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/70a98af6-3f92-4e4f-9311-01d316371b1f.0018.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 189.ºB do Tratado ([^4^](http://publications.europa.eu/resource/cellar/70a98af6-3f92-4e4f-9311-01d316371b1f.0018.03/DOC_1#E0004)),\n\n(1) Considerando que o relatório Lamfalussy de 1990 dirigido aos governadores dos bancos centrais dos países do Grupo dos Dez demonstrou a importância dos riscos sistémicos inerentes aos sistemas de pagamentos que funcionam com base em vários tipos jurídicos de compensação *(netting)* de pagamentos, em particular os multilaterais; que a redução da incerteza jurídica associada à participação em sistemas com liquidação pelo valor bruto em tempo real é de uma importância fundamental, dado o crescente desenvolvimento desses sistemas;\n\n(2) Considerando que é também da máxima importância minorar os riscos associados à participação nos sistemas de liquidação de operações sobre valores mobiliários, em particular nos casos em que existe uma estreita ligação entre esses sistemas e os sistemas de pagamentos;\n\n(3) Considerando que a presente directiva se destina a contribuir para reforçar a eficácia do funcionamento dos mecanismos transfronteiras de pagamento e de liquidação de valores mobiliários na Comunidade, bem como para reduzir os seus custos, fortalecendo assim a liberdade de circulação de capitais no mercado interno; que a presente directiva se inscreve, portanto, no quadro dos progressos feitos no sentido da realização do mercado interno, nomeadamente no domínio da liberdade de prestação de serviços e da liberalização dos movimentos de capitais, com vista à realização da união económica e monetária;\n\n(4) Considerando que é desejável que a legislação dos Estados-membros vise minimizar as perturbações dos sistemas decorrentes de processos de falência intentados contra participantes nesses sistemas;\n\n(5) Considerando que continua pendente no Conselho uma proposta de directiva relativa ao saneamento e à liquidação das instituições de crédito, apresentada em 1985 e alterada em 8 de Fevereiro de 1988; que a Convenção relativa aos processos de falência, estabelecida em 23 de Novembro de 1995 pelos Estados-membros reunidos no Conselho, exclui expressamente do seu âmbito de aplicação as empresas de seguros, as instituições de crédito e as empresas de investimento;\n\n(6) Considerando que a presente directiva se destina a abranger os sistemas de pagamentos e de liquidação de operações sobre valores mobiliários, tanto nacionais como com um carácter transfronteiras; que a directiva é aplicável aos sistemas comunitários e às garantias constituídas pelos seus participantes, comunitários ou de países terceiros, no quadro da sua participação nesses sistemas;\n\n(7) Considerando que os Estados-membros podem aplicar as disposições da presente directiva às suas próprias instituições que participem directamente em sistemas de países terceiros e às garantias constituídas no quadro da participação nesses sistemas;\n\n(9) Considerando que a redução do risco sistémico requer, em especial, o carácter definitivo da liquidação e a exigibilidade das garantias constituídas; que, por garantia, se entende qualquer meio fornecido por um participante aos restantes participantes num sistema de pagamentos e/ou de liquidação de operações sobre valores mobiliários para garantir os direitos e obrigações decorrentes da participação nesse sistema, incluindo os contratos de reporte e similares, as garantias legais e as transferências fiduciárias; que a regulamentação, pelo direito nacional, dos tipos de garantias que podem ser utilizados não é afectada pela definição de garantia da presente directiva;\n\n(10) Considerando que a presente directiva, ao abranger as garantias constituídas no quadro das operações efectuadas pelos bancos centrais dos Estados-membros, na sua qualidade de bancos centrais, incluindo as operações de política monetária, apoia o Instituto Monetário Europeu nas suas funções de promover a eficácia dos pagamentos transfronteiras, na perspectiva da preparação da terceira fase da união económica e monetária, contribuindo desse modo para configurar o quadro jurídico de que deverá dispor o futuro Banco Central Europeu para realizar a sua política;\n\n(11) Considerando que deve ser garantida a produção de efeitos jurídicos das ordens de transferência e da sua compensação *(netting)* nas legislações de todos os Estados-membros, bem como a sua oponibilidade a terceiros;\n\n(12) Considerando que as disposições relativas ao carácter definitivo da compensação não devem obstar a que os sistemas verifiquem, antes de se efectuar a compensação, se as ordens que entraram no sistema obedecem às regras desse sistema e permitem a liquidação por esse sistema;\n\n(13) Considerando que a presente directiva não impede um participante ou um terceiro de exercerem, relativamente a uma ordem de transferência que tenha sido introduzida num sistema, qualquer direito ou qualquer pretensão a uma cobrança ou a uma restituição, decorrente da transacção subjacente, nomeadamente em caso de fraude ou de erro técnico, desde que esse direito ou pretensão não acarrete a reforma da compensação nem conduza à revogação da ordem de transferência no sistema;\n\n(14) Considerando que é necessário garantir que as ordens de transferência não possam ser revogadas após o momento definido pelas regras do sistema;\n\n(14-A) Considerando que as autoridades competentes nacionais ou os supervisores deverão assegurar que os operadores dos sistemas que integram o sistema interoperável acordem, na medida do possível, regras comuns relativas ao momento da introdução nos sistemas interoperáveis. As autoridades competentes nacionais ou os supervisores deverão assegurar que as regras relativas ao momento da introdução num sistema interoperável sejam coordenadas, na medida do possível e do necessário, para evitar a incerteza jurídica em caso de incumprimento de um sistema participante;\n\n(15) Considerando que é necessário que um Estado-membro notifique imediatamente os outros Estados-membros da abertura de um processo de falência contra um participante no sistema;\n\n(16) Considerando que os processos de falência não devem ter efeitos retroactivos sobre os direitos e obrigações dos participantes no sistema;\n\n(17) Considerando que a presente directiva tem ainda em vista determinar, em caso de abertura de um processo de falência contra um participante num sistema, a legislação sobre falência aplicável aos direitos e obrigações do participante decorrentes da sua participação nesse sistema;\n\n(18) Considerando que as garantias constituídas devem ser preservadas dos efeitos da legislação sobre falência aplicável ao participante insolvente;\n\n(19) Considerando que o disposto no n.º 2 do artigo 9.º é aplicável apenas a um registo, conta ou sistema de depósito centralizado que evidencie a existência de direitos sobre os valores em questão, ou a entrega ou transferência desses valores;\n\n(20) Considerando que o disposto no n.º 2 do artigo 9.º tem por objectivo assegurar que, se o participante, o banco central de um Estado-membro ou o futuro Banco Central Europeu beneficiar de uma garantia válida e eficaz ao abrigo da legislação do Estado-membro em que se situe o registo, conta ou sistema de depósito centralizado pertinente, a validade e a exigibilidade dessa garantia em relação a esse sistema, ao respectivo operador e a qualquer outra pessoa que reclame um crédito, directa ou indirectamente, através do sistema, serão determinadas unicamente pela legislação desse Estado-membro;\n\n(21) Considerando que o disposto no n.º 2 do artigo 9.º não tem por objectivo afectar a aplicação e os efeitos da legislação do Estado-membro em que os valores mobiliários estejam constituídos ou do Estado-membro em que esses valores possam de outra forma estar situados (incluindo, sem restrições, a legislação relativa à criação, propriedade ou transferência desses valores ou dos direitos sobre esses valores) e não pode ser interpretado como significando que uma garantia nos termos referidos será directamente exigível ou susceptível de ser reconhecida em qualquer um desses Estados-membros de um modo contrário à sua legislação;\n\n(22) Considerando que é desejável que os Estados-membros se esforcem por estabelecer ligações suficientes entre todos os sistemas de liquidação de valores mobiliários abrangidos pela presente directiva, a fim de promover a máxima transparência e segurança jurídica das transacções relativas a valores mobiliários;\n\n(22-A) Considerando que no caso dos sistemas interoperáveis, a falta de coordenação quanto a que regras relativas ao momento da introdução e da irrevogabilidade são aplicáveis pode expor os participantes de um sistema, ou mesmo o próprio operador do sistema, aos efeitos secundários de um incumprimento noutro sistema. Para limitar o risco sistémico, é conveniente estabelecer que os operadores de sistema de sistemas interoperáveis coordenem as regras relativas ao momento da introdução e da irrevogabilidade nos sistemas que operam;\n\n(23) Considerando que a adopção da presente directiva constitui a forma mais adequada de realizar os objectivos acima referidos, não excedendo o necessário para esse efeito,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "19572906891c0646": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO I"
+  },
+  "5ab355e9e3267ddf": {
+   "fragment_id": "ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ÂMBITO DE APLICAÇÃO E DEFINIÇÕES"
+  },
+  "11deba1c888465f4": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO disposto na presente directiva é aplicável:\n\na) A qualquer sistema, definido no artigo 2.º, alínea a), regulado pela legislação de um Estado-membro, que realize operações em qualquer moeda, em [**►M1**](http://publications.europa.eu/resource/celex/32009L0044) euro**◄** ou em várias moedas que o sistema converta entre si;\n\nb) A qualquer participante nesse sistema;\n\nc) Às garantias constituídas no quadro:\n\n— da participação num sistema, ou\n\n— das operações dos bancos centrais dos Estados-Membros ou do Banco Central Europeu, na sua qualidade de bancos centrais."
+  },
+  "25138579d636dbbc": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Sistema» um acordo formal:\n\n— entre três ou mais participantes, excluindo o operador desse sistema, um eventual agente de liquidação, uma eventual contraparte central, uma eventual câmara de compensação ou um eventual participante indirecto, com regras comuns e procedimentos padronizados para a compensação, através de uma contraparte central ou não, ou execução de ordens de transferência entre os participantes,\n\n— regulado pela legislação de um Estado-membro escolhida pelos participantes; contudo, os participantes apenas podem escolher a legislação de um Estado-membro em que pelo menos um deles tenha a sua sede e\n\n— designado, sem prejuízo de outras condições mais rigorosas de aplicação geral previstas na legislação nacional, como sistema e notificado à Comissão pelo Estado-membro cuja legislação é aplicável, depois de esse Estado-membro se ter certificado da adequação das regras do sistema.\n\nb) «Instituição»:\n\n— uma instituição de crédito, na acepção do n.º 1 do artigo 4.º da Directiva 2006/48/CE do Parlamento Europeu e do Conselho, de 14 de Junho de 2006, relativa ao acesso à actividade das instituições de crédito e ao seu exercício (reformulação) ([^5^](http://publications.europa.eu/resource/cellar/70a98af6-3f92-4e4f-9311-01d316371b1f.0018.03/DOC_1#E0005)), incluindo as instituições enumeradas no artigo 2.º da mesma directiva,\n\n— uma empresa de investimento, na acepção do ponto 1) do n.º 1 do artigo 4.º da Directiva 2004/39/CEdo Parlamento Europeu e do Conselho, de 21 de Abril de 2004, relativa aos mercados de instrumentos financeiros ([^6^](http://publications.europa.eu/resource/cellar/70a98af6-3f92-4e4f-9311-01d316371b1f.0018.03/DOC_1#E0006)), excluindo as instituições enumeradas no n.º 1 do artigo 2.º da mesma directiva,\n\n— um organismo público ou uma empresa que beneficie de garantia estatal, ou\n\n— qualquer empresa com sede fora da Comunidade e cujas funções correspondam às das instituições de crédito ou das empresas de investimento da Comunidade, na acepção do primeiro e segundo travessões,\n\nc) «Contraparte central»: uma entidade intermediária entre as instituições de um sistema e que actua como contraparte exclusiva dessas instituições no que respeita às suas ordens de transferência;\n\nd) «Agente de liquidação»: uma entidade que assegura, às instituições e/ou à contraparte central que participam nos sistemas, contas de liquidação, através das quais são liquidadas as ordens de transferência emitidas no quadro desses sistemas e que pode, eventualmente, conceder crédito a essas instituições e/ou contrapartes centrais para efeitos de liquidação;\n\ne) «Câmara de compensação»: uma entidade incumbida do cálculo das posições líquidas das instituições, uma eventual contraparte central e/ou um eventual agente de liquidação;\n\nf) [**►M1**](http://publications.europa.eu/resource/celex/32009L0044) «Participante»: uma instituição, uma contraparte central, um agente de liquidação, uma câmara de compensação ou um operador de sistema.**◄**\n\ng) «Participante indirecto»: uma instituição, uma contraparte central, um agente de liquidação, uma câmara de compensação ou um operador de sistema que tenha uma relação contratual com um participante num sistema que execute ordens de transferência, relação essa que permita ao participante indirecto executar ordens de transferência através do sistema, na condição de o participante indirecto ser conhecido do operador do sistema;\n\nh) «Valores mobiliários»: os instrumentos referidos na secção C do Anexo I da Directiva 2004/39/CE;\n\ni) «Ordem de transferência»:\n\n— uma instrução de um participante para colocar um certo montante pecuniário à disposição de um destinatário através do lançamento nas contas de uma instituição de crédito, de um banco central, de uma contraparte central ou de um agente de liquidação, ou uma instrução que resulte na assunção ou execução de uma obrigação de pagamento tal como definida pelas regras do sistema, ou\n\n— uma instrução de um participante para transferir a titularidade de um ou mais valores mobiliários ou o direito relativo a um ou mais valores mobiliários através da inscrição num registo, ou sob outra forma;\n\nj) «Processo de falência»: qualquer medida colectiva prevista na legislação de um Estado-membro ou de um país terceiro para efeitos da liquidação do participante ou da sua reestruturação, desde que tal medida implique a suspensão ou limitação das transferências ou pagamentos;\n\nk) «Compensação»*(netting)*: a conversão dos créditos e obrigações decorrentes de ordens de transferência que um ou mais participantes emitem a favor de outro ou outros participantes, ou que dele ou deles recebem, num único crédito (líquido ou numa única obrigação líquida, de forma que apenas será exigível esse crédito líquido ou devida essa obrigação líquida;\n\nl) «Conta de liquidação»: uma conta num banco central, num agente de liquidação ou numa contraparte central utilizada para depósito de fundos ou valores mobiliários ou para a liquidação de transacções entre participantes num sistema;\n\nm) «Garantia»: qualquer activo susceptível de execução, incluindo, sem restrições, as garantias financeiras a que se refere a alínea a) do n.º 4 do artigo 1.º da Directiva 2002/47/CE do Parlamento Europeu e do Conselho, de 6 de Junho de 2002, relativa aos acordos de garantia financeira ([^7^](http://publications.europa.eu/resource/cellar/70a98af6-3f92-4e4f-9311-01d316371b1f.0018.03/DOC_1#E0007)), dado em penhor (incluindo dinheiro dado em penhor), no âmbito de um contrato de reporte ou similar ou de qualquer outro modo, com o objectivo de garantir direitos e obrigações que possam eventualmente decorrer do funcionamento de um sistema, ou prestado aos bancos centrais dos Estados-Membros ou ao Banco Central Europeu;\n\nn) «Dia útil»: inclui as liquidações diurnas e nocturnas e engloba todos os acontecimentos ocorridos durante o ciclo de um sistema;\n\no) «Sistemas interoperáveis»: dois ou mais sistemas cujos operadores tenham celebrado entre si um acordo que implique a execução de ordens de transferência entre sistemas;\n\np) «Operador de sistema»: a entidade ou entidades legalmente responsáveis pelo funcionamento de um sistema. Os operadores de sistema podem também agir como agentes de liquidação, contrapartes centrais ou câmaras de compensação."
+  },
+  "0b50b9972a75b595": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO II"
+  },
+  "3563d4252f886f89": {
+   "fragment_id": "COMPENSAÇÃO E ORDENS DE TRANSFERÊNCIA",
+   "type": "divisao",
+   "heading": "COMPENSAÇÃO E ORDENS DE TRANSFERÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COMPENSAÇÃO E ORDENS DE TRANSFERÊNCIA"
+  },
+  "350afe33ce35244a": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As ordens de transferência e a compensação têm efeitos jurídicos e serão oponíveis a terceiros mesmo em caso de processo de falência contra um participante, desde que as ordens de transferência tenham sido introduzidas no sistema antes do momento da abertura do referido processo de falência na acepção do n.º 1 do artigo 6.º. A presente disposição aplica-se mesmo em caso de processo de falência contra um participante (no sistema em causa ou num sistema interoperável) ou contra o operador de sistema de um sistema interoperável que não seja participante.\n\nCaso as ordens de transferência tenham sido introduzidas no sistema após a abertura do processo de falência e tenham sido executadas no mesmo dia útil, tal como definido nas regras do sistema, em que ocorra essa abertura, só produzirão efeitos jurídicos e serão oponíveis a terceiros se o operador do sistema puder provar que, no momento em que as ordens de transferência em causa se tornaram irrevogáveis, não tinha conhecimento nem obrigação de ter conhecimento da abertura do processo de falência.\n\n2. Nenhuma lei, regulamento, regra ou prática em matéria de anulação de contratos e transacções celebrados antes do momento da abertura de um processo de falência tal como definido no n.º 1 do artigo 6.º pode conduzir à reforma de uma compensação.\n\n3. O momento da introdução de uma ordem de transferência num sistema será definido pelas regras aplicáveis desse sistema. Se o direito nacional previr condições que regulamentem o sistema quanto ao momento da introdução, as regras desse sistema devem estar em conformidade com essas condições.\n\n4. No caso dos sistemas interoperáveis, cada sistema determina nas suas próprias regras o momento da introdução no sistema, por forma a assegurar, na medida do possível, a coordenação a esse respeito das regras de todos os sistemas participantes nos sistemas interoperáveis envolvidos. A menos que as regras de todos os sistemas participantes nos sistemas interoperáveis em causa o prevejam expressamente, as regras de cada sistema relativas ao momento da introdução não são afectadas pelas regras dos outros sistemas com os quais o primeiro seja interoperável."
+  },
+  "fd4b28329b54a151": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros podem estabelecer que a abertura de um processo de falência contra um participante ou operador de sistema de um sistema interoperável não obste a que os fundos ou valores mobiliários disponíveis na conta de liquidação desse participante sejam utilizados para cumprir as respectivas obrigações no âmbito do sistema (ou de um sistema interoperável) no dia útil da abertura do processo de falência. Os Estados-Membros podem também prever que seja utilizada qualquer linha de crédito desse participante relacionada com o sistema, contra uma garantia existente e disponível, para lhe permitir cumprir as respectivas obrigações no âmbito do sistema (ou de um sistema interoperável)."
+  },
+  "d135593c0703511c": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nUma ordem de transferência não pode ser revogada por um participante no sistema, nem por terceiros, a partir do momento definido nas regras aplicáveis a esse sistema.\n\nNo caso dos sistemas interoperáveis, cada sistema determina nas suas próprias regras o momento da irrevogabilidade, por forma a assegurar, na medida do possível, a coordenação a esse respeito das regras de todos os sistemas interoperáveis envolvidos. A menos que as regras de todos os sistemas participantes nos sistemas interoperáveis em causa o prevejam expressamente, as regras de cada sistema relativas ao momento da irrevogabilidade não são afectadas pelas regras dos outros sistemas com os quais o primeiro seja interoperável."
+  },
+  "b4f1bfdbc841cf04": {
+   "fragment_id": "SECÇÃO III",
+   "type": "divisao",
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO III"
+  },
+  "727fde58b44d7396": {
+   "fragment_id": "DISPOSIÇÕES RELATIVAS AOS PROCESSOS DE FALÊNCIA",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES RELATIVAS AOS PROCESSOS DE FALÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES RELATIVAS AOS PROCESSOS DE FALÊNCIA"
+  },
+  "d13a9dc766cadc62": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Para efeitos da presente directiva, o momento da abertura de um processo de falência será o momento em que a autoridade judicial ou administrativa competente proferir a sua decisão.\n\n2. Quando for proferida uma decisão nos termos do n.º 1, a autoridade judicial ou administrativa competente notificará imediatamente essa decisão à autoridade competente designada pelo seu Estado-membro.\n\n3. O Estado-membro referido no n.º 2 notificará imediatamente os outros Estados-membros."
+  },
+  "16fa0df8320fa504": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs processos de falência não terão efeitos retroactivos sobre os direitos e obrigações dos participantes decorrentes da sua participação no sistema ou a ela associados antes do momento da abertura desse processo, na acepção do n.º 1 do artigo 6.º. A presente disposição aplica-se em especial aos direitos e obrigações dos participantes em sistemas interoperáveis ou dos operadores de sistema de sistemas interoperáveis que não sejam participantes."
+  },
+  "1eedb625773f0edb": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nSe for aberto um processo de falência de um participante num sistema, os direitos e obrigações decorrentes da sua participação ou associados a essa participação serão determinados pela legislação aplicável ao sistema."
+  },
+  "b9c1c438fac65788": {
+   "fragment_id": "SECÇÃO IV",
+   "type": "divisao",
+   "heading": "SECÇÃO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO IV"
+  },
+  "30127d281a3c1f1a": {
+   "fragment_id": "PRESERVAÇÃO DOS DIREITOS DOS TITULARES DE GARANTIAS CONTRA OS EFEITOS DA FALÊNCIA DA PARTE QUE CONSTITUIU AS GARANTIAS",
+   "type": "divisao",
+   "heading": "PRESERVAÇÃO DOS DIREITOS DOS TITULARES DE GARANTIAS CONTRA OS EFEITOS DA FALÊNCIA DA PARTE QUE CONSTITUIU AS GARANTIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRESERVAÇÃO DOS DIREITOS DOS TITULARES DE GARANTIAS CONTRA OS EFEITOS DA FALÊNCIA DA PARTE QUE CONSTITUIU AS GARANTIAS"
+  },
+  "b28929c754c792ad": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os direitos de um operador de sistema ou de um participante sobre as garantias constituídas a seu favor no quadro de um sistema ou de um sistema interoperável, bem como os direitos dos bancos centrais dos Estados-Membros ou do Banco Central Europeu sobre as garantias constituídas a seu favor, não são afectados por qualquer processo de falência contra:\n\na) O participante no sistema em causa ou num sistema interoperável;\n\nb) O operador de sistema de um sistema interoperável que não seja participante;\n\nc) Uma contraparte dos bancos centrais dos Estados-Membros ou do Banco Central Europeu; ou\n\nd) Qualquer terceiro que tenha constituído as garantias.\n\nAs garantias podem ser executadas para satisfação daqueles direitos.\n\n2. Caso sejam prestados valores mobiliários (incluindo direitos sobre valores mobiliários) como garantia aos participantes, aos operadores dos sistemas, aos bancos centrais dos Estados-Membros ou ao Banco Central Europeu nos termos referidos no n.º 1 e o direito destes (ou o de qualquer mandatário, agente ou terceiro agindo em seu nome) relativamente aos valores esteja legalmente inscrito num registo, conta ou sistema de depósito centralizado situado num Estado-Membro, a determinação dos direitos dessas entidades como titulares da garantia relativa a esses valores rege-se pela legislação desse Estado-Membro."
+  },
+  "184c1b7a3d24aa39": {
+   "fragment_id": "SECÇÃO V",
+   "type": "divisao",
+   "heading": "SECÇÃO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO V"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "bfbc6272286fbf51": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-Membros designam os sistemas, bem como os respectivos operadores, que devem ser abrangidos pelo âmbito de aplicação da presente directiva e deles notificam a Comissão; informam igualmente a Comissão das autoridades que tiverem designado nos termos do n.º 2 do artigo 6.º.\n\nO operador do sistema indica ao Estado-Membro cuja legislação seja aplicável quais os participantes no sistema, incluindo quaisquer eventuais participantes indirectos, assim como qualquer alteração que se verifique nesse âmbito.\n\nPara além da indicação prevista no segundo parágrafo, os Estados-Membros podem sujeitar os sistemas sob a sua jurisdição a supervisão ou autorização.\n\nAs instituições devem, a pedido de qualquer detentor de um interesse legítimo, informar este sobre os sistemas em que participam e sobre as disposições essenciais que regem o funcionamento desses sistemas.\n\n2. Os sistemas designados antes da entrada em vigor das disposições nacionais de transposição da Directiva 2009/44/CE do Parlamento Europeu e do Conselho, de 6 de Maio de 2009, que altera a Directiva 98/26/CE relativa ao carácter definitivo da liquidação nos sistemas de pagamentos e de liquidação de valores mobiliários e a Directiva 2002/47/CE relativa aos acordos de garantia financeira, no que diz respeito a sistemas ligados e a créditos sobre terceiros ([^8^](http://publications.europa.eu/resource/cellar/70a98af6-3f92-4e4f-9311-01d316371b1f.0018.03/DOC_1#E0008)), continuam a sê-lo para efeitos da presente directiva.\n\nAs ordens de transferência introduzidas num sistema antes da entrada em vigor das disposições nacionais de transposição da Directiva 2009/44/CE mas liquidadas posteriormente são consideradas ordens de transferência para efeitos da presente directiva."
+  },
+  "e92c46d92893f4b2": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 11 de Decembro de 1999. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva. Nas suas comunicações, os Estados-membros apresentarão um quadro de correspondências que indique as disposições nacionais em vigor ou que estejam a ser introduzidas que correspondem a cada um dos artigos da presente directiva."
+  },
+  "662d504815b97dbc": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO mais tardar três anos a contar da data referida no n.º 1 do artigo 11.º, a Comissão apresentará um relatório ao Parlamento Europeu e ao Conselho sobre a aplicação da presente directiva, acompanhado, se for caso disso, de propostas de revisão."
+  },
+  "c8c48c56297b2ea9": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "9c264c46c8c1b6fd": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n---"
+  },
+  "42f01bc3986d3e1a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/70a98af6-3f92-4e4f-9311-01d316371b1f.0018.03/DOC_1#src.E0001)) JO C 207 de 18.7.1996, p. 13 e JO C 259 de 26.8.1997, p. 6.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/70a98af6-3f92-4e4f-9311-01d316371b1f.0018.03/DOC_1#src.E0002)) Parecer emitido em 21 de Novembro de 1996.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/70a98af6-3f92-4e4f-9311-01d316371b1f.0018.03/DOC_1#src.E0003)) JO C 56 de 24.2.1997, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/70a98af6-3f92-4e4f-9311-01d316371b1f.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 9 de Abril de 1997 (JO C 132 de 28.4.1997, p. 74), posição comum do Conselho de 13 de Outubro de 1997 (JO C 375 de 10.12.1997, p. 34), e decisão do Parlamento Europeu de 29 de Janeiro de 1998, (JO C 56 de 23.2.1998). Decisão do Conselho de 27 de Abril de 1998.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/70a98af6-3f92-4e4f-9311-01d316371b1f.0018.03/DOC_1#src.E0005)) JO L 177 de 30.6.2006, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/70a98af6-3f92-4e4f-9311-01d316371b1f.0018.03/DOC_1#src.E0006)) JO L 145 de 30.4.2004, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/70a98af6-3f92-4e4f-9311-01d316371b1f.0018.03/DOC_1#src.E0007)) JO L 168 de 27.6.2002, p. 43.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/70a98af6-3f92-4e4f-9311-01d316371b1f.0018.03/DOC_1#src.E0008)) JO L 146 de 10.6.2009, p 37"
+  },
+  "b0129fe77f2dd445": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Maio 1998\n\nrelativa ao carácter definitivo da liquidação nos sistemas de pagamentos e de liquidação de valores mobiliários\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 100.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/b34a0eb8-daa3-4865-9d3f-b0f252adb9ad.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Instituto Monetário Europeu ([^2^](http://publications.europa.eu/resource/cellar/b34a0eb8-daa3-4865-9d3f-b0f252adb9ad.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/b34a0eb8-daa3-4865-9d3f-b0f252adb9ad.0018.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 189.ºB do Tratado ([^4^](http://publications.europa.eu/resource/cellar/b34a0eb8-daa3-4865-9d3f-b0f252adb9ad.0018.03/DOC_1#E0004)),\n\n(1) Considerando que o relatório Lamfalussy de 1990 dirigido aos governadores dos bancos centrais dos países do Grupo dos Dez demonstrou a importância dos riscos sistémicos inerentes aos sistemas de pagamentos que funcionam com base em vários tipos jurídicos de compensação *(netting)* de pagamentos, em particular os multilaterais; que a redução da incerteza jurídica associada à participação em sistemas com liquidação pelo valor bruto em tempo real é de uma importância fundamental, dado o crescente desenvolvimento desses sistemas;\n\n(2) Considerando que é também da máxima importância minorar os riscos associados à participação nos sistemas de liquidação de operações sobre valores mobiliários, em particular nos casos em que existe uma estreita ligação entre esses sistemas e os sistemas de pagamentos;\n\n(3) Considerando que a presente directiva se destina a contribuir para reforçar a eficácia do funcionamento dos mecanismos transfronteiras de pagamento e de liquidação de valores mobiliários na Comunidade, bem como para reduzir os seus custos, fortalecendo assim a liberdade de circulação de capitais no mercado interno; que a presente directiva se inscreve, portanto, no quadro dos progressos feitos no sentido da realização do mercado interno, nomeadamente no domínio da liberdade de prestação de serviços e da liberalização dos movimentos de capitais, com vista à realização da união económica e monetária;\n\n(4) Considerando que é desejável que a legislação dos Estados-membros vise minimizar as perturbações dos sistemas decorrentes de processos de falência intentados contra participantes nesses sistemas;\n\n(5) Considerando que continua pendente no Conselho uma proposta de directiva relativa ao saneamento e à liquidação das instituições de crédito, apresentada em 1985 e alterada em 8 de Fevereiro de 1988; que a Convenção relativa aos processos de falência, estabelecida em 23 de Novembro de 1995 pelos Estados-membros reunidos no Conselho, exclui expressamente do seu âmbito de aplicação as empresas de seguros, as instituições de crédito e as empresas de investimento;\n\n(6) Considerando que a presente directiva se destina a abranger os sistemas de pagamentos e de liquidação de operações sobre valores mobiliários, tanto nacionais como com um carácter transfronteiras; que a directiva é aplicável aos sistemas comunitários e às garantias constituídas pelos seus participantes, comunitários ou de países terceiros, no quadro da sua participação nesses sistemas;\n\n(7) Considerando que os Estados-membros podem aplicar as disposições da presente directiva às suas próprias instituições que participem directamente em sistemas de países terceiros e às garantias constituídas no quadro da participação nesses sistemas;\n\n(9) Considerando que a redução do risco sistémico requer, em especial, o carácter definitivo da liquidação e a exigibilidade das garantias constituídas; que, por garantia, se entende qualquer meio fornecido por um participante aos restantes participantes num sistema de pagamentos e/ou de liquidação de operações sobre valores mobiliários para garantir os direitos e obrigações decorrentes da participação nesse sistema, incluindo os contratos de reporte e similares, as garantias legais e as transferências fiduciárias; que a regulamentação, pelo direito nacional, dos tipos de garantias que podem ser utilizados não é afectada pela definição de garantia da presente directiva;\n\n(10) Considerando que a presente directiva, ao abranger as garantias constituídas no quadro das operações efectuadas pelos bancos centrais dos Estados-membros, na sua qualidade de bancos centrais, incluindo as operações de política monetária, apoia o Instituto Monetário Europeu nas suas funções de promover a eficácia dos pagamentos transfronteiras, na perspectiva da preparação da terceira fase da união económica e monetária, contribuindo desse modo para configurar o quadro jurídico de que deverá dispor o futuro Banco Central Europeu para realizar a sua política;\n\n(11) Considerando que deve ser garantida a produção de efeitos jurídicos das ordens de transferência e da sua compensação *(netting)* nas legislações de todos os Estados-membros, bem como a sua oponibilidade a terceiros;\n\n(12) Considerando que as disposições relativas ao carácter definitivo da compensação não devem obstar a que os sistemas verifiquem, antes de se efectuar a compensação, se as ordens que entraram no sistema obedecem às regras desse sistema e permitem a liquidação por esse sistema;\n\n(13) Considerando que a presente directiva não impede um participante ou um terceiro de exercerem, relativamente a uma ordem de transferência que tenha sido introduzida num sistema, qualquer direito ou qualquer pretensão a uma cobrança ou a uma restituição, decorrente da transacção subjacente, nomeadamente em caso de fraude ou de erro técnico, desde que esse direito ou pretensão não acarrete a reforma da compensação nem conduza à revogação da ordem de transferência no sistema;\n\n(14) Considerando que é necessário garantir que as ordens de transferência não possam ser revogadas após o momento definido pelas regras do sistema;\n\n(14-A) Considerando que as autoridades competentes nacionais ou os supervisores deverão assegurar que os operadores dos sistemas que integram o sistema interoperável acordem, na medida do possível, regras comuns relativas ao momento da introdução nos sistemas interoperáveis. As autoridades competentes nacionais ou os supervisores deverão assegurar que as regras relativas ao momento da introdução num sistema interoperável sejam coordenadas, na medida do possível e do necessário, para evitar a incerteza jurídica em caso de incumprimento de um sistema participante;\n\n(15) Considerando que é necessário que um Estado-membro notifique imediatamente os outros Estados-membros da abertura de um processo de falência contra um participante no sistema;\n\n(16) Considerando que os processos de falência não devem ter efeitos retroactivos sobre os direitos e obrigações dos participantes no sistema;\n\n(17) Considerando que a presente directiva tem ainda em vista determinar, em caso de abertura de um processo de falência contra um participante num sistema, a legislação sobre falência aplicável aos direitos e obrigações do participante decorrentes da sua participação nesse sistema;\n\n(18) Considerando que as garantias constituídas devem ser preservadas dos efeitos da legislação sobre falência aplicável ao participante insolvente;\n\n(19) Considerando que o disposto no n.º 2 do artigo 9.º é aplicável apenas a um registo, conta ou sistema de depósito centralizado que evidencie a existência de direitos sobre os valores em questão, ou a entrega ou transferência desses valores;\n\n(20) Considerando que o disposto no n.º 2 do artigo 9.º tem por objectivo assegurar que, se o participante, o banco central de um Estado-membro ou o futuro Banco Central Europeu beneficiar de uma garantia válida e eficaz ao abrigo da legislação do Estado-membro em que se situe o registo, conta ou sistema de depósito centralizado pertinente, a validade e a exigibilidade dessa garantia em relação a esse sistema, ao respectivo operador e a qualquer outra pessoa que reclame um crédito, directa ou indirectamente, através do sistema, serão determinadas unicamente pela legislação desse Estado-membro;\n\n(21) Considerando que o disposto no n.º 2 do artigo 9.º não tem por objectivo afectar a aplicação e os efeitos da legislação do Estado-membro em que os valores mobiliários estejam constituídos ou do Estado-membro em que esses valores possam de outra forma estar situados (incluindo, sem restrições, a legislação relativa à criação, propriedade ou transferência desses valores ou dos direitos sobre esses valores) e não pode ser interpretado como significando que uma garantia nos termos referidos será directamente exigível ou susceptível de ser reconhecida em qualquer um desses Estados-membros de um modo contrário à sua legislação;\n\n(22) Considerando que é desejável que os Estados-membros se esforcem por estabelecer ligações suficientes entre todos os sistemas de liquidação de valores mobiliários abrangidos pela presente directiva, a fim de promover a máxima transparência e segurança jurídica das transacções relativas a valores mobiliários;\n\n(22-A) Considerando que no caso dos sistemas interoperáveis, a falta de coordenação quanto a que regras relativas ao momento da introdução e da irrevogabilidade são aplicáveis pode expor os participantes de um sistema, ou mesmo o próprio operador do sistema, aos efeitos secundários de um incumprimento noutro sistema. Para limitar o risco sistémico, é conveniente estabelecer que os operadores de sistema de sistemas interoperáveis coordenem as regras relativas ao momento da introdução e da irrevogabilidade nos sistemas que operam;\n\n(23) Considerando que a adopção da presente directiva constitui a forma mais adequada de realizar os objectivos acima referidos, não excedendo o necessário para esse efeito,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "06eee40dc50ad852": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Sistema» um acordo formal:\n\n— entre três ou mais participantes, excluindo o operador desse sistema, um eventual agente de liquidação, uma eventual contraparte central, uma eventual câmara de compensação ou um eventual participante indirecto, com regras comuns e procedimentos padronizados para a compensação, através de uma contraparte central ou não, ou execução de ordens de transferência entre os participantes,\n\n— regulado pela legislação de um Estado-membro escolhida pelos participantes; contudo, os participantes apenas podem escolher a legislação de um Estado-membro em que pelo menos um deles tenha a sua sede e\n\n— designado, sem prejuízo de outras condições mais rigorosas de aplicação geral previstas na legislação nacional, como sistema e notificado à Comissão pelo Estado-membro cuja legislação é aplicável, depois de esse Estado-membro se ter certificado da adequação das regras do sistema.\n\nb) «Instituição»:\n\n— uma instituição de crédito, na acepção do n.º 1 do artigo 4.º da Directiva 2006/48/CE do Parlamento Europeu e do Conselho, de 14 de Junho de 2006, relativa ao acesso à actividade das instituições de crédito e ao seu exercício (reformulação) ([^5^](http://publications.europa.eu/resource/cellar/b34a0eb8-daa3-4865-9d3f-b0f252adb9ad.0018.03/DOC_1#E0005)), incluindo as instituições enumeradas no artigo 2.º da mesma directiva,\n\n— uma empresa de investimento, na acepção do ponto 1) do n.º 1 do artigo 4.º da Directiva 2004/39/CEdo Parlamento Europeu e do Conselho, de 21 de Abril de 2004, relativa aos mercados de instrumentos financeiros ([^6^](http://publications.europa.eu/resource/cellar/b34a0eb8-daa3-4865-9d3f-b0f252adb9ad.0018.03/DOC_1#E0006)), excluindo as instituições enumeradas no n.º 1 do artigo 2.º da mesma directiva,\n\n— um organismo público ou uma empresa que beneficie de garantia estatal, ou\n\n— qualquer empresa com sede fora da Comunidade e cujas funções correspondam às das instituições de crédito ou das empresas de investimento da Comunidade, na acepção do primeiro e segundo travessões,\n\nc) «Contraparte central»: uma entidade intermediária entre as instituições de um sistema e que actua como contraparte exclusiva dessas instituições no que respeita às suas ordens de transferência;\n\nd) «Agente de liquidação»: uma entidade que assegura, às instituições e/ou à contraparte central que participam nos sistemas, contas de liquidação, através das quais são liquidadas as ordens de transferência emitidas no quadro desses sistemas e que pode, eventualmente, conceder crédito a essas instituições e/ou contrapartes centrais para efeitos de liquidação;\n\ne) «Câmara de compensação»: uma entidade incumbida do cálculo das posições líquidas das instituições, uma eventual contraparte central e/ou um eventual agente de liquidação;\n\nf) [**►M1**](http://publications.europa.eu/resource/celex/32009L0044) «Participante»: uma instituição, uma contraparte central, um agente de liquidação, uma câmara de compensação ou um operador de sistema.**◄**\n\ng) «Participante indirecto»: uma instituição, uma contraparte central, um agente de liquidação, uma câmara de compensação ou um operador de sistema que tenha uma relação contratual com um participante num sistema que execute ordens de transferência, relação essa que permita ao participante indirecto executar ordens de transferência através do sistema, na condição de o participante indirecto ser conhecido do operador do sistema;\n\nh) «Valores mobiliários»: os instrumentos referidos na secção C do Anexo I da Directiva 2004/39/CE;\n\ni) «Ordem de transferência»:\n\n— uma instrução de um participante para colocar um certo montante pecuniário à disposição de um destinatário através do lançamento nas contas de uma instituição de crédito, de um banco central, de uma contraparte central ou de um agente de liquidação, ou uma instrução que resulte na assunção ou execução de uma obrigação de pagamento tal como definida pelas regras do sistema, ou\n\n— uma instrução de um participante para transferir a titularidade de um ou mais valores mobiliários ou o direito relativo a um ou mais valores mobiliários através da inscrição num registo, ou sob outra forma;\n\nj) «Processo de falência»: qualquer medida colectiva prevista na legislação de um Estado-membro ou de um país terceiro para efeitos da liquidação do participante ou da sua reestruturação, desde que tal medida implique a suspensão ou limitação das transferências ou pagamentos;\n\nk) «Compensação»*(netting)*: a conversão dos créditos e obrigações decorrentes de ordens de transferência que um ou mais participantes emitem a favor de outro ou outros participantes, ou que dele ou deles recebem, num único crédito (líquido ou numa única obrigação líquida, de forma que apenas será exigível esse crédito líquido ou devida essa obrigação líquida;\n\nl) «Conta de liquidação»: uma conta num banco central, num agente de liquidação ou numa contraparte central utilizada para depósito de fundos ou valores mobiliários ou para a liquidação de transacções entre participantes num sistema;\n\nm) «Garantia»: qualquer activo susceptível de execução, incluindo, sem restrições, as garantias financeiras a que se refere a alínea a) do n.º 4 do artigo 1.º da Directiva 2002/47/CE do Parlamento Europeu e do Conselho, de 6 de Junho de 2002, relativa aos acordos de garantia financeira ([^7^](http://publications.europa.eu/resource/cellar/b34a0eb8-daa3-4865-9d3f-b0f252adb9ad.0018.03/DOC_1#E0007)), dado em penhor (incluindo dinheiro dado em penhor), no âmbito de um contrato de reporte ou similar ou de qualquer outro modo, com o objectivo de garantir direitos e obrigações que possam eventualmente decorrer do funcionamento de um sistema, ou prestado aos bancos centrais dos Estados-Membros ou ao Banco Central Europeu;\n\nn) «Dia útil»: inclui as liquidações diurnas e nocturnas e engloba todos os acontecimentos ocorridos durante o ciclo de um sistema;\n\no) «Sistemas interoperáveis»: dois ou mais sistemas cujos operadores tenham celebrado entre si um acordo que implique a execução de ordens de transferência entre sistemas;\n\np) «Operador de sistema»: a entidade ou entidades legalmente responsáveis pelo funcionamento de um sistema. Os operadores de sistema podem também agir como agentes de liquidação, contrapartes centrais ou câmaras de compensação."
+  },
+  "6b3a5d8267f92e2a": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As ordens de transferência e a compensação têm efeitos jurídicos e serão oponíveis a terceiros mesmo em caso de processo de falência contra um participante, desde que as ordens de transferência tenham sido introduzidas no sistema antes do momento da abertura do referido processo de falência na acepção do n.º 1 do artigo 6.º. A presente disposição aplica-se mesmo em caso de processo de falência contra um participante (no sistema em causa ou num sistema interoperável) ou contra o operador de sistema de um sistema interoperável que não seja participante.\n\n1. Caso as ordens de transferência tenham sido introduzidas no sistema após a abertura do processo de falência e tenham sido executadas no mesmo dia útil, tal como definido nas regras do sistema, em que ocorra essa abertura, só produzirão efeitos jurídicos e serão oponíveis a terceiros se o operador do sistema puder provar que, no momento em que as ordens de transferência em causa se tornaram irrevogáveis, não tinha conhecimento nem obrigação de ter conhecimento da abertura do processo de falência.\n\n2. Nenhuma lei, regulamento, regra ou prática em matéria de anulação de contratos e transacções celebrados antes do momento da abertura de um processo de falência tal como definido no n.º 1 do artigo 6.º pode conduzir à reforma de uma compensação.\n\n3. O momento da introdução de uma ordem de transferência num sistema será definido pelas regras aplicáveis desse sistema. Se o direito nacional previr condições que regulamentem o sistema quanto ao momento da introdução, as regras desse sistema devem estar em conformidade com essas condições.\n\n4. No caso dos sistemas interoperáveis, cada sistema determina nas suas próprias regras o momento da introdução no sistema, por forma a assegurar, na medida do possível, a coordenação a esse respeito das regras de todos os sistemas participantes nos sistemas interoperáveis envolvidos. A menos que as regras de todos os sistemas participantes nos sistemas interoperáveis em causa o prevejam expressamente, as regras de cada sistema relativas ao momento da introdução não são afectadas pelas regras dos outros sistemas com os quais o primeiro seja interoperável."
+  },
+  "b8149c86833dff9d": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Para efeitos da presente directiva, o momento da abertura de um processo de falência será o momento em que a autoridade judicial ou administrativa competente proferir a sua decisão.\n\n2. Quando for proferida uma decisão nos termos do n.º 1, a autoridade judicial ou administrativa competente notificará imediatamente essa decisão à autoridade competente designada pelo seu Estado-membro.\n\n3. O Estado-Membro referido no n.º 2 notifica imediatamente o Comité Europeu do Risco Sistémico, os outros Estados-Membros e a Autoridade Europeia de Supervisão (Autoridade Europeia dos Valores Mobiliários e dos Mercados) (a seguir designada «ESMA») criada pelo Regulamento (UE) n.º 1095/2010 do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/b34a0eb8-daa3-4865-9d3f-b0f252adb9ad.0018.03/DOC_1#E0008))."
+  },
+  "0fe12801caf46c18": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os direitos de um operador de sistema ou de um participante sobre as garantias constituídas a seu favor no quadro de um sistema ou de um sistema interoperável, bem como os direitos dos bancos centrais dos Estados-Membros ou do Banco Central Europeu sobre as garantias constituídas a seu favor, não são afectados por qualquer processo de falência contra:\n\na) O participante no sistema em causa ou num sistema interoperável;\n\nb) O operador de sistema de um sistema interoperável que não seja participante;\n\nc) Uma contraparte dos bancos centrais dos Estados-Membros ou do Banco Central Europeu; ou\n\nd) Qualquer terceiro que tenha constituído as garantias.\n\n1. As garantias podem ser executadas para satisfação daqueles direitos.\n\n2. Caso sejam prestados valores mobiliários (incluindo direitos sobre valores mobiliários) como garantia aos participantes, aos operadores dos sistemas, aos bancos centrais dos Estados-Membros ou ao Banco Central Europeu nos termos referidos no n.º 1 e o direito destes (ou o de qualquer mandatário, agente ou terceiro agindo em seu nome) relativamente aos valores esteja legalmente inscrito num registo, conta ou sistema de depósito centralizado situado num Estado-Membro, a determinação dos direitos dessas entidades como titulares da garantia relativa a esses valores rege-se pela legislação desse Estado-Membro."
+  },
+  "0e65d89906031271": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-Membros designam os sistemas, bem como os respectivos operadores, que devem ser abrangidos pela presente directiva e deles notificam a ESMA, informando igualmente esta última das autoridades que tiverem designado nos termos do n.º 2 do artigo 6.º. A ESMA publica estas informações no seu sítio Web.\n\n1. O operador do sistema indica ao Estado-Membro cuja legislação seja aplicável quais os participantes no sistema, incluindo quaisquer eventuais participantes indirectos, assim como qualquer alteração que se verifique nesse âmbito.\n\n1. Para além da indicação prevista no segundo parágrafo, os Estados-Membros podem sujeitar os sistemas sob a sua jurisdição a supervisão ou autorização.\n\n1. As instituições devem, a pedido de qualquer detentor de um interesse legítimo, informar este sobre os sistemas em que participam e sobre as disposições essenciais que regem o funcionamento desses sistemas.\n\n2. Os sistemas designados antes da entrada em vigor das disposições nacionais de transposição da Directiva 2009/44/CE do Parlamento Europeu e do Conselho, de 6 de Maio de 2009, que altera a Directiva 98/26/CE relativa ao carácter definitivo da liquidação nos sistemas de pagamentos e de liquidação de valores mobiliários e a Directiva 2002/47/CE relativa aos acordos de garantia financeira, no que diz respeito a sistemas ligados e a créditos sobre terceiros ([^9^](http://publications.europa.eu/resource/cellar/b34a0eb8-daa3-4865-9d3f-b0f252adb9ad.0018.03/DOC_1#E0009)), continuam a sê-lo para efeitos da presente directiva.\n\n2. As ordens de transferência introduzidas num sistema antes da entrada em vigor das disposições nacionais de transposição da Directiva 2009/44/CE mas liquidadas posteriormente são consideradas ordens de transferência para efeitos da presente directiva."
+  },
+  "99e896c4b811f8a5": {
+   "fragment_id": "Artigo 10.ºA",
+   "type": "artigo",
+   "heading": "Artigo 10.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.ºA\n\n1. As autoridades competentes devem cooperar com a ESMA para efeitos da presente directiva, nos termos do Regulamento (UE) n.º 1095/2010.\n\n2. As autoridades competentes devem facultar, sem demora, à ESMA todas as informações necessárias ao cumprimento das suas obrigações, nos termos do artigo 35.º do Regulamento (UE) n.º 1095/2010."
+  },
+  "7b3fac91cb9311e6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b34a0eb8-daa3-4865-9d3f-b0f252adb9ad.0018.03/DOC_1#src.E0001)) JO C 207 de 18.7.1996, p. 13 e JO C 259 de 26.8.1997, p. 6.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b34a0eb8-daa3-4865-9d3f-b0f252adb9ad.0018.03/DOC_1#src.E0002)) Parecer emitido em 21 de Novembro de 1996.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b34a0eb8-daa3-4865-9d3f-b0f252adb9ad.0018.03/DOC_1#src.E0003)) JO C 56 de 24.2.1997, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b34a0eb8-daa3-4865-9d3f-b0f252adb9ad.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 9 de Abril de 1997 (JO C 132 de 28.4.1997, p. 74), posição comum do Conselho de 13 de Outubro de 1997 (JO C 375 de 10.12.1997, p. 34), e decisão do Parlamento Europeu de 29 de Janeiro de 1998, (JO C 56 de 23.2.1998). Decisão do Conselho de 27 de Abril de 1998.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b34a0eb8-daa3-4865-9d3f-b0f252adb9ad.0018.03/DOC_1#src.E0005)) JO L 177 de 30.6.2006, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b34a0eb8-daa3-4865-9d3f-b0f252adb9ad.0018.03/DOC_1#src.E0006)) JO L 145 de 30.4.2004, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b34a0eb8-daa3-4865-9d3f-b0f252adb9ad.0018.03/DOC_1#src.E0007)) JO L 168 de 27.6.2002, p. 43.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/b34a0eb8-daa3-4865-9d3f-b0f252adb9ad.0018.03/DOC_1#src.E0008)) JO L 331 de 15.12.2010, p. 84.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/b34a0eb8-daa3-4865-9d3f-b0f252adb9ad.0018.03/DOC_1#src.E0009)) JO L 146 de 10.6.2009, p 37"
+  },
+  "22fb888cd3b10d68": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Maio 1998\n\nrelativa ao carácter definitivo da liquidação nos sistemas de pagamentos e de liquidação de valores mobiliários\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 100.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/f79fbc1c-c835-4fec-bd12-d8dbb4b06a4b.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Instituto Monetário Europeu ([^2^](http://publications.europa.eu/resource/cellar/f79fbc1c-c835-4fec-bd12-d8dbb4b06a4b.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/f79fbc1c-c835-4fec-bd12-d8dbb4b06a4b.0018.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 189.ºB do Tratado ([^4^](http://publications.europa.eu/resource/cellar/f79fbc1c-c835-4fec-bd12-d8dbb4b06a4b.0018.03/DOC_1#E0004)),\n\n(1) Considerando que o relatório Lamfalussy de 1990 dirigido aos governadores dos bancos centrais dos países do Grupo dos Dez demonstrou a importância dos riscos sistémicos inerentes aos sistemas de pagamentos que funcionam com base em vários tipos jurídicos de compensação *(netting)* de pagamentos, em particular os multilaterais; que a redução da incerteza jurídica associada à participação em sistemas com liquidação pelo valor bruto em tempo real é de uma importância fundamental, dado o crescente desenvolvimento desses sistemas;\n\n(2) Considerando que é também da máxima importância minorar os riscos associados à participação nos sistemas de liquidação de operações sobre valores mobiliários, em particular nos casos em que existe uma estreita ligação entre esses sistemas e os sistemas de pagamentos;\n\n(3) Considerando que a presente directiva se destina a contribuir para reforçar a eficácia do funcionamento dos mecanismos transfronteiras de pagamento e de liquidação de valores mobiliários na Comunidade, bem como para reduzir os seus custos, fortalecendo assim a liberdade de circulação de capitais no mercado interno; que a presente directiva se inscreve, portanto, no quadro dos progressos feitos no sentido da realização do mercado interno, nomeadamente no domínio da liberdade de prestação de serviços e da liberalização dos movimentos de capitais, com vista à realização da união económica e monetária;\n\n(4) Considerando que é desejável que a legislação dos Estados-membros vise minimizar as perturbações dos sistemas decorrentes de processos de falência intentados contra participantes nesses sistemas;\n\n(5) Considerando que continua pendente no Conselho uma proposta de directiva relativa ao saneamento e à liquidação das instituições de crédito, apresentada em 1985 e alterada em 8 de Fevereiro de 1988; que a Convenção relativa aos processos de falência, estabelecida em 23 de Novembro de 1995 pelos Estados-membros reunidos no Conselho, exclui expressamente do seu âmbito de aplicação as empresas de seguros, as instituições de crédito e as empresas de investimento;\n\n(6) Considerando que a presente directiva se destina a abranger os sistemas de pagamentos e de liquidação de operações sobre valores mobiliários, tanto nacionais como com um carácter transfronteiras; que a directiva é aplicável aos sistemas comunitários e às garantias constituídas pelos seus participantes, comunitários ou de países terceiros, no quadro da sua participação nesses sistemas;\n\n(7) Considerando que os Estados-membros podem aplicar as disposições da presente directiva às suas próprias instituições que participem directamente em sistemas de países terceiros e às garantias constituídas no quadro da participação nesses sistemas;\n\n(9) Considerando que a redução do risco sistémico requer, em especial, o carácter definitivo da liquidação e a exigibilidade das garantias constituídas; que, por garantia, se entende qualquer meio fornecido por um participante aos restantes participantes num sistema de pagamentos e/ou de liquidação de operações sobre valores mobiliários para garantir os direitos e obrigações decorrentes da participação nesse sistema, incluindo os contratos de reporte e similares, as garantias legais e as transferências fiduciárias; que a regulamentação, pelo direito nacional, dos tipos de garantias que podem ser utilizados não é afectada pela definição de garantia da presente directiva;\n\n(10) Considerando que a presente directiva, ao abranger as garantias constituídas no quadro das operações efectuadas pelos bancos centrais dos Estados-membros, na sua qualidade de bancos centrais, incluindo as operações de política monetária, apoia o Instituto Monetário Europeu nas suas funções de promover a eficácia dos pagamentos transfronteiras, na perspectiva da preparação da terceira fase da união económica e monetária, contribuindo desse modo para configurar o quadro jurídico de que deverá dispor o futuro Banco Central Europeu para realizar a sua política;\n\n(11) Considerando que deve ser garantida a produção de efeitos jurídicos das ordens de transferência e da sua compensação *(netting)* nas legislações de todos os Estados-membros, bem como a sua oponibilidade a terceiros;\n\n(12) Considerando que as disposições relativas ao carácter definitivo da compensação não devem obstar a que os sistemas verifiquem, antes de se efectuar a compensação, se as ordens que entraram no sistema obedecem às regras desse sistema e permitem a liquidação por esse sistema;\n\n(13) Considerando que a presente directiva não impede um participante ou um terceiro de exercerem, relativamente a uma ordem de transferência que tenha sido introduzida num sistema, qualquer direito ou qualquer pretensão a uma cobrança ou a uma restituição, decorrente da transacção subjacente, nomeadamente em caso de fraude ou de erro técnico, desde que esse direito ou pretensão não acarrete a reforma da compensação nem conduza à revogação da ordem de transferência no sistema;\n\n(14) Considerando que é necessário garantir que as ordens de transferência não possam ser revogadas após o momento definido pelas regras do sistema;\n\n(14-A) Considerando que as autoridades competentes nacionais ou os supervisores deverão assegurar que os operadores dos sistemas que integram o sistema interoperável acordem, na medida do possível, regras comuns relativas ao momento da introdução nos sistemas interoperáveis. As autoridades competentes nacionais ou os supervisores deverão assegurar que as regras relativas ao momento da introdução num sistema interoperável sejam coordenadas, na medida do possível e do necessário, para evitar a incerteza jurídica em caso de incumprimento de um sistema participante;\n\n(15) Considerando que é necessário que um Estado-membro notifique imediatamente os outros Estados-membros da abertura de um processo de falência contra um participante no sistema;\n\n(16) Considerando que os processos de falência não devem ter efeitos retroactivos sobre os direitos e obrigações dos participantes no sistema;\n\n(17) Considerando que a presente directiva tem ainda em vista determinar, em caso de abertura de um processo de falência contra um participante num sistema, a legislação sobre falência aplicável aos direitos e obrigações do participante decorrentes da sua participação nesse sistema;\n\n(18) Considerando que as garantias constituídas devem ser preservadas dos efeitos da legislação sobre falência aplicável ao participante insolvente;\n\n(19) Considerando que o disposto no n.º 2 do artigo 9.º é aplicável apenas a um registo, conta ou sistema de depósito centralizado que evidencie a existência de direitos sobre os valores em questão, ou a entrega ou transferência desses valores;\n\n(20) Considerando que o disposto no n.º 2 do artigo 9.º tem por objectivo assegurar que, se o participante, o banco central de um Estado-membro ou o futuro Banco Central Europeu beneficiar de uma garantia válida e eficaz ao abrigo da legislação do Estado-membro em que se situe o registo, conta ou sistema de depósito centralizado pertinente, a validade e a exigibilidade dessa garantia em relação a esse sistema, ao respectivo operador e a qualquer outra pessoa que reclame um crédito, directa ou indirectamente, através do sistema, serão determinadas unicamente pela legislação desse Estado-membro;\n\n(21) Considerando que o disposto no n.º 2 do artigo 9.º não tem por objectivo afectar a aplicação e os efeitos da legislação do Estado-membro em que os valores mobiliários estejam constituídos ou do Estado-membro em que esses valores possam de outra forma estar situados (incluindo, sem restrições, a legislação relativa à criação, propriedade ou transferência desses valores ou dos direitos sobre esses valores) e não pode ser interpretado como significando que uma garantia nos termos referidos será directamente exigível ou susceptível de ser reconhecida em qualquer um desses Estados-membros de um modo contrário à sua legislação;\n\n(22) Considerando que é desejável que os Estados-membros se esforcem por estabelecer ligações suficientes entre todos os sistemas de liquidação de valores mobiliários abrangidos pela presente directiva, a fim de promover a máxima transparência e segurança jurídica das transacções relativas a valores mobiliários;\n\n(22-A) Considerando que no caso dos sistemas interoperáveis, a falta de coordenação quanto a que regras relativas ao momento da introdução e da irrevogabilidade são aplicáveis pode expor os participantes de um sistema, ou mesmo o próprio operador do sistema, aos efeitos secundários de um incumprimento noutro sistema. Para limitar o risco sistémico, é conveniente estabelecer que os operadores de sistema de sistemas interoperáveis coordenem as regras relativas ao momento da introdução e da irrevogabilidade nos sistemas que operam;\n\n(23) Considerando que a adopção da presente directiva constitui a forma mais adequada de realizar os objectivos acima referidos, não excedendo o necessário para esse efeito,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "4de31225f50e9b8f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Sistema» um acordo formal:\n\n— entre três ou mais participantes, excluindo o operador desse sistema, um eventual agente de liquidação, uma eventual contraparte central, uma eventual câmara de compensação ou um eventual participante indirecto, com regras comuns e procedimentos padronizados para a compensação, através de uma contraparte central ou não, ou execução de ordens de transferência entre os participantes,\n\n— regulado pela legislação de um Estado-membro escolhida pelos participantes; contudo, os participantes apenas podem escolher a legislação de um Estado-membro em que pelo menos um deles tenha a sua sede e\n\n— designado, sem prejuízo de outras condições mais rigorosas de aplicação geral previstas na legislação nacional, como sistema e notificado à Comissão pelo Estado-membro cuja legislação é aplicável, depois de esse Estado-membro se ter certificado da adequação das regras do sistema.\n\nb) «Instituição»:\n\n— uma instituição de crédito, na acepção do n.º 1 do artigo 4.º da Directiva 2006/48/CE do Parlamento Europeu e do Conselho, de 14 de Junho de 2006, relativa ao acesso à actividade das instituições de crédito e ao seu exercício (reformulação) ([^5^](http://publications.europa.eu/resource/cellar/f79fbc1c-c835-4fec-bd12-d8dbb4b06a4b.0018.03/DOC_1#E0005)), incluindo as instituições enumeradas no artigo 2.º da mesma directiva,\n\n— uma empresa de investimento, na acepção do ponto 1) do n.º 1 do artigo 4.º da Directiva 2004/39/CEdo Parlamento Europeu e do Conselho, de 21 de Abril de 2004, relativa aos mercados de instrumentos financeiros ([^6^](http://publications.europa.eu/resource/cellar/f79fbc1c-c835-4fec-bd12-d8dbb4b06a4b.0018.03/DOC_1#E0006)), excluindo as instituições enumeradas no n.º 1 do artigo 2.º da mesma directiva,\n\n— um organismo público ou uma empresa que beneficie de garantia estatal, ou\n\n— qualquer empresa com sede fora da Comunidade e cujas funções correspondam às das instituições de crédito ou das empresas de investimento da Comunidade, na acepção do primeiro e segundo travessões,\n\nc) «Contraparte central»: uma entidade intermediária entre as instituições de um sistema e que actua como contraparte exclusiva dessas instituições no que respeita às suas ordens de transferência;\n\nd) «Agente de liquidação»: uma entidade que assegura, às instituições e/ou à contraparte central que participam nos sistemas, contas de liquidação, através das quais são liquidadas as ordens de transferência emitidas no quadro desses sistemas e que pode, eventualmente, conceder crédito a essas instituições e/ou contrapartes centrais para efeitos de liquidação;\n\ne) «Câmara de compensação»: uma entidade incumbida do cálculo das posições líquidas das instituições, uma eventual contraparte central e/ou um eventual agente de liquidação;\n\nf) [**►M1**](http://publications.europa.eu/resource/celex/32009L0044) «Participante»: uma instituição, uma contraparte central, um agente de liquidação, uma câmara de compensação ou um operador de sistema.**◄**\n\ng) «Participante indirecto»: uma instituição, uma contraparte central, um agente de liquidação, uma câmara de compensação ou um operador de sistema que tenha uma relação contratual com um participante num sistema que execute ordens de transferência, relação essa que permita ao participante indirecto executar ordens de transferência através do sistema, na condição de o participante indirecto ser conhecido do operador do sistema;\n\nh) «Valores mobiliários»: os instrumentos referidos na secção C do Anexo I da Directiva 2004/39/CE;\n\ni) «Ordem de transferência»:\n\n— uma instrução de um participante para colocar um certo montante pecuniário à disposição de um destinatário através do lançamento nas contas de uma instituição de crédito, de um banco central, de uma contraparte central ou de um agente de liquidação, ou uma instrução que resulte na assunção ou execução de uma obrigação de pagamento tal como definida pelas regras do sistema, ou\n\n— uma instrução de um participante para transferir a titularidade de um ou mais valores mobiliários ou o direito relativo a um ou mais valores mobiliários através da inscrição num registo, ou sob outra forma;\n\nj) «Processo de falência»: qualquer medida colectiva prevista na legislação de um Estado-membro ou de um país terceiro para efeitos da liquidação do participante ou da sua reestruturação, desde que tal medida implique a suspensão ou limitação das transferências ou pagamentos;\n\nk) «Compensação»*(netting)*: a conversão dos créditos e obrigações decorrentes de ordens de transferência que um ou mais participantes emitem a favor de outro ou outros participantes, ou que dele ou deles recebem, num único crédito (líquido ou numa única obrigação líquida, de forma que apenas será exigível esse crédito líquido ou devida essa obrigação líquida;\n\nl) «Conta de liquidação»: uma conta num banco central, num agente de liquidação ou numa contraparte central utilizada para depósito de fundos ou valores mobiliários ou para a liquidação de transacções entre participantes num sistema;\n\nm) «Garantia»: qualquer activo susceptível de execução, incluindo, sem restrições, as garantias financeiras a que se refere a alínea a) do n.º 4 do artigo 1.º da Directiva 2002/47/CE do Parlamento Europeu e do Conselho, de 6 de Junho de 2002, relativa aos acordos de garantia financeira ([^7^](http://publications.europa.eu/resource/cellar/f79fbc1c-c835-4fec-bd12-d8dbb4b06a4b.0018.03/DOC_1#E0007)), dado em penhor (incluindo dinheiro dado em penhor), no âmbito de um contrato de reporte ou similar ou de qualquer outro modo, com o objectivo de garantir direitos e obrigações que possam eventualmente decorrer do funcionamento de um sistema, ou prestado aos bancos centrais dos Estados-Membros ou ao Banco Central Europeu;\n\nn) «Dia útil»: inclui as liquidações diurnas e nocturnas e engloba todos os acontecimentos ocorridos durante o ciclo de um sistema;\n\no) «Sistemas interoperáveis»: dois ou mais sistemas cujos operadores tenham celebrado entre si um acordo que implique a execução de ordens de transferência entre sistemas;\n\np) «Operador de sistema»: a entidade ou entidades legalmente responsáveis pelo funcionamento de um sistema. Os operadores de sistema podem também agir como agentes de liquidação, contrapartes centrais ou câmaras de compensação."
+  },
+  "564b660ff896ef79": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Para efeitos da presente directiva, o momento da abertura de um processo de falência será o momento em que a autoridade judicial ou administrativa competente proferir a sua decisão.\n\n2. Quando for proferida uma decisão nos termos do n.º 1, a autoridade judicial ou administrativa competente notificará imediatamente essa decisão à autoridade competente designada pelo seu Estado-membro.\n\n3. O Estado-Membro referido no n.º 2 notifica imediatamente o Comité Europeu do Risco Sistémico, os outros Estados-Membros e a Autoridade Europeia de Supervisão (Autoridade Europeia dos Valores Mobiliários e dos Mercados) (a seguir designada «ESMA») criada pelo Regulamento (UE) n.º 1095/2010 do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/f79fbc1c-c835-4fec-bd12-d8dbb4b06a4b.0018.03/DOC_1#E0008))."
+  },
+  "9f78435f1048bc82": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os direitos de um operador de sistema ou de um participante sobre as garantias constituídas a seu favor no quadro de um sistema ou de um sistema interoperável, bem como os direitos dos bancos centrais dos Estados-Membros ou do Banco Central Europeu sobre as garantias constituídas a seu favor, não são afectados por qualquer processo de falência contra:\n\na) O participante no sistema em causa ou num sistema interoperável;\n\nb) O operador de sistema de um sistema interoperável que não seja participante;\n\nc) Uma contraparte dos bancos centrais dos Estados-Membros ou do Banco Central Europeu; ou\n\nd) Qualquer terceiro que tenha constituído as garantias.\n\nAs garantias podem ser executadas para satisfação daqueles direitos.\n\nSe o operador tiver constituído garantias em favor de outro operador no quadro de um sistema interoperável, os direitos do operador do sistema que constituiu as garantias a tais garantias não são afetados por um eventual processo de falência contra o operador do sistema que as recebeu.\n\n2. Caso sejam prestados valores mobiliários (incluindo direitos sobre valores mobiliários) como garantia aos participantes, aos operadores dos sistemas, aos bancos centrais dos Estados-Membros ou ao Banco Central Europeu nos termos referidos no n.º 1 e o direito destes (ou o de qualquer mandatário, agente ou terceiro agindo em seu nome) relativamente aos valores esteja legalmente inscrito num registo, conta ou sistema de depósito centralizado situado num Estado-Membro, a determinação dos direitos dessas entidades como titulares da garantia relativa a esses valores rege-se pela legislação desse Estado-Membro."
+  },
+  "539fa6241adb0fa5": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-Membros designam os sistemas, bem como os respectivos operadores, que devem ser abrangidos pela presente directiva e deles notificam a ESMA, informando igualmente esta última das autoridades que tiverem designado nos termos do n.º 2 do artigo 6.º. A ESMA publica estas informações no seu sítio Web.\n\nO operador do sistema indica ao Estado-Membro cuja legislação seja aplicável quais os participantes no sistema, incluindo quaisquer eventuais participantes indirectos, assim como qualquer alteração que se verifique nesse âmbito.\n\nPara além da indicação prevista no segundo parágrafo, os Estados-Membros podem sujeitar os sistemas sob a sua jurisdição a supervisão ou autorização.\n\nAs instituições devem, a pedido de qualquer detentor de um interesse legítimo, informar este sobre os sistemas em que participam e sobre as disposições essenciais que regem o funcionamento desses sistemas.\n\n2. Os sistemas designados antes da entrada em vigor das disposições nacionais de transposição da Directiva 2009/44/CE do Parlamento Europeu e do Conselho, de 6 de Maio de 2009, que altera a Directiva 98/26/CE relativa ao carácter definitivo da liquidação nos sistemas de pagamentos e de liquidação de valores mobiliários e a Directiva 2002/47/CE relativa aos acordos de garantia financeira, no que diz respeito a sistemas ligados e a créditos sobre terceiros ([^9^](http://publications.europa.eu/resource/cellar/f79fbc1c-c835-4fec-bd12-d8dbb4b06a4b.0018.03/DOC_1#E0009)), continuam a sê-lo para efeitos da presente directiva.\n\nAs ordens de transferência introduzidas num sistema antes da entrada em vigor das disposições nacionais de transposição da Directiva 2009/44/CE mas liquidadas posteriormente são consideradas ordens de transferência para efeitos da presente directiva."
+  },
+  "a6d471accc40a1ee": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f79fbc1c-c835-4fec-bd12-d8dbb4b06a4b.0018.03/DOC_1#src.E0001)) JO C 207 de 18.7.1996, p. 13 e JO C 259 de 26.8.1997, p. 6.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f79fbc1c-c835-4fec-bd12-d8dbb4b06a4b.0018.03/DOC_1#src.E0002)) Parecer emitido em 21 de Novembro de 1996.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f79fbc1c-c835-4fec-bd12-d8dbb4b06a4b.0018.03/DOC_1#src.E0003)) JO C 56 de 24.2.1997, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f79fbc1c-c835-4fec-bd12-d8dbb4b06a4b.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 9 de Abril de 1997 (JO C 132 de 28.4.1997, p. 74), posição comum do Conselho de 13 de Outubro de 1997 (JO C 375 de 10.12.1997, p. 34), e decisão do Parlamento Europeu de 29 de Janeiro de 1998, (JO C 56 de 23.2.1998). Decisão do Conselho de 27 de Abril de 1998.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/f79fbc1c-c835-4fec-bd12-d8dbb4b06a4b.0018.03/DOC_1#src.E0005)) JO L 177 de 30.6.2006, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/f79fbc1c-c835-4fec-bd12-d8dbb4b06a4b.0018.03/DOC_1#src.E0006)) JO L 145 de 30.4.2004, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/f79fbc1c-c835-4fec-bd12-d8dbb4b06a4b.0018.03/DOC_1#src.E0007)) JO L 168 de 27.6.2002, p. 43.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/f79fbc1c-c835-4fec-bd12-d8dbb4b06a4b.0018.03/DOC_1#src.E0008)) JO L 331 de 15.12.2010, p. 84.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/f79fbc1c-c835-4fec-bd12-d8dbb4b06a4b.0018.03/DOC_1#src.E0009)) JO L 146 de 10.6.2009, p 37"
+  },
+  "d0c85e0ad34c6c26": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Maio 1998\n\nrelativa ao carácter definitivo da liquidação nos sistemas de pagamentos e de liquidação de valores mobiliários\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 100.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/a5718ce6-702d-4183-96b3-95756573775f.0015.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Instituto Monetário Europeu ([^2^](http://publications.europa.eu/resource/cellar/a5718ce6-702d-4183-96b3-95756573775f.0015.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/a5718ce6-702d-4183-96b3-95756573775f.0015.02/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 189.ºB do Tratado ([^4^](http://publications.europa.eu/resource/cellar/a5718ce6-702d-4183-96b3-95756573775f.0015.02/DOC_1#E0004)),\n\n(1) Considerando que o relatório Lamfalussy de 1990 dirigido aos governadores dos bancos centrais dos países do Grupo dos Dez demonstrou a importância dos riscos sistémicos inerentes aos sistemas de pagamentos que funcionam com base em vários tipos jurídicos de compensação *(netting)* de pagamentos, em particular os multilaterais; que a redução da incerteza jurídica associada à participação em sistemas com liquidação pelo valor bruto em tempo real é de uma importância fundamental, dado o crescente desenvolvimento desses sistemas;\n\n(2) Considerando que é também da máxima importância minorar os riscos associados à participação nos sistemas de liquidação de operações sobre valores mobiliários, em particular nos casos em que existe uma estreita ligação entre esses sistemas e os sistemas de pagamentos;\n\n(3) Considerando que a presente directiva se destina a contribuir para reforçar a eficácia do funcionamento dos mecanismos transfronteiras de pagamento e de liquidação de valores mobiliários na Comunidade, bem como para reduzir os seus custos, fortalecendo assim a liberdade de circulação de capitais no mercado interno; que a presente directiva se inscreve, portanto, no quadro dos progressos feitos no sentido da realização do mercado interno, nomeadamente no domínio da liberdade de prestação de serviços e da liberalização dos movimentos de capitais, com vista à realização da união económica e monetária;\n\n(4) Considerando que é desejável que a legislação dos Estados-membros vise minimizar as perturbações dos sistemas decorrentes de processos de falência intentados contra participantes nesses sistemas;\n\n(5) Considerando que continua pendente no Conselho uma proposta de directiva relativa ao saneamento e à liquidação das instituições de crédito, apresentada em 1985 e alterada em 8 de Fevereiro de 1988; que a Convenção relativa aos processos de falência, estabelecida em 23 de Novembro de 1995 pelos Estados-membros reunidos no Conselho, exclui expressamente do seu âmbito de aplicação as empresas de seguros, as instituições de crédito e as empresas de investimento;\n\n(6) Considerando que a presente directiva se destina a abranger os sistemas de pagamentos e de liquidação de operações sobre valores mobiliários, tanto nacionais como com um carácter transfronteiras; que a directiva é aplicável aos sistemas comunitários e às garantias constituídas pelos seus participantes, comunitários ou de países terceiros, no quadro da sua participação nesses sistemas;\n\n(7) Considerando que os Estados-membros podem aplicar as disposições da presente directiva às suas próprias instituições que participem directamente em sistemas de países terceiros e às garantias constituídas no quadro da participação nesses sistemas;\n\n(9) Considerando que a redução do risco sistémico requer, em especial, o carácter definitivo da liquidação e a exigibilidade das garantias constituídas; que, por garantia, se entende qualquer meio fornecido por um participante aos restantes participantes num sistema de pagamentos e/ou de liquidação de operações sobre valores mobiliários para garantir os direitos e obrigações decorrentes da participação nesse sistema, incluindo os contratos de reporte e similares, as garantias legais e as transferências fiduciárias; que a regulamentação, pelo direito nacional, dos tipos de garantias que podem ser utilizados não é afectada pela definição de garantia da presente directiva;\n\n(10) Considerando que a presente directiva, ao abranger as garantias constituídas no quadro das operações efectuadas pelos bancos centrais dos Estados-membros, na sua qualidade de bancos centrais, incluindo as operações de política monetária, apoia o Instituto Monetário Europeu nas suas funções de promover a eficácia dos pagamentos transfronteiras, na perspectiva da preparação da terceira fase da união económica e monetária, contribuindo desse modo para configurar o quadro jurídico de que deverá dispor o futuro Banco Central Europeu para realizar a sua política;\n\n(11) Considerando que deve ser garantida a produção de efeitos jurídicos das ordens de transferência e da sua compensação *(netting)* nas legislações de todos os Estados-membros, bem como a sua oponibilidade a terceiros;\n\n(12) Considerando que as disposições relativas ao carácter definitivo da compensação não devem obstar a que os sistemas verifiquem, antes de se efectuar a compensação, se as ordens que entraram no sistema obedecem às regras desse sistema e permitem a liquidação por esse sistema;\n\n(13) Considerando que a presente directiva não impede um participante ou um terceiro de exercerem, relativamente a uma ordem de transferência que tenha sido introduzida num sistema, qualquer direito ou qualquer pretensão a uma cobrança ou a uma restituição, decorrente da transacção subjacente, nomeadamente em caso de fraude ou de erro técnico, desde que esse direito ou pretensão não acarrete a reforma da compensação nem conduza à revogação da ordem de transferência no sistema;\n\n(14) Considerando que é necessário garantir que as ordens de transferência não possam ser revogadas após o momento definido pelas regras do sistema;\n\n(14-A) Considerando que as autoridades competentes nacionais ou os supervisores deverão assegurar que os operadores dos sistemas que integram o sistema interoperável acordem, na medida do possível, regras comuns relativas ao momento da introdução nos sistemas interoperáveis. As autoridades competentes nacionais ou os supervisores deverão assegurar que as regras relativas ao momento da introdução num sistema interoperável sejam coordenadas, na medida do possível e do necessário, para evitar a incerteza jurídica em caso de incumprimento de um sistema participante;\n\n(15) Considerando que é necessário que um Estado-membro notifique imediatamente os outros Estados-membros da abertura de um processo de falência contra um participante no sistema;\n\n(16) Considerando que os processos de falência não devem ter efeitos retroactivos sobre os direitos e obrigações dos participantes no sistema;\n\n(17) Considerando que a presente directiva tem ainda em vista determinar, em caso de abertura de um processo de falência contra um participante num sistema, a legislação sobre falência aplicável aos direitos e obrigações do participante decorrentes da sua participação nesse sistema;\n\n(18) Considerando que as garantias constituídas devem ser preservadas dos efeitos da legislação sobre falência aplicável ao participante insolvente;\n\n(19) Considerando que o disposto no n.º 2 do artigo 9.º é aplicável apenas a um registo, conta ou sistema de depósito centralizado que evidencie a existência de direitos sobre os valores em questão, ou a entrega ou transferência desses valores;\n\n(20) Considerando que o disposto no n.º 2 do artigo 9.º tem por objectivo assegurar que, se o participante, o banco central de um Estado-membro ou o futuro Banco Central Europeu beneficiar de uma garantia válida e eficaz ao abrigo da legislação do Estado-membro em que se situe o registo, conta ou sistema de depósito centralizado pertinente, a validade e a exigibilidade dessa garantia em relação a esse sistema, ao respectivo operador e a qualquer outra pessoa que reclame um crédito, directa ou indirectamente, através do sistema, serão determinadas unicamente pela legislação desse Estado-membro;\n\n(21) Considerando que o disposto no n.º 2 do artigo 9.º não tem por objectivo afectar a aplicação e os efeitos da legislação do Estado-membro em que os valores mobiliários estejam constituídos ou do Estado-membro em que esses valores possam de outra forma estar situados (incluindo, sem restrições, a legislação relativa à criação, propriedade ou transferência desses valores ou dos direitos sobre esses valores) e não pode ser interpretado como significando que uma garantia nos termos referidos será directamente exigível ou susceptível de ser reconhecida em qualquer um desses Estados-membros de um modo contrário à sua legislação;\n\n(22) Considerando que é desejável que os Estados-membros se esforcem por estabelecer ligações suficientes entre todos os sistemas de liquidação de valores mobiliários abrangidos pela presente directiva, a fim de promover a máxima transparência e segurança jurídica das transacções relativas a valores mobiliários;\n\n(22-A) Considerando que no caso dos sistemas interoperáveis, a falta de coordenação quanto a que regras relativas ao momento da introdução e da irrevogabilidade são aplicáveis pode expor os participantes de um sistema, ou mesmo o próprio operador do sistema, aos efeitos secundários de um incumprimento noutro sistema. Para limitar o risco sistémico, é conveniente estabelecer que os operadores de sistema de sistemas interoperáveis coordenem as regras relativas ao momento da introdução e da irrevogabilidade nos sistemas que operam;\n\n(23) Considerando que a adopção da presente directiva constitui a forma mais adequada de realizar os objectivos acima referidos, não excedendo o necessário para esse efeito,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "f3353a0f7bd20616": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Sistema» um acordo formal:\n\n— entre três ou mais participantes, excluindo o operador desse sistema, um eventual agente de liquidação, uma eventual contraparte central, uma eventual câmara de compensação ou um eventual participante indirecto, com regras comuns e procedimentos padronizados para a compensação, através de uma contraparte central ou não, ou execução de ordens de transferência entre os participantes,\n\n— regulado pela legislação de um Estado-membro escolhida pelos participantes; contudo, os participantes apenas podem escolher a legislação de um Estado-membro em que pelo menos um deles tenha a sua sede e\n\n— designado como sistema, sem prejuízo de outras condições mais rigorosas de aplicação geral previstas no direito nacional, e notificado à Autoridade Europeia dos Valores Mobiliários e dos Mercados pelo Estado-Membro cujo direito seja aplicável, depois de esse Estado-Membro se ter certificado da adequação das regras do sistema.\n\nb) «Instituição»:\n\n— uma instituição de crédito, na acepção do n.º 1 do artigo 4.º da Directiva 2006/48/CE do Parlamento Europeu e do Conselho, de 14 de Junho de 2006, relativa ao acesso à actividade das instituições de crédito e ao seu exercício (reformulação) ([^5^](http://publications.europa.eu/resource/cellar/a5718ce6-702d-4183-96b3-95756573775f.0015.02/DOC_1#E0005)), incluindo as instituições enumeradas no artigo 2.º da mesma directiva,\n\n— uma empresa de investimento, na acepção do ponto 1) do n.º 1 do artigo 4.º da Directiva 2004/39/CEdo Parlamento Europeu e do Conselho, de 21 de Abril de 2004, relativa aos mercados de instrumentos financeiros ([^6^](http://publications.europa.eu/resource/cellar/a5718ce6-702d-4183-96b3-95756573775f.0015.02/DOC_1#E0006)), excluindo as instituições enumeradas no n.º 1 do artigo 2.º da mesma directiva,\n\n— um organismo público ou uma empresa que beneficie de garantia estatal, ou\n\n— qualquer empresa com sede fora da Comunidade e cujas funções correspondam às das instituições de crédito ou das empresas de investimento da Comunidade, na acepção do primeiro e segundo travessões,\n\nc) «Contraparte central»: uma entidade intermediária entre as instituições de um sistema e que actua como contraparte exclusiva dessas instituições no que respeita às suas ordens de transferência;\n\nd) «Agente de liquidação»: uma entidade que assegura, às instituições e/ou à contraparte central que participam nos sistemas, contas de liquidação, através das quais são liquidadas as ordens de transferência emitidas no quadro desses sistemas e que pode, eventualmente, conceder crédito a essas instituições e/ou contrapartes centrais para efeitos de liquidação;\n\ne) «Câmara de compensação»: uma entidade incumbida do cálculo das posições líquidas das instituições, uma eventual contraparte central e/ou um eventual agente de liquidação;\n\nf) [**►M1**](http://publications.europa.eu/resource/celex/32009L0044) «Participante»: uma instituição, uma contraparte central, um agente de liquidação, uma câmara de compensação ou um operador de sistema.**◄**\n\ng) «Participante indirecto»: uma instituição, uma contraparte central, um agente de liquidação, uma câmara de compensação ou um operador de sistema que tenha uma relação contratual com um participante num sistema que execute ordens de transferência, relação essa que permita ao participante indirecto executar ordens de transferência através do sistema, na condição de o participante indirecto ser conhecido do operador do sistema;\n\nh) «Valores mobiliários»: os instrumentos referidos na secção C do Anexo I da Directiva 2004/39/CE;\n\ni) «Ordem de transferência»:\n\n— uma instrução de um participante para colocar um certo montante pecuniário à disposição de um destinatário através do lançamento nas contas de uma instituição de crédito, de um banco central, de uma contraparte central ou de um agente de liquidação, ou uma instrução que resulte na assunção ou execução de uma obrigação de pagamento tal como definida pelas regras do sistema, ou\n\n— uma instrução de um participante para transferir a titularidade de um ou mais valores mobiliários ou o direito relativo a um ou mais valores mobiliários através da inscrição num registo, ou sob outra forma;\n\nj) «Processo de falência»: qualquer medida colectiva prevista na legislação de um Estado-membro ou de um país terceiro para efeitos da liquidação do participante ou da sua reestruturação, desde que tal medida implique a suspensão ou limitação das transferências ou pagamentos;\n\nk) «Compensação»*(netting)*: a conversão dos créditos e obrigações decorrentes de ordens de transferência que um ou mais participantes emitem a favor de outro ou outros participantes, ou que dele ou deles recebem, num único crédito (líquido ou numa única obrigação líquida, de forma que apenas será exigível esse crédito líquido ou devida essa obrigação líquida;\n\nl) «Conta de liquidação»: uma conta num banco central, num agente de liquidação ou numa contraparte central utilizada para depósito de fundos ou valores mobiliários ou para a liquidação de transacções entre participantes num sistema;\n\nm) «Garantia»: qualquer activo susceptível de execução, incluindo, sem restrições, as garantias financeiras a que se refere a alínea a) do n.º 4 do artigo 1.º da Directiva 2002/47/CE do Parlamento Europeu e do Conselho, de 6 de Junho de 2002, relativa aos acordos de garantia financeira ([^7^](http://publications.europa.eu/resource/cellar/a5718ce6-702d-4183-96b3-95756573775f.0015.02/DOC_1#E0007)), dado em penhor (incluindo dinheiro dado em penhor), no âmbito de um contrato de reporte ou similar ou de qualquer outro modo, com o objectivo de garantir direitos e obrigações que possam eventualmente decorrer do funcionamento de um sistema, ou prestado aos bancos centrais dos Estados-Membros ou ao Banco Central Europeu;\n\nn) «Dia útil»: inclui as liquidações diurnas e nocturnas e engloba todos os acontecimentos ocorridos durante o ciclo de um sistema;\n\no) «Sistemas interoperáveis»: dois ou mais sistemas cujos operadores tenham celebrado entre si um acordo que implique a execução de ordens de transferência entre sistemas;\n\np) «Operador de sistema»: a entidade ou entidades legalmente responsáveis pelo funcionamento de um sistema. Os operadores de sistema podem também agir como agentes de liquidação, contrapartes centrais ou câmaras de compensação."
+  },
+  "36bdfa5c0daea238": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Para efeitos da presente directiva, o momento da abertura de um processo de falência será o momento em que a autoridade judicial ou administrativa competente proferir a sua decisão.\n\n2. Quando for proferida uma decisão nos termos do n.º 1, a autoridade judicial ou administrativa competente notificará imediatamente essa decisão à autoridade competente designada pelo seu Estado-membro.\n\n3. O Estado-Membro referido no n.º 2 notifica imediatamente o Comité Europeu do Risco Sistémico, os outros Estados-Membros e a Autoridade Europeia de Supervisão (Autoridade Europeia dos Valores Mobiliários e dos Mercados) (a seguir designada «ESMA») criada pelo Regulamento (UE) n.º 1095/2010 do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/a5718ce6-702d-4183-96b3-95756573775f.0015.02/DOC_1#E0008))."
+  },
+  "ecab93af537a3f11": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-Membros designam os sistemas, bem como os respectivos operadores, que devem ser abrangidos pela presente directiva e deles notificam a ESMA, informando igualmente esta última das autoridades que tiverem designado nos termos do n.º 2 do artigo 6.º. A ESMA publica estas informações no seu sítio Web.\n\nO operador do sistema indica ao Estado-Membro cuja legislação seja aplicável quais os participantes no sistema, incluindo quaisquer eventuais participantes indirectos, assim como qualquer alteração que se verifique nesse âmbito.\n\nPara além da indicação prevista no segundo parágrafo, os Estados-Membros podem sujeitar os sistemas sob a sua jurisdição a supervisão ou autorização.\n\nAs instituições devem, a pedido de qualquer detentor de um interesse legítimo, informar este sobre os sistemas em que participam e sobre as disposições essenciais que regem o funcionamento desses sistemas.\n\n2. Os sistemas designados antes da entrada em vigor das disposições nacionais de transposição da Directiva 2009/44/CE do Parlamento Europeu e do Conselho, de 6 de Maio de 2009, que altera a Directiva 98/26/CE relativa ao carácter definitivo da liquidação nos sistemas de pagamentos e de liquidação de valores mobiliários e a Directiva 2002/47/CE relativa aos acordos de garantia financeira, no que diz respeito a sistemas ligados e a créditos sobre terceiros ([^9^](http://publications.europa.eu/resource/cellar/a5718ce6-702d-4183-96b3-95756573775f.0015.02/DOC_1#E0009)), continuam a sê-lo para efeitos da presente directiva.\n\nAs ordens de transferência introduzidas num sistema antes da entrada em vigor das disposições nacionais de transposição da Directiva 2009/44/CE mas liquidadas posteriormente são consideradas ordens de transferência para efeitos da presente directiva."
+  },
+  "b55277969ac2390f": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 11 de Decembro de 1999. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva. Nas suas comunicações, os Estados-membros apresentarão um quadro de correspondências que indique as disposições nacionais em vigor ou que estejam a ser introduzidas que correspondem a cada um dos artigos da presente directiva.\n\n3. Até 18 de março de 2015, os Estados-Membros adotam, publicam e comunicam à Comissão as medidas necessárias para dar cumprimento ao artigo 2.º, alínea a), primeiro parágrafo, terceiro travessão."
+  },
+  "5a794f8e64dc6dfb": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a5718ce6-702d-4183-96b3-95756573775f.0015.02/DOC_1#src.E0001)) JO C 207 de 18.7.1996, p. 13 e JO C 259 de 26.8.1997, p. 6.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/a5718ce6-702d-4183-96b3-95756573775f.0015.02/DOC_1#src.E0002)) Parecer emitido em 21 de Novembro de 1996.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/a5718ce6-702d-4183-96b3-95756573775f.0015.02/DOC_1#src.E0003)) JO C 56 de 24.2.1997, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/a5718ce6-702d-4183-96b3-95756573775f.0015.02/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 9 de Abril de 1997 (JO C 132 de 28.4.1997, p. 74), posição comum do Conselho de 13 de Outubro de 1997 (JO C 375 de 10.12.1997, p. 34), e decisão do Parlamento Europeu de 29 de Janeiro de 1998, (JO C 56 de 23.2.1998). Decisão do Conselho de 27 de Abril de 1998.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/a5718ce6-702d-4183-96b3-95756573775f.0015.02/DOC_1#src.E0005)) JO L 177 de 30.6.2006, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/a5718ce6-702d-4183-96b3-95756573775f.0015.02/DOC_1#src.E0006)) JO L 145 de 30.4.2004, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/a5718ce6-702d-4183-96b3-95756573775f.0015.02/DOC_1#src.E0007)) JO L 168 de 27.6.2002, p. 43.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/a5718ce6-702d-4183-96b3-95756573775f.0015.02/DOC_1#src.E0008)) JO L 331 de 15.12.2010, p. 84.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/a5718ce6-702d-4183-96b3-95756573775f.0015.02/DOC_1#src.E0009)) JO L 146 de 10.6.2009, p 37"
+  },
+  "8bd0ff70d1d176ad": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Maio 1998\n\nrelativa ao carácter definitivo da liquidação nos sistemas de pagamentos e de liquidação de valores mobiliários"
+  },
+  "805d17f66970ce9d": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Sistema» um acordo formal:\n\n— entre três ou mais participantes, excluindo o operador desse sistema, um eventual agente de liquidação, uma eventual contraparte central, uma eventual câmara de compensação ou um eventual participante indirecto, com regras comuns e procedimentos padronizados para a compensação, através de uma contraparte central ou não, ou execução de ordens de transferência entre os participantes,\n\n— regulado pela legislação de um Estado-membro escolhida pelos participantes; contudo, os participantes apenas podem escolher a legislação de um Estado-membro em que pelo menos um deles tenha a sua sede e\n\n— designado como sistema, sem prejuízo de outras condições mais rigorosas de aplicação geral previstas no direito nacional, e notificado à Autoridade Europeia dos Valores Mobiliários e dos Mercados pelo Estado-Membro cujo direito seja aplicável, depois de esse Estado-Membro se ter certificado da adequação das regras do sistema.\n\nb) «Instituição»:\n\n— uma instituição de crédito, na acepção do n.º 1 do artigo 4.º da Directiva 2006/48/CE do Parlamento Europeu e do Conselho, de 14 de Junho de 2006, relativa ao acesso à actividade das instituições de crédito e ao seu exercício (reformulação) ([^1^](http://publications.europa.eu/resource/cellar/77da79e6-ad56-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0001)), incluindo as instituições enumeradas no artigo 2.º da mesma directiva,\n\n— uma empresa de investimento, na acepção do ponto 1) do n.º 1 do artigo 4.º da Directiva 2004/39/CEdo Parlamento Europeu e do Conselho, de 21 de Abril de 2004, relativa aos mercados de instrumentos financeiros ([^2^](http://publications.europa.eu/resource/cellar/77da79e6-ad56-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0002)), excluindo as instituições enumeradas no n.º 1 do artigo 2.º da mesma directiva,\n\n— um organismo público ou uma empresa que beneficie de garantia estatal, ou\n\n— qualquer empresa com sede fora da Comunidade e cujas funções correspondam às das instituições de crédito ou das empresas de investimento da Comunidade, na acepção do primeiro e segundo travessões,\n\nc) «Contraparte central» ou «CCP»: uma CCP na aceção do artigo 2.º, ponto 1, do Regulamento (UE) n.º 648/2012;\n\nd) «Agente de liquidação»: uma entidade que assegura, às instituições e/ou à contraparte central que participam nos sistemas, contas de liquidação, através das quais são liquidadas as ordens de transferência emitidas no quadro desses sistemas e que pode, eventualmente, conceder crédito a essas instituições e/ou contrapartes centrais para efeitos de liquidação;\n\ne) «Câmara de compensação»: uma entidade incumbida do cálculo das posições líquidas das instituições, uma eventual contraparte central e/ou um eventual agente de liquidação;\n\nf) «Participante»: uma instituição, uma contraparte central, um agente de liquidação, uma câmara de compensação, um operador de sistema ou um membro compensador de uma CCP autorizada nos termos do artigo 17.º do Regulamento (UE) n.º 648/2012;\n\ng) «Participante indirecto»: uma instituição, uma contraparte central, um agente de liquidação, uma câmara de compensação ou um operador de sistema que tenha uma relação contratual com um participante num sistema que execute ordens de transferência, relação essa que permita ao participante indirecto executar ordens de transferência através do sistema, na condição de o participante indirecto ser conhecido do operador do sistema;\n\nh) «Valores mobiliários»: os instrumentos referidos na secção C do Anexo I da Directiva 2004/39/CE;\n\ni) «Ordem de transferência»:\n\n— uma instrução de um participante para colocar um certo montante pecuniário à disposição de um destinatário através do lançamento nas contas de uma instituição de crédito, de um banco central, de uma contraparte central ou de um agente de liquidação, ou uma instrução que resulte na assunção ou execução de uma obrigação de pagamento tal como definida pelas regras do sistema, ou\n\n— uma instrução de um participante para transferir a titularidade de um ou mais valores mobiliários ou o direito relativo a um ou mais valores mobiliários através da inscrição num registo, ou sob outra forma;\n\nj) «Processo de falência»: qualquer medida colectiva prevista na legislação de um Estado-membro ou de um país terceiro para efeitos da liquidação do participante ou da sua reestruturação, desde que tal medida implique a suspensão ou limitação das transferências ou pagamentos;\n\nk) «Compensação»*(netting)*: a conversão dos créditos e obrigações decorrentes de ordens de transferência que um ou mais participantes emitem a favor de outro ou outros participantes, ou que dele ou deles recebem, num único crédito (líquido ou numa única obrigação líquida, de forma que apenas será exigível esse crédito líquido ou devida essa obrigação líquida;\n\nl) «Conta de liquidação»: uma conta num banco central, num agente de liquidação ou numa contraparte central utilizada para depósito de fundos ou valores mobiliários ou para a liquidação de transacções entre participantes num sistema;\n\nm) «Garantia»: qualquer activo susceptível de execução, incluindo, sem restrições, as garantias financeiras a que se refere a alínea a) do n.º 4 do artigo 1.º da Directiva 2002/47/CE do Parlamento Europeu e do Conselho, de 6 de Junho de 2002, relativa aos acordos de garantia financeira ([^3^](http://publications.europa.eu/resource/cellar/77da79e6-ad56-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0003)), dado em penhor (incluindo dinheiro dado em penhor), no âmbito de um contrato de reporte ou similar ou de qualquer outro modo, com o objectivo de garantir direitos e obrigações que possam eventualmente decorrer do funcionamento de um sistema, ou prestado aos bancos centrais dos Estados-Membros ou ao Banco Central Europeu;\n\nn) «Dia útil»: inclui as liquidações diurnas e nocturnas e engloba todos os acontecimentos ocorridos durante o ciclo de um sistema;\n\no) «Sistemas interoperáveis»: dois ou mais sistemas cujos operadores tenham celebrado entre si um acordo que implique a execução de ordens de transferência entre sistemas;\n\np) «Operador de sistema»: a entidade ou entidades legalmente responsáveis pelo funcionamento de um sistema. Os operadores de sistema podem também agir como agentes de liquidação, contrapartes centrais ou câmaras de compensação."
+  },
+  "07f18f8c6935c3bf": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Para efeitos da presente directiva, o momento da abertura de um processo de falência será o momento em que a autoridade judicial ou administrativa competente proferir a sua decisão.\n\n2. Quando for proferida uma decisão nos termos do n.º 1, a autoridade judicial ou administrativa competente notificará imediatamente essa decisão à autoridade competente designada pelo seu Estado-membro.\n\n3. O Estado-Membro referido no n.º 2 notifica imediatamente o Comité Europeu do Risco Sistémico, os outros Estados-Membros e a Autoridade Europeia de Supervisão (Autoridade Europeia dos Valores Mobiliários e dos Mercados) (a seguir designada «ESMA») criada pelo Regulamento (UE) n.º 1095/2010 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/77da79e6-ad56-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0004))."
+  },
+  "6bdb2bf6bbf2ce96": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-Membros designam os sistemas, bem como os respectivos operadores, que devem ser abrangidos pela presente directiva e deles notificam a ESMA, informando igualmente esta última das autoridades que tiverem designado nos termos do n.º 2 do artigo 6.º. A ESMA publica estas informações no seu sítio Web.\n\nO operador do sistema indica ao Estado-Membro cuja legislação seja aplicável quais os participantes no sistema, incluindo quaisquer eventuais participantes indirectos, assim como qualquer alteração que se verifique nesse âmbito.\n\nPara além da indicação prevista no segundo parágrafo, os Estados-Membros podem sujeitar os sistemas sob a sua jurisdição a supervisão ou autorização.\n\nAs instituições devem, a pedido de qualquer detentor de um interesse legítimo, informar este sobre os sistemas em que participam e sobre as disposições essenciais que regem o funcionamento desses sistemas.\n\n2. Os sistemas designados antes da entrada em vigor das disposições nacionais de transposição da Directiva 2009/44/CE do Parlamento Europeu e do Conselho, de 6 de Maio de 2009, que altera a Directiva 98/26/CE relativa ao carácter definitivo da liquidação nos sistemas de pagamentos e de liquidação de valores mobiliários e a Directiva 2002/47/CE relativa aos acordos de garantia financeira, no que diz respeito a sistemas ligados e a créditos sobre terceiros ([^5^](http://publications.europa.eu/resource/cellar/77da79e6-ad56-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0005)), continuam a sê-lo para efeitos da presente directiva.\n\nAs ordens de transferência introduzidas num sistema antes da entrada em vigor das disposições nacionais de transposição da Directiva 2009/44/CE mas liquidadas posteriormente são consideradas ordens de transferência para efeitos da presente directiva."
+  },
+  "18bed617fee96182": {
+   "fragment_id": "Artigo 12.º-A",
+   "type": "artigo",
+   "heading": "Artigo 12.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º-A\n\nAté 28 de junho de 2021, a Comissão analisa a forma como os Estados-Membros aplicam a presente diretiva às suas próprias instituições que participem diretamente em sistemas regidos pelo direito de países terceiros e às garantias constituídas no quadro da participação nesses sistemas. A Comissão avalia em especial a necessidade de introduzir novas alterações na presente diretiva no que respeita aos sistemas regidos pelo direito de países terceiros. A Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório sobre o assunto, acompanhado, se for caso disso, de propostas de revisão da presente diretiva."
+  },
+  "2fe7b75b04374fe2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/77da79e6-ad56-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 177 de 30.6.2006, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/77da79e6-ad56-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#src.E0002)) JO L 145 de 30.4.2004, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/77da79e6-ad56-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#src.E0003)) JO L 168 de 27.6.2002, p. 43.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/77da79e6-ad56-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#src.E0004)) JO L 331 de 15.12.2010, p. 84.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/77da79e6-ad56-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#src.E0005)) JO L 146 de 10.6.2009, p 37"
+  },
+  "fd5d1ae0d95652a4": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Sistema» um acordo formal:\n\n— entre três ou mais participantes, excluindo o operador desse sistema, um eventual agente de liquidação, uma eventual contraparte central, uma eventual câmara de compensação ou um eventual participante indirecto, com regras comuns e procedimentos padronizados para a compensação, através de uma contraparte central ou não, ou execução de ordens de transferência entre os participantes,\n\n— regulado pela legislação de um Estado-membro escolhida pelos participantes; contudo, os participantes apenas podem escolher a legislação de um Estado-membro em que pelo menos um deles tenha a sua sede e\n\n— designado como sistema, sem prejuízo de outras condições mais rigorosas de aplicação geral previstas no direito nacional, e notificado à Autoridade Europeia dos Valores Mobiliários e dos Mercados pelo Estado-Membro cujo direito seja aplicável, depois de esse Estado-Membro se ter certificado da adequação das regras do sistema.\n\nb) «Instituição»:\n\n— uma instituição de crédito, na aceção do artigo 4.º, n.º 1, ponto 1, do Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/fb0b31c2-fbf8-11ee-a251-01aa75ed71a1.0020.02/DOC_1#E0001)), incluindo as entidades enumeradas no artigo 2.º, n.º 5, da Diretiva 2013/36/UE,\n\n— uma empresa de investimento, na aceção do artigo 4.º, n.º 1, ponto 1, da Diretiva 2014/65/UE do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/fb0b31c2-fbf8-11ee-a251-01aa75ed71a1.0020.02/DOC_1#E0002)), excluindo as instituições enumeradas no artigo 2.º, n.º 1, dessa diretiva,\n\n— um organismo público ou uma empresa que beneficie de garantia estatal, ou\n\n— qualquer empresa com sede fora da União e cujas funções correspondam às das instituições de crédito ou das empresas de investimento da União, na aceção do primeiro e segundo travessões,\n\n— uma instituição de pagamento na aceção do artigo 4.º, ponto 4, da Diretiva (UE) 2015/2366 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/fb0b31c2-fbf8-11ee-a251-01aa75ed71a1.0020.02/DOC_1#E0003)), com exceção das pessoas singulares ou coletivas que beneficiem de uma isenção nos termos do artigo 32.º ou do artigo 33.º dessa diretiva, ou\n\n— uma instituição de moeda eletrónica na aceção do artigo 2.º, ponto 1, da Diretiva 2009/110/CE do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/fb0b31c2-fbf8-11ee-a251-01aa75ed71a1.0020.02/DOC_1#E0004)), com exceção das pessoas singulares ou coletivas que beneficiem de uma isenção nos termos do artigo 9.º dessa diretiva,\n\nc) «Contraparte central» ou «CCP»: uma CCP na aceção do artigo 2.º, ponto 1, do Regulamento (UE) n.º 648/2012;\n\nd) «Agente de liquidação»: uma entidade que assegura, às instituições e/ou à contraparte central que participam nos sistemas, contas de liquidação, através das quais são liquidadas as ordens de transferência emitidas no quadro desses sistemas e que pode, eventualmente, conceder crédito a essas instituições e/ou contrapartes centrais para efeitos de liquidação;\n\ne) «Câmara de compensação»: uma entidade incumbida do cálculo das posições líquidas das instituições, uma eventual contraparte central e/ou um eventual agente de liquidação;\n\nf) «Participante»: uma instituição, uma CCP, um agente de liquidação, uma câmara de compensação, um operador de sistema ou um membro compensador de uma CCP autorizada nos termos do artigo 17.º do Regulamento (UE) n.º 648/2012.\n\ng) «Participante indirecto»: uma instituição, uma contraparte central, um agente de liquidação, uma câmara de compensação ou um operador de sistema que tenha uma relação contratual com um participante num sistema que execute ordens de transferência, relação essa que permita ao participante indirecto executar ordens de transferência através do sistema, na condição de o participante indirecto ser conhecido do operador do sistema;\n\nh) «Valores mobiliários»: os instrumentos referidos na secção C do Anexo I da Directiva 2004/39/CE;\n\ni) «Ordem de transferência»:\n\n— uma instrução de um participante para colocar um certo montante pecuniário à disposição de um destinatário através do lançamento nas contas de uma instituição de crédito, de um banco central, de uma contraparte central ou de um agente de liquidação, ou uma instrução que resulte na assunção ou execução de uma obrigação de pagamento tal como definida pelas regras do sistema, ou\n\n— uma instrução de um participante para transferir a titularidade de um ou mais valores mobiliários ou o direito relativo a um ou mais valores mobiliários através da inscrição num registo, ou sob outra forma;\n\nj) «Processo de falência»: qualquer medida colectiva prevista na legislação de um Estado-membro ou de um país terceiro para efeitos da liquidação do participante ou da sua reestruturação, desde que tal medida implique a suspensão ou limitação das transferências ou pagamentos;\n\nk) «Compensação»*(netting)*: a conversão dos créditos e obrigações decorrentes de ordens de transferência que um ou mais participantes emitem a favor de outro ou outros participantes, ou que dele ou deles recebem, num único crédito (líquido ou numa única obrigação líquida, de forma que apenas será exigível esse crédito líquido ou devida essa obrigação líquida;\n\nl) «Conta de liquidação»: uma conta num banco central, num agente de liquidação ou numa contraparte central utilizada para depósito de fundos ou valores mobiliários ou para a liquidação de transacções entre participantes num sistema;\n\nm) «Garantia»: qualquer activo susceptível de execução, incluindo, sem restrições, as garantias financeiras a que se refere a alínea a) do n.º 4 do artigo 1.º da Directiva 2002/47/CE do Parlamento Europeu e do Conselho, de 6 de Junho de 2002, relativa aos acordos de garantia financeira ([^5^](http://publications.europa.eu/resource/cellar/fb0b31c2-fbf8-11ee-a251-01aa75ed71a1.0020.02/DOC_1#E0005)), dado em penhor (incluindo dinheiro dado em penhor), no âmbito de um contrato de reporte ou similar ou de qualquer outro modo, com o objectivo de garantir direitos e obrigações que possam eventualmente decorrer do funcionamento de um sistema, ou prestado aos bancos centrais dos Estados-Membros ou ao Banco Central Europeu;\n\nn) «Dia útil»: inclui as liquidações diurnas e nocturnas e engloba todos os acontecimentos ocorridos durante o ciclo de um sistema;\n\no) «Sistemas interoperáveis»: dois ou mais sistemas cujos operadores tenham celebrado entre si um acordo que implique a execução de ordens de transferência entre sistemas;\n\np) «Operador de sistema»: a entidade ou entidades legalmente responsáveis pelo funcionamento de um sistema. Os operadores de sistema podem também agir como agentes de liquidação, contrapartes centrais ou câmaras de compensação."
+  },
+  "ff2e1fd5a6f46624": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1.\n\nAs ordens de transferência e a compensação têm efeitos jurídicos e serão oponíveis a terceiros mesmo em caso de processo de falência contra um participante, desde que as ordens de transferência tenham sido introduzidas no sistema antes do momento da abertura do referido processo de falência na acepção do n.º 1 do artigo 6.º. A presente disposição aplica-se mesmo em caso de processo de falência contra um participante (no sistema em causa ou num sistema interoperável) ou contra o operador de sistema de um sistema interoperável que não seja participante.\n\nCaso as ordens de transferência tenham sido introduzidas no sistema após a abertura do processo de falência e tenham sido executadas no mesmo dia útil, tal como definido nas regras do sistema, em que ocorra essa abertura, só produzirão efeitos jurídicos e serão oponíveis a terceiros se o operador do sistema puder provar que, no momento em que as ordens de transferência em causa se tornaram irrevogáveis, não tinha conhecimento nem obrigação de ter conhecimento da abertura do processo de falência.\n\n2. Nenhuma lei, regulamento, regra ou prática em matéria de anulação de contratos e transacções celebrados antes do momento da abertura de um processo de falência tal como definido no n.º 1 do artigo 6.º pode conduzir à reforma de uma compensação.\n\n3. O momento da introdução de uma ordem de transferência num sistema será definido pelas regras aplicáveis desse sistema. Se o direito nacional previr condições que regulamentem o sistema quanto ao momento da introdução, as regras desse sistema devem estar em conformidade com essas condições.\n\n4. No caso dos sistemas interoperáveis, cada sistema determina nas suas próprias regras o momento da introdução no sistema, por forma a assegurar, na medida do possível, a coordenação a esse respeito das regras de todos os sistemas participantes nos sistemas interoperáveis envolvidos. A menos que as regras de todos os sistemas participantes nos sistemas interoperáveis em causa o prevejam expressamente, as regras de cada sistema relativas ao momento da introdução não são afectadas pelas regras dos outros sistemas com os quais o primeiro seja interoperável."
+  },
+  "5561b33bcbed5523": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Para efeitos da presente directiva, o momento da abertura de um processo de falência será o momento em que a autoridade judicial ou administrativa competente proferir a sua decisão.\n\n2. Quando for proferida uma decisão nos termos do n.º 1, a autoridade judicial ou administrativa competente notificará imediatamente essa decisão à autoridade competente designada pelo seu Estado-membro.\n\n3. O Estado-Membro referido no n.º 2 notifica imediatamente o Comité Europeu do Risco Sistémico, os outros Estados-Membros e a Autoridade Europeia de Supervisão (Autoridade Europeia dos Valores Mobiliários e dos Mercados) (a seguir designada «ESMA») criada pelo Regulamento (UE) n.º 1095/2010 do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/fb0b31c2-fbf8-11ee-a251-01aa75ed71a1.0020.02/DOC_1#E0006))."
+  },
+  "e39035448575c813": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1.\n\nOs direitos de um operador de sistema ou de um participante sobre as garantias constituídas a seu favor no quadro de um sistema ou de um sistema interoperável, bem como os direitos dos bancos centrais dos Estados-Membros ou do Banco Central Europeu sobre as garantias constituídas a seu favor, não são afectados por qualquer processo de falência contra:\n\na) O participante no sistema em causa ou num sistema interoperável;\n\nb) O operador de sistema de um sistema interoperável que não seja participante;\n\nc) Uma contraparte dos bancos centrais dos Estados-Membros ou do Banco Central Europeu; ou\n\nd) Qualquer terceiro que tenha constituído as garantias.\n\nAs garantias podem ser executadas para satisfação daqueles direitos.\n\nSe o operador tiver constituído garantias em favor de outro operador no quadro de um sistema interoperável, os direitos do operador do sistema que constituiu as garantias a tais garantias não são afetados por um eventual processo de falência contra o operador do sistema que as recebeu.\n\n2. Caso sejam prestados valores mobiliários (incluindo direitos sobre valores mobiliários) como garantia aos participantes, aos operadores dos sistemas, aos bancos centrais dos Estados-Membros ou ao Banco Central Europeu nos termos referidos no n.º 1 e o direito destes (ou o de qualquer mandatário, agente ou terceiro agindo em seu nome) relativamente aos valores esteja legalmente inscrito num registo, conta ou sistema de depósito centralizado situado num Estado-Membro, a determinação dos direitos dessas entidades como titulares da garantia relativa a esses valores rege-se pela legislação desse Estado-Membro."
+  },
+  "512ca54209f26a82": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1.\n\nOs Estados-Membros designam os sistemas, bem como os respectivos operadores, que devem ser abrangidos pela presente directiva e deles notificam a ESMA, informando igualmente esta última das autoridades que tiverem designado nos termos do n.º 2 do artigo 6.º. A ESMA publica estas informações no seu sítio Web.\n\nO operador do sistema indica ao Estado-Membro cuja legislação seja aplicável quais os participantes no sistema, incluindo quaisquer eventuais participantes indirectos, assim como qualquer alteração que se verifique nesse âmbito.\n\nPara além da indicação prevista no segundo parágrafo, os Estados-Membros podem sujeitar os sistemas sob a sua jurisdição a supervisão ou autorização.\n\nAs instituições devem, a pedido de qualquer detentor de um interesse legítimo, informar este sobre os sistemas em que participam e sobre as disposições essenciais que regem o funcionamento desses sistemas.\n\n2.\n\nOs sistemas designados antes da entrada em vigor das disposições nacionais de transposição da Directiva 2009/44/CE do Parlamento Europeu e do Conselho, de 6 de Maio de 2009, que altera a Directiva 98/26/CE relativa ao carácter definitivo da liquidação nos sistemas de pagamentos e de liquidação de valores mobiliários e a Directiva 2002/47/CE relativa aos acordos de garantia financeira, no que diz respeito a sistemas ligados e a créditos sobre terceiros ([^7^](http://publications.europa.eu/resource/cellar/fb0b31c2-fbf8-11ee-a251-01aa75ed71a1.0020.02/DOC_1#E0007)), continuam a sê-lo para efeitos da presente directiva.\n\nAs ordens de transferência introduzidas num sistema antes da entrada em vigor das disposições nacionais de transposição da Directiva 2009/44/CE mas liquidadas posteriormente são consideradas ordens de transferência para efeitos da presente directiva."
+  },
+  "8e533a8d24b7f326": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/fb0b31c2-fbf8-11ee-a251-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho, de 26 de junho de 2013, relativo aos requisitos prudenciais para as instituições de crédito e para as empresas de investimento e que altera o Regulamento (UE) n.º 648/2012 (JO L 176 de 27.6.2013, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/fb0b31c2-fbf8-11ee-a251-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Diretiva 2014/65/UE do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativa aos mercados de instrumentos financeiros e que altera a Diretiva 2002/92/CE e a Diretiva 2011/61/UE (JO L 173 de 12.6.2014, p. 349).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/fb0b31c2-fbf8-11ee-a251-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Diretiva (UE) 2015/2366 do Parlamento Europeu e do Conselho, de 25 de novembro de 2015, relativa aos serviços de pagamento no mercado interno, que altera as Diretivas 2002/65/CE, 2009/110/CE e 2013/36/UE e o Regulamento (UE) n.º 1093/2010, e que revoga a Diretiva 2007/64/CE (JO L 337 de 23.12.2015, p. 35).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/fb0b31c2-fbf8-11ee-a251-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Diretiva 2009/110/CE do Parlamento Europeu e do Conselho, de 16 de setembro de 2009, relativa ao acesso à atividade das instituições de moeda eletrónica, ao seu exercício e à sua supervisão prudencial, que altera as Diretivas 2005/60/CE e 2006/48/CE e revoga a Diretiva 2000/46/CE (JO L 267 de 10.10.2009, p. 7).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/fb0b31c2-fbf8-11ee-a251-01aa75ed71a1.0020.02/DOC_1#src.E0005)) JO L 168 de 27.6.2002, p. 43.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/fb0b31c2-fbf8-11ee-a251-01aa75ed71a1.0020.02/DOC_1#src.E0006)) JO L 331 de 15.12.2010, p. 84.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/fb0b31c2-fbf8-11ee-a251-01aa75ed71a1.0020.02/DOC_1#src.E0007)) JO L 146 de 10.6.2009, p 37"
+  }
+ }
+}

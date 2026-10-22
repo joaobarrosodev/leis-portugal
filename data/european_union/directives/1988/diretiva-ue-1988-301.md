@@ -33,6 +33,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-07-11'
+version_history:
+  file: diretiva-ue-1988-301.versoes.json
+  count: 1
+  source_lastmod: '2008-07-11'
+  versions:
+  - date: '2008-07-11'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31988L0301
   eli: http://data.europa.eu/eli/dir/1988/301/oj
@@ -47,7 +56,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a2904f82-99bc-41ed-bdc8-972a3f0b864b.0011
   content_url: http://publications.europa.eu/resource/cellar/4355520d-5f68-4a8e-9a04-3bc6363ea8c8.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01988L0301-20080711
-  retrieved_at: '2026-10-22T02:55:04Z'
+  retrieved_at: '2026-10-22T14:35:17Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T11:54:38.963+01:00'
 integrity:
@@ -56,9 +65,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:55:04Z'
-  notes: Texto consolidado 01988L0301-20080711.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:35:17Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-1988-301.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -155,16 +164,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:55:04Z'
+  checked_at: '2026-10-22T14:35:17Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01988L0301-19880519: versão indisponível (Sem expressão na língua por para CELEX 01988L0301-19880519.)'
+  - '01988L0301-19941108: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

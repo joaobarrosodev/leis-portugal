@@ -1,0 +1,449 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31985L0384:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01985L0384-20071020",
+ "dre_path": null,
+ "source_lastmod": "2007-10-20",
+ "versions": [
+  {
+   "date": "1985-08-21",
+   "future": false,
+   "celex": "31985L0384",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f1cf325e384802a9",
+    "211b08437e1244df",
+    "67234a091e94f676",
+    "c4a8d307d817180c",
+    "f593578904a37e52",
+    "62c0f72d6b3bd969",
+    "7d53488b4db51bd9",
+    "8f48774ab771f87d",
+    "ac43a1f0861591e0",
+    "83ea962a76f1b10a",
+    "d376da28600022b3",
+    "1d4459302f0ba8ee",
+    "02eb65686e11f2b7",
+    "4b101bf15e0e7f0a",
+    "a400c570ce693a93",
+    "1a3cf0f27f993506",
+    "dba4e4863ef1c832",
+    "e120ecbcd076a126",
+    "ff87798c37cb25ae",
+    "88cda348beb219b0",
+    "2f337550071a2dab",
+    "7937017b4ff8aea4",
+    "047db46e839b568a",
+    "de4f75fbae01e2b0",
+    "06ba21d6282bb4bd",
+    "c1571bc39470cb32",
+    "22f97fc179e356bd",
+    "5cd403a0ce2a612f",
+    "89e4e692918c5770",
+    "a76c40f90da84979",
+    "25a8a3d522d3a711",
+    "0745968a1edf062a",
+    "32baf2639af3f126",
+    "008ce44c6965886c",
+    "043f42e0522d3c50",
+    "26a6bc539fdcfff9",
+    "60ddf9aee41c5b19",
+    "f60ead41a1f586c8",
+    "b23044e7cbd4a0cc"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01985L0384-20070101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I — ÂMBITO DE APLICAÇÃO",
+    "Suprime Artigo 1o",
+    "Suprime CAPÍTULO II — DIPLOMAS, CERTIFICADOS E OUTROS",
+    "Suprime TÍTULO PROFISSIONAL DE ARQUITECTO — Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime CAPÍTULO III — DIPLOMAS, CERTIFICADOS E OUTROS",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime CAPÍTULO IV — USO DO",
+    "Suprime TÍTULO DE FORMAÇÃO — Artigo 16o",
+    "Suprime CAPÍTULO V — DISPOSIÇÕES DESTINADAS A FACILITAR O EXERCÍCIO EFECTIVO DO DIREITO DE ESTABELECIMENTO E DE LIVRE PRESTAÇÃO DE SERVIÇOS",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o",
+    "Suprime Artigo 21o",
+    "Suprime Artigo 22o",
+    "Suprime Artigo 23o",
+    "Suprime Artigo 24o",
+    "Suprime Artigo 25o",
+    "Suprime Artigo 26o",
+    "Suprime CAPÍTULO VI — DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 27o",
+    "Suprime Artigo 28o",
+    "Suprime Artigo 29o",
+    "Suprime Artigo 30o",
+    "Suprime Artigo 31o",
+    "Suprime Artigo 32o"
+   ],
+   "fragments": [
+    "e394e20969bdb854"
+   ]
+  },
+  {
+   "date": "2007-10-20",
+   "future": false,
+   "celex": "01985L0384-20071020",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "974fbc946aaa5b67"
+   ]
+  }
+ ],
+ "fragments": {
+  "f1cf325e384802a9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 85/384/CEE do Conselho, de 10 de Junho de 1985, relativa ao reconhecimento mútuo dos diplomas, certificados e outros títulos do domínio da arquitectura, incluindo medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento e de livre prestação de serviços** *Jornal Oficial nº L 223 de 21/08/1985 p. 0015 - 0025 Edição especial espanhola: Capítulo 06 Fascículo 3 p. 0009 Edição especial portuguesa: Capítulo 06 Fascículo 3 p. 0009 Edição especial finlandesa: Capítulo 6 Fascículo 2 p. 0099 Edição especial sueca: Capítulo 6 Fascículo 2 p. 0099*\n\nDIRECTIVA DO CONSELHO de 10 de Junho de 1985 relativa ao reconhecimento mútuo dos diplomas, certificados e outros títulos do domínio da arquitectura, incluindo medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento e de livre prestação de serviços\n\n(85/384/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 49o, 57o, e 66o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que, nos termos do Tratado, é proibido desde o fim do período de transição qualquer tratamento discriminatório em razão da nacionalidade, em matéria de estabelecimento e de prestação de serviços; que o princípio do tratamento nacional assim realizado se aplica, nomeadamente, à emissão de uma autorização eventualmente exigida para o acesso às actividades do domínio da arquitectura, bem como à inscrição ou filiação em organizações ou organismos profissionais;\n\nConsiderando que se afigura, no entanto, conveniente prever determinadas disposições tendentes a facilitar o exercício efectivo do direito de estabelecimento e de livre prestação de serviços para as actividades do domínio da arquitectura;\n\nConsiderando que, nos termos do Tratado, os Estados-membros são obrigados a não conceder qualquer forma de auxílio que seja susceptivel de falsear as condições de estabelecimento;\n\nConsiderando que o no 1 do artigo 57o do Tratado prevé que sejam adoptadas directivas com o objectivo do reconhecimento mútuo dos diplomas, certificados e outros títulos;\n\nConsiderando que a criação arquitectónica, a qualidade das construções, a sua inserção harmoniosa no ambiente circundante, o respeito das paisagens naturais e urbanas bem como do património colectivo e privado são do interesse público; que, por conseguinte, o reconhecimento mútuo dos diplomas, certificados e outros títulos deve basear-se em critérios qualitativos e quantitativos que garantam que os titulares dos diplomas, certificados e outros títulos reconhecidos estão aptos a compreender e traduzir as necessidades dos indivíduos, dos grupos sociais e das colectividades em matéria de organização do espaço, de concepção, organização e realização das construções, de conservação e valorização do património construído e de protecção dos equilíbrios naturais;\n\nConsiderando que os sistemas de formação dos profissionais que exercem actividades no domínio da arquitectura são actualmente muito diversificados; que é, no entanto, conveniente prever uma convergência das formações que conduzem ao exercício de tais actividades com o título profissional de arquitecto;\n\nConsiderando que, em determinados Estados-membros, a lei subordina o acesso às actividades da arquitectura e o seu exercício à titularidade de um diploma de arquitectura; que, em determinados outros Estados-membros em que essa condição não existe, o direito ao título profissional de arquitecto é, não obstante, regulamentado pela lei; que, finalmente, em determinados Estados-membros em que não se verifica nenhum destes dois casos, estão a ser preparadas disposições legislativas e regulamentares relativas ao acesso às referidas actividades e ao seu exercício com o título profissional de arquitecto; que, por consequência, não estão ainda fixadas nestes Estados-membros as condições que regulam o acesso a essas actividades e o seu exercício; que o reconhecimento mútuo dos diplomas, certificados e outros títulos pressupõe que tais diplomas, certificados e outros títulos permitam o acesso a determinadas actividades e o seu exercício no Estado-membro que os emitiu; que, por conseguinte, o reconhecimento de determinados certificados ao abrigo da presente directiva só deve manter-se em vigor na medida em que os seus titulares, em conformidade com as disposições legais que devem ainda ser adoptados no Estado-membro que emitiu os certificados em causa, tenham acesso às actividades designadas com o título profissional de arquitecto;\n\nConsiderando que o acesso ao título profissional legal de arquitecto está subordinado, em determinados Estados-membros, à realização de um estágio profissional (para além da obtenção do diploma, certificado ou outro título); que, não existindo ainda quanto a este ponto, convergência entre os Estados-membros, é conveniente, para obviar a eventuais dificuldades, reconhece como condição suficiente uma experiência prática adequada, de igual duração, adquirida em outro Estado-membro;\n\nConsiderando que a referência feita, no no 2 do artigo 1o, às «actividades do domínio da arquitectura habitualmente exercidas com o título profissional de arquitecto», justificada pela situação existente em determinados Estados-membros, tem unicamente por objectivo indicar o âmbito de aplicação da presente directiva, sem com isso pretender dar uma definição jurídica das actividades no sector da arquitectura;\n\nConsiderando que, na maioria dos Estados-membros, as actividades do domínio da arquitectura são exercidas, de direito ou de facto, por pessoas que possuem o título de arquitecto, acompanhado ou não de outro título, sem que essas pessoas beneficiem por isso de um monopólio do exercício dessas actividades, salvo disposições legislativas em contrário; que as actividades supracitadas, ou algumas delas, podem igualmente ser exercidas por outros profissionais, nomeadamente, engenheiros que tenham recebido uma formação específica no domínio da construção ou da arte de construir;\n\nConsiderando que o reconhecimento mútuo dos títulos facilitará o acesso ás actividades em causa e o seu exercício;\n\nConsiderando que, em determinados Estados-membros, existem disposições legislativas que autorizam, a título excepcional e em derrogação das condições de formação normalmente exigidas para o acesso ao título profissional legal de arquitecto, a atribuição desse título a determinadas pessoas, aliás em número muito reduzido, cuja obra evidencie um talento excepcional no domínio da arquitectura; que o caso destes arquitectos deve ser abrangido pela presente directiva, tanto mais que os mesmos disfrutam frequentemente de reputação internacional;\n\nConsiderando que o reconhecimento de vários diplomas, certificados e outros títulos existentes, referidos nos artigos 10o, 11o e 12o, tem por objectivo permitir aos titulares desses diplomas estabelecerem-se ou prestarem serviços em outros Estados-membros com efeito imediato; que a introdução súbita desta disposição no Grão-ducado do Luxemburgo poderia, dada a exiguidade do seu território, provocar distorções de concorrência e desorganizar o exercício da profissão; que se afigura, por conseguinte, esistir uma justificação para conceder a este Estado-membro um período suplementar de adaptação;\n\nConsiderando que, dado o facto de uma directiva relativa ao reconhecimento mútuo dos diplomas, certificados e outros títulos não implicar necessariamente uma equivalência material das formações a que tais títulos se referem, é conveniente autorizar o seu uso apenas na língua do Estado-membro de origem ou de proveniência;\n\nConsiderando que, para facilitar a aplicação da presente directiva pelas administrações nacionais, os Estados-membros podem exigir que, juntamente com o seu título de formação, as pessoas que preenchem as condições de formação previstas na directiva apresentem um certificado das autoridades competentes do Estado-membro de origem ou de proveniência que comprove que esses títulos são os referidos na presente directiva;\n\nConsiderando que, em caso de estabelecimento, podem ser aplicadas como normas para o acesso às actividades as disposições nacionais em matéria de honorabilidade e boa conduta; que, nestas circunstâncias, é conveniente estabelecer uma distinção entre os casos das pessoas interessadas que nunca exerceram actividade no domínio da arquitectura e os das que já exerceram tais actividades num outro Estado-membro;\n\nConsiderando que, no caso de prestação de serviços, a exigência de uma inscrição ou filiação em organizações ou organismos profissionais, relacionada com a natureza estável e permanente da actividade exercida no Estado-membro de acolhimento, constituiria incontestavelmente um obstáculo para o prestador de serviços devido ao carácter temporário da sua actividade; que é, portanto, conveniente suprimir tal exigência; que, no entanto, é necessário assegurar neste caso o controlo da disciplina profissional, que é da competência dessas organizações ou organismos profissionais; que é conveniente prever para este efeito, sem prejuízo da aplicação do artigo 62o do Tratado, a possibilidade de impor à pessoa interessada a obrigação de notificar a prestação de serviços à autoridade competente do Estado-membro de acolhimento;\n\nConsiderando que, no que diz respeito às actividades assalariadas do domínio da arquitectura, o Regulamento (CEE) no 1612/68 do Conselho, de 15 de Outubro de 1968, relativo à livre circulação dos trabalhadores na Comunidade (4), não inclui disposições específicas para as profissões regulamentadas em matéria de boa conduta e de honorabilidade, de disciplina profissional e de uso de um título; que, consoante os Estados-membros, as regulamentações em causa são ou podem ser aplicadas tanto aos assalariados como aos não-assalariados; que as actividades do domínio da arquitectura estão subordinadas em vários Estados-membros à posse de um diploma, certificado ou outro título; que estas actividades são exercidas tanto por assalariado e de não-assalariado pelas mesmas pessoas ao longo da sua carreira profissional: que, para promover plenamente a livre circulação destes profissionais na Comunidade, se afigura assim necessário alargar a aplicação da presente directiva aos assalariados que exercem actividades no domínio da arquitectura;\n\nConsiderando que a presente directiva institui um reconhecimento mútuo dos diplomas, certificados e outros títulos que dão acesso a actividades profissionais, sem uma coordenação concomitante das disposições nacionais relativas à formação; que, além disso, o número de profissionais interessados varia consideravelmente de um Estado-membro para outro; que, nestas condições, os primeiros anos de aplicação da presente directiva devem ser objecto de uma vigilância particularmente atenta por parte da Comissão,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "211b08437e1244df": {
+   "fragment_id": "CAPÍTULO I — ÂMBITO DE APLICAÇÃO",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — ÂMBITO DE APLICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — ÂMBITO DE APLICAÇÃO"
+  },
+  "67234a091e94f676": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva aplica-se às actividades do domínio da arquitectura.\n\n2. Para efeitos do disposto na presente directiva, entende-se por actividades do domínio da arquitectura as exercidas habitualmente com o título profissional de arquitecto."
+  },
+  "c4a8d307d817180c": {
+   "fragment_id": "CAPÍTULO II — DIPLOMAS, CERTIFICADOS E OUTROS",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — DIPLOMAS, CERTIFICADOS E OUTROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — DIPLOMAS, CERTIFICADOS E OUTROS\n\nTÍTULOS QUE DAO ACESSO ÀS ACTIVIDADES DO DOMÍNIO DA ARQUITECTURA COM O"
+  },
+  "f593578904a37e52": {
+   "fragment_id": "TÍTULO PROFISSIONAL DE ARQUITECTO — Artigo 2o",
+   "type": "divisao",
+   "heading": "TÍTULO PROFISSIONAL DE ARQUITECTO — Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO PROFISSIONAL DE ARQUITECTO — Artigo 2o\n\nCada Estado-membro reconhecerá os diplomas, certificados e outros títulos obtidos mediante uma formação que satisfaça os requisitos dos artigos 3o e 4o e emitidos aos nacionais dos Estados-membros pelos outros Estados-membros, atribuindo-lhes no seu território, no que se refere ao acesso às actividades referidas no artigo 1o e ao exercício destas com o título profissional de arquitecto, nas condições previstas no no 1 do artigo 23o, o mesmo efeito que aos diplomas, certificados e outros títulos por ele emitidos."
+  },
+  "62c0f72d6b3bd969": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nAs formações que conduzem à obtenção dos diplomas, certificados e outros títulos referidos no artigo 2o serão asseguradas por um ensino de nível universitário de que a arquitectura constituirá o elemento principal. Este ensino deve manter um equilíbrio entre os aspectos teóricos e práticos da formação em arquitectura e assegurar a aquisição:\n\n1) Da capacidade de conceber projectos de arquitectura que satisfaçam as exigências estéticas e técnicas;\n\n2) De um conhecimento adequado da história e das teorias da arquitectura bem como das artes, tecnologias e ciências humanas conexas;\n\n3) De um conhecimento das belas-artes enquanto factores susceptíveis de influenciar a qualidade da concepção arquitectónica;\n\n4) De um conhecimento adequado em matéria de urbanismo, planificação e técnicas aplicadas no processo de planificação;\n\n5) Da capacidade de apreender as relações, entre, por um lado, o homem e as criações arquitectónicas e, por outro, as criações arquitectónicas e o seu ambiente, bem como a necessidade de relacionar entre si criações arquitectónicas e espaços em função das necessidades e da escala humana;\n\n6) Da compreensão da profissão de arquitecto e do seu papel na sociedade, nomeadamente, pela elaboração de projectos que tomem em consideração os factores sociais;\n\n7) De um conhecimento dos métodos de investigação e preparação do projecto de construção;\n\n8) Do conhecimento dos problemas de concepção estrutural, de construção e de engenharia civil relacionados com a concepção dos edifícios;\n\n9) De um conhecimento adequado dos problemas físicos e das tecnologias bem como da função dos edifícios, no sentido de os dotar de todos os elementos de conforto interior e de protecção climatérica;\n\n10) De uma capacidade técnica que lhe permita conceber construções que satisfaçam as exigências dos utentes, dentro dos limites impostos pelo factor custo e pelas regulamentações em matéria de construção;\n\n11) De um conhecimento adequado das indústrias, organizações, regulamentações e procedimentos implicados na concretização dos projectos em construções e na integração dos planos na planificação."
+  },
+  "7d53488b4db51bd9": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. A formação referida no artigo 2o deve satisfazer simultaneamente os requisitos definidos no artigo 3o e as condições seguintes:\n\na) A duração total da formação deve consistir, no mínimo, ou em quatro anos de estudos a tempo inteiro numa universidade ou num estabelecimento de ensino equivalente, ou em pelo menos seis anos de estudos numa universidade ou num estabecimento equivalente, três dos quais pelo menos devem ser a tempo inteiro;\n\nb) A formação deve ser concluída pela aprovação num exame de nível universitário.\n\nEm derrogação do primeiro parágrafo, é igualmente reconhecida nos termos do artigo 2o a formação das «Fachhochschulen» na República Federal da Alemanha ministrada em três anos, existente no momento da notificação da presente directiva, que satisfaça os requisitos definidos no artigo 3o e dê acesso às actividades referidas no artigo 1o nesse Estado-membro com o título profissional de arquitecto, desde que a formação seja completada por um período de experiência profissional de quatro anos na República Federal da Alemanha, comprovado por um certificado emitido pelo organismo profissional em que está inscrito o arquitecto que pretende beneficiar das disposições da presente directiva. O organismo profissional deve previamente estabelecer que os trabalhos executados pelo arquitecto em causa no domínio da arquitectura constituem prova bastante da aplicação prática do conjunto dos conhecimentos referidos no artigo 3o. Este certificado é emitido de acordo com o mesmo procedimento que se aplica à inscrição no organismo profissional.\n\nCom base na experiência adquirida e tendo em conta a evolução das formações no domínio da arquitectura, a Comissão submeterá ao Conselho, oito anos após o termo do prazo previsto no no 1, primeiro parágrafo, do artigo 31, um relatório sobre a aplicação desta derrogação e as propostas adequadas com base nas quais o Conselho deliberará de acordo com os procedimentos fixados no Tratado no prazo de seis meses.\n\n2. É igualmente reconhecida nos termos do artigo 2o a formação que, no âmbito da promoção social ou dos estudos universitários a tempo parcial, satisfaça os requisitos definidos no artigo 3o e seja concluída por uma aprovação num exame de arquitectura, obtida por uma pessoa que tenha trabalhado no domínio da arquitectura durante, pelo menos, sete anos sob a supervisão de um arquitecto ou de um gabinete de arquitectos. Este exame deve ser de nível universitário e equivalente ao exame final referido no no 1, alínea b)."
+  },
+  "8f48774ab771f87d": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. São consideradas preenchidas as condições requeridas para o exercício das actividades referidas no artigo 1o, com o título profissional de arquitecto, no caso dos nacionais de um Estado-membro autorizados a usar esse título nos termos de uma lei que atribua à autoridade competente de um Estado-membro a faculdade de conceder esse título aos nacionais dos Estados-membros que se tenham especialmente distinguido pela qualidade das suas realizações no domínio da arquitectura.\n\n2. A qualidade de arquitecto dos interessados referidos no no 1 é comprovada por um certificado emitido pelo Estado-membro de origem ou de proveniência dos beneficiários."
+  },
+  "ac43a1f0861591e0": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nSão reconhecidos, nas condições previstas no artigo 2o, os certificados emitidos pelas autoridades competentes da República federal da Alemanha que comprovem a equivalência respectiva dos títulos de formação emitidos após 8 de Maio de 1945 pelas autoridades competentes da República Democrática da Alemanha com os títulos referidos no mesmo artigo."
+  },
+  "83ea962a76f1b10a": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Cada Estado-membro comunicará, o mais cedo possível, simultaneamente aos outros Estados-membros e à Comissão, a lista dos diplomas, certificados e outros títulos de formação emitidos no seu território e que satisfazem os critérios referidos nos artigos 3o e 4o, bem como os estabelecimentos ou autoridades que os emitem.\n\nA primeira comunicação será enviada durante os doze meses seguintes à notificação da presente directiva.\n\nCada Estado-membro comunicará da mesma forma as alterações dos diplomas, certificados e outros títulos de formação emitidos no seu território, nomeadamente, em relação aos que deixarem de satisfazer os requisitos referidos nos artigos 3o e 4o.\n\n2. As listas e as suas actualizações serão publicadas pela Comissão para informação no Jornal Oficial das Comunidades Europeias após o prazo de três meses a contar da sua comunicação. No entanto, a publicação de um diploma, certificado ou outro título será diferida nos casos previstos no artigo 8o. Serão periodicamente publicadas pela Comissão listas consolidadas."
+  },
+  "d376da28600022b3": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nSe um Estado-membro ou a Comissão tiver dúvidas sobre se um diploma, certificado ou outro título satisfaz os critérios referidos nos artigos 3o e 4o, o assunto será submetido pela Comissão ao Comité Consultivo para a Formação no Domínio da Arquitectura no prazo de três meses a contar da comunicação efectuada nos termos do no 1 do artigo 7o. O Comité emitirá o seu parecer dentro de três meses.\n\nO diploma, certificado ou outro título em causa será puplicado dentro dos três meses seguintes à emissão do parecer ou ao termo do prazo previsto para a sua emissão, salvo nos dois casos seguintes:\n\n- se o Estado-membro que o emite alterara a comunicação efectuada nos termos do no 1 do artigo 7o,\n\nou\n\n- se um Estado-membro ou a comissão fizerem uso dos artigos 169o e 170o do Tratado com vista a recorrer ao Tribunal de Justiça das Comunidades Europeias."
+  },
+  "1d4459302f0ba8ee": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Sempre que um Estado-membro ou a Comissão tiverem dúvidas sobre se um diploma, certificado ou outro título constante de uma das listas publicadas no Jornal Oficial das Comunidades Europeias satisfaz os requisitos dos artigos 3o e 4o, o Estado-membro ou a Comissão pode pedir parecer do Comité Consultivo. O Comité emitirá o seu parecer dentro de três meses.\n\n2. A Comissão retirará um diploma de uma das listas publicadas no Jornal Oficial das Comunidades Europeias com o acordo do Estado-membro interessado ou na sequência de um acórdão do Tribunal de Justiça."
+  },
+  "02eb65686e11f2b7": {
+   "fragment_id": "CAPÍTULO III — DIPLOMAS, CERTIFICADOS E OUTROS",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — DIPLOMAS, CERTIFICADOS E OUTROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — DIPLOMAS, CERTIFICADOS E OUTROS\n\nTÍTULOS QUE DAO ACESSO ÀS ACTIVIDADES DO DOMÍNIO DA ARQUITECTURA, POR FORÇA DE DIREITOS ADQUIRIDOS OU DE DISPOSIÇÕES NACIONAIS EXISTENTES"
+  },
+  "4b101bf15e0e7f0a": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nCada Estado-membro reconhecerá os diplomas, certificados e outros títulos, referidos no artigo 11o, concedidos pelos outros Estados-membros aos nacionais dos Estados-membros que sejam já titulares dessas qualificações à data da notificação da presente directiva ou que tenham iniciado os seus estudos, comprovados por esses diplomas, certificados e outros títulos, o mais tardar durante o terceiro ano académico seguinte a essa notificação, mesmo que não satisfaçam os requisitos mínimos dos títulos referidos no Capítulo II, atribuindo-lhes, no que diz respeito ao acesso às actividades referidas no artigo 1o e ao seu exercício, com a observância do artigo 23o, o mesmo efeito no seu território que aos diplomas, certificados e outros títulos do domínio da arquitectura por ele emitidos."
+  },
+  "a400c570ce693a93": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nOs diplomas, certificados e outros títulos referidos no artigo 10o são:\n\na) Na República Federal da Alemanha\n\n- os diplomas emitidos pelas Escolas Superiores de Belas-Artes [Dipl.-Ing., Architekt (HfbK)];\n\n- os diplomas emitidos pelas secções de arquitectura (Architektur/Hochbau) das (Technische Hochschulen), das universidades técnicas, das universidades e, quando estes estabelecimentos tiverem sido agrupados em (Gesamthochschulen, das Gesamthochschulen) (Dipl.-Ing. e outras designações que podem posteriormente ser atribuídas aos titulares destes diplomas),\n\n- os diplomas emitidos pelas secções de arquitectura (Architektur/Hochbau) das (Fachhochschulen) e, quando estes estabelecimentos tiverem sido agrupados em (Gesamthochschulen, das Gesamthochschulen), acompanhados, quando a duração dos estudos for inferior a quatro anos mas de pelo menos três anos, do certificado comprovativo de um período de experiência profissional de quatro anos na República Federal da Alemanha, emitido pelo organismo profissional em conformidade com o no 1, segundo parágrafo, do artigo 4o (Ingenieur grad. e outras designações que podem posteriormente ser atribuídas aos titulares destes diplomas),\n\n- os certificados (Pruefungszeugnisse) emitidos antes de 1 de Janeiro de 1973 pelas secções de arquitectura das Ingenieurschulen e das (Werkkunstschulen), acompanhados de um certificado das autoridades competentes comprovativo da aprovação do interessado num exame documental em conformidade com o artigo 13o;\n\nb) Na Bélgica\n\n- os diplomas emitidos pelas escolas nacionais superiores de arquitectura ou pelos institutos superiores de arquitectura (architecte-architect),\n\n- os diplomas emitidos pela Escola Provincial Superior de Arquitectura de Hasselt (architect),\n\n- os diplomas emitidos pelas Academias Reais de Belas-Artes (architecte-architect),\n\n- os diplomas pelas escolas Saint-Luc (architecte-architect),\n\n- os diplomas universitários de engenheiro civil, acompanhados de um certificado de estágio emitido pela ordem dos arquitectos que confira direito ao uso do título profissional de arquitecto (architecte-architect),\n\n- os diplomas de arquitecto emitidos pelo júri central ou de Estado de Arquitectura (architecte-architect),\n\n- os diplomas de engenheiro civil-arquitecto e de engenheiro-arquitecto emitidos pelas faculdades de ciências aplicadas das universidades e pela faculdade politécnica de Mons (ingénieur-architecte, ingenieur-architect);\n\nc) Na Dinamarca\n\n- os diplomas emitidos pelas Escolas Nacionais de Copenhaga e de AArhus (arkitekt),\n\n- o certificado de aprovação emitido pela comissão dos arquitectos nos termos da lei no 202 de 28 de Maio de 1975 (registreret arkitekt),\n\n- os diplomas emitidos pelas Escolas Superiores de Engenharia Civil (bygningskonstruktoer), acompanhados de um certificado das autoridades competentes comprovativo da aprovação do interessado num exame documental em conformidade com o artigo 13o;\n\nd) Em França\n\n- os diplomas de arquitecto diplomado pelo governo emitidos até 1959 pelo Ministério da Educação Nacional e, depois dessa data, pelo Ministério dos Assuntos Culturais (architecte DPLG),\n\n- os diplomas emitidos pela escola Especial de Arquitectura (architecte DESA),\n\n- os diplomas emitidos a partir de 1955 pela secção de arquitectura da Escola Nacional Superior das Artes e Indústrias de Estrasburgo (ex-escola nacional de engenharia de Estrasburgo) (architecte ENSAIS);\n\ne) Na Grécia\n\n- os diplomas de engenheiro-arquitecto emitidos pelo Metsovion Polytechnion de Atenas, acompanhados de um certificado emitido pela Câmara técnica da Grécia que confira direito ao exercício das actividades do domínio da arquitectura,\n\n- os diplomas de engenheiro-arquitecto emitidos pelo Aristotelion Panepistimion de Tessalónica, acompanhados de um certificado emitido pela Câmara técnica da Grécia que confira direito ao exercício das actividades do domínio de arquitectura,\n\n- os diplomas de engenheiro-engenheiro civil emitidos pelo Metsovion Polytechnion de Atenas, acompanhados de um certificado emitido pela Câmara técnica da Grécia que confira direito ao exercício das actividades do domínio da arquitectura,\n\n- os diplomas de engenheiro-engenheiro civil emitidos pelo Aristotelion Panepistimion de Tessalónica, acompanhados de um certificado emitido pela câmara técnica da Grécia que confira direito ao exercício das actividades do domínio da arquitectura,\n\n- os diplomas de engenheiro-engenheiro civil emitidos pelo Panepistimion Thrakis acompanhados de um certificado emitido pela Câmara técnica da Grécia que confira direito ao exercício das actividades do domínio da arquitectura,\n\n- os diplomas de engenheiro-engenheiro civil emitidos pelo Panepistimion Patron, acompanhados de um certificado emitido pela Câmara técnica da Grécia que confira direito ao exercício das actividades do domínio da arquitectura;\n\nf) Na Irlanda\n\n- o grau de «Bachelkor of Architecture» concedido pela «National University of Ireland» [B. Arch. (NUI)] aos diplomados em arquitectura do «University College» de Dublim,\n\n- o diploma de nível universitário em arquitectura concedido pelo «College of Technology», Bolton Street, Dublim (Dipl. Arch.),\n\n- o certificado de membro associado do «Royal Institute of Architects of Ireland» (ARIAI),\n\n- o certificado de membro do «Royal Institute of Architects of Ireland» (MRIAI);\n\ng) Em Itália\n\n- os diplomas de «laurea in architettura» emitidos pelas universidades, pelos Institutos Politécnicos e pelos Institutos Superiores de Arquitectura de Veneza e de Reggio Calabria, acompanhados do diploma que habilita ao exercício independente da profissão de arquitecto, emitido pelo Ministro da Educação, após aprovação do candidato, perante um júri competente, no exame de Estado que habilita ao exercício independente da profissão de arquitecto (dott. architetto),\n\n- os diplomas de «laurea in ingegneria» no domínio da construção, emitidos pelas Universidades e pelos Institutos Politécnicos, acompanhados do diploma que habilita ao exercício independente de uma profissão do domínio da arquitectura, emitido pelo Ministro da Educação, após aprovação do candidato, perante um júri competente, no exame de Estado que habilita ao exercício independente da profissão (dott. ing. architetto ou dott. ing. in ingegneria civile);\n\nh) Nos Países Baixos\n\n- o certificado comprovativo da aprovação no exame de licenciatura em arquitectura, emitido pelas secções de arquitectura das Escolas Técnicas Superiores de Delft ou de Eindhoven (bouwkundig ingenieur),\n\n- os diplomas emitidos pelas Academias de arquitectura reconhecidas pelo Estado (architect),\n\n- os diplomas emitidos até 1971 pelos antigos estabelecimentos de Ensino Superior de Arquitectura (Hoger Bouwkunstonderricht) (architect HBO),\n\n- os diplomas emitidos até 1970 pelos antigos estabelecimentos de Ensino Superior de Arquitectura (Vorrtgezet Bouwkunstonderricht) (architect VBO),\n\n- o certificado comprovativo da aprovação num exame organizado pelo Conselho dos arquitectos do «Bond Van Nederlandse Architecten» (Ordem dos Arquitectos Neerlandeses, BNA) (architect),\n\n- o diploma da «Stichtung Institut voor Architectuur» (Fundação «Instituto de Arquitectura» (IVA) emitido no termo de um curso organizado por esta fundação com a duração mínima de quatro anos (architect), acompanhado de um certificado das autoridades competentes comprovativo da aprovação do interessado num exame documental em conformidade com o artigo 13o,\n\n- um atestado das autoridades competentes comprovativo de que, antes da entrada em vigor da presente directiva, o interessado foi admitido ao exame de «kandidaat in de bouwkunde», organizado pelas Escolas Técnicas Superiores de Delft ou de Eindhoven, e exerceu, durante um período de pelo menos cinco anos imediatamente anteriores à referida data, actividades de arquitecto cuja natureza e importância garantem, de acordo com os critérios reconhecidos nos Países Baixos, uma competência suficiente para o exercício dessas actividades (architect),\n\n- um atestado das autoridades competentes emitido unicamente para as pessoas que tenham atingido a idade de quarenta anos antes da data de entrada em vigor da presente directiva e que comprove que o interessado exerceu, durante um período de pelo menos cinco anos imediatamente anteriores à referida data, actividades de arquitecto cuja natureza e importância garantem, de acordo com os critérios reconhecidos nos Países Baixos, uma competência suficiente para o exercício dessas actividades (architect),\n\nOs atestados referidos nos sétimo e oitavo travessões devem deixar de ser reconhecidos a partir da data de entrada em vigor de disposições legislativas e regulamentares relativas ao acesso às actividades de arquitecto e ao seu exercício com o título profissional de arquitecto nos Países Baixos, sempre que esses atestados não confiram, por força das referidas disposições, acesso a essas actividades com o título profissional referido;\n\ni) No Reino Unido\n\nOs títulos emitidos na sequência de aprovação nos exames:\n\n- do «Royal Institute of British Architects»,\n\n- das Escolas de Arquitectura:\n\ndas Universidades,\n\ndos Institutos Superiores Politécnicos,\n\ndos «colleges»,\n\ndas Academias («colleges» privados),\n\ndos Institutos de Tecnologia e Belas-Artes,\n\nque eram ou são reconhecidos no momento da adopção da presente directiva pelo «Architects Registration Council» do Reino Unido para fins de inscrição no registo da profissão (Architect),\n\n- um certificado comprovativo de que o seu titular tem um direito adquirido à manutenção do seu título profissional de arquitecto nos termos da secção 6(1)a, 6(1)b ou 6(1)d do «Architects Registration Act» de 1931 (Architect),\n\n- um certificado comprovativo de que o seu titular tem um direito adquirido à manutenção do seu título profissional de arquitecto nos termos da secção 2 do «Architects Registration Act» de 1938 (Architect)."
+  },
+  "1a3cf0f27f993506": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nSem prejuízo do disposto no artigo 10, cada Estado-membro reconhecerá, atribuindo-lhes no seu território, no que diz respeito ao acesso às actividades referidas no artigo 1 e ao seu exercício com o título prifissional de arquitecto, o mesmo efeito que aos diplomas, certificados e outros títulos de arquitecto por ele emitidos:\n\n- os certificados concedos aos nacionais dos Estados-membros pelos Estados-membros que, no momento da notificação da presente directiva, têm uma regulamentação do acesso e do exercício das actividades referidas no artigo 1 com o título profissional de arquitecto e que comprovem que o seu títular recebeu a autorização de usar o título profissional de arquitecto antes da aplicação da presente directiva e se dedicou efectivamente, no âmbito dessa regilamentação, às actividades em causa durante pelo menos três anos consecutivos no decurso dos cinco anos anteriores à emissão dos certificados,\n\n- os certificados concedidos nacionais dos Estados-membros pelos Estados-membros que, entre o momento da notificação e o da aplicação da presente directiva, introduzam uma regulamentação do acesso e do exercício das actividades referidas no artigo 1o com o título profissional de arquitecto e que comprovem que o seu titular recebeu a autorização de usar o título profissional de arquitecto no momento da aplicação da presente directiva e se dedicou efectivamente, no âmbito dessa regulamentação, às actividades em causa durante pelo menos três anos consecutivos no decurso dos cinco anos anteriores à emissão dos certificados."
+  },
+  "dba4e4863ef1c832": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nO exame documental referido na alínea a), quarto travessão, do artigo 11o, na alínea c), terceiro travessão, do artigo 11o e na alínea h), sexto travessão, do artigo 11o inclui a apreciação de projectos elaborados e realizados pelo candidato no decorrer de uma prática efectiva, durante pelo menos seis anos, das actividades referidas no artigo 1o."
+  },
+  "e120ecbcd076a126": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nSão reconhecidos, nas condições previstas no artigo 11o, os certificados das autoridades competentes da República Federal da Alemanha que comprovam a respectiva equivalência dos títulos de formação emitidos a partir de 8 de Maio de 1945 pelas autoridades competentes da República Democrática da Alemanha aos títulos constantes do referido artigo."
+  },
+  "ff87798c37cb25ae": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nSem prejuízo do disposto no artigo 5o, o Grão-Ducado do Luxemburg é autorizado a suspender a aplicação dos artigos 10o, 11o e 12o no que diz respeito ao reconhecimento de diplomas, certificados ou outros títulos não universitários, a fim de evitar distorções de concorrência, durante um período transitório de quatro anos e meio a contar da data da notificação da presente directiva."
+  },
+  "88cda348beb219b0": {
+   "fragment_id": "CAPÍTULO IV — USO DO",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — USO DO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — USO DO"
+  },
+  "2f337550071a2dab": {
+   "fragment_id": "TÍTULO DE FORMAÇÃO — Artigo 16o",
+   "type": "divisao",
+   "heading": "TÍTULO DE FORMAÇÃO — Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO DE FORMAÇÃO — Artigo 16o\n\n1. Sem prejuízo do disposto no artigo 23, os Estados-membros de acolhimento assegurarão que seja reconhecido aos nacionais dos Estados-membros que preenchem as condições previstas no Capítulo II ou no Capítulo III o direito de usarem o seu título de formação legítimo e, eventualmente, a sua abreviatura, do Estado-membro de origem ou de proveniência, na língua desse Estado. Os Estados-membros de acolhimento podem determinar que esse título seja seguido do nome e do local do estabelecimento ou do júri que o emitiu.\n\n2. Se o título de formação do Estado-membro de origem ou de proveniência puder ser confundido no Estado-membro de acolhimento com um título que exija, nesse Estado, uma formação complementar não adquirida pela pessoa em causa, esse Estado-membro de acolhimento pode determinar que essa pessoa utilize o seu título de formação do Estado-membro de origem ou de proveniência numa fórmula adequada a indicar pelo Estado-membro de acolhimento."
+  },
+  "7937017b4ff8aea4": {
+   "fragment_id": "CAPÍTULO V — DISPOSIÇÕES DESTINADAS A FACILITAR O EXERCÍCIO EFECTIVO DO DIREITO DE ESTABELECIMENTO E DE LIVRE PRESTAÇÃO DE SERVIÇOS",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — DISPOSIÇÕES DESTINADAS A FACILITAR O EXERCÍCIO EFECTIVO DO DIREITO DE ESTABELECIMENTO E DE LIVRE PRESTAÇÃO DE SERVIÇOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — DISPOSIÇÕES DESTINADAS A FACILITAR O EXERCÍCIO EFECTIVO DO DIREITO DE ESTABELECIMENTO E DE LIVRE PRESTAÇÃO DE SERVIÇOS\n\nA. Disposições especiais relativas ao direito de estabelecimento"
+  },
+  "047db46e839b568a": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\n1. O Estado-membro de acolhimento que exija dos seus nacionais uma prova de boa conduta ou de honorabilidade para o primeiro acesso a uma das actividades referidas no artigo 1o aceitará como prova suficiente para os nacionais dos outros Estados-membros, um atestado emitido por uma autoridade competente do Estado-membro de origem ou de proveniência que comprove o cumprimento das condições de boa conduta ou de honorabilidade exigidas nesse Estado-membro para o acesso à actividade em causa.\n\n2. Sempre que o Estado-membro de origem ou de proveniência não exigir uma prova de boa conduta ou de honorabilidade para o primeiro acesso à actividade em causa, o Estado-membro de origem ou de proveniência um certificado do registo criminal ou, na falta deste, um documento equivalente emitido por uma autoridade competente do Estado-membro de origem ou de proveniência.\n\n3. Se o Estado-membro de origem ou de proveniência não emitir o documento referido no no 2, o mesmo pode ser substituido por uma declaração sob juramento - ou, nos casos em que tal juramento não exista, por uma declaração solene - feita pelo interessado perante uma autoridade judicial ou administrativa competente ou, se for caso disso, um notário ou um organismo profissional qualificado do Estado-membro de origem ou de proveniência, o qual emitirá um atestado fazendo fé desse juramento ou declaração solene.\n\n4. O Estado-membro de acolhimento, se tiver conhecimento de factos graves e precisos ocorridos fora do seu território antes do estabelecimento do interessado nesse Estado, ou da existência de informações incorrectas na declaração referida no no 3 e se os factos ou as informações forem susceptíveis de ter consequências quanto ao acesso à actividade em causa no seu território, pode informar o Estado-membro de origem ou de proveniência.\n\nO Estado-membro de origem ou de proveniência examinará a veracidade dos factos na medida em que sejam susceptíveis de ter nesse Estado-membro consequências quanto ao acesso à actividade em causa. As autoridades deste Estado decidirão elas próprias a natureza e o âmbito das investigações a efectuar e comunicarão ao Estado-membro de acolhimento as consequências que daí tiram a respeito dos certificados ou documentos por elas emitidos.\n\n5. Os Estados-membros assegurarão o segredo das informações transmitidas."
+  },
+  "de4f75fbae01e2b0": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\n1. Sempre que num Estado-membro de acolhimento estiverem em vigor disposições legislativas, regulamentares e administrativas sobre a observância de boa conduta ou de honorabilidade, incluindo disposições que prevejam sanções disciplinares em caso de falta profissional grave ou de condenação por crime, e relativas ao exercício de uma das actividades referidas no artigo 1o, o Estado-membro de origem ou de proveniência transmitirá ao Estado-membro de acolhimento as informações necessárias relativas às medidas ou sanções de natureza profissional ou administrativa tomadas contra a pessoa em causa ou às sanções penais referentes ao exercício da profissão no Estado-membro de origem ou de proveniência.\n\n2. O Estado-membro de acolhimento, se tiver conhecimento de factos graves e precisos ocorridos fora do seu território antes do estabelecimento do interessado nesse Estado, susceptíveis de terem neste consequências quanto ao exercício da actividade em causa, pode informar o Estado-membro de origem ou de proveniência.\n\nO Estado-membro de origem ou de proveniência examinará a veracidade dos factos na medida em que sejam susceptíveis de ter nesse Estado-membro consequências quanto ao exercício da actividade em causa. As autoridades deste Estado decidirão elas próprias a natureza e o âmbito das investigações a efectuar e comunicarão ao Estado-membro de acolhimento as consequências que daí tiram a respeito das informações que transmitiram nos termos do no 1.\n\n3. Os Estados-membros assegurarão o segredo das informações transmitidas."
+  },
+  "06ba21d6282bb4bd": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nOs documentos referidos nos artigos 17o e 18o não podem ser apresentados mais de três meses após a data da sua emissão."
+  },
+  "c1571bc39470cb32": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\n1. O processo de admissão do interessado ao acesso a uma das actividades referidas no artigo 1o, em conformidade com os artigos 17o e 18o, deve ser concluído com a maior brevidade possível e o mais tardar, três meses após a apresentação de todos os documentos pelo interessado, sem prejuízo dos atrasos que podem resultar de um eventual recurso no termo deste processo.\n\n2. Nos casos referidos no no 4 do artigo 17o e no no 2 do artigo 18o, o pedido de reexame suspende o prazo fixado no no 1.\n\nO Estado-membro consultado deve responder no prazo de três meses.\n\nO Estado-membro de acolhimento dá seguimento ao processo referido no no 1 a partir da recepção dessa resposta ou no termo desse prazo."
+  },
+  "22f97fc179e356bd": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\nSempre que um Estado-membro exigir dos seus nacionais um juramento ou uma declaração solene para o acesso a uma das actividades referidas no artigo 1o, ou para o seu exercício, e no caso de a fórmula desse juramento ou dessa declaração não poder ser utilizada pelos nacionais dos outros Estados-membros, o Estado-membro de acolhimento assegurará que seja apresentada aos interessados uma fórmula adequada e equivalente.\n\nB. Disposições especiais relativas à prestação de serviços"
+  },
+  "5cd403a0ce2a612f": {
+   "fragment_id": "Artigo 22o",
+   "type": "artigo",
+   "heading": "Artigo 22o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o\n\n1. Sempre que um Estado-membro exigir dos seus nacionais, para o acesso a uma das actividades referidas no artigo 1o ou para o seu exercício, uma autorização ou a inscrição ou filiação numa organização ou organismo profissional, esse Estado-membro, em caso de prestação de serviços, dispensará dessa exigência os nacionais dos outros Estados-membros.\n\nO interessado exercerá a prestação de serviços com os mesmos direitos e obrigações que os nacionais do Estado-membro de acolhimento; estará, nomeadamente, sujeito às disposições disciplinares de natureza profissional ou administrativa aplicáveis nesse Estado-membro.\n\nCom este objectivo, e em complemento da declaração relativa à prestação de serviços referida no no 2, os Estados-membros podem, para permitir a aplicação das disposições disciplinares em vigor no seu território, prever uma inscrição temporária automática ou uma adesão pro forma a uma organização ou a um organismo profissional ou uma inscrição num registo, desde que essa inscrição não atrase nem de alguma forma complique a prestação de serviços e não implique despesas suplementares para o prestador de serviços.\n\nSempre que o Estado-membro de acolhimento tomar uma medida em aplicação do segundo parágrafo ou tiver conhecimento de factos que vão contra essas disposições, informará imediatamente o Estado-membro em que o interessado está estabelecido.\n\n2. O Estado-membro de acolhimento pode determinar que o interessado faça às autoridades competentes uma declaração prévia relativa à sua prestação de serviços, no caso de a execução dessa prestação envolver a realização de um projecto no seu território.\n\n3. Em aplicação dos nos 1 e 2, o Estado-membro de acolhimento pode exigir do interessado um ou vários documentos contendo as seguintes indicações:\n\n- a declaração referida no no 2,\n\n- um certificado comprovativo de que o interessado exerce legalmente as actividades em causa no Estado-membro em que está estabelecido,\n\n- um certificado de que o interessado possui o ou os diplomas, certificados ou outros títulos exigidos para a prestação de serviços em causa e de que os mesmos satisfazem os critérios referidos no Capítulo II ou constam da enumeração do Capítulo III da presente directiva,\n\n- se for caso disso, o certificado referido no no 2 do artigo 23o.\n\n4. O ou os documentos especificados no no 3 não podem ser apresentados mais de doze meses após a data da sua emissão.\n\n5. Sempre que um Estado-membro privar, no todo ou em parte, temporária ou definitivamente, um dos seus nacionais ou um nacional de outro Estado-membro estabelecido no seu território da faculdade de exercer uma das actividades referidas no artigo 1o, assegurará a revogação temporária ou definitiva, conforme o caso, do certificado referido no segundo travessão do no 3.\n\nC. Disposições comuns ao direito de estabelecimento e à livre prestação de serviços"
+  },
+  "89e4e692918c5770": {
+   "fragment_id": "Artigo 23o",
+   "type": "artigo",
+   "heading": "Artigo 23o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o\n\n1. Sempre que, num Estado-membro de acolhimento, o uso do título profissional de arquitecto, relativamente a uma das actividades referidas no artigo 1o, estiver regulamentado, os nacionais dos outros Estados-membros, que preencham as condições previstas no Capítulo II ou cujos diplomas, certificados e outros títulos referidos no artigo 11o tenham sido reconhecidos nos termos do artigo 10o, usarão o título profissional do Estado-membro de acolhimento e a sua abreviatura, após terem satisfeito as condições de estágio profissional eventualmente exigidas nesse Estado.\n\n2. Se, num Estado-membro, o acesso às actividades referidas no artigo 1o ou o seu exercício com o título de arquitecto estiver subordinado, para além do cumprimento dos requisitos referidos no Capítulo II ou da posse de um diploma, certificado ou outro título referido no artigo 11o, à realização de um estágio profissional durante um determinado período, o Estado-membro interessado reconhecerá como prova suficiente um certificado do Estado-membro de origem ou de proveniência comprovativo de que foi adquirida nesse Estado uma experiência prática adequada com uma duração correspondente. O certificado referido no no 1, segundo parágrafo, do artigo 4o é reconhecido como prova suficiente na acepção do presente número."
+  },
+  "a76c40f90da84979": {
+   "fragment_id": "Artigo 24o",
+   "type": "artigo",
+   "heading": "Artigo 24o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24o\n\n1. Sempre que o Estado-membro de acolhimento exigir dos seus nacionais, para o acesso a uma das actividades referidas no artigo 1o ou o seu exercício, a prova de que não foram anteriormente declarados em falência e as informações emitidas em conformidade com os artigos 17o e 18o não incluirem tal prova, esse Estado aceitará dos interessados uma declaração sob juramento - ou, nos Estados em que tal juramento não exista, uma declaração solene - feita pelo interessado perante uma autoridade judicial ou administrativa competente, um notário ou um organismo profissional qualificado do Estado-membro de origem ou de proveniência, que emitirá um atestado fazendo fé desse juramento ou declaração solene.\n\nSempre que, no Estado-membro de acolhimento, deva ser provada a capacidade financeira, esse Estado-membro aceitará os atestados dos emitidos por bancos de outros Estados-membros como equivalentes aos atestados emitidos no seu próprio território.\n\n2. Os documentos referidos no no 1 não podem ser apresentados mais de três meses após a data da sua emissão."
+  },
+  "25a8a3d522d3a711": {
+   "fragment_id": "Artigo 25o",
+   "type": "artigo",
+   "heading": "Artigo 25o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25o\n\n1. Sempre que um Estado-membro de acolhimento exigir dos seus nacionais, para o acesso a uma das actividades referidas no artigo 1o ou ao seu exercício, a prova de que estão cobertos por um seguro contra as consequências pecuniárias da sua responsabilidade profissional, esse Estado aceitará os certificados emitidos pelos organismos seguradores dos outros Estados-membros como equivalentes aos certificados emitidos no seu próprio território. Tais certificados devem especificar que o segurador cumpre as disposições legais e regulamentares em vigor no Estado-membro de acolhimento no que diz respeito às modalidades e ao âmbito do seguro.\n\n2. O certificado referido no no 1 não pode ser apresentado mais de três meses após a data da sua emissão."
+  },
+  "0745968a1edf062a": {
+   "fragment_id": "Artigo 26o",
+   "type": "artigo",
+   "heading": "Artigo 26o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26o\n\n1. Os Estados-membros tomarão as medidas necessárias para que os interessados possam informar-se da legislação e, se for caso disso, da deontologia do Estado-membro de acolhimento.\n\nCom esse objectivo podem criar serviços de informação junto dos quais os interessados possam obter as informações necessárias. Em caso de estabelecimento, os Estados-membros de acolhimento podem obrigar os interessados a entrar em contacto com esses serviços.\n\n2. Os Estados-membros podem criar os serviços referidos no no 1 junto das autoridades e organismos competentes que designarem no prazo previsto no no 1, primeiro parágrafo, do artigo 31o.\n\n3. Os Estados-membros assegurarão, se for caso disso, que os interessados adquiram, no seu interesse e no dos seus clientes, os conhecimentos linguísticos necessários ao exercício da sua actividade profissional no Estado-membro de acolhimento."
+  },
+  "32baf2639af3f126": {
+   "fragment_id": "CAPÍTULO VI — DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — DISPOSIÇÕES FINAIS"
+  },
+  "008ce44c6965886c": {
+   "fragment_id": "Artigo 27o",
+   "type": "artigo",
+   "heading": "Artigo 27o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27o\n\nEm caso de dúvida fundamentada, o Estado-membro de acolhimento pode exigir das autoridades competentes de um outro Estado-membro uma confirmação da autenticidade dos diplomas, certificados e outros títulos emitidos nesse outro Estado-membro e referidos nos Capítulos II e III."
+  },
+  "043f42e0522d3c50": {
+   "fragment_id": "Artigo 28o",
+   "type": "artigo",
+   "heading": "Artigo 28o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28o\n\nNo prazo previsto no no 1, primeiro parágrafo, do artigo 31o, os Estados-membros designarão as autoridades e organismos habilitados a emitir ou a receber diplomas, certificados e outros títulos bem como os documentos ou informações referidos na presente directiva, e desse facto informarão imediatamente os outros Estados-membros e a Comissão."
+  },
+  "26a6bc539fdcfff9": {
+   "fragment_id": "Artigo 29o",
+   "type": "artigo",
+   "heading": "Artigo 29o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29o\n\nA presente directiva é igualmente aplicável aos nacionais dos Estados-membros que, em conformidade com o Regulamento (CEE) no 1612/68, exercem ou venham a exercer, na qualidade de assalariados, uma das actividades referidas no artigo 1o."
+  },
+  "60ddf9aee41c5b19": {
+   "fragment_id": "Artigo 30o",
+   "type": "artigo",
+   "heading": "Artigo 30o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30o\n\nO mais tardar três anos após o termo do prazo previsto no no 1, primeiro parágrafo, do artigo 31o, a Comissão procederá a um reexame da presente directiva com base na experiência adquirida e, se necessário, apresentará ao Conselho, após parecer do Comité Consultivo, propostas de alteração. O Conselho examinará essas propostas no prazo de um ano."
+  },
+  "f60ead41a1f586c8": {
+   "fragment_id": "Artigo 31o",
+   "type": "artigo",
+   "heading": "Artigo 31o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31o\n\n1. Os Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva no prazo de vinte e quatro meses a contar da data da sua notificação e desse facto informarão imediatamente a Comissão.\n\nOs Estados-membros dispõem, no entanto, de um prazo de três anos a contar da data da referida notificação para darem cumprimento ao artigo 22o.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "b23044e7cbd4a0cc": {
+   "fragment_id": "Artigo 32o",
+   "type": "artigo",
+   "heading": "Artigo 32o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo em 10 de Junho de 1985.\n\nPelo Conselho\n\nO Presidente\n\nM. FIORET\n\n(1) JO no C 239 de 4. 10. 1967, p. 15.(2) JO no C 72 de 19. 7. 1968, p. 3.(3) JO no C 24 de 22. 3. 1968, p. 3.(4) JO no L 257 de 19. 10. 1968, p. 2."
+  },
+  "e394e20969bdb854": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1985L0384 — PT — 01.01.2007 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/385L0384) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/385L0384) [de 10 de Junho de 1985](http://publications.europa.eu/resource/celex/385L0384) [relativa ao reconhecimento mútuo dos diplomas, certificados e outros títulos do domínio da arquitectura, incluindo medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento e de livre prestação de serviços](http://publications.europa.eu/resource/celex/385L0384) [(85/384/CEE)](http://publications.europa.eu/resource/celex/385L0384) (JO L 223, 21.8.1985, p.15)\n\n**revogado por:**"
+  },
+  "974fbc946aaa5b67": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1985L0384 — PT — 20.10.2007 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31985L0384) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31985L0384) [de 10 de Junho de 1985](http://publications.europa.eu/resource/celex/31985L0384) [relativa ao reconhecimento mútuo dos diplomas, certificados e outros títulos do domínio da arquitectura, incluindo medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento e de livre prestação de serviços](http://publications.europa.eu/resource/celex/31985L0384) [(85/384/CEE)](http://publications.europa.eu/resource/celex/31985L0384) (JO L 223, 21.8.1985, p.15)\n\n**revogado por:**\n\n- [Directiva 2005/36/CE do Parlamento Europeu e do Conselho de 7 de Setembro de 2005](http://publications.europa.eu/resource/celex/32005L0036) — L 255 — 22 — 30.9.2005"
+  }
+ }
+}

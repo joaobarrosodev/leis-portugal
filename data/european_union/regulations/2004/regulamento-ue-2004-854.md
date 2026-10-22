@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-14'
+version_history:
+  file: regulamento-ue-2004-854.versoes.json
+  count: 1
+  source_lastmod: '2019-12-14'
+  versions:
+  - date: '2019-12-14'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32004R0854
   eli: http://data.europa.eu/eli/reg/2004/854/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ddbc3cfc-2d2d-4f34-a7a9-bf1ab92f7287.0010
   content_url: http://publications.europa.eu/resource/cellar/8e42e816-2650-11ea-af81-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0854-20191214
-  retrieved_at: '2026-10-22T02:39:06Z'
+  retrieved_at: '2026-10-22T14:58:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-31T08:12:02.463+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:06Z'
-  notes: Texto consolidado 02004R0854-20191214.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:58:31Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2004-854.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -323,16 +332,26 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:06Z'
+  checked_at: '2026-10-22T14:58:31Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '32004R0854: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02004R0854-20060101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0854-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0854-20081028: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0854-20090420: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0854-20091101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0854-20100705: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0854-20110311: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0854-20110729: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0854-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0854-20140601: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0854-20150101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

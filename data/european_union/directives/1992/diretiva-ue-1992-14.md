@@ -34,6 +34,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-16'
+version_history:
+  file: diretiva-ue-1992-14.versoes.json
+  count: 1
+  source_lastmod: '2007-01-16'
+  versions:
+  - date: '2007-01-16'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31992L0014
   eli: http://data.europa.eu/eli/dir/1992/14/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/eb79ac9a-123f-4a50-87e4-5af99e7ea982.0009
   content_url: http://publications.europa.eu/resource/cellar/e3c55a7c-d03c-4afc-8310-1aeface044c9.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0014-20070116
-  retrieved_at: '2026-10-22T02:44:17Z'
+  retrieved_at: '2026-10-22T14:40:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-31T20:15:54.814+02:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:17Z'
-  notes: Texto consolidado 01992L0014-20070116.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:40:33Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-1992-14.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -167,16 +176,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:17Z'
+  checked_at: '2026-10-22T14:40:33Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01992L0014-19920309: versão indisponível (Sem expressão na língua por para CELEX 01992L0014-19920309.)'
+  - '01992L0014-19980427: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0014-19990526: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0014-20010522: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

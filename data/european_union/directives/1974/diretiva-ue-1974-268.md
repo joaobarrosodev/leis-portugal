@@ -34,6 +34,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-06-13'
+version_history:
+  file: diretiva-ue-1974-268.versoes.json
+  count: 2
+  source_lastmod: '2006-06-13'
+  versions:
+  - date: '1974-05-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-06-13'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
 identifiers:
   celex: 31974L0268
   eli: http://data.europa.eu/eli/dir/1974/268/oj
@@ -48,7 +67,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e61ed306-6aa9-4aea-8bf4-493415f58e67.0011
   content_url: http://publications.europa.eu/resource/cellar/6f1f0cf8-9e6b-42f8-b924-b4c40141069a.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01974L0268-20060613
-  retrieved_at: '2026-10-22T02:49:43Z'
+  retrieved_at: '2026-10-22T14:30:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-13T18:18:50.765+01:00'
 integrity:
@@ -57,9 +76,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:43Z'
-  notes: Texto consolidado 01974L0268-20060613.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:30:57Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1974-268.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -113,16 +132,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:43Z'
+  checked_at: '2026-10-22T14:30:57Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01974L0268-19780529: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

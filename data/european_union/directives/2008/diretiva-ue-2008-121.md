@@ -35,6 +35,86 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-05-08'
+version_history:
+  file: diretiva-ue-2008-121.versoes.json
+  count: 4
+  source_lastmod: '2012-05-08'
+  versions:
+  - date: '2009-01-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-05'
+    amending: eu:celex:32009L0121:por
+    amending_title: DIRECTIVA 2009/121/CE DA COMISSÃO Texto relevante para efeitos do EEE de 14 de Setembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 20.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Denominações referidas no n.º 1 do artigo 5.º
+    - Adita ANEXO III
+    - Adita Produtos que não podem ser submetidos a uma obrigação de etiquetagem ou de marcação
+    - Adita [referidos na alínea a) do n.º 1 do artigo 10.º]
+    - Adita ANEXO IV
+    - Adita Produtos para os quais só é obrigatória uma etiquetagem ou marcação global
+    - Adita [referidos na alínea b) do n.º 1 do artigo 10.º]
+    - Adita ANEXO V
+    - Adita ANEXO VI
+    - Adita ANEXO VII
+  - date: '2011-08-19'
+    amending: eu:celex:32011L0073:por
+    amending_title: DIRECTIVA 2011/73/UE DA COMISSÃO Texto relevante para efeitos do EEE de 29 de Julho de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 15.º
+    - Altera ANEXO I
+    - Altera [referidos na alínea b) do n.º 1 do artigo 10.º]
+    - Altera ANEXO V
+    - Altera Notas
+  - date: '2012-05-08'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime ANEXO I
+    - Suprime ANEXO II
+    - Suprime Denominações referidas no n.º 1 do artigo 5.º
+    - Suprime ANEXO III
+    - Suprime Produtos que não podem ser submetidos a uma obrigação de etiquetagem ou de marcação
+    - Suprime [referidos na alínea a) do n.º 1 do artigo 10.º]
+    - Suprime ANEXO IV
+    - Suprime Produtos para os quais só é obrigatória uma etiquetagem ou marcação global
+    - Suprime [referidos na alínea b) do n.º 1 do artigo 10.º]
+    - Suprime ANEXO V
+    - Suprime ANEXO VI
+    - Suprime ANEXO VII
+    - Suprime Notas
 identifiers:
   celex: 32008L0121
   eli: http://data.europa.eu/eli/dir/2008/121/oj
@@ -49,7 +129,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/86c0f450-1e57-4d12-ab7e-5622cd722ce7.0018
   content_url: http://publications.europa.eu/resource/cellar/c0929083-9a0c-4744-b757-72438502c276.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0121-20120508
-  retrieved_at: '2026-10-22T02:58:54Z'
+  retrieved_at: '2026-10-22T15:13:38Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T01:15:18.708+02:00'
 integrity:
@@ -58,9 +138,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:54Z'
-  notes: Texto consolidado 02008L0121-20120508.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:13:38Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2008-121.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -155,16 +235,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:54Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:13:38Z'
+  warnings: []
   errors: []
 ---
 

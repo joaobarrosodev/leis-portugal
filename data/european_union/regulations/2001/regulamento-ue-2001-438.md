@@ -35,6 +35,56 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-16'
+version_history:
+  file: regulamento-ue-2001-438.versoes.json
+  count: 2
+  source_lastmod: '2007-01-16'
+  versions:
+  - date: '2001-03-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-16'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I — Âmbito de aplicação
+    - Suprime Artigo 1.º
+    - Suprime CAPÍTULO II — Sistemas de gestão e de controlo
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime CAPÍTULO III — Certificação de despesas
+    - Suprime Artigo 9.º
+    - Suprime CAPÍTULO IV — Controlos por amostragem
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º — As disposições do presente capítulo aplicar-se-ão, mutatis mutandis, aos montantes a recuperar
+      referidos no artigo 8.o
+    - Suprime CAPÍTULO V — Declaração aquando do encerramento de uma intervenção
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime CAPÍTULO VI — Forma e conteúdo das informações contabilísticas a manter e a comunicar à Comissão se solicitadas
+    - Suprime Artigo 18.º
+    - Suprime CAPÍTULO VII — Disposições gerais e finais
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime ANEXO I — DESCRIÇÃO INDICATIVA DAS INFORMAÇÕES NECESSÁRIAS PARA UMA PISTA DE CONTROLO SUFICIENTE (artigo 7.o)
+    - Suprime ANEXO II — >PIC FILE= "L_2001063PT.002802.EPS">
+    - Suprime ANEXO III — >PIC FILE= "L_2001063PT.003402.EPS">
+    - Suprime ANEXO IV
+    - Suprime ANEXO V — ESPECIFICAÇÕES TÉCNICAS PREFERIDAS PARA A TRANSMISSÃO DE FICHEIROS INFORMÁTICOS À COMISSÃO
 identifiers:
   celex: 32001R0438
   eli: http://data.europa.eu/eli/reg/2001/438/oj
@@ -49,7 +99,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7ac67ead-c024-47a8-a152-93f47fa1ab50.0010
   content_url: http://publications.europa.eu/resource/cellar/a34332f3-1ed2-46db-b8c7-dd6754288723.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R0438-20070116
-  retrieved_at: '2026-10-22T02:47:23Z'
+  retrieved_at: '2026-10-22T14:50:32Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T15:52:34.271+01:00'
 integrity:
@@ -58,9 +108,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:23Z'
-  notes: Texto consolidado 02001R0438-20070116.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:32Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2001-438.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -147,16 +197,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:23Z'
+  checked_at: '2026-10-22T14:50:32Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02001R0438-20030117: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

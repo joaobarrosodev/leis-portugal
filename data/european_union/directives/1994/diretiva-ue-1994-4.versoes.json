@@ -1,0 +1,228 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994L0004:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0004-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "1994-03-03",
+   "future": false,
+   "celex": "31994L0004",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9e8cf0af7af34908",
+    "0f4917b16eae9be9",
+    "c63b256dde7a998e",
+    "e0ecc50777c6bc01",
+    "645c1ad0c1080f11",
+    "d57b2516f3ca8a1f"
+   ]
+  },
+  {
+   "date": "1999-01-01",
+   "future": false,
+   "celex": "01994L0004-19990101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º"
+   ],
+   "fragments": [
+    "4106460df30be825",
+    "48534c74306226c4",
+    "302cbae05ff869f4",
+    "65455a97c9bcfeeb",
+    "d0b7fd7dad3b9a9a",
+    "e7e3d514fdc20ff2"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01994L0004-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:31994L0075:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31994L0075"
+    },
+    {
+     "id": "eu:celex:31998L0094:por",
+     "title": "DIRECTIVA 98/94/CE DO CONSELHO de 14 de Dezembro de 1998",
+     "published": null,
+     "celex": "31998L0094"
+    },
+    {
+     "id": "eu:celex:32006L0112:por",
+     "title": "DIRECTIVA 2006/112/CE DO CONSELHO de 28 de Novembro de 2006",
+     "published": null,
+     "celex": "32006L0112"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Suprime Artigo 2.º"
+   ],
+   "fragments": [
+    "40b3f40173c46df0",
+    "fd380ceacf5eaafd",
+    "6cdb7ea16bacc5ba",
+    "948575d356553180",
+    "e1f5aa54600785a0"
+   ]
+  }
+ ],
+ "fragments": {
+  "9e8cf0af7af34908": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 94/4/CE do Conselho, de 14 de Fevereiro de 1994, que altera as Directivas 69/169/CEE e 77/388/CEE e aumenta o nível das franquias para os viajantes provenientes de países terceiros e os valores limite das aquisições isentas de impostos efectuadas durante viagens intracomunitárias** *Jornal Oficial nº L 060 de 03/03/1994 p. 0014 - 0015 Edição especial finlandesa: Capítulo 9 Fascículo 2 p. 0151 Edição especial sueca: Capítulo 9 Fascículo 2 p. 0151*\n\nDIRECTIVA 94/4/CE DO CONSELHO de 14 de Fevereiro de 1994 que altera as Directivas 69/169/CEE e 77/388/CEE e aumenta o nível das franquias para os viajantes provenientes de países terceiros e os valores limite das aquisições isentas de impostos efectuadas durante viagens intracomunitárias\n\nO CONSELHO DA UNIAO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 99º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o nº 1 do artigo 1º da Directiva 69/169/CEE do Conselho, de 28 de Maio de 1969, relativa à harmonização das disposições legislativas, regulamentares e administrativas respeitantes às franquias dos impostos sobre consumos específicos cobrados na importação no tráfego internacional de viajantes (4), prevê uma franquia para as mercadorias contidas na bagagem pessoal dos viajantes provenientes de países terceiros, desde que se trate de importações sem carácter comercial;\n\nConsiderando que o valor global das mercadorias que podem beneficiar dessa franquia não deve exceder quarenta e cinco ecus por pessoa; que, nos termos do nº 2 do artigo 1º da Directiva 69/169/CEE, os Estados-membros têm a faculdade de reduzir a referida franquia até vinte e três ecus para os viajantes de idade inferior a 15 anos;\n\nConsiderando que devem ser tidas em conta as medidas a favor dos viajantes, preconizadas pelas organizações internacionais especializadas, nomeadamente as previstas no anexo F.3 da Convenção internacional relativa à simplificação e harmonização dos regimes aduaneiros;\n\nConsiderando que esses objectivos poderiam ser cumpridos com um aumento das franquias;\n\nConsiderando que é necessário prever, por um período limitado, uma derrogação a favor da Alemanha, atendendo às dificuldades económicas que os montantes das franquias são susceptíveis de causar, em especial no que se refere ao tráfego de viajantes que acede ao território deste Estado-membro através das fronteiras terrestres que o ligam a outros países para além dos Estados-membros da Comunidade e da Associação Europeia de Comércio Livre (AECL) ou por navegação costeira em proveniência desse países;\n\nConsiderando os laços particulares que existem entre a Espanha continental e as ilhas Canárias, Ceuta e Melilha;\n\nConsiderando que, ao longo do período durante o qual essas vendas são autorizadas em aplicação do artigo 28ºK da Directiva 77/388/CEE do Conselho, de 17 de Maio de 1977, relativa à harmonização das legislações dos Estados-membros respeitantes aos impostos sobre o volume de negócios - sistema comum do imposto sobre o valor acrescentado: matéria colectável uniforme (5), é necessário assegurar a manutenção do valor real das mercadorias que podem ser vendidas nos balcões de venda com isenção de impostos aos viajantes que efectuem voos ou travessias marítimas intracomunitárias,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "0f4917b16eae9be9": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA Directiva 69/169/CEE é alterada do seguinte modo:\n\n1. No nº 1 do artigo 1º, a expressão «45 ecus» é substituída por «175 ecus».\n\n2. No nº 2 do artigo 1º, a expressão «23 ecus» é substituída por «90 ecus».\n\n3. O artigo 7ºB passa a ter a seguinte redacção:\n\n«Artigo 7ºB\n\n1. Em derrogação do nº 1 do artigo 1º, a Espanha é autorizada a aplicar, até 31 de Dezembro de 2000, uma franquia de 600 ecus na importação das mercadorias em questão por viajantes provenientes das ilhas Canárias, de Ceuta e de Melilha que entrem no território deste país, tal como definido nºs 2 e 3 do artigo 3º da Directiva 77/388/CEE.\n\n2. Em derrogação do nº 2 do artigo 1º, a Espanha tem a faculdade de reduzir essa franquia até 150 ecus para os viajantes de idade inferior a 15 anos.»."
+  },
+  "c63b256dde7a998e": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nO primeiro parágrafo da alínea a) do nº 2 do artigo 28ºK da Directiva 77/388/CEE passa a ter a seguinte redacção:\n\n«a) Cujo valor global não exceda 90 ecus, por pessoa e por viagem.\n\nEm derrogação do artigo 28ºM, os Estados-membros determinam o contravalor em moeda nacional do montante acima referido, nos termos do nº 2 do artigo 7º da Directiva 69/169/CEE.»."
+  },
+  "e0ecc50777c6bc01": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros porão em vigor as disposições necessárias para dar cumprimento à presente directiva o mais tardar até 1 de Abril de 1994. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Em derrogação do nº 1, a República Federal da Alemanha está autorizada a pôr em vigor as disposições necessárias para dar cumprimento à presente directiva o mais tardar até 1 de Janeiro de 1998, para as mercadorias importadas pelos viajantes que entrem em território alemão por uma fronteira terrestre que a lique a outros países para além dos Estados-membros da Comunidade e da AECL ou por navegação costeira em proveniência desses países.\n\n3. Os Estados-membros comunicarão à Comissão o texto de todas as disposições de direito interno que adoptarem na matéria regulada pela presente directiva."
+  },
+  "645c1ad0c1080f11": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "d57b2516f3ca8a1f": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 14 de Fevereiro de 1994.\n\nPelo Conselho\n\nO presidente\n\nY. PAPANTONIOU\n\n(1) JO nº C 102 de 14. 4. 1984, p. 10 e JO nº C 78 de 26. 3. 1985, p. 9.(2) JO nº C 46 de 18. 2. 1985, p. 75 e parecer emitido em 20 de Janeiro de 1994 (ainda não publicado no Jornal Oficial).(3) JO nº C 248 de 17. 9. 1984, p. 26.(4) JO nº L 133 de 4. 6. 1969, p. 6. Directiva com a última redacção que lhe foi dada pela Directiva 92/111/CEE (JO nº L 384 de 30. 12. 1992, p. 47).(5) JO nº L 145 de 13. 6. 1977, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 92/111/CEE (JO nº L 384 de 30. 12. 1992, p. 47)."
+  },
+  "4106460df30be825": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1994L0004 — PT — 01.01.1999 — 003.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994L0004:PT:NOT) [DIRECTIVA 94/4/CE DO CONSELHO de 14 de Fevereiro de 1994 que altera as Directivas 69/169/CEE e 77/388/CEE e aumenta o nível das franquias para os viajantes provenientes de países terceiros e os valores limite das aquisições isentas de impostos efectuadas durante viagens intracomunitárias](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994L0004:PT:NOT) (JO L 060, 3.3.1994, p.14)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994L0075:PT:NOT) | [Directiva 94/75/CE do Conselho de 22 de Dezembro de 1994](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994L0075:PT:NOT) | L 365 | 52 | 31.12.1994 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0094:PT:NOT) | [Directiva 98/94/CE do Conselho de 14 de Dezembro de 1998](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0094:PT:NOT) | L 358 | 105 | 31.12.1998 |\n\n| NB: Esta versão consolidada contém referências à unidade de conta europeia e/ou ao ecu, que a partir de 1 de Janeiro de 1999 devem ser interpretadas como referências ao euro — Regulamento (CEE) n.o 3308/80 do Conselho (JO L 345 de 20.12.1980, p. 1) e Regulamento (CE) n.o 1103/97 do Conselho (JO L 162 de 19.6.1997, p. 1). |\n| --- |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994L0004:PT:NOT)\n\nDIRECTIVA 94/4/CE DO CONSELHO\n\nde 14 de Fevereiro de 1994\n\nque altera as Directivas 69/169/CEE e 77/388/CEE e aumenta o nível das franquias para os viajantes provenientes de países terceiros e os valores limite das aquisições isentas de impostos efectuadas durante viagens intracomunitárias\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 99.o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/8c1dab27-c85b-4724-baa7-b538c0cd222b.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/8c1dab27-c85b-4724-baa7-b538c0cd222b.0018.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/8c1dab27-c85b-4724-baa7-b538c0cd222b.0018.02/DOC_1#E0003)),\n\nConsiderando que o n.o 1 do artigo 1.o da Directiva 69/169/CEE do Conselho, de 28 de Maio de 1969, relativa à harmonização das disposições legislativas, regulamentares e administrativas respeitantes às franquias dos impostos sobre consumos específicos cobrados na importação no tráfego internacional de viajantes ([4](http://publications.europa.eu/resource/cellar/8c1dab27-c85b-4724-baa7-b538c0cd222b.0018.02/DOC_1#E0004)), prevê uma franquia para as mercadorias contidas na bagagem pessoal dos viajantes provenientes de países terceiros, desde que se trate de importações sem carácter comercial;\n\nConsiderando que o valor global das mercadorias que podem beneficiar dessa franquia não deve exceder quarenta e cinco ecus por pessoa; que, nos termos do n.o 2 do artigo 1.o da Directiva 69/169/CEE, os Estados-membros têm a faculdade de reduzir a referida franquia até vinte e três ecus para os viajantes de idade inferior a 15 anos;\n\nConsiderando que devem ser tidas em conta as medidas a favor dos viajantes, preconizadas pelas organizações internacionais especializadas, nomeadamente as previstas no anexo F.3 da Convenção internacional relativa à simplificação e harmonização dos regimes aduaneiros;\n\nConsiderando que esses objectivos poderiam ser cumpridos com um aumento das franquias;\n\nConsiderando que é necessário prever, por um período limitado, uma derrogação a favor da Alemanha, atendendo às dificuldades económicas que os montantes das franquias são susceptíveis de causar, em especial no que se refere ao tráfego de viajantes que acede ao território deste Estado-membro através das fronteiras terrestres que o ligam a outros países para além dos Estados-membros da Comunidade e da Associação Europeia de Comércio Livre (AECL) ou por navegação costeira em proveniência desse países;\n\nConsiderando os laços particulares que existem entre a Espanha continental e as ilhas Canárias, Ceuta e Melilha;\n\nConsiderando que, ao longo do período durante o qual essas vendas são autorizadas em aplicação do artigo 28.oK da Directiva 77/388/CEE do Conselho, de 17 de Maio de 1977, relativa à harmonização das legislações dos Estados-membros respeitantes aos impostos sobre o volume de negócios — sistema comum do imposto sobre o valor acrescentado: matéria colectável uniforme ([5](http://publications.europa.eu/resource/cellar/8c1dab27-c85b-4724-baa7-b538c0cd222b.0018.02/DOC_1#E0005)), é necessário assegurar a manutenção do valor real das mercadorias que podem ser vendidas nos balcões de venda com isenção de impostos aos viajantes que efectuem voos ou travessias marítimas intracomunitárias,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "48534c74306226c4": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Directiva 69/169/CEE é alterada do seguinte modo:\n\n1. No n.o 1 do artigo 1.o, a expressão «45 ecus» é substituída por «175 ecus».\n\n2. No n.o 2 do artigo 1.o, a expressão «23 ecus» é substituída por «90 ecus».\n\n3. O artigo 7.\n\no\n\nB passa a ter a seguinte redacção:\n\n«Artigo 7.oB\n\n1. Em derrogação do n.o 1 do artigo 1.o, a Espanha é autorizada a aplicar, até 31 de Dezembro de 2000, uma franquia de 600 ecus na importação das mercadorias em questão por viajantes provenientes das ilhas Canárias, de Ceuta e de Melilha que entrem no território deste país, tal como definido n.os 2 e 3 do artigo 3.o da Directiva 77/388/CEE.\n\n2. Em derrogação do n.o 2 do artigo 1.o, a Espanha tem a faculdade de reduzir essa franquia até 150 ecus para os viajantes de idade inferior a 15 anos.»\n\n."
+  },
+  "302cbae05ff869f4": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO primeiro parágrafo da alínea a) do n.o 2 do artigo 28.oK da Directiva 77/388/CEE passa a ter a seguinte redacção:\n\n«a) Cujo valor global não exceda 90 ecus, por pessoa e por viagem.\n\nEm derrogação do artigo 28.oM, os Estados-membros determinam o contravalor em moeda nacional do montante acima referido, nos termos do n.o 2 do artigo 7.o da Directiva 69/169/CEE.»\n\n."
+  },
+  "65455a97c9bcfeeb": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-membros porão em vigor as disposições necessárias para dar cumprimento à presente directiva o mais tardar até 1 de Abril de 1994. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0094:PT:NOT)\n\n2. Em derrogação do n.o 1, a República Federal da Alemanha e a República da Áustria são autorizadas a pôr em vigor as disposições necessárias para dar cumprimento à presente directiva até 1 de Janeiro de 2003, para as mercadorias importadas pelos viajantes que entrem em territórios alemão ou austríaco por uma fronteira terrestre que os ligue a outros países que não sejam Estados-membros nem membros da EFTA ou por navegação costeira em proveniência desses países.\n\nTodavia, estes Estados-membros aplicarão uma franquia de pelo menos 100 ecus, a partir de 1 de Janeiro de 1999, às importações efectuadas pelos viajantes referidos no parágrafo anterior. Procederão, conjuntamente, a aumento gradual deste montante com vista a aplicar às referidas importações, até 1 de Janeiro de 2003, o limiar em vigor na Comunidade.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994L0004:PT:NOT)\n\n3. Os Estados-membros comunicarão à Comissão o texto de todas as disposições de direito interno que adoptarem na matéria regulada pela presente directiva."
+  },
+  "d0b7fd7dad3b9a9a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "e7e3d514fdc20ff2": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n([1](http://publications.europa.eu/resource/cellar/8c1dab27-c85b-4724-baa7-b538c0cd222b.0018.02/DOC_1#src.E0001)) JO n.o C 102 de 14. 4. 1984, p. 10 e JO n.o C 78 de 26. 3. 1985, p. 9.\n\n([2](http://publications.europa.eu/resource/cellar/8c1dab27-c85b-4724-baa7-b538c0cd222b.0018.02/DOC_1#src.E0002)) JO n.o C 46 de 18. 2. 1985, p. 75 e parecer emitido em 20 de Janeiro de 1994 (ainda não publicado no Jornal Oficial).\n\n([3](http://publications.europa.eu/resource/cellar/8c1dab27-c85b-4724-baa7-b538c0cd222b.0018.02/DOC_1#src.E0003)) JO n.o C 248 de 17. 9. 1984, p. 26.\n\n([4](http://publications.europa.eu/resource/cellar/8c1dab27-c85b-4724-baa7-b538c0cd222b.0018.02/DOC_1#src.E0004)) JO n.o L 133 de 4. 6. 1969, p. 6. Directiva com a última redacção que lhe foi dada pela Directiva 92/111/CEE (JO n.o L 384 de 30. 12. 1992, p. 47).\n\n([5](http://publications.europa.eu/resource/cellar/8c1dab27-c85b-4724-baa7-b538c0cd222b.0018.02/DOC_1#src.E0005)) JO n.o L 145 de 13. 6. 1977, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 92/111/CEE (JO n.o L 384 de 30. 12. 1992, p. 47)."
+  },
+  "40b3f40173c46df0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Fevereiro de 1994\n\nque altera as Directivas 69/169/CEE e 77/388/CEE e aumenta o nível das franquias para os viajantes provenientes de países terceiros e os valores limite das aquisições isentas de impostos efectuadas durante viagens intracomunitárias"
+  },
+  "fd380ceacf5eaafd": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Directiva 69/169/CEE é alterada do seguinte modo:\n\n1. No n.º 1 do artigo 1.º, a expressão «45 ecus» é substituída por «175 ecus».\n\n2. No n.º 2 do artigo 1.º, a expressão «23 ecus» é substituída por «90 ecus».\n\n3. O artigo 7.\n\n1. Em derrogação do n.º 1 do artigo 1.º, a Espanha é autorizada a aplicar, até 31 de Dezembro de 2000, uma franquia de 600 ecus na importação das mercadorias em questão por viajantes provenientes das ilhas Canárias, de Ceuta e de Melilha que entrem no território deste país, tal como definido n.^os^ 2 e 3 do artigo 3.º da Directiva 77/388/CEE.\n\n2. Em derrogação do n.º 2 do artigo 1.º, a Espanha tem a faculdade de reduzir essa franquia até 150 ecus para os viajantes de idade inferior a 15 anos.»"
+  },
+  "6cdb7ea16bacc5ba": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-membros porão em vigor as disposições necessárias para dar cumprimento à presente directiva o mais tardar até 1 de Abril de 1994. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Em derrogação do n.º 1, a República Federal da Alemanha e a República da Áustria são autorizadas a pôr em vigor as disposições necessárias para dar cumprimento à presente directiva até 1 de Janeiro de 2003, para as mercadorias importadas pelos viajantes que entrem em territórios alemão ou austríaco por uma fronteira terrestre que os ligue a outros países que não sejam Estados-membros nem membros da EFTA ou por navegação costeira em proveniência desses países.\n\nTodavia, estes Estados-membros aplicarão uma franquia de pelo menos 100 ecus, a partir de 1 de Janeiro de 1999, às importações efectuadas pelos viajantes referidos no parágrafo anterior. Procederão, conjuntamente, a aumento gradual deste montante com vista a aplicar às referidas importações, até 1 de Janeiro de 2003, o limiar em vigor na Comunidade.\n\n3. Os Estados-membros comunicarão à Comissão o texto de todas as disposições de direito interno que adoptarem na matéria regulada pela presente directiva."
+  },
+  "948575d356553180": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "e1f5aa54600785a0": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  }
+ }
+}

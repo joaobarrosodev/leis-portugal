@@ -34,6 +34,62 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-02-23'
+version_history:
+  file: diretiva-ue-2002-92.versoes.json
+  count: 3
+  source_lastmod: '2016-02-23'
+  versions:
+  - date: '2003-01-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-02'
+    amending: eu:celex:32014L0065:por
+    amending_title: DIRETIVA 2014/65/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 15 de maio
+      de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Intercâmbio de informações entre Estados-Membros
+    - Altera Artigo 12.º — Informações a prestar pelo mediador de seguros
+    - Altera Artigo 18.º — Destinatários
+    - Adita CAPÍTULO I
+    - Adita ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Adita CAPÍTULO II
+    - Adita CONDIÇÕES DE REGISTO
+    - Adita CAPÍTULO III
+    - Adita INFORMAÇÕES A PRESTAR PELOS MEDIADORES
+    - Adita CAPÍTULO III-A
+    - Adita REQUISITOS ADICIONAIS DE PROTEÇÃO DOS CLIENTES NO QUE SE REFERE AOS PRODUTOS DE INVESTIMENTO COM BASE EM SEGUROS
+    - Adita Artigo 13.º-A — Âmbito de aplicação
+    - Adita Artigo 13.º-B — Prevenção de conflitos de interesse
+    - Adita Artigo 13.º-C — Conflitos de interesses
+    - Adita Artigo 13.º-D — Princípios gerais e informações prestadas aos clientes
+    - Adita Artigo 13.º-E — Exercício da delegação
+    - Adita CAPÍTULO IV
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita Notas
+    - Suprime CAPÍTULO I — ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime CAPÍTULO II — CONDIÇÕES DE REGISTO
+    - Suprime CAPÍTULO III — INFORMAÇÕES A PRESTAR PELOS MEDIADORES
+    - Suprime CAPÍTULO IV — DISPOSIÇÕES FINAIS
+  - date: '2016-02-23'
+    amending: eu:celex:32016L0097:por
+    amending_title: DIRETIVA (UE) 2016/97 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de
+      janeiro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 9.º — Intercâmbio de informações entre Estados-Membros
+    - Altera Notas
+    - Suprime CAPÍTULO III-A
+    - Suprime REQUISITOS ADICIONAIS DE PROTEÇÃO DOS CLIENTES NO QUE SE REFERE AOS PRODUTOS DE INVESTIMENTO COM BASE EM SEGUROS
+    - Suprime Artigo 13.º-A — Âmbito de aplicação
+    - Suprime Artigo 13.º-B — Prevenção de conflitos de interesse
+    - Suprime Artigo 13.º-C — Conflitos de interesses
+    - Suprime Artigo 13.º-D — Princípios gerais e informações prestadas aos clientes
+    - Suprime Artigo 13.º-E — Exercício da delegação
 identifiers:
   celex: 32002L0092
   eli: http://data.europa.eu/eli/dir/2002/92/oj
@@ -48,7 +104,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ccdf9446-0d5e-42a1-8618-8b0941f473a3.0010
   content_url: http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0092-20160223
-  retrieved_at: '2026-10-22T02:38:14Z'
+  retrieved_at: '2026-10-22T14:52:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-04T17:12:20.208+02:00'
 integrity:
@@ -57,9 +113,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:14Z'
-  notes: Texto consolidado 02002L0092-20160223.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:22Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2002-92.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -201,30 +257,19 @@ relationships:
   source: null
 article_structure:
   article_count: 18
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:14Z'
+  checked_at: '2026-10-22T14:52:22Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2002/92/CE do Parlamento Europeu e do Conselho, de 9 de Dezembro de 2002
-
-> 2002L0092 — PT — 23.02.2016 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014L0065) — [DIRETIVA 2014/65/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014L0065) — L 173 — 349 — 12.6.2014
-- [►M2](http://publications.europa.eu/resource/celex/32016L0097) — [DIRETIVA (UE) 2016/97 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de janeiro de 2016](http://publications.europa.eu/resource/celex/32016L0097) — L 26 — 19 — 2.2.2016
-
-## DIRECTIVA 2002/92/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 9 de Dezembro de 2002
 

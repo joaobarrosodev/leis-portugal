@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003R2287:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R2287-20090619",
+ "dre_path": null,
+ "source_lastmod": "2009-06-19",
+ "versions": [
+  {
+   "date": "2009-06-19",
+   "future": false,
+   "celex": "02003R2287-20090619",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "62da85492c29ddfb"
+   ]
+  }
+ ],
+ "fragments": {
+  "62da85492c29ddfb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2003R2287 — PT — 19.06.2009 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32003R2287) [REGULAMENTO (CE) N.º 2287/2003 DO CONSELHO](http://publications.europa.eu/resource/celex/32003R2287) [de 19 de Dezembro de 2003](http://publications.europa.eu/resource/celex/32003R2287) [que fixa, para 2004, em relação a determinadas unidades populacionais de peixes ou grupos de unidades populacionais de peixes, as possibilidades de pesca e as condições associadas aplicáveis nas águas comunitárias e, para os navios de pesca comunitários, nas águas em que são necessárias limitações das capturas](http://publications.europa.eu/resource/celex/32003R2287) (JO L 344, 31.12.2003, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 492/2009 do Conselho de 25 de Maio de 2009](http://publications.europa.eu/resource/celex/32009R0492) — L 149 — 1 — 12.6.2009"
+  }
+ }
+}

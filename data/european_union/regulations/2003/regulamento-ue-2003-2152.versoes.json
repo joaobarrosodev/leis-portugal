@@ -1,0 +1,259 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003R2152:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R2152-20070612",
+ "dre_path": null,
+ "source_lastmod": "2007-06-12",
+ "versions": [
+  {
+   "date": "2003-12-11",
+   "future": false,
+   "celex": "32003R2152",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7c70324f9782a9fa",
+    "eeb098601fe2d8c2",
+    "946b7dbf0b2a28c4",
+    "4e8dcc5af7ba9421",
+    "725ed84cf1d2b59b",
+    "0e2c55cb8c0454c6",
+    "6c2d34c4ff189414",
+    "3a8dadb9f8387c47",
+    "cd53c0eca7e1f05a",
+    "c19039759012d6e1",
+    "e3dbdb3d229fc2c1",
+    "69b00256947246ee",
+    "890f972983bb9b9b",
+    "9f11a79ceb1c4963",
+    "1f31ceeb96082364",
+    "ab5a06c013cf69c6",
+    "ca9f51e3a7deabf7",
+    "73fb56734ed73a39",
+    "12244f287490212f",
+    "8d64e9073133e546",
+    "24ad3862c147f42a",
+    "461d2ebcb18919c1"
+   ]
+  },
+  {
+   "date": "2007-06-12",
+   "future": false,
+   "celex": "02003R2152-20070612",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime SECÇÃO 1 Objectivos, âmbito e definições — Artigo 1.o",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime SECÇÃO 3 Programas nacionais, coordenação e cooperação — Artigo 8.o",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime SECÇÃO 4 Período de execução e aspectos financeiros — Artigo 12.o",
+    "Suprime Artigo 13.º",
+    "Suprime SECÇÃO 5 Execução, relatórios dos Estados-Membros, Comité Permanente Florestal — Artigo 14.o",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime SECÇÃO 6 Relatórios da Comissão, revisão, países candidatos — Artigo 18.o",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21.º"
+   ],
+   "fragments": [
+    "a4d2152656b1f57b"
+   ]
+  }
+ ],
+ "fragments": {
+  "7c70324f9782a9fa": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 2152/2003 do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativo ao acompanhamento das florestas e das interacções ambientais na Comunidade (Forest Focus)** *Jornal Oficial nº L 324 de 11/12/2003 p. 0001 - 0008*\n\nRegulamento (CE) n.o 2152/2003 do Parlamento Europeu e do Conselho\n\nde 17 de Novembro de 2003\n\nrelativo ao acompanhamento das florestas e das interacções ambientais na Comunidade (Forest Focus)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 175.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social Europeu(2),\n\nTendo em conta o parecer do Comité das Regiões(3),\n\nDeliberando nos termos do artigo 251.o do Tratado(4),\n\nConsiderando o seguinte:\n\n(1) As florestas desempenham um importante papel multifuncional para a sociedade. Para além do seu significativo papel no desenvolvimento das áreas rurais, têm um valor fundamental para a conservação da natureza, influem significativamente na preservação do ambiente, são elementos fulcrais no ciclo do carbono e importantes sumidouros de carbono e representam um factor de controlo decisivo no ciclo hidrológico.\n\n(2) O estado das florestas pode ser gravemente afectado por factores naturais, como condições climáticas extremas, ataques de parasitas e enfermidades, ou influências humanas, como as alterações climáticas, os incêndios e a poluição atmosférica. Essas ameaças podem perturbar seriamente ou mesmo destruir as florestas. Na sua maioria, os factores naturais e antropogénicos que afectam os ecossistemas florestais podem ter efeitos transfronteiras.\n\n(3) A comunicação da Comissão ao Parlamento Europeu e ao Conselho sobre uma estratégia florestal para a União Europeia frisou a necessidade de se proteger o meio ambiente natural e o património florestal, gerir sustentavelmente as florestas e apoiar a cooperação internacional e pan-europeia no respeitante à protecção das florestas, referindo o seu acompanhamento e a sua promoção como sumidouros de carbono. Na sua resolução de 15 de Dezembro de 1998, relativa à estratégia florestal para a União Europeia(5), o Conselho convidou a Comissão a avaliar e melhorar continuamente a eficácia do sistema europeu de controlo do estado das florestas, tendo em conta os impactos potenciais nos ecossistemas florestais. Convidou igualmente a Comissão a prestar especial atenção ao desenvolvimento do Sistema Comunitário de Informação sobre Incêndios Florestais, que permitirá uma melhor verificação da eficácia das medidas de protecção contra os incêndios.\n\n(4) A Decisão n.o 1600/2002/CE do Parlamento Europeu e do Conselho, de 22 de Julho de 2002, que institui o sexto programa de acção da Comunidade Europeia em matéria de Ambiente(6) identifica a necessidade de a preparação, a aplicação e a avaliação das políticas ambientais terem por base uma abordagem apoiada no conhecimento e, nomeadamente, a necessidade de acompanhar o papel múltiplo das florestas em harmonia com recomendações adoptadas pela Conferência Ministerial para a Protecção das Florestas na Europa, pelo Fórum das Nações Unidas sobre as Florestas, pela Convenção sobre a Biodiversidade e por outras instâncias.\n\n(5) A Comunidade e os seus Estados-Membros estão empenhados em levar a efeito actividades acordadas internacionalmente em matéria de conservação e protecção das florestas, com destaque para as propostas de acção do Painel e do Fórum Intergovernamental sobre as Florestas, o Programa de Trabalho Alargado sobre Biodiversidade Florestal, a Convenção sobre a Diversidade Biológica, a Convenção-Quadro das Nações Unidas sobre as Alterações Climáticas e o Protocolo de Quioto.\n\n(6) A Comunidade abordou já duas das causas que afectam negativamente o estado dos ecossistemas florestais, através do Regulamento (CEE) n.o 3528/86 do Conselho, de 17 de Novembro de 1986, relativo à protecção das florestas na Comunidade contra a poluição atmosférica(7), e do Regulamento (CEE) n.o 2158/92 do Conselho, de 23 Julho 1992, relativo à protecção das florestas da Comunidade contra os incêndios(8).\n\n(7) Ambos os regulamentos caducaram em 31 de Dezembro de 2002. Ora, é do interesse geral da Comunidade prosseguir e aprofundar as actividades de acompanhamento estabelecidas por eles, integrando-as num novo mecanismo designado \"Forest Focus\".\n\n(8) O mecanismo deve ser articulado com os sistemas nacionais, europeus e internacionais, tendo devidamente em conta a competência da Comunidade no domínio das florestas, em conformidade com a sua estratégia florestal e sem prejuízo do princípio da subsidiariedade.\n\n(9) As medidas no âmbito do mecanismo relativo ao acompanhamento dos incêndios florestais devem complementar as medidas tomadas, nomeadamente, por força da Decisão 1999/847/CE do Conselho, de 9 de Dezembro de 1999, que cria um programa de acção comunitária no domínio da protecção civil(9), do Regulamento (CE) n.o 1257/1999 do Conselho, de 17 de Maio de 1999, relativo ao apoio do Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA) ao desenvolvimento rural(10), e do Regulamento (CEE) n.o 1615/89 do Conselho, de 29 de Maio de 1989, que instaura um Sistema Europeu de Informação e de Comunicação Florestais (EFICS)(11).\n\n(10) O mecanismo deve estimular o intercâmbio de informação sobre as condições e sobre as influências prejudiciais nas florestas na Comunidade e possibilitar a avaliação das medidas em curso destinadas a promover a conservação e a protecção das florestas, em benefício do desenvolvimento sustentável, com particular destaque para medidas tomadas para reduzir os impactos negativos que afectam as florestas.\n\n(11) A protecção das florestas contra os incêndios é uma matéria de importância fulcral e premente com o objectivo, inter alia, de combater a desertificação e evitar os seus efeitos negativos sobre as alterações climáticas. É crucial evitar qualquer interrupção das acções desencadeadas pelos Estados-Membros ao abrigo do Regulamento (CEE) n.o 2158/92 caducado. Por conseguinte, o presente regulamento deve abranger medidas preventivas que não encontram justificação no Regulamento (CE) n.o 1257/1999 nem se encontram incluídas em programas de desenvolvimento rural à escala nacional ou regional.\n\n(12) Para promover um entendimento global da relação entre as florestas e o ambiente, o mecanismo deve também incluir o acompanhamento de outros factores importantes, como a biodiversidade, a fixação do carbono, as alterações climáticas e a função de protecção das florestas. Esse mecanismo deve, pois, compreender acções orientadas para uma gama alargada de objectivos e com flexibilidade de concretização, aproveitando ao mesmo tempo a experiência obtida com os Regulamentos (CEE) n.o 3528/86 e (CEE) n.o 2158/92. Deve permitir um acompanhamento adequado e eficaz em termos dos custos das florestas e das interacções ambientais.\n\n(13) Os Estados-Membros devem aplicar o mecanismo mediante programas nacionais a aprovar pela Comissão segundo um procedimento a definir.\n\n(14) A Comissão, em colaboração com os Estados-Membros, deve assegurar a coordenação, o acompanhamento e o desenvolvimento do mecanismo e dar informações sobre o mesmo, em particular ao Comité Permanente Florestal estabelecido pela Decisão 89/367/CEE do Conselho(12).\n\n(15) O acompanhamento das florestas e das interacções ambientais só facultará informação fiável e comparável, no sentido da protecção das florestas comunitárias, se a recolha dos dados seguir métodos harmonizados. Uma tal informação comparável a nível comunitário contribuirá para estabelecer uma plataforma de dados espaciais derivados de vários sistemas comuns de informação ambiental. Justifica-se, pois, preparar manuais que definam os métodos a utilizar no acompanhamento do estado das florestas, o formato dos dados e as regras relativas ao seu tratamento.\n\n(16) A Comissão deve utilizar os dados recolhidos ao abrigo do presente mecanismo relativos à fixação do carbono, às alterações climáticas e ao impacto sobre a biodiversidade, a fim de contribuir para um cumprimento das obrigações de declaração decorrentes das convenções e protocolos aplicáveis coerente com o neles disposto. Caso ocorram problemas de incoerência, a Comissão deve tomar todas as medidas possíveis tendo em vista alcançar uma solução satisfatória.\n\n(17) A Comissão e os Estados-Membros devem colaborar com outros organismos internacionais no domínio do acompanhamento florestal a nível internacional e a nível pan-europeu, e, em especial, com o Programa de Cooperação Internacional para a Avaliação e o Controlo dos Efeitos da Poluição Atmosférica nas Florestas (a seguir designado \"ICP Forests\"), por forma a promover a conservação e a protecção das florestas em favor do desenvolvimento sustentável.\n\n(18) O presente regulamento estabelece, para a totalidade do período de vigência do programa, um enquadramento financeiro que constitui para a autoridade orçamental, a referência privilegiada, na acepção do ponto 33 do Acordo Interinstitucional, de 6 de Maio de 1999, do Parlamento Europeu, do Conselho e da Comissão sobre a disciplina orçamental e a melhoria do processo orçamental(13), no âmbito do processo orçamental anual.\n\n(19) É necessário determinar o valor do contributo comunitário para as actividades financiadas no âmbito do mecanismo.\n\n(20) A fim de garantir a continuidade das actividades de acompanhamento, verifica-se uma necessidade excepcional de permitir que as despesas em que um Estado-Membro incorreu sejam elegíveis para efeitos de co-financiamento se as mesmas forem atinentes a acções lançadas após 1 de Janeiro de 2003 mas previamente à entrada em vigor do presente regulamento, no pressuposto de que as referidas acções não se encontrem concluídas à data da aprovação do respectivo programa nacional pela Comissão.\n\n(21) Os Estados-Membros devem designar autoridades e agências responsáveis pelas operações de tratamento e transmissão de dados e pela administração do contributo comunitário.\n\n(22) Os Estados-Membros devem igualmente elaborar relatórios, a submeter à Comissão, sobre as diversas actividades de acompanhamento.\n\n(23) Os dados devem ser divulgados em conformidade com a Convenção da Comissão Económica para a Europa das Nações Unidas, de 1998, relativa ao acesso à informação, à participação do público no processo de decisão e ao acesso à justiça nas questões ambientais (Convenção de Aarhus), e as disposições comunitárias pertinentes relativas ao acesso à informação ambiental.\n\n(24) As medidas de âmbito geral necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(14).\n\n(25) O Comité Permanente Florestal assistirá a Comissão mediante procedimento regulamentar, de acordo com os critérios fixados na alínea b) do artigo 2.o da referida decisão.\n\n(26) É importante manter o mecanismo sob revisão e conferir a sua eficácia, para identificar carências a tratar. A Comissão deve endereçar relatórios ao Parlamento Europeu e ao Conselho sobre a aplicação do mecanismo, nomeadamente no que respeita à sua continuação para além do período de execução fixado no presente regulamento.\n\n(27) Atendendo a que os objectivos da acção encarada, a saber o acompanhamento das florestas, do seu estado e das interacções ambientais, ser suficientemente realizados pelos Estados-Membros e podem, pois, ser melhor alcançados ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consignado no artigo 5.o do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir aqueles objectivos.\n\n(28) Os Acordos Europeus entre a Comunidade Europeia e os seus Estados-Membros, por um lado, e os países da Europa Central e Oriental candidatos à adesão, por outro, estabelecem a participação desses países nos programas comunitários, nomeadamente no domínio do ambiente. O mecanismo deve igualmente ser aberto à participação de outros países europeus.\n\n(29) Tendo caducado os Regulamentos (CEE) n.o 3528/86 e (CEE) n.o 2158/92 e a fim de evitar duplicações ou lacunas, é necessário que o presente regulamento seja aplicável com efeitos desde 1 de Janeiro de 2003,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "eeb098601fe2d8c2": {
+   "fragment_id": "SECÇÃO 1 Objectivos, âmbito e definições — Artigo 1.o",
+   "type": "divisao",
+   "heading": "SECÇÃO 1 Objectivos, âmbito e definições — Artigo 1.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 1 Objectivos, âmbito e definições — Artigo 1.o\n\n1. É criado um mecanismo comunitário para o acompanhamento alargado, harmonizado, exaustivo e a longo prazo do estado das florestas (a seguir designado \"mecanismo\"), com o fim de:\n\na) Prosseguir e aprofundar:\n\n- o acompanhamento da poluição atmosférica e dos seus efeitos e de outros agentes e factores com impacto nas florestas, tais como factores bióticos e abióticos e factores de origem antropogénica,\n\n- o acompanhamento de incêndios florestais, suas causas e efeitos,\n\n- a prevenção de incêndios florestais;\n\nb) Avaliar os requisitos e aprofundar o acompanhamento dos solos, da fixação de carbono, dos efeitos das alterações climáticas, da biodiversidade, bem como das funções protectoras das florestas;\n\nc) Avaliar continuamente a eficácia das actividades de acompanhamento na apreciação do estado das florestas e no desenvolvimento da actividade de acompanhamento.\n\nO mecanismo deve fornecer dados e informações fiáveis e comparáveis sobre o estado das florestas e sobre as influências negativas que sofrem ao nível da Comunidade. Deve também facilitar a avaliação das medidas em curso para promover a conservação e a protecção das florestas para favorecer o desenvolvimento sustentável, com particular ênfase nas acções tendentes a reduzir os impactos que afectam negativamente as florestas. O mecanismo deve ter em conta os mecanismos de acompanhamento existentes e planeados, a nível nacional, europeu e mundial, e, sempre que apropriado, estar ligado a esses mecanismos, e deve estar em consonância com os acordos internacionais pertinentes.\n\n2. Sempre que no presente regulamento se fizer referência a florestas, os Estados-Membros poderão incluir outros terrenos arborizados. Sempre que no presente regulamento se fizer referência a florestas em conexão com incêndios florestais, os Estados-Membros poderão incluir também outros terrenos.\n\n3. Em França, o mecanismo não é aplicável nos departamentos ultramarinos."
+  },
+  "946b7dbf0b2a28c4": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O mecanismo consiste em acções destinadas a:\n\na) Promover, de modo harmonizado, a recolha, o tratamento e a análise dos dados;\n\nb) Aperfeiçoar a avaliação dos dados e promover a integração dessa avaliação a nível comunitário;\n\nc) Melhorar a qualidade dos dados e da informação recolhidos no âmbito do mecanismo;\n\nd) Aprofundar a actividade de acompanhamento no mecanismo;\n\ne) Melhorar o conhecimento das florestas, nomeadamente o impacto das pressões naturais e antropogénicas;\n\nf) Estudar a dinâmica dos incêndios florestais e suas causas e impactos nas florestas;\n\ng) Desenvolver indicadores e metodologias para avaliar os riscos relacionados com as múltiplas pressões exercidas no espaço e no tempo.\n\n2. As acções definidas no n.o 1 complementam programas comunitários de investigação."
+  },
+  "4e8dcc5af7ba9421": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara efeitos do presente regulamento, entende-se por:\n\na) \"Florestas\": terrenos com percentagem de coberto arbóreo (ou densidade equivalente) superior a 10 % e área superior a 0,5 hectares. A vegetação arbórea deve ser susceptível de atingir a altura mínima de 5 metros na maturidade in situ. Pode consistir, quer em formações florestais cerradas nas quais árvores de vários estratos e sub-bosque cobrem uma percentagem elevada do terreno, quer em formações florestais abertas, com um coberto vegetal contínuo no qual o coberto arbóreo ultrapassa 10 %. Incluem-se no conceito de floresta os povoamentos naturais jovens e todas as plantações estabelecidas para fins florestais que não tenham ainda atingido uma densidade de 10 % ou uma altura de 5 metros, tal como os terrenos que fazem normalmente parte da área de floresta e são temporariamente desarborizados em resultado da intervenção humana ou de causas naturais mas em princípio retornam ao estado de floresta. A definição de \"floresta\" inclui viveiros florestais e pomares de semente que integrem a floresta; as estradas florestais, terrenos limpos, corta-fogos e clareiras integradas na floresta; as florestas incluídas em parques naturais, reservas naturais e outras áreas protegidas tais como as zonas de interesse especial ambiental, científico, histórico, cultural ou espiritual; os quebra-ventos e cortinas de abrigo com superfície superior a 0,5 hectares e largura superior a 20 metros. São incluídas as plantações de borracha e de sobreiros. Contudo, a definição de \"floresta\" exclui terrenos predominantemente agrícolas;\n\nb) \"Outros terrenos arborizados\": terrenos com percentagem de coberto arbóreo (ou densidade equivalente) entre 5 % e 10 % de árvores susceptíveis de atingir a altura de 5 metros na maturidade in situ ou com percentagem de coberto arbóreo (ou densidade equivalente) superior a 10 % de árvores não susceptíveis de atingir a altura de 5 metros na maturidade in situ (por exemplo, árvores anãs ou enfezadas) ou coberto arbustivo. A definição de \"outros terrenos arborizados\" exclui zonas com coberto arbóreo ou arbustivo acima especificado com superfície inferior a 0,5 hectares e largura inferior a 20 metros, classificados como \"outros terrenos\", e terrenos predominantemente agrícolas;\n\nc) \"Outros terrenos\": terrenos que, embora não sejam classificados como florestas ou outros terrenos arborizados de acordo com a definição do presente regulamento, tenham no entanto sido incluídos nas estatísticas relativas aos incêndios florestais nos termos da legislação nacional. Esses terrenos podem incluir incultos, terrenos abandonados e terrenos agrícolas confinantes com terrenos florestais ou cercados por estes;\n\nd) \"Incêndio florestal\": incêndio que deflagra e se estende por florestas e outros terrenos com coberto arbóreo ou que tem início noutros terrenos e que se propaga na floresta e outros terrenos arborizados. A definição de \"incêndio florestal\" exclui queimadas ou fogos controlados, geralmente destinados a diminuir ou eliminar o material combustível acumulado no terreno;\n\ne) \"Geo-referenciado\": referência a uma zona geográfica específica na qual se recolhem dados ou outra informação. Esta zona ou local poderá ser superior à área em que se recolhem os dados/informações, por exemplo para assegurar o anonimato da fonte desses dados/informações.\n\nSECÇÃO 2 Acompanhamento e instrumentos para aperfeiçoar e desenvolver o mecanismo"
+  },
+  "725ed84cf1d2b59b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Com base no acervo do Regulamento (CEE) n.o 3528/86, o mecanismo deve:\n\na) Prosseguir e aprofundar a rede sistemática de pontos de observação, com a finalidade de estabelecer inventários periódicos que forneçam informação representativa sobre o estado das florestas;\n\nb) Prosseguir e aprofundar a rede de parcelas de observação, nas quais será efectuada o acompanhamento intensivo e contínuo das florestas.\n\n2. As regras de execução do n.o 1 são estabelecidas nos termos do n.o 2 do artigo 17.o"
+  },
+  "0e2c55cb8c0454c6": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Com base no acervo do Regulamento (CEE) n.o 2158/92, o mecanismo deve prosseguir e aprofundar o sistema de informação, com a finalidade de recolher informação comparável sobre os incêndios florestais ao nível comunitário.\n\n2. O mecanismo deve permitir aos Estados-Membros realizarem estudos sobre a identificação das causas e da dinâmica dos incêndios florestais, assim como o seu impacto nas florestas. Tais estudos complementam actividades e medidas relacionadas com os incêndios florestais, empreendidas no âmbito da Decisão 1999/847/CE, do Regulamento (CE) n.o 1257/1999 e do Regulamento (CEE) n.o 1615/89.\n\nAlém disso, e até 31 de Dezembro de 2005, serão financiadas separadamente campanhas de sensibilização e a formação especial dos agentes envolvidos em intervenções de prevenção de incêndios, em conformidade com o n.o 1 do artigo 13.o, a não ser que tais medidas constem dos programas de desenvolvimento rural.\n\n3. As medidas de prevenção de incêndios florestais elegíveis para efeitos do Regulamento (CEE) n.o 2158/92 devem ser financiadas em conformidade com a alínea b) do n.o 2 do artigo 12.o e o n.o 1 do artigo 13.o, desde que não encontrem justificação no Regulamento (CE) n.o 1257/1999 nem se encontrem incluídas em programas de desenvolvimento rural à escala nacional ou regional.\n\n4. Os Estados-Membros podem participar, a seu pedido, nas medidas e actividades referidas nos n.os 1 e 2.\n\n5. As regras de execução dos n.os 1 e 2 são estabelecidas nos termos do n.o 2 do artigo 17.o"
+  },
+  "6c2d34c4ff189414": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Para a realização dos objectivos estabelecidos na alínea b) do artigo 1.o, o mecanismo é desenvolvido através de estudos, experiências, projectos de demonstração, projectos-piloto e o estabelecimento de novas actividades de acompanhamento. Em colaboração com os Estados-Membros, a Comissão desenvolve o mecanismo a fim de, nomeadamente:\n\na) Reforçar o conhecimento do estado das florestas e outros terrenos arborizados, assim como da relação entre o estado das florestas e as pressões naturais e antropogénicas;\n\nb) Avaliar os impactos das alterações climáticas nas florestas e noutros terrenos arborizados, inclusive o impacto na sua biodiversidade, e a sua relação com a fixação do carbono e os solos;\n\nc) Tendo em conta os indicadores relevantes existentes, identificar os elementos estruturais e funcionais básicos dos ecossistemas, a utilizar como indicadores para avaliar o estado e as tendências da biodiversidade nas florestas e as funções protectoras das florestas.\n\n2. Paralelamente com as medidas referidas no n.o 1, a pedido da Comissão ou por iniciativa própria, os Estados-Membros podem realizar estudos, experiências, projectos de demonstração ou uma fase de teste de acompanhamento.\n\n3. As medidas referidas nos n.os 1 e 2 ajudam a identificar as opções para o estabelecimento de novas actividades de acompanhamento ao abrigo do mecanismo, que deverão contribuir substancialmente para as necessidades de informação e acompanhamento nos domínios enumerados na alínea b) do n.o 1 do artigo 1.o A execução destas actividades deve ser considerada parte integrante da revisão a que se refere o artigo 18.o Ao desenvolver o mecanismo, a Comissão deve ter em conta exigências e restrições científicas, e bem assim financeiras.\n\n4. As regras de execução dos n.os 1, 2 e 3, incluindo decisões sobre a execução de novas actividades de acompanhamento, são estabelecidas nos termos do n.o 2 do artigo 17.o"
+  },
+  "3a8dadb9f8387c47": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Para a realização dos objectivos estabelecidos na alínea c) do n.o 1 do artigo 1.o, em complemento às acções estabelecidas no artigo 6.o, e em estreita cooperação com os Estados-Membros, a Comissão efectuará estudos, experiências e projectos de demonstração a fim de:\n\na) Promover, de modo harmonizado, a recolha, o tratamento e a análise dos dados ao nível comunitário;\n\nb) Melhorar a avaliação dos dados ao nível comunitário;\n\nc) Melhorar a qualidade dos dados e da informação recolhidos no âmbito do mecanismo.\n\n2. Para a realização dos objectivos estabelecidos na alínea c) do n.o 1 do artigo 1.o e em complemento às acções estabelecidas no artigo 6.o, os Estados-Membros podem integrar, nos seus programas nacionais, estudos, experiências e projectos de demonstração nos domínios referidos no n.o 1.\n\n3. As regras de execução do n.o 1 são estabelecidas nos termos do n.o 2 do artigo 17.o"
+  },
+  "cd53c0eca7e1f05a": {
+   "fragment_id": "SECÇÃO 3 Programas nacionais, coordenação e cooperação — Artigo 8.o",
+   "type": "divisao",
+   "heading": "SECÇÃO 3 Programas nacionais, coordenação e cooperação — Artigo 8.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 3 Programas nacionais, coordenação e cooperação — Artigo 8.o\n\n1. As actividades previstas nos artigos 4.o e 5.o, nos n.os 2 e 3 do artigo 6.o e no n.o 2 do artigo 7.o são executadas no âmbito de programas nacionais a elaborar pelos Estados-Membros por períodos de dois anos.\n\n2. Os programas nacionais são submetidos à Comissão no prazo de 60 dias a contar da entrada em vigor do presente regulamento e, posteriormente, até 1 de Novembro do ano anterior à data de início de cada período de três anos.\n\n3. Os Estados-Membros adaptam os seus programas nacionais com a aprovação da Comissão, nomeadamente para que neles possa ser incluída a actividade de acompanhamento, realizada nos termos do artigo 6.o, quando estabelecida.\n\n4. Na sua apresentação à Comissão, os programas nacionais são acompanhados de uma avaliação ex-ante. Os Estados-Membros realizam também avaliações intercalares no final do terceiro ano do período estabelecido no artigo 12.o e avaliações ex-post no final desse período.\n\n5. Com base nos programas nacionais apresentados ou em eventuais adaptações aprovadas desses programas, a Comissão decide o contributo financeiro para os custos elegíveis.\n\n6. As regras de execução dos n.os 1 a 5 são estabelecidas nos termos do n.o 2 do artigo 17.o, tendo em conta os mecanismos de acompanhamento nacionais, europeus e internacionais, a fim de evitar um encargo administrativo adicional."
+  },
+  "c19039759012d6e1": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. A Comissão, em cooperação com os Estados-Membros, coordena, acompanha e desenvolve o mecanismo e elabora relatórios sobre ele, designadamente ao Comité Permanente Florestal.\n\n2. A Comissão, em cooperação com os Estados-Membros, analisa os dados ao nível comunitário e assegura a avaliação dos dados e da informação recolhidos ao nível comunitário de acordo com o artigo 15.o\n\n3. A Comissão deve estabelecer um grupo consultivo cientifico que assistirá o Comité Permanente Florestal na preparação dos seus trabalhos, designadamente no desenvolvimento do mecanismo a que se refere o artigo 6.o\n\n4. Para a execução dos trabalhos estabelecidos nos n.os 1 e 2, a Comissão deve criar um órgão de coordenação científica no seio do Centro Comum de Investigação e pode consultar e contratar institutos e peritos de investigação, tendo plenamente em conta a diversidade dos ecossistemas florestais na Comunidade.\n\n5. Na elaboração dos relatórios referidos no n.o 1, a Comissão é assistida pela Agência Europeia do Ambiente.\n\n6. As regras de execução do n.o 3 são estabelecidas nos termos do n.o 2 do artigo 17.o"
+  },
+  "e3dbdb3d229fc2c1": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Com vista a harmonizar as actividades referidas nos artigos 4.o e 5.o e no n.o 3 do artigo 6.o e assegurar a comparabilidade dos dados, os manuais devem especificar os parâmetros obrigatórios e os facultativos e estabelecer os métodos de acompanhamento, assim como os formatos a utilizar na transmissão dos dados. Os manuais devem assentar em sistemas existentes, sempre que for caso disso e sempre que disponíveis.\n\n2. As regras de execução do n.o 1 são estabelecidas nos termos do n.o 2 do artigo 17.o"
+  },
+  "69b00256947246ee": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. No contexto dos objectivos estabelecidos no artigo 1.o, a Comissão e os Estados-Membros, colaboram com outros organismos ao nível internacional ou pan-europeu, promovendo sinergias para fomentar a conservação e a protecção das florestas com vista ao desenvolvimento sustentável.\n\n2. No contexto do artigo 4.o, a Comissão colabora com o \"ICP Forests\", para o cumprimento das obrigações estabelecidas no âmbito da Convenção sobre a Poluição Atmosférica Transfronteiriça a Longa Distância.\n\n3. Para efeitos da cooperação referida nos n.os 1 e 2, a Comunidade pode apoiar as seguintes actividades:\n\na) Estabelecimento de contactos adequados com o órgão de coordenação científica;\n\nb) Estudos e avaliações de dados."
+  },
+  "890f972983bb9b9b": {
+   "fragment_id": "SECÇÃO 4 Período de execução e aspectos financeiros — Artigo 12.o",
+   "type": "divisao",
+   "heading": "SECÇÃO 4 Período de execução e aspectos financeiros — Artigo 12.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 4 Período de execução e aspectos financeiros — Artigo 12.o\n\n1. O mecanismo abrange um período de quatro anos, entre 1 de Janeiro de 2003 e 31 de Dezembro de 2006.\n\n2. Para efeitos do mecanismo, é o seguinte o apoio financeiro máximo da Comunidade aos custos elegíveis dos programas nacionais:\n\na) Actividades a realizar no âmbito do artigo 4.o: 50 %;\n\nb) Actividades a realizar no âmbito do artigo 5.o: 50 %;\n\nc) Actividades a realizar no âmbito do n.o 2 do artigo 6.o: 75 %;\n\nd) Actividades a realizar no âmbito do n.o 3 do artigo 6.o: 50 %;\n\ne) Actividades a realizar no âmbito do n.o 2 do artigo 7.o: 50 %.\n\n3. A Comissão paga aos Estados-Membros o contributo comunitário para os custos elegíveis.\n\n4. As despesas em que os Estados-Membros incorram pela execução de programas nacionais aprovados pela Comissão podem, a título excepcional, ser elegíveis para efeitos de co-financiamento se as referidas acções tiverem sido lançadas após 1 de Janeiro de 2003 mas previamente à entrada em vigor do presente regulamento, no pressuposto de que as referidas acções não se encontrem concluídas à data da aprovação dos programas nacionais pela Comissão.\n\n5. A Comissão financia actividades a realizar no âmbito do n.o 1 do artigo 6.o, do n.o 1 do artigo 7.o e dos n.os 1, 2 e 4 do artigo 9.o, em conformidade com as regras aplicáveis aos contratos públicos.\n\n6. A Comunidade pode prestar um contributo à Agência Europeia do Ambiente para o cumprimento das funções estabelecidas no n.o 5 do artigo 9.o e no artigo 18.o\n\n7. A Comissão pode financiar actividades do grupo consultivo científico mencionado no n.o 3 do artigo 9.o para o cumprimento das tarefas estabelecidas nas regras de execução.\n\n8. A Comunidade pode prestar um contributo ao \"ICP Forests\" para o cumprimento das obrigações da Comunidade estabelecidas no n.o 2 do artigo 11.o"
+  },
+  "9f11a79ceb1c4963": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. O enquadramento financeiro para a execução do mecanismo, para o período de 2003-2006, é de 61 milhões de euros, dos quais 9 milhões de euros podem ser utilizados em medidas de prevenção de incêndios.\n\n2. Os recursos financeiros estabelecidos no n.o 1 devem ser aumentados no caso da adesão de novos Estados-Membros.\n\n3. As dotações anuais devem ser autorizadas pela autoridade orçamental no âmbito do processo orçamental anual e no limite das perspectivas financeiras."
+  },
+  "1f31ceeb96082364": {
+   "fragment_id": "SECÇÃO 5 Execução, relatórios dos Estados-Membros, Comité Permanente Florestal — Artigo 14.o",
+   "type": "divisao",
+   "heading": "SECÇÃO 5 Execução, relatórios dos Estados-Membros, Comité Permanente Florestal — Artigo 14.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 5 Execução, relatórios dos Estados-Membros, Comité Permanente Florestal — Artigo 14.o\n\n1. Os Estados-Membros designarão os organismos competentes para gerir as actividades incluídas nos programas nacionais aprovados, em função da capacidade financeira e operacional desses organismos. Os organismos poderão ser departamentos oficiais nacionais ou outras entidades, sob condição da aprovação de entidades privadas com responsabilidade pela execução de serviços públicos por parte da Comissão, no pressuposto da existência de garantias financeiras adequadas e de observância das condições estabelecidas nas regras de execução para a implementação do presente número.\n\n2. Sem prejuízo das autoridades competentes existentes, os Estados-Membros designarão autoridades e agências com poderes para executar as medidas adoptadas em conformidade com o presente regulamento.\n\n3. Os Estados-Membros são responsáveis pela gestão regular e eficaz do contributo comunitário, para o que devem aprovar disposições necessárias a:\n\na) Garantir a realização efectiva e correcta das actividades financiadas pela Comunidade, assegurando a visibilidade do contributo comunitário;\n\nb) Evitar irregularidades;\n\nc) Recuperar montantes perdidos em resultado de irregularidade ou negligência;\n\nd) Assegurar que os organismos mencionados no n.o 1 tenham sistemas adequados de gestão e controlo internos;\n\ne) Assegurar que, no caso de os organismos a que se refere o n.o 1 não serem entidades públicas, os Estados-Membros são garantes desses organismos.\n\n4. Os Estados-Membros devem colocar ao dispor da Comissão todas as informações necessárias e tomar todas as medidas susceptíveis de facilitar os controlos que a Comissão possa considerar úteis no âmbito da gestão do financiamento comunitário, incluindo inspecções in loco por parte da Comissão ou do Tribunal de Contas Europeu. Os Estados-Membros devem comunicar à Comissão as medidas tomadas para o efeito.\n\n5. As regras de execução dos n.os 1 a 4 são estabelecidas nos termos do n.o 2 do artigo 17.o"
+  },
+  "ab5a06c013cf69c6": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Os Estados-Membros transmitem anualmente à Comissão, por intermédio das autoridades e serviços designados, os dados recolhidos no âmbito do mecanismo, juntamente com um relatório.\n\nOs dados são geo-referenciados e transmitidos à Comissão por meio de telecomunicações computadorizadas e/ou tecnologia electrónica. A Comissão, em estreita cooperação com os Estados-Membros, estabelece o formato e os elementos necessários à transmissão.\n\n2. Os Estados-Membros divulgam activamente os dados recolhidos, segundo formatos e normas comuns e através de bases de dados electrónicas geo-referenciadas, que serão administrados em conformidade com os princípios da Convenção de Aarhus e com as disposições comunitárias pertinentes sobre o acesso a informações relativas ao ambiente.\n\n3. A fim de promover a avaliação dos dados e obter o máximo valor acrescentado com a sua utilização, não será restringido o direito da Comissão de utilizar e divulgar os dados recolhidos de acordo com os objectivos da Convenção de Aarhus e com as disposições comunitárias pertinentes sobre acesso a informações relativas ao ambiente. Sempre que forem divulgados dados recolhidos pelos Estados-Membros, estes devem ser referenciados como a fonte.\n\n4. As regras de execução do n.o 1 são estabelecidas nos termos do n.o 2 do artigo 17.o"
+  },
+  "ca9f51e3a7deabf7": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Cada Estado-Membro elabora, designadamente com base nas actividades estabelecidas no n.o 1 do artigo 4.o, um relatório sobre a situação nacional relativa ao estado das florestas.\n\nO relatório deve ser transmitido à Comissão até 31 de Dezembro, de 2005.\n\n2. Cada Estado-Membro participante nas actividades estabelecidas no artigo 5.o elabora um relatório sobre a situação nacional relativa ao impacto dos incêndios nas florestas.\n\nO relatório deve ser transmitido à Comissão até 31 de Dezembro de cada ano, a começar em 2003.\n\n3. Cada Estado-Membro elabora um relatório sobre a situação nacional relativa às questões tratadas no âmbito das actividades de acompanhamento referidas no n.o 3 do artigo 6.o, quando estabelecidas.\n\nAs orientações para o relatório e a respectiva periodicidade são estabelecidas nos termos do n.o 2 do artigo 17.o"
+  },
+  "73fb56734ed73a39": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. A Comissão é assistida pelo Comité Permanente Florestal.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE, tendo em conta o disposto no seu artigo 8.o\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de dois meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "12244f287490212f": {
+   "fragment_id": "SECÇÃO 6 Relatórios da Comissão, revisão, países candidatos — Artigo 18.o",
+   "type": "divisao",
+   "heading": "SECÇÃO 6 Relatórios da Comissão, revisão, países candidatos — Artigo 18.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 6 Relatórios da Comissão, revisão, países candidatos — Artigo 18.o\n\nSeis meses após a data estabelecida para a transmissão dos relatórios a que se refere o artigo 16.o e tendo em conta todos os relatórios transmitidos nos termos do artigo 16.o, a Comissão, assistida pela Agência Europeia do Ambiente, deve apresentar ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do mecanismo, que reveja a eficácia do mecanismo com o objectivo de providenciar uma base para a tomada de quaisquer decisões sobre a continuidade destas actividades após 2006. Neste propósito, a Comissão é convidada a apresentar uma proposta."
+  },
+  "8d64e9073133e546": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nAntes de expirar o período referido no n.o 1 do artigo 12.o, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do mecanismo, tendo em conta a revisão a que se refere o artigo 18.o"
+  },
+  "24ad3862c147f42a": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO presente mecanismo está aberto à participação:\n\na) Dos países candidatos da Europa Central e Oriental, nos termos dos Acordos Europeus, dos respectivos protocolos adicionais e das decisões dos respectivos Conselhos de Associação;\n\nb) De Chipre, Malta e Turquia, com base nos acordos bilaterais a celebrar com estes países;\n\nc) De outros países europeus, facultativamente e a expensas suas."
+  },
+  "461d2ebcb18919c1": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nO presente regulamento entra em vigor na data da sua publicação no Jornal Oficial da União Europeia.\n\nÉ aplicável com efeitos desde 1 de Janeiro de 2003.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 17 de Novembro de 2003.\n\nPelo Conselho\n\nO Presidente\n\nP. Cox\n\nO Presidente\n\nO Presidente\n\nG. Alemanno\n\n(1) JO C 20 E de 28.1.2003, p. 67.\n\n(2) JO C 85 de 8.4.2003, p. 83.\n\n(3) JO C 128 de 29.5.2003, p. 41.\n\n(4) Parecer do Parlamento Europeu de 13 de Fevereiro de 2003 (ainda não publicado no Jornal Oficial), posição comum do Conselho de 13 de Junho de 2003 (JO C 233 E de 30.9.2003, p. 1) e posição do Parlamento Europeu de 21 de Outubro de 2003 (ainda não publicada no Jornal Oficial). Decisão do Conselho de 6 de Novembro de 2003.\n\n(5) JO C 56 de 26.2.1999, p. 1.\n\n(6) JO L 242 de 10.9.2002, p. 1.\n\n(7) JO L 326 de 21.11.1986, p. 2. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 804/2002 (JO L 132 de 17.5.2002, p. 1).\n\n(8) JO L 217 de 31.7.1992, p. 3. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 805/2002 (JO L 132 de 17.5.2002, p. 3).\n\n(9) JO L 327 de 21.12.1999, p. 53.\n\n(10) JO L 160 de 26.6.1999, p. 80.\n\n(11) JO L 165 de 15.6.1989, p. 12. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1100/98 (JO L 157 de 30.5.1998, p. 10).\n\n(12) JO L 165 de 15.6.1989, p. 14.\n\n(13) JO C 172 de 18.6.1999, p. 1.\n\n(14) JO L 184 de 17.7.1999, p. 23."
+  },
+  "a4d2152656b1f57b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2003R2152 — PT — 12.06.2007 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32003R2152) [REGULAMENTO (CE) N.º 2152/2003 DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32003R2152) [de 17 de Novembro de 2003](http://publications.europa.eu/resource/celex/32003R2152) [relativo ao acompanhamento das florestas e das interacções ambientais na Comunidade (Forest Focus)](http://publications.europa.eu/resource/celex/32003R2152) (JO L 324, 11.12.2003, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 614/2007 do Parlamento Europeu e do Conselho de 23 de Maio de 2007](http://publications.europa.eu/resource/celex/32007R0614) — L 149 — 1 — 9.6.2007"
+  }
+ }
+}

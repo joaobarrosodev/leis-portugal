@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-1992-900.versoes.json
+  count: 1
+  source_lastmod: '1992-04-13'
+  versions:
+  - date: '1992-04-10'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31992R0900
   eli: http://data.europa.eu/eli/reg/1992/900/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b6d5afdb-0b10-49a8-9cde-247044ed98d7.0009
   content_url: http://publications.europa.eu/resource/cellar/b6d5afdb-0b10-49a8-9cde-247044ed98d7.0009.01/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:55:43Z'
+  retrieved_at: '2026-10-22T14:41:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-31T20:22:44.825+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:55:43Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:28Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-1992-900.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -107,18 +116,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:55:43Z'
+  checked_at: '2026-10-22T14:41:28Z'
   warnings:
-  - Versão consolidada 01992R0900-19920413 indisponível (Sem expressão na língua por para CELEX 01992R0900-19920413.); usado
-    o texto do JO.
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01992R0900-19920413: versão indisponível (Sem expressão na língua por para CELEX 01992R0900-19920413.)'
   errors: []
 ---
 

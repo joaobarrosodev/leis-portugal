@@ -1,0 +1,462 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31982L0894:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01982L0894-20130101",
+ "dre_path": null,
+ "source_lastmod": "2013-01-01",
+ "versions": [
+  {
+   "date": "1982-12-31",
+   "future": false,
+   "celex": "31982L0894",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e1e70ee3a5cd68f9",
+    "d3c060466e944826",
+    "4feab8921d17803f",
+    "e93f7a7f97baa28d",
+    "8091bc47192ebf92",
+    "fc922003bd5e4a80",
+    "47c039c04f1ac6f4",
+    "13fa2bd4fdf6ab5b",
+    "cb91ce97e3140038",
+    "ce6b7e8e631e8ddc",
+    "1caed5a701dd9ceb"
+   ]
+  },
+  {
+   "date": "2008-08-01",
+   "future": false,
+   "celex": "01982L0894-20080801",
+   "acts": [
+    {
+     "id": "eu:celex:31985R3768:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31985R3768"
+    },
+    {
+     "id": "eu:celex:31989D0162:por",
+     "title": "M2",
+     "published": null,
+     "celex": "31989D0162"
+    },
+    {
+     "id": "eu:celex:31990D0134:por",
+     "title": "M3",
+     "published": null,
+     "celex": "31990D0134"
+    },
+    {
+     "id": "eu:celex:31992D0450:por",
+     "title": "M4",
+     "published": null,
+     "celex": "31992D0450"
+    },
+    {
+     "id": "eu:celex:31998D0012:por",
+     "title": "M5",
+     "published": null,
+     "celex": "31998D0012"
+    },
+    {
+     "id": "eu:celex:32000D0556:por",
+     "title": "M6",
+     "published": null,
+     "celex": "32000D0556"
+    },
+    {
+     "id": "eu:celex:32002D0788:por",
+     "title": "M7",
+     "published": null,
+     "celex": "32002D0788"
+    },
+    {
+     "id": "eu:celex:32003R0807:por",
+     "title": "REGULAMENTO (CE) N. o 807/2003 DO CONSELHO de 14 de Abril de 2003",
+     "published": null,
+     "celex": "32003R0807"
+    },
+    {
+     "id": "eu:celex:32004D0216:por",
+     "title": "M9",
+     "published": null,
+     "celex": "32004D0216"
+    },
+    {
+     "id": "eu:celex:32008D0650:por",
+     "title": "DECISÃO DA COMISSÃO de 30 de Julho de 2008",
+     "published": null,
+     "celex": "32008D0650"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita ANEXO I",
+    "Adita Doenças que são objecto de notificação",
+    "Adita A. Doenças de animais terrestres",
+    "Adita B. Doenças de animais aquáticos",
+    "Adita ANEXO II",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime ANEXO I — Doenças que são objecto da notificação",
+    "Suprime ANEXO II — Informações prestadas no âmbito da notificação"
+   ],
+   "fragments": [
+    "05ea36201873e7be",
+    "5d43ae158e78e2d7",
+    "a10e405b02b6fc68",
+    "69a8ae785eeda80b",
+    "3131b1451f5b2ad8",
+    "273710f51ca66cbf",
+    "50b3be47475b4639",
+    "1a788393bb811348",
+    "2f4f7a2d67125efb",
+    "d664376e2a8dcecd",
+    "9d4340a856138d29",
+    "9edd3c83c2ea3ba9",
+    "2f6a31f03763f9a1",
+    "b520082e18cd90c5",
+    "7155b45886741ac8"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "celex": "01982L0894-20130101",
+   "acts": [
+    {
+     "id": "eu:celex:32012D0737:por",
+     "title": "DECISÃO DE EXECUÇÃO DA COMISSÃO de 27 de novembro de 2012",
+     "published": null,
+     "celex": "32012D0737"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera A. Doenças de animais terrestres",
+    "Altera ANEXO II",
+    "Altera Notas",
+    "Adita Doenças que são objeto de notificação",
+    "Adita B. Doenças de animais de aquicultura",
+    "Suprime Doenças que são objecto de notificação",
+    "Suprime B. Doenças de animais aquáticos"
+   ],
+   "fragments": [
+    "35400020f788b584",
+    "5d43ae158e78e2d7",
+    "a10e405b02b6fc68",
+    "28b013029637eeb7",
+    "3131b1451f5b2ad8",
+    "273710f51ca66cbf",
+    "c37dddf744cebb89",
+    "1a788393bb811348",
+    "2f4f7a2d67125efb",
+    "d664376e2a8dcecd",
+    "d6c80251158cdcc2",
+    "2050f94a906c26c3",
+    "4891e9b757bb72d1",
+    "7a261b88eff76ff1",
+    "bbb773537d703ac2"
+   ]
+  }
+ ],
+ "fragments": {
+  "e1e70ee3a5cd68f9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 82/894/CEE do Conselho, de 21 de Dezembro de 1982, relativa à notificação de doenças dos animais na Comunidade** *Jornal Oficial nº L 378 de 31/12/1982 p. 0058 - 0062 Edição especial finlandesa: Capítulo 3 Fascículo 15 p. 0215 Edição especial espanhola: Capítulo 03 Fascículo 26 p. 0227 Edição especial sueca: Capítulo 3 Fascículo 15 p. 0215 Edição especial portuguesa: Capítulo 03 Fascículo 26 p. 0227*\n\nDIRECTIVA DO CONSELHO de 21 de Dezembro de 1982 relativa à notificação de doenças dos animais na Comunidade\n\n(82/894/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, e, nomeadamente, os seus artigos 43o e 100o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que a Comunidade regulamentou as trocas intracomunitárias de animais das espécies bovina e suína, de carnes frescas, de carne fresca de aves de capoeira e de produtos à base de carne,\n\nConsiderando que o aparecimento ou a presença de certas doenças contagiosas dos animais representam um risco para o gado comunitário, nomeadamente em virtude da sua propagação aquando das trocas intracomunitárias; que é indispensável uma informação rápida e precisa para aplicar as diferentes medidas de protecção previstas na regulamentação comunitária,\n\nConsiderando que compete a cada Estado-membro notificar os outros Estados-membros e a Comissão do aparecimento e do desaparecimento de certas doenças no seu território, em conformidade com o artigo 9o da Directiva do Conselho 64/432/CEE, de 26 de Junho de 1964, relativa a problemas de polícia sanitária em matéria de trocas intracomunitárias de animais das espécies bovina e suína (3), com a última redação que lhe foi dada pela Directiva 80/1274/CEE (4), com o artigo 11o da Directiva 71/118/CEE do Conselho, de 15 de Fevereiro de 1971, relativa a problemas sanitários em matéria de trocas de carne fresca de aves de capoeira (5), com a última redacção que lhe foi dada pela Directiva 80/216/CEE (6), com o artigo 7o da Directiva 72/461/CEE do Conselho, de 12 de Dezembro de 1972, relativa a problemas de polícia sanitária em matéria de trocas intracomunitárias de carnes frescas (7), com a última redacção que lhe foi dada pela directiva 80/1099/CEE (8), e com o artigo 7o da Directiva 80/215/CEE do Conselho, de 22 de Janeiro de 1980, relativa a problemas de polícia sanitária em matérias de trocas intracomunitárias de produtos à base de carne (9), com a última redacção que lhe foi dada pela Directiva 80/1100/CEE (10),\n\nConsiderando que o método de notificação e as doenças a notificar devem ser especificados e que convém, nomeadamente, fazer periodicamente o ponto da situação em cada Estado-membro,\n\nConsiderando que, tendo em conta a experiência que for alcançada no que respeita à referida notificação, será efectuada uma adaptação às necessidades técnicas segundo um procedimento que preveja uma cooperação estreita entre os Estados-membros e a Comissão,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d3c060466e944826": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva diz respeito à notificação:\n\n- do aparecimento de uma das doenças constantes do Anexo I,\n\n- da supressão - após a extinção do último foco - das restituições impostas na sequência do aparecimento de uma das doenças constantes do Anexo I.\n\n2. A presente directiva é aplicável sem prejuízo das disposições especiais referentes à informação em matéria de harmonização das medidas de erradicação e/ou de profilaxia relativas às doenças dos animais."
+  },
+  "4feab8921d17803f": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nNa acepção da presente directiva, entende-se por:\n\na) «Exploração»: o estabelecimento agrícola ou outro, situado no território de um Estado-membro e no qual os animais se encontram ou são criados;\n\nb) «Caso»: a constatação oficial, em qualquer animal ou carcaça, de uma das doenças constantes do Anexo I;\n\nc) «Foco»: a exploração ou o local, situado no território da Comunidade, onde se encontram grupos de animais e onde tenham sido oficialmente confirmados um ou mais casos;\n\nd) «Foco primário»: qualquer foco não relacionado, do ponto de vista epizootiológico, com um foco anterior verificado na mesma região de um Estado-membro tal como a define o artigo 2o da Directiva 64/432/CEE, ou o primeiro aparecimento numa região diferente do mesmo Estado-membro."
+  },
+  "e93f7a7f97baa28d": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Todo e qualquer Estado-membro notificará, no prazo de vinte e quatro horas, directamente a Comissão e directamente os Estados-membros:\n\n- de qualquer foco primário de uma das doenças constantes do Anexo I, verificado no seu território,\n\n- da supressão - após a extinção do último foco - das restrições impostas no seu território, na sequência do aparecimento de uma das doenças constantes do Anexo I.\n\n2. As notificações referidas no no 1 compreenderão as informações constantes do Anexo II e serão transmitidas por telex.\n\n3. No caso da peste suína clássica, é suficiente a informação prestada em conformidade com a Directiva 80/217/CEE do Conselho, de 22 de Janeiro de 1980, que estabelece medidas comunitárias de luta contra a peste suína clássica (11), com a última redacção que lhe foi dada pela Directiva 80/1274/CEE (12)."
+  },
+  "8091bc47192ebf92": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Sem prejuízo do disposto no no 2 do artigo 1o, todos os Estados-membros notificarão directamente a Comissão, pelo menos no primeiro dia útil de cada semana, dos focos secundários de uma das doenças constantes do Anexo I, verificadas no respectivo território.\n\nA referida notificação dirá respeito à semana que termina à meia-noite do domingo anterior a essa notificação.\n\nA Comissão estabelecerá a correlação eventualmente existente entre as diferentes informações e comunicá-las-á aos serviços veterinários de cada Estado-membro.\n\n2. O facto de a Comissão não receber qualquer notificação significa que não surgiu qualquer foco secundário durante o período referido no segundo parágrafo do no 1.\n\n3. As notificações referidas no no 1 compreendem as informações constantes do Anexo II e serão transmitidas por telex."
+  },
+  "fc922003bd5e4a80": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Antes da execução da presente directiva, será adoptada, em conformidade com o disposto no artigo 6o, a forma codificada segundo a qual deverão ser comunicadas as informações constantes do Anexo II.\n\n2. Nos termos do artigo 6o, pode ser decidido:\n\n- aditar ou alterar os anexos,\n\n- sem prejuízo do disposto no artigo 4o, alterar temporariamente o alcance, o conteúdo e a frequência da notificação, tendo em conta a doença considerada e a sua evolução epizootiológica especial."
+  },
+  "47c039c04f1ac6f4": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. No caso de ser feita referência ao procedimento previsto no presente artigo, o assunto será imediatamente submetido ao Comité Veterinário Permanente, instituído pela Decisão do Conselho de 15 de Outubro de 1968, a seguir designado por «Comité» pelo seu presidente, por iniciativa deste, ou a pedido de um Estado-membro.\n\n2. Dentro do Comité, atribui-se aos votos dos Estados-membros a ponderação prevista no no 2 do artigo 148o do Tratado. O presidente não vota.\n\n3. O representante da Comissão apresentará um projecto de medidas a tomar. O Comité emitirá o seu parecer relativamente a essas medidas num prazo que o presidente pode fixar em função da urgência das questões submetidas a apreciação. O Comité delibera por maioria de quarenta e cinco votos.\n\n4. A Comissão adoptará as medidas e aplicá-las-á imediatamente desde que estejam em conformidade com o parecer do Comité. Se não estiverem em conformidade com o parecer do Comité ou na ausência de parecer, a Comissão submeterá imediatamente ao Conselho uma proposta relativa às medidas a tomar. O Conselho adoptará essas medidas por maioria qualificada.\n\nSe, expirado um prazo de três meses a contar da data em que o assunto lhe foi submetido, o Conselho não tiver adoptado medidas, a Comissão adoptará as medidas propostas e aplicá-las-á imediatamente, excepto no caso de o Conselho se ter pronunciado por maioria simples contra as referidas medidas."
+  },
+  "13fa2bd4fdf6ab5b": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva, o mais tardar em 1 de Janeiro de 1984. Desse facto informarão imediatamente a Comissão."
+  },
+  "cb91ce97e3140038": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 21 de Dezembro de 1982.\n\nPelo Conselho\n\nO Presidente\n\nO. MOELLER\n\n(1) Parecer dado em 12 e 13 de Abril de 1982 (ainda não publicado no Jornal Oficial).(2) JO no C 112 de 3. 5. 1982, p. 4.(3) JO no 121 de 29. 7. 1964, p. 1977/64.(4) JO no L 375 de 31. 12. 1980, p. 75.(5) JO no L 55 de 8. 3. 1971, p. 23.(6) JO no L 47 de 21. 2. 1980, p. 8.(7) JO no L 302 de 31. 12. 1972, p. 24.(8) JO no L 325 de 1. 12. 1980, p. 14.(9) JO no L 47 de 21. 2. 1980, p. 4.(10) JO no L 325 de 1. 12. 1980, p. 16.(11) JO no L 47 de 21. 2. 1980, p. 11.(12) JO no L 375 de 31. 12. 1980, p. 75."
+  },
+  "ce6b7e8e631e8ddc": {
+   "fragment_id": "ANEXO I — Doenças que são objecto da notificação",
+   "type": "divisao",
+   "heading": "ANEXO I — Doenças que são objecto da notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Doenças que são objecto da notificação\n\nFebre aftosa\n\nPeste bovin\n\nPleuropneumoni contagiosa dos bovinos\n\nFebre catarral ovina (Blue tongue)\n\nDoença vesicular do suíno\n\nPeste suína clássica\n\nPeste suína africana\n\nParalisia contagiosa do suíno (doença de Teschen)\n\nPeste aviária\n\nDoença de Newcastle"
+  },
+  "1caed5a701dd9ceb": {
+   "fragment_id": "ANEXO II — Informações prestadas no âmbito da notificação",
+   "type": "divisao",
+   "heading": "ANEXO II — Informações prestadas no âmbito da notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Informações prestadas no âmbito da notificação\n\n1. Informações pedidas nos termos do artigo 3o aquando do aparecimento de focos primários das doenças constantes do Anexo I.\n\n1. Data de expedição,\n\n2. Hora de expedição,\n\n3. Nome do Estado-membro,\n\n4. a) Nome da doença,\n\nb) Tipo de vírus, se for caso disso,\n\n5. Data da confirmação,\n\n6. Localização geográfica da exploração,\n\n7. Número de animais suspeitos nesses locais: a) bovinos, b) suínos, c) ovinos, d) caprinos, e) aves de capoeira,\n\n8. Número de animais abatidos: a) bovinos, b) suínos, c) ovinos, d) caprinos, e) aves de capoeira.\n\n2. Informações pedidas nos termos do artigo 4o aquando do aparecimento de focos secundários das doenças constantes do Anexo I:\n\n1. Data de expedição,\n\n2. Hora de expedição,\n\n3. Nome do Estado-membro,\n\n4. Para cada doença notificade:\n\na) Nome da doença,\n\nb) Número de focos,\n\n3. Informações pedidas nos termos do artigo 3o aquando da supressão das restrições impostas num Estado-membro, em consequência da extinção do último foco das doenças constantes do Anexo I:\n\n1. Data de expedição,\n\n2. Hora de expedição,\n\n3. Nome do Estado-membro,\n\n4. Nome da doença,\n\n5. Data de supressão das restrições."
+  },
+  "05ea36201873e7be": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Dezembro de 1982\n\nrelativa à notificação de doenças dos animais na Comunidade\n\n(82/894/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, e, nomeadamente, os seus artigos 43.º e 100.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#E0002)),\n\nConsiderando que a Comunidade regulamentou as trocas intracomunitárias de animais das espécies bovina e suína, de carnes frescas, de carne fresca de aves de capoeira e de produtos à base de carne,\n\nConsiderando que o aparecimento ou a presença de certas doenças contagiosas dos animais representam um risco para o gado comunitário, nomeadamente em virtude da sua propagação aquando das trocas intracomunitárias; que é indispensável uma informação rápida e precisa para aplicar as diferentes medidas de protecção previstas na regulamentação comunitária,\n\nConsiderando que compete a cada Estado-membro notificar os outros Estados-membros e a Comissão do aparecimento e do desaparecimento de certas doenças no seu território, em conformidade com o artigo 9.º da Directiva do Conselho 64/432/CEE, de 26 de Junho de 1964, relativa a problemas de polícia sanitária em matéria de trocas intracomunitárias de animais das espécies bovina e suína ([^3^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#E0003)), com a última redação que lhe foi dada pela Directiva 80/1274/CEE ([^4^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#E0004)), com o artigo 11.º da Directiva 71/118/CEE do Conselho, de 15 de Fevereiro de 1971, relativa a problemas sanitários em matéria de trocas de carne fresca de aves de capoeira ([^5^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#E0005)), com a última redacção que lhe foi dada pela Directiva 80/216/CEE ([^6^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#E0006)), com o artigo 7.º da Directiva 72/461/CEE do Conselho, de 12 de Dezembro de 1972, relativa a problemas de polícia sanitária em matéria de trocas intracomunitárias de carnes frescas ([^7^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#E0007)), com a última redacção que lhe foi dada pela directiva 80/1099/CEE ([^8^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#E0008)), e com o artigo 7.º da Directiva 80/215/CEE do Conselho, de 22 de Janeiro de 1980, relativa a problemas de polícia sanitária em matérias de trocas intracomunitárias de produtos à base de carne ([^9^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#E0009)), com a última redacção que lhe foi dada pela Directiva 80/1100/CEE ([^10^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#E0010)),\n\nConsiderando que o método de notificação e as doenças a notificar devem ser especificados e que convém, nomeadamente, fazer periodicamente o ponto da situação em cada Estado-membro,\n\nConsiderando que, tendo em conta a experiência que for alcançada no que respeita à referida notificação, será efectuada uma adaptação às necessidades técnicas segundo um procedimento que preveja uma cooperação estreita entre os Estados-membros e a Comissão,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "5d43ae158e78e2d7": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva diz respeito à notificação:\n\n— do aparecimento de uma das doenças constantes do Anexo I,\n\n— da supressão — após a extinção do último foco — das restituições impostas na sequência do aparecimento de uma das doenças constantes do Anexo I.\n\n2. A presente directiva é aplicável sem prejuízo das disposições especiais referentes à informação em matéria de harmonização das medidas de erradicação e/ou de profilaxia relativas às doenças dos animais."
+  },
+  "a10e405b02b6fc68": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nNa acepção da presente directiva, entende-se por:\n\na) «Exploração»: o estabelecimento agrícola ou outro, situado no território de um Estado-membro e no qual os animais se encontram ou são criados;\n\nb) «Caso»: a constatação oficial, em qualquer animal ou carcaça, de uma das doenças constantes do Anexo I;\n\nc) «Foco»: a exploração ou o local, situado no território da Comunidade, onde se encontram grupos de animais e onde tenham sido oficialmente confirmados um ou mais casos;\n\nd) «Foco primário»: qualquer foco não relacionado, do ponto de vista epizootiológico, com um foco anterior verificado na mesma região de um Estado-membro tal como a define o artigo 2.º da Directiva 64/432/CEE, ou o primeiro aparecimento numa região diferente do mesmo Estado-membro."
+  },
+  "69a8ae785eeda80b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Todo e qualquer Estado-membro notificará, no prazo de vinte e quatro horas, directamente a Comissão e directamente os Estados-membros:\n\n— de qualquer foco primário de uma das doenças constantes do Anexo I, verificado no seu território,\n\n— da supressão — após a extinção do último foco — das restrições impostas no seu território, na sequência do aparecimento de uma das doenças constantes do Anexo I.\n\n2. As notificações referidas no n.º 1 compreenderão as informações constantes do Anexo II e serão transmitidas por telex.\n\n3. No caso da peste suína clássica, é suficiente a informação prestada em conformidade com a Directiva 80/217/CEE do Conselho, de 22 de Janeiro de 1980, que estabelece medidas comunitárias de luta contra a peste suína clássica ([^11^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#E0011)), com a última redacção que lhe foi dada pela Directiva 80/1274/CEE ([^12^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#E0012))."
+  },
+  "3131b1451f5b2ad8": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sem prejuízo do disposto no n.º 2 do artigo 1.º, todos os Estados-membros notificarão directamente a Comissão, pelo menos no primeiro dia útil de cada semana, dos focos secundários de uma das doenças constantes do Anexo I, verificadas no respectivo território.\n\nA referida notificação dirá respeito à semana que termina à meia-noite do domingo anterior a essa notificação.\n\nA Comissão estabelecerá a correlação eventualmente existente entre as diferentes informações e comunicá-las-á aos serviços veterinários de cada Estado-membro.\n\n2. O facto de a Comissão não receber qualquer notificação significa que não surgiu qualquer foco secundário durante o período referido no segundo parágrafo do n.º 1.\n\n3. As notificações referidas no n.º 1 compreendem as informações constantes do Anexo II e serão transmitidas por telex."
+  },
+  "273710f51ca66cbf": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Antes da execução da presente directiva, será adoptada, em conformidade com o disposto no artigo 6.º, a forma codificada segundo a qual deverão ser comunicadas as informações constantes do Anexo II.\n\n2. Nos termos do artigo 6.º, pode ser decidido:\n\n— aditar ou alterar os anexos,\n\n— sem prejuízo do disposto no artigo 4.º, alterar temporariamente o alcance, o conteúdo e a frequência da notificação, tendo em conta a doença considerada e a sua evolução epizootiológica especial."
+  },
+  "50b3be47475b4639": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^13^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#E0013)).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^14^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#E0014)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "1a788393bb811348": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva, o mais tardar em 1 de Janeiro de 1984. Desse facto informarão imediatamente a Comissão."
+  },
+  "2f4f7a2d67125efb": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "9d4340a856138d29": {
+   "fragment_id": "Doenças que são objecto de notificação",
+   "type": "divisao",
+   "heading": "Doenças que são objecto de notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Doenças que são objecto de notificação"
+  },
+  "9edd3c83c2ea3ba9": {
+   "fragment_id": "A. Doenças de animais terrestres",
+   "type": "divisao",
+   "heading": "A. Doenças de animais terrestres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Doenças de animais terrestres\n\nPeste equina\n\nPeste suína africana\n\nGripe aviária\n\nFebre catarral\n\nEncefalopatia espongiforme bovina\n\nPeste suína clássica\n\nPleuropneumonia contagiosa dos bovinos\n\nTripanossomias\n\nEncefalomielite equina (sob todas as formas, incluindo encefalomielite equina venezuelana)\n\nAnemia infecciosa dos equídeos\n\nFebre aftosa\n\nMormo\n\nDermatite nodular contagiosa\n\nDoença de Newcastle\n\nPeste dos pequenos ruminantes\n\nDoença do vale do Rift\n\nPeste bovina\n\nVaríola ovina e caprina\n\nPequeno besouro das colmeias (*Aethina tumida*)\n\nDoença vesiculosa do suíno\n\nAcarídeos *Tropilaelaps*\n\nEstomatite vesiculosa"
+  },
+  "2f6a31f03763f9a1": {
+   "fragment_id": "B. Doenças de animais aquáticos",
+   "type": "divisao",
+   "heading": "B. Doenças de animais aquáticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Doenças de animais aquáticos\n\nNecrose hematopoiética epizoótica\n\nSíndrome ulcerativa epizoótica\n\nSepticemia hemorrágica viral\n\nDoença da «mancha branca»\n\nDoença da «cabeça amarela»\n\nSíndrome de Taura\n\nNecrose hematopoiética infecciosa\n\nAnemia infecciosa do salmão\n\nInfecção por *Perkinsus marinus*\n\nInfecção por *Microcytos mackini*\n\nInfecção por *Marteilia refringens*\n\nInfecção por *Bonamia ostreae*\n\nInfecção por *Bonamia exitiosa*\n\nDoença do vírus de herpes Koi"
+  },
+  "b520082e18cd90c5": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nA. Informações a fornecer na notificação exigida pelos artigos 3.º e 4.º em relação aos focos primários e secundários das doenças indicadas nos pontos A e B do anexo I: 1. Data de expedição. 2. Hora de expedição. 3. País de origem. 4. Nome da doença e tipo de vírus, se for caso disso. 5. Número de série do foco. 6. Tipo de foco. 7. Número de referência do foco ligado ao foco em questão. 8. Região e posição geográfica da exploração. 9. Outra região afectada por restrições. 10. Data de confirmação. 11. Data de suspeita. 12. Data de estimativa da primeira infecção. 13. Origem da doença. 14. Medidas de controlo tomadas. 15. Número de animais sensíveis nesses locais: a) bovinos, b) suínos, c) ovinos, d) caprinos, e) aves de capoeira, f) equídeos, g) no caso de doenças dos animais da aquicultura, têm de ser indicados o peso ou o número × 1 000 dos animais sensíveis, h) espécies selvagens, i) no caso das doenças das abelhas, é obrigatório fornecer o número de colmeias sensíveis. 16. Número de animais clinicamente afectados nesses locais: a) bovinos, b) suínos, c) ovinos, d) caprinos, e) aves de capoeira, f) equídeos, g) no caso de doenças dos animais da aquicultura, têm de ser indicados o peso ou o número × 1 000 dos animais clinicamente afectados, h) espécies selvagens, i) no caso das doenças das abelhas, é obrigatório fornecer o número de colmeias clinicamente afectadas. 17. Número de animais que morreram nesses locais: a) bovinos, b) suínos, c) ovinos, d) caprinos, e) aves de capoeira, f) equídeos, g) no caso de doenças dos animais da aquicultura, têm de ser indicados o peso ou o número × 1 000 dos animais que morreram nesses locais, h) espécies selvagens. 18. Número de animais abatidos: a) bovinos, b) suínos, c) ovinos, d) caprinos, e) aves de capoeira, f) equídeos, g) no caso de doenças dos animais da aquicultura, se aplicável (apenas para os crustáceos e os peixes), têm de ser indicados o peso ou o número × 1 000 dos animais que foram abatidos, h) espécies selvagens. 19. Número de carcaças destruídas: a) bovinos, b) suínos, c) ovinos, d) caprinos, e) aves de capoeira, f) equídeos, g) no caso de doenças dos animais da aquicultura, se aplicável, têm de ser indicados o peso ou o número × 1 000 dos animais que foram removidos e destruídos, h) espécies selvagens, i) no caso das doenças das abelhas, é obrigatório fornecer o número de colmeias destruídas. 20. Data (estimada) de finalização do abate (se aplicável). 21. Data (estimada) de finalização da destruição (se aplicável).\n\nB. Informações suplementares em caso de febre suína: 1. Distância da exploração suinícola mais próxima. 2. Número e tipo de suínos [reprodutores, de engorda e leitões ([^15^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#E0015))] nos locais infectados; 3. Número e tipo de suínos [reprodutores, de engorda e leitões [(15)](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#E0015) ] clinicamente afectados nos locais infectados. 4. Método de diagnóstico. 5. Se a doença não foi confirmada na exploração, indicar se foi confirmada no matadouro ou no meio de transporte. 6. Confirmação de casos primários ([^16^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#E0016)) em suínos selvagens.\n\nC. No caso de doenças dos animais de aquicultura, tal como referidas no ponto B do anexo I: — A confirmação de qualquer foco de doenças exóticas e de focos de doenças não exóticas em Estados-Membros, zonas ou compartimentos anteriormente indemnes, tal como definidos na Directiva 2006/88/CE tem de ser notificada como foco primário. O nome e a descrição da zona ou do compartimento têm de ser especificados no texto livre. — Os restantes focos que não os mencionados no travessão anterior têm de ser considerados como focos secundários, em conformidade com o n.º 1 do artigo 4.º da presente directiva. — Os focos secundários de doenças de animais da aquicultura são notificados numa base mensal.\n\n---"
+  },
+  "7155b45886741ac8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#src.E0001)) Parecer dado em 12 e 13 de Abril de 1982 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#src.E0002)) JO n.º C 112 de 3.5.1982, p. 4.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#src.E0003)) JO n.º 121 de 29.7.1964, p. 1977/64.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#src.E0004)) JO n.º L 375 de 31.12.1980, p. 75.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#src.E0005)) JO n.º L 55 de 8.3.1971, p. 23.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#src.E0006)) JO n.º L 47 de 21.2.1980, p. 8.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#src.E0007)) JO n.º L 302 de 31.12.1972, p. 24.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#src.E0008)) JO n.º L 325 de 1.12.1980, p. 14.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#src.E0009)) JO n.º L 47 de 21.2.1980, p. 4.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#src.E0010)) JO n.º L 325 de 1.12.1980, p. 16.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#src.E0011)) JO n.º L 47 de 21.2.1980, p. 11.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#src.E0012)) JO n.º L 375 de 31.12.1980, p. 75.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#src.E0013)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#src.E0014)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^15^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#src.E0015)) Animais com idade inferior a, aproximadamente, três meses.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/ab73e810-6b06-495a-8d64-dffc95208247.0018.03/DOC_1#src.E0016)) Entende-se por caso primário em suínos selvagens os casos que ocorrem em zonas indemnes, isto é, fora das zonas sob restrições no que se refere à peste suína clássica em suínos selvagens."
+  },
+  "35400020f788b584": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Dezembro de 1982\n\nrelativa à notificação de doenças dos animais na Comunidade\n\n(82/894/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, e, nomeadamente, os seus artigos 43.º e 100.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#E0002)),\n\nConsiderando que a Comunidade regulamentou as trocas intracomunitárias de animais das espécies bovina e suína, de carnes frescas, de carne fresca de aves de capoeira e de produtos à base de carne,\n\nConsiderando que o aparecimento ou a presença de certas doenças contagiosas dos animais representam um risco para o gado comunitário, nomeadamente em virtude da sua propagação aquando das trocas intracomunitárias; que é indispensável uma informação rápida e precisa para aplicar as diferentes medidas de protecção previstas na regulamentação comunitária,\n\nConsiderando que compete a cada Estado-membro notificar os outros Estados-membros e a Comissão do aparecimento e do desaparecimento de certas doenças no seu território, em conformidade com o artigo 9.º da Directiva do Conselho 64/432/CEE, de 26 de Junho de 1964, relativa a problemas de polícia sanitária em matéria de trocas intracomunitárias de animais das espécies bovina e suína ([^3^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#E0003)), com a última redação que lhe foi dada pela Directiva 80/1274/CEE ([^4^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#E0004)), com o artigo 11.º da Directiva 71/118/CEE do Conselho, de 15 de Fevereiro de 1971, relativa a problemas sanitários em matéria de trocas de carne fresca de aves de capoeira ([^5^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#E0005)), com a última redacção que lhe foi dada pela Directiva 80/216/CEE ([^6^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#E0006)), com o artigo 7.º da Directiva 72/461/CEE do Conselho, de 12 de Dezembro de 1972, relativa a problemas de polícia sanitária em matéria de trocas intracomunitárias de carnes frescas ([^7^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#E0007)), com a última redacção que lhe foi dada pela directiva 80/1099/CEE ([^8^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#E0008)), e com o artigo 7.º da Directiva 80/215/CEE do Conselho, de 22 de Janeiro de 1980, relativa a problemas de polícia sanitária em matérias de trocas intracomunitárias de produtos à base de carne ([^9^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#E0009)), com a última redacção que lhe foi dada pela Directiva 80/1100/CEE ([^10^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#E0010)),\n\nConsiderando que o método de notificação e as doenças a notificar devem ser especificados e que convém, nomeadamente, fazer periodicamente o ponto da situação em cada Estado-membro,\n\nConsiderando que, tendo em conta a experiência que for alcançada no que respeita à referida notificação, será efectuada uma adaptação às necessidades técnicas segundo um procedimento que preveja uma cooperação estreita entre os Estados-membros e a Comissão,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "28b013029637eeb7": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Todo e qualquer Estado-membro notificará, no prazo de vinte e quatro horas, directamente a Comissão e directamente os Estados-membros:\n\n— de qualquer foco primário de uma das doenças constantes do Anexo I, verificado no seu território,\n\n— da supressão — após a extinção do último foco — das restrições impostas no seu território, na sequência do aparecimento de uma das doenças constantes do Anexo I.\n\n2. As notificações referidas no n.º 1 compreenderão as informações constantes do Anexo II e serão transmitidas por telex.\n\n3. No caso da peste suína clássica, é suficiente a informação prestada em conformidade com a Directiva 80/217/CEE do Conselho, de 22 de Janeiro de 1980, que estabelece medidas comunitárias de luta contra a peste suína clássica ([^11^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#E0011)), com a última redacção que lhe foi dada pela Directiva 80/1274/CEE ([^12^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#E0012))."
+  },
+  "c37dddf744cebb89": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^13^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#E0013)).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^14^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#E0014)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "d6c80251158cdcc2": {
+   "fragment_id": "Doenças que são objeto de notificação",
+   "type": "divisao",
+   "heading": "Doenças que são objeto de notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Doenças que são objeto de notificação"
+  },
+  "2050f94a906c26c3": {
+   "fragment_id": "A. Doenças de animais terrestres",
+   "type": "divisao",
+   "heading": "A. Doenças de animais terrestres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Doenças de animais terrestres\n\nLista A.1:\n\n— Peste equina\n\n— Peste suína africana\n\n— Carbúnculo\n\n— Gripe aviária (GAAP em aves de capoeira, aves em cativeiro e aves selvagens e GABP em aves de capoeira e aves em cativeiro)\n\n— Febre catarral ovina\n\n— Encefalopatia espongiforme bovina\n\n— Peste suína clássica\n\n— Pleuropneumonia contagiosa dos bovinos\n\n— Tripanosomose dos equídeos\n\n— Encefalomielite equina dos seguintes tipos:\n\n— Encefalomielite equina do Leste\n\n— Encefalite japonesa\n\n— Encefalomielite venezuelana dos equídeos\n\n— Febre do Nilo Ocidental\n\n— Encefalomielite equina do Oeste\n\n— Anemia infecciosa dos equídeos\n\n— Febre aftosa\n\n— Mormo\n\n— Dermatite nodular contagiosa\n\n— Doença de Newcastle\n\n— Peste dos pequenos ruminantes\n\n— Infeção pelo vírus da raiva\n\n— Doença do vale do Rift\n\n— Peste bovina\n\n— Varíola ovina e caprina\n\n— Infestação pelo pequeno besouro das colmeias (*Aethina tumida*)\n\n— Doença vesiculosa dos suínos\n\n— Infestação por *Tropilaelaps* das abelhas produtoras de mel\n\n— Estomatite vesiculosa\n\nLista A.2:\n\n— Brucelose bovina\n\n— Tuberculose bovina\n\n— Leucose bovina enzoótica\n\n— Brucelose ovina e caprina (exceto *Brucella ovis*)."
+  },
+  "4891e9b757bb72d1": {
+   "fragment_id": "B. Doenças de animais de aquicultura",
+   "type": "divisao",
+   "heading": "B. Doenças de animais de aquicultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Doenças de animais de aquicultura\n\n— Necrose hematopoiética epizoótica\n\n— Necrose hematopoiética infecciosa\n\n— Anemia infecciosa do salmão\n\n— Infeção por *Perkinsus marinus*\n\n— Infeção por *Microcytos mackini*\n\n— Infeção por *Marteilia refringens*\n\n— Infeção por *Bonamia ostreae*\n\n— Infeção por *Bonamia exitiosa*\n\n— Doença do vírus de herpes Koi\n\n— Síndrome de Taura\n\n— Septicemia hemorrágica viral\n\n— Doença da mancha branca\n\n— Doença da cabeça amarela."
+  },
+  "7a261b88eff76ff1": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nA. Informações a fornecer na notificação exigida pelos artigos 3.º e 4.º em relação aos focos primários e secundários das doenças indicadas nos pontos A e B do anexo I: 1. Data de expedição. 2. Hora de expedição. 3. País de origem. 4. Nome da doença e tipo de vírus, se for caso disso. 5. Número de série do foco. 6. Tipo de foco. 7. Número de referência do foco ligado ao foco em questão. 8. Região e posição geográfica da exploração. 9. Outra região afectada por restrições. 10. Data de confirmação. 11. Data de suspeita. 12. Data de estimativa da primeira infecção. 13. Origem da doença. 14. Medidas de controlo tomadas. 15. Número de animais sensíveis nesses locais: a) bovinos, b) suínos, c) ovinos, d) caprinos, e) aves de capoeira, f) equídeos, g) no caso de doenças dos animais da aquicultura, têm de ser indicados o peso ou o número × 1 000 dos animais sensíveis, h) espécies selvagens, i) no caso das doenças das abelhas, é obrigatório fornecer o número de colmeias sensíveis. 16. Número de animais clinicamente afectados nesses locais: a) bovinos, b) suínos, c) ovinos, d) caprinos, e) aves de capoeira, f) equídeos, g) no caso de doenças dos animais da aquicultura, têm de ser indicados o peso ou o número × 1 000 dos animais clinicamente afectados, h) espécies selvagens, i) no caso das doenças das abelhas, é obrigatório fornecer o número de colmeias clinicamente afectadas. 17. Número de animais que morreram nesses locais: a) bovinos, b) suínos, c) ovinos, d) caprinos, e) aves de capoeira, f) equídeos, g) no caso de doenças dos animais da aquicultura, têm de ser indicados o peso ou o número × 1 000 dos animais que morreram nesses locais, h) espécies selvagens. 18. Número de animais abatidos: a) bovinos, b) suínos, c) ovinos, d) caprinos, e) aves de capoeira, f) equídeos, g) no caso de doenças dos animais da aquicultura, se aplicável (apenas para os crustáceos e os peixes), têm de ser indicados o peso ou o número × 1 000 dos animais que foram abatidos, h) espécies selvagens. 19. Número de carcaças destruídas: a) bovinos, b) suínos, c) ovinos, d) caprinos, e) aves de capoeira, f) equídeos, g) no caso de doenças dos animais da aquicultura, se aplicável, têm de ser indicados o peso ou o número × 1 000 dos animais que foram removidos e destruídos, h) espécies selvagens, i) no caso das doenças das abelhas, é obrigatório fornecer o número de colmeias destruídas. 20. Data (estimada) de finalização do abate (se aplicável). 21. Data (estimada) de finalização da destruição (se aplicável).\n\nB. Informações suplementares em caso de febre suína: 1. Distância da exploração suinícola mais próxima. 2. Número e tipo de suínos [reprodutores, de engorda e leitões ([^15^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#E0015))] nos locais infectados; 3. Número e tipo de suínos [reprodutores, de engorda e leitões [(15)](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#E0015) ] clinicamente afectados nos locais infectados. 4. Método de diagnóstico. 5. Se a doença não foi confirmada na exploração, indicar se foi confirmada no matadouro ou no meio de transporte. 6. Confirmação de casos primários ([^16^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#E0016)) em suínos selvagens.\n\nC. No caso de doenças dos animais terrestres, tal como referidas na lista A.2 do anexo I: — A confirmação de qualquer foco, infeção ou presença do agente da doença num efetivo, tal como previsto nos anexos A e D da Diretiva 64/432/CEE, ou numa exploração, tal como previsto no anexo A da Diretiva 91/68/CEE do Conselho ([^17^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#E0017)), ou a retirada do estatuto de oficialmente indemne a qualquer um desses efetivos ou dessas explorações no seguimento de uma investigação laboratorial ou epidemiológica, tal como previsto nos anexos A e D da Diretiva 64/432/CEE ou no anexo A da Diretiva 91/68/CEE, num Estado-Membro ou numa região de um Estado-Membro oficialmente indemne das doenças em conformidade com aquelas diretivas e que não esteja epidemiologicamente associado a um foco anterior deve ser notificado à Comissão e aos Estados-Membros no prazo de uma semana, como foco primário, tal como definido no artigo 2.º, alínea d). — Qualquer outra confirmação de um foco, infeção ou presença do agente da doença ou a retirada do estatuto de oficialmente indemne a qualquer efetivo ou exploração no seguimento de uma investigação laboratorial ou epidemiológica, tal como previsto nos anexos A e D da Diretiva 64/432/CEE ou no anexo A da Diretiva 91/68/CEE, num Estado-Membro ou numa região de um Estado-Membro oficialmente indemne das doenças em conformidade com aquelas diretivas devem ser notificadas como focos secundários, em conformidade com o artigo 4.º, n.º 1, da presente diretiva. — Os focos secundários devem ser notificados à Comissão e aos Estados-Membros numa base mensal. — No caso da tuberculose bovina, da brucelose bovina e da brucelose ovina e caprina, o nome da espécie patogénica, quando conhecido, deve também ser incluído na notificação.\n\nD. No caso de doenças dos animais de aquicultura, tal como referidas no ponto B do anexo I: — A confirmação de qualquer foco de uma doença exótica e de focos de doenças não exóticas em Estados-Membros, zonas ou compartimentos anteriormente indemnes, tal como definidos na Diretiva 2006/88/CE do Conselho ([^18^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#E0018)) tem de ser notificada como foco primário. — Os focos diferentes dos mencionados no primeiro travessão devem ser notificados como focos secundários, em conformidade com o artigo 4.º, n.º 1, da presente diretiva. — Os focos secundários devem ser notificados à Comissão e aos Estados-Membros numa base mensal. O nome e a descrição da zona ou do compartimento devem ser especificados na notificação.\n\n---"
+  },
+  "bbb773537d703ac2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#src.E0001)) Parecer dado em 12 e 13 de Abril de 1982 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#src.E0002)) JO n.º C 112 de 3.5.1982, p. 4.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#src.E0003)) JO n.º 121 de 29.7.1964, p. 1977/64.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#src.E0004)) JO n.º L 375 de 31.12.1980, p. 75.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#src.E0005)) JO n.º L 55 de 8.3.1971, p. 23.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#src.E0006)) JO n.º L 47 de 21.2.1980, p. 8.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#src.E0007)) JO n.º L 302 de 31.12.1972, p. 24.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#src.E0008)) JO n.º L 325 de 1.12.1980, p. 14.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#src.E0009)) JO n.º L 47 de 21.2.1980, p. 4.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#src.E0010)) JO n.º L 325 de 1.12.1980, p. 16.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#src.E0011)) JO n.º L 47 de 21.2.1980, p. 11.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#src.E0012)) JO n.º L 375 de 31.12.1980, p. 75.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#src.E0013)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#src.E0014)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^15^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#src.E0015)) Animais com idade inferior a, aproximadamente, três meses.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#src.E0016)) Entende-se por caso primário em suínos selvagens os casos que ocorrem em zonas indemnes, isto é, fora das zonas sob restrições no que se refere à peste suína clássica em suínos selvagens.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#src.E0017)) JO L 46 de 19.2.1991, p. 19.\n\n> ([^18^](http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1#src.E0018)) JO L 328 de 24.11.2006, p. 14."
+  }
+ }
+}

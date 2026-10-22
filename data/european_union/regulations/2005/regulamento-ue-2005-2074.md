@@ -39,6 +39,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-14'
+version_history:
+  file: regulamento-ue-2005-2074.versoes.json
+  count: 1
+  source_lastmod: '2019-12-14'
+  versions:
+  - date: '2019-12-14'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32005R2074
   eli: http://data.europa.eu/eli/reg/2005/2074/oj
@@ -53,7 +62,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3357a35c-5561-4c24-871b-8dc668421293.0016
   content_url: http://publications.europa.eu/resource/cellar/3a9b2d23-27ea-11ea-af81-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R2074-20191214
-  retrieved_at: '2026-10-22T02:47:42Z'
+  retrieved_at: '2026-10-22T15:00:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T00:41:16.404+01:00'
 integrity:
@@ -62,9 +71,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:42Z'
-  notes: Texto consolidado 02005R2074-20191214.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:00:47Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2005-2074.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -239,48 +248,31 @@ relationships:
   date: '2017-04-07'
 article_structure:
   article_count: 9
-  section_count: 20
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 21
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:42Z'
-  warnings: []
+  checked_at: '2026-10-22T15:00:47Z'
+  warnings:
+  - '02005R2074-20061125: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R2074-20071114: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R2074-20081028: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R2074-20090101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R2074-20110701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R2074-20120401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R2074-20121126: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R2074-20140601: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R2074-20160101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R2074-20160603: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R2074-20180701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R2074-20190101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n o 2074/2005 da Comissão de 5 de Dezembro de 2005
-
-> 02005R2074 — PT — 14.12.2019 — 013.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32006R1664) — [REGULAMENTO (CE) N.º 1664/2006 DA COMISSÃO de 6 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006R1664) — L 320 — 13 — 18.11.2006
-- [M2](http://publications.europa.eu/resource/celex/32007R1244) — [REGULAMENTO (CE) N.º 1244/2007 DA COMISSÃO de 24 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1244) — L 281 — 12 — 25.10.2007
-- [M3](http://publications.europa.eu/resource/celex/32008R1022) — [REGULAMENTO (CE) N.º 1022/2008 DA COMISSÃO de 17 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1022) — L 277 — 18 — 18.10.2008
-- [M4](http://publications.europa.eu/resource/celex/32008R1250) — [REGULAMENTO (CE) N.º 1250/2008 DA COMISSÃO de 12 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008R1250) — L 337 — 31 — 16.12.2008
-- [M5](http://publications.europa.eu/resource/celex/32011R0015) — [REGULAMENTO (UE) N.º 15/2011 DA COMISSÃO de 10 de Janeiro de 2011](http://publications.europa.eu/resource/celex/32011R0015) — L 6 — 3 — 11.1.2011
-- [M6](http://publications.europa.eu/resource/celex/32011R0809) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 809/2011 DA COMISSÃO de 11 de Agosto de 2011](http://publications.europa.eu/resource/celex/32011R0809) — L 207 — 1 — 12.8.2011
-- [M7](http://publications.europa.eu/resource/celex/32012R1012) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1012/2012 DA COMISSÃO de 5 de novembro de 2012](http://publications.europa.eu/resource/celex/32012R1012) — L 306 — 1 — 6.11.2012
-- [M8](http://publications.europa.eu/resource/celex/32014R0218) — [REGULAMENTO (UE) N.º 218/2014 DA COMISSÃO de 7 de março de 2014](http://publications.europa.eu/resource/celex/32014R0218) — L 69 — 95 — 8.3.2014
-- [M9](http://publications.europa.eu/resource/celex/32015R2295) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/2295 DA COMISSÃO de 9 de dezembro de 2015](http://publications.europa.eu/resource/celex/32015R2295) — L 324 — 5 — 10.12.2015
-- [M10](http://publications.europa.eu/resource/celex/32016R0759) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/759 DA COMISSÃO de 28 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0759) — L 126 — 13 — 14.5.2016
-- [M11](http://publications.europa.eu/resource/celex/32017R1973) — [REGULAMENTO (UE) 2017/1973 DA COMISSÃO de 30 de outubro de 2017](http://publications.europa.eu/resource/celex/32017R1973) — L 281 — 21 — 31.10.2017
-- [M12](http://publications.europa.eu/resource/celex/32017R1980) — [REGULAMENTO (UE) 2017/1980 DA COMISSÃO de 31 de outubro de 2017](http://publications.europa.eu/resource/celex/32017R1980) — L 285 — 8 — 1.11.2017
-- [►M13](http://publications.europa.eu/resource/celex/32019R0627) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/627 DA COMISSÃO de 15 de março de 2019](http://publications.europa.eu/resource/celex/32019R0627) — L 131 — 51 — 17.5.2019
-- [►M14](http://publications.europa.eu/resource/celex/32019R0628) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/628 DA COMISSÃO de 8 de abril de 2019](http://publications.europa.eu/resource/celex/32019R0628) — L 131 — 101 — 17.5.2019
-- [►M15](http://publications.europa.eu/resource/celex/32019R1139) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1139 DA COMISSÃO de 3 de julho de 2019](http://publications.europa.eu/resource/celex/32019R1139) — L 180 — 12 — 4.7.2019
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32012R1012R%2804%29) — [Rectificação, JO L 214, 9.8.2013, p. 11 (1012/2012)](http://publications.europa.eu/resource/celex/32012R1012R%2804%29)
-- [C2](http://publications.europa.eu/resource/celex/32007R1244R%2802%29) — [Rectificação, JO L 284, 20.10.2016, p. 41 (1244/2007)](http://publications.europa.eu/resource/celex/32007R1244R%2802%29)
-
-## REGULAMENTO (CE) N.º 2074/2005 DA COMISSÃO
 
 de 5 de Dezembro de 2005
 

@@ -36,6 +36,101 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: diretiva-ue-2005-68.versoes.json
+  count: 4
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '2005-12-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-09-21'
+    amending: eu:celex:32007L0044:por
+    amending_title: DIRECTIVA 2007/44/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5 de Setembro
+      de 2007
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 19.º-A
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Adita Artigo 28.º
+    - Adita Artigo 29.º
+    - Adita Artigo 30.º
+    - Adita Artigo 31.º
+    - Adita Artigo 32.º
+    - Adita Artigo 33.º
+    - Adita Artigo 34.º
+    - Adita Artigo 35.º
+    - Adita Artigo 36.º
+    - Adita Artigo 37.º
+  - date: '2008-03-21'
+    amending: eu:celex:32008L0037:por
+    amending_title: DIRECTIVA 2008/37/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 11 de
+      Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 19.º
+    - Altera Artigo 19.º-A
+    - Altera Artigo 31.º
+    - Altera Artigo 36.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 58.º
+    - Altera Artigo 59.º
+    - Altera Artigo 60.º
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0023:por
+    amending_title: DIRETIVA 2013/23/UE DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 19.º
+    - Altera Artigo 19.º-A
+    - Altera Artigo 31.º
+    - Altera Artigo 36.º
+    - Altera Artigo 57.º
+    - Altera Artigo 58.º
+    - Altera Artigo 59.º
+    - Altera Artigo 60.º
+    - Altera Artigo 66.º
+    - Altera ANEXO I
+    - Altera 2. APLICAÇÃO DOS MÉTODOS DE CÁLCULO
+    - Altera 3. MÉTODOS DE CÁLCULO
+    - Altera SUPERVISÃO COMPLEMENTAR PARA AS EMPRESAS DE SEGUROS E EMPRESAS DE RESSEGUROS QUE SEJAM FILIAIS DE UMA SOCIEDADE
+      GESTORA DE PARTICIPAÇÕES NO SECTOR DOS SEGUROS OU DE UMA EMPRESA DE SEGUROS OU DE RESSEGUROS DE UM PAÍS TERCEIRO
+    - Altera Notas
 identifiers:
   celex: 32005L0068
   eli: http://data.europa.eu/eli/dir/2005/68/oj
@@ -50,7 +145,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/48ca8dc6-482d-4b8c-a36c-27d43a78cb12.0017
   content_url: http://publications.europa.eu/resource/cellar/fb56e271-4950-46d4-85a4-8fdfcfc7ec2e.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0068-20130701
-  retrieved_at: '2026-10-22T02:45:14Z'
+  retrieved_at: '2026-10-22T14:59:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-02T17:13:33.652+01:00'
 integrity:
@@ -59,9 +154,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:14Z'
-  notes: Texto consolidado 02005L0068-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:40Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2005-68.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -219,35 +314,19 @@ relationships:
   date: '2009-12-15'
 article_structure:
   article_count: 67
-  section_count: 51
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 52
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:14Z'
+  checked_at: '2026-10-22T14:59:40Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2005/68/CE do Parlamento Europeu e do Conselho, de 16 de Novembro de 2005
-
-> 2005L0068 — PT — 01.07.2013 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007L0044) — [DIRECTIVA 2007/44/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5 de Setembro de 2007](http://publications.europa.eu/resource/celex/32007L0044) — L 247 — 1 — 21.9.2007
-- [►M2](http://publications.europa.eu/resource/celex/32008L0037) — [DIRECTIVA 2008/37/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 11 de Março de 2008](http://publications.europa.eu/resource/celex/32008L0037) — L 81 — 71 — 20.3.2008
-- [►M3](http://publications.europa.eu/resource/celex/32013L0023) — [DIRETIVA 2013/23/UE DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0023) — L 158 — 362 — 10.6.2013
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32005L0068R%2801%29) — [Rectificação, JO L 270, 13.10.2007, p. 32 (2005/68)](http://publications.europa.eu/resource/celex/32005L0068R%2801%29)
-
-## DIRECTIVA 2005/68/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Novembro de 2005
 

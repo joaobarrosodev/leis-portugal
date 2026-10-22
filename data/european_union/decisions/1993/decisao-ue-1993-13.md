@@ -35,6 +35,34 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2004-03-01'
+version_history:
+  file: decisao-ue-1993-13.versoes.json
+  count: 2
+  source_lastmod: '2004-03-01'
+  versions:
+  - date: '1993-01-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-03-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime ANEXO A
+    - Suprime ANEXO B — ANEXO C
+    - Suprime ANEXO D
+    - Suprime ANEXO E — Produtos vegetais sujeitos a controlos veterinários 1. Palha
+    - Suprime ANEXO F — Lista dos países ou partes de países em proveniência dos quais os Estados-membros autorizarão as importações
+      de feno e palha Austrália
 identifiers:
   celex: 31993D0013
   eli: http://data.europa.eu/eli/dec/1993/13/oj
@@ -49,7 +77,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f57721d3-43e2-4324-ad2c-53b5ab081e18.0009
   content_url: http://publications.europa.eu/resource/cellar/237b287f-2f12-4542-aa4f-bcd585a2269d.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993D0013-20040301
-  retrieved_at: '2026-10-22T02:55:48Z'
+  retrieved_at: '2026-10-22T14:41:50Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T17:32:56.917+01:00'
 integrity:
@@ -58,9 +86,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:55:48Z'
-  notes: Texto consolidado 01993D0013-20040301.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:50Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-1993-13.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -130,16 +158,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:55:48Z'
+  checked_at: '2026-10-22T14:41:50Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01993D0013-19940127: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993D0013-19940517: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993D0013-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993D0013-19951221: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

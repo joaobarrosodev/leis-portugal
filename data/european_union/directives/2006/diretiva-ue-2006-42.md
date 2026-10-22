@@ -35,6 +35,69 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-30'
+version_history:
+  file: diretiva-ue-2006-42.versoes.json
+  count: 2
+  source_lastmod: '2026-05-30'
+  versions:
+  - date: '2006-06-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-05-30'
+    amending: eu:celex:32009R0596:por
+    amending_title: REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009; DIRECTIVA 2009/127/CE
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Outubro de 2009; REGULAMENTO (UE) N. o 167/2013 DO PARLAMENTO EUROPEU E
+      DO CONSELHO de 5 de fevereiro de 2013; DIRETIVA 2014/33/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de
+      2014; REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019; DIRETIVA (UE) 2024/2749
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Vigilância do mercado
+    - Altera Artigo 8.º — Medidas específicas
+    - Altera Artigo 9.º — Medidas específicas relativas a máquinas potencialmente perigosas
+    - Altera Artigo 11.º — Cláusula de salvaguarda
+    - Altera Artigo 22.º — Comité
+    - Altera Artigo 25.º — Revogação
+    - Altera Artigo 29.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 21.º-A — Exercício da delegação
+    - Adita Artigo 21.º-B — Aplicação de procedimentos de emergência
+    - Adita Artigo 21.º-C — Prioridade da avaliação da conformidade de máquinas designadas como bens relevantes em situação
+      de crise
+    - Adita Artigo 21.º-D — Derrogação dos procedimentos de avaliação da conformidade que exigem o envolvimento obrigatório
+      de um organismo notificado
+    - Adita Artigo 21.º-E — Presunção de conformidade baseada em normas e especificações comuns
+    - Adita Artigo 21.º-F — Prioridade das atividades de fiscalização do mercado e assistência mútua entre autoridades
+    - Adita ANEXO I
+    - Adita Requisitos essenciais de saúde e de segurança relativos à concepção e ao fabrico de máquinas
+    - Adita PRINCÍPIOS GERAIS
+    - Adita 1. REQUISITOS ESSENCIAIS DE SAÚDE E DE SEGURANÇA
+    - Adita 2. REQUISITOS ESSENCIAIS COMPLEMENTARES DE SAÚDE E DE SEGURANÇA PARA DETERMINADAS CATEGORIAS DE MÁQUINAS
+    - Adita 3. REQUISITOS ESSENCIAIS COMPLEMENTARES DE SAÚDE E DE SEGURANÇA PARA LIMITAR OS PERIGOS ASSOCIADOS À MOBILIDADE
+      DAS MÁQUINAS
+    - Adita 4. REQUISITOS ESSENCIAIS COMPLEMENTARES DE SAÚDE E DE SEGURANÇA PARA LIMITAR OS PERIGOS ASSOCIADOS A OPERAÇÕES
+      DE ELEVAÇÃO
+    - Adita 5. REQUISITOS ESSENCIAIS COMPLEMENTARES DE SAÚDE E DE SEGURANÇA PARA AS MÁQUINAS DESTINADAS A SER UTILIZADAS EM
+      TRABALHOS SUBTERRÂNEOS
+    - Adita 6. REQUISITOS ESSENCIAIS COMPLEMENTARES DE SAÚDE E DE SEGURANÇA PARA AS MÁQUINAS QUE IMPLIQUEM PERIGO ESPECÍFICO
+      DEVIDO A OPERAÇÕES DE ELEVAÇÃO DE PESSOAS
+    - Adita ANEXO II
+    - Adita Declarações
+    - Adita 1. CONTEÚDO
+    - Adita A. DECLARAÇÃO CE DE CONFORMIDADE PARA UMA MÁQUINA
+    - Adita B. DECLARAÇÃO DE INCORPORAÇÃO DE UMA QUASE-MÁQUINA
+    - Adita 2. CONSERVAÇÃO DA DECLARAÇÃO
+    - Adita ANEXO III
+    - Adita MARCAÇÃO «CE»
+    - Adita ANEXO IV
+    - Adita Categorias de máquinas às quais a aplicação de um dos procedimentos referidos nos n.º 3 e 4 do artigo 12.º é obrigatória
+    - Adita ANEXO V
+    - Adita Lista indicativa dos componentes de segurança referida na alínea c) do artigo 2.º
+    - Adita ANEXO VI
+    - Adita Manual de instruções de montagem das quase-máquinas
 identifiers:
   celex: 32006L0042
   eli: http://data.europa.eu/eli/dir/2006/42/oj
@@ -49,7 +112,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/efc893e7-5d24-4d7f-9fbc-53669620eeff.0017
   content_url: http://publications.europa.eu/resource/cellar/7f7273f4-2d65-11f1-906d-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0042-20260530
-  retrieved_at: '2026-10-22T02:41:28Z'
+  retrieved_at: '2026-10-22T15:01:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-21T10:03:14.512+01:00'
 integrity:
@@ -58,9 +121,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:28Z'
-  notes: Texto consolidado 02006L0042-20260530.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:01:55Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2006-42.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -218,39 +281,24 @@ relationships:
   source: null
 article_structure:
   article_count: 34
-  section_count: 36
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 37
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:28Z'
-  warnings: []
+  checked_at: '2026-10-22T15:01:55Z'
+  warnings:
+  - '02006L0042-20090807: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0042-20091215: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0042-20160101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0042-20160420: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0042-20190726: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 2006/42/CE do Parlamento Europeu e do Conselho, de 17 de Maio de 2006
-
-> 02006L0042 — PT — 30.05.2026 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0596) — [REGULAMENTO (CE) N.º 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0596) — L 188 — 14 — 18.7.2009
-- [►M2](http://publications.europa.eu/resource/celex/32009L0127) — [DIRECTIVA 2009/127/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009L0127) — L 310 — 29 — 25.11.2009
-- [►M3](http://publications.europa.eu/resource/celex/32013R0167) — [REGULAMENTO (UE) N.º 167/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0167) — L 60 — 1 — 2.3.2013
-- [►M4](http://publications.europa.eu/resource/celex/32014L0033) — [DIRETIVA 2014/33/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014L0033) — L 96 — 251 — 29.3.2014
-- [►M5](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [►M6](http://publications.europa.eu/resource/celex/32024L2749) — [DIRETIVA (UE) 2024/2749 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2024](http://publications.europa.eu/resource/celex/32024L2749) — L 2749 — 1 — 8.11.2024
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32006L0042R%2802%29) — [Rectificação, JO L 076, 16.3.2007, p. 35 (2006/42/CE)](http://publications.europa.eu/resource/celex/32006L0042R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/32019R1243R%2801%29) — [Rectificação, JO L 191, 16.6.2020, p. 5 (2019/1243)](http://publications.europa.eu/resource/celex/32019R1243R%2801%29)
-
-## DIRECTIVA 2006/42/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de Maio de 2006
 

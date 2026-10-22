@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32007R1379:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R1379-20071130",
+ "dre_path": null,
+ "source_lastmod": "2007-11-30",
+ "versions": [
+  {
+   "date": "2007-11-27",
+   "future": false,
+   "celex": "32007R1379",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "dcc22c1c13aa922f",
+    "7376da5597b0d916",
+    "c5460c541f66caed",
+    "4f3e85450eabda8b"
+   ]
+  }
+ ],
+ "fragments": {
+  "dcc22c1c13aa922f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Novembro de 2007\n\nque altera os anexos I-A, I-B, VII e VIII do Regulamento (CE) n.º 1013/2006 do Parlamento Europeu e do Conselho relativo a transferências de resíduos, para ter em conta o progresso técnico e as modificações acordadas no âmbito da Convenção de Basileia\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1013/2006 do Parlamento Europeu e do Conselho, de 14 de Junho de 2006, relativo a transferências de resíduos [([^1])](http://publications.europa.eu/resource/cellar/3da99ac4-f61a-4ac0-89ca-97715552b2b3.0018.03/DOC_1#ntr1-L_2007309PT.01000701-E0001), nomeadamente o n.º 1 do artigo 58.º,\n\nConsiderando o seguinte:\n\n(1) O acordo alcançado durante a 8.ª Conferência das Partes na Convenção de Basileia sobre o Controlo dos Movimentos Transfronteiriços de Resíduos Perigosos e sua Eliminação, 27 de Novembro-1 de Dezembro de 2006, exige a alteração dos anexos I-A, I-B, VII e VIII do Regulamento (CE) n.º 1013/2006 relativo a transferências de resíduos. As alterações estão relacionadas com a substituição das unidades «kg» e «litro» por «tonelada (Mg)» e «m^3^» na caixa 5 do documento de notificação referido no anexo I-A, nas caixas 5 e 18 do documento de acompanhamento referido no anexo I-B e nas caixas 3 e 14 das informações relativas à transferência de resíduos referidas no anexo VII, com o aditamento de uma nova caixa 17 ao documento de acompanhamento, com uma alteração da nota de rodapé n.º 1 das informações relativas à transferência de resíduos e com as referências a directrizes sobre gestão ambientalmente racional, nos pontos I.4-I.9 do anexo VIII. Por razões de clareza, esses anexos devem ser substituídos.\n\n(2) O Regulamento (CE) n.º 1013/2006 deve, portanto, ser alterado em conformidade.\n\n(3) As medidas previstas no presente regulamento estão em conformidade com o parecer do comité instituído pelo artigo 18.º da Directiva 2006/12/CE do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/3da99ac4-f61a-4ac0-89ca-97715552b2b3.0018.03/DOC_1#ntr2-L_2007309PT.01000701-E0002),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "7376da5597b0d916": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs anexos I-A, I-B, VII e VIII do Regulamento (CE) n.º 1013/2006 são substituídos pelo texto que consta do anexo do presente regulamento."
+  },
+  "c5460c541f66caed": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 26 de Novembro de 2007.\n\n***Pela Comissão***\n\n**Stavros DIMAS**\n\n***Membro da Comissão***\n\n---"
+  },
+  "4f3e85450eabda8b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/3da99ac4-f61a-4ac0-89ca-97715552b2b3.0018.03/DOC_1#ntc1-L_2007309PT.01000701-E0001) [JO L 190 de 12.7.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_190_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/3da99ac4-f61a-4ac0-89ca-97715552b2b3.0018.03/DOC_1#ntc2-L_2007309PT.01000701-E0002) [JO L 114 de 27.4.2006, p. 9](http://publications.europa.eu/resource/oj/JOL_2006_114_R_TOC)."
+  }
+ }
+}

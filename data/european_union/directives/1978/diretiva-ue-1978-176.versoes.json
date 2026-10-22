@@ -1,0 +1,446 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31978L0176:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01978L0176-20140107",
+ "dre_path": null,
+ "source_lastmod": "2014-01-07",
+ "versions": [
+  {
+   "date": "1978-02-25",
+   "future": false,
+   "celex": "31978L0176",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a32290b73237ab0d",
+    "276082d2203d8199",
+    "b20a5973cfcd7f2a",
+    "465ec01616b15b27",
+    "15cef9c135121a20",
+    "9106a75d91886679",
+    "37b3396cdf839aaf",
+    "7167ce2b6ae770cc",
+    "59c108899f652ca8",
+    "3fb889e8cda1b2d8",
+    "5c0606d0924b6fa0",
+    "8fe9e97453ad9d3f",
+    "7e7a33ba76f9e8c7",
+    "7aebee3153d626c9",
+    "6d84c79d93c174f6",
+    "a9b6e0586b8e639a",
+    "d506617d42b7b623",
+    "678b1123bde36f3d",
+    "2714af932bfbc287"
+   ]
+  },
+  {
+   "date": "1991-12-23",
+   "future": false,
+   "celex": "01978L0176-19911223",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO II — FISCALIZAÇÃO E CONTROLO DAS OPERAÇÕES DE ELIMINAÇÃO",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º — [▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita ANEXO I — INFORMAÇÕES A FORNECER APARA EFEITOS DE CONCESSÃO DA AUTORIZAÇÃO PRÉVIA REFERIDA NOS ARTIGOS 4.o, 5.o E 6.o",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime ANEXO I — INFORMAÇÕES A FORNECER APARA EFEITOS DE CONCESSÃO DA AUTORIZAÇÃO PRÉVIA REFERIDA NOS ARTIGOS 4o, 5o E 6o"
+   ],
+   "fragments": [
+    "4a2f1c5d95bcb301",
+    "8f7f396e09333a79",
+    "4a0fd47c26ad15cf",
+    "4bec69520c79dbb1",
+    "3c4e5da9eb2748e8",
+    "3cceda8285ea4a9e",
+    "f3905cbba6560e42",
+    "9c5c61a149c70afb",
+    "81ed89a790f8bcd8",
+    "5d74e3d245555df5",
+    "15d3b71a25b1a990",
+    "697039dddb07c31d",
+    "c9a12a6f69658e2a",
+    "07a97f65ce5dc95b",
+    "ca2d2d85baaea936",
+    "7673324ea0da339d",
+    "dd037503806f5bd3",
+    "847698665ecee5b5",
+    "4f4336930326413b"
+   ]
+  },
+  {
+   "date": "2014-01-07",
+   "future": false,
+   "celex": "01978L0176-20140107",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º — [▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime ANEXO I — INFORMAÇÕES A FORNECER APARA EFEITOS DE CONCESSÃO DA AUTORIZAÇÃO PRÉVIA REFERIDA NOS ARTIGOS 4.o, 5.o E 6.o",
+    "Suprime ANEXO II — FISCALIZAÇÃO E CONTROLO DAS OPERAÇÕES DE ELIMINAÇÃO"
+   ],
+   "fragments": [
+    "b09167457f5ce0fb"
+   ]
+  }
+ ],
+ "fragments": {
+  "a32290b73237ab0d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 78/176/CEE do Conselho, de 20 de Fevereiro de 1978, relativa aos detritos provenientes da indústria do dióxido de titânio** *Jornal Oficial nº L 054 de 25/02/1978 p. 0019 - 0024 Edição especial finlandesa: Capítulo 15 Fascículo 2 p. 0079 Edição especial grega: Capítulo 15 Fascículo 1 p. 0154 Edição especial sueca: Capítulo 15 Fascículo 2 p. 0079 Edição especial espanhola: Capítulo 15 Fascículo 1 p. 0092 Edição especial portuguesa: Capítulo 15 Fascículo 1 p. 0092*\n\nDIRECTIVA DO CONSELHO de 20 de Fevereiro de 1978 relativa aos detritos provenientes da indústria do dióxido de titânio\n\n(78/176/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100o e 235o.\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que os detritos provenientes da indústria do dióxido de titânio apresentam riscos prejudiciais à saúde do homem assim como ao ambiente; que, por isso, convém prevenir e diminuir progressivamente a poluição provocada por esses detritos, tendo em vista a sua eliminação;\n\nConsiderando que os programas de acção das Comunidades Europeias, em matéria de ambiente, de 1973 (3) e de 1977 (4), prevêem a necessidade de empreender uma acção comunitária contra os detritos provenientes da indústria do dióxido de titânio;\n\nConsiderando que uma disparidade entre as disposições já aplicáveis ou em preparação nos diferentes Estados-membros, no que diz respeito aos detritos provenientes da indústria do dióxido de titânio, pode criar condições de concorrência desiguais e ter, deste modo, uma incidência directa no funcionamento do mercado comum; que convém, portanto, proceder neste domínio à aproximação das legislações prevista no artigo 100o do Tratado;\n\nConsiderando que se afigura necessário fazer acompanhar essa aproximação das legislações de uma acção da Comunidade que tenha por objectivo realizar, mediante uma regulamentação mais ampla, um dos objectivos da Comunidade no domínio da protecção do ambiente e da melhoria da qualidade de vida; que, convém, portanto prever, para o efeito, certas disposições específicas; que, não estando os poderes de acção necessários para este efeito previstos no Tratado, convém recorrer ao artigo 235o do Tratado;\n\nConsiderando que a Directiva 75/442/CEE (5) diz respeito à eliminação dos detritos em geral; que, para os detritos provenientes da indústria do dióxido de titânio, é necessário prever um regime especial que garanta a protecção da saúde do homem e do ambiente contra os efeitos prejudiciais causados pela descarga, rejeição ou depósito não controlados desses detritos;\n\nConsiderando que, para atingir esses objectivos, é necessário prever um regime de autorização prévia para a descarga, a imersão, a armazenagem, o depósito e a injecção dos detritos; que é necessário subordinar a concessão dessa autorização a condições específicas;\n\nConsiderando que a descarga, a imersão, o armazenagem, o depósito e a injecção dos detritos devem ser acompanhados, por um lado, de um controlo dos detritos, e, por outro, do controlo e da vigilância do meio em questão;\n\nConsiderando que, para os estabelecimentos industriais já existentes, os Estados-membros devem estabelecer, antes de 1 de Julho de 1980, programas de redução progressiva da poluição provocada por esses detritos, tendo em vista a sua eliminação; que esses programas devem fixar objectivos gerais de redução a atingir, o mais tardar, até 1 de Julho de 1987 e indicar as medidas a tomar para cada estabelecimento;\n\nConsiderando que, para os novos estabelecimentos industriais, os Estados-membros devem conceder uma autorização prévia; que esta deve ser precedida de um estudo de impacte sobre o ambiente e que só pode ser concedida às empresas que se comprometam a utilizar apenas os materiais, processos e tecnologias disponíveis no mercado, menos nocivas para o ambiente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "276082d2203d8199": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva tem por objectivo a prevenção e a diminuição progressiva, tendo em vista a sua eliminação, da poluição provocada pelos detritos provenientes da indústria do dióxido de titânio.\n\n2. Na acepção da presente directiva, entende-se por:\n\na) Poluição:\n\nA descarga de qualquer resíduo resultante do processo de produção do dióxido de titânio, efectuada directa ou indirectamente pelo homem num meio, e que tenha consequências passíveis de pôr em perigo a saúde humana, de afectar os recursos vivos e o sistema ecológico, de prejudicar a amenidade ou perturbar outras utilizações legítimas do meio em questão;\n\nb) Detrito:\n\n- qualquer resíduo resultante do processo de produção de dióxido de titânio de que o detentor se desfaz ou tem a obrigação de se desfazer por força das disposições nacionais em vigor,\n\n- qualquer resíduo resultante de um processo de tratamento de um resíduo mencionado no primeiro travessão;\n\nc) Eliminação:\n\n- a recolha, a triagem, o transporte e o tratamento dos detritos, assim como a sua armazenagem e o seu depósito sobre ou no solo e a sua injecção no solo,\n\n- a descarga nas águas de superfície, nas águas subterrâneas ou no mar, assim como a imersão no mar,\n\n- as operações de transformação necessárias à sua reutilização, recuperação ou reciclagem;\n\nd) Estabelecimentos industriais já existentes:\n\nOs estabelecimentos industriais já instalados à data da notificação da presente directiva;\n\ne) Novos estabelecimentos industriais:\n\nOs estabelecimentos industriais em fase de instalação à data da notificação da presente directiva ou que sejam criados depois desta data. São equiparadas a novos estabelecimentos industriais as ampliações feitas em estabelecimentos industriais já existentes que conduzam, in loco, a um aumento da capacidade de produção do dióxido de titânio do estabelecimento em questão, de 15 000 toneladas por ano ou mais."
+  },
+  "b20a5973cfcd7f2a": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros tomarão as medidas necessárias para garantir que os detritos sejam eliminados sem pôr em perigo a saúde do homem e sem causar prejuízo ao ambiente e, nomeadamente:\n\n- sem criar riscos para a água, o ar ou o solo, nem para a fauna e a flora,\n\n- sem prejudicar a natureza e a paisagem."
+  },
+  "465ec01616b15b27": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros tomarão as medidas adequadas para promover a prevenção, a reciclagem e a transformação dos detritos, a obtenção de matérias primas a partir dos mesmos, assim como qualquer outro método que permita a reutilização dos detritos."
+  },
+  "15cef9c135121a20": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. São proibidos a descarga, a imersão, a armazenagem, o depósito e a injecção dos detritos, salvo autorização prévia concedida pela autoridade competente do Estado-membro em cujo território os detritos são produzidos. Deve, igualmente, ser concedida uma autorização prévia pela autoridade competente do Estado-membro:\n\n- em cujo território os detritos são descarregados, armazenados, depositados ou injectados,\n\n- a partir de cujo território os detritos são descarregados ou imersos.\n\n2. A autorização só pode ser concedida por um período limitado. Pode ser renovada."
+  },
+  "9106a75d91886679": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nEm caso de descarga ou imersão, a autoridade competente, em conformidade com o artigo 2o e com base nas informações fornecidas nos termos do Anexo I, pode conceder a autorização referida no artigo 4o, desde que:\n\na) A eliminação dos detritos não possa ser efectuada por meios mais apropriados;\n\nb) Uma avaliação efectuada com base nos conhecimentos científicos e técnicos disponíveis não deixe prever efeitos nocivos imediatos ou diferidos no meio aquático;\n\nc) não prejudique a navegação, a pesca, o recreio, a extracção de matérias-primas, a dessalinização, a piscicultura e a cultura de moluscos, as regiões de especial interesse científico e outras utilizações legítimas das águas em questão."
+  },
+  "37b3396cdf839aaf": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nEm caso de armazenagem, depósito ou injecção, a autoridade competente, em conformidade com o artigo 2o e com base nas informações fornecidas nos termos do Anexo I, pode conceder a autorização referida no artigo 4o, desde que:\n\na) A eliminação dos detritos não possa ser efectuada por meios mais apropriados;\n\nb) uma avaliação efectuada com base nos conhecimentos científicos e técnicos disponíveis não deixe prever efeitos nocivos, imediatos ou retardados, nas águas subterrâneas, no solo ou na atmosfera;\n\nc) Não prejudique o recreio, a extracção de matérias-primas, as plantas, os animais, as regiões de especial interesse científico e outras utilizações legítimas dos meios em questão."
+  },
+  "7167ce2b6ae770cc": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Quaisquer que sejam o modo e o grau de tratamento dos detritos considerados, a sua descarga, imersão, armazenagem, depósito e injecção serão acompanhados de operações de controlo dos detritos e do meio em questão, nos seus aspectos físicos, químicos, biológicos e ecológicos, mencionados no Anexo II.\n\n2. As operações de controlo serão efectuadas periodicamente por um ou vários organismos designados pelo Estado-membro cuja autoridade competente concedeu uma autorização, na acepção do artigo 4o. Em caso de poluição transfronteira entre Estados-membros, o organismo será designado conjuntamente pelas partes interessadas.\n\n3. A Comissão apresentará ao Conselho, no prazo de um ano a contar da notificação da presente directiva, uma proposta sobre as modalidades de fiscalização e de controlo dos meios em questão. O Conselho deliberará sobre esta proposta, no prazo de seis meses após a publicação, no Jornal Oficial das Comunidades Europeias, dos pareceres do Parlamento Europeu e do Comité Económico e Social."
+  },
+  "59c108899f652ca8": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. A autoridade competente do Estado-membro em causa tomará todas as medidas necessárias para remediar uma das situações seguintes e, se for caso disso, exigirá a suspensão das operações de descarga, imersão, armazenagem, depósito ou injecção:\n\na) Se os resultados do controlo previsto no Anexo II, ponto 1 da parte A, demonstrarem que as condições da autorização prévia, referida nos artigos 4o, 5o e 6o, não estão satisfeitas, ou\n\nb) Se os resultados dos testes de toxidade aguda, referidos no Anexo II, ponto 2 da parte A, demonstrarem que os valores máximos ali indicados foram ultrapassados, ou\n\nc) Se os resultados do controlo previsto no Anexo II, parte B, mostrarem uma degradação do meio em causa na zona considerada, ou\n\nd) Se, em caso de descarga ou imersão, houver prejuízo para a navegação, a pesca, o recreio, a extracção de matérias-primas, a dessalinização, a piscicultura ou cultura de moluscos, para as regiões de especial interesse científico e outras utilizações legítimas das águas em questão, ou\n\ne) Se, em caso de armazenagem, depósito ou injecção, houver prejuízo para o recreio, a extracção de matérias-primas, as plantas, os animais, para as regiões de especial interesse científico e outras utilizações legítimas dos meios em questão.\n\n2. Se a situação disser respeito a vários Estados-membros, as medidas serão tomadas em concertação."
+  },
+  "3fb889e8cda1b2d8": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. No caso dos estabelecimentos industriais já existentes, os Estados-membros estabelecerão programas de redução progressiva e eventual eliminação da poluição provocada pelos detritos provenientes desses estabelecimentos.\n\n2. Os programas referidos no no 1 fixarão objectivos gerais de redução da poluição devida a detritos líquidos, sólidos ou gasosos, a atingir até 1 de Julho de 1987, o mais tardar. Os programas incluirão, igualmente, objectivos intermédios. Conterão, além disso, informações sobre o estado do meio em questão, sobre as medidas de redução da poluição, bem como sobre os métodos de tratamento dos detritos directamente originados pelos processos de fabrico.\n\n3. Os programas mencionados no no 1 serão enviados à Comissão, o mais tardar até 1 de Julho de 1980, para que esta possa apresentar ao Conselho, no prazo de seis meses após recepção do conjunto dos programas nacionais, propostas adequadas que tenham em vista harmonizar esses programas no que diz respeito à redução e eventual eliminação da poluição, e melhorar as condições de concorrência no sector da produção do dióxido de titânio. O Conselho deliberará sobre estas propostas no prazo de seis meses após a publicação, no Jornal Oficial das Comunidades Europeias, dos pareceres da Assembleia e do Comité Económico e Social.\n\n4. Os Estados-membros executarão um programa, o mais tardar em 1 de Janeiro de 1982."
+  },
+  "5c0606d0924b6fa0": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. Os programas referidos no no 1 do artigo 9o, devem abranger todos os estabelecimentos industriais já existentes e indicar as medidas a tomar no que diz respeito a cada estabelecimento.\n\n2. Quando, em circunstâncias especiais, parecer a um Estado-membro que, no que respeita a um determinado estabelecimento, não é necessária qualquer medida complementar para dar cumprimento às obrigações da presente directiva, esse Estado-membro fornecerá à Comissão as justificações que o levam a essa conclusão, no prazo de seis meses após a notificação da presente directiva.\n\n3. Depois de ter procedido, de modo independente, a qualquer verificação necessária dessas justificações, a Comissão pode concordar com o Estado-membro que não é necessário tomar medidas complementares no que diz respeito ao estabelecimento em causa. A Comissão deve dar o seu acordo fundamentado no prazo de seis meses.\n\n4. Se a Comissão não estiver de acordo com o Estado-membro, devem ser incluídas, no programa do Estado-membro em causa, medidas complementares relativas ao estabelecimento em questão.\n\n5. Se a Comissão der o seu acordo, este deve ser objecto de reexame periódico, à luz dos resultados do controlo exercido em cumprimento da presente directiva e das alterações importantes que possam surgir nos processos de fabrico utilizados ou nos objectivos prosseguidos em matéria de política do ambiente."
+  },
+  "8fe9e97453ad9d3f": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nOs novos estabelecimentos industriais serão objecto de pedidos de autorização prévia dirigidos às autoridades competentes do Estado-membro em cujo território está prevista a sua construção. Estas autorizações devem ser precedidas de estudos de impacte sobre o ambiente. Só podem ser concedidas a empresas que declararem comprometer-se a utilizar apenas os materiais, processos e tecnologias, disponíveis no mercado, menos prejudiciais para o ambiente."
+  },
+  "7e7a33ba76f9e8c7": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nSem prejuízo da presente directiva, os Estados-membros podem adoptar regulamentações mais severas."
+  },
+  "7aebee3153d626c9": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. Para efeitos de aplicação da presente directiva, os Estados-membros fornecerão à Comissão todas as informações respeitantes a:\n\n- autorizações concedidas por força dos artigos 4o, 5o e 6o,\n\n- resultados do controlo do meio em questão, efectuado em conformidade com o artigo 7o,\n\n- medidas tomadas nos termos do artigo 8o.\n\nFornecerão, ainda, à Comissão as informações de natureza genérica respeitante aos materiais, processos e tecnologias que recebam no âmbito do artigo 11o.\n\n2. As informações obtidas nos termos do presente artigo só podem ser utilizadas para efeitos de aplicação da presente directiva.\n\n3. À Comissão e às autoridades competentes dos Estados-membros, bem como aos seus funcionários e outros agentes, é proibida a divulgação das informações que obtiverem em aplicação da presente directiva e que, pela sua natureza, estejam abrangidas pelo segredo profissional.\n\n4. Os no 2 e 3 não obstam à publicação de informações genéricas ou de estudos que não contenham indicações individuais sobre as empresas ou associações de empresas."
+  },
+  "6d84c79d93c174f6": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nDe três em três anos, os Estados-membros elaborarão um relatório sobre a prevenção e a redução progressiva da poluição provocada pelos detritos provenientes da indústria do dióxido de titânio e enviá-lo-ao à Comissão que o comunicará aos outros Estados-membros.\n\nDe três em três anos, a Comissão apresentará ao Conselho e ao Parlamento Europeu um relatório sobre a aplicação da presente directiva."
+  },
+  "a9b6e0586b8e639a": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\n1. Os Estados-membros porão em vigor as medidas necessárias para darem cumprimento à presente directiva no prazo de doze meses a contar da sua notificação. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "d506617d42b7b623": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 20 de Fevereiro de 1978.\n\nPelo Conselho\n\nO Presidente\n\nPer HAEKKERUP\n\n(1) JO no C 28 de 9. 2. 1976, p. 16.(2) JO no C 131 de 12. 6. 1976, p. 18.(3) JO no C 112 de 20. 12. 1973, p. 3.(4) JO no C 139 de 13. 6. 1977, p. 3.(5) JO no L 194 de 25. 7. 1975, p. 39."
+  },
+  "678b1123bde36f3d": {
+   "fragment_id": "ANEXO I — INFORMAÇÕES A FORNECER APARA EFEITOS DE CONCESSÃO DA AUTORIZAÇÃO PRÉVIA REFERIDA NOS ARTIGOS 4o, 5o E 6o",
+   "type": "divisao",
+   "heading": "ANEXO I — INFORMAÇÕES A FORNECER APARA EFEITOS DE CONCESSÃO DA AUTORIZAÇÃO PRÉVIA REFERIDA NOS ARTIGOS 4o, 5o E 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — INFORMAÇÕES A FORNECER APARA EFEITOS DE CONCESSÃO DA AUTORIZAÇÃO PRÉVIA REFERIDA NOS ARTIGOS 4o, 5o E 6o\n\nA. Características e composição da matéria\n\n1. Quantidade total e composição média da matéria (por exemplo, por ano).\n\n2. Forma (por exemplo, sólida, pastosa, líquida ou gasosa).\n\n3. Propriedades físicas (tais como solubilidade e densidade), químicas e bioquímicas (como carência de oxigénio) e biológicas.\n\n4. Toxicidade.\n\n5. Persistência: física, química e biológica.\n\n6. Acumulação e transformação biológica nas matérias biológicas ou sedimentos.\n\n7. Sensibilidade às transformações físicas, químicas e bioquímicas e interacção no meio em causa com outras matérias orgânicas e inorgânicas.\n\n8. Probabilidade de contaminação e outras alterações que diminuam o valor comercial dos recursos marinhos (peixes, moluscos e crustáceos, etc.).\n\nB. Características do local de imersão ou de descarga e métodos de eliminação\n\n1. Localização (por exemplo, coordenadas da zona de imersão ou de descarga, profundidade e distância das costas), situação em relação a outras localizações (tais como zonas de recreio, de desova, de cultura e de pesca, e recursos exploráveis).\n\n2. Taxa de evacuação da matéria (por exemplo, quantidade diária, semanal, mensal).\n\n3. Métodos de embalagem e de acondicionamento, se for caso disso.\n\n4. Diluição inicial atingida pelo método de descarga proposto, especialmente a velocidade dos navios.\n\n5. Características de dispersão (tais como efeitos das correntes, das marés e do vento sobre a deslocação horizontal e a mistura vertical).\n\n6. Características da água (tais como temperatura, pH, salinidade; estratificação, indícios de poluição: nomeadamente oxigénio dissolvido (OD), carência química de oxigénio (CQO), carência bioquímica de oxigénio (CBO), presença de azoto sob forma orgânica ou inorgânica e, nomeadamente, presença de amoníaco, de matérias em suspensão, de outras matérias nutritivas, produtividade).\n\n7. Características do fundo (tais como topografia, características geoquímicas e geológicas, produtividade biológica).\n\n8. Existência e efeitos de outras imersões ou de descargas efectuadas na zona em causa (por exemplo, colheitas indicando a presença de metais pesados e o teor em carbono orgânico).\n\nC. Características do local de depósito, de armazenagem ou de injecção e métodos de eliminação\n\n1. Situação geográfica.\n\n2. Características das zonas adjacentes.\n\n3. Métodos de embalagem e acondicionamento, se for caso disso.\n\n4. Características dos métodos de depósito, de armazenagem e de injecção, incluindo a avaliação das precauções tomadas para evitar a poluição das águas, do solo e da atmosfera."
+  },
+  "2714af932bfbc287": {
+   "fragment_id": "ANEXO II — FISCALIZAÇÃO E CONTROLO DAS OPERAÇÕES DE ELIMINAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO II — FISCALIZAÇÃO E CONTROLO DAS OPERAÇÕES DE ELIMINAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — FISCALIZAÇÃO E CONTROLO DAS OPERAÇÕES DE ELIMINAÇÃO\n\nA. Controlo de detritos\n\nAs operações de eliminação serão acompanhadas:\n\n1. De um controlo da quantidade, da composição e da toxidade dos detritos, a fim de garantir que as condições da autorização prévias referidas nos artigos 4o, 5o e 6o se encontram preenchidas.\n\n2. De testes de toxidade aguda sobre certas espécies de moluscos, crustáceos, peixes e plâncton, e, de preferência, sobre espécies que são comuns nas zonas de descarga. Além disso, serão efectuados testes sobre exemplares da espécie artémia (Artemia salina).\n\nEstes testes não devem apresentar, para um período de 36 horas e para uma diluição do efluente de 1/5 000,\n\n- mais de 20 % de mortalidade, no que respeita a indivíduos adultos das espécies testadas,\n\n- uma mortalidade mais elevada do que a de um grupo de controlo, no que respeita às larvas.\n\nB. Fiscalização e controlo do meio em causa\n\nI. No caso de descarga nas águas doces ou no mar ou em caso de imersão, este controlo visa os três domínios seguintes: coluna de água, matéria viva e sedimentos. O controlo periódico do estado da zona afectada pelas descargas permitirá acompanhar a evolução dos meios referidos.\n\nO controlo incidirá, nomeadamente, sobre:\n\n1. O pH.\n\n2. O oxigénio dissolvido.\n\n3. A turvação.\n\n4. Os óxidos hidratados e os hidróxidos de ferro em suspensão.\n\n5. Os metais tóxicos na água, nos sólidos em suspensão, nos sedimentos e acumulados nos organismos bênticos e pelágicos seleccionados.\n\n6. A diversidade e a abundância relativa e absoluta da flora e da fauna.\n\nII. No caso de armazenamento, depósito ou injecção, o controlo incluirá, nomeadamente:\n\n1. Testes para garantir que não houve efeitos prejudiciais nas águas de superfície ou nas águas subterrâneas. Estes testes devem incidir, entre outras coisas, sobre:\n\n- a acidez,\n\n- o teor em ferro (dissolvido e em suspensão),\n\n- o teor em cálcio,\n\n- se for caso disso, a concentração em metais tóxicos (dissolvidos e em suspensão),\n\n2. Se for caso disso, testes para determinar o prejuízo eventualmente causado à estrutura do subsolo.\n\n3. Uma avaliação geral da ecologia da zona próxima do local de depósito, de armazenagem ou de injecção."
+  },
+  "4a2f1c5d95bcb301": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1978L0176 — PT — 23.12.1991 — 003.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31978L0176:PT:NOT) [DIRECTIVA DO CONSELHO de 20 de Fevereiro de 1978 relativa aos detritos provenientes da indústria do dióxido de titânio (78/176/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31978L0176:PT:NOT) (JO L 054, 25.2.1978, p.19)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31982L0883:PT:NOT) | [Directiva do Conselho 82/883/CEE de 3 de Dezembro de 1982](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31982L0883:PT:NOT) | L 378 | 1 | 31.12.1982 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31983L0029:PT:NOT) | [Directiva do Conselho 83/29/CEE de 24 de Janeiro de 1983](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31983L0029:PT:NOT) | L 32 | 28 | 3.2.1983 |\n| [►M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT) | [Directiva do Conselho 91/692/CEE de 23 de Dezembro de 1991](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT) | L 377 | 48 | 31.12.1991 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31978L0176:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 20 de Fevereiro de 1978\n\nrelativa aos detritos provenientes da indústria do dióxido de titânio\n\n(78/176/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100.o e 235.o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([1](http://publications.europa.eu/resource/cellar/cd840c3e-c0d9-4c07-ac45-9850cc8b1d91.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([2](http://publications.europa.eu/resource/cellar/cd840c3e-c0d9-4c07-ac45-9850cc8b1d91.0018.02/DOC_1#E0002)),\n\nConsiderando que os detritos provenientes da indústria do dióxido de titânio apresentam riscos prejudiciais à saúde do homem assim como ao ambiente; que, por isso, convém prevenir e diminuir progressivamente a poluição provocada por esses detritos, tendo em vista a sua eliminação;\n\nConsiderando que os programas de acção das Comunidades Europeias, em matéria de ambiente, de 1973 ([3](http://publications.europa.eu/resource/cellar/cd840c3e-c0d9-4c07-ac45-9850cc8b1d91.0018.02/DOC_1#E0003)) e de 1977 ([4](http://publications.europa.eu/resource/cellar/cd840c3e-c0d9-4c07-ac45-9850cc8b1d91.0018.02/DOC_1#E0004)), prevêem a necessidade de empreender uma acção comunitária contra os detritos provenientes da indústria do dióxido de titânio;\n\nConsiderando que uma disparidade entre as disposições já aplicáveis ou em preparação nos diferentes Estados-membros, no que diz respeito aos detritos provenientes da indústria do dióxido de titânio, pode criar condições de concorrência desiguais e ter, deste modo, uma incidência directa no funcionamento do mercado comum; que convém, portanto, proceder neste domínio à aproximação das legislações prevista no artigo 100.o do Tratado;\n\nConsiderando que se afigura necessário fazer acompanhar essa aproximação das legislações de uma acção da Comunidade que tenha por objectivo realizar, mediante uma regulamentação mais ampla, um dos objectivos da Comunidade no domínio da protecção do ambiente e da melhoria da qualidade de vida; que, convém, portanto prever, para o efeito, certas disposições específicas; que, não estando os poderes de acção necessários para este efeito previstos no Tratado, convém recorrer ao artigo 235.o do Tratado;\n\nConsiderando que a Directiva 75/442/CEE ([5](http://publications.europa.eu/resource/cellar/cd840c3e-c0d9-4c07-ac45-9850cc8b1d91.0018.02/DOC_1#E0005)) diz respeito à eliminação dos detritos em geral; que, para os detritos provenientes da indústria do dióxido de titânio, é necessário prever um regime especial que garanta a protecção da saúde do homem e do ambiente contra os efeitos prejudiciais causados pela descarga, rejeição ou depósito não controlados desses detritos;\n\nConsiderando que, para atingir esses objectivos, é necessário prever um regime de autorização prévia para a descarga, a imersão, a armazenagem, o depósito e a injecção dos detritos; que é necessário subordinar a concessão dessa autorização a condições específicas;\n\nConsiderando que a descarga, a imersão, o armazenagem, o depósito e a injecção dos detritos devem ser acompanhados, por um lado, de um controlo dos detritos, e, por outro, do controlo e da vigilância do meio em questão;\n\nConsiderando que, para os estabelecimentos industriais já existentes, os Estados-membros devem estabelecer, antes de 1 de Julho de 1980, programas de redução progressiva da poluição provocada por esses detritos, tendo em vista a sua eliminação; que esses programas devem fixar objectivos gerais de redução a atingir, o mais tardar, até 1 de Julho de 1987 e indicar as medidas a tomar para cada estabelecimento;\n\nConsiderando que, para os novos estabelecimentos industriais, os Estados-membros devem conceder uma autorização prévia; que esta deve ser precedida de um estudo de impacte sobre o ambiente e que só pode ser concedida às empresas que se comprometam a utilizar apenas os materiais, processos e tecnologias disponíveis no mercado, menos nocivas para o ambiente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "8f7f396e09333a79": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva tem por objectivo a prevenção e a diminuição progressiva, tendo em vista a sua eliminação, da poluição provocada pelos detritos provenientes da indústria do dióxido de titânio.\n\n2. Na acepção da presente directiva, entende-se por:\n\na) Poluição:\n\nA descarga de qualquer resíduo resultante do processo de produção do dióxido de titânio, efectuada directa ou indirectamente pelo homem num meio, e que tenha consequências passíveis de pôr em perigo a saúde humana, de afectar os recursos vivos e o sistema ecológico, de prejudicar a amenidade ou perturbar outras utilizações legítimas do meio em questão;\n\nb) Detrito:\n\n— qualquer resíduo resultante do processo de produção de dióxido de titânio de que o detentor se desfaz ou tem a obrigação de se desfazer por força das disposições nacionais em vigor,\n\n— qualquer resíduo resultante de um processo de tratamento de um resíduo mencionado no primeiro travessão;\n\nc) Eliminação:\n\n— a recolha, a triagem, o transporte e o tratamento dos detritos, assim como a sua armazenagem e o seu depósito sobre ou no solo e a sua injecção no solo,\n\n— a descarga nas águas de superfície, nas águas subterrâneas ou no mar, assim como a imersão no mar,\n\n— as operações de transformação necessárias à sua reutilização, recuperação ou reciclagem;\n\nd) Estabelecimentos industriais já existentes:\n\nOs estabelecimentos industriais já instalados à data da notificação da presente directiva;\n\ne) Novos estabelecimentos industriais:\n\nOs estabelecimentos industriais em fase de instalação à data da notificação da presente directiva ou que sejam criados depois desta data. São equiparadas a novos estabelecimentos industriais as ampliações feitas em estabelecimentos industriais já existentes que conduzam, in loco, a um aumento da capacidade de produção do dióxido de titânio do estabelecimento em questão, de 15 000 toneladas por ano ou mais."
+  },
+  "4a0fd47c26ad15cf": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-membros tomarão as medidas necessárias para garantir que os detritos sejam eliminados sem pôr em perigo a saúde do homem e sem causar prejuízo ao ambiente e, nomeadamente:\n\n— sem criar riscos para a água, o ar ou o solo, nem para a fauna e a flora,\n\n— sem prejudicar a natureza e a paisagem."
+  },
+  "4bec69520c79dbb1": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-membros tomarão as medidas adequadas para promover a prevenção, a reciclagem e a transformação dos detritos, a obtenção de matérias primas a partir dos mesmos, assim como qualquer outro método que permita a reutilização dos detritos."
+  },
+  "3c4e5da9eb2748e8": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. São proibidos a descarga, a imersão, a armazenagem, o depósito e a injecção dos detritos, salvo autorização prévia concedida pela autoridade competente do Estado-membro em cujo território os detritos são produzidos. Deve, igualmente, ser concedida uma autorização prévia pela autoridade competente do Estado-membro:\n\n— em cujo território os detritos são descarregados, armazenados, depositados ou injectados,\n\n— a partir de cujo território os detritos são descarregados ou imersos.\n\n2. A autorização só pode ser concedida por um período limitado. Pode ser renovada."
+  },
+  "3cceda8285ea4a9e": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nEm caso de descarga ou imersão, a autoridade competente, em conformidade com o artigo 2.o e com base nas informações fornecidas nos termos do Anexo I, pode conceder a autorização referida no artigo 4.o, desde que:\n\na) A eliminação dos detritos não possa ser efectuada por meios mais apropriados;\n\nb) Uma avaliação efectuada com base nos conhecimentos científicos e técnicos disponíveis não deixe prever efeitos nocivos imediatos ou diferidos no meio aquático;\n\nc) não prejudique a navegação, a pesca, o recreio, a extracção de matérias-primas, a dessalinização, a piscicultura e a cultura de moluscos, as regiões de especial interesse científico e outras utilizações legítimas das águas em questão."
+  },
+  "f3905cbba6560e42": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nEm caso de armazenagem, depósito ou injecção, a autoridade competente, em conformidade com o artigo 2.o e com base nas informações fornecidas nos termos do Anexo I, pode conceder a autorização referida no artigo 4.o, desde que:\n\na) A eliminação dos detritos não possa ser efectuada por meios mais apropriados;\n\nb) uma avaliação efectuada com base nos conhecimentos científicos e técnicos disponíveis não deixe prever efeitos nocivos, imediatos ou retardados, nas águas subterrâneas, no solo ou na atmosfera;\n\nc) Não prejudique o recreio, a extracção de matérias-primas, as plantas, os animais, as regiões de especial interesse científico e outras utilizações legítimas dos meios em questão."
+  },
+  "9c5c61a149c70afb": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Quaisquer que sejam o modo e o grau de tratamento dos detritos considerados, a sua descarga, imersão, armazenagem, depósito e injecção serão acompanhados de operações de controlo dos detritos e do meio em questão, nos seus aspectos físicos, químicos, biológicos e ecológicos, mencionados no Anexo II.\n\n2. As operações de controlo serão efectuadas periodicamente por um ou vários organismos designados pelo Estado-membro cuja autoridade competente concedeu uma autorização, na acepção do artigo 4.o. Em caso de poluição transfronteira entre Estados-membros, o organismo será designado conjuntamente pelas partes interessadas.\n\n3. A Comissão apresentará ao Conselho, no prazo de um ano a contar da notificação da presente directiva, uma proposta sobre as modalidades de fiscalização e de controlo dos meios em questão. O Conselho deliberará sobre esta proposta, no prazo de seis meses após a publicação, no Jornal Oficial das Comunidades Europeias, dos pareceres do Parlamento Europeu e do Comité Económico e Social."
+  },
+  "81ed89a790f8bcd8": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A autoridade competente do Estado-membro em causa tomará todas as medidas necessárias para remediar uma das situações seguintes e, se for caso disso, exigirá a suspensão das operações de descarga, imersão, armazenagem, depósito ou injecção:\n\na) Se os resultados do controlo previsto no Anexo II, ponto 1 da parte A, demonstrarem que as condições da autorização prévia, referida nos artigos 4.o, 5.o e 6.o, não estão satisfeitas, ou\n\nb) Se os resultados dos testes de toxidade aguda, referidos no Anexo II, ponto 2 da parte A, demonstrarem que os valores máximos ali indicados foram ultrapassados, ou\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31982L0883:PT:NOT)\n\nc) se os resultados do controlo que os Estados-membros são obrigados a exercer sobre o meio afectado revelarem uma degradação na zona considerada, ou\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31978L0176:PT:NOT)\n\nd) Se, em caso de descarga ou imersão, houver prejuízo para a navegação, a pesca, o recreio, a extracção de matérias-primas, a dessalinização, a piscicultura ou cultura de moluscos, para as regiões de especial interesse científico e outras utilizações legítimas das águas em questão, ou\n\ne) Se, em caso de armazenagem, depósito ou injecção, houver prejuízo para o recreio, a extracção de matérias-primas, as plantas, os animais, para as regiões de especial interesse científico e outras utilizações legítimas dos meios em questão.\n\n2. Se a situação disser respeito a vários Estados-membros, as medidas serão tomadas em concertação."
+  },
+  "5d74e3d245555df5": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. No caso dos estabelecimentos industriais já existentes, os Estados-membros estabelecerão programas de redução progressiva e eventual eliminação da poluição provocada pelos detritos provenientes desses estabelecimentos.\n\n2. Os programas referidos no n.o 1 fixarão objectivos gerais de redução da poluição devida a detritos líquidos, sólidos ou gasosos, a atingir até 1 de Julho de 1987, o mais tardar. Os programas incluirão, igualmente, objectivos intermédios. Conterão, além disso, informações sobre o estado do meio em questão, sobre as medidas de redução da poluição, bem como sobre os métodos de tratamento dos detritos directamente originados pelos processos de fabrico.\n\n3. Os programas mencionados no n.o 1 serão enviados à Comissão, o mais tardar até 1 de Julho de 1980, [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31983L0029:PT:NOT) a qual apresentará ao Conselho, antes de 15 de Março de 1983 ◄, propostas adequadas que tenham em vista harmonizar esses programas no que diz respeito à redução e eventual eliminação da poluição, e melhorar as condições de concorrência no sector da produção do dióxido de titânio. O Conselho deliberará sobre estas propostas no prazo de seis meses após a publicação, no Jornal Oficial das Comunidades Europeias, dos pareceres da Assembleia e do Comité Económico e Social.\n\n4. Os Estados-membros executarão um programa, o mais tardar em 1 de Janeiro de 1982."
+  },
+  "15d3b71a25b1a990": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os programas referidos no n.o 1 do artigo 9.o, devem abranger todos os estabelecimentos industriais já existentes e indicar as medidas a tomar no que diz respeito a cada estabelecimento.\n\n2. Quando, em circunstâncias especiais, parecer a um Estado-membro que, no que respeita a um determinado estabelecimento, não é necessária qualquer medida complementar para dar cumprimento às obrigações da presente directiva, esse Estado-membro fornecerá à Comissão as justificações que o levam a essa conclusão, no prazo de seis meses após a notificação da presente directiva.\n\n3. Depois de ter procedido, de modo independente, a qualquer verificação necessária dessas justificações, a Comissão pode concordar com o Estado-membro que não é necessário tomar medidas complementares no que diz rspeito ao estabelecimento em causa. A Comissão deve dar o seu acordo fundamentado no prazo de seis meses.\n\n4. Se a Comissão não estiver de acordo com o Estado-membro, devem ser incluídas, no programa do Estado-membro em causa, medidas complementares relativas ao estabelecimento em questão.\n\n5. Se a Comissão der o seu acordo, este deve ser objecto de reexame periódico, à luz dos resultados do controlo exercido em cumprimento da presente directiva e das alterações importantes que possam surgir nos processos de fabrico utilizados ou nos objectivos prosseguidos em matéria de política do ambiente."
+  },
+  "697039dddb07c31d": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs novos estabelecimentos industriais serão objecto de pedidos de autorização prévia dirigidos às autoridades competentes do Estado-membro em cujo território está prevista a sua construção. Estas autorizações devem ser precedidas de estudos de impacte sobre o ambiente. Só podem ser concedidas a empresas que declararem comprometer-se a utilizar apenas os materiais, processos e tecnologias, disponíveis no mercado, menos prejudiciais para o ambiente."
+  },
+  "c9a12a6f69658e2a": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nSem prejuízo da presente directiva, os Estados-membros podem adoptar regulamentações mais severas."
+  },
+  "07a97f65ce5dc95b": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Para efeitos de aplicação da presente directiva, os Estados-membros fornecerão à Comissão todas as informações respeitantes a:\n\n— autorizações concedidas por força dos artigos 4.o, 5.o e 6.o,\n\n— resultados do controlo do meio em questão, efectuado em conformidade com o artigo 7.o,\n\n— medidas tomadas nos termos do artigo 8.o\n\nFornecerão, ainda, à Comissão as informações de natureza genérica respeitante aos materiais, processos e tecnologias que recebam no âmbito do artigo 11.o\n\n2. As informações obtidas nos termos do presente artigo só podem ser utilizadas para efeitos de aplicação da presente directiva.\n\n3. À Comissão e às autoridades competentes dos Estados-membros, bem como aos seus funcionários e outros agentes, é proibida a divulgação das informações que obtiverem em aplicação da presente directiva e que, pela sua natureza, estejam abrangidas pelo segredo profissional.\n\n4. Os n.os 2 e 3 não obstam à publicação de informações genéricas ou de estudos que não contenham indicações individuais sobre as empresas ou associações de empresas."
+  },
+  "ca2d2d85baaea936": {
+   "fragment_id": "Artigo 14.º — [▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)",
+   "type": "artigo",
+   "heading": "Artigo 14.º — [▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — [▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)\n\nDe três em três anos os Estados-membros transmitirão à Comissão informações sobre a aplicação da presente directiva, no âmbito de um relatório sectorial que abranja igualmente as outras directivas comunitárias pertinentes. Esse relatório deve ser elaborado com base num questionário ou num esquema elaborado pela Comissão de acordo com o procedimento previsto no artigo 6.o da Directiva 91/692/CEE ([6](http://publications.europa.eu/resource/cellar/cd840c3e-c0d9-4c07-ac45-9850cc8b1d91.0018.02/DOC_1#E0006)). Esse questionário ou esquema deve ser enviado aos Estados-membros seis meses antes do início do período abrangido pelo relatório. Orelatório deve ser enviado à Comissão num prazo de nove meses a contar do final de período de três anos a que se refere.\n\nO primeiro relatório abrangerá o período de 1993 a 1995, inclusive.\n\nA Comissão publicará um relatório comunitário sobre a aplicação da directiva num prazo de noves meses a contar da recepção dos relatórios dos Estados-membros.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31978L0176:PT:NOT)"
+  },
+  "7673324ea0da339d": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Os Estados-membros porão em vigor as medidas necessárias para darem cumprimento à presente directiva no prazo de doze meses a contar da sua notificação. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "dd037503806f5bd3": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "847698665ecee5b5": {
+   "fragment_id": "ANEXO I — INFORMAÇÕES A FORNECER APARA EFEITOS DE CONCESSÃO DA AUTORIZAÇÃO PRÉVIA REFERIDA NOS ARTIGOS 4.o, 5.o E 6.o",
+   "type": "divisao",
+   "heading": "ANEXO I — INFORMAÇÕES A FORNECER APARA EFEITOS DE CONCESSÃO DA AUTORIZAÇÃO PRÉVIA REFERIDA NOS ARTIGOS 4.o, 5.o E 6.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — INFORMAÇÕES A FORNECER APARA EFEITOS DE CONCESSÃO DA AUTORIZAÇÃO PRÉVIA REFERIDA NOS ARTIGOS 4.o, 5.o E 6.o\n\nA. Características e composição da matéria\n\n1. Quantidade total e composição média da matéria (por exemplo, por ano).\n\n2. Forma (por exemplo, sólida, pastosa, líquida ou gasosa).\n\n3. Propriedades físicas (tais como solubilidade e densidade), químicas e bioquímicas (como carência de oxigénio) e biológicas.\n\n4. Toxicidade.\n\n5. Persistência: física, química e biológica.\n\n6. Acumulação e transformação biológica nas matérias biológicas ou sedimentos.\n\n7. Sensibilidade às transformações físicas, químicas e bioquímicas e interacção no meio em causa com outras matérias orgânicas e inorgânicas.\n\n8. Probabilidade de contaminação e outras alterações que diminuam o valor comercial dos recursos marinhos (peixes, moluscos e crustáceos, etc.).\n\nB. Características do local de imersão ou de descarga e métodos de eliminação\n\n1. Localização (por exemplo, coordenadas da zona de imersão ou de descarga, profundidade e distância das costas), situação em relação a outras localizações (tais como zonas de recreio, de desova, de cultura e de pesca, e recursos exploráveis).\n\n2. Taxa de evacuação da matéria (por exemplo, quantidade diária, semanal, mensal).\n\n3. Métodos de embalagem e de acondicionamento, se for caso disso.\n\n4. Diluição inicial atingida pelo método de descarga proposto, especialmente a velocidade dos navios.\n\n5. Características de dispersão (tais como efeitos das correntes, das marés e do vento sobre a deslocação horizontal e a mistura vertical).\n\n6. Características da água (tais como temperatura, pH, salinidade; estratificação, indícios de poluição: nomeadamente oxigénio dissolvido (OD), carência química de oxigénio (CQO), carência bioquímica de oxigénio (CBO), presença de azoto sob forma orgânica ou inorgânica e, nomeadamente, presença de amoníaco, de matérias em suspensão, de outras matérias nutritivas, produtividade).\n\n7. Características do fundo (tais como topografia, características geoquímicas e geológicas, produtividade biológica).\n\n8. Existência e efeitos de outras imersões ou de descargas efectuadas na zona em causa (por exemplo, colheitas indicando a presença de metais pesados e o teor em carbono orgânico).\n\nC. Características do local de depósito, de armazenagem ou de injecção e métodos de eliminação\n\n1. Situação geográfica.\n\n2. Características das zonas adjacentes.\n\n3. Métodos de embalagem e acondicionamento, se for caso disso.\n\n4. Características dos métodos de depósito, de armazenagem e de injecção, incluindo a avaliação das precauções tomadas para evitar a poluição das águas, do solo e da atmosfera."
+  },
+  "4f4336930326413b": {
+   "fragment_id": "ANEXO II — FISCALIZAÇÃO E CONTROLO DAS OPERAÇÕES DE ELIMINAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO II — FISCALIZAÇÃO E CONTROLO DAS OPERAÇÕES DE ELIMINAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — FISCALIZAÇÃO E CONTROLO DAS OPERAÇÕES DE ELIMINAÇÃO\n\nA. Controlo de detritos\n\nAs operações de eliminação serão acompanhadas:\n\n1. De um controlo da quantidade, da composição e da toxidade dos detritos, a fim de garantir que as condições da autorização prévias referidas nos artigos 4.o, 5.o e 6.o se encontram preenchidas.\n\n2. De testes de toxidade aguda sobre certas espécies de moluscos, crustáceos, peixes e plâncton, e, de preferência, sobre espécies que são comuns nas zonas de descarga. Além disso, serão efectuados testes sobre exemplares da espécie artémia (Artemia salina). Estes testes não devem apresentar, para um período de 36 horas e para uma diluição do efluente de 1/5 000, — mais de 20 % de mortalidade, no que respeita a indivíduos adultos das espécies testadas, — uma mortalidade mais elevada do que a de um grupo de controlo, no que respeita às larvas.\n\nB. Fiscalização e controlo do meio em causa\n\nI. No caso de descarga nas águas doces ou no mar ou em caso de imersão, este controlo visa os três domínios seguintes: coluna de água, matéria viva e sedimentos. O controlo periódico do estado da zona afectada pelas descargas permitirá acompanhar a evolução dos meios referidos. O controlo incidirá, nomeadamente, sobre: 1. O pH. 2. O oxigénio dissolvido. 3. A turvação. 4. Os óxidos hidratados e os hidróxidos de ferro em suspensão. 5. Os metais tóxicos na água, nos sólidos em suspensão, nos sedimentos e acumulados nos organismos bênticos e pelágicos seleccionados. 6. A diversidade e a abundância relativa e absoluta da flora e da fauna.\n\n1. O pH.\n\n2. O oxigénio dissolvido.\n\n3. A turvação.\n\n4. Os óxidos hidratados e os hidróxidos de ferro em suspensão.\n\n5. Os metais tóxicos na água, nos sólidos em suspensão, nos sedimentos e acumulados nos organismos bênticos e pelágicos seleccionados.\n\n6. A diversidade e a abundância relativa e absoluta da flora e da fauna.\n\nII. No caso de armazenamento, depósito ou injecção, o controlo incluirá, nomeadamente: 1. Testes para garantir que não houve efeitos prejudiciais nas águas de superfície ou nas águas subterrâneas. Estes testes devem incidir, entre outras coisas, sobre: — a acidez, — o teor em ferro (dissolvido e em suspensão), — o teor em cálcio, — se for caso disso, a concentração em metais tóxicos (dissolvidos e em suspensão). 2. Se for caso disso, testes para determinar o prejuízo eventualmente causado à estrutura do subsolo. 3. Uma avaliação geral da ecologia da zona próxima do local de depósito, de armazenagem ou de injecção.\n\n1. Testes para garantir que não houve efeitos prejudiciais nas águas de superfície ou nas águas subterrâneas. Estes testes devem incidir, entre outras coisas, sobre: — a acidez, — o teor em ferro (dissolvido e em suspensão), — o teor em cálcio, — se for caso disso, a concentração em metais tóxicos (dissolvidos e em suspensão).\n\n2. Se for caso disso, testes para determinar o prejuízo eventualmente causado à estrutura do subsolo.\n\n3. Uma avaliação geral da ecologia da zona próxima do local de depósito, de armazenagem ou de injecção.\n\n([1](http://publications.europa.eu/resource/cellar/cd840c3e-c0d9-4c07-ac45-9850cc8b1d91.0018.02/DOC_1#src.E0001)) JO n.o C 28 de 9. 2. 1976, p. 16.\n\n([2](http://publications.europa.eu/resource/cellar/cd840c3e-c0d9-4c07-ac45-9850cc8b1d91.0018.02/DOC_1#src.E0002)) JO n.o C 131 de 12. 6. 1976, p. 18.\n\n([3](http://publications.europa.eu/resource/cellar/cd840c3e-c0d9-4c07-ac45-9850cc8b1d91.0018.02/DOC_1#src.E0003)) JO n.o C 112 de 20. 12. 1973, p. 3.\n\n([4](http://publications.europa.eu/resource/cellar/cd840c3e-c0d9-4c07-ac45-9850cc8b1d91.0018.02/DOC_1#src.E0004)) JO n.o C 139 de 13. 6. 1977, p. 3.\n\n([5](http://publications.europa.eu/resource/cellar/cd840c3e-c0d9-4c07-ac45-9850cc8b1d91.0018.02/DOC_1#src.E0005)) JO n L 194 de 25. 7. 1975, p. 39.\n\n([6](http://publications.europa.eu/resource/cellar/cd840c3e-c0d9-4c07-ac45-9850cc8b1d91.0018.02/DOC_1#src.E0006)) JO n.o L 377 de 31. 12. 1991, p. 48."
+  },
+  "b09167457f5ce0fb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1978L0176 — PT — 07.01.2014 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31978L0176) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31978L0176) [de 20 de Fevereiro de 1978](http://publications.europa.eu/resource/celex/31978L0176) [relativa aos detritos provenientes da indústria do dióxido de titânio](http://publications.europa.eu/resource/celex/31978L0176) [(78/176/CEE)](http://publications.europa.eu/resource/celex/31978L0176) (JO L 054, 25.2.1978, p.19)\n\n**revogado por:**\n\n- [Directiva 2010/75/UE do Parlamento Europeu e do Conselho de 24 de Novembro de 2010](http://publications.europa.eu/resource/celex/32010L0075) — L 334 — 17 — 17.12.2010"
+  }
+ }
+}

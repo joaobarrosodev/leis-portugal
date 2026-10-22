@@ -34,6 +34,34 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-01'
+version_history:
+  file: regulamento-ue-1999-1264.versoes.json
+  count: 3
+  source_lastmod: '2007-01-01'
+  versions:
+  - date: '1999-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Adita «ANEXO I
+    - Adita Notas
+  - date: '2007-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime «ANEXO I
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Notas
 identifiers:
   celex: 31999R1264
   eli: http://data.europa.eu/eli/reg/1999/1264/oj
@@ -48,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c0edc234-aaec-4d66-9f20-d324d49b39a0.0011
   content_url: http://publications.europa.eu/resource/cellar/702291e4-6819-4824-9b2c-6f829b498300.0004.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R1264-20070101
-  retrieved_at: '2026-10-22T02:44:51Z'
+  retrieved_at: '2026-10-22T14:48:12Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:30:00.707+02:00'
 integrity:
@@ -57,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:51Z'
-  notes: Texto consolidado 01999R1264-20070101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:12Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1999-1264.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -138,16 +166,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:51Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:48:12Z'
+  warnings: []
   errors: []
 ---
 

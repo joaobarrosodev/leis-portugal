@@ -34,6 +34,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-08-01'
+version_history:
+  file: diretiva-ue-1991-67.versoes.json
+  count: 2
+  source_lastmod: '2008-08-01'
+  versions:
+  - date: '1991-02-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-08-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO 1 Disposições gerais
+    - Suprime Artigo 1°.
+    - Suprime Artigo 2°.
+    - Suprime Artigo 3°.
+    - Suprime Artigo 4°.
+    - Suprime Artigo 5°.
+    - Suprime Artigo 6°.
+    - Suprime Artigo 7°.
+    - Suprime Artigo 8°.
+    - Suprime Artigo 9°.
+    - Suprime Artigo 10°.
+    - Suprime Artigo 11°.
+    - Suprime Artigo 12°.
+    - Suprime Artigo 13°.
+    - Suprime Artigo 14°.
+    - Suprime Artigo 15°.
+    - Suprime Artigo 16°.
+    - Suprime Artigo 17°.
+    - Suprime CAPÍTULO 3 Regras aplicáveis às importações provenientes dos países terceiros
+    - Suprime Artigo 18°.
+    - Suprime Artigo 19°.
+    - Suprime Artigo 20°.
+    - Suprime Artigo 21°.
+    - Suprime Artigo 22°.
+    - Suprime Artigo 23°.
+    - Suprime Artigo 24°.
+    - Suprime CAPÍTULO 4 Disposições finais
+    - Suprime Artigo 25°.
+    - Suprime Artigo 26°.
+    - Suprime Artigo 27°.
+    - Suprime Artigo 28°.
+    - Suprime Artigo 29°.
+    - Suprime Artigo 30°.
+    - Suprime ANEXO A — LISTAS DAS DOENÇAS E DAS ESPÉCIES SENSÍVEIS
+    - Suprime ANEXO B — ZONAS APROVADAS
+    - Suprime ANEXO C — EXPLORAÇÕES APROVADAS NUMA ZONA NÃO APROVADA
+    - Suprime ANEXO D — RENOVAÇÃO DA ÁGUA
+    - Suprime ANEXO E — Modelos de documento de transporte
+    - Suprime CAPÍTULO 1 — DOCUMENTO DE TRANSPORTE PARA OS PEIXES VIVOS, OVOS E GÂMETAS PROVENIENTES DE UMA ZONA APROVADA
 identifiers:
   celex: 31991L0067
   eli: http://data.europa.eu/eli/dir/1991/67/oj
@@ -48,7 +101,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7c8cd6f3-dc6a-429f-8878-e9c03ef7b6f3.0011
   content_url: http://publications.europa.eu/resource/cellar/51615cb6-48a0-42a3-9511-01da91b3b49e.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0067-20080801
-  retrieved_at: '2026-10-22T02:38:07Z'
+  retrieved_at: '2026-10-22T14:38:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T02:31:00.990+01:00'
 integrity:
@@ -57,9 +110,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:07Z'
-  notes: Texto consolidado 01991L0067-20080801.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:38:16Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1991-67.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -184,16 +237,20 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:07Z'
+  checked_at: '2026-10-22T14:38:16Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01991L0067-19930719: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0067-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0067-19951031: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0067-19980219: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0067-19980703: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0067-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

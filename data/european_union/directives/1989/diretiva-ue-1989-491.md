@@ -34,6 +34,49 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-01-02'
+version_history:
+  file: diretiva-ue-1989-491.versoes.json
+  count: 2
+  source_lastmod: '2013-01-02'
+  versions:
+  - date: '1989-08-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-01-02'
+    amending: eu:celex:32007R0715:por
+    amending_title: REGULAMENTO (CE) N. o 715/2007 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Junho de 2007
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita ANEXO I
+    - Adita ALTERAÇÕES DO ANEXO I DA DIRECTIVA 70/157/CEE
+    - Adita «6. EXTENSÃO DA RECEPÇÃO CEE
+    - Adita 6.1. Modelos de veículos modificados para funcionarem com gasolina sem chumbo
+    - Adita 6.2. Modelos de veículos modificados devido a qualquer outra razão
+    - Adita ANEXO III
+    - Adita ALTERAÇÕES DO ANEXO I DA DIRECTIVA 72/245/CEE
+    - Adita « 8. EXTENSÃO DA RECEPÇÃO CEE
+    - Adita 8.1. Modelos de veículos modificados para funcionarem com gasolina sem chumbo
+    - Adita 8.2. Modelos de veículos modificados devido a qualquer outra razão
+    - Adita ANEXO IV
+    - Adita ALTERAÇÕES DO ANEXO V DA DIRECTIVA 72/306/CEE
+    - Adita ANEXO VI
+    - Adita ALTERAÇÕES DO ANEXO I DA DIRECTIVA 80/1269/CEE
+    - Adita «8. EXTENSÃO DA RECEPÇÃO CEE
+    - Adita «9. TOLERÂNCIAS NA MEDIÇÃO DA POTÊNCIA ÚTIL
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime ANEXO I — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 70/157/CEE
+    - Suprime ANEXO II — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 70/220/CEE
+    - Suprime ANEXO III — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 72/245/CEE
+    - Suprime ANEXO IV — ALTERAÇÕES DO ANEXO V DA DIRECTIVA 72/306/CEE
+    - Suprime ANEXO V — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 80/1268/CEE
+    - Suprime ANEXO VI — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 80/1269/CEE
 identifiers:
   celex: 31989L0491
   eli: http://data.europa.eu/eli/dir/1989/491/oj
@@ -48,7 +91,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/889c67bb-4174-4d55-b097-f4a57c82db83.0011
   content_url: http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0491-20130102
-  retrieved_at: '2026-10-22T02:55:11Z'
+  retrieved_at: '2026-10-22T14:35:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T08:25:54.410+01:00'
 integrity:
@@ -57,9 +100,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:55:11Z'
-  notes: Texto consolidado 01989L0491-20130102.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:35:57Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1989-491.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -169,29 +212,19 @@ relationships:
   date: '2009-07-20'
 article_structure:
   article_count: 3
-  section_count: 18
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 19
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:55:11Z'
+  checked_at: '2026-10-22T14:35:57Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 89/491/CEE da Comissão, de 17 de Julho de 1989
-
-> 1989L0491 — PT — 02.01.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007R0715) — [REGULAMENTO (CE) N.º 715/2007 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Junho de 2007](http://publications.europa.eu/resource/celex/32007R0715) — L 171 — 1 — 29.6.2007
-
-## DIRECTIVA DA COMISSÃO
 
 de 17 de Julho de 1989
 

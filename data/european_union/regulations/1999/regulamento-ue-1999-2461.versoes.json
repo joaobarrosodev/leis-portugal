@@ -1,0 +1,461 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999R2461:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R2461-20020301",
+ "dre_path": null,
+ "source_lastmod": "2002-03-01",
+ "versions": [
+  {
+   "date": "1999-11-20",
+   "future": false,
+   "celex": "31999R2461",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "20cad7219aa0f9af",
+    "92717c850334a51e",
+    "4758892fb4342d1b",
+    "64d1045f3a3bf4a2",
+    "b9559ee09c8be9a6",
+    "f0d250589a7d123d",
+    "3f9da32a9235812b",
+    "a2f137cc2cf6e7bb",
+    "b7159d039ba1038b",
+    "5e8e63920434e8f3",
+    "96971abfa160bc3d",
+    "778f9eb8d13903e6",
+    "f14b32ee211074a3",
+    "be887dab9e59a52f",
+    "9cbfd8f15f146ace",
+    "893a42374a6340b9",
+    "e50bee29d3ae5fb3",
+    "5adf2fb81826e3a7",
+    "a78d61a0380e3060",
+    "3abb77979023992c",
+    "92ab953516fb697f",
+    "789a1125bfa53eb9",
+    "64fd00074fef0f4f",
+    "3960e508e22a5023",
+    "c49b31564bfac2cf",
+    "e0aa87b5ecfed70a",
+    "0821230a9b6f11ff",
+    "b350c9287120d90d",
+    "c1a6ace5f9063a08",
+    "a3c847b1e94ecad8",
+    "a6aebcf14df4801a",
+    "37eed8dfd3f73eae",
+    "c1cd610622147bd2",
+    "abbfa455f7217eb1",
+    "0edbe095d165cb7a",
+    "b5c9ec3f7523caf9",
+    "c24c0bcf3fbf5faf",
+    "f5780b9b55a2e479",
+    "a75f0b749c95af5d",
+    "1a2daf7c1385cf25",
+    "8baedb62d5dc94f3",
+    "403542ca58996475",
+    "00ede546b1438493",
+    "89f607d883961c1e",
+    "2422021faa6f8e2c",
+    "2aadee9c25b19df5",
+    "d120d1fae52d6e95",
+    "35e1cd01f029d02c",
+    "c80d6f1e72cb1c17"
+   ]
+  }
+ ],
+ "fragments": {
+  "20cad7219aa0f9af": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n° 2461/1999 da Comissão, de 19 de Novembro de 1999, que estabelece normas de execução do Regulamento (CE) n° 1251/1999 do Conselho no que respeita à utilização de terras retiradas para a produção de matérias-primas destinadas ao fabrico, na Comunidade, de produtos não destinados directamente ao consumo humano ou animal** *Jornal Oficial nº L 299 de 20/11/1999 p. 0016 - 0028*\n\nREGULAMENTO (CE) N.o 2461/1999 DA COMISSÃO\n\nde 19 de Novembro de 1999\n\nque estabelece normas de execução do Regulamento (CE) n.o 1251/1999 do Conselho no que respeita à utilização de terras retiradas para a produção de matérias-primas destinadas ao fabrico, na Comunidade, de produtos não destinados directamente ao consumo humano ou animal\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.o 1251/1999 do Conselho, de 17 de Maio de 1999, que institui um sistema de apoio aos produtores de determinadas culturas arvenses(1), e, nomeadamente, o seu artigo 9.o,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.o 1251/1999 substituiu o sistema de apoio concedido aos produtores de determinadas culturas arvenses previsto no Regulamento (CEE) n.o 1765/92 do Conselho(2); é, por conseguinte, necessário modificar, em função do novo regime e tendo em vista a experiência adquirida, o Regulamento (CE) n.o 1586/97 da Comissão, de 29 de Julho de 1997, que estabelece normas de execução para a utilização de terras retiradas para a produção de matérias destinadas ao fabrico, na Comunidade, de produtos não destinados primariamente ao consumo humano ou animal(3). Aquando destas modificações é conveniente, por razões de clareza, proceder à reformulação daquele regulamento;\n\n(2) O n.o 3 do artigo 6.o do Regulamento (CE) n.o 1251/1999 permite a utilização, sem prejuízo do benefício do pagamento previsto no âmbito do regime, das terras retiradas na produção de matérias-primas destinadas ao fabrico, no território da Comunidade, de produtos não destinados directamente ao consumo humano ou animal, desde que sejam aplicados sistemas de controlo eficazes;\n\n(3) É conveniente definir essas matérias-primas e as suas utilizações finais; as matérias-primas e os produtos acabados que é permitido produzir a partir das mesmas devem ser limitados, de modo a salvaguardar os mercados tradicionais, sem, contudo, diminuir as possibilidades de encontrar novos canais de escoamento para essas matérias; é conveniente estabelecer uma distinção entre as matérias-primas que podem, potencialmente, ser utilizadas no consumo humano ou animal e as que o não podem; que é desejável não excluir o cultivo de beterrabas sacarinas, topinambos e chicória nas terras retiradas da produção; essas culturas não podem, porém, beneficiar do pagamento por superfície, devido ao risco de interferências com os mercados do açúcar e dos cereais; é necessário proceder de forma que as referidas culturas respeitem as regras que regulam a utilização de terras retiradas na produção de produtos não alimentares; a fim de evitar a especulação, e para assegurar a transformação da matéria-prima no produto final previsto, deve ser constituída uma garantia, independentemente do facto de não ser efectuado qualquer pagamento;\n\n(4) É necessário definir claramente o papel de cada interveniente principal no mercado; é indispensável estabelecer uma distinção explícita entre as obrigações do requerente, que terminam no momento da entrega da quantidade total de matéria-prima colhida, e as obrigações, incluída uma garantia, do colector, do primeiro transformador ou dos sucessivos transformadores, que têm início no momento da entrega e terminam com a transformação das matérias-primas nos produtos acabados não alimentares previstos; o montante da garantia deve ser suficiente para evitar o risco de as matérias-primas acabarem por ser encaminhadas para o consumo humano ou animal; quanto ao desrespeito das obrigações, é conveniente reportar às disposições do Regulamento (CEE) n.o 3508/92 do Conselho, de 27 de Novembro de 1992, que estabelece um sistema integrado de gestão e de controlo relativo a determinados regimes de ajudas comunitários(4), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1036/1999(5), e do Regulamento (CEE) n.o 2220/85 da Comissão, de 22 de Julho de 1985, que fixa as regras comuns de aplicação do regime de garantias para os produtos agrícolas(6), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1932/1999(7), e (CEE) n.o 3887/92 da Comissão, de 23 de Dezembro de 1992, que estabelece as normas de execução do sistema integrado de gestão e de controlo relativo a determinados regimes de ajudas comunitárias(8), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1678/98(9) da Comissão, que disciplinam a matéria de modo horizontal; é conveniente estabelecer disposições específicas para as culturas bianuais, devido à duração do ciclo produtivo;\n\n(5) É igualmente necessário definir um método de avaliação dos produtos a considerar como não destinados ao consumo humano ou animal e dos produtos destinados a essas utilizações, tendo em vista a quantificação da relação entre esses dois tipos de produtos, que constituirá o critério de identificação do destino final principal;\n\n(6) Por razões de controlo, é necessário exigir que a matéria-prima cultivada seja objecto de um contrato celebrado entre o produtor agrícola, seguidamente \"o requerente\", e um primeiro transformador ou um colector; nos termos do n.o 9 do artigo 6.o do Regulamento (CEE) n.o 3508/92, esse contrato é considerado parte integrante do pedido de ajuda \"superfícies\"; a experiência adquirida revelou que, por razões de controlo, o referido contrato deve ser apresentado pelo requerente e pelo colector ou primeiro transformador às autoridades competentes respectivas antes de qualquer pagamento; podem ser previstas datas de apresentação diferentes, em função dos períodos de sementeira; em circunstâncias específicas, os Estados-Membros podem permitir a transformação de determinadas matérias-primas, directamente na exploração, pelo próprio produtor;\n\n(7) É conveniente precisar que podem ser utilizadas no âmbito do presente regime quantidades equivalentes à matéria-prima colhida de produtos intermédios ou subprodutos desta última; se essas quantidades equivalentes forem provenientes de um Estado-Membro diferente daquele em que a matéria-prima foi colhida, os Estados-Membros devem informar-se mutuamente da transacção, para que possa ser exercido o controlo apropriado;\n\n(8) Por razões de controlo, o requerente deve declarar as superfícies em causa, o rendimento previsto e as quantidades colhidas; é igualmente necessário garantir que o rendimento especificado no contrato celebrado entre o requerente e o colector ou primeiro transformador, consoante o caso, respeite, pelo menos, o rendimento previsto; é necessário fixar um rendimento representativo individual ou, se for caso disso, um rendimento representativo local para as matérias-primas que possam ser objecto de compras de intervenção pública ao abrigo de outro regime ou que sejam produzidas a partir de determinadas sementes de colza, nabo silvestre ou girassol; as localidades utilizadas no cálculo do rendimento representativo local podem corresponder, embora tal não seja obrigatório, às regiões previstas no plano de regionalização previsto no Regulamento (CE) n.o 1251/1999; a eficácia do controlo exercido sobre essas matérias-primas será melhorada se as quantidades entregues corresponderem a esses rendimentos representativos; em casos devidamente justificados, pode ser tolerada uma quebra;\n\n(9) É necessário garantir que a quantidade de matéria-prima colhida na superfície objecto do contrato seja integralmente entregue ao primeiro transformador ou ao colector; para garantir a satisfação desta condição, o requerente deve fornecer uma declaração à autoridade competente de que depende; o requerente deve informar a autoridade competente se não puder fornecer a totalidade ou uma parte da matéria-prima especificada no contrato; é conveniente prever a possibilidade de o contrato ser alterado ou rescindido em caso de circunstâncias específicas fora das condições agronómicas normais; há que definir claramente em que condições a alteração pode levar a uma redução das terras abrangidas pelo contrato sem que o requerente perca o direito ao pagamento;\n\n(10) O regime estará mais de acordo com a prática comercial se for prevista a possibilidade de o colector ou primeiro transformador, consoante o caso, modificar as utilizações finais previstas mencionadas no contrato depois de o requerente entregar a matéria-prima objecto do presente regulamento, mantendo, porém, o regime sob controlo efectivo;\n\n(11) Para respeitar o disposto no memorando de acordo entre a Comunidade Económica Europeia e os Estados Unidos da América relativo a certas sementes oleaginosas, celebrado no âmbito do Acordo Geral sobre Pautas Aduaneiras e Comércio (GATT) aprovado pela Decisão 93/355/CEE do Conselho(10), é necessário introduzir um sistema de controlo para determinar, em equivalente-farinha de soja, as quantidades de subprodutos destinados ao consumo humano ou animal resultantes de sementes de colza, nabo silvestre, girassol e soja cultivadas em terras retiradas para fins que não o consumo humano ou animal;\n\n(12) É necessário estabelecer claramente uma data-limite para a transformação das matérias-primas num dos produtos acabados elegíveis;\n\n(13) Determinadas operações de transporte intracomunitário de matérias-primas e de produtos delas derivados devem ser cobertas por sistemas de controlo que garantam a rastreabilidade desses produtos e matérias-primas e assegurem a conformidade dos mesmos com as disposições do presente regulamento; os referidos sistemas de controlo devem comportar a utilização de declarações e de exemplares de controlo T5, a entregar em conformidade com o Regulamento (CEE) n.o 2454/93 da Comissão, de 2 de Julho de 1993, que fixa determinadas disposições de aplicação do Regulamento (CEE) n.o 2913/92 do Conselho que estabelece o Código Aduaneiro Comunitário(11), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1662/1999(12);\n\n(14) Deve ser prevista uma medida de controlo concreta para cada tipo de interveniente; que, no caso de se verificar que não foi respeitado o disposto no presente regulamento, deve prever-se o reforço do controlo;\n\n(15) Podem ser adoptadas regras simplificadas para as matérias-primas insusceptíveis de serem utilizadas no consumo humano ou animal;\n\n(16) Na aplicação do presente regime, devem ser tidas em conta as condições específicas eventualmente existentes em determinados Estados-Membros - em particular no referente a controlo, saúde pública ou ambiente ou a disposições de direito penal -, sem, todavia, acentuar as diferenças de tratamento desses factores na Comunidade; para o efeito, as propostas de exclusão de qualquer matéria-prima constante dos anexos I ou II devem ser sempre devidamente justificadas e notificadas à Comissão pelo Estado-Membro em causa antes de serem postas em prática;\n\n(17) É conveniente prever que as matérias-primas cultivadas em terras retiradas e os produtos delas derivados não podem, em princípio, beneficiar de outras ajudas comunitárias financiadas pelo FEOGA no quadro do Regulamento (CE) n.o 1257/1999 do Conselho, de 17 de Maio de 1999, relativo ao apoio do Fundo Europeu de Orientação e Garantia Agrícola (FEOGA) ao desenvolvimento rural e que altera e revoga determinados regulamentos(13), e do Regulamento (CE) n.o 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum(14);\n\n(18) Deve proceder-se a uma avaliação do regime, com base em informações relativas à sua aplicação efectiva nos Estados-Membros, para verificar o respeito dos objectivos da reforma da política agrícola comum;\n\n(19) O regime previsto no Regulamento (CE) n.o 1251/1999 será aplicado a partir da campanha de 2000/2001; para que os produtores interessados possam efectuar as sementeiras e apresentar os contratos e os pedidos de pagamento por superfície a título da referida campanha no conhecimento e respeito das normas de execução do novo regime, é conveniente que as disposições do presente regulamento entrem em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias;\n\n(20) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão dos Cereais,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "92717c850334a51e": {
+   "fragment_id": "CAPÍTULO I — Objecto e definições",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Objecto e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Objecto e definições"
+  },
+  "4758892fb4342d1b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. As terras retiradas podem ser utilizadas, em conformidade com o n.o 3 do artigo 6.o do Regulamento (CE) n.o 1251/1999, para a produção das matérias-primas enumeradas nos anexos I e II destinadas aos fins previstos no anexo III.\n\nPodem beneficiar do pagamento previsto no n.o 2 do artigo 2.o do Regulamento (CE) n.o 1251/1999 (seguidamente designado \"o pagamento\") nas condições previstas no presente regulamento.\n\nAs terras retiradas utilizadas na produção de matérias-primas constantes do anexo I ou do anexo II estão sujeitas às disposições do Regulamento (CE) n.o 2316/1999 da Comissão(15). Todavia, o cultivo dessas matérias-primas é considerado compatível com as referidas disposições. Por outro lado, em derrogação do n.o 2 do artigo 19.o daquele regulamento, as superfícies em causa não terão de estar retiradas a partir de 15 de Janeiro, desde que se encontrem preenchidas as exigências do presente regulamento.\n\nNão será efectuado qualquer pagamento relativamente a terras retiradas onde se cultivem beterraba sacarina, topinambos ou chicória.\n\n2. Todavia, todas as disposições do capítulo II se mantêm aplicáveis, tal como se aplicariam se fosse efectuado o pagamento, à beterraba sacarina, aos topinambos e à chicória cultivados em terras retiradas."
+  },
+  "64d1045f3a3bf4a2": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do disposto no presente regulamento, entende-se por:\n\na) \"Requerente\": o autor do pedido do pagamento;\n\nb) \"Colector\": o signatário do contrato previsto no artigo 4.o que compre, por conta própria, matérias-primas constantes do anexo I com vista a utilizações finais previstas no anexo III;\n\nc) \"Primeiro transformador\": o utilizador de matérias-primas que procede à sua primeira transformação com vista à obtenção de um ou vários produtos constantes do anexo III,"
+  },
+  "b9559ee09c8be9a6": {
+   "fragment_id": "CAPÍTULO II — Matérias-primas que necessitam de ser objecto de um contrato",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Matérias-primas que necessitam de ser objecto de um contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Matérias-primas que necessitam de ser objecto de um contrato"
+  },
+  "f0d250589a7d123d": {
+   "fragment_id": "Secção 1 — Utilização da matéria-prima. Contrato e pedido de pagamento",
+   "type": "divisao",
+   "heading": "Secção 1 — Utilização da matéria-prima. Contrato e pedido de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 1 — Utilização da matéria-prima. Contrato e pedido de pagamento"
+  },
+  "3f9da32a9235812b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Só podem ser cultivadas as matérias-primas enumeradas no anexo I (seguidamente designado \"as matérias primas\") em terras retiradas se o seu destino final principal for o fabrico de um dos produtos constantes do anexo III. O valor económico dos produtos não alimentares obtidos da transformação dessas matérias-primas deve ser mais elevado do que o de todos os outros produtos destinados ao consumo humano ou animal obtidos da mesma transformação, de acordo com o método de valorização previsto no n.o 3 do artigo 13.o\n\n2. As matérias-primas cultivadas em terras retiradas devem ser objecto do contrato referido no artigo 4.o\n\n3. O requerente entregará obrigatoriamente toda a matéria-prima colhida. O colector ou primeiro transformador receberá obrigatoriamente toda a matéria-prima entregue pelo requerente e garantirá a utilização na Comunidade de uma quantidade equivalente da mesma matéria-prima no fabrico de um ou vários produtos finais constantes do anexo III.\n\nSe o colector ou primeiro transformador utilizar a matéria-prima efectivamente colhida no fabrico de um produto intermédio ou de um subproduto, pode utilizar uma quantidade equivalente desse produto intermédio ou subproduto no fabrico de um ou vários dos produtos finais referidos no anexo III.\n\nSe o colector ou primeiro transformador utilizar a possibilidade prevista no primeiro ou segundo parágrafos, informará do facto a autoridade competente junto da qual tiver sido constituída a garantia. Se a referida quantidade equivalente for utilizada num Estado-Membro diferente daquele em que a matéria-prima foi colhida, as autoridades competentes dos Estados-Membros em causa informar-se-ão mutuamente da transacção.\n\n4. Em derrogação dos n.os 2 e 3, os Estados-Membros podem autorizar um requerente a transformar em biogás do código NC 2711 29 00, na sua exploração agrícola, toda a matéria-prima colhida em determinadas superfícies retiradas da produção, desde que:\n\na) O requerente assuma o compromisso, através de uma declaração que substituirá o contrato referido no artigo 4.o, de transformar directamente a matéria-prima objecto dessa mesma declaração;\n\nb) O Estado-Membro em questão ponha em prática medidas de controlo adequadas, que garantam a transformação em biogás do código NC 2711 29 00.\n\nAs medidas referidas no primeiro parágrafo e as suas alterações sucessivas serão comunicadas à Comissão antes do dia 30 de Novembro do ano anterior ao ano em que terá lugar a colheita à qual serão aplicáveis.\n\nOs artigos 4.o a 21.o são aplicáveis por analogia."
+  },
+  "a2f137cc2cf6e7bb": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O requerente apresentará à autoridade competente respectiva, juntamente com o seu pedido de pagamento, um contrato celebrado entre ele próprio e um colector ou primeiro transformador.\n\n2. O requerente fará constar do contrato pelo menos o seguinte:\n\na) O nome e endereço das partes contratantes;\n\nb) A duração do contrato;\n\nc) As espécies de cada matéria-prima em causa e a superfície correspondente a cada espécie;\n\nd) A quantidade previsível de cada espécie de matéria-prima e as condições eventualmente aplicáveis à sua entrega. Essa quantidade respeitará, pelo menos, o rendimento previsto que a autoridade competente considerar representativo para a matéria-prima em causa. Esse rendimento previsto terá em conta, nomeadamente, o rendimento médio eventualmente fixado para a região;\n\ne) O compromisso do respeito das obrigações previstas no n.o 3 do artigo 3.o;\n\nf) As utilizações finais principais previstas para a matéria-prima, devendo, cada uma delas, satisfazer as condições enunciadas no n.o 1 do artigo 3.o e no n.o 3 do artigo 13.o\n\n3. O requerente zelará por que o contrato seja celebrado a tempo de o colector ou primeiro transformador apresentar uma cópia do mesmo à autoridade competente respectiva dentro dos prazos fixados no n.o 1 do artigo 13.o\n\n4. Sempre que incida sobre sementes de nabo silvestre, colza ou girassol ou soja dos códigos NC ex 1205 00 90, 1206 00 91, 1206 00 99 ou 1201 00 90, o requerente zelará por que, além das informações referidas no n.o 2, o contrato especifique a quantidade prevista de subprodutos a obter não destinados ao consumo humano ou animal.\n\n5. Os Estados-Membros podem exigir que, por razões de controlo, cada requerente só possa celebrar um contrato de fornecimento relativamente a cada matéria-prima."
+  },
+  "b7159d039ba1038b": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nNo pedido de pagamento apresentado anualmente à autoridade competente respectiva, o requerente identificará a parcela ou parcelas em que serão cultivadas as matérias-primas. Relativamente a cada parcela retirada e a cada matéria-prima nela cultivada, devem ser fornecidas as seguintes informações:\n\na) As espécies de matéria-prima e respectivas variedades;\n\nb) O rendimento previsto para cada espécie e variedade.\n\nSe a mesma espécie ou variedade também for cultivada em terras não retiradas da mesma exploração, serão indicados essa espécie ou variedade, o rendimento previsto e as parcelas em causa e a sua localização e identificação."
+  },
+  "5e8e63920434e8f3": {
+   "fragment_id": "Secção 2 — Modificação ou rescisão do contrato. Obrigações do requerente",
+   "type": "divisao",
+   "heading": "Secção 2 — Modificação ou rescisão do contrato. Obrigações do requerente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 2 — Modificação ou rescisão do contrato. Obrigações do requerente"
+  },
+  "96971abfa160bc3d": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSe as partes no contrato o alterarem ou rescindirem depois de o requerente ter apresentado um pedido de pagamento, este apenas poderá manter o seu pedido de pagamento se informar a autoridade competente da alteração ou rescisão, de modo a tornar possível a realização de todos os controlos necessários, o mais tardar até à data-limite fixada para a alteração dos pedidos de pagamento no Estado-Membro em causa."
+  },
+  "778f9eb8d13903e6": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nSem prejuízo do disposto no artigo 6.o, se o requerente informar a autoridade competente de que, devido a circunstâncias específicas, não pode fornecer a totalidade ou uma parte da matéria-prima especificada no contrato, a autoridade competente pode, depois de ter obtido elementos comprovativos suficientes dessas circunstâncias específicas, autorizar que o contrato seja alterado tanto quanto se justifique ou seja rescindido.\n\nSe a alteração do contrato der lugar a uma redução das terras sobre as quais incide ou se o contrato for rescindido, o requerente, para manter o seu direito ao pagamento:\n\na) Terá de proceder à retirada das terras correspondentes, pelos meios autorizados pela autoridade competente;\n\nb) Não poderá vender, ceder ou utilizar a matéria-prima que tiver sido excluída do contrato."
+  },
+  "f14b32ee211074a3": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nSem prejuízo do disposto no artigo 6.o, o colector ou primeiro transformador pode alterar as utilizações finais principais previstas para as matérias-primas, referidas no n.o 2, alínea f), do artigo 4.o, depois de as matérias-primas objecto do contrato lhe terem sido entregues e uma vez preenchidas as condições enunciadas no n.o 1 do artigo 10.o e no n.o 4, primeiro parágrafo, do artigo 13.o\n\nA alteração das utilizações finais deve processar-se de modo a satisfazer as condições enunciadas no n.o 1 do artigo 3.o e no n.o 3 do artigo 13.o\n\nO colector ou primeiro transformador informará previamente à autoridade competente respectiva, de modo a tornar possível a realização de todos os controlos necessários."
+  },
+  "be887dab9e59a52f": {
+   "fragment_id": "Secção 3 — Rendimentos representativos e quantidades colhidas",
+   "type": "divisao",
+   "heading": "Secção 3 — Rendimentos representativos e quantidades colhidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 3 — Rendimentos representativos e quantidades colhidas"
+  },
+  "9cbfd8f15f146ace": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. No caso das matérias-primas que possam beneficiar de uma garantia de compra de intervenção pública ao abrigo de outro regime, bem como no caso das sementes de nabo silvestre e de colza do código NC ex 1205 00 90 (excepto as variedades com elevado teor de ácido erúcico) e das sementes de girassol do código NC 1206 00 91 ou do código NC 1206 00 99, os Estados-Membros estabelecerão anualmente, antes da colheita, os rendimentos representativos que é de esperar obter. Os cálculos dos rendimentos representativos serão estabelecidos:\n\na) Individualmente, para cada uma das explorações em causa; ou\n\nb) Localmente.\n\n2. No caso previsto na alinea b) do n.o 1, os Estados-Membros seleccionarão as localidades a utilizar no cálculo desses rendimentos, localidades essas que podem corresponder, embora tal não seja obrigatório, às regiões previstas no plano de regionalização respectivo, estabelecido em conformidade com o Regulamento (CE) n.o 1251/1999. Todos os anos, antes da colheita, os Estados-Membros informarão os requerentes em questão dos referidos rendimentos representativos:\n\na) O mais tardar em 31 de Julho, no caso das matérias-primas que possam beneficiar de uma garantia de compra de intervenção pública ao abrigo de outro regime e das sementes de nabo silvestre e de colza referidas no n.o 1;\n\nb) O mais tardar em 31 de Agosto, no caso das sementes de girassol referidas no n.o 1."
+  },
+  "893a42374a6340b9": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. O requerente declarará à autoridade competente respectiva a quantidade total de cada espécie de matéria-prima colhida e confirmará a quantidade entregue e a quem entregou a matéria-prima.\n\n2. Relativamente às matérias-primas a que se refere o artigo 9.o, a quantidade de facto entregue pelo requerente ao colector ou primeiro transformador deve respeitar, pelo menos, o rendimento representativo individual ou, se for caso disso, o rendimento representativo local aplicável às parcelas em causa, rendimento esse que terá sido estabelecido pelos Estados-Membros de acordo com aquele artigo.\n\nTodavia, em casos devidamente justificados, os Estados-Membros podem aceitar excepcionalmente uma quebra máxima de 10 % desse rendimento.\n\nPor outro lado, se a autoridade competente tiver autorizado a alteração ou rescisão do contrato, em conformidade com o artigo 7.o, pode reduzir, tanto quanto se justifique, a quantidade que o requerente deveria entregar com base no primeiro parágrafo do presente número."
+  },
+  "e50bee29d3ae5fb3": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nSe, relativamente a uma determinada matéria-prima, o requerente não entregar a quantidade exigível de acordo com o presente regulamento, será considerado, para efeitos do n.o 2 do artigo 9.o do Regulamento (CEE) n.o 3887/92, como não tendo cumprido todas as obrigações que lhe incumbem, em relação às parcelas retiradas destinadas a fins não alimentares, no que se refere a uma superfície calculada multiplicando a superfície das terras retiradas que tiver utilizado para a produção da matéria-prima em conformidade com o referido regulamento pela quebra proporcional na entrega dessa mesma matéria-prima."
+  },
+  "5adf2fb81826e3a7": {
+   "fragment_id": "Secção 4 — Condições para o pagamento",
+   "type": "divisao",
+   "heading": "Secção 4 — Condições para o pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 4 — Condições para o pagamento"
+  },
+  "a78d61a0380e3060": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Relativamente à retirada de terras nas condições previstas no Regulamento (CE) n.o 1251/1999, o pagamento ao requerente pode ter lugar antes da transformação da matéria-prima. Esse pagamento só será, porém, efectuado depois da entrega ao colector ou primeiro transformador da quantidade de matéria-prima que devia ser entregue de acordo com o presente regulamento e se:\n\na) Tiver sido efectuada a declaração prevista no artigo 10.o;\n\nb) Tiver sido apresentada uma cópia do contrato à autoridade competente do colector ou primeiro transformador, estiverem satisfeitas as condições enunciadas no n.o 2 do artigo 13.o e tiverem sido transmitidas pelo colector ou primeiro transformador as informações especificadas no n.o 4, primeiro parágrafo, do artigo 13.o;\n\nc) A autoridade competente tiver recebido prova da constituição integral da garantia prevista no n.o 2 do artigo 15.o;\n\nd) A autoridade competente encarregada do pagamento tiver verificado, relativamente a cada pedido, que se encontram satisfeitas as condições enunciadas no artigo 4.o\n\n2. No caso das culturas bianuais, em que a colheita e, consequentemente, a entrega da matéria-prima só têm lugar no segundo ano de cultivo, o pagamento será efectuado durante os dois anos seguintes à celebração do contrato referido no artigo 4.o, desde que as autoridades competentes comprovem que:\n\na) As obrigações previstas nas alíneas b) (com excepção da comunicação das informações especificadas no n.o 4, primeiro parágrafo, do artigo 13.o) e d) do n.o 1 são respeitadas a partir do primeiro ano de cultivo;\n\nb) As obrigações previstas nas alíneas a) e c) do n.o 1, bem como a comunicação das informações especificadas no n.o 4, primeiro parágrafo, do artigo 13.o, são respeitadas no segundo ano.\n\nTodavia, no respeitante ao primeiro ano de cultivo, o pagamento só será efectuado se a autoridade competente tiver recebido prova da constituição de 50 % da garantia referida no n.o 2 do artigo 15.o"
+  },
+  "3abb77979023992c": {
+   "fragment_id": "Secção 5 — Contrato e obrigações do colector ou do primeiro transformador",
+   "type": "divisao",
+   "heading": "Secção 5 — Contrato e obrigações do colector ou do primeiro transformador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 5 — Contrato e obrigações do colector ou do primeiro transformador"
+  },
+  "92ab953516fb697f": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. O colector ou primeiro transformador apresentará uma cópia do contrato à autoridade competente respectiva:\n\na) No que diz respeito às sementeiras de matérias-primas a efectuar entre 1 de Julho e 31 de Dezembro, ambos inclusive, até 31 de Janeiro do ano seguinte;\n\nb) No que diz respeito às sementeiras de matérias-primas a efectuar entre 1 de Janeiro e 30 de Junho, ambos inclusive, até à data-limite para a apresentação do pedido de pagamento no ano e Estado-Membro em causa.\n\nSe, num determinado ano, o requerente e o colector ou primeiro transformador alterarem ou rescindirem o contrato antes da data referida no artigo 6.o, o colector ou primeiro transformador apresentará uma cópia do contrato alterado ou rescindido à autoridade competente respectiva até àquela data.\n\n2. A autoridade competente referida no n.o 1 verificará se o contrato apresentado satisfaz as condições enunciadas no n.o 1 do artigo 3.o A autoridade competente do requerente deve ser informada se essas condições não se encontrarem satisfeitas.\n\nA fim de permitir essa verificação, o colector ou primeiro transformador transmitirá à autoridade competente respectiva as informações necessárias relativas à cadeia de transformação em causa, designadamente as relativas aos preços e aos coeficientes técnicos de transformação utilizados para determinar as quantidades de produtos finais susceptíveis de serem obtidas. Esses coeficientes serão idênticos aos previstos no n.o 1 do artigo 21.o\n\n3. Para verificar o respeito do n.o 1 do artigo 3.o, a autoridade competente em causa comparará, com base nas informações referidas no n.o 2, a soma dos valores de todos os produtos não alimentares com a soma dos valores de todos os demais produtos destinados ao consumo humano ou animal resultantes da mesma transformação. Cada valor será o resultado da quantidade de produto multiplicada pela média dos preços à saída da fábrica verificados na campanha precedente. Se esses preços não estiverem disponíveis, a autoridade competente estabelecerá os preços adequados, com base, nomeadamente, nas informações a que se refere o n.o 2.\n\n4. O colector ou primeiro transformador que tiver recebido a matéria-prima entregue pelo requerente comunicará à autoridade competente respectiva, num prazo a fixar pelos Estados-Membros e de modo a assegurar que o pagamento possa ser efectuado no período referido no artigo 8.o do Regulamento (CE) n.o 1251/1999, a quantidade de matéria-prima recebida, indicando a espécie, o nome e endereço da parte contratante que tiver procedido à entrega da matéria-prima, o local de entrega e a referência do contrato.\n\nO colector comunicará o nome e endereço do primeiro transformador da matéria-prima recebida à autoridade competente respectiva nos 40 dias úteis seguintes à data da entrega da matéria-prima a esse primeiro transformador. Por sua vez, o primeiro transformador comunicará à autoridade competente respectiva, nos 40 dias úteis seguintes à recepção da matéria-prima, o nome e endereço do colector que tiver entregue a matéria-prima, a quantidade e tipo de matéria-prima recebida e a data de entrega.\n\nSe a entrega da matéria-prima ao primeiro transformador não for efectuada directamente pelo colector, este último comunicará à autoridade competente respectiva o nome e endereço das partes intervenientes no circuito de entrega, incluindo o nome e endereço do primeiro transformador. Essa comunicação será efectuada nos 40 dias úteis seguintes à recepção da matéria-prima pelo primeiro transformador.\n\nPor sua vez, cada parte interveniente no circuito comunicará à autoridade competente respectiva, no prazo de 40 dias úteis, a contar da transacção o nome e endereço do comprador da matéria-prima e a quantidade vendida a este último.\n\nNo caso de serem diferentes, a autoridade competente do primeiro transformador e a autoridade competente de cada parte interveniente no circuito de entrega da matéria-prima referida no terceiro parágrafo comunicarão à autoridade competente do colector as quantidades fornecidas ao primeiro transformador.\n\nSe o Estado-Membro do colector ou primeiro transformador não for aquele em que a matéria-prima foi cultivada, a autoridade competente em causa informará a autoridade competente do requerente, nos 40 dias úteis seguintes à recepção das comunicações referidas nos primeiro e terceiro parágrafos, da quantidade total de matéria-prima entregue."
+  },
+  "789a1125bfa53eb9": {
+   "fragment_id": "Secção 6 — Equivalência dos subprodutos das oleaginosas em farinha de soja",
+   "type": "divisao",
+   "heading": "Secção 6 — Equivalência dos subprodutos das oleaginosas em farinha de soja",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 6 — Equivalência dos subprodutos das oleaginosas em farinha de soja"
+  },
+  "64fd00074fef0f4f": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Sem prejuízo do artigo 13.o, a autoridade competente referida no n.o 1 daquele artigo informará a Comissão o mais cedo possível, mas nunca depois do dia 31 de Maio do ano em que a matéria-prima será colhida, da quantidade total prevista de subprodutos destinados ao consumo humano ou animal resultante dos contratos referidos no artigo 4.o, sempre que tais contratos incidirem sobre sementes de nabo silvestre, de colza ou de girassol ou soja dos códigos NC ex 1205 00 90, 1206 00 91, 1206 00 99 ou 1201 00 90.\n\nA autoridade competente calculará a referida quantidade por aplicação das seguintes equivalências:\n\na) 100 kg de sementes de nabo silvestre e/ou de colza do código NC 1205 00 90 equivalem a 56 kg de subprodutos;\n\nb) 100 kg de sementes de girassol do código NC 1206 00 91 ou do código NC 1206 00 99 equivalem a 56 kg de subprodutos;\n\nc) 100 kg de soja do código NC 1201 00 90 equivalem a 78 kg de subprodutos.\n\nA quantidade prevista de subprodutos a obter referida no n.o 4 do artigo 4.o será deduzida da quantidade prevista de todos os subprodutos calculada de acordo com o segundo parágrafo.\n\n2. A Comissão, com base nas informações previstas no n.o 1, calculará a quantidade total prevista de subprodutos destinados ao consumo humano ou animal, expressa em equivalente-farinha de soja."
+  },
+  "3960e508e22a5023": {
+   "fragment_id": "Secção 7 — Garantias",
+   "type": "divisao",
+   "heading": "Secção 7 — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 7 — Garantias"
+  },
+  "c49b31564bfac2cf": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. O colector ou primeiro transformador constituirá integralmente a garantia prevista no n.o 2 junto da autoridade competente respectiva até à data-limite para a apresentação do pedido de pagamento no ano e Estado-Membro em causa.\n\n2. Relativamente a cada matéria-prima, a garantia será calculada à razão de 250 euros por hectare, multiplicados pela superfície de todas as terras retiradas no âmbito do presente regime que tenham sido objecto de um contrato assinado pelo colector ou primeiro transformador e utilizadas na produção da matéria-prima em causa.\n\n3. Se o contrato for alterado ou rescindido nas condições previstas no artigo 6.o ou no artigo 7.o, a garantia constituída será ajustada em conformidade.\n\n4. Relativamente a cada matéria-prima, a garantia será liberada proporcionalmente à quantidade transformada no principal produto final não alimentar previsto, desde que a autoridade competente do colector ou primeiro transformador tenha obtido prova de que essa quantidade de matéria-prima foi transformada de acordo com as condições enunciadas no n.o 2, alinea f), do artigo 4.o, tidas em conta, se for caso disso, as alterações eventualmente efectuadas de acordo com o artigo 8.o\n\n5. Sem prejuízo do disposto no n.o 4, se a garantia:\n\na) Tiver sido constituída pelo colector, será liberada depois de a matéria-prima em causa ter sido entregue ao primeiro transformador;\n\nb) Tiver sido constituída por um transformador, será liberada depois de a matéria-prima ou os produtos intermédios objecto do contrato terem sido entregues a outro transformador,\n\ndesde que a autoridade competente da parte que vende ou cede as mercadorias em questão disponha de prova de que a parte que as comprou ou recebeu constituiu uma garantia equivalente junto da autoridade competente respectiva."
+  },
+  "e0aa87b5ecfed70a": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. As autoridades competentes dos Estados-Membros em que se realizem actividades de transformação tomarão as medidas que se imponham para assegurar que os transformadores instalados no respectivo território forneçam as garantias necessárias relativamente ao cumprimento dos compromissos assumidos.\n\n2. A transformação, a título principal, das quantidades de matérias-primas nos produtos finais especificados no contrato constitui exigência principal, na acepção do artigo 20.o do Regulamento (CEE) n.o 2220/85.\n\nA transformação num ou mais produtos finais constantes do anexo III deve ser efectuada até ao dia 31 de Julho, inclusive, do segundo ano seguinte ao da colheita da matéria-prima pelo requerente.\n\n3. As seguintes obrigações do colector ou transformador constituem exigências subordinadas, na acepção do artigo 20.o do Regulamento (CEE) n.o 2220/85:\n\na) A obrigação de receber toda a matéria-prima entregue pelo requerente, em conformidade com o n.o 3 do artigo 3.o,\n\nb) A obrigação de apresentar uma cópia do contrato, em conformidade com o n.o 1 do artigo 13.o,\n\nc) A obrigação de proceder às comunicações referidas no n.o 4, primeiro, segundo e terceiro parágrafos, do artigo 13.o,\n\nd) A obrigação de constituir a garantia prevista no n.o 1 do artigo 15.o"
+  },
+  "0821230a9b6f11ff": {
+   "fragment_id": "Secção 8 — Documentos para a venda, cessão ou entrega num outro Estado-Membro, ou para a exportação",
+   "type": "divisao",
+   "heading": "Secção 8 — Documentos para a venda, cessão ou entrega num outro Estado-Membro, ou para a exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 8 — Documentos para a venda, cessão ou entrega num outro Estado-Membro, ou para a exportação"
+  },
+  "b350c9287120d90d": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nSe o colector ou primeiro transformador vender ou ceder matérias-primas ou produtos intermédios e/ou co-produtos ou subprodutos objecto do contrato previsto no artigo 4.o a um transformador estabelecido noutro Estado-Membro, o produto em causa será acompanhado de um exemplar de controlo T5 emitido em conformidade com o Regulamento (CEE) n.o 2454/93.\n\nNa casa 104 do exemplar de controlo T5 será inscrita, na rubrica \"Outros\", uma das seguintes menções:\n\n- Producto destinado a su transformación o entrega de acuerdo con lo establecido en el artículo 4 del Reglamento (CE) n° 2461/1999 de la Comisión\n\n- Skal anvendes til forarbejdning eller levering i overensstemmelse med artikel 4 i Kommissionens forordning (EF) nr. 2461/1999\n\n- Zur Verarbeitung oder Lieferung gemäß Artikel 4 der Verordnung (EG) Nr. 2461/1999 der Kommission zu verwenden\n\n- Πρέπει να χρησιμοποιηθεί για μεταποίηση ή παράδοση σύμφωνα με το άρθρο 4 του κανονισμού (ΕΚ) αριθ. 2461/1999 της Επιτροπής\n\n- To be used for processing or delivery in accordance with Article 4 of Commission Regulation (EC) No 2461/1999\n\n- À utiliser pour transformation ou livraison conformément aux dispositions de l'article 4 du règlement (CE) n° 2461/1999 de la Commission\n\n- Da consegnare o trasformare conformemente all'articolo 4 del regolamento (CE) n. 2461/1999 della Commissione\n\n- Te gebruiken voor verwerking of aflevering overeenkomstig artikel 4 van Verordening (EG) nr. 2461/1999 van de Commissie\n\n- A utilizar para transformação ou entrega em conformidade com o artigo 4.o do Regulamento (CE) n.o 2461/1999 da Comissão\n\n- Käytetään jalostamiseen tai toimittamiseen komission asetuksen (EY) N:o 2461/1999 mukaisesti\n\n- Används till bearbetning eller leverans i enlighet med kommissionens förordning (EG) nr 2461/1999.\n\nO disposto no primeiro e segundo parágrafos é aplicável a todas as vendas subsequentes a transformadores estabelecidos noutros Estados-Membros até ao fabrico do produto final previsto no contrato. Tratando-se de um co-produto ou de um subproduto, só é aplicável se o produto beneficiar de restituições à exportação no caso de ser obtido a partir de matérias-primas cultivadas fora do âmbito do presente regime."
+  },
+  "c1a6ace5f9063a08": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. Se a entrega da matéria-prima ao primeiro transformador não for efectuada, total ou parcialmente, por um colector estabelecido num Estado-Membro diferente do Estado-Membro do primeiro transformador, o colector preencherá um exemplar de controlo T5, especificando na casa 104, na rubrica \"Outros\":\n\na) A quantidade por si directamente entregue ao primeiro transformador;\n\nb) O nome e endereço do primeiro transformador;\n\nc) O nome e endereço das demais partes intervenientes no circuito de entrega, ainda que estas estejam instaladas no Estado-Membro em que foi efectuada a primeira transformação;\n\nd) As quantidades entregues por cada uma das outras partes intervenientes.\n\n2. As partes intervenientes referidas na alinea c) do n.o 1 que não estiverem estabelecidas no Estado-Membro do primeiro transformador preencherão um exemplar de controlo T5, inscrevendo na casa 104, na rubrica \"Outros\", o nome e endereço do colector e as informações previstas nas alíneas a) e b) do mesmo número."
+  },
+  "a3c847b1e94ecad8": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nSe um ou vários produtos finais, produtos intermédios, co-produtos ou subprodutos objecto do contrato previsto no artigo 4.o se destinarem a exportação para países terceiros, o seu transporte em território comunitário será coberto por um exemplar de controlo T5 emitido pela autoridade competente do Estado-Membro em que os produtos tiverem sido obtidos.\n\nNa casa 104 do exemplar de controlo T5, na rubrica \"Outros\", será inscrita uma das seguintes menções:\n\n- Este producto no podrá acogerse a ninguna de las medidas previstas en el apartado 2 del artículo 1 del Reglamento (CE) n° 1258/1999 del Consejo\n\n- De finansieringsforanstaltninger, der er omhandlet i artikel 1, stk. 2, i Rådets forordning (EF) nr. 1258/1999 kan ikke anvendes på dette produkt\n\n- Dieses Erzeugnis kommt für keine Finanzierungen gemäß Artikel 1 Absatz 2 der Verordnung (EG) Nr. 1258/1999 des Rates in Betracht\n\n- Το προϊόν αυτό δεν μπορεί να επωφεληθεί από τα μέτρα που προβλέπονται στο άρθρο 1 παράγραφος 2 του κανονισμού (ΕΚ) αριθ. 1258/1999 του Συμβουλίου\n\n- This product shall not qualify for any benefit pursuant to Article 1(2) of Council Regulation (EC) No 1258/1999\n\n- Ce produit ne peut pas bénéficier des financements prévus à l'article 1er paragraphe 2 du règlement (CE) n° 1258/1999 du Conseil\n\n- Questo prodotto non può beneficiare delle misure di cui all'articolo 1, paragrafo 2 del regolamento (CE) n. 1258/1999 del Consiglio\n\n- Dit product komt niet in aanmerking voor financieringen als bedoeld in artikel 1, lid 2, van Verordening (EG) nr. 1258/1999 van de Raad\n\n- O presente produto não pode beneficiar de medidas ao abrigo do n.o 2 do artigo 1.o do Regulamento (CE) n.o 1258/1999 do Conselho\n\n- Tähän tuotteeseen ei sovelleta neuvoston asetuksen (EY) N:o 1258/1999 1 artiklan 2 kohdan mukaisia toimenpiteitä\n\n- De åtgärder som avses i artikel 1.2. i rådets förordning (EG) nr 1258/1999 kan inte användas för denna produkt.\n\nO disposto no primeiro e no segundo parágrafos só é aplicável se o produto final, constante do anexo III, produto intermédio, co-produto ou subproduto objecto do contrato previsto no artigo 4.o beneficiar de restituições à exportação no caso de ser obtido a partir de matérias-primas cultivadas fora do âmbito do presente regime."
+  },
+  "a6aebcf14df4801a": {
+   "fragment_id": "Secção 9 — Controlos",
+   "type": "divisao",
+   "heading": "Secção 9 — Controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 9 — Controlos"
+  },
+  "37eed8dfd3f73eae": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nOs Estados-Membros determinarão os registos a manter pelos colectores e transformadores.\n\nNo caso do colector, esses registos conterão, pelo menos, os seguintes elementos:\n\na) As quantidades de todas as matérias-primas compradas e vendidas para transformação ao abrigo do presente regime;\n\nb) O nome e endereço dos compradores/transformadores subsequentes;\n\nNo caso do transformador, os registos conterão, com uma regularidade a estabelecer pela autoridade competente, pelo menos os seguintes elementos:\n\na) As quantidades de todas as matérias-primas compradas para transformação;\n\nb) As quantidades de matérias-primas transformadas e as quantidades e tipos de produtos finais, co-produtos e subprodutos obtidos a partir dessas mesmas matérias-primas;\n\nc) As perdas de transformação;\n\nd) As quantidades destruídas e a justificação de tal acção;\n\ne) As quantidades e tipos de produtos vendidos ou cedidos pelo transformador e os preços obtidos;\n\nf) O nome e endereço dos compradores/transformadores subsequentes."
+  },
+  "c1cd610622147bd2": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. A autoridade competente do colector e as autoridades competentes dos Estados-Membros em que tenham sido efectuadas as transformações procederão a controlos, nomeadamente a controlos físicos e ao exame dos documentos comerciais, a fim de se certificarem, no caso do colector, da correspondência entre a compra de matérias-primas e a respectiva entrega e, no caso de transformador, da correspondência entre as entregas de matérias-primas, produtos finais, co-produtos e subprodutos.\n\nEstas correspondências devem ser verificadas designadamente com base nos coeficientes técnicos de transformação das matérias-primas em questão.\n\nCaso existam, devem ser utilizados os coeficientes previstos na legislação comunitária em matéria de exportação. Caso contrário, deve recorrer-se a outros coeficientes eventualmente previstos na legislação comunitária. Em todos os outros casos, serão nomeadamente utilizados os coeficientes geralmente aceites pela indústria transformadora em causa.\n\nOs controlos visam igualmente garantir a utilização final correcta da matéria-prima, dos co-produtos e dos subprodutos, bem como o respeito do n.o 1 do artigo 3.o e do n.o 3 do artigo 13.o\n\nEsses controlos abrangerão, pelo menos, 10 % das transacções e das operações de transformação realizadas no Estado-Membro e serão seleccionados pela autoridade competente com base numa análise de riscos e num elemento representativo dos contratos apresentados.\n\n2. As autoridades competentes reforçarão os controlos previstos no n.o 1 e informarão de imediato a Comissão nos seguintes casos:\n\na) Irregularidades que afectem pelo menos 3 % das operações de controlo referidas no n.o 1;\n\nb) Diferença em relação aos resultados anteriores de um transformador;\n\nc) Detecção de operações de transformação em que:\n\ni) as quantidades ou o valor dos produtos finais, subprodutos ou co-produtos sejam desproporcionados, tendo em conta os coeficientes referidos no segundo e terceiro parágrafos do n.o 1, ou\n\nii) se verifiquem diferenças em relação aos critérios de valorização económica dos produtos constantes do n.o 1 do artigo 3.o e do n.o 3 do artigo 13.o"
+  },
+  "abbfa455f7217eb1": {
+   "fragment_id": "CAPÍTULO III — Matérias-primas que não necessitam de ser objecto de um contrato",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — Matérias-primas que não necessitam de ser objecto de um contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Matérias-primas que não necessitam de ser objecto de um contrato"
+  },
+  "0edbe095d165cb7a": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nAs matérias-primas constantes do anexo II (seguidamente designado \"as matérias-primas\") podem ser cultivadas nas terras retiradas desde que a sua utilização final seja o fabrico de um dos produtos constantes do anexo III.\n\nNão serão objecto de contrato."
+  },
+  "b5c9ec3f7523caf9": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. Para beneficiar do pagamento, o requerente que pretenda utilizar terras retiradas para o cultivo de matérias-primas assumirá por escrito, perante a autoridade competente do seu Estado-Membro e no momento da apresentação do seu pedido de pagamento, o compromisso de que, em caso de utilização ou venda, as matérias-primas em causa serão destinadas às utilizações previstas no anexo III.\n\n2. Os requerentes comunicarão anualmente às autoridades competentes respectivas, no pedido de pagamento, as parcelas retiradas ao abrigo do presente capítulo, as culturas correspondentes a essas parcelas, a duração do ciclo de cultivo e a frequência de colheita prevista."
+  },
+  "c24c0bcf3fbf5faf": {
+   "fragment_id": "CAPÍTULO IV — Disposições gerais",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições gerais"
+  },
+  "f5780b9b55a2e479": {
+   "fragment_id": "Secção I — Exclusão de regime e proibição do cúmulo de ajudas",
+   "type": "divisao",
+   "heading": "Secção I — Exclusão de regime e proibição do cúmulo de ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Exclusão de regime e proibição do cúmulo de ajudas"
+  },
+  "a75f0b749c95af5d": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nOs Estados-Membros apenas podem excluir matérias-primas constantes do anexo I ou do anexo II do regime instituído pelo presente regulamento por motivos relacionados com dificuldades de controlo, saúde pública, ambientais ou de direito penal. Nesse caso, o Estado-Membro em causa informará a Comissão da(s) matéria(s)-primas) que se propõe excluir do regime e dos motivos de tal exclusão."
+  },
+  "1a2daf7c1385cf25": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nAs matérias-primas constantes do anexo I cultivadas em terras retiradas e os produtos intermédios, produtos finais, co-produtos e subprodutos delas derivados, as matérias-primas constantes do anexo II cultivadas em terras retiradas e os produtos delas derivados e as terras utilizadas na produção dessas matérias-primas não poderão beneficiar:\n\na) Das acções financiadas pelo Fundo Europeu de Orientação e Garantia Agrícola, secção Garantia, em conformidade com o n.o 2 do artigo 1.o do Regulamento (CEE) n.o 1258/1999;\n\nb) Das ajudas comunitárias previstas no Regulamento (CE) n.o 1257/1999, com excepção do apoio concedido a título dos custos de plantação para espécies de crescimento rápido previsto no n.o 3, segundo parágrafo, do artigo 31.o do presente regulamento."
+  },
+  "8baedb62d5dc94f3": {
+   "fragment_id": "Secção 2 — Avaliação e medidas nacionais complementares",
+   "type": "divisao",
+   "heading": "Secção 2 — Avaliação e medidas nacionais complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 2 — Avaliação e medidas nacionais complementares"
+  },
+  "403542ca58996475": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs Estados-Membros comunicarão à Comissão, no prazo de três meses a contar do final de cada campanha de comercialização, todas as informações necessárias à avaliação do regime previsto no presente regulamento.\n\nNo que se refere ao capítulo II, as comunicações incluirão, nomeadamente, as informações seguintes:\n\na) As superfícies correspondentes a cada espécie de matéria-prima, os rendimentos previstos referidos no n.o 2, alínea d), do artigo 4.o e os rendimentos representativos referidos no artigo 9.o;\n\nb) As quantidades de cada espécie de matéria-prima que não tenham sido vendidas pelos colectores;\n\nc) As quantidades de cada tipo de produto final, subproduto e co-produto obtido, bem como o tipo de matéria-prima utilizado;\n\nNo que se refere ao capítulo III, as comunicações incluirão, nomeadamente, as superfícies de terras retiradas, por cada espécie nelas cultivada."
+  },
+  "00ede546b1438493": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. Os Estados-Membros designarão as autoridades competentes referidas no presente regulamento.\n\n2. Os Estados-Membros podem adoptar as medidas adicionais necessárias à aplicação do presente regulamento, delas notificando a Comissão."
+  },
+  "89f607d883961c1e": {
+   "fragment_id": "Secção 3 — Disposições finais",
+   "type": "divisao",
+   "heading": "Secção 3 — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 3 — Disposições finais"
+  },
+  "2422021faa6f8e2c": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nO Regulamento (CE) n.o 1586/97 é revogado.\n\nProduz efeitos a partir de 1 de Julho de 2000, mas continuará a ser aplicável aos contratos celebrados a título da campanha de 1999/2000 e das campanhas anteriores.\n\nAs referências ao regulamento revogado entender-se-ão como sendo feitas ao presente regulamento."
+  },
+  "2aadee9c25b19df5": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nO presente regulamento entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável aos contratos e pedidos de pagamento apresentados a título da campanha 2000/2001 e das campanhas seguintes.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 19 de Novembro de 1999.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO L 160 de 26.6.1999, p. 1.\n\n(2) JO L 181 de 1.7.1992, p. 12.\n\n(3) JO L 215 de 7.8.1997, p. 3.\n\n(4) JO L 355 de 5.12.1992, p. 1.\n\n(5) JO L 127 de 21.5.1999, p. 4.\n\n(6) JO L 205 de 3.8.1985, p. 5.\n\n(7) JO L 240 de 10.9.1999, p. 11.\n\n(8) JO L 391 de 31.12.1992, p. 36.\n\n(9) JO L 212 de 30.7.1998, p. 23.\n\n(10) JO L 147 de 18.6.1993, p. 25.\n\n(11) JO L 253 de 11.10.1993, p. 1.\n\n(12) JO L 197 de 29.7.1999, p. 25.\n\n(13) JO L 160 de 26.6.1999, p. 80.\n\n(14) JO L 160 de 26.6.1999, p. 103.\n\n(15) JO L 280 de 30.10.1999, p. 43."
+  },
+  "d120d1fae52d6e95": {
+   "fragment_id": "ANEXO I — MATÉRIAS-PRIMAS A QUE SE REFERE O CAPÍTULO II",
+   "type": "divisao",
+   "heading": "ANEXO I — MATÉRIAS-PRIMAS A QUE SE REFERE O CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — MATÉRIAS-PRIMAS A QUE SE REFERE O CAPÍTULO II\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "35e1cd01f029d02c": {
+   "fragment_id": "ANEXO II — MATÉRIAS-PRIMAS A QUE SE REFERE O CAPÍTULO III",
+   "type": "divisao",
+   "heading": "ANEXO II — MATÉRIAS-PRIMAS A QUE SE REFERE O CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — MATÉRIAS-PRIMAS A QUE SE REFERE O CAPÍTULO III\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "c80d6f1e72cb1c17": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nProdutos finais considerados utilizações admissíveis das matérias-primas constantes dos anexos I e II:\n\n- todos os produtos dos capítulos 25 a 99 da Nomenclatura Combinada,\n\n- todos os produtos do capítulo 15 da Nomenclatura Combinada destinados a utilizações que não o consumo humano ou animal,\n\n- os produtos do código NC 2207 20 00 destinados a utilização directa em combustíveis para motores ou a transformação com vista à sua utilização em combustíveis para motores,\n\n- o material de embalagem dos códigos NC ex 1904 10 e ex 1905 90 90, conquanto tenham sido obtidas provas de que os produtos foram utilizados para fins não alimentares de acordo com o n.o 4 do artigo 15.o do presente regulamento,\n\n- micélios de cogumelos do código NC 0602 91 10,\n\n- goma-laca, gomas, resinas, gomas-resinas e bálsamos, naturais, do código NC 1301,\n\n- sucos e extractos de ópio do código NC 1302 11 00,\n\n- sucos e extractos de piretro ou de raízes de plantas que contenham rotenona, do código NC 1302 14 00,\n\n- outros produtos mucilaginosos e espessantes do código NC 1302 39 00,\n\n- todos os produtos agrícolas constantes do anexo I e os seus derivados obtidos por um processo de transformação intermédio que sirvam de combustível para a produção de energia,\n\n- todos os produtos constantes do anexo II e respectivos derivados destinados a fins energéticos,\n\n- todos os produtos mencionados no Regulamento (CEE) n.o 1722/93 da Comissão(1), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 87/1999(2), conquanto não sejam obtidos a partir de cereais ou batatas cultivados em terras retiradas e não contenham produtos obtidos a partir de cereais ou batatas cultivados em terras retiradas,\n\n- todos os produtos mencionados no Regulamento (CEE) n.o 1010/86 do Conselho(3), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1148/98 da Comissão(4), conquanto não sejam obtidos a partir de beterrabas sacarinas cultivadas em terras retiradas e não contenham produtos obtidos a partir de beterrabas sacarinas cultivadas em terras retiradas.\n\n(1) JO L 159 de 1.7.1993, p. 112.\n\n(2) JO L 9 de 5.1.1999, p. 8.\n\n(3) JO L 94 de 9.4.1986, p. 9.\n\n(4) JO L 159 de 3.6.1998, p. 38."
+  }
+ }
+}

@@ -35,6 +35,84 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-08-01'
+version_history:
+  file: diretiva-ue-2008-106.versoes.json
+  count: 3
+  source_lastmod: '2019-08-01'
+  versions:
+  - date: '2008-12-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-01-03'
+    amending: eu:celex:32012L0035:por
+    amending_title: DIRETIVA 2012/35/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 21 de novembro
+      de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 3.º — Formação e certificação
+    - Altera Artigo 7.º — Princípios que regulam as viagens costeiras
+    - Altera Artigo 8.º — Prevenção da fraude e de outras práticas ilegais
+    - Altera Artigo 9.º — Sanções e medidas disciplinares
+    - Altera Artigo 10.º — Normas de qualidade
+    - Altera Artigo 13.º — Utilização de simuladores
+    - Altera Artigo 14.º — Responsabilidades das companhias
+    - Altera Artigo 15.º — Aptidão para o serviço
+    - Altera Artigo 17.º — Responsabilidades dos Estados-Membros em relação à formação e avaliação
+    - Altera Artigo 18.º — Comunicação a bordo
+    - Altera Artigo 20.º — Não observância das prescrições da Convenção NFCSQ
+    - Altera Artigo 22.º — Inspecção pelo Estado do porto
+    - Altera Artigo 23.º — Procedimento de inspecção pelo Estado do porto
+    - Altera Artigo 28.º — Procedimento de comité
+    - Altera Artigo 34.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 5.º
+    - Adita Certificados de competência, certificados de qualificação e autenticações
+    - Adita Artigo 5.º-A — Informações a prestar à Comissão
+    - Adita Artigo 11.º — Normas médicas
+    - Adita Artigo 12.º
+    - Adita Revalidação de certificados de competência e de certificados de qualificação
+    - Adita Artigo 19.º
+    - Adita Reconhecimento de certificados de competência e de certificados de qualificação
+    - Adita Artigo 25.º-A — Informações para fins estatísticos
+    - Adita Artigo 27.º
+    - Adita Artigo 27.º-A — Exercício da delegação
+    - Adita Artigo 29.º — Sanções
+    - Adita Artigo 30.º — Disposições transitórias
+    - Adita ANEXO I
+    - Adita REQUISITOS DA CONVENÇÃO STCW EM MATÉRIA DE FORMAÇÃO A QUE SE REFERE O ARTIGO 3.º
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita CAPÍTULO II
+    - Adita COMANDANTE E SECÇÃO DE CONVÉS
+    - Adita CAPÍTULO III
+    - Adita SECÇÃO DE MÁQUINAS
+    - Adita CAPÍTULO IV
+  - date: '2019-08-01'
+    amending: eu:celex:32019L1159:por
+    amending_title: DIRETIVA (UE) 2019/1159 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20
+      de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Certificados de competência, certificados de qualificação e autenticações
+    - Altera Artigo 5.º-A — Informações a prestar à Comissão
+    - Altera Revalidação de certificados de competência e de certificados de qualificação
+    - Altera Reconhecimento de certificados de competência e de certificados de qualificação
+    - Altera Artigo 20.º — Não observância das prescrições da Convenção NFCSQ
+    - Altera Artigo 21.º — Reavaliação
+    - Altera Artigo 25.º-A — Informações para fins estatísticos
+    - Altera Artigo 27.º-A — Exercício da delegação
+    - Altera Artigo 28.º — Procedimento de comité
+    - Altera REQUISITOS DE FORMAÇÃO ESPECIAIS PARA O PESSOAL DE DETERMINADOS TIPOS DE NAVIOS
+    - Altera Notas
+    - Adita Artigo 5.º-B — Reconhecimento mútuo dos certificados dos marítimos emitidos pelos Estados-Membros
+    - Adita Artigo 26.º — Relatório de avaliação
+    - Adita Artigo 27.º — Alteração
+    - Suprime Artigo 26.º — Relatórios
+    - Suprime Artigo 27.º
 identifiers:
   celex: 32008L0106
   eli: http://data.europa.eu/eli/dir/2008/106/oj
@@ -49,7 +127,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1f8aa5f5-787b-4d09-a210-b9ef90bc4ca3.0018
   content_url: http://publications.europa.eu/resource/cellar/d091619b-be6a-11e9-9d01-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0106-20190801
-  retrieved_at: '2026-10-22T02:39:46Z'
+  retrieved_at: '2026-10-22T15:13:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T23:09:22.628+01:00'
 integrity:
@@ -58,9 +136,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:46Z'
-  notes: Texto consolidado 02008L0106-20190801.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:13:29Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2008-106.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -171,30 +249,19 @@ relationships:
   source: null
 article_structure:
   article_count: 36
-  section_count: 24
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 28
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:46Z'
+  checked_at: '2026-10-22T15:13:29Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2008/106/CE do Parlamento Europeu e do Conselho, de 19 de Novembro de 2008
-
-> 02008L0106 — PT — 01.08.2019 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32012L0035) — [DIRETIVA 2012/35/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 21 de novembro de 2012](http://publications.europa.eu/resource/celex/32012L0035) — L 343 — 78 — 14.12.2012
-- [►M2](http://publications.europa.eu/resource/celex/32019L1159) — [DIRETIVA (UE) 2019/1159 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019L1159) — L 188 — 94 — 12.7.2019
-
-## DIRECTIVA 2008/106/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 19 de Novembro de 2008
 

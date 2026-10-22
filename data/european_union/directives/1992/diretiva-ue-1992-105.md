@@ -35,6 +35,49 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-12-31'
+version_history:
+  file: diretiva-ue-1992-105.versoes.json
+  count: 3
+  source_lastmod: '2021-12-31'
+  versions:
+  - date: '1993-01-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-03-23'
+    amending: eu:celex:32005L0017:por
+    amending_title: DIRECTIVA 2005/17/CE DA COMISSÃO de 2 de Março de 2005
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita ANEXO
+    - Adita INFORMAÇÕES EXIGIDAS
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o — Os Estados-membros são os destinatários da presente directiva. Feito em Bruxelas, em 3 de Dezembro
+      de 1992. Pela Comissão
+    - Suprime ANEXO — INFORMAÇÕES EXIGIDAS
+  - date: '2021-12-31'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime ANEXO
+    - Suprime INFORMAÇÕES EXIGIDAS
+    - Suprime Notas
 identifiers:
   celex: 31992L0105
   eli: http://data.europa.eu/eli/dir/1992/105/oj
@@ -49,7 +92,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fd29649a-028b-4cad-b995-67570fe12354.0011
   content_url: http://publications.europa.eu/resource/cellar/64954d81-8393-11ec-8c40-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0105-20211231
-  retrieved_at: '2026-10-22T02:55:41Z'
+  retrieved_at: '2026-10-22T14:41:20Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:09:00.267+02:00'
 integrity:
@@ -58,9 +101,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:55:41Z'
-  notes: Texto consolidado 01992L0105-20211231.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:20Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1992-105.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -125,16 +168,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:55:41Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:41:20Z'
+  warnings: []
   errors: []
 ---
 

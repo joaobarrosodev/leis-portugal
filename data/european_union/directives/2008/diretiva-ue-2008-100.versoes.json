@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008L0100:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0100-20081118",
+ "dre_path": null,
+ "source_lastmod": "2008-11-18",
+ "versions": [
+  {
+   "date": "2008-10-29",
+   "future": false,
+   "celex": "32008L0100",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c0b21693507a9fd6",
+    "52aa8b883861e770",
+    "37ddca358ae3f0ca",
+    "121bc7f29193c6b3",
+    "bd646aafc5aebc59",
+    "ab0fcc750c1e22c7"
+   ]
+  }
+ ],
+ "fragments": {
+  "c0b21693507a9fd6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Outubro de 2008\n\nque altera a Directiva 90/496/CEE do Conselho relativa à rotulagem nutricional dos géneros alimentícios, no que diz respeito às doses diárias recomendadas, aos factores de conversão de energia e às definições\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 90/496/CEE do Conselho, de 24 de Setembro de 1990, relativa à rotulagem nutricional dos géneros alimentícios [([^1])](http://publications.europa.eu/resource/cellar/95f511d3-d4f0-499a-ba87-fbdab19b6e16.0018.02/DOC_1#ntr1-L_2008285PT.01000901-E0001), nomeadamente o n.º 4, alíneas a) e j) do artigo 1.º e n.º 2 do artigo 5.º,\n\nApós consulta da Autoridade Europeia para a Segurança dos Alimentos,\n\nConsiderando o seguinte:\n\n(1) A Directiva 90/496/CEE especifica que se deve definir fibras alimentares.\n\n(2) As condições aplicáveis às alegações nutricionais tais como «fonte de fibra» ou «alto teor em fibra» estão estabelecidas no anexo do Regulamento (CE) n.º 1924/2006 do Parlamento Europeu e do Conselho, de 20 de Dezembro de 2006, relativo às alegações nutricionais e de saúde sobre os alimentos [([^2])](http://publications.europa.eu/resource/cellar/95f511d3-d4f0-499a-ba87-fbdab19b6e16.0018.02/DOC_1#ntr2-L_2008285PT.01000901-E0002).\n\n(3) Por motivos de clareza e coerência com outros actos legislativos comunitários neste domínio, é necessário apresentar uma definição «de fibras alimentares».\n\n(4) A definição de fibras alimentares deveria ter em conta os trabalhos pertinentes do *Codex Alimentarius* e a declaração sobre as fibras alimentares expressa em 6 de Julho de 2007 pelo painel científico dos produtos dietéticos, nutrição e alergias da Autoridade Europeia para a Segurança dos Alimentos.\n\n(5) As fibras alimentares são consumidas tradicionalmente como produto vegetal e têm um ou mais efeitos fisiológicos benéficos, nomeadamente, diminui o tempo de trânsito intestinal, aumenta o volume das fezes, é fermentável pela microflora do cólon, reduz o colesterol total no sangue, reduz os níveis de colesterol LDL no sangue, reduz a glicose pós-prandial no sangue e reduz os níveis de insulina no sangue. Recentes provas científicas demonstraram que é possível obter efeitos fisiológicos benéficos semelhantes a partir de outros polímeros de hidratos de carbono que não são digeríveis e que não ocorrem naturalmente nos alimentos tal como consumidos. Por conseguinte, é adequado que a definição de fibras alimentares inclua polímeros de hidratos de carbono com um ou mais efeitos fisiológicos benéficos.\n\n(6) Os polímeros de hidratos de carbono de origem vegetal que correspondem à definição de fibras alimentares podem estar directamente associados na planta à lenhina ou a outros componentes que não sejam hidratos de carbono, tais como os compostos fenólicos, as ceras, as saponinas, os fitatos, a cutina e os fitoesteróis. Estas substâncias, quando directamente associadas aos polímeros de hidratos de carbono de origem vegetal e extraídas com os polímeros de hidratos de carbono para análise da fibra, podem ser consideradas como fibras alimentares. Contudo, quando separadas dos polímeros de hidratos de carbono e acrescentadas a um alimento, estas substâncias não deveriam ser consideradas como fibras alimentares.\n\n(7) A fim de tomar em consideração novos desenvolvimentos científicos e tecnológicos, é necessário alterar a lista de factores de conversão de energia.\n\n(8) O relatório da FAO de um seminário técnico sobre energia proveniente de alimentos, métodos de análise e factores de conversão indica que 70 por cento das fibras nos alimentos tradicionais são consideradas fermentáveis. Por conseguinte, é adequado que o valor energético médio proveniente das fibras seja 8 kJ/g (2 kcal/g).\n\n(9) O eritritol pode ser usado numa ampla variedade de alimentos e utiliza-se, entre outras coisas, como substituto de nutrientes tais como o açúcar quando se pretende um valor energético mais baixo.\n\n(10) O eritritol é um poliol e, de acordo com as regras actuais previstas no n.º 1 do artigo 5.º da Directiva 90/496/CEE, a sua energia seria calculada utilizando o factor de conversão para polióis, ou seja, 10 kJ/g (2,4 kcal/g). A utilização deste factor de conversão de energia não permitiria informar plenamente o consumidor sobre a redução do valor energético que seria obtido pelo uso do eritritol no fabrico de um produto. No seu parecer de 5 de Março de 2003, o Comité Científico da Alimentação Humana assinalou que a energia fornecida pelo eritritol era inferior a 0,9 kJ/g (menos de 0,2 kcal/g). Por conseguinte, é adequado adoptar um factor de conversão de energia apropriado para o eritritol.\n\n(11) O anexo da Directiva 90/496/CEE enumera as vitaminas e os sais minerais que podem ser declarados como parte da rotulagem nutricional, especifica as suas doses diárias recomendadas (DDR) e define uma regra sobre o que constitui uma quantidade significativa. O objectivo da lista de DDR é apresentar valores para a rotulagem nutricional e o cálculo sobre o que constitui uma quantidade significativa.\n\n(12) A regra sobre a quantidade significativa, tal como definida no anexo da Directiva 90/496/CEE, constitui uma referência noutros actos legislativos comunitários, em particular o n.º 3 do artigo 8.º da Directiva 2002/46/CE do Parlamento Europeu e do Conselho, de 10 de Junho de 2002, relativa à aproximação das legislações dos Estados-Membros respeitantes aos suplementos alimentares [([^3])](http://publications.europa.eu/resource/cellar/95f511d3-d4f0-499a-ba87-fbdab19b6e16.0018.02/DOC_1#ntr3-L_2008285PT.01000901-E0003), o anexo do Regulamento (CE) n.º 1924/2006 e o n.º 6 do artigo 6.º do Regulamento (CE) n.º 1925/2006 do Parlamento Europeu e do Conselho, de 20 de Dezembro de 2006, relativo à adição de vitaminas, minerais e determinadas outras substâncias aos alimentos [([^4])](http://publications.europa.eu/resource/cellar/95f511d3-d4f0-499a-ba87-fbdab19b6e16.0018.02/DOC_1#ntr4-L_2008285PT.01000901-E0004).\n\n(13) As DDR enumeradas no anexo da Directiva 90/496/CEE baseiam-se na recomendação da reunião de consulta de peritos organizada pela FAO/OMS, em Helsínquia, em 1988.\n\n(14) A fim de assegurar a coerência com outros actos legislativos comunitários, a lista actual de vitaminas e sais minerais e respectivos DDR deveria ser actualizada em função da evolução dos conhecimentos científicos desde 1988.\n\n(15) No seu parecer de 5 de Março de 2003 sobre a revisão dos valores de referência para a rotulagem nutricional, o Comité Científico da Alimentação Humana incluiu na rotulagem valores de referência para adultos. Este parecer abrange as vitaminas e os sais minerais enumerados no anexo I da Directiva 2002/46/CE e no anexo I do Regulamento (CE) n.º 1925/2006.\n\n(16) O anexo da Directiva 90/496/CEE deve, portanto, ser alterado em conformidade.\n\n(17) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "52aa8b883861e770": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Directiva 90/496/CEE é alterada do seguinte modo:\n\n1. No n.º 4, alínea j), do artigo 1.º, é aditada a seguinte frase: «A definição do material e, se necessário, os métodos de análise são incluídos no anexo II;».\n\n2. Ao n.º 1 do artigo 5.º são aditados os travessões seguintes: «— fibras alimentares 2 kcal/g — 8 kJ/g — eritritol 0 kcal/g — 0 kJ/g.».\n\n«— fibras alimentares 2 kcal/g — 8 kJ/g\n\n— eritritol 0 kcal/g — 0 kJ/g.».\n\n3. O anexo é substituído pelo texto do anexo I da presente directiva.\n\n4. É aditado o texto constante do anexo II da presente directiva."
+  },
+  "37ddca358ae3f0ca": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros porão em vigor, o mais tardar em 31 de Outubro de 2009, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Os Estados-Membros comunicarão imediatamente à Comissão o texto das referidas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nOs Estados-Membros aplicarão estas disposições de modo a proibir, com efeitos a partir de 31 de Outubro de 2012, o comércio dos produtos que não sejam conformes com a Directiva 90/496/CEE, com a redacção que lhe foi dada pela presente directiva.\n\nSempre que os Estados-Membros adoptarem tais disposições, estas incluirão uma referência à presente directiva ou serão acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "121bc7f29193c6b3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "bd646aafc5aebc59": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 28 de Outubro de 2008.\n\n***Pela Comissão***\n\n**Androulla VASSILIOU**\n\n***Membro da Comissão***\n\n---"
+  },
+  "ab0fcc750c1e22c7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/95f511d3-d4f0-499a-ba87-fbdab19b6e16.0018.02/DOC_1#ntc1-L_2008285PT.01000901-E0001) [JO L 276 de 6.10.1990, p. 40](http://publications.europa.eu/resource/oj/JOL_1990_276_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/95f511d3-d4f0-499a-ba87-fbdab19b6e16.0018.02/DOC_1#ntc2-L_2008285PT.01000901-E0002) [JO L 12 de 18.1.2007, p. 3](http://publications.europa.eu/resource/oj/JOL_2007_012_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/95f511d3-d4f0-499a-ba87-fbdab19b6e16.0018.02/DOC_1#ntc3-L_2008285PT.01000901-E0003) [JO L 183 de 12.7.2002, p. 51](http://publications.europa.eu/resource/oj/JOL_2002_183_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/95f511d3-d4f0-499a-ba87-fbdab19b6e16.0018.02/DOC_1#ntc4-L_2008285PT.01000901-E0004) [JO L 404 de 30.12.2006, p. 26](http://publications.europa.eu/resource/oj/JOL_2006_404_R_TOC)."
+  }
+ }
+}

@@ -34,6 +34,37 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-03-07'
+version_history:
+  file: decisao-ue-1997-622.versoes.json
+  count: 2
+  source_lastmod: '2007-03-07'
+  versions:
+  - date: '1997-09-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-03-07'
+    amending: eu:celex:32007D0151:por
+    amending_title: DECISÃO DA COMISSÃO de 6 de Março de 2007
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita ANEXO
+    - Adita LISTA DOS QUESTIONÁRIOS
+    - Adita QUESTIONÁRIO
+    - Adita dirigido aos Estados-membros, sobre a transposição e aplicação da Directiva 91/689/CEE relativa aos resíduos perigosos,
+      com a última redacção que lhe foi dada pela Directiva 94/31/CE
+    - Adita I. TRANSPOSIÇÃO PARA O DIREITO NACIONAL
+    - Adita II. APLICAÇÃO DA DIRECTIVA
+    - Adita para o relatório a elaborar pelos Estados-membros sobre a transposição e aplicação da Directiva 94/62/EC relativa
+      a embalagens e resíduos de embalagens
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime ANEXO — LISTA DOS QUESTIONÁRIOS
 identifiers:
   celex: 31997D0622
   eli: http://data.europa.eu/eli/dec/1997/622/oj
@@ -48,7 +79,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7b6d9d99-c3d3-4519-8809-578900eaf827.0011
   content_url: http://publications.europa.eu/resource/cellar/8a1f45b3-8a89-484c-88c1-20f8c38f4811.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997D0622-20070307
-  retrieved_at: '2026-10-22T03:08:37Z'
+  retrieved_at: '2026-10-22T14:45:45Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-19T06:23:07.510+01:00'
 integrity:
@@ -57,9 +88,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:08:37Z'
-  notes: Texto consolidado 01997D0622-20070307.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:45:45Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-1997-622.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -105,29 +136,19 @@ relationships:
   source: null
 article_structure:
   article_count: 3
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:08:37Z'
+  checked_at: '2026-10-22T14:45:45Z'
   warnings: []
   errors: []
 ---
 
 # 97/622/CE: Decisão da Comissão de 27 de Maio de 1997
-
-> 1997D0622 — PT — 07.03.2007 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007D0151) — [DECISÃO DA COMISSÃO de 6 de Março de 2007](http://publications.europa.eu/resource/celex/32007D0151) — L 67 — 7 — 7.3.2007
-
-## DECISÃO DA COMISSÃO
 
 de 27 de Maio de 1997
 

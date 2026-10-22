@@ -35,6 +35,32 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-08-21'
+version_history:
+  file: diretiva-ue-1991-322.versoes.json
+  count: 3
+  source_lastmod: '2018-08-21'
+  versions:
+  - date: '1991-07-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-03-01'
+    amending: eu:celex:32006L0015:por
+    amending_title: DIRECTIVA 2006/15/CE DA COMISSÃO Texto relevante para efeitos do EEE de 7 de Fevereiro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Adita ANEXO
+    - Adita VALORES LIMITE COM CARÁCTER INDICATIVO DE EXPOSIÇÃO PROFISSIONAL
+    - Adita Notas
+    - Suprime ANEXO — VALORES LIMITE COM CARÁCTER INDICATIVO DE EXPOSIÇÃO PROFISSIONAL
+  - date: '2018-08-21'
+    amending: eu:celex:32017L0164:por
+    amending_title: DIRETIVA (UE) 2017/164 DA COMISSÃO Texto relevante para efeitos do EEE de 31 de janeiro de 2017
+    changes:
+    - Altera preambulo
+    - Altera VALORES LIMITE COM CARÁCTER INDICATIVO DE EXPOSIÇÃO PROFISSIONAL
+    - Suprime Notas
 identifiers:
   celex: 31991L0322
   eli: http://data.europa.eu/eli/dir/1991/322/oj
@@ -49,7 +75,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011
   content_url: http://publications.europa.eu/resource/cellar/91c7817f-716a-47c2-9575-a4b0d98c05ee.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0322-20180821
-  retrieved_at: '2026-10-22T02:44:14Z'
+  retrieved_at: '2026-10-22T14:38:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:30:00.664+02:00'
 integrity:
@@ -58,9 +84,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:14Z'
-  notes: Texto consolidado 01991L0322-20180821.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:38:53Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1991-322.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -112,29 +138,18 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:14Z'
+  checked_at: '2026-10-22T14:38:53Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 91/322/CEE da Comissão, de 29 de Maio de 1991
-
-> 01991L0322 — PT — 21.08.2018 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006L0015) — [DIRECTIVA 2006/15/CE DA COMISSÃO Texto relevante para efeitos do EEE de 7 de Fevereiro de 2006](http://publications.europa.eu/resource/celex/32006L0015) — L 38 — 36 — 9.2.2006
-- [►M2](http://publications.europa.eu/resource/celex/32017L0164) — [DIRETIVA (UE) 2017/164 DA COMISSÃO Texto relevante para efeitos do EEE de 31 de janeiro de 2017](http://publications.europa.eu/resource/celex/32017L0164) — L 27 — 115 — 1.2.2017
-
-## DIRECTIVA DA COMISSÃO
 
 de 29 de Maio de 1991
 

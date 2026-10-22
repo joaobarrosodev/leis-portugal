@@ -34,6 +34,118 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-07-01'
+version_history:
+  file: regulamento-ue-1992-2075.versoes.json
+  count: 4
+  source_lastmod: '2008-07-01'
+  versions:
+  - date: '1992-07-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-01-01'
+    amending: eu:celex:31994R3290:por
+    amending_title: REGULAMENTO (CE) N. o 3290/94 DO CONSELHO de 22 de Dezembro de 1994; M2; M3; M4; M5; REGULAMENTO (CE)
+      N. o 1636/98 DO CONSELHO de 20 de Julho de 1998; REGULAMENTO (CE) N. o 660/1999 DO CONSELHO de 22 de Março de 1999;
+      REGULAMENTO (CE) N. o 1336/2000 DO CONSELHO de 19 de Junho de 2000; REGULAMENTO (CE) N. o 546/2002 DO CONSELHO de 25
+      de Março de 2002; REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003; REGULAMENTO (CE) N. o 2319/2003
+      DO CONSELHO de 17 de Dezembro de 2003; REGULAMENTO (CE) N. o 1679/2005 DO CONSELHO de 6 de Outubro de 2005; Acto de
+      Adesão da Áustria, da Finlândia e da Suécia; Acto relativo às condições de adesão da República Checa, da República da
+      Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República
+      de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em
+      que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita TÍTULO I
+    - Adita Regime de prémio
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 4.ºA
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita TÍTULO II
+    - Adita Regime de controlo da produção
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita TÍTULO III
+    - Adita Medidas de orientação da produção
+    - Adita Artigo 13.º
+    - Adita Artigo 14.ºA
+    - Adita Título IV
+    - Adita Regime comercial com países terceiros
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 16.ºA
+    - Adita TÍTULO V
+    - Adita Medidas de controlo
+    - Adita Artigo 17.º
+    - Adita TÍTULO VI
+    - Adita Disposições gerais e transitórias
+    - Adita Artigo 18.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 28.º
+    - Adita Artigo 29.º
+    - Adita Notas
+    - Suprime Artigo 1o.
+  - date: '2007-01-01'
+    amending: eu:celex:32003R1782:por
+    amending_title: M13; A3
+    changes:
+    - Altera preambulo
+    - Altera Artigo 13.º
+    - Altera Artigo 23.º
+    - Altera Notas
+  - date: '2008-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime TÍTULO I
+    - Suprime Regime de prémio
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 4.ºA
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime TÍTULO II
+    - Suprime Regime de controlo da produção
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime TÍTULO III
+    - Suprime Medidas de orientação da produção
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.ºA
+    - Suprime Título IV
+    - Suprime Regime comercial com países terceiros
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 16.ºA
+    - Suprime TÍTULO V
+    - Suprime Medidas de controlo
+    - Suprime Artigo 17.º
+    - Suprime TÍTULO VI
+    - Suprime Disposições gerais e transitórias
+    - Suprime Artigo 18.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime Artigo 24.º
+    - Suprime Artigo 28.º
+    - Suprime Artigo 29.º
+    - Suprime Notas
 identifiers:
   celex: 31992R2075
   eli: http://data.europa.eu/eli/reg/1992/2075/oj
@@ -48,7 +160,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b5ba277d-3fce-46c4-b3f6-eb4395b968ba.0011
   content_url: http://publications.europa.eu/resource/cellar/19318c8a-f4be-4059-9a97-8ba4158881b8.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R2075-20080701
-  retrieved_at: '2026-10-22T02:38:09Z'
+  retrieved_at: '2026-10-22T14:41:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T20:07:27.678+01:00'
 integrity:
@@ -57,9 +169,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:09Z'
-  notes: Texto consolidado 01992R2075-20080701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:36Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-1992-2075.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -259,16 +371,27 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:09Z'
+  checked_at: '2026-10-22T14:41:36Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01992R2075-19930101: versão indisponível (Sem expressão na língua por para CELEX 01992R2075-19930101.)'
+  - '01992R2075-19940101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R2075-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R2075-19950701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R2075-19960308: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R2075-19961221: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R2075-19971223: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R2075-19990101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R2075-19990328: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R2075-20020101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R2075-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R2075-20040120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R2075-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

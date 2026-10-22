@@ -1,0 +1,915 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998L0083:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0083-20151027",
+ "dre_path": null,
+ "source_lastmod": "2015-10-27",
+ "versions": [
+  {
+   "date": "1998-12-05",
+   "future": false,
+   "celex": "31998L0083",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2009-08-07",
+   "future": false,
+   "celex": "01998L0083-20090807",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1882:por",
+     "title": "REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1882"
+    },
+    {
+     "id": "eu:celex:32009R0596:por",
+     "title": "REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009",
+     "published": null,
+     "celex": "32009R0596"
+    }
+   ],
+   "changes": [
+    "Adita preambulo",
+    "Adita Artigo 1.º — Objectivo",
+    "Adita Artigo 2.º — Definições",
+    "Adita Artigo 3.º — Isenções",
+    "Adita Artigo 4.º — Obrigações gerais",
+    "Adita Artigo 5.º — Normas de qualidade",
+    "Adita Artigo 6.º — Limiares de conformidade",
+    "Adita Artigo 7.º — Controlo",
+    "Adita Artigo 8.º — Medidas de correcção e restrições de utilização",
+    "Adita Artigo 9.º — Derrogações",
+    "Adita Artigo 10.º — Garantia de qualidade do tratamento, do equipamento e dos materiais",
+    "Adita Artigo 11.º — Revisão dos anexos",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º — Informação e relatórios",
+    "Adita Artigo 14.º — Calendário de cumprimento",
+    "Adita Artigo 15.º — Circunstâncias excepcionais",
+    "Adita Artigo 16.º — Revogação",
+    "Adita Artigo 17.º — Transposição para o direito interno",
+    "Adita Artigo 18.º — Entrada em vigor",
+    "Adita Artigo 19.º — Destinatários",
+    "Adita ANEXO I",
+    "Adita PARÂMETROS E VALORES PARAMÉTRICOS",
+    "Adita PARTE A",
+    "Adita Parâmetros microbiológicos",
+    "Adita PARTE B",
+    "Adita Parâmetros químicos",
+    "Adita Nota 1:",
+    "Adita Nota 2:",
+    "Adita Nota 3:",
+    "Adita Nota 4:",
+    "Adita Nota 5:",
+    "Adita Nota 6:",
+    "Adita Nota 7:",
+    "Adita Nota 8:",
+    "Adita Nota 9:",
+    "Adita Nota 10:",
+    "Adita PARTE C",
+    "Adita Parâmetros indicadores",
+    "Adita ANEXO II",
+    "Adita CONTROLO",
+    "Adita QUADRO A",
+    "Adita Parâmetros a analisar",
+    "Adita 1. Controlo de rotina",
+    "Adita 2. Controlo de inspecção",
+    "Adita QUADRO B1",
+    "Adita Frequência mínima de amostragem e análise da água destinada ao consumo humano fornecida por uma rede de distribuição ou por um camião-cisterna ou utilizada numa empresa da indústria alimentar",
+    "Adita QUADRO B2",
+    "Adita Frequência mínima de amostragem e análise de águas colocadas à venda em garrafas ou outros recipientes",
+    "Adita ANEXO III",
+    "Adita ESPECIFICAÇÕES PARA A ANÁLISE DOS PARÂMETROS",
+    "Adita 1. PARÂMETROS PARA OS QUAIS SÃO DEFINIDOS MÉTODOS DE ANÁLISE",
+    "Adita 2. PARÂMETROS PARA OS QUAIS SÃO ESPECIFICADAS AS CARACTERÍSTICAS DO MÉTODO DE ANÁLISE",
+    "Adita 3. PARÂMETROS PARA OS QUAIS NÃO É ESPECIFICADO QUALQUER MÉTODO DE ANÁLISE",
+    "Adita ANEXO IV",
+    "Adita ANEXO V",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "bad4a6200bfe49e0",
+    "8f55ac4e99686f6e",
+    "47f94e53845439d5",
+    "d311be691edfbe87",
+    "d8dc862536ae6a26",
+    "2c94503faaada495",
+    "562d9c3c5ee7cc20",
+    "62ae11bf8b374abc",
+    "b9c3083e33c555c3",
+    "7f237569c37992b7",
+    "08d2b47a40ab1061",
+    "14d9f6bea543776c",
+    "2301581912a6c3ce",
+    "8ad5b69a4370bc9f",
+    "b67b58dee1a13871",
+    "fe3eae213726447b",
+    "a1d8331d24568f2d",
+    "7c2aa7fc86144a08",
+    "015429293633853b",
+    "cd499a96fc2cc39f",
+    "d664376e2a8dcecd",
+    "5746047438b3f7b4",
+    "87cee521b2f0bb1e",
+    "a80e1834f2330e99",
+    "6041be3baf7dcb43",
+    "bd6e1be424845f6c",
+    "0765caf35f9f1f14",
+    "a9aafa2b022b7aec",
+    "6f4c8801b3855540",
+    "1bdbf823997d6cda",
+    "7bf7992d13cf2cef",
+    "aa68ce3159225950",
+    "72e187c3d4a079e1",
+    "785b7d1f43381b18",
+    "9d41a2572979307e",
+    "bcaf930c470c21d5",
+    "f47f12ac437a185c",
+    "89fecd7ba6e8e579",
+    "852174729551523b",
+    "cc346d6a6d769850",
+    "1f1c5b350694a779",
+    "7a5d73f62366b754",
+    "d7317c4ab3f63593",
+    "25ebb23b47a2e297",
+    "0fc5535668312388",
+    "10736b89d2085afc",
+    "2059bba572f1ab2c",
+    "2bb655baf3e75314",
+    "720af75c92791b10",
+    "b4a97f90fdc6b9e5",
+    "52404852ae91e37d",
+    "7417824419481151",
+    "e7ad2967b301d315",
+    "10a0d386184b53c1",
+    "e5ce7bdc16739a32",
+    "654a2ab916e0ae84",
+    "b5e04a3fade786f5"
+   ]
+  },
+  {
+   "date": "2015-10-27",
+   "future": false,
+   "celex": "01998L0083-20151027",
+   "acts": [
+    {
+     "id": "eu:celex:32015L1787:por",
+     "title": "DIRETIVA (UE) 2015/1787 DA COMISSÃO de 6 de outubro de 2015",
+     "published": null,
+     "celex": "32015L1787"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Isenções",
+    "Altera Artigo 10.º — Garantia de qualidade do tratamento, do equipamento e dos materiais",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º — Informação e relatórios",
+    "Altera Nota 3:",
+    "Altera ESPECIFICAÇÕES PARA A ANÁLISE DOS PARÂMETROS",
+    "Altera Notas",
+    "Adita MONITORIZAÇÃO",
+    "Adita Objetivos gerais e programas de monitorização da água destinada ao consumo humano",
+    "Adita Parâmetros e frequências",
+    "Adita 1. Enquadramento geral",
+    "Adita 2. Lista de parâmetros",
+    "Adita 3. Frequências de amostragem",
+    "Adita Avaliação de risco",
+    "Adita PARTE D",
+    "Adita Métodos de amostragem e pontos de amostragem",
+    "Adita Parâmetros microbiológicos para os quais são definidos métodos de análise",
+    "Adita Parâmetros químicos e indicadores para os quais são definidas características de desempenho",
+    "Adita 1. Parâmetros químicos e indicadores",
+    "Adita 2. Notas dos quadros 1 e 2",
+    "Suprime CONTROLO",
+    "Suprime QUADRO A",
+    "Suprime Parâmetros a analisar",
+    "Suprime 1. Controlo de rotina",
+    "Suprime 2. Controlo de inspecção",
+    "Suprime QUADRO B1",
+    "Suprime Frequência mínima de amostragem e análise da água destinada ao consumo humano fornecida por uma rede de distribuição ou por um camião-cisterna ou utilizada numa empresa da indústria alimentar",
+    "Suprime QUADRO B2",
+    "Suprime Frequência mínima de amostragem e análise de águas colocadas à venda em garrafas ou outros recipientes",
+    "Suprime 1. PARÂMETROS PARA OS QUAIS SÃO DEFINIDOS MÉTODOS DE ANÁLISE",
+    "Suprime 2. PARÂMETROS PARA OS QUAIS SÃO ESPECIFICADAS AS CARACTERÍSTICAS DO MÉTODO DE ANÁLISE",
+    "Suprime 3. PARÂMETROS PARA OS QUAIS NÃO É ESPECIFICADO QUALQUER MÉTODO DE ANÁLISE"
+   ],
+   "fragments": [
+    "628d514324d8aa7b",
+    "8f55ac4e99686f6e",
+    "47f94e53845439d5",
+    "e646c0d502bcc775",
+    "d8dc862536ae6a26",
+    "2c94503faaada495",
+    "562d9c3c5ee7cc20",
+    "62ae11bf8b374abc",
+    "b9c3083e33c555c3",
+    "7f237569c37992b7",
+    "65c95a2bf7cc25c1",
+    "14d9f6bea543776c",
+    "9cbaeab02a225faa",
+    "04d2293df7f13874",
+    "b67b58dee1a13871",
+    "fe3eae213726447b",
+    "a1d8331d24568f2d",
+    "7c2aa7fc86144a08",
+    "015429293633853b",
+    "cd499a96fc2cc39f",
+    "d664376e2a8dcecd",
+    "5746047438b3f7b4",
+    "87cee521b2f0bb1e",
+    "a80e1834f2330e99",
+    "6041be3baf7dcb43",
+    "bd6e1be424845f6c",
+    "0765caf35f9f1f14",
+    "a9aafa2b022b7aec",
+    "e2c5add88a514f26",
+    "1bdbf823997d6cda",
+    "7bf7992d13cf2cef",
+    "aa68ce3159225950",
+    "72e187c3d4a079e1",
+    "785b7d1f43381b18",
+    "9d41a2572979307e",
+    "bcaf930c470c21d5",
+    "f47f12ac437a185c",
+    "89fecd7ba6e8e579",
+    "852174729551523b",
+    "feea1de14c59c185",
+    "c7d0279d82ad71c6",
+    "c0a5b5e531cfa43d",
+    "b8e186e213931897",
+    "fa61325d5663e26b",
+    "75071de522f1e20d",
+    "ec4d8bf62049dab1",
+    "a39a51a83ce85b43",
+    "91225de3a1c3c9e6",
+    "9d2274d5c8501a8f",
+    "b2e2c2d3066e4f19",
+    "3067fcd91703a289",
+    "720af75c92791b10",
+    "cc67ba561d6b4e4d",
+    "87cee521b2f0bb1e",
+    "6eac2cd303a77cca",
+    "6041be3baf7dcb43",
+    "4a5a99507d905ea2",
+    "c02eb442db5b80aa",
+    "b542240330563895",
+    "e5ce7bdc16739a32",
+    "654a2ab916e0ae84",
+    "8ad68870af297cca"
+   ]
+  }
+ ],
+ "fragments": {
+  "bad4a6200bfe49e0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Novembro de 1998\n\nrelativa à qualidade da água destinada ao consumo humano\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 1 do seu artigo 130.ºS,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 189.ºC ([^4^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0004)),\n\n(1) Considerando que é necessário adaptar a Directiva 80/778/CEE do Conselho, de 15 de Julho de 1980, relativa à qualidade das águas destinadas ao consumo humano ([^5^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0005)), ao progresso científico e tecnológico; que a experiência adquirida com a aplicação da referida directiva mostra que é necessário criar um quadro jurídico adequado, flexível e transparente que permita aos Estados-membros enfrentar quaisquer incumprimentos das normas; que, além disso, a directiva deve ser reanalisada em função do Tratado da União Europeia, nomeadamente, do princípio da subsidiariedade;\n\n(2) Considerando que, nos termos do artigo 3.ºB do Tratado, que prevê que a Comunidade actuará nos limites do necessário para atingir os objectivos do Tratado, a Directiva 80/778/CEE deve ser revista de forma a incidir no cumprimento dos parâmetros de qualidade e sanitários essenciais, deixando aos Estados-membros a liberdade de acrescentarem parâmetros secundários, se o considerarem necessário;\n\n(3) Considerando que, de acordo com o princípio da subsidiariedade, a acção da Comunidade deve apoiar e desenvolver a acção das autoridades competentes dos Estados-membros;\n\n(4) Considerando que, de acordo com o princípio da subsidiariedade, as diferenças naturais e socio-económicas entre as regiões da União exigem que a maioria das decisões sobre o controlo, análise e medidas a adoptar para corrigir qualquer incumprimento, sejam tomadas a nível local, regional ou nacional desde que não saiam do enquadramento legal, regulamentar e administrativo previsto na presente directiva;\n\n(5) Considerando que são necessárias normas comunitárias para os parâmetros essenciais e preventivos relacionados com a saúde no que respeita à água destinada ao consumo humano, de forma a definir os objectivos mínimos de qualidade ambiental relacionados com outras medidas comunitárias para salvaguardar e promover uma utilização sustentável da água destinada ao consumo humano;\n\n(6) Considerando a importância para a saúde da água destinada ao consumo humano, é necessário enumerar as normas de qualidade essenciais, a nível comunitário, a que deve estar sujeita essa água;\n\n(7) Considerando que é necessário incluir a água utilizada na indústria alimentar, excepto quando se estabelecer que a utilização dessa água não afecta a salubridade do produto acabado;\n\n(8) Considerando que, para garantir as normas de qualidade da água potável, há que tomar medidas de protecção adequadas para assegurar a boa qualidade nas águas de superfície e subterrâneas; que o mesmo objectivo pode ser atingido através de medidas de tratamento adequadas, a serem aplicadas antes do fornecimento;\n\n(9) Considerando que a coerência da política europeia da água pressupõe a adopção de uma directiva-quadro adequada;\n\n(10) Considerando que é necessário excluir do âmbito da presente directiva as águas minerais naturais e as águas que são produtos medicinais, uma vez que foram estabelecidas regras especiais para esses tipos de águas;\n\n(11) Considerando que são necessárias medidas para todos os parâmetros directamente relacionados com a saúde e para outros parâmetros, em caso de deterioração da qualidade da água; que, além disso, essas medidas não devem pôr em causa a aplicação da Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado ([^6^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0006)), e da Directiva 98/8/CE do Parlamento Europeu e do Conselho, de 16 de Fevereiro de 1998, relativa à colocação de produtos biocidas no mercado ([^7^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0007));\n\n(12) Considerando que é necessário estabelecer valores paramétricos específicos para as substâncias relevantes em toda a Comunidade, a um nível suficientemente estrito para garantir que se atinja o objectivo da directiva;\n\n(13) Considerando que os valores paramétricos se baseiam nos actuais conhecimentos científicos e no princípio da acção preventiva; que esses valores foram seleccionados para garantir que a água destinada ao consumo humano possa ser consumida com segurança durante toda a vida do consumidor, concorrendo assim para um elevado nível de protecção da saúde;\n\n(14) Considerando que se deverá atingir um equilíbrio para evitar riscos microbiológicos e químicos; que, para tanto, e à luz de uma futura revisão dos valores paramétricos, a adopção de valores paramétricos aplicáveis à água destinada ao consumo humano deverá basear-se em considerações de saúde pública e num método de avaliação do risco;\n\n(15) Considerando que actualmente não é evidente qual deve ser a base dos valores paramétricos, a nível comunitário, para anular os efeitos dos produtos químicos endócrinos, havendo mesmo uma maior preocupação sobre o impacto potencial, nas pessoas e animais, dos efeitos das substâncias nocivas para a saúde;\n\n(16) Considerando que as normas do anexo I se baseiam, de uma forma geral, nas «Directrizes para a qualidade da água potável» da Organização Mundial da Saúde e no parecer do Comité Científico de Análise da Toxicidade e da Ecotoxicidade dos Compostos Químicos da Comissão;\n\n(17) Considerando que os Estados-membros devem, estabelecer valores para parâmetros adicionais não incluídos no anexo I, sempre que tal seja necessário para proteger a saúde humana nos respectivos territórios;\n\n(18) Considerando que os Estados-membros podem estabelecer valores para parâmetros adicionais não incluídos no anexo I, sempre que tal seja considerado necessário para garantir a qualidade da produção, distribuição e controlo da água destinada ao consumo humano;\n\n(19) Considerando que, ao estabelecer normas mais estritas do que as do anexo I, partes A e B, ou normas para parâmetros adicionais não incluídos no anexo I mas necessárias para a protecção da saúde humana, os Estados-membros deverão notificar a Comissão dessas normas;\n\n(20) Considerando que, ao introduzirem ou manterem medidas de protecção mais estritas, os Estados-membros são obrigados a observar os princípios e as normas do Tratado tal como interpretados pelo Tribunal de Justiça;\n\n(21) Considerando que os valores paramétricos devem ser cumpridos no local onde a água destinada ao consumo humano é obtida pelo utilizador adequado;\n\n(22) Considerando que a qualidade da água destinada ao consumo humano pode ser influenciada pelo sistema de distribuição; que, além disso, se reconhece que a responsabilidade pelo sistema de distribuição doméstico ou pela sua manutenção pode não ser dos Estados-membros;\n\n(23) Considerando que os Estados-membros devem estabelecer programas de controlo para verificar se a água destinada ao consumo humano respeita os requisitos da presente directiva; que esses programas de controlo devem ser adequados às necessidades locais e respeitar os requisitos de controlo mínimos estabelecidos na presente directiva;\n\n(24) Considerando que os métodos utilizados para a análise da qualidade da água destinada ao consumo humano devem garantir que os resultados obtidos sejam fiáveis e comparáveis;\n\n(25) Considerando que, em caso de incumprimento das normas da presente directiva, os Estados-membros devem investigar as causas e tomar, o mais rapidamente possível, as medidas de correcção necessárias para garantir o restabelecimento da qualidade da água;\n\n(26) Considerando que é importante prevenir um perigo potencial para a saúde humana proveniente de água contaminada; que o fornecimento dessa água deverá ser proibido ou a sua utilização restringida;\n\n(27) Considerando que, no caso de incumprimento de um parâmetro com uma função indicadora, os Estados-membros deverão examinar se desse facto resulta qualquer risco para a saúde humana; que deverão adoptar acções de correcção da qualidade da água, sempre que tal seja necessário para proteger a saúde humana;\n\n(28) Considerando que, se essas medidas de correcção forem necessárias para restabelecer a qualidade da água destinada ao consumo humano, se deve dar prioridade às medidas que corrijam o problema na origem, nos termos do n.º 2 do artigo 130.ºR do Tratado;\n\n(29) Considerando que, em determinados casos, os Estados-membros devem poder prever derrogações a esta directiva; que, além disso, é necessário estabelecer um quadro adequado para essas derrogações, desde que elas não constituam um perigo potencial para a saúde humana e desde que o fornecimento da água potável, numa determinada área, não possa ser mantido por qualquer outro meio razoável;\n\n(30) Considerando que, uma vez que o tratamento ou a distribuição de água destinada ao consumo humano pode exigir a utilização de determinadas substâncias ou materiais, são necessárias normas que orientem a sua utilização de forma a evitar possíveis efeitos prejudiciais para a saúde humana;\n\n(31) Considerando que o progresso técnico e científico pode exigir a rápida adaptação dos requisitos técnicos previstos nos anexos II e III; que, além disso, para facilitar a execução das medidas necessárias para este efeito, é conveniente prever um procedimento segundo o qual a Comissão possa adoptar essas adaptações com a assistência de um comité composto por representantes dos Estados-membros;\n\n(32) Considerando que os consumidores deverão ser devidamente informados da qualidade da água destinada ao consumo humano, de quaisquer derrogações feitas pelos Estados-membros e de qualquer medida de correcção adoptada pelas autoridades competentes; que, além disso, é necessário tomar em consideração as necessidades técnicas e estatísticas da Comissão, bem como os direitos de cada cidadão de obter as informações adequadas sobre a qualidade da água destinada ao consumo humano;\n\n(33) Considerando que, em circunstâncias excepcionais e em áreas geograficamente definidas, pode ser necessário conceder aos Estados-membros um prazo maior para o cumprimento de certas disposições da presente directiva;\n\n(34) Considerando que a presente directiva não deve afectar as obrigações dos Estados-membros relativamente aos prazos de transposição para a legislação nacional e a aplicação referidas no anexo IV,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "8f55ac4e99686f6e": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\n1. A presente directiva diz respeito à qualidade da água destinada ao consumo humano.\n\n2. A directiva tem por objectivo proteger a saúde humana dos efeitos nocivos resultantes de qualquer contaminação da água destinada ao consumo humano, assegurando a sua salubridade e limpeza."
+  },
+  "47f94e53845439d5": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Água destinada ao consumo humano»:\n\na) Toda a água, no seu estado original ou após tratamento, destinada a ser bebida, a cozinhar, à preparação de alimentos ou para outros fins domésticos, independentemente da sua origem e de ser ou não fornecida a partir de uma rede de distribuição, de um camião ou navio-cisterna, em garrafas ou outros recipientes;\n\nb) Toda a água utilizada numa empresa da indústria alimentar para o fabrico, transformação, conservação ou comercialização de produtos ou substâncias destinados ao consumo humano, excepto se as autoridades nacionais competentes determinarem que a qualidade da água não afecta a salubridade do género alimentício na sua forma acabada.\n\n2. «Sistema de distribuição doméstica»: as canalizações, acessórios e aparelhos instalados entre as torneiras normalmente utilizadas para o consumo humano e a rede de distribuição, mas só se essas canalizações, acessórios e aparelhos não forem da responsabilidade do abastecedor de água, na sua qualidade de abastecedor de água, nos termos da legislação nacional aplicável."
+  },
+  "d311be691edfbe87": {
+   "fragment_id": "Artigo 3.º — Isenções",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Isenções\n\n1. A presente directiva não é aplicável a:\n\na) Águas minerais naturais como tal reconhecidas pelas autoridades nacionais competentes, nos termos da Directiva 80/777/CEE do Conselho, de 15 de Julho de 1980, relativa à aproximação das legislações dos Estados-membros respeitantes à exploração e à comercialização de águas minerais naturais ([^8^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0008));\n\nb) Águas que são produtos medicinais, na acepção da Directiva 65/65/CEE, de 26 de Janeiro de 1965, relativa à aproximação das disposições legislativas, regulamentares e administrativas, respeitantes aos medicamentos ([^9^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0009)).\n\n2. Os Estados-membros podem isentar do disposto na presente directiva:\n\na) A água destinada exclusivamente aos fins para os quais as autoridades competentes determinarem que a qualidade da água não tem qualquer influência, directa ou indirecta, na saúde dos consumidores em causa;\n\nb) A água destinada ao consumo humano proveniente de fontes individuais que forneçam menos de 10 m^3^, por dia em média ou que sirvam menos de 50 pessoas, excepto se essa água for fornecida no âmbito de uma actividade comercial ou pública.\n\n3. Os Estados-membros que façam uso da isenção prevista na alínea b) do n.º 2 assegurarão que a população afectada seja informada da mesma e de qualquer medida tomada para proteger a saúde humana dos efeitos nocivos resultantes de qualquer contaminação da água destinada ao consumo humano. Além disso, quando estiver patente um perigo potencial para a saúde humana devido à qualidade dessa água, deverá ser prontamente prestado o aconselhamento adequado à população interessada."
+  },
+  "d8dc862536ae6a26": {
+   "fragment_id": "Artigo 4.º — Obrigações gerais",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Obrigações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obrigações gerais\n\n1. Sem prejuízo das suas obrigações nos termos de outras disposições comunitárias, os Estados-membros tomarão as medidas necessárias para garantir que a água destinada ao consumo humano seja salubre e limpa. Para efeitos do cumprimento dos requisitos mínimos da presente directiva, a água destinada ao consumo humano é salubre e limpa se:\n\na) Não contiver microrganismos, parasitas nem quaisquer substâncias em quantidades ou concentrações que constituam um perigo potencial para a saúde humana; e\n\nb) Preencher os requisitos mínimos especificados nas partes A e B do anexo I,\n\ne se, segundo as disposições aplicáveis dos artigos 5.º a 8.º e 10.º, os Estados-membros tomarem, nos termos do Tratado, todas as outras medidas necessárias para garantir que a água destinada ao consumo humano preenche os requisitos da presente directiva.\n\n2. Os Estados-membros garantirão que as medidas tomadas em execução da presente directiva não permitirão em circunstância alguma, directa ou indirectamente, qualquer deterioração da actual qualidade da água destinada ao consumo humano na medida em que tal seja relevante para a protecção da saúde humana, nem qualquer aumento da poluição das águas utilizadas para a produção de água potável."
+  },
+  "2c94503faaada495": {
+   "fragment_id": "Artigo 5.º — Normas de qualidade",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Normas de qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Normas de qualidade\n\n1. Os Estados-membros fixarão os valores aplicáveis à água destinada ao consumo humano para os parâmetros estabelecidos no anexo I.\n\n2. Os valores fixados nos termos do n.º 1 não serão menos rigorosos do que os estabelecidos no anexo I. No que se refere aos parâmetros da parte C do anexo I, os valores devem ser fixados apenas para efeitos de controlo e de cumprimento das obrigações previstas no artigo 8.º\n\n3. Os Estados-membros fixarão valores para parâmetros adicionais não incluídos no anexo I, sempre que a protecção da saúde humana nos respectivos territórios, ou em parte deles, assim o exigir. Os valores fixados deverão, no mínimo, preencher os requisitos do n.º 1, alínea a), do artigo 4.º"
+  },
+  "562d9c3c5ee7cc20": {
+   "fragment_id": "Artigo 6.º — Limiares de conformidade",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Limiares de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Limiares de conformidade\n\n1. Os valores paramétricos fixados nos termos do artigo 5.º serão respeitados:\n\na) No caso da água fornecida a partir de uma rede de distribuição, no ponto em que, no interior de uma instalação ou estabelecimento, sai das torneiras normalmente utilizadas para consumo humano; ou\n\nb) No caso da água fornecida a partir de camiões e navios-cisterna, no ponto em que sai desses camiões e navios-cisterna; ou\n\nc) No caso da água destinada à venda em garrafas ou outros recipientes, no ponto em que é colocada nas garrafas ou outros recipientes; ou\n\nd) No caso da água utilizada numa empresa da indústria alimentar, no ponto em que a água é utilizada na empresa.\n\n2. No caso da água definida nos termos da alínea a) do n.º 1, considera-se que os Estados-membros cumpriram as suas obrigações nos termos do presente artigo, do artigo 4.º e do n.º 2 do artigo 8.º sempre que se possa demonstrar que o incumprimento dos valores paramétricos fixados nos termos do artigo 5.º é devido ao sistema de distribuição doméstica ou à sua manutenção, excepto nas instalações e estabelecimentos em que se fornece água ao público, tais como escolas, hospitais e restaurantes.\n\n3. Sempre que seja aplicável o disposto no n.º 2 e exista o risco de a água, na acepção da alínea a) do n.º 1, não satisfazer os valores paramétricos fixados nos termos do artigo 5.º, os Estados-membros assegurarão, não obstante, que:\n\na) Sejam tomadas medidas adequadas para reduzir ou eliminar o risco de incumprimento dos valores paramétricos, tais como o aconselhamento dos proprietários quanto a eventuais medidas de correcção a tomar; e/ou\n\nb) Os consumidores afectados sejam devidamente informados e aconselhados sobre eventuais medidas de correcção suplementares que devam tomar."
+  },
+  "62ae11bf8b374abc": {
+   "fragment_id": "Artigo 7.º — Controlo",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Controlo\n\n1. Os Estados-membros tomarão todas as medidas necessárias para garantir a realização de um controlo regular da qualidade da água destinada ao consumo humano, a fim de verificar se a água posta à disposição dos consumidores preenche os requisitos da presente directiva, em especial os valores paramétricos fixados nos termos do artigo 5.º Devem ser recolhidas amostras representativas da qualidade da água fornecida durante todo o ano. Além disso, os Estados-membros tomarão todas as medidas necessárias para garantir que, sempre que a desinfecção faça parte do esquema de tratamento ou da distribuição da água para consumo humano, seja verificada a eficácia do tratamento de desinfecção aplicado e que a contaminação por subprodutos de desinfecção seja mantida a um nível tão baixo quanto possível, sem comprometer a desinfecção.\n\n2. Para cumprir as obrigações previstas no n.º 1, as autoridades competentes estabelecerão programas de controlo adequados para qualquer água destinada ao consumo humano. Esses programas devem preencher os requisitos mínimos estabelecidos no anexo II.\n\n3. Os pontos de amostragem serão determinados pelas autoridades competentes e deverão preencher os requisitos pertinentes do anexo II.\n\n4. Podem ser elaboradas linhas de orientação comunitárias para o controlo referido no presente artigo, pelo procedimento de gestão a que se refere o n.º 2 do artigo 12.º.\n\na) Os Estados-membros cumprirão as especificações para as análises dos parâmetros estabelecidas no anexo III\n\nb) Poderão ser utilizados métodos alternativos aos especificados na parte 1 do anexo III, desde que se possa demonstrar que os resultados obtidos são pelo menos tão fiáveis como os decorrentes da aplicação dos métodos especificados. Os Estados-membros que recorrerem a um método alternativo deverão fornecer à Comissão todas as informações relevantes sobre esse método e a sua equivalência;\n\nc) Para os parâmetros enumerados nas partes 2 e 3 do anexo III, pode ser utilizado qualquer método desde que respeite os requisitos estabelecidos no referido anexo.\n\n6. Os Estados-membros garantirão a realização, caso a caso, de controlos suplementares de substâncias e microrganismos para os quais não tenham sido fixados valores paramétricos nos termos do artigo 5.º, se houver razões para suspeitar que os mesmos podem estar presentes em quantidades ou números que constituam um perigo potencial para a saúde humana."
+  },
+  "b9c3083e33c555c3": {
+   "fragment_id": "Artigo 8.º — Medidas de correcção e restrições de utilização",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Medidas de correcção e restrições de utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Medidas de correcção e restrições de utilização\n\n1. Os Estados-membros garantirão que qualquer incumprimento dos valores paramétricos fixados nos termos do artigo 5.º seja imediatamente investigado a fim de identificar a sua causa.\n\n2. Se, apesar das medidas adoptadas para o cumprimento das obrigações previstas no n.º 1 do artigo 4.º, a água destinada ao consumo humano não obedecer aos valores paramétricos fixados nos termos do artigo 5.º, e sob reserva do disposto no n.º 2 do artigo 6.º, os Estados-membros garantirão que sejam tomadas, com a maior brevidade, as medidas correctivas necessárias para restabelecer a sua qualidade e darão prioridade à sua execução tendo em conta valor do desvio relativamente ao valor paramétrico pertinente e o risco potencial para a saúde humana.\n\n3. Quer os valores paramétricos tenham ou não sido respeitados, os Estados-membros garantirão a proibição do abastecimento ou a restrição da utilização de água destinada ao consumo humano que constitua um perigo potencial para a saúde humana, ou qualquer outra medida necessária para proteger a saúde humana. Nesses casos, os consumidores devem ser imediatamente informados e devidamente aconselhados.\n\n4. As autoridades ou outros organismos competentes decidirão qual das medidas previstas no n.º 3 deve ser tomada, tendo igualmente em conta os riscos para a saúde humana decorrentes da interrupção do abastecimento ou da restrição da utilização da água destinada ao consumo humano.\n\n5. Os Estados-membros podem estabelecer linhas de orientação para assistir as autoridades competentes no cumprimento das obrigações previstas no n.º 4.\n\n6. Em caso de incumprimento dos valores paramétricos ou das especificações constantes da parte C do anexo I, os Estados-membros determinarão se esse incumprimento apresenta riscos para a saúde humana e tomarão as medidas de correcção adequadas para restabelecer a qualidade da água sempre que a protecção da saúde humana o exija.\n\n7. Os Estados-membros garantirão que, quando forem tomadas medidas de correcção, os consumidores sejam notificados, excepto se as autoridades competentes considerarem o incumprimento do valor paramétrico insignificante."
+  },
+  "7f237569c37992b7": {
+   "fragment_id": "Artigo 9.º — Derrogações",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Derrogações\n\n1. Os Estados-membros podem prever derrogações dos valores paramétricos fixados na parte B do anexo I ou nos termos do n.º 3 do artigo 5.º até um valor máximo a determinar por eles, desde que as derrogações não constituam um perigo potencial para a saúde humana e que o abastecimento de água destinada ao consumo humano na zona em causa não possa ser mantido por outro meio razoável. As derrogações deverão limitar-se a um período tão breve quanto possível e nunca superior a três anos, no final do qual deverá ser feito um balanço para verificar se foram realizados progressos suficientes. Se pretenderem conceder uma segunda derrogação, os Estados-membros transmitirão à Comissão esse balanço, acompanhado dos motivos que justificam a segunda derrogação, que também não poderá exceder um período de três anos.\n\n2. Em circunstâncias excepcionais, os Estados-membros poderão solicitar à Comissão uma terceira derrogação por um período máximo de três anos. A Comissão tomará uma decisão sobre este pedido num prazo de três meses.\n\n3. As derrogações concedidas nos termos dos n.^os^ 1 e 2 deverão especificar os seguintes elementos:\n\na) O motivo da derrogação;\n\nb) O parâmetro em causa, os resultados de controlos pertinentes anteriores e o valor máximo admissível ao abrigo da derrogação;\n\nc) A área geográfica, a quantidade de água fornecida por dia, a população implicada e eventuais repercussões em empresas da indústria alimentar interessadas;\n\nd) Um sistema de controlo adequado, com aumento da frequência de controlos, se necessário;\n\ne) Um resumo do plano das medidas de correcção necessárias, incluindo um calendário do trabalho a realizar e uma estimativa dos custos e disposições de revisão;\n\nf) A duração da derrogação necessária.\n\n4. Se as autoridades competentes considerarem o incumprimento de um determinado valor paramétrico insignificante e que as acções de correcção adoptadas nos termos do n.º 2 do artigo 8.º permitem resolver o problema num prazo máximo de 30 dias, não é necessário aplicar os requisitos do n.º 3.\n\nNeste caso, as autoridades ou outros organismos competentes deverão estabelecer unicamente o valor máximo admissível para o parâmetro em causa e o prazo para resolver o problema.\n\n5. Não se pode recorrer ao n.º 4 quando o incumprimento do mesmo valor paramétrico para um determinado abastecimento de água se tiver verificado durante mais de 30 dias seguidos nos 12 meses anteriores.\n\n6. Os Estados-membros que recorrerem às derrogações previstas no presente artigo deverão garantir que a população afectada por qualquer derrogação seja imediata e devidamente informada da mesma e das respectivas condições. Além disso, os Estados-membros garantirão que os grupos da população para os quais a derrogação possa representar um risco especial sejam devidamente aconselhados, sempre que necessário.\n\nEstas obrigações não se aplicam à situação referida no n.º 4, salvo decisão em contrário das autoridades competentes.\n\n7. Com excepção das derrogações previstas no n.º 4, os Estados-membros informarão a Comissão, no prazo de dois meses, das derrogações relativas a um abastecimento superior a 1 000 m^3^ por dia em média ou a 5 000 pessoas, incluindo as informações especificadas no n.º 3.\n\n8. O disposto no presente artigo não é aplicável à água destinada ao consumo humano colocada à venda em garrafas ou outros recipientes."
+  },
+  "08d2b47a40ab1061": {
+   "fragment_id": "Artigo 10.º — Garantia de qualidade do tratamento, do equipamento e dos materiais",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Garantia de qualidade do tratamento, do equipamento e dos materiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Garantia de qualidade do tratamento, do equipamento e dos materiais\n\nOs Estados-membros tomarão todas as medidas necessárias para garantir que nenhumas substâncias ou materiais utilizados em novas instalações de tratamento e distribuição de água para consumo humano, ou quaisquer impurezas associadas a essas substâncias ou materiais, permaneçam nessa água em concentrações superiores às necessárias para os fins a que se destinam e reduzam, directa ou indirectamente, o nível de protecção da saúde humana previsto na presente directiva; o documento interpretativo e as acções técnicas específicas previstas no artigo 3.º e no n.º 1 do artigo 4.º da Directiva 89/106/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros no que respeita aos produtos de construção ([^10^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0010)), devem respeitar os requisitos da presente directiva."
+  },
+  "14d9f6bea543776c": {
+   "fragment_id": "Artigo 11.º — Revisão dos anexos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Revisão dos anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Revisão dos anexos\n\n1. A Comissão procederá, pelo menos de cinco em cinco anos, à revisão do anexo I com base no progresso técnico e científico e, se necessário, apresentará propostas de alteração nos termos do artigo 189.ºC do Tratado.\n\n2. A Comissão procede, pelo menos de cinco em cinco anos, à adaptação dos anexos II e III ao progresso técnico e científico.\n\nEstas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 12.º."
+  },
+  "2301581912a6c3ce": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. A Comissão é assistida por um Comité.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE ([^11^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0011)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º."
+  },
+  "8ad5b69a4370bc9f": {
+   "fragment_id": "Artigo 13.º — Informação e relatórios",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Informação e relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Informação e relatórios\n\n1. Os Estados-membros tomarão as medidas necessárias para garantir que os consumidores tenham acesso a informações adequadas e actualizadas sobre a qualidade da água destinada ao consumo humano.\n\n2. Sem prejuízo da Directiva 90/313/CEE do Conselho, de 7 de Junho de 1990, relativa à liberdade de acesso à informação em matéria de ambiente ([^12^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0012)), os Estados-membros publicarão um relatório trienal sobre a qualidade da água destinada ao consumo humano com o objectivo de informar os consumidores. O primeiro desses relatórios abrangerá os anos de 2002, 2003 e 2004. Cada relatório incluirá, no mínimo, abastecimentos superiores a uma média de 1 000 m^3^ por dia ou a 5 000 pessoas, abrangerá três anos civis e será publicado antes do final do ano civil seguinte ao período de informação.\n\n3. Os Estados-membros enviarão os respectivos relatórios à Comissão no prazo de dois meses após a sua publicação.\n\n4. Os modelos dos relatórios referidos no n.º 2 e as informações mínimas que deverão conter são determinados tendo especialmente em conta as medidas referidas no n.º 2 do artigo 3.º, nos n.^os^ 2 e 3 do artigo 5.º, no n.º 2 do artigo 7.º, no artigo 8.º, nos n.^os^ 6 e 7 do artigo 9.º e no n.º 1 do artigo 15.º, e são, se necessário, alterados pelo procedimento de gestão a que se refere o n.º 2 do artigo 12.º.\n\n5. A Comissão analisará os relatórios dos Estados-membros e publicará, de três em três anos, um relatório de síntese sobre a qualidade da água destinada ao consumo humano na Comunidade. Esse relatório será publicado no prazo de nove meses após a recepção dos relatórios dos Estados-membros.\n\n6. Juntamente com o primeiro relatório sobre a presente directiva, previsto no n.º 2, os Estados-Membros elaboram um relatório destinado à Comissão acerca das medidas tomadas ou previstas para dar cumprimento às obrigações que lhes incumbem por força do n.º 3 do artigo 6.º e da nota 10 da parte B do anexo I. Se necessário, será apresentada uma proposta relativa ao modelo deste relatório, pelo procedimento de gestão a que se refere o n.º 2 do artigo 12.º."
+  },
+  "b67b58dee1a13871": {
+   "fragment_id": "Artigo 14.º — Calendário de cumprimento",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Calendário de cumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Calendário de cumprimento\n\nOs Estados-membros tomarão as medidas necessárias para garantir que a qualidade da água destinada ao consumo humano cumpra o disposto na presente directiva, no prazo de cinco anos a contar da data da sua entrada em vigor, sem prejuízo do disposto nas notas 2, 4 e 10 da parte B do anexo I."
+  },
+  "fe3eae213726447b": {
+   "fragment_id": "Artigo 15.º — Circunstâncias excepcionais",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Circunstâncias excepcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Circunstâncias excepcionais\n\n1. Os Estados-membros podem, em circunstâncias excepcionais e para áreas geograficamente definidas, apresentar à Comissão um pedido especial para um prazo mais longo do que o previsto no artigo 14.º Esse prazo adicional não poderá ser superior a três anos, no final do qual deve ser efectuado um reexame a apresentar à Comissão, que, com base nele, poderá autorizar um novo período adicional de três anos, no máximo. Esta disposição não é aplicável à água destinada ao consumo humano, à venda em garrafas ou outros recipientes.\n\n2. O pedido, devidamente fundamentado, deve mencionar as dificuldades encontradas e incluir, no mínimo, toda a informação especificada no n.º 3 do artigo 9.º\n\n3. O pedido é analisado pelo procedimento de gestão a que se refere o n.º 2 do artigo 12.º.\n\n4. Os Estados-membros que recorram ao presente artigo deverão garantir que a população afectada pelo pedido seja imediata e devidamente informada do seguimento que lhe foi dado. Além disso, os Estados-membros garantirão que os grupos específicos da população para os quais o mesmo possa representar um risco especial sejam devidamente aconselhados, sempre que necessário."
+  },
+  "a1d8331d24568f2d": {
+   "fragment_id": "Artigo 16.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Revogação\n\n1. É revogada a Directiva 80/778/CEE, com efeitos cinco anos a contar da data de entrada em vigor da presente directiva. Sob reserva do disposto no n.º 2, esta revogação não prejudica as obrigações dos Estados-membros quanto aos prazos de transposição para o direito interno e de aplicação apresentados no anexo IV.\n\nAs remissões para a directiva revogada devem entender-se como sendo feitas para a presente directiva e devem ser lidas nos termos do quadro de correspondência do anexo V.\n\n2. Quando um Estado-membro tiver posto em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, bem como tomado as medidas previstas no artigo 14.º, passará a aplicar-se a presente directiva, e não a Directiva 80/778/CEE, à qualidade da água destinada ao consumo humano nesse Estado-membro."
+  },
+  "7c2aa7fc86144a08": {
+   "fragment_id": "Artigo 17.º — Transposição para o direito interno",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Transposição para o direito interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Transposição para o direito interno\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva no prazo de dois anos a contar da sua entrada em vigor. Do facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "015429293633853b": {
+   "fragment_id": "Artigo 18.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "cd499a96fc2cc39f": {
+   "fragment_id": "Artigo 19.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Destinatários\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "5746047438b3f7b4": {
+   "fragment_id": "PARÂMETROS E VALORES PARAMÉTRICOS",
+   "type": "divisao",
+   "heading": "PARÂMETROS E VALORES PARAMÉTRICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARÂMETROS E VALORES PARAMÉTRICOS"
+  },
+  "87cee521b2f0bb1e": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A"
+  },
+  "a80e1834f2330e99": {
+   "fragment_id": "Parâmetros microbiológicos",
+   "type": "divisao",
+   "heading": "Parâmetros microbiológicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parâmetros microbiológicos\n\nParâmetro Valor paramétrico (número/100 ml)\n\n*Escherichia coli (E. coli)* 0\n\nEnterococos 0\n\nPara a água colocada à venda em garrafas ou outros recipientes é aplicável o seguinte:\n\nParâmetro Valor paramétrico\n\n*Escherichia coli (E. coli)* 0/250 ml\n\nEnterococos 0/250 ml\n\n*Pseudomonas aeruginosa* 0/250 ml\n\nNúmero de colónias a 22 °C 100/ml\n\nNúmero de colónias a 37 °C 20/ml"
+  },
+  "6041be3baf7dcb43": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B"
+  },
+  "bd6e1be424845f6c": {
+   "fragment_id": "Parâmetros químicos",
+   "type": "divisao",
+   "heading": "Parâmetros químicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parâmetros químicos\n\n| Parâmetro | Valor paramétrico | Unidades | Notas |\n| --- | --- | --- | --- |\n| Acrilamida | 0,10 | μg/l | Nota 1 |\n| Antimónio | 5,0 | μg/l |  |\n| Arsénio | 10 | μg/l |  |\n| Benzeno | 1,0 | μg/l |  |\n| Benzeno(a) pireno | 0,010 | μg/l |  |\n| Boro | 1,0 | mg/l |  |\n| Bromatos | 10 | μg/l | Nota 2 |\n| Cádmio | 5,0 | μg/l |  |\n| Crómio | 50 | μg/l | Nota 3 |\n| Cobre | 2,0 | mg/l | Nota 3 |\n| Cianetos | 50 | μg/l |  |\n| 1,2-dicloroetano | 3,0 | μg/l |  |\n| Epicloridrina | 0,10 | μg/l | Nota 1 |\n| Fluoretos | 1,5 | mg/l |  |\n| Chumbo | 10 | μg/l | Notas 3 e 4 |\n| Mercúrio | 1,0 | μg/l |  |\n| Níquel | 20 | μg/l | Nota 3 |\n| Nitratos | 50 | mg/l | Nota 5 |\n| Nitritos | 0,50 | mg/l | Nota 5 |\n| Pesticidas | 0,10 | μg/l | Notas 6 e 7 |\n| Pesticidas — Total | 0,50 | μg/l | Notas 6 e 8 |\n| Hidrocarbonetos aromáticos policíclicos | 0,10 | μg/l | Soma das concentrações dos compostos especificados; Nota 9 |\n| Selénio | 10 | μg/l |  |\n| Tetracloroetano e tricloroetano | 10 | μg/l | Soma das concentrações dos parâmetros especificados |\n| Trialometanos — Total | 100 | μg/l | Soma das concentrações dos compostos especificados; Nota 10 |\n| Cloreto de vinilo | 0,50 | μg/l | Nota 1 |"
+  },
+  "0765caf35f9f1f14": {
+   "fragment_id": "Nota 1:",
+   "type": "divisao",
+   "heading": "Nota 1:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Nota 1:\n\nO valor paramétrico refere-se à concentração monomérica residual na água, calculada segundo as especificações da migração máxima do polímero correspondente em contacto com a água."
+  },
+  "a9aafa2b022b7aec": {
+   "fragment_id": "Nota 2:",
+   "type": "divisao",
+   "heading": "Nota 2:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Nota 2:\n\nQuando possível, e sem com isso comprometer a desinfecção, os Estados-membros deverão procurar aplicar um valor mais baixo.\n\nQuanto à água a que se refere o n.º 1, alíneas a), b) e d), do artigo 6.º, este valor deve ser respeitado o mais tardar 10 anos civis após a data de entrada em vigor da presente directiva. No período compreendido entre cinco e 10 anos após a entrada em vigor da presente directiva, o valor paramétrico para os bromatos será de 25 μg/l."
+  },
+  "6f4c8801b3855540": {
+   "fragment_id": "Nota 3:",
+   "type": "divisao",
+   "heading": "Nota 3:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Nota 3:\n\nO valor aplica-se a uma amostra de água destinada ao consumo humano obtida na torneira, por um método de amostragem adequado, e recolhida de modo a ser representativa do valor médio semanal ingerido pelos consumidores ([^13^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0013)). Sempre que apropriado, os métodos de amostragem e de controlo serão postos em prática de maneira harmonizada, a elaborar de acordo com o n.º 4 do artigo 7.º Os Estados-membros tomarão em consideração a ocorrência de picos de concentração susceptíveis de provocar efeitos adversos na saúde humana."
+  },
+  "1bdbf823997d6cda": {
+   "fragment_id": "Nota 4:",
+   "type": "divisao",
+   "heading": "Nota 4:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Nota 4:\n\nQuanto à água a que se refere o n.º 1, alíneas a), b) e d), do artigo 6.º, este valor deverá ser respeitado, o mais tardar, 15 anos civis após a data de entrada em vigor da presente directiva. No período compreendido entre cinco e 15 anos após a entrada em vigor da presente directiva, o valor paramétrico para o chumbo será de 25 μg/l.\n\nOs Estados-membros garantirão a aplicação de todas as medidas necessárias para reduzir, tanto quanto possível, a concentração de chumbo na água destinada ao consumo humano durante o período necessário ao cumprimento do valor paramétrico.\n\nAo aplicarem as medidas para atingir este valor, os Estados-membros deverão dar progressivamente prioridade aos pontos em que as concentrações de chumbo na água destinada ao consumo humano são mais elevadas."
+  },
+  "7bf7992d13cf2cef": {
+   "fragment_id": "Nota 5:",
+   "type": "divisao",
+   "heading": "Nota 5:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Nota 5:\n\nOs Estados-membros assegurarão a observância, à saída das estações de tratamento da água, da condição [nitratos]/50 + [nitritos]/3 ≤ 1, em que os parênteses rectos representam as concentrações em mg/l para os nitratos (NO3) e os nitritos (NO2), bem como do valor-limite de 0,10 mg para os nitritos."
+  },
+  "aa68ce3159225950": {
+   "fragment_id": "Nota 6:",
+   "type": "divisao",
+   "heading": "Nota 6:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Nota 6:\n\nEntende-se por «pesticidas»:\n\n— insecticidas orgânicos,\n\n— herbicidas orgânicos,\n\n— fungicidas orgânicos,\n\n— nematocidas orgânicos,\n\n— acaricidas orgânicos,\n\n— algicidas orgânicos,\n\n— rodenticidas orgânicos,\n\n— controladores orgânicos de secreções viscosas («slimicides»),\n\n— produtos afins (nomeadamente, reguladores do crescimento),\n\ne seus metabolitos, produtos de degradação e de reacção importantes.\n\nSó necessitam de ser controlados os pesticidas cuja presença é provável num determinado abastecimento de água."
+  },
+  "72e187c3d4a079e1": {
+   "fragment_id": "Nota 7:",
+   "type": "divisao",
+   "heading": "Nota 7:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Nota 7:\n\nO valor paramétrico aplica-se individualmente a cada pesticida. No caso da aldrina, da dialdrina, do heptacloro e do epóxido de heptacloro o valor paramétrico é de 0,030 μg/l."
+  },
+  "785b7d1f43381b18": {
+   "fragment_id": "Nota 8:",
+   "type": "divisao",
+   "heading": "Nota 8:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Nota 8:\n\n«Pesticidas — Total» significa a soma de todos os pesticidas detectados e quantificados no processo de controlo."
+  },
+  "9d41a2572979307e": {
+   "fragment_id": "Nota 9:",
+   "type": "divisao",
+   "heading": "Nota 9:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Nota 9:\n\nOs compostos especifados são:\n\n— benzo[b]fluoranteno,\n\n— benzo[k]fluoranteno,\n\n— benzo[ghi]perileno,\n\n— indeno[1,2,3-cd]pireno."
+  },
+  "bcaf930c470c21d5": {
+   "fragment_id": "Nota 10:",
+   "type": "divisao",
+   "heading": "Nota 10:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Nota 10:\n\nQuando possível, e sem com isso comprometer a desinfecção, os Estados-membros deverão procurar aplicar um valor mais baixo.\n\nOs compostos especificados são: clorofórmio, bromofórmio, dibromoclorometano, bromodiclorometano.\n\nQuanto à água a que se refere o n.º 1, alíneas a), b) e d), do artigo 6.º, este valor deve ser respeitado, o mais tardar, 10 anos civis após a data de entrada em vigor da presente directiva. No período entre cinco e 10 anos após a entrada em vigor da presente directiva, o valor de TAM total será de 150 μg/l.\n\nOs Estados-membros garantirão a adopção de todas as medidas necessárias para reduzir, tanto quanto possível, a concentração de TAM na água destinada ao consumo humano durante o período previsto para o cumprimento do valor paramétrico.\n\nAo aplicarem as medidas para atingir este valor, os Estados-membros deverão dar progressivamente prioridade às zonas em que as concentrações de TAM (trialometanos) na água destinada ao consumo humano são as mais elevadas."
+  },
+  "f47f12ac437a185c": {
+   "fragment_id": "PARTE C",
+   "type": "divisao",
+   "heading": "PARTE C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE C"
+  },
+  "89fecd7ba6e8e579": {
+   "fragment_id": "Parâmetros indicadores",
+   "type": "divisao",
+   "heading": "Parâmetros indicadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parâmetros indicadores\n\n| Parâmetro | Valor paramétrico | Unidades | Notas |\n| --- | --- | --- | --- |\n| Alumínio | 200 | μg/l |  |\n| Amónio | 0,50 | mg/l |  |\n| Cloreto | 250 | mg/l | Nota 1 |\n| *Clostridium perfringens* (incluindo esporos) | 0 | número/100 ml | Nota 2 |\n| Cor | Aceitável para os consumidores e sem alteração anormal |  |  |\n| Condutividade | 2 500 | μS cm^-1^ a 20 °C | Nota 1 |\n| Concentração hidrogeniónica | ≥ 6,5 e ≤ 9,5 | unidades pH | Notas 1 e 3 |\n| Ferro | 200 | μg/l |  |\n| Manganês | 50 | μg/l |  |\n| Odor | Aceitável para os consumidores e sem alteração anormal |  |  |\n| Oxidabilidade | 5,0 | mg/l O2 | Nota 4 |\n| Sulfatos | 250 | mg/l | Nota 1 |\n| Sódio | 200 | mg/l |  |\n| Sabor | Aceitável para os consumidores e sem alteração anormal |  |  |\n| Número de colónias a 22 °C | Nenhuma alteração anormal |  |  |\n| Coliformes totais | 0 | número/100 ml | Nota 5 |\n| Carbono orgânico total (COT) | Sem alteração anormal |  | Nota 6 |\n| Turvação | Aceitável para os consumidores e sem alteração anormal |  | Nota 7 |\n\n| Parâmetro | Valor paramétrico | Unidades | Notas |\n| --- | --- | --- | --- |\n| Trítio | 100 | Becquerel/l | Notas 8 e 10 |\n| Dose indicativa total | 0,10 | mSv/ano | Notas 9 e 10 |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "cc346d6a6d769850": {
+   "fragment_id": "CONTROLO",
+   "type": "divisao",
+   "heading": "CONTROLO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTROLO"
+  },
+  "1f1c5b350694a779": {
+   "fragment_id": "QUADRO A",
+   "type": "divisao",
+   "heading": "QUADRO A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### QUADRO A"
+  },
+  "7a5d73f62366b754": {
+   "fragment_id": "Parâmetros a analisar",
+   "type": "divisao",
+   "heading": "Parâmetros a analisar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parâmetros a analisar"
+  },
+  "d7317c4ab3f63593": {
+   "fragment_id": "1. Controlo de rotina",
+   "type": "divisao",
+   "heading": "1. Controlo de rotina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Controlo de rotina\n\nO objectivo do controlo de rotina é fornecer, regularmente, informações sobre a qualidade organoléptica e microbiológica da água destinada ao consumo humano, bem como informações sobre a eficácia dos tratamentos de água potável (especialmente a desinfecção) quando estes se realizem, tendo em vista determinar se a água destinada ao consumo humano está em conformidade com os correspondentes valores paramétricos estabelecidos na directiva.\n\nOs seguintes parâmetros serão sujeitos a controlos de rotina. Os Estados-membros podem aditar outros parâmetros a esta lista se o considerarem necessário.\n\nAlumínio (Nota 1)\n\nAmónio\n\nCor\n\nCondutividade\n\n*Clostridium perfringens* (incluindo esporos) (Nota 2)\n\n*Escherichia coli (E. coli)*\n\nConcentração hidrogeniónica\n\nFerro (Nota 1)\n\nNitritos (Nota 3)\n\nOdor\n\n*Pseudomonas aeruginosa* (Nota 4)\n\nSabor\n\nNúmero de colónias a 22 °C e a 37 °C (Nota 4)\n\nColiformes totais\n\nTurvação\n\n| *Nota 1:* | Necessário só quando usado como floculante [(^1^)](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0014). |\n| --- | --- |\n| *Nota 2:* | Necessário só se a água tiver origem em/for influenciada por águas superficiais [(^1^)](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0014). |\n| *Nota 3:* | Necessário só quando a cloraminação é utilizada como desinfectante [(^1^)](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0014). |\n| *Nota 4:* | Necessário só para a água colocada à venda em garrafas ou outros recipientes. |\n| (^1^)Em todos os outros casos, os parâmetros encontram-se na lista do controlo de inspecção. |  |"
+  },
+  "25ebb23b47a2e297": {
+   "fragment_id": "2. Controlo de inspecção",
+   "type": "divisao",
+   "heading": "2. Controlo de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Controlo de inspecção\n\nO objectivo do controlo de inspecção é fornecer a informação necessária para determinar se valores paramétricos da directiva estão ou não a ser respeitados. Todos os parâmetros fixados de acordo com os n.^os^ 2 e 3 do artigo 5.º deverão ser sujeitos a controlo de inspecção, excepto no caso de as autoridades competentes estabelecerem que, durante um certo período por elas estabelecido, não é provável que esse parâmetro esteja presente num determinado abastecimento de água em concentrações que possam implicar o incumprimento do valor paramétrico pertinente. Este ponto não é aplicável aos parâmetros de radioactividade sujeitos às notas 8, 9 e 10 da parte C do anexo I que serão controladas segundo os requisitos de controlo adoptados nos termos do artigo 12.º pela Comissão. Estas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo referido no n.º 3 do artigo 12.º."
+  },
+  "0fc5535668312388": {
+   "fragment_id": "QUADRO B1",
+   "type": "divisao",
+   "heading": "QUADRO B1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### QUADRO B1"
+  },
+  "10736b89d2085afc": {
+   "fragment_id": "Frequência mínima de amostragem e análise da água destinada ao consumo humano fornecida por uma rede de distribuição ou por um camião-cisterna ou utilizada numa empresa da indústria alimentar",
+   "type": "divisao",
+   "heading": "Frequência mínima de amostragem e análise da água destinada ao consumo humano fornecida por uma rede de distribuição ou por um camião-cisterna ou utilizada numa empresa da indústria alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Frequência mínima de amostragem e análise da água destinada ao consumo humano fornecida por uma rede de distribuição ou por um camião-cisterna ou utilizada numa empresa da indústria alimentar\n\nOs Estados-membros colherão amostras nos pontos obrigatórios definidos no n.º 1 do artigo 6.º, para se assegurarem de que a água destinada ao consumo humano satisfaz os requisitos da directiva. No entanto, no caso de uma rede de distribuição, os Estados-membros podem colher amostras dentro da zona de abastecimento ou na instalação de tratamento para investigação de determinados parâmetros, se for possível demonstrar que não há alterações negativas no valor dos parâmetros medidos.\n\n| Volume de água distribuída ou produzida por dia numa zona de abastecimento (Notas 1 e 2) m^3^ | Controlo de rotina Número de amostras por ano (Notas 3, 4 e 5) | Controlo de inspecção Número de amostras por ano (Notas 3 e 5) |  |\n| --- | --- | --- | --- |\n|  | ≤ 100 | (Nota 6) | (Nota 6) |\n| > 100 | ≤ 1 000 | 4 | 1 |\n| > 1 000 | ≤ 10 000 | 4 + 3 por cada 1 000 m^3^/d e fracção remanescente para o volume total | 1 + 1 por cada 3 300 m^3^/d e fracção remanescente para o volume total |\n| > 10 000 | ≤ 100 000 | 3 + 1 por cada 10 000 m^3^/d e fracção remanescente para o volume total |  |\n| > 100 000 |  | 10 + 1 por cada 25 000 m^3^/d e fracção remanescente para o volume total |  |\n| Nota 1:Uma zona de abastecimento é uma zona geográfica definida na qual a água destinada ao consumo humano provém de uma ou várias fontes e na qual a qualidade da água pode ser considerada aproximadamente uniforme.Nota 2:Os volumes são calculados como médias durante um ano civil. Os Estados-membros podem utilizar o número de habitantes de uma zona de abastecimento em vez do volume de água para determinar a frequência mínima, partindo do princípio de um consumo de água de 200 l/dia/pessoa.Nota 3:No caso de abastecimento de curto prazo intermitente, a frequência do controlo da água distribuída por camiões-cisterna será decidida pelo Estado-membro em questão.Nota 4:Para os diferentes parâmetros do anexo I, os Estados-membros podem reduzir o número de amostras especificadas no quadro, se: a) Os valores dos resultados obtidos de amostras colhidas durante um período de pelo menos dois anos consecutivos forem constantes e significativamente melhores do que os limites estabelecidos no anexo I; e b) Não tiver sido detectado qualquer factor susceptível de causar deterioração da qualidade da água. A frequência mínima aplicável não será menos de 50 % do número de amostras especificadas no quadro excepto no caso especial da nota 6.Nota 5:Na medida do possível, o número de amostras deverá ser distribuído equitativamente no espaço e no tempo.Nota 6:A frequência será decidida pelo Estado-membro em causa. |  |  |  |"
+  },
+  "2059bba572f1ab2c": {
+   "fragment_id": "QUADRO B2",
+   "type": "divisao",
+   "heading": "QUADRO B2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### QUADRO B2"
+  },
+  "2bb655baf3e75314": {
+   "fragment_id": "Frequência mínima de amostragem e análise de águas colocadas à venda em garrafas ou outros recipientes",
+   "type": "divisao",
+   "heading": "Frequência mínima de amostragem e análise de águas colocadas à venda em garrafas ou outros recipientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Frequência mínima de amostragem e análise de águas colocadas à venda em garrafas ou outros recipientes\n\n| Volume de água produzida por dia [(^1^)](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0015) para colocação à venda em garrafas ou outros recipientes m^3^ | Controlo de rotina Número de amostras por ano | Controlo de inspecção Número de amostras por ano |  |\n| --- | --- | --- | --- |\n| ≤ 10 |  | 1 | 1 |\n| > 10 | ≤ 60 | 12 | 1 |\n| > 60 |  | 1 por cada 5 m^3^ e fracção remanescente para o volume total | 1 por cada 100 m^3^ e fracção remanescente para o volume total |\n| (^1^)Os volumes são calculados como médias durante um ano civil. |  |  |  |"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "b4a97f90fdc6b9e5": {
+   "fragment_id": "ESPECIFICAÇÕES PARA A ANÁLISE DOS PARÂMETROS",
+   "type": "divisao",
+   "heading": "ESPECIFICAÇÕES PARA A ANÁLISE DOS PARÂMETROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESPECIFICAÇÕES PARA A ANÁLISE DOS PARÂMETROS\n\nOs Estados-membros assegurarão que qualquer laboratório onde sejam analisadas amostras possua um sistema de controlo de qualidade analítica sujeito, de vez em quando, a uma verificação por uma pessoa independente em relação ao laboratório e aprovada pela autoridade competente para essa finalidade."
+  },
+  "52404852ae91e37d": {
+   "fragment_id": "1. PARÂMETROS PARA OS QUAIS SÃO DEFINIDOS MÉTODOS DE ANÁLISE",
+   "type": "divisao",
+   "heading": "1. PARÂMETROS PARA OS QUAIS SÃO DEFINIDOS MÉTODOS DE ANÁLISE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. PARÂMETROS PARA OS QUAIS SÃO DEFINIDOS MÉTODOS DE ANÁLISE\n\nOs princípios relativos aos métodos de aplicação dos parâmetros microbiológicos a seguir enunciados são-no quer a título de referência, quando se indica um método CEN/ISO, quer a título de orientação, enquanto se aguarda uma possível aprovação futura, pela Comissão, de métodos internacionais CEN/ISO para esses parâmetros. Os Estados-Membros podem utilizar métodos alternativos, desde que sejam cumpridas as disposições do n.º 5 do artigo 7.º.\n\nEstas medidas, sobre futuros métodos internacionais CEN/ISO, que têm por objecto alterar elementos não essenciais da presente directiva, nomeadamente completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 12.º.\n\nBactérias coliformes e *Escherichia coli (E. coli)* (ISO 9308-1)\n\nEnterococos (ISO 7899-2)\n\n*Pseudomonas aeruginosa* (prEN ISO 12780)\n\nEnumeração de microrganismos viáveis — Número de colónias a 22 °C (prEN ISO 6222)\n\nEnumeração de microrganismos viáveis — Número de colónias a 37 °C (prEN ISO 6222)\n\n*Clostridium perfringens* (incluindo esporos)\n\nFiltração em membrana seguida de incubação anaeróbica da membrana em m-CP ágar (Nota 1) a 44 ± 1 °C durante 21 ± 3 horas. Contagem das colónias amarelas opacas que passam a rosa ou vermelho após exposição, durante 20 a 30 segundos, a vapores de hidróxido de amónio."
+  },
+  "7417824419481151": {
+   "fragment_id": "Nota 1:",
+   "type": "divisao",
+   "heading": "Nota 1:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Nota 1:\n\nA composição do m-CP agar é a seguinte:\n\nMeio de base\n\nTriptose 30 g\n\nExtracto de levedura 20 g\n\nSacarose 5 g\n\nHidrocloreto de L-cisteína 1 g\n\nMgSO4·7H2O 0,1 g\n\nPúrpura de bromocresol 40 mg\n\nÁgar 15 g\n\nÁgua 1 000 ml\n\nOs ingredientes do meio de base são dissolvidos e o pH ajustado a 7,6. Autoclave a 121 °C durante 15 minutos. Deixar arrefecer a adicionar:\n\nD-ciclosserina 400 mg\n\nSulfato de B-polimixina 25 mg\n\nIndoxilo de β-D-glucosido dissolvido em 8 ml de água esterilizada 60 mg\n\nSolução de difosfato de fenolftaleína a 0,5 % esterilizada porfiltro 20 ml\n\nFeCI3.6H2O a 4,5 % esterilizada por filtro 2 ml"
+  },
+  "e7ad2967b301d315": {
+   "fragment_id": "2. PARÂMETROS PARA OS QUAIS SÃO ESPECIFICADAS AS CARACTERÍSTICAS DO MÉTODO DE ANÁLISE",
+   "type": "divisao",
+   "heading": "2. PARÂMETROS PARA OS QUAIS SÃO ESPECIFICADAS AS CARACTERÍSTICAS DO MÉTODO DE ANÁLISE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. PARÂMETROS PARA OS QUAIS SÃO ESPECIFICADAS AS CARACTERÍSTICAS DO MÉTODO DE ANÁLISE\n\n| 2.1. | Para os parâmetros seguintes, as características do método de análise especificadas definem a capacidade do método utilizado de medir, no mínimo, concentrações iguais ao valor paramétrico com a exactidão, a precisão e o limite de detecção especificados. Independentemente da sensibilidade do método de análise utilizado, o resultado será expresso pelo menos com o mesmo número de casas decimais que os valores paramétricos contemplados nas partes B e C do anexo I. Parâmetros Exactidão % do valor paramétrico (Nota 1) Precisão % do valor paramétrico (Nota 2) Limite de detecção % do valor paramétrico (Nota 3) Condições Notas Acrilamida A controlar em função da especificação do produto Alumínio 10 10 10 Amónio 10 10 10 Antimónio 25 25 25 Arsénico 10 10 10 Benzo(a) pireno 25 25 25 Benzeno 25 25 25 Boro 10 10 10 Bromatos 25 25 25 Cádmio 10 10 10 Cloretos 10 10 10 Crómio 10 10 10 Condutividade 10 10 10 Cobre 10 10 10 Cianetos 10 10 10 Nota 4 1,2-dicloroetano 25 25 10 Epicloridrina A controlar em função da especificação do produto Fluoretos 10 10 10 Ferro 10 10 10 Chumbo 10 10 10 Manganésio 10 10 10 Mercúrio 20 10 10 Níquel 10 10 10 Nitratos 10 10 10 Nitritos 10 10 10 Oxidabilidade 25 25 10 Nota 5 Pesticidas 25 25 25 Nota 6 Hidrocarbonetos aromáticos policíclicos 25 25 25 Nota 7 Selénio 10 10 10 Sódio 10 10 10 Sulfatos 10 10 10 Tetracloroetano 25 25 10 Nota 8 Tricloroetano 25 25 10 Nota 8 Trialometanos — Total 25 25 10 Nota 7 Cloreto de vinilo A controlar em função da especificação do produto |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Parâmetros | Exactidão % do valor paramétrico (Nota 1) | Precisão % do valor paramétrico (Nota 2) | Limite de detecção % do valor paramétrico (Nota 3) | Condições | Notas |\n| Acrilamida |  |  |  | A controlar em função da especificação do produto |  |\n| Alumínio | 10 | 10 | 10 |  |  |\n| Amónio | 10 | 10 | 10 |  |  |\n| Antimónio | 25 | 25 | 25 |  |  |\n| Arsénico | 10 | 10 | 10 |  |  |\n| Benzo(a) pireno | 25 | 25 | 25 |  |  |\n| Benzeno | 25 | 25 | 25 |  |  |\n| Boro | 10 | 10 | 10 |  |  |\n| Bromatos | 25 | 25 | 25 |  |  |\n| Cádmio | 10 | 10 | 10 |  |  |\n| Cloretos | 10 | 10 | 10 |  |  |\n| Crómio | 10 | 10 | 10 |  |  |\n| Condutividade | 10 | 10 | 10 |  |  |\n| Cobre | 10 | 10 | 10 |  |  |\n| Cianetos | 10 | 10 | 10 |  | Nota 4 |\n| 1,2-dicloroetano | 25 | 25 | 10 |  |  |\n| Epicloridrina |  |  |  | A controlar em função da especificação do produto |  |\n| Fluoretos | 10 | 10 | 10 |  |  |\n| Ferro | 10 | 10 | 10 |  |  |\n| Chumbo | 10 | 10 | 10 |  |  |\n| Manganésio | 10 | 10 | 10 |  |  |\n| Mercúrio | 20 | 10 | 10 |  |  |\n| Níquel | 10 | 10 | 10 |  |  |\n| Nitratos | 10 | 10 | 10 |  |  |\n| Nitritos | 10 | 10 | 10 |  |  |\n| Oxidabilidade | 25 | 25 | 10 |  | Nota 5 |\n| Pesticidas | 25 | 25 | 25 |  | Nota 6 |\n| Hidrocarbonetos aromáticos policíclicos | 25 | 25 | 25 |  | Nota 7 |\n| Selénio | 10 | 10 | 10 |  |  |\n| Sódio | 10 | 10 | 10 |  |  |\n| Sulfatos | 10 | 10 | 10 |  |  |\n| Tetracloroetano | 25 | 25 | 10 |  | Nota 8 |\n| Tricloroetano | 25 | 25 | 10 |  | Nota 8 |\n| Trialometanos — Total | 25 | 25 | 10 |  | Nota 7 |\n| Cloreto de vinilo |  |  |  | A controlar em função da especificação do produto |  |\n\n| 2.2. | Para a concentração hidrogeniónica, as características do método de análise especificadas definem a capacidade do método utilizado de medir concentrações iguais ao valor paramétrico com uma exactidão de 0,2 unidades de pH e uma precisão de 0,2 unidades de pH. *Nota 1* [(^1^)](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0016): Exactidão refere-se ao erro sistemático e é a diferença entre o valor médio de um grande número de medições repetidas e o valor real. *Nota 2* [(^1^)](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0016): Precisão refere-se ao erro aleatório, e é geralmente expressa como o desvio-padrão (no interior de cada lote e entre lotes) da dispersão dos resultados em torno da média. A precisão aceitável é de duas vezes o desvio-padrão relativo. (^1^)Estes termos são definidos de forma mais completa na norma ISO 5725. Nota 3: Limite de detecção é: — ou três vezes o desvio-padrão relativo no interior de cada lote de uma amostra experimental contendo uma baixa concentração do parâmetro, — ou cinco vezes o desvio-padrão relativo no interior de cada lote da amostra de controlo. *Nota 4:* O método deve determinar os cianetos totais, em todas as suas formas. *Nota 5:* A oxidação deve ser efectuada com permanganato a 100 °C durante 10 minutos em meio ácido. *Nota 6:* As características do método de análise aplicam-se a cada pesticida e dependerá do pesticida em causa. O limite de detecção pode não ser conseguido actualmente para todos os pesticidas, mas os Estados-membros devem procurar alcançar esta norma. *Nota 7:* As características do método de análise aplicam-se às substâncias individuais especificadas a 25 % do valor paramétrico constante do anexo I. *Nota 8:* As características do método de análise aplicam-se às substâncias individuais especificadas a 50 % do valor paramétrico constante do anexo I. |\n| --- | --- |\n| *Nota 1* [(^1^)](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0016): | Exactidão refere-se ao erro sistemático e é a diferença entre o valor médio de um grande número de medições repetidas e o valor real. |\n| *Nota 2* [(^1^)](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#E0016): | Precisão refere-se ao erro aleatório, e é geralmente expressa como o desvio-padrão (no interior de cada lote e entre lotes) da dispersão dos resultados em torno da média. A precisão aceitável é de duas vezes o desvio-padrão relativo. |\n| (^1^)Estes termos são definidos de forma mais completa na norma ISO 5725. |  |\n| Nota 3: | Limite de detecção é: — ou três vezes o desvio-padrão relativo no interior de cada lote de uma amostra experimental contendo uma baixa concentração do parâmetro, — ou cinco vezes o desvio-padrão relativo no interior de cada lote da amostra de controlo. |\n| *Nota 4:* | O método deve determinar os cianetos totais, em todas as suas formas. |\n| *Nota 5:* | A oxidação deve ser efectuada com permanganato a 100 °C durante 10 minutos em meio ácido. |\n| *Nota 6:* | As características do método de análise aplicam-se a cada pesticida e dependerá do pesticida em causa. O limite de detecção pode não ser conseguido actualmente para todos os pesticidas, mas os Estados-membros devem procurar alcançar esta norma. |\n| *Nota 7:* | As características do método de análise aplicam-se às substâncias individuais especificadas a 25 % do valor paramétrico constante do anexo I. |\n| *Nota 8:* | As características do método de análise aplicam-se às substâncias individuais especificadas a 50 % do valor paramétrico constante do anexo I. |"
+  },
+  "10a0d386184b53c1": {
+   "fragment_id": "3. PARÂMETROS PARA OS QUAIS NÃO É ESPECIFICADO QUALQUER MÉTODO DE ANÁLISE",
+   "type": "divisao",
+   "heading": "3. PARÂMETROS PARA OS QUAIS NÃO É ESPECIFICADO QUALQUER MÉTODO DE ANÁLISE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. PARÂMETROS PARA OS QUAIS NÃO É ESPECIFICADO QUALQUER MÉTODO DE ANÁLISE\n\nCor\n\nOdor\n\nSabor\n\nCarbono orgânico total\n\nTurvação (Nota 1)\n\n*Nota 1:* Para o controlo da turvação das águas superficiais tratadas, as características de análise especificadas são que o método de análise utilizado deve, no mínimo, ser capaz de medir concentrações iguais ao valor paramétrico com uma exactidão de 25 %, uma precisão de 25 % e um limite de detecção de 25 %."
+  },
+  "e5ce7bdc16739a32": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV\n\n| Directiva 80/778/CEE Transposição 17.7.1982 Aplicação 17.7.1985 Todos os Estados-membros, excepto Espanha, Portugal e os novos *Länder* da Alemanha | Directiva 81/858/CEE (Adaptação na sequência da adesão da Grécia) | Acto de Adesão de Espanha e Portugal Espanha: Transposição: 1.1.1986 Aplicação: 1.1.1996 Portugal: Transposição: 1.1.1986 Aplicação: 1.1.1989 | Directiva 90/656/CEE para os novos *Länder* da Alemanha | Acto de Adesão da Áustria, da Finlândia e da Suécia Áustria: Transposição: 1.1.1995 Aplicação: 1.1.1995 Finlândia: Transposição: 1.1.1995 Aplicação: 1.1.1995 Suécia: Transposição: 1.1.1995 Aplicação: 1.1.1995 | Directiva 91/692/CEE |\n| --- | --- | --- | --- | --- | --- |\n| Espanha: | Transposição: | 1.1.1986 |  |  |  |\n| Aplicação: | 1.1.1996 |  |  |  |  |\n| Portugal: | Transposição: | 1.1.1986 |  |  |  |\n| Aplicação: | 1.1.1989 |  |  |  |  |\n| Áustria: | Transposição: | 1.1.1995 |  |  |  |\n| Aplicação: | 1.1.1995 |  |  |  |  |\n| Finlândia: | Transposição: | 1.1.1995 |  |  |  |\n| Aplicação: | 1.1.1995 |  |  |  |  |\n| Suécia: | Transposição: | 1.1.1995 |  |  |  |\n| Aplicação: | 1.1.1995 |  |  |  |  |\n| Artigos 1.º a 14.º |  |  | Aplicação em 31.12.1995 |  |  |\n| Artigo 15.º | Alteração com efeitos a partir de 1.1.1981 | Alteração com efeitos a partir de 1.1.1986 |  | Alteração com efeitos a partir de 1.1.1995 |  |\n| Artigo 16.º |  |  |  |  |  |\n| Artigo 17.º |  |  |  |  | Aditamento da alínea a) do artigo 17.º |\n| Artigo 18.º |  |  |  |  |  |\n| Artigo 19.º |  | Alteração | Alteração |  |  |\n| Artigo 20.º |  |  |  |  |  |\n| Artigo 21.º |  |  |  |  |  |"
+  },
+  "654a2ab916e0ae84": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V\n\nPresente directiva Directiva 80/778/CEE\n\nArtigo 1.º, n.º 1 Artigo 1.º, n.º 1\n\nArtigo 1.º, n.º 2 —\n\nArtigo 2.º, n.º 1, alíneas a) e b) Artigo 2.º\n\nArtigo 2.º, n.º 2 —\n\nArtigo 3.º, n.º 1, alíneas a) e b) Artigo 4.º, n.º 1\n\nArtigo 3.º, n.º 2, alíneas a) e b) —\n\nArtigo 3.º, n.º 3 —\n\nArtigo 4.º, n.º 1 Artigo 7.º, n.º 6\n\nArtigo 4.º, n.º 2 Artigo 11.º\n\nArtigo 5.º, n.º 1 Artigo 7.º, n.º 1\n\nArtigo 5.º, n.º 2, primeiro período Artigo 7.º, n.º 3\n\nArtigo 5.º, n.º 2, segundo período —\n\nArtigo 5.º, n.º 3 —\n\nArtigo 6.º, n.º 1 Artigo 12.º, n.º 2\n\nArtigo 6.º, n.^os^ 2 e 3 —\n\nArtigo 7.º, n.º 1 Artigo 12.º, n.º 1\n\nArtigo 7.º, n.º 2 —\n\nArtigo 7.º, n.º 3 Artigo 12.º, n.º 3\n\nArtigo 7.º, n.º 4 —\n\nArtigo 7.º, n.º 5 Artigo 12.º, n.º 5\n\nArtigo 7.º, n.º 6 —\n\nArtigo 8.º —\n\nArtigo 9.º, n.º 1 Artigos 9.º, n.º 1, e 10.º, n.º 1\n\nArtigo 9.º, n.^os^ 2 a 6 —\n\nArtigo 9.º, n.º 7 Artigos 9.º, n.º 2, e 10.º, n.º 3\n\nArtigo 9.º, n.º 8 —\n\nArtigo 10.º Artigo 8.º\n\nArtigo 11.º, n.º 1 —\n\nArtigo 11.º, n.º 2 Artigo 13.º\n\nArtigo 12.º, n.º 1 Artigo 14.º\n\nArtigo 12.º, n.^os^ 2 e 3 Artigo 15.º\n\nArtigo 13.º, n.º 1 —\n\nArtigo 13.º, n.^os^ 2 a 5 Artigo 17.º, alínea a) (inserido pela Directiva 91/692/CEE)\n\nArtigo 14.º Artigo 19.º\n\nArtigo 15.º Artigo 20.º\n\nArtigo 16.º —\n\nArtigo 17.º Artigo 18.º\n\nArtigo 18.º —\n\nArtigo 19.º Artigo 21.º\n\n---"
+  },
+  "b5e04a3fade786f5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#src.E0001)) JO C 131 de 30.5.1995, p. 5,\n\n> e JO C 213 de 15.7.1997, p. 8.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#src.E0002)) JO C 82 de 19.3.1996, p. 64.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#src.E0003)) JO C 100 de 2.4.1996, p. 134.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 12 de Dezembro de 1996 (JO C 20 de 20.1.1997, p. 133), posição comum do Conselho de 19 de Dezembro de 1997 (JO C 91 de 26.3.1998, p. 1) e decisão do Parlamento Europeu de 13 de Maio de 1998 (JO C 167 de 1.6.1998, p. 92).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#src.E0005)) JO L 229 de 30.8.1980, p. 11. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#src.E0006)) JO L 230 de 19.8.1991, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 96/68/CE (JO L 277 de 30.10.1996, p. 25).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#src.E0007)) JO L 123 de 24.4.1998, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#src.E0008)) JO L 229 de 30.8.1980, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 96/70/CE (JO L 299 de 23.11.1996, p. 26).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#src.E0009)) JO L 22 de 9.2.1965, p. 369. Directiva com a última redacção que lhe foi dada pela Directiva 93/39/CEE (JO L 214 de 24.8.1993, p. 22).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#src.E0010)) JO L 40 de 11.2.1989, p. 12. Directiva com a redacção que lhe foi dada pela Directiva 93/68/CEE (JO L 220 de 30.8.1993, p. 1).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#src.E0011)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#src.E0012)) JO L 158 de 23.6.1990, p. 56.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/92140479-c608-4f36-844b-1c1f23ea4f51.0018.03/DOC_1#src.E0013)) *p.m:* a aditar em função do resultado do estudo actualmente em curso."
+  },
+  "628d514324d8aa7b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Novembro de 1998\n\nrelativa à qualidade da água destinada ao consumo humano\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 1 do seu artigo 130.ºS,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 189.ºC ([^4^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#E0004)),\n\n(1) Considerando que é necessário adaptar a Directiva 80/778/CEE do Conselho, de 15 de Julho de 1980, relativa à qualidade das águas destinadas ao consumo humano ([^5^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#E0005)), ao progresso científico e tecnológico; que a experiência adquirida com a aplicação da referida directiva mostra que é necessário criar um quadro jurídico adequado, flexível e transparente que permita aos Estados-membros enfrentar quaisquer incumprimentos das normas; que, além disso, a directiva deve ser reanalisada em função do Tratado da União Europeia, nomeadamente, do princípio da subsidiariedade;\n\n(2) Considerando que, nos termos do artigo 3.ºB do Tratado, que prevê que a Comunidade actuará nos limites do necessário para atingir os objectivos do Tratado, a Directiva 80/778/CEE deve ser revista de forma a incidir no cumprimento dos parâmetros de qualidade e sanitários essenciais, deixando aos Estados-membros a liberdade de acrescentarem parâmetros secundários, se o considerarem necessário;\n\n(3) Considerando que, de acordo com o princípio da subsidiariedade, a acção da Comunidade deve apoiar e desenvolver a acção das autoridades competentes dos Estados-membros;\n\n(4) Considerando que, de acordo com o princípio da subsidiariedade, as diferenças naturais e socio-económicas entre as regiões da União exigem que a maioria das decisões sobre o controlo, análise e medidas a adoptar para corrigir qualquer incumprimento, sejam tomadas a nível local, regional ou nacional desde que não saiam do enquadramento legal, regulamentar e administrativo previsto na presente directiva;\n\n(5) Considerando que são necessárias normas comunitárias para os parâmetros essenciais e preventivos relacionados com a saúde no que respeita à água destinada ao consumo humano, de forma a definir os objectivos mínimos de qualidade ambiental relacionados com outras medidas comunitárias para salvaguardar e promover uma utilização sustentável da água destinada ao consumo humano;\n\n(6) Considerando a importância para a saúde da água destinada ao consumo humano, é necessário enumerar as normas de qualidade essenciais, a nível comunitário, a que deve estar sujeita essa água;\n\n(7) Considerando que é necessário incluir a água utilizada na indústria alimentar, excepto quando se estabelecer que a utilização dessa água não afecta a salubridade do produto acabado;\n\n(8) Considerando que, para garantir as normas de qualidade da água potável, há que tomar medidas de protecção adequadas para assegurar a boa qualidade nas águas de superfície e subterrâneas; que o mesmo objectivo pode ser atingido através de medidas de tratamento adequadas, a serem aplicadas antes do fornecimento;\n\n(9) Considerando que a coerência da política europeia da água pressupõe a adopção de uma directiva-quadro adequada;\n\n(10) Considerando que é necessário excluir do âmbito da presente directiva as águas minerais naturais e as águas que são produtos medicinais, uma vez que foram estabelecidas regras especiais para esses tipos de águas;\n\n(11) Considerando que são necessárias medidas para todos os parâmetros directamente relacionados com a saúde e para outros parâmetros, em caso de deterioração da qualidade da água; que, além disso, essas medidas não devem pôr em causa a aplicação da Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado ([^6^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#E0006)), e da Directiva 98/8/CE do Parlamento Europeu e do Conselho, de 16 de Fevereiro de 1998, relativa à colocação de produtos biocidas no mercado ([^7^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#E0007));\n\n(12) Considerando que é necessário estabelecer valores paramétricos específicos para as substâncias relevantes em toda a Comunidade, a um nível suficientemente estrito para garantir que se atinja o objectivo da directiva;\n\n(13) Considerando que os valores paramétricos se baseiam nos actuais conhecimentos científicos e no princípio da acção preventiva; que esses valores foram seleccionados para garantir que a água destinada ao consumo humano possa ser consumida com segurança durante toda a vida do consumidor, concorrendo assim para um elevado nível de protecção da saúde;\n\n(14) Considerando que se deverá atingir um equilíbrio para evitar riscos microbiológicos e químicos; que, para tanto, e à luz de uma futura revisão dos valores paramétricos, a adopção de valores paramétricos aplicáveis à água destinada ao consumo humano deverá basear-se em considerações de saúde pública e num método de avaliação do risco;\n\n(15) Considerando que actualmente não é evidente qual deve ser a base dos valores paramétricos, a nível comunitário, para anular os efeitos dos produtos químicos endócrinos, havendo mesmo uma maior preocupação sobre o impacto potencial, nas pessoas e animais, dos efeitos das substâncias nocivas para a saúde;\n\n(16) Considerando que as normas do anexo I se baseiam, de uma forma geral, nas «Directrizes para a qualidade da água potável» da Organização Mundial da Saúde e no parecer do Comité Científico de Análise da Toxicidade e da Ecotoxicidade dos Compostos Químicos da Comissão;\n\n(17) Considerando que os Estados-membros devem, estabelecer valores para parâmetros adicionais não incluídos no anexo I, sempre que tal seja necessário para proteger a saúde humana nos respectivos territórios;\n\n(18) Considerando que os Estados-membros podem estabelecer valores para parâmetros adicionais não incluídos no anexo I, sempre que tal seja considerado necessário para garantir a qualidade da produção, distribuição e controlo da água destinada ao consumo humano;\n\n(19) Considerando que, ao estabelecer normas mais estritas do que as do anexo I, partes A e B, ou normas para parâmetros adicionais não incluídos no anexo I mas necessárias para a protecção da saúde humana, os Estados-membros deverão notificar a Comissão dessas normas;\n\n(20) Considerando que, ao introduzirem ou manterem medidas de protecção mais estritas, os Estados-membros são obrigados a observar os princípios e as normas do Tratado tal como interpretados pelo Tribunal de Justiça;\n\n(21) Considerando que os valores paramétricos devem ser cumpridos no local onde a água destinada ao consumo humano é obtida pelo utilizador adequado;\n\n(22) Considerando que a qualidade da água destinada ao consumo humano pode ser influenciada pelo sistema de distribuição; que, além disso, se reconhece que a responsabilidade pelo sistema de distribuição doméstico ou pela sua manutenção pode não ser dos Estados-membros;\n\n(23) Considerando que os Estados-membros devem estabelecer programas de controlo para verificar se a água destinada ao consumo humano respeita os requisitos da presente directiva; que esses programas de controlo devem ser adequados às necessidades locais e respeitar os requisitos de controlo mínimos estabelecidos na presente directiva;\n\n(24) Considerando que os métodos utilizados para a análise da qualidade da água destinada ao consumo humano devem garantir que os resultados obtidos sejam fiáveis e comparáveis;\n\n(25) Considerando que, em caso de incumprimento das normas da presente directiva, os Estados-membros devem investigar as causas e tomar, o mais rapidamente possível, as medidas de correcção necessárias para garantir o restabelecimento da qualidade da água;\n\n(26) Considerando que é importante prevenir um perigo potencial para a saúde humana proveniente de água contaminada; que o fornecimento dessa água deverá ser proibido ou a sua utilização restringida;\n\n(27) Considerando que, no caso de incumprimento de um parâmetro com uma função indicadora, os Estados-membros deverão examinar se desse facto resulta qualquer risco para a saúde humana; que deverão adoptar acções de correcção da qualidade da água, sempre que tal seja necessário para proteger a saúde humana;\n\n(28) Considerando que, se essas medidas de correcção forem necessárias para restabelecer a qualidade da água destinada ao consumo humano, se deve dar prioridade às medidas que corrijam o problema na origem, nos termos do n.º 2 do artigo 130.ºR do Tratado;\n\n(29) Considerando que, em determinados casos, os Estados-membros devem poder prever derrogações a esta directiva; que, além disso, é necessário estabelecer um quadro adequado para essas derrogações, desde que elas não constituam um perigo potencial para a saúde humana e desde que o fornecimento da água potável, numa determinada área, não possa ser mantido por qualquer outro meio razoável;\n\n(30) Considerando que, uma vez que o tratamento ou a distribuição de água destinada ao consumo humano pode exigir a utilização de determinadas substâncias ou materiais, são necessárias normas que orientem a sua utilização de forma a evitar possíveis efeitos prejudiciais para a saúde humana;\n\n(31) Considerando que o progresso técnico e científico pode exigir a rápida adaptação dos requisitos técnicos previstos nos anexos II e III; que, além disso, para facilitar a execução das medidas necessárias para este efeito, é conveniente prever um procedimento segundo o qual a Comissão possa adoptar essas adaptações com a assistência de um comité composto por representantes dos Estados-membros;\n\n(32) Considerando que os consumidores deverão ser devidamente informados da qualidade da água destinada ao consumo humano, de quaisquer derrogações feitas pelos Estados-membros e de qualquer medida de correcção adoptada pelas autoridades competentes; que, além disso, é necessário tomar em consideração as necessidades técnicas e estatísticas da Comissão, bem como os direitos de cada cidadão de obter as informações adequadas sobre a qualidade da água destinada ao consumo humano;\n\n(33) Considerando que, em circunstâncias excepcionais e em áreas geograficamente definidas, pode ser necessário conceder aos Estados-membros um prazo maior para o cumprimento de certas disposições da presente directiva;\n\n(34) Considerando que a presente directiva não deve afectar as obrigações dos Estados-membros relativamente aos prazos de transposição para a legislação nacional e a aplicação referidas no anexo IV,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "e646c0d502bcc775": {
+   "fragment_id": "Artigo 3.º — Isenções",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Isenções\n\n1. A presente directiva não é aplicável a:\n\na) Águas minerais naturais como tal reconhecidas pelas autoridades nacionais competentes, nos termos da Directiva 80/777/CEE do Conselho, de 15 de Julho de 1980, relativa à aproximação das legislações dos Estados-membros respeitantes à exploração e à comercialização de águas minerais naturais ([^8^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#E0008));\n\nb) Águas que são produtos medicinais, na acepção da Directiva 65/65/CEE, de 26 de Janeiro de 1965, relativa à aproximação das disposições legislativas, regulamentares e administrativas, respeitantes aos medicamentos ([^9^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#E0009)).\n\n2. Os Estados-membros podem isentar do disposto na presente directiva:\n\na) A água destinada exclusivamente aos fins para os quais as autoridades competentes determinarem que a qualidade da água não tem qualquer influência, directa ou indirecta, na saúde dos consumidores em causa;\n\nb) A água destinada ao consumo humano proveniente de fontes individuais que forneçam menos de 10 m^3^, por dia em média ou que sirvam menos de 50 pessoas, excepto se essa água for fornecida no âmbito de uma actividade comercial ou pública.\n\n3. Os Estados-membros que façam uso da isenção prevista na alínea b) do n.º 2 assegurarão que a população afectada seja informada da mesma e de qualquer medida tomada para proteger a saúde humana dos efeitos nocivos resultantes de qualquer contaminação da água destinada ao consumo humano. Além disso, quando estiver patente um perigo potencial para a saúde humana devido à qualidade dessa água, deverá ser prontamente prestado o aconselhamento adequado à população interessada."
+  },
+  "65c95a2bf7cc25c1": {
+   "fragment_id": "Artigo 10.º — Garantia de qualidade do tratamento, do equipamento e dos materiais",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Garantia de qualidade do tratamento, do equipamento e dos materiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Garantia de qualidade do tratamento, do equipamento e dos materiais\n\nOs Estados-membros tomarão todas as medidas necessárias para garantir que nenhumas substâncias ou materiais utilizados em novas instalações de tratamento e distribuição de água para consumo humano, ou quaisquer impurezas associadas a essas substâncias ou materiais, permaneçam nessa água em concentrações superiores às necessárias para os fins a que se destinam e reduzam, directa ou indirectamente, o nível de protecção da saúde humana previsto na presente directiva; o documento interpretativo e as acções técnicas específicas previstas no artigo 3.º e no n.º 1 do artigo 4.º da Directiva 89/106/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros no que respeita aos produtos de construção ([^10^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#E0010)), devem respeitar os requisitos da presente directiva."
+  },
+  "9cbaeab02a225faa": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. A Comissão é assistida por um Comité.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE ([^11^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#E0011)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º."
+  },
+  "04d2293df7f13874": {
+   "fragment_id": "Artigo 13.º — Informação e relatórios",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Informação e relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Informação e relatórios\n\n1. Os Estados-membros tomarão as medidas necessárias para garantir que os consumidores tenham acesso a informações adequadas e actualizadas sobre a qualidade da água destinada ao consumo humano.\n\n2. Sem prejuízo da Directiva 90/313/CEE do Conselho, de 7 de Junho de 1990, relativa à liberdade de acesso à informação em matéria de ambiente ([^12^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#E0012)), os Estados-membros publicarão um relatório trienal sobre a qualidade da água destinada ao consumo humano com o objectivo de informar os consumidores. O primeiro desses relatórios abrangerá os anos de 2002, 2003 e 2004. Cada relatório incluirá, no mínimo, abastecimentos superiores a uma média de 1 000 m^3^ por dia ou a 5 000 pessoas, abrangerá três anos civis e será publicado antes do final do ano civil seguinte ao período de informação.\n\n3. Os Estados-membros enviarão os respectivos relatórios à Comissão no prazo de dois meses após a sua publicação.\n\n4. Os modelos dos relatórios referidos no n.º 2 e as informações mínimas que deverão conter são determinados tendo especialmente em conta as medidas referidas no n.º 2 do artigo 3.º, nos n.^os^ 2 e 3 do artigo 5.º, no n.º 2 do artigo 7.º, no artigo 8.º, nos n.^os^ 6 e 7 do artigo 9.º e no n.º 1 do artigo 15.º, e são, se necessário, alterados pelo procedimento de gestão a que se refere o n.º 2 do artigo 12.º.\n\n5. A Comissão analisará os relatórios dos Estados-membros e publicará, de três em três anos, um relatório de síntese sobre a qualidade da água destinada ao consumo humano na Comunidade. Esse relatório será publicado no prazo de nove meses após a recepção dos relatórios dos Estados-membros.\n\n6. Juntamente com o primeiro relatório sobre a presente directiva, previsto no n.º 2, os Estados-Membros elaboram um relatório destinado à Comissão acerca das medidas tomadas ou previstas para dar cumprimento às obrigações que lhes incumbem por força do n.º 3 do artigo 6.º e da nota 10 da parte B do anexo I. Se necessário, será apresentada uma proposta relativa ao modelo deste relatório, pelo procedimento de gestão a que se refere o n.º 2 do artigo 12.º."
+  },
+  "e2c5add88a514f26": {
+   "fragment_id": "Nota 3:",
+   "type": "divisao",
+   "heading": "Nota 3:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Nota 3:\n\nO valor aplica-se a uma amostra de água destinada ao consumo humano obtida na torneira, por um método de amostragem adequado, e recolhida de modo a ser representativa do valor médio semanal ingerido pelos consumidores ([^13^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#E0013)). Sempre que apropriado, os métodos de amostragem e de controlo serão postos em prática de maneira harmonizada, a elaborar de acordo com o n.º 4 do artigo 7.º Os Estados-membros tomarão em consideração a ocorrência de picos de concentração susceptíveis de provocar efeitos adversos na saúde humana."
+  },
+  "feea1de14c59c185": {
+   "fragment_id": "MONITORIZAÇÃO",
+   "type": "divisao",
+   "heading": "MONITORIZAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MONITORIZAÇÃO"
+  },
+  "c7d0279d82ad71c6": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE A"
+  },
+  "c0a5b5e531cfa43d": {
+   "fragment_id": "Objetivos gerais e programas de monitorização da água destinada ao consumo humano",
+   "type": "divisao",
+   "heading": "Objetivos gerais e programas de monitorização da água destinada ao consumo humano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Objetivos gerais e programas de monitorização da água destinada ao consumo humano\n\n1. Os programas de monitorização da água destinada ao consumo humano devem:\n\na) Verificar a eficácia das medidas de controlo dos riscos para a saúde humana em toda a cadeia de abastecimento de água, desde a bacia hidrográfica, passando pela captação, pelo tratamento e pelo armazenamento, até à distribuição, bem como a salubridade e a limpeza da água nos limiares de conformidade;\n\nb) Prestar informações sobre a qualidade do abastecimento de água para consumo humano a fim de demonstrar o cumprimento das obrigações enunciadas nos artigos 4.º e 5.º e dos valores paramétricos indicados no anexo I;\n\nc) Identificar os meios mais adequados de atenuação do risco para a saúde humana.\n\n2. Em conformidade com o artigo 7.º, n.º 2, as autoridades competentes devem estabelecer programas de monitorização que deem cumprimento aos parâmetros e às frequências constantes da parte B do presente anexo e que consistam no seguinte:\n\na) Recolha e análise de amostras discretas de água; ou\n\nb) Medições registadas mediante um processo de monitorização contínua.\n\na) Inspeções de registos do estado de funcionalidade e manutenção do equipamento; e/ou\n\nb) Inspeções da bacia hidrográfica e da infraestrutura de captação, tratamento, armazenamento e distribuição de água.\n\n3. Os programas de monitorização podem basear-se numa avaliação de risco, conforme previsto na parte C.\n\n4. Os Estados-Membros devem assegurar a revisão contínua e a atualização ou reconfirmação, pelo menos quinquenal, dos programas de monitorização."
+  },
+  "b8e186e213931897": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE B"
+  },
+  "fa61325d5663e26b": {
+   "fragment_id": "Parâmetros e frequências",
+   "type": "divisao",
+   "heading": "Parâmetros e frequências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Parâmetros e frequências"
+  },
+  "75071de522f1e20d": {
+   "fragment_id": "1. Enquadramento geral",
+   "type": "divisao",
+   "heading": "1. Enquadramento geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Enquadramento geral\n\nOs programas de monitorização devem ter em conta os parâmetros a que se refere o artigo 5.º, inclusive os que são importantes para a avaliação do impacto dos sistemas de distribuição domésticos sobre a qualidade da água nos limiares de conformidade, conforme previsto no artigo 6.º, n.º 1. Por ocasião da escolha dos parâmetros adequados de monitorização, devem ser tidas em conta para cada sistema de abastecimento de água as condições locais.\n\nOs Estados-Membros devem garantir que os parâmetros enumerados no ponto 2 são monitorizados nas frequências de amostragem pertinentes previstas no ponto 3."
+  },
+  "ec4d8bf62049dab1": {
+   "fragment_id": "2. Lista de parâmetros",
+   "type": "divisao",
+   "heading": "2. Lista de parâmetros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Lista de parâmetros\n\nOs parâmetros abaixo indicados (grupo A) devem ser monitorizados de acordo com as frequências previstas no quadro 1 do ponto 3:\n\na) *Escherichia coli* (*E. coli*), bactérias coliformes, número de colónias a 22 °C, cor, turvação, sabor, odor, pH, condutividade;\n\nb) Outros parâmetros considerados relevantes no programa de monitorização, em conformidade com o artigo 5.º, n.º 3, e, se for caso disso, através de uma avaliação de risco, conforme previsto na parte C.\n\nEm circunstâncias especiais, os parâmetros abaixo indicados devem ser aditados aos parâmetros do grupo A:\n\na) Amónio e nitrito, quando é utilizada a cloraminação;\n\nb) Alumínio e ferro, se utilizados como produtos químicos de tratamento da água.\n\nA fim de determinar a conformidade com todos os valores paramétricos indicados na presente diretiva, todos os restantes parâmetros não analisados no grupo A e fixados em conformidade com o artigo 5.º devem ser monitorizados, pelo menos nas frequências previstas no quadro 1 do ponto 3."
+  },
+  "a39a51a83ce85b43": {
+   "fragment_id": "3. Frequências de amostragem",
+   "type": "divisao",
+   "heading": "3. Frequências de amostragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Frequências de amostragem\n\n| Volume de água distribuída ou produzida diariamente numa zona de abastecimento (Ver Notas 1 e 2) m^3^ | Parâmetros do grupo A Número de amostras anuais (Ver Nota 3) | Parâmetros do grupo B Número de amostras anuais |  |\n| --- | --- | --- | --- |\n|  | ≤ 100 | > 0 (Ver Nota 4) | > 0 (Ver Nota 4) |\n| > 100 | ≤ 1 000 | 4 | 1 |\n| > 1 000 | ≤ 10 000 | 4 + 3 por cada 1 000 m^3^/d e fração remanescente para o volume total | 1 + 1 por cada 4 500 m^3^/d e fração remanescente para o volume total |\n| > 10 000 | ≤ 100 000 | 3 + 1 por cada 10 000 m^3^/d e fração remanescente para o volume total |  |\n| > 100 000 |  | 12 + 1 por cada 25 000 m^3^/d e fração remanescente para o volume total |  |\n\n*Nota 1:* Uma zona de abastecimento é uma zona geográfica definida na qual a água destinada ao consumo humano provém de uma ou mais fontes e na qual a qualidade da água pode ser considerada aproximadamente uniforme.\n\n*Nota 2:* Os volumes são calculados como médias durante um ano civil. É possível utilizar o número de habitantes de uma zona de abastecimento em vez do volume de água para determinar a frequência mínima, partindo do princípio de um consumo de água de 200 l/(dia*pessoa).\n\n*Nota 3:* A frequência indicada é calculada do seguinte modo: por exemplo, 4 300 m^3^/d = 16 amostras (4 para os primeiros 1 000 m^3^/d + 12 para mais 3 300 m^3^/d).\n\n*Nota 4:* Os Estados-Membros que decidiram isentar abastecimentos individuais nos termos do disposto no artigo 3.º, n.º 2, alínea b), da presente diretiva devem aplicar estas frequências exclusivamente nas zonas de abastecimento que distribuem entre 10 e 100 m^3^ por dia."
+  },
+  "91225de3a1c3c9e6": {
+   "fragment_id": "PARTE C",
+   "type": "divisao",
+   "heading": "PARTE C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE C"
+  },
+  "9d2274d5c8501a8f": {
+   "fragment_id": "Avaliação de risco",
+   "type": "divisao",
+   "heading": "Avaliação de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Avaliação de risco\n\n1. Os Estados-Membros podem prever a possibilidade de derrogar os parâmetros e as frequências de amostragem constantes da parte B, contanto que a avaliação de risco seja efetuada em conformidade com a presente parte.\n\n2. A avaliação de risco a que se refere o ponto 1 deve basear-se nos princípios gerais de avaliação de risco enunciados em relação a normas internacionais, designadamente a norma EN 15975-2 relativa à «segurança nos sistemas de abastecimento de água destinada a consumo humano, orientações para a gestão do risco e gestão da crise».\n\n3. A avaliação de risco deve ter em conta os resultados dos programas de monitorização elaborados por força do artigo 7.º, n.º 1, segundo parágrafo, e do artigo 8.º da Diretiva 2000/60/CE do Parlamento Europeu e do Conselho ([^14^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#E0014)) para massas de água identificadas nos termos do artigo 7.º, n.º 1, que fornecem mais de 100 m^3^ por dia, em média, em conformidade com o anexo V da mesma diretiva.\n\n4. Com base nos resultados da avaliação de risco, a lista de parâmetros constantes do ponto 2 da parte B deve ser alargada e/ou as frequências de amostragem previstas no ponto 3 da parte B devem ser aumentadas, sempre que esteja preenchida uma das seguintes condições:\n\na) A lista de parâmetros ou de frequências constantes do presente anexo é insuficiente para dar cumprimento às obrigações impostas pelo artigo 7.º, n.º 1;\n\nb) São necessários controlos suplementares para efeitos do disposto no artigo 7.º, n.º 6;\n\nc) É necessário dar as garantias requeridas previstas no ponto 1, alínea a), da parte A.\n\n5. Com base nos resultados da avaliação de risco, a lista de parâmetros constantes do ponto 2 da parte B e as frequências de amostragem previstas no ponto 3 da parte B podem ser reduzidas, sempre que estejam preenchidas as seguintes condições:\n\na) A frequência de amostragem para *E. coli* não deve ser reduzida, em nenhumas circunstâncias, abaixo da prevista no ponto 3 da parte B;\n\nb) No respeitante a todos os outros parâmetros:\n\ni) A localização e a frequência de amostragem devem ser determinadas em relação à origem do parâmetro, bem como à variabilidade e à tendência a longo prazo da sua concentração, tendo em conta o disposto no artigo 6.º;\n\nii) A fim de reduzir a frequência mínima de amostragem de um parâmetro, conforme previsto no ponto 3 da parte B, os resultados obtidos a partir de amostras colhidas a intervalos regulares, durante um período mínimo de três anos, em pontos de amostragem representativos de toda a zona de abastecimento devem ser inferiores a 60 % do valor paramétrico;\n\niii) A fim de suprimir um parâmetro da lista de parâmetros a monitorizar, conforme previsto no ponto 2 da parte B, os resultados obtidos a partir de amostras colhidas a intervalos regulares, durante um período mínimo de três anos, em pontos representativos de toda a zona de abastecimento devem ser inferiores a 30 % do valor paramétrico;\n\niv) A supressão de um parâmetro específico, constante do ponto 2 da parte B, da lista de parâmetros a monitorizar deve basear-se no resultado da avaliação de risco, assente nos resultados da monitorização de fontes de água destinada ao consumo humano, confirmando que a saúde humana se encontra protegida dos efeitos adversos de qualquer contaminação da água destinada ao consumo humano, conforme previsto no artigo 1.º;\n\nv) A frequência de amostragem pode ser reduzida ou um parâmetro pode ser suprimido da lista de parâmetros a monitorizar, conforme previsto nas subalíneas ii) e iii), apenas se a avaliação de risco confirmar que nenhum fator razoavelmente previsível pode deteriorar a qualidade da água destinada ao consumo humano.\n\n6. Os Estados-Membros devem assegurar que:\n\na) As avaliações de risco são aprovadas pela respetiva autoridade competente; e\n\nb) São disponibilizadas informações que demonstram a realização de uma avaliação de risco, bem como um resumo dos resultados desta."
+  },
+  "b2e2c2d3066e4f19": {
+   "fragment_id": "PARTE D",
+   "type": "divisao",
+   "heading": "PARTE D",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE D"
+  },
+  "3067fcd91703a289": {
+   "fragment_id": "Métodos de amostragem e pontos de amostragem",
+   "type": "divisao",
+   "heading": "Métodos de amostragem e pontos de amostragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Métodos de amostragem e pontos de amostragem\n\n1. Devem ser determinados pontos de amostragem, de molde a garantir a conformidade com os limiares de conformidade definidos no artigo 6.º, n.º 1. No caso de uma rede de distribuição, um Estado-Membro pode colher amostras na zona de abastecimento ou nas instalações de tratamento, relativamente a parâmetros específicos, se for possível demonstrar que o valor medido dos parâmetros em causa não será afetado de forma negativa. Na medida do possível, o número de amostras deve ser distribuído equitativamente no espaço e no tempo.\n\n2. A amostragem nos limiares de conformidade deve preencher os seguintes requisitos:\n\na) Devem ser colhidas amostras de conformidade para determinados parâmetros químicos (nomeadamente cobre, chumbo e níquel) na torneira do consumidor, sem descarga prévia. Deve ser colhida uma amostra aleatória diurna com o volume de um litro. Em alternativa, os Estados-Membros podem utilizar métodos com tempo de estagnação fixo que refletem melhor a respetiva situação nacional, desde que, a nível da zona de abastecimento, tal não se traduza em menos casos de incumprimento do que o recurso ao método aleatório diurno;\n\nb) Devem ser colhidas nos limiares de conformidade e tratadas de acordo com a norma EN ISO 19458, para efeitos da amostragem B, amostras de conformidade para os parâmetros microbiológicos.\n\n3. A amostragem na rede de distribuição, à exceção da amostragem na torneira do consumidor, deve ser conforme com o disposto na norma ISO 5667-5. No respeitante aos parâmetros microbiológicos, a amostragem na rede de distribuição deve ser efetuada e tratada, para efeitos da amostragem A, em conformidade com a norma EN ISO 19458."
+  },
+  "cc67ba561d6b4e4d": {
+   "fragment_id": "ESPECIFICAÇÕES PARA A ANÁLISE DOS PARÂMETROS",
+   "type": "divisao",
+   "heading": "ESPECIFICAÇÕES PARA A ANÁLISE DOS PARÂMETROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESPECIFICAÇÕES PARA A ANÁLISE DOS PARÂMETROS\n\nOs Estados-Membros devem assegurar que os métodos de análise utilizados para efeitos de monitorização e demonstração da conformidade com a presente diretiva são validados e documentados em conformidade com a norma EN ISO/IEC 17025 ou outras normas equivalentes aceites no plano internacional. Os Estados-Membros devem garantir que os laboratórios ou as partes contratadas por laboratórios aplicam práticas de regimes de gestão da qualidade em conformidade com a norma EN ISO/IEC 17025 ou outras normas equivalentes aceites no plano internacional.\n\nNa ausência de um método analítico que satisfaça os critérios mínimos de desempenho enunciados na parte B, os Estados-Membros devem garantir que a monitorização se efetua utilizando as melhores técnicas disponíveis e sem envolver custos excessivos."
+  },
+  "6eac2cd303a77cca": {
+   "fragment_id": "Parâmetros microbiológicos para os quais são definidos métodos de análise",
+   "type": "divisao",
+   "heading": "Parâmetros microbiológicos para os quais são definidos métodos de análise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parâmetros microbiológicos para os quais são definidos métodos de análise\n\nOs princípios relativos aos métodos de aplicação dos parâmetros microbiológicos a seguir enunciados são-no quer a título de referência, quando se indica um método CEN/ISO, quer a título de orientação, enquanto se aguarda uma possível aprovação futura, pela Comissão, de métodos internacionais CEN/ISO para esses parâmetros. Os Estados-Membros podem utilizar métodos alternativos, desde que sejam cumpridas as disposições do n.º 5 do artigo 7.º.\n\nEstas medidas, sobre futuros métodos internacionais CEN/ISO, que têm por objecto alterar elementos não essenciais da presente directiva, nomeadamente completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 12.º.\n\nOs métodos para os parâmetros microbiológicos são os seguintes:\n\na) *Escherichia coli* (*E. coli*) e bactérias coliformes (EN ISO 9308-1 ou EN ISO 9308-2)\n\nb) *Enterococci* (EN ISO 7899-2)\n\nc) *Pseudomonas aeruginosa* (EN ISO 16266)\n\nd) Enumeração de microrganismos viáveis — número de colónias a 22 °C (EN ISO 6222)\n\ne) Enumeração de microrganismos viáveis — número de colónias a 36 °C (EN ISO 6222)\n\nf) *Clostridium perfringens* (incluindo esporos) (EN ISO 14189)."
+  },
+  "4a5a99507d905ea2": {
+   "fragment_id": "Parâmetros químicos e indicadores para os quais são definidas características de desempenho",
+   "type": "divisao",
+   "heading": "Parâmetros químicos e indicadores para os quais são definidas características de desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parâmetros químicos e indicadores para os quais são definidas características de desempenho"
+  },
+  "c02eb442db5b80aa": {
+   "fragment_id": "1. Parâmetros químicos e indicadores",
+   "type": "divisao",
+   "heading": "1. Parâmetros químicos e indicadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Parâmetros químicos e indicadores\n\nPara os parâmetros enunciados no quadro 1, as características de desempenho especificadas impõem que o método de análise utilizado seja capaz, no mínimo, de medir concentrações iguais ao valor paramétrico com um limite de quantificação, conforme definido no artigo 2.º, n.º 2, da Diretiva 2009/90/CE da Comissão ([^15^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#E0015)), igual ou inferior a 30 % do valor paramétrico pertinente e uma incerteza de medição especificada no quadro 1. O resultado deve ser expresso utilizando, no mínimo, o mesmo número de casas decimais que para o valor paramétrico considerado nas partes B e C do anexo I.\n\nAté 31 de dezembro de 2019, os Estados-Membros podem permitir o recurso aos parâmetros de «exatidão», «precisão» e «limite de deteção» especificados no quadro 2, como conjunto alternativo de características de desempenho ao «limite de quantificação» e à «incerteza de medição» especificadas no primeiro parágrafo e no quadro 1, respetivamente.\n\nA incerteza de medição a que se refere o quadro 1 não deve ser utilizada como tolerância adicional aos valores paramétricos previstos no anexo I.\n\n| Parâmetros | Incerteza de medição (Ver Nota 1) % do valor paramétrico (exceto para o pH) | Notas |\n| --- | --- | --- |\n| Alumínio | 25 |  |\n| Amónio | 40 |  |\n| Antimónio | 40 |  |\n| Arsénio | 30 |  |\n| Benzo(a)pireno | 50 | Ver Nota 5 |\n| Benzeno | 40 |  |\n| Boro | 25 |  |\n| Bromatos | 40 |  |\n| Cádmio | 25 |  |\n| Cloreto | 15 |  |\n| Crómio | 30 |  |\n| Condutividade | 20 |  |\n| Cobre | 25 |  |\n| Cianeto | 30 | Ver Nota 6 |\n| 1,2-dicloroetano | 40 |  |\n| Fluoretos | 20 |  |\n| Concentração hidrogeniónica pH (expressa em unidades pH) | 0,2 | Ver Nota 7 |\n| Ferro | 30 |  |\n| Chumbo | 25 |  |\n| Manganês | 30 |  |\n| Mercúrio | 30 |  |\n| Níquel | 25 |  |\n| Nitratos | 15 |  |\n| Nitritos | 20 |  |\n| Oxidabilidade | 50 | Ver Nota 8 |\n| Pesticidas | 30 | Ver Nota 9 |\n| Hidrocarbonetos aromáticos policíclicos | 50 | Ver Nota 10 |\n| Selénio | 40 |  |\n| Sódio | 15 |  |\n| Sulfatos | 15 |  |\n| Tetracloroetano | 30 | Ver Nota 11 |\n| Tricloroetano | 40 | Ver Nota 11 |\n| Trialometanos — total | 40 | Ver Nota 10 |\n| Carbono orgânico total (COT) | 30 | Ver Nota 12 |\n| Turvação | 30 | Ver Nota 13 |\n| A acrilamida, a epicloridrina e o cloreto de vinilo devem ser controlados mediante especificação do produto. |  |  |\n\n| Parâmetros | Exatidão (Ver Nota 2) % do valor paramétrico (exceto para o pH) | Precisão (Ver Nota 3) % do valor paramétrico (exceto para o pH) | Limite de deteção (Ver Nota 4) % do valor paramétrico (exceto para o pH) | Notas |\n| --- | --- | --- | --- | --- |\n| Alumínio | 10 | 10 | 10 |  |\n| Amónio | 10 | 10 | 10 |  |\n| Antimónio | 25 | 25 | 25 |  |\n| Arsénio | 10 | 10 | 10 |  |\n| Benzo(a)pireno | 25 | 25 | 25 |  |\n| Benzeno | 25 | 25 | 25 |  |\n| Boro | 10 | 10 | 10 |  |\n| Bromatos | 25 | 25 | 25 |  |\n| Cádmio | 10 | 10 | 10 |  |\n| Cloreto | 10 | 10 | 10 |  |\n| Crómio | 10 | 10 | 10 |  |\n| Condutividade | 10 | 10 | 10 |  |\n| Cobre | 10 | 10 | 10 |  |\n| Cianeto | 10 | 10 | 10 | Ver Nota 6 |\n| 1,2-dicloroetano | 25 | 25 | 10 |  |\n| Fluoretos | 10 | 10 | 10 |  |\n| Concentração hidrogeniónica pH (expressa em unidades pH) | 0,2 | 0,2 |  | Ver Nota 7 |\n| Ferro | 10 | 10 | 10 |  |\n| Chumbo | 10 | 10 | 10 |  |\n| Manganês | 10 | 10 | 10 |  |\n| Mercúrio | 20 | 10 | 20 |  |\n| Níquel | 10 | 10 | 10 |  |\n| Nitratos | 10 | 10 | 10 |  |\n| Nitritos | 10 | 10 | 10 |  |\n| Oxidabilidade | 25 | 25 | 10 | Ver Nota 8 |\n| Pesticidas | 25 | 25 | 25 | Ver Nota 9 |\n| Hidrocarbonetos aromáticos policíclicos | 25 | 25 | 25 | Ver Nota 10 |\n| Selénio | 10 | 10 | 10 |  |\n| Sódio | 10 | 10 | 10 |  |\n| Sulfatos | 10 | 10 | 10 |  |\n| Tetracloroetano | 25 | 25 | 10 | Ver Nota 11 |\n| Tricloroetano | 25 | 25 | 10 | Ver Nota 11 |\n| Trialometanos — total | 25 | 25 | 10 | Ver Nota 10 |\n| Turvação | 25 | 25 | 25 |  |\n| A acrilamida, a epicloridrina e o cloreto de vinilo devem ser controlados mediante especificação do produto. |  |  |  |  |"
+  },
+  "b542240330563895": {
+   "fragment_id": "2. Notas dos quadros 1 e 2",
+   "type": "divisao",
+   "heading": "2. Notas dos quadros 1 e 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Notas dos quadros 1 e 2\n\n*Nota 1* A incerteza de medição é um parâmetro não negativo que caracteriza a dispersão dos valores quantitativos atribuídos a um mensurando que se baseia na informação utilizada. O critério de desempenho para a incerteza de medição (k = 2) é a percentagem do valor paramétrico declarado no quadro ou uma percentagem superior. A incerteza de medição deve ser calculada ao nível do valor paramétrico, salvo especificação em contrário.\n\n*Nota 2* A exatidão é uma medição do erro sistemático e é a diferença entre o valor médio de um grande número de medições repetidas e o valor real. Na norma ISO 5725 figuram outras especificações.\n\n*Nota 3* A precisão é uma medição do erro aleatório e é geralmente expressa como o desvio-padrão (no interior de cada lote e entre lotes) da dispersão dos resultados em relação à média. Uma precisão aceitável corresponde ao dobro do desvio-padrão relativo. Este termo é definido de forma mais completa na norma ISO 5725.\n\n*Nota 4* O limite de deteção é: — quer o triplo do desvio-padrão no interior de um lote de uma amostra natural que contenha uma concentração pouco elevada do parâmetro, quer — o quíntuplo do desvio-padrão de uma amostra de controlo (no interior de um lote).\n\n*Nota 5* Se não for possível satisfazer o valor da incerteza de medição, deve ser selecionada a melhor técnica disponível (até 60 %).\n\n*Nota 6* O método determina os cianetos totais, em todas as suas formas.\n\n*Nota 7* Os valores da exatidão, da precisão e da incerteza de medição são expressos em unidades pH.\n\n*Nota 8* Método de referência: EN ISO 8467\n\n*Nota 9* As características de desempenho para os pesticidas são facultadas a título indicativo. Podem alcançar-se valores respeitantes à incerteza de medição de apenas 30 % para diversos pesticidas e, para uma série destes, podem ser autorizados valores mais elevados, até 80 %.\n\n*Nota 10* As características de desempenho aplicam-se às substâncias individuais especificadas, a 25 % do valor paramétrico constante da parte B do anexo I.\n\n*Nota 11* As características de desempenho aplicam-se às substâncias individuais especificadas, a 50 % do valor paramétrico constante da parte B do anexo I.\n\n*Nota 12* A incerteza de medição deve estimar-se ao nível de 3 mg/l do carbono orgânico total (COT). Deve ser utilizada a norma CEN 1484 relativa a diretrizes para a determinação do carbono orgânico total (COT) e do carbono orgânico dissolvido (COD).\n\n*Nota 13* A incerteza de medição deve estimar-se ao nível de 1,0 UTN (unidades de turvação nefelométrica) em conformidade com a norma EN ISO 7027."
+  },
+  "8ad68870af297cca": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#src.E0001)) JO C 131 de 30.5.1995, p. 5,\n\n> e JO C 213 de 15.7.1997, p. 8.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#src.E0002)) JO C 82 de 19.3.1996, p. 64.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#src.E0003)) JO C 100 de 2.4.1996, p. 134.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 12 de Dezembro de 1996 (JO C 20 de 20.1.1997, p. 133), posição comum do Conselho de 19 de Dezembro de 1997 (JO C 91 de 26.3.1998, p. 1) e decisão do Parlamento Europeu de 13 de Maio de 1998 (JO C 167 de 1.6.1998, p. 92).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#src.E0005)) JO L 229 de 30.8.1980, p. 11. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#src.E0006)) JO L 230 de 19.8.1991, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 96/68/CE (JO L 277 de 30.10.1996, p. 25).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#src.E0007)) JO L 123 de 24.4.1998, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#src.E0008)) JO L 229 de 30.8.1980, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 96/70/CE (JO L 299 de 23.11.1996, p. 26).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#src.E0009)) JO L 22 de 9.2.1965, p. 369. Directiva com a última redacção que lhe foi dada pela Directiva 93/39/CEE (JO L 214 de 24.8.1993, p. 22).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#src.E0010)) JO L 40 de 11.2.1989, p. 12. Directiva com a redacção que lhe foi dada pela Directiva 93/68/CEE (JO L 220 de 30.8.1993, p. 1).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#src.E0011)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#src.E0012)) JO L 158 de 23.6.1990, p. 56.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#src.E0013)) *p.m:* a aditar em função do resultado do estudo actualmente em curso.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#src.E0014)) Diretiva 2000/60/CE do Parlamento Europeu e do Conselho, de 23 de outubro de 2000, que estabelece um quadro de ação comunitária no domínio da política da água (JO L 327 de 22.12.2000, p. 1).\n\n> ([^15^](http://publications.europa.eu/resource/cellar/0f1c2c16-693b-4d61-9312-3e0c47df5819.0015.02/DOC_1#src.E0015)) Diretiva 2009/90/CE da Comissão, de 31 de julho de 2009, que estabelece, nos termos da Diretiva 2000/60/CE do Parlamento Europeu e do Conselho, especificações técnicas para a análise e monitorização químicas do estado da água (JO L 201 de 1.8.2009, p. 36)."
+  }
+ }
+}

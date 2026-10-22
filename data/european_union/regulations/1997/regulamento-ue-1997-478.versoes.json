@@ -1,0 +1,139 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997R0478:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R0478-20030819",
+ "dre_path": null,
+ "source_lastmod": "2003-08-19",
+ "versions": [
+  {
+   "date": "1997-03-15",
+   "future": false,
+   "celex": "31997R0478",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "efef6455ccd734d6",
+    "cb5fabaced918cfd",
+    "c7e7e3de7c01d503",
+    "ace0e06fcc9b6c43",
+    "3c3b1e7db6aa83df",
+    "c05a0005add1d0f0",
+    "baaf1f521e2546bb",
+    "1b183ceaa252b014",
+    "18510922d440d41e",
+    "3d75e0c361a5b9b1"
+   ]
+  },
+  {
+   "date": "2003-08-19",
+   "future": false,
+   "celex": "01997R0478-20030819",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º"
+   ],
+   "fragments": [
+    "9eead53b8f612c81"
+   ]
+  }
+ ],
+ "fragments": {
+  "efef6455ccd734d6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 478/97 da Comissão de 14 de Março de 1997 que estabelece normas de execução do Regulamento (CE) nº 2200/96 do Conselho no que respeita ao pré- reconhecimento dos agrupamentos de produtores** *Jornal Oficial nº L 075 de 15/03/1997 p. 0004 - 0006*\n\nREGULAMENTO (CE) Nº 478/97 DA COMISSÃO de 14 de Março de 1997 que estabelece normas de execução do Regulamento (CE) nº 2200/96 do Conselho no que respeita ao pré-reconhecimento dos agrupamentos de produtores\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) nº 2200/96 do Conselho, de 28 de Outubro de 1996, que estabelece a organização comum de mercado no sector das frutas e produtos hortícolas (1), e, nomeadamente, o seu artigo 48º,\n\nConsiderando que o artigo 14º do Regulamento (CE) nº 2200/96 prevê a possibilidade de um período transitório de pré-reconhecimento para permitir aos novos agrupamentos de produtores, ou agrupamentos não reconhecidos ao abrigo do Regulamento (CEE) nº 1035/72 do Conselho (2), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1363/95 da Comissão (3), reunir as condições de reconhecimento fixadas no artigo 11º do Regulamento (CE) nº 2200/96; que, consequentemente, convém estabelecer determinadas condições para a concessão do pré-reconhecimento aos agrupamentos de produtores que apresentem um plano;\n\nConsiderando que, para estimular a criação de organizações de produtores estáveis que possam contribuir para a realização dos objectivos da organização comum de mercado de modo duradouro, é conveniente que o pré-reconhecimento apenas seja concedido aos agrupamentos de produtores que possam comprovar a sua capacidade para cumprirem todas as condições do artigo 11º do Regulamento (CE) nº 2200/96 num determinado período;\n\nConsiderando que, para permitir aos agrupamentos de produtores adaptarem-se progressivamente às condições fixadas no artigo 11º do Regulamento (CE) nº 2200/96 no Regulamento (CE) nº 412/97 da Comissão (4), para o reconhecimento das organizações de produtores, é necessário estabelecer condições menos restritivas de concessão do pré-reconhecimento; que convém, igualmente, permitir que os Estados-membros estabeleçam limites mais estritos do que os constantes do presente regulamento, sem exceder aos fixados no artigo 11º do Regulamento (CE) nº 2200/96 e no Regulamento (CE) nº 412/97 para ter em conta as diferentes situações de produção e de comercialização nos diversos Estados-membros;\n\nConsiderando que, para tornar possível a reestruturação de organizações de produtores reconhecidas, a obrigação estabelecida no nº 1, ponto 2 da alínea c), do artigo 11º do Regulamento (CE) nº 2200/96 não deve ser imposta se o agrupamento de produtores pré-reconhecido obtiver o reconhecimento, sem prejuízo da possibilidade dos Estados-membros estabelecerem limites mais estritos;\n\nConsiderando que, para permitir aos agrupamentos de produtores apresentarem um plano de reconhecimento nos termos do artigo 14º do Regulamento (CE) nº 2200/96, é conveniente especificar as informações que os agrupamentos de produtores deverão incluir no plano;\n\nConsiderando que, para permitir aos agrupamentos de produtores um melhor cumprimento das condições de reconhecimento, é necessário autorizar alterações ao plano de reconhecimento; que, com o mesmo objectivo, convém prever que o Estado-membro possa exigir ao agrupamento de produtores medidas correctivas com vista a assegurar a realização do plano;\n\nConsiderando que o agrupamento de produtores pode atingir as condições fixadas no artigo 11º do Regulamento (CE) nº 2200/96 e no Regulamento (CE) nº 412/97 antes do termo do plano de reconhecimento, sendo conveniente estabelecer disposições que permitam ao referido agrupamento a possibilidade de apresentar um pedido de reconhecimento ao abrigo dos referidos regulamentos; que, por razões de coerência, a concessão de tal reconhecimento ao agrupamento de produtores deve significar o fim do seu plano de reconhecimento;\n\nConsiderando que, para dar aos agrupamentos de produtores pré-reconhecidos a oportunidade de realizarem um programa operacional, nos termos do Regulamento (CE) nº 411/97 da Comissão (5), a partir da concessão do reconhecimento é conveniente prever a possibilidade de os referidos agrupamentos apresentarem um projecto de programa operacional aquando da apresentação do pedido de reconhecimento;\n\nConsiderando que, com o objectivo de assegurar uma gestão correcta da organização comum de mercado, é conveniente que os Estados-membros informem regularmente a Comissão sobre a situação da concessão dos pré-reconhecimentos, assim como sobre a evolução do sector, em conformidade com o artigo 9º do Regulamento (CE) nº 412/97;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de gestão das frutas e produtos hortícolas frescos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "cb5fabaced918cfd": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO presente regulamento estabelece as condições mínimas para o pré-reconhecimento dos agrupamentos de produtos a que se refere o artigo 14º do Regulamento (CE) nº 2200/96.\n\nOs Estados-membros podem estabelecer condições mais estritas, assim como obrigações complementares, em relação às fixadas no presente regulamento."
+  },
+  "c7e7e3de7c01d503": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os novos agrupamentos de produtores, ou os agrupamentos não reconhecidos ao abrigo do Regulamento (CEE) nº 1035/72, que apresentem um pedido de pré-reconhecimento nos termos do artigo 14º do Regulamento (CE) nº 2200/96 devem apresentar à autoridade competente do Estado-membro onde o agrupamento de produtos tem a sua sede um plano de reconhecimento para aprovação.\n\n2. Os planos de reconhecimento devem ser realizados por períodos anuais a contar da data da sua aprovação pela autoridade nacional competente. A sua duração não pode exceder um período de cinco anos a partir da referida data."
+  },
+  "ace0e06fcc9b6c43": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Aquando da apresentação do plano de reconhecimento, o agrupamento de produtores deve:\n\na) Satisfazer as condições enunciadas no nº 1, alíneas a) e b), no ponto 4 da alínea c), na alínea d) e no nº 2, alínea b), do artigo 11º do Regulamento (CE) nº 2200/96;\n\nb) Fazer prova de que reúne o número mínimo de produtores e o volume mínimo de produção comercializável seguintes:\n\n1. o número mínimo de produtores é fixado em metade do número estabelecido nos anexos I e II do Regulamento (CE) nº 412/97, não podendo, em todo o caso, ser inferior a 5;\n\n2. o volume mínimo de produção comercializável dos membros deve ser igual ou superior a 50 % do volume mínimo de produção indicado nos anexos I e II do Regulamento (CE) nº 412/97.\n\n2. Se o Estado-membro aplicar o nº 2 do artigo 2º do Regulamento (CE) nº 412/97, a percentagem da produção comercializável aí indicada não pode ser inferior a 8 %; o número mínimo de produtores é de dez para as organizações de produtores referidas no nº 1, subalínea i) a iv) da alínea a), do artigo 11º do Regulamento (CE) nº 2200/96, e de cinco para as referidas no nº 1, subalíneas vi) e vii) da alínea a), e no nº 3 do referido artigo.\n\n3. São aplicáveis, mutatis mutandis, as disposições do Regulamento (CE) nº 412/97, com excepção do seu artigo 7º"
+  },
+  "3c3b1e7db6aa83df": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Os projectos de plano de reconhecimento devem incluir, pelo menos, os seguintes elementos:\n\na) Duração do plano;\n\nb) Descrição da situação de partida no que respeita, nomeadamente, ao número de produtores membros, com um ficheiro completo dos aderentes, à produção, à comercialização e às infra-estruturas;\n\nc) Objectivos do plano;\n\nd) Acções a empreender e meios a utilizar para atingir os objectivos previstos para cada ano de realização do plano, assim como uma análise custo/eficácia;\n\ne) Acções a empreender para satisfazer, até ao fim do plano de reconhecimento, as condições enunciadas no nº 1, pontos 1, 2, 3 e 5 da alínea c), do artigo 11º do Regulamento (CE) nº 2200/96 e no Regulamento (CE) nº 412/97.\n\n2. As acções referidas na alínea d) do nº 1 do presente artigo compreendem, nomeadamente, as acções referidas no nº 2, alíneas c) e d), do artigo 11º do Regulamento (CE) nº 2200/96 e os elementos a seguir indicados, cuja realização pode ser progressiva a acompanhar a duração do plano:\n\na) Aplicação do disposto no nº 1, ponto 3 da alínea c), do artigo 11º do Regulamento (CE) nº 2200/96;\n\nb) Planificação da produção;\n\nc) Estratégia de venda, desenvolvimento dos ramos comercial e de promoção;\n\nd) Acções para melhorar a qualidade dos produtores;\n\ne) Efectivos de pessoal.\n\nOs planos devem indicar, nomeadamente, o custo previsional dos investimentos necessários à sua realização, discriminado por acção e escalonado por ano de execução.\n\n3. A autoridade nacional competente deve tomar uma decisão sobre os projectos de plano de reconhecimento no prazo de três meses a contar da sua recepção, acompanhado de todos os documentos justificativos.\n\n4. A autoridade nacional competente deve certificar-se:\n\na) Por todos os meios adequados, incluindo controlos no local, da exactidão das informações prestadas nos termos do nº 1, alíneas b) e c);\n\nb) Da coerência económica e da qualidade técnica do plano, do fundamento das estimativas do plano de investimentos e da programação da sua execução.\n\n5. Consoante o caso, a autoridade nacional competente deve:\n\na) Aprovar o plano e conceder o pré-reconhecimento;\n\nb) Exigir a introdução de alterações no plano. A aprovação do plano só pode ser concedida se tiverem sido introduzidas as alterações exigidas;\n\nc) Rejeitar o plano.\n\n6. Antes de conceder o pré-reconhecimento, o Estado-membro deve informar a Comissão da sua decisão, em conformidade com o nº 4 do artigo 14º do Regulamento (CE) nº 2200/96.\n\nO Estado-membro deve notificar ao agrupamento de produtores a sua decisão.\n\nO Estado-membro deve comunicar à Comissão, durante o mês seguinte à notificação ao agrupamento de produtores da aprovação do plano de reconhecimento, as referências do agrupamento, a data de pré-reconhecimento e a duração do plano."
+  },
+  "c05a0005add1d0f0": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. A realização dos planos de reconhecimento deve ter início no dia 1 do mês seguinte ao da sua aprovação.\n\n2. Os agrupamentos de produtores podem apresentar pedidos de alteração dos planos acompanhados de todos os documentos justificativos.\n\nApós ter examinado as justificações apresentadas, a autoridade nacional competente deve tomar uma decisão sobre qualquer alteração do plano no prazo de três meses a contar da recepção do pedido de alteração. Considera-se rejeitado qualquer pedido de alteração relativamente ao qual não seja tomada uma decisão nesse prazo."
+  },
+  "baaf1f521e2546bb": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nO agrupamento de produtores deve comunicar à autoridade competente do Estado-membro, o mais tardar, no quarto mês seguinte ao termo de um ano de plano de reconhecimento, uma cópia do seu exercício contabilístico respeitante ao ano transacto."
+  },
+  "1b183ceaa252b014": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. A autoridade nacional competente deve verificar anualmente, através de controlos e inspecções, a evolução e o estado de realização do plano; deve, nomeadamente, verificar o grau de realização das acções a empreender para satisfazer, até ao fim do plano de reconhecimento, as condições fixadas no artigo 11º do Regulamento (CE) nº 2200/96 e as previstas no Regulamento (CE) nº 412/97.\n\n2. Se a autoridade nacional competente verificar um desvio em relação à realização do plano e se esse desvio for susceptível de comprometer a sua realização, pode exigir ao agrupamento de produtores medidas correctivas.\n\nO Estado-membro deve informar a Comissão da sua decisão."
+  },
+  "18510922d440d41e": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nDurante a execução de um plano de reconhecimento, o agrupamento de produtores pode, a qualquer momento, apresentar um pedido de reconhecimento ao abrigo do artigo 11º do Regulamento (CE) nº 2200/96, nas condições previstas pelo Regulamento (CE) nº 412/97. A partir da data da apresentação desse pedido, o agrupamento em causa pode apresentar um projecto de programa operacional nas condições do Regulamento (CE) nº 411/97."
+  },
+  "3d75e0c361a5b9b1": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 14 de Março de 1997.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO nº L 297 de 21. 11. 1996, p. 1.\n\n(2) JO nº L 118 de 20. 5. 1972, p. 1.\n\n(3) JO nº L 132 de 16. 6. 1995, p. 8.\n\n(4) JO nº L 62 de 4. 3. 1997, p. 16.\n\n(5) JO nº L 62 de 4. 3. 1997, p. 9."
+  },
+  "9eead53b8f612c81": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1997R0478 — PT — 19.08.2003 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31997R0478) [REGULAMENTO (CE) N.º 478/97 DA COMISSÃO](http://publications.europa.eu/resource/celex/31997R0478) [de 14 de Março de 1997](http://publications.europa.eu/resource/celex/31997R0478) [que estabelece normas de execução do Regulamento (CE) n.º 2200/96 do Conselho no que respeita ao pré-reconhecimento dos agrupamentos de produtores](http://publications.europa.eu/resource/celex/31997R0478) (JO L 075, 15.3.1997, p.4)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1432/2003 da Comissão de 11 de Agosto de 2003](http://publications.europa.eu/resource/celex/32003R1432) — L 203 — 18 — 12.8.2003"
+  }
+ }
+}

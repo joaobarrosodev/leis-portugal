@@ -36,6 +36,39 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-12-11'
+version_history:
+  file: diretiva-ue-2002-30.versoes.json
+  count: 2
+  source_lastmod: '2008-12-11'
+  versions:
+  - date: '2002-03-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-11'
+    amending: eu:celex:32008R1137:por
+    amending_title: REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE22 de Outubro de 2008 que adapta
+      à Decisão 1999/468/CE do Conselho certos actos sujeitos ao procedimento previsto no artigo 251. o do Tratado, no que
+      se refere ao procedimento de regulamentação com controlo; Acto relativo às condições de adesão da República Checa, da
+      República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria,
+      da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos
+      Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 13.º — Comité
+    - Altera Artigo 18.º — Destinatários
+    - Adita ANEXO I
+    - Adita Lista de aeroportos urbanos
+    - Adita ANEXO II
+    - Adita Informações referidas no n.º 1 do artigo 5.º
+    - Adita 1. Inventário actual
+    - Adita 2. Previsões na ausência de novas medidas
+    - Adita 3. Avaliação de medidas complementares
+    - Adita 4. Relação com a directiva do Parlamento Europeu e do Conselho, relativa à avaliação e gestão do ruído ambiente.
+    - Adita Notas
+    - Suprime ANEXO I — Lista de aeroportos urbanos
+    - Suprime ANEXO II — Informações referidas no n.o 1 do artigo 5.o
 identifiers:
   celex: 32002L0030
   eli: http://data.europa.eu/eli/dir/2002/30/oj
@@ -50,7 +83,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a548eb60-a029-412b-8572-fd7083349bfe.0010
   content_url: http://publications.europa.eu/resource/cellar/963819f6-d014-4734-9c9b-ac7254100b0c.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0030-20081211
-  retrieved_at: '2026-10-22T02:38:37Z'
+  retrieved_at: '2026-10-22T14:51:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-26T08:49:04.271+01:00'
 integrity:
@@ -59,9 +92,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:37Z'
-  notes: Texto consolidado 02002L0030-20081211.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:27Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2002-30.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -181,33 +214,20 @@ relationships:
   source: null
 article_structure:
   article_count: 18
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:37Z'
-  warnings: []
+  checked_at: '2026-10-22T14:51:27Z'
+  warnings:
+  - '02002L0030-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 2002/30/CE do Parlamento Europeu e do Conselho, de 26 de Março de 2002
-
-> 2002L0030 — PT — 11.12.2008 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE22 de Outubro de 2008 que adapta à Decisão 1999/468/CE do Conselho certos actos sujeitos ao procedimento previsto no artigo 251.º do Tratado, no que se refere ao procedimento de regulamentação com controlo](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-
-**Alterado por:**
-
-- [►A1](http://publications.europa.eu/resource/celex/12003T) — [Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T) — L 236 — 33 — 23.9.2003
-
-## DIRECTIVA 2002/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 26 de Março de 2002
 

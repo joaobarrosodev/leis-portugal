@@ -34,6 +34,37 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-16'
+version_history:
+  file: diretiva-ue-1992-100.versoes.json
+  count: 2
+  source_lastmod: '2007-01-16'
+  versions:
+  - date: '1992-11-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-16'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+    - Suprime Artigo 15o
+    - Suprime Artigo 16o — Os Estados-membros são os destinatários da presente directiva. Feito em Bruxelas, em 19 de Novembro
+      de 1992. Pelo Conselho
 identifiers:
   celex: 31992L0100
   eli: http://data.europa.eu/eli/dir/1992/100/oj
@@ -48,7 +79,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b6642ddf-05ed-4fa6-88ff-161d70471ef7.0009
   content_url: http://publications.europa.eu/resource/cellar/22794780-948b-4999-8dce-63fdd97b23f6.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0100-20070116
-  retrieved_at: '2026-10-22T02:46:47Z'
+  retrieved_at: '2026-10-22T14:41:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-31T20:35:30.215+02:00'
 integrity:
@@ -57,9 +88,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:47Z'
-  notes: Texto consolidado 01992L0100-20070116.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:18Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1992-100.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -169,16 +200,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:47Z'
+  checked_at: '2026-10-22T14:41:18Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01992L0100-19931119: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0100-20010622: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

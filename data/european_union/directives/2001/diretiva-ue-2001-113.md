@@ -34,6 +34,69 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-14'
+version_history:
+  file: diretiva-ue-2001-113.versoes.json
+  count: 5
+  source_lastmod: '2026-06-14'
+  versions:
+  - date: '2002-01-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-07-12'
+    amending: eu:celex:32004L0084:por
+    amending_title: M1
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera ANEXO II
+    - Adita ANEXO I
+    - Adita NOMES, DESCRIÇÕES DOS PRODUTOS E DEFINIÇÕES
+    - Adita I. DEFINIÇÕES
+    - Adita ANEXO III
+    - Adita A. DEFINIÇÕES
+    - Adita B. TRATAMENTOS DAS MATÉRIAS-PRIMAS
+    - Adita Notas
+    - Suprime ANEXO I — NOMES, DESCRIÇÕES DOS PRODUTOS E DEFINIÇÕES
+    - Suprime ANEXO III — A. DEFINIÇÕES
+  - date: '2008-01-01'
+    amending: eu:celex:32007R1182:por
+    amending_title: REGULAMENTO (CE) n. o 1182/2007 DO CONSELHO de 26 de Setembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera ANEXO II
+    - Altera A. DEFINIÇÕES
+    - Altera Notas
+  - date: '2013-11-18'
+    amending: eu:celex:32013R1021:por
+    amending_title: REGULAMENTO (UE) N. o 1021/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera I. DEFINIÇÕES
+    - Altera ANEXO II
+    - Altera A. DEFINIÇÕES
+    - Altera Notas
+  - date: '2026-06-14'
+    amending: eu:celex:32024L1438:por
+    amending_title: DIRETIVA (UE) 2024/1438 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera I. DEFINIÇÕES
+    - Altera ANEXO II
+    - Altera A. DEFINIÇÕES
+    - Altera B. TRATAMENTOS DAS MATÉRIAS-PRIMAS
+    - Altera Notas
+    - Adita Artigo 6.º-A
 identifiers:
   celex: 32001L0113
   eli: http://data.europa.eu/eli/dir/2001/113/oj
@@ -48,7 +111,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fae3a3ab-dfb3-4769-9985-c4f77234ce61.0010
   content_url: http://publications.europa.eu/resource/cellar/7f3a0f42-431d-11f1-8095-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0113-20260614
-  retrieved_at: '2026-10-22T02:44:59Z'
+  retrieved_at: '2026-10-22T14:50:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:30:00.660+02:00'
 integrity:
@@ -57,9 +120,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:59Z'
-  notes: Texto consolidado 02001L0113-20260614.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:27Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2001-113.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -180,32 +243,19 @@ relationships:
   source: null
 article_structure:
   article_count: 11
-  section_count: 7
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 8
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:59Z'
+  checked_at: '2026-10-22T14:50:27Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2001/113/CE do Conselho, de 20 de Dezembro de 2001
-
-> 02001L0113 — PT — 14.06.2026 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32004L0084) — [DIRECTIVA DO CONSELHO2004/84/CE de 10 de Junho de 2004](http://publications.europa.eu/resource/celex/32004L0084) — L 219 — 8 — 19.6.2004
-- [M2](http://publications.europa.eu/resource/celex/32007R1182) — [REGULAMENTO (CE) n.º 1182/2007 DO CONSELHO de 26 de Setembro de 2007](http://publications.europa.eu/resource/celex/32007R1182) — L 273 — 1 — 17.10.2007
-- [►M3](http://publications.europa.eu/resource/celex/32013R1021) — [REGULAMENTO (UE) N.º 1021/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R1021) — L 287 — 1 — 29.10.2013
-- [►M4](http://publications.europa.eu/resource/celex/32024L1438) — [DIRETIVA (UE) 2024/1438 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024L1438) — L 1438 — 1 — 24.5.2024
-
-## DIRECTIVA DO CONSELHO 2001/113/CE
 
 de 20 de Dezembro de 2001
 

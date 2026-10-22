@@ -35,6 +35,47 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-06-28'
+version_history:
+  file: diretiva-ue-1991-383.versoes.json
+  count: 2
+  source_lastmod: '2007-06-28'
+  versions:
+  - date: '1991-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-28'
+    amending: eu:celex:32007L0030:por
+    amending_title: DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de
+      Junho de 2007
+    changes:
+    - Altera preambulo
+    - Adita SECÇÃO I
+    - Adita ÂMBITO DE APLICAÇÃO E OBJECTO
+    - Adita Artigo 1.º — Âmbito de aplicação
+    - Adita Artigo 2.º — Objecto
+    - Adita SECÇÃO II
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita Artigo 3.º — Informação dos trabalhadores
+    - Adita Artigo 4.º — Formação dos trabalhadores
+    - Adita Artigo 5.º — Utilização e vigilância médica dos trabalhadores
+    - Adita Artigo 6.º — Serviços de protecção e de prevenção
+    - Adita SECÇÃO III
+    - Adita DISPOSIÇÕES ESPECIAIS
+    - 'Adita Artigo 7.º — Relações de trabalho temporário: informação'
+    - 'Adita Artigo 8.º — Relações de trabalho temporário: responsabilidade'
+    - Adita SECÇÃO IV
+    - Adita DISPOSIÇÕES DIVERSAS
+    - Adita Artigo 9.º — Disposições mais favoráveis
+    - Adita Artigo 10.º — Disposições finais
+    - Adita Artigo 10.º-A — Relatório de aplicação
+    - Adita Artigo 11.º
+    - Adita Notas
+    - Suprime SECÇÃO I ÂMBITO DE APLICAÇÃO E OBJECTO — Artigo 1o Âmbito de aplicação
+    - Suprime SECÇÃO II DISPOSIÇÕES GERAIS — Artigo 3o Informação dos trabalhadores
+    - 'Suprime SECÇÃO III DISPOSIÇÕES ESPECIAIS — Artigo 7o Relações de trabalho temporário: informação'
+    - Suprime SECÇÃO IV DISPOSIÇÕES DIVERSAS — Artigo 9o Disposições mais favoráveis
+    - Suprime Artigo 11o
 identifiers:
   celex: 31991L0383
   eli: http://data.europa.eu/eli/dir/1991/383/oj
@@ -49,7 +90,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/37acf4ba-bf12-4bcb-bc06-ead0767905be.0011
   content_url: http://publications.europa.eu/resource/cellar/f3b7f019-57e0-41c7-9c4f-4ee66958e32e.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0383-20070628
-  retrieved_at: '2026-10-22T02:50:20Z'
+  retrieved_at: '2026-10-22T14:38:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T08:35:30.143+01:00'
 integrity:
@@ -58,9 +99,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:50:20Z'
-  notes: Texto consolidado 01991L0383-20070628.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:38:59Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1991-383.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -107,29 +148,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/3c966801-b944-46d2-9034-b8c9e37b86c3
 article_structure:
   article_count: 12
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:50:20Z'
+  checked_at: '2026-10-22T14:38:59Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 91/383/CEE do Conselho, de 25 de Junho de 1991
-
-> 1991L0383 — PT — 28.06.2007 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007L0030) — [DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007](http://publications.europa.eu/resource/celex/32007L0030) — L 165 — 21 — 27.6.2007
-
-## DIRECTIVA DO CONSELHO
 
 de 25 de Junho de 1991
 

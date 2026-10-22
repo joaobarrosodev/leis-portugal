@@ -35,6 +35,333 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-01-01'
+version_history:
+  file: regulamento-ue-2003-1059.versoes.json
+  count: 13
+  source_lastmod: '2024-01-01'
+  versions:
+  - date: '2003-06-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-11-26'
+    amending: eu:celex:32005R1888:por
+    amending_title: REGULAMENTO (CE) N. o 1888/2005 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de Outubro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Critérios de classificação
+    - Altera Artigo 9.º — Entrada em vigor
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Unidades administrativas existentes
+    - Adita ANEXO III
+    - Adita Unidades administrativas mais pequenas
+    - Adita Notas
+    - Suprime ANEXO I — Classificação NUTS (Código - Nome)
+    - Suprime ANEXO II — Unidades administrativas existentes
+    - Suprime ANEXO III — Unidades administrativas mais pequenas
+  - date: '2007-03-02'
+    amending: eu:celex:32007R0105:por
+    amending_title: REGULAMENTO (CE) N. o 105/2007 DA COMISSÃO de 1 de Fevereiro de 2007
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera Unidades administrativas existentes
+    - Altera Unidades administrativas mais pequenas
+    - Altera Notas
+    - Adita Classificação NUTS (Código — Nome)
+    - Adita BELGIQUE-BELGIË
+    - Adita ČESKÁ REPUBLIKA
+    - Adita DANMARK
+    - Adita DEUTSCHLAND
+    - Adita EESTI
+    - Adita ΕΛΛΑΔΑ
+    - Adita ESPAÑA
+    - Adita FRANCE
+    - Adita IRELAND
+    - Adita ITALIA
+    - Adita ΚΥΠΡΟΣ/KIBRIS
+    - Adita LATVIJA
+    - Adita LIETUVA
+    - Adita LUXEMBOURG (GRAND-DUCHÉ)
+    - Adita MAGYARORSZÁG
+    - Adita MALTA
+    - Adita NEDERLAND
+    - Adita ÖSTERREICH
+    - Adita POLSKA
+    - Adita PORTUGAL
+    - Adita SLOVENIJA
+    - Adita SLOVENSKÁ REPUBLIKA
+    - Adita SUOMI/FINLAND
+    - Adita SVERIGE
+    - Adita UNITED KINGDOM
+  - date: '2008-03-06'
+    amending: eu:celex:32008R0176:por
+    amending_title: REGULAMENTO (CE) N. o 176/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Fevereiro de 2008
+    changes:
+    - Altera preambulo
+    - Altera BELGIQUE-BELGIË
+    - Altera ITALIA
+    - Altera Unidades administrativas existentes
+    - Altera Unidades administrativas mais pequenas
+    - Altera Notas
+    - Adita БЪЛГАРИЯ
+    - Adita ROMÂNIA
+  - date: '2008-12-11'
+    amending: eu:celex:32008R1137:por
+    amending_title: REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Critérios de classificação
+    - Altera Artigo 4.º — Elementos constitutivos da NUTS
+    - Altera Artigo 5.º — Alterações à NUTS
+    - Altera BELGIQUE-BELGIË
+    - Altera ITALIA
+    - Altera Notas
+    - Adita Artigo 7.º
+    - Suprime Artigo 7.º — Procedimento
+  - date: '2011-02-07'
+    amending: eu:celex:32011R0031:por
+    amending_title: Regulamento (UE) n. o 31/2011 da Comissão de 17 de Janeiro de 2011
+    changes:
+    - Altera preambulo
+    - Altera BELGIQUE-BELGIË
+    - Altera БЪЛГАРИЯ
+    - Altera ČESKÁ REPUBLIKA
+    - Altera DANMARK
+    - Altera DEUTSCHLAND
+    - Altera EESTI
+    - Altera ΕΛΛΑΔΑ
+    - Altera ESPAÑA
+    - Altera FRANCE
+    - Altera ITALIA
+    - Altera ΚΥΠΡΟΣ/KIBRIS
+    - Altera LATVIJA
+    - Altera LIETUVA
+    - Altera MAGYARORSZÁG
+    - Altera MALTA
+    - Altera NEDERLAND
+    - Altera ÖSTERREICH
+    - Altera POLSKA
+    - Altera PORTUGAL
+    - Altera ROMÂNIA
+    - Altera SLOVENIJA
+    - Altera SUOMI/FINLAND
+    - Altera SVERIGE
+    - Altera UNITED KINGDOM
+    - Altera Unidades administrativas existentes
+    - Altera Unidades administrativas mais pequenas
+    - Altera Notas
+    - Adita ANEXO 1
+    - Adita ÉIRE/IRELAND
+    - Adita LUXEMBOURG
+    - Adita SLOVENSKO
+    - Suprime ANEXO I
+    - Suprime IRELAND
+    - Suprime LUXEMBOURG (GRAND-DUCHÉ)
+    - Suprime SLOVENSKÁ REPUBLIKA
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera BELGIQUE-BELGIË
+    - Altera ITALIA
+    - Altera Unidades administrativas existentes
+    - Altera Unidades administrativas mais pequenas
+    - Altera Notas
+    - Adita HRVATSKA
+  - date: '2014-01-07'
+    amending: eu:celex:32013R1319:por
+    amending_title: REGULAMENTO (UE) N. o 1319/2013 DA COMISSÃO de 9 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Unidades administrativas existentes
+    - Altera Unidades administrativas mais pequenas
+    - Altera Notas
+    - Adita ANEXO I
+    - Suprime ANEXO 1
+    - Suprime Classificação NUTS (Código — Nome)
+    - Suprime BELGIQUE-BELGIË
+    - Suprime БЪЛГАРИЯ
+    - Suprime ČESKÁ REPUBLIKA
+    - Suprime DANMARK
+    - Suprime DEUTSCHLAND
+    - Suprime EESTI
+    - Suprime ÉIRE/IRELAND
+    - Suprime ΕΛΛΑΔΑ
+    - Suprime ESPAÑA
+    - Suprime FRANCE
+    - Suprime HRVATSKA
+    - Suprime ITALIA
+    - Suprime ΚΥΠΡΟΣ/KIBRIS
+    - Suprime LATVIJA
+    - Suprime LIETUVA
+    - Suprime LUXEMBOURG
+    - Suprime MAGYARORSZÁG
+    - Suprime MALTA
+    - Suprime NEDERLAND
+    - Suprime ÖSTERREICH
+    - Suprime POLSKA
+    - Suprime PORTUGAL
+    - Suprime ROMÂNIA
+    - Suprime SLOVENIJA
+    - Suprime SLOVENSKO
+    - Suprime SUOMI/FINLAND
+    - Suprime SVERIGE
+    - Suprime UNITED KINGDOM
+  - date: '2014-09-02'
+    amending: eu:celex:32014R0868:por
+    amending_title: REGULAMENTO (UE) N. o 868/2014 DA COMISSÃO de 8 de agosto de 2014
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera Unidades administrativas existentes
+    - Altera Notas
+    - Adita Classificação NUTS (Código — Nome)
+    - Adita BÉLGICA
+    - Adita BULGÁRIA
+    - Adita REPÚBLICA CHECA
+    - Adita DINAMARCA
+    - Adita ALEMANHA
+    - Adita ESTÓNIA
+    - Adita IRLANDA
+    - Adita GRÉCIA
+    - Adita ESPANHA
+    - Adita FRANÇA
+    - Adita CROÁCIA
+    - Adita ITÁLIA
+    - Adita CHIPRE
+    - Adita LETÓNIA
+    - Adita LITUÂNIA
+    - Adita LUXEMBURGO
+    - Adita HUNGRIA
+    - Adita MALTA
+    - Adita PAÍSES BAIXOS
+    - Adita ÁUSTRIA
+    - Adita POLÓNIA
+    - Adita PORTUGAL
+    - Adita ROMÉNIA
+    - Adita ESLOVÉNIA
+    - Adita ESLOVÁQUIA
+    - Adita FINLÂNDIA
+    - Adita SUÉCIA
+    - Adita REINO UNIDO
+  - date: '2016-12-19'
+    amending: eu:celex:32016R2066:por
+    amending_title: REGULAMENTO (UE) 2016/2066 DA COMISSÃO de 21 de novembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Classificação NUTS (Código — Nome)
+    - Altera Unidades administrativas existentes
+    - Altera Unidades administrativas mais pequenas
+    - Suprime BÉLGICA
+    - Suprime BULGÁRIA
+    - Suprime REPÚBLICA CHECA
+    - Suprime DINAMARCA
+    - Suprime ALEMANHA
+    - Suprime ESTÓNIA
+    - Suprime IRLANDA
+    - Suprime GRÉCIA
+    - Suprime ESPANHA
+    - Suprime FRANÇA
+    - Suprime CROÁCIA
+    - Suprime ITÁLIA
+    - Suprime CHIPRE
+    - Suprime LETÓNIA
+    - Suprime LITUÂNIA
+    - Suprime LUXEMBURGO
+    - Suprime HUNGRIA
+    - Suprime MALTA
+    - Suprime PAÍSES BAIXOS
+    - Suprime ÁUSTRIA
+    - Suprime POLÓNIA
+    - Suprime PORTUGAL
+    - Suprime ROMÉNIA
+    - Suprime ESLOVÉNIA
+    - Suprime ESLOVÁQUIA
+    - Suprime FINLÂNDIA
+    - Suprime SUÉCIA
+    - Suprime REINO UNIDO
+    - Suprime Notas
+  - date: '2018-01-18'
+    amending: eu:celex:32017R2391:por
+    amending_title: REGULAMENTO (UE) 2017/2391 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2017
+    changes:
+    - Altera Artigo 2.º — Estrutura
+    - Altera Artigo 3.º — Critérios de classificação
+    - Altera Artigo 5.º — Alterações à NUTS
+    - Altera Classificação NUTS (Código — Nome)
+    - Adita Artigo 1.º — Objeto
+    - Adita Artigo 4.º — Unidades administrativas locais
+    - Adita Artigo 4.º-A — Quadrículas estatísticas
+    - Adita Artigo 4.º-B — Tipologias territoriais da União
+    - Adita Artigo 7.º — Procedimento de comité
+    - Adita Artigo 7.º-A — Exercício da delegação
+    - Adita Unidades administrativas locais
+    - Adita Notas
+    - Suprime Artigo 1.º — Objectivo
+    - Suprime Artigo 4.º — Elementos constitutivos da NUTS
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º — Relatórios
+    - Suprime Unidades administrativas mais pequenas
+  - date: '2019-11-13'
+    amending: eu:celex:32019R1755:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/1755 da Comissão de 8 de agosto de 2019
+    changes:
+    - Altera Artigo 4.º-A — Quadrículas estatísticas
+    - Altera Classificação NUTS (Código — Nome)
+    - Altera Unidades administrativas locais
+    - Altera Notas
+    - Adita BÉLGICA
+    - Adita BULGÁRIA
+    - Adita CHÉQUIA
+    - Adita DINAMARCA
+    - Adita ALEMANHA
+    - Adita ESTÓNIA
+    - Adita IRLANDA
+    - Adita GRÉCIA
+    - Adita ESPANHA
+    - Adita FRANÇA
+    - Adita CROÁCIA
+    - Adita ITÁLIA
+    - Adita CHIPRE
+    - Adita LETÓNIA
+    - Adita LITUÂNIA
+    - Adita LUXEMBURGO
+    - Adita HUNGRIA
+    - Adita MALTA
+    - Adita PAÍSES BAIXOS
+    - Adita ÁUSTRIA
+    - Adita POLÓNIA
+    - Adita PORTUGAL
+    - Adita ROMÉNIA
+    - Adita ESLOVÉNIA
+    - Adita ESLOVÁQUIA
+    - Adita FINLÂNDIA
+    - Adita SUÉCIA
+    - Adita REINO UNIDO
+  - date: '2024-01-01'
+    amending: eu:celex:32023R0674:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/674 DA COMISSÃO de 26 de dezembro de 2022
+    changes:
+    - Altera Artigo 4.º-A — Quadrículas estatísticas
+    - Altera BÉLGICA
+    - Altera DINAMARCA
+    - Altera ALEMANHA
+    - Altera GRÉCIA
+    - Altera ITÁLIA
+    - Altera LETÓNIA
+    - Altera HUNGRIA
+    - Altera PAÍSES BAIXOS
+    - Altera PORTUGAL
+    - Altera FINLÂNDIA
+    - Altera Unidades administrativas existentes
+    - Altera Unidades administrativas locais
+    - Altera Notas
+    - Adita SLOVAKIA
+    - Suprime ESLOVÁQUIA
+    - Suprime REINO UNIDO
 identifiers:
   celex: 32003R1059
   eli: http://data.europa.eu/eli/reg/2003/1059/oj
@@ -49,7 +376,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9860cb5a-095d-4eaf-b1cf-e622cb8a5df7.0010
   content_url: http://publications.europa.eu/resource/cellar/fdba70cd-7d4a-11ee-99ba-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R1059-20240101
-  retrieved_at: '2026-10-22T02:37:59Z'
+  retrieved_at: '2026-10-22T14:56:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-26T08:16:19.906+01:00'
 integrity:
@@ -58,9 +385,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:59Z'
-  notes: Texto consolidado 02003R1059-20240101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:00Z'
+  notes: 13 versão(ões); histórico completo em regulamento-ue-2003-1059.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -223,44 +550,19 @@ relationships:
   date: '2014-12-18'
 article_structure:
   article_count: 11
-  section_count: 33
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 34
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:59Z'
+  checked_at: '2026-10-22T14:56:00Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 1059/2003 do Parlamento Europeu e do Conselho, de 26 de Maio de 2003
-
-> 02003R1059 — PT — 01.01.2024 — 012.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32005R1888) — [REGULAMENTO (CE) N.º 1888/2005 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de Outubro de 2005](http://publications.europa.eu/resource/celex/32005R1888) — L 309 — 1 — 25.11.2005
-- [M2](http://publications.europa.eu/resource/celex/32007R0105) — [REGULAMENTO (CE) N.º 105/2007 DA COMISSÃO de 1 de Fevereiro de 2007](http://publications.europa.eu/resource/celex/32007R0105) — L 39 — 1 — 10.2.2007
-- [M3](http://publications.europa.eu/resource/celex/32008R0176) — [REGULAMENTO (CE) N.º 176/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Fevereiro de 2008](http://publications.europa.eu/resource/celex/32008R0176) — L 61 — 1 — 5.3.2008
-- [M4](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [M5](http://publications.europa.eu/resource/celex/32011R0031) — [REGULAMENTO (UE) N.º 31/2011 DA COMISSÃO de](http://publications.europa.eu/resource/celex/32011R0031) — L 13 — 3 — 18.1.2011
-- [M6](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [M7](http://publications.europa.eu/resource/celex/32013R1319) — [REGULAMENTO (UE) N.º 1319/2013 DA COMISSÃO de 9 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1319) — L 342 — 1 — 18.12.2013
-- [M8](http://publications.europa.eu/resource/celex/32014R0868) — [REGULAMENTO (UE) N.º 868/2014 DA COMISSÃO de 8 de agosto de 2014](http://publications.europa.eu/resource/celex/32014R0868) — L 241 — 1 — 13.8.2014
-- [M9](http://publications.europa.eu/resource/celex/32016R2066) — [REGULAMENTO (UE) 2016/2066 DA COMISSÃO de 21 de novembro de 2016](http://publications.europa.eu/resource/celex/32016R2066) — L 322 — 1 — 29.11.2016
-- [►M10](http://publications.europa.eu/resource/celex/32017R2391) — [REGULAMENTO (UE) 2017/2391 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2391) — L 350 — 1 — 29.12.2017
-- [M11](http://publications.europa.eu/resource/celex/32019R1755) — [REGULAMENTO DELEGADO (UE) 2019/1755 da Comissão de 8 de agosto de 2019](http://publications.europa.eu/resource/celex/32019R1755) — L 270 — 1 — 24.10.2019
-- [►M12](http://publications.europa.eu/resource/celex/32023R0674) — [REGULAMENTO DELEGADO (UE) 2023/674 DA COMISSÃO de 26 de dezembro de 2022](http://publications.europa.eu/resource/celex/32023R0674) — L 87 — 1 — 24.3.2023
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32017R2391R%2801%29) — [Rectificação, JO L 205, 5.8.2019, p. 33 (2017/2391)](http://publications.europa.eu/resource/celex/32017R2391R%2801%29)
-
-## REGULAMENTO (CE) N.º 1059/2003 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 26 de Maio de 2003
 

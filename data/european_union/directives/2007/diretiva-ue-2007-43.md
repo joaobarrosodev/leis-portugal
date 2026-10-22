@@ -34,6 +34,55 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-14'
+version_history:
+  file: diretiva-ue-2007-43.versoes.json
+  count: 2
+  source_lastmod: '2019-12-14'
+  versions:
+  - date: '2007-07-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-12-14'
+    amending: eu:celex:32017R0625:por
+    amending_title: REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Inspecções
+    - Altera Artigo 11.º — Procedimento de comité
+    - Altera Artigo 14.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita REQUISITOS APLICÁVEIS ÀS EXPLORAÇÕES
+    - Adita Bebedouros
+    - Adita Alimentação
+    - Adita Cama
+    - Adita Ventilação e aquecimento
+    - Adita Ruído
+    - Adita Luz
+    - Adita Inspecção
+    - Adita Limpeza
+    - Adita Registos
+    - Adita Intervenções cirúrgicas
+    - Adita ANEXO II
+    - Adita REQUISITOS PARA A UTILIZAÇÃO DE DENSIDADES ANIMAIS MAIS ELEVADAS
+    - Adita Notificação e documentação
+    - Adita Requisitos relativos às explorações — controlo dos parâmetros ambientais
+    - Adita ANEXO III
+    - Adita MONITORIZAÇÃO E ACOMPANHAMENTO NO MATADOURO
+    - Adita (conforme previsto no n.º 1 do artigo 3.º)
+    - Adita 1. Mortalidade
+    - Adita 2. Inspecção post mortem
+    - Adita 3. Comunicação dos resultados
+    - Adita ANEXO IV
+    - Adita FORMAÇÃO
+    - Adita ANEXO V
+    - Adita CRITÉRIOS PARA A UTILIZAÇÃO DE DENSIDADES ANIMAIS MAIS ELEVADAS
+    - Adita (conforme previsto no n.º 5 do artigo 3.º)
+    - Adita 1. Critérios
+    - Adita 2. Circunstâncias excepcionais
 identifiers:
   celex: 32007L0043
   eli: http://data.europa.eu/eli/dir/2007/43/oj
@@ -48,7 +97,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018
   content_url: http://publications.europa.eu/resource/cellar/fa6a2e9f-27e8-11ea-af81-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007L0043-20191214
-  retrieved_at: '2026-10-22T02:58:34Z'
+  retrieved_at: '2026-10-22T15:07:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T05:02:17.276+01:00'
 integrity:
@@ -57,9 +106,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:34Z'
-  notes: Texto consolidado 02007L0043-20191214.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:07:23Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2007-43.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -137,33 +186,20 @@ relationships:
   date: '2014-09-20'
 article_structure:
   article_count: 14
-  section_count: 29
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 30
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:34Z'
-  warnings: []
+  checked_at: '2026-10-22T15:07:23Z'
+  warnings:
+  - '02007L0043-20070801: versão indisponível (Sem expressão na língua por para CELEX 02007L0043-20070801.)'
   errors: []
 ---
 
 # Directiva 2007/43/CE do Conselho, de 28 de Junho de 2007
-
-> 02007L0043 — PT — 14.12.2019 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017R0625) — [REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017](http://publications.europa.eu/resource/celex/32017R0625) — L 95 — 1 — 7.4.2017
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32017R0625R%2801%29) — [Rectificação, JO L 137, 24.5.2017, p. 40 (2017/625)](http://publications.europa.eu/resource/celex/32017R0625R%2801%29)
-
-## DIRECTIVA 2007/43/CE DO CONSELHO
 
 de 28 de Junho de 2007
 

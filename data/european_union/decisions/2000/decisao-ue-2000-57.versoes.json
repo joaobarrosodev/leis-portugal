@@ -1,0 +1,424 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000D0057:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000D0057-20170306",
+ "dre_path": null,
+ "source_lastmod": "2017-03-06",
+ "versions": [
+  {
+   "date": "2000-01-26",
+   "future": false,
+   "celex": "32000D0057",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "189b07199274eaba",
+    "9a43009606a4c9ee",
+    "c85070c243e36a15",
+    "b35b801daab1f8c3",
+    "c941ef1d14ce0f57",
+    "612a548210dd6ed2",
+    "c5374461276f9444",
+    "79545e5aaf8c17ca"
+   ]
+  },
+  {
+   "date": "2008-05-01",
+   "future": false,
+   "celex": "02000D0057-20080501",
+   "acts": [
+    {
+     "id": "eu:celex:32008D0351:por",
+     "title": "DECISÃO DA COMISSÃO de 28 de Abril de 2008",
+     "published": null,
+     "celex": "32008D0351"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º",
+    "Adita ANEXO I",
+    "Adita Eventos a notificar no âmbito do Sistema de Alerta Rápido e de Resposta",
+    "Adita ANEXO II",
+    "Adita Procedimentos de informação, consulta e cooperação no âmbito do Sistema de Alerta Rápido e de Resposta",
+    "Adita 1. Nível de activação 1: Intercâmbio de informações",
+    "Adita 2. Nível de activação 2: ameaça potencial",
+    "Adita 2.1. Verificação e avaliação",
+    "Adita 2.2. Desactivação",
+    "Adita 3. Nível de activação 3: ameaça confirmada",
+    "Adita 3.1. Coordenação das medidas",
+    "Adita 3.2. Desactivação",
+    "Adita 4. Informação ao grande público e aos profissionais competentes",
+    "Adita Notas",
+    "Suprime ANEXO I — Eventos a notificar no âmbito do Sistema de Alerta Rápido e de Resposta",
+    "Suprime ANEXO II — Procedimentos de informação, consulta e cooperação no âmbito do Sistema de Alerta Rápido e de Resposta"
+   ],
+   "fragments": [
+    "918153977a115354",
+    "736dcc52f5089307",
+    "c85070c243e36a15",
+    "b35b801daab1f8c3",
+    "c941ef1d14ce0f57",
+    "baf0bb5a9316dacd",
+    "d664376e2a8dcecd",
+    "9b04e598ac413c9f",
+    "852174729551523b",
+    "ad8c26f5b817492b",
+    "90dd6da737b98db4",
+    "7f7ba827d7c128ea",
+    "e39997d335367c48",
+    "eef3715b172b1e30",
+    "a256b12af7592612",
+    "e32f1a6d90faaaa2",
+    "1ed06aa9a22d5659",
+    "dccdedbc6914402d",
+    "5ff1ee08f35523cd"
+   ]
+  },
+  {
+   "date": "2009-07-14",
+   "future": false,
+   "celex": "02000D0057-20090714",
+   "acts": [
+    {
+     "id": "eu:celex:32009D0547:por",
+     "title": "DECISÃO DA COMISSÃO de 10 de Julho de 2009",
+     "published": null,
+     "celex": "32009D0547"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Notas",
+    "Adita Artigo 2.º-A",
+    "Adita ANEXO III",
+    "Adita Lista indicativa de dados pessoais para efeitos de identificação de contactos"
+   ],
+   "fragments": [
+    "7b0c5e08147de7e7",
+    "e036f1d86a49f291",
+    "c85070c243e36a15",
+    "c31d765a5011f329",
+    "d37316d500f97999",
+    "c941ef1d14ce0f57",
+    "baf0bb5a9316dacd",
+    "d664376e2a8dcecd",
+    "9b04e598ac413c9f",
+    "852174729551523b",
+    "ad8c26f5b817492b",
+    "90dd6da737b98db4",
+    "7f7ba827d7c128ea",
+    "e39997d335367c48",
+    "eef3715b172b1e30",
+    "a256b12af7592612",
+    "e32f1a6d90faaaa2",
+    "1ed06aa9a22d5659",
+    "0dbf5b2e64fcf571",
+    "720af75c92791b10",
+    "4b1e7fc37850a7a9",
+    "fef1ee2fa916f876"
+   ]
+  },
+  {
+   "date": "2017-03-06",
+   "future": false,
+   "celex": "02000D0057-20170306",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 2.º-A",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime ANEXO I",
+    "Suprime Eventos a notificar no âmbito do Sistema de Alerta Rápido e de Resposta",
+    "Suprime ANEXO II",
+    "Suprime Procedimentos de informação, consulta e cooperação no âmbito do Sistema de Alerta Rápido e de Resposta",
+    "Suprime 1. Nível de activação 1: Intercâmbio de informações",
+    "Suprime 2. Nível de activação 2: ameaça potencial",
+    "Suprime 2.1. Verificação e avaliação",
+    "Suprime 2.2. Desactivação",
+    "Suprime 3. Nível de activação 3: ameaça confirmada",
+    "Suprime 3.1. Coordenação das medidas",
+    "Suprime 3.2. Desactivação",
+    "Suprime 4. Informação ao grande público e aos profissionais competentes",
+    "Suprime ANEXO III",
+    "Suprime Lista indicativa de dados pessoais para efeitos de identificação de contactos",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "97162236360eee8d"
+   ]
+  }
+ ],
+ "fragments": {
+  "189b07199274eaba": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**2000/57/CE: Decisão da Comissão, de 22 de Dezembro de 1999, relativa ao sistema de alerta rápido e de resposta, para a prevenção e controlo das doenças transmissíveis em aplicação da Decisão n° 2119/98/CE do Parlamento Europeu e do Conselho [notificada com o número C(1999) 4016]** *Jornal Oficial nº L 021 de 26/01/2000 p. 0032 - 0035*\n\nDECISÃO DA COMISSÃO\n\nde 22 de Dezembro de 1999\n\nrelativa ao sistema de alerta rápido e de resposta, para a prevenção e controlo das doenças transmissíveis em aplicação da Decisão n.o 2119/98/CE do Parlamento Europeu e do Conselho\n\n[notificada com o número C(1999) 4016]\n\n(2000/57/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Decisão n.o 2119/98/CE do Parlamento Europeu e do Conselho, de 24 de Setembro de 1998, que institui uma rede de vigilância epidemiológica e de controlo das doenças transmissíveis na Comunidade(1) e, nomeadamente, os seus artigos 1.o e 7.o,\n\nConsiderando o seguinte:\n\n(1) Nos termos da Decisão n.o 2119/98/CE deve ser instituída uma rede a nível comunitário para fomentar a cooperação e a coordenação entre os Estados-Membros, com o apoio da Comissão, a fim de melhorar a prevenção e o controlo, na Comunidade, das categorias de doenças transmissíveis enumeradas no anexo à decisão. Esta rede deve ser utilizada para a vigilância epidemiológica daquelas doenças e para o estabelecimento de um sistema de alerta rápido e de resposta;\n\n(2) As doenças e os problemas de saúde especiais que deverão ser abrangidos pelo sistema de alerta rápido e de resposta a nível comunitário devem reflectir as necessidades actuais da Comunidade, em especial o valor acrescentado de uma reacção a nível comunitário;\n\n(3) O sistema de alerta rápido e de resposta deve responder aos problemas colocados pelas autoridades competentes em matéria de saúde pública de cada Estado-Membro ou evidenciados pelos dados recolhidos nos termos do disposto no artigo 4.o da Decisão n.o 2119/98/CE;\n\n(4) A presente decisão deve facilitar a integração desta rede comunitária em outras redes de alerta rápido instituídas aos níveis nacional ou comunitário relativamente a doenças e a problemas de saúde especiais que devem ser abrangidos pelo sistema de alerta rápido e de resposta. Por consequência, para efeitos da sua implementação, a rede comunitária deve funcionar, em primeiro lugar, com o Sistema de Vigilância Sanitária das Doenças Transmissíveis no Âmbito da Rede Europeia de Informação em Matéria de Saúde Pública, (EUPHIN-HSSCD), constituído por três componentes:\n\na) um sistema de alerta rápido e de resposta encarregado das notificações de ameaças específicas para a população, transmitidas pelas autoridades competentes em matéria de saúde pública de cada Estado-Membro que são responsáveis pela determinação de medidas que possam ser necessárias para proteger a saúde pública;\n\nb) intercâmbio de informações entre estruturas e autoridades acreditadas dos Estados-Membros no domínio da saúde pública;\n\nc) redes específicas sobre doenças seleccionadas para serem alvo de vigilância epidemiológica entre estruturas e autoridades acreditadas dos Estados-Membros;\n\n(5) A evolução de novas tecnologias úteis deve ser objecto de um acompanhamento periódico e tida em consideração na melhoria do EUPHIN-HSSCD enquanto sistema de exploração.\n\n(6) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité instituído pelo artigo 7.o da Decisão n.o 2119/98/CE,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "9a43009606a4c9ee": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O sistema de alerta rápido e de resposta da rede comunitária será reservado aos eventos ou indicações desses eventos definidos no anexo I, a seguir designados por \"eventos\", que, por si só ou associados a eventos semelhantes, constituam ou possam vir a constituir ameaças para a saúde pública.\n\n2. As estruturas e/ou as autoridades de cada Estado-Membro procederão à recolha e à troca de todas as informações necessárias sobre esses eventos, recorrendo, por exemplo, ao sistema de vigilância nacional, à componente de vigilância epidemiológica da rede comunitária ou a outro sistema de recolha da Comunidade."
+  },
+  "c85070c243e36a15": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os procedimentos relativos ao intercâmbio de informações indicadoras de um evento são descritos na secção 1 do anexo II (nível 1: intercâmbio de informações).\n\n2. Os procedimentos a seguir quando um evento for passível de se tornar uma ameaça para a saúde pública ou quando um evento constituir efectivamente uma ameaça para a saúde pública são descritos na secção 2 (nível 2: ameaça potencial) e na secção 3 (ameaça confirmada) do anexo II.\n\n3. Os procedimentos a seguir na prestação de informação à população e aos profissionais competentes são descritos na secção 4 do anexo II."
+  },
+  "b35b801daab1f8c3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As autoridades competentes dos Estados-Membros submeterão à apreciação da Comissão todos os anos, até 31 de Março, um relatório analítico dos eventos e dos procedimentos utilizados no âmbito do sistema de alerta rápido e de resposta. As autoridades competentes dos Estados-Membros podem ainda, em tempo oportuno, apresentar relatórios sobre eventos específicos de particular significado.\n\n2. Com base nos relatórios, a Comissão analisará, num relatório anual, a utilização do sistema de alerta rápido e de resposta e, se necessário, proporá as respectivas alterações."
+  },
+  "c941ef1d14ce0f57": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente decisão produz efeitos em 1 de Janeiro de 2000."
+  },
+  "612a548210dd6ed2": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 22 de Dezembro de 1999.\n\nPela Comissão\n\nDavid BYRNE\n\nMembro da Comissão\n\n(1) JO L 268 de 3.10.1998, p. 1."
+  },
+  "c5374461276f9444": {
+   "fragment_id": "ANEXO I — Eventos a notificar no âmbito do Sistema de Alerta Rápido e de Resposta",
+   "type": "divisao",
+   "heading": "ANEXO I — Eventos a notificar no âmbito do Sistema de Alerta Rápido e de Resposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Eventos a notificar no âmbito do Sistema de Alerta Rápido e de Resposta\n\n1. Surtos de doenças transmissíveis que ocorram em mais de um Estado-Membro da Comunidade.\n\n2. Concentração espacial ou temporal de casos de doença de um tipo semelhante, caso os agentes patogénicos constituam uma causa possível e haja risco de propagação entre os Estados-Membros da Comunidade.\n\n3. Concentração espacial ou temporal de casos de doença de um tipo semelhante fora da Comunidade, caso os agentes patogénicos constituam uma causa possível e haja risco de propagação à Comunidade.\n\n4. Aparecimento ou o ressurgimento de uma doença transmissível ou de um agente infeccioso cuja contenção necessite de uma acção comunitária atempadamente coordenada."
+  },
+  "79545e5aaf8c17ca": {
+   "fragment_id": "ANEXO II — Procedimentos de informação, consulta e cooperação no âmbito do Sistema de Alerta Rápido e de Resposta",
+   "type": "divisao",
+   "heading": "ANEXO II — Procedimentos de informação, consulta e cooperação no âmbito do Sistema de Alerta Rápido e de Resposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Procedimentos de informação, consulta e cooperação no âmbito do Sistema de Alerta Rápido e de Resposta\n\n1. Nível de activação 1: Intercâmbio de informações\n\n(1) Se as informações recolhidas em um ou mais Estados-Membros ou provenientes de outras fontes autorizadas apontarem para a possibilidade da ocorrência de um evento, a autoridade competente de cada Estado-Membro interessado, responsável pela determinação das medidas destinadas à protecção da saúde pública, informará de imediato, através da rede, as autoridades homólogas de outros Estados-Membros e a Comissão das circunstâncias e dos antecedentes. Após a recepção desta informação, as autoridades competentes dos Estados-Membros interessados formularão o seu parecer sobre a eventual necessidade de outros Estados-Membros tomarem medidas ou de acções comunitárias coordenadas com o apoio da Comissão.\n\n(2) A Comissão e os Estados-Membros interessados assegurarão um intercâmbio rápido, mútuo e contínuo das informações que receberem e manterão os outros Estados-Membros informados.\n\n(3) As autoridades competentes em matéria de saúde pública do ou dos Estados-Membros interessados, em colaboração com as estruturas e/ou as autoridades, avaliarão sem demora as informações recolhidas para determinar se existe um evento que possa constituir uma ameaça para a saúde pública.\n\n(4) A Comissão pode convocar uma reunião extraordinária do Comité da Rede ou de peritos propostos pelo comité, a fim de assegurar a transparência e a eficácia de todas as eventuais acções.\n\n2. Nível de activação 2: ameaça potencial\n\nQuando as informações sobre um evento ou os indícios de um evento apontarem para uma ameaça potencial para a saúde pública, as autoridades competentes em matéria de saúde pública do ou dos Estados-Membros interessados, informarão sem demora as autoridades homólogas dos outros Estados-Membros e a Comissão sobre a natureza e o âmbito da ameaça potencial e sobre as medidas que tencionam adoptar, por si próprias ou em associação com outros Estados-Membros interessados, com a Comissão ou com terceiros.\n\n2.1. Verificação e avaliação\n\nAs autoridades competentes em matéria de saúde pública do ou dos Estados-Membros interessados, em colaboração com as estruturas e/ou autoridades, avaliam sem demora as informações recolhidas, a fim de determinar se existe um evento que constitua uma ameaça para a saúde pública.\n\nSerá disponibilizada uma assistência técnica constituída por peritos em epidemiologia do terreno, apoio laboratorial, especialistas clínicos e outros especialistas essenciais para aprofundar a investigação nos Estado-Membros. A Comunidade ou os Estados-Membros a título individual podem prestar esta assistência, caso solicitada pelo Estado-Membro interessado.\n\nA Comissão participará na coordenação das medidas cautelares destinadas a fazer face a todas as eventuais ameaças para a saúde pública.\n\nA Comissão pode convocar uma reunião extraordinária do Comité da Rede ou de peritos propostos pelo comité, a fim de coordenar as acções necessárias.\n\n2.2. Desactivação\n\nSe a avaliação final dos riscos concluir que não houve desenvolvimento da ameaça para a saúde pública e que não é necessário nenhuma acção ou apenas é necessária uma acção local, as autoridades competentes em matéria de saúde pública de cada Estado-Membro interessado informarão imediatamente as autoridades homólogas dos outros Estados-Membros e a Comissão da natureza e do âmbito das medidas que tomaram ou tencionam tomar.\n\nCaso os outros Estados-Membros ou a Comissão não levantem objecções no prazo de três dias, não é necessária nenhuma outra acção ao nível do sistema de alerta rápido e de resposta.\n\n3. Nível de activação 3: ameaça confirmada\n\nCaso um evento resulte numa ameaça para a saúde pública, as autoridades competentes em matéria de saúde pública do ou dos Estados-Membros interessados informarão imediatamente as autoridades homólogas dos outros Estados-Membros e a Comissão da natureza e do âmbito da ameaça potencial e das medidas que tencionam adoptar por si próprias ou em associação com outros Estados-Membros interessados, com a Comissão e com terceiros.\n\n3.1. Coordenação das medidas\n\nAs autoridades competentes em matéria de saúde pública do ou dos Estados-Membros interessados informarão imediatamente os outros Estados-Membros e a Comissão sobre os progressos e os resultados das medidas adoptadas.\n\nOs Estados-Membros e a Comissão coordenarão outras medidas a adoptar a nível da Comunidade, em conformidade com o disposto nos artigos 3.o e 6.o da Decisão n.o 2119/98/CE.\n\nA Comissão apoiará os Estados-Membros na coordenação dos esforços por eles envidados no sentido de fazer face à ameaça para a saúde pública e de garantir a protecção da população.\n\nA Comissão pode convocar uma reunião extraordinária do Comité da Rede ou de delegados nomeados pelo comité, a fim de coordenar as acções.\n\n3.2. Desactivação\n\nO sistema será desactivado após acordo dos Estados-Membros interessados, que informarão os outros Estados-Membros e a Comissão.\n\n4. Informação ao grande público e aos profissionais competentes\n\nCaso surja um evento, os Estados-Membros fornecerão, de imediato, material informativo adequado aos profissionais competentes e ao grande público, informando-os sobre as medidas adoptadas.\n\nA Comissão e os Estados-Membros informarão os profissionais competentes e o grande público de todas as directrizes acordadas a nível comunitário, informando-os igualmente, de imediato, quando já não existir ameaça para a saúde pública."
+  },
+  "918153977a115354": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Dezembro de 1999\n\nrelativa ao sistema de alerta rápido e de resposta, para a prevenção e controlo das doenças transmissíveis em aplicação da Decisão n.º 2119/98/CE do Parlamento Europeu e do Conselho\n\n[notificada com o número C(1999) 4016]\n\n(2000/57/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Decisão n.º 2119/98/CE do Parlamento Europeu e do Conselho, de 24 de Setembro de 1998, que institui uma rede de vigilância epidemiológica e de controlo das doenças transmissíveis na Comunidade ([^1^](http://publications.europa.eu/resource/cellar/cca1f4b9-6851-41fd-b291-d7394af16ee8.0018.03/DOC_1#E0001)) e, nomeadamente, os seus artigos 1.º e 7.º,\n\n(1) Nos termos da Decisão n.º 2119/98/CE deve ser instituída uma rede a nível comunitário para fomentar a cooperação e a coordenação entre os Estados-Membros, com o apoio da Comissão, a fim de melhorar a prevenção e o controlo, na Comunidade, das categorias de doenças transmissíveis enumeradas no anexo à decisão. Esta rede deve ser utilizada para a vigilância epidemiológica daquelas doenças e para o estabelecimento de um sistema de alerta rápido e de resposta;\n\n(2) As doenças e os problemas de saúde especiais que deverão ser abrangidos pelo sistema de alerta rápido e de resposta a nível comunitário devem reflectir as necessidades actuais da Comunidade, em especial o valor acrescentado de uma reacção a nível comunitário;\n\n(3) O sistema de alerta rápido e de resposta deve responder aos problemas colocados pelas autoridades competentes em matéria de saúde pública de cada Estado-Membro ou evidenciados pelos dados recolhidos nos termos do disposto no artigo 4.º da Decisão n.º 2119/98/CE;\n\n(4) A presente decisão deve facilitar a integração desta rede comunitária em outras redes de alerta rápido instituídas aos níveis nacional ou comunitário relativamente a doenças e a problemas de saúde especiais que devem ser abrangidos pelo sistema de alerta rápido e de resposta. Por consequência, para efeitos da sua implementação, a rede comunitária deve funcionar, em primeiro lugar, com o Sistema de Vigilância Sanitária das Doenças Transmissíveis no Âmbito da Rede Europeia de Informação em Matéria de Saúde Pública, (EUPHIN-HSSCD), constituído por três componentes: a) um sistema de alerta rápido e de resposta encarregado das notificações de ameaças específicas para a população, transmitidas pelas autoridades competentes em matéria de saúde pública de cada Estado-Membro que são responsáveis pela determinação de medidas que possam ser necessárias para proteger a saúde pública; b) intercâmbio de informações entre estruturas e autoridades acreditadas dos Estados-Membros no domínio da saúde pública; c) redes específicas sobre doenças seleccionadas para serem alvo de vigilância epidemiológica entre estruturas e autoridades acreditadas dos Estados-Membros;\n\n(5) A evolução de novas tecnologias úteis deve ser objecto de um acompanhamento periódico e tida em consideração na melhoria do EUPHIN-HSSCD enquanto sistema de exploração.\n\n(6) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité instituído pelo artigo 7.º da Decisão n.º 2119/98/CE,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "736dcc52f5089307": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O sistema de alerta rápido e de resposta da rede comunitária será reservado aos eventos ou indicações desses eventos definidos no anexo I, a seguir designados por «eventos», que, por si só ou associados a eventos semelhantes, constituam ou possam vir a constituir ameaças para a saúde pública.\n\n2. As estruturas e/ou as autoridades de cada Estado-Membro procederão à recolha e à troca de todas as informações necessárias sobre esses eventos, recorrendo, por exemplo, ao sistema de vigilância nacional, à componente de vigilância epidemiológica da rede comunitária ou a outro sistema de recolha da Comunidade."
+  },
+  "baf0bb5a9316dacd": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente decisão."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "9b04e598ac413c9f": {
+   "fragment_id": "Eventos a notificar no âmbito do Sistema de Alerta Rápido e de Resposta",
+   "type": "divisao",
+   "heading": "Eventos a notificar no âmbito do Sistema de Alerta Rápido e de Resposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Eventos a notificar no âmbito do Sistema de Alerta Rápido e de Resposta\n\n1. Surtos de doenças transmissíveis que ocorram em mais de um Estado-Membro da Comunidade.\n\n2. Concentração espacial ou temporal de casos de doença de um tipo semelhante, caso os agentes patogénicos constituam uma causa possível e haja risco de propagação entre os Estados-Membros da Comunidade.\n\n3. Concentração espacial ou temporal de casos de doença de um tipo semelhante fora da Comunidade, caso os agentes patogénicos constituam uma causa possível e haja risco de propagação à Comunidade.\n\n4. Aparecimento ou o ressurgimento de uma doença transmissível ou de um agente infeccioso cuja contenção necessite de uma acção comunitária atempadamente coordenada.\n\n5. Manifestação de uma doença ou uma ocorrência que crie um risco de doença, nos termos do artigo 1.º do Regulamento Sanitário Internacional (2005), que constitua uma doença transmissível nos termos do anexo da Decisão n.º 2119/98/CE, bem como as medidas conexas, a notificar à Organização Mundial de Saúde nos termos do artigo 6.º do Regulamento Sanitário Internacional (2005)."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "ad8c26f5b817492b": {
+   "fragment_id": "Procedimentos de informação, consulta e cooperação no âmbito do Sistema de Alerta Rápido e de Resposta",
+   "type": "divisao",
+   "heading": "Procedimentos de informação, consulta e cooperação no âmbito do Sistema de Alerta Rápido e de Resposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Procedimentos de informação, consulta e cooperação no âmbito do Sistema de Alerta Rápido e de Resposta"
+  },
+  "90dd6da737b98db4": {
+   "fragment_id": "1. Nível de activação 1: Intercâmbio de informações",
+   "type": "divisao",
+   "heading": "1. Nível de activação 1: Intercâmbio de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Nível de activação 1: Intercâmbio de informações\n\n(1) Se as informações recolhidas em um ou mais Estados-Membros ou provenientes de outras fontes autorizadas apontarem para a possibilidade da ocorrência de um evento, a autoridade competente de cada Estado-Membro interessado, responsável pela determinação das medidas destinadas à protecção da saúde pública, informará de imediato, através da rede, as autoridades homólogas de outros Estados-Membros e a Comissão das circunstâncias e dos antecedentes. Após a recepção desta informação, as autoridades competentes dos Estados-Membros interessados formularão o seu parecer sobre a eventual necessidade de outros Estados-Membros tomarem medidas ou de acções comunitárias coordenadas com o apoio da Comissão.\n\n(2) A Comissão e os Estados-Membros interessados assegurarão um intercâmbio rápido, mútuo e contínuo das informações que receberem e manterão os outros Estados-Membros informados.\n\n(3) As autoridades competentes em matéria de saúde pública do ou dos Estados-Membros interessados, em colaboração com as estruturas e/ou as autoridades, avaliarão sem demora as informações recolhidas para determinar se existe um evento que possa constituir uma ameaça para a saúde pública.\n\n(4) A Comissão pode convocar uma reunião extraordinária do Comité da Rede ou de peritos propostos pelo comité, a fim de assegurar a transparência e a eficácia de todas as eventuais acções."
+  },
+  "7f7ba827d7c128ea": {
+   "fragment_id": "2. Nível de activação 2: ameaça potencial",
+   "type": "divisao",
+   "heading": "2. Nível de activação 2: ameaça potencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Nível de activação 2: ameaça potencial\n\nQuando as informações sobre um evento ou os indícios de um evento apontarem para uma ameaça potencial para a saúde pública, as autoridades competentes em matéria de saúde pública do ou dos Estados-Membros interessados, informarão sem demora as autoridades homólogas dos outros Estados-Membros e a Comissão sobre a natureza e o âmbito da ameaça potencial e sobre as medidas que tencionam adoptar, por si próprias ou em associação com outros Estados-Membros interessados, com a Comissão ou com terceiros."
+  },
+  "e39997d335367c48": {
+   "fragment_id": "2.1. Verificação e avaliação",
+   "type": "divisao",
+   "heading": "2.1. Verificação e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Verificação e avaliação\n\nAs autoridades competentes em matéria de saúde pública do ou dos Estados-Membros interessados, em colaboração com as estruturas e/ou autoridades, avaliam sem demora as informações recolhidas, a fim de determinar se existe um evento que constitua uma ameaça para a saúde pública.\n\nSerá disponibilizada uma assistência técnica constituída por peritos em epidemiologia do terreno, apoio laboratorial, especialistas clínicos e outros especialistas essenciais para aprofundar a investigação nos Estado-Membros. A Comunidade ou os Estados-Membros a título individual podem prestar esta assistência, caso solicitada pelo Estado-Membro interessado.\n\nA Comissão participará na coordenação das medidas cautelares destinadas a fazer face a todas as eventuais ameaças para a saúde pública.\n\nA Comissão pode convocar uma reunião extraordinária do Comité da Rede ou de peritos propostos pelo comité, a fim de coordenar as acções necessárias."
+  },
+  "eef3715b172b1e30": {
+   "fragment_id": "2.2. Desactivação",
+   "type": "divisao",
+   "heading": "2.2. Desactivação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2. Desactivação\n\nSe a avaliação final dos riscos concluir que não houve desenvolvimento da ameaça para a saúde pública e que não é necessário nenhuma acção ou apenas é necessária uma acção local, as autoridades competentes em matéria de saúde pública de cada Estado-Membro interessado informarão imediatamente as autoridades homólogas dos outros Estados-Membros e a Comissão da natureza e do âmbito das medidas que tomaram ou tencionam tomar.\n\nCaso os outros Estados-Membros ou a Comissão não levantem objecções no prazo de três dias, não é necessária nenhuma outra acção ao nível do sistema de alerta rápido e de resposta."
+  },
+  "a256b12af7592612": {
+   "fragment_id": "3. Nível de activação 3: ameaça confirmada",
+   "type": "divisao",
+   "heading": "3. Nível de activação 3: ameaça confirmada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Nível de activação 3: ameaça confirmada\n\nCaso um evento resulte numa ameaça para a saúde pública, as autoridades competentes em matéria de saúde pública do ou dos Estados-Membros interessados informarão imediatamente as autoridades homólogas dos outros Estados-Membros e a Comissão da natureza e do âmbito da ameaça potencial e das medidas que tencionam adoptar por si próprias ou em associação com outros Estados-Membros interessados, com a Comissão e com terceiros."
+  },
+  "e32f1a6d90faaaa2": {
+   "fragment_id": "3.1. Coordenação das medidas",
+   "type": "divisao",
+   "heading": "3.1. Coordenação das medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1. Coordenação das medidas\n\nAs autoridades competentes em matéria de saúde pública do ou dos Estados-Membros interessados informarão imediatamente os outros Estados-Membros e a Comissão sobre os progressos e os resultados das medidas adoptadas.\n\nOs Estados-Membros e a Comissão coordenarão outras medidas a adoptar a nível da Comunidade, em conformidade com o disposto nos artigos 3.º e 6.º da Decisão n.º 2119/98/CE.\n\nA Comissão apoiará os Estados-Membros na coordenação dos esforços por eles envidados no sentido de fazer face à ameaça para a saúde pública e de garantir a protecção da população.\n\nA Comissão pode convocar uma reunião extraordinária do Comité da Rede ou de delegados nomeados pelo comité, a fim de coordenar as acções."
+  },
+  "1ed06aa9a22d5659": {
+   "fragment_id": "3.2. Desactivação",
+   "type": "divisao",
+   "heading": "3.2. Desactivação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Desactivação\n\nO sistema será desactivado após acordo dos Estados-Membros interessados, que informarão os outros Estados-Membros e a Comissão."
+  },
+  "dccdedbc6914402d": {
+   "fragment_id": "4. Informação ao grande público e aos profissionais competentes",
+   "type": "divisao",
+   "heading": "4. Informação ao grande público e aos profissionais competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Informação ao grande público e aos profissionais competentes\n\nCaso surja um evento, os Estados-Membros fornecerão, de imediato, material informativo adequado aos profissionais competentes e ao grande público, informando-os sobre as medidas adoptadas.\n\nA Comissão e os Estados-Membros informarão os profissionais competentes e o grande público de todas as directrizes acordadas a nível comunitário, informando-os igualmente, de imediato, quando já não existir ameaça para a saúde pública.\n\n---"
+  },
+  "5ff1ee08f35523cd": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/cca1f4b9-6851-41fd-b291-d7394af16ee8.0018.03/DOC_1#src.E0001)) JO L 268 de 3.10.1998, p. 1."
+  },
+  "7b0c5e08147de7e7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Dezembro de 1999\n\nrelativa ao sistema de alerta rápido e de resposta, para a prevenção e controlo das doenças transmissíveis em aplicação da Decisão n.º 2119/98/CE do Parlamento Europeu e do Conselho\n\n[notificada com o número C(1999) 4016]\n\n(2000/57/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Decisão n.º 2119/98/CE do Parlamento Europeu e do Conselho, de 24 de Setembro de 1998, que institui uma rede de vigilância epidemiológica e de controlo das doenças transmissíveis na Comunidade ([^1^](http://publications.europa.eu/resource/cellar/6022e537-a4b0-4d03-83c5-90b501b87500.0018.03/DOC_1#E0001)) e, nomeadamente, os seus artigos 1.º e 7.º,\n\n(1) Nos termos da Decisão n.º 2119/98/CE deve ser instituída uma rede a nível comunitário para fomentar a cooperação e a coordenação entre os Estados-Membros, com o apoio da Comissão, a fim de melhorar a prevenção e o controlo, na Comunidade, das categorias de doenças transmissíveis enumeradas no anexo à decisão. Esta rede deve ser utilizada para a vigilância epidemiológica daquelas doenças e para o estabelecimento de um sistema de alerta rápido e de resposta;\n\n(2) As doenças e os problemas de saúde especiais que deverão ser abrangidos pelo sistema de alerta rápido e de resposta a nível comunitário devem reflectir as necessidades actuais da Comunidade, em especial o valor acrescentado de uma reacção a nível comunitário;\n\n(3) O sistema de alerta rápido e de resposta deve responder aos problemas colocados pelas autoridades competentes em matéria de saúde pública de cada Estado-Membro ou evidenciados pelos dados recolhidos nos termos do disposto no artigo 4.º da Decisão n.º 2119/98/CE;\n\n(4) A presente decisão deve facilitar a integração desta rede comunitária em outras redes de alerta rápido instituídas aos níveis nacional ou comunitário relativamente a doenças e a problemas de saúde especiais que devem ser abrangidos pelo sistema de alerta rápido e de resposta. Por consequência, para efeitos da sua implementação, a rede comunitária deve funcionar, em primeiro lugar, com o Sistema de Vigilância Sanitária das Doenças Transmissíveis no Âmbito da Rede Europeia de Informação em Matéria de Saúde Pública, (EUPHIN-HSSCD), constituído por três componentes: a) um sistema de alerta rápido e de resposta encarregado das notificações de ameaças específicas para a população, transmitidas pelas autoridades competentes em matéria de saúde pública de cada Estado-Membro que são responsáveis pela determinação de medidas que possam ser necessárias para proteger a saúde pública; b) intercâmbio de informações entre estruturas e autoridades acreditadas dos Estados-Membros no domínio da saúde pública; c) redes específicas sobre doenças seleccionadas para serem alvo de vigilância epidemiológica entre estruturas e autoridades acreditadas dos Estados-Membros;\n\n(5) A evolução de novas tecnologias úteis deve ser objecto de um acompanhamento periódico e tida em consideração na melhoria do EUPHIN-HSSCD enquanto sistema de exploração.\n\n(6) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité instituído pelo artigo 7.º da Decisão n.º 2119/98/CE,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "e036f1d86a49f291": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O sistema de alerta rápido e de resposta da rede comunitária será reservado aos eventos ou indicações desses eventos definidos no anexo I, a seguir designados por «eventos», que, por si só ou associados a eventos semelhantes, constituam ou possam vir a constituir ameaças para a saúde pública.\n\n2. As estruturas e/ou as autoridades de cada Estado-Membro procederão à recolha e à troca de todas as [**►M2**](http://publications.europa.eu/resource/celex/32009D0547) informações necessárias sobre esses eventos e as medidas planeadas ou adoptadas em resposta a esses eventos ou a indícios de tais eventos**◄**, recorrendo, por exemplo, ao sistema de vigilância nacional, à componente de vigilância epidemiológica da rede comunitária ou a outro sistema de recolha da Comunidade."
+  },
+  "c31d765a5011f329": {
+   "fragment_id": "Artigo 2.º-A",
+   "type": "artigo",
+   "heading": "Artigo 2.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-A\n\n1. O presente artigo é aplicável às medidas tomadas a fim de identificar as pessoas que tenham sido expostas a uma fonte de agentes infecciosos e que corram o risco de contrair, ou tenham contraído, uma doença transmissível de importância comunitária, de acordo com os critérios estabelecidos no anexo I (a seguir «identificação de contactos»).\n\n2. Quando comunicarem dados pessoais pertinentes para efeitos de identificação de contactos através do Sistema de Alerta Rápido e de Resposta, desde que esses dados sejam necessários e estejam disponíveis, as autoridades da saúde pública competentes dos Estados-Membros devem utilizar a função de transmissão selectiva de mensagens, que oferece salvaguardas adequadas em matéria de protecção de dados. Este canal de comunicação ficará reservado aos Estados-Membros envolvidos na identificação de contactos.\n\n3. Quando fizerem circular as referidas informações através da função de transmissão selectiva de mensagens, as autoridades de saúde pública competentes do Estado-Membro em questão devem fazer referência ao evento ou à medida comunicados previamente à rede comunitária.\n\n4. Para efeitos do n.º 2, é estabelecida no anexo III uma lista indicativa de dados pessoais.\n\n5. Quando comunicarem e fizerem circular dados pessoais através da função de transmissão selectiva de mensagens, as autoridades de saúde competentes dos Estados-Membros e a Comissão devem cumprir o disposto na Directiva 95/46/CE do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/6022e537-a4b0-4d03-83c5-90b501b87500.0018.03/DOC_1#E0002)) e no Regulamento (CE) n.º 45/2001 do Paralamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/6022e537-a4b0-4d03-83c5-90b501b87500.0018.03/DOC_1#E0003))."
+  },
+  "d37316d500f97999": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As autoridades competentes dos Estados-Membros submeterão à apreciação da Comissão todos os anos, até 31 de Março, um relatório analítico sobre os eventos, as medidas planeadas ou adoptadas em relação a esses eventos e os procedimentos utilizados no âmbito do sistema de alerta rápido e de resposta. As autoridades competentes dos Estados-Membros podem ainda, em tempo oportuno, apresentar relatórios sobre eventos específicos de particular significado.\n\n2. Com base nos relatórios, a Comissão analisará, num relatório anual, a utilização do sistema de alerta rápido e de resposta e, se necessário, proporá as respectivas alterações."
+  },
+  "0dbf5b2e64fcf571": {
+   "fragment_id": "4. Informação ao grande público e aos profissionais competentes",
+   "type": "divisao",
+   "heading": "4. Informação ao grande público e aos profissionais competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Informação ao grande público e aos profissionais competentes\n\nCaso surja um evento, os Estados-Membros fornecerão, de imediato, material informativo adequado aos profissionais competentes e ao grande público, informando-os sobre as medidas adoptadas.\n\nA Comissão e os Estados-Membros informarão os profissionais competentes e o grande público de todas as directrizes acordadas a nível comunitário, informando-os igualmente, de imediato, quando já não existir ameaça para a saúde pública."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "4b1e7fc37850a7a9": {
+   "fragment_id": "Lista indicativa de dados pessoais para efeitos de identificação de contactos",
+   "type": "divisao",
+   "heading": "Lista indicativa de dados pessoais para efeitos de identificação de contactos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista indicativa de dados pessoais para efeitos de identificação de contactos\n\n1. INFORMAÇÕES PESSOAIS\n\n— Nome próprio e apelido,\n\n— Nacionalidade, data de nascimento, sexo,\n\n— Tipo de documento de identidade, número e entidade emissora,\n\n— Domicílio actual (rua, número, cidade, país, código postal),\n\n— Números de telefone (telemóvel, domicílio, profissional),\n\n— E-mail (privado, profissional).\n\n2. INFORMAÇÕES RELATIVAS À VIAGEM\n\n— Dados sobre o meio de transporte (p. ex.: número e data do voo, nome do navio, matrícula do veículo),\n\n— Número(s) do(s) lugar(es),\n\n— Número(s) da(s) cabina(s).\n\n3. INFORMAÇÕES RELATIVAS AOS CONTACTOS\n\n— Nomes das pessoas visitadas/locais de estada,\n\n— Datas da estada e endereços dos locais de estada (rua, número, cidade, país, código postal),\n\n— Números de telefone (telemóvel, domicílio, profissional),\n\n— E-mail (privado, profissional).\n\n4. INFORMAÇÕES SOBRE AS PESSOAS QUE ACOMPANHAM O VIAJANTE\n\n— Nome próprio e apelido,\n\n— Nacionalidade,\n\n— Informações pessoais indicadas no ponto 1, 3.º a 6.º travessões.\n\n5. CONTACTOS EM CASO DE EMERGÊNCIA\n\n— Nome da pessoa a contactar,\n\n— Domicílio (rua, número, cidade, país, código postal),\n\n— Números de telefone (telemóvel, domicílio, profissional),\n\n— E-mail (privado, profissional).\n\n---"
+  },
+  "fef1ee2fa916f876": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6022e537-a4b0-4d03-83c5-90b501b87500.0018.03/DOC_1#src.E0001)) JO L 268 de 3.10.1998, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6022e537-a4b0-4d03-83c5-90b501b87500.0018.03/DOC_1#src.E0002)) JO L 281 de 23.11.1995, p. 31.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6022e537-a4b0-4d03-83c5-90b501b87500.0018.03/DOC_1#src.E0003)) JO L 8 de 12.1.2001, p. 1."
+  },
+  "97162236360eee8d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02000D0057 — PT — 06.03.2017 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32000D0057) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/32000D0057) [de 22 de Dezembro de 1999](http://publications.europa.eu/resource/celex/32000D0057) [relativa ao sistema de alerta rápido e de resposta, para a prevenção e controlo das doenças transmissíveis em aplicação da Decisão n.º 2119/98/CE do Parlamento Europeu e do Conselho](http://publications.europa.eu/resource/celex/32000D0057) [[notificada com o número C(1999) 4016]](http://publications.europa.eu/resource/celex/32000D0057) [(2000/57/CE)](http://publications.europa.eu/resource/celex/32000D0057) (JO L 021, 26.1.2000, p.32)\n\n**revogado por:**\n\n- [Decisão de Execução (UE) 2017/253 da Comissão de 13 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017D0253) — L 37 — 23 — 14.2.2017"
+  }
+ }
+}

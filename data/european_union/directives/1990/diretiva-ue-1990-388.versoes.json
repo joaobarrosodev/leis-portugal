@@ -1,0 +1,18 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990L0388:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0388-19990730",
+ "dre_path": null,
+ "source_lastmod": "1999-07-30",
+ "versions": [
+  {
+   "date": "1990-07-24",
+   "future": false,
+   "celex": "31990L0388",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  }
+ ],
+ "fragments": {}
+}

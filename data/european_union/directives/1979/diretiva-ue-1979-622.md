@@ -34,6 +34,51 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-01-01'
+version_history:
+  file: diretiva-ue-1979-622.versoes.json
+  count: 2
+  source_lastmod: '2010-01-01'
+  versions:
+  - date: '1979-07-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - 'Suprime Anexo I: Condições de homologação CEE. — Anexo II: Condições dos ensaios de resistência das estruturas de protecção
+      e da sua fixação ao tractor'
+    - 'Suprime Anexo III: Procedimento de ensaio — Anexo IV: Figuras'
+    - 'Suprime Anexo VI: Marcação — Anexo VII: Modelo de ficha de homologação CEE'
+    - 'Suprime Anexo VIII: Condições de recepção CEE'
+    - Suprime ANEXO I — CONDIÇÕES DE HOMOLOGAÇÃO CEE
+    - Suprime ANEXO II — CONDIÇÕES DOS ENSAIOS DE RESISTENCIA DAS ESTRUTURAS DE PROTECÇÃO E DA SUA FIXAÇÃO AO TRACTOR
+    - Suprime ANEXO III — PROCESSO DE ENSAIO
+    - Suprime ANEXO IV — FIGURAS
+    - Suprime ANEXO V — MODELO
+    - Suprime Parte da retaguarda, para a frente/para trás (2)... kJ — lado esquerdo... mm
+    - 'Suprime Parte da frente, para a frente/para trás (2): — lado esquerdo... mm'
+    - 'Suprime Parte lateral: — à frente... mm'
+    - Suprime Parte superior, de cima para baixo/de baixo para cima (6) — à frente... mm
+    - Suprime ANEXO VI — MARCAÇÃO
+    - Suprime ANEXO VII — MODELO DE FICHA DE HOMOLOGAÇÃO CEE
+    - Suprime ANEXO VIII — CONDIÇÕES DE RECEPÇÃO CEE
+    - Suprime ANEXO IX — MODELO
 identifiers:
   celex: 31979L0622
   eli: http://data.europa.eu/eli/dir/1979/622/oj
@@ -48,7 +93,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/16eeadc4-25e7-4d6f-a574-2fb0d881a13a.0011
   content_url: http://publications.europa.eu/resource/cellar/dae2cbb8-5dd7-4f66-b458-6e81513591f7.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01979L0622-20100101
-  retrieved_at: '2026-10-22T03:03:18Z'
+  retrieved_at: '2026-10-22T14:32:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T12:07:13.905+01:00'
 integrity:
@@ -57,9 +102,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:03:18Z'
-  notes: Texto consolidado 01979L0622-20100101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:32:57Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1979-622.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -138,16 +183,22 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:03:18Z'
+  checked_at: '2026-10-22T14:32:57Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01979L0622-19830104: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0622-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0622-19870629: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0622-19880629: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0622-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0622-19990607: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0622-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0622-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

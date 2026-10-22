@@ -36,6 +36,73 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-10'
+version_history:
+  file: diretiva-ue-2008-105.versoes.json
+  count: 3
+  source_lastmod: '2026-05-10'
+  versions:
+  - date: '2008-12-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-09-13'
+    amending: eu:celex:32013L0039:por
+    amending_title: DIRETIVA 2013/39/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 12 de agosto
+      de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Normas de qualidade ambiental
+    - Altera Artigo 4.º — Zonas de mistura
+    - Altera Artigo 5.º — Inventário de emissões, descargas e perdas
+    - Altera Artigo 9.º — Procedimento de comité
+    - Altera Artigo 15.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 7.º-A — Coordenação
+    - Adita Artigo 8º — Revisão do Anexo X da Diretiva 2000/60/CE
+    - Adita Artigo 8º-A — Disposições específicas para certas substâncias
+    - Adita Artigo 8º-B — Lista de vigilância
+    - Adita Artigo 8º-C — Disposições específicas para substâncias farmacêuticas
+    - Adita Artigo 9.º-A — Exercício da delegação
+    - Adita ANEXO I
+    - Adita NORMAS DE QUALIDADE AMBIENTAL E OUTROS POLUENTES
+    - 'Adita PARTE A: NORMAS DE QUALIDADE AMBIENTAL (NQA)'
+    - 'Adita PARTE B: APLICAÇÃO DAS NQA ESTABELECIDAS NA PARTE A'
+    - Suprime Artigo 8.º — Revisão do Anexo X da Directiva 2000/60/CE
+  - date: '2026-05-10'
+    amending: eu:celex:32026L0805:por
+    amending_title: DIRETIVA (UE) 2026/805 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de março de 2026
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Normas de qualidade ambiental
+    - Altera Artigo 7.º-A — Coordenação
+    - Altera Artigo 9.º — Procedimento de comité
+    - Altera Artigo 9.º-A — Exercício da delegação
+    - 'Altera PARTE B: APLICAÇÃO DAS NQA ESTABELECIDAS NA PARTE A'
+    - Altera Notas
+    - Adita Artigo 5.º
+    - Adita Artigo 8.º
+    - Adita Artigo 8.º-A
+    - Adita Artigo 8.º-B
+    - Adita Artigo 8.º-D
+    - Adita NORMAS DE QUALIDADE AMBIENTAL (NQA) PARA AS SUBSTÂNCIAS PRIORITÁRIAS NAS ÁGUAS DE SUPERFÍCIE
+    - 'Adita PARTE A: NORMAS DE QUALIDADE AMBIENTAL'
+    - Adita ANEXO II
+    - Adita NORMAS DE QUALIDADE AMBIENTAL PARA OS POLUENTES ESPECÍFICOS DAS BACIAS HIDROGRÁFICAS
+    - 'Adita PARTE A: LISTA INDICATIVA DE CATEGORIAS DE POLUENTES ESPECÍFICOS DAS BACIAS HIDROGRÁFICAS'
+    - 'Adita PARTE B: PROCEDIMENTO PARA DERIVAR AS NORMAS DE QUALIDADE AMBIENTAL PARA OS POLUENTES ESPECÍFICOS DAS BACIAS
+      HIDROGRÁFICAS'
+    - 'Adita PARTE C: REPOSITÓRIO DE NORMAS DE QUALIDADE AMBIENTAL HARMONIZADAS PARA OS POLUENTES ESPECÍFICOS DAS BACIAS HIDROGRÁFICAS'
+    - Adita ANEXO III
+    - Adita SUBSTÂNCIAS SUJEITAS A REVISÃO PARA EVENTUAL IDENTIFICAÇÃO COMO SUBSTÂNCIAS PRIORITÁRIAS
+    - Suprime Artigo 5.º — Inventário de emissões, descargas e perdas
+    - Suprime Artigo 8º — Revisão do Anexo X da Diretiva 2000/60/CE
+    - Suprime Artigo 8º-A — Disposições específicas para certas substâncias
+    - Suprime Artigo 8º-B — Lista de vigilância
+    - Suprime Artigo 10.º — Alteração da Directiva 2000/60/CE
+    - Suprime NORMAS DE QUALIDADE AMBIENTAL E OUTROS POLUENTES
+    - 'Suprime PARTE A: NORMAS DE QUALIDADE AMBIENTAL (NQA)'
 identifiers:
   celex: 32008L0105
   eli: http://data.europa.eu/eli/dir/2008/105/oj
@@ -50,7 +117,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/66d82696-784f-4a55-9060-678e1076ae7d.0018
   content_url: http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0105-20260510
-  retrieved_at: '2026-10-22T02:52:31Z'
+  retrieved_at: '2026-10-22T15:13:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T21:22:17.012+01:00'
 integrity:
@@ -59,9 +126,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:31Z'
-  notes: Texto consolidado 02008L0105-20260510.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:13:28Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2008-105.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -221,30 +288,19 @@ relationships:
   source: null
 article_structure:
   article_count: 20
-  section_count: 11
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 12
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:31Z'
+  checked_at: '2026-10-22T15:13:28Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2008/105/CE do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2008
-
-> 02008L0105 — PT — 10.05.2026 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013L0039) — [DIRETIVA 2013/39/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de agosto de 2013](http://publications.europa.eu/resource/celex/32013L0039) — L 226 — 1 — 24.8.2013
-- [►M2](http://publications.europa.eu/resource/celex/32026L0805) — [DIRETIVA (UE) 2026/805 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de março de 2026](http://publications.europa.eu/resource/celex/32026L0805) — L 805 — 1 — 20.4.2026
-
-## DIRETIVA 2008/105/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de dezembro de 2008
 

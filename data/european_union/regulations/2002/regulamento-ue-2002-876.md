@@ -33,6 +33,41 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-07-25'
+version_history:
+  file: regulamento-ue-2002-876.versoes.json
+  count: 3
+  source_lastmod: '2009-07-25'
+  versions:
+  - date: '2002-05-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-12-22'
+    amending: eu:celex:32006R1943:por
+    amending_title: REGULAMENTO (CE) N. o 1943/2006 DO CONSELHO de 12 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 23.º
+    - Adita ANEXO
+    - Adita ESTATUTOS DA EMPRESA COMUM GALILEU
+    - Adita Notas
+    - Suprime ANEXO — ESTATUTOS DA EMPRESA COMUM GALILEU
+  - date: '2009-07-25'
+    amending: eu:celex:32008R0683:por
+    amending_title: REGULAMENTO (CE) N. o 683/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de Julho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 18.º
+    - Altera Notas
 identifiers:
   celex: 32002R0876
   eli: http://data.europa.eu/eli/reg/2002/876/oj
@@ -47,7 +82,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/54b71ce6-0817-4df8-82ab-5a5f8bd633ed.0010
   content_url: http://publications.europa.eu/resource/cellar/39a17005-7341-4a51-9ded-d9c5297c8c49.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R0876-20090725
-  retrieved_at: '2026-10-22T03:10:58Z'
+  retrieved_at: '2026-10-22T14:52:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T07:21:10.298+01:00'
 integrity:
@@ -56,9 +91,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:10:58Z'
-  notes: Texto consolidado 02002R0876-20090725.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:49Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2002-876.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -147,30 +182,19 @@ relationships:
   date: '2013-12-23'
 article_structure:
   article_count: 30
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:10:58Z'
+  checked_at: '2026-10-22T14:52:49Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 876/2002 do Conselho, de 21 de Maio de 2002
-
-> 2002R0876 — PT — 25.07.2009 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006R1943) — [REGULAMENTO (CE) N.º 1943/2006 DO CONSELHO de 12 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1943) — L 367 — 21 — 22.12.2006
-- [►M2](http://publications.europa.eu/resource/celex/32008R0683) — [REGULAMENTO (CE) N.º 683/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de Julho de 2008](http://publications.europa.eu/resource/celex/32008R0683) — L 196 — 1 — 24.7.2008
-
-## REGULAMENTO (CE) N.º 876/2002 DO CONSELHO
 
 de 21 de Maio de 2002
 

@@ -1,0 +1,160 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004R1222:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R1222-20130701",
+ "dre_path": null,
+ "source_lastmod": "2013-07-01",
+ "versions": [
+  {
+   "date": "2004-07-02",
+   "future": false,
+   "celex": "32004R1222",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "849a6c8d5dc35b4a",
+    "f40385fdfda1682e",
+    "262a9e5805a76f0f",
+    "9c4c81b9204a6811",
+    "54af36f96482c2a1",
+    "a7790bdd7736746d",
+    "2ba8a07372cd5362"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "02004R1222-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0517:por",
+     "title": "REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013",
+     "published": null,
+     "celex": "32013R0517"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Prazos",
+    "Altera Artigo 3.º — Dados retrospectivos",
+    "Altera Artigo 5.º — Entrada em vigor",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "a7c6475d31758f50",
+    "56858052cb2f4269",
+    "926222bc09dfe07a",
+    "3dcdfaee4f627326",
+    "54af36f96482c2a1",
+    "c903f609b84361bd",
+    "d70ea71974b792a8"
+   ]
+  }
+ ],
+ "fragments": {
+  "849a6c8d5dc35b4a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Junho de 2004\n\nrelativo à compilação e transmissão de dados sobre a dívida pública trimestral\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o terceiro parágrafo do n.º 14 do artigo 104.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/97e643c9-a90a-4c78-ac03-784e17688c24.0016.03/DOC_1#ntr1-L_2004233PT.01000101-E0001),\n\nTendo em conta o parecer do Banco Central Europeu [([^2])](http://publications.europa.eu/resource/cellar/97e643c9-a90a-4c78-ac03-784e17688c24.0016.03/DOC_1#ntr2-L_2004233PT.01000101-E0002),\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 3605/93 do Conselho, de 22 de Novembro de 1993, relativo à aplicação do protocolo sobre o procedimento relativo aos défices excessivos anexo ao Tratado que institui a Comunidade Europeia [([^3])](http://publications.europa.eu/resource/cellar/97e643c9-a90a-4c78-ac03-784e17688c24.0016.03/DOC_1#ntr3-L_2004233PT.01000101-E0003), contém a definição de dívida pública no final do ano que é relevante para efeitos do procedimento relativo aos défices excessivos e define um calendário de notificação à Comissão dos dados anuais relativos à dívida pública, bem como de outros dados anuais das administrações públicas.\n\n(2) A disponibilização de dados relativos às administrações públicas numa base trimestral, incluindo dados relativos à dívida pública, assume uma importância primordial para a análise económica e o acompanhamento adequado da situação orçamental nos Estados-Membros. O Regulamento (CE) n.º 264/2000 da Comissão, de 3 de Fevereiro de 2000, relativo à aplicação do Regulamento (CE) n.º 2223/96 do Conselho no que se refere às estatísticas conjunturais sobre finanças públicas [([^4])](http://publications.europa.eu/resource/cellar/97e643c9-a90a-4c78-ac03-784e17688c24.0016.03/DOC_1#ntr4-L_2004233PT.01000101-E0004), o Regulamento (CE) n.º 1221/2002 do Parlamento Europeu e do Conselho, de 10 de Junho de 2002, relativo às contas não financeiras trimestrais das administrações públicas [([^5])](http://publications.europa.eu/resource/cellar/97e643c9-a90a-4c78-ac03-784e17688c24.0016.03/DOC_1#ntr5-L_2004233PT.01000101-E0005), bem como o Regulamento (CE) n.º 501/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo às contas financeiras trimestrais das administrações públicas [([^6])](http://publications.europa.eu/resource/cellar/97e643c9-a90a-4c78-ac03-784e17688c24.0016.03/DOC_1#ntr6-L_2004233PT.01000101-E0006), abrangem a compilação e a transmissão de dados trimestrais relativos às contas não financeiras e financeiras das administrações públicas, mas não englobam a dívida pública trimestral.\n\n(3) Por razões de clareza, e atendendo ao papel específico desempenhado pelo Regulamento (CE) n.º 3605/93 na aplicação do procedimento relativo aos défices excessivos, a compilação e a transmissão de dados sobre a dívida pública trimestral devem ser regidas por um acto legislativo autónomo.\n\n(4) A dívida pública trimestral deve ser definida de molde a assegurar a sua coerência com a definição de dívida pública no final do ano estabelecida no Regulamento (CE) n.º 3605/93. Esta coerência deve ser mantida na eventualidade de o Conselho alterar o Regulamento (CE) n.º 3605/93 ou de a Comissão introduzir no Regulamento (CE) n.º 3605/93 novas referências ao Sistema Europeu de Contas (SEC 95) instituído pelo Regulamento (CE) n.º 2223/96 do Conselho, de 25 de Junho de 1996, relativo ao Sistema Europeu de Contas Nacionais e Regionais na Comunidade [([^7])](http://publications.europa.eu/resource/cellar/97e643c9-a90a-4c78-ac03-784e17688c24.0016.03/DOC_1#ntr7-L_2004233PT.01000101-E0007).\n\n(5) Regulamentos (CE) n.º 264/2000, (CE) n.º 1221/2002 e (CE) n.º 501/2004 estabelecem que os dados trimestrais relativos às contas não financeiras e financeiras das administrações públicas são transmitidos três meses após o termo do trimestre a que se referem. Este prazo de transmissão é igualmente adequado para os dados relativos à dívida pública trimestral,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f40385fdfda1682e": {
+   "fragment_id": "Artigo 1.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n«Pública», o sector administrações públicas conforme definido no Sistema Europeu de Contas Nacionais e Regionais na Comunidade (em seguida denominado «SEC 95»), adoptado pelo Regulamento (CE) n.º 2223/96. Os códigos entre parênteses referem-se ao SEC 95.\n\n«Dívida pública trimestral», o valor nominal da totalidade das responsabilidades brutas em curso no final de cada trimestre do sector administrações públicas (S.13), com excepção das responsabilidades cujos activos financeiros correspondentes sejam detidos pelo sector administrações públicas (S.13). A dívida pública trimestral é constituída pelas responsabilidades das administrações públicas nas categorias seguintes: numerário e depósitos (AF.2), títulos excepto acções, excluindo derivados financeiros (AF.33) e empréstimos (AF.4), de acordo com as definições do SEC 95. O valor nominal do montante de uma responsabilidade no final de cada trimestre é o respectivo valor facial. O valor nominal de uma responsabilidade indexada corresponde ao seu valor facial ajustado pela alteração ligada ao índice do valor do capital verificado no final de cada trimestre. As responsabilidades expressas em moeda estrangeira, ou trocadas através de acordos contratuais de uma moeda estrangeira para uma ou mais moedas estrangeiras, são convertidas nas outras moedas estrangeiras à taxa convencionada nesses contratos e são convertidas na moeda nacional com base na taxa de câmbio representativa do mercado em vigor no último dia útil de cada trimestre. As responsabilidades expressas em moeda nacional e trocadas através de acordos contratuais para uma moeda estrangeira são convertidas na moeda estrangeira à taxa convencionada nesses contratos e são convertidas na moeda nacional com base na taxa de câmbio representativa do mercado em vigor no último dia útil de cada trimestre. As responsabilidades expressas numa moeda estrangeira e trocadas através de acordos contratuais para a moeda nacional são convertidas na moeda nacional à taxa convencionada nesses contratos."
+  },
+  "262a9e5805a76f0f": {
+   "fragment_id": "Artigo 2.º — Prazos",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Prazos\n\n1. Os Estados-Membros devem compilar e transmitir à Comissão dados relativos à dívida pública trimestral, o mais tardar decorridos três meses após o termo do trimestre a que se referem.\n\nQualquer revisão dos dados respeitante a trimestres anteriores deve ser transmitida na mesma ocasião.\n\n2. A primeira transmissão de dados relativos à dívida pública trimestral deve ser efectuada até 31 de Dezembro de 2004.\n\n3. A Comissão pode conceder uma derrogação, não superior a um ano, no que respeita à data da primeira transmissão dos dados trimestrais, na medida em que os sistemas estatísticos nacionais necessitem de adaptações importantes."
+  },
+  "9c4c81b9204a6811": {
+   "fragment_id": "Artigo 3.º — Dados retrospectivos",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Dados retrospectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Dados retrospectivos\n\nOs dados retrospectivos, com início no primeiro trimestre de 2000, devem ser transmitidos até 31 de Dezembro de 2004. Se for caso disso, esses dados podem ser apresentados com base nas melhores estimativas disponíveis."
+  },
+  "54af36f96482c2a1": {
+   "fragment_id": "Artigo 4.º — Alterações",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alterações\n\n1. Se o Conselho deliberar alterar o Regulamento (CE) n.º 3605/93, em conformidade com as regras em matéria de competências e procedimentos estabelecidas no Tratado, o Conselho deve simultaneamente alterar o artigo 1.º do presente regulamento, de molde a manter a coerência entre as definições aí estabelecidas.\n\n2. Se a Comissão introduzir novas referências ao SEC 95 no n.º 5 do artigo 1.º do Regulamento (CE) n.º 3605/93, em conformidade com o seu artigo 7.º, a Comissão deve simultaneamente introduzir essas mesmas novas referências no artigo 1.º do presente regulamento, de molde a manter a coerência entre as definições aí estabelecidas."
+  },
+  "a7790bdd7736746d": {
+   "fragment_id": "Artigo 5.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente regulamento entra em vigor 20 dias após o da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito no Luxemburgo, em 28 de Junho de 2004.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**M. CULLEN**\n\n---"
+  },
+  "2ba8a07372cd5362": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/97e643c9-a90a-4c78-ac03-784e17688c24.0016.03/DOC_1#ntc1-L_2004233PT.01000101-E0001) Parecer emitido em 30 de Março de 2004 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/97e643c9-a90a-4c78-ac03-784e17688c24.0016.03/DOC_1#ntc2-L_2004233PT.01000101-E0002) Parecer emitido em 19 de Abril de 2004.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/97e643c9-a90a-4c78-ac03-784e17688c24.0016.03/DOC_1#ntc3-L_2004233PT.01000101-E0003) [JO L 332 de 31.12.1993, p. 7](http://publications.europa.eu/resource/oj/JOL_1993_332_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 351/2002 da Comissão ([JO L 55 de 26.2.2002, p. 23](http://publications.europa.eu/resource/oj/JOL_2002_055_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/97e643c9-a90a-4c78-ac03-784e17688c24.0016.03/DOC_1#ntc4-L_2004233PT.01000101-E0004) [JO L 29 de 4.2.2000, p. 4](http://publications.europa.eu/resource/oj/JOL_2000_029_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/97e643c9-a90a-4c78-ac03-784e17688c24.0016.03/DOC_1#ntc5-L_2004233PT.01000101-E0005) [JO L 179 de 9.7.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_179_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/97e643c9-a90a-4c78-ac03-784e17688c24.0016.03/DOC_1#ntc6-L_2004233PT.01000101-E0006) [JO L 81 de 19.3.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_081_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/97e643c9-a90a-4c78-ac03-784e17688c24.0016.03/DOC_1#ntc7-L_2004233PT.01000101-E0007) [JO L 310 de 30.11.1996, p. 1](http://publications.europa.eu/resource/oj/JOL_1996_310_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1267/2003 do Parlamento Europeu e do Conselho ([JO L 180 de 18.7.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_180_R_TOC))."
+  },
+  "a7c6475d31758f50": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Junho de 2004\n\nrelativo à compilação e transmissão de dados sobre a dívida pública trimestral\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o terceiro parágrafo do n.º 14 do artigo 104.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/5d0c3c98-ec30-497f-b6f1-3643ed40a75d.0018.04/DOC_1#E0001)),\n\nTendo em conta o parecer do Banco Central Europeu ([^2^](http://publications.europa.eu/resource/cellar/5d0c3c98-ec30-497f-b6f1-3643ed40a75d.0018.04/DOC_1#E0002)),\n\n(1) O Regulamento (CE) n.º 3605/93 do Conselho, de 22 de Novembro de 1993, relativo à aplicação do protocolo sobre o procedimento relativo aos défices excessivos anexo ao Tratado que institui a Comunidade Europeia ([^3^](http://publications.europa.eu/resource/cellar/5d0c3c98-ec30-497f-b6f1-3643ed40a75d.0018.04/DOC_1#E0003)), contém a definição de dívida pública no final do ano que é relevante para efeitos do procedimento relativo aos défices excessivos e define um calendário de notificação à Comissão dos dados anuais relativos à dívida pública, bem como de outros dados anuais das administrações públicas.\n\n(2) A disponibilização de dados relativos às administrações públicas numa base trimestral, incluindo dados relativos à dívida pública, assume uma importância primordial para a análise económica e o acompanhamento adequado da situação orçamental nos Estados-Membros. O Regulamento (CE) n.º 264/2000 da Comissão, de 3 de Fevereiro de 2000, relativo à aplicação do Regulamento (CE) n.º 2223/96 do Conselho no que se refere às estatísticas conjunturais sobre finanças públicas ([^4^](http://publications.europa.eu/resource/cellar/5d0c3c98-ec30-497f-b6f1-3643ed40a75d.0018.04/DOC_1#E0004)), o Regulamento (CE) n.º 1221/2002 do Parlamento Europeu e do Conselho, de 10 de Junho de 2002, relativo às contas não financeiras trimestrais das administrações públicas ([^5^](http://publications.europa.eu/resource/cellar/5d0c3c98-ec30-497f-b6f1-3643ed40a75d.0018.04/DOC_1#E0005)), bem como o Regulamento (CE) n.º 501/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo às contas financeiras trimestrais das administrações públicas ([^6^](http://publications.europa.eu/resource/cellar/5d0c3c98-ec30-497f-b6f1-3643ed40a75d.0018.04/DOC_1#E0006)), abrangem a compilação e a transmissão de dados trimestrais relativos às contas não financeiras e financeiras das administrações públicas, mas não englobam a dívida pública trimestral.\n\n(3) Por razões de clareza, e atendendo ao papel específico desempenhado pelo Regulamento (CE) n.º 3605/93 na aplicação do procedimento relativo aos défices excessivos, a compilação e a transmissão de dados sobre a dívida pública trimestral devem ser regidas por um acto legislativo autónomo.\n\n(4) A dívida pública trimestral deve ser definida de molde a assegurar a sua coerência com a definição de dívida pública no final do ano estabelecida no Regulamento (CE) n.º 3605/93. Esta coerência deve ser mantida na eventualidade de o Conselho alterar o Regulamento (CE) n.º 3605/93 ou de a Comissão introduzir no Regulamento (CE) n.º 3605/93 novas referências ao Sistema Europeu de Contas (SEC 95) instituído pelo Regulamento (CE) n.º 2223/96 do Conselho, de 25 de Junho de 1996, relativo ao Sistema Europeu de Contas Nacionais e Regionais na Comunidade ([^7^](http://publications.europa.eu/resource/cellar/5d0c3c98-ec30-497f-b6f1-3643ed40a75d.0018.04/DOC_1#E0007)).\n\n(5) Regulamentos (CE) n.º 264/2000, (CE) n.º 1221/2002 e (CE) n.º 501/2004 estabelecem que os dados trimestrais relativos às contas não financeiras e financeiras das administrações públicas são transmitidos três meses após o termo do trimestre a que se referem. Este prazo de transmissão é igualmente adequado para os dados relativos à dívida pública trimestral,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "56858052cb2f4269": {
+   "fragment_id": "Artigo 1.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n«Pública», o sector administrações públicas conforme definido no Sistema Europeu de Contas Nacionais e Regionais na Comunidade (em seguida denominado «SEC 95»), adoptado pelo Regulamento (CE) n.º 2223/96. Os códigos entre parênteses referem-se ao SEC 95.\n\n«Dívida pública trimestral», o valor nominal da totalidade das responsabilidades brutas em curso no final de cada trimestre do sector administrações públicas (S.13), com excepção das responsabilidades cujos activos financeiros correspondentes sejam detidos pelo sector administrações públicas (S.13).\n\nA dívida pública trimestral é constituída pelas responsabilidades das administrações públicas nas categorias seguintes: numerário e depósitos (AF.2), títulos excepto acções, excluindo derivados financeiros (AF.33) e empréstimos (AF.4), de acordo com as definições do SEC 95.\n\nO valor nominal do montante de uma responsabilidade no final de cada trimestre é o respectivo valor facial.\n\nO valor nominal de uma responsabilidade indexada corresponde ao seu valor facial ajustado pela alteração ligada ao índice do valor do capital verificado no final de cada trimestre.\n\nAs responsabilidades expressas em moeda estrangeira, ou trocadas através de acordos contratuais de uma moeda estrangeira para uma ou mais moedas estrangeiras, são convertidas nas outras moedas estrangeiras à taxa convencionada nesses contratos e são convertidas na moeda nacional com base na taxa de câmbio representativa do mercado em vigor no último dia útil de cada trimestre.\n\nAs responsabilidades expressas em moeda nacional e trocadas através de acordos contratuais para uma moeda estrangeira são convertidas na moeda estrangeira à taxa convencionada nesses contratos e são convertidas na moeda nacional com base na taxa de câmbio representativa do mercado em vigor no último dia útil de cada trimestre.\n\nAs responsabilidades expressas numa moeda estrangeira e trocadas através de acordos contratuais para a moeda nacional são convertidas na moeda nacional à taxa convencionada nesses contratos."
+  },
+  "926222bc09dfe07a": {
+   "fragment_id": "Artigo 2.º — Prazos",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Prazos\n\n1. Os Estados-Membros devem compilar e transmitir à Comissão dados relativos à dívida pública trimestral, o mais tardar decorridos três meses após o termo do trimestre a que se referem.\n\nQualquer revisão dos dados respeitante a trimestres anteriores deve ser transmitida na mesma ocasião.\n\n2. A primeira transmissão de dados relativos à dívida pública trimestral deve ser efectuada até 31 de Dezembro de 2004.\n\nRelativamente à República da Croácia, a primeira transmissão de dados relativos à dívida pública trimestral deve dizer respeito aos dados do primeiro trimestre de 2012 e deve ser efetuada até ao final do primeiro trimestre subsequente à data da adesão.\n\n3. A Comissão pode conceder uma derrogação, não superior a um ano, no que respeita à data da primeira transmissão dos dados trimestrais, na medida em que os sistemas estatísticos nacionais necessitem de adaptações importantes."
+  },
+  "3dcdfaee4f627326": {
+   "fragment_id": "Artigo 3.º — Dados retrospectivos",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Dados retrospectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Dados retrospectivos\n\nOs dados retrospectivos, com início no primeiro trimestre de 2000, devem ser transmitidos até 31 de Dezembro de 2004. Se for caso disso, esses dados podem ser apresentados com base nas melhores estimativas disponíveis.\n\nA República da Croácia deve transmitir, até ao final de dezembro de 2015, dados retrospetivos relativos ao período compreendido entre o primeiro trimestre de 2002 e o quarto trimestre de 2011."
+  },
+  "c903f609b84361bd": {
+   "fragment_id": "Artigo 5.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente regulamento entra em vigor 20 dias após o da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "d70ea71974b792a8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5d0c3c98-ec30-497f-b6f1-3643ed40a75d.0018.04/DOC_1#src.E0001)) Parecer emitido em 30 de Março de 2004 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5d0c3c98-ec30-497f-b6f1-3643ed40a75d.0018.04/DOC_1#src.E0002)) Parecer emitido em 19 de Abril de 2004.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5d0c3c98-ec30-497f-b6f1-3643ed40a75d.0018.04/DOC_1#src.E0003)) JO L 332 de 31.12.1993, p. 7. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 351/2002 da Comissão (JO L 55 de 26.2.2002, p. 23).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5d0c3c98-ec30-497f-b6f1-3643ed40a75d.0018.04/DOC_1#src.E0004)) JO L 29 de 4.2.2000, p. 4.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/5d0c3c98-ec30-497f-b6f1-3643ed40a75d.0018.04/DOC_1#src.E0005)) JO L 179 de 9.7.2002, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/5d0c3c98-ec30-497f-b6f1-3643ed40a75d.0018.04/DOC_1#src.E0006)) JO L 81 de 19.3.2004, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/5d0c3c98-ec30-497f-b6f1-3643ed40a75d.0018.04/DOC_1#src.E0007)) JO L 310 de 30.11.1996, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1267/2003 do Parlamento Europeu e do Conselho (JO L 180 de 18.7.2003, p. 1)."
+  }
+ }
+}

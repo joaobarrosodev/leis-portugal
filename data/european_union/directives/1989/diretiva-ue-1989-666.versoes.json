@@ -1,0 +1,637 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0666:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0666-20170720",
+ "dre_path": null,
+ "source_lastmod": "2017-07-20",
+ "versions": [
+  {
+   "date": "1989-12-30",
+   "future": false,
+   "celex": "31989L0666",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "292fd45d4fc320e2",
+    "0d4847b807dc3b5c",
+    "a120b8d4fbd6ae6e",
+    "38f741d91a9aff9f",
+    "186a9143e168c17e",
+    "45ec01981885b690",
+    "67445b7fdbf74429",
+    "5f77795c764d237f",
+    "c346bf1409467a46",
+    "3431649f728b18e2",
+    "e39b562622b79582",
+    "6f8a57347b4574e8",
+    "a93f61b80fcd506b",
+    "fc8a6994557d69bd",
+    "58c8a28189c86e62",
+    "1323fefef1da105b",
+    "e468502bfab12569",
+    "d8594baf011829e7",
+    "4b8b1b73eade4b42",
+    "bfd829602b5662da",
+    "09f7cf5d456168da",
+    "28364ab8d9d45b72",
+    "948638773dd64505"
+   ]
+  },
+  {
+   "date": "2012-07-06",
+   "future": false,
+   "celex": "01989L0666-20120706",
+   "acts": [
+    {
+     "id": "eu:celex:32012L0017:por",
+     "title": "DIRETIVA 2012/17/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 13 de junho de 2012",
+     "published": null,
+     "celex": "32012L0017"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita SECÇÃO I",
+    "Adita Sucursais de sociedades de outros Estados-membros",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 5.º-A",
+    "Adita Artigo 6.º",
+    "Adita SECÇÃO II",
+    "Adita Sucursais de sociedades de países terceiros",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita SECÇÃO III",
+    "Adita Indicação das sucursais no relatório de gestão da sociedade",
+    "Adita Artigo 11.º",
+    "Adita SECÇÃO III-A",
+    "Adita PROTEÇÃO DOS DADOS",
+    "Adita Artigo 11.º-A",
+    "Adita SECÇÃO IV",
+    "Adita Disposições transitórias e disposições finais",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Notas",
+    "Suprime SECÇÃO I — Sucursais de sociedades de outros Estados-membros",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º — Quando num Estado-membro existirem várias sucursais criadas por uma mesma sociedade, a publicidade referida no",
+    "Suprime Artigo 6º",
+    "Suprime SECÇÃO II — Sucursais de sociedades de países terceiros",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime SECÇÃO III — Indicação das sucursais no relatório de gestão da",
+    "Suprime Artigo 11º",
+    "Suprime SECÇÃO IV — Disposições transitórias e disposições finais",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º"
+   ],
+   "fragments": [
+    "c8916945f398cb6a",
+    "19572906891c0646",
+    "25bd58d8d5046f18",
+    "961411e38c6505c3",
+    "a5af5d4cffe7a117",
+    "9b007f174d1a9d73",
+    "28bcd84f8a0695bf",
+    "b8e656e7fbfc8350",
+    "389f0a5256a09c58",
+    "552d20076fd06f39",
+    "0b50b9972a75b595",
+    "5c8f8e2bc50d1aa6",
+    "ffd2e2e755b55260",
+    "06a7721f3878e392",
+    "80e6420050dca48e",
+    "4fc4a1aa0ea2329f",
+    "b4f1bfdbc841cf04",
+    "707cfd8b8cbd184a",
+    "ecaf61366154bb50",
+    "4912aa5b84ae0441",
+    "460017498eeed9d8",
+    "e08d4ff2fc4eb416",
+    "b9c1c438fac65788",
+    "258220b170562079",
+    "8b2783629987838d",
+    "531e574cb547eb26",
+    "a5b735aa58a5607b",
+    "af9ce7b9b1846c78",
+    "cb83a6c418f3fe5c",
+    "2b11fbd0a35d46ed",
+    "db79c7c2acaf32bc",
+    "41ddcf8722315e10"
+   ]
+  },
+  {
+   "date": "2017-07-20",
+   "future": false,
+   "celex": "01989L0666-20170720",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime SECÇÃO I",
+    "Suprime Sucursais de sociedades de outros Estados-membros",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 5.º-A",
+    "Suprime Artigo 6.º",
+    "Suprime SECÇÃO II",
+    "Suprime Sucursais de sociedades de países terceiros",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime SECÇÃO III",
+    "Suprime Indicação das sucursais no relatório de gestão da sociedade",
+    "Suprime Artigo 11.º",
+    "Suprime SECÇÃO III-A",
+    "Suprime PROTEÇÃO DOS DADOS",
+    "Suprime Artigo 11.º-A",
+    "Suprime SECÇÃO IV",
+    "Suprime Disposições transitórias e disposições finais",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "0356b3c908e77ac1"
+   ]
+  }
+ ],
+ "fragments": {
+  "292fd45d4fc320e2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Décima primeira Directiva 89/666/CEE do Conselho, de 21 de Dezembro de 1989, relativa à publicidade das sucursais criadas num Estado-Membro por certas formas de sociedades reguladas pelo direito de outro Estado** *Jornal Oficial nº L 395 de 30/12/1989 p. 0036 - 0039 Edição especial finlandesa: Capítulo 17 Fascículo 1 p. 0099 Edição especial sueca: Capítulo 17 Fascículo 1 p. 0099*\n\nDÉCIMA PRIMEIRA DIRECTIVA DO CONSELHO de 21 de Dezembro de 1989 relativa à publicidade das sucursais criadas num Estado-membro por certas formas de sociedades reguladas pelo direito de outro Estado (89/666/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 54º,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que, a fim de facilitar o exercício da liberdade de estabelecimento das sociedades referidas no artigo 58º do Tratado, o nº 3, alínea g), do artigo 54º do Tratado e o programa geral para a supressão das restrições à liberdade de estabelecimento prevêem a coordenação das garantias que são exigidas às sociedades, nos Estados-membros, para proteger os interesses, quer dos sócios quer de terceiros;\n\nConsiderando que, até agora, essa coordenação foi realizada, em matéria de publicidade, pela adopção da primeira Directiva 68/151/CEE relativa às sociedades de capitais (4), com a última redacção que lhe foi dada pelo Acto de Adesão de 1985; que foi continuada, em matéria de contabilidade, com a quarta Directiva 78/660/CEE, relativa às contas anuais de certas formas de sociedades (5), com a última redacção que lhe foi dada pelo Acto de Adesão de 1985, com a sétima Directiva 83/349/CEE, relativa às contas consolidadas (6), com a última redacção que lhe foi dada pelo Acto de Adesão de 1985, e com a oitava Directiva 84/253/CEE, relativa às pessoas encarregadas da fiscalização legal dos documentos contabilísticos (7);\n\nConsiderando que essas directivas se aplicam às sociedades, enquanto tal, mas não se aplicam às sucursais; que a criação de uma sucursal, tal como a constituição de uma filial, é uma das possibilidades que actualmente se abrem a uma sociedade que pretenda exercer o seu direito de estabelecimento num outro Estado-membro;\n\nConsiderando que, no que respeita às sucursais, a falta de coordenação, nomeadamento no domínio da publicidade, dá\n\norigem a uma certa disparidade, a nível da protecção dos sócios e de terceiros, entre as sociedades que operam em outros Estados-membros criando sucursais e as que aí operam constituindo sociedades filiais;\n\nConsiderando que, nesse domínio, as divergências nas legislações dos Estados-membros podem perturbar o exercício do direito de estabelecimento e que, portanto, é necessário eliminá-las para salvaguardar, inter alia, o exercício desse direito;\n\nConsiderando que, para assegurar a protecção das pessoas que, por intermédio de uma sucursal, entram em contacto com a sociedade, se impõem medidas de publicidade no Estado-membro em que a sucursal está situada; que, em determinados aspectos, a influência económica e social de uma sucursal pode ser comparável à de uma filial, no sentido de que há interesse do público pela publicidade da sociedade junto da sucursal; que, para organizar essa publicidade, é conveniente fazer referência ao processo já estabelecido para as sociedades de capitais no interior da Comunidade;\n\nConsiderando que essa publicidade respeita a uma série de actos e indicações importantes e às respectivas alterações;\n\nConsiderando que a referida publicidade pode ser limitada, com excepção do poder de representação, da denominação, da forma, da dissolução e do processo de insolvabilidade da sociedade, às informações relativas às próprias sucursais e a uma referência ao registo da sociedade de que a sucursal é parte integrante, dado que, por força das regras comunitárias existentes, qualquer informação relativa à sociedade enquanto tal está disponível nesse registo;\n\nConsiderando que as disposições nacionais que impõem a publicidade dos documentos contabilísticos relativos à sucursal perderam a sua justificação após a coordenação das legislações nacionais em matéria de estabelecimento, de controlo e de publicidade dos documentos contabilísticos da sociedade; que, por conseguinte, basta publicar no registo da sucursal os documentos contabilísticos controlados e publicados pela sociedade;\n\nConsiderando que as cartas e notas de encomenda utilizadas pela sucursal devem conter pelo menos as mesmas indicações que as cartas e as notas de encomenda da sociedade, bem como a indicação do registo em que a sucursal está inscrita;\n\nConsiderando que, a fim de assegurar a realização dos objectivos da presente directiva e evitar qualquer discrimi-\n\nnação relacionada com o país de origem das sociedades, a presente directiva deve abranger também as sucursais criadas por sociedades reguladas pelo direito de países terceiros e organizadas segundo uma forma jurídica comparável à das sociedades referidas na Directiva 68/151/CEE; que, para essas sucursais, se impõem certas disposições diferentes das que se aplicam às sucursais das sociedades reguladas pelo direito de outros Estados-membros, dado que as directivas acima indicadas não se aplicam às sociedades dos países terceiros;\n\nConsiderando que a presente directiva em nada afecta as obrigações de informação a que se encontram sujeitas as sucursais devido a outras disposições do âmbito, por exemplo, do direito social no que respeita ao direito de informação dos assalariados, do direito fiscal, bem como para fins estatísticos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "0d4847b807dc3b5c": {
+   "fragment_id": "SECÇÃO I — Sucursais de sociedades de outros Estados-membros",
+   "type": "divisao",
+   "heading": "SECÇÃO I — Sucursais de sociedades de outros Estados-membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Sucursais de sociedades de outros Estados-membros"
+  },
+  "a120b8d4fbd6ae6e": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. Os actos e indicações relativos às sucursais criadas num Estado-membro por sociedades reguladas pelo direito de outro Estado-membro, às quais se aplica a Directiva 68/151/CEE, serão publicados segundo o direito do Estado-membro onde a sucursal está situada, nos termos do artigo 3º da referida directiva.\n\n2. Sempre que a publicidade feita ao nível da sucursal for diferente da publicidade feita ao nível da sociedade, prevalecerá a primeira para as operações efectuadas com a sucursal."
+  },
+  "38f741d91a9aff9f": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. A obrigação de publicidade referida no artigo 1º só abrange os seguintes actos e indicações:\n\na) O endereço da sucursal;\n\nb) A indicação das actividades da sucursal;\n\nc) O registo em que o processo referido no artigo 3º da Directiva 68/151/CEE está aberto para a sociedade e o número de inscrição desta última nesse registo;\n\nd)\n\nA denominação e a forma da sociedade, bem como a denominação da sucursal, se esta última não corresponder à da sociedade;\n\ne)\n\nA nomeação, a cessação de funções e a identidade das pessoas que têm o poder de obrigar a sociedade perante terceiros e de a representar judicialmente:\n\n- enquanto órgãos da sociedade legalmente previstos ou membros desse órgão, em conformidade com a\n\npublicidade feita ao nível da sociedade nos termos\n\ndo nº 1, alínea d), do artigo 2º da Directiva 68/151/CEE,\n\n- enquanto representantes permanentes da sociedade quanto à actividade da sucursal, com a indicação da extensão dos respectivos poderes;\n\nf)\n\n- A dissolução da sociedade, a nomeação, a identidade e os poderes dos liquidatários, bem como o encerramento da liquidação, em conformidade com a publicidade feita ao nível da sociedade, nos termos do\n\nnº 1, alíneas h), j) e k), do artigo 2º da Directiva 68/151/CEE,\n\n- um processo de falência, de concordata ou outro processo análogo de que a sociedade seja alvo;\n\ng)\n\nOs documentos contabilísticos, nas condições indicadas no artigo 3º;\n\nh)\n\nO encerramento da sucursal.\n\n2. O Estado-membro em que a sucursal foi criada pode prever a publicidade, nos termos previstos no artigo 1º:\n\na) De uma assinatura das pessoas referidas no nº 1, alíneas e) e f), do presente artigo;\n\nb) Do acto constitutivo e dos estatutos, se estes últimos forem objecto de um acto separado, nos termos do\n\nnº 1, alíneas a), b) e c), do artigo 2º da Directiva 68/151/CEE, bem como de qualquer alteração desses documentos;\n\nc) De um certidão do registo referido no nº 1, alínea c), do presente artigo, relativo à existência da sociedade;\n\nd) De uma indicação sobre as garantias que incidem sobre os bens da sociedade situados nesse Estado-membro, desde que essa publicidade se refira à validade dessas garantias."
+  },
+  "186a9143e168c17e": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nA obrigação de publicidade referida no nº 1, alínea g), do artigo 2º só diz respeito aos documentos contabilísticos da sociedade elaborados, controlados e publicados segundo o direito do Estado-membro pelo qual se regula a sociedade, em conformidade com as Directivas 78/660/CEE, 83//349/CEE e 84/253/CEE."
+  },
+  "45ec01981885b690": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nO Estado-membro em que a sucursal tiver sido criada pode impor que a publicidade dos documentos referidos no nº 2, alínea b), do artigo 2º e no artigo 3º seja efectuada noutra língua oficial da Comunidade e que a tradução desses documentos seja autenticada."
+  },
+  "67445b7fdbf74429": {
+   "fragment_id": "Artigo 5º — Quando num Estado-membro existirem várias sucursais criadas por uma mesma sociedade, a publicidade referida no",
+   "type": "artigo",
+   "heading": "Artigo 5º — Quando num Estado-membro existirem várias sucursais criadas por uma mesma sociedade, a publicidade referida no",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Quando num Estado-membro existirem várias sucursais criadas por uma mesma sociedade, a publicidade referida no\n\nnº 2, alínea b), do artigo 2º e no artigo 3º pode ser feita no registo de uma dessas sucursais à escolha da sociedade.\n\nNesse caso, a obrigação de publicidade das restantes sucursais incidirá sobre a indicação do registo da sucursal em que a publicidade foi feita, bem como do número de inscrição dessa sucursal nesse registo."
+  },
+  "5f77795c764d237f": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs Estados-membros exigirão que as cartas e as notas de encomenda utilizadas pela sucursal contenham, além das indicações prescritas no artigo 4º da Directiva 68/151//CEE, a indicação do registo em que está aberto o processo da sucursal, bem como o número de inscrição da sucursal nesse registo."
+  },
+  "c346bf1409467a46": {
+   "fragment_id": "SECÇÃO II — Sucursais de sociedades de países terceiros",
+   "type": "divisao",
+   "heading": "SECÇÃO II — Sucursais de sociedades de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Sucursais de sociedades de países terceiros"
+  },
+  "3431649f728b18e2": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Os actos e indicações relativos às sucursais criadas num Estado-membro por sociedades que não sejam reguladas pelo direito de um Estado-membro, mas que tenham uma forma jurídica comparável às referidas na Directiva 68/151/CEE, serão publicados segundo o direito do Estado-membro em que a sucursal foi criada, nos termos do artigo 3º da referida directiva.\n\n2. É aplicável o nº 2 do artigo 1º"
+  },
+  "e39b562622b79582": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nA obrigação de publicidade referida no artigo 7º abrange, pelo menos, os actos e indicações seguintes:\n\na) O endereço da sucursal;\n\nb) A indicação das actividades da sucursal;\n\nc) O direito do Estado pelo qual se regula a sociedade;\n\nd) Se esse direito o previr, o registo em que a sociedade está inscrita e o respectivo número de inscrição nesse registo;\n\ne)\n\nO acto constitutivo e os estatutos, se forem objecto de um acto separado, bem como qualquer alteração desses documentos;\n\nf)\n\nA forma, sede e objecto da sociedade, bem como, pelo menos anualmente, o montante do capital subscrito, se essas indicações não figurarem nos documentos referidas na alínea e);\n\ng)\n\nA denominação da sociedade, bem como a denominação da sucursal, se esta última não corresponder à da sociedade;\n\nh)\n\nA nomeação, a cessação de funções e a identidade das pessoas que têm o poder de obrigar a sociedade perante terceiros e de a representar judicialmente:\n\n- enquanto órgão da sociedade legalmente previsto ou membros desse órgão,\n\n- enquanto representantes permanentes da sociedade para a actividade da sucursal.\n\nDeve precisar-se a extensão dos poderes dessas pessoas e se elas podem exercer esses poderes isoladamente ou se o devem fazer em conjunto;\n\ni)\n\n- A dissolução da sociedade e a nomeação, a identidade e os poderes dos liquidatários, bem como o encerramento da liquidação;\n\n- um processo de falência, de concordata ou outro processo análogo de que a sociedade seja alvo;\n\nj)\n\nOs documentos contabilísticos, nas condições indicadas no artigo 9º;\n\nk)\n\nO encerramento da sucursal."
+  },
+  "6f8a57347b4574e8": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. A obrigação de publicidade referida na alínea j) do artigo 8º incide sobre os documentos contabilísticos da sociedade elaborados, controlados e publicados segundo o direito do Estado-membro pelo qual se regula a sociedade. Quando esses documentos não tiverem sido elaborados em conformidade com as Directivas 78/660/CEE e 83/349/\n\n/CEE, ou de modo equivalente, os Estados-membros podem exigir a elaboração e a publicidade dos documentos contabilísticos relativos à actividade da sucursal.\n\n2. São aplicáveis os artigos 4º e 5º"
+  },
+  "a93f61b80fcd506b": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros exigirão que as cartas e notas de encomenda utilizadas pela sucursal contenham a indicação do registo em que está aberto o processo da sucursal, bem como o número de inscrição da sucursal nesse registo. Se o direito do Estado pelo qual se regula a sociedade previr a inscrição num registo, devem igualmente ser indicados o registo em que a sociedade está inscrita e o respectivo número de inscrição nesse registo."
+  },
+  "fc8a6994557d69bd": {
+   "fragment_id": "SECÇÃO III — Indicação das sucursais no relatório de gestão da",
+   "type": "divisao",
+   "heading": "SECÇÃO III — Indicação das sucursais no relatório de gestão da",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Indicação das sucursais no relatório de gestão da\n\nsociedade"
+  },
+  "58c8a28189c86e62": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nNo nº 2 do artigo 46º da Directiva 78/660/CEE, é aditada a seguinte alínea:\n\n«e) A existência das sucursais da sociedade.»."
+  },
+  "1323fefef1da105b": {
+   "fragment_id": "SECÇÃO IV — Disposições transitórias e disposições finais",
+   "type": "divisao",
+   "heading": "SECÇÃO IV — Disposições transitórias e disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Disposições transitórias e disposições finais"
+  },
+  "e468502bfab12569": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nOs Estados-membros devem prever sanções adquadas em caso de falta da publicidade prevista nos artigos 1º, 2º, 3º, 7º, 8º e 9º, bem como em caso de ausência, nas cartas e notas de encomenda, das indicações obrigatórias previstas nos artigos 6º e 10º"
+  },
+  "d8594baf011829e7": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nOs Estados-membros determinarão quais as pessoas obrigadas a cumprir as formalidades de publicidade prescritas pela presente directiva."
+  },
+  "4b8b1b73eade4b42": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. Os artigos 3º e 9º não são aplicáveis às sucursais criadas por instituições de crédito e por instituições financeiras que são objecto da Directiva 89/117/CEE (8).\n\n2. Até coordenação posterior, os Estados-membros podem não aplicar os artigos 3º e 9º às sucursais criadas por companhias de seguros."
+  },
+  "bfd829602b5662da": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nSão suprimidos o artigo 54º da Directiva 78/660/CEE e o artigo 48º da Directiva 83/349/CEE."
+  },
+  "09f7cf5d456168da": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\n1. Os Estados-membros adoptarão, antes de 1 de Janeiro de 1992, as disposições legislativas, regulamentares e admi-\n\nnistrativas necessárias para dar cumprimento à presente directiva. Do facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros preverão que as disposições referidas no nº 1 se apliquem a partir de 1 de Janeiro de 1993 e, no que respeita aos documentos contabilísticos, que se apliquem pela primeira vez às contas anuais do exercício que se inicia em 1 de Janeiro de 1993 ou durante o ano de 1993.\n\n3. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno que adoptarem no domínio regulado pela presente directiva."
+  },
+  "28364ab8d9d45b72": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nO comité de contacto criado pelo artigo 52º da Directiva 78/660/CEE passa também a ter as atribuições seguintes:\n\na) Facilitar, sem prejuízo dos artigos 169º e 170º do Tratado, uma aplicação harmonizada da presente directiva através de uma concertação regular sobre, nomeadamente, os problemas concretos que a sua aplicação levante;\n\nb) Aconselhar a Comissão, se necessário, sobre os complementos ou correcções a introduzir na presente directiva."
+  },
+  "948638773dd64505": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 21 de Dezembro de 1989.\n\nPelo Conselho\n\nO Presidente\n\nE. CRESSON\n\n(1) JO nº C 105 de 21. 4. 1988, p. 6.\n\n(2) JO nº C 345 de 21. 12. 1987, p. 76, e JO nº C 256 de 9. 10. 1989, p. 72.\n\n(3) JO nº C 319 de 30. 11. 1987, p. 61.\n\n(4) JO nº L 65 de 14. 3. 1968, p. 8.\n\n(5) JO nº L 222 de 14. 8. 1978, p. 11.\n\n(6) JO nº L 193 de 18. 7. 1983, p. 1.\n\n(7) JO nº L 126 de 12. 5. 1984, p. 20.\n\n(8) JO nº L 44 de 16. 2. 1989, p. 40."
+  },
+  "c8916945f398cb6a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Dezembro de 1989\n\nrelativa à publicidade das sucursais criadas num Estado-membro por certas formas de sociedades reguladas pelo direito de outro Estado\n\n(89/666/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 54.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#E0003)),\n\nConsiderando que, a fim de facilitar o exercício da liberdade de estabelecimento das sociedades referidas no artigo 58.º do Tratado, o n.º 3, alínea g), do artigo 54.º do Tratado e o programa geral para a supressão das restrições à liberdade de estabelecimento prevêem a coordenação das garantias que são exigidas às sociedades, nos Estados-membros, para proteger os interesses, quer dos sócios quer de terceiros;\n\nConsiderando que, até agora, essa coordenação foi realizada, em matéria de publicidade, pela adopção da primeira Directiva 68/151/CEE relativa às sociedades de capitais ([^4^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#E0004)), com a última redacção que lhe foi dada pelo Acto de Adesão de 1985; que foi continuada, em matéria de contabilidade, com a quarta Directiva 78/660/CEE, relativa às contas anuais de certas formas de sociedades ([^5^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#E0005)), com a última redacção que lhe foi dada pelo Acto de Adesão de 1985, com a sétima Directiva 83/349/CEE, relativa às contas consolidadas ([^6^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#E0006)), com a última redacção que lhe foi dada pelo Acto de Adesão de 1985, e com a oitava Directiva 84/253/CEE, relativa às pessoas encarregadas da fiscalização legal dos documentos contabilísticos ([^7^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#E0007));\n\nConsiderando que essas directivas se aplicam às sociedades, enquanto tal, mas não se aplicam às sucursais; que a criação de uma sucursal, tal como a constituição de uma filial, é uma das possibilidades que actualmente se abrem a uma sociedade que pretenda exercer o seu direito de estabelecimento num outro Estado-membro;\n\nConsiderando que, no que respeita às sucursais, a falta de coordenação, nomeadamento no domínio da publicidade, dá origem a uma certa disparidade, a nível da protecção dos sócios e de terceiros, entre as sociedades que operam em outros Estados-membros criando sucursais e as que aí operam constituindo sociedades filiais;\n\nConsiderando que, nesse domínio, as divergências nas legislações dos Estados-membros podem perturbar o exercício do direito de estabelecimento e que, portanto, é necessário eliminá-las para salvaguardar, *inter alia*, o exercício desse direito;\n\nConsiderando que, para assegurar a protecção das pessoas que, por intermédio de uma sucursal, entram em contacto com a sociedade, se impõem medidas de publicidade no Estado-membro em que a sucursal está situada; que, em determinados aspectos, a influência económica e social de uma sucursal pode ser comparável à de uma filial, no sentido de que há interesse do público pela publicidade da sociedade junto da sucursal; que, para organizar essa publicidade, é conveniente fazer referência ao processo já estabelecido para as sociedades de capitais no interior da Comunidade;\n\nConsiderando que essa publicidade respeita a uma série de actos e indicações importantes e às respectivas alterações;\n\nConsiderando que a referida publicidade pode ser limitada, com excepção do poder de representação, da denominação, da forma, da dissolução e do processo de insolvabilidade da sociedade, às informações relativas às próprias sucursais e a uma referência ao registo da sociedade de que a sucursal é parte integrante, dado que, por força das regras comunitárias existentes, qualquer informação relativa à sociedade enquanto tal está disponível nesse registo;\n\nConsiderando que as disposições nacionais que impõem a publicidade dos documentos contabilísticos relativos à sucursal perderam a sua justificação após a coordenação das legislações nacionais em matéria de estabelecimento, de controlo e de publicidade dos documentos contabilísticos da sociedade; que, por conseguinte, basta publicar no registo da sucursal os documentos contabilísticos controlados e publicados pela sociedade;\n\nConsiderando que as cartas e notas de encomenda utilizadas pela sucursal devem conter pelo menos as mesmas indicações que as cartas e as notas de encomenda da sociedade, bem como a indicação do registo em que a sucursal está inscrita;\n\nConsiderando que, a fim de assegurar a realização dos objectivos da presente directiva e evitar qualquer discriminação relacionada com o país de origem das sociedades, a presente directiva deve abranger também as sucursais criadas por sociedades reguladas pelo direito de países terceiros e organizadas segundo uma forma jurídica comparável à das sociedades referidas na Directiva 68/151/CEE; que, para essas sucursais, se impõem certas disposições diferentes das que se aplicam às sucursais das sociedades reguladas pelo direito de outros Estados-membros, dado que as directivas acima indicadas não se aplicam às sociedades dos países terceiros;\n\nConsiderando que a presente directiva em nada afecta as obrigações de informação a que se encontram sujeitas as sucursais devido a outras disposições do âmbito, por exemplo, do direito social no que respeita ao direito de informação dos assalariados, do direito fiscal, bem como para fins estatísticos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "19572906891c0646": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO I"
+  },
+  "25bd58d8d5046f18": {
+   "fragment_id": "Sucursais de sociedades de outros Estados-membros",
+   "type": "divisao",
+   "heading": "Sucursais de sociedades de outros Estados-membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Sucursais de sociedades de outros Estados-membros"
+  },
+  "961411e38c6505c3": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os actos e indicações relativos às sucursais criadas num Estado-membro por sociedades reguladas pelo direito de outro Estado-membro, às quais se aplica a Directiva 68/151/CEE, serão publicados segundo o direito do Estado-membro onde a sucursal está situada, nos termos do artigo 3.º da referida directiva.\n\n2. Sempre que a publicidade feita ao nível da sucursal for diferente da publicidade feita ao nível da sociedade, prevalecerá a primeira para as operações efectuadas com a sucursal.\n\n3. Os documentos e indicações a que se refere o artigo 2.º, n.º 1, devem ser disponibilizados ao público através do sistema de interconexão dos registos centrais, registos comerciais e registos das sociedades, estabelecido nos termos do artigo 4.º-A, n.º 2, da Diretiva 2009/101/CE do Parlamento Europeu e do Conselho, de 16 de setembro de 2009, relativa à coordenação das garantias que, para proteção dos interesses dos sócios e de terceiros, são exigidas nos Estados-Membros às sociedades, na aceção do segundo parágrafo do artigo 54.º do Tratado, a fim de tornar essas garantias equivalentes ([^8^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#E0008)) (a seguir designado «sistema de interconexão dos registos»). O artigo 3.º-B e o artigo 3.º-C, n.º 1, da presente diretiva são aplicáveis com as necessárias adaptações.\n\n4. Os Estados-Membros devem assegurar que as sucursais disponham de um identificador único que permita a sua identificação inequívoca na comunicação entre registos através do sistema de interconexão dos registos. Esse identificador único deve incluir, pelo menos, os elementos que permitam a identificação do Estado-Membro do registo, o registo nacional de origem e o número da sucursal nesse registo e, se for caso disso, características para evitar erros de identificação."
+  },
+  "a5af5d4cffe7a117": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A obrigação de publicidade referida no artigo 1.º só abrange os seguintes actos e indicações:\n\na) O endereço da sucursal;\n\nb) A indicação das actividades da sucursal;\n\nc) O registo em que o processo referido no artigo 3.º da Directiva 68/151/CEE está aberto para a sociedade e o número de inscrição desta última nesse registo;\n\nd) A denominação e a forma da sociedade, bem como a denominação da sucursal, se esta última não corresponder à da sociedade;\n\ne) A nomeação, a cessação de funções e a identidade das pessoas que têm o poder de obrigar a sociedade perante terceiros e de a representar judicialmente:\n\n— enquanto órgãos da sociedade legalmente previstos ou membros desse órgão, em conformidade com a publicidade feita ao nível da sociedade nos termos do n.º 1, alínea d), do artigo 2.º da Directiva 68/151/CEE,\n\n— enquanto representantes permanentes da sociedade quanto à actividade da sucursal, com a indicação da extensão dos respectivos poderes;\n\n— A dissolução da sociedade, a nomeação, a identidade e os poderes dos liquidatários, bem como o encerramento da liquidação, em conformidade com a publicidade feita ao nível da sociedade, nos termos do n.º 1, alíneas h), j) e k), do artigo 2.º da Directiva 68/151/CEE,\n\n— um processo de falência, de concordata ou outro processo análogo de que a sociedade seja alvo;\n\ng) Os documentos contabilísticos, nas condições indicadas no artigo 3.º;\n\nh) O encerramento da sucursal.\n\n2. O Estado-membro em que a sucursal foi criada pode prever a publicidade, nos termos previstos no artigo 1.º:\n\na) De uma assinatura das pessoas referidas no n.º 1, alíneas e) e f), do presente artigo;\n\nb) Do acto constitutivo e dos estatutos, se estes últimos forem objecto de um acto separado, nos termos do n.º 1, alíneas a), b) e c), do artigo 2.º da Directiva 68/151/CEE, bem como de qualquer alteração desses documentos;\n\nc) De um certidão do registo referido no n.º 1, alínea c), do presente artigo, relativo à existência da sociedade;\n\nd) De uma indicação sobre as garantias que incidem sobre os bens da sociedade situados nesse Estado-membro, desde que essa publicidade se refira à validade dessas garantias."
+  },
+  "9b007f174d1a9d73": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA obrigação de publicidade referida no n.º 1, alínea g), do artigo 2.º só diz respeito aos documentos contabilísticos da sociedade elaborados, controlados e publicados segundo o direito do Estado-membro pelo qual se regula a sociedade, em conformidade com as Directivas 78/660/CEE, 83/349/CEE e 84/253/CEE."
+  },
+  "28bcd84f8a0695bf": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO Estado-membro em que a sucursal tiver sido criada pode impor que a publicidade dos documentos referidos no n.º 2, alínea b), do artigo 2.º e no artigo 3.º seja efectuada noutra língua oficial da Comunidade e que a tradução desses documentos seja autenticada."
+  },
+  "b8e656e7fbfc8350": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nQuando num Estado-membro existirem várias sucursais criadas por uma mesma sociedade, a publicidade referida no n.º 2, alínea b), do artigo 2.º e no artigo 3.º pode ser feita no registo de uma dessas sucursais à escolha da sociedade.\n\nNesse caso, a obrigação de publicidade das restantes sucursais incidirá sobre a indicação do registo da sucursal em que a publicidade foi feita, bem como do número de inscrição dessa sucursal nesse registo."
+  },
+  "389f0a5256a09c58": {
+   "fragment_id": "Artigo 5.º-A",
+   "type": "artigo",
+   "heading": "Artigo 5.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º-A\n\n1. O registo da sociedade deve disponibilizar sem demora, através do sistema de interconexão dos registos, as informações sobre a abertura e o encerramento de quaisquer processos de liquidação ou insolvência da sociedade e sobre o cancelamento do registo da sociedade, se este produzir efeitos jurídicos no Estado-Membro de registo da sociedade.\n\n2. O registo da sucursal deve assegurar, através do sistema de interconexão dos registos, a receção, sem demora, das informações referidas no n.º 1.\n\n3. A troca de informações referida nos n.^os^ 1 e 2 é gratuita para os registos.\n\n4. Os Estados-Membros determinarão o procedimento a seguir aquando da receção das informações referidas nos n.^os^ 1 e 2. Tais procedimentos devem assegurar que, caso a sociedade tenha sido dissolvida ou de qualquer outra forma retirada do registo, as suas sucursais sejam eliminadas do registo sem demora injustificada.\n\n5. A segunda frase do n.º 4 não se aplica às sucursais de sociedades que tenham sido retiradas do registo na sequência de qualquer alteração na forma jurídica da sociedade em causa, de uma fusão ou divisão, ou de uma transferência transfronteiriça da sua sede estatutária."
+  },
+  "552d20076fd06f39": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros exigirão que as cartas e as notas de encomenda utilizadas pela sucursal contenham, além das indicações prescritas no artigo 4.º da Directiva 68/151/CEE, a indicação do registo em que está aberto o processo da sucursal, bem como o número de inscrição da sucursal nesse registo."
+  },
+  "0b50b9972a75b595": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO II"
+  },
+  "5c8f8e2bc50d1aa6": {
+   "fragment_id": "Sucursais de sociedades de países terceiros",
+   "type": "divisao",
+   "heading": "Sucursais de sociedades de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Sucursais de sociedades de países terceiros"
+  },
+  "ffd2e2e755b55260": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os actos e indicações relativos às sucursais criadas num Estado-membro por sociedades que não sejam reguladas pelo direito de um Estado-membro, mas que tenham uma forma jurídica comparável às referidas na Directiva 68/151/CEE, serão publicados segundo o direito do Estado-membro em que a sucursal foi criada, nos termos do artigo 3.º da referida directiva.\n\n2. É aplicável o n.º 2 do artigo 1.º"
+  },
+  "06a7721f3878e392": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA obrigação de publicidade referida no artigo 7.º abrange, pelo menos, os actos e indicações seguintes:\n\na) O endereço da sucursal;\n\nb) A indicação das actividades da sucursal;\n\nc) O direito do Estado pelo qual se regula a sociedade;\n\nd) Se esse direito o previr, o registo em que a sociedade está inscrita e o respectivo número de inscrição nesse registo;\n\ne) O acto constitutivo e os estatutos, se forem objecto de um acto separado, bem como qualquer alteração desses documentos;\n\nf) A forma, sede e objecto da sociedade, bem como, pelo menos anualmente, o montante do capital subscrito, se essas indicações não figurarem nos documentos referidas na alínea e);\n\ng) A denominação da sociedade, bem como a denominação da sucursal, se esta última não corresponder à da sociedade;\n\nh) A nomeação, a cessação de funções e a identidade das pessoas que têm o poder de obrigar a sociedade perante terceiros e de a representar judicialmente:\n\n— enquanto órgão da sociedade legalmente previsto ou membros desse órgão,\n\n— enquanto representantes permanentes da sociedade para a actividade da sucursal.\n\n— A dissolução da sociedade e a nomeação, a identidade e os poderes dos liquidatários, bem como o encerramento da liquidação;\n\n— um processo de falência, de concordata ou outro processo análogo de que a sociedade seja alvo;\n\nj) Os documentos contabilísticos, nas condições indicadas no artigo 9.º;\n\nk) O encerramento da sucursal."
+  },
+  "80e6420050dca48e": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. A obrigação de publicidade referida na alínea j) do artigo 8.º incide sobre os documentos contabilísticos da sociedade elaborados, controlados e publicados segundo o direito do Estado-membro pelo qual se regula a sociedade. Quando esses documentos não tiverem sido elaborados em conformidade com as Directivas 78/660/CEE e 83/349/CEE, ou de modo equivalente, os Estados-membros podem exigir a elaboração e a publicidade dos documentos contabilísticos relativos à actividade da sucursal.\n\n2. São aplicáveis os artigos 4.º e 5.º"
+  },
+  "4fc4a1aa0ea2329f": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-membros exigirão que as cartas e notas de encomenda utilizadas pela sucursal contenham a indicação do registo em que está aberto o processo da sucursal, bem como o número de inscrição da sucursal nesse registo. Se o direito do Estado pelo qual se regula a sociedade previr a inscrição num registo, devem igualmente ser indicados o registo em que a sociedade está inscrita e o respectivo número de inscrição nesse registo."
+  },
+  "b4f1bfdbc841cf04": {
+   "fragment_id": "SECÇÃO III",
+   "type": "divisao",
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO III"
+  },
+  "707cfd8b8cbd184a": {
+   "fragment_id": "Indicação das sucursais no relatório de gestão da sociedade",
+   "type": "divisao",
+   "heading": "Indicação das sucursais no relatório de gestão da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Indicação das sucursais no relatório de gestão da sociedade"
+  },
+  "ecaf61366154bb50": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nNo n.º 2 do artigo 46.º da Directiva 78/660/CEE, é aditada a seguinte alínea:\n\n«e) A existência das sucursais da sociedade.»."
+  },
+  "4912aa5b84ae0441": {
+   "fragment_id": "SECÇÃO III-A",
+   "type": "divisao",
+   "heading": "SECÇÃO III-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO III-A"
+  },
+  "460017498eeed9d8": {
+   "fragment_id": "PROTEÇÃO DOS DADOS",
+   "type": "divisao",
+   "heading": "PROTEÇÃO DOS DADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROTEÇÃO DOS DADOS"
+  },
+  "e08d4ff2fc4eb416": {
+   "fragment_id": "Artigo 11.º-A",
+   "type": "artigo",
+   "heading": "Artigo 11.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º-A\n\nO tratamento de dados pessoais no âmbito da presente diretiva fica sujeito ao disposto na Diretiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de outubro de 1995, relativa à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados ([^9^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#E0009))."
+  },
+  "b9c1c438fac65788": {
+   "fragment_id": "SECÇÃO IV",
+   "type": "divisao",
+   "heading": "SECÇÃO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO IV"
+  },
+  "258220b170562079": {
+   "fragment_id": "Disposições transitórias e disposições finais",
+   "type": "divisao",
+   "heading": "Disposições transitórias e disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições transitórias e disposições finais"
+  },
+  "8b2783629987838d": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-membros devem prever sanções adquadas em caso de falta da publicidade prevista nos artigos 1.º, 2.º, 3.º, 7.º, 8.º e 9.º, bem como em caso de ausência, nas cartas e notas de encomenda, das indicações obrigatórias previstas nos artigos 6.º e 10.º"
+  },
+  "531e574cb547eb26": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs Estados-membros determinarão quais as pessoas obrigadas a cumprir as formalidades de publicidade prescritas pela presente directiva."
+  },
+  "a5b735aa58a5607b": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Os artigos 3.º e 9.º não são aplicáveis às sucursais criadas por instituições de crédito e por instituições financeiras que são objecto da Directiva 89/117/CEE ([^10^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#E0010)).\n\n2. Até coordenação posterior, os Estados-membros podem não aplicar os artigos 3.º e 9.º às sucursais criadas por companhias de seguros."
+  },
+  "af9ce7b9b1846c78": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nSão suprimidos o artigo 54.º da Directiva 78/660/CEE e o artigo 48.º da Directiva 83/349/CEE."
+  },
+  "cb83a6c418f3fe5c": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Os Estados-membros adoptarão, antes de 1 de Janeiro de 1992, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Do facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros preverão que as disposições referidas no n.º 1 se apliquem a partir de 1 de Janeiro de 1993 e, no que respeita aos documentos contabilísticos, que se apliquem pela primeira vez às contas anuais do exercício que se inicia em 1 de Janeiro de 1993 ou durante o ano de 1993.\n\n3. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno que adoptarem no domínio regulado pela presente directiva."
+  },
+  "2b11fbd0a35d46ed": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nO comité de contacto criado pelo artigo 52.º da Directiva 78/660/CEE passa também a ter as atribuições seguintes:\n\na) Facilitar, sem prejuízo dos artigos 169.º e 170.º do Tratado, uma aplicação harmonizada da presente directiva através de uma concertação regular sobre, nomeadamente, os problemas concretos que a sua aplicação levante;\n\nb) Aconselhar a Comissão, se necessário, sobre os complementos ou correcções a introduzir na presente directiva."
+  },
+  "db79c7c2acaf32bc": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n---"
+  },
+  "41ddcf8722315e10": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#src.E0001)) JO n.º C 105 de 21. 4. 1988, p. 6.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#src.E0002)) JO n.º C 345 de 21. 12. 1987, p. 76, e JO n.º C 256 de 9. 10. 1989, p. 72.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#src.E0003)) JO n.º C 319 de 30. 11. 1987, p. 61.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#src.E0004)) JO n.º L 65 de 14. 3. 1968, p. 8.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#src.E0005)) JO n.º L 222 de 14. 8. 1978, p. 11.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#src.E0006)) JO n.º L 193 de 18. 7. 1983, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#src.E0007)) JO n.º L 126 de 12. 5. 1984, p. 20.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#src.E0008)) JO L 258 de 1.10.2009, p. 11.\n\n*Nota editorial*: O título da Diretiva 2009/101/CE foi ajustado para ter em conta a renumeração dos artigos do Tratado que institui a Comunidade Europeia, de acordo com Artigo 5.º do Tratado de Lisboa; a referência original era para o segundo parágrafo do Artigo 48.º do Tratado.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#src.E0009)) JO L 281 de 23.11.1995, p. 31.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/39bdc7a1-6168-4791-85a4-4cb6770dd2f6.0018.03/DOC_1#src.E0010)) JO n.º L 44 de 16. 2. 1989, p. 40."
+  },
+  "0356b3c908e77ac1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01989L0666 — PT — 20.07.2017 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31989L0666) [DÉCIMA PRIMEIRA DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31989L0666) [de 21 de Dezembro de 1989](http://publications.europa.eu/resource/celex/31989L0666) [relativa à publicidade das sucursais criadas num Estado-membro por certas formas de sociedades reguladas pelo direito de outro Estado](http://publications.europa.eu/resource/celex/31989L0666) [(89/666/CEE)](http://publications.europa.eu/resource/celex/31989L0666) (JO L 395, 30.12.1989, p.36)\n\n**revogado por:**\n\n- [Diretiva (UE) 2017/1132 do Parlamento Europeu e do Conselho de 14 de junho de 2017](http://publications.europa.eu/resource/celex/32017L1132) — L 169 — 46 — 30.6.2017"
+  }
+ }
+}

@@ -1,0 +1,185 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991L0322:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0322-20180821",
+ "dre_path": null,
+ "source_lastmod": "2018-08-21",
+ "versions": [
+  {
+   "date": "1991-07-05",
+   "future": false,
+   "celex": "31991L0322",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6176c968766903d2",
+    "6ce2de39d482f92c",
+    "aa287f6118af4f9e",
+    "f3028bbf03af34a6",
+    "74d26dcc3823f527"
+   ]
+  },
+  {
+   "date": "2006-03-01",
+   "future": false,
+   "celex": "01991L0322-20060301",
+   "acts": [
+    {
+     "id": "eu:celex:32006L0015:por",
+     "title": "DIRECTIVA 2006/15/CE DA COMISSÃO Texto relevante para efeitos do EEE de 7 de Fevereiro de 2006",
+     "published": null,
+     "celex": "32006L0015"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Adita ANEXO",
+    "Adita VALORES LIMITE COM CARÁCTER INDICATIVO DE EXPOSIÇÃO PROFISSIONAL",
+    "Adita Notas",
+    "Suprime ANEXO — VALORES LIMITE COM CARÁCTER INDICATIVO DE EXPOSIÇÃO PROFISSIONAL"
+   ],
+   "fragments": [
+    "ed3af3bee5d2b461",
+    "1203013c4fc39920",
+    "aa287f6118af4f9e",
+    "709a68cd4a76729a",
+    "10220b9774fa9034",
+    "c1f0b4983fe008bd",
+    "8db3623d75e7044b"
+   ]
+  },
+  {
+   "date": "2018-08-21",
+   "future": false,
+   "celex": "01991L0322-20180821",
+   "acts": [
+    {
+     "id": "eu:celex:32017L0164:por",
+     "title": "DIRETIVA (UE) 2017/164 DA COMISSÃO Texto relevante para efeitos do EEE de 31 de janeiro de 2017",
+     "published": null,
+     "celex": "32017L0164"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera VALORES LIMITE COM CARÁCTER INDICATIVO DE EXPOSIÇÃO PROFISSIONAL",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "0f91a414bea038e2",
+    "1203013c4fc39920",
+    "aa287f6118af4f9e",
+    "709a68cd4a76729a",
+    "10220b9774fa9034",
+    "4a78410eb47ff4d2"
+   ]
+  }
+ ],
+ "fragments": {
+  "6176c968766903d2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "| 5.7.1991 | PT | Jornal Oficial da União Europeia | L 177/22 |\n| --- | --- | --- | --- |\n\nDIRECTIVA DA COMISSÃO\n\nde 29 de Maio de 1991\n\nrelativa ao estabelecimento de valores limite com carácter indicativo por meio da aplicação da Directiva 80/1107/CEE do Conselho relativa à protecção dos trabalhadores contra os riscos ligados à exposição a agentes químicos, físicos e biológicos durante o trabalho\n\n(91/322/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 80/1107/CEE do Conselho, de 27 de Novembro de 1980, relativa à protecção dos trabalhadores contra os riscos ligados à exposição a agentes químicos, físicos e biológicos durante o trabalho[(1)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr1-L_1991177PT.01002201-E0001), com a última redacção que lhe foi dada pela Directiva 88/642/CEE[(2)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr2-L_1991177PT.01002201-E0002), e, nomeadamente, o primeiro parágrafo do n.o 4 do seu artigo 8.o,\n\nTendo em conta o parecer do Comité Consultivo para a Segurança, Higiene e Protecção da Saúde no Local de Trabalho,\n\nConsiderando que o terceiro parágrafo do n.o 4 do artigo 8.o da Directiva 80/1107/CEE declara que os valores limite de exposição profissional com carácter indicativo serão fixados tendo em conta avaliações de peritos baseadas em dados científicos;\n\nConsiderando que a fixação destes valores tem por objectivo a harmonização das condições neste domínio, mantendo simultaneamente os progressos realizados;\n\nConsiderando que a presente directiva constitui uma medida prática tendo em vista a realização da dimensão social do mercado interno;\n\nConsiderando que os valores limite de exposição profissional devem ser considerados como uma parte importante da abordagem global destinada a garantir a protecção da saúde dos trabalhadores no local de trabalho;\n\nConsiderando que pode ser elaborada uma primeira lista de exposição profissional para os agentes relativamente aos quais existem valores limite análogos nos Estados--membros, dando a primazia aos que estão presentes no local de trabalho e são susceptíveis de terem repercussões na saúde dos trabalhadores; que esta lista deve fundar-se nos dados científicos existentes, em matéria de efeitos na saúde, ainda que para determinados agentes estes dados sejam muito limitados;\n\nConsiderando que, além disso, pode ser necessário estabelecer valores limite de exposição profissional para períodos mais curtos tendo em conta os efeitos decorrentes de períodos curtos de exposição;\n\nConsiderando que a Directiva 80/1107/CEE prevê um método de referência relativo, entre outros, à avaliação da exposição e à estratégia de medição dos valores limite de exposição profissional;\n\nConsiderando que, tendo em vista a importância de obter medições fiáveis da exposição no atinente aos valores limite de exposição profissional, pode ser necessário estabelecer no futuro métodos de referência apropriados;\n\nConsiderando que os valores limite de exposição profissional devem ser mantidos em observação e ser revistos caso novos dados científicos revelem que deixaram de ser válidos;\n\nConsiderando que, para alguns agentes, é necessário contemplar, no futuro, todas as vias de absorção, nomeadamente a eventualidade de penetração cutânea, com vista a assegurar o melhor nível de protecção possível;\n\nConsiderando que as medidas previstas na presente directiva estão em conformidade com o parecer do comité criado por força do artigo 9.o da Directiva 80/1107/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "6ce2de39d482f92c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs valores limite com carácter indicativo que os Estados-membros devem considerar, nomeadamente aquando do estabelecimento dos valores limite referidos no n.o 4, alínea b), do artigo 4.o da Directiva 80/1107/CEE, são os enumerados no anexo."
+  },
+  "aa287f6118af4f9e": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-membros porão em vigor as medidas necessárias para dar cumprimento à presente directiva, o mais tardar, até 31 de Dezembro de 1992 e desse facto informarão imediatamente a Comissão.\n\nAs disposições adoptadas pêlos Estados-membros incluirão uma referência explicita à presente directiva ou serão acompanhadas da referida referência aquando da publicação oficial. As modalidades da referência são adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão as disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "f3028bbf03af34a6": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 29 de Maio de 1991.\n\nPela Comissão\n\nVasso PAPANDREOU\n\nMembro da Comissão\n\n[(1)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntc1-L_1991177PT.01002201-E0001) [JO n. o L 327 de 3. 12. 1980, p. 8](http://publications.europa.eu/resource/oj/JOL_1980_327_R_TOC).\n\n[(2)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntc2-L_1991177PT.01002201-E0002) [JO n. o L 356 de 24. 12. 1988, p. 74](http://publications.europa.eu/resource/oj/JOL_1988_356_R_TOC)."
+  },
+  "74d26dcc3823f527": {
+   "fragment_id": "ANEXO — VALORES LIMITE COM CARÁCTER INDICATIVO DE EXPOSIÇÃO PROFISSIONAL",
+   "type": "divisao",
+   "heading": "ANEXO — VALORES LIMITE COM CARÁCTER INDICATIVO DE EXPOSIÇÃO PROFISSIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — VALORES LIMITE COM CARÁCTER INDICATIVO DE EXPOSIÇÃO PROFISSIONAL\n\n| Einecs[(1)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr1-L_1991177PT.01002401-E0001) | Cas[(2)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr2-L_1991177PT.01002401-E0002) | Nome do agente | Valores limite[(3)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr3-L_1991177PT.01002401-E0003) |  |\n| --- | --- | --- | --- | --- |\n| mg/m3 [(4)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr4-L_1991177PT.01002401-E0004) | ppm[(5)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr5-L_1991177PT.01002401-E0005) |  |  |  |\n| 2 001 933 | 54-11-5 | Nicotina[(6)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr6-L_1991177PT.01002401-E0006) | 0,5 | — |\n| 2 005 791 | 64-18-6 | Ácido fórmico | 9 | 5 |\n| 2 005 807 | 64-19-7 | Ácido acético | 25 | 10 |\n| 2 006 596 | 67-56-1 | Metanol | 260 | 200 |\n| 2 008 352 | 75-05-8 | Acetonitrilo | 70 | 40 |\n| 2 018 659 | 88-89-1 | Ácido pícrico[(6)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr6-L_1991177PT.01002401-E0006) | 0,1 | — |\n| 2 020 495 | 91-20-3 | Naftalena | 50 | 10 |\n| 2 027 160 | 98-95-3 | Nitrobenzeno | 5 | 1 |\n| 2 035 852 | 108-46-3 | Résorcinol[(6)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr6-L_1991177PT.01002401-E0006) | 45 | 10 |\n| 2 037 163 | 109-89-7 | Dietilamina | 30 | 10 |\n| 2 038 099 | 110-86-1 | Piridina[(6)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr6-L_1991177PT.01002401-E0006) | 15 | 5 |\n| 2 046 969 | 124-38-9 | Dióxido de carbono | 9000 | 5000 |\n| 2 056 343 | 144-62-7 | Ácido oxálico[(6)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr6-L_1991177PT.01002401-E0006) | 1 | — |\n| 2 069 923 | 420-04-2 | Cianamida[(6)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr6-L_1991177PT.01002401-E0006) | 2 | — |\n| 2 151 373 | 1305-62-0 | Dihidróxido de cálcio[(6)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr6-L_1991177PT.01002401-E0006) | 5 | — |\n| 2 152 361 | 1314-56-3 | Pentóxido de difósíoro[(6)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr6-L_1991177PT.01002401-E0006) | 1 | — |\n| 2 152 424 | 1314-80-3 | Pentassulfureto de difósforo[(6)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr6-L_1991177PT.01002401-E0006) | 1 | — |\n| 2 152 932 | 1319-77-3 | Cresol (todos os isómeros)[(6)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr6-L_1991177PT.01002401-E0006) | 22 | 5 |\n| 2 311 161 | 7440-06-4 | Platina[(6)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr6-L_1991177PT.01002401-E0006) | 1 | — |\n| 2 314 843 | 7580-67-8 | Hidreto de lítio[(6)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr6-L_1991177PT.01002401-E0006) | 0,025 | — |\n| 2 317 781 | 7726-95-6 | Bromo[(6)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr6-L_1991177PT.01002401-E0006) | 0,7 | 0,1 |\n| 2 330 603 | 10026-13-8 | Pentacloreto de fósforo[(6)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr6-L_1991177PT.01002401-E0006) | 1 | — |\n| 2 332 710 | 10102-43-9 | Monóxido de azoto | 30 | 25 |\n| — | 8003-34-7 | Piretro | 5 | — |\n| — | — | Bário (compostos solúveis como Ba)[(6)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr6-L_1991177PT.01002401-E0006) | 0,5 | — |\n| — | — | Prata (compostos solúveis como Ag)[(6)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr6-L_1991177PT.01002401-E0006) | 0,01 | — |\n| — | — | Estanho (compostoso inorgânicos como Sn)[(6)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntr6-L_1991177PT.01002401-E0006) | 2 | — |\n\n[(1)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntc1-L_1991177PT.01002401-E0001) EINECS: European Inventory of Existing Chemical Substances.\n\n[(2)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntc2-L_1991177PT.01002401-E0002) CAS: Chemical Abstract Service Number.\n\n[(3)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntc3-L_1991177PT.01002401-E0003) Medidos ou calculados em relação a um período de referência de oito horas.\n\n[(4)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntc4-L_1991177PT.01002401-E0004) Mg/m3 = milligramas por metro cúbico de ar à temperatura de 20 oC e a uma pressão de 101,3 kPa (760 mm de pressão de mercúrio).\n\n[(5)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntc5-L_1991177PT.01002401-E0005) Ppm = partes por milhão por volume no ar (ml/m3).\n\n[(6)](http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0011.05/DOC_1#ntc6-L_1991177PT.01002401-E0006) Denota a existência particularmente limitada de dados científicos em matéria de efeitos na saúde."
+  },
+  "ed3af3bee5d2b461": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Maio de 1991\n\nrelativa ao estabelecimento de valores limite com carácter indicativo por meio da aplicação da Directiva 80/1107/CEE do Conselho relativa à protecção dos trabalhadores contra os riscos ligados à exposição a agentes químicos, físicos e biológicos durante o trabalho\n\n(91/322/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 80/1107/CEE do Conselho, de 27 de Novembro de 1980, relativa à protecção dos trabalhadores contra os riscos ligados à exposição a agentes químicos, físicos e biológicos durante o trabalho ([^1^](http://publications.europa.eu/resource/cellar/fddf2a42-6648-4ebf-93ef-cb9c81e2575e.0019.03/DOC_1#E0001)), com a última redacção que lhe foi dada pela Directiva 88/642/CEE ([^2^](http://publications.europa.eu/resource/cellar/fddf2a42-6648-4ebf-93ef-cb9c81e2575e.0019.03/DOC_1#E0002)), e, nomeadamente, o primeiro parágrafo do n.º 4 do seu artigo 8.º,\n\nTendo em conta o parecer do Comité Consultivo para a Segurança, Higiene e Protecção da Saúde no Local de Trabalho,\n\nConsiderando que o terceiro parágrafo do n.º 4 do artigo 8.º da Directiva 80/1107/CEE declara que os valores limite de exposição profissional com carácter indicativo serão fixados tendo em conta avaliações de peritos baseadas em dados científicos;\n\nConsiderando que a fixação destes valores tem por objectivo a harmonização das condições neste domínio, mantendo simultaneamente os progressos realizados;\n\nConsiderando que a presente directiva constitui uma medida prática tendo em vista a realização da dimensão social do mercado interno;\n\nConsiderando que os valores limite de exposição profissional devem ser considerados como uma parte importante da abordagem global destinada a garantir a protecção da saúde dos trabalhadores no local de trabalho;\n\nConsiderando que pode ser elaborada uma primeira lista de exposição profissional para os agentes relativamente aos quais existem valores limite análogos nos Estados--membros, dando a primazia aos que estão presentes no local de trabalho e são susceptíveis de terem repercussões na saúde dos trabalhadores; que esta lista deve fundar-se nos dados científicos existentes, em matéria de efeitos na saúde, ainda que para determinados agentes estes dados sejam muito limitados;\n\nConsiderando que, além disso, pode ser necessário estabelecer valores limite de exposição profissional para períodos mais curtos tendo em conta os efeitos decorrentes de períodos curtos de exposição;\n\nConsiderando que a Directiva 80/1107/CEE prevê um método de referência relativo, entre outros, à avaliação da exposição e à estratégia de medição dos valores limite de exposição profissional;\n\nConsiderando que, tendo em vista a importância de obter medições fiáveis da exposição no atinente aos valores limite de exposição profissional, pode ser necessário estabelecer no futuro métodos de referência apropriados;\n\nConsiderando que os valores limite de exposição profissional devem ser mantidos em observação e ser revistos caso novos dados científicos revelem que deixaram de ser válidos;\n\nConsiderando que, para alguns agentes, é necessário contemplar, no futuro, todas as vias de absorção, nomeadamente a eventualidade de penetração cutânea, com vista a assegurar o melhor nível de protecção possível;\n\nConsiderando que as medidas previstas na presente directiva estão em conformidade com o parecer do comité criado por força do artigo 9.º da Directiva 80/1107/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "1203013c4fc39920": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs valores limite com carácter indicativo que os Estados-membros devem considerar, nomeadamente aquando do estabelecimento dos valores limite referidos no n.º 4, alínea b), do artigo 4.º da Directiva 80/1107/CEE, são os enumerados no anexo."
+  },
+  "709a68cd4a76729a": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "c1f0b4983fe008bd": {
+   "fragment_id": "VALORES LIMITE COM CARÁCTER INDICATIVO DE EXPOSIÇÃO PROFISSIONAL",
+   "type": "divisao",
+   "heading": "VALORES LIMITE COM CARÁCTER INDICATIVO DE EXPOSIÇÃO PROFISSIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VALORES LIMITE COM CARÁCTER INDICATIVO DE EXPOSIÇÃO PROFISSIONAL\n\n| Einecs [(^1^)](http://publications.europa.eu/resource/cellar/fddf2a42-6648-4ebf-93ef-cb9c81e2575e.0019.03/DOC_1#E0003) | Cas [(^2^)](http://publications.europa.eu/resource/cellar/fddf2a42-6648-4ebf-93ef-cb9c81e2575e.0019.03/DOC_1#E0004) | Nome do agente | Valores limite [(^3^)](http://publications.europa.eu/resource/cellar/fddf2a42-6648-4ebf-93ef-cb9c81e2575e.0019.03/DOC_1#E0005) |  |\n| --- | --- | --- | --- | --- |\n| mg/m^3^ [(^4^)](http://publications.europa.eu/resource/cellar/fddf2a42-6648-4ebf-93ef-cb9c81e2575e.0019.03/DOC_1#E0006) | ppm [(^5^)](http://publications.europa.eu/resource/cellar/fddf2a42-6648-4ebf-93ef-cb9c81e2575e.0019.03/DOC_1#E0007) |  |  |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32006L0015) ————— |  |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/31991L0322) |  |  |  |  |\n| 2 005 807 | 64-19-7 | Ácido acético | 25 | 10 |\n| [▼M1](http://publications.europa.eu/resource/celex/32006L0015) ————— |  |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/31991L0322) |  |  |  |  |\n| 2 018 659 | 88-89-1 | Ácido pícrico [(^6^)](http://publications.europa.eu/resource/cellar/fddf2a42-6648-4ebf-93ef-cb9c81e2575e.0019.03/DOC_1#E0008) | 0,1 | — |\n| 2 020 495 | 91-20-3 | Naftalena | 50 | 10 |\n| [▼M1](http://publications.europa.eu/resource/celex/32006L0015) ————— |  |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/31991L0322) |  |  |  |  |\n| 2 038 099 | 110-86-1 | Piridina [(^6^)](http://publications.europa.eu/resource/cellar/fddf2a42-6648-4ebf-93ef-cb9c81e2575e.0019.03/DOC_1#E0008) | 15 | 5 |\n| [▼M1](http://publications.europa.eu/resource/celex/32006L0015) ————— |  |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/31991L0322) |  |  |  |  |\n| 2 151 373 | 1305-62-0 | Dihidróxido de cálcio [(^6^)](http://publications.europa.eu/resource/cellar/fddf2a42-6648-4ebf-93ef-cb9c81e2575e.0019.03/DOC_1#E0008) | 5 | — |\n| [▼M1](http://publications.europa.eu/resource/celex/32006L0015) ————— |  |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/31991L0322) |  |  |  |  |\n| 2 152 932 | 1319-77-3 | Cresol (todos os isómeros) [(^6^)](http://publications.europa.eu/resource/cellar/fddf2a42-6648-4ebf-93ef-cb9c81e2575e.0019.03/DOC_1#E0008) | 22 | 5 |\n| 2 311 161 | 7440-06-4 | Platina [(^6^)](http://publications.europa.eu/resource/cellar/fddf2a42-6648-4ebf-93ef-cb9c81e2575e.0019.03/DOC_1#E0008) | 1 | — |\n| 2 314 843 | 7580-67-8 | Hidreto de lítio [(^6^)](http://publications.europa.eu/resource/cellar/fddf2a42-6648-4ebf-93ef-cb9c81e2575e.0019.03/DOC_1#E0008) | 0,025 | — |\n| [▼M1](http://publications.europa.eu/resource/celex/32006L0015) ————— |  |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/31991L0322) |  |  |  |  |\n| 2 332 710 | 10102-43-9 | Monóxido de azoto | 30 | 25 |\n| [▼M1](http://publications.europa.eu/resource/celex/32006L0015) ————— |  |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/31991L0322) |  |  |  |  |\n| — | — | Estanho (compostoso inorgânicos como Sn) [(^6^)](http://publications.europa.eu/resource/cellar/fddf2a42-6648-4ebf-93ef-cb9c81e2575e.0019.03/DOC_1#E0008) | 2 | — |\n| (^1^)EINECS: *European Inventory of Existing Chemical Substances.* (^2^)CAS: *Chemical Abstract Service Number.* (^3^)Medidos ou calculados em relação a um período de referência de oito horas. (^4^)Mg/m^3^ = milligramas por metro cúbico de ar à temperatura de 20 ºC e a uma pressão de 101,3 kPa (760 mm de pressão de mercúrio). (^5^)Ppm = partes por milhão por volume no ar (ml/m^3^). (^6^)Denota a existência particularmente limitada de dados científicos em matéria de efeitos na saúde. |  |  |  |  |\n\n---"
+  },
+  "8db3623d75e7044b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/fddf2a42-6648-4ebf-93ef-cb9c81e2575e.0019.03/DOC_1#src.E0001)) JO n.º L 327 de 3. 12. 1980, p. 8.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/fddf2a42-6648-4ebf-93ef-cb9c81e2575e.0019.03/DOC_1#src.E0002)) JO n.º L 356 de 24. 12. 1988, p. 74."
+  },
+  "0f91a414bea038e2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Maio de 1991\n\nrelativa ao estabelecimento de valores limite com carácter indicativo por meio da aplicação da Directiva 80/1107/CEE do Conselho relativa à protecção dos trabalhadores contra os riscos ligados à exposição a agentes químicos, físicos e biológicos durante o trabalho\n\n(91/322/CEE)"
+  },
+  "4a78410eb47ff4d2": {
+   "fragment_id": "VALORES LIMITE COM CARÁCTER INDICATIVO DE EXPOSIÇÃO PROFISSIONAL",
+   "type": "divisao",
+   "heading": "VALORES LIMITE COM CARÁCTER INDICATIVO DE EXPOSIÇÃO PROFISSIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VALORES LIMITE COM CARÁCTER INDICATIVO DE EXPOSIÇÃO PROFISSIONAL\n\n| Einecs [(^1^)](http://publications.europa.eu/resource/cellar/91c7817f-716a-47c2-9575-a4b0d98c05ee.0015.02/DOC_1#E0001) | Cas [(^2^)](http://publications.europa.eu/resource/cellar/91c7817f-716a-47c2-9575-a4b0d98c05ee.0015.02/DOC_1#E0002) | Nome do agente | Valores limite [(^3^)](http://publications.europa.eu/resource/cellar/91c7817f-716a-47c2-9575-a4b0d98c05ee.0015.02/DOC_1#E0003) |  |\n| --- | --- | --- | --- | --- |\n| mg/m^3^ [(^4^)](http://publications.europa.eu/resource/cellar/91c7817f-716a-47c2-9575-a4b0d98c05ee.0015.02/DOC_1#E0004) | ppm [(^5^)](http://publications.europa.eu/resource/cellar/91c7817f-716a-47c2-9575-a4b0d98c05ee.0015.02/DOC_1#E0005) |  |  |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32006L0015) ————— |  |  |  |  |\n| [▼M2](http://publications.europa.eu/resource/celex/32017L0164) ————— |  |  |  |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32006L0015) ————— |  |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/31991L0322) |  |  |  |  |\n| 2 018 659 | 88-89-1 | Ácido pícrico [(^6^)](http://publications.europa.eu/resource/cellar/91c7817f-716a-47c2-9575-a4b0d98c05ee.0015.02/DOC_1#E0006) | 0,1 | — |\n| 2 020 495 | 91-20-3 | Naftalena | 50 | 10 |\n| [▼M1](http://publications.europa.eu/resource/celex/32006L0015) ————— |  |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/31991L0322) |  |  |  |  |\n| 2 038 099 | 110-86-1 | Piridina [(^6^)](http://publications.europa.eu/resource/cellar/91c7817f-716a-47c2-9575-a4b0d98c05ee.0015.02/DOC_1#E0006) | 15 | 5 |\n| [▼M1](http://publications.europa.eu/resource/celex/32006L0015) ————— |  |  |  |  |\n| [▼M2](http://publications.europa.eu/resource/celex/32017L0164) ————— |  |  |  |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32006L0015) ————— |  |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/31991L0322) |  |  |  |  |\n| 2 152 932 | 1319-77-3 | Cresol (todos os isómeros) [(^6^)](http://publications.europa.eu/resource/cellar/91c7817f-716a-47c2-9575-a4b0d98c05ee.0015.02/DOC_1#E0006) | 22 | 5 |\n| 2 311 161 | 7440-06-4 | Platina [(^6^)](http://publications.europa.eu/resource/cellar/91c7817f-716a-47c2-9575-a4b0d98c05ee.0015.02/DOC_1#E0006) | 1 | — |\n| [▼M2](http://publications.europa.eu/resource/celex/32017L0164) ————— |  |  |  |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32006L0015) ————— |  |  |  |  |\n| [▼M2](http://publications.europa.eu/resource/celex/32017L0164) ————— |  |  |  |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32006L0015) ————— |  |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/31991L0322) |  |  |  |  |\n| — | — | Estanho (compostoso inorgânicos como Sn) [(^6^)](http://publications.europa.eu/resource/cellar/91c7817f-716a-47c2-9575-a4b0d98c05ee.0015.02/DOC_1#E0006) | 2 | — |\n| (^1^)EINECS: *European Inventory of Existing Chemical Substances.* (^2^)CAS: *Chemical Abstract Service Number.* (^3^)Medidos ou calculados em relação a um período de referência de oito horas. (^4^)Mg/m^3^ = milligramas por metro cúbico de ar à temperatura de 20 ºC e a uma pressão de 101,3 kPa (760 mm de pressão de mercúrio). (^5^)Ppm = partes por milhão por volume no ar (ml/m^3^). (^6^)Denota a existência particularmente limitada de dados científicos em matéria de efeitos na saúde. |  |  |  |  |"
+  }
+ }
+}

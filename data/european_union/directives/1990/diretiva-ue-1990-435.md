@@ -34,6 +34,63 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-01-18'
+version_history:
+  file: diretiva-ue-1990-435.versoes.json
+  count: 3
+  source_lastmod: '2012-01-18'
+  versions:
+  - date: '1990-08-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32003L0123:por
+    amending_title: DIRECTIVA 2003/123/CE DO CONSELHO de 22 de Dezembro de 2003; DIRECTIVA 2006/98/CE DO CONSELHO de 20 de
+      Novembro de 2006; Acto de Adesão da Áustria, da Finlândia e da Suécia; Acto relativo às condições de adesão da República
+      Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República
+      da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações
+      dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita ANEXO
+    - Adita LISTA DAS SOCIEDADES A QUE SE REFERE A ALÍNEA A) DO N.º 1 DO ARTIGO 2.º
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime ANEXO Lista das sociedades referidas na alínea a) do artigo 2°
+  - date: '2012-01-18'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime ANEXO
+    - Suprime LISTA DAS SOCIEDADES A QUE SE REFERE A ALÍNEA A) DO N.º 1 DO ARTIGO 2.º
+    - Suprime Notas
 identifiers:
   celex: 31990L0435
   eli: http://data.europa.eu/eli/dir/1990/435/oj
@@ -48,7 +105,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fb0b9d50-924b-40d8-b3a6-b18e0fd922e2.0011
   content_url: http://publications.europa.eu/resource/cellar/27027396-c3b6-41c9-8691-67c75eedc793.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0435-20120118
-  retrieved_at: '2026-10-22T02:37:08Z'
+  retrieved_at: '2026-10-22T14:36:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-18T11:39:40.237+01:00'
 integrity:
@@ -57,9 +114,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:08Z'
-  notes: Texto consolidado 01990L0435-20120118.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:36:59Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1990-435.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -345,16 +402,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:08Z'
+  checked_at: '2026-10-22T14:36:59Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01990L0435-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0435-20040202: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0435-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

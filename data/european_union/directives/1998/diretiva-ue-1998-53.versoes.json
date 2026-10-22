@@ -1,0 +1,109 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998L0053:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0053-20060701",
+ "dre_path": null,
+ "source_lastmod": "2006-07-01",
+ "versions": [
+  {
+   "date": "1998-07-17",
+   "future": false,
+   "celex": "31998L0053",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4e67fef320ba58d1",
+    "f3803bc599d92b50",
+    "fe38a457b1245bd3",
+    "fc1584b578d6cb4b",
+    "99f61bf60a2c7ec3",
+    "3574d419557c6b84",
+    "9a2b20efcbb739a5"
+   ]
+  },
+  {
+   "date": "2006-07-01",
+   "future": false,
+   "celex": "01998L0053-20060701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime ANEXO I — Métodos de colheita das amostras para controlo oficial dos teores de aflatoxinas de certos géneros alimentícios",
+    "Suprime ANEXO II"
+   ],
+   "fragments": [
+    "4ba720d11f9459d1"
+   ]
+  }
+ ],
+ "fragments": {
+  "4e67fef320ba58d1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 98/53/CE da Comissão de 16 de Julho de 1998 que fixa os métodos de colheita de amostras e os métodos de análise para o controlo oficial dos teores de certos contaminantes nos géneros alimentícios (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 201 de 17/07/1998 p. 0093 - 0101*\n\nDIRECTIVA 98/53/CE DA COMISSÃO de 16 de Julho de 1998 que fixa os métodos de colheita de amostras e os métodos de análise para o controlo oficial dos teores de certos contaminantes nos géneros alimentícios (Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 85/591/CEE do Conselho, de 20 de Dezembro de 1985, relativa à introdução de modos de colheita de amostras e de métodos de análise comunitários para o controlo dos géneros destinados à alimentação humana (1), e, nomeadamente, o seu artigo 1º,\n\nConsiderando que o Regulamento (CE) nº 1525/98 da Comissão, de 16 de Julho de 1998, que altera o Regulamento (CE) nº 194/97, que fixa os teores máximos de certos contaminantes presentes nos géneros alimentícios (2), fixa limites máximos para as aflatoxinas em certos géneros alimentícios;\n\nConsiderando que a Directiva 93/99/CEE do Conselho, de 29 de Outubro de 1993, relativa a medidas adicionais respeitantes ao controlo oficial dos géneros alimentícios (3), introduziu um sistema de normas de qualidade para os laboratórios encarregues pelos Estados-membros de controlo oficial dos géneros alimentícios;\n\nConsiderando que a amostragem desempenha um papel muito importante na fidelidade da determinação do teor das aflatoxinas, que se apresentam em geral de forma muito heterogénea nos lotes;\n\nConsiderando que é necessário fixar os critérios gerais a que os métodos de análise devem obedecer a fim de que os laboratórios encarregues dos controlos utilizem métodos de análise com um nível de eficácia comparável;\n\nConsiderando que as disposições relativas ao método de colheita e aos métodos de análise são estabelecidas com base nos conhecimentos actuais e poderão ser adoptadas à evolução dos conhecimentos científicos e técnicos;\n\nConsiderando que os métodos de colheita utilizados actualmente pelas autoridades competentes aos Estados-membros diferem consideravelmente; que em certos Estados-membros as autoridades competentes não estão em condições de aplicar a curto prazo todas as disposições da presente directiva; que é, pois, necessário prever um prazo adequado para que essas disposições sejam aplicáveis;\n\nConsiderando que os Estados-membros deverão alterar progressivamente os seus métodos de colheita a fim de respeitar as disposições estabelecidas nos anexos da presente directiva chegada a data prevista para a sua aplicação; que, para esse efeito, é conveniente examinar regularmente com os Estados-membros a aplicação dessas disposições;\n\nConsiderando que as medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente dos Géneros Alimentícios,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "f3803bc599d92b50": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nOs Estados-membros tomarão todas as medidas necessárias para que as colheitas de amostras para o controlo oficial dos teores de aflatoxinas nos géneros alimentícios sejam efectuadas em conformidade com os métodos descritos no anexo I da presente directiva."
+  },
+  "fe38a457b1245bd3": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nOs Estados-membros tomarão todas as medidas necessárias para que a preparação da amostra e o método de análise utilizado para o controlo oficial dos teores de aflatoxinas nos géneros alimentícios satisfaçam os critérios descritos no anexo II da presente directiva."
+  },
+  "fc1584b578d6cb4b": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros porão em vigor até 31 de Dezembro de 2000 as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Do facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem tais disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "99f61bf60a2c7ec3": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 16 de Julho de 1998.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO L 372 de 31. 12. 1985, p. 50.\n\n(2) Ver página 43 do presente Jornal Oficial.\n\n(3) JO L 290 de 24. 11. 1993, p. 14."
+  },
+  "3574d419557c6b84": {
+   "fragment_id": "ANEXO I — Métodos de colheita das amostras para controlo oficial dos teores de aflatoxinas de certos géneros alimentícios",
+   "type": "divisao",
+   "heading": "ANEXO I — Métodos de colheita das amostras para controlo oficial dos teores de aflatoxinas de certos géneros alimentícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Métodos de colheita das amostras para controlo oficial dos teores de aflatoxinas de certos géneros alimentícios\n\n1. Objectivo e âmbito de aplicação\n\nAs amostras destinadas aos controlos oficiais do teor de aflatoxinas nos géneros alimentícios são colhidas em conformidade com os métodos a seguir indicados. As amostras globais assim obtidas são consideradas representativas dos lotes. A conformidade dos lotes relativamente aos teores máximos fixados no Regulamento (CE) nº 1525/98 é estabelecida em função dos teores determinados nas amostras de laboratório.\n\n2. Definições\n\n>POSIÇÃO NUMA TABELA>\n\n3. Disposições gerais\n\n3.1. Pessoal\n\nA colheita deve ser efectuada por uma pessoa mandatada para esse efeito, segundo as prescrições em vigor nos Estados-membros.\n\n3.2. Produto a amostrar\n\nTodos os lotes a analisar devem ser amostrados separadamente. Em conformidade com as disposições específicas previstas no ponto 5 do presente anexo, os grandes lotes devem ser subdivididos em sublotes, que devem ser amostrados separadamente.\n\n3.3. Precauções a tomar\n\nDurante a amostragem e a preparação das amostras de laboratório, devem ser tomadas precauções para evitar qualquer alteração que possa fazer variar o teor de aflatoxinas ou afectar as análises ou a representatividade da amostra global.\n\n3.4. Tomas elementares ou amostras elementares\n\nNa medida do possível, as tomas elementares devem ser colhidas em diversos pontos do lote ou do sublote. Todas as derrogações dessa regra devem ser assinaladas no registo previsto no ponto 3.8.\n\n3.5. Preparação da amostra global e das amostras para laboratório (subamostras)\n\nA amostra global é obtida através da mistura das tomas elementares. Após essa mistura, a amostra global deve ser dividida em subamostras iguais em conformidade com as disposições específicas previstas no ponto 5 do presente anexo.\n\nA mistura é necessária para garantir que cada subamostra contenha porções do lote ou sublote inteiro.\n\n3.6. Preparação das amostras idênticas\n\nSão colhidas amostras idênticas, pare efeitos de controlo, de direito de recurso e de referência, da amostra para laboratório homogeneizada, desde que esse procedimento esteja em conformidade com as disposições legais em vigor no Estado-membro.\n\n3.7. Acondicionamento e envio das amostras para laboratório\n\nColocar cada amostra para laboratório num recipiente limpo, de material inerte, protegendo-a adequadamente de qualquer possível contaminação ou dano durante o transporte. Tomar igualmente todas as precauções necessárias para evitar qualquer modificação da composição da amostra para laboratório susceptível de ocorrer durante o transporte ou a armazenagem.\n\n3.8. Fecho e rotulagem das amostras\n\nCada amostra oficial será selada no local de colheita e identificada segundo as prescrições em vigor no Estado-membro. Para cada colheita de amostra, elaborar um registo de amostragem que permita identificar sem ambiguidade o lote amostrado e indicar a data e o local de amostragem, bem como qualquer informação suplementar que possa ser útil ao analista.\n\n4. Disposições explicativas\n\n4.1. Diferentes tipos de lotes\n\nOs produtos podem ser comercializados a granel, em contentores ou em embalagens individuais (sacos, embalagens para venda a retalho), etc. O método de amostragem pode ser aplicado às diferentes formas sob as quais os produtos são colocados no mercado.\n\nSem prejuízo das disposições específicas previstas no ponto 5 do presente anexo, a fórmula seguinte pode ser utilizada como guia para a amostragem dos lotes comercializados em sacos ou em embalagens individuais.\n\nFrequência de amostragem:\n\n>NUM>Massa do lote × massa da toma elementar\n\n>DEN>Massa de amostra global × massa de uma embalegem individual\n\n(×) Massa: a exprimir em kg\n\nFrequência de amostragem: número de embalagens individuais das quais é colhida uma toma elementar (casas decimais devem ser arredondadas para o número inteiro mais próximo).\n\n4.2. Massa da toma elementar\n\nA massa da toma elementar é de cerca de 300 gramas, salvo definição em contrário no ponto 5 do presente anexo. No caso de os lotes se apresentarem em embalagens para venda a retalho, a massa da toma será função da massa da embalagem.\n\n4.3. Número de tomas elementares para os lotes POSIÇÃO NUMA TABELA>\n\n5. Disposições específicas\n\n5.1. Resumo geral do método de amostragem para os amendoins, os frutos de casca rija, os frutos secos e os cereais\n\n>POSIÇÃO NUMA TABELA>\n\n5.2. Amendoins, pistácios, castanhas do Brasil\n\nFigos secos\n\nCereais (lotes &ge; 50 toneladas)\n\n5.2.1. Método de colheita\n\n- Desde que os sublotes possam ser fisicamente separados, cada lote deve ser subdividido em sublotes segundo o quadro 2 constante do ponto 5.1. Dado que a massa dos lotes nem sempre é um múltiplo exacto do peso dos sublotes, a massa dos sublotes pode exceder a massa indicada até um máximo de 20 %.\n\n- Cada sublote deve ser objecto de uma amostragem separada.\n\n- Número de tomas elementares: 100. No caso dos lotes POSIÇÃO NUMA TABELA>\n\n5.3.2. Aceitação de um lote ou sublote\n\nVer ponto 5.2.2.\n\n5.4. Leite\n\n5.4.1. Método de colheita\n\nMétodo de colheita em conformidade com a Decisão 91/180/CEE da Comissão, de 14 de Fevereiro de 1991, que adopta determinados métodos de análise e testes para o leite cru e o leite tratado termicamente (1).\n\n- Número de tomas elementares: mínimo de 5.\n\n- Massa de amostra global: mínimo de 0,5 kg ou litros.\n\n5.4.2. Aceitação de um lote ou sublote\n\n- aceitação se a amostra global não respeitar o limite máximo,\n\n- rejeição se a amostra global exceder o limite máximo.\n\n5.5. Produtos derivados e géneros alimentícios compostos de diversos ingredientes\n\n5.5.1. Produtos lácteos\n\n5.5.1.1. Método de colheita\n\nMétodo de colheita em conformidade com a Directiva 87/524/CEE da Comissão, de 6 de Outubro de 1987, que fixa métodos comunitários de colheita de amostras, com vista à análise química, de leites conservados (2).\n\nNúmero de tomas elementares: mínimo de 5.\n\nPara os outros produtos lácteos, é aplicado um método de colheita equivalente.\n\n5.5.1.2. Aceitação de um lote ou sublote\n\n- aceitação, se a amostra global respeitar o limite máximo,\n\n- rejeição se a amostra global exceder o limite máximo.\n\n5.5.2. Outros produtos derivados que apresentem partículas muito finas, tais como farinha, pasta de figos, pasta de amendoins (distribuição homogénea da contaminação pelas aflatoxinas)\n\n5.5.2.1. Método de colheita\n\n- Número de tomas elementares: 100. Em caso de lotes (1) JO L 93 de 13. 4. 1991, p. 1.\n\n(2) JO L 306 de 28. 10. 1987, p. 24."
+  },
+  "9a2b20efcbb739a5": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nPreparação das amostras e critérios gerais a que devem obedecer os métodos de análise para o controlo oficial dos teores de aflatoxinas de certos géneros alimentícios\n\n1. Introdução\n\n1.1. Precauções\n\nÉ conveniente, na medida do possível, evitar a luz do dia durante a operação, pois a aflatoxina decompõe-se progressivamente sob a influência da luz ultravioleta. Dado que a aflatoxina se distribui de forma extremamente heterogénea, as amostras devem ser preparadas (e sobretudo homogeneizadas) com o maior cuidado.\n\nPara a preparação do produto a testar, deve ser utilizada a totalidade do produto recebido no laboratório.\n\n1.2. Cálculo da proporção de casca/miolo nos frutos de casca rija inteiros\n\nOs limites fixados para as aflatoxinas pelo Regulamento (CE) nº 1525/98 aplicam-se à parte comestível.\n\nO teor de aflatoxinas da parte comestível pode ser determinado do seguinte modo:\n\n- Os frutos de casca rija inteiros constituintes das amostras podem ser descascados e o teor de aflatoxinas analisado na parte comestível.\n\n- O método de preparação da amostra pode aplicar-se ao fruto de casca rija inteiro com a sua casca. O método de amostragem e de análise deve nesse caso incluir a estimativa da massa do miolo do fruto na amostra global. Este valor é estimado mediante a aplicação de um factor adequado que represente a proporção de casca relativamente ao miolo nos frutos inteiros. Essa proporção permite determinar a quantidade de miolo na amostra global utilizada para a preparação e a análise da amostra. Para esse efeito, é colhida do lote ou da amostra global uma centena de frutos de casca rija inteiros. A proporção pode ser obtida pesando aproximadamente 100 frutos inteiros, retirando-lhes a casca e pesando as porções de casca e de miolo. A proporção de casca relativamente ao miolo determinada pelo laboratório pode ser tida em conta nos trabalhos de análise efectudos em seguida. No entanto, a proporção deve ser determinada pelo processo acima descrito se a amostra não espeitar o limite máximo.\n\n2. Tratamento da amostra recebida no laboratório\n\nCada amostra para laboratório colhida deve ser finamente triturada e cuidadosamente misturada segundo um método que garanta uma homogeneização completa.\n\n3. Subdivisão das amostras para medidas executórias e acções de defesa\n\nAs amostras de análise destinadas a medidas executórias, a fins comerciais ou a procedimentos de arbitragem são colhidas das amostras para laboratório homogeneizadas, desde que esse processo esteja em conformidade com as disposições legais em vigor no Estado-membro.\n\n4. Método de análise a utilizar pelo laboratório e requisitos de controlo do laboratório\n\n4.1. Definições\n\nSeguem-se algumas das definições mais frequentemente utilizadas, aplicáveis aos laboratórios.\n\nOs parâmetros de fidelidade mais frequentemente citados são a repetibilidade e a reprodutibilidade.\n\n>POSIÇÃO NUMA TABELA>\n\n4.2. Exigências gerais\n\nOs métodos de análise utilizados para o controlo dos géneros alimentícios devem cumprir na medida do possível as disposições dos pontos 1 e 2 do anexo da Directiva 85/591/CEE.\n\n4.3. Exigências específicas\n\nDesde que não seja prescrito a nível comunitário qualquer método específico para a determinação dos teores de aflatoxinas nos géneros alimentícios, os laboratórios podem escolher o método a utilizar, desde que esse método respeite os seguintes critérios:\n\n>POSIÇÃO NUMA TABELA>\n\nNotas:\n\n- Valores a aplicar tanto a B1 como à soma de B1+B2+G1+G2.\n\n- Se as somas das aflatoxinas individuais B1+B2+G1+G2 tiverem que ser registadas, a taxa de recuperação de cada uma delas por meio do método de análise devem ser conhecidas ou equivalentes.\n\n- Os limites de detecção dos métodos utilizados não são indicados visto que os valores relativos à fidelidade são dados para as concentrações de interesse.\n\n- Os valores relativos à fidelidade são calculados a partir da equação de Horwitz, ou seja:\n\nRSDR = 2 (1-0,5 logC)\n\nem que:\n\n- RSDR é o desvio-padrão relativo calculado a partir dos resultados obtidos em condições de reprodutibilidade [(SR/x) × 100].\n\n- C é a taxa de concentração (isto é, 1 = 100 g/100 g, 0,001 = 1 000 mg/kg).\n\nTrata-se de uma equação geral relativa à fidelidade considerada independente da substância analisada ou da matriz e dependente apenas da concentração no caso da maior parte dos métodos de análise de rotina.\n\n4.4. Cálculo da taxa de recuperação\n\nO resultado analítico é registado corrigido ou não com o valor da taxa de recuperação. O modo de registo e a taxa de recuperação devem ser indicados.\n\n4.5. Normas de qualidde aplicáveis aos laboratórios\n\nOs laboratórios devem obedecer às disposições da Directiva 93/99/CEE."
+  },
+  "4ba720d11f9459d1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1998L0053 — PT — 01.07.2006 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31998L0053) [DIRECTIVA 98/53/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/31998L0053) [de 16 de Julho de 1998](http://publications.europa.eu/resource/celex/31998L0053) [que fixa os métodos de colheita de amostras e os métodos de análise para o controlo oficial dos teores de certos contaminantes nos géneros alimentícios](http://publications.europa.eu/resource/celex/31998L0053) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/31998L0053) (JO L 201, 17.7.1998, p.93)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 401/2006 da Comissão de 23 de Fevereiro de 2006](http://publications.europa.eu/resource/celex/32006R0401) — L 70 — 12 — 9.3.2006"
+  }
+ }
+}

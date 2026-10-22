@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2007-1371.versoes.json
+  count: 1
+  source_lastmod: '2009-12-03'
+  versions:
+  - date: '2007-12-03'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32007R1371
   eli: http://data.europa.eu/eli/reg/2007/1371/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/35db0b59-5156-48d1-ab77-8476f4648eb7.0019
   content_url: http://publications.europa.eu/resource/cellar/35db0b59-5156-48d1-ab77-8476f4648eb7.0019.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:38:19Z'
+  retrieved_at: '2026-10-22T15:09:35Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T21:17:56.064+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:19Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:09:35Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2007-1371.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -237,21 +246,20 @@ relationships:
   date: '2021-05-17'
 article_structure:
   article_count: 37
-  section_count: 16
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 17
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:19Z'
+  checked_at: '2026-10-22T15:09:35Z'
   warnings:
-  - Versão consolidada 02007R1371-20091203 indisponível (Sem expressão na língua por para CELEX 02007R1371-20091203.); usado
-    o texto do JO.
+  - '02007R1371-20091203: versão indisponível (Sem expressão na língua por para CELEX 02007R1371-20091203.)'
   errors: []
 ---
 
-# REGULAMENTO (CE) N.º 1371/2007 DO PARLAMENTO EUROPEU E DO CONSELHO
+# Regulamento (CE) n.° 1371/2007 do Parlamento Europeu e do Conselho, de 23 de Outubro de 2007
 
 de 23 de Outubro de 2007
 

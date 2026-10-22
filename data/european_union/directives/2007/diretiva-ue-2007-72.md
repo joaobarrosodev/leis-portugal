@@ -34,6 +34,24 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-01-03'
+version_history:
+  file: diretiva-ue-2007-72.versoes.json
+  count: 2
+  source_lastmod: '2008-01-03'
+  versions:
+  - date: '2007-12-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-01-03'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Notas
+    - Adita ANEXO
 identifiers:
   celex: 32007L0072
   eli: http://data.europa.eu/eli/dir/2007/72/oj
@@ -48,7 +66,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/385d4435-0fca-4993-88d3-585784e9549d.0018
   content_url: http://publications.europa.eu/resource/cellar/c95a202e-2fe8-4df8-84ff-f7352a140b59.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007L0072-20080103
-  retrieved_at: '2026-10-22T03:13:04Z'
+  retrieved_at: '2026-10-22T15:08:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T20:13:17.187+01:00'
 integrity:
@@ -57,9 +75,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:04Z'
-  notes: Texto consolidado 02007L0072-20080103.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:08:05Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2007-72.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -94,29 +112,19 @@ relationships:
   date: '2008-12-18'
 article_structure:
   article_count: 4
-  section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 2
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:04Z'
+  checked_at: '2026-10-22T15:08:05Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2007/72/CE da Comissão, de 13 de Dezembro de 2007
-
-> 2007L0072 — PT — 03.01.2008 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32007L0072R%2801%29) — [Rectificação, JO L 338, 17.12.2008, p. 79 (07/72)](http://publications.europa.eu/resource/celex/32007L0072R%2801%29)
-
-## DIRECTIVA 2007/72/CE DA COMISSÃO
 
 de 13 de Dezembro de 2007
 

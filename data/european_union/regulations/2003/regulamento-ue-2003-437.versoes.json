@@ -1,0 +1,1156 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003R0437:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R0437-20130701",
+ "dre_path": null,
+ "source_lastmod": "2013-07-01",
+ "versions": [
+  {
+   "date": "2003-03-11",
+   "future": false,
+   "celex": "32003R0437",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7f626f050bf17a40",
+    "46803d8ca0bfa450",
+    "d0a195a1c922a540",
+    "7f3e5ede88ef12ce",
+    "c578741ef82908e7",
+    "ce2dc1573af1f1e6",
+    "58e9e96373f801de",
+    "1e74aebbcc0a6ea7",
+    "962d7e2b3ff8cc4b",
+    "3ff1f3f1176de3a7",
+    "e2cbabb3aeb991ef",
+    "00aa2c6e398da2da",
+    "c3e4d749087817b4",
+    "b9cac144d28ec0b5",
+    "c1db61212e8d5acc"
+   ]
+  },
+  {
+   "date": "2003-08-21",
+   "future": false,
+   "celex": "02003R0437-20030821",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1358:por",
+     "title": "REGULAMENTO (CE) N. o 1358/2003 DA COMISSÃO de 31 de Julho de 2003",
+     "published": null,
+     "celex": "32003R1358"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 12.º — Entrada em vigor",
+    "Adita ANEXO I",
+    "Adita ESTRUTURA DO REGISTO PARA A TRANSMISSÃO DE DADOS AO EUROSTAT",
+    "Adita A. Quadro sobre as etapas de voo [dados mensais",
+    "Adita B. Quadro sobre origem/destino do voo [dados mensais",
+    "Adita C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+    "Adita CÓDIGOS",
+    "Adita 1. País declarante",
+    "Adita 2. Período de referência",
+    "Adita 3. Aeroportos",
+    "Adita 4. Informações sobre a transportadora aérea",
+    "Adita 5. Tipo de aeronave",
+    "Adita ANEXO II",
+    "Adita DEFINIÇÕES E ESTATÍSTICAS A DECLARAR",
+    "Adita I. DEFINIÇÕES E VARIÁVEIS DE INTERESSE GERAL",
+    "Adita 1. Aeroporto comunitário (artigos 1.º e 3.º )",
+    "Adita 2. Voo estatal (artigo 1.º e quadro C1)",
+    "Adita 3. Unidade-passageiro (n.^os^ 2, 4 e 5 do artigo 3.º )",
+    "Adita 4. Serviços comerciais aéreos (artigo 1.º e quadros A1, B1 e C1)",
+    "Adita 5. Serviços de transporte aéreo regulares (quadros A1 e B1)",
+    "Adita 6. Serviços de transporte aéreo não regulares (quadros A1 e B1)",
+    "Adita 7. Serviços de transporte aéreo de passageiros (quadros A1 e B1)",
+    "Adita 8. Serviços polivalentes de carga e correio (quadros A1 e B1)",
+    "Adita 9. Transportadora aérea (Operador de transporte aéreo comercial) (quadros A1, B1 e C1)",
+    "Adita II. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO A1 (ETAPAS DE VOO)",
+    "Adita 10. Etapa de voo (quadro A1)",
+    "Adita 11. Passageiros a bordo (quadro A1)",
+    "Adita 12. Carga e correio a bordo (quadro A1)",
+    "Adita 13. Voo comercial (quadro A1)",
+    "Adita 14. Lugares de passageiro disponíveis (quadro A1)",
+    "Adita III. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO B1 (ORIGEM E DESTINO DO VOO) E AO QUADRO C1 (AEROPORTOS)",
+    "Adita 15. Origem e destino do voo (quadro B1)",
+    "Adita 16. Passageiros transportados (quadros B1 e C1)",
+    "Adita 17. Carga e correio carregados ou descarregados (quadros B1 e C1)",
+    "Adita 18. Passageiros em trânsito directo (quadro C1)",
+    "Adita 19. Total dos movimentos de aeronaves comerciais (quadro C1)",
+    "Adita 20. Total dos movimentos de aeronaves (quadro C1)",
+    "Adita Notas",
+    "Suprime ANEXO I — ESTRUTURA DO REGISTO PARA A TRANSMISSÃO DE DADOS AO EUROSTAT",
+    "Suprime ANEXO II — DEFINIÇÕES"
+   ],
+   "fragments": [
+    "16cb5424deef0493",
+    "46803d8ca0bfa450",
+    "d0a195a1c922a540",
+    "b783de8b97389e1c",
+    "c578741ef82908e7",
+    "cc5861a8f856c269",
+    "017254c9648ff461",
+    "352e68e6a4223583",
+    "baf9582d6fa8d0d0",
+    "152ca529b1772f4f",
+    "0d367f53b80bcd7c",
+    "966c6b8d9b773728",
+    "ff5bac62c3ea866c",
+    "d664376e2a8dcecd",
+    "0c3fdc73195439f4",
+    "91dcb17e89566081",
+    "d84267e49c71e70b",
+    "d5a8eb3617fe2f54",
+    "8da4e80438b8ad3a",
+    "cffad13810ca7c7b",
+    "ccf059dd05352008",
+    "1fdd5477b5db7c89",
+    "c9ac0bc37bb2ae4a",
+    "3a2510ad2c959658",
+    "852174729551523b",
+    "72226cf05500f904",
+    "74e420fba9747816",
+    "cbe16eba26bda31b",
+    "5cac24d24327e91e",
+    "a265253fa1225194",
+    "b012ea7053f06477",
+    "18f545376d2124e7",
+    "324ff1cd7b6de4fe",
+    "4bf19f885fb7f1e1",
+    "91f2652951b07d9b",
+    "498f555c4532fcab",
+    "fca78f23f68bd8bb",
+    "5cd81c5f269cc72e",
+    "b8e109f88f345294",
+    "2fff963154b0186e",
+    "56c78f376c831698",
+    "c87da777cc28b8a3",
+    "67f26413cd751e14",
+    "3c77af7642043e76",
+    "aaca4e454d3d00a4",
+    "c808127464eebbef",
+    "95ec9f6ae198b224",
+    "61c960d8d3e51953",
+    "cc5aeb772a701e01",
+    "2f054117237e14f3"
+   ]
+  },
+  {
+   "date": "2005-04-29",
+   "future": false,
+   "celex": "02003R0437-20050429",
+   "acts": [
+    {
+     "id": "eu:celex:32005R0546:por",
+     "title": "REGULAMENTO (CE) N. o 546/2005 DA COMISSÃO de 8 de Abril de 2005",
+     "published": null,
+     "celex": "32005R0546"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+    "Altera 1. País declarante",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "49b048983bdcc9d1",
+    "46803d8ca0bfa450",
+    "d0a195a1c922a540",
+    "b783de8b97389e1c",
+    "c578741ef82908e7",
+    "cc5861a8f856c269",
+    "017254c9648ff461",
+    "352e68e6a4223583",
+    "baf9582d6fa8d0d0",
+    "152ca529b1772f4f",
+    "0d367f53b80bcd7c",
+    "966c6b8d9b773728",
+    "ff5bac62c3ea866c",
+    "d664376e2a8dcecd",
+    "0c3fdc73195439f4",
+    "91dcb17e89566081",
+    "d84267e49c71e70b",
+    "3126d4d04cb75313",
+    "8da4e80438b8ad3a",
+    "97034b643d35c7ab",
+    "ccf059dd05352008",
+    "1fdd5477b5db7c89",
+    "c9ac0bc37bb2ae4a",
+    "3a2510ad2c959658",
+    "852174729551523b",
+    "72226cf05500f904",
+    "74e420fba9747816",
+    "cbe16eba26bda31b",
+    "5cac24d24327e91e",
+    "a265253fa1225194",
+    "b012ea7053f06477",
+    "18f545376d2124e7",
+    "324ff1cd7b6de4fe",
+    "4bf19f885fb7f1e1",
+    "91f2652951b07d9b",
+    "498f555c4532fcab",
+    "fca78f23f68bd8bb",
+    "5cd81c5f269cc72e",
+    "b8e109f88f345294",
+    "2fff963154b0186e",
+    "56c78f376c831698",
+    "c87da777cc28b8a3",
+    "67f26413cd751e14",
+    "3c77af7642043e76",
+    "aaca4e454d3d00a4",
+    "c808127464eebbef",
+    "95ec9f6ae198b224",
+    "61c960d8d3e51953",
+    "cc5aeb772a701e01",
+    "e701cfc0f5de37e5"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "02003R0437-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32006R1791:por",
+     "title": "VERORDNUNG (EG) NR. 1791/2006 DES RATES vom 20. November 2006",
+     "published": null,
+     "celex": "32006R1791"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+    "Altera 1. País declarante",
+    "Altera Notas",
+    "Adita A. Quadro sobre as etapas de voo [dados mensais ([^8^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0008))]",
+    "Adita B. Quadro sobre origem/destino do voo [dados mensais ([^9^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0009))]",
+    "Suprime A. Quadro sobre as etapas de voo [dados mensais",
+    "Suprime B. Quadro sobre origem/destino do voo [dados mensais"
+   ],
+   "fragments": [
+    "9b7d3fee39c9c45b",
+    "46803d8ca0bfa450",
+    "d0a195a1c922a540",
+    "b783de8b97389e1c",
+    "c578741ef82908e7",
+    "cc5861a8f856c269",
+    "017254c9648ff461",
+    "352e68e6a4223583",
+    "baf9582d6fa8d0d0",
+    "152ca529b1772f4f",
+    "0d367f53b80bcd7c",
+    "966c6b8d9b773728",
+    "ff5bac62c3ea866c",
+    "d664376e2a8dcecd",
+    "0c3fdc73195439f4",
+    "1afbeb603c6df8ef",
+    "0c7a2201971f288b",
+    "b09ff497e4a193a9",
+    "8da4e80438b8ad3a",
+    "bca4bb797d8b0a39",
+    "ccf059dd05352008",
+    "1fdd5477b5db7c89",
+    "c9ac0bc37bb2ae4a",
+    "3a2510ad2c959658",
+    "852174729551523b",
+    "72226cf05500f904",
+    "74e420fba9747816",
+    "cbe16eba26bda31b",
+    "5cac24d24327e91e",
+    "a265253fa1225194",
+    "b012ea7053f06477",
+    "18f545376d2124e7",
+    "324ff1cd7b6de4fe",
+    "4bf19f885fb7f1e1",
+    "91f2652951b07d9b",
+    "498f555c4532fcab",
+    "fca78f23f68bd8bb",
+    "5cd81c5f269cc72e",
+    "b8e109f88f345294",
+    "2fff963154b0186e",
+    "56c78f376c831698",
+    "33d1b04be9bce190",
+    "67f26413cd751e14",
+    "3c77af7642043e76",
+    "aaca4e454d3d00a4",
+    "c808127464eebbef",
+    "95ec9f6ae198b224",
+    "61c960d8d3e51953",
+    "cc5aeb772a701e01",
+    "5d027313b6873e1c"
+   ]
+  },
+  {
+   "date": "2009-04-20",
+   "future": false,
+   "celex": "02003R0437-20090420",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0219:por",
+     "title": "REGULAMENTO (CE) N. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009",
+     "published": null,
+     "celex": "32009R0219"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º — Exactidão das estatísticas",
+    "Altera Artigo 7.º — Transmissão dos resultados",
+    "Altera Artigo 11.º — Procedimento de comité",
+    "Altera C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+    "Altera Notas",
+    "Adita Artigo 10.º — Medidas de execução",
+    "Adita A. Quadro sobre as etapas de voo [dados mensais ([^8^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0008))]",
+    "Adita B. Quadro sobre origem/destino do voo [dados mensais ([^9^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0009))]",
+    "Suprime Artigo 10.º — Disposições de execução",
+    "Suprime A. Quadro sobre as etapas de voo [dados mensais ([^8^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0008))]",
+    "Suprime B. Quadro sobre origem/destino do voo [dados mensais ([^9^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0009))]"
+   ],
+   "fragments": [
+    "df4c1dc959c6abda",
+    "46803d8ca0bfa450",
+    "d0a195a1c922a540",
+    "b783de8b97389e1c",
+    "c578741ef82908e7",
+    "62027570ac7c857f",
+    "017254c9648ff461",
+    "5b44b8a97cce760f",
+    "baf9582d6fa8d0d0",
+    "152ca529b1772f4f",
+    "4d2696ae90051d80",
+    "c88abc912225849d",
+    "ff5bac62c3ea866c",
+    "d664376e2a8dcecd",
+    "0c3fdc73195439f4",
+    "e65e2682613c41df",
+    "7f3195c283d04b73",
+    "c2c8244451947660",
+    "8da4e80438b8ad3a",
+    "bca4bb797d8b0a39",
+    "ccf059dd05352008",
+    "1fdd5477b5db7c89",
+    "c9ac0bc37bb2ae4a",
+    "3a2510ad2c959658",
+    "852174729551523b",
+    "72226cf05500f904",
+    "74e420fba9747816",
+    "cbe16eba26bda31b",
+    "5cac24d24327e91e",
+    "a265253fa1225194",
+    "b012ea7053f06477",
+    "18f545376d2124e7",
+    "324ff1cd7b6de4fe",
+    "4bf19f885fb7f1e1",
+    "91f2652951b07d9b",
+    "498f555c4532fcab",
+    "fca78f23f68bd8bb",
+    "5cd81c5f269cc72e",
+    "b8e109f88f345294",
+    "2fff963154b0186e",
+    "56c78f376c831698",
+    "33d1b04be9bce190",
+    "67f26413cd751e14",
+    "3c77af7642043e76",
+    "aaca4e454d3d00a4",
+    "c808127464eebbef",
+    "95ec9f6ae198b224",
+    "61c960d8d3e51953",
+    "cc5aeb772a701e01",
+    "7dbda8cabf45feac"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "02003R0437-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0517:por",
+     "title": "REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013",
+     "published": null,
+     "celex": "32013R0517"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+    "Altera 1. País declarante",
+    "Altera 14. Lugares de passageiro disponíveis (quadro A1)",
+    "Altera Notas",
+    "Adita A. Quadro sobre as etapas de voo [dados mensais ([^8^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#E0008))]",
+    "Adita B. Quadro sobre origem/destino do voo [dados mensais ([^9^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#E0009))]",
+    "Suprime A. Quadro sobre as etapas de voo [dados mensais ([^8^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0008))]",
+    "Suprime B. Quadro sobre origem/destino do voo [dados mensais ([^9^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0009))]"
+   ],
+   "fragments": [
+    "f2abd1a1dc18f2d0",
+    "46803d8ca0bfa450",
+    "d0a195a1c922a540",
+    "b783de8b97389e1c",
+    "c578741ef82908e7",
+    "62027570ac7c857f",
+    "017254c9648ff461",
+    "5b44b8a97cce760f",
+    "baf9582d6fa8d0d0",
+    "152ca529b1772f4f",
+    "4d2696ae90051d80",
+    "c88abc912225849d",
+    "ff5bac62c3ea866c",
+    "d664376e2a8dcecd",
+    "0c3fdc73195439f4",
+    "645da6e7eaf5919f",
+    "088d8f192dd1a1b3",
+    "30b38e12a9b77af5",
+    "8da4e80438b8ad3a",
+    "46d14b38c91c6977",
+    "ccf059dd05352008",
+    "1fdd5477b5db7c89",
+    "c9ac0bc37bb2ae4a",
+    "3a2510ad2c959658",
+    "852174729551523b",
+    "72226cf05500f904",
+    "74e420fba9747816",
+    "cbe16eba26bda31b",
+    "5cac24d24327e91e",
+    "a265253fa1225194",
+    "b012ea7053f06477",
+    "18f545376d2124e7",
+    "324ff1cd7b6de4fe",
+    "4bf19f885fb7f1e1",
+    "91f2652951b07d9b",
+    "498f555c4532fcab",
+    "fca78f23f68bd8bb",
+    "5cd81c5f269cc72e",
+    "b8e109f88f345294",
+    "2fff963154b0186e",
+    "56c78f376c831698",
+    "5b721f21b0a854ca",
+    "67f26413cd751e14",
+    "3c77af7642043e76",
+    "aaca4e454d3d00a4",
+    "c808127464eebbef",
+    "95ec9f6ae198b224",
+    "61c960d8d3e51953",
+    "cc5aeb772a701e01",
+    "e85e5d03eec5661c"
+   ]
+  }
+ ],
+ "fragments": {
+  "7f626f050bf17a40": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 437/2003 do Parlamento Europeu e do Conselho, de 27 de Fevereiro de 2003, relativo às estatísticas sobre o transporte aéreo de passageiros, carga e correio** *Jornal Oficial nº L 066 de 11/03/2003 p. 0001 - 0008*\n\nRegulamento (CE) n.o 437/2003 do Parlamento Europeu e do Conselho\n\nde 27 de Fevereiro de 2003\n\nrelativo às estatísticas sobre o transporte aéreo de passageiros, carga e correio\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 285.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social Europeu(2),\n\nDeliberando nos termos do artigo 251.o do Tratado(3),\n\nConsiderando o seguinte:\n\n(1) Para efectuar as tarefas que lhes foram atribuídas no contexto da política comunitária do transporte aéreo e da futura evolução da política comum dos transportes, as instituições da Comunidade devem ter à sua disposição dados estatísticos comparáveis, coerentes, compatíveis e regulares acerca do volume e da evolução do transporte aéreo de passageiros, carga e correio intra e extracomunitário.\n\n(2) Actualmente, não existem essas estatísticas exaustivas a nível comunitário.\n\n(3) A Decisão 1999/126/CE do Conselho, de 22 de Dezembro de 1998, relativa ao programa estatístico comunitário de 1998 a 2002(4), determinou que é necessário elaborar tais estatísticas exaustivas.\n\n(4) A recolha comum de dados numa base comparável ou harmonizada permite a criação de um sistema integrado com informação fiável, coerente e de rápido acesso.\n\n(5) Os dados sobre o transporte aéreo de passageiros, carga e correio devem, sempre que possível, ser compatíveis com os dados internacionais fornecidos pela Organização da Aviação Civil (Internacional OACI) e permitir comparações, sempre que necessário, entre os Estados-Membros e relativamente aos diferentes modos de transporte.\n\n(6) Após determinado período, a Comissão deve apresentar um relatório com vista a permitir uma avaliação da execução do presente regulamento.\n\n(7) Em conformidade com o princípio da subsidiariedade estabelecido no artigo 5.o do Tratado, a criação de normas estatísticas comuns que permitam a produção de dados harmonizados é uma acção que só a nível comunitário pode ser eficientemente efectuada. Tais normas devem ser implementadas em cada Estado-Membro sob a autoridade dos organismos e instituições encarregados da produção de estatísticas oficiais.\n\n(8) O Regulamento (CE) n.o 322/97 do Conselho, de 17 de Fevereiro de 1997, relativo às estatísticas comunitárias(5), estabelece o quadro de referência para o disposto no presente regulamento.\n\n(9) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(6).\n\n(10) O Comité do Programa Estatístico criado pela Decisão 89/382/CEE, Euratom(7) foi consultado.\n\n(11) Através de uma declaração conjunta dos respectivos ministros dos Negócios Estrangeiros feita em Londres em 2 de Dezembro de 1987, o Reino de Espanha e o Reino Unido chegaram a acordo sobre um regime para reforçar a cooperação na utilização do aeroporto de Gibraltar, não tendo ainda o referido regime começado a ser aplicado,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "46803d8ca0bfa450": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nOs Estados-Membros devem elaborar estatísticas sobre o transporte de passageiros, carga e correio pelos serviços comerciais aéreos, bem como sobre o movimento civil de aeronaves com destino a ou provenientes de aeroportos comunitários, com exclusão dos voos efectuados por aeronaves de Estado."
+  },
+  "d0a195a1c922a540": {
+   "fragment_id": "Artigo 2.º — Gibraltar",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Gibraltar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Gibraltar\n\n1. A aplicação do presente regulamento ao aeroporto de Gibraltar entende-se sem prejuízo das posições jurídicas do Reino de Espanha e do Reino Unido relativamente ao diferendo sobre a soberania do território em que o aeroporto se encontra situado.\n\n2. A aplicação do presente regulamento ao aeroporto de Gibraltar fica suspensa até que seja aplicado o regime previsto na declaração conjunta dos ministros dos Negócios Estrangeiros do Reino de Espanha e do Reino Unido de 2 de Dezembro de 1987. Os Governos de Espanha e do Reino Unido devem informar o Conselho da data de entrada em aplicação desse regime."
+  },
+  "7f3e5ede88ef12ce": {
+   "fragment_id": "Artigo 3.º — Características da recolha dos dados",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Características da recolha dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Características da recolha dos dados\n\n1. Cada Estado-Membro deve proceder à recolha dos dados estatísticos, abrangendo as seguintes variáveis:\n\na) Passageiros;\n\nb) Carga e correio;\n\nc) Etapas de voo;\n\nd) Lugares de passageiros disponíveis;\n\ne) Movimentos de aeronaves.\n\nAs variáveis estatísticas de cada área, as nomenclaturas para a sua classificação, a periodicidade das suas observações e as definições figuram nos anexos I e II.\n\n2. Cada Estado-Membro deve recolher todos os dados que figuram no anexo I relativos a todos os aeroportos comunitários no respectivo território com um tráfego anual superior a 150000 unidades-passageiro.\n\nA Comissão deve elaborar e, se necessário, actualizar, nos termos do n.o 2 do artigo 11.o, a lista dos aeroportos comunitários abrangidos pelo primeiro parágrafo.\n\n3. No que respeita aos aeroportos, excluindo os que apenas registam um tráfego comercial ocasional, não abrangidos pelo disposto no n.o 2, os Estados-Membros apenas devem transmitir um registo anual dos dados referidos no quadro C 1 do anexo I.\n\n4. Sem prejuízo dos n.os 2 e 3, no que respeita aos aeroportos:\n\na) Com um movimento anual inferior a 1500000 unidades-passageiro, para os quais, à data de entrada em vigor do presente regulamento, não haja uma recolha de dados correspondentes aos especificados no anexo I; e\n\nb) Para os quais a instauração de um novo sistema de recolha de dados levante grandes dificuldades,\n\nos Estados-Membros podem, durante um período limitado e nunca superior a três anos após 1 de Janeiro de 2003, nos termos do n.o 2 do artigo 11.o, transmitir dados menos completos do que os referidos no anexo I.\n\n5. Sem prejuízo do n.o 2, no que respeita aos aeroportos:\n\na) Para os quais, à data de entrada em vigor do presente regulamento, não haja uma recolha de dados correspondentes aos especificados no quadro B 1 do anexo I; e\n\nb) Para os quais a instauração de um novo sistema de recolha de dados levante grandes dificuldades,\n\nos Estados-Membros podem, até 31 de Dezembro de 2003, nos termos do n.o 2 do artigo 11.o, transmitir apenas os dados existentes."
+  },
+  "c578741ef82908e7": {
+   "fragment_id": "Artigo 4.º — Recolha de dados",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Recolha de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Recolha de dados\n\n1. A recolha de dados deve basear-se, se possível, em fontes disponíveis, a fim de reduzir ao mínimo o ónus para os inquiridos.\n\n2. Os inquiridos a quem os Estados-Membros solicitem informações devem fornecer dados verdadeiros e completos, nos prazos fixados."
+  },
+  "ce2dc1573af1f1e6": {
+   "fragment_id": "Artigo 5.º — Exactidão das estatísticas",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Exactidão das estatísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Exactidão das estatísticas\n\nA recolha de dados deve basear-se em registos completos, a menos que sejam fixadas outras normas de exactidão nos termos do n.o 2 do artigo 11.o"
+  },
+  "58e9e96373f801de": {
+   "fragment_id": "Artigo 6.º — Processamento de dados",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Processamento de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Processamento de dados\n\nOs métodos de processamento dos dados utilizados pelos Estados-Membros devem garantir que os dados recolhidos ao abrigo do artigo 3.o obedeçam às normas de exactidão a que se refere o artigo 5.o"
+  },
+  "1e74aebbcc0a6ea7": {
+   "fragment_id": "Artigo 7.º — Transmissão dos resultados",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Transmissão dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transmissão dos resultados\n\n1. Os Estados-Membros devem transmitir ao Serviço de Estatística das Comunidades Europeias os resultados do processamento de dados a que se refere o artigo 6.o, incluindo os dados por eles declarados confidenciais nos termos da legislação ou das práticas nacionais em matéria de confidencialidade estatística, em conformidade com o disposto no Regulamento (CE) n.o 322/97.\n\n2. Os resultados devem ser transmitidos em conformidade com os ficheiros de dados que figuram no anexo I. Os ficheiros e o meio a utilizar para a transmissão devem ser estabelecidos pela Comissão, nos termos do n.o 2 do artigo 11.o\n\n3. O primeiro período de observação deve ter início em 1 de Janeiro de 2003. A transmissão deve ser efectuada logo que possível, o mais tardar nos seis meses após o termo do período de observação."
+  },
+  "962d7e2b3ff8cc4b": {
+   "fragment_id": "Artigo 8.º — Divulgação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Divulgação\n\n1. As disposições relativas à publicação ou à divulgação dos resultados estatísticos pela Comissão são determinadas nos termos do n.o 2 do artigo 11.o\n\n2. A Comissão divulga junto dos Estados-Membros os resultados estatísticos adequados com periodicidade análoga à prevista para a transmissão dos resultados."
+  },
+  "3ff1f3f1176de3a7": {
+   "fragment_id": "Artigo 9.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Relatório\n\n1. Os Estados-Membros devem comunicar, a pedido da Comissão, todas as informações relativas aos métodos utilizados na recolha dos dados. Se necessário, devem comunicar também à Comissão as alterações de fundo introduzidas nos métodos de recolha utilizados.\n\n2. Após três anos de recolha de dados, a Comissão deve apresentar um relatório ao Parlamento Europeu e ao Conselho sobre a experiência adquirida com a execução do presente regulamento, em especial a execução dos artigos 7.o e 8.o"
+  },
+  "e2cbabb3aeb991ef": {
+   "fragment_id": "Artigo 10.º — Disposições de execução",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disposições de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições de execução\n\nAs disposições de execução do presente regulamento, incluindo as medidas para a sua adaptação à evolução económica e técnica, em especial:\n\n- a adaptação das especificações que figuram nos anexos,\n\n- a adaptação das características da recolha dos dados (artigo 3.o),\n\n- a lista dos aeroportos comunitários abrangidos pelo n.o 2 do artigo 3.o,\n\n- a exactidão das estatísticas (artigo 5.o),\n\n- a descrição dos ficheiros de dados, dos códigos e do meio a utilizar para a transmissão dos resultados à Comissão (artigo 7.o),\n\n- a divulgação de resultados estatísticos (artigo 8.o),\n\nserão aprovadas pela Comissão nos termos do n.o 2 do artigo 11.o"
+  },
+  "00aa2c6e398da2da": {
+   "fragment_id": "Artigo 11.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité do Programa Estatístico criado pelo artigo 1.o da Decisão 89/382/CEE, Euratom.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.o\n\nO período previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "c3e4d749087817b4": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente regulamento entra em vigor 20 dias após a sua publicação no Jornal Oficial da União Europeia.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 27 de Fevereiro de 2003.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nP. Cox\n\nPelo Conselho\n\nO Presidente\n\nM. Chrisochoïdis\n\n(1) JO C 325 de 6.12.1995, p. 11.\n\n(2) JO C 39 de 12.2.1996, p. 25.\n\n(3) Parecer do Parlamento Europeu de 29 de Fevereiro de 1996 (JO C 78 de 18.3.1996, p. 28), confirmado em 16 de Setembro de 1999 (JO C 54 de 25.2.2000, p. 79), posição comum do Conselho de 30 de Setembro de 2002 (JO C 275 E de 12.11.2002, p. 33) e decisão do Parlamento Europeu de 18 de Dezembro de 2002 (ainda não publicada no Jornal Oficial).\n\n(4) JO L 42 de 16.2.1999, p. 1.\n\n(5) JO L 52 de 22.2.1997, p. 1.\n\n(6) JO L 184 de 17.7.1999, p. 23.\n\n(7) JO L 181 de 28.6.1989, p. 47."
+  },
+  "b9cac144d28ec0b5": {
+   "fragment_id": "ANEXO I — ESTRUTURA DO REGISTO PARA A TRANSMISSÃO DE DADOS AO EUROSTAT",
+   "type": "divisao",
+   "heading": "ANEXO I — ESTRUTURA DO REGISTO PARA A TRANSMISSÃO DE DADOS AO EUROSTAT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — ESTRUTURA DO REGISTO PARA A TRANSMISSÃO DE DADOS AO EUROSTAT\n\nA. BASE DE DADOS SOBRE AS ETAPAS DE VOO (PELO MENOS, DADOS TRIMESTRAIS)\n\nOs dados relativos às \"etapas de voo\" só dizem respeito a serviços comerciais aéreos.\n\nFormato de registo do ficheiro de dados\n\n>POSIÇÃO NUMA TABELA>\n\nB. BASE DE DADOS SOBRE ORIGEM/DESTINO DO VOO (PELO MENOS, DADOS TRIMESTRAIS)\n\nOs dados relativos à \"origem/destino de voo\" só dizem respeito a serviços comerciais aéreos.\n\nFormato de registo do ficheiro de dados\n\n>POSIÇÃO NUMA TABELA>\n\nC. BASE DE DADOS SOBRE OS AEROPORTOS (PELO MENOS, DADOS ANUAIS)\n\nOs dados relativos aos \"aeroportos\" só dizem respeito a serviços comerciais aéreos, com excepção do \"total dos movimentos de aeronaves\" que se refere a todos os movimentos de aeronaves.\n\nFormato de registo do ficheiro de dados\n\n>POSIÇÃO NUMA TABELA>\n\nNOTAS\n\n1. País declarante\n\nO sistema de codificação a usar é o do índice OACI das letras de nacionalidade para os indicadores de localização.\n\nBélgica EB\n\nDinamarca EK\n\nFrança LF\n\nAlemanha ED\n\nGrécia LG\n\nIrlanda EI\n\nItália LI\n\nLuxemburgo EL\n\nPaíses Baixos EH\n\nPortugal LP\n\nEspanha LE\n\nReino Unido EG\n\nÁustria LO\n\nFinlândia EF\n\nSuécia ES\n\n2. Período de referência\n\n45 Ano\n\n21 Janeiro-Março (primeiro trimestre)\n\n22 Abril-Junho (segundo trimestre)\n\n23 Julho-Setembro (terceiro trimestre)\n\n24 Outubro-Dezembro (quarto trimestre)\n\n1 a 12 Janeiro a Dezembro (mês)\n\n3. Aeroportos\n\nOs aeroportos devem ser codificados segundo os códigos OACI de 4 letras, constantes do documento OACI 7910.\n\n4. Informações sobre a transportadora aérea\n\nInformações relacionadas com a transportadora aérea. A codificação desta variável deve ser decidida nos termos do n.o 2 do artigo 11.o\n\n5. Tipo de aeronave\n\nOs tipos de aeronaves devem ser codificados segundo os descritores OACI do tipo de aeronave, constantes do documento OACI 8643."
+  },
+  "c1db61212e8d5acc": {
+   "fragment_id": "ANEXO II — DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "ANEXO II — DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — DEFINIÇÕES\n\nAeroporto comunitário\n\nTodas as zonas de um Estado-Membro abrangidas pelas disposições do Tratado e abertas às operações comerciais de transporte aéreo.\n\nServiços comerciais aéreos\n\nVoo ou séries de voos efectuados por aeronaves civis, a título oneroso, com destino a ou provenientes de aeroportos comunitários. Os serviços podem ser regulares ou não regulares.\n\nServiços regulares\n\nServiços que reúnam todas as seguintes características:\n\n1. Serem realizados por meio de aeronaves destinadas ao transporte de passageiros, carga e/ou correio a título oneroso, de forma a que em cada voo existam lugares disponíveis para aquisição individual pelo público (directamente na transportadora aérea ou através dos agentes autorizados).\n\n2. Serem explorados de modo a assegurar o tráfego entre os mesmos dois ou mais aeroportos:\n\na) Quer de acordo com um horário publicado;\n\nb) Quer mediante voos que, pela sua regularidade ou frequência, constituam, de forma patente, uma série sistemática.\n\nServiços não regulares\n\nServiços a título oneroso que não reúnam todas as características exigidas no título \"Serviços regulares\". Neles se incluem os táxis aéreos.\n\nServiços de passageiros\n\nTodos os voos que transportem um ou mais passageiros a título oneroso, bem como todos os voos que figurem nos horários na qualidade de fornecedores de serviços de passageiros.\n\nServiços polivalentes de carga e correio\n\nServiços relativos a serviços regulares ou não regulares, efectuados por aeronaves que transportem carga e/ou correio, mas não passageiros.\n\nVoos efectuados por aeronaves de Estado\n\nTodos os voos efectuados ao abrigo de serviços militares, aduaneiros, policiais, protocolares ou de extinção de incêndios.\n\nUnidade-passageiro\n\nPara a elaboração da lista de aeroportos comunitários referida no n.o 2 do artigo 3.o e para os efeitos do período de transição fixado no n.o 4 do artigo 3.o, uma unidade-passageiro equivale a um passageiro ou a 90 kg de carga e correio.\n\nTransportadora aérea\n\nEmpresa de transporte aéreo titular de uma licença de exploração válida. Sempre que as transportadoras aéreas possuam acordos de joint-venture ou outros acordos contratuais que exijam que duas ou mais delas assumam responsabilidade separada pela oferta e venda de produtos de transporte aéreo para um voo ou uma série de voos, deve ser declarada a transportadora aérea que assegura efectivamente o voo.\n\nEtapa de voo\n\nUma etapa de voo corresponde ao voo de uma aeronave desde a descolagem até à aterragem seguinte. As escalas técnicas não são tomadas em consideração na classificação das etapas de voo. A classificação do tráfego, independentemente da sua natureza (passageiros, carga e correio), deve ser idêntica à classificação da etapa de voo efectuada pela aeronave.\n\nVoos\n\nNúmero de voos efectuados entre cada par de aeroportos numa etapa de voo.\n\nPassageiros a bordo\n\nTodos os passageiros cuja viagem se inicie ou termine no aeroporto declarante, incluindo os passageiros com ligações e os passageiros em trânsito directo.\n\nPassageiros em trânsito directo\n\nPassageiros que continuam a sua viagem num voo que possui o mesmo número daquele em que chegaram.\n\nCarga e correio a bordo\n\nMercadoria transportada por uma aeronave, excepto as provisões de bordo e a bagagem, incluindo os serviços expresso e as malas diplomáticas, mas não a bagagem dos passageiros.\n\nLugares de passageiro disponíveis\n\nNúmero total de lugares de passageiro disponíveis para venda entre cada par de aeroportos numa etapa de voo (excluindo os lugares não efectivamente disponíveis para transporte de passageiros devido aos limites de peso máximo bruto). Podem ser fornecidos dados estimativos sempre que não se dispuser de informação sobre a exacta configuração de lugares da aeronave.\n\nOrigem/destino do voo\n\nTráfego num determinado voo com o mesmo número de voo subdividido por pares de aeroportos, em conformidade com o ponto de embarque e o ponto de desembarque desse voo (para os passageiros ou a carga cujo aeroporto de embarque se desconheça, deve considerar-se o ponto de embarque como a origem da aeronave; do mesmo modo, se se desconhecer o aeroporto de desembarque, deve considerar-se o ponto de desembarque como o destino da aeronave).\n\nPassageiros transportados\n\nInclui todos os passageiros cuja viagem se inicie ou termine no aeroporto declarante. Exclui os passageiros em trânsito directo.\n\nCarga e correio carregados/descarregados\n\nTodas as mercadorias carregadas numa aeronave ou dela descarregadas, excepto as provisões de bordo e a bagagem. Inclui os serviços expresso e as malas diplomáticas, mas não a bagagem dos passageiros.\n\nTotal dos movimentos de aeronaves\n\nTodas as descolagens e aterragens de aeronaves não militares. Inclui os voos de trabalho aéreo, isto é, os voos comerciais especializados em missões especiais, principalmente nas áreas da agricultura, construção, fotografia e levantamentos topográficos, bem como da formação de pilotos, os voos fretados por empresas e todos os outros voos não comerciais.\n\nTotal dos movimentos de aeronaves em serviços comerciais aéreos\n\nTodas as descolagens e aterragens efectuadas por aeronaves civis a título oneroso."
+  },
+  "16cb5424deef0493": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Fevereiro de 2003\n\nrelativo às estatísticas sobre o transporte aéreo de passageiros, carga e correio\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 285.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/6d6b5bed-746b-4b08-85f2-fd7a7068c361.0010.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/6d6b5bed-746b-4b08-85f2-fd7a7068c361.0010.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/6d6b5bed-746b-4b08-85f2-fd7a7068c361.0010.03/DOC_1#E0003)),\n\n(1) Para efectuar as tarefas que lhes foram atribuídas no contexto da política comunitária do transporte aéreo e da futura evolução da política comum dos transportes, as instituições da Comunidade devem ter à sua disposição dados estatísticos comparáveis, coerentes, compatíveis e regulares acerca do volume e da evolução do transporte aéreo de passageiros, carga e correio intra e extracomunitário.\n\n(2) Actualmente, não existem essas estatísticas exaustivas a nível comunitário.\n\n(3) A Decisão 1999/126/CE do Conselho, de 22 de Dezembro de 1998, relativa ao programa estatístico comunitário de 1998 a 2002 ([^4^](http://publications.europa.eu/resource/cellar/6d6b5bed-746b-4b08-85f2-fd7a7068c361.0010.03/DOC_1#E0004)), determinou que é necessário elaborar tais estatísticas exaustivas.\n\n(4) A recolha comum de dados numa base comparável ou harmonizada permite a criação de um sistema integrado com informação fiável, coerente e de rápido acesso.\n\n(5) Os dados sobre o transporte aéreo de passageiros, carga e correio devem, sempre que possível, ser compatíveis com os dados internacionais fornecidos pela Organização da Aviação Civil (Internacional OACI) e permitir comparações, sempre que necessário, entre os Estados-Membros e relativamente aos diferentes modos de transporte.\n\n(6) Após determinado período, a Comissão deve apresentar um relatório com vista a permitir uma avaliação da execução do presente regulamento.\n\n(7) Em conformidade com o princípio da subsidiariedade estabelecido no artigo 5.º do Tratado, a criação de normas estatísticas comuns que permitam a produção de dados harmonizados é uma acção que só a nível comunitário pode ser eficientemente efectuada. Tais normas devem ser implementadas em cada Estado-Membro sob a autoridade dos organismos e instituições encarregados da produção de estatísticas oficiais.\n\n(8) O Regulamento (CE) n.º 322/97 do Conselho, de 17 de Fevereiro de 1997, relativo às estatísticas comunitárias ([^5^](http://publications.europa.eu/resource/cellar/6d6b5bed-746b-4b08-85f2-fd7a7068c361.0010.03/DOC_1#E0005)), estabelece o quadro de referência para o disposto no presente regulamento.\n\n(9) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/6d6b5bed-746b-4b08-85f2-fd7a7068c361.0010.03/DOC_1#E0006)).\n\n(10) O Comité do Programa Estatístico criado pela Decisão 89/382/CEE, Euratom ([^7^](http://publications.europa.eu/resource/cellar/6d6b5bed-746b-4b08-85f2-fd7a7068c361.0010.03/DOC_1#E0007)) foi consultado.\n\n(11) Através de uma declaração conjunta dos respectivos ministros dos Negócios Estrangeiros feita em Londres em 2 de Dezembro de 1987, o Reino de Espanha e o Reino Unido chegaram a acordo sobre um regime para reforçar a cooperação na utilização do aeroporto de Gibraltar, não tendo ainda o referido regime começado a ser aplicado,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "b783de8b97389e1c": {
+   "fragment_id": "Artigo 3.º — Características da recolha dos dados",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Características da recolha dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Características da recolha dos dados\n\n1. Cada Estado-Membro deve proceder à recolha dos dados estatísticos, abrangendo as seguintes variáveis:\n\na) Passageiros;\n\nb) Carga e correio;\n\nc) Etapas de voo;\n\nd) Lugares de passageiros disponíveis;\n\ne) Movimentos de aeronaves.\n\nAs variáveis estatísticas de cada área, as nomenclaturas para a sua classificação, a periodicidade das suas observações e as definições figuram nos anexos I e II.\n\n2. Cada Estado-Membro deve recolher todos os dados que figuram no anexo I relativos a todos os aeroportos comunitários no respectivo território com um tráfego anual superior a 150 000 unidades-passageiro.\n\nA Comissão deve elaborar e, se necessário, actualizar, nos termos do n.º 2 do artigo 11.º, a lista dos aeroportos comunitários abrangidos pelo primeiro parágrafo.\n\n3. No que respeita aos aeroportos, excluindo os que apenas registam um tráfego comercial ocasional, não abrangidos pelo disposto no n.º 2, os Estados-Membros apenas devem transmitir um registo anual dos dados referidos no quadro C 1 do anexo I.\n\n4. Sem prejuízo dos n.^os^ 2 e 3, no que respeita aos aeroportos:\n\na) Com um movimento anual inferior a 1 500 000 unidades-passageiro, para os quais, à data de entrada em vigor do presente regulamento, não haja uma recolha de dados correspondentes aos especificados no anexo I; e\n\nb) Para os quais a instauração de um novo sistema de recolha de dados levante grandes dificuldades,\n\nos Estados-Membros podem, durante um período limitado e nunca superior a três anos após 1 de Janeiro de 2003, nos termos do n.º 2 do artigo 11.º, transmitir dados menos completos do que os referidos no anexo I.\n\n5. Sem prejuízo do n.º 2, no que respeita aos aeroportos:\n\na) Para os quais, à data de entrada em vigor do presente regulamento, não haja uma recolha de dados correspondentes aos especificados no quadro B 1 do anexo I; e\n\nb) Para os quais a instauração de um novo sistema de recolha de dados levante grandes dificuldades,\n\nos Estados-Membros podem, até 31 de Dezembro de 2003, nos termos do n.º 2 do artigo 11.º, transmitir apenas os dados existentes."
+  },
+  "cc5861a8f856c269": {
+   "fragment_id": "Artigo 5.º — Exactidão das estatísticas",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Exactidão das estatísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Exactidão das estatísticas\n\nA recolha de dados deve basear-se em registos completos, a menos que sejam fixadas outras normas de exactidão nos termos do n.º 2 do artigo 11.º"
+  },
+  "017254c9648ff461": {
+   "fragment_id": "Artigo 6.º — Processamento de dados",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Processamento de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Processamento de dados\n\nOs métodos de processamento dos dados utilizados pelos Estados-Membros devem garantir que os dados recolhidos ao abrigo do artigo 3.º obedeçam às normas de exactidão a que se refere o artigo 5.º"
+  },
+  "352e68e6a4223583": {
+   "fragment_id": "Artigo 7.º — Transmissão dos resultados",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Transmissão dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transmissão dos resultados\n\n1. Os Estados-Membros devem transmitir ao Serviço de Estatística das Comunidades Europeias os resultados do processamento de dados a que se refere o artigo 6.º, incluindo os dados por eles declarados confidenciais nos termos da legislação ou das práticas nacionais em matéria de confidencialidade estatística, em conformidade com o disposto no Regulamento (CE) n.º 322/97.\n\n2. Os resultados devem ser transmitidos em conformidade com os ficheiros de dados que figuram no anexo I. Os ficheiros e o meio a utilizar para a transmissão devem ser estabelecidos pela Comissão, nos termos do n.º 2 do artigo 11.º\n\n3. O primeiro período de observação deve ter início em 1 de Janeiro de 2003. A transmissão deve ser efectuada logo que possível, o mais tardar nos seis meses após o termo do período de observação."
+  },
+  "baf9582d6fa8d0d0": {
+   "fragment_id": "Artigo 8.º — Divulgação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Divulgação\n\n1. As disposições relativas à publicação ou à divulgação dos resultados estatísticos pela Comissão são determinadas nos termos do n.º 2 do artigo 11.º\n\n2. A Comissão divulga junto dos Estados-Membros os resultados estatísticos adequados com periodicidade análoga à prevista para a transmissão dos resultados."
+  },
+  "152ca529b1772f4f": {
+   "fragment_id": "Artigo 9.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Relatório\n\n1. Os Estados-Membros devem comunicar, a pedido da Comissão, todas as informações relativas aos métodos utilizados na recolha dos dados. Se necessário, devem comunicar também à Comissão as alterações de fundo introduzidas nos métodos de recolha utilizados.\n\n2. Após três anos de recolha de dados, a Comissão deve apresentar um relatório ao Parlamento Europeu e ao Conselho sobre a experiência adquirida com a execução do presente regulamento, em especial a execução dos artigos 7.º e 8.º"
+  },
+  "0d367f53b80bcd7c": {
+   "fragment_id": "Artigo 10.º — Disposições de execução",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disposições de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições de execução\n\nAs disposições de execução do presente regulamento, incluindo as medidas para a sua adaptação à evolução económica e técnica, em especial:\n\n— a adaptação das especificações que figuram nos anexos,\n\n— a adaptação das características da recolha dos dados (artigo 3.º),\n\n— a lista dos aeroportos comunitários abrangidos pelo n.º 2 do artigo 3.º,\n\n— a exactidão das estatísticas (artigo 5.º),\n\n— a descrição dos ficheiros de dados, dos códigos e do meio a utilizar para a transmissão dos resultados à Comissão (artigo 7.º),\n\n— a divulgação de resultados estatísticos (artigo 8.º),\n\nserão aprovadas pela Comissão nos termos do n.º 2 do artigo 11.º"
+  },
+  "966c6b8d9b773728": {
+   "fragment_id": "Artigo 11.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité do Programa Estatístico criado pelo artigo 1.º da Decisão 89/382/CEE, Euratom.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO período previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "ff5bac62c3ea866c": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente regulamento entra em vigor 20 dias após a sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "0c3fdc73195439f4": {
+   "fragment_id": "ESTRUTURA DO REGISTO PARA A TRANSMISSÃO DE DADOS AO EUROSTAT",
+   "type": "divisao",
+   "heading": "ESTRUTURA DO REGISTO PARA A TRANSMISSÃO DE DADOS AO EUROSTAT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESTRUTURA DO REGISTO PARA A TRANSMISSÃO DE DADOS AO EUROSTAT\n\nOs dados a declarar referem-se exclusivamente à aviação civil.\n\nExcluem-se voos estatais e movimentos por modos de transporte de superfície quer de passageiros que viajem com um código de voo ou de mercadorias expedidas com uma carta de porte aéreo."
+  },
+  "91dcb17e89566081": {
+   "fragment_id": "A. Quadro sobre as etapas de voo [dados mensais",
+   "type": "divisao",
+   "heading": "A. Quadro sobre as etapas de voo [dados mensais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Quadro sobre as etapas de voo [dados mensais\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos.\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | «A1» |  |\n| País declarante | 2 letras | (1) Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo «yy» (2 últimas posições do ano) |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Aeroporto seguinte/anterior | 4 letras | (3) OACI |  |\n| Chegada/partida | 1 dígito | 1 = chegada 2 = partida |  |\n| Serviços regulares/não regulares | 1 dígito | 1 = regular 2 = não regular |  |\n| Serviços de passageiros/serviços polivalentes de carga e correio | 1 dígito | 1 = serviços de passageiros 2 = serviços polivalentes de carga e correio |  |\n| Informações sobre a transportadora aérea | 3 letras | (4) Informações sobre a transportadora aérea (facultativo) |  |\n| Tipo de aeronave | 4 letras | (5) OACI |  |\n| Passageiros a bordo | 12 dígitos |  | Passageiro |\n| Carga e correio a bordo | 12 dígitos |  | Tonelada |\n| Voos comerciais | 12 dígitos |  | Número de voos |\n| Lugares de passageiro disponíveis | 12 dígitos |  | Lugares de passageiro |"
+  },
+  "d84267e49c71e70b": {
+   "fragment_id": "B. Quadro sobre origem/destino do voo [dados mensais",
+   "type": "divisao",
+   "heading": "B. Quadro sobre origem/destino do voo [dados mensais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Quadro sobre origem/destino do voo [dados mensais\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos.\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | B1 |  |\n| País declarante | 2 letras | (1) Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo «yy» (2 últimas posições do ano) |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Aeroporto de origem/de destino | 4 letras | (3) OACI |  |\n| Chegada/partida | 1 dígito | 1 = chegada 2 = partida |  |\n| Serviços regulares/não regulares | 1 dígito | 1 = regular 2 = não regular |  |\n| Serviços de passageiros/serviços polivalentes de carga e correio | 1 dígito | 1 = serviços de passageiros 2 = serviços polivalentes de carga e correio |  |\n| Informações sobre a transportadora aérea | 3 letras | (4) Informações sobre a transportadora aérea (facultativo) |  |\n| Passageiros transportados | 12 dígitos |  | Passageiro |\n| Carga e correio carregados ou descarregados | 12 dígitos |  | Tonelada |"
+  },
+  "d5a8eb3617fe2f54": {
+   "fragment_id": "C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+   "type": "divisao",
+   "heading": "C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. Quadro sobre os aeroportos (pelo menos, dados anuais)\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos, com excepção do\n\n«total dos movimentos de aeronaves comerciais»\n\nque também diz respeito a todas as operações comerciais gerais da aviação e do\n\n«total dos movimentos de aeronaves»\n\nque se refere a todos os movimentos de aeronaves civis (com excepção dos voos estatais).\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | C1 |  |\n| País declarante | 2 letras | (1) Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo «yy» |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Informações sobre a transportadora aérea [(^1^)](http://publications.europa.eu/resource/cellar/6d6b5bed-746b-4b08-85f2-fd7a7068c361.0010.03/DOC_1#E0020) | 3 letras | (4) Informações sobre a transportadora aérea |  |\n| Total dos passageiros transportados | 12 dígitos |  | Passageiro |\n| Total dos passageiros em trânsito directo. | 12 dígitos |  | Passageiro |\n| Total da carga e do correio carregados/descarregados | 12 dígitos |  | Tonelada |\n| Total dos movimentos de aeronaves comerciais | 12 dígitos |  | Movimento |\n| Total dos movimentos de aeronaves | 12 dígitos |  | Movimento |\n| (^1^)O campo «informações sobre a transportadora aérea» só é obrigatório para os aeroportos que devam igualmente declarar os quadros A1 e B1. Para os aeroportos que não estejam sujeitos à obrigação de declarar os quadros A1 e B1, pode utilizar-se um código que abranja todas as transportadoras aéreas. |  |  |  |"
+  },
+  "8da4e80438b8ad3a": {
+   "fragment_id": "CÓDIGOS",
+   "type": "divisao",
+   "heading": "CÓDIGOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CÓDIGOS"
+  },
+  "cffad13810ca7c7b": {
+   "fragment_id": "1. País declarante",
+   "type": "divisao",
+   "heading": "1. País declarante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. País declarante\n\nO sistema de codificação a usar é o do índice OACI das letras de nacionalidade para os indicadores de localização. Se existirem vários prefixos para o mesmo país, aplica-se apenas o principal prefixo OACI para a metrópole.\n\nBélgica EB\n\nDinamarca EK\n\nAlemanha ED\n\nGrécia LG\n\nEspanha LE\n\nFrança LF\n\nIrlanda EI\n\nItália LI\n\nLuxemburgo EL\n\nPaíses Baixos EH\n\nÁustria LO\n\nPortugal LP\n\nFinlândia EF\n\nSuécia ES\n\nReino Unido EG"
+  },
+  "ccf059dd05352008": {
+   "fragment_id": "2. Período de referência",
+   "type": "divisao",
+   "heading": "2. Período de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Período de referência\n\nAN (ou 45) ano\n\nQ1 (ou 21) Janeiro-Março (primeiro trimestre)\n\nQ2 (ou 22) Abril-Junho (segundo trimestre)\n\nQ3 (ou 23) Julho-Setembro (terceiro trimestre)\n\nQ4 (ou 24) Outubro-Dezembro (quarto trimestre)\n\n1 a 12 Janeiro a Dezembro (mês)"
+  },
+  "1fdd5477b5db7c89": {
+   "fragment_id": "3. Aeroportos",
+   "type": "divisao",
+   "heading": "3. Aeroportos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Aeroportos\n\nOs aeroportos devem ser codificados segundo os códigos OACI de 4 letras, constantes do documento OACI 7910. Os aeroportos desconhecidos devem ser codificados «ZZZZ»."
+  },
+  "c9ac0bc37bb2ae4a": {
+   "fragment_id": "4. Informações sobre a transportadora aérea",
+   "type": "divisao",
+   "heading": "4. Informações sobre a transportadora aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Informações sobre a transportadora aérea\n\n«1EU» para transportadoras aéreas licenciadas na União Europeia,\n\n«1NE» para transportadoras aéreas não licenciadas na União Europeia,\n\n«ZZZ» para transportadoras aéreas desconhecidas,\n\n«888» para «confidencial» (a utilizar nos quadros A1 e B1 se as «informações sobre a transportadora aérea» não puderem ser divulgadas por questões de confidencialidade),\n\n«999» para todas as transportadoras aéreas (a utilizar apenas no quadro C1).\n\n*As transportadoras aéreas parcialmente licenciadas na UE devem ser declaradas como «transportadoras aéreas da UE».*\n\n*Numa base voluntária, o código 2+código do país de 2 letras ISO (país de licença da transportadora aérea) pode igualmente ser utilizado, assim como o código OACI da transportadora aérea.*"
+  },
+  "3a2510ad2c959658": {
+   "fragment_id": "5. Tipo de aeronave",
+   "type": "divisao",
+   "heading": "5. Tipo de aeronave",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Tipo de aeronave\n\nOs tipos de aeronaves devem ser codificados segundo os descritores OACI do tipo de aeronave, constantes do documento OACI 8643.\n\nOs tipos de aeronaves desconhecidos devem ser codificados «ZZZZ»."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "72226cf05500f904": {
+   "fragment_id": "DEFINIÇÕES E ESTATÍSTICAS A DECLARAR",
+   "type": "divisao",
+   "heading": "DEFINIÇÕES E ESTATÍSTICAS A DECLARAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DEFINIÇÕES E ESTATÍSTICAS A DECLARAR\n\nAo título de cada rubrica segue-se a indicação dos artigos ou quadros do regulamento em que se faz referência ao termo definido."
+  },
+  "74e420fba9747816": {
+   "fragment_id": "I. DEFINIÇÕES E VARIÁVEIS DE INTERESSE GERAL",
+   "type": "divisao",
+   "heading": "I. DEFINIÇÕES E VARIÁVEIS DE INTERESSE GERAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. DEFINIÇÕES E VARIÁVEIS DE INTERESSE GERAL"
+  },
+  "cbe16eba26bda31b": {
+   "fragment_id": "1. Aeroporto comunitário (artigos 1.º e 3.º )",
+   "type": "divisao",
+   "heading": "1. Aeroporto comunitário (artigos 1.º e 3.º )",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Aeroporto comunitário (artigos 1.º e 3.º )\n\nTerreno ou plano de água definido, situado num Estado-Membro, sujeito às disposições do Tratado, que se destina a ser utilizado, total ou parcialmente, para a chegada, partida e movimentação em terra de aeronaves, aberto a serviços comerciais aéreos ^(ver -4-)^."
+  },
+  "5cac24d24327e91e": {
+   "fragment_id": "2. Voo estatal (artigo 1.º e quadro C1)",
+   "type": "divisao",
+   "heading": "2. Voo estatal (artigo 1.º e quadro C1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Voo estatal (artigo 1.º e quadro C1)\n\nTodos os voos efectuados ao abrigo de serviços militares, aduaneiros, policiais ou outros serviços responsáveis pela aplicação da lei de um Estado.\n\n*Todos os voos declarados «Voos estatais» pelas autoridades estatais.*\n\n*A expressão «com exclusão dos voos efectuados por aeronaves de Estado» do artigo 1.º deve ser interpretada como «com exclusão dos voos estatais».*"
+  },
+  "a265253fa1225194": {
+   "fragment_id": "3. Unidade-passageiro (n.^os^ 2, 4 e 5 do artigo 3.º )",
+   "type": "divisao",
+   "heading": "3. Unidade-passageiro (n.^os^ 2, 4 e 5 do artigo 3.º )",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Unidade-passageiro (n.^os^ 2, 4 e 5 do artigo 3.º )\n\nUma unidade-passageiro equivale a um passageiro ou a 100 kg de carga e correio.\n\n*Para a elaboração da lista de **aeroportos comunitários** ^(ver-1-)^ referida no n.º 2 do artigo 3.º e para os efeitos do período de transição referido nos n.^os^ 4 e 5 do artigo 3.º, o cálculo dos limiares que usam unidades-passageiro tem que considerar em **aeroportos comunitários** ^(ver-1-)^ o número total de **passageiros transportados** ^(ver-16-)^ mais o número total de **passageiros em trânsito directo** ^(ver-18-)^ (contados uma vez) mais a quantidade total de **carga e correio carregados e descarregados** ^(ver-17-)^.*"
+  },
+  "b012ea7053f06477": {
+   "fragment_id": "4. Serviços comerciais aéreos (artigo 1.º e quadros A1, B1 e C1)",
+   "type": "divisao",
+   "heading": "4. Serviços comerciais aéreos (artigo 1.º e quadros A1, B1 e C1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Serviços comerciais aéreos (artigo 1.º e quadros A1, B1 e C1)\n\nVoo ou séries de voos para o transporte público de passageiros e/ou carga e correio, a título oneroso ou de aluguer.\n\n*Os **serviços de transporte aéreo** podem ser **regulares** ^(ver-5-)^ ou **não regulares** ^(ver-6-)^.*"
+  },
+  "18f545376d2124e7": {
+   "fragment_id": "5. Serviços de transporte aéreo regulares (quadros A1 e B1)",
+   "type": "divisao",
+   "heading": "5. Serviços de transporte aéreo regulares (quadros A1 e B1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Serviços de transporte aéreo regulares (quadros A1 e B1)\n\n**Serviços comerciais aéreos** ^(ver-4-)^ explorados de acordo com um horário publicado, ou com regularidade ou frequência constituindo, de forma patente, uma série sistemática de voos.\n\n*Inclui voos complementares ocasionados por excesso de tráfico dos voos regulares.*"
+  },
+  "324ff1cd7b6de4fe": {
+   "fragment_id": "6. Serviços de transporte aéreo não regulares (quadros A1 e B1)",
+   "type": "divisao",
+   "heading": "6. Serviços de transporte aéreo não regulares (quadros A1 e B1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. Serviços de transporte aéreo não regulares (quadros A1 e B1)\n\n**Serviços comerciais aéreos** ^(ver-4-)^ com excepção dos **serviços de transporte aéreo regulares** ^(ver-5-)^."
+  },
+  "4bf19f885fb7f1e1": {
+   "fragment_id": "7. Serviços de transporte aéreo de passageiros (quadros A1 e B1)",
+   "type": "divisao",
+   "heading": "7. Serviços de transporte aéreo de passageiros (quadros A1 e B1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. Serviços de transporte aéreo de passageiros (quadros A1 e B1)\n\n**Serviços de transporte aéreo regulares** ^(ver-5-)^ ou **não regulares** ^(ver-6-)^, efectuados por aeronaves que transportem um ou mais passageiros a título oneroso, bem como todos os voos que figurem nos horários publicados como abertos a passageiros.\n\n*Inclui voos que transportem tanto passageiros como carga e correio, a título oneroso.*"
+  },
+  "91f2652951b07d9b": {
+   "fragment_id": "8. Serviços polivalentes de carga e correio (quadros A1 e B1)",
+   "type": "divisao",
+   "heading": "8. Serviços polivalentes de carga e correio (quadros A1 e B1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. Serviços polivalentes de carga e correio (quadros A1 e B1)\n\n**Serviços de transporte aéreo regulares** ^(ver-5-)^ ou **não regulares** ^(ver-6-)^, efectuados por aeronaves que transportem, a título oneroso, carga e correio, mas não passageiros.\n\n*Exclui os voos que transportem um ou mais passageiros a título oneroso, bem como todos os voos que figurem em horários publicados como abertos a passageiros.*"
+  },
+  "498f555c4532fcab": {
+   "fragment_id": "9. Transportadora aérea (Operador de transporte aéreo comercial) (quadros A1, B1 e C1)",
+   "type": "divisao",
+   "heading": "9. Transportadora aérea (Operador de transporte aéreo comercial) (quadros A1, B1 e C1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9. Transportadora aérea (Operador de transporte aéreo comercial) (quadros A1, B1 e C1)\n\nEmpresa de transporte aéreo titular de uma licença de exploração válida para efectuar **voos comerciais** ^(ver-13-)^.\n\n*Sempre que as transportadoras aéreas possuam acordos de **joint-venture** ou outros acordos contratuais que exijam que duas ou mais delas assumam responsabilidade separada pela oferta e venda de produtos de transporte aéreo para um voo ou uma série de voos, deve ser declarada a transportadora aérea que assegura efectivamente o voo.*"
+  },
+  "fca78f23f68bd8bb": {
+   "fragment_id": "II. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO A1 (ETAPAS DE VOO)",
+   "type": "divisao",
+   "heading": "II. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO A1 (ETAPAS DE VOO)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO A1 (ETAPAS DE VOO)"
+  },
+  "5cd81c5f269cc72e": {
+   "fragment_id": "10. Etapa de voo (quadro A1)",
+   "type": "divisao",
+   "heading": "10. Etapa de voo (quadro A1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10. Etapa de voo (quadro A1)\n\nUma etapa de voo corresponde ao voo de uma aeronave desde a descolagem até à aterragem seguinte."
+  },
+  "b8e109f88f345294": {
+   "fragment_id": "11. Passageiros a bordo (quadro A1)",
+   "type": "divisao",
+   "heading": "11. Passageiros a bordo (quadro A1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 11. Passageiros a bordo (quadro A1)\n\nTodos os passageiros a bordo da aeronave aquando da aterragem no aeroporto declarante e descolagem do aeroporto declarante.\n\n*Todos os passageiros a bordo de uma aeronave, a título oneroso ou não oneroso durante uma **etapa de voo** ^(ver-10-)^.*\n\n*Inclui **passageiros em trânsito directo** ^(ver-18-)^ (contados à chegada e à partida).*"
+  },
+  "2fff963154b0186e": {
+   "fragment_id": "12. Carga e correio a bordo (quadro A1)",
+   "type": "divisao",
+   "heading": "12. Carga e correio a bordo (quadro A1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 12. Carga e correio a bordo (quadro A1)\n\nConjunto de toda a carga e correio a bordo da aeronave aquando da aterragem no aeroporto declarante e descolagem do aeroporto declarante.\n\n*Conjunto de toda a carga e correio a bordo de uma aeronave durante uma **etapa de voo** ^(ver-10-)^.*\n\n*Inclui carga e correio em trânsito directo (contados à chegada e à partida).*\n\n*Inclui os serviços expresso e as malas diplomáticas.*\n\n*Exclui a bagagem dos passageiros.*"
+  },
+  "56c78f376c831698": {
+   "fragment_id": "13. Voo comercial (quadro A1)",
+   "type": "divisao",
+   "heading": "13. Voo comercial (quadro A1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 13. Voo comercial (quadro A1)\n\nVoo destinado ao transporte público de passageiros e/ou carga e correio, a título oneroso ou de aluguer.\n\n*No quadro A1, os voos comerciais são agregados para calcular os outros «campos indicadores» [«**Passageiros a bordo** ^(ver-11-)^ », «**Carga e correio a bordo** ^(ver-12-)^ » e «**Lugares de passageiro disponíveis** ^(ver-14-)^ »].*"
+  },
+  "c87da777cc28b8a3": {
+   "fragment_id": "14. Lugares de passageiro disponíveis (quadro A1)",
+   "type": "divisao",
+   "heading": "14. Lugares de passageiro disponíveis (quadro A1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 14. Lugares de passageiro disponíveis (quadro A1)\n\nNúmero total de lugares de passageiro disponíveis para venda entre cada par de aeroportos numa etapa de voo ^(ver-10-)^.\n\n*Numa **etapa de voo** ^(ver-10-),^ o número total de passageiros transportados a título oneroso não deve exceder o número total de lugares de passageiro disponíveis para venda.*\n\n*Inclui lugares já vendidos numa etapa de voo, ou seja, inclui os lugares ocupados por **passageiros em trânsito directo** ^(ver-18-)^.*\n\n*Exclui os lugares não efectivamente disponíveis para transporte de passageiros devido aos limites de peso máximo bruto.*\n\n*Caso não se disponha de informação nesta base, deve fornecer-se uma das estimativas seguintes (por ordem de preferência da mais à menos adequada): 1. a configuração específica da aeronave expressa em número de lugares de passageiro disponíveis na aeronave (identificada pelo número de matrícula da aeronave), 2. a configuração média da aeronave expressa em número médio de lugares de passageiro disponíveis para o tipo de aeronave para a transportadora, 3. a configuração média da aeronave expressa em número médio de lugares de passageiro disponíveis para o tipo de aeronave.*"
+  },
+  "67f26413cd751e14": {
+   "fragment_id": "III. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO B1 (ORIGEM E DESTINO DO VOO) E AO QUADRO C1 (AEROPORTOS)",
+   "type": "divisao",
+   "heading": "III. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO B1 (ORIGEM E DESTINO DO VOO) E AO QUADRO C1 (AEROPORTOS)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO B1 (ORIGEM E DESTINO DO VOO) E AO QUADRO C1 (AEROPORTOS)"
+  },
+  "3c77af7642043e76": {
+   "fragment_id": "15. Origem e destino do voo (quadro B1)",
+   "type": "divisao",
+   "heading": "15. Origem e destino do voo (quadro B1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 15. Origem e destino do voo (quadro B1)\n\nTráfego num **serviço comercial aéreo** ^(ver-4-)^, identificado por um número de voo único subdividido por pares de aeroportos, em conformidade com o ponto de embarque e o ponto de desembarque desse voo.\n\n*Para os passageiros, carga ou correio cujo aeroporto de embarque se desconheça, deve considerar-se o ponto de embarque como a origem da aeronave; do mesmo modo, se se desconhecer o aeroporto de desembarque, deve considerar-se o ponto de desembarque como o destino da aeronave.*"
+  },
+  "aaca4e454d3d00a4": {
+   "fragment_id": "16. Passageiros transportados (quadros B1 e C1)",
+   "type": "divisao",
+   "heading": "16. Passageiros transportados (quadros B1 e C1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 16. Passageiros transportados (quadros B1 e C1)\n\nTodos os passageiros de determinado voo (com um número de voo), contados uma única vez e não repetidamente em cada etapa individual desse voo.\n\n*Todos os passageiros transportados a título oneroso ou não oneroso, cuja viagem se inicie ou termine no aeroporto declarante e passageiros com ligações que embarquem ou desembarquem no aeroporto declarante.*\n\n*Exclui os **passageiros em trânsito directo** ^(ver-18-)^.*"
+  },
+  "c808127464eebbef": {
+   "fragment_id": "17. Carga e correio carregados ou descarregados (quadros B1 e C1)",
+   "type": "divisao",
+   "heading": "17. Carga e correio carregados ou descarregados (quadros B1 e C1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 17. Carga e correio carregados ou descarregados (quadros B1 e C1)\n\nConjunto total de carga e correio carregados ou descarregados.\n\n*Inclui os serviços expresso e as malas diplomáticas.*\n\n*Exclui a bagagem dos passageiros.*\n\n*Exclui carga e correio em trânsito directo.*"
+  },
+  "95ec9f6ae198b224": {
+   "fragment_id": "18. Passageiros em trânsito directo (quadro C1)",
+   "type": "divisao",
+   "heading": "18. Passageiros em trânsito directo (quadro C1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 18. Passageiros em trânsito directo (quadro C1)\n\nPassageiros que, após uma breve escala, continuam a sua viagem na mesma aeronave, num voo que possui o mesmo número daquele em que chegaram.\n\n*Nas estatísticas aeroportuárias totais, assim como no cálculo das **unidades-passageiro** ^(ver-3-)^, os passageiros em trânsito directo são contados uma única vez.*\n\n*Passageiros que mudam de aeronave devido a problemas técnicos, mas que continuam a sua viagem num voo que possui o mesmo número são contados como passageiros em trânsito directo.*\n\n*Em determinados voos com escalas intermédias, o número de voo muda num aeroporto para indicar a mudança entre voo de chegada e voo de partida. Um exemplo é o voo de Barcelona para Hamburgo em que o voo continua para Francoforte antes de regressar a Barcelona. Os passageiros para um destino intermédio que continuam a sua viagem na mesma aeronave em tais circunstâncias devem ser contados como passageiros em trânsito directo.*"
+  },
+  "61c960d8d3e51953": {
+   "fragment_id": "19. Total dos movimentos de aeronaves comerciais (quadro C1)",
+   "type": "divisao",
+   "heading": "19. Total dos movimentos de aeronaves comerciais (quadro C1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 19. Total dos movimentos de aeronaves comerciais (quadro C1)\n\nTodas as descolagens e aterragens efectuadas por aeronaves a título oneroso ou de aluguer.\n\n*Inclui **serviços comerciais aéreos** ^(ver-4-)^, assim como todas as operações comerciais gerais da aviação.*"
+  },
+  "cc5aeb772a701e01": {
+   "fragment_id": "20. Total dos movimentos de aeronaves (quadro C1)",
+   "type": "divisao",
+   "heading": "20. Total dos movimentos de aeronaves (quadro C1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 20. Total dos movimentos de aeronaves (quadro C1)\n\nTodas as descolagens e aterragens de aeronaves.\n\n*Inclui o **total dos movimentos de aeronaves** ^(ver-19-)^, assim como todas as operações não comerciais gerais da aviação.*\n\n*Exclui **voos estatais** ^(ver-2-)^.*\n\n*Exclui «aterragens-descolagens» (touch and goes), overshoots e abordagens falhadas.*\n\n---"
+  },
+  "2f054117237e14f3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6d6b5bed-746b-4b08-85f2-fd7a7068c361.0010.03/DOC_1#src.E0001)) JO C 325 de 6.12.1995, p. 11.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6d6b5bed-746b-4b08-85f2-fd7a7068c361.0010.03/DOC_1#src.E0002)) JO C 39 de 12.2.1996, p. 25.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6d6b5bed-746b-4b08-85f2-fd7a7068c361.0010.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 29 de Fevereiro de 1996 (JO C 78 de 18.3.1996, p. 28), confirmado em 16 de Setembro de 1999 (JO C 54 de 25.2.2000, p. 79), posição comum do Conselho de 30 de Setembro de 2002 (JO C 275 E de 12.11.2002, p. 33) e decisão do Parlamento Europeu de 18 de Dezembro de 2002 (ainda não publicada no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/6d6b5bed-746b-4b08-85f2-fd7a7068c361.0010.03/DOC_1#src.E0004)) JO L 42 de 16.2.1999, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/6d6b5bed-746b-4b08-85f2-fd7a7068c361.0010.03/DOC_1#src.E0005)) JO L 52 de 22.2.1997, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/6d6b5bed-746b-4b08-85f2-fd7a7068c361.0010.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/6d6b5bed-746b-4b08-85f2-fd7a7068c361.0010.03/DOC_1#src.E0007)) JO L 181 de 28.6.1989, p. 47.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/6d6b5bed-746b-4b08-85f2-fd7a7068c361.0010.03/DOC_1#src.E0010)) Em 2003, aceitam-se «pelo menos, dados trimestrais».\n\n> ([^9^](http://publications.europa.eu/resource/cellar/6d6b5bed-746b-4b08-85f2-fd7a7068c361.0010.03/DOC_1#src.E0013)) Em 2003, aceitam-se «dados trimestrais»."
+  },
+  "49b048983bdcc9d1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Fevereiro de 2003\n\nrelativo às estatísticas sobre o transporte aéreo de passageiros, carga e correio\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 285.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/fd0625b4-e984-406f-be12-208cc7490d88.0016.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/fd0625b4-e984-406f-be12-208cc7490d88.0016.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/fd0625b4-e984-406f-be12-208cc7490d88.0016.03/DOC_1#E0003)),\n\n(1) Para efectuar as tarefas que lhes foram atribuídas no contexto da política comunitária do transporte aéreo e da futura evolução da política comum dos transportes, as instituições da Comunidade devem ter à sua disposição dados estatísticos comparáveis, coerentes, compatíveis e regulares acerca do volume e da evolução do transporte aéreo de passageiros, carga e correio intra e extracomunitário.\n\n(2) Actualmente, não existem essas estatísticas exaustivas a nível comunitário.\n\n(3) A Decisão 1999/126/CE do Conselho, de 22 de Dezembro de 1998, relativa ao programa estatístico comunitário de 1998 a 2002 ([^4^](http://publications.europa.eu/resource/cellar/fd0625b4-e984-406f-be12-208cc7490d88.0016.03/DOC_1#E0004)), determinou que é necessário elaborar tais estatísticas exaustivas.\n\n(4) A recolha comum de dados numa base comparável ou harmonizada permite a criação de um sistema integrado com informação fiável, coerente e de rápido acesso.\n\n(5) Os dados sobre o transporte aéreo de passageiros, carga e correio devem, sempre que possível, ser compatíveis com os dados internacionais fornecidos pela Organização da Aviação Civil (Internacional OACI) e permitir comparações, sempre que necessário, entre os Estados-Membros e relativamente aos diferentes modos de transporte.\n\n(6) Após determinado período, a Comissão deve apresentar um relatório com vista a permitir uma avaliação da execução do presente regulamento.\n\n(7) Em conformidade com o princípio da subsidiariedade estabelecido no artigo 5.º do Tratado, a criação de normas estatísticas comuns que permitam a produção de dados harmonizados é uma acção que só a nível comunitário pode ser eficientemente efectuada. Tais normas devem ser implementadas em cada Estado-Membro sob a autoridade dos organismos e instituições encarregados da produção de estatísticas oficiais.\n\n(8) O Regulamento (CE) n.º 322/97 do Conselho, de 17 de Fevereiro de 1997, relativo às estatísticas comunitárias ([^5^](http://publications.europa.eu/resource/cellar/fd0625b4-e984-406f-be12-208cc7490d88.0016.03/DOC_1#E0005)), estabelece o quadro de referência para o disposto no presente regulamento.\n\n(9) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/fd0625b4-e984-406f-be12-208cc7490d88.0016.03/DOC_1#E0006)).\n\n(10) O Comité do Programa Estatístico criado pela Decisão 89/382/CEE, Euratom ([^7^](http://publications.europa.eu/resource/cellar/fd0625b4-e984-406f-be12-208cc7490d88.0016.03/DOC_1#E0007)) foi consultado.\n\n(11) Através de uma declaração conjunta dos respectivos ministros dos Negócios Estrangeiros feita em Londres em 2 de Dezembro de 1987, o Reino de Espanha e o Reino Unido chegaram a acordo sobre um regime para reforçar a cooperação na utilização do aeroporto de Gibraltar, não tendo ainda o referido regime começado a ser aplicado,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "3126d4d04cb75313": {
+   "fragment_id": "C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+   "type": "divisao",
+   "heading": "C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. Quadro sobre os aeroportos (pelo menos, dados anuais)\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos, com excepção do\n\n«total dos movimentos de aeronaves comerciais»\n\nque também diz respeito a todas as operações comerciais gerais da aviação e do\n\n«total dos movimentos de aeronaves»\n\nque se refere a todos os movimentos de aeronaves civis (com excepção dos voos estatais).\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | C1 |  |\n| País declarante | 2 letras | (1) Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo «yy» |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Informações sobre a transportadora aérea [(^1^)](http://publications.europa.eu/resource/cellar/fd0625b4-e984-406f-be12-208cc7490d88.0016.03/DOC_1#E0020) | 3 letras | (4) Informações sobre a transportadora aérea |  |\n| Total dos passageiros transportados | 12 dígitos |  | Passageiro |\n| Total dos passageiros em trânsito directo. | 12 dígitos |  | Passageiro |\n| Total da carga e do correio carregados/descarregados | 12 dígitos |  | Tonelada |\n| Total dos movimentos de aeronaves comerciais | 12 dígitos |  | Movimento |\n| Total dos movimentos de aeronaves | 12 dígitos |  | Movimento |\n| (^1^)O campo «informações sobre a transportadora aérea» só é obrigatório para os aeroportos que devam igualmente declarar os quadros A1 e B1. Para os aeroportos que não estejam sujeitos à obrigação de declarar os quadros A1 e B1, pode utilizar-se um código que abranja todas as transportadoras aéreas. |  |  |  |"
+  },
+  "97034b643d35c7ab": {
+   "fragment_id": "1. País declarante",
+   "type": "divisao",
+   "heading": "1. País declarante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. País declarante\n\nO sistema de codificação a usar é o do índice OACI das letras de nacionalidade para os indicadores de localização. Se existirem vários prefixos para o mesmo país, aplica-se apenas o principal prefixo OACI para a metrópole.\n\nBélgica EB\n\nDinamarca EK\n\nAlemanha ED\n\nGrécia LG\n\nEspanha LE\n\nFrança LF\n\nIrlanda EI\n\nItália LI\n\nLuxemburgo EL\n\nPaíses Baixos EH\n\nÁustria LO\n\nPortugal LP\n\nFinlândia EF\n\nSuécia ES\n\nReino Unido EG\n\nRepública Checa LK\n\nEstónia EE\n\nChipre LC\n\nLetónia EV\n\nLituânia EY\n\nHungria LH\n\nMalta LM\n\nPolónia EP\n\nEslovénia LJ\n\nEslováquia LZ"
+  },
+  "e701cfc0f5de37e5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/fd0625b4-e984-406f-be12-208cc7490d88.0016.03/DOC_1#src.E0001)) JO C 325 de 6.12.1995, p. 11.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/fd0625b4-e984-406f-be12-208cc7490d88.0016.03/DOC_1#src.E0002)) JO C 39 de 12.2.1996, p. 25.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/fd0625b4-e984-406f-be12-208cc7490d88.0016.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 29 de Fevereiro de 1996 (JO C 78 de 18.3.1996, p. 28), confirmado em 16 de Setembro de 1999 (JO C 54 de 25.2.2000, p. 79), posição comum do Conselho de 30 de Setembro de 2002 (JO C 275 E de 12.11.2002, p. 33) e decisão do Parlamento Europeu de 18 de Dezembro de 2002 (ainda não publicada no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/fd0625b4-e984-406f-be12-208cc7490d88.0016.03/DOC_1#src.E0004)) JO L 42 de 16.2.1999, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/fd0625b4-e984-406f-be12-208cc7490d88.0016.03/DOC_1#src.E0005)) JO L 52 de 22.2.1997, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/fd0625b4-e984-406f-be12-208cc7490d88.0016.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/fd0625b4-e984-406f-be12-208cc7490d88.0016.03/DOC_1#src.E0007)) JO L 181 de 28.6.1989, p. 47.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/fd0625b4-e984-406f-be12-208cc7490d88.0016.03/DOC_1#src.E0010)) Em 2003, aceitam-se «pelo menos, dados trimestrais».\n\n> ([^9^](http://publications.europa.eu/resource/cellar/fd0625b4-e984-406f-be12-208cc7490d88.0016.03/DOC_1#src.E0013)) Em 2003, aceitam-se «dados trimestrais»."
+  },
+  "9b7d3fee39c9c45b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Fevereiro de 2003\n\nrelativo às estatísticas sobre o transporte aéreo de passageiros, carga e correio\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 285.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0003)),\n\n(1) Para efectuar as tarefas que lhes foram atribuídas no contexto da política comunitária do transporte aéreo e da futura evolução da política comum dos transportes, as instituições da Comunidade devem ter à sua disposição dados estatísticos comparáveis, coerentes, compatíveis e regulares acerca do volume e da evolução do transporte aéreo de passageiros, carga e correio intra e extracomunitário.\n\n(2) Actualmente, não existem essas estatísticas exaustivas a nível comunitário.\n\n(3) A Decisão 1999/126/CE do Conselho, de 22 de Dezembro de 1998, relativa ao programa estatístico comunitário de 1998 a 2002 ([^4^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0004)), determinou que é necessário elaborar tais estatísticas exaustivas.\n\n(4) A recolha comum de dados numa base comparável ou harmonizada permite a criação de um sistema integrado com informação fiável, coerente e de rápido acesso.\n\n(5) Os dados sobre o transporte aéreo de passageiros, carga e correio devem, sempre que possível, ser compatíveis com os dados internacionais fornecidos pela Organização da Aviação Civil (Internacional OACI) e permitir comparações, sempre que necessário, entre os Estados-Membros e relativamente aos diferentes modos de transporte.\n\n(6) Após determinado período, a Comissão deve apresentar um relatório com vista a permitir uma avaliação da execução do presente regulamento.\n\n(7) Em conformidade com o princípio da subsidiariedade estabelecido no artigo 5.º do Tratado, a criação de normas estatísticas comuns que permitam a produção de dados harmonizados é uma acção que só a nível comunitário pode ser eficientemente efectuada. Tais normas devem ser implementadas em cada Estado-Membro sob a autoridade dos organismos e instituições encarregados da produção de estatísticas oficiais.\n\n(8) O Regulamento (CE) n.º 322/97 do Conselho, de 17 de Fevereiro de 1997, relativo às estatísticas comunitárias ([^5^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0005)), estabelece o quadro de referência para o disposto no presente regulamento.\n\n(9) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0006)).\n\n(10) O Comité do Programa Estatístico criado pela Decisão 89/382/CEE, Euratom ([^7^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0007)) foi consultado.\n\n(11) Através de uma declaração conjunta dos respectivos ministros dos Negócios Estrangeiros feita em Londres em 2 de Dezembro de 1987, o Reino de Espanha e o Reino Unido chegaram a acordo sobre um regime para reforçar a cooperação na utilização do aeroporto de Gibraltar, não tendo ainda o referido regime começado a ser aplicado,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "1afbeb603c6df8ef": {
+   "fragment_id": "A. Quadro sobre as etapas de voo [dados mensais ([^8^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0008))]",
+   "type": "divisao",
+   "heading": "A. Quadro sobre as etapas de voo [dados mensais ([^8^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0008))]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Quadro sobre as etapas de voo [dados mensais ([^8^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0008))]\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos.\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | «A1» |  |\n| País declarante | 2 letras | (1) Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo «yy» (2 últimas posições do ano) |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Aeroporto seguinte/anterior | 4 letras | (3) OACI |  |\n| Chegada/partida | 1 dígito | 1 = chegada 2 = partida |  |\n| Serviços regulares/não regulares | 1 dígito | 1 = regular 2 = não regular |  |\n| Serviços de passageiros/serviços polivalentes de carga e correio | 1 dígito | 1 = serviços de passageiros 2 = serviços polivalentes de carga e correio |  |\n| Informações sobre a transportadora aérea | 3 letras | (4) Informações sobre a transportadora aérea (facultativo) |  |\n| Tipo de aeronave | 4 letras | (5) OACI |  |\n| Passageiros a bordo | 12 dígitos |  | Passageiro |\n| Carga e correio a bordo | 12 dígitos |  | Tonelada |\n| Voos comerciais | 12 dígitos |  | Número de voos |\n| Lugares de passageiro disponíveis | 12 dígitos |  | Lugares de passageiro |"
+  },
+  "0c7a2201971f288b": {
+   "fragment_id": "B. Quadro sobre origem/destino do voo [dados mensais ([^9^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0009))]",
+   "type": "divisao",
+   "heading": "B. Quadro sobre origem/destino do voo [dados mensais ([^9^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0009))]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Quadro sobre origem/destino do voo [dados mensais ([^9^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0009))]\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos.\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | B1 |  |\n| País declarante | 2 letras | (1) Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo «yy» (2 últimas posições do ano) |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Aeroporto de origem/de destino | 4 letras | (3) OACI |  |\n| Chegada/partida | 1 dígito | 1 = chegada 2 = partida |  |\n| Serviços regulares/não regulares | 1 dígito | 1 = regular 2 = não regular |  |\n| Serviços de passageiros/serviços polivalentes de carga e correio | 1 dígito | 1 = serviços de passageiros 2 = serviços polivalentes de carga e correio |  |\n| Informações sobre a transportadora aérea | 3 letras | (4) Informações sobre a transportadora aérea (facultativo) |  |\n| Passageiros transportados | 12 dígitos |  | Passageiro |\n| Carga e correio carregados ou descarregados | 12 dígitos |  | Tonelada |"
+  },
+  "b09ff497e4a193a9": {
+   "fragment_id": "C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+   "type": "divisao",
+   "heading": "C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. Quadro sobre os aeroportos (pelo menos, dados anuais)\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos, com excepção do «total dos movimentos de aeronaves comerciais» que também diz respeito a todas as operações comerciais gerais da aviação e do «total dos movimentos de aeronaves» que se refere a todos os movimentos de aeronaves civis (com excepção dos voos estatais).\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | C1 |  |\n| País declarante | 2 letras | (1) Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo «yy» |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Informações sobre a transportadora aérea [(^1^)](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0010) | 3 letras | (4) Informações sobre a transportadora aérea |  |\n| Total dos passageiros transportados | 12 dígitos |  | Passageiro |\n| Total dos passageiros em trânsito directo. | 12 dígitos |  | Passageiro |\n| Total da carga e do correio carregados/descarregados | 12 dígitos |  | Tonelada |\n| Total dos movimentos de aeronaves comerciais | 12 dígitos |  | Movimento |\n| Total dos movimentos de aeronaves | 12 dígitos |  | Movimento |\n| (^1^)O campo «informações sobre a transportadora aérea» só é obrigatório para os aeroportos que devam igualmente declarar os quadros A1 e B1. Para os aeroportos que não estejam sujeitos à obrigação de declarar os quadros A1 e B1, pode utilizar-se um código que abranja todas as transportadoras aéreas. |  |  |  |"
+  },
+  "bca4bb797d8b0a39": {
+   "fragment_id": "1. País declarante",
+   "type": "divisao",
+   "heading": "1. País declarante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. País declarante\n\nO sistema de codificação a usar é o do índice OACI das letras de nacionalidade para os indicadores de localização. Se existirem vários prefixos para o mesmo país, aplica-se apenas o principal prefixo OACI para a metrópole.\n\nBélgica EB\n\nDinamarca EK\n\nAlemanha ED\n\nGrécia LG\n\nEspanha LE\n\nFrança LF\n\nIrlanda EI\n\nItália LI\n\nLuxemburgo EL\n\nPaíses Baixos EH\n\nÁustria LO\n\nPortugal LP\n\nFinlândia EF\n\nSuécia ES\n\nReino Unido EG\n\nRepública Checa LK\n\nEstónia EE\n\nChipre LC\n\nLetónia EV\n\nLituânia EY\n\nHungria LH\n\nMalta LM\n\nPolónia EP\n\nEslovénia LJ\n\nEslováquia LZ\n\nBulgária LB\n\nRoménia LR"
+  },
+  "33d1b04be9bce190": {
+   "fragment_id": "14. Lugares de passageiro disponíveis (quadro A1)",
+   "type": "divisao",
+   "heading": "14. Lugares de passageiro disponíveis (quadro A1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 14. Lugares de passageiro disponíveis (quadro A1)\n\nNúmero total de lugares de passageiro disponíveis para venda entre cada par de aeroportos numa etapa de voo ^(ver-10-)^.\n\n*Numa **etapa de voo** ^(ver-10-),^ o número total de passageiros transportados a título oneroso não deve exceder o número total de lugares de passageiro disponíveis para venda.*\n\n*Inclui lugares já vendidos numa etapa de voo, ou seja, inclui os lugares ocupados por **passageiros em trânsito directo** ^(ver-18-)^.*\n\n*Exclui os lugares não efectivamente disponíveis para transporte de passageiros devido aos limites de peso máximo bruto.*\n\nCaso não se disponha de informação nesta base, deve fornecer-se uma das estimativas seguintes (por ordem de preferência da mais à menos adequada):\n\n1. a configuração específica da aeronave expressa em número de lugares de passageiro disponíveis na aeronave (identificada pelo número de matrícula da aeronave),\n\n2. a configuração média da aeronave expressa em número médio de lugares de passageiro disponíveis para o tipo de aeronave para a transportadora,\n\n3. a configuração média da aeronave expressa em número médio de lugares de passageiro disponíveis para o tipo de aeronave."
+  },
+  "5d027313b6873e1c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#src.E0001)) JO C 325 de 6.12.1995, p. 11.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#src.E0002)) JO C 39 de 12.2.1996, p. 25.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 29 de Fevereiro de 1996 (JO C 78 de 18.3.1996, p. 28), confirmado em 16 de Setembro de 1999 (JO C 54 de 25.2.2000, p. 79), posição comum do Conselho de 30 de Setembro de 2002 (JO C 275 E de 12.11.2002, p. 33) e decisão do Parlamento Europeu de 18 de Dezembro de 2002 (ainda não publicada no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#src.E0004)) JO L 42 de 16.2.1999, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#src.E0005)) JO L 52 de 22.2.1997, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#src.E0007)) JO L 181 de 28.6.1989, p. 47.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#src.E0008)) Em 2003, aceitam-se «pelo menos, dados trimestrais».\n\n> ([^9^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#src.E0009)) Em 2003, aceitam-se «dados trimestrais»."
+  },
+  "df4c1dc959c6abda": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Fevereiro de 2003\n\nrelativo às estatísticas sobre o transporte aéreo de passageiros, carga e correio\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 285.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0003)),\n\n(1) Para efectuar as tarefas que lhes foram atribuídas no contexto da política comunitária do transporte aéreo e da futura evolução da política comum dos transportes, as instituições da Comunidade devem ter à sua disposição dados estatísticos comparáveis, coerentes, compatíveis e regulares acerca do volume e da evolução do transporte aéreo de passageiros, carga e correio intra e extracomunitário.\n\n(2) Actualmente, não existem essas estatísticas exaustivas a nível comunitário.\n\n(3) A Decisão 1999/126/CE do Conselho, de 22 de Dezembro de 1998, relativa ao programa estatístico comunitário de 1998 a 2002 ([^4^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0004)), determinou que é necessário elaborar tais estatísticas exaustivas.\n\n(4) A recolha comum de dados numa base comparável ou harmonizada permite a criação de um sistema integrado com informação fiável, coerente e de rápido acesso.\n\n(5) Os dados sobre o transporte aéreo de passageiros, carga e correio devem, sempre que possível, ser compatíveis com os dados internacionais fornecidos pela Organização da Aviação Civil (Internacional OACI) e permitir comparações, sempre que necessário, entre os Estados-Membros e relativamente aos diferentes modos de transporte.\n\n(6) Após determinado período, a Comissão deve apresentar um relatório com vista a permitir uma avaliação da execução do presente regulamento.\n\n(7) Em conformidade com o princípio da subsidiariedade estabelecido no artigo 5.º do Tratado, a criação de normas estatísticas comuns que permitam a produção de dados harmonizados é uma acção que só a nível comunitário pode ser eficientemente efectuada. Tais normas devem ser implementadas em cada Estado-Membro sob a autoridade dos organismos e instituições encarregados da produção de estatísticas oficiais.\n\n(8) O Regulamento (CE) n.º 322/97 do Conselho, de 17 de Fevereiro de 1997, relativo às estatísticas comunitárias ([^5^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0005)), estabelece o quadro de referência para o disposto no presente regulamento.\n\n(9) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0006)).\n\n(10) O Comité do Programa Estatístico criado pela Decisão 89/382/CEE, Euratom ([^7^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0007)) foi consultado.\n\n(11) Através de uma declaração conjunta dos respectivos ministros dos Negócios Estrangeiros feita em Londres em 2 de Dezembro de 1987, o Reino de Espanha e o Reino Unido chegaram a acordo sobre um regime para reforçar a cooperação na utilização do aeroporto de Gibraltar, não tendo ainda o referido regime começado a ser aplicado,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "62027570ac7c857f": {
+   "fragment_id": "Artigo 5.º — Exactidão das estatísticas",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Exactidão das estatísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Exactidão das estatísticas\n\nA recolha de dados deve basear-se em registos completos, a menos que outras normas de exactidão sejam fixadas pela Comissão. Essas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 11.º."
+  },
+  "5b44b8a97cce760f": {
+   "fragment_id": "Artigo 7.º — Transmissão dos resultados",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Transmissão dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transmissão dos resultados\n\n1. Os Estados-Membros devem transmitir ao Serviço de Estatística das Comunidades Europeias os resultados do processamento de dados a que se refere o artigo 6.º, incluindo os dados por eles declarados confidenciais nos termos da legislação ou das práticas nacionais em matéria de confidencialidade estatística, em conformidade com o disposto no Regulamento (CE) n.º 322/97.\n\n2. Os resultados devem ser transmitidos em conformidade com os ficheiros de dados que figuram no anexo I. Os ficheiros devem ser definidos pela Comissão. Essas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 11.º.\n\nO meio a utilizar para a transmissão deve ser definido pela Comissão, pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 11.º.\n\n3. O primeiro período de observação deve ter início em 1 de Janeiro de 2003. A transmissão deve ser efectuada logo que possível, o mais tardar nos seis meses após o termo do período de observação."
+  },
+  "4d2696ae90051d80": {
+   "fragment_id": "Artigo 10.º — Medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas de execução\n\n1. As seguintes medidas de execução são aprovadas pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 11.º:\n\n— a lista dos aeroportos comunitários abrangidos pelo n.º 2 do artigo 3.º,\n\n— a descrição dos códigos de dados e do meio a utilizar para a transmissão dos resultados à Comissão (artigo 7.º),\n\n— a divulgação de resultados estatísticos (artigo 8.º).\n\n2. A Comissão aprova as seguintes medidas de execução:\n\n— a adaptação das especificações que figuram nos anexos,\n\n— a adaptação das características da recolha dos dados (artigo 3.º),\n\n— a exactidão das estatísticas (artigo 5.º),\n\n— a descrição dos ficheiros de dados (artigo 7.º).\n\nEssas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 11.º."
+  },
+  "c88abc912225849d": {
+   "fragment_id": "Artigo 11.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité do Programa Estatístico, criado pela Decisão 89/382/CEE, Euratom.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 e a alínea a) do n.º 5 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "e65e2682613c41df": {
+   "fragment_id": "A. Quadro sobre as etapas de voo [dados mensais ([^8^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0008))]",
+   "type": "divisao",
+   "heading": "A. Quadro sobre as etapas de voo [dados mensais ([^8^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0008))]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Quadro sobre as etapas de voo [dados mensais ([^8^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0008))]\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos.\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | «A1» |  |\n| País declarante | 2 letras | (1) Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo «yy» (2 últimas posições do ano) |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Aeroporto seguinte/anterior | 4 letras | (3) OACI |  |\n| Chegada/partida | 1 dígito | 1 = chegada 2 = partida |  |\n| Serviços regulares/não regulares | 1 dígito | 1 = regular 2 = não regular |  |\n| Serviços de passageiros/serviços polivalentes de carga e correio | 1 dígito | 1 = serviços de passageiros 2 = serviços polivalentes de carga e correio |  |\n| Informações sobre a transportadora aérea | 3 letras | (4) Informações sobre a transportadora aérea (facultativo) |  |\n| Tipo de aeronave | 4 letras | (5) OACI |  |\n| Passageiros a bordo | 12 dígitos |  | Passageiro |\n| Carga e correio a bordo | 12 dígitos |  | Tonelada |\n| Voos comerciais | 12 dígitos |  | Número de voos |\n| Lugares de passageiro disponíveis | 12 dígitos |  | Lugares de passageiro |"
+  },
+  "7f3195c283d04b73": {
+   "fragment_id": "B. Quadro sobre origem/destino do voo [dados mensais ([^9^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0009))]",
+   "type": "divisao",
+   "heading": "B. Quadro sobre origem/destino do voo [dados mensais ([^9^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0009))]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Quadro sobre origem/destino do voo [dados mensais ([^9^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0009))]\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos.\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | B1 |  |\n| País declarante | 2 letras | (1) Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo «yy» (2 últimas posições do ano) |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Aeroporto de origem/de destino | 4 letras | (3) OACI |  |\n| Chegada/partida | 1 dígito | 1 = chegada 2 = partida |  |\n| Serviços regulares/não regulares | 1 dígito | 1 = regular 2 = não regular |  |\n| Serviços de passageiros/serviços polivalentes de carga e correio | 1 dígito | 1 = serviços de passageiros 2 = serviços polivalentes de carga e correio |  |\n| Informações sobre a transportadora aérea | 3 letras | (4) Informações sobre a transportadora aérea (facultativo) |  |\n| Passageiros transportados | 12 dígitos |  | Passageiro |\n| Carga e correio carregados ou descarregados | 12 dígitos |  | Tonelada |"
+  },
+  "c2c8244451947660": {
+   "fragment_id": "C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+   "type": "divisao",
+   "heading": "C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. Quadro sobre os aeroportos (pelo menos, dados anuais)\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos, com excepção do «total dos movimentos de aeronaves comerciais» que também diz respeito a todas as operações comerciais gerais da aviação e do «total dos movimentos de aeronaves» que se refere a todos os movimentos de aeronaves civis (com excepção dos voos estatais).\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | C1 |  |\n| País declarante | 2 letras | (1) Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo «yy» |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Informações sobre a transportadora aérea [(^1^)](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0010) | 3 letras | (4) Informações sobre a transportadora aérea |  |\n| Total dos passageiros transportados | 12 dígitos |  | Passageiro |\n| Total dos passageiros em trânsito directo. | 12 dígitos |  | Passageiro |\n| Total da carga e do correio carregados/descarregados | 12 dígitos |  | Tonelada |\n| Total dos movimentos de aeronaves comerciais | 12 dígitos |  | Movimento |\n| Total dos movimentos de aeronaves | 12 dígitos |  | Movimento |\n| (^1^)O campo «informações sobre a transportadora aérea» só é obrigatório para os aeroportos que devam igualmente declarar os quadros A1 e B1. Para os aeroportos que não estejam sujeitos à obrigação de declarar os quadros A1 e B1, pode utilizar-se um código que abranja todas as transportadoras aéreas. |  |  |  |"
+  },
+  "7dbda8cabf45feac": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#src.E0001)) JO C 325 de 6.12.1995, p. 11.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#src.E0002)) JO C 39 de 12.2.1996, p. 25.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 29 de Fevereiro de 1996 (JO C 78 de 18.3.1996, p. 28), confirmado em 16 de Setembro de 1999 (JO C 54 de 25.2.2000, p. 79), posição comum do Conselho de 30 de Setembro de 2002 (JO C 275 E de 12.11.2002, p. 33) e decisão do Parlamento Europeu de 18 de Dezembro de 2002 (ainda não publicada no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#src.E0004)) JO L 42 de 16.2.1999, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#src.E0005)) JO L 52 de 22.2.1997, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#src.E0007)) JO L 181 de 28.6.1989, p. 47.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#src.E0008)) Em 2003, aceitam-se «pelo menos, dados trimestrais».\n\n> ([^9^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#src.E0009)) Em 2003, aceitam-se «dados trimestrais»."
+  },
+  "f2abd1a1dc18f2d0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Fevereiro de 2003\n\nrelativo às estatísticas sobre o transporte aéreo de passageiros, carga e correio\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 285.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#E0003)),\n\n(1) Para efectuar as tarefas que lhes foram atribuídas no contexto da política comunitária do transporte aéreo e da futura evolução da política comum dos transportes, as instituições da Comunidade devem ter à sua disposição dados estatísticos comparáveis, coerentes, compatíveis e regulares acerca do volume e da evolução do transporte aéreo de passageiros, carga e correio intra e extracomunitário.\n\n(2) Actualmente, não existem essas estatísticas exaustivas a nível comunitário.\n\n(3) A Decisão 1999/126/CE do Conselho, de 22 de Dezembro de 1998, relativa ao programa estatístico comunitário de 1998 a 2002 ([^4^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#E0004)), determinou que é necessário elaborar tais estatísticas exaustivas.\n\n(4) A recolha comum de dados numa base comparável ou harmonizada permite a criação de um sistema integrado com informação fiável, coerente e de rápido acesso.\n\n(5) Os dados sobre o transporte aéreo de passageiros, carga e correio devem, sempre que possível, ser compatíveis com os dados internacionais fornecidos pela Organização da Aviação Civil (Internacional OACI) e permitir comparações, sempre que necessário, entre os Estados-Membros e relativamente aos diferentes modos de transporte.\n\n(6) Após determinado período, a Comissão deve apresentar um relatório com vista a permitir uma avaliação da execução do presente regulamento.\n\n(7) Em conformidade com o princípio da subsidiariedade estabelecido no artigo 5.º do Tratado, a criação de normas estatísticas comuns que permitam a produção de dados harmonizados é uma acção que só a nível comunitário pode ser eficientemente efectuada. Tais normas devem ser implementadas em cada Estado-Membro sob a autoridade dos organismos e instituições encarregados da produção de estatísticas oficiais.\n\n(8) O Regulamento (CE) n.º 322/97 do Conselho, de 17 de Fevereiro de 1997, relativo às estatísticas comunitárias ([^5^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#E0005)), estabelece o quadro de referência para o disposto no presente regulamento.\n\n(9) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#E0006)).\n\n(10) O Comité do Programa Estatístico criado pela Decisão 89/382/CEE, Euratom ([^7^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#E0007)) foi consultado.\n\n(11) Através de uma declaração conjunta dos respectivos ministros dos Negócios Estrangeiros feita em Londres em 2 de Dezembro de 1987, o Reino de Espanha e o Reino Unido chegaram a acordo sobre um regime para reforçar a cooperação na utilização do aeroporto de Gibraltar, não tendo ainda o referido regime começado a ser aplicado,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "645da6e7eaf5919f": {
+   "fragment_id": "A. Quadro sobre as etapas de voo [dados mensais ([^8^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#E0008))]",
+   "type": "divisao",
+   "heading": "A. Quadro sobre as etapas de voo [dados mensais ([^8^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#E0008))]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Quadro sobre as etapas de voo [dados mensais ([^8^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#E0008))]\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos.\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | «A1» |  |\n| País declarante | 2 letras | (1) Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo «yy» (2 últimas posições do ano) |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Aeroporto seguinte/anterior | 4 letras | (3) OACI |  |\n| Chegada/partida | 1 dígito | 1 = chegada 2 = partida |  |\n| Serviços regulares/não regulares | 1 dígito | 1 = regular 2 = não regular |  |\n| Serviços de passageiros/serviços polivalentes de carga e correio | 1 dígito | 1 = serviços de passageiros 2 = serviços polivalentes de carga e correio |  |\n| Informações sobre a transportadora aérea | 3 letras | (4) Informações sobre a transportadora aérea (facultativo) |  |\n| Tipo de aeronave | 4 letras | (5) OACI |  |\n| Passageiros a bordo | 12 dígitos |  | Passageiro |\n| Carga e correio a bordo | 12 dígitos |  | Tonelada |\n| Voos comerciais | 12 dígitos |  | Número de voos |\n| Lugares de passageiro disponíveis | 12 dígitos |  | Lugares de passageiro |"
+  },
+  "088d8f192dd1a1b3": {
+   "fragment_id": "B. Quadro sobre origem/destino do voo [dados mensais ([^9^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#E0009))]",
+   "type": "divisao",
+   "heading": "B. Quadro sobre origem/destino do voo [dados mensais ([^9^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#E0009))]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Quadro sobre origem/destino do voo [dados mensais ([^9^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#E0009))]\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos.\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | B1 |  |\n| País declarante | 2 letras | (1) Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo «yy» (2 últimas posições do ano) |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Aeroporto de origem/de destino | 4 letras | (3) OACI |  |\n| Chegada/partida | 1 dígito | 1 = chegada 2 = partida |  |\n| Serviços regulares/não regulares | 1 dígito | 1 = regular 2 = não regular |  |\n| Serviços de passageiros/serviços polivalentes de carga e correio | 1 dígito | 1 = serviços de passageiros 2 = serviços polivalentes de carga e correio |  |\n| Informações sobre a transportadora aérea | 3 letras | (4) Informações sobre a transportadora aérea (facultativo) |  |\n| Passageiros transportados | 12 dígitos |  | Passageiro |\n| Carga e correio carregados ou descarregados | 12 dígitos |  | Tonelada |"
+  },
+  "30b38e12a9b77af5": {
+   "fragment_id": "C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+   "type": "divisao",
+   "heading": "C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. Quadro sobre os aeroportos (pelo menos, dados anuais)\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos, com excepção do «total dos movimentos de aeronaves comerciais» que também diz respeito a todas as operações comerciais gerais da aviação e do «total dos movimentos de aeronaves» que se refere a todos os movimentos de aeronaves civis (com excepção dos voos estatais).\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | C1 |  |\n| País declarante | 2 letras | (1) Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo «yy» |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Informações sobre a transportadora aérea [(^1^)](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#E0010) | 3 letras | (4) Informações sobre a transportadora aérea |  |\n| Total dos passageiros transportados | 12 dígitos |  | Passageiro |\n| Total dos passageiros em trânsito directo. | 12 dígitos |  | Passageiro |\n| Total da carga e do correio carregados/descarregados | 12 dígitos |  | Tonelada |\n| Total dos movimentos de aeronaves comerciais | 12 dígitos |  | Movimento |\n| Total dos movimentos de aeronaves | 12 dígitos |  | Movimento |\n| (^1^)O campo «informações sobre a transportadora aérea» só é obrigatório para os aeroportos que devam igualmente declarar os quadros A1 e B1. Para os aeroportos que não estejam sujeitos à obrigação de declarar os quadros A1 e B1, pode utilizar-se um código que abranja todas as transportadoras aéreas. |  |  |  |"
+  },
+  "46d14b38c91c6977": {
+   "fragment_id": "1. País declarante",
+   "type": "divisao",
+   "heading": "1. País declarante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. País declarante\n\nO sistema de codificação a usar é o do índice OACI das letras de nacionalidade para os indicadores de localização. Se existirem vários prefixos para o mesmo país, aplica-se apenas o principal prefixo OACI para a metrópole.\n\nBélgica EB\n\nDinamarca EK\n\nAlemanha ED\n\nGrécia LG\n\nEspanha LE\n\nFrança LF\n\nCroácia LD\n\nIrlanda EI\n\nItália LI\n\nLuxemburgo EL\n\nPaíses Baixos EH\n\nÁustria LO\n\nPortugal LP\n\nFinlândia EF\n\nSuécia ES\n\nReino Unido EG\n\nRepública Checa LK\n\nEstónia EE\n\nChipre LC\n\nLetónia EV\n\nLituânia EY\n\nHungria LH\n\nMalta LM\n\nPolónia EP\n\nEslovénia LJ\n\nEslováquia LZ\n\nBulgária LB\n\nRoménia LR"
+  },
+  "5b721f21b0a854ca": {
+   "fragment_id": "14. Lugares de passageiro disponíveis (quadro A1)",
+   "type": "divisao",
+   "heading": "14. Lugares de passageiro disponíveis (quadro A1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 14. Lugares de passageiro disponíveis (quadro A1)\n\nNúmero total de lugares de passageiro disponíveis para venda entre cada par de aeroportos numa etapa de voo ^(ver-10-)^.\n\n*Numa **etapa de voo** ^(ver-10-),^ o número total de passageiros transportados a título oneroso não deve exceder o número total de lugares de passageiro disponíveis para venda.*\n\n*Inclui lugares já vendidos numa etapa de voo, ou seja, inclui os lugares ocupados por **passageiros em trânsito directo** ^(ver-18-)^.*\n\n*Exclui os lugares não efectivamente disponíveis para transporte de passageiros devido aos limites de peso máximo bruto.*\n\n1. a configuração específica da aeronave expressa em número de lugares de passageiro disponíveis na aeronave (identificada pelo número de matrícula da aeronave),\n\n2. a configuração média da aeronave expressa em número médio de lugares de passageiro disponíveis para o tipo de aeronave para a transportadora,\n\n3. a configuração média da aeronave expressa em número médio de lugares de passageiro disponíveis para o tipo de aeronave."
+  },
+  "e85e5d03eec5661c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#src.E0001)) JO C 325 de 6.12.1995, p. 11.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#src.E0002)) JO C 39 de 12.2.1996, p. 25.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 29 de Fevereiro de 1996 (JO C 78 de 18.3.1996, p. 28), confirmado em 16 de Setembro de 1999 (JO C 54 de 25.2.2000, p. 79), posição comum do Conselho de 30 de Setembro de 2002 (JO C 275 E de 12.11.2002, p. 33) e decisão do Parlamento Europeu de 18 de Dezembro de 2002 (ainda não publicada no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#src.E0004)) JO L 42 de 16.2.1999, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#src.E0005)) JO L 52 de 22.2.1997, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#src.E0007)) JO L 181 de 28.6.1989, p. 47.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#src.E0008)) Em 2003, aceitam-se «pelo menos, dados trimestrais».\n\n> ([^9^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#src.E0009)) Em 2003, aceitam-se «dados trimestrais»."
+  }
+ }
+}

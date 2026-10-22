@@ -35,6 +35,515 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-10-29'
+version_history:
+  file: diretiva-ue-2005-36.versoes.json
+  count: 19
+  source_lastmod: '2025-10-29'
+  versions:
+  - date: '2005-09-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0100:por
+    amending_title: DIRECTIVA 2006/100/CE DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 9.º — Informações a fornecer aos destinatários do serviço
+    - Altera Artigo 11.º — Níveis de qualificação
+    - Altera Artigo 21.º — Princípio do reconhecimento automático
+    - Altera Artigo 37.º — Direitos adquiridos específicos dos dentistas
+    - Altera Artigo 41.º — Modalidades do reconhecimento dos títulos de formação de parteira
+    - Altera Artigo 56.º — Autoridades competentes
+    - Altera Artigo 65.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 23.º-A — Circunstâncias específicas
+    - Adita Artigo 33.º-A
+    - Adita Artigo 43.º-A
+    - Adita ANEXO I
+    - Adita Lista de associações ou organizações profissionais que preenchem as condições do n.º 2 do artigo 3.º
+    - Adita IRLANDA ([^26^](http://publications.europa.eu/resource/cellar/073cdea4-7056-4a11-be6d-fdeea2993006.0016.03/DOC_1#E0026))
+    - Adita REINO UNIDO
+    - Adita ANEXO II
+    - Adita Lista dos ciclos de formação de estrutura específica a que se refere a subalínea ii) da alínea c) artigo 11.º
+    - Adita 1. Domínio paramédico e dos cuidados infantis
+    - Adita 2. Sector dos mestres-artesãos («Mester/Meister/Maître»), que corresponde a ciclos de estudos e de formação relativos
+      às actividades artesanais não abrangidas pelo capítulo II do título III da presente directiva
+    - Adita 3. Domínio marítimo
+    - Adita 4. Domínio técnico
+    - 'Adita 5. Formações no Reino Unido reconhecidas como National Vocational Qualifications ou como Scottish Vocational
+      Qualifications:'
+    - Adita ANEXO III
+    - Adita Lista dos ciclos de formação regulamentados referidos no terceiro parágrafo do n.º 2 do artigo 13.º
+    - Adita ANEXO IV
+    - Adita Actividades ligadas às categorias de experiência profissional referidas nos artigos 17.º, 18.º e 19.º
+    - Adita Lista I
+    - Adita Classes abrangidas pela Directiva 64/427/CEE, alterada pela Directiva 69/77/CEE, e pelas Directivas 68/366/CEE
+      e 82/489/CEE
+    - Adita 1 Directiva 64/427/CEE
+    - Adita 2 Directiva 68/366/CEE
+    - Adita 3 Directiva 82/489/CEE
+    - Adita Lista II
+    - Adita Classes das Directivas 75/368/CEE, 75/369/CEE e 82/470/CEE
+    - Adita 1 Directiva 75/368/CEE (actividades referidas no n.º 1 do artigo 5.º)
+    - 'Adita 2 Directiva 75/369/CEE (artigo 6.º: quando a actividade for considerada industrial ou artesanal)'
+    - Adita 3 Directiva 82/470/CEE (n.^os^ 1 e 3 do artigo 6.º)
+    - Adita Lista III
+    - Adita Directivas 64/222/CEE, 68/364/CEE, 68/368/CEE, 75/368/CEE, 75/369/CEE, 70/523/CEE e 82/470/CEE
+  - date: '2007-12-26'
+    amending: eu:celex:32007R1430:por
+    amending_title: REGULAMENTO (CE) N. o 1430/2007 DA COMISSÃO de 5 de Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Dispensas
+    - Altera Artigo 9.º — Informações a fornecer aos destinatários do serviço
+    - Altera Artigo 10.º — Âmbito de aplicação
+    - Altera Artigo 11.º — Níveis de qualificação
+    - Altera Artigo 14.º — Medidas de compensação
+    - Altera Artigo 49.º — Direitos adquiridos específicos dos arquitectos
+    - Altera Artigo 56.º — Autoridades competentes
+    - Altera 1. Domínio paramédico e dos cuidados infantis
+    - Altera 2. Sector dos mestres-artesãos («Mester/Meister/Maître»), que corresponde a ciclos de estudos e de formação relativos
+      às actividades artesanais não abrangidas pelo capítulo II do título III da presente directiva
+    - Altera 4. Domínio técnico
+    - Altera Lista dos ciclos de formação regulamentados referidos no terceiro parágrafo do n.º 2 do artigo 13.º
+    - Altera 5.1.3. Títulos de formação de médico especialista
+    - Altera 5.3.2. Títulos de formação básica de dentista
+    - Altera 5.3.3. Títulos de formação de dentistas especialistas
+    - Altera 5.4.2. Títulos de formação de veterinário
+    - Altera 5.6.2. ítulos de formação de farmacêutico
+    - Altera 5.7.1. Títulos de formação de arquitecto reconhecidos de acordo com o artigo 46.º
+    - Altera Notas
+    - Adita IRLANDA ([^26^](http://publications.europa.eu/resource/cellar/f695d3f9-8fb9-499f-8fba-d8ae353efa3a.0017.03/DOC_1#E0026))
+    - 'Adita 2-A. Mestre-artesão («Meister/Maître») [formação escolar e profissional que proporciona o título de mestre-artesão
+      («Meister/Maître»)] nas seguintes profissões:'
+    - Adita Títulos de formação de arquitecto que beneficiam dos direitos adquiridos ao abrigo do n.º 1 do artigo 49.º
+    - Suprime IRLANDA ([^26^](http://publications.europa.eu/resource/cellar/073cdea4-7056-4a11-be6d-fdeea2993006.0016.03/DOC_1#E0026))
+    - Suprime 6. Títulos de formação de arquitecto que beneficiam dos direitos adquiridos ao abrigo do n.º 1 do artigo 49.º
+  - date: '2008-08-21'
+    amending: eu:celex:32008R0755:por
+    amending_title: REGULAMENTO (CE) N. o 755/2008 DA COMISSÃO de 31 de Julho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Informações a fornecer aos destinatários do serviço
+    - Altera Artigo 56.º — Autoridades competentes
+    - Altera 1. Domínio paramédico e dos cuidados infantis
+    - Altera 3. Domínio marítimo
+    - 'Altera 5. Formações no Reino Unido reconhecidas como National Vocational Qualifications ou como Scottish Vocational
+      Qualifications:'
+    - Altera Lista dos ciclos de formação regulamentados referidos no terceiro parágrafo do n.º 2 do artigo 13.º
+    - Altera 5.1.3. Títulos de formação de médico especialista
+    - Altera 5.7.1. Títulos de formação de arquitecto reconhecidos de acordo com o artigo 46.º
+    - Altera Notas
+    - Adita IRLANDA ([^26^](http://publications.europa.eu/resource/cellar/694f6d4b-3098-4eb8-a29c-8b2da10a2388.0017.03/DOC_1#E0026))
+    - Suprime IRLANDA ([^26^](http://publications.europa.eu/resource/cellar/f695d3f9-8fb9-499f-8fba-d8ae353efa3a.0017.03/DOC_1#E0026))
+  - date: '2008-12-11'
+    amending: eu:celex:32008R1137:por
+    amending_title: REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Informações a fornecer aos destinatários do serviço
+    - Altera Artigo 11.º — Níveis de qualificação
+    - Altera Artigo 13.º — Condições para o reconhecimento
+    - Altera Artigo 15.º — Dispensa de medidas de compensação com base em plataformas comuns
+    - Altera Artigo 21.º — Princípio do reconhecimento automático
+    - Altera Artigo 25.º — Formação médica especializada
+    - Altera Artigo 26.º — Denominações das formações médicas especializadas
+    - Altera Artigo 31.º — Formação de enfermeiro responsável por cuidados gerais
+    - Altera Artigo 34.º — Formação de base de dentista
+    - Altera Artigo 35.º — Formação de dentista especialista
+    - Altera Artigo 38.º — Formação de veterinário
+    - Altera Artigo 40.º — Formação de parteira
+    - Altera Artigo 44.º — Formação de farmacêutico
+    - Altera Artigo 46.º — Formação de arquitecto
+    - Altera Artigo 56.º — Autoridades competentes
+    - Altera 1. Domínio paramédico e dos cuidados infantis
+    - Altera Lista dos ciclos de formação regulamentados referidos no terceiro parágrafo do n.º 2 do artigo 13.º
+    - Altera 5.1.3. Títulos de formação de médico especialista
+    - Altera 5.7.1. Títulos de formação de arquitecto reconhecidos de acordo com o artigo 46.º
+    - Altera Notas
+    - Adita Artigo 20.º
+    - Adita Artigo 58.º
+    - Adita IRLANDA ([^26^](http://publications.europa.eu/resource/cellar/eab5dd1d-c754-4499-90d2-f36e2ee9cffd.0017.03/DOC_1#E0026))
+    - Suprime Artigo 20.º — Alteração das listas de actividades constantes do anexo IV
+    - Suprime Artigo 58.º — Comité de reconhecimento das qualificações profissionais
+    - Suprime IRLANDA ([^26^](http://publications.europa.eu/resource/cellar/694f6d4b-3098-4eb8-a29c-8b2da10a2388.0017.03/DOC_1#E0026))
+  - date: '2009-04-27'
+    amending: eu:celex:32009R0279:por
+    amending_title: REGULAMENTO (CE) N. o 279/2009 DA COMISSÃO de 6 de Abril de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Informações a fornecer aos destinatários do serviço
+    - Altera Artigo 56.º — Autoridades competentes
+    - Altera 1. Domínio paramédico e dos cuidados infantis
+    - Altera 2. Sector dos mestres-artesãos («Mester/Meister/Maître»), que corresponde a ciclos de estudos e de formação relativos
+      às actividades artesanais não abrangidas pelo capítulo II do título III da presente directiva
+    - Altera Lista dos ciclos de formação regulamentados referidos no terceiro parágrafo do n.º 2 do artigo 13.º
+    - Altera 5.1.3. Títulos de formação de médico especialista
+    - Altera 5.7.1. Títulos de formação de arquitecto reconhecidos de acordo com o artigo 46.º
+    - Altera Notas
+    - Adita IRLANDA ([^26^](http://publications.europa.eu/resource/cellar/2a496cfc-f4cc-479e-8f06-7b43bf0e91a0.0017.03/DOC_1#E0026))
+    - Suprime IRLANDA ([^26^](http://publications.europa.eu/resource/cellar/eab5dd1d-c754-4499-90d2-f36e2ee9cffd.0017.03/DOC_1#E0026))
+  - date: '2011-03-24'
+    amending: eu:celex:32011R0213:por
+    amending_title: Regulamento (UE) n. o 213/2011 da Comissão de 3 de Março de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Informações a fornecer aos destinatários do serviço
+    - Altera Artigo 18.º — Actividades constantes da lista II do anexo IV
+    - Altera Artigo 19.º — Actividades constantes da lista III do anexo IV
+    - Altera Artigo 56.º — Autoridades competentes
+    - Altera Artigo 58.º
+    - Altera 1. Domínio paramédico e dos cuidados infantis
+    - Altera Lista dos ciclos de formação regulamentados referidos no terceiro parágrafo do n.º 2 do artigo 13.º
+    - Altera 5.1.3. Títulos de formação de médico especialista
+    - Altera 5.7.1. Títulos de formação de arquitecto reconhecidos de acordo com o artigo 46.º
+    - Altera Notas
+    - Adita IRLANDA ([^26^](http://publications.europa.eu/resource/cellar/1597ed99-6935-49b4-bc54-0ed0a1b8e76d.0018.03/DOC_1#E0026))
+    - Suprime IRLANDA ([^26^](http://publications.europa.eu/resource/cellar/2a496cfc-f4cc-479e-8f06-7b43bf0e91a0.0017.03/DOC_1#E0026))
+  - date: '2012-08-01'
+    amending: eu:celex:32012R0623:por
+    amending_title: REGULAMENTO (UE) N. o 623/2012 DA COMISSÃO de 11 de julho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Informações a fornecer aos destinatários do serviço
+    - Altera Artigo 56.º — Autoridades competentes
+    - Altera Artigo 58.º
+    - Altera 1. Domínio paramédico e dos cuidados infantis
+    - Altera 4. Domínio técnico
+    - Altera Lista dos ciclos de formação regulamentados referidos no terceiro parágrafo do n.º 2 do artigo 13.º
+    - Altera 1 Directiva 64/427/CEE
+    - Altera 5.1.3. Títulos de formação de médico especialista
+    - Altera 5.4.2. Títulos de formação de veterinário
+    - Altera 5.7.1. Títulos de formação de arquitecto reconhecidos de acordo com o artigo 46.º
+    - Altera Notas
+    - Adita IRLANDA ([^26^](http://publications.europa.eu/resource/cellar/3ed98619-04b5-45ea-8730-fb3f9984ed3e.0018.03/DOC_1#E0026))
+    - Suprime IRLANDA ([^26^](http://publications.europa.eu/resource/cellar/1597ed99-6935-49b4-bc54-0ed0a1b8e76d.0018.03/DOC_1#E0026))
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0025:por
+    amending_title: DIRETIVA 2013/25/UE DO CONSELHO de 13 de maio de 2013; ►A1
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Informações a fornecer aos destinatários do serviço
+    - Altera Artigo 23.º — Direitos adquiridos
+    - Altera Artigo 49.º — Direitos adquiridos específicos dos arquitectos
+    - Altera Artigo 56.º — Autoridades competentes
+    - Altera 1. Domínio paramédico e dos cuidados infantis
+    - Altera Lista dos ciclos de formação regulamentados referidos no terceiro parágrafo do n.º 2 do artigo 13.º
+    - Altera 5.1.1. Títulos de formação médica de base
+    - Altera 5.1.2. Títulos de formação de médico especialista
+    - Altera 5.1.3. Títulos de formação de médico especialista
+    - Altera 5.1.4. Títulos de formação de médico generalista (clínica geral)
+    - Altera 5.2.2. Títulos de formação de enfermeiro responsável por cuidados gerais
+    - Altera 5.3.2. Títulos de formação básica de dentista
+    - Altera 5.4.2. Títulos de formação de veterinário
+    - Altera 5.5.2. Títulos de formação de parteira
+    - Altera 5.6.2. ítulos de formação de farmacêutico
+    - Altera 5.7.1. Títulos de formação de arquitecto reconhecidos de acordo com o artigo 46.º
+    - Altera Títulos de formação de arquitecto que beneficiam dos direitos adquiridos ao abrigo do n.º 1 do artigo 49.º
+    - Altera Notas
+    - Adita Artigo 43.º-B
+    - Adita IRLANDA ([^26^](http://publications.europa.eu/resource/cellar/c9439900-4ebd-4f6f-bc72-b0ee909bb2ac.0018.03/DOC_1#E0026))
+    - Suprime IRLANDA ([^26^](http://publications.europa.eu/resource/cellar/3ed98619-04b5-45ea-8730-fb3f9984ed3e.0018.03/DOC_1#E0026))
+  - date: '2014-01-17'
+    amending: eu:celex:32013L0055:por
+    amending_title: DIRETIVA 2013/55/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Novembro
+      de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Efeitos do reconhecimento
+    - Altera Artigo 5.º — Princípio da livre prestação de serviços
+    - Altera Artigo 7.º — Declaração prévia em caso de deslocação do prestador de serviços
+    - Altera Artigo 8.º — Cooperação administrativa
+    - Altera Artigo 9.º — Informações a fornecer aos destinatários do serviço
+    - Altera Artigo 11.º — Níveis de qualificação
+    - Altera Artigo 12.º — Igualdade de tratamento dos títulos de formação
+    - Altera Artigo 13.º — Condições para o reconhecimento
+    - Altera Artigo 14.º — Medidas de compensação
+    - Altera Artigo 21.º — Princípio do reconhecimento automático
+    - Altera Artigo 22.º — Disposições comuns em matéria de formação
+    - Altera Artigo 24.º — Formação médica de base
+    - Altera Artigo 25.º — Formação médica especializada
+    - Altera Artigo 26.º — Denominações das formações médicas especializadas
+    - Altera Artigo 27.º — Direitos adquiridos específicos dos médicos especialistas
+    - Altera Artigo 28.º — Formação específica em medicina geral
+    - Altera Artigo 31.º — Formação de enfermeiro responsável por cuidados gerais
+    - Altera Artigo 33.º — Direitos adquiridos específicos dos enfermeiros responsáveis por cuidados gerais
+    - Altera Artigo 33.º-A
+    - Altera Artigo 34.º — Formação de base de dentista
+    - Altera Artigo 35.º — Formação de dentista especialista
+    - Altera Artigo 37.º — Direitos adquiridos específicos dos dentistas
+    - Altera Artigo 38.º — Formação de veterinário
+    - Altera Artigo 40.º — Formação de parteira
+    - Altera Artigo 41.º — Modalidades do reconhecimento dos títulos de formação de parteira
+    - Altera Artigo 43.º — Direitos adquiridos específicos das parteiras
+    - Altera Artigo 44.º — Formação de farmacêutico
+    - Altera Artigo 45.º — Exercício das actividades profissionais de farmacêutico
+    - Altera Artigo 49.º — Direitos adquiridos específicos dos arquitectos
+    - Altera Artigo 50.º — Documentação e formalidades
+    - Altera Artigo 52.º — Uso do título profissional
+    - Altera Artigo 53.º — Conhecimentos linguísticos
+    - Altera Artigo 56.º — Autoridades competentes
+    - Altera Artigo 60.º — Relatórios
+    - Altera Artigo 61.º — Cláusula de derrogação
+    - Altera 5.1.3. Títulos de formação de médico especialista
+  - date: '2016-05-24'
+    amending: eu:celex:32016D0790:por
+    amending_title: DECISÃO DELEGADA (UE) 2016/790 DA COMISSÃO Texto relevante para efeitos do EEE de 13 de janeiro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º-E — Tratamento e acesso aos dados relativos à carteira profissional europeia
+    - Altera Artigo 9.º — Informações a fornecer aos destinatários do serviço
+    - Altera Artigo 49.º-A — Quadro de formação comum
+    - Altera Artigo 57.º — Acesso central em linha à informação
+    - Altera Artigo 57.º-A — Procedimentos por via eletrónica
+    - Altera Artigo 59.º — Transparência
+    - Altera 5.1.1. Títulos de formação médica de base
+    - Altera 5.1.2. Títulos de formação de médico especialista
+    - Altera 5.1.3. Títulos de formação de médico especialista
+    - Altera 5.1.4. Títulos de formação de médico generalista (clínica geral)
+    - Altera 5.2.2. Títulos de formação de enfermeiro responsável por cuidados gerais
+    - Altera 5.3.2. Títulos de formação básica de dentista
+    - Altera 5.3.3. Títulos de formação de dentistas especialistas
+    - Altera 5.4.2. Títulos de formação de veterinário
+    - Altera Notas
+    - Adita IRLANDA ([^33^](http://publications.europa.eu/resource/cellar/6b487d16-d149-4f67-b318-5709d9a8c3f2.0015.02/DOC_1#E0033))
+    - Adita 5.5.2 Títulos de formação de parteira
+    - Adita 5.6.2. Títulos de formação de farmacêutico
+    - Adita 5.7.1. Títulos de formação de arquiteto reconhecidos de acordo com o artigo 46.º
+    - Suprime IRLANDA ([^33^](http://publications.europa.eu/resource/cellar/92fa2e60-d5a9-40e8-8847-524743fee76e.0018.03/DOC_4#E0033))
+    - Suprime 5.5.2. Títulos de formação de parteira
+    - Suprime 5.6.2. ítulos de formação de farmacêutico
+    - Suprime 5.7.1. Títulos de formação de arquitecto reconhecidos de acordo com o artigo 46.º
+  - date: '2019-04-15'
+    amending: eu:celex:32017D2113:por
+    amending_title: M11; DECISÃO DELEGADA (UE) 2019/608 DA COMISSÃO Texto relevante para efeitos do EEE de 16 de janeiro de
+      2019; ATO relativo às condições de adesão da República da Croácia e às adaptações do Tratado da União Europeia, do Tratado
+      sobre o Funcionamento da União Europeia e do Tratado que institui a Comunidade Europeia da Energia Atómica
+    changes:
+    - Altera Artigo 4.º-E — Tratamento e acesso aos dados relativos à carteira profissional europeia
+    - Altera Artigo 9.º — Informações a fornecer aos destinatários do serviço
+    - Altera Artigo 49.º-A — Quadro de formação comum
+    - Altera Artigo 57.º — Acesso central em linha à informação
+    - Altera Artigo 57.º-A — Procedimentos por via eletrónica
+    - Altera Artigo 59.º — Transparência
+    - Altera 5.1.1. Títulos de formação médica de base
+    - Altera 5.1.2. Títulos de formação de médico especialista
+    - Altera 5.1.3. Títulos de formação de médico especialista
+    - Altera 5.1.4. Títulos de formação de médico generalista (clínica geral)
+    - Altera 5.2.2. Títulos de formação de enfermeiro responsável por cuidados gerais
+    - Altera 5.3.2. Títulos de formação básica de dentista
+    - Altera 5.3.3. Títulos de formação de dentistas especialistas
+    - Altera 5.4.2. Títulos de formação de veterinário
+    - Altera 5.6.2. Títulos de formação de farmacêutico
+    - Altera 5.7.1. Títulos de formação de arquiteto reconhecidos de acordo com o artigo 46.º
+    - Altera Notas
+    - Adita IRLANDA ([^11^](http://publications.europa.eu/resource/cellar/9baa0515-a9bb-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0011))
+    - Adita V.4. VETERINÁRIO
+    - Adita 5.5.2. Títulos de formação de parteira
+    - Suprime IRLANDA ([^33^](http://publications.europa.eu/resource/cellar/6b487d16-d149-4f67-b318-5709d9a8c3f2.0015.02/DOC_1#E0033))
+    - Suprime V. 4. VETERINÁRIO
+    - Suprime 5.5.2 Títulos de formação de parteira
+  - date: '2020-04-24'
+    amending: eu:celex:32020D0548:por
+    amending_title: DECISÃO DELEGADA (UE) 2020/548 DA COMISSÃO Texto relevante para efeitos do EEE de 23 de janeiro de 2020
+    changes:
+    - Altera Artigo 4.º-E — Tratamento e acesso aos dados relativos à carteira profissional europeia
+    - Altera Artigo 9.º — Informações a fornecer aos destinatários do serviço
+    - Altera Artigo 10.º — Âmbito de aplicação
+    - Altera Artigo 49.º-A — Quadro de formação comum
+    - Altera Artigo 57.º — Acesso central em linha à informação
+    - Altera Artigo 57.º-A — Procedimentos por via eletrónica
+    - Altera Artigo 59.º — Transparência
+    - Altera 5.1.1. Títulos de formação médica de base
+    - Altera 5.1.2. Títulos de formação de médico especialista
+    - Altera 5.1.4. Títulos de formação de médico generalista (clínica geral)
+    - Altera 5.3.2. Títulos de formação básica de dentista
+    - Altera 5.3.3. Títulos de formação de dentistas especialistas
+    - Altera 5.4.2. Títulos de formação de veterinário
+    - Altera 5.5.2. Títulos de formação de parteira
+    - Altera 5.6.2. Títulos de formação de farmacêutico
+    - Altera 5.7.1. Títulos de formação de arquiteto reconhecidos de acordo com o artigo 46.º
+    - Altera Notas
+    - Adita IRLANDA ([^11^](http://publications.europa.eu/resource/cellar/7bf06502-9f7a-11ea-9d2d-01aa75ed71a1.0019.02/DOC_1#E0011))
+    - Adita 5.1.3. Lista das denominações das formações médicas especializadas
+    - Adita 5.2.2. Títulos de formação de enfermeiro responsável por cuidados
+    - Suprime IRLANDA ([^11^](http://publications.europa.eu/resource/cellar/9baa0515-a9bb-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0011))
+    - Suprime 5.1.3. Títulos de formação de médico especialista
+    - Suprime 5.2.2. Títulos de formação de enfermeiro responsável por cuidados gerais
+  - date: '2021-12-10'
+    amending: eu:celex:32021D2183:por
+    amending_title: DECISÃO DELEGADA (UE) 2021/2183 DA COMISSÃO de 25 de agosto de 2021
+    changes:
+    - Altera Artigo 4.º-E — Tratamento e acesso aos dados relativos à carteira profissional europeia
+    - Altera Artigo 9.º — Informações a fornecer aos destinatários do serviço
+    - Altera Artigo 49.º-A — Quadro de formação comum
+    - Altera Artigo 57.º — Acesso central em linha à informação
+    - Altera Artigo 57.º-A — Procedimentos por via eletrónica
+    - Altera Artigo 59.º — Transparência
+    - Altera 5.1.1. Títulos de formação médica de base
+    - Altera 5.1.2. Títulos de formação de médico especialista
+    - Altera 5.1.3. Lista das denominações das formações médicas especializadas
+    - Altera 5.1.4. Títulos de formação de médico generalista (clínica geral)
+    - Altera 5.3.2. Títulos de formação básica de dentista
+    - Altera 5.3.3. Títulos de formação de dentistas especialistas
+    - Altera 5.4.2. Títulos de formação de veterinário
+    - Altera 5.5.2. Títulos de formação de parteira
+    - Altera 5.6.2. Títulos de formação de farmacêutico
+    - Altera 5.7.1. Títulos de formação de arquiteto reconhecidos de acordo com o artigo 46.º
+    - Altera Notas
+    - Adita IRLANDA ([^11^](http://publications.europa.eu/resource/cellar/61065de5-67ed-11ec-9136-01aa75ed71a1.0019.02/DOC_1#E0011))
+    - Adita 5.2.2. Títulos de formação de enfermeiro responsável por cuidados gerais
+    - Suprime IRLANDA ([^11^](http://publications.europa.eu/resource/cellar/7bf06502-9f7a-11ea-9d2d-01aa75ed71a1.0019.02/DOC_1#E0011))
+    - Suprime 5.2.2. Títulos de formação de enfermeiro responsável por cuidados
+  - date: '2023-10-09'
+    amending: eu:celex:32023D2383:por
+    amending_title: DECISÃO DELEGADA (UE) 2023/2383 DA COMISSÃO de 23 de maio de 2023
+    changes:
+    - Altera Artigo 4.º-E — Tratamento e acesso aos dados relativos à carteira profissional europeia
+    - Altera Artigo 9.º — Informações a fornecer aos destinatários do serviço
+    - Altera Artigo 49.º-A — Quadro de formação comum
+    - Altera Artigo 57.º — Acesso central em linha à informação
+    - Altera Artigo 57.º-A — Procedimentos por via eletrónica
+    - Altera Artigo 59.º — Transparência
+    - Altera 5.1.1. Títulos de formação médica de base
+    - Altera 5.1.2. Títulos de formação de médico especialista
+    - Altera 5.1.3. Lista das denominações das formações médicas especializadas
+    - Altera 5.1.4. Títulos de formação de médico generalista (clínica geral)
+    - Altera 5.2.2. Títulos de formação de enfermeiro responsável por cuidados gerais
+    - Altera 5.3.2. Títulos de formação básica de dentista
+    - Altera 5.3.3. Títulos de formação de dentistas especialistas
+    - Altera 5.4.2. Títulos de formação de veterinário
+    - Altera 5.5.2. Títulos de formação de parteira
+    - Altera 5.6.2. Títulos de formação de farmacêutico
+    - Altera 5.7.1. Títulos de formação de arquiteto reconhecidos de acordo com o artigo 46.º
+    - Altera Notas
+    - Adita IRLANDA ([^11^](http://publications.europa.eu/resource/cellar/7ea5f4a1-77e7-11ee-99ba-01aa75ed71a1.0019.02/DOC_1#E0011))
+    - Suprime IRLANDA ([^11^](http://publications.europa.eu/resource/cellar/61065de5-67ed-11ec-9136-01aa75ed71a1.0019.02/DOC_1#E0011))
+  - date: '2024-03-03'
+    amending: eu:celex:32024L0505:por
+    amending_title: DIRETIVA (UE) 2024/505 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de fevereiro de 2024
+    changes:
+    - Altera Artigo 4.º-E — Tratamento e acesso aos dados relativos à carteira profissional europeia
+    - Altera Artigo 9.º — Informações a fornecer aos destinatários do serviço
+    - Altera Artigo 10.º — Âmbito de aplicação
+    - Altera Artigo 49.º-A — Quadro de formação comum
+    - Altera Artigo 57.º — Acesso central em linha à informação
+    - Altera Artigo 57.º-A — Procedimentos por via eletrónica
+    - Altera Artigo 59.º — Transparência
+    - Altera 5.1.1. Títulos de formação médica de base
+    - Altera 5.1.2. Títulos de formação de médico especialista
+    - Altera 5.1.3. Lista das denominações das formações médicas especializadas
+    - Altera 5.1.4. Títulos de formação de médico generalista (clínica geral)
+    - Altera 5.2.2. Títulos de formação de enfermeiro responsável por cuidados gerais
+    - Altera 5.3.2. Títulos de formação básica de dentista
+    - Altera 5.3.3. Títulos de formação de dentistas especialistas
+    - Altera 5.4.2. Títulos de formação de veterinário
+    - Altera 5.5.2. Títulos de formação de parteira
+    - Altera 5.6.2. Títulos de formação de farmacêutico
+    - Altera 5.7.1. Títulos de formação de arquiteto reconhecidos de acordo com o artigo 46.º
+    - Altera Notas
+    - Adita Artigo 33.º-A — Direitos adquiridos específicos dos enfermeiros responsáveis por cuidados gerais formados na Roménia
+    - Adita Artigo 33.º-B — Validade dos direitos adquiridos antes de 3 de março de 2024
+    - Adita IRLANDA ([^12^](http://publications.europa.eu/resource/cellar/f1d5de2d-db22-11ee-b9d9-01aa75ed71a1.0019.02/DOC_1#E0012))
+    - Suprime Artigo 33.º-A
+    - Suprime IRLANDA ([^11^](http://publications.europa.eu/resource/cellar/7ea5f4a1-77e7-11ee-99ba-01aa75ed71a1.0019.02/DOC_1#E0011))
+  - date: '2024-06-20'
+    amending: eu:celex:32024D1395:por
+    amending_title: DECISÃO DELEGADA (UE) 2024/1395 DA COMISSÃO de 5 de março de 2024; DIRETIVA DELEGADA (UE) 2024/782 DA
+      COMISSÃO de 4 de março de 2024
+    changes:
+    - Altera Artigo 4.º-E — Tratamento e acesso aos dados relativos à carteira profissional europeia
+    - Altera Artigo 9.º — Informações a fornecer aos destinatários do serviço
+    - Altera Artigo 31.º — Formação de enfermeiro responsável por cuidados gerais
+    - Altera Artigo 33.º-B — Validade dos direitos adquiridos antes de 3 de março de 2024
+    - Altera Artigo 34.º — Formação de base de dentista
+    - Altera Artigo 44.º — Formação de farmacêutico
+    - Altera Artigo 49.º-A — Quadro de formação comum
+    - Altera Artigo 57.º — Acesso central em linha à informação
+    - Altera Artigo 57.º-A — Procedimentos por via eletrónica
+    - Altera Artigo 59.º — Transparência
+    - Altera 5.1.1. Títulos de formação médica de base
+    - Altera 5.1.2. Títulos de formação de médico especialista
+    - Altera 5.1.3. Lista das denominações das formações médicas especializadas
+    - Altera 5.1.4. Títulos de formação de médico generalista (clínica geral)
+    - Altera 5.2.1. Programa de estudos para os enfermeiros responsáveis por cuidados gerais
+    - Altera 5.2.2. Títulos de formação de enfermeiro responsável por cuidados gerais
+    - Altera 5.3.1. Programa de estudos para os dentistas
+    - Altera 5.3.2. Títulos de formação básica de dentista
+    - Altera 5.3.3. Títulos de formação de dentistas especialistas
+    - Altera 5.6.1. Programa de estudos para os farmacêuticos
+    - Altera 5.7.1. Títulos de formação de arquiteto reconhecidos de acordo com o artigo 46.º
+    - Altera Notas
+    - Adita IRLANDA ([^12^](http://publications.europa.eu/resource/cellar/2750e5f8-32e4-11ef-b441-01aa75ed71a1.0019.02/DOC_1#E0012))
+    - Adita 5.4.2. Evidence of formal qualifications of veterinary surgeons
+    - Adita 5.5.2. Evidence of formal qualifications of midwives
+    - Adita 5.6.2. Evidence of formal qualifications of pharmacists
+    - Suprime IRLANDA ([^12^](http://publications.europa.eu/resource/cellar/f1d5de2d-db22-11ee-b9d9-01aa75ed71a1.0019.02/DOC_1#E0012))
+    - Suprime 5.4.2. Títulos de formação de veterinário
+    - Suprime 5.5.2. Títulos de formação de parteira
+    - Suprime 5.6.2. Títulos de formação de farmacêutico
+  - date: '2025-07-10'
+    amending: eu:celex:32025L1223:por
+    amending_title: DIRETIVA DELEGADA (UE) 2025/1223 DA COMISSÃO de 10 de abril de 2025
+    changes:
+    - Altera Artigo 4.º-E — Tratamento e acesso aos dados relativos à carteira profissional europeia
+    - Altera Artigo 9.º — Informações a fornecer aos destinatários do serviço
+    - Altera Artigo 33.º-B — Validade dos direitos adquiridos antes de 3 de março de 2024
+    - Altera Artigo 38.º — Formação de veterinário
+    - Altera Artigo 49.º-A — Quadro de formação comum
+    - Altera Artigo 57.º — Acesso central em linha à informação
+    - Altera Artigo 57.º-A — Procedimentos por via eletrónica
+    - Altera Artigo 59.º — Transparência
+    - Altera 5.1.1. Títulos de formação médica de base
+    - Altera 5.1.2. Títulos de formação de médico especialista
+    - Altera 5.1.3. Lista das denominações das formações médicas especializadas
+    - Altera 5.1.4. Títulos de formação de médico generalista (clínica geral)
+    - Altera 5.2.2. Títulos de formação de enfermeiro responsável por cuidados gerais
+    - Altera 5.3.2. Títulos de formação básica de dentista
+    - Altera 5.3.3. Títulos de formação de dentistas especialistas
+    - Altera 5.4.2. Evidence of formal qualifications of veterinary surgeons
+    - Altera 5.5.2. Evidence of formal qualifications of midwives
+    - Altera 5.6.2. Evidence of formal qualifications of pharmacists
+    - Altera 5.7.1. Títulos de formação de arquiteto reconhecidos de acordo com o artigo 46.º
+    - Altera Notas
+    - Adita IRLANDA ([^12^](http://publications.europa.eu/resource/cellar/74742fc2-a904-11f0-89c6-01aa75ed71a1.0019.02/DOC_1#E0012))
+    - Adita 5.4.1 Programa de estudos para os veterinários
+    - Suprime IRLANDA ([^12^](http://publications.europa.eu/resource/cellar/2750e5f8-32e4-11ef-b441-01aa75ed71a1.0019.02/DOC_1#E0012))
+    - Suprime 5.4.1. Programa de estudos para os veterinários
+  - date: '2025-10-29'
+    amending: eu:celex:32025D2187:por
+    amending_title: DECISÃO DELEGADA (UE) 2025/2187 DA COMISSÃO de 30 de julho de 2025
+    changes:
+    - Altera Artigo 4.º-E — Tratamento e acesso aos dados relativos à carteira profissional europeia
+    - Altera Artigo 9.º — Informações a fornecer aos destinatários do serviço
+    - Altera Artigo 33.º-B — Validade dos direitos adquiridos antes de 3 de março de 2024
+    - Altera Artigo 49.º-A — Quadro de formação comum
+    - Altera Artigo 57.º — Acesso central em linha à informação
+    - Altera Artigo 57.º-A — Procedimentos por via eletrónica
+    - Altera Artigo 59.º — Transparência
+    - Altera 5.1.1. Títulos de formação médica de base
+    - Altera 5.1.2. Títulos de formação de médico especialista
+    - Altera 5.1.3. Lista das denominações das formações médicas especializadas
+    - Altera 5.1.4. Títulos de formação de médico generalista (clínica geral)
+    - Altera 5.2.2. Títulos de formação de enfermeiro responsável por cuidados gerais
+    - Altera 5.3.2. Títulos de formação básica de dentista
+    - Altera 5.7.1. Títulos de formação de arquiteto reconhecidos de acordo com o artigo 46.º
+    - Altera Notas
+    - Adita IRLANDA ([^12^](http://publications.europa.eu/resource/cellar/58dcea75-e025-11f0-8439-01aa75ed71a1.0020.02/DOC_1#E0012))
+    - Adita 5.3.3. Títulos de formação de dentistas especialistas Cirurgia Oral
+    - Adita 5.4.2. Títulos de formação de veterinário
+    - Adita 5.5.2. Títulos de formação de parteira
+    - Adita 5.6.2. Títulos de formação de farmacêutico
+    - Suprime IRLANDA ([^12^](http://publications.europa.eu/resource/cellar/74742fc2-a904-11f0-89c6-01aa75ed71a1.0019.02/DOC_1#E0012))
+    - Suprime 5.3.3. Títulos de formação de dentistas especialistas
+    - Suprime 5.4.2. Evidence of formal qualifications of veterinary surgeons
+    - Suprime 5.5.2. Evidence of formal qualifications of midwives
+    - Suprime 5.6.2. Evidence of formal qualifications of pharmacists
 identifiers:
   celex: 32005L0036
   eli: http://data.europa.eu/eli/dir/2005/36/oj
@@ -49,7 +558,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0902feb0-533e-4c11-8de9-98a68757f4ff.0017
   content_url: http://publications.europa.eu/resource/cellar/58dcea75-e025-11f0-8439-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0036-20251029
-  retrieved_at: '2026-10-22T02:26:52Z'
+  retrieved_at: '2026-10-22T15:00:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-02T22:37:19.271+01:00'
 integrity:
@@ -58,9 +567,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:26:52Z'
-  notes: Texto consolidado 02005L0036-20251029.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:00:18Z'
+  notes: 19 versão(ões); histórico completo em diretiva-ue-2005-36.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -825,60 +1334,19 @@ relationships:
   source: null
 article_structure:
   article_count: 83
-  section_count: 95
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 96
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:26:52Z'
+  checked_at: '2026-10-22T15:00:18Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2005/36/CE do Parlamento Europeu e do Conselho, de 7 de Setembro de 2005
-
-> 02005L0036 — PT — 29.10.2025 — 020.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006L0100) — [DIRECTIVA 2006/100/CE DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0100) — L 363 — 141 — 20.12.2006
-- [M2](http://publications.europa.eu/resource/celex/32007R1430) — [REGULAMENTO (CE) N.º 1430/2007 DA COMISSÃO de 5 de Dezembro de 2007](http://publications.europa.eu/resource/celex/32007R1430) — L 320 — 3 — 6.12.2007
-- [M3](http://publications.europa.eu/resource/celex/32008R0755) — [REGULAMENTO (CE) N.º 755/2008 DA COMISSÃO de 31 de Julho de 2008](http://publications.europa.eu/resource/celex/32008R0755) — L 205 — 10 — 1.8.2008
-- [M4](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [M5](http://publications.europa.eu/resource/celex/32009R0279) — [REGULAMENTO (CE) N.º 279/2009 DA COMISSÃO de 6 de Abril de 2009](http://publications.europa.eu/resource/celex/32009R0279) — L 93 — 11 — 7.4.2009
-- [M6](http://publications.europa.eu/resource/celex/32011R0213) — [REGULAMENTO (UE) N.º 213/2011 DA COMISSÃO de 3 de Março de 2011](http://publications.europa.eu/resource/celex/32011R0213) — L 59 — 4 — 4.3.2011
-- [M7](http://publications.europa.eu/resource/celex/32012R0623) — [REGULAMENTO (UE) N.º 623/2012 DA COMISSÃO de 11 de Julho de 2012](http://publications.europa.eu/resource/celex/32012R0623) — L 180 — 9 — 12.7.2012
-- [►M8](http://publications.europa.eu/resource/celex/32013L0025) — [DIRETIVA 2013/25/UE DO CONSELHO de 13 de Maio de 2013](http://publications.europa.eu/resource/celex/32013L0025) — L 158 — 368 — 10.6.2013
-- [►M9](http://publications.europa.eu/resource/celex/32013L0055) — [DIRETIVA 2013/55/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Novembro de 2013](http://publications.europa.eu/resource/celex/32013L0055) — L 354 — 132 — 28.12.2013
-- [M10](http://publications.europa.eu/resource/celex/32016D0790) — [DECISÃO DELEGADA (UE) 2016/790 DA COMISSÃO de 13 de janeiro de 2016](http://publications.europa.eu/resource/celex/32016D0790) — L 134 — 135 — 24.5.2016
-- [M11](http://publications.europa.eu/resource/celex/32017D2113) — [DECISÃO DELEGADA (UE) 2017/2113 DA COMISSÃO de 11 de setembro de 2017](http://publications.europa.eu/resource/celex/32017D2113) — L 317 — 119 — 1.12.2017
-- [M12](http://publications.europa.eu/resource/celex/32019D0608) — [DECISÃO DELEGADA (UE) 2019/608 DA COMISSÃO de 16 de janeiro de 2019](http://publications.europa.eu/resource/celex/32019D0608) — L 104 — 1 — 15.4.2019
-- [M13](http://publications.europa.eu/resource/celex/32020D0548) — [DECISÃO DELEGADA (UE) 2020/548 DA COMISSÃO de 23 de janeiro de 2020](http://publications.europa.eu/resource/celex/32020D0548) — L 131 — 1 — 24.4.2020
-- [M14](http://publications.europa.eu/resource/celex/32021D2183) — [DECISÃO DELEGADA (UE) 2021/2183 DA COMISSÃO de 25 de agosto de 2021](http://publications.europa.eu/resource/celex/32021D2183) — L 444 — 16 — 10.12.2021
-- [M15](http://publications.europa.eu/resource/celex/32023D2383) — [DECISÃO DELEGADA (UE) 2023/2383 DA COMISSÃO de 23 de maio de 2023](http://publications.europa.eu/resource/celex/32023D2383) — L 2383 — 1 — 9.10.2023
-- [►M16](http://publications.europa.eu/resource/celex/32024L0505) — [DIRETIVA (UE) 2024/505 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024L0505) — L 505 — 1 — 12.2.2024
-- [M17](http://publications.europa.eu/resource/celex/32024D1395) — [DECISÃO DELEGADA (UE) 2024/1395 DA COMISSÃO de 5 de março de 2024](http://publications.europa.eu/resource/celex/32024D1395) — L 1395 — 1 — 31.5.2024
-- [►M18](http://publications.europa.eu/resource/celex/32024L0782) — [DIRETIVA DELEGADA (UE) 2024/782 DA COMISSÃO de 4 de março de 2024](http://publications.europa.eu/resource/celex/32024L0782) — L 782 — 1 — 31.5.2024
-- [►M19](http://publications.europa.eu/resource/celex/32025L1223) — [DIRETIVA DELEGADA (UE) 2025/1223 DA COMISSÃO de 10 de abril de 2025](http://publications.europa.eu/resource/celex/32025L1223) — L 1223 — 1 — 20.6.2025
-- [►M20](http://publications.europa.eu/resource/celex/32025D2187) — [DECISÃO DELEGADA (UE) 2025/2187 DA COMISSÃO de 30 de julho de 2025](http://publications.europa.eu/resource/celex/32025D2187) — L 2187 — 1 — 29.10.2025
-
-**Alterada por:**
-
-- [►A1](http://publications.europa.eu/resource/celex/12012J%2FACT) — [ATO relativo às condições de adesão da República da Croácia e às adaptações do Tratado da União Europeia, do Tratado sobre o Funcionamento da União Europeia e do Tratado que institui a Comunidade Europeia da Energia Atómica](http://publications.europa.eu/resource/celex/12012J%2FACT) — L 112 — 21 — 24.4.2012
-
-**Retificada por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32005L0036R%2802%29) — [Rectificação, JO L 271, 16.10.2007, p. 18 (2005/36/CE)](http://publications.europa.eu/resource/celex/32005L0036R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/32005L0036R%2803%29) — [Rectificação, JO L 093, 4.4.2008, p. 28 (2005/36/CE)](http://publications.europa.eu/resource/celex/32005L0036R%2803%29)
-- [C3](http://publications.europa.eu/resource/celex/32005L0036R%2805%29) — [Rectificação, JO L 305, 24.10.2014, p. 115 (2005/36/CE)](http://publications.europa.eu/resource/celex/32005L0036R%2805%29)
-- [C4](http://publications.europa.eu/resource/celex/32006L0100R%2802%29) — [Rectificação, JO L 177, 8.7.2015, p. 60 (2006/100/CE)](http://publications.europa.eu/resource/celex/32006L0100R%2802%29)
-- [►C5](http://publications.europa.eu/resource/celex/32013L0055R%2802%29) — [Rectificação, JO L 031, 6.2.2016, p. 78 (2013/55/UE)](http://publications.europa.eu/resource/celex/32013L0055R%2802%29)
-
-## DIRECTIVA 2005/36/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 7 de Setembro de 2005
 

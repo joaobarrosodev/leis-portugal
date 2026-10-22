@@ -34,6 +34,24 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: regulamento-ue-2004-1222.versoes.json
+  count: 2
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '2004-07-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Prazos
+    - Altera Artigo 3.º — Dados retrospectivos
+    - Altera Artigo 5.º — Entrada em vigor
+    - Altera Notas
 identifiers:
   celex: 32004R1222
   eli: http://data.europa.eu/eli/reg/2004/1222/oj
@@ -48,7 +66,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/97e643c9-a90a-4c78-ac03-784e17688c24.0016
   content_url: http://publications.europa.eu/resource/cellar/5d0c3c98-ec30-497f-b6f1-3643ed40a75d.0018.04/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R1222-20130701
-  retrieved_at: '2026-10-22T02:36:41Z'
+  retrieved_at: '2026-10-22T14:58:52Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-06-03T19:34:19.395+02:00'
 integrity:
@@ -57,9 +75,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:41Z'
-  notes: Texto consolidado 02004R1222-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:58:52Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2004-1222.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -189,29 +207,19 @@ relationships:
   date: '2023-04-05'
 article_structure:
   article_count: 5
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:41Z'
+  checked_at: '2026-10-22T14:58:52Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 1222/2004 do Conselho, de 28 de Junho de 2004
-
-> 2004R1222 — PT — 01.07.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-
-## REGULAMENTO (CE) N.º 1222/2004 DO CONSELHO
 
 de 28 de Junho de 2004
 

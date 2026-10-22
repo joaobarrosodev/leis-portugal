@@ -34,6 +34,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-01'
+version_history:
+  file: regulamento-ue-2006-2013.versoes.json
+  count: 1
+  source_lastmod: '2007-01-01'
+  versions:
+  - date: '2007-01-01'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32006R2013
   eli: http://data.europa.eu/eli/reg/2006/2013/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/478cde21-26ba-4703-b9e3-a8be00fbe530.0016
   content_url: http://publications.europa.eu/resource/cellar/6c848bf9-5f03-4cd6-bad5-df27099ec26f.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R2013-20070101
-  retrieved_at: '2026-10-22T03:12:53Z'
+  retrieved_at: '2026-10-22T15:06:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-19T13:46:08.044+01:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:53Z'
-  notes: Texto consolidado 02006R2013-20070101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:06:23Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2006-2013.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -139,29 +148,19 @@ relationships:
   date: '2013-03-13'
 article_structure:
   article_count: 5
-  section_count: 3
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 4
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:53Z'
+  checked_at: '2026-10-22T15:06:23Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 2013/2006 do Conselho, de 19 de Dezembro de 2006
-
-> 2006R2013 — PT — 01.01.2007 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32006R2013R%2801%29) — [Rectificação, JO L 071, 10.3.2007, p. 18 (2013/06)](http://publications.europa.eu/resource/celex/32006R2013R%2801%29)
-
-## REGULAMENTO (CE) N.º 2013/2006 DO CONSELHO
 
 de 19 de Dezembro de 2006
 

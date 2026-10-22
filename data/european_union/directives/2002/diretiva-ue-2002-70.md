@@ -34,6 +34,71 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-08-26'
+version_history:
+  file: diretiva-ue-2002-70.versoes.json
+  count: 3
+  source_lastmod: '2009-08-26'
+  versions:
+  - date: '2002-08-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-02-18'
+    amending: eu:celex:32005L0007:por
+    amending_title: DIRECTIVA 2005/7/CE DA COMISSÃO Texto relevante para efeitos do EEE de 27 de Janeiro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Adita MÉTODOS DE AMOSTRAGEM DESTINADOS AO CONTROLO OFICIAL DOS NÍVEIS DE DIOXINAS (PCDD/PCDF) E À DETERMINAÇÃO DE PCB
+      SOB A FORMA DE DIOXINA EM DETERMINADOS ALIMENTOS PARA ANIMAIS
+    - Adita 1. Objectivo e âmbito de aplicação
+    - Adita 2. Conformidade do lote ou do sublote com a especificação
+    - Adita PREPARAÇÃO DA AMOSTRA E REQUISITOS RESPEITANTES AOS MÉTODOS DE ANÁLISE UTILIZADOS NO CONTROLO OFICIAL DOS NÍVEIS
+      DE DIOXINAS (PCDD/PCDF) E NA DETERMINAÇÃO DE PCB SOB A FORMA DE DIOXINA EM DETERMINADOS ALIMENTOS PARA ANIMAIS
+    - Adita 2. Antecedentes
+    - Adita 3. Requisitos de garantia da qualidade a cumprir na preparação da amostra
+    - Adita 4. Requisitos destinados aos laboratórios
+    - Adita 5. Requisitos para os procedimentos analíticos para determinação de dioxinas e de PCB sob a forma de dioxina
+    - Adita 6. Requisitos específicos dos métodos CG/EM a cumprir para fins de pré-selecção ou de confirmação
+    - Adita 7. Métodos de análise de pré-selecção
+    - Adita 7.1. Introdução
+    - Adita 7.2. Requisitos destinados a métodos de análise utilizados para a pré-selecção
+    - Adita 7.3. Requisitos específicos destinados a bioensaios com células
+    - Adita 7.4. Requisitos específicos destinados a bioensaios com kits ([^9^](http://publications.europa.eu/resource/cellar/0b516742-2e13-4aed-8521-42ea2b3acc7a.0017.03/DOC_1#E0007))
+    - Adita 8. Notificação do resultado
+    - Adita Notas
+  - date: '2009-08-26'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime ANEXO I
+    - Suprime MÉTODOS DE AMOSTRAGEM DESTINADOS AO CONTROLO OFICIAL DOS NÍVEIS DE DIOXINAS (PCDD/PCDF) E À DETERMINAÇÃO DE
+      PCB SOB A FORMA DE DIOXINA EM DETERMINADOS ALIMENTOS PARA ANIMAIS
+    - Suprime 1. Objectivo e âmbito de aplicação
+    - Suprime 2. Conformidade do lote ou do sublote com a especificação
+    - Suprime ANEXO II
+    - Suprime PREPARAÇÃO DA AMOSTRA E REQUISITOS RESPEITANTES AOS MÉTODOS DE ANÁLISE UTILIZADOS NO CONTROLO OFICIAL DOS NÍVEIS
+      DE DIOXINAS (PCDD/PCDF) E NA DETERMINAÇÃO DE PCB SOB A FORMA DE DIOXINA EM DETERMINADOS ALIMENTOS PARA ANIMAIS
+    - Suprime 2. Antecedentes
+    - Suprime 3. Requisitos de garantia da qualidade a cumprir na preparação da amostra
+    - Suprime 4. Requisitos destinados aos laboratórios
+    - Suprime 5. Requisitos para os procedimentos analíticos para determinação de dioxinas e de PCB sob a forma de dioxina
+    - Suprime 6. Requisitos específicos dos métodos CG/EM a cumprir para fins de pré-selecção ou de confirmação
+    - Suprime 7. Métodos de análise de pré-selecção
+    - Suprime 7.1. Introdução
+    - Suprime 7.2. Requisitos destinados a métodos de análise utilizados para a pré-selecção
+    - Suprime 7.3. Requisitos específicos destinados a bioensaios com células
+    - Suprime 7.4. Requisitos específicos destinados a bioensaios com kits ([^9^](http://publications.europa.eu/resource/cellar/0b516742-2e13-4aed-8521-42ea2b3acc7a.0017.03/DOC_1#E0007))
+    - Suprime 8. Notificação do resultado
+    - Suprime Notas
 identifiers:
   celex: 32002L0070
   eli: http://data.europa.eu/eli/dir/2002/70/oj
@@ -48,7 +113,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3772dfaa-a38b-4f2b-bcd7-a981f50f2489.0010
   content_url: http://publications.europa.eu/resource/cellar/44bc6f69-5847-479d-815e-504210dc3d90.0013.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0070-20090826
-  retrieved_at: '2026-10-22T02:57:22Z'
+  retrieved_at: '2026-10-22T14:52:08Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-31T10:49:46.881+01:00'
 integrity:
@@ -57,9 +122,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:22Z'
-  notes: Texto consolidado 02002L0070-20090826.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:08Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2002-70.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -104,16 +169,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:22Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:52:08Z'
+  warnings: []
   errors: []
 ---
 

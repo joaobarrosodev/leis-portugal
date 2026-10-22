@@ -1,0 +1,774 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31985R3820:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01985R3820-20090910",
+ "dre_path": null,
+ "source_lastmod": "2009-09-10",
+ "versions": [
+  {
+   "date": "1985-12-31",
+   "future": false,
+   "celex": "31985R3820",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3ae11f1282f4f27b",
+    "127aeafc001f142b",
+    "2ce7152ae8d478f2",
+    "fe2614f7d7b58de8",
+    "454af9bad025057d",
+    "96a31673738afdcc",
+    "4350315560b16490",
+    "95aa48d0b8b01539",
+    "8b6d58c2a4074f9f",
+    "82d3af6c28118375",
+    "e6015c2b517d1376",
+    "fc3e69db7958b8c5",
+    "55a25c275ee0d28d",
+    "3fadfdba25b49acb",
+    "f77ab184cf4e5503",
+    "36c9196889a7aad7",
+    "f72538580398536c",
+    "184112fbc79cacef",
+    "8f5b70e4600dc996",
+    "0e58f01843792b49",
+    "8c2516e8407924a6",
+    "94f8a1cfc59181b9",
+    "d663520bd1c511a1",
+    "18d5b8df1d1bbd90",
+    "a8c59f79a0d477b2",
+    "9303d4891f9c3ef8",
+    "6d878138f3da310a",
+    "097c54abaa63139c",
+    "06286f9d099d05a9"
+   ]
+  },
+  {
+   "date": "2008-09-10",
+   "future": false,
+   "celex": "01985R3820-20080910",
+   "acts": [
+    {
+     "id": "eu:celex:32003L0059:por",
+     "title": "DIRECTIVA 2003/59/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Julho de 2003",
+     "published": null,
+     "celex": "32003L0059"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita SECÇÃO I",
+    "Adita Definições",
+    "Adita Artigo 1.º",
+    "Adita SECÇÃO II",
+    "Adita Âmbito de aplicação",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita SECÇÃO III",
+    "Adita Tripulações",
+    "Adita Artigo 5.º",
+    "Adita SECÇÃO IV",
+    "Adita Período de condução",
+    "Adita Artigo 6.º",
+    "Adita SECÇÃO V",
+    "Adita Interrupções e períodos de repouso",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita SECÇÃO VI",
+    "Adita Proibição de certos tipos de remunerações",
+    "Adita Artigo 10.º",
+    "Adita SECÇÃO VII",
+    "Adita Derrogações",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita SECÇÃO VIII",
+    "Adita Controlo e sanções",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita SECÇÃO IX",
+    "Adita Disposições finais",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Adita Notas",
+    "Suprime SECÇÃO I — Definições",
+    "Suprime Artigo 1o",
+    "Suprime SECÇÃO II — Âmbito de aplicação",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime SECÇÃO III — Tripulações",
+    "Suprime Artigo 5o",
+    "Suprime SECÇÃO IV — Período de condução",
+    "Suprime Artigo 6o",
+    "Suprime SECÇÃO V — Interrupções e períodos de repouso",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime SECÇÃO VI — Proibição de certos tipos de remunerações",
+    "Suprime Artigo 10o",
+    "Suprime SECÇÃO VII — Derrogações",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime SECÇÃO VIII — Controlo e sanções",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime SECÇÃO IX — Disposições finais",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o"
+   ],
+   "fragments": [
+    "2ec2c1bcfa306121",
+    "19572906891c0646",
+    "4316dd276cfa9f05",
+    "2ebf1c9cb2b5f13f",
+    "0b50b9972a75b595",
+    "77cfad0ffc7686a4",
+    "008e0828322421e7",
+    "08335fe755fa94b1",
+    "ba8b4acd8b9d46eb",
+    "b4f1bfdbc841cf04",
+    "92e2eb014ec4c384",
+    "6c975cc0bb00acb7",
+    "b9c1c438fac65788",
+    "84e602981ffa019a",
+    "da76497ebc185930",
+    "184c1b7a3d24aa39",
+    "eebae726f848d0ff",
+    "38802c36f96a04b2",
+    "9f01325e9d785739",
+    "26560d27a531c262",
+    "faa4f31236a7a6e6",
+    "c204c30bdc5ec7a6",
+    "57670bcc63a56c52",
+    "b0f6721eb5222257",
+    "14b07eed5e348b4c",
+    "a274b08a71da6354",
+    "f92112dd55db5097",
+    "f48e729d4285805b",
+    "575d3eeb0bb0909c",
+    "f8dd6f3901bcba58",
+    "98bde4877b857537",
+    "7f08a17e9b1ce957",
+    "aa72fba2cb4674e8",
+    "80acb0c21940cb19",
+    "33729ca39d03ee37",
+    "bbdde795c58f027f",
+    "d24004948360beac",
+    "6736ed2e4df5ec05",
+    "2723d602935f9136"
+   ]
+  },
+  {
+   "date": "2009-09-10",
+   "future": false,
+   "celex": "01985R3820-20090910",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime SECÇÃO I",
+    "Suprime Definições",
+    "Suprime Artigo 1.º",
+    "Suprime SECÇÃO II",
+    "Suprime Âmbito de aplicação",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime SECÇÃO III",
+    "Suprime Tripulações",
+    "Suprime Artigo 5.º",
+    "Suprime SECÇÃO IV",
+    "Suprime Período de condução",
+    "Suprime Artigo 6.º",
+    "Suprime SECÇÃO V",
+    "Suprime Interrupções e períodos de repouso",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime SECÇÃO VI",
+    "Suprime Proibição de certos tipos de remunerações",
+    "Suprime Artigo 10.º",
+    "Suprime SECÇÃO VII",
+    "Suprime Derrogações",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime SECÇÃO VIII",
+    "Suprime Controlo e sanções",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime SECÇÃO IX",
+    "Suprime Disposições finais",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "be22ac423d5eb564"
+   ]
+  }
+ ],
+ "fragments": {
+  "3ae11f1282f4f27b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 3820/85 do Conselho, de 20 de Dezembro de 1985, relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários** *Jornal Oficial nº L 370 de 31/12/1985 p. 0001 - 0007 Edição especial finlandesa: Capítulo 7 Fascículo 3 p. 0113 Edição especial espanhola: Capítulo 07 Fascículo 4 p. 0021 Edição especial sueca: Capítulo 7 Fascículo 3 p. 0113 Edição especial portuguesa: Capítulo 07 Fascículo 4 p. 0021*\n\nREGULAMENTO (CEE) No 3820/85 DO CONSELHO de 20 de Dezembro de 1985 relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 75o;\n\nTendo em conta a Decisão do Conselho, de 13 de Maio de 1965, relativa à harmonização de determinadas disposições com incidência sobre a concorrência no domínio dos transportes ferroviários, rodoviários e por via navegável (1) e, nomeadamente, a sua secção III,\n\nTendo em conta a proposta da Comissão (2),\n\nTendo em conta o parecer do Parlamento Europeu (3),\n\nTendo em conta o parecer do Comité Económico e Social (4),\n\nConsiderando que no domínio dos transportes rodoviários, as disposições comunitárias em matéria social são fixadas pelo Regulamento (CEE) no 543/69 (5), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 2829/77 (6); que estas disposições têm em vista a harmonização das condições de concorrência entre os transportes terrestres, nomeadamente no que se refere ao sector rodoviário, bem como o melhoramento das condições de trabalho e da segurança rodoviária; que os progressos alcançados nestes domínios devem ser preservados e aprofundados, mas que é necessário tomar flexíveis as disposições do referido regulamento sem prejuízo dos seus objectivos;\n\nConsiderando que, tendo em conta as alterações acima referidas, convém, por motivos de clareza, reunir num texto único o conjunto das disposições aplicáveis na matéria e, consequentemente, revogar o Regulamento (CEE) no 543/69; que convém, contudo, manter em vigor por um determinado prazo as isenções previstas no artigo 4o para determinados veículos e as disposições do artigo 15o para determinados transportes de passageiros;\n\nConsiderando que as disposições do presente regulamento, relativas às condições de trabalho não podem prejudicar a competência dos parceiros sociais de estipularem, nomeadamente no âmbito de convenções colectivas de trabalho, disposições mais favoráveis para os trabalhadores; que, tendo em vista favorecer o progresso social ou melhorar a segurança rodoviária, cada Estado-membro deve conservar a faculdade de aplicar determinadas medidas adeguadas;\n\nConsiderando que, tendo em conta a diminiução dos efectivos de ajudantes de condutor e de cobradores, já não é necessário regulamentar o descanso dos membros da tripulação para além do condutor;\n\nConsiderando que, a substitução da semana móvel pela semana fixa facilita a organização do trabalho dos condutores e melhora o controlo;\n\nConsiderando que é necessário definir um regime aplicável aos transportes rodoviários internacionais provenientes de, ou destinados a um país terceiro, ou entre dois países terceiros quando em trânsito no território de um Estado-membro; que é conveniente aplicar a estes transportes o disposto no Acordo europeu relativo ao trabalho das tripulações dos veículos que efectuam transportes rodoviários internacionais (AETR), de 1 de Julho de 1970; que, no caso dos veículos matriculados num Estado que não seja Parte Contratante no AETR estas disposições aplicam-se apenas ao percurso efectuado no interior da Comunidade;\n\nConsiderando que, os assuntos do AETR pertencem ao âmbito de aplicação do presente regulamento, a competência de negociar e de concluir o Acordo em causa pertence à Comunidade; que as circunstâncias especiais das negociações relativas ao AETR justificam, contudo, a título excepcional, um procedimento segundo o qual os Estados-membros a Comunidade procedem ao depósito separado dos seus instrumentos de ratificação ou de adesão numa acção concertada, agindo totalmente no interesse e por conta da Comunidade;\n\nConsiderando que, para garantir no tráfego intracomunitário o primado do direito comunitário, os Estados-membros devem, aquando do depósito dos seus instrumentos de ratificação ou de adesão, exprimir uma reserva segundo a qual os transportes internacionais efectuados entre os Estados-membros não podem ser considerados transportes internacionais para efeitos do Acordo;\n\nConsiderando que as possibilidades oferecidas às Partes Contratantes, nos próprios termos do Acordo, para conclusão de convenções bilaterais que derrogam o referido Acordo, no que respeita ao tráfego fronteiriço e ao tráfego de trânsito, são, em princípio, da competência da Comunidade;\n\nConsiderando que, se uma alteração ao regime interno da Comunidade, no domínio em causa, exigir uma alteração correspondente do Acordo, os Estados-membros empreendem uma acção conjunta no sentido de que seja efectuada esta alteração ao Acordo e segundo o procedimento nele previsto;\n\nConsiderando que determinados transportes podem ser excluídos do âmbito de aplicação do presente regulamento;\n\nConsiderando que é desejável completar e precisar determinadas definições e actulizar certas disposições, nomeadamente no que se refere à isenção prevista para determinadas categorias de veículos;\n\nConsiderando que é conveniente estabelecer disposições sobre a idade mínima dos condutores afectos ao transporte de mercadorias ou ao transporte de passageiros, tendo em conta determinadas exigências de formação profissional, bem como sobre a idade mínima dos ajudantes de condutor e dos cobradores; que para efeitos de formação profissional, os Estados-membros devem possuir a faculdade de reduzir para 16 anos completos a idade mínima dos ajudantes de condutor;\n\nConsiderando que, no que respeita aos períodos de condução, é conveniente limitar o tempo de condução contínua e a duração diária da condução, mas sem prejuízo das regulamentações nacionais que não permitem que o condutor conduza o veículo para além do tempo em que esteja em condições de o fazer com toda a segurança;\n\nConsiderando que um prolongamento da duração diária de condução, a par com uma diminuição da duração de condução em cada período de duas semanas, facilita a gestão das empresas de transporte ao mesmo tempo que contribui para o progresso social;\n\nConsiderando que, devido ao prolongamento da duração diária de condução as disposições referentes às interrupções de condução devem ser ajustadas;\n\nConsiderando que é conveniente fixar, no que diz respeito ao período de repouso, os períodos mínimos bem como as outras condições a que ficam submetidos o repouso diário e o descanso semanal dos membros da tripulação;\n\nConsiderando que o desenrolar das viagens é facilitado se o condutor tiver a possibilidade de repartir o seu repouso diário, e, nomeadamente, não seja obrigado a alojar-se nos mesmo local onde toma as refeições;\n\nConsiderando que o prolongamento dos periódos de repouso semanais traz vantagens para o progresso social e segurança rodoviária, ao mesmo tempo que se permite a diminuição destes períodos de repouso desde que o condutor venha a ser compensado dos períodos de repouso não gozados, num local à sua escolha e dentro de um determinado prazo;\n\nConsiderando que inúmeros transportes rodoviários na Comunidade utilizam o barco de passagem (ferry-boat) ou o caminho de ferro numa parte do seu percurso; que é necessário que a regulamentação preveja disposições referentes aos períodos de repouso diário adequados a estes transportes;\n\nConsiderando que, por motivos de segurança na circulação rodoviária, devem ser proibidos os prémios estabelecidos em função da distância a percorrer e/ou da tonelagem transportada os quais podem comprometer a segurança rodoviária;\n\nConsiderando que é desejável prever a possibilidade de se estabelecerem derrogações ao presente regulamento para determinados transportes nacionais com características especiais; que é conveniente, em caso de derrogações, os Estados-membros assegurarem que o nível de protecção social e de segurança rodoviária não seja posto em causa;\n\nConsiderando que se justifica, dada a natureza especial dos transportes de passageiros, redefinir a categoria de veículos que os Estados-membros podem isentar da aplicação do presente regulamento no domínio dos transportes nacionais;\n\nConsiderando que, em circunstâncias especiais, os Estados-membros devem estar habilitados pela Comissão a conceder derrogações ao presente regulamento; que, em caso de urgência, estas derrogações devem poder ser concedidas por período de tempo limitado, sem autorização prévia da Comissão;\n\nConsiderando que, para os condutores de veículos afectos a serviços regulares de passageiros, o aparelho de controlo pode ser substituído por uma cópia do horário e um extracto do registo da empresa; que e emissão dos extractos dos seus registos de serviço aos condutores que tal requeiram é útil para a aplicação do presente regulamento e para a prevenção de abusos;\n\nConsiderando que é desejável, no interesse da eficácia dos controlos, que os transportes internacionais regulares de passageiros, com excepção de determinados serviços fronteiriços, não sejam doravante dispensados da obrigatoriedade de instalação e utilização do aparelho de controlo;\n\nConsiderando que se deve sublinhar a importância e a necessidade do cumprimento do presente regulamento pelas entidades patronais e condutores;\n\nConsiderando que é conveniente que a Comissão acompanhe a evolução da situação nos Estados-membros e apresente ao Conselho e ao Parlamento Europeu, de dois em dois anos, um relatório sobre a aplicação do presente regulamento;\n\nConsiderando que, tendo em vista a aplicação e o controlo do presente regulamento, é útil que os Estados-membros se assistam mutuamente,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "127aeafc001f142b": {
+   "fragment_id": "SECÇÃO I — Definições",
+   "type": "divisao",
+   "heading": "SECÇÃO I — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Definições"
+  },
+  "2ce7152ae8d478f2": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Transporte rodoviário»: qualquer deslocação por estradas abertas ao público, em vazio ou em carga, de um veículo afecto ao transporte de passageiros ou de mercadorias.\n\n2. «Veículos»: automóveis, tractores, reboques e semi-reboques, conforme a seguir definidos:\n\na) «Automóvel»: qualquer veículo provido de um dispositivo mecânico de propulsão, que circule na estrada pelos seus próprios meios, mas que não se desloque sobre carris, e que sirva normalmente para o transporte de passageiros ou de mercadorias;\n\nb) «Tractor»: qualquer veículo provido de um dispositivo mecânico de propulsão, que circule na estrada pelos seus próprios meios, mas que não se desloque sobre carris, e especialmente concebido para puxar, empurrar ou accionar reboques, semi-reboques, utensílios ou máquinas;\n\nc) «Reboque»: qualquer veículo de transporte destinado a ser atrelado a um automóvel ou a um tractor;\n\nd) «Semi-reboque»: um reboque sem eixo dianteiro acoplado de tal modo que uma parte considerável do seu peso e da sua carga seja suportada pelo tractor ou pelo automóvel.\n\n3. «Condutor»: qualquer pessoa que conduza o veículo, mesmo durante um curto período de tempo, ou que esteja a bordo do veículo para poder eventualmente conduzi-lo.\n\n4. «Semana»: o período que vai das 00.00 horas de Segunda-feira às 24.00 horas de Domingo.\n\n5. «Repouso»: qualquer período ininterrupto de, pelo menos, uma hora durante a qual o condutor pode dispor livremente do seu tempo.\n\n6. «Peso máximo autorizado»: o peso máximo admissível do veículo em carga em ordem de marcha.\n\n7. «Serviços regulares de passageiros»: os transportes nacionais e internacionais referidos no artigo 1o do Regulamento no 117/66/CEE do Conselho, e 28 de Julho de 1966, relativo ao estabelecimento de regras comuns para os transportes rodoviários internacionais de passageiros efectuados em autocarros (7)."
+  },
+  "fe2614f7d7b58de8": {
+   "fragment_id": "SECÇÃO II — Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "SECÇÃO II — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Âmbito de aplicação"
+  },
+  "454af9bad025057d": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. O presente regulamento aplica-se aos transportes rodoviários referidos no ponto 1 do artigo 1o e efectuados no interior da Comunidade.\n\n2. O Acordo europeu relativo ao trabalho das tripulações dos veículos que efectuem transportes rodoviários internacionais (AETR) aplica-se em substituição das regras actuais, aos transportes rodoviários internacionais.\n\n- efectuados com destino ou provenientes de países terceiros que sejam partes no Acordo, ou em trânsito nesses países, na totalidade do percurso, por veículos matriculados num Estado-membro ou um desses países terceiros,\n\n- efectuados com destino ou provenientes de um país terceiro que não seja parte no Acordo, por veículos matriculados num desses países, em qualquer percurso no interior da Comunidade."
+  },
+  "96a31673738afdcc": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nA Comunidade encetará com os países terceiros as negociações que se afigurem necessárias à aplicação do presente regulamento."
+  },
+  "4350315560b16490": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nO presente regulamento não se aplica aos transportes efectuados por meio de:\n\n1. Veículos afectos ao transporte de mercadorias e cujo peso máximo autorizado, incluindo o dos reboques ou dos semi-reboques, não ultrapasse 3,5 toneladas.\n\n2. Veículos afectos ao transporte de passageiros que, de acordo com o seu tipo de construção e o seu equipamento, estejam aptos a transportar um número máximo de nove pessoas, incluindo o condutor e se destinem a esse efeito.\n\n3. Veículos afectos ao serviço regular de passageiros, cujo percurso da linha não ultrapasse 50 quilómetros.\n\n4. Veículos cuja velocidade máximo autorizada não ultrapasse 30 km/hora.\n\n5. Veículos ao serviço ou sob o comando das forças armadas, da protecção civil, dos bombeiros, das forças policiais.\n\n6. Veículos afectos aos serviços de esgotos, de protecção contra inundações, serviços de água, gás e electricidade, manutenção da rede viária, recolha de lixo, telégrafos e telefones, correios, radiodifusão, televisão e detecção de emissores ou receptores de televisão ou rádio.\n\n7. Veículos utilizados em situações de urgência ou em operações de salvamento.\n\n8. Veículos especializados afectos a serviços médicos.\n\n9. Veículos que transportem material de circo ou de feira.\n\n10. Veículos de pronto-socorro.\n\n11. Veículos submetidos a testes rodoviários para fins de aperfeiçoamento técnico, reparação ou manutenção e veículos novos ou transformados que, ainda, não tenham sido postos em circulação.\n\n12. Veículos utilizados em transportes não comerciais de bens para fins privados.\n\n13. Veículos utilizados na recolha de leite nas quintas ou na devolução às quintas de contentores para leite ou lacticínios destinados à alimentação do gado."
+  },
+  "95aa48d0b8b01539": {
+   "fragment_id": "SECÇÃO III — Tripulações",
+   "type": "divisao",
+   "heading": "SECÇÃO III — Tripulações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Tripulações"
+  },
+  "8b6d58c2a4074f9f": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. A idade mínima dos condutores afectos aos transportes de mercadorias é fixada do seguinte modo:\n\na) Para os veículos, incluindo, se for caso disso, os reboques ou semi-reboques cujo peso máximo autorizado seja inferior ou igual a 7,5 toneladas, 18 anos completos;\n\nb) Para os outros veículos:\n\n- 21 anos completos,\n\nou\n\n- 18 anos completos, se o interessado possuir um certificado de aptidão profissional comprovativo de que concluiu uma formação de condutor de transportes rodoviários de mercadorias, reconhecido por um dos Estados-membros de acordo com a regulamentação comunitária referente ao nível mínimo de formação de condutores para o transporte rodoviário.\n\n2. Os condutores afectos ao transporte de passageiros devem ter, pelo menos, 21 anos.\n\nOs condutores afectos ao transporte de passageiros, em percursos que ultrapassem um raio de 50 quilómetros em redor do local de afectação habitual do veículo, devem igualmente satisfazer uma das seguintes condições:\n\na) Ter exercido durante, pelo menos, um ano a actividade de condutor afecto ao transporte de mercadorias, em veículos cujo peso máximo autorizado seja superior a 3,5 toneladas;\n\nb) Ter exercido durante, pelo menos, um ano a actividade de condutor afecto ao transporte de passageiros em percursos que não ultrapassem um raio de 50 quilómetros em redor do local de afectação habitual do veículo, ou a outros tipos de transporte de passageiros que não estejam sujeitos ao presente regulamento, desde que a autoridade competente considere terem, de certa forma, adquirido a experiência necessária;\n\nc) Ser titular de um certificado de aptidão profissional, comprovativo de que concluiu uma formação de condutor de transportes rodoviários de passageiros, reconhecido por um Estado-membro de acordo com a regulamentação comunitária referente ao nível mínimo de formação de condutores para o transporte rodoviário.\n\n3. A idade mínima dos ajudantes de condutor e dos cobradores é de 18 anos completos.\n\n4. Os condutores de veículos afectos ao transporte de passageiros não estão sujeitos às condições referidos nas alíneas a), b) e c) do segundo parágrafo, do no 2 se exerceram a sua actividade durante, pelo menos, um ano antes de 1 de Outubro de 1970.\n\n5. Para os transportes nacionais efectuados num raio de 50 quilómetros em redor do local de exploração do veículo, incluindo as áreas administrativas locais cujo centro esteja situado nesse raio, cada Estado-membro pode reduzir a idade mínima dos ajudantes de condutor para 16 anos completos, se for para efeitos de formação profissional e dentro dos limites das disposições nacionais em matéria de emprego."
+  },
+  "82d3af6c28118375": {
+   "fragment_id": "SECÇÃO IV — Período de condução",
+   "type": "divisao",
+   "heading": "SECÇÃO IV — Período de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Período de condução"
+  },
+  "e6015c2b517d1376": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. A duração total de condução compreendida entre dois períodos de repouso diário ou entre um período de repouso diário e um período de repouso semanal, abaixo denominada «período de condução diária», não deve ultrapassar 9 horas. Este período pode ser de 10 horas duas vezes por semana.\n\nApós um número máximo de seis períodos diários de condução, o condutor deve gozar um repouso semanal tal como é definido pelo no 3 do artigo 8o.\n\nNo caso dos transportes internacionais de passageiros, à excepção dos serviços regulares, os termons «seis» e «sexto» que figuram nos primeiros e terceiro parágrafo são substituídos, respectivamente, por «doze» e «décimo segundo».\n\nOs Estados-membros podem determinar que a aplicação do parágrafo precedente é extensiva aos transportes nacionais de passageiros no seu território, à excepção dos serviços regulares.\n\n2. A duração total de condução não deve ultrapassar 90 horas por cada período de duas semanas consecutivas."
+  },
+  "fc3e69db7958b8c5": {
+   "fragment_id": "SECÇÃO V — Interrupções e períodos de repouso",
+   "type": "divisao",
+   "heading": "SECÇÃO V — Interrupções e períodos de repouso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Interrupções e períodos de repouso"
+  },
+  "55a25c275ee0d28d": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Após 4 horas e maia de condução, o condutor deve fazer uma pausa de pelo menos, 45 minutos, excepto se iniciar um período de repouso.\n\n2. Esta interrupção pode ser substituída por pausas de, pelo menos, 15 minutos cada, intercaladas na duração diária de condução ou imediatamente após este período, de modo a respeitar as disposições do no 1.\n\n3. Em derrogação do no 1, os Estados-membros podem, no caso dos transportes regulares nacionais de passageiros, fixar em 30 minutos a pausa mínima, após um período de condução não superior a 4 horas. Esta derrogação apenas pode ser acordada nos casos em que as pausas de condução que ultrapassem 30 minutos possam entravar a circulação do tráfego em meio urbano e quando não for possível aos condutores intercalar uma pausa de 15 minutos nas 4 horas e meia de condução que precedem a interrupção de 30 minutos.\n\n4. Durante estas pausas, o condutor não pode efectuar outros trabalhos. Para efeitos do presente artigo, o tempo de espera e o tempo não consagrado à condução passados num veículo em marcha, num barco de passagem (ferry-boat), ou num comboio não são considerados «outros trabalhos».\n\n5. As pausas feitas ao abrigo deste artigo não devem ser considerados repousos diários."
+  },
+  "3fadfdba25b49acb": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Em cada período de 24 horas, o condutor beneficia de um período de repouso diário de, pelo menos, 11 horas consecutivas, que pode ser reduzido a um mínimo de 9 horas consecutivas três vezes por semana no máximo, desde que, em compensação, seja acordado um período de repouso correspondente, antes do final da semana seguinte.\n\nNos dias em que o repouso não for reduzido, em conformidade com o disposto no primeiro parágrafo este pode ser gozado em dois ou três períodos separados durante o período de 24 horas, devendo um destes períodos ser de, pelo menos, 8 horas consecutivas. Neste caso, a duração mínima de repouso é de 12 horas.\n\n2. Durante cada período de 30 horas no qual há, pelo menos, dois condutores a bordo de um veículo, cada membro da tripulação deve beneficiar de um repouso diário de, pelo menos, 8 horas consecutivas.\n\n3. No decurso de cada semana, um dos períodos de repouso referidos nos nos 1 e 2 é prolongado para um total de 45 horas consecutivas, a título de descanso semanal. Este período de repouso pode ser reduzido a um mínimo de 36 horas consecutivas, se for gozado no local de afectação habitual do veículo ou no local de afectação do condutor, ou a um mínimo de 24 horas consecutivas se for gozado fora destes locais. Cada diminuição é compensada por um período de repouso equivalente gozado na totalidade antes do final da terceira semana, a seguir à semana em questão.\n\n4. Um período de repouso semanal que comece numa semana e que se prolongue na seguinte pode ser ligado a qualquer uma destas semanas.\n\n5. No caso dos transportes de passageiros aos quais se aplica o disposto nos quarto e quinto parágrafos, do no 1, do artigo 6o, um período de repouso semanal pode ser adiado para a semana seguinte, áquela a que se deve o repouso e ligado ao repouso semanal desta segunda semana.\n\n6. Qualquer período de repouso, gozado a título de compensação das reduções dos períodos de repouso diários e/ou semanais, deve ser ligado a um outro período de repouso de, pelo menos, 8 horas e deve ser concedido, a pedido do interessado, no local de estacionamento do veículo, ou no local de afectação do condutor.\n\n7. O repouso diário pode ser gozado no veículo desde que este esteja equipado com um beliche e não se encontre em andamento."
+  },
+  "f77ab184cf4e5503": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nEm derrogação ao disposto no no 1 do artigo 8o, no caso em que, no domínio dos transportes de mercadorias ou de passageiros, um condutor acompanha um veículo transportado num barco de passagem (ferry-boat) ou num combóio, o repouso diário pode ser interrompido uma única vez, desde que sejam satisfeitas as seguintes condições:\n\n- a parte de repouso diário gozada em terra deve poder situar-se antes ou após a parte do repouso diário que ocorre a bordo do barco de passagem (ferry-boat) ou do combóio,\n\n- o período entre as duas partes do repouso diário deve ser tão curto quanto possível e não pode, em caso algum, ultrapassar 1 hora antes do embarque ou depois do desembarque, incluindo-se as formalidades alfandegárias nas operações de embarque ou de desembarque,\n\n- durante as duas partes do repouso diário, o condutor deve poder dispor de uma cama ou de beliche.\n\nO repouso diário assim interrompido é aumentado de 2 horas."
+  },
+  "36c9196889a7aad7": {
+   "fragment_id": "SECÇÃO VI — Proibição de certos tipos de remunerações",
+   "type": "divisao",
+   "heading": "SECÇÃO VI — Proibição de certos tipos de remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Proibição de certos tipos de remunerações"
+  },
+  "f72538580398536c": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nÉ proibido remunerar, mesmo por concessão de prémios ou de aumentos de salário, os condutores assalariados em função das distâncias percorridas e/ou do volume das mercadorias transformadas, excepto se estas remunerações forem de natureza tal que não comprometam a segurança rodoviária."
+  },
+  "184112fbc79cacef": {
+   "fragment_id": "SECÇÃO VII — Derrogações",
+   "type": "divisao",
+   "heading": "SECÇÃO VII — Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VII — Derrogações"
+  },
+  "8f5b70e4600dc996": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nCada Estado-membro pode aplicar mínimos mais elevados ou máximos menos elevados que os fixados nos artigos 5o a 8o. No entanto, as disposições do presente regulamento continuam a ser aplicáveis aos membros das tripulações que efectuem transportes internacionais em veículos matriculados num outro Estado-membro."
+  },
+  "0e58f01843792b49": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nDesde que tal não comprometa a segurança rodoviária e com o objectivo de lhe permitir atingir um ponto de paragem adequado, o condutor pode derrogar o presente regulamento, na medida do necessário, para assegurar a segurança das pessoas, do veículo ou da sua carga. O condutor deve mencionar o tipo e o motivo da derrogação na folha de registo do aparelho de controlo ou no seu registo de servico."
+  },
+  "8c2516e8407924a6": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. Cada Estado-membro pode conceder derrogações, no seu território ou, com o acordo do Estado interessado, no território de um outro Estado-membro, a qualquer disposição do presente regulamento aplicável aos transportes efectuados por meio de um veículo que pertença a uma ou a várias das categorias enumeradas:\n\na) Veículos afectos ao transporte de passageiros que, de acordo com o seu tipo de construção e o seu equipamento, estejam preparados para transportar no máximo, 17 pessoas, incluindo o condutor, e se destinem a tal fim;\n\nb) Veículos utilizados pelas entidades públicas para serviços públicos que não concorram com os transportadores profissionais;\n\nc) Veículos utilizados para o transporte de mercadorias pelas empresas agrícolas, hortícolas, florestais ou de pesca, no raio de 50 quilómetros em redor do seu local de afectação habitual, incluindo o território das freguesias cujo centro esteja situada neste raio;\n\nd) Veículos que transportem resíduos de animais ou carcaças não destinadas ao consumo humano;\n\ne) Veículos utilizados no transporte de animais vivos, das quintas aos mercados locais e vice versa, ou dos mercados aos matadouros locais;\n\nf) Veículos utilizados como lojas nos mercados locais ou na venda porta a porta, ou utilizados para operações bancárias, de câmbio ou de poupança, para serviços de culto, para empréstimo de livros, discos ou cassetes, para manifestações culturais ou exposições, e especialmente equipados para esses fins;\n\ng) Veículos que transportem material ou equipamento a utilizar no exercício da profissão do seu condutor, num raio de 50 quilómetros em redor do seu local de afectação habitual, na condição da condução do veículo não representar a actividade principal do condutor e da derrogação não afectar gravemente o alcance dos objectivos referidos pelo presente regulamento. Os Estados-membros podem submeter esta derrogação à obtenção de uma autorização individual;\n\nh) Veículos que circulem exclusivamente em ilhas, cuja superfície não ultrapassa os 2 300 quilómetros quadrados e que não comunicam com o restante território nacional por uma ponte, por um vau ou um túnel, abertos à circulação automóvel;\n\ni) Veículos afectos aos transportes de mercadorias, por propulsão a gás produzido no veículo ou por electricidade, ou equipadas com um retardador, na medida em que tais veículos, nos termos da legislação do Estado-membro de matrícula, são equivalentes aos veículos com motor a gasolina ou a gasóleo cujo peso máximo autorizado, incluindo os reboques ou os semi-reboques, não ultrapasse as 3,5 toneladas;\n\nj) Veículos afectos ao ensino da condução automóvel tendo em vista a obtenção de uma carta de condução;\n\nk) Tractores exclusivamente afectos a trabalhos agrícolas e florestais.\n\nOs Estados-membros informam a Comissão das derrogações que acordarem nos termos do presente número.\n\n2. Os Estados-membros podem, depois de autorizados pela Comissão, derrogar a aplicação das disposições do presente regulamento para os transportes efectuados em circunstâncias excepcionais, se tais derrogações não afectarem gravemente o alcance dos objectivos referidos no presente regulamento.\n\nEm caso de urgência, os Estados-membros podem conceder uma derrogação temporária que não ultrapasse trinta dias que imediatamente notificarão à Comissão.\n\nA Comissão notifica os outros Estados-membros de quaisquer derrogações acordada nos termos do presente número."
+  },
+  "94f8a1cfc59181b9": {
+   "fragment_id": "SECÇÃO VIII — Controlo e sanções",
+   "type": "divisao",
+   "heading": "SECÇÃO VIII — Controlo e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VIII — Controlo e sanções"
+  },
+  "d663520bd1c511a1": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. No caso de transportes regulares de passageiros:\n\n- nacionais,\n\n- internacionais, cujos terminais da linha se encontram a uma distância de 50 quilómetros em linha recta de uma fronteira entre dois Estados-membros, e cuja linha não ultrapasse um percurso de 100 quilómetros,\n\nque são objecto do presente regulamento, são estabelecidos pela empresa um horário e um registo de serviço.\n\n2. O registo deve indicar, para cada condutor, o nome, o local em que presta serviço, bem como o horário previamente fixado para os diferentes períodos de condução, os outros períodos de trabalho e os períodos de disponibilidade.\n\n3. O registo deve indicar todos os dados referidos no no 2 para um período mínimo que abranja a semana em curso, bem como a que a precede e a que se lhe segue.\n\n4. O registo deve ser assinado pelo chefe de empresa ou pelo seu delegado.\n\n5. Cada condutor afecto a um serviço referido no no 1 deve ser portador de um extracto do registo de serviço e de uma cópia do horário de serviço.\n\n6. A empresa conserva o registo de serviço durante um ano após o termo do período abrangido. A empresa fornece um extracto do registo aos condutores interessados que o solicitarem.\n\n7. O presente artigo não é aplicável aos condutores de veículos equipados com um aparelho de controlo utilizado em conformidade com o Regulamento (CEE) no 3821/85 do Conselho, de 20 de Dezembro de 1985, relativo ao aparelho de controlo no domínio dos transportes rodoviários (8)."
+  },
+  "18d5b8df1d1bbd90": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\n1. A empresa organiza o trabalho dos condutores de tal forma que estes possam dar cumprimento às disposições adequadas do presente regulamento assim como do Regulamento (CEE) no 3821/85.\n\n2. A empresa verifica periodicamente se os dois regulamentos foram respeitados. Se se verificarem infracções a empresa toma as medidas necessárias para evitar que se reproduzam."
+  },
+  "a8c59f79a0d477b2": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\n1. A Comissão elabora de dois em dois um relatório relativo à aplicação do presente regulamento pelos Estados-membros e à evolução alcançada nos domínios em questão. A Comissão transmite o relatório ao Conselho e ao Parlamento Europeu num prazo de treze meses a contar da data em que termina o período de dois anos abrangido pelo relatório.\n\n2. Com o objectivo de permitir à Comissão elaborar o relatório referido no no 1, os Estados-membros dirigem à Comissão, de dois em dois anos, as informações necessárias sob a forma de um resumo tipo. Estas informações devem ser transmitidas à Comissão o mais tardar em 30 de Setembro seguinte à data em que termina o período de dois anos abrangidos pelo relatório.\n\n3. A Comissão estabelece o resumo-tipo depois de consulta aos Estados-membros."
+  },
+  "9303d4891f9c3ef8": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\n1. Os Estados-membros adoptam, em tempo útil, após consulta da Comissão, as disposições legislativas, regulamentares e administrativas necessárias à execução do presente regulamento.\n\nEstas disposições referem-se, entre outros assuntos, à organização, ao procedimento e aos meios de controlo assim como às sanções aplicáveis em caso de infracção.\n\n2. Os Estados-membros prestar-se-ao assitência mútua tendo em vista a aplicação do presente regulamento e ou seu controlo.\n\n3. No âmbito desta assistência mútua, as autoridades competentes dos Estados-membros comunicam, regularmente, entre si todas as informações disponíveis relacionadas com:\n\n- as infracções ao presente regulamento cometidas pelos não-residentes e qualquer sanção aplicada por tais infracções,\n\n- as sanções aplicadas por um Estado-membro aos seus residentes por tais infracções cometidas noutros Estados-membros."
+  },
+  "6d878138f3da310a": {
+   "fragment_id": "SECÇÃO IX — Disposições finais",
+   "type": "divisao",
+   "heading": "SECÇÃO IX — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IX — Disposições finais"
+  },
+  "097c54abaa63139c": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\n1. O Regulamento (CEE) no 543/69 é revogado.\n\nNo entanto:\n\n- o artigo 4o do referido regulamento contínua aplicável, até 31 Dezembro de 1989, para os veículos utilizados pelas entidades públicas para serviços públicos que não concorram com os transportadores profissionais, assim como aos tractores exclusivamente afectos aos trabalhos agrícolas e florestais locais. Contudo, um Estado-membro pode dispor que o presente regulamento se aplica aos referidos transportes nacionais no seu território, a partir de uma data anterior,\n\n- o artigo 15o do referido regulamento contínua aplicável até 31 de Dezembro de 1989 aos veículos e aos condutores afectos aos transportes internacionais regulares de passageiros, na medida em que os veículos que efectuam estes serviços não estão equipados com um aparelho de controlo utilizado em conformidade com o disposto no Regulamento (CEE) no 3821/85.\n\n2. As referências ao regulamento revogado por força do no 1, devem entender-se como referências ao presente regulamento."
+  },
+  "06286f9d099d05a9": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nO presente regulamento entra em vigor em 29 de Setembro de 1986.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 20 de Dezembro de 1985.\n\nPelo Conselho\n\nO Presidente\n\nR. KRIEPS\n\n(1) JO no 88 de 24. 5. 1965, p. 1500/65.(2) JO no C 100 de 12. 4. 1984, p. 3, e JO no C 223 de 3. 9. 1985, p. 5.(3) JO no C 122 de 20. 5. 1985, p. 168.(4) JO no C 104 de 25. 4. 1985, p. 4, e JO no 303 de 25. 11. 1985, p. 29.(5) JO no L 77 de 29. 3. 1968, p. 49.(6) JO no 334 de 24. 12. 1977, p. 1.(7) JO no 147 de 9. 8. 1966, p. 2688/66.(8) JO no L 370 de 31. 12. 1985, p. 8."
+  },
+  "2ec2c1bcfa306121": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 1985\n\nrelativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 75.º;\n\nTendo em conta a Decisão do Conselho, de 13 de Maio de 1965, relativa à harmonização de determinadas disposições com incidência sobre a concorrência no domínio dos transportes ferroviários, rodoviários e por via navegável ([^1^](http://publications.europa.eu/resource/cellar/5c7ae8ca-0790-4263-ad63-c2f3ab6d4396.0018.03/DOC_1#E0001)) e, nomeadamente, a sua secção III,\n\nTendo em conta a proposta da Comissão ([^2^](http://publications.europa.eu/resource/cellar/5c7ae8ca-0790-4263-ad63-c2f3ab6d4396.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Parlamento Europeu ([^3^](http://publications.europa.eu/resource/cellar/5c7ae8ca-0790-4263-ad63-c2f3ab6d4396.0018.03/DOC_1#E0003)),\n\nTendo em conta o parecer do Comité Económico e Social ([^4^](http://publications.europa.eu/resource/cellar/5c7ae8ca-0790-4263-ad63-c2f3ab6d4396.0018.03/DOC_1#E0004)),\n\nConsiderando que no domínio dos transportes rodoviários, as disposições comunitárias em matéria social são fixadas pelo Regulamento (CEE) n.º 543/69 ([^5^](http://publications.europa.eu/resource/cellar/5c7ae8ca-0790-4263-ad63-c2f3ab6d4396.0018.03/DOC_1#E0005)), com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 2829/77 ([^6^](http://publications.europa.eu/resource/cellar/5c7ae8ca-0790-4263-ad63-c2f3ab6d4396.0018.03/DOC_1#E0006)); que estas disposições têm em vista a harmonização das condições de concorrência entre os transportes terrestres, nomeadamente no que se refere ao sector rodoviário, bem como o melhoramento das condições de trabalho e da segurança rodoviária; que os progressos alcançados nestes domínios devem ser preservados e aprofundados, mas que é necessário tomar flexíveis as disposições do referido regulamento sem prejuízo dos seus objectivos;\n\nConsiderando que, tendo em conta as alterações acima referidas, convém, por motivos de clareza, reunir num texto único o conjunto das disposições aplicáveis na matéria e, consequentemente, revogar o Regulamento (CEE) n.º 543/69; que convém, contudo, manter em vigor por um determinado prazo as isenções previstas no artigo 4.º para determinados veículos e as disposições do artigo 15.º para determinados transportes de passageiros;\n\nConsiderando que as disposições do presente regulamento, ralativas às condições de trabalho não podem prejudicar a competência dos parceiros sociais de estipularem, nomeadamente no âmbito de convenções colectivas de trabalho, disposições mais favoráveis para os trabalhadores; que, tendo em vista favorecer o progresso social ou melhorar a segurança rodoviária, cada Estado-membro deve conservar a faculdade de aplicar determinadas medidas adeguadas;\n\nConsiderando que, tendo em conta a diminiução dos efectivos de ajudantes de condutor e de cobradores, já não é necessário regulamentar o descanso dos membros da tripulação para além do condutor;\n\nConsiderando que, a substitução da semana móvel pela semana fixa facilita a organização do trabalho dos condutores e melhora o controlo;\n\nConsiderando que é necessário definir um regime aplicável aos transportes rodoviários internacionais provenientes de, ou destinados a um país terceiro, ou entre dois países terceiros quando em trânsito no território de um Estado-membro; que é conveniente aplicar a estes transportes o disposto no Acordo europeu relativo ao trabalho das tripulações dos veículos que efectuam transportes rodoviários internacionais (AETR), de 1 de Julho de 1970; que, no caso dos veículos matriculados num Estado que não seja Parte Contratante no AETR estas disposições aplicam-se apenas ao percurso efectuado no interior da Comunidade;\n\nConsiderando que, os assuntos do AETR pertencem ao âmbito de aplicação do presente regulamento, a competência de negociar e de concluir o Acordo em causa pertence à Comunidade; que as circunstâncias especiais das negociações relativas ao AETR justificam, contudo, a título excepcional, um procedimento segundo o qual os Estados-membros a Comunidade procedem ao depósito separado dos seus instrumentos de ratificação ou de adesão numa acção concertada, agindo totalmente no interesse e por conta da Comunidade;\n\nConsiderando que, para garantir no tráfego intracomunitário o primado do direito comunitário, os Estados-membros devem, aquando do depósito dos seus instrumentos de ratificação ou de adesão, exprimir uma reserva segundo a qual os transportes internacionais efectuados entre os Estados-membros não podem ser considerados transportes internacionais para efeitos do Acordo;\n\nConsiderando que as possibilidades oferecidas às Partes Contratantes, nos próprios termos do Acordo, para conclusão de convenções bilaterais que derrogam o referido Acordo, no que respeita ao tráfego fronteiriço e ao tráfego de trânsito, são, em princípio, da competência da Comunidade;\n\nConsiderando que, se uma alteração ao regime interno da Comunidade, no domínio em causa, exigir uma alteração correspondente do Acordo, os Estados-membros empreendem uma acção conjunta no sentido de que seja efectuada esta alteração ao Acordo e segundo o procedimento nele previsto;\n\nConsiderando que determinados transportes podem ser excluídos do âmbito de aplicação do presente regulamento;\n\nConsiderando que é desejável completar e precisar determinadas definições e actulizar certas disposições, nomeadamente no que se refere à isenção prevista para determinadas categorias de veículos;\n\nConsiderando que é conveniente estabelecer disposições sobre a idade mínima dos condutores afectos ao transporte de mercadorias ou ao transporte de passageiros, tendo em conta determinadas exigências de formação profissional, bem como sobre a idade mínima dos ajudantes de condutor e dos cobradores; que para efeitos de formação profissional, os Estados-membros devem possuir a faculdade de reduzir para 16 anos completos a idade mínima dos ajudantes de condutor;\n\nConsiderando que, no que respeita aos períodos de condução, é conveniente limitar o tempo de condução contínua e a duração diária da condução, mas sem prejuízo das regulamentações nacionais que não permitem que o condutor conduza o veículo para além do tempo em que esteja em condições de o fazer com toda a segurança;\n\nConsiderando que um prolongamento da duração diária de condução, a par com uma diminuição da duração de condução em cada período de duas semanas, facilita a gestão das empresas de transporte ao mesmo tempo que contribui para o progresso social;\n\nConsiderando que, devido ao prolongamento da duração diária de condução as disposições referentes às interrupções de condução devem ser ajustadas;\n\nConsiderando que é conveniente fixar, no que diz respeito ao período de repouso, os períodos mínimos bem como as outras condições a que ficam submetidos o repouso diário e o descanso semanal dos membros da tripulação;\n\nConsiderando que o desenrolar das viagens é facilitado se o condutor tiver a possibilidade de repartir o seu repouso diário, e, nomeadamente, não seja obrigado a alojar-se nos mesmo local onde toma as refeições;\n\nConsiderando que o prolongamento dos periódos de repouso semanais traz vantagens para o progresso social e segurança rodoviária, ao mesmo tempo que se permite a diminuição destes períodos de repouso desde que o condutor venha a ser compensado dos períodos de repouso não gozados, num local à sua escolha e dentro de um determinado prazo;\n\nConsiderando que inúmeros transportes rodoviários na Comunidade utilizam o barco de passagem *(ferry-boat)* ou o caminho de ferro numa parte do seu percurso; que é necessário que a regulamentação preveja disposições referentes aos períodos de repouso diário adequados a estes transportes;\n\nConsiderando que, por motivos de segurança na circulação rodoviária, devem ser proibidos os prémios estabelecidos em função da distância a percorrer e/ou da tonelagem transportada os quais podem comprometer a segurança rodoviária;\n\nConsiderando que é desejável prever a possibilidade de se estabelecerem derrogações ao presente regulamento para determinados transportes nacionais com características especiais; que é conveniente, em caso de derrogações, os Estados-membros assegurarem que o nível de protecção social e de segurança rodoviária não seja posto em causa;\n\nConsiderando que se justifica, dada a natureza especial dos transportes de passageiros, redefinir a categoria de veículos que os Estados-membros podem isentar da aplicação do presente regulamento no domínio dos transportes nacionais;\n\nConsiderando que, em circunstâncias especiais, os Estados-membros devem estar habilitados pela Comissão a conceder derrogações ao presente regulamento; que, em caso de urgência, estas derrogações devem poder ser concedidas por período de tempo limitado, sem autorização prévia da Comissão;\n\nConsiderando que, para os condutores de veículos afectos a serviços regulares de passageiros, o aparelho de controlo pode ser substituído por uma cópia do horário e um extracto do registo da empresa; que e emissão dos extractos dos seus registos de serviço aos condutores que tal requeiram é útil para a aplicação do presente regulamento e para a prevenção de abusos;\n\nConsiderando que é desejável, no interesse da eficácia dos controlos, que os transportes internacionais regulares de passageiros, com excepção de determinados serviços fronteiriços, não sejam doravante dispensados da obrigatoriedade de instalação e utilização do aparelho de controlo;\n\nConsiderando que se deve sublinhar a importância e a necessidade do cumprimento do presente regulamento pelas entidades patronais e condutores;\n\nConsiderando que é conveniente que a Comissão acompanhe a evolução da situação nos Estados-membros e apresente ao Conselho e ao Parlamento Europeu, de dois em dois anos, um relatório sobre a aplicação do presente regulamento;\n\nConsiderando que, tendo em vista a aplicação e o controlo do presente regulamento, é útil que os Estados-membros se assistam mutuamente,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "19572906891c0646": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO I"
+  },
+  "4316dd276cfa9f05": {
+   "fragment_id": "Definições",
+   "type": "divisao",
+   "heading": "Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Definições"
+  },
+  "2ebf1c9cb2b5f13f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Transporte rodoviário»: qualquer deslocação por estradas abertas ao público, em vazio ou em carga, de um veículo afecto ao transporte de passageiros ou de mercadorias.\n\n2. «Veículos»: automóveis, tractores, reboques e semi-reboques, conforme a seguir definidos:\n\na) «Automóvel»: qualquer veículo provido de um dispositivo mecânico de propulsão, que circule na estrada pelos seus próprios meios, mas que não se desloque sobre carris, e que sirva normalmente para o transporte de passageiros ou de mercadorias;\n\nb) «Tractor»: qualquer veículo provido de um dispositivo mecânico de propulsão, que circule na estrada pelos seus próprios meios, mas que não se desloque sobre carris, e especialmente concebido para puxar, empurrar ou accionar reboques, semi-reboques, utensílios ou máquinas;\n\nc) «Reboque»: qualquer veículo de transporte destinado a ser atrelado a um automóvel ou a um tractor;\n\nd) «Semi-reboque»: um reboque sem eixo dianteiro acoplado de tal modo que uma parte considerável do seu peso e da sua carga seja suportada pelo tractor ou pelo automóvel.\n\n3. «Condutor»: qualquer pessoa que conduza o veículo, mesmo durante um curto período de tempo, ou que esteja a bordo do veículo para poder eventualmente conduzi-lo.\n\n4. «Semana»: o período que vai das 00.00 horas de Segunda-feira às 24.00 horas de Domingo.\n\n5. «Repouso»: qualquer período ininterrupto de, pelo menos, uma hora durante a qual o condutor pode dispor livremente do seu tempo.\n\n6. «Peso máximo autorizado»: o peso máximo admissível do veículo em carga em ordem de marcha.\n\n7. «Serviços regulares de passageiros»: os transportes nacionais e internacionais referidos no artigo 1.º do Regulamento n.º 117/66/CEE do Conselho, e 28 de Julho de 1966, relativo ao estabelecimento de regras comuns para os transportes rodoviários internacionais de passageiros efectuados em autocarros ([^7^](http://publications.europa.eu/resource/cellar/5c7ae8ca-0790-4263-ad63-c2f3ab6d4396.0018.03/DOC_1#E0007))."
+  },
+  "0b50b9972a75b595": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO II"
+  },
+  "77cfad0ffc7686a4": {
+   "fragment_id": "Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Âmbito de aplicação"
+  },
+  "008e0828322421e7": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O presente regulamento aplica-se aos transportes rodoviários referidos no ponto 1 do artigo 1.º e efectuados no interior da Comunidade.\n\n2. O Acordo europeu relativo ao trabalho das tripulações dos veículos que efectuem transportes rodoviários internacionais (AETR) aplica-se em substituição das regras actuais, aos transportes rodoviários internacionais.\n\n— efectuados com destino ou provenientes de países terceiros que sejam partes no Acordo, ou em trânsito nesses países, na totalidade do percurso, por veículos matriculados num Estado-membro ou um desses países terceiros,\n\n— efectuados com destino ou provenientes de um país terceiro que não seja parte no Acordo, por veículos matriculados num desses países, em qualquer percurso no interior da Comunidade."
+  },
+  "08335fe755fa94b1": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA Comunidade encetará com os países terceiros as negociações que se afigurem necessárias à aplicação do presente regulamento."
+  },
+  "ba8b4acd8b9d46eb": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente regulamento não se aplica aos transportes efectuados por meio de:\n\n1. Veículos afectos ao transporte de mercadorias e cujo peso máximo autorizado, incluindo o dos reboques ou dos semi-reboques, não ultrapasse 3,5 toneladas.\n\n2. Veículos afectos ao transporte de passageiros que, de acordo com o seu tipo de construção e o seu equipamento, estejam aptos a transportar um número máximo de nove pessoas, incluindo o condutor e se destinem a esse efeito.\n\n3. Veículos afectos ao serviço regular de passageiros, cujo percurso da linha não ultrapasse 50 quilómetros.\n\n4. Veículos cuja velocidade máximo autorizada não ultrapasse 30 km/hora.\n\n5. Veículos ao serviço ou sob o comando das forças armadas, da protecção civil, dos bombeiros, das forças policiais.\n\n6. Veículos afectos aos serviços de esgotos, de protecção contra inundações, serviços de água, gás e electricidade, manutenção da rede viária, recolha de lixo, telégrafos e telefones, correios, radiodifusão, televisão e detecção de emissores ou receptores de televisão ou rádio.\n\n7. Veículos utilizados em situações de urgência ou em operações de salvamento.\n\n8. Veículos especializados afectos a serviços médicos.\n\n9. Veículos que transportem material de circo ou de feira.\n\n10. Veículos de pronto-socorro.\n\n11. Veículos submetidos a testes rodoviários para fins de aperfeiçoamento técnico, reparação ou manutenção e veículos novos ou transformados que, ainda, não tenham sido postos em circulação.\n\n12. Veículos utilizados em transportes não comerciais de bens para fins privados.\n\n13. Veículos utilizados na recolha de leite nas quintas ou na devolução às quintas de contentores para leite ou lacticínios destinados à alimentação do gado."
+  },
+  "b4f1bfdbc841cf04": {
+   "fragment_id": "SECÇÃO III",
+   "type": "divisao",
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO III"
+  },
+  "92e2eb014ec4c384": {
+   "fragment_id": "Tripulações",
+   "type": "divisao",
+   "heading": "Tripulações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Tripulações"
+  },
+  "6c975cc0bb00acb7": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A idade mínima dos condutores afectos aos transportes de mercadorias é fixada do seguinte modo:\n\na) Para os veículos, incluindo, se for caso disso, os reboques ou semi-reboques cujo peso máximo autorizado seja inferior ou igual a 7,5 toneladas, 18 anos completos;\n\nb) Para os outros veículos:\n\n— 21 anos completos,\n\n— ou\n\n— 18 anos completos, se o interessado possuir um certificado de aptidão profissional comprovativo de que concluiu uma formação de condutor de transportes rodoviários de mercadorias, reconhecido por um dos Estados-membros de acordo com a regulamentação comunitária referente ao nível mínimo de formação de condutores para o transporte rodoviário.\n\n3. A idade mínima dos ajudantes de condutor e dos cobradores é de 18 anos completos.\n\n5. Para os transportes nacionais efectuados num raio de 50 quilómetros em redor do local de exploração do veículo, incluindo as áreas administrativas locais cujo centro esteja situado nesse raio, cada Estado-membro pode reduzir a idade mínima dos ajudantes de condutor para 16 anos completos, se for para efeitos de formação profissional e dentro dos limites das disposições nacionais em matéria de emprego."
+  },
+  "b9c1c438fac65788": {
+   "fragment_id": "SECÇÃO IV",
+   "type": "divisao",
+   "heading": "SECÇÃO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO IV"
+  },
+  "84e602981ffa019a": {
+   "fragment_id": "Período de condução",
+   "type": "divisao",
+   "heading": "Período de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Período de condução"
+  },
+  "da76497ebc185930": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A duração total de condução compreendida entre dois períodos de repouso diário ou entre um período de repouso diário e um período de repouso semanal, abaixo denominada «período de condução diária», não deve ultrapassar 9 horas. Este período pode ser de 10 horas duas vezes por semana.\n\nApós um número máximo de seis períodos diários de condução, o condutor deve gozar um repouso semanal tal como é definido pelo n.º 3 do artigo 8.º\n\nNo caso dos transportes internacionais de passageiros, à excepção dos serviços regulares, os termons «seis» e «sexto» que figuram nos primeiros e terceiro parágrafo são substituídos, respectivamente, por «doze» e «décimo segundo».\n\nOs Estados-membros podem determinar que a aplicação do parágrafo precedente é extensiva aos transportes nacionais de passageiros no seu território, à excepção dos serviços regulares.\n\n2. A duração total de condução não deve ultrapassar 90 horas por cada período de duas. semanas consecutivas."
+  },
+  "184c1b7a3d24aa39": {
+   "fragment_id": "SECÇÃO V",
+   "type": "divisao",
+   "heading": "SECÇÃO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO V"
+  },
+  "eebae726f848d0ff": {
+   "fragment_id": "Interrupções e períodos de repouso",
+   "type": "divisao",
+   "heading": "Interrupções e períodos de repouso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Interrupções e períodos de repouso"
+  },
+  "38802c36f96a04b2": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Após 4 horas e maia de condução, o condutor deve fazer uma pausa de pelo menos, 45 minutos, excepto se iniciar um período de repouso.\n\n2. Esta interrupção pode ser substituída por pausas de, pelo menos, 15 minutos cada, intercaladas na duração diária de condução ou imediatamente após este período, de modo a respeitar as disposições do n.º 1.\n\n3. Em derrogação do n.º 1, os Estados-membros podem, no caso dos transportes regulares nacionais de passageiros, fixar em 30 minutos a pausa mínima, após um período de condução não superior a 4 horas. Esta derrogação apenas pode ser acordada nos casos em que as pausas de condução que ultrapassem 30 minutos possam entravar a circulação do tráfego em meio urbano e quando não for possível aos condutores intercalar uma pausa de 15 minutos nas 4 horas e meia de condução que precedem a interrupção de 30 minutos.\n\n4. Durante estas pausas, o condutor não pode efectuar outros trabalhos. Para efeitos do presente artigo, o tempo de espera e o tempo não consagrado à condução passados num veículo em marcha, num barco de passagem *(ferry-boat),* ou num comboio não são considerados «outros trabalhos».\n\n5. As pausas feitas ao abrigo deste artigo não devem ser considerados repousos diários."
+  },
+  "9f01325e9d785739": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Em cada período de 24 horas, o condutor beneficia de um período de repouso diário de, pelo menos, 11 horas consecutivas, que pode ser reduzido a um mínimo de 9 horas consecutivas três vezes por semana no máximo, desde que, em compensação, seja acordado um período de repouso correspondente, antes do final da semana seguinte.\n\nNos dias em que o repouso não for reduzido, em conformidade com o disposto no primeiro parágrafo este pode ser gozado em dois ou três períodos separados durante o período de 24 horas, devendo um destes períodos ser de, pelo menos, 8 horas consecutivas. Neste caso, a duração mínima de repouso é de 12 horas.\n\n2. Durante cada período de 30 horas no qual há, pelo menos, dois condutores a bordo de um veículo, cada membro da tripulação deve beneficiar de um repouso diário de, pelo menos, 8 horas consecutivas.\n\n3. No decurso de cada semana, um dos períodos de repouso referidos nos n.^os^ 1 e 2 é prolongado para um total de 45 horas consecutivas, a título de descanso semanal. Este período de repouso pode ser reduzido a um mínimo de 36 horas consecutivas, se for gozado no local de afectação habitual do veículo ou no local de afectação do condutor, ou a um mínimo de 24 horas consecutivas se for gozado fora destes locais. Cada diminuição é compensada por um período de repouso equivalente gozado na totalidade antes do final da terceira semana, a seguir à semana em questão.\n\n4. Um período de repouso semanal que comece numa semana e que se prolongue na seguinte pode ser ligado a qualquer uma destas semanas.\n\n5. No caso dos transportes de passageiros aos quais se aplica o disposto nos quarto e quinto parágrafos, do n.º 1, do artigo 6.º, um período de repouso semanal pode ser adiado para a semana seguinte, áquela a que se deve o repouso e ligado ao repouso semanal desta segunda semana.\n\n6. Qualquer período de repouso, gozado a título de compensação das reduções dos períodos de repouso diários e/ou semanais, deve ser ligado a um outro período de repouso de, pelo menos, 8 horas e deve ser concedido, a pedido do interessado, no local de estacionamento do veículo, ou no local de afectação do condutor.\n\n7. O repouso diário pode ser gozado no veículo desde que este esteja equipado com um beliche e não se encontre em andamento."
+  },
+  "26560d27a531c262": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nEm derrogação ao disposto no n.º 1 do artigo 8.º, no caso em que, no domínio dos transportes de mercadorias ou de passageiros, um condutor acompanha um veículo transportado num barco de passagem *(ferry-boat)* ou num combóio, o repouso diário pode ser interrompido uma única vez, desde que sejam satisfeitas as seguintes condições:\n\n— a parte de repouso diário gozada em terra deve poder situar-se antes ou após a parte do repouso diário que ocorre a bordo do barco de passagem *(ferry-boat)* ou do combóio,\n\n— o período entre as duas partes do repouso diário deve ser tão curto quanto possível e não pode, em caso algum, ultrapassar 1 hora antes do embarque ou depois do desembarque, incluindo-se as formalidades alfandegárias nas operações de embarque ou de desembarque,\n\n— durante as duas partes do repouso diário, o condutor deve poder dispor de uma cama ou de beliche.\n\nO repouso diário assim interrompido é aumentado de 2 horas."
+  },
+  "faa4f31236a7a6e6": {
+   "fragment_id": "SECÇÃO VI",
+   "type": "divisao",
+   "heading": "SECÇÃO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO VI"
+  },
+  "c204c30bdc5ec7a6": {
+   "fragment_id": "Proibição de certos tipos de remunerações",
+   "type": "divisao",
+   "heading": "Proibição de certos tipos de remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Proibição de certos tipos de remunerações"
+  },
+  "57670bcc63a56c52": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nÉ proibido remunerar, mesmo por concessão de prémios ou de aumentos de salário, os condutores assalariados em função das distâncias percorridas e/ou do volume das mercadorias transformadas, excepto se estas remunerações forem de natureza tal que não comprometam a segurança rodoviária."
+  },
+  "b0f6721eb5222257": {
+   "fragment_id": "SECÇÃO VII",
+   "type": "divisao",
+   "heading": "SECÇÃO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO VII"
+  },
+  "14b07eed5e348b4c": {
+   "fragment_id": "Derrogações",
+   "type": "divisao",
+   "heading": "Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Derrogações"
+  },
+  "a274b08a71da6354": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nCada Estado-membro pode aplicar mínimos mais elevados ou máximos menos elevados que os fixados nos artigos 5.º a 8.º No entanto, as disposições do presente regulamento continuam a ser aplicáveis aos membros das tripulações que efectuem transportes internacionais em veículos matriculados num outro Estado-membro."
+  },
+  "f92112dd55db5097": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nDesde que tal não comprometa a segurança rodoviária e com o objectivo de lhe permitir atingir um ponto de paragem adequado, o condutor pode derrogar o presente regulamento, na medida do necessário, para assegurar a segurança das pessoas, do veículo ou da sua carga. O condutor deve mencionar o tipo e o motivo da derrogação na folha de registo do aparelho de controlo ou no seu registo de servico."
+  },
+  "f48e729d4285805b": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Cada Estado-membro pode conceder derrogações, no seu território ou, com o acordo do Estado interessado, no território de um outro Estado-membro, a qualquer disposição do presente regulamento aplicável aos transportes efectuados por meio de um veículo que pertença a uma ou a várias das categorias enumeradas:\n\na) Veículos afectos ao transporte de passageiros que, de acordo com o seu tipo de construção e o seu equipamento, estejam preparados para transportar no máximo, 17 pessoas, incluindo o condutor, e se destinem a tal fim;\n\nb) Veículos utilizados pelas entidades públicas para serviços públicos que não concorram com os transportadores profissionais;\n\nc) Veículos utilizados para o transporte de mercadorias pelas empresas agrícolas, hortícolas, florestais ou de pesca, no raio de 50 quilómetros em redor do seu local de afectação habitual, incluindo o território das freguesias cujo centro esteja situada neste raio;\n\nd) Veículos que transportem resíduos de animais ou carcaças não destinadas ao consumo humano;\n\ne) Veículos utilizados no transporte de animais vivos, das quintas aos mercados locais e *vice versa,* ou dos mercados aos matadouros locais;\n\nf) Veículos utilizados como lojas nos mercados locais ou na venda porta a porta, ou utilizados para operações bancárias, de câmbio ou de poupança, para serviços de culto, para empréstimo de livros, discos ou cassetes, para manifestações culturais ou exposições, e especialmente equipados para esses fins;\n\ng) Veículos que transportem material ou equipamento a utilizar no exercício da profissão do seu condutor, num raio de 50 quilómetros em redor do seu local de afectação habitual, na condição da condução do veículo não representar a actividade principal do condutor e da derrogação não afectar gravemente o alcance dos objectivos referidos pelo presente regulamento. Os Estados-membros podem submeter esta derrogação à obtenção de uma autorização individual;\n\nh) Veículos que circulem exclusivamente em ilhas, cuja superfície não ultrapassa os 2 300 quilómetros quadrados e que não comunicam com o restante território nacional por uma ponte, por um vau ou um túnel, abertos à circulação automóvel;\n\ni) Veículos afectos aos transportes de mercadorias, por propulsão a gás produzido no veículo ou por electricidade, ou equipadas com um retardador, na medida em que tais veículos, nos termos da legislação do Estado-membro de matrícula, são equivalentes aos veículos com motor a gasolina ou a gasóleo cujo peso máximo autorizado, incluindo os reboques ou os semi-reboques, não ultrapasse as 3,5 toneladas;\n\nj) Veículos afectos ao ensino da condução automóvel tendo em vista a obtenção de uma carta de condução;\n\nk) Tractores exclusivamente afectos a trabalhos agrícolas e florestais.\n\nOs Estados-membros informam a Comissão das derrogações que acordarem nos termos do presente número.\n\n2. Os Estados-membros podem, depois de autorizados pela Comissão, derrogar a aplicação das disposições do presente regulamento para os transportes efectuados em circunstâncias excepcionais, se tais derrogações não afectarem gravemente o alcance dos objectivos referidos no presente regulamento.\n\nEm caso de urgência, os Estados-membros podem conceder uma derrogação temporária que não ultrapasse trinta dias que imediatamente notificarão à Comissão.\n\nA Comissão notifica os outros Estados-membros de quaisquer derrogações acordada nos termos do presente número."
+  },
+  "575d3eeb0bb0909c": {
+   "fragment_id": "SECÇÃO VIII",
+   "type": "divisao",
+   "heading": "SECÇÃO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO VIII"
+  },
+  "f8dd6f3901bcba58": {
+   "fragment_id": "Controlo e sanções",
+   "type": "divisao",
+   "heading": "Controlo e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Controlo e sanções"
+  },
+  "98bde4877b857537": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. No caso de transportes regulares de passageiros:\n\n— nacionais,\n\n— internacionais, cujos terminais da linha se encontram a uma distância de 50 quilómetros em linha recta de uma fronteira entre dois Estados-membros, e cuja linha não ultrapasse um percurso de 100 quilómetros,\n\nque são objecto do presente regulamento, são estabelecidos pela empresa um horário e um registo de serviço.\n\n2. O registo deve indicar, para cada condutor, o nome, o local em que presta serviço, bem como o horário previamente fixado para os diferentes períodos de condução, os outros períodos de trabalho e os períodos de disponibilidade.\n\n3. O registo deve indicar todos os dados referidos no n.º 2 para um período mínimo que abranja a semana em curso, bem como a que a precede e a que se lhe segue.\n\n4. O registo deve ser assinado pelo chefe de empresa ou pelo seu delegado.\n\n5. Cada condutor afecto a um serviço referido no n.º 1 deve ser portador de um extracto do registo de serviço e de uma cópia do horário de serviço.\n\n6. A empresa conserva o registo de serviço durante um ano após o termo do período abrangido. A empresa fornece um extracto do registo aos condutores interessados que o solicitarem.\n\n7. O presente artigo não é aplicável aos condutores de veículos equipados com um aparelho de controlo utilizado em conformidade com o Regulamento (CEE) n.º 3821/85 do Conselho, de 20 de Dezembro de 1985, relativo ao aparelho de controlo no domínio dos transportes rodoviários ([^8^](http://publications.europa.eu/resource/cellar/5c7ae8ca-0790-4263-ad63-c2f3ab6d4396.0018.03/DOC_1#E0008))."
+  },
+  "7f08a17e9b1ce957": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. A empresa organiza o trabalho dos condutores de tal forma que estes possam dar cumprimento às disposições adequadas do presente regulamento assim como do Regulamento (CEE) n.º 3821/85.\n\n2. A empresa verifica periodicamente se os dois regulamentos foram respeitados. Se se verificarem infracções a empresa toma as medidas necessárias para evitar que se reproduzam."
+  },
+  "aa72fba2cb4674e8": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. A Comissão elabora de dois em dois um relatório relativo à aplicação do presente regulamento pelos Estados-membros e à evolução alcançada nos domínios em questão. A Comissão transmite o relatório ao Conselho e ao Parlamento Europeu num prazo de treze meses a contar da data em que termina o período de dois anos abrangido pelo relatório.\n\n2. Com o objectivo de permitir à Comissão elaborar o relatório referido no n.º 1, os Estados-membros dirigem à Comissão, de dois em dois anos, as informações necessárias sob a forma de um resumo tipo. Estas informações devem ser transmitidas à Comissão o mais tardar em 30 de Setembro seguinte à data em que termina o período de dois anos abrangidos pelo relatório.\n\n3. A Comissão estabelece o resumo-tipo depois de consulta aos Estados-membros."
+  },
+  "80acb0c21940cb19": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. Os Estados-membros adoptam, em tempo útil, após consulta da Comissão, as disposições legislativas, regulamentares e administrativas necessárias à execução do presente regulamento.\n\nEstas disposições referem-se, entre outros assuntos, à organização, ao procedimento e aos meios de controlo assim como às sanções aplicáveis em caso de infracção.\n\n2. Os Estados-membros prestar-se-ão assistência mútua tendo em vista a aplicação do presente regulamento e ou seu controlo.\n\n3. No âmbito desta assistência mútua, as autoridades competentes dos Estados-membros comunicam, regularmente, entre si todas as informações disponíveis relacionadas com:\n\n— as infracções ao presente regulamento cometidas pelos não-residentes e qualquer sanção aplicada por tais infracções,\n\n— as sanções aplicadas por um Estado-membro aos seus residentes por tais infracções cometidas noutros Estados-membros."
+  },
+  "33729ca39d03ee37": {
+   "fragment_id": "SECÇÃO IX",
+   "type": "divisao",
+   "heading": "SECÇÃO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO IX"
+  },
+  "bbdde795c58f027f": {
+   "fragment_id": "Disposições finais",
+   "type": "divisao",
+   "heading": "Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições finais"
+  },
+  "d24004948360beac": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. O Regulamento (CEE) n.º 543/69 é revogado.\n\nNo entanto:\n\n— o artigo 4.º do referido regulamento contínua aplicável, até 31 Dezembro de 1989, para os veículos utilizados pelas entidades públicas para serviços públicos que não concorram com os transportadores profissionais, assim como aos tractores exclusivamente afectos aos trabalhos agrícolas e florestais locais. Contudo, um Estado-membro pode dispor que o presente regulamento se aplica aos referidos transportes nacionais no seu território, a partir de uma data anterior,\n\n— o artigo 15.º do referido regulamento contínua aplicável até 31 de Dezembro 1989 aos veículos e aos condutores afectos aos transportes internacionais regulares de passageiros, na medida em que os veículos que efectuam estes serviços não estão equipados com um aparelho de controlo utilizado em conformidade com o disposto no Regulamento (CEE) n.º 3821/85.\n\n2. As referências ao regulamento revogado por força do n.º 1, devem entender-se como referências ao presente regulamento."
+  },
+  "6736ed2e4df5ec05": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO presente regulamento entra em vigor em 29 de Setembro de 1986.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "2723d602935f9136": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5c7ae8ca-0790-4263-ad63-c2f3ab6d4396.0018.03/DOC_1#src.E0001)) JO n.º 88 de 24.5.1965, p. 1500/65.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5c7ae8ca-0790-4263-ad63-c2f3ab6d4396.0018.03/DOC_1#src.E0002)) JO n.º C 100 de 12.4.1984, p. 3, e JO n.º C 223 de 3.9.1985, p. 5.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5c7ae8ca-0790-4263-ad63-c2f3ab6d4396.0018.03/DOC_1#src.E0003)) JO n.º C 122 de 20.5.1985, p. 168.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5c7ae8ca-0790-4263-ad63-c2f3ab6d4396.0018.03/DOC_1#src.E0004)) JO n.º C 104 de 25.4.1985, p. 4, e JO n.º C 303 de 25.11.1985, p. 29.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/5c7ae8ca-0790-4263-ad63-c2f3ab6d4396.0018.03/DOC_1#src.E0005)) JO n.º L 77 de 29.3.1968, p. 49.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/5c7ae8ca-0790-4263-ad63-c2f3ab6d4396.0018.03/DOC_1#src.E0006)) JO n.º L 334 de 24.12.1977, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/5c7ae8ca-0790-4263-ad63-c2f3ab6d4396.0018.03/DOC_1#src.E0007)) JO n.º 147 de 9.8.1966, p. 2688/66.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/5c7ae8ca-0790-4263-ad63-c2f3ab6d4396.0018.03/DOC_1#src.E0008)) JO n.º L 370 de 31.12.1985, p. 8."
+  },
+  "be22ac423d5eb564": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1985R3820 — PT — 10.09.2009 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31985R3820) [REGULAMENTO (CEE) N.º 3820/85 DO CONSELHO](http://publications.europa.eu/resource/celex/31985R3820) [de 20 de Dezembro de 1985](http://publications.europa.eu/resource/celex/31985R3820) [relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários](http://publications.europa.eu/resource/celex/31985R3820) (JO L 370, 31.12.1985, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 561/2006 do Parlamento Europeu e do Conselho de 15 de Março de 2006](http://publications.europa.eu/resource/celex/32006R0561) — L 102 — 1 — 11.4.2006"
+  }
+ }
+}

@@ -33,6 +33,38 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-09-01'
+version_history:
+  file: diretiva-ue-1979-373.versoes.json
+  count: 2
+  source_lastmod: '2010-09-01'
+  versions:
+  - date: '1979-04-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-09-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+    - Suprime Artigo 15o
+    - Suprime Artigo 16o
+    - Suprime Artigo 17o
+    - Suprime ANEXO
 identifiers:
   celex: 31979L0373
   eli: http://data.europa.eu/eli/dir/1979/373/oj
@@ -47,7 +79,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4a44c841-03c0-4bf6-b8f3-36600a5a1ae6.0011
   content_url: http://publications.europa.eu/resource/cellar/b1805461-a744-45b9-b07d-508e46483467.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01979L0373-20100901
-  retrieved_at: '2026-10-22T02:49:51Z'
+  retrieved_at: '2026-10-22T14:32:56Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T20:52:40.841+01:00'
 integrity:
@@ -56,9 +88,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:51Z'
-  notes: Texto consolidado 01979L0373-20100901.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:32:56Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1979-373.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -229,16 +261,22 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:51Z'
+  checked_at: '2026-10-22T14:32:56Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01979L0373-19970808: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0373-19981217: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0373-19990629: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0373-20000503: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0373-20020306: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0373-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0373-20070615: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01979L0373-20090420: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

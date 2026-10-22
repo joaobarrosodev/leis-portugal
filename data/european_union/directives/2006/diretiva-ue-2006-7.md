@@ -35,6 +35,118 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: diretiva-ue-2006-7.versoes.json
+  count: 4
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2006-03-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-03-24'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita ANEXO I
+    - Adita Águas interiores
+    - Adita Águas costeiras e de transição
+    - Adita ANEXO II
+    - Adita Avaliação e classificação das águas balneares
+    - Adita 1. Qualidade medíocre
+    - Adita 2. Qualidade suficiente
+    - Adita 3. Boa qualidade
+    - Adita 4. Excelente qualidade
+    - Adita ANEXO III
+    - Adita Perfil das águas balneares
+    - Adita ANEXO IV
+    - Adita MONITORIZAÇÃO DAS ÁGUAS BALNEARES
+    - Adita ANEXO V
+    - Adita REGRAS APLICÁVEIS AO MANUSEAMENTO DE AMOSTRAS PARA ANÁLISES MICROBIOLÓGICAS
+    - Adita 1. PONTO DE AMOSTRAGEM
+    - Adita 2. ESTERILIZAÇÃO DOS FRASCOS DE AMOSTRAS
+    - Adita 3. RECOLHA DE AMOSTRAS
+  - date: '2009-08-07'
+    amending: eu:celex:32009R0596:por
+    amending_title: REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Águas interiores
+    - Altera Águas costeiras e de transição
+    - Altera 1. Qualidade medíocre
+    - Altera 2. Qualidade suficiente
+    - Altera 3. Boa qualidade
+    - Altera Notas
+    - Adita Artigo 1.º — Objectivo e âmbito de aplicação
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 3.º — Controlo
+    - Adita Artigo 4.º — Avaliação da qualidade das águas balneares
+    - Adita Artigo 5.º — Classificação da qualidade das águas balneares
+    - Adita Artigo 6.º — Perfis das águas balneares
+    - Adita Artigo 7.º — Medidas de gestão em circunstâncias excepcionais
+    - Adita Artigo 8.º — Riscos provenientes de cianobactérias
+    - Adita Artigo 9.º — Outros parâmetros
+    - Adita Artigo 10.º — Cooperação em relação às águas transfronteiriças
+    - Adita Artigo 11.º — Participação do público
+    - Adita Artigo 12.º — Informação do público
+    - Adita Artigo 13.º — Relatórios
+    - Adita Artigo 14.º — Relatório e revisão
+    - Adita Artigo 15.º — Adaptações técnicas e medidas de aplicação
+    - Adita Artigo 16.º — Procedimento de comité
+    - Adita Artigo 17.º — Revogação
+    - Adita Artigo 18.º — Aplicação
+    - Adita Artigo 19.º — Entrada em vigor
+    - Adita Artigo 20.º — Destinatários
+    - Adita ÁNEXO I
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+  - date: '2014-01-01'
+    amending: eu:celex:32013L0064:por
+    amending_title: DIRETIVA 2013/64/UE DO CONSELHO de 17 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Classificação da qualidade das águas balneares
+    - Altera Artigo 6.º — Perfis das águas balneares
+    - Altera Artigo 13.º — Relatórios
+    - Altera Águas interiores
+    - Altera Águas costeiras e de transição
+    - Altera 1. Qualidade medíocre
+    - Altera 2. Qualidade suficiente
+    - Altera 3. Boa qualidade
+    - Altera Notas
 identifiers:
   celex: 32006L0007
   eli: http://data.europa.eu/eli/dir/2006/7/oj
@@ -49,7 +161,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017
   content_url: http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0007-20140101
-  retrieved_at: '2026-10-22T02:36:26Z'
+  retrieved_at: '2026-10-22T15:01:35Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T08:43:30.567+01:00'
 integrity:
@@ -58,9 +170,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:26Z'
-  notes: Texto consolidado 02006L0007-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:01:35Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2006-7.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -239,35 +351,19 @@ relationships:
   source: null
 article_structure:
   article_count: 20
-  section_count: 27
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 28
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:26Z'
+  checked_at: '2026-10-22T15:01:35Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2006/7/CE do Parlamento Europeu e do Conselho, de 15 de Fevereiro de 2006
-
-> 2006L0007 — PT — 01.01.2014 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0596) — [REGULAMENTO (CE) N.º 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0596) — L 188 — 14 — 18.7.2009
-- [►M2](http://publications.europa.eu/resource/celex/32013L0064) — [DIRETIVA 2013/64/UE DO CONSELHO de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013L0064) — L 353 — 8 — 28.12.2013
-
-**Rectificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32006L0007R%2801%29) — [Rectificação, JO L 111, 25.4.2006, p. 15 (2006/7)](http://publications.europa.eu/resource/celex/32006L0007R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32006L0007R%2802%29) — [Rectificação, JO L 359, 29.12.2012, p. 77 (2006/7)](http://publications.europa.eu/resource/celex/32006L0007R%2802%29)
-
-## DIRECTIVA 2006/7/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de Fevereiro de 2006
 

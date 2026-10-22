@@ -37,6 +37,83 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-10-30'
+version_history:
+  file: regulamento-ue-2008-450.versoes.json
+  count: 3
+  source_lastmod: '2013-10-30'
+  versions:
+  - date: '2008-06-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-06-19'
+    amending: eu:celex:32013R0528:por
+    amending_title: REGULAMENTO (UE) N. o 528/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de junho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Território aduaneiro
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 10.º — Sistemas electrónicos
+    - Altera Artigo 28.º — Voos e travessias marítimas intracomunitários
+    - Altera Artigo 32.º — Prazos
+    - Altera Artigo 33.º — Pauta Aduaneira Comum
+    - Altera Artigo 41.º — Método de determinação do valor aduaneiro baseado no valor transaccional
+    - Altera Artigo 53.º — Regras especiais para o cálculo do montante dos direitos de importação
+    - Altera Artigo 56.º — Disposições gerais
+    - Altera Artigo 86.º — Extinção
+    - Altera Artigo 126.º — Medidas a adoptar pelas autoridades aduaneiras
+    - Altera Artigo 131.º — Casos de não concessão de franquia de direitos de importação
+    - Altera Artigo 144.º — Trânsito externo
+    - Altera Artigo 188.º — Aplicação
+    - Altera Notas
+    - Adita ANEXO
+    - Adita QUADROS DE CORRESPONDÊNCIA
+    - Adita 1. Regulamento (CEE) n.º 2913/92
+    - 'Adita 2. Regulamentos (CEE) n.º 3925/91 e (CE) n.º 1207/2001:'
+  - date: '2013-10-30'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime CAPÍTULO 1
+    - Suprime Âmbito de aplicação da legislação aduaneira, missão das alfândegas e definições
+    - Suprime Artigo 1.º — Objecto e âmbito
+    - Suprime Artigo 2.º — Missão das autoridades aduaneiras
+    - Suprime Artigo 3.º — Território aduaneiro
+    - Suprime Artigo 4.º — Definições
+    - Suprime CAPÍTULO 2
+    - Suprime Direitos e deveres das pessoas resultantes da legislação aduaneira
+    - Suprime Secção 1
+    - Suprime Fornecimento de informações
+    - Suprime Artigo 5.º — Intercâmbio e armazenamento de dados
+    - Suprime Artigo 6.º — Protecção de dados
+    - Suprime Artigo 7.º — Intercâmbio de informações adicionais entre as autoridades aduaneiras e os operadores económicos
+    - Suprime Artigo 8.º — Fornecimento de informações pelas autoridades aduaneiras
+    - Suprime Artigo 9.º — Fornecimento de informações às autoridades aduaneiras
+    - Suprime Artigo 10.º — Sistemas electrónicos
+    - Suprime Secção 2
+    - Suprime Representação aduaneira
+    - Suprime Artigo 11.º — Representante aduaneiro
+    - Suprime Artigo 12.º — Habilitação
+    - Suprime Secção 3
+    - Suprime Operador económico autorizado
+    - Suprime Artigo 13.º — Pedido e autorização
+    - Suprime Artigo 14.º — Concessão do estatuto
+    - Suprime Artigo 15.º — Medidas de execução
+    - Suprime Secção 4
+    - Suprime Decisões relativas à aplicação da legislação aduaneira
+    - Suprime Artigo 16.º — Disposições gerais
+    - Suprime Artigo 17.º — Validade das decisões a nível comunitário
+    - Suprime Artigo 18.º — Anulação de decisões favoráveis
+    - Suprime Artigo 19.º — Revogação e alteração de decisões favoráveis
+    - Suprime Artigo 20.º — Decisões relativas às informações vinculativas
+    - Suprime Secção 5
+    - Suprime Sanções
+    - Suprime Artigo 21.º — Aplicação de sanções
+    - Suprime Secção 6
+    - Suprime Recursos
 identifiers:
   celex: 32008R0450
   eli: http://data.europa.eu/eli/reg/2008/450/oj
@@ -51,7 +128,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3ac826c5-29db-4029-ba3d-57a52937609c.0019
   content_url: http://publications.europa.eu/resource/cellar/674fc8e8-5839-4309-8282-161d3fa47700.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0450-20131030
-  retrieved_at: '2026-10-22T02:52:33Z'
+  retrieved_at: '2026-10-22T15:14:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T18:23:43.604+01:00'
 integrity:
@@ -60,9 +137,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:33Z'
-  notes: Texto consolidado 02008R0450-20131030.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:14:43Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2008-450.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -192,16 +269,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:33Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:14:43Z'
+  warnings: []
   errors: []
 ---
 

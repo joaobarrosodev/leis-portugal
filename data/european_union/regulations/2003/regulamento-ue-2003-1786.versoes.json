@@ -1,0 +1,721 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003R1786:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R1786-20080401",
+ "dre_path": null,
+ "source_lastmod": "2008-04-01",
+ "versions": [
+  {
+   "date": "2003-10-21",
+   "future": false,
+   "celex": "32003R1786",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "236ad2c2a2dd245f",
+    "c77f891e484d67b6",
+    "cef6e2bd21299060",
+    "df335cc88c132f5b",
+    "28ab56cc1478dc8c",
+    "bcbcb07366183f83",
+    "28d0e6f5634fb9c3",
+    "4e7262bf1eaa4c21",
+    "3512afec3f7672e7",
+    "5689b30d30bbbb23",
+    "37c17f616a1c19a2",
+    "e8e623774d3f21bd",
+    "2c18ea1bc34236e5",
+    "73607497b2e4b9fe",
+    "ae6972bbecaf5402",
+    "62a958f66f137a3d",
+    "4198f83204390b78",
+    "8758e3db24bde48f",
+    "5b95b07f1ed8bddb",
+    "7392b19d339e2a17",
+    "5e87954b4345cf2e",
+    "46f3931ea23d2c98",
+    "5ea7471e755fbacc",
+    "38dd68bbe7135e9c",
+    "8c9b72b90581aa9f",
+    "68330d29e4e092d0",
+    "8f0f2b2ca0021fc8",
+    "f693a6191c2b1b1f",
+    "4a81965eb3dbbe31",
+    "ee11cc1f5177c796",
+    "9555fbafefe6d6f5",
+    "e0d6b88b4cb5b434"
+   ]
+  },
+  {
+   "date": "2005-04-01",
+   "future": false,
+   "celex": "02003R1786-20050401",
+   "acts": [
+    {
+     "id": "eu:celex:32004R0583:por",
+     "title": "REGULAMENTO (CE) N. o 583/2004 DO CONSELHO de 22 de Março de 2004",
+     "published": null,
+     "celex": "32004R0583"
+    },
+    {
+     "id": "eu:celex:32006R0456:por",
+     "title": "REGULAMENTO (CE) N. o 456/2006 DO CONSELHO de 20 de Março de 2006",
+     "published": null,
+     "celex": "32006R0456"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 26.º",
+    "Adita CAPÍTULO I",
+    "Adita DISPOSIÇÕES INTRODUTÓRIAS",
+    "Adita CAPÍTULO II",
+    "Adita AJUDA",
+    "Adita CAPÍTULO III",
+    "Adita REGIME COMERCIAL COM PAÍSES TERCEIROS",
+    "Adita CAPÍTULO IV",
+    "Adita DISPOSIÇÕES GERAIS",
+    "Adita Artigo 21.º",
+    "Adita ANEXO",
+    "Adita QUADRO DE CORRESPONDÊNCIA",
+    "Adita Notas",
+    "Suprime CAPÍTULO I — DISPOSIÇÕES INTRODUTÓRIAS",
+    "Suprime CAPÍTULO II — AJUDA",
+    "Suprime CAPÍTULO III — REGIME COMERCIAL COM PAÍSES TERCEIROS",
+    "Suprime CAPÍTULO IV — DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 21.º — Podem ser adoptadas medidas transitórias nos termos do n.o 2 do artigo 18.o",
+    "Suprime ANEXO — QUADRO DE CORRESPONDÊNCIA"
+   ],
+   "fragments": [
+    "4b1ee620a5c42e3e",
+    "226c39ffd0a88dad",
+    "95110ef01b194c22",
+    "1483b5e727f70107",
+    "d4a238c68dabda93",
+    "8d45145b73542e29",
+    "f0f8c960bfdbce9b",
+    "9643a23c4dc5f8f6",
+    "de4fb3f65765c6fb",
+    "77dcf82440f996bf",
+    "9aef0db118fa5fcc",
+    "06d8f5b014a914bc",
+    "0dcd040e801f2adc",
+    "0a74a15c8ea72624",
+    "8bf2d149bfb91a34",
+    "73607497b2e4b9fe",
+    "7fa47a6464a68e2d",
+    "f622a9f439d1d0e0",
+    "1e7a0903d2eed348",
+    "f5d98f8f882aae17",
+    "75747d8f8d05e68d",
+    "1dd6d71546eba96f",
+    "24e6b88cb27bc3c7",
+    "1ecfc79da3f1ac7f",
+    "e17a2adcfbbdd4cc",
+    "e6bb0e2e6e765615",
+    "4a7dbf77a9f8ee49",
+    "38dd68bbe7135e9c",
+    "c3db7506f547eeb2",
+    "c1b99cb316b34ed2",
+    "8f0f2b2ca0021fc8",
+    "f693a6191c2b1b1f",
+    "5049baf93d2501ec",
+    "3afbfb7b387225a7",
+    "83778a01a548c139",
+    "10220b9774fa9034",
+    "2329fa5744b11fb8",
+    "492496427adc82da"
+   ]
+  },
+  {
+   "date": "2008-04-01",
+   "future": false,
+   "celex": "02003R1786-20080401",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime DISPOSIÇÕES INTRODUTÓRIAS",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime CAPÍTULO II",
+    "Suprime AJUDA",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime CAPÍTULO III",
+    "Suprime REGIME COMERCIAL COM PAÍSES TERCEIROS",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime CAPÍTULO IV",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime Artigo 24.º",
+    "Suprime Artigo 25.º",
+    "Suprime Artigo 26.º",
+    "Suprime ANEXO",
+    "Suprime QUADRO DE CORRESPONDÊNCIA",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "b79e46ea0a67a57f"
+   ]
+  }
+ ],
+ "fragments": {
+  "236ad2c2a2dd245f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 1786/2003 do Conselho, de 29 de Setembro de 2003, sobre a organização comum do mercado das forragens secas** *Jornal Oficial nº L 270 de 21/10/2003 p. 0114 - 0120*\n\nRegulamento (CE) n.o 1786/2003 do Conselho\n\nde 29 de Setembro de 2003\n\nsobre a organização comum do mercado das forragens secas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 36.o e o terceiro parágrafo do n.o 2 do artigo 37.o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu(1),\n\nTendo em conta o parecer do Comité Económico e Social Europeu(2),\n\nTendo em conta o parecer do Comité das Regiões(3),\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.o 603/95 do Conselho, de 21 de Fevereiro de 1995, que institui a organização comum de mercado no sector das forragens secas(4), estabelece uma organização comum desse mercado, estando previstas duas ajudas forfetárias, uma para as forragens desidratadas e outra para as forragens secas ao sol.\n\n(2) O Regulamento (CE) n.o 603/95 foi substancialmente alterado diversas vezes. Como se torna necessário efectuar mais alterações, o regulamento deve ser revogado e substituído.\n\n(3) A maior parte da produção de forragens no âmbito do regime estabelecido pelo Regulamento (CE) n.o 603/95 depende da utilização de combustíveis fósseis na desidratação e, em alguns Estados-Membros, do recurso à irrigação. Atendendo aos seus efeitos preocupantes para o ambiente, o regime deve ser alterado.\n\n(4) O Regulamento (CE) n.o 1782/2003 do Conselho, de 29 de Setembro de 2003, que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores(5) estabelece regras comuns para regimes de apoio directo.\n\n(5) As duas ajudas estabelecidas pelo Regulamento (CE) n.o 603/95 devem ser convertidas numa ajuda única, aplicável às forragens desidratadas e às forragens secas ao sol.\n\n(6) Como a produção nos países meridionais começa em Abril, a campanha de comercialização das forragens secas a que se concedam ajudas deve decorrer entre 1 de Abril e 31 de Março.\n\n(7) Para garantir a neutralidade orçamental em relação às forragens secas, deve existir um limite máximo para o volume da produção comunitária. Para o efeito, deve ser estabelecida uma quantidade máxima garantida que abranja as forragens desidratadas e as forragens secas ao sol.\n\n(8) Essa quantidade deve ser repartida pelos Estados-Membros com base nas quantidades históricas reconhecidas para efeitos do Regulamento (CE) n.o 603/95.\n\n(9) Para garantir o respeito da quantidade máxima garantida e desencorajar excessos de produção na Comunidade, a ajuda deve ser reduzida se aquela quantidade for excedida. Essa redução deve ser aplicada em cada Estado-Membro que exceda a sua quantidade nacional garantida e ser proporcional ao excesso aí verificado.\n\n(10) O montante final da ajuda não pode ser pago enquanto não se souber se a quantidade máxima garantida foi excedida. Deve, portanto, ser pago um adiantamento da ajuda quando a forragem seca sair da empresa de transformação.\n\n(11) Devem ser estabelecidos requisitos de qualidade mínimos para o direito à ajuda.\n\n(12) Para favorecer o abastecimento regular de forragens frescas às empresas de transformação, o direito à ajuda deve, em certos casos, depender de um contrato entre os produtores e as empresas de transformação.\n\n(13) Para que a cadeia de produção seja mais transparente e para facilitar as verificações essenciais, alguns elementos contratuais devem ser obrigatórios.\n\n(14) Para receberem a ajuda, as empresas de transformação devem, então, estar obrigadas a manter uma contabilidade das existências que forneça as informações necessárias à verificação do direito à ajuda e facultar quaisquer documentos comprovativos necessários.\n\n(15) Se não existir um contrato entre os produtores e as empresas de transformação, estas deverão fornecer outras informações que permitam verificar o direito à ajuda.\n\n(16) No caso de contratos de empreitada para a transformação de forragens entregues pelo produtor, é necessário garantir que a ajuda seja repercutida neste último.\n\n(17) O correcto funcionamento do mercado único das forragens secas ficaria comprometido pela concessão de ajudas nacionais. As disposições do Tratado que regulam os auxílios estatais devem, portanto, aplicar-se aos produtos abrangidos por esta organização comum de mercado.\n\n(18) Num intuito de simplificação, o comité que assistirá a Comissão deverá ser o Comité de Gestão dos Cereais.\n\n(19) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(6).\n\n(20) O mercado interno e os direitos aduaneiros podem, em circunstâncias excepcionais, revelar-se inadequados. Para que, nesses casos, o mercado comunitário não fique sem defesa contra as perturbações que possam advir, a Comunidade deve poder tomar rapidamente todas as medidas necessárias. Essas medidas devem ser conformes com as obrigações internacionais da Comunidade.\n\n(21) A fim de ter em conta a eventual evolução da produção de forragens secas, a Comissão, com base numa avaliação da organização comum de mercado das forragens secas, deverá apresentar ao Conselho, até 30 de Setembro de 2008, um relatório sobre o sector, que aborde em especial o desenvolvimento das áreas de leguminosas e de outras forragens verdes, a produção de forragens secas e as economias de combustíveis fósseis obtidas. O relatório será se necessário, acompanhado de propostas adequadas.\n\n(22) As despesas em que incorrerem os Estados-Membros em resultado das obrigações decorrentes da aplicação do presente regulamento serão financiadas pela Comunidade nos termos do Regulamento (CE) n.o 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum(7).\n\n(23) Devido à aplicação do regime de pagamento único a partir de 1 de Janeiro de 2005, este regime será aplicado a partir de 1 de Abril de 2005,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "c77f891e484d67b6": {
+   "fragment_id": "CAPÍTULO I — DISPOSIÇÕES INTRODUTÓRIAS",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — DISPOSIÇÕES INTRODUTÓRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — DISPOSIÇÕES INTRODUTÓRIAS"
+  },
+  "cef6e2bd21299060": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ instituída uma organização comum de mercado no sector das forragens secas, aplicável aos seguintes produtos:\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "df335cc88c132f5b": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA campanha de comercialização dos produtos enumerados no artigo 1.o tem início em 1 de Abril e termina em 31 de Março do ano seguinte."
+  },
+  "28ab56cc1478dc8c": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente regulamento é aplicável sem prejuízo das medidas previstas no Regulamento (CE) n.o 1782/2003 do Conselho, de 29 de Setembro de 2003."
+  },
+  "bcbcb07366183f83": {
+   "fragment_id": "CAPÍTULO II — AJUDA",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — AJUDA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — AJUDA"
+  },
+  "28d0e6f5634fb9c3": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. É concedida ajuda aos produtos enumerados no artigo 1.o\n\n2. Sem prejuízo do artigo 6.o, a ajuda é fixada em 33 EUR/tonelada."
+  },
+  "4e7262bf1eaa4c21": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. É estabelecida uma quantidade máxima garantida (QMG), por campanha de comercialização, de 4855900 toneladas de forragens desidratadas e/ou secas ao Sol, à qual pode ser concedida a ajuda prevista no n.o 2 do artigo 4.o\n\n2. A quantidade máxima garantida referida no n.o 1 é repartida do seguinte modo pelos Estados-Membros:\n\nQuantidade nacional garantida\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "3512afec3f7672e7": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSe, numa campanha de comercialização, a quantidade de forragens secas para a qual for solicitada a ajuda prevista no n.o 2 do artigo 4.o exceder a quantidade máxima garantida estabelecida no n.o 1 do artigo 5.o, a ajuda a pagar nessa campanha será reduzida, em cada Estado-Membro em que a produção exceder a quantidade nacional garantida, numa percentagem proporcional a esse excesso.\n\nA redução será estabelecida nos termos do n.o 2 do artigo 18.o, de modo a garantir que a despesa orçamental em euros não exceda a que seria suportada se a quantidade máxima garantida não tivesse sido excedida."
+  },
+  "5689b30d30bbbb23": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. As empresas de transformação que solicitarem uma ajuda ao abrigo do presente regulamento terão direito a um adiantamento de 19,80 EUR/tonelada ou de 26,40 EUR/tonelada, se tiverem prestado uma caução de 6,60 EUR/tonelada.\n\nOs Estados-Membros devem efectuar os controlos necessários para verificar o direito à ajuda. Uma vez estabelecido este último, proceder-se-á ao pagamento do adiantamento.\n\nContudo, o adiantamento pode ser pago antes de o direito ser estabelecido, desde que a empresa de transformação preste uma caução equivalente ao montante do adiantamento, acrescido de 10 %. Essa caução também serve para efeitos do primeiro parágrafo. A caução será reduzida até ao montante previsto no primeiro parágrafo logo que o direito à ajuda tiver sido estabelecido e será totalmente liberada no pagamento do saldo da ajuda.\n\n2. O adiantamento só pode ser pago depois de a forragem seca sair da empresa de transformação.\n\n3. Se tiver sido pago um adiantamento, será pago o saldo correspondente à diferença entre o montante do adiantamento e o montante total da ajuda devida à empresa de transformação, sob reserva da aplicação do artigo 6.o\n\n4. Se o adiantamento exceder o total a que a empresa de transformação tiver direito por força do artigo 6.o, esta reembolsará a autoridade competente do Estado-Membro, a seu pedido, do montante que tiver recebido em excesso."
+  },
+  "37c17f616a1c19a2": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAnualmente e, o mais tardar, até 31 de Maio, os Estados-Membros devem notificar a Comissão das quantidades de forragens secas elegíveis para a ajuda prevista no n.o 2 do artigo 4.o na campanha de comercialização anterior."
+  },
+  "e8e623774d3f21bd": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA ajuda prevista no n.o 2 do artigo 4.o deve ser paga, a pedido do interessado, em relação às forragens secas saídas da empresa de transformação que preencham os seguintes requisitos:\n\na) Possuírem um teor máximo de humidade compreendido entre 11 % e 14 %, variável em função da apresentação do produto;\n\nb) Possuírem um teor mínimo de proteínas brutas totais, expresso em relação à matéria seca, não inferior a:\n\ni) 15 %, no caso dos produtos referidos na alínea a) e no segundo travessão da alínea b) do artigo 1.o,\n\nii) 45 %, no caso dos produtos referidos no primeiro travessão da alínea b) do artigo 1.o;\n\nc) Possuírem uma qualidade sã, íntegra e comercializável.\n\nPodem ser estabelecidos requisitos suplementares, nomeadamente em relação ao teor de caroteno e de fibras, nos termos do n.o 2 do artigo 18.o"
+  },
+  "2c18ea1bc34236e5": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA ajuda prevista no n.o 2 do artigo 4.o só pode ser concedida às empresas de transformação dos produtos enumerados no artigo 1.o que satisfaçam as seguintes condições:\n\na) Manterem uma contabilidade das existências que inclua, pelo menos, as seguintes informações:\n\ni) as quantidades de forragens frescas e, se for caso disso, de forragens secas ao sol, transformadas; todavia, se a situação especial da empresa o exigir, as quantidades podem ser estimadas com base nas superfícies semeadas,\n\nii) as quantidades de forragens secas produzidas e as quantidades (e qualidade) saídas da empresa de transformação;\n\nb) Fornecerem quaisquer outros documentos comprovativos necessários à verificação do direito à ajuda;\n\nc) Corresponderem, pelo menos, a uma das seguintes categorias:\n\ni) empresas de transformação que tenham celebrado contratos com produtores de forragens para secar,\n\nii) empresas que tenham transformado a sua própria produção ou, no caso de agrupamentos, a produção dos seus membros,\n\niii) empresas que tenham sido abastecidas por pessoas singulares ou colectivas que ofereçam determinadas garantias a definir e que tenham celebrado contratos com produtores de forragens para secar; essas pessoas devem ser compradores aprovados, nos termos definidos, de acordo com o n.o 2 do artigo 18.o, pela autoridade competente do Estado-Membro onde forem colhidas as forragens."
+  },
+  "73607497b2e4b9fe": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs empresas que transformem a sua própria produção ou a dos seus membros devem apresentar anualmente, à autoridade competente do Estado-Membro respectivo, antes de uma data a determinar, uma declaração das superfícies cuja colheita de forragens se destine a transformação."
+  },
+  "ae6972bbecaf5402": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Dos contratos a que se refere a alínea c) do artigo 10.o devem constar, não só o preço a pagar ao produtor das forragens frescas e, se for caso disso, secas ao Sol, mas também, pelo menos:\n\na) A superfície cuja colheita se destine a ser entregue à empresa de transformação;\n\nb) As condições de entrega e de pagamento.\n\n2. Se o contrato referido na subalínea i) da alínea c) do artigo 10.o for um contrato de empreitada para a transformação de forragens entregues por um produtor, terá de especificar, pelo menos, a superfície cuja colheita se destine a ser entregue e incluir uma cláusula que preveja a obrigação de a empresa de transformação pagar ao produtor a ajuda prevista no artigo 4.o, recebida pela quantidade transformada ao abrigo do contrato."
+  },
+  "62a958f66f137a3d": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Os Estados-Membros devem criar sistemas de inspecção que permitam verificar se cada empresa de transformação observou:\n\na) As condições estabelecidas nos artigos 1.o a 12.o;\n\nb) A correspondência entre as quantidades abrangidas pelos pedidos de ajuda e as quantidades de forragens secas que satisfaçam as normas mínimas de qualidade saídas da empresa de transformação.\n\n2. As forragens secas devem ser pesadas e devem ser colhidas amostras delas no momento da saída da empresa de transformação.\n\n3. Os Estados-Membros devem notificar previamente a Comissão das disposições que tencionem adoptar em aplicação do n.o 1."
+  },
+  "4198f83204390b78": {
+   "fragment_id": "CAPÍTULO III — REGIME COMERCIAL COM PAÍSES TERCEIROS",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — REGIME COMERCIAL COM PAÍSES TERCEIROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — REGIME COMERCIAL COM PAÍSES TERCEIROS"
+  },
+  "8758e3db24bde48f": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nSalvo disposição em contrário do presente regulamento, as taxas dos direitos da Pauta Aduaneira Comum são aplicáveis aos produtos enumerados no artigo 1.o"
+  },
+  "5b95b07f1ed8bddb": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. As regras gerais de interpretação da nomenclatura combinada e as regras especiais para a sua aplicação são aplicáveis à classificação pautal dos produtos enumerados no artigo 1.o A nomenclatura pautal resultante da aplicação do presente regulamento deve ser integrada na Pauta Aduaneira Comum.\n\n2. Salvo disposição em contrário do presente regulamento ou adoptada nos seus próprios termos, é proibido, no comércio com países terceiros:\n\na) A cobrança de qualquer encargo de efeito equivalente a um direito aduaneiro;\n\nb) A aplicação de qualquer restrição quantitativa ou medida de efeito equivalente."
+  },
+  "7392b19d339e2a17": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Se, em consequência das importações ou exportações, o mercado comunitário de um ou mais dos produtos enumerados no artigo 1.o sofrer ou correr o risco de sofrer perturbações graves que possam comprometer o cumprimento dos objectivos do artigo 33.o do Tratado, podem ser aplicadas medidas adequadas ao comércio com países não membros da OMC, até que desapareça essa perturbação ou ameaça de perturbação.\n\n2. Se se verificar a situação referida no n.o 1, a Comissão, a pedido de um Estado-Membro ou por sua própria iniciativa, deve decidir das medidas necessárias, que serão comunicadas aos Estados-Membros e imediatamente aplicáveis. Se a Comissão receber um pedido de um Estado-Membro, tomará uma decisão nos três dias úteis seguintes ao da recepção do pedido.\n\n3. Qualquer Estado-Membro pode submeter uma medida decidida pela Comissão à apreciação do Conselho nos três dias úteis seguintes ao da sua notificação. O Conselho reunir-se-á sem demora e pode, deliberando por maioria qualificada, alterar ou anular a medida em causa no prazo de um mês a contar da data em que esta tiver sido submetida à sua apreciação.\n\n4. As disposições adoptadas ao abrigo do presente artigo serão aplicadas no respeito das obrigações decorrentes dos acordos celebrados nos termos do n.o 2 do artigo 300.o do Tratado."
+  },
+  "5e87954b4345cf2e": {
+   "fragment_id": "CAPÍTULO IV — DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — DISPOSIÇÕES GERAIS"
+  },
+  "46f3931ea23d2c98": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nSalvo disposição em contrário do presente regulamento, os artigos 87.o, 88.o e 89.o do Tratado são aplicáveis à produção e ao comércio dos produtos enumerados no artigo 1.o do presente regulamento."
+  },
+  "5ea7471e755fbacc": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. A Comissão é assistida pelo Comité de Gestão dos Cereais, criado pelo artigo 25.o do Regulamento (CE) n.o 1784/2003 do Conselho, de 29 de Setembro de 2003, que estabelece a organização comum de mercado no sector dos cereais(8), a seguir designado \"Comité\".\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.o e 7.o da Decisão 1999/468/CE.\n\nO prazo previsto no n.o 3 do artigo 4.o da Decisão 1999/468/CE é de um mês.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "38dd68bbe7135e9c": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO Comité pode examinar qualquer questão suscitada pelo seu presidente, por sua própria iniciativa ou a pedido de um representante de um Estado-Membro."
+  },
+  "8c9b72b90581aa9f": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nAs regras de execução do presente regulamento são adoptadas nos termos do n.o 2 do artigo 18.o, nomeadamente as que se refiram:\n\na) À concessão da ajuda prevista no artigo 4.o e ao adiantamento previsto no artigo 7.o;\n\nb) À verificação e ao estabelecimento do direito à ajuda, incluindo quaisquer controlos necessários, que podem recorrer a determinados elementos do sistema integrado;\n\nc) À liberação das cauções referidas no n.o 1 do artigo 7.o;\n\nd) Aos critérios de determinação das normas de qualidade referidas no artigo 9.o;\n\ne) Às condições a preencher pelas empresas referidas na subalínea ii) da alínea c), do artigo 10.o e no artigo 11.o;\n\nf) À medida de controlo a pôr em prática em aplicação do n.o 2 do artigo 13.o;\n\ng) Aos critérios a satisfazer na celebração dos contratos referidos no artigo 10.o e as informações a incluir nos mesmos, além dos critérios previstos no artigo 12.o;\n\nh) À aplicação da quantidade máxima garantida referida no n.o 1 do artigo 5.o"
+  },
+  "68330d29e4e092d0": {
+   "fragment_id": "Artigo 21.º — Podem ser adoptadas medidas transitórias nos termos do n.o 2 do artigo 18.o",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Podem ser adoptadas medidas transitórias nos termos do n.o 2 do artigo 18.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Podem ser adoptadas medidas transitórias nos termos do n.o 2 do artigo 18.o"
+  },
+  "8f0f2b2ca0021fc8": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs Estados-Membros devem notificar a Comissão das medidas que tomarem em aplicação do presente regulamento."
+  },
+  "f693a6191c2b1b1f": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nAntes de 30 de Setembro de 2008 e com base numa avaliação da organização comum do mercado das forragens secas, a Comissão apresentará ao Conselho um relatório sobre o sector, que aborde em especial o desenvolvimento das áreas de leguminosas e de outras forragens verdes, a produção de forragens secas e as economias de combustíveis fósseis obtidas. O relatório será eventualmente acompanhado de propostas adequadas."
+  },
+  "4a81965eb3dbbe31": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nO Regulamento (CE) n.o 1258/1999 e as disposições aprovadas em sua execução são aplicáveis às despesas em que incorrerem os Estados-Membros no cumprimento das obrigações decorrentes do presente regulamento."
+  },
+  "ee11cc1f5177c796": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nÉ revogado o Regulamento (CE) n.o 603/95.\n\nAs referências ao regulamento revogado entendem-se como sendo feitas ao presente regulamento e são interpretadas de acordo com quadro de correspondência anexo."
+  },
+  "9555fbafefe6d6f5": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nO presente regulamento entra em vigor sete dias após o da sua publicação no Jornal Oficial da União Europeia.\n\nO presente regulamento é aplicável a partir de 1 de Abril de 2005.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 29 de Setembro de 2003.\n\nPelo Conselho\n\nO Presidente\n\nG. Alemanno\n\n(1) Parecer emitido em 5 de Junho de 2003 (ainda não publicado no Jornal Oficial).\n\n(2) JO C 208 de 3.9.2003, p. 41.\n\n(3) Parecer emitido em 2 de Julho de 2003 (ainda não publicado no Jornal Oficial).\n\n(4) JO L 63 de 21.3.1995, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 806/2003 (JO L 122 de 16.5.2003, p. 1).\n\n(5) Ver página 1 do presente Jornal Oficial.\n\n(6) JO L 184 de 17.7.1999, p. 23 (rectificação: JO L 269 de 19.10.1999, p. 45).\n\n(7) JO L 160 de 26.6.1999, p. 103.\n\n(8) Ver página 78 do presente Jornal Oficial."
+  },
+  "e0d6b88b4cb5b434": {
+   "fragment_id": "ANEXO — QUADRO DE CORRESPONDÊNCIA",
+   "type": "divisao",
+   "heading": "ANEXO — QUADRO DE CORRESPONDÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — QUADRO DE CORRESPONDÊNCIA\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "4b1ee620a5c42e3e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Setembro de 2003\n\nsobre a organização comum do mercado das forragens secas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 36.º e o terceiro parágrafo do n.º 2 do artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/41bd6d2b-c4c0-453f-b45e-09b7de660ad8.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/41bd6d2b-c4c0-453f-b45e-09b7de660ad8.0017.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/41bd6d2b-c4c0-453f-b45e-09b7de660ad8.0017.03/DOC_1#E0003)),\n\n(1) O Regulamento (CE) n.º 603/95 do Conselho, de 21 de Fevereiro de 1995, que institui a organização comum de mercado no sector das forragens secas ([^4^](http://publications.europa.eu/resource/cellar/41bd6d2b-c4c0-453f-b45e-09b7de660ad8.0017.03/DOC_1#E0004)), estabelece uma organização comum desse mercado, estando previstas duas ajudas forfetárias, uma para as forragens desidratadas e outra para as forragens secas ao sol.\n\n(2) O Regulamento (CE) n.º 603/95 foi substancialmente alterado diversas vezes. Como se torna necessário efectuar mais alterações, o regulamento deve ser revogado e substituído.\n\n(3) A maior parte da produção de forragens no âmbito do regime estabelecido pelo Regulamento (CE) n.º 603/95 depende da utilização de combustíveis fósseis na desidratação e, em alguns Estados-Membros, do recurso à irrigação. Atendendo aos seus efeitos preocupantes para o ambiente, o regime deve ser alterado.\n\n(4) O Regulamento (CE) n.º 1782/2003 do Conselho, de 29 de Setembro de 2003, que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores ([^5^](http://publications.europa.eu/resource/cellar/41bd6d2b-c4c0-453f-b45e-09b7de660ad8.0017.03/DOC_1#E0005)) estabelece regras comuns para regimes de apoio directo.\n\n(5) As duas ajudas estabelecidas pelo Regulamento (CE) n.º 603/95 devem ser convertidas numa ajuda única, aplicável às forragens desidratadas e às forragens secas ao sol.\n\n(6) Como a produção nos países meridionais começa em Abril, a campanha de comercialização das forragens secas a que se concedam ajudas deve decorrer entre 1 de Abril e 31 de Março.\n\n(7) Para garantir a neutralidade orçamental em relação às forragens secas, deve existir um limite máximo para o volume da produção comunitária. Para o efeito, deve ser estabelecida uma quantidade máxima garantida que abranja as forragens desidratadas e as forragens secas ao sol.\n\n(8) Essa quantidade deve ser repartida pelos Estados-Membros com base nas quantidades históricas reconhecidas para efeitos do Regulamento (CE) n.º 603/95.\n\n(9) Para garantir o respeito da quantidade máxima garantida e desencorajar excessos de produção na Comunidade, a ajuda deve ser reduzida se aquela quantidade for excedida. Essa redução deve ser aplicada em cada Estado-Membro que exceda a sua quantidade nacional garantida e ser proporcional ao excesso aí verificado.\n\n(10) O montante final da ajuda não pode ser pago enquanto não se souber se a quantidade máxima garantida foi excedida. Deve, portanto, ser pago um adiantamento da ajuda quando a forragem seca sair da empresa de transformação.\n\n(11) Devem ser estabelecidos requisitos de qualidade mínimos para o direito à ajuda.\n\n(12) Para favorecer o abastecimento regular de forragens frescas às empresas de transformação, o direito à ajuda deve, em certos casos, depender de um contrato entre os produtores e as empresas de transformação.\n\n(13) Para que a cadeia de produção seja mais transparente e para facilitar as verificações essenciais, alguns elementos contratuais devem ser obrigatórios.\n\n(14) Para receberem a ajuda, as empresas de transformação devem, então, estar obrigadas a manter uma contabilidade das existências que forneça as informações necessárias à verificação do direito à ajuda e facultar quaisquer documentos comprovativos necessários.\n\n(15) Se não existir um contrato entre os produtores e as empresas de transformação, estas deverão fornecer outras informações que permitam verificar o direito à ajuda.\n\n(16) No caso de contratos de empreitada para a transformação de forragens entregues pelo produtor, é necessário garantir que a ajuda seja repercutida neste último.\n\n(17) O correcto funcionamento do mercado único das forragens secas ficaria comprometido pela concessão de ajudas nacionais. As disposições do Tratado que regulam os auxílios estatais devem, portanto, aplicar-se aos produtos abrangidos por esta organização comum de mercado.\n\n(18) Num intuito de simplificação, o comité que assistirá a Comissão deverá ser o Comité de Gestão dos Cereais.\n\n(19) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/41bd6d2b-c4c0-453f-b45e-09b7de660ad8.0017.03/DOC_1#E0006)).\n\n(20) O mercado interno e os direitos aduaneiros podem, em circunstâncias excepcionais, revelar-se inadequados. Para que, nesses casos, o mercado comunitário não fique sem defesa contra as perturbações que possam advir, a Comunidade deve poder tomar rapidamente todas as medidas necessárias. Essas medidas devem ser conformes com as obrigações internacionais da Comunidade.\n\n(21) A fim de ter em conta a eventual evolução da produção de forragens secas, a Comissão, com base numa avaliação da organização comum de mercado das forragens secas, deverá apresentar ao Conselho, até 30 de Setembro de 2008, um relatório sobre o sector, que aborde em especial o desenvolvimento das áreas de leguminosas e de outras forragens verdes, a produção de forragens secas e as economias de combustíveis fósseis obtidas. O relatório será se necessário, acompanhado de propostas adequadas.\n\n(22) As despesas em que incorrerem os Estados-Membros em resultado das obrigações decorrentes da aplicação do presente regulamento serão financiadas pela Comunidade nos termos do Regulamento (CE) n.º 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum ([^7^](http://publications.europa.eu/resource/cellar/41bd6d2b-c4c0-453f-b45e-09b7de660ad8.0017.03/DOC_1#E0007)).\n\n(23) Devido à aplicação do regime de pagamento único a partir de 1 de Janeiro de 2005, este regime será aplicado a partir de 1 de Abril de 2005,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "95110ef01b194c22": {
+   "fragment_id": "DISPOSIÇÕES INTRODUTÓRIAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES INTRODUTÓRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES INTRODUTÓRIAS"
+  },
+  "1483b5e727f70107": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ instituída uma organização comum de mercado no sector das forragens secas, aplicável aos seguintes produtos:\n\n| Código NC | Designação das mercadorias |  |\n| --- | --- | --- |\n| a) | ex121410 00 | Farinha e *pellets* de luzerna desidratada por secagem artificial ao calor |\n| Farinha e *pellets* de luzerna seca por outros processos e moída |  |  |\n| [**►M2**](http://publications.europa.eu/resource/celex/32006R0456) ex121490 90**◄** | Luzerna, sanfeno, trevo, tremoço, ervilhaca e produtos forrageiros semelhantes, desidratados por secagem artificial ao calor, com excepção do feno e das couves forrageiras, bem como dos produtos que contenham feno |  |\n| Luzerna, sanfeno, trevo, tremoço, ervilhaca, anafa, chícaro comum e serradela, secos por outros processos e moídos |  |  |\n| [▼C1](http://publications.europa.eu/resource/celex/32003R1786R%2801%29) |  |  |\n| b) | ex230990 99 | Concentrados de proteínas obtidos a partir de sumo de luzerna e sumo de erva |\n| Produtos desidratados obtidos exclusivamente a partir de resíduos sólidos e sumos resultantes da preparação dos concentrados acima referidos |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/32003R1786) |  |  |"
+  },
+  "d4a238c68dabda93": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA campanha de comercialização dos produtos enumerados no artigo 1.º tem início em 1 de Abril e termina em 31 de Março do ano seguinte."
+  },
+  "8d45145b73542e29": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente regulamento é aplicável sem prejuízo das medidas previstas no Regulamento (CE) n.º 1782/2003 do Conselho, de 29 de Setembro de 2003."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "9643a23c4dc5f8f6": {
+   "fragment_id": "AJUDA",
+   "type": "divisao",
+   "heading": "AJUDA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AJUDA"
+  },
+  "de4fb3f65765c6fb": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. É concedida ajuda aos produtos enumerados no artigo 1.º\n\n2. Sem prejuízo do artigo 6.º, a ajuda é fixada em 33 EUR/tonelada."
+  },
+  "77dcf82440f996bf": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. É estabelecida uma quantidade máxima garantida (QMG), por campanha de comercialização, de [**►M2**](http://publications.europa.eu/resource/celex/32006R0456) 4 960 723 toneladas**◄** de forragens desidratadas e/ou secas ao Sol, à qual pode ser concedida a ajuda prevista no n.º 2 do artigo 4.º\n\n2. A quantidade máxima garantida referida no n.º 1 é dividida entre os Estados-Membros do seguinte modo:\n\nUnião Económica Belgo-Luxemburguesa (UEBL) 8 000\n\nRepública Checa 27 942\n\nDinamarca 334 000\n\nAlemanha 421 000\n\nGrécia 37 500\n\nEspanha 1 325 000\n\nFrança 1 605 000\n\nIrlanda 5 000\n\nItália 685 000\n\nLituânia 650\n\nHungria 49 593\n\nPaíses Baixos 285 000\n\nÁustria 4 400\n\nPolónia 13 538\n\nPortugal 30 000\n\nEslováquia 13 100\n\nFinlândia 3 000\n\nSuécia 11 000\n\nReino Unido 102 000"
+  },
+  "9aef0db118fa5fcc": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSe, numa campanha de comercialização, a quantidade de forragens secas para a qual for solicitada a ajuda prevista no n.º 2 do artigo 4.º exceder a quantidade máxima garantida estabelecida no n.º 1 do artigo 5.º, a ajuda a pagar nessa campanha será reduzida, em cada Estado-Membro em que a produção exceder a quantidade nacional garantida, numa percentagem proporcional a esse excesso.\n\nA redução será estabelecida nos termos do n.º 2 do artigo 18.º, de modo a garantir que a despesa orçamental em euros não exceda a que seria suportada se a quantidade máxima garantida não tivesse sido excedida."
+  },
+  "06d8f5b014a914bc": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. As empresas de transformação que solicitarem uma ajuda ao abrigo do presente regulamento terão direito a um adiantamento de 19,80 EUR/tonelada ou de 26,40 EUR/tonelada, se tiverem prestado uma caução de 6,60 EUR/tonelada.\n\nOs Estados-Membros devem efectuar os controlos necessários para verificar o direito à ajuda. Uma vez estabelecido este último, proceder-se-á ao pagamento do adiantamento.\n\nContudo, o adiantamento pode ser pago antes de o direito ser estabelecido, desde que a empresa de transformação preste uma caução equivalente ao montante do adiantamento, acrescido de 10 %. Essa caução também serve para efeitos do primeiro parágrafo. A caução será reduzida até ao montante previsto no primeiro parágrafo logo que o direito à ajuda tiver sido estabelecido e será totalmente liberada no pagamento do saldo da ajuda.\n\n2. O adiantamento só pode ser pago depois de a forragem seca sair da empresa de transformação.\n\n3. Se tiver sido pago um adiantamento, será pago o saldo correspondente à diferença entre o montante do adiantamento e o montante total da ajuda devida à empresa de transformação, sob reserva da aplicação do artigo 6.º\n\n4. Se o adiantamento exceder o total a que a empresa de transformação tiver direito por força do artigo 6.º, esta reembolsará a autoridade competente do Estado-Membro, a seu pedido, do montante que tiver recebido em excesso."
+  },
+  "0dcd040e801f2adc": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAnualmente e, o mais tardar, até 31 de Maio, os Estados-Membros devem notificar a Comissão das quantidades de forragens secas elegíveis para a ajuda prevista no n.º 2 do artigo 4.º na campanha de comercialização anterior."
+  },
+  "0a74a15c8ea72624": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA ajuda prevista no n.º 2 do artigo 4.º deve ser paga, a pedido do interessado, em relação às forragens secas saídas da empresa de transformação que preencham os seguintes requisitos:\n\na) Possuírem um teor máximo de humidade compreendido entre 11 % e 14 %, variável em função da apresentação do produto;\n\nb) Possuírem um teor mínimo de proteínas brutas totais, expresso em relação à matéria seca, não inferior a:\n\ni) 15 %, no caso dos produtos referidos na alínea a) e no segundo travessão da alínea b) do artigo 1.º,\n\nii) 45 %, no caso dos produtos referidos no primeiro travessão da alínea b) do artigo 1.º;\n\nc) Possuírem uma qualidade sã, íntegra e comercializável.\n\nPodem ser estabelecidos requisitos suplementares, nomeadamente em relação ao teor de caroteno e de fibras, nos termos do n.º 2 do artigo 18.º"
+  },
+  "8bf2d149bfb91a34": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA ajuda prevista no n.º 2 do artigo 4.º só pode ser concedida às empresas de transformação dos produtos enumerados no artigo 1.º que satisfaçam as seguintes condições:\n\na) Manterem uma contabilidade das existências que inclua, pelo menos, as seguintes informações:\n\ni) as quantidades de forragens frescas e, se for caso disso, de forragens secas ao sol, transformadas; todavia, se a situação especial da empresa o exigir, as quantidades podem ser estimadas com base nas superfícies semeadas,\n\nii) as quantidades de forragens secas produzidas e as quantidades (e qualidade) saídas da empresa de transformação;\n\nb) Fornecerem quaisquer outros documentos comprovativos necessários à verificação do direito à ajuda;\n\nc) Corresponderem, pelo menos, a uma das seguintes categorias:\n\ni) empresas de transformação que tenham celebrado contratos com produtores de forragens para secar,\n\nii) empresas que tenham transformado a sua própria produção ou, no caso de agrupamentos, a produção dos seus membros,\n\niii) empresas que tenham sido abastecidas por pessoas singulares ou colectivas que ofereçam determinadas garantias a definir e que tenham celebrado contratos com produtores de forragens para secar; essas pessoas devem ser compradores aprovados, nos termos definidos, de acordo com o n.º 2 do artigo 18.º, pela autoridade competente do Estado-Membro onde forem colhidas as forragens."
+  },
+  "7fa47a6464a68e2d": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Dos contratos a que se refere a alínea c) do artigo 10.º devem constar, não só o preço a pagar ao produtor das forragens frescas e, se for caso disso, secas ao Sol, mas também, pelo menos:\n\na) A superfície cuja colheita se destine a ser entregue à empresa de transformação;\n\nb) As condições de entrega e de pagamento.\n\n2. Se o contrato referido na subalínea i) da alínea c) do artigo 10.º for um contrato de empreitada para a transformação de forragens entregues por um produtor, terá de especificar, pelo menos, a superfície cuja colheita se destine a ser entregue e incluir uma cláusula que preveja a obrigação de a empresa de transformação pagar ao produtor a ajuda prevista no artigo 4.º, recebida pela quantidade transformada ao abrigo do contrato."
+  },
+  "f622a9f439d1d0e0": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Os Estados-Membros devem criar sistemas de inspecção que permitam verificar se cada empresa de transformação observou:\n\na) As condições estabelecidas nos artigos 1.º a 12.º;\n\nb) A correspondência entre as quantidades abrangidas pelos pedidos de ajuda e as quantidades de forragens secas que satisfaçam as normas mínimas de qualidade saídas da empresa de transformação.\n\n2. As forragens secas devem ser pesadas e devem ser colhidas amostras delas no momento da saída da empresa de transformação.\n\n3. Os Estados-Membros devem notificar previamente a Comissão das disposições que tencionem adoptar em aplicação do n.º 1."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "f5d98f8f882aae17": {
+   "fragment_id": "REGIME COMERCIAL COM PAÍSES TERCEIROS",
+   "type": "divisao",
+   "heading": "REGIME COMERCIAL COM PAÍSES TERCEIROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGIME COMERCIAL COM PAÍSES TERCEIROS"
+  },
+  "75747d8f8d05e68d": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nSalvo disposição em contrário do presente regulamento, as taxas dos direitos da Pauta Aduaneira Comum são aplicáveis aos produtos enumerados no artigo 1.º"
+  },
+  "1dd6d71546eba96f": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. As regras gerais de interpretação da nomenclatura combinada e as regras especiais para a sua aplicação são aplicáveis à classificação pautal dos produtos enumerados no artigo 1.º A nomenclatura pautal resultante da aplicação do presente regulamento deve ser integrada na Pauta Aduaneira Comum.\n\n2. Salvo disposição em contrário do presente regulamento ou adoptada nos seus próprios termos, é proibido, no comércio com países terceiros:\n\na) A cobrança de qualquer encargo de efeito equivalente a um direito aduaneiro;\n\nb) A aplicação de qualquer restrição quantitativa ou medida de efeito equivalente."
+  },
+  "24e6b88cb27bc3c7": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Se, em consequência das importações ou exportações, o mercado comunitário de um ou mais dos produtos enumerados no artigo 1.º sofrer ou correr o risco de sofrer perturbações graves que possam comprometer o cumprimento dos objectivos do artigo 33.º do Tratado, podem ser aplicadas medidas adequadas ao comércio com países não membros da OMC, até que desapareça essa perturbação ou ameaça de perturbação.\n\n2. Se se verificar a situação referida no n.º 1, a Comissão, a pedido de um Estado-Membro ou por sua própria iniciativa, deve decidir das medidas necessárias, que serão comunicadas aos Estados-Membros e imediatamente aplicáveis. Se a Comissão receber um pedido de um Estado-Membro, tomará uma decisão nos três dias úteis seguintes ao da recepção do pedido.\n\n3. Qualquer Estado-Membro pode submeter uma medida decidida pela Comissão à apreciação do Conselho nos três dias úteis seguintes ao da sua notificação. O Conselho reunir-se-á sem demora e pode, deliberando por maioria qualificada, alterar ou anular a medida em causa no prazo de um mês a contar da data em que esta tiver sido submetida à sua apreciação.\n\n4. As disposições adoptadas ao abrigo do presente artigo serão aplicadas no respeito das obrigações decorrentes dos acordos celebrados nos termos do n.º 2 do artigo 300.º do Tratado."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "e6bb0e2e6e765615": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nSalvo disposição em contrário do presente regulamento, os artigos 87.º, 88.º e 89.º do Tratado são aplicáveis à produção e ao comércio dos produtos enumerados no artigo 1.º do presente regulamento."
+  },
+  "4a7dbf77a9f8ee49": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. A Comissão é assistida pelo Comité de Gestão dos Cereais, criado pelo artigo 25.º do Regulamento (CE) n.º 1784/2003 do Conselho, de 29 de Setembro de 2003, que estabelece a organização comum de mercado no sector dos cereais ([^8^](http://publications.europa.eu/resource/cellar/41bd6d2b-c4c0-453f-b45e-09b7de660ad8.0017.03/DOC_1#E0008)), a seguir designado «Comité».\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "c3db7506f547eeb2": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nAs regras de execução do presente regulamento são adoptadas nos termos do n.º 2 do artigo 18.º, nomeadamente as que se refiram:\n\na) À concessão da ajuda prevista no artigo 4.º e ao adiantamento previsto no artigo 7.º;\n\nb) À verificação e ao estabelecimento do direito à ajuda, incluindo quaisquer controlos necessários, que podem recorrer a determinados elementos do sistema integrado;\n\nc) À liberação das cauções referidas no n.º 1 do artigo 7.º;\n\nd) Aos critérios de determinação das normas de qualidade referidas no artigo 9.º;\n\ne) Às condições a preencher pelas empresas referidas na subalínea ii) da alínea c), do artigo 10.º e no artigo 11.º;\n\nf) À medida de controlo a pôr em prática em aplicação do n.º 2 do artigo 13.º;\n\ng) Aos critérios a satisfazer na celebração dos contratos referidos no artigo 10.º e as informações a incluir nos mesmos, além dos critérios previstos no artigo 12.º;\n\nh) À aplicação da quantidade máxima garantida referida no n.º 1 do artigo 5.º"
+  },
+  "c1b99cb316b34ed2": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nPodem ser adoptadas medidas transitórias nos termos do n.º 2 do artigo 18.º"
+  },
+  "5049baf93d2501ec": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nO Regulamento (CE) n.º 1258/1999 e as disposições aprovadas em sua execução são aplicáveis às despesas em que incorrerem os Estados-Membros no cumprimento das obrigações decorrentes do presente regulamento."
+  },
+  "3afbfb7b387225a7": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nÉ revogado o Regulamento (CE) n.º 603/95.\n\nAs referências ao regulamento revogado entendem-se como sendo feitas ao presente regulamento e são interpretadas de acordo com quadro de correspondência anexo."
+  },
+  "83778a01a548c139": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nO presente regulamento entra em vigor sete dias após o da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 1 de Abril de 2005.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "2329fa5744b11fb8": {
+   "fragment_id": "QUADRO DE CORRESPONDÊNCIA",
+   "type": "divisao",
+   "heading": "QUADRO DE CORRESPONDÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### QUADRO DE CORRESPONDÊNCIA\n\nRegulamento (CE) n.º 603/95 Presente regulamento\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º Artigo 2.º\n\n— Artigo 3.º\n\nArtigo 3.º Artigo 4.º\n\nArtigo 4.º Artigo 5.º\n\nArtigo 5.º Artigo 6.º\n\nArtigo 6.º Artigo 7.º\n\nArtigo 7.º Artigo 8.º\n\nArtigo 8.º Artigo 9.º\n\nArtigo 9.º Artigo 10.º\n\nArtigo 10.º Artigo 11.º\n\nArtigo 11.º Artigo 12.º\n\nArtigo 12.º Artigo 13.º\n\nArtigo 13.º Artigo 14.º\n\nArtigo 14.º Artigo 15.º\n\nArtigo 15.º Artigo 16.º\n\nArtigo 16.º Artigo 17.º\n\nN.^os^ 1 a 4 do artigo 17.º Artigo 18.º\n\nN.º 5 do artigo 17.º Artigo 19.º\n\nAlínea a) do artigo 18.º Artigo 20.º\n\nAlínea b) do artigo 18.º Artigo 21.º\n\nArtigo 19.º Artigo 22.º\n\nArtigo 20.º Artigo 24.º\n\nArtigo 21.º Artigo 25.º\n\n---"
+  },
+  "492496427adc82da": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/41bd6d2b-c4c0-453f-b45e-09b7de660ad8.0017.03/DOC_1#src.E0001)) Parecer emitido em 5 de Junho de 2003 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/41bd6d2b-c4c0-453f-b45e-09b7de660ad8.0017.03/DOC_1#src.E0002)) JO C 208 de 3.9.2003, p. 41.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/41bd6d2b-c4c0-453f-b45e-09b7de660ad8.0017.03/DOC_1#src.E0003)) Parecer emitido em 2 de Julho de 2003 (ainda não publicado no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/41bd6d2b-c4c0-453f-b45e-09b7de660ad8.0017.03/DOC_1#src.E0004)) JO L 63 de 21.3.1995, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 806/2003 (JO L 122 de 16.5.2003, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/41bd6d2b-c4c0-453f-b45e-09b7de660ad8.0017.03/DOC_1#src.E0005)) Ver página 1 do presente Jornal Oficial.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/41bd6d2b-c4c0-453f-b45e-09b7de660ad8.0017.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23 (rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/41bd6d2b-c4c0-453f-b45e-09b7de660ad8.0017.03/DOC_1#src.E0007)) JO L 160 de 26.6.1999, p. 103.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/41bd6d2b-c4c0-453f-b45e-09b7de660ad8.0017.03/DOC_1#src.E0008)) Ver página 78 do presente Jornal Oficial."
+  },
+  "b79e46ea0a67a57f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2003R1786 — PT — 01.04.2008 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32003R1786) [REGULAMENTO (CE) N.º 1786/2003 DO CONSELHO](http://publications.europa.eu/resource/celex/32003R1786) [de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1786) [sobre a organização comum do mercado das forragens secas](http://publications.europa.eu/resource/celex/32003R1786) (JO L 270, 21.10.2003, p.114)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1234/2007 Do Conselho de 22 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1234) — L 299 — 1 — 16.11.2007"
+  }
+ }
+}

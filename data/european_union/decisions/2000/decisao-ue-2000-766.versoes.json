@@ -1,0 +1,99 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000D0766:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000D0766-20030901",
+ "dre_path": null,
+ "source_lastmod": "2003-09-01",
+ "versions": [
+  {
+   "date": "2000-12-07",
+   "future": false,
+   "celex": "32000D0766",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2aec77201a58fb26",
+    "9baf45a78546be59",
+    "f4b1bc7991fb407e",
+    "d41933fd306de9d1",
+    "cb0723d93aed00e9",
+    "02bbac535f060a08"
+   ]
+  },
+  {
+   "date": "2003-09-01",
+   "future": false,
+   "celex": "02000D0766-20030901",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º"
+   ],
+   "fragments": [
+    "674f3dc9ad64ae51"
+   ]
+  }
+ ],
+ "fragments": {
+  "2aec77201a58fb26": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**2000/766/CE: Decisão do Conselho, de 4 de Dezembro de 2000, relativa a determinadas medidas de protecção relativas às encefalopatias espongiformes transmissíveis e à utilização de proteínas animais na alimentação animal** *Jornal Oficial nº L 306 de 07/12/2000 p. 0032 - 0033*\n\nDecisão do Conselho\n\nde 4 de Dezembro de 2000\n\nrelativa a determinadas medidas de protecção relativas às encefalopatias espongiformes transmissíveis e à utilização de proteínas animais na alimentação animal\n\n(2000/766/CE)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 90/425/CEE do Conselho, de 26 de Junho de 1990, relativa aos controlos veterinários e zootécnicos aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno(1), e, nomeadamente o n.o 4 do seu artigo 10.o,\n\nTendo em conta a Directiva 97/78/CE do Conselho, de 18 de Dezembro de 1997, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade(2), e, nomeadamente o seu artigo 22.o,\n\nTendo em conta a proposta da Comissão\n\nConsiderando o seguinte:\n\n(1) As normas comunitárias para o controlo de determinadas proteínas animais transformadas para a alimentação de ruminantes entraram em vigor em Julho de 1994.\n\n(2) Em determinados Estados-Membros registaram-se casos de encefalopatia espongiforme bovina (BSE) em animais nascidos em 1995 e nos anos seguintes.\n\n(3) Baseando-se em pareceres científicos, a Comissão aprovou uma série de medidas relativas à alimentação animal, incluindo normas elevadas, consideradas como as mais eficazes para inactivar os agentes do tremor epizoótico e da BSE, na produção de proteínas animais de mamíferos transformadas, a exclusão das matérias de risco especificadas da cadeia alimentar animal e medidas activas de vigilância para evitar que os casos de encefalopatia espongiforme bovina BSE entrem na cadeia alimentar animal. O Comité Científico Director adoptou um parecer em 27 e 28 de Novembro de 2000. Recomendou que, quando não se puder excluir o risco de contaminação cruzada da alimentação destinada aos bovinos com os alimentos destinados aos outros animais que contêm proteínas animais possivelmente contaminadas com o agente da BSE, se deveria considerar a possibilidade de uma proibição temporária das proteínas animais na alimentação animal.\n\n(4) Alguns Estados-Membros comunicaram deficiências na aplicação da legislação comunitária relativa à alimentação animal e, por conseguinte, aprovaram medidas de protecção.\n\n(5) As inspecções da Comunidade identificaram falhas sistemáticas na aplicação das normas comunitárias em vários Estados-Membros.\n\n(6) Nesta perspectiva, é adequado, como medida de precaução, proibir temporariamente a utilização de proteínas animais na alimentação animal, na pendência de uma reavaliação total da aplicação da legislação comunitária nos Estados-Membros. Uma vez que esta proibição poderia ter implicações ambientais caso não fosse adequadamente controlada, é necessário garantir que os resíduos animais são recolhidos, transportados, transformados, armazenados e eliminados de forma segura.\n\n(7) Em 1 de Janeiro de 2001 começará um programa comunitário de análises em grande escala. Este programa fornecerá dados concretos acerca da prevalência da BSE nos Estados-Membros. Estes dados fornecerão informações factuais sobre a eficácia da legislação comunitária anterior sobre alimentação animal e identificará os Estados-Membros em que continua a ser possível a propagação da BSE através das proteínas animais transformadas. Esta informação deverá ser utilizada na revisão da medida estabelecida pela presente decisão.\n\n(8) O Comité Veterinário Permanente não deu parecer favorável,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "9baf45a78546be59": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos da presente decisão, entende-se por \"proteínas animais transformadas\" a farinha de carne e ossos, a farinha de carne, a farinha de ossos, a farinha de sangue, o plasma seco e outros produtos do sangue, as proteínas hidrolisadas, a farinha de cascos, a farinha de chifres, os subprodutos do matadouro de aves, a farinha de penas, os torresmos secos, a farinha de peixe, o fosfato dicálcico, a gelatina e quaisquer outros produtos semelhantes, incluindo misturas, os alimentos para animais, os aditivos destinados à alimentação animal e as pré-misturas para alimentos para animais contendo estes produtos."
+  },
+  "f4b1bc7991fb407e": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros proíbem a alimentação com proteínas animais transformadas de animais de criação mantidos, engordados ou criados para a produção de alimentos.\n\n2. A proibição referida no n.o 1 não se aplica à utilização de:\n\n- farinha de peixe na alimentação de animais que não sejam ruminantes, de acordo com medidas de controlo a fixar nos termos do artigo 17.o da Directiva 89/662/CEE do Conselho, de 11 de Dezembro de 1989, relativa aos controlos médicos aplicáveis ao comércio intracomunitário, na perspectiva da realização do mercado interno(3),\n\n- gelatina de animais não ruminantes para invólucros de aditivos na acepção da Directiva 70/524/CEE do Conselho, de 23 de Novembro de 1970, relativa aos aditivos na alimentação para animais(4),\n\n- fosfato dicálcico e proteínas hidrolisadas obtidos em condições a fixar nos termos do artigo 17.o da Directiva 89/662/CEE,\n\n- de leite ou produtos lácteos na alimentação de animais de criação, mantidos, engordados ou criados para a produção de alimentos."
+  },
+  "d41933fd306de9d1": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Com excepção das derrogações fixadas no n.o 2 do artigo 2.o, os Estados-Membros:\n\na) Proíbem a colocação no mercado, as trocas comerciais, a importação de países terceiros e a exportação para esses países de proteínas animais transformadas destinadas à alimentação de animais de criação mantidos, engordados ou criados para a produção de alimentos;\n\nb) Garantem que todas as proteínas animais transformadas destinadas à alimentação de animais de criação mantidos, engordados ou criados para a produção de alimentos são retiradas do mercado, dos canais de distribuição e do armazenamento nas explorações agrícolas.\n\n2. Os Estados-Membros garantem que os resíduos animais, tal como definidos na Directiva 90/667/CEE(5), são recolhidos, transportados, transformados, armazenados ou eliminados em conformidade com o disposto nessa directiva, na Decisão 97/735/CE da Comissão(6) e na Decisão 1999/534/CE do Conselho(7)."
+  },
+  "cb0723d93aed00e9": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente decisão entra em vigor em 1 de Janeiro de 2001.\n\nA presente decisão é aplicável até 30 de Junho de 2001.\n\nAntes de 30 de Junho de 2001, a presente decisão pode ser adaptada pela Comissão à situação de cada Estado-Membro à luz dos resultados das inspecções da Comissão e da incidência da BSE, com base nos resultados da monitorização da BSE, com especial referência às análises dos bovinos com mais de 30 meses de idade, tal como estabelecido na Decisão 2000/764/CE da Comissão(8)."
+  },
+  "02bbac535f060a08": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 4 de Dezembro de 2000.\n\nPelo Conselho\n\nO Presidente\n\nJ. Glavany\n\n(1) JO L 224 de 18.8.1990, p. 29. Directiva com a última redacção que lhe foi dada pela Directiva 92/118/CEE (JO L 62 de 15.3.1993, p. 49).\n\n(2) JO L 24 de 30.1.1998, p. 9.\n\n(3) JO L 395 de 30.12.1989, p. 13. Directiva com a última redacção que lhe foi dada pela Directiva 92/118/CEE (JO L 62 de 15.3.1993, p. 4).\n\n(4) JO L 270 de 14.12.1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 1999/70/CE (JO L 80 de 25.3.1999, p. 20).\n\n(5) Directiva 90/667/CEE do Conselho, de 27 de Novembro de 1990, que estabelece as normas sanitárias para a eliminação e a transformação de resíduos animais, para a sua colocação no mercado e para a prevenção da presença de agentes patogénicos nos alimentos para animais de origem animal ou à base de peixe e que altera a Directiva 90/425/CEE (JO L 363 de 27.12.1990, p. 51). Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n(6) Decisão 97/735/CE da Comissão, de 21 de Outubro de 1997, relativa a determinadas medidas de protecção respeitantes ao comércio de certos tipos de resíduos de mamíferos (JO L 294 de 28.10.1997, p. 7). Decisão com a redacção que lhe foi dada pela Decisão 1999/534/CE do Conselho.\n\n(7) Decisão 1999/534/CE do Conselho, de 19 de Julho de 1999, relativa a medidas de protecção aplicáveis ao tratamento de determinados resíduos animais no que respeita às encefalopatias espongiformes transmissíveis e que altera a Decisão 97/735/CE da Comissão (JO L 204 de 4.8.1999, p. 37).\n\n(8) JO L 305 de 6.12.2000, p. 35."
+  },
+  "674f3dc9ad64ae51": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2000D0766 — PT — 01.09.2003 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32000D0766) [DECISÃO DO CONSELHO](http://publications.europa.eu/resource/celex/32000D0766) [de 4 de Dezembro de 2000](http://publications.europa.eu/resource/celex/32000D0766) [relativa a determinadas medidas de protecção relativas às encefalopatias espongiformes transmissíveis e à utilização de proteínas animais na alimentação animal](http://publications.europa.eu/resource/celex/32000D0766) [(2000/766/CE)](http://publications.europa.eu/resource/celex/32000D0766) (JO L 306, 7.12.2000, p.32)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1234/2003 da Comissão de 10 de Julho de 2003](http://publications.europa.eu/resource/celex/32003R1234) — L 173 — 6 — 11.7.2003"
+  }
+ }
+}

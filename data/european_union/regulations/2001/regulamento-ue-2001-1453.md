@@ -35,6 +35,104 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-02-15'
+version_history:
+  file: regulamento-ue-2001-1453.versoes.json
+  count: 3
+  source_lastmod: '2006-02-15'
+  versions:
+  - date: '2001-07-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-01'
+    amending: eu:celex:32003R1782:por
+    amending_title: REGULAMENTO (CE) N. o 1782/2003 DO CONSELHO de 29 de Setembro de 2003; REGULAMENTO (CE) N. o 55/2004 DO
+      CONSELHO de 17 de Dezembro de 2003; REGULAMENTO (CE) N. o 1690/2004 DO CONSELHO de 24 de Setembro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 18.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 29.º
+    - Altera Artigo 32.º
+    - Altera Artigo 35.º
+    - Altera Artigo 37.º
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+    - Adita TÍTULO I
+    - Adita Regime específico de abastecimento
+    - Adita TÍTULO II
+    - Adita MEDIDAS A FAVOR DAS PRODUÇÕES LOCAIS
+    - Adita CAPÍTULO I
+    - Adita MEDIDAS COMUNS ÀS DUAS REGIÕES
+    - Adita SECÇÃO 1
+    - Adita Pecuária
+    - Adita SECÇÃO 2
+    - Adita Frutas, produtos hortícolas, plantas e flores
+    - Adita SECÇÃO 3
+    - Adita Vinho
+    - Adita SECÇÃO 4
+    - Adita Símbolo gráfico
+    - Adita CAPÍTULO II
+    - Adita MEDIDAS A FAVOR DAS PRODUÇÕES DA MADEIRA
+    - Adita Pecuária e produtos lácteos
+    - Adita Batata
+    - Adita Cana-Açúcar-Rum
+    - Adita SECÇÃO 5
+    - Adita Vime
+    - Adita CAPÍTULO III
+    - Adita MEDIDAS A FAVOR DAS PRODUÇÕES DOS AÇORES
+    - Adita Ananás
+  - date: '2006-02-15'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime TÍTULO I
+    - Suprime Regime específico de abastecimento
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime TÍTULO II
+    - Suprime MEDIDAS A FAVOR DAS PRODUÇÕES LOCAIS
+    - Suprime CAPÍTULO I
+    - Suprime MEDIDAS COMUNS ÀS DUAS REGIÕES
+    - Suprime SECÇÃO 1
+    - Suprime Pecuária
+    - Suprime Artigo 4.º
+    - Suprime SECÇÃO 2
+    - Suprime Frutas, produtos hortícolas, plantas e flores
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime SECÇÃO 3
+    - Suprime Vinho
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime SECÇÃO 4
+    - Suprime Símbolo gráfico
+    - Suprime Artigo 11.º
+    - Suprime CAPÍTULO II
+    - Suprime MEDIDAS A FAVOR DAS PRODUÇÕES DA MADEIRA
+    - Suprime Pecuária e produtos lácteos
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Batata
+    - Suprime Artigo 16.º
+    - Suprime Cana-Açúcar-Rum
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
 identifiers:
   celex: 32001R1453
   eli: http://data.europa.eu/eli/reg/2001/1453/oj
@@ -49,7 +147,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ba74c467-3a87-44ab-bb87-19465d6028f4.0010
   content_url: http://publications.europa.eu/resource/cellar/460be32e-e11f-4a59-9fa3-1eaf353a3b0d.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R1453-20060215
-  retrieved_at: '2026-10-22T02:37:58Z'
+  retrieved_at: '2026-10-22T14:50:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T21:42:43.312+01:00'
 integrity:
@@ -58,9 +156,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:58Z'
-  notes: Texto consolidado 02001R1453-20060215.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:53Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2001-1453.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -260,16 +358,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:58Z'
+  checked_at: '2026-10-22T14:50:53Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02001R1453-20030401: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

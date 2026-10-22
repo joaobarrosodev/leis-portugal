@@ -36,6 +36,78 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-01-01'
+version_history:
+  file: regulamento-ue-1992-2137.versoes.json
+  count: 3
+  source_lastmod: '2009-01-01'
+  versions:
+  - date: '1992-07-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:31994R1278:por
+    amending_title: Regulamento (CE) n o 1278/94 do Conselho de 30 de Maio de 1994; Regulamento (CE) n o 2536/97 do Conselho
+      de 16 de Dezembro de 1997; REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006; Acto relativo às condições
+      de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República
+      da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da
+      República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1º
+    - Adita Artigo 2º
+    - Adita Artigo 3º
+    - Adita Artigo 4º
+    - Adita Artigo 5º
+    - Adita Artigo 6º
+    - Adita Artigo 7º
+    - Adita Artigo 9º
+    - Adita Artigo 10º
+    - Adita ANEXO I
+    - Adita CONFORMAÇÃO
+    - Adita Desenvolvimento dos perfis da carcaça, nomeadamente das suas partes essenciais (coxa, dorso, espádua)
+    - Adita ANEXO II
+    - Adita CAMADA DE GORDURA
+    - Adita Quantidade de tecido adiposo no exterior da carcaça e no interior da cavidade torácica
+    - Adita ANEXO III
+    - Adita Grelha de classificação de carcaças prevista no nº 2, terceiro parágrafo, do artigo 3º
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime ANEXO I — CONFORMAÇÃO
+    - Suprime ANEXO II — CAMADA DE GORDURA
+    - Suprime ANEXO III — Grelha de classificação de carcaças prevista no no 2, terceiro parágrafo, do artigo 3o
+  - date: '2009-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime ANEXO I
+    - Suprime CONFORMAÇÃO
+    - Suprime Desenvolvimento dos perfis da carcaça, nomeadamente das suas partes essenciais (coxa, dorso, espádua)
+    - Suprime ANEXO II
+    - Suprime CAMADA DE GORDURA
+    - Suprime Quantidade de tecido adiposo no exterior da carcaça e no interior da cavidade torácica
+    - Suprime ANEXO III
+    - Suprime Grelha de classificação de carcaças prevista no nº 2, terceiro parágrafo, do artigo 3º
+    - Suprime Notas
 identifiers:
   celex: 31992R2137
   eli: http://data.europa.eu/eli/reg/1992/2137/oj
@@ -50,7 +122,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3607e90c-85d9-459c-bb48-f1a7a9f6bada.0011
   content_url: http://publications.europa.eu/resource/cellar/51d94ceb-313c-43e8-84e2-f894410646ed.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R2137-20090101
-  retrieved_at: '2026-10-22T03:06:54Z'
+  retrieved_at: '2026-10-22T14:41:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T17:22:26.802+01:00'
 integrity:
@@ -59,9 +131,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:06:54Z'
-  notes: Texto consolidado 01992R2137-20090101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:34Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1992-2137.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -122,16 +194,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:06:54Z'
+  checked_at: '2026-10-22T14:41:34Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01992R2137-19971225: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R2137-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

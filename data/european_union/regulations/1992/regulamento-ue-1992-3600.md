@@ -35,6 +35,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-05-10'
+version_history:
+  file: regulamento-ue-1992-3600.versoes.json
+  count: 2
+  source_lastmod: '2008-05-10'
+  versions:
+  - date: '1992-12-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-05-10'
+    amending: eu:celex:31995R0491:por
+    amending_title: REGULAMENTO (CE) N. o 491/95 DA COMISSÃO de 3 de Março de 1995; REGULAMENTO (CE) N. o 1199/97 DA COMISSÃO
+      de 27 de Junho de 1997; REGULAMENTO (CE) N. o 1972/1999 DA COMISSÃO de 15 de Setembro de 1999; REGULAMENTO (CE) N. o
+      2266/2000 DA COMISSÃO de 12 de Outubro de 2000; REGULAMENTO (CE) N. o 416/2008 DA COMISSÃO de 8 de Maio de 2008
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita ANEXO I
+    - Adita LISTA DAS SUBSTÂNCIAS ABRANGIDAS PELA PRIMEIRA FASE DO PROGRAMA DE TRABALHO PREVISTO NO N.º 2, ÚLTIMO PARÁGRAFO,
+      DO ARTIGO 8.º DA DIRECTIVA 91/414/CEE
+    - Adita Designação
+    - Adita ANEXO II
+    - Adita MODELO
+    - Adita Notificação de uma substância activa em conformidade com o n.º 1 do artigo 4.º do Regulamento (CEE) n.º 3600/92
+    - Adita 1. Identificação do notificante
+    - Adita 2. Informações destinadas a facilitar a identificação
+    - Adita 3. Informações referentes às condições de utilização a garantir através da inclusão no anexo I e indicadas pelo
+      requerente
+    - Adita 4. Informações referentes às utilizações autorizadas do conhecimento do notificante
+    - Adita 5. Compromisso de apresentação de processos
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime ANEXO I — LISTA DAS SUBSTÂNCIAS ABRANGIDAS PELA PRIMEIRA FASE DO PROGRAMA DE TRABALHO PREVISTO NO No 2, ÚLTIMO
+      PARÁGRAFO, DO ARTIGO 8o DA DIRECTIVA 91/414/CEE
+    - Suprime ANEXO II — MODELO
 identifiers:
   celex: 31992R3600
   eli: http://data.europa.eu/eli/reg/1992/3600/oj
@@ -49,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b796f011-af53-467a-80bf-d508a421d17a.0011
   content_url: http://publications.europa.eu/resource/cellar/c344a3bd-0905-4b2d-8154-21e24c91766c.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R3600-20080510
-  retrieved_at: '2026-10-22T02:55:47Z'
+  retrieved_at: '2026-10-22T14:41:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:12:10.188+02:00'
 integrity:
@@ -58,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:55:47Z'
-  notes: Texto consolidado 01992R3600-20080510.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:44Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1992-3600.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -119,33 +172,23 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/e3b248ee-4150-4c50-985b-b94bb5b356fb
 article_structure:
   article_count: 10
-  section_count: 11
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 12
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:55:47Z'
-  warnings: []
+  checked_at: '2026-10-22T14:41:44Z'
+  warnings:
+  - '01992R3600-19950311: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R3600-19970630: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R3600-19991001: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R3600-20001101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CEE) nº 3600/92 da Comissão, de 11 de Dezembro de 1992
-
-> 1992R3600 — PT — 10.05.2008 — 005.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/31995R0491) — [REGULAMENTO (CE) N.º 491/95 DA COMISSÃO de 3 de Março de 1995](http://publications.europa.eu/resource/celex/31995R0491) — L 49 — 50 — 4.3.1995
-- [►M2](http://publications.europa.eu/resource/celex/31997R1199) — [REGULAMENTO (CE) N.º 1199/97 DA COMISSÃO de 27 de Junho de 1997](http://publications.europa.eu/resource/celex/31997R1199) — L 170 — 19 — 28.6.1997
-- [►M3](http://publications.europa.eu/resource/celex/31999R1972) — [REGULAMENTO (CE) N.º 1972/1999 DA COMISSÃO de 15 de Setembro de 1999](http://publications.europa.eu/resource/celex/31999R1972) — L 244 — 41 — 16.9.1999
-- [►M4](http://publications.europa.eu/resource/celex/32000R2266) — [REGULAMENTO (CE) N.º 2266/2000 DA COMISSÃO de 12 de Outubro de 2000](http://publications.europa.eu/resource/celex/32000R2266) — L 259 — 27 — 13.10.2000
-- [►M5](http://publications.europa.eu/resource/celex/32008R0416) — [REGULAMENTO (CE) N.º 416/2008 DA COMISSÃO de 8 de Maio de 2008](http://publications.europa.eu/resource/celex/32008R0416) — L 125 — 25 — 9.5.2008
-
-## REGULAMENTO (CEE) N.º 3600/92 DA COMISSÃO
 
 de 11 de Dezembro de 1992
 

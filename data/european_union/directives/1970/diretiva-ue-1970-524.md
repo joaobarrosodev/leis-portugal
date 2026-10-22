@@ -33,6 +33,105 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-09-01'
+version_history:
+  file: diretiva-ue-1970-524.versoes.json
+  count: 3
+  source_lastmod: '2010-09-01'
+  versions:
+  - date: '1970-12-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-03-31'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2o
+    - Adita Artigo 3.º
+    - Adita Artigo 3.oA
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 7.oA
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 9.oA
+    - Adita Artigo 9.oB
+    - Adita Artigo 9.oC
+    - Adita Artigo 9.oD
+    - Adita Artigo 9.oE
+    - Adita Artigo 9.oF
+    - Adita Artigo 9.oG
+    - Adita Artigo 9.oH
+    - Adita Artigo 9.oI
+    - Adita Artigo 9.oJ
+    - Adita Artigo 9.oK
+    - Adita Artigo 9.oL
+    - Adita Artigo 9.oM
+    - Adita Artigo 9.oN
+    - Adita Artigo 9.oO
+    - Adita Artigo 9.oP
+    - Adita Artigo 9.oQ
+    - Adita Artigo 9.oR — As alterações a introduzir nos anexos serão adoptadas nos termos do procedimento previsto no artigo
+      23.o
+    - Adita Artigo 9.oS
+    - Adita Artigo 9.oT
+    - Adita Artigo 10o
+    - Adita Artigo 11o
+    - Adita Artigo 12o
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 16.oA
+  - date: '2010-09-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2o
+    - Suprime Artigo 3.º
+    - Suprime Artigo 3.oA
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 7.oA
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 9.oA
+    - Suprime Artigo 9.oB
+    - Suprime Artigo 9.oC
+    - Suprime Artigo 9.oD
+    - Suprime Artigo 9.oE
+    - Suprime Artigo 9.oF
+    - Suprime Artigo 9.oG
+    - Suprime Artigo 9.oH
+    - Suprime Artigo 9.oI
+    - Suprime Artigo 9.oJ
+    - Suprime Artigo 9.oK
+    - Suprime Artigo 9.oL
+    - Suprime Artigo 9.oM
+    - Suprime Artigo 9.oN
+    - Suprime Artigo 9.oO
+    - Suprime Artigo 9.oP
+    - Suprime Artigo 9.oQ
+    - Suprime Artigo 9.oR — As alterações a introduzir nos anexos serão adoptadas nos termos do procedimento previsto no artigo
+      23.o
+    - Suprime Artigo 9.oS
+    - Suprime Artigo 9.oT
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 16.oA
 identifiers:
   celex: 31970L0524
   eli: http://data.europa.eu/eli/dir/1970/524/oj
@@ -47,7 +146,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/de2f6bfa-e0e7-4383-af1f-3406fa00a4f1.0011
   content_url: http://publications.europa.eu/resource/cellar/aa8861fa-8676-47ed-8b57-d83852128d3b.0009.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01970L0524-20100901
-  retrieved_at: '2026-10-22T02:39:19Z'
+  retrieved_at: '2026-10-22T14:29:46Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-13T18:10:18.391+01:00'
 integrity:
@@ -56,9 +155,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:19Z'
-  notes: Texto consolidado 01970L0524-20100901.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:29:46Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1970-524.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -765,16 +864,22 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:19Z'
+  checked_at: '2026-10-22T14:29:46Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01970L0524-19941208: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0524-19950725: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0524-19960612: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0524-19980112: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0524-19981222: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0524-19990930: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0524-20010901: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01970L0524-20020515: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -38,6 +38,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-03-28'
+version_history:
+  file: diretiva-ue-2001-37.versoes.json
+  count: 2
+  source_lastmod: '2012-03-28'
+  versions:
+  - date: '2009-08-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-03-28'
+    amending: eu:celex:32012L0009:por
+    amending_title: DIRETIVA 2012/9/UE DA COMISSÃO Texto relevante para efeitos do EEE de 7 de março de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Rotulagem
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita [referidas no artigo 5.º, n.º 2, alínea b)]
+    - Suprime (referidas no n.º 2, alínea b), do artigo 5.º)
 identifiers:
   celex: 32001L0037
   eli: http://data.europa.eu/eli/dir/2001/37/oj
@@ -52,7 +71,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/248aee57-abdf-4df2-929e-30c2fa7f22e0.0010
   content_url: http://publications.europa.eu/resource/cellar/1b997387-5326-48a7-ba46-0bcf60448f44.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0037-20120328
-  retrieved_at: '2026-10-22T02:42:28Z'
+  retrieved_at: '2026-10-22T14:50:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T17:39:11.609+01:00'
 integrity:
@@ -61,9 +80,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:28Z'
-  notes: Texto consolidado 02001L0037-20120328.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:06Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2001-37.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -179,30 +198,20 @@ relationships:
   source: null
 article_structure:
   article_count: 17
-  section_count: 5
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 6
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:28Z'
-  warnings: []
+  checked_at: '2026-10-22T14:50:06Z'
+  warnings:
+  - '02001L0037-20010718: versão indisponível (Sem expressão na língua por para CELEX 02001L0037-20010718.)'
   errors: []
 ---
 
 # Directiva 2001/37/CE do Parlamento Europeu e do Conselho, de 5 de Junho de 2001
-
-> 2001L0037 — PT — 28.03.2012 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0596) — [REGULAMENTO (CE) N.º 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0596) — L 188 — 14 — 18.7.2009
-- [►M2](http://publications.europa.eu/resource/celex/32012L0009) — [DIRETIVA 2012/9/UE DA COMISSÃO Texto relevante para efeitos do EEE de 7 de março de 2012](http://publications.europa.eu/resource/celex/32012L0009) — L 69 — 15 — 8.3.2012
-
-## DIRECTIVA 2001/37/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 5 de Junho de 2001
 

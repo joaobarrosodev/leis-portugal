@@ -34,6 +34,23 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '1995-01-01'
+version_history:
+  file: regulamento-ue-1981-348.versoes.json
+  count: 2
+  source_lastmod: '1995-01-01'
+  versions:
+  - date: '1981-02-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2o
+    - Altera Artigo 3o
+    - Altera ANEXO
 identifiers:
   celex: 31981R0348
   eli: http://data.europa.eu/eli/reg/1981/348/oj
@@ -48,7 +65,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/99b5e35a-1a5b-4580-b46b-b6fdb32b85a5.0011
   content_url: http://publications.europa.eu/resource/cellar/ee64b221-43a1-4d19-ab5f-dee44aafb7a6.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01981R0348-19950101
-  retrieved_at: '2026-10-22T03:03:55Z'
+  retrieved_at: '2026-10-22T14:33:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T15:48:48.683+01:00'
 integrity:
@@ -57,9 +74,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:03:55Z'
-  notes: Texto consolidado 01981R0348-19950101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:33:29Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1981-348.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -120,15 +137,14 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:03:55Z'
-  warnings:
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:33:29Z'
+  warnings: []
   errors: []
 ---
 

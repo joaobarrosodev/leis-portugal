@@ -36,6 +36,83 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-01-01'
+version_history:
+  file: diretiva-ue-1992-118.versoes.json
+  count: 3
+  source_lastmod: '2006-01-01'
+  versions:
+  - date: '1993-03-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-04-30'
+    amending: eu:celex:31994D0466:por
+    amending_title: M1; M2; M3; M4; M5; M6; DECISÃO DA COMISSÃO de 21 de Junho de 1996; DIRECTIVA 96/90/CE DO CONSELHO de
+      17 de Dezembro de 1996; DIRECTIVA 97/79/CE DO CONSELHO de 18 de Dezembro de 1997; M10; M11; DIRECTIVA 2002/33/CE DO
+      PARLAMENTO EUROPEU E DO CONSELHO de 21 de Outubro de 2002; M13; M15; REGULAMENTO (CE) N. o 445/2004 DA COMISSÃO de 10
+      de Março de 2004; DIRECTIVA 2004/41/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Abril de 2004; A1; A2
+    changes:
+    - Altera preambulo
+    - Altera CAPÍTULO I
+    - Altera CAPÍTULO II
+    - Altera CAPÍTULO 2
+    - Altera CAPÍTULO 5
+    - Adita Disposições gerais
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Disposições aplicáveis ao comércio
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita CAPÍTULO III
+    - Adita Disposições aplicáveis às importações na Comunidade
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita CAPÍTULO IV
+    - Adita Disposições comuns e finais
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita ANEXO I
+    - Adita CONDIÇÕES ESPECÍFICAS DE POLÍTICA SANITÁRIA
+    - Adita Tripas de animais destinadas ao consumo humano
+    - Adita A. Comércio
+    - Adita B. Importações provenientes de países terceiros
+    - Adita Ossos e produtos à base de osso (com exclusão da farinha de osso), chifres e produtos à base de chifre (com exclusão
+      da farinha de chifre) unhas e cascos e produtos à base de cascos (com exclusão da farinha de casco)[►M12](http://publications.europa.eu/resource/celex/32002L0033)
+      destinados ao consumo humano◄
+    - Adita CAPÍTULO 6
+    - Adita Proteínas animais transformadas[►M12](http://publications.europa.eu/resource/celex/32002L0033) destinadas ao consumo
+      humano◄
+  - date: '2006-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera A. Comércio
+    - Altera Ossos e produtos à base de osso (com exclusão da farinha de osso), chifres e produtos à base de chifre (com exclusão
+      da farinha de chifre) unhas e cascos e produtos à base de cascos (com exclusão da farinha de casco)[►M12](http://publications.europa.eu/resource/celex/32002L0033)
+      destinados ao consumo humano◄
+    - Altera B. Importações
+    - Altera Carnes de coelho e carnes de caça de criação destinadas ao consumo humano
+    - Altera Notas
 identifiers:
   celex: 31992L0118
   eli: http://data.europa.eu/eli/dir/1992/118/oj
@@ -50,7 +127,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b24e7cad-c821-4121-98da-f5d3479aea3d.0011
   content_url: http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0118-20060101
-  retrieved_at: '2026-10-22T02:38:57Z'
+  retrieved_at: '2026-10-22T14:41:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T17:07:56.962+01:00'
 integrity:
@@ -59,9 +136,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:57Z'
-  notes: Texto consolidado 01992L0118-20060101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:27Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1992-118.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -282,54 +359,33 @@ relationships:
   date: '2016-03-31'
 article_structure:
   article_count: 21
-  section_count: 49
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 50
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:57Z'
-  warnings: []
+  checked_at: '2026-10-22T14:41:27Z'
+  warnings:
+  - '01992L0118-19941201: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0118-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0118-19950824: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0118-19960202: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0118-19960701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0118-19970101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0118-19970116: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0118-19980219: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0118-20000601: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0118-20010101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0118-20021119: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0118-20030630: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0118-20031231: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0118-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 92/118/CEE do Conselho, de 17 de Dezembro de 1992
-
-> 1992L0118 — PT — 01.01.2006 — 015.002
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/31994D0466) — [DECISÃO DA COMISSÃO de 13 de Julho de 1994](http://publications.europa.eu/resource/celex/31994D0466) — L 190 — 26 — 26.7.1994
-- [M2](http://publications.europa.eu/resource/celex/31994D0723) — [DECISÃO DA COMISSÃO de 26 de Outubro de 1994](http://publications.europa.eu/resource/celex/31994D0723) — L 288 — 48 — 9.11.1994
-- [M3](http://publications.europa.eu/resource/celex/31995D0338) — [DECISÃO DA COMISSÃO de 26 de Julho de 1995](http://publications.europa.eu/resource/celex/31995D0338) — L 200 — 35 — 24.8.1995
-- [M4](http://publications.europa.eu/resource/celex/31995D0339) — [DECISÃO DA COMISSÃO de 27 de Julho de 1995](http://publications.europa.eu/resource/celex/31995D0339) — L 200 — 36 — 24.8.1995
-- [M5](http://publications.europa.eu/resource/celex/31996D0103) — [DECISÃO DA COMISSÃO de 25 de Janeiro de 1996](http://publications.europa.eu/resource/celex/31996D0103) — L 24 — 28 — 31.1.1996
-- [M6](http://publications.europa.eu/resource/celex/31996D0340) — [DECISÃO DA COMISSÃO de 10 de Maio de 1996](http://publications.europa.eu/resource/celex/31996D0340) — L 129 — 35 — 30.5.1996
-- [►M7](http://publications.europa.eu/resource/celex/31996D0405) — [DECISÃO DA COMISSÃO de 21 de Junho de 1996](http://publications.europa.eu/resource/celex/31996D0405) — L 165 — 40 — 4.7.1996
-- [►M8](http://publications.europa.eu/resource/celex/31996L0090) — [DIRECTIVA 96/90/CE DO CONSELHO de 17 de Dezembro de 1996](http://publications.europa.eu/resource/celex/31996L0090) — L 13 — 24 — 16.1.1997
-- [►M9](http://publications.europa.eu/resource/celex/31997L0079) — [DIRECTIVA 97/79/CE DO CONSELHO de 18 de Dezembro de 1997](http://publications.europa.eu/resource/celex/31997L0079) — L 24 — 31 — 30.1.1998
-- [M10](http://publications.europa.eu/resource/celex/31999D0724) — [DECISÃO DA COMISSÃO de 28 de Outubro de 1999](http://publications.europa.eu/resource/celex/31999D0724) — L 290 — 32 — 12.11.1999
-- [M11](http://publications.europa.eu/resource/celex/32001D0007) — [DECISÃO DA COMISSÃO de 19 de Dezembro de 2000](http://publications.europa.eu/resource/celex/32001D0007) — L 2 — 27 — 5.1.2001
-- [►M12](http://publications.europa.eu/resource/celex/32002L0033) — [DIRECTIVA 2002/33/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Outubro de 2002](http://publications.europa.eu/resource/celex/32002L0033) — L 315 — 14 — 19.11.2002
-- [M13](http://publications.europa.eu/resource/celex/32003D0042) — [DECISÃO DA COMISSÃO de 10 de Janeiro de 2003](http://publications.europa.eu/resource/celex/32003D0042) — L 13 — 24 — 18.1.2003
-- [M15](http://publications.europa.eu/resource/celex/32003D0721) — [DECISÃO DA COMISSÃO de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003D0721) — L 260 — 21 — 11.10.2003
-- [►M16](http://publications.europa.eu/resource/celex/32004R0445) — [REGULAMENTO (CE) N.º 445/2004 DA COMISSÃO de 10 de Março de 2004](http://publications.europa.eu/resource/celex/32004R0445) — L 72 — 60 — 11.3.2004
-- [►M17](http://publications.europa.eu/resource/celex/32004L0041) — [DIRECTIVA 2004/41/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Abril de 2004](http://publications.europa.eu/resource/celex/32004L0041) — L 157 — 407 — 30.4.2004
-
-**Alterado por:**
-
-- [A1](http://publications.europa.eu/resource/celex/11994N) — C 241 — 21 — 29.8.1994
-- L 001 — 1 — ..
-- [A2](http://publications.europa.eu/resource/celex/12003T) — L 236 — 33 — 23.9.2003
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32004L0041R%2801%29) — [Rectificação, JO L 195, 2.6.2004, p. 12 (2004/41)](http://publications.europa.eu/resource/celex/32004L0041R%2801%29)
-
-## DIRECTIVA 92/118/CEE DO CONSELHO
 
 de 17 de Dezembro de 1992
 

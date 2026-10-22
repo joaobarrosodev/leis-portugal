@@ -35,6 +35,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-08-14'
+version_history:
+  file: regulamento-ue-1998-850.versoes.json
+  count: 2
+  source_lastmod: '2019-08-14'
+  versions:
+  - date: '1998-04-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-08-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime TÍTULO I DEFINIÇÕES — Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime TÍTULO II REDES E CONDIÇÕES DE UTILIZAÇÃO — CAPÍTULO I DISPOSIÇÕES APLICÁVEIS ÀS ARTES REBOCADAS
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime CAPÍTULO II DISPOSIÇÕES APLICÁVEIS ÀS ARTES FIXAS — Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime TÍTULO III TAMANHO MÍNIMO DOS ORGANISMOS MARINHOS — Artigo 17º
+    - Suprime Artigo 18º
+    - Suprime Artigo 19º
+    - Suprime TÍTULO VI DISPOSIÇÕES ESPECÍFICAS APLICÁVEIS AO SKAGERRAK E AO KATTEGAT — Artigo 35º
+    - Suprime Artigo 36º
+    - Suprime Artigo 37º
+    - Suprime Artigo 38º
+    - Suprime Artigo 39º
+    - Suprime Artigo 40º
+    - Suprime Artigo 41º
+    - Suprime TÍTULO VII DISPOSIÇÕES TÉCNICAS — Artigo 42º Operações de transformação
+    - Suprime TÍTULO VIII DISPOSIÇÕES FINAIS — Artigo 45º
+    - Suprime Artigo 46º
+    - Suprime Artigo 47º
+    - Suprime Artigo 48º
+    - Suprime Artigo 49º
+    - Suprime Artigo 50º
+    - 'Suprime ANEXO I — ARTES REBOCADAS: Regiões 1 e 2, excepto Skagerrak e Kattegat'
+    - 'Suprime ANEXO II — ARTES REBOCADAS: Região 3, excepto divisão CIEM IXa a leste de 7° 23'' 48&Prime; de longitude oeste'
+    - 'Suprime ANEXO III — ARTES REBOCADAS: Divisão CIEM IXa a leste de 7° 23'' 48&Prime; de longitude oeste'
+    - 'Suprime ANEXO IV — ARTES REBOCADAS: Skagerrak e Kattegat'
+    - 'Suprime ANEXO V — ARTES REBOCADAS: Regiões 4, 5 e 6'
 identifiers:
   celex: 31998R0850
   eli: http://data.europa.eu/eli/reg/1998/850/oj
@@ -49,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ba90d601-5b8c-4359-b811-126a70896ede.0011
   content_url: http://publications.europa.eu/resource/cellar/392907a2-c324-11e9-9d01-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998R0850-20190814
-  retrieved_at: '2026-10-22T02:37:00Z'
+  retrieved_at: '2026-10-22T14:47:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T09:28:31.264+01:00'
 integrity:
@@ -58,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:00Z'
-  notes: Texto consolidado 01998R0850-20190814.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:19Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1998-850.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -293,16 +346,27 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:00Z'
+  checked_at: '2026-10-22T14:47:19Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01998R0850-19980504: versão indisponível (Sem expressão na língua por para CELEX 01998R0850-19980504.)'
+  - '01998R0850-20000101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R0850-20000421: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R0850-20000712: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R0850-20010502: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R0850-20010526: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R0850-20040823: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998R0850-20051005: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01998R0850-20060117: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01998R0850-20110701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01998R0850-20130101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01998R0850-20140101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01998R0850-20150601: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

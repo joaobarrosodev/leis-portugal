@@ -35,6 +35,40 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-03-16'
+version_history:
+  file: regulamento-ue-2006-2023.versoes.json
+  count: 3
+  source_lastmod: '2025-03-16'
+  versions:
+  - date: '2007-12-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-04-17'
+    amending: eu:celex:32008R0282:por
+    amending_title: REGULAMENTO (CE) N. o 282/2008 DA COMISSÃO de 27 de Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Regras específicas em matéria de boas práticas de fabrico
+    - Adita A. Tintas de impressão.
+    - Adita B. Sistema de garantia da qualidade para processos de reciclagem de plástico abrangidos pelo Regulamento (CE)
+      n.º 282/2008 relativo aos materiais e objectos de plástico reciclado destinados a entrar em contacto com os alimentos
+      e que altera o Regulamento (CE) n.º 2023/2006
+  - date: '2025-03-16'
+    amending: eu:celex:32025R0351:por
+    amending_title: REGULAMENTO (UE) 2025/351 DA COMISSÃO de 21 de fevereiro de 2025
+    changes:
+    - Altera preambulo
+    - Adita B. Requisitos mínimos para um sistema de garantia da qualidade a utilizar em instalações de reciclagem onde o
+      plástico reciclado é fabricado em conformidade com o Regulamento (UE) 2022/1616
+    - Adita C. Reprocessamento de plásticos abrangidos pelo âmbito de aplicação do Regulamento (UE) n.º 10/2011
+    - Suprime B. Sistema de garantia da qualidade para processos de reciclagem de plástico abrangidos pelo Regulamento (CE)
+      n.º 282/2008 relativo aos materiais e objectos de plástico reciclado destinados a entrar em contacto com os alimentos
+      e que altera o Regulamento (CE) n.º 2023/2006
+    - Suprime Notas
 identifiers:
   celex: 32006R2023
   eli: http://data.europa.eu/eli/reg/2006/2023/oj
@@ -49,7 +83,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d146cbf3-7fff-4f11-92e5-ce2beb20cd20.0016
   content_url: http://publications.europa.eu/resource/cellar/e191b077-098f-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R2023-20250316
-  retrieved_at: '2026-10-22T03:12:54Z'
+  retrieved_at: '2026-10-22T15:06:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-21T09:49:18.747+01:00'
 integrity:
@@ -58,9 +92,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:54Z'
-  notes: Texto consolidado 02006R2023-20250316.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:06:26Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2006-2023.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -102,29 +136,18 @@ relationships:
 article_structure:
   article_count: 8
   section_count: 5
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:54Z'
+  checked_at: '2026-10-22T15:06:26Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 2023/2006 da Comissão, de 22 de Dezembro de 2006
-
-> 02006R2023 — PT — 16.03.2025 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008R0282) — [REGULAMENTO (CE) N.º 282/2008 DA COMISSÃO de 27 de Março de 2008](http://publications.europa.eu/resource/celex/32008R0282) — L 86 — 9 — 28.3.2008
-- [►M2](http://publications.europa.eu/resource/celex/32025R0351) — [REGULAMENTO (UE) 2025/351 DA COMISSÃO de 21 de fevereiro de 2025](http://publications.europa.eu/resource/celex/32025R0351) — L 351 — 1 — 24.2.2025
-
-## REGULAMENTO (CE) N.º 2023/2006 DA COMISSÃO
 
 de 22 de Dezembro de 2006
 

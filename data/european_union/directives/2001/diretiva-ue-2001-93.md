@@ -34,6 +34,52 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-03-10'
+version_history:
+  file: diretiva-ue-2001-93.versoes.json
+  count: 3
+  source_lastmod: '2009-03-10'
+  versions:
+  - date: '2001-12-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-12-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Adita ANEXO
+    - Adita CAPÍTULO I
+    - Adita CONDIÇÕES GERAIS
+    - Adita CAPÍTULO II
+    - Adita DISPOSIÇÕES ESPECÍFICAS PARA VÁRIAS CATEGORIAS DE SUÍNOS
+    - Adita A. VARRASCOS
+    - Adita B. PORCAS E MARRÃS
+    - Adita C. LEITÕES
+    - Adita D. LEITÕES DESMAMADOS E PORCOS DE CRIAÇÃO
+    - Adita Notas
+    - Suprime ANEXO — CAPÍTULO I
+    - Suprime CAPÍTULO II — DISPOSIÇÕES ESPECÍFICAS PARA VÁRIAS CATEGORIAS DE SUÍNOS
+  - date: '2009-03-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime ANEXO
+    - Suprime CAPÍTULO I
+    - Suprime CONDIÇÕES GERAIS
+    - Suprime CAPÍTULO II
+    - Suprime DISPOSIÇÕES ESPECÍFICAS PARA VÁRIAS CATEGORIAS DE SUÍNOS
+    - Suprime A. VARRASCOS
+    - Suprime B. PORCAS E MARRÃS
+    - Suprime C. LEITÕES
+    - Suprime D. LEITÕES DESMAMADOS E PORCOS DE CRIAÇÃO
+    - Suprime Notas
 identifiers:
   celex: 32001L0093
   eli: http://data.europa.eu/eli/dir/2001/93/oj
@@ -48,7 +94,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8d2b2da6-dd9e-4c3e-920c-245c3d13e6b3.0010
   content_url: http://publications.europa.eu/resource/cellar/78852b97-5b70-484c-879b-600cd6d33d4e.0001.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0093-20090310
-  retrieved_at: '2026-10-22T02:51:18Z'
+  retrieved_at: '2026-10-22T14:50:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T17:27:31.992+01:00'
 integrity:
@@ -57,9 +103,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:18Z'
-  notes: Texto consolidado 02001L0093-20090310.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:21Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2001-93.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -106,16 +152,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:18Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:50:21Z'
+  warnings: []
   errors: []
 ---
 

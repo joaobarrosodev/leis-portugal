@@ -35,6 +35,38 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-11-14'
+version_history:
+  file: decisao-ue-2005-50.versoes.json
+  count: 3
+  source_lastmod: '2017-11-14'
+  versions:
+  - date: '2008-12-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-07-30'
+    amending: eu:celex:32011D0485:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 29 de Julho de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Informações exigidas para o controlo da utilização da faixa de frequências dos 24 GHz por radares de curto alcance
+      para automóveis
+  - date: '2017-11-14'
+    amending: eu:celex:32017D2077:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2017/2077 DA COMISSÃO Texto relevante para efeitos do EEE de 10 de novembro de
+      2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Informações exigidas para o controlo da utilização da faixa de frequências dos 24 GHz por radares de curto alcance
+      para automóveis
+    - Altera Notas
 identifiers:
   celex: 32005D0050
   eli: http://data.europa.eu/eli/dec/2005/50(1)/oj
@@ -49,7 +81,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7fd68077-0af3-41d1-8e54-3aa886f748f6.0016
   content_url: http://publications.europa.eu/resource/cellar/8b8c3a69-e182-433c-b244-2515cda39a50.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005D0050-20171114
-  retrieved_at: '2026-10-22T02:52:00Z'
+  retrieved_at: '2026-10-22T14:59:08Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T11:51:18.840+01:00'
 integrity:
@@ -58,9 +90,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:00Z'
-  notes: Texto consolidado 02005D0050-20171114.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:08Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-2005-50.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -116,30 +148,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/7405581a-64ad-41cb-8394-3a2324445704
 article_structure:
   article_count: 8
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:00Z'
+  checked_at: '2026-10-22T14:59:08Z'
   warnings: []
   errors: []
 ---
 
 # 2005/50/CE: Decisão da Comissão, de 17 de Janeiro de 2005
-
-> 02005D0050 — PT — 14.11.2017 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011D0485) — [DECISÃO DE EXECUÇÃO DA COMISSÃO 2011/485/UE de 29 de Julho de 2011](http://publications.europa.eu/resource/celex/32011D0485) — L 198 — 71 — 30.7.2011
-- [►M2](http://publications.europa.eu/resource/celex/32017D2077) — [DECISÃO DE EXECUÇÃO (UE) 2017/2077 DA COMISSÃO Texto relevante para efeitos do EEE de 10 de novembro de 2017](http://publications.europa.eu/resource/celex/32017D2077) — L 295 — 75 — 14.11.2017
-
-## DECISÃO DA COMISSÃO
 
 de 17 de Janeiro de 2005
 

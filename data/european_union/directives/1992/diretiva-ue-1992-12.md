@@ -34,6 +34,106 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-04-01'
+version_history:
+  file: diretiva-ue-1992-12.versoes.json
+  count: 3
+  source_lastmod: '2010-04-01'
+  versions:
+  - date: '1992-03-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-12-24'
+    amending: eu:celex:31992L0108:por
+    amending_title: DIRECTIVA 92/108/CEE DO CONSELHO de 14 de Dezembro de 1992; DIRECTIVA 94/74/CE DO CONSELHO de 22 de Dezembro
+      de 1994; DIRECTIVA 96/99/CE DO CONSELHO de 30 de Dezembro de 1996; DIRECTIVA 2000/44/CE DO CONSELHO de 30 de Junho de
+      2000; DIRECTIVA 2000/47/CE DO CONSELHO de 20 de Julho de 2000; REGULAMENTO (CE) N. o 807/2003 DO CONSELHO de 14 de Abril
+      de 2003; DIRECTIVA 2004/106/CE DO CONSELHO de 16 de Novembro de 2004
+    changes:
+    - Adita preambulo
+    - Adita TÍTULO I
+    - Adita Disposições gerais
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita TÍTULO II
+    - Adita Produção, transformação e detenção
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita TÍTULO III
+    - Adita Circulação
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita TÍTULO IV
+    - Adita Reembolso
+    - Adita Artigo 22.º
+    - Adita TÍTULO V
+    - Adita Isenções
+    - Adita Artigo 23.º
+    - Adita TÍTULO VI
+    - Adita Comité dos impostos especiais de consumo
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita TÍTULO VII
+    - Adita Disposições finais
+  - date: '2010-04-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime Disposições gerais
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime TÍTULO II
+    - Suprime Produção, transformação e detenção
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime TÍTULO III
+    - Suprime Circulação
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime TÍTULO IV
+    - Suprime Reembolso
+    - Suprime Artigo 22.º
+    - Suprime TÍTULO V
+    - Suprime Isenções
+    - Suprime Artigo 23.º
+    - Suprime TÍTULO VI
+    - Suprime Comité dos impostos especiais de consumo
+    - Suprime Artigo 24.º
+    - Suprime Artigo 25.º
+    - Suprime TÍTULO VII
+    - Suprime Disposições finais
 identifiers:
   celex: 31992L0012
   eli: http://data.europa.eu/eli/dir/1992/12/oj
@@ -48,7 +148,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5b619953-dc06-40bc-89d6-0621deb8994e.0009
   content_url: http://publications.europa.eu/resource/cellar/ad2dc4cc-bec9-4c88-b323-093b91241366.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0012-20100401
-  retrieved_at: '2026-10-22T02:37:52Z'
+  retrieved_at: '2026-10-22T14:40:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-13T07:01:12.591+01:00'
 integrity:
@@ -57,9 +157,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:52Z'
-  notes: Texto consolidado 01992L0012-20100401.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:40:34Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1992-12.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -414,16 +514,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:52Z'
+  checked_at: '2026-10-22T14:40:34Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01992L0012-19970101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0012-20000701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0012-20000801: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0012-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

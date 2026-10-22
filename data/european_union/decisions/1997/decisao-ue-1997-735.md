@@ -36,6 +36,30 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2004-05-01'
+version_history:
+  file: decisao-ue-1997-735.versoes.json
+  count: 2
+  source_lastmod: '2004-05-01'
+  versions:
+  - date: '1997-10-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime ANEXO I — >INÍCIO DE GRÁFICO>
+    - Suprime ANEXO II — >INÍCIO DE GRÁFICO>
+    - Suprime ANEXO III — >INÍCIO DE GRÁFICO>
+    - Suprime ANEXO IV — >INÍCIO DE GRÁFICO>
 identifiers:
   celex: 31997D0735
   eli: http://data.europa.eu/eli/dec/1997/735/oj
@@ -50,7 +74,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fd9f58df-2647-47f5-836a-402c94f71cbe.0011
   content_url: http://publications.europa.eu/resource/cellar/87cd2e5f-f930-467e-967d-e0e75791ed99.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997D0735-20040501
-  retrieved_at: '2026-10-22T02:56:23Z'
+  retrieved_at: '2026-10-22T14:45:45Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T03:10:56.398+01:00'
 integrity:
@@ -59,9 +83,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:23Z'
-  notes: Texto consolidado 01997D0735-20040501.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:45:45Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-1997-735.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -130,16 +154,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:23Z'
+  checked_at: '2026-10-22T14:45:45Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01997D0735-19990701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

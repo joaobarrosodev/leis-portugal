@@ -35,6 +35,29 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-03-06'
+version_history:
+  file: decisao-ue-2007-116.versoes.json
+  count: 3
+  source_lastmod: '2023-03-06'
+  versions:
+  - date: '2007-10-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-03'
+    amending: eu:celex:32009D0884:por
+    amending_title: DECISÃO DA COMISSÃO de 30 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2023-03-06'
+    amending: eu:celex:32023D0468:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2023/468 DA COMISSÃO de 25 de novembro de 2022
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Suprime Notas
 identifiers:
   celex: 32007D0116
   eli: http://data.europa.eu/eli/dec/2007/116(1)/oj
@@ -49,7 +72,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/bf46ac6b-43b9-436d-ab32-d92359217793.0017
   content_url: http://publications.europa.eu/resource/cellar/8817a3c9-d36d-11ed-a05c-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007D0116-20230306
-  retrieved_at: '2026-10-22T02:58:27Z'
+  retrieved_at: '2026-10-22T15:06:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T22:47:17.935+01:00'
 integrity:
@@ -58,9 +81,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:27Z'
-  notes: Texto consolidado 02007D0116-20230306.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:06:29Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-2007-116.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -114,30 +137,18 @@ relationships:
 article_structure:
   article_count: 7
   section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:27Z'
+  checked_at: '2026-10-22T15:06:29Z'
   warnings: []
   errors: []
 ---
 
 # 2007/116/CE: Decisão da Comissão, de 15 de Fevereiro de 2007
-
-> 02007D0116 — PT — 06.03.2023 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32007D0698) — [DECISÃO DA COMISSÃO de 29 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007D0698) — L 284 — 31 — 30.10.2007
-- [M2](http://publications.europa.eu/resource/celex/32009D0884) — [DECISÃO DA COMISSÃO de 30 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009D0884) — L 317 — 46 — 3.12.2009
-- [►M3](http://publications.europa.eu/resource/celex/32023D0468) — [DECISÃO DE EXECUÇÃO (UE) 2023/468 DA COMISSÃO de 25 de novembro de 2022](http://publications.europa.eu/resource/celex/32023D0468) — L 68 — 96 — 6.3.2023
-
-## DECISÃO DA COMISSÃO
 
 de 15 de Fevereiro de 2007
 

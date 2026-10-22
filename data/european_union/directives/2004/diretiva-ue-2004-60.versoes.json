@@ -1,0 +1,153 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004L0060:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0060-20040901",
+ "dre_path": null,
+ "source_lastmod": "2004-09-01",
+ "versions": [
+  {
+   "date": "2004-04-24",
+   "future": false,
+   "celex": "32004L0060",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "92569de61b3e9cd4",
+    "23ff42845a23918b",
+    "1173f5d7bf64ee30",
+    "5d5b95c33972e535",
+    "7101c1476ea20231",
+    "c9c5293d54eac45c",
+    "81687983e3ec1e42"
+   ]
+  },
+  {
+   "date": "2004-09-01",
+   "future": false,
+   "celex": "02004L0060-20040901",
+   "acts": [
+    {
+     "id": "eu:celex:32004L0097:por",
+     "title": "DIRECTIVA 2004/97/CE DA COMISSÃO Texto relevante para efeitos do EEE de 27 de Setembro de 2004",
+     "published": null,
+     "celex": "32004L0097"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Notas",
+    "Adita ANEXO"
+   ],
+   "fragments": [
+    "d8f8d24e499e0f1c",
+    "23ff42845a23918b",
+    "1173f5d7bf64ee30",
+    "c857503b1f42798f",
+    "7101c1476ea20231",
+    "c2768784123201be",
+    "2f79db7fe1f057d3",
+    "c6b1ed398000ba51"
+   ]
+  }
+ ],
+ "fragments": {
+  "92569de61b3e9cd4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Abril de 2004\n\nque altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir a substância activa quinoxifena\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado [([^1])](http://publications.europa.eu/resource/cellar/9d3d637a-9a1d-433b-8993-30a73509b403.0010.05/DOC_1#ntr1-L_2004120PT.01003901-E0001), com a última redacção que lhe foi dada pela Directiva 2004/30/CE da Comissão [([^2])](http://publications.europa.eu/resource/cellar/9d3d637a-9a1d-433b-8993-30a73509b403.0010.05/DOC_1#ntr2-L_2004120PT.01003901-E0002), e, nomeadamente, o n.º 1 do seu artigo 6.º,\n\nConsiderando o seguinte:\n\n(1) Em conformidade com o n.º 2 do artigo 6.º da Directiva 91/414/CEE, o Reino Unido recebeu, em 1 de Agosto de 1995, um pedido da empresa Dow Elanco Europe (actualmente Dow Agro Sciences) com vista à inclusão da substância activa quinoxifena no anexo I da Directiva 91/414/CEE. A Decisão 96/457/CE da Comissão [([^3])](http://publications.europa.eu/resource/cellar/9d3d637a-9a1d-433b-8993-30a73509b403.0010.05/DOC_1#ntr3-L_2004120PT.01003901-E0003), confirmou que o processo se encontrava «completo», isto é, que podia considerar-se satisfazer, em princípio, as exigências de dados e informações dos anexos II e III da Directiva 91/414/CEE.\n\n(2) Os efeitos desta substância activa na saúde humana e no ambiente foram avaliados em conformidade com os n.^os^ 2 e 4 do artigo 6.º da Directiva 91/414/CEE, no que respeita às utilizações propostas pelo requerente. O Estado-Membro designado relator apresentou um projecto de relatório de avaliação da substância à Comissão em 11 de Outubro de 1996.\n\n(3) O projecto de relatório de avaliação foi examinado pelos Estados-Membros e pela Comissão no âmbito do Comité Permanente da Cadeia Alimentar e da Saúde Animal. Esse exame foi concluído em 28 de Novembro de 2003 com a elaboração do relatório de revisão da quinoxifena da Comissão.\n\n(4) Os documentos e informações foram igualmente apresentados ao Comité Científico das Plantas, em consulta separada. Foi solicitado ao comité um comentário sobre a acumulação da substância no solo e o potencial impacto ambiental da mesma. No seu parecer [([^4])](http://publications.europa.eu/resource/cellar/9d3d637a-9a1d-433b-8993-30a73509b403.0010.05/DOC_1#ntr4-L_2004120PT.01003901-E0004), o comité referiu que os estudos disponíveis, nomeadamente o estudo de campo sobre a degradação da matéria orgânica («litter bag study»), não demonstravam de modo convincente a aceitabilidade do impacte ambiental, devido, sobretudo, às insuficiências estatísticas do plano experimental. O comité referiu ainda que uma fracção da quinoxifena pode volatilizar-se depois de aplicada a uma cultura. Embora os resultados disponíveis apontem para uma rápida decomposição da substância no ar, o comité sugeriu a repetição das medições de meia-vida, logo que tenham sido desenvolvidos métodos adequados de avaliação dos riscos ambientais associados ao transporte atmosférico de produtos fitofarmacêuticos. Esta recomendação do comité foi tida em conta no relatório de revisão da substância activa. O estudo de campo, considerado insuficiente, da degradação da matéria orgânica foi repetido com um protocolo de ensaio melhorado. Não foi detectado qualquer efeito da quinoxifena na decomposição da matéria orgânica.\n\n(5) Em conformidade com o n.º 4 do artigo 6.º da Directiva 91/414/CEE e na perspectiva de uma possível decisão desfavorável em relação à quinoxifena, a Comissão organizou, em 13 de Fevereiro de 2003, uma reunião tripartida com o principal transmitente de dados e o Estado-Membro relator. O principal transmitente de dados facultou dados suplementares, para dar resposta às dúvidas iniciais.\n\n(6) As avaliações efectuadas permitiram concluir poder presumir-se que os produtos fitofarmacêuticos que contêm quinoxifena satisfazem, em geral, as condições definidas no n.º, alíneas a) e b), e no n.º 3 do artigo 5.º da Directiva 91/414/CEE, designadamente no que respeita às utilizações examinadas em pormenor no relatório de revisão da Comissão. É, portanto, adequado incluir a quinoxifena no anexo I, para assegurar que, em cada Estado-Membro, as autorizações de produtos fitofarmacêuticos que a contenham possam ser concedidas em conformidade com a referida directiva.\n\n(7) O relatório de revisão da Comissão é necessário para que os Estados-Membros possam aplicar correctamente várias secções dos princípios uniformes enunciados na Directiva 91/414/CEE. É, pois, conveniente estabelecer que, salvo no que respeita às informações confidenciais, na acepção do artigo 14.º da Directiva 91/414/CEE, os Estados-Membros mantenham a versão final do relatório de revisão à disposição de todas as partes interessadas e lhes facultem a consulta do mesmo.\n\n(8) Depois da inclusão, os Estados-Membros devem dispor de um período razoável para pôr em prática as disposições da Directiva 91/414/CEE em relação aos produtos fitofarmacêuticos que contenham quinoxifena, nomeadamente para reverem as autorizações provisórias existentes, transformando-as em autorizações plenas, alterando-as ou retirando-as, em conformidade com as disposições da Directiva 91/414/CEE, até ao final do referido período.\n\n(9) Há, portanto, que alterar a Directiva 91/414/CEE em conformidade.\n\n(10) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "23ff42845a23918b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 91/414/CEE é alterado em conformidade com o anexo da presente directiva."
+  },
+  "1173f5d7bf64ee30": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros adoptarão e publicarão, o mais tardar em 28 de Fevereiro de 2005, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Do facto informarão imediatamente a Comissão.\n\nOs Estados-Membros aplicarão tais disposições a partir de 1 de Março de 2005.\n\nAs disposições adoptadas pelos Estados-Membros devem fazer referência à presente directiva ou ser acompanhadas da referida referência aquando da sua publicação oficial. As modalidades daquela referência incumbem aos Estados-Membros."
+  },
+  "5d5b95c33972e535": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros efectuarão uma revisão da autorização de cada produto fitofarmacêutico que contenha quinoxifena, de forma a garantir a observância das condições aplicáveis a essa substância activa constantes do anexo I da Directiva 91/414/CEE. Se necessário, os Estados-Membros alterarão ou retirarão a autorização, em conformidade com a Directiva 91/414/CEE, antes de 28 de Fevereiro de 2005.\n\n2. Os Estados-Membros reavaliarão cada produto fitofarmacêutico autorizado que contenha quinoxifena, como única substância activa ou acompanhada de outras substâncias activas incluídas no anexo I da Directiva 91/414/CEE até 31 de Agosto de 2004, em conformidade com os princípios uniformes enunciados no anexo VI da Directiva 91/414/CEE, com base num processo que satisfaça as exigências do anexo III da mesma. Na sequência dessa avaliação, os Estados-Membros determinarão se o produto satisfaz as condições estabelecidas no n.º 1, alíneas b), c), d) e e), do artigo 4.º da Directiva 91/414/CEE. Se necessário, os Estados-Membros alterarão ou retirarão, até 28 de Fevereiro de 2006, a autorização respeitante a cada produto fitofarmacêutico em causa."
+  },
+  "7101c1476ea20231": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor em 1 de Setembro de 2004."
+  },
+  "c9c5293d54eac45c": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 23 de Abril de 2004.\n\n***Pela Comissão***\n\n**David BYRNE**\n\n***Membro da Comissão***\n\n---"
+  },
+  "81687983e3ec1e42": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/9d3d637a-9a1d-433b-8993-30a73509b403.0010.05/DOC_1#ntc1-L_2004120PT.01003901-E0001) [JO L 230 de 19.8.1991, p. 1](http://publications.europa.eu/resource/oj/JOL_1991_230_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/9d3d637a-9a1d-433b-8993-30a73509b403.0010.05/DOC_1#ntc2-L_2004120PT.01003901-E0002) [JO L 77 de 13.3.2004, p. 50](http://publications.europa.eu/resource/oj/JOL_2004_077_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/9d3d637a-9a1d-433b-8993-30a73509b403.0010.05/DOC_1#ntc3-L_2004120PT.01003901-E0003) [JO L 189 de 30.7.1996, p. 112](http://publications.europa.eu/resource/oj/JOL_1996_189_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/9d3d637a-9a1d-433b-8993-30a73509b403.0010.05/DOC_1#ntc4-L_2004120PT.01003901-E0004) Parecer do Comité Científico das Plantas relativo à inclusão da quinoxifena no anexo I da Directiva 91/414/CEE do Conselho, relativa à colocação dos produtos fitofarmacêuticos no mercado. SCP/QUINOX/002-final. Aprovado em 7 de Março de 2001."
+  },
+  "d8f8d24e499e0f1c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Abril de 2004\n\nque altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir a substância activa quinoxifena\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado ([^1^](http://publications.europa.eu/resource/cellar/f045f9af-acb0-46f7-bb4c-aedc1a092a07.0018.03/DOC_1#E0001)), com a última redacção que lhe foi dada pela Directiva 2004/30/CE da Comissão ([^2^](http://publications.europa.eu/resource/cellar/f045f9af-acb0-46f7-bb4c-aedc1a092a07.0018.03/DOC_1#E0002)), e, nomeadamente, o n.º 1 do seu artigo 6.º,\n\n(1) Em conformidade com o n.º 2 do artigo 6.º da Directiva 91/414/CEE, o Reino Unido recebeu, em 1 de Agosto de 1995, um pedido da empresa Dow Elanco Europe (actualmente Dow Agro Sciences) com vista à inclusão da substância activa quinoxifena no anexo I da Directiva 91/414/CEE. A Decisão 96/457/CE da Comissão ([^3^](http://publications.europa.eu/resource/cellar/f045f9af-acb0-46f7-bb4c-aedc1a092a07.0018.03/DOC_1#E0003)), confirmou que o processo se encontrava «completo», isto é, que podia considerar-se satisfazer, em princípio, as exigências de dados e informações dos anexos II e III da Directiva 91/414/CEE.\n\n(2) Os efeitos desta substância activa na saúde humana e no ambiente foram avaliados em conformidade com os n.^os^ 2 e 4 do artigo 6.º da Directiva 91/414/CEE, no que respeita às utilizações propostas pelo requerente. O Estado-Membro designado relator apresentou um projecto de relatório de avaliação da substância à Comissão em 11 de Outubro de 1996.\n\n(3) O projecto de relatório de avaliação foi examinado pelos Estados-Membros e pela Comissão no âmbito do Comité Permanente da Cadeia Alimentar e da Saúde Animal. Esse exame foi concluído em 28 de Novembro de 2003 com a elaboração do relatório de revisão da quinoxifena da Comissão.\n\n(4) Os documentos e informações foram igualmente apresentados ao Comité Científico das Plantas, em consulta separada. Foi solicitado ao comité um comentário sobre a acumulação da substância no solo e o potencial impacto ambiental da mesma. No seu parecer ([^4^](http://publications.europa.eu/resource/cellar/f045f9af-acb0-46f7-bb4c-aedc1a092a07.0018.03/DOC_1#E0004)), o comité referiu que os estudos disponíveis, nomeadamente o estudo de campo sobre a degradação da matéria orgânica («litter bag study»), não demonstravam de modo convincente a aceitabilidade do impacte ambiental, devido, sobretudo, às insuficiências estatísticas do plano experimental. O comité referiu ainda que uma fracção da quinoxifena pode volatilizar-se depois de aplicada a uma cultura. Embora os resultados disponíveis apontem para uma rápida decomposição da substância no ar, o comité sugeriu a repetição das medições de meia-vida, logo que tenham sido desenvolvidos métodos adequados de avaliação dos riscos ambientais associados ao transporte atmosférico de produtos fitofarmacêuticos. Esta recomendação do comité foi tida em conta no relatório de revisão da substância activa. O estudo de campo, considerado insuficiente, da degradação da matéria orgânica foi repetido com um protocolo de ensaio melhorado. Não foi detectado qualquer efeito da quinoxifena na decomposição da matéria orgânica.\n\n(5) Em conformidade com o n.º 4 do artigo 6.º da Directiva 91/414/CEE e na perspectiva de uma possível decisão desfavorável em relação à quinoxifena, a Comissão organizou, em 13 de Fevereiro de 2003, uma reunião tripartida com o principal transmitente de dados e o Estado-Membro relator. O principal transmitente de dados facultou dados suplementares, para dar resposta às dúvidas iniciais.\n\n(6) As avaliações efectuadas permitiram concluir poder presumir-se que os produtos fitofarmacêuticos que contêm quinoxifena satisfazem, em geral, as condições definidas no n.º, alíneas a) e b), e no n.º 3 do artigo 5.º da Directiva 91/414/CEE, designadamente no que respeita às utilizações examinadas em pormenor no relatório de revisão da Comissão. É, portanto, adequado incluir a quinoxifena no anexo I, para assegurar que, em cada Estado-Membro, as autorizações de produtos fitofarmacêuticos que a contenham possam ser concedidas em conformidade com a referida directiva.\n\n(7) O relatório de revisão da Comissão é necessário para que os Estados-Membros possam aplicar correctamente várias secções dos princípios uniformes enunciados na Directiva 91/414/CEE. É, pois, conveniente estabelecer que, salvo no que respeita às informações confidenciais, na acepção do artigo 14.º da Directiva 91/414/CEE, os Estados-Membros mantenham a versão final do relatório de revisão à disposição de todas as partes interessadas e lhes facultem a consulta do mesmo.\n\n(8) Depois da inclusão, os Estados-Membros devem dispor de um período razoável para pôr em prática as disposições da Directiva 91/414/CEE em relação aos produtos fitofarmacêuticos que contenham quinoxifena, nomeadamente para reverem as autorizações provisórias existentes, transformando-as em autorizações plenas, alterando-as ou retirando-as, em conformidade com as disposições da Directiva 91/414/CEE, até ao final do referido período.\n\n(9) Há, portanto, que alterar a Directiva 91/414/CEE em conformidade.\n\n(10) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "c857503b1f42798f": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros efectuarão uma revisão da autorização de cada produto fitofarmacêutico que contenha quinoxifena, de forma a garantir a observância das condições aplicáveis a essa substância activa constantes do anexo I da Directiva 91/414/CEE. Se necessário, os Estados-Membros alterarão ou retirarão a autorização, em conformidade com a Directiva 91/414/CEE, antes de 28 de Fevereiro de 2005.\n\n2. Os Estados-Membros reavaliarão cada produto fitofarmacêutico autorizado que contenha quinoxifena, como única substância activa ou acompanhada de outras substâncias activas incluídas no anexo I da Directiva 91/414/CEE, o mais tardar até 31 de Agosto de 2004, em conformidade com os princípios uniformes estabelecidos no anexo VI da Directiva 91/414/CEE, com base num processo que satisfaça as exigências do anexo III da mesma directiva. Na sequência dessa avaliação, os Estados-Membros determinarão se o produto satisfaz as condições estabelecidas no n.º 1, alíneas b), c), d) e e), do artigo 4.º da Directiva 91/414/CEE.\n\nApós essa determinação, os Estados-Membros deverão:\n\na) No caso de um produto que contenha quinoxifena como única substância activa, alterar ou retirar a autorização, se necessário, o mais tardar até 28 de Fevereiro de 2006;\n\nb) No caso de um produto que contenha quinoxifena acompanhado de outras substâncias activas, alterar ou retirar a autorização, se necessário, o mais tardar até 28 de Fevereiro de 2006 ou até à data fixada para essa alteração ou retirada na respectiva directiva ou directivas que acrescentaram a substância ou as substâncias relevantes ao anexo I da Directiva 91/414/CEE, caso esta última data seja posterior."
+  },
+  "c2768784123201be": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "2f79db7fe1f057d3": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| N.º | Denominação comum; números de identificação | Denominação IUPAC | Pureza [(^1^)](http://publications.europa.eu/resource/cellar/f045f9af-acb0-46f7-bb4c-aedc1a092a07.0018.03/DOC_1#E1005) | Entrada em vigor | Termo da inclusão | Disposições específicas |\n| --- | --- | --- | --- | --- | --- | --- |\n| «83 | Quinoxifena N.º CAS 124495-18-7 N.º CIPAC 566 | 5,7-dicloro-4-(pfluorofenoxi)-quinolina | 970 g/kg | 1 de Setembro de 2004 | 31 de Agosto de 2014 | Apenas serão autorizadas as utilizações como fungicida. Na aplicação dos princípios uniformes enunciados no anexo VI, devem ser tidas em conta as conclusões da versão final, de 28 de Novembro de 2003, do relatório de revisão da quinoxifena elaborado no quadro do Comité Permanente da Cadeia Alimentar e da Saúde Animal, nomeadamente os apêndices I e II do relatório. Os Estados-Membros estarão particularmente atentos à protecção dos organismos aquáticos. Se necessário, devem ser aplicadas medidas de redução do risco e iniciados programas de monitorização em zonas vulneráveis.» |\n| (^1^)O relatório de revisão fornece mais pormenores sobre a identidade e as especificações das substâncias activas. |  |  |  |  |  |  |\n\n---"
+  },
+  "c6b1ed398000ba51": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f045f9af-acb0-46f7-bb4c-aedc1a092a07.0018.03/DOC_1#src.E0001)) JO L 230 de 19.8.1991, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f045f9af-acb0-46f7-bb4c-aedc1a092a07.0018.03/DOC_1#src.E0002)) JO L 77 de 13.3.2004, p. 50.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f045f9af-acb0-46f7-bb4c-aedc1a092a07.0018.03/DOC_1#src.E0003)) JO L 189 de 30.7.1996, p. 112.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f045f9af-acb0-46f7-bb4c-aedc1a092a07.0018.03/DOC_1#src.E0004)) Parecer do Comité Científico das Plantas relativo à inclusão da quinoxifena no anexo I da Directiva 91/414/CEE do Conselho, relativa à colocação dos produtos fitofarmacêuticos no mercado. SCP/QUINOX/002-final. Aprovado em 7 de Março de 2001."
+  }
+ }
+}

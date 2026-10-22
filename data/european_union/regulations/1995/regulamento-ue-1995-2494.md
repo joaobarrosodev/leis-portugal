@@ -34,6 +34,74 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-01-01'
+version_history:
+  file: regulamento-ue-1995-2494.versoes.json
+  count: 3
+  source_lastmod: '2017-01-01'
+  versions:
+  - date: '1995-10-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-07'
+    amending: eu:celex:32003R1882:por
+    amending_title: M1; REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11 — Publicação
+    - Adita Artigo 1.º — Objectivo
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 3.º — Âmbito de aplicação
+    - Adita Artigo 4.º — Requisitos de comparabilidade
+    - Adita Artigo 5.º — Calendário e derrogações
+    - Adita Artigo 6.º — Informações de base
+    - Adita Artigo 7.º — Fontes
+    - Adita Artigo 8.º — Frequência
+    - Adita Artigo 9.º — Produção de resultados
+    - Adita Artigo 10.º — Transmissão de resultados
+    - Adita Artigo 12.º — Comparabilidade dos dados
+    - Adita Artigo 13.º — Financiamento
+    - Adita Artigo 14.º — Procedimento de comité
+    - Adita Artigo 15.º — Revisão
+    - Adita Artigo 16.º — Entrada em vigor
+    - Adita Notas
+    - Suprime Artigo 1º — Objectivo
+    - Suprime Artigo 2º — Definições
+    - Suprime Artigo 3º — Âmbito de aplicação
+    - Suprime Artigo 4º — Requisitos de comparabilidade
+    - Suprime Artigo 5º — Calendário e derrogações
+    - Suprime Artigo 6º — Informações de base
+    - Suprime Artigo 7º — Fontes
+    - Suprime Artigo 8º — Frequência
+    - Suprime Artigo 9º — Produção de resultados
+    - Suprime Artigo 10º — Transmissão de resultados
+    - Suprime Artigo 12º — Comparabilidade dos dados
+    - Suprime Artigo 13º — Financiamento
+    - Suprime Artigo 14º — Processo
+    - Suprime Artigo 15º — Revisão
+    - Suprime Artigo 16º — Entrada em vigor
+  - date: '2017-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objectivo
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Âmbito de aplicação
+    - Suprime Artigo 4.º — Requisitos de comparabilidade
+    - Suprime Artigo 5.º — Calendário e derrogações
+    - Suprime Artigo 6.º — Informações de base
+    - Suprime Artigo 7.º — Fontes
+    - Suprime Artigo 8.º — Frequência
+    - Suprime Artigo 9.º — Produção de resultados
+    - Suprime Artigo 10.º — Transmissão de resultados
+    - Suprime Artigo 11 — Publicação
+    - Suprime Artigo 12.º — Comparabilidade dos dados
+    - Suprime Artigo 13.º — Financiamento
+    - Suprime Artigo 14.º — Procedimento de comité
+    - Suprime Artigo 15.º — Revisão
+    - Suprime Artigo 16.º — Entrada em vigor
+    - Suprime Notas
 identifiers:
   celex: 31995R2494
   eli: http://data.europa.eu/eli/reg/1995/2494/oj
@@ -48,7 +116,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4ac289c8-733a-479c-9a4f-e631dbbed6b9.0011
   content_url: http://publications.europa.eu/resource/cellar/dbee1cd3-1f14-49f3-b608-3b61de073ff6.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995R2494-20170101
-  retrieved_at: '2026-10-22T03:08:14Z'
+  retrieved_at: '2026-10-22T14:44:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-15T17:54:06.614+01:00'
 integrity:
@@ -57,9 +125,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:08:14Z'
-  notes: Texto consolidado 01995R2494-20170101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:44:36Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1995-2494.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -119,16 +187,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:08:14Z'
+  checked_at: '2026-10-22T14:44:36Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01995R2494-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

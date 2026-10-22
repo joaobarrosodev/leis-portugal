@@ -1,0 +1,319 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31985L0433:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01985L0433-20071020",
+ "dre_path": null,
+ "source_lastmod": "2007-10-20",
+ "versions": [
+  {
+   "date": "1985-09-24",
+   "future": false,
+   "celex": "31985L0433",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b2388f95ed8b621c",
+    "09c58f24a89350b7",
+    "ae7add9d34d7d2a8",
+    "08e924d12c40a429",
+    "96a10c889f07fee1",
+    "9447789930707430",
+    "c5551f031dc17d0b",
+    "8c38e5ae1e0de89f",
+    "c3decccc79918d5f",
+    "3bcbfa810f786929",
+    "c000a1cfa679641e",
+    "d733ebeada44edad",
+    "6d17ee9a51ffb430",
+    "e26d80bbe2c726ed",
+    "1db3f09bcdeba368",
+    "d6a006f22caf6cf3",
+    "f6316c240c27e6f4",
+    "74820fbc3be3729b",
+    "e23f551e8ed53d6f",
+    "69ff13b125a1a402",
+    "78a7afb96f44a965",
+    "c8ab470c7496b5e7",
+    "e0181e06dec09b7d",
+    "2ebc01a199501c3c",
+    "5cb708783523af6e",
+    "338e5566970ee7d9",
+    "9445f3c540b81000",
+    "8a215518c881dbcb"
+   ]
+  },
+  {
+   "date": "2007-10-20",
+   "future": false,
+   "celex": "01985L0433-20071020",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I — Âmbito de aplicação",
+    "Suprime Artigo 1o",
+    "Suprime CAPÍTULO II — Diplomas, certificados e outros títulos de farmácia",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime CAPÍTULO III — Dereitos adquiridos",
+    "Suprime Artigo 6o",
+    "Suprime CAPÍTULO IV — Uso do título de formação",
+    "Suprime Artigo 7o",
+    "Suprime CAPÍTULO V — Disposições destinadas a facilitar o exercício efectivo do direito de estabelecimento",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime CAPÍTULO VI — Disposições finaies",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o",
+    "Suprime Artigo 21o"
+   ],
+   "fragments": [
+    "ddff8a8116fa8fde"
+   ]
+  }
+ ],
+ "fragments": {
+  "b2388f95ed8b621c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 85/433/CEE do Conselho, de 16 de Setembro de 1985, relativa ao reconhecimento mútuo dos diplomas, certificados e outros títulos em farmácia, includindo medidas destinadas a facilitar o exercício efectivo do direito da estabelecimento para certas actividades do sector farmacêutico** *Jornal Oficial nº L 253 de 24/09/1985 p. 0037 - 0042 Edição especial finlandesa: Capítulo 16 Fascículo 1 p. 0082 Edição especial espanhola: Capítulo 06 Fascículo 3 p. 0028 Edição especial sueca: Capítulo 16 Fascículo 1 p. 0082 Edição especial portuguesa: Capítulo 06 Fascículo 3 p. 0028*\n\nDIRECTIVA DO CONSELHO de 16 de Setembro de 1985 relativa ao reconhecimento mútuo dos diplomas, certificados e outros títulos em farmácia, incluindo medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento para certas actividades do sector farmacêutico\n\n(85/433/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 49o e 57o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que, nos termos do Tratado CEE, é proibido qualquer tratamento discriminatório em razão da nacionalidade em matéria de estabelecimento e de prestação de serviços, desde o fim do período de transição; que o princípio do tratamento nacional assim realizado se aplica, nomeadamente, à emissão de qualquer autorização eventualmente requerida para o acesso a certas actividades, bem como à inscrição ou à filiação em organizações ou organismos profissionais;\n\nConsiderando que se afigura, no entanto, oportuno prever certas disposições com vista a facilitar o exercício efectivo do direito de estabelecimento;\n\nConsiderando que, nos termos do no 3, alinea h), do artigo 54o do Tratado CEE, os Estados-membros são obrigados a não conceder qualquer auxílio susceptível de falsear as condições de estabelecimento;\n\nConsiderando que o no 1 do artigo 57o do Tratado CEE prevê que sejam adoptadas directivas para o reconhecimento mútuo dos diplomas, certificados e outros títulos;\n\nConsiderando que, tendo em conta as disparidades actualmente existentes entre as formações em farmácia ministradas nos Estados-membros, é necessário prever certas disposições de coordenação destinadas a permitir aos Estados-membros procederem ao reconhecimento mútuo dos diplomas, certificados e outros títulos; que esta coordenação foi realizada pela Directiva 85/432/CEE do Conselho, de 16 de Septembro de 1985, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes a certas actividades do sector farmacêutico (4);\n\nConsiderando que o acesso a certas actividades do sector farmacêutico se encontra sujeito, em certos Estados-membros, além da obtenção do diploma, certificado ou outro título, à exigência de uma experiência profissional complementar; que, dado que ainda não existe convergência entre os Estados-membros neste plano, convém, para obviar eventuais dificuldades, reconhecer como condição suficiente uma experiência prática adequada, de duração igual, adquirida noutro Estado-membro;\n\nConsiderando que, no quadro da sua política nacional no domínio da saúde pública, que visa inter alia garantir uma distribuição suficiente dos medicamentos em todo o seu território, certos Estados-membros limitam o número de novas farmácias que podem ser abertas, ao passo que outros não adoptaram qualquer disposição neste sentido; que, nestas condições, é permaturo determinar que os efeitos do reconhecimento dos diplomas, certificados e outros títulos em farmácia devem alargar-se também ao exercício das actividades de farmacêutico enquanto titular de uma farmácia aberta ao público há, pelo menos, três anos; que este problema deve ser reexaminado pela Commissão e pelo Conselho em certo prazo;\n\nConsiderando que, no que respeita à posse de um título de formação, o seu uso só deve ser autorizado na língua do Estado-membro de origem ou de proveniência visto que uma directiva sobre o reconhecimento mútuo dos diplomas não implica necessáriamente a equivalência material das formações a que esses se referem;\n\nConsiderando que, para facilitar a aplicação da presente directiva pelas administrações nacionais, os Estados-membros podem exigir que os beneficiários que preencham as condições de formação por ela requeridas apresentem, juntamente com o seu título de formação, uma declaração das autoridades competentes do Estado-membro de origem ou de proveniência, certificando que tais títulos são os referidos na presente directiva;\n\nConsiderando que a presente directiva não afecta as disposições legislativas, regulamentares e administrativas dos Estados-membros que proibam às sociedades o exercício de certas actividades, ou o sujeitam a certas condições;\n\nConsiderando que é difícil apreciar em que medida poderiam actualmente ser úteis regras destinadas a facilitar a livre prestação de serviços dos farmacêuticos; que, nestas condições, não é oportuno adoptar, de momento, regras deste tipo;\n\nConsiderando que, em matéria de honorabilidade e boa conduta, convém distinguir as condições exigíveis, por um lado, para o primeiro acesso à profissão e, por outro, para o seu exercício;\n\nConsiderando que, no que respeita às actividades assalariadas, o Regulamento (CEE) no 1612/68 do Conselho de 15 de Outubro de 1968, relativo à livre circulação dos trabalhadores no interior da Comunidade (5), não contém disposições específicas às profissões regulamentadas em matéria de boa conduta e honorabilidade, de disciplina profissional e de uso de um título; que, segundo os Estados-membros, tais regulamentações são ou podem ser aplicáveis aos assalariados e aos não-assalariados; que as actividades sujeitas nos Estados-membros à titularidade de um diploma, certificado ou outro título em farmácia são exercidas tanto por independentes como por assalariados ou ainda pelas mesmas pessoas, em ambas as qualidades, no decurso da sua carreira profissional; que, para promover plenamente a livre circulação destes profissionais na Comunidade, se afigura necessário, por consequência, alargar aos trabalhadores assalariados a aplicação da presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "09c58f24a89350b7": {
+   "fragment_id": "CAPÍTULO I — Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Âmbito de aplicação"
+  },
+  "ae7add9d34d7d2a8": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva aplica-se às actividades cujo acesso e exercício estejam sujeitos, num ou em vários Estados-membros, a condições de qualificação profissional e que estejam abertas aos titulares de um dos diplomas, certificados ou outros títulos em farmácia referidos no artigo 4o."
+  },
+  "08e924d12c40a429": {
+   "fragment_id": "CAPÍTULO II — Diplomas, certificados e outros títulos de farmácia",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Diplomas, certificados e outros títulos de farmácia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Diplomas, certificados e outros títulos de farmácia"
+  },
+  "96a10c889f07fee1": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Cada Estado-membro reconhecerá os diplomas, certificados e outros títulos, referidos no artigo 4o, passados aos nacionais dos Estados-membros pelos outros Estados-membros, nos termos do artigo 2o da Directiva 85/432/CEE, conferindo-lhes no seu território, no que respeita ao acesso e exercício das actividades referidas no artigo 1o, o mesmo efeito que atribui aos diplomas, certificados e outros títulos, referidos no artigo 4o, que emitir.\n\n2. Todavia, os Estados-membros não são obrigados a reconhecer efeitos aos diplomas, certificados e outros títulos referidos no no 1, quanto à criação de novas farmácias abertas ao público. Para efeitos de aplicação da presente directiva, são também consideradas como tal as farmácias abertas há menos de três anos.\n\nCinco anos após o termo do prazo previsto no artigo 19o, a Comissão apresentará ao Conselho um relatório sobre a aplicação do primeiro parágrafo, bem como sobre a possibilidade de ampliar os efeitos do reconhecimento mútuo dos diplomas, certificados e outros títulos referidos no no 1. Apresentará, se for caso disso, propostas adequadas."
+  },
+  "9447789930707430": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Em derrogação do artigo 2o e sem prejuízo do artigo 45o do Acto de Adesão de 1979, a República Helénica não é obrigada a reconhecer aos diplomas, certificados e outros títulos emitidos pelos outros Estados-membros os efeitos previstos no artigo 2o, excepto quanto ao exercício na qualidade de assalariado, nos termos do Regulamento (CEE) no 1612/68, das actividades referidas no artigo 1o.\n\nEnquanto a República Helénica usar desta derrogação e sem prejuízio do artigo 45o do Acto de Adesão de 1979, os outros Estados-membros não são obrigados a reconhecer aos certificados referidos, na alínea d) do artigo 4o, o efeito previsto no artigo 2o, a não ser quanto ao exercício na qualidade de assalariado, nos termos do Regulamento (CEE) no 1612/68, das actividades referidas no artigo 1o.\n\n2. Dez anos após o termo do prazo previsto no artigo 19o, a Comissão submeterá ao Conselho propostas adequadas a fim de ampliar os efeitos do reconhecimento mútuo dos diplomas, certificados e outros títulos, de forma a facilitar o exercício efectivo do direito de estabelecimento entre a República Helénica e os outros Estados-membros. O Conselho deliberará sobre estas propostas de acordo com o procedimento estabelecido no Tratado."
+  },
+  "c5551f031dc17d0b": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs diplomas, certificados e outros títulos referidos no artigo 2o são:\n\na) Na Bélgica:\n\nle diplôme légal de pharmacien/het wettelijk diploma van apoteker (diploma legal de farmacêutico), passado nas faculdades de medicina e de farmácia das universidades, pelo júri central ou pelos júris de Estado do ensino universitário;\n\nb) Na Dinamarca:\n\nbevis for bestaaet farmaceutisk kandidateksamen (certificado de aprovação no exame de farmácia);\n\nc) Na República Federal da Alemanha:\n\n1) Zeugnis ueber die staatliche Pharmazeutische Pruefung: (certificado do exame de Estado de farmaceútico) passado pelas autoridades competentes;\n\n2) Atestados das autoridades competentes da República Federal da Alemanha reconhecendo a equivalência dos títulos de forma passados, após 8 de Maio de 1945, pelas autoridades competentes da República Democrática da Alemanha relativamente aos títulos referidos no ponto 1);\n\nd) Na Grécia:\n\nPiatopoiitiko ton armodion archon, ikanotitas askisis tis farmakeftikis, chorigoymeno meta kratiki exetasi (certificado que atesta a capacidade para o exercício da actividade de farmacêutico, passado pelas entidades competentes na sequência de um exame de Estado);\n\ne) Em França:\n\nDiploma de Estado de farmacêutico passado pelas universidades ou o diploma de Estado de Doutor em farmácia passado pelas universidades;\n\nf) Na Irlanda:\n\nO certificado de Registered Pharmaceutical Chemist;\n\ng) Em Itália:\n\nO diploma ou certificado que habilita ao exercício da profissão de farmacêutico, obtido na sequência de um exame de Estado;\n\nh) No Luxemburgo:\n\nO diploma de Estado de farmacêutico passado pelo júri de exame de Estado e rubricado pelo Ministro da Educação Nacional;\n\ni) Nos Países Baixos:\n\nHhet getuigschrift van met goed gevolg afgelegd apothekersexamen (certificado que atesta a aprovação no exame de farmacêutico);\n\nj) No Reino Unido:\n\nO certificado de Registered Pharmaceutical Chemist."
+  },
+  "8c38e5ae1e0de89f": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nQuando, num Estado-membro, o acesso a uma das actividades referidas no artigo 1o ou o seu exercício estiverem sujeitos, além da titularidade de um diploma, à exigência de uma formação profissional complementar, esse Estado reconhecerá como prova suficiente da mesma um atestado passado pelas autoridades competentes do Estado-membro de origem ou de proveniência, certificando que o interessado exerceu as referidas actividades no Estado-membro de origem ou de proveniência, durante um período equivalente.\n\nTodavia, este reconhecimento não se aplica em relação aos dois anos de experiência profissional exigidos pelo Grção-Ducado do Luxemburgo para a atribuição de uma concessão estatal de farmácia aberta ao público."
+  },
+  "c3decccc79918d5f": {
+   "fragment_id": "CAPÍTULO III — Dereitos adquiridos",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — Dereitos adquiridos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Dereitos adquiridos"
+  },
+  "3bcbfa810f786929": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs diplomas, certificados e outros títulos universitários ou qualificações equivalentes em farmácia passados aos nacionais dos Estados-membros pelos Estados-membros e que não correspondam a todas os requisitos mínimos de formação previstos no artigo 2o da Directiva 84/432/CEE são equiparados aos diplomas que preenchem tais requisitos se:\n\n- constituirem prova de uma formação concluída antes da aplicação da referida directiva,\n\nou\n\n- constituirem prova de uma formação concluída após a aplicação da referida directiva mas iniciada antes de tal aplicação,\n\ne, em qualquer caso:\n\n- forem acompanhados por um atestado declarando que os seus titulares se dedicaram, efectiva e lícitamente, num Estado-membro, durante, pelo menos, três anos consecutivos, no decurso dos cinco anos anteriores à emissão do atestado, a uma das actividades referidas no no 2 do artigo 1o da Directiva 85/432/CEE, desde que essa actividade esteja regulamentada nesse Estado."
+  },
+  "c000a1cfa679641e": {
+   "fragment_id": "CAPÍTULO IV — Uso do título de formação",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — Uso do título de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Uso do título de formação"
+  },
+  "d733ebeada44edad": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Sem prejuízo do disposto no artigo 14o, os Estados-membros de acolhimento velarão por que seja reconhecido aos nacionais dos Estados-membros que preencham as condições previstas nos artigos 2o, 5o e 6o o direito de usar o seu título de farmação legítimo e, eventualmente, a sua abreviatura, do Estado-membro de origem ou de proveniência, na língua desse Estado. Os Estados-membros de acolhimento podem exigir que esse título seja seguido pelo nome e lugar do estabelecimento ou júri que o emitiu.\n\n2. Se o título de formação do Estado-membro de origem ou de proveniência puder ser confundido, no Estado-membro de acolhimento, com um título que exija, nesse Estado, uma formação complementar não adquirida pelo beneficiário, esse Estado-membro de acolhimento pode exigir que o benefiário use o seu título de formação do Estado-membro de origem ou de proveniência numa fórmula adequada, que esse Estado-membro de acolhimento indicará."
+  },
+  "6d17ee9a51ffb430": {
+   "fragment_id": "CAPÍTULO V — Disposições destinadas a facilitar o exercício efectivo do direito de estabelecimento",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — Disposições destinadas a facilitar o exercício efectivo do direito de estabelecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições destinadas a facilitar o exercício efectivo do direito de estabelecimento"
+  },
+  "e26d80bbe2c726ed": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. O Estado-membro de acolhimento que exija dos seus nacionais uma prova de honorabilidade ou boa conduta para o primeiro acesso a uma das actividades referidas no artigo 1o aceitará como prova suficiente, relativamente aos nacionais dos outros Estados-membros, um atestado emitido por uma autoridade competente do Estado-membro de origem ou de proveniência, certificado que estão preenchidas os requisitos de honorabilidade ou boa conduta exigidos nesse Estado-membro para o acesso à actividade em questão.\n\n2. Sempre que o Estado-membro de origem ou de proveniência não exigir prova de honorabilidade ou boa conduta o primeiro acesso à actividade em questão, o Estado-membro de acolhimento pode exigir dos nacionais do Estado-membro de origem ou de proveniência a apresentação de um certificado do registo criminal ou, na falta deste, de um documento equivalente emitido por uma autoridade competente do Estado-membro de origem ou de proveniência.\n\n3. O Estado-membro de acolhimento pode, se tiver conhecimento de factos graves e precisos ocorridos, fora do seu território, anteriormente ao estabelecimento do interessado nesse Estado e susceptíveis de nele terem consequências relativamente ao acesso à actividade em questão, informar desse facto o Estado de origem ou de proveniência.\n\nO Estado-membro de origem ou de proveniência examinará a veracidade dos factos na medida em que sejam susceptíveis de nele terem consequências relativamente ao acesso à actividade em questão. As autoridades deste Estado decidirão sobre a natureza e a amplitude das investigações que devem ser feitas e comunicarão ao Estado-membro de acolhimento as consequências daí decorrentes em relação aos atestados ou documentos que hajam emitido.\n\n4. Os Estados-membros assegurarão o segredo das informações transmitidas."
+  },
+  "1db3f09bcdeba368": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Sempre que, num Estado-membro de acolhimento, estiverem em vigor disposições legislativas, regulamentares e administrativas relativas à honorabilidade ou boa conduta, incluindo disposições que prevejam sanções disciplinares em caso de má conduta profissional grave ou de condenação por crime e relativas ao exercício de uma das actividades referidas no artigo 1o, o Estado-membro de origem ou de proveniência transmitirá ao Estado-membro de acolhimento as informações necessárias relativas às medidas ou sanções de carácter profissional ou administrativo tomadas em relação ao interessado, bem como às sanções penais referentes ao exercício da profissão no Estado-membro de origem ou de proveniência.\n\n2. O Estado-membro de acolhimento pode, se tiver conhecimento de factos graves e precisos ocorridos, fora do seu território, anteriormente ao estabelecimento do interessado neste estado e susceptíveis de nele terem consequências relativamente ao exercício de actividade em questão, informar desse facto o Estado-membro de origem ou de proveniência.\n\nO Estado-membro de origem ou de proveniência examinará a veracidade dos factos na medida em que sejam susceptíveis de nele terem consequências relativamente ao exercício da actividade em questão. As autoridades deste Estado decidirão sobre a natureza e a amplitude das investigações que devem ser feitas e comunicarão ao Estado-membro de acolhimento as consequências daí decorrentes em relação às informações que tenham transmitido por força do no 1.\n\n3. Os Estados-membros assegurarão o segredo das informações transmitidas."
+  },
+  "d6a006f22caf6cf3": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nSempre que o Estado-membro de acolhimento exigir dos seus nacionais, para o acesso a uma das actividades referidas no artigo 1o ou para o seu exercício, um documento relativo à saúde física ou psíquica, aceitará como prova suficiente a apresentação do documento exigido no Estado-membro de origem ou de proveniência.\n\nSempre que o Estado-membro de origem ou de proveniência não exigir qualquer documento desta natureza para o acesso à actividade em causa ou ao seu exercício, o Estado-membro de acolhimento aceitará dos nacionais do Estado-membro de origem ou de proveniência um atestado emitido por uma autoridade competente desse Estado, correspondente aos atestados do Estado-membro de acolhimento."
+  },
+  "f6316c240c27e6f4": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nOs documentos referidos nos artigos 8o, 9o e 10o não podem ser apresentados mais de três meses após a data da sua emissão."
+  },
+  "74820fbc3be3729b": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. O procedimento de admissão do beneficiário ao acesso a uma das actividades referidas no artigo 1o, em conformidade com os artigos 8o, 9o e 10o, deve ser concluído o mais rapidamente possível e, o mais tardar, três meses após a apresentação de todos os documentos relativos ao interessado, sem prejuízo dos prazos que podem resultar de um eventual recurso na sequência desse procedimento.\n\n2. Nos casos referidos, no no 3 do artigo 8o e no no 2 do artigo 9o, o pedido de reexame suspende o decurso do prazo referido no no 1.\n\nO Estado-membro de origem ou de proveniência consultado deve dar a sua resposta no prazo de três meses.\n\nO Estado-membro de acolhimento prosseguirá o procedimento referido no no 1 após recepção dessa resposta ou no termo desse prazo."
+  },
+  "e23f551e8ed53d6f": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nSempre que um Estado-membro de acolhimento exigir dos seus nacionais a prestação de juramento ou de uma declaração solene para o acesso a uma das actividades referidas no artigo 1o ou para o seu exercício, e caso a fórmula desse juramento ou declaração não possa ser utilizada pelos nacionais dos outros Estados-membros, o Estado-membro de acolhimento providenciará para que possa ser apresentada aos interessados uma fórmula adequada e equivalente."
+  },
+  "69ff13b125a1a402": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nSempre que, num Estado-membro de acolhimento, o uso do título profissional relativo a uma das actividades referidas no artigo 1o estiver regulamentado, os nacionais dos Estados-membros que preencham as condições de formação previstas nos artigos 2o, 5o e 6o, usarão o título profissional do Estado-membro de acolhimento que, nesse Estado, corresponda a tais condições, e farão uso da sua abreviatura."
+  },
+  "78a7afb96f44a965": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\n1. Os Estados-membros tomarão todas as medidas necessárias para permitir aos beneficiários obterem informações sobre as legislações sanitária e social, bem como, se for caso disso, sobre a deontologia do Estado-membro de acolhimento.\n\nPara este efeito, os Estados-membros podem criar serviços de informação junto dos quais os beneficiários obterão as informações necessárias. Os Estados-membros de acolhimento podem obrigar os beneficiários a contactar esses serviços.\n\n2. Os Estados-membros podem criar os serviços referidos no no 1 junto das autoridades e organismos competentes que designarem no prazo previsto no no 1 do artigo 19o.\n\n3. Os Estados-membros velarão por que os beneficiários adquiram, se for caso disso, no seu próprio interesse e no dos seus clientes, os conhecimentos linguísticos necessários ao exercício da sua actividade profissional no Estado-membro de acolhimento."
+  },
+  "c8ab470c7496b5e7": {
+   "fragment_id": "CAPÍTULO VI — Disposições finaies",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — Disposições finaies",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições finaies"
+  },
+  "e0181e06dec09b7d": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nO Estado-membro de acolhimento pode, em casó de dúvida justificada, exigir das autoridades competentes de um outro Estado-membro uma confirmação da autenticidade dos diplomas, certificados e outros títulos emitidos nesse outro Estado-membro e referidos nos Capítulos II e III, bem como a confirmação de que o beneficiário cumpriu todas as condições de formação previstas na Directiva 85/432/CEE."
+  },
+  "2ebc01a199501c3c": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nOs Estados-membros designarão, no prazo previsto no no 1 do artigo 19o, as autoridades e organismos que podem emitir ou receber diplomas, certificados e outros títulos, bem como documentos ou informações referidas na presente directiva, e informarão desse facto os outros Estados-membros e a Comissão."
+  },
+  "5cb708783523af6e": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nA presente directiva é igualmente aplicável aos nacionais dos Estados-membros que, nos termos do Regulamento (CEE) no 1612/68, exercem ou venham a exercer, na qualidade de assalariados, uma das actividades referidas no artigo 1o."
+  },
+  "338e5566970ee7d9": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\n1. Os Estados-membros tomarão todas as medidas necessárias para darem cumprimento à presente directiva antes de 1 de Outubro de 1987. Desse facto, informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptem no domínio abrangido pela presente directiva."
+  },
+  "9445f3c540b81000": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\nSe um Estado-membro encontrar dificuldades de vulto na aplicação da presente directiva a certos domínios, a Comissão examinará essas dificuldades em colaboração com esse Estado e obterá o parecer do Comité Farmacêutico instituído pela Decisão 75/320/CEE (6).\n\nSe for caso disso, a Comissão submeterá propostas adequadas ao Conselho."
+  },
+  "8a215518c881dbcb": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo em 16 de Setembro de 1985.\n\nPelo Conselho\n\nO Presidente\n\nM. FISCHBACH\n\n(1) JO no C 35 de 18. 2. 1981, p. 6, e JO no C 40 de 18. 2. 1984, p. 4.(2) JO no C 277 de 17. 10. 1983, p. 160.(3) JO no C 230 de 10. 9. 1981, p. 10.(4) JO no L 253 de 24. 9. 1985, p. 34.(5) JO no L 257 de 19. 10. 1968, p. 2.(6) JO no L 147 de 9. 6. 1975, p. 23."
+  },
+  "ddff8a8116fa8fde": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1985L0433 — PT — 20.10.2007 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31985L0433) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31985L0433) [de 16 de Setembro de 1985](http://publications.europa.eu/resource/celex/31985L0433) [relativa ao reconhecimento mútuo dos diplomas, certificados e outros títulos em farmácia, incluindo medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento para certas actividades do sector farmacêutico](http://publications.europa.eu/resource/celex/31985L0433) [(85/433/CEE)](http://publications.europa.eu/resource/celex/31985L0433) (JO L 253, 24.9.1985, p.37)\n\n**revogado por:**\n\n- [Directiva 2005/36/CE do Parlamento Europeu e do Conselho de 7 de Setembro de 2005](http://publications.europa.eu/resource/celex/32005L0036) — L 255 — 22 — 30.9.2005"
+  }
+ }
+}

@@ -36,6 +36,99 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-01-13'
+version_history:
+  file: regulamento-ue-2008-657.versoes.json
+  count: 5
+  source_lastmod: '2017-01-13'
+  versions:
+  - date: '2008-07-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-17'
+    amending: eu:celex:32009R0966:por
+    amending_title: REGULAMENTO (CE) N. o 966/2009 DA COMISSÃO de 15 de Outubro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 15.º — Controlos e sanções
+    - Altera Artigo 20.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita LISTA DOS PRODUTOS ELEGÍVEIS PARA A AJUDA COMUNITÁRIA
+    - Adita Categoria I
+    - Adita Categoria II
+    - Adita Categoria III
+    - Adita Categoria IV
+    - Adita Categoria V
+    - Adita ANEXO II
+    - Adita Montantes da ajuda
+    - Adita ANEXO III
+    - Adita Requisitos mínimos aplicáveis ao cartaz sobre o regime europeu de distribuição de leite às escolas
+    - Adita ANEXO IV
+  - date: '2011-10-11'
+    amending: eu:celex:32011R0996:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 996/2011 DA COMISSÃO de 7 de Outubro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 15.º — Controlos e sanções
+    - Altera Categoria I
+    - Altera Categoria II
+    - Altera Categoria III
+    - Altera Categoria V
+    - Altera Notas
+    - Adita Artigo 17.º — Notificações
+    - Suprime Artigo 17.º — Comunicações
+  - date: '2013-08-01'
+    amending: eu:celex:32013R0756:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 756/2013 DA COMISSÃO de 6 de agosto de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Pedido de pagamento da ajuda
+    - Altera Artigo 15.º — Controlos e sanções
+    - Altera Artigo 17.º — Notificações
+    - Altera Categoria I
+    - Altera Categoria II
+    - Altera Categoria III
+    - Altera Categoria V
+    - Altera Notas
+  - date: '2017-01-13'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Beneficiários da ajuda
+    - Suprime Artigo 3.º — Produtos elegíveis
+    - Suprime Artigo 4.º — Montante da ajuda
+    - Suprime Artigo 5.º — Quantidade máxima subvencionável
+    - Suprime Artigo 6.º — Condições gerais para a concessão da ajuda
+    - Suprime Artigo 7.º — Aprovação dos requerentes
+    - Suprime Artigo 8.º — Condições gerais de aprovação
+    - Suprime Artigo 9.º — Condições específicas para a aprovação de determinados requerentes
+    - Suprime Artigo 10.º — Suspensão e revogação da aprovação
+    - Suprime Artigo 11.º — Pedido de pagamento da ajuda
+    - Suprime Artigo 12.º — Pagamento da ajuda
+    - Suprime Artigo 13.º — Pagamento de adiantamentos
+    - Suprime Artigo 14.º — Controlo do preço
+    - Suprime Artigo 15.º — Controlos e sanções
+    - Suprime Artigo 16.º — Cartaz sobre o regime europeu de distribuição de leite às escolas
+    - Suprime Artigo 17.º — Notificações
+    - Suprime Artigo 18.º — Revogação
+    - Suprime Artigo 19.º — Disposição transitória
+    - Suprime Artigo 20.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime LISTA DOS PRODUTOS ELEGÍVEIS PARA A AJUDA COMUNITÁRIA
+    - Suprime Categoria I
+    - Suprime Categoria II
+    - Suprime Categoria III
+    - Suprime Categoria IV
+    - Suprime Categoria V
+    - Suprime ANEXO II
+    - Suprime Montantes da ajuda
+    - Suprime ANEXO III
+    - Suprime Requisitos mínimos aplicáveis ao cartaz sobre o regime europeu de distribuição de leite às escolas
+    - Suprime ANEXO IV
+    - Suprime Notas
 identifiers:
   celex: 32008R0657
   eli: http://data.europa.eu/eli/reg/2008/657/oj
@@ -50,7 +143,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ca5253ec-6708-4f56-a3e0-a8214e6bcdd7.0018
   content_url: http://publications.europa.eu/resource/cellar/262e1c68-b38d-4bb2-a18f-84fc48c816de.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0657-20170113
-  retrieved_at: '2026-10-22T02:58:59Z'
+  retrieved_at: '2026-10-22T15:16:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T03:05:13.395+01:00'
 integrity:
@@ -59,9 +152,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:59Z'
-  notes: Texto consolidado 02008R0657-20170113.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:16:21Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2008-657.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -159,16 +252,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:59Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:16:21Z'
+  warnings: []
   errors: []
 ---
 

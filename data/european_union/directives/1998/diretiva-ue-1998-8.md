@@ -35,6 +35,624 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-09-01'
+version_history:
+  file: diretiva-ue-1998-8.versoes.json
+  count: 27
+  source_lastmod: '2013-09-01'
+  versions:
+  - date: '1998-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-06-19'
+    amending: eu:celex:32003R1882:por
+    amending_title: REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003; DIRECTIVA
+      2006/50/CE DA COMISSÃO Texto relevante para efeitos do EEE de 29 de Maio de 2006
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º — Âmbito de aplicação
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 3.º — Autorização de colocação de produtos biocidas no mercado
+    - Adita Artigo 4.º — Reconhecimento mútuo de autorizações
+    - Adita Artigo 5.º — Condições de concessão das autorizações
+    - Adita Artigo 6.º — Revisão das autorizações
+    - Adita Artigo 7.º — Retirada ou alteração das autorizações
+    - Adita Artigo 8.º — Requisitos para a autorização
+    - Adita Artigo 9.º — Colocação de substâncias activas no mercado
+    - Adita Artigo 10.º — Conclusão de substâncias activas nos anexos I, I A ou I B
+    - Adita Artigo 11.º — Procedimento com vista à inclusão de uma substância activa nos anexos I, I A ou I B
+    - Adita Artigo 12.º — Utilização por outros requerentes dos dados na posse das autoridades competentes
+    - Adita Artigo 13.º — Cooperação na utilização de dados para os pedidos subsequentes de autorização
+    - Adita Artigo 14.º — Novos dados
+    - Adita Artigo 15.º — Derrogações aos requisitos
+    - Adita Artigo 16.º — Medidas transitórias
+    - Adita Artigo 17.º — Investigação e desenvolvimento
+    - Adita Artigo 18.º — Intercâmbio de informações
+    - Adita Artigo 19.º — Confidencialidade
+    - Adita Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Adita Artigo 21.º — Fichas de segurança
+    - Adita Artigo 22.º — Publicidade
+    - Adita Artigo 23.º — Controlo de produtos venenosos
+    - Adita Artigo 24.º — Observância dos requisitos
+    - Adita Artigo 25.º — Encargos
+    - Adita Artigo 26.º — Autoridades competentes
+    - Adita Artigo 27.º — Procedimentos a nível da Comissão
+    - Adita Artigo 28.º — Comités e procedimentos
+    - Adita Artigo 29.º — Adaptação ao progresso técnico
+    - Adita Artigo 30.º — Alteração ou adaptação dos anexos V e VI
+    - Adita Artigo 31.º — Responsabilidade civil e penal
+    - Adita Artigo 32.º — Cláusula de salvaguarda
+    - Adita Artigo 33.º — Notas técnicas de orientação
+    - Adita Artigo 34.º — Aplicação da directiva
+    - Adita Artigo 35.º
+    - Adita Artigo 36.º
+    - Adita ANEXO I
+    - Adita LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Adita ANEXO I A
+  - date: '2007-01-19'
+    amending: eu:celex:32006L0140:por
+    amending_title: DIRECTIVA 2006/140/CE DA COMISSÃO Texto relevante para efeitos do EEE de 20 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera Artigo 28.º — Comités e procedimentos
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2007-04-24'
+    amending: eu:celex:32007L0020:por
+    amending_title: DIRECTIVA 2007/20/CE DA COMISSÃO Texto relevante para efeitos do EEE de 3 de Abril de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera Artigo 28.º — Comités e procedimentos
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2007-10-11'
+    amending: eu:celex:32007L0047:por
+    amending_title: DIRECTIVA 2007/47/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5 de Setembro
+      de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera Artigo 28.º — Comités e procedimentos
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2007-12-20'
+    amending: eu:celex:32007L0069:por
+    amending_title: DIRECTIVA 2007/69/CE DA COMISSÃO Texto relevante para efeitos do EEE de 29 de Novembro de 2007; DIRECTIVA
+      2007/70/CE DA COMISSÃO Texto relevante para efeitos do EEE de 29 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera Artigo 28.º — Comités e procedimentos
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+      DE BAIXO RISCO
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2008-03-07'
+    amending: eu:celex:32008L0015:por
+    amending_title: DIRECTIVA 2008/15/CE DA COMISSÃO Texto relevante para efeitos do EEE de 15 de Fevereiro de 2008; DIRECTIVA
+      2008/16/CE DA COMISSÃO Texto relevante para efeitos do EEE de 15 de Fevereiro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera Artigo 28.º — Comités e procedimentos
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2008-03-21'
+    amending: eu:celex:32008L0031:por
+    amending_title: DIRECTIVA 2008/31/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 10.º — Conclusão de substâncias activas nos anexos I, I A ou I B
+    - Altera Artigo 11.º — Procedimento com vista à inclusão de uma substância activa nos anexos I, I A ou I B
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 17.º — Investigação e desenvolvimento
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera Artigo 27.º — Procedimentos a nível da Comissão
+    - Altera Artigo 28.º — Comités e procedimentos
+    - Altera Artigo 29.º — Adaptação ao progresso técnico
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2008-09-26'
+    amending: eu:celex:32008L0075:por
+    amending_title: DIRECTIVA 2008/75/CE DA COMISSÃO Texto relevante para efeitos do EEE de 24 de Julho de 2008; DIRECTIVA
+      2008/77/CE DA COMISSÃO Texto relevante para efeitos do EEE de 25 de Julho de 2008; DIRECTIVA 2008/78/CE DA COMISSÃO
+      Texto relevante para efeitos do EEE de 25 de Julho de 2008; DIRECTIVA 2008/79/CE DA COMISSÃO Texto relevante para efeitos
+      do EEE de 28 de Julho de 2008; DIRECTIVA 2008/80/CE DA COMISSÃO Texto relevante para efeitos do EEE de 28 de Julho de
+      2008; DIRECTIVA 2008/81/CE DA COMISSÃO Texto relevante para efeitos do EEE de 29 de Julho de 2008; DIRECTIVA 2008/85/CE
+      DA COMISSÃO Texto relevante para efeitos do EEE de 5 de Setembro de 2008; DIRECTIVA 2008/86/CE DA COMISSÃO Texto relevante
+      para efeitos do EEE de 5 de Setembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2009-08-25'
+    amending: eu:celex:32009L0084:por
+    amending_title: DIRECTIVA 2009/84/CE DA COMISSÃO Texto relevante para efeitos do EEE de 28 de Julho de 2009; DIRECTIVA
+      2009/85/CE DA COMISSÃO Texto relevante para efeitos do EEE de 29 de Julho de 2009; DIRECTIVA 2009/86/CE DA COMISSÃO
+      Texto relevante para efeitos do EEE de 29 de Julho de 2009; DIRECTIVA 2009/87/CE DA COMISSÃO Texto relevante para efeitos
+      do EEE de 29 de Julho de 2009; DIRECTIVA 2009/88/CE DA COMISSÃO Texto relevante para efeitos do EEE de 30 de Julho de
+      2009; DIRECTIVA 2009/89/CE DA COMISSÃO Texto relevante para efeitos do EEE de 30 de Julho de 2009; DIRECTIVA 2009/91/CE
+      DA COMISSÃO Texto relevante para efeitos do EEE de 31 de Julho de 2009; DIRECTIVA 2009/92/CE DA COMISSÃO Texto relevante
+      para efeitos do EEE de 31 de Julho de 2009; DIRECTIVA 2009/93/CE DA COMISSÃO Texto relevante para efeitos do EEE de
+      31 de Julho de 2009; DIRECTIVA 2009/94/CE DA COMISSÃO Texto relevante para efeitos do EEE de 31 de Julho de 2009; DIRECTIVA
+      2009/95/CE DA COMISSÃO Texto relevante para efeitos do EEE de 31 de Julho de 2009; DIRECTIVA 2009/96/CE DA COMISSÃO
+      Texto relevante para efeitos do EEE de 31 de Julho de 2009; DIRECTIVA 2009/98/CE DA COMISSÃO Texto relevante para efeitos
+      do EEE de 4 de Agosto de 2009; DIRECTIVA 2009/99/CE DA COMISSÃO Texto relevante para efeitos do EEE de 4 de Agosto de
+      2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2009-10-26'
+    amending: eu:celex:32009L0107:por
+    amending_title: DIRECTIVA 2009/107/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 16 de
+      Setembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 12.º — Utilização por outros requerentes dos dados na posse das autoridades competentes
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2009-12-18'
+    amending: eu:celex:32009L0150:por
+    amending_title: DIRECTIVA 2009/150/CE DA COMISSÃO Texto relevante para efeitos do EEE de 27 de Novembro de 2009; DIRECTIVA
+      2009/151/CE DA COMISSÃO Texto relevante para efeitos do EEE de 27 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2010-03-02'
+    amending: eu:celex:32010L0005:por
+    amending_title: DIRECTIVA 2010/5/UE DA COMISSÃO Texto relevante para efeitos do EEE de 8 de Fevereiro de 2010; DIRECTIVA
+      2010/7/UE DA COMISSÃO Texto relevante para efeitos do EEE de 9 de Fevereiro de 2010; DIRECTIVA 2010/8/UE DA COMISSÃO
+      Texto relevante para efeitos do EEE de 9 de Fevereiro de 2010; DIRECTIVA 2010/9/UE DA COMISSÃO Texto relevante para
+      efeitos do EEE de 9 de Fevereiro de 2010; DIRECTIVA 2010/10/UE DA COMISSÃO Texto relevante para efeitos do EEE de 9
+      de Fevereiro de 2010; DIRECTIVA 2010/11/UE DA COMISSÃO Texto relevante para efeitos do EEE de 9 de Fevereiro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2010-09-01'
+    amending: eu:celex:32010L0050:por
+    amending_title: DIRECTIVA 2010/50/UE DA COMISSÃO Texto relevante para efeitos do EEE de 10 de Agosto de 2010; DIRECTIVA
+      2010/51/UE DA COMISSÃO Texto relevante para efeitos do EEE de 11 de Agosto de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera PRODUTOS QUÍMICOS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2010-11-30'
+    amending: eu:celex:32010L0071:por
+    amending_title: DIRECTIVA 2010/71/UE DA COMISSÃO Texto relevante para efeitos do EEE de 4 de Novembro de 2010; DIRECTIVA
+      2010/72/UE DA COMISSÃO Texto relevante para efeitos do EEE de 4 de Novembro de 2010; DIRECTIVA 2010/74/UE DA COMISSÃO
+      Texto relevante para efeitos do EEE de 9 de Novembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2011-03-01'
+    amending: eu:celex:32011L0010:por
+    amending_title: Directiva 2011/10/UE da Comissão Texto relevante para efeitos do EEE de 8 de Fevereiro de 2011; Directiva
+      2011/11/UE da Comissão Texto relevante para efeitos do EEE de 8 de Fevereiro de 2011; Directiva 2011/12/UE da Comissão
+      Texto relevante para efeitos do EEE de 8 de Fevereiro de 2011; Directiva 2011/13/UE da Comissão Texto relevante para
+      efeitos do EEE de 8 de Fevereiro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Reconhecimento mútuo de autorizações
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 10.º — Conclusão de substâncias activas nos anexos I, I A ou I B
+    - Altera Artigo 15.º — Derrogações aos requisitos
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera Artigo 27.º — Procedimentos a nível da Comissão
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+      DE BAIXO RISCO
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2011-07-22'
+    amending: eu:celex:32011L0066:por
+    amending_title: DIRECTIVA 2011/66/UE DA COMISSÃO Texto relevante para efeitos do EEE de 1 de Julho de 2011; DIRECTIVA
+      2011/67/UE DA COMISSÃO Texto relevante para efeitos do EEE de 1 de Julho de 2011; DIRECTIVA 2011/69/UE DA COMISSÃO Texto
+      relevante para efeitos do EEE de 1 de Julho de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Reconhecimento mútuo de autorizações
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 10.º — Conclusão de substâncias activas nos anexos I, I A ou I B
+    - Altera Artigo 15.º — Derrogações aos requisitos
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera Artigo 27.º — Procedimentos a nível da Comissão
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2011-08-16'
+    amending: eu:celex:32011L0071:por
+    amending_title: DIRECTIVA 2011/71/UE DA COMISSÃO Texto relevante para efeitos do EEE de 26 de Julho de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2011-10-11'
+    amending: eu:celex:32011L0078:por
+    amending_title: DIRECTIVA 2011/78/UE DA COMISSÃO Texto relevante para efeitos do EEE de 20 de Setembro de 2011; DIRECTIVA
+      2011/79/UE DA COMISSÃO Texto relevante para efeitos do EEE de 20 de Setembro de 2011; DIRECTIVA 2011/80/UE DA COMISSÃO
+      Texto relevante para efeitos do EEE de 20 de Setembro de 2011; DIRECTIVA 2011/81/UE DA COMISSÃO Texto relevante para
+      efeitos do EEE de 20 de Setembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2012-03-01'
+    amending: eu:celex:32012L0002:por
+    amending_title: DIRETIVA 2012/2/UE DA COMISSÃO Texto relevante para efeitos do EEE de 9 de fevereiro de 2012; DIRETIVA
+      2012/3/UE DA COMISSÃO Texto relevante para efeitos do EEE de 9 de fevereiro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2012-05-31'
+    amending: eu:celex:32012L0014:por
+    amending_title: DIRETIVA 2012/14/UE DA COMISSÃO Texto relevante para efeitos do EEE de 8 de maio de 2012; DIRETIVA 2012/15/UE
+      DA COMISSÃO Texto relevante para efeitos do EEE de 8 de maio de 2012; DIRETIVA 2012/16/UE DA COMISSÃO Texto relevante
+      para efeitos do EEE de 10 de maio de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2012-07-27'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Autorização de colocação de produtos biocidas no mercado
+    - Suprime Artigo 4.º — Reconhecimento mútuo de autorizações
+    - Suprime Artigo 5.º — Condições de concessão das autorizações
+    - Suprime Artigo 6.º — Revisão das autorizações
+    - Suprime Artigo 7.º — Retirada ou alteração das autorizações
+    - Suprime Artigo 8.º — Requisitos para a autorização
+    - Suprime Artigo 9.º — Colocação de substâncias activas no mercado
+    - Suprime Artigo 10.º — Conclusão de substâncias activas nos anexos I, I A ou I B
+    - Suprime Artigo 11.º — Procedimento com vista à inclusão de uma substância activa nos anexos I, I A ou I B
+    - Suprime Artigo 12.º — Utilização por outros requerentes dos dados na posse das autoridades competentes
+    - Suprime Artigo 13.º — Cooperação na utilização de dados para os pedidos subsequentes de autorização
+    - Suprime Artigo 14.º — Novos dados
+    - Suprime Artigo 15.º — Derrogações aos requisitos
+    - Suprime Artigo 16.º — Medidas transitórias
+    - Suprime Artigo 17.º — Investigação e desenvolvimento
+    - Suprime Artigo 18.º — Intercâmbio de informações
+    - Suprime Artigo 19.º — Confidencialidade
+    - Suprime Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Suprime Artigo 21.º — Fichas de segurança
+    - Suprime Artigo 22.º — Publicidade
+    - Suprime Artigo 23.º — Controlo de produtos venenosos
+    - Suprime Artigo 24.º — Observância dos requisitos
+    - Suprime Artigo 25.º — Encargos
+    - Suprime Artigo 26.º — Autoridades competentes
+    - Suprime Artigo 27.º — Procedimentos a nível da Comissão
+    - Suprime Artigo 28.º — Comités e procedimentos
+    - Suprime Artigo 29.º — Adaptação ao progresso técnico
+    - Suprime Artigo 30.º — Alteração ou adaptação dos anexos V e VI
+    - Suprime Artigo 31.º — Responsabilidade civil e penal
+    - Suprime Artigo 32.º — Cláusula de salvaguarda
+    - Suprime Artigo 33.º — Notas técnicas de orientação
+    - Suprime Artigo 34.º — Aplicação da directiva
+    - Suprime Artigo 35.º
+    - Suprime Artigo 36.º
+    - Suprime ANEXO I
+    - Suprime LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS
+      BIOCIDAS
+    - Suprime ANEXO I A
+  - date: '2012-09-12'
+    amending: eu:celex:32012L0020:por
+    amending_title: DIRETIVA 2012/20/UE DA COMISSÃO Texto relevante para efeitos do EEE de 6 de julho de 2012; DIRETIVA 2012/22/UE
+      DA COMISSÃO Texto relevante para efeitos do EEE de 22 de agosto de 2012
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º — Âmbito de aplicação
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 3.º — Autorização de colocação de produtos biocidas no mercado
+    - Adita Artigo 4.º — Reconhecimento mútuo de autorizações
+    - Adita Artigo 5.º — Condições de concessão das autorizações
+    - Adita Artigo 6.º — Revisão das autorizações
+    - Adita Artigo 7.º — Retirada ou alteração das autorizações
+    - Adita Artigo 8.º — Requisitos para a autorização
+    - Adita Artigo 9.º — Colocação de substâncias activas no mercado
+    - Adita Artigo 10.º — Conclusão de substâncias activas nos anexos I, I A ou I B
+    - Adita Artigo 11.º — Procedimento com vista à inclusão de uma substância activa nos anexos I, I A ou I B
+    - Adita Artigo 12.º — Utilização por outros requerentes dos dados na posse das autoridades competentes
+    - Adita Artigo 13.º — Cooperação na utilização de dados para os pedidos subsequentes de autorização
+    - Adita Artigo 14.º — Novos dados
+    - Adita Artigo 15.º — Derrogações aos requisitos
+    - Adita Artigo 16.º — Medidas transitórias
+    - Adita Artigo 17.º — Investigação e desenvolvimento
+    - Adita Artigo 18.º — Intercâmbio de informações
+    - Adita Artigo 19.º — Confidencialidade
+    - Adita Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Adita Artigo 21.º — Fichas de segurança
+    - Adita Artigo 22.º — Publicidade
+    - Adita Artigo 23.º — Controlo de produtos venenosos
+    - Adita Artigo 24.º — Observância dos requisitos
+    - Adita Artigo 25.º — Encargos
+    - Adita Artigo 26.º — Autoridades competentes
+    - Adita Artigo 27.º — Procedimentos a nível da Comissão
+    - Adita Artigo 28.º — Comités e procedimentos
+    - Adita Artigo 29.º — Adaptação ao progresso técnico
+    - Adita Artigo 30.º — Alteração ou adaptação dos anexos V e VI
+    - Adita Artigo 31.º — Responsabilidade civil e penal
+    - Adita Artigo 32.º — Cláusula de salvaguarda
+    - Adita Artigo 33.º — Notas técnicas de orientação
+    - Adita Artigo 34.º — Aplicação da directiva
+    - Adita Artigo 35.º
+    - Adita Artigo 36.º
+    - Adita ANEXO I
+    - Adita LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Adita ANEXO I A
+  - date: '2012-12-17'
+    amending: eu:celex:32012L0038:por
+    amending_title: DIRETIVA 2012/38/UE DA COMISSÃO Texto relevante para efeitos do EEE de 23 de novembro de 2012; DIRETIVA
+      2012/40/UE DA COMISSÃO Texto relevante para efeitos do EEE de 26 de novembro de 2012; DIRETIVA 2012/41/UE DA COMISSÃO
+      Texto relevante para efeitos do EEE de 26 de novembro de 2012; DIRETIVA 2012/42/UE DA COMISSÃO Texto relevante para
+      efeitos do EEE de 26 de novembro de 2012; DIRETIVA 2012/43/UE DA COMISSÃO Texto relevante para efeitos do EEE de 26
+      de novembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2013-03-14'
+    amending: eu:celex:32013L0003:por
+    amending_title: DIRETIVA 2013/3/UE DA COMISSÃO Texto relevante para efeitos do EEE de 14 de fevereiro de 2013; DIRETIVA
+      2013/4/UE DA COMISSÃO Texto relevante para efeitos do EEE de 14 de fevereiro de 2013; DIRETIVA 2013/5/UE DA COMISSÃO
+      Texto relevante para efeitos do EEE de 14 de fevereiro de 2013; DIRETIVA 2013/6/UE DA COMISSÃO Texto relevante para
+      efeitos do EEE de 20 de fevereiro de 2013; DIRETIVA 2013/7/UE DA COMISSÃO Texto relevante para efeitos do EEE de 21
+      de fevereiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2013-08-20'
+    amending: eu:celex:32013L0027:por
+    amending_title: DIRETIVA 2013/27/UE DA COMISSÃO Texto relevante para efeitos do EEE de 17 de maio de 2013; DIRETIVA 2013/41/UE
+      DA COMISSÃO Texto relevante para efeitos do EEE de 18 de julho de 2013; DIRETIVA 2013/44/UE DA COMISSÃO Texto relevante
+      para efeitos do EEE de 30 de julho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Requisitos para a autorização
+    - Altera Artigo 16.º — Medidas transitórias
+    - Altera Artigo 19.º — Confidencialidade
+    - Altera Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+    - Altera LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS BIOCIDAS
+      DE BAIXO RISCO
+    - Altera SUBSTÂNCIAS QUÍMICAS
+    - Altera IX. CLASSIFICAÇÃO E ROTULAGEM
+    - Altera Efeitos no ambiente
+    - Altera Notas
+  - date: '2013-09-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Autorização de colocação de produtos biocidas no mercado
+    - Suprime Artigo 4.º — Reconhecimento mútuo de autorizações
+    - Suprime Artigo 5.º — Condições de concessão das autorizações
+    - Suprime Artigo 6.º — Revisão das autorizações
+    - Suprime Artigo 7.º — Retirada ou alteração das autorizações
+    - Suprime Artigo 8.º — Requisitos para a autorização
+    - Suprime Artigo 9.º — Colocação de substâncias activas no mercado
+    - Suprime Artigo 10.º — Conclusão de substâncias activas nos anexos I, I A ou I B
+    - Suprime Artigo 11.º — Procedimento com vista à inclusão de uma substância activa nos anexos I, I A ou I B
+    - Suprime Artigo 12.º — Utilização por outros requerentes dos dados na posse das autoridades competentes
+    - Suprime Artigo 13.º — Cooperação na utilização de dados para os pedidos subsequentes de autorização
+    - Suprime Artigo 14.º — Novos dados
+    - Suprime Artigo 15.º — Derrogações aos requisitos
+    - Suprime Artigo 16.º — Medidas transitórias
+    - Suprime Artigo 17.º — Investigação e desenvolvimento
+    - Suprime Artigo 18.º — Intercâmbio de informações
+    - Suprime Artigo 19.º — Confidencialidade
+    - Suprime Artigo 20.º — Classificação, embalagem e rotulagem dos produtos biocidas
+    - Suprime Artigo 21.º — Fichas de segurança
+    - Suprime Artigo 22.º — Publicidade
+    - Suprime Artigo 23.º — Controlo de produtos venenosos
+    - Suprime Artigo 24.º — Observância dos requisitos
+    - Suprime Artigo 25.º — Encargos
+    - Suprime Artigo 26.º — Autoridades competentes
+    - Suprime Artigo 27.º — Procedimentos a nível da Comissão
+    - Suprime Artigo 28.º — Comités e procedimentos
+    - Suprime Artigo 29.º — Adaptação ao progresso técnico
+    - Suprime Artigo 30.º — Alteração ou adaptação dos anexos V e VI
+    - Suprime Artigo 31.º — Responsabilidade civil e penal
+    - Suprime Artigo 32.º — Cláusula de salvaguarda
+    - Suprime Artigo 33.º — Notas técnicas de orientação
+    - Suprime Artigo 34.º — Aplicação da directiva
+    - Suprime Artigo 35.º
+    - Suprime Artigo 36.º
+    - Suprime ANEXO I
+    - Suprime LISTA DE SUBSTÂNCIAS ACTIVAS CUJOS REQUISITOS FORAM DECIDIDOS A NÍVEL COMUNITÁRIO PARA INCLUSÃO EM PRODUTOS
+      BIOCIDAS
+    - Suprime ANEXO I A
 identifiers:
   celex: 31998L0008
   eli: http://data.europa.eu/eli/dir/1998/8/oj
@@ -49,7 +667,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/dd121338-803b-4793-b8bd-6db66b18104a.0009
   content_url: http://publications.europa.eu/resource/cellar/9398e0a7-fcfa-11e3-831f-01aa75ed71a1.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0008-20130901
-  retrieved_at: '2026-10-22T02:36:14Z'
+  retrieved_at: '2026-10-22T14:47:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:09:30.257+02:00'
 integrity:
@@ -58,9 +676,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:14Z'
-  notes: Texto consolidado 01998L0008-20130901.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:06Z'
+  notes: 27 versão(ões); histórico completo em diretiva-ue-1998-8.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -769,16 +1387,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:14Z'
+  checked_at: '2026-10-22T14:47:06Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01998L0008-19980514: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998L0008-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

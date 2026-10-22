@@ -1,0 +1,1336 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993R3199:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R3199-20171207",
+ "dre_path": null,
+ "source_lastmod": "2017-12-07",
+ "versions": [
+  {
+   "date": "1993-11-23",
+   "future": false,
+   "celex": "31993R3199",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "30343389816c268a",
+    "c8d18de7efe5b4dd",
+    "ff8914a9afe9671f",
+    "4c6d08f1138ce4b2"
+   ]
+  },
+  {
+   "date": "2004-12-22",
+   "future": false,
+   "celex": "01993R3199-20041222",
+   "acts": [
+    {
+     "id": "eu:celex:31995R2546:por",
+     "title": "REGULAMENTO (CE) N. o 2546/95 DA COMISSÃO de 30 de Outubro de 1995",
+     "published": null,
+     "celex": "31995R2546"
+    },
+    {
+     "id": "eu:celex:31998R2559:por",
+     "title": "M2",
+     "published": null,
+     "celex": "31998R2559"
+    },
+    {
+     "id": "eu:celex:32004R2205:por",
+     "title": "REGULAMENTO (CE) N. o 2205/2004 DA COMISSÃO de 21 de Dezembro de 2004",
+     "published": null,
+     "celex": "32004R2205"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Bélgica",
+    "Adita Dinamarca",
+    "Adita Alemanha",
+    "Adita Grécia",
+    "Adita Espanha",
+    "Adita França",
+    "Adita Irlanda",
+    "Adita Itália",
+    "Adita Luxemburgo",
+    "Adita Países Baixos",
+    "Adita Áustria",
+    "Adita Portugal",
+    "Adita Finlândia",
+    "Adita Suécia",
+    "Adita Reino Unido",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º"
+   ],
+   "fragments": [
+    "e2b423d3cb425d7b",
+    "9cdd7d74e199769f",
+    "1f359e25d62c3a8f",
+    "10220b9774fa9034",
+    "a57dccd3a6264b12",
+    "f521357e9e9c86a1",
+    "5f7d15bb91125335",
+    "f9420e01254cfcf4",
+    "6c59f7c3787f5725",
+    "e1c6e6d8924263bb",
+    "ae03b05515231519",
+    "88e5f6d3f893b630",
+    "e42520da017f6506",
+    "927b31dd537d23c1",
+    "108bb6372ed0c1ce",
+    "faf1909c962c4ad6",
+    "3dfe47126abe4b9a",
+    "7fca5d1d4e4048eb",
+    "ef08bcb60ebacb9a",
+    "3a186d2fa7217d0b"
+   ]
+  },
+  {
+   "date": "2005-08-14",
+   "future": false,
+   "celex": "01993R3199-20050814",
+   "acts": [
+    {
+     "id": "eu:celex:32005R1309:por",
+     "title": "REGULAMENTO (CE) N. o 1309/2005 DA COMISSÃO de 10 de Agosto de 2005",
+     "published": null,
+     "celex": "32005R1309"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Reino Unido",
+    "Altera Notas",
+    "Adita Chipre",
+    "Adita República Checa",
+    "Adita Estónia",
+    "Adita Hungria",
+    "Adita Letónia",
+    "Adita Lituânia",
+    "Adita Malta",
+    "Adita Polónia",
+    "Adita Eslováquia",
+    "Adita Eslovénia"
+   ],
+   "fragments": [
+    "05e81fe76dca9a2b",
+    "9cdd7d74e199769f",
+    "1f359e25d62c3a8f",
+    "10220b9774fa9034",
+    "a57dccd3a6264b12",
+    "f521357e9e9c86a1",
+    "5f7d15bb91125335",
+    "f9420e01254cfcf4",
+    "6c59f7c3787f5725",
+    "e1c6e6d8924263bb",
+    "ae03b05515231519",
+    "88e5f6d3f893b630",
+    "e42520da017f6506",
+    "927b31dd537d23c1",
+    "108bb6372ed0c1ce",
+    "faf1909c962c4ad6",
+    "3dfe47126abe4b9a",
+    "7fca5d1d4e4048eb",
+    "ff84d9a5b4496e1c",
+    "83c83abb8948b38e",
+    "92aa6c9498c97321",
+    "79f82af5255d3c95",
+    "cdba51111f739ab2",
+    "2757812da55a3431",
+    "ddc372b5da0524ee",
+    "2c107b5020178a9a",
+    "e2e1ca06285b4e78",
+    "c4e9f70475741de0",
+    "8dc9273854ed3dfc",
+    "8caa7b67f9c64430"
+   ]
+  },
+  {
+   "date": "2005-12-16",
+   "future": false,
+   "celex": "01993R3199-20051216",
+   "acts": [
+    {
+     "id": "eu:celex:32005R2023:por",
+     "title": "REGULAMENTO (CE) N. o 2023/2005 DA COMISSÃO de 12 de Dezembro de 2005",
+     "published": null,
+     "celex": "32005R2023"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Reino Unido",
+    "Altera Letónia",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "c87556f993b3203e",
+    "9cdd7d74e199769f",
+    "1f359e25d62c3a8f",
+    "10220b9774fa9034",
+    "a57dccd3a6264b12",
+    "f521357e9e9c86a1",
+    "5f7d15bb91125335",
+    "f9420e01254cfcf4",
+    "6c59f7c3787f5725",
+    "e1c6e6d8924263bb",
+    "ae03b05515231519",
+    "88e5f6d3f893b630",
+    "e42520da017f6506",
+    "927b31dd537d23c1",
+    "108bb6372ed0c1ce",
+    "faf1909c962c4ad6",
+    "3dfe47126abe4b9a",
+    "7fca5d1d4e4048eb",
+    "b3f2e8a3996d2169",
+    "83c83abb8948b38e",
+    "92aa6c9498c97321",
+    "79f82af5255d3c95",
+    "cdba51111f739ab2",
+    "8acb14bfbea465e2",
+    "ddc372b5da0524ee",
+    "2c107b5020178a9a",
+    "e2e1ca06285b4e78",
+    "c4e9f70475741de0",
+    "8dc9273854ed3dfc",
+    "84e2526baae2fa4c"
+   ]
+  },
+  {
+   "date": "2008-01-29",
+   "future": false,
+   "celex": "01993R3199-20080129",
+   "acts": [
+    {
+     "id": "eu:celex:32008R0067:por",
+     "title": "REGULAMENTO (CE) N. o 67/2008 DA COMISSÃO de 25 de Janeiro de 2008",
+     "published": null,
+     "celex": "32008R0067"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Reino Unido",
+    "Altera Notas",
+    "Adita Bulgária",
+    "Adita Roménia"
+   ],
+   "fragments": [
+    "7b666e8c173e1775",
+    "9cdd7d74e199769f",
+    "1f359e25d62c3a8f",
+    "10220b9774fa9034",
+    "a57dccd3a6264b12",
+    "f521357e9e9c86a1",
+    "5f7d15bb91125335",
+    "f9420e01254cfcf4",
+    "6c59f7c3787f5725",
+    "e1c6e6d8924263bb",
+    "ae03b05515231519",
+    "88e5f6d3f893b630",
+    "e42520da017f6506",
+    "927b31dd537d23c1",
+    "108bb6372ed0c1ce",
+    "faf1909c962c4ad6",
+    "3dfe47126abe4b9a",
+    "7fca5d1d4e4048eb",
+    "275d052cdb278dfa",
+    "83c83abb8948b38e",
+    "92aa6c9498c97321",
+    "79f82af5255d3c95",
+    "cdba51111f739ab2",
+    "8acb14bfbea465e2",
+    "ddc372b5da0524ee",
+    "2c107b5020178a9a",
+    "e2e1ca06285b4e78",
+    "c4e9f70475741de0",
+    "979eeea9d0951a84",
+    "1d9c4d9ee8244559",
+    "82302732e7d3eed5",
+    "3a74abb2d3200de2"
+   ]
+  },
+  {
+   "date": "2008-09-01",
+   "future": false,
+   "celex": "01993R3199-20080901",
+   "acts": [
+    {
+     "id": "eu:celex:32008R0849:por",
+     "title": "REGULAMENTO (CE) N. o 849/2008 DA COMISSÃO de 28 de Agosto de 2008",
+     "published": null,
+     "celex": "32008R0849"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Grécia",
+    "Altera Reino Unido",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "ca559060a404fe61",
+    "9cdd7d74e199769f",
+    "1f359e25d62c3a8f",
+    "10220b9774fa9034",
+    "a57dccd3a6264b12",
+    "f521357e9e9c86a1",
+    "5f7d15bb91125335",
+    "912f7586ce467e9a",
+    "6c59f7c3787f5725",
+    "e1c6e6d8924263bb",
+    "ae03b05515231519",
+    "88e5f6d3f893b630",
+    "e42520da017f6506",
+    "927b31dd537d23c1",
+    "108bb6372ed0c1ce",
+    "faf1909c962c4ad6",
+    "3dfe47126abe4b9a",
+    "7fca5d1d4e4048eb",
+    "b221b458512ebb99",
+    "83c83abb8948b38e",
+    "92aa6c9498c97321",
+    "79f82af5255d3c95",
+    "cdba51111f739ab2",
+    "8acb14bfbea465e2",
+    "ddc372b5da0524ee",
+    "2c107b5020178a9a",
+    "e2e1ca06285b4e78",
+    "c4e9f70475741de0",
+    "979eeea9d0951a84",
+    "1d9c4d9ee8244559",
+    "82302732e7d3eed5",
+    "bceff921b8bfd5b0"
+   ]
+  },
+  {
+   "date": "2011-08-06",
+   "future": false,
+   "celex": "01993R3199-20110806",
+   "acts": [
+    {
+     "id": "eu:celex:32011R0767:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 767/2011 DA COMISSÃO de 2 de Agosto de 2011",
+     "published": null,
+     "celex": "32011R0767"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Grécia",
+    "Altera França",
+    "Altera Itália",
+    "Altera Reino Unido",
+    "Altera República Checa",
+    "Altera Letónia",
+    "Altera Eslováquia",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "13dbad97d9617531",
+    "9cdd7d74e199769f",
+    "1f359e25d62c3a8f",
+    "10220b9774fa9034",
+    "a57dccd3a6264b12",
+    "f521357e9e9c86a1",
+    "5f7d15bb91125335",
+    "c416d16550ce4da4",
+    "6c59f7c3787f5725",
+    "c0a489c27247d97c",
+    "ae03b05515231519",
+    "37ea127cf83844fb",
+    "e42520da017f6506",
+    "927b31dd537d23c1",
+    "108bb6372ed0c1ce",
+    "faf1909c962c4ad6",
+    "3dfe47126abe4b9a",
+    "7fca5d1d4e4048eb",
+    "0791abbb6ee073c7",
+    "83c83abb8948b38e",
+    "d1c1b16214edddb8",
+    "79f82af5255d3c95",
+    "cdba51111f739ab2",
+    "53ff8b6fe50b2de5",
+    "ddc372b5da0524ee",
+    "2c107b5020178a9a",
+    "e2e1ca06285b4e78",
+    "8d49ca31f74ac7a2",
+    "979eeea9d0951a84",
+    "1d9c4d9ee8244559",
+    "82302732e7d3eed5",
+    "22d210eb496ab62a"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "01993R3199-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0162:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 162/2013 DA COMISSÃO de 21 de fevereiro de 2013",
+     "published": null,
+     "celex": "32013R0162"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO",
+    "Altera República Checa",
+    "Altera Alemanha",
+    "Altera Estónia",
+    "Altera Irlanda",
+    "Altera Grécia",
+    "Altera Itália",
+    "Altera Letónia",
+    "Altera Lituânia",
+    "Altera Hungria",
+    "Altera Malta",
+    "Altera Países Baixos",
+    "Altera Áustria",
+    "Altera Polónia",
+    "Altera Roménia",
+    "Altera Eslovénia",
+    "Altera Eslováquia",
+    "Altera Finlândia",
+    "Altera Suécia",
+    "Altera Reino Unido",
+    "Altera Notas",
+    "Adita I. Processo de desnaturação utilizado em todos os Estados-Membros",
+    "Adita II. Processos de desnaturação adicionais utilizados em determinados Estados-Membros",
+    "Suprime Bélgica",
+    "Suprime Dinamarca",
+    "Suprime Espanha",
+    "Suprime França",
+    "Suprime Luxemburgo",
+    "Suprime Portugal",
+    "Suprime Chipre",
+    "Suprime Bulgária"
+   ],
+   "fragments": [
+    "63cbf62b341341e7",
+    "9cdd7d74e199769f",
+    "1f359e25d62c3a8f",
+    "01c51744defdf405",
+    "6eb7e146e0beca68",
+    "61b7b120390f8785",
+    "cd6c93124b10d275",
+    "7167955329ad56cc",
+    "d5c3863acec8fb37",
+    "d92e3bd90065a913",
+    "33c032e21a3420c7",
+    "b3a133384f871787",
+    "f60170a1b20f3d4e",
+    "275ad71176a86a47",
+    "4136d1137e3f5f95",
+    "4711990485f9ff15",
+    "b328c7a1a72dd70d",
+    "64bf23b90426074a",
+    "4e673388d5b82e12",
+    "2dec93d68beea7d1",
+    "c20fddd557c36e33",
+    "d7cfc23dd41c961f",
+    "57d31bfac857ff2e",
+    "6c641dd0cf3cf7bd",
+    "788e6cb017148b48",
+    "73382fe70c5dd095"
+   ]
+  },
+  {
+   "date": "2017-08-01",
+   "future": false,
+   "celex": "01993R3199-20170801",
+   "acts": [
+    {
+     "id": "eu:celex:32016R1867:por",
+     "title": "M10",
+     "published": null,
+     "celex": "32016R1867"
+    },
+    {
+     "id": "eu:celex:32017R1112:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2017/1112 DA COMISSÃO de 22 de junho de 2017",
+     "published": null,
+     "celex": "32017R1112"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO",
+    "Adita I. I. Processo comum de desnaturação para o álcool totalmente desnaturado utilizado na Bélgica, na Dinamarca, na Alemanha, na Estónia, na Irlanda, na Grécia, em Espanha, em França, em Itália, em Chipre, na Letónia, na Lituânia, no Luxemburgo, na Hungria, em Malta, nos Países Baixos, na Áustria, na Polónia, em Portugal, na Eslovénia, na Eslováquia e na Finlândia:",
+    "Adita II. Maior concentração do processo comum de desnaturação para o álcool totalmente desnaturado, utilizado nos seguintes Estados-Membros:",
+    "Adita III. Processos complementares de desnaturação para o álcool totalmente desnaturado utilizados em certos Estados-Membros:",
+    "Suprime I. Processo de desnaturação utilizado em todos os Estados-Membros",
+    "Suprime II. Processos de desnaturação adicionais utilizados em determinados Estados-Membros",
+    "Suprime República Checa",
+    "Suprime Alemanha",
+    "Suprime Estónia",
+    "Suprime Irlanda",
+    "Suprime Grécia",
+    "Suprime Itália",
+    "Suprime Letónia",
+    "Suprime Lituânia",
+    "Suprime Hungria",
+    "Suprime Malta",
+    "Suprime Países Baixos",
+    "Suprime Áustria",
+    "Suprime Polónia",
+    "Suprime Roménia",
+    "Suprime Eslovénia",
+    "Suprime Eslováquia",
+    "Suprime Finlândia",
+    "Suprime Suécia",
+    "Suprime Reino Unido",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "1f9d496fc0be73ab",
+    "9cdd7d74e199769f",
+    "1f359e25d62c3a8f",
+    "7c6aa2eda7187600",
+    "b644c6eec3de5ae4",
+    "7dd2a0acaf929439",
+    "82b718ade88e90de"
+   ]
+  },
+  {
+   "date": "2017-12-07",
+   "future": false,
+   "celex": "01993R3199-20171207",
+   "acts": [
+    {
+     "id": "eu:celex:32017R2236:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2017/2236 DA COMISSÃO de 5 de dezembro de 2017",
+     "published": null,
+     "celex": "32017R2236"
+    }
+   ],
+   "changes": [
+    "Altera ANEXO",
+    "Altera II. Maior concentração do processo comum de desnaturação para o álcool totalmente desnaturado, utilizado nos seguintes Estados-Membros:",
+    "Altera III. Processos complementares de desnaturação para o álcool totalmente desnaturado utilizados em certos Estados-Membros:",
+    "Adita I. Processo comum de desnaturação para o álcool totalmente desnaturado utilizado na Bélgica, na Bulgária, na Dinamarca, na Alemanha, na Estónia, na Irlanda, na Grécia, em Espanha, em França, em Itália, em Chipre, na Letónia, na Lituânia, no Luxemburgo, na Hungria, em Malta, nos Países Baixos, na Áustria, na Polónia, em Portugal, na Roménia, na Eslovénia, na Eslováquia e na Finlândia:",
+    "Adita República Checa e o Reino Unido",
+    "Adita Croácia",
+    "Adita Suécia",
+    "Adita República Checa",
+    "Adita Grécia",
+    "Adita Finlândia — autorizado até 31.12.2018",
+    "Suprime I. I. Processo comum de desnaturação para o álcool totalmente desnaturado utilizado na Bélgica, na Dinamarca, na Alemanha, na Estónia, na Irlanda, na Grécia, em Espanha, em França, em Itália, em Chipre, na Letónia, na Lituânia, no Luxemburgo, na Hungria, em Malta, nos Países Baixos, na Áustria, na Polónia, em Portugal, na Eslovénia, na Eslováquia e na Finlândia:"
+   ],
+   "fragments": [
+    "1f9d496fc0be73ab",
+    "9cdd7d74e199769f",
+    "1f359e25d62c3a8f",
+    "ee13c83c1529da08",
+    "0b5ef67a1c4160a2",
+    "3d57b3758a519f24",
+    "4e6c6ff832c39097",
+    "339bb92698f5cc08",
+    "3f0fdd1852555253",
+    "68c67ed3342a5cc7",
+    "08efda2b7ababcaf",
+    "66d4aea8399edbd2",
+    "8aada948d44b65c3"
+   ]
+  }
+ ],
+ "fragments": {
+  "30343389816c268a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 3199/93 da Comissão, de 22 de Novembro de 1993, relativo ao reconhecimento mútuo dos processos de desnaturação total do álcool para efeitos de isenção do imposto especial de consumo** *Jornal Oficial nº L 288 de 23/11/1993 p. 0012 - 0015 Edição especial finlandesa: Capítulo 9 Fascículo 2 p. 0145 Edição especial sueca: Capítulo 9 Fascículo 2 p. 0145*\n\nREGULAMENTO (CE) Nº 3199/93 DA COMISSÃO de 22 de Novembro de 1993 relativo ao reconhecimento mútuo dos processos de desnaturação total do álcool para efeitos de isenção do imposto especial de consumo\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/83/CEE do Conselho, de 19 de Outubro de 1992, relativa à harmonização da estrutura dos impostos especiais sobre o consumo de álcool e bebidas alcoólicas (1), e, nomeadamente, o nº 4 do seu artigo 27º,\n\nTendo em conta a Directiva 92/12/CEE do Conselho, de 25 de Fevereiro de 1992, relativa ao regime geral, à detenção, à circulação e aos controlos dos produtos sujeitos a impostos especiais de consumo (2), alterada pela Directiva 92/108/CEE (3), e, nomeadamente, o seu artigo 24º,\n\nTendo em conta o parecer do Comité dos impostos especiais de consumo,\n\nConsiderando que, nos termos do nº 1, alínea a), do artigo 27º da Directiva 92/83/CEE do Conselho, os Estados-membros devem isentar do imposto especial de consumo o álcool totalmente desnaturado de acordo com as normas de qualquer dos Estados-membros, desde que essas normas tenham sido devidamente notificadas e aceites nos termos do disposto nos nºs 3 e 4 do referido artigo;\n\nConsiderando que foram recebidas objecções quanto às normas notificadas;\n\nConsiderando, por conseguinte, que nos termos do disposto no nº 4 do referido artigo, deve ser tomada uma decisão de acordo com o procedimento previsto no artigo 24º da Directiva 92/12/CEE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "c8d18de7efe5b4dd": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nOs desnaturantes utilizados em cada Estado-membro tendo em vista a desnaturação completa de álcool, em conformidade com o disposto no nº 1, alínea a), do artigo 27º da Directiva 92/83/CEE, são os descritos no anexo do presente regulamento."
+  },
+  "ff8914a9afe9671f": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nO presente regulamento entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 22 de Novembro de 1993.\n\nPela Comissão\n\nChristiane SCRIVENER\n\nMembro da Comissão\n\n(1) JO nº L 316 de 31. 10. 1992, p. 21.\n\n(2) JO nº L 76 de 23. 3. 1992, p. 1.\n\n(3) JO nº L 390 de 31. 12. 1992, p. 124."
+  },
+  "4c6d08f1138ce4b2": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nBélgica 5 litros de metileno por hectolitro de álcool etílico, independentemente do teor alcoólico, e corante suficiente para produzir uma nítida cor azul ou violeta.\n\nPor « metileno », entende-se o seguinte:\n\n- o metileno propiamente dito, isto é, álcool metílico em bruto produzido a partir da destilação seca de madeira e contendo pelo menos 10 %, em massa, de acetona,\n\n- uma mistura de metileno e metanol contendo pelo menos 60 %, em massa, de metileno propriamente dito e 10 %, em massa, de acetona,\n\n- uma mistura de metanol, acetona e impurezas pirogénicas, com um forte cheiro empireumático, contendo pelo menos 10 %, em massa, de acetona.\n\nDinamarca Por hectolitro de álcool puro:\n\n- 2 litros de metiletilcetona, e\n\n- 3 litros de metilisobutilcetona.\n\nAlemanha Por hectolitro de álcool puro:\n\n1. 0,75 litro de metiletilcetona, consistindo em:\n\n- 95 % a 96 % em massa, de metiletilcetona,\n\n- 2,5 % a 3 % em massa, de metilisopropilcetona,\n\n- 1,5 % a 2 % em massa, de etilisoamilcetona (5-metil-3-heptanon),\n\njuntamente com 0,25 litro de bases pirídicas.\n\n2. 1 litro de metiletilcetona, consistindo em:\n\n- 95 % a 96 % em massa, de metiletilcetona,\n\n- 2,5 % a 3 % em massa, de metilisopropilcetona,\n\n- 1,5 % a 2 % em massa, de etilisoamilcetona (5-metil-heptanon),\n\njuntamente com 1 grama de benzoato de denatónio.\n\nGrécia 5 litros de álcool metílico por hectolitro de álcool etílico não puro e:\n\n- 0,5 % de querosene,\n\n- 4 ppm de azul de metileno,\n\n- 1 % de essência de terebintina.\n\nEspanha Por hectolitro de álcool puro:\n\n- 1 grama de benzoato de denatónio,\n\n- 2 litros de metiletilcetona (butanona), e\n\n- 0,2 grama de azul de metileno (Colour Index azul básico 52015).\n\nFrança A 1 hectolitro de álcool etílico a 90 % vol acrescentar:\n\n- 3,5 litros de metileno, e\n\n- 1 litro de álcool isopropílico.\n\nMetileno da Régie\n\nDefinição:\n\nEm conformidade com o decreto ministerial de 7 de Maio de 1955, adoptado após consulta do Serviço de Laboratório do Ministério dos Assuntos Económicos e das Finanças, o metileno da Régie deve preencher as seguintes condições:\n\n- deve titular 90 % vol a uma temperatura de 20 °C, com uma tolerância de 0,5,\n\n- deve conter pelo menos 6 % de impurezas pirogénicas (exceptuando os produtos que podem ser saponificados pela soda, expressos em acetato de metilo),\n\n- deve conter cetonas e água, de modo a completar o álcool metílico até 100,\n\n- deve ser obtido exclusivamente a partir da carbonização da madeira, efectuada sob o controlo das autoridades fiscais.\n\nAs impurezas pirogénicas constituem o verdadeiro desnaturante. Conferem à mistura um sabor desagradável, tornando o álcool impróprio para consumo oral.\n\nDevido às suas propriedades químicas, a acetona permite isolar mais facilmente, em laboratório, o desnaturante do álcool.\n\nFinalmente, o álcool metílico indica desnaturação. O seu ponto de ebulição é sensivelmente idêntico ao do álcool etílico. Por conseguinte, apenas pode ser separado utilizando técnicas e equipamentos especiais.\n\nEm princípio, a partir de uma determinada percentagem, que varia de acordo com os diversos tipos de álcool etílico, a sua presença indica se o álcool analisado foi previamente desnaturado pelo processo geral.\n\nIrlanda Álcool desnaturado:\n\n- 9,5 % de « wood naphtha »,\n\n- 0,5 % de piridina em bruto,\n\n- 0,025 onças de corante de violeta de metilo (por cada 100 galões de álcool etílico puro),\n\n- 0,375 % de petróleo.\n\nNB: A « wood naphtha » e a piridina em bruto podem substituídas por 10 % de álcool metílico.\n\nItália Por hectolitro de álcool puro:\n\n- 125 gramas de Tiofeno,\n\n- 0,8 grama de benzoato de denatónio,\n\n- 0,4 grama de vermelho ácido 51 do Colour Index (corante vermelho),\n\n- 2 litros de meïtiletilcetona.\n\nLuxemburgo 5 litros de metileno por hectolitro de álcool etílico, independentemente do teor alcoólico, e corante suficiente para produzir uma nítida cor azul ou violeta.\n\nPor « metileno », entende-se o seguinte:\n\n- o metileno propriamente dito, isto é, álcool metílico em bruto produzido a partir da destilação seca de madeira e contendo pelo menos 10 %, em massa, de acetona,\n\n- uma mistura de metileno e metanol contendo pelo menos 60 %, em massa, de metileno propriamente dito e 10 %, em massa, de acetona,\n\n- uma mistura de metanol, acetona e impurezas pirogénicas, com um forte cheiro empireumático, contendo pelo menos 10 %, em massa, de acetona.\n\nPaíses Baixos Por hectolitro de álcool etílico:\n\n5 litros de uma mistura, consistindo em:\n\n- 60 %, em volume, de metanol,\n\n- 11 %, em volume, de óleo de fusel (um concentrado de produtos derivados da destilação do álcool),\n\n- 20 %, em volume, de acetona,\n\n- 8 %, em volume, de água,\n\n- 0,5 %, em volume, de butanol,\n\n- 0,5 %, em volume, de formalina (uma solução aquosa de 37 %, em massa, de formaldeído),\n\njuntamente com corante, cuja quantidade e componentes devem preencher as condições estabelecidas pelo Serviço de Química do Serviço Fiscal.\n\nReino Unido Base:\n\n- 90 % em massa, de etanol,\n\n- 9,5 %, em volume, de « wood naphtha » (1) e\n\n- 0,5 %, em volume, de piridina em bruto.\n\nSendo acrescentados a cada 1 000 litros desta mistura:\n\n- 3,75 litros de nafta mineral (petróleo), e\n\n- 1,5 ppm de violeta de metil.\n\n(1) A « wood naphtha » é um produto eventualmente de síntese, capaz de conferir a uma mistura de 5 % de « wood naphtha » e 95 % de álcool etílico propriedades que a tornam imprópria para consumo como bebida. Tal é obtido mediante a produção de uma « mistura » relativamente complexa mas extável estável de substâncias que não podem ser facilmente eliminadas do álcool metílico.\n\nComposição da « wood naphtha »:\n\nNão existe uma lista obrigatória de componentes, mas a « wood naphtha » de síntese autorizada contém todos ou alguns dos seguintes elementos:\n\n- piridina,\n\n- bases pirídicas,\n\n- álcool alílico,\n\n- crotomaldeído,\n\n- picoleno,\n\n- benzoato de denatónio,\n\n- álcool metílico."
+  },
+  "e2b423d3cb425d7b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Novembro de 1993\n\nrelativo ao reconhecimento mútuo dos processos de desnaturação total do álcool para efeitos de isenção do imposto especial de consumo\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/83/CEE do Conselho, de 19 de Outubro de 1992, relativa à harmonização da estrutura dos impostos especiais sobre o consumo de álcool e bebidas alcoólicas ([^1^](http://publications.europa.eu/resource/cellar/50bce654-73de-4d85-8983-7e603f15c444.0010.03/DOC_1#E0001)), e, nomeadamente, o n.º 4 do seu artigo 27.º,\n\nTendo em conta a Directiva 92/12/CEE do Conselho, de 25 de Fevereiro de 1992, relativa ao regime geral, à detenção, à circulação e aos controlos dos produtos sujeitos a impostos especiais de consumo ([^2^](http://publications.europa.eu/resource/cellar/50bce654-73de-4d85-8983-7e603f15c444.0010.03/DOC_1#E0002)), alterada pela Directiva 92/108/CEE ([^3^](http://publications.europa.eu/resource/cellar/50bce654-73de-4d85-8983-7e603f15c444.0010.03/DOC_1#E0003)), e, nomeadamente, o seu artigo 24.º,\n\nTendo em conta o parecer do Comité dos impostos especiais de consumo,\n\nConsiderando que, nos termos do n.º 1, alínea a), do artigo 27.º da Directiva 92/83/CEE do Conselho, os Estados-membros devem isentar do imposto especial de consumo o álcool totalmente desnaturado de acordo com as normas de qualquer dos Estados-membros, desde que essas normas tenham sido devidamente notificadas e aceites nos termos do disposto nos n.^os^ 3 e 4 do referido artigo;\n\nConsiderando que foram recebidas objecções quanto às normas notificadas;\n\nConsiderando, por conseguinte, que nos termos do disposto no n.º 4 do referido artigo, deve ser tomada uma decisão de acordo com o procedimento previsto no artigo 24.º da Directiva 92/12/CEE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "9cdd7d74e199769f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs desnaturantes utilizados em cada Estado-membro tendo em vista a desnaturação completa de álcool, em conformidade com o disposto no n.º 1, alínea a), do artigo 27.º da Directiva 92/83/CEE, são os descritos no anexo do presente regulamento."
+  },
+  "1f359e25d62c3a8f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "a57dccd3a6264b12": {
+   "fragment_id": "Bélgica",
+   "type": "divisao",
+   "heading": "Bélgica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Bélgica\n\n5 litros de metileno por hectolitro de álcool etílico, independentemente do teor alcoólico, e corante suficiente para produzir uma nítida cor azul ou violeta.\n\nPor «metileno», entende-se o seguinte:\n\n— o metileno propiamente dito, isto é, álcool metílico em bruto produzido a partir da destilação seca de madeira e contendo pelo menos 10 %, em massa, de acetona,\n\n— uma mistura de metileno e metanol contendo pelo menos 60 %, em massa, de metileno propriamente dito e 10 %, em massa, de acetona,\n\n— uma mistura de metanol, acetona e impurezas pirogénicas, com um forte cheiro empireumático, contendo pelo menos 10 %, em massa, de acetona."
+  },
+  "f521357e9e9c86a1": {
+   "fragment_id": "Dinamarca",
+   "type": "divisao",
+   "heading": "Dinamarca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Dinamarca\n\nPor hectolitro de álcool puro:\n\n— 2 litros de metiletilcetona, e\n\n— 3 litros de metilisobutilcetona."
+  },
+  "5f7d15bb91125335": {
+   "fragment_id": "Alemanha",
+   "type": "divisao",
+   "heading": "Alemanha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Alemanha\n\nPor hectolitro de álcool puro:\n\n1. 0,75 litro de metiletilcetona, consistindo em:\n\n— 95 % a 96 % em massa, de metiletilcetona,\n\n— 2,5 % a 3 % em massa, de metilisopropilcetona,\n\n— 1,5 % a 2 % em massa, de etilisoamilcetona (5-metil-3-heptanon),\n\n2. 1 litro de metiletilcetona, consistindo em:\n\n— 95 % a 96 % em massa, de metiletilcetona,\n\n— 2,5 % a 3 % em massa, de metilisopropilcetona,\n\n— 1,5 % a 2 % em massa, de etilisoamilcetona (5-metil-heptanon),"
+  },
+  "f9420e01254cfcf4": {
+   "fragment_id": "Grécia",
+   "type": "divisao",
+   "heading": "Grécia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Grécia\n\n5 litros de álcool metílico por hectolitro de álcool etílico não puro e:\n\n— 0,5 % de querosene,\n\n— 4 ppm de azul de metileno,\n\n— 1 % de essência de terebintina."
+  },
+  "6c59f7c3787f5725": {
+   "fragment_id": "Espanha",
+   "type": "divisao",
+   "heading": "Espanha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Espanha\n\nPor hectolitro de álcool puro:\n\n— 1 grama de benzoato de denatónio,\n\n— 2 litros de metiletilcetona (butanona), e\n\n— 0,2 grama de azul de metileno (Colour Index azul básico 52015)."
+  },
+  "e1c6e6d8924263bb": {
+   "fragment_id": "França",
+   "type": "divisao",
+   "heading": "França",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### França\n\nA 1 hectolitro de álcool etílico a 90 % vol acrescentar:\n\n— 3,5 litros de metileno, e\n\n— 1 litro de álcool isopropílico.\n\n*Metileno da* Régie\n\nDefinição:\n\nEm conformidade com o decreto ministerial de 7 de Maio de 1955, adoptado após consulta do Serviço de Laboratório do Ministério dos Assuntos Económicos e das Finanças, o metileno da *Régie* deve preencher as seguintes condições:\n\n— deve titular 90 % vol a uma temperatura de 20 °C, com uma tolerância de 0,5,\n\n— deve conter pelo menos 6 % de impurezas pirogénicas (exceptuando os produtos que podem ser saponificados pela soda, expressos em acetato de metilo),\n\n— deve conter cetonas e água, de modo a completar o álcool metílico até 100,\n\n— deve ser obtido exclusivamente a partir da carbonização da madeira, efectuada sob o controlo das autoridades fiscais.\n\nAs impurezas pirogénicas constituem o verdadeiro desnaturante. Conferem à mistura um sabor desagradável, tornando o álcool impróprio para consumo oral.\n\nDevido às suas propriedades químicas, a acetona permite isolar mais facilmente, em laboratório, o desnaturante do álcool.\n\nFinalmente, o álcool metílico indica desnaturação. O seu ponto de ebulição é sensivelmente idêntico ao do álcool etílico. Por conseguinte, apenas pode ser separado utilizando técnicas e equipamentos especiais.\n\nEm princípio, a partir de uma determinada percentagem, que varia de acordo com os diversos tipos de álcool etílico, a sua presença indica se o álcool analisado foi previamente desnaturado pelo processo geral."
+  },
+  "ae03b05515231519": {
+   "fragment_id": "Irlanda",
+   "type": "divisao",
+   "heading": "Irlanda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Irlanda\n\nÁlcool desnaturado:\n\n— 9,5 % de «wood naphtha»,\n\n— 0,5 % de piridina em bruto,\n\n— 0,025 onças de corante de violeta de metilo (por cada 100 galões de álcool etílico puro),\n\n— 0,375 % de petróleo.\n\n*NB:* A «wood naphtha» e a piridina em bruto podem substituídas por 10 % de álcool metílico."
+  },
+  "88e5f6d3f893b630": {
+   "fragment_id": "Itália",
+   "type": "divisao",
+   "heading": "Itália",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Itália\n\nO álcool etílico a desnaturar deve apresentar uma taxa de álcool etílico não inferior a 83 % em volume e um título medido com um alcoómetro da CE não inferior a 90 % em volume. Por hectolitro de álcool etílico anídrico acrescentar:\n\na) 125 gramas de tiofeno;\n\nb) 0,8 gramas de benzoato de denatónio;\n\nc) 3 gramas de CI Reactive Red 24 (corante vermelho), solução a 25 % em peso;\n\nd) 2 litros de metiletilcetona.\n\nA fim de assegurar a solubilidade total de todos os componentes, a mistura dos desnaturantes deve ser preparada em álcool etílico com uma concentração inferior a 96 % em volume medida no alcoómetro CE.\n\nA função de desnaturante é obtida através das substâncias indicadas nas alíneas a), b) e d). O tiofeno e o benzoato de denatónio alteram as características organolépticas do produto tornando impossível a sua ingestão, enquanto que a metiletilcetona, que tem um ponto de ebulição (79,6 °C) próximo do do álcool etílico (78,9 °C) é difícil de eliminar sem recorrer a técnicas pouco vantajosas do ponto de vista económico, o que facilita os controlos efectuados pelas autoridades financeiras a fim de detectar eventuais utilizações fraudulentas.\n\nO papel do CI Reactive Red 24 é conferir ao produto uma coloração vermelha característica que permite identificar imediatamente o fim a que se destina."
+  },
+  "e42520da017f6506": {
+   "fragment_id": "Luxemburgo",
+   "type": "divisao",
+   "heading": "Luxemburgo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Luxemburgo\n\n5 litros de metileno por hectolitro de álcool etílico, independentemente do teor alcoólico, e corante suficiente para produzir uma nítida cor azul ou violeta.\n\nPor «metileno», entende-se o seguinte:\n\n— o metileno propriamente dito, isto é, álcool metílico em bruto produzido a partir da destilação seca de madeira e contendo pelo menos 10 %, em massa, de acetona,\n\n— uma mistura de metileno e metanol contendo pelo menos 60 %, em massa, de metileno propriamente dito e 10 %, em massa, de acetona,\n\n— uma mistura de metanol, acetona e impurezas pirogénicas, com um forte cheiro empireumático, contendo pelo menos 10 %, em massa, de acetona."
+  },
+  "927b31dd537d23c1": {
+   "fragment_id": "Países Baixos",
+   "type": "divisao",
+   "heading": "Países Baixos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Países Baixos\n\nPor hectolitro de álcool etílico:\n\n5 litros de uma mistura, consistindo em:\n\n— 60 %, em volume, de metanol,\n\n— 11 %, em volume, de óleo de fusel (um concentrado de produtos derivados da destilação do álcool),\n\n— 20 %, em volume, de acetona,\n\n— 8 %, em volume, de água,\n\n— 0,5 %, em volume, de butanol,\n\n— 0,5 %, em volume, de formalina (uma solução aquosa de 37 %, em massa, de formaldeído),\n\njuntamente com corante, cuja quantidade e componentes devem preencher as condições estabelecidas pelo Serviço de Química do Serviço Fiscal."
+  },
+  "108bb6372ed0c1ce": {
+   "fragment_id": "Áustria",
+   "type": "divisao",
+   "heading": "Áustria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Áustria\n\n1. Por hectolitro de álcool etílico:\n\n— 0,5 kg de óleo de fusel (um subproduto da rectificação do álcool),\n\n— 0.05 kg de gasóleo correspondente ao código NC 2710, e\n\n— 1 kg de metiletilcetona.\n\n2. Por hectolitro de álcool etílico de produtos de cauda da destilação, enquanto subprodutos da rectificação do álcool de origem agrícola:\n\n— 1 kg de óleo de fusel (um subproduto da rectificação do álcool),\n\n— 0,01 kg de gasóleo correspondente ao código NC 2710, e\n\n— 0,2 kg de metiletilcetona."
+  },
+  "faf1909c962c4ad6": {
+   "fragment_id": "Portugal",
+   "type": "divisao",
+   "heading": "Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Portugal\n\nÁlcool etílico de qualidade inferior, contendo por hectolitro, no mínimo 5 litros de metanol e de alcoóis superiores, com um teor alcoólico superior ou igual a 90 % vol e inferior a 96 % vol, a que se adicionou por hectolitro:\n\n— 2 litros de essência de terebentina ou petróleo, e\n\n— 2 gramas de verde malaquite ou azul de metileno."
+  },
+  "3dfe47126abe4b9a": {
+   "fragment_id": "Finlândia",
+   "type": "divisao",
+   "heading": "Finlândia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Finlândia\n\nPor hectolitro de álcool etílico:\n\n— 2 litros de metiletilcetona e 3 litros de metilisobutilcetona,\n\n— 2 litros de acetona e 3 litros de metilisobutilcetona,\n\n— 3 litros de acetona e 2 gramas de benzoato de denatónio."
+  },
+  "7fca5d1d4e4048eb": {
+   "fragment_id": "Suécia",
+   "type": "divisao",
+   "heading": "Suécia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Suécia\n\nPor hectolitro de álcool etílico:\n\n— 2 litros de metiletilcetona e\n\n— 3 litros de metilisobutilcetona."
+  },
+  "ef08bcb60ebacb9a": {
+   "fragment_id": "Reino Unido",
+   "type": "divisao",
+   "heading": "Reino Unido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Reino Unido\n\nBase:\n\n— 90 % em massa, de etanol,\n\n— 9,5 %, em volume, de «wood naphtha» ([^4^](http://publications.europa.eu/resource/cellar/50bce654-73de-4d85-8983-7e603f15c444.0010.03/DOC_1#E0004)) e\n\n— 0,5 %, em volume, de piridina em bruto.\n\nSendo acrescentados a cada 1 000 litros desta mistura:\n\n— 3,75 litros de nafta mineral (petróleo), e\n\n— 1,5 ppm de violeta de metil.\n\n---"
+  },
+  "3a186d2fa7217d0b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/50bce654-73de-4d85-8983-7e603f15c444.0010.03/DOC_1#src.E0001)) JO n.º L 316 de 31. 10. 1992, p. 21.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/50bce654-73de-4d85-8983-7e603f15c444.0010.03/DOC_1#src.E0002)) JO n.º L 76 de 23. 3. 1992, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/50bce654-73de-4d85-8983-7e603f15c444.0010.03/DOC_1#src.E0003)) JO n.º L 390 de 31. 12. 1992, p. 124.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/50bce654-73de-4d85-8983-7e603f15c444.0010.03/DOC_1#src.E0004)) A «wood naphtha» é um produto eventualmente de síntese, capaz de conferir a uma mistura de 5 % de «wood naphtha» e 95 % de álcool etílico propriedades que a tornam imprópria para consumo como bebida. Tal é obtido mediante a produção de uma «mistura» relativamente complexa mas extável estável de substâncias que não podem ser facilmente eliminadas do álcool metílico\n\n> Composição da «wood naphtha»:\n\n> Não existe uma lista obrigatória de componentes, mas a «wood naphtha» de síntese autorizada contém todos ou algunsdos seguintes elementos:\n\n> — piridina,\n\n> — bases pirídicas,\n\n> — álcool alílico,\n\n> — crotomaldeído,\n\n> — picoleno,\n\n> — benzoato de denatónio,\n\n> — álcool metílico."
+  },
+  "05e81fe76dca9a2b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Novembro de 1993\n\nrelativo ao reconhecimento mútuo dos processos de desnaturação total do álcool para efeitos de isenção do imposto especial de consumo\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/83/CEE do Conselho, de 19 de Outubro de 1992, relativa à harmonização da estrutura dos impostos especiais sobre o consumo de álcool e bebidas alcoólicas ([^1^](http://publications.europa.eu/resource/cellar/804f4460-522f-4db9-ba08-69d03ee85783.0010.03/DOC_1#E0001)), e, nomeadamente, o n.º 4 do seu artigo 27.º,\n\nTendo em conta a Directiva 92/12/CEE do Conselho, de 25 de Fevereiro de 1992, relativa ao regime geral, à detenção, à circulação e aos controlos dos produtos sujeitos a impostos especiais de consumo ([^2^](http://publications.europa.eu/resource/cellar/804f4460-522f-4db9-ba08-69d03ee85783.0010.03/DOC_1#E0002)), alterada pela Directiva 92/108/CEE ([^3^](http://publications.europa.eu/resource/cellar/804f4460-522f-4db9-ba08-69d03ee85783.0010.03/DOC_1#E0003)), e, nomeadamente, o seu artigo 24.º,\n\nTendo em conta o parecer do Comité dos impostos especiais de consumo,\n\nConsiderando que, nos termos do n.º 1, alínea a), do artigo 27.º da Directiva 92/83/CEE do Conselho, os Estados-membros devem isentar do imposto especial de consumo o álcool totalmente desnaturado de acordo com as normas de qualquer dos Estados-membros, desde que essas normas tenham sido devidamente notificadas e aceites nos termos do disposto nos n.^os^ 3 e 4 do referido artigo;\n\nConsiderando que foram recebidas objecções quanto às normas notificadas;\n\nConsiderando, por conseguinte, que nos termos do disposto no n.º 4 do referido artigo, deve ser tomada uma decisão de acordo com o procedimento previsto no artigo 24.º da Directiva 92/12/CEE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ff84d9a5b4496e1c": {
+   "fragment_id": "Reino Unido",
+   "type": "divisao",
+   "heading": "Reino Unido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Reino Unido\n\nBase:\n\n— 90 % em massa, de etanol,\n\n— 9,5 %, em volume, de «wood naphtha» ([^4^](http://publications.europa.eu/resource/cellar/804f4460-522f-4db9-ba08-69d03ee85783.0010.03/DOC_1#E0004)) e\n\n— 0,5 %, em volume, de piridina em bruto.\n\nSendo acrescentados a cada 1 000 litros desta mistura:\n\n— 3,75 litros de nafta mineral (petróleo), e\n\n— 1,5 ppm de violeta de metil."
+  },
+  "83c83abb8948b38e": {
+   "fragment_id": "Chipre",
+   "type": "divisao",
+   "heading": "Chipre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Chipre\n\nPor hectolitro de álcool etílico\n\n5 litros de metanol desnaturado\n\n0,5 litros de petróleo de iluminação\n\n2 cm^3^ de azul de metileno (violeta de metilo)\n\nPor «metanol desnaturado», entende-se, quer:\n\na) álcool metílico puro a que foi adicionado pelo menos 1 %, em volume, de piridina,\n\nb) metanol a que foi adicionado pelo menos 0,25 %, em volume, de piridina."
+  },
+  "92aa6c9498c97321": {
+   "fragment_id": "República Checa",
+   "type": "divisao",
+   "heading": "República Checa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### República Checa\n\nPor hectolitro de álcool puro:\n\n— 1 grama de benzoato de denatónio,\n\n— 0,2 litros de tiofeno,\n\n— 1 litro de metiletilcetona (butanona) e\n\n— 0,2 gramas de azul de metileno (Basic blue 52015, Colour Index).\n\n— 0,4 litros de solvente nafta,\n\n— 0,2 litros de petróleo de iluminação e\n\n— 0,1 litros de *technical petrol*."
+  },
+  "79f82af5255d3c95": {
+   "fragment_id": "Estónia",
+   "type": "divisao",
+   "heading": "Estónia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Estónia\n\nPor hectolitro de álcool etílico:\n\n1) 2 litros de metiletilcetona e 3 litros de metilisobutilcetona;\n\n2) 2 litros de acetona e 3 litros de metilisobutilcetona;\n\n3) 3 litros de acetona e 2 gramas de benzoato de denatónio."
+  },
+  "cdba51111f739ab2": {
+   "fragment_id": "Hungria",
+   "type": "divisao",
+   "heading": "Hungria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Hungria\n\nOs produtos alcoólicos podem ser considerados álcool desnaturado (obtido por desnaturação) se contiverem, relativamente à sua quantidade de álcool etílico puro, pelo menos:\n\na) 2 %, em massa, de metiletilcetona, 3 %, em massa, de metilisobutilcetona e 0,001 %, em massa, de benzoato de denatónio; ou\n\nb) 1 %, em massa, de metiletilcetona e 0,001 %, em massa, de benzoato de denatónio; ou\n\nc) 2 %, em massa, de álcool isopropílico, 1 %, em massa, de álcool terbutílico e 0,001 %, em massa, de benzoato de denatónio\n\ne o seu teor alcoólico não for inferior a 92 % vol.\n\nSó podem ser considerados produtos desnaturados os produtos químicos cuja qualidade seja comprovada por certificados de análise."
+  },
+  "2757812da55a3431": {
+   "fragment_id": "Letónia",
+   "type": "divisao",
+   "heading": "Letónia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Letónia\n\nQuantidade mínima por hectolitro de álcool:\n\n1) Mistura das seguintes substâncias:\n\n— 9 litros de álcool isopropílico\n\n— 1 litro de acetona\n\n— 0,4 gramas de azul de metileno ou azul de timol ou violeta de metilo\n\n2) Mínimo 5 litros e máximo 7 litros de éter de petróleo ou petróleo\n\n3) Mistura das seguintes substâncias:\n\n— 2 litros de metiletilcetona\n\n— 3 litros de metilisobutilcetona\n\n4) Mistura das seguintes substâncias:\n\n— 3 litros de acetona ou álcool isopropílico\n\n— 2 gramas de benzoato de denatónio\n\n5) 10 litros de acetato de etilo"
+  },
+  "ddc372b5da0524ee": {
+   "fragment_id": "Lituânia",
+   "type": "divisao",
+   "heading": "Lituânia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lituânia\n\n| Tipo de álcool etílico | Desnaturantes | Quantidade de desnaturantes por hectolitro de álcool puro |\n| --- | --- | --- |\n| Álcool etílico ou fracção aldeídica de álcool etílico ou fracção aldeídica destilada de álcool etílico | Acetona e Benzoato de denatónio | 3 litros 2 gramas |"
+  },
+  "2c107b5020178a9a": {
+   "fragment_id": "Malta",
+   "type": "divisao",
+   "heading": "Malta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Malta\n\nÁlcool desnaturado mineralizado —\n\nBase:\n\nEtanol a 90 % vol\n\n9,5 %, em volume, de metanol e\n\n0,5 %, em volume, de piridina em bruto\n\nSendo adicionados a cada 1 000 litros de base:\n\n— 3,75 litros de petróleo e ainda\n\n— 1,50 ppm de violeta de metilo."
+  },
+  "e2e1ca06285b4e78": {
+   "fragment_id": "Polónia",
+   "type": "divisao",
+   "heading": "Polónia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Polónia\n\nPor hectolitro de álcool puro:\n\n1) 0,75 litros de metiletilcetona, constituído por\n\n— 95 % a 96 %, em massa, de metiletilcetona,\n\n— 2,5 % a 3 %, em massa, de metilisopropilcetona,\n\n— 1,5 % a 2 %, em massa, de etilisoamilcetona (5-metil-3-heptanona)\n\n2) Um litro de metiletilcetona, constituído por\n\n— 95 % a 96 %, em massa, de metiletilcetona,\n\n— 2,5 % a 3 %, em massa, de metilisopropilcetona,\n\n— 1,5 % a 2 %, em massa, de etilisoamilcetona (5-metil-3-heptanona),"
+  },
+  "c4e9f70475741de0": {
+   "fragment_id": "Eslováquia",
+   "type": "divisao",
+   "heading": "Eslováquia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Eslováquia\n\nPor hectolitro de álcool puro (1 hl a.), adicionar:\n\n2 litros de metiletilcetona,\n\n3 litros de metilisobutilcetona\n\n1 grama de benzoato de denatónio e\n\n0,2 gramas de azul de metileno.\n\n1,5 litros de *technical petrol* (destilado especial),\n\n1,5 litros de petróleo de iluminação e\n\n2 gramas de benzoato de denatónio.\n\nO hectolitro de álcool puro (hl a.) é medido à temperatura de 20 °C."
+  },
+  "8dc9273854ed3dfc": {
+   "fragment_id": "Eslovénia",
+   "type": "divisao",
+   "heading": "Eslovénia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Eslovénia\n\nPor hectolitro de álcool etílico puro:\n\n— 1 580 g de álcool isopropílico e\n\n— 790 g de álcool terbutílico e\n\n— 0,79 g de benzoato de denatónio.\n\n---"
+  },
+  "8caa7b67f9c64430": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/804f4460-522f-4db9-ba08-69d03ee85783.0010.03/DOC_1#src.E0001)) JO n.º L 316 de 31. 10. 1992, p. 21.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/804f4460-522f-4db9-ba08-69d03ee85783.0010.03/DOC_1#src.E0002)) JO n.º L 76 de 23. 3. 1992, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/804f4460-522f-4db9-ba08-69d03ee85783.0010.03/DOC_1#src.E0003)) JO n.º L 390 de 31. 12. 1992, p. 124.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/804f4460-522f-4db9-ba08-69d03ee85783.0010.03/DOC_1#src.E0004)) A «wood naphtha» é um produto eventualmente de síntese, capaz de conferir a uma mistura de 5 % de «wood naphtha» e 95 % de álcool etílico propriedades que a tornam imprópria para consumo como bebida. Tal é obtido mediante a produção de uma «mistura» relativamente complexa mas extável estável de substâncias que não podem ser facilmente eliminadas do álcool metílico\n\n> Composição da «wood naphtha»:\n\n> Não existe uma lista obrigatória de componentes, mas a «wood naphtha» de síntese autorizada contém todos ou algunsdos seguintes elementos:\n\n> — piridina,\n\n> — bases pirídicas,\n\n> — álcool alílico,\n\n> — crotomaldeído,\n\n> — picoleno,\n\n> — benzoato de denatónio,\n\n> — álcool metílico."
+  },
+  "c87556f993b3203e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Novembro de 1993\n\nrelativo ao reconhecimento mútuo dos processos de desnaturação total do álcool para efeitos de isenção do imposto especial de consumo\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/83/CEE do Conselho, de 19 de Outubro de 1992, relativa à harmonização da estrutura dos impostos especiais sobre o consumo de álcool e bebidas alcoólicas ([^1^](http://publications.europa.eu/resource/cellar/8fe696b2-9bcd-4eac-9f06-1284beafc115.0017.03/DOC_1#E0001)), e, nomeadamente, o n.º 4 do seu artigo 27.º,\n\nTendo em conta a Directiva 92/12/CEE do Conselho, de 25 de Fevereiro de 1992, relativa ao regime geral, à detenção, à circulação e aos controlos dos produtos sujeitos a impostos especiais de consumo ([^2^](http://publications.europa.eu/resource/cellar/8fe696b2-9bcd-4eac-9f06-1284beafc115.0017.03/DOC_1#E0002)), alterada pela Directiva 92/108/CEE ([^3^](http://publications.europa.eu/resource/cellar/8fe696b2-9bcd-4eac-9f06-1284beafc115.0017.03/DOC_1#E0003)), e, nomeadamente, o seu artigo 24.º,\n\nTendo em conta o parecer do Comité dos impostos especiais de consumo,\n\nConsiderando que, nos termos do n.º 1, alínea a), do artigo 27.º da Directiva 92/83/CEE do Conselho, os Estados-membros devem isentar do imposto especial de consumo o álcool totalmente desnaturado de acordo com as normas de qualquer dos Estados-membros, desde que essas normas tenham sido devidamente notificadas e aceites nos termos do disposto nos n.^os^ 3 e 4 do referido artigo;\n\nConsiderando que foram recebidas objecções quanto às normas notificadas;\n\nConsiderando, por conseguinte, que nos termos do disposto no n.º 4 do referido artigo, deve ser tomada uma decisão de acordo com o procedimento previsto no artigo 24.º da Directiva 92/12/CEE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "b3f2e8a3996d2169": {
+   "fragment_id": "Reino Unido",
+   "type": "divisao",
+   "heading": "Reino Unido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Reino Unido\n\nBase:\n\n— 90 % em massa, de etanol,\n\n— 9,5 %, em volume, de «wood naphtha» ([^4^](http://publications.europa.eu/resource/cellar/8fe696b2-9bcd-4eac-9f06-1284beafc115.0017.03/DOC_1#E0004)) e\n\n— 0,5 %, em volume, de piridina em bruto.\n\nSendo acrescentados a cada 1 000 litros desta mistura:\n\n— 3,75 litros de nafta mineral (petróleo), e\n\n— 1,5 ppm de violeta de metil."
+  },
+  "8acb14bfbea465e2": {
+   "fragment_id": "Letónia",
+   "type": "divisao",
+   "heading": "Letónia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Letónia\n\nQuantidade mínima por hectolitro de álcool:\n\n1) Mistura das seguintes substâncias:\n\n— 9 litros de álcool isopropílico,\n\n— 1 litro de acetona,\n\n— 0,4 gramas de azul de metileno ou azul de timol ou violeta de metilo;\n\n2) Mistura das seguintes substâncias:\n\n— 2 litros de metiletilcetona,\n\n— 3 litros de metilisobutilcetona;\n\n3) Mistura das seguintes substâncias:\n\n— 3 litros de acetona ou álcool isopropílico,\n\n— 2 gramas de benzoato de denatónio;\n\n4) 10 litros de acetato de etilo.\n\nQuantidade mínima por hectolitro de álcool etílico desidratado (contendo, no máximo, 0,5 % de água):\n\n1) Mínimo 5 litros e máximo 7 litros de éter de petróleo ou petróleo."
+  },
+  "84e2526baae2fa4c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8fe696b2-9bcd-4eac-9f06-1284beafc115.0017.03/DOC_1#src.E0001)) JO n.º L 316 de 31. 10. 1992, p. 21.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8fe696b2-9bcd-4eac-9f06-1284beafc115.0017.03/DOC_1#src.E0002)) JO n.º L 76 de 23. 3. 1992, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/8fe696b2-9bcd-4eac-9f06-1284beafc115.0017.03/DOC_1#src.E0003)) JO n.º L 390 de 31. 12. 1992, p. 124.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/8fe696b2-9bcd-4eac-9f06-1284beafc115.0017.03/DOC_1#src.E0004)) A «wood naphtha» é um produto eventualmente de síntese, capaz de conferir a uma mistura de 5 % de «wood naphtha» e 95 % de álcool etílico propriedades que a tornam imprópria para consumo como bebida. Tal é obtido mediante a produção de uma «mistura» relativamente complexa mas extável estável de substâncias que não podem ser facilmente eliminadas do álcool metílico\n\n> Composição da «wood naphtha»:\n\n> Não existe uma lista obrigatória de componentes, mas a «wood naphtha» de síntese autorizada contém todos ou algunsdos seguintes elementos:\n\n> — piridina,\n\n> — bases pirídicas,\n\n> — álcool alílico,\n\n> — crotomaldeído,\n\n> — picoleno,\n\n> — benzoato de denatónio,\n\n> — álcool metílico."
+  },
+  "7b666e8c173e1775": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Novembro de 1993\n\nrelativo ao reconhecimento mútuo dos processos de desnaturação total do álcool para efeitos de isenção do imposto especial de consumo\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/83/CEE do Conselho, de 19 de Outubro de 1992, relativa à harmonização da estrutura dos impostos especiais sobre o consumo de álcool e bebidas alcoólicas ([^1^](http://publications.europa.eu/resource/cellar/60830ec2-5fb4-4554-879b-10fe60c60fbe.0017.03/DOC_1#E0001)), e, nomeadamente, o n.º 4 do seu artigo 27.º,\n\nTendo em conta a Directiva 92/12/CEE do Conselho, de 25 de Fevereiro de 1992, relativa ao regime geral, à detenção, à circulação e aos controlos dos produtos sujeitos a impostos especiais de consumo ([^2^](http://publications.europa.eu/resource/cellar/60830ec2-5fb4-4554-879b-10fe60c60fbe.0017.03/DOC_1#E0002)), alterada pela Directiva 92/108/CEE ([^3^](http://publications.europa.eu/resource/cellar/60830ec2-5fb4-4554-879b-10fe60c60fbe.0017.03/DOC_1#E0003)), e, nomeadamente, o seu artigo 24.º,\n\nTendo em conta o parecer do Comité dos impostos especiais de consumo,\n\nConsiderando que, nos termos do n.º 1, alínea a), do artigo 27.º da Directiva 92/83/CEE do Conselho, os Estados-membros devem isentar do imposto especial de consumo o álcool totalmente desnaturado de acordo com as normas de qualquer dos Estados-membros, desde que essas normas tenham sido devidamente notificadas e aceites nos termos do disposto nos n.^os^ 3 e 4 do referido artigo;\n\nConsiderando que foram recebidas objecções quanto às normas notificadas;\n\nConsiderando, por conseguinte, que nos termos do disposto no n.º 4 do referido artigo, deve ser tomada uma decisão de acordo com o procedimento previsto no artigo 24.º da Directiva 92/12/CEE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "275d052cdb278dfa": {
+   "fragment_id": "Reino Unido",
+   "type": "divisao",
+   "heading": "Reino Unido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Reino Unido\n\nBase:\n\n— 90 % em massa, de etanol,\n\n— 9,5 %, em volume, de «wood naphtha» ([^4^](http://publications.europa.eu/resource/cellar/60830ec2-5fb4-4554-879b-10fe60c60fbe.0017.03/DOC_1#E0004)) e\n\n— 0,5 %, em volume, de piridina em bruto.\n\nSendo acrescentados a cada 1 000 litros desta mistura:\n\n— 3,75 litros de nafta mineral (petróleo), e\n\n— 1,5 ppm de violeta de metil."
+  },
+  "979eeea9d0951a84": {
+   "fragment_id": "Eslovénia",
+   "type": "divisao",
+   "heading": "Eslovénia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Eslovénia\n\nPor hectolitro de álcool etílico puro:\n\n— 1 580 g de álcool isopropílico e\n\n— 790 g de álcool terbutílico e\n\n— 0,79 g de benzoato de denatónio."
+  },
+  "1d9c4d9ee8244559": {
+   "fragment_id": "Bulgária",
+   "type": "divisao",
+   "heading": "Bulgária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Bulgária\n\nPara a desnaturação total do álcool etílico, adicionam-se as seguintes substâncias, nas quantidades mencionadas, a 100 litros de álcool etílico com um teor efectivo mínimo de álcool de 90 %, em volume:\n\n— 5 litros de metiletilcetona,\n\n— 2 litros de álcool isopropílico,\n\n— 0,2 gramas de azul de metileno."
+  },
+  "82302732e7d3eed5": {
+   "fragment_id": "Roménia",
+   "type": "divisao",
+   "heading": "Roménia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Roménia\n\nPor hectolitro de álcool puro:\n\n— 1 grama de benzoato de denatónio,\n\n— 2 litros de metiletilcetona (butanona), e\n\n— 0,2 gramas de azul de metileno.\n\n---"
+  },
+  "3a74abb2d3200de2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/60830ec2-5fb4-4554-879b-10fe60c60fbe.0017.03/DOC_1#src.E0001)) JO n.º L 316 de 31. 10. 1992, p. 21.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/60830ec2-5fb4-4554-879b-10fe60c60fbe.0017.03/DOC_1#src.E0002)) JO n.º L 76 de 23. 3. 1992, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/60830ec2-5fb4-4554-879b-10fe60c60fbe.0017.03/DOC_1#src.E0003)) JO n.º L 390 de 31. 12. 1992, p. 124.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/60830ec2-5fb4-4554-879b-10fe60c60fbe.0017.03/DOC_1#src.E0004)) A «wood naphtha» é um produto eventualmente de síntese, capaz de conferir a uma mistura de 5 % de «wood naphtha» e 95 % de álcool etílico propriedades que a tornam imprópria para consumo como bebida. Tal é obtido mediante a produção de uma «mistura» relativamente complexa mas extável estável de substâncias que não podem ser facilmente eliminadas do álcool metílico\n\n> Composição da «wood naphtha»:\n\n> Não existe uma lista obrigatória de componentes, mas a «wood naphtha» de síntese autorizada contém todos ou algunsdos seguintes elementos:\n\n> — piridina,\n\n> — bases pirídicas,\n\n> — álcool alílico,\n\n> — crotomaldeído,\n\n> — picoleno,\n\n> — benzoato de denatónio,\n\n> — álcool metílico."
+  },
+  "ca559060a404fe61": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Novembro de 1993\n\nrelativo ao reconhecimento mútuo dos processos de desnaturação total do álcool para efeitos de isenção do imposto especial de consumo\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/83/CEE do Conselho, de 19 de Outubro de 1992, relativa à harmonização da estrutura dos impostos especiais sobre o consumo de álcool e bebidas alcoólicas ([^1^](http://publications.europa.eu/resource/cellar/bcde715c-1a01-42dc-9ffb-b3c3e8ee3541.0018.03/DOC_1#E0001)), e, nomeadamente, o n.º 4 do seu artigo 27.º,\n\nTendo em conta a Directiva 92/12/CEE do Conselho, de 25 de Fevereiro de 1992, relativa ao regime geral, à detenção, à circulação e aos controlos dos produtos sujeitos a impostos especiais de consumo ([^2^](http://publications.europa.eu/resource/cellar/bcde715c-1a01-42dc-9ffb-b3c3e8ee3541.0018.03/DOC_1#E0002)), alterada pela Directiva 92/108/CEE ([^3^](http://publications.europa.eu/resource/cellar/bcde715c-1a01-42dc-9ffb-b3c3e8ee3541.0018.03/DOC_1#E0003)), e, nomeadamente, o seu artigo 24.º,\n\nTendo em conta o parecer do Comité dos impostos especiais de consumo,\n\nConsiderando que, nos termos do n.º 1, alínea a), do artigo 27.º da Directiva 92/83/CEE do Conselho, os Estados-membros devem isentar do imposto especial de consumo o álcool totalmente desnaturado de acordo com as normas de qualquer dos Estados-membros, desde que essas normas tenham sido devidamente notificadas e aceites nos termos do disposto nos n.^os^ 3 e 4 do referido artigo;\n\nConsiderando que foram recebidas objecções quanto às normas notificadas;\n\nConsiderando, por conseguinte, que nos termos do disposto no n.º 4 do referido artigo, deve ser tomada uma decisão de acordo com o procedimento previsto no artigo 24.º da Directiva 92/12/CEE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "912f7586ce467e9a": {
+   "fragment_id": "Grécia",
+   "type": "divisao",
+   "heading": "Grécia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Grécia\n\nÁlcool etílico de baixa qualidade (destilados de cabeça e de cauda), com teor alcoólico volúmico não inferior a 93 % e não superior a 96 %, ao qual são adicionadas as seguintes substâncias por hectolitro de álcool hidratado a 93 % (vol.):\n\n— metanol: 2 litros,\n\n— essência de terebintina: 1 litro,\n\n— petróleo de iluminação: 0,50 litros,\n\n— azul de metileno: 0,40 gramas.\n\nÀ temperatura de 20 °C, o produto final, no seu estado inalterado, deverá atingir 93 % (vol.)."
+  },
+  "b221b458512ebb99": {
+   "fragment_id": "Reino Unido",
+   "type": "divisao",
+   "heading": "Reino Unido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Reino Unido\n\nBase:\n\n— 90 % em massa, de etanol,\n\n— 9,5 %, em volume, de «wood naphtha» ([^4^](http://publications.europa.eu/resource/cellar/bcde715c-1a01-42dc-9ffb-b3c3e8ee3541.0018.03/DOC_1#E0004)) e\n\n— 0,5 %, em volume, de piridina em bruto.\n\nSendo acrescentados a cada 1 000 litros desta mistura:\n\n— 3,75 litros de nafta mineral (petróleo), e\n\n— 1,5 ppm de violeta de metil."
+  },
+  "bceff921b8bfd5b0": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/bcde715c-1a01-42dc-9ffb-b3c3e8ee3541.0018.03/DOC_1#src.E0001)) JO n.º L 316 de 31. 10. 1992, p. 21.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/bcde715c-1a01-42dc-9ffb-b3c3e8ee3541.0018.03/DOC_1#src.E0002)) JO n.º L 76 de 23. 3. 1992, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/bcde715c-1a01-42dc-9ffb-b3c3e8ee3541.0018.03/DOC_1#src.E0003)) JO n.º L 390 de 31. 12. 1992, p. 124.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/bcde715c-1a01-42dc-9ffb-b3c3e8ee3541.0018.03/DOC_1#src.E0004)) A «wood naphtha» é um produto eventualmente de síntese, capaz de conferir a uma mistura de 5 % de «wood naphtha» e 95 % de álcool etílico propriedades que a tornam imprópria para consumo como bebida. Tal é obtido mediante a produção de uma «mistura» relativamente complexa mas extável estável de substâncias que não podem ser facilmente eliminadas do álcool metílico\n\n> Composição da «wood naphtha»:\n\n> Não existe uma lista obrigatória de componentes, mas a «wood naphtha» de síntese autorizada contém todos ou algunsdos seguintes elementos:\n\n> — piridina,\n\n> — bases pirídicas,\n\n> — álcool alílico,\n\n> — crotomaldeído,\n\n> — picoleno,\n\n> — benzoato de denatónio,\n\n> — álcool metílico."
+  },
+  "13dbad97d9617531": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Novembro de 1993\n\nrelativo ao reconhecimento mútuo dos processos de desnaturação total do álcool para efeitos de isenção do imposto especial de consumo\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/83/CEE do Conselho, de 19 de Outubro de 1992, relativa à harmonização da estrutura dos impostos especiais sobre o consumo de álcool e bebidas alcoólicas ([^1^](http://publications.europa.eu/resource/cellar/0fb8e334-9889-4918-a45c-38c23ac6666c.0018.03/DOC_1#E0001)), e, nomeadamente, o n.º 4 do seu artigo 27.º,\n\nTendo em conta a Directiva 92/12/CEE do Conselho, de 25 de Fevereiro de 1992, relativa ao regime geral, à detenção, à circulação e aos controlos dos produtos sujeitos a impostos especiais de consumo ([^2^](http://publications.europa.eu/resource/cellar/0fb8e334-9889-4918-a45c-38c23ac6666c.0018.03/DOC_1#E0002)), alterada pela Directiva 92/108/CEE ([^3^](http://publications.europa.eu/resource/cellar/0fb8e334-9889-4918-a45c-38c23ac6666c.0018.03/DOC_1#E0003)), e, nomeadamente, o seu artigo 24.º,\n\nTendo em conta o parecer do Comité dos impostos especiais de consumo,\n\nConsiderando que, nos termos do n.º 1, alínea a), do artigo 27.º da Directiva 92/83/CEE do Conselho, os Estados-membros devem isentar do imposto especial de consumo o álcool totalmente desnaturado de acordo com as normas de qualquer dos Estados-membros, desde que essas normas tenham sido devidamente notificadas e aceites nos termos do disposto nos n.^os^ 3 e 4 do referido artigo;\n\nConsiderando que foram recebidas objecções quanto às normas notificadas;\n\nConsiderando, por conseguinte, que nos termos do disposto no n.º 4 do referido artigo, deve ser tomada uma decisão de acordo com o procedimento previsto no artigo 24.º da Directiva 92/12/CEE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "c416d16550ce4da4": {
+   "fragment_id": "Grécia",
+   "type": "divisao",
+   "heading": "Grécia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Grécia\n\nÁlcool etílico de baixa qualidade (destilados de cabeça e de cauda), com teor alcoólico volúmico não inferior a 93 % e não superior a 96 %, ao qual são adicionadas as seguintes substâncias por hectolitro de álcool hidratado a 93 % (vol.):\n\n— metanol: 2 litros,\n\n— essência de terebintina: 1 litro,\n\n— petróleo de iluminação: 0,50 litros,\n\n— azul de metileno: 0,40 gramas.\n\nÀ temperatura de 20 ºC, o produto final, no seu estado inalterado, deverá atingir 93 % (vol.)."
+  },
+  "c0a489c27247d97c": {
+   "fragment_id": "França",
+   "type": "divisao",
+   "heading": "França",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### França\n\nA 1 hectolitro de álcool etílico a 90 % vol acrescentar:\n\n— 3,5 litros de metileno, e\n\n— 1 litro de álcool isopropílico.\n\n*Metileno da* Régie\n\nDefinição:\n\nEm conformidade com o decreto ministerial de 7 de Maio de 1955, adoptado após consulta do Serviço de Laboratório do Ministério dos Assuntos Económicos e das Finanças, o metileno da *Régie* deve preencher as seguintes condições:\n\n— deve titular 90 % vol a uma temperatura de 20 ºC, com uma tolerância de 0,5,\n\n— deve conter pelo menos 6 % de impurezas pirogénicas (exceptuando os produtos que podem ser saponificados pela soda, expressos em acetato de metilo),\n\n— deve conter cetonas e água, de modo a completar o álcool metílico até 100,\n\n— deve ser obtido exclusivamente a partir da carbonização da madeira, efectuada sob o controlo das autoridades fiscais.\n\nAs impurezas pirogénicas constituem o verdadeiro desnaturante. Conferem à mistura um sabor desagradável, tornando o álcool impróprio para consumo oral.\n\nDevido às suas propriedades químicas, a acetona permite isolar mais facilmente, em laboratório, o desnaturante do álcool.\n\nFinalmente, o álcool metílico indica desnaturação. O seu ponto de ebulição é sensivelmente idêntico ao do álcool etílico. Por conseguinte, apenas pode ser separado utilizando técnicas e equipamentos especiais.\n\nEm princípio, a partir de uma determinada percentagem, que varia de acordo com os diversos tipos de álcool etílico, a sua presença indica se o álcool analisado foi previamente desnaturado pelo processo geral."
+  },
+  "37ea127cf83844fb": {
+   "fragment_id": "Itália",
+   "type": "divisao",
+   "heading": "Itália",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Itália\n\nO álcool etílico a desnaturar deve apresentar uma taxa de álcool etílico não inferior a 83 % em volume e um título medido com um alcoómetro da CE não inferior a 90 % em volume. Por hectolitro de álcool etílico anídrico acrescentar:\n\na) 125 gramas de tiofeno;\n\nb) 0,8 gramas de benzoato de denatónio;\n\nc) 3 gramas de CI Reactive Red 24 (corante vermelho), solução a 25 % em peso;\n\nd) 2 litros de metiletilcetona.\n\nA fim de assegurar a solubilidade total de todos os componentes, a mistura dos desnaturantes deve ser preparada em álcool etílico com uma concentração inferior a 96 % em volume medida no alcoómetro CE.\n\nA função de desnaturante é obtida através das substâncias indicadas nas alíneas a), b) e d). O tiofeno e o benzoato de denatónio alteram as características organolépticas do produto tornando impossível a sua ingestão, enquanto que a metiletilcetona, que tem um ponto de ebulição (79,6 ºC) próximo do do álcool etílico (78,9 ºC) é difícil de eliminar sem recorrer a técnicas pouco vantajosas do ponto de vista económico, o que facilita os controlos efectuados pelas autoridades financeiras a fim de detectar eventuais utilizações fraudulentas.\n\nO papel do CI Reactive Red 24 é conferir ao produto uma coloração vermelha característica que permite identificar imediatamente o fim a que se destina."
+  },
+  "0791abbb6ee073c7": {
+   "fragment_id": "Reino Unido",
+   "type": "divisao",
+   "heading": "Reino Unido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Reino Unido\n\nBase:\n\n— 90 % em massa, de etanol,\n\n— 9,5 %, em volume, de «wood naphtha» ([^4^](http://publications.europa.eu/resource/cellar/0fb8e334-9889-4918-a45c-38c23ac6666c.0018.03/DOC_1#E0004)) e\n\n— 0,5 %, em volume, de piridina em bruto.\n\nSendo acrescentados a cada 1 000 litros desta mistura:\n\n— 3,75 litros de nafta mineral (petróleo), e\n\n— 1,5 ppm de violeta de metil."
+  },
+  "d1c1b16214edddb8": {
+   "fragment_id": "República Checa",
+   "type": "divisao",
+   "heading": "República Checa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### República Checa\n\nPor hectolitro de álcool puro:\n\n— 1 grama de benzoato de denatónio,\n\n— 0,2 litros de tiofeno,\n\n— 1 litro de metiletilcetona (butanona) e\n\n— 0,2 gramas de azul de metileno (Colour Index azul básico 52015);\n\n— 0,4 litros de solvente-nafta,\n\n— 0,2 litros de querosene e\n\n— 0,1 litros de *technical petrol*;\n\n— 3 litros de éter etilterbutílico (ETBE), CAS: 637-92-3\n\n— 1 litro de álcool isopropílico (IPA), CAS: 67-63-0\n\n— 1,0 litros de gasolina sem chumbo (BA 95 Natural), CAS: 86290-81-5\n\n— 10 miligramas de fluoresceína, CAS: 2321-07-05."
+  },
+  "53ff8b6fe50b2de5": {
+   "fragment_id": "Letónia",
+   "type": "divisao",
+   "heading": "Letónia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Letónia\n\nQuantidade mínima por hectolitro de álcool:\n\n1. Mistura das seguintes substâncias:\n\n— 9 litros de álcool isopropílico,\n\n— 1 litro de acetona,\n\n— 0,4 gramas de azul de metileno ou azul de timol ou violeta de metilo;\n\n2. Mistura das seguintes substâncias:\n\n— 2 litros de metiletilcetona,\n\n— 3 litros de metilisobutilcetona;\n\n3. Mistura das seguintes substâncias:\n\n— 3 litros de acetona,\n\n— 2 gramas de benzoato de denatónio;\n\n4. 10 litros de acetato de etilo.\n\nQuantidade mínima por hectolitro de álcool etílico desidratado (contendo, no máximo, 0,5 % de água):\n\n1. Mínimo 5 litros e máximo 7 litros de éter de petróleo ou petróleo."
+  },
+  "8d49ca31f74ac7a2": {
+   "fragment_id": "Eslováquia",
+   "type": "divisao",
+   "heading": "Eslováquia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Eslováquia\n\nPor hectolitro de álcool puro (1 hl a.), adicionar:\n\n2 litros de metiletilcetona,\n\n3 litros de metilisobutilcetona\n\n1 grama de benzoato de denatónio e\n\n0,2 gramas de azul de metileno.\n\n1,5 litros de *technical petrol* (destilado especial),\n\n1,5 litros de petróleo de iluminação e\n\n2 gramas de benzoato de denatónio.\n\nO hectolitro de álcool puro (hl a.) é medido à temperatura de 20 ºC."
+  },
+  "22d210eb496ab62a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/0fb8e334-9889-4918-a45c-38c23ac6666c.0018.03/DOC_1#src.E0001)) JO n.º L 316 de 31. 10. 1992, p. 21.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/0fb8e334-9889-4918-a45c-38c23ac6666c.0018.03/DOC_1#src.E0002)) JO n.º L 76 de 23. 3. 1992, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/0fb8e334-9889-4918-a45c-38c23ac6666c.0018.03/DOC_1#src.E0003)) JO n.º L 390 de 31. 12. 1992, p. 124.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/0fb8e334-9889-4918-a45c-38c23ac6666c.0018.03/DOC_1#src.E0004)) A «wood naphtha» é um produto eventualmente de síntese, capaz de conferir a uma mistura de 5 % de «wood naphtha» e 95 % de álcool etílico propriedades que a tornam imprópria para consumo como bebida. Tal é obtido mediante a produção de uma «mistura» relativamente complexa mas extável estável de substâncias que não podem ser facilmente eliminadas do álcool metílico\n\n> Composição da «wood naphtha»:\n\n> Não existe uma lista obrigatória de componentes, mas a «wood naphtha» de síntese autorizada contém todos ou algunsdos seguintes elementos:\n\n> — piridina,\n\n> — bases pirídicas,\n\n> — álcool alílico,\n\n> — crotomaldeído,\n\n> — picoleno,\n\n> — benzoato de denatónio,\n\n> — álcool metílico."
+  },
+  "63cbf62b341341e7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Novembro de 1993\n\nrelativo ao reconhecimento mútuo dos processos de desnaturação total do álcool para efeitos de isenção do imposto especial de consumo\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/83/CEE do Conselho, de 19 de Outubro de 1992, relativa à harmonização da estrutura dos impostos especiais sobre o consumo de álcool e bebidas alcoólicas ([^1^](http://publications.europa.eu/resource/cellar/67f74c68-d5aa-439e-99fd-502bf6f49fe2.0018.03/DOC_1#E0001)), e, nomeadamente, o n.º 4 do seu artigo 27.º,\n\nTendo em conta a Directiva 92/12/CEE do Conselho, de 25 de Fevereiro de 1992, relativa ao regime geral, à detenção, à circulação e aos controlos dos produtos sujeitos a impostos especiais de consumo ([^2^](http://publications.europa.eu/resource/cellar/67f74c68-d5aa-439e-99fd-502bf6f49fe2.0018.03/DOC_1#E0002)), alterada pela Directiva 92/108/CEE ([^3^](http://publications.europa.eu/resource/cellar/67f74c68-d5aa-439e-99fd-502bf6f49fe2.0018.03/DOC_1#E0003)), e, nomeadamente, o seu artigo 24.º,\n\nTendo em conta o parecer do Comité dos impostos especiais de consumo,\n\nConsiderando que, nos termos do n.º 1, alínea a), do artigo 27.º da Directiva 92/83/CEE do Conselho, os Estados-membros devem isentar do imposto especial de consumo o álcool totalmente desnaturado de acordo com as normas de qualquer dos Estados-membros, desde que essas normas tenham sido devidamente notificadas e aceites nos termos do disposto nos n.^os^ 3 e 4 do referido artigo;\n\nConsiderando que foram recebidas objecções quanto às normas notificadas;\n\nConsiderando, por conseguinte, que nos termos do disposto no n.º 4 do referido artigo, deve ser tomada uma decisão de acordo com o procedimento previsto no artigo 24.º da Directiva 92/12/CEE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "01c51744defdf405": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nLista dos produtos autorizados com o respetivo número de registo CAS (Chemical Abstracts Service), quando disponível, e as fórmulas autorizadas para a desnaturação completa de álcool.\n\nAcetona CAS: 67-64-1\n\nCI Reactive Red 24 CAS: 70210-20-7\n\nPiridina em bruto CAS: não disponível\n\nVioleta de cristal (C.I. n.º 42555) CAS: 548-62-9\n\nBenzoato de denatónio CAS: 3734-33-6\n\nEtanol CAS: 64-17-5\n\nAcetato de etilo CAS: 141-78-6\n\nEtil-*sec*-amilcetona CAS: 541-85-5\n\nÉter etil-*terc*-butílico CAS: 637-92-3\n\nFluoresceína CAS: 2321-07-5\n\nFormaldeído CAS: 50-00-0\n\nÓleo de fusel CAS: 8013-75-0\n\nGasolina (incluindo gasolina sem chumbo) CAS: 86290-81-5\n\nÁlcool isopropílico (IPA) CAS: 67-63-0\n\nQuerosene CAS: 8008-20-6\n\nPetróleo de iluminação CAS: 64742-47-8 a 64742-48-9\n\nMetanol CAS: 67-56-1\n\nMetiletilcetona (butanona) (MEK) CAS: 78-93-3\n\nMetilisobutilcetona CAS: 108-10-1\n\nMetilisopropilcetona CAS: 563-80-4\n\nVioleta de metilo CAS: 8004-87-3\n\nAzul de metileno CAS: 61-73-4\n\nNafta mineral (nafta de petróleo) CAS: não disponível\n\nSolvente nafta CAS: 8030-30-6\n\nPiridina (ou bases piridínicas) CAS: 110-86-1\n\nEssência de terebintina CAS: 8006-64-2\n\n*Technical petrol* CAS: 92045-57-3\n\nÁlcool *terc*-butílico CAS: 75-65-0\n\nTiofeno CAS: 110-02-1\n\nAzul de timol CAS: 76-61-9\n\nNafta de madeira Não disponível\n\nSinónimos dos produtos autorizados estão disponíveis em várias línguas europeias no Inventário Aduaneiro Europeu de Substâncias Químicas.\n\nO termo «etanol absoluto» é usado em todo o anexo de acordo com a terminologia utilizada pela União Internacional de Química Pura e Aplicada (IUPAC)."
+  },
+  "6eb7e146e0beca68": {
+   "fragment_id": "I. Processo de desnaturação utilizado em todos os Estados-Membros",
+   "type": "divisao",
+   "heading": "I. Processo de desnaturação utilizado em todos os Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Processo de desnaturação utilizado em todos os Estados-Membros\n\nPor hectolitro de etanol absoluto:\n\n— 3 litros de álcool isopropílico (IPA),\n\n— 3 litros de metiletilcetona (MEK),\n\n— 1 grama de benzoato de denatónio.\n\nPara o mercado interno, os Estados-Membros estão autorizados a acrescentar um corante para dar ao produto uma cor característica, o que o torna imediatamente identificável."
+  },
+  "61b7b120390f8785": {
+   "fragment_id": "II. Processos de desnaturação adicionais utilizados em determinados Estados-Membros",
+   "type": "divisao",
+   "heading": "II. Processos de desnaturação adicionais utilizados em determinados Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Processos de desnaturação adicionais utilizados em determinados Estados-Membros"
+  },
+  "cd6c93124b10d275": {
+   "fragment_id": "República Checa",
+   "type": "divisao",
+   "heading": "República Checa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### República Checa\n\nPor hectolitro de etanol absoluto, uma das seguintes formulações:\n\n— 0,4 litros de solvente nafta,\n\n— 0,2 litros de querosene,\n\n— 0,1 litros de *technical petrol*.\n\n— 3 litros de éter etil *terc*-butílico,\n\n— 1 litro de álcool isopropílico,\n\n— 1 litro de gasolina sem chumbo,\n\n— 10 miligramas de fluoresceína."
+  },
+  "7167955329ad56cc": {
+   "fragment_id": "Alemanha",
+   "type": "divisao",
+   "heading": "Alemanha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Alemanha\n\nPor hectolitro de etanol absoluto:\n\n1 litro de mistura de cetona, que consiste em:\n\n— 95 % a 96 %, em peso, de metiletilcetona (MEK),\n\n— 2,5 % a 3 %, em peso, de metilisopropilcetona (3-metil-2-butanona),\n\n— 1,5 % a 2 %, em peso, de etil-*sec*-amilcetona (5- metil – 3 – heptanona),\n\njuntamente com um grama de benzoato de denatónio."
+  },
+  "d5c3863acec8fb37": {
+   "fragment_id": "Estónia",
+   "type": "divisao",
+   "heading": "Estónia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Estónia\n\nPor hectolitro de etanol absoluto:\n\n— 3 litros de acetona,\n\n— 2 gramas de benzoato de denatónio."
+  },
+  "d92e3bd90065a913": {
+   "fragment_id": "Irlanda",
+   "type": "divisao",
+   "heading": "Irlanda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Irlanda\n\nA base consiste numa mistura de:\n\n— 90 %, em volume, de etanol,\n\n— 9,5 %, em volume, de nafta de madeira,\n\n— 0,5 %, em volume, de piridina em bruto.\n\nA cada 10 hectolitros da base, acrescentar:\n\n— 3,75 litros de nafta mineral (petróleo),\n\n— 1,5 gramas de violeta de metilo.\n\n*Nota:* Os componentes de nafta de madeira e de piridina em bruto da base podem ser substituídos por 10 %, em volume, de metanol."
+  },
+  "33c032e21a3420c7": {
+   "fragment_id": "Grécia",
+   "type": "divisao",
+   "heading": "Grécia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Grécia\n\nApenas pode ser desnaturado álcool de qualidade inferior (destilados de cabeça e de cauda), com teor alcoólico volúmico não inferior a 93 % e não superior a 96 %.\n\nPor hectolitro de álcool hidratado a 93 % volume são adicionadas as seguintes substâncias:\n\n— 2 litros de metanol,\n\n— 1 litro de essência de terebintina,\n\n— 0,50 litros de petróleo de iluminação,\n\n— 0,40 gramas de azul de metileno.\n\nÀ temperatura de 20 °C, o produto final, no seu estado inalterado, deverá atingir 93 % de volume."
+  },
+  "b3a133384f871787": {
+   "fragment_id": "Itália",
+   "type": "divisao",
+   "heading": "Itália",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Itália\n\nPor hectolitro de etanol absoluto são adicionadas as seguintes substâncias:\n\n— 125 gramas de tiofeno,\n\n— 0,8 gramas de benzoato de denatónio,\n\n— 3 gramas de CI Reactive Red 24 (corante vermelho), solução aquosa a 25 % (m/m),\n\n— 2 litros de metiletilcetona (MEK).\n\nO álcool etílico a desnaturar deve ter um teor de álcool etílico não inferior a 83 % em volume e um grau alcoólico medido no alcoómetro CE não inferior a 90 % em volume.\n\nA fim de assegurar a solubilidade total de todos os componentes, a mistura dos desnaturantes deve ser preparada em álcool etílico com uma concentração inferior a 96 % em volume medida no alcoómetro CE.\n\nO papel do CI Reactive Red 24 é conferir ao produto uma coloração vermelha característica, que permite identificar imediatamente o fim a que se destina."
+  },
+  "f60170a1b20f3d4e": {
+   "fragment_id": "Letónia",
+   "type": "divisao",
+   "heading": "Letónia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Letónia\n\n1. Por hectolitro de etanol absoluto, uma das seguintes formulações:\n\na) no mínimo:\n\n— 9 litros de álcool isopropílico,\n\n— 1 litro de acetona,\n\n— 0,4 gramas de azul de metileno ou azul de timol ou violeta de cristal;\n\nb) no mínimo:\n\n— 3 litros de metilisobutilcetona,\n\n— 2 litros de metiletilcetona (MEK);\n\nc) no mínimo:\n\n— 3 litros de acetona,\n\n— 2 gramas de benzoato de denatónio;\n\nd) no mínimo, 10 litros de acetato de etilo.\n\n2. Por hectolitro de álcool etílico desidratado (contendo não mais de 0,5 % de água):"
+  },
+  "275ad71176a86a47": {
+   "fragment_id": "Lituânia",
+   "type": "divisao",
+   "heading": "Lituânia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Lituânia\n\nPor hectolitro de etanol absoluto:\n\n— 3 litros de acetona,\n\n— 2 gramas de benzoato de denatónio."
+  },
+  "4136d1137e3f5f95": {
+   "fragment_id": "Hungria",
+   "type": "divisao",
+   "heading": "Hungria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Hungria\n\nOs produtos alcoólicos por referência à sua quantidade de álcool puro contêm, pelo menos, uma das seguintes formulações:\n\na) 2 %, em peso, de metiletilcetona (MEK), 3 %, em peso, de metilisobutilcetona e 0,001 %, em peso, de benzoato de denatónio;\n\nb) 1 %, em peso, de metiletilcetona (MEK) e 0,001 %, em peso, de benzoato de denatónio;\n\nc) 2 %, em peso, de álcool isopropílico, 1 %, em peso, de álcool *terc*-butílico e 0,001 %, em peso, de benzoato de denatónio."
+  },
+  "4711990485f9ff15": {
+   "fragment_id": "Malta",
+   "type": "divisao",
+   "heading": "Malta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Malta\n\nA base consiste numa mistura de:\n\n— 90 %, em volume, de etanol,\n\n— 9,5 %, em volume, de nafta de madeira,\n\n— 0,5 %, em volume, de piridina em bruto.\n\nA cada 10 hectolitros da base, acrescentar:\n\n— 3,75 litros de nafta mineral (petróleo),\n\n— 1,5 gramas de violeta de metilo."
+  },
+  "b328c7a1a72dd70d": {
+   "fragment_id": "Países Baixos",
+   "type": "divisao",
+   "heading": "Países Baixos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Países Baixos\n\nPor hectolitro de etanol absoluto:\n\n5 litros de uma mistura que consiste em:\n\n— 60 %, em volume, de metanol,\n\n— 20 %, em volume, de acetona,\n\n— 11 %, em volume, de óleo de fusel (um concentrado de subprodutos derivados da destilação do álcool),\n\n— 8 %, em volume, de água,\n\n— 0,5 %, em volume, de metiletilcetona (MEK),\n\n— 0,5 %, em volume, de formalina (uma solução aquosa de 37 %, em peso, de formaldeído)."
+  },
+  "64bf23b90426074a": {
+   "fragment_id": "Áustria",
+   "type": "divisao",
+   "heading": "Áustria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Áustria\n\nPor hectolitro de etanol absoluto:\n\n1 litro de mistura de cetona, que consiste em:\n\n— 95 % a 96 %, em peso, de metiletilcetona (MEK),\n\n— 2,5 % a 3 %, em peso, de metilisopropilcetona,\n\n— 1,5 % a 2 %, em peso, de etil-*sec*-amilcetona,\n\njuntamente com um grama de benzoato de denatónio."
+  },
+  "4e673388d5b82e12": {
+   "fragment_id": "Polónia",
+   "type": "divisao",
+   "heading": "Polónia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Polónia\n\nPor hectolitro de etanol absoluto, uma das seguintes formulações:\n\n1. 0,75 litros de mistura de cetona, que consiste em:\n\n— 95 % a 96 %, em peso, de metiletilcetona (MEK),\n\n— 2,5 % a 3 %, em peso, de metilisopropilcetona,\n\n— 1,5 % a 2 %, em peso, de etil-*sec*-amilcetona,\n\n2. 1 litro de mistura de cetona, que consiste em:\n\n— 95 % a 96 %, em peso, de metiletilcetona (MEK),\n\n— 2,5 % a 3 %, em peso, de metilisopropilcetona,\n\n— 1,5 % a 2 %, em peso, de etil-*sec*-amilcetona,"
+  },
+  "2dec93d68beea7d1": {
+   "fragment_id": "Roménia",
+   "type": "divisao",
+   "heading": "Roménia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Roménia\n\nPor hectolitro de etanol absoluto:\n\n— 2 litros de metiletilcetona (MEK),\n\n— 1 grama de benzoato de denatónio,\n\n— 0,2 gramas de azul de metileno."
+  },
+  "c20fddd557c36e33": {
+   "fragment_id": "Eslovénia",
+   "type": "divisao",
+   "heading": "Eslovénia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Eslovénia\n\nPor hectolitro de etanol absoluto:\n\n— 1 580 gramas de álcool isopropílico,\n\n— 790 gramas de álcool *terc*-butílico,\n\n— 0,79 gramas de benzoato de denatónio."
+  },
+  "d7cfc23dd41c961f": {
+   "fragment_id": "Eslováquia",
+   "type": "divisao",
+   "heading": "Eslováquia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Eslováquia\n\nPor hectolitro de etanol absoluto:\n\n3 litros de metilisobutilcetona,\n\n2 litros de metiletilcetona (MEK),\n\n1 grama de benzoato de denatónio,\n\n0,2 gramas de azul de metileno.\n\n1,5 litros de *technical petrol*.\n\n1,5 litros de querosene,\n\n2 gramas de benzoato de denatónio."
+  },
+  "57d31bfac857ff2e": {
+   "fragment_id": "Finlândia",
+   "type": "divisao",
+   "heading": "Finlândia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Finlândia\n\nPor hectolitro de etanol absoluto, uma das seguintes formulações:\n\n2 litros de metiletilcetona (MEK),\n\n3 litros de metilisobutilcetona.\n\n2 litros de acetona,\n\n3 litros de metilisobutilcetona."
+  },
+  "6c641dd0cf3cf7bd": {
+   "fragment_id": "Suécia",
+   "type": "divisao",
+   "heading": "Suécia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Suécia\n\nPor hectolitro de etanol absoluto:\n\n— 3 litros de metilisobutilcetona,\n\n— 2 litros de metiletilcetona (MEK)."
+  },
+  "788e6cb017148b48": {
+   "fragment_id": "Reino Unido",
+   "type": "divisao",
+   "heading": "Reino Unido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Reino Unido\n\nA base consiste numa mistura de:\n\n— 90 %, em volume, de etanol,\n\n— 9,5 %, em volume, de nafta de madeira,\n\n— 0,5 %, em volume, de piridina em bruto.\n\nA cada 10 hectolitros da base, acrescentar:\n\n— 3,75 litros de nafta mineral (petróleo),\n\n— 1,5 gramas de violeta de metilo (C.I. n.º 42555).\n\n---"
+  },
+  "73382fe70c5dd095": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/67f74c68-d5aa-439e-99fd-502bf6f49fe2.0018.03/DOC_1#src.E0001)) JO n.º L 316 de 31. 10. 1992, p. 21.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/67f74c68-d5aa-439e-99fd-502bf6f49fe2.0018.03/DOC_1#src.E0002)) JO n.º L 76 de 23. 3. 1992, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/67f74c68-d5aa-439e-99fd-502bf6f49fe2.0018.03/DOC_1#src.E0003)) JO n.º L 390 de 31. 12. 1992, p. 124."
+  },
+  "1f9d496fc0be73ab": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Novembro de 1993\n\nrelativo ao reconhecimento mútuo dos processos de desnaturação total do álcool para efeitos de isenção do imposto especial de consumo"
+  },
+  "7c6aa2eda7187600": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nLista dos produtos com o respetivo número de registo CAS (*Chemical Abstracts Service*) autorizados para a desnaturação completa do álcool.\n\nAcetona CAS: 67-64-1\n\nC.I. reactive red 24 CAS: 70210-20-7\n\nVioleta de cristal (C.I. n.º 42555) CAS: 548-62-9\n\nBenzoato de denatónio CAS: 3734-33-6\n\nEtanol CAS: 64-17-5\n\nFluoresceína CAS: 2321-07-5\n\nÓleo de fusel CAS: 8013-75-0\n\nGasolina (incluindo gasolina sem chumbo) CAS: 86290-81-5\n\nÁlcool isopropílico CAS: 67-63-0\n\nQuerosene CAS: 8008-20-6\n\nPetróleo de iluminação CAS: 64742-47-8 e 64742-48-9\n\nMetanol CAS: 67-56-1\n\nMetiletilcetona (2-butanona) CAS: 78-93-3\n\nMetilisobutilcetona CAS: 108-10-1\n\nMetilisopropilcetona CAS: 563-80-4\n\nVioleta de metilo CAS: 8004-87-3\n\nAzul de metileno (52015) CAS: 61-73-4\n\nSolvente nafta CAS: 8030-30-6\n\nEssência de terebintina CAS: 8006-64-2\n\nNafta (petróleo) CAS: 92045-57-3\n\nÁlcool terc-butílico CAS: 75-65-0\n\nTiofeno CAS: 110-02-1\n\nAzul de timol CAS: 76-61-9\n\nNo presente anexo, o termo «etanol absoluto» tem o mesmo significado que o termo «álcool absoluto» utilizado pela União Internacional de Química Pura e Aplicada (IUPAC).\n\nEm todos estes Estados-Membros, pode adicionar-se qualquer corante ao álcool desnaturado para lhe conferir uma cor característica, tornando-o imediatamente identificável"
+  },
+  "b644c6eec3de5ae4": {
+   "fragment_id": "I. I. Processo comum de desnaturação para o álcool totalmente desnaturado utilizado na Bélgica, na Dinamarca, na Alemanha, na Estónia, na Irlanda, na Grécia, em Espanha, em França, em Itália, em Chipre, na Letónia, na Lituânia, no Luxemburgo, na Hungria, em Malta, nos Países Baixos, na Áustria, na Polónia, em Portugal, na Eslovénia, na Eslováquia e na Finlândia:",
+   "type": "divisao",
+   "heading": "I. I. Processo comum de desnaturação para o álcool totalmente desnaturado utilizado na Bélgica, na Dinamarca, na Alemanha, na Estónia, na Irlanda, na Grécia, em Espanha, em França, em Itália, em Chipre, na Letónia, na Lituânia, no Luxemburgo, na Hungria, em Malta, nos Países Baixos, na Áustria, na Polónia, em Portugal, na Eslovénia, na Eslováquia e na Finlândia:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. I. Processo comum de desnaturação para o álcool totalmente desnaturado utilizado na Bélgica, na Dinamarca, na Alemanha, na Estónia, na Irlanda, na Grécia, em Espanha, em França, em Itália, em Chipre, na Letónia, na Lituânia, no Luxemburgo, na Hungria, em Malta, nos Países Baixos, na Áustria, na Polónia, em Portugal, na Eslovénia, na Eslováquia e na Finlândia:\n\nPor hectolitro de etanol absoluto:\n\n— 1,0 litro de álcool isopropílico,\n\n— 1,0 litro de metiletilcetona,\n\n— 1,0 grama de benzoato de denatónio."
+  },
+  "7dd2a0acaf929439": {
+   "fragment_id": "II. Maior concentração do processo comum de desnaturação para o álcool totalmente desnaturado, utilizado nos seguintes Estados-Membros:",
+   "type": "divisao",
+   "heading": "II. Maior concentração do processo comum de desnaturação para o álcool totalmente desnaturado, utilizado nos seguintes Estados-Membros:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Maior concentração do processo comum de desnaturação para o álcool totalmente desnaturado, utilizado nos seguintes Estados-Membros:\n\n*Bulgária, República Checa, Roménia e Reino Unido.*\n\nPor hectolitro de etanol absoluto:\n\n— 3,0 litros de álcool isopropílico,\n\n— 3,0 litros de metiletilcetona,\n\n— 1,0 grama de benzoato de denatónio.\n\n*Croácia*\n\nPor hectolitro de etanol absoluto:\n\nUm mínimo de:\n\n— 1,0 litro de álcool isopropílico,\n\n— 1,0 litro de metiletilcetona,\n\n— 1,0 grama de benzoato de denatónio.\n\n*Suécia*\n\nPor hectolitro de etanol absoluto:\n\n— 1,0 litro de álcool isopropílico,\n\n— 2,0 litros de metiletilcetona,\n\n— 1,0 grama de benzoato de denatónio."
+  },
+  "82b718ade88e90de": {
+   "fragment_id": "III. Processos complementares de desnaturação para o álcool totalmente desnaturado utilizados em certos Estados-Membros:",
+   "type": "divisao",
+   "heading": "III. Processos complementares de desnaturação para o álcool totalmente desnaturado utilizados em certos Estados-Membros:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. Processos complementares de desnaturação para o álcool totalmente desnaturado utilizados em certos Estados-Membros:\n\nPor hectolitro de etanol absoluto, uma das seguintes formulações:\n\n*República Checa*\n\n1. 0,4 litros de solvente nafta,\n\n2. 3,0 litros de éter etil terc-butílico,\n\n*Grécia*\n\nApenas pode ser desnaturado álcool de qualidade inferior (destilados de cabeça e de cauda), com teor alcoólico volúmico não inferior a 93 % e não superior a 96 %.\n\nPor hectolitro de álcool hidratado a 93 % de volume, são adicionadas as seguintes substâncias:\n\n— 2,0 litros de metanol,\n\n— 1,0 litro de essência de terebintina,\n\n— 0,50 litros de petróleo de iluminação,\n\n— 0,40 gramas de azul de metileno.\n\nÀ temperatura de 20 °C, o produto final, no seu estado inalterado, deverá atingir 93 % de volume.\n\n*Finlândia — autorizado até 31.12.2018*\n\nPor hectolitro de etanol absoluto, uma das seguintes formulações:\n\n1. 2,0 litros de metiletilcetona,\n\n2. 2,0 litros de acetona,"
+  },
+  "ee13c83c1529da08": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nLista dos produtos com o respetivo número de registo CAS (Chemical Abstracts Service) autorizados para a desnaturação total do álcool.\n\nAcetona CAS: 67-64-1\n\nBenzoato de denatónio CAS: 3734-33-6\n\nEtanol CAS: 64-17-5\n\nÉter etil-*terc*-butílico CAS: 637-92-3\n\nFluoresceína CAS: 2321-07-5\n\nGasolina (incluindo gasolina sem chumbo) CAS: 86290-81-5\n\nÁlcool isopropílico CAS: 67-63-0\n\nQuerosene CAS: 8008-20-6\n\nPetróleo de iluminação CAS: 64742-47-8 e 64742-48-9\n\nMetanol CAS: 67-56-1\n\nMetiletilcetona (2-butanona) CAS: 78-93-3\n\nMetilisobutilcetona CAS: 108-10-1\n\nAzul de metileno (52015) CAS: 61-73-4\n\nSolvente nafta CAS: 8030-30-6\n\nEssência de terebintina CAS: 8006-64-2\n\nGasolina para uso técnico (*technical petrol*) CAS: 92045-57-3\n\nNo presente anexo, o termo «etanol absoluto» tem o mesmo significado que o termo «álcool absoluto» utilizado pela União Internacional de Química Pura e Aplicada (IUPAC).\n\nEm todos estes Estados-Membros, pode adicionar-se qualquer corante ao álcool desnaturado para lhe conferir uma cor característica, tornando-o imediatamente identificável."
+  },
+  "0b5ef67a1c4160a2": {
+   "fragment_id": "I. Processo comum de desnaturação para o álcool totalmente desnaturado utilizado na Bélgica, na Bulgária, na Dinamarca, na Alemanha, na Estónia, na Irlanda, na Grécia, em Espanha, em França, em Itália, em Chipre, na Letónia, na Lituânia, no Luxemburgo, na Hungria, em Malta, nos Países Baixos, na Áustria, na Polónia, em Portugal, na Roménia, na Eslovénia, na Eslováquia e na Finlândia:",
+   "type": "divisao",
+   "heading": "I. Processo comum de desnaturação para o álcool totalmente desnaturado utilizado na Bélgica, na Bulgária, na Dinamarca, na Alemanha, na Estónia, na Irlanda, na Grécia, em Espanha, em França, em Itália, em Chipre, na Letónia, na Lituânia, no Luxemburgo, na Hungria, em Malta, nos Países Baixos, na Áustria, na Polónia, em Portugal, na Roménia, na Eslovénia, na Eslováquia e na Finlândia:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Processo comum de desnaturação para o álcool totalmente desnaturado utilizado na Bélgica, na Bulgária, na Dinamarca, na Alemanha, na Estónia, na Irlanda, na Grécia, em Espanha, em França, em Itália, em Chipre, na Letónia, na Lituânia, no Luxemburgo, na Hungria, em Malta, nos Países Baixos, na Áustria, na Polónia, em Portugal, na Roménia, na Eslovénia, na Eslováquia e na Finlândia:\n\nPor hectolitro de etanol absoluto:\n\n— 1,0 litro de álcool isopropílico,\n\n— 1,0 litro de metiletilcetona,\n\n— 1,0 grama de benzoato de denatónio."
+  },
+  "3d57b3758a519f24": {
+   "fragment_id": "II. Maior concentração do processo comum de desnaturação para o álcool totalmente desnaturado, utilizado nos seguintes Estados-Membros:",
+   "type": "divisao",
+   "heading": "II. Maior concentração do processo comum de desnaturação para o álcool totalmente desnaturado, utilizado nos seguintes Estados-Membros:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Maior concentração do processo comum de desnaturação para o álcool totalmente desnaturado, utilizado nos seguintes Estados-Membros:"
+  },
+  "4e6c6ff832c39097": {
+   "fragment_id": "República Checa e o Reino Unido",
+   "type": "divisao",
+   "heading": "República Checa e o Reino Unido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### República Checa e o Reino Unido\n\nPor hectolitro de etanol absoluto:\n\n— 3,0 litros de álcool isopropílico,\n\n— 3,0 litros de metiletilcetona,\n\n— 1,0 grama de benzoato de denatónio."
+  },
+  "339bb92698f5cc08": {
+   "fragment_id": "Croácia",
+   "type": "divisao",
+   "heading": "Croácia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Croácia\n\nPor hectolitro de etanol absoluto:\n\nUm mínimo de:\n\n— 1,0 litro de álcool isopropílico,\n\n— 1,0 litro de metiletilcetona,\n\n— 1,0 grama de benzoato de denatónio."
+  },
+  "3f0fdd1852555253": {
+   "fragment_id": "Suécia",
+   "type": "divisao",
+   "heading": "Suécia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Suécia\n\nPor hectolitro de etanol absoluto:\n\n— 1,0 litro de álcool isopropílico,\n\n— 2,0 litros de metiletilcetona,\n\n— 1,0 grama de benzoato de denatónio."
+  },
+  "68c67ed3342a5cc7": {
+   "fragment_id": "III. Processos complementares de desnaturação para o álcool totalmente desnaturado utilizados em certos Estados-Membros:",
+   "type": "divisao",
+   "heading": "III. Processos complementares de desnaturação para o álcool totalmente desnaturado utilizados em certos Estados-Membros:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. Processos complementares de desnaturação para o álcool totalmente desnaturado utilizados em certos Estados-Membros:\n\nPor hectolitro de etanol absoluto, uma das seguintes formulações:"
+  },
+  "08efda2b7ababcaf": {
+   "fragment_id": "República Checa",
+   "type": "divisao",
+   "heading": "República Checa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### República Checa\n\n1. 0,4 litros de solvente nafta,\n\n2. 3,0 litros de éter etil-*terc*-butílico,"
+  },
+  "66d4aea8399edbd2": {
+   "fragment_id": "Grécia",
+   "type": "divisao",
+   "heading": "Grécia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Grécia\n\nApenas pode ser desnaturado álcool de qualidade inferior (destilados de cabeça e de cauda), com teor alcoólico volúmico não inferior a 93 % e não superior a 96 %.\n\nPor hectolitro de álcool hidratado a 93 % de volume, são adicionadas as seguintes substâncias:\n\n— 2,0 litros de metanol,\n\n— 1,0 litro de essência de terebintina,\n\n— 0,50 litros de petróleo de iluminação,\n\n— 0,40 gramas de azul de metileno.\n\nÀ temperatura de 20 °C, o produto final, no seu estado inalterado, deverá atingir 93 % de volume."
+  },
+  "8aada948d44b65c3": {
+   "fragment_id": "Finlândia — autorizado até 31.12.2018",
+   "type": "divisao",
+   "heading": "Finlândia — autorizado até 31.12.2018",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Finlândia — autorizado até 31.12.2018\n\nPor hectolitro de etanol absoluto, uma das seguintes formulações:\n\n1. 2,0 litros de metiletilcetona,\n\n2. 2,0 litros de acetona,"
+  }
+ }
+}

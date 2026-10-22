@@ -36,6 +36,105 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-01-01'
+version_history:
+  file: regulamento-ue-2006-1975.versoes.json
+  count: 5
+  source_lastmod: '2011-01-01'
+  versions:
+  - date: '2006-12-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32007R1396:por
+    amending_title: REGULAMENTO (CE) N. o 1396/2007 DA COMISSÃO de 28 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Pagamentos
+    - Altera Artigo 15.º — Elementos dos controlos in loco e determinação das superfícies
+    - Altera Artigo 16.º — Medidas «superfície»
+    - Altera Artigo 37.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO
+    - Adita DESCRIÇÃO INDICATIVA DAS INFORMAÇÕES NECESSÁRIAS PARA UMA PISTA DE CONTROLO SUFICIENTE
+  - date: '2009-01-01'
+    amending: eu:celex:32009R0484:por
+    amending_title: REGULAMENTO (CE) N. o 484/2009 DA COMISSÃO de 9 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 15.º — Elementos dos controlos in loco e determinação das superfícies
+    - Altera Artigo 16.º — Medidas «superfície»
+    - Altera Notas
+  - date: '2010-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Aplicação do Regulamento (CE) n.º 796/2004
+    - Altera Artigo 7.º — Aplicação do Regulamento (CE) n.º 796/2004
+    - Altera Artigo 8.º — Pedidos de pagamento
+    - Altera Artigo 12.º — Controlos in loco
+    - Altera Artigo 15.º — Elementos dos controlos in loco e determinação das superfícies
+    - Altera Artigo 16.º — Medidas «superfície»
+    - Altera Artigo 17.º — Medidas «animais»
+    - Altera Artigo 18.º — Reduções e exclusões nos casos de incumprimento dos critérios de elegibilidade
+    - Altera Artigo 19.º — Princípios gerais
+    - Altera Artigo 20.º — Controlos in loco
+    - Altera Artigo 21.º — Selecção da amostra de controlo
+    - Altera Artigo 22.º — Disposições gerais
+    - Altera Artigo 23.º — Cálculo das reduções e exclusões
+    - Altera Artigo 24.º — Cumulação de reduções
+    - Altera Artigo 27.º — Controlos in loco
+    - Altera Artigo 28.º — Conteúdo dos controlos in loco
+    - Altera Artigo 30.º — Controlos ex post
+    - Altera Artigo 31.º — Reduções e exclusões
+    - Altera Artigo 34.º — Comunicações
+    - Altera Notas
+    - Adita Artigo 28.º-A — Relatório de controlo
+  - date: '2011-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime PARTE I
+    - Suprime Âmbito de aplicação e disposições gerais
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Aplicação do Regulamento (CE) n.º 796/2004
+    - Suprime Artigo 3.º — Definições
+    - Suprime Artigo 4.º — Pedidos de apoio e de pagamento
+    - Suprime Artigo 5.º — Princípios gerais de controlo
+    - Suprime PARTE II
+    - Suprime Regras de gestão e de controlo
+    - Suprime TÍTULO I
+    - Suprime Apoio ao desenvolvimento rural para certas medidas do eixo 2 e do eixo 4
+    - Suprime CAPÍTULO I
+    - Suprime Disposições gerais
+    - Suprime Artigo 6.º — Âmbito de aplicação e definições
+    - Suprime Artigo 7.º — Aplicação do Regulamento (CE) n.º 796/2004
+    - Suprime Artigo 8.º — Pedidos de pagamento
+    - Suprime Artigo 9.º — Pagamentos
+    - Suprime CAPÍTULO II
+    - Suprime Controlos, reduções e exclusões
+    - Suprime Artigo 10.º — Princípios gerais
+    - Suprime SECÇÃO I
+    - Suprime Respeito dos critérios de elegibilidade
+    - Suprime SUBSECÇÃO I
+    - Suprime Controlos
+    - Suprime Artigo 11.º — Controlos administrativos
+    - Suprime Artigo 12.º — Controlos in loco
+    - Suprime Artigo 13.º — Relatório de controlo
+    - Suprime Artigo 14.º — Princípios gerais relativos aos controlos in loco
+    - Suprime Artigo 15.º — Elementos dos controlos in loco e determinação das superfícies
+    - Suprime SUBSECÇÃO II
+    - Suprime Reduções e exclusões
+    - Suprime Artigo 16.º — Medidas «superfície»
+    - Suprime Artigo 17.º — Medidas «animais»
+    - Suprime Artigo 18.º — Reduções e exclusões nos casos de incumprimento dos critérios de elegibilidade
+    - Suprime SECÇÃO II
+    - Suprime Respeito da condicionalidade
+    - Suprime Artigo 19.º — Princípios gerais
+    - Suprime Artigo 20.º — Controlos in loco
+    - Suprime Artigo 21.º — Selecção da amostra de controlo
 identifiers:
   celex: 32006R1975
   eli: http://data.europa.eu/eli/reg/2006/1975/oj
@@ -50,7 +149,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fda85791-2736-409a-afd3-1406e30cfca1.0016
   content_url: http://publications.europa.eu/resource/cellar/3cd11b05-8383-4001-a5c2-94ce65e7044a.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1975-20110101
-  retrieved_at: '2026-10-22T02:34:51Z'
+  retrieved_at: '2026-10-22T15:06:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T23:17:34.320+01:00'
 integrity:
@@ -59,9 +158,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:34:51Z'
-  notes: Texto consolidado 02006R1975-20110101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:06:13Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2006-1975.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -357,16 +456,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:34:51Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:06:13Z'
+  warnings: []
   errors: []
 ---
 

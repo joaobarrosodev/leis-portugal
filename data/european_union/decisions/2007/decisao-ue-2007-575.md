@@ -36,6 +36,103 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: decisao-ue-2007-575.versoes.json
+  count: 3
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2007-06-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-03-23'
+    amending: eu:celex:32013D0258:por
+    amending_title: DECISÃO N. o 258/2013/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2013
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Adita Artigo 28.º
+    - Adita Artigo 29.º
+    - Adita Artigo 30.º
+    - Adita Artigo 31.º
+    - Adita Artigo 32.º
+    - Adita Artigo 33.º
+    - Adita Artigo 34.º
+    - Adita Artigo 35.º
+    - Adita Artigo 36.º
+    - Adita Artigo 37.º
+    - Adita Artigo 38.º
+  - date: '2014-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime OBJECTO, OBJECTIVOS E ACÇÕES
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime CAPÍTULO II
+    - Suprime PRINCÍPIOS DE INTERVENÇÃO
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime CAPÍTULO III
+    - Suprime QUADRO FINANCEIRO
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime CAPÍTULO IV
+    - Suprime PROGRAMAÇÃO
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime CAPÍTULO V
+    - Suprime SISTEMAS DE GESTÃO E CONTROLO
+    - Suprime Artigo 23.º
+    - Suprime Artigo 24.º
+    - Suprime Artigo 25.º
+    - Suprime Artigo 26.º
+    - Suprime Artigo 27.º
+    - Suprime Artigo 28.º
+    - Suprime Artigo 29.º
 identifiers:
   celex: 32007D0575
   eli: http://data.europa.eu/eli/dec/2007/575/oj
@@ -50,7 +147,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a8fa18a2-5eab-43b8-be01-6b92c78ecdfa.0018
   content_url: http://publications.europa.eu/resource/cellar/893aef19-c98f-4449-b88a-5689a953345a.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007D0575-20140101
-  retrieved_at: '2026-10-22T02:52:19Z'
+  retrieved_at: '2026-10-22T15:06:45Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T13:50:17.361+01:00'
 integrity:
@@ -59,9 +156,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:19Z'
-  notes: Texto consolidado 02007D0575-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:06:45Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-2007-575.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -175,16 +272,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:19Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:06:45Z'
+  warnings: []
   errors: []
 ---
 

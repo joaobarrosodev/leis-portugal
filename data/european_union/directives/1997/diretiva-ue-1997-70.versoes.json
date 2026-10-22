@@ -1,0 +1,18 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997L0070:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997L0070-20090420",
+ "dre_path": null,
+ "source_lastmod": "2009-04-20",
+ "versions": [
+  {
+   "date": "1998-02-09",
+   "future": false,
+   "celex": "31997L0070",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  }
+ ],
+ "fragments": {}
+}

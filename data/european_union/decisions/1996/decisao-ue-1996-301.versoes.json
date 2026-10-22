@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996D0301:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996D0301-20021115",
+ "dre_path": null,
+ "source_lastmod": "2002-11-15",
+ "versions": [
+  {
+   "date": "1996-05-09",
+   "future": false,
+   "celex": "31996D0301",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4f7a6fa620df7215",
+    "8472d038c81d2cbc",
+    "62e6216c72e64f5c",
+    "5fe5525465c7f72f",
+    "14175db867e13540",
+    "c7c9170ca43b0ff6",
+    "4ffb07b8c08517fe"
+   ]
+  }
+ ],
+ "fragments": {
+  "4f7a6fa620df7215": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**96/301/CE: Decisão da Comissão, de 3 de Maio de 1996, que autoriza os Estados-membros a adoptar provisoriamente medidas adicionais contra a propagação de Pseudomonas solanacearum (Smith) Smith no que respeita ao Egipto** *Jornal Oficial nº L 115 de 09/05/1996 p. 0047 - 0050*\n\nDECISÃO DA COMISSÃO de 3 de Maio de 1996 que autoriza os Estados-membros a adoptar provisoriamente medidas adicionais contra a propagação de Pseudomonas solanacearum (Smith) Smith no que respeita ao Egipto (96/301/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 77/93/CEE do Conselho, de 21 de Dezembro de 1976, relativa a medidas de protecção contra a introdução na Comunidade de organismos prejudiciais às plantas e produtos vegetais e contra a sua propagação no interior da Comunidade (1), com a última redacção que lhe foi dada pela Directiva 96/14/CE (2), e, nomeadamente, o nº 3 do seu artigo 15º,\n\nConsiderando que, sempre que um Estado-membro considerar que há um perigo eminente de introdução no seu território de Pseudomonas solanacearum (Smith) Smith, que provoca o míldio da batata, proveniente de um país terceiro, pode adoptar, provisoriamente, todas as medidas adicionais necessárias para se proteger contra esse risco;\n\nConsiderando que a França adoptou, em 19 de Março de 1996, com base em intercepções contínuas de Pseudomonas solanacearum (Smith) Smith em batatas originárias do Egipto, medidas destinadas a proibir a importação de batatas provenientes do Egipto, a fim de assegurar uma protecção mais eficaz contra a introdução em França de Pseudomonas solanacearum (Smith) Smith a partir do Egipto;\n\nConsiderando que a Finlândia adoptou, em 4 de Abril de 1996, medidas similares contra a introdução desse organismo na Finlândia;\n\nConsiderando que a Espanha e a Dinamarca adoptaram posteriormente as mesmas medidas em 16 de Abril de 1996 e 22 de Abril de 1996, respectivamente, contra a introdução desse organismo nos seus territórios;\n\nConsiderando que, com base na experiência adquirida durante a campanha de importação em curso e nas informações fornecidas pelas autoridades egípcias no decorrer de uma recente missão no Egipto, as disposições em vigor respeitantes à exigência de «zona indemne» não são suficientes para proteger adequadamente a Comunidade pelo que são necessárias medidas adicionais; que, em conformidade com as medidas de salvaguarda, é conveniente ter em consideração o sistema egípcio de produção de batatas e a actual situação da campanha de produção;\n\nConsiderando que, por conseguinte, devem ser utilizados os conceitos de «bacia» para a zona de produção do deserto e de «aldeia» para a zona de produção do delta como referência para as zonas em que não é conhecida a ocorrência de Pseudomonas solanacearum;\n\nConsiderando, além disso, que é conveniente incluir, tanto nas etiquetas como nos certificados fitossanitários exigidos, uma indicação do sistema de codificação de bacia ou de aldeia para a identificação das zonas qualificadas para a produção de batatas destinadas à exportação para a Comunidade;\n\nConsiderando que, se se verificar que as medidas adicionais referidas no artigo 1º da presente decisão não são suficientes para evitar a entrada de Pseudomonas solanacearum ou que não foram respeitadas, é necessário prever medidas mais severas ou alternativas;\n\nConsiderando que o perigo iminente supracitado justificou a adopção de medidas de emergência adicionais pelos Estados-membros;\n\nConsiderando, contudo, que estas medidas de emergência adicionais devem estar em conformidade com as medidas de salvaguarda comunitárias;\n\nConsiderando que os efeitos das medidas adicionais serão objecto de uma avaliação contínua e que as medidas subsequentes aplicáveis à introdução de batatas originárias do Egipto, incluindo exigências respeitantes a uma realização mais intensiva de testes no Egipto, durante a próxima campanha serão examinadas à luz dos resultados da referida avaliação até 30 de Novembro de 1996, o mais tardar;\n\nConsiderando que as medidas previstas na presente decisão estão em conformidade com o parecer do Comité fitossanitário permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "8472d038c81d2cbc": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nOs tubérculos de Solanum tuberosum L., com excepção dos destinados à plantação, originários do Egipto podem ser introduzidos no território da Comunidade, desde que, para além da exigência especial estabelecida no ponto 25.8, secção I da parte A, do anexo IV da Directiva 77/93/CEE, sejam respeitadas as medidas previstas no anexo da presente decisão. As medidas adicionais fixadas nas alíneas a) e b) do ponto 2 do anexo só serão aplicáveis às remessas que deixem o Egipto após a Comissão ter informado este país das referidas medidas."
+  },
+  "62e6216c72e64f5c": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nOs Estados-membros importadores fornecerão à Comissão e aos outros Estados-membros, até 30 de Novembro de 1996, informações relativas às quantidades importadas nos termos da presente decisão, bem como um relatório técnico pormenorizado sobre o exame oficial referido no ponto 3 do anexo; serão enviadas à Comissão cópias de cada certificado fitossanitário."
+  },
+  "5fe5525465c7f72f": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros adaptarão as medidas que tenham adoptado a fim de se protegerem contra a introdução e propagação de Pseudomonas solanacearum (Smith) Smith, de modo a que essas medidas estejam em conformidade com o artigo 1º"
+  },
+  "14175db867e13540": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nA presente decisão será reexaminada até 30 de Novembro de 1996, o mais tardar."
+  },
+  "c7c9170ca43b0ff6": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 3 de Maio de 1996.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO nº L 26 de 31. 1. 1977, p. 20.\n\n(2) JO nº L 68 de 19. 3. 1996, p. 24."
+  },
+  "4ffb07b8c08517fe": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nPara efeitos do disposto no artigo 1º, deve ser respeitado o seguinte:\n\n1. i) Entende-se por «zona», para a região do delta, uma «aldeia» (unidades administrativas constituídas que abrangem um grupo de «bacias») e, para as regiões do deserto, uma «bacia» (unidade de irrigação);\n\nii) A menção «não é conhecida a ocorrência» referir-se-á a uma aldeia ou bacia, na acepção da alínea i), em que não se registou qualquer foco de Pseudomonas solanacearum (Smith) Smith;\n\niii) Entende-se por «lista de zonas qualificadas» a lista oficialmente estabelecida pelas autoridades competentes egípcias, indicando as zonas especificadas na alínea i), nas quais não é conhecida a ocorrência de Pseudomonas solanacearum (Smith) Smith, na acepção da alínea ii), pelos seus nomes individuais ou colectivos e pelo seu número de código individual oficial, que foi transmitido à Comissão antes da primeira introdução de batatas temporãs seguinte à entrada em vigor da presente decisão.\n\n2. a) As batatas destinadas à introdução na Comunidade foram, no Egipto:\n\n- oficialmente inspeccionadas, em cortes de tubérculos retirados de amostras de, pelo menos, 200 tubérculos colhidas em cada lote ou, se o lote exceder 25 toneladas, em cada parte de 25 toneladas e na parte eventualmente restante, imediatamente antes do carregamento, para detecção de sintomas de míldio da batata causado por Pseudomonas solanacearum (Smith) Smith, e declaradas isentas desses sintomas na sequência das referidas inspecções,\n\n- oficialmente testadas, em conformidade com um método adequado especificado pela Comissão, para detecção de infecção latente em amostras colhidas em cada remessa e declaradas isentas de Pseudomonas solanacearum (Smith) Smith, na sequência desses testes; deve ser colhida uma amostra por zona, na acepção da alínea i) do ponto 1, representada na remessa, devendo, de qualquer modo, ser colhidas pelo menos cinco amostras,\n\n- colhidas, manipuladas e ensacadas separadamente, não sendo, na medida do razoável, utilizado o mesmo equipamento, bacia a bacia, sempre que possível e, de qualquer modo, zona a zona, na acepção da alínea i) do ponto 1,\n\n- preparadas em lotes, cada um exclusivamente constituído por batatas colhidas numa única zona, na acepção da alínea i) do ponto 1,\n\n- claramente etiquetadas, em cada saco, com uma indicação indelével do número de código oficial correspondente, constante da «lista de zonas qualificadas», e do número de lote correspondente,\n\n- acompanhadas dos certificados fitossanitários oficiais exigidos por força do nº 1, alínea b), do artigo 12º da Directiva 77/93/CEE, indicando os números de lotes na secção «Marcas distintivas» e os números de código oficiais, como referido no travessão anterior, na secção «Declarações adicionais»; deve também ser indicado nessa secção o número de lote do qual foi colhida uma amostra para os fins previstos no segundo travessão, bem como a declaração oficial de que o teste foi efectuado.\n\nb) Os pontos de entrada autorizados para a introdução de batatas e o nome e endereço do organismo oficial responsável por cada ponto devem ser notificados pelos Estados-membros à Comissão, que informará dos mesmos os outros Estados-membros e o Egipto;\n\nc) O organismo oficial responsável pelo ponto de entrada deve ser previamente notificado da data provável da chegada das remessas de batatas, bem como da respectiva quantidade. Na ausência de qualquer notificação, serão aplicáveis as disposições do nº 4 do artigo 5º da Directiva 83/643/CEE do Conselho (1), com a última redacção que lhe foi dada pela Directiva 91/342/CEE (2).\n\n3. No ponto de entrada, as batatas serão sujeitas às inspecções previstas no artigo 12º da Directiva 77/93/CEE; estas inspecções que incluem pelo menos as definidas na alínea a), primeiro travessão, do ponto 2, serão efectuadas em cada lote de uma remessa.\n\nEstas inspecções serão completadas pelos testes para detecção, de acordo com o método adequado, de infecção latente em amostras colhidas em cada remessa; deve ser colhida uma amostra por zona, na acepção da alínea i) do ponto 1, representada na remessa, devendo, de qualquer modo, ser colhidas pelo menos cinco amostras.\n\nOs lotes em causa devem permanecer separados sob controlo oficial e não podem ser marcados ou utilizados até que tenha sido estabelecido que a presença de Pseudomonas solanacearum (Smith) Smith não foi suspeitada ou detectada nesses exames.\n\n4. A Comissão velará porque lhe sejam enviadas todas as informações relativas aos pormenores e aos resultados dos testes referidos na alínea a), segundo travessão do ponto 2. A «lista de zonas qualificadas» será adaptada pela Comissão de acordo com esses resultados e com os decorrentes do ponto 3.\n\n5. Os Estados-membros estabelecerão exigências adequadas relativas à etiquetagem, a fim de evitar que as batatas sejam plantadas.\n\n(1) JO nº L 359 de 22. 12. 1983, p. 8.\n\n(2) JO nº L 187 de 13. 7. 1991, p. 47."
+  }
+ }
+}

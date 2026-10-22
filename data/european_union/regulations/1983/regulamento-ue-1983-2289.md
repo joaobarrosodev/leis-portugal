@@ -34,6 +34,111 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-12-19'
+version_history:
+  file: regulamento-ue-1983-2289.versoes.json
+  count: 3
+  source_lastmod: '2011-12-19'
+  versions:
+  - date: '1983-08-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:31985R1746:por
+    amending_title: REGULAMENTO (CEE) N.O 1746/85 DA COMISSÃO de 26 de Junho de 1985; REGULAMENTO (CEE) N.O 3399/85 DA COMISSÃO
+      de 28 de Novembro de 1985; REGULAMENTO (CEE) N.O 735/92 DA COMISSÃO de 25 de Março de 1992; REGULAMENTO (CE) N. o 1792/2006
+      DA COMISSÃO de 23 de Outubro de 2006; A1; Acto de Adesão da Áustria, da Finlândia e da Suécia; Acto relativo às condições
+      de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República
+      da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da
+      República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera TÍTULO V
+    - Adita Artigo 1.º
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES APLICÁVEIS ÀS IMPORTAÇÕES EFECTUADAS POR INSTITUIÇÕES OU ORGANIZAÇÕES
+    - Adita TÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita A.
+    - Adita Obrigações da instituição ou organização destinatária
+    - Adita Artigo 2.º
+    - Adita B.
+    - Adita Disposições aplicáveis no caso de empréstimo, aluguer ou cessão.
+    - Adita Artigo 3.º
+    - Adita TÍTULO II
+    - Adita DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO FRANQUIA DE OBJECTOS AO ABRIGO DO PRIMEIRO PARÁGRAFO DO ARTIGO 71.º
+      DO REGULAMENTO DE BASE
+    - Adita Artigo 4.º
+    - Adita TÍTULO III
+    - Adita DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE OBJECTOS AO ABRIGO DO N.º 1 DO ARTIGO 72.º DO REGULAMENTO
+      DE BASE
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 10.º
+    - Adita DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE PEÇAS SOBRESSELENTES, DE ELEMENTOS OU DE ACESSÓRIOS
+      ESPECÍFICOS E DE FERRAMENTAS AO ABRIGO DO SEGUNDO PARÁGRAFO DO ARTIGO 71.º E DO N.º 2 DO ARTIGO 72.º DO REGULAMENTO
+      DE BASE
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita CAPÍTULO II
+    - Adita IMPORTAÇÕES EFECTUADAS POR CEGOS E OUTRAS DISPOSIÇÕES APLICÁVEIS A PESSOAS DEFICIENTES
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita CAPÍTULO III
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime CAPÍTULO I — DISPOSIÇÕES APLICÁVEIS ÀS IMPORTAÇÕES EFECTUADAS POR INSTITUIÇÕES OU ORGANIZAÇÕES
+    - Suprime TÍTULO I — DISPOSIÇÕES GERAIS
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+  - date: '2011-12-19'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES APLICÁVEIS ÀS IMPORTAÇÕES EFECTUADAS POR INSTITUIÇÕES OU ORGANIZAÇÕES
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime A.
+    - Suprime Obrigações da instituição ou organização destinatária
+    - Suprime Artigo 2.º
+    - Suprime B.
+    - Suprime Disposições aplicáveis no caso de empréstimo, aluguer ou cessão.
+    - Suprime Artigo 3.º
+    - Suprime TÍTULO II
+    - Suprime DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO FRANQUIA DE OBJECTOS AO ABRIGO DO PRIMEIRO PARÁGRAFO DO ARTIGO 71.º
+      DO REGULAMENTO DE BASE
+    - Suprime Artigo 4.º
+    - Suprime TÍTULO III
+    - Suprime DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE OBJECTOS AO ABRIGO DO N.º 1 DO ARTIGO 72.º DO REGULAMENTO
+      DE BASE
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 10.º
+    - Suprime TÍTULO V
+    - Suprime DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE PEÇAS SOBRESSELENTES, DE ELEMENTOS OU DE ACESSÓRIOS
+      ESPECÍFICOS E DE FERRAMENTAS AO ABRIGO DO SEGUNDO PARÁGRAFO DO ARTIGO 71.º E DO N.º 2 DO ARTIGO 72.º DO REGULAMENTO
+      DE BASE
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime CAPÍTULO II
+    - Suprime IMPORTAÇÕES EFECTUADAS POR CEGOS E OUTRAS DISPOSIÇÕES APLICÁVEIS A PESSOAS DEFICIENTES
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime CAPÍTULO III
+    - Suprime DISPOSIÇÕES FINAIS
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Notas
 identifiers:
   celex: 31983R2289
   eli: http://data.europa.eu/eli/reg/1983/2289/oj
@@ -48,7 +153,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/99e7b84d-6eec-456b-9951-b4672c79b50b.0011
   content_url: http://publications.europa.eu/resource/cellar/01250130-e3b3-4db4-8844-10541a537308.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01983R2289-20111219
-  retrieved_at: '2026-10-22T03:04:31Z'
+  retrieved_at: '2026-10-22T14:34:01Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T08:02:35.167+01:00'
 integrity:
@@ -57,9 +162,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:04:31Z'
-  notes: Texto consolidado 01983R2289-20111219.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:01Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1983-2289.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -132,16 +237,19 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:04:31Z'
+  checked_at: '2026-10-22T14:34:01Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01983R2289-19850701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R2289-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R2289-19920101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R2289-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R2289-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -1,0 +1,109 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997R0194:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R0194-20020405",
+ "dre_path": null,
+ "source_lastmod": "2002-04-05",
+ "versions": [
+  {
+   "date": "1997-02-01",
+   "future": false,
+   "celex": "31997R0194",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ba5c728a36fb426f",
+    "5912240f503e6e2e",
+    "1cc92878ceb36e51",
+    "3c1342bbacd30707",
+    "c3ee4b65f213392f",
+    "e1ed26c3a1c9e6e9",
+    "67724629b9f97f49"
+   ]
+  },
+  {
+   "date": "2002-04-05",
+   "future": false,
+   "celex": "01997R0194-20020405",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime ANEXO — TEORES MÁXIMOS DE CERTOS CONTAMINANTES PRESENTES NOS GÉNEROS ALIMENTÍCIOS"
+   ],
+   "fragments": [
+    "c0680197816a12ab"
+   ]
+  }
+ ],
+ "fragments": {
+  "ba5c728a36fb426f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 194/97 da Comissão de 31 de Janeiro de 1997 que fixa os teores máximos de certos contaminantes presentes nos géneros alimentícios (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 031 de 01/02/1997 p. 0048 - 0050*\n\nREGULAMENTO (CE) Nº 194/97 DA COMISSÃO de 31 de Janeiro de 1997 que fixa os teores máximos de certos contaminantes presentes nos géneros alimentícios (Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CEE) nº 315/93 do Conselho, de 8 de Fevereiro de 1993, que estabelece procedimentos comunitários para os contaminantes presentes nos géneros alimentícios (1), e, nomeadamente, o seu artigo 2º,\n\nConsiderando que o Regulamento (CEE) nº 315/93 prevê que, a fim de proteger a saúde pública, devem ser fixados teores máximos para certos contaminantes; que esses teores máximos devem ser adoptados sob a forma de uma lista comunitária não exaustiva que pode incluir limites para o mesmo contaminante em diferentes géneros alimentícios e limites de detecção analítica; que pode ser feita referência aos métodos de amostragem e de análise a aplicar;\n\nConsiderando que é essencial, no interesse da protecção da saúde pública, manter o teor de contaminantes a níveis admissíveis no plano toxicológico; que se deve proceder a uma eliminação mais profunda desde que tal seja possível através de boas práticas profissionais;\n\nConsiderando que os produtos hortícolas têm uma função nutricional essencial e desempenham um papel importante na protecção da saúde, pelo que é conveniente incentivar o seu consumo através do melhoramento da qualidade dos produtos oferecidos;\n\nConsiderando que certos Estados-membros adoptaram ou pretendem adoptar teores máximos para os nitratos presentes em determinados produtos hortícolas;\n\nConsiderando que, dadas as disparidades existentes entre os Estados-membros e as distorções de concorrência eventualmente daí resultantes, são necessárias medidas comunitárias para garantir a unicidade do mercado, respeitando simultaneamente o princípio da proporcionalidade;\n\nConsiderando que medidas específicas destinadas a melhor controlar as fontes de contaminação agrícola e códigos de boas práticas podem contribuir para reduzir o teor de contaminantes, em especial o de nitratos, em certos produtos hortícolas;\n\nConsiderando que as condições climáticas, os métodos de produção e os hábitos alimentares diferem muito nas várias regiões da Comunidade; que é, por conseguinte, indicado prever, para os vegetais, teores máximos de nitratos, diferenciados consoante a estação; que convém, além disso, permitir que os Estados-membros autorizem provisoriamente a circulação de alfaces e de espinafres produzidos e destinados a serem consumidos no seu território com teores de nitratos superiores aos fixados no ponto 1.1 da parte I do anexo, desde que as quantidades presentes permaneçam admissíveis em termos de saúde pública;\n\nConsiderando que os produtores de alfaces e de espinafres estabelecidos nos Estados-membros que concederam a autorização supracitada deverão alterar progressivamente os seus métodos de cultura, aplicando as boas práticas recomendadas a nível nacional, a fim de respeitar, no termo de um período transitório, os teores máximos previstos a nível comunitário;\n\nConsiderando que é desejável alcançar valores comuns o mais rapidamente possível;\n\nConsiderando que é conveniente examinar, com base nos dados científicos disponíveis, se é necessário fixar teores máximos para os alimentos para bebés destinados a lactentes e crianças de tenra idade;\n\nConsiderando que importa assegurar a livre circulação, em toda a Comunidade, dos géneros alimentícios com um teor de contaminantes inferior ou igual aos valores máximos fixados no anexo;\n\nConsiderando que os Estados-membros devem tomar as medidas de vigilância adequadas em relação à presença de contaminantes nos géneros alimentícios;\n\nConsiderando que qualquer teor máximo adoptado a nível comunitário deverá ser reexaminado para ter em conta a evolução dos conhecimentos científicos e técnicos, bem como os progressos das boas práticas de produção;\n\nConsiderando que é conveniente rever e, se for caso disso, reduzir os teores fixados para as alfaces e os espinafres antes de 1 de Novembro de 1998; que esse exame será efectuado com base nos controlos efectuados pelos Estados-membros;\n\nConsiderando que, em conformidade com o artigo 3º do Regulamento (CEE) nº 315/93, o Comité científico da alimentação humana foi consultado sobre as disposições que podem afectar a saúde pública;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité permanente dos géneros alimentícios,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "5912240f503e6e2e": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO presente regulamento fixa os teores máximos de certos contaminantes presentes em diferentes géneros alimentícios."
+  },
+  "1cc92878ceb36e51": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os produtos constantes do anexo não devem apresentar, aquando da sua introdução em circulação teores de contaminantes mais elevados do que os previstos nesse anexo.\n\n2. Os Estados-membros podem, em casos justificados, autorizar provisoriamente a introdução em circulação de alfaces e espinafres produzidos e destinados a serem consumidos no seu território que contenham teores de nitratos mais elevados do que os previstos na parte I, ponto 1.1, do anexo, desde que sejam aplicados códigos de boas práticas para respeitar progressivamente os teores fixados a nível comunitário.\n\n3. Os Estados-membros informarão anualmente os outros Estados-membros e a Comissão da aplicação dada ao nº 2."
+  },
+  "3c1342bbacd30707": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nCom base nos resultados dos controlos efectuados pelos Estados-membros, a Comissão procederá, antes de 1 de Outubro de 1998, a um reexame dos teores máximos previstos no anexo para as alfaces e os espinafres; se for caso disso, esses teores serão reduzidos."
+  },
+  "c3ee4b65f213392f": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs métodos de análise e de colheita de amostras a aplicar são os fixados no anexo."
+  },
+  "e1ed26c3a1c9e6e9": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 15 de Fevereiro de 1997. Em derrogação do artigo 2º, os produtos referidos na parte I, ponto 1.2, do anexo que, na data de aplicação do presente regulamento, já se encontrem no mercado e não estejam em conformidade com o presente regulamento podem ser ainda comercializados até ao esgotamento das existências.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 31 de Janeiro de 1997.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO nº L 37 de 13. 2. 1993, p. 1."
+  },
+  "67724629b9f97f49": {
+   "fragment_id": "ANEXO — TEORES MÁXIMOS DE CERTOS CONTAMINANTES PRESENTES NOS GÉNEROS ALIMENTÍCIOS",
+   "type": "divisao",
+   "heading": "ANEXO — TEORES MÁXIMOS DE CERTOS CONTAMINANTES PRESENTES NOS GÉNEROS ALIMENTÍCIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — TEORES MÁXIMOS DE CERTOS CONTAMINANTES PRESENTES NOS GÉNEROS ALIMENTÍCIOS\n\nI. Contaminantes de origem agrícola\n\n1. Nitratos\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\nII. Outros contaminantes\n\n(1) Os teores máximos não são aplicáveis aos alimentos especialmente preparados para bébés e crianças de tenra idade.\n\n(2) Sob reserva de reexame antes de 1 de Outubro de 1998, nos termos do artigo 3º\n\n(3) JO nº L 207 de 15. 8. 1979, p. 26."
+  },
+  "c0680197816a12ab": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1997R0194 — PT — 05.04.2002 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31997R0194) [REGULAMENTO (CE) N.º 194/97 DA COMISSÃO](http://publications.europa.eu/resource/celex/31997R0194) [de 31 de Janeiro de 1997](http://publications.europa.eu/resource/celex/31997R0194) [que fixa os teores máximos de certos contaminantes presentes nos géneros alimentícios](http://publications.europa.eu/resource/celex/31997R0194) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/31997R0194) (JO L 031, 1.2.1997, p.48)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 466/2001 da Comissão de 8 de Março de 2001](http://publications.europa.eu/resource/celex/32001R0466) — L 77 — 1 — 16.3.2001"
+  }
+ }
+}

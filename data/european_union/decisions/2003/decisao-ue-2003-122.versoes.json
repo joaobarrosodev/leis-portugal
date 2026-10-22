@@ -1,0 +1,150 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003D0122:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003D0122-20040501",
+ "dre_path": null,
+ "source_lastmod": "2004-05-01",
+ "versions": [
+  {
+   "date": "2003-02-22",
+   "future": false,
+   "celex": "32003D0122",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c09d7f767bb16643",
+    "9ad8c28de2110fd8",
+    "ad1ec671317a8bf8",
+    "d8d7215977ba9e62",
+    "3d13ffe363391bba",
+    "e7edb041e06d0882"
+   ]
+  },
+  {
+   "date": "2004-05-01",
+   "future": false,
+   "celex": "02003D0122-20040501",
+   "acts": [
+    {
+     "id": "eu:celex:32004R0886:por",
+     "title": "REGULAMENTO (CE) N . o 886/2004 DA COMISSÃO de 4 de Março de 2004",
+     "published": null,
+     "celex": "32004R0886"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Altera ANEXO",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "a2673a88077804f6",
+    "a7b453d79d4ef346",
+    "ad1ec671317a8bf8",
+    "75f840f16f35d6ec",
+    "502e7d6586e3fdb2",
+    "ca2bd8c4641bdf3d",
+    "42c70fe0d27cfe2e"
+   ]
+  }
+ ],
+ "fragments": {
+  "c09d7f767bb16643": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "| 22.2.2003 | PT | Jornal Oficial da União Europeia | L 49/15 |\n| --- | --- | --- | --- |\n\nDECISÃO DA COMISSÃO\n\nde 21 de Fevereiro de 2003\n\nque autoriza os Estados-Membros a tomar decisões ao abrigo da Directiva 1999/105/CE no que diz respeito aos materiais florestais de reprodução produzidos nos países terceiros\n\n[notificada com o número C(2003) 580]\n\n(2003/122/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 1999/105/CE do Conselho, de 22 de Dezembro de 1999, relativa à comercialização de materiais florestais de reprodução[(1)](http://publications.europa.eu/resource/cellar/f9a1e152-a1da-442a-a457-03dc07229470.0010.05/DOC_1#ntr1-L_2003049PT.01001501-E0001), e, nomeadamente, o n.o 3 do seu artigo 19.o,\n\nConsiderando o seguinte:\n\n(1) Em conformidade com o n.o 1 do artigo 19.o da Directiva 1999/105/CE, o Conselho determina, sob proposta da Comissão, se os materiais florestais de reprodução produzidos num país terceiro oferecem, no que diz respeito à aprovação dos seus materiais de base e às medidas tomadas para a sua produção, com vista à comercialização, as mesmas garantias que os materiais florestais de reprodução produzidos na Comunidade e que cumprem o disposto na referida directiva.\n\n(2) Contudo, as informações actualmente disponíveis sobre as condições aplicáveis nos países terceiros não são ainda suficientes para permitir à Comunidade tomar qualquer decisão deste tipo em relação a qualquer país terceiro.\n\n(3) Em consequência, para evitar perturbações dos fluxos comerciais, os Estados-Membros devem ser autorizados a tomar essas decisões. O objectivo da autorização é garantir que os materiais importados ofereçam garantias equivalentes às aplicáveis aos materiais florestais de reprodução produzidos na Comunidade em conformidade com a directiva em causa.\n\n(4) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "9ad8c28de2110fd8": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs Estados-Membros são autorizados a tomar decisões ao abrigo do n.o 3 do artigo 19.o da Directiva 1999/105/CE no respeitante aos materiais florestais de reprodução produzidos nos países terceiros constantes do anexo, em relação às espécies, aos tipos de materiais de base e às categorias nele referidos."
+  },
+  "ad1ec671317a8bf8": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros notificarão imediatamente a Comissão e os outros Estados-Membros das decisões tomadas em conformidade com a presente decisão e de qualquer anulação das mesmas."
+  },
+  "d8d7215977ba9e62": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA autorização prevista no artigo 1.o caduca em 31 de Dezembro de 2005."
+  },
+  "3d13ffe363391bba": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 21 de Fevereiro de 2003.\n\nPela Comissão\n\nDavid BYRNE\n\nMembro da Comissão\n\n[(1)](http://publications.europa.eu/resource/cellar/f9a1e152-a1da-442a-a457-03dc07229470.0010.05/DOC_1#ntc1-L_2003049PT.01001501-E0001) [JO L 11 de 15.1.2000, p. 17](http://publications.europa.eu/resource/oj/JOL_2000_011_R_TOC)."
+  },
+  "e7edb041e06d0882": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| PAÍS DE ORIGEM | ESPÉCIE | CATEGORIA | TIPO DE MATERIAIS DE BASE |\n| --- | --- | --- | --- |\n| Canadá (British Columbia) | Abies grandis Lindl. | SI, Q, T | SS, St, SO, PF |\n| Picea sitchensis Carr. | SI, Q | SS, St, SO |  |\n| Pinus contorta Loud. | SI | SS, St |  |\n| Pseudotsuga menziesii Franco | SI, Q, T | SS, St, SO, PF |  |\n| República Checa | Abies alba Mill. | SI | SS, St |\n| Acer platanoides L. | SI | SS, St |  |\n| Acer pseudoplatanus L. | SI | SS, St |  |\n| Betula pendula Roth. | SI | SS, St |  |\n| Betula pubescens Ehrh. | SI | SS, St |  |\n| Fagus sylvatica L. | SI | SS, St |  |\n| Fraxinus excelsior L. | SI | SS, St |  |\n| Larix decidua Mill. | SI | SS, St |  |\n| Larix kaempferi Carr. | SI | SS, St |  |\n| Picea abies Karst. | SI | SS, St |  |\n| Pinus sylvestris L. | SI | SS, St |  |\n| Quercus cerris L. | SI | SS, St |  |\n| Quercus petraea Liebl. | SI | SS, St |  |\n| Quercus robur L. | SI | SS, St |  |\n| Quercus rubra L. | SI | SS, St |  |\n| Robinia pseudoacacia L. | SI | SS, St |  |\n| Tilia cordata Mill. | SI | SS, St |  |\n| Tilia platyphyllos Scop. | SI | SS, St |  |\n| Estónia | Picea abies Karst. | SI | SS, St |\n| Hungria | Acer platanoides L. | SI | SS, St |\n| Acer pseudoplatanus L. | SI | SS, St |  |\n| Alnus glutinosa Gaertn. | SI | SS, St |  |\n| Betula pendula Roth. | SI | SS, St |  |\n| Carpinus betulus L. | SI | SS, St |  |\n| Castanea sativa Mill. | SI | SS, St |  |\n| Fagus sylvatica L. | SI | SS, St |  |\n| Fraxinus excelsior L. | SI | SS, St |  |\n| Larix decidua Mill. | SI | SS, St |  |\n| Pinus sylvestris L. | SI | SS, St |  |\n| Populus alba L. | SI | SS, St |  |\n| Populus x canescens Sm. | SI | SS, St |  |\n| Populus nigra L. | SI | SS, St |  |\n| Populus tremula L. | SI | SS, St |  |\n| Prunus avium L. | SI | SS, St |  |\n| Quercus cerris L. | SI | SS, St |  |\n| Quercus petraea Liebl. | SI | SS, St |  |\n| Quercus robur L. | SI | SS, St |  |\n| Quercus rubra L. | SI | SS, St |  |\n| Robinia pseudoacacia L. | SI | SS, St |  |\n| Tilia cordata Mill. | SI | SS, St |  |\n| Tilia platyphyllos Scop. | SI | SS, St |  |\n| Letónia | Picea abies Karst. | SI | SS, St |\n| Lituânia | Picea abies Karst. | SI | SS, St |\n| Noruega | Pinus sylvestris L. | SI | SS, St |\n| Quercus petraea Liebl. | SI | SS, St |  |\n| Quercus robur L. | SI | SS, St |  |\n| Polónia | Abies alba Mill. | SI | SS, St |\n| Acer platanoides L. | SI | SS, St |  |\n| Acer pseudoplatanus L. | SI | SS, St |  |\n| Alnus incana Moench. | SI | SS, St |  |\n| Betula pendula Roth. | SI | SS, St |  |\n| Betula pubescens Ehrh. | SI | SS, St |  |\n| Carpinus betulus L. | SI | SS, St |  |\n| Larix decidua Mill. | SI | SS, St |  |\n| Larix kaempferi Carr. | SI | SS, St |  |\n| Picea abies Karst. | SI | SS, St |  |\n| Pinus sylvestris L. | SI | SS, St |  |\n| Prunus avium L. | SI | SS, St |  |\n| Quercus cerris L. | SI | SS, St |  |\n| Quercus petraea Liebl. | SI | SS, St |  |\n| Quercus robur L. | SI | SS, St |  |\n| Quercus rubra L. | SI | SS, St |  |\n| Robinia pseudoacacia L. | SI | SS, St |  |\n| Tilia cordata Mill. | SI | SS, St |  |\n| Tilia platyphyllos Scop. | SI | SS, St |  |\n| Roménia | Abies alba Mill. | SI | SS, St |\n| Acer platanoides L. | SI | SS, St |  |\n| Fagus sylvatica L. | SI | SS, St |  |\n| Larix decidua Mill. | SI | SS, St |  |\n| Picea abies Karst. | SI | SS, St |  |\n| Pinus nigra Arnold | SI | SS, St |  |\n| Prunus avium L. | SI | SS, St |  |\n| Quercus cerris L. | SI | SS, St |  |\n| Quercus petraea Liebl. | SI | SS, St |  |\n| Quercus robur L. | SI | SS, St |  |\n| Quercus rubra L. | SI | SS, St |  |\n| Robinia pseudoacacia L. | SI | SS, St |  |\n| Eslováquia | Abies alba Mill. | SI | SS, St |\n| Acer platanoides L. | SI | SS, St |  |\n| Betula pendula Roth. | SI | SS, St |  |\n| Fagus sylvatica L. | SI | SS, St |  |\n| Larix decidua Mill. | SI | SS, St |  |\n| Picea abies Karst. | SI | SS, St |  |\n| Prunus avium L. | SI | SS, St |  |\n| Quercus petraea Liebl. | SI | SS, St |  |\n| Quercus robur L. | SI | SS, St |  |\n| Quercus rubra L. | SI | SS, St |  |\n| Robinia pseudoacacia L. | SI | SS, St |  |\n| Tilia platyphyllos Scop. | SI | SS, St |  |\n| Eslovénia | Abies alba Mill. | SI | SS, St |\n| Acer platanoides L. | SI | SS, St |  |\n| Acer pseudoplatanus L. | SI | SS, St |  |\n| Alnus incana Moench. | SI | SS, St |  |\n| Betula pendula Roth. | SI | SS, St |  |\n| Carpinus betulus L. | SI | SS, St |  |\n| Fagus sylvatica L. | SI | SS, St |  |\n| Larix decidua Mill. | SI | SS, St |  |\n| Pinus nigra Arnold | SI | SS, St |  |\n| Pinus sylvestris L. | SI | SS, St |  |\n| Quercus cerris L. | SI | SS, St |  |\n| Quercus petraea Liebl. | SI | SS, St |  |\n| Quercus robur L. | SI | SS, St |  |\n| Quercus rubra L. | SI | SS, St |  |\n| Robinia pseudoacacia L. | SI | SS, St |  |\n| Tilia cordata Mill. | SI | SS, St |  |\n| Tilia platyphyllos Scop. | SI | SS, St |  |\n| Suíça | Fagus sylvatica L. | SI | SS, St |\n| Estados Unidos da América (Washington, Oregon, Califórnia) | Abies grandis Lindl. | SI, Q, T | SS, St, SO, PF |\n| Picea sitchensis Carr | SI | SS, St |  |\n| Pinus contorta Loud | SI | SS, St |  |\n| Pseudotsuga menziesii Franco | SI, Q, T | SS, St, SO, PF |  |"
+  },
+  "a2673a88077804f6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Fevereiro de 2003\n\nque autoriza os Estados-Membros a tomar decisões ao abrigo da Directiva 1999/105/CE no que diz respeito aos materiais florestais de reprodução produzidos nos países terceiros\n\n[notificada com o número C(2003) 580]\n\n(2003/122/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 1999/105/CE do Conselho, de 22 de Dezembro de 1999, relativa à comercialização de materiais florestais de reprodução ([^1^](http://publications.europa.eu/resource/cellar/9d4aca39-7530-4df4-be8f-ade88253d929.0018.03/DOC_1#E0001)), e, nomeadamente, o n.º 3 do seu artigo 19.º,\n\n(1) Em conformidade com o n.º 1 do artigo 19.º da Directiva 1999/105/CE, o Conselho determina, sob proposta da Comissão, se os materiais florestais de reprodução produzidos num país terceiro oferecem, no que diz respeito à aprovação dos seus materiais de base e às medidas tomadas para a sua produção, com vista à comercialização, as mesmas garantias que os materiais florestais de reprodução produzidos na Comunidade e que cumprem o disposto na referida directiva.\n\n(2) Contudo, as informações actualmente disponíveis sobre as condições aplicáveis nos países terceiros não são ainda suficientes para permitir à Comunidade tomar qualquer decisão deste tipo em relação a qualquer país terceiro.\n\n(3) Em consequência, para evitar perturbações dos fluxos comerciais, os Estados-Membros devem ser autorizados a tomar essas decisões. O objectivo da autorização é garantir que os materiais importados ofereçam garantias equivalentes às aplicáveis aos materiais florestais de reprodução produzidos na Comunidade em conformidade com a directiva em causa.\n\n(4) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "a7b453d79d4ef346": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs Estados-Membros são autorizados a tomar decisões ao abrigo do n.º 3 do artigo 19.º da Directiva 1999/105/CE no respeitante aos materiais florestais de reprodução produzidos nos países terceiros constantes do anexo, em relação às espécies, aos tipos de materiais de base e às categorias nele referidos."
+  },
+  "75f840f16f35d6ec": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA autorização prevista no artigo 1.º caduca em 31 de Dezembro de 2005."
+  },
+  "502e7d6586e3fdb2": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente decisão."
+  },
+  "ca2bd8c4641bdf3d": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| PAÍS DE ORIGEM | ESPÉCIE | CATEGORIA | TIPO DE MATERIAIS DE BASE |\n| --- | --- | --- | --- |\n| Canadá (British Columbia) | *Abies grandis* Lindl. | SI, Q, T | SS, St, SO, PF |\n| *Picea sitchensis* Carr. | SI, Q | SS, St, SO |  |\n| *Pinus contorta* Loud. | SI | SS, St |  |\n| *Pseudotsuga menziesii* Franco | SI, Q, T | SS, St, SO, PF |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32004R0886) ————— |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/32003D0122) |  |  |  |\n| Noruega | *Pinus sylvestris* L. | SI | SS, St |\n| *Quercus petraea* Liebl. | SI | SS, St |  |\n| *Quercus robur* L. | SI | SS, St |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32004R0886) ————— |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/32003D0122) |  |  |  |\n| Roménia | *Abies alba* Mill. | SI | SS, St |\n| *Acer platanoides* L. | SI | SS, St |  |\n| *Fagus sylvatica* L. | SI | SS, St |  |\n| *Larix decidua* Mill. | SI | SS, St |  |\n| *Picea abies* Karst. | SI | SS, St |  |\n| *Pinus nigra* Arnold | SI | SS, St |  |\n| *Prunus avium* L. | SI | SS, St |  |\n| *Quercus cerris* L. | SI | SS, St |  |\n| *Quercus petraea* Liebl. | SI | SS, St |  |\n| *Quercus robur* L. | SI | SS, St |  |\n| *Quercus rubra* L. | SI | SS, St |  |\n| *Robinia pseudoacacia* L. | SI | SS, St |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32004R0886) ————— |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/32003D0122) |  |  |  |\n| Suíça | *Fagus sylvatica* L. | SI | SS, St |\n| Estados Unidos da América (Washington, Oregon, Califórnia) | *Abies grandis* Lindl. | SI, Q, T | SS, St, SO, PF |\n| *Picea sitchensis* Carr | SI | SS, St |  |\n| *Pinus contorta* Loud | SI | SS, St |  |\n| *Pseudotsuga menziesii* Franco | SI, Q, T | SS, St, SO, PF |  |\n\n---"
+  },
+  "42c70fe0d27cfe2e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9d4aca39-7530-4df4-be8f-ade88253d929.0018.03/DOC_1#src.E0001)) JO L 11 de 15.1.2000, p. 17."
+  }
+ }
+}

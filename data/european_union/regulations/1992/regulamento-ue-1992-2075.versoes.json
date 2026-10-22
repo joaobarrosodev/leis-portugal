@@ -1,0 +1,1020 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R2075:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R2075-20080701",
+ "dre_path": null,
+ "source_lastmod": "2008-07-01",
+ "versions": [
+  {
+   "date": "1992-07-30",
+   "future": false,
+   "celex": "31992R2075",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b54a9e3eeaf495fd",
+    "694d549b39ede5d1",
+    "8b4e7204cf6d95f3",
+    "6cd60bea0aa88f1b",
+    "c1b78f37884f3163",
+    "8b9cdc5e6dd2bd46",
+    "0eec4a9e344aeec5",
+    "33697d6bdcc0c02c",
+    "aaa2b9cf610088b8",
+    "3474030e78ab1197",
+    "b3b21027e2530a06",
+    "271643c5331ceb89",
+    "a383676830f1cade",
+    "058346484deb7be7",
+    "1560d05bb61c3edd",
+    "952b5ea8962eb063",
+    "922651fd41b9843c",
+    "acc06cfd139d497d",
+    "b911dfd93893bec0",
+    "b3c489ce64e484cb",
+    "352c27b9351e26d9",
+    "2697e24360306586",
+    "3368fad7c8418ca9",
+    "79d1bd585df3ab2e",
+    "aa05b76ef734c749",
+    "35ff1d8cdb5b3dd7",
+    "e4da1d8e16facf02",
+    "1972ed012dd264fb",
+    "bb4331f5c29960b2",
+    "015684a39c066370",
+    "8aa4a2cb6ebb4569",
+    "e97b5b522fa460d2",
+    "cec11e27ff8fc696",
+    "fcd4a67fb81e082e",
+    "742208cd11600d8f",
+    "6492814f5f8acfd0"
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "celex": "01992R2075-20060101",
+   "acts": [
+    {
+     "id": "eu:celex:31994R3290:por",
+     "title": "REGULAMENTO (CE) N. o 3290/94 DO CONSELHO de 22 de Dezembro de 1994",
+     "published": null,
+     "celex": "31994R3290"
+    },
+    {
+     "id": "eu:celex:31995R0711:por",
+     "title": "M2",
+     "published": null,
+     "celex": "31995R0711"
+    },
+    {
+     "id": "eu:celex:31996R0415:por",
+     "title": "M3",
+     "published": null,
+     "celex": "31996R0415"
+    },
+    {
+     "id": "eu:celex:31996R2444:por",
+     "title": "M4",
+     "published": null,
+     "celex": "31996R2444"
+    },
+    {
+     "id": "eu:celex:31997R2595:por",
+     "title": "M5",
+     "published": null,
+     "celex": "31997R2595"
+    },
+    {
+     "id": "eu:celex:31998R1636:por",
+     "title": "REGULAMENTO (CE) N. o 1636/98 DO CONSELHO de 20 de Julho de 1998",
+     "published": null,
+     "celex": "31998R1636"
+    },
+    {
+     "id": "eu:celex:31999R0660:por",
+     "title": "REGULAMENTO (CE) N. o 660/1999 DO CONSELHO de 22 de Março de 1999",
+     "published": null,
+     "celex": "31999R0660"
+    },
+    {
+     "id": "eu:celex:32000R1336:por",
+     "title": "REGULAMENTO (CE) N. o 1336/2000 DO CONSELHO de 19 de Junho de 2000",
+     "published": null,
+     "celex": "32000R1336"
+    },
+    {
+     "id": "eu:celex:32002R0546:por",
+     "title": "REGULAMENTO (CE) N. o 546/2002 DO CONSELHO de 25 de Março de 2002",
+     "published": null,
+     "celex": "32002R0546"
+    },
+    {
+     "id": "eu:celex:32003R0806:por",
+     "title": "REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003",
+     "published": null,
+     "celex": "32003R0806"
+    },
+    {
+     "id": "eu:celex:32003R2319:por",
+     "title": "REGULAMENTO (CE) N. o 2319/2003 DO CONSELHO de 17 de Dezembro de 2003",
+     "published": null,
+     "celex": "32003R2319"
+    },
+    {
+     "id": "eu:celex:32005R1679:por",
+     "title": "REGULAMENTO (CE) N. o 1679/2005 DO CONSELHO de 6 de Outubro de 2005",
+     "published": null,
+     "celex": "32005R1679"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita TÍTULO I",
+    "Adita Regime de prémio",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 4.ºA",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita TÍTULO II",
+    "Adita Regime de controlo da produção",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita TÍTULO III",
+    "Adita Medidas de orientação da produção",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.ºA",
+    "Adita Título IV",
+    "Adita Regime comercial com países terceiros",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 16.ºA",
+    "Adita TÍTULO V",
+    "Adita Medidas de controlo",
+    "Adita Artigo 17.º",
+    "Adita TÍTULO VI",
+    "Adita Disposições gerais e transitórias",
+    "Adita Artigo 18.º",
+    "Adita Artigo 20.º",
+    "Adita Artigo 21.º",
+    "Adita Artigo 22.º",
+    "Adita Artigo 23.º",
+    "Adita Artigo 24.º",
+    "Adita Artigo 28.º",
+    "Adita Artigo 29.º",
+    "Adita Notas",
+    "Suprime Artigo 1o.",
+    "Suprime Artigo 2o.",
+    "Suprime TÍTULO I Regime de prémio",
+    "Suprime Artigo 3o.",
+    "Suprime Artigo 4o.",
+    "Suprime Artigo 5o.",
+    "Suprime Artigo 6o.",
+    "Suprime Artigo 7o.",
+    "Suprime TÍTULO II Regime de controlo da produção",
+    "Suprime Artigo 8o.",
+    "Suprime Artigo 9o.",
+    "Suprime Artigo 10o.",
+    "Suprime Artigo 11o.",
+    "Suprime TÍTULO III Medidas relativas à orientação da produção",
+    "Suprime Artigo 12o.",
+    "Suprime Artigo 13o.",
+    "Suprime Artigo 14o.",
+    "Suprime TÍTULO IV Regime de trocas comerciais com países terceiros",
+    "Suprime Artigo 15o.",
+    "Suprime Artigo 16o.",
+    "Suprime TÍTULO V Disposições gerais e transitórias",
+    "Suprime Artigo 17o.",
+    "Suprime Artigo 18o.",
+    "Suprime Artigo 19o.",
+    "Suprime Artigo 20o.",
+    "Suprime Artigo 21o.",
+    "Suprime Artigo 22o.",
+    "Suprime Artigo 23o.",
+    "Suprime Artigo 24o.",
+    "Suprime Artigo 25o.",
+    "Suprime Artigo 26o.",
+    "Suprime Artigo 27o.",
+    "Suprime Artigo 28o.",
+    "Suprime Artigo 29o.",
+    "Suprime ANEXO — CLASSIFICAÇÃO DAS VARIEDADES DE TABACO EM GRUPOS I. FLUE CURED"
+   ],
+   "fragments": [
+    "821ab7da86b35b1b",
+    "0d3c7f36650e7166",
+    "ffc348f463b781ad",
+    "b42463f17302d328",
+    "7aa023ce658abb1b",
+    "f4c4d9c662a95dc9",
+    "892837772d64a9e0",
+    "20853f75ff89dc7a",
+    "7806332e04190a9a",
+    "19ce68bbd557003c",
+    "4c8bdeab3d91ec7d",
+    "9baa7814ec3e6cb7",
+    "0bcc468116016099",
+    "17e8ea0d063eff40",
+    "bc31fa60be1a872d",
+    "749e5442669cb1db",
+    "9db704600627e53c",
+    "49951d4a2eb706e0",
+    "207ba2a3c75a61ea",
+    "e140f3f06e66e389",
+    "e83f982437e498dd",
+    "86df03604f2fa6dc",
+    "0e968c2a6fe33d79",
+    "7e9e9c0903b31dc9",
+    "0d10fe4b6d06aab3",
+    "4f8efffddfe96470",
+    "f409d507541a67d5",
+    "9005978d41d21cd0",
+    "fd1f6efdb97a73cb",
+    "49d52d66bf8782af",
+    "993645cf39c3de98",
+    "a4baa536a0c32156",
+    "4f910f9e796b0da9",
+    "b902cd335d2bb379",
+    "fde53494894c4c2d",
+    "124e6f26c9ed6f38",
+    "81dd32454cc984f9",
+    "bb2bf1f73ab5965c",
+    "8bffed6dde7335af"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01992R2075-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1782:por",
+     "title": "M13",
+     "published": null,
+     "celex": "32003R1782"
+    },
+    {
+     "id": null,
+     "title": "A3",
+     "published": null,
+     "celex": "12005S"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 13.º",
+    "Altera Artigo 23.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "60933ec949766a1e",
+    "0d3c7f36650e7166",
+    "ffc348f463b781ad",
+    "b42463f17302d328",
+    "7aa023ce658abb1b",
+    "f4c4d9c662a95dc9",
+    "892837772d64a9e0",
+    "20853f75ff89dc7a",
+    "7806332e04190a9a",
+    "19ce68bbd557003c",
+    "4c8bdeab3d91ec7d",
+    "9baa7814ec3e6cb7",
+    "0bcc468116016099",
+    "17e8ea0d063eff40",
+    "bc31fa60be1a872d",
+    "749e5442669cb1db",
+    "9db704600627e53c",
+    "49951d4a2eb706e0",
+    "ad242775734893c6",
+    "e140f3f06e66e389",
+    "e83f982437e498dd",
+    "86df03604f2fa6dc",
+    "0e968c2a6fe33d79",
+    "7e9e9c0903b31dc9",
+    "0d10fe4b6d06aab3",
+    "4f8efffddfe96470",
+    "f409d507541a67d5",
+    "9005978d41d21cd0",
+    "fd1f6efdb97a73cb",
+    "49d52d66bf8782af",
+    "993645cf39c3de98",
+    "a4baa536a0c32156",
+    "4f910f9e796b0da9",
+    "b902cd335d2bb379",
+    "111d49ade82f19fe",
+    "124e6f26c9ed6f38",
+    "81dd32454cc984f9",
+    "bb2bf1f73ab5965c",
+    "61043bd52ed840bf"
+   ]
+  },
+  {
+   "date": "2008-07-01",
+   "future": false,
+   "celex": "01992R2075-20080701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime TÍTULO I",
+    "Suprime Regime de prémio",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 4.ºA",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime TÍTULO II",
+    "Suprime Regime de controlo da produção",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime TÍTULO III",
+    "Suprime Medidas de orientação da produção",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.ºA",
+    "Suprime Título IV",
+    "Suprime Regime comercial com países terceiros",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 16.ºA",
+    "Suprime TÍTULO V",
+    "Suprime Medidas de controlo",
+    "Suprime Artigo 17.º",
+    "Suprime TÍTULO VI",
+    "Suprime Disposições gerais e transitórias",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime Artigo 24.º",
+    "Suprime Artigo 28.º",
+    "Suprime Artigo 29.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "c6a4d78f7d135011"
+   ]
+  }
+ ],
+ "fragments": {
+  "b54a9e3eeaf495fd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2075/92 do Conselho, de 30 de Junho de 1992, que estabelece a organização comum de mercado no sector do tabaco em rama** *Jornal Oficial nº L 215 de 30/07/1992 p. 0070 - 0076 Edição especial finlandesa: Capítulo 3 Fascículo 43 p. 0217 Edição especial sueca: Capítulo 3 Fascículo 43 p. 0217*\n\nREGULAMENTO (CEE) No. 2075/92 DO CONSELHO de 30 de Junho de 1992 que estabelece a organização comum de mercado no sector do tabaco em rama\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 42o. e 43o.,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o funcionamento e o desenvolvimento do mercado comum para os produtos agrícolas devem ser acompanhados pelo estabelecimento de uma política agrícola comum, e que esta deve, nomeadamente, incluir uma organização comum de mercado que pode tomar diversas formas conforme os produtos;\n\nConsiderando que, nomeadamente no sector do tabaco em rama, a política agrícola comum se destina a permitir alcançar os objectivos do artigo 39o. do Tratado, designadamente a estabilização dos mercados e a garantia de um nível de vida equitativo à população agrícola interessada; que estes objectivos podem ser alcançados através de uma adaptação dos recursos às necessidades, baseada nomeadamente numa política de qualidade;\n\nConsiderando que a situação actual no mercado do tabaco, caracterizada por uma inadequação da oferta à procura, exige uma alteração substancial do regime comunitário que tem regido este mercado, sem deixar de manter a cultura do tabaco pelos produtores tradicionais; que esta alteração se destina a simplificar os mecanismos de gestão do mercado, a garantir um controlo da produção que satisfaça simultaneamente as necessidades do mercado e os imperativos orçamentais e a reforçar os meios de controlo de forma a garantir que os mecanismos de gestão permitam alcançar plenamente os objectivos da organização comum de mercado;\n\nConsiderando que as diferentes variedades de tabaco podem ser classificadas em grupos em função da semelhança das técnicas de cultura e dos custos de produção e respeitando as designações utilizadas nas trocas comerciais internacionais;\n\nConsiderando que, a situação concorrencial que se verifica no mercado do tabaco exige a concessão de um apoio aos plantadores tradicionais de tabaco e que é conveniente que este apoio se baseie num regime de prémios que permita o escoamento do tabaco na Comunidade;\n\nConsiderando que a existência de contratos de cultura entre o produtor e a empresa de primeira transformação permite garantir uma gestão eficaz do regime de prémios, assegurando simultaneamente um escoamento estável da produção e um abastecimento regular das empresas de transformação; que o pagamento, pela empresa de transformação ao produtor, de um montante igual ao prémio, aquando do acto de entrega do tabaco que foi objecto de um contrato e que está conforme às exigências qualitativas, irá contribuir para o apoio aos produtores e facilitar a gestão do regime de prémios;\n\nConsiderando que, no intuito de limitar a produção comunitária de tabaco e de desincentivar a produção de variedades de difícil escoamento, convém determinar um limiar de garantia global máximo para a Comunidade e reparti-lo anualmente em limiares de garantia específicos para cada grupo de variedades;\n\nConsiderando que, para garantir a observância dos limiares de garantia, é necessário estabelecer, por um período limitado, um regime de quotas de transformação; que cabe aos Estados-membros distribuir, a título transitório e dentro dos limiares de garantia fixados, as quotas de transformação pelas empresas interessadas, de acordo com regras comunitárias, estabelecidas para o efeito, destinadas a garantir uma repartição equitativa, com base nas quantidades transformadas no passado, não sendo, todavia, levadas em consideração as produções anormais registadas; que serão tomadas as medidas necessárias a fim de permitir posteriormente a distribuição das quotas aos produtores, em condições satisfatórias; que os Estados-membros que disponham dos dados necessários podem atribuir as quotas aos produtores com base nos resultados obtidos no passado;\n\nConsiderando que é indispensável que as empresas de primeira transformação não celebrem contratos de cultura que excedem as quotas atribuídas; que, portanto, a quantidade correspondente à quota deve constituir o limite máximo para o reembolso do montante do prémio;\n\nConsiderando que é conveniente limitar os regimes de prémios e de controlo da produção, numa primeira fase, até 1997, a fim de permitir o reexame destes regimes à luz da experência adquirida, com vista à sua eventual adaptação para o futuro;\n\nConsiderando que as medidas de orientação da produção podem contribuir para um saneamento do mercado do tabaco e para a melhoria qualitativa da produção; que, em especial, uma ajuda específica irá permitir que os agrupamentos de produtores possam contribuir para uma melhoria da organização e da orientação da produção; que, além disso, um programa de investigação financiado através de uma diminuição do prémio irá permitir uma melhor orientação da produção de tabaco no sentido de satisfazer os requisitos comunitários no domínio da saúde pública; que, finalmente, é necessário um programa de reconversão destinado aos produtores das variedades Mavra, Tsebelia, Forchheimer Havanna IIc e híbridos de Geudertheimer, dada a importância da cultura destas variedades para a economia de certas regiões da Comunidade;\n\nConsiderando que a realização de um mercado único implica o estabelecimento de um regime único de trocas comerciais aplicável nas fronteiras externas;\n\nConsiderando que é possível renunciar às restrições quantitativas nas fronteiras externas da Comunidade; que, todavia, convém permitir que a Comunidade possa tomar rapidamente todas as medidas necessárias para não deixar, em situações excepcionais, o mercado comunitário sem defesa contra as perturbações que daí possam resultar;\n\nConsiderando que as circunstâncias imprevistas do mercado podem tornar necessária a tomada de medidas excepcionais de apoio ao mercado, a decidir pela Comissão;\n\nConsiderando que a realização do mercado único seria comprometida pela concessão de certas ajudas; que, em consequência, convém que as disposições do Tratado que permitem apreciar os auxílios concedidos pelos Estados-membros e proibir aqueles que são incompatíveis com o mercado comum sejam aplicáveis no sector do tabaco;\n\nConsiderando que é necessário prever a responsabilidade financeira da Comunidade em relação às despesas efectuadas pelos Estados-membros em consequência das obrigações resultantes da aplicação do presente regulamento, nos termos do Regulamento (CEE) no. 729/70 do Conselho, de 21 de Abril de 1970, relativo ao financiamento da política agrícola comum (4);\n\nConsiderando que a experiência adquirida revelou ser indispensável um reforço do controlo no sector do tabaco, e que, eventualmente, certos poderes de controlo poderiam ser atribuídos a uma agência de controlo autónoma, para fazer face às exigências específicas deste mercado;\n\nConsiderando que a organização comum de mercado no sector do tabaco deve ter em conta, paralelamente e de maneira adequada, os objectivos previstos nos artigos 39o. e 110o. do Tratado;\n\nConsiderando que a transição do regime instituído pelo Regulamento (CEE) no. 727/70 do Conselho, de 21 de Abril de 1970, que estabelece uma organização comum de mercado no sector do tabaco em rama (5), para o regime previsto no presente regulamento, deve efectuar-se nas melhores condições; que, para tal, podem revelar-se necessárias medidas transitórias; que, além disso, convém que o novo regime só seja aplicável a partir da colheita de 1993,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "694d549b39ede5d1": {
+   "fragment_id": "Artigo 1o.",
+   "type": "artigo",
+   "heading": "Artigo 1o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o.\n\nA organização comum de mercado no sector do tabaco em rama inclui:\n\n- um regime de prémios,\n\n- medidas de orientação e controlo da produção,\n\n- um regime de trocas comerciais com os países terceiros.\n\nEsta organização comum de mercado abrange o tabaco em rama ou não manufacturado e os resíduos de tabaco do código NC 2401."
+  },
+  "8b4e7204cf6d95f3": {
+   "fragment_id": "Artigo 2o.",
+   "type": "artigo",
+   "heading": "Artigo 2o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o.\n\nAs variedades de tabaco em rama são classificadas nos seguintes grupos:\n\na) Flue-cured:\n\nTabaco curado em estufas ou câmaras com controlo da circulação do ar, da temperatura e do grau de humanidade;\n\nb) Light-air cured:\n\nTabaco curado ao ar, sob abrigo e que não se deixou fermentar;\n\nc) Dark air-cured:\n\nTabaco curado ao ar, sob abrigo, mas que se deixou fermentar naturalmente antes de ser comercializado;\n\nd) Sun-cured:\n\nTabaco curado ao sol;\n\ne) Fire-cured:\n\nTabaco curado ao fogo;\n\nf) Basma (sun-cured);\n\ng) Katerini (sun-cured);\n\nh) Kaba Koulak (classic) e variedades similares (sun-cured).\n\nAs variedades pertencentes a cada grupo figuram no anexo."
+  },
+  "6cd60bea0aa88f1b": {
+   "fragment_id": "TÍTULO I Regime de prémio",
+   "type": "divisao",
+   "heading": "TÍTULO I Regime de prémio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I Regime de prémio"
+  },
+  "c1b78f37884f3163": {
+   "fragment_id": "Artigo 3o.",
+   "type": "artigo",
+   "heading": "Artigo 3o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o.\n\n1. É instituído um regime de prémios aplicável a partir da colheita de 1993 até à colheita de 1997, com um montante único para todas as variedades de tabaco pertencentes ao mesmo grupo.\n\n2. Todavia, para os tabacos flue-cured, light air-cured e dark air-cured produzidos na Bélgica, Alemanha e França é concedido um montante suplementar. Este montante será de 50 % da diferença entre o prémio concedido a estes tabacos de acordo com o no. 1, e o prémio aplicável à colheita de 1992.\n\n3. Este prémio destina-se a contribuir para o rendimento do produtor no âmbito de uma produção adequada às necessidades do mercado e a permitir o escoamento do tabaco produzido na Comunidade."
+  },
+  "8b9cdc5e6dd2bd46": {
+   "fragment_id": "Artigo 4o.",
+   "type": "artigo",
+   "heading": "Artigo 4o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o.\n\n1. O Conselho, de acordo com o procedimento previsto no no. 2 do artigo 43o. do Tratado, fixará por colheita, o montante do prémio e dos montantes suplementares para a colheita do ano civil em curso, tendo em conta, nomeadamente, as possibilidades de escoamento passadas e previsíveis, para os diferentes tipos de tabaco, em condições normais de concorrência, no mercado comunitário e no mercado mundial.\n\n2. O montante do prémio será fixado:\n\na) Por quilograma de tabaco em folha que não tenha sofrido as operações de primeira transformação e acondicionamento;\n\nb) Para cada um dos grupos de tabaco em rama."
+  },
+  "0eec4a9e344aeec5": {
+   "fragment_id": "Artigo 5o.",
+   "type": "artigo",
+   "heading": "Artigo 5o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o.\n\nA concessão do prémio fica sujeita, nomeadamente, às seguintes condições:\n\na) O tabaco deve ser proveniente de uma zona de produção determinada para cada variedade;\n\nb) Devem ser respeitadas exigências qualitativas;\n\nc) O fornecimento do tabaco em folha pelo produtor à empresa de primeira transformação deve ser feito com base num contrato de cultura."
+  },
+  "33697d6bdcc0c02c": {
+   "fragment_id": "Artigo 6o.",
+   "type": "artigo",
+   "heading": "Artigo 6o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o.\n\n1. Devem constar do contrato de cultura, pelo menos:\n\n- o compromisso da empresa de primeira transformação de no momento da entrega e para a quantidade estabelecida no contrato e efectivamente fornecida, pagar ao produtor um montante igual ao prémio, para além do preço de compra,\n\n- o compromisso do produtor de fornecer à empresa de primeira transformação tabaco em rama que satisfaça as exigências qualitativas.\n\n2. O organismo competente reembolsará o montante do prémio à empresa de primeira transformação, mediante apresentação da prova do fornecimento do tabaco pelo produtor e do pagamento do montante referido no no. 1."
+  },
+  "aaa2b9cf610088b8": {
+   "fragment_id": "Artigo 7o.",
+   "type": "artigo",
+   "heading": "Artigo 7o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o.\n\nAs normas de execução do presente título serão adaptadas de acordo com o procedimento previsto no artigo 23o.\n\nEstas normas incluem nomeadamente:\n\n- a delimitação das zonas de produção para cada variedade,\n\n- as exigências qualitativas que o tabaco fornecido deve satisfazer,\n\n- os elementos adicionais do contrato de cultura e a data-limite para a sua celebração,\n\n- a eventual exigência da constituição, pela empresa de primeira transformação, de uma garantia no caso de um pedido de adiantamento, assim como as condições em que deve ser constituída e liberada essa garantia,\n\n- as condições específicas de concessão do prémio quando o contrato de cultura tiver sido celebrado com um agrupamento de produtores,\n\n- as medidas a tomar em caso de não cumprimento, pelo produtor ou pela empresa de primeira transformação, das obrigações regulamentares."
+  },
+  "3474030e78ab1197": {
+   "fragment_id": "TÍTULO II Regime de controlo da produção",
+   "type": "divisao",
+   "heading": "TÍTULO II Regime de controlo da produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II Regime de controlo da produção"
+  },
+  "b3b21027e2530a06": {
+   "fragment_id": "Artigo 8o.",
+   "type": "artigo",
+   "heading": "Artigo 8o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o.\n\nÉ fixado um limiar de garantia global máximo para a Comunidade de 350 000 toneladas de tabaco em folha por colheita. No entanto, para 1993 este limiar será de 370 000 toneladas.\n\nDentro desse limiar, o Conselho fixará anualmente, de acordo com o procedimento previsto no no. 2 do artigo 43o. do Tratado, limiares de garantia específicos para cada grupo de variedades, tendo em conta, nomeadamente, as condições de mercado e as condições socioeconómicas e agronómicas das respectivas zonas de produção."
+  },
+  "271643c5331ceb89": {
+   "fragment_id": "Artigo 9o.",
+   "type": "artigo",
+   "heading": "Artigo 9o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o.\n\n1. Para garantir a observância dos limiares de garantia, estabelece-se, para as colheitas de 1993 e 1997, um regime de quotas de transformação.\n\n2. Para cada colheita, de acordo com o procedimento previsto no no. 2 do artigo 43o. do Tratado, o Conselho procederá à repartição das quantidades disponíveis, para cada grupo de variedades, pelos Estados-membros produtores.\n\n3. Com base nas quantidades fixadas nos termos do disposto no no. 2 e sem prejuízo da aplicação do no. 5, os Estados-membros distribuirão as quatos de transformação a título transitório para as colheitas de 1993 e 1994, pelas empresas de primeira transformação, proporcionalmente à média, por grupo de variedades, das quantidades entregues para transformação durante os três anos que precederam a colheita anterior. Não serão, todavia, tomadas em consideração a produção de 1992 e as entregas provenientes dessa colheita. Essa distribuição não afectará as modalidades de distribuição das quotas de transformação para as colheitas seguintes.\n\nÀs empresas de primeira transformação que tenham iniciado a sua actividade após o início do período de referência, será atribuída uma quantidade proporcional à média das quantidades entregues para transformação durante o seu período de actividade.\n\nPara as empresas de primeira transformação que iniciem a sua actividade durante o ano da colheita, ou durante o ano anterior, os Estados-membros reservarão 2 % das quantidades totais de que disponham por grupo de variedades. Dentro deste limite, será atribuída a essas empresas uma quantidade que não pode exceder 70 % da sua capacidade de transformação, desde que apresentem garantias suficientes quanto à eficiência e durabilidade das suas actividades.\n\n4. Todavia, os Estados-membros podem proceder à distribuição das quotas directamente aos produtores, desde que disponham, para todos os produtores, de dados precisos referentes às três colheitas que precederam a colheita anterior, quanto a variedades e quantidades produzidas e entregues às empresas de transformação.\n\n5. Aquando da distribuição das quotas referidas nos nos. 3 e 4 ter-se-ao, nomeadamente, em conta, no cálculo da produção de referência, as quantidades de tabaco em rama que tenham excedido as quantidades máximas garantidas aplicáveis por força do Regulamento (CEE) no. 727/70.\n\nA produção só será tida em conta, se for caso disso, até ao limite da quota atribuída durante os anos tomados em consideração."
+  },
+  "a383676830f1cade": {
+   "fragment_id": "Artigo 10o.",
+   "type": "artigo",
+   "heading": "Artigo 10o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o.\n\nUma empresa de primeira transformação não pode celebrar contratos de cultura, nem beneficiar do reembolso do montante do prémio, em relação a quantidades superiores à quota que lhe foi atribuída ou que foi atribuída ao produtor."
+  },
+  "058346484deb7be7": {
+   "fragment_id": "Artigo 11o.",
+   "type": "artigo",
+   "heading": "Artigo 11o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o.\n\nAs normas de execução do presente título serão estabelecidas de acordo com o processo previsto no artigo 23o. Estas normas incluirão, nomeadamente, as modulações da repartição de quotas previstas no no. 5 do artigo 9o., bem como as condições prévias de repercussão das quotas a nível dos produtores, nomeadamente em relação à sua situação anterior."
+  },
+  "1560d05bb61c3edd": {
+   "fragment_id": "TÍTULO III Medidas relativas à orientação da produção",
+   "type": "divisao",
+   "heading": "TÍTULO III Medidas relativas à orientação da produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III Medidas relativas à orientação da produção"
+  },
+  "952b5ea8962eb063": {
+   "fragment_id": "Artigo 12o.",
+   "type": "artigo",
+   "heading": "Artigo 12o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o.\n\n1. Com vista à concentração da oferta e à sua adaptação às necessidades qualitativas do mercado, será concedida uma ajuda específica de 10 % do prémio sempre que tiver sido celebrado um contrato de cultura entre uma empresa de primeira transformação e um agrupamento de produtores reconhecido, e que os fornecimentos efectuados ao abrigo desse contrato abranjam a totalidade da produção dos membros do referido agrupamento.\n\n2. Esta ajuda específica será paga ao agrupamento de produtores, e destina-se a melhorar a organização e a orientação da produção.\n\n3. As normas de execução do presente artigo serão adoptadas pela Comissão, de acordo com o procedimento previsto no artigo 23o. Estas normas incluirão, nomeadamente:\n\n- a definição do agrupamento de produtores susceptível de beneficiar da ajuda específica,\n\n- as condições de reconhecimento do agrupamento,\n\n- a utilização da ajuda específica."
+  },
+  "922651fd41b9843c": {
+   "fragment_id": "Artigo 13o.",
+   "type": "artigo",
+   "heading": "Artigo 13o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o.\n\n1. É criado um fundo comunitário de investigação e informação no domínio do tabaco. Este fundo será financiado por uma retenção de, no máximo, 1 % do prémio do momento do seu pagamento.\n\n2. Este fundo financiará e coordenará programas de investigação e informação, destinados a ampliar os conhecimentos quanto aos efeitos nocivos do tabaco, e quanto às medidas preventivas e curativas adequadas, e ainda a orientar a produção comunitária, dando preferência às variedades e qualidades de tabaco menos prejudiciais.\n\n3. As normas de execução do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 23o."
+  },
+  "acc06cfd139d497d": {
+   "fragment_id": "Artigo 14o.",
+   "type": "artigo",
+   "heading": "Artigo 14o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o.\n\nUm programa trienal de reconversão das variedades Mavra, Tsebelia, Forchheimer Havanna IIc e híbridos de Geudertheimer, em benefício de outras variedades mais adaptadas ao mercado, ou de outras culturas, será adaptado pela Comissão, de acordo com o procedimento previsto no artigo 23o. Este programa será executado a partir da colheita de 1993. O programa pode incluir medidas específicas destinadas a compensar eventuais perdas de rendimento devidas à reconversão."
+  },
+  "b911dfd93893bec0": {
+   "fragment_id": "TÍTULO IV Regime de trocas comerciais com países terceiros",
+   "type": "divisao",
+   "heading": "TÍTULO IV Regime de trocas comerciais com países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV Regime de trocas comerciais com países terceiros"
+  },
+  "b3c489ce64e484cb": {
+   "fragment_id": "Artigo 15o.",
+   "type": "artigo",
+   "heading": "Artigo 15o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o.\n\nSalvo disposições contrárias do presente regulamento ou derrogação determinada pela Comissão, deliberando de acordo com o procedimento previsto no artigo 23o., são proibidas nas trocas comerciais com países terceiros:\n\na) A cobrança de qualquer imposição de efeito equivalente a um direito aduaneiro;\n\nb) A aplicação de qualquer restrição quantitativa ou medida de efeito equivalente."
+  },
+  "352c27b9351e26d9": {
+   "fragment_id": "Artigo 16o.",
+   "type": "artigo",
+   "heading": "Artigo 16o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o.\n\n1. Se, devido às importações ou às exportações, o mercado comunitário de um ou vários produtos referidos no artigo 1o. sofrer, ou correr o risco de sofrer, perturbações graves que possam pôr em perigo os objectivos do artigo 39o. do Tratado, podem ser aplicadas medidas adequadas às trocas comerciais com países terceiros até que desapareça a perturbação ou o risco de perturbação.\n\n2. Se se verificar a situação referida no no. 1, a Comissão, a pedido de um Estado-membro ou por sua própria iniciativa, determinará as medidas necessárias, que serão comunicadas aos Estados-membros e imediatamente aplicáveis. Se um Estado-membro apresentar um pedido à Comissão, esta decidirá quanto ao mesmo nas vinte e quatro horas seguintes à sua recepção.\n\n3. Qualquer Estado-membro pode submeter à apreciação do Conselho a medida tomada pela Comissão no prazo de três dias úteis a seguir à data da sua comunicação. O Conselho reúne sem demora e pode alterar ou anular a medida em causa, deliberando por maioria qualificada."
+  },
+  "2697e24360306586": {
+   "fragment_id": "TÍTULO V Disposições gerais e transitórias",
+   "type": "divisao",
+   "heading": "TÍTULO V Disposições gerais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V Disposições gerais e transitórias"
+  },
+  "3368fad7c8418ca9": {
+   "fragment_id": "Artigo 17o.",
+   "type": "artigo",
+   "heading": "Artigo 17o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o.\n\nA fim de enfrentar circunstâncias imprevistas no mercado, podem ser tomadas medidas excepcionais de apoio ao mesmo, de acordo com o processo previsto no artigo 23o. Estas medidas só podem ser tomadas se e enquanto forem estritamente necessárias para apoiar o mercado."
+  },
+  "79d1bd585df3ab2e": {
+   "fragment_id": "Artigo 18o.",
+   "type": "artigo",
+   "heading": "Artigo 18o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o.\n\nSem prejuízo de disposições contrárias do presente regulamento, os artigos 92o., 93o. e 94o. do Tratado são aplicáveis à produção e ao comércio dos produtos referidos no artigo 1o."
+  },
+  "aa05b76ef734c749": {
+   "fragment_id": "Artigo 19o.",
+   "type": "artigo",
+   "heading": "Artigo 19o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o.\n\nAs despesas decorrentes do disposto nos títulos I e III serão consideradas como despesas na acepção do no. 2 do artigo 1o. do Regulamento (CEE) no. 729/70."
+  },
+  "35ff1d8cdb5b3dd7": {
+   "fragment_id": "Artigo 20o.",
+   "type": "artigo",
+   "heading": "Artigo 20o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o.\n\n1. Os Estados-membros tomarão todas as medidas necessárias para garantir o cumprimento das disposições comunitárias no sector do tabaco em rama. Para tal, notificarão a Comissão, num prazo de seis meses após a adopção do presente regulamento, das disposições práticas de gestão e controlo que tencionam adoptar. A Comissão, num prazo de três meses a contar da data da notificação, aprovará as referidas disposições ou pedirá que sejam feitos os ajustamentos necessários. Neste último caso, o Estado-membro adaptará as suas disposições dentro do mais breve prazo. Qualquer alteração das disposições nacionais será imediatamente notificada pelos Estados-membros à Comissão que a analisará segundo as mesmas regras.\n\n2. Cada Estado-membro produtor criará, de acordo com a sua ordem jurídica, uma agência específica encarregada de certos controlos no âmbito do regime comunitário do tabaco. Todavia, os Estados-membros cujo limiar de garantia, em aplicação do no. 2 do artigo 9o., se situe abaixo de 45 000 toneladas, podem decidir não constituir essa agência.\n\n3. A agência beneficiará de plena autonomia administrativa, e será dotada pelo Estado-membro dos poderes necessários para cumprir as tarefas que lhe incumbem.\n\nA agência será composta de agentes, cujo número e formação serão apropriados para permitir a realização das tarefas indicadas.\n\n4. Antes do início de cada campanha, o Estado-membro em causa, sob proposta da agência, elaborará e transmitirá à Comissão um orçamento previsional e um programa de actividade, destinados a assegurar a aplicação correcta do regime de prémios. Sem prejuízo das responsabilidades do Estado-membro, a Comissão pode solicitar que sejam introduzidas no orçamento previsional e no programa quaisquer alterações que considerar oportunas.\n\nOs agentes da Comissão podem, em qualquer momento, acompanhar qualquer actividade da agência.\n\nA agência transmitirá periodicamente ao Estado-membro e à Comissão relatórios sobre as actividades realizadas. Desses relatórios devem constar as eventuais dificuldades surgidas e, se for caso disso, sugestões para o aperfeiçoamento do regime de controlo.\n\n5. As despesas efectivas da agência serão cobertas pelo orçamento geral das Comunidades Europeias, à razão de 50 %, sendo o saldo financiado pelo Estado-membro em causa.\n\n6. O montante anual correspondente às despesas efectivas referidas no no. 5 será determinado pela Comissão com base em indicações fornecidas pelos Estados-membros em causa. Este montante será concedido depois de verificado pela Comissão que a agência em questão foi constituída e cumpriu as suas tarefas. Com vista a facilitar a constituição e funcionamento da agência, o montante em questão pode ser adiantado por fracções ao longo do ano, com base no orçamento anual da agência, estabelecido conjuntamente pelo Estado-membro e a Comissão, antes do final do mês de Outubro de cada ano.\n\n7. Os Estados-membros tomarão as medidas necessárias para que os agentes de controlo nomeados por força dos nos. 2 a 4:\n\n- tenham acesso às instalações de produção, transformação e comercialização,\n\n- possam tomar conhecimento dos dados contabilísticos ou outros documentos de interesse para o controlo, e deles fazer cópias ou extractos,\n\n- possam pedir qualquer informação considerada útil.\n\n8. A Comisão adoptara, segundo o procedimento previsto no artigo 23o., as normas de execução do presente artigo."
+  },
+  "e4da1d8e16facf02": {
+   "fragment_id": "Artigo 21o.",
+   "type": "artigo",
+   "heading": "Artigo 21o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o.\n\nOs Estados-membros e a Comissão comunicarão entre si os dados necessários à aplicação do presente regulamento. As modalidades de comunicação e difusão destes dados serão adoptados de acordo com o processo previsto no artigo 23o."
+  },
+  "1972ed012dd264fb": {
+   "fragment_id": "Artigo 22o.",
+   "type": "artigo",
+   "heading": "Artigo 22o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o.\n\nÉ instituído um Comité de gestão de tabaco, a seguir denominado «comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão."
+  },
+  "bb4331f5c29960b2": {
+   "fragment_id": "Artigo 23o.",
+   "type": "artigo",
+   "heading": "Artigo 23o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o.\n\n1. O representante da Comissão submete à apreciação do comité um projecto das medidas a tomar. O comité emite o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer é emitido por maioria, nos termos previstos no no. 2 do artigo 148o. do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no seio do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no mesmo artigo. O presidente não participa no votação.\n\n2. A Comissão adopta medidas que são imediatamente aplicáveis. Todavia, se tais medidas não forem conformes ao parecer emitido pelo comité, elas serão imediatamente comunicadas pela Comissão ao Conselho. Neste caso, a Comissão pode diferir, por um período de um mês ou mais a contar da data desta comunicação, a aplicação das medidas que aprovou.\n\n3. O Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo previsto no parágrafo anterior."
+  },
+  "015684a39c066370": {
+   "fragment_id": "Artigo 24o.",
+   "type": "artigo",
+   "heading": "Artigo 24o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24o.\n\nO comité pode examinar qualquer outra questão apresentada pelo seu presidente, seja por sua própria iniciativa, seja a pedido do representante do Estado-membro."
+  },
+  "8aa4a2cb6ebb4569": {
+   "fragment_id": "Artigo 25o.",
+   "type": "artigo",
+   "heading": "Artigo 25o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25o.\n\nO presente regulamento deve ser aplicado de modo a que tenha em conta, paralelamente e de modo adequado, os objectivos previstos nos artigos 39o. e 110o. do Tratado."
+  },
+  "e97b5b522fa460d2": {
+   "fragment_id": "Artigo 26o.",
+   "type": "artigo",
+   "heading": "Artigo 26o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26o.\n\nAntes de 1 de Abril de 1996, a Comissão apresentará ao Conselho uma proposta relativa aos regimes previstos nos títulos I e II, aplicável a partir de colheita de 1998. O Conselho deliberará sobre esta proposta, de acordo com procedimento previsto no no. 2 do artigo 43o. do Tratado."
+  },
+  "cec11e27ff8fc696": {
+   "fragment_id": "Artigo 27o.",
+   "type": "artigo",
+   "heading": "Artigo 27o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27o.\n\nCaso se revelem necessárias medidas transitórias para facilitar a passagem do regime instituído pelo Regulamento (CEE) no. 727/70, ao regime instituído pelo presente regulamento, essas medidas serão adoptadas de acordo com o processo previsto no artigo 23o."
+  },
+  "fcd4a67fb81e082e": {
+   "fragment_id": "Artigo 28o.",
+   "type": "artigo",
+   "heading": "Artigo 28o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28o.\n\nÉ revogado, com efeitos a partir da colheita de 1993, o Regulamento (CEE) no. 727/70."
+  },
+  "742208cd11600d8f": {
+   "fragment_id": "Artigo 29o.",
+   "type": "artigo",
+   "heading": "Artigo 29o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29o.\n\nO presente regulamento é aplicável a partir da colheita de 1993.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo, em 30 de Junho de 1992.\n\nPelo Conselho\n\nO Presidente\n\nArlindo MARQUES CUNHA\n\n(1) JO no. C 295 de 14. 11. 1991, p. 10.(2) JO no. C 94 de 13. 4. 1992.(3) JO no. C 98 de 21. 4. 1992, p. 18.(4) JO no. L 94 de 28. 4. 1970, p. 13. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) no. 2048/88 (JO no. L 185 de 15. 7. 1988, p. 1.).(5) JO no. L 94 de 28. 4. 1970, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) no. 860/92 (JO no. L 91 de 7. 4. 1992, p. 1)."
+  },
+  "6492814f5f8acfd0": {
+   "fragment_id": "ANEXO — CLASSIFICAÇÃO DAS VARIEDADES DE TABACO EM GRUPOS I. FLUE CURED",
+   "type": "divisao",
+   "heading": "ANEXO — CLASSIFICAÇÃO DAS VARIEDADES DE TABACO EM GRUPOS I. FLUE CURED",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — CLASSIFICAÇÃO DAS VARIEDADES DE TABACO EM GRUPOS I. FLUE CURED\n\nVirginia\n\nVirginia D e seus híbridos\n\nBright\n\nII. LIGHT AIR CURED\n\nBurley\n\nBadischer Burley e seus híbridos\n\nMaryland\n\nIII. DARK AIR CURED\n\nBadischer Geudertheimer, Pereg, Korso\n\nParaguay e seus híbridos\n\nDragon vert e seus híbridos\n\nPhilippin\n\nPetit Grammont (Flobecq)\n\nSemois\n\nAppelterre\n\nNijkerk\n\nMisionero e seus híbridos\n\nRio Grande e seus híbridos\n\nForchheimer Havanna IIc\n\nNostrano del Brenta\n\nResistente 142\n\nGojano\n\nHíbridos de Geudertheimer\n\nBeneventano\n\nBrasile Selvaggio e variedades similares\n\nBurley fermentado\n\nHavanna\n\nIV. FIRE CURED\n\nKentucky e seus híbridos\n\nMoro di Cori\n\nSalento\n\nV. SUN CURED\n\nXanti-Yakà\n\nPerustitza\n\nSamsun\n\nErzegovina e variedades similares\n\nMyrodata, Smyrnis, Trapezous e Phi I\n\nKaba Koulak (non-classic)\n\nTsebelia\n\nMavra\n\nVI. Basmas\n\nVII. Katerini e variedades similares\n\nVIII. Kaba Koulak (classic)\n\nElassona\n\nMyrodata Agrinion\n\nZichnomyrodata"
+  },
+  "821ab7da86b35b1b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Junho de 1992\n\nque estabelece a organização comum de mercado no sector do tabaco em rama\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 42.º e 43.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/18b707d2-be91-4de4-a34c-188a0049b0a1.0016.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/18b707d2-be91-4de4-a34c-188a0049b0a1.0016.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/18b707d2-be91-4de4-a34c-188a0049b0a1.0016.03/DOC_1#E0003)),\n\nConsiderando que o funcionamento e o desenvolvimento do mercado comum para os produtos agrícolas devem ser acompanhados pelo estabelecimento de uma política agrícola comum, e que esta deve, nomeadamente, incluir uma organização comum de mercado que pode tomar diversas formas conforme os produtos;\n\nConsiderando que, nomeadamente no sector do tabaco em rama, a política agrícola comum se destina a permitir alcançar os objectivos do artigo 39.º do Tratado, designadamente a estabilização dos mercados e a garantia de um nível de vida equitativo à população agrícola interessada; que estes objectivos podem ser alcançados através de uma adaptação dos recursos às necessidades, baseada nomeadamente numa política de qualidade;\n\nConsiderando que a situação actual no mercado do tabaco, caracterizada por uma inadequação da oferta à procura, exige uma alteração substancial do regime comunitário que tem regido este mercado, sem deixar de manter a cultura do tabaco pelos produtores tradicionais; que esta alteração se destina a simplificar os mecanismos de gestão do mercado, a garantir um controlo da produção que satisfaça simultaneamente as necessidades do mercado e os imperativos orçamentais e a reforçar os meios de controlo de forma a garantir que os mecanismos de gestão permitam alcançar plenamente os objectivos da organização comum de mercado;\n\nConsiderando que as diferentes variedades de tabaco podem ser classificadas em grupos em função da semelhança das técnicas de cultura e dos custos de produção e respeitando as designações utilizadas nas trocas comerciais internacionais;\n\nConsiderando que, a situação concorrencial que se verifica no mercado do tabaco exige a concessão de um apoio aos plantadores tradicionais de tabaco e que é conveniente que este apoio se baseie num regime de prémios que permita o escoamento do tabaco na Comunidade;\n\nConsiderando que a existência de contratos de cultura entre o produtor e a empresa de primeira transformação permite garantir uma gestão eficaz do regime de prémios, assegurando simultaneamente um escoamento estável da produção e um abastecimento regular das empresas de transformação; que o pagamento, pela empresa de transformação ao produtor, de um montante igual ao prémio, aquando do acto de entrega do tabaco que foi objecto de um contrato e que está conforme às exigências qualitativas, irá contribuir para o apoio aos produtores e facilitar a gestão do regime de prémios;\n\nConsiderando que, no intuito de limitar a produção comunitária de tabaco e de desincentivar a produção de variedades de difícil escoamento, convém determinar um limiar de garantia global máximo para a Comunidade e reparti-lo anualmente em limiares de garantia específicos para cada grupo de variedades;\n\nConsiderando que, para garantir a observância dos limiares de garantia, é necessário estabelecer, por um período limitado, um regime de quotas de transformação; que cabe aos Estados-membros distribuir, a título transitório e dentro dos limiares de garantia fixados, as quotas de transformação pelas empresas interessadas, de acordo com regras comunitárias, estabelecidas para o efeito, destinadas a garantir uma repartição equitativa, com base nas quantidades transformadas no passado, não sendo, todavia, levadas em consideração as produções anormais registadas; que serão tomadas as medidas necessárias a fim de permitir posteriormente a distribuição das quotas aos produtores, em condições satisfatórias; que os Estados-membros que disponham dos dados necessários podem atribuir as quotas aos produtores com base nos resultados obtidos no passado;\n\nConsiderando que é indispensável que as empresas de primeira transformação não celebrem contratos de cultura que excedem as quotas atribuídas; que, portanto, a quantidade correspondente à quota deve constituir o limite máximo para o reembolso do montante do prémio;\n\nConsiderando que é conveniente limitar os regimes de prémios e de controlo da produção, numa primeira fase, até 1997, a fim de permitir o reexame destes regimes à luz da experência adquirida, com vista à sua eventual adaptação para o futuro;\n\nConsiderando que as medidas de orientação da produção podem contribuir para um saneamento do mercado do tabaco e para a melhoria qualitativa da produção; que, em especial, uma ajuda específica irá permitir que os agrupamentos de produtores possam contribuir para uma melhoria da organização e da orientação da produção; que, além disso, um programa de investigação financiado através de uma diminuição do prémio irá permitir uma melhor orientação da produção de tabaco no sentido de satisfazer os requisitos comunitários no domínio da saúde pública; que, finalmente, é necessário um programa de reconversão destinado aos produtores das variedades *Mavra, Tsebelia, Forchheimer Havanna IIc* e híbridos de *Geudertheimer*, dada a importância da cultura destas variedades para a economia de certas regiões da Comunidade;\n\nConsiderando que a realização de um mercado único implica o estabelecimento de um regime único de trocas comerciais aplicável nas fronteiras externas;\n\nConsiderando que é possível renunciar às restrições quantitativas nas fronteiras externas da Comunidade; que, todavia, convém permitir que a Comunidade possa tomar rapidamente todas as medidas necessárias para não deixar, em situações excepcionais, o mercado comunitário sem defesa contra as perturbações que daí possam resultar;\n\nConsiderando que as circunstâncias imprevistas do mercado podem tornar necessária a tomada de medidas excepcionais de apoio ao mercado, a decidir pela Comissão;\n\nConsiderando que a realização do mercado único seria comprometida pela concessão de certas ajudas; que, em consequência, convém que as disposições do Tratado que permitem apreciar os auxílios concedidos pelos Estados-membros e proibir aqueles que são incompatíveis com o mercado comum sejam aplicáveis no sector do tabaco;\n\nConsiderando que é necessário prever a responsabilidade financeira da Comunidade em relação às despesas efectuadas pelos Estados-membros em consequência das obrigações resultantes da aplicação do presente regulamento, nos termos do Regulamento (CEE) n.º 729/70 do Conselho, de 21 de Abril de 1970, relativo ao financiamento da política agrícola comum ([^4^](http://publications.europa.eu/resource/cellar/18b707d2-be91-4de4-a34c-188a0049b0a1.0016.03/DOC_1#E0004));\n\nConsiderando que a experiência adquirida revelou ser indispensável um reforço do controlo no sector do tabaco, e que, eventualmente, certos poderes de controlo poderiam ser atribuídos a uma agência de controlo autónoma, para fazer face às exigências específicas deste mercado;\n\nConsiderando que a organização comum de mercado no sector do tabaco deve ter em conta, paralelamente e de maneira adequada, os objectivos previstos nos artigos 39.º e 110.º do Tratado;\n\nConsiderando que a transição do regime instituído pelo Regulamento (CEE) n.º 727/70 do Conselho, de 21 de Abril de 1970, que estabelece uma organização comum de mercado no sector do tabaco em rama ([^5^](http://publications.europa.eu/resource/cellar/18b707d2-be91-4de4-a34c-188a0049b0a1.0016.03/DOC_1#E0005)), para o regime previsto no presente regulamento, deve efectuar-se nas melhores condições; que, para tal, podem revelar-se necessárias medidas transitórias; que, além disso, convém que o novo regime só seja aplicável a partir da colheita de 1993,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "0d3c7f36650e7166": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA organização comum de mercado do tabaco em rama abrange o tabaco em rama ou não manufacturado e os resíduos de tabaco do código CN 2401."
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "b42463f17302d328": {
+   "fragment_id": "Regime de prémio",
+   "type": "divisao",
+   "heading": "Regime de prémio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regime de prémio"
+  },
+  "7aa023ce658abb1b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. É instituído um regime de prémios aplicável a partir da colheita de 1999, cujo montante é fixado para todas as variedades de tabaco pertencentes a cada um dos diferentes grupos.\n\n2. Todavia, para os tabacos «flue-cured», «light air-cured» e «dark air-cured» produzidos na Bélgica, na Alemanha, em França e na Áustria, é concedido um montante suplementar. Este montante será igual a 65 % da diferença entre o prémio aplicável à colheita de 1998 e o prémio aplicável à colheita de 1992 para esses grupos de tabaco..\n\n3. Este prémio destina-se a contribuir para o rendimento do produtor no âmbito de uma produção adequada às necessidades do mercado e a permitir o escoamento do tabaco produzido na Comunidade."
+  },
+  "f4c4d9c662a95dc9": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O Conselho, de acordo com o procedimento previsto no n.º 2 do artigo 43.º do Tratado, fixará por colheita, o montante do prémio e dos montantes suplementares para a colheita do ano civil em curso, tendo em conta, nomeadamente, as possibilidades de escoamento passadas e previsíveis, para os diferentes tipos de tabaco, em condições normais de concorrência, no mercado comunitário e no mercado mundial.\n\n2. O montante do prémio será fixado:\n\na) Por quilograma de tabaco em folha que não tenha sofrido as operações de primeira transformação e acondicionamento;\n\nb) Para cada um dos grupos de tabaco em rama."
+  },
+  "892837772d64a9e0": {
+   "fragment_id": "Artigo 4.ºA",
+   "type": "artigo",
+   "heading": "Artigo 4.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.ºA\n\n1. O prémio compreende uma parte fixa, uma parte variável e uma ajuda específica.\n\n2. A parte variável do prémio representará 30 % a 45 % do total do prémio. A instauração da parte variável será realizada de forma progressiva até à colheita de 2001. Dentro daquele intervalo, a parte variável pode ser adaptada por grupo de variedades e por Estado-membro.\n\n3. A parte fixa do prémio será paga, por um lado, ao agrupamento de produtores, que a redistribuirá a cada membro do agrupamento, e, por outro, a cada produtor individual não membro de um agrupamento.\n\n4. A parte variável do prémio será paga ao agrupamento de produtores, que a distribuirá a cada membro do agrupamento em função do preço de compra pago pela empresa de primeira tranformação para aquisição da sua produção individual.\n\n5. Será concedida ao agrupamento de produtores uma ajuda específica, que não poderá ser superior a 2 % do total do prémio."
+  },
+  "20853f75ff89dc7a": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA concessão do prémio fica sujeita, nomeadamente, às seguintes condições:\n\na) O tabaco deve ser proveniente de uma zona de produção determinada para cada variedade;\n\nb) Devem ser respeitadas exigências qualitativas;\n\nc) O fornecimento do tabaco em folha pelo produtor à empresa de primeira transformação deve ser feito com base num contrato de cultura."
+  },
+  "7806332e04190a9a": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O contrato de cultura é celebrado entre uma empresa de primeira transformação de tabaco, por um lado, e um agrupamento de produtores ou um produtor individual não membro de um agrupamento, por outro.\n\n2. Para efeitos do presente regulamento, entende-se por:\n\n— «produtores»: os produtores individuais não membros de um agrupamento, os produtores individuais membros de um agrupamento e os agrupamentos de produtores que entregam a respectiva produção de tabaco em rama a uma empresa de primeira transformação no âmbito de um contrato de cultura,\n\n— «empresa de primeira transformação»: qualquer pessoa singular ou colectiva aprovada, que realiza a primeira tranformação do tabaco e explora, em nome próprio e por conta própria, um ou mais estabelecimentos de primeira transformação de tabaco em rama dotados de instalações e equipamentos adequados a esse fim,\n\n— «primeira transformação de tabaco»: a transformação de tabaco em rama, entregue por um produtor, num produto estável, armazenado e acondicionado em fardos ou em pacotes homogéneos de qualidade correspondente às exigências dos utilizadores finais (manufacturas).\n\n3. Devem constar do contrato de cultura, pelo menos:\n\n— o compromisso da empresa de primeira transformação de pagar ao produtor o preço de compra por grau qualitativo,\n\n— o compromisso do produtor de fornecer à empresa de transformação tabaco em rama que corresponda às exigências qualitativas previstas no contrato.\n\n4. O organismo competente do Estado-membro pagará, mediante a apresentação da prova de entrega do tabaco e do pagamento do montante referido no primeiro travessão do n.º 3:\n\n— o montante da parte fixa do prémio ao agrupamento de produtores ou aos produtores individuais não membros de agrupamentos,\n\n— o montante da parte variável do prémio e a ajuda específica ao agrupamento de produtores.\n\nTodavia, durante um período não superior a duas colheitas, o prémio poderá, a título transitório, ser pago por intermédio da empresa de primeira transformação.\n\n5. Se as suas estruturas o justificarem, o Estado-Membro poderá aplicar, aos grupos de produtores que queiram participar nessas estruturas, um sistema de leilão aos contratos de cultura, de um grupo de variedades a que se refere o n.º 1, celebrados antes da data de início da entrega do tabaco."
+  },
+  "19ce68bbd557003c": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs normas de execução do presente título serão adoptadas nos termos do artigo 23.º\n\nEssas normas incluirão, nomeadamente:\n\n— a delimitação das zonas de produção para cada variedade,\n\n— as exigências qualitativas do tabaco entregue,\n\n— os elementos adicionais do contrato de cultura e a data-limite para a sua celebração,\n\n— a eventual exigência da constituição, pelo produtor, de garantia em caso de pedido de adiantamento, assim como as condições em que deve ser constituída e liberada essa garantia,\n\n— a determinação da parte variável do prémio,\n\n— as condições específicas de concessão do prémio quando o contrato de cultura tiver sido celebrado com um agrupamento de produtores,\n\n— as medidas a tomar em caso de incumprimento, pelo produtor ou pela empresa de primeira transformação, das respectivas obrigações regulamentares,\n\n— a instituição do sistema de leilão aplicável aos contratos de cultura, incluindo a possibilidade de o primeiro comprador cobrir as eventuais ofertas."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "9baa7814ec3e6cb7": {
+   "fragment_id": "Regime de controlo da produção",
+   "type": "divisao",
+   "heading": "Regime de controlo da produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regime de controlo da produção"
+  },
+  "0bcc468116016099": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nÉ fixado um limiar de garantia global máximo para a Comunidade de 402 953 toneladas de tabaco em folha por colheita.\n\nDentro desse limiar, o conselho fixará em relação a três colheitas consecutivas, nos termos do n.º 2 do artigo 43.º do Tratado, limiares de garantia específicos para cada grupo de variedades."
+  },
+  "17e8ea0d063eff40": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Para garantir a observância dos limiares de garantia, estabelecer-se-á um regime de quotas de produção.\n\n2. Nos termos do n.º 2 do artigo 43.º do Tratado, o Conselho procederá à repartição, relativamente a três colheitas consecutivas, das quantidades disponíveis em relação a cada grupo de variedades pelos Estados-membros produtores.\n\n3. Com base nas quantidades fixadas nos termos do disposto no n.º 2 e sem prejuízo da aplicação dos n.^os^ 4 e 5, os Estados-membros distribuirão as quaotas de produção pelos produtores individuais não membros de um agrupamento e pelos agrupamentos de produtores, proporcionalmente à média das quantidades entregues por cada produtor individual para transformação durante os três anos anteriores ao ano da última colheita, repartidas por grupo de variedades.\n\n4. [**►M8**](http://publications.europa.eu/resource/celex/32000R1336) Antes do prazo previsto para a celebração dos contratos de cultura, os Estados-Membros podem ser autorizados a transferir quantidades de limiar de garantia de um grupo de variedades para outro grupo de variedades.**◄**\n\nSem prejuízo da aplicação do terceiro parágrafo, uma redução de uma tonelada da quantidade de limiar fixada em relação a um grupo de variedades dá origem a um aumento de uma tonelada, no máximo, do outro grupo de variedades.\n\nA transferência das quantidades de limiar de garantia de um grupo de variedades para outro não pode dar origem a uma despesa suplementar, a cargo do FEOGA.\n\nA definição das quantidades referidas no primeiro parágrafo será adoptada nos termos do artigo 23.º\n\n5. Os Estados-Membros produtores podem criar uma reserva nacional de quotas, cujas regras de funcionamento são aprovadas nos termos do artigo 23.º"
+  },
+  "bc31fa60be1a872d": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Não pode ser concedido qualquer prémio em relação a quantidades superiores à quota do produtor.\n\n2. Em derrogação do disposto no n.º 1, um produtor pode entregar, em relação a cada grupo de variedades, a sua produção excedentária até ao limite máximo de 10 % da sua quota, sendo esse excedente elegível para efeitos do prémio concedido à colheita seguinte, desde que, durante a mesma, o interessado proceda a uma redução correspondente da sua produção, a fim de que sejam respeitadas as quotas cumuladas para as duas colheitas em questão.\n\n3. Os Estados-membros devem dispor dos dados exactos relativos à produção de todos os produtores individuais, para que, se necessário, lhes possam ser atribuídas as quotas de produção.\n\n4. Em cada um dos Estados-membros produtores, as quotas de produção podem ser cedidas entre produtores individuais."
+  },
+  "749e5442669cb1db": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs normas de execução do presente título serão adoptadas nos termos do artigo 23.º"
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "49951d4a2eb706e0": {
+   "fragment_id": "Medidas de orientação da produção",
+   "type": "divisao",
+   "heading": "Medidas de orientação da produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medidas de orientação da produção"
+  },
+  "207ba2a3c75a61ea": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. É criado um fundo comunitário do Tabaco, a seguir designado «fundo», financiado por uma retenção igual a:\n\n— 2 % do prémio para a colheita de 2002,\n\n— 3 % do prémio para as colheitas de 2003 e 2004.\n\n2. O Fundo financia acções nos seguintes domínios:\n\na) Incremento dos conhecimentos do público quanto aos efeitos nocivos do consumo de tabaco sob todas as suas formas, designadamente através da informação e da comunicação, apoio à recolha de dados com vista a determinar as tendências do consumo de tabaco e a elaborar estudos epidemiológicos relativos ao tabagismo à escala da Comunidade, estudo sobre a prevenção do tabagismo;\n\nb) medidas específicas de apoio à reconversão dos produtores de tabaco em rama para outras culturas ou outras actividades económicas criadoras de emprego, bem como estudos sobre as possibilidades de reconversão dos produtores de tabaco em rama para outras culturas ou actividades."
+  },
+  "e140f3f06e66e389": {
+   "fragment_id": "Artigo 14.ºA",
+   "type": "artigo",
+   "heading": "Artigo 14.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.ºA\n\nAs normas de execução do artigo 13.º serão adoptadas nos termos do artigo 23.º"
+  },
+  "e83f982437e498dd": {
+   "fragment_id": "Título IV",
+   "type": "divisao",
+   "heading": "Título IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV"
+  },
+  "86df03604f2fa6dc": {
+   "fragment_id": "Regime comercial com países terceiros",
+   "type": "divisao",
+   "heading": "Regime comercial com países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regime comercial com países terceiros"
+  },
+  "0e968c2a6fe33d79": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nSalvo disposições em contrário do presente regulamento, as taxas dos direitos da Pauta Aduaneira Comum são aplicáveis aos produtos referidos no artigo 1.º"
+  },
+  "7e9e9c0903b31dc9": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Aplicam-se à classificação dos produtos abrangidos pelo presente regulamento as regras gerais para a interpretação da Nomenclatura Combinada e as regras especiais para a sua aplicação.\n\n2. Salvo disposições em contrário do presente regulamento ou adoptadas por força de uma disposição deste, são proibidas nas trocas comerciais com países terceiros:\n\na) A cobrança de qualquer imposição de efeito equivalente a um direito aduaneiro;\n\nb) A aplicação de qualquer restrição quantitativa ou medida de efeito equivalente."
+  },
+  "0d10fe4b6d06aab3": {
+   "fragment_id": "Artigo 16.ºA",
+   "type": "artigo",
+   "heading": "Artigo 16.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.ºA\n\n1. Se, devido às importações ou às exportações, o mercado comunitário de um ou vários produtos referidos no artigo 1.º sofrer, ou correr o risco de sofrer, perturbações graves que possam pôr em perigo os objectivos do artigo 39.º do Tratado, podem ser aplicadas medidas adequadas às trocas comerciais com países terceiros até que desapareça a perturbação ou o risco de perturbação.\n\nO Conselho, deliberando sob proposta da Comissão de acordo com o processo de votação previsto no n.º 2 do artigo 43.º do Tratado, adoptará as regras gerais de execução do presente número e definirá os casos e limites em que os Estados-membros podem tomar medidas cautelares.\n\n2. Se se verificar a situação referida no n.º 1, a Comissão, a pedido de um Estado-membro ou por sua própria iniciativa, determinará as medidas necessárias, que serão comunicadas aos Estados-membros e imediatamente aplicáveis. Se a Comissão receber um pedido de um Estado-membro, tomará uma decisão no prazo de três dias úteis seguintes à sua recepção.\n\n3. Qualquer Estado-membro pode submeter à apreciação do Conselho a medida tomada pela Comissão, no prazo de três dias úteis a contar da data da sua comunicação. O Conselho reunir-se-á imediatamente e, deliberando por maioria qualificada, pode alterar ou anular a medida em causa.\n\n4. O disposto no presente artigo será aplicado no respeito das obrigações decorrentes dos acordos celebrados em conformidade com o n.º 2 do artigo 228.º do Tratado."
+  },
+  "4f8efffddfe96470": {
+   "fragment_id": "TÍTULO V",
+   "type": "divisao",
+   "heading": "TÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V"
+  },
+  "f409d507541a67d5": {
+   "fragment_id": "Medidas de controlo",
+   "type": "divisao",
+   "heading": "Medidas de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medidas de controlo"
+  },
+  "9005978d41d21cd0": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. Os Estados-Membros tomarão todas as medidas necessárias para controlar e garantir o cumprimento das disposições comunitárias no sector do tabaco em rama.\n\n2. As normas de execução do presente título serão adoptadas nos termos do artigo 23.º"
+  },
+  "fd1f6efdb97a73cb": {
+   "fragment_id": "TÍTULO VI",
+   "type": "divisao",
+   "heading": "TÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI"
+  },
+  "49d52d66bf8782af": {
+   "fragment_id": "Disposições gerais e transitórias",
+   "type": "divisao",
+   "heading": "Disposições gerais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais e transitórias"
+  },
+  "993645cf39c3de98": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nSem prejuízo de disposições contrárias do presente regulamento, os artigos 92.º, 93.º e 94.º do Tratado são aplicáveis à produção e ao comércio dos produtos referidos no artigo 1.º"
+  },
+  "a4baa536a0c32156": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nA fim de fazer face a circunstâncias imprevistas no mercado, podem ser tomadas medidas excepcionais de apoio a este, nos termos do artigo 23.º Estas medidas só podem ser tomadas se e enquanto forem estritamente necessárias para apoiar o mercado."
+  },
+  "4f910f9e796b0da9": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nOs Estados-membros e a Comissão comunicarão entre si os dados necessários à aplicação do presente regulamento. As modalidades de comunicação e difusão destes dados serão adoptados de acordo com o processo previsto no artigo 23.º"
+  },
+  "b902cd335d2bb379": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nÉ instituído um Comité de gestão de tabaco, a seguir denominado «comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão."
+  },
+  "fde53494894c4c2d": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. A Comissão é assistida pelo Comité de Gestão do Tabaco.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE ([^6^](http://publications.europa.eu/resource/cellar/18b707d2-be91-4de4-a34c-188a0049b0a1.0016.03/DOC_1#E0006)).\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "124e6f26c9ed6f38": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nO comité pode examinar qualquer outra questão apresentada pelo seu presidente, seja por sua própria iniciativa, seja a pedido do representante do Estado-membro."
+  },
+  "81dd32454cc984f9": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nÉ revogado, com efeitos a partir da colheita de 1993, o Regulamento (CEE) n.º 727/70."
+  },
+  "bb2bf1f73ab5965c": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nO presente regulamento é aplicável a partir da colheita de 1993.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "8bffed6dde7335af": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/18b707d2-be91-4de4-a34c-188a0049b0a1.0016.03/DOC_1#src.E0001)) JO n.º C 295 de 14. 11. 1991, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/18b707d2-be91-4de4-a34c-188a0049b0a1.0016.03/DOC_1#src.E0002)) JO n.º C 94 de 13. 4. 1992.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/18b707d2-be91-4de4-a34c-188a0049b0a1.0016.03/DOC_1#src.E0003)) JO n.º C 98 de 21. 4. 1992, p. 18.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/18b707d2-be91-4de4-a34c-188a0049b0a1.0016.03/DOC_1#src.E0004)) JO n.º L 94 de 28. 4. 1970, p. 13. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 2048/88 (JO n.º L 185 de 15. 7. 1988, p. 1.).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/18b707d2-be91-4de4-a34c-188a0049b0a1.0016.03/DOC_1#src.E0005)) JO n.º L 94 de 28. 4. 1970, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 860/92 (JO n.º L 91 de 7. 4. 1992, p. 1).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/18b707d2-be91-4de4-a34c-188a0049b0a1.0016.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "60933ec949766a1e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Junho de 1992\n\nque estabelece a organização comum de mercado no sector do tabaco em rama\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 42.º e 43.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/8044d9b0-55ea-4be7-bfa4-1abfc4d24e41.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/8044d9b0-55ea-4be7-bfa4-1abfc4d24e41.0017.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/8044d9b0-55ea-4be7-bfa4-1abfc4d24e41.0017.03/DOC_1#E0003)),\n\nConsiderando que o funcionamento e o desenvolvimento do mercado comum para os produtos agrícolas devem ser acompanhados pelo estabelecimento de uma política agrícola comum, e que esta deve, nomeadamente, incluir uma organização comum de mercado que pode tomar diversas formas conforme os produtos;\n\nConsiderando que, nomeadamente no sector do tabaco em rama, a política agrícola comum se destina a permitir alcançar os objectivos do artigo 39.º do Tratado, designadamente a estabilização dos mercados e a garantia de um nível de vida equitativo à população agrícola interessada; que estes objectivos podem ser alcançados através de uma adaptação dos recursos às necessidades, baseada nomeadamente numa política de qualidade;\n\nConsiderando que a situação actual no mercado do tabaco, caracterizada por uma inadequação da oferta à procura, exige uma alteração substancial do regime comunitário que tem regido este mercado, sem deixar de manter a cultura do tabaco pelos produtores tradicionais; que esta alteração se destina a simplificar os mecanismos de gestão do mercado, a garantir um controlo da produção que satisfaça simultaneamente as necessidades do mercado e os imperativos orçamentais e a reforçar os meios de controlo de forma a garantir que os mecanismos de gestão permitam alcançar plenamente os objectivos da organização comum de mercado;\n\nConsiderando que as diferentes variedades de tabaco podem ser classificadas em grupos em função da semelhança das técnicas de cultura e dos custos de produção e respeitando as designações utilizadas nas trocas comerciais internacionais;\n\nConsiderando que, a situação concorrencial que se verifica no mercado do tabaco exige a concessão de um apoio aos plantadores tradicionais de tabaco e que é conveniente que este apoio se baseie num regime de prémios que permita o escoamento do tabaco na Comunidade;\n\nConsiderando que a existência de contratos de cultura entre o produtor e a empresa de primeira transformação permite garantir uma gestão eficaz do regime de prémios, assegurando simultaneamente um escoamento estável da produção e um abastecimento regular das empresas de transformação; que o pagamento, pela empresa de transformação ao produtor, de um montante igual ao prémio, aquando do acto de entrega do tabaco que foi objecto de um contrato e que está conforme às exigências qualitativas, irá contribuir para o apoio aos produtores e facilitar a gestão do regime de prémios;\n\nConsiderando que, no intuito de limitar a produção comunitária de tabaco e de desincentivar a produção de variedades de difícil escoamento, convém determinar um limiar de garantia global máximo para a Comunidade e reparti-lo anualmente em limiares de garantia específicos para cada grupo de variedades;\n\nConsiderando que, para garantir a observância dos limiares de garantia, é necessário estabelecer, por um período limitado, um regime de quotas de transformação; que cabe aos Estados-membros distribuir, a título transitório e dentro dos limiares de garantia fixados, as quotas de transformação pelas empresas interessadas, de acordo com regras comunitárias, estabelecidas para o efeito, destinadas a garantir uma repartição equitativa, com base nas quantidades transformadas no passado, não sendo, todavia, levadas em consideração as produções anormais registadas; que serão tomadas as medidas necessárias a fim de permitir posteriormente a distribuição das quotas aos produtores, em condições satisfatórias; que os Estados-membros que disponham dos dados necessários podem atribuir as quotas aos produtores com base nos resultados obtidos no passado;\n\nConsiderando que é indispensável que as empresas de primeira transformação não celebrem contratos de cultura que excedem as quotas atribuídas; que, portanto, a quantidade correspondente à quota deve constituir o limite máximo para o reembolso do montante do prémio;\n\nConsiderando que é conveniente limitar os regimes de prémios e de controlo da produção, numa primeira fase, até 1997, a fim de permitir o reexame destes regimes à luz da experência adquirida, com vista à sua eventual adaptação para o futuro;\n\nConsiderando que as medidas de orientação da produção podem contribuir para um saneamento do mercado do tabaco e para a melhoria qualitativa da produção; que, em especial, uma ajuda específica irá permitir que os agrupamentos de produtores possam contribuir para uma melhoria da organização e da orientação da produção; que, além disso, um programa de investigação financiado através de uma diminuição do prémio irá permitir uma melhor orientação da produção de tabaco no sentido de satisfazer os requisitos comunitários no domínio da saúde pública; que, finalmente, é necessário um programa de reconversão destinado aos produtores das variedades *Mavra, Tsebelia, Forchheimer Havanna IIc* e híbridos de *Geudertheimer*, dada a importância da cultura destas variedades para a economia de certas regiões da Comunidade;\n\nConsiderando que a realização de um mercado único implica o estabelecimento de um regime único de trocas comerciais aplicável nas fronteiras externas;\n\nConsiderando que é possível renunciar às restrições quantitativas nas fronteiras externas da Comunidade; que, todavia, convém permitir que a Comunidade possa tomar rapidamente todas as medidas necessárias para não deixar, em situações excepcionais, o mercado comunitário sem defesa contra as perturbações que daí possam resultar;\n\nConsiderando que as circunstâncias imprevistas do mercado podem tornar necessária a tomada de medidas excepcionais de apoio ao mercado, a decidir pela Comissão;\n\nConsiderando que a realização do mercado único seria comprometida pela concessão de certas ajudas; que, em consequência, convém que as disposições do Tratado que permitem apreciar os auxílios concedidos pelos Estados-membros e proibir aqueles que são incompatíveis com o mercado comum sejam aplicáveis no sector do tabaco;\n\nConsiderando que é necessário prever a responsabilidade financeira da Comunidade em relação às despesas efectuadas pelos Estados-membros em consequência das obrigações resultantes da aplicação do presente regulamento, nos termos do Regulamento (CEE) n.º 729/70 do Conselho, de 21 de Abril de 1970, relativo ao financiamento da política agrícola comum ([^4^](http://publications.europa.eu/resource/cellar/8044d9b0-55ea-4be7-bfa4-1abfc4d24e41.0017.03/DOC_1#E0004));\n\nConsiderando que a experiência adquirida revelou ser indispensável um reforço do controlo no sector do tabaco, e que, eventualmente, certos poderes de controlo poderiam ser atribuídos a uma agência de controlo autónoma, para fazer face às exigências específicas deste mercado;\n\nConsiderando que a organização comum de mercado no sector do tabaco deve ter em conta, paralelamente e de maneira adequada, os objectivos previstos nos artigos 39.º e 110.º do Tratado;\n\nConsiderando que a transição do regime instituído pelo Regulamento (CEE) n.º 727/70 do Conselho, de 21 de Abril de 1970, que estabelece uma organização comum de mercado no sector do tabaco em rama ([^5^](http://publications.europa.eu/resource/cellar/8044d9b0-55ea-4be7-bfa4-1abfc4d24e41.0017.03/DOC_1#E0005)), para o regime previsto no presente regulamento, deve efectuar-se nas melhores condições; que, para tal, podem revelar-se necessárias medidas transitórias; que, além disso, convém que o novo regime só seja aplicável a partir da colheita de 1993,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ad242775734893c6": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. É criado um fundo comunitário do Tabaco, a seguir designado «fundo», financiado por uma retenção igual a:\n\n— 2 % do prémio para a colheita de 2002,\n\n— 3 % do prémio para as colheitas de 2003 e 2004,\n\n— 3 % do prémio para a colheita de 2005.\n\n2. O Fundo financia acções nos seguintes domínios:\n\na) Incremento dos conhecimentos do público quanto aos efeitos nocivos do consumo de tabaco sob todas as suas formas, designadamente através da informação e da comunicação, apoio à recolha de dados com vista a determinar as tendências do consumo de tabaco e a elaborar estudos epidemiológicos relativos ao tabagismo à escala da Comunidade, estudo sobre a prevenção do tabagismo;\n\nb) medidas específicas de apoio à reconversão dos produtores de tabaco em rama para outras culturas ou outras actividades económicas criadoras de emprego, bem como estudos sobre as possibilidades de reconversão dos produtores de tabaco em rama para outras culturas ou actividades."
+  },
+  "111d49ade82f19fe": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. A Comissão é assistida pelo Comité de Gestão do Tabaco.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE ([^6^](http://publications.europa.eu/resource/cellar/8044d9b0-55ea-4be7-bfa4-1abfc4d24e41.0017.03/DOC_1#E0006)).\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "61043bd52ed840bf": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8044d9b0-55ea-4be7-bfa4-1abfc4d24e41.0017.03/DOC_1#src.E0001)) JO n.º C 295 de 14. 11. 1991, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8044d9b0-55ea-4be7-bfa4-1abfc4d24e41.0017.03/DOC_1#src.E0002)) JO n.º C 94 de 13. 4. 1992.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/8044d9b0-55ea-4be7-bfa4-1abfc4d24e41.0017.03/DOC_1#src.E0003)) JO n.º C 98 de 21. 4. 1992, p. 18.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/8044d9b0-55ea-4be7-bfa4-1abfc4d24e41.0017.03/DOC_1#src.E0004)) JO n.º L 94 de 28. 4. 1970, p. 13. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 2048/88 (JO n.º L 185 de 15. 7. 1988, p. 1.).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/8044d9b0-55ea-4be7-bfa4-1abfc4d24e41.0017.03/DOC_1#src.E0005)) JO n.º L 94 de 28. 4. 1970, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 860/92 (JO n.º L 91 de 7. 4. 1992, p. 1).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/8044d9b0-55ea-4be7-bfa4-1abfc4d24e41.0017.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "c6a4d78f7d135011": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992R2075 — PT — 01.07.2008 — 015.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992R2075) [REGULAMENTO (CEE) N.º 2075/92 DO CONSELHO](http://publications.europa.eu/resource/celex/31992R2075) [de 30 de Junho de 1992](http://publications.europa.eu/resource/celex/31992R2075) [que estabelece a organização comum de mercado no sector do tabaco em rama](http://publications.europa.eu/resource/celex/31992R2075) (JO L 215, 30.7.1992, p.70)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1234/2007 Do Conselho de 22 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1234) — L 299 — 1 — 16.11.2007"
+  }
+ }
+}

@@ -35,6 +35,32 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: regulamento-ue-1972-922.versoes.json
+  count: 3
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '1972-05-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-04-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1o
+    - Altera Artigo 5o
+  - date: '2014-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
 identifiers:
   celex: 31972R0922
   eli: http://data.europa.eu/eli/reg/1972/922/oj
@@ -49,7 +75,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5c623d62-3f88-4079-be98-fd2bd1212be9.0011
   content_url: http://publications.europa.eu/resource/cellar/502633fa-03ba-4efe-a067-efca76067d4f.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01972R0922-20140101
-  retrieved_at: '2026-10-22T02:49:41Z'
+  retrieved_at: '2026-10-22T14:30:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T11:17:29.189+01:00'
 integrity:
@@ -58,9 +84,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:41Z'
-  notes: Texto consolidado 01972R0922-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:30:26Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1972-922.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -108,16 +134,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:41Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:30:26Z'
+  warnings: []
   errors: []
 ---
 

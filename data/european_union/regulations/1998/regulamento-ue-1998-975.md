@@ -34,6 +34,61 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-07-22'
+version_history:
+  file: regulamento-ue-1998-975.versoes.json
+  count: 4
+  source_lastmod: '2014-07-22'
+  versions:
+  - date: '1998-05-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+  - date: '2012-07-19'
+    amending: eu:celex:31999R0423:por
+    amending_title: REGULAMENTO (CE) N. o 423/1999 DO CONSELHO de 22 de Fevereiro de 1999; REGULAMENTO (UE) N. o 566/2012
+      DO CONSELHO de 18 de junho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Adita Artigo 1.º-A
+    - Adita Artigo 1.º-B
+    - Adita Artigo 1.º-C
+    - Adita Artigo 1.º-D
+    - Adita Artigo 1.º-E
+    - Adita Artigo 1.º-F
+    - Adita Artigo 1.º-G
+    - Adita Artigo 1.º-H
+    - Adita Artigo 1.º-I
+    - Adita Artigo 1.º-J
+    - Adita Notas
+  - date: '2014-07-22'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 1.º-A
+    - Suprime Artigo 1.º-B
+    - Suprime Artigo 1.º-C
+    - Suprime Artigo 1.º-D
+    - Suprime Artigo 1.º-E
+    - Suprime Artigo 1.º-F
+    - Suprime Artigo 1.º-G
+    - Suprime Artigo 1.º-H
+    - Suprime Artigo 1.º-I
+    - Suprime Artigo 1.º-J
+    - Suprime Artigo 2.º
+    - Suprime Notas
 identifiers:
   celex: 31998R0975
   eli: http://data.europa.eu/eli/reg/1998/975/oj
@@ -48,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/de220faa-510d-49a2-95d1-1cd0f3df75a2.0011
   content_url: http://publications.europa.eu/resource/cellar/1348e0ab-bba5-4acb-af06-9a74461f3909.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998R0975-20140722
-  retrieved_at: '2026-10-22T02:44:48Z'
+  retrieved_at: '2026-10-22T14:47:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T14:45:28.585+01:00'
 integrity:
@@ -57,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:48Z'
-  notes: Texto consolidado 01998R0975-20140722.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:16Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-1998-975.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -143,16 +198,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:48Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:47:16Z'
+  warnings: []
   errors: []
 ---
 

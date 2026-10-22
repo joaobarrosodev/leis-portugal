@@ -36,6 +36,198 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-21'
+version_history:
+  file: diretiva-ue-2003-71.versoes.json
+  count: 8
+  source_lastmod: '2019-07-21'
+  versions:
+  - date: '2003-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-03-20'
+    amending: eu:celex:32008L0011:por
+    amending_title: DIRECTIVA 2008/11/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 11 de
+      Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Dispensa da obrigação de publicar um prospecto
+    - Altera Artigo 7.º — Informações mínimas
+    - Altera Artigo 8.º — Omissão de informação
+    - Altera Artigo 10.º — Informação
+    - Altera Artigo 11.º — Inserção mediante remissão
+    - Altera Artigo 14.º — Publicação do prospecto
+    - Altera Artigo 15.º — Publicidade
+    - Altera Artigo 20.º — Emitentes constituídos em países terceiros
+    - Altera Artigo 33.º — Destinatários
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita Artigo 1.º — Objectivo e âmbito de aplicação
+    - Adita CAPÍTULO II
+    - Adita ELABORAÇÃO DO PROSPECTO
+    - Adita Artigo 5.º — O prospecto
+    - Adita CAPÍTULO III
+    - Adita MECANISMOS DE APROVAÇÃO E MODALIDADES DE PUBLICAÇÃO DO PROSPECTO
+    - Adita Artigo 13.º — Aprovação do prospecto
+    - Adita CAPÍTULO IV
+    - Adita OFERTAS TRANSFRONTEIRIÇAS E ADMISSÃO À NEGOCIAÇÃO
+    - Adita Artigo 17.º — Âmbito comunitário da aprovação de prospectos
+    - Adita CAPÍTULO V
+    - Adita REGIME LINGUÍSTICO E EMITENTES CONSTITUÍDOS EM PAÍSES TERCEIROS
+    - Adita Artigo 19.º — Regime linguístico
+    - Adita CAPÍTULO VI
+    - Adita AUTORIDADES COMPETENTES
+    - Adita Artigo 21.º — Poderes
+    - Adita CAPÍTULO VII
+    - Adita MEDIDAS DE EXECUÇÃO
+    - Adita Artigo 24.º — Processo do comité
+    - Adita CAPÍTULO VIII
+    - Adita DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+    - Adita Artigo 27.º — Alterações
+    - Adita ANEXO I
+    - Adita PROSPECTO
+    - Adita I. Sumário
+    - Adita II. Identidade dos membros dos órgãos de administração, quadros superiores, consultores e auditores
+    - Adita III. Dados quantitativos e calendário previsto para a oferta
+  - date: '2011-01-04'
+    amending: eu:celex:32010L0073:por
+    amending_title: DIRECTIVA 2010/73/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 24 de
+      Novembro de 2010; DIRECTIVA 2010/78/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 24
+      de Novembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivo e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Obrigação de publicação de um prospecto
+    - Altera Artigo 4.º — Dispensa da obrigação de publicar um prospecto
+    - Altera Artigo 5.º — O prospecto
+    - Altera Artigo 6.º — Responsabilidade inerente ao prospecto
+    - Altera Artigo 7.º — Informações mínimas
+    - Altera Artigo 8.º — Omissão de informação
+    - Altera Artigo 9.º — Validade do prospecto, prospecto de base e documento de registo
+    - Altera Artigo 11.º — Inserção mediante remissão
+    - Altera Artigo 12.º — Prospecto composto por documentos separados
+    - Altera Artigo 13.º — Aprovação do prospecto
+    - Altera Artigo 14.º — Publicação do prospecto
+    - Altera Artigo 15.º — Publicidade
+    - Altera Artigo 16.º — Adenda ao prospecto
+    - Altera Artigo 17.º — Âmbito comunitário da aprovação de prospectos
+    - Altera Artigo 18.º — Notificação
+    - Altera Artigo 19.º — Regime linguístico
+    - Altera Artigo 20.º — Emitentes constituídos em países terceiros
+    - Altera Artigo 21.º — Poderes
+    - Altera Artigo 22.º — Sigilo profissional e cooperação entre as autoridades
+    - Altera Artigo 23.º — Medidas cautelares
+    - Altera I. Sumário
+    - Altera III. Dados quantitativos e calendário previsto para a oferta
+    - Altera II. Dados quantitativos e calendário previsto para a oferta
+    - Altera SUMÁRIO
+    - Altera Notas
+    - Adita Artigo 24.ºA — Exercício da delegação
+    - Adita Artigo 24.ºB — Revogação da delegação
+    - Adita Artigo 24.ºC — Objecções aos actos delegados
+    - Adita IV. [►M2](http://publications.europa.eu/resource/celex/32010L0073) Informações essenciais◄
+    - Adita II. [►M2](http://publications.europa.eu/resource/celex/32010L0073) Informações essenciais◄ sobre o emitente
+    - Adita III. [►M2](http://publications.europa.eu/resource/celex/32010L0073) Informações essenciais◄ sobre o emitente
+    - Suprime Artigo 10.º — Informação
+    - Suprime IV. Informações fundamentais
+    - Suprime II. Informações fundamentais sobre o emitente
+    - Suprime III. Informações fundamentais sobre o emitente
+  - date: '2013-11-26'
+    amending: eu:celex:32013L0050:por
+    amending_title: DIRETIVA 2013/50/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 22 de outubro
+      de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivo e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Dispensa da obrigação de publicar um prospecto
+    - Altera Artigo 5.º — O prospecto
+    - Altera Artigo 22.º — Sigilo profissional e cooperação entre as autoridades
+    - Altera Notas
+  - date: '2014-05-23'
+    amending: eu:celex:32014L0051:por
+    amending_title: Diretiva 2014/51/UE do Parlamento Europeu e do Conselho de 16 de abril de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivo e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Dispensa da obrigação de publicar um prospecto
+    - Altera Artigo 5.º — O prospecto
+    - Altera Artigo 11.º — Inserção mediante remissão
+    - Altera Artigo 13.º — Aprovação do prospecto
+    - Altera Artigo 14.º — Publicação do prospecto
+    - Altera Artigo 15.º — Publicidade
+    - Altera Artigo 22.º — Sigilo profissional e cooperação entre as autoridades
+    - Altera Notas
+    - Adita Artigo 31.º-A — Pessoal e recursos da ESMA
+  - date: '2017-07-20'
+    amending: eu:celex:32017R1129:por
+    amending_title: REGULAMENTO (UE) 2017/1129 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de junho de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivo e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Dispensa da obrigação de publicar um prospecto
+    - Altera Artigo 5.º — O prospecto
+    - Altera Artigo 22.º — Sigilo profissional e cooperação entre as autoridades
+    - Altera Notas
+  - date: '2018-07-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objectivo e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Obrigação de publicação de um prospecto
+    - Altera Artigo 4.º — Dispensa da obrigação de publicar um prospecto
+    - Altera Artigo 5.º — O prospecto
+    - Altera Artigo 22.º — Sigilo profissional e cooperação entre as autoridades
+    - Altera Notas
+  - date: '2019-07-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objectivo e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Obrigação de publicação de um prospecto
+    - Suprime Artigo 4.º — Dispensa da obrigação de publicar um prospecto
+    - Suprime CAPÍTULO II
+    - Suprime ELABORAÇÃO DO PROSPECTO
+    - Suprime Artigo 5.º — O prospecto
+    - Suprime Artigo 6.º — Responsabilidade inerente ao prospecto
+    - Suprime Artigo 7.º — Informações mínimas
+    - Suprime Artigo 8.º — Omissão de informação
+    - Suprime Artigo 9.º — Validade do prospecto, prospecto de base e documento de registo
+    - Suprime Artigo 11.º — Inserção mediante remissão
+    - Suprime Artigo 12.º — Prospecto composto por documentos separados
+    - Suprime CAPÍTULO III
+    - Suprime MECANISMOS DE APROVAÇÃO E MODALIDADES DE PUBLICAÇÃO DO PROSPECTO
+    - Suprime Artigo 13.º — Aprovação do prospecto
+    - Suprime Artigo 14.º — Publicação do prospecto
+    - Suprime Artigo 15.º — Publicidade
+    - Suprime Artigo 16.º — Adenda ao prospecto
+    - Suprime CAPÍTULO IV
+    - Suprime OFERTAS TRANSFRONTEIRIÇAS E ADMISSÃO À NEGOCIAÇÃO
+    - Suprime Artigo 17.º — Âmbito comunitário da aprovação de prospectos
+    - Suprime Artigo 18.º — Notificação
+    - Suprime CAPÍTULO V
+    - Suprime REGIME LINGUÍSTICO E EMITENTES CONSTITUÍDOS EM PAÍSES TERCEIROS
+    - Suprime Artigo 19.º — Regime linguístico
+    - Suprime Artigo 20.º — Emitentes constituídos em países terceiros
+    - Suprime CAPÍTULO VI
+    - Suprime AUTORIDADES COMPETENTES
+    - Suprime Artigo 21.º — Poderes
+    - Suprime Artigo 22.º — Sigilo profissional e cooperação entre as autoridades
+    - Suprime Artigo 23.º — Medidas cautelares
+    - Suprime CAPÍTULO VII
+    - Suprime MEDIDAS DE EXECUÇÃO
+    - Suprime Artigo 24.º — Processo do comité
+    - Suprime Artigo 24.ºA — Exercício da delegação
+    - Suprime Artigo 24.ºB — Revogação da delegação
 identifiers:
   celex: 32003L0071
   eli: http://data.europa.eu/eli/dir/2003/71/oj
@@ -50,7 +242,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1d00609c-36f0-4736-9baf-7c15ff3fc6d6.0010
   content_url: http://publications.europa.eu/resource/cellar/d0cea84f-98ce-11e9-b2f2-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0071-20190721
-  retrieved_at: '2026-10-22T02:38:38Z'
+  retrieved_at: '2026-10-22T14:54:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T16:09:06.297+01:00'
 integrity:
@@ -59,9 +251,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:38Z'
-  notes: Texto consolidado 02003L0071-20190721.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:59Z'
+  notes: 8 versão(ões); histórico completo em diretiva-ue-2003-71.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -266,16 +458,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:38Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:54:59Z'
+  warnings: []
   errors: []
 ---
 

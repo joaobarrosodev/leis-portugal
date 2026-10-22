@@ -34,6 +34,20 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-09-26'
+version_history:
+  file: diretiva-ue-1991-157.versoes.json
+  count: 2
+  source_lastmod: '2008-09-26'
+  versions:
+  - date: '1991-03-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-09-26'
+    amending: null
+    amending_title: null
+    changes:
+    - Adita preambulo
 identifiers:
   celex: 31991L0157
   eli: http://data.europa.eu/eli/dir/1991/157/oj
@@ -48,7 +62,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/83c829de-927c-493d-810b-754cfd5f5f68.0011
   content_url: http://publications.europa.eu/resource/cellar/be70ce49-c08b-436f-a849-58c58fc791a6.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0157-20080926
-  retrieved_at: '2026-10-22T02:41:05Z'
+  retrieved_at: '2026-10-22T14:38:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-26T08:55:16.950+01:00'
 integrity:
@@ -57,9 +71,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:05Z'
-  notes: Texto consolidado 01991L0157-20080926.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:38:27Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1991-157.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -136,16 +150,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:05Z'
+  checked_at: '2026-10-22T14:38:27Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01991L0157-19990125: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

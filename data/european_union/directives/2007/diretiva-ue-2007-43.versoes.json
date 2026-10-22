@@ -1,0 +1,550 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32007L0043:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007L0043-20191214",
+ "dre_path": null,
+ "source_lastmod": "2019-12-14",
+ "versions": [
+  {
+   "date": "2007-07-12",
+   "future": false,
+   "celex": "32007L0043",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ec8fa004006deb90",
+    "e4196cd6b8f33faf",
+    "c85f641024b579e7",
+    "e1d89f09e65a6576",
+    "c4a19f1d19d37a8f",
+    "3747aa6fba7b3b38",
+    "b02419eae512dbe8",
+    "7914eb7ea951da89",
+    "01663a36f07d4cd6",
+    "febe372981c60bce",
+    "9e5379cdef0513e7",
+    "4687f2053409d07d",
+    "99e4b4c853f9d555",
+    "efbe2ea11f1116fa",
+    "4e81259faa1ff103",
+    "7fecdfe24a0c446f"
+   ]
+  },
+  {
+   "date": "2019-12-14",
+   "future": false,
+   "celex": "02007L0043-20191214",
+   "acts": [
+    {
+     "id": "eu:celex:32017R0625:por",
+     "title": "REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017",
+     "published": null,
+     "celex": "32017R0625"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objecto e âmbito de aplicação",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 7.º — Inspecções",
+    "Altera Artigo 11.º — Procedimento de comité",
+    "Altera Artigo 14.º",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita REQUISITOS APLICÁVEIS ÀS EXPLORAÇÕES",
+    "Adita Bebedouros",
+    "Adita Alimentação",
+    "Adita Cama",
+    "Adita Ventilação e aquecimento",
+    "Adita Ruído",
+    "Adita Luz",
+    "Adita Inspecção",
+    "Adita Limpeza",
+    "Adita Registos",
+    "Adita Intervenções cirúrgicas",
+    "Adita ANEXO II",
+    "Adita REQUISITOS PARA A UTILIZAÇÃO DE DENSIDADES ANIMAIS MAIS ELEVADAS",
+    "Adita Notificação e documentação",
+    "Adita Requisitos relativos às explorações — controlo dos parâmetros ambientais",
+    "Adita ANEXO III",
+    "Adita MONITORIZAÇÃO E ACOMPANHAMENTO NO MATADOURO",
+    "Adita (conforme previsto no n.º 1 do artigo 3.º)",
+    "Adita 1. Mortalidade",
+    "Adita 2. Inspecção post mortem",
+    "Adita 3. Comunicação dos resultados",
+    "Adita ANEXO IV",
+    "Adita FORMAÇÃO",
+    "Adita ANEXO V",
+    "Adita CRITÉRIOS PARA A UTILIZAÇÃO DE DENSIDADES ANIMAIS MAIS ELEVADAS",
+    "Adita (conforme previsto no n.º 5 do artigo 3.º)",
+    "Adita 1. Critérios",
+    "Adita 2. Circunstâncias excepcionais"
+   ],
+   "fragments": [
+    "14f803c40b10b526",
+    "cc47a3988f077820",
+    "86b75b760d2e572c",
+    "e1d89f09e65a6576",
+    "c4a19f1d19d37a8f",
+    "3747aa6fba7b3b38",
+    "b02419eae512dbe8",
+    "23d8ed69a83eb8ff",
+    "01663a36f07d4cd6",
+    "febe372981c60bce",
+    "9e5379cdef0513e7",
+    "2f4e26c19aca3167",
+    "99e4b4c853f9d555",
+    "efbe2ea11f1116fa",
+    "e9d9a06712083dbe",
+    "d664376e2a8dcecd",
+    "6eb739d69ad84890",
+    "4331275b7dc21216",
+    "f14b6e19c63aaff3",
+    "61cfdd2c7cde6d87",
+    "79380933bb313574",
+    "37a37c79668bb902",
+    "1cc5b649e9fe4f4e",
+    "5565abb58f50deeb",
+    "794e9dedf35a096b",
+    "bd49fa06cad420f3",
+    "9acabc254444146c",
+    "852174729551523b",
+    "049c730b00dbfab7",
+    "1c8f09045ffe628f",
+    "7a7fb856254a3214",
+    "720af75c92791b10",
+    "0129c4f557e1c057",
+    "98815174727e26b6",
+    "a18987e26d5aa1b8",
+    "b559651feabd612a",
+    "59c34d32818a0d4f",
+    "e03a0eb4d5b2eef3",
+    "4b1bd35f98124ff6",
+    "64610ae29a6cb67c",
+    "36aeb65d0ae34b18",
+    "aae331c4a0ce8afe",
+    "410ec16427cc3a70",
+    "437967bd7ca4ad93",
+    "a80b2f0e9428f815"
+   ]
+  }
+ ],
+ "fragments": {
+  "ec8fa004006deb90": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Junho de 2007\n\nrelativa ao estabelecimento de regras mínimas para a protecção dos frangos de carne\n\n(Texto relevante para efeitos do EEE)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntr1-L_2007182PT.01001901-E0001),\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^2])](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntr2-L_2007182PT.01001901-E0002),\n\nApós consulta ao Comité das Regiões,\n\nConsiderando o seguinte:\n\n(1) O Protocolo relativo à Protecção e ao Bem-estar dos Animais, anexo ao Tratado que institui a Comunidade Europeia, prevê que na definição e aplicação das políticas comunitárias no domínio da agricultura, a Comunidade e os Estados-Membros devem ter plenamente em conta as exigências em matéria de bem-estar dos animais, respeitando simultaneamente as disposições legislativas e administrativas e os costumes dos Estados-Membros, nomeadamente em matéria de ritos religiosos, tradições culturais e património regional.\n\n(2) A Directiva 98/58/CE do Conselho, de 20 de Julho de 1998, relativa à protecção dos animais nas explorações pecuárias [([^3])](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntr3-L_2007182PT.01001901-E0003), elaborada com base na Convenção Europeia sobre a Protecção dos Animais nas Explorações de Criação [([^4])](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntr4-L_2007182PT.01001901-E0004) (a «Convenção»), estabelece normas mínimas de protecção dos animais nas explorações de criação, incluindo disposições em matéria de instalações, alimentos, água e cuidados adequados às necessidades fisiológicas e etológicas dos animais.\n\n(3) A Comunidade é parte na Convenção, tendo sido aprovada uma recomendação específica relativa às galinhas (*Gallus gallus*), que inclui disposições adicionais referentes às aves de capoeira destinadas à produção de carne.\n\n(4) O relatório do Comité Científico da Saúde e do Bem-Estar dos Animais, de 21 de Março de 2000, sobre o bem-estar dos frangos de carne, concluiu que a elevada taxa de crescimento das raças actualmente utilizadas para a produção de carne não é acompanhada de um nível satisfatório de bem-estar e saúde dos animais e que os efeitos negativos da elevada densidade de aves são reduzidos nas instalações onde se podem manter boas condições climáticas.\n\n(5) Serão estabelecidas disposições específicas para as superfícies sem camas, a fim de minimizar a influência dos parâmetros genéticos ou de incluir outros indicadores de bem-estar, para além da pododermatite, quando estiverem disponíveis os pareceres pertinentes da Autoridade Europeia para a Segurança dos Alimentos (AESA).\n\n(6) É necessário estabelecer regras, a nível comunitário, para a protecção dos frangos de carne, de modo a evitar distorções da concorrência que possam interferir com o bom funcionamento da organização comum de mercado do sector e, também, para garantir o desenvolvimento racional desse mesmo sector.\n\n(7) Em conformidade com o princípio da proporcionalidade, para que se alcance o objectivo básico de melhorar o bem-estar dos animais na criação intensiva de frangos, é necessário e adequado estabelecer normas mínimas de protecção dos frangos de carne. A presente directiva não excede o necessário para atingir os objectivos pretendidos, em conformidade com o terceiro parágrafo do artigo 5.º do Tratado.\n\n(8) As referidas regras deverão incidir nos problemas de bem-estar nos sistemas de produção intensiva. Para evitar a aplicação de medidas desproporcionadas à criação de pequenos bandos, há que fixar um limiar mínimo para a aplicação da presente directiva.\n\n(9) É importante que as pessoas que se ocupam dos frangos se encontrem familiarizadas com os requisitos pertinentes em matéria de bem-estar animal e beneficiem de formação adequada às tarefas que lhes incumbem ou tenham adquirido uma experiência equivalente a essa formação.\n\n(10) No estabelecimento das regras de protecção dos frangos, deverá manter-se o equilíbrio entre os vários aspectos a tomar em consideração, como sejam o bem-estar e a saúde dos animais, considerações económicas e sociais e impacto ambiental.\n\n(11) O Regulamento (CE) n.º 854/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, que estabelece regras específicas de organização dos controlos oficiais de produtos de origem animal destinados ao consumo humano [([^5])](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntr5-L_2007182PT.01001901-E0005), e o Regulamento (CE) n.º 882/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, relativo aos controlos oficiais realizados para assegurar a verificação do cumprimento da legislação relativa aos alimentos para animais e aos géneros alimentícios e das normas relativas à saúde e ao bem-estar dos animais [([^6])](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntr6-L_2007182PT.01001901-E0006), já estabelecem um quadro para os controlos oficiais, incluindo o cumprimento de algumas normas relativas ao bem-estar dos animais. O Regulamento (CE) n.º 882/2004 prevê ainda que os Estados-Membros apresentem relatórios anuais sobre a aplicação dos planos nacionais de controlo plurianuais, que incluam os resultados dos controlos e auditorias realizados. Para este efeito, está previsto apoio financeiro tanto nestes regulamentos como na Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário [([^7])](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntr7-L_2007182PT.01001901-E0007).\n\n(12) Já existem vários sistemas voluntários, em diferentes Estados-Membros, de rotulagem da carne de frango com base no cumprimento de normas relativas ao bem-estar dos animais e outros parâmetros.\n\n(13) À luz da experiência adquirida com a aplicação de tais sistemas voluntários de rotulagem, é conveniente que a Comissão apresente um relatório sobre a eventual introdução, a nível comunitário, de um sistema de rotulagem específico, harmonizado e obrigatório da carne de frango, bem como de produtos e preparados à base de carne de frango, baseado no cumprimento das normas de bem-estar dos animais, incluindo possíveis implicações socioeconómicas, efeitos sobre os parceiros económicos da Comunidade e compatibilidade de um tal sistema de rotulagem com as regras da Organização Mundial do Comércio.\n\n(14) É conveniente que a Comissão apresente um relatório baseado em novos dados científicos, tendo em conta estudos suplementares e experiência prática, de modo a melhorar o bem-estar dos frangos de carne, incluindo os seus progenitores, em particular no que se refere a aspectos não abrangidos pela presente directiva. O relatório deve considerar especificamente a possibilidade de introdução de limiares para a indicação de fracas condições de bem-estar apuradas nas inspecções *post mortem* e a influência dos parâmetros genéticos sobre deficiências identificadas como prejudiciais para o bem-estar dos frangos.\n\n(15) Os Estados-Membros deverão estabelecer regras relativas às sanções aplicáveis às infracções às disposições da presente directiva e garantir a sua aplicação. As sanções previstas deverão ser efectivas, proporcionadas e dissuasivas.\n\n(16) O Conselho, em conformidade com o ponto 34 do Acordo Interinstitucional «Legislar Melhor» [([^8])](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntr8-L_2007182PT.01001901-E0008), deverá incentivar os Estados-Membros a elaborarem, para si próprios e no interesse da Comunidade, os seus próprios quadros, que ilustrem, na medida do possível, a concordância entre a directiva e as medidas de transposição, e a publicarem-nos.\n\n(17) As medidas necessárias à execução da presente directiva deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^9])](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntr9-L_2007182PT.01001901-E0009),\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "e4196cd6b8f33faf": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. A presente directiva aplica-se a frangos de carne.\n\nTodavia, não é aplicável:\n\na) A explorações com menos de 500 frangos;\n\nb) A explorações em que apenas existam núcleos de reprodução;\n\nc) A centros de incubação;\n\nd) À produção extensiva em interior, à produção em semiliberdade, à produção tradicional ao ar livre, nem à produção em liberdade, referidas nas alíneas b), c), d) e e) do anexo IV do Regulamento (CEE) n.º 1538/91 da Comissão, de 5 de Junho de 1991, que estatui regras de execução do Regulamento (CEE) n.º 1906/90 que estabelece normas de comercialização para as aves de capoeira [([^10])](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntr10-L_2007182PT.01001901-E0010), nem\n\ne) À criação de frangos com métodos biológicos, em conformidade com o Regulamento (CEE) n.º 2092/91 do Conselho, de 24 de Junho de 1991, relativo ao modo de produção biológico de produtos agrícolas e à sua indicação nos produtos agrícolas e nos géneros alimentícios [([^11])](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntr11-L_2007182PT.01001901-E0011).\n\n2. A directiva aplica-se aos núcleos de criação nas explorações que dispõem de núcleos de reprodução e de núcleos de criação.\n\nOs Estados-Membros mantêm a possibilidade de tomar medidas mais rigorosas no domínio abrangido pela presente directiva.\n\nA principal responsabilidade pelo bem-estar dos animais caberá ao seu proprietário ou detentor."
+  },
+  "c85f641024b579e7": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1. Para efeitos da presente directiva, são aplicáveis as seguintes definições:\n\na) «Proprietário»: a ou as pessoas, singulares ou colectivas, que têm a propriedade da exploração onde se encontram os frangos;\n\nb) «Detentor»: qualquer pessoa singular ou colectiva que tem a responsabilidade ou o encargo de prover à manutenção dos frangos, por contrato ou obrigação legal, numa base permanente ou temporária;\n\nc) «Autoridade competente»: a autoridade central de um Estado-Membro competente para efectuar controlos do bem-estar dos animais e controlos veterinários e zootécnicos, ou qualquer outra autoridade a quem tenha sido atribuída essa competência, seja a nível regional ou local, ou a outro nível;\n\nd) «Veterinário oficial»: um veterinário habilitado, em conformidade com o anexo I, secção III, capítulo IV, título A do Regulamento (CE) n.º 854/2004, a actuar nessa qualidade e nomeado pela autoridade competente;\n\ne) «Frango de carne»: um animal da espécie *Gallus gallus* destinado à produção de carne;\n\nf) «Exploração»: um local de produção em que são mantidos frangos;\n\ng) «Instalação»: uma construção numa exploração em que é mantido um bando de frangos;\n\nh) «Superfície utilizável»: superfície com camas a que os frangos tenham acesso permanente;\n\ni) «Densidade animal»: o peso vivo total de frangos que estão presentes numa instalação ao mesmo tempo, por metro quadrado de superfície utilizável;\n\nj) «Bando»: um grupo de frangos colocados numa instalação da exploração e que estão presentes nessa instalação ao mesmo tempo;\n\nk) «Taxa de mortalidade diária»: o número de frangos que morreram numa instalação no mesmo dia, incluindo os que foram eliminados por doença ou por outros motivos, dividido pelo número de frangos presentes na instalação nesse dia, multiplicado por 100;\n\nl) «Taxa de mortalidade diária acumulada»: a soma das taxas de mortalidade diárias.\n\n2. A definição de «superfície utilizável» da alínea h) do n.º 1 pode, no que se refere às superfícies sem camas, ser completada, pelo procedimento referido no artigo 11.º, em função dos resultados do parecer científico da Autoridade Europeia para a Segurança dos Alimentos sobre o impacto das superfícies sem camas no bem-estar dos frangos."
+  },
+  "e1d89f09e65a6576": {
+   "fragment_id": "Artigo 3.º — Requisitos para a criação de frangos",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Requisitos para a criação de frangos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos para a criação de frangos\n\n1. Os Estados-Membros asseguram que:\n\na) Todas as instalações cumpram os requisitos estabelecidos no anexo I;\n\nb) A autoridade competente ou o veterinário oficial executem as medidas de inspecção necessárias e a monitorização e acompanhamento, incluindo os previstos no anexo III.\n\n2. Os Estados-Membros asseguram que a densidade animal máxima numa exploração ou numa instalação de uma exploração nunca exceda 33 kg/m^2^.\n\n3. Em derrogação ao disposto no n.º 2, os Estados-Membros podem autorizar uma densidade animal máxima superior, desde que o proprietário ou o detentor cumpra os requisitos enunciados no anexo II, além dos do anexo I.\n\n4. Os Estados-Membros asseguram que, quando seja concedida uma derrogação ao abrigo do n.º 3, a densidade animal máxima numa exploração ou numa instalação de uma exploração nunca exceda 39 kg/m^2^.\n\n5. Quando se encontrem reunidos os critérios enunciados no anexo V, os Estados-Membros podem autorizar que a densidade animal máxima referida no n.º 4 seja aumentada 3 kg/m^2^ no máximo."
+  },
+  "c4a19f1d19d37a8f": {
+   "fragment_id": "Artigo 4.º — Formação e orientação das pessoas que se ocupam dos frangos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Formação e orientação das pessoas que se ocupam dos frangos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Formação e orientação das pessoas que se ocupam dos frangos\n\n1. Os Estados-Membros asseguram que os detentores que são pessoas singulares recebam formação suficiente para efectuarem as tarefas que lhes incumbem e que sejam organizados cursos de formação adequados.\n\n2. Os cursos de formação referidos no n.º 1 devem incidir sobre aspectos relacionados com o bem-estar e abranger, em especial, as matérias enumeradas no anexo IV.\n\n3. Os Estados-Membros asseguram que seja estabelecido um sistema de controlo e aprovação dos cursos de formação. O detentor dos frangos deve possuir um certificado reconhecido pela autoridade competente do Estado-Membro em questão, atestando que completou um desses cursos de formação ou que adquiriu experiência equivalente a essa formação.\n\n4. Os Estados-Membros podem reconhecer a experiência adquirida antes de 30 de Junho de 2010 como sendo equivalente à participação em tais cursos de formação, devendo emitir certificados que atestem a referida equivalência.\n\n5. Os Estados-Membros podem prever que os requisitos constantes dos n.^os^ 1 a 4 sejam igualmente aplicáveis aos proprietários.\n\n6. Os proprietários ou detentores devem dar instruções e orientação sobre os requisitos pertinentes em matéria de bem-estar animal, incluindo no que se refere aos métodos de reforma praticados na exploração, às pessoas por eles empregadas ou contratadas para se ocuparem dos frangos ou para os capturarem ou assegurarem o respectivo carregamento."
+  },
+  "3747aa6fba7b3b38": {
+   "fragment_id": "Artigo 5.º — Rotulagem da carne de aves de capoeira",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Rotulagem da carne de aves de capoeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Rotulagem da carne de aves de capoeira\n\nAté 31 de Dezembro de 2009, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho um relatório sobre a eventual introdução de um sistema obrigatório de rotulagem harmonizado específico para a carne de frango e para os produtos e preparados à base de carne indicativo do cumprimento das normas de bem-estar animal.\n\nNo relatório devem ser consideradas as eventuais implicações socioeconómicas, os efeitos sobre os parceiros económicos da Comunidade e a conformidade de tal sistema de rotulagem com as normas da Organização Mundial do Comércio.\n\nO relatório deve ser acompanhado de propostas legislativas adequadas que contemplem tais considerações, assim como a experiência adquirida pelos Estados-Membros com a aplicação de sistemas voluntários de rotulagem."
+  },
+  "b02419eae512dbe8": {
+   "fragment_id": "Artigo 6.º — Relatório da Comissão ao Parlamento Europeu e ao Conselho",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Relatório da Comissão ao Parlamento Europeu e ao Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Relatório da Comissão ao Parlamento Europeu e ao Conselho\n\n1. Com base no parecer científico da Autoridade Europeia para a Segurança dos Alimentos, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho, até 31 de Dezembro de 2010, um relatório sobre a influência dos parâmetros genéticos nas deficiências identificadas como prejudiciais para o bem-estar dos frangos. O referido relatório pode ser acompanhado de propostas legislativas adequadas, se necessário.\n\n2. Os Estados-Membros devem apresentar à Comissão os resultados da recolha de dados baseados no controlo de uma amostra representativa de bandos abatidos durante um período mínimo de um ano. A fim de permitir uma análise relevante, os requisitos de amostragem e dados referidos no anexo III devem ser cientificamente baseados, objectivos e comparáveis, sendo estabelecidos nos termos do artigo 11.º\n\nOs Estados-Membros podem necessitar de um contributo financeiro para a recolha de dados prevista nos termos da presente directiva.\n\n3. Com base nos dados disponíveis e tendo em consideração novos dados científicos, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho, até 30 de Junho de 2012, um relatório a respeito da aplicação da presente directiva e da sua influência no bem-estar dos frangos, bem como no desenvolvimento de indicadores de bem-estar. No relatório devem ser tidos em conta as diferentes condições e métodos de produção e as implicações socioeconómicas e administrativas da presente directiva, incluindo os aspectos regionais."
+  },
+  "7914eb7ea951da89": {
+   "fragment_id": "Artigo 7.º — Inspecções",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Inspecções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Inspecções\n\n1. A autoridade competente deve realizar inspecções não discriminatórias, a fim de verificar o cumprimento dos requisitos da presente directiva.\n\nEssas inspecções devem ser realizadas em relação a uma proporção adequada dos animais mantidos em cada Estado-Membro, em conformidade com as disposições aplicáveis do Regulamento (CE) n.º 882/2004, podendo ser efectuadas ao mesmo tempo que os controlos levados a cabo para outros efeitos.\n\nOs Estados-Membros devem estabelecer procedimentos adequados para determinar a densidade animal.\n\n2. Os Estados-Membros devem enviar à Comissão, até 30 de Junho de cada ano, um relatório sobre as inspecções previstas no n.º 1 realizadas no ano anterior. O relatório deve ser acompanhado de uma lista das medidas mais relevantes tomadas pela autoridade competente para corrigir os principais problemas de bem-estar detectados."
+  },
+  "01663a36f07d4cd6": {
+   "fragment_id": "Artigo 8.º — Guias de boas práticas de gestão",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Guias de boas práticas de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Guias de boas práticas de gestão\n\nOs Estados-Membros devem fomentar a elaboração de guias de boas práticas de gestão, que devem incluir orientações para o cumprimento da presente directiva. A difusão e utilização desses guias deve ser incentivada."
+  },
+  "febe372981c60bce": {
+   "fragment_id": "Artigo 9.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sanções\n\nOs Estados-Membros determinam o regime de sanções aplicável às violações das disposições nacionais aprovadas nos termos da presente directiva e tomam todas as medidas necessárias para garantir a sua execução. As sanções previstas devem ser efectivas, proporcionadas e dissuasivas. Os Estados-Membros devem notificar essas disposições à Comissão, até 30 de Junho de 2010, devendo também notificar, de imediato, toda e qualquer alteração posterior de que venham a ser objecto."
+  },
+  "9e5379cdef0513e7": {
+   "fragment_id": "Artigo 10.º — Competência de execução",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Competência de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência de execução\n\nAs medidas necessárias à execução uniforme da presente directiva podem ser adoptadas nos termos do artigo 11.º"
+  },
+  "4687f2053409d07d": {
+   "fragment_id": "Artigo 11.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, criado pelo Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios [([^12])](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntr12-L_2007182PT.01001901-E0012) (a seguir designado «Comité»).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses."
+  },
+  "99e4b4c853f9d555": {
+   "fragment_id": "Artigo 12.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Transposição\n\nOs Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 30 de Junho de 2010.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são aprovadas pelos Estados-Membros."
+  },
+  "efbe2ea11f1116fa": {
+   "fragment_id": "Artigo 13.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "4e81259faa1ff103": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 28 de Junho de 2007.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**S. GABRIEL**\n\n---"
+  },
+  "7fecdfe24a0c446f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntc1-L_2007182PT.01001901-E0001) Parecer emitido em 14 de Fevereiro de 2006 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntc2-L_2007182PT.01001901-E0002) Parecer emitido em 26 de Outubro de 2005 (ainda não publicado no Jornal Oficial).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntc3-L_2007182PT.01001901-E0003) [JO L 221 de 8.8.1998, p. 23](http://publications.europa.eu/resource/oj/JOL_1998_221_R_TOC). Directiva alterada pelo Regulamento (CE) n.º 806/2003 ([JO L 122 de 16.5.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_122_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntc4-L_2007182PT.01001901-E0004) [JO L 323 de 17.11.1978, p. 14](http://publications.europa.eu/resource/oj/JOL_1978_323_R_TOC). Convenção alterada por Protocolo de alteração ([JO L 395 de 31.12.1992, p. 22](http://publications.europa.eu/resource/oj/JOL_1992_395_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntc5-L_2007182PT.01001901-E0005) [JO L 139 de 30.4.2004, p. 206](http://publications.europa.eu/resource/oj/JOL_2004_139_R_TOC). Rectificação no [JO L 226 de 25.6.2004, p. 83](http://publications.europa.eu/resource/oj/JOL_2004_226_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1791/2006 do Conselho ([JO L 363 de 20.12.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_363_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntc6-L_2007182PT.01001901-E0006) [JO L 165 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_165_R_TOC). Rectificação no [JO L 191 de 28.5.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_191_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1791/2006 do Conselho.\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntc7-L_2007182PT.01001901-E0007) [JO L 224 de 18.8.1990, p. 19](http://publications.europa.eu/resource/oj/JOL_1990_224_R_TOC). Decisão com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1791/2006.\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntc8-L_2007182PT.01001901-E0008) [JO C 321 de 31.12.2003, p. 1](http://publications.europa.eu/resource/oj/JOC_2003_321_R_TOC). Rectificação no [JO C 4 de 8.1.2004, p. 7](http://publications.europa.eu/resource/oj/JOC_2004_004_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntc9-L_2007182PT.01001901-E0009) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC). Decisão alterada pela Decisão 2006/512/CE ([JO L 200 de 22.7.2006, p. 11](http://publications.europa.eu/resource/oj/JOL_2006_200_R_TOC)).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntc10-L_2007182PT.01001901-E0010) [JO L 143 de 7.6.1991, p. 11](http://publications.europa.eu/resource/oj/JOL_1991_143_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2029/2006 ([JO L 414 de 30.12.2006, p. 29](http://publications.europa.eu/resource/oj/JOL_2006_414_R_TOC)).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntc11-L_2007182PT.01001901-E0011) [JO L 198 de 22.7.1991, p. 1](http://publications.europa.eu/resource/oj/JOL_1991_198_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 394/2007 da Comissão ([JO L 98 de 13.4.2007, p. 3](http://publications.europa.eu/resource/oj/JOL_2007_098_R_TOC)).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0018.03/DOC_1#ntc12-L_2007182PT.01001901-E0012) [JO L 31 de 1.2.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_031_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 575/2006 da Comissão ([JO L 100 de 8.4.2006, p. 3](http://publications.europa.eu/resource/oj/JOL_2006_100_R_TOC))."
+  },
+  "14f803c40b10b526": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Junho de 2007\n\nrelativa ao estabelecimento de regras mínimas para a protecção dos frangos de carne\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "cc47a3988f077820": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. A presente directiva aplica-se a frangos de carne.\n\nTodavia, não é aplicável:\n\na) A explorações com menos de 500 frangos;\n\nb) A explorações em que apenas existam núcleos de reprodução;\n\nc) A centros de incubação;\n\nd) À produção extensiva em interior, à produção em semiliberdade, à produção tradicional ao ar livre, nem à produção em liberdade, referidas nas alíneas b), c), d) e e) do anexo IV do Regulamento (CEE) n.º 1538/91 da Comissão, de 5 de Junho de 1991, que estatui regras de execução do Regulamento (CEE) n.º 1906/90 que estabelece normas de comercialização para as aves de capoeira ([^1^](http://publications.europa.eu/resource/cellar/fa6a2e9f-27e8-11ea-af81-01aa75ed71a1.0019.03/DOC_1#E0001)), nem\n\ne) À criação de frangos com métodos biológicos, em conformidade com o Regulamento (CEE) n.º 2092/91 do Conselho, de 24 de Junho de 1991, relativo ao modo de produção biológico de produtos agrícolas e à sua indicação nos produtos agrícolas e nos géneros alimentícios ([^2^](http://publications.europa.eu/resource/cellar/fa6a2e9f-27e8-11ea-af81-01aa75ed71a1.0019.03/DOC_1#E0002)).\n\n2. A directiva aplica-se aos núcleos de criação nas explorações que dispõem de núcleos de reprodução e de núcleos de criação.\n\nOs Estados-Membros mantêm a possibilidade de tomar medidas mais rigorosas no domínio abrangido pela presente directiva.\n\nA principal responsabilidade pelo bem-estar dos animais caberá ao seu proprietário ou detentor."
+  },
+  "86b75b760d2e572c": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1. Para efeitos da presente directiva, são aplicáveis as seguintes definições:\n\na) «Proprietário»: a ou as pessoas, singulares ou colectivas, que têm a propriedade da exploração onde se encontram os frangos;\n\nb) «Detentor»: qualquer pessoa singular ou colectiva que tem a responsabilidade ou o encargo de prover à manutenção dos frangos, por contrato ou obrigação legal, numa base permanente ou temporária;\n\nc) «Autoridades competentes» as autoridades competentes na aceção do artigo 3.º, ponto 3, do Regulamento [**►C1**](http://publications.europa.eu/resource/celex/32017R0625R%2801%29) (UE) 2017/625**◄** do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/fa6a2e9f-27e8-11ea-af81-01aa75ed71a1.0019.03/DOC_1#E0003));\n\nd) «Veterinário oficial» um veterinário oficial na aceção do artigo 3.º, ponto 32, do Regulamento [**►C1**](http://publications.europa.eu/resource/celex/32017R0625R%2801%29) (UE) 2017/625**◄**;\n\ne) «Frango de carne»: um animal da espécie *Gallus gallus* destinado à produção de carne;\n\nf) «Exploração»: um local de produção em que são mantidos frangos;\n\ng) «Instalação»: uma construção numa exploração em que é mantido um bando de frangos;\n\nh) «Superfície utilizável»: superfície com camas a que os frangos tenham acesso permanente;\n\ni) «Densidade animal»: o peso vivo total de frangos que estão presentes numa instalação ao mesmo tempo, por metro quadrado de superfície utilizável;\n\nj) «Bando»: um grupo de frangos colocados numa instalação da exploração e que estão presentes nessa instalação ao mesmo tempo;\n\nk) «Taxa de mortalidade diária»: o número de frangos que morreram numa instalação no mesmo dia, incluindo os que foram eliminados por doença ou por outros motivos, dividido pelo número de frangos presentes na instalação nesse dia, multiplicado por 100;\n\nl) «Taxa de mortalidade diária acumulada»: a soma das taxas de mortalidade diárias.\n\n2. A definição de «superfície utilizável» da alínea h) do n.º 1 pode, no que se refere às superfícies sem camas, ser completada, pelo procedimento referido no artigo 11.º, em função dos resultados do parecer científico da Autoridade Europeia para a Segurança dos Alimentos sobre o impacto das superfícies sem camas no bem-estar dos frangos."
+  },
+  "23d8ed69a83eb8ff": {
+   "fragment_id": "Artigo 7.º — Inspecções",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Inspecções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Inspecções\n\n2. Os Estados-Membros apresentam à Comissão, até 31 de agosto de cada ano, um relatório anual sobre as inspeções realizadas no ano anterior pela autoridade competente para verificar o cumprimento dos requisitos da presente diretiva. O relatório é acompanhado por uma análise das constatações de incumprimento mais graves e um plano de ação nacional destinado a evitar ou reduzir a sua ocorrência nos anos seguintes. A Comissão apresenta um resumo desses relatórios aos Estados-Membros."
+  },
+  "2f4e26c19aca3167": {
+   "fragment_id": "Artigo 11.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, criado pelo Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios ([^4^](http://publications.europa.eu/resource/cellar/fa6a2e9f-27e8-11ea-af81-01aa75ed71a1.0019.03/DOC_1#E0004)) (a seguir designado «Comité»).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses."
+  },
+  "e9d9a06712083dbe": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "6eb739d69ad84890": {
+   "fragment_id": "REQUISITOS APLICÁVEIS ÀS EXPLORAÇÕES",
+   "type": "divisao",
+   "heading": "REQUISITOS APLICÁVEIS ÀS EXPLORAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS APLICÁVEIS ÀS EXPLORAÇÕES\n\nPara além das disposições pertinentes constantes de outros actos da legislação comunitária, são aplicáveis os seguintes requisitos:"
+  },
+  "4331275b7dc21216": {
+   "fragment_id": "Bebedouros",
+   "type": "divisao",
+   "heading": "Bebedouros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Bebedouros\n\n1. Os bebedouros devem ser colocados e mantidos de modo a minimizar os derramamentos."
+  },
+  "f14b6e19c63aaff3": {
+   "fragment_id": "Alimentação",
+   "type": "divisao",
+   "heading": "Alimentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Alimentação\n\n2. Os frangos devem poder alimentar-se quer continuamente quer periodicamente e não podem ser privados de alimentação mais de 12 horas antes do momento previsto para o abate."
+  },
+  "61cfdd2c7cde6d87": {
+   "fragment_id": "Cama",
+   "type": "divisao",
+   "heading": "Cama",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Cama\n\n3. Todos os frangos devem ter acesso em permanência a camas secas e friáveis à superfície."
+  },
+  "79380933bb313574": {
+   "fragment_id": "Ventilação e aquecimento",
+   "type": "divisao",
+   "heading": "Ventilação e aquecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Ventilação e aquecimento\n\n4. A ventilação deve ser suficiente para evitar sobreaquecimentos, quando necessário em conjugação com sistemas de aquecimento destinados a remover o excesso de humidade."
+  },
+  "37a37c79668bb902": {
+   "fragment_id": "Ruído",
+   "type": "divisao",
+   "heading": "Ruído",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Ruído\n\n5. O nível sonoro deve ser reduzido ao mínimo. Os ventiladores, os equipamentos para alimentação e os outros tipos de máquinas devem ser construídos, instalados, accionados e mantidos de forma a causar o menor ruído possível."
+  },
+  "1cc5b649e9fe4f4e": {
+   "fragment_id": "Luz",
+   "type": "divisao",
+   "heading": "Luz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Luz\n\n6. Todas as instalações devem dispor de iluminação com uma intensidade mínima de 20 lux durante os períodos de iluminação, medida ao nível do olho da ave e iluminando pelo menos 80 % da superfície utilizável. Pode ser autorizada uma redução temporária do nível de iluminação, se necessário, mediante parecer de um veterinário.\n\n7. Num prazo de sete dias a partir do momento em que os frangos são colocados nas instalações e até três dias antes do momento previsto para o abate, a iluminação deve seguir um ritmo de 24 horas e incluir períodos de escuridão de, pelo menos, 6 horas no total com, pelo menos, um período ininterrupto de escuridão de, no mínimo, 4 horas, excluindo os períodos de lusco-fusco."
+  },
+  "5565abb58f50deeb": {
+   "fragment_id": "Inspecção",
+   "type": "divisao",
+   "heading": "Inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Inspecção\n\n8. Todos os frangos mantidos na exploração devem ser inspeccionados pelo menos duas vezes por dia. Deverá ser dada especial atenção aos sinais que indiquem um reduzido nível de bem-estar animal e/ou de saúde animal.\n\n9. Os frangos gravemente feridos ou que apresentem sinais evidentes de problemas de saúde, tais como os que apresentam dificuldades de locomoção ou ascite ou malformações graves, e que sejam susceptíveis de estar a sofrer, devem receber tratamento adequado ou ser imediatamente eliminados. Sempre que necessário, deverá ser chamado um veterinário."
+  },
+  "794e9dedf35a096b": {
+   "fragment_id": "Limpeza",
+   "type": "divisao",
+   "heading": "Limpeza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Limpeza\n\n10. As partes de instalações, equipamentos ou utensílios em contacto com os frangos devem ser cuidadosamente limpas e desinfectadas sempre que se efectuar um vazio sanitário final e antes da introdução de um novo bando na instalação. Depois de efectuado o vazio sanitário final das instalações, devem ser removidas todas as camas e preparadas limpas."
+  },
+  "bd49fa06cad420f3": {
+   "fragment_id": "Registos",
+   "type": "divisao",
+   "heading": "Registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Registos\n\n11. O proprietário ou detentor deve manter um registo para cada instalação de uma exploração, com os seguintes dados:\n\na) Número de frangos introduzidos;\n\nb) Superfície utilizável;\n\nc) Híbrido ou raça dos frangos, se conhecidos;\n\nd) Aquando de cada controlo, o número de aves encontradas mortas, com indicação das causas, se conhecidas, bem como do número de aves eliminadas em virtude dessas causas;\n\ne) Número de frangos que restam no bando depois de retirados os frangos para venda ou abate."
+  },
+  "9acabc254444146c": {
+   "fragment_id": "Intervenções cirúrgicas",
+   "type": "divisao",
+   "heading": "Intervenções cirúrgicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Intervenções cirúrgicas\n\n12. São proibidas todas as intervenções cirúrgicas realizadas para outros fins que não terapêuticos ou de diagnóstico, que provoquem danos ou a perda de uma parte sensível do corpo ou uma alteração da estrutura óssea."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "049c730b00dbfab7": {
+   "fragment_id": "REQUISITOS PARA A UTILIZAÇÃO DE DENSIDADES ANIMAIS MAIS ELEVADAS",
+   "type": "divisao",
+   "heading": "REQUISITOS PARA A UTILIZAÇÃO DE DENSIDADES ANIMAIS MAIS ELEVADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS PARA A UTILIZAÇÃO DE DENSIDADES ANIMAIS MAIS ELEVADAS"
+  },
+  "1c8f09045ffe628f": {
+   "fragment_id": "Notificação e documentação",
+   "type": "divisao",
+   "heading": "Notificação e documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Notificação e documentação\n\nSão aplicáveis os seguintes requisitos:\n\n1. O proprietário ou detentor deve comunicar à autoridade competente a sua intenção de utilizar uma densidade animal superior a 33 kg/m^2^ de peso vivo.\n\n2. O proprietário ou detentor deve manter e disponibilizar na instalação uma documentação que descreva pormenorizadamente os sistemas de produção. Em especial, essa documentação deve incluir informações sobre os pormenores técnicos relativos à instalação e ao seu equipamento, a saber:\n\na) Plano da instalação, incluindo dimensões das superfícies que os frangos ocupam;\n\nb) Sistemas de ventilação e, se pertinente, de refrigeração e aquecimento, incluindo a respectiva localização, e plano de ventilação que indique os parâmetros de qualidade do ar que se pretendem obter, tais como circulação, velocidade e temperatura do ar;\n\nc) Sistemas de alimentação e abeberamento e respectiva localização;\n\nd) Sistemas de alarme e sistemas de emergência em caso de avaria do equipamento automático ou mecânico indispensável para a saúde e o bem-estar dos animais;\n\ne) Tipos de solo e de camas normalmente utilizados.\n\nA documentação deve ser disponibilizada sempre que a autoridade competente assim o solicite e deve manter-se actualizada. Convém, em especial, que se registem as inspecções técnicas dos sistemas de ventilação e de alarme.\n\nO proprietário ou detentor deve comunicar, sem demora, à autoridade competente quaisquer alterações na instalação, equipamento ou procedimentos descritos que sejam susceptíveis de influenciar o bem-estar das aves."
+  },
+  "7a7fb856254a3214": {
+   "fragment_id": "Requisitos relativos às explorações — controlo dos parâmetros ambientais",
+   "type": "divisao",
+   "heading": "Requisitos relativos às explorações — controlo dos parâmetros ambientais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Requisitos relativos às explorações — controlo dos parâmetros ambientais\n\n3. O proprietário ou detentor deve assegurar que cada instalação de uma exploração se encontre equipada com sistemas de ventilação e, se necessário, de aquecimento e refrigeração concebidos, construídos e explorados de modo a que:\n\na) A concentração de amoníaco (NH3) não seja superior a 20 ppm e a concentração de dióxido de carbono (CO2) não seja superior a 3 000 ppm, sendo as medições feitas ao nível da cabeça dos frangos;\n\nb) A temperatura interior, quando a temperatura exterior à sombra for superior a 30 °C, não ultrapasse tal temperatura em mais de 3 °C;\n\nc) A humidade relativa média no interior da instalação, durante 48 horas, não ultrapasse os 70 % quando a temperatura exterior for inferior a 10 °C."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "0129c4f557e1c057": {
+   "fragment_id": "MONITORIZAÇÃO E ACOMPANHAMENTO NO MATADOURO",
+   "type": "divisao",
+   "heading": "MONITORIZAÇÃO E ACOMPANHAMENTO NO MATADOURO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MONITORIZAÇÃO E ACOMPANHAMENTO NO MATADOURO"
+  },
+  "98815174727e26b6": {
+   "fragment_id": "(conforme previsto no n.º 1 do artigo 3.º)",
+   "type": "divisao",
+   "heading": "(conforme previsto no n.º 1 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (conforme previsto no n.º 1 do artigo 3.º)"
+  },
+  "a18987e26d5aa1b8": {
+   "fragment_id": "1. Mortalidade",
+   "type": "divisao",
+   "heading": "1. Mortalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Mortalidade\n\n1.1. No caso de densidades animais superiores a 33 kg/m^2^, a documentação que acompanha o bando deve incluir a mortalidade diária e a taxa de mortalidade diária acumulada calculada pelo proprietário ou detentor e o híbrido ou a raça dos frangos.\n\n1.2. Sob a supervisão do veterinário oficial, estes dados, bem como o número de frangos de carne mortos à chegada devem ser registados, com indicação da exploração e da instalação da exploração. A plausibilidade dos dados e a taxa de mortalidade diária acumulada devem ser verificadas tendo em conta o número de frangos de carne abatidos e o número de frangos de carne mortos à chegada ao matadouro."
+  },
+  "b559651feabd612a": {
+   "fragment_id": "2. Inspecção post mortem",
+   "type": "divisao",
+   "heading": "2. Inspecção post mortem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Inspecção post mortem\n\nNo contexto dos controlos efectuados em conformidade com o Regulamento (CE) n.º 854/2004, o veterinário oficial deve avaliar os resultados da inspecção *post mortem* para identificar outros sinais eventuais de condições de bem-estar deficientes, tais como níveis anormais de dermatites de contacto, parasitoses, doenças sistémicas na exploração ou na instalação da exploração de origem."
+  },
+  "59c34d32818a0d4f": {
+   "fragment_id": "3. Comunicação dos resultados",
+   "type": "divisao",
+   "heading": "3. Comunicação dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Comunicação dos resultados\n\nSe a taxa de mortalidade mencionada no n.º 1 ou os resultados da inspecção *post mortem* mencionados no n.º 2 indicarem condições deficientes de bem-estar animal, o veterinário oficial deve comunicar os dados ao proprietário ou detentor dos animais e à autoridade competente. Devem ser tomadas medidas adequadas pelo proprietário ou detentor dos animais e pela autoridade competente."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "4b1bd35f98124ff6": {
+   "fragment_id": "FORMAÇÃO",
+   "type": "divisao",
+   "heading": "FORMAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FORMAÇÃO\n\nOs cursos de formação referidos no n.º 2 do artigo 4.º abrangem, no mínimo, a legislação comunitária referente à protecção dos frangos, em especial as seguintes matérias:\n\na) Anexos I e II;\n\nb) Fisiologia animal, em particular as necessidades em termos de abeberamento e alimentação, o comportamento animal e o conceito de stress;\n\nc) Aspectos práticos da manipulação cuidadosa dos frangos, bem como da sua captura, carregamento e transporte;\n\nd) Cuidados de emergência a ministrar aos frangos, incluindo occisão e abate de emergência;\n\ne) Medidas preventivas de biossegurança."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "36aeb65d0ae34b18": {
+   "fragment_id": "CRITÉRIOS PARA A UTILIZAÇÃO DE DENSIDADES ANIMAIS MAIS ELEVADAS",
+   "type": "divisao",
+   "heading": "CRITÉRIOS PARA A UTILIZAÇÃO DE DENSIDADES ANIMAIS MAIS ELEVADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRITÉRIOS PARA A UTILIZAÇÃO DE DENSIDADES ANIMAIS MAIS ELEVADAS"
+  },
+  "aae331c4a0ce8afe": {
+   "fragment_id": "(conforme previsto no n.º 5 do artigo 3.º)",
+   "type": "divisao",
+   "heading": "(conforme previsto no n.º 5 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (conforme previsto no n.º 5 do artigo 3.º)"
+  },
+  "410ec16427cc3a70": {
+   "fragment_id": "1. Critérios",
+   "type": "divisao",
+   "heading": "1. Critérios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Critérios\n\na) A monitorização da exploração, realizada pela autoridade competente nos últimos dois anos, não revelou quaisquer deficiências relativamente aos requisitos da presente directiva; e\n\nb) A monitorização por parte do proprietário ou detentor da exploração é realizada utilizando os guias de boas práticas de gestão referidos no artigo 8.º; e\n\nc) Em pelo menos sete bandos consecutivos inspeccionados posteriormente de uma instalação, a taxa de mortalidade diária acumulada era inferior a 1 % + 0,06 % multiplicado pela idade de abate do bando em dias.\n\nCaso nos últimos dois anos a autoridade competente não tenha procedido à monitorização da exploração, terá de ser realizada pelo menos uma monitorização para verificar se o requisito constante da alínea a) se encontra ou não cumprido."
+  },
+  "437967bd7ca4ad93": {
+   "fragment_id": "2. Circunstâncias excepcionais",
+   "type": "divisao",
+   "heading": "2. Circunstâncias excepcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Circunstâncias excepcionais\n\nA título de derrogação da alínea c) do n.º 1, a autoridade competente pode decidir aumentar a densidade animal quando o proprietário ou detentor tiver fornecido uma explicação suficiente para a natureza excepcional de uma taxa de mortalidade diária acumulada mais elevada ou tiver demonstrado que as causas se situam fora da sua esfera de controlo.\n\n---"
+  },
+  "a80b2f0e9428f815": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/fa6a2e9f-27e8-11ea-af81-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 143 de 7.6.1991, p. 11. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2029/2006 (JO L 414 de 30.12.2006, p. 29).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/fa6a2e9f-27e8-11ea-af81-01aa75ed71a1.0019.03/DOC_1#src.E0002)) JO L 198 de 22.7.1991, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 394/2007 da Comissão (JO L 98 de 13.4.2007, p. 3).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/fa6a2e9f-27e8-11ea-af81-01aa75ed71a1.0019.03/DOC_1#src.E0003)) Regulamento [**►C1**](http://publications.europa.eu/resource/celex/32017R0625R%2801%29) (UE) 2017/625**◄** do Parlamento Europeu e do Conselho, de 15 de março de 2017, relativo aos controlos oficiais e outras atividades oficiais que visam assegurar a aplicação da legislação em matéria de géneros alimentícios e alimentos para animais e das regras sobre saúde e bem-estar animal, fitossanidade e produtos fitofarmacêuticos, que altera os Regulamentos (CE) n.º 999/2001, (CE) n.º 396/2005, (CE) n.º 1069/2009, (CE) n.º 1107/2009, (UE) n.º 1151/2012, (UE) n.º 652/2014, (UE) 2016/429 e (UE) 2016/2031 do Parlamento Europeu e do Conselho, os Regulamentos (CE) n.º 1/2005 e (CE) n.º 1099/2009 do Conselho, e as Diretivas 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE do Conselho, e que revoga os Regulamentos (CE) n.º 854/2004 e (CE) n.º 882/2004 do Parlamento Europeu e do Conselho, as Diretivas 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE do Conselho e a Decisão 92/438/CEE do Conselho (Regulamento sobre os controlos oficiais) ( [**►C1**](http://publications.europa.eu/resource/celex/32017R0625R%2801%29) JO L 95 de 7.4.2017, p. 1**◄**).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/fa6a2e9f-27e8-11ea-af81-01aa75ed71a1.0019.03/DOC_1#src.E0004)) JO L 31 de 1.2.2002, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 575/2006 da Comissão (JO L 100 de 8.4.2006, p. 3)."
+  }
+ }
+}

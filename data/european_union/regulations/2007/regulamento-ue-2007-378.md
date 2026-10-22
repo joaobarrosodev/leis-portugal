@@ -36,6 +36,36 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-12-28'
+version_history:
+  file: regulamento-ue-2007-378.versoes.json
+  count: 3
+  source_lastmod: '2011-12-28'
+  versions:
+  - date: '2007-04-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-01'
+    amending: eu:celex:32009R0073:por
+    amending_title: REGULAMENTO (CE) N.O 73/2009 DO CONSELHO de 19 de Janeiro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Notas
+  - date: '2011-12-28'
+    amending: eu:celex:32011R1231:por
+    amending_title: REGULAMENTO (UE) N. o 1231/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Novembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Notas
+    - Adita Artigo 6.º-A
 identifiers:
   celex: 32007R0378
   eli: http://data.europa.eu/eli/reg/2007/378/oj
@@ -50,7 +80,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2054c671-b26b-4ccd-ad64-fb6cc2002c34.0017
   content_url: http://publications.europa.eu/resource/cellar/c53b4124-282e-4aa1-82b2-67e6c80396d4.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0378-20111228
-  retrieved_at: '2026-10-22T02:47:53Z'
+  retrieved_at: '2026-10-22T15:08:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T05:06:23.447+01:00'
 integrity:
@@ -59,9 +89,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:53Z'
-  notes: Texto consolidado 02007R0378-20111228.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:08:16Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2007-378.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -119,30 +149,19 @@ relationships:
   source: null
 article_structure:
   article_count: 10
-  section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 5
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:53Z'
+  checked_at: '2026-10-22T15:08:16Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 378/2007 do Conselho, de 27 de Março de 2007
-
-> 2007R0378 — PT — 28.12.2011 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0073) — [REGULAMENTO (CE) N.O 73/2009 DO CONSELHO de 19 de Janeiro de 2009](http://publications.europa.eu/resource/celex/32009R0073) — L 30 — 16 — 31.1.2009
-- [►M2](http://publications.europa.eu/resource/celex/32011R1231) — [REGULAMENTO (UE) N.º 1231/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1231) — L 326 — 24 — 8.12.2011
-
-## REGULAMENTO (CE) N.º 378/2007 DO CONSELHO
 
 de 27 de Março de 2007
 

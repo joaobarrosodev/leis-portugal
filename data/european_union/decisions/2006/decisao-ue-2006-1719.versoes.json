@@ -1,0 +1,750 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006D1719:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006D1719-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "2006-11-24",
+   "future": false,
+   "celex": "32006D1719",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4aedf5071a225516",
+    "9e2b3f20cb74bfbb",
+    "b458ca73bf0f5b63",
+    "239ad0b36e0d0a79",
+    "3c62c564c264c3e7",
+    "29f66a30fc206aea",
+    "5579497a10e5daf5",
+    "3eff1220655af095",
+    "531b21f2731162c0",
+    "780531c715ef56d1",
+    "edd407c43a9dcdf9",
+    "30bd15af1337d592",
+    "48173068c88df8a4",
+    "dfa747072e114a44",
+    "84c0b7cf850b82d2",
+    "67c6ce3e93222080",
+    "94a458f0fa863414",
+    "ac7929c45dc27200",
+    "1ad70c4780f06a5c"
+   ]
+  },
+  {
+   "date": "2008-12-25",
+   "future": false,
+   "celex": "02006D1719-20081225",
+   "acts": [
+    {
+     "id": "eu:celex:32008D1349:por",
+     "title": "DECISÃO N. o 1349/2008/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Dezembro de 2008",
+     "published": null,
+     "celex": "32008D1349"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Notas",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita ANEXO",
+    "Adita ACÇÕES",
+    "Adita Acção 1 — Juventude para a Europa",
+    "Adita 1.1. Intercâmbio de jovens",
+    "Adita 1.2. Apoio às iniciativas dos jovens",
+    "Adita 1.3. Projectos de democracia participativa",
+    "Adita Acção 2 — Serviço Voluntário Europeu",
+    "Adita Acção 3 — Juventude no Mundo",
+    "Adita 3.1. Cooperação com os países vizinhos da União Europeia",
+    "Adita 3.2. Cooperação com outros países",
+    "Adita Acção 4 — Sistemas de apoio à juventude",
+    "Adita 4.1. Apoio aos organismos activos a nível europeu no domínio da juventude",
+    "Adita 4.2. Apoio ao Fórum Europeu da Juventude",
+    "Adita 4.3. Formação e ligação em rede das pessoas que trabalham no sector da juventude e em organizações de juventude",
+    "Adita 4.4. Projectos destinados a fomentar a inovação e a qualidade",
+    "Adita 4.5. Acções de informação destinadas aos jovens e às pessoas que trabalham no sector da juventude e em organizações de juventude",
+    "Adita 4.6. Parcerias",
+    "Adita 4.7. Apoio às estruturas do programa",
+    "Adita 4.8. Valorização do programa",
+    "Adita Acção 5 — Apoio à cooperação europeia em áreas relacionadas com a juventude",
+    "Adita 5.1. Encontros de jovens e de responsáveis pelas políticas de juventude",
+    "Adita 5.2. Apoio a actividades que visem uma melhor compreensão e conhecimento da problemática juvenil",
+    "Adita 5.3. Cooperação com organizações internacionais",
+    "Adita INFORMAÇÃO",
+    "Adita GESTÃO DO PROGRAMA",
+    "Adita Dotações mínimas",
+    "Adita CONTROLOS E AUDITORIAS",
+    "Suprime Artigo 1.º — Instituição do programa",
+    "Suprime Artigo 2.º — Objectivos gerais do programa",
+    "Suprime Artigo 3.º — Objectivos específicos do programa",
+    "Suprime Artigo 4.º — Acções",
+    "Suprime Artigo 5.º — Participação no programa",
+    "Suprime Artigo 6.º — Acesso ao programa",
+    "Suprime Artigo 7.º — Cooperação internacional",
+    "Suprime Artigo 8.º — Execução do programa",
+    "Suprime Artigo 9.º — Comité",
+    "Suprime Artigo 10.º — Medidas de execução",
+    "Suprime Artigo 11.º — Complementaridade com outras acções comunitárias",
+    "Suprime Artigo 12.º — Complementaridade com as políticas e os instrumentos nacionais",
+    "Suprime Artigo 13.º — Disposições financeiras gerais",
+    "Suprime Artigo 14.º — Disposições financeiras relativas aos beneficiários",
+    "Suprime Artigo 15.º — Acompanhamento e avaliação",
+    "Suprime Artigo 16.º — Disposição transitória",
+    "Suprime Artigo 17.º — Entrada em vigor"
+   ],
+   "fragments": [
+    "58949aae3bbd07bd",
+    "93eb8469feef69b5",
+    "92dd77e64d32c9a2",
+    "7c9c5cfb3188e833",
+    "e7c8e02b9303b28e",
+    "71128c1e96953ef1",
+    "fd5c1b91f61727be",
+    "1820c95724c54463",
+    "a8d1cdb7d8a15384",
+    "31a4c2b28be1c854",
+    "732fed4e15459df9",
+    "da8ca068475f064f",
+    "ddaf9f3b2fe90c7c",
+    "78951b8faa3faa52",
+    "9bae99aad09407db",
+    "0b054a71c77a51b6",
+    "98d8a86212eb5c54",
+    "24dadd88795f4422",
+    "530e4c336bfd721b",
+    "cd47f6a07dac3f5e",
+    "45d8ca49984fe54e",
+    "5b6ed233f244a73a",
+    "e267e6c5c3057ea6",
+    "2c1046877d1f6456",
+    "d278eaf7814afeb8",
+    "7d00865b66e36e93",
+    "fe69bcb9be3f96ce",
+    "f9ab3665102dbfae",
+    "d2ba0f79f8a6bfd0",
+    "f439df8e6e00624b",
+    "f563645581774fb5",
+    "bdc0fae6c9f22351",
+    "1603455c3969db2e",
+    "c4ff1b3f4c6a6212",
+    "2a94503064c673fb",
+    "4033caf47d30e97d",
+    "51669db1c95b0874",
+    "ba9c1742a15ffc25",
+    "e87c143366ef502f",
+    "722e2e07b0bbdc77",
+    "0bf0216d4db5c213",
+    "158c7b16f3c5637b",
+    "9a18f6f20d0a6ab9",
+    "370fab4436f50b3e",
+    "144d9f4e14b5b5ae",
+    "e1c160bd28a83e25"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "02006D1719-20140101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime ANEXO",
+    "Suprime ACÇÕES",
+    "Suprime Acção 1 — Juventude para a Europa",
+    "Suprime 1.1. Intercâmbio de jovens",
+    "Suprime 1.2. Apoio às iniciativas dos jovens",
+    "Suprime 1.3. Projectos de democracia participativa",
+    "Suprime Acção 2 — Serviço Voluntário Europeu",
+    "Suprime Acção 3 — Juventude no Mundo",
+    "Suprime 3.1. Cooperação com os países vizinhos da União Europeia",
+    "Suprime 3.2. Cooperação com outros países",
+    "Suprime Acção 4 — Sistemas de apoio à juventude",
+    "Suprime 4.1. Apoio aos organismos activos a nível europeu no domínio da juventude",
+    "Suprime 4.2. Apoio ao Fórum Europeu da Juventude",
+    "Suprime 4.3. Formação e ligação em rede das pessoas que trabalham no sector da juventude e em organizações de juventude",
+    "Suprime 4.4. Projectos destinados a fomentar a inovação e a qualidade",
+    "Suprime 4.5. Acções de informação destinadas aos jovens e às pessoas que trabalham no sector da juventude e em organizações de juventude",
+    "Suprime 4.6. Parcerias",
+    "Suprime 4.7. Apoio às estruturas do programa",
+    "Suprime 4.8. Valorização do programa",
+    "Suprime Acção 5 — Apoio à cooperação europeia em áreas relacionadas com a juventude",
+    "Suprime 5.1. Encontros de jovens e de responsáveis pelas políticas de juventude",
+    "Suprime 5.2. Apoio a actividades que visem uma melhor compreensão e conhecimento da problemática juvenil",
+    "Suprime 5.3. Cooperação com organizações internacionais",
+    "Suprime INFORMAÇÃO",
+    "Suprime GESTÃO DO PROGRAMA",
+    "Suprime Dotações mínimas",
+    "Suprime CONTROLOS E AUDITORIAS",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "98126a0790ea473a"
+   ]
+  }
+ ],
+ "fragments": {
+  "4aedf5071a225516": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Novembro de 2006\n\nque institui o Programa «Juventude em Acção» para o período de 2007 a 2013\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 4 do artigo 149.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntr1-L_2006327PT.01003001-E0001),\n\nTendo em conta o parecer do Comité das Regiões [([^2])](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntr2-L_2006327PT.01003001-E0002),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^3])](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntr3-L_2006327PT.01003001-E0003),\n\nConsiderando o seguinte:\n\n(1) O Tratado que institui a Comunidade Europeia (adiante designado «Tratado») institui a cidadania da União e estabelece que a acção da Comunidade na esfera da educação, da formação profissional e da juventude deverá ter, antes de mais, por objectivo incentivar o desenvolvimento do intercâmbio de jovens e animadores socioeducativos, bem como uma educação de qualidade.\n\n(2) O Tratado da União Europeia funda-se nos princípios da liberdade, da democracia, do respeito pelos direitos do Homem e liberdades fundamentais, da igualdade entre homens e mulheres e da não discriminação. A promoção da cidadania activa dos jovens deve contribuir para o desenvolvimento destes valores.\n\n(3) A Decisão n.º 1031/2000/CE do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntr4-L_2006327PT.01003001-E0004) criou o programa comunitário de acção «Juventude». É conveniente prosseguir e reforçar a cooperação e as acções da Comunidade neste domínio, com base na experiência adquirida com o programa em questão.\n\n(4) A Decisão n.º 790/2004/CE do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntr5-L_2006327PT.01003001-E0005) instituiu um programa de acção comunitário para a promoção de organismos activos no plano europeu no domínio da juventude.\n\n(5) O Conselho Europeu Extraordinário realizado em Lisboa, nos dias 23 e 24 de Março de 2000, estabeleceu um objectivo estratégico para a União que implica, entre outros aspectos, uma política de emprego activa, no quadro da qual se atribua maior importância à educação e formação ao longo da vida, complementada pela estratégia de desenvolvimento sustentável acordada no Conselho Europeu de Göteborg de 15 e 16 de Junho de 2001.\n\n(6) A Declaração de Laeken, anexa às conclusões da Presidência do Conselho Europeu de 14 e 15 de Dezembro de 2001, afirma que um dos desafios fundamentais que se colocam à União consiste em aproximar os cidadãos, e em primeiro lugar os jovens, do projecto europeu e das instituições europeias.\n\n(7) Em 21 de Novembro de 2001, a Comissão adoptou um Livro Branco intitulado «Um novo impulso à juventude europeia», no qual se propõe um quadro de cooperação no domínio da juventude no intuito de reforçar a participação, a informação, as actividades de voluntariado e um melhor conhecimento da juventude. Na sua resolução de 14 de Maio de 2002, o Parlamento Europeu subscreveu estas propostas [([^6])](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntr6-L_2006327PT.01003001-E0006).\n\n(8) A resolução do Conselho e dos representantes dos Governos dos Estados-Membros, reunidos no Conselho de 27 de Junho de 2002 [([^7])](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntr7-L_2006327PT.01003001-E0007), estabelece, em particular, um método aberto de coordenação que abrange as prioridades de participação, informação, actividades de voluntariado dos jovens e melhor conhecimento da juventude, o que deverá ser tido em conta na execução do Programa «Juventude em Acção» (adiante designado «programa»).\n\n(9) Nas suas conclusões de 6 de Maio de 2003 [([^8])](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntr8-L_2006327PT.01003001-E0008), o Conselho sublinha a necessidade de manter e desenvolver os instrumentos comunitários existentes especificamente dirigidos aos jovens, essenciais para o desenvolvimento da cooperação entre os Estados-Membros no domínio da juventude, salientando também que as prioridades e objectivos desses instrumentos deverão ser harmonizados com os do quadro de cooperação europeia em matéria de juventude.\n\n(10) O Conselho Europeu da Primavera de 22 e 23 de Março de 2005 aprovou o Pacto Europeu para a Juventude como um dos instrumentos que contribuem para a realização dos objectivos de Lisboa em matéria de crescimento e emprego. O pacto está centrado em três domínios: emprego, integração e promoção social; educação, formação e mobilidade; conciliação da vida profissional com a vida familiar.\n\n(11) A acção da Comunidade comporta um contributo para uma educação e uma formação de alta qualidade e deve ter por objectivo eliminar as desigualdades e promover a igualdade entre homens e mulheres, nos termos do n.º 2 do artigo 3.º do Tratado.\n\n(12) Importa dar resposta às necessidades específicas das pessoas com deficiência.\n\n(13) É necessário promover a cidadania activa e, ao implementar as linhas de acção, reforçar a luta contra todas as formas de exclusão e discriminação, nomeadamente com base no sexo, raça ou origem étnica, religião ou crença, deficiência, idade ou orientação sexual, nos termos do n.º 1 do artigo 13.º do Tratado.\n\n(14) Aos países candidatos à União Europeia e aos países da EFTA que fazem parte do EEE reconhecem-se as condições necessárias para participar nos programas comunitários, nos termos dos acordos com eles celebrados.\n\n(15) O Conselho Europeu de Salónica, de 19 e 20 de Junho de 2003, adoptou a «Agenda de Salónica para os Balcãs Ocidentais: em direcção a uma integração europeia», que prevê a abertura dos programas comunitários aos países que fazem parte do Processo de Estabilização e de Associação, com base em acordos-quadro a assinar entre a Comunidade e esses países.\n\n(16) Devem prever-se medidas destinadas à abertura do programa à Confederação Suíça.\n\n(17) A Declaração de Barcelona, adoptada na Conferência Euro-Mediterrânica em 1995, afirma que os intercâmbios de jovens deveriam constituir o meio de preparar as gerações futuras para uma cooperação mais estreita entre os parceiros euro-mediterrânicos, no respeito pelos princípios dos direitos humanos e liberdades fundamentais.\n\n(18) Nas suas conclusões de 16 de Junho de 2003, o Conselho, com base na comunicação da Comissão intitulada «A Europa alargada e os países vizinhos: um novo enquadramento para as relações com os nossos vizinhos orientais e meridionais», definiu como vectores de acção da Comunidade a intensificação da cooperação cultural e o reforço da compreensão mútua e da cooperação no domínio da educação e formação com os países vizinhos.\n\n(19) Os relatórios de avaliação intercalar do actual Programa «Juventude», bem como a consulta pública sobre o futuro da acção comunitária em matéria de educação, formação e juventude, revelam uma necessidade premente e, em determinados aspectos, crescente de prosseguir as actividades de cooperação e mobilidade no domínio da juventude a nível europeu, para além de exprimirem o desejo de que a sua execução seja mais simples, acessível e flexível.\n\n(20) De acordo com o princípio da boa gestão financeira, a execução do programa poderá ser simplificada recorrendo a financiamentos fixos no que respeita quer ao apoio concedido aos participantes, quer ao apoio comunitário às estruturas criadas a nível nacional para gerir o programa.\n\n(21) O programa deverá ser objecto de acompanhamento e avaliações regulares, no âmbito da cooperação estabelecida entre a Comissão e os Estados-Membros, de forma a que seja possível proceder a ajustamentos, designadamente das prioridades de execução das medidas. O acompanhamento e as avaliações deverão incluir objectivos e indicadores pertinentes e quantificáveis.\n\n(22) A formulação da base legal do programa deve ser suficientemente flexível para permitir eventuais adaptações das acções, destinadas a dar resposta à evolução das necessidades durante o período de 2007 a 2013 e a evitar as disposições de uma minudência excessiva dos programas anteriores. Assim, a presente decisão limita-se deliberadamente a definições genéricas das acções e das principais disposições administrativas e financeiras que as acompanham.\n\n(23) Haverá que garantir o encerramento do programa nas devidas condições, especialmente no que respeita à continuidade dos mecanismos plurianuais aplicáveis à sua gestão, como o financiamento da assistência técnica e administrativa. A partir de 1 de Janeiro de 2014, a assistência técnica e administrativa assegurará, se necessário, a gestão das acções não concluídas até ao final de 2013.\n\n(24) Devem prever-se normas específicas para a aplicação do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias [([^9])](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntr9-L_2006327PT.01003001-E0009), e das suas normas de execução, bem como derrogações a estes textos ditadas pelas características dos beneficiários e pela natureza das acções.\n\n(25) Deverão ser aplicadas medidas adequadas para prevenir irregularidades e fraudes e para recuperar fundos perdidos ou indevidamente pagos ou utilizados.\n\n(26) A presente decisão estabelece, para a totalidade do período de vigência do programa, um enquadramento financeiro que constitui para a autoridade orçamental a referência privilegiada, na acepção do ponto 37 do Acordo Interinstitucional, de 17 de Maio de 2006, entre o Parlamento Europeu, o Conselho e a Comissão sobre a disciplina orçamental e a boa gestão financeira [([^10])](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntr10-L_2006327PT.01003001-E0010), no âmbito do processo orçamental anual.\n\n(27) Atendendo a que os objectivos da presente decisão não podem ser suficientemente realizados pelos Estados-Membros, na medida em que implicam parcerias multilaterais, medidas de mobilidade transnacionais e trocas de informação a nível europeu, e podem, devido à dimensão transnacional e multilateral das acções e medidas propostas, ser mais bem alcançados a nível comunitário, a Comunidade pode tomar medidas, em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. De acordo com o princípio da proporcionalidade, consagrado no mesmo artigo, a presente decisão não excede o necessário para atingir aqueles objectivos.\n\n(28) As medidas necessárias à execução da presente decisão devem ser adoptadas em conformidade com a Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^11])](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntr11-L_2006327PT.01003001-E0011).\n\n(29) Devem ser adoptadas medidas transitórias para o acompanhamento das acções lançadas antes de 31 de Dezembro de 2006, nos termos da Decisão n.º 1031/2000/CE e da Decisão n.º 790/2004/CE,\n\nDECIDEM:"
+  },
+  "9e2b3f20cb74bfbb": {
+   "fragment_id": "Artigo 1.º — Instituição do programa",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Instituição do programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Instituição do programa\n\n1. É instituído o programa de acção comunitária «Juventude em Acção» (a seguir designado «programa»), destinado a desenvolver a cooperação em matéria de juventude na União Europeia.\n\n2. O programa terá início em 1 de Janeiro de 2007 e terminará em 31 de Dezembro de 2013."
+  },
+  "b458ca73bf0f5b63": {
+   "fragment_id": "Artigo 2.º — Objectivos gerais do programa",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Objectivos gerais do programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos gerais do programa\n\n1. O programa terá como objectivos gerais:\n\na) Promover a cidadania activa dos jovens, em geral, e a sua cidadania europeia, em particular;\n\nb) Desenvolver a solidariedade e promover a tolerância entre os jovens, nomeadamente no intuito de reforçar a coesão social na União Europeia;\n\nc) Incentivar a compreensão mútua entre os jovens de diferentes países;\n\nd) Contribuir para o desenvolvimento da qualidade dos sistemas de apoio às actividades juvenis e da capacidade das organizações da sociedade civil no domínio da juventude;\n\ne) Fomentar a cooperação europeia no domínio da juventude.\n\n2. Os objectivos gerais do programa complementarão os objectivos visados em outros domínios de acção da Comunidade, nomeadamente no da aprendizagem ao longo da vida, incluindo a formação profissional e a aprendizagem não formal e informal, assim como noutros domínios, como a cultura, o desporto e o emprego.\n\n3. Os objectivos gerais do programa contribuirão para o desenvolvimento das políticas da União, em particular no que respeita ao reconhecimento da diversidade cultural, multicultural e linguística da Europa, ao fomento da coesão social e à luta contra todas as formas de discriminação com base no sexo, na origem racial ou étnica, na religião ou crença, na deficiência, na idade ou na orientação sexual, bem como ao desenvolvimento sustentável."
+  },
+  "239ad0b36e0d0a79": {
+   "fragment_id": "Artigo 3.º — Objectivos específicos do programa",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Objectivos específicos do programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos específicos do programa\n\nO programa terá como objectivos específicos:\n\n1. No âmbito do objectivo geral de promover a cidadania activa dos jovens, em geral, e a sua cidadania europeia, em particular: a) Dar aos jovens e às organizações de juventude a oportunidade de participarem no desenvolvimento da sociedade, em geral, e no da União Europeia, em particular; b) Fomentar nos jovens o sentido de pertença à União Europeia; c) Promover a participação dos jovens na vida democrática da Europa; d) Incentivar a mobilidade dos jovens na Europa; e) Desenvolver a aprendizagem intercultural no domínio da juventude; f) Promover os valores fundamentais da União entre os jovens, nomeadamente o respeito pela dignidade humana, a igualdade, os direitos humanos, a tolerância e a não discriminação; g) Estimular o espírito empreendedor e de iniciativa e a criatividade; h) Facilitar a participação no programa de jovens com menos oportunidades, incluindo jovens com deficiência; i) Assegurar o respeito pelo princípio da igualdade entre homens e mulheres na participação no programa e a promoção da igualdade entre os sexos nas acções realizadas; j) Oferecer oportunidades de aprendizagem não formal e informal com dimensão europeia e abrir possibilidades inovadoras no contexto da cidadania activa.\n\na) Dar aos jovens e às organizações de juventude a oportunidade de participarem no desenvolvimento da sociedade, em geral, e no da União Europeia, em particular;\n\nb) Fomentar nos jovens o sentido de pertença à União Europeia;\n\nc) Promover a participação dos jovens na vida democrática da Europa;\n\nd) Incentivar a mobilidade dos jovens na Europa;\n\ne) Desenvolver a aprendizagem intercultural no domínio da juventude;\n\nf) Promover os valores fundamentais da União entre os jovens, nomeadamente o respeito pela dignidade humana, a igualdade, os direitos humanos, a tolerância e a não discriminação;\n\ng) Estimular o espírito empreendedor e de iniciativa e a criatividade;\n\nh) Facilitar a participação no programa de jovens com menos oportunidades, incluindo jovens com deficiência;\n\ni) Assegurar o respeito pelo princípio da igualdade entre homens e mulheres na participação no programa e a promoção da igualdade entre os sexos nas acções realizadas;\n\nj) Oferecer oportunidades de aprendizagem não formal e informal com dimensão europeia e abrir possibilidades inovadoras no contexto da cidadania activa.\n\n2. No âmbito do objectivo geral de desenvolver a solidariedade e promover a tolerância entre os jovens, nomeadamente no intuito de reforçar a coesão social na União Europeia: a) Dar aos jovens a oportunidade de manifestarem o seu empenhamento pessoal através de actividades de voluntariado a nível europeu e internacional; b) Implicar os jovens em acções que promovam a solidariedade entre cidadãos da União Europeia.\n\na) Dar aos jovens a oportunidade de manifestarem o seu empenhamento pessoal através de actividades de voluntariado a nível europeu e internacional;\n\nb) Implicar os jovens em acções que promovam a solidariedade entre cidadãos da União Europeia.\n\n3. No âmbito do objectivo geral de incentivar a compreensão mútua entre os jovens de diferentes países: a) Desenvolver o intercâmbio e o diálogo intercultural entre os jovens europeus e os jovens dos países vizinhos; b) Contribuir para a melhoria da qualidade das estruturas de apoio aos jovens, nesses países, assim como para o reforço do papel das pessoas que trabalham no sector da juventude e em organizações de juventude; c) Desenvolver projectos de cooperação temática com outros países que envolvam jovens e pessoas que trabalham no sector da juventude e em organizações de juventude.\n\na) Desenvolver o intercâmbio e o diálogo intercultural entre os jovens europeus e os jovens dos países vizinhos;\n\nb) Contribuir para a melhoria da qualidade das estruturas de apoio aos jovens, nesses países, assim como para o reforço do papel das pessoas que trabalham no sector da juventude e em organizações de juventude;\n\nc) Desenvolver projectos de cooperação temática com outros países que envolvam jovens e pessoas que trabalham no sector da juventude e em organizações de juventude.\n\n4. No âmbito do objectivo geral de contribuir para o desenvolvimento da qualidade dos sistemas de apoio às actividades juvenis e da capacidade das organizações da sociedade civil no domínio da juventude: a) Contribuir para a articulação em rede das organizações envolvidas; b) Desenvolver a formação e a colaboração entre as pessoas que trabalham no sector da juventude e em organizações de juventude; c) Incentivar a inovação no desenvolvimento de actividades para jovens; d) Contribuir para melhorar a informação dos jovens, prestando especial atenção ao acesso à informação por parte dos jovens com deficiência; e) Apoiar projectos e iniciativas a longo prazo de entidades regionais e locais; f) Facilitar o reconhecimento da aprendizagem não formal dos jovens e das competências adquiridas através da participação no programa; g) Proceder ao intercâmbio de boas práticas.\n\na) Contribuir para a articulação em rede das organizações envolvidas;\n\nb) Desenvolver a formação e a colaboração entre as pessoas que trabalham no sector da juventude e em organizações de juventude;\n\nc) Incentivar a inovação no desenvolvimento de actividades para jovens;\n\nd) Contribuir para melhorar a informação dos jovens, prestando especial atenção ao acesso à informação por parte dos jovens com deficiência;\n\ne) Apoiar projectos e iniciativas a longo prazo de entidades regionais e locais;\n\nf) Facilitar o reconhecimento da aprendizagem não formal dos jovens e das competências adquiridas através da participação no programa;\n\ng) Proceder ao intercâmbio de boas práticas.\n\n5. No âmbito do objectivo geral de fomentar a cooperação europeia no domínio da juventude, tendo na devida conta os aspectos locais e regionais: a) Incentivar o intercâmbio de boas práticas e a cooperação entre administrações e responsáveis políticos a todos os níveis; b) Fomentar um diálogo estruturado entre os responsáveis políticos e os jovens; c) Melhorar o conhecimento e a compreensão da juventude; d) Contribuir para a coordenação entre as várias actividades nacionais e internacionais de voluntariado dos jovens.\n\na) Incentivar o intercâmbio de boas práticas e a cooperação entre administrações e responsáveis políticos a todos os níveis;\n\nb) Fomentar um diálogo estruturado entre os responsáveis políticos e os jovens;\n\nc) Melhorar o conhecimento e a compreensão da juventude;\n\nd) Contribuir para a coordenação entre as várias actividades nacionais e internacionais de voluntariado dos jovens."
+  },
+  "3c62c564c264c3e7": {
+   "fragment_id": "Artigo 4.º — Acções",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Acções\n\nOs objectivos gerais e específicos do programa serão concretizados através das seguintes acções, descritas no anexo.\n\n1. Juventude para a Europa Esta acção tem por objectivo: — apoiar o intercâmbio de jovens, a fim de aumentar a sua mobilidade; — apoiar iniciativas juvenis e projectos e actividades de participação na vida democrática que permitam desenvolver a cidadania e a compreensão mútua entre os jovens.\n\n— apoiar o intercâmbio de jovens, a fim de aumentar a sua mobilidade;\n\n— apoiar iniciativas juvenis e projectos e actividades de participação na vida democrática que permitam desenvolver a cidadania e a compreensão mútua entre os jovens.\n\n2. Serviço Voluntário Europeu Esta acção tem por objectivo apoiar a participação de jovens em diversas formas de voluntariado, dentro e fora da União Europeia.\n\n3. Juventude no Mundo Esta acção tem por objectivo: — apoiar projectos a desenvolver com os países parceiros referidos no n.º 2 do artigo 5.º, nomeadamente o intercâmbio de jovens e de pessoas que trabalhem no sector da juventude e em organizações de juventude; — apoiar iniciativas que reforcem a compreensão mútua entre os jovens e o seu espírito de solidariedade e tolerância, bem como o desenvolvimento da cooperação no domínio da juventude e da sociedade civil naqueles países.\n\n— apoiar projectos a desenvolver com os países parceiros referidos no n.º 2 do artigo 5.º, nomeadamente o intercâmbio de jovens e de pessoas que trabalhem no sector da juventude e em organizações de juventude;\n\n— apoiar iniciativas que reforcem a compreensão mútua entre os jovens e o seu espírito de solidariedade e tolerância, bem como o desenvolvimento da cooperação no domínio da juventude e da sociedade civil naqueles países.\n\n4. Sistemas de apoio à juventude Esta acção tem por objectivo apoiar organismos activos a nível europeu em áreas relacionadas com a juventude, designadamente o funcionamento de organizações não governamentais de juventude, a sua articulação em rede, o aconselhamento de pessoas que desenvolvam projectos, a garantia da qualidade através do intercâmbio, formação e ligação em rede de pessoas que trabalham no sector da juventude e em organizações de juventude, incentivando a inovação e a qualidade, dando informação aos jovens, desenvolvendo as estruturas e actividades necessárias à consecução destes objectivos do programa e promovendo parcerias com autoridades locais e regionais.\n\n5. Apoio à cooperação europeia no domínio da juventude Esta acção tem por objectivo: — organizar um diálogo estruturado entre os diferentes intervenientes nas áreas da juventude, em especial os próprios jovens, as pessoas que trabalham no sector da juventude e em organizações de juventude e os responsáveis políticos; — apoiar seminários para os jovens sobre temas sociais, culturais e políticos que possam suscitar o seu interesse; — contribuir para o desenvolvimento da cooperação política em áreas relacionadas com a juventude; — facilitar o desenvolvimento das ligações em rede necessárias a uma melhor compreensão da juventude.\n\n— organizar um diálogo estruturado entre os diferentes intervenientes nas áreas da juventude, em especial os próprios jovens, as pessoas que trabalham no sector da juventude e em organizações de juventude e os responsáveis políticos;\n\n— apoiar seminários para os jovens sobre temas sociais, culturais e políticos que possam suscitar o seu interesse;\n\n— contribuir para o desenvolvimento da cooperação política em áreas relacionadas com a juventude;\n\n— facilitar o desenvolvimento das ligações em rede necessárias a uma melhor compreensão da juventude."
+  },
+  "29f66a30fc206aea": {
+   "fragment_id": "Artigo 5.º — Participação no programa",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Participação no programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Participação no programa\n\n1. O programa está aberto à participação dos seguintes países, a seguir designados países participantes:«»\n\na) Os Estados-Membros;\n\nb) Os países da EFTA que são partes no Acordo EEE, nos termos do referido acordo;\n\nc) Os países candidatos que beneficiem de uma estratégia de pré-adesão, segundo os princípios gerais e as condições e regras gerais estabelecidas nos acordos-quadro celebrados com estes países tendo em vista a sua participação em programas comunitários;\n\nd) Os países dos Balcãs Ocidentais, segundo regras a definir com estes países na sequência de acordos-quadro que prevejam a sua participação em programas comunitários;\n\ne) A Confederação Suíça, sob reserva da celebração de um acordo bilateral com este país.\n\n2. As acções referidas nos pontos 2 e 3 do anexo estão abertas à cooperação com países terceiros que tenham celebrado com a Comunidade acordos de importância em sectores relacionados com a juventude, a seguir designados «países parceiros».\n\nEsta cooperação basear-se-á, se for caso disso, em dotações adicionais dos países parceiros, que serão disponibilizadas segundo procedimentos a acordar com estes países."
+  },
+  "5579497a10e5daf5": {
+   "fragment_id": "Artigo 6.º — Acesso ao programa",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Acesso ao programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acesso ao programa\n\n1. O programa destina-se a apoiar projectos sem fins lucrativos para jovens, grupos de jovens, pessoas que trabalhem no sector da juventude e em organizações de juventude, organizações e associações sem fins lucrativos e, em casos devidamente justificados, outros parceiros activos em áreas relacionadas com a juventude.\n\n2. Sem prejuízo das regras definidas no anexo para a realização das acções, o programa dirige-se aos jovens entre os 15 e os 28 anos, embora determinadas iniciativas estejam abertas a jovens com idades compreendidas entre os 13 e os 30 anos.\n\n3. Os beneficiários devem residir legalmente num dos países participantes no programa ou, consoante a natureza da acção, num país parceiro.\n\n4. Todos os jovens, sem discriminação, terão acesso às actividades do programa, segundo as normas definidas no anexo. A Comissão e os países participantes assegurarão que se desenvolvam esforços específicos em prol dos jovens com especiais dificuldades em participar no programa por razões de ordem pedagógica, social, física, psicológica, económica ou cultural, ou pelo facto de viverem em regiões remotas.\n\n5. Os países participantes esforçar-se-ão por tomar medidas adequadas para que os participantes no programa possam ter acesso a cuidados de saúde, nos termos do direito comunitário. O país de origem esforçar-se-á por tomar medidas adequadas para que os participantes no Serviço Voluntário Europeu possam conservar os seus direitos à protecção social. Os países participantes procurarão ainda, na medida do possível, adoptar as medidas que considerarem necessárias e desejáveis para remover os obstáculos legais e administrativos ao acesso ao programa."
+  },
+  "3eff1220655af095": {
+   "fragment_id": "Artigo 7.º — Cooperação internacional",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Cooperação internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cooperação internacional\n\nO programa está igualmente aberto à cooperação com organizações internacionais competentes no domínio da juventude, nomeadamente o Conselho da Europa."
+  },
+  "531b21f2731162c0": {
+   "fragment_id": "Artigo 8.º — Execução do programa",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Execução do programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Execução do programa\n\n1. A Comissão garantirá que as acções abrangidas pelo presente programa sejam executadas nos termos do anexo.\n\n2. A Comissão e os países participantes tomarão medidas adequadas para desenvolver estruturas a nível europeu, nacional e, se necessário, regional ou local, de modo a atingir os objectivos do programa e a tirar o máximo proveito das acções nele previstas.\n\n3. A Comissão e os países participantes tomarão medidas adequadas para incentivar o reconhecimento da aprendizagem não formal e informal dos jovens, nomeadamente através de documentos ou certificados que reconheçam a experiência adquirida pelos beneficiários e atestem a participação directa dos jovens ou das pessoas que trabalhem no sector da juventude e em organizações de juventude em qualquer das acções desenvolvidas ao abrigo do programa, sem deixar de ter em conta as especificidades nacionais. Este objectivo poderá ser reforçado através da complementaridade com outras acções comunitárias previstas no artigo 11.º\n\n4. A Comissão, em cooperação com os países participantes, assegurará que os interesses financeiros das Comunidades sejam devidamente protegidos, instituindo para o efeito medidas eficazes, proporcionadas e dissuasivas, bem como inspecções e sanções administrativas.\n\n5. A Comissão e os países participantes assegurarão que as acções apoiadas pelo programa sejam devidamente publicitadas.\n\n6. Os países participantes:\n\na) Tomarão, a nível nacional, as medidas necessárias para assegurar o bom funcionamento do programa, envolvendo as partes interessadas nas várias questões suscitadas pela temática juvenil, de acordo com as práticas nacionais;\n\nb) Criarão ou designarão e garantirão o acompanhamento das agências nacionais competentes para executar as acções do programa a nível nacional, nos termos da alínea c) do n.º 2 do artigo 54.º do Regulamento (CE, Euratom) n.º 1605/2002 e de acordo com os seguintes critérios: i) O organismo criado ou designado como agência nacional deve ser dotado de personalidade jurídica ou fazer parte de uma organização com personalidade jurídica (e reger-se pela lei do país participante). Os ministérios não podem ser designados como agências nacionais; ii) O organismo deve dispor de pessoal em número suficiente e dotado das aptidões adequadas para trabalhar num ambiente de cooperação internacional, de uma infra-estrutura adequada e de um ambiente administrativo que lhe permita evitar conflitos de interesses; iii) O organismo deve ter capacidade para aplicar as regras de gestão de fundos e as condições contratuais estabelecidas a nível comunitário; iv) O organismo deve dar garantias financeiras suficientes (de preferência, vindas de uma autoridade pública) e possuir uma capacidade de gestão consentânea com o volume dos fundos comunitários que lhe competirá gerir;\n\ni) O organismo criado ou designado como agência nacional deve ser dotado de personalidade jurídica ou fazer parte de uma organização com personalidade jurídica (e reger-se pela lei do país participante). Os ministérios não podem ser designados como agências nacionais;\n\nii) O organismo deve dispor de pessoal em número suficiente e dotado das aptidões adequadas para trabalhar num ambiente de cooperação internacional, de uma infra-estrutura adequada e de um ambiente administrativo que lhe permita evitar conflitos de interesses;\n\niii) O organismo deve ter capacidade para aplicar as regras de gestão de fundos e as condições contratuais estabelecidas a nível comunitário;\n\niv) O organismo deve dar garantias financeiras suficientes (de preferência, vindas de uma autoridade pública) e possuir uma capacidade de gestão consentânea com o volume dos fundos comunitários que lhe competirá gerir;\n\nc) Assumirão a responsabilidade pela boa gestão das dotações que sejam transferidas para as agências nacionais referidas na alínea b), com vista à concessão de subvenções a projectos e, nomeadamente, pela observância, por parte das agências nacionais, dos princípios da transparência, igualdade de tratamento e não acumulação com outros fundos comunitários, bem como pelo cumprimento da obrigação de recuperar os fundos eventualmente devidos pelos beneficiários;\n\nd) Tomarão as medidas necessárias para assegurar as auditorias adequadas e a fiscalização financeira das agências nacionais referidas na alínea b) e, nomeadamente: i) Fornecerão à Comissão, antes do início da actividade da agência nacional, as garantias necessárias quanto à existência, pertinência e aplicação dos procedimentos adequados, dos sistemas de controlo e contabilidade e dos procedimentos aplicáveis em matéria de contratos públicos e concessão de subvenções, em conformidade com as regras da boa gestão financeira; ii) Darão à Comissão, no termo de cada exercício orçamental, garantias de fiabilidade dos sistemas financeiros e dos procedimentos das agências nacionais, bem como do rigor das suas contas; iii) Assumirão a responsabilidade pelos fundos eventualmente não recuperados, em caso de irregularidade, negligência ou fraude imputável às agências nacionais referidas na alínea b) que leve a Comissão a ter de recuperar os fundos junto da agência nacional.\n\ni) Fornecerão à Comissão, antes do início da actividade da agência nacional, as garantias necessárias quanto à existência, pertinência e aplicação dos procedimentos adequados, dos sistemas de controlo e contabilidade e dos procedimentos aplicáveis em matéria de contratos públicos e concessão de subvenções, em conformidade com as regras da boa gestão financeira;\n\nii) Darão à Comissão, no termo de cada exercício orçamental, garantias de fiabilidade dos sistemas financeiros e dos procedimentos das agências nacionais, bem como do rigor das suas contas;\n\niii) Assumirão a responsabilidade pelos fundos eventualmente não recuperados, em caso de irregularidade, negligência ou fraude imputável às agências nacionais referidas na alínea b) que leve a Comissão a ter de recuperar os fundos junto da agência nacional.\n\n7. Nos termos previstos no n.º 1 do artigo 10.º, a Comissão pode definir orientações para cada uma das acções referidas no anexo, a fim de adaptar o programa à eventual evolução das prioridades da cooperação europeia em matéria de juventude."
+  },
+  "780531c715ef56d1": {
+   "fragment_id": "Artigo 9.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comité\n\n1. A Comissão será assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de dois meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 3.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\n4. O comité aprovará o seu regulamento interno."
+  },
+  "edd407c43a9dcdf9": {
+   "fragment_id": "Artigo 10.º — Medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas de execução\n\n1. As medidas necessárias à execução da presente decisão que digam respeito às seguintes matérias serão aprovadas nos termos do n. 2 do artigo 9.:\n\na) Normas de execução do programa, incluindo o plano de trabalho anual;\n\nb) Equilíbrio geral entre as diferentes acções do programa;\n\nc) Em matéria de financiamento, critérios (nomeadamente população jovem, PIB e distância geográfica entre países) a aplicar para determinar a repartição indicativa dos fundos entre os Estados-Membros relativamente às acções que devam ser geridas de forma descentralizada;\n\nd) Acompanhamento do acordo referido no ponto 4.2 do anexo, designadamente do plano de trabalho e do relatório anuais do Fórum Europeu da Juventude;\n\ne) Regras de avaliação do programa;\n\nf) Normas de certificação da participação dos jovens nas acções;\n\ng) Formas de adaptar as acções do programa previstas no n.º 7 do artigo 8.º\n\n2. As medidas necessárias à execução da presente decisão que digam respeito a quaisquer outras matérias serão aprovadas nos termos do n.º 3 do artigo 9.º"
+  },
+  "30bd15af1337d592": {
+   "fragment_id": "Artigo 11.º — Complementaridade com outras acções comunitárias",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Complementaridade com outras acções comunitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Complementaridade com outras acções comunitárias\n\n1. A Comissão assegurará a complementaridade entre o programa e outros domínios de acção comunitária, em particular a educação, a formação profissional, a cultura, a cidadania, o desporto, as línguas, o emprego, a saúde, a investigação, as empresas, a acção externa da União, a inclusão social, a igualdade entre homens e mulheres e o combate à discriminação.\n\n2. Quando tal se afigurar compatível, o programa poderá partilhar meios com outros instrumentos comunitários a fim de realizar acções que correspondam a objectivos comuns ao programa e a esses instrumentos.\n\n3. A Comissão e os Estados-Membros assegurarão a valorização das acções do programa que contribuam para a prossecução de objectivos em outros domínios de acção comunitária, tais como a educação, a formação profissional, a cultura e o desporto*,* as línguas, a inclusão social, a igualdade entre homens e mulheres e o combate à discriminação."
+  },
+  "48173068c88df8a4": {
+   "fragment_id": "Artigo 12.º — Complementaridade com as políticas e os instrumentos nacionais",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Complementaridade com as políticas e os instrumentos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Complementaridade com as políticas e os instrumentos nacionais\n\n1. Os países participantes podem solicitar à Comissão o direito de atribuir um rótulo europeu às acções nacionais, regionais ou locais semelhantes às referidas no artigo 4.º\n\n2. Os países participantes podem facultar aos beneficiários do programa fundos nacionais que serão geridos de acordo com as regras do programa e, para o efeito, utilizar as estruturas descentralizadas do programa, desde que assegurem proporcionalmente o respectivo financiamento complementar."
+  },
+  "dfa747072e114a44": {
+   "fragment_id": "Artigo 13.º — Disposições financeiras gerais",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Disposições financeiras gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposições financeiras gerais\n\n1. O enquadramento financeiro para a execução do presente programa, durante o período referido no artigo 1.º, é fixado em 885 000 000 EUR.\n\n2. As dotações anuais serão autorizadas pela autoridade orçamental, no limite do quadro financeiro."
+  },
+  "84c0b7cf850b82d2": {
+   "fragment_id": "Artigo 14.º — Disposições financeiras relativas aos beneficiários",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Disposições financeiras relativas aos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Disposições financeiras relativas aos beneficiários\n\n1. Tanto pessoas colectivas como singulares podem receber subvenções ao abrigo do programa.\n\n2. A Comissão, dependendo das características dos beneficiários e da natureza das acções, pode decidir isentá-los da comprovação das competências e qualificações profissionais requeridas para a realização da acção ou programa de trabalho. A Comissão respeitará o princípio da proporcionalidade ao determinar os requisitos relativos ao montante das ajudas financeiras, em função das características dos beneficiários, da sua idade, da natureza da acção e do montante das ajudas financeiras.\n\n3. Consoante a natureza da acção, as ajudas financeiras poderão assumir a forma de subsídios ou bolsas. A Comissão pode igualmente atribuir prémios a acções ou projectos realizados no âmbito do programa. Consoante a natureza da acção, podem ser autorizados financiamentos fixos e/ou o recurso a tabelas de custos unitários.\n\n4. Os acordos respeitantes a acções subvencionadas deverão ser assinados no prazo de dois meses a contar da concessão das subvenções.\n\n5. As subvenções de funcionamento concedidas no âmbito do programa a organismos que prossigam um fim de interesse geral europeu, definidos no artigo 162.º do Regulamento (CE, Euratom) n.º 2342/2002 da Comissão, de 23 de Dezembro de 2002, que estabelece as normas de execução do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias [([^12])](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntr12-L_2006327PT.01003001-E0012), não terão, em caso de renovação, natureza degressiva, conforme previsto no n.º 2 do artigo 113.º do Regulamento (CE, Euratom) n.º 1605/2002.\n\n6. A Comissão pode, ao abrigo da alínea c) do n.º 2 do artigo 54.º do Regulamento (CE, Euratom) n.º 1605/2002, confiar tarefas de poder público e, nomeadamente, tarefas de execução orçamental às estruturas referidas no n.º 2 do artigo 8.º da presente decisão.\n\n7. Nos termos do n.º 1 do artigo 38.º do Regulamento (CE, Euratom) n.º 2342/2002, a possibilidade prevista no n.º 6 do presente artigo será válida igualmente para as estruturas de todos os países participantes."
+  },
+  "67c6ce3e93222080": {
+   "fragment_id": "Artigo 15.º — Acompanhamento e avaliação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acompanhamento e avaliação\n\n1. A Comissão assegurará o acompanhamento regular do programa à luz dos seus objectivos. O processo de acompanhamento incluirá os relatórios previstos no n.º 3, bem como actividades específicas. Os jovens serão associados às consultas efectuadas pela Comissão no âmbito deste acompanhamento.\n\n2. A Comissão assegurará a avaliação regular, independente e externa do programa.\n\n3. Os países participantes apresentarão à Comissão, até 30 de Junho de 2010, um relatório sobre a execução do programa e, até 30 de Junho de 2015, um relatório sobre o impacto do programa.\n\n4. A Comissão submeterá ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social Europeu e ao Comité das Regiões:\n\na) Até 31 de Março de 2011, um relatório de avaliação intercalar sobre os resultados obtidos e os aspectos qualitativos e quantitativos da execução do programa;\n\nb) Até 31 de Dezembro de 2011, uma comunicação sobre a prossecução do programa;\n\nc) Até 31 de Março de 2016, um relatório de avaliação *ex post*."
+  },
+  "94a458f0fa863414": {
+   "fragment_id": "Artigo 16.º — Disposição transitória",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Disposição transitória\n\nAs acções iniciadas antes de 31 de Dezembro de 2006 com base na Decisão n.º 1031/2000/CE e na Decisão n.º 790/2004/CE continuarão a reger-se, até ao seu termo, pelo disposto nessas decisões.\n\nSe necessário, poderão ser inscritas no orçamento dotações para execução posterior a 2013, de forma a abranger as despesas com a assistência técnica e administrativa necessária para assegurar a gestão das acções não concluídas até 31 de Dezembro de 2013. O comité previsto no artigo 8.º da Decisão n.º 1031/2000/CE será substituído pelo comité previsto no artigo 9.º da presente decisão.\n\nTal como previsto no artigo 18.º do Regulamento (CE, Euratom) n.º 1605/2002, as dotações correspondentes às receitas decorrentes da restituição de montantes pagos indevidamente nos termos da Decisão n.º 1031/2000/CE e da Decisão n.º 790/2004/CE poderão ser afectadas ao programa."
+  },
+  "ac7929c45dc27200": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nA presente decisão entra em vigor no vigésimo dia subsequente ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nA presente decisão é aplicável a partir de 1 de Janeiro de 2007.\n\nFeito em Estrasburgo, em 15 de Novembro de 2006.\n\n***Pelo Parlamento Europeu,***\n\n***O Presidente***\n\n**J. BORRELL FONTELLES**\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**P. LEHTOMÄKI**\n\n---"
+  },
+  "1ad70c4780f06a5c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntc1-L_2006327PT.01003001-E0001) [JO C 234 de 22.9.2005, p. 46](http://publications.europa.eu/resource/oj/JOC_2005_234_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntc2-L_2006327PT.01003001-E0002) [JO C 71 de 22.3.2005, p. 34](http://publications.europa.eu/resource/oj/JOC_2005_071_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntc3-L_2006327PT.01003001-E0003) Parecer do Parlamento Europeu de 25 de Outubro de 2005 (ainda não publicado no Jornal Oficial), posição comum do Conselho de 24 de Julho de 2006 ([JO C 251 E de 17.10.2006, p. 20](http://publications.europa.eu/resource/oj/JOC_2006_251_E_TOC)) e posição do Parlamento Europeu de 25 de Outubro de 2006 (ainda não publicada no Jornal Oficial).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntc4-L_2006327PT.01003001-E0004) [JO L 117 de 18.5.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_117_R_TOC). Decisão com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 885/2004 do Conselho ([JO L 168 de 1.5.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_168_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntc5-L_2006327PT.01003001-E0005) [JO L 138 de 30.4.2004, p. 24](http://publications.europa.eu/resource/oj/JOL_2004_138_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntc6-L_2006327PT.01003001-E0006) [JO C 180 E de 31.7.2003, p. 145](http://publications.europa.eu/resource/oj/JOC_2003_180_E_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntc7-L_2006327PT.01003001-E0007) [JO C 168 de 13.7.2002, p. 2](http://publications.europa.eu/resource/oj/JOC_2002_168_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntc8-L_2006327PT.01003001-E0008) [JO C 115 de 15.5.2003, p. 1](http://publications.europa.eu/resource/oj/JOC_2003_115_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntc9-L_2006327PT.01003001-E0009) [JO L 248 de 16.9.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_248_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntc10-L_2006327PT.01003001-E0010) [JO C 139 de 14.6.2006, p. 1](http://publications.europa.eu/resource/oj/JOC_2006_139_R_TOC).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntc11-L_2006327PT.01003001-E0011) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC). Rectificação no [JO L 269 de 19.10.1999, p. 45](http://publications.europa.eu/resource/oj/JOL_1999_269_R_TOC). Decisão alterada pela Decisão 2006/512/CE ([JO L 200 de 22.7.2006, p. 11](http://publications.europa.eu/resource/oj/JOL_2006_200_R_TOC)).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/e17032b8-236d-4c95-93c4-9cf116057e71.0017.03/DOC_1#ntc12-L_2006327PT.01003001-E0012) [JO L 357 de 31.12.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_357_R_TOC)."
+  },
+  "58949aae3bbd07bd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Novembro de 2006\n\nque institui o Programa «Juventude em Acção» para o período de 2007 a 2013\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 4 do artigo 149.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité das Regiões ([^2^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#E0003)),\n\n(1) O Tratado que institui a Comunidade Europeia (adiante designado «Tratado») institui a cidadania da União e estabelece que a acção da Comunidade na esfera da educação, da formação profissional e da juventude deverá ter, antes de mais, por objectivo incentivar o desenvolvimento do intercâmbio de jovens e animadores socioeducativos, bem como uma educação de qualidade.\n\n(2) O Tratado da União Europeia funda-se nos princípios da liberdade, da democracia, do respeito pelos direitos do Homem e liberdades fundamentais, da igualdade entre homens e mulheres e da não discriminação. A promoção da cidadania activa dos jovens deve contribuir para o desenvolvimento destes valores.\n\n(3) A Decisão n.º 1031/2000/CE do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#E0004)) criou o programa comunitário de acção «Juventude». É conveniente prosseguir e reforçar a cooperação e as acções da Comunidade neste domínio, com base na experiência adquirida com o programa em questão.\n\n(4) A Decisão n.º 790/2004/CE do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#E0005)) instituiu um programa de acção comunitário para a promoção de organismos activos no plano europeu no domínio da juventude.\n\n(5) O Conselho Europeu Extraordinário realizado em Lisboa, nos dias 23 e 24 de Março de 2000, estabeleceu um objectivo estratégico para a União que implica, entre outros aspectos, uma política de emprego activa, no quadro da qual se atribua maior importância à educação e formação ao longo da vida, complementada pela estratégia de desenvolvimento sustentável acordada no Conselho Europeu de Göteborg de 15 e 16 de Junho de 2001.\n\n(6) A Declaração de Laeken, anexa às conclusões da Presidência do Conselho Europeu de 14 e 15 de Dezembro de 2001, afirma que um dos desafios fundamentais que se colocam à União consiste em aproximar os cidadãos, e em primeiro lugar os jovens, do projecto europeu e das instituições europeias.\n\n(7) Em 21 de Novembro de 2001, a Comissão adoptou um Livro Branco intitulado «Um novo impulso à juventude europeia», no qual se propõe um quadro de cooperação no domínio da juventude no intuito de reforçar a participação, a informação, as actividades de voluntariado e um melhor conhecimento da juventude. Na sua resolução de 14 de Maio de 2002, o Parlamento Europeu subscreveu estas propostas ([^6^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#E0006)).\n\n(8) A resolução do Conselho e dos representantes dos Governos dos Estados-Membros, reunidos no Conselho de 27 de Junho de 2002 ([^7^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#E0007)), estabelece, em particular, um método aberto de coordenação que abrange as prioridades de participação, informação, actividades de voluntariado dos jovens e melhor conhecimento da juventude, o que deverá ser tido em conta na execução do Programa «Juventude em Acção» (adiante designado «programa»).\n\n(9) Nas suas conclusões de 6 de Maio de 2003 ([^8^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#E0008)), o Conselho sublinha a necessidade de manter e desenvolver os instrumentos comunitários existentes especificamente dirigidos aos jovens, essenciais para o desenvolvimento da cooperação entre os Estados-Membros no domínio da juventude, salientando também que as prioridades e objectivos desses instrumentos deverão ser harmonizados com os do quadro de cooperação europeia em matéria de juventude.\n\n(10) O Conselho Europeu da Primavera de 22 e 23 de Março de 2005 aprovou o Pacto Europeu para a Juventude como um dos instrumentos que contribuem para a realização dos objectivos de Lisboa em matéria de crescimento e emprego. O pacto está centrado em três domínios: emprego, integração e promoção social; educação, formação e mobilidade; conciliação da vida profissional com a vida familiar.\n\n(11) A acção da Comunidade comporta um contributo para uma educação e uma formação de alta qualidade e deve ter por objectivo eliminar as desigualdades e promover a igualdade entre homens e mulheres, nos termos do n.º 2 do artigo 3.º do Tratado.\n\n(12) Importa dar resposta às necessidades específicas das pessoas com deficiência.\n\n(13) É necessário promover a cidadania activa e, ao implementar as linhas de acção, reforçar a luta contra todas as formas de exclusão e discriminação, nomeadamente com base no sexo, raça ou origem étnica, religião ou crença, deficiência, idade ou orientação sexual, nos termos do n.º 1 do artigo 13.º do Tratado.\n\n(14) Aos países candidatos à União Europeia e aos países da EFTA que fazem parte do EEE reconhecem-se as condições necessárias para participar nos programas comunitários, nos termos dos acordos com eles celebrados.\n\n(15) O Conselho Europeu de Salónica, de 19 e 20 de Junho de 2003, adoptou a «Agenda de Salónica para os Balcãs Ocidentais: em direcção a uma integração europeia», que prevê a abertura dos programas comunitários aos países que fazem parte do Processo de Estabilização e de Associação, com base em acordos-quadro a assinar entre a Comunidade e esses países.\n\n(16) Devem prever-se medidas destinadas à abertura do programa à Confederação Suíça.\n\n(17) A Declaração de Barcelona, adoptada na Conferência Euro-Mediterrânica em 1995, afirma que os intercâmbios de jovens deveriam constituir o meio de preparar as gerações futuras para uma cooperação mais estreita entre os parceiros euro-mediterrânicos, no respeito pelos princípios dos direitos humanos e liberdades fundamentais.\n\n(18) Nas suas conclusões de 16 de Junho de 2003, o Conselho, com base na comunicação da Comissão intitulada «A Europa alargada e os países vizinhos: um novo enquadramento para as relações com os nossos vizinhos orientais e meridionais», definiu como vectores de acção da Comunidade a intensificação da cooperação cultural e o reforço da compreensão mútua e da cooperação no domínio da educação e formação com os países vizinhos.\n\n(19) Os relatórios de avaliação intercalar do actual Programa «Juventude», bem como a consulta pública sobre o futuro da acção comunitária em matéria de educação, formação e juventude, revelam uma necessidade premente e, em determinados aspectos, crescente de prosseguir as actividades de cooperação e mobilidade no domínio da juventude a nível europeu, para além de exprimirem o desejo de que a sua execução seja mais simples, acessível e flexível.\n\n(20) De acordo com o princípio da boa gestão financeira, a execução do programa poderá ser simplificada recorrendo a financiamentos fixos no que respeita quer ao apoio concedido aos participantes, quer ao apoio comunitário às estruturas criadas a nível nacional para gerir o programa.\n\n(21) O programa deverá ser objecto de acompanhamento e avaliações regulares, no âmbito da cooperação estabelecida entre a Comissão e os Estados-Membros, de forma a que seja possível proceder a ajustamentos, designadamente das prioridades de execução das medidas. O acompanhamento e as avaliações deverão incluir objectivos e indicadores pertinentes e quantificáveis.\n\n(22) A formulação da base legal do programa deve ser suficientemente flexível para permitir eventuais adaptações das acções, destinadas a dar resposta à evolução das necessidades durante o período de 2007 a 2013 e a evitar as disposições de uma minudência excessiva dos programas anteriores. Assim, a presente decisão limita-se deliberadamente a definições genéricas das acções e das principais disposições administrativas e financeiras que as acompanham.\n\n(23) Haverá que garantir o encerramento do programa nas devidas condições, especialmente no que respeita à continuidade dos mecanismos plurianuais aplicáveis à sua gestão, como o financiamento da assistência técnica e administrativa. A partir de 1 de Janeiro de 2014, a assistência técnica e administrativa assegurará, se necessário, a gestão das acções não concluídas até ao final de 2013.\n\n(24) Devem prever-se normas específicas para a aplicação do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^9^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#E0009)), e das suas normas de execução, bem como derrogações a estes textos ditadas pelas características dos beneficiários e pela natureza das acções.\n\n(25) Deverão ser aplicadas medidas adequadas para prevenir irregularidades e fraudes e para recuperar fundos perdidos ou indevidamente pagos ou utilizados.\n\n(26) A presente decisão estabelece, para a totalidade do período de vigência do programa, um enquadramento financeiro que constitui para a autoridade orçamental a referência privilegiada, na acepção do ponto 37 do Acordo Interinstitucional, de 17 de Maio de 2006, entre o Parlamento Europeu, o Conselho e a Comissão sobre a disciplina orçamental e a boa gestão financeira ([^10^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#E0010)), no âmbito do processo orçamental anual.\n\n(27) Atendendo a que os objectivos da presente decisão não podem ser suficientemente realizados pelos Estados-Membros, na medida em que implicam parcerias multilaterais, medidas de mobilidade transnacionais e trocas de informação a nível europeu, e podem, devido à dimensão transnacional e multilateral das acções e medidas propostas, ser mais bem alcançados a nível comunitário, a Comunidade pode tomar medidas, em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. De acordo com o princípio da proporcionalidade, consagrado no mesmo artigo, a presente decisão não excede o necessário para atingir aqueles objectivos.\n\n(28) As medidas necessárias à execução da presente decisão devem ser adoptadas em conformidade com a Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^11^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#E0011)).\n\n(29) Devem ser adoptadas medidas transitórias para o acompanhamento das acções lançadas antes de 31 de Dezembro de 2006, nos termos da Decisão n.º 1031/2000/CE e da Decisão n.º 790/2004/CE,\n\nDECIDEM:"
+  },
+  "93eb8469feef69b5": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nInstituição do programa\n\n1. É instituído o programa de acção comunitária «Juventude em Acção» (a seguir designado «programa»), destinado a desenvolver a cooperação em matéria de juventude na União Europeia.\n\n2. O programa terá início em 1 de Janeiro de 2007 e terminará em 31 de Dezembro de 2013."
+  },
+  "92dd77e64d32c9a2": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nObjectivos gerais do programa\n\na) Promover a cidadania activa dos jovens, em geral, e a sua cidadania europeia, em particular;\n\nb) Desenvolver a solidariedade e promover a tolerância entre os jovens, nomeadamente no intuito de reforçar a coesão social na União Europeia;\n\nc) Incentivar a compreensão mútua entre os jovens de diferentes países;\n\nd) Contribuir para o desenvolvimento da qualidade dos sistemas de apoio às actividades juvenis e da capacidade das organizações da sociedade civil no domínio da juventude;\n\ne) Fomentar a cooperação europeia no domínio da juventude.\n\n2. Os objectivos gerais do programa complementarão os objectivos visados em outros domínios de acção da Comunidade, nomeadamente no da aprendizagem ao longo da vida, incluindo a formação profissional e a aprendizagem não formal e informal, assim como noutros domínios, como a cultura, o desporto e o emprego.\n\n3. Os objectivos gerais do programa contribuirão para o desenvolvimento das políticas da União, em particular no que respeita ao reconhecimento da diversidade cultural, multicultural e linguística da Europa, ao fomento da coesão social e à luta contra todas as formas de discriminação com base no sexo, na origem racial ou étnica, na religião ou crença, na deficiência, na idade ou na orientação sexual, bem como ao desenvolvimento sustentável."
+  },
+  "7c9c5cfb3188e833": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nObjectivos específicos do programa\n\n1. No âmbito do objectivo geral de promover a cidadania activa dos jovens, em geral, e a sua cidadania europeia, em particular:\n\na) Dar aos jovens e às organizações de juventude a oportunidade de participarem no desenvolvimento da sociedade, em geral, e no da União Europeia, em particular;\n\nb) Fomentar nos jovens o sentido de pertença à União Europeia;\n\nc) Promover a participação dos jovens na vida democrática da Europa;\n\nd) Incentivar a mobilidade dos jovens na Europa;\n\ne) Desenvolver a aprendizagem intercultural no domínio da juventude;\n\nf) Promover os valores fundamentais da União entre os jovens, nomeadamente o respeito pela dignidade humana, a igualdade, os direitos humanos, a tolerância e a não discriminação;\n\ng) Estimular o espírito empreendedor e de iniciativa e a criatividade;\n\nh) Facilitar a participação no programa de jovens com menos oportunidades, incluindo jovens com deficiência;\n\ni) Assegurar o respeito pelo princípio da igualdade entre homens e mulheres na participação no programa e a promoção da igualdade entre os sexos nas acções realizadas;\n\nj) Oferecer oportunidades de aprendizagem não formal e informal com dimensão europeia e abrir possibilidades inovadoras no contexto da cidadania activa.\n\n2. No âmbito do objectivo geral de desenvolver a solidariedade e promover a tolerância entre os jovens, nomeadamente no intuito de reforçar a coesão social na União Europeia:\n\na) Dar aos jovens a oportunidade de manifestarem o seu empenhamento pessoal através de actividades de voluntariado a nível europeu e internacional;\n\nb) Implicar os jovens em acções que promovam a solidariedade entre cidadãos da União Europeia.\n\n3. No âmbito do objectivo geral de incentivar a compreensão mútua entre os jovens de diferentes países:\n\na) Desenvolver o intercâmbio e o diálogo intercultural entre os jovens europeus e os jovens dos países vizinhos;\n\nb) Contribuir para a melhoria da qualidade das estruturas de apoio aos jovens, nesses países, assim como para o reforço do papel das pessoas que trabalham no sector da juventude e em organizações de juventude;\n\nc) Desenvolver projectos de cooperação temática com outros países que envolvam jovens e pessoas que trabalham no sector da juventude e em organizações de juventude.\n\n4. No âmbito do objectivo geral de contribuir para o desenvolvimento da qualidade dos sistemas de apoio às actividades juvenis e da capacidade das organizações da sociedade civil no domínio da juventude:\n\na) Contribuir para a articulação em rede das organizações envolvidas;\n\nb) Desenvolver a formação e a colaboração entre as pessoas que trabalham no sector da juventude e em organizações de juventude;\n\nc) Incentivar a inovação no desenvolvimento de actividades para jovens;\n\nd) Contribuir para melhorar a informação dos jovens, prestando especial atenção ao acesso à informação por parte dos jovens com deficiência;\n\ne) Apoiar projectos e iniciativas a longo prazo de entidades regionais e locais;\n\nf) Facilitar o reconhecimento da aprendizagem não formal dos jovens e das competências adquiridas através da participação no programa;\n\ng) Proceder ao intercâmbio de boas práticas.\n\n5. No âmbito do objectivo geral de fomentar a cooperação europeia no domínio da juventude, tendo na devida conta os aspectos locais e regionais:\n\na) Incentivar o intercâmbio de boas práticas e a cooperação entre administrações e responsáveis políticos a todos os níveis;\n\nb) Fomentar um diálogo estruturado entre os responsáveis políticos e os jovens;\n\nc) Melhorar o conhecimento e a compreensão da juventude;\n\nd) Contribuir para a coordenação entre as várias actividades nacionais e internacionais de voluntariado dos jovens."
+  },
+  "e7c8e02b9303b28e": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAcções\n\n1. Juventude para a Europa\n\n— apoiar o intercâmbio de jovens, a fim de aumentar a sua mobilidade;\n\n— apoiar iniciativas juvenis e projectos e actividades de participação na vida democrática que permitam desenvolver a cidadania e a compreensão mútua entre os jovens.\n\n2. Serviço Voluntário Europeu\n\n3. Juventude no Mundo\n\n— apoiar projectos a desenvolver com os países parceiros referidos no n.º 2 do artigo 5.º, nomeadamente o intercâmbio de jovens e de pessoas que trabalhem no sector da juventude e em organizações de juventude;\n\n— apoiar iniciativas que reforcem a compreensão mútua entre os jovens e o seu espírito de solidariedade e tolerância, bem como o desenvolvimento da cooperação no domínio da juventude e da sociedade civil naqueles países.\n\n4. Sistemas de apoio à juventude\n\n5. Apoio à cooperação europeia no domínio da juventude\n\n— organizar um diálogo estruturado entre os diferentes intervenientes nas áreas da juventude, em especial os próprios jovens, as pessoas que trabalham no sector da juventude e em organizações de juventude e os responsáveis políticos;\n\n— apoiar seminários para os jovens sobre temas sociais, culturais e políticos que possam suscitar o seu interesse;\n\n— contribuir para o desenvolvimento da cooperação política em áreas relacionadas com a juventude;\n\n— facilitar o desenvolvimento das ligações em rede necessárias a uma melhor compreensão da juventude."
+  },
+  "71128c1e96953ef1": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nParticipação no programa\n\na) Os Estados-Membros;\n\nb) Os países da EFTA que são partes no Acordo EEE, nos termos do referido acordo;\n\nc) Os países candidatos que beneficiem de uma estratégia de pré-adesão, segundo os princípios gerais e as condições e regras gerais estabelecidas nos acordos-quadro celebrados com estes países tendo em vista a sua participação em programas comunitários;\n\nd) Os países dos Balcãs Ocidentais, segundo regras a definir com estes países na sequência de acordos-quadro que prevejam a sua participação em programas comunitários;\n\ne) A Confederação Suíça, sob reserva da celebração de um acordo bilateral com este país.\n\n2. As acções referidas nos pontos 2 e 3 do anexo estão abertas à cooperação com países terceiros que tenham celebrado com a Comunidade acordos de importância em sectores relacionados com a juventude, a seguir designados «países parceiros».\n\nEsta cooperação basear-se-á, se for caso disso, em dotações adicionais dos países parceiros, que serão disponibilizadas segundo procedimentos a acordar com estes países."
+  },
+  "fd5c1b91f61727be": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAcesso ao programa\n\n1. O programa destina-se a apoiar projectos sem fins lucrativos para jovens, grupos de jovens, pessoas que trabalhem no sector da juventude e em organizações de juventude, organizações e associações sem fins lucrativos e, em casos devidamente justificados, outros parceiros activos em áreas relacionadas com a juventude.\n\n2. Sem prejuízo das regras definidas no anexo para a realização das acções, o programa dirige-se aos jovens entre os 15 e os 28 anos, embora determinadas iniciativas estejam abertas a jovens com idades compreendidas entre os 13 e os 30 anos.\n\n3. Os beneficiários devem residir legalmente num dos países participantes no programa ou, consoante a natureza da acção, num país parceiro.\n\n4. Todos os jovens, sem discriminação, terão acesso às actividades do programa, segundo as normas definidas no anexo. A Comissão e os países participantes assegurarão que se desenvolvam esforços específicos em prol dos jovens com especiais dificuldades em participar no programa por razões de ordem pedagógica, social, física, psicológica, económica ou cultural, ou pelo facto de viverem em regiões remotas.\n\n5. Os países participantes esforçar-se-ão por tomar medidas adequadas para que os participantes no programa possam ter acesso a cuidados de saúde, nos termos do direito comunitário. O país de origem esforçar-se-á por tomar medidas adequadas para que os participantes no Serviço Voluntário Europeu possam conservar os seus direitos à protecção social. Os países participantes procurarão ainda, na medida do possível, adoptar as medidas que considerarem necessárias e desejáveis para remover os obstáculos legais e administrativos ao acesso ao programa."
+  },
+  "1820c95724c54463": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nCooperação internacional\n\nO programa está igualmente aberto à cooperação com organizações internacionais competentes no domínio da juventude, nomeadamente o Conselho da Europa."
+  },
+  "a8d1cdb7d8a15384": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nExecução do programa\n\n1. A Comissão garantirá que as acções abrangidas pelo presente programa sejam executadas nos termos do anexo.\n\n2. A Comissão e os países participantes tomarão medidas adequadas para desenvolver estruturas a nível europeu, nacional e, se necessário, regional ou local, de modo a atingir os objectivos do programa e a tirar o máximo proveito das acções nele previstas.\n\n3. A Comissão e os países participantes tomarão medidas adequadas para incentivar o reconhecimento da aprendizagem não formal e informal dos jovens, nomeadamente através de documentos ou certificados que reconheçam a experiência adquirida pelos beneficiários e atestem a participação directa dos jovens ou das pessoas que trabalhem no sector da juventude e em organizações de juventude em qualquer das acções desenvolvidas ao abrigo do programa, sem deixar de ter em conta as especificidades nacionais. Este objectivo poderá ser reforçado através da complementaridade com outras acções comunitárias previstas no artigo 11.º\n\n4. A Comissão, em cooperação com os países participantes, assegurará que os interesses financeiros das Comunidades sejam devidamente protegidos, instituindo para o efeito medidas eficazes, proporcionadas e dissuasivas, bem como inspecções e sanções administrativas.\n\n5. A Comissão e os países participantes assegurarão que as acções apoiadas pelo programa sejam devidamente publicitadas.\n\na) Tomarão, a nível nacional, as medidas necessárias para assegurar o bom funcionamento do programa, envolvendo as partes interessadas nas várias questões suscitadas pela temática juvenil, de acordo com as práticas nacionais;\n\nb) Criarão ou designarão e garantirão o acompanhamento das agências nacionais competentes para executar as acções do programa a nível nacional, nos termos da alínea c) do n.º 2 do artigo 54.º do Regulamento (CE, Euratom) n.º 1605/2002 e de acordo com os seguintes critérios:\n\ni) O organismo criado ou designado como agência nacional deve ser dotado de personalidade jurídica ou fazer parte de uma organização com personalidade jurídica (e reger-se pela lei do país participante). Os ministérios não podem ser designados como agências nacionais;\n\nii) O organismo deve dispor de pessoal em número suficiente e dotado das aptidões adequadas para trabalhar num ambiente de cooperação internacional, de uma infra-estrutura adequada e de um ambiente administrativo que lhe permita evitar conflitos de interesses;\n\niii) O organismo deve ter capacidade para aplicar as regras de gestão de fundos e as condições contratuais estabelecidas a nível comunitário;\n\niv) O organismo deve dar garantias financeiras suficientes (de preferência, vindas de uma autoridade pública) e possuir uma capacidade de gestão consentânea com o volume dos fundos comunitários que lhe competirá gerir;\n\nc) Assumirão a responsabilidade pela boa gestão das dotações que sejam transferidas para as agências nacionais referidas na alínea b), com vista à concessão de subvenções a projectos e, nomeadamente, pela observância, por parte das agências nacionais, dos princípios da transparência, igualdade de tratamento e não acumulação com outros fundos comunitários, bem como pelo cumprimento da obrigação de recuperar os fundos eventualmente devidos pelos beneficiários;\n\nd) Tomarão as medidas necessárias para assegurar as auditorias adequadas e a fiscalização financeira das agências nacionais referidas na alínea b) e, nomeadamente:\n\ni) Fornecerão à Comissão, antes do início da actividade da agência nacional, as garantias necessárias quanto à existência, pertinência e aplicação dos procedimentos adequados, dos sistemas de controlo e contabilidade e dos procedimentos aplicáveis em matéria de contratos públicos e concessão de subvenções, em conformidade com as regras da boa gestão financeira;\n\nii) Darão à Comissão, no termo de cada exercício orçamental, garantias de fiabilidade dos sistemas financeiros e dos procedimentos das agências nacionais, bem como do rigor das suas contas;\n\niii) Assumirão a responsabilidade pelos fundos eventualmente não recuperados, em caso de irregularidade, negligência ou fraude imputável às agências nacionais referidas na alínea b) que leve a Comissão a ter de recuperar os fundos junto da agência nacional.\n\n7. Nos termos previstos no n.º 1 do artigo 10.º, a Comissão pode definir orientações para cada uma das acções referidas no anexo, a fim de adaptar o programa à eventual evolução das prioridades da cooperação europeia em matéria de juventude."
+  },
+  "31a4c2b28be1c854": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nComité\n\n1. A Comissão será assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de dois meses.\n\n4. O comité aprovará o seu regulamento interno."
+  },
+  "732fed4e15459df9": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nMedidas de execução\n\na) Normas de execução do programa, incluindo o plano de trabalho anual;\n\nb) Equilíbrio geral entre as diferentes acções do programa;\n\nc) Em matéria de financiamento, critérios (nomeadamente população jovem, PIB e distância geográfica entre países) a aplicar para determinar a repartição indicativa dos fundos entre os Estados-Membros relativamente às acções que devam ser geridas de forma descentralizada;\n\nd) Acompanhamento do acordo referido no ponto 4.2 do anexo, designadamente do plano de trabalho e do relatório anuais do Fórum Europeu da Juventude;\n\ne) Regras de avaliação do programa;\n\nf) Normas de certificação da participação dos jovens nas acções;\n\ng) Formas de adaptar as acções do programa previstas no n.º 7 do artigo 8.º\n\n2. A Comissão informa o comité referido no artigo 9.º e o Parlamento Europeu sobre quaisquer outras decisões de selecção que tenha tomado em aplicação da presente decisão no prazo de dois dias úteis a contar da aprovação das decisões em causa. Esta informação deve incluir uma descrição e uma análise das candidaturas recebidas, uma descrição do processo de avaliação e selecção, e listas dos projectos propostos para financiamento e dos projectos rejeitados."
+  },
+  "da8ca068475f064f": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nComplementaridade com outras acções comunitárias\n\n1. A Comissão assegurará a complementaridade entre o programa e outros domínios de acção comunitária, em particular a educação, a formação profissional, a cultura, a cidadania, o desporto, as línguas, o emprego, a saúde, a investigação, as empresas, a acção externa da União, a inclusão social, a igualdade entre homens e mulheres e o combate à discriminação.\n\n2. Quando tal se afigurar compatível, o programa poderá partilhar meios com outros instrumentos comunitários a fim de realizar acções que correspondam a objectivos comuns ao programa e a esses instrumentos.\n\n3. A Comissão e os Estados-Membros assegurarão a valorização das acções do programa que contribuam para a prossecução de objectivos em outros domínios de acção comunitária, tais como a educação, a formação profissional, a cultura e o desporto*,* as línguas, a inclusão social, a igualdade entre homens e mulheres e o combate à discriminação."
+  },
+  "ddaf9f3b2fe90c7c": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nComplementaridade com as políticas e os instrumentos nacionais\n\n1. Os países participantes podem solicitar à Comissão o direito de atribuir um rótulo europeu às acções nacionais, regionais ou locais semelhantes às referidas no artigo 4.º\n\n2. Os países participantes podem facultar aos beneficiários do programa fundos nacionais que serão geridos de acordo com as regras do programa e, para o efeito, utilizar as estruturas descentralizadas do programa, desde que assegurem proporcionalmente o respectivo financiamento complementar."
+  },
+  "78951b8faa3faa52": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nDisposições financeiras gerais\n\n1. O enquadramento financeiro para a execução do presente programa, durante o período referido no artigo 1.º, é fixado em 885 000 000 EUR.\n\n2. As dotações anuais serão autorizadas pela autoridade orçamental, no limite do quadro financeiro."
+  },
+  "9bae99aad09407db": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nDisposições financeiras relativas aos beneficiários\n\n1. Tanto pessoas colectivas como singulares podem receber subvenções ao abrigo do programa.\n\n2. A Comissão, dependendo das características dos beneficiários e da natureza das acções, pode decidir isentá-los da comprovação das competências e qualificações profissionais requeridas para a realização da acção ou programa de trabalho. A Comissão respeitará o princípio da proporcionalidade ao determinar os requisitos relativos ao montante das ajudas financeiras, em função das características dos beneficiários, da sua idade, da natureza da acção e do montante das ajudas financeiras.\n\n3. Consoante a natureza da acção, as ajudas financeiras poderão assumir a forma de subsídios ou bolsas. A Comissão pode igualmente atribuir prémios a acções ou projectos realizados no âmbito do programa. Consoante a natureza da acção, podem ser autorizados financiamentos fixos e/ou o recurso a tabelas de custos unitários.\n\n4. Os acordos respeitantes a acções subvencionadas deverão ser assinados no prazo de dois meses a contar da concessão das subvenções.\n\n5. As subvenções de funcionamento concedidas no âmbito do programa a organismos que prossigam um fim de interesse geral europeu, definidos no artigo 162.º do Regulamento (CE, Euratom) n.º 2342/2002 da Comissão, de 23 de Dezembro de 2002, que estabelece as normas de execução do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^12^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#E0012)), não terão, em caso de renovação, natureza degressiva, conforme previsto no n.º 2 do artigo 113.º do Regulamento (CE, Euratom) n.º 1605/2002.\n\n6. A Comissão pode, ao abrigo da alínea c) do n.º 2 do artigo 54.º do Regulamento (CE, Euratom) n.º 1605/2002, confiar tarefas de poder público e, nomeadamente, tarefas de execução orçamental às estruturas referidas no n.º 2 do artigo 8.º da presente decisão.\n\n7. Nos termos do n.º 1 do artigo 38.º do Regulamento (CE, Euratom) n.º 2342/2002, a possibilidade prevista no n.º 6 do presente artigo será válida igualmente para as estruturas de todos os países participantes."
+  },
+  "0b054a71c77a51b6": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nAcompanhamento e avaliação\n\n1. A Comissão assegurará o acompanhamento regular do programa à luz dos seus objectivos. O processo de acompanhamento incluirá os relatórios previstos no n.º 3, bem como actividades específicas. Os jovens serão associados às consultas efectuadas pela Comissão no âmbito deste acompanhamento.\n\n2. A Comissão assegurará a avaliação regular, independente e externa do programa.\n\n3. Os países participantes apresentarão à Comissão, até 30 de Junho de 2010, um relatório sobre a execução do programa e, até 30 de Junho de 2015, um relatório sobre o impacto do programa.\n\na) Até 31 de Março de 2011, um relatório de avaliação intercalar sobre os resultados obtidos e os aspectos qualitativos e quantitativos da execução do programa;\n\nb) Até 31 de Dezembro de 2011, uma comunicação sobre a prossecução do programa;\n\nc) Até 31 de Março de 2016, um relatório de avaliação *ex post*."
+  },
+  "98d8a86212eb5c54": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nDisposição transitória\n\nAs acções iniciadas antes de 31 de Dezembro de 2006 com base na Decisão n.º 1031/2000/CE e na Decisão n.º 790/2004/CE continuarão a reger-se, até ao seu termo, pelo disposto nessas decisões.\n\nSe necessário, poderão ser inscritas no orçamento dotações para execução posterior a 2013, de forma a abranger as despesas com a assistência técnica e administrativa necessária para assegurar a gestão das acções não concluídas até 31 de Dezembro de 2013. O comité previsto no artigo 8.º da Decisão n.º 1031/2000/CE será substituído pelo comité previsto no artigo 9.º da presente decisão.\n\nTal como previsto no artigo 18.º do Regulamento (CE, Euratom) n.º 1605/2002, as dotações correspondentes às receitas decorrentes da restituição de montantes pagos indevidamente nos termos da Decisão n.º 1031/2000/CE e da Decisão n.º 790/2004/CE poderão ser afectadas ao programa."
+  },
+  "24dadd88795f4422": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nEntrada em vigor\n\nA presente decisão entra em vigor no vigésimo dia subsequente ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nA presente decisão é aplicável a partir de 1 de Janeiro de 2007."
+  },
+  "530e4c336bfd721b": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nAs acções levadas a cabo para realizar os objectivos gerais e específicos do programa apoiam projectos de dimensão limitada que incentivem a participação activa dos jovens, garantindo simultaneamente a visibilidade da Europa e o impacto dos projectos.\n\nA participação dos jovens no programa não requer experiência ou habilitações específicas, salvo em casos excepcionais.\n\nO programa deverá ser executado de forma acessível.\n\nO programa deverá incentivar a iniciativa, o espírito empreendedor e a criatividade dos jovens, facilitar a participação de jovens com menos oportunidades, incluindo jovens com deficiência, e assegurar que o princípio da igualdade entre homens e mulheres seja respeitado no que se refere à participação no programa e que a igualdade entre os sexos seja promovida em todas as acções.\n\nA participação nas acções é possível desde que se disponha de uma cobertura de seguro adequada, para garantir a protecção dos jovens durante a execução das actividades do programa."
+  },
+  "cd47f6a07dac3f5e": {
+   "fragment_id": "ACÇÕES",
+   "type": "divisao",
+   "heading": "ACÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ACÇÕES\n\nAs acções são concretizadas através das seguintes medidas:"
+  },
+  "45d8ca49984fe54e": {
+   "fragment_id": "Acção 1 — Juventude para a Europa",
+   "type": "divisao",
+   "heading": "Acção 1 — Juventude para a Europa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Acção 1 — Juventude para a Europa\n\nEsta acção visa reforçar a cidadania activa e a compreensão mútua entre os jovens, por intermédio das medidas a seguir indicadas."
+  },
+  "5b6ed233f244a73a": {
+   "fragment_id": "1.1. Intercâmbio de jovens",
+   "type": "divisao",
+   "heading": "1.1. Intercâmbio de jovens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.1. Intercâmbio de jovens\n\nO intercâmbio de jovens permite que um ou mais grupos juvenis sejam acolhidos por um grupo de outro país, a fim de participarem em conjunto num dado programa de actividades. Em princípio, dirigem-se a jovens com idades entre os 13 e os 25 anos.\n\nEstas actividades, baseadas em parcerias transnacionais entre os diversos intervenientes num projecto, implicam a participação activa dos jovens e visam possibilitar-lhes a descoberta de realidades culturais e sociais diferentes e sensibilizá-los para as mesmas, dando-lhes a oportunidade de aprenderem uns com os outros e de reforçarem a sua consciência de cidadãos europeus. O apoio centra-se, prioritariamente, em actividades multilaterais de mobilidade de grupo, mas não exclui actividades bilaterais do mesmo tipo.\n\nOs intercâmbios bilaterais de grupo são tanto mais justificados quanto se trata de uma primeira experiência europeia ou de grupos locais ou de dimensões reduzidas, sem experiência a nível europeu. É de fomentar em especial o intercâmbio de jovens com menos oportunidades, a fim de reforçar a sua participação no programa.\n\nEsta medida apoia ainda actividades de preparação e acompanhamento vocacionadas para o reforço da participação activa dos jovens nos projectos, nomeadamente a nível linguístico e intercultural."
+  },
+  "e267e6c5c3057ea6": {
+   "fragment_id": "1.2. Apoio às iniciativas dos jovens",
+   "type": "divisao",
+   "heading": "1.2. Apoio às iniciativas dos jovens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.2. Apoio às iniciativas dos jovens\n\nEsta medida apoia projectos em que os jovens participem activa e directamente em actividades concebidas por eles próprios e nas quais sejam eles os protagonistas, tendo em vista desenvolver o seu espírito empreendedor e de iniciativa, bem como a sua criatividade. Em princípio, esta medida dirige-se a jovens com idades entre os 18 e os 30 anos, embora determinadas iniciativas possam ser realizadas a partir dos 15 anos, mediante um enquadramento adequado.\n\nEsta medida apoia os projectos de grupo concebidos a nível local, regional e nacional, bem como a ligação em rede de projectos semelhantes realizados em diversos países, no intuito de reforçar o seu carácter europeu e de intensificar a cooperação e o intercâmbio de experiências entre os jovens.\n\nDeve conferir-se especial atenção aos jovens com menos oportunidades."
+  },
+  "2c1046877d1f6456": {
+   "fragment_id": "1.3. Projectos de democracia participativa",
+   "type": "divisao",
+   "heading": "1.3. Projectos de democracia participativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.3. Projectos de democracia participativa\n\nEsta medida apoia a participação dos jovens na vida democrática. Estes projectos e actividades incentivam a participação activa dos jovens na vida comunitária, a nível local, regional, nacional ou internacional.\n\nEm princípio, esta medida dirige-se a jovens com idades entre os 13 e os 30 anos.\n\nOs referidos projectos ou actividades baseiam-se em parcerias internacionais que possibilitem a partilha à escala europeia de ideias, experiências e boas práticas relativas a projectos ou actividades realizados a nível local ou regional, tendo em vista a melhoria da participação dos jovens a diversos níveis. As actividades em questão podem incluir a organização de consultas aos jovens sobre os seus desejos e necessidades, na perspectiva de desenvolver novas abordagens em matéria de participação activa dos jovens numa Europa democrática."
+  },
+  "d278eaf7814afeb8": {
+   "fragment_id": "Acção 2 — Serviço Voluntário Europeu",
+   "type": "divisao",
+   "heading": "Acção 2 — Serviço Voluntário Europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Acção 2 — Serviço Voluntário Europeu\n\nO voluntariado visa desenvolver a solidariedade, promover a cidadania activa e fomentar a compreensão mútua entre os jovens através das medidas a seguir indicadas.\n\nO jovem voluntário participa, num país onde não resida, numa actividade sem fins lucrativos e não remunerada, em benefício da comunidade. O Serviço Voluntário Europeu não deve restringir os empregos remunerados, potenciais ou existentes, nem substituir-se-lhes.\n\nO Serviço Voluntário Europeu tem uma duração não inferior a dois meses, podendo perfazer doze meses. Em casos devidamente justificados, sobretudo a fim de incentivar a participação de jovens com menos oportunidades, podem prever-se períodos mais curtos e também projectos de voluntariado que permitam a participação de grupos de jovens.\n\nEsta medida também apoia projectos de voluntariado que permitam que grupos de jovens participem colectivamente em actividades de dimensão local, regional, nacional, europeia ou internacional numa série de domínios, incluindo, por exemplo, a cultura, o desporto, a protecção civil, o ambiente e a ajuda ao desenvolvimento.\n\nEm casos excepcionais, em função das tarefas a realizar e das situações em que os voluntários sejam colocados, determinados tipos de projectos podem justificar a selecção de candidatos com competências específicas.\n\nEsta medida dirige-se a jovens com idades entre os 18 e os 30 anos, embora determinadas actividades de voluntariado possam ser realizadas a partir dos 16 anos, mediante um enquadramento adequado.\n\nA medida cobre integral ou parcialmente as despesas, o seguro, a alimentação e a deslocação do voluntário, bem como, se for caso disso, um abono adicional para jovens com menos oportunidades.\n\nA medida apoia igualmente as actividades que visem proporcionar formação e orientação pedagógica aos jovens voluntários e coordenar as actividades dos diversos parceiros, bem como as iniciativas que se destinem a tirar partido da experiência adquirida pelos jovens durante o Serviço Voluntário Europeu.\n\nOs Estados-Membros e a Comissão assegurarão que certas normas de qualidade sejam respeitadas: o voluntariado envolve uma dimensão de educação não formal que se manifesta através de actividades pedagógicas, destinadas a preparar os jovens nos planos pessoal, intercultural e técnico, e de uma assistência pessoal contínua. Consideram-se particularmente importantes o estabelecimento de parcerias entre os diversos intervenientes no projecto e a prevenção de riscos."
+  },
+  "7d00865b66e36e93": {
+   "fragment_id": "Acção 3 — Juventude no Mundo",
+   "type": "divisao",
+   "heading": "Acção 3 — Juventude no Mundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Acção 3 — Juventude no Mundo\n\nEsta acção visa fomentar a compreensão mútua entre os povos, num espírito de abertura, e, ao mesmo tempo, contribuir para o desenvolvimento de sistemas de qualidade que apoiem as actividades dos jovens nos países envolvidos. A acção está aberta aos países parceiros do programa."
+  },
+  "fe69bcb9be3f96ce": {
+   "fragment_id": "3.1. Cooperação com os países vizinhos da União Europeia",
+   "type": "divisao",
+   "heading": "3.1. Cooperação com os países vizinhos da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1. Cooperação com os países vizinhos da União Europeia\n\nEsta medida apoia projectos com os países parceiros do programa que são considerados países vizinhos na acepção das disposições da Política Europeia de Vizinhança da União ou nos termos do n.º 2 do artigo 5.º, bem como com a Federação da Rússia e os países dos Balcãs Ocidentais, até que estes preencham os requisitos previstos na alínea d) do n.º 1 do artigo 5.º\n\nEsta medida apoia intercâmbios de jovens — principalmente multilaterais, mas sem excluir os bilaterais — que permitam a diversos grupos de jovens provenientes de países participantes e vizinhos encontrarem-se e realizarem em conjunto um programa de actividades. Em princípio, esta medida dirige-se a jovens com idades entre os 13 e os 25 anos. As actividades em causa, baseadas em parcerias transnacionais entre os diversos intervenientes num projecto, implicam a formação prévia do pessoal de enquadramento, bem como a participação activa dos jovens, e visam permitir que estes descubram realidades socioculturais diferentes e sejam sensibilizados para elas. As actividades vocacionadas para reforçar a participação activa destes jovens nos projectos podem beneficiar de financiamento, nomeadamente quando se trate de uma preparação linguística e intercultural.\n\nDesde que tenham sido criadas nos países vizinhos estruturas nacionais de gestão adequadas, as iniciativas de jovens ou de grupos de jovens concebidas a nível local, regional ou nacional nestes países podem ser apoiadas, quando sejam articuladas com iniciativas similares em países participantes no programa. Trata-se de actividades concebidas pelos próprios jovens nas quais são eles os protagonistas. Em princípio, esta actividade dirige-se a jovens com idades entre os 18 e os 30 anos, embora determinadas iniciativas possam ser realizadas a partir dos 16 anos, mediante um enquadramento adequado.\n\nEsta medida apoia actividades que visem reforçar a capacidade das organizações não governamentais no domínio da juventude e a sua ligação em rede, reconhecendo o importante papel que estas organizações podem desempenhar no desenvolvimento da sociedade civil nos países vizinhos. Abrange a formação das pessoas que trabalham no sector da juventude e em organizações de juventude, bem como o intercâmbio entre elas de experiências, conhecimentos especializados e boas práticas. A medida apoia ainda actividades que facilitem a criação de projectos e parcerias duradouros e de elevada qualidade.\n\nEsta medida apoia igualmente projectos que fomentem a inovação e a qualidade, com vista a introduzir, pôr em prática e promover abordagens inovadoras em áreas relacionadas com a juventude.\n\nPode ser concedido apoio financeiro às acções de informação destinadas a jovens e pessoas que trabalhem no sector da juventude e em organizações de juventude.\n\nEsta medida apoia também acções que promovam a cooperação com os países vizinhos em áreas relacionadas com a juventude, nomeadamente no âmbito da cooperação e intercâmbio de ideias e boas práticas em matéria de juventude, bem como outras medidas de valorização e divulgação dos resultados dos projectos e actividades apoiados no domínio da juventude nos países envolvidos."
+  },
+  "f9ab3665102dbfae": {
+   "fragment_id": "3.2. Cooperação com outros países",
+   "type": "divisao",
+   "heading": "3.2. Cooperação com outros países",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Cooperação com outros países\n\nEsta medida apoia actividades de cooperação no domínio da juventude, nomeadamente o intercâmbio de boas práticas com os outros países parceiros.\n\nAtravés dela, fomenta-se o intercâmbio de pessoas que trabalhem no sector da juventude e em organizações de juventude e a respectiva formação, bem como o desenvolvimento de parcerias e redes entre organizações de juventude.\n\nPodem ser realizados intercâmbios multilaterais e bilaterais de jovens entre estes países e os países participantes, numa base temática.\n\nÉ concedido apoio financeiro às actividades que demonstrem um potencial efeito multiplicador.\n\nNo âmbito da cooperação com países industrializados, esta medida financia apenas os beneficiários europeus dos projectos."
+  },
+  "d2ba0f79f8a6bfd0": {
+   "fragment_id": "Acção 4 — Sistemas de apoio à juventude",
+   "type": "divisao",
+   "heading": "Acção 4 — Sistemas de apoio à juventude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Acção 4 — Sistemas de apoio à juventude\n\nEsta acção visa desenvolver a qualidade das estruturas de apoio aos jovens, apoiar o papel das pessoas que trabalham no sector da juventude e em organizações de juventude, desenvolver a qualidade do programa e incentivar o empenhamento cívico dos jovens no plano europeu, apoiando os organismos activos a nível europeu junto da juventude."
+  },
+  "f439df8e6e00624b": {
+   "fragment_id": "4.1. Apoio aos organismos activos a nível europeu no domínio da juventude",
+   "type": "divisao",
+   "heading": "4.1. Apoio aos organismos activos a nível europeu no domínio da juventude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.1. Apoio aos organismos activos a nível europeu no domínio da juventude\n\nEsta medida apoia o funcionamento das organizações não governamentais activas a nível europeu no domínio da juventude que prossigam um objectivo de interesse geral europeu. As suas actividades devem contribuir para a participação activa dos jovens na vida pública e na sociedade, bem como para a concepção e execução de acções de cooperação europeia em áreas relacionadas com a juventude em sentido lato.\n\n— deve ter sido legalmente constituído há, pelo menos, um ano;\n\n— deve tratar-se de um organismo sem fins lucrativos;\n\n— deve estar estabelecido num dos países participantes, nos termos do n.º 1 do artigo 5.º, ou num de determinados países da Europa Oriental (Bielorrússia, Moldávia, Federação da Rússia, Ucrânia);\n\n— deve exercer as suas actividades a nível europeu, individualmente ou em coordenação com outras associações, e tanto a sua estrutura como as suas actividades devem cobrir, pelo menos, oito países participantes; pode tratar-se de uma rede europeia representativa de organismos activos em áreas relacionadas com a juventude;\n\n— as suas actividades devem observar os princípios subjacentes à acção comunitária no domínio da juventude;\n\n— pode tratar-se de um organismo que desenvolva as suas actividades exclusivamente em prol dos jovens ou de um organismo com uma esfera de acção mais vasta que realize uma parte da sua actividade nesta vertente;\n\n— deve associar os jovens à gestão das actividades que realiza a seu favor.\n\nOs organismos beneficiários são seleccionados com base num convite à apresentação de propostas. Podem ser celebrados acordos-quadro plurianuais de parceria com os organismos seleccionados, o que não exclui, todavia, a possibilidade de lançamento anual de convites à apresentação de propostas para novos beneficiários.\n\n— representação das opiniões e interesses dos jovens em toda a sua diversidade a nível europeu;\n\n— intercâmbios de jovens e serviços de voluntariado;\n\n— aprendizagem não formal e informal e programas de actividades juvenis;\n\n— promoção da aprendizagem e da compreensão interculturais;\n\n— debates sobre questões europeias, as políticas da União Europeia e as políticas de juventude;\n\n— difusão de informações sobre a acção comunitária;\n\n— acções que incentivem a participação e a iniciativa dos jovens.\n\nAo abrigo da presente medida, só serão consideradas para efeitos de determinação da subvenção de funcionamento as despesas necessárias ao bom desenrolar das actividades correntes do organismo seleccionado, designadamente as despesas de pessoal, os encargos gerais (rendas, encargos imobiliários, equipamento, material de escritório, telecomunicações, despesas postais, etc.), as despesas com reuniões internas e as despesas com publicações, informação e divulgação.\n\nA subvenção é concedida sem prejuízo da independência do organismo no que respeita à selecção dos seus membros e à respectiva autonomia na definição pormenorizada das suas actividades.\n\nPelo menos 20% do orçamento dos organismos abrangidos deverá ser co-financiado por fontes não comunitárias."
+  },
+  "f563645581774fb5": {
+   "fragment_id": "4.2. Apoio ao Fórum Europeu da Juventude",
+   "type": "divisao",
+   "heading": "4.2. Apoio ao Fórum Europeu da Juventude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.2. Apoio ao Fórum Europeu da Juventude\n\n— independência do Fórum na selecção dos seus membros, assegurando uma representação tão ampla quanto possível dos diversos tipos de organizações de juventude;\n\n— autonomia do Fórum na definição pormenorizada das suas actividades;\n\n— participação tão ampla quanto possível nas actividades do Fórum das organizações de juventude que não o integrem e de jovens não filiados em organizações;\n\n— contribuição activa do Fórum para os processos políticos que digam respeito aos jovens a nível europeu, designadamente dando resposta às solicitações das instituições europeias sempre que estas consultem a sociedade civil e esclarecendo os seus membros sobre as posições tomadas por estas instituições.\n\nSão elegíveis as despesas de funcionamento e as despesas necessárias à realização das acções do Fórum. Atendendo à necessidade de garantir a continuidade do Fórum, a afectação dos recursos do programa respeitará a seguinte orientação: os recursos anuais afectados ao Fórum não podem ser inferiores a 2 milhões de euros.\n\nPodem ser concedidas subvenções ao Fórum a partir do momento em que sejam recebidos um plano de trabalho e um orçamento adequados. As subvenções podem ser concedidas anualmente ou numa base renovável nos termos de um acordo-quadro de parceria com a Comissão.\n\nPelo menos 20% do orçamento do Fórum deverá ser co-financiado por fontes não comunitárias.\n\n— representar as organizações de juventude junto da União Europeia;\n\n— coordenar as posições dos seus membros em relação à União Europeia;\n\n— veicular informação sobre a juventude junto das instituições europeias;\n\n— veicular informação da União Europeia junto dos conselhos nacionais de juventude e de organizações não governamentais;\n\n— promover e preparar a participação dos jovens na vida democrática;\n\n— contribuir para o novo quadro de cooperação definido pela União Europeia no domínio da juventude;\n\n— contribuir para o desenvolvimento de políticas de juventude, do trabalho juvenil e de oportunidades educativas, bem como para a transmissão de informação relativa aos jovens e o desenvolvimento das estruturas representativas dos jovens através da Europa;\n\n— promover debates e reflexões sobre a juventude na Europa e em outros pontos do globo e sobre a acção da União Europeia em prol dos jovens."
+  },
+  "bdc0fae6c9f22351": {
+   "fragment_id": "4.3. Formação e ligação em rede das pessoas que trabalham no sector da juventude e em organizações de juventude",
+   "type": "divisao",
+   "heading": "4.3. Formação e ligação em rede das pessoas que trabalham no sector da juventude e em organizações de juventude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.3. Formação e ligação em rede das pessoas que trabalham no sector da juventude e em organizações de juventude\n\nEsta medida apoia a formação das pessoas que trabalham no sector da juventude e em organizações de juventude, nomeadamente os responsáveis de projecto, os conselheiros de juventude e os intervenientes pedagógicos nos projectos. Apoia ainda o intercâmbio de experiências, conhecimentos especializados e boas práticas entre as pessoas que trabalham no sector da juventude e em organizações de juventude, bem como a realização de actividades que facilitem a criação de projectos, parcerias e redes duradouros e de elevada qualidade. Neste âmbito, incluem-se, por exemplo, as visitas de observação em contextos de trabalho.\n\nImporta prestar especial atenção às actividades que incentivem a participação dos jovens com maiores dificuldades de participação em acções comunitárias."
+  },
+  "1603455c3969db2e": {
+   "fragment_id": "4.4. Projectos destinados a fomentar a inovação e a qualidade",
+   "type": "divisao",
+   "heading": "4.4. Projectos destinados a fomentar a inovação e a qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.4. Projectos destinados a fomentar a inovação e a qualidade\n\nEsta medida apoia projectos destinados a introduzir, pôr em prática e promover abordagens inovadoras no domínio da juventude. Estas abordagens podem dizer respeito ao conteúdo e aos objectivos, em consonância com a evolução do quadro de cooperação europeia no domínio da juventude, a participação de parceiros de origens diversas e a difusão de informação."
+  },
+  "c4ff1b3f4c6a6212": {
+   "fragment_id": "4.5. Acções de informação destinadas aos jovens e às pessoas que trabalham no sector da juventude e em organizações de juventude",
+   "type": "divisao",
+   "heading": "4.5. Acções de informação destinadas aos jovens e às pessoas que trabalham no sector da juventude e em organizações de juventude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.5. Acções de informação destinadas aos jovens e às pessoas que trabalham no sector da juventude e em organizações de juventude\n\nEsta medida apoia a informação e a comunicação dirigidas aos jovens, mediante a melhoria do acesso destes aos serviços de informação e comunicação relevantes, de forma a incrementar a sua participação na vida pública e a facilitar o pleno desenvolvimento das suas potencialidades enquanto cidadãos activos e responsáveis. Para o efeito, serão apoiadas as actividades a nível europeu e nacional que melhorem o acesso dos jovens aos serviços de informação e comunicação e aumentem a difusão de uma informação de qualidade e a participação dos jovens na elaboração e divulgação da informação.\n\nEsta medida contribui, designadamente, para o desenvolvimento de portais europeus, nacionais, regionais e locais destinados a divulgar informação específica junto dos jovens, recorrendo a meios muito diversos, em especial àqueles que os jovens utilizam com maior frequência. Esta acção pode igualmente apoiar medidas que promovam o empenhamento dos jovens na preparação e difusão de conselhos e produtos de informação compreensíveis, acessíveis e focalizados, de forma a melhorar o acesso de todos os jovens à informação e a sua qualidade. Todas as publicações respeitarão a igualdade e a diversidade."
+  },
+  "2a94503064c673fb": {
+   "fragment_id": "4.6. Parcerias",
+   "type": "divisao",
+   "heading": "4.6. Parcerias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.6. Parcerias\n\nEsta medida permite financiar parcerias com organismos regionais ou locais no intuito de desenvolver, a longo prazo, projectos que combinem diferentes medidas do programa. O financiamento incide sobre os projectos e as actividades de coordenação."
+  },
+  "4033caf47d30e97d": {
+   "fragment_id": "4.7. Apoio às estruturas do programa",
+   "type": "divisao",
+   "heading": "4.7. Apoio às estruturas do programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.7. Apoio às estruturas do programa\n\nEsta medida permite financiar as estruturas previstas no n.º 2 do artigo 8.º, nomeadamente as agências nacionais. Permite igualmente financiar organismos equiparados, como os coordenadores nacionais, os centros de recursos, a rede EURODESK, a Plataforma Euro-mediterrânica da Juventude e as associações de jovens voluntários europeus, que actuem na qualidade de organismos de execução à escala nacional, cumprindo o disposto na alínea c) do n.º 2 e no n.º 3 do artigo 54.º do Regulamento (CE, Euratom) n.º 1605/2002."
+  },
+  "51669db1c95b0874": {
+   "fragment_id": "4.8. Valorização do programa",
+   "type": "divisao",
+   "heading": "4.8. Valorização do programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.8. Valorização do programa\n\nA Comissão pode organizar seminários, colóquios ou reuniões susceptíveis de facilitar a execução do programa, empreender acções de informação, publicação ou divulgação adequadas e proceder à avaliação e ao controlo do programa. É possível financiar estas actividades por meio de subvenções, obtidas através de concursos públicos ou organizadas e financiadas directamente pela Comissão."
+  },
+  "ba9c1742a15ffc25": {
+   "fragment_id": "Acção 5 — Apoio à cooperação europeia em áreas relacionadas com a juventude",
+   "type": "divisao",
+   "heading": "Acção 5 — Apoio à cooperação europeia em áreas relacionadas com a juventude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Acção 5 — Apoio à cooperação europeia em áreas relacionadas com a juventude\n\nEsta acção visa fomentar a cooperação europeia em matéria de política de juventude."
+  },
+  "e87c143366ef502f": {
+   "fragment_id": "5.1. Encontros de jovens e de responsáveis pelas políticas de juventude",
+   "type": "divisao",
+   "heading": "5.1. Encontros de jovens e de responsáveis pelas políticas de juventude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5.1. Encontros de jovens e de responsáveis pelas políticas de juventude\n\nEsta medida apoia actividades que possibilitem a cooperação, a realização de seminários e um diálogo estruturado entre os jovens, as pessoas que trabalham no sector da juventude e em organizações de juventude e os responsáveis pelas políticas de juventude. Estas actividades abrangem, nomeadamente, a promoção da cooperação e do intercâmbio de ideias e boas práticas no domínio da juventude, conferências organizadas pelas presidências da União e outras iniciativas de valorização e divulgação dos resultados dos projectos e das actividades desenvolvidas pela Comunidade neste domínio.\n\nEsta medida abrange a Semana Europeia da Juventude, que pode incluir eventos, nos Estados-Membros e a nível europeu, sobre o trabalho das instituições europeias, acções de diálogo entre os decisores europeus e os jovens e o reconhecimento de projectos de elevada qualidade promovidos pelo programa.\n\nEsta medida pode, nomeadamente, apoiar os objectivos prosseguidos através do método aberto de coordenação no domínio da juventude e do Pacto Europeu para a Juventude, bem como a coordenação entre as actividades de voluntariado dos jovens a nível nacional e internacional."
+  },
+  "722e2e07b0bbdc77": {
+   "fragment_id": "5.2. Apoio a actividades que visem uma melhor compreensão e conhecimento da problemática juvenil",
+   "type": "divisao",
+   "heading": "5.2. Apoio a actividades que visem uma melhor compreensão e conhecimento da problemática juvenil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5.2. Apoio a actividades que visem uma melhor compreensão e conhecimento da problemática juvenil\n\nEsta medida apoia projectos específicos de identificação dos conhecimentos existentes relacionados com temas prioritários no domínio da juventude, estabelecidos no âmbito do método aberto de coordenação, bem como projectos que permitam complementá-los, actualizá-los e facilitar o acesso aos mesmos.\n\nDestina-se igualmente a apoiar o desenvolvimento de métodos que permitam analisar e comparar os resultados de estudos efectuados e garantir a sua qualidade.\n\nO programa pode ainda apoiar actividades de ligação em rede dos diversos intervenientes no domínio da juventude."
+  },
+  "0bf0216d4db5c213": {
+   "fragment_id": "5.3. Cooperação com organizações internacionais",
+   "type": "divisao",
+   "heading": "5.3. Cooperação com organizações internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5.3. Cooperação com organizações internacionais\n\nEsta acção pode destinar-se a apoiar a cooperação da União Europeia com organizações internacionais competentes em áreas relacionadas com a juventude, em particular o Conselho da Europa e as Nações Unidas ou as suas instituições especializadas."
+  },
+  "158c7b16f3c5637b": {
+   "fragment_id": "INFORMAÇÃO",
+   "type": "divisao",
+   "heading": "INFORMAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÃO\n\nSerá criada uma base de dados com informações sobre ideias prevalecentes no que respeita à actividade dos jovens a nível europeu, tendo em vista apresentar exemplos de boas práticas e projectos-piloto.\n\nCaberá à Comissão fornecer um manual que exponha os objectivos, as regras e os procedimentos do programa, explicando em particular os direitos e obrigações legais inerentes à aceitação de uma subvenção."
+  },
+  "9a18f6f20d0a6ab9": {
+   "fragment_id": "GESTÃO DO PROGRAMA",
+   "type": "divisao",
+   "heading": "GESTÃO DO PROGRAMA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GESTÃO DO PROGRAMA"
+  },
+  "370fab4436f50b3e": {
+   "fragment_id": "Dotações mínimas",
+   "type": "divisao",
+   "heading": "Dotações mínimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Dotações mínimas\n\nSem prejuízo do disposto no artigo 13.º, os montantes mínimos a atribuir às acções serão, relativamente ao enquadramento financeiro fixado nesse artigo:\n\nAcção 1: Juventude para a Europa 30%\n\nAcção 2: Serviço Voluntário Europeu 23%\n\nAcção 3: Juventude no Mundo 6%\n\nAcção 4: Sistemas de apoio à juventude 15%\n\nAcção 5: Apoio à cooperação europeia no domínio da juventude 4%\n\nA dotação financeira do programa poderá cobrir igualmente as despesas relativas às actividades de preparação, acompanhamento, controlo, auditoria e avaliação directamente necessárias para a gestão do programa e a realização dos seus objectivos, nomeadamente despesas com estudos, reuniões, acções de informação e publicação, despesas ligadas às redes informáticas com vista à troca de informação, bem como qualquer outra despesa de assistência administrativa e técnica em que a Comissão possa incorrer tendo em vista a gestão do programa."
+  },
+  "144d9f4e14b5b5ae": {
+   "fragment_id": "CONTROLOS E AUDITORIAS",
+   "type": "divisao",
+   "heading": "CONTROLOS E AUDITORIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTROLOS E AUDITORIAS\n\nPara os projectos seleccionados nos termos do n.º 3 do artigo 14.º da presente decisão, é criado um sistema de auditoria por amostragem.\n\nDurante um período de cinco anos a contar da data do último pagamento, os beneficiários de subvenções deverão manter à disposição da Comissão todos os documentos comprovativos das despesas efectuadas. Os beneficiários de subvenções assegurarão, se necessário, que os documentos comprovativos que se encontrem na posse de familiares ou parceiros sejam facultados à Comissão.\n\nA Comissão poderá, quer directamente, quer através dos seus agentes ou de qualquer organismo externo qualificado à sua escolha, efectuar auditorias à utilização das subvenções. Estas auditorias poderão realizar-se durante a vigência do contrato ou nos cinco anos subsequentes à data do pagamento do saldo da subvenção. Caso se justifique, os resultados das auditorias poderão levar a Comissão a decidir recuperar montantes indevidamente pagos.\n\nDeverá ser devidamente facultado ao pessoal da Comissão e ao pessoal externo por esta mandatado o acesso às instalações dos beneficiários e a todas as informações necessárias, inclusive em formato electrónico, para levar a bom termo as auditorias.\n\nO Tribunal de Contas e o Organismo Europeu de Luta Antifraude (OLAF) deverão beneficiar dos mesmos direitos que a Comissão, designadamente o de acesso.\n\nAs decisões tomadas pela Comissão ao abrigo do artigo 10.º, os contratos com as agências nacionais, os acordos com os países terceiros participantes e os contratos e acordos deles decorrentes deverão prever, nomeadamente, que a Comissão ou qualquer representante por ela autorizado, o OLAF e o Tribunal de Contas procedam a inspecções e auditorias, se necessário no local. Estas inspecções podem ser efectuadas junto das agências nacionais e, se tal se justificar, junto dos beneficiários das subvenções.\n\nA Comissão pode igualmente proceder a inspecções no local, nos termos do Regulamento (Euratom, CE) n.º 2185/96 do Conselho, de 11 de Novembro de 1996, relativo às inspecções e verificações no local efectuadas pela Comissão para proteger os interesses financeiros das Comunidades Europeias contra a fraude e outras irregularidades ([^13^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#E0013)).\n\nPara as acções comunitárias referidas na presente decisão, a noção de «irregularidade» a que se refere o n.º 2 do artigo 1.º do Regulamento (CE, Euratom) n.º 2988/95 do Conselho, de 18 de Dezembro de 1995, relativo à protecção dos interesses financeiros das Comunidades Europeias ([^14^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#E0014)), deve ser entendida como qualquer violação de uma disposição do direito comunitário ou qualquer incumprimento de uma obrigação contratual resultante de um acto ou omissão de uma das partes que tenha ou possa ter por efeito lesar o orçamento geral da União Europeia ou orçamentos geridos pelas Comunidades através de uma despesa indevida.\n\n---"
+  },
+  "e1c160bd28a83e25": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#src.E0001)) JO C 234 de 22.9.2005, p. 46.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#src.E0002)) JO C 71 de 22.3.2005, p. 34.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 25 de Outubro de 2005 (ainda não publicado no Jornal Oficial), posição comum do Conselho de 24 de Julho de 2006 (JO C 251 E de 17.10.2006, p. 20) e posição do Parlamento Europeu de 25 de Outubro de 2006 (ainda não publicada no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#src.E0004)) JO L 117 de 18.5.2000, p. 1. Decisão com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 885/2004 do Conselho (JO L 168 de 1.5.2004, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#src.E0005)) JO L 138 de 30.4.2004, p. 24.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#src.E0006)) JO C 180 E de 31.7.2003, p. 145.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#src.E0007)) JO C 168 de 13.7.2002, p. 2.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#src.E0008)) JO C 115 de 15.5.2003, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#src.E0009)) JO L 248 de 16.9.2002, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#src.E0010)) JO C 139 de 14.6.2006, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#src.E0011)) JO L 184 de 17.7.1999, p. 23. Rectificação no JO L 269 de 19.10.1999, p. 45. Decisão alterada pela Decisão 2006/512/CE (JO L 200 de 22.7.2006, p. 11).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#src.E0012)) JO L 357 de 31.12.2002, p. 1.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#src.E0013)) JO L 292 de 15.11.1996, p. 2.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/47e64135-5aeb-4dce-b375-1a64c01b6662.0019.03/DOC_1#src.E0014)) JO L 312 de 23.12.1995, p. 1."
+  },
+  "98126a0790ea473a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2006D1719 — PT — 01.01.2014 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32006D1719) [DECISÃO N.º 1719/2006/CE DO PARLAMENTO EUROPEU E DO CONSELHO,](http://publications.europa.eu/resource/celex/32006D1719) [de 15 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006D1719) [que institui o Programa «Juventude em Acção» para o período de 2007 a 2013](http://publications.europa.eu/resource/celex/32006D1719) (JO L 327, 24.11.2006, p.30)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 1288/2013 do Parlamento Europeu e do Conselho de 11 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1288) — L 347 — 50 — 20.12.2013"
+  }
+ }
+}

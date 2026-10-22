@@ -35,6 +35,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-01-01'
+version_history:
+  file: diretiva-ue-2002-94.versoes.json
+  count: 2
+  source_lastmod: '2009-01-01'
+  versions:
+  - date: '2002-12-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I — DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime CAPÍTULO II — PEDIDOS DE INFORMAÇÃO
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime CAPÍTULO III — PEDIDOS DE NOTIFICAÇÃO
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime CAPÍTULO IV — PEDIDOS DE COBRANÇA OU DE TOMADA DE MEDIDAS CAUTELARES
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º — Os pedidos de cobrança relativos a medidas cautelares podem dizer respeito a qualquer das pessoas
+      referidas no artigo 4.o
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime CAPÍTULO V — TRANSMISSÃO DE COMUNICAÇÕES
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime Artigo 24.º
+    - Suprime CAPÍTULO VI — ÂMBITO E RECUSA DE PEDIDOS DE ASSISTÊNCIA
+    - Suprime Artigo 25.º
+    - Suprime Artigo 26.º
+    - Suprime CAPÍTULO VII — MODALIDADES DE REEMBOLSO
+    - Suprime Artigo 27.º
+    - Suprime Artigo 28.º
+    - Suprime CAPÍTULO VIII — DISPOSIÇÕES FINAIS
+    - Suprime Artigo 29.º
+    - Suprime Artigo 30.º
+    - Suprime Artigo 31.º
 identifiers:
   celex: 32002L0094
   eli: http://data.europa.eu/eli/dir/2002/94/oj
@@ -49,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/564a8cae-615f-408c-b1f8-266c83e2cf36.0010
   content_url: http://publications.europa.eu/resource/cellar/fd7b93e3-1b61-4bfa-828b-d1525ab104ce.0018.04/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0094-20090101
-  retrieved_at: '2026-10-22T02:57:23Z'
+  retrieved_at: '2026-10-22T14:52:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T17:43:17.088+01:00'
 integrity:
@@ -58,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:23Z'
-  notes: Texto consolidado 02002L0094-20090101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:26Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2002-94.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -118,16 +172,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:23Z'
+  checked_at: '2026-10-22T14:52:26Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02002L0094-20030102: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002L0094-20040501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002L0094-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

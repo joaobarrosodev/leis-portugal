@@ -35,6 +35,35 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-06-14'
+version_history:
+  file: diretiva-ue-2003-23.versoes.json
+  count: 3
+  source_lastmod: '2011-06-14'
+  versions:
+  - date: '2003-03-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-02'
+    amending: eu:celex:32009D0874:por
+    amending_title: DECISÃO DA COMISSÃO de 30 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º
+    - Altera ANEXO
+    - Adita Notas
+  - date: '2011-06-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime ANEXO
+    - Suprime Notas
 identifiers:
   celex: 32003L0023
   eli: http://data.europa.eu/eli/dir/2003/23/oj
@@ -49,7 +78,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/54689b46-56a7-433a-a1de-4c74e4ea8cb0.0010
   content_url: http://publications.europa.eu/resource/cellar/98a44c8a-5c7b-4516-a1cd-7eb89b1107fc.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0023-20110614
-  retrieved_at: '2026-10-22T03:11:09Z'
+  retrieved_at: '2026-10-22T14:54:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-13T20:31:08.755+01:00'
 integrity:
@@ -58,9 +87,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:09Z'
-  notes: Texto consolidado 02003L0023-20110614.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:36Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2003-23.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -123,16 +152,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:09Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:54:36Z'
+  warnings: []
   errors: []
 ---
 

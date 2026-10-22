@@ -33,6 +33,80 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-26'
+version_history:
+  file: diretiva-ue-1994-33.versoes.json
+  count: 4
+  source_lastmod: '2019-07-26'
+  versions:
+  - date: '1994-08-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-28'
+    amending: eu:celex:32007L0030:por
+    amending_title: DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de
+      Junho de 2007
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Adita SECÇÃO I
+    - Adita Artigo 1.º — Objecto
+    - Adita Artigo 2.º — Âmbito de aplicação
+    - Adita Artigo 3.º — Definições
+    - Adita Artigo 4.º — Proibição do trabalho infantil
+    - Adita Artigo 5.º — Actividades culturais ou similares
+    - Adita SECÇÃO II
+    - Adita Artigo 6.º — Obrigações gerais das entidades patronais
+    - Adita Artigo 7.º — Vulnerabilidade dos jovens — proibições de trabalho
+    - Adita SECÇÃO III
+    - Adita Artigo 8.º — Tempo de trabalho
+    - Adita Artigo 9.º — Trabalho nocturno
+    - Adita Artigo 10.º — Período de descanso
+    - Adita Artigo 11.º — Descanso anual
+    - Adita Artigo 12.º — Pausas
+    - Adita Artigo 13.º — Trabalho de adolescentes em caso de força maior
+    - Adita SECÇÃO IV
+    - Adita Artigo 14.º — Medidas
+    - Adita Artigo 15.º — Adaptação do anexo
+    - Adita Artigo 16.º — Cláusula de não regressão
+    - Adita Artigo 17.º — Disposições finais
+    - Adita Artigo 17.º-A — Relatório de aplicação
+    - Adita Artigo 18.º
+    - Adita Lista não exaustiva dos agentes, processos e trabalhos
+    - Adita (n.º 2, segundo parágrafo, do artigo 7.º)
+    - Adita I. Agentes
+    - 'Adita 1. Agentes físicos:'
+    - 'Adita 2. Agentes biológicos:'
+    - 'Adita 3. Agentes químicos:'
+    - Adita II. Processos e trabalhos
+    - Adita Notas
+    - Suprime SECÇÃO I — Artigo 1º
+    - Suprime Artigo 2º — Âmbito de aplicação
+    - Suprime Artigo 3º — Definições
+    - Suprime Artigo 4º — Proibição do trabalho infantil
+    - Suprime Artigo 5º — Actividades culturais ou similares
+    - Suprime SECÇÃO II — Artigo 6º
+    - Suprime Artigo 7º — Vulnerabilidade dos jovens - proibições de trabalho
+  - date: '2014-03-25'
+    amending: eu:celex:32014L0027:por
+    amending_title: DIRETIVA 2014/27/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014
+    changes:
+    - Altera preambulo
+    - 'Altera 2. Agentes biológicos:'
+    - 'Altera 3. Agentes químicos:'
+    - Altera II. Processos e trabalhos
+    - Altera Notas
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - 'Altera 2. Agentes biológicos:'
+    - 'Altera 3. Agentes químicos:'
+    - Altera Notas
+    - Adita Artigo 15.º — Alteração do anexo
+    - Adita Artigo 15.º-A — Exercício da delegação
+    - Suprime Artigo 15.º — Adaptação do anexo
 identifiers:
   celex: 31994L0033
   eli: http://data.europa.eu/eli/dir/1994/33/oj
@@ -47,7 +121,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1e50faed-7880-4f63-a910-33ea65375484.0011
   content_url: http://publications.europa.eu/resource/cellar/da4b042e-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0033-20190726
-  retrieved_at: '2026-10-22T02:40:18Z'
+  retrieved_at: '2026-10-22T14:43:08Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T11:00:48.129+01:00'
 integrity:
@@ -56,9 +130,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:18Z'
-  notes: Texto consolidado 01994L0033-20190726.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:43:08Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1994-33.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -149,31 +223,19 @@ relationships:
   date: '2022-11-24'
 article_structure:
   article_count: 20
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:18Z'
+  checked_at: '2026-10-22T14:43:08Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 94/33/CE do Conselho, de 22 de Junho de 1994
-
-> 01994L0033 — PT — 26.07.2019 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007L0030) — [DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007](http://publications.europa.eu/resource/celex/32007L0030) — L 165 — 21 — 27.6.2007
-- [►M2](http://publications.europa.eu/resource/celex/32014L0027) — [DIRETIVA 2014/27/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014L0027) — L 65 — 1 — 5.3.2014
-- [►M3](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-## DIRECTIVA 94/33/CE DO CONSELHO
 
 de 22 de Junho de 1994
 

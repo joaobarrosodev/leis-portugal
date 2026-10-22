@@ -35,6 +35,116 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-05-22'
+version_history:
+  file: regulamento-ue-2003-91.versoes.json
+  count: 5
+  source_lastmod: '2018-05-22'
+  versions:
+  - date: '2003-01-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-01-01'
+    amending: eu:celex:32003R1192:por
+    amending_title: REGULAMENTO (CE) N. o 1192/2003 DA COMISSÃO de 3 de Julho de 2003; REGULAMENTO (CE) N. o 1304/2007 DA
+      COMISSÃO de 7 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 13.º — Entrada em vigor
+    - Adita ANEXO A
+    - Adita ANEXO B
+    - Adita ANEXO C
+    - Adita ANEXO D
+    - Adita ANEXO E
+    - Adita ANEXO F
+    - Adita ANEXO G
+    - Adita ANEXO H
+    - Adita ANEXO I
+    - Adita ANEXO J
+    - Adita NST 2007
+    - Adita ANEXO K
+    - Adita CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS
+    - Adita Notas
+    - Suprime ANEXO A — ESTATÍSTICAS ANUAIS SOBRE TRANSPORTES DE MERCADORIAS - DECLARAÇÃO DETALHADA
+    - Suprime ANEXO B — ESTATÍSTICAS ANUAIS SOBRE TRANSPORTES DE MERCADORIAS - DECLARAÇÃO SIMPLIFICADA
+    - Suprime ANEXO C — ESTATÍSTICAS ANUAIS SPBRE TRANSPORTE DE PASSEIROS - DECLARAÇÃO DECLARADA
+    - Suprime ANEXO D — ESTATÍSTICAS ANUAIS SOBRE TRANSPORTE DE PASSAGEIRO - DECLARAÇÃO SIMPLIFICADA
+    - Suprime ANEXO E — ESTATÍSTICAS TRIMESTRAIS SOBRE TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS
+    - Suprime ANEXO F — ESTATÍSTICAS REGIONAIS SOBRE TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS
+    - Suprime ANEXO G — ESTATÍSTICAS SOBRE FLUXOS DE TRÁFEGO NA REDE FERROVIÁRIA
+    - Suprime ANEXO H — ESTATÍSTICAS SOBRE ACIDENTES
+    - Suprime ANEXO I — LISTA DE EMPRESAS DE TRANSPORTE FERROVIÁRIO
+    - Suprime ANEXO J — NOMENCLATURA DE MERCADORIAS
+    - Suprime ANEXO K — CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS
+  - date: '2009-04-20'
+    amending: eu:celex:32009R0219:por
+    amending_title: REGULAMENTO (CE) n. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Recolha de dados
+    - Altera ANEXO H
+    - Altera CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS
+    - Altera Notas
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Suprime Artigo 10.º — Medidas de execução
+    - Suprime Artigo 11.º — Procedimento
+  - date: '2016-12-13'
+    amending: eu:celex:32016R2032:por
+    amending_title: REGULAMENTO (UE) 2016/2032 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de outubro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Recolha de dados
+    - Altera Artigo 5.º — Fontes de dados
+    - Altera Artigo 8.º — Qualidade das estatísticas
+    - Altera ANEXO C
+    - Altera CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS
+    - Altera Notas
+    - Adita Artigo 7.º — Divulgação
+    - Adita Artigo 9.º — Relatórios de aplicação
+    - Adita Artigo 10.º — Exercício da delegação
+    - Adita Artigo 11.º — Procedimento de comité
+    - Adita ANEXO L
+    - Suprime Artigo 7.º — Difusão
+    - Suprime Artigo 9.º — Relatório
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º — Directiva 80/1177/CEE
+    - Suprime ANEXO B
+    - Suprime ANEXO D
+    - Suprime ANEXO H
+    - Suprime ANEXO I
+  - date: '2018-05-22'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Âmbito
+    - Suprime Artigo 3.º — Definições
+    - Suprime Artigo 4.º — Recolha de dados
+    - Suprime Artigo 5.º — Fontes de dados
+    - Suprime Artigo 6.º — Transmissão de estatísticas ao Eurostat
+    - Suprime Artigo 7.º — Divulgação
+    - Suprime Artigo 8.º — Qualidade das estatísticas
+    - Suprime Artigo 9.º — Relatórios de aplicação
+    - Suprime Artigo 10.º — Exercício da delegação
+    - Suprime Artigo 11.º — Procedimento de comité
+    - Suprime Artigo 13.º — Entrada em vigor
+    - Suprime ANEXO A
+    - Suprime ANEXO C
+    - Suprime ANEXO E
+    - Suprime ANEXO F
+    - Suprime ANEXO G
+    - Suprime ANEXO J
+    - Suprime NST 2007
+    - Suprime ANEXO K
+    - Suprime CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS
+    - Suprime ANEXO L
+    - Suprime Notas
 identifiers:
   celex: 32003R0091
   eli: http://data.europa.eu/eli/reg/2003/91/oj
@@ -49,7 +159,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c8a0397b-3a3e-411d-bd86-0cef55d73056.0010
   content_url: http://publications.europa.eu/resource/cellar/f5c2abe4-56be-4e2a-a272-b05f2bdada3f.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R0091-20180522
-  retrieved_at: '2026-10-22T02:51:50Z'
+  retrieved_at: '2026-10-22T14:55:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T13:29:37.985+01:00'
 integrity:
@@ -58,9 +168,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:50Z'
-  notes: Texto consolidado 02003R0091-20180522.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:26Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2003-91.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -148,16 +258,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:50Z'
+  checked_at: '2026-10-22T14:55:26Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02003R0091-20030724: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

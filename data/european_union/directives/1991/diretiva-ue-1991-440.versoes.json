@@ -1,0 +1,209 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991L0440:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0440-20150617",
+ "dre_path": null,
+ "source_lastmod": "2015-06-17",
+ "versions": [
+  {
+   "date": "1991-08-24",
+   "future": false,
+   "celex": "31991L0440",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ce2825e41ef59084",
+    "16c042153ae516b7",
+    "b0261b9f7ccca78c",
+    "8b32bda14af4af02",
+    "e1e896a1c93acdb7",
+    "4b76f4a254d5741c",
+    "37458fca508bd3c5",
+    "d60c1689149947a3",
+    "4ef9f8f3dc2758f0",
+    "15f569231b14c39a",
+    "5af63424d716563c",
+    "9c17e8680c183196",
+    "46d1b079614c46ca",
+    "04ea4a1199c9d4d3",
+    "5c9d3397c3ed6afa",
+    "6699e0f4da650436",
+    "f54aff636703293c"
+   ]
+  },
+  {
+   "date": "2015-06-17",
+   "future": false,
+   "celex": "01991L0440-20150617",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime SECÇÃO I Objectivo e âmbito de aplicação — Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime SECÇÃO II Independência de gestão das empresas de transporte ferroviário — Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime SECÇÃO IV Saneamento financeiro — Artigo 9o",
+    "Suprime SECÇÃO V Acesso à infra-estrutura ferroviária — Artigo 10o",
+    "Suprime SECÇÃO VI Disposições finais — Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o"
+   ],
+   "fragments": [
+    "468377ff92aa33e0"
+   ]
+  }
+ ],
+ "fragments": {
+  "ce2825e41ef59084": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 91/440/CEE do Conselho, de 29 de Julho de 1991, relativa ao desenvolvimento dos caminhos-de-ferro comunitários** *Jornal Oficial nº L 237 de 24/08/1991 p. 0025 - 0028 Edição especial finlandesa: Capítulo 7 Fascículo 4 p. 0045 Edição especial sueca: Capítulo 7 Fascículo 4 p. 0045*\n\nDIRECTIVA DO CONSELHO de 29 de Julho de 1991 relativa ao desenvolvimento dos caminhos-de-ferro comunitários (91/440/CEE)\n\nO CONSELHO DAS COMMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 75o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Parlamento Europeu(2),\n\nTendo em conta o parecer do Comité Económico e Social(3),\n\nConsiderando que uma maior integração do sector comunitário dos transportes constitui elemento essencial do mercado interno e que os caminhos-de-ferro constituem um elemento vital do sector dos transportes na Comunidade;\n\nConsiderando que haverá que melhorar a eficácia das redes ferroviárias com vista à sua integração num mercado competitivo, tendo simultaneamente em conta as características específicas dos caminhos-de-ferro;\n\nConsiderando que, para tornar os transportes por caminho-de-ferro eficazes e competitivos em relação aos outros meios de transporte, os Estados-membros devem garantir às empresas de transporte ferroviário um estatuto de empresa independente que lhes permita actuar segundo critérios comerciais e adaptarem-se às necessidades do mercado;\n\nConsiderando que o desenvolvimento futuro e uma exploração eficaz da rede ferroviária podem ser facilitados através de uma distinção entre a exploração de serviços de transporte e a exploração das infra-estruturas; que, nestas condições, é necessário que aquelas duas actividades tenham obrigatoriamente contabilidades distintas e possam ser geridas separadamente;\n\nConsiderando que, a fim de estimular a concorrência no domínio da exploração dos serviços de transporte, com vista à melhoria da comodidade e dos serviços prestados aos utentes, é conveniente que os Estados-membros mantenham a responsabilidade geral pelo desenvolvimento de infra-estruturas ferroviárias adequadas;\n\nConsiderando que, na falta de regras comuns relativas à repartição dos custos de infra-estrutura, os Estados-membros, após consulta do gestor da infra-estrutura, devem estabelecer as modalidades que hão-de reger os pagamentos das taxas de utilização da infra-estrutura ferroviária efectuados pelas empresas de transporte ferroviário e pelos agrupamentos dessas empresas; que essas taxas devem obedecer ao princípio de não discriminação entre empresas de transporte ferroviário;\n\nConsiderando que os Estados-membros devem especialmente velar por que as empresas de transporte ferroviário públicas existentes gozem de uma estrutura financeira sã, cuidando ao mesmo tempo por que qualquer reorganização financeira que se revele necessária seja efectuada de acordo com as disposições pertinentes do Tratado;\n\nConsiderando que, com o objectivo de facilitar o transporte entre Estados-membros, as empresas de transporte ferroviário devem ser livres de constituir agrupamentos com empresas de transporte ferroviário estabelecidas noutros Estados-membros;\n\nConsiderando que devem ser concedidos a esses agrupamentos internacionais direitos de acesso e de trânsito no que respeita às infra-estuturas dos Estados-membros em que se encontram estabelecidas as empresas que os constituem, bem como direitos de trânsito nos outros Estados-membros, quando o serviço internacional em causa o exija;\n\nConsiderando que, a fim de promover os transportes combinados, é necessário conceder o acesso à infra-estrutura ferroviária dos demais Estados-membros às empresas de transporte ferroviário que efectuem transportes combinados internacionais de mercadorias;\n\nConsiderando que é necesário instituir um comité consultivo encarregado de assistir a Comissão e acompanhar a aplicação da presente directiva;\n\nConsiderando que, por conseguinte, é conveniente revogar a Decisão 75/327/CEE do Conselho, de 20 de Maio de 1975, relativa ao saneamento da situação das empresas de caminho-de-ferro e à harmonização das regras que regulam as relações financeiras entre essas empresas e os Estados(4),\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "16c042153ae516b7": {
+   "fragment_id": "SECÇÃO I Objectivo e âmbito de aplicação — Artigo 1o",
+   "type": "divisao",
+   "heading": "SECÇÃO I Objectivo e âmbito de aplicação — Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I Objectivo e âmbito de aplicação — Artigo 1o\n\nA presente directiva tem por objectivo facilitar a adaptação dos caminhos-de-ferro comunitários às exigências do mercado único e aumentar a respectiva eficácia:\n\n-através da garantia da independência de gestão das empresas de transporte ferroviário,\n\n-através da separação da gestão da infra-estrutura ferroviária da exploração dos serviços de transporte das empresas de transporte ferroviário, tornando a separação contabilística obrigatória e a separação orgânica ou institucional facultativa,\n\n-através do saneamento da estrutura financeira das empresas de transporte ferroviário,\n\n-através da garantia de direitos de acesso às redes ferroviárias dos Estados-membros, aos agrupamentos internacionais de empresas de transporte ferroviário, bem como às empresas de transporte ferroviário que efectuem transportes combinados internacionais de mercadorias."
+  },
+  "b0261b9f7ccca78c": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. A presente directiva aplica-se à gestão da infra-estrutura ferroviária e às actividades de transporte por caminho-de-ferro das empresas de transporte ferroviário estabelecidas ou que venham a estabelecer-se num Estado-membro.\n\n2. As empresas de transporte ferroviário cuja actividade se limite à exploração de transportes urbanos, suburbanos ou regionais ficam excluídas do âmbito de aplicação da presente directiva."
+  },
+  "8b32bda14af4af02": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nPara efeitos da presente directiva, entende-se por:\n\n-«empresa de transporte ferroviário», qualquer empresa de estatuto privado ou público, cuja actividade principal consista na prestação de serviços de transporte de mercadorias e/ou de passageiros por caminho-de-ferro, devendo a tracção ser obrigatoriamente assegurada por essa empresa,\n\n-«gestor da infra-estrutura», qualquer entidade pública ou empresa encarregada, nomeadamente, da instalação e da manutenção da infra-estrutura ferroviária, bem como da gestão dos sistemas de regulação e de segurança,\n\n-«infra-estrutura ferroviária», o conjunto dos elementos referidos na parte A do anexo I do Regulamento (CEE) n° 2598/70 da Comissão, de 18 de Dezembro de 1970, relativo à fixação do conteúdo das diferentes rubricas dos esquemas de contabilização do anexo I do Regulamento (CEE) n° 1108/70(1), com excepção do último travessão, que, exclusivamente para efeitos da presente directiva, passa a ter a seguinte redacção: «Edifícios afectados ao serviço das infra-estruturas»,\n\n-«agrupamento internacional», qualquer associação de pelo menos duas empresas de transporte ferroviário estabelecidas em Estados-membros diferentes, com vista a fornecer serviços de transporte internacionais entre Estados-membros,\n\n-«serviços urbanos e suburbanos», os serviços de transporte que dêem resposta às necessidades de um centro urbano ou de uma aglomeração, bem como às necessidades de transporte entre esse centro ou essa aglomeração e os respectivos subúrbios,\n\n-«serviços regionais», os serviços de transporte destinados a dar resposta às necessidades de transporte de uma região."
+  },
+  "e1e896a1c93acdb7": {
+   "fragment_id": "SECÇÃO II Independência de gestão das empresas de transporte ferroviário — Artigo 4o",
+   "type": "divisao",
+   "heading": "SECÇÃO II Independência de gestão das empresas de transporte ferroviário — Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II Independência de gestão das empresas de transporte ferroviário — Artigo 4o\n\nOs Estados-membros tomarão as medidas necessárias para que as empresas de transporte ferroviário sejam dotadas de um estatuto de autonomia em matéria de direcção, gestão, administração e controlo administrativo, económico e contabilístico interno, por força do qual disponham, nomeadamente, de um património, um orçamento e uma contabilidade separados do dos Estados."
+  },
+  "4b76f4a254d5741c": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os Estados-membros tomarão as medidas necessárias para permitir que as empresas de transporte ferroviário adaptem as suas actividades ao mercado e as giram sob a responsabilidade dos seus órgãos de direcção, com vista a prestar serviços eficazes e adequados, ao menor custo possível em relação à qualidade de serviço exigido.\n\nAs empresas de transporte ferroviário devem ser geridas segundo os princípios aplicáveis às sociedades comerciais, inclusive no que diz respeito às obrigações de serviço público impostas pelos Estados às empresas e aos contratos de prestação de serviço público, celebrados pelos empresas com as autoridades nacionais competentes dos Estados-membros.\n\n2. As empresas de transporte ferroviário adoptarão os seus próprios programas de actividade, incluindo os planos de investimento e de financiamento. Estes programas serão concebidos tendo como objectivo o equilíbrio financeiro das empresas e a realização dos demais objectivos de gestão técnica, comercial e financeira; devem, além disso, prever os meios que permitam realizar esses objectivos.\n\n3. No âmbito das linhas de orientação de política geral adoptadas pelo Estado e tendo em conta os planos ou contratos nacionais, eventualmente plurianuais, incluindo os planos de investimento e de financiamento, as empresas de transporte ferroviário podem, nomeadamente:\n\n-constituir um agrupamento internacional com outra ou outras empresas ferroviárias,\n\n-definir a sua organização interna, sem prejuízo do disposto na secção III,\n\n-controlar o fornecimento e a comercialização dos serviços e fixar a respectiva tarifação, sem prejuízo do disposto no Regulamento (CEE) n° 1191/69 do Conselho, de 26 de Junho de 1969, relativo à acção dos Estados-membros em matéria de obrigações inerentes à noção de serviço público no domínio dos transportes ferroviários, rodoviários e por via navegável(1),\n\n-tomar decisões relativamente ao pessoal, aos activos e às aquisições próprias,\n\n-desenvolver a respectiva quota de mercado, criar novas tecnologias e novos serviços e adoptar técnicas de gestão inovadoras,\n\n-lançar novas actividades em domínios associados à actividade ferroviária.\n\nSECÇÃO III Separação entre a gestão da infra-estrutura e a actividade de transporte"
+  },
+  "37458fca508bd3c5": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os Estados-membros tomarão as medidas necessárias para garantir, no plano da contabilidade, a separação das actividades relativas à exploração dos serviços de transportes, das actividades relativas à gestão da infra-estrutura ferroviária. A ajuda paga a uma destas duas actividades não poderá ser transferida para a outra.\n\nAs contas relativas às duas actividades serão mantidas de forma a reflectir esta proibição.\n\n2. Os Estados-membros podem, além disso, prever que esta separação comporte divisões orgânicas distintas dentro da mesma empresa ou que a gestão da infra-estrutura seja assegurada por uma entidade distinta."
+  },
+  "d60c1689149947a3": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Os Estados-membros tomarão as medidas necessárias para o desenvolvimento da sua infra-estrutura ferroviária nacional, tendo em conta, se for caso disso, as necessidades globais da Comunidade.\n\nOs Estados-membros assegurarão que sejam definidas normas e regras de segurança e controlada a respectiva aplicação.\n\n2. Os Estados-membros poderão encarregar as empresas de transporte ferroviário ou qualquer outro gestor da gestão desta infra-estrutura e, nomeadamente, da responsabilidade pelos investimentos, da manutenção e do financiamento que tal gestão implica nos planos técnico, comercial e financeiro.\n\n3. Os Estados-membros podem, além disso, conceder ao gestor da infra-estrutura, na observância dos artigos 77o, 92o e 93o do Tratado, um financiamento suficiente em relação às funções, à dimensão e às necessidades financeiras, designadamente para cobrir investimentos novos."
+  },
+  "4ef9f8f3dc2758f0": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nO gestor da infra-estrutura aplicará uma taxa de utilização da infra-estrutura ferroviária de que assegura a gestão, a pagar pelas empresas de transporte ferroviário e pelos agrupamentos internacionais que utilizem essa infra-estrutura. Após terem consultado esse gestor, os Estados-membros definirão as condições de fixação desta taxa.\n\nA taxa de utilização, que será calculada por forma a evitar qualquer discriminação entre empresas ferroviárias, pode, nomeadamente, ter em conta a quilometragem, a composição do comboio e qualquer condicionalismo específico resultante de factores como a velocidade, a carga por eixo e o nível ou o período de utilização da infra-estrutura."
+  },
+  "15f569231b14c39a": {
+   "fragment_id": "SECÇÃO IV Saneamento financeiro — Artigo 9o",
+   "type": "divisao",
+   "heading": "SECÇÃO IV Saneamento financeiro — Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV Saneamento financeiro — Artigo 9o\n\n1. Os Estados-membros instituirão mecanismos adequados, conjuntamente com as empresas de transporte ferroviário públicas existentes, destinados a contribuir para a redução do endividamento dessas empresas, até um nível que não entrave uma gestão financeira sã, e a realizar o saneamento da respectiva situação financeira.\n\n2. Para o efeito, os Estados-membros poderão tomar as medidas necessárias para que a contabilidade dessas empresas seja dotada de um serviço distinto de amortização das dívidas.\n\nPodem ser transferidos para o passivo deste serviço, até completa amortização, todos os empréstimos contraídos pela empresa, tanto para o financiamento de investimentos como para a cobertura dos excedentes das despesas de exploração resultantes da actividade de transporte ferroviário ou da gestão da infra-estrutura ferroviária. As dívidas provenientes de actividades de filiais não poderão ser tidas em conta.\n\n3. A concessão das ajudas dos Estados-membros destinadas à anulação das dívidas a que se refere o presente artigo processar-se-á na observância dos artigos 77o, 92o e 93o do Tratado."
+  },
+  "5af63424d716563c": {
+   "fragment_id": "SECÇÃO V Acesso à infra-estrutura ferroviária — Artigo 10o",
+   "type": "divisao",
+   "heading": "SECÇÃO V Acesso à infra-estrutura ferroviária — Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V Acesso à infra-estrutura ferroviária — Artigo 10o\n\n1. Serão reconhecidos aos agrupamentos internacionais direitos de acesso e de trânsito nos Estados-membros em que se encontram estabelecidas as empresas de transporte ferroviário que os constituem, bem como direitos de trânsito nos outros Estados-membros para a prestação de serviços de transporte internacionais entre os Estados-membros em que se encontram estabelecidas as empresas que constituem os citados agrupamentos.\n\n2. Às empresas de transporte ferroviário abrangidas pelo âmbito de aplicação do artigo 2o será concedido um direito de acesso, em condições equitativas, à infra-estrutura dos outros Estados-membros para fins da exploração de serviços de transporte internacionais de mercadorias.\n\n3. Os agrupamentos internacionais e as empresas de transporte ferroviário que efectuem transportes combinados internacionais de mercadorias celebrarão com os gestores da infra-estrutura ferroviária utilizada os acordos administrativos, técnicos e financeiros necessários para resolver as questões de regulação e de segurança do tráfego relativas aos serviços de transporte internacionais a que se referem os nos 1 e 2. As condições que regem esses acordos deverão ter um carácter não discriminatório."
+  },
+  "9c17e8680c183196": {
+   "fragment_id": "SECÇÃO VI Disposições finais — Artigo 11o",
+   "type": "divisao",
+   "heading": "SECÇÃO VI Disposições finais — Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI Disposições finais — Artigo 11o\n\n1. Os Estados-membros poderão submeter à apreciação da Comissão qualquer questão relacionada com a aplicação da presente directiva. A Comissão, após ter consultado o comité previsto no n° 2 sobre estas questões, tomará as decisões adequadas.\n\n2. A Comissão será assistida por um comité de carácter consultivo, composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\nO representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa, se necessário procedendo a uma votação.\n\nEsse parecer deve ser exarado em acta; além disso, cada Estado-membro tem o direito de solicitar que a sua posição conste da acta.\n\nA Comissão tomará na melhor conta o parecer emitido pelo comité. O comité será por ela informado do modo como esse parecer foi tomado em consideração."
+  },
+  "46d1b079614c46ca": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nAs disposições da presente directiva são aplicáveis, sem prejuízo do disposto na Directiva 90/531/CEE do Conselho, de 17 de Setembro de 1990, relativa aos procedimentos de celebração de contratos de direito público nos sectores da água, da energia, dos transportes e das telecomunicações(1)."
+  },
+  "04ea4a1199c9d4d3": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nÉ revogada, com efeitos a 1 de Janeiro de 1993, a Decisão 75/327/CEE.\n\nAs remissões para a decisão revogada entendem-se como sendo feitas para a presente directiva."
+  },
+  "5c9d3397c3ed6afa": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nA Comissão apresentará ao Conselho, até 1 de Janeiro de 1995, um relatório sobre a aplicação da presente directiva, acompanhado, se necessário, de propostas relativas à prossecução das acções comunitárias em matéria de desenvolvimento dos caminhos-de-ferro, nomeadamente no domínio dos transportes internacionais de mercadorias."
+  },
+  "6699e0f4da650436": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nOs Estados-membros tomarão, após consulta à Comissão, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 1 de Janeiro de 1993. Desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem estas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência por ocasião da sua publicação oficial. As modalidades dessa referência serão adoptadas pelo Estados-membros."
+  },
+  "f54aff636703293c": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 29 de Julho de 1991.\n\nPelo Conselho O presidente H. VAN DEN BROEK\n\n(1)JO n° C 34 de 14. 2. 1990, p. 8, e JO n° C 87 de 4. 4. 1991, p. 7.\n\n(2)JO n° C 19 de 28. 1. 1991, p. 254.\n\n(3)JO n° C 225 de 10. 9. 1990, p. 27.\n\n(4)JO n° L 152 de 12. 6. 1975, p. 3.\n\n(2)JO n° L 278 de 23. 12. 1970, p. 1; regulamento alterado pelo Regulamento (CEE) n° 2116/78 (JO n° L 246 de 8. 9. 1978, p. 7).\n\n(1)JO n° L 156 de 28. 6. 1969, p. 1; regulamento alterado pela última vez pelo Regulamento (CEE) n° 1893/91 (JO n° L 169 de 29. 6. 1991, p. 1).\n\n(1)JO n° L 297 de 29. 10. 1990, p. 1."
+  },
+  "468377ff92aa33e0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01991L0440 — PT — 17.06.2015 — 007.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31991L0440) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31991L0440) [de 29 de Julho de 1991](http://publications.europa.eu/resource/celex/31991L0440) [relativa ao desenvolvimento dos caminhos-de-ferro comunitários](http://publications.europa.eu/resource/celex/31991L0440) [(91/440/CEE)](http://publications.europa.eu/resource/celex/31991L0440) (JO L 237, 24.8.1991, p.25)\n\n**Revogada por:**\n\n- [Diretiva 2012/34/UE do Parlamento Europeu e do Conselho de 21 de novembro de 2012](http://publications.europa.eu/resource/celex/32012L0034) — L 343 — 32 — 14.12.2012"
+  }
+ }
+}

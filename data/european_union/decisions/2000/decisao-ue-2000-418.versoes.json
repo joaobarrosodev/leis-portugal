@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000D0418:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000D0418-20010701",
+ "dre_path": null,
+ "source_lastmod": "2001-07-01",
+ "versions": [
+  {
+   "date": "2000-06-30",
+   "future": false,
+   "celex": "32000D0418",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9e855f25e429717c",
+    "17be9833af7c6b0e",
+    "f49dbd492ce00da3",
+    "86cc2f74b0b35501",
+    "c88e3292ce29f204",
+    "4429253a11e70943",
+    "2351b63cb5015cae",
+    "7a76b5d57e733ace",
+    "fa4b65f832e06b50",
+    "437961c0b8ae5f8f",
+    "0bf53f7b9699358d",
+    "73dfb17073c2a237",
+    "fb64f36b590d278f",
+    "df14b43283a96a2f",
+    "322ab78ce0e3eaa0"
+   ]
+  },
+  {
+   "date": "2001-07-01",
+   "future": false,
+   "celex": "02000D0418-20010701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Matérias de risco especificadas",
+    "Suprime Artigo 4.º — Carne separada mecanicamente",
+    "Suprime Artigo 5.º — Técnicas de abate",
+    "Suprime Artigo 6.º — Importação para a Comunidade",
+    "Suprime Artigo 7.º — Controlo oficial",
+    "Suprime Artigo 8.º — Reexame",
+    "Suprime Artigo 9.º — Alterações",
+    "Suprime Artigo 10.º — Revogações",
+    "Suprime Artigo 11.º — Aplicabilidade",
+    "Suprime Artigo 12.º — Destinatários",
+    "Suprime ANEXO I — MATÉRIAS DE RISCO ESPECIFICADAS",
+    "Suprime ANEXO II"
+   ],
+   "fragments": [
+    "581f90243ee17588"
+   ]
+  }
+ ],
+ "fragments": {
+  "9e855f25e429717c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**2000/418/CE: Decisão da Comissão, de 29 de Junho de 2000, que regula a utilização de matérias de risco no que respeita às encefalopatias espongiformes transmissíveis e altera a Decisão 94/474/CE [notificada com o número C(2000) 1735] (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 158 de 30/06/2000 p. 0076 - 0082*\n\nDecisão da Comissão\n\nde 29 de Junho de 2000\n\nque regula a utilização de matérias de risco no que respeita às encefalopatias espongiformes transmissíveis e altera a Decisão 94/474/CE\n\n[notificada com o número C(2000) 1735]\n\n(Texto relevante para efeitos do EEE)\n\n(2000/418/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 89/662/CEE do Conselho, de 11 de Dezembro de 1989, relativa aos controlos veterinários aplicáveis ao comércio intracomunitário, na perspectiva da realização do mercado interno(1), com a última redacção que lhe foi dada pela Directiva 92/118/CEE(2), e, nomeadamente, o n.o 4 do seu artigo 9.o,\n\nTendo em conta a Directiva 90/425/CEE do Conselho, de 26 de Junho de 1990, relativa aos controlos veterinários e zootécnicos aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno(3), com a última redacção que lhe foi dada pela Directiva 92/118/CEE, e, nomeadamente, o n.o 4 do seu artigo 10.o,\n\nTendo em conta a Directiva 97/78/CE do Conselho, de 18 de Dezembro de 1997, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade(4), e, nomeadamente, o seu artigo 22.o,\n\nConsiderando o seguinte:\n\n(1) É já sabido há muitos anos que várias encefalopatias espongiformes transmissíveis ocorrem quer no ser humano quer nos animais. A encefalopatia espongiforme bovina (BSE) foi inicialmente identificada nos bovinos, em 1986, tendo-se verificado posteriormente a sua ocorrência noutras espécies animais. Em 1996, foi descrita uma nova variante de doença de Creutzfeldt-Jakob (nv-DCJ). Têm vindo a acumular-se provas de que o agente causador da BSE é idêntico ao que causa a nv-DCJ.\n\n(2) No seu parecer de 21 de Outubro de 1996, e com base na sua avaliação dos riscos, o Comité Científico Veterinário recomendou que determinadas matérias de risco especificadas (cérebro, espinal medula e olhos de bovinos, ovinos e caprinos de idade superior a um ano e baço de ovinos e caprinos de idade superior a seis meses) fossem removidas de todas as cadeias alimentares humana e animal nos países e regiões em que fosse identificado um risco potencial. Recomendou igualmente que, no caso dos bovinos, ovinos e caprinos que morram, as matérias de risco especificadas fossem removidas, de modo a não entrarem nas cadeias alimentares humana e animal, ou toda a carcaça fosse destruída.\n\n(3) O Comité Científico Director (CCD) adoptou um parecer em 9 de Dezembro de 1997. O comité sugeriu uma nova lista alargada de matérias de risco especificadas e propôs que essas matérias fossem temporariamente excluídas dos consumos humano e animal em função da localização geográfica da sua origem. O mesmo comité aditou a dura-máter, a hipófise, os gânglios das raízes dorsais, a coluna vertebral, o intestino e os pulmões à lista recomendada no já mencionado parecer de 21 de Outubro de 1996 do Comité Científico Veterinário, para os casos em que os animais sejam mortos por recurso a determinadas técnicas de abate. O CCD adoptou, em 14 de Abril de 2000, um parecer sobre a decisão do Reino Unido de levantar a proibição do consumo de carne com osso. O comité concluiu que, se os ossos não forem da coluna vertebral ou do crânio, o risco associado à carne com osso é desprezável. Concluiu igualmente que o efeito combinado das várias medidas de protecção tomadas no Reino Unido se traduz num risco extremamente reduzido de exposição humana à BSE com origem na coluna vertebral ou nos gânglios das raízes dorsais. O mesmo comité adoptou na mesma data um parecer relativo a matérias de risco especificadas de pequenos ruminantes. O comité considera que o risco principal está associado ao crânio (cabeça, com excepção da pele e da língua) e à espinal medula de todos os pequenos ruminantes de idade superior a 12 meses e ao baço dos pequenos ruminantes de todas as idades. Considerou igualmente que o risco associado a determinados produtos à base de carne não transformados, como a carne separada mecanicamente da coluna vertebral dos pequenos ruminantes, é potencialmente elevado.\n\n(4) A Comissão adoptou em 18 de Novembro de 1998 uma proposta, baseada no n.o 4 do artigo 152 do Tratado, de um regulamento do Parlamento Europeu e do Conselho que estabelece regras de prevenção e controlo de determinadas encefalopatias espongiformes transmissíveis(5) [COM(1998) 623 final]. A proposta foi submetida à apreciação do Parlamento Europeu e do Conselho em 7 de Janeiro de 1999. A proposta estabelece regras para a remoção e eliminação das matérias de risco especificadas. As disposições da presente decisão serão revogadas quando o mencionado regulamento entrar em vigor.\n\n(5) Devem ser estabelecidas regras que disciplinem a produção e colocação no mercado de produtos de origem animal no referente à remoção ou à inexistência de matérias de risco especificadas. Estas não devem, nomeadamente, ser introduzidas no mercado dos géneros alimentícios, dos alimentos para animais ou dos adubos. Essas regras não devem, porém, aplicar-se aos produtos cosméticos, aos produtos farmacêuticos e aos dispositivos médicos, nem aos respectivos produtos de base e intermédios, aos quais se aplicam regras específicas. Não devem, igualmente, aplicar-se aos produtos de origem animal que não ponham em risco a saúde humana ou animal, por não se destinarem à alimentação humana ou animal ou a adubos. É conveniente zelar por que os produtos de origem animal não abrangidos pela presente decisão sejam mantidos separados dos produtos por esta abrangidos, a menos que satisfaçam as normas sanitárias mínimas aplicáveis a estes últimos.\n\n(6) Várias directivas comunitárias em vigor prevêem a protecção da saúde pública no referente à utilização de matérias de risco especificadas nos produtos cosméticos, produtos farmacêuticos e dispositivos médicos colocados no mercado comunitário. Os produtos em questão podem, portanto, ser excluídos do âmbito de aplicação da presente decisão.\n\n(7) A Decisão 98/272/CE da Comissão, de 23 de Abril de 1998, relativa à vigilância epidemiológica das encefalopatias espongiformes transmissíveis(6), estabelece regras relativas às medidas a tomar pelos Estados-Membros em caso de suspeita de encefalopatias espongiformes transmissíveis (TSE) num animal, os requisitos mínimos para a monitorização da encefalopatia espongiforme bovina e do tremor epizoótico dos ovinos e as regras a aplicar na amostragem e nos exames laboratoriais com vista à detecção de encefalopatias espongiformes transmissíveis. A Comissão está empenhada na alteração da Decisão 98/272/CE com vista a uma melhor eficácia da monitorização da BSE nos bovinos através de exames focalizados, em especial, nos animais que morrem nas explorações e nos animais abatidos no âmbito de medidas de emergência. Espera-se que estas iniciativas permitam conhecer melhor a situação epidemiológica a nível regional.\n\n(8) Certos tecidos de ruminantes devem ser designados matérias de risco especificadas com base na patogénese das encefalopatias espongiformes transmissíveis e no estatuto epidemiológico do país ou região de origem ou residência do animal em questão. As matérias de risco especificadas devem ser removidas e eliminadas de forma a evitar quaisquer riscos para a saúde humana ou animal. Por razões de ordem prática e de precaução, é necessário proibir a utilização do baço dos ovinos e caprinos, independentemente da idade dos animais, bem como de carne separada mecanicamente do crânio e da coluna vertebral dos bovinos, ovinos e caprinos.\n\n(9) Nos pareceres respectivos adoptados em 9 de Dezembro de 1997 e em 25 de Junho de 1999 e 17 de Fevereiro de 1998, o Comité Científico Director e o Comité Científico das medidas veterinárias relacionadas com a saúde pública produziram recomendações relativas à segurança de determinadas técnicas de abate. As conclusões dos comités vão no sentido de que determinadas técnicas de abate, nomeadamente o atordoamento pneumático por injecção gasosa e a laceração do tecido do sistema nervoso central (mielotomia) por inserção na cavidade craniana de um instrumento alongado em forma de vara, podem provocar a disseminação no corpo, durante o abate, de tecido potencialmente contaminado do sistema nervoso central. A Directiva 93/119/CE do Conselho, de 22 de Dezembro de 1993, relativa à protecção dos animais no abate e/ou occisão(7), proíbe a utilização de tais técnicas no atordoamento ou occisão dos animais. A utilização dessas técnicas não poderá, portanto, ser autorizada na Comunidade para outros fins, nem no contexto das importações a partir de países ou regiões que apresentem riscos de BSE.\n\n(10) Logo que possível, a Comissão reexaminará as disposições para ter em conta a eficácia da proibição respeitante aos alimentos para animais e a necessidade de remover a coluna vertebral dos bovinos de certas subpopulações, à luz de novas avaliações ou informações científicas e da evolução das recomendações do Gabinete Internacional de Epizootias ou de quaisquer outras informações pertinentes de que disponha. No âmbito do reexame relativo à aplicação efectiva da proibição da utilização de farinhas de carne e ossos e torresmos procedentes de ruminantes na alimentação dos mesmos prevê-se limitar a aplicação das disposições da presente decisão aos animais nascidos antes da data de entrada em vigor dessa proibição.\n\n(11) No seu parecer de 23 de Janeiro de 1998, o CCD estabeleceu a lista de factores que determinam o risco geográfico numa determinada zona geográfica, e, no seu parecer de 19 e 20 de Fevereiro de 1998, definiu o teor de um processo completo sobre o estatuto epidemiológico no que diz respeito às encefalopatias espongiformes transmissíveis. Com base nesses pareceres, a Comissão formulou a Recomendação 98/477/CE, de 22 de Julho de 1998, relativa às informações necessárias para apoiar os pedidos de avaliação do estatuto epidemiológico de países no que diz respeito às encefalopatias espongiformes transmissíveis(8), e convidou os Estados-Membros e os países terceiros a apresentarem um processo completo em conformidade com essa recomendação com vista ao reconhecimento do seu estatuto epidemiológico. A Comissão reexaminará, o mais rapidamente possível, as disposições em matéria de importação de produtos de origem animal, à luz das avaliações científicas baseadas nas informações fornecidas em conformidade com a Recomendação 98/477/CE, assim como da evolução das recomendações do Gabinete Internacional de Epizootias. Em consequência, a Comissão convida uma vez mais os países que ainda o não tenham feito a apresentar um processo em conformidade com a mencionada recomendação e fará todos os esforços para obter uma avaliação científica nos 12 meses seguintes à apresentação desse processo.\n\n(12) A Decisão 94/474/CE da Comissão, de 27 de Julho de 1994, que diz respeito a determinadas medidas de protecção relativas à encefalopatia espongiforme bovina e revoga as Decisões 89/469/CEE e 90/200/CEE(9), com a última redacção que lhe foi dada pela Decisão 98/272/CE, deve ser alterada em conformidade.\n\n(13) Com base no parecer do Comité Científico Veterinário, de 21 de Outubro de 1996, e em conformidade com a avaliação dos riscos efectuada por esse mesmo comité, a Comissão adoptou a Decisão 97/534/CE, de 30 de Julho de 1997, relativa à proibição de utilização de matérias de risco no que diz respeito às encefalopatias espongiformes transmissíveis(10), com a última redacção que lhe foi dada pela Decisão 1999/881/CE do Conselho(11). À luz de novos pareceres científicos, da evolução dos padrões internacionais e do progresso no processo legislativo de adopção de legislação primária neste domínio, a definição de matéria de risco especificada constante da Decisão 97/534/CE e as regras nesta enunciadas já não são satisfatórias. A decisão deve, portanto, ser revogada.\n\n(14) Poderão ser igualmente adoptadas regras relativas ao tratamento e eliminação de subprodutos animais.\n\n(15) O Comité Veterinário Permanente não emitiu parecer. A Comissão, por conseguinte, propôs ao Conselho as referidas medidas em 16 de Junho de 2000, por força do artigo 17.o da Directiva 89/662/CEE, estando o Conselho obrigado a agir num prazo de 15 dias.\n\n(16) O Conselho não agiu dentro do prazo estabelecido. O Conselho não tomou uma decisão contrária às medidas propostas por maioria simples dentro do mesmo prazo. Essas medidas devem ser adoptadas pela Comissão,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "17be9833af7c6b0e": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1. A presente decisão regula a utilização de matérias de risco no que respeita a certas encefalopatias espongiformes transmissíveis (EET). A presente decisão é aplicável à produção e colocação no mercado de produtos de origem animal provenientes de matérias ou que contenham matérias oriundas de animais das espécies bovina, ovina ou caprina.\n\n2. Os artigos 3.o a 8.o não se aplicam:\n\na) Aos produtos cosméticos, produtos farmacêuticos e dispositivos médicos, nem aos produtos de base e intermédios respectivos;\n\nb) Aos produtos e aos produtos de base e intermédios respectivos, não destinados a ser utilizados na alimentação humana ou animal ou como adubos;\n\nc) Aos produtos de origem animal destinados a exposições, ao ensino, à investigação, a estudos especiais ou a análise, desde que não venham a ser consumidos por seres humanos ou por animais não relacionados com os projectos de investigação em causa.\n\n3. Para evitar contaminações cruzadas e substituições, os produtos de origem animal referidos no n.o 1 do artigo 1.o devem estar sempre separados dos referidos no n.o 2 do artigo 1.o, a menos que estes últimos sejam manuseados ou produzidos no respeito de condições de protecção sanitária pelo menos idênticas às previstas em relação às encefalopatias espongiformes transmissíveis."
+  },
+  "f49dbd492ce00da3": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto na presente decisão, entende-se por:\n\n1. \"Encefalopatias espongiformes transmissíveis\": todas as encefalopatias espongiformes transmissíveis, excepto as que ocorrem no ser humano;\n\n2. \"Colocação no mercado\": qualquer operação cujo objectivo seja vender produtos de origem animal abrangidos pela presente decisão a terceiros, ou qualquer outra forma de transferência para terceiros contra pagamento ou isenta de encargos, ou a armazenagem com vista ao fornecimento de terceiros;\n\n3. \"Produto de origem animal\": qualquer produto proveniente ou que contenha produtos provenientes de qualquer animal;\n\n4. \"Produto de base\": matéria-prima ou qualquer outro produto de origem animal a partir do qual, ou por meio do qual, sejam produzidos os produtos referidos no n.o 2, alíneas a) e b), do artigo 1.o;\n\n5. \"Adubo\": qualquer substância que contenha produtos de origem animal utilizada nos solos para favorecer o crescimento de vegetação; pode incluir resíduos de digestão da produção de biogás ou da compostagem;\n\n6. \"Autoridade competente\": a autoridade central de um Estado-Membro competente para assegurar a observância da presente decisão ou qualquer autoridade na qual a mesma tenha delegado essa competência;\n\n7. \"Matéria de risco especificada\": os tecidos referidos no anexo I; salvo disposição em contrário, não abrange os produtos que contenham tais tecidos ou que deles procedam;\n\n8. \"Aterro\": conforme definido na Directiva 1999/31/CE do Conselho(12)."
+  },
+  "86cc2f74b0b35501": {
+   "fragment_id": "Artigo 3.º — Matérias de risco especificadas",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Matérias de risco especificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Matérias de risco especificadas\n\n1. Os Estados-Membros zelarão por que, depois de 1 de Outubro de 2000, as matérias de risco especificadas referidas no ponto 1, alínea a) - e, se for caso disso, no ponto 1, alínea b) -, do anexo I sejam removidas e destruídas conforme previsto nos pontos 2 a 5 do mesmo anexo.\n\n2. A expedição de matérias de risco especificadas ou de produtos resultantes do tratamento de tais matérias só pode ter lugar com vista à sua incineração subsequente conforme previsto no ponto 5 do anexo I e, se for caso disso, na alínea b) do artigo 7.o"
+  },
+  "c88e3292ce29f204": {
+   "fragment_id": "Artigo 4.º — Carne separada mecanicamente",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Carne separada mecanicamente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Carne separada mecanicamente\n\nOs Estados-Membros zelarão por que os ossos da cabeça e a coluna vertebral dos bovinos, ovinos e caprinos não sejam utilizados na produção de carne separada mecanicamente a partir de 1 de Outubro de 2000."
+  },
+  "4429253a11e70943": {
+   "fragment_id": "Artigo 5.º — Técnicas de abate",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Técnicas de abate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Técnicas de abate\n\nOs Estados-Membros zelarão por que, a partir de 31 de Dezembro de 2000, a laceração, após atordoamento, do tecido do sistema nervoso central por inserção na cavidade craniana de um instrumento alongado em forma de vara não seja aplicada nos territórios respectivos a bovinos, ovinos ou caprinos cuja carne se destine ao consumo humano ou animal."
+  },
+  "2351b63cb5015cae": {
+   "fragment_id": "Artigo 6.º — Importação para a Comunidade",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Importação para a Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Importação para a Comunidade\n\n1. As matérias de risco especificadas referidas no ponto 1, alínea a), do anexo I não serão importadas para a Comunidade após 31 de Março de 2001.\n\n2. a) Sempre que os produtos de origem animal enumerados no anexo II, que contenham matérias provenientes de bovinos, ovinos ou caprinos, sejam importados para a Comunidade após 31 de Março de 2001 a partir de países terceiros ou regiões destes, o certificado sanitário apropriado será complementado por uma declaração assinada pela autoridade competente do país de produção, do seguinte teor:\n\n\"Este produto de origem animal não contém nem tem origem em matérias de risco especificadas definidas no ponto 1, alínea a), do anexo I da Decisão [.../...] produzidas depois de 31 de Março de 2001 ou carne separada mecanicamente dos ossos da cabeça ou da coluna vertebral de bovinos, ovinos ou caprinos produzida depois de 31 de Março de 2001. Os animais não foram abatidos depois de 31 de Março de 2001 após atordoamento por injecção gasosa na cavidade craniana ou mortos instantaneamente pelo mesmo método, nem foram abatidos por laceração, após atordoamento, do tecido do sistema nervoso central por inserção na cavidade craniana de um instrumento alongado em forma de vara.\".\n\nb) Os \"produtos de origem animal\" referidos no presente artigo são os produtos de origem animal constantes do anexo II e não produtos de origem animal que contenham ou tenham sido obtidos a partir dos primeiros.\n\n3. As disposições dos n.os 1 e 2 são aplicáveis apenas às importações a partir de terceiros países que:\n\na) Não tenham apresentado à Comissão um processo em apoio do seu pedido de ficarem isentos da aplicação dessas disposições;\n\nb) Tenham apresentado esse processo mas o resultado da avaliação do mesmo com o objectivo de identificar todos os factores potenciais de risco não seja satisfatório."
+  },
+  "7a76b5d57e733ace": {
+   "fragment_id": "Artigo 7.º — Controlo oficial",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Controlo oficial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Controlo oficial\n\nOs Estados-Membros efectuarão com frequência acções de controlo oficial para verificar a correcta aplicação da presente decisão e zelarão por que sejam tomadas medidas destinadas a evitar contaminações, nomeadamente em matadouros, instalações de corte, unidades de transformação de subprodutos animais, unidades de tratamento de alto risco, instalações autorizadas pelos Estados-Membros em conformidade com o artigo 7.o da Directiva 90/667/CEE do Conselho(13), locais de venda ao consumidor, aterros e outras instalações de armazenagem ou incineração. Os Estados-Membros implantarão, designadamente, um sistema destinado a garantir e verificar:\n\na) Que as matérias de risco especificadas utilizadas no fabrico dos produtos referidos no n.o 2 do artigo 1.o sejam utilizadas exclusivamente para o fim autorizado;\n\nb) Que as matérias de risco especificadas, em especial quando a remoção tenha lugar em estabelecimentos ou instalações que não sejam matadouros, sejam completamente separadas dos outros subprodutos não destinados a incineração, recolhidas separadamente e eliminadas nas condições previstas no artigo 3.o e no anexo I. Os Estados-Membros podem decidir autorizar a expedição de cabeças ou carcaças que contenham matérias de risco especificadas para outro Estado-Membro depois do acordo deste em relação à recepção dos mesmos e de combinadas com esse Estado-Membro as condições específicas da transferência."
+  },
+  "fa4b65f832e06b50": {
+   "fragment_id": "Artigo 8.º — Reexame",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Reexame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reexame\n\n1. A presente decisão será reexaminada regularmente à luz das novas informações científicas relativas ao risco de exposição às encefalopatias espongiformes transmissíveis.\n\n2. A presente decisão será alterada, de acordo com o procedimento adequado, para:\n\na) Ter em conta as datas da aplicação efectiva, em cada país ou região deste, da proibição de utilização de proteínas provenientes de mamíferos ou, se for caso disso, de ruminantes na alimentação de ruminantes;\n\nb) Autorizar a utilização da coluna vertebral e dos gânglios das raízes dorsais de bovinos no Reino Unido da Grã-Bretanha e da Irlanda do Norte e em Portugal, ou em regiões destes países, ou de bovinos que daí provenham;\n\nc) Isentar certos países terceiros da aplicação das disposições dos n.os 1 e 2 do artigo 6.o"
+  },
+  "437961c0b8ae5f8f": {
+   "fragment_id": "Artigo 9.º — Alterações",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alterações\n\nO n.o 3 do artigo 3.o da Decisão 94/474/CE é alterado do seguinte modo:\n\na) É suprimida a alínea a);\n\nb) Na alínea c), a expressão \"a aplicação das alíneas a) e b)\" é substituída por \"a aplicação da alínea b)\"."
+  },
+  "0bf53f7b9699358d": {
+   "fragment_id": "Artigo 10.º — Revogações",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Revogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Revogações\n\n1. É revogada a Decisão 97/534/CE, com efeitos a partir de 30 de Junho de 2000.\n\n2. As referências à Decisão 97/534/CE passam a ser entendidas como referências à presente decisão."
+  },
+  "73dfb17073c2a237": {
+   "fragment_id": "Artigo 11.º — Aplicabilidade",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Aplicabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aplicabilidade\n\nA presente decisão é aplicável a partir de 30 de Junho de 2000."
+  },
+  "fb64f36b590d278f": {
+   "fragment_id": "Artigo 12.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 29 de Junho de 2000.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 395 de 30.12.1989, p. 13.\n\n(2) JO L 62 de 15.3.1993, p. 49.\n\n(3) JO L 224 de 18.8.1990, p. 29.\n\n(4) JO L 24 de 30.1.1998, p. 9.\n\n(5) JO C 45 de 19.2.1999, p. 2.\n\n(6) JO L 122 de 24.4.1998, p. 59.\n\n(7) JO L 340 de 31.12.1993, p. 21.\n\n(8) JO L 212 de 30.7.1998, p. 58.\n\n(9) JO L 194 de 29.7.1994, p. 96.\n\n(10) JO L 216 de 8.8.1997, p. 95.\n\n(11) JO L 331 de 23.12.1999, p. 78.\n\n(12) JO L 182 de 16.7.1999, p. 1.\n\n(13) JO L 363 de 27.12.1990, p. 51."
+  },
+  "df14b43283a96a2f": {
+   "fragment_id": "ANEXO I — MATÉRIAS DE RISCO ESPECIFICADAS",
+   "type": "divisao",
+   "heading": "ANEXO I — MATÉRIAS DE RISCO ESPECIFICADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — MATÉRIAS DE RISCO ESPECIFICADAS\n\n1. a) Os tecidos a seguir indicados serão designados matérias de risco especificadas:\n\ni) o crânio, incluindo o cérebro e os olhos, as amígdalas, a espinal medula e o íleo dos bovinos de idade superior a 12 meses,\n\nii) o crânio, incluindo o cérebro e os olhos, as amígdalas e a espinal medula dos ovinos e caprinos de idade superior a 12 meses ou cujas gengivas já tenham sido rompidas por um dente incisivo definitivo e o baço dos ovinos e caprinos de qualquer idade;\n\nb) Além das matérias de risco especificadas indicadas na alínea a) do ponto 1, os tecidos a seguir indicados serão designados matérias de risco especificadas no Reino Unido da Grã-Bretanha e da Irlanda do Norte e em Portugal (com excepção da Região Autónoma dos Açores):\n\ni) Toda a cabeça, incluindo o cérebro, os olhos, os gânglios do trigémio e as amígdalas, mas excluída a língua; o timo; o baço; o intestino, desde o duodeno até ao recto, e a espinal medula dos bovinos de idade superior a 6 meses,\n\nii) A coluna vertebral, incluindo os gânglios das raízes dorsais, dos bovinos de idade superior a 30 meses.\n\n2. Os Estados-Membros zelarão por que as matérias de risco especificadas sejam removidas:\n\na) Em matadouros;\n\nb) Nas instalações de corte, nas unidades de tratamento de alto risco e nas outras instalações a que se referem os artigos 3.o e 7.o da Directiva 90/667/CEE, sob a supervisão de um agente designado pela autoridade competente. Os estabelecimentos em questão terão de ser aprovados para o efeito pela autoridade competente.\n\nSempre que as matérias de risco especificadas não sejam removidas de animais mortos que não tenham sido abatidos para consumo humano, as partes da carcaça que contêm as matérias de risco especificadas ou a totalidade da carcaça serão tratadas como matérias de risco especificadas.\n\nTodavia, a coluna vertebral pode ser removida nos locais de venda ao consumidor nos respectivos territórios.\n\n3. Os Estados-Membros zelarão por que as matérias de risco especificadas sejam marcadas com um corante e, se for caso disso, com um marcador imediatamente após a sua remoção e completamente destruídas:\n\na) Por incineração sem pré-tratamento; ou\n\nb) Se o corante ou o marcador continuar a ser detectável, após um pré-tratamento:\n\ni) pelos processos descritos nos capítulos I a IV, VI e VII do anexo da Directiva 92/562/CEE da Comissão(1):\n\n- por incineração,\n\n- por co-incineração,\n\nii) na observância das normas mínimas referidas no anexo I da Decisão 1999/534/CE do Conselho(2), por enterramento num aterro aprovado.\n\n4. Os Estados-Membros podem estabelecer derrogações dos pontos 2 e 3 e autorizar a incineração ou enterramento de matérias de risco especificadas ou de cadáveres completos sem coloração prévia, ou, se for caso disso, remoção das matérias de risco especificadas, nas circunstâncias previstas no n.o 2 do artigo 3.o da Directiva 90/667/CEE e por aplicação de métodos que excluam qualquer risco de transmissão de encefalopatias espongiformes transmissíveis autorizados pela autoridade competente, em especial se os animais tiverem morrido, ou sido abatidos no contexto de medidas de luta contra doenças.\n\n5. Os Estados-Membros podem expedir matérias de risco especificadas ou produtos resultantes do tratamento de tais matérias para outros Estados-Membros para serem incinerados na observância das condições aplicáveis enunciadas no n.o 2 do artigo 4.o da Decisão 97/735/CE da Comissão(3).\n\nA presente decisão pode ser alterada a pedido de um Estado-Membro para possibilitar a expedição de matérias de risco especificadas ou de produtos resultantes do tratamento de tais matérias para países terceiros para serem incinerados. A Comissão adoptará simultaneamente as condições que regerão a exportação.\n\n(1) JO L 359 de 9.12.1992, p. 23.\n\n(2) JO L 204 de 4.8.1999, p. 37.\n\n(3) JO L 294 de 28.10.1997, p. 7."
+  },
+  "322ab78ce0e3eaa0": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nOs produtos de origem animal a seguir indicados estão sujeitos a restrições de importação para a Comunidade em virtude do n.o 1 do artigo 6.o:\n\na) \"Carne fresca\": definida na Directiva 64/433/CEE do Conselho(1) relativa a problemas sanitários em matéria de comércio intracomunitário de carne fresca;\n\nb) \"Carnes picadas e preparados de carne\": definidos na Directiva 94/65/CE do Conselho(2);\n\nc) \"Produtos à base de carne\": definidos na Directiva 77/99/CEE do Conselho(3);\n\nd) \"Proteínas animais transformadas\": referidas na Directiva 92/118/CEE.\n\n(1) JO 121 de 29.7.1964, p. 2012/64.\n\n(2) JO L 368 de 31.12.1994, p. 10.\n\n(3) JO L 26 de 31.1.1977, p. 85."
+  },
+  "581f90243ee17588": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2000D0418 — PT — 01.07.2001 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32000D0418) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/32000D0418) [de 29 de Junho de 2000](http://publications.europa.eu/resource/celex/32000D0418) [que regula a utilização de matérias de risco no que respeita às encefalopatias espongiformes transmissíveis e altera a Decisão 94/474/CE](http://publications.europa.eu/resource/celex/32000D0418) [[notificada com o número C(2000) 1735]](http://publications.europa.eu/resource/celex/32000D0418) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32000D0418) [(2000/418/CE)](http://publications.europa.eu/resource/celex/32000D0418) (JO L 158, 30.6.2000, p.76)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1326/2001 da Comissão de 29 de Junho de 2001](http://publications.europa.eu/resource/celex/32001R1326) — L 177 — 60 — 30.6.2001"
+  }
+ }
+}

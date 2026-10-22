@@ -34,6 +34,114 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-14'
+version_history:
+  file: diretiva-ue-2001-112.versoes.json
+  count: 6
+  source_lastmod: '2026-06-14'
+  versions:
+  - date: '2008-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-20'
+    amending: eu:celex:32008R1332:por
+    amending_title: REGULAMENTO (CE) N. o 1332/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera I. DEFINIÇÕES
+    - Altera 2. Tratamentos e substâncias autorizados
+    - Altera DEFINIÇÕES DAS MATÉRIAS-PRIMAS
+    - Altera Notas
+  - date: '2009-08-22'
+    amending: eu:celex:32009L0106:por
+    amending_title: DIRECTIVA 2009/106/CE DA COMISSÃO de 14 de Agosto de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera I. DEFINIÇÕES
+    - Altera 2. Tratamentos e substâncias autorizados
+    - Altera DEFINIÇÕES DAS MATÉRIAS-PRIMAS
+    - Altera Notas
+    - Adita ANEXO V
+  - date: '2012-04-27'
+    amending: eu:celex:32012L0012:por
+    amending_title: DIRETIVA 2012/12/EU DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de abril de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera I. DEFINIÇÕES
+    - Altera DEFINIÇÕES DAS MATÉRIAS-PRIMAS
+    - Altera ANEXO IV
+    - Altera ANEXO V
+    - Altera Notas
+    - Adita Artigo 7.º-A
+    - Adita 1. Composição
+    - Adita 2. Ingredientes autorizados
+    - Adita 3. Tratamentos e substâncias autorizados
+    - 'Adita 1. Fruto:'
+    - 'Adita 2. Polme de frutos:'
+    - 'Adita 3. Polme de frutos concentrado:'
+    - 'Adita 4. Aroma:'
+    - 'Adita 5. Açúcares:'
+    - 'Adita 6. Mel:'
+    - 'Adita 7. Polpa ou células:'
+    - Adita DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS DEFINIDOS NO ANEXO I
+    - Suprime Artigo 2.º
+    - Suprime Artigo 8.º
+    - Suprime 1. Ingredientes autorizados
+    - Suprime 2. Tratamentos e substâncias autorizados
+    - Suprime DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS ENUMERADOS NO ANEXO I
+  - date: '2014-10-05'
+    amending: eu:celex:32014R1040:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 1040/2014 DA COMISSÃO de 25 de julho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera I. DEFINIÇÕES
+    - Altera II. INGREDIENTES, TRATAMENTOS E SUBSTÂNCIAS AUTORIZADOS
+    - 'Altera 4. Aroma:'
+    - 'Altera 5. Açúcares:'
+    - 'Altera 6. Mel:'
+    - Altera DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS DEFINIDOS NO ANEXO I
+    - Altera Notas
+    - Suprime 1. Composição
+    - Suprime 2. Ingredientes autorizados
+    - Suprime 3. Tratamentos e substâncias autorizados
+  - date: '2026-06-14'
+    amending: eu:celex:32024L1438:por
+    amending_title: DIRETIVA (UE) 2024/1438 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 7.º-A
+    - Altera I. DEFINIÇÕES
+    - Altera II. INGREDIENTES, TRATAMENTOS E SUBSTÂNCIAS AUTORIZADOS
+    - 'Altera 4. Aroma:'
+    - 'Altera 5. Açúcares:'
+    - 'Altera 6. Mel:'
+    - Altera DENOMINAÇÕES ESPECÍFICAS PARA DETERMINADOS PRODUTOS DEFINIDOS NO ANEXO I
+    - Altera ANEXO IV
+    - Altera ANEXO V
+    - Altera Notas
+    - Adita Artigo 7.º-B
+    - Adita Artigo 7.º-C
 identifiers:
   celex: 32001L0112
   eli: http://data.europa.eu/eli/dir/2001/112/oj
@@ -48,7 +156,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/12ff4f64-f569-4fe4-9364-39ef9a0d2fcf.0010
   content_url: http://publications.europa.eu/resource/cellar/71ad1016-435e-11f1-8095-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0112-20260614
-  retrieved_at: '2026-10-22T02:42:29Z'
+  retrieved_at: '2026-10-22T14:50:30Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T00:57:21.200+01:00'
 integrity:
@@ -57,9 +165,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:29Z'
-  notes: Texto consolidado 02001L0112-20260614.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:30Z'
+  notes: 6 versão(ões); histórico completo em diretiva-ue-2001-112.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -225,34 +333,21 @@ relationships:
   source: null
 article_structure:
   article_count: 13
-  section_count: 17
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 18
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:29Z'
-  warnings: []
+  checked_at: '2026-10-22T14:50:30Z'
+  warnings:
+  - '02001L0112-20020112: versão indisponível (Sem expressão na língua por para CELEX 02001L0112-20020112.)'
+  - '02001L0112-20100523: versão indisponível (Sem expressão na língua por para CELEX 02001L0112-20100523.)'
   errors: []
 ---
 
 # Directiva 2001/112/CE do Conselho, de 20 de Dezembro de 2001
-
-> 02001L0112 — PT — 14.06.2026 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32007R1182) — [REGULAMENTO (CE) N.º 1182/2007 DO CONSELHO de 26 de Setembro de 2007](http://publications.europa.eu/resource/celex/32007R1182) — L 273 — 1 — 17.10.2007
-- [M2](http://publications.europa.eu/resource/celex/32008R1332) — [REGULAMENTO (CE) N.º 1332/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008R1332) — L 354 — 7 — 31.12.2008
-- [M3](http://publications.europa.eu/resource/celex/32009L0106) — [DIRECTIVA 2009/106/CE DA COMISSÃO de 14 de Agosto de 2009](http://publications.europa.eu/resource/celex/32009L0106) — L 212 — 42 — 15.8.2009
-- [►M4](http://publications.europa.eu/resource/celex/32012L0012) — [DIRETIVA 2012/12/EU DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de abril de 2012](http://publications.europa.eu/resource/celex/32012L0012) — L 115 — 1 — 27.4.2012
-- [M5](http://publications.europa.eu/resource/celex/32014R1040) — [REGULAMENTO DELEGADO (UE) N.º 1040/2014 DA COMISSÃO de 25 de julho de 2014](http://publications.europa.eu/resource/celex/32014R1040) — L 288 — 1 — 2.10.2014
-- [►M6](http://publications.europa.eu/resource/celex/32024L1438) — [DIRETIVA (UE) 2024/1438 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024L1438) — L 1438 — 1 — 24.5.2024
-
-## DIRECTIVA 2001/112/CE DO CONSELHO
 
 de 20 de Dezembro de 2001
 

@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-10-07'
+version_history:
+  file: diretiva-ue-2006-87.versoes.json
+  count: 1
+  source_lastmod: '2018-10-07'
+  versions:
+  - date: '2018-10-07'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32006L0087
   eli: http://data.europa.eu/eli/dir/2006/87/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1f0687e6-dc64-493d-a185-1bad463ec8d1.0017
   content_url: http://publications.europa.eu/resource/cellar/b00dc4e8-c5ca-4a1f-b6ba-56b9f49f01b3.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0087-20181007
-  retrieved_at: '2026-10-22T03:12:36Z'
+  retrieved_at: '2026-10-22T15:02:35Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-21T11:03:38.891+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:36Z'
-  notes: Texto consolidado 02006L0087-20181007.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:02:35Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2006-87.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -195,16 +204,22 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:36Z'
+  checked_at: '2026-10-22T15:02:35Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02006L0087-20061230: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0087-20080627: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0087-20081020: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0087-20090131: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0087-20090430: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0087-20130110: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0087-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006L0087-20131101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

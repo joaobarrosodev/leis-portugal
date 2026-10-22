@@ -34,6 +34,75 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-06-01'
+version_history:
+  file: diretiva-ue-1993-34.versoes.json
+  count: 3
+  source_lastmod: '2010-06-01'
+  versions:
+  - date: '1993-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-03-28'
+    amending: eu:celex:31999L0025:por
+    amending_title: DIRECTIVA 1999/25/CE DA COMISSÃO Texto relevante para efeitos do EEE de 9 de Abril de 1999; DIRECTIVA
+      2006/27/CE DA COMISSÃO Texto relevante para efeitos do EEE de 3 de Março de 2006
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita ANEXO
+    - Adita PRESCRIÇÕES RELATIVAS ÀS INSCRIÇÕES REGULAMENTARES DOS VEÍCULOS A MOTOR DE DUAS OU TRÊS RODAS
+    - Adita 1. GENERALIDADES
+    - Adita 2. CHAPA DO FABRICANTE
+    - Adita 3. NÚMERO DE IDENTIFICAÇÃO DO VEÍCULO
+    - Adita 4. CARACTERES
+    - Adita Apêndice 1
+    - Adita Exemplo de chapa do fabricante
+    - Adita Apêndice 2
+    - Adita Ficha de informações no que diz às inscrições regulamentares de um modelo de veículo a motor de duas ou três rodas
+    - Adita (a juntar ao pedido de homologação, no caso de ser apresentado independentemente do pedido de recepção do veículo)
+    - Adita Apêndice 3
+    - Adita Certificado de homologação no que diz respeito às inscrições regulamentares de um modelo de veículo a motor de
+      duas ou três rodas
+    - Adita MODELO
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime ANEXO — PRESCRIÇÕES RELATIVAS ÀS INSCRIÇÕES REGULAMENTARES DOS VEÍCULOS A MOTOR DE DUAS OU TRÊS RODAS
+  - date: '2010-06-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime ANEXO
+    - Suprime PRESCRIÇÕES RELATIVAS ÀS INSCRIÇÕES REGULAMENTARES DOS VEÍCULOS A MOTOR DE DUAS OU TRÊS RODAS
+    - Suprime 1. GENERALIDADES
+    - Suprime 2. CHAPA DO FABRICANTE
+    - Suprime 3. NÚMERO DE IDENTIFICAÇÃO DO VEÍCULO
+    - Suprime 4. CARACTERES
+    - Suprime Apêndice 1
+    - Suprime Exemplo de chapa do fabricante
+    - Suprime Apêndice 2
+    - Suprime Ficha de informações no que diz às inscrições regulamentares de um modelo de veículo a motor de duas ou três
+      rodas
+    - Suprime (a juntar ao pedido de homologação, no caso de ser apresentado independentemente do pedido de recepção do veículo)
+    - Suprime Apêndice 3
+    - Suprime Certificado de homologação no que diz respeito às inscrições regulamentares de um modelo de veículo a motor
+      de duas ou três rodas
+    - Suprime MODELO
+    - Suprime Notas
 identifiers:
   celex: 31993L0034
   eli: http://data.europa.eu/eli/dir/1993/34/oj
@@ -48,7 +117,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d28e882c-5364-4e32-ab1c-a641e4cffbdc.0011
   content_url: http://publications.europa.eu/resource/cellar/46c9ce7e-870b-48e2-b583-11d9b1f01ebb.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0034-20100601
-  retrieved_at: '2026-10-22T03:07:11Z'
+  retrieved_at: '2026-10-22T14:42:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T18:25:54.691+01:00'
 integrity:
@@ -57,9 +126,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:07:11Z'
-  notes: Texto consolidado 01993L0034-20100601.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:03Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1993-34.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -114,16 +183,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:07:11Z'
+  checked_at: '2026-10-22T14:42:03Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01993L0034-19990511: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -35,6 +35,42 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-05-20'
+version_history:
+  file: diretiva-ue-1999-63.versoes.json
+  count: 2
+  source_lastmod: '2009-05-20'
+  versions:
+  - date: '1999-07-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-05-20'
+    amending: eu:celex:32009L0013:por
+    amending_title: DIRECTIVA 2009/13/CE DO CONSELHO de 16 de Fevereiro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Destinatários
+    - Adita ANEXO
+    - Adita ACORDO EUROPEU
+    - Adita relativo à organização do tempo de trabalho dos marítimos
+    - Adita Cláusula 1
+    - Adita Cláusula 2
+    - Adita Cláusula 3
+    - Adita Cláusula 4
+    - Adita Cláusula 5
+    - Adita Cláusula 6
+    - Adita Cláusula 7
+    - Adita Cláusula 8
+    - Adita Cláusula 9
+    - Adita Cláusula 10
+    - Adita Cláusula 11
+    - Adita Cláusula 12
+    - Adita Cláusula 13
+    - Adita Cláusula 14
+    - Adita Cláusula 15
+    - Adita Cláusula 16
+    - Adita Notas
+    - Suprime ANEXO — ACORDO EUROPEU
 identifiers:
   celex: 31999L0063
   eli: http://data.europa.eu/eli/dir/1999/63/oj
@@ -49,7 +85,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cc64ef2f-2417-439f-a10d-79d097d59db9.0011
   content_url: http://publications.europa.eu/resource/cellar/d3ec9dd3-842f-4cc2-83ce-24e33922f8a6.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0063-20090520
-  retrieved_at: '2026-10-22T02:47:14Z'
+  retrieved_at: '2026-10-22T14:47:52Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T11:51:45.419+01:00'
 integrity:
@@ -58,9 +94,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:14Z'
-  notes: Texto consolidado 01999L0063-20090520.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:52Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1999-63.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -137,29 +173,20 @@ relationships:
   date: '2014-10-11'
 article_structure:
   article_count: 4
-  section_count: 19
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 20
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:14Z'
-  warnings: []
+  checked_at: '2026-10-22T14:47:52Z'
+  warnings:
+  - '01999L0063-19990722: versão indisponível (Sem expressão na língua por para CELEX 01999L0063-19990722.)'
   errors: []
 ---
 
 # Directiva 1999/63/CE do Conselho, de 21 de Junho de 1999
-
-> 1999L0063 — PT — 20.05.2009 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009L0013) — [DIRECTIVA 2009/13/CE DO CONSELHO de 16 de Fevereiro de 2009](http://publications.europa.eu/resource/celex/32009L0013) — L 124 — 30 — 20.5.2009
-
-## DIRECTIVA 1999/63/CE DO CONSELHO
 
 de 21 de Junho de 1999
 

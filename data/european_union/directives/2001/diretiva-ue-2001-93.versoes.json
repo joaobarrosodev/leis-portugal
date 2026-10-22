@@ -1,0 +1,260 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0093:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0093-20090310",
+ "dre_path": null,
+ "source_lastmod": "2009-03-10",
+ "versions": [
+  {
+   "date": "2001-12-01",
+   "future": false,
+   "celex": "32001L0093",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "60889322fb1191e6",
+    "18f5f00462b4c6cf",
+    "3d105c003f906f5d",
+    "271594770ecf7591",
+    "2cac9683ee479a44",
+    "19f3dc4ba4ab17e8",
+    "50acc7d822b85898"
+   ]
+  },
+  {
+   "date": "2001-12-21",
+   "future": false,
+   "celex": "02001L0093-20011221",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Adita ANEXO",
+    "Adita CAPÍTULO I",
+    "Adita CONDIÇÕES GERAIS",
+    "Adita CAPÍTULO II",
+    "Adita DISPOSIÇÕES ESPECÍFICAS PARA VÁRIAS CATEGORIAS DE SUÍNOS",
+    "Adita A. VARRASCOS",
+    "Adita B. PORCAS E MARRÃS",
+    "Adita C. LEITÕES",
+    "Adita D. LEITÕES DESMAMADOS E PORCOS DE CRIAÇÃO",
+    "Adita Notas",
+    "Suprime ANEXO — CAPÍTULO I",
+    "Suprime CAPÍTULO II — DISPOSIÇÕES ESPECÍFICAS PARA VÁRIAS CATEGORIAS DE SUÍNOS"
+   ],
+   "fragments": [
+    "da0e6e9bfae9d2f7",
+    "18f5f00462b4c6cf",
+    "3d105c003f906f5d",
+    "61cb88ec116cd1f1",
+    "5c8b3cd719ea97c8",
+    "10220b9774fa9034",
+    "6da92fe0e02efe2c",
+    "aa2e89cea2ff7c3c",
+    "48fa5f7b94dc8eb9",
+    "1d7ff9011988f122",
+    "84fe7da6c73f5b0f",
+    "2e968b1f6d03cc2a",
+    "7909216e62c47b53",
+    "bd03e9e000558b29",
+    "ef71df89fb9f8e8c"
+   ]
+  },
+  {
+   "date": "2009-03-10",
+   "future": false,
+   "celex": "02001L0093-20090310",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime ANEXO",
+    "Suprime CAPÍTULO I",
+    "Suprime CONDIÇÕES GERAIS",
+    "Suprime CAPÍTULO II",
+    "Suprime DISPOSIÇÕES ESPECÍFICAS PARA VÁRIAS CATEGORIAS DE SUÍNOS",
+    "Suprime A. VARRASCOS",
+    "Suprime B. PORCAS E MARRÃS",
+    "Suprime C. LEITÕES",
+    "Suprime D. LEITÕES DESMAMADOS E PORCOS DE CRIAÇÃO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "64d2c3109ea9fdeb"
+   ]
+  }
+ ],
+ "fragments": {
+  "60889322fb1191e6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva da Comissão, de 9 de Novembro de 2001, que altera a Directiva 91/630/CEE do Conselho relativa às normas mínimas de protecção de suínos** *Jornal Oficial nº L 316 de 01/12/2001 p. 0036 - 0038*\n\nDirectiva da Comissão\n\nde 9 de Novembro de 2001\n\nque altera a Directiva 91/630/CEE do Conselho relativa às normas mínimas de protecção de suínos\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/630/CE do Conselho, de 19 de Novembro de 1991, relativa às normas mínimas de protecção de suínos(1), com a última redacção que lhe foi dada, e, nomeadamente, o seu artigo 5.o,\n\nConsiderando o seguinte:\n\n(1) Em 30 de Setembro de 1997, ao abrigo do disposto no artigo 6.o da Directiva 91/630/CEE, o Comité Científico Veterinário emitiu parecer sobre o bem-estar dos suínos em sistemas de criação intensiva.\n\n(2) A Directiva 98/58/CE do Conselho, de 20 de Julho de 1998, relativa à protecção dos animais nas explorações pecuárias(2), elaborada com base na Convenção Europeia sobre a protecção dos animais nos locais de criação, estabelece disposições comunitárias, aplicáveis a todos os animais de criação, sobre os requisitos de construção do alojamento dos animais, as condições de isolamento, aquecimento e ventilação, o equipamento de inspecção e a inspecção dos efectivos. É, portanto, necessário abordar estas questões no anexo da Directiva 91/630/CEE nos casos em que devam ser estabelecidos requisitos mais pormenorizados.\n\n(3) Quando os suínos se encontram agrupados, devem ser adoptadas medidas adequadas de maneio para a sua protecção, a fim de se melhorar o respectivo bem-estar.\n\n(4) O corte parcial da cauda ou dos dentes e a limagem dos dentes são causas prováveis de dor imediata e de alguma dor prolongada nos suínos. A castração é uma causa provável de dor prolongada, a qual é mais acentuada em caso de arrancamento de tecidos. Estas práticas afectam, portanto, o bem-estar dos suínos, especialmente se forem executadas por pessoas incompetentes ou inexperientes. Por conseguinte, devem ser estabelecidas disposições que assegurem melhores práticas.\n\n(5) O relatório supracitado do Comité Científico Veterinário recomenda que, com vista ao bem-estar dos animais, os leitões não sejam desmamados antes do 28 dias de idade, a menos que a saúde da porca ou dos leitões possa ser prejudicada ou haja benefícios para a saúde dos leitões que justifiquem um desmame mais precoce.\n\n(6) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "18f5f00462b4c6cf": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo da Directiva 91/630/CE é substituído pelo texto que consta do anexo da presente directiva."
+  },
+  "3d105c003f906f5d": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva o mais tardar até 1 de Janeiro de 2003 e comunicarão imediatamente à Comissão o texto dessas disposições.\n\nSempre que os Estados-Membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial."
+  },
+  "271594770ecf7591": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "2cac9683ee479a44": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 9 de Novembro de 2001.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 340 de 11.12.1991, p. 33.\n\n(2) JO L 221 de 8.8.1998, p. 23."
+  },
+  "19f3dc4ba4ab17e8": {
+   "fragment_id": "ANEXO — CAPÍTULO I",
+   "type": "divisao",
+   "heading": "ANEXO — CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — CAPÍTULO I\n\nCONDIÇÕES GERAIS\n\nPara além das disposições relevantes constantes do anexo da Directiva 95/58/CE, aplicam-se os requisitos que se seguem:\n\n1. Na parte do edifício em que os suínos são mantidos, devem ser evitados níveis de ruído contínuo maior ou igual a 85 dBA. Devem igualmente ser evitados ruídos constantes ou súbitos.\n\n2. Os suínos devem ser expostos a uma luz com uma intensidade de pelo menos 40 lux durante um período mínimo de 8 horas por dia.\n\n3. O alojamento dos suínos deve ser construído por forma a que os animais possam:\n\n- ter acesso a uma área de repouso física e termicamente confortável, adequadamente drenada e limpa, que permita que todos os animais se deitem simultaneamente,\n\n- repousar e levantar-se normalmente,\n\n- ver outros suínos; no entanto, na semana que precede a data prevista de parição e durante a parição, as porcas e marrãs podem ser mantidas fora da vista dos animais da mesma espécie.\n\n4. Sem prejuízo do disposto no n.o 5 do artigo 3.o, os suínos devem ter acesso permanente a uma quantidade suficiente de materiais para actividades de investigação e manipulação, como palha, feno, madeira, serradura, composto de cogumelos, turfa ou uma mistura destes materiais, que não comprometam a saúde dos animais.\n\n5. Os pavimentos deve ser lisos, mas antiderrapantes, para evitar lesões dos suínos, e devem ser concebidos e mantidos por forma a não causarem lesões nem sofrimento a estes animais. Devem ser adequados para a dimensão e peso dos suínos, e, se não forem fornecidas camas, constituir superfícies rígidas, planas e estáveis.\n\n6. Todos os suínos devem ser alimentados pelo menos uma vez por dia. Se forem alimentados em grupo, e não ad libitum ou através de um sistema automático de alimentação individual, todos os suínos do grupo devem ter acesso simultâneo aos alimentos.\n\n7. Todos os suínos com idade superior a duas semanas devem ter acesso permanente a uma quantidade suficiente de água fresca.\n\n8. São proibidos todos os procedimentos não devidos a motivos terapêuticos ou diagnósticos, ou destinados à identificação dos suínos em conformidade com a legislação relevante, que conduzam à lesão ou à perda de uma parte sensitiva do corpo ou à alteração da estrutura óssea, excepto os procedimentos que se seguem:\n\n- despontar uniforme dos comilhos dos leitões, através de limagem ou corte parcial efectuados o mais tardar até ao sétimo dia de vida dos mesmos, que resulte numa superfície intacta e lisa; se necessário, para evitar lesões a outros animais ou por motivos de segurança, pode reduzir-se o comprimento das defesas dos varrascos,\n\n- corte parcial das caudas,\n\n- castração dos porcos machos por meios que não sejam o arrancamento de tecidos,\n\n- a inserção de argolas nasais, embora apenas caso os animais sejam mantidos ao ar livre e seja observada a legislação nacional.\n\nO corte da cauda e o despontar dos comilhos não devem efectuar-se por rotina e apenas devem ser utilizados se houver dados objectivos que comprovem a existência de lesões das tetas das porcas ou dos ouvidos e caudas de outros suínos. Antes da sua execução, devem ser tomadas outras medidas para evitar mordeduras de cauda e outros vícios, que atendam ao ambiente e à densidade pecuária. As condições ambientais ou sistemas de maneio inadequados devem ser alterados por este motivo.\n\nTodos os procedimentos acima descritos apenas devem ser efectuados por um veterinário ou por uma pessoa treinada tal como disposto no artigo 5.o da Directiva 91/630/CEE, com experiência na execução das técnicas aplicadas e meios e condições de higiene adequados. Se forem praticados após o 7.o dia de vida, a castração e o corte da cauda apenas devem ser praticados por um veterinário, sob anestesia seguida de analgesia prolongada."
+  },
+  "50acc7d822b85898": {
+   "fragment_id": "CAPÍTULO II — DISPOSIÇÕES ESPECÍFICAS PARA VÁRIAS CATEGORIAS DE SUÍNOS",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — DISPOSIÇÕES ESPECÍFICAS PARA VÁRIAS CATEGORIAS DE SUÍNOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — DISPOSIÇÕES ESPECÍFICAS PARA VÁRIAS CATEGORIAS DE SUÍNOS\n\nA. VARRASCOS\n\nAs celas para varrascos devem estar localizadas e construídas por forma a que o varrasco possa rodar e ouvir, cheirar ou ver outros suínos. A área disponível de pavimento desobstruído para cada varrasco adulto deve ser, no mínimo, de 10 m2 e a cela não deve ter quaisquer obstáculos.\n\nSe as celas forem igualmente utilizadas com vista à reprodução natural, a área disponível de pavimento desobstruído para cada varrasco adulto deve ser, no mínimo, de 10 m2 e a cela não deve ter quaisquer obstáculos. A partir de 1 de Janeiro de 2003, a presente disposição aplicar-se-á a todas as explorações que venham a ser construídas, reconstruídas ou comecem a ser utilizadas pela primeira vez após essa data; a partir de 1 de Janeiro de 2005, a presente disposição será aplicável a todas as explorações.\n\nB. PORCAS E MARRÃS\n\n1. Devem ser adoptadas medidas para limitar as agressões no seio dos grupos.\n\n2. As porcas e marrãs grávidas devem, se necessário, ser tratadas contra parasitas externos e internos. Se forem colocadas em gaiolas de parto, as porcas e marrãs prenhes devem ser completamente limpas.\n\n3. Na semana que precede a data prevista de parição, as porcas e marrãs devem dispor de materiais de nidificação em quantidade suficiente, a menos que sejam tecnicamente inviáveis com o sistema de chorume utilizado no estabelecimento.\n\n4. Deve existir uma área desobstruída atrás da porca ou marrã, para facilitar a parição natural ou assistida.\n\n5. As gaiolas de parto em que as porcas se encontram livres devem dispor de alguns meios de protecção dos leitões, como grades.\n\nC. LEITÕES\n\n1. Uma parte do pavimento suficiente para que os animais possam repousar juntos simultaneamente deve ser sólida ou recoberta por um tapete, por palha ou por qualquer outro material adequado.\n\n2. Se for utilizada uma gaiola de parto, os leitões devem dispor de espaço suficiente para que possam ser aleitados sem dificuldade.\n\n3. Os leitões não devem ser separados da mãe antes dos 28 dias de idade, a menos que a não separação seja prejudicial ao bem-estar ou à saúde da porca ou dos leitões. No entanto, os leitões podem ser separados até 7 dias mais cedo se forem transferidos para instalações especializadas que sejam esvaziadas e meticulosamente limpas e desinfectadas antes da introdução de um novo grupo, separadas das instalações aonde as porcas são mantidas, por forma a limitar a transmissão de doenças aos leitões.\n\nD. LEITÕES DESMAMADOS E PORCOS DE CRIAÇÃO\n\n1. Se os suínos forem mantidos em grupo, devem ser tomadas medidas para evitar lutas que constituam um desvio em relação ao comportamento normal.\n\n2. Os suínos devem ser mantidos em grupos com o mínimo possível de miscigenação. Se suínos não familiarizados uns com os outros tiverem de ser agrupados, a miscigenação deve ocorrer na idade mais precoce possível, preferivelmente antes do desmame ou até uma semana após o mesmo. Se se proceder à miscigenação, os suínos devem dispor de oportunidades adequadas para poderem fugir e esconder-se dos restantes suínos.\n\n3. Se existirem sinais de lutas intensas, há que apurar imediatamente as causas e adoptar medidas adequadas, como o fornecimento abundante de palha aos animais, e, se possível, outros materiais para investigação. Os animais em risco ou os agressores específicos devem ser separados do grupo.\n\n4. O recurso a tranquilizantes para facilitar a miscigenação deve limitar-se a circunstâncias excepcionais e apenas deve ocorrer após consulta de um veterinário."
+  },
+  "da0e6e9bfae9d2f7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Novembro de 2001\n\nque altera a Directiva 91/630/CEE do Conselho relativa às normas mínimas de protecção de suínos.\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/630/CE do Conselho, de 19 de Novembro de 1991, relativa às normas mínimas de protecção de suínos ([^1^](http://publications.europa.eu/resource/cellar/4ce79f11-d6c4-4a26-82c7-904dd70cd3e9.0001.03/DOC_1#E0001)), com a última redacção que lhe foi dada, e, nomeadamente, o seu artigo 5.º,\n\n(1) Em 30 de Setembro de 1997, ao abrigo do disposto no artigo 6.º da Directiva 91/630/CEE, o Comité Científico Veterinário emitiu parecer sobre o bem-estar dos suínos em sistemas de criação intensiva.\n\n(2) A Directiva 98/58/CE do Conselho, de 20 de Julho de 1998, relativa à protecção dos animais nas explorações pecuárias ([^2^](http://publications.europa.eu/resource/cellar/4ce79f11-d6c4-4a26-82c7-904dd70cd3e9.0001.03/DOC_1#E0002)), elaborada com base na Convenção Europeia sobre a protecção dos animais nos locais de criação, estabelece disposições comunitárias, aplicáveis a todos os animais de criação, sobre os requisitos de construção do alojamento dos animais, as condições de isolamento, aquecimento e ventilação, o equipamento de inspecção e a inspecção dos efectivos. É, portanto, necessário abordar estas questões no anexo da Directiva 91/630/CEE nos casos em que devam ser estabelecidos requisitos mais pormenorizados.\n\n(3) Quando os suínos se encontram agrupados, devem ser adoptadas medidas adequadas de maneio para a sua protecção, a fim de se melhorar o respectivo bem-estar.\n\n(4) O corte parcial da cauda ou dos dentes e a limagem dos dentes são causas prováveis de dor imediata e de alguma dor prolongada nos suínos. A castração é uma causa provável de dor prolongada, a qual é mais acentuada em caso de arrancamento de tecidos. Estas práticas afectam, portanto, o bem-estar dos suínos, especialmente se forem executadas por pessoas incompetentes ou inexperientes. Por conseguinte, devem ser estabelecidas disposições que assegurem melhores práticas.\n\n(5) O relatório supracitado do Comité Científico Veterinário recomenda que, com vista ao bem-estar dos animais, os leitões não sejam desmamados antes do 28 dias de idade, a menos que a saúde da porca ou dos leitões possa ser prejudicada ou haja benefícios para a saúde dos leitões que justifiquem um desmame mais precoce.\n\n(6) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "61cb88ec116cd1f1": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "5c8b3cd719ea97c8": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "6da92fe0e02efe2c": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I"
+  },
+  "aa2e89cea2ff7c3c": {
+   "fragment_id": "CONDIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "CONDIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES GERAIS\n\nPara além das disposições relevantes constantes do anexo da Directiva 95/58/CE, aplicam-se os requisitos que se seguem:\n\n1. Na parte do edifício em que os suínos são mantidos, devem ser evitados níveis de ruído contínuo maior ou igual a 85 dBA. Devem igualmente ser evitados ruídos constantes ou súbitos.\n\n2. Os suínos devem ser expostos a uma luz com uma intensidade de pelo menos 40 lux durante um período mínimo de 8 horas por dia.\n\n3. O alojamento dos suínos deve ser construído por forma a que os animais possam:\n\n— ter acesso a uma área de repouso física e termicamente confortável, adequadamente drenada e limpa, que permita que todos os animais se deitem simultaneamente,\n\n— repousar e levantar-se normalmente,\n\n— ver outros suínos; no entanto, na semana que precede a data prevista de parição e durante a parição, as porcas e marrãs podem ser mantidas fora da vista dos animais da mesma espécie.\n\n4. Sem prejuízo do disposto no n.º 5 do artigo 3.º, os suínos devem ter acesso permanente a uma quantidade suficiente de materiais para actividades de investigação e manipulação, como palha, feno, madeira, serradura, composto de cogumelos, turfa ou uma mistura destes materiais, que não comprometam a saúde dos animais.\n\n5. Os pavimentos deve ser lisos, mas antiderrapantes, para evitar lesões dos suínos, e devem ser concebidos e mantidos por forma a não causarem lesões nem sofrimento a estes animais. Devem ser adequados para a dimensão e peso dos suínos, e, se não forem fornecidas camas, constituir superfícies rígidas, planas e estáveis.\n\n6. Todos os suínos devem ser alimentados pelo menos uma vez por dia. Se forem alimentados em grupo, e não *ad libitum* ou através de um sistema automático de alimentação individual, todos os suínos do grupo devem ter acesso simultâneo aos alimentos.\n\n7. Todos os suínos com idade superior a duas semanas devem ter acesso permanente a uma quantidade suficiente de água fresca.\n\n8. São proibidos todos os procedimentos não devidos a motivos terapêuticos ou diagnósticos, ou destinados à identificação dos suínos em conformidade com a legislação relevante, que conduzam à lesão ou à perda de uma parte sensitiva do corpo ou à alteração da estrutura óssea, excepto os procedimentos que se seguem:\n\n— despontar uniforme dos comilhos dos leitões, através de limagem ou corte parcial efectuados o mais tardar até ao sétimo dia de vida dos mesmos, que resulte numa superfície intacta e lisa; se necessário, para evitar lesões a outros animais ou por motivos de segurança, pode reduzir-se o comprimento das defesas dos varrascos,\n\n— corte parcial das caudas,\n\n— castração dos porcos machos por meios que não sejam o arrancamento de tecidos,\n\n— a inserção de argolas nasais, embora apenas caso os animais sejam mantidos ao ar livre e seja observada a legislação nacional."
+  },
+  "48fa5f7b94dc8eb9": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II"
+  },
+  "1d7ff9011988f122": {
+   "fragment_id": "DISPOSIÇÕES ESPECÍFICAS PARA VÁRIAS CATEGORIAS DE SUÍNOS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES ESPECÍFICAS PARA VÁRIAS CATEGORIAS DE SUÍNOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES ESPECÍFICAS PARA VÁRIAS CATEGORIAS DE SUÍNOS"
+  },
+  "84fe7da6c73f5b0f": {
+   "fragment_id": "A. VARRASCOS",
+   "type": "divisao",
+   "heading": "A. VARRASCOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. VARRASCOS\n\nAs celas para varrascos devem estar localizadas e construídas por forma a que o varrasco possa rodar e ouvir, cheirar ou ver outros suínos. A área disponível de pavimento desobstruído para cada varrasco adulto deve ser, no mínimo, de 6 m^2^.\n\nSe as celas forem igualmente utilizadas com vista à reprodução natural, a área disponível de pavimento desobstruído para cada varrasco adulto deve ser, no mínimo, de 10 m^2^ e a cela não deve ter quaisquer obstáculos. A partir de 1 de Janeiro de 2003, a presente disposição aplicar-se-á a todas as explorações que venham a ser construídas, reconstruídas ou comecem a ser utilizadas pela primeira vez após essa data; a partir de 1 de Janeiro de 2005, a presente disposição será aplicável a todas as explorações."
+  },
+  "2e968b1f6d03cc2a": {
+   "fragment_id": "B. PORCAS E MARRÃS",
+   "type": "divisao",
+   "heading": "B. PORCAS E MARRÃS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. PORCAS E MARRÃS\n\n1. Devem ser adoptadas medidas para limitar as agressões no seio dos grupos.\n\n2. As porcas e marrãs grávidas devem, se necessário, ser tratadas contra parasitas externos e internos. Se forem colocadas em gaiolas de parto, as porcas e marrãs prenhes devem ser completamente limpas.\n\n3. Na semana que precede a data prevista de parição, as porcas e marrãs devem dispor de materiais de nidificação em quantidade suficiente, a menos que sejam tecnicamente inviáveis com o sistema de chorume utilizado no estabelecimento.\n\n4. Deve existir uma área desobstruída atrás da porca ou marrã, para facilitar a parição natural ou assistida.\n\n5. As gaiolas de parto em que as porcas se encontram livres devem dispor de alguns meios de protecção dos leitões, como grades."
+  },
+  "7909216e62c47b53": {
+   "fragment_id": "C. LEITÕES",
+   "type": "divisao",
+   "heading": "C. LEITÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. LEITÕES\n\n1. Uma parte do pavimento suficiente para que os animais possam repousar juntos simultaneamente deve ser sólida ou recoberta por um tapete, por palha ou por qualquer outro material adequado.\n\n2. Se for utilizada uma gaiola de parto, os leitões devem dispor de espaço suficiente para que possam ser aleitados sem dificuldade.\n\n3. Os leitões não devem ser separados da mãe antes dos 28 dias de idade, a menos que a não separação seja prejudicial ao bem-estar ou à saúde da porca ou dos leitões. No entanto, os leitões podem ser separados até 7 dias mais cedo se forem transferidos para instalações especializadas que sejam esvaziadas e meticulosamente limpas e desinfectadas antes da introdução de um novo grupo, separadas das instalações aonde as porcas são mantidas, por forma a limitar a transmissão de doenças aos leitões."
+  },
+  "bd03e9e000558b29": {
+   "fragment_id": "D. LEITÕES DESMAMADOS E PORCOS DE CRIAÇÃO",
+   "type": "divisao",
+   "heading": "D. LEITÕES DESMAMADOS E PORCOS DE CRIAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### D. LEITÕES DESMAMADOS E PORCOS DE CRIAÇÃO\n\n1. Se os suínos forem mantidos em grupo, devem ser tomadas medidas para evitar lutas que constituam um desvio em relação ao comportamento normal.\n\n2. Os suínos devem ser mantidos em grupos com o mínimo possível de miscigenação. Se suínos não familiarizados uns com os outros tiverem de ser agrupados, a miscigenação deve ocorrer na idade mais precoce possível, preferivelmente antes do desmame ou até uma semana após o mesmo. Se se proceder à miscigenação, os suínos devem dispor de oportunidades adequadas para poderem fugir e esconder-se dos restantes suínos.\n\n3. Se existirem sinais de lutas intensas, há que apurar imediatamente as causas e adoptar medidas adequadas, como o fornecimento abundante de palha aos animais, e, se possível, outros materiais para investigação. Os animais em risco ou os agressores específicos devem ser separados do grupo.\n\n4. O recurso a tranquilizantes para facilitar a miscigenação deve limitar-se a circunstâncias excepcionais e apenas deve ocorrer após consulta de um veterinário.\n\n---"
+  },
+  "ef71df89fb9f8e8c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4ce79f11-d6c4-4a26-82c7-904dd70cd3e9.0001.03/DOC_1#src.E0001)) JO L 340 de 11.12.1991, p. 33.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4ce79f11-d6c4-4a26-82c7-904dd70cd3e9.0001.03/DOC_1#src.E0002)) JO L 221 de 8.8.1998, p. 23."
+  },
+  "64d2c3109ea9fdeb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2001L0093 — PT — 10.03.2009 — 001.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32001L0093) [Directiva 2001/93/CE da Comissão](http://publications.europa.eu/resource/celex/32001L0093) [de 9 de Novembro de 2001](http://publications.europa.eu/resource/celex/32001L0093) [que altera a Directiva 91/630/CEE do Conselho relativa às normas mínimas de protecção de suínos.](http://publications.europa.eu/resource/celex/32001L0093) (JO L 316, 1.12.2001, p.36)\n\n**revogado por:**\n\n- [Directiva 2008/120/CE do Conselho de 18 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008L0120) — L 47 — 5 — 18.2.2009"
+  }
+ }
+}

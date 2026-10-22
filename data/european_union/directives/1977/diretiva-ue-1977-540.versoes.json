@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31977L0540:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977L0540-20141101",
+ "dre_path": null,
+ "source_lastmod": "2014-11-01",
+ "versions": [
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "celex": "01977L0540-20141101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "990a9faf4e23f2ab"
+   ]
+  }
+ ],
+ "fragments": {
+  "990a9faf4e23f2ab": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1977L0540 — PT — 01.11.2014 — 009.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31977L0540) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31977L0540) [de 28 de Junho de 1977](http://publications.europa.eu/resource/celex/31977L0540) [relativa à aproximação das legislações dos Estados-membros respeitantes às luzes de estacionamento dos veículos a motor e seus reboques](http://publications.europa.eu/resource/celex/31977L0540) [(77/540/CEE)](http://publications.europa.eu/resource/celex/31977L0540) (JO L 220, 29.8.1977, p.83)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 661/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0661) — L 200 — 1 — 31.7.2009"
+  }
+ }
+}

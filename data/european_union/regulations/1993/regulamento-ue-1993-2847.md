@@ -36,6 +36,194 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-05-07'
+version_history:
+  file: regulamento-ue-1993-2847.versoes.json
+  count: 8
+  source_lastmod: '2011-05-07'
+  versions:
+  - date: '1993-10-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-06-10'
+    amending: eu:celex:31995R2870:por
+    amending_title: Regulamento (CE) n o 2870/95 do Conselho de 8 de Dezembro de 1995; M2; M3; Regulamento (CE) n o 686/97
+      do Conselho de 14 de Abril de 1997; Regulamento (CE) n o 2205/97 do Conselho de 30 de Outubro de 1997; Regulamento (CE)
+      n o 2635/97 do Conselho de 18 de Dezembro de 1997; REGULAMENTO (CE) N.O 2846/98 DO CONSELHO de 17 de Dezembro de 1998;
+      REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003; REGULAMENTO (CE) N. o 1954/2003 DO CONSELHO de 4
+      de Novembro de 2003; REGULAMENTO (CE) N. o 768/2005 DO CONSELHO de 26 de Abril de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3º
+    - Altera Artigo 4º
+    - Altera Artigo 6º
+    - Altera Artigo 7º
+    - Altera Artigo 8º
+    - Altera Artigo 9º
+    - Altera Artigo 13º
+    - Altera Artigo 14º
+    - Altera Artigo 18º
+    - Altera Artigo 19º
+    - Altera Artigo 20º
+    - Altera Artigo 21º
+    - Altera Artigo 27º
+    - Altera Artigo 28º
+    - Altera Artigo 29º
+    - Altera Artigo 30º
+    - Altera Artigo 31º
+    - Altera Artigo 38º
+    - Adita TÍTULO I
+    - Adita Controlo, inspecção e vigilância
+    - Adita Artigo 2.º
+    - Adita Artigo 5.º
+    - Adita TÍTULO II
+    - Adita Controlo das capturas
+    - Adita Artigo 11.º
+    - Adita TÍTULO IIA
+    - Adita Controlo dos esforços de pesca
+    - Adita Artigo 19º A
+    - Adita Artigo 19º B
+    - Adita Artigo 19º C
+    - Adita Artigo 19ºD
+    - Adita Artigo 19º E
+    - Adita Artigo 19º F
+    - Adita Artigo 19ºG
+    - Adita Artigo 19ºH
+    - Adita Artigo 19º I
+    - Adita Artigo 19ºJ
+    - Adita Artigo 19º [►M9](http://publications.europa.eu/resource/celex/32003R1954) K◄
+    - Adita TÍTULO III
+  - date: '2007-01-29'
+    amending: eu:celex:32006R1967:por
+    amending_title: REGULAMENTO (CE) N. o 1967/2006 DO CONSELH de 21 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6º
+    - Altera Artigo 9º
+    - Altera Artigo 19º
+    - Altera Artigo 19º A
+    - Altera Artigo 19º F
+    - Altera Artigo 19ºH
+    - Altera Artigo 20º
+    - Altera Artigo 27º
+    - Altera Artigo 28º
+    - Altera Artigo 28.ºB
+    - Altera Artigo 34.ºC
+    - Altera Artigo 36.º
+    - Altera Artigo 38º
+    - Altera Notas
+  - date: '2008-01-01'
+    amending: eu:celex:32007R1098:por
+    amending_title: REGULAMENTO (CE) N. o 1098/2007 DO CONSELHO de 18 de Setembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9º
+    - Altera Artigo 19º
+    - Altera Artigo 19º A
+    - Altera Artigo 19º F
+    - Altera Artigo 19ºH
+    - Altera Artigo 20º
+    - Altera Artigo 27º
+    - Altera Artigo 28º
+    - Altera Artigo 28.ºB
+    - Altera Artigo 34.ºC
+    - Altera Artigo 36.º
+    - Altera Artigo 38º
+    - Altera Notas
+  - date: '2008-11-18'
+    amending: eu:celex:32008R1006:por
+    amending_title: REGULAMENTO (CE) N. o 1006/2008 DO CONSELHO de 29 de Setembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9º
+    - Altera Artigo 19º
+    - Altera Artigo 19º F
+    - Altera Artigo 19ºH
+    - Altera Artigo 20º
+    - Altera Artigo 27º
+    - Altera Artigo 28º
+    - Altera Artigo 34.ºC
+    - Altera Artigo 36.º
+    - Altera Artigo 38º
+    - Altera Notas
+    - Suprime Artigo 18º
+    - Suprime Artigo 28.ºB
+    - Suprime Artigo 28.ºC
+    - Suprime Artigo 28.ºD
+  - date: '2010-01-01'
+    amending: eu:celex:32008R1005:por
+    amending_title: REGULAMENTO (CE) N. o 1005/2008 DO CONSELHO de 29 de Setembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9º
+    - Altera Artigo 19º
+    - Altera Artigo 19º F
+    - Altera Artigo 19ºH
+    - Altera Artigo 20º
+    - Altera Artigo 27º
+    - Altera Artigo 28º
+    - Altera Artigo 34.ºC
+    - Altera Artigo 36.º
+    - Altera Artigo 38º
+    - Altera Notas
+    - Suprime Artigo 28.ºE
+    - Suprime Artigo 28.ºF
+    - Suprime Artigo 28.ºG
+  - date: '2011-01-01'
+    amending: eu:celex:32009R1224:por
+    amending_title: REGULAMENTO (CE) N. o 1224/2009 do Conselho, de 20 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º
+    - Altera Notas
+    - Adita Artigo 6.º
+    - Adita Artigo 8.º
+    - Suprime Artigo 1º
+    - Suprime TÍTULO I
+    - Suprime Controlo, inspecção e vigilância
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime Artigo 17º
+    - Suprime Artigo 19º
+    - Suprime TÍTULO IIA
+    - Suprime Controlo dos esforços de pesca
+    - Suprime Artigo 19º A
+    - Suprime Artigo 19º B
+    - Suprime Artigo 19º C
+    - Suprime Artigo 19ºD
+    - Suprime Artigo 19º E
+    - Suprime Artigo 19º F
+    - Suprime Artigo 19ºG
+    - Suprime Artigo 19ºH
+    - Suprime Artigo 19º I
+    - Suprime Artigo 19ºJ
+    - Suprime Artigo 19º [►M9](http://publications.europa.eu/resource/celex/32003R1954) K◄
+    - Suprime TÍTULO III
+    - Suprime Controlo da utilização das artes de pesca
+    - Suprime Artigo 20º
+    - Suprime Artigo 20º A
+  - date: '2011-05-07'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO II
+    - Suprime Controlo das capturas
+    - Suprime Artigo 6.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 11.º
+    - Suprime Notas
 identifiers:
   celex: 31993R2847
   eli: http://data.europa.eu/eli/reg/1993/2847/oj
@@ -50,7 +238,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/abefb47d-5ddd-4bbf-89da-9d8b447f9228.0011
   content_url: http://publications.europa.eu/resource/cellar/2522a52a-87d0-4474-8eb5-81ac1cac25ea.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R2847-20110507
-  retrieved_at: '2026-10-22T02:37:23Z'
+  retrieved_at: '2026-10-22T14:42:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T14:51:44.581+01:00'
 integrity:
@@ -59,9 +247,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:23Z'
-  notes: Texto consolidado 01993R2847-20110507.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:40Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-1993-2847.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -262,16 +450,19 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:23Z'
+  checked_at: '2026-10-22T14:42:40Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01993R2847-19980701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R2847-19990101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R2847-19990701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R2847-20000101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R2847-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -35,6 +35,138 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-03-28'
+version_history:
+  file: regulamento-ue-2001-539.versoes.json
+  count: 10
+  source_lastmod: '2017-03-28'
+  versions:
+  - date: '2001-03-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-06-24'
+    amending: eu:celex:32001R2414:por
+    amending_title: REGULAMENTO (CE) N. o 2414/2001 DO CONSELHO de 7 de Dezembro de 2001; REGULAMENTO (CE) N. o 453/2003 DO
+      CONSELHO de 6 de Março de 2003; REGULAMENTO (CE) N. o 851/2005 DO CONSELHO de 2 de Junho de 2005; Acto relativo às condições
+      de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República
+      da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da
+      República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Adita ANEXO I
+    - Adita Lista comum referida no n.º 1 do artigo 1.º
+    - Adita ANEXO II
+    - Adita Lista comum referida no n.º 2 do artigo 1.º
+    - Adita Notas
+    - Suprime ANEXO I — Lista comum referida no n.o 1 do artigo 1.o
+    - Suprime ANEXO II — Lista comum referida no n.o 2 do artigo 1.o
+  - date: '2007-01-19'
+    amending: eu:celex:32006R1791:por
+    amending_title: REGULAMENTO (CE) N. o 1791/2006 DO CONSELHO de 20 de Novembro de 2006; REGULAMENTO (CE) N. o 1932/2006
+      DO CONSELHO de 21 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Lista comum referida no n.º 1 do artigo 1.º
+    - Altera Lista comum referida no n.º 2 do artigo 1.º
+    - Altera Notas
+    - Suprime Artigo 3.º
+  - date: '2009-12-19'
+    amending: eu:celex:32009R1244:por
+    amending_title: REGULAMENTO (CE) N. o 1244/2009 DO CONSELHO de 30 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Lista comum referida no n.º 1 do artigo 1.º
+    - Altera Lista comum referida no n.º 2 do artigo 1.º
+    - Altera Notas
+  - date: '2011-01-11'
+    amending: eu:celex:32010R1091:por
+    amending_title: REGULAMENTO (UE) N. o 1091/2010 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de Novembro de 2010; REGULAMENTO
+      (UE) N. o 1211/2010 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Dezembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Lista comum referida no n.º 1 do artigo 1.º
+    - Altera Lista comum referida no n.º 2 do artigo 1.º
+    - Altera Notas
+  - date: '2013-10-18'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013; REGULAMENTO (UE) N. o 610/2013 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 26 de junho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Lista comum referida no n.º 2 do artigo 1.º
+    - Altera Notas
+  - date: '2014-01-09'
+    amending: eu:celex:32013R1289:por
+    amending_title: REGULAMENTO (UE) N. o 1289/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Lista comum referida no n.º 2 do artigo 1.º
+    - Altera Notas
+    - Adita Artigo 1.º-A
+    - Adita Artigo 1.º-B
+    - Adita Artigo 4.º-A
+    - Adita Artigo 4.º-B
+  - date: '2014-04-28'
+    amending: eu:celex:32014R0259:por
+    amending_title: Regulamento (UE) n. o 259/2014 do Parlamento Europeu e do Conselho de 3 de abril de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º-A
+    - Altera Artigo 7.º
+    - Altera Lista comum referida no n.º 1 do artigo 1.º
+    - Altera Lista comum referida no n.º 2 do artigo 1.º
+    - Altera Notas
+  - date: '2014-06-09'
+    amending: eu:celex:32014R0509:por
+    amending_title: REGULAMENTO (UE) N. o 509/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Maio de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º-A
+    - Altera Artigo 7.º
+    - Altera Lista comum referida no n.º 1 do artigo 1.º
+    - Altera Lista comum referida no n.º 2 do artigo 1.º
+    - Altera Notas
+    - Adita Artigo –1.º
+  - date: '2017-03-28'
+    amending: eu:celex:32017R0371:por
+    amending_title: REGULAMENTO (UE) 2017/371 DO PARLAMENTO EUROPEU E DO CONSELHO de 1 de março de 2017; REGULAMENTO (UE)
+      2017/372 DO PARLAMENTO EUROPEU E DO CONSELHO de 1 de março de 2017
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 1.º-A
+    - Altera Artigo 1.º-B
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º-A
+    - Altera Artigo 4.º-B
+    - Altera Artigo 7.º
+    - Altera Lista comum referida no n.º 1 do artigo 1.º
+    - Altera Lista comum referida no n.º 2 do artigo 1.º
+    - Altera Notas
+    - Adita Artigo 1.º-C
 identifiers:
   celex: 32001R0539
   eli: http://data.europa.eu/eli/reg/2001/539/oj
@@ -49,7 +181,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8e176c97-4bea-465e-b557-9cb92ce08038.0010
   content_url: http://publications.europa.eu/resource/cellar/eefb2656-793b-467d-b73a-cdb73f979841.0016.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R0539-20170328
-  retrieved_at: '2026-10-22T02:51:21Z'
+  retrieved_at: '2026-10-22T14:50:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-11T15:02:04.488+02:00'
 integrity:
@@ -58,9 +190,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:21Z'
-  notes: Texto consolidado 02001R0539-20170328.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:41Z'
+  notes: 10 versão(ões); histórico completo em regulamento-ue-2001-539.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -236,51 +368,22 @@ relationships:
   date: '2000-12-04'
 article_structure:
   article_count: 13
-  section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 5
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:21Z'
-  warnings: []
+  checked_at: '2026-10-22T14:50:41Z'
+  warnings:
+  - '02001R0539-20020101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0539-20030402: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0539-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 539/2001 do Conselho, de 15 de Março de 2001
-
-> 02001R0539 — PT — 28.03.2017 — 012.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32001R2414) — [REGULAMENTO (CE) N.º 2414/2001 DO CONSELHO de 7 de Dezembro de 2001](http://publications.europa.eu/resource/celex/32001R2414) — L 327 — 1 — 12.12.2001
-- [►M2](http://publications.europa.eu/resource/celex/32003R0453) — [REGULAMENTO (CE) N.º 453/2003 DO CONSELHO de 6 de Março de 2003](http://publications.europa.eu/resource/celex/32003R0453) — L 69 — 10 — 13.3.2003
-- [M3](http://publications.europa.eu/resource/celex/32005R0851) — [REGULAMENTO (CE) N.º 851/2005 DO CONSELHO de 2 de Junho de 2005](http://publications.europa.eu/resource/celex/32005R0851) — L 141 — 3 — 4.6.2005
-- [►M4](http://publications.europa.eu/resource/celex/32006R1791) — [REGULAMENTO (CE) N.º 1791/2006 DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006R1791) — L 363 — 1 — 20.12.2006
-- [►M5](http://publications.europa.eu/resource/celex/32006R1932) — [REGULAMENTO (CE) N.º 1932/2006 DO CONSELHO de 21 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1932) — L 405 — 23 — 30.12.2006
-- [►M6](http://publications.europa.eu/resource/celex/32009R1244) — [REGULAMENTO (CE) N.º 1244/2009 DO CONSELHO de 30 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1244) — L 336 — 1 — 18.12.2009
-- [►M7](http://publications.europa.eu/resource/celex/32010R1091) — [REGULAMENTO (UE) N.º 1091/2010 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de Novembro de 2010](http://publications.europa.eu/resource/celex/32010R1091) — L 329 — 1 — 14.12.2010
-- [►M8](http://publications.europa.eu/resource/celex/32010R1211) — [REGULAMENTO (UE) N.º 1211/2010 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Dezembro de 2010](http://publications.europa.eu/resource/celex/32010R1211) — L 339 — 6 — 22.12.2010
-- [►M9](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de Maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [►M10](http://publications.europa.eu/resource/celex/32013R0610) — [REGULAMENTO (UE) N.º 610/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de Junho de 2013](http://publications.europa.eu/resource/celex/32013R0610) — L 182 — 1 — 29.6.2013
-- [►M11](http://publications.europa.eu/resource/celex/32013R1289) — [REGULAMENTO (UE) N.º 1289/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1289) — L 347 — 74 — 20.12.2013
-- [►M12](http://publications.europa.eu/resource/celex/32014R0259) — [REGULAMENTO (UE) N.º 259/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 3 de Abril de 2014](http://publications.europa.eu/resource/celex/32014R0259) — L 105 — 9 — 8.4.2014
-- [►M13](http://publications.europa.eu/resource/celex/32014R0509) — [REGULAMENTO (UE) N.º 509/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Maio de 2014](http://publications.europa.eu/resource/celex/32014R0509) — L 149 — 67 — 20.5.2014
-- [►M14](http://publications.europa.eu/resource/celex/32017R0371) — [REGULAMENTO (UE) 2017/371 DO PARLAMENTO EUROPEU E DO CONSELHO de 1 de março de 2017](http://publications.europa.eu/resource/celex/32017R0371) — L 61 — 1 — 8.3.2017
-- [►M15](http://publications.europa.eu/resource/celex/32017R0372) — [REGULAMENTO (UE) 2017/372 DO PARLAMENTO EUROPEU E DO CONSELHO de 1 de março de 2017](http://publications.europa.eu/resource/celex/32017R0372) — L 61 — 7 — 8.3.2017
-
-**Alterado por:**
-
-- [►A1](http://publications.europa.eu/resource/celex/12003T) — [ACTO relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T%2FTXT) — L 236 — 33 — 23.9.2003
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32006R1932R%2801%29) — [Rectificação, JO L 029, 3.2.2007, p. 10 (1932/2006)](http://publications.europa.eu/resource/celex/32006R1932R%2801%29)
-
-## REGULAMENTO (CE) N.º 539/2001 DO CONSELHO
 
 de 15 de Março de 2001
 

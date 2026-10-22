@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-01-23'
+version_history:
+  file: regulamento-ue-2001-1338.versoes.json
+  count: 1
+  source_lastmod: '2009-01-23'
+  versions:
+  - date: '2009-01-23'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32001R1338
   eli: http://data.europa.eu/eli/reg/2001/1338/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/886db9b5-9b83-4ade-b6c8-5837017dd2f1.0010
   content_url: http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R1338-20090123
-  retrieved_at: '2026-10-22T02:51:23Z'
+  retrieved_at: '2026-10-22T14:50:51Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-11T15:10:53.351+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:23Z'
-  notes: Texto consolidado 02001R1338-20090123.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:51Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2001-1338.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -123,33 +132,20 @@ relationships:
   date: '2023-04-20'
 article_structure:
   article_count: 13
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:23Z'
-  warnings: []
+  checked_at: '2026-10-22T14:50:51Z'
+  warnings:
+  - '02001R1338-20010704: versão indisponível (Sem expressão na língua por para CELEX 02001R1338-20010704.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 1338/2001 do Conselho, de 28 de Junho de 2001
-
-> 2001R1338 — PT — 23.01.2009 — 001.003
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0044) — [REGULAMENTO (CE) N.º 44/2009 DO CONSELHO de 18 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32009R0044) — L 17 — 1 — 22.1.2009
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009R0044R%2801%29) — [Rectificação, JO L 104, 23.4.2015, p. 52 (44/2009)](http://publications.europa.eu/resource/celex/32009R0044R%2801%29)
-
-## REGULAMENTO (CE) N.º 1338/2001 DO CONSELHO
 
 de 28 de Junho de 2001
 

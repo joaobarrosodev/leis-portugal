@@ -33,6 +33,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-01-01'
+version_history:
+  file: diretiva-ue-1982-894.versoes.json
+  count: 3
+  source_lastmod: '2013-01-01'
+  versions:
+  - date: '1982-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-08-01'
+    amending: eu:celex:31985R3768:por
+    amending_title: M1; M2; M3; M4; M5; M6; M7; REGULAMENTO (CE) N. o 807/2003 DO CONSELHO de 14 de Abril de 2003; M9; DECISÃO
+      DA COMISSÃO de 30 de Julho de 2008; Acto de Adesão da Áustria, da Finlândia e da Suécia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita ANEXO I
+    - Adita Doenças que são objecto de notificação
+    - Adita A. Doenças de animais terrestres
+    - Adita B. Doenças de animais aquáticos
+    - Adita ANEXO II
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime ANEXO I — Doenças que são objecto da notificação
+    - Suprime ANEXO II — Informações prestadas no âmbito da notificação
+  - date: '2013-01-01'
+    amending: eu:celex:32012D0737:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 27 de novembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera A. Doenças de animais terrestres
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita Doenças que são objeto de notificação
+    - Adita B. Doenças de animais de aquicultura
+    - Suprime Doenças que são objecto de notificação
+    - Suprime B. Doenças de animais aquáticos
 identifiers:
   celex: 31982L0894
   eli: http://data.europa.eu/eli/dir/1982/894/oj
@@ -47,7 +100,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/44f52f1b-6d0b-4083-959a-38fa9a1d3374.0011
   content_url: http://publications.europa.eu/resource/cellar/298c5107-8f70-4d04-b5d6-ac58d92e62ed.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01982L0894-20130101
-  retrieved_at: '2026-10-22T02:54:45Z'
+  retrieved_at: '2026-10-22T14:33:45Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T22:10:57.037+01:00'
 integrity:
@@ -56,9 +109,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:54:45Z'
-  notes: Texto consolidado 01982L0894-20130101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:33:45Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1982-894.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -176,44 +229,29 @@ relationships:
   date: '2016-03-31'
 article_structure:
   article_count: 8
-  section_count: 5
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 6
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:54:45Z'
-  warnings: []
+  checked_at: '2026-10-22T14:33:45Z'
+  warnings:
+  - '01982L0894-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01982L0894-19890223: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01982L0894-19900401: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01982L0894-19920730: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01982L0894-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01982L0894-19971216: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01982L0894-20010101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01982L0894-20021011: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01982L0894-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01982L0894-20040325: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 82/894/CEE do Conselho, de 21 de Dezembro de 1982
-
-> 1982L0894 — PT — 01.01.2013 — 012.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/31985R3768) — [REGULAMENTO (CEE) N.º 3768/85 DO CONSELHO de 20 de Dezembro de 1985](http://publications.europa.eu/resource/celex/31985R3768) — L 362 — 8 — 31.12.1985
-- [M2](http://publications.europa.eu/resource/celex/31989D0162) — [DECISÃO DA COMISSÃO de 10 de Fevereiro de 1989](http://publications.europa.eu/resource/celex/31989D0162) — L 61 — 48 — 4.3.1989
-- [M3](http://publications.europa.eu/resource/celex/31990D0134) — [DECISÃO DA COMISSÃO de 6 de Março de 1990](http://publications.europa.eu/resource/celex/31990D0134) — L 76 — 23 — 22.3.1990
-- [M4](http://publications.europa.eu/resource/celex/31992D0450) — [DECISÃO DA COMISSÃO de 30 de Julho de 1992](http://publications.europa.eu/resource/celex/31992D0450) — L 248 — 77 — 28.8.1992
-- [M5](http://publications.europa.eu/resource/celex/31998D0012) — [DECISÃO DA COMISSÃO de 15 de Dezembro de 1997](http://publications.europa.eu/resource/celex/31998D0012) — L 4 — 63 — 8.1.1998
-- [M6](http://publications.europa.eu/resource/celex/32000D0556) — [DECISÃO DA COMISSÃO de 7 de Setembro de 2000](http://publications.europa.eu/resource/celex/32000D0556) — L 235 — 27 — 19.9.2000
-- [M7](http://publications.europa.eu/resource/celex/32002D0788) — [DECISÃO DA COMISSÃO de 10 de Outubro de 2002](http://publications.europa.eu/resource/celex/32002D0788) — L 274 — 33 — 11.10.2002
-- [►M8](http://publications.europa.eu/resource/celex/32003R0807) — [REGULAMENTO (CE) N.º 807/2003 DO CONSELHO de 14 de Abril de 2003](http://publications.europa.eu/resource/celex/32003R0807) — L 122 — 36 — 16.5.2003
-- [M9](http://publications.europa.eu/resource/celex/32004D0216) — [DECISÃO DA COMISSÃO de 1 de Março de 2004](http://publications.europa.eu/resource/celex/32004D0216) — L 67 — 27 — 5.3.2004
-- [►M10](http://publications.europa.eu/resource/celex/32008D0650) — [DECISÃO DA COMISSÃO de 30 de Julho de 2008](http://publications.europa.eu/resource/celex/32008D0650) — L 213 — 42 — 8.8.2008
-- [►M11](http://publications.europa.eu/resource/celex/32012D0737) — [DECISÃO DE EXECUÇÃO DA COMISSÃO de 27 de novembro de 2012](http://publications.europa.eu/resource/celex/32012D0737) — L 329 — 19 — 29.11.2012
-
-**Alterado por:**
-
-- [A1](http://publications.europa.eu/resource/celex/11994N) — C 241 — 21 — 29.8.1994
-- L 001 — 1 — ..
-
-## DIRECTIVA DO CONSELHO
 
 de 21 de Dezembro de 1982
 

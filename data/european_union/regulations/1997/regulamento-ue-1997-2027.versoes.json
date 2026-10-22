@@ -1,0 +1,219 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997R2027:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R2027-20020530",
+ "dre_path": null,
+ "source_lastmod": "2002-05-30",
+ "versions": [
+  {
+   "date": "1997-10-17",
+   "future": false,
+   "celex": "31997R2027",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "374057e100cc610a",
+    "c4da336fa16ba118",
+    "ad7ef297f6c7ad12",
+    "21607ae2f3394d41",
+    "82283d7882f28dec",
+    "b63ec48b836876e2",
+    "5f4208bf62394549",
+    "fdbc50027f6c5b64",
+    "0f5fc3c0133a396f"
+   ]
+  },
+  {
+   "date": "2002-05-30",
+   "future": false,
+   "celex": "01997R2027-20020530",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 3.oA",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita ANEXO — Responsabilidade das transportadoras aéreas pelos passageiros e pela sua bagagem",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º"
+   ],
+   "fragments": [
+    "df5c2e97a1d8e541",
+    "6a221c849c717328",
+    "f4dcbba7e84bd025",
+    "07e59c8aabbb9f7e",
+    "7b092e99f0a2089a",
+    "302131dcf60918c7",
+    "c07787717364638f",
+    "0d41e95ef3bbcae0",
+    "d4890f10723a1c8a",
+    "359f591a8d08b3cc"
+   ]
+  }
+ ],
+ "fragments": {
+  "374057e100cc610a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 2027/97 do Conselho de 9 de Outubro de 1997 relativo à responsabilidade das transportadoras aéreas em caso de acidente** *Jornal Oficial nº L 285 de 17/10/1997 p. 0001 - 0003*\n\nREGULAMENTO (CE) Nº 2027/97 DO CONSELHO de 9 de Outubro de 1997 relativo à responsabilidade das transportadoras aéreas em caso de acidente\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o nº 2 do seu artigo 84º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do mecanismo previsto no artigo 189ºC do Tratado (3),\n\n(1) Considerando que, no quadro da política comum de transportes, é necessário melhorar o nível de protecção dos passageiros vítimas de acidentes aéreos;\n\n(2) Considerando que as regras em matéria de responsabilidade em caso de acidente se regem pela Convenção para a Unificação de Certas Regras Relativas ao Transporte Aéreo Internacional, assinada em Varsóvia, em 12 de Outubro de 1929, ou pela mesma convenção tal como alterada em Haia, em 28 de Setembro de 1955, e pela convenção celebrada em Guadalajara em 18 de Setembro de 1961, a seguir designadas por «Convenção de Varsóvia», consoante a que for aplicável; que a Convenção de Varsóvia é mundialmente aplicada em benefício tanto dos passageiros, como das transportadoras aéreas;\n\n(3) Considerando que os limites da responsabilidade fixados pela Convenção de Varsóvia são demasiado baixos, atendendo aos padrões económicos e sociais actuais, e conduzem frequentemente a acções judiciais prolongadas que prejudicam a imagem das transportadoras aéreas; que, consequentemente, os Estados-membros aumentaram esses limites de diversas formas, o que levou a que existam no mercado interno da aviação diferentes termos e condições de transporte;\n\n(4) Considerando, além disso, que a Convenção de Varsóvia se aplica apenas no transporte internacional; que, no mercado interno da aviação, a distinção entre transporte doméstico e transporte internacional foi eliminada; que, por conseguinte, é conveniente que o nível e a natureza da responsabilidade sejam os mesmos no transporte doméstico e internacional;\n\n(5) Considerando que o reexame e a revisão integral da Convenção de Varsóvia são há muito necessários e representariam, a longo prazo, uma resposta mais uniforme e adequada, no plano internacional, à questão da responsabilidade das transportadoras aéreas em caso de acidente; que devem continuar a ser envidados esforços no sentido de aumentar os limites de responsabilidade impostos na Convenção de Varsóvia, através de negociações multilaterais;\n\n(6) Considerando que, de acordo com o princípio da subsidiariedade, são desejáveis medidas no plano da Comunidade, tendentes à harmonização no domínio da responsabilidade das transportadoras aéreas, e que possam servir de referência para uma melhor protecção dos passageiros à escala global;\n\n(7) Considerando que é conveniente suprimir todos os limites monetários da responsabilidade na acepção do nº 1 do artigo 22º da Convenção de Varsóvia e quaisquer outros limites contratuais ou jurídicos, em consonância com a tendência actual a nível internacional;\n\n(8) Considerando que, para evitar situações em que as vítimas de acidentes não sejam indemnizadas, as transportadoras aéreas da Comunidade não devem, relativamente a qualquer pedido de indemnização por morte, ferimento ou outra lesão corporal sofrida por um passageiro, na acepção do artigo 17º da Convenção de Varsóvia, prevalecer-se de qualquer defesa ao abrigo do nº 1 do artigo 20º da Convenção de Varsóvia, até um certo limite;\n\n(9) Considerando que as transportadoras aéreas da Comunidade podem ficar isentas de responsabilidade em caso de co-negligência do passageiro;\n\n(10) Considerando a necessidade de clarificar as obrigações do presente regulamento à luz do artigo 7º do Regulamento (CEE) nº 2407/92 do Conselho, de 23 de Julho de 1992, relativo à concessão de licenças às transportadoras aéreas (4); que, neste domínio, as transportadoras aéreas da Comunidade devem estar seguradas até um certo limite fixado no presente regulamento;\n\n(11) Considerando que as transportadoras aéreas da Comunidade devem ter sempre o direito de demandar terceiros;\n\n(12) Considerando que o rápido pagamento de adiantamentos pode ajudar consideravelmente os passageiros que tenham sido vítimas de lesões corporais, ou as pessoas físicas com direito a exigir um indemnização, a fazer face a despesas imediatas decorrentes de acidentes aéreos;\n\n(13) Considerando que as regras relativas à natureza e aos limites da responsabilidade em caso de morte, ferimento ou outra lesão corporal sofrida por um passageiro são parte integrante das condições de transporte estabelecidas no contrato de transporte aéreo entre a transportadora e o passageiro; que, a fim de reduzir o risco de distorção da concorrência, as transportadoras de países terceiros informar devidamente os seus passageiros das condições de transporte que aplicam;\n\n(14) Considerando que é adequado e necessário que os limites monetários previstos no presente regulamento sejam revistos, de modo a tomar em consideração a evolução económica e a evolução nas instâncias internacionais;\n\n(15) Considerando que a Organização Internacional da Aviação Civil (OIAC) está a proceder à revisão da Convenção de Varsóvia e que, enquanto se aguardam os resultados dessa revisão, as acções empreendidas provisoriamente pela Comunidade vão reforçar a protecção dos passageiros; que o Conselho deve rever o presente regulamento logo que possível após a revisão feita pela OIAC,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "c4da336fa16ba118": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO presente regulamento fixa as obrigações das transportadoras aéreas comunitárias em matéria de responsabilidade em relação aos passageiros em caso de acidente, por danos sofridos em caso de morte, ferimento ou qualquer outra lesão corporal, se o acidente causador desses danos tiver ocorrido a bordo de uma aeronave ou durante qualquer operação de embarque ou desembarque.\n\nO presente regualmento clarifica igualmente alguns requisitos relativos aos seguros das transportadoras aéreas comunitárias.\n\nAlém disso, o presente regulamento estabelece alguns requisitos relativos às informações a prestar pelas transportadoras aéreas estabelecidas fora da Comunidade que operam para, a partir ou dentro dela."
+  },
+  "ad7ef297f6c7ad12": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Para efeitos do presente regulamento, entende-se por:\n\na) «Transportadora aérea»: uma empresa de transporte aéreo titular de uma licença de exploração válida;\n\nb) «Transportadora aérea comunitária»: uma transportadora aérea titular de uma licença de exploração válida emitida para um Estado-membro nos termos do Regulamento (CEE) nº 2407/92;\n\nc) «Pessoa com direito a indemnização»: um passageiro ou qualquer pessoa com direito à indemnização relativa a esse passageiro, nos termos da legislação aplicável;\n\nd) «Ecu»: a unidade de conta adoptada na elaboração do orçamento geral das Comunidades Europeias, de acordo com os artigos 207º e 209º do Tratado;\n\ne) «DSE»: os direitos de saque especiais, tal como definidos pelo Fundo Monetário Internacional;\n\nf) «Convenção de Varsóvia»: a Convenção para a Unificação de certas Regras relativas ao Transporte Aéreo Internacional assinada em Varsóvia em 12 de Outubro de 1929, ou a Convenção de Varsóvia alterada em Haia em 28 de Setembro de 1955, e a Convenção Complementar à Convenção de Varsóvia elaborada em Guadalajara em 18 de Setembro de 1961 - consoante a que se aplicar ao contrato de transporte do passageiro, bem como os instrumentos internacionais que a complementam ou lhe estão associados e que se encontram em vigor.\n\n2. Os conceitos constantes do presente regulamento que não se encontrem definidos no nº 1 terão o significado que lhes é atribuído pela Convenção de Varsóvia."
+  },
+  "21607ae2f3394d41": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. a) A responsabilidade das transportadoras aéreas comunitárias por danos sofridos em caso de morte, ferimento ou qualquer outra lesão corporal por um passageiro em caso de acidente não está sujeita a quaisquer limites financeiros definidos por lei, convenção ou contrato.\n\nb) Pela obrigatoriedade de seguro constante do artigo 7º do Regulamento (CEE) nº 2407/92, deve entender-se que as transportadoras aéreas comunitárias devem estar seguras até ao limite da responsabilidade exigida nos termos do nº 2 e limites superiores, até um nível razoável.\n\n2. Relativamente a danos até ao montante equivalente em ecus a 100 000 DSE, uma transportadora aérea comunitária não pode excluir ou limitar a sua responsabilidade provando que ela e os seus agentes tomaram todas as medidas necessárias para evitar o dano ou que lhes foi impossível tomar tais medidas.\n\n3. Não obstante o disposto no nº 2, se a transportadora aérea comunitária provar que os danos foram causados pelo passageiro lesado ou falecido, ou que este para eles contribuiu por negligência, essa transportadora poderá, nos termos da legislação aplicável, ser total ou parcialmente exonerada da responsabilidade."
+  },
+  "82283d7882f28dec": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nEm caso de morte, ferimento ou qualquer outra lesão corporal sofrida por um passageiro num acidente, nada no presente regulamento:\n\na) Implica que uma transportadora aérea comunitária seja a única parte responsável pelo pagamento dos danos sofridos, nem\n\nb) Restringe quaisquer direitos de uma transportadora aérea comunitária a procurar uma contribuição ou uma indemnização junto de qualquer outra parte nos termos da legislação aplicável."
+  },
+  "b63ec48b836876e2": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. A transportadora aérea comunitária pagará, com a maior brevidade, e em todo o caso o mais tardar quinze dias após o estabelecimento da identidade da pessoa com direito a exigir uma indemnização, os adiantamentos que permitam fazer face a necessidades económicas imediatas, numa base proporcional ao dano sofrido.\n\n2. Sem prejuízo do nº 1, os adiantamentos pagos não deverão ser inferiores ao equivalente em ecus a 15 000 DSE por passageiro, em caso de morte.\n\n3. Os adiantamentos pagos não constituem reconhecimento de responsabilidade e podem ser deduzidos de qualquer quantia a pagar ulteriormente com base na responsabilidade da transportadora aérea comunitária, mas não podem ser devolvidos, a não ser nos casos referidos no nº 3 do artigo 3º, ou em circunstâncias em que posteriormente se prove que a pessoa que recebeu os adiantamentos provocou ou contribuiu para os danos por negligência ou não tinha direito a exigir a indemnização."
+  },
+  "5f4208bf62394549": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. As disposições dos artigos 3º e 5º devem ser incluídas nas condições de transporte das transportadoras aéreas comunitárias.\n\n2. A pedido dos passageiros, ser-lhes-ão prestadas, nas agências das transportadoras aéreas comunitárias, nas agências de viagem, nos balcões de registo dos passageiros e suas bagagens ou nos pontos de venda, informações adequadas sobre as disposições dos artigos 3º e 5º Do título de transporte ou equivalente deve constar, em linguagem simples e inteligível, um resumo dessas disposições.\n\n3. As transportadoras aéreas estabelecidas fora da Comunidade que operem para, a partir ou dentro dela, e que não apliquem as disposições constantes dos artigos 3º e 5º devem, no momento da compra do bilhete nos seus balcões e agências de viagem, ou nos balcões de registo dos passageiros e suas bagagens localizados no território de um Estado-membro, informar expressa e claramente os passageiros desse facto e fornecer-lhes um impresso de que constem as condições que aplicam. A mera indicação de um limite de responsabilidade no título de transporte ou equivalente não constitui informação suficiente."
+  },
+  "fdbc50027f6c5b64": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nO mais tardar dois anos após a entrada em vigor do presente regulamento, a Comissão elaborará um relatório sobre a sua aplicação que, designadamente, terá em conta a evolução económica e a evolução verificada nas organizações internacionais. Esse relatório poderá ser acompanhado de propostas de revisão do presente regulamento."
+  },
+  "0f5fc3c0133a396f": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nO presente regulamento entra em vigor um ano após a data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo, em 9 de Outubro de 1997.\n\nPelo Conselho\n\nO Presidente\n\nM. DELVAUX-STEHRES\n\n(1) JO C 104 de 10. 4. 1996, p. 18 e JO C 29 de 30. 1. 1997, p. 10.\n\n(2) JO C 212 de 22. 7. 1996, p. 38.\n\n(3) Parecer do Parlamento Europeu de 17 de Setembro de 1996 (JO C 320 de 28. 10. 1996, p. 30), posição comum do Conselho de 24 de Fevereiro de 1997 (JO C 123 de 21. 4. 1997, p. 89) e decisão do Parlamento Europeu de 29 de Maio de 1997 (JO C 182 de 16. 6. 1997).\n\n(4) JO L 240 de 24. 8. 1992, p. 1."
+  },
+  "df5c2e97a1d8e541": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1997R2027 — PT — 30.05.2002 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997R2027:PT:NOT) [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002R0889:PT:NOT) [REGULAMENTO (CE) N.o 2027/97 DO CONSELHO de 9 de Outubro de 1997 relativo à responsabilidade das transportadoras aéreas no transporte de passageiros e respectiva bagagem](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997R2027:PT:NOT) [▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997R2027:PT:NOT) (JO L 285, 17.10.1997, p.1)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002R0889:PT:NOT) | [Regulamento (CE) n.o 889/2002 do Parlamento Europeu e do Conselho de 13 de Maio de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002R0889:PT:NOT) | L 140 | 2 | 30.5.2002 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997R2027:PT:NOT)\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002R0889:PT:NOT)\n\nREGULAMENTO (CE) N.o 2027/97 DO CONSELHO\n\nde 9 de Outubro de 1997\n\nrelativo à responsabilidade das transportadoras aéreas no transporte de passageiros e respectiva bagagem\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997R2027:PT:NOT)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.o 2 do seu artigo 84.o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/6e1ae25e-b5cd-452a-b610-ba2f4c62401f.0022.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([2](http://publications.europa.eu/resource/cellar/6e1ae25e-b5cd-452a-b610-ba2f4c62401f.0022.02/DOC_1#E0002)),\n\nDeliberando nos termos do mecanismo previsto no artigo 189.oC do Tratado ([3](http://publications.europa.eu/resource/cellar/6e1ae25e-b5cd-452a-b610-ba2f4c62401f.0022.02/DOC_1#E0003)),\n\n(1) Considerando que, no quadro da política comum de transportes, é necessário melhorar o nível de protecção dos passageiros vítimas de acidentes aéreos;\n\n(2) Considerando que as regras em matéria de responsabilidade em caso de acidente se regem pela Convenção para a Unificação de Certas Regras Relativas ao Transporte Aéreo Internacional, assinada em Varsóvia, em 12 de Outubro de 1929, ou pela mesma convenção tal como alterada em Haia, em 28 de Setembro de 1955, e pela convenção celebrada em Guadalajara em 18 de Setembro de 1961, a seguir designadas por «Convenção de Varsóvia», consoante a que for aplicável; que a Convenção de Varsóvia é mundialmente aplicada em benefício tanto dos passageiros, como das transportadoras aéreas;\n\n(3) Considerando que os limites da responsabilidade fixados pela Convenção de Varsóvia são demasiado baixos, atendendo aos padrões económicos e sociais actuais, e conduzem frequentemente a acções judiciais prolongadas que prejudicam a imagem das transportadoras aéreas; que, consequentemente, os Estados-membros aumentaram esses limites de diversas formas, o que levou a que existam no mercado interno da aviação diferentes termos e condições de transporte;\n\n(4) Considerando, além disso, que a Convenção de Varsóvia se aplica apenas no transporte internacional; que, no mercado interno da aviação, a distinção entre transporte doméstico e transporte internacional foi eliminada; que, por conseguinte, é conveniente que o nível e a natureza da responsabilidade sejam os mesmos no transporte doméstico e internacional;\n\n(5) Considerando que o reexame e a revisão integral da Convenção de Varsóvia são há muito necessários e representariam, a longo prazo, uma resposta mais uniforme e adequada, no plano internacional, à questão da responsabilidade das transportadoras aéreas em caso de acidente; que devem continuar a ser envidados esforços no sentido de aumentar os limites de responsabilidade impostos na Convenção de Varsóvia, através de negociações multilaterais;\n\n(6) Considerando que, de acordo com o princípio da subsidiariedade, são desejáveis medidas no plano da Comunidade, tendentes à harmonização no domínio da responsabilidade das transportadoras aéreas, e que possam servir de referência para uma melhor protecção dos passageiros à escala global;\n\n(7) Considerando que é conveniente suprimir todos os limites monetários da responsabilidade na acepção do n.o 1 do artigo 22.o da Convenção de Varsóvia e quaisquer outros limites contratuais ou jurídicos, em consonância com a tendência actual a nível internacional;\n\n(8) Considerando que, para evitar situações em que as vítimas de acidentes não sejam indemnizadas, as transportadoras aéreas da Comunidade não devem, relativamente a qualquer pedido de indemnização por morte, ferimento ou outra lesão corporal sofrida por um passageiro, na acepção do artigo 17.o da Convenção de Varsóvia, prevalecer-se de qualquer defesa ao abrigo do n.o 1 do artigo 20.o da Convenção de Varsóvia, até um certo limite;\n\n(9) Considerando que as transportadoras aéreas da Comunidade podem ficar isentas de responsabilidade em caso de co-negligência do passageiro;\n\n(10) Considerando a necessidade de clarificar as obrigações do presente regulamento à luz do artigo 7.o do Regulamento (CEE) n.o 2407/92 do Conselho, de 23 de Julho de 1992, relativo à concessão de licenças às transportadoras aéreas ([4](http://publications.europa.eu/resource/cellar/6e1ae25e-b5cd-452a-b610-ba2f4c62401f.0022.02/DOC_1#E0004)); que, neste domínio, as transportadoras aéreas da Comunidade devem estar seguradas até um certo limite fixado no presente regulamento;\n\n(11) Considerando que as transportadoras aéreas da Comunidade devem ter sempre o direito de demandar terceiros;\n\n(12) Considerando que o rápido pagamento de adiantamentos pode ajudar consideravelmente os passageiros que tenham sido vítimas de lesões corporais, ou as pessoas físicas com direito a exigir um indemnização, a fazer face a despesas imediatas decorrentes de acidentes aéreos;\n\n(13) Considerando que as regras relativas à natureza e aos limites da responsabilidade em caso de morte, ferimento ou outra lesão corporal sofrida por um passageiro são parte integrante das condições de transporte estabelecidas no contrato de transporte aéreo entre a transportadora e o passageiro; que, a fim de reduzir o risco de distorção da concorrência, as transportadoras de países terceiros informar devidamente os seus passageiros das condições de transporte que aplicam;\n\n(14) Considerando que é adequado e necessário que os limites monetários previstos no presente regulamento sejam revistos, de modo a tomar em consideração a evolução económica e a evolução nas instâncias internacionais;\n\n(15) Considerando que a Organização Internacional da Aviação Civil (OIAC) está a proceder à revisão da Convenção de Varsóvia e que, enquanto se aguardam os resultados dessa revisão, as acções empreendidas provisoriamente pela Comunidade vão reforçar a protecção dos passageiros; que o Conselho deve rever o presente regulamento logo que possível após a revisão feita pela OIAC,\n\nADOPTOU O PRESENTE REGULAMENTO:\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002R0889:PT:NOT)"
+  },
+  "6a221c849c717328": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento transpõe as disposições pertinentes da Convenção de Montreal respeitantes ao transporte aéreo de passageiros e da sua bagagem e estabelece certas disposições complementares. O presente regulamento também torna o âmbito de aplicação dessas disposições extensivo ao transporte aéreo dentro de um Estado-Membro."
+  },
+  "f4dcbba7e84bd025": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Para efeitos do presente regulamento, entende-se por:\n\na) «Transportadora aérea»: uma empresa de transporte aéreo titular de uma licença de exploração válida;\n\nb) «Transportadora aérea comunitária»: uma transportadora aérea titular de uma licença de exploração válida emitida para um Estado-Membro nos termos do Regulamento (CEE) n.o 2407/92;\n\nc) «Pessoa com direito a indemnização»: um passageiro ou qualquer pessoa com direito à indemnização relativa a esse passageiro, nos termos da legislação aplicável;\n\nd) «Bagagem»: salvo disposição em contrário, tanto a bagagem registada como a não registada, na acepção do n.o 4 do artigo 17.o da Convenção de Montreal;\n\ne) «DSE»: os direitos de saque especiais, tal como definidos pelo Fundo Monetário Internacional;\n\nf) «Convenção de Varsóvia»: a Convenção para a Unificação de certas Regras relativas ao Transporte Aéreo Internacional assinada em Varsóvia em 12 de Outubro de 1929, ou a Convenção de Varsóvia alterada em Haia em 28 de Setembro de 1955, e a Convenção Complementar à Convenção de Varsóvia elaborada em Guadalajara em 18 de Setembro de 1961;\n\ng) «Convenção de Montreal»: a Convenção para a Unificação de certas Regras relativas ao Transporte Aéreo Internacional, assinada em Montreal, em 28 de Maio de 1999.\n\n2. Os conceitos constantes do presente regulamento que não se encontrem definidos no n.o 1 terão o significado que lhes é atribuído pela Convenção de Montreal."
+  },
+  "07e59c8aabbb9f7e": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. A responsabilidade das transportadoras aéreas comunitárias relativamente aos passageiros e à sua bagagem regula-se por todas as disposições da Convenção de Montreal aplicáveis a essa responsabilidade.\n\n2. A obrigatoriedade de seguro constante do artigo 7.o do Regulamento (CEE) n.o 2407/92, na medida em que se refira à responsabilidade pelos passageiros, deve ser entendida como exigindo que as transportadoras aéreas comunitárias estejam seguras até um nível adequado para garantir que todas as pessoas com direito a indemnização recebam o montante total a que têm direito nos termos do presente regulamento.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002R0889:PT:NOT)"
+  },
+  "7b092e99f0a2089a": {
+   "fragment_id": "Artigo 3.oA",
+   "type": "artigo",
+   "heading": "Artigo 3.oA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.oA\n\nO montante complementar que pode ser exigido por uma transportadora aérea comunitária, nos termos do n.o 2 do artigo 22.o da Convenção de Montreal, quando um passageiro faz uma declaração especial de interesse na entrega da sua bagagem no destino, baseia-se numa tarifa relacionada com os custos complementares decorrentes do transporte e do seguro da bagagem em causa, que excedam os da bagagem cujo valor seja igual ou inferior ao limite de responsabilidade. A tarifa será disponibilizada aos passageiros interessados.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002R0889:PT:NOT) —————\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002R0889:PT:NOT)"
+  },
+  "302131dcf60918c7": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A transportadora aérea comunitária paga, com a maior brevidade, e em todo o caso o mais tardar 15 dias após o estabelecimento da identidade da pessoa com direito a exigir uma indemnização, os adiantamentos que permitam fazer face a necessidades económicas imediatas, numa base proporcional ao dano sofrido.\n\n2. Sem prejuízo do n.o 1, qualquer adiantamento não deve ser inferior ao equivalente em euros a 16 000 DSE por passageiro em caso de morte.\n\n3. Um adiantamento não constitui um reconhecimento de responsabilidade e pode ser deduzido de qualquer montante pago posteriormente com base na responsabilidade da transportadora aérea comunitária, mas não é reembolsável, excepto nos casos referidos no artigo 20.o da Convenção de Montreal ou quando a pessoa que recebeu o adiantamento não era a pessoa com direito a indemnização."
+  },
+  "c07787717364638f": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Todas as transportadoras aéreas que vendam serviços de transportes aéreos na Comunidade garantem que seja colocado ao dispor dos passageiros, em todos os pontos de venda, incluindo a venda por telefone e pela internet, um resumo das principais disposições que regulam a responsabilidade em relação aos passageiros e respectiva bagagem, incluindo os prazos para intentar uma acção de indemnização e a possibilidade de fazer uma declaração especial para a bagagem. A fim de cumprir essa exigência de informação, as transportadoras aéreas comunitárias utilizarão a nota informativa que figura no anexo. Esse resumo ou nota não pode ser usado como base para um pedido de indemnização, nem para interpretar as disposições do presente regulamento ou da Convenção de Montreal.\n\n2. Para além das exigências de informação previstas no n.o 1, todas as transportadoras devem, no que respeita aos serviços de transporte aéreo fornecidos ou comprados na Comunidade, fornecer a todos os passageiros as seguintes indicações escritas:\n\n— o limite de responsabilidade da transportadora aplicável ao voo em causa, em caso de morte ou lesões corporais, se esse limite existir,\n\n— o limite de responsabilidade da transportadora aplicável a esse voo no que respeita à destruição, perda ou danos da bagagem e um aviso de que a bagagem de valor superior deve ser assinalada à companhia na altura do registo ou ser objecto de um seguro total feito pelo passageiro antes da viagem,\n\n— o limite de responsabilidade da transportadora aplicável a esse voo por prejuízos causados por atraso.\n\n3. Para todas as operações de transporte efectuadas por transportadoras aéreas comunitárias, os limites indicados segundo as exigências de informação previstas nos n.os 1 e 2, são os estabelecidos pelo presente regulamento, excepto se a transportadora aérea comunitária aplicar limites mais elevados com base num compromisso voluntário. Em todas as operações de transporte efectuadas por transportadoras aéreas não comunitárias, os n.os 1 e 2 aplicam-se apenas ao transporte para a Comunidade, no seu interior ou a partir da mesma."
+  },
+  "0d41e95ef3bbcae0": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nNo prazo de três anos a contar da data de aplicação do Regulamento (CE) n.o 889/2002 ([5](http://publications.europa.eu/resource/cellar/6e1ae25e-b5cd-452a-b610-ba2f4c62401f.0022.02/DOC_1#E0005)), a Comissão elaborará um relatório sobre a aplicação do presente regulamento. A Comissão examinará, nomeadamente, a necessidade de rever os montantes previstos nos artigos pertinentes da Convenção de Montreal à luz da evolução económica e das notificações do depositário da ICAO.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997R2027:PT:NOT)"
+  },
+  "d4890f10723a1c8a": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO presente regulamento entra em vigor um ano após a data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002R0889:PT:NOT)"
+  },
+  "359f591a8d08b3cc": {
+   "fragment_id": "ANEXO — Responsabilidade das transportadoras aéreas pelos passageiros e pela sua bagagem",
+   "type": "divisao",
+   "heading": "ANEXO — Responsabilidade das transportadoras aéreas pelos passageiros e pela sua bagagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Responsabilidade das transportadoras aéreas pelos passageiros e pela sua bagagem\n\nA presente nota informativa resume as regras aplicadas pelas transportadoras aéreas comunitárias em matéria de responsabilidade, conforme exigido pela legislação comunitária e pela Convenção de Montreal.\n\nIndemnização em caso de morte ou danos físicos\n\nNão existem limites financeiros para a responsabilidade em caso de danos físicos ou morte dos passageiros. Para os danos de valor inferior a 100 000 DSE (montante aproximado na divisa local), a transportadora aérea não pode contestar os pedidos de indemnização. Para os danos superiores a esse montante, a transportadora aérea pode contestar um pedido de indemnização provando que não houve negligência nem qualquer outra forma de culpa da sua parte.\n\nAdiantamentos\n\nEm caso de morte ou de lesões corporais de um passageiro, a transportadora aérea deve, no prazo de 15 dias a contar da identificação da pessoa com direito a indemnização, pagar um adiantamento que cubra necessidades económicas imediatas. Em caso de morte, esse pagamento adiantado não será inferior a 16 000 DSE (montante aproximado na divisa local).\n\nAtrasos dos passageiros\n\nEm caso de atraso do passageiro, a transportadora aérea é responsável pelos prejuízos causados, a menos que tenha tomado todas as medidas razoáveis para os evitar ou tenha sido impossível tornar essas medidas. A responsabilidade pelos atrasos dos passageiros é limitada a 4 150 DSE (montante aproximado na divisa local).\n\nAtrasos da bagagem\n\nEm caso de atraso da bagagem, a transportadora aérea é responsável pelos prejuízos causados, a menos que tenha tomado todas as medidas razoáveis para os evitar ou tenha sido impossível tomar essas medidas. A responsabilidade pelos atrasos da bagagem é limitada a 1 000 DSE (montante aproximado na divisa local).\n\nDestruição, perda ou danos da bagagem\n\nA transportadora aérea é responsável pela destruição, perda ou danos da bagagem até ao montante de 1 000 DSE (montante aproximado na divisa local). Tratando-se de bagagem registada, a transportadora é responsável pelos danos, mesmo sem culpa, excepto no caso de a bagagem ser defeituosa. No caso de bagagem não registada, a transportadora apenas é responsável se a culpa for sua.\n\nLimites mais elevados para a bagagem\n\nOs passageiros podem beneficiar de um limite de responsabilidade mais elevado, fazendo uma declaração especial, o mais tardar no momento do registo, e pagando uma taxa suplementar.\n\nReclamações acerca da bagagem\n\nSe a bagagem tiver sofrido danos, atraso, perda ou destruição, o passageiro deve apresentar uma reclamação escrita à transportadora aérea, o mais rapidamente possível. No caso de danos de bagagem registada, o passageiro deve apresentar uma reclamação escrita no prazo de sete dias e, no caso de atraso, no prazo de 21 dias, em ambos os casos a contar da data em que a bagagem é colocada ao seu dispor.\n\nResponsabilidade da transportadora contratante e da que opera o voo\n\nSe a transportadora aérea que assegura o voo não for a transportadora aérea contratante, o passageiro tem o direito de apresentar uma reclamação ou um pedido de indemnização por danos a qualquer das duas. Se o nome ou código de uma transportadora aérea estiver indicado no bilhete, essa transportadora aérea é a transportadora aérea contratante.\n\nPrazo\n\nQualquer acção judicial respeitante a indemnizações por danos deve ser interposta no prazo de dois anos a contar da data de chegada do avião ou a contar da data em que o avião deveria ter chegado.\n\nBase das informações\n\nAs regras acima descritas baseiam-se na Convenção de Montreal, de 28 de Maio de 1999, executada na Comunidade pelo Regulamento (CE) n.o 2027/97 com a redacção que lhe foi dada pelo Regulamento (CE) n.o 889/2002 e pela legislação nacional dos Estados-Membros.\n\n([1](http://publications.europa.eu/resource/cellar/6e1ae25e-b5cd-452a-b610-ba2f4c62401f.0022.02/DOC_1#src.E0001)) JO C 104 de 10. 4. 1996, p. 18 e JO C 29 de 30. 1. 1997, p. 10.\n\n([2](http://publications.europa.eu/resource/cellar/6e1ae25e-b5cd-452a-b610-ba2f4c62401f.0022.02/DOC_1#src.E0002)) JO C 212 de 22. 7. 1996, p. 38.\n\n([3](http://publications.europa.eu/resource/cellar/6e1ae25e-b5cd-452a-b610-ba2f4c62401f.0022.02/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 17 de Setembro de 1996 (JO C 320 de 28. 10. 1996, p. 30), posição comum do Conselho de 24 de Fevereiro de 1997 (JO C 123 de 21. 4. 1997, p. 89) e decisão do Parlamento Europeu de 29 de Maio de 1997 (JO C 182 de 16. 6. 1997).\n\n([4](http://publications.europa.eu/resource/cellar/6e1ae25e-b5cd-452a-b610-ba2f4c62401f.0022.02/DOC_1#src.E0004)) JO L 240 de 24. 8. 1992, p. 1.\n\n([5](http://publications.europa.eu/resource/cellar/6e1ae25e-b5cd-452a-b610-ba2f4c62401f.0022.02/DOC_1#src.E0005)) JO L 140 de 30.5.2002, p. 2."
+  }
+ }
+}

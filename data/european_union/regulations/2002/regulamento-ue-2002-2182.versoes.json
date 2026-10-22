@@ -1,0 +1,670 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002R2182:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R2182-20060101",
+ "dre_path": null,
+ "source_lastmod": "2006-01-01",
+ "versions": [
+  {
+   "date": "2002-12-07",
+   "future": false,
+   "celex": "32002R2182",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ffad2a341bfbaf24",
+    "1e6d6e0e375c13b5",
+    "2d965373ac4f0bd7",
+    "38a7cfd737c4463c",
+    "2a4dc3333651df6c",
+    "e94f884d5b48c75a",
+    "01da1ad98389b314",
+    "68d4cb90ede49d20",
+    "b1bc05b145db2cea",
+    "38e8c1be5c55648d",
+    "b4e9524f5dd6cf0e",
+    "1d2e008de9dbd878",
+    "19b53d84ed674f39",
+    "786ea16859bcb9a5",
+    "24390a16cbf2032a",
+    "0f820673f2fdee29",
+    "7b41f46eb42178ac",
+    "341f4bf5f69a075e",
+    "19d348ede7239c22",
+    "cade56ac6d6e2f88",
+    "beba182e016d3e5e",
+    "aff0769af67c16a4",
+    "780e6c2f86ae3c28",
+    "42da09d8c01e8b14",
+    "ddd572199649bf77",
+    "a0df0fdfce79147e",
+    "fa5af5054c88d9db",
+    "f457d38d223a78e6",
+    "7abb9c7aeb746c87",
+    "c9f4c1b654f6848a",
+    "9a4d6a39723b1ce1",
+    "a0898b87f09f4ce2",
+    "322c6f0369466a72",
+    "d51d4ad22e52edd6"
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "celex": "02002R2182-20060101",
+   "acts": [
+    {
+     "id": "eu:celex:32004R0480:por",
+     "title": "REGULAMENTO (CE) N. o 480/2004 DA COMISSÃO de 15 de Março de 2004",
+     "published": null,
+     "celex": "32004R0480"
+    },
+    {
+     "id": "eu:celex:32005R1881:por",
+     "title": "REGULAMENTO (CE) N. o 1881/2005 DA COMISSÃO de 17 de Novembro de 2005",
+     "published": null,
+     "celex": "32005R1881"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 7.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 29.º",
+    "Adita CAPÍTULO I",
+    "Adita DISPOSIÇÕES GERAIS",
+    "Adita CAPÍTULO II",
+    "Adita PROGRAMAS DE INFORMAÇÃO",
+    "Adita CAPÍTULO III",
+    "Adita ACÇÕES DE RECONVERSÃO",
+    "Adita Artigo 21.º",
+    "Adita CAPÍTULO IV",
+    "Adita DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+    "Adita Notas",
+    "Suprime CAPÍTULO I — DISPOSIÇÕES GERAIS",
+    "Suprime CAPÍTULO II — PROGRAMAS DE INFORMAÇÃO",
+    "Suprime CAPÍTULO III — ACÇÕES DE RECONVERSÃO",
+    "Suprime Artigo 21.º — Os Estados-Membros comunicarão de imediato à Comissão as medidas que adoptarem em aplicação dos artigos 18.o, 19.o e 20.o",
+    "Suprime CAPÍTULO IV — DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+   ],
+   "fragments": [
+    "72791aea29a4c371",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "d8e53e3b9c01edcf",
+    "a66b276baae6e02e",
+    "f0f8c960bfdbce9b",
+    "bd9f6add61d64467",
+    "e94f884d5b48c75a",
+    "01da1ad98389b314",
+    "16ec2297e6a70706",
+    "050920a8a54becf4",
+    "48c29364e7fb8d35",
+    "59ba3536347d8dd0",
+    "ab9c5f9c0df5c5e0",
+    "19b53d84ed674f39",
+    "ae7cf645b55693ae",
+    "1e7a0903d2eed348",
+    "c8779d98f43fab3a",
+    "0f820673f2fdee29",
+    "7b41f46eb42178ac",
+    "341f4bf5f69a075e",
+    "535ec7bf27c35214",
+    "52f7bf52758d3438",
+    "8669ba59e1f3cf13",
+    "3945490f8b6488d7",
+    "342a09a3838bdb60",
+    "42693efa3c223bc8",
+    "add5f6197ce7e593",
+    "47f55344dce3af37",
+    "b650bc20c1741506",
+    "69084eefc63f6c1c",
+    "7abb9c7aeb746c87",
+    "1ecfc79da3f1ac7f",
+    "fee7c0f6661bbf52",
+    "741beb38f33cf9fa",
+    "b8a38a50c7575c09",
+    "9827721f9578a339",
+    "5d68f26c3aa1d9ec",
+    "08569b2d1c2c8fc4"
+   ]
+  }
+ ],
+ "fragments": {
+  "ffad2a341bfbaf24": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 2182/2002 da Comissão, de 6 de Dezembro de 2002, que estabelece normas de execução do Regulamento (CEE) n.° 2075/92 do Conselho no respeitante ao Fundo Comunitário do Tabaco** *Jornal Oficial nº L 331 de 07/12/2002 p. 0016 - 0022*\n\nRegulamento (CE) n.o 2182/2002 da Comissão\n\nde 6 de Dezembro de 2002\n\nque estabelece normas de execução do Regulamento (CEE) n.o 2075/92 do Conselho no respeitante ao Fundo Comunitário do Tabaco\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CEE) n.o 2075/92 do Conselho, de 30 de Junho de 1992, que estabelece a organização comum de mercado no sector do tabaco em rama(1), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 546/2002(2), e, nomeadamente, o seu artigo 14.oA,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.o 546/2002 alterou o artigo 13.o do Regulamento (CEE) n.o 2075/92, relativo ao estabelecimento de um Fundo Comunitário do Tabaco. As alterações dizem respeito aos domínios de actividade do Fundo. Importa, pois, adoptar as normas de execução da disposição em causa.\n\n(2) É conveniente, por um lado, apoiar acções no domínio da luta contra o tabagismo, nomeadamente o reforço dos conhecimentos do público sobre os efeitos nocivos do consumo de tabaco, e, por outro, financiar acções específicas de reconversão dos produtores de tabaco, em sinergia com o programa de resgate de quotas, bem como estudos sobre as possibilidades de reconversão dos produtores em outras culturas ou actividades.\n\n(3) É oportuno repartir adequadamente os recursos financeiros pelos dois principais objectivos do Fundo, que consistem na informação e na reconversão. No entanto, se se verificar que, no que respeita a qualquer desses objectivos, os recursos atribuídos não são inteiramente utilizados, convirá rever a repartição inicial pelos objectivos.\n\n(4) O Fundo Comunitário do Tabaco é alimentado por uma retenção sobre os prémios concedidos aos produtores de tabaco, pelo que se justifica prever que a totalidade do apoio público seja assegurado por recursos comunitários próprios do Fundo.\n\n(5) No respeitante aos programas de informação, a apreciação das diversas propostas apresentadas no quadro dos procedimentos previstos deve ser realizada de acordo com critérios que permitam a melhor escolha possível. É igualmente necessário prever a possibilidade de realização de projectos por iniciativa e conta da Comissão. Para tal, o convite à apresentação de propostas ou o processo de concurso público, consoante o caso, parecem as vias mais indicadas.\n\n(6) Importa estabelecer critérios de elegibilidade aplicáveis às pessoas singulares e colectivas que possam apresentar propostas no contexto dos programas de informação.\n\n(7) Com vista a uma boa gestão administrativa dos programas de informação, importa que os projectos aprovados pela Comissão sejam executados num prazo determinado. O prazo inicialmente previsto pode, excepcionalmente, revelar-se difícil de respeitar. Por conseguinte, é necessário prever a possibilidade de, sob determinadas condições, prorrogar esse prazo de execução.\n\n(8) Com vista a permitir a melhor escolha dos projectos financiados no contexto dos programas de informação e garantir a boa execução dos projectos aprovados, é necessário prever que, para a selecção dos projectos, a Comissão seja assistida por um Comité Científico e Técnico. No âmbito da avaliação, a Comissão deve dispor da possibilidade de recorrer aos serviços de peritos independentes.\n\n(9) Para garantir a boa execução de cada projecto financiado no contexto dos programas de informação, é necessário que as condições de execução sejam especificadas no contrato celebrado com a Comissão. Em caso de pedido de um adiantamento, o contratante deve constituir uma garantia a favor da Comissão, nas condições previstas no título III do Regulamento (CEE) n.o 2220/85 da Comissão, de 22 de Julho de 1985, que fixa as regras comuns de aplicação do regime de garantias para os produtos agrícolas(3), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1932/1999(4).\n\n(10) No respeitante aos programas de informação, importa evitar a acumulação injustificada de mais de uma medida para o mesmo projecto, e é necessário prever a recuperação dos pagamentos em determinados casos, nomeadamente se se tiverem registado irregularidades.\n\n(11) No respeitante às acções específicas de reconversão, importa definir as acções específicas destinadas à reconversão dos produtores de tabaco, bem como as acções de interesse geral e os estudos sobre as possibilidades de reconversão dos produtores de tabaco, elegíveis para financiamento pelo Fundo. Importa também definir os beneficiários dos diversos tipos de acções.\n\n(12) De modo a assegurar uma eficácia adequada das acções de apoio à reconversão, é oportuno determinar a intensidade das ajudas a conceder no âmbito das diversas acções, bem como o montante total do apoio por produtor para o conjunto das acções. Importa fixar a um nível suficientemente atractivo a intensidade das ajudas às acções específicas, de forma a incentivar os produtores a beneficiarem da possibilidade de reconversão, atendendo a que a reconversão implica importantes alterações na organização produtiva das explorações.\n\n(13) O Fundo deverá garantir o apoio à reconversão dos produtores no conjunto do território da Comunidade e operar em sinergia com o programa de resgate de quotas. Importa, pois, definir a repartição dos recursos do Fundo pelos Estados-Membros produtores. De forma a ter em conta a situação real de abandono da produção nos diversos Estados, importa também prever uma segunda repartição dos recursos, efectuada com base nos pedidos de intervenção recebidos.\n\n(14) De modo a garantir o enquadramento da execução das intervenções destinadas à reconversão dos produtores de tabaco, os Estados-Membros produtores deverão estabelecer um programa. Por conseguinte, é oportuno definir o teor dos programas em causa, nomeadamente no respeitante às prioridades e aos critérios de selecção dos projectos, bem como a obrigação dos Estados-Membros de informarem a Comissão sobre a vigilância que tenham efectuado do estado de avanço anual dos programas.\n\n(15) Deverão evitar-se quaisquer riscos de financiamento duplo de um determinado projecto pelo Fundo Comunitário do Tabaco e por outros regimes de apoio. Além disso, deverá facilitar-se a decisão dos produtores de tabaco que pretendam abandonar a produção. Importa prever as condições em que um pedido de intervenção do Fundo Comunitário do Tabaco pode ser aceite, bem como a possibilidade de apresentar esse projecto para apoio por outro regime, caso os recursos financeiros do Fundo Comunitário do Tabaco estejam esgotados. Importa também definir a natureza dos controlos a realizar e das sanções a aplicar.\n\n(16) De forma a proporcionar aos Estados-Membros um prazo suficiente para a elaboração das estimativas de financiamento das acções de reconversão para 2003, há que prorrogar, para o ano em causa, a data-limite prevista para a comunicação à Comissão das referidas estimativas de financiamento, bem como, por consequência, a data-limite da repartição definitiva dos recursos pelos Estados-Membros.\n\n(17) Há que revogar e substituir o Regulamento (CE) n.o 1648/2000 da Comissão, de 25 de Julho de 2000, que estabelece normas de execução do Regulamento (CEE) n.o 2075/92 do Conselho no que diz respeito ao Fundo Comunitário do Tabaco(5). Todavia, as disposições do referido regulamento deverão permanecer aplicáveis aos projectos aprovados antes da entrada em vigor do presente regulamento.\n\n(18) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão do Tabaco,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1e6d6e0e375c13b5": {
+   "fragment_id": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — DISPOSIÇÕES GERAIS"
+  },
+  "2d965373ac4f0bd7": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento fixa as condições de financiamento pelo Fundo Comunitário do Tabaco, a seguir denominado \"Fundo\", das acções em ambos os domínios referidos no n.o 2 do artigo 13.o do Regulamento (CEE) n.o 2075/92, na forma de programas de informação e acções de reconversão."
+  },
+  "38a7cfd737c4463c": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs despesas do Fundo para cada uma das categorias de acções referidas no n.o 1 correspondem, no máximo, a 50 % do montante total do Fundo.\n\nNo entanto, em caso de subutilização dos montantes disponíveis para uma das categorias, a Comissão redistribuirá esses montantes a favor da outra, desde que nesta existam projectos elegíveis em excesso."
+  },
+  "2a4dc3333651df6c": {
+   "fragment_id": "CAPÍTULO II — PROGRAMAS DE INFORMAÇÃO",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — PROGRAMAS DE INFORMAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — PROGRAMAS DE INFORMAÇÃO"
+  },
+  "e94f884d5b48c75a": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os programas de informação financiados pelo Fundo têm por objectivo melhorar os conhecimentos do público sobre os efeitos nocivos do consumo de tabaco sob qualquer forma.\n\n2. Os programas serão constituídos por projectos relativos à informação e educação, à recolha de dados e a estudos. Os projectos dizem respeito, nomeadamente:\n\na) À contribuição para a tomada de consciência do público para os efeitos nocivos do tabagismo, incluindo o tabagismo passivo;\n\nb) À melhoria da pertinência e da eficácia das mensagens e dos métodos de comunicação pela linguagem ou pela imagem no que respeita aos efeitos nocivos do consumo de tabaco;\n\nc) À prevenção e cessação do tabagismo;\n\nd) À divulgação às autoridades nacionais e aos sectores interessados dos resultados obtidos nos domínios referidos nas alíneas a), b) e c)."
+  },
+  "01da1ad98389b314": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A gestão do Fundo, no respeitante aos programas de informação, será assegurada pela Comissão, assistida por um Comité Científico e Técnico.\n\n2. O Comité Científico e Técnico será constituído por nove membros nomeados pela Comissão. A presidência do comité será assegurada pela Comissão. A Comissão velará pela independência dos membros do comité relativamente aos projectos que lhes sejam apresentados."
+  },
+  "68d4cb90ede49d20": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs projectos serão objecto, consoante o caso, de convites à apresentação de propostas ou de processos de concurso público, em função das disposições aplicáveis na matéria, publicados no Jornal Oficial das Comunidades Europeias, série C, no prazo indicado no anúncio."
+  },
+  "b1bc05b145db2cea": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os projectos podem ser apresentados por qualquer pessoa singular ou colectiva estabelecida na Comunidade que:\n\na) Possua competências reconhecidas e uma experiência profissional de pelo menos cinco anos no domínio em causa;\n\nb) Se comprometa a contribuir para o financiamento do projecto com os seus próprios meios em pelo menos 25 % do total; no entanto, os projectos realizados por iniciativa e conta da Comissão serão financiados pelo Fundo até 100 % do custo total;\n\nc) Se comprometa o executar o programa proposto nos prazos previstos;\n\nd) Aceite apresentar relatórios periódicos sobre o avanço dos trabalhos;\n\ne) Aceite que a sua contabilidade e outros documentos comprovativos das despesas estejam disponíveis para verificação pela Comissão;\n\nf) Aceite as condições indicadas nos artigos 9.o, 10.o e 11.o\n\n2. Os projectos podem ser de realização anual, eventualmente renovável, sem, todavia, excederem cinco anos a contar da assinatura do contrato.\n\nTodavia, o prazo de execução pode ser prorrogado se o interessado apresentar um pedido nesse sentido à Comissão, fornecendo a prova de que, na sequência de circunstâncias excepcionais que lhe não são imputáveis, não pode cumprir o prazo inicialmente previsto."
+  },
+  "38e8c1be5c55648d": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os projectos apresentados na sequência de um convite à apresentação de propostas serão avaliados por um grupo de peritos independentes escolhidos pela Comissão. Nessa avaliação, serão tidos em conta os seguintes elementos:\n\na) Os trabalhos devem ser efectuados, em colaboração, por pessoas singulares ou colectivas estabelecidas em vários Estados-Membros;\n\nb) Os projectos concedem uma atenção especial aos necessários ajustamentos culturais e linguísticos específicos dos Estados-Membros, em especial no que respeita às campanhas de informação do público em geral, e aos grupos de risco;\n\nc) os projectos devem basear-se em metodologias e bases científicas sólidas. Devem ser inovadores e ter em conta o trabalho já efectuado e a experiência adquirida no âmbito dos programas nacionais ou comunitários passados ou em curso, para evitar qualquer risco de duplicação na atribuição dos recursos comunitários;\n\nd) Os projectos devem, consoante o caso, contribuir, de modo objectivo e eficaz, para a melhoria dos conhecimentos do público sobre os efeitos nocivos do consumo de tabaco na saúde, para a recolha e análise dos dados epidemiológicos pertinentes ou para a rápida realização de acções de prevenção concretas;\n\ne) Os contratantes devem velar por que os resultados dos seus projectos sejam divulgados através de publicações científicas reconhecidas e/ou apresentados em conferências internacionais;\n\nf) É concedida preferência a projectos respeitantes ao conjunto do território comunitário apresentados por organizações de saúde pública reconhecidas e/ou que beneficiem do apoio explícito das autoridades nacionais ou regionais no domínio da saúde.\n\n2. Com base nessa avaliação, a Comissão apresentará ao Comité Científico e Técnico referido no artigo 4.o uma lista de projectos a ter em consideração para financiamento. O comité emitirá um parecer sobre essa lista.\n\n3. No quadro dos processos de concurso público, os projectos a realizar por iniciativa e por conta da Comissão, e a ter em consideração para financiamento, serão igualmente apresentados pela Comissão ao Comité Científico e Técnico referido no artigo 4.o O comité emitirá um parecer sobre esses projectos.\n\n4. Em aplicação do n.o 4 do artigo 5.o da Decisão 646/96/CE do Parlamento Europeu e do Conselho(6), a Comissão comunicará ao comité previsto no artigo 5.o da referida decisão os projectos a ter em consideração para financiamento, acompanhados do parecer do Comité Científico e Técnico referido no artigo 4.o do presente regulamento."
+  },
+  "b4e9524f5dd6cf0e": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Tendo em conta os pareceres mencionados nos n.os 2 e 3 do artigo 7.o, a Comissão seleccionará os projectos e decidirá quanto ao seu financiamento pelo Fundo. A Comissão pode não dar seguimento a nenhum projecto.\n\n2. Os projectos admitidos para financiamento do Fundo serão objecto de um contrato celebrado com a Comissão. A lista dos projectos financiados será publicada no Jornal Oficial das Comunidades Europeias.\n\n3. A Comissão acompanhará a execução dos projectos admitidos para financiamento do Fundo. A Comissão informará regularmente o Comité de Gestão do Tabaco sobre os contratos celebrados e sobre o estado de adiantamento dos trabalhos."
+  },
+  "1d2e008de9dbd878": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os contratos basear-se-ão num contrato-tipo adequado elaborado pela Comissão, tendo em conta, se for caso disso, as diferentes actividades em causa. Os contratos preverão, nomeadamente:\n\na) A possibilidade de pagamento de um adiantamento pelo Fundo nos dois meses seguintes à assinatura do contrato;\n\nb) A natureza dos elementos do projecto que devem ser apresentados para efeitos dos pagamentos posteriores, que se efectuarão de forma escalonada e em função do estado de adiantamento dos trabalhos previstos, com base em facturas e documentos comprovativos adequados;\n\nc) O prazo para apresentação do pedido de saldo após a realização das acções previstas no contrato, bem como a natureza dos elementos que o devem acompanhar, que incluirão, pelo menos, um recapitulativo das realizações, os documentos comprovativos adequados, a avaliação dos resultados obtidos e a exploração que deles pode ser feita;\n\nd) Um prazo máximo de 60 dias para os pagamentos do Fundo a contar da data da aprovação, pela Comissão, dos elementos do projecto que devem ser apresentados, podendo este prazo ser suspenso pela Comissão para proceder a verificações complementares.\n\n2. O pagamento de um adiantamento pelo Fundo fica subordinado à constituição pelo contratante, a favor da Comissão, de uma garantia de montante igual a 110 % desse adiantamento nas condições previstas no título III do Regulamento (CEE) n.o 2220/85. Todavia, as instituições públicas podem ser isentas desta obrigação.\n\n3. A liberação da garantia fica subordinada ao pagamento do saldo da contribuição para as acções em causa.\n\n4. Se se verificar que o adiantamento excedeu o montante comprovado, a garantia será parcialmente executada até à recuperação do montante indevidamente pago, dentro do limite desse montante."
+  },
+  "19b53d84ed674f39": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs projectos admitidos para financiamento pelo Fundo não podem beneficiar de outros financiamentos comunitários."
+  },
+  "786ea16859bcb9a5": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Se se verificar que o pagamento a título do financiamento de um projecto foi efectuado indevidamente, a Comissão procederá à recuperação dos montantes pagos aos beneficiários, acrescidos do juro corrente a contar da data do pagamento até à sua recuperação efectiva.\n\nA taxa desse juro será a aplicada pelo Banco Central Europeu nas suas operações em euros, publicada no primeiro dia útil de cada mês no Jornal Oficial das Comunidades Europeias.\n\n2. Os montantes recuperados, bem como os juros, serão pagos à Comissão e deduzidos das despesas do sector do tabaco financiadas pelo Fundo Europeu de Orientação e de Garantia Agrícola."
+  },
+  "24390a16cbf2032a": {
+   "fragment_id": "CAPÍTULO III — ACÇÕES DE RECONVERSÃO",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — ACÇÕES DE RECONVERSÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — ACÇÕES DE RECONVERSÃO"
+  },
+  "0f820673f2fdee29": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAs acções de reconversão financiadas pelo Fundo consistem em acções específicas e acções de interesse geral no domínio da reconversão dos produtores de tabaco em rama em outras culturas ou outras actividades económicas geradoras de empregos, bem como em estudos sobre as possibilidades de reconversão dos produtores de tabaco em rama em outras culturas ou actividades."
+  },
+  "7b41f46eb42178ac": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nAs acções específicas destinadas à reconversão dos produtores de tabaco têm por objecto:\n\na) A reorientação para outras culturas e a melhoria da qualidade dos produtos agrícolas diversos do tabaco, bem como o incentivo à diversificação das actividades nas explorações;\n\nb) A formação dos produtores no domínio da criação de novas orientações de produção agrícola diversa do tabaco;\n\nc) A criação de estruturas de comercialização de produtos de qualidade diversos do tabaco, bem como de serviços para a economia e a população rural, a diversificação das actividades agrícolas ou próximas da agricultura com vista a criar actividades múltiplas geradoras de emprego e de rendimentos alternativos, nomeadamente o incentivo às actividades turísticas e artesanais."
+  },
+  "341f4bf5f69a075e": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nAs acções de interesse geral e os estudos sobre as possibilidades de reconversão dos produtores de tabaco têm por objecto:\n\na) Os estudos com o objectivo de desenvolver as oportunidades de reconversão dos produtores de tabaco em outras culturas ou actividades;\n\nb) As operações de orientação e acompanhamento dos produtores que decidam abandonar a produção de tabaco;\n\nc) A realização de experiências inovadoras com carácter demonstrativo.\n\nAs acções em causa podem ser acompanhadas de operações de divulgação e promoção dos resultados."
+  },
+  "19d348ede7239c22": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Os beneficiários das acções referidas no artigo 13.o são os produtores de tabaco que tenham aderido ao programa de resgate de quotas previsto no n.o 1 do artigo 14.o do Regulamento (CE) n.o 2075/92 a partir da colheita de 2002 e cuja quota definitivamente resgatada diga respeito a uma quantidade de, pelo menos, 500 kg.\n\nA possibilidade de apresentar um pedido para beneficiar do apoio do Fundo é limitada ao primeiro ano durante o qual o beneficiário deixa de ter uma quota atribuída.\n\n2. Os beneficiários das acções referidas no artigo 14.o são:\n\na) Os poderes públicos das zonas de produção;\n\nb) Os organismos públicos de investigação agronómica e/ou de economia rural designados pelos Estados-Membros."
+  },
+  "cade56ac6d6e2f88": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. O montante total do apoio comunitário concedido no âmbito do presente capítulo poderá atingir:\n\n- 75 % das despesas elegíveis, para as acções referidas no artigo 13.o, alíneas a) e c),\n\n- 100 % das despesas elegíveis, para as acções referidas na alínea b) do artigo 13.o e no artigo 14.o\n\n2. O montante total das ajudas comunitárias por produtor para o conjunto das acções previstas no artigo 13.o é estabelecido do seguinte modo:\n\na) No respeitante às quantidades de tabaco em rama da quota que lhe foi resgatada, até 10 toneladas (inclusive), o triplo do montante do prémio anual;\n\nb) No respeitante às quantidades de tabaco em rama da quota que lhe foi resgatada, de 10 toneladas (exclusive) a 40 toneladas (inclusive), o dobro do montante do prémio anual;\n\nc) No respeitante às quantidades de tabaco em rama da quota que lhe foi resgatada, além de 40 toneladas, o montante do prémio anual.\n\n3. O montante total do apoio comunitário por produtor, para o conjunto das acções previstas no artigo 13.o, não poderá exceder 300000 euros. Todavia, no respeitante às acções distintas da produção, da comercialização e da transformação de produtos abrangidos pelo anexo I do Tratado, o montante total do apoio comunitário por produtor não poderá exceder 100000 euros."
+  },
+  "beba182e016d3e5e": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. A contribuição comunitária representa a totalidade da contribuição pública para as acções previstas nos artigos 13.o e 14.o\n\n2. A Comissão estabelecerá anualmente, antes de 15 de Fevereiro, de acordo com o procedimento previsto no artigo 23.o do Regulamento (CEE) n.o 2075/92, uma repartição indicativa pelos Estados-Membros dos recursos do Fundo a atribuir às acções previstas nos artigos 13.o e 14.o do presente regulamento, com base nos seguintes critérios:\n\n- em função das quantidades de quotas definitivamente resgatadas, na proporção de 90 %,\n\n- em função do limiar de garantia nacional, na proporção de 10 %.\n\nCom base na experiência adquirida, a Comissão reexaminará a repartição das percentagens prevista no primeiro parágrafo.\n\n3. Os Estados-Membros elaborarão e comunicarão à Comissão anualmente, antes de 31 de Março, as estimativas de financiamento das acções a que se referem os pedidos de intervenção.\n\n4. Se das informações referidas no n.o 3 se inferir que uma parte dos recursos atribuídos a um ou vários Estados-Membros não será utilizada devido à ausência de pedidos de intervenção, a Comissão estabelecerá antes de 31 de Maio do ano em causa a repartição definitiva desses recursos pelos Estados-Membros que tenham recebido pedidos de intervenção para um montante total superior à sua verba estabelecida em conformidade com o n.o 2. Essa repartição definitiva é estabelecida proporcionalmente à repartição indicativa fixada em aplicação do n.o 2."
+  },
+  "aff0769af67c16a4": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. Os Estados-Membros estabelecem os programas relativos às acções referidas nos artigos 13.o e 14.o\n\nOs programas incluem:\n\na) A descrição quantificada da situação actual do sector do tabaco, acompanhada de directrizes sobre as acções de reconversão, bem como das explorações abrangidas e do contexto socioeconómico das zonas de produção, nomeadamente no respeitante ao emprego e ao potencial de desenvolvimento;\n\nb) A descrição da estratégia proposta, os seus objectivos quantificados e as prioridades adoptadas em matéria de reconversão da produção de tabaco;\n\nc) Uma apreciação da incidência prevista nos planos económico, ambiental e social, nomeadamente em matéria de emprego;\n\nd) Uma ficha financeira geral indicativa;\n\ne) A descrição das disposições nacionais previstas para a execução dos programas, nomeadamente as disposições relativas aos controlos;\n\nf) A definição dos critérios de selecção dos projectos objecto de um pedido de intervenção.\n\n2. Os Estados-Membros adoptam as disposições nacionais necessárias à execução dos programas referidos no n.o 1, incluindo o procedimento de aprovação dos projectos, e designam as autoridades nacionais responsáveis pela mesma.\n\n3. Os Estados-Membros apresentarão anualmente à Comissão, antes de 31 de Março, um relatório completo sobre o estado de avanço dos programas no período compreendido entre 1 de Janeiro e 31 de Dezembro do ano anterior."
+  },
+  "780e6c2f86ae3c28": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. O requerente de uma intervenção ao abrigo dos artigos 13.o e 14.o deverá subscrever uma declaração em cujos termos se compromete a não apresentar, para o mesmo projecto, um pedido ao abrigo de outro regime de apoio. Todavia, o requerente será desligado do seu compromisso se o financiamento do seu projecto ao abrigo do Fundo for rejeitado por uma decisão definitiva.\n\n2. O incumprimento do compromisso previsto no n.o 1 determina:\n\n- a perda dos direitos relativos ao programa de resgate de quotas previsto no artigo 14.o do Regulamento (CEE) n.o 2075/92,\n\n- a perda do benefício do apoio às acções referidas nos artigos 13.o e 14.o do presente regulamento."
+  },
+  "42da09d8c01e8b14": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. Os Estados-Membros constituirão, de acordo com normas comuns a estabelecer pela Comissão, um ficheiro informático que inclua todos os elementos dos projectos financiados ao abrigo do presente capítulo. Os dados em causa serão colocados à disposição da Comissão.\n\n2. Os Estados-Membros assegurarão que as informações recolhidas em aplicação do n.o 1 sejam acessíveis às autoridades encarregadas da execução dos restantes programas comunitários ou nacionais de apoio de carácter estrutural.\n\n3. Os Estados-Membros adoptarão as medidas necessárias para assegurar a verificação eficaz do cumprimento das disposições do presente capítulo, nomeadamente por intermédio de um controlo administrativo e de um controlo no local. Essas medidas assegurarão, nomeadamente, que os projectos financiados em aplicação do presente capítulo não tenham beneficiado de outro regime de apoio.\n\n4. Os controlos referidos no n.o 3 referem-se à totalidade dos projectos financiados pelo Fundo."
+  },
+  "ddd572199649bf77": {
+   "fragment_id": "Artigo 21.º — Os Estados-Membros comunicarão de imediato à Comissão as medidas que adoptarem em aplicação dos artigos 18.o, 19.o e 20.o",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Os Estados-Membros comunicarão de imediato à Comissão as medidas que adoptarem em aplicação dos artigos 18.o, 19.o e 20.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Os Estados-Membros comunicarão de imediato à Comissão as medidas que adoptarem em aplicação dos artigos 18.o, 19.o e 20.o"
+  },
+  "a0df0fdfce79147e": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. Os projectos são executados no prazo de dois anos a contar da data da notificação pelo Estado-Membro ao beneficiário da aprovação do projecto.\n\n2. A ajuda é paga após verificação de que o projecto em causa foi executado, o mais tardar três anos após a data de notificação pelo Estado-Membro ao beneficiário da aprovação do projecto.\n\n3. Em derrogação do n.o 2, os Estados-Membros podem prever o pagamento adiantado da ajuda, na condição de:\n\na) A execução do projecto ter sido iniciada;\n\nb) O beneficiário ter constituído uma garantia de montante igual a 120 % do adiantamento. Todavia, as instituições públicas podem ser isentas desta obrigação.\n\nPara efeitos de aplicação do Regulamento (CEE) n.o 2220/85, a obrigação diz respeito à execução do projecto no prazo fixado no n.o 1."
+  },
+  "fa5af5054c88d9db": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nOs Estados-Membros comunicarão as despesas relativas às acções de reconversão efectivamente pagas no exercício financeiro em curso, o mais tardar na última declaração de despesas do exercício em causa, em conformidade com o artigo 3.o do Regulamento (CE) n.o 296/96 da Comissão(7)."
+  },
+  "f457d38d223a78e6": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nPara cada Estado-Membro, as despesas efectivamente pagas e declaradas no respeitante a um determinado exercício serão financiadas até ao limite dos montantes notificados à Comissão em conformidade com o artigo 23.o, desde que, na sua totalidade, esses montantes não excedam o montante atribuído ao Estado-Membro nos termos do artigo 17.o"
+  },
+  "7abb9c7aeb746c87": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nOs Estados-Membros manterão as informações registadas em aplicação do presente capítulo, pelo menos, nos 10 anos seguintes ao do seu registo."
+  },
+  "c9f4c1b654f6848a": {
+   "fragment_id": "CAPÍTULO IV — DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+  },
+  "9a4d6a39723b1ce1": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nEm derrogação do n.o 3 do artigo 17.o, a data-limite de 31 de Março de 2003 para a comunicação das previsões de financiamento das acções respeitantes aos pedidos de intervenção apresentados a título do programa de resgate da colheita de 2002 é prorrogada para 31 de Maio de 2003, pelo que, no n.o 4 do mesmo artigo, a data-limite de 31 de Maio de 2003 é prorrogada para 30 de Junho de 2003."
+  },
+  "a0898b87f09f4ce2": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nO montante do prémio a pagar aos produtores e o reembolso a efectuar pelos Estados-Membros às empresas de transformação, em conformidade com os artigos 18.o e 20.o, respectivamente, do Regulamento (CE) n.o 2848/98 da Comissão, de 22 de Dezembro de 1998, que estabelece normas de execução do Regulamento (CEE) n.o 2075/92 do Conselho no que se refere ao regime de prémios, às quotas de produção e à ajuda específica a conceder aos agrupamentos de produtores no sector do tabaco em rama(8), serão diminuídos, aquando do pagamento, da retenção referida no n.o 1 do artigo 13.o do Regulamento (CEE) n.o 2075/92.\n\nO montante assim diminuído será declarado pelos Estados-Membros a título das despesas do Fundo Europeu de Orientação e de Garantia Agrícola, secção Garantia."
+  },
+  "322c6f0369466a72": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nÉ revogado o Regulamento (CEE) n.o 1648/2000. Todavia, as suas disposições permanecem aplicáveis aos projectos aprovados antes da entrada em vigor do presente regulamento."
+  },
+  "d51d4ad22e52edd6": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 6 de Dezembro de 2002.\n\nPela Comissão\n\nFranz Fischler\n\nMembro da Comissão\n\n(1) JO L 215 de 30.7.1992, p. 70.\n\n(2) JO L 84 de 28.3.2002, p. 4.\n\n(3) JO L 205 de 3.8.1985, p. 5.\n\n(4) JO L 240 de 10.9.1999, p. 11.\n\n(5) JO L 189 de 27.7.2000, p. 9.\n\n(6) JO L 95 de 16.4.1996, p. 9.\n\n(7) JO L 39 de 17.2.1996, p. 5.\n\n(8) JO L 358 de 31.12.1998, p. 17."
+  },
+  "72791aea29a4c371": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Dezembro de 2002\n\nque estabelece normas de execução do Regulamento (CEE) n.º 2075/92 do Conselho no respeitante ao Fundo Comunitário do Tabaco\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CEE) n.º 2075/92 do Conselho, de 30 de Junho de 1992, que estabelece a organização comum de mercado no sector do tabaco em rama ([^1^](http://publications.europa.eu/resource/cellar/b01fe42f-c4ac-454b-82e5-540f4fef174c.0018.03/DOC_1#E0001)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 546/2002 ([^2^](http://publications.europa.eu/resource/cellar/b01fe42f-c4ac-454b-82e5-540f4fef174c.0018.03/DOC_1#E0002)), e, nomeadamente, o seu artigo 14.ºA,\n\n(1) O Regulamento (CE) n.º 546/2002 alterou o artigo 13.º do Regulamento (CEE) n.º 2075/92, relativo ao estabelecimento de um Fundo Comunitário do Tabaco. As alterações dizem respeito aos domínios de actividade do Fundo. Importa, pois, adoptar as normas de execução da disposição em causa.\n\n(2) É conveniente, por um lado, apoiar acções no domínio da luta contra o tabagismo, nomeadamente o reforço dos conhecimentos do público sobre os efeitos nocivos do consumo de tabaco, e, por outro, financiar acções específicas de reconversão dos produtores de tabaco, em sinergia com o programa de resgate de quotas, bem como estudos sobre as possibilidades de reconversão dos produtores em outras culturas ou actividades.\n\n(3) É oportuno repartir adequadamente os recursos financeiros pelos dois principais objectivos do Fundo, que consistem na informação e na reconversão. No entanto, se se verificar que, no que respeita a qualquer desses objectivos, os recursos atribuídos não são inteiramente utilizados, convirá rever a repartição inicial pelos objectivos.\n\n(4) O Fundo Comunitário do Tabaco é alimentado por uma retenção sobre os prémios concedidos aos produtores de tabaco, pelo que se justifica prever que a totalidade do apoio público seja assegurado por recursos comunitários próprios do Fundo.\n\n(5) No respeitante aos programas de informação, a apreciação das diversas propostas apresentadas no quadro dos procedimentos previstos deve ser realizada de acordo com critérios que permitam a melhor escolha possível. É igualmente necessário prever a possibilidade de realização de projectos por iniciativa e conta da Comissão. Para tal, o convite à apresentação de propostas ou o processo de concurso público, consoante o caso, parecem as vias mais indicadas.\n\n(6) Importa estabelecer critérios de elegibilidade aplicáveis às pessoas singulares e colectivas que possam apresentar propostas no contexto dos programas de informação.\n\n(7) Com vista a uma boa gestão administrativa dos programas de informação, importa que os projectos aprovados pela Comissão sejam executados num prazo determinado. O prazo inicialmente previsto pode, excepcionalmente, revelar-se difícil de respeitar. Por conseguinte, é necessário prever a possibilidade de, sob determinadas condições, prorrogar esse prazo de execução.\n\n(8) Com vista a permitir a melhor escolha dos projectos financiados no contexto dos programas de informação e garantir a boa execução dos projectos aprovados, é necessário prever que, para a selecção dos projectos, a Comissão seja assistida por um Comité Científico e Técnico. No âmbito da avaliação, a Comissão deve dispor da possibilidade de recorrer aos serviços de peritos independentes.\n\n(9) Para garantir a boa execução de cada projecto financiado no contexto dos programas de informação, é necessário que as condições de execução sejam especificadas no contrato celebrado com a Comissão. Em caso de pedido de um adiantamento, o contratante deve constituir uma garantia a favor da Comissão, nas condições previstas no título III do Regulamento (CEE) n.º 2220/85 da Comissão, de 22 de Julho de 1985, que fixa as regras comuns de aplicação do regime de garantias para os produtos agrícolas ([^3^](http://publications.europa.eu/resource/cellar/b01fe42f-c4ac-454b-82e5-540f4fef174c.0018.03/DOC_1#E0003)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1932/1999 ([^4^](http://publications.europa.eu/resource/cellar/b01fe42f-c4ac-454b-82e5-540f4fef174c.0018.03/DOC_1#E0004)).\n\n(10) No respeitante aos programas de informação, importa evitar a acumulação injustificada de mais de uma medida para o mesmo projecto, e é necessário prever a recuperação dos pagamentos em determinados casos, nomeadamente se se tiverem registado irregularidades.\n\n(11) No respeitante às acções específicas de reconversão, importa definir as acções específicas destinadas à reconversão dos produtores de tabaco, bem como as acções de interesse geral e os estudos sobre as possibilidades de reconversão dos produtores de tabaco, elegíveis para financiamento pelo Fundo. Importa também definir os beneficiários dos diversos tipos de acções.\n\n(12) De modo a assegurar uma eficácia adequada das acções de apoio à reconversão, é oportuno determinar a intensidade das ajudas a conceder no âmbito das diversas acções, bem como o montante total do apoio por produtor para o conjunto das acções. Importa fixar a um nível suficientemente atractivo a intensidade das ajudas às acções específicas, de forma a incentivar os produtores a beneficiarem da possibilidade de reconversão, atendendo a que a reconversão implica importantes alterações na organização produtiva das explorações.\n\n(13) O Fundo deverá garantir o apoio à reconversão dos produtores no conjunto do território da Comunidade e operar em sinergia com o programa de resgate de quotas. Importa, pois, definir a repartição dos recursos do Fundo pelos Estados-Membros produtores. De forma a ter em conta a situação real de abandono da produção nos diversos Estados, importa também prever uma segunda repartição dos recursos, efectuada com base nos pedidos de intervenção recebidos.\n\n(14) De modo a garantir o enquadramento da execução das intervenções destinadas à reconversão dos produtores de tabaco, os Estados-Membros produtores deverão estabelecer um programa. Por conseguinte, é oportuno definir o teor dos programas em causa, nomeadamente no respeitante às prioridades e aos critérios de selecção dos projectos, bem como a obrigação dos Estados-Membros de informarem a Comissão sobre a vigilância que tenham efectuado do estado de avanço anual dos programas.\n\n(15) Deverão evitar-se quaisquer riscos de financiamento duplo de um determinado projecto pelo Fundo Comunitário do Tabaco e por outros regimes de apoio. Além disso, deverá facilitar-se a decisão dos produtores de tabaco que pretendam abandonar a produção. Importa prever as condições em que um pedido de intervenção do Fundo Comunitário do Tabaco pode ser aceite, bem como a possibilidade de apresentar esse projecto para apoio por outro regime, caso os recursos financeiros do Fundo Comunitário do Tabaco estejam esgotados. Importa também definir a natureza dos controlos a realizar e das sanções a aplicar.\n\n(16) De forma a proporcionar aos Estados-Membros um prazo suficiente para a elaboração das estimativas de financiamento das acções de reconversão para 2003, há que prorrogar, para o ano em causa, a data-limite prevista para a comunicação à Comissão das referidas estimativas de financiamento, bem como, por consequência, a data-limite da repartição definitiva dos recursos pelos Estados-Membros.\n\n(17) Há que revogar e substituir o Regulamento (CE) n.º 1648/2000 da Comissão, de 25 de Julho de 2000, que estabelece normas de execução do Regulamento (CEE) n.º 2075/92 do Conselho no que diz respeito ao Fundo Comunitário do Tabaco ([^5^](http://publications.europa.eu/resource/cellar/b01fe42f-c4ac-454b-82e5-540f4fef174c.0018.03/DOC_1#E0005)). Todavia, as disposições do referido regulamento deverão permanecer aplicáveis aos projectos aprovados antes da entrada em vigor do presente regulamento.\n\n(18) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão do Tabaco,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "d8e53e3b9c01edcf": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento fixa as condições de financiamento pelo Fundo Comunitário do Tabaco, a seguir denominado «Fundo», das acções em ambos os domínios referidos no n.º 2 do artigo 13.º do Regulamento (CEE) n.º 2075/92, na forma de programas de informação e acções de reconversão."
+  },
+  "a66b276baae6e02e": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs despesas do Fundo para cada uma das categorias de acções referidas no n.º 1 correspondem, no máximo, a 50 % do montante total do Fundo.\n\nNo entanto, em caso de subutilização dos montantes disponíveis para uma das categorias, a Comissão redistribuirá esses montantes a favor da outra, desde que nesta existam projectos elegíveis em excesso."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "bd9f6add61d64467": {
+   "fragment_id": "PROGRAMAS DE INFORMAÇÃO",
+   "type": "divisao",
+   "heading": "PROGRAMAS DE INFORMAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROGRAMAS DE INFORMAÇÃO"
+  },
+  "16ec2297e6a70706": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs projectos serão objecto, consoante o caso, de convites à apresentação de propostas ou de processos de concurso público, em função das disposições aplicáveis na matéria, publicados no *Jornal Oficial das Comunidades Europeias*, série C, no prazo indicado no anúncio."
+  },
+  "050920a8a54becf4": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os projectos podem ser apresentados por qualquer pessoa singular ou colectiva estabelecida na Comunidade que:\n\na) Possua competências reconhecidas e uma experiência profissional de pelo menos cinco anos no domínio em causa;\n\nb) Se comprometa a contribuir para o financiamento do projecto com os seus próprios meios em pelo menos 25 % do total; no entanto, os projectos realizados por iniciativa e conta da Comissão serão financiados pelo Fundo até 100 % do custo total;\n\nc) Se comprometa o executar o programa proposto nos prazos previstos;\n\nd) Aceite apresentar relatórios periódicos sobre o avanço dos trabalhos;\n\ne) Aceite que a sua contabilidade e outros documentos comprovativos das despesas estejam disponíveis para verificação pela Comissão;\n\nf) Aceite as condições indicadas nos artigos 9.º, 10.º e 11.º\n\n2. Os projectos podem ser de realização anual, eventualmente renovável, sem, todavia, excederem cinco anos a contar da assinatura do contrato.\n\nTodavia, o prazo de execução pode ser prorrogado se o interessado apresentar um pedido nesse sentido à Comissão, fornecendo a prova de que, na sequência de circunstâncias excepcionais que lhe não são imputáveis, não pode cumprir o prazo inicialmente previsto."
+  },
+  "48c29364e7fb8d35": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os projectos apresentados na sequência de um convite à apresentação de propostas serão avaliados por um grupo de peritos independentes escolhidos pela Comissão. Nessa avaliação, serão tidos em conta os seguintes elementos:\n\na) Os trabalhos devem ser efectuados, em colaboração, por pessoas singulares ou colectivas estabelecidas em vários Estados-Membros;\n\nb) Os projectos concedem uma atenção especial aos necessários ajustamentos culturais e linguísticos específicos dos Estados-Membros, em especial no que respeita às campanhas de informação do público em geral, e aos grupos de risco;\n\nc) os projectos devem basear-se em metodologias e bases científicas sólidas. Devem ser inovadores e ter em conta o trabalho já efectuado e a experiência adquirida no âmbito dos programas nacionais ou comunitários passados ou em curso, para evitar qualquer risco de duplicação na atribuição dos recursos comunitários;\n\nd) Os projectos devem, consoante o caso, contribuir, de modo objectivo e eficaz, para a melhoria dos conhecimentos do público sobre os efeitos nocivos do consumo de tabaco na saúde, para a recolha e análise dos dados epidemiológicos pertinentes ou para a rápida realização de acções de prevenção concretas;\n\ne) Os contratantes devem velar por que os resultados dos seus projectos sejam divulgados através de publicações científicas reconhecidas e/ou apresentados em conferências internacionais;\n\nf) É concedida preferência a projectos respeitantes ao conjunto do território comunitário apresentados por organizações de saúde pública reconhecidas e/ou que beneficiem do apoio explícito das autoridades nacionais ou regionais no domínio da saúde.\n\n2. Com base nessa avaliação, a Comissão apresentará ao Comité Científico e Técnico referido no artigo 4.º uma lista de projectos a ter em consideração para financiamento. O comité emitirá um parecer sobre essa lista.\n\n3. No quadro dos processos de concurso público, os projectos a realizar por iniciativa e por conta da Comissão, e a ter em consideração para financiamento, serão igualmente apresentados pela Comissão ao Comité Científico e Técnico referido no artigo 4.º O comité emitirá um parecer sobre esses projectos.\n\n4. Em aplicação do n.º 4 do artigo 5.º da Decisão 646/96/CE do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/b01fe42f-c4ac-454b-82e5-540f4fef174c.0018.03/DOC_1#E0006)), a Comissão comunicará ao comité previsto no artigo 5.º da referida decisão os projectos a ter em consideração para financiamento, acompanhados do parecer do Comité Científico e Técnico referido no artigo 4.º do presente regulamento."
+  },
+  "59ba3536347d8dd0": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Tendo em conta os pareceres mencionados nos n.^os^ 2 e 3 do artigo 7.º, a Comissão seleccionará os projectos e decidirá quanto ao seu financiamento pelo Fundo. A Comissão pode não dar seguimento a nenhum projecto.\n\n2. Os projectos admitidos para financiamento do Fundo serão objecto de um contrato celebrado com a Comissão. A lista dos projectos financiados será publicada no *Jornal Oficial das Comunidades Europeias*.\n\n3. A Comissão acompanhará a execução dos projectos admitidos para financiamento do Fundo. A Comissão informará regularmente o Comité de Gestão do Tabaco sobre os contratos celebrados e sobre o estado de adiantamento dos trabalhos."
+  },
+  "ab9c5f9c0df5c5e0": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os contratos basear-se-ão num contrato-tipo adequado elaborado pela Comissão, tendo em conta, se for caso disso, as diferentes actividades em causa. Os contratos preverão, nomeadamente:\n\na) A possibilidade de pagamento de um adiantamento pelo Fundo nos dois meses seguintes à assinatura do contrato;\n\nb) A natureza dos elementos do projecto que devem ser apresentados para efeitos dos pagamentos posteriores, que se efectuarão de forma escalonada e em função do estado de adiantamento dos trabalhos previstos, com base em facturas e documentos comprovativos adequados;\n\nc) O prazo para apresentação do pedido de saldo após a realização das acções previstas no contrato, bem como a natureza dos elementos que o devem acompanhar, que incluirão, pelo menos, um recapitulativo das realizações, os documentos comprovativos adequados, a avaliação dos resultados obtidos e a exploração que deles pode ser feita;\n\nd) Um prazo máximo de 60 dias para os pagamentos do Fundo a contar da data da aprovação, pela Comissão, dos elementos do projecto que devem ser apresentados, podendo este prazo ser suspenso pela Comissão para proceder a verificações complementares.\n\n2. O pagamento de um adiantamento pelo Fundo fica subordinado à constituição pelo contratante, a favor da Comissão, de uma garantia de montante igual a 110 % desse adiantamento nas condições previstas no título III do Regulamento (CEE) n.º 2220/85. Todavia, as instituições públicas podem ser isentas desta obrigação.\n\n3. A liberação da garantia fica subordinada ao pagamento do saldo da contribuição para as acções em causa.\n\n4. Se se verificar que o adiantamento excedeu o montante comprovado, a garantia será parcialmente executada até à recuperação do montante indevidamente pago, dentro do limite desse montante."
+  },
+  "ae7cf645b55693ae": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Se se verificar que o pagamento a título do financiamento de um projecto foi efectuado indevidamente, a Comissão procederá à recuperação dos montantes pagos aos beneficiários, acrescidos do juro corrente a contar da data do pagamento até à sua recuperação efectiva.\n\nA taxa desse juro será a aplicada pelo Banco Central Europeu nas suas operações em euros, publicada no primeiro dia útil de cada mês no *Jornal Oficial das Comunidades Europeias*.\n\n2. Os montantes recuperados, bem como os juros, serão pagos à Comissão e deduzidos das despesas do sector do tabaco financiadas pelo Fundo Europeu de Orientação e de Garantia Agrícola."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "c8779d98f43fab3a": {
+   "fragment_id": "ACÇÕES DE RECONVERSÃO",
+   "type": "divisao",
+   "heading": "ACÇÕES DE RECONVERSÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ACÇÕES DE RECONVERSÃO"
+  },
+  "535ec7bf27c35214": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Os beneficiários das acções referidas no artigo 13.º são os produtores de tabaco em rama, titulares de uma quota de produção de tabaco a título da colheita de 2005 em conformidade com o artigo 24.º do Regulamento (CE) n.º 2848/98, que estão situados numa região na qual se aplica o título IV, capítulo 10-C do Regulamento (CE) n.º 1782/2003 do Conselho ([^7^](http://publications.europa.eu/resource/cellar/b01fe42f-c4ac-454b-82e5-540f4fef174c.0018.03/DOC_1#E0009)) e que se comprometem, o mais tardar em 15 de Fevereiro de 2006, a renunciar, a partir da colheita de 2006, ao direito à ajuda à produção de tabaco prevista no referido capítulo.\n\nOs Estados-Membros comunicam à Comissão o número de produtores que apresentaram esse compromisso, bem como o volume das quotas correspondentes por grupo de variedades.\n\nA possibilidade de apresentar um pedido tendo em vista beneficiar do apoio do Fundo é limitada ao ano de 2006.\n\n2. Os beneficiários das acções referidas no artigo 14.º são:\n\na) Os poderes públicos das zonas de produção;\n\nb) Os organismos públicos de investigação agronómica e/ou de economia rural designados pelos Estados-Membros."
+  },
+  "52f7bf52758d3438": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. O montante total do apoio comunitário concedido no âmbito do presente capítulo poderá atingir:\n\n— 75 % das despesas elegíveis, para as acções referidas no artigo 13.º, alíneas a) e c),\n\n— 100 % das despesas elegíveis, para as acções referidas na alínea b) do artigo 13.º e no artigo 14.º\n\n2. O montante total das ajudas comunitárias por produtor para o conjunto das acções previstas no artigo 13.º é estabelecido do seguinte modo:\n\na) No respeitante às quantidades de tabaco em rama da quota a que tinha direito em conformidade com o artigo 24.º do Regulamento (CE) n.º 2848/98 para a colheita de 2005, até 10 toneladas inclusive, o triplo do montante do prémio em 2005;\n\nb) No respeitante às quantidades de tabaco em rama da quota a que tinha direito em conformidade com o artigo 24.º do Regulamento (CE) n.º 2848/98 para a colheita de 2005, para além de 10 toneladas e até 40 toneladas inclusive, o dobro do montante do prémio em 2005;\n\nc) No respeitante às quantidades de tabaco em rama da quota a que tinha direito em conformidade com o artigo 24.º do Regulamento (CE) n.º 2848/98 para a colheita de 2005, para além de 40 toneladas, o montante do prémio em 2005.\n\n3. O montante total do apoio comunitário por produtor, para o conjunto das acções previstas no artigo 13.º, não poderá exceder 300 000 euros. Todavia, no respeitante às acções distintas da produção, da comercialização e da transformação de produtos abrangidos pelo anexo I do Tratado, o montante total do apoio comunitário por produtor não poderá exceder 100 000 euros."
+  },
+  "8669ba59e1f3cf13": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. A contribuição comunitária representa a totalidade da contribuição pública para as acções previstas nos artigos 13.º e 14.º\n\n2. É estabelecida, em conformidade com o procedimento previsto no n.º 2 do artigo 23.º do Regulamento (CEE) n.º 2075/92, antes de 15 de Fevereiro de 2006, uma repartição indicativa pelos Estados-Membros dos recursos do Fundo a atribuir às acções previstas nos artigos 13.º e 14.º do presente regulamento em função do limiar de garantia nacional fixado para a colheita de 2005.\n\n3. Os Estados-Membros definem e comunicam à Comissão, antes de 30 de Abril de 2006, as estimativas de financiamento das acções a que se referem os pedidos de intervenção.\n\n4. Se das informações referidas no n.º 3 se inferir que uma parte dos recursos atribuídos a um ou vários Estados-Membros não será utilizada devido à ausência de pedidos de intervenção, a Comissão estabelecerá, antes de 30 de Junho de 2006, a repartição definitiva desses recursos pelos Estados-Membros que tenham recebido pedidos de intervenção para um montante total superior à sua verba estabelecida em conformidade com o n.º 2. Essa repartição definitiva é estabelecida proporcionalmente à repartição indicativa fixada em aplicação do n.º 2."
+  },
+  "3945490f8b6488d7": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. Os Estados-Membros estabelecem os programas relativos às acções referidas nos artigos 13.º e 14.º\n\nOs programas incluem:\n\na) A descrição quantificada da situação actual do sector do tabaco, acompanhada de directrizes sobre as acções de reconversão, bem como das explorações abrangidas e do contexto socioeconómico das zonas de produção, nomeadamente no respeitante ao emprego e ao potencial de desenvolvimento;\n\nb) A descrição da estratégia proposta, os seus objectivos quantificados e as prioridades adoptadas em matéria de reconversão da produção de tabaco;\n\nc) Uma apreciação da incidência prevista nos planos económico, ambiental e social, nomeadamente em matéria de emprego;\n\nd) Uma ficha financeira geral indicativa;\n\ne) A descrição das disposições nacionais previstas para a execução dos programas, nomeadamente as disposições relativas aos controlos;\n\nf) A definição dos critérios de selecção dos projectos objecto de um pedido de intervenção.\n\n2. Os Estados-Membros adoptam as disposições nacionais necessárias à execução dos programas referidos no n.º 1, incluindo o procedimento de aprovação dos projectos, e designam as autoridades nacionais responsáveis pela mesma.\n\n3. Os Estados-Membros apresentarão anualmente à Comissão, antes de 31 de Março, um relatório completo sobre o estado de avanço dos programas no período compreendido entre 1 de Janeiro e 31 de Dezembro do ano anterior."
+  },
+  "342a09a3838bdb60": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. O requerente de uma intervenção ao abrigo dos artigos 13.º e 14.º deverá subscrever uma declaração em cujos termos se compromete a não apresentar, para o mesmo projecto, um pedido ao abrigo de outro regime de apoio. Todavia, o requerente será desligado do seu compromisso se o financiamento do seu projecto ao abrigo do Fundo for rejeitado por uma decisão definitiva.\n\n2. O incumprimento do compromisso previsto no n.º 1 determina:\n\n— a perda dos direitos relativos ao programa de resgate de quotas previsto no artigo 14.º do Regulamento (CEE) n.º 2075/92,\n\n— a perda do benefício do apoio às acções referidas nos artigos 13.º e 14.º do presente regulamento.\n\n3. Em caso de irregularidade intencional, diferente do incumprimento do compromisso previsto no n.º 1 do presente artigo, o requerente de uma intervenção ao abrigo dos artigos 13.º e 14.º paga um montante igual ao montante objecto do pedido de intervenção. Esta soma é creditada ao Fundo Europeu de Orientação e Garantia Agrícola (FEOGA)."
+  },
+  "42693efa3c223bc8": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. Os Estados-Membros constituirão, de acordo com normas comuns a estabelecer pela Comissão, um ficheiro informático que inclua todos os elementos dos projectos financiados ao abrigo do presente capítulo. Os dados em causa serão colocados à disposição da Comissão.\n\n2. Os Estados-Membros assegurarão que as informações recolhidas em aplicação do n.º 1 sejam acessíveis às autoridades encarregadas da execução dos restantes programas comunitários ou nacionais de apoio de carácter estrutural.\n\n3. Os Estados-Membros adoptarão as medidas necessárias para assegurar a verificação eficaz do cumprimento das disposições do presente capítulo, nomeadamente por intermédio de um controlo administrativo e de um controlo no local. Essas medidas assegurarão, nomeadamente, que os projectos financiados em aplicação do presente capítulo não tenham beneficiado de outro regime de apoio.\n\n4. Os controlos referidos no n.º 3 referem-se à totalidade dos projectos financiados pelo Fundo."
+  },
+  "add5f6197ce7e593": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nOs Estados-Membros comunicarão de imediato à Comissão as medidas que adoptarem em aplicação dos artigos 18.º, 19.º e 20.º"
+  },
+  "47f55344dce3af37": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. Os projectos são executados no prazo de dois anos a contar da data da notificação pelo Estado-Membro ao beneficiário da aprovação do projecto. Todavia, os Estados-Membros podem prorrogar esse prazo para 30 meses.\n\n2. A ajuda é paga após verificação de que o projecto em causa foi executado, o mais tardar três anos após a data de notificação pelo Estado-Membro ao beneficiário da aprovação do projecto.\n\n3. Em derrogação do n.º 2, os Estados-Membros podem prever o pagamento adiantado da ajuda, na condição de:\n\na) A execução do projecto ter sido iniciada;\n\nb) O beneficiário ter constituído uma garantia de montante igual a 120 % do adiantamento. Todavia, as instituições públicas podem ser isentas desta obrigação."
+  },
+  "b650bc20c1741506": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nOs Estados-Membros comunicarão as despesas relativas às acções de reconversão efectivamente pagas no exercício financeiro em curso, o mais tardar na última declaração de despesas do exercício em causa, em conformidade com o artigo 3.º do Regulamento (CE) n.º 296/96 da Comissão ([^8^](http://publications.europa.eu/resource/cellar/b01fe42f-c4ac-454b-82e5-540f4fef174c.0018.03/DOC_1#E0007))."
+  },
+  "69084eefc63f6c1c": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nPara cada Estado-Membro, as despesas efectivamente pagas e declaradas no respeitante a um determinado exercício serão financiadas até ao limite dos montantes notificados à Comissão em conformidade com o artigo 23.º, desde que, na sua totalidade, esses montantes não excedam o montante atribuído ao Estado-Membro nos termos do artigo 17.º"
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "fee7c0f6661bbf52": {
+   "fragment_id": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+  },
+  "741beb38f33cf9fa": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nEm derrogação do n.º 3 do artigo 17.º, a data-limite de 31 de Março de 2003 para a comunicação das previsões de financiamento das acções respeitantes aos pedidos de intervenção apresentados a título do programa de resgate da colheita de 2002 é prorrogada para 31 de Maio de 2003, pelo que, no n.º 4 do mesmo artigo, a data-limite de 31 de Maio de 2003 é prorrogada para 30 de Junho de 2003.\n\nEm derrogação do n.º 3 do artigo 17.º, a data-limite de 31 de Março de 2004 para a transmissão das estimativas de financiamento das acções a que se referem os pedidos de intervenção apresentados ao abrigo do programa de resgate de quotas da colheita de 2003 é prorrogada para 31 de Maio de 2004; por consequência, em derrogação do n.º 4 do referido artigo, a data-limite de 31 de Maio de 2004 prevista no mesmo é prorrogada para 30 de Junho de 2004."
+  },
+  "b8a38a50c7575c09": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nO montante do prémio a pagar aos produtores e o reembolso a efectuar pelos Estados-Membros às empresas de transformação, em conformidade com os artigos 18.º e 20.º, respectivamente, do Regulamento (CE) n.º 2848/98 da Comissão, de 22 de Dezembro de 1998, que estabelece normas de execução do Regulamento (CEE) n.º 2075/92 do Conselho no que se refere ao regime de prémios, às quotas de produção e à ajuda específica a conceder aos agrupamentos de produtores no sector do tabaco em rama ([^9^](http://publications.europa.eu/resource/cellar/b01fe42f-c4ac-454b-82e5-540f4fef174c.0018.03/DOC_1#E0008)), serão diminuídos, aquando do pagamento, da retenção referida no n.º 1 do artigo 13.º do Regulamento (CEE) n.º 2075/92.\n\nO montante assim diminuído será declarado pelos Estados-Membros a título das despesas do Fundo Europeu de Orientação e de Garantia Agrícola, secção Garantia."
+  },
+  "9827721f9578a339": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nÉ revogado o Regulamento (CEE) n.º 1648/2000. Todavia, as suas disposições permanecem aplicáveis aos projectos aprovados antes da entrada em vigor do presente regulamento."
+  },
+  "5d68f26c3aa1d9ec": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "08569b2d1c2c8fc4": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b01fe42f-c4ac-454b-82e5-540f4fef174c.0018.03/DOC_1#src.E0001)) JO L 215 de 30.7.1992, p. 70.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b01fe42f-c4ac-454b-82e5-540f4fef174c.0018.03/DOC_1#src.E0002)) JO L 84 de 28.3.2002, p. 4.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b01fe42f-c4ac-454b-82e5-540f4fef174c.0018.03/DOC_1#src.E0003)) JO L 205 de 3.8.1985, p. 5.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b01fe42f-c4ac-454b-82e5-540f4fef174c.0018.03/DOC_1#src.E0004)) JO L 240 de 10.9.1999, p. 11.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b01fe42f-c4ac-454b-82e5-540f4fef174c.0018.03/DOC_1#src.E0005)) JO L 189 de 27.7.2000, p. 9.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b01fe42f-c4ac-454b-82e5-540f4fef174c.0018.03/DOC_1#src.E0006)) JO L 95 de 16.4.1996, p. 9.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b01fe42f-c4ac-454b-82e5-540f4fef174c.0018.03/DOC_1#src.E0009)) JO L 270 de 21.10.2003, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/b01fe42f-c4ac-454b-82e5-540f4fef174c.0018.03/DOC_1#src.E0007)) JO L 39 de 17.2.1996, p. 5.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/b01fe42f-c4ac-454b-82e5-540f4fef174c.0018.03/DOC_1#src.E0008)) JO L 358 de 31.12.1998, p. 17."
+  }
+ }
+}

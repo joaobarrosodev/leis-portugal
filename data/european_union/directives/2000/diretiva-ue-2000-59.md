@@ -35,6 +35,97 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-06-27'
+version_history:
+  file: diretiva-ue-2000-59.versoes.json
+  count: 5
+  source_lastmod: '2019-06-27'
+  versions:
+  - date: '2000-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-12-15'
+    amending: eu:celex:32002L0084:por
+    amending_title: DIRECTIVA 2002/84/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5 de Novembro
+      de 2002; DIRECTIVA 2007/71/CE DA COMISSÃO Texto relevante para efeitos do EEE de 13 de Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 12.º — Medidas de acompanhamento
+    - Altera Artigo 14.º — Comité de regulamentação
+    - Altera Artigo 15.º — Procedimento de alteração
+    - Altera Artigo 19.º — Destinatários
+    - Adita ANEXO I
+    - Adita PRESCRIÇÕES PARA OS PLANOS PORTUÁRIOS DE RECEPÇÃO E GESTÃO DOS RESÍDUOS
+    - Adita (referidas no artigo 5.º)
+    - 'Adita Informação a disponibilizar aos utilizadores do porto:'
+    - Adita ANEXO II
+    - Adita INFORMAÇÕES A NOTIFICAR ANTES DA ENTRADA NO PORTO DE
+    - 'Adita Notas:'
+    - Adita Notas
+    - Suprime ANEXO I — PRESCRIÇÕES PARA OS PLANOS PORTUÁRIOS DE RECEPÇÃO E GESTÃO DOS RESÍDUOS
+    - Suprime ANEXO II — >PIC FILE= "L_2000332PT.008802.EPS">
+  - date: '2008-12-11'
+    amending: eu:celex:32008R1137:por
+    amending_title: REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE22 de Outubro de 2008 que adapta
+      à Decisão 1999/468/CE do Conselho certos actos sujeitos ao procedimento previsto no artigo 251. o do Tratado, no que
+      se refere ao procedimento de regulamentação com controlo
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 12.º — Medidas de acompanhamento
+    - Altera Artigo 15.º — Procedimento de alteração
+    - Altera (referidas no artigo 5.º)
+    - Altera INFORMAÇÕES A NOTIFICAR ANTES DA ENTRADA NO PORTO DE
+    - Altera Notas
+    - Adita Artigo 14.º — Procedimento de comité
+    - Suprime Artigo 14.º — Comité de regulamentação
+  - date: '2015-12-09'
+    amending: eu:celex:32015L2087:por
+    amending_title: DIRETIVA (UE) 2015/2087 DA COMISSÃO Texto relevante para efeitos do EEE de 18 de novembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 12.º — Medidas de acompanhamento
+    - Altera Artigo 14.º — Procedimento de comité
+    - Altera (referidas no artigo 5.º)
+    - Altera Notas
+    - Adita INFORMAÇÕES A NOTIFICAR ANTES DA ENTRADA NO PORTO DE …
+    - Adita (Porto de destino a que se faz referência no artigo 6.º da Diretiva 2000/59/CE)
+    - Suprime INFORMAÇÕES A NOTIFICAR ANTES DA ENTRADA NO PORTO DE
+    - 'Suprime Notas:'
+  - date: '2019-06-27'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objectivo
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Âmbito
+    - Suprime Artigo 4.º — Meios portuários de recepção
+    - Suprime Artigo 5.º — Planos de recepção e gestão dos resíduos
+    - Suprime Artigo 6.º — Notificação
+    - Suprime Artigo 7.º — Entrega dos resíduos gerados em navios
+    - Suprime Artigo 8.º — Taxas sobre os resíduos gerados em navios
+    - Suprime Artigo 9.º — Isenções
+    - Suprime Artigo 10.º — Entrega dos resíduos da carga
+    - Suprime Artigo 11.º — Aplicação
+    - Suprime Artigo 12.º — Medidas de acompanhamento
+    - Suprime Artigo 13.º — Sanções
+    - Suprime Artigo 14.º — Procedimento de comité
+    - Suprime Artigo 15.º — Procedimento de alteração
+    - Suprime Artigo 16.º — Transposição
+    - Suprime Artigo 17.º — Avaliação
+    - Suprime Artigo 18.º — Entrada em vigor
+    - Suprime Artigo 19.º — Destinatários
+    - Suprime ANEXO I
+    - Suprime PRESCRIÇÕES PARA OS PLANOS PORTUÁRIOS DE RECEPÇÃO E GESTÃO DOS RESÍDUOS
+    - Suprime (referidas no artigo 5.º)
+    - 'Suprime Informação a disponibilizar aos utilizadores do porto:'
+    - Suprime ANEXO II
+    - Suprime INFORMAÇÕES A NOTIFICAR ANTES DA ENTRADA NO PORTO DE …
+    - Suprime (Porto de destino a que se faz referência no artigo 6.º da Diretiva 2000/59/CE)
+    - Suprime Notas
 identifiers:
   celex: 32000L0059
   eli: http://data.europa.eu/eli/dir/2000/59/oj
@@ -49,7 +140,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/15945efb-a7e8-4840-ab4d-0535f12692a8.0009
   content_url: http://publications.europa.eu/resource/cellar/cfd8f654-98d1-11e9-b2f2-01aa75ed71a1.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0059-20190627
-  retrieved_at: '2026-10-22T02:38:12Z'
+  retrieved_at: '2026-10-22T14:49:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-26T10:31:25.338+01:00'
 integrity:
@@ -58,9 +149,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:12Z'
-  notes: Texto consolidado 02000L0059-20190627.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:02Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2000-59.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -204,16 +295,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:12Z'
+  checked_at: '2026-10-22T14:49:02Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02000L0059-20021129: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -37,6 +37,26 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-11-09'
+version_history:
+  file: diretiva-ue-2001-27.versoes.json
+  count: 2
+  source_lastmod: '2006-11-09'
+  versions:
+  - date: '2001-04-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-11-09'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime ANEXO — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 88/77/CEE
 identifiers:
   celex: 32001L0027
   eli: http://data.europa.eu/eli/dir/2001/27/oj
@@ -51,7 +71,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ae4649da-a230-4e56-8708-62d6ad796674.0010
   content_url: http://publications.europa.eu/resource/cellar/6ec7ec8b-4cf0-4d88-94ee-58b03bd1a722.0010.04/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0027-20061109
-  retrieved_at: '2026-10-22T03:10:08Z'
+  retrieved_at: '2026-10-22T14:50:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-26T01:49:39.564+01:00'
 integrity:
@@ -60,9 +80,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:10:08Z'
-  notes: Texto consolidado 02001L0027-20061109.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:02Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2001-27.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -117,16 +137,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:10:08Z'
+  checked_at: '2026-10-22T14:50:02Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02001L0027-20010421: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

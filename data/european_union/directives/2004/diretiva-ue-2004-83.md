@@ -36,6 +36,69 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-12-21'
+version_history:
+  file: diretiva-ue-2004-83.versoes.json
+  count: 3
+  source_lastmod: '2013-12-21'
+  versions:
+  - date: '2004-09-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-10-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Motivos da perseguição
+    - Altera Artigo 17.º — Exclusão
+    - Altera Artigo 40.º — Destinatários
+    - Altera Notas
+  - date: '2013-12-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Normas mais favoráveis
+    - Suprime CAPÍTULO II
+    - Suprime APRECIAÇÃO DO PEDIDO DE PROTECÇÃO INTERNACIONAL
+    - Suprime Artigo 4.º — Apreciação dos factos e circunstâncias
+    - Suprime Artigo 5.º — Necessidade de protecção internacional surgida in loco
+    - Suprime Artigo 6.º — Agentes da perseguição ou ofensa grave
+    - Suprime Artigo 7.º — Agentes da protecção
+    - Suprime Artigo 8.º — Protecção interna
+    - Suprime CAPÍTULO III
+    - Suprime CONDIÇÕES PARA O RECONHECIMENTO COMO REFUGIADO
+    - Suprime Artigo 9.º — Actos de perseguição
+    - Suprime Artigo 10.º — Motivos da perseguição
+    - Suprime Artigo 11.º — Cessação
+    - Suprime Artigo 12.º — Exclusão
+    - Suprime CAPÍTULO IV
+    - Suprime ESTATUTO DE REFUGIADO
+    - Suprime Artigo 13.º — Concessão do estatuto de refugiado
+    - Suprime Artigo 14.º — Revogação, supressão ou recusa de renovação do estatuto de refugiado
+    - Suprime CAPÍTULO V
+    - Suprime QUALIFICAÇÃO PARA A PROTECÇÃO SUBSIDIÁRIA
+    - Suprime Artigo 15.º — Ofensas graves
+    - Suprime Artigo 16.º — Cessação
+    - Suprime Artigo 17.º — Exclusão
+    - Suprime CAPÍTULO VI
+    - Suprime ESTATUTO DE PROTECÇÃO SUBSIDIÁRIA
+    - Suprime Artigo 18.º — Concessão do estatuto de protecção subsidiária
+    - Suprime Artigo 19.º — Revogação, supressão ou recusa de renovação do estatuto de protecção subsidiária
+    - Suprime CAPÍTULO VII
+    - Suprime CONTEÚDO DA PROTECÇÃO INTERNACIONAL
+    - Suprime Artigo 20.º — Normas gerais
+    - Suprime Artigo 21.º — Protecção contra a repulsão
+    - Suprime Artigo 22.º — Informação
+    - Suprime Artigo 23.º — Preservação da unidade familiar
+    - Suprime Artigo 24.º — Autorizações de residência
+    - Suprime Artigo 25.º — Documentos de viagem
 identifiers:
   celex: 32004L0083
   eli: http://data.europa.eu/eli/dir/2004/83/oj
@@ -50,7 +113,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c22317ec-43eb-4f6a-955a-c1da055c9913.0010
   content_url: http://publications.europa.eu/resource/cellar/df831e6d-f20d-4d7a-bb0a-40bb55789ea7.0004.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0083-20131221
-  retrieved_at: '2026-10-22T02:41:25Z'
+  retrieved_at: '2026-10-22T14:57:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-06-03T13:18:24.902+02:00'
 integrity:
@@ -59,9 +122,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:25Z'
-  notes: Texto consolidado 02004L0083-20131221.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:23Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2004-83.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -284,16 +347,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:25Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:57:23Z'
+  warnings: []
   errors: []
 ---
 

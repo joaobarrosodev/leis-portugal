@@ -1,0 +1,791 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002L0044:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0044-20190726",
+ "dre_path": null,
+ "source_lastmod": "2019-07-26",
+ "versions": [
+  {
+   "date": "2002-07-06",
+   "future": false,
+   "celex": "32002L0044",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "86711d47bcdf1e75",
+    "3331e357c38269c7",
+    "3201423878573c2f",
+    "f825e2e5464593e5",
+    "a1fb02c1b8985008",
+    "186a25d89f003de5",
+    "4ecd479508e33dd0",
+    "f5d3c9c11fe14d1c",
+    "476701f507373cb7",
+    "b4cb89d667c54e4a",
+    "1b7b3b4ff5b9b28a",
+    "9578083b42d0fdc9",
+    "a273a1cf2b76c1bd",
+    "6a04fabc4352af16",
+    "894d1c1244553634",
+    "c3e8fa17437707fe",
+    "1757206daabe89ff",
+    "3ab2f53b7cd41d26",
+    "130bc92f17519e8a",
+    "cf07cb90f405f00d",
+    "e3ad41b3fd5b0104",
+    "1a0fa6ea88737f95"
+   ]
+  },
+  {
+   "date": "2007-06-27",
+   "future": false,
+   "celex": "02002L0044-20070627",
+   "acts": [
+    {
+     "id": "eu:celex:32007L0030:por",
+     "title": "DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007",
+     "published": null,
+     "celex": "32007L0030"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 16.º — Destinatários",
+    "Adita SECÇÃO I",
+    "Adita DISPOSIÇÕES GERAIS",
+    "Adita SECÇÃO II",
+    "Adita OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+    "Adita SECÇÃO III",
+    "Adita DISPOSIÇÕES DIVERSAS",
+    "Adita SECÇÃO IV",
+    "Adita DISPOSIÇÕES FINAIS",
+    "Adita ANEXO",
+    "Adita A. VIBRAÇÕES TRANSMITIDAS AO SISTEMA MÃO-BRAÇO",
+    "Adita 1. Avaliação da exposição",
+    "Adita 2. Medição",
+    "Adita 3. Interferências",
+    "Adita 4. Riscos indirectos",
+    "Adita 5. Equipamentos de protecção individual",
+    "Adita B. VIBRAÇÕES TRANSMITIDAS A TODO O ORGANISMO",
+    "Adita 5. Extensão da exposição",
+    "Adita Notas",
+    "Suprime SECÇÃO I — DISPOSIÇÕES GERAIS",
+    "Suprime SECÇÃO II — OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+    "Suprime SECÇÃO III — DISPOSIÇÕES DIVERSAS",
+    "Suprime SECÇÃO IV — DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 13.º — Relatórios",
+    "Suprime ANEXO — A. VIBRAÇÕES TRANSMITIDAS AO SISTEMA MÃO-BRAÇO"
+   ],
+   "fragments": [
+    "4e7b1d56e5f2e7cd",
+    "19572906891c0646",
+    "e17a2adcfbbdd4cc",
+    "456b0c87d88e80f0",
+    "4c4054ca85a95024",
+    "9d8cf6cdf03336b3",
+    "0b50b9972a75b595",
+    "ad9e85e1f37caa00",
+    "29ee07ba4675d6c1",
+    "4b4abfdd4d60be69",
+    "00f708658be33f1c",
+    "036faafdfed35dd3",
+    "b4f1bfdbc841cf04",
+    "4f0027fbf9863594",
+    "cfe87567c5b02c1f",
+    "c8b56719415a0db1",
+    "a7cb6eceed994e55",
+    "5610de82dee0b36b",
+    "d087c8ac951e3aa8",
+    "b9c1c438fac65788",
+    "dde9cf53e9ae6c9a",
+    "aeb1ea81b04b39e8",
+    "813e4777614f567a",
+    "12bcbce1db5bdf83",
+    "10220b9774fa9034",
+    "00721efe64854562",
+    "07c49cde60f60904",
+    "f1eb31e0fbe49066",
+    "f4e21f1096a78cf5",
+    "d96f89e1f6257ddd",
+    "37f3a5d9d1e3e1d6",
+    "9e824b0f957f2160",
+    "d61fc943806291ad",
+    "73d0f2edb56ee5a2",
+    "3efa1c92095703bf",
+    "d96f89e1f6257ddd",
+    "914d20a0afd80ee4",
+    "1ead9a8081111923"
+   ]
+  },
+  {
+   "date": "2008-12-11",
+   "future": false,
+   "celex": "02002L0044-20081211",
+   "acts": [
+    {
+     "id": "eu:celex:32008R1137:por",
+     "title": "REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008",
+     "published": null,
+     "celex": "32008R1137"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Notas",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Suprime Artigo 11.º — Alterações técnicas",
+    "Suprime Artigo 12.º — Comité"
+   ],
+   "fragments": [
+    "5d5119c5e4fb68cc",
+    "19572906891c0646",
+    "e17a2adcfbbdd4cc",
+    "456b0c87d88e80f0",
+    "4c4054ca85a95024",
+    "9d8cf6cdf03336b3",
+    "0b50b9972a75b595",
+    "ad9e85e1f37caa00",
+    "29ee07ba4675d6c1",
+    "4b4abfdd4d60be69",
+    "00f708658be33f1c",
+    "036faafdfed35dd3",
+    "b4f1bfdbc841cf04",
+    "4f0027fbf9863594",
+    "cfe87567c5b02c1f",
+    "c8b56719415a0db1",
+    "a7cb6eceed994e55",
+    "967f14bd8629f480",
+    "5695c333201bedea",
+    "b9c1c438fac65788",
+    "dde9cf53e9ae6c9a",
+    "aeb1ea81b04b39e8",
+    "813e4777614f567a",
+    "12bcbce1db5bdf83",
+    "10220b9774fa9034",
+    "00721efe64854562",
+    "07c49cde60f60904",
+    "f1eb31e0fbe49066",
+    "f4e21f1096a78cf5",
+    "d96f89e1f6257ddd",
+    "37f3a5d9d1e3e1d6",
+    "9e824b0f957f2160",
+    "d61fc943806291ad",
+    "73d0f2edb56ee5a2",
+    "3efa1c92095703bf",
+    "d96f89e1f6257ddd",
+    "914d20a0afd80ee4",
+    "9a024b68f0e99d2a"
+   ]
+  },
+  {
+   "date": "2019-07-26",
+   "future": false,
+   "celex": "02002L0044-20190726",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1243:por",
+     "title": "REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019",
+     "published": null,
+     "celex": "32019R1243"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Notas",
+    "Adita Artigo 11.º — Alteração do anexo",
+    "Adita Artigo 11.º-A — Exercício da delegação",
+    "Adita Artigo 11.º-B — Procedimento de urgência",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º"
+   ],
+   "fragments": [
+    "a8ce1f554525dff3",
+    "19572906891c0646",
+    "e17a2adcfbbdd4cc",
+    "456b0c87d88e80f0",
+    "4c4054ca85a95024",
+    "9d8cf6cdf03336b3",
+    "0b50b9972a75b595",
+    "ad9e85e1f37caa00",
+    "29ee07ba4675d6c1",
+    "4b4abfdd4d60be69",
+    "00f708658be33f1c",
+    "036faafdfed35dd3",
+    "b4f1bfdbc841cf04",
+    "4f0027fbf9863594",
+    "cfe87567c5b02c1f",
+    "c8b56719415a0db1",
+    "a7cb6eceed994e55",
+    "e3f7b6b504f872c7",
+    "44f097a9b278a8fb",
+    "fb3ba5b40f42d282",
+    "b9c1c438fac65788",
+    "dde9cf53e9ae6c9a",
+    "aeb1ea81b04b39e8",
+    "813e4777614f567a",
+    "12bcbce1db5bdf83",
+    "10220b9774fa9034",
+    "00721efe64854562",
+    "07c49cde60f60904",
+    "f1eb31e0fbe49066",
+    "f4e21f1096a78cf5",
+    "d96f89e1f6257ddd",
+    "37f3a5d9d1e3e1d6",
+    "9e824b0f957f2160",
+    "d61fc943806291ad",
+    "73d0f2edb56ee5a2",
+    "3efa1c92095703bf",
+    "d96f89e1f6257ddd",
+    "914d20a0afd80ee4",
+    "98eef8514a49d8d2"
+   ]
+  }
+ ],
+ "fragments": {
+  "86711d47bcdf1e75": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2002/44/CE do Parlamento Europeu e do Conselho, de 25 de Junho de 2002, relativa às prescrições mínimas de segurança e saúde respeitantes à exposição dos trabalhadores aos riscos devidos aos agentes físicos (vibrações) (décima sexta directiva especial na acepção do n.° 1 do artigo 16.° da Directiva 89/391/CEE) - Declaração conjunta do Parlamento Europeu e do Conselho** *Jornal Oficial nº L 177 de 06/07/2002 p. 0013 - 0020 edição especial em língua checa Capítulo 05 Fascículo 04 p. 235 - 241 edição especial em língua estónia Capítulo 05 Fascículo 04 p. 235 - 241 edição especial em língua húngara Capítulo 05 Fascículo 04 p. 235 - 241 edição especial em língua lituana Capítulo 05 Fascículo 04 p. 235 - 241 edição especial em língua letã Capítulo 05 Fascículo 04 p. 235 - 241 edição especial em língua maltesa Capítulo 05 Fascículo 04 p. 235 - 241 edição especial em língua polaca Capítulo 05 Fascículo 04 p. 235 - 241 edição especial em língua eslovaca Capítulo 05 Fascículo 04 p. 235 - 241 edição especial em língua eslovena Capítulo 05 Fascículo 04 p. 235 - 241*\n\nDirectiva 2002/44/CE do Parlamento Europeu e do Conselho\n\nde 25 de Junho de 2002\n\nrelativa às prescrições mínimas de segurança e saúde respeitantes à exposição dos trabalhadores aos riscos devidos aos agentes físicos (vibrações) (décima sexta directiva especial na acepção do n.o 1 do artigo 16.o da Directiva 89/391/CEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente, o n.o 2 do seu artigo 137.o,\n\nTendo em conta a proposta da Comissão [1], apresentada após consulta ao Comité Consultivo para a segurança, higiene e protecção da saúde no local de trabalho,\n\nTendo em conta o parecer do Comité Económico e Social [2],\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.o do Tratado [3], tendo em conta o projecto comum aprovado em 8 de Abril de 2002 pelo Comité de Conciliação,\n\nConsiderando o seguinte:\n\n(1) De acordo com o Tratado, o Conselho pode adoptar, por meio de directivas, prescrições mínimas com vista a promover a melhoria, nomeadamente das condições de trabalho, a fim de garantir um melhor nível de protecção da segurança e da saúde dos trabalhadores. Essas directivas devem evitar impor disciplinas administrativas, financeiras e jurídicas contrárias à criação e ao desenvolvimento de pequenas e médias empresas.\n\n(2) A comunicação da Comissão relativa ao seu programa de acção para a aplicação da Carta comunitária dos direitos sociais fundamentais dos trabalhadores prevê que sejam estabelecidas prescrições mínimas de saúde e segurança respeitantes à exposição dos trabalhadores aos riscos devidos aos agentes físicos. Em Setembro de 1990, o Parlamento Europeu adoptou uma resolução sobre este programa de acção [4] que convidou, nomeadamente, a Comissão a elaborar uma directiva especial no domínio dos riscos associados ao ruído e às vibrações bem como a qualquer outro agente físico no local de trabalho.\n\n(3) Numa primeira fase, será necessário introduzir medidas que protejam os trabalhadores contra os riscos devidos às vibrações, atendendo aos seus efeitos sobre a saúde e a segurança dos trabalhadores, nomeadamente às perturbações musculo-esqueléticas, neurológicas e vasculares que provocam. Essas medidas visam não só garantir a saúde e a segurança de cada trabalhador considerado isoladamente, mas também criar uma plataforma mínima de protecção para o conjunto dos trabalhadores, que evitará possíveis distorções de concorrência.\n\n(4) A presente directiva fixa prescrições mínimas, o que dá aos Estados-Membros a possibilidade de manter ou adoptar disposições mais favoráveis para a protecção dos trabalhadores, em particular no que se refere à fixação de valores inferiores para o valor diário que desencadeia a acção ou para o valor-limite de exposição diária a vibrações. A execução da presente directiva não pode justificar uma regressão em relação à situação existente em cada Estado-Membro.\n\n(5) Um sistema de protecção contra as vibrações deve limitar-se a estabelecer, sem pormenores inúteis, os objectivos a atingir, os princípios a respeitar e os valores fundamentais a utilizar, a fim de permitir aos Estados-Membros aplicar de forma equivalente as prescrições mínimas.\n\n(6) A redução da exposição às vibrações é conseguida mais eficazmente pela adopção de medidas preventivas desde a fase de concepção dos postos e locais de trabalho, bem como pela selecção do equipamento e dos processos e métodos de trabalho, de modo a reduzir prioritariamente os riscos na origem. As disposições relativas ao equipamento e aos métodos de trabalho contribuem, pois, para a protecção dos trabalhadores que os utilizam.\n\n(7) As entidades patronais devem adaptar-se ao progresso técnico e aos conhecimentos científicos em matéria de riscos associados à exposição a vibrações, com vista a melhorar a protecção da segurança e da saúde dos trabalhadores.\n\n(8) No que diz respeito aos sectores da navegação marítima e aérea, na situação actual da técnica não é possível respeitar em todos os casos os valores-limite de exposição relativos às vibrações transmitidas a todo o organismo. É, pois, necessário prever possibilidades de derrogação devidamente justificadas.\n\n(9) Sendo a presente directiva uma directiva especial na acepção do n.o 1 do artigo 16.o da Directiva 89/391/CEE do Conselho, de 12 de Junho de 1985, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho [5], esta última directiva aplica-se ao domínio da exposição dos trabalhadores às vibrações, sem prejuízo de disposições mais rigorosas e/ou específicas previstas na presente directiva.\n\n(10) A presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno.\n\n(11) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [6],\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "3331e357c38269c7": {
+   "fragment_id": "SECÇÃO I — DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "SECÇÃO I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — DISPOSIÇÕES GERAIS"
+  },
+  "3201423878573c2f": {
+   "fragment_id": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo e âmbito de aplicação\n\n1. A presente directiva, que constitui a décima sexta directiva especial na acepção do n.o 1 do artigo 16.o da Directiva 89/391/CEE, estabelece prescrições mínimas em matéria de protecção dos trabalhadores contra os riscos para a sua segurança e saúde resultantes ou susceptíveis de resultar da exposição a vibrações mecânicas.\n\n2. As prescrições da presente directiva aplicam-se às actividades nas quais os trabalhadores estão ou podem estar expostos, durante o trabalho, a riscos devidos a vibrações mecânicas.\n\n3. A Directiva 89/391/CEE aplica-se plenamente a todo o domínio referido no n.o 1, sem prejuízo de disposições mais rigorosas e/ou específicas previstas na presente directiva."
+  },
+  "f825e2e5464593e5": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) \"Vibrações transmitidas ao sistema mão-braço\", as vibrações mecânicas que, quando transmitidas ao sistema mão-braço, implicam riscos para a saúde e para a segurança dos trabalhadores, em especial perturbações vasculares, lesões osteo-articulares, ou perturbações neurológicas ou musculares;\n\nb) \"Vibrações transmitidas a todo o organismo\", as vibrações mecânicas que, quando transmitidas a todo o organismo, implicam riscos para a saúde e para a segurança dos trabalhadores, em especial patologia da região lombar e lesões da coluna vertebral."
+  },
+  "a1fb02c1b8985008": {
+   "fragment_id": "Artigo 3.º — Valores-limite de exposição e valores de exposição que desencadeiam a acção",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Valores-limite de exposição e valores de exposição que desencadeiam a acção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Valores-limite de exposição e valores de exposição que desencadeiam a acção\n\n1. Para as vibrações transmitidas ao sistema mão-braço:\n\na) O valor-limite de exposição diária normalizada, correspondente a um período de referência de 8 horas, é fixado em 5 m/s2;\n\nb) O valor de exposição diária normalizada, correspondente a um período de referência de 8 horas, que desencadeia a acção é fixado em 2,5 m/s2.\n\nA exposição dos trabalhadores às vibrações transmitidas ao sistema mão-braço é avaliada ou medida com base nas disposições constantes do ponto 1 da parte A do anexo.\n\n2. Para as vibrações transmitidas a todo o organismo:\n\na) O valor-limite de exposição diária normalizada, correspondente a um período de referência de 8 horas, é fixado em 1,15 m/s2 ou, à escolha do Estado-Membro, num valor de dose de vibrações de 21 m/s1,75;\n\nb) O valor de exposição diária normalizada, correspondente a um período de referência de 8 horas, que desencadeia a acção é fixado em 0,5 m/s2 ou, à escolha do Estado-Membro, num valor de dose de vibrações de 9,1 m/s1,75.\n\nA exposição dos trabalhadores às vibrações transmitidas a todo o organismo é avaliada ou medida com base nas disposições constantes do ponto 1 da parte B do anexo."
+  },
+  "186a25d89f003de5": {
+   "fragment_id": "SECÇÃO II — OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+   "type": "divisao",
+   "heading": "SECÇÃO II — OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — OBRIGAÇÕES DAS ENTIDADES PATRONAIS"
+  },
+  "4ecd479508e33dd0": {
+   "fragment_id": "Artigo 4.º — Determinação e avaliação dos riscos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Determinação e avaliação dos riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Determinação e avaliação dos riscos\n\n1. No cumprimento das obrigações estabelecidas no n.o 3 do artigo 6.o e no n.o 1 do artigo 9.o da Directiva 89/391/CEE, a entidade patronal avalia e, se necessário, mede os níveis de vibrações mecânicas a que os trabalhadores se encontram expostos. A medição deve ser efectuada nos termos do ponto 2 da parte A ou do ponto 2 da parte B do anexo da presente directiva, conforme adequado.\n\n2. O nível de exposição às vibrações mecânicas pode ser avaliado por meio da observação das práticas de trabalho específicas e recorrendo às informações pertinentes sobre o nível provável de vibrações correspondente ao equipamento ou ao tipo de equipamento utilizado nas condições de trabalho em causa, incluindo informações fornecidas pelo fabricante do material. Esta operação é diversa da medição, que exige o emprego de aparelhos específicos e de metodologia apropriada.\n\n3. A avaliação e a medição mencionadas no n.o 1 devem ser planificadas e efectuadas pelos serviços competentes a intervalos apropriados, tendo especialmente em conta as disposições do artigo 7.o da Directiva 89/391/CEE, relativas às competências (pessoas ou serviços) necessárias. Os dados obtidos a partir da avaliação e/ou medição do nível de exposição às vibrações mecânicas devem ser conservados de forma a que possam ser posteriormente consultados.\n\n4. Em conformidade com o disposto no n.o 3 do artigo 6.o da Directiva 89/391/CEE, a entidade empregadora, ao proceder à avaliação dos riscos, deve dar especial atenção aos seguintes aspectos:\n\na) Nível, tipo e duração da exposição, incluindo a exposição a vibrações intermitentes ou a choques repetidos;\n\nb) Valores-limite de exposição e valores de exposição que desencadeiam a acção estabelecidos no artigo 3.o da presente directiva;\n\nc) Efeitos sobre a saúde e a segurança dos trabalhadores sujeitos a riscos especialmente sensíveis;\n\nd) Efeitos indirectos sobre a segurança dos trabalhadores resultantes de interacções entre as vibrações mecânicas e o local de trabalho ou outros equipamentos;\n\ne) Informações prestadas pelos fabricantes do equipamento de trabalho de acordo com as disposições das directivas comunitárias aplicáveis;\n\nf) Existência de equipamentos alternativos concebidos para reduzir os níveis de exposição às vibrações mecânicas;\n\ng) Prolongamento da exposição a vibrações transmitidas a todo o organismo para além do horário de trabalho, sob a responsabilidade da entidade patronal;\n\nh) Condições de trabalho específicas, tais como trabalho a baixas temperaturas;\n\ni) Informação apropriada resultante da vigilância da saúde, incluindo informação publicada, na medida do possível.\n\n5. A entidade patronal deve dispor de uma avaliação dos riscos, nos termos da alínea a) do n.o 1 do artigo 9.o da Directiva 89/391/CEE, e identificar as medidas a tomar nos termos dos artigos 5.o e 6.o da presente directiva. A avaliação dos riscos deve ser registada em suporte adequado de acordo com a legislação e as práticas nacionais e pode incluir uma justificação por parte da entidade patronal que demonstre que a natureza e a dimensão dos riscos relacionados com as vibrações mecânicas tornam desnecessária uma avaliação mais pormenorizada dos mesmos. A avaliação dos riscos deve ser regularmente actualizada, especialmente nos casos em que tenha havido alterações significativas que a possam desactualizar, ou em que os resultados da vigilância da saúde demonstrem a sua necessidade."
+  },
+  "f5d3c9c11fe14d1c": {
+   "fragment_id": "Artigo 5.º — Disposições com vista a evitar ou reduzir a exposição",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Disposições com vista a evitar ou reduzir a exposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposições com vista a evitar ou reduzir a exposição\n\n1. Tendo em conta o progresso técnico e a disponibilidade de medidas de controlo dos riscos na fonte, os riscos resultantes da exposição a vibrações mecânicas devem ser eliminados na fonte ou reduzidos ao mínimo.\n\nA redução destes riscos baseia-se nos princípios gerais de prevenção estabelecidos no n.o 2 do artigo 6.o da Directiva 89/391/CEE.\n\n2. Com base na avaliação dos riscos a que se refere o artigo 4.o, sempre que sejam excedidos os valores de exposição estabelecidos no n.o 1, alínea b), e no n.o 2, alínea b), do artigo 3.o, a entidade patronal estabelece e implementa um programa de medidas técnicas e/ou organizacionais destinadas a reduzir ao mínimo a exposição a vibrações mecânicas e os riscos que dela resultam, tomando em consideração, nomeadamente:\n\na) Métodos de trabalho alternativos que permitam reduzir a exposição a vibrações mecânicas;\n\nb) A escolha de equipamento de trabalho adequado, bem concebido do ponto de vista ergonómico e que, tendo em conta o trabalho a efectuar, produza o mínimo de vibrações possível;\n\nc) A instalação de equipamento auxiliar destinado a reduzir o risco de lesões provocadas pelas vibrações, por exemplo assentos que amorteçam eficazmente as vibrações transmitidas a todo o organismo e pegas que reduzam as vibrações transmitidas ao sistema mão-braço;\n\nd) Programas adequados de manutenção do equipamento de trabalho, do local de trabalho e das instalações existentes no local de trabalho;\n\ne) Concepção e disposição dos locais e postos de trabalho;\n\nf) Informação e formação adequadas dos trabalhadores para que utilizem correctamente e de forma segura o equipamento de trabalho, por forma a reduzir ao mínimo a sua exposição a vibrações mecânicas;\n\ng) Limitação da duração e da intensidade da exposição;\n\nh) Horário de trabalho apropriado, com períodos de repouso adequados;\n\ni) O fornecimento aos trabalhadores expostos de vestuário que os proteja do frio e da humidade.\n\n3. Os trabalhadores não podem em caso algum ser sujeitos a exposições acima do valor-limite de exposição.\n\nSe, apesar das medidas postas em prática pela entidade patronal nos termos do disposto na presente directiva, o valor-limite de exposição for ultrapassado, a entidade patronal tomará medidas imediatas para reduzir a exposição para valores inferiores ao valor-limite de exposição, determinará as razões por que o valor-limite de exposição foi ultrapassado e corrigirá as medidas de protecção e prevenção em conformidade, por forma a evitar que o valor-limite de exposição seja novamente ultrapassado.\n\n4. Nos termos do disposto no artigo 15.o da Directiva 89/391/CEE, a entidade patronal adapta as medidas referidas no presente artigo às necessidades dos trabalhadores sujeitos a riscos especialmente sensíveis."
+  },
+  "476701f507373cb7": {
+   "fragment_id": "Artigo 6.º — Informação e formação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Informação e formação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Informação e formação dos trabalhadores\n\nSem prejuízo dos artigos 10.o e 12.o da Directiva 89/391/CEE, a entidade patronal deve assegurar que os trabalhadores expostos a riscos devidos a vibrações mecânicas no local de trabalho e/ou os seus representantes recebam informações e formação de acordo com o resultado da avaliação dos riscos prevista no n.o 1 do artigo 4.o da presente directiva, em especial no que se refere a:\n\na) Medidas tomadas nos termos da presente directiva para eliminar ou reduzir ao mínimo os riscos resultantes de vibrações mecânicas;\n\nb) Valores-limite de exposição e valores de exposição que desencadeiam a acção;\n\nc) Resultados das avaliações e medições das vibrações mecânicas efectuadas nos termos do artigo 4.o da presente directiva e lesões que possam resultar do equipamento de trabalho utilizado;\n\nd) Utilidade e forma de detectar e notificar indícios de lesões;\n\ne) Circunstâncias em que os trabalhadores têm direito à vigilância da saúde;\n\nf) Práticas de trabalho seguras para minimizar a exposição a vibrações mecânicas."
+  },
+  "b4cb89d667c54e4a": {
+   "fragment_id": "Artigo 7.º — Consulta e participação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Consulta e participação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Consulta e participação dos trabalhadores\n\nA consulta e a participação dos trabalhadores e/ou dos seus representantes relativamente às matérias abrangidas pela presente directiva são efectuadas nos termos do artigo 11.o da Directiva 89/391/CEE."
+  },
+  "1b7b3b4ff5b9b28a": {
+   "fragment_id": "SECÇÃO III — DISPOSIÇÕES DIVERSAS",
+   "type": "divisao",
+   "heading": "SECÇÃO III — DISPOSIÇÕES DIVERSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — DISPOSIÇÕES DIVERSAS"
+  },
+  "9578083b42d0fdc9": {
+   "fragment_id": "Artigo 8.º — Vigilância da saúde",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Vigilância da saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Vigilância da saúde\n\n1. Sem prejuízo do artigo 14.o da Directiva 89/391/CEE, os Estados-Membros devem aprovar disposições para assegurar uma adequada vigilância da saúde dos trabalhadores de acordo com os resultados da avaliação dos riscos prevista no n.o 1 do artigo 4.o da presente directiva, quando estes resultados revelarem a existência de um risco para a sua saúde. Essas disposições, incluindo os requisitos especificados para os registos de saúde e para a possibilidade de os consultar, devem ser tomadas nos termos da legislação e/ou práticas nacionais.\n\nA vigilância da saúde, cujos resultados devem ser tomados em consideração para efeitos da aplicação de medidas de prevenção no local de trabalho em questão, visa a prevenção e o diagnóstico precoce de qualquer afecção relacionada com a exposição a vibrações mecânicas. A vigilância é adequada sempre que:\n\n- a exposição dos trabalhadores a vibrações seja tal que permita estabelecer uma relação entre essa exposição e uma doença identificável ou efeitos nocivos para a saúde,\n\n- seja provável que a doença e os efeitos nocivos resultem das condições de trabalho particulares do trabalhador, e\n\n- existam técnicas válidas que permitam detectar a doença ou os efeitos nocivos para a saúde.\n\nEm todo o caso, os trabalhadores expostos a níveis de vibrações mecânicas acima dos valores enunciados no n.o 1, alínea b), e no n.o 2, alínea b), do artigo 3.o têm direito a uma vigilância da saúde adequada.\n\n2. Os Estados-Membros devem aprovar disposições para assegurar que seja elaborado e actualizado um registo de saúde para cada trabalhador sujeito a vigilância da saúde em conformidade com o n.o 1. Os registos de saúde devem conter um resumo dos resultados da vigilância da saúde efectuada e ser conservados de forma que permita a sua posterior consulta, tendo em conta a necessária confidencialidade.\n\nSerão fornecidas cópias dos registos adequados à autoridade competente, a seu pedido. O trabalhador deve, a seu pedido, ter acesso ao registo de saúde que lhe diga pessoalmente respeito.\n\n3. Se os resultados da vigilância da saúde revelarem que um trabalhador sofre de uma doença ou de uma afecção identificáveis que sejam consideradas, por um médico ou por um especialista em doenças profissionais, como resultantes da exposição a vibrações mecânicas no local de trabalho:\n\na) O trabalhador deve ser informado, pelo médico ou por outra pessoa devidamente qualificada, do resultado que lhe diga pessoalmente respeito, incluindo informações e recomendações sobre a eventual vigilância da saúde a que deverá submeter-se após o final da exposição;\n\nb) A entidade patronal deve ser informada sobre qualquer tipo de dados significativos obtidos no âmbito da vigilância da saúde, tendo em conta o necessário segredo médico;\n\nc) A entidade patronal deve:\n\n- rever a avaliação dos riscos realizada nos termos do artigo 4.o,\n\n- rever as medidas previstas para eliminar ou reduzir os riscos nos termos do artigo 5.o,\n\n- ter em conta o parecer do responsável pela saúde e higiene no local de trabalho ou de outra pessoa devidamente qualificada ou da autoridade competente ao aplicar quaisquer medidas consideradas necessárias para eliminar ou reduzir os riscos nos termos do artigo 5.o, incluindo a possibilidade de atribuir ao trabalhador em causa uma função alternativa na qual não haja riscos de mais exposição, e\n\n- prever uma vigilância da saúde contínua e providenciar no sentido de um exame das condições de saúde de qualquer outro trabalhador que tenha estado exposto de forma semelhante. Nestes casos, o médico, o especialista de doenças profissionais ou a autoridade competente podem propor que as pessoas expostas sejam sujeitas a exame médico."
+  },
+  "a273a1cf2b76c1bd": {
+   "fragment_id": "Artigo 9.º — Período transitório",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Período transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Período transitório\n\nNo que se refere à execução das obrigações previstas no n.o 3 do artigo 5.o, os Estados-Membros, após consulta aos parceiros sociais, de acordo com a legislação ou as práticas nacionais, terão a faculdade de fazer uso de um período transitório de cinco anos, no máximo, a contar de 6 de Julho de 2005, quando forem utilizados equipamentos de trabalho que tenham sido postos à disposição dos trabalhadores antes de 6 de Julho 2007 e que não permitam respeitar os valores-limite de exposição tendo em conta os últimos progressos técnicos e/ou a implementação de medidas organizacionais. No que se refere aos equipamentos utilizados nos sectores agrícola e silvícola, os Estados-Membros terão a faculdade de prorrogar até mais quatro anos o período transitório."
+  },
+  "6a04fabc4352af16": {
+   "fragment_id": "Artigo 10.º — Derrogações",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Derrogações\n\n1. No respeito dos princípios gerais da protecção da segurança e da saúde dos trabalhadores, os Estados-Membros podem, para os sectores da navegação marítima e aérea, e em condições devidamente justificadas, derrogar o disposto no n.o 3 do artigo 5.o, no que diz respeito às vibrações transmitidas a todo o organismo, quando, tendo em conta o estado da técnica e as características específicas dos locais de trabalho, não seja possível respeitar o valor-limite de exposição apesar da implementação de medidas técnicas e/ou organizacionais.\n\n2. Caso a exposição dos trabalhadores a vibrações mecânicas seja habitualmente inferior aos valores de exposição enunciados no n.o 1, alínea b), e no n.o 2, alínea b), do artigo 3.o, mas varie acentuadamente de um momento para outro e possa ocasionalmente exceder o valor-limite de exposição, os Estados-Membros podem igualmente conceder derrogações do disposto no n.o 3 do artigo 5.o Todavia, o valor médio da exposição às vibrações calculado durante um período de 40 horas deve permanecer inferior ao valor-limite de exposição e devem existir provas de que os riscos resultantes deste tipo de exposição são inferiores aos riscos resultantes de um nível de exposição correspondente ao valor-limite.\n\n3. As derrogações previstas nos n.os 1 e 2 são autorizadas pelos Estados-Membros, após consulta aos parceiros sociais, de acordo com a legislação e as práticas nacionais. Estas derrogações devem ser acompanhadas de condições que garantam que os riscos delas resultantes serão reduzidos ao mínimo, atendendo às circunstâncias do caso, e que os trabalhadores em questão beneficiarão de vigilância da saúde reforçada. Estas derrogações serão reanalisadas de quatro em quatro anos e revogadas logo que desapareçam as circunstâncias que lhes tenham dado origem.\n\n4. De quatro em quatro anos, os Estados-Membros transmitem à Comissão a lista das derrogações previstas nos n.os 1 e 2, indicando pormenorizadamente as circunstâncias e as razões que os levaram a conceder essas derrogações."
+  },
+  "894d1c1244553634": {
+   "fragment_id": "Artigo 11.º — Alterações técnicas",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Alterações técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alterações técnicas\n\nAs alterações de natureza estritamente técnica a introduzir no anexo são aprovadas pelo procedimento de regulamentação a que se refere o n.o 2 do artigo 12.o, em função:\n\na) Da aprovação de directivas em matéria de harmonização técnica e de normalização no que se refere à concepção, construção, fabrico ou realização de equipamentos e/ou locais de trabalho;\n\nb) Do progresso técnico, da evolução das normas ou especificações europeias harmonizadas mais apropriadas e da evolução dos conhecimentos no domínio das vibrações mecânicas."
+  },
+  "c3e8fa17437707fe": {
+   "fragment_id": "Artigo 12.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comité\n\n1. A Comissão é assistida pelo comité previsto no n.o 2 do artigo 17.o da Directiva 89/391/CEE.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.o\n\nO período previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "1757206daabe89ff": {
+   "fragment_id": "SECÇÃO IV — DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "SECÇÃO IV — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — DISPOSIÇÕES FINAIS"
+  },
+  "3ab2f53b7cd41d26": {
+   "fragment_id": "Artigo 13.º — Relatórios",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Relatórios\n\nDe cinco em cinco anos, os Estados-Membros apresentam à Comissão um relatório sobre a aplicação prática das disposições da presente directiva, indicando o ponto de vista dos parceiros sociais. O relatório conterá uma descrição das melhores práticas para prevenir as vibrações prejudiciais para a saúde e de outras formas de organizar o trabalho, bem como dos esforços efectuados pelos Estados-Membros para as divulgar.\n\nCom base nesses relatórios, a Comissão faz um balanço da aplicação da presente directiva, tendo em conta nomeadamente a investigação e os conhecimentos científicos no domínio, e informa o Parlamento Europeu, o Conselho, o Comité Económico e Social e o Comité Consultivo para a segurança, higiene e protecção da saúde no local de trabalho, propondo, se necessário, alterações."
+  },
+  "130bc92f17519e8a": {
+   "fragment_id": "Artigo 14.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transposição\n\n1. Os Estados-Membros devem aprovar as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 6 de Julho de 2005 e informar imediatamente a Comissão desse facto. Devem incluir igualmente uma lista indicando pormenorizadamente as razões do regime transitório adoptado pelos Estados-Membros, nos termos do artigo 9.o\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão as disposições de direito interno já aprovadas ou que vierem a aprovar nas matérias reguladas pela presente directiva."
+  },
+  "cf07cb90f405f00d": {
+   "fragment_id": "Artigo 15.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nA presente directiva entra em vigor no dia da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "e3ad41b3fd5b0104": {
+   "fragment_id": "Artigo 16.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 25 de Junho de 2002.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nP. Cox\n\nPelo Conselho\n\nO Presidente\n\nJ. Matas I Palou\n\n[1] JO C 77 de 18.3.1993, p. 12, eJO C 230 de 19.8.1994, p. 3.\n\n[2] JO C 249 de 13.9.1993, p. 28.\n\n[3] Parecer do Parlamento Europeu de 20 de Abril de 1994 (JO C 128 de 9.5.1994, p. 146), confirmado em 16 de Setembro de 1999 (JO C 54 de 25.2.2000, p. 75), posição comum do Conselho de 25 de Junho de 2001 (JO C 301 de 26.10.2001, p. 1) e decisão do Parlamento Europeu de 23 de Outubro de 2001 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 25 de Abril de 2002 e decisão do Conselho de 21 de Maio de 2002.\n\n[4] JO C 260 de 15.10.1990, p. 167.\n\n[5] JO L 183 de 29.6.1989, p. 1.\n\n[6] JO L 184 de 17.7.1999, p. 23.\n\n--------------------------------------------------"
+  },
+  "1a0fa6ea88737f95": {
+   "fragment_id": "ANEXO — A. VIBRAÇÕES TRANSMITIDAS AO SISTEMA MÃO-BRAÇO",
+   "type": "divisao",
+   "heading": "ANEXO — A. VIBRAÇÕES TRANSMITIDAS AO SISTEMA MÃO-BRAÇO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — A. VIBRAÇÕES TRANSMITIDAS AO SISTEMA MÃO-BRAÇO\n\n1. Avaliação da exposição\n\nA avaliação do nível de exposição às vibrações transmitidas ao sistema mão-braço baseia-se no cálculo do valor da exposição diária normalizada num período de referência de 8horas, A (8) expressa como raiz quadrada da soma dos quadrados (valor total) dos valores eficazes da aceleração ponderada em frequência, determinados segundo as coordenadas ortogonais a hwx, a hwy, a hwz, tal como definido nos capítulos 4 e 5 e no anexo A da norma ISO 5349-1 (2001).\n\nA avaliação do nível de exposição pode ser efectuada através de uma estimativa baseada nas informações relativas ao nível de emissão dos equipamentos de trabalho utilizados fornecidas pelos fabricantes destes materiais e da observação das práticas de trabalho específicas, ou por medição.\n\n2. Medição\n\nQuando se procede à medição nos termos do n.o 1 do artigo 4.o:\n\na) Os métodos utilizados podem incluir a amostragem, que deverá ser representativa da exposição pessoal do trabalhador às vibrações mecânicas em questão; os métodos e aparelhos utilizados devem ser adaptados às características próprias das vibrações mecânicas a medir, ao ambiente circundante e às características do aparelho de medida, em conformidade com a norma ISO 5349-2 (2001);\n\nb) No caso de aparelhos que devam ser seguros com ambas as mãos, as medições serão efectuadas em cada mão. A exposição é determinada por referência ao valor mais elevado; serão igualmente fornecidas informações sobre a outra mão.\n\n3. Interferências\n\nO disposto no n.o 4, alínea d), do artigo 4.o aplica-se em especial no caso de as vibrações mecânicas interferirem com a manipulação correcta dos comandos ou com a leitura dos aparelhos indicadores.\n\n4. Riscos indirectos\n\nO disposto no n.o 4, alínea d), do artigo 4.o, aplica-se em especial no caso de as vibrações mecânicas interferirem com a estabilidade das estruturas ou com o bom estado e a segurança dos elementos de ligação.\n\n5. Equipamentos de protecção individual\n\nOs equipamentos de protecção individual contra as vibrações transmitidas ao sistema mão-braço podem contribuir para o programa de medidas referido no n.o 2 do artigo 5.o.\n\nB. VIBRAÇÕES TRANSMITIDAS A TODO O ORGANISMO\n\n1. Avaliação da exposição\n\nA avaliação do nível de exposição às vibrações baseia-se no cálculo da exposição diária A (8) expressa como aceleração contínua equivalente para um período de 8 horas, calculada como o mais elevado dos valores eficazes, ou o mais elevado dos valores de dose de vibração (VDV) das acelerações ponderadas em frequência determinadas segundo os três eixos ortogonais (1,4 a wx, 1,4 a wy, a wz, para um trabalhador sentado ou em pé), de acordo com os capítulos 5, 6 e 7, com o anexo A e com o anexo B da norma ISO 2631-1 (1997).\n\nA avaliação do nível de exposição pode ser efectuada através de uma estimativa baseada nas informações relativas ao nível de emissão dos equipamentos de trabalho utilizados fornecidas pelos fabricantes destes materiais e da observação das práticas de trabalho específicas, ou por medição.\n\nOs Estados-Membros têm a faculdade de, no que se refere à navegação marítima, considerar apenas as vibrações de frequência superior a 1 Hz.\n\n2. Medição\n\nQuando se procede à medição nos termos do n.o 1 do artigo 4.o, os métodos utilizados podem incluir a amostragem, que deverá ser representativa da exposição pessoal do trabalhador às vibrações mecânicas em questão. Os métodos utilizados devem ser adaptados às características próprias das vibrações mecânicas a medir, ao ambiente circundante e às características do aparelho de medida.\n\n3. Interferências\n\nO disposto no n.o 4, alínea d), do artigo 4.o, aplica-se em especial no caso de as vibrações mecânicas interferirem com a manipulação correcta dos comandos ou com a leitura dos aparelhos indicadores.\n\n4. Riscos indirectos\n\nO disposto no n.o 4, alínea d), do artigo 4.o, aplica-se em especial no caso de as vibrações mecânicas interferirem com a estabilidade das estruturas ou com o bom estado e a segurança dos elementos de ligação.\n\n5. Extensão da exposição\n\nO disposto no n.o 4, alínea g), do artigo 4.o, aplica-se em especial quando, dada a natureza da actividade, o trabalhador beneficia de instalações de repouso supervisadas pela entidade empregadora; salvo em caso de força maior, as vibrações transmitidas a todo o organismo nessas instalações devem ser reduzidas para um nível compatível com o seu objectivo e condições de utilização.\n\n--------------------------------------------------\n\nDeclaração conjunta do Parlamento Europeu e do Conselho\n\nO Parlamento Europeu e o Conselho reiteram o seu compromisso de prosseguirem a análise da proposta da Comissão relativa aos outros agentes físicos (campos acústicos audíveis, campos eléctricos, magnéticos e suas combinações). Contudo, atendendo às dificuldades técnicas no que se refere aos outros agentes físicos, foi dada prioridade às vibrações. O Parlamento Europeu e o Conselho reconhecem, no entanto, a necessidade de aprovar logo que possível directivas relativas aos outros agentes físicos referidos na proposta da Comissão.\n\n--------------------------------------------------"
+  },
+  "4e7b1d56e5f2e7cd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Junho de 2002\n\nrelativa às prescrições mínimas de segurança e saúde respeitantes à exposição dos trabalhadores aos riscos devidos aos agentes físicos (vibrações) (décima sexta directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente, o n.º 2 do seu artigo 137.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/e14ed479-4027-4302-b122-1ccc44870bfc.0018.03/DOC_1#E0001)), apresentada após consulta ao Comité Consultivo para a segurança, higiene e protecção da saúde no local de trabalho,\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/e14ed479-4027-4302-b122-1ccc44870bfc.0018.03/DOC_1#E0002)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/e14ed479-4027-4302-b122-1ccc44870bfc.0018.03/DOC_1#E0003)), tendo em conta o projecto comum aprovado em 8 de Abril de 2002 pelo Comité de Conciliação,\n\n(1) De acordo com o Tratado, o Conselho pode adoptar, por meio de directivas, prescrições mínimas com vista a promover a melhoria, nomeadamente das condições de trabalho, a fim de garantir um melhor nível de protecção da segurança e da saúde dos trabalhadores. Essas directivas devem evitar impor disciplinas administrativas, financeiras e jurídicas contrárias à criação e ao desenvolvimento de pequenas e médias empresas.\n\n(2) A comunicação da Comissão relativa ao seu programa de acção para a aplicação da Carta comunitária dos direitos sociais fundamentais dos trabalhadores prevê que sejam estabelecidas prescrições mínimas de saúde e segurança respeitantes à exposição dos trabalhadores aos riscos devidos aos agentes físicos. Em Setembro de 1990, o Parlamento Europeu adoptou uma resolução sobre este programa de acção ([^4^](http://publications.europa.eu/resource/cellar/e14ed479-4027-4302-b122-1ccc44870bfc.0018.03/DOC_1#E0004)) que convidou, nomeadamente, a Comissão a elaborar uma directiva especial no domínio dos riscos associados ao ruído e às vibrações bem como a qualquer outro agente físico no local de trabalho.\n\n(3) Numa primeira fase, será necessário introduzir medidas que protejam os trabalhadores contra os riscos devidos às vibrações, atendendo aos seus efeitos sobre a saúde e a segurança dos trabalhadores, nomeadamente às perturbações musculo-esqueléticas, neurológicas e vasculares que provocam. Essas medidas visam não só garantir a saúde e a segurança de cada trabalhador considerado isoladamente, mas também criar uma plataforma mínima de protecção para o conjunto dos trabalhadores, que evitará possíveis distorções de concorrência.\n\n(4) A presente directiva fixa prescrições mínimas, o que dá aos Estados-Membros a possibilidade de manter ou adoptar disposições mais favoráveis para a protecção dos trabalhadores, em particular no que se refere à fixação de valores inferiores para o valor diário que desencadeia a acção ou para o valor-limite de exposição diária a vibrações. A execução da presente directiva não pode justificar uma regressão em relação à situação existente em cada Estado-Membro.\n\n(5) Um sistema de protecção contra as vibrações deve limitar-se a estabelecer, sem pormenores inúteis, os objectivos a atingir, os princípios a respeitar e os valores fundamentais a utilizar, a fim de permitir aos Estados-Membros aplicar de forma equivalente as prescrições mínimas.\n\n(6) A redução da exposição às vibrações é conseguida mais eficazmente pela adopção de medidas preventivas desde a fase de concepção dos postos e locais de trabalho, bem como pela selecção do equipamento e dos processos e métodos de trabalho, de modo a reduzir prioritariamente os riscos na origem. As disposições relativas ao equipamento e aos métodos de trabalho contribuem, pois, para a protecção dos trabalhadores que os utilizam.\n\n(7) As entidades patronais devem adaptar-se ao progresso técnico e aos conhecimentos científicos em matéria de riscos associados à exposição a vibrações, com vista a melhorar a protecção da segurança e da saúde dos trabalhadores.\n\n(8) No que diz respeito aos sectores da navegação marítima e aérea, na situação actual da técnica não é possível respeitar em todos os casos os valores-limite de exposição relativos às vibrações transmitidas a todo o organismo. É, pois, necessário prever possibilidades de derrogação devidamente justificadas.\n\n(9) Sendo a presente directiva uma directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE do Conselho, de 12 de Junho de 1985, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho ([^5^](http://publications.europa.eu/resource/cellar/e14ed479-4027-4302-b122-1ccc44870bfc.0018.03/DOC_1#E0005)), esta última directiva aplica-se ao domínio da exposição dos trabalhadores às vibrações, sem prejuízo de disposições mais rigorosas e/ou específicas previstas na presente directiva.\n\n(10) A presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno.\n\n(11) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/e14ed479-4027-4302-b122-1ccc44870bfc.0018.03/DOC_1#E0006)),\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "19572906891c0646": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "456b0c87d88e80f0": {
+   "fragment_id": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo e âmbito de aplicação\n\n1. A presente directiva, que constitui a décima sexta directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE, estabelece prescrições mínimas em matéria de protecção dos trabalhadores contra os riscos para a sua segurança e saúde resultantes ou susceptíveis de resultar da exposição a vibrações mecânicas.\n\n2. As prescrições da presente directiva aplicam-se às actividades nas quais os trabalhadores estão ou podem estar expostos, durante o trabalho, a riscos devidos a vibrações mecânicas.\n\n3. A Directiva 89/391/CEE aplica-se plenamente a todo o domínio referido no n.º 1, sem prejuízo de disposições mais rigorosas e/ou específicas previstas na presente directiva."
+  },
+  "4c4054ca85a95024": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Vibrações transmitidas ao sistema mão-braço», as vibrações mecânicas que, quando transmitidas ao sistema mão-braço, implicam riscos para a saúde e para a segurança dos trabalhadores, em especial perturbações vasculares, lesões osteo-articulares, ou perturbações neurológicas ou musculares;\n\nb) «Vibrações transmitidas a todo o organismo», as vibrações mecânicas que, quando transmitidas a todo o organismo, implicam riscos para a saúde e para a segurança dos trabalhadores, em especial patologia da região lombar e lesões da coluna vertebral."
+  },
+  "9d8cf6cdf03336b3": {
+   "fragment_id": "Artigo 3.º — Valores-limite de exposição e valores de exposição que desencadeiam a acção",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Valores-limite de exposição e valores de exposição que desencadeiam a acção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Valores-limite de exposição e valores de exposição que desencadeiam a acção\n\n1. Para as vibrações transmitidas ao sistema mão-braço:\n\na) O valor-limite de exposição diária normalizada, correspondente a um período de referência de 8 horas, é fixado em 5 m/s^2^;\n\nb) O valor de exposição diária normalizada, correspondente a um período de referência de 8 horas, que desencadeia a acção é fixado em 2,5 m/s^2^.\n\nA exposição dos trabalhadores às vibrações transmitidas ao sistema mão-braço é avaliada ou medida com base nas disposições constantes do ponto 1 da parte A do anexo.\n\n2. Para as vibrações transmitidas a todo o organismo:\n\na) O valor-limite de exposição diária normalizada, correspondente a um período de referência de 8 horas, é fixado em 1,15 m/s^2^ ou, à escolha do Estado-Membro, num valor de dose de vibrações de 21 m/s^1,75^;\n\nb) O valor de exposição diária normalizada, correspondente a um período de referência de 8 horas, que desencadeia a acção é fixado em 0,5 m/s^2^ ou, à escolha do Estado-Membro, num valor de dose de vibrações de 9,1 m/s^1,75^.\n\nA exposição dos trabalhadores às vibrações transmitidas a todo o organismo é avaliada ou medida com base nas disposições constantes do ponto 1 da parte B do anexo."
+  },
+  "0b50b9972a75b595": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO II"
+  },
+  "ad9e85e1f37caa00": {
+   "fragment_id": "OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+   "type": "divisao",
+   "heading": "OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBRIGAÇÕES DAS ENTIDADES PATRONAIS"
+  },
+  "29ee07ba4675d6c1": {
+   "fragment_id": "Artigo 4.º — Determinação e avaliação dos riscos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Determinação e avaliação dos riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Determinação e avaliação dos riscos\n\n1. No cumprimento das obrigações estabelecidas no n.º 3 do artigo 6.º e no n.º 1 do artigo 9.º da Directiva 89/391/CEE, a entidade patronal avalia e, se necessário, mede os níveis de vibrações mecânicas a que os trabalhadores se encontram expostos. A medição deve ser efectuada nos termos do ponto 2 da parte A ou do ponto 2 da parte B do anexo da presente directiva, conforme adequado.\n\n2. O nível de exposição às vibrações mecânicas pode ser avaliado por meio da observação das práticas de trabalho específicas e recorrendo às informações pertinentes sobre o nível provável de vibrações correspondente ao equipamento ou ao tipo de equipamento utilizado nas condições de trabalho em causa, incluindo informações fornecidas pelo fabricante do material. Esta operação é diversa da medição, que exige o emprego de aparelhos específicos e de metodologia apropriada.\n\n3. A avaliação e a medição mencionadas no n.º 1 devem ser planificadas e efectuadas pelos serviços competentes a intervalos apropriados, tendo especialmente em conta as disposições do artigo 7.º da Directiva 89/391/CEE, relativas às competências (pessoas ou serviços) necessárias. Os dados obtidos a partir da avaliação e/ou medição do nível de exposição às vibrações mecânicas devem ser conservados de forma a que possam ser posteriormente consultados.\n\n4. Em conformidade com o disposto no n.º 3 do artigo 6.º da Directiva 89/391/CEE, a entidade empregadora, ao proceder à avaliação dos riscos, deve dar especial atenção aos seguintes aspectos:\n\na) Nível, tipo e duração da exposição, incluindo a exposição a vibrações intermitentes ou a choques repetidos;\n\nb) Valores-limite de exposição e valores de exposição que desencadeiam a acção estabelecidos no artigo 3.º da presente directiva;\n\nc) Efeitos sobre a saúde e a segurança dos trabalhadores sujeitos a riscos especialmente sensíveis;\n\nd) Efeitos indirectos sobre a segurança dos trabalhadores resultantes de interacções entre as vibrações mecânicas e o local de trabalho ou outros equipamentos;\n\ne) Informações prestadas pelos fabricantes do equipamento de trabalho de acordo com as disposições das directivas comunitárias aplicáveis;\n\nf) Existência de equipamentos alternativos concebidos para reduzir os níveis de exposição às vibrações mecânicas;\n\ng) Prolongamento da exposição a vibrações transmitidas a todo o organismo para além do horário de trabalho, sob a responsabilidade da entidade patronal;\n\nh) Condições de trabalho específicas, tais como trabalho a baixas temperaturas;\n\ni) Informação apropriada resultante da vigilância da saúde, incluindo informação publicada, na medida do possível.\n\n5. A entidade patronal deve dispor de uma avaliação dos riscos, nos termos da alínea a) do n.º 1 do artigo 9.º da Directiva 89/391/CEE, e identificar as medidas a tomar nos termos dos artigos 5.º e 6.º da presente directiva. A avaliação dos riscos deve ser registada em suporte adequado de acordo com a legislação e as práticas nacionais e pode incluir uma justificação por parte da entidade patronal que demonstre que a natureza e a dimensão dos riscos relacionados com as vibrações mecânicas tornam desnecessária uma avaliação mais pormenorizada dos mesmos. A avaliação dos riscos deve ser regularmente actualizada, especialmente nos casos em que tenha havido alterações significativas que a possam desactualizar, ou em que os resultados da vigilância da saúde demonstrem a sua necessidade."
+  },
+  "4b4abfdd4d60be69": {
+   "fragment_id": "Artigo 5.º — Disposições com vista a evitar ou reduzir a exposição",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Disposições com vista a evitar ou reduzir a exposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposições com vista a evitar ou reduzir a exposição\n\n1. Tendo em conta o progresso técnico e a disponibilidade de medidas de controlo dos riscos na fonte, os riscos resultantes da exposição a vibrações mecânicas devem ser eliminados na fonte ou reduzidos ao mínimo.\n\nA redução destes riscos baseia-se nos princípios gerais de prevenção estabelecidos no n.º 2 do artigo 6.º da Directiva 89/391/CEE.\n\n2. Com base na avaliação dos riscos a que se refere o artigo 4.º, sempre que sejam excedidos os valores de exposição estabelecidos no n.º 1, alínea b), e no n.º 2, alínea b), do artigo 3.º, a entidade patronal estabelece e implementa um programa de medidas técnicas e/ou organizacionais destinadas a reduzir ao mínimo a exposição a vibrações mecânicas e os riscos que dela resultam, tomando em consideração, nomeadamente:\n\na) Métodos de trabalho alternativos que permitam reduzir a exposição a vibrações mecânicas;\n\nb) A escolha de equipamento de trabalho adequado, bem concebido do ponto de vista ergonómico e que, tendo em conta o trabalho a efectuar, produza o mínimo de vibrações possível;\n\nc) A instalação de equipamento auxiliar destinado a reduzir o risco de lesões provocadas pelas vibrações, por exemplo assentos que amorteçam eficazmente as vibrações transmitidas a todo o organismo e pegas que reduzam as vibrações transmitidas ao sistema mão-braço;\n\nd) Programas adequados de manutenção do equipamento de trabalho, do local de trabalho e das instalações existentes no local de trabalho;\n\ne) Concepção e disposição dos locais e postos de trabalho;\n\nf) Informação e formação adequadas dos trabalhadores para que utilizem correctamente e de forma segura o equipamento de trabalho, por forma a reduzir ao mínimo a sua exposição a vibrações mecânicas;\n\ng) Limitação da duração e da intensidade da exposição;\n\nh) Horário de trabalho apropriado, com períodos de repouso adequados;\n\ni) O fornecimento aos trabalhadores expostos de vestuário que os proteja do frio e da humidade.\n\n3. Os trabalhadores não podem em caso algum ser sujeitos a exposições acima do valor-limite de exposição.\n\nSe, apesar das medidas postas em prática pela entidade patronal nos termos do disposto na presente directiva, o valor-limite de exposição for ultrapassado, a entidade patronal tomará medidas imediatas para reduzir a exposição para valores inferiores ao valor-limite de exposição, determinará as razões por que o valor-limite de exposição foi ultrapassado e corrigirá as medidas de protecção e prevenção em conformidade, por forma a evitar que o valor-limite de exposição seja novamente ultrapassado.\n\n4. Nos termos do disposto no artigo 15.º da Directiva 89/391/CEE, a entidade patronal adapta as medidas referidas no presente artigo às necessidades dos trabalhadores sujeitos a riscos especialmente sensíveis."
+  },
+  "00f708658be33f1c": {
+   "fragment_id": "Artigo 6.º — Informação e formação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Informação e formação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Informação e formação dos trabalhadores\n\nSem prejuízo dos artigos 10.º e 12.º da Directiva 89/391/CEE, a entidade patronal deve assegurar que os trabalhadores expostos a riscos devidos a vibrações mecânicas no local de trabalho e/ou os seus representantes recebam informações e formação de acordo com o resultado da avaliação dos riscos prevista no n.º 1 do artigo 4.º da presente directiva, em especial no que se refere a:\n\na) Medidas tomadas nos termos da presente directiva para eliminar ou reduzir ao mínimo os riscos resultantes de vibrações mecânicas;\n\nb) Valores-limite de exposição e valores de exposição que desencadeiam a acção;\n\nc) Resultados das avaliações e medições das vibrações mecânicas efectuadas nos termos do artigo 4.º da presente directiva e lesões que possam resultar do equipamento de trabalho utilizado;\n\nd) Utilidade e forma de detectar e notificar indícios de lesões;\n\ne) Circunstâncias em que os trabalhadores têm direito à vigilância da saúde;\n\nf) Práticas de trabalho seguras para minimizar a exposição a vibrações mecânicas."
+  },
+  "036faafdfed35dd3": {
+   "fragment_id": "Artigo 7.º — Consulta e participação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Consulta e participação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Consulta e participação dos trabalhadores\n\nA consulta e a participação dos trabalhadores e/ou dos seus representantes relativamente às matérias abrangidas pela presente directiva são efectuadas nos termos do artigo 11.º da Directiva 89/391/CEE."
+  },
+  "b4f1bfdbc841cf04": {
+   "fragment_id": "SECÇÃO III",
+   "type": "divisao",
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO III"
+  },
+  "4f0027fbf9863594": {
+   "fragment_id": "DISPOSIÇÕES DIVERSAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES DIVERSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES DIVERSAS"
+  },
+  "cfe87567c5b02c1f": {
+   "fragment_id": "Artigo 8.º — Vigilância da saúde",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Vigilância da saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Vigilância da saúde\n\n1. Sem prejuízo do artigo 14.º da Directiva 89/391/CEE, os Estados-Membros devem aprovar disposições para assegurar uma adequada vigilância da saúde dos trabalhadores de acordo com os resultados da avaliação dos riscos prevista no n.º 1 do artigo 4.º da presente directiva, quando estes resultados revelarem a existência de um risco para a sua saúde. Essas disposições, incluindo os requisitos especificados para os registos de saúde e para a possibilidade de os consultar, devem ser tomadas nos termos da legislação e/ou práticas nacionais.\n\nA vigilância da saúde, cujos resultados devem ser tomados em consideração para efeitos da aplicação de medidas de prevenção no local de trabalho em questão, visa a prevenção e o diagnóstico precoce de qualquer afecção relacionada com a exposição a vibrações mecânicas. A vigilância é adequada sempre que:\n\n— a exposição dos trabalhadores a vibrações seja tal que permita estabelecer uma relação entre essa exposição e uma doença identificável ou efeitos nocivos para a saúde,\n\n— seja provável que a doença e os efeitos nocivos resultem das condições de trabalho particulares do trabalhador, e\n\n— existam técnicas válidas que permitam detectar a doença ou os efeitos nocivos para a saúde.\n\nEm todo o caso, os trabalhadores expostos a níveis de vibrações mecânicas acima dos valores enunciados no n.º 1, alínea b), e no n.º 2, alínea b), do artigo 3.º têm direito a uma vigilância da saúde adequada.\n\n2. Os Estados-Membros devem aprovar disposições para assegurar que seja elaborado e actualizado um registo de saúde para cada trabalhador sujeito a vigilância da saúde em conformidade com o n.º 1. Os registos de saúde devem conter um resumo dos resultados da vigilância da saúde efectuada e ser conservados de forma que permita a sua posterior consulta, tendo em conta a necessária confidencialidade.\n\nSerão fornecidas cópias dos registos adequados à autoridade competente, a seu pedido. O trabalhador deve, a seu pedido, ter acesso ao registo de saúde que lhe diga pessoalmente respeito.\n\n3. Se os resultados da vigilância da saúde revelarem que um trabalhador sofre de uma doença ou de uma afecção identificáveis que sejam consideradas, por um médico ou por um especialista em doenças profissionais, como resultantes da exposição a vibrações mecânicas no local de trabalho:\n\na) O trabalhador deve ser informado, pelo médico ou por outra pessoa devidamente qualificada, do resultado que lhe diga pessoalmente respeito, incluindo informações e recomendações sobre a eventual vigilância da saúde a que deverá submeter-se após o final da exposição;\n\nb) A entidade patronal deve ser informada sobre qualquer tipo de dados significativos obtidos no âmbito da vigilância da saúde, tendo em conta o necessário segredo médico;\n\nc) A entidade patronal deve:\n\n— rever a avaliação dos riscos realizada nos termos do artigo 4.º,\n\n— rever as medidas previstas para eliminar ou reduzir os riscos nos termos do artigo 5.º,\n\n— ter em conta o parecer do responsável pela saúde e higiene no local de trabalho ou de outra pessoa devidamente qualificada ou da autoridade competente ao aplicar quaisquer medidas consideradas necessárias para eliminar ou reduzir os riscos nos termos do artigo 5.º, incluindo a possibilidade de atribuir ao trabalhador em causa uma função alternativa na qual não haja riscos de mais exposição, e\n\n— prever uma vigilância da saúde contínua e providenciar no sentido de um exame das condições de saúde de qualquer outro trabalhador que tenha estado exposto de forma semelhante. Nestes casos, o médico, o especialista de doenças profissionais ou a autoridade competente podem propor que as pessoas expostas sejam sujeitas a exame médico."
+  },
+  "c8b56719415a0db1": {
+   "fragment_id": "Artigo 9.º — Período transitório",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Período transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Período transitório\n\nNo que se refere à execução das obrigações previstas no n.º 3 do artigo 5.º, os Estados-Membros, após consulta aos parceiros sociais, de acordo com a legislação ou as práticas nacionais, terão a faculdade de fazer uso de um período transitório de cinco anos, no máximo, a contar de 6 de Julho de 2005, quando forem utilizados equipamentos de trabalho que tenham sido postos à disposição dos trabalhadores antes de 6 de Julho 2007 e que não permitam respeitar os valores-limite de exposição tendo em conta os últimos progressos técnicos e/ou a implementação de medidas organizacionais. No que se refere aos equipamentos utilizados nos sectores agrícola e silvícola, os Estados-Membros terão a faculdade de prorrogar até mais quatro anos o período transitório."
+  },
+  "a7cb6eceed994e55": {
+   "fragment_id": "Artigo 10.º — Derrogações",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Derrogações\n\n1. No respeito dos princípios gerais da protecção da segurança e da saúde dos trabalhadores, os Estados-Membros podem, para os sectores da navegação marítima e aérea, e em condições devidamente justificadas, derrogar o disposto no n.º 3 do artigo 5.º, no que diz respeito às vibrações transmitidas a todo o organismo, quando, tendo em conta o estado da técnica e as características específicas dos locais de trabalho, não seja possível respeitar o valor-limite de exposição apesar da implementação de medidas técnicas e/ou organizacionais.\n\n2. Caso a exposição dos trabalhadores a vibrações mecânicas seja habitualmente inferior aos valores de exposição enunciados no n.º 1, alínea b), e no n.º 2, alínea b), do artigo 3.º, mas varie acentuadamente de um momento para outro e possa ocasionalmente exceder o valor-limite de exposição, os Estados-Membros podem igualmente conceder derrogações do disposto no n.º 3 do artigo 5.º Todavia, o valor médio da exposição às vibrações calculado durante um período de 40 horas deve permanecer inferior ao valor-limite de exposição e devem existir provas de que os riscos resultantes deste tipo de exposição são inferiores aos riscos resultantes de um nível de exposição correspondente ao valor-limite.\n\n3. As derrogações previstas nos n.^os^ 1 e 2 são autorizadas pelos Estados-Membros, após consulta aos parceiros sociais, de acordo com a legislação e as práticas nacionais. Estas derrogações devem ser acompanhadas de condições que garantam que os riscos delas resultantes serão reduzidos ao mínimo, atendendo às circunstâncias do caso, e que os trabalhadores em questão beneficiarão de vigilância da saúde reforçada. Estas derrogações serão reanalisadas de quatro em quatro anos e revogadas logo que desapareçam as circunstâncias que lhes tenham dado origem.\n\n4. De quatro em quatro anos, os Estados-Membros transmitem à Comissão a lista das derrogações previstas nos n.^os^ 1 e 2, indicando pormenorizadamente as circunstâncias e as razões que os levaram a conceder essas derrogações."
+  },
+  "5610de82dee0b36b": {
+   "fragment_id": "Artigo 11.º — Alterações técnicas",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Alterações técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alterações técnicas\n\nAs alterações de natureza estritamente técnica a introduzir no anexo são aprovadas pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 12.º, em função:\n\na) Da aprovação de directivas em matéria de harmonização técnica e de normalização no que se refere à concepção, construção, fabrico ou realização de equipamentos e/ou locais de trabalho;\n\nb) Do progresso técnico, da evolução das normas ou especificações europeias harmonizadas mais apropriadas e da evolução dos conhecimentos no domínio das vibrações mecânicas."
+  },
+  "d087c8ac951e3aa8": {
+   "fragment_id": "Artigo 12.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comité\n\n1. A Comissão é assistida pelo comité previsto no n.º 2 do artigo 17.º da Directiva 89/391/CEE.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO período previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "b9c1c438fac65788": {
+   "fragment_id": "SECÇÃO IV",
+   "type": "divisao",
+   "heading": "SECÇÃO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO IV"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "aeb1ea81b04b39e8": {
+   "fragment_id": "Artigo 14.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transposição\n\n1. Os Estados-Membros devem aprovar as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 6 de Julho de 2005 e informar imediatamente a Comissão desse facto. Devem incluir igualmente uma lista indicando pormenorizadamente as razões do regime transitório adoptado pelos Estados-Membros, nos termos do artigo 9.º\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão as disposições de direito interno já aprovadas ou que vierem a aprovar nas matérias reguladas pela presente directiva."
+  },
+  "813e4777614f567a": {
+   "fragment_id": "Artigo 15.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nA presente directiva entra em vigor no dia da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "12bcbce1db5bdf83": {
+   "fragment_id": "Artigo 16.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "00721efe64854562": {
+   "fragment_id": "A. VIBRAÇÕES TRANSMITIDAS AO SISTEMA MÃO-BRAÇO",
+   "type": "divisao",
+   "heading": "A. VIBRAÇÕES TRANSMITIDAS AO SISTEMA MÃO-BRAÇO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. VIBRAÇÕES TRANSMITIDAS AO SISTEMA MÃO-BRAÇO"
+  },
+  "07c49cde60f60904": {
+   "fragment_id": "1. Avaliação da exposição",
+   "type": "divisao",
+   "heading": "1. Avaliação da exposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Avaliação da exposição\n\nA avaliação do nível de exposição às vibrações transmitidas ao sistema mão-braço baseia-se no cálculo do valor da exposição diária normalizada num período de referência de 8horas, A (8) expressa como raiz quadrada da soma dos quadrados (valor total) dos valores eficazes da aceleração ponderada em frequência, determinados segundo as coordenadas ortogonais a hwx, a hwy, a hwz, tal como definido nos capítulos 4 e 5 e no anexo A da norma ISO 5349-1 (2001).\n\nA avaliação do nível de exposição pode ser efectuada através de uma estimativa baseada nas informações relativas ao nível de emissão dos equipamentos de trabalho utilizados fornecidas pelos fabricantes destes materiais e da observação das práticas de trabalho específicas, ou por medição."
+  },
+  "f1eb31e0fbe49066": {
+   "fragment_id": "2. Medição",
+   "type": "divisao",
+   "heading": "2. Medição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Medição\n\nQuando se procede à medição nos termos do n.º 1 do artigo 4.º:\n\na) Os métodos utilizados podem incluir a amostragem, que deverá ser representativa da exposição pessoal do trabalhador às vibrações mecânicas em questão; os métodos e aparelhos utilizados devem ser adaptados às características próprias das vibrações mecânicas a medir, ao ambiente circundante e às características do aparelho de medida, em conformidade com a norma ISO 5349-2 (2001);\n\nb) No caso de aparelhos que devam ser seguros com ambas as mãos, as medições serão efectuadas em cada mão. A exposição é determinada por referência ao valor mais elevado; serão igualmente fornecidas informações sobre a outra mão."
+  },
+  "f4e21f1096a78cf5": {
+   "fragment_id": "3. Interferências",
+   "type": "divisao",
+   "heading": "3. Interferências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Interferências\n\nO disposto no n.º 4, alínea d), do artigo 4.º aplica-se em especial no caso de as vibrações mecânicas interferirem com a manipulação correcta dos comandos ou com a leitura dos aparelhos indicadores."
+  },
+  "d96f89e1f6257ddd": {
+   "fragment_id": "4. Riscos indirectos",
+   "type": "divisao",
+   "heading": "4. Riscos indirectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Riscos indirectos\n\nO disposto no n.º 4, alínea d), do artigo 4.º, aplica-se em especial no caso de as vibrações mecânicas interferirem com a estabilidade das estruturas ou com o bom estado e a segurança dos elementos de ligação."
+  },
+  "37f3a5d9d1e3e1d6": {
+   "fragment_id": "5. Equipamentos de protecção individual",
+   "type": "divisao",
+   "heading": "5. Equipamentos de protecção individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Equipamentos de protecção individual\n\nOs equipamentos de protecção individual contra as vibrações transmitidas ao sistema mão-braço podem contribuir para o programa de medidas referido no n.º 2 do artigo 5.º."
+  },
+  "9e824b0f957f2160": {
+   "fragment_id": "B. VIBRAÇÕES TRANSMITIDAS A TODO O ORGANISMO",
+   "type": "divisao",
+   "heading": "B. VIBRAÇÕES TRANSMITIDAS A TODO O ORGANISMO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. VIBRAÇÕES TRANSMITIDAS A TODO O ORGANISMO"
+  },
+  "d61fc943806291ad": {
+   "fragment_id": "1. Avaliação da exposição",
+   "type": "divisao",
+   "heading": "1. Avaliação da exposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Avaliação da exposição\n\nA avaliação do nível de exposição às vibrações baseia-se no cálculo da exposição diária A (8) expressa como aceleração contínua equivalente para um período de 8 horas, calculada como o mais elevado dos valores eficazes, ou o mais elevado dos valores de dose de vibração (VDV) das acelerações ponderadas em frequência determinadas segundo os três eixos ortogonais (1,4 a wx, 1,4 a wy, a wz, para um trabalhador sentado ou em pé), de acordo com os capítulos 5, 6 e 7, com o anexo A e com o anexo B da norma ISO 2631-1 (1997).\n\nA avaliação do nível de exposição pode ser efectuada através de uma estimativa baseada nas informações relativas ao nível de emissão dos equipamentos de trabalho utilizados fornecidas pelos fabricantes destes materiais e da observação das práticas de trabalho específicas, ou por medição.\n\nOs Estados-Membros têm a faculdade de, no que se refere à navegação marítima, considerar apenas as vibrações de frequência superior a 1 Hz."
+  },
+  "73d0f2edb56ee5a2": {
+   "fragment_id": "2. Medição",
+   "type": "divisao",
+   "heading": "2. Medição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Medição\n\nQuando se procede à medição nos termos do n.º 1 do artigo 4.º, os métodos utilizados podem incluir a amostragem, que deverá ser representativa da exposição pessoal do trabalhador às vibrações mecânicas em questão. Os métodos utilizados devem ser adaptados às características próprias das vibrações mecânicas a medir, ao ambiente circundante e às características do aparelho de medida."
+  },
+  "3efa1c92095703bf": {
+   "fragment_id": "3. Interferências",
+   "type": "divisao",
+   "heading": "3. Interferências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Interferências\n\nO disposto no n.º 4, alínea d), do artigo 4.º, aplica-se em especial no caso de as vibrações mecânicas interferirem com a manipulação correcta dos comandos ou com a leitura dos aparelhos indicadores."
+  },
+  "914d20a0afd80ee4": {
+   "fragment_id": "5. Extensão da exposição",
+   "type": "divisao",
+   "heading": "5. Extensão da exposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Extensão da exposição\n\nO disposto no n.º 4, alínea g), do artigo 4.º, aplica-se em especial quando, dada a natureza da actividade, o trabalhador beneficia de instalações de repouso supervisadas pela entidade empregadora; salvo em caso de força maior, as vibrações transmitidas a todo o organismo nessas instalações devem ser reduzidas para um nível compatível com o seu objectivo e condições de utilização.\n\n---"
+  },
+  "1ead9a8081111923": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e14ed479-4027-4302-b122-1ccc44870bfc.0018.03/DOC_1#src.E0001)) JO C 77 de 18.3.1993, p. 12, e\n\n> JO C 230 de 19.8.1994, p. 3.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/e14ed479-4027-4302-b122-1ccc44870bfc.0018.03/DOC_1#src.E0002)) JO C 249 de 13.9.1993, p. 28.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/e14ed479-4027-4302-b122-1ccc44870bfc.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 20 de Abril de 1994 (JO C 128 de 9.5.1994, p. 146), confirmado em 16 de Setembro de 1999 (JO C 54 de 25.2.2000, p. 75), posição comum do Conselho de 25 de Junho de 2001 (JO C 301 de 26.10.2001, p. 1) e decisão do Parlamento Europeu de 23 de Outubro de 2001 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 25 de Abril de 2002 e decisão do Conselho de 21 de Maio de 2002.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/e14ed479-4027-4302-b122-1ccc44870bfc.0018.03/DOC_1#src.E0004)) JO C 260 de 15.10.1990, p. 167.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/e14ed479-4027-4302-b122-1ccc44870bfc.0018.03/DOC_1#src.E0005)) JO L 183 de 29.6.1989, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/e14ed479-4027-4302-b122-1ccc44870bfc.0018.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23."
+  },
+  "5d5119c5e4fb68cc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Junho de 2002\n\nrelativa às prescrições mínimas de segurança e saúde respeitantes à exposição dos trabalhadores aos riscos devidos aos agentes físicos (vibrações) (décima sexta directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente, o n.º 2 do seu artigo 137.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/5ba13e4f-90ba-4c1f-b0bf-507cdc724356.0019.03/DOC_1#E0001)), apresentada após consulta ao Comité Consultivo para a segurança, higiene e protecção da saúde no local de trabalho,\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/5ba13e4f-90ba-4c1f-b0bf-507cdc724356.0019.03/DOC_1#E0002)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/5ba13e4f-90ba-4c1f-b0bf-507cdc724356.0019.03/DOC_1#E0003)), tendo em conta o projecto comum aprovado em 8 de Abril de 2002 pelo Comité de Conciliação,\n\n(1) De acordo com o Tratado, o Conselho pode adoptar, por meio de directivas, prescrições mínimas com vista a promover a melhoria, nomeadamente das condições de trabalho, a fim de garantir um melhor nível de protecção da segurança e da saúde dos trabalhadores. Essas directivas devem evitar impor disciplinas administrativas, financeiras e jurídicas contrárias à criação e ao desenvolvimento de pequenas e médias empresas.\n\n(2) A comunicação da Comissão relativa ao seu programa de acção para a aplicação da Carta comunitária dos direitos sociais fundamentais dos trabalhadores prevê que sejam estabelecidas prescrições mínimas de saúde e segurança respeitantes à exposição dos trabalhadores aos riscos devidos aos agentes físicos. Em Setembro de 1990, o Parlamento Europeu adoptou uma resolução sobre este programa de acção ([^4^](http://publications.europa.eu/resource/cellar/5ba13e4f-90ba-4c1f-b0bf-507cdc724356.0019.03/DOC_1#E0004)) que convidou, nomeadamente, a Comissão a elaborar uma directiva especial no domínio dos riscos associados ao ruído e às vibrações bem como a qualquer outro agente físico no local de trabalho.\n\n(3) Numa primeira fase, será necessário introduzir medidas que protejam os trabalhadores contra os riscos devidos às vibrações, atendendo aos seus efeitos sobre a saúde e a segurança dos trabalhadores, nomeadamente às perturbações musculo-esqueléticas, neurológicas e vasculares que provocam. Essas medidas visam não só garantir a saúde e a segurança de cada trabalhador considerado isoladamente, mas também criar uma plataforma mínima de protecção para o conjunto dos trabalhadores, que evitará possíveis distorções de concorrência.\n\n(4) A presente directiva fixa prescrições mínimas, o que dá aos Estados-Membros a possibilidade de manter ou adoptar disposições mais favoráveis para a protecção dos trabalhadores, em particular no que se refere à fixação de valores inferiores para o valor diário que desencadeia a acção ou para o valor-limite de exposição diária a vibrações. A execução da presente directiva não pode justificar uma regressão em relação à situação existente em cada Estado-Membro.\n\n(5) Um sistema de protecção contra as vibrações deve limitar-se a estabelecer, sem pormenores inúteis, os objectivos a atingir, os princípios a respeitar e os valores fundamentais a utilizar, a fim de permitir aos Estados-Membros aplicar de forma equivalente as prescrições mínimas.\n\n(6) A redução da exposição às vibrações é conseguida mais eficazmente pela adopção de medidas preventivas desde a fase de concepção dos postos e locais de trabalho, bem como pela selecção do equipamento e dos processos e métodos de trabalho, de modo a reduzir prioritariamente os riscos na origem. As disposições relativas ao equipamento e aos métodos de trabalho contribuem, pois, para a protecção dos trabalhadores que os utilizam.\n\n(7) As entidades patronais devem adaptar-se ao progresso técnico e aos conhecimentos científicos em matéria de riscos associados à exposição a vibrações, com vista a melhorar a protecção da segurança e da saúde dos trabalhadores.\n\n(8) No que diz respeito aos sectores da navegação marítima e aérea, na situação actual da técnica não é possível respeitar em todos os casos os valores-limite de exposição relativos às vibrações transmitidas a todo o organismo. É, pois, necessário prever possibilidades de derrogação devidamente justificadas.\n\n(9) Sendo a presente directiva uma directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE do Conselho, de 12 de Junho de 1985, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho ([^5^](http://publications.europa.eu/resource/cellar/5ba13e4f-90ba-4c1f-b0bf-507cdc724356.0019.03/DOC_1#E0005)), esta última directiva aplica-se ao domínio da exposição dos trabalhadores às vibrações, sem prejuízo de disposições mais rigorosas e/ou específicas previstas na presente directiva.\n\n(10) A presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno.\n\n(11) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/5ba13e4f-90ba-4c1f-b0bf-507cdc724356.0019.03/DOC_1#E0006)),\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "967f14bd8629f480": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAlterações técnicas\n\nAs alterações de natureza estritamente técnica a introduzir no anexo da presente directiva são aprovadas pela Comissão, em função:\n\na) Da aprovação de directivas em matéria de harmonização técnica e de normalização no que se refere à concepção, construção, fabrico ou realização de equipamentos e/ou locais de trabalho;\n\nb) Do progresso técnico, da evolução das normas ou especificações europeias harmonizadas mais apropriadas e da evolução dos conhecimentos no domínio das vibrações mecânicas.\n\nEssas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 12.º. Por imperativos de urgência, a Comissão pode recorrer ao procedimento de urgência a que se refere o n.º 3 do artigo 12.º."
+  },
+  "5695c333201bedea": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nProcedimento de comité\n\n1. A Comissão é assistida pelo comité previsto no n.º 1 do artigo 17.º da Directiva 89/391/CEE.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1, 2, 4 e 6 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "9a024b68f0e99d2a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5ba13e4f-90ba-4c1f-b0bf-507cdc724356.0019.03/DOC_1#src.E0001)) JO C 77 de 18.3.1993, p. 12, e\n\n> JO C 230 de 19.8.1994, p. 3.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5ba13e4f-90ba-4c1f-b0bf-507cdc724356.0019.03/DOC_1#src.E0002)) JO C 249 de 13.9.1993, p. 28.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5ba13e4f-90ba-4c1f-b0bf-507cdc724356.0019.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 20 de Abril de 1994 (JO C 128 de 9.5.1994, p. 146), confirmado em 16 de Setembro de 1999 (JO C 54 de 25.2.2000, p. 75), posição comum do Conselho de 25 de Junho de 2001 (JO C 301 de 26.10.2001, p. 1) e decisão do Parlamento Europeu de 23 de Outubro de 2001 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 25 de Abril de 2002 e decisão do Conselho de 21 de Maio de 2002.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5ba13e4f-90ba-4c1f-b0bf-507cdc724356.0019.03/DOC_1#src.E0004)) JO C 260 de 15.10.1990, p. 167.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/5ba13e4f-90ba-4c1f-b0bf-507cdc724356.0019.03/DOC_1#src.E0005)) JO L 183 de 29.6.1989, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/5ba13e4f-90ba-4c1f-b0bf-507cdc724356.0019.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23."
+  },
+  "a8ce1f554525dff3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Junho de 2002\n\nrelativa às prescrições mínimas de segurança e saúde respeitantes à exposição dos trabalhadores aos riscos devidos aos agentes físicos (vibrações) (décima sexta directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE)"
+  },
+  "e3f7b6b504f872c7": {
+   "fragment_id": "Artigo 11.º — Alteração do anexo",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Alteração do anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alteração do anexo\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 11.º-A no que diz respeito a introduzir alterações estritamente técnicas no anexo, a fim de ter em conta a harmonização e normalização técnica no domínio da conceção, construção, fabricação e realização de equipamentos e locais de trabalho, o progresso técnico, a evolução das normas ou especificações europeias harmonizadas e os novos conhecimentos em matéria de vibrações mecânicas.\n\nSempre que, em casos excecionais e devidamente justificados que comportam riscos iminentes, diretos e graves para a saúde e a segurança físicas dos trabalhadores e de outras pessoas, existam imperativos de urgência que exijam uma ação num prazo muito curto, aplica-se o procedimento previsto no artigo 11.º-B os atos delegados adotados nos termos do presente artigo."
+  },
+  "44f097a9b278a8fb": {
+   "fragment_id": "Artigo 11.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 11.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 11.º é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 11.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^1^](http://publications.europa.eu/resource/cellar/60e97bd0-e605-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 11.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "fb3ba5b40f42d282": {
+   "fragment_id": "Artigo 11.º-B — Procedimento de urgência",
+   "type": "artigo",
+   "heading": "Artigo 11.º-B — Procedimento de urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º-B — Procedimento de urgência\n\n1. Os atos delegados adotados nos termos do presente artigo entram em vigor sem demora e são aplicáveis desde que não tenha sido formulada qualquer objeção nos termos do n.º 2. Na notificação de um ato delegado ao Parlamento Europeu e ao Conselho devem expor-se os motivos que justificam o recurso ao procedimento de urgência.\n\n2. O Parlamento Europeu ou o Conselho podem formular objeções a um ato delegado de acordo com o procedimento a que se refere o artigo 11.º-A, n.º 6. Nesse caso, a Comissão revoga imediatamente o ato após a notificação da decisão pela qual o Parlamento Europeu ou o Conselho tiverem formulado objeções."
+  },
+  "98eef8514a49d8d2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/60e97bd0-e605-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 123 de 12.5.2016, p. 1."
+  }
+ }
+}

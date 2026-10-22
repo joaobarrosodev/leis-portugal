@@ -34,6 +34,61 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-09-05'
+version_history:
+  file: diretiva-ue-1991-674.versoes.json
+  count: 2
+  source_lastmod: '2006-09-05'
+  versions:
+  - date: '1991-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-09-05'
+    amending: eu:celex:32003L0051:por
+    amending_title: DIRECTIVA 2003/51/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 18 de
+      Junho de 2003; DIRECTIVA 2006/46/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14 de
+      Junho de 2006
+    changes:
+    - Altera preambulo
+    - Adita SECÇÃO 1
+    - Adita Disposições preliminares e âmbito de aplicação
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita SECÇÃO 2
+    - Adita Disposições gerais relativas ao balanço e à conta de ganhos e perdas
+    - Adita Artigo 5.º
+    - Adita SECÇÃO 3
+    - Adita Estrutura do balanço
+    - Adita Artigo 6.º
+    - Adita A. Capital subscrito não realizado
+    - Adita B. Activos incorpóreos
+    - Adita C. Investimentos
+    - Adita D. Investimentos por conta de tomadores de apólices de seguros de vida e cujo risco seja por eles suportado
+    - Adita E. Créditos
+    - Adita F. Outros elementos do activo
+    - Adita G. Contas de regularização
+    - Adita H. Perdas do exercício
+    - Adita E. [►M1](http://publications.europa.eu/resource/celex/32003L0051) Outras provisões◄
+    - Adita F. Depósitos recebidos de resseguradores
+    - Adita G. Credores
+    - Adita H. Contas de regularização
+    - Adita I. Lucro do exercício
+    - Adita Artigo 7.º
+    - Adita SECÇÃO 4
+    - Adita Disposições especiais relativas a certas rubricas do balanço
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
 identifiers:
   celex: 31991L0674
   eli: http://data.europa.eu/eli/dir/1991/674/oj
@@ -48,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ed6616de-9223-45aa-b5ce-60a0151bdb98.0011
   content_url: http://publications.europa.eu/resource/cellar/a38d1ed0-818e-487b-a68d-741ee3920a99.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0674-20060905
-  retrieved_at: '2026-10-22T02:41:05Z'
+  retrieved_at: '2026-10-22T14:39:35Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-14T17:13:11.141+02:00'
 integrity:
@@ -57,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:05Z'
-  notes: Texto consolidado 01991L0674-20060905.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:39:35Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1991-674.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -151,33 +206,20 @@ relationships:
   source: null
 article_structure:
   article_count: 73
-  section_count: 37
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 38
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:05Z'
-  warnings: []
+  checked_at: '2026-10-22T14:39:35Z'
+  warnings:
+  - '01991L0674-20030717: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 91/674/CEE do Conselho, de 19 de Dezembro de 1991
-
-> 1991L0674 — PT — 05.09.2006 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003L0051) — [DIRECTIVA 2003/51/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 18 de Junho de 2003](http://publications.europa.eu/resource/celex/32003L0051) — L 178 — 16 — 17.7.2003
-- [►M2](http://publications.europa.eu/resource/celex/32006L0046) — [DIRECTIVA 2006/46/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14 de Junho de 2006](http://publications.europa.eu/resource/celex/32006L0046) — L 224 — 1 — 16.8.2006
-
-| NB: Esta versão consolidada contém referências à unidade de conta europeia e/ou ao ecu, que a partir de 1 de Janeiro de 1999 devem ser interpretadas como referências ao euro — Regulamento (CEE) n.o 3308/80 do Conselho (JO L 345 de 20.12.1980, p. 1) e Regulamento (CE) n.o 1103/97 do Conselho (JO L 162 de 19.6.1997, p. 1). |
-| --- |
-
-## DIRECTIVA DO CONSELHO
 
 de 19 de Dezembro de 1991
 

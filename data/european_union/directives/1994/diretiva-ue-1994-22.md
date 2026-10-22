@@ -35,6 +35,52 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-12-24'
+version_history:
+  file: diretiva-ue-1994-22.versoes.json
+  count: 2
+  source_lastmod: '2018-12-24'
+  versions:
+  - date: '1994-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-12-24'
+    amending: eu:celex:32018R1999:por
+    amending_title: REGULAMENTO (UE) 2018/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º — A presente directiva é aplicável às autorizações concedidas a partir da data fixada no artigo 14º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
 identifiers:
   celex: 31994L0022
   eli: http://data.europa.eu/eli/dir/1994/22/oj
@@ -49,7 +95,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7720e93e-3b72-44e3-b070-69140feac7d4.0011
   content_url: http://publications.europa.eu/resource/cellar/dd938ac2-4ab9-11e9-a8ed-01aa75ed71a1.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0022-20181224
-  retrieved_at: '2026-10-22T02:46:54Z'
+  retrieved_at: '2026-10-22T14:43:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-06-04T18:40:45.586+02:00'
 integrity:
@@ -58,9 +104,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:54Z'
-  notes: Texto consolidado 01994L0022-20181224.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:43:02Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1994-22.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -150,29 +196,19 @@ relationships:
   date: '2022-01-13'
 article_structure:
   article_count: 15
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:54Z'
+  checked_at: '2026-10-22T14:43:02Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 94/22/CE do Parlamento Europeu e do Conselho, de 30 de Maio de 1994
-
-> 01994L0022 — PT — 24.12.2018 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018R1999) — [REGULAMENTO (UE) 2018/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1999) — L 328 — 1 — 21.12.2018
-
-## DIRECTIVA 94/22/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 30 de Maio de 1994
 

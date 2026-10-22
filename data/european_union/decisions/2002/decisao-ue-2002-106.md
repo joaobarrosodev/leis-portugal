@@ -36,6 +36,51 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-04-21'
+version_history:
+  file: decisao-ue-2002-106.versoes.json
+  count: 3
+  source_lastmod: '2021-04-21'
+  versions:
+  - date: '2002-02-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-12-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera CAPÍTULO I — Introdução, objectivos e definições
+    - Altera CAPÍTULO III
+    - Altera CAPÍTULO IV — Métodos de verificação e amostragem
+    - Altera CAPÍTULO V — Procedimentos e critérios gerais aplicáveis à colheita e transporte de amostras
+    - Altera CAPÍTULO VI — Princípios e aplicação dos testes virológicos e avaliação dos respectivos resultados
+    - Altera CAPÍTULO VII — Princípios e aplicação dos testes serológicos e avaliação dos respectivos resultados
+    - Altera CAPÍTULO IX — Requisitos mínimos de segurança no que respeita aos laboratórios da peste suína clássica
+    - Adita CAPÍTULO VIII Testes discriminativos em caso de vacinação de emergência — A. Princípios de base
+    - Suprime CAPÍTULO VIII — Testes discriminativos em caso de vacinação de emergência
+  - date: '2021-04-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime ANEXO — MANUAL DE DIAGNÓSTICO DA PESTE SUÍNA CLÁSSICA
+    - Suprime CAPÍTULO I — Introdução, objectivos e definições
+    - Suprime CAPÍTULO II — Descrição da peste suína clássica, com especial ênfase no diagnóstico diferencial
+    - Suprime CAPÍTULO III
+    - Suprime CAPÍTULO IV — Métodos de verificação e amostragem
+    - Suprime CAPÍTULO V — Procedimentos e critérios gerais aplicáveis à colheita e transporte de amostras
+    - Suprime CAPÍTULO VI — Princípios e aplicação dos testes virológicos e avaliação dos respectivos resultados
+    - Suprime CAPÍTULO VII — Princípios e aplicação dos testes serológicos e avaliação dos respectivos resultados
+    - Suprime CAPÍTULO VIII Testes discriminativos em caso de vacinação de emergência — A. Princípios de base
+    - Suprime CAPÍTULO IX — Requisitos mínimos de segurança no que respeita aos laboratórios da peste suína clássica
 identifiers:
   celex: 32002D0106
   eli: http://data.europa.eu/eli/dec/2002/106(1)/oj
@@ -50,7 +95,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/61d56332-cfbd-4990-b632-4f719199cb41.0010
   content_url: http://publications.europa.eu/resource/cellar/dd901ada-ca08-11eb-84ce-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002D0106-20210421
-  retrieved_at: '2026-10-22T03:10:23Z'
+  retrieved_at: '2026-10-22T14:51:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T19:53:11.950+01:00'
 integrity:
@@ -59,9 +104,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:10:23Z'
-  notes: Texto consolidado 02002D0106-20210421.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:04Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-2002-106.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -110,16 +155,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:10:23Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:51:04Z'
+  warnings: []
   errors: []
 ---
 

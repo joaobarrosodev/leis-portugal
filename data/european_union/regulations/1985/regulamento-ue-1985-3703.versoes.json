@@ -1,0 +1,312 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31985R3703:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01985R3703-20060728",
+ "dre_path": null,
+ "source_lastmod": "2006-07-28",
+ "versions": [
+  {
+   "date": "1985-12-28",
+   "future": false,
+   "celex": "31985R3703",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f925c90dd2d5cee9",
+    "1da8f8418c51ac14",
+    "fb01b225069e9a54",
+    "07e23a1d1976fec9",
+    "5c0784d8165d1916",
+    "0b56d9a4e9373bc9",
+    "dca6d05a48b3058a",
+    "77eec3994eee1d48",
+    "86c62d3d9b4c57f6",
+    "252e28737b9373d4",
+    "f10d9387971eec18"
+   ]
+  },
+  {
+   "date": "2006-07-28",
+   "future": false,
+   "celex": "01985R3703-20060728",
+   "acts": [
+    {
+     "id": "eu:celex:31989R3506:por",
+     "title": "REGULAMENTO (CEE) N. o 3506/89 DA COMISSÃO de 23 de Novembro de 1989",
+     "published": null,
+     "celex": "31989R3506"
+    },
+    {
+     "id": "eu:celex:32006R1115:por",
+     "title": "REGULAMENTO (CE) N. o 1115/2006 DA COMISSÃO de 20 de Julho de 2006",
+     "published": null,
+     "celex": "32006R1115"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo [►M1](http://publications.europa.eu/resource/celex/31989R3506) 10.º ◄",
+    "Adita Artigo [►M1](http://publications.europa.eu/resource/celex/31989R3506) 11.º ◄",
+    "Adita Artigo [►M1](http://publications.europa.eu/resource/celex/31989R3506) 12.º ◄",
+    "Adita ANEXO [►M1](http://publications.europa.eu/resource/celex/31989R3506) I◄",
+    "Adita ANEXO II",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime ANEXO — >PIC FILE= \"T0028077\">"
+   ],
+   "fragments": [
+    "bef2739dbf59d994",
+    "41c03138d06516b6",
+    "b8840446d67a0fc6",
+    "78c7749d11027cd2",
+    "b4fedba3d92a9a0e",
+    "c0f44c102cbb70b6",
+    "e06f62855e7ef84b",
+    "9d9a19c08ecaa577",
+    "20395a396d6ffc8f",
+    "f1244ef4059297cb",
+    "4b2f25b98e354f2d",
+    "b3b468a3ce41ff75",
+    "5b69576a71394797",
+    "3eb2c475f0a8bd8b",
+    "7d44584095b6d81c",
+    "a6e9b4b462711d2c"
+   ]
+  }
+ ],
+ "fragments": {
+  "f925c90dd2d5cee9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 3703/85 da Comissão, de 23 de Dezembro de 1985, que estabelece as modalidades de aplicação relativas às normas comuns de comercialização para certos peixes frescos ou refrigerados** *Jornal Oficial nº L 351 de 28/12/1985 p. 0063 - 0065 Edição especial finlandesa: Capítulo 4 Fascículo 2 p. 0068 Edição especial espanhola: Capítulo 04 Fascículo 4 p. 0093 Edição especial sueca: Capítulo 4 Fascículo 2 p. 0068 Edição especial portuguesa: Capítulo 04 Fascículo 4 p. 0093*\n\nREGULAMENTO (CEE) Nº 3703/85 DA COMISSÃO de 23 de Dezembro de 1985 que estabelece as modalidades de aplicação relativas às normas comuns de comercialização para certos peixes frescos ou refrigerados\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) nº 3796/81 do Conselho, de 29 de Dezembro de 1981, relativo à organização comum de mercados no sector dos produtos de pesca (1), com a última redacção que lhe foi dada pelo Acto de Adesão da Espanha e de Portugal e, nomeadamente, o nº 4 do seu artigo 4º,\n\nTendo em conta o Regulamento (CEE) nº 103/76 do Conselho, de 19 de Janeiro de 1979, relativo ao estabelecimento das normas comuns de comercialização para certos peixes frescos ou refrigerados (2), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 3396/85 do Conselho (3) e, nomeadamente, os seus artigos 6º, 8º e 8º A,\n\nConsiderando que a experiência adquirida mostrou a necessidade de precisar certas disposições relativas à aplicação de normas comuns de comercialização, fixadas pelo Regulamento (CEE) nº 103/76 a fim de assegurar uma aplicação mais harmonizada dessas normas nos Estados-membros;\n\nConsiderando que o sistema de classificação por amostragem para o arenque e as sardas e cavalas previsto no artigo 8º A do Regulamento (CEE) nº 103/76, deve ser efectuado de modo a assegurar o respeito das normas comunitárias para essas espécies; que, a fim de garantir que a extrapolação dos resultados da classificação por amostragem no conjunto dos lotes em causa tenha fundamento, é conveniente fixar o número de amostras a prever, o peso ou o volume de cada amostra, bem como os métodos de apreciação de classificação e de verificação do peso dos lotes comercializados, tendo em conta os diferentes modos de colocação à venda;\n\nConsiderando que, a fim de contribuir para a melhoria da qualidade dos peixes calssificados com base num sistema de amostragem e de evitar a comercialização dos peixes cujo grau de frescura não seja suficiente, os Estados-membros em causa devem estabelecer um regime de controlo incluindo entre outras, inspecções dos meios técnicos de conservação instalados nos navios que desembarcam os peixes em questão;\n\nConsiderando que as medidas previstas pelo presente regulamento estão conformes ao parecer do Comité de Gestão dos Produtos da Pesca,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1da8f8418c51ac14": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO presente regulamento estabelece as modalidades de aplicação relativas ao controlo de conformidade com as normas comuns de comercialização fixadas pelo Regulamento (CEE) nº 103/76 para a classificação e a pesagem de certos peixes."
+  },
+  "fb01b225069e9a54": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nConsidera-se um lote homogéneo, na acepção do nº 1 do artigo 7º e do nº 3 do artigo 8º do Regulamento (CEE) nº 103/76 se apenas contiver uma quantidade que não ultrapasse 10 % da quantidade total, da categoria de frescura e de calibragem imediatamente inferior e/ou superior à que é indicada para a caixa ou o lote em questão."
+  },
+  "07e23a1d1976fec9": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nAquando da classificação das quantidades desembarcadas de um navio de um produto determinado, as quantidades totais dos lotes considerados como sendo de pouco volume na acepção do nº 1 do artigo 7º e do nº 3 do artigo 8º do Regulamento (CEE) nº 103/76, não devem ultrapassar 100 quilogramas do produto em questão (desembarcado desse navio e destinado a ser comercializado em relação a uma venda determinada). Todavia, as autoridades competentes dos Estados-membros são autorizadas a fixar uma quantidade inferior a 100 quilogramas desde que as condições específicas da produção e da comercialização o exijam."
+  },
+  "5c0784d8165d1916": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs Estados-membros tomarão todas as medidas necessárias a fim de assegurar que a classificação de um produto, em conformidade com as disposições do Regulamento (CEE) nº 103/76, só possa ser alterada no âmbito da primeira colocação à venda sob o controlo das autoridades competentes."
+  },
+  "0b56d9a4e9373bc9": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nA fim de assegurar que o conteúdo das caixas normalizadas corresponda à sua capacidade presumida, como é previsto no nº 4 do artigo 8º do Regulamento (CEE) nº 103/76, deve pelo menos ser pesada de uma caixa em cem, sem prejuízo de disposições nacionais ou de práticas comerciais mais restritivas aplicadas nos Estados-membros.\n\nSerá admitida uma variação do peso líquido, tal como é prevista no nº 5 do artigo 8º do Regulamento (CEE) nº 103/76, inferior ou superior, de 5 % ao peso indicado ou presumido, sem prejuízo de disposições nacionais mais restritivas em matéria de direito comercial. (1) JO nº L 379 de 31.12.1981, p. 1. (2) JO nº L 20 de 28.1.1976, p. 29. (3) JO nº L 322 de 3.12.1985, p. 1."
+  },
+  "dca6d05a48b3058a": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. A classificação do arenque e das sardas e cavalas nas diferentes categorias de frescura e de calibragem, com base num sistema de amostragem, tal como é previsto no artigo 8º A do Regulamento (CEE) nº 103/76, será efectuada de acordo com as modalidades definidas nos números seguintes.\n\n2. As amostras são recolhidas dentro da quantidade destinada a ser colocada à venda, de acordo com as seguintes modalidades: - em relação a qualquer quantidade inferior a 50 toneladas, recolha de pelo menos uma amostra de 50 quilogramas,\n\n- em relação a qualquer quantidade compreendida entre 50 e 100 toneladas, recolha de pelo menos duas amostras de 50 quilogramas cada uma,\n\n- em relação a qualquer quantidade superior a 100 toneladas, recolha de pelo menos três amostras de 50 quilogramas cada uma ou tantas amostras de 50 quilogramas para atingir uma amostra total de pelo menos igual a 0,08 % das quantidades em causa.\n\nNo caso de os desembarques serem efectuados por um navio equipado de tanques de conservação para os peixes, as amostras serão recolhidas do conteúdo de cada tanque, tendo em conta as disposições citadas.\n\n3. As amostras serão recolhidas de modo que sejam representativas em relação às quantidades em questão, tendo em conta práticas comerciais aplicadas na matéria, nos Estados-membros.\n\nA recolha das amostras efectua-se de modo regular, determinada em função do número de amostras a recolher e da quantidade total destinada a ser colocada à venda.\n\n4. As quantidades em questão, destinadas a ser colocadas à venda, são em seguida classificadas em conformidade com as disposições do Regulamento (CEE) nº 103/76, em função dos resultados da amostragem e sem prejuízo das disposições seguintes bem como, de uma inspecção visual complementar.\n\nSe resultar de uma amostra recolhida: a) Que os peixes examinados correspondem à mesma categoria de frescura e de calibragem, as quantidades em questão são classificadas com base nesse resultado.\n\nSerá admitida uma variação da calibragem e da frescura tal como é prevista no artigo 2º;\n\nb) Que uma parte dos peixes examinados, representando mais de 10 % da quantidade da amostra é conforme à categoria B, o número de amostras a recolher será pelo menos em dobro. Todavia, as quantidades em questão não podem ser classificadas numa categoria superior à categoria B;\n\nc) Que uma parte dos peixes examinados não preenchem as condições para serem comercializadas para o consumo humano, as quantidades em questão serão excluídas desse destino, excepto se uma classificação em conformidade com as disposições dos artigos 6º a 8º do Regulamento (CEE) nº 103/76, mostrar que uma parte pode ser comercializada para o consumo humano."
+  },
+  "77eec3994eee1d48": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. A fim de verificar o peso das quantidades colocadas à venda e descarregadas eml terra, proceder-se-á à pesagem dos recipientes ou do veículo de transporte no qual essas quantidades estão carregadas.\n\nNo caso de uma tal pesagem não poder ser efectuada, o peso das quantidades descarregadas será calculado com base no conteúdo presumido das caixas normalizadas nas quais as quantidades devem ser descarregadas. Todavia, será efectuada uma pesagem suplementar por sondagem em relação a essas caixas normalizadas.\n\n2. No caso de as quantidades serem apresentadas nas lotas públicas, em caixas normalizadas, a fim de serem comercializadas para uma venda determinada, a pesagem será efectuada de acordo com o disposto no artigo 5º.\n\n3. O peso das quantidades transbordadas a bordo de um navio será calculado aplicando os coeficientes que constam do Anexo I: - por um lado, ao volume das capturas de cada navio ou ao conteúdo de cada tanque, medidos pelos meios técnicos adequados,\n\n- por outro lado, ao volume das quantidades transbordadas sobre o navio de transformação, medido por meio de um recipiente aprovado pelo serviço de aferimento de pesos e medidas do Estado-membro em causa."
+  },
+  "86c62d3d9b4c57f6": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nNo quadro de um sistema de amostragem, os Estados-membros tomarão as medidas necessárias a fim de assegurar nomeadamente que: - todos os navios disponham dos meios adequados e utilizem esses meios garantindo a manutenção da qualidade dos produtos em causa, de acordo com os critérios referidos no Regulamento (CEE) nº 103/76,\n\n- no que diz respeito aos navios equipados de tanques de conservação, que os tanques estejam bem limpos e que a temperatura nos tanques permita uma conservação adequada e que essa temperatura possa ser verificada,\n\n- todas as quantidades comercializadas sejam registadas, descritas por categorias de frescura e de calibragem. O registo efectua-se, no caso referido no nº 1 do artigo 7º, com base em documentos comprovativos assinados pelo capitão do navio em causa e pelo comprador e, no caso referido no nº 3 do artigo 7º com base naqueles documentos assinados pelos capitães dos navios em causa."
+  },
+  "252e28737b9373d4": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 23 de Dezembro de 1985.\n\nPela Comissão\n\nKarl-Heinz NARJES\n\nVice-Presidente"
+  },
+  "f10d9387971eec18": {
+   "fragment_id": "ANEXO — >PIC FILE= \"T0028077\">",
+   "type": "divisao",
+   "heading": "ANEXO — >PIC FILE= \"T0028077\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — >PIC FILE= \"T0028077\">"
+  },
+  "bef2739dbf59d994": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Dezembro de 1985\n\nque estabelece as modalidades de aplicação relativas às normas comuns de comercialização para certos peixes frescos ou refrigerados\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) n.º 3796/81 do Conselho, de 29 de Dezembro de 1981, relativo à organização comum de mercados no sector dos produtos de pesca ([^1^](http://publications.europa.eu/resource/cellar/1824a894-c3bb-4671-96cf-428f4da888c0.0017.03/DOC_1#E0001)), com a última redacção que lhe foi dada pelo Acto de Adesão da Espanha e de Portugal e, nomeadamente, o n.º 4 do seu artigo 4.º,\n\nTendo em conta o Regulamento (CEE) n.º 103/76 do Conselho, de 19 de Janeiro de 1979, relativo ao estabelecimento das normas comuns de comercialização para certos peixes frescos ou refrigerados ([^2^](http://publications.europa.eu/resource/cellar/1824a894-c3bb-4671-96cf-428f4da888c0.0017.03/DOC_1#E0002)), com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 3396/85 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/1824a894-c3bb-4671-96cf-428f4da888c0.0017.03/DOC_1#E0003)) e, nomeadamente, os seus artigos 6.º, 8.º e 8.º *A*,\n\nConsiderando que a experiência adquirida mostrou a necessidade de precisar certas disposições relativas à aplicação de normas comuns de comercialização, fixadas pelo Regulamento (CEE) n.º 103/76 a fim de assegurar uma aplicação mais harmonizada dessas normas nos Estados-membros;\n\nConsiderando que o sistema de classificação por amostragem para o arenque e as sardas e cavalas previsto no artigo 8.º *A* do Regulamento (CEE) n.º 103/76, deve ser efectuado de modo a assegurar o respeito das normas comunitárias para essas espécies; que, a fim de garantir que a extrapolação dos resultados da classificação por amostragem no conjunto dos lotes em causa tenha fundamento, é conveniente fixar o número de amostras a prever, o peso ou o volume de cada amostra, bem como os métodos de apreciação de classificação e de verificação do peso dos lotes comercializados, tendo em conta os diferentes modos de colocação à venda;\n\nConsiderando que, a fim de contribuir para a melhoria da qualidade dos peixes calssificados com base num sistema de amostragem e de evitar a comercialização dos peixes cujo grau de frescura não seja suficiente, os Estados-membros em causa devem estabelecer um regime de controlo incluindo entre outras, inspecções dos meios técnicos de conservação instalados nos navios que desembarcam os peixes em questão;\n\nConsiderando que as medidas previstas pelo presente regulamento estão conformes ao parecer do Comité de Gestão dos Produtos da Pesca,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "41c03138d06516b6": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece as modalidades de aplicação relativas ao controlo de conformidade com as normas comuns de comercialização fixadas pelo Regulamento (CEE) n.º 103/76 para a classificação e a pesagem de certos peixes."
+  },
+  "b8840446d67a0fc6": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nConsidera-se um lote homogéneo, na acepção do n.º 1 do artigo 7.º e do n.º 3 do artigo 8.º do Regulamento (CEE) n.º 103/76 se apenas contiver uma quantidade que não ultrapasse 10 % da quantidade total, da categoria de frescura e de calibragem imediatamente inferior e/ou superior à que é indicada para a caixa ou o lote em questão."
+  },
+  "78c7749d11027cd2": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAquando da classificação das quantidades desembarcadas de um navio de um produto determinado, as quantidades totais dos lotes considerados como sendo de pouco volume na acepção do n.º 1 do artigo 7.º e do n.º 3 do artigo 8.º do Regulamento (CEE) n.º 103/76, não devem ultrapassar 100 quilogramas do produto em questão (desembarcado desse navio e destinado a ser comercializado em relação a uma venda determinada). Todavia, as autoridades competentes dos Estados-membros são autorizadas a fixar uma quantidade inferior a 100 quilogramas desde que as condições específicas da produção e da comercialização o exijam."
+  },
+  "b4fedba3d92a9a0e": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-membros tomarão todas as medidas necessárias a fim de assegurar que a classificação de um produto, em conformidade com as disposições do Regulamento (CEE) n.º 103/76, só possa ser alterada no âmbito da primeira colocação à venda sob o controlo das autoridades competentes."
+  },
+  "c0f44c102cbb70b6": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA fim de assegurar que o conteúdo das caixas normalizadas corresponda à sua capacidade presumida, como é previsto no n.º 4 do artigo 8.º do Regulamento (CEE) n.º 103/76, deve pelo menos ser pesada uma caixa em cem, sem prejuízo de disposições nacionais ou de práticas comerciais mais restritivas aplicadas nos Estados-membros.\n\nSerá admitida uma variação do peso líquido, tal como é prevista no n.º 5 do artigo 8.º do Regulamento (CEE) n.º 103/76, inferior ou superior de 5 % ao peso indicado ou presumido, sem prejuízo de disposições nacionais mais restritivas em matéria de direito comercial."
+  },
+  "e06f62855e7ef84b": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA classificação e a indicação da categoria de calibragem e de frescura referida nos artigos 7.º e 8.º do Regulamento (CEE) n.º 103/76 são efectuadas num prazo razoável antes da primeira colocação à venda, de modo a facilitar o controlo previsto no artigo 4.º do Regulamento (CEE) n.º 3796/81."
+  },
+  "9d9a19c08ecaa577": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A classificação das espécies constantes do anexo II nas diferentes categorias de frescura e de calibragem será efectuada, com base num sistema de amostragem, tal como previsto no artigo 9.º do Regulamento (CEE) n.º 103/76, de acordo com as regras definidas nos números seguintes e no artigo 8.º.\n\n2. As amostras são colhidas de modo a serem representativas em relação às quantidades em questão, tendo em conta as práticas comerciais aplicadas, neste domínio, nos Estados-membros. A colheita das amostras efectuar-se-á de modo regular, determinado em função do peso das amostras a colher e da quantidade total destinada a ser colocada à venda.\n\n3. As amostras são colhidas, dentro da quantidade destinada a ser colocada à venda, da forma seguinte, desde que as mesmas sejam de um peso pelo menos igual a 0,08 % para as quantidades superiores a 100 toneladas:\n\nQuantidade destinada a ser colocada à venda (t) Peso mínimo da amostra a colher (k)\n\nmenos que 5 8\n\n5 a 15 exclusive 20\n\n15 a 40 exclusive 40\n\n40 a 60 exclusive 60\n\n60 a 80 exclusive 80\n\n80 a 100 exclusive 100\n\nmais que 100 120\n\n4. No caso de os desembarques serem efectuados por um navio equipado de reservatórios de conservação para o peixe, as amostras são colhidas do conteúdo de cada reservatório, tendo em conta as disposições acima citadas."
+  },
+  "20395a396d6ffc8f": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Todos os peixes de cada amostra são classificados em conformidade com as disposições do Regulamento (CEE) n.º 103/76. A frescura verifica-se segundo os critérios que figuram nos pontos I do anexo A do referido regulamento.\n\nAs quantidades em causa, destinadas a ser colocadas à venda, são em seguida classificadas segundo a mesma classificação que a dos peixes da amostra, sob reserva de que uma inspecção visual das quantidades em causa não dê lugar a dúvidas sobre a representatividade da amostra.\n\nÉ admitida uma variação da calibragem e da frescura como a prevista no artigo 2.º.\n\n2. Se de uma amostra colhida resultar:\n\na) Que uma parte dos peixes examinados, representando mais de 10 % da quantidade da amostra, é conforme à categoria B, o peso da amostra a colher, segundo o n.º 3 do artigo 7.º, será pelo menos o dobro. Um número de peixes adequado será igualmente examinado de acordo com os critérios de frescura constantes dos pontos II do anexo A do Regulamento (CEE) n.º 103/76. As quantidades em questão podem ser classificadas numa categoria superior à categoria B, se a qualidade de todos os peixes da segunda amostra for superior à categoria B;\n\nb) Que uma parte dos peixes examinados não satisfaz as condições para ser comercializada para consumo humano, as quantidades em questão serão excluídas desse destino, excepto se uma classificação efectuada em conformidade com as disposições dos artigos 6.º, 7.º e 8.º do Regulamento (CEE) n.º 103/76 mostrar que uma parte pode ser comercializada para consumo humano;\n\nc) Que determinadas quantidades podem não ser homogéneas quanto à frescura e ao tamanho, os peritos referidos no artigo 11.º do Regulamento (CEE) n.º 103/76 decidirão do peso da amostra suplementar a colher.\n\n3. Se de uma inspecção visual dos peixes resultar que os mesmos não foram conservados a bordo do navio da forma prevista no n.º 6 do artigo 6.º do Regulamento (CEE) n.º 103/76, aplicar-se-á o método de apreciação definido na alínea a) do n.º 2."
+  },
+  "f1244ef4059297cb": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros assegurarão, através de controlos efectuados regularmente, o respeito das disposições do Regulamento (CEE) n.º 103/76 relativas aos produtos classificados de acordo com o sistema de amostragem."
+  },
+  "4b2f25b98e354f2d": {
+   "fragment_id": "Artigo [►M1](http://publications.europa.eu/resource/celex/31989R3506) 10.º ◄",
+   "type": "artigo",
+   "heading": "Artigo [►M1](http://publications.europa.eu/resource/celex/31989R3506) 10.º ◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo [►M1](http://publications.europa.eu/resource/celex/31989R3506) 10.º ◄\n\n1. A fim de verificar o peso das quantidades colocadas à venda e descarregadas em terra, proceder-se-á à pesagem dos recipientes ou do veículo de transporte no qual essas quantidades estão carregadas.\n\nNo caso de uma tal pesagem não poder ser efectuada, o peso das quantidades descarregadas será calculado com base no conteúdo presumido das caixas normalizadas nas quais as quantidades devem ser descarregadas. Todavia, será efectuada uma pesagem suplementar por sondagem em relação a essas caixas normalizadas.\n\n2. No caso de as quantidades serem apresentadas nas lotas públicas em caixas normalizadas, a fim de serem comercializadas para uma venda determinada, a pesagem será efectuada de acordo com o disposto no artigo 5.º.\n\n3. O peso das quantidades transbordadas a bordo de um navio será calculado aplicando os coeficientes que constam do anexo I:\n\n— por um lado, ao volume das capturas de cada navio ou ao conteúdo de cada tanque, medidos pelos meios técnicos adequados,\n\n— por outro lado, ao volume das quantidades transbordadas sobre o navio de transformação, medido por meio de um recipiente aprovado pelo serviço de aferimento de pesos e medidas do Estado-membro em causa."
+  },
+  "b3b468a3ce41ff75": {
+   "fragment_id": "Artigo [►M1](http://publications.europa.eu/resource/celex/31989R3506) 11.º ◄",
+   "type": "artigo",
+   "heading": "Artigo [►M1](http://publications.europa.eu/resource/celex/31989R3506) 11.º ◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo [►M1](http://publications.europa.eu/resource/celex/31989R3506) 11.º ◄\n\nNo quadro de um sistema de amostragem, os Estados-membros tomarão as medidas necessárias a fim de assegurar nomeadamente que:\n\n— todos os navios disponham dos meios adequados e utilizem esses meios garantindo a manutenção da qualidade dos produtos em causa, de acordo com os critérios referidos no Regulamento (CEE) n.º 103/76,\n\n— no que diz respeito aos navios equipados de tanques de conservação, que os tanques estejam bem limpos e que a temperatura nos tanques permita uma conservação adequada e que essa temperatura possa ser verificada,\n\n— todas as quantidades comercializadas sejam registadas, descritas por categorias de frescura e de calibragem. O registo efectua-se, no caso referido no n.º 1 do artigo [**►M1**](http://publications.europa.eu/resource/celex/31989R3506) 10.º **◄**com base em documentos comprovativos assinados pelo capitão do navio em causa e pelo comprador e, no caso referido no n.º 3 do artigo [**►M1**](http://publications.europa.eu/resource/celex/31989R3506) 10.º **◄** com base naqueles documentos assinados pelos capitães dos navios em causa."
+  },
+  "5b69576a71394797": {
+   "fragment_id": "Artigo [►M1](http://publications.europa.eu/resource/celex/31989R3506) 12.º ◄",
+   "type": "artigo",
+   "heading": "Artigo [►M1](http://publications.europa.eu/resource/celex/31989R3506) 12.º ◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo [►M1](http://publications.europa.eu/resource/celex/31989R3506) 12.º ◄\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "3eb2c475f0a8bd8b": {
+   "fragment_id": "ANEXO [►M1](http://publications.europa.eu/resource/celex/31989R3506) I◄",
+   "type": "divisao",
+   "heading": "ANEXO [►M1](http://publications.europa.eu/resource/celex/31989R3506) I◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO [►M1](http://publications.europa.eu/resource/celex/31989R3506) I◄\n\n| Espécie | Tamanho [(^1^)](http://publications.europa.eu/resource/cellar/1824a894-c3bb-4671-96cf-428f4da888c0.0017.03/DOC_1#E0004) | Volume (m^3^) | Coeficientes |\n| --- | --- | --- | --- |\n| Arenques | 1 | 1 | 0,86 |\n| 2 |  |  |  |\n| 3 |  |  |  |\n| Sardas e cavalas | 1 | 1 | 0,8 |\n| 2 |  |  |  |\n| 3 |  |  |  |\n| [▼M2](http://publications.europa.eu/resource/celex/32006R1115) |  |  |  |\n| Espadilha | 1 | 1 | 0,92 |\n| (^1^)As categorias de tamanho são definidas em aplicação do artigo 2.º do Regulamento (CEE) n.º 3796/81. |  |  |  |"
+  },
+  "7d44584095b6d81c": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n1. Arenques da espécie *Clupea harengus*\n\n2. Sardinhas da espécie *Sardina pilchardus*\n\n3. Sardas da espécie *Scomber scombrus*\n\n4. Cavalas da espécie *Scomber japonicus*\n\n5. Carapaus e chicharros da espécie *Trachurus spp*\n\n6. Biqueirão da espécie *Engraulis spp*\n\n7. Dobradas da espécie *Maena smaris*\n\n8. Espadilha da espécie *Sprattus sprattus*\n\n---"
+  },
+  "a6e9b4b462711d2c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/1824a894-c3bb-4671-96cf-428f4da888c0.0017.03/DOC_1#src.E0001)) JO n.º L 379 de 31. 12. 1981, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/1824a894-c3bb-4671-96cf-428f4da888c0.0017.03/DOC_1#src.E0002)) JO n.º L 20 de 28. 1. 1976, p. 29.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/1824a894-c3bb-4671-96cf-428f4da888c0.0017.03/DOC_1#src.E0003)) JO n.º L 322 de 3. 12. 1985, p. 1."
+  }
+ }
+}

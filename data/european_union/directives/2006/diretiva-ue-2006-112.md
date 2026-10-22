@@ -34,6 +34,776 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-04-14'
+version_history:
+  file: diretiva-ue-2006-112.versoes.json
+  count: 28
+  source_lastmod: '2025-04-14'
+  versions:
+  - date: '2006-12-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0138:por
+    amending_title: DIRECTIVA 2006/138/CE DO CONSELHO de 19 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 59.º
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 204.º
+    - Altera Artigo 233.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera Artigo 357.º
+    - Altera Artigo 414.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita LISTA DAS ACTIVIDADES A QUE SE REFERE O TERCEIRO PARÁGRAFO DO N.º 1 DO ARTIGO 13.º
+    - Adita ANEXO II
+    - Adita LISTA INDICATIVA DOS SERVIÇOS PRESTADOS POR VIA ELECTRÓNICA A QUE SE REFERE A ALÍNEA K) DO N.º 1 DO ARTIGO 56.º
+    - Adita ANEXO III
+    - Adita LISTA DAS ENTREGAS DE BENS E DAS PRESTAÇÕES DE SERVIÇOS A QUE SE PODEM APLICAR AS TAXAS REDUZIDAS PREVISTAS NO
+      ARTIGO 98.º
+    - Adita ANEXO IV
+    - Adita LISTA DOS SERVIÇOS A QUE SE REFERE O ARTIGO 106.º
+    - Adita ANEXO V
+    - Adita CATEGORIAS DE BENS ABRANGIDAS PELOS REGIMES DE ENTREPOSTOS NÃO ADUANEIROS PREVISTOS NO N.º 2 DO ARTIGO 160.º
+    - Adita ANEXO VI
+    - Adita LISTA DAS ENTREGAS DE BENS E DAS PRESTAÇÕES DE SERVIÇOS A QUE SE REFERE A ALÍNEA D) DO N.º 1 DO ARTIGO 199.º
+    - Adita ANEXO VII
+    - Adita LISTA DAS ACTIVIDADES DE PRODUÇÃO AGRÍCOLA A QUE SE REFERE O PONTO 4) DO N.º 1 DO ARTIGO 295.º
+    - Adita ANEXO VIII
+    - Adita LISTA INDICATIVA DAS PRESTAÇÕES DE SERVIÇOS AGRÍCOLAS A QUE SE REFERE O PONTO 5) DO N.º 1 DO ARTIGO 295.º
+    - Adita ANEXO IX
+    - Adita OBJECTOS DE ARTE E DE COLECÇÃO OU ANTIGUIDADES A QUE SE REFEREM OS PONTOS 2), 3) E 4) DO N.º 1 DO ARTIGO 311.º
+    - Adita PARTE A
+    - Adita Objectos de arte
+    - Adita PARTE B
+    - Adita Objectos de colecção
+    - Adita PARTE C
+    - Adita Antiguidades
+    - Adita ANEXO X
+    - Adita LISTA DAS OPERAÇÕES OBJECTO DAS DERROGAÇÕES PREVISTAS NOS ARTIGOS 370.º E 371.º E NOS ARTIGOS 375.º A 390.º
+  - date: '2007-12-29'
+    amending: eu:celex:32007L0075:por
+    amending_title: DIRECTIVA 2007/75/CE DO CONSELHO de 20 de Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 17.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Altera Artigo 56.º
+    - Altera Artigo 81.º
+    - Altera Artigo 83.º
+    - Altera Artigo 123.º
+    - Altera Artigo 125.º
+    - Altera Artigo 127.º
+    - Altera Artigo 128.º
+    - Altera Artigo 129.º
+    - Altera Artigo 133.º
+    - Altera Artigo 143.º
+    - Altera Artigo 151.º
+    - Altera Artigo 168.º
+    - Altera Artigo 170.º
+    - Altera Artigo 204.º
+    - Altera Artigo 233.º
+    - Altera Artigo 271.º
+    - Altera Artigo 284.º
+    - Altera Artigo 306.º
+    - Altera Artigo 356.º
+    - Altera Artigo 396.º
+    - Altera Artigo 399.º
+    - Altera QUADRO DE CORRESPONDÊNCIA
+    - Altera Notas
+    - Adita Entregas de bens através das redes de distribuição
+    - Suprime Entregas de bens através dos sistemas de distribuição
+    - Suprime Artigo 124.º
+    - Suprime Artigo 126.º
+    - Suprime Artigo 130.º
+  - date: '2009-01-01'
+    amending: eu:celex:32008L0008:por
+    amending_title: DIRECTIVA 2008/8/CE DO CONSELHO de 12 de Fevereiro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 59.º
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 204.º
+    - Altera Artigo 233.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera Artigo 357.º
+    - Altera Notas
+  - date: '2009-01-21'
+    amending: eu:celex:32008L0117:por
+    amending_title: DIRECTIVA 2008/117/CE DO CONSELHO de 16 de Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 64.º
+    - Altera Artigo 66.º
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 204.º
+    - Altera Artigo 233.º
+    - Altera Artigo 263.º
+    - Altera Artigo 264.º
+    - Altera Artigo 265.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera Notas
+  - date: '2009-06-01'
+    amending: eu:celex:32009L0047:por
+    amending_title: DIRECTIVA 2009/47/CE DO CONSELHO de 5 de Maio de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 105.º
+    - Altera Artigo 114.º
+    - Altera Artigo 115.º
+    - Altera Artigo 117.º
+    - Altera Artigo 125.º
+    - Altera Artigo 128.º
+    - Altera Artigo 129.º
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 204.º
+    - Altera Artigo 233.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera LISTA DAS ENTREGAS DE BENS E DAS PRESTAÇÕES DE SERVIÇOS A QUE SE PODEM APLICAR AS TAXAS REDUZIDAS PREVISTAS NO
+      ARTIGO 98.º
+    - Altera Notas
+    - Adita Artigo 104.ºA
+    - Suprime Artigo 104.º
+    - Suprime Disposições temporárias relativas a determinados serviços com grande intensidade do factor trabalho
+    - Suprime Artigo 106.º
+    - Suprime Artigo 107.º
+    - Suprime Artigo 108.º
+    - Suprime Artigo 116.º
+    - Suprime ANEXO IV
+    - Suprime LISTA DOS SERVIÇOS A QUE SE REFERE O ARTIGO 106.º
+  - date: '2009-07-24'
+    amending: eu:celex:32009L0069:por
+    amending_title: DIRECTIVA 2009/69/CE DO CONSELHO de 25 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 22.º
+    - Altera Artigo 140.º
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 204.º
+    - Altera Artigo 233.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera Notas
+  - date: '2010-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+    - Altera Artigo 50.º
+    - Altera Artigo 51.º
+    - Altera Artigo 52.º
+    - Altera Artigo 53.º
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 58.º
+    - Altera Artigo 59.º
+    - Altera Artigo 98.º
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 171.º
+    - Altera Artigo 196.º
+    - Altera Artigo 204.º
+    - Altera Artigo 214.º
+    - Altera Artigo 233.º
+    - Altera Artigo 262.º
+    - Altera Artigo 264.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera Artigo 358.º
+    - Altera Notas
+    - Adita Prestações de serviços efectuadas por intermediários a pessoas que não sejam sujeitos passivos
+    - Adita Prestações de serviços culturais, artísticos, desportivos, científicos, educativos, recreativos e similares, prestações
+      de serviços acessórios dos transportes, peritagens e trabalhos relativos a bens móveis
+    - Adita Prestações de serviços de restauração e de catering
+    - Adita Locação de meios de transporte
+    - Adita Subsecção 7
+    - Adita Prestações de serviços de restauração e de catering para consumo a bordo de embarcações, aeronaves ou comboios
+    - Adita Subsecção 8
+    - Adita Prestação de serviços electrónicos a pessoas que não sejam sujeitos passivos
+  - date: '2010-01-15'
+    amending: eu:celex:32009L0162:por
+    amending_title: DIRECTIVA 2009/162/UE DO CONSELHO de 22 de Dezembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 59.º
+    - Altera Artigo 80.º
+    - Altera Artigo 102.º
+    - Altera Artigo 136.º
+    - Altera Artigo 143.º
+    - Altera Artigo 151.º
+    - Altera Artigo 170.º
+    - Altera Artigo 204.º
+    - Altera Artigo 221.º
+    - Altera Artigo 233.º
+    - Altera Artigo 284.º
+    - Altera Artigo 287.º
+    - Altera Artigo 356.º
+    - Altera Artigo 391.º
+    - Altera Notas
+    - Adita Fornecimentos de gás través de uma rede de gás natural, de electricidade, e de calor ou de frio através das redes
+      de aquecimento e de arrefecimento
+    - Adita Artigo 168.º-A
+    - Adita Artigo 390.º-A
+    - Adita Artigo 390.º-B
+    - Adita LISTA DAS OPERAÇÕES OBJECTO DAS DERROGAÇÕES PREVISTAS NOS ARTIGOS 370.º e 371.º E NOS ARTIGOS 375.º a 390.º-B
+    - Suprime Entregas de bens através das redes de distribuição
+    - Suprime LISTA DAS OPERAÇÕES OBJECTO DAS DERROGAÇÕES PREVISTAS NOS ARTIGOS 370.º E 371.º E NOS ARTIGOS 375.º A 390.º
+  - date: '2010-04-09'
+    amending: eu:celex:32010L0023:por
+    amending_title: DIRECTIVA 2010/23/UE DO CONSELHO de 16 de Março de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 204.º
+    - Altera Artigo 233.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera Notas
+    - Adita Artigo 199.ºA
+  - date: '2010-08-11'
+    amending: eu:celex:32010L0045:por
+    amending_title: DIRECTIVA 2010/45/UE DO CONSELHO de 13 de Julho de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 17.º
+    - Altera Artigo 64.º
+    - Altera Artigo 66.º
+    - Altera Artigo 67.º
+    - Altera Artigo 69.º
+    - Altera Artigo 91.º
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 178.º
+    - Altera Artigo 181.º
+    - Altera Artigo 197.º
+    - Altera Artigo 199.ºA
+    - Altera Artigo 204.º
+    - Altera Artigo 217.º
+    - Altera Artigo 220.º
+    - Altera Artigo 221.º
+    - Altera Artigo 222.º
+    - Altera Artigo 223.º
+    - Altera Artigo 224.º
+    - Altera Artigo 225.º
+    - Altera Artigo 226.º
+    - Altera Artigo 230.º
+    - Altera Artigo 232.º
+    - Altera Artigo 233.º
+    - Altera Artigo 235.º
+    - Altera Artigo 236.º
+    - Altera Artigo 237.º
+    - Altera Artigo 238.º
+    - Altera Artigo 243.º
+    - Altera Artigo 247.º
+    - Altera Artigo 249.º
+    - Altera Artigo 272.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera Notas
+    - Adita Artigo 104.º
+    - Adita Artigo 167.º-A
+    - Adita Artigo 219.º-A
+    - Adita Artigo 220.º-A
+  - date: '2011-01-01'
+    amending: eu:celex:32010L0088:por
+    amending_title: DIRECTIVA 2010/88/UE DO CONSELHO de 7 de Dezembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 53.º
+    - Altera Artigo 54.º
+    - Altera Artigo 97.º
+    - Altera Artigo 111.º
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 199.ºA
+    - Altera Artigo 204.º
+    - Altera Artigo 225.º
+    - Altera Artigo 233.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera Notas
+    - Suprime Artigo 127.º
+  - date: '2013-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 56.º
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 199.ºA
+    - Altera Artigo 204.º
+    - Altera Artigo 225.º
+    - Altera Artigo 233.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: null
+    amending_title: ►A1
+    changes:
+    - Altera preambulo
+    - Altera Artigo 13.º
+    - Altera Artigo 80.º
+    - Altera Artigo 136.º
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 199.ºA
+    - Altera Artigo 204.º
+    - Altera Artigo 221.º
+    - Altera Artigo 225.º
+    - Altera Artigo 233.º
+    - Altera Artigo 284.º
+    - Altera Artigo 287.º
+    - Altera Artigo 356.º
+    - Altera Artigo 391.º
+    - Altera Notas
+    - Adita Artigo 390.º-C
+    - Adita LISTA DAS OPERAÇÕES OBJECTO DAS DERROGAÇÕES PREVISTAS NOS ARTIGOS 370.º E 371.º E NOS ARTIGOS 375.º A 390.º-C
+    - Suprime LISTA DAS OPERAÇÕES OBJECTO DAS DERROGAÇÕES PREVISTAS NOS ARTIGOS 370.º e 371.º E NOS ARTIGOS 375.º a 390.º-B
+  - date: '2013-08-15'
+    amending: eu:celex:32013L0042:por
+    amending_title: DIRETIVA 2013/42/UE DO CONSELHO de 22 de julho de 2013; DIRETIVA 2013/43/UE DO CONSELHO de 22 de julho
+      de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 193.º
+    - Altera Artigo 199.ºA
+    - Altera Artigo 204.º
+    - Altera Artigo 225.º
+    - Altera Artigo 233.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera Artigo 395.º
+    - Altera Notas
+    - Adita Artigo 199.º-B
+  - date: '2014-01-01'
+    amending: eu:celex:32013L0061:por
+    amending_title: Diretiva 2013/61/UE do Conselho de 17 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 199.ºA
+    - Altera Artigo 199.º-B
+    - Altera Artigo 204.º
+    - Altera Artigo 225.º
+    - Altera Artigo 233.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera Notas
+  - date: '2015-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 58.º
+    - Altera Artigo 59.º
+    - Altera Artigo 59.º-A
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 189.º
+    - Altera Artigo 199.ºA
+    - Altera Artigo 199.º-B
+    - Altera Artigo 204.º
+    - Altera Artigo 225.º
+    - Altera Artigo 233.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera Artigo 358.º
+    - Altera Artigo 359.º
+    - Altera Artigo 360.º
+    - Altera Artigo 361.º
+    - Altera Artigo 362.º
+    - Altera Artigo 363.º
+    - Altera Artigo 364.º
+    - Altera Artigo 365.º
+    - Altera Artigo 366.º
+    - Altera Artigo 367.º
+    - Altera Artigo 368.º
+    - Altera Artigo 369.º
+    - Altera Notas
+    - Adita Prestações de serviços de telecomunicações, de radiodifusão e televisão e serviços electrónicos a pessoas que
+      não sejam sujeitos passivos
+    - Adita Regimes especiais para sujeitos passivos não estabelecidos que prestam serviços de telecomunicações, de radiodifusão
+      e televisão ou serviços electrónicos a pessoas que não sejam sujeitos passivos
+    - Adita Regime especial para a prestação de serviços de telecomunicações, de radiodifusão e televisão ou de serviços electrónicos
+      efectuada por sujeitos passivos não estabelecidos na Comunidade
+    - Adita Artigo 358.º-A
+    - Adita Regime especial para a prestação de serviços de telecomunicações, de radiodifusão e televisão ou de serviços electrónicos
+      efectuada por sujeitos passivos estabelecidos na Comunidade, mas não no Estado-Membro de consumo
+    - Adita Artigo 369.º-A
+    - Adita Artigo 369.º-B
+    - Adita Artigo 369.º-C
+    - Adita Artigo 369.º-D
+    - Adita Artigo 369.º-E
+    - Adita Artigo 369.º-F
+    - Adita Artigo 369.º-G
+    - Adita Artigo 369.º-H
+  - date: '2016-06-01'
+    amending: eu:celex:32016L0856:por
+    amending_title: DIRETIVA (UE) 2016/856 DO CONSELHO de 25 de maio de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 97.º
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 199.ºA
+    - Altera Artigo 199.º-B
+    - Altera Artigo 204.º
+    - Altera Artigo 225.º
+    - Altera Artigo 233.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera Notas
+  - date: '2020-01-01'
+    amending: eu:celex:32016L1065:por
+    amending_title: DIRETIVA (UE) 2016/1065 DO CONSELHO de 27 de junho de 2016; DIRETIVA (UE) 2017/2455 DO CONSELHO de 5 de
+      dezembro de 2017; DIRETIVA (UE) 2018/912 DO CONSELHO de 22 de junho de 2018; DIRETIVA (UE) 2018/1695 DO CONSELHO de
+      6 de novembro de 2018; DIRETIVA (UE) 2018/1713 DO CONSELHO de 6 de novembro de 2018; DIRETIVA (UE) 2018/1910 DO CONSELHO
+      de 4 de dezembro de 2018; DIRETIVA (UE) 2018/2057 DO CONSELHO de 20 de dezembro de 2018; DIRETIVA (UE) 2019/475 DO CONSELHO
+      de 18 de fevereiro de 2019; ATO relativo às condições de adesão da República da Croácia e às adaptações do Tratado da
+      União Europeia, do Tratado sobre o Funcionamento da União Europeia e do Tratado que institui a Comunidade Europeia da
+      Energia Atómica
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 58.º
+    - Altera Artigo 97.º
+    - Altera Artigo 98.º
+    - Altera Artigo 99.º
+    - Altera Artigo 138.º
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 193.º
+    - Altera Artigo 199.ºA
+    - Altera Artigo 199.º-B
+    - Altera Artigo 204.º
+    - Altera Artigo 219.º-A
+    - Altera Artigo 225.º
+    - Altera Artigo 233.º
+    - Altera Artigo 243.º
+    - Altera Artigo 262.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera Artigo 358.º-A
+    - Altera Artigo 361.º
+    - Altera Artigo 395.º
+    - Altera LISTA DAS ENTREGAS DE BENS E DAS PRESTAÇÕES DE SERVIÇOS A QUE SE PODEM APLICAR AS TAXAS REDUZIDAS PREVISTAS NO
+      ARTIGO 98.º
+    - Altera Notas
+    - Adita Artigo 17.º-A
+    - Adita Disposições comuns aos capítulos 1 e 3
+    - Adita Artigo 30.º-A
+    - Adita Artigo 30.º-B
+    - Adita Artigo 36.º-A
+    - Adita Artigo 73.º-A
+    - Adita Artigo 199.º-C
+    - Adita CAPÍTULO 2-A
+    - Adita Medidas transitórias para a aplicação da nova legislação
+    - Adita Artigo 410.º-A
+    - Adita Artigo 410.º-B
+    - Suprime Artigo 403.º
+    - Suprime Artigo 404.º
+  - date: '2020-11-26'
+    amending: eu:celex:32020L1756:por
+    amending_title: DIRETIVA (UE) 2020/1756 DO CONSELHO de 20 de novembro de 2020
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 58.º
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 199.ºA
+    - Altera Artigo 199.º-B
+    - Altera Artigo 204.º
+    - Altera Artigo 215.º
+    - Altera Artigo 225.º
+    - Altera Artigo 233.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera Notas
+  - date: '2020-12-12'
+    amending: eu:celex:32020L2020:por
+    amending_title: DIRETIVA (UE) 2020/2020 DO CONSELHO de 7 de dezembro de 2020
+    changes:
+    - Altera Artigo 58.º
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 199.ºA
+    - Altera Artigo 199.º-B
+    - Altera Artigo 204.º
+    - Altera Artigo 225.º
+    - Altera Artigo 233.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera Notas
+    - Adita Artigo 129.º-A
+  - date: '2021-07-01'
+    amending: eu:celex:32020D1109:por
+    amending_title: M17; DIRETIVA (UE) 2019/1995 DO CONSELHO de 21 de novembro de 2019; DIRETIVA (UE) 2021/1159 DO CONSELHO
+      de 13 de julho de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 14.º
+    - Altera Artigo 33.º
+    - Altera Artigo 35.º
+    - Altera Artigo 58.º
+    - Altera Artigo 129.º-A
+    - Altera Artigo 143.º
+    - Altera Artigo 151.º
+    - Altera Artigo 169.º
+    - Altera Artigo 170.º
+    - Altera Artigo 199.ºA
+    - Altera Artigo 199.º-B
+    - Altera Artigo 204.º
+    - Altera Artigo 220.º
+    - Altera Artigo 225.º
+    - Altera Artigo 233.º
+    - Altera Artigo 272.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera Artigo 358.º
+    - Altera Artigo 358.º-A
+    - Altera Artigo 359.º
+    - Altera Artigo 362.º
+    - Altera Artigo 363.º
+    - Altera Artigo 364.º
+    - Altera Artigo 365.º
+    - Altera Artigo 368.º
+    - Altera Artigo 369.º-C
+    - Altera Artigo 369.º-E
+    - Altera Artigo 369.º-G
+    - Altera Artigo 369.º-H
+    - Altera Artigo 369.º-I
+    - Altera Artigo 369.º-J
+    - Altera Artigo 369.º-K
+    - Altera Notas
+    - Adita Artigo 14.º-A
+    - Adita Artigo 36.º‐B
+    - Adita CAPÍTULO 3-A
+    - Adita Limiar aplicável aos sujeitos passivos que efetuam entregas de bens abrangidas pelo artigo 33.º, alínea a), e
+      prestações de serviços abrangidas pelo artigo 58.º
+    - Adita Artigo 59.º-C
+  - date: '2022-04-06'
+    amending: eu:celex:32022L0542:por
+    amending_title: DIRETIVA (UE) 2022/542 DO CONSELHO de 5 de abril de 2022
+    changes:
+    - Altera preambulo
+    - Altera Artigo 59.º-A
+    - Altera Artigo 81.º
+    - Altera Artigo 98.º
+    - Altera Artigo 100.º
+    - Altera Artigo 104.º
+    - Altera Artigo 129.º-A
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 199.ºA
+    - Altera Artigo 199.º-B
+    - Altera Artigo 204.º
+    - Altera Artigo 221.º
+    - Altera Artigo 225.º
+    - Altera Artigo 233.º
+    - Altera Artigo 284.º
+    - Altera Artigo 288.º
+    - Altera Artigo 356.º
+    - Altera Artigo 369.º-M
+    - Altera Artigo 387.º
+    - Altera Notas
+    - Adita Secção 2-A
+    - Adita Situações excecionais
+    - Adita Artigo 101.º-A
+    - Adita Artigo 105.º-A
+    - Adita Artigo 105.º-B
+    - Adita LISTA DAS ENTREGAS DE BENS E PRESTAÇÕES DE SERVIÇOS A QUE SE PODEM APLICAR AS TAXAS REDUZIDAS E A ISENÇÃO COM
+      DIREITO À DEDUÇÃO DO IVA PREVISTAS NO ARTIGO 98.º
+    - Suprime Artigo 99.º
+    - Suprime Artigo 101.º
+    - Suprime Artigo 102.º
+    - Suprime Artigo 104.ºA
+    - Suprime Artigo 105.º
+    - Suprime Disposições específicas aplicáveis até à introdução do regime definitivo
+    - Suprime Artigo 109.º
+    - Suprime Artigo 110.º
+    - Suprime Artigo 111.º
+    - Suprime Artigo 112.º
+    - Suprime Artigo 113.º
+    - Suprime Artigo 114.º
+    - Suprime Artigo 115.º
+  - date: '2022-07-01'
+    amending: eu:celex:32019L2235:por
+    amending_title: DIRETIVA (UE) 2019/2235 DO CONSELHO de 16 de dezembro de 2019; DIRETIVA (UE) 2022/890 DO CONSELHO de 3
+      de junho de 2022
+    changes:
+    - Altera Artigo 22.º
+    - Altera Artigo 59.º-C
+    - Altera Artigo 101.º-A
+    - Altera Artigo 129.º-A
+    - Altera Artigo 143.º
+    - Altera Artigo 151.º
+    - Altera Artigo 170.º
+    - Altera Artigo 199.ºA
+    - Altera Artigo 199.º-B
+    - Altera Artigo 204.º
+    - Altera Artigo 225.º
+    - Altera Artigo 233.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera Artigo 369.º-M
+    - Altera LISTA DAS ENTREGAS DE BENS E PRESTAÇÕES DE SERVIÇOS A QUE SE PODEM APLICAR AS TAXAS REDUZIDAS E A ISENÇÃO COM
+      DIREITO À DEDUÇÃO DO IVA PREVISTAS NO ARTIGO 98.º
+    - Altera Notas
+    - Suprime Artigo 199.º-C
+  - date: '2024-01-01'
+    amending: eu:celex:32020L0284:por
+    amending_title: DIRETIVA (UE) 2020/284 DO CONSELHO de 18 de fevereiro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 101.º-A
+    - Altera Artigo 129.º-A
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 199.ºA
+    - Altera Artigo 199.º-B
+    - Altera Artigo 204.º
+    - Altera Artigo 225.º
+    - Altera Artigo 233.º
+    - Altera Artigo 284.º
+    - Altera Artigo 356.º
+    - Altera Artigo 369.º-M
+    - Altera LISTA DAS ENTREGAS DE BENS E PRESTAÇÕES DE SERVIÇOS A QUE SE PODEM APLICAR AS TAXAS REDUZIDAS E A ISENÇÃO COM
+      DIREITO À DEDUÇÃO DO IVA PREVISTAS NO ARTIGO 98.º
+    - Altera Notas
+    - Adita Obrigações gerais dos prestadores de serviços de pagamento
+    - Adita Artigo 243.º-A
+    - Adita Artigo 243.º-B
+    - Adita Artigo 243.º-C
+    - Adita Artigo 243.º-D
+  - date: '2025-01-01'
+    amending: eu:celex:32020L0285:por
+    amending_title: DIRETIVA (UE) 2020/285 DO CONSELHO de 18 de fevereiro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 53.º
+    - Altera Artigo 54.º
+    - Altera Artigo 94.º
+    - Altera Artigo 101.º-A
+    - Altera Artigo 129.º-A
+    - Altera Artigo 139.º
+    - Altera Artigo 143.º
+    - Altera Artigo 167.º-A
+    - Altera Artigo 169.º
+    - Altera Artigo 170.º
+    - Altera Artigo 199.ºA
+    - Altera Artigo 199.º-B
+    - Altera Artigo 204.º
+    - Altera Artigo 220.º-A
+    - Altera Artigo 225.º
+    - Altera Artigo 233.º
+    - Altera Artigo 243.º-A
+    - Altera Artigo 270.º
+    - Altera Artigo 272.º
+    - Altera Artigo 282.º
+    - Altera Artigo 283.º
+    - Altera Artigo 284.º
+    - Altera Artigo 288.º
+    - Altera Artigo 290.º
+    - Altera Artigo 314.º
+    - Altera Artigo 316.º
+    - Altera Artigo 334.º
+    - Altera Artigo 356.º
+    - Altera Artigo 369.º-M
+    - Altera LISTA DAS ENTREGAS DE BENS E PRESTAÇÕES DE SERVIÇOS A QUE SE PODEM APLICAR AS TAXAS REDUZIDAS E A ISENÇÃO COM
+      DIREITO À DEDUÇÃO DO IVA PREVISTAS NO ARTIGO 98.º
+    - Altera Notas
+    - Adita Artigo 98.º-A
+    - Adita Secção -1
+    - Adita Artigo 280.º ‐A
+    - Adita Isenções
+    - Adita Artigo 284.º ‐A
+    - Adita Artigo 284.º ‐B
+    - Adita Artigo 284.º ‐C
+  - date: '2025-03-20'
+    amending: eu:celex:32025L0425:por
+    amending_title: DIRETIVA (UE) 2025/425 DO CONSELHO de 18 de fevereiro de 2025
+    changes:
+    - Altera Artigo 101.º-A
+    - Altera Artigo 129.º-A
+    - Altera Artigo 143.º
+    - Altera Artigo 170.º
+    - Altera Artigo 199.ºA
+    - Altera Artigo 199.º-B
+    - Altera Artigo 204.º
+    - Altera Artigo 225.º
+    - Altera Artigo 233.º
+    - Altera Artigo 243.º-A
+    - Altera Artigo 356.º
+    - Altera Artigo 369.º-M
+    - Altera LISTA DAS ENTREGAS DE BENS E PRESTAÇÕES DE SERVIÇOS A QUE SE PODEM APLICAR AS TAXAS REDUZIDAS E A ISENÇÃO COM
+      DIREITO À DEDUÇÃO DO IVA PREVISTAS NO ARTIGO 98.º
+    - Altera Notas
+    - Adita Artigo 151.º-A
+    - Adita Artigo 151.º-B
+  - date: '2025-04-14'
+    amending: eu:celex:32025L0516:por
+    amending_title: DIRETIVA (UE) 2025/516 DO CONSELHO de 11 de março de 2025
+    changes:
+    - Altera Artigo 101.º-A
+    - Altera Artigo 129.º-A
+    - Altera Artigo 143.º
+    - Altera Artigo 151.º-A
+    - Altera Artigo 170.º
+    - Altera Artigo 199.ºA
+    - Altera Artigo 199.º-B
+    - Altera Artigo 204.º
+    - Altera Artigo 218.º
+    - Altera Artigo 225.º
+    - Altera Artigo 232.º
+    - Altera Artigo 233.º
+    - Altera Artigo 243.º-A
+    - Altera Artigo 356.º
+    - Altera Artigo 369.º-M
+    - Altera LISTA DAS ENTREGAS DE BENS E PRESTAÇÕES DE SERVIÇOS A QUE SE PODEM APLICAR AS TAXAS REDUZIDAS E A ISENÇÃO COM
+      DIREITO À DEDUÇÃO DO IVA PREVISTAS NO ARTIGO 98.º
+    - Altera Notas
 identifiers:
   celex: 32006L0112
   eli: http://data.europa.eu/eli/dir/2006/112/oj
@@ -48,7 +818,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ded2ee9c-f30e-4ed1-ab74-b2b7d7a7a6b6.0017
   content_url: http://publications.europa.eu/resource/cellar/03c42d77-512a-11f0-a9d0-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0112-20250414
-  retrieved_at: '2026-10-22T02:35:24Z'
+  retrieved_at: '2026-10-22T15:04:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T15:05:24.774+01:00'
 integrity:
@@ -57,9 +827,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:24Z'
-  notes: Texto consolidado 02006L0112-20250414.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:04:33Z'
+  notes: 28 versão(ões); histórico completo em diretiva-ue-2006-112.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -3296,79 +4066,19 @@ relationships:
   source: null
 article_structure:
   article_count: 449
-  section_count: 324
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 325
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:24Z'
+  checked_at: '2026-10-22T15:04:33Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2006/112/CE do Conselho, de 28 de Novembro de 2006
-
-> 02006L0112 — PT — 14.04.2025 — 031.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32006L0138) — [DIRECTIVA 2006/138/CE DO CONSELHO de 19 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006L0138) — L 384 — 92 — 29.12.2006
-- [►M2](http://publications.europa.eu/resource/celex/32007L0075) — [DIRECTIVA 2007/75/CE DO CONSELHO de 20 de Dezembro de 2007](http://publications.europa.eu/resource/celex/32007L0075) — L 346 — 13 — 29.12.2007
-- [►M3](http://publications.europa.eu/resource/celex/32008L0008) — [DIRECTIVA 2008/8/CE DO CONSELHO de 12 de Fevereiro de 2008](http://publications.europa.eu/resource/celex/32008L0008) — L 44 — 11 — 20.2.2008
-- [►M4](http://publications.europa.eu/resource/celex/32008L0117) — [DIRECTIVA 2008/117/CE DO CONSELHO de 16 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008L0117) — L 14 — 7 — 20.1.2009
-- [►M5](http://publications.europa.eu/resource/celex/32009L0047) — [DIRECTIVA 2009/47/CE DO CONSELHO de 5 de Maio de 2009](http://publications.europa.eu/resource/celex/32009L0047) — L 116 — 18 — 9.5.2009
-- [►M6](http://publications.europa.eu/resource/celex/32009L0069) — [DIRECTIVA 2009/69/CE DO CONSELHO de 25 de Junho de 2009](http://publications.europa.eu/resource/celex/32009L0069) — L 175 — 12 — 4.7.2009
-- [►M7](http://publications.europa.eu/resource/celex/32009L0162) — [DIRECTIVA 2009/162/UE DO CONSELHO de 22 de Dezembro de 2009](http://publications.europa.eu/resource/celex/32009L0162) — L 10 — 14 — 15.1.2010
-- [►M8](http://publications.europa.eu/resource/celex/32010L0023) — [DIRECTIVA 2010/23/UE DO CONSELHO de 16 de Março de 2010](http://publications.europa.eu/resource/celex/32010L0023) — L 72 — 1 — 20.3.2010
-- [►M9](http://publications.europa.eu/resource/celex/32010L0045) — [DIRECTIVA 2010/45/UE DO CONSELHO de 13 de Julho de 2010](http://publications.europa.eu/resource/celex/32010L0045) — L 189 — 1 — 22.7.2010
-- [M10](http://publications.europa.eu/resource/celex/32010L0088) — [DIRECTIVA 2010/88/UE DO CONSELHO de 7 de Dezembro de 2010](http://publications.europa.eu/resource/celex/32010L0088) — L 326 — 1 — 10.12.2010
-- [M11](http://publications.europa.eu/resource/celex/32013L0042) — [DIRETIVA 2013/42/UE DO CONSELHO de 22 de julho de 2013](http://publications.europa.eu/resource/celex/32013L0042) — L 201 — 1 — 26.7.2013
-- [►M12](http://publications.europa.eu/resource/celex/32013L0043) — [DIRETIVA 2013/43/UE DO CONSELHO de 22 de julho de 2013](http://publications.europa.eu/resource/celex/32013L0043) — L 201 — 4 — 26.7.2013
-- [►M13](http://publications.europa.eu/resource/celex/32013L0061) — [DIRETIVA 2013/61/UE DO CONSELHO de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013L0061) — L 353 — 5 — 28.12.2013
-- [M14](http://publications.europa.eu/resource/celex/32016L0856) — [DIRETIVA (UE) 2016/856 DO CONSELHO de 25 de maio de 2016](http://publications.europa.eu/resource/celex/32016L0856) — L 142 — 12 — 31.5.2016
-- [►M15](http://publications.europa.eu/resource/celex/32016L1065) — [DIRETIVA (UE) 2016/1065 DO CONSELHO de 27 de junho de 2016](http://publications.europa.eu/resource/celex/32016L1065) — L 177 — 9 — 1.7.2016
-- [►M16](http://publications.europa.eu/resource/celex/32017L2455) — [DIRETIVA (UE) 2017/2455 DO CONSELHO de 5 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017L2455) — L 348 — 7 — 29.12.2017
-- [M17](http://publications.europa.eu/resource/celex/32020D1109) — Alterada por: [DECISÃO (UE) 2020/1109 DO CONSELHO de 20 de julho de 2020](http://publications.europa.eu/resource/celex/32020D1109) — L 244 — 3 — 29.7.2020
-- [►M18](http://publications.europa.eu/resource/celex/32018L0912) — [DIRETIVA (UE) 2018/912 DO CONSELHO de 22 de junho de 2018](http://publications.europa.eu/resource/celex/32018L0912) — L 162 — 1 — 27.6.2018
-- [►M19](http://publications.europa.eu/resource/celex/32018L1695) — [DIRETIVA (UE) 2018/1695 DO CONSELHO de 6 de novembro de 2018](http://publications.europa.eu/resource/celex/32018L1695) — L 282 — 5 — 12.11.2018
-- [M20](http://publications.europa.eu/resource/celex/32018L1713) — [DIRETIVA (UE) 2018/1713 DO CONSELHO de 6 de novembro de 2018](http://publications.europa.eu/resource/celex/32018L1713) — L 286 — 20 — 14.11.2018
-- [►M21](http://publications.europa.eu/resource/celex/32018L1910) — [DIRETIVA (UE) 2018/1910 DO CONSELHO de 4 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018L1910) — L 311 — 3 — 7.12.2018
-- [M22](http://publications.europa.eu/resource/celex/32018L2057) — [DIRETIVA (UE) 2018/2057 DO CONSELHO de 20 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018L2057) — L 329 — 3 — 27.12.2018
-- [►M23](http://publications.europa.eu/resource/celex/32019L0475) — [DIRETIVA (UE) 2019/475 DO CONSELHO de 18 de fevereiro de 2019](http://publications.europa.eu/resource/celex/32019L0475) — L 83 — 42 — 25.3.2019
-- [►M24](http://publications.europa.eu/resource/celex/32019L1995) — [DIRETIVA (UE) 2019/1995 DO CONSELHO de 21 de novembro de 2019](http://publications.europa.eu/resource/celex/32019L1995) — L 310 — 1 — 2.12.2019
-- [►M25](http://publications.europa.eu/resource/celex/32019L2235) — [DIRETIVA (UE) 2019/2235 DO CONSELHO de 16 de dezembro de 2019](http://publications.europa.eu/resource/celex/32019L2235) — L 336 — 10 — 30.12.2019
-- [►M26](http://publications.europa.eu/resource/celex/32020L0284) — [DIRETIVA (UE) 2020/284 DO CONSELHO de 18 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020L0284) — L 62 — 7 — 2.3.2020
-- [►M27](http://publications.europa.eu/resource/celex/32020L0285) — [DIRETIVA (UE) 2020/285 DO CONSELHO de 18 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020L0285) — L 62 — 13 — 2.3.2020
-- [►M28](http://publications.europa.eu/resource/celex/32022L0542) — Alterada por: [DIRETIVA (UE) 2022/542 DO CONSELHO de 5 de abril de 2022](http://publications.europa.eu/resource/celex/32022L0542) — L 107 — 1 — 6.4.2022
-- [►M29](http://publications.europa.eu/resource/celex/32020L1756) — [DIRETIVA (UE) 2020/1756 DO CONSELHO de 20 de novembro de 2020](http://publications.europa.eu/resource/celex/32020L1756) — L 396 — 1 — 25.11.2020
-- [►M30](http://publications.europa.eu/resource/celex/32020L2020) — [DIRETIVA (UE) 2020/2020 DO CONSELHO de 7 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020L2020) — L 419 — 1 — 11.12.2020
-- [►M31](http://publications.europa.eu/resource/celex/32021L1159) — [DIRETIVA (UE) 2021/1159 DO CONSELHO de 13 de julho de 2021](http://publications.europa.eu/resource/celex/32021L1159) — L 250 — 1 — 15.7.2021
-- [►M32](http://publications.europa.eu/resource/celex/32022L0542) — [DIRETIVA (UE) 2022/542 DO CONSELHO de 5 de abril de 2022](http://publications.europa.eu/resource/celex/32022L0542) — L 107 — 1 — 6.4.2022
-- [►M33](http://publications.europa.eu/resource/celex/32022L0890) — [DIRETIVA (UE) 2022/890 DO CONSELHO de 3 de junho de 2022](http://publications.europa.eu/resource/celex/32022L0890) — L 155 — 1 — 8.6.2022
-- [►M34](http://publications.europa.eu/resource/celex/32025L0425) — [DIRETIVA (UE) 2025/425 DO CONSELHO de 18 de fevereiro de 2025](http://publications.europa.eu/resource/celex/32025L0425) — L 425 — 1 — 28.2.2025
-- [►M35](http://publications.europa.eu/resource/celex/32025L0516) — [DIRETIVA (UE) 2025/516 DO CONSELHO de 11 de março de 2025](http://publications.europa.eu/resource/celex/32025L0516) — L 516 — 1 — 25.3.2025
-
-**Alterada por:**
-
-- [►A1](http://publications.europa.eu/resource/celex/12012J%2FACT) — [ATO relativo às condições de adesão da República da Croácia e às adaptações do Tratado da União Europeia, do Tratado sobre o Funcionamento da União Europeia e do Tratado que institui a Comunidade Europeia da Energia Atómica](http://publications.europa.eu/resource/celex/12012J%2FACT) — L 112 — 21 — 24.4.2012
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32006L0112R%2806%29) — [Rectificação, JO L 335, 20.12.2007, p. 60 (2006/112/CE)](http://publications.europa.eu/resource/celex/32006L0112R%2806%29)
-- [C2](http://publications.europa.eu/resource/celex/32006L0138R%2801%29) — [Rectificação, JO L 042, 16.2.2008, p. 100 (2006/138/CE)](http://publications.europa.eu/resource/celex/32006L0138R%2801%29)
-- [►C3](http://publications.europa.eu/resource/celex/32006L0112R%2812%29) — [Rectificação, JO L 323, 9.12.2015, p. 31 (2006/112/CE)](http://publications.europa.eu/resource/celex/32006L0112R%2812%29)
-- [C4](http://publications.europa.eu/resource/celex/32017L2455R%2801%29) — [Rectificação, JO L 125, 22.5.2018, p. 15 (2017/2455)](http://publications.europa.eu/resource/celex/32017L2455R%2801%29)
-- [C5](http://publications.europa.eu/resource/celex/32017L2455R%2804%29) — [Rectificação, JO L 225, 6.9.2018, p. 1 (2017/2455)](http://publications.europa.eu/resource/celex/32017L2455R%2804%29)
-- [►C6](http://publications.europa.eu/resource/celex/32017L2455R%2805%29) — [Rectificação, JO L 225, 6.9.2018, p. 1 (2017/2455)](http://publications.europa.eu/resource/celex/32017L2455R%2805%29)
-- [►C7](http://publications.europa.eu/resource/celex/32018L1695R%2801%29) — [Rectificação, JO L 329, 27.12.2018, p. 53 (2018/1695)](http://publications.europa.eu/resource/celex/32018L1695R%2801%29)
-- [►C8](http://publications.europa.eu/resource/celex/32017L2455R%2806%29) — [Rectificação, JO L 245, 25.9.2019, p. 9 (2017/2455)](http://publications.europa.eu/resource/celex/32017L2455R%2806%29)
-- [►C9](http://publications.europa.eu/resource/celex/32017L2455R%2807%29) — [Rectificação, JO L 030, 2.2.2023, p. 37 (2017/2455)](http://publications.europa.eu/resource/celex/32017L2455R%2807%29)
-
-## DIRECTIVA 2006/112/CE DO CONSELHO
 
 de 28 de Novembro de 2006
 

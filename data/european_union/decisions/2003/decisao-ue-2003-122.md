@@ -35,6 +35,23 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2004-05-01'
+version_history:
+  file: decisao-ue-2003-122.versoes.json
+  count: 2
+  source_lastmod: '2004-05-01'
+  versions:
+  - date: '2003-02-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-01'
+    amending: eu:celex:32004R0886:por
+    amending_title: REGULAMENTO (CE) N . o 886/2004 DA COMISSÃO de 4 de Março de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera ANEXO
+    - Adita Notas
 identifiers:
   celex: 32003D0122
   eli: http://data.europa.eu/eli/dec/2003/122(1)/oj
@@ -49,7 +66,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f9a1e152-a1da-442a-a457-03dc07229470.0010
   content_url: http://publications.europa.eu/resource/cellar/9d4aca39-7530-4df4-be8f-ade88253d929.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003D0122-20040501
-  retrieved_at: '2026-10-22T03:11:04Z'
+  retrieved_at: '2026-10-22T14:54:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:30:26.043+02:00'
 integrity:
@@ -58,9 +75,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:04Z'
-  notes: Texto consolidado 02003D0122-20040501.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:22Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2003-122.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -90,29 +107,19 @@ relationships:
   source: null
 article_structure:
   article_count: 4
-  section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 2
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:04Z'
+  checked_at: '2026-10-22T14:54:22Z'
   warnings: []
   errors: []
 ---
 
 # 2003/122/CE: Decisão da Comissão, de 21 de Fevereiro de 2003
-
-> 2003D0122 — PT — 01.05.2004 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32004R0886) — [REGULAMENTO (CE) N.º 886/2004 DA COMISSÃO de 4 de Março de 2004](http://publications.europa.eu/resource/celex/32004R0886) — L 168 — 14 — 1.5.2004
-
-## DECISÃO DA COMISSÃO
 
 de 21 de Fevereiro de 2003
 

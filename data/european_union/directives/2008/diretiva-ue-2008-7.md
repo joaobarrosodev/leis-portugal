@@ -35,6 +35,29 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: diretiva-ue-2008-7.versoes.json
+  count: 2
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '2008-02-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0013:por
+    amending_title: DIRETIVA 2013/13/UE DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Operações não sujeitas a impostos indirectos
+    - Altera Artigo 19.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita LISTA DAS SOCIEDADES REFERIDAS NA ALÍNEA A) DO N.º 1 DO ARTIGO 2.º
+    - Adita ANEXO II
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita ANEXO III
 identifiers:
   celex: 32008L0007
   eli: http://data.europa.eu/eli/dir/2008/7/oj
@@ -49,7 +72,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/99aeb253-b195-4075-ac4a-32eb4847c913.0018
   content_url: http://publications.europa.eu/resource/cellar/bb7eb38e-5420-4dce-a922-aa8a926b83de.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0007-20130701
-  retrieved_at: '2026-10-22T02:58:47Z'
+  retrieved_at: '2026-10-22T15:12:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T13:54:11.390+01:00'
 integrity:
@@ -58,9 +81,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:47Z'
-  notes: Texto consolidado 02008L0007-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:12:33Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2008-7.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -172,29 +195,19 @@ relationships:
   date: '1969-10-03'
 article_structure:
   article_count: 19
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:47Z'
+  checked_at: '2026-10-22T15:12:33Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2008/7/CE do Conselho, de 12 de Fevereiro de 2008
-
-> 2008L0007 — PT — 01.07.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013L0013) — [DIRETIVA 2013/13/UE DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0013) — L 141 — 30 — 28.5.2013
-
-## DIRECTIVA 2008/7/CE DO CONSELHO
 
 de 12 de Fevereiro de 2008
 

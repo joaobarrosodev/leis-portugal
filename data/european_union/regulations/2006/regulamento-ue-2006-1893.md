@@ -37,6 +37,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-01'
+version_history:
+  file: regulamento-ue-2006-1893.versoes.json
+  count: 4
+  source_lastmod: '2025-01-01'
+  versions:
+  - date: '2006-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-04-29'
+    amending: eu:celex:32008R0295:por
+    amending_title: REGULAMENTO (CE) N. o 295/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 12 — Alterações ao Regulamento (CE) n.º 1165/98
+    - Altera Artigo 14 — Alteração ao Regulamento (CE) n.º 530/1999
+    - Altera Artigo 16 — Alteração ao Regulamento (CE) n.º 450/2003
+    - Altera Artigo 19 — Alteração ao Regulamento n.º 1552/2005
+    - Altera Artigo 21 — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita NACE REV. 2
+    - Adita ANEXO III
+    - Adita 1. Anexo A
+    - Adita 2. Anexo B
+    - Adita 3. Anexo C
+    - Adita 4. Anexo D
+    - Adita ANEXO IV
+    - Adita «Secção 1 — Âmbito
+    - Adita ANEXO V
+    - Adita «b) Cobertura
+    - Suprime Artigo 11 — Alterações ao Regulamento (CE, Euratom) n.º 58/97
+    - Suprime Artigo 20 — Disposições transitórias
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7 — Comitologia
+    - Altera 1. Anexo A
+    - Altera Notas
+    - Adita Artigo 6
+    - Adita Atos delegados e de execução
+    - Adita Artigo 6.º-A — Exercício da delegação
+    - Suprime Artigo 6 — Medidas de execução
+  - date: '2025-01-01'
+    amending: eu:celex:32023R0137:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/137 DA COMISSÃO de 10 de outubro de 2022
+    changes:
+    - Altera Artigo 6.º-A — Exercício da delegação
+    - Altera 1. Anexo A
+    - Altera Notas
+    - Adita NACE REV. 2, ATUALIZAÇÃO 1 (NACE REV. 2.1)
+    - Suprime NACE REV. 2
 identifiers:
   celex: 32006R1893
   eli: http://data.europa.eu/eli/reg/2006/1893/oj
@@ -51,7 +105,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/361cc2e8-c462-4088-8e87-ba6c99b84588.0017
   content_url: http://publications.europa.eu/resource/cellar/49f04313-dd96-11ef-be2a-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1893-20250101
-  retrieved_at: '2026-10-22T02:39:44Z'
+  retrieved_at: '2026-10-22T15:05:35Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-19T19:00:19.131+01:00'
 integrity:
@@ -60,9 +114,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:44Z'
-  notes: Texto consolidado 02006R1893-20250101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:05:35Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2006-1893.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -254,36 +308,20 @@ relationships:
   date: '2025-05-20'
 article_structure:
   article_count: 20
-  section_count: 17
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 19
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:44Z'
-  warnings: []
+  checked_at: '2026-10-22T15:05:35Z'
+  warnings:
+  - '02006R1893-20070119: versão indisponível (Sem expressão na língua por para CELEX 02006R1893-20070119.)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 1893/2006 do Parlamento Europeu e do Conselho, de 20 de Dezembro de 2006
-
-> 02006R1893 — PT — 01.01.2025 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008R0295) — [REGULAMENTO (CE) N.º 295/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2008](http://publications.europa.eu/resource/celex/32008R0295) — L 97 — 13 — 9.4.2008
-- [►M2](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [►M3](http://publications.europa.eu/resource/celex/32023R0137) — [REGULAMENTO DELEGADO (UE) 2023/137 DA COMISSÃO de 10 de outubro de 2022](http://publications.europa.eu/resource/celex/32023R0137) — L 19 — 5 — 20.1.2023
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R1243R%2801%29) — [Rectificação, JO L 191, 16.6.2020, p. 5 (2019/1243)](http://publications.europa.eu/resource/celex/32019R1243R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32023R0137R%2802%29) — [Rectificação, JO L 90720, 15.11.2024, p. 1 ((UE) 2023/137)](http://publications.europa.eu/resource/celex/32023R0137R%2802%29)
-
-## REGULAMENTO (CE) N.º 1893/2006 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de Dezembro de 2006
 

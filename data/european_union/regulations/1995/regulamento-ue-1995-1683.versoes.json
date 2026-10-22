@@ -1,0 +1,308 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31995R1683:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995R1683-20231227",
+ "dre_path": null,
+ "source_lastmod": "2023-12-27",
+ "versions": [
+  {
+   "date": "1995-07-14",
+   "future": false,
+   "celex": "31995R1683",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "652109e82a96d5b7",
+    "86c1a8c2d0df54db",
+    "97a89b762265c46e",
+    "c4fe445fb150096f",
+    "2de891796da36756",
+    "df3e5cd7e98699f7",
+    "c9247408d0a09e1a",
+    "97fd76d21f76e8a7",
+    "e2284561d43490fc",
+    "e52cc76c1ba0d3e5"
+   ]
+  },
+  {
+   "date": "2023-12-27",
+   "future": false,
+   "celex": "01995R1683-20231227",
+   "acts": [
+    {
+     "id": "eu:celex:32002R0334:por",
+     "title": "REGULAMENTO (CE) N. o 334/2002 DO CONSELHO de 18 de Fevereiro de 2002",
+     "published": null,
+     "celex": "32002R0334"
+    },
+    {
+     "id": "eu:celex:32006R1791:por",
+     "title": "M2",
+     "published": null,
+     "celex": "32006R1791"
+    },
+    {
+     "id": "eu:celex:32008R0856:por",
+     "title": "REGULAMENTO (CE) N. o 856/2008 DO CONSELHO de 24 de Julho de 2008",
+     "published": null,
+     "celex": "32008R0856"
+    },
+    {
+     "id": "eu:celex:32013R0517:por",
+     "title": "M4",
+     "published": null,
+     "celex": "32013R0517"
+    },
+    {
+     "id": "eu:celex:32013R0610:por",
+     "title": "REGULAMENTO (UE) N. o 610/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de junho de 2013",
+     "published": null,
+     "celex": "32013R0610"
+    },
+    {
+     "id": "eu:celex:32017R1370:por",
+     "title": "REGULAMENTO (UE) 2017/1370 DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de julho de 2017",
+     "published": null,
+     "celex": "32017R1370"
+    },
+    {
+     "id": "eu:celex:32023R2685:por",
+     "title": "REGULAMENTO (UE) 2023/2685 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023",
+     "published": null,
+     "celex": "32023R2685"
+    },
+    {
+     "id": null,
+     "title": "ACTO relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T%2FTXT"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita ANEXO",
+    "Adita Dispositivos de segurança",
+    "Adita Partes a completar",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime ANEXO — >REFERÊNCIA A UMA IMAGEN>"
+   ],
+   "fragments": [
+    "eb6bd86696ad7da1",
+    "34b362462192a063",
+    "8beeafadf6cece13",
+    "5e5ce7532393463a",
+    "cf9ba673a4bbb817",
+    "3b0012b9794b3414",
+    "8290445c62356672",
+    "144229aec128ab70",
+    "fce9dbc381324f4f",
+    "10220b9774fa9034",
+    "7de406c0f6a2c47c",
+    "2c49f58a915f2dba",
+    "ad1cb55e9468660c"
+   ]
+  }
+ ],
+ "fragments": {
+  "652109e82a96d5b7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 1683/95 do Conselho, de 29 de Maio de 1995, que estabelece um modelo-tipo de visto** *Jornal Oficial nº L 164 de 14/07/1995 p. 0001 - 0004*\n\nREGULAMENTO (CE) Nº 1683/95 DO CONSELHO\n\nde 29 de Maio de 1995\n\nque estabelece um modelo-tipo de visto\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o nº 3 do seu artigo 100ºC,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu,\n\nConsiderando que o nº 3 do artigo 100ºC do Tratado exige que o Conselho adopte as medidas relativas à criação de um modelo-tipo de visto até 1 de Janeiro de 1996;\n\nConsiderando que a criação de um modelo-tipo de visto constitui um importante passo na via da harmonização da política de vistos; que o artigo 7ºA do Tratado estabelece que o mercado interno compreende um espaço sem fronteiras internas no qual a livre circulação das pessoas é assegurada de acordo com as disposições do Tratado; que esta disposição deve igualmente ser considerada como formando parte de um conjunto coerente com as medidas constantes do título VI do Tratado da União Europeia;\n\nConsiderando que é essencial que o modelo-tipo de visto inclua todas as informações necessárias e satisfaça normas técnicas de elevado nível, nomeadamente em matéria de salvaguarda contra a contrafacção e a falsificação; que o modelo-tipo deve igualmente ser adaptado à utilização por todos os Estados-membros e incluir dispositivos de segurança universalmente reconhecidos e perceptíveis a olho nu;\n\nConsiderando que o presente regulamento apenas estabelece as especificações destituídas de carácter secreto; que estas especificações devem ser completadas por outras, que devem permanecer secretas, a fim de evitar a contrafacção e a falsificação, e que, destas últimas, não podem constar dados pessoais nem referências a estes; que devem ser conferidos à Comissão poderes para adoptar especificações complementares;\n\nConsiderando que, a fim de garantir que as informações em questão não sejam divulgadas a outras pessoas para além das estritamente necessárias, é igualmente essencial que cada Estado-membro designe apenas um organismo para a impressão do modelo-tipo de visto, mantendo a faculdade de o substituir por outro, se necessário; que, por razões de segurança, cada Estado-membro deve comunicar o nome do organismo competente à Comissão e aos outros Estados-membros;\n\nConsiderando que, para ser eficaz, o presente regulamento deve ser aplicável a todos os tipos de vistos a que se refere o artigo 5º; que os Estados-membros deverão ter igualmente a possibilidade de utilizar o modelo-tipo de visto em vistos destinados a finalidades diferentes das previstas no artigo 5º, desde que as modificações visíveis a olho nu não permitam qualquer confusão com o visto uniforme;\n\nConsiderando que, no que respeita aos dados pessoais que devem constar do modelo-tipo de visto, nos termos do anexo do presente regulamento, importa garantir a observância das medidas tomadas pelos Estados-membros em matéria de protecção de dados, bem como do direito comunitário aplicável na matéria,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "86c1a8c2d0df54db": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nOs vistos emitidos pelos Estados-membros nos termos do artigo 5º revestirão a forma de modelo-tipo de visto (vinheta autocolante). Esses vistos serão conformes com as especificações constantes do anexo."
+  },
+  "97a89b762265c46e": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nAs especificações técnicas complementares destinadas a dificultar a contrafacção ou a falsificação do visto serão adoptadas segundo o procedimento previsto no artigo 6º"
+  },
+  "c4fe445fb150096f": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. As especificações a que se refere o artigo 2º são secretas e não serão publicadas. Serão exclusivamente comunicadas aos organismos designados pelos Estados-membros para a respectiva impressão e às pessoas devidamente autorizadas por um Estado-membro ou pela Comissão.\n\n2. Cada Estado-membro designará um organismo a que pertencerá a responsabilidade exclusiva da impressão dos vistos. Os Estados-membros comunicarão o nome desse organismo à Comissão e aos outros Estados-membros. Um mesmo organismo pode ser designado por dois ou mais Estados-membros. Os Estados-membros conservarão a faculdade de substituir o organismo por si designado. Nesse caso, comunicar Eao o facto à Comissão e aos restantes Estados-membros."
+  },
+  "2de891796da36756": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Sem prejuízo de disposições relevantes de âmbito mais extenso em matéria de protecção de dados, as pessoas a quem tenha sido atribuído um visto têm o direito de verificar os dados pessoais inscritos nesse visto, e, se necessário, obter a rectificação ou a supressão desses dados.\n\n2. O modelo-tipo de visto não conterá quaisquer informações, legíveis por meios mecânicos, à excepção dos dados que constam igualmente dos espaços descritos nos pontos 6 a 12 do anexo ou do título de viagem correspondente."
+  },
+  "df3e5cd7e98699f7": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nPara efeitos do presente regulamento, entende-se por «visto» uma autorização concedida ou uma decisão tomada por um Estado-membro, exigida para entrar no seu território para efeitos de:\n\n- estada nesse Estado-membro ou em vários Estados-membros durante um período não superior a três meses,\n\n- trânsito através do território ou da zona de trânsito aeroportuário desse Estado-membro ou de vários Estados-membros."
+  },
+  "c9247408d0a09e1a": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Quando for feita remissão para o procedimento estabelecido no presente artigo, são aplicáveis as disposições a seguir enunciadas:\n\n2. A Comissão será assistida por um comité composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\nO representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3. a) A Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de dois meses, este último não tiver deliberado, a Comissão adoptará as medidas propostas, excepto se o Conselho se tiver pronunciado contra essas medidas por maioria simples."
+  },
+  "97fd76d21f76e8a7": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nSempre que os Estados-membros utilizarem o modelo-tipo de visto para efeitos diferentes dos previstos no artigo 5º, devem ser tomadas medidas adequadas por forma a excluir qualquer possibilidade de confusão com o visto a que se refere o artigo 5º"
+  },
+  "e2284561d43490fc": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO artigo 1º é aplicável seis meses após a adopção das medidas a que se refere o artigo 2º\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 29 de Maio de 1995.\n\nPelo Conselho\n\nO Presidente\n\nH. de CHARETTE"
+  },
+  "e52cc76c1ba0d3e5": {
+   "fragment_id": "ANEXO — >REFERÊNCIA A UMA IMAGEN>",
+   "type": "divisao",
+   "heading": "ANEXO — >REFERÊNCIA A UMA IMAGEN>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — >REFERÊNCIA A UMA IMAGEN>\n\nDispositivo de segurança\n\n1. Figurará neste espaço um sinal constituído por nove elipses dispostas em leque.\n\n2. Neste espaço figurará uma marca óptica variável («Kinegrama» ou equivalente). Consoante o ângulo de observação, aparecerão doze estrelas, a letra «E» e um globo terrestre de tamanhos e cores diferentes.\n\n3. O logotipo constituído por uma ou mais letras indicativas do Estado-membro emissor (ou «BNL» no caso dos países do Benelux, a saber, a Bélgica, o Luxemburgo e os Países Baixos) figurará neste espaço sob forma de imagem latente. Este logotipo será em tipo claro na posição horizontal e escuro quando sofre uma rotação de 90°. Serão utilizados os seguintes logotipos: A para a Áustria, BNL para o Benelux, D para a Alemanha, DK para a Dinamarca, E para Espanha, F para França, FIN para a Finlândia, GR para a Grécia, I para Itália, IRL para a Irlanda, P para Portugal, S para a Suécia e UK para o Reino Unido.\n\n4. A palavra «visto» figurará em letras maiúsculas no centro deste espaço, a tinta óptica variável. Consoante o ângulo de observação, surgirá em verde ou em vermelho.\n\n5. Este espaço conterá o número do visto, que será pré-impresso e começará pela letra ou letras correspondentes ao país emissor, tal como descritos no ponto 3. Será utilizado um tipo especial.\n\nPartes a completar\n\n6. Esta casa começará pela expressão «válido para». A autoridade emissora indicará o território ou territórios para os quais é válido o visto.\n\n7. Esta casa começará pela palavra «de» e a palavra «até» figurará na mesma linha. A autoridade emissora indicará neste local o período de validade do visto.\n\n8. Esta casa começará pela expressão «número de entradas» e, mais adiante, na mesma linha, figurarão as expressões «duração da estada» (isto é, duração da estada prevista pelo requerente) e «dias».\n\n9. Esta casa começará pela expressão «emitido em» e será utilizada para indicar o local de emissão.\n\n10. Esta casa começará pela palavra «em» (depois do qual a autoridade emissora indicará a data de emissão); na mesma linha mais adiante aparecerá a expressão «número de passaporte» (depois da qual figurará o número de passaporte do titular).\n\n11. Esta casa começará pela expressão «tipo de visto». A autoridade emissora indicará a categoria do visto, nos termos dos artigos 5º e 7º do presente regulamento.\n\n12. Esta casa começará pela palavra «averbamentos». A autoridade emissora utilizá-la-á para indicar quaisquer outras informações consideradas necessárias, desde que sejam conformes com o artigo 4º do presente regulamento. As duas linhas e meia que se seguem serão deixadas em branco para inscrever essas observações.\n\n13. Esta casa incluirá as informações legíveis por meios mecânicos para facilitar os controlos nas fronteiras externas.\n\nO papel será verde pastel com fibrilhas vermelhas e azuis.\n\nAs rubricas relativas às casas figurarão nas línguas francesa e inglesa, podendo o Estado emissor aditar uma terceira língua oficial da Comunidade. No entanto, a palavra «visto» na primeira linha superior pode figurar em qualquer língua oficial da Comunidade."
+  },
+  "eb6bd86696ad7da1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Maio de 1995\n\nque estabelece um modelo-tipo de visto"
+  },
+  "34b362462192a063": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs vistos emitidos pelos Estados-membros nos termos do artigo 5.º revestirão a forma de modelo-tipo de visto (vinheta autocolante). Esses vistos serão conformes com as especificações constantes do anexo."
+  },
+  "8beeafadf6cece13": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1.\n\nA Comissão adota atos de execução para estabelecer especificações técnicas para o formato uniforme dos vistos digitais no que diz respeito a:\n\na) Normas técnicas e métodos para:\n\ni) a codificação dos dados contidos no visto digital, e\n\nii) a imagem facial;\n\nb) Especificações para gerar a versão para impressão do visto digital.\n\n2. A Comissão pode decidir, por meio de atos de execução, que as especificações técnicas a que se refere o n.º 1 sejam secretas e não sejam publicadas. Nesse caso, essas especificações técnicas só podem ser disponibilizadas a pessoas devidamente autorizadas por um Estado-Membro ou pela Comissão.\n\n3.\n\nOs atos de execução referidos nos n.^os^ 1 e 2 do presente artigo são adotados pelo procedimento de exame nos termos do artigo 6.º, n.º 2, do presente regulamento, em conjugação com a disposição transitória do artigo 13.º, n.º 1, alínea c), do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/ee366c65-af07-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0001))."
+  },
+  "5e5ce7532393463a": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n2. Cada Estado-membro designará um organismo a que pertencerá a responsabilidade exclusiva da impressão dos vistos. Os Estados-membros comunicarão o nome desse organismo à Comissão e aos outros Estados-membros. Um mesmo organismo pode ser designado por dois ou mais Estados-membros. Os Estados-membros conservarão a faculdade de substituir o organismo por si designado. Nesse caso, comunicarão o facto à Comissão e aos restantes Estados-membros."
+  },
+  "cf9ba673a4bbb817": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sem prejuízo de disposições relevantes de âmbito mais extenso em matéria de protecção de dados, as pessoas a quem tenha sido atribuído um visto têm o direito de verificar os dados pessoais inscritos nesse visto, e, se necessário, obter a rectificação ou a supressão desses dados.\n\n2. O modelo-tipo de visto não conterá quaisquer informações, legíveis por meios mecânicos, à excepção dos dados que constam igualmente dos espaços descritos nos pontos 6 a 12 do anexo ou do título de viagem correspondente."
+  },
+  "3b0012b9794b3414": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nPara efeitos do presente regulamento, entende-se por «visto» um visto tal como definido no artigo 2.º, n.º 2, alínea a), do Regulamento (CE) n.º 810/2009 do Parlamento Europeu e do Conselho, de 13 de julho de 2009, que estabelece o Código Comunitário de Vistos (Código de Vistos) ([^2^](http://publications.europa.eu/resource/cellar/ee366c65-af07-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0002))."
+  },
+  "8290445c62356672": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A Comissão é assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^3^](http://publications.europa.eu/resource/cellar/ee366c65-af07-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0003)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de dois meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "144229aec128ab70": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nSempre que os Estados-membros utilizarem o modelo-tipo de visto para efeitos diferentes dos previstos no artigo 5.º, devem ser tomadas medidas adequadas por forma a excluir qualquer possibilidade de confusão com o visto a que se refere o artigo 5.º\n\nA pedido da Irlanda ou do Reino Unido, a Comissão deve estabelecer mecanismos apropriados com o Estado-Membro requerente com vista ao intercâmbio das informações técnicas referidas no artigo 2.º para efeitos de emissão de vistos nacionais pelo Estado-Membro requerente.\n\nOs custos para os quais a Irlanda e o Reino Unido não contribuem nos termos do artigo 5.º do Protocolo n.º 21 relativo à posição do Reino Unido e da Irlanda em relação ao espaço de liberdade, segurança e justiça, anexo ao Tratado da União Europeia e ao Tratado sobre o Funcionamento da União Europeia, são suportados pela Irlanda ou pelo Reino Unido, respetivamente, se apresentarem um pedido nesse sentido."
+  },
+  "fce9dbc381324f4f": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO artigo 1.º é aplicável seis meses após a adopção das medidas a que se refere o artigo 2.º\n\nA inserção da fotografia prevista no ponto 2a do anexo deve ser realizada no prazo de cinco anos a contar da adopção das medidas técnicas previstas no artigo 2.º\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "7de406c0f6a2c47c": {
+   "fragment_id": "Dispositivos de segurança",
+   "type": "divisao",
+   "heading": "Dispositivos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Dispositivos de segurança\n\n1. Inserção de uma fotografia a cores que corresponda a elevados padrões de segurança.\n\n2. Neste espaço figura um elemento oticamente variável («kinegrama» ou equivalente). Consoante o ângulo de observação, aparecem visíveis as letras «EU» e «EUE», bem como linhas guilhochés cinemáticas, com tamanhos e cores diferentes.\n\n3. Esta casa contém o código do país, composto por três letras, tal como estabelecido no documento 9303 da ICAO relativo aos documentos de viagem de leitura automática, que identifica o Estado-Membro emissor, ou a sigla «BNL», se o Estado-Membro emissor for um Estado-Membro proveniente da Bélgica, Luxemburgo ou dos Países Baixos, a tinta de cor oticamente variável. Consoante o ângulo de observação, surge em cores diferentes.\n\n4. Neste espaço figura, em letras maiúsculas, o seguinte:\n\na) a palavra «VISA». O Estado-Membro emissor pode incluir um termo equivalente numa das outras línguas oficiais das instituições da União;\n\nb) a designação do Estado-Membro nas línguas francesa, inglesa e noutras línguas oficiais das instituições da União;\n\nc) o código de três letras do Estado-Membro emissor, tal como consta do Documento 9303 da ICAO.\n\n5. Esta casa contém o número nacional da vinheta de visto, composto por nove dígitos, disposto na horizontal e pré-impresso a preto. Devem ser utilizados carateres tipográficos especiais.\n\n6. Esta casa contém o número nacional da vinheta de visto, composto por nove dígitos, disposto na vertical e pré-impresso a vermelho. Devem ser utilizados carateres tipográficos especiais diferentes dos aplicados na casa 5. O «número da vinheta de visto» é constituído pelo código de país composto por três letras, como estabelecido no documento 9303 da ICAO, e pelo número nacional, tal como indicado nas casas 5 e 6.\n\n7. Nesta casa figuram as letras «EU» com um efeito de imagem latente. Estas letras são visíveis em tipo claro na posição horizontal e em tipo escuro quando sujeitas a uma rotação de 90.°.\n\n8. Nesta casa figuram os códigos referidos na casa 3 com um efeito de imagem latente. Esses códigos são visíveis em tipo claro na posição horizontal e em tipo escuro quando sujeitos a uma rotação de 90.°."
+  },
+  "2c49f58a915f2dba": {
+   "fragment_id": "Partes a completar",
+   "type": "divisao",
+   "heading": "Partes a completar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Partes a completar\n\nAs rubricas correspondentes às casas figuram nas línguas francesa e inglesa. O Estado-Membro emissor pode aditar uma tradução noutra língua oficial das instituições da União.\n\n9. Esta casa deve começar pela expressão «válido para». A autoridade emissora deve indicar o território no qual o titular do visto está autorizado a viajar.\n\n10. Esta casa deve começar pela palavra «de», e a palavra «até» deve figurar mais adiante na mesma linha. A autoridade emissora deve indicar a duração da estada do titular autorizada no visto. Mais adiante, na mesma linha, figuram as expressões «duração da estada» (isto é, duração da permanência prevista do requerente) e a palavra «dias».\n\n11. Esta casa deve começar pela expressão «tipo de visto». A autoridade emissora deve indicar a categoria do visto. Mais adiante, na mesma linha, devem figurar as expressões «número do passaporte» e «número de entradas».\n\n12. Esta casa deve começar pela expressão «emitido em» e é utilizada para indicar o nome do local em que autoridade emissora se situa. Mais adiante, na mesma linha, figura a palavra «em» (seguida da data de emissão inserida pela autoridade de emissão).\n\n13. Esta casa deve começar pelas palavras «apelido, nome próprio».\n\n14. Esta casa deve começar pela palavra «averbamentos». O espaço seguinte deve ser utilizado pela autoridade emissora para indicar quaisquer outras informações.\n\n15. Esta casa deve incluir as informações para a leitura ótica necessárias para facilitar os controlos nas fronteiras externas. Na zona de leitura ótica deve figurar um texto integrado na impressão de fundo visível, com a expressão «União Europeia» em todas as línguas oficiais das instituições da União. Este texto não deve afetar as características técnicas da zona de leitura ótica nem a respetiva legibilidade.\n\n16. Esta casa é reservada para o eventual aditamento de um código de barras bidimensional.\n\n---"
+  },
+  "ad1cb55e9468660c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ee366c65-af07-11ee-b164-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ee366c65-af07-11ee-b164-01aa75ed71a1.0019.02/DOC_1#src.E0002)) JO L 243 de 15.9.2009, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ee366c65-af07-11ee-b164-01aa75ed71a1.0019.02/DOC_1#src.E0003)) JO L 184 de 17.7.1999, p. 23."
+  }
+ }
+}

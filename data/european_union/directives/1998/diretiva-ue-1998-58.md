@@ -33,6 +33,70 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-14'
+version_history:
+  file: diretiva-ue-1998-58.versoes.json
+  count: 3
+  source_lastmod: '2019-12-14'
+  versions:
+  - date: '1998-08-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-06-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera ANEXO — Recursos humanos
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+  - date: '2019-12-14'
+    amending: eu:celex:32003R0806:por
+    amending_title: REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003; REGULAMENTO (UE) 2017/625 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 15 de março de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Adita ANEXO
+    - Adita Recursos humanos
+    - Adita Inspecção
+    - Adita Registos
+    - Adita Liberdade de movimentos
+    - Adita Instalações e alojamento
+    - Adita Animais criados ao ar livre
+    - Adita Equipamento automático ou mecânico
+    - Adita Alimentação, água e outras substâncias
+    - Adita Mutilações
+    - Adita Processos de reproducão
+    - Adita Notas
+    - Suprime Artigo 7.º
+    - Suprime ANEXO — Recursos humanos
 identifiers:
   celex: 31998L0058
   eli: http://data.europa.eu/eli/dir/1998/58/oj
@@ -47,7 +111,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5b04f403-0abf-4356-aa53-6dc867b07bcb.0011
   content_url: http://publications.europa.eu/resource/cellar/3661a5c2-6f4f-11ea-b735-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0058-20191214
-  retrieved_at: '2026-10-22T02:37:39Z'
+  retrieved_at: '2026-10-22T14:46:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T07:27:26.613+01:00'
 integrity:
@@ -56,9 +120,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:39Z'
-  notes: Texto consolidado 01998L0058-20191214.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:55Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1998-58.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -191,34 +255,19 @@ relationships:
   source: null
 article_structure:
   article_count: 11
-  section_count: 11
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 12
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:39Z'
+  checked_at: '2026-10-22T14:46:55Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 98/58/CE do Conselho de 20 de Julho de 1998
-
-> 01998L0058 — PT — 14.12.2019 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003R0806) — [REGULAMENTO (CE) N.º 806/2003 DO CONSELHO de 14 de Abril de 2003](http://publications.europa.eu/resource/celex/32003R0806) — L 122 — 1 — 16.5.2003
-- [►M2](http://publications.europa.eu/resource/celex/32017R0625) — [REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017](http://publications.europa.eu/resource/celex/32017R0625) — L 95 — 1 — 7.4.2017
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32017R0625R%2801%29) — [Rectificação, JO L 137, 24.5.2017, p. 40 (2017/625)](http://publications.europa.eu/resource/celex/32017R0625R%2801%29)
-
-## DIRECTIVA 98/58/CE DO CONSELHO
 
 de 20 de Julho de 1998
 

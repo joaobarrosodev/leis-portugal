@@ -34,6 +34,185 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-02-18'
+version_history:
+  file: regulamento-ue-2006-865.versoes.json
+  count: 6
+  source_lastmod: '2025-02-18'
+  versions:
+  - date: '2006-06-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-09-27'
+    amending: eu:celex:32008R0100:por
+    amending_title: REGULAMENTO (CE) N. o 100/2008 DA COMISSÃO de 4 de Fevereiro de 2008; REGULAMENTO (UE) N. o 791/2012 DA
+      COMISSÃO de 23 de agosto de 2012; REGULAMENTO DE EXECUÇÃO (UE) N. o 792/2012 DA COMISSÃO de 23 de agosto de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Anexos dos formulários
+    - Altera Artigo 9.º — Remessas de espécimes
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 5.º-A — Teor específico das licenças, certificados e pedidos relativos a espécimes de flora
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 20.º-A — Rejeição de pedidos de licenças de importação
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita Artigo 26.º
+    - Adita Artigo 26.º-A — Rejeição de pedidos de licenças de exportação
+    - Adita Artigo 27.º
+    - Adita Artigo 28.º
+    - Adita Artigo 29.º
+    - Adita Artigo 30.º
+    - Adita Artigo 31.º
+    - Adita Artigo 32.º
+    - Adita Artigo 33.º
+    - Adita Artigo 34.º
+    - Adita Artigo 35.º
+    - Adita Artigo 36.º
+    - Adita Artigo 37.º
+  - date: '2013-12-12'
+    amending: eu:celex:32013R1283:por
+    amending_title: M4
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 72.º
+    - Altera ANEXO IX
+    - Altera Notas
+  - date: '2015-02-05'
+    amending: eu:celex:32015R0056:por
+    amending_title: M5; REGULAMENTO (UE) 2015/870 DA COMISSÃO de 5 de junho de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º — Remessas de espécimes
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Altera Artigo 30.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 58.º
+    - Altera Artigo 58.º-A — Utilização para fins comerciais de bens pessoais e de uso doméstico no interior da União
+    - Altera Artigo 66.º
+    - Altera Artigo 72.º
+    - Altera FLORA
+    - Altera ANEXO IX
+    - Altera GALLIFORMES
+    - Altera Notas
+    - Adita CAPÍTULO VIII-B
+    - Adita CERTIFICADOS DE INSTRUMENTO MUSICAL
+    - Adita Artigo 44.º-H — Emissão
+    - Adita Artigo 44.º-I — Utilização
+    - Adita Artigo 44.º-J — Autoridade emissora
+    - Adita Artigo 44.º-K — Condições aplicáveis aos espécimes
+    - Adita Artigo 44.º-L — Pedidos
+    - Adita Artigo 44.º-M — Documentos a entregar pelo titular à estância aduaneira
+    - Adita Artigo 44.º-N — Venda de espécimes abrangidos
+    - Adita Artigo 44.º-O — Substituição
+    - Adita Artigo 44.º-P — Introdução na União de instrumentos musicais com certificados emitidos por países terceiros
+    - Adita a) MAMMALIA
+    - Adita b) AVES
+    - Adita c) REPTILIA
+    - Adita d) AMPHIBIA
+    - Adita e) ELASMOBRANCHII, ACTINOPTERYGII E SARCOPTERYGII
+    - Adita f) ARACHNIDA
+    - Adita g) INSECTA
+    - Adita h) HIRUDINOIDEA
+    - Adita i) ANTHOZOA AND HYDROZOA
+    - Adita ANEXO XIII
+  - date: '2022-01-19'
+    amending: eu:celex:32019R0220:por
+    amending_title: REGULAMENTO (UE) 2019/220 DA COMISSÃO de 6 de fevereiro de 2019; REGULAMENTO (UE) 2021/2280 DA COMISSÃO
+      de 16 de dezembro de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 34.º
+    - Altera Artigo 48.º
+    - Altera Artigo 52.º
+    - Altera Artigo 62.º
+    - Altera Artigo 69.º
+    - Altera Artigo 72.º
+    - Altera ANEXO VII
+    - Altera FAUNA
+    - Altera FLORA
+    - Altera ANEXO IX
+    - Altera Tipos de amostras biológicas a que se refere o artigo 18.º e sua utilização
+    - Altera ESPÉCIES E POPULAÇÕES A QUE SE REFERE O ARTIGO 57.º, N.º 3-A
+    - Altera Notas
+    - Adita Artigo 5.º-B — Teor específico das licenças e certificados relativos a elefantes e a rinocerontes vivos
+    - Adita Artigo 5.º-C — Finalidade da transação
+    - Adita Unidades utilizadas
+    - Suprime a) MAMMALIA
+    - Suprime b) AVES
+    - Suprime c) REPTILIA
+    - Suprime d) AMPHIBIA
+    - Suprime e) ELASMOBRANCHII, ACTINOPTERYGII E SARCOPTERYGII
+    - Suprime f) ARACHNIDA
+    - Suprime g) INSECTA
+    - Suprime h) HIRUDINOIDEA
+    - Suprime i) ANTHOZOA AND HYDROZOA
+  - date: '2025-02-18'
+    amending: eu:celex:32025R0130:por
+    amending_title: REGULAMENTO (UE) 2025/130 DA COMISSÃO de 28 de janeiro de 2025
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º-C — Finalidade da transação
+    - Altera Artigo 15.º
+    - Altera Artigo 20.º
+    - Altera Artigo 26.º
+    - Altera Artigo 65.º
+    - Altera Artigo 66.º
+    - Altera Artigo 72.º
+    - Altera ANEXO VII
+    - Altera FAUNA
+    - Altera ANEXO IX
+    - Altera PSITTACIFORMES
+    - Altera Tipos de amostras biológicas a que se refere o artigo 18.º e sua utilização
+    - Altera Notas
+    - Adita ESPÉCIMES NASCIDOS E CRIADOS EM CATIVEIRO, ESPÉCIMES REPRODUZIDOS ARTIFICIALMENTE E REGISTO DE ESTABELECIMENTOS
+      QUE CRIAM EM CATIVEIRO, PARA FINS COMERCIAIS, ESPÉCIMES DE ESPÉCIES ANIMAIS INSCRITAS NO APÊNDICE I DA CONVENÇÃO
+    - Adita Artigo 54.º-A — Registo de estabelecimentos que criam em cativeiro, para fins comerciais, espécimes de espécies
+      animais inscritas no apêndice I da convenção
+    - Adita Artigo 69.º — Relatórios sobre as importações, exportações e reexportações e sobre a execução
+    - Adita Referências-padrão da nomenclatura a utilizar nos termos do artigo 5.º, ponto 4, para a indicação dos nomes científicos
+      das espécies nas licenças e nos certificados
+    - Adita 1. Códigos a utilizar nas licenças e nos certificados para indicar a finalidade da transação, nos termos referidos
+      no artigo 5.º, ponto 5
+    - Adita 2. Códigos a utilizar nas licenças e nos certificados para indicar a proveniência dos espécimes, nos termos referidos
+      no artigo 5.º, ponto 6
+    - Adita ANEXO XIV
+    - Suprime ESPÉCIMES NASCIDOS E CRIADOS EM CATIVEIRO E ESPÉCIMES REPRODUZIDOS ARTIFICIALMENTE
+    - Suprime Artigo 69.º
+    - Suprime Referências-padrão da nomenclatura a utilizar nos termos do artigo 5.º, n.º 4, para a indicação dos nomes científicos
+      das espécies nas licenças e nos certificados
+    - Suprime FLORA
 identifiers:
   celex: 32006R0865
   eli: http://data.europa.eu/eli/reg/2006/865/oj
@@ -48,7 +227,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3bb09bf7-6250-4d32-9960-3f31581ded49.0016
   content_url: http://publications.europa.eu/resource/cellar/7e4e6722-fe79-11ef-b7db-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R0865-20250218
-  retrieved_at: '2026-10-22T02:40:39Z'
+  retrieved_at: '2026-10-22T15:04:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T16:27:31.317+01:00'
 integrity:
@@ -57,9 +236,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:39Z'
-  notes: Texto consolidado 02006R0865-20250218.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:04:31Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2006-865.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -203,37 +382,21 @@ relationships:
   date: '2001-09-21'
 article_structure:
   article_count: 96
-  section_count: 63
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 64
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:39Z'
-  warnings: []
+  checked_at: '2026-10-22T15:04:31Z'
+  warnings:
+  - '02006R0865-20060709: versão indisponível (Sem expressão na língua por para CELEX 02006R0865-20060709.)'
+  - '02006R0865-20080225: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 865/2006 da Comissão, de 4 de Maio de 2006
-
-> 02006R0865 — PT — 18.02.2025 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008R0100) — [REGULAMENTO (CE) N.º 100/2008 DA COMISSÃO de 4 de Fevereiro de 2008](http://publications.europa.eu/resource/celex/32008R0100) — L 31 — 3 — 5.2.2008
-- [►M2](http://publications.europa.eu/resource/celex/32012R0791) — [REGULAMENTO (UE) N.º 791/2012 DA COMISSÃO de 23 de agosto de 2012](http://publications.europa.eu/resource/celex/32012R0791) — L 242 — 1 — 7.9.2012
-- [►M3](http://publications.europa.eu/resource/celex/32012R0792) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 792/2012 DA COMISSÃO de 23 de agosto de 2012](http://publications.europa.eu/resource/celex/32012R0792) — L 242 — 13 — 7.9.2012
-- [M4](http://publications.europa.eu/resource/celex/32013R1283) — [REGULAMENTO (UE) N.º 1283/2013 DA COMISSÃO de 10 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1283) — L 332 — 14 — 11.12.2013
-- [M5](http://publications.europa.eu/resource/celex/32015R0056) — [REGULAMENTO (UE) 2015/56 DA COMISSÃO de 15 de janeiro de 2015](http://publications.europa.eu/resource/celex/32015R0056) — L 10 — 1 — 16.1.2015
-- [►M6](http://publications.europa.eu/resource/celex/32015R0870) — [REGULAMENTO (UE) 2015/870 DA COMISSÃO de 5 de junho de 2015](http://publications.europa.eu/resource/celex/32015R0870) — L 142 — 3 — 6.6.2015
-- [►M7](http://publications.europa.eu/resource/celex/32019R0220) — [REGULAMENTO (UE) 2019/220 DA COMISSÃO de 6 de fevereiro de 2019](http://publications.europa.eu/resource/celex/32019R0220) — L 35 — 3 — 7.2.2019
-- [►M8](http://publications.europa.eu/resource/celex/32021R2280) — [REGULAMENTO (UE) 2021/2280 DA COMISSÃO de 16 de dezembro de 2021](http://publications.europa.eu/resource/celex/32021R2280) — L 473 — 1 — 30.12.2021
-- [►M9](http://publications.europa.eu/resource/celex/32025R0130) — [REGULAMENTO (UE) 2025/130 DA COMISSÃO de 28 de janeiro de 2025](http://publications.europa.eu/resource/celex/32025R0130) — L 130 — 1 — 29.1.2025
-
-## REGULAMENTO (CE) n.º 865/2006 DA COMISSÃO
 
 de 4 de Maio de 2006
 

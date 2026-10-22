@@ -34,6 +34,49 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-01-05'
+version_history:
+  file: diretiva-ue-1989-396.versoes.json
+  count: 3
+  source_lastmod: '2012-01-05'
+  versions:
+  - date: '1989-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-03-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+  - date: '2012-01-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
 identifiers:
   celex: 31989L0396
   eli: http://data.europa.eu/eli/dir/1989/396/oj
@@ -48,7 +91,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a0c807e5-95f5-4d22-8f37-3ceea9cb2883.0011
   content_url: http://publications.europa.eu/resource/cellar/222d072a-70f2-44b2-80f3-2751bad6722f.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0396-20120105
-  retrieved_at: '2026-10-22T02:55:10Z'
+  retrieved_at: '2026-10-22T14:35:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T01:32:13.271+01:00'
 integrity:
@@ -57,9 +100,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:55:10Z'
-  notes: Texto consolidado 01989L0396-20120105.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:35:54Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1989-396.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -117,16 +160,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:55:10Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:35:54Z'
+  warnings: []
   errors: []
 ---
 

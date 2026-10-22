@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: decisao-ue-2005-270.versoes.json
+  count: 1
+  source_lastmod: '2019-04-26'
+  versions:
+  - date: '2005-04-05'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32005D0270
   eli: http://data.europa.eu/eli/dec/2005/270/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016
   content_url: http://publications.europa.eu/resource/cellar/b9fa9311-b0bf-4cf1-a6fb-539ae71e829c.0016.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:47:39Z'
+  retrieved_at: '2026-10-22T14:59:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-02T10:53:19.122+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:39Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:10Z'
+  notes: 1 versão(ões); histórico completo em decisao-ue-2005-270.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -135,21 +144,20 @@ relationships:
   date: '1997-02-26'
 article_structure:
   article_count: 11
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:39Z'
+  checked_at: '2026-10-22T14:59:10Z'
   warnings:
-  - 'Versão consolidada 02005D0270-20190426 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02005D0270-20190426: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# DECISÃO DA COMISSÃO
+# 2005/270/CE: Decisão da Comissão, de 22 de Março de 2005
 
 de 22 de Março de 2005
 

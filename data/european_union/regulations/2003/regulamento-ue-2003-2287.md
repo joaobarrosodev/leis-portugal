@@ -37,6 +37,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-06-19'
+version_history:
+  file: regulamento-ue-2003-2287.versoes.json
+  count: 1
+  source_lastmod: '2009-06-19'
+  versions:
+  - date: '2009-06-19'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32003R2287
   eli: http://data.europa.eu/eli/reg/2003/2287/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1703a17e-cc9c-4d89-b230-58cfbf305b17.0010
   content_url: http://publications.europa.eu/resource/cellar/81c6b799-fb85-48e9-a2eb-a85e2af1a80c.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R2287-20090619
-  retrieved_at: '2026-10-22T03:11:34Z'
+  retrieved_at: '2026-10-22T14:56:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:41:54.388+02:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:34Z'
-  notes: Texto consolidado 02003R2287-20090619.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:22Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2003-2287.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -250,16 +259,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:34Z'
+  checked_at: '2026-10-22T14:56:22Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '32003R2287: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2287-20041109: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

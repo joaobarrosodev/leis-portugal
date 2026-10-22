@@ -34,6 +34,23 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2004-01-27'
+version_history:
+  file: regulamento-ue-1971-281.versoes.json
+  count: 2
+  source_lastmod: '2004-01-27'
+  versions:
+  - date: '1971-02-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-01-27'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo único
+    - Suprime ANEXO — Lista das vias navegáveis de carácter marítimo referida na alínea e) do artigo 3o do Regulamento (CEE)
+      no 1108/70 do Conselho de 4 de Junho de 1970
 identifiers:
   celex: 31971R0281
   eli: http://data.europa.eu/eli/reg/1971/281/oj
@@ -48,7 +65,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/de4baac8-9d5e-4148-a8ec-9d3990da846d.0011
   content_url: http://publications.europa.eu/resource/cellar/6e808ad6-bc84-45f5-889f-d92ae6560060.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01971R0281-20040127
-  retrieved_at: '2026-10-22T03:02:12Z'
+  retrieved_at: '2026-10-22T14:30:01Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T19:20:17.532+01:00'
 integrity:
@@ -57,9 +74,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:02:12Z'
-  notes: Texto consolidado 01971R0281-20040127.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:30:01Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1971-281.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -99,16 +116,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:02:12Z'
+  checked_at: '2026-10-22T14:30:01Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01971R0281-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

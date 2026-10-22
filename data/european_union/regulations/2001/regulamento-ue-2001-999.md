@@ -36,6 +36,1261 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-03-12'
+version_history:
+  file: regulamento-ue-2001-999.versoes.json
+  count: 48
+  source_lastmod: '2025-03-12'
+  versions:
+  - date: '2001-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-01'
+    amending: eu:celex:32001R1248:por
+    amending_title: REGULAMENTO (CE) N. o 1248/2001 DA COMISSÃO de 22 de Junho de 2001; REGULAMENTO (CE) N. o 1326/2001 DA
+      COMISSÃO de 29 de Junho de 2001; M3; REGULAMENTO (CE) N. o 1494/2002 DA COMISSÃO de 21 de Agosto de 2002; REGULAMENTO
+      (CE) N. o 260/2003 DA COMISSÃO de 12 de Fevereiro de 2003; M6; REGULAMENTO (CE) N. o 1053/2003 DA COMISSÃO de 19 de
+      Junho de 2003; REGULAMENTO (CE) N. o 1128/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Junho de 2003; REGULAMENTO
+      (CE) N. o 1139/2003 DA COMISSÃO de 27 de Junho de 2003; REGULAMENTO (CE) N. o 1234/2003 DA COMISSÃO de 10 de Julho de
+      2003; REGULAMENTO (CE) N. o 1809/2003 DA COMISSÃO de 15 de Outubro de 2003; REGULAMENTO (CE) N. o 1915/2003 DA COMISSÃO
+      de 30 de Outubro de 2003; REGULAMENTO (CE) N. o 2245/2003 DA COMISSÃO de 19 de Dezembro de 2003; REGULAMENTO (CE) N.
+      o 876/2004 DA COMISSÃO de 29 de Abril de 2004; REGULAMENTO (CE) N. o 1471/2004 DA COMISSÃO de 18 de Agosto de 2004;
+      REGULAMENTO (CE) N. o 1492/2004 DA COMISSÃO de 23 de Agosto de 2004; REGULAMENTO (CE) N. o 1993/2004 DA COMISSÃO de
+      19 de Novembro de 2004; Acto relativo às condições de adesão da República Checa, da República da Estónia, da República
+      de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República
+      da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera Artigo 16.º — Introdução no mercado de produtos de origem animal
+    - Altera Artigo 23.º — Alteração dos anexos e medidas transitórias
+    - Altera Artigo 26.º — Entrada em vigor
+    - Altera ANEXO VI
+    - Altera CAPÍTULO G
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES DE CARÁCTER GERAL
+    - Adita CAPÍTULO II
+    - Adita DETERMINAÇÃO DO ESTATUTO EM MATÉRIA DE EEB
+    - Adita CAPÍTULO III
+    - Adita PREVENÇÃO DAS EET
+    - Adita CAPÍTULO IV
+    - Adita CONTROLO E ERRADICAÇÃO DAS EET
+    - Adita CAPÍTULO V
+    - Adita INTRODUÇÃO NO MERCADO E EXPORTAÇÃO
+    - Adita CAPÍTULO VI
+    - Adita LABORATÓRIOS DE REFERÊNCIA, AMOSTRAGEM, DETECÇÃO E CONTROLO
+    - Adita CAPÍTULO VII
+    - Adita DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+    - Adita ANEXO I
+    - Adita DEFINIÇÕES ESPECÍFICAS
+    - Adita ANEXO II
+    - Adita CAPÍTULO C
+    - Adita Definição das categorias
+    - Adita ANEXO III
+    - Adita SISTEMA DE VIGILÂNCIA
+    - Adita I. VIGILÂNCIA DOS BOVINOS
+    - Adita 1. Disposições gerais
+    - Adita 2. Vigilância dos animais abatidos para consumo humano
+    - Adita 3. Vigilância dos animais não abatidos para consumo humano
+    - Adita 4. Vigilância dos animais comprados para destruição nos termos do Regulamento (CE) n.º 716/96
+    - Adita 5. Vigilância de outros animais
+    - Adita 6. Medidas a tomar no seguimento dos testes
+    - Adita II. VIGILÂNCIA DE OVINOS E CAPRINOS
+    - Adita 2. Vigilância dos ovinos abatidos para consumo humano
+    - Adita 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+  - date: '2005-02-11'
+    amending: eu:celex:32005R0036:por
+    amending_title: REGULAMENTO (CE) N. o 36/2005 DA COMISSÃO de 12 de Janeiro de 2005; REGULAMENTO (CE) N. o 214/2005 DA
+      COMISSÃO de 9 de Fevereiro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera Artigo 16.º — Introdução no mercado de produtos de origem animal
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 6. Medidas a tomar no seguimento dos testes
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera III. VIGILÂNCIA DE OUTRAS ESPÉCIES ANIMAIS
+    - Altera Extensão da proibição prevista no n.º 1 do artigo 7.º
+    - Altera MATÉRIAS DE RISCO ESPECIFICADAS
+    - Altera ERRADICAÇÃO DA ENCEFALOPATIA ESPONGIFORME TRANSMISSÍVEL
+    - Altera I. CONDIÇÕES APLICÁVEIS INDEPENDENTEMENTE DA CATEGORIA DO ESTADO-MEMBRO OU DO PAÍS TERCEIRO DE ORIGEM OU DE RESIDÊNCIA
+      DO ANIMAL
+    - Altera Importação de embriões e óvulos de bovinos
+    - Altera 1. Amostragem
+    - Altera 2. Laboratórios
+    - Altera 3.1. Análises laboratoriais para detecção da presença de EEB nos bovinos
+    - Altera 4. Testes rápidos
+    - Altera A. Relativo a matérias de risco especificadas, carne mecanicamente separada e técnicas de abate
+    - Altera D. Relativamente à introdução no mercado e à exportação
+    - Altera Notas
+    - Adita 2. Vigilância dos ovinos e caprinos abatidos para consumo humano
+    - Adita 4. Regras de amostragem aplicáveis aos animais referidos nos pontos 2 e 3
+    - Adita 5. Vigilância em efectivos infectados
+    - Adita 6. Vigilância de outros animais
+    - Adita 7. Medidas subsequentes aos testes efectuados em ovinos e caprinos
+    - Adita 8. Determinação de genótipos
+    - Adita Obrigações em matéria de relatório e registo
+    - Adita I. OBRIGAÇÕES DOS ESTADOS MEMBROS
+    - Adita A. Informações a apresentar nos relatórios anuais dos Estados-Membros, nos termos do n.º 4 do artigo 6.º
+    - Adita B. Periodicidade dos relatórios
+    - Adita a) Casos suspeitos
+    - Adita b) Vigilância da EEB
+    - Adita 3.2. Análises laboratoriais para detecção da presença de EET nos ovinos e caprinos
+    - Adita b) Vigilância do tremor epizoótico
+    - Adita c) Análises suplementares aos casos positivos de tremor epizoótico
+    - Adita d) Laboratórios aprovados para realização de mais exames através de métodos de tipagem molecular
+    - Adita 3.3. Análises laboratoriais para detecção da presença de EET em espécies que não as referidas nos pontos 3.1 e
+      3.2.
+  - date: '2005-03-09'
+    amending: eu:celex:32005R0260:por
+    amending_title: REGULAMENTO (CE) N. o 260/2005 DA COMISSÃO de 16 de Fevereiro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera Artigo 16.º — Introdução no mercado de produtos de origem animal
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 6. Medidas a tomar no seguimento dos testes
+    - Altera 2. Vigilância dos ovinos e caprinos abatidos para consumo humano
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera Extensão da proibição prevista no n.º 1 do artigo 7.º
+    - Altera MATÉRIAS DE RISCO ESPECIFICADAS
+    - Altera ERRADICAÇÃO DA ENCEFALOPATIA ESPONGIFORME TRANSMISSÍVEL
+    - Altera I. CONDIÇÕES APLICÁVEIS INDEPENDENTEMENTE DA CATEGORIA DO ESTADO-MEMBRO OU DO PAÍS TERCEIRO DE ORIGEM OU DE RESIDÊNCIA
+      DO ANIMAL
+    - Altera Importação de embriões e óvulos de bovinos
+    - Altera 4. Testes rápidos
+    - Altera A. Relativo a matérias de risco especificadas, carne mecanicamente separada e técnicas de abate
+    - Altera D. Relativamente à introdução no mercado e à exportação
+    - Altera Notas
+  - date: '2005-07-01'
+    amending: eu:celex:32005R0932:por
+    amending_title: REGULAMENTO (CE) N.O 932/2005 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de Junho de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera Artigo 16.º — Introdução no mercado de produtos de origem animal
+    - Altera Artigo 23.º — Alteração dos anexos e medidas transitórias
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 6. Medidas a tomar no seguimento dos testes
+    - Altera 2. Vigilância dos ovinos e caprinos abatidos para consumo humano
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera Extensão da proibição prevista no n.º 1 do artigo 7.º
+    - Altera MATÉRIAS DE RISCO ESPECIFICADAS
+    - Altera ERRADICAÇÃO DA ENCEFALOPATIA ESPONGIFORME TRANSMISSÍVEL
+    - Altera I. CONDIÇÕES APLICÁVEIS INDEPENDENTEMENTE DA CATEGORIA DO ESTADO-MEMBRO OU DO PAÍS TERCEIRO DE ORIGEM OU DE RESIDÊNCIA
+      DO ANIMAL
+    - Altera Importação de embriões e óvulos de bovinos
+    - Altera A. Relativo a matérias de risco especificadas, carne mecanicamente separada e técnicas de abate
+    - Altera D. Relativamente à introdução no mercado e à exportação
+    - Altera Notas
+  - date: '2005-09-01'
+    amending: eu:celex:32005R1292:por
+    amending_title: REGULAMENTO (CE) N. o 1292/2005 DA COMISSÃO de 5 de Agosto de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera Artigo 16.º — Introdução no mercado de produtos de origem animal
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 6. Medidas a tomar no seguimento dos testes
+    - Altera 2. Vigilância dos ovinos e caprinos abatidos para consumo humano
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera MATÉRIAS DE RISCO ESPECIFICADAS
+    - Altera ERRADICAÇÃO DA ENCEFALOPATIA ESPONGIFORME TRANSMISSÍVEL
+    - Altera I. CONDIÇÕES APLICÁVEIS INDEPENDENTEMENTE DA CATEGORIA DO ESTADO-MEMBRO OU DO PAÍS TERCEIRO DE ORIGEM OU DE RESIDÊNCIA
+      DO ANIMAL
+    - Altera Importação de embriões e óvulos de bovinos
+    - Altera A. Relativo a matérias de risco especificadas, carne mecanicamente separada e técnicas de abate
+    - Altera D. Relativamente à introdução no mercado e à exportação
+    - Altera Notas
+    - Adita I. Extensão da proibição prevista no n.º 1 do artigo 7.º
+    - Adita II. Derrogações às proibições previstas nos n.^os^ 1 e 2 do artigo 7.º e disposições específicas relativas à aplicação
+      dessas derrogações.
+    - Adita III. Condições gerais de execução
+    - Suprime Extensão da proibição prevista no n.º 1 do artigo 7.º
+  - date: '2006-01-01'
+    amending: eu:celex:32005R1974:por
+    amending_title: REGULAMENTO (CE) N. o 1974/2005 DA COMISSÃO de 2 de Dezembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera Artigo 16.º — Introdução no mercado de produtos de origem animal
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 6. Medidas a tomar no seguimento dos testes
+    - Altera 2. Vigilância dos ovinos e caprinos abatidos para consumo humano
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera MATÉRIAS DE RISCO ESPECIFICADAS
+    - Altera ERRADICAÇÃO DA ENCEFALOPATIA ESPONGIFORME TRANSMISSÍVEL
+    - Altera I. CONDIÇÕES APLICÁVEIS INDEPENDENTEMENTE DA CATEGORIA DO ESTADO-MEMBRO OU DO PAÍS TERCEIRO DE ORIGEM OU DE RESIDÊNCIA
+      DO ANIMAL
+    - Altera Importação de embriões e óvulos de bovinos
+    - Altera Laboratórios nacionais de referência
+    - Altera A. Relativo a matérias de risco especificadas, carne mecanicamente separada e técnicas de abate
+    - Altera D. Relativamente à introdução no mercado e à exportação
+    - Altera Notas
+  - date: '2006-03-17'
+    amending: eu:celex:32006R0253:por
+    amending_title: REGULAMENTO (CE) N. o 253/2006 DA COMISSÃO de 14 de Fevereiro de 2006; REGULAMENTO (CE) N. o 339/2006
+      DA COMISSÃO de 24 de Fevereiro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera Artigo 16.º — Introdução no mercado de produtos de origem animal
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 6. Medidas a tomar no seguimento dos testes
+    - Altera 2. Vigilância dos ovinos e caprinos abatidos para consumo humano
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera MATÉRIAS DE RISCO ESPECIFICADAS
+    - Altera ERRADICAÇÃO DA ENCEFALOPATIA ESPONGIFORME TRANSMISSÍVEL
+    - Altera I. CONDIÇÕES APLICÁVEIS INDEPENDENTEMENTE DA CATEGORIA DO ESTADO-MEMBRO OU DO PAÍS TERCEIRO DE ORIGEM OU DE RESIDÊNCIA
+      DO ANIMAL
+    - Altera Importação de embriões e óvulos de bovinos
+    - Altera 4. Testes rápidos
+    - Altera A. Relativo a matérias de risco especificadas, carne mecanicamente separada e técnicas de abate
+    - Altera D. Relativamente à introdução no mercado e à exportação
+    - Altera Notas
+    - Adita OBRIGAÇÕES EM MATÉRIA DE RELATÓRIO E REGISTO
+    - Suprime Obrigações em matéria de relatório e registo
+  - date: '2006-05-25'
+    amending: eu:celex:32006R0657:por
+    amending_title: REGULAMENTO (CE) N. o 657/2006 DA COMISSÃO de 10 de Abril de 2006; REGULAMENTO (CE) N. o 688/2006 DA COMISSÃO
+      de 4 de Maio de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera Artigo 16.º — Introdução no mercado de produtos de origem animal
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 4. Vigilância dos animais comprados para destruição nos termos do Regulamento (CE) n.º 716/96
+    - Altera 6. Medidas a tomar no seguimento dos testes
+    - Altera 2. Vigilância dos ovinos e caprinos abatidos para consumo humano
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera MATÉRIAS DE RISCO ESPECIFICADAS
+    - Altera ERRADICAÇÃO DA ENCEFALOPATIA ESPONGIFORME TRANSMISSÍVEL
+    - Altera I. CONDIÇÕES APLICÁVEIS INDEPENDENTEMENTE DA CATEGORIA DO ESTADO-MEMBRO OU DO PAÍS TERCEIRO DE ORIGEM OU DE RESIDÊNCIA
+      DO ANIMAL
+    - Altera Importação de embriões e óvulos de bovinos
+    - Altera A. Relativo a matérias de risco especificadas, carne mecanicamente separada e técnicas de abate
+    - Altera D. Relativamente à introdução no mercado e à exportação
+    - Altera Notas
+  - date: '2006-07-09'
+    amending: eu:celex:32006R1041:por
+    amending_title: REGULAMENTO (CE) N. o 1041/2006 DA COMISSÃO de 7 de Julho de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera Artigo 16.º — Introdução no mercado de produtos de origem animal
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 6. Medidas a tomar no seguimento dos testes
+    - Altera 2. Vigilância dos ovinos e caprinos abatidos para consumo humano
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera MATÉRIAS DE RISCO ESPECIFICADAS
+    - Altera ERRADICAÇÃO DA ENCEFALOPATIA ESPONGIFORME TRANSMISSÍVEL
+    - Altera I. CONDIÇÕES APLICÁVEIS INDEPENDENTEMENTE DA CATEGORIA DO ESTADO-MEMBRO OU DO PAÍS TERCEIRO DE ORIGEM OU DE RESIDÊNCIA
+      DO ANIMAL
+    - Altera Importação de embriões e óvulos de bovinos
+    - Altera A. Relativo a matérias de risco especificadas, carne mecanicamente separada e técnicas de abate
+    - Altera D. Relativamente à introdução no mercado e à exportação
+    - Altera Notas
+    - Adita a) Ovinos
+    - Adita b) Caprinos
+  - date: '2007-01-19'
+    amending: eu:celex:32006R1791:por
+    amending_title: REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006; REGULAMENTO (CE) N. o 1923/2006
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 5.º — Classificação
+    - Altera Artigo 6.º — Sistema de vigilância
+    - Altera Artigo 7.º — Proibições relativas à alimentação dos animais
+    - Altera Artigo 8.º — Matérias de risco especificadas
+    - Altera Artigo 9.º — Produtos de origem animal derivados de matérias provenientes de ruminantes ou que as contenham
+    - Altera Artigo 11.º — Notificação
+    - Altera Artigo 12.º — Medidas em relação a animais suspeitos
+    - Altera Artigo 13.º — Medidas subsequentes à confirmação de EET
+    - Altera Artigo 15.º — Animais vivos, respectivo sémen, embriões e óvulos
+    - Altera Artigo 16.º — Introdução no mercado de produtos de origem animal
+    - Altera Artigo 24.º — Comités
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 6. Medidas a tomar no seguimento dos testes
+    - Altera a) Ovinos
+    - Altera b) Caprinos
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera MATÉRIAS DE RISCO ESPECIFICADAS
+    - Altera ERRADICAÇÃO DA ENCEFALOPATIA ESPONGIFORME TRANSMISSÍVEL
+    - Altera I. CONDIÇÕES APLICÁVEIS INDEPENDENTEMENTE DA CATEGORIA DO ESTADO-MEMBRO OU DO PAÍS TERCEIRO DE ORIGEM OU DE RESIDÊNCIA
+      DO ANIMAL
+    - Altera Importação de embriões e óvulos de bovinos
+    - Altera Laboratórios nacionais de referência
+    - Altera A. Relativo a matérias de risco especificadas, carne mecanicamente separada e técnicas de abate
+    - Altera D. Relativamente à introdução no mercado e à exportação
+    - Altera Notas
+    - Adita Artigo 6.º-A — Programas de criação
+    - Adita Artigo 23.º-A
+    - Adita Artigo 24.º-A
+  - date: '2007-07-17'
+    amending: eu:celex:32007R0722:por
+    amending_title: REGULAMENTO (CE) N. o 722/2007 DA COMISSÃO de 25 de Junho de 2007; REGULAMENTO (CE) N. o 727/2007 DA COMISSÃO
+      de 26 de Junho de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera CAPÍTULO A
+    - Altera CAPÍTULO B
+    - Altera Definição das categorias
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 6. Medidas a tomar no seguimento dos testes
+    - Altera 2. Vigilância dos ovinos e caprinos abatidos para consumo humano
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera 4. Regras de amostragem aplicáveis aos animais referidos nos pontos 2 e 3
+    - Altera 5. Vigilância em efectivos infectados
+    - Altera 6. Vigilância de outros animais
+    - Altera 7. Medidas subsequentes aos testes efectuados em ovinos e caprinos
+    - Altera 8. Determinação de genótipos
+    - Altera MATÉRIAS DE RISCO ESPECIFICADAS
+    - Altera ERRADICAÇÃO DA ENCEFALOPATIA ESPONGIFORME TRANSMISSÍVEL
+    - Altera Condições para as trocas intracomunitárias de certos produtos de origem animal
+    - Altera Importação de bovinos
+    - Altera CAPÍTULO F
+    - Altera 1. Amostragem
+    - Altera c) Análises suplementares aos casos positivos de tremor epizoótico
+    - Altera Notas
+    - Adita Critérios
+    - Adita Análise dos riscos
+    - Adita 1. Estrutura da análise dos riscos
+    - Adita 2. Avaliação da libertação (desafio externo)
+    - Adita 3. Avaliação da exposição
+    - Adita I. PAÍS OU REGIÃO COM UM RISCO NEGLIGENCIÁVEL DE EEB
+    - Adita II. PAÍS OU REGIÃO COM UM RISCO CONTROLADO DE EEB
+    - Adita III. PAÍS OU REGIÃO COM UM RISCO INDETERMINADO DE EEB
+    - Adita Requisitos mínimos de vigilância
+    - Adita 1. Tipos de vigilância
+    - Adita 2. Estratégia de vigilância
+    - Adita 3. Valores de pontuação e pontuação-objectivo
+    - Adita 4. Vigilância com orientação específica
+    - Adita 5. Modelo de vigilância da EEB
+  - date: '2007-11-02'
+    amending: eu:celex:32007R1275:por
+    amending_title: REGULAMENTO (CE) N. o 1275/2007 DA COMISSÃO de 29 de Outubro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 6. Medidas a tomar no seguimento dos testes
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera 11. Controlos
+    - Altera I. CONDIÇÕES APLICÁVEIS AOS OVINOS E CAPRINOS E RESPECTIVOS SÉMEN E EMBRIÕES
+    - Altera Notas
+  - date: '2008-01-15'
+    amending: eu:celex:32007R1428:por
+    amending_title: REGULAMENTO (CE) N. o 1428/2007 DA COMISSÃO de 4 de Dezembro de 2007; REGULAMENTO (CE) N. o 21/2008 DA
+      COMISSÃO de 11 de Janeiro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 6. Medidas a tomar no seguimento dos testes
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera 11. Controlos
+    - Altera PRODUTOS DE ORIGEM ANIMAL DERIVADOS DE MATÉRIAS PROVENIENTES DE RUMINANTES OU QUE AS CONTENHAM, TAL COMO REFERIDOS
+      NO N.º 1 DO ARTIGO 9.º
+    - Altera Medidas após a confirmação da presença de uma EET
+    - Altera I. CONDIÇÕES APLICÁVEIS AOS OVINOS E CAPRINOS E RESPECTIVOS SÉMEN E EMBRIÕES
+    - Altera c) Análises suplementares aos casos positivos de tremor epizoótico
+    - Altera 4. Testes rápidos
+    - Altera Notas
+  - date: '2008-04-26'
+    amending: eu:celex:32008R0315:por
+    amending_title: REGULAMENTO (CE) N. o 315/2008 DA COMISSÃO de 4 de Abril de 2008; REGULAMENTO (CE) N. o 357/2008 DA COMISSÃO
+      de 22 de Abril de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 6. Medidas a tomar no seguimento dos testes
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera 1. Definição de matérias de risco especificadas
+    - Altera 11. Controlos
+    - Altera I. CONDIÇÕES APLICÁVEIS AOS OVINOS E CAPRINOS E RESPECTIVOS SÉMEN E EMBRIÕES
+    - Altera c) Análises suplementares aos casos positivos de tremor epizoótico
+    - Altera 4. Testes rápidos
+    - Altera Notas
+  - date: '2008-07-10'
+    amending: eu:celex:32008R0571:por
+    amending_title: REGULAMENTO (CE) N. o 571/2008 DA COMISSÃO de 19 de Junho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 6. Medidas a tomar no seguimento dos testes
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera 11. Controlos
+    - Altera I. CONDIÇÕES APLICÁVEIS AOS OVINOS E CAPRINOS E RESPECTIVOS SÉMEN E EMBRIÕES
+    - Altera Notas
+    - Adita 7. Revisão dos programas anuais de vigilância da EEB («programas de vigilância da EEB»), nos termos do n.º 1-B
+      do artigo 6.º
+  - date: '2008-09-29'
+    amending: eu:celex:32008R0746:por
+    amending_title: REGULAMENTO (CE) N. o 746/2008 DA COMISSÃO de 17 de Junho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 6. Medidas a tomar no seguimento dos testes
+    - Altera 7. Revisão dos programas anuais de vigilância da EEB («programas de vigilância da EEB»), nos termos do n.º 1-B
+      do artigo 6.º
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera 11. Controlos
+    - Altera Medidas após a confirmação da presença de uma EET
+    - Altera I. CONDIÇÕES APLICÁVEIS AOS OVINOS E CAPRINOS E RESPECTIVOS SÉMEN E EMBRIÕES
+    - Altera Notas
+  - date: '2008-10-20'
+    amending: eu:celex:32008R0956:por
+    amending_title: REGULAMENTO (CE) N. o 956/2008 DA COMISSÃO de 29 de Setembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 6. Medidas a tomar no seguimento dos testes
+    - Altera 7. Revisão dos programas anuais de vigilância da EEB («programas de vigilância da EEB»), nos termos do n.º 1-B
+      do artigo 6.º
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera II. Derrogações às proibições previstas nos n.^os^ 1 e 2 do artigo 7.º e disposições específicas relativas à
+      aplicação dessas derrogações.
+    - Altera III. Condições gerais de execução
+    - Altera 11. Controlos
+    - Altera I. CONDIÇÕES APLICÁVEIS AOS OVINOS E CAPRINOS E RESPECTIVOS SÉMEN E EMBRIÕES
+    - Altera Notas
+  - date: '2009-02-24'
+    amending: eu:celex:32009R0103:por
+    amending_title: REGULAMENTO (CE) N. o 103/2009 DA COMISSÃO de 3 de Fevereiro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 6. Medidas a tomar no seguimento dos testes
+    - Altera 7. Revisão dos programas anuais de vigilância da EEB («programas de vigilância da EEB»), nos termos do n.º 1-B
+      do artigo 6.º
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera 11. Controlos
+    - Altera Medidas após a confirmação da presença de uma EET
+    - Altera I. CONDIÇÕES APLICÁVEIS AOS OVINOS E CAPRINOS E RESPECTIVOS SÉMEN E EMBRIÕES
+    - Altera Notas
+    - Adita Exigências de certificação sanitária
+  - date: '2009-03-19'
+    amending: eu:celex:32009R0162:por
+    amending_title: REGULAMENTO (CE) N. o 162/2009 DA COMISSÃO de 26 de Fevereiro de 2009; REGULAMENTO (CE) N. o 163/2009
+      DA COMISSÃO de 26 de Fevereiro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 6. Medidas a tomar no seguimento dos testes
+    - Altera 7. Revisão dos programas anuais de vigilância da EEB («programas de vigilância da EEB»), nos termos do n.º 1-B
+      do artigo 6.º
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera II. Derrogações às proibições previstas nos n.^os^ 1 e 2 do artigo 7.º e disposições específicas relativas à
+      aplicação dessas derrogações.
+    - Altera 11. Controlos
+    - Altera PRODUTOS DE ORIGEM ANIMAL DERIVADOS DE MATÉRIAS PROVENIENTES DE RUMINANTES OU QUE AS CONTENHAM, TAL COMO REFERIDOS
+      NO N.º 1 DO ARTIGO 9.º
+    - Altera I. CONDIÇÕES APLICÁVEIS AOS OVINOS E CAPRINOS E RESPECTIVOS SÉMEN E EMBRIÕES
+    - Altera a) Casos suspeitos
+    - Altera b) Vigilância da EEB
+    - Altera 4. Testes rápidos
+    - Altera Notas
+    - Adita c) Análises suplementares aos casos positivos de EET
+    - Suprime c) Análises suplementares aos casos positivos de tremor epizoótico
+  - date: '2009-04-20'
+    amending: eu:celex:32009R0220:por
+    amending_title: REGULAMENTO (CE) N. o 220/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 5.º — Classificação
+    - Altera Artigo 9.º — Produtos de origem animal derivados de matérias provenientes de ruminantes ou que as contenham
+    - Altera Artigo 11.º — Notificação
+    - Altera Artigo 13.º — Medidas subsequentes à confirmação de EET
+    - Altera Artigo 16.º — Introdução no mercado de produtos de origem animal
+    - Altera Artigo 20.º — Amostragem e métodos laboratoriais de análise
+    - Altera Artigo 23.º — Alteração dos anexos e medidas transitórias
+    - Altera Artigo 23.º-A
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7. Revisão dos programas anuais de vigilância da EEB («programas de vigilância da EEB»), nos termos do n.º 1-B
+      do artigo 6.º
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera 11. Controlos
+    - Altera I. CONDIÇÕES APLICÁVEIS AOS OVINOS E CAPRINOS E RESPECTIVOS SÉMEN E EMBRIÕES
+    - Altera Notas
+  - date: '2011-01-01'
+    amending: eu:celex:32010R0956:por
+    amending_title: REGULAMENTO (UE) N. o 956/2010 DA COMISSÃO de 22 de Outubro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7. Revisão dos programas anuais de vigilância da EEB («programas de vigilância da EEB»), nos termos do n.º 1-B
+      do artigo 6.º
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera 11. Controlos
+    - Altera I. CONDIÇÕES APLICÁVEIS AOS OVINOS E CAPRINOS E RESPECTIVOS SÉMEN E EMBRIÕES
+    - Altera 4. Testes rápidos
+    - Altera Notas
+    - Adita 7.1. Pedidos dos Estados-Membros
+    - Adita 7.2. Critérios epidemiológicos
+  - date: '2011-03-18'
+    amending: eu:celex:32011R0189:por
+    amending_title: Regulamento (UE) n. o 189/2011 da Comissão de 25 de Fevereiro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7.1. Pedidos dos Estados-Membros
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera 11. Controlos
+    - Altera Medidas após a confirmação da presença de uma EET
+    - Altera I. CONDIÇÕES APLICÁVEIS AOS OVINOS E CAPRINOS E RESPECTIVOS SÉMEN E EMBRIÕES
+    - Altera Subprodutos animais
+    - Altera Exigências de certificação sanitária
+    - Altera Notas
+  - date: '2012-11-17'
+    amending: eu:celex:32012R1064:por
+    amending_title: REGULAMENTO (UE) N. o 1064/2012 DA COMISSÃO de 13 de novembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7.1. Pedidos dos Estados-Membros
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera 11. Controlos
+    - Altera I. CONDIÇÕES APLICÁVEIS AOS OVINOS E CAPRINOS E RESPECTIVOS SÉMEN E EMBRIÕES
+    - Altera Subprodutos animais
+    - Altera Exigências de certificação sanitária
+    - Altera 4. Testes rápidos
+    - Altera Notas
+  - date: '2013-06-01'
+    amending: eu:celex:32013R0056:por
+    amending_title: REGULAMENTO (UE) N. o 56/2013 DA COMISSÃO de 16 de janeiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7.1. Pedidos dos Estados-Membros
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera 11. Controlos
+    - Altera I. CONDIÇÕES APLICÁVEIS AOS OVINOS E CAPRINOS E RESPECTIVOS SÉMEN E EMBRIÕES
+    - Altera Subprodutos animais
+    - Altera Exigências de certificação sanitária
+    - Altera Notas
+    - Adita Extensão da proibição prevista no artigo 7.º, n.º 1
+    - Adita Derrogações às proibições previstas no artigo 7.º, n.º 1, e no capítulo I
+    - Adita Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Adita Condições específicas para a aplicação das derrogações previstas no capítulo II
+    - Adita Requisitos gerais
+    - Suprime I. Extensão da proibição prevista no n.º 1 do artigo 7.º
+    - Suprime II. Derrogações às proibições previstas nos n.^os^ 1 e 2 do artigo 7.º e disposições específicas relativas à
+      aplicação dessas derrogações.
+    - Suprime III. Condições gerais de execução
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013; REGULAMENTO (UE) N. o 630/2013 DA COMISSÃO
+      de 28 de junho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7.1. Pedidos dos Estados-Membros
+    - Altera 2. Vigilância dos ovinos e caprinos abatidos para consumo humano
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera 11. Controlos
+    - Altera Subprodutos animais
+    - Altera Exigências de certificação sanitária
+    - Altera Importações de ovinos e de caprinos
+    - Altera Importação de sémen e embriões de ovinos e caprinos
+    - Altera Laboratórios nacionais de referência
+    - Altera c) Análises suplementares aos casos positivos de EET
+    - Altera 4. Testes rápidos
+    - Altera Notas
+    - Adita 5. Vigilância em explorações ao abrigo de medidas de controlo e erradicação das EET
+    - Adita CONTROLO E ERRADICAÇÃO DE ENCEFALOPATIAS ESPONGIFORMES TRANSMISSÍVEIS
+    - Adita Medidas a tomar perante a suspeita da presença de uma eet em ovinos e caprinos
+    - Adita Medidas a tomar perante a suspeita da presença de uma eet em bovinos, ovinos e caprinos
+    - Adita Requisitos mínimos para um programa de criação de ovinos resistentes às eet em conformidade com o Artigo 6.º-A
+    - Adita Condições aplicáveis às trocas intra-União de animais vivos, sémen e embriões
+    - Adita Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+    - 'Adita 1. Nas explorações com um risco negligenciável de tremor epizoótico clássico e um risco controlado de tremor
+      epizoótico clássico:'
+    - Adita 2. Estados-Membros ou zonas de um Estado-Membro com um risco negligenciável de tremor epizoótico clássico
+    - 'Adita 3. Programa nacional de controlo para o tremor epizoótico clássico:'
+    - Adita 4. Comércio intra-União de ovinos e caprinos e respetivo sémen e embriões
+    - Adita Condições aplicáveis aos bovinos
+    - Suprime 5. Vigilância em efectivos infectados
+    - Suprime ERRADICAÇÃO DA ENCEFALOPATIA ESPONGIFORME TRANSMISSÍVEL
+    - Suprime Medidas após a confirmação da presença de uma EET
+    - Suprime Requisitos mínimos para um programa de criação de ovinos resistentes às EET em conformidade com o artigo 6.º-A
+    - Suprime Condições aplicáveis às trocas intracomunitárias de animais vivos, sémen e embriões
+    - Suprime I. CONDIÇÕES APLICÁVEIS AOS OVINOS E CAPRINOS E RESPECTIVOS SÉMEN E EMBRIÕES
+    - Suprime II. CONDIÇÕES APLICÁVEIS AOS BOVINOS
+  - date: '2015-01-01'
+    amending: eu:celex:32014R1148:por
+    amending_title: REGULAMENTO (UE) N. o 1148/2014 DA COMISSÃO de 28 de outubro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 1. Estrutura da análise dos riscos
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7.1. Pedidos dos Estados-Membros
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera 11. Controlos
+    - 'Altera 1. Nas explorações com um risco negligenciável de tremor epizoótico clássico e um risco controlado de tremor
+      epizoótico clássico:'
+    - Altera 2. Estados-Membros ou zonas de um Estado-Membro com um risco negligenciável de tremor epizoótico clássico
+    - 'Altera 3. Programa nacional de controlo para o tremor epizoótico clássico:'
+    - Altera 4. Comércio intra-União de ovinos e caprinos e respetivo sémen e embriões
+    - Altera Importação de sémen e embriões de ovinos e caprinos
+    - Altera Laboratórios nacionais de referência
+    - Altera 1. Amostragem
+    - Altera 2. Laboratórios
+    - Altera a) Casos suspeitos
+    - Altera b) Vigilância da EEB
+    - Altera c) Análises suplementares aos casos positivos de EET
+    - Altera b) Vigilância das EET
+    - Altera 4. Testes rápidos
+    - Altera Notas
+    - Adita 2. Avaliação da entrada (desafio externo)
+    - Adita Laboratório de referência da UE
+    - Adita Amostragem e análises laboratoriais
+    - Adita 3.1. Análises laboratoriais para deteção da presença de EEB nos bovinos
+    - Adita 3.2. Análises laboratoriais para deteção da presença de EET nos ovinos e caprinos
+    - Adita i) Análise molecular primária com um método de Western blotting discriminatório
+    - Adita ii) Análise molecular secundária com métodos adicionais de análise molecular
+    - Adita iii) Bioensaio em ratos
+    - Adita 3.3. Análises laboratoriais para deteção da presença de EET em espécies que não as referidas nos pontos 3.1 e
+      3.2.
+    - Suprime 2. Avaliação da libertação (desafio externo)
+    - Suprime Laboratório comunitário de referência
+    - Suprime Amostragem e métodos laboratoriais
+    - Suprime 3.1. Análises laboratoriais para detecção da presença de EEB nos bovinos
+  - date: '2015-05-27'
+    amending: eu:celex:32015R0728:por
+    amending_title: REGULAMENTO (UE) 2015/728 DA COMISSÃO de 6 de maio de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7.1. Pedidos dos Estados-Membros
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera 1. Definição de matérias de risco especificadas
+    - Altera 11. Controlos
+    - Altera Laboratórios nacionais de referência
+    - Altera Notas
+  - date: '2015-08-05'
+    amending: eu:celex:32015R1162:por
+    amending_title: REGULAMENTO (UE) 2015/1162 DA COMISSÃO de 15 de julho de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7.1. Pedidos dos Estados-Membros
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera 11. Controlos
+    - Altera Notas
+    - Adita 2. Requisitos específicos aplicáveis aos Estados-Membros com um estatuto de risco negligenciável de EEB
+    - Suprime 2. Derrogação para os Estados-Membros
+  - date: '2016-02-03'
+    amending: eu:celex:32016R0027:por
+    amending_title: REGULAMENTO (UE) 2016/27 DA COMISSÃO de 13 de janeiro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7.1. Pedidos dos Estados-Membros
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera III. REGISTOS
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera Requisitos gerais
+    - Altera 11. Controlos
+    - Altera Notas
+    - Adita A. Informações a apresentar nos relatórios anuais dos Estados-Membros, nos termos do artigo 6.º, n.º 4
+    - Adita B. Período abrangido pelo relatório
+    - Adita II. INFORMAÇÕES A APRESENTAR NO RELATÓRIO DE SÍNTESE DA UNIÃO
+    - Suprime A. Informações a apresentar nos relatórios anuais dos Estados-Membros, nos termos do n.º 4 do artigo 6.º
+    - Suprime B. Periodicidade dos relatórios
+    - Suprime II. INFORMAÇÕES A APRESENTAR NA SÚMULA DA COMISSÃO
+  - date: '2016-09-08'
+    amending: eu:celex:32016R1396:por
+    amending_title: REGULAMENTO (UE) 2016/1396 DA COMISSÃO de 18 de agosto de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera Critérios
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7.1. Pedidos dos Estados-Membros
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera 7. Medidas subsequentes aos testes efectuados em ovinos e caprinos
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera 3. Marcação e eliminação
+    - Altera 4. Remoção das matérias de risco especificadas
+    - Altera 6. Medidas respeitantes à laceração dos tecidos
+    - Altera 7. Remoção das línguas de bovinos
+    - Altera 11. Controlos
+    - Altera Medidas a tomar perante a suspeita da presença de uma eet em bovinos, ovinos e caprinos
+    - Altera Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+    - Altera Notas
+    - Adita 6. Medidas a tomar na sequência dos testes
+    - Suprime 6. Medidas a tomar no seguimento dos testes
+    - 'Suprime 1. Nas explorações com um risco negligenciável de tremor epizoótico clássico e um risco controlado de tremor
+      epizoótico clássico:'
+    - Suprime 2. Estados-Membros ou zonas de um Estado-Membro com um risco negligenciável de tremor epizoótico clássico
+    - 'Suprime 3. Programa nacional de controlo para o tremor epizoótico clássico:'
+    - Suprime 4. Comércio intra-União de ovinos e caprinos e respetivo sémen e embriões
+  - date: '2017-02-13'
+    amending: eu:celex:32017R0110:por
+    amending_title: REGULAMENTO (UE) 2017/110 DA COMISSÃO de 23 de janeiro de 2017
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7.1. Pedidos dos Estados-Membros
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera Condições específicas para a aplicação das derrogações previstas no capítulo II
+    - Altera 11. Controlos
+    - Altera Medidas a tomar perante a suspeita da presença de uma eet em bovinos, ovinos e caprinos
+    - Altera Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+    - Altera 4. Testes rápidos
+    - Altera Notas
+  - date: '2017-05-17'
+    amending: eu:celex:32017R0736:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2017/736 DA COMISSÃO de 26 de abril de 2017
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7.1. Pedidos dos Estados-Membros
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera 11. Controlos
+    - Altera Medidas a tomar perante a suspeita da presença de uma eet em bovinos, ovinos e caprinos
+    - Altera Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+    - Altera Notas
+  - date: '2017-07-01'
+    amending: eu:celex:32017R0893:por
+    amending_title: REGULAMENTO (UE) 2017/893 DA COMISSÃO de 24 de maio de 2017
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7.1. Pedidos dos Estados-Membros
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera Derrogações às proibições previstas no artigo 7.º, n.º 1, e no capítulo I
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera Condições específicas para a aplicação das derrogações previstas no capítulo II
+    - Altera Requisitos gerais
+    - Altera 11. Controlos
+    - Altera Medidas a tomar perante a suspeita da presença de uma eet em bovinos, ovinos e caprinos
+    - Altera Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+    - Altera Importações de ovinos e de caprinos
+    - Altera Importação de sémen e embriões de ovinos e caprinos
+    - Altera Notas
+    - Adita IMPORTAÇÃO DE ANIMAIS VIVOS, EMBRIÕES, ÓVULOS E PRODUTOS DE ORIGEM ANIMAL PARA A UNIÃO
+    - Adita Importações de bovinos
+    - Adita Importações de produtos de origem bovina, ovina ou caprina
+    - Adita Importações de subprodutos animais e produtos derivados de origem bovina, ovina e caprina
+    - Adita Importações de produtos de origem animal derivados de cervídeos de criação e selvagens
+    - Suprime IMPORTAÇÃO DE ANIMAIS VIVOS, EMBRIÕES, ÓVULOS E PRODUTOS DE ORIGEM ANIMAL PARA A COMUNIDADE
+    - Suprime Importação de bovinos
+    - Suprime Importação de um país ou região com um risco negligenciável de EEB
+    - Suprime Importação de um país ou região com um risco controlado de EEB
+    - Suprime SECÇÃO C
+    - Suprime Importação de um país ou região com um risco indeterminado de EEB
+    - Suprime Importação de produtos de origem animal das espécies bovina, ovina ou caprina
+    - Suprime SECÇÃO D
+    - Suprime Importação de subprodutos animais de origem bovina, ovina ou caprina e de produtos transformados derivados desses
+      subprodutos
+    - Suprime Subprodutos animais
+    - Suprime Exigências de certificação sanitária
+    - Suprime Importação de produtos de origem animal derivados de cervídeos de criação e selvagens
+  - date: '2017-11-20'
+    amending: eu:celex:32017R1972:por
+    amending_title: REGULAMENTO (UE) 2017/1972 DA COMISSÃO de 30 de outubro de 2017
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7.1. Pedidos dos Estados-Membros
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera A. Informações a apresentar nos relatórios anuais dos Estados-Membros, nos termos do artigo 6.º, n.º 4
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera Requisitos gerais
+    - Altera 11. Controlos
+    - Altera Medidas a tomar perante a suspeita da presença de uma eet em bovinos, ovinos e caprinos
+    - Altera Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+    - Altera Importações de bovinos
+    - Altera Notas
+    - Adita III. VIGILÂNCIA DOS CERVÍDEOS
+    - Adita A. Programa trienal de vigilância da doença emaciante crónica
+    - Adita 2. Conceção da amostragem
+    - Adita 3. Amostragem e testes laboratoriais
+    - Adita B. Vigilância adicional dos cervídeos
+    - Adita IV. VIGILÂNCIA DE OUTRAS ESPÉCIES ANIMAIS
+    - Suprime III. VIGILÂNCIA DE OUTRAS ESPÉCIES ANIMAIS
+  - date: '2018-01-01'
+    amending: eu:celex:32017R0894:por
+    amending_title: REGULAMENTO (UE) 2017/894 DA COMISSÃO de 24 de maio de 2017
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7.1. Pedidos dos Estados-Membros
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera A. Informações a apresentar nos relatórios anuais dos Estados-Membros, nos termos do artigo 6.º, n.º 4
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera Requisitos gerais
+    - Altera 11. Controlos
+    - Altera Medidas a tomar perante a suspeita da presença de uma eet em bovinos, ovinos e caprinos
+    - Altera Requisitos mínimos para um programa de criação de ovinos resistentes às eet em conformidade com o Artigo 6.º-A
+    - Altera Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+    - Altera Importações de bovinos
+    - Altera Notas
+    - Adita 8. Determinação do genótipo
+    - Suprime 8. Determinação de genótipos
+  - date: '2018-07-30'
+    amending: eu:celex:32018R0969:por
+    amending_title: REGULAMENTO (UE) 2018/969 DA COMISSÃO de 9 de julho de 2018
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7.1. Pedidos dos Estados-Membros
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera Requisitos gerais
+    - Altera 1. Definição de matérias de risco especificadas
+    - Altera 11. Controlos
+    - Altera Medidas a tomar perante a suspeita da presença de uma eet em bovinos, ovinos e caprinos
+    - Altera Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+    - Altera Importações de bovinos
+    - Altera Notas
+  - date: '2019-07-17'
+    amending: eu:celex:32018R0221:por
+    amending_title: REGULAMENTO (UE) 2018/221 DA COMISSÃO de 15 de fevereiro de 2018; REGULAMENTO (UE) 2019/319 DA COMISSÃO
+      de 6 de fevereiro de 2019; REGULAMENTO (UE) 2019/1091 DA COMISSÃO de 26 de junho de 2019; ACTO relativo às condições
+      de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República
+      da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da
+      República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7.1. Pedidos dos Estados-Membros
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera Requisitos gerais
+    - Altera 11. Controlos
+    - Altera Medidas a tomar perante a suspeita da presença de uma eet em bovinos, ovinos e caprinos
+    - Altera Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+    - Altera Importações de bovinos
+    - Altera Importações de subprodutos animais e produtos derivados de origem bovina, ovina e caprina
+    - Altera Laboratório de referência da UE
+    - Altera Notas
+  - date: '2019-12-14'
+    amending: eu:celex:32017R0625:por
+    amending_title: REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7.1. Pedidos dos Estados-Membros
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera Requisitos gerais
+    - Altera 11. Controlos
+    - Altera Medidas a tomar perante a suspeita da presença de uma eet em bovinos, ovinos e caprinos
+    - Altera Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+    - Altera Importações de bovinos
+    - Altera Notas
+    - Suprime Artigo 19.º — Laboratórios de referência
+    - Suprime Artigo 21.º — Controlos comunitários
+    - Suprime Laboratórios nacionais de referência
+    - Suprime Laboratório de referência da UE
+  - date: '2020-07-02'
+    amending: eu:celex:32020R0772:por
+    amending_title: REGULAMENTO (UE) 2020/772 DA COMISSÃO de 11 de junho de 2020
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7.1. Pedidos dos Estados-Membros
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera Condições específicas para a aplicação das derrogações previstas no capítulo II
+    - Altera Requisitos gerais
+    - Altera 11. Controlos
+    - Altera Medidas a tomar perante a suspeita da presença de uma eet em bovinos, ovinos e caprinos
+    - Altera Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+    - Altera Importações de bovinos
+    - Altera Notas
+  - date: '2020-11-19'
+    amending: eu:celex:32020R1593:por
+    amending_title: REGULAMENTO (UE) 2020/1593 DA COMISSÃO de 29 de outubro de 2020
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera 3. Valores de pontuação e pontuação-objectivo
+    - Altera 2. Vigilância dos animais abatidos para consumo humano
+    - Altera 3. Vigilância dos animais não abatidos para consumo humano
+    - Altera 7.1. Pedidos dos Estados-Membros
+    - Altera 3. Vigilância dos ovinos e caprinos não abatidos para consumo humano
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera Requisitos gerais
+    - Altera 11. Controlos
+    - Altera Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+    - Altera Importações de bovinos
+    - Altera b) Vigilância das EET
+    - Altera i) Análise molecular primária com um método de Western blotting discriminatório
+    - Altera ii) Análise molecular secundária com métodos adicionais de análise molecular
+    - Altera Notas
+  - date: '2021-08-08'
+    amending: eu:celex:32021R1176:por
+    amending_title: REGULAMENTO (UE) 2021/1176 DA COMISSÃO de 16 de julho de 2021
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera Análise dos riscos
+    - Altera Definição das categorias
+    - Altera Requisitos mínimos de vigilância
+    - Altera I. VIGILÂNCIA DOS BOVINOS
+    - Altera II. VIGILÂNCIA DOS OVINOS E CAPRINOS
+    - Altera III. VIGILÂNCIA DOS CERVÍDEOS
+    - Altera I. OBRIGAÇÕES DOS ESTADOS MEMBROS
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera Requisitos gerais
+    - Altera 1. Definição de matérias de risco especificadas
+    - Altera 11. Controlos
+    - Altera Medidas a tomar perante a suspeita da presença de uma eet em bovinos, ovinos e caprinos
+    - Altera Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+    - Altera Importações de bovinos
+    - Altera Importações de produtos de origem bovina, ovina ou caprina
+    - Altera 3. Métodos e protocolos
+    - Altera Notas
+    - Suprime 1. Estrutura da análise dos riscos
+    - Suprime 2. Avaliação da entrada (desafio externo)
+    - Suprime 3. Avaliação da exposição
+    - Suprime I. PAÍS OU REGIÃO COM UM RISCO NEGLIGENCIÁVEL DE EEB
+    - Suprime II. PAÍS OU REGIÃO COM UM RISCO CONTROLADO DE EEB
+    - Suprime III. PAÍS OU REGIÃO COM UM RISCO INDETERMINADO DE EEB
+    - Suprime 1. Tipos de vigilância
+    - Suprime 2. Estratégia de vigilância
+    - Suprime 3. Valores de pontuação e pontuação-objectivo
+    - Suprime 4. Vigilância com orientação específica
+    - Suprime 5. Modelo de vigilância da EEB
+    - Suprime 6. Vigilância contínua
+    - Suprime 1. Disposições gerais
+    - Suprime 2. Vigilância dos animais abatidos para consumo humano
+    - Suprime 3. Vigilância dos animais não abatidos para consumo humano
+    - Suprime 4. Vigilância dos animais comprados para destruição nos termos do Regulamento (CE) n.º 716/96
+    - Suprime 5. Vigilância de outros animais
+    - Suprime 6. Medidas a tomar na sequência dos testes
+    - Suprime 7. Revisão dos programas anuais de vigilância da EEB («programas de vigilância da EEB»), nos termos do n.º 1-B
+      do artigo 6.º
+  - date: '2021-09-07'
+    amending: eu:celex:32021R1372:por
+    amending_title: REGULAMENTO (UE) 2021/1372 DA COMISSÃO de 17 de agosto de 2021
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera Requisitos mínimos de vigilância
+    - Altera I. VIGILÂNCIA DOS BOVINOS
+    - Altera II. VIGILÂNCIA DOS OVINOS E CAPRINOS
+    - Altera Extensão da proibição prevista no artigo 7.º, n.º 1
+    - Altera Derrogações às proibições previstas no artigo 7.º, n.º 1, e no capítulo I
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera Condições específicas para a aplicação das derrogações previstas no capítulo II
+    - Altera Requisitos gerais
+    - Altera 11. Controlos
+    - Altera Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+    - Altera Importações de bovinos
+    - Altera Notas
+  - date: '2022-02-11'
+    amending: eu:celex:32022R0175:por
+    amending_title: REGULAMENTO (UE) 2022/175 DA COMISSÃO de 9 de fevereiro de 2022
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera Requisitos mínimos de vigilância
+    - Altera I. VIGILÂNCIA DOS BOVINOS
+    - Altera II. VIGILÂNCIA DOS OVINOS E CAPRINOS
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera Requisitos gerais
+    - Altera 11. Controlos
+    - Altera Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+    - Altera Importações de bovinos
+    - Altera Importações de ovinos e de caprinos
+    - Altera Notas
+  - date: '2022-09-06'
+    amending: eu:celex:32022R1403:por
+    amending_title: M71
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera Requisitos mínimos de vigilância
+    - Altera I. VIGILÂNCIA DOS BOVINOS
+    - Altera II. VIGILÂNCIA DOS OVINOS E CAPRINOS
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera Requisitos gerais
+    - Altera 11. Controlos
+    - Altera Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+    - Altera Importações de bovinos
+    - Altera Notas
+  - date: '2023-01-01'
+    amending: eu:celex:32022R2246:por
+    amending_title: REGULAMENTO (UE) 2022/2246 DA COMISSÃO de 15 de novembro de 2022
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera Requisitos mínimos de vigilância
+    - Altera I. VIGILÂNCIA DOS BOVINOS
+    - Altera II. VIGILÂNCIA DOS OVINOS E CAPRINOS
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera Requisitos gerais
+    - Altera 11. Controlos
+    - Altera Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+    - Altera Importações de bovinos
+    - Altera Importações de produtos de origem animal derivados de cervídeos de criação e selvagens
+    - Altera Notas
+    - Adita SECÇÃO C
+    - Adita Condições aplicáveis aos cervídeos
+    - Adita Iscos de caça à base de urina de cervídeos
+    - Suprime Condições aplicáveis aos bovinos
+  - date: '2024-04-15'
+    amending: eu:celex:32024R0877:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/877 DA COMISSÃO de 21 de março de 2024; REGULAMENTO (UE) 2024/887 DA
+      COMISSÃO de 22 de março de 2024; REGULAMENTO (UE) 2024/918 DA COMISSÃO de 25 de março de 2024
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera Requisitos mínimos de vigilância
+    - Altera I. VIGILÂNCIA DOS BOVINOS
+    - Altera II. VIGILÂNCIA DOS OVINOS E CAPRINOS
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera Condições específicas para a aplicação das derrogações previstas no capítulo II
+    - Altera Requisitos gerais
+    - Altera 11. Controlos
+    - Altera Requisitos mínimos para um programa de criação de ovinos resistentes às eet em conformidade com o Artigo 6.º-A
+    - Altera Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+    - Altera Condições aplicáveis aos cervídeos
+    - Altera Importações de bovinos
+    - Altera Importações de subprodutos animais e produtos derivados de origem bovina, ovina e caprina
+    - Altera Importações de ovinos e de caprinos
+    - Altera Importação de sémen e embriões de ovinos e caprinos
+    - Altera Notas
+  - date: '2025-03-12'
+    amending: eu:celex:32025R0328:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/328 DA COMISSÃO de 19 de fevereiro de 2025
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Medidas de salvaguarda
+    - Altera Artigo 11.º — Notificação
+    - Altera DEFINIÇÕES ESPECÍFICAS
+    - Altera Requisitos mínimos de vigilância
+    - Altera I. VIGILÂNCIA DOS BOVINOS
+    - Altera II. VIGILÂNCIA DOS OVINOS E CAPRINOS
+    - Altera Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+    - Altera Requisitos gerais
+    - Altera 11. Controlos
+    - Altera Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+    - Altera Condições aplicáveis aos cervídeos
+    - Altera Importações de bovinos
+    - Altera Notas
 identifiers:
   celex: 32001R0999
   eli: http://data.europa.eu/eli/reg/2001/999/oj
@@ -50,7 +1305,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cba1d322-3457-4545-a539-5b38936b3b15.0010
   content_url: http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R0999-20250312
-  retrieved_at: '2026-10-22T02:36:22Z'
+  retrieved_at: '2026-10-22T14:51:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T22:49:14.400+01:00'
 integrity:
@@ -59,9 +1314,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:22Z'
-  notes: Texto consolidado 02001R0999-20250312.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:41Z'
+  notes: 48 versão(ões); histórico completo em regulamento-ue-2001-999.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -678,114 +1933,32 @@ relationships:
   date: '2010-04-20'
 article_structure:
   article_count: 27
-  section_count: 116
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 117
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:22Z'
-  warnings: []
+  checked_at: '2026-10-22T14:51:41Z'
+  warnings:
+  - '02001R0999-20010701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0999-20011001: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0999-20020101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0999-20020301: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0999-20020401: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0999-20020825: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0999-20030305: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0999-20031001: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0999-20031103: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0999-20031105: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0999-20040101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0999-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0999-20040701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 999/2001 do Parlamento Europeu e do Conselho, de 22 de Maio de 2001
-
-> 02001R0999 — PT — 12.03.2025 — 062.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32001R1248) — [REGULAMENTO (CE) N.º 1248/2001 DA COMISSÃO de 22 de Junho de 2001](http://publications.europa.eu/resource/celex/32001R1248) — L 173 — 12 — 27.6.2001
-- [M2](http://publications.europa.eu/resource/celex/32001R1326) — [REGULAMENTO (CE) N.º 1326/2001 DA COMISSÃO de 29 de Junho de 2001](http://publications.europa.eu/resource/celex/32001R1326) — L 177 — 60 — 30.6.2001
-- [M3](http://publications.europa.eu/resource/celex/32002R0270) — [REGULAMENTO (CE) N.º 270/2002 DA COMISSÃO de 14 de Fevereiro de 2002](http://publications.europa.eu/resource/celex/32002R0270) — L 45 — 4 — 15.2.2002
-- [M4](http://publications.europa.eu/resource/celex/32002R1494) — [REGULAMENTO (CE) N.º 1494/2002 DA COMISSÃO de 21 de Agosto de 2002](http://publications.europa.eu/resource/celex/32002R1494) — L 225 — 3 — 22.8.2002
-- [M5](http://publications.europa.eu/resource/celex/32003R0260) — [REGULAMENTO (CE) N.º 260/2003 DA COMISSÃO de 12 de Fevereiro de 2003](http://publications.europa.eu/resource/celex/32003R0260) — L 37 — 7 — 13.2.2003
-- [M6](http://publications.europa.eu/resource/celex/32003R0650) — [REGULAMENTO (CE) N.º 650/2003 DA COMISSÃO de 10 de Abril de 2003](http://publications.europa.eu/resource/celex/32003R0650) — L 95 — 15 — 11.4.2003
-- [M7](http://publications.europa.eu/resource/celex/32003R1053) — [REGULAMENTO (CE) N.º 1053/2003 DA COMISSÃO de 19 de Junho de 2003](http://publications.europa.eu/resource/celex/32003R1053) — L 152 — 8 — 20.6.2003
-- [M8](http://publications.europa.eu/resource/celex/32003R1128) — [REGULAMENTO (CE) N.º 1128/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Junho de 2003](http://publications.europa.eu/resource/celex/32003R1128) — L 160 — 1 — 28.6.2003
-- [M9](http://publications.europa.eu/resource/celex/32003R1139) — [REGULAMENTO (CE) N.º 1139/2003 DA COMISSÃO de 27 de Junho de 2003](http://publications.europa.eu/resource/celex/32003R1139) — L 160 — 22 — 28.6.2003
-- [►M10](http://publications.europa.eu/resource/celex/32003R1234) — [REGULAMENTO (CE) N.º 1234/2003 DA COMISSÃO de 10 de Julho de 2003](http://publications.europa.eu/resource/celex/32003R1234) — L 173 — 6 — 11.7.2003
-- [M11](http://publications.europa.eu/resource/celex/32003R1809) — [REGULAMENTO (CE) N.º 1809/2003 DA COMISSÃO de 15 de Outubro de 2003](http://publications.europa.eu/resource/celex/32003R1809) — L 265 — 10 — 16.10.2003
-- [M12](http://publications.europa.eu/resource/celex/32003R1915) — [REGULAMENTO (CE) N.º 1915/2003 DA COMISSÃO de 30 de Outubro de 2003](http://publications.europa.eu/resource/celex/32003R1915) — L 283 — 29 — 31.10.2003
-- [►M13](http://publications.europa.eu/resource/celex/32003R2245) — [REGULAMENTO (CE) N.º 2245/2003 DA COMISSÃO de 19 de Dezembro de 2003](http://publications.europa.eu/resource/celex/32003R2245) — L 333 — 28 — 20.12.2003
-- [M14](http://publications.europa.eu/resource/celex/32004R0876) — [REGULAMENTO (CE) N.º 876/2004 DA COMISSÃO de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0876) — L 162 — 52 — 30.4.2004
-- [M15](http://publications.europa.eu/resource/celex/32004R1471) — [REGULAMENTO (CE) N.º 1471/2004 DA COMISSÃO de 18 de Agosto de 2004](http://publications.europa.eu/resource/celex/32004R1471) — L 271 — 24 — 19.8.2004
-- [M16](http://publications.europa.eu/resource/celex/32004R1492) — [REGULAMENTO (CE) N.º 1492/2004 DA COMISSÃO de 23 de Agosto de 2004](http://publications.europa.eu/resource/celex/32004R1492) — L 274 — 3 — 24.8.2004
-- [M17](http://publications.europa.eu/resource/celex/32004R1993) — [REGULAMENTO (CE) N.º 1993/2004 DA COMISSÃO de 19 de Novembro de 2004](http://publications.europa.eu/resource/celex/32004R1993) — L 344 — 12 — 20.11.2004
-- [M18](http://publications.europa.eu/resource/celex/32005R0036) — [REGULAMENTO (CE) N.º 36/2005 DA COMISSÃO de 12 de Janeiro de 2005](http://publications.europa.eu/resource/celex/32005R0036) — L 10 — 9 — 13.1.2005
-- [M19](http://publications.europa.eu/resource/celex/32005R0214) — [REGULAMENTO (CE) N.º 214/2005 DA COMISSÃO de 9 de Fevereiro de 2005](http://publications.europa.eu/resource/celex/32005R0214) — L 37 — 9 — 10.2.2005
-- [M20](http://publications.europa.eu/resource/celex/32005R0260) — [REGULAMENTO (CE) N.º 260/2005 DA COMISSÃO de 16 de Fevereiro de 2005](http://publications.europa.eu/resource/celex/32005R0260) — L 46 — 31 — 17.2.2005
-- [►M21](http://publications.europa.eu/resource/celex/32005R0932) — [REGULAMENTO (CE) N.º 932/2005 do Parlamento Europeu e do Conselho de 8 de Junho de 2005](http://publications.europa.eu/resource/celex/32005R0932) — L 163 — 1 — 23.6.2005
-- [M22](http://publications.europa.eu/resource/celex/32005R1292) — [REGULAMENTO (CE) N.º 1292/2005 DA COMISSÃO de 5 de Agosto de 2005](http://publications.europa.eu/resource/celex/32005R1292) — L 205 — 3 — 6.8.2005
-- [M23](http://publications.europa.eu/resource/celex/32005R1974) — [REGULAMENTO (CE) N.º 1974/2005 DA COMISSÃO de 2 de Dezembro de 2005](http://publications.europa.eu/resource/celex/32005R1974) — L 317 — 4 — 3.12.2005
-- [M24](http://publications.europa.eu/resource/celex/32006R0253) — [REGULAMENTO (CE) N.º 253/2006 DA COMISSÃO de 14 de Fevereiro de 2006](http://publications.europa.eu/resource/celex/32006R0253) — L 44 — 9 — 15.2.2006
-- [M25](http://publications.europa.eu/resource/celex/32006R0339) — [REGULAMENTO (CE) N.º 339/2006 DA COMISSÃO de 24 de Fevereiro de 2006](http://publications.europa.eu/resource/celex/32006R0339) — L 55 — 5 — 25.2.2006
-- [►M26](http://publications.europa.eu/resource/celex/32006R0657) — [REGULAMENTO (CE) N.º 657/2006 DA COMISSÃO de 10 de Abril de 2006](http://publications.europa.eu/resource/celex/32006R0657) — L 116 — 9 — 29.4.2006
-- [M27](http://publications.europa.eu/resource/celex/32006R0688) — [REGULAMENTO (CE) N.º 688/2006 DA COMISSÃO de 4 de Maio de 2006](http://publications.europa.eu/resource/celex/32006R0688) — L 120 — 10 — 5.5.2006
-- [M28](http://publications.europa.eu/resource/celex/32006R1041) — [REGULAMENTO (CE) N.º 1041/2006 DA COMISSÃO de 7 de Julho de 2006](http://publications.europa.eu/resource/celex/32006R1041) — L 187 — 10 — 8.7.2006
-- [M29](http://publications.europa.eu/resource/celex/32006R1791) — [REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006R1791) — L 363 — 1 — 20.12.2006
-- [►M30](http://publications.europa.eu/resource/celex/32006R1923) — [REGULAMENTO (CE) N.º 1923/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1923) — L 404 — 1 — 30.12.2006
-- [►M31](http://publications.europa.eu/resource/celex/32007R0722) — [REGULAMENTO (CE) N.º 722/2007 DA COMISSÃO de 25 de Junho de 2007](http://publications.europa.eu/resource/celex/32007R0722) — L 164 — 7 — 26.6.2007
-- [►M32](http://publications.europa.eu/resource/celex/32007R0727) — [REGULAMENTO (CE) N.º 727/2007 DA COMISSÃO de 26 de Junho de 2007](http://publications.europa.eu/resource/celex/32007R0727) — L 165 — 8 — 27.6.2007
-- [M33](http://publications.europa.eu/resource/celex/32007R1275) — [REGULAMENTO (CE) N.º 1275/2007 DA COMISSÃO de 29 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1275) — L 284 — 8 — 30.10.2007
-- [M34](http://publications.europa.eu/resource/celex/32007R1428) — [REGULAMENTO (CE) N.º 1428/2007 DA COMISSÃO de 4 de Dezembro de 2007](http://publications.europa.eu/resource/celex/32007R1428) — L 317 — 61 — 5.12.2007
-- [M35](http://publications.europa.eu/resource/celex/32008R0021) — [REGULAMENTO (CE) N.º 21/2008 DA COMISSÃO de 11 de Janeiro de 2008](http://publications.europa.eu/resource/celex/32008R0021) — L 9 — 3 — 12.1.2008
-- [M36](http://publications.europa.eu/resource/celex/32008R0315) — [REGULAMENTO (CE) N.º 315/2008 DA COMISSÃO de 4 de Abril de 2008](http://publications.europa.eu/resource/celex/32008R0315) — L 94 — 3 — 5.4.2008
-- [►M37](http://publications.europa.eu/resource/celex/32008R0357) — [REGULAMENTO (CE) N.º 357/2008 DA COMISSÃO de 22 de Abril de 2008](http://publications.europa.eu/resource/celex/32008R0357) — L 111 — 3 — 23.4.2008
-- [►M38](http://publications.europa.eu/resource/celex/32008R0571) — [REGULAMENTO (CE) N.º 571/2008 DA COMISSÃO de 19 de Junho de 2008](http://publications.europa.eu/resource/celex/32008R0571) — L 161 — 4 — 20.6.2008
-- [M39](http://publications.europa.eu/resource/celex/32008R0746) — [REGULAMENTO (CE) N.º 746/2008 DA COMISSÃO de 17 de Junho de 2008](http://publications.europa.eu/resource/celex/32008R0746) — L 202 — 11 — 31.7.2008
-- [M40](http://publications.europa.eu/resource/celex/32008R0956) — [REGULAMENTO (CE) N.º 956/2008 DA COMISSÃO de 29 de Setembro de 2008](http://publications.europa.eu/resource/celex/32008R0956) — L 260 — 8 — 30.9.2008
-- [M41](http://publications.europa.eu/resource/celex/32009R0103) — [REGULAMENTO (CE) N.º 103/2009 DA COMISSÃO de 3 de Fevereiro de 2009](http://publications.europa.eu/resource/celex/32009R0103) — L 34 — 11 — 4.2.2009
-- [M42](http://publications.europa.eu/resource/celex/32009R0162) — [REGULAMENTO (CE) N.º 162/2009 DA COMISSÃO de 26 de Fevereiro de 2009](http://publications.europa.eu/resource/celex/32009R0162) — L 55 — 11 — 27.2.2009
-- [M43](http://publications.europa.eu/resource/celex/32009R0163) — [REGULAMENTO (CE) N.º 163/2009 DA COMISSÃO de 26 de Fevereiro de 2009](http://publications.europa.eu/resource/celex/32009R0163) — L 55 — 17 — 27.2.2009
-- [►M44](http://publications.europa.eu/resource/celex/32009R0220) — [REGULAMENTO (CE) N.º 220/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0220) — L 87 — 155 — 31.3.2009
-- [M45](http://publications.europa.eu/resource/celex/32010R0956) — [REGULAMENTO (UE) N.º 956/2010 DA COMISSÃO de 22 de Outubro de 2010](http://publications.europa.eu/resource/celex/32010R0956) — L 279 — 10 — 23.10.2010
-- [M46](http://publications.europa.eu/resource/celex/32011R0189) — [REGULAMENTO (UE) N.º 189/2011 DA COMISSÃO de 25 de Fevereiro de 2011](http://publications.europa.eu/resource/celex/32011R0189) — L 53 — 56 — 26.2.2011
-- [M47](http://publications.europa.eu/resource/celex/32012R1064) — [REGULAMENTO (UE) N.º 1064/2012 DA COMISSÃO de 13 de novembro de 2012](http://publications.europa.eu/resource/celex/32012R1064) — L 314 — 13 — 14.11.2012
-- [►M48](http://publications.europa.eu/resource/celex/32013R0056) — [REGULAMENTO (UE) N.º 56/2013 DA COMISSÃO de 16 de janeiro de 2013](http://publications.europa.eu/resource/celex/32013R0056) — L 21 — 3 — 24.1.2013
-- [M49](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [►M50](http://publications.europa.eu/resource/celex/32013R0630) — [REGULAMENTO (UE) N.º 630/2013 DA COMISSÃO de 28 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0630) — L 179 — 60 — 29.6.2013
-- [►M51](http://publications.europa.eu/resource/celex/32014R1148) — [REGULAMENTO (UE) N.º 1148/2014 DA COMISSÃO de 28 de outubro de 2014](http://publications.europa.eu/resource/celex/32014R1148) — L 308 — 66 — 29.10.2014
-- [►M52](http://publications.europa.eu/resource/celex/32015R0728) — [REGULAMENTO (UE) 2015/728 DA COMISSÃO de 6 de maio de 2015](http://publications.europa.eu/resource/celex/32015R0728) — L 116 — 1 — 7.5.2015
-- [►M53](http://publications.europa.eu/resource/celex/32015R1162) — [REGULAMENTO (UE) 2015/1162 DA COMISSÃO de 15 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1162) — L 188 — 3 — 16.7.2015
-- [►M54](http://publications.europa.eu/resource/celex/32016R0027) — [REGULAMENTO (UE) 2016/27 DA COMISSÃO de 13 de janeiro de 2016](http://publications.europa.eu/resource/celex/32016R0027) — L 9 — 4 — 14.1.2016
-- [►M55](http://publications.europa.eu/resource/celex/32016R1396) — [REGULAMENTO (UE) 2016/1396 DA COMISSÃO de 18 de agosto de 2016](http://publications.europa.eu/resource/celex/32016R1396) — L 225 — 76 — 19.8.2016
-- [►M56](http://publications.europa.eu/resource/celex/32017R0110) — [REGULAMENTO (UE) 2017/110 DA COMISSÃO de 23 de janeiro de 2017](http://publications.europa.eu/resource/celex/32017R0110) — L 18 — 42 — 24.1.2017
-- [►M57](http://publications.europa.eu/resource/celex/32017R0625) — [REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017](http://publications.europa.eu/resource/celex/32017R0625) — L 95 — 1 — 7.4.2017
-- [►M58](http://publications.europa.eu/resource/celex/32017R0736) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/736 DA COMISSÃO de 26 de abril de 2017](http://publications.europa.eu/resource/celex/32017R0736) — L 110 — 2 — 27.4.2017
-- [►M59](http://publications.europa.eu/resource/celex/32017R0893) — [REGULAMENTO (UE) 2017/893 DA COMISSÃO de 24 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0893) — L 138 — 92 — 25.5.2017
-- [►M60](http://publications.europa.eu/resource/celex/32017R0894) — [REGULAMENTO (UE) 2017/894 DA COMISSÃO de 24 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0894) — L 138 — 117 — 25.5.2017
-- [►M61](http://publications.europa.eu/resource/celex/32017R1972) — [REGULAMENTO (UE) 2017/1972 DA COMISSÃO de 30 de outubro de 2017](http://publications.europa.eu/resource/celex/32017R1972) — L 281 — 14 — 31.10.2017
-- [M62](http://publications.europa.eu/resource/celex/32018R0221) — [REGULAMENTO (UE) 2018/221 DA COMISSÃO de 15 de fevereiro de 2018](http://publications.europa.eu/resource/celex/32018R0221) — L 43 — 6 — 16.2.2018
-- [M63](http://publications.europa.eu/resource/celex/32018R0969) — [REGULAMENTO (UE) 2018/969 DA COMISSÃO de 9 de julho de 2018](http://publications.europa.eu/resource/celex/32018R0969) — L 174 — 12 — 10.7.2018
-- [►M64](http://publications.europa.eu/resource/celex/32019R0319) — [REGULAMENTO (UE) 2019/319 DA COMISSÃO de 6 de fevereiro de 2019](http://publications.europa.eu/resource/celex/32019R0319) — L 61 — 1 — 28.2.2019
-- [►M65](http://publications.europa.eu/resource/celex/32019R1091) — [REGULAMENTO (UE) 2019/1091 DA COMISSÃO de 26 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1091) — L 173 — 42 — 27.6.2019
-- [►M66](http://publications.europa.eu/resource/celex/32020R0772) — [REGULAMENTO (UE) 2020/772 DA COMISSÃO de 11 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0772) — L 184 — 43 — 12.6.2020
-- [►M67](http://publications.europa.eu/resource/celex/32020R1593) — [REGULAMENTO (UE) 2020/1593 DA COMISSÃO de 29 de outubro de 2020](http://publications.europa.eu/resource/celex/32020R1593) — L 360 — 13 — 30.10.2020
-- [►M68](http://publications.europa.eu/resource/celex/32021R1176) — [REGULAMENTO (UE) 2021/1176 DA COMISSÃO de 16 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1176) — L 256 — 56 — 19.7.2021
-- [►M69](http://publications.europa.eu/resource/celex/32021R1372) — [REGULAMENTO (UE) 2021/1372 DA COMISSÃO de 17 de agosto de 2021](http://publications.europa.eu/resource/celex/32021R1372) — L 295 — 1 — 18.8.2021
-- [►M70](http://publications.europa.eu/resource/celex/32022R0175) — [REGULAMENTO (UE) 2022/175 DA COMISSÃO de 9 de fevereiro de 2022](http://publications.europa.eu/resource/celex/32022R0175) — L 29 — 1 — 10.2.2022
-- [M71](http://publications.europa.eu/resource/celex/32022R1403) — [REGULAMENTO (UE) 2022/1403 DA COMISSÃO de 16 de agosto de 2022](http://publications.europa.eu/resource/celex/32022R1403) — L 214 — 1 — 17.8.2022
-- [►M72](http://publications.europa.eu/resource/celex/32022R2246) — [REGULAMENTO (UE) 2022/2246 DA COMISSÃO de 15 de novembro de 2022](http://publications.europa.eu/resource/celex/32022R2246) — L 295 — 1 — 16.11.2022
-- [M73](http://publications.europa.eu/resource/celex/32024R0877) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/877 DA COMISSÃO de 21 de março de 2024](http://publications.europa.eu/resource/celex/32024R0877) — L 877 — 1 — 22.3.2024
-- [►M74](http://publications.europa.eu/resource/celex/32024R0887) — [REGULAMENTO (UE) 2024/887 DA COMISSÃO de 22 de março de 2024](http://publications.europa.eu/resource/celex/32024R0887) — L 887 — 1 — 25.3.2024
-- [►M75](http://publications.europa.eu/resource/celex/32024R0918) — [REGULAMENTO (UE) 2024/918 DA COMISSÃO de 25 de março de 2024](http://publications.europa.eu/resource/celex/32024R0918) — L 918 — 1 — 26.3.2024
-- [►M76](http://publications.europa.eu/resource/celex/32025R0328) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/328 DA COMISSÃO de 19 de fevereiro de 2025](http://publications.europa.eu/resource/celex/32025R0328) — L 328 — 1 — 20.2.2025
-
-**Alterado por:**
-
-- [A1](http://publications.europa.eu/resource/celex/12003T%2FACT) — [ACTO relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T%2FACT) — L 236 — 33 — 23.9.2003
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32003R1234R%2803%29) — [Rectificação, JO L 323, 10.12.2003, p. 14 (1234/2003)](http://publications.europa.eu/resource/celex/32003R1234R%2803%29)
-- [►C2](http://publications.europa.eu/resource/celex/32013R0630R%2803%29) — [Rectificação, JO L 094, 3.4.2019, p. 3 (n.o 630/2013)](http://publications.europa.eu/resource/celex/32013R0630R%2803%29)
-- [►C3](http://publications.europa.eu/resource/celex/32021R1372R%2801%29) — [Rectificação, JO L 398, 11.11.2021, p. 51 (2021/1372)](http://publications.europa.eu/resource/celex/32021R1372R%2801%29)
-
-## REGULAMENTO (CE) N.º 999/2001 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 22 de Maio de 2001
 

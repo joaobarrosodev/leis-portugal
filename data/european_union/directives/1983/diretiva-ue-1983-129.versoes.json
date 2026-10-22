@@ -1,0 +1,149 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31983L0129:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01983L0129-19890615",
+ "dre_path": null,
+ "source_lastmod": "1989-06-15",
+ "versions": [
+  {
+   "date": "1983-04-09",
+   "future": false,
+   "celex": "31983L0129",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a297fe84312a3431",
+    "4db4311667ff4f78",
+    "255fa0f1e9675b11",
+    "4c9c1733c3c879c9",
+    "898e94c44058aaa0",
+    "dd1d5bcff6daa80d"
+   ]
+  },
+  {
+   "date": "1989-06-15",
+   "future": false,
+   "celex": "01983L0129-19890615",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita ANEXO",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime ANEXO — \"\" ID=\"1\">1> ID=\"2\">ex: 43.01"
+   ],
+   "fragments": [
+    "ea9fe82fa7591b48",
+    "6c83077dc2759f52",
+    "698cf230ac3e92a1",
+    "64c971541674c055",
+    "a4317ebd03544107",
+    "59aaa28e26ea162b"
+   ]
+  }
+ ],
+ "fragments": {
+  "a297fe84312a3431": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 83/129/CEE do Conselho, de 28 de Março de 1983, relativa à importação nos Estados-Membros de peles de determinados bebés-focas e de produtos derivados** *Jornal Oficial nº L 091 de 09/04/1983 p. 0030 - 0031 Edição especial finlandesa: Capítulo 15 Fascículo 4 p. 0121 Edição especial espanhola: Capítulo 15 Fascículo 4 p. 0122 Edição especial sueca: Capítulo 15 Fascículo 4 p. 0121 Edição especial portuguesa: Capítulo 15 Fascículo 4 p. 0122*\n\nDIRECTIVA DO CONSELHO de 28 de Março de 1983 relativa à importação nos Estados-membros de peles de determinados bébés-foca e de produtos derivados\n\n(83/129/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 235o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando a resolução do Parlamento Europeu sobre o comércio comunitário de produtos derivados da foca e, em especial, de produtos derivados dos bebés-foca harpa e de capuz;\n\nConsiderando que, em determinados Estados-membros, existem já medidas regulamentares ou livremente consentidas destinadas a limitar a importação ou a comercialização das peles de bebés-foca harpa («de manto branco») e de bebés-foca de capuz («de dorso azul»); que um dos Estados-membros exige desde já que todos os produtos derivados da foca sejam marcados;\n\nConsiderando que diversos estudos fizeram surgir dúvidas no que respeita à situação das populações de focas harpa e de focas de capuz, em especial no que se refere à incidência da caça não tradicional sobre a conservação e a situação das populações de focas de capuz;\n\nConsiderando que a exploração de focas e de outras espécies, em função da sua capacidade de resistência e respeitando os equilíbrios naturais, constitui uma actividade natural e legítima e representa, em determinadas regiões do mundo, um aspecto importante da economia e do modo de vida tradicionais; que a caça tradicional praticada pelas populações inuitas não tem por objecto os bebés-foca e que, por conseguinte, é conveniente evitar que os interesses dessas populações sejam afectados;\n\nConsiderando que é desejável empreender estudos mais aprofundados sobre os aspectos científicos e as consequências da matança dos bébés-foca harpa e de capuz; que, enquanto não forem obtidos os resultados desses estudos, é conveniente tomar ou manter medidas temporárias em conformidade com a Resolução do Conselho e dos representantes dos governos dos Estados-membros, de 5 de Janeiro de 1983 (3);\n\nConsiderando que foi tomado nota do facto de a caça aos bebés-foca estar já sujeita a determinadas restrições; que o Conselho convidou a Comissão a continuar a procurar, no âmbito da prossecução dos seus contactos com os países envolvidos, soluções que tornem supérflua uma limitação das importações;\n\nConsiderando que o Conselho procederá a um novo exame da situação com base num relatório que a Comissão lhe submeterá antes de 1 de Setembro de 1983,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "4db4311667ff4f78": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Os Estados-membros tomarão ou manterão todas as medidas necessárias para assegurar que os produtos enumerados em anexo não sejam importados no seu território, com fins comerciais.\n\n2. Desse facto informarão imediatamente a Comissão."
+  },
+  "255fa0f1e9675b11": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nA presente directiva é aplicável de 1 de Outubro de 1983 a 1 de Outubro de 1985, salvo decisão contrária do Conselho, deliberando por maioria qualificada e com base num relatório que a Comissão lhe submeterá antes de 1 de Setembro de 1983."
+  },
+  "4c9c1733c3c879c9": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nA presente directiva só é aplicável aos produtos não provenientes da caça tradicional praticada pelas populações Esquimós."
+  },
+  "898e94c44058aaa0": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 28 de Março de 1983.\n\nPelo Conselho\n\nO Presidente\n\nJ. ERTL\n\n(1) JO no C 334 de 20. 12. 1982, p. 132.(2) JO no C 346 de 31. 12. 1982, p. 1.(3) JO no C 14 de 18. 1. 1983, p. 1."
+  },
+  "dd1d5bcff6daa80d": {
+   "fragment_id": "ANEXO — \"\" ID=\"1\">1> ID=\"2\">ex: 43.01",
+   "type": "divisao",
+   "heading": "ANEXO — \"\" ID=\"1\">1> ID=\"2\">ex: 43.01",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — \"\" ID=\"1\">1> ID=\"2\">ex: 43.01\n\nex: 43.02 A> ID=\"3\">Peles em cabelo, em bruto, e peles em cabelo, curtidas ou completamente preparadas, mesmo reunidas em forma de mantas, sacos, quadrados, cruzes ou semelhantes:\n\n- de bebés-foca harpa («de manto branco»),\n\n- de bebés-foca de capuz («de dorso azul»)\"> ID=\"1\">2> ID=\"2\">ex: 43.03> ID=\"3\">Objectos confeccionados a partir de peles mencionadas no no 1.\">"
+  },
+  "ea9fe82fa7591b48": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1983L0129 — PT — 15.06.1989 — 002.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31983L0129:PT:NOT) [DIRECTIVA DO CONSELHO de 28 de Março de 1983 relativa à importação nos Estados-membros de peles de determinados bébés-foca e de produtos derivados (83/129/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31983L0129:PT:NOT) (JO L 091, 9.4.1983, p.30)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31985L0444:PT:NOT) | [Directiva do Conselho 85/444/CEE de 27 de Setembro de 1985](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31985L0444:PT:NOT) | L 259 | 70 | 1.10.1985 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0370:PT:NOT) | [Directiva do Conselho 89/370/CEE de 8 de junho de 1989](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0370:PT:NOT) | L 163 | 37 | 14.6.1989 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31983L0129:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 28 de Março de 1983\n\nrelativa à importação nos Estados-membros de peles de determinados bébés-foca e de produtos derivados\n\n(83/129/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 235.o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([1](http://publications.europa.eu/resource/cellar/3612cd4e-0ad9-43d7-a7f4-bc9f5e703bf2.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([2](http://publications.europa.eu/resource/cellar/3612cd4e-0ad9-43d7-a7f4-bc9f5e703bf2.0018.02/DOC_1#E0002)),\n\nConsiderando a resolução do Parlamento Europeu sobre o comércio comunitário de produtos derivados da foca e, em especial, de produtos derivados dos bebés-foca harpa e de capuz;\n\nConsiderando que, em determinados Estados-membros, existem já medidas regulamentares ou livremente consentidas destinadas a limitar a importação ou a comercialização das peles de bebés-foca harpa («de manto branco») e de bebés-foca de capuz («de dorso azul»); que um dos Estados-membros exige desde já que todos os produtos derivados da foca sejam marcados;\n\nConsiderando que diversos estudos fizeram surgir dúvidas no que respeita à situação das populações de focas harpa e de focas de capuz, em especial no que se refere à incidência da caça não tradicional sobre a conservação e a situação das populações de focas de capuz;\n\nConsiderando que a exploração de focas e de outras espécies, em função da sua capacidade de resistência e respeitando os equilíbrios naturais, constitui uma actividade natural e legítima e representa, em determinadas regiões do mundo, um aspecto importante da economia e do modo de vida tradicionais; que a caça tradicional praticada pelas populações inuitas não tem por objecto os bebés-foca e que, por conseguinte, é conveniente evitar que os interesses dessas populações sejam afectados;\n\nConsiderando que é desejável empreender estudos mais aprofundados sobre os aspectos científicos e as consequências da matança dos bébés-foca harpa e de capuz; que, enquanto não forem obtidos os resultados desses estudos, é conveniente tomar ou manter medidas temporárias em conformidade com a Resolução do Conselho e dos representantes dos governos dos Estados-membros, de 5 de Janeiro de 1983 ([3](http://publications.europa.eu/resource/cellar/3612cd4e-0ad9-43d7-a7f4-bc9f5e703bf2.0018.02/DOC_1#E0003));\n\nConsiderando que foi tomado nota do facto de a caça aos bebés-foca estar já sujeita a determinadas restrições; que o Conselho convidou a Comissão a continuar a procurar, no mbito da prossecução dos seus contactos com os países envolvidos, soluções que tornem supérflua uma limitação das importações;\n\nConsiderando que o Conselho procederá a um novo exame da situação com base num relatório que a Comissão lhe submeterá antes de 1 de Setembro de 1983,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "6c83077dc2759f52": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os Estados-membros tomarão ou manterão todas as medidas necessárias para assegurar que os produtos enumerados em anexo não sejam importados no seu território, com fins comerciais.\n\n2. Desse facto informarão imediatamente a Comissão.\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0370:PT:NOT)"
+  },
+  "698cf230ac3e92a1": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA presente directiva é aplicável a partir de 1 de Outubro de 1983.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31983L0129:PT:NOT)"
+  },
+  "64c971541674c055": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva só é aplicável aos produtos não provenientes da caça tradicional praticada pelas populações Esquimós."
+  },
+  "a4317ebd03544107": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "59aaa28e26ea162b": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| N.o | N.o da pauta aduaneira comum | Designação das mercadorias |\n| --- | --- | --- |\n| 1 | ex: 43.01 ex: 43.02 A | Peles em cabelo, em bruto, e peles em cabelo, curtidas ou completamente preparadas, mesmo reunidas em forma de mantas, sacos, quadrados, cruzes ou semelhantes: — de bebés-foca harpa («de manto branco»), — de bebés-foca de capuz («de dorso azul») |\n| 2 | ex: 43.03 | Objectos confeccionados a partir de peles mencionadas no n.o1. |\n\n([1](http://publications.europa.eu/resource/cellar/3612cd4e-0ad9-43d7-a7f4-bc9f5e703bf2.0018.02/DOC_1#src.E0001)) JO n.o C 334 de 20. 12. 1982, p. 132.\n\n([2](http://publications.europa.eu/resource/cellar/3612cd4e-0ad9-43d7-a7f4-bc9f5e703bf2.0018.02/DOC_1#src.E0002)) JO n.o C 346 de 31. 12. 1982, p. 1.\n\n([3](http://publications.europa.eu/resource/cellar/3612cd4e-0ad9-43d7-a7f4-bc9f5e703bf2.0018.02/DOC_1#src.E0003)) JO n.o C 14 de 18. 1. 1983, p. 1."
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32007D0742:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007D0742-20140617",
+ "dre_path": null,
+ "source_lastmod": "2014-06-17",
+ "versions": [
+  {
+   "date": "2007-11-20",
+   "future": false,
+   "celex": "32007D0742",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "101d6215f81e30f4",
+    "e74e91b7b12d2a1d",
+    "a647f19caaf1f7af",
+    "2e1e4ac7da93da45",
+    "46bbdfc4afd00fcc",
+    "9dd7c1eaea660900",
+    "1f445330468b10b8"
+   ]
+  }
+ ],
+ "fragments": {
+  "101d6215f81e30f4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Novembro de 2007\n\nque estabelece os critérios ecológicos para a atribuição do rótulo ecológico comunitário às bombas de calor eléctricas, a gás ou de absorção a gás\n\n[notificada com o número C(2007) 5492]\n\n(Texto relevante para efeitos do EEE)\n\n(2007/742/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1980/2000 do Parlamento Europeu e do Conselho, de 17 de Julho de 2000, relativo a um sistema comunitário revisto de atribuição de rótulo ecológico [([^1])](http://publications.europa.eu/resource/cellar/2a77da55-f2c6-4a34-a140-3b063df2a837.0018.02/DOC_1#ntr1-L_2007301PT.01001401-E0001), nomeadamente o n.º 1, segundo parágrafo, do artigo 6.º e o ponto 2, sexto parágrafo, do anexo V,\n\nApós consulta do Comité do Rótulo Ecológico da União Europeia,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 1980/2000 prevê a possibilidade de atribuição do rótulo ecológico comunitário a produtos cujas características lhes permitam contribuir de modo significativo para a melhoria de aspectos ambientais relevantes.\n\n(2) O Regulamento (CE) n.º 1980/2000 prevê o estabelecimento de critérios específicos de atribuição do rótulo ecológico, elaborados com base nos critérios definidos pelo Comité do Rótulo Ecológico da União Europeia, por grupos de produtos.\n\n(3) Os critérios ecológicos, bem como os respectivos requisitos de avaliação e verificação, devem ser válidos por um período de três anos.\n\n(4) As medidas previstas na presente decisão estão em conformidade com o parecer do comité instituído nos termos do artigo 17.º do Regulamento (CE) n.º 1980/2000,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "e74e91b7b12d2a1d": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO grupo de produtos «bombas de calor eléctricas, a gás ou de absorção a gás» inclui bombas de calor, que transformam a energia presente no ar, no solo ou na água em calor útil para aquecimento ou refrigeração ambiente. «Uma bomba de calor» consiste num dispositivo ou num conjunto de dispositivos fornecido pelo fabricante ou importador ao distribuidor, retalhista ou técnico de instalação, podendo ou não incluir o fornecimento de bombas de circulação entre as fontes fria e quente. Contudo, para o cálculo do coeficiente de desempenho (COP), será sempre tido em conta o consumo de energia das bombas de circulação, de acordo com a metodologia da norma EN14511:2004 (se o fabricante não puder apresentar dados pertinentes, será considerado um valor por defeito). Para as bombas de calor de absorção a gás, a metodologia segue a norma EN12309-2:2000.\n\nO grupo de produtos só abrange as bombas de calor eléctricas, a gás ou de absorção a gás com uma capacidade máxima de aquecimento de 100 kW.\n\nO grupo de produtos «bombas de calor eléctricas, a gás ou de absorção a gás» não abrange o seguinte:\n\na) As bombas de calor que apenas fornecem água quente para utilização sanitária;\n\nb) As bombas de calor que apenas extraem calor de um edifício e o ejectam no ar, no solo ou na água, a fim de refrigerar o ambiente."
+  },
+  "a647f19caaf1f7af": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara lhe poder ser atribuído o rótulo ecológico comunitário ao abrigo do Regulamento (CE) n.º 1980/2000, uma bomba de calor deve ser abrangida pelo grupo de produtos «bombas de calor eléctricas, a gás ou de absorção a gás» e satisfazer todos os critérios estabelecidos no anexo à presente decisão."
+  },
+  "2e1e4ac7da93da45": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara efeitos administrativos, o número de código atribuído ao grupo de produtos «bombas de calor eléctricas, a gás ou de absorção a gás» é o «31»."
+  },
+  "46bbdfc4afd00fcc": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs critérios ecológicos para o grupo de produtos «bombas de calor eléctricas, a gás ou de absorção a gás», bem como os respectivos requisitos de avaliação e de verificação, serão válidos até 9 de Novembro de 2010."
+  },
+  "9dd7c1eaea660900": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 9 de Novembro de 2007.\n\n***Pela Comissão***\n\n**Stavros DIMAS**\n\n***Membro da Comissão***\n\n---"
+  },
+  "1f445330468b10b8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/2a77da55-f2c6-4a34-a140-3b063df2a837.0018.02/DOC_1#ntc1-L_2007301PT.01001401-E0001) [JO L 237 de 21.9.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_237_R_TOC)."
+  }
+ }
+}

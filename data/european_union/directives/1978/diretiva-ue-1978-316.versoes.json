@@ -1,0 +1,141 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31978L0316:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01978L0316-19931119",
+ "dre_path": null,
+ "source_lastmod": "1993-11-19",
+ "versions": [
+  {
+   "date": "1978-03-28",
+   "future": false,
+   "celex": "31978L0316",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b5a18be22d4e438a",
+    "8163f0878625b942",
+    "7a002b63cb891878",
+    "9ffe5dbb3ce6d3c9",
+    "c4592726aa21953f",
+    "fd1bb3908339106f",
+    "fe3c35b0fb352964",
+    "296e29884b50abaf",
+    "62b3c2cc1b50d337",
+    "ca5cf6d78f6452e2",
+    "308c0330b5848d94",
+    "ae8fe4b366da503d",
+    "296e29884b50abaf",
+    "62b3c2cc1b50d337",
+    "ca5cf6d78f6452e2",
+    "308c0330b5848d94",
+    "32bce0e7effe1579"
+   ]
+  }
+ ],
+ "fragments": {
+  "b5a18be22d4e438a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 78/316/CEE do Conselho, de 21 de Dezembro de 1977, relativa à aproximação das legislações dos Estados-Membros respeitantes ao arranjo interior dos veículos a motor (identificação dos comandos, avisadores e indicadores)** *Jornal Oficial nº L 081 de 28/03/1978 p. 0003 - 0026 Edição especial finlandesa: Capítulo 13 Fascículo 8 p. 0058 Edição especial grega: Capítulo 13 Fascículo 7 p. 0043 Edição especial sueca: Capítulo 13 Fascículo 8 p. 0058 Edição especial espanhola: Capítulo 13 Fascículo 8 p. 0105 Edição especial portuguesa: Capítulo 13 Fascículo 8 p. 0105*\n\nDIRECTIVA DO CONSELHO de 21 de Dezembro de 1977 relativa à aproximação das legislações dos Estados-membros respeitantes ao arranjo interior dos veículos a motor (identificação dos comandos, avisadores e indicadores)\n\n(78/316/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que as prescrições técnicas exigidas para os veículos a motor pelas legislações nacionais respeitam, nomeadamente, à identificação dos comandos, avisadores e indicadores dos veículos a motor;\n\nConsiderando que estas prescrições diferem de um Estado-membro para outro; que daí resulta a necessidade de que sejam adoptadas as mesmas prescrições por todos os Estados-membros, quer em complemento, quer em substituição das suas regulamentações actuais, tendo em vista, nomeadamente, permitir a aplicação, para cada modelo de veículo, do processo de recepção CEE que é objecto da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques (3), com a redacção que lhe foi dada pela Directiva 78/315/CEE (4);\n\nConsiderando a oportunidade de formular as prescrições técnicas de modo a que estas visem o mesmo objectivo que os trabalhos prosseguidos na matéria pela Comissão Económica para a Europa da ONU e certas prescrições técnicas adoptadas pelo Organismo Internacional de Normalização (ISO);\n\nConsiderando que a aproximação das legislações nacionais respeitantes aos veículos a motor implica um reconhecimento, entre os Estados-membros, dos controlos efectuados por cada um deles, com base nas prescrições comuns,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "8163f0878625b942": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nPara efeitos do disposto na presente directiva, entende-se por veículo, qualquer veículo a motor destinado a transitar na estrada, com pelo menos quatro rodas e uma velocidada máxima, por construção, superior a 25 km/h, com excepção dos veículos que se deslocam sobre carris, dos tractores e máquinas agrícolas bem como das máquinas de obras públicas."
+  },
+  "7a002b63cb891878": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros não podem recusar a recepção CEE nem a recepção de âmbito nacional de um veículo por motivos relacionados com a identificação dos comandos, avisadores e indicadores, se estes corresponderem às prescrições dos Anexos I a IV."
+  },
+  "9ffe5dbb3ce6d3c9": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros não podem recusar ou proibir a venda, a matrícula, a entrada em circulação ou a utilização de um veículo por motivos relacionados com a identificação dos comandos, avisadores e indicadores, se estes corresponderem às prescrições dos Anexos I a IV."
+  },
+  "c4592726aa21953f": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nAs alterações necessárias para adaptar ao progresso técnico as prescrições dos Anexos I a IV serão adoptadas em conformidade com o procedimento previsto no artigo 13o da Directiva 70/156/CEE."
+  },
+  "fd1bb3908339106f": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os Estados-membros porão em vigor as disposições necessárias para darem cumprimento à presente directiva no prazo de dezoito meses a contar da sua notificação e desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros devem assegurar que a Comissão seja informada do texto das principais disposições de direito nacional que adoptarem no domínio regulado."
+  },
+  "fe3c35b0fb352964": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 21 de Dezembro de 1977.\n\nPelo Conselho\n\nO Presidente\n\nJ. CHABERT\n\n(1) JO no C 118 de 16. 5. 1977, p. 33.(2) JO no C 114 de 11. 5. 1977, p. 10.(3) JO no L 42 de 23. 2. 1970, p. 1.(4) JO no L 81, de 28. 3. 1978, p. 1."
+  },
+  "296e29884b50abaf": {
+   "fragment_id": "ANEXO I — ÂMBITO DE APLICAÇÃO, DEFINIÇÕES, PEDIDO DE RECEPÇÃO CEE, RECEPÇÃO CEE, ESPECIFICAÇÕES",
+   "type": "divisao",
+   "heading": "ANEXO I — ÂMBITO DE APLICAÇÃO, DEFINIÇÕES, PEDIDO DE RECEPÇÃO CEE, RECEPÇÃO CEE, ESPECIFICAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — ÂMBITO DE APLICAÇÃO, DEFINIÇÕES, PEDIDO DE RECEPÇÃO CEE, RECEPÇÃO CEE, ESPECIFICAÇÕES\n\n1. ÂMBITO DE APLICAÇÃO\n\nA presente Directiva aplica-se aos veículos a motor no que respeita à identificação dos comandos manuais, avisadores e indicadores.\n\n2. DEFINIÇÕES\n\n(2.1.)\n\n2.2. Modelo de veículo\n\nPor «modelo de veículo» entende-se os veículos a motor que não difiram entre si no que respeita aos arranjos interiores que podem afectar a identificação dos símbolos dos comandos, avisadores e indicadores.\n\n2.3. Comando\n\nPor «comando» entende-se o elemento de um dispositivo que permite ao condutor provocar uma alteração no estado ou no funcionamento do veículo.\n\n2.4. Interruptor\n\nPor «interruptor» entende-se um dispositivo que permite interromper ou restabelecer a alimentação de um circuito eléctrico.\n\n2.5. Comutador\n\nPor «comutador» entende-se um dispositivo que permite alterar a alimentação eléctrica entre dois circuitos diferentes, sem possibilidade de corte entre as duas posições.\n\n2.6. Interruptor-comutador combinado\n\nPor «interruptor-comutador combinado» entende-se um dispositivo de funções múltiplas, cuja primeira posição de funcionamento seja a de um interruptor e cada uma das seguintes, a de um comutador.\n\n2.7. Indicador\n\nPor «indicador» entende-se um dispositivo que dá uma informação relativa ao funcionamento ou à situação de um sistema ou parte de um sistema, por exemplo o nível de um fluído.\n\n2.8. Avisador\n\nPor «avisador» entende-se um sinal óptico que indica o accionamento de um dispositivo, o funcionamento ou estado correcto ou defeituoso, ou a ausência de funcionamento.\n\n2.9. Símbolo\n\nPor «símbolo» entende-se um desenho que permite identificar um comando, um avisador ou um indicador.\n\n2.10. Interruptor geral de iluminação\n\nPor «interruptor geral de iluminação» entende-se um interruptor que permite interromper ou restabelecer a alimentação do circuito eléctrico dos máximos e médios e dos dispositivos referidos no ponto 3.11 do Anexo I da Directiva 76/756/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-membros respeitantes à instalação dos dispositivos de iluminação e de sinalização luminosa dos veículos a motor e seus reboques (1).\n\n2.11. Indicador de carga da bateria\n\nPor «indicador de carga da bateria» entende-se um dispositivo que indica se a bateria está ou não a ser carregada.\n\n2.12. Avisador de carga de bateria\n\nPor «avisador de carga da bateria» entende-se o sinal que indica, quando aceso, que a bateria não está a ser carregada.\n\n2.13. Indicador do nível de combustível\n\nPor «indicador de nível de combustível» entende-se o dispositivo que fornece informações sobre o volume de combustível presente no reservatório.\n\n2.14. Avisador do nível do combustível\n\nPor «avisador do nível do combustível» entende-se o sinal que indica, quando aceso, que o nível do combustível está próximo do zero ou que o veículo está a funcionar com a sua reserva de combustível.\n\n2.15. Indicador da temperatura do líquido de arrefecimento do motor\n\nPor «indicador da temperatura do líquido de arrefecimento do motor» entende-se o dispositivo que fornece informações sobre a temperatura do líquido de arrefecimento.\n\n2.16. Avisador da temperatura do líquido de arrefecimento do motor\n\nPor «avisador da temperatura do líquido de arrefecimento do motor» entende-se o sinal que indica, quando aceso, que a temperatura do líquido de arrefecimento do motor ultrapassa a temperatura normal de funcionamento prevista pelo fabricante.\n\n2.17. Indicador de pressão de óleo\n\nPor «indicador de pressão de óleo» entende-se o dispositivo que fornece informações sobre a pressão de óleo no circuito de lubrificação do motor.\n\n2.18. Avisador da pressão de óleo\n\nPor «avisador da pressão de óleo» entende-se o sinal que, quando aceso, indica que a pressão de óleo no circuito de lubrificação do motor é inferior ao limite normal de funcionamento previsto pelo fabricante.\n\n2.19. Avisador de cinto de segurança\n\nPor «avisador de cinto de segurança» entende-se o sinal que, quando aceso, assinala que a fivela do cinto de pelo menos um dos bancos ocupados não está fechada.\n\n2.20. Avisador do travão de estacionamento\n\nPor «avisador do travão de estacionamento» entende-se o sinal que, quando aceso, avisa que o comando do travão de estacionamento não foi libertado, no todo ou em parte.\n\n3. PEDIDO DE RECEPÇÃO CEE\n\n3.1. O pedido de recepção de um modelo de veículo no que respeita à identificação dos comandos, avisadores e indicadores, deve ser apresentado pelo fabricante do veículo ou pelo seu mandatário.\n\n3.2. O pedido deve ser acompanhado de:\n\n3.2.1. Desenhos, em triplicado, em escala apropriada e suficientemente detalhados, das partes do veículo abrangidas pelas prescrições da presente directiva e dos símbolos referidos no ponto 5.\n\n3.3. Um veículo representativo do modelo a recepcionar ou a(s) parte(s) do veículo considerada(s) como essencial(ais) para a execução dos controlos e ensaios prescritos na presente directiva, devem ser presentes ao serviço técnico encarregado dos ensaios de recepção.\n\n4. RECEPÇÃO CEE\n\n(4.1.)\n\n(4.2.)\n\n4.3. Uma ficha em conformidade com o modelo que figura no Anexo V será anexada à ficha de recepção CEE.\n\n(4.4.)\n\n(4.5.)\n\n(4.6.)\n\n(4.7.)\n\n(4.8.)\n\n5. ESPECIFICAÇÕES\n\n5.1. Especificações gerais\n\n5.1.1. Os comandos, avisadores e indicadores enumerados no Anexo II devem ser identificados. Esta identificação deve ser realizada por meio de símbolos em conformidade com os que estão representados no referido anexo.\n\n5.1.2. Se forem utilizados símbolos para identificar os comandos e avisadores enumerados no Anexo III, estes símbolos devem estar em conformidade com os representados no referido anexo.\n\n5.1.3. Outros símbolos que não sejam os que figuram nos Anexos II e III podem ser utilizados com outros fins, desde que não exista nenhum risco de confusão com os que figuram nesses anexos.\n\n5.1.4. Há conformidade, se a proporcionalidade das dimensões dos símbolos for respeitada.\n\n5.2. Características dos símbolos\n\n5.2.1. Os símbolos previstos no ponto 5.1.1 devem ser identificáveis, do seu banco, por um condutor que tenha uma visão normal.\n\n5.2.2. Os símbolos previstos nos pontos 5.1.1 e 5.1.2 devem figurar sobre os comandos, os avisadores e os indicadores, ou na proximidade imediata destes.\n\n5.2.3. Os símbolos devem sobressair nítidamente contra o fundo, claros contra fundos escuros, escuros contra fundos claros.\n\n5.2.4. As cores utilizadas nos avisadores devem ser as previstas no Anexo II.\n\n(6.)\n\n(7.)\n\n(8.)\n\n(9.)\n\n(1) JO no L 262 de 27. 9. 1976, p. 1."
+  },
+  "62b3c2cc1b50d337": {
+   "fragment_id": "ANEXO II — COMANDOS, AVISADORES E INDICADORES CUJA IDENTIFICAÇÃO É OBRIGATORIA QUANDO EXISTEM, E SIMBOLOS A UTILIZAR PARA ESSE EFEITO",
+   "type": "divisao",
+   "heading": "ANEXO II — COMANDOS, AVISADORES E INDICADORES CUJA IDENTIFICAÇÃO É OBRIGATORIA QUANDO EXISTEM, E SIMBOLOS A UTILIZAR PARA ESSE EFEITO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — COMANDOS, AVISADORES E INDICADORES CUJA IDENTIFICAÇÃO É OBRIGATORIA QUANDO EXISTEM, E SIMBOLOS A UTILIZAR PARA ESSE EFEITO\n\nNotas\n\na) O interior do símbolo pode ser inteiramente de cor escura;\n\nb) Quando os avisadores relativos aos indicadores de mudança de direcção à esquerda e à direita forem separados, as duas flechas do símbolo podem também ser utilizadas separadamente;\n\nc) A parte escura deste símbolo pode ser substituída pela sua silhueta; a parte que aparece branca neste deve então ser de cor escura;\n\nd) Caso o comando não seja individual, pode ser identificado por um ou vários símbolos relativos às diferentes funções;\n\ne) Um mesmo símbolo pode ser utilizado para o indicador e para o avisador quando estiverem combinados.\n\nFigura 1\n\nInterruptor geral de iluminação e respectivo avisador de accionamento (1) ou interruptor-comutador combinado para a iluminação\n\nFigura 2\n\nComando das luzes de estrada (máximos), se for individual d), e respectivo avisador de accionamento\n\nFigura 3\n\nComando das luzes de cruzamento (médios), se for individual d), e respectivo avisador de accionamento\n\nFigura 4\n\nComando dos faróis de nevoeiro da frente e respectivo avisador de accionamento\n\nFigura 5\n\nComando individual eventual da luz de marcha atrás e avisador de accionamento\n\nFigura 6\n\nComando dos indicadores de mudança de direcção e respectivos avisadores de funcionamento b)\n\nFigura 7\n\nComando do sinal de perigo e respectivo avisador de accionamento\n\nFigura 8\n\nAvisador de funcionamento defeituoso das luzes de travagem\n\nSe existir, a sua função deve ser assegurada pelo avisador de funcionamento defeituoso do sistema de travagem representado pela figura 28.\n\nFigura 9\n\nComando das luzes de posição, se for individual d), e respectivo avisador de accionamento\n\nFigura 10\n\nComando da(s) luz(es) de nevoeiro da retaguarda e respectivo avisador de accionamento\n\nFigura 11\n\nComando da(s) luz(es) utilizada(s) para o estacionamento se for individual d), e respectivo avisador de accionamento\n\nFigura 12\n\nComando dos limpa pára-brisas\n\nFigura 13\n\nComando do lava pára-brisas\n\nFigura 14\n\nComando dos limpa e lava pára-brisas combinados\n\nFigura 15 (2)\n\nComando de abertura da capota do motor\n\nFigura 16\n\nComando do ventilador (ar quente/ar frio)\n\nFigura 17\n\nComando de accionamento do dispositivo de degelo e de desembaciamento do pára-brisas, se for individual, e respectivo avisador\n\nFigura 18\n\nComando de accionamento do dispositivo de degelo e de desembaciamento do vidro da retaguarda, se for individual, e respectivo avisador\n\nFigura 19\n\nComando do dispositivo de arranque a frio e respectivo avisador\n\nFigura 20\n\nComando do acelerador de mão\n\nFigura 21\n\nIndicador do nível de combustível e respectivo avisador\n\nFigura 22\n\nIndicador de carga da bateria e respectivo avisador\n\nFigura 23\n\nComando do dispositivo de paragem do motor (Diesel), se previsto no quadro de bordo\n\nFigura 24\n\nIndicador da temperatura do líquido de arrefecimento do motor e respectivo avisador\n\nFigura 25\n\nIndicador da pressão do lubrificante e respectivo avisador\n\nFigura 26\n\nAvisador do cinto de segurança\n\nFigura 27\n\nComando manual do dispositivo de limpeza dos faróis\n\nFigura 28\n\nAvisador de funcionamento defeituoso do sistema de travagem\n\nFigura 29\n\nAvisador de accionamento do travão de estacionamento\n\n(1) Este avisador não pode exercer a função de avisador das luzes de posição.(2) O disposto no ponto 5.1.1 do Anexo I não será de aplicar caso o comando não esteja no campo de visão do condutor em posição normal de condução, e desde que o fabricante assim o queira."
+  },
+  "ca5cf6d78f6452e2": {
+   "fragment_id": "ANEXO III — COMANDOS, AVISADORES E INDICADORES CUJA IDENTIFICAÇÃO É FACULTATIVA QUANDO EXISTEM, E SÍMBOLOS A UTILIZAR OBRIGATORIAMENTE PARA A SUA IDENTIFICAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO III — COMANDOS, AVISADORES E INDICADORES CUJA IDENTIFICAÇÃO É FACULTATIVA QUANDO EXISTEM, E SÍMBOLOS A UTILIZAR OBRIGATORIAMENTE PARA A SUA IDENTIFICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — COMANDOS, AVISADORES E INDICADORES CUJA IDENTIFICAÇÃO É FACULTATIVA QUANDO EXISTEM, E SÍMBOLOS A UTILIZAR OBRIGATORIAMENTE PARA A SUA IDENTIFICAÇÃO\n\nNota:\n\nVer a nota c) do Anexo II.\n\nComando do desbloqueamento do fecho do compartimento traseiro\n\nComando do avisador sonoro"
+  },
+  "308c0330b5848d94": {
+   "fragment_id": "ANEXO IV — CONSTRUÇÃO DO MODELO DE BASE DOS SÍMBOLOS QUE FIGURAM NOS ANEXOS II E III",
+   "type": "divisao",
+   "heading": "ANEXO IV — CONSTRUÇÃO DO MODELO DE BASE DOS SÍMBOLOS QUE FIGURAM NOS ANEXOS II E III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — CONSTRUÇÃO DO MODELO DE BASE DOS SÍMBOLOS QUE FIGURAM NOS ANEXOS II E III\n\nModelo de base\n\nO modelo de base compreende:\n\n1. Um quadro base de 50 mm de lado, sendo esta dimensão igual à dimensão nominal a) do original;\n\n2. Um círculo base de 56 mm de diâmetro com aproximadamente a mesma área que o quadrado base (1);\n\n3. Um segundo círculo de 50 mm de diâmetro inscrito no quadrado base (1);\n\n4. Um segundo quadrado cujos vértices estão situados sobre o círculo base (2) e cujos lados são paralelos aos do quadrado base (1);\n\n5 e 6. Dois rectângulos com a mesma área que o quadrado base (1); os seus lados são mutuamente perpendiculares e cada um deles é construído de maneira a cortar os lados opostos do quadrado base em pontos simétricos;\n\n7. Um terceiro quadrado cujos lados passam pelos pontos de intersecção do quadrado base (1) e do círculo base (2) e estão inclinados a 45 °, dando as maiores dimensões horizontais e verticais do modelo de base;\n\n8. Um octógono irregular, formado por linhas inclinadas a 30 ° em relação aos lados do quadrado (7).\n\nO modelo de base é aplicado numa grelha com um quadriculado de 12,5 mm e que coincide com o quadrado base (1)."
+  },
+  "ae8fe4b366da503d": {
+   "fragment_id": "ANEXO V — MODELO",
+   "type": "divisao",
+   "heading": "ANEXO V — MODELO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — MODELO\n\nFormato máximo: A4 (210 × 297 mm)\n\nDenominação da autoridade administrativa\n\nANEXO A FICHA DE RECEPÇÃO CEE DE UM MODELO DE VEICULO NO QUE RESPEITA A IDENTIFICAÇÃO DOS COMANDOS, AVISADORES E INDICADORES\n\n(no 2 do artigo 4o e artigo 10o da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques)\n\nNo de recepção CEE...\n\n1. Marca de fabrico ou comercial do veículo...\n\n2. Modelo de veículo...\n\n3. Nome e morada do fabricante...\n\n4. Se for caso disso, nome e morada do seu mandatário...\n\n5. Descrição sumária do modelo de veículo no que respeita à identificação dos comandos, avisadores e indicadores...\n\n6. Veículo apresentado a recepção em...\n\n7. Serviço técnico encarregado dos ensaios de recepção...\n\n8. Data do relatório emitido por este serviço...\n\n9. No do relatório emitido por este serviço...\n\n10. A recepção no que respeito à identificação dos comandos, avisadores e indicadores é concedida/recusada (1)()\n\n11. Local...\n\n12. Data...\n\n13. Assinatura...\n\n14. Os documentos seguintes, que ostentam o no de recepção acima indicado, são anexados à presente comunicação:\n\n... desenhos dos comandos, avisadores e indicadores, assim como das partes do veículo consideradas de interesse para efeitos da Directiva 78/316/CEE do Conselho, de 21 de Dezembro de 1977, relativa à aproximação das legislações dos Estados-membros respeitantes ao arranjo interior dos veículos a motor (identificação dos comandos, avisadores e indicadores).\n\n15. Notas eventuais...\n\n(1)() Riscar o que não interessa.\n\nLISTA DOS ANEXOS\n\nAnexo I: Âmbito de aplicação, definições, pedido de recepção CEE, recepção CEE, especificações (1)()\n\nAnexo II: Comandos, avisadores e indicadores cuja identificação é obrigatória quando existem, e símbolos a utilizar para esse efeito (1)()\n\nAnexo III: Comandos, avisadores e indicadores cuja identificação é facultativa quando existem, e símbolos a utilizar obrigatoriamente para a sua eventual identificação (1)()\n\nAnexo IV: Construção do modelo de base dos símbolos que figuram nos Anexos II e III (1)()\n\nAnexo V: Anexo à ficha de recepção CEE de um modelo de veículo no que respeita à identificação dos comandos, avisadores e indicadores.\n\n(1)() As prescrições técnicas deste anexo correspondem a exigências análogas às do projecto de regulamento da Comissão Económica para a Europa (ONU) nesta matéria; respeitam-se igualmente as subdivisões em pontos. Se um ponto do projecto de regulamento não tiver correspondência nos anexos da directiva, o seu número é indicado pro memoria entre parêntesis."
+  },
+  "32bce0e7effe1579": {
+   "fragment_id": "ANEXO V — MODELO",
+   "type": "divisao",
+   "heading": "ANEXO V — MODELO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — MODELO\n\nFormato máximo: A4 (210 × 297 mm)\n\nDenominação da autoridade administrativa\n\nANEXO A FICHA DE RECEPÇÃO CEE DE UM MODELO DE VEICULO NO QUE RESPEITA A IDENTIFICAÇÃO DOS COMANDOS, AVISADORES E INDICADORES\n\n(no 2 do artigo 4o e artigo 10o da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques)\n\nNo de recepção CEE...\n\n1. Marca de fabrico ou comercial do veículo...\n\n2. Modelo de veículo...\n\n3. Nome e morada do fabricante...\n\n4. Se for caso disso, nome e morada do seu mandatário...\n\n5. Descrição sumária do modelo de veículo no que respeita à identificação dos comandos, avisadores e indicadores...\n\n6. Veículo apresentado a recepção em...\n\n7. Serviço técnico encarregado dos ensaios de recepção...\n\n8. Data do relatório emitido por este serviço...\n\n9. No do relatório emitido por este serviço...\n\n10. A recepção no que respeito à identificação dos comandos, avisadores e indicadores é concedida/recusada (1)()\n\n11. Local...\n\n12. Data...\n\n13. Assinatura...\n\n14. Os documentos seguintes, que ostentam o no de recepção acima indicado, são anexados à presente comunicação:\n\n... desenhos dos comandos, avisadores e indicadores, assim como das partes do veículo consideradas de interesse para efeitos da Directiva 78/316/CEE do Conselho, de 21 de Dezembro de 1977, relativa à aproximação das legislações dos Estados-membros respeitantes ao arranjo interior dos veículos a motor (identificação dos comandos, avisadores e indicadores).\n\n15. Notas eventuais...\n\n(1)() Riscar o que não interessa."
+  }
+ }
+}

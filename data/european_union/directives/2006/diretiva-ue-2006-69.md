@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-01'
+version_history:
+  file: diretiva-ue-2006-69.versoes.json
+  count: 1
+  source_lastmod: '2007-01-01'
+  versions:
+  - date: '2007-01-01'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32006L0069
   eli: http://data.europa.eu/eli/dir/2006/69/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e0739ae4-ea19-4473-983d-b2d2e25af5aa.0016
   content_url: http://publications.europa.eu/resource/cellar/b184c12b-b365-4ffc-8ec8-3e6339d7e7f1.0014.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0069-20070101
-  retrieved_at: '2026-10-22T02:52:11Z'
+  retrieved_at: '2026-10-22T15:02:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T19:46:34.161+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:11Z'
-  notes: Texto consolidado 02006L0069-20070101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:02:09Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2006-69.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -155,29 +164,19 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 4
-  section_count: 5
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 6
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:11Z'
+  checked_at: '2026-10-22T15:02:09Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2006/69/CE do Conselho, de 24 de Julho de 2006
-
-> 02006L0069 — PT — 01.01.2007 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006L0112) — [DIRECTIVA 2006/112/CE DO CONSELHO de 28 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0112) — L 347 — 1 — 11.12.2006
-
-## DIRECTIVA 2006/69/CE DO CONSELHO
 
 de 24 de Julho de 2006
 

@@ -37,6 +37,96 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-10-20'
+version_history:
+  file: diretiva-ue-1989-594.versoes.json
+  count: 3
+  source_lastmod: '2007-10-20'
+  versions:
+  - date: '1989-11-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-04-15'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita CAPITULO 1
+    - Adita CAPITULO 2 — Alteraçoes da Directiva 77/452/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos
+      de enfermeiro responsável por cuidados gerais)
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita CAPITULO 3 — Alteraçoes da Directiva 78/686/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos
+      de dentista)
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita CAPITULO 4
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita CAPITULO 5
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Adita CAPITULO 6 — Disposiçoes finais
+    - Adita Artigo 28.º
+    - Adita Artigo 29.º
+    - Adita ANEXO
+    - Suprime artigo 66º, — Tendo em conta a proposta da Comissão (1),
+    - Suprime CAPÍTULO 1
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime CAPÍTULO 2 — Alterações da Directiva 77/452/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos
+      de
+  - date: '2007-10-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPITULO 1
+    - Suprime CAPITULO 2 — Alteraçoes da Directiva 77/452/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos
+      de enfermeiro responsável por cuidados gerais)
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime CAPITULO 3 — Alteraçoes da Directiva 78/686/CEE (reconhecimento mútuo dos diplomas, certificados e outros títulos
+      de dentista)
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime CAPITULO 4
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime CAPITULO 5
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime Artigo 24.º
+    - Suprime Artigo 25.º
+    - Suprime Artigo 26.º
+    - Suprime Artigo 27.º
+    - Suprime CAPITULO 6 — Disposiçoes finais
+    - Suprime Artigo 28.º
+    - Suprime Artigo 29.º
+    - Suprime ANEXO
 identifiers:
   celex: 31989L0594
   eli: http://data.europa.eu/eli/dir/1989/594/oj
@@ -51,7 +141,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/287eb78f-7e68-46ce-a5cf-d7bfa03e5605.0011
   content_url: http://publications.europa.eu/resource/cellar/e14d47f3-83ef-4fc7-9551-62b1c2c11ca7.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0594-20071020
-  retrieved_at: '2026-10-22T02:37:35Z'
+  retrieved_at: '2026-10-22T14:36:01Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T08:06:12.532+01:00'
 integrity:
@@ -60,9 +150,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:35Z'
-  notes: Texto consolidado 01989L0594-20071020.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:36:01Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1989-594.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -211,16 +301,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:35Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:36:01Z'
+  warnings: []
   errors: []
 ---
 

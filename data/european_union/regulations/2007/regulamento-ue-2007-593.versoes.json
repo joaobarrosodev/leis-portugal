@@ -1,0 +1,718 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32007R0593:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0593-20140401",
+ "dre_path": null,
+ "source_lastmod": "2014-04-01",
+ "versions": [
+  {
+   "date": "2007-06-01",
+   "future": false,
+   "celex": "32007R0593",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "63ed428e534de37a",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "4d66fafd5b1c7578",
+    "1121e468623b86ac",
+    "f0f8c960bfdbce9b",
+    "9c212599bb8037d8",
+    "7948ec847fbc39f5",
+    "420089ff0e45fe10",
+    "1d96f2add4c6e365",
+    "ef20ad1c5afac035",
+    "dbb18b4f382eea3f",
+    "9706b2f02725ef3a",
+    "270942c28158403e",
+    "1e7a0903d2eed348",
+    "354ecef476f5bac1",
+    "3a19e7afab0613da",
+    "c4c6d0257f169fe2",
+    "e5746c144c440529",
+    "1ecfc79da3f1ac7f",
+    "fee7c0f6661bbf52",
+    "1d03c00cce0898bc",
+    "ef851719a9a260fa",
+    "bc790d6948fb2e4a"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "celex": "02007R0593-20090101",
+   "acts": [
+    {
+     "id": "eu:celex:32008R1356:por",
+     "title": "REGULAMENTO (CE) N. o 1356/2008 DA COMISSÃO de 23 de Dezembro de 2008",
+     "published": null,
+     "celex": "32008R1356"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita Nota explicativa",
+    "Adita PARTE I",
+    "Adita Operações pelas quais é facturado um montante fixo",
+    "Adita PARTE II",
+    "Adita Operações facturadas à hora",
+    "Adita PARTE III",
+    "Adita Taxas para outras operações relacionadas com a certificação",
+    "Adita PARTE IV",
+    "Adita Honorários cobrados por recursos",
+    "Adita PARTE V",
+    "Adita Taxa de inflação anual",
+    "Adita PARTE VI",
+    "Adita Informação de desempenho"
+   ],
+   "fragments": [
+    "3fee7ef25d521b92",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "4d66fafd5b1c7578",
+    "1121e468623b86ac",
+    "f0f8c960bfdbce9b",
+    "9c212599bb8037d8",
+    "7948ec847fbc39f5",
+    "420089ff0e45fe10",
+    "1d96f2add4c6e365",
+    "8a007ff46d606fda",
+    "dbb18b4f382eea3f",
+    "50f605449327b190",
+    "270942c28158403e",
+    "1e7a0903d2eed348",
+    "354ecef476f5bac1",
+    "0fe9db1a58968d82",
+    "c4c6d0257f169fe2",
+    "89c448a30c6f15e8",
+    "1ecfc79da3f1ac7f",
+    "fee7c0f6661bbf52",
+    "1d03c00cce0898bc",
+    "3b5a541bf8040e42",
+    "d0e6bb74cb01086b",
+    "a7b67987cc276701",
+    "1886b172d44c9add",
+    "8a3ce6ff2b278f2f",
+    "de2ce44f7122ebf5",
+    "9bfcdfb653bf18ca",
+    "7e5f89163d9f1224",
+    "2ffb3326752001cb",
+    "945fb89c34a3068f",
+    "64e28a565ac21c36",
+    "14406147399b1c20",
+    "7aecd381df4b1065",
+    "25ee9c1255ea9f7b",
+    "7314d6a0d21f4210",
+    "eccd823c452a2b1c"
+   ]
+  },
+  {
+   "date": "2012-04-01",
+   "future": false,
+   "celex": "02007R0593-20120401",
+   "acts": [
+    {
+     "id": "eu:celex:32012R0494:por",
+     "title": "REGULAMENTO (UE) N. o 494/2012 DA COMISSÃO de 11 de junho de 2012",
+     "published": null,
+     "celex": "32012R0494"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º",
+    "Altera ANEXO",
+    "Altera Nota explicativa",
+    "Altera Operações pelas quais é facturado um montante fixo",
+    "Altera Operações facturadas à hora",
+    "Altera Honorários cobrados por recursos",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "19a211d561c57833",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "16bf746a65000d89",
+    "0da30e814f46b1b1",
+    "f0f8c960bfdbce9b",
+    "9c212599bb8037d8",
+    "7948ec847fbc39f5",
+    "839bcfc99bef19f6",
+    "1d96f2add4c6e365",
+    "8a007ff46d606fda",
+    "dbb18b4f382eea3f",
+    "1b7c10244537b338",
+    "270942c28158403e",
+    "1e7a0903d2eed348",
+    "354ecef476f5bac1",
+    "6f7b315ff96ab23f",
+    "ccebf4e444abdbc7",
+    "89c448a30c6f15e8",
+    "1ecfc79da3f1ac7f",
+    "fee7c0f6661bbf52",
+    "1d03c00cce0898bc",
+    "af638e6f63e339f4",
+    "04f2f4697f7a6ede",
+    "1dcfa4e879a6c89d",
+    "1886b172d44c9add",
+    "2015f829d99279f3",
+    "de2ce44f7122ebf5",
+    "132a12e432cefff7",
+    "7e5f89163d9f1224",
+    "2ffb3326752001cb",
+    "945fb89c34a3068f",
+    "ea935b92a7974a70",
+    "14406147399b1c20",
+    "7aecd381df4b1065",
+    "25ee9c1255ea9f7b",
+    "7314d6a0d21f4210",
+    "1adea2519e20ca7f"
+   ]
+  },
+  {
+   "date": "2014-04-01",
+   "future": false,
+   "celex": "02007R0593-20140401",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime CAPÍTULO II",
+    "Suprime TAXAS",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime CAPÍTULO III",
+    "Suprime HONORÁRIOS",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime CAPÍTULO IV",
+    "Suprime DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime ANEXO",
+    "Suprime Nota explicativa",
+    "Suprime PARTE I",
+    "Suprime Operações pelas quais é facturado um montante fixo",
+    "Suprime PARTE II",
+    "Suprime Operações facturadas à hora",
+    "Suprime PARTE III",
+    "Suprime Taxas para outras operações relacionadas com a certificação",
+    "Suprime PARTE IV",
+    "Suprime Honorários cobrados por recursos",
+    "Suprime PARTE V",
+    "Suprime Taxa de inflação anual",
+    "Suprime PARTE VI",
+    "Suprime Informação de desempenho",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "77159e714a109297"
+   ]
+  }
+ ],
+ "fragments": {
+  "63ed428e534de37a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Maio de 2007\n\nrelativo aos honorários e às taxas cobrados pela Agência Europeia para a Segurança da Aviação\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1592/2002 do Parlamento Europeu e do Conselho, de 15 de Julho de 2002, relativo a regras comuns no domínio da aviação civil e que cria a Agência Europeia para a Segurança da Aviação [([^1])](http://publications.europa.eu/resource/cellar/8b1cbefc-bd86-49b1-b31b-a5d83099f3c6.0018.02/DOC_1#ntr1-L_2007140PT.01000301-E0001) e, nomeadamente o n.º 1 do seu artigo 53.º,\n\nApós consulta do Conselho de Administração da Agência Europeia para a Segurança da Aviação,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 488/2005 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/8b1cbefc-bd86-49b1-b31b-a5d83099f3c6.0018.02/DOC_1#ntr2-L_2007140PT.01000301-E0002) estabeleceu os honorários e as taxas cobrados pela Agência Europeia para a Segurança da Aviação (a seguir denominada «a Agência»).\n\n(2) As receitas da Agência consistem numa contribuição da Comunidade e de países terceiros europeus que tenham celebrado os acordos referidos no artigo 55.º do Regulamento (CE) n.º 1592/2002, nas taxas pagas pelos requerentes de certificados e homologações emitidos, mantidos ou alterados pela Agência e nos preços e taxas cobrados por publicações, tratamento de recursos, formação e qualquer outro serviço prestado pela Agência.\n\n(3) As receitas e despesas da Agência deverão estar equilibradas.\n\n(4) Os honorários e taxas a que se refere o presente regulamento deverão ser exigidos e cobrados pela Agência exclusivamente em euros. Os respectivos montantes deverão ser fixados de forma transparente, equitativa e uniforme.\n\n(5) As taxas cobradas pela Agência não deverão comprometer a competitividade das indústrias europeias em causa. Para além disso, deverão ser definidas tendo em devida conta a capacidade contributiva das pequenas empresas.\n\n(6) A Agência, embora tenha como objectivo principal a segurança da aviação civil, deve tomar plenamente em conta a relação custo/benefício no desempenho das suas funções.\n\n(7) A localização geográfica das empresas nos territórios dos Estados-Membros não deverá constituir um factor de discriminação. Consequentemente, as despesas de deslocação relacionadas com as tarefas de certificação realizadas em nome dessas empresas deverão ser agregadas e divididas entre os requerentes.\n\n(8) O requerente deverá ser informado, na medida do possível, da estimativa do montante devido em contrapartida do serviço que lhe será prestado, bem como das suas modalidades de pagamento, antes do início da prestação do serviço. Os critérios que servem de base à determinação desse montante deverão ser claros, uniformes e públicos. Sempre que seja impossível determinar esse montante antecipadamente, o requerente deverá ser informado do facto antes do início da prestação do serviço. Nesse caso, antes da prestação do serviço, deverão ser acordadas modalidades claras para determinação, à medida que o serviço for sendo prestado, do montante a pagar.\n\n(9) A indústria deverá beneficiar de uma boa visibilidade financeira e poder prever o custo das taxas que irá ter de pagar. Simultaneamente, é necessário assegurar o equilíbrio entre a despesa global incorrida pela Agência na realização das operações de certificação e a receita global resultante das taxas por ela cobradas. Por conseguinte, com base nos resultados financeiros e nas previsões da Agência, deverá ser possível a revisão anual do valor das taxas.\n\n(10) As partes interessadas deverão ser consultadas antes de qualquer alteração das taxas. Para além disso, a Agência deverá disponibilizar regularmente às partes interessadas informação sobre o modo de cálculo das taxas e a base para o mesmo. Esta informação deverá permitir às partes interessadas conhecer os custos em que a Agência incorre e a sua produtividade.\n\n(11) As tarifas definidas no presente regulamento devem basear-se nas previsões da Agência quanto ao seu volume de trabalho e consequentes custos.\n\n(12) O presente regulamento deverá ser revisto num prazo de 5 anos a contar da sua entrada em vigor.\n\n(13) O Regulamento (CE) n.º 488/2005 deverá ser revogado.\n\n(14) As medidas previstas no presente regulamento são conformes ao parecer do comité criado pelo n.º 1 do artigo 54.º do Regulamento (CE) n.º 1592/2002,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "4d66fafd5b1c7578": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento aplica-se aos honorários e taxas cobrados pela Agência Europeia para a Segurança da Aviação, a seguir denominada «a Agência», em contrapartida dos serviços por ela prestados, incluindo o fornecimento de mercadorias.\n\nO regulamento determina, nomeadamente, os casos em que são devidos os honorários e taxas enumerados no n.º 1 do artigo 48.º do Regulamento (CE) n.º 1592/2002, os seus respectivos montantes e as modalidades de pagamento."
+  },
+  "1121e468623b86ac": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento, aplicam-se as seguintes definições:\n\na) «Taxas» são os montantes cobrados pela Agência e devidos pelos requerentes para a obtenção, manutenção ou alteração dos certificados mencionados no artigo 15.º do Regulamento (CE) n.º 1592/2002, os quais são emitidos, mantidos ou alterados pela Agência;\n\nb) «Honorários» são os montantes cobrados pela Agência e devidos pelos requerentes que beneficiam de outros serviços prestados pela Agência para além das operações de certificação;\n\nc) «Operações de certificação» são todas as actividades realizadas pela Agência, directa ou indirectamente, para fins de emissão, manutenção ou alteração dos certificados mencionados no artigo 15.º do Regulamento (CE) n.º 1592/2002;\n\nd) «Requerente» é a pessoa singular ou colectiva que solicita um serviço prestado pela Agência, nomeadamente a emissão, manutenção ou alteração de um certificado;\n\ne) «Despesas de deslocação» são os custos de transporte, de alojamento e refeições, despesas acessórias e ajudas de custo, pagas ao pessoal no âmbito de operações de certificação;\n\nf) «Custo real» corresponde às despesas efectivas incorridas pela Agência."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "9c212599bb8037d8": {
+   "fragment_id": "TAXAS",
+   "type": "divisao",
+   "heading": "TAXAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TAXAS"
+  },
+  "7948ec847fbc39f5": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As taxas devem assegurar uma receita global suficiente para cobrir a totalidade dos custos decorrentes das operações de certificação, incluindo os custos associados à sua supervisão contínua.\n\n2. A Agência distinguirá, de entre as suas receitas e despesas, as que são imputáveis às operações de certificação. Para o efeito:\n\na) As taxas cobradas pela Agência devem ser afectadas a uma conta distinta e objecto de uma contabilidade separada;\n\nb) A Agência deve ter uma contabilidade analítica das receitas e despesas.\n\n3. As taxas serão objecto de uma estimativa global provisória no início de cada exercício financeiro. Esta estimativa será estabelecida com base nos resultados financeiros anteriores da Agência, no seu mapa previsional de receitas e despesas e no seu plano de trabalho futuro.\n\nSe no final de um exercício financeiro as receitas totais decorrentes das taxas, que constituem uma receita afectada de acordo com o disposto no artigo 53.º do Regulamento (CE) n.º 1592/2002, excederem o custo total das operações de certificação, o excedente deverá ser utilizado para financiar operações de certificação de acordo com o disposto no regulamento financeiro da Agência"
+  },
+  "420089ff0e45fe10": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA taxa devida pelo requerente por determinada operação de certificação consistirá:\n\na) Num montante fixo, diferente consoante a operação em causa, por forma a reflectir o custo incorrido pela Agência no decurso da realização da mesma. Os diferentes valores do montante fixo estão definidos nas Partes I e III do Anexo; ou\n\nb) Num montante variável, proporcional ao volume de trabalho necessário, expresso num número de horas a multiplicar pela tarifa horária. A tarifa horária deverá reflectir todos os custos decorrentes de uma operação de certificação. As operações de certificação cobradas à hora, assim como a tarifa horária a aplicar, encontram-se especificadas na Parte II do Anexo."
+  },
+  "1d96f2add4c6e365": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os montantes definidos no Anexo serão publicados na publicação oficial da Agência.\n\n2. Estes montantes serão indexados anualmente em função da taxa de inflação definida na Parte V do Anexo.\n\n3. Se necessário, o Anexo será revisto anualmente.\n\n4. Anualmente, a Agência deverá disponibilizar à Comissão, ao Conselho de Administração e ao órgão consultivo das partes interessadas, estabelecido de acordo com o disposto no artigo 24.º do Regulamento (CE) nº 1592/2002, informação sobre os elementos que servem de base à definição do valor das taxas. Esta informação deverá consistir, nomeadamente, numa discriminação dos custos relativos aos anos anteriores e seguintes. A Agência deverá igualmente disponibilizar à Comissão, Conselho de Administração e órgão consultivo das partes interessadas, duas vezes por ano, a informação de desempenho definida na Parte VI do Anexo e os indicadores de desempenho referidos no n.º 5.\n\n5. Num prazo de seis meses a partir da entrada em vigor do presente regulamento, a Agência deverá, após consulta do órgão consultivo das partes interessadas, adoptar um conjunto de indicadores de desempenho tendo em consideração, nomeadamente, a informação enumerada na Parte VI do Anexo.\n\n6. A Agência deverá consultar o órgão consultivo das partes interessadas antes de se pronunciar sobre qualquer alteração às taxas. Durante a consulta, a Agência deverá explicar as razões subjacentes a qualquer proposta de alteração do valor das taxas."
+  },
+  "ef20ad1c5afac035": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSem prejuízo do disposto no artigo 4.º, sempre que uma operação de certificação seja realizada, total ou parcialmente, fora dos territórios dos Estados-Membros, a taxa facturada ao requerente deverá incluir as despesas de deslocação fora desses territórios, de acordo com a fórmula:\n\n**d = f + v**\n\nsendo:\n\n| d | = | taxa devida |\n| --- | --- | --- |\n| f | = | taxa correspondente à operação realizada, como definido no Anexo |\n| v | = | despesas de deslocação adicionais, a custo real. |\n\nAs despesas de deslocação adicionais, facturadas ao requerente, deverão incluir o tempo dispendido pelos peritos nas deslocações fora do território dos Estados-Membros. O número de horas pertinente será facturado em função da tarifa horária."
+  },
+  "dbb18b4f382eea3f": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA pedido do requerente, e com o acordo do Director Executivo da Agência, a operação de certificação poderá, excepcionalmente, ser realizada da seguinte forma:\n\na) Através da afectação de categorias de pessoal que, de acordo com os seus procedimentos habituais, a Agência normalmente não afectaria; e/ou\n\nb) Através da afectação de recursos humanos que permitam a realização da operação num prazo mais curto do que o decorrente da aplicação dos procedimentos habituais da Agência.\n\nNeste caso, é excepcionalmente aplicada uma majoração à taxa cobrada, para compensar integralmente os custos incorridos pela Agência na resposta a este pedido especial."
+  },
+  "9706b2f02725ef3a": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A taxa deverá ser paga pelo requerente em euros. O requerente assegurará que a Agência recebe o montante total devido. Os eventuais encargos bancários decorrentes do pagamento serão da responsabilidade do requerente.\n\n2. A emissão, manutenção ou alteração de um certificado está sujeita ao pagamento prévio da totalidade da taxa devida, salvo acordo em contrário entre a Agência e o requerente. No caso de não-pagamento, a Agência poderá revogar o certificado em causa após aviso formal ao requerente.\n\n3. Os montantes iguais ou inferiores a 1 000 EUR deverão ser pagos, na totalidade, na data da apresentação do pedido.\n\n4. A escala de taxas aplicada pela Agência e as modalidades de pagamento deverão ser comunicadas aos requerentes no momento da apresentação do pedido.\n\n5. Sempre que as operações de certificação originem o pagamento de taxas calculadas numa base horária, a Agência poderá, mediante pedido, apresentar uma estimativa ao requerente. Esta estimativa será alterada pela Agência se a operação se revelar mais simples ou puder ser realizada mais rapidamente do que inicialmente previsto ou se, pelo contrário, a operação for mais complexa e demorar mais tempo a realizar do que o que a Agência poderia ter previsto de modo razoável.\n\n6. Se, após uma primeira análise, a Agência decidir não aceitar um pedido, qualquer taxa já paga será devolvida ao requerente, com excepção do montante necessário para cobrir os custos administrativos com o tratamento do pedido. Este montante será equivalente a duas vezes a tarifa horária definida na Parte II do Anexo.\n\n7. Se uma operação de certificação tiver de ser interrompida pela Agência devido à insuficiência de recursos do requerente, por este não cumprir os requisitos aplicáveis ou porque o requerente decide retirar o pedido ou adiar o seu projecto, quaisquer taxas ainda devidas, calculadas numa base horária mas não excedendo o montante fixo aplicável, deverão ser pagas na totalidade no momento em que a Agência interromper esse trabalho. O número de horas em causa será facturado com base na tarifa horária definida na Parte II do Anexo. Quando, a pedido do requerente, a Agência reinicia uma operação de certificação anteriormente interrompida, esta operação será cobrada como um novo projecto."
+  },
+  "270942c28158403e": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs taxas serão exigidas e cobradas unicamente pela Agência.\n\nOs Estados-Membros não cobrarão taxas por operações de certificação, ainda que realizem essas operações em nome da Agência\n\nA Agência deverá reembolsar os Estados-Membros pelas operações de certificação que estes realizem em seu nome."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "354ecef476f5bac1": {
+   "fragment_id": "HONORÁRIOS",
+   "type": "divisao",
+   "heading": "HONORÁRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### HONORÁRIOS"
+  },
+  "3a19e7afab0613da": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A Agência cobrará honorários por todos os serviços prestados, incluindo o fornecimento de mercadorias, com excepção dos referidos no artigo 3.º\n\nNo entanto, os seguintes serviços serão gratuitos:\n\na) Transmissão de documentos e informações, sob qualquer forma, nos termos do Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/8b1cbefc-bd86-49b1-b31b-a5d83099f3c6.0018.02/DOC_1#ntr3-L_2007140PT.01000301-E0003);\n\nb) Documentos disponibilizados gratuitamente através do sítio *Web* da Agência.\n\n2. A Agência cobrará igualmente honorários pela interposição de recursos contra as suas decisões, nos termos do disposto no artigo 35.º do Regulamento (CE) n.º 1592/2002."
+  },
+  "c4c6d0257f169fe2": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO montante dos honorários cobrados pela Agência deverá ser igual ao custo real do serviço prestado, incluindo a sua disponibilização ao requerente. Para tal, o tempo dispendido pela Agência na prestação do serviço será facturado com base na tarifa horária referida na Parte II do Anexo.\n\nOs honorários a cobrar quando é interposto recurso nos termos do artigo 35.º do Regulamento (CE) n.º 1592/2002 assumirão a forma de um montante fixo, como especificado na Parte IV do Anexo. Caso o requerente obtenha ganho de causa no recurso interposto, esse montante fixo ser-lhe-á automaticamente restituído pela Agência.\n\nO montante e as modalidades de pagamento dos honorários deverão ser comunicados ao requerente antes da prestação do serviço."
+  },
+  "e5746c144c440529": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs honorários deverão ser pagos pelo requerente ou, em caso de recurso, pela pessoa singular ou colectiva que o interponha.\n\nOs honorários serão pagos em euros.\n\nO requerente assegurará que a Agência receba o montante total devido. Os eventuais encargos bancários decorrentes do pagamento serão da responsabilidade do requerente.\n\nOs honorários deverão ser cobrados antes da prestação do serviço ou antes da interposição do recurso, salvo acordo em contrário entre a Agência e o requerente ou a pessoa singular ou colectiva que interponha recurso.\n\nOs montantes iguais ou inferiores a 1 000 EUR deverão ser pagos, na totalidade, na data da apresentação do pedido ou da interposição do recurso."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "fee7c0f6661bbf52": {
+   "fragment_id": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+  },
+  "1d03c00cce0898bc": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nÉ revogado o Regulamento (CE) n.º 488/2005."
+  },
+  "ef851719a9a260fa": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. O presente regulamento entra em vigor em 1 de Junho de 2007. É aplicável sob reserva das seguintes condições:\n\na) As taxas constantes das Tabelas 1 a 5 da Parte I do Anexo aplicar-se-ão a qualquer certificado emitido após 1 de Junho de 2007;\n\nb) Os valores constantes da Tabela 6 da Parte I do Anexo aplicar-se-ão às taxas anuais cobradas após 1 de Junho de 2007;\n\nc) Para os requerentes a quem tenha sido cobrada a taxa de vigilância referida no ponto vi) do Anexo ao Regulamento (CE) n.º 488/2005 antes de 1 de Junho de 2007, aplicar-se-ão as taxas constantes da Tabela 7 da Parte I do Anexo, a partir do primeiro pagamento anual devido após a conclusão do período de 3 anos referido no ponto vi) do Anexo ao Regulamento (CE) n.º 488/2005;\n\nd) Para os requerentes a quem tenham sido cobradas as taxas de vigilância referidas nos pontos viii), x), xiii) ou xi) do Anexo ao Regulamento (CE) n.º 488/2005 antes de 1 de Junho de 2007, aplicar-se-ão as taxas de vigilância constantes, respectivamente, das Tabelas 8, 9 e 10 da Parte I e do n.º 2 da Parte III do Anexo ao presente regulamento, a partir do primeiro pagamento anual devido após a conclusão dos períodos de 2 anos referido nos pontos viii), x) e xiii) do Anexo ao Regulamento (CE) n.º 488/2005.\n\n2. Não obstante o disposto no artigo 13.º, o Regulamento (CE) n.º 488/2005 continuará a ser aplicável relativamente a quaisquer honorários e taxas não abrangidos pelo âmbito de aplicação do presente regulamento em conformidade com o disposto no n.º 1.\n\n3. O presente regulamento será revisto num prazo de 5 anos a partir da data de entrada em vigor.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 31 de Maio de 2007.\n\n***Pela Comissão***\n\n**Jacques BARROT**\n\n***Vice-Presidente***\n\n---"
+  },
+  "bc790d6948fb2e4a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/8b1cbefc-bd86-49b1-b31b-a5d83099f3c6.0018.02/DOC_1#ntc1-L_2007140PT.01000301-E0001) [JO L 240 de 7.9.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_240_R_TOC). Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1701/2003 da Comissão ([JO L 243 de 27.9.2003, p. 5](http://publications.europa.eu/resource/oj/JOL_2003_243_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/8b1cbefc-bd86-49b1-b31b-a5d83099f3c6.0018.02/DOC_1#ntc2-L_2007140PT.01000301-E0002) [JO L 81 de 30.3.2005, p. 7](http://publications.europa.eu/resource/oj/JOL_2005_081_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 779/2006 ([JO L 137 de 25.5.2006, p. 3](http://publications.europa.eu/resource/oj/JOL_2006_137_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/8b1cbefc-bd86-49b1-b31b-a5d83099f3c6.0018.02/DOC_1#ntc3-L_2007140PT.01000301-E0003) [JO L 145 de 31.5.2001, p. 43](http://publications.europa.eu/resource/oj/JOL_2001_145_R_TOC)."
+  },
+  "3fee7ef25d521b92": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Maio de 2007\n\nrelativo aos honorários e às taxas cobrados pela Agência Europeia para a Segurança da Aviação\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1592/2002 do Parlamento Europeu e do Conselho, de 15 de Julho de 2002, relativo a regras comuns no domínio da aviação civil e que cria a Agência Europeia para a Segurança da Aviação ([^1^](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0001)) e, nomeadamente o n.º 1 do seu artigo 53.º,\n\nApós consulta do Conselho de Administração da Agência Europeia para a Segurança da Aviação,\n\n(1) O Regulamento (CE) n.º 488/2005 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0002)) estabeleceu os honorários e as taxas cobrados pela Agência Europeia para a Segurança da Aviação (a seguir denominada «a Agência»).\n\n(2) As receitas da Agência consistem numa contribuição da Comunidade e de países terceiros europeus que tenham celebrado os acordos referidos no artigo 55.º do Regulamento (CE) n.º 1592/2002, nas taxas pagas pelos requerentes de certificados e homologações emitidos, mantidos ou alterados pela Agência e nos preços e taxas cobrados por publicações, tratamento de recursos, formação e qualquer outro serviço prestado pela Agência.\n\n(3) As receitas e despesas da Agência deverão estar equilibradas.\n\n(4) Os honorários e taxas a que se refere o presente regulamento deverão ser exigidos e cobrados pela Agência exclusivamente em euros. Os respectivos montantes deverão ser fixados de forma transparente, equitativa e uniforme.\n\n(5) As taxas cobradas pela Agência não deverão comprometer a competitividade das indústrias europeias em causa. Para além disso, deverão ser definidas tendo em devida conta a capacidade contributiva das pequenas empresas.\n\n(6) A Agência, embora tenha como objectivo principal a segurança da aviação civil, deve tomar plenamente em conta a relação custo/benefício no desempenho das suas funções.\n\n(7) A localização geográfica das empresas nos territórios dos Estados-Membros não deverá constituir um factor de discriminação. Consequentemente, as despesas de deslocação relacionadas com as tarefas de certificação realizadas em nome dessas empresas deverão ser agregadas e divididas entre os requerentes.\n\n(8) O requerente deverá ser informado, na medida do possível, da estimativa do montante devido em contrapartida do serviço que lhe será prestado, bem como das suas modalidades de pagamento, antes do início da prestação do serviço. Os critérios que servem de base à determinação desse montante deverão ser claros, uniformes e públicos. Sempre que seja impossível determinar esse montante antecipadamente, o requerente deverá ser informado do facto antes do início da prestação do serviço. Nesse caso, antes da prestação do serviço, deverão ser acordadas modalidades claras para determinação, à medida que o serviço for sendo prestado, do montante a pagar.\n\n(9) A indústria deverá beneficiar de uma boa visibilidade financeira e poder prever o custo das taxas que irá ter de pagar. Simultaneamente, é necessário assegurar o equilíbrio entre a despesa global incorrida pela Agência na realização das operações de certificação e a receita global resultante das taxas por ela cobradas. Por conseguinte, com base nos resultados financeiros e nas previsões da Agência, deverá ser possível a revisão anual do valor das taxas.\n\n(10) As partes interessadas deverão ser consultadas antes de qualquer alteração das taxas. Para além disso, a Agência deverá disponibilizar regularmente às partes interessadas informação sobre o modo de cálculo das taxas e a base para o mesmo. Esta informação deverá permitir às partes interessadas conhecer os custos em que a Agência incorre e a sua produtividade.\n\n(11) As tarifas definidas no presente regulamento devem basear-se nas previsões da Agência quanto ao seu volume de trabalho e consequentes custos.\n\n(12) O presente regulamento deverá ser revisto num prazo de 5 anos a contar da sua entrada em vigor.\n\n(13) O Regulamento (CE) n.º 488/2005 deverá ser revogado.\n\n(14) As medidas previstas no presente regulamento são conformes ao parecer do comité criado pelo n.º 1 do artigo 54.º do Regulamento (CE) n.º 1592/2002,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "8a007ff46d606fda": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSem prejuízo do disposto no artigo 4.º, sempre que uma operação de certificação seja realizada, total ou parcialmente, fora dos territórios dos Estados-Membros, a taxa facturada ao requerente deverá incluir as despesas de deslocação fora desses territórios, de acordo com a fórmula:\n\nd = f + v + h – e\n\nem que:\n\n| d | = | taxa devida |\n| --- | --- | --- |\n\n| f | = | taxa correspondente à operação realizada, como definido no anexo |\n| --- | --- | --- |\n\n| v | = | despesas de deslocação |\n| --- | --- | --- |\n\n| h | = | tempo dispendido pelos peritos nos meios de transporte, facturado em função da taxa horária estabelecida na parte II |\n| --- | --- | --- |\n\n| e | = | despesas de deslocação médias nos territórios dos Estados-Membros, incluindo o tempo médio dispendido nos meios de transporte nos territórios dos Estados-Membros multiplicado pela taxa horária estabelecida na parte II. |\n| --- | --- | --- |"
+  },
+  "50f605449327b190": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A taxa deverá ser paga pelo requerente em euros. O requerente assegurará que a Agência recebe o montante total devido. Os eventuais encargos bancários decorrentes do pagamento serão da responsabilidade do requerente.\n\n2. A emissão, manutenção ou alteração de um certificado está sujeita ao pagamento prévio da totalidade da taxa devida, salvo acordo em contrário entre a Agência e o requerente. A Agência pode facturar a taxa numa só prestação após recepção do pedido ou no início do período anual ou do período de vigilância. No caso de não-pagamento, a Agência poderá recusar a emissão ou revogar o certificado em causa após aviso formal ao requerente.\n\n4. A escala de taxas aplicada pela Agência e as modalidades de pagamento deverão ser comunicadas aos requerentes no momento da apresentação do pedido.\n\n5. Sempre que as operações de certificação originem o pagamento de taxas calculadas numa base horária, a Agência poderá, mediante pedido, apresentar uma estimativa ao requerente. Esta estimativa será alterada pela Agência se a operação se revelar mais simples ou puder ser realizada mais rapidamente do que inicialmente previsto ou se, pelo contrário, a operação for mais complexa e demorar mais tempo a realizar do que o que a Agência poderia ter previsto de modo razoável.\n\n6. Se, após uma primeira análise, a Agência decidir não aceitar um pedido, qualquer taxa já paga será devolvida ao requerente, com excepção do montante necessário para cobrir os custos administrativos com o tratamento do pedido. Este montante será equivalente a duas vezes a tarifa horária definida na Parte II do Anexo.\n\n7. Se uma operação de certificação tiver de ser interrompida pela Agência devido à insuficiência de recursos do requerente, por este não cumprir os requisitos aplicáveis ou porque o requerente decide retirar o pedido ou adiar o seu projecto, quaisquer taxas ainda devidas, calculadas numa base horária para o período de doze meses em curso mas não excedendo o montante fixo aplicável, deverão ser pagas na totalidade no momento em que a Agência interromper esse trabalho, juntamente com quaisquer outros montantes em dívida nesse momento. O número de horas em causa será facturado com base na tarifa horária definida na parte II do anexo. Quando, a pedido do requerente, a Agência reinicia uma operação de certificação anteriormente interrompida, esta operação será cobrada como um novo projecto.\n\n8. Se o titular de um certificado renunciar ao seu certificado ou a Agência revogar o certificado, quaisquer taxas ainda devidas, calculadas numa base horária mas não excedendo o montante fixo aplicável, deverão ser pagas na totalidade no momento da renúncia ou da revogação, juntamente com quaisquer outros montantes em dívida nesse momento. O número de horas em causa será facturado com base na tarifa horária definida na parte II do anexo.\n\n9. Se a Agência suspender um certificado, quaisquer taxas ainda devidas, calculadas numa base *pro-rata temporis*, deverão ser pagas na totalidade no momento da suspensão, juntamente com quaisquer outros montantes devidos nesse momento. Se o certificado for subsequentemente reactivado, um novo período de doze meses tem início na data da reactivação."
+  },
+  "0fe9db1a58968d82": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A Agência cobrará honorários por todos os serviços prestados, incluindo o fornecimento de mercadorias, com excepção dos referidos no artigo 3.º\n\nNo entanto, os seguintes serviços serão gratuitos:\n\na) Transmissão de documentos e informações, sob qualquer forma, nos termos do Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0003));\n\nb) Documentos disponibilizados gratuitamente através do sítio *Web* da Agência.\n\n2. A Agência cobrará igualmente honorários pela interposição de recursos contra as suas decisões, nos termos do disposto no artigo 35.º do Regulamento (CE) n.º 1592/2002."
+  },
+  "89c448a30c6f15e8": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs honorários deverão ser pagos pelo requerente ou, em caso de recurso, pela pessoa singular ou colectiva que o interponha.\n\nOs honorários serão pagos em euros.\n\nO requerente assegurará que a Agência receba o montante total devido. Os eventuais encargos bancários decorrentes do pagamento serão da responsabilidade do requerente.\n\nOs honorários deverão ser cobrados antes da prestação do serviço ou antes da interposição do recurso, salvo acordo em contrário entre a Agência e o requerente ou a pessoa singular ou colectiva que interponha recurso."
+  },
+  "3b5a541bf8040e42": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. O presente regulamento entra em vigor em 1 de Junho de 2007. É aplicável sob reserva das seguintes condições:\n\na) As taxas constantes das Tabelas 1 a 5 da Parte I do Anexo aplicar-se-ão a qualquer certificado emitido após 1 de Junho de 2007;\n\nb) Os valores constantes da Tabela 6 da Parte I do Anexo aplicar-se-ão às taxas anuais cobradas após 1 de Junho de 2007;\n\nc) Para os requerentes a quem tenha sido cobrada a taxa de vigilância referida no ponto vi) do Anexo ao Regulamento (CE) n.º 488/2005 antes de 1 de Junho de 2007, aplicar-se-ão as taxas constantes da Tabela 7 da Parte I do Anexo, a partir do primeiro pagamento anual devido após a conclusão do período de 3 anos referido no ponto vi) do Anexo ao Regulamento (CE) n.º 488/2005;\n\nd) Para os requerentes a quem tenham sido cobradas as taxas de vigilância referidas nos pontos viii), x), xiii) ou xi) do Anexo ao Regulamento (CE) n.º 488/2005 antes de 1 de Junho de 2007, aplicar-se-ão as taxas de vigilância constantes, respectivamente, das Tabelas 8, 9 e 10 da Parte I e do n.º 2 da Parte III do Anexo ao presente regulamento, a partir do primeiro pagamento anual devido após a conclusão dos períodos de 2 anos referido nos pontos viii), x) e xiii) do Anexo ao Regulamento (CE) n.º 488/2005.\n\n2. Não obstante o disposto no artigo 13.º, o Regulamento (CE) n.º 488/2005 continuará a ser aplicável relativamente a quaisquer honorários e taxas não abrangidos pelo âmbito de aplicação do presente regulamento em conformidade com o disposto no n.º 1.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d0e6bb74cb01086b": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| Índice |  |\n| --- | --- |\n| Parte I: | Operações pelas quais é facturado um montante fixo |\n| Parte II: | Operações facturadas à hora |\n| Parte III: | Taxas para outras operações relacionadas com a certificação |\n| Parte IV: | Honorários cobrados pelos recursos |\n| Parte V: | Taxa anual de inflação |\n| Parte VI: | Informação de desempenho |"
+  },
+  "a7b67987cc276701": {
+   "fragment_id": "Nota explicativa",
+   "type": "divisao",
+   "heading": "Nota explicativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Nota explicativa\n\n(1) As taxas e os honorários são apresentados em euros.\n\n(2) As taxas relativas a produtos referidas nas Tabelas 1 a 4 da Parte I são cobradas por operação e por períodos de 12 meses. Após o primeiro período de 12 meses, se aplicável, estas taxas são determinadas *pro rata temporis* (1/365 avos da taxa anual relevante, por dia, após o primeiro período de 12 meses). As taxas referidas na Tabela 5 são cobradas por operação. As taxas referidas na Tabela 6 são cobradas por períodos de 12 meses.\n\n(3) Para as taxas relativas às entidades, referidas nas Tabelas 7 a 10 da Parte I, as taxas de aprovação são cobradas uma vez e as taxas de vigilância são cobradas de 12 em 12 meses.\n\n(4) Nas operações cobradas à hora referidas na Parte II, a tarifa horária aplicável, tal como especificada nesta Parte, é multiplicada pelo número de horas efectivas de trabalho dispendidas pela Agência ou pelo número de horas definidas nesta Parte.\n\n(5) As especificações de certificação (CS) referidas neste Anexo são as adoptadas de acordo com o disposto no n.º 2 do artigo 14.º do Regulamento (CE) n.º 1592/2002 e publicadas na publicação oficial da Agência de acordo com a decisão AESA 2003/8 de 30 de Outubro de 2003. (www.easa.europa.eu).\n\n(6) «Aeronaves de asas rotativas de grande porte» refere-se às CS 29 e CS 27 cat. A; «Aeronaves de asas rotativas de pequeno porte» refere-se às CS 27 com Peso Máximo à Descolagem (MTOW) abaixo de 3 175 kg e limitado a 4 lugares, incluindo o piloto, e à CS VLR; «Aeronaves de asas rotativas de médio porte» refere-se a outras CS 27.\n\n(7) «Derivado» significa um certificado-tipo alterado tal como definido e requerido pelo titular do certificado-tipo.\n\n(8) Nas Tabelas 1, 2 e 6 da Parte I, os valores das «peças» referem-se aos preços de catálogo pertinentes dos fabricantes.\n\n(9) Nas Tabelas 3 e 4 da parte I, «Simples», «Standard» e «Complexo» referem-se a:\n\n|  | Simples | Standard | Complexo |\n| --- | --- | --- | --- |\n| Certificado-Tipo Suplementar (STC) AESA Grandes alterações do projecto AESA Grandes reparações AESA | STC, grande alteração do projecto ou reparação envolvendo apenas métodos de justificação correntes e demonstrados, para os quais é possível comunicar um conjunto de dados completos no momento do pedido (descrição, «check-list» de conformidade e documentos de conformidade) e para os quais o requerente demonstrou possuir experiência e que poderá ser avaliada apenas pelo gestor de certificação de projecto ou com a participação limitada de um perito especialista | Todos os outros STC, grandes alterações do projecto ou reparações | STC significativo [(^1^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0004) ou grande alteração do projecto |\n| STC validado por um acordo bilateral | Básico [(^2^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0005) | Não básico [(^2^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0005) | STC não básico [(^2^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0005) quando a Autoridade de Certificação [(^2^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0005) tiver classificado a alteração de «significativa» [(^1^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0004) |\n| Grande alteração do projecto validada por um acordo bilateral | Grandes alterações do projecto de nível 2 [(^2^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0005) quando não aceites automaticamente [(^3^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0006). | Nível 1 [(^2^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0005) | Grande alteração do projecto de nível 1 [(^2^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0005) quando a Autoridade de Certificação [(^2^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0005) tiver classificado a alteração de «significativa» [(^1^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0004) |\n| Grande reparação validada por um acordo bilateral | N/A (aceitação automática) | Reparações em componente crítico [(^2^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0005) | N/A |\n| (^1^)«Significativo» está definido no n.º 21A.101 (b) do anexo ao Regulamento (CE) n.º 1702/2003. (^2^)Para as definições de «básico», «não básico», «nível 1», «nível 2», «componente crítico» e «Autoridade de Certificação», ver o acordo bilateral aplicável ao abrigo do qual tem lugar a validação. (^3^)Os critérios de aceitação automática pela AESA para grandes alterações de nível 2 são definidos na decisão do Director Executivo da AESA 2004/04/CF ou no acordo bilateral aplicável ao abrigo do qual tem lugar a validação. |  |  |  |\n\n(10) Na Tabela 7 da Parte I, as entidades de projecto são classificadas da seguinte forma:\n\n| Âmbito do acordo sobre as entidades de projecto | Grupo A | Grupo B | Grupo C |\n| --- | --- | --- | --- |\n| DOA 1 Titulares de certificados-tipo | Altamente complexo/Grande | Complexo/Pequeno-Médio | Menos complexo/Muito pequeno |\n| DOA 2 STC/Alterações/Reparações | Sem restrição | Restrito (campos técnicos) | Restrito (dimensão da aeronave) |\n| DOA 3 Pequenas Alterações/Reparações |  |  |  |\n\n(11) Na Tabela 8 da Parte I, o volume de negócios considerado diz respeito às actividades abrangidas pelo âmbito do acordo.\n\n(12) Nas Tabelas 7, 9 e 10 da Parte I, o pessoal considerado é o afectado a actividades abrangidas pelo âmbito do acordo."
+  },
+  "1886b172d44c9add": {
+   "fragment_id": "PARTE I",
+   "type": "divisao",
+   "heading": "PARTE I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE I"
+  },
+  "8a3ce6ff2b278f2f": {
+   "fragment_id": "Operações pelas quais é facturado um montante fixo",
+   "type": "divisao",
+   "heading": "Operações pelas quais é facturado um montante fixo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Operações pelas quais é facturado um montante fixo\n\nTabela 1: Certificados-tipo e certificados-tipo restritos (referidos na subparte B e subparte O do anexo ao Regulamento (CE) n.º 1702/2003 [(^1^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0007))\n\n| (EUR) |  |\n| --- | --- |\n|  | Montante fixo |\n| Aeronaves de asas fixas |  |\n| Mais de 150 000 kg | 2 600 000 |\n| Mais de 50 000 kg a 150 000 kg | 1 330 000 |\n| Mais de 22 000 kg a 50 000 kg | 1 060 000 |\n| Mais de 5 700 kg a 22 000 kg | 410 000 |\n| Mais de 2 000 kg a 5 700 kg | 227 000 |\n| Até 2 000 kg | 12 000 |\n| Aviões muito ligeiros, planadores com motor e planadores | 6 000 |\n| Aeronaves de asas rotativas |  |\n| Grande porte | 525 000 |\n| Médio porte | 265 000 |\n| Pequeno porte | 20 000 |\n| Outros |  |\n| Balões | 6 000 |\n| Propulsão |  |\n| Motores de turbina com impulso à descolagem superior a 25 KN ou potência à descolagem superior a 2 000 kW | 365 000 |\n| Motores de turbina com impulso máximo à descolagem de 25 KN ou potência máxima à descolagem de 2 000 kW | 185 000 |\n| Motores sem turbina | 30 000 |\n| Motores sem turbina CS 22 H, CS VLR Ap. B | 15 000 |\n| Hélice para utilização em aeronaves com um peso máximo à descolagem superior a 5 700 kg | 10 250 |\n| Hélice para utilização em aeronaves com um peso máximo à descolagem de 5 700 kg | 2 925 |\n| Peças |  |\n| Valor acima de 20 000 EUR | 2 000 |\n| Valor entre 2 000 e 20 000 EUR | 1 000 |\n| Valor abaixo de 2 000 EUR | 500 |\n| (^1^)JO L 243 de 27.9.2003, p. 6. |  |\n\nTabela 2: Variantes de certificados-tipo ou certificados-tipo restritos\n\n| (EUR) |  |\n| --- | --- |\n|  | Montante fixo [(^1^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0008) |\n| Aeronaves de asas fixas |  |\n| Mais de 150 000 kg | 1 000 000 |\n| Mais de 50 000 kg a 150 000 kg | 500 000 |\n| Mais de 22 000 kg a 50 000 kg | 400 000 |\n| Mais de 5 700 kg a 22 000 kg | 160 000 |\n| Mais de 2 000 kg a 5 700 kg | 80 000 |\n| Até 2 000 kg | 2 800 |\n| Aviões muito ligeiros, planadores com motor e planadores | 2 400 |\n| Aeronaves de asas rotativas |  |\n| Grande porte | 200 000 |\n| Médio porte | 100 000 |\n| Pequeno porte | 6 000 |\n| Outros |  |\n| Balões | 2 400 |\n| Propulsão |  |\n| Motores de turbina com impulso à descolagem superior a 25 KN ou potência à descolagem superior a 2 000 kW | 100 000 |\n| Motores de turbina com impulso máximo à descolagem de 25 KN ou potência máxima à descolagem de 2 000 kW | 50 000 |\n| Motores sem turbina | 10 000 |\n| Motores sem turbina CS 22 H, CS VLR Ap. B | 5 000 |\n| Hélice para utilização em aeronaves com um peso máximo à descolagem superior a 5 700 kg | 2 500 |\n| Hélice para utilização em aeronaves com um peso máximo à descolagem de 5 700 kg | 770 |\n| Peças |  |\n| Valor acima de 20 000 EUR | 1 000 |\n| Valor entre 2 000 e 20 000 EUR | 600 |\n| Valor abaixo de 2 000 EUR | 350 |\n| (^1^)Para os derivados que impliquem alterações substanciais do Projecto de Tipo, tal como descrito na subparte B do anexo ao Regulamento (CE) n.º 1702/2003, aplicar-se-á a taxa do respectivo certificado-tipo ou certificado-tipo restrito, de acordo com a Tabela 1. |  |\n\nTabela 3: Certificados-tipo suplementares (referidos na subparte E do anexo ao Regulamento (CE) n.º 1702/2003)\n\n| (EUR) |  |  |  |\n| --- | --- | --- | --- |\n|  | Montante fixo [(^1^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0009) |  |  |\n| Complexo | Standard | Simples |  |\n| Aeronaves de asas fixas |  |  |  |\n| Mais de 150 000 kg | 25 000 | 6 000 | 3 000 |\n| Mais de 50 000 kg a 150 000 kg | 13 000 | 5 000 | 2 500 |\n| Mais de 22 000 kg a 50 000 kg | 8 500 | 3 750 | 1 875 |\n| Mais de 5 700 kg a 22 000 kg | 5 500 | 2 500 | 1 250 |\n| Mais de 2 000 kg a 5 700 kg | 3 800 | 1 750 | 875 |\n| Até 2 000 kg | 1 600 | 1 000 | 500 |\n| Aviões muito ligeiros, planadores com motor e planadores | 250 | 250 | 250 |\n| Aeronaves de asas rotativas |  |  |  |\n| Grande porte | 11 000 | 4 000 | 2 000 |\n| Médio porte | 5 000 | 2 000 | 1 000 |\n| Pequeno porte | 900 | 400 | 250 |\n| Outros |  |  |  |\n| Balões | 800 | 400 | 250 |\n| Propulsão |  |  |  |\n| Motores de turbina com impulso à descolagem superior a 25 KN ou potência à descolagem superior a 2 000 kW | 12 000 | 5 000 | 2 500 |\n| Motores de turbina com impulso máximo à descolagem de 25 KN ou potência máxima à descolagem de 2 000 kW | 5 800 | 2 500 | 1 250 |\n| Motores sem turbina | 2 800 | 1 250 | 625 |\n| Motores sem turbina CS 22 H, CS VLR Ap. B | 1 400 | 625 | 300 |\n| Hélice para utilização em aeronaves com um peso máximo à descolagem superior a 5 700 kg | 2 000 | 1 000 | 500 |\n| Hélice para utilização em aeronaves com um peso máximo à descolagem de 5 700 kg | 1 500 | 750 | 375 |\n| (^1^)Para os certificados-tipo suplementares que impliquem alterações substanciais tal como definidas na subparte B do anexo ao Regulamento (CE) n.º 1702/2003, aplicar-se-á a taxa do respectivo certificado-tipo ou certificado-tipo restrito, de acordo com a Tabela 1. |  |  |  |\n\nTabela 4: Grandes alterações e grandes reparações (referidas nas subpartes D e M do anexo ao Regulamento (CE) n.º 1702/2003)\n\n| (EUR) |  |  |  |\n| --- | --- | --- | --- |\n|  | Montante fixo [(^1^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0010) [(^2^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0011) |  |  |\n| Complexo | Standard | Simples |  |\n| Aeronaves de asas fixas |  |  |  |\n| Mais de 150 000 kg | 20 000 | 6 000 | 3 000 |\n| Mais de 50 000 kg a 150 000 kg | 9 000 | 4 000 | 2 000 |\n| Mais de 22 000 kg a 50 000 kg | 6 500 | 3 000 | 1 500 |\n| Mais de 5 700 kg a 22 000 kg | 4 500 | 2 000 | 1 000 |\n| Mais de 2 000 kg a 5 700 kg | 3 000 | 1 400 | 700 |\n| Até 2 000 kg | 1 100 | 500 | 250 |\n| Aviões muito ligeiros, planadores com motor e planadores | 250 | 250 | 250 |\n| Aeronaves de asas rotativas |  |  |  |\n| Grande porte | 10 000 | 4 000 | 2 000 |\n| Médio porte | 4 500 | 2 000 | 1 000 |\n| Pequeno porte | 850 | 400 | 250 |\n| Outros |  |  |  |\n| Balões | 850 | 400 | 250 |\n| Propulsão |  |  |  |\n| Motores de turbina com impulso à descolagem superior a 25 KN ou potência à descolagem superior a 2 000 kW | 5 000 | 2 000 | 1 000 |\n| Motores de turbina com impulso máximo à descolagem de 25 KN ou potência máxima à descolagem de 2 000 kW | 2 500 | 1 000 | 500 |\n| Motores sem turbina | 1 300 | 600 | 300 |\n| Motores sem turbina CS 22 H, CS VLR Ap. B | 600 | 300 | 250 |\n| Hélice para utilização em aeronaves com um peso máximo à descolagem superior a 5 700 kg | 250 | 250 | 250 |\n| Hélice para utilização em aeronaves com um peso máximo à descolagem de 5 700 kg | 250 | 250 | 250 |\n| (^1^)Para as grandes alterações que impliquem alterações substanciais tal como definidas na subparte B do anexo ao Regulamento (CE) n.º 1702/2003, aplicar-se-á a taxa do respectivo certificado-tipo ou certificado-tipo restrito, de acordo com a Tabela 1. (^2^)As alterações e reparações às APU (unidades de potência auxiliar) deverão ser cobradas como alterações e reparações em motores do mesmo nível de potência. |  |  |  |\n\nTabela 5: Pequenas alterações e pequenas reparações (referidas nas subpartes D e M do anexo ao Regulamento (CE) n.º 1702/2003)\n\n| (EUR) |  |\n| --- | --- |\n|  | Montante fixo [(^1^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0012) [(^2^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0013) |\n| Aeronaves de asas fixas |  |\n| Mais de 150 000 kg | 500 |\n| Mais de 50 000 kg a 150 000 kg | 500 |\n| Mais de 22 000 kg a 50 000 kg | 500 |\n| Mais de 5 700 kg a 22 000 kg | 500 |\n| Mais de 2 000 kg a 5 700 kg | 250 |\n| Até 2 000 kg | 250 |\n| Aviões muito ligeiros, planadores com motor e planadores | 250 |\n| Aeronaves de asas rotativas |  |\n| Grande porte | 500 |\n| Médio porte | 500 |\n| Pequeno porte | 250 |\n| Outros |  |\n| Balões | 250 |\n| Propulsão |  |\n| Motores de turbina | 500 |\n| Motores sem turbina | 250 |\n| Hélice | 250 |\n| (^1^)As taxas definidas nesta Tabela não se aplicam às pequenas alterações e reparações realizadas por entidades de projecto de acordo com a parte 21A.263(c)(2) da subparte J do anexo ao Regulamento (CE) n.º 1702/2003. (^2^)As alterações e reparações às APU (unidades de potência auxiliar) deverão ser cobradas como alterações e reparações em motores do mesmo nível de potência. |  |\n\nTabela 6: Taxa anual para titulares de certificados-tipo e certificados-tipo restritos da AESA e outros certificados-tipo considerados aceitáveis ao abrigo do Regulamento (CE) n.º 1592/2002\n\n| (EUR) |  |  |\n| --- | --- | --- |\n|  | Montante fixo [(^1^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0014) [(^2^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0015) [(^3^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0016) |  |\n|  | Modelo UE | Modelo não UE |\n| Aeronaves de asas fixas |  |  |\n| Mais de 150 000 kg | 270 000 | 90 000 |\n| Mais de 50 000 kg a 150 000 kg | 150 000 | 50 000 |\n| Mais de 22 000 kg a 50 000 kg | 80 000 | 27 000 |\n| Mais de 5 700 kg a 22 000 kg | 17 000 | 5 700 |\n| Mais de 2 000 kg a 5 700 kg | 4 000 | 1 400 |\n| Até 2 000 kg | 2 000 | 670 |\n| Aviões muito ligeiros, planadores com motor e planadores | 900 | 300 |\n| Aeronaves de asas rotativas |  |  |\n| Grande porte | 65 000 | 21 700 |\n| Médio porte | 30 000 | 10 000 |\n| Pequeno porte | 3 000 | 1 000 |\n| Outros |  |  |\n| Balões | 900 | 300 |\n| Propulsão |  |  |\n| Motores de turbina com impulso à descolagem superior a 25 KN ou potência à descolagem superior a 2 000 kW | 40 000 | 13 000 |\n| Motores de turbina com impulso máximo à descolagem de 25 KN ou potência máxima à descolagem de 2 000 kW | 6 000 | 2 000 |\n| Motores sem turbina | 1 000 | 350 |\n| Motores sem turbina CS 22 H, CS VLR Ap. B | 500 | 250 |\n| Hélice para utilização em aeronaves com um peso máximo à descolagem superior a 5 700 kg | 750 | 250 |\n| Peças |  |  |\n| Valor acima de 20 000 EUR | 2 000 | 700 |\n| Valor entre 2 000 e 20 000 EUR | 1 000 | 350 |\n| Valor abaixo de 2 000 EUR | 500 | 250 |\n| (^1^)Para as versões de carga de uma aeronave que disponha do seu próprio certificado-tipo, aplica-se um coeficiente de 0,85 à taxa para a versão equivalente de passageiros. (^2^)Para os titulares de múltiplos certificados-tipo e/ou múltiplos certificados-tipo restritos, aplica-se uma redução à taxa anual do segundo certificado-tipo, ou certificado-tipo restrito, e seguintes, da mesma categoria de produto tal como consta do seguinte quadro: Produto de categoria idêntica Redução aplicada ao montante fixo 1.º 0 % 2.º 10 % 3.º 20 % 4.º 30 % 5.º 40 % 6.º 50 % 7.º 60 % 8.º 70 % 9.º 80 % 10.º 90 % 11.º e produtos seguintes 100 % (^3^)Para as aeronaves em que o número de exemplares registados no mundo é inferior a 50, as actividades permanentes de aeronavegabilidade deverão ser cobradas à hora, com base na tarifa horária definida na parte II do anexo, até ao nível da taxa para a categoria de produto da aeronave pertinente. Para os produtos, peças e equipamentos que não sejam aeronaves, a limitação é função do número de aeronaves em que o produto, peça ou equipamento em causa está instalado. |  |  |\n| Produto de categoria idêntica | Redução aplicada ao montante fixo |  |\n| 1.º | 0 % |  |\n| 2.º | 10 % |  |\n| 3.º | 20 % |  |\n| 4.º | 30 % |  |\n| 5.º | 40 % |  |\n| 6.º | 50 % |  |\n| 7.º | 60 % |  |\n| 8.º | 70 % |  |\n| 9.º | 80 % |  |\n| 10.º | 90 % |  |\n| 11.º e produtos seguintes | 100 % |  |\n\nTabela 7: Certificação da entidade de projecto [referida na sub-parte J do Anexo ao Regulamento (CE) n.º 1702/2003]\n\n| (EUR) |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n|  | DOA 1A | DOA 1B DOA 2A | DOA 1C DOA 2B DOA 3A | DOA 2C DOA 3B | DOA 3C |\n| Taxa de certificação |  |  |  |  |  |\n| Pessoal afecto: menos de 10 | 11 250 | 9 000 | 6 750 | 4 500 | 3 600 |\n| 10 a 49 | 31 500 | 22 500 | 13 500 | 9 000 | — |\n| 50 a 399 | 90 000 | 67 500 | 45 000 | 36 000 | — |\n| 400 a 999 | 180 000 | 135 000 | 112 500 | 99 000 | — |\n| 1 000 a 2 499 | 360 000 | — | — | — | — |\n| 2 500 a 5 000 | 540 000 | — | — | — | — |\n| Mais de 5 000 | 3 000 000 | — | — | — | — |\n|  | Taxa de vigilância |  |  |  |  |\n| Pessoal afecto: menos de 10 | 5 625 | 4 500 | 3 375 | 2 250 | 1 800 |\n| 10 a 49 | 15 750 | 11 250 | 6 750 | 4 500 | — |\n| 50 a 399 | 45 000 | 33 750 | 22 500 | 18 000 | — |\n| 400 a 999 | 90 000 | 67 500 | 56 250 | 49 500 | — |\n| 1 000 a 2 499 | 180 000 | — | — | — | — |\n| 2 500 a 5 000 | 270 000 | — | — | — | — |\n| Mais de 5 000 | 1 500 000 | — | — | — | — |\n\nTabela 8: Certificação da Entidade de Produção [referida na sub-parte G do Anexo ao Regulamento (CE) n.º 1702/2003]\n\n| (EUR) |  |  |\n| --- | --- | --- |\n|  | Taxa de certificação | Taxa de vigilância |\n| Volume de negócios inferior a 1 milhão de euros | 9 000 | 6 500 |\n| Entre 1 000 000 e 4 999 999 | 38 000 | 28 000 |\n| Entre 5 000 000 e 9 999 999 | 58 000 | 43 000 |\n| Entre 10 000 000 e 49 999 999 | 75 000 | 57 000 |\n| Entre 50 000 000 e 99 999 999 | 270 000 | 200 000 |\n| Entre 100 000 000 e 499 999 999 | 305 000 | 230 000 |\n| Entre 500 000 000 e 999 999 999 | 630 000 | 475 000 |\n| Superior a 999 999 999 | 900 000 | 2 000 000 |\n\n| (EUR) |  |  |\n| --- | --- | --- |\n|  | Taxa de certificação [(^1^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0018) | Taxa de vigilância [(^1^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0018) |\n| Pessoal afecto: menos de 5 | 3 000 | 2 300 |\n| Entre 5 e 9 | 5 000 | 4 000 |\n| Entre 10 e 49 | 11 000 | 8 000 |\n| Entre 50 e 99 | 22 000 | 16 000 |\n| Entre 100 e 499 | 32 000 | 23 000 |\n| Entre 500 e 999 | 43 000 | 32 000 |\n| Mais de 999 | 53 000 | 43 000 |\n\n| (EUR) |  |\n| --- | --- |\n| Classificação técnica | Montante fixo baseado na classificação técnica [(^1^)](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#E0019) |\n| A 1 | 11 000 |\n| A 2 | 2 500 |\n| A 3 | 5 000 |\n| A 4 | 500 |\n| B 1 | 5 000 |\n| B 2 | 2 500 |\n| B 3 | 500 |\n| C | 500 |\n\nTabela 10: Certificação de Entidade de Formação em Manutenção [referida no Anexo IV do Regulamento (CE) n.º 2042/2003]\n\n| (EUR) |  |  |\n| --- | --- | --- |\n|  | Taxa de certificação | Surveillance fee |\n| Taxa de vigilância | 4 000 | 3 000 |\n| Entre 5 e 9 | 7 000 | 5 000 |\n| Entre 10 e 49 | 16 000 | 14 000 |\n| Entre 50 e 99 | 35 000 | 30 000 |\n| Mais de 99 | 42 000 | 40 000 |"
+  },
+  "de2ce44f7122ebf5": {
+   "fragment_id": "PARTE II",
+   "type": "divisao",
+   "heading": "PARTE II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE II"
+  },
+  "9bfcdfb653bf18ca": {
+   "fragment_id": "Operações facturadas à hora",
+   "type": "divisao",
+   "heading": "Operações facturadas à hora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Operações facturadas à hora\n\n1. Tarifa horária:\n\nTarifa horária aplicável 225 EUR\n\n2. Base horária consoante a operação:\n\nDemonstração da capacidade do projecto através de procedimentos alternativos Número de horas efectivas\n\nProdução sem homologação Número de horas efectivas\n\nMeios alternativos de conformidade com as directivas de aeronavegabilidade Número de horas efectivas\n\nApoio à validação (aceitação dos certificados AESA por autoridades estrangeiras) Número de horas efectivas\n\nAssistência técnica solicitada por autoridades estrangeiras Número de horas efectivas\n\nAceitação pela AESA de relatórios MRB (Maintenance Review Board) Número de horas efectivas\n\nTransferência de certificados Número de horas efectivas\n\nAprovação das condições de voo para licença de voo 3 horas\n\nReemissão administrativa de documentos 1 hora\n\nCertificado de aeronavegabilidade para a exportação (E-CoA) para aeronaves CS 25 6 horas\n\nCertificado de aeronavegabilidade para a exportação (E-CoA) para outras aeronaves 2 horas"
+  },
+  "7e5f89163d9f1224": {
+   "fragment_id": "PARTE III",
+   "type": "divisao",
+   "heading": "PARTE III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE III"
+  },
+  "2ffb3326752001cb": {
+   "fragment_id": "Taxas para outras operações relacionadas com a certificação",
+   "type": "divisao",
+   "heading": "Taxas para outras operações relacionadas com a certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Taxas para outras operações relacionadas com a certificação\n\n1. Aceitação de homologação equivalente às homologações «Peça 145» e «Peça 147» em conformidade com os acordos bilaterais aplicáveis:\n\nNovas homologações, por pedido 1 500 EUR\n\nRenovação de homologações existentes, por períodos de 12 meses 750 EUR\n\n2. Aprovação da entidade de gestão da aeronavegabilidade permanente (referida na parte M, sub-parte F do anexo I do regulamento (CE) n.º 2042/2003):\n\nNovas homologações, por pedido 24 000 EUR\n\nRenovação de homologações existentes, por períodos de 12 meses 18 000 EUR\n\n3. Revisões pontuais e/ou alterações ao manual de voo da aeronave:"
+  },
+  "945fb89c34a3068f": {
+   "fragment_id": "PARTE IV",
+   "type": "divisao",
+   "heading": "PARTE IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE IV"
+  },
+  "64e28a565ac21c36": {
+   "fragment_id": "Honorários cobrados por recursos",
+   "type": "divisao",
+   "heading": "Honorários cobrados por recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Honorários cobrados por recursos\n\nOs honorários são cobrados pelo tratamento dos recursos tal como descrito no artigo 35.º do Regulamento (CE) n.º 1592/2002.\n\nTodos os pedidos de recurso implicam o encargo fixo constante da tabela, multiplicado pelo coeficiente indicado para a categoria de honorários correspondente à pessoa ou entidade em questão.\n\nOs honorários serão reembolsados nos casos em que o recurso resulte na revogação de uma decisão da Agência.\n\nAs entidades devem apresentar um certificado assinado por um responsável autorizado para permitir à Agência determinar a categoria de honorários correspondente.\n\nHonorários fixos 10 000 EUR\n\nCategoria de honorários para pessoas singulares Coeficiente do montante fixo\n\n0,1\n\nCategoria de honorários para as entidades, segundo o volume de negócios, em euros, da parte que interpõe o recurso Coeficiente do montante fixo\n\nMenos de 100 001 0,25\n\nEntre 100 001 e 1 200 000 0,5\n\nEntre 1 200 001 e 2 500 000 0,75\n\nEntre 2 500 001 e 5 000 000 1\n\nEntre 5 000 001 e 50 000 000 2,5\n\nEntre 50 000 001 e 500 000 000 5\n\nEntre 500 000 001 e 1 000 000 000 7,5\n\nMais de 1 000 000 000 10"
+  },
+  "14406147399b1c20": {
+   "fragment_id": "PARTE V",
+   "type": "divisao",
+   "heading": "PARTE V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE V"
+  },
+  "7aecd381df4b1065": {
+   "fragment_id": "Taxa de inflação anual",
+   "type": "divisao",
+   "heading": "Taxa de inflação anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Taxa de inflação anual\n\nOs montantes definidos nas Partes I, II e III serão indexados à taxa de inflação constante da presente parte. Esta indexação deverá ocorrer anualmente, no aniversário da entrada em vigor do presente regulamento.\n\nTaxa de inflação anual a utilizar: EUROSTAT HICP (Todos os *items*) — UE 27 (2005 = 100) Alteração da percentagem/média dos 12 meses\n\nValor da taxa a considerar: Valor da taxa no dia 31 de Dezembro anterior à data de aplicação da indexação"
+  },
+  "25ee9c1255ea9f7b": {
+   "fragment_id": "PARTE VI",
+   "type": "divisao",
+   "heading": "PARTE VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE VI"
+  },
+  "7314d6a0d21f4210": {
+   "fragment_id": "Informação de desempenho",
+   "type": "divisao",
+   "heading": "Informação de desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informação de desempenho\n\nA seguinte informação deverá dizer respeito ao último período de 6 meses que precede a sua publicação pela Agência de acordo com o disposto no artigo 5.º.\n\nNúmero de funcionários da Agência que realizam operações de certificação\n\nNúmero de horas subcontratadas a autoridades aeronáuticas nacionais\n\nCusto global de certificação\n\nNúmero de operações de certificação realizadas (concluídas ou iniciadas) pela Agência\n\nNúmero de operações de certificação realizadas (concluídas ou iniciadas) em nome da Agência\n\nNúmero de horas dispendidas pelo pessoal da Agência em actividades de aeronavegabilidade permanente\n\nMontante global facturado às empresas do sector\n\n---"
+  },
+  "eccd823c452a2b1c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#src.E0001)) JO L 240 de 7.9.2002, p. 1. Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1701/2003 da Comissão (JO L 243 de 27.9.2003, p. 5).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#src.E0002)) JO L 81 de 30.3.2005, p. 7. Regulamento alterado pelo Regulamento (CE) n.º 779/2006 (JO L 137 de 25.5.2006, p. 3).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#src.E0003)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/2152fd00-8669-4046-bcae-3af34e1b5292.0018.03/DOC_1#src.E0017)) Regulamento (CE) n.º 2042/2003 da Comissão de 20 de Novembro de 2003 relativo à aeronavegabilidade permanente das aeronaves e dos produtos, peças e equipamentos aeronáuticos, bem como à certificação das entidades e do pessoal envolvidos nestas tarefas (JO L 315 de 28.11.2003, p. 1), com a redacção que lhe foi dada pelo Regulamento (CE) n.º 376/2007 (JO L 94 de 4.4.2007, p. 18)."
+  },
+  "19a211d561c57833": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Maio de 2007\n\nrelativo aos honorários e às taxas cobrados pela Agência Europeia para a Segurança da Aviação\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1592/2002 do Parlamento Europeu e do Conselho, de 15 de Julho de 2002, relativo a regras comuns no domínio da aviação civil e que cria a Agência Europeia para a Segurança da Aviação ([^1^](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0001)) e, nomeadamente o n.º 1 do seu artigo 53.º,\n\nApós consulta do Conselho de Administração da Agência Europeia para a Segurança da Aviação,\n\n(1) O Regulamento (CE) n.º 488/2005 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0002)) estabeleceu os honorários e as taxas cobrados pela Agência Europeia para a Segurança da Aviação (a seguir denominada «a Agência»).\n\n(2) As receitas da Agência consistem numa contribuição da Comunidade e de países terceiros europeus que tenham celebrado os acordos referidos no artigo 55.º do Regulamento (CE) n.º 1592/2002, nas taxas pagas pelos requerentes de certificados e homologações emitidos, mantidos ou alterados pela Agência e nos preços e taxas cobrados por publicações, tratamento de recursos, formação e qualquer outro serviço prestado pela Agência.\n\n(3) As receitas e despesas da Agência deverão estar equilibradas.\n\n(4) Os honorários e taxas a que se refere o presente regulamento deverão ser exigidos e cobrados pela Agência exclusivamente em euros. Os respectivos montantes deverão ser fixados de forma transparente, equitativa e uniforme.\n\n(5) As taxas cobradas pela Agência não deverão comprometer a competitividade das indústrias europeias em causa. Para além disso, deverão ser definidas tendo em devida conta a capacidade contributiva das pequenas empresas.\n\n(6) A Agência, embora tenha como objectivo principal a segurança da aviação civil, deve tomar plenamente em conta a relação custo/benefício no desempenho das suas funções.\n\n(7) A localização geográfica das empresas nos territórios dos Estados-Membros não deverá constituir um factor de discriminação. Consequentemente, as despesas de deslocação relacionadas com as tarefas de certificação realizadas em nome dessas empresas deverão ser agregadas e divididas entre os requerentes.\n\n(8) O requerente deverá ser informado, na medida do possível, da estimativa do montante devido em contrapartida do serviço que lhe será prestado, bem como das suas modalidades de pagamento, antes do início da prestação do serviço. Os critérios que servem de base à determinação desse montante deverão ser claros, uniformes e públicos. Sempre que seja impossível determinar esse montante antecipadamente, o requerente deverá ser informado do facto antes do início da prestação do serviço. Nesse caso, antes da prestação do serviço, deverão ser acordadas modalidades claras para determinação, à medida que o serviço for sendo prestado, do montante a pagar.\n\n(9) A indústria deverá beneficiar de uma boa visibilidade financeira e poder prever o custo das taxas que irá ter de pagar. Simultaneamente, é necessário assegurar o equilíbrio entre a despesa global incorrida pela Agência na realização das operações de certificação e a receita global resultante das taxas por ela cobradas. Por conseguinte, com base nos resultados financeiros e nas previsões da Agência, deverá ser possível a revisão anual do valor das taxas.\n\n(10) As partes interessadas deverão ser consultadas antes de qualquer alteração das taxas. Para além disso, a Agência deverá disponibilizar regularmente às partes interessadas informação sobre o modo de cálculo das taxas e a base para o mesmo. Esta informação deverá permitir às partes interessadas conhecer os custos em que a Agência incorre e a sua produtividade.\n\n(11) As tarifas definidas no presente regulamento devem basear-se nas previsões da Agência quanto ao seu volume de trabalho e consequentes custos.\n\n(12) O presente regulamento deverá ser revisto num prazo de 5 anos a contar da sua entrada em vigor.\n\n(13) O Regulamento (CE) n.º 488/2005 deverá ser revogado.\n\n(14) As medidas previstas no presente regulamento são conformes ao parecer do comité criado pelo n.º 1 do artigo 54.º do Regulamento (CE) n.º 1592/2002,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "16bf746a65000d89": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento aplica-se aos honorários e taxas cobrados pela Agência Europeia para a Segurança da Aviação, a seguir denominada «a Agência», em contrapartida dos serviços por ela prestados, incluindo o fornecimento de mercadorias.\n\nO regulamento determina, nomeadamente, os casos em que são devidos os honorários e taxas enumerados no artigo 64.º, n.º 4, do Regulamento (CE) n.º 216/2008, os respetivos montantes e as modalidades de pagamento."
+  },
+  "0da30e814f46b1b1": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento, aplicam-se as seguintes definições:\n\na) «Taxas» são os montantes cobrados pela Agência e devidos pelos requerentes pelas operações de certificação;\n\nb) «Honorários» são os montantes cobrados pela Agência e devidos pelos requerentes por serviços prestados pela Agência distintos das operações de certificação, nomeadamente o fornecimento de produtos;\n\nc) «Operações de certificação» são todas as atividades realizadas pela Agência, direta ou indiretamente, para fins de emissão, manutenção ou alteração dos certificados nos termos do Regulamento (CE) n.º 216/2008 e das suas regras de execução;\n\nd) «Requerente» é qualquer pessoa singular ou coletiva que peça para beneficiar de uma operação de certificação ou de um serviço prestado pela Agência;\n\ne) «Despesas de deslocação» são os custos de transporte, de alojamento e refeições, despesas acessórias e ajudas de custo, pagas ao pessoal no âmbito de operações de certificação;\n\nf) «Custo real» corresponde às despesas efectivas incorridas pela Agência."
+  },
+  "839bcfc99bef19f6": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA taxa devida pelo requerente por determinada operação de certificação consistirá:\n\na) Num montante fixo, diferente consoante a operação em causa, por forma a reflectir o custo incorrido pela Agência no decurso da realização da mesma. Os diferentes valores do montante fixo estão definidos nas Partes I e III do Anexo; ou\n\nb) Num montante variável, proporcional ao volume de trabalho necessário, expresso num número de horas a multiplicar pela tarifa horária. A tarifa horária deverá reflectir todos os custos decorrentes de uma operação de certificação. As operações de certificação cobradas à hora, assim como a tarifa horária a aplicar, encontram-se especificadas na Parte II do Anexo.\n\nEm aplicação de futuros regulamentos, a Agência pode cobrar taxas de acordo com a Parte II do Anexo por operações de certificação distintas das referidas na Parte I do Anexo.\n\nQuaisquer alterações à organização que sejam comunicadas à Agência e condicionem a sua aprovação podem implicar um novo cálculo da taxa de vigilância devida, a qual será aplicável a partir da entrada em vigor da nova tabela tarifária."
+  },
+  "1b7c10244537b338": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A taxa será paga pelo requerente em euros. Os termos de pagamento devem ser disponibilizados aos requerentes no sítio *web* da Agência. O requerente pagará a tarifa completa, incluindo eventuais encargos bancários relacionados com o pagamento, antes da emissão, manutenção ou alteração do certificado, exceto se a Agência decidir de outro modo depois de devidamente ponderados os riscos financeiros. A taxa será paga no prazo de 30 dias a contar da data na qual a fatura é notificada ao requerente pela Agência. O pedido pode ser cancelado e o certificado pode ser suspenso ou revogado se as taxas devidas não tiverem sido recebidas à data de expiração do prazo e depois de a Agência ter oficialmente avisado o requerente.\n\n2. A Agência pode faturar a taxa numa só prestação após receção do pedido ou no início do período anual ou do período de vigilância.\n\n3. Sempre que as operações de certificação originem o pagamento de taxas calculadas numa base horária, a Agência pode, mediante pedido, apresentar uma estimativa ao requerente. Esta estimativa será alterada pela Agência se a operação se revelar mais simples ou puder ser realizada mais rapidamente do que inicialmente previsto ou se, pelo contrário, a operação for mais complexa e demorar mais tempo a realizar do que o que a Agência poderia ter razoavelmente previsto.\n\n4. Se, após uma verificação do pedido, a Agência decidir não o aceitar, todas as taxas já pagas devem ser restituídas ao requerente, salvo um montante destinado a cobrir os custos administrativos do tratamento do pedido. Este montante será equivalente a duas vezes a tarifa horária definida na Parte II do Anexo. Caso tenha provas de que a capacidade financeira do requerente está em risco, a Agência pode recusar-lhe um pedido, a menos que o requerente forneça uma garantia bancária ou um depósito de garantia. A Agência pode também recusar um pedido, caso o requerente não tenha cumprido as suas obrigações de pagamento das operações de certificação efetuadas ou de serviços prestados pela Agência, a menos que o requerente pague os montantes em dívida correspondentes a essas operações ou serviços.\n\n5. Se uma operação de certificação tiver de ser interrompida pela Agência devido à insuficiência de recursos do requerente ou porque este não cumpre os requisitos aplicáveis ou decide retirar o pedido ou adiar o seu projeto, quaisquer taxas ainda devidas, calculadas numa base horária para o período de doze meses em curso mas não excedendo o montante fixo aplicável, deverão ser pagas na totalidade no momento em que a Agência interromper esse trabalho, juntamente com quaisquer outros montantes em dívida nesse momento. O número de horas em causa será faturado com base na tarifa horária definida na Parte II do Anexo. Quando, a pedido do requerente, a Agência reinicia uma operação de certificação anteriormente interrompida, esta operação será cobrada como um novo projeto.\n\n6. Se o titular de um certificado renunciar ao seu certificado ou a Agência revogar o certificado, quaisquer taxas ainda devidas, calculadas numa base horária mas não excedendo o montante fixo aplicável, deverão ser pagas na totalidade no momento da renúncia ou da revogação, juntamente com quaisquer outros montantes em dívida nesse momento. O número de horas em causa será faturado com base na tarifa horária definida na Parte II do Anexo.\n\n7. Se a Agência suspender o certificado devido ao não pagamento da taxa anual ou da taxa de vigilância ou porque o requerente não cumpriu os requisitos aplicáveis, os períodos respetivos em que a taxa seria devida continuam a correr."
+  },
+  "6f7b315ff96ab23f": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A Agência cobrará honorários por todos os serviços prestados, incluindo o fornecimento de mercadorias, com excepção dos referidos no artigo 3.º\n\nNo entanto, os seguintes serviços serão gratuitos:\n\na) Transmissão de documentos e informações, sob qualquer forma, nos termos do Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0003));\n\nb) Documentos disponibilizados gratuitamente através do sítio *Web* da Agência."
+  },
+  "ccebf4e444abdbc7": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO montante dos honorários cobrados pela Agência deverá ser igual ao custo real do serviço prestado, incluindo a sua disponibilização ao requerente. Para tal, o tempo dispendido pela Agência na prestação do serviço será facturado com base na tarifa horária referida na Parte II do Anexo.\n\nSerão cobrados honorários pelo tratamento de um recurso interposto nos termos do artigo 44.º do Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0004)). Os montantes dos honorários constam da Parte IV do Anexo. Se o recorrente for uma pessoa coletiva, deve fornecer à Agência um certificado assinado de um representante autorizado da organização em causa que especifique o volume de negócios do recorrente. Este certificado deve ser entregue juntamente com a notificação de recurso. As custas do recurso devem ser pagas no prazo de 60 dias a contar da data da sua entrega na Agência de acordo com o procedimento aplicável estabelecido pela Agência. Caso o pagamento não seja efetuado dentro desse prazo, a Câmara de Recurso rejeitará o recurso. Se a conclusão do recurso for favorável ao recorrente, as custas pagas ser-lhe-ão reembolsadas pela Agência sem demora.\n\nA pedido do requerente, o montante estimado dos honorários pode ser-lhe comunicado antes da prestação do serviço. Esta estimativa será alterada pela Agência se a operação se revelar mais simples ou puder ser realizada mais rapidamente do que inicialmente previsto ou se, pelo contrário, a operação for mais complexa e demorar mais tempo a realizar do que o que a Agência poderia razoavelmente prever."
+  },
+  "af638e6f63e339f4": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. O presente regulamento entra em vigor em 1 de Junho de 2007. É aplicável sob reserva das seguintes condições:\n\na) As taxas constantes das Tabelas 1 a 5 da Parte I do Anexo aplicar-se-ão a qualquer certificado emitido após 1 de Junho de 2007;\n\nb) Os valores constantes da Tabela 6 da Parte I do Anexo aplicar-se-ão às taxas anuais cobradas após 1 de Junho de 2007;\n\nc) Para os requerentes a quem tenha sido cobrada a taxa de vigilância referida no ponto vi) do Anexo ao Regulamento (CE) n.º 488/2005 antes de 1 de Junho de 2007, aplicar-se-ão as taxas constantes da Tabela 7 da Parte I do Anexo, a partir do primeiro pagamento anual devido após a conclusão do período de 3 anos referido no ponto vi) do Anexo ao Regulamento (CE) n.º 488/2005;\n\nd) Para os requerentes a quem tenham sido cobradas as taxas de vigilância referidas nos pontos viii), x), xiii) ou xi) do Anexo ao Regulamento (CE) n.º 488/2005 antes de 1 de Junho de 2007, aplicar-se-ão as taxas de vigilância constantes, respectivamente, das Tabelas 8, 9 e 10 da Parte I e do n.º 2 da Parte III do Anexo ao presente regulamento, a partir do primeiro pagamento anual devido após a conclusão dos períodos de 2 anos referido nos pontos viii), x) e xiii) do Anexo ao Regulamento (CE) n.º 488/2005.\n\n2. Não obstante o disposto no artigo 13.º, o Regulamento (CE) n.º 488/2005 continuará a ser aplicável relativamente a quaisquer honorários e taxas não abrangidos pelo âmbito de aplicação do presente regulamento em conformidade com o disposto no n.º 1.\n\n3. O anexo do presente regulamento deve ser revisto periodicamente para garantir que as informações pertinentes relativas aos pressupostos que estão na base das receitas e despesas previstas da Agência sejam devidamente repercutidas nos montantes das taxas ou honorários por ela cobrados. O presente regulamento e o seu anexo podem ser revistos em qualquer altura, se necessário, e obrigatoriamente cinco anos, o mais tardar, após a sua entrada em vigor.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "04f2f4697f7a6ede": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| Índice |  |\n| --- | --- |\n| Parte I: | Operações pelas quais é facturado um montante fixo |\n| Parte II: | Operações facturadas à hora |\n| Parte III: | Taxas para outras operações relacionadas com a certificação |\n| Parte IV: | Honorários cobrados por recursos |\n| Parte V: | Taxa anual de inflação |\n| Parte VI: | Informação de desempenho |"
+  },
+  "1dcfa4e879a6c89d": {
+   "fragment_id": "Nota explicativa",
+   "type": "divisao",
+   "heading": "Nota explicativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Nota explicativa\n\n(1) As taxas e os honorários são apresentados em euros.\n\n(2) As taxas relativas a produtos referidas nas Tabelas 1 a 4 da Parte I são cobradas por operação e por períodos de 12 meses. Após o primeiro período de 12 meses, se aplicável, estas taxas são determinadas *pro rata temporis* (1/365 avos da taxa anual relevante, por dia, após o primeiro período de 12 meses). As taxas referidas na Tabela 5 são cobradas por operação. As taxas referidas na Tabela 6 são cobradas por períodos de 12 meses.\n\n(3) Para as taxas relativas às entidades, referidas nas Tabelas 7 a 10 da Parte I, as taxas de aprovação são cobradas uma vez e as taxas de vigilância são cobradas de 12 em 12 meses.\n\n(4) Nas operações cobradas à hora referidas na Parte II, a tarifa horária aplicável, tal como especificada nesta Parte, é multiplicada pelo número de horas efectivas de trabalho dispendidas pela Agência ou pelo número de horas definidas nesta Parte.\n\n(5) As especificações de certificação (CS) referidas neste Anexo são as adoptadas de acordo com o disposto no n.º 2 do artigo 14.º do Regulamento (CE) n.º 1592/2002 e publicadas na publicação oficial da Agência de acordo com a decisão AESA 2003/8 de 30 de Outubro de 2003. (www.easa.europa.eu).\n\n(6) «Aeronaves de asas rotativas de grande porte» refere-se às CS 29 e CS 27 cat. A; «Aeronaves de asas rotativas de pequeno porte» refere-se às CS 27 com Peso Máximo à Descolagem (MTOW) abaixo de 3 175 kg e limitado a 4 lugares, incluindo o piloto, e à CS VLR; «Aeronaves de asas rotativas de médio porte» refere-se a outras CS 27.\n\n(7) «Derivado» significa um certificado-tipo alterado tal como definido e requerido pelo titular do certificado-tipo.\n\n(8) Nas Tabelas 1, 2 e 6 da Parte I, os valores das «peças» referem-se aos preços de catálogo pertinentes dos fabricantes.\n\n(9) Nas Tabelas 3 e 4 da parte I, «Simples», «Standard» e «Complexo» referem-se a:\n\n|  | Simples | Standard | Complexo |\n| --- | --- | --- | --- |\n| Certificado-Tipo Suplementar (STC) AESA Grandes alterações do projecto AESA Grandes reparações AESA | STC, grande alteração do projecto ou reparação envolvendo apenas métodos de justificação correntes e demonstrados, para os quais é possível comunicar um conjunto de dados completos no momento do pedido (descrição, «check-list» de conformidade e documentos de conformidade) e para os quais o requerente demonstrou possuir experiência e que poderá ser avaliada apenas pelo gestor de certificação de projecto ou com a participação limitada de um perito especialista | Todos os outros STC, grandes alterações do projecto ou reparações | STC significativo [(^1^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0005) ou grande alteração do projecto |\n| STC validado por um acordo bilateral | Básico [(^2^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0006) | Não básico [(^2^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0006) | STC não básico [(^2^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0006) quando a Autoridade de Certificação [(^2^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0006) tiver classificado a alteração de «significativa» [(^1^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0005) |\n| Grande alteração do projecto validada por um acordo bilateral | Grandes alterações do projecto de nível 2 [(^2^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0006) quando não aceites automaticamente [(^3^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0007). | Nível 1 [(^2^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0006) | Grande alteração do projecto de nível 1 [(^2^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0006) quando a Autoridade de Certificação [(^2^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0006) tiver classificado a alteração de «significativa» [(^1^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0005) |\n| Grande reparação validada por um acordo bilateral | N/A (aceitação automática) | Reparações em componente crítico [(^2^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0006) | N/A |\n| (^1^)«Significativo» está definido no n.º 21A.101 (b) do anexo ao Regulamento (CE) n.º 1702/2003. (^2^)Para as definições de «básico», «não básico», «nível 1», «nível 2», «componente crítico» e «Autoridade de Certificação», ver o acordo bilateral aplicável ao abrigo do qual tem lugar a validação. (^3^)Os critérios de aceitação automática pela AESA para grandes alterações de nível 2 são definidos na decisão do Director Executivo da AESA 2004/04/CF ou no acordo bilateral aplicável ao abrigo do qual tem lugar a validação. |  |  |  |\n\n(10) Na Tabela 7 da Parte I, as entidades de projecto são classificadas da seguinte forma:\n\n| Âmbito do acordo sobre as entidades de projecto | Grupo A | Grupo B | Grupo C |\n| --- | --- | --- | --- |\n| DOA 1 Titulares de certificados-tipo | Altamente complexo/Grande | Complexo/Pequeno-Médio | Menos complexo/Muito pequeno |\n| DOA 2 STC/Alterações/Reparações | Sem restrição | Restrito (campos técnicos) | Restrito (dimensão da aeronave) |\n| DOA 3 Pequenas Alterações/Reparações |  |  |  |\n\n(11) Na Tabela 8 da Parte I, o volume de negócios considerado diz respeito às actividades abrangidas pelo âmbito do acordo.\n\n(12) Nas Tabelas 7, 9 e 10 da Parte I, o pessoal considerado é o afectado a actividades abrangidas pelo âmbito do acordo."
+  },
+  "2015f829d99279f3": {
+   "fragment_id": "Operações pelas quais é facturado um montante fixo",
+   "type": "divisao",
+   "heading": "Operações pelas quais é facturado um montante fixo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Operações pelas quais é facturado um montante fixo\n\nTabela 1: Certificados-tipo e certificados-tipo restritos (referidos na subparte B e subparte O do anexo ao Regulamento (CE) n.º 1702/2003 [(^1^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0008))\n\n| (EUR) |  |\n| --- | --- |\n|  | Montante fixo |\n| Aeronaves de asas fixas |  |\n| Mais de 150 000 kg | 2 600 000 |\n| Mais de 50 000 kg a 150 000 kg | 1 330 000 |\n| Mais de 22 000 kg a 50 000 kg | 1 060 000 |\n| Mais de 5 700 kg a 22 000 kg | 410 000 |\n| Mais de 2 000 kg a 5 700 kg | 227 000 |\n| Até 2 000 kg | 12 000 |\n| Aviões muito ligeiros, planadores com motor e planadores | 6 000 |\n| Aeronaves de asas rotativas |  |\n| Grande porte | 525 000 |\n| Médio porte | 265 000 |\n| Pequeno porte | 20 000 |\n| Outros |  |\n| Balões | 6 000 |\n| Propulsão |  |\n| Motores de turbina com impulso à descolagem superior a 25 KN ou potência à descolagem superior a 2 000 kW | 365 000 |\n| Motores de turbina com impulso máximo à descolagem de 25 KN ou potência máxima à descolagem de 2 000 kW | 185 000 |\n| Motores sem turbina | 30 000 |\n| Motores sem turbina CS 22 H, CS VLR Ap. B | 15 000 |\n| Hélice para utilização em aeronaves com um peso máximo à descolagem superior a 5 700 kg | 10 250 |\n| Hélice para utilização em aeronaves com um peso máximo à descolagem de 5 700 kg | 2 925 |\n| Peças |  |\n| Valor acima de 20 000 EUR | 2 000 |\n| Valor entre 2 000 e 20 000 EUR | 1 000 |\n| Valor abaixo de 2 000 EUR | 500 |\n| (^1^)JO L 243 de 27.9.2003, p. 6. |  |\n\nTabela 2: Variantes de certificados-tipo ou certificados-tipo restritos\n\n| (EUR) |  |\n| --- | --- |\n|  | Montante fixo [(^1^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0009) |\n| Aeronaves de asas fixas |  |\n| Mais de 150 000 kg | 1 000 000 |\n| Mais de 50 000 kg a 150 000 kg | 500 000 |\n| Mais de 22 000 kg a 50 000 kg | 400 000 |\n| Mais de 5 700 kg a 22 000 kg | 160 000 |\n| Mais de 2 000 kg a 5 700 kg | 80 000 |\n| Até 2 000 kg | 2 800 |\n| Aviões muito ligeiros, planadores com motor e planadores | 2 400 |\n| Aeronaves de asas rotativas |  |\n| Grande porte | 200 000 |\n| Médio porte | 100 000 |\n| Pequeno porte | 6 000 |\n| Outros |  |\n| Balões | 2 400 |\n| Propulsão |  |\n| Motores de turbina com impulso à descolagem superior a 25 KN ou potência à descolagem superior a 2 000 kW | 100 000 |\n| Motores de turbina com impulso máximo à descolagem de 25 KN ou potência máxima à descolagem de 2 000 kW | 50 000 |\n| Motores sem turbina | 10 000 |\n| Motores sem turbina CS 22 H, CS VLR Ap. B | 5 000 |\n| Hélice para utilização em aeronaves com um peso máximo à descolagem superior a 5 700 kg | 2 500 |\n| Hélice para utilização em aeronaves com um peso máximo à descolagem de 5 700 kg | 770 |\n| Peças |  |\n| Valor acima de 20 000 EUR | 1 000 |\n| Valor entre 2 000 e 20 000 EUR | 600 |\n| Valor abaixo de 2 000 EUR | 350 |\n| (^1^)Para os derivados que impliquem alterações substanciais do Projecto de Tipo, tal como descrito na subparte B do anexo ao Regulamento (CE) n.º 1702/2003, aplicar-se-á a taxa do respectivo certificado-tipo ou certificado-tipo restrito, de acordo com a Tabela 1. |  |\n\nTabela 3: Certificados-tipo suplementares (referidos na subparte E do anexo ao Regulamento (CE) n.º 1702/2003)\n\n| (EUR) |  |  |  |\n| --- | --- | --- | --- |\n|  | Montante fixo [(^1^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0010) |  |  |\n| Complexo | Standard | Simples |  |\n| Aeronaves de asas fixas |  |  |  |\n| Mais de 150 000 kg | 25 000 | 6 000 | 3 000 |\n| Mais de 50 000 kg a 150 000 kg | 13 000 | 5 000 | 2 500 |\n| Mais de 22 000 kg a 50 000 kg | 8 500 | 3 750 | 1 875 |\n| Mais de 5 700 kg a 22 000 kg | 5 500 | 2 500 | 1 250 |\n| Mais de 2 000 kg a 5 700 kg | 3 800 | 1 750 | 875 |\n| Até 2 000 kg | 1 600 | 1 000 | 500 |\n| Aviões muito ligeiros, planadores com motor e planadores | 250 | 250 | 250 |\n| Aeronaves de asas rotativas |  |  |  |\n| Grande porte | 11 000 | 4 000 | 2 000 |\n| Médio porte | 5 000 | 2 000 | 1 000 |\n| Pequeno porte | 900 | 400 | 250 |\n| Outros |  |  |  |\n| Balões | 800 | 400 | 250 |\n| Propulsão |  |  |  |\n| Motores de turbina com impulso à descolagem superior a 25 KN ou potência à descolagem superior a 2 000 kW | 12 000 | 5 000 | 2 500 |\n| Motores de turbina com impulso máximo à descolagem de 25 KN ou potência máxima à descolagem de 2 000 kW | 5 800 | 2 500 | 1 250 |\n| Motores sem turbina | 2 800 | 1 250 | 625 |\n| Motores sem turbina CS 22 H, CS VLR Ap. B | 1 400 | 625 | 300 |\n| Hélice para utilização em aeronaves com um peso máximo à descolagem superior a 5 700 kg | 2 000 | 1 000 | 500 |\n| Hélice para utilização em aeronaves com um peso máximo à descolagem de 5 700 kg | 1 500 | 750 | 375 |\n| (^1^)Para os certificados-tipo suplementares que impliquem alterações substanciais tal como definidas na subparte B do anexo ao Regulamento (CE) n.º 1702/2003, aplicar-se-á a taxa do respectivo certificado-tipo ou certificado-tipo restrito, de acordo com a Tabela 1. |  |  |  |\n\nTabela 4: Grandes alterações e grandes reparações (referidas nas subpartes D e M do anexo ao Regulamento (CE) n.º 1702/2003)\n\n| (EUR) |  |  |  |\n| --- | --- | --- | --- |\n|  | Montante fixo [(^1^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0011) [(^2^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0012) |  |  |\n| Complexo | Standard | Simples |  |\n| Aeronaves de asas fixas |  |  |  |\n| Mais de 150 000 kg | 20 000 | 6 000 | 3 000 |\n| Mais de 50 000 kg a 150 000 kg | 9 000 | 4 000 | 2 000 |\n| Mais de 22 000 kg a 50 000 kg | 6 500 | 3 000 | 1 500 |\n| Mais de 5 700 kg a 22 000 kg | 4 500 | 2 000 | 1 000 |\n| Mais de 2 000 kg a 5 700 kg | 3 000 | 1 400 | 700 |\n| Até 2 000 kg | 1 100 | 500 | 250 |\n| Aviões muito ligeiros, planadores com motor e planadores | 250 | 250 | 250 |\n| Aeronaves de asas rotativas |  |  |  |\n| Grande porte | 10 000 | 4 000 | 2 000 |\n| Médio porte | 4 500 | 2 000 | 1 000 |\n| Pequeno porte | 850 | 400 | 250 |\n| Outros |  |  |  |\n| Balões | 850 | 400 | 250 |\n| Propulsão |  |  |  |\n| Motores de turbina com impulso à descolagem superior a 25 KN ou potência à descolagem superior a 2 000 kW | 5 000 | 2 000 | 1 000 |\n| Motores de turbina com impulso máximo à descolagem de 25 KN ou potência máxima à descolagem de 2 000 kW | 2 500 | 1 000 | 500 |\n| Motores sem turbina | 1 300 | 600 | 300 |\n| Motores sem turbina CS 22 H, CS VLR Ap. B | 600 | 300 | 250 |\n| Hélice para utilização em aeronaves com um peso máximo à descolagem superior a 5 700 kg | 250 | 250 | 250 |\n| Hélice para utilização em aeronaves com um peso máximo à descolagem de 5 700 kg | 250 | 250 | 250 |\n| (^1^)Para as grandes alterações que impliquem alterações substanciais tal como definidas na subparte B do anexo ao Regulamento (CE) n.º 1702/2003, aplicar-se-á a taxa do respectivo certificado-tipo ou certificado-tipo restrito, de acordo com a Tabela 1. (^2^)As alterações e reparações às APU (unidades de potência auxiliar) deverão ser cobradas como alterações e reparações em motores do mesmo nível de potência. |  |  |  |\n\nTabela 5: Pequenas alterações e pequenas reparações (referidas nas subpartes D e M do anexo ao Regulamento (CE) n.º 1702/2003)\n\n| (EUR) |  |\n| --- | --- |\n|  | Montante fixo [(^1^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0013) [(^2^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0014) |\n| Aeronaves de asas fixas |  |\n| Mais de 150 000 kg | 500 |\n| Mais de 50 000 kg a 150 000 kg | 500 |\n| Mais de 22 000 kg a 50 000 kg | 500 |\n| Mais de 5 700 kg a 22 000 kg | 500 |\n| Mais de 2 000 kg a 5 700 kg | 250 |\n| Até 2 000 kg | 250 |\n| Aviões muito ligeiros, planadores com motor e planadores | 250 |\n| Aeronaves de asas rotativas |  |\n| Grande porte | 500 |\n| Médio porte | 500 |\n| Pequeno porte | 250 |\n| Outros |  |\n| Balões | 250 |\n| Propulsão |  |\n| Motores de turbina | 500 |\n| Motores sem turbina | 250 |\n| Hélice | 250 |\n| (^1^)As taxas definidas nesta Tabela não se aplicam às pequenas alterações e reparações realizadas por entidades de projecto de acordo com a parte 21A.263(c)(2) da subparte J do anexo ao Regulamento (CE) n.º 1702/2003. (^2^)As alterações e reparações às APU (unidades de potência auxiliar) deverão ser cobradas como alterações e reparações em motores do mesmo nível de potência. |  |\n\nTabela 6: Taxa anual para titulares de certificados-tipo e certificados-tipo restritos da AESA e outros certificados-tipo considerados aceitáveis ao abrigo do Regulamento (CE) n.º 1592/2002\n\n| (EUR) |  |  |\n| --- | --- | --- |\n|  | Montante fixo [(^1^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0015) [(^2^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0016) [(^3^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0017) |  |\n|  | Modelo UE | Modelo não UE |\n| Aeronaves de asas fixas |  |  |\n| Mais de 150 000 kg | 270 000 | 90 000 |\n| Mais de 50 000 kg a 150 000 kg | 150 000 | 50 000 |\n| Mais de 22 000 kg a 50 000 kg | 80 000 | 27 000 |\n| Mais de 5 700 kg a 22 000 kg | 17 000 | 5 700 |\n| Mais de 2 000 kg a 5 700 kg | 4 000 | 1 400 |\n| Até 2 000 kg | 2 000 | 670 |\n| Aviões muito ligeiros, planadores com motor e planadores | 900 | 300 |\n| Aeronaves de asas rotativas |  |  |\n| Grande porte | 65 000 | 21 700 |\n| Médio porte | 30 000 | 10 000 |\n| Pequeno porte | 3 000 | 1 000 |\n| Outros |  |  |\n| Balões | 900 | 300 |\n| Propulsão |  |  |\n| Motores de turbina com impulso à descolagem superior a 25 KN ou potência à descolagem superior a 2 000 kW | 40 000 | 13 000 |\n| Motores de turbina com impulso máximo à descolagem de 25 KN ou potência máxima à descolagem de 2 000 kW | 6 000 | 2 000 |\n| Motores sem turbina | 1 000 | 350 |\n| Motores sem turbina CS 22 H, CS VLR Ap. B | 500 | 250 |\n| Hélice para utilização em aeronaves com um peso máximo à descolagem superior a 5 700 kg | 750 | 250 |\n| Peças |  |  |\n| Valor acima de 20 000 EUR | 2 000 | 700 |\n| Valor entre 2 000 e 20 000 EUR | 1 000 | 350 |\n| Valor abaixo de 2 000 EUR | 500 | 250 |\n| (^1^)Para as versões de carga de uma aeronave que disponha do seu próprio certificado-tipo, aplica-se um coeficiente de 0,85 à taxa para a versão equivalente de passageiros. (^2^)Para os titulares de múltiplos certificados-tipo e/ou múltiplos certificados-tipo restritos, aplica-se uma redução à taxa anual do segundo certificado-tipo, ou certificado-tipo restrito, e seguintes, da mesma categoria de produto tal como consta do seguinte quadro: Produto de categoria idêntica Redução aplicada ao montante fixo 1.º 0 % 2.º 10 % 3.º 20 % 4.º 30 % 5.º 40 % 6.º 50 % 7.º 60 % 8.º 70 % 9.º 80 % 10.º 90 % 11.º e produtos seguintes 100 % (^3^)Para as aeronaves em que o número de exemplares registados no mundo é inferior a 50, as actividades permanentes de aeronavegabilidade deverão ser cobradas à hora, com base na tarifa horária definida na parte II do anexo, até ao nível da taxa para a categoria de produto da aeronave pertinente. Para os produtos, peças e equipamentos que não sejam aeronaves, a limitação é função do número de aeronaves em que o produto, peça ou equipamento em causa está instalado. |  |  |\n| Produto de categoria idêntica | Redução aplicada ao montante fixo |  |\n| 1.º | 0 % |  |\n| 2.º | 10 % |  |\n| 3.º | 20 % |  |\n| 4.º | 30 % |  |\n| 5.º | 40 % |  |\n| 6.º | 50 % |  |\n| 7.º | 60 % |  |\n| 8.º | 70 % |  |\n| 9.º | 80 % |  |\n| 10.º | 90 % |  |\n| 11.º e produtos seguintes | 100 % |  |\n\nTabela 7: Certificação da entidade de projecto [referida na sub-parte J do Anexo ao Regulamento (CE) n.º 1702/2003]\n\n| (EUR) |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n|  | DOA 1A | DOA 1B DOA 2A | DOA 1C DOA 2B DOA 3A | DOA 2C DOA 3B | DOA 3C |\n| Taxa de certificação |  |  |  |  |  |\n| Pessoal afecto: menos de 10 | 11 250 | 9 000 | 6 750 | 4 500 | 3 600 |\n| 10 a 49 | 31 500 | 22 500 | 13 500 | 9 000 | — |\n| 50 a 399 | 90 000 | 67 500 | 45 000 | 36 000 | — |\n| 400 a 999 | 180 000 | 135 000 | 112 500 | 99 000 | — |\n| 1 000 a 2 499 | 360 000 | — | — | — | — |\n| 2 500 a 5 000 | 540 000 | — | — | — | — |\n| Mais de 5 000 | 3 000 000 | — | — | — | — |\n|  | Taxa de vigilância |  |  |  |  |\n| Pessoal afecto: menos de 10 | 5 625 | 4 500 | 3 375 | 2 250 | 1 800 |\n| 10 a 49 | 15 750 | 11 250 | 6 750 | 4 500 | — |\n| 50 a 399 | 45 000 | 33 750 | 22 500 | 18 000 | — |\n| 400 a 999 | 90 000 | 67 500 | 56 250 | 49 500 | — |\n| 1 000 a 2 499 | 180 000 | — | — | — | — |\n| 2 500 a 5 000 | 270 000 | — | — | — | — |\n| Mais de 5 000 | 1 500 000 | — | — | — | — |\n\nTabela 8: Certificação da Entidade de Produção [referida na sub-parte G do Anexo ao Regulamento (CE) n.º 1702/2003]\n\n| (EUR) |  |  |\n| --- | --- | --- |\n|  | Taxa de certificação | Taxa de vigilância |\n| Volume de negócios inferior a 1 milhão de euros | 9 000 | 6 500 |\n| Entre 1 000 000 e 4 999 999 | 38 000 | 28 000 |\n| Entre 5 000 000 e 9 999 999 | 58 000 | 43 000 |\n| Entre 10 000 000 e 49 999 999 | 75 000 | 57 000 |\n| Entre 50 000 000 e 99 999 999 | 270 000 | 200 000 |\n| Entre 100 000 000 e 499 999 999 | 305 000 | 230 000 |\n| Entre 500 000 000 e 999 999 999 | 630 000 | 475 000 |\n| Superior a 999 999 999 | 900 000 | 2 000 000 |\n\n| (EUR) |  |  |\n| --- | --- | --- |\n|  | Taxa de certificação [(^1^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0019) | Taxa de vigilância [(^1^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0019) |\n| Pessoal afecto: menos de 5 | 3 000 | 2 300 |\n| Entre 5 e 9 | 5 000 | 4 000 |\n| Entre 10 e 49 | 11 000 | 8 000 |\n| Entre 50 e 99 | 22 000 | 16 000 |\n| Entre 100 e 499 | 32 000 | 23 000 |\n| Entre 500 e 999 | 43 000 | 32 000 |\n| Mais de 999 | 53 000 | 43 000 |\n\n| (EUR) |  |\n| --- | --- |\n| Classificação técnica | Montante fixo baseado na classificação técnica [(^1^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0020) |\n| A 1 | 11 000 |\n| A 2 | 2 500 |\n| A 3 | 5 000 |\n| A 4 | 500 |\n| B 1 | 5 000 |\n| B 2 | 2 500 |\n| B 3 | 500 |\n| C | 500 |\n\nTabela 10: Certificação de Entidade de Formação em Manutenção [referida no Anexo IV do Regulamento (CE) n.º 2042/2003]\n\n| (EUR) |  |  |\n| --- | --- | --- |\n|  | Taxa de certificação | Surveillance fee |\n| Taxa de vigilância | 4 000 | 3 000 |\n| Entre 5 e 9 | 7 000 | 5 000 |\n| Entre 10 e 49 | 16 000 | 14 000 |\n| Entre 50 e 99 | 35 000 | 30 000 |\n| Mais de 99 | 42 000 | 40 000 |"
+  },
+  "132a12e432cefff7": {
+   "fragment_id": "Operações facturadas à hora",
+   "type": "divisao",
+   "heading": "Operações facturadas à hora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Operações facturadas à hora\n\n1. Tarifa horária:\n\nTarifa horária aplicável 225 EUR\n\n2. Base horária consoante a operação ([^6^](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0021)):\n\n| Demonstração da capacidade do projeto através de procedimentos alternativos | Número de horas efetivas |\n| --- | --- |\n| Produção sem homologação | Número de horas efetivas |\n| Meios alternativos de conformidade com as diretivas de aeronavegabilidade | Número de horas efetivas |\n| Apoio à validação (aceitação da certificação da AESA por autoridades estrangeiras) | Número de horas efetivas |\n| Assistência técnica solicitada por autoridades estrangeiras | Número de horas efetivas |\n| Aceitação pela AESA de relatórios MRB (*Maintenance Review Board*) | Número de horas efetivas |\n| Transferência de certificados | Número de horas efetivas |\n| Certificado de organização de formação autorizada | Número de horas efetivas |\n| Certificado de centro de medicina aeronáutica | Número de horas efetivas |\n| Certificado de organização ATM-ANS | Número de horas efetivas |\n| Certificado de organização de formação de controladores de tráfego aéreo | Número de horas efetivas |\n| Dados operacionais relativos a um certificado de tipo, alterações a um certificado de tipo e certificado de tipo suplementar [(^1^)](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#E0022) | Número de horas efetivas |\n| Certificado de qualificação para dispositivos de treino de simulação de voo | Número de horas efetivas |\n| Aprovação das condições de voo para licença de voo | 3 horas |\n| Reemissão administrativa de documentos | 1 hora |\n| Certificado de aeronavegabilidade para a exportação (E-CoA) para aeronaves CS 25 | 6 horas |\n| Certificado de aeronavegabilidade para a exportação (E-CoA) para outras aeronaves | 2 horas |\n| (^1^)Ver artigos 5.º e 20.º do Regulamento (CE) n.º 216/2008 e do Regulamento (CE) n.º 1702/2003 e suas alterações. |  |"
+  },
+  "ea935b92a7974a70": {
+   "fragment_id": "Honorários cobrados por recursos",
+   "type": "divisao",
+   "heading": "Honorários cobrados por recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Honorários cobrados por recursos\n\nTodos os pedidos de recurso implicam o encargo fixo constante da tabela, multiplicado pelo coeficiente indicado para a categoria de honorários correspondente à pessoa ou entidade em questão.\n\nO recurso apenas será considerado admissível depois de pago o honorário correspondente.\n\nHonorário fixo 10 000 EUR\n\nCategoria de honorários para pessoas singulares Coeficiente aplicável ao montante fixo\n\n0,1\n\nCategoria de honorários para organizações, em função do volume de negócios, em euros, do recorrente Coeficiente aplicável ao montante fixo\n\nmenos de 100 001 0,25\n\nentre 100 001 e 1 200 000 0,5\n\nentre 1 200 001 e 2 500 000 0,75\n\nentre 2 500 001 e 5 000 000 1\n\nentre 5 000 001 e 50 000 000 2,5\n\nentre 50 000 001 e 500 000 000 5\n\nentre 500 000 001 e 1 000 000 000 7,5\n\nmais de 1 000 000 000 10"
+  },
+  "1adea2519e20ca7f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#src.E0001)) JO L 240 de 7.9.2002, p. 1. Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1701/2003 da Comissão (JO L 243 de 27.9.2003, p. 5).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#src.E0002)) JO L 81 de 30.3.2005, p. 7. Regulamento alterado pelo Regulamento (CE) n.º 779/2006 (JO L 137 de 25.5.2006, p. 3).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#src.E0003)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#src.E0004)) JO L 79 de 19.3.2008, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#src.E0018)) Regulamento (CE) n.º 2042/2003 da Comissão de 20 de Novembro de 2003 relativo à aeronavegabilidade permanente das aeronaves e dos produtos, peças e equipamentos aeronáuticos, bem como à certificação das entidades e do pessoal envolvidos nestas tarefas (JO L 315 de 28.11.2003, p. 1), com a redacção que lhe foi dada pelo Regulamento (CE) n.º 376/2007 (JO L 94 de 4.4.2007, p. 18).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/54ea5e3d-cfe2-4c0c-949c-408c2f81d523.0018.03/DOC_1#src.E0021)) Trata-se de uma lista de operações não exaustiva. O facto de uma operação não figurar nesta parte não significa necessariamente que a Agência Europeia para a Segurança da Aviação não a possa efetuar."
+  },
+  "77159e714a109297": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2007R0593 — PT — 01.04.2014 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32007R0593) [REGULAMENTO (CE) N.º 593/2007 DA COMISSÃO](http://publications.europa.eu/resource/celex/32007R0593) [de 31 de Maio de 2007](http://publications.europa.eu/resource/celex/32007R0593) [relativo aos honorários e às taxas cobrados pela Agência Europeia para a Segurança da Aviação](http://publications.europa.eu/resource/celex/32007R0593) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32007R0593) (JO L 140, 1.6.2007, p.3)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 319/2014 da Comissão de 27 de março de 2014](http://publications.europa.eu/resource/celex/32014R0319) — L 93 — 58 — 28.3.2014"
+  }
+ }
+}

@@ -1,0 +1,299 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R3911:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R3911-20090302",
+ "dre_path": null,
+ "source_lastmod": "2009-03-02",
+ "versions": [
+  {
+   "date": "1992-12-31",
+   "future": false,
+   "celex": "31992R3911",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "de283a6a8905d1fb",
+    "1384c84e8f3a9cc7",
+    "6d513baa025ba887",
+    "1e625ca0a7135c5a",
+    "fa6e43f2364b8a11",
+    "18f10f67e670aade",
+    "3205302cdf77315a",
+    "9a086bbb7f332ba0",
+    "bc623e445b470f43",
+    "79b2bec99ea3cc99",
+    "d0112173ce0e5bd9",
+    "e4e43c99e52b3db1",
+    "3610c9650e8dcb08",
+    "097e7df1b0404cab",
+    "91008c24f3a716e9",
+    "a8d7a9a402de7b64",
+    "6a5307ceb3574263",
+    "b848ab9e0289221e",
+    "a3c7bbe9af129851",
+    "3fdc8ab10b6f3b18",
+    "7ac63a9b2b929943",
+    "4b5d12a553535f3f",
+    "fdc9573f4fa401f0",
+    "344ab32e438189c8",
+    "d97b3159a17f44ac",
+    "54e9ffb1f0dd522d"
+   ]
+  },
+  {
+   "date": "2009-03-02",
+   "future": false,
+   "celex": "01992R3911-20090302",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o.",
+    "Suprime TÍTULO I — Licença de exportação",
+    "Suprime Artigo 2o.",
+    "Suprime Artigo 3o.",
+    "Suprime Artigo 4o.",
+    "Suprime Artigo 5o.",
+    "Suprime TÍTULO II — Cooperação administrativa",
+    "Suprime Artigo 6o.",
+    "Suprime TÍTULO III — Disposições gerais e finais",
+    "Suprime Artigo 7o.",
+    "Suprime Artigo 8o.",
+    "Suprime Artigo 9o.",
+    "Suprime Artigo 10o.",
+    "Suprime Artigo 11o.",
+    "Suprime ANEXO",
+    "Suprime Capítulo 49",
+    "Suprime Capítulo 95 — - vidros e cristais",
+    "Suprime Capítulo 94 — - instrumentos de óptica, fotografia ou cinematografia",
+    "Suprime Capítulo 90 — - instrumentos musicais",
+    "Suprime Capítulo 92 — - relojoaria",
+    "Suprime Capítulo 91 — - obras de madeira",
+    "Suprime Capítulo 44 — - produtos cerâmicos",
+    "Suprime Capítulo 69 — - tapeçarias",
+    "Suprime Capítulo 57 — - papéis de parede",
+    "Suprime Capítulo 93 — b) Com mais de 100 anos"
+   ],
+   "fragments": [
+    "8434ddaeb9b82eff"
+   ]
+  }
+ ],
+ "fragments": {
+  "de283a6a8905d1fb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 3911/92 do Conselho, de 9 de Dezembro de 1992, relativo à exportação de bens culturais** *Jornal Oficial nº L 395 de 31/12/1992 p. 0001 - 0005 Edição especial finlandesa: Capítulo 2 Fascículo 8 p. 0161 Edição especial sueca: Capítulo 2 Fascículo 8 p. 0161*\n\nREGULAMENTO (CEE) No. 3911/92 DO CONSELHO de 9 de Dezembro de 1992 relativo à exportação de bens culturais\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 113o.,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que, para a realização do mercado interno convém estabelecer uma regulamentação das trocas comerciais com os países terceiros de modo a assegurar a protecção dos bens culturais;\n\nConsiderando que, na sequência das conclusões do Conselho de 19 de Novembro de 1990, é necessário prever medidas destinadas a assegurar, nas fronteiras externas da Comunidade, um controlo uniforme da exportação de bens culturais;\n\nConsiderando que um sistema desse tipo impõe a apresentação de uma licença emitida pelo Estado-membro competente, antes da exportação de bens culturais abrangida pelo presente regulamento; que isso implica uma definição precisa do âmbito dessas medidas e das respectivas regras de excecução; que a implementação desse sistema deve ser tão simples e eficaz quanto possível; que, a fim de assistir a Comissão no exercício da competência que lhe é conferida pelo presente regulamento, é conveniente instituir um comité;\n\nConsiderando que, perante a significativa experiência adquirida pelas autoridades dos Estados-membros na aplicação do Regulamento (CEE) no. 1468/81 do Conselho, de 19 de Maio de 1981, relativo à assistência mútua entre as autoridades administrativas dos Estados-membros e à colaboração entre estas e a Comissão, tendo em vista assegurar a boa aplicação das regulamentações aduaneira ou agrícola (4), o referido regulamento deve ser aplicável nesta matéria;\n\nConsiderando que o anexo ao presente regulamento tem em vista precisar as categorias de bens culturais que devem ser objecto de uma protecção especial nas trocas comerciais com países terceiros, sem prejuízo da definição pelos Estados-membros de bens considerados como património nacional na acepção do artigo 36o. do Tratado,\n\nADOPTOU O PRESENTE REGULAMENTO"
+  },
+  "1384c84e8f3a9cc7": {
+   "fragment_id": "Artigo 1o.",
+   "type": "artigo",
+   "heading": "Artigo 1o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o.\n\nSem prejuízo dos poderes dos Estados-membros nos termos do artigo 36o. do Tratado, entende-se por «bens culturais», na acepção do presente regulamento, os bens incluídos na lista em anexo."
+  },
+  "6d513baa025ba887": {
+   "fragment_id": "TÍTULO I — Licença de exportação",
+   "type": "divisao",
+   "heading": "TÍTULO I — Licença de exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Licença de exportação"
+  },
+  "1e625ca0a7135c5a": {
+   "fragment_id": "Artigo 2o.",
+   "type": "artigo",
+   "heading": "Artigo 2o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o.\n\n1. A exportação de bens culturais para fora do território aduaneiro da Comunidade está sujeita à apresentação de uma licença de exportação.\n\n2. A licença de exportação será emitida, a pedido do interessado:\n\n- por uma autoridade competente do Estado-membro em cujo território se encontrava, legal e definitivamente, o bem cultural em causa em 1 de Janeiro de 1993,\n\n- ou, após essa data, por uma autoridade competente do Estado-membro em cujo território se encontra após expedição legal e definitiva de outro Estado-membro, ou importação de um país terceiro ou reimportação de um país terceiro depois de expedição legal de um Estado-membro para esse país.\n\nN° entanto, sem prejuízo do no. 4, o Estado-membro competente nos termos dos dois travessões do primeiro parágrafo não pode requerer licenças de exportação para os bens culturais enunciados no primeiro e segundo travessões da categoria A 1 do anexo com um valor arqueológico ou científico reduzido que não sejam produto directo de escavações, descobertas e estações arqueológicas de um Estado-membro e cuja presença no mercado seja legal.\n\nA licença de exportação pode ser recusada, para efeitos do disposto no presente regulamento, sempre que os bens culturais em causa sejam abrangidos por legislação de protecção do património nacional de valor artístico, histórico ou arqueológico no Estado-membro em causa.\n\nSe necessário, a autoridade referida no segundo travessão do primeiro parágrafo entrará em contacto com as autoridades competentes do Estado-membro de proveniência do bem cultural em questão, sobretudo com as autoridades competentes na acepção da Directiva 93/.../CEE do Conselho, de..., relativa à restituição de bens culturais que tenham saído ilicitamente do território de um Estado-membro (1).\n\n3. A licença de exportação é válida em toda a Comunidade.\n\n4. Sem prejuízo do disposto no presente artigo, a exportação directa do território aduaneiro da Comunidade de bens do património nacional de valor artístico, histórico ou arqueológico que não sejam bens culturais na acepção do presente regulamento está sujeita à legislação nacional do Estado-membro de exportação."
+  },
+  "fa6e43f2364b8a11": {
+   "fragment_id": "Artigo 3o.",
+   "type": "artigo",
+   "heading": "Artigo 3o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o.\n\n1. Os Estados-membros transmitirão à Comissão a lista das autoridades competentes para a emissão das licenças de exportação de bens culturais.\n\n2. A Comissão publicará a lista dessas autoridades, bem como quaisquer alterações nela introduzidas, no Jornal Oficial das Comunidades Europeias, série C."
+  },
+  "18f10f67e670aade": {
+   "fragment_id": "Artigo 4o.",
+   "type": "artigo",
+   "heading": "Artigo 4o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o.\n\nA licença de exportação será apresentada, para corroborar a declaração de exportação, no momento do cumprimento das formalidades aduaneiras de exportação, à autoridade aduaneira competente para aceitar essa declaração."
+  },
+  "3205302cdf77315a": {
+   "fragment_id": "Artigo 5o.",
+   "type": "artigo",
+   "heading": "Artigo 5o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o.\n\n1. Os Estados-membros podem limitar o número de estâncias aduaneiras habilitadas a proceder ao cumprimento das formalidades de exportação de bens culturais.\n\n2. Quando recorram à possibilidade prevista no no. 1, os Estados-membros comunicarão à Comissão quais as estâncias aduaneiras habilitadas.\n\nA Comissão publicará essas informações no Jornal Oficial das Comunidades Europeias, série C."
+  },
+  "9a086bbb7f332ba0": {
+   "fragment_id": "TÍTULO II — Cooperação administrativa",
+   "type": "divisao",
+   "heading": "TÍTULO II — Cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Cooperação administrativa"
+  },
+  "bc623e445b470f43": {
+   "fragment_id": "Artigo 6o.",
+   "type": "artigo",
+   "heading": "Artigo 6o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o.\n\nPara efeitos do presente regulamento, é aplicável, mutatis mutandis, o Regulamento (CEE) no. 1468/81, nomeadamente no que se refere à confidencialidade das informações.\n\nAlém da cooperação prevista no primeiro parágrafo, os Estados-membros adoptarão todas as disposições necessárias para estabelecer, no plano das suas relações mútuas, uma cooperação directa entre as administrações aduaneiras e as autoridades competentes referidas no artigo 4o. da Direciva 93/.../CEE, relativa à restituição de bens culturais que tenham saído ilicitamente do território de um Estado-membro (2)."
+  },
+  "79b2bec99ea3cc99": {
+   "fragment_id": "TÍTULO III — Disposições gerais e finais",
+   "type": "divisao",
+   "heading": "TÍTULO III — Disposições gerais e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Disposições gerais e finais"
+  },
+  "d0112173ce0e5bd9": {
+   "fragment_id": "Artigo 7o.",
+   "type": "artigo",
+   "heading": "Artigo 7o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o.\n\nAs disposições necessárias à aplicação do presente regulamento, nomeadamente as disposições relativas ao formulário a utilizar (por exemplo, o modelo e as características técnicas), serão adoptadas em conformidade com o procedimento estipulado no no. 2 do artigo 8o."
+  },
+  "e4e43c99e52b3db1": {
+   "fragment_id": "Artigo 8o.",
+   "type": "artigo",
+   "heading": "Artigo 8o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o.\n\n1. A Comissão será assistida por um comité composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\nO comité examinará quaisquer questões relacionadas com a aplicação do presente regulamento suscitadas pelo seu presidente, quer por iniciativa própria quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa, se necessário procedendo a uma votação.\n\nEsse parecer deve ser exarado em acta; além disso, cada Estado-membro tem o direito de solicitar que a sua posição também seja exarada em acta.\n\nA Comissão tomará na melhor conta o parecer emitido pelo comité. O comité será por ela informado do modo como esse parecer foi tomado em consideração."
+  },
+  "3610c9650e8dcb08": {
+   "fragment_id": "Artigo 9o.",
+   "type": "artigo",
+   "heading": "Artigo 9o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o.\n\nCada Estado-membro determinará as sanções a aplicar às infracções ao presente regulamento. Essas sanções devem ser suficientes para fomentar o cumprimento dessas disposições."
+  },
+  "097e7df1b0404cab": {
+   "fragment_id": "Artigo 10o.",
+   "type": "artigo",
+   "heading": "Artigo 10o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o.\n\nCada Estado-membro informará a Comissão das medidas que tomar nos termos do presente regulamento.\n\nA Comissão transmitirá essas informações aos outros Estados-membros.\n\nA Comissão apresentará trienalmente ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social um relatório sobre a aplicação do presente regulamento.\n\nN° termo de um período de aplicação de três anos, o Conselho avaliará a eficácia do presente regulamento e, sob proposta da Comissão, procederá às adaptações necessárias.\n\nEm qualquer caso, o Conselho, sob proposta da Comissão, procederá trienalmente à análise e, se necessário, à actualização dos montantes mencionados no anexo em função dos índices económicos e monetários da Comunidade."
+  },
+  "91008c24f3a716e9": {
+   "fragment_id": "Artigo 11o.",
+   "type": "artigo",
+   "heading": "Artigo 11o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o.\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da publicação da Directiva 93/.../CEE (1) no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 9 de Dezembro de 1992.\n\nPelo Conselho\n\nO Presidente\n\nW. WALDEGRAVE\n\n(1) JO no. C 53 de 28. 2. 1992, p. 8.\n\n(2) JO no. C 176 de 13. 7. 1992, p. 31.\n\n(3) JO no. C 223 de 31. 8. 1992, p. 10.\n\n(4) JO no. L 144 de 2. 6. 1981, p. 1. Regulamento alterado pelo Regulamento (CEE) no. 945/87 (JO no. L 90 de 2. 4. 1987, p. 3).\n\n(1) Ainda não adoptada à data da publicação do presente regulamento; conforme dispõe o artigo 11o. infra, o presente regulamento entrará em vigor no terceiro dia seguinte ao da publicação da directiva no Jornal Oficial das Comunidades Europeias.\n\n(2) Ver nota de pé-de-página ao no. 2 do artigo 2o.\n\n(1) A directiva relativa à restituição de bens culturais que tenham saído ilicitamente do território de um Estado-membro, já referida no no. 2 do artigo 2o. e no artigo 6o., ainda não foi adoptada à data da publicação do presente regulamento."
+  },
+  "a8d7a9a402de7b64": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nCATEGORIAS DE BENS CULTURAIS ABRANGIDOS PELO ARTIGO 1o.\n\nA. 1. Objectos arqueológicos com mais de 100 anos, provenientes de:\n\n- escavações ou descobertas terrestres e submarinas\n\n9705 00 00\n\n- estações arqueológicas\n\n9706 00 00\n\n- colecções arqueológicas\n\n2. Elementos que façam parte integrante de monumentos artísticos, históricos ou religiosos, provenientes do seu desmembramento, com mais de 100 anos\n\n9705 00 00\n\n9706 00 00\n\n3. Quadros e pinturas feitos inteiramente à mão sobre qualquer suporte e em qualquer material (1)\n\n9701\n\n4. Mosaicos, para além dos abrangidos pelas categorias A1 ou A2, e desenhos feitos inteiramente à mão sobre qualquer suporte e em qualquer material (1)\n\n9701 69 14\n\n5. Gravuras, estampas, serigrafias e litografias originais e respectivas matrizes, bem como os cartazes originais (1)"
+  },
+  "6a5307ceb3574263": {
+   "fragment_id": "Capítulo 49",
+   "type": "divisao",
+   "heading": "Capítulo 49",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 49\n\n9702 00 00\n\n8442 50 99\n\n6. Produções originais de estatuária ou de escultura e cópias obtidas pelo mesmo processo que o original (1), para além das abrangidas pela categoria A1\n\n9703 00 00\n\n7. Fotografias, filmes e respectivos negativos (1)\n\n3704\n\n3705\n\n3706\n\n4911 91 80\n\n8. Incunábulos e manuscritos, incluindo cartas geográficas e partituras musicais, isolados ou em colecção (1)\n\n9702 00 00\n\n9706 00 00\n\n4901 10 00\n\n4901 99 00\n\n4904 00 00\n\n4905 91 00\n\n4905 99 00\n\n4906 00 00\n\n9. Livros com mais de 100 anos, isolados ou em colecção\n\n9705 00 00\n\n9706 00 00\n\n10. Cartas geográficas impressas com mais de 200 anos\n\n9706 00 00\n\n11. Arquivos, e respectivos elementos, de qualquer tipo, e independentemente do respectivo suporte, com mais de 50 anos\n\n3704\n\n3705\n\n3706\n\n4901\n\n4906\n\n9705 00 00\n\n9706 00 00\n\n12. a) Colecções (2) e espécimes provenientes de colecções de zoologia, de botânica, de mineralogia e de anatomia\n\n9705 00 00\n\nb) Colecções (2) de interesse histórico, paleontológico, etnográfico ou numismático\n\n9705 00 00\n\n13. Meios de transporte com mais de 75 anos\n\n9705 00 00\n\nCapítulos\n\n86 a 89\n\n14. Qualquer outra antiguidade não mencionada nas categorias A1 a A13\n\na) Com idade compreendida entre 50 e 100 anos:\n\n- brinquedos, jogos"
+  },
+  "b848ab9e0289221e": {
+   "fragment_id": "Capítulo 95 — - vidros e cristais",
+   "type": "divisao",
+   "heading": "Capítulo 95 — - vidros e cristais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 95 — - vidros e cristais\n\n7013\n\n- artigos de ourivesaria\n\n7114\n\n- móveis e objectos de mobiliário"
+  },
+  "a3c7bbe9af129851": {
+   "fragment_id": "Capítulo 94 — - instrumentos de óptica, fotografia ou cinematografia",
+   "type": "divisao",
+   "heading": "Capítulo 94 — - instrumentos de óptica, fotografia ou cinematografia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 94 — - instrumentos de óptica, fotografia ou cinematografia"
+  },
+  "3fdc8ab10b6f3b18": {
+   "fragment_id": "Capítulo 90 — - instrumentos musicais",
+   "type": "divisao",
+   "heading": "Capítulo 90 — - instrumentos musicais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 90 — - instrumentos musicais"
+  },
+  "7ac63a9b2b929943": {
+   "fragment_id": "Capítulo 92 — - relojoaria",
+   "type": "divisao",
+   "heading": "Capítulo 92 — - relojoaria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 92 — - relojoaria"
+  },
+  "4b5d12a553535f3f": {
+   "fragment_id": "Capítulo 91 — - obras de madeira",
+   "type": "divisao",
+   "heading": "Capítulo 91 — - obras de madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 91 — - obras de madeira"
+  },
+  "fdc9573f4fa401f0": {
+   "fragment_id": "Capítulo 44 — - produtos cerâmicos",
+   "type": "divisao",
+   "heading": "Capítulo 44 — - produtos cerâmicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 44 — - produtos cerâmicos"
+  },
+  "344ab32e438189c8": {
+   "fragment_id": "Capítulo 69 — - tapeçarias",
+   "type": "divisao",
+   "heading": "Capítulo 69 — - tapeçarias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 69 — - tapeçarias\n\n5805 00 00\n\n- tapetes"
+  },
+  "d97b3159a17f44ac": {
+   "fragment_id": "Capítulo 57 — - papéis de parede",
+   "type": "divisao",
+   "heading": "Capítulo 57 — - papéis de parede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 57 — - papéis de parede\n\n4814\n\n- armas"
+  },
+  "54e9ffb1f0dd522d": {
+   "fragment_id": "Capítulo 93 — b) Com mais de 100 anos",
+   "type": "divisao",
+   "heading": "Capítulo 93 — b) Com mais de 100 anos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 93 — b) Com mais de 100 anos\n\n9706 00 00\n\nOs bens culturais referidos nas categorias A1 a A14 só são abrangidos pelo presente regulamento se o seu valor corresponder ou exceder os limiares financeiros apresentados em B.\n\nB. Limiares financeiros aplicáveis a certas categorias referidas em A (em ecus)\n\nValores: 0 (zero)\n\n- 1 (objectos arqueológicos)\n\n- 2 (desmembramento de monumentos)\n\n- 8 (incunábulos e manuscritos)\n\n- 11 (arquivos)\n\n15 000\n\n- 4 (mosaicos e desenhos)\n\n- 5 (gravuras)\n\n- 7 (fotografias)\n\n- 10 (cartas geográficas impressas)\n\n50 000\n\n- 6 (estatuária)\n\n- 9 (livros)\n\n- 12 (colecções)\n\n- 13 (meios de transporte)\n\n- 14 (quaisquer outros objectos)\n\n150 000\n\n- 3 (quadros)\n\nO respeito pelas condições relativas aos valores financeiros deve ser julgado no momento da introdução do pedido da licença de exportação. O valor financeiro é o do bem cultural no Estado-membro referido no no. 2 do artigo 2o. do presente regulamento.\n\nA data para a conversão em moeda nacional dos valores expressos em ecus no anexo será 1 de Janeiro de 1993.\n\n(1) Que tenham mais de 50 anos e não sejam propriedade dos respectivos autores.\n\n(2) Com a seguinte definição que lhes foi dada pelo Tribunal de Justiça no seu acórdão no processo 252/84: «Os objectos a que se refere a posição 97.05 da Pauta Aduaneira Comum devem ser entendidos como aqueles que se revestem das qualidades necessárias para pertencer a uma colecção, isto é, objectos relativamente raros que normalmente já não são utilizados para o fim a que foram inicialmente destinados, sendo susceptíveis de transacção à margem do comércio usual de objectos similares utilizáveis e possuindo elevado valor»."
+  },
+  "8434ddaeb9b82eff": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992R3911 — PT — 02.03.2009 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31992R3911) [REGULAMENTO (CEE) N.º 3911/92 DO CONSELHO](http://publications.europa.eu/resource/celex/31992R3911) [de 9 de Dezembro de 1992](http://publications.europa.eu/resource/celex/31992R3911) [relativo à exportação de bens culturais](http://publications.europa.eu/resource/celex/31992R3911) (JO L 395, 31.12.1992, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 116/2009 do Conselho de 18 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32009R0116) — L 39 — 1 — 10.2.2009"
+  }
+ }
+}

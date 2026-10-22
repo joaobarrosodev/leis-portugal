@@ -1,0 +1,729 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004L0042:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0042-20210716",
+ "dre_path": null,
+ "source_lastmod": "2021-07-16",
+ "versions": [
+  {
+   "date": "2004-04-30",
+   "future": false,
+   "celex": "32004L0042",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8c5c5c669f4126a3",
+    "3be56dea7c5491ed",
+    "5f4a4183b6f6c6a9",
+    "883ccc7563317cda",
+    "eddf06decf4a0796",
+    "ef5bebd7e6c07e91",
+    "2878f2f79a336551",
+    "5b57d1feae296f32",
+    "67c0d244b2f28881",
+    "2c3031dbd4ef6a74",
+    "9ec59ccd75720487",
+    "a992119f6696423f",
+    "8abeb2e8501e027e",
+    "6ddc398d9890d96f",
+    "81785042741d5a82",
+    "f2cf7fea6078a470",
+    "29cf911aa6e6c2f3",
+    "4d41b3da7be01db6",
+    "569ba9306e6fabc5",
+    "38ecd649f203840b"
+   ]
+  },
+  {
+   "date": "2008-12-11",
+   "future": false,
+   "celex": "02004L0042-20081211",
+   "acts": [
+    {
+     "id": "eu:celex:32008R1137:por",
+     "title": "REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008",
+     "published": null,
+     "celex": "32008R1137"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 11.º — Adaptação ao progresso técnico",
+    "Altera Artigo 12.º — Comité",
+    "Altera Artigo 16.º — Destinatários",
+    "Adita ANEXO I",
+    "Adita ÂMBITO",
+    "Adita ANEXO II",
+    "Adita ANEXO III",
+    "Adita MÉTODOS REFERIDOS NO N.º 1 DO ARTIGO 3.º",
+    "Adita Notas",
+    "Suprime ANEXO I — ÂMBITO",
+    "Suprime ANEXO II — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO III — MÉTODOS REFERIDOS NO N.o 1 DO ARTIGO 3.o"
+   ],
+   "fragments": [
+    "ca932cc125384b5f",
+    "656934974c59cb4a",
+    "45dc01275952a03b",
+    "728f628b1959f3b8",
+    "eddf06decf4a0796",
+    "ef5bebd7e6c07e91",
+    "2878f2f79a336551",
+    "3ae80b17ba594f55",
+    "67c0d244b2f28881",
+    "ad337187113fa2cc",
+    "9ec59ccd75720487",
+    "d4e3e23b55156107",
+    "4ea761d8df445c44",
+    "98dc43fbd302abed",
+    "81785042741d5a82",
+    "012a2ddf645f15fd",
+    "12bcbce1db5bdf83",
+    "d664376e2a8dcecd",
+    "389d2963c15ad6f5",
+    "3d579d7eb7792bbe",
+    "720af75c92791b10",
+    "8139a45fc2155e0f",
+    "f598856f7da8ffc4"
+   ]
+  },
+  {
+   "date": "2009-01-12",
+   "future": false,
+   "celex": "02004L0042-20090112",
+   "acts": [
+    {
+     "id": "eu:celex:32008L0112:por",
+     "title": "DIRECTIVA 2008/112/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 16 de Dezembro de 2008",
+     "published": null,
+     "celex": "32008L0112"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera ANEXO II",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "259504050002f967",
+    "656934974c59cb4a",
+    "08cfd27bef387812",
+    "728f628b1959f3b8",
+    "eddf06decf4a0796",
+    "ef5bebd7e6c07e91",
+    "2878f2f79a336551",
+    "3ae80b17ba594f55",
+    "67c0d244b2f28881",
+    "ad337187113fa2cc",
+    "9ec59ccd75720487",
+    "d4e3e23b55156107",
+    "4ea761d8df445c44",
+    "98dc43fbd302abed",
+    "81785042741d5a82",
+    "012a2ddf645f15fd",
+    "12bcbce1db5bdf83",
+    "d664376e2a8dcecd",
+    "389d2963c15ad6f5",
+    "c3d87d7e97cc11be",
+    "720af75c92791b10",
+    "8139a45fc2155e0f",
+    "fda387b54785111b"
+   ]
+  },
+  {
+   "date": "2010-12-10",
+   "future": false,
+   "celex": "02004L0042-20101210",
+   "acts": [
+    {
+     "id": "eu:celex:32010L0079:por",
+     "title": "DIRECTIVA 2010/79/UE DA COMISSÃO de 19 de Novembro de 2010",
+     "published": null,
+     "celex": "32010L0079"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO II",
+    "Altera Notas",
+    "Adita MÉTODOS REFERIDOS NO ARTIGO 3.º, N.º 1",
+    "Suprime MÉTODOS REFERIDOS NO N.º 1 DO ARTIGO 3.º"
+   ],
+   "fragments": [
+    "29b83f5d8473610d",
+    "656934974c59cb4a",
+    "08cfd27bef387812",
+    "728f628b1959f3b8",
+    "eddf06decf4a0796",
+    "ef5bebd7e6c07e91",
+    "2878f2f79a336551",
+    "3ae80b17ba594f55",
+    "67c0d244b2f28881",
+    "ad337187113fa2cc",
+    "9ec59ccd75720487",
+    "d4e3e23b55156107",
+    "4ea761d8df445c44",
+    "1963be31a3d93e59",
+    "81785042741d5a82",
+    "012a2ddf645f15fd",
+    "12bcbce1db5bdf83",
+    "d664376e2a8dcecd",
+    "389d2963c15ad6f5",
+    "cb1eb7c2797cb9fc",
+    "720af75c92791b10",
+    "88071a43033a7fa0",
+    "ca8a9678770354de"
+   ]
+  },
+  {
+   "date": "2019-07-26",
+   "future": false,
+   "celex": "02004L0042-20190726",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1243:por",
+     "title": "REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019",
+     "published": null,
+     "celex": "32019R1243"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 11.º — Adaptação ao progresso técnico",
+    "Altera Artigo 12.º — Comité",
+    "Altera ANEXO II",
+    "Altera Notas",
+    "Adita Artigo 11.º-A — Exercício da delegação"
+   ],
+   "fragments": [
+    "126bf037e6c21db1",
+    "656934974c59cb4a",
+    "f4aa71da0b6db57f",
+    "728f628b1959f3b8",
+    "eddf06decf4a0796",
+    "ef5bebd7e6c07e91",
+    "2878f2f79a336551",
+    "3ae80b17ba594f55",
+    "67c0d244b2f28881",
+    "ad337187113fa2cc",
+    "9ec59ccd75720487",
+    "909c322e8f50ca2a",
+    "ac4155a2ef8ef592",
+    "14ee16743a480eee",
+    "1963be31a3d93e59",
+    "81785042741d5a82",
+    "012a2ddf645f15fd",
+    "12bcbce1db5bdf83",
+    "d664376e2a8dcecd",
+    "389d2963c15ad6f5",
+    "91f8e0ba1c353f14",
+    "720af75c92791b10",
+    "88071a43033a7fa0",
+    "d027384238d5bc67"
+   ]
+  },
+  {
+   "date": "2021-07-16",
+   "future": false,
+   "celex": "02004L0042-20210716",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1020:por",
+     "title": "REGULAMENTO (UE) 2019/1020 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019",
+     "published": null,
+     "celex": "32019R1020"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º-A — Exercício da delegação",
+    "Altera ANEXO II",
+    "Altera Notas",
+    "Suprime Artigo 6.º — Controlo",
+    "Suprime Artigo 7.º — Relatórios"
+   ],
+   "fragments": [
+    "126bf037e6c21db1",
+    "656934974c59cb4a",
+    "f4aa71da0b6db57f",
+    "728f628b1959f3b8",
+    "eddf06decf4a0796",
+    "ef5bebd7e6c07e91",
+    "67c0d244b2f28881",
+    "ad337187113fa2cc",
+    "9ec59ccd75720487",
+    "909c322e8f50ca2a",
+    "21bed65e82898535",
+    "14ee16743a480eee",
+    "7c70c85e9c2da073",
+    "81785042741d5a82",
+    "012a2ddf645f15fd",
+    "12bcbce1db5bdf83",
+    "d664376e2a8dcecd",
+    "389d2963c15ad6f5",
+    "519e6e714a09706a",
+    "720af75c92791b10",
+    "88071a43033a7fa0",
+    "314eb77726b16f37"
+   ]
+  }
+ ],
+ "fragments": {
+  "8c5c5c669f4126a3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2004/42/CE do Parlamento Europeu e do Conselho, de 21 de Abril de 2004, relativa à limitação das emissões de compostos orgânicos voláteis resultantes da utilização de solventes orgânicos em determinadas tintas e vernizes e em produtos de retoque de veículos e que altera a Directiva 1999/13/CE** *Jornal Oficial nº L 143 de 30/04/2004 p. 0087 - 0096*\n\nDirectiva 2004/42/CE do Parlamento Europeu e do Conselho\n\nde 21 de Abril de 2004\n\nrelativa à limitação das emissões de compostos orgânicos voláteis resultantes da utilização de solventes orgânicos em determinadas tintas e vernizes e em produtos de retoque de veículos e que altera a Directiva 1999/13/CE\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu(1),\n\nDeliberando nos termos do artigo 251.o do Tratado(2),\n\nConsiderando o seguinte:\n\n(1) A Directiva 2001/81/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2001, relativa ao estabelecimento de valores-limite nacionais de emissão de determinados poluentes atmosféricos(3), estabelece para 2010 limites nacionais de emissão de certos poluentes, incluindo compostos orgânicos voláteis (a seguir designados \"COV\"), no quadro da estratégia comunitária integrada de combate à acidificação e ao ozono troposférico, mas não fixa valores-limite para as emissões desses poluentes quando provenham de fontes específicas.\n\n(2) A fim de alcançar um limite máximo nacional de emissões de COV, os Estados-Membros deverão visar uma série de diferentes categorias de fontes dessas emissões.\n\n(3) A presente directiva completa as medidas adoptadas a nível nacional para garantir o respeito dos limites máximos de emissões de COV.\n\n(4) Na falta de disposições comunitárias, pode haver discrepâncias na legislação dos Estados-Membros que impõe valores-limite de COV em determinadas categorias de produtos. Essas discrepâncias, juntamente com a inexistência de tal legislação em certos Estados-Membros, poderão criar entraves desnecessários ao comércio e distorções da concorrência no mercado interno.\n\n(5) É necessário portanto harmonizar a legislação e as disposições nacionais que, para efeitos de combate ao ozono troposférico, estabelecem valores-limite para o teor de COV nos produtos abrangidos pela presente directiva, para assegurar que não restrinjam a livre circulação desses produtos.\n\n(6) O objectivo da acção proposta, nomeadamente a redução das emissões de COV, não podem ser suficientemente realizados pelos Estados-Membros, uma vez que as emissões de COV num Estado-Membro influenciam a qualidade do ar noutros Estados-Membros, e podem pois, devido à dimensão e aos efeitos da acção, ser melhor alcançados ao nível comunitário, a Comunidade pode adoptar medidas, em conformidade com o princípio da subsidiariedade consagrado no artigo 5.o do Tratado. De acordo com o princípio da proporcionalidade, consagrado no mesmo artigo, a presente directiva não excede o necessário para se atingir aquele objectivo.\n\n(7) O teor de VOC das tintas, vernizes e produtos de retoque de veículos gera emissões atmosféricas significativas de VOC que contribuem para a formação, a nível local e transfronteiriço, de oxidantes fotoquímicos na tropopausa.\n\n(8) Importa reduzir, tanto quanto técnica e economicamente possível, o conteúdo de COV de certas tintas, vernizes e produtos de retoque de veículos, tendo em conta as condições climáticas.\n\n(9) Um nível elevado de protecção do ambiente exige o estabelecimento e a observância de teores máximos para os COV utilizados em produtos abrangidos pela presente directiva.\n\n(10) Devem ser previstas medidas transitórias para os produtos produzidos antes da entrada em vigor dos requisitos da presente directiva.\n\n(11) Os Estados-Membros devem poder garantir licenças individuais para a compra e venda com fins específicos de quantidades muito limitadas de produtos que não obedeçam aos valores-limite de solventes estabelecidos na presente directiva.\n\n(12) A presente directiva completa as disposições comunitárias sobre a rotulagem de substâncias e preparações químicas.\n\n(13) A protecção da saúde dos trabalhadores e dos consumidores, bem como a do local de trabalho, não deve ser abrangida pelo âmbito de aplicação da presente directiva e as medidas adoptadas pelos Estados-Membros para esses efeitos não deverão ser por ela afectadas.\n\n(14) É necessário controlar os teores máximos para determinar se as concentrações volúmicas de COV presentes em cada categoria de tintas, vernizes e produtos de retoque de veículos abrangidos pela presente directiva se situam dentro dos limites admissíveis.\n\n(15) Como a presente directiva passa a regulamentar o teor de COV dos produtos usados no retoque de determinados veículos, a Directiva 1999/13/CE do Conselho, de 11 de Março de 1999, relativa à limitação das emissões de compostos orgânicos voláteis resultantes da utilização de solventes orgânicos em certas actividades e instalações(4), deverá ser alterada nesse sentido.\n\n(16) No entanto, os Estados-Membros deverão poder manter ou introduzir medidas nacionais para o controlo das emissões resultantes de actividades de retoque de veículos que consistam no revestimento de veículos rodoviários definidos na Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-Membros respeitantes à homologação de veículos a motor e seus reboques(5), ou de partes dos mesmos, efectuadas no contexto da reparação, conservação ou decoração de veículos fora das instalações de produção.\n\n(17) A presente directiva não é aplicável aos produtos vendidos para utilização exclusiva em instalações autorizadas nos termos da Directiva 1999/13/CE onde as medidas de limitação de emissões prevêem alternativas para se atingir uma redução equivalente de emissões de COV.\n\n(18) Os Estados-Membros deverão determinar o regime de sanções aplicáveis em caso de violação da presente directiva e garantir a sua aplicação efectiva. Essas sanções devem ser eficazes, proporcionadas e dissuasivas.\n\n(19) Os Estados-Membros devem apresentar à Comissão um relatório sobre a experiência adquirida na aplicação da presente directiva.\n\n(20) Deve ser feita uma avaliação do objectivo de redução do teor de COV dos produtos que não se integram no âmbito de aplicação da presente directiva e da possibilidade de reduzir ainda mais os valores-limite de COV já previstos.\n\n(21) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(6),\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "3be56dea7c5491ed": {
+   "fragment_id": "Artigo 1.º — Objectivo e âmbito",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo e âmbito\n\n1. A presente directiva tem por objectivo limitar o teor total de COV em determinadas tintas e vernizes e em produtos de retoque de veículos a fim de prevenir ou reduzir a poluição atmosférica resultante do contributo das emissões dos COV para a formação de ozono troposférico.\n\n2. A fim de realizar o objectivo previsto no n.o 1, a presente directiva harmoniza as especificações técnicas de determinadas tintas e vernizes e produtos de retoque de veículos.\n\n3. A presente directiva é aplicável aos produtos enumerados no Anexo I.\n\n4. A presente directiva não prejudica nem afecta as medidas, incluindo os requisitos de rotulagem, tomadas a nível comunitário ou nacional para proteger a saúde dos consumidores e dos trabalhadores e os seus locais de trabalho."
+  },
+  "5f4a4183b6f6c6a9": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. \"Autoridade competente\", a ou as autoridades ou os organismos responsáveis, no quadro do dispositivo legal dos Estados-Membros, pelo cumprimento das obrigações decorrentes da presente directiva;\n\n2. \"Substância\", um elemento químico e seus compostos, no estado natural ou produzido industrialmente, na forma sólida, líquida ou gasosa;\n\n3. \"Preparação\", as misturas e soluções compostas por duas ou mais substâncias;\n\n4. \"Composto orgânico\", um composto que contenha, pelo menos, o elemento carbono e um ou mais dentre os elementos hidrogénio, oxigénio, enxofre, fósforo, silício, azoto ou halogénio, com excepção dos óxidos de carbono e dos carbonatos e bicarbonatos inorgânicos;\n\n5. \"Composto orgânico volátil (COV)\", um composto orgânico cujo ponto de ebulição inicial, à pressão normal de 101,3 kPa, seja inferior ou igual a 250 °C;\n\n6. \"Teor de COV\", a massa de compostos orgânicos voláteis, expressa em gramas por litro (g/l), na formulação do produto pronto a utilizar. A massa de compostos orgânicos voláteis que, num dado produto, reage quimicamente durante a secagem, integrando-se no revestimento, não é considerada como fazendo parte do teor de COV;\n\n7. \"Solvente orgânico\", um COV utilizado, isoladamente ou combinado com outros agentes, para dissolver ou diluir matérias-primas, produtos ou matérias residuais, como agente de limpeza para dissolver contaminantes, como meio de dispersão, para ajustamento da viscosidade ou da tensão superficial, como plastificante ou como conservante;\n\n8. \"Produto de revestimento\", uma preparação, incluindo os solventes orgânicos ou as preparações que contenham os solventes orgânicos necessários à sua devida aplicação, utilizada para aplicar a uma superfície uma película com um efeito decorativo ou protector ou outro efeito funcional;\n\n9. \"Película\", uma camada contínua resultante da aplicação de uma ou mais camadas de revestimento a um substrato;\n\n10. \"Produto de revestimento de base aquosa (BA)\", um produto de revestimento cuja viscosidade seja ajustada por meio de água;\n\n11. \"Produto de revestimento de base solvente (BS)\", um produto de revestimento cuja viscosidade seja ajustada por meio de um solvente orgânico;\n\n12. \"Colocação no mercado\", a disponibilização a terceiros, a título oneroso ou gratuito. Para efeitos da presente directiva, a importação para o território aduaneiro comunitário é entendida como uma colocação no mercado."
+  },
+  "883ccc7563317cda": {
+   "fragment_id": "Artigo 3.º — Requisitos",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos\n\n1. Os Estados-Membros devem garantir que os produtos enumerados no Anexo I só serão comercializados no seu território após as datas indicadas no Anexo II, se o respectivo teor de COV não exceder os valores-limite previstos no Anexo II e se cumprirem o disposto no artigo 4.o.\n\nPara determinar a observância dos valores-limite de teor de COV previstos no Anexo II, devem ser utilizados os métodos analíticos indicados no Anexo III.\n\nEm relação aos produtos enumerados no Anexo I, aos quais é necessário aditar os solventes ou outros componentes que contenham solventes para que o produto esteja pronto a utilizar, os valores-limite constantes do Anexo II devem ser aplicáveis ao teor de COV na formulação do produto pronto a utilizar.\n\n2. Em derrogação do n.o 1, os Estados-Membros devem isentar do cumprimento dos requisitos supramencionados os produtos vendidos para utilização exclusiva numa actividade abrangida pela Directiva 1999/13/CE e executada numa instalação registada ou autorizada nos termos dos seus artigos 3.o e 4.o.\n\n3. Para efeitos de restauro e manutenção de edifícios e veículos de colecção designados pelas autoridades competentes como sendo de especial valor histórico-cultural, os Estados-Membros podem conceder autorizações individuais de compra e venda, em quantidades rigorosamente limitadas, de produtos que não respeitem os valores-limite de COV previstos no Anexo II.\n\n4. Os produtos abrangidos pela presente directiva que se demonstre terem sido produzidos antes das datas indicadas no Anexo II e não preencham os requisitos do n.o 1 podem ser colocados no mercado durante um período de 12 meses a contar da data de entrada em vigor dos requisitos aplicáveis aos produtos em questão."
+  },
+  "eddf06decf4a0796": {
+   "fragment_id": "Artigo 4.º — Rotulagem",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Rotulagem\n\nOs Estados-Membros devem garantir que os produtos enumerados no Anexo I sejam rotulados aquando da sua colocação no mercado. O rótulo deve indicar:\n\na) A subcategoria do produto e os valores-limite pertinentes de COV em g/l, referidos no Anexo II;\n\nb) O teor máximo de COV em g/l do produto pronto a utilizar."
+  },
+  "ef5bebd7e6c07e91": {
+   "fragment_id": "Artigo 5.º — Autoridade competente",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Autoridade competente\n\nOs Estados-Membros devem designar uma autoridade competente responsável pelo cumprimento das obrigações previstas na presente directiva e informar a Comissão desse facto, até de 30 de Abril de 2005."
+  },
+  "2878f2f79a336551": {
+   "fragment_id": "Artigo 6.º — Controlo",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Controlo\n\nOs Estados-Membros devem estabelecer um programa de controlo do cumprimento da presente directiva."
+  },
+  "5b57d1feae296f32": {
+   "fragment_id": "Artigo 7.º — Relatórios",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Relatórios\n\nOs Estados-Membros devem apresentar relatórios sobre os resultados do programa de controlo, para demonstrar o cumprimento da presente directiva, bem como sobre as categorias e quantidades de produtos autorizados ao abrigo do n.o 3 do artigo 3.o. Os dois primeiros relatórios serão apresentados à Comissão 18 meses após as datas fixadas no Anexo II para o cumprimento dos valores-limite de COV; posteriormente, deve ser apresentado um relatório de cinco em cinco anos. A Comissão estabelecerá previamente, nos termos do n.o 2 do artigo 12.o, um modelo comum para a transmissão dos dados de controlo. Os dados anuais serão disponibilizados à Comissão a pedido desta."
+  },
+  "67c0d244b2f28881": {
+   "fragment_id": "Artigo 8.º — Livre circulação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Livre circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Livre circulação\n\nOs Estados-Membros não devem, pela razões previstas na presente directiva, proibir, restringir ou impedir a colocação no mercado dos produtos prontos a utilizar abrangidos pela presente directiva e que satisfaçam os requisitos nela previstos."
+  },
+  "2c3031dbd4ef6a74": {
+   "fragment_id": "Artigo 9.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Avaliação\n\nA Comissão é convidada a apresentar ao Parlamento Europeu e ao Conselho:\n\n1. Até 2008, um relatório baseado nos resultados da revisão a que se refere o artigo 10.o da Directiva 2001/81/CE. O relatório deve analisar:\n\na) O leque de possibilidades e o potencial da redução do teor de COV dos produtos não abrangidos pela presente directiva, incluindo os aerossóis para tintas e vernizes;\n\nb) A possibilidade de introduzir uma nova (fase II) redução do teor de COV dos produtos de retoque de veículos;\n\nc) Quaisquer novos elementos relativos ao impacto socioeconómico da aplicação da fase II prevista para as tintas e vernizes.\n\n2. Até 30 meses após a data de aplicação dos valores-limite para o teor de COV do Anexo II, fase II, um relatório que tome especialmente em consideração os relatórios referidos no artigo 7.o e a eventual evolução tecnológica do fabrico de tintas, vernizes, e produtos de retoque de veículos. Esse relatório deverá analisar as possibilidades de reduzir o teor de COV dos produtos abrangidos pela presente directiva, incluindo a possível distinção entre tintas de interior e tintas de exterior das subcategorias d) e e) dos pontos 1.1 do Anexo I e A do Anexo II.\n\nEstes relatórios serão acompanhados de eventuais propostas de alteração da presente directiva."
+  },
+  "9ec59ccd75720487": {
+   "fragment_id": "Artigo 10.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sanções\n\nOs Estados-Membros determinam o regime de sanções aplicável em caso de violação das disposições nacionais adoptadas ao abrigo da presente directiva e tomam as medidas necessárias à sua aplicação. As sanções previstas devem ser eficazes, proporcionadas e dissuasivas. Os Estados-Membros devem notificar a Comissão dessas disposições até de 30 de Outubro de 2005, bem como de qualquer alteração posterior no mais breve prazo."
+  },
+  "a992119f6696423f": {
+   "fragment_id": "Artigo 11.º — Adaptação ao progresso técnico",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Adaptação ao progresso técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Adaptação ao progresso técnico\n\nAs alterações necessárias à adaptação do Anexo III ao progresso técnico são adoptadas pela Comissão nos termos do n.o 2 do artigo 12.o."
+  },
+  "8abeb2e8501e027e": {
+   "fragment_id": "Artigo 12.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comité\n\n1. A Comissão é assistida pelo Comité instituído pelo artigo 13.o da Directiva 1999/13/CE, a seguir designado por \"Comité\".\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE, tendo em conta o disposto no seu artigo 8.o.\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "6ddc398d9890d96f": {
+   "fragment_id": "Artigo 13.º — Alteração da Directiva 1999/13/CE",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Alteração da Directiva 1999/13/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração da Directiva 1999/13/CE\n\n1. A Directiva 1999/13/CE é alterada do seguinte modo:\n\nNa secção \"Retoque de veículos\" do Anexo I, é suprimido o seguinte travessão:\n\n\"- o revestimento de veículos rodoviários definidos pela Directiva 70/156/CE, partes dos mesmos, efectuadas no contexto da reparação, conservação ou decoração de veículos fora das instalações de produção\".\n\n2. Não obstante o disposto no n.o 1,os Estados-Membros podem manter ou introduzir medidas nacionais para o controlo das emissões resultantes das actividades de retoque de veículos suprimidas do âmbito de aplicação da Directiva 1999/13/CE."
+  },
+  "81785042741d5a82": {
+   "fragment_id": "Artigo 14.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transposição\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até de 30 de Outubro de 2005 e informar imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser dela acompanhadas aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva, bem como um quadro de correspondência entre as disposições da presente directiva e as disposições nacionais aprovadas."
+  },
+  "f2cf7fea6078a470": {
+   "fragment_id": "Artigo 15.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nA presente directiva entra em vigor no dia da sua publicação no Jornal Oficial da União Europeia."
+  },
+  "29cf911aa6e6c2f3": {
+   "fragment_id": "Artigo 16.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Estrasburgo, em 21 de Abril de 2004.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nP. Cox\n\nPelo Conselho\n\nO Presidente\n\nD. Roche\n\n(1) JO C 220 de 16.9.2003, p. 43.\n\n(2) Parecer do Parlamento Europeu de 25 de Setembro de 2003 (ainda não publicado no Jornal Oficial), Posição Comum do Conselho de 7 de Janeiro de 2004 (JO C 79 E de 30.3.2004, p. 1.) e Posição do Parlamento Europeu de 30 de Março de 2004 (ainda não publicada no Jornal Oficial).\n\n(3) JO L 309 de 27.11.2001, p. 22.\n\n(4) JO L 85 de 29.3.1999, p. 1. Directiva com a redacção que lhe foi dada pelo Regulamento (CE) n.o 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1).\n\n(5) JO L 42 de 23.2.1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2004/3/CE do Parlamento Europeu e do Conselho (JO L 49 de 19.2.2004, p. 36).\n\n(6) JO L 184 de 17.7.1999, p.23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "4d41b3da7be01db6": {
+   "fragment_id": "ANEXO I — ÂMBITO",
+   "type": "divisao",
+   "heading": "ANEXO I — ÂMBITO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — ÂMBITO\n\n1. Para efeitos da presente directiva, entende-se por tintas e vernizes os produtos enumerados nas subcategorias infra, com exclusão dos aerossóis. Trata-se de produtos de revestimento para aplicação em edifícios, seus remates e guarnições e estruturas associadas, para fins decorativos, funcionais e protectores.\n\n1.1. Subcategorias:\n\na) \"Tintas mate para paredes e tectos interiores\": produtos de revestimento para aplicação em paredes e tectos interiores, com brilho &lt;= 25@60°.\n\nb) \"Tintas brilhantes para paredes e tectos interiores\": produtos de revestimento para aplicação em paredes e tectos interiores, com brilho &gt; 25@60°.\n\nc) \"Tintas para paredes exteriores de substrato mineral\": produtos de revestimento para aplicação em paredes exteriores de alvenaria, tijolo ou estuque.\n\nd) \"Tintas para remates e painéis interiores/exteriores de madeira, metal ou plástico\":: produtos de revestimento que formam uma película opaca, para aplicação em remates e painéis. Estes produtos destinam-se a substratos de madeira, metal ou plástico. Esta subcategoria inclui subcapas e produtos de revestimento intermédios.\n\ne) \"Vernizes e lasures para remates interiores/exteriores\": produtos de revestimento que formam uma película transparente ou semi-opaca, para aplicação em remates de madeira, metal ou plástico com fins decorativos e protectores. Nesta subcategoria estão incluídas as lasures opacas: produtos de revestimento que formam uma película opaca, para decoração e protecção da madeira contra a intempérie, conforme definido na norma EN 927-1, na categoria semi-estável.\n\nf) \"Lasures com poder de enchimento mínimo\": lasures que, de acordo com a norma EN 927-1:1996, formam uma película de espessura média inferior a 5µm quando ensaiadas pelo método 5A da norma ISO 2808:1997.\n\ng) \"Primários\": produtos de revestimento com propriedades selantes e/ou isolantes para utilização em madeira ou paredes e tectos.\n\nh) \"Primários fixadores\": produtos de revestimento destinados a estabilizar as partículas livres de substratos, a conferir propriedades hidrófobas e/ou a proteger a madeira contra o azulamento.\n\ni) \"Produtos de revestimento de alto desempenho monocomponente\": produtos de alto desempenho à base de material que forma película, para aplicações com funções especiais, nomeadamente capa primária ou de acabamento para plásticos, capa primária para substratos ferrosos ou metais reactivos como o zinco e o alumínio, acabamento anticorrosão, revestimento de pisos, incluindo de madeira e cimento, resistência aos graffiti, retardamento da chama e preservação das normas de higiene da indústria alimentar e dos serviços de saúde.\n\nj) \"Produtos de revestimento de alto desempenho bicomponente\": produtos para as mesmas utilizações dos anteriores, com um segundo componente (e.g. aminas terciárias) adicionado antes da aplicação.\n\nk) \"Produtos de revestimento multicolor\": produtos destinados a conferir efeitos a dois tons ou policromáticos à primeira aplicação.\n\nl) \"Produtos de revestimento de efeito decorativo\": produtos destinados a conferir efeitos estéticos especiais a substratos pré-pintados especialmente preparados ou bases, subsequentemente tratados com vários instrumentos durante a fase de secagem.\n\n2. Para efeitos da presente directiva, entende-se por produtos de retoque de veículos os produtos referidos nas subcategorias infra. São utilizados para o revestimento de veículos rodoviários, tal como definido na Directiva 70/156/CEE, ou de parte deles, efectuado no âmbito de uma reparação, conservação ou decoração de veículo fora das instalações de produção.\n\n2.1. Subcategorias:\n\na) \"Produtos de preparação e limpeza\": produtos destinados a remover revestimentos antigos ou ferrugem mecânica ou quimicamente ou a conferir uma base adequada para a aplicação de novos produtos de revestimento.\n\ni) Produtos de preparação, incluem produtos de aplicação prévia (um produto para limpeza de pistolas (de aplicadores tipo pistola e outros equipamentos), decapantes, desengordurantes (nomeadamente do tipo anti-estático para plástico) e remotores de silicone.\n\nii) Pré-detergente: um produto de limpeza para eliminar as impurezas superficiais no processo de preparação e previamente à aplicação dos produtos de revestimento.\n\nb) \"Enchedores e betumes\": compostos densos para aplicação com pulverizador ou à espátula, destinados a eliminar imperfeições superficiais profundas previamente à aplicação do aparelho.\n\nc) \"Primário\": qualquer produto de revestimento para aplicação em metal nu ou acabamentos existentes, destinado a proporcionar protecção contra a corrosão previamente à aplicação de um primário aparelho.\n\ni) \"Aparelho\": qualquer produto de revestimento para aplicação imediata, prévia ao acabamento, com o fim de promover a resistência à corrosão, assegurar a aderência do acabamento e possibilitar a formação de uma superfície uniforme por eliminação de imperfeições superficiais menores.\n\nii) \"Primários condicionadores\": produtos de revestimento para aplicação como capa primária, nomeadamente promotores de aderência, selantes, betumes, subcapas, primários para plástico, enchedores de aplicação molhado sobre molhado, sem precisão de lixa e enchedores pulverizáveis.\n\niii) \"Pré-primário\": qualquer produto de revestimento que contenha, pelo menos, 0,5 % em massa de ácido fosfórico, para aplicação directa em superfícies de metal nu com o fim de promover a resistência à corrosão e a aderência; produtos de revestimento utilizados como primários soldáveis e soluções mordentes para galvanizados e zinco.\n\nd) \"Acabamento\": qualquer produto de revestimento pigmentado para aplicação em monocamada ou base policamada, destinado a conferir brilho e durabilidade. Inclui todos os produtos de acabamento, como as bases e os vernizes de acabamento:\n\ni) \"Base\": um produto de revestimento pigmentado destinado a conferir a cor ou o efeito óptico desejado, mas não o brilho ou a resistência superficial do esquema de pintura.\n\nii) \"Verniz de acabamento\": um produto de revestimento transparente destinado a conferir o brilho final e as propriedades de resistência do esquema de pintura.\n\ne) \"Acabamentos especiais\": produtos de revestimento para aplicação como acabamentos com propriedades especiais, como efeito metalizado ou nacarado à primeira demão, capa de alto desempenho de cor homogénea ou transparente (e.g. vernizes de acabamento anti-riscos fluorados), base reflectora, acabamento texturado (e.g. martelado), revestimento anti-derrapante, selante para a parte inferior das carroçarias, revestimento anti-gravilha, \"acabamento interior; e aerossóis\"."
+  },
+  "569ba9306e6fabc5": {
+   "fragment_id": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "38ecd649f203840b": {
+   "fragment_id": "ANEXO III — MÉTODOS REFERIDOS NO N.o 1 DO ARTIGO 3.o",
+   "type": "divisao",
+   "heading": "ANEXO III — MÉTODOS REFERIDOS NO N.o 1 DO ARTIGO 3.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — MÉTODOS REFERIDOS NO N.o 1 DO ARTIGO 3.o\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "ca932cc125384b5f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Abril de 2004\n\nrelativa à limitação das emissões de compostos orgânicos voláteis resultantes da utilização de solventes orgânicos em determinadas tintas e vernizes e em produtos de retoque de veículos e que altera a Directiva 1999/13/CE\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/27e691d9-c19e-4c02-b7f4-6a568c59d49b.0018.03/DOC_1#E0001)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/27e691d9-c19e-4c02-b7f4-6a568c59d49b.0018.03/DOC_1#E0002)),\n\n(1) A Directiva 2001/81/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2001, relativa ao estabelecimento de valores-limite nacionais de emissão de determinados poluentes atmosféricos ([^3^](http://publications.europa.eu/resource/cellar/27e691d9-c19e-4c02-b7f4-6a568c59d49b.0018.03/DOC_1#E0003)), estabelece para 2010 limites nacionais de emissão de certos poluentes, incluindo compostos orgânicos voláteis (a seguir designados «COV»), no quadro da estratégia comunitária integrada de combate à acidificação e ao ozono troposférico, mas não fixa valores-limite para as emissões desses poluentes quando provenham de fontes específicas.\n\n(2) A fim de alcançar um limite máximo nacional de emissões de COV, os Estados-Membros deverão visar uma série de diferentes categorias de fontes dessas emissões.\n\n(3) A presente directiva completa as medidas adoptadas a nível nacional para garantir o respeito dos limites máximos de emissões de COV.\n\n(4) Na falta de disposições comunitárias, pode haver discrepâncias na legislação dos Estados-Membros que impõe valores-limite de COV em determinadas categorias de produtos. Essas discrepâncias, juntamente com a inexistência de tal legislação em certos Estados-Membros, poderão criar entraves desnecessários ao comércio e distorções da concorrência no mercado interno.\n\n(5) É necessário portanto harmonizar a legislação e as disposições nacionais que, para efeitos de combate ao ozono troposférico, estabelecem valores-limite para o teor de COV nos produtos abrangidos pela presente directiva, para assegurar que não restrinjam a livre circulação desses produtos.\n\n(6) O objectivo da acção proposta, nomeadamente a redução das emissões de COV, não podem ser suficientemente realizados pelos Estados-Membros, uma vez que as emissões de COV num Estado-Membro influenciam a qualidade do ar noutros Estados-Membros, e podem pois, devido à dimensão e aos efeitos da acção, ser melhor alcançados ao nível comunitário, a Comunidade pode adoptar medidas, em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. De acordo com o princípio da proporcionalidade, consagrado no mesmo artigo, a presente directiva não excede o necessário para se atingir aquele objectivo.\n\n(7) O teor de VOC das tintas, vernizes e produtos de retoque de veículos gera emissões atmosféricas significativas de VOC que contribuem para a formação, a nível local e transfronteiriço, de oxidantes fotoquímicos na tropopausa.\n\n(8) Importa reduzir, tanto quanto técnica e economicamente possível, o conteúdo de COV de certas tintas, vernizes e produtos de retoque de veículos, tendo em conta as condições climáticas.\n\n(9) Um nível elevado de protecção do ambiente exige o estabelecimento e a observância de teores máximos para os COV utilizados em produtos abrangidos pela presente directiva.\n\n(10) Devem ser previstas medidas transitórias para os produtos produzidos antes da entrada em vigor dos requisitos da presente directiva.\n\n(11) Os Estados-Membros devem poder garantir licenças individuais para a compra e venda com fins específicos de quantidades muito limitadas de produtos que não obedeçam aos valores-limite de solventes estabelecidos na presente directiva.\n\n(12) A presente directiva completa as disposições comunitárias sobre a rotulagem de substâncias e preparações químicas.\n\n(13) A protecção da saúde dos trabalhadores e dos consumidores, bem como a do local de trabalho, não deve ser abrangida pelo âmbito de aplicação da presente directiva e as medidas adoptadas pelos Estados-Membros para esses efeitos não deverão ser por ela afectadas.\n\n(14) É necessário controlar os teores máximos para determinar se as concentrações volúmicas de COV presentes em cada categoria de tintas, vernizes e produtos de retoque de veículos abrangidos pela presente directiva se situam dentro dos limites admissíveis.\n\n(15) Como a presente directiva passa a regulamentar o teor de COV dos produtos usados no retoque de determinados veículos, a Directiva 1999/13/CE do Conselho, de 11 de Março de 1999, relativa à limitação das emissões de compostos orgânicos voláteis resultantes da utilização de solventes orgânicos em certas actividades e instalações ([^4^](http://publications.europa.eu/resource/cellar/27e691d9-c19e-4c02-b7f4-6a568c59d49b.0018.03/DOC_1#E0004)), deverá ser alterada nesse sentido.\n\n(16) No entanto, os Estados-Membros deverão poder manter ou introduzir medidas nacionais para o controlo das emissões resultantes de actividades de retoque de veículos que consistam no revestimento de veículos rodoviários definidos na Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-Membros respeitantes à homologação de veículos a motor e seus reboques ([^5^](http://publications.europa.eu/resource/cellar/27e691d9-c19e-4c02-b7f4-6a568c59d49b.0018.03/DOC_1#E0005)), ou de partes dos mesmos, efectuadas no contexto da reparação, conservação ou decoração de veículos fora das instalações de produção.\n\n(17) A presente directiva não é aplicável aos produtos vendidos para utilização exclusiva em instalações autorizadas nos termos da Directiva 1999/13/CE onde as medidas de limitação de emissões prevêem alternativas para se atingir uma redução equivalente de emissões de COV.\n\n(18) Os Estados-Membros deverão determinar o regime de sanções aplicáveis em caso de violação da presente directiva e garantir a sua aplicação efectiva. Essas sanções devem ser eficazes, proporcionadas e dissuasivas.\n\n(19) Os Estados-Membros devem apresentar à Comissão um relatório sobre a experiência adquirida na aplicação da presente directiva.\n\n(20) Deve ser feita uma avaliação do objectivo de redução do teor de COV dos produtos que não se integram no âmbito de aplicação da presente directiva e da possibilidade de reduzir ainda mais os valores-limite de COV já previstos.\n\n(21) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/27e691d9-c19e-4c02-b7f4-6a568c59d49b.0018.03/DOC_1#E0006)),\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "656934974c59cb4a": {
+   "fragment_id": "Artigo 1.º — Objectivo e âmbito",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo e âmbito\n\n1. A presente directiva tem por objectivo limitar o teor total de COV em determinadas tintas e vernizes e em produtos de retoque de veículos a fim de prevenir ou reduzir a poluição atmosférica resultante do contributo das emissões dos COV para a formação de ozono troposférico.\n\n2. A fim de realizar o objectivo previsto no n.º 1, a presente directiva harmoniza as especificações técnicas de determinadas tintas e vernizes e produtos de retoque de veículos.\n\n3. A presente directiva é aplicável aos produtos enumerados no Anexo I.\n\n4. A presente directiva não prejudica nem afecta as medidas, incluindo os requisitos de rotulagem, tomadas a nível comunitário ou nacional para proteger a saúde dos consumidores e dos trabalhadores e os seus locais de trabalho."
+  },
+  "45dc01275952a03b": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Autoridade competente», a ou as autoridades ou os organismos responsáveis, no quadro do dispositivo legal dos Estados-Membros, pelo cumprimento das obrigações decorrentes da presente directiva;\n\n2. «Substância», um elemento químico e seus compostos, no estado natural ou produzido industrialmente, na forma sólida, líquida ou gasosa;\n\n3. «Preparação», as misturas e soluções compostas por duas ou mais substâncias;\n\n4. «Composto orgânico», um composto que contenha, pelo menos, o elemento carbono e um ou mais dentre os elementos hidrogénio, oxigénio, enxofre, fósforo, silício, azoto ou halogénio, com excepção dos óxidos de carbono e dos carbonatos e bicarbonatos inorgânicos;\n\n5. «Composto orgânico volátil (COV)», um composto orgânico cujo ponto de ebulição inicial, à pressão normal de 101,3 kPa, seja inferior ou igual a 250 °C;\n\n6. «Teor de COV», a massa de compostos orgânicos voláteis, expressa em gramas por litro (g/l), na formulação do produto pronto a utilizar. A massa de compostos orgânicos voláteis que, num dado produto, reage quimicamente durante a secagem, integrando-se no revestimento, não é considerada como fazendo parte do teor de COV;\n\n7. «Solvente orgânico», um COV utilizado, isoladamente ou combinado com outros agentes, para dissolver ou diluir matérias-primas, produtos ou matérias residuais, como agente de limpeza para dissolver contaminantes, como meio de dispersão, para ajustamento da viscosidade ou da tensão superficial, como plastificante ou como conservante;\n\n8. «Produto de revestimento», uma preparação, incluindo os solventes orgânicos ou as preparações que contenham os solventes orgânicos necessários à sua devida aplicação, utilizada para aplicar a uma superfície uma película com um efeito decorativo ou protector ou outro efeito funcional;\n\n9. «Película», uma camada contínua resultante da aplicação de uma ou mais camadas de revestimento a um substrato;\n\n10. «Produto de revestimento de base aquosa (BA)», um produto de revestimento cuja viscosidade seja ajustada por meio de água;\n\n11. «Produto de revestimento de base solvente (BS)», um produto de revestimento cuja viscosidade seja ajustada por meio de um solvente orgânico;\n\n12. «Colocação no mercado», a disponibilização a terceiros, a título oneroso ou gratuito. Para efeitos da presente directiva, a importação para o território aduaneiro comunitário é entendida como uma colocação no mercado."
+  },
+  "728f628b1959f3b8": {
+   "fragment_id": "Artigo 3.º — Requisitos",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos\n\n1. Os Estados-Membros devem garantir que os produtos enumerados no Anexo I só serão comercializados no seu território após as datas indicadas no Anexo II, se o respectivo teor de COV não exceder os valores-limite previstos no Anexo II e se cumprirem o disposto no artigo 4.º.\n\nPara determinar a observância dos valores-limite de teor de COV previstos no Anexo II, devem ser utilizados os métodos analíticos indicados no Anexo III.\n\nEm relação aos produtos enumerados no Anexo I, aos quais é necessário aditar os solventes ou outros componentes que contenham solventes para que o produto esteja pronto a utilizar, os valores-limite constantes do Anexo II devem ser aplicáveis ao teor de COV na formulação do produto pronto a utilizar.\n\n2. Em derrogação do n.º 1, os Estados-Membros devem isentar do cumprimento dos requisitos supramencionados os produtos vendidos para utilização exclusiva numa actividade abrangida pela Directiva 1999/13/CE e executada numa instalação registada ou autorizada nos termos dos seus artigos 3.º e 4.º.\n\n3. Para efeitos de restauro e manutenção de edifícios e veículos de colecção designados pelas autoridades competentes como sendo de especial valor histórico-cultural, os Estados-Membros podem conceder autorizações individuais de compra e venda, em quantidades rigorosamente limitadas, de produtos que não respeitem os valores-limite de COV previstos no Anexo II.\n\n4. Os produtos abrangidos pela presente directiva que se demonstre terem sido produzidos antes das datas indicadas no Anexo II e não preencham os requisitos do n.º 1 podem ser colocados no mercado durante um período de 12 meses a contar da data de entrada em vigor dos requisitos aplicáveis aos produtos em questão."
+  },
+  "3ae80b17ba594f55": {
+   "fragment_id": "Artigo 7.º — Relatórios",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Relatórios\n\nOs Estados-Membros devem apresentar relatórios sobre os resultados do programa de controlo, para demonstrar o cumprimento da presente directiva, bem como sobre as categorias e quantidades de produtos autorizados ao abrigo do n.º 3 do artigo 3.º. Os dois primeiros relatórios serão apresentados à Comissão 18 meses após as datas fixadas no Anexo II para o cumprimento dos valores-limite de COV; posteriormente, deve ser apresentado um relatório de cinco em cinco anos. A Comissão estabelecerá previamente, nos termos do n.º 2 do artigo 12.º, um modelo comum para a transmissão dos dados de controlo. Os dados anuais serão disponibilizados à Comissão a pedido desta."
+  },
+  "ad337187113fa2cc": {
+   "fragment_id": "Artigo 9.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Avaliação\n\nA Comissão é convidada a apresentar ao Parlamento Europeu e ao Conselho:\n\n1. Até 2008, um relatório baseado nos resultados da revisão a que se refere o artigo 10.º da Directiva 2001/81/CE. O relatório deve analisar:\n\na) O leque de possibilidades e o potencial da redução do teor de COV dos produtos não abrangidos pela presente directiva, incluindo os aerossóis para tintas e vernizes;\n\nb) A possibilidade de introduzir uma nova (fase II) redução do teor de COV dos produtos de retoque de veículos;\n\nc) Quaisquer novos elementos relativos ao impacto socioeconómico da aplicação da fase II prevista para as tintas e vernizes.\n\n2. Até 30 meses após a data de aplicação dos valores-limite para o teor de COV do Anexo II, fase II, um relatório que tome especialmente em consideração os relatórios referidos no artigo 7.º e a eventual evolução tecnológica do fabrico de tintas, vernizes, e produtos de retoque de veículos. Esse relatório deverá analisar as possibilidades de reduzir o teor de COV dos produtos abrangidos pela presente directiva, incluindo a possível distinção entre tintas de interior e tintas de exterior das subcategorias d) e e) dos pontos 1.1 do Anexo I e A do Anexo II.\n\nEstes relatórios serão acompanhados de eventuais propostas de alteração da presente directiva."
+  },
+  "d4e3e23b55156107": {
+   "fragment_id": "Artigo 11.º — Adaptação ao progresso técnico",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Adaptação ao progresso técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Adaptação ao progresso técnico\n\nA Comissão adaptará o anexo III para ter em conta o progresso técnico. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 12.º."
+  },
+  "4ea761d8df445c44": {
+   "fragment_id": "Artigo 12.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comité\n\n1. A Comissão é assistida pelo Comité instituído pelo artigo 13.º da Directiva 1999/13/CE, a seguir designado por «Comité».\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo em conta o disposto no seu artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "98dc43fbd302abed": {
+   "fragment_id": "Artigo 13.º — Alteração da Directiva 1999/13/CE",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Alteração da Directiva 1999/13/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração da Directiva 1999/13/CE\n\n1. A Directiva 1999/13/CE é alterada do seguinte modo:\n\nNa secção «Retoque de veículos» do Anexo I, é suprimido o seguinte travessão:\n\n«— o revestimento de veículos rodoviários definidos pela Directiva 70/156/CE, partes dos mesmos, efectuadas no contexto da reparação, conservação ou decoração de veículos fora das instalações de produção»\n\n.\n\n2. Não obstante o disposto no n.º 1,os Estados-Membros podem manter ou introduzir medidas nacionais para o controlo das emissões resultantes das actividades de retoque de veículos suprimidas do âmbito de aplicação da Directiva 1999/13/CE."
+  },
+  "012a2ddf645f15fd": {
+   "fragment_id": "Artigo 15.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nA presente directiva entra em vigor no dia da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "12bcbce1db5bdf83": {
+   "fragment_id": "Artigo 16.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "389d2963c15ad6f5": {
+   "fragment_id": "ÂMBITO",
+   "type": "divisao",
+   "heading": "ÂMBITO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ÂMBITO\n\n1. Para efeitos da presente directiva, entende-se por tintas e vernizes os produtos enumerados nas subcategorias infra, com exclusão dos aerossóis. Trata-se de produtos de revestimento para aplicação em edifícios, seus remates e guarnições e estruturas associadas, para fins decorativos, funcionais e protectores. 1.1. Subcategorias: a) «Tintas mate para paredes e tectos interiores»: produtos de revestimento para aplicação em paredes e tectos interiores, com brilho ≤ 25@60°. b) «Tintas brilhantes para paredes e tectos interiores»: produtos de revestimento para aplicação em paredes e tectos interiores, com brilho > 25@60°. c) «Tintas para paredes exteriores de substrato mineral»: produtos de revestimento para aplicação em paredes exteriores de alvenaria, tijolo ou estuque. d) «Tintas para remates e painéis interiores/exteriores de madeira, metal ou plástico»:: produtos de revestimento que formam uma película opaca, para aplicação em remates e painéis. Estes produtos destinam-se a substratos de madeira, metal ou plástico. Esta subcategoria inclui subcapas e produtos de revestimento intermédios. e) «Vernizes e lasures para remates interiores/exteriores»: produtos de revestimento que formam uma película transparente ou semi-opaca, para aplicação em remates de madeira, metal ou plástico com fins decorativos e protectores. Nesta subcategoria estão incluídas as lasures opacas: produtos de revestimento que formam uma película opaca, para decoração e protecção da madeira contra a intempérie, conforme definido na norma EN 927-1, na categoria semi-estável. f) «Lasures com poder de enchimento mínimo»: lasures que, de acordo com a norma EN 927-1:1996, formam uma película de espessura média inferior a 5μm quando ensaiadas pelo método 5A da norma ISO 2808:1997. g) «Primários»: produtos de revestimento com propriedades selantes e/ou isolantes para utilização em madeira ou paredes e tectos. h) «Primários fixadores»: produtos de revestimento destinados a estabilizar as partículas livres de substratos, a conferir propriedades hidrófobas e/ou a proteger a madeira contra o azulamento. i) «Produtos de revestimento de alto desempenho monocomponente»: produtos de alto desempenho à base de material que forma película, para aplicações com funções especiais, nomeadamente capa primária ou de acabamento para plásticos, capa primária para substratos ferrosos ou metais reactivos como o zinco e o alumínio, acabamento anticorrosão, revestimento de pisos, incluindo de madeira e cimento, resistência aos graffiti, retardamento da chama e preservação das normas de higiene da indústria alimentar e dos serviços de saúde. j) «Produtos de revestimento de alto desempenho bicomponente»: produtos para as mesmas utilizações dos anteriores, com um segundo componente (e.g. aminas terciárias) adicionado antes da aplicação. k) «Produtos de revestimento multicolor»: produtos destinados a conferir efeitos a dois tons ou policromáticos à primeira aplicação. l) «Produtos de revestimento de efeito decorativo»: produtos destinados a conferir efeitos estéticos especiais a substratos pré-pintados especialmente preparados ou bases, subsequentemente tratados com vários instrumentos durante a fase de secagem.\n\n1.1. Subcategorias: a) «Tintas mate para paredes e tectos interiores»: produtos de revestimento para aplicação em paredes e tectos interiores, com brilho ≤ 25@60°. b) «Tintas brilhantes para paredes e tectos interiores»: produtos de revestimento para aplicação em paredes e tectos interiores, com brilho > 25@60°. c) «Tintas para paredes exteriores de substrato mineral»: produtos de revestimento para aplicação em paredes exteriores de alvenaria, tijolo ou estuque. d) «Tintas para remates e painéis interiores/exteriores de madeira, metal ou plástico»:: produtos de revestimento que formam uma película opaca, para aplicação em remates e painéis. Estes produtos destinam-se a substratos de madeira, metal ou plástico. Esta subcategoria inclui subcapas e produtos de revestimento intermédios. e) «Vernizes e lasures para remates interiores/exteriores»: produtos de revestimento que formam uma película transparente ou semi-opaca, para aplicação em remates de madeira, metal ou plástico com fins decorativos e protectores. Nesta subcategoria estão incluídas as lasures opacas: produtos de revestimento que formam uma película opaca, para decoração e protecção da madeira contra a intempérie, conforme definido na norma EN 927-1, na categoria semi-estável. f) «Lasures com poder de enchimento mínimo»: lasures que, de acordo com a norma EN 927-1:1996, formam uma película de espessura média inferior a 5μm quando ensaiadas pelo método 5A da norma ISO 2808:1997. g) «Primários»: produtos de revestimento com propriedades selantes e/ou isolantes para utilização em madeira ou paredes e tectos. h) «Primários fixadores»: produtos de revestimento destinados a estabilizar as partículas livres de substratos, a conferir propriedades hidrófobas e/ou a proteger a madeira contra o azulamento. i) «Produtos de revestimento de alto desempenho monocomponente»: produtos de alto desempenho à base de material que forma película, para aplicações com funções especiais, nomeadamente capa primária ou de acabamento para plásticos, capa primária para substratos ferrosos ou metais reactivos como o zinco e o alumínio, acabamento anticorrosão, revestimento de pisos, incluindo de madeira e cimento, resistência aos graffiti, retardamento da chama e preservação das normas de higiene da indústria alimentar e dos serviços de saúde. j) «Produtos de revestimento de alto desempenho bicomponente»: produtos para as mesmas utilizações dos anteriores, com um segundo componente (e.g. aminas terciárias) adicionado antes da aplicação. k) «Produtos de revestimento multicolor»: produtos destinados a conferir efeitos a dois tons ou policromáticos à primeira aplicação. l) «Produtos de revestimento de efeito decorativo»: produtos destinados a conferir efeitos estéticos especiais a substratos pré-pintados especialmente preparados ou bases, subsequentemente tratados com vários instrumentos durante a fase de secagem.\n\na) «Tintas mate para paredes e tectos interiores»: produtos de revestimento para aplicação em paredes e tectos interiores, com brilho ≤ 25@60°.\n\nb) «Tintas brilhantes para paredes e tectos interiores»: produtos de revestimento para aplicação em paredes e tectos interiores, com brilho > 25@60°.\n\nc) «Tintas para paredes exteriores de substrato mineral»: produtos de revestimento para aplicação em paredes exteriores de alvenaria, tijolo ou estuque.\n\nd) «Tintas para remates e painéis interiores/exteriores de madeira, metal ou plástico»:: produtos de revestimento que formam uma película opaca, para aplicação em remates e painéis. Estes produtos destinam-se a substratos de madeira, metal ou plástico. Esta subcategoria inclui subcapas e produtos de revestimento intermédios.\n\ne) «Vernizes e lasures para remates interiores/exteriores»: produtos de revestimento que formam uma película transparente ou semi-opaca, para aplicação em remates de madeira, metal ou plástico com fins decorativos e protectores. Nesta subcategoria estão incluídas as lasures opacas: produtos de revestimento que formam uma película opaca, para decoração e protecção da madeira contra a intempérie, conforme definido na norma EN 927-1, na categoria semi-estável.\n\nf) «Lasures com poder de enchimento mínimo»: lasures que, de acordo com a norma EN 927-1:1996, formam uma película de espessura média inferior a 5μm quando ensaiadas pelo método 5A da norma ISO 2808:1997.\n\ng) «Primários»: produtos de revestimento com propriedades selantes e/ou isolantes para utilização em madeira ou paredes e tectos.\n\nh) «Primários fixadores»: produtos de revestimento destinados a estabilizar as partículas livres de substratos, a conferir propriedades hidrófobas e/ou a proteger a madeira contra o azulamento.\n\ni) «Produtos de revestimento de alto desempenho monocomponente»: produtos de alto desempenho à base de material que forma película, para aplicações com funções especiais, nomeadamente capa primária ou de acabamento para plásticos, capa primária para substratos ferrosos ou metais reactivos como o zinco e o alumínio, acabamento anticorrosão, revestimento de pisos, incluindo de madeira e cimento, resistência aos graffiti, retardamento da chama e preservação das normas de higiene da indústria alimentar e dos serviços de saúde.\n\nj) «Produtos de revestimento de alto desempenho bicomponente»: produtos para as mesmas utilizações dos anteriores, com um segundo componente (e.g. aminas terciárias) adicionado antes da aplicação.\n\nk) «Produtos de revestimento multicolor»: produtos destinados a conferir efeitos a dois tons ou policromáticos à primeira aplicação.\n\nl) «Produtos de revestimento de efeito decorativo»: produtos destinados a conferir efeitos estéticos especiais a substratos pré-pintados especialmente preparados ou bases, subsequentemente tratados com vários instrumentos durante a fase de secagem.\n\n2. Para efeitos da presente directiva, entende-se por produtos de retoque de veículos os produtos referidos nas subcategorias infra. São utilizados para o revestimento de veículos rodoviários, tal como definido na Directiva 70/156/CEE, ou de parte deles, efectuado no âmbito de uma reparação, conservação ou decoração de veículo fora das instalações de produção. 2.1. Subcategorias: a) «Produtos de preparação e limpeza»: produtos destinados a remover revestimentos antigos ou ferrugem mecânica ou quimicamente ou a conferir uma base adequada para a aplicação de novos produtos de revestimento. i) Produtos de preparação, incluem produtos de aplicação prévia (um produto para limpeza de pistolas (de aplicadores tipo pistola e outros equipamentos), decapantes, desengordurantes (nomeadamente do tipo anti-estático para plástico) e remotores de silicone. ii) Pré-detergente: um produto de limpeza para eliminar as impurezas superficiais no processo de preparação e previamente à aplicação dos produtos de revestimento. b) «Enchedores e betumes»: compostos densos para aplicação com pulverizador ou à espátula, destinados a eliminar imperfeições superficiais profundas previamente à aplicação do aparelho. c) «Primário»: qualquer produto de revestimento para aplicação em metal nu ou acabamentos existentes, destinado a proporcionar protecção contra a corrosão previamente à aplicação de um primário aparelho. i) «Aparelho»: qualquer produto de revestimento para aplicação imediata, prévia ao acabamento, com o fim de promover a resistência à corrosão, assegurar a aderência do acabamento e possibilitar a formação de uma superfície uniforme por eliminação de imperfeições superficiais menores. ii) «Primários condicionadores»: produtos de revestimento para aplicação como capa primária, nomeadamente promotores de aderência, selantes, betumes, subcapas, primários para plástico, enchedores de aplicação molhado sobre molhado, sem precisão de lixa e enchedores pulverizáveis. iii) «Pré-primário»: qualquer produto de revestimento que contenha, pelo menos, 0,5 % em massa de ácido fosfórico, para aplicação directa em superfícies de metal nu com o fim de promover a resistência à corrosão e a aderência; produtos de revestimento utilizados como primários soldáveis e soluções mordentes para galvanizados e zinco. d) «Acabamento»: qualquer produto de revestimento pigmentado para aplicação em monocamada ou base policamada, destinado a conferir brilho e durabilidade. Inclui todos os produtos de acabamento, como as bases e os vernizes de acabamento: i) «Base»: um produto de revestimento pigmentado destinado a conferir a cor ou o efeito óptico desejado, mas não o brilho ou a resistência superficial do esquema de pintura. ii) «Verniz de acabamento»: um produto de revestimento transparente destinado a conferir o brilho final e as propriedades de resistência do esquema de pintura. e) «Acabamentos especiais»: produtos de revestimento para aplicação como acabamentos com propriedades especiais, como efeito metalizado ou nacarado à primeira demão, capa de alto desempenho de cor homogénea ou transparente (e.g. vernizes de acabamento anti-riscos fluorados), base reflectora, acabamento texturado (e.g. martelado), revestimento anti-derrapante, selante para a parte inferior das carroçarias, revestimento anti-gravilha, «acabamento interior; e aerossóis».\n\n2.1. Subcategorias: a) «Produtos de preparação e limpeza»: produtos destinados a remover revestimentos antigos ou ferrugem mecânica ou quimicamente ou a conferir uma base adequada para a aplicação de novos produtos de revestimento. i) Produtos de preparação, incluem produtos de aplicação prévia (um produto para limpeza de pistolas (de aplicadores tipo pistola e outros equipamentos), decapantes, desengordurantes (nomeadamente do tipo anti-estático para plástico) e remotores de silicone. ii) Pré-detergente: um produto de limpeza para eliminar as impurezas superficiais no processo de preparação e previamente à aplicação dos produtos de revestimento. b) «Enchedores e betumes»: compostos densos para aplicação com pulverizador ou à espátula, destinados a eliminar imperfeições superficiais profundas previamente à aplicação do aparelho. c) «Primário»: qualquer produto de revestimento para aplicação em metal nu ou acabamentos existentes, destinado a proporcionar protecção contra a corrosão previamente à aplicação de um primário aparelho. i) «Aparelho»: qualquer produto de revestimento para aplicação imediata, prévia ao acabamento, com o fim de promover a resistência à corrosão, assegurar a aderência do acabamento e possibilitar a formação de uma superfície uniforme por eliminação de imperfeições superficiais menores. ii) «Primários condicionadores»: produtos de revestimento para aplicação como capa primária, nomeadamente promotores de aderência, selantes, betumes, subcapas, primários para plástico, enchedores de aplicação molhado sobre molhado, sem precisão de lixa e enchedores pulverizáveis. iii) «Pré-primário»: qualquer produto de revestimento que contenha, pelo menos, 0,5 % em massa de ácido fosfórico, para aplicação directa em superfícies de metal nu com o fim de promover a resistência à corrosão e a aderência; produtos de revestimento utilizados como primários soldáveis e soluções mordentes para galvanizados e zinco. d) «Acabamento»: qualquer produto de revestimento pigmentado para aplicação em monocamada ou base policamada, destinado a conferir brilho e durabilidade. Inclui todos os produtos de acabamento, como as bases e os vernizes de acabamento: i) «Base»: um produto de revestimento pigmentado destinado a conferir a cor ou o efeito óptico desejado, mas não o brilho ou a resistência superficial do esquema de pintura. ii) «Verniz de acabamento»: um produto de revestimento transparente destinado a conferir o brilho final e as propriedades de resistência do esquema de pintura. e) «Acabamentos especiais»: produtos de revestimento para aplicação como acabamentos com propriedades especiais, como efeito metalizado ou nacarado à primeira demão, capa de alto desempenho de cor homogénea ou transparente (e.g. vernizes de acabamento anti-riscos fluorados), base reflectora, acabamento texturado (e.g. martelado), revestimento anti-derrapante, selante para a parte inferior das carroçarias, revestimento anti-gravilha, «acabamento interior; e aerossóis».\n\na) «Produtos de preparação e limpeza»: produtos destinados a remover revestimentos antigos ou ferrugem mecânica ou quimicamente ou a conferir uma base adequada para a aplicação de novos produtos de revestimento. i) Produtos de preparação, incluem produtos de aplicação prévia (um produto para limpeza de pistolas (de aplicadores tipo pistola e outros equipamentos), decapantes, desengordurantes (nomeadamente do tipo anti-estático para plástico) e remotores de silicone. ii) Pré-detergente: um produto de limpeza para eliminar as impurezas superficiais no processo de preparação e previamente à aplicação dos produtos de revestimento.\n\nb) «Enchedores e betumes»: compostos densos para aplicação com pulverizador ou à espátula, destinados a eliminar imperfeições superficiais profundas previamente à aplicação do aparelho.\n\nc) «Primário»: qualquer produto de revestimento para aplicação em metal nu ou acabamentos existentes, destinado a proporcionar protecção contra a corrosão previamente à aplicação de um primário aparelho. i) «Aparelho»: qualquer produto de revestimento para aplicação imediata, prévia ao acabamento, com o fim de promover a resistência à corrosão, assegurar a aderência do acabamento e possibilitar a formação de uma superfície uniforme por eliminação de imperfeições superficiais menores. ii) «Primários condicionadores»: produtos de revestimento para aplicação como capa primária, nomeadamente promotores de aderência, selantes, betumes, subcapas, primários para plástico, enchedores de aplicação molhado sobre molhado, sem precisão de lixa e enchedores pulverizáveis. iii) «Pré-primário»: qualquer produto de revestimento que contenha, pelo menos, 0,5 % em massa de ácido fosfórico, para aplicação directa em superfícies de metal nu com o fim de promover a resistência à corrosão e a aderência; produtos de revestimento utilizados como primários soldáveis e soluções mordentes para galvanizados e zinco.\n\nd) «Acabamento»: qualquer produto de revestimento pigmentado para aplicação em monocamada ou base policamada, destinado a conferir brilho e durabilidade. Inclui todos os produtos de acabamento, como as bases e os vernizes de acabamento: i) «Base»: um produto de revestimento pigmentado destinado a conferir a cor ou o efeito óptico desejado, mas não o brilho ou a resistência superficial do esquema de pintura. ii) «Verniz de acabamento»: um produto de revestimento transparente destinado a conferir o brilho final e as propriedades de resistência do esquema de pintura.\n\ne) «Acabamentos especiais»: produtos de revestimento para aplicação como acabamentos com propriedades especiais, como efeito metalizado ou nacarado à primeira demão, capa de alto desempenho de cor homogénea ou transparente (e.g. vernizes de acabamento anti-riscos fluorados), base reflectora, acabamento texturado (e.g. martelado), revestimento anti-derrapante, selante para a parte inferior das carroçarias, revestimento anti-gravilha, «acabamento interior; e aerossóis»."
+  },
+  "3d579d7eb7792bbe": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nA. TEOR MÁXIMO DE COV PARA AS TINTAS E VERNIZES\n\n|  | Subcategoria de produtos | Tipo | Fase I (g/l [(^1^)](http://publications.europa.eu/resource/cellar/27e691d9-c19e-4c02-b7f4-6a568c59d49b.0018.03/DOC_1#E0007)) (a partir de 1.1.2007) | Fase II (g/l [(^1^)](http://publications.europa.eu/resource/cellar/27e691d9-c19e-4c02-b7f4-6a568c59d49b.0018.03/DOC_1#E0007)) (a partir de 1.1.2010) |\n| --- | --- | --- | --- | --- |\n| a | Tintas mate para paredes e tectos interiores (brilho < 25@60°) | BA | 75 | 30 |\n| BS | 400 | 30 |  |  |\n| b | Tintas brilhantes para paredes e tectos interiores (brilho > 25@60°) | BA | 150 | 100 |\n| BS | 400 | 100 |  |  |\n| c | Tintas para paredes exteriores de substrato mineral | BA | 75 | 40 |\n| BS | 450 | 430 |  |  |\n| d | Tintas para remates e painéis interiores/exteriores de madeira ou metal | BA | 150 | 130 |\n| BS | 400 | 300 |  |  |\n| e | Vernizes e lasures para remates interiores/exteriores, incluindo lasures opacas | BA | 150 | 130 |\n| BS | 500 | 400 |  |  |\n| f | Lasures com poder de enchimento mínimo para interiores e exteriores | BA | 150 | 130 |\n| BS | 700 | 700 |  |  |\n| g | Primários | BA | 50 | 30 |\n| BS | 450 | 350 |  |  |\n| h | Primários fixadores | BA | 50 | 30 |\n| BS | 750 | 750 |  |  |\n| i | Produtos de revestimento de alto desempenho monocomponente | BA | 140 | 140 |\n| BS | 600 | 500 |  |  |\n| j | Produtos de revestimento reactivos de alto desempenho bicomponente para utilizações finais específicas, nomeadamente em pisos | BA | 140 | 140 |\n| BS | 550 | 500 |  |  |\n| k | Produtos de revestimento multicolor | BA | 150 | 100 |\n| BS | 400 | 100 |  |  |\n| l | Produtos de revestimento de efeito decorativo | BA | 300 | 200 |\n| BS | 500 | 200 |  |  |\n| (^1^)g/l no produto pronto a utilizar |  |  |  |  |\n\nB. TEOR MÁXIMO DE COV PARA OS PRODUTOS DE RETOQUE DE VEÍCULOS\n\n|  | Subcategoria de produtos | Produtos de revestimento | COV (g/l [(^1^)](http://publications.europa.eu/resource/cellar/27e691d9-c19e-4c02-b7f4-6a568c59d49b.0018.03/DOC_1#E0008) (1.1.2007) |\n| --- | --- | --- | --- |\n| a | Produtos de preparação e limpeza | Produtos de preparação | 850 |\n| Pré-detergente | 200 |  |  |\n| b | Enchedor e betume | Todos os tipos | 250 |\n| c | Primários | Aparelhos e Primários condicionadores | 540 |\n| Pré-primários | 780 |  |  |\n| d | Acabamentos | Todos os tipos | 420 |\n| e | Acabamentos especiais | Todos os tipos | 840 |\n| (^1^)g/l no produto pronto a utilizar. Excepto para a subcategoria a) o teor de água do produto pronto a utilizar não deve ser tomado em consideração. |  |  |  |"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "8139a45fc2155e0f": {
+   "fragment_id": "MÉTODOS REFERIDOS NO N.º 1 DO ARTIGO 3.º",
+   "type": "divisao",
+   "heading": "MÉTODOS REFERIDOS NO N.º 1 DO ARTIGO 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MÉTODOS REFERIDOS NO N.º 1 DO ARTIGO 3.º\n\n| Parâmetro | Unidade | Teste |  |\n| --- | --- | --- | --- |\n| Método | Data de publicação |  |  |\n| Teor de COV | g/l | ISO 11890-2 | 2002 |\n| Teor de COV quando estiverem presentes diluentes reactivos | g/l | ASTMD 2369 | 2003 |\n\n---"
+  },
+  "f598856f7da8ffc4": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/27e691d9-c19e-4c02-b7f4-6a568c59d49b.0018.03/DOC_1#src.E0001)) JO C 220 de 16.9.2003, p. 43.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/27e691d9-c19e-4c02-b7f4-6a568c59d49b.0018.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 25 de Setembro de 2003 (ainda não publicado no Jornal Oficial), Posição Comum do Conselho de 7 de Janeiro de 2004 (JO C 79 E de 30.3.2004, p. 1.) e Posição do Parlamento Europeu de 30 de Março de 2004 (ainda não publicada no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/27e691d9-c19e-4c02-b7f4-6a568c59d49b.0018.03/DOC_1#src.E0003)) JO L 309 de 27.11.2001, p. 22.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/27e691d9-c19e-4c02-b7f4-6a568c59d49b.0018.03/DOC_1#src.E0004)) JO L 85 de 29.3.1999, p. 1. Directiva com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/27e691d9-c19e-4c02-b7f4-6a568c59d49b.0018.03/DOC_1#src.E0005)) JO L 42 de 23.2.1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2004/3/CE do Parlamento Europeu e do Conselho (JO L 49 de 19.2.2004, p. 36).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/27e691d9-c19e-4c02-b7f4-6a568c59d49b.0018.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p.23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "259504050002f967": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Abril de 2004\n\nrelativa à limitação das emissões de compostos orgânicos voláteis resultantes da utilização de solventes orgânicos em determinadas tintas e vernizes e em produtos de retoque de veículos e que altera a Directiva 1999/13/CE\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/d51a8ae6-37ac-450a-8f33-48aae8cf3350.0018.03/DOC_1#E0001)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/d51a8ae6-37ac-450a-8f33-48aae8cf3350.0018.03/DOC_1#E0002)),\n\n(1) A Directiva 2001/81/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2001, relativa ao estabelecimento de valores-limite nacionais de emissão de determinados poluentes atmosféricos ([^3^](http://publications.europa.eu/resource/cellar/d51a8ae6-37ac-450a-8f33-48aae8cf3350.0018.03/DOC_1#E0003)), estabelece para 2010 limites nacionais de emissão de certos poluentes, incluindo compostos orgânicos voláteis (a seguir designados «COV»), no quadro da estratégia comunitária integrada de combate à acidificação e ao ozono troposférico, mas não fixa valores-limite para as emissões desses poluentes quando provenham de fontes específicas.\n\n(2) A fim de alcançar um limite máximo nacional de emissões de COV, os Estados-Membros deverão visar uma série de diferentes categorias de fontes dessas emissões.\n\n(3) A presente directiva completa as medidas adoptadas a nível nacional para garantir o respeito dos limites máximos de emissões de COV.\n\n(4) Na falta de disposições comunitárias, pode haver discrepâncias na legislação dos Estados-Membros que impõe valores-limite de COV em determinadas categorias de produtos. Essas discrepâncias, juntamente com a inexistência de tal legislação em certos Estados-Membros, poderão criar entraves desnecessários ao comércio e distorções da concorrência no mercado interno.\n\n(5) É necessário portanto harmonizar a legislação e as disposições nacionais que, para efeitos de combate ao ozono troposférico, estabelecem valores-limite para o teor de COV nos produtos abrangidos pela presente directiva, para assegurar que não restrinjam a livre circulação desses produtos.\n\n(6) O objectivo da acção proposta, nomeadamente a redução das emissões de COV, não podem ser suficientemente realizados pelos Estados-Membros, uma vez que as emissões de COV num Estado-Membro influenciam a qualidade do ar noutros Estados-Membros, e podem pois, devido à dimensão e aos efeitos da acção, ser melhor alcançados ao nível comunitário, a Comunidade pode adoptar medidas, em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. De acordo com o princípio da proporcionalidade, consagrado no mesmo artigo, a presente directiva não excede o necessário para se atingir aquele objectivo.\n\n(7) O teor de VOC das tintas, vernizes e produtos de retoque de veículos gera emissões atmosféricas significativas de VOC que contribuem para a formação, a nível local e transfronteiriço, de oxidantes fotoquímicos na tropopausa.\n\n(8) Importa reduzir, tanto quanto técnica e economicamente possível, o conteúdo de COV de certas tintas, vernizes e produtos de retoque de veículos, tendo em conta as condições climáticas.\n\n(9) Um nível elevado de protecção do ambiente exige o estabelecimento e a observância de teores máximos para os COV utilizados em produtos abrangidos pela presente directiva.\n\n(10) Devem ser previstas medidas transitórias para os produtos produzidos antes da entrada em vigor dos requisitos da presente directiva.\n\n(11) Os Estados-Membros devem poder garantir licenças individuais para a compra e venda com fins específicos de quantidades muito limitadas de produtos que não obedeçam aos valores-limite de solventes estabelecidos na presente directiva.\n\n(12) A presente directiva completa as disposições comunitárias sobre a rotulagem de substâncias e preparações químicas.\n\n(13) A protecção da saúde dos trabalhadores e dos consumidores, bem como a do local de trabalho, não deve ser abrangida pelo âmbito de aplicação da presente directiva e as medidas adoptadas pelos Estados-Membros para esses efeitos não deverão ser por ela afectadas.\n\n(14) É necessário controlar os teores máximos para determinar se as concentrações volúmicas de COV presentes em cada categoria de tintas, vernizes e produtos de retoque de veículos abrangidos pela presente directiva se situam dentro dos limites admissíveis.\n\n(15) Como a presente directiva passa a regulamentar o teor de COV dos produtos usados no retoque de determinados veículos, a Directiva 1999/13/CE do Conselho, de 11 de Março de 1999, relativa à limitação das emissões de compostos orgânicos voláteis resultantes da utilização de solventes orgânicos em certas actividades e instalações ([^4^](http://publications.europa.eu/resource/cellar/d51a8ae6-37ac-450a-8f33-48aae8cf3350.0018.03/DOC_1#E0004)), deverá ser alterada nesse sentido.\n\n(16) No entanto, os Estados-Membros deverão poder manter ou introduzir medidas nacionais para o controlo das emissões resultantes de actividades de retoque de veículos que consistam no revestimento de veículos rodoviários definidos na Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-Membros respeitantes à homologação de veículos a motor e seus reboques ([^5^](http://publications.europa.eu/resource/cellar/d51a8ae6-37ac-450a-8f33-48aae8cf3350.0018.03/DOC_1#E0005)), ou de partes dos mesmos, efectuadas no contexto da reparação, conservação ou decoração de veículos fora das instalações de produção.\n\n(17) A presente directiva não é aplicável aos produtos vendidos para utilização exclusiva em instalações autorizadas nos termos da Directiva 1999/13/CE onde as medidas de limitação de emissões prevêem alternativas para se atingir uma redução equivalente de emissões de COV.\n\n(18) Os Estados-Membros deverão determinar o regime de sanções aplicáveis em caso de violação da presente directiva e garantir a sua aplicação efectiva. Essas sanções devem ser eficazes, proporcionadas e dissuasivas.\n\n(19) Os Estados-Membros devem apresentar à Comissão um relatório sobre a experiência adquirida na aplicação da presente directiva.\n\n(20) Deve ser feita uma avaliação do objectivo de redução do teor de COV dos produtos que não se integram no âmbito de aplicação da presente directiva e da possibilidade de reduzir ainda mais os valores-limite de COV já previstos.\n\n(21) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/d51a8ae6-37ac-450a-8f33-48aae8cf3350.0018.03/DOC_1#E0006)),\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "08cfd27bef387812": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Autoridade competente», a ou as autoridades ou os organismos responsáveis, no quadro do dispositivo legal dos Estados-Membros, pelo cumprimento das obrigações decorrentes da presente directiva;\n\n2. «Substância», um elemento químico e seus compostos, no estado natural ou produzido industrialmente, na forma sólida, líquida ou gasosa;\n\n3. [**►M2**](http://publications.europa.eu/resource/celex/32008L0112) «mistura»**◄**, as misturas e soluções compostas por duas ou mais substâncias;\n\n4. «Composto orgânico», um composto que contenha, pelo menos, o elemento carbono e um ou mais dentre os elementos hidrogénio, oxigénio, enxofre, fósforo, silício, azoto ou halogénio, com excepção dos óxidos de carbono e dos carbonatos e bicarbonatos inorgânicos;\n\n5. «Composto orgânico volátil (COV)», um composto orgânico cujo ponto de ebulição inicial, à pressão normal de 101,3 kPa, seja inferior ou igual a 250 °C;\n\n6. «Teor de COV», a massa de compostos orgânicos voláteis, expressa em gramas por litro (g/l), na formulação do produto pronto a utilizar. A massa de compostos orgânicos voláteis que, num dado produto, reage quimicamente durante a secagem, integrando-se no revestimento, não é considerada como fazendo parte do teor de COV;\n\n7. «Solvente orgânico», um COV utilizado, isoladamente ou combinado com outros agentes, para dissolver ou diluir matérias-primas, produtos ou matérias residuais, como agente de limpeza para dissolver contaminantes, como meio de dispersão, para ajustamento da viscosidade ou da tensão superficial, como plastificante ou como conservante;\n\n8. «Produto de revestimento», uma [**►M2**](http://publications.europa.eu/resource/celex/32008L0112) mistura**◄**, incluindo os solventes orgânicos ou as [**►M2**](http://publications.europa.eu/resource/celex/32008L0112) mistura **◄**que contenham os solventes orgânicos necessários à sua devida aplicação, utilizada para aplicar a uma superfície uma película com um efeito decorativo ou protector ou outro efeito funcional;\n\n9. «Película», uma camada contínua resultante da aplicação de uma ou mais camadas de revestimento a um substrato;\n\n10. «Produto de revestimento de base aquosa (BA)», um produto de revestimento cuja viscosidade seja ajustada por meio de água;\n\n11. «Produto de revestimento de base solvente (BS)», um produto de revestimento cuja viscosidade seja ajustada por meio de um solvente orgânico;\n\n12. «Colocação no mercado», a disponibilização a terceiros, a título oneroso ou gratuito. Para efeitos da presente directiva, a importação para o território aduaneiro comunitário é entendida como uma colocação no mercado."
+  },
+  "c3d87d7e97cc11be": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nA. TEOR MÁXIMO DE COV PARA AS TINTAS E VERNIZES\n\n|  | Subcategoria de produtos | Tipo | Fase I (g/l [(^1^)](http://publications.europa.eu/resource/cellar/d51a8ae6-37ac-450a-8f33-48aae8cf3350.0018.03/DOC_1#E0007)) (a partir de 1.1.2007) | Fase II (g/l [(^1^)](http://publications.europa.eu/resource/cellar/d51a8ae6-37ac-450a-8f33-48aae8cf3350.0018.03/DOC_1#E0007)) (a partir de 1.1.2010) |\n| --- | --- | --- | --- | --- |\n| a | Tintas mate para paredes e tectos interiores (brilho < 25@60°) | BA | 75 | 30 |\n| BS | 400 | 30 |  |  |\n| b | Tintas brilhantes para paredes e tectos interiores (brilho > 25@60°) | BA | 150 | 100 |\n| BS | 400 | 100 |  |  |\n| c | Tintas para paredes exteriores de substrato mineral | BA | 75 | 40 |\n| BS | 450 | 430 |  |  |\n| d | Tintas para remates e painéis interiores/exteriores de madeira ou metal | BA | 150 | 130 |\n| BS | 400 | 300 |  |  |\n| e | Vernizes e lasures para remates interiores/exteriores, incluindo lasures opacas | BA | 150 | 130 |\n| BS | 500 | 400 |  |  |\n| f | Lasures com poder de enchimento mínimo para interiores e exteriores | BA | 150 | 130 |\n| BS | 700 | 700 |  |  |\n| g | Primários | BA | 50 | 30 |\n| BS | 450 | 350 |  |  |\n| h | Primários fixadores | BA | 50 | 30 |\n| BS | 750 | 750 |  |  |\n| i | Produtos de revestimento de alto desempenho monocomponente | BA | 140 | 140 |\n| BS | 600 | 500 |  |  |\n| j | Produtos de revestimento reactivos de alto desempenho bicomponente para utilizações finais específicas, nomeadamente em pisos | BA | 140 | 140 |\n| BS | 550 | 500 |  |  |\n| k | Produtos de revestimento multicolor | BA | 150 | 100 |\n| BS | 400 | 100 |  |  |\n| l | Produtos de revestimento de efeito decorativo | BA | 300 | 200 |\n| BS | 500 | 200 |  |  |\n| (^1^)g/l no produto pronto a utilizar |  |  |  |  |\n\nB. TEOR MÁXIMO DE COV PARA OS PRODUTOS DE RETOQUE DE VEÍCULOS\n\n|  | Subcategoria de produtos | Produtos de revestimento | COV (g/l [(^1^)](http://publications.europa.eu/resource/cellar/d51a8ae6-37ac-450a-8f33-48aae8cf3350.0018.03/DOC_1#E0008) (1.1.2007) |\n| --- | --- | --- | --- |\n| a | Produtos de preparação e limpeza | Produtos de preparação | 850 |\n| Pré-detergente | 200 |  |  |\n| b | Enchedor e betume | Todos os tipos | 250 |\n| c | Primários | Aparelhos e Primários condicionadores | 540 |\n| Pré-primários | 780 |  |  |\n| d | Acabamentos | Todos os tipos | 420 |\n| e | Acabamentos especiais | Todos os tipos | 840 |\n| (^1^)g/l no produto pronto a utilizar. Excepto para a subcategoria a) o teor de água do produto pronto a utilizar não deve ser tomado em consideração. |  |  |  |"
+  },
+  "fda387b54785111b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d51a8ae6-37ac-450a-8f33-48aae8cf3350.0018.03/DOC_1#src.E0001)) JO C 220 de 16.9.2003, p. 43.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d51a8ae6-37ac-450a-8f33-48aae8cf3350.0018.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 25 de Setembro de 2003 (ainda não publicado no Jornal Oficial), Posição Comum do Conselho de 7 de Janeiro de 2004 (JO C 79 E de 30.3.2004, p. 1.) e Posição do Parlamento Europeu de 30 de Março de 2004 (ainda não publicada no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/d51a8ae6-37ac-450a-8f33-48aae8cf3350.0018.03/DOC_1#src.E0003)) JO L 309 de 27.11.2001, p. 22.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/d51a8ae6-37ac-450a-8f33-48aae8cf3350.0018.03/DOC_1#src.E0004)) JO L 85 de 29.3.1999, p. 1. Directiva com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/d51a8ae6-37ac-450a-8f33-48aae8cf3350.0018.03/DOC_1#src.E0005)) JO L 42 de 23.2.1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2004/3/CE do Parlamento Europeu e do Conselho (JO L 49 de 19.2.2004, p. 36).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/d51a8ae6-37ac-450a-8f33-48aae8cf3350.0018.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p.23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "29b83f5d8473610d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Abril de 2004\n\nrelativa à limitação das emissões de compostos orgânicos voláteis resultantes da utilização de solventes orgânicos em determinadas tintas e vernizes e em produtos de retoque de veículos e que altera a Directiva 1999/13/CE\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/918180e2-3a9c-40f4-9b43-6986a35ce833.0018.03/DOC_1#E0001)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/918180e2-3a9c-40f4-9b43-6986a35ce833.0018.03/DOC_1#E0002)),\n\n(1) A Directiva 2001/81/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2001, relativa ao estabelecimento de valores-limite nacionais de emissão de determinados poluentes atmosféricos ([^3^](http://publications.europa.eu/resource/cellar/918180e2-3a9c-40f4-9b43-6986a35ce833.0018.03/DOC_1#E0003)), estabelece para 2010 limites nacionais de emissão de certos poluentes, incluindo compostos orgânicos voláteis (a seguir designados «COV»), no quadro da estratégia comunitária integrada de combate à acidificação e ao ozono troposférico, mas não fixa valores-limite para as emissões desses poluentes quando provenham de fontes específicas.\n\n(2) A fim de alcançar um limite máximo nacional de emissões de COV, os Estados-Membros deverão visar uma série de diferentes categorias de fontes dessas emissões.\n\n(3) A presente directiva completa as medidas adoptadas a nível nacional para garantir o respeito dos limites máximos de emissões de COV.\n\n(4) Na falta de disposições comunitárias, pode haver discrepâncias na legislação dos Estados-Membros que impõe valores-limite de COV em determinadas categorias de produtos. Essas discrepâncias, juntamente com a inexistência de tal legislação em certos Estados-Membros, poderão criar entraves desnecessários ao comércio e distorções da concorrência no mercado interno.\n\n(5) É necessário portanto harmonizar a legislação e as disposições nacionais que, para efeitos de combate ao ozono troposférico, estabelecem valores-limite para o teor de COV nos produtos abrangidos pela presente directiva, para assegurar que não restrinjam a livre circulação desses produtos.\n\n(6) O objectivo da acção proposta, nomeadamente a redução das emissões de COV, não podem ser suficientemente realizados pelos Estados-Membros, uma vez que as emissões de COV num Estado-Membro influenciam a qualidade do ar noutros Estados-Membros, e podem pois, devido à dimensão e aos efeitos da acção, ser melhor alcançados ao nível comunitário, a Comunidade pode adoptar medidas, em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. De acordo com o princípio da proporcionalidade, consagrado no mesmo artigo, a presente directiva não excede o necessário para se atingir aquele objectivo.\n\n(7) O teor de VOC das tintas, vernizes e produtos de retoque de veículos gera emissões atmosféricas significativas de VOC que contribuem para a formação, a nível local e transfronteiriço, de oxidantes fotoquímicos na tropopausa.\n\n(8) Importa reduzir, tanto quanto técnica e economicamente possível, o conteúdo de COV de certas tintas, vernizes e produtos de retoque de veículos, tendo em conta as condições climáticas.\n\n(9) Um nível elevado de protecção do ambiente exige o estabelecimento e a observância de teores máximos para os COV utilizados em produtos abrangidos pela presente directiva.\n\n(10) Devem ser previstas medidas transitórias para os produtos produzidos antes da entrada em vigor dos requisitos da presente directiva.\n\n(11) Os Estados-Membros devem poder garantir licenças individuais para a compra e venda com fins específicos de quantidades muito limitadas de produtos que não obedeçam aos valores-limite de solventes estabelecidos na presente directiva.\n\n(12) A presente directiva completa as disposições comunitárias sobre a rotulagem de substâncias e preparações químicas.\n\n(13) A protecção da saúde dos trabalhadores e dos consumidores, bem como a do local de trabalho, não deve ser abrangida pelo âmbito de aplicação da presente directiva e as medidas adoptadas pelos Estados-Membros para esses efeitos não deverão ser por ela afectadas.\n\n(14) É necessário controlar os teores máximos para determinar se as concentrações volúmicas de COV presentes em cada categoria de tintas, vernizes e produtos de retoque de veículos abrangidos pela presente directiva se situam dentro dos limites admissíveis.\n\n(15) Como a presente directiva passa a regulamentar o teor de COV dos produtos usados no retoque de determinados veículos, a Directiva 1999/13/CE do Conselho, de 11 de Março de 1999, relativa à limitação das emissões de compostos orgânicos voláteis resultantes da utilização de solventes orgânicos em certas actividades e instalações ([^4^](http://publications.europa.eu/resource/cellar/918180e2-3a9c-40f4-9b43-6986a35ce833.0018.03/DOC_1#E0004)), deverá ser alterada nesse sentido.\n\n(16) No entanto, os Estados-Membros deverão poder manter ou introduzir medidas nacionais para o controlo das emissões resultantes de actividades de retoque de veículos que consistam no revestimento de veículos rodoviários definidos na Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-Membros respeitantes à homologação de veículos a motor e seus reboques ([^5^](http://publications.europa.eu/resource/cellar/918180e2-3a9c-40f4-9b43-6986a35ce833.0018.03/DOC_1#E0005)), ou de partes dos mesmos, efectuadas no contexto da reparação, conservação ou decoração de veículos fora das instalações de produção.\n\n(17) A presente directiva não é aplicável aos produtos vendidos para utilização exclusiva em instalações autorizadas nos termos da Directiva 1999/13/CE onde as medidas de limitação de emissões prevêem alternativas para se atingir uma redução equivalente de emissões de COV.\n\n(18) Os Estados-Membros deverão determinar o regime de sanções aplicáveis em caso de violação da presente directiva e garantir a sua aplicação efectiva. Essas sanções devem ser eficazes, proporcionadas e dissuasivas.\n\n(19) Os Estados-Membros devem apresentar à Comissão um relatório sobre a experiência adquirida na aplicação da presente directiva.\n\n(20) Deve ser feita uma avaliação do objectivo de redução do teor de COV dos produtos que não se integram no âmbito de aplicação da presente directiva e da possibilidade de reduzir ainda mais os valores-limite de COV já previstos.\n\n(21) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/918180e2-3a9c-40f4-9b43-6986a35ce833.0018.03/DOC_1#E0006)),\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "1963be31a3d93e59": {
+   "fragment_id": "Artigo 13.º — Alteração da Directiva 1999/13/CE",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Alteração da Directiva 1999/13/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração da Directiva 1999/13/CE\n\n1. A Directiva 1999/13/CE é alterada do seguinte modo:\n\nNa secção «Retoque de veículos» do Anexo I, é suprimido o seguinte travessão:\n\n«— o revestimento de veículos rodoviários definidos pela Directiva 70/156/CE, partes dos mesmos, efectuadas no contexto da reparação, conservação ou decoração de veículos fora das instalações de produção».\n\n2. Não obstante o disposto no n.º 1,os Estados-Membros podem manter ou introduzir medidas nacionais para o controlo das emissões resultantes das actividades de retoque de veículos suprimidas do âmbito de aplicação da Directiva 1999/13/CE."
+  },
+  "cb1eb7c2797cb9fc": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nA. TEOR MÁXIMO DE COV PARA AS TINTAS E VERNIZES\n\n|  | Subcategoria de produtos | Tipo | Fase I (g/l [(^1^)](http://publications.europa.eu/resource/cellar/918180e2-3a9c-40f4-9b43-6986a35ce833.0018.03/DOC_1#E0007)) (a partir de 1.1.2007) | Fase II (g/l [(^1^)](http://publications.europa.eu/resource/cellar/918180e2-3a9c-40f4-9b43-6986a35ce833.0018.03/DOC_1#E0007)) (a partir de 1.1.2010) |\n| --- | --- | --- | --- | --- |\n| a | Tintas mate para paredes e tectos interiores (brilho < 25@60°) | BA | 75 | 30 |\n| BS | 400 | 30 |  |  |\n| b | Tintas brilhantes para paredes e tectos interiores (brilho > 25@60°) | BA | 150 | 100 |\n| BS | 400 | 100 |  |  |\n| c | Tintas para paredes exteriores de substrato mineral | BA | 75 | 40 |\n| BS | 450 | 430 |  |  |\n| d | Tintas para remates e painéis interiores/exteriores de madeira ou metal | BA | 150 | 130 |\n| BS | 400 | 300 |  |  |\n| e | Vernizes e lasures para remates interiores/exteriores, incluindo lasures opacas | BA | 150 | 130 |\n| BS | 500 | 400 |  |  |\n| f | Lasures com poder de enchimento mínimo para interiores e exteriores | BA | 150 | 130 |\n| BS | 700 | 700 |  |  |\n| g | Primários | BA | 50 | 30 |\n| BS | 450 | 350 |  |  |\n| h | Primários fixadores | BA | 50 | 30 |\n| BS | 750 | 750 |  |  |\n| i | Produtos de revestimento de alto desempenho monocomponente | BA | 140 | 140 |\n| BS | 600 | 500 |  |  |\n| j | Produtos de revestimento reactivos de alto desempenho bicomponente para utilizações finais específicas, nomeadamente em pisos | BA | 140 | 140 |\n| BS | 550 | 500 |  |  |\n| k | Produtos de revestimento multicolor | BA | 150 | 100 |\n| BS | 400 | 100 |  |  |\n| l | Produtos de revestimento de efeito decorativo | BA | 300 | 200 |\n| BS | 500 | 200 |  |  |\n| (^1^)g/l no produto pronto a utilizar |  |  |  |  |\n\nB. TEOR MÁXIMO DE COV PARA OS PRODUTOS DE RETOQUE DE VEÍCULOS\n\n|  | Subcategoria de produtos | Produtos de revestimento | COV (g/l [(^1^)](http://publications.europa.eu/resource/cellar/918180e2-3a9c-40f4-9b43-6986a35ce833.0018.03/DOC_1#E0008) (1.1.2007) |\n| --- | --- | --- | --- |\n| a | Produtos de preparação e limpeza | Produtos de preparação | 850 |\n| Pré-detergente | 200 |  |  |\n| b | Enchedor e betume | Todos os tipos | 250 |\n| c | Primários | Aparelhos e Primários condicionadores | 540 |\n| Pré-primários | 780 |  |  |\n| d | Acabamentos | Todos os tipos | 420 |\n| e | Acabamentos especiais | Todos os tipos | 840 |\n| (^1^)g/l no produto pronto a utilizar. Excepto para a subcategoria a) o teor de água do produto pronto a utilizar não deve ser tomado em consideração. |  |  |  |"
+  },
+  "88071a43033a7fa0": {
+   "fragment_id": "MÉTODOS REFERIDOS NO ARTIGO 3.º, N.º 1",
+   "type": "divisao",
+   "heading": "MÉTODOS REFERIDOS NO ARTIGO 3.º, N.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MÉTODOS REFERIDOS NO ARTIGO 3.º, N.º 1\n\nMétodo autorizado para produtos com teor ponderal de COV inferior a 15 % quando não estão presentes diluentes reactivos:\n\n| Parâmetro | Unidade | Ensaio |  |\n| --- | --- | --- | --- |\n| Método | Data de publicação |  |  |\n| Teor de COV | g/l | ISO 11890-2 | 2006 |\n\nMétodos autorizados para produtos com teor ponderal de COV igual ou superior a 15 % quando não estão presentes diluentes reactivos:\n\n| Parâmetro | Unidade | Ensaio |  |\n| --- | --- | --- | --- |\n| Método | Data de publicação |  |  |\n| Teor de COV | g/l | ISO 11890-1 | 2007 |\n| Teor de COV | g/l | ISO 11890-2 | 2006 |\n\nMétodo autorizado para produtos que contenham COV quando estão presentes diluentes reactivos:\n\n| Parâmetro | Unidade | Ensaio |  |\n| --- | --- | --- | --- |\n| Método | Data de publicação |  |  |\n| Teor de COV | g/l | ASTMD 2369 | 2003 |\n\n---"
+  },
+  "ca8a9678770354de": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/918180e2-3a9c-40f4-9b43-6986a35ce833.0018.03/DOC_1#src.E0001)) JO C 220 de 16.9.2003, p. 43.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/918180e2-3a9c-40f4-9b43-6986a35ce833.0018.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 25 de Setembro de 2003 (ainda não publicado no Jornal Oficial), Posição Comum do Conselho de 7 de Janeiro de 2004 (JO C 79 E de 30.3.2004, p. 1.) e Posição do Parlamento Europeu de 30 de Março de 2004 (ainda não publicada no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/918180e2-3a9c-40f4-9b43-6986a35ce833.0018.03/DOC_1#src.E0003)) JO L 309 de 27.11.2001, p. 22.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/918180e2-3a9c-40f4-9b43-6986a35ce833.0018.03/DOC_1#src.E0004)) JO L 85 de 29.3.1999, p. 1. Directiva com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/918180e2-3a9c-40f4-9b43-6986a35ce833.0018.03/DOC_1#src.E0005)) JO L 42 de 23.2.1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2004/3/CE do Parlamento Europeu e do Conselho (JO L 49 de 19.2.2004, p. 36).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/918180e2-3a9c-40f4-9b43-6986a35ce833.0018.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p.23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "126bf037e6c21db1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Abril de 2004\n\nrelativa à limitação das emissões de compostos orgânicos voláteis resultantes da utilização de solventes orgânicos em determinadas tintas e vernizes e em produtos de retoque de veículos e que altera a Directiva 1999/13/CE"
+  },
+  "f4aa71da0b6db57f": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Autoridade competente», a ou as autoridades ou os organismos responsáveis, no quadro do dispositivo legal dos Estados-Membros, pelo cumprimento das obrigações decorrentes da presente directiva;\n\n2. «Substância», um elemento químico e seus compostos, no estado natural ou produzido industrialmente, na forma sólida, líquida ou gasosa;\n\n3. [**►M2**](http://publications.europa.eu/resource/celex/32008L0112) «mistura»**◄**, as misturas e soluções compostas por duas ou mais substâncias;\n\n4. «Composto orgânico», um composto que contenha, pelo menos, o elemento carbono e um ou mais dentre os elementos hidrogénio, oxigénio, enxofre, fósforo, silício, azoto ou halogénio, com excepção dos óxidos de carbono e dos carbonatos e bicarbonatos inorgânicos;\n\n5. «Composto orgânico volátil (COV)», um composto orgânico cujo ponto de ebulição inicial, à pressão normal de 101,3 kPa, seja inferior ou igual a 250 °C;\n\n6. «Teor de COV», a massa de compostos orgânicos voláteis, expressa em gramas por litro (g/l), na formulação do produto pronto a utilizar. A massa de compostos orgânicos voláteis que, num dado produto, reage quimicamente durante a secagem, integrando-se no revestimento, não é considerada como fazendo parte do teor de COV;\n\n7. «Solvente orgânico», um COV utilizado, isoladamente ou combinado com outros agentes, para dissolver ou diluir matérias-primas, produtos ou matérias residuais, como agente de limpeza para dissolver contaminantes, como meio de dispersão, para ajustamento da viscosidade ou da tensão superficial, como plastificante ou como conservante;\n\n8. «Produto de revestimento», uma [**►M2**](http://publications.europa.eu/resource/celex/32008L0112) mistura**◄**, incluindo os solventes orgânicos ou as [**►M2**](http://publications.europa.eu/resource/celex/32008L0112) mistura**◄** que contenham os solventes orgânicos necessários à sua devida aplicação, utilizada para aplicar a uma superfície uma película com um efeito decorativo ou protector ou outro efeito funcional;\n\n9. «Película», uma camada contínua resultante da aplicação de uma ou mais camadas de revestimento a um substrato;\n\n10. «Produto de revestimento de base aquosa (BA)», um produto de revestimento cuja viscosidade seja ajustada por meio de água;\n\n11. «Produto de revestimento de base solvente (BS)», um produto de revestimento cuja viscosidade seja ajustada por meio de um solvente orgânico;\n\n12. «Colocação no mercado», a disponibilização a terceiros, a título oneroso ou gratuito. Para efeitos da presente directiva, a importação para o território aduaneiro comunitário é entendida como uma colocação no mercado."
+  },
+  "909c322e8f50ca2a": {
+   "fragment_id": "Artigo 11.º — Adaptação ao progresso técnico",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Adaptação ao progresso técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Adaptação ao progresso técnico\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 11.º-A a fim de alterar o anexo III para o adaptar ao progresso técnico."
+  },
+  "ac4155a2ef8ef592": {
+   "fragment_id": "Artigo 11.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 11.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 11.º é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 11.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^1^](http://publications.europa.eu/resource/cellar/a64edc50-ebd8-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 11.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "14ee16743a480eee": {
+   "fragment_id": "Artigo 12.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comité\n\n1. A Comissão é assistida pelo Comité instituído pelo artigo 13.º da Directiva 1999/13/CE, a seguir designado por «Comité».\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo em conta o disposto no seu artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses."
+  },
+  "91f8e0ba1c353f14": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nA. TEOR MÁXIMO DE COV PARA AS TINTAS E VERNIZES\n\n|  | Subcategoria de produtos | Tipo | Fase I (g/l [(^1^)](http://publications.europa.eu/resource/cellar/a64edc50-ebd8-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0002)) (a partir de 1.1.2007) | Fase II (g/l [(^1^)](http://publications.europa.eu/resource/cellar/a64edc50-ebd8-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0002)) (a partir de 1.1.2010) |\n| --- | --- | --- | --- | --- |\n| a | Tintas mate para paredes e tectos interiores (brilho < 25@60°) | BA | 75 | 30 |\n| BS | 400 | 30 |  |  |\n| b | Tintas brilhantes para paredes e tectos interiores (brilho > 25@60°) | BA | 150 | 100 |\n| BS | 400 | 100 |  |  |\n| c | Tintas para paredes exteriores de substrato mineral | BA | 75 | 40 |\n| BS | 450 | 430 |  |  |\n| d | Tintas para remates e painéis interiores/exteriores de madeira ou metal | BA | 150 | 130 |\n| BS | 400 | 300 |  |  |\n| e | Vernizes e lasures para remates interiores/exteriores, incluindo lasures opacas | BA | 150 | 130 |\n| BS | 500 | 400 |  |  |\n| f | Lasures com poder de enchimento mínimo para interiores e exteriores | BA | 150 | 130 |\n| BS | 700 | 700 |  |  |\n| g | Primários | BA | 50 | 30 |\n| BS | 450 | 350 |  |  |\n| h | Primários fixadores | BA | 50 | 30 |\n| BS | 750 | 750 |  |  |\n| i | Produtos de revestimento de alto desempenho monocomponente | BA | 140 | 140 |\n| BS | 600 | 500 |  |  |\n| j | Produtos de revestimento reactivos de alto desempenho bicomponente para utilizações finais específicas, nomeadamente em pisos | BA | 140 | 140 |\n| BS | 550 | 500 |  |  |\n| k | Produtos de revestimento multicolor | BA | 150 | 100 |\n| BS | 400 | 100 |  |  |\n| l | Produtos de revestimento de efeito decorativo | BA | 300 | 200 |\n| BS | 500 | 200 |  |  |\n| (^*1^)g/l no produto pronto a utilizar |  |  |  |  |\n\nB. TEOR MÁXIMO DE COV PARA OS PRODUTOS DE RETOQUE DE VEÍCULOS\n\n|  | Subcategoria de produtos | Produtos de revestimento | COV (g/l [(^1^)](http://publications.europa.eu/resource/cellar/a64edc50-ebd8-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0003) (1.1.2007) |\n| --- | --- | --- | --- |\n| a | Produtos de preparação e limpeza | Produtos de preparação | 850 |\n| Pré-detergente | 200 |  |  |\n| b | Enchedor e betume | Todos os tipos | 250 |\n| c | Primários | Aparelhos e Primários condicionadores | 540 |\n| Pré-primários | 780 |  |  |\n| d | Acabamentos | Todos os tipos | 420 |\n| e | Acabamentos especiais | Todos os tipos | 840 |\n| (^*1^)g/l no produto pronto a utilizar. Excepto para a subcategoria a) o teor de água do produto pronto a utilizar não deve ser tomado em consideração. |  |  |  |"
+  },
+  "d027384238d5bc67": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a64edc50-ebd8-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 123 de 12.5.2016, p. 1."
+  },
+  "21bed65e82898535": {
+   "fragment_id": "Artigo 11.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 11.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 11.º é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 11.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^1^](http://publications.europa.eu/resource/cellar/05b98c9c-de78-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0001)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 11.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "7c70c85e9c2da073": {
+   "fragment_id": "Artigo 13.º — Alteração da Directiva 1999/13/CE",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Alteração da Directiva 1999/13/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração da Directiva 1999/13/CE\n\n1. A Directiva 1999/13/CE é alterada do seguinte modo:\n\nNa secção «Retoque de veículos» do Anexo I, é suprimido o seguinte travessão:\n\n—\n\n«— o revestimento de veículos rodoviários definidos pela Directiva 70/156/CE, partes dos mesmos, efectuadas no contexto da reparação, conservação ou decoração de veículos fora das instalações de produção».\n\n2. Não obstante o disposto no n.º 1,os Estados-Membros podem manter ou introduzir medidas nacionais para o controlo das emissões resultantes das actividades de retoque de veículos suprimidas do âmbito de aplicação da Directiva 1999/13/CE."
+  },
+  "519e6e714a09706a": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nA. TEOR MÁXIMO DE COV PARA AS TINTAS E VERNIZES\n\n|  | Subcategoria de produtos | Tipo | Fase I (g/l [(^*1^)](http://publications.europa.eu/resource/cellar/05b98c9c-de78-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0002)) (a partir de 1.1.2007) | Fase II (g/l [(^*1^)](http://publications.europa.eu/resource/cellar/05b98c9c-de78-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0002)) (a partir de 1.1.2010) |\n| --- | --- | --- | --- | --- |\n| a | Tintas mate para paredes e tectos interiores (brilho < 25@60°) | BA | 75 | 30 |\n| BS | 400 | 30 |  |  |\n| b | Tintas brilhantes para paredes e tectos interiores (brilho > 25@60°) | BA | 150 | 100 |\n| BS | 400 | 100 |  |  |\n| c | Tintas para paredes exteriores de substrato mineral | BA | 75 | 40 |\n| BS | 450 | 430 |  |  |\n| d | Tintas para remates e painéis interiores/exteriores de madeira ou metal | BA | 150 | 130 |\n| BS | 400 | 300 |  |  |\n| e | Vernizes e lasures para remates interiores/exteriores, incluindo lasures opacas | BA | 150 | 130 |\n| BS | 500 | 400 |  |  |\n| f | Lasures com poder de enchimento mínimo para interiores e exteriores | BA | 150 | 130 |\n| BS | 700 | 700 |  |  |\n| g | Primários | BA | 50 | 30 |\n| BS | 450 | 350 |  |  |\n| h | Primários fixadores | BA | 50 | 30 |\n| BS | 750 | 750 |  |  |\n| i | Produtos de revestimento de alto desempenho monocomponente | BA | 140 | 140 |\n| BS | 600 | 500 |  |  |\n| j | Produtos de revestimento reactivos de alto desempenho bicomponente para utilizações finais específicas, nomeadamente em pisos | BA | 140 | 140 |\n| BS | 550 | 500 |  |  |\n| k | Produtos de revestimento multicolor | BA | 150 | 100 |\n| BS | 400 | 100 |  |  |\n| l | Produtos de revestimento de efeito decorativo | BA | 300 | 200 |\n| BS | 500 | 200 |  |  |\n| (^*1^) g/l no produto pronto a utilizar |  |  |  |  |\n\nB. TEOR MÁXIMO DE COV PARA OS PRODUTOS DE RETOQUE DE VEÍCULOS\n\n|  | Subcategoria de produtos | Produtos de revestimento | COV (g/l [(^*1^)](http://publications.europa.eu/resource/cellar/05b98c9c-de78-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0003) (1.1.2007) |\n| --- | --- | --- | --- |\n| a | Produtos de preparação e limpeza | Produtos de preparação | 850 |\n| Pré-detergente | 200 |  |  |\n| b | Enchedor e betume | Todos os tipos | 250 |\n| c | Primários | Aparelhos e Primários condicionadores | 540 |\n| Pré-primários | 780 |  |  |\n| d | Acabamentos | Todos os tipos | 420 |\n| e | Acabamentos especiais | Todos os tipos | 840 |\n| (^*1^) g/l no produto pronto a utilizar. Excepto para a subcategoria a) o teor de água do produto pronto a utilizar não deve ser tomado em consideração. |  |  |  |"
+  },
+  "314eb77726b16f37": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/05b98c9c-de78-11eb-895a-01aa75ed71a1.0019.02/DOC_1#src.E0001)) JO L 123 de 12.5.2016, p. 1."
+  }
+ }
+}

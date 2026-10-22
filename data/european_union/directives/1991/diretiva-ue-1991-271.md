@@ -33,6 +33,64 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: diretiva-ue-1991-271.versoes.json
+  count: 3
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '1991-05-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-11'
+    amending: eu:celex:31998L0015:por
+    amending_title: DIRECTIVA 98/15/CE DA COMISSÃO Texto relevante para efeitos do EEE de 27 de Fevereiro de 1998; REGULAMENTO
+      (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003; REGULAMENTO (CE) N. o 1137/2008 DO
+      PARLAMENTO EUROPEU E DO CONSELHO DE 22 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Adita ANEXO I
+    - Adita REQUISITOS DE TRATAMENTO DAS ÁGUAS RESIDUAIS URBANAS
+    - Adita A. Sistemas colectores ([^6^](http://publications.europa.eu/resource/cellar/74c73415-316a-4f19-a0a6-860698289217.0018.03/DOC_1#E0006))
+    - Adita B. Descarga das estações de tratamento de águas residuais urbanas nas águas receptoras ([^7^](http://publications.europa.eu/resource/cellar/74c73415-316a-4f19-a0a6-860698289217.0018.03/DOC_1#E0007))
+    - Adita C. Águas residuais industriais
+    - Adita D. Métodos de referência para o controlo e a avaliação dos resultados
+    - Adita ANEXO II
+    - Adita CRITÉRIOS DE IDENTIFICAÇÃO DAS ZONAS SENSÍVEIS E MENOS SENSÍVEIS
+    - Adita A. Zonas sensíveis
+    - Adita B. Zonas menos sensíveis
+    - Adita ANEXO III
+    - Adita SECTORES INDUSTRIAIS
+    - Adita Notas
+  - date: '2014-01-01'
+    amending: eu:celex:32013L0064:por
+    amending_title: Diretiva 2013/64/UE do Conselho de 17 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera D. Métodos de referência para o controlo e a avaliação dos resultados
+    - Altera A. Zonas sensíveis
+    - Altera Notas
+    - Adita A. Sistemas colectores ([^6^](http://publications.europa.eu/resource/cellar/8fe6a8dc-c62e-44e1-881d-fb2d37a676d3.0014.03/DOC_1#E0006))
+    - Adita B. Descarga das estações de tratamento de águas residuais urbanas nas águas receptoras [(6)](http://publications.europa.eu/resource/cellar/8fe6a8dc-c62e-44e1-881d-fb2d37a676d3.0014.03/DOC_1#E0006)
+    - Suprime A. Sistemas colectores ([^6^](http://publications.europa.eu/resource/cellar/74c73415-316a-4f19-a0a6-860698289217.0018.03/DOC_1#E0006))
+    - Suprime B. Descarga das estações de tratamento de águas residuais urbanas nas águas receptoras ([^7^](http://publications.europa.eu/resource/cellar/74c73415-316a-4f19-a0a6-860698289217.0018.03/DOC_1#E0007))
 identifiers:
   celex: 31991L0271
   eli: http://data.europa.eu/eli/dir/1991/271/oj
@@ -47,7 +105,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/34860b42-95cc-4a57-b998-2e445d5befa9.0011
   content_url: http://publications.europa.eu/resource/cellar/8fe6a8dc-c62e-44e1-881d-fb2d37a676d3.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0271-20140101
-  retrieved_at: '2026-10-22T02:35:48Z'
+  retrieved_at: '2026-10-22T14:38:46Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:17:50.259+02:00'
 integrity:
@@ -56,9 +114,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:48Z'
-  notes: Texto consolidado 01991L0271-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:38:46Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1991-271.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -251,32 +309,21 @@ relationships:
   source: null
 article_structure:
   article_count: 20
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:48Z'
-  warnings: []
+  checked_at: '2026-10-22T14:38:46Z'
+  warnings:
+  - '01991L0271-19980327: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0271-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 91/271/CEE do Conselho, de 21 de Maio de 1991
-
-> 1991L0271 — PT — 01.01.2014 — 004.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/31998L0015) — [Directiva 98/15/CE da Comissão Texto relevante para efeitos do EEE de 27 de Fevereiro de 1998](http://publications.europa.eu/resource/celex/31998L0015) — L 67 — 29 — 7.3.1998
-- [►M2](http://publications.europa.eu/resource/celex/32003R1882) — [Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
-- [►M3](http://publications.europa.eu/resource/celex/32008R1137) — [Regulamento (CE) n.º 1137/2008 do Parlamento Europeu e do Conselho de 22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [►M4](http://publications.europa.eu/resource/celex/32013L0064) — [Diretiva 2013/64/UE do Conselho de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013L0064) — L 353 — 8 — 28.12.2013
-
-## DIRECTIVA DO CONSELHO
 
 de 21 de Maio de 1991
 

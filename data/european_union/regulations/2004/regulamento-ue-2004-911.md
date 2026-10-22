@@ -35,6 +35,79 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-04-21'
+version_history:
+  file: regulamento-ue-2004-911.versoes.json
+  count: 5
+  source_lastmod: '2021-04-21'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1792:por
+    amending_title: REGULAMENTO (CE) N. o 1792/2006 DA COMISSÃO de 23 de Outubro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 12.º
+    - Altera ANEXO I
+    - Adita CAPÍTULO I
+    - Adita MARCAS AURICULARES
+    - Adita Artigo 1.º
+    - Adita CAPÍTULO II
+    - Adita PASSAPORTES E REGISTOS DAS EXPLORAÇÕES
+    - Adita Artigo 6.º
+    - Adita CAPÍTULO III
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita Artigo 11.º
+    - Adita ANEXO II
+    - Adita Notas
+    - Suprime CAPÍTULO I MARCAS AURICULARES — Artigo 1.o
+    - Suprime CAPÍTULO II PASSAPORTES E REGISTOS DAS EXPLORAÇÕES — Artigo 6.o
+    - Suprime CAPÍTULO III DISPOSIÇÕES FINAIS — Artigo 11.o
+    - Suprime ANEXO II — QUADRO DE CORRESPONDÊNCIA
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0519:por
+    amending_title: REGULAMENTO (UE) N. o 519/2013 DA COMISSÃO de 21 de fevereiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera ANEXO I
+    - Altera Notas
+  - date: '2017-06-23'
+    amending: eu:celex:32017R0949:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2017/949 DA COMISSÃO de 2 de junho de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Notas
+    - Suprime ANEXO I
+  - date: '2021-04-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime MARCAS AURICULARES
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime CAPÍTULO II
+    - Suprime PASSAPORTES E REGISTOS DAS EXPLORAÇÕES
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime CAPÍTULO III
+    - Suprime DISPOSIÇÕES FINAIS
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime ANEXO II
+    - Suprime Notas
 identifiers:
   celex: 32004R0911
   eli: http://data.europa.eu/eli/reg/2004/911/oj
@@ -49,7 +122,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5e5da94b-2f26-4c47-ac4b-81bed90b40ab.0010
   content_url: http://publications.europa.eu/resource/cellar/36b315aa-b300-11eb-8aca-01aa75ed71a1.0008.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0911-20210421
-  retrieved_at: '2026-10-22T02:51:59Z'
+  retrieved_at: '2026-10-22T14:58:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-31T10:08:58.271+01:00'
 integrity:
@@ -58,9 +131,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:59Z'
-  notes: Texto consolidado 02004R0911-20210421.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:58:48Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2004-911.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -137,16 +210,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:59Z'
+  checked_at: '2026-10-22T14:58:48Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02004R0911-20040501: versão indisponível (Sem expressão na língua por para CELEX 02004R0911-20040501.)'
   errors: []
 ---
 

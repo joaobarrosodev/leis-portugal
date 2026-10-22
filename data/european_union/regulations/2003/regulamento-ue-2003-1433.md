@@ -34,6 +34,145 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-01-01'
+version_history:
+  file: regulamento-ue-2003-1433.versoes.json
+  count: 6
+  source_lastmod: '2008-01-01'
+  versions:
+  - date: '2003-08-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-09-11'
+    amending: eu:celex:32003R1582:por
+    amending_title: REGULAMENTO (CE) N. o 1582/2003 DA COMISSÃO de 10 de Setembro de 2003
+    changes:
+    - Altera preambulo
+    - Altera Artigo 20.º — Adiantamentos
+    - Altera Artigo 24.º — Reembolsos e sanções
+    - Altera Artigo 28.º — Disposições transitórias
+    - Altera Artigo 29.º — Entrada em vigor
+    - Adita CAPÍTULO I
+    - Adita OBJECTO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Adita Artigo 1.º — Objecto e âmbito de aplicação
+    - Adita CAPÍTULO II
+    - Adita VALOR DA PRODUÇÃO COMERCIALIZADA
+    - Adita Artigo 3.º — Base de cálculo
+    - Adita CAPÍTULO III
+    - Adita FUNDOS OPERACIONAIS
+    - Adita Artigo 5.º — Gestão
+    - Adita CAPÍTULO IV
+    - Adita PROGRAMAS OPERACIONAIS
+    - Adita Artigo 8.º — Teor dos programas operacionais
+    - Adita CAPÍTULO V
+    - Adita AJUDA
+    - Adita Artigo 17.º — Montante da ajuda aprovado
+    - Adita CAPÍTULO VI
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita Artigo 22.º — Relatórios das organizações de produtores
+    - Adita CAPÍTULO VII
+    - Adita REVOGAÇÃO E DISPOSIÇÕES FINAIS
+    - Adita Artigo 27.º — Revogação
+    - Adita ANEXO I
+    - Adita Teor facultativo dos programas operacionais
+    - Adita ANEXO II
+    - Adita Acções e despesas não elegíveis
+    - Adita ANEXO III
+    - Adita REQUISITOS RELATIVOS ÀS INFORMAÇÕES QUE OS ESTADOS-MEMBROS DEVEM COMUNICAR
+    - Adita Dados que devem ser comunicados pelos Estados-Membros à Comissão em conformidade com os modelos fornecidos pela
+      Comissão
+    - Adita Notas
+    - Suprime CAPÍTULO I OBJECTO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES — Artigo 1.o
+    - Suprime CAPÍTULO II VALOR DA PRODUÇÃO COMERCIALIZADA — Artigo 3.o
+    - Suprime CAPÍTULO III FUNDOS OPERACIONAIS — Artigo 5.o
+    - Suprime CAPÍTULO IV PROGRAMAS OPERACIONAIS — Artigo 8.o
+    - Suprime CAPÍTULO V AJUDA — Artigo 17.o
+    - Suprime CAPÍTULO VI DISPOSIÇÕES GERAIS — Artigo 22.o
+  - date: '2004-10-23'
+    amending: eu:celex:32004R1813:por
+    amending_title: REGULAMENTO (CE) N. o 1813/2004 DA COMISSÃO de 19 de Outubro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Gestão
+    - Altera Artigo 17.º — Montante da ajuda aprovado
+    - Altera Artigo 20.º — Adiantamentos
+    - Altera Artigo 24.º — Reembolsos e sanções
+    - Altera Artigo 26.º — Comunicações dos Estados-Membros
+    - Altera Teor facultativo dos programas operacionais
+    - Altera Acções e despesas não elegíveis
+    - 'Altera Parte 3: Controlos, recuperação e sanções'
+    - Altera Notas
+  - date: '2004-12-24'
+    amending: eu:celex:32004R2190:por
+    amending_title: REGULAMENTO(CE) N. o 2190/2004 DA COMISSÃO de 20 de Dezembro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Gestão
+    - Altera Artigo 11.º — Prazo para a apresentação
+    - Altera Artigo 13.º — Decisão
+    - Altera Artigo 14.º — Alterações dos programas operacionais para os anos seguintes
+    - Altera Artigo 16.º — Estrutura dos programas operacionais
+    - Altera Artigo 17.º — Montante da ajuda aprovado
+    - Altera Artigo 20.º — Adiantamentos
+    - Altera Artigo 24.º — Reembolsos e sanções
+    - Altera Teor facultativo dos programas operacionais
+    - Altera Acções e despesas não elegíveis
+    - Altera Notas
+  - date: '2006-04-11'
+    amending: eu:celex:32006R0576:por
+    amending_title: REGULAMENTO (CE) N. o 576/2006 DA COMISSÃO de 7 de Abril de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Gestão
+    - Altera Artigo 20.º — Adiantamentos
+    - Altera Artigo 24.º — Reembolsos e sanções
+    - Altera Teor facultativo dos programas operacionais
+    - Altera Acções e despesas não elegíveis
+    - Altera Notas
+  - date: '2008-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime OBJECTO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime VALOR DA PRODUÇÃO COMERCIALIZADA
+    - Suprime Artigo 3.º — Base de cálculo
+    - Suprime Artigo 4.º — Período de referência
+    - Suprime CAPÍTULO III
+    - Suprime FUNDOS OPERACIONAIS
+    - Suprime Artigo 5.º — Gestão
+    - Suprime Artigo 6.º — Financiamento dos fundos operacionais
+    - Suprime Artigo 7.º — Comunicação do montante previsional
+    - Suprime CAPÍTULO IV
+    - Suprime PROGRAMAS OPERACIONAIS
+    - Suprime Artigo 8.º — Teor dos programas operacionais
+    - Suprime Artigo 9.º — Documentos a apresentar
+    - Suprime Artigo 10.º — Programas operacionais parciais
+    - Suprime Artigo 11.º — Prazo para a apresentação
+    - Suprime Artigo 12.º — Verificação
+    - Suprime Artigo 13.º — Decisão
+    - Suprime Artigo 14.º — Alterações dos programas operacionais para os anos seguintes
+    - Suprime Artigo 15.º — Alterações dos programas operacionais durante o ano em curso
+    - Suprime Artigo 16.º — Estrutura dos programas operacionais
+    - Suprime CAPÍTULO V
+    - Suprime AJUDA
+    - Suprime Artigo 17.º — Montante da ajuda aprovado
+    - Suprime Artigo 18.º — Pedidos
+    - Suprime Artigo 19.º — Pagamento da ajuda
+    - Suprime Artigo 20.º — Adiantamentos
+    - Suprime Artigo 21.º — Pagamentos parciais
+    - Suprime CAPÍTULO VI
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 22.º — Relatórios das organizações de produtores
+    - Suprime Artigo 23.º — Controlos
+    - Suprime Artigo 24.º — Reembolsos e sanções
+    - Suprime Artigo 25.º — Disposições relativas aos Estados-Membros
+    - Suprime Artigo 26.º — Comunicações dos Estados-Membros
+    - Suprime CAPÍTULO VII
 identifiers:
   celex: 32003R1433
   eli: http://data.europa.eu/eli/reg/2003/1433/oj
@@ -48,7 +187,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b44f2609-0d94-4922-ad61-e0909aad693e.0010
   content_url: http://publications.europa.eu/resource/cellar/937e0c38-e03c-4835-9559-80e599f52a35.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R1433-20080101
-  retrieved_at: '2026-10-22T02:45:09Z'
+  retrieved_at: '2026-10-22T14:55:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T07:56:42.704+01:00'
 integrity:
@@ -57,9 +196,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:09Z'
-  notes: Texto consolidado 02003R1433-20080101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:44Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2003-1433.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -168,16 +307,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:09Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:55:44Z'
+  warnings: []
   errors: []
 ---
 

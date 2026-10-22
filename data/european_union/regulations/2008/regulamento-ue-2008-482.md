@@ -37,6 +37,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-01-02'
+version_history:
+  file: regulamento-ue-2008-482.versoes.json
+  count: 3
+  source_lastmod: '2020-01-02'
+  versions:
+  - date: '2008-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-11-07'
+    amending: eu:celex:32011R1035:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1035/2011 DA COMISSÃO de 17 de Outubro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos gerais de segurança
+    - Altera Artigo 4.º — Requisitos aplicáveis ao sistema de garantia de segurança do software
+    - Altera Artigo 7.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Requisitos aplicáveis ao nível de garantia do software referido no n.º 2 do artigo 4.º
+    - Adita ANEXO II
+    - 'Adita Parte A: Requisitos aplicáveis à validade dos requisitos de segurança do software a que se refere o n.º 3, alínea
+      a), do artigo 4.º'
+    - 'Adita Parte B: Requisitos aplicáveis às garantias de verificação do software a que se refere o n.º 3, alínea b), do
+      artigo 4.º'
+    - 'Adita Parte C: Requisitos aplicáveis às garantias de gestão da configuração do software a que se refere o n.º 3, alínea
+      c), do artigo 4.º'
+    - 'Adita Parte D: Requisitos aplicáveis às garantias de rastreabilidade dos requisitos de segurança do software a que
+      se refere o n.º 3, alínea d), do artigo 4.º'
+    - Suprime Artigo 6.º — Alteração do Regulamento (CE) n.º 2096/2005
+  - date: '2020-01-02'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Requisitos gerais de segurança
+    - Suprime Artigo 4.º — Requisitos aplicáveis ao sistema de garantia de segurança do software
+    - Suprime Artigo 5.º — Requisitos aplicáveis a alterações do software e a software específico
+    - Suprime Artigo 7.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime Requisitos aplicáveis ao nível de garantia do software referido no n.º 2 do artigo 4.º
+    - Suprime ANEXO II
+    - 'Suprime Parte A: Requisitos aplicáveis à validade dos requisitos de segurança do software a que se refere o n.º 3,
+      alínea a), do artigo 4.º'
+    - 'Suprime Parte B: Requisitos aplicáveis às garantias de verificação do software a que se refere o n.º 3, alínea b),
+      do artigo 4.º'
+    - 'Suprime Parte C: Requisitos aplicáveis às garantias de gestão da configuração do software a que se refere o n.º 3,
+      alínea c), do artigo 4.º'
+    - 'Suprime Parte D: Requisitos aplicáveis às garantias de rastreabilidade dos requisitos de segurança do software a que
+      se refere o n.º 3, alínea d), do artigo 4.º'
+    - Suprime Notas
 identifiers:
   celex: 32008R0482
   eli: http://data.europa.eu/eli/reg/2008/482/oj
@@ -51,7 +105,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5806e462-0226-4a4f-93b8-a13f89e0b5e8.0018
   content_url: http://publications.europa.eu/resource/cellar/df95bb1f-176c-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0482-20200102
-  retrieved_at: '2026-10-22T02:45:26Z'
+  retrieved_at: '2026-10-22T15:14:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T13:10:52.910+01:00'
 integrity:
@@ -60,9 +114,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:26Z'
-  notes: Texto consolidado 02008R0482-20200102.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:14:58Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2008-482.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -128,16 +182,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:26Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:14:58Z'
+  warnings: []
   errors: []
 ---
 

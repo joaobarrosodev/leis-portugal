@@ -35,6 +35,71 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-07-01'
+version_history:
+  file: regulamento-ue-2003-1.versoes.json
+  count: 3
+  source_lastmod: '2009-07-01'
+  versions:
+  - date: '2003-01-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-10-18'
+    amending: eu:celex:32004R0411:por
+    amending_title: M1; REGULAMENTO (CE) N. o 1419/2006 DO CONSELHO de 25 de Setembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 23.º — Coimas
+    - Altera Artigo 45.º — Entrada em vigor
+    - Adita CAPÍTULO I
+    - Adita OS PRINCÍPIOS
+    - Adita Artigo 1.º — Aplicação dos artigos 81.º e 82.º do Tratado CE
+    - Adita Artigo 3.º — Relação entre os artigos 81.º e 82.º do Tratado e as legislações nacionais em matéria de concorrência
+    - Adita CAPÍTULO II
+    - Adita COMPETÊNCIA
+    - Adita CAPÍTULO III
+    - Adita DECISÕES DA COMISSÃO
+    - Adita CAPÍTULO IV
+    - Adita COOPERAÇÃO
+    - Adita CAPÍTULO V
+    - Adita PODERES DE INQUÉRITO
+    - Adita CAPÍTULO VI
+    - Adita SANÇÕES
+    - Adita CAPÍTULO VII
+    - Adita PRESCRIÇÃO
+    - Adita CAPÍTULO VIII
+    - Adita AUDIÇÕES E SEGREDO PROFISSIONAL
+    - Adita CAPÍTULO IX
+    - Adita REGULAMENTOS DE ISENÇÃO
+    - Adita CAPÍTULO X
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita CAPÍTULO XI
+    - Adita DISPOSIÇÕES TRANSITÓRIAS, MODIFICATIVAS E FINAIS
+    - Adita Artigo 36.º — Alteração do Regulamento (CEE) n.º 1017/68
+    - Adita Artigo 37.º — Alteração do Regulamento (CEE) n.º 2988/74
+    - Adita Artigo 38.º — Alteração do Regulamento (CEE) n.º 4056/86
+    - Adita Não cumprimento de uma obrigação
+    - Adita Artigo 39.º — Alteração do Regulamento (CEE) n.º 3975/87
+    - Adita Artigo 40.º — Alteração dos Regulamentos n.º 19/65/CEE, (CEE) n.º 2821/71 e (CEE) n.º 1534/91
+    - Adita Artigo 41.º — Alteração do Regulamento (CEE) n.º 3976/87
+    - Adita Artigo 42.º — Alteração do Regulamento (CEE) n.º 479/92
+    - Adita Artigo 43.º — Revogação dos Regulamentos n.º 17 e n.º 141
+    - Adita Notas
+    - Suprime CAPÍTULO I — OS PRINCÍPIOS
+    - Suprime Artigo 1.º — Aplicação dos artigos 81.o e 82.o do Tratado CE
+    - Suprime Artigo 3.º — Relação entre os artigos 81.o e 82.o do Tratado e as legislações nacionais em matéria de concorrência
+  - date: '2009-07-01'
+    amending: eu:celex:32009R0169:por
+    amending_title: REGULAMENTO (CE) N. o 169/2009 DO CONSELHO de 26 de Fevereiro de 2009; REGULAMENTO (CE) N. o 246/2009
+      DO CONSELHO de 26 de Fevereiro de 2009; REGULAMENTO (CE) N. o 487/2009 DO CONSELHO de 25 de Maio de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 37.º — Alteração do Regulamento (CEE) n.º 2988/74
+    - Altera Não cumprimento de uma obrigação
+    - Altera Notas
+    - Suprime Artigo 36.º — Alteração do Regulamento (CEE) n.º 1017/68
+    - Suprime Artigo 41.º — Alteração do Regulamento (CEE) n.º 3976/87
+    - Suprime Artigo 42.º — Alteração do Regulamento (CEE) n.º 479/92
 identifiers:
   celex: 32003R0001
   eli: http://data.europa.eu/eli/reg/2003/1/oj
@@ -49,7 +114,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9191c590-efda-4786-8179-001ea608103e.0010
   content_url: http://publications.europa.eu/resource/cellar/98a27a4e-ad29-11e9-9d01-01aa75ed71a1.0009.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R0001-20090701
-  retrieved_at: '2026-10-22T02:45:08Z'
+  retrieved_at: '2026-10-22T14:55:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2020-09-24T00:30:58.959+02:00'
 integrity:
@@ -58,9 +123,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:08Z'
-  notes: Texto consolidado 02003R0001-20090701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:24Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2003-1.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -323,33 +388,20 @@ relationships:
   date: '1962-11-28'
 article_structure:
   article_count: 41
-  section_count: 23
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 24
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:08Z'
-  warnings: []
+  checked_at: '2026-10-22T14:55:24Z'
+  warnings:
+  - '02003R0001-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 1/2003 do Conselho, de 16 de Dezembro de 2002
-
-> 02003R0001 — PT — 01.07.2009 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32004R0411) — [REGULAMENTO (CE) N.º 411/2004 DO CONSELHO de 26 de Fevereiro de 2004](http://publications.europa.eu/resource/celex/32004R0411) — L 68 — 1 — 6.3.2004
-- [►M2](http://publications.europa.eu/resource/celex/32006R1419) — [REGULAMENTO (CE) N.º 1419/2006 DO CONSELHO de 25 de Setembro de 2006](http://publications.europa.eu/resource/celex/32006R1419) — L 269 — 1 — 28.9.2006
-- [►M3](http://publications.europa.eu/resource/celex/32009R0169) — [REGULAMENTO (CE) N.º 169/2009 DO CONSELHO de 26 de Fevereiro de 2009](http://publications.europa.eu/resource/celex/32009R0169) — L 61 — 1 — 5.3.2009
-- [►M4](http://publications.europa.eu/resource/celex/32009R0246) — [REGULAMENTO (CE) N.º 246/2009 DO CONSELHO de 26 de Fevereiro de 2009](http://publications.europa.eu/resource/celex/32009R0246) — L 79 — 1 — 25.3.2009
-- [►M5](http://publications.europa.eu/resource/celex/32009R0487) — [REGULAMENTO (CE) N.º 487/2009 DO CONSELHO de 25 de Maio de 2009](http://publications.europa.eu/resource/celex/32009R0487) — L 148 — 1 — 11.6.2009
-
-## REGULAMENTO (CE) N.º 1/2003 DO CONSELHO
 
 de 16 de Dezembro de 2002
 

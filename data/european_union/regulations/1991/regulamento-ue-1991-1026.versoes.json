@@ -1,0 +1,164 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991R1026:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991R1026-20060824",
+ "dre_path": null,
+ "source_lastmod": "2006-08-24",
+ "versions": [
+  {
+   "date": "1991-04-26",
+   "future": false,
+   "celex": "31991R1026",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8833621230824181",
+    "3e28100e8e803637",
+    "ccfa333959b4e60a",
+    "13df7b996c2f8e28"
+   ]
+  },
+  {
+   "date": "1991-04-29",
+   "future": false,
+   "celex": "01991R1026-19910429",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita «ANEXO I",
+    "Adita CONFORMAÇÃO",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o"
+   ],
+   "fragments": [
+    "bae920721853a9c3",
+    "f566d3cadcc0b660",
+    "9f21030011fd368d",
+    "10220b9774fa9034",
+    "f5a44b04acdf4fb3",
+    "35b2a43f38cee0fd",
+    "cb555817fa9df79c"
+   ]
+  },
+  {
+   "date": "2006-08-24",
+   "future": false,
+   "celex": "01991R1026-20060824",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime ANEXO",
+    "Suprime «ANEXO I",
+    "Suprime CONFORMAÇÃO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "edb105fdd13cd681"
+   ]
+  }
+ ],
+ "fragments": {
+  "8833621230824181": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 1026/91 do Conselho, de 22 de Abril de 1991, que altera o Regulamento (CEE) nº 1208/81 que estabelece a grelha comunitária de classificação das carcaças de bovinos adultos** *Jornal Oficial nº L 106 de 26/04/1991 p. 0002 - 0003 Edição especial finlandesa: Capítulo 3 Fascículo 37 p. 0098 Edição especial sueca: Capítulo 3 Fascículo 37 p. 0098*\n\nREGULAMENTO (CEE) No 1026/91 DO CONSELHO de 22 de Abril de 1991 que altera o Regulamento (CEE) no 1208/81 que estabelece a grelha comunitária de classificação das carcaças de bovinos adultos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) no 1358/80 do Conselho, de 5 de Junho de 1980, que fixa, para a campanha de comercialização de 1980/1981, o preço de orientação e o preço de intervenção dos bovinos adultos e relativo ao estabelecimento de uma grelha comunitária de classificação de carcaças de bovinos adultos (1), e, nomeadamente, o no 1 do seu artigo 4o,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que o Regulamento (CEE) no 1208/81 (2) estabeleceu a grelha comunitária de classificação das carcaças de bovinos adultos;\n\nConsiderando que os progressos genéticos resultantes da selecção de bovinos tornam oportuna a adaptação da grelha comunitária de classificação das carcaças de bovinos adultos, de modo a ter em conta a existência de animais com grande desenvolvimento das massas musculares posteriores (tipo culard); que, para o efeito, é necessário prever a introdução facultativa de uma classe de conformação superior às classes existentes,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3e28100e8e803637": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nO Regulamento (CEE) no 1208/81 é alterado do seguinte modo:\n\n1. O artigo 3o passa a ter a seguinte redacção:\n\n« Artigo 3o\n\n1. As carcaças de bovinos adultos são repartidas pelas seguintes categorias:\n\nA. Carcaças de machos, não castrados, com menos de dois anos;\n\nB. Carcaças de outros machos não castrados;\n\nC. Carcaças de machos castrados;\n\nD. Carcaças de fêmeas que já tenham parido;\n\nE. Carcaças de outras fêmeas.\n\nSem prejuízo das regras aplicáveis em matéria de intervenção, as letras A, B, C, D e E serão utilizadas para a identificação das carcaças, a partir de 1 de Janeiro de 1992.\n\nOs critérios que permitirão diferenciar entre si as categorias de carcaças serão estabelecidos de acordo com o procedimento previsto no artigo 27o do Regulamento (CEE) no 805/68.\n\n2. A classificação das carcaças de bovinos adultos efectua-se apreciando sucessivamente:\n\na) A conformação;\n\nb) O estado de gordura;\n\ntal como definidos nos anexos I e II, respectivamente.\n\nA classe de conformação designada no anexo I pela letra S pode ser utilizada pelos Estados-membros, de modo a ter em conta, mediante a introdução facultativa de uma classe de conformação superior às existentes (tipo culard), as características ou a evolução de determinada produção.\n\nOs Estados-membros que pretenderem utilizar esta possibilidade devem notificar desse facto a Comissão e os outros Estados-membros.\n\n3. Os Estados-membros ficam autorizados a proceder à subdivisão de cada uma das classes previstas nos anexos I e II, até um máximo de três subposições. ».\n\n2. O anexo I é substituído pelo que figura em anexo ao presente regulamento."
+  },
+  "ccfa333959b4e60a": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias. O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo, em 22 de Abril de 1991. Pelo Conselho\n\nO Presidente\n\nR. STEICHEN\n\n(1) JO no L 140 de 5. 6. 1980, p. 4. (2) JO no L 123 de 7. 5. 1981, p. 3."
+  },
+  "13df7b996c2f8e28": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n« ANEXO I\n\nCONFORMAÇÃO\n\nDesenvolvimento dos perfis da carcaça, nomeadamente das suas partes essenciais (coxa, dorso, pá)\n\nClasse de conformação Descrição S superior Todos os perfis extremamente convexos; desenvolvimento muscular excepcional com duplos músculos (tipo culard ) E excelente Todos os perfis convexos a superconvexos; desenvolvimento muscular excepcional U muito boa Perfis em general convexos; forte desenvolvimento muscular R boa Perfis em geral rectilíneos; bom desenvolvimento muscular O razoável Perfis rectilíneos a côncavos; desenvolvimento muscular médio P medíocre Todos os perfis côncavos a muito côncavos; reduzido desenvolvimento muscular »"
+  },
+  "bae920721853a9c3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Abril de 1991\n\nque altera o Regulamento (CEE) n.º 1208/81 que estabelece a grelha comunitária de classificação das carcaças de bovinos adultos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) n.º 1358/80 do Conselho, de 5 de Junho de 1980, que fixa, para a campanha de comercialização de 1980/1981, o preço de orientação e o preço de intervenção dos bovinos adultos e relativo ao estabelecimento de uma grelha comunitária de classificação de carcaças de bovinos adultos ([^1^](http://publications.europa.eu/resource/cellar/cd29ac6b-bf9a-4d4b-9f7f-c24fc8ebe913.0001.03/DOC_1#E0001)), e, nomeadamente, o n.º 1 do seu artigo 4.º,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que o Regulamento (CEE) n.º 1208/81 ([^2^](http://publications.europa.eu/resource/cellar/cd29ac6b-bf9a-4d4b-9f7f-c24fc8ebe913.0001.03/DOC_1#E0002)) estabeleceu a grelha comunitária de classificação das carcaças de bovinos adultos;\n\nConsiderando que os progressos genéticos resultantes da selecção de bovinos tornam oportuna a adaptação da grelha comunitária de classificação das carcaças de bovinos adultos, de modo a ter em conta a existência de animais com grande desenvolvimento das massas musculares posteriores (tipo *culard*); que, para o efeito, é necessário prever a introdução facultativa de uma classe de conformação superior às classes existentes,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f566d3cadcc0b660": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Regulamento (CEE) n.º 1208/81 é alterado do seguinte modo:\n\n1. O artigo 3.º passa a ter a seguinte redacção:\n\n1. As carcaças de bovinos adultos são repartidas pelas seguintes categorias:\n\nA. Carcaças de machos, não castrados, com menos de dois anos;\n\nB. Carcaças de outros machos não castrados;\n\nC. Carcaças de machos castrados;\n\nD. Carcaças de fêmeas que já tenham parido;\n\nE. Carcaças de outras fêmeas.\n\nSem prejuízo das regras aplicáveis em matéria de intervenção, as letras A, B, C, D e E serão utilizadas para a identificação das carcaças, a partir de 1 de Janeiro de 1992.\n\nOs critérios que permitirão diferenciar entre si as categorias de carcaças serão estabelecidos de acordo com o procedimento previsto no artigo 27.º do Regulamento (CEE) n.º 805/68.\n\n2. A classificação das carcaças de bovinos adultos efectua-se apreciando sucessivamente:\n\na) A conformação;\n\nb) O estado de gordura;\n\ntal como definidos nos anexos I e II, respectivamente.\n\nA classe de conformação designada no anexo I pela letra S pode ser utilizada pelos Estados-Membros, de modo a ter em conta, mediante a introdução facultativa de uma classe de conformação superior às existentes (tipo culard), as características ou a evolução esperada de determinada produção.\n\nOs Estados-membros que pretenderem utilizar esta possibilidade devem notificar desse facto a Comissão e os outros Estados-membros.\n\n3. Os Estados-membros ficam autorizados a proceder à subdivisão de cada uma das classes previstas nos anexos I e II, até um máximo de três subposições.».\n\n2. O anexo I é substituído pelo que figura em anexo ao presente regulamento."
+  },
+  "9f21030011fd368d": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "f5a44b04acdf4fb3": {
+   "fragment_id": "«ANEXO I",
+   "type": "divisao",
+   "heading": "«ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## «ANEXO I"
+  },
+  "35b2a43f38cee0fd": {
+   "fragment_id": "CONFORMAÇÃO",
+   "type": "divisao",
+   "heading": "CONFORMAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONFORMAÇÃO\n\nClasse de conformação Descrição\n\nS superior Todos os perfis extremamente convexos; desenvolvimento muscular excepcional com duplos músculos (tipo *culard*)\n\nE excelente Todos os perfis convexos a superconvexos; desenvolvimento muscular excepcional\n\nU muito boa Perfis em general convexos; forte desenvolvimento muscular\n\nR boa Perfis em geral rectilíneos; bom desenvolvimento muscular\n\nO razoável Perfis rectilíneos a côncavos; desenvolvimento muscular médio\n\nP medíocre Todos os perfis côncavos a muito côncavos; reduzido desenvolvimento muscular»\n\n---"
+  },
+  "cb555817fa9df79c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/cd29ac6b-bf9a-4d4b-9f7f-c24fc8ebe913.0001.03/DOC_1#src.E0001)) JO n.º L 140 de 5. 6. 1980, p. 4.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/cd29ac6b-bf9a-4d4b-9f7f-c24fc8ebe913.0001.03/DOC_1#src.E0002)) JO n.º L 123 de 7. 5. 1981, p. 3."
+  },
+  "edb105fdd13cd681": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991R1026 — PT — 24.08.2006 — 001.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31991R1026) [REGULAMENTO (CEE) N.º 1026/91 DO CONSELHO](http://publications.europa.eu/resource/celex/31991R1026) [de 22 de Abril de 1991](http://publications.europa.eu/resource/celex/31991R1026) [que altera o Regulamento (CEE) n.º 1208/81 que estabelece a grelha comunitária de classificação das carcaças de bovinos adultos](http://publications.europa.eu/resource/celex/31991R1026) (JO L 106, 26.4.1991, p.2)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1183/2006 do Conselho de 24 de Julho de 2006](http://publications.europa.eu/resource/celex/32006R1183) — L 214 — 1 — 4.8.2006"
+  }
+ }
+}

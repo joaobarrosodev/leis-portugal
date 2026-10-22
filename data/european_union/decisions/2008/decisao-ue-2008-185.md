@@ -35,6 +35,235 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-04-21'
+version_history:
+  file: decisao-ue-2008-185.versoes.json
+  count: 19
+  source_lastmod: '2021-04-21'
+  versions:
+  - date: '2008-03-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-06-24'
+    amending: eu:celex:32008D0476:por
+    amending_title: DECISÃO DA COMISSÃO de 6 de Junho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 10.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita Normas relativas aos testes serológicos da doença de Aujeszky — Protocolo do ensaio de imunoabsorção enzimática
+      (ELISA) para detecção de anticorpos contra o vírus da doença de Aujeszky (vírus inteiro), contra a glicoproteína B (ADV-gB),
+      a glicoproteína D (ADV-gD) ou a glicoproteína E (ADV-gE)
+    - Adita ANEXO IV
+    - Adita Critérios relativos à informação a apresentar sobre a ocorrência da doença de Aujeszky e sobre os planos de monitorização
+      e erradicação desta doença, em conformidade com o disposto no artigo 8.º da Directiva 64/432/CEE do Conselho
+    - Adita ANEXO V
+    - Adita ANEXO VI
+  - date: '2008-12-31'
+    amending: eu:celex:32008D0988:por
+    amending_title: DECISÃO DA COMISSÃO de 17 de Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Critérios relativos à informação a apresentar sobre a ocorrência da doença de Aujeszky e sobre os planos de monitorização
+      e erradicação desta doença, em conformidade com o disposto no artigo 8.º da Directiva 64/432/CEE do Conselho
+    - Altera Notas
+  - date: '2009-03-19'
+    amending: eu:celex:32009D0248:por
+    amending_title: DECISÃO DA COMISSÃO de 18 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Critérios relativos à informação a apresentar sobre a ocorrência da doença de Aujeszky e sobre os planos de monitorização
+      e erradicação desta doença, em conformidade com o disposto no artigo 8.º da Directiva 64/432/CEE do Conselho
+    - Altera Notas
+  - date: '2009-08-21'
+    amending: eu:celex:32009D0621:por
+    amending_title: DECISÃO DA COMISSÃO de 20 de Agosto de 2009
+    changes:
+    - Altera preambulo
+    - Altera ANEXO II
+    - Altera Critérios relativos à informação a apresentar sobre a ocorrência da doença de Aujeszky e sobre os planos de monitorização
+      e erradicação desta doença, em conformidade com o disposto no artigo 8.º da Directiva 64/432/CEE do Conselho
+    - Altera Notas
+  - date: '2010-05-12'
+    amending: eu:celex:32010D0271:por
+    amending_title: DECISÃO DA COMISSÃO de 11 de Maio de 2010
+    changes:
+    - Altera preambulo
+    - Altera ANEXO II
+    - Altera Critérios relativos à informação a apresentar sobre a ocorrência da doença de Aujeszky e sobre os planos de monitorização
+      e erradicação desta doença, em conformidade com o disposto no artigo 8.º da Directiva 64/432/CEE do Conselho
+    - Altera Notas
+  - date: '2010-08-07'
+    amending: eu:celex:32010D0434:por
+    amending_title: Decisão da Comissão de 6 de Agosto de 2010
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Critérios relativos à informação a apresentar sobre a ocorrência da doença de Aujeszky e sobre os planos de monitorização
+      e erradicação desta doença, em conformidade com o disposto no artigo 8.º da Directiva 64/432/CEE do Conselho
+    - Altera Notas
+  - date: '2011-10-05'
+    amending: eu:celex:32011D0648:por
+    amending_title: DECISÃO DE EXECUÇÃO 2011/648/UE DA COMISSÃO de 4 de Outubro de 2011
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Critérios relativos à informação a apresentar sobre a ocorrência da doença de Aujeszky e sobre os planos de monitorização
+      e erradicação desta doença, em conformidade com o disposto no artigo 8.º da Directiva 64/432/CEE do Conselho
+    - Altera Notas
+  - date: '2012-11-15'
+    amending: eu:celex:32012D0701:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 13 de novembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Critérios relativos à informação a apresentar sobre a ocorrência da doença de Aujeszky e sobre os planos de monitorização
+      e erradicação desta doença, em conformidade com o disposto no artigo 8.º da Directiva 64/432/CEE do Conselho
+    - Altera Notas
+  - date: '2015-03-11'
+    amending: eu:celex:32015D0398:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2015/398 DA COMISSÃO de 13 de fevereiro de 2015
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Critérios relativos à informação a apresentar sobre a ocorrência da doença de Aujeszky e sobre os planos de monitorização
+      e erradicação desta doença, em conformidade com o disposto no artigo 8.º da Directiva 64/432/CEE do Conselho
+    - Altera Notas
+    - Adita Estados-Membros ou suas regiões indemnes da doença de Aujeszky em que é proibida a vacinação
+    - Adita Estados-Membros ou suas regiões em que são aplicados programas nacionais de controlo aprovados para a erradicação
+      da doença de Aujeszky
+  - date: '2016-10-07'
+    amending: eu:celex:32016D1782:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2016/1782 DA COMISSÃO Texto relevante para efeitos do EEE de 5 de outubro de
+      2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º
+    - Altera Estados-Membros ou suas regiões em que são aplicados programas nacionais de controlo aprovados para a erradicação
+      da doença de Aujeszky
+    - Altera Normas relativas aos testes serológicos da doença de Aujeszky — Protocolo do ensaio de imunoabsorção enzimática
+      (ELISA) para detecção de anticorpos contra o vírus da doença de Aujeszky (vírus inteiro), contra a glicoproteína B (ADV-gB),
+      a glicoproteína D (ADV-gD) ou a glicoproteína E (ADV-gE)
+    - Altera Critérios relativos à informação a apresentar sobre a ocorrência da doença de Aujeszky e sobre os planos de monitorização
+      e erradicação desta doença, em conformidade com o disposto no artigo 8.º da Directiva 64/432/CEE do Conselho
+    - Suprime Notas
+  - date: '2017-03-21'
+    amending: eu:celex:32017D0486:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2017/486 DA COMISSÃO Texto relevante para efeitos do EEE de 17 de março de 2017
+    changes:
+    - Altera Estados-Membros ou suas regiões em que são aplicados programas nacionais de controlo aprovados para a erradicação
+      da doença de Aujeszky
+    - Altera Critérios relativos à informação a apresentar sobre a ocorrência da doença de Aujeszky e sobre os planos de monitorização
+      e erradicação desta doença, em conformidade com o disposto no artigo 8.º da Directiva 64/432/CEE do Conselho
+  - date: '2017-05-24'
+    amending: eu:celex:32017D0888:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2017/888 DA COMISSÃO Texto relevante para efeitos do EEE de 22 de maio de 2017
+    changes:
+    - Altera Estados-Membros ou suas regiões indemnes da doença de Aujeszky em que é proibida a vacinação
+    - Altera Estados-Membros ou suas regiões em que são aplicados programas nacionais de controlo aprovados para a erradicação
+      da doença de Aujeszky
+    - Altera Critérios relativos à informação a apresentar sobre a ocorrência da doença de Aujeszky e sobre os planos de monitorização
+      e erradicação desta doença, em conformidade com o disposto no artigo 8.º da Directiva 64/432/CEE do Conselho
+  - date: '2017-11-22'
+    amending: eu:celex:32017D2173:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2017/2173 DA COMISSÃO Texto relevante para efeitos do EEE de 20 de novembro de
+      2017
+    changes:
+    - Altera Estados-Membros ou suas regiões em que são aplicados programas nacionais de controlo aprovados para a erradicação
+      da doença de Aujeszky
+    - Altera Critérios relativos à informação a apresentar sobre a ocorrência da doença de Aujeszky e sobre os planos de monitorização
+      e erradicação desta doença, em conformidade com o disposto no artigo 8.º da Directiva 64/432/CEE do Conselho
+  - date: '2018-02-08'
+    amending: eu:celex:32018D0187:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2018/187 DA COMISSÃO Texto relevante para efeitos do EEE de 6 de fevereiro de
+      2018
+    changes:
+    - Altera Estados-Membros ou suas regiões em que são aplicados programas nacionais de controlo aprovados para a erradicação
+      da doença de Aujeszky
+    - Altera Critérios relativos à informação a apresentar sobre a ocorrência da doença de Aujeszky e sobre os planos de monitorização
+      e erradicação desta doença, em conformidade com o disposto no artigo 8.º da Directiva 64/432/CEE do Conselho
+  - date: '2019-11-28'
+    amending: eu:celex:32019D1970:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2019/1970 DA COMISSÃO Texto relevante para efeitos do EEE de 26 de novembro de
+      2019
+    changes:
+    - Altera Estados-Membros ou suas regiões indemnes da doença de Aujeszky em que é proibida a vacinação
+    - Altera Estados-Membros ou suas regiões em que são aplicados programas nacionais de controlo aprovados para a erradicação
+      da doença de Aujeszky
+    - Altera Critérios relativos à informação a apresentar sobre a ocorrência da doença de Aujeszky e sobre os planos de monitorização
+      e erradicação desta doença, em conformidade com o disposto no artigo 8.º da Directiva 64/432/CEE do Conselho
+  - date: '2021-01-01'
+    amending: eu:celex:32020D2109:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2020/2109 DA COMISSÃO de 16 de dezembro de 2020
+    changes:
+    - Altera Normas relativas aos testes serológicos da doença de Aujeszky — Protocolo do ensaio de imunoabsorção enzimática
+      (ELISA) para detecção de anticorpos contra o vírus da doença de Aujeszky (vírus inteiro), contra a glicoproteína B (ADV-gB),
+      a glicoproteína D (ADV-gD) ou a glicoproteína E (ADV-gE)
+    - Altera Critérios relativos à informação a apresentar sobre a ocorrência da doença de Aujeszky e sobre os planos de monitorização
+      e erradicação desta doença, em conformidade com o disposto no artigo 8.º da Directiva 64/432/CEE do Conselho
+    - Adita Estados-Membros ([^1^](http://publications.europa.eu/resource/cellar/43b05af4-5bf8-11eb-b487-01aa75ed71a1.0019.02/DOC_1#E0001))ou
+      suas regiões indemnes da doença de Aujeszky em que é proibida a vacinação
+    - Adita Notas
+    - Suprime Estados-Membros ou suas regiões indemnes da doença de Aujeszky em que é proibida a vacinação
+  - date: '2021-03-04'
+    amending: eu:celex:32021D0385:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2021/385 DA COMISSÃO de 2 de março de 2021
+    changes:
+    - Altera Estados-Membros ou suas regiões em que são aplicados programas nacionais de controlo aprovados para a erradicação
+      da doença de Aujeszky
+    - Altera Critérios relativos à informação a apresentar sobre a ocorrência da doença de Aujeszky e sobre os planos de monitorização
+      e erradicação desta doença, em conformidade com o disposto no artigo 8.º da Directiva 64/432/CEE do Conselho
+    - Altera Notas
+    - Adita Estados-Membros ([^1^](http://publications.europa.eu/resource/cellar/56c204fd-96cd-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#E0001))ou
+      suas regiões indemnes da doença de Aujeszky em que é proibida a vacinação
+    - Suprime Estados-Membros ([^1^](http://publications.europa.eu/resource/cellar/43b05af4-5bf8-11eb-b487-01aa75ed71a1.0019.02/DOC_1#E0001))ou
+      suas regiões indemnes da doença de Aujeszky em que é proibida a vacinação
+  - date: '2021-04-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime ANEXO I
+    - Suprime Estados-Membros ([^1^](http://publications.europa.eu/resource/cellar/56c204fd-96cd-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#E0001))ou
+      suas regiões indemnes da doença de Aujeszky em que é proibida a vacinação
+    - Suprime ANEXO II
+    - Suprime Estados-Membros ou suas regiões em que são aplicados programas nacionais de controlo aprovados para a erradicação
+      da doença de Aujeszky
+    - Suprime ANEXO III
+    - Suprime Normas relativas aos testes serológicos da doença de Aujeszky — Protocolo do ensaio de imunoabsorção enzimática
+      (ELISA) para detecção de anticorpos contra o vírus da doença de Aujeszky (vírus inteiro), contra a glicoproteína B (ADV-gB),
+      a glicoproteína D (ADV-gD) ou a glicoproteína E (ADV-gE)
+    - Suprime ANEXO IV
+    - Suprime Critérios relativos à informação a apresentar sobre a ocorrência da doença de Aujeszky e sobre os planos de
+      monitorização e erradicação desta doença, em conformidade com o disposto no artigo 8.º da Directiva 64/432/CEE do Conselho
+    - Suprime ANEXO V
+    - Suprime ANEXO VI
+    - Suprime Notas
 identifiers:
   celex: 32008D0185
   eli: http://data.europa.eu/eli/dec/2008/185/oj
@@ -49,7 +278,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fc226283-db54-4973-833f-7c8b0528b6af.0018
   content_url: http://publications.europa.eu/resource/cellar/ed3e5de4-b338-11eb-8aca-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008D0185-20210421
-  retrieved_at: '2026-10-22T02:58:45Z'
+  retrieved_at: '2026-10-22T15:11:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T21:11:22.063+01:00'
 integrity:
@@ -58,9 +287,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:45Z'
-  notes: Texto consolidado 02008D0185-20210421.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:11:43Z'
+  notes: 19 versão(ões); histórico completo em decisao-ue-2008-185.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -261,16 +490,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:45Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:11:43Z'
+  warnings: []
   errors: []
 ---
 

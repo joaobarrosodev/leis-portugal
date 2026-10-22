@@ -35,6 +35,33 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2001-01-01'
+version_history:
+  file: regulamento-ue-1991-1911.versoes.json
+  count: 2
+  source_lastmod: '2001-01-01'
+  versions:
+  - date: '1991-06-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Adita preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita ANEXO — Lista dos produtos referidos no segundo parágrafo do n.o 2 do artigo 5.o de acordo com a classificação
+      da nomenclatura da pauta aduaneira comum (PAC)
 identifiers:
   celex: 31991R1911
   eli: http://data.europa.eu/eli/reg/1991/1911/oj
@@ -49,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/55cec094-c2bb-4f9b-b6ae-0a5666856105.0011
   content_url: http://publications.europa.eu/resource/cellar/81624c11-69fc-4470-ba11-a29830318783.0022.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991R1911-20010101
-  retrieved_at: '2026-10-22T02:37:37Z'
+  retrieved_at: '2026-10-22T14:39:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T09:05:50.913+01:00'
 integrity:
@@ -58,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:37Z'
-  notes: Texto consolidado 01991R1911-20010101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:39:58Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1991-1911.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -175,15 +202,17 @@ relationships:
 article_structure:
   article_count: 11
   section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:37Z'
+  checked_at: '2026-10-22T14:39:58Z'
   warnings:
-  - Não foi detetado o título principal no XHTML.
+  - '01991R1911-19910701: versão indisponível (Sem expressão na língua por para CELEX 01991R1911-19910701.)'
+  - '01991R1911-19920101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R1911-19991218: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -1,0 +1,149 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31974D0325:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01974D0325-20040101",
+ "dre_path": null,
+ "source_lastmod": "2004-01-01",
+ "versions": [
+  {
+   "date": "1974-07-09",
+   "future": false,
+   "celex": "31974D0325",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9b7303235190063c",
+    "ad63b5636644b6ab",
+    "b056a1e725190a2e",
+    "85dd170604b88f12",
+    "edee86eea440e755",
+    "dd8b23e4a516d12c",
+    "e5ae23485a616e0e",
+    "e9df58ae101ab81d",
+    "69596ec42c4157ba",
+    "ae0708d5656e62eb",
+    "e63882d218669c02"
+   ]
+  },
+  {
+   "date": "2004-01-01",
+   "future": false,
+   "celex": "01974D0325-20040101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o"
+   ],
+   "fragments": [
+    "ff0b225dfa08df48"
+   ]
+  }
+ ],
+ "fragments": {
+  "9b7303235190063c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**74/325/CEE: Decisão do Conselho, de 27 de Junho de 1974, relativa à criação de um Comité Consultivo para a segurança, higiene e protecção da saúde no local de trabalho** *Jornal Oficial nº L 185 de 09/07/1974 p. 0015 - 0017 Edição especial finlandesa: Capítulo 5 Fascículo 1 p. 0175 Edição especial grega: Capítulo 05 Fascículo 2 p. 0029 Edição especial sueca: Capítulo 5 Fascículo 1 p. 0175 Edição especial espanhola: Capítulo 05 Fascículo 2 p. 0027 Edição especial portuguesa: Capítulo 05 Fascículo 2 p. 0027*\n\nDECISÃO DO CONSELHO de 27 de Junho de 1974 relativa à criação de um Comité Consultivo para a segurança, higiene e protecção da saúde no local de trabalho\n\n(74/325/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 145o,\n\nTendo em conta o projecto da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social,\n\nConsiderando que a transformação profunda dos métodos de produção em todos os sectores da economia e a difusão das técnicas e das matérias perigosas fizeram surgir novos problemas no que diz respeito à segurança, higiene e protecção da saúde dos trabalhadores no local de trabalho;\n\nConsiderando que a protecção contra os acidentes e as doenças profissionais assim como a higiene do trabalho fazem parte dos objectivos do Tratado que institui a Comunidade Económica Europeia;\n\nConsiderando que a Resolução do Conselho, de 21 de Janeiro de 1974, relativa a um programa de acção social (2), prevê um programa de acção a favor dos trabalhadores que tem como objectivo, entre outros, a melhoria da segurança e da higiene no trabalho;\n\nConsiderando que é conveniente prever a criação de um organismo permanente encarregado de apoiar a Comissão na preparação e execução de actividades nos domínios da segurança, da higiene e da protecção da saúde no local de trabalho, e de facilitar a cooperação entre as administrações nacionais e as organizações de trabalhadores e de empregadores;\n\nConsiderando que a presente decisão não prejudica o disposto no artigo 118o do Tratado que institui a Comunidade Económica Europeia,\n\nDECIDE:"
+  },
+  "ad63b5636644b6ab": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nÉ instituído um Comité Consultivo para a Segurança, Higiene e Protecção da saúde no local de trabalho, abaixo designado por «Comité»."
+  },
+  "b056a1e725190a2e": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. O Comité fica encarregado de assistir a Comissão na preparação e na execução de actividades nos domínios da segurança, da higiene e da protecção da saúde no local de trabalho.\n\nEsta função abrange o conjunto da actividade económica, com exclusão das indústrias extractivas que dependem da competência do órgão permanente para a segurança e salubridade nas minas de hulha e com exclusão do sector da protecção sanitária dos trabalhadores contra os perigos resultantes das radiações ionisantes, ao qual se aplicam regras específicas decorrentes do Tratado que institui a Comunidade Europeia da Energia Atómica.\n\n2. O Comité fica encarregado, nomeadamente, de:\n\na) Proceder, com base nas informações postas à sua disposição, à troca de opiniões e de experiências relativas às regulamentações existentes ou previstas;\n\nb) Contribuir para a elaboração de um tratamento comum dos problemas que se levantam nos sectores da segurança, da higiene e da protecção da saúde no local de trabalho, assim como para a selecção das prioridades comunitárias e das medidas necessárias à sua realização;\n\nc) Chamar a atenção da Comissão para os sectores nos quais pareçam necessárias a aquisição de novos conhecimentos e a execução das acções adequadas de formação e de pesquisa;\n\nd) Definir, no âmbito dos programas de acção comunitária e em colaboração com o órgão permanente para a segurança e salubridade nas minas de hulha:\n\n- os critérios e os objectivos da luta contra os riscos e acidentes de trabalho e os perigos para a saúde na empresa,\n\n- os métodos que permitam às empresas e ao seu pessoal avaliar e melhorar o nível de protecção;\n\ne) Contribuir para a informação das administrações nacionais e das organizações de trabalhadores e empregadores sobre as acções comunitárias, a fim de facilitar a sua cooperação e encorajar as suas iniciativas tendo em vista a troca de experiências adquiridas e a definição de códigos de boa conduta."
+  },
+  "85dd170604b88f12": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. O Comité elaborará anualmente um relatório de actividades.\n\n2. A Comissão enviará este relatório ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social e ao Comité Consultivo da Comunidade Europeia do Carvão e do Aço."
+  },
+  "edee86eea440e755": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. O Comité é composto por 54 membros efectivos, em número de dois representantes governamentais, dois representantes das organizações de trabalhadores e dois representantes das organizações de empregadores, por cada Estado-membro.\n\n2. Por cada um dos membros efectivos é nomeado um membro suplente.\n\nSem prejuízo do disposto no terceiro parágrafo do artigo 6o, o membro suplente não assiste às reuniões do Comité, a não ser em caso de impedimento do membro efectivo que ele substitui.\n\n3. Os membros efectivos e os membros suplentes do Comité serão nomeados pelo Conselho que tentará, relativamente aos representantes dos trabalhadores e dos empregadores, obter na composição do Comité uma representação equitativa dos diferentes sectores económicos interessados.\n\n4. A lista dos membros efectivos e dos membros suplentes será publicada pelo Conselho, para informação, no Jornal Oficial das Comunidades Europeias."
+  },
+  "dd8b23e4a516d12c": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. A duração do mandato dos membros efectivos e dos membros suplentes é de três anos. Este mandato é renovável.\n\n2. No termo do seu mandato, os membros efectivos e os membros suplentes permanecem em funções até que se proceda à sua substituição ou à renovação do respectivo mandato.\n\n3. O mandato cessa, antes do termo do período de três anos, por demissão ou por notificação do Estado-membro em causa indicando ter sido posto fim ao mandato.\n\nO membro será substituído no restante período do mandato de acordo com o que se encontra previsto no artigo 4o."
+  },
+  "e5ae23485a616e0e": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. O Comité é presidido por um membro da Comissão ou, em caso de impedimento e a título excepcional, por um funcionário da Comissão por ela designado. O presidente não toma parte nas votações.\n\n2. O Comité reune por convocação do seu presidente, quer por iniciativa deste, quer a pedido de pelo menos um terço dos membros.\n\n3. O presidente pode, por sua própria iniciativa, convidar dois peritos no máximo para participarem nas reuniões do Comité.\n\nTodos os membros do Comité podem fazer-se acompanhar por um perito, na condição de informarem o presidente pelo menos três dias antes da reunião do Comité.\n\n4. O Comité pode constituir grupos de trabalho, presididos por um membro do Comité.\n\nEstes grupos apresentarão os resultados dos seus trabalhos sob a forma de relatórios, aquando de uma reunião do Comité.\n\n5. Os representantes dos serviços interessados da Comissão participarão nas reuniões do Comité e dos grupos de trabalho.\n\nOs serviços da Comissão asseguram o secretariado do Comité e dos grupos de trabalho."
+  },
+  "e9df58ae101ab81d": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. O Comité deliberará com validade desde que se encontrem presentes dois terços dos seus membros.\n\n2. Os pareceres do Comité devem ser fundamentados. São adoptados por maioria absoluta dos votos validamente expressos; serão acompanhados de uma nota indicando as opiniões expressas pela minoria quando esta o requeira."
+  },
+  "69596ec42c4157ba": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nO Comité define o seu regulamento interno, que entra em vigor após aprovação pelo Conselho mediante parecer da Comissão."
+  },
+  "ae0708d5656e62eb": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nSem prejuízo do disposto no artigo 214o do Tratado, os membros do Comité são obrigados a não divulgar as informações de que tiverem conhecimento através dos trabalhos do Comité ou dos grupos de trabalho, sempre que a Comissão os informe de que o parecer pedido ou a questão posta incide sobre matéria de carácter confidencial.\n\nNeste caso, só os membros do Comité e os representantes dos serviços da Comissão assistirão às reuniões."
+  },
+  "e63882d218669c02": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nA presente decisão entra em vigor no quinto dia após a data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nFeito no Luxemburgo, em 27 de Junho de 1974.\n\nPelo Conselho\n\nO Presidente\n\nK. GSCHEIDLE\n\n(1) JO no C 40 de 8. 4. 1974, p. 64.(2) JO no C 13 de 12. 2. 1974, p. 1."
+  },
+  "ff0b225dfa08df48": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1974D0325 — PT — 01.01.2004 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31974D0325) [DECISÃO DO CONSELHO](http://publications.europa.eu/resource/celex/31974D0325) [de 27 de Junho de 1974](http://publications.europa.eu/resource/celex/31974D0325) [relativa à criação de um Comité Consultivo para a segurança, higiene e protecção da saúde no local de trabalho](http://publications.europa.eu/resource/celex/31974D0325) [(74/325/CEE)](http://publications.europa.eu/resource/celex/31974D0325) (JO L 185, 9.7.1974, p.15)\n\n**revogado por:**\n\n- [Decisão do Conselho de 22 de Julho de 2003](http://publications.europa.eu/resource/celex/32003D0913%2801%29) — C 218 — 1 — 13.9.2003"
+  }
+ }
+}

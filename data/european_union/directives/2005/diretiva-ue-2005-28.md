@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2005-28.versoes.json
+  count: 1
+  source_lastmod: '2005-04-29'
+  versions:
+  - date: '2005-04-09'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32005L0028
   eli: http://data.europa.eu/eli/dir/2005/28/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d8a4e22f-710e-4062-aaf6-ba9772b6decc.0016
   content_url: http://publications.europa.eu/resource/cellar/d8a4e22f-710e-4062-aaf6-ba9772b6decc.0016.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:12:13Z'
+  retrieved_at: '2026-10-22T14:59:17Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T16:57:19.729+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:13Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:17Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2005-28.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -99,21 +108,20 @@ relationships:
   date: '2017-03-25'
 article_structure:
   article_count: 33
-  section_count: 22
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 23
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:13Z'
+  checked_at: '2026-10-22T14:59:17Z'
   warnings:
-  - Versão consolidada 02005L0028-20050429 indisponível (Sem expressão na língua por para CELEX 02005L0028-20050429.); usado
-    o texto do JO.
+  - '02005L0028-20050429: versão indisponível (Sem expressão na língua por para CELEX 02005L0028-20050429.)'
   errors: []
 ---
 
-# DIRECTIVA 2005/28/CE DA COMISSÃO
+# Directiva 2005/28/CE da Comissão, de 8 de Abril de 2005
 
 de 8 de Abril de 2005
 

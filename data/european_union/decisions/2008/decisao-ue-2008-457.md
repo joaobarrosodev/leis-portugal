@@ -37,6 +37,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: decisao-ue-2008-457.versoes.json
+  count: 1
+  source_lastmod: '2011-03-09'
+  versions:
+  - date: '2008-06-27'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32008D0457
   eli: http://data.europa.eu/eli/dec/2008/457/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/817045a5-18a7-4038-b02a-6fe9b6ed793d.0018
   content_url: http://publications.europa.eu/resource/cellar/817045a5-18a7-4038-b02a-6fe9b6ed793d.0018.04/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:13:18Z'
+  retrieved_at: '2026-10-22T15:12:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-31T02:34:18.128+01:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:18Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:12:15Z'
+  notes: 1 versão(ões); histórico completo em decisao-ue-2008-457.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -138,21 +147,22 @@ relationships:
   date: '2010-09-23'
 article_structure:
   article_count: 40
-  section_count: 26
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 27
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:18Z'
+  checked_at: '2026-10-22T15:12:15Z'
   warnings:
-  - 'Versão consolidada 02008D0457-20110309 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02008D0457-20090710: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008D0457-20100323: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008D0457-20110309: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# DECISÃO DA COMISSÃO
+# 2008/457/CE: Decisão da Comissão, de 5 de Março de 2008
 
 de 5 de Março de 2008
 

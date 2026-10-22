@@ -1,0 +1,176 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003D0566:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003D0566-20040120",
+ "dre_path": null,
+ "source_lastmod": "2004-01-20",
+ "versions": [
+  {
+   "date": "2003-07-31",
+   "future": false,
+   "celex": "32003D0566",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fe87873682e0cabf",
+    "1f2503de3ed5b960",
+    "254e7ddfb2e73808",
+    "22b76f687bfaf117",
+    "13a898d7379f5f0d",
+    "29084ec98783c094",
+    "1d10d1a47322f86b",
+    "da77dd57a873ba75",
+    "dce1deff3955bd98",
+    "8e992975cabc592d",
+    "faf6903bc4f216b8",
+    "7f439e5015a6fd34"
+   ]
+  },
+  {
+   "date": "2004-01-20",
+   "future": false,
+   "celex": "02003D0566-20040120",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "0d4cc5d903674db1",
+    "1f2503de3ed5b960",
+    "254e7ddfb2e73808",
+    "22b76f687bfaf117",
+    "1efa21415c8f5004",
+    "29084ec98783c094",
+    "1d10d1a47322f86b",
+    "da77dd57a873ba75",
+    "dce1deff3955bd98",
+    "8e992975cabc592d",
+    "faf6903bc4f216b8",
+    "8f56678c93ded7c8"
+   ]
+  }
+ ],
+ "fragments": {
+  "fe87873682e0cabf": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**2003/566/CE: Decisão da Comissão, de 28 de Julho de 2003, relativa à contribuição financeira para a realização de acções previstas pelos Estados-Membros para a execução em 2003 dos regimes de controlo, de inspecção e de vigilância aplicáveis à política comum da pesca [notificada com o número C(2003) 2693]** *Jornal Oficial nº L 192 de 31/07/2003 p. 0044 - 0052*\n\nDecisão da Comissão\n\nde 28 de Julho de 2003\n\nrelativa à contribuição financeira para a realização de acções previstas pelos Estados-Membros para a execução em 2003 dos regimes de controlo, de inspecção e de vigilância aplicáveis à política comum da pesca\n\n[notificada com o número C(2003) 2693]\n\n(2003/566/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Decisão 2001/431/CE do Conselho, de 28 de Maio de 2001, relativa a uma participação financeira da Comunidade em certas despesas realizadas pelos Estados-Membros na execução dos regimes de controlo, de inspecção e de vigilância aplicáveis à política comum das pescas(1), e, nomeadamente, o seu artigo 13.o,\n\nConsiderando o seguinte:\n\n(1) A Bélgica, a Dinamarca, a Alemanha, a Grécia, a Espanha, a França, a Irlanda, a Itália, os Países Baixos, a Áustria, Portugal, a Finlândia, a Suécia e o Reino Unido apresentaram à Comissão os programas das actividades de controlo da pesca relativamente ao período compreendido entre 1 de Janeiro de 2001 e 31 de Dezembro de 2003, acompanhados dos pedidos de participação financeira no que respeita às despesas a efectuar em relação a esses programas. Os Estados-Membros apresentaram pedidos actualizados para 2003.\n\n(2) Podem beneficiar de um apoio comunitário os pedidos de financiamento que incidem nas acções enumeradas no artigo 2.o da Decisão 2001/431/CE. Atendendo, nomeadamente, às disposições introduzidas pelo Regulamento (CE) n.o 2371/2002 do Conselho(2), é dada prioridade às acções que incidem na extensão do sistema de controlo por satélite (VMS) aos navios com menos de 24 metros, na realização dos projectos-piloto para a transmissão electrónica das informações ou para a teledetecção dos navios de pesca, bem como na formação dos agentes nacionais.\n\n(3) Há que estabelecer as taxas de participação financeira da Comunidade para cada acção, as condições associadas ao reembolso das despesas, bem como o montante global das despesas elegíveis para 2003, por Estado-Membro e por acção.\n\n(4) Para promover a extensão do sistema de localização por satélite aos navios entre 18 e 24 metros, convém que a taxa de participação comunitária aumente de modo a ser superior a 50 % das despesas elegíveis, no respeito do limite máximo estabelecido no artigo 11.o da Decisão 2001/431/CE.\n\n(5) Em aplicação do artigo 15.o da Decisão 2001/431/CE, os Estados-Membros devem realizar as despesas no período de um ano a contar da autorização jurídica e financeira. Essa autorização deve ocorrer o mais tardar no ano civil seguinte ao da notificação da decisão da Comissão.\n\n(6) Em aplicação do n.o 1 do artigo 17.o da Decisão 2001/431/CE, os Estados-Membros devem apresentar à Comissão os seus pedidos de reembolso das despesas até 31 de Maio do ano seguinte ao da realização das despesas.\n\n(7) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité de Gestão da Pesca e da Aquicultura,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "1f2503de3ed5b960": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente decisão estabelece, relativamente a 2003, os montantes das despesas elegíveis para cada Estado-Membro, as taxas da participação financeira da Comunidade e as condições a que a participação financeira pode estar sujeita, na medida em que as despesas elegíveis sejam efectivamente utilizadas para a execução dos programas de controlo das actividades de pesca."
+  },
+  "254e7ddfb2e73808": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs despesas relativas à instalação dos dispositivos e redes informáticos necessários às trocas de informações ligadas ao controlo beneficiam de uma taxa de participação financeira de 50 %, no máximo, das despesas elegíveis, no limite dos montantes indicados no anexo I."
+  },
+  "22b76f687bfaf117": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs despesas relativas à experimentação e aplicação de novas tecnologias para melhorar o controlo das actividades de pesca que não as previstas nos artigos 4.o e 5.o beneficiam de uma taxa de participação financeira de 50 %, no máximo, das despesas elegíveis, no limite dos montantes indicados no anexo II."
+  },
+  "13a898d7379f5f0d": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs despesas relativas aos investimentos ligados à extensão do sistema de localização dos navios por satélite aos navios com 18 a 24 metros de comprimento de fora a fora beneficiam de uma taxa de participação financeira de, no máximo, 100 % das despesas elegíveis, no respeito das condições seguintes e no limite dos montantes indicados no anexo III:\n\n- o custo máximo admissível para a aquisição de dispositivos de localização por satélite instalados nos navios de pesca comunitários não pode ser superior a 4500 euros por navio,\n\n- a taxa da participação financeira para a aquisição destes dispositivos de localização por satélite será reduzida a 50 %, no máximo, relativamente à parte da despesa superior a 1500 euros por navio."
+  },
+  "29084ec98783c094": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs despesas relativas à realização dos projectos-piloto em matéria de transmissão electrónica das informações e de dispositivos de teledetecção beneficiam de uma taxa de participação financeira de 100 %, no máximo, das despesas elegíveis, no limite dos montantes indicados no anexo IV."
+  },
+  "1d10d1a47322f86b": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs despesas relativas à formação dos agentes nacionais associados às actividades de controlo beneficiam de uma taxa de participação financeira de 50 %, no máximo, das despesas elegíveis, no limite dos montantes indicados no anexo V."
+  },
+  "da77dd57a873ba75": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs despesas relativas à aquisição ou à modernização de navios ou aeronaves efectivamente utilizados para assegurar o controlo, a inspecção e a vigilância das actividades de pesca beneficiam de uma taxa de participação financeira de 35 %, no máximo, das despesas elegíveis, no limite dos montantes indicados no anexo VI."
+  },
+  "dce1deff3955bd98": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs despesas relativas ao estabelecimento de um sistema de avaliação das despesas realizadas com o controlo da política comum da pesca beneficiam de uma taxa de participação financeira de 50 % das despesas elegíveis, no limite dos montantes indicados no anexo VII."
+  },
+  "8e992975cabc592d": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-Membros apresentarão à Comissão, o mais tardar em 31 de Maio de 2006, os seus pedidos de reembolso relativos às despesas referidas na presente decisão."
+  },
+  "faf6903bc4f216b8": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs pedidos de reembolso e de adiantamentos expressos em moedas que não o euro serão convertidos em euros à taxa de câmbio do mês da sua recepção pela Comissão."
+  },
+  "7f439e5015a6fd34": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO Reino da Bélgica, o Reino da Dinamarca, a República Federal da Alemanha, a República Helénica, o Reino de Espanha, a República Francesa, a Irlanda, a República Italiana, o Reino dos Países Baixos, a República da Áustria, a República Portuguesa, a República da Finlândia, o Reino da Suécia e o Reino Unido da Grã-Bretanha e da Irlanda do Norte são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 28 de Julho de 2003.\n\nPela Comissão\n\nFranz Fischler\n\nMembro da Comissão\n\n(1) JO L 154 de 9.6.2001, p. 22.\n\n(2) JO L 358 de 31.12.2002, p. 59.\n\nANEXO I/BILAG I/ANHANG I/ΠΑΡΑΡΤΗΜΑ I/ANNEX I/ANNEXE I/ALLEGATO I/BIJLAGE I/ANEXO I/LIITE I/BILAGA I\n\n>POSIÇÃO NUMA TABELA>\n\nANEXO II/BILAG II/ANHANG II/ΠΑΡΑΡΤΗΜΑ II/ANNEX II/ANNEXE II/ALLEGATO II/BIJLAGE II/ANEXO II/LIITE II/BILAGA II\n\n>POSIÇÃO NUMA TABELA>\n\nANEXO III/BILAG III/ANHANG III/ΠΑΡΑΡΤΗΜΑ III/ANNEX III/ANNEXE III/ALLEGATO III/BIJLAGE III/ANEXO III/LIITE III/BILAGA III\n\n>POSIÇÃO NUMA TABELA>\n\nANEXO IV/BILAG IV/ANHANG IV/ΠΑΡΑΡΤΗΜΑ IV/ANNEX IV/ANNEXE IV/ALLEGATO IV/BIJLAGE IV/ANEXO IV/LIITE IV/BILAGA IV\n\n>POSIÇÃO NUMA TABELA>\n\nANEXO V/BILAG V/ANHANG V/ΠΑΡΑΡΤΗΜΑ V/ANNEX V/ANNEXE V/ALLEGATO V/BIJLAGE V/ANEXO V/LIITE V/BILAGA V\n\n>POSIÇÃO NUMA TABELA>\n\nANEXO VI/BILAG VI/ANHANG VI/ΠΑΡΑΡΤΗΜΑ VI/ANNEX VI/ANNEXE VI/ALLEGATO VI/BIJLAGE VI/ANEXO VI/LIITE VI/BILAGA VI\n\n>POSIÇÃO NUMA TABELA>\n\nANEXO VII/BILAG VII/ANHANG VII/ΠΑΡΑΡΤΗΜΑ VII/ANNEX VII/ANNEXE VII/ALLEGATO VII/BIJLAGE VII/ANEXO VII/LIITE VII/BILAGA VII\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "0d4cc5d903674db1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "2003D0566 — PT — 20.01.2004 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003D0566:PT:NOT) [DECISÃO DA COMISSÃO de 28 de Julho de 2003 relativa à contribuição financeira para a realização de acções previstas pelos Estados-Membros para a execução em 2003 dos regimes de controlo, de inspecção e de vigilância aplicáveis à política comum da pesca [notificada com o número C(2003) 2693] (2003/566/CE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003D0566:PT:NOT) (JO L 192, 31.7.2003, p.44)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004D0064:PT:NOT) | [Decisão da Comissão de 30 de Dezembro de 2003](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004D0064:PT:NOT) | L 13 | 34 | 20.1.2004 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003D0566:PT:NOT)\n\nDECISÃO DA COMISSÃO\n\nde 28 de Julho de 2003\n\nrelativa à contribuição financeira para a realização de acções previstas pelos Estados-Membros para a execução em 2003 dos regimes de controlo, de inspecção e de vigilância aplicáveis à política comum da pesca\n\n[notificada com o número C(2003) 2693]\n\n(2003/566/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Decisão 2001/431/CE do Conselho, de 28 de Maio de 2001, relativa a uma participação financeira da Comunidade em certas despesas realizadas pelos Estados-Membros na execução dos regimes de controlo, de inspecção e de vigilância aplicáveis à política comum das pescas ([1](http://publications.europa.eu/resource/cellar/38938439-aeeb-440c-acde-0521a6596e0f.0010.02/DOC_1#E0001)), e, nomeadamente, o seu artigo 13.o,\n\n(1) A Bélgica, a Dinamarca, a Alemanha, a Grécia, a Espanha, a França, a Irlanda, a Itália, os Países Baixos, a Áustria, Portugal, a Finlândia, a Suécia e o Reino Unido apresentaram à Comissão os programas das actividades de controlo da pesca relativamente ao período compreendido entre 1 de Janeiro de 2001 e 31 de Dezembro de 2003, acompanhados dos pedidos de participação financeira no que respeita às despesas a efectuar em relação a esses programas. Os Estados-Membros apresentaram pedidos actualizados para 2003.\n\n(2) Podem beneficiar de um apoio comunitário os pedidos de financiamento que incidem nas acções enumeradas no artigo 2.o da Decisão 2001/431/CE. Atendendo, nomeadamente, às disposições introduzidas pelo Regulamento (CE) n.o 2371/2002 do Conselho ([2](http://publications.europa.eu/resource/cellar/38938439-aeeb-440c-acde-0521a6596e0f.0010.02/DOC_1#E0002)), é dada prioridade às acções que incidem na extensão do sistema de controlo por satélite (VMS) aos navios com menos de 24 metros, na realização dos projectos-piloto para a transmissão electrónica das informações ou para a teledetecção dos navios de pesca, bem como na formação dos agentes nacionais.\n\n(3) Há que estabelecer as taxas de participação financeira da Comunidade para cada acção, as condições associadas ao reembolso das despesas, bem como o montante global das despesas elegíveis para 2003, por Estado-Membro e por acção.\n\n(4) Para promover a extensão do sistema de localização por satélite aos navios entre 18 e 24 metros, convém que a taxa de participação comunitária aumente de modo a ser superior a 50 % das despesas elegíveis, no respeito do limite máximo estabelecido no artigo 11.o da Decisão 2001/431/CE.\n\n(5) Em aplicação do artigo 15.o da Decisão 2001/431/CE, os Estados-Membros devem realizar as despesas no período de um ano a contar da autorização jurídica e financeira. Essa autorização deve ocorrer o mais tardar no ano civil seguinte ao da notificação da decisão da Comissão.\n\n(6) Em aplicação do n.o 1 do artigo 17.o da Decisão 2001/431/CE, os Estados-Membros devem apresentar à Comissão os seus pedidos de reembolso das despesas até 31 de Maio do ano seguinte ao da realização das despesas.\n\n(7) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité de Gestão da Pesca e da Aquicultura,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "1efa21415c8f5004": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs despesas relativas aos investimentos ligados à extensão do sistema de localização dos navios por satélite aos navios com 18 a 24 metros de comprimento de fora a fora beneficiam de uma taxa de participação financeira de, no máximo, 100 % das despesas elegíveis, no respeito das condições seguintes e no limite dos montantes indicados no anexo III:\n\n— o custo máximo admissível para a aquisição de dispositivos de localização por satélite instalados nos navios de pesca comunitários não pode ser superior a 4 500 euros por navio,\n\n— a taxa da participação financeira para a aquisição destes dispositivos de localização por satélite será reduzida a 50 %, no máximo, relativamente à parte da despesa superior a 1 500 euros por navio."
+  },
+  "8f56678c93ded7c8": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO Reino da Bélgica, o Reino da Dinamarca, a República Federal da Alemanha, a República Helénica, o Reino de Espanha, a República Francesa, a Irlanda, a República Italiana, o Reino dos Países Baixos, a República da Áustria, a República Portuguesa, a República da Finlândia, o Reino da Suécia e o Reino Unido da Grã-Bretanha e da Irlanda do Norte são os destinatários da presente decisão.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004D0064:PT:NOT)\n\nANEXO IBILAG IANHANG IΠΑΡΑΡΤΗΜΑ IANNEX IANNEXE IALLEGATO IBIJLAGE IANEXO ILIITE IBILAGA I\n\n| (EUR) |  |  |\n| --- | --- | --- |\n| Estado miembroMedlemsstatMitgliedstaatΚράτος μέλοςMember StateÉtat membreStato membroLidstaatEstado-MembroJäsenvaltioMedlemsstat | Gastos subvencionablesStøtteberettigede udgifterErstattungsfähige AusgabenΕπιλέξιμες δαπάνεςEligible expenditureDépenses admissiblesSpese ammissibiliIn aanmerking komende uitgavenDespesas elegíveisHyväksyttävät menotBidragsberättigande kostnader | Contribución max. de la ComunidadFællesskabets max. fin. bidragMax. GemeinschaftsbeitragΜέγιστη κοινοτική συμμετοχήMax. Community contributionParticipation communautaire maximaleContributo max. della ComunitàMaximale bijdrage van de GemeenschapContribuição máxima da ComunidadeYhteisön osuus enintäänGemenskapens maximala bidrag |\n| BELGIËBELGIQUE | 24 790 | 12 395 |\n| DANMARK | 640 000 | 320 000 |\n| DEUTSCHLAND | 360 000 | 180 000 |\n| ΕΛΛΑΣ | 1 500 000 | 750 000 |\n| ESPAÑA | 923 812 | 461 906 |\n| FRANCE | 153 000 | 76 500 |\n| IRELAND | 615 552 | 307 776 |\n| ITALIA | 1 755 953 | 877 977 |\n| NEDERLAND | 443 732 | 221 866 |\n| ÖSTERREICH | 0 | 0 |\n| PORTUGAL | 74 820 | 37 410 |\n| SUOMI | 900 000 | 450 000 |\n| SVERIGE | 316 904 | 158 452 |\n| UNITED KINGDOM | 527 662 | 263 831 |\n| Total/I alt/Σύνολο/Totale/Totaal/Yhteensä/Totalt | 8 236 225 | 4 118 113 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003D0566:PT:NOT)\n\nANEXO IIBILAG IIANHANG IIΠΑΡΑΡΤΗΜΑ IIANNEX IIANNEXE IIALLEGATO IIBIJLAGE IIANEXO IILIITE IIBILAGA II\n\n| (EUR) |  |  |\n| --- | --- | --- |\n| Estado miembroMedlemsstatMitgliedstaatΚράτος μέλοςMember StateÉtat membreStato membroLidstaatEstado-MembroJäsenvaltioMedlemsstat | Gastos subvencionablesStøtteberettigede udgifterErstattungsfähige AusgabenΕπιλέξιμες δαπάνεςEligible expenditureDépenses admissiblesSpese ammissibiliIn aanmerking komende uitgavenDespesas elegíveisHyväksyttävät menotBidragsberättigande kostnader | Contribución max. de la ComunidadFællesskabets max. fin. bidragMax. GemeinschaftsbeitragΜέγιστη κοινοτική συμμετοχήMax. Community contributionParticipation communautaire maximaleContributo max. della ComunitàMaximale bijdrage van de GemeenschapContribuição max. da ComunidadeYhteisön osuus enintäänGemenskapens maximala bidrag |\n| BELGIËBELGIQUE | 0 | 0 |\n| DANMARK | 0 | 0 |\n| DEUTSCHLAND | 127 824 | 63 912 |\n| ΕΛΛΑΣ | 1 500 000 | 750 000 |\n| ESPAÑA | 755 470 | 377 735 |\n| FRANCE | 0 | 0 |\n| IRELAND | 0 | 0 |\n| ITALIA | 1 106 400 | 553 200 |\n| NEDERLAND | 0 | 0 |\n| ÖSTERREICH | 0 | 0 |\n| PORTUGAL | 0 | 0 |\n| SUOMI | 134 000 | 67 000 |\n| SVERIGE | 0 | 0 |\n| UNITED KINGDOM | 0 | 0 |\n| Total/I alt/Σύνολο/Totale/Totaal/Yhteensä/Totalt | 3 623 694 | 1 811 847 |\n\nANEXO IIIBILAG IIIANHANG IIIΠΑΡΑΡΤΗΜΑ IIIANNEX IIIANNEXE IIIALLEGATO IIIBIJLAGE IIIANEXO IIILIITE IIIBILAGA III\n\n| (EUR) |  |  |\n| --- | --- | --- |\n| Estado miembroMedlemsstatMitgliedstaatΚράτος μέλοςMember StateÉtat membreStato membroLidstaatEstado-MembroJäsenvaltioMedlemsstat | Gastos subvencionablesStøtteberettigede udgifterErstattungsfähige AusgabenΕπιλέξιμες δαπάνεςEligible expenditureDépenses admissiblesSpese ammissibiliIn aanmerking komende uitgavenDespesas elegíveisHyväksyttävät menotBidragsberättigande kostnader | Contribución max. de la ComunidadFællesskabets max. fin. bidragMax. GemeinschaftsbeitragΜέγιστη κοινοτική συμμετοχήMax. Community contributionParticipation communautaire maximaleContributo max. della ComunitàMaximale bijdrage van de GemeenschapContribuição max. da ComunidadeYhteisön osuus enintäänGemenskapens maximala bidrag |\n| BELGIËBELGIQUE | 57 800 | 41 650 |\n| DANMARK | 759 968 | 520 234 |\n| DEUTSCHLAND | 468 000 | 234 000 |\n| ΕΛΛΑΣ | 1 276 000 | 435 000 |\n| ESPAÑA | 3 150 000 | 2 100 000 |\n| FRANCE | 2 100 000 | 1 500 000 |\n| IRELAND | 690 000 | 450 000 |\n| ITALIA | 11 564 347 | 3 387 000 |\n| NEDERLAND | 974 406 | 661 953 |\n| ÖSTERREICH | 0 | 0 |\n| PORTUGAL | 1 939 868 | 1 218 000 |\n| SUOMI | 176 000 | 96 000 |\n| SVERIGE | 351 470 | 210 000 |\n| UNITED KINGDOM | 0 | 0 |\n| Total/I alt/Σύνολο/Totale/Totaal/Yhteensä/Totalt | 23 507 859 | 10 853 837 |\n\nANEXO IVBILAG IVANHANG IVΠΑΡΑΡΤΗΜΑ IVANNEX IVANNEXE IVALLEGATO IVBIJLAGE IVANEXO IVLIITE IVBILAGA IV\n\n| (EUR) |  |  |\n| --- | --- | --- |\n| Estado miembroMedlemsstatMitgliedstaatΚράτος μέλοςMember StateÉtat membreStato membroLidstaatEstado-MembroJäsenvaltioMedlemsstat | Gastos subvencionablesStøtteberettigede udgifterErstattungsfähige AusgabenΕπιλέξιμες δαπάνεςEligible expenditureDépenses admissiblesSpese ammissibiliIn aanmerking komende uitgavenDespesas elegíveisHyväksyttävät menotBidragsberättigande kostnader | Contribución max. de la ComunidadFællesskabets max. fin. bidragMax. GemeinschaftsbeitragΜέγιστη κοινοτική συμμετοχήMax. Community contributionParticipation communautaire maximaleContributo max. della ComunitàMaximale bijdrage van de GemeenschapContribuição max. da ComunidadeYhteisön osuus enintäänGemenskapens maximala bidrag |\n| BELGIËBELGIQUE | 50 000 | 50 000 |\n| DANMARK | 400 000 | 400 000 |\n| DEUTSCHLAND | 0 | 0 |\n| ΕΛΛΑΣ | 0 | 0 |\n| ESPAÑA | 0 | 0 |\n| FRANCE | 0 | 0 |\n| IRELAND | 0 | 0 |\n| ITALIA | 950 000 | 475 000 |\n| NEDERLAND | 0 | 0 |\n| ÖSTERREICH | 0 | 0 |\n| PORTUGAL | 0 | 0 |\n| SUOMI | 0 | 0 |\n| SVERIGE | 259 945 | 259 945 |\n| UNITED KINGDOM | 0 | 0 |\n| Total/I alt/Σύνολο/Totale/Totaal/Yhteensä/Totalt | 1 659 945 | 1 184 945 |\n\nANEXO VBILAG VANHANG VΠΑΡΑΡΤΗΜΑ VANNEX VANNEXE VALLEGATO VBIJLAGE VANEXO VLIITE VBILAGA V\n\n| (EUR) |  |  |\n| --- | --- | --- |\n| Estado miembroMedlemsstatMitgliedstaatΚράτος μέλοςMember StateÉtat membreStato membroLidstaatEstado-MembroJäsenvaltioMedlemsstat | Gastos subvencionablesStøtteberettigede udgifterErstattungsfähige AusgabenΕπιλέξιμες δαπάνεςEligible expenditureDépenses admissiblesSpese ammissibiliIn aanmerking komende uitgavenDespesas elegíveisHyväksyttävät menotBidragsberättigande kostnader | Contribución max. de la ComunidadFællesskabets max. fin. bidragMax. GemeinschaftsbeitragΜέγιστη κοινοτική συμμετοχήMax. Community contributionParticipation communautaire maximaleContributo max. della ComunitàMaximale bijdrage van de GemeenschapContribuição max. da ComunidadeYhteisön osuus enintäänGemenskapens maximala bidrag |\n| BELGIËBELGIQUE | 9 914 | 4 957 |\n| DANMARK | 100 000 | 50 000 |\n| DEUTSCHLAND | 20 713 | 10 357 |\n| ΕΛΛΑΣ | 1 500 000 | 750 000 |\n| ESPAÑA | 239 793 | 119 897 |\n| FRANCE | 70 000 | 35 000 |\n| IRELAND | 135 226 | 0 |\n| ITALIA | 1 142 116 | 571 058 |\n| NEDERLAND | 68 680 | 34 340 |\n| ÖSTERREICH | 19 259 | 9 630 |\n| PORTUGAL | 0 | 0 |\n| SUOMI | 20 000 | 10 000 |\n| SVERIGE | 27 319 | 13 660 |\n| UNITED KINGDOM | 265 118 | 132 559 |\n| Total/I alt/Σύνολο/Totale/Totaal/Yhteensä/Totalt | 3 618 138 | 1 741 458 |\n\nANEXO VIBILAG VIANHANG VIΠΑΡΑΡΤΗΜΑ VIANNEX VIANNEXE VIALLEGATO VIBIJLAGE VIANEXO VILIITE VIBILAGA VI\n\n| (EUR) |  |  |\n| --- | --- | --- |\n| Estado miembroMedlemsstatMitgliedstaatΚράτος μέλοςMember StateÉtat membreStato membroLidstaatEstado-MembroJäsenvaltioMedlemsstat | Gastos subvencionablesStøtteberettigede udgifterErstattungsfähige AusgabenΕπιλέξιμες δαπάνεςEligible expenditureDépenses admissiblesSpese ammissibiliIn aanmerking komende uitgavenDespesas elegíveisHyväksyttävät menotBidragsberättigande kostnader | Contribución max. de la ComunidadFællesskabets max. fin. bidragMax. GemeinschaftsbeitragΜέγιστη κοινοτική συμμετοχήMax. Community contributionParticipation communautaire maximaleContributo max. della ComunitàMaximale bijdrage van de GemeenschapContribuição max. da ComunidadeYhteisön osuus enintäänGemenskapens maximala bidrag |\n| BELGIËBELGIQUE | 346 510 | 80 500 |\n| DANMARK | 4 030 000 | 0 |\n| DEUTSCHLAND | 3 613 625 | 0 |\n| ΕΛΛΑΣ | 1 100 000 | 385 000 |\n| ESPAÑA | 15 118 519 | 2 832 199 |\n| FRANCE | 4 600 000 | 0 |\n| IRELAND | 9 831 503 | 3 244 500 |\n| ITALIA | 350 000 | 122 500 |\n| NEDERLAND | 0 | 0 |\n| ÖSTERREICH | 0 | 0 |\n| PORTUGAL | 8 170 400 | 0 |\n| SUOMI | 0 | 0 |\n| SVERIGE | 4 458 529 | 1 560 485 |\n| UNITED KINGDOM | 14 356 620 | 4 456 059 |\n| Total/I alt/Σύνολο/Totale/Totaal/Yhteensä/Totalt | 65 975 306 | 12 681 243 |\n\nANEXO VIIBILAG VIIANHANG VIIΠΑΡΑΡΤΗΜΑ VIIANNEX VIIANNEXE VIIALLEGATO VIIBIJLAGE VIIANEXO VIILIITE VIIBILAGA VII\n\n| (EUR) |  |  |\n| --- | --- | --- |\n| Estado miembroMedlemsstatMitgliedstaatΚράτος μέλοςMember StateÉtat membreStato membroLidstaatEstado-MembroJäsenvaltioMedlemsstat | Gastos subvencionablesStøtteberettigede udgifterErstattungsfähige AusgabenΕπιλέξιμες δαπάνεςEligible expenditureDépenses admissiblesSpese ammissibiliIn aanmerking komende uitgavenDespesas elegíveisHyväksyttävät menotBidragsberättigande kostnader | Contribución max. de la ComunidadFællesskabets max. fin. bidragMax. GemeinschaftsbeitragΜέγιστη κοινοτική συμμετοχήMax. Community contributionParticipation communautaire maximaleContributo max. della ComunitàMaximale bijdrage van de GemeenschapContribuição max. da ComunidadeYhteisön osuus enintäänGemenskapens maximala bidrag |\n| BELGIËBELGIQUE | 0 | 0 |\n| DANMARK | 0 | 0 |\n| DEUTSCHLAND | 0 | 0 |\n| ΕΛΛΑΣ | 400 000 | 200 000 |\n| ESPAÑA | 0 | 0 |\n| FRANCE | 0 | 0 |\n| IRELAND | 0 | 0 |\n| ITALIA | 0 | 0 |\n| NEDERLAND | 0 | 0 |\n| ÖSTERREICH | 0 | 0 |\n| PORTUGAL | 0 | 0 |\n| SUOMI | 0 | 0 |\n| SVERIGE | 0 | 0 |\n| UNITED KINGDOM | 0 | 0 |\n| Total/I alt/Σύνολο/Totale/Totaal/Yhteensä/Totalt | 400 000 | 200 000 |\n\n([1](http://publications.europa.eu/resource/cellar/38938439-aeeb-440c-acde-0521a6596e0f.0010.02/DOC_1#src.E0001)) JO L 154 de 9.6.2001, p. 22.\n\n([2](http://publications.europa.eu/resource/cellar/38938439-aeeb-440c-acde-0521a6596e0f.0010.02/DOC_1#src.E0002)) JO L 358 de 31.12.2002, p. 59."
+  }
+ }
+}

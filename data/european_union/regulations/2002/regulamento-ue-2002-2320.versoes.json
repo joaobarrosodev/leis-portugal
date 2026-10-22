@@ -1,0 +1,1009 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002R2320:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R2320-20080429",
+ "dre_path": null,
+ "source_lastmod": "2008-04-29",
+ "versions": [
+  {
+   "date": "2002-12-30",
+   "future": false,
+   "celex": "32002R2320",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c3d1977575175dc2",
+    "ea88eb2b327f80c4",
+    "0b24bbe41445a42f",
+    "027a6a083547f5bf",
+    "00f7c5057a9da5de",
+    "552964c846b83f17",
+    "a1015b3548c49f8b",
+    "c24ae9b30d461435",
+    "7407225f7f50311e",
+    "02339e5a182130f2",
+    "e232e09030f6baa2",
+    "a974c1e633e8baca",
+    "873e809f47a1d4cb",
+    "c751799a49856cc5",
+    "87f69f81d182b6ef"
+   ]
+  },
+  {
+   "date": "2004-05-20",
+   "future": false,
+   "celex": "02002R2320-20040520",
+   "acts": [
+    {
+     "id": "eu:celex:32004R0849:por",
+     "title": "REGULAMENTO (CE) N. o 849/2004 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Abril de 2004",
+     "published": null,
+     "celex": "32004R0849"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 4.º — Normas comuns",
+    "Altera Artigo 7.º — Acompanhamento da conformidade",
+    "Altera Artigo 8.º — Difusão de informações",
+    "Altera Artigo 13.º — Entrada em vigor",
+    "Altera ANEXO",
+    "Adita 1. DEFINIÇÕES",
+    "Adita 2. SEGURANÇA DO AEROPORTO",
+    "Adita 2.1. Requisitos em matéria de planeamento aeroportuário",
+    "Adita 2.1.1. Limites entre o lado ar e o lado terra",
+    "Adita 2.1.2. Zonas restritas de segurança",
+    "Adita 2.2. Controlo do acesso",
+    "Adita 2.2.1. Zonas restritas de segurança e outras zonas do lado ar",
+    "Adita 2.2.2. Terminais",
+    "Adita 2.2.3. Outras zonas públicas",
+    "Adita 2.3. Rastreio do pessoal, objectos transportados e veículos",
+    "Adita 2.4. Segurança física e patrulhas",
+    "Adita 3. SEGURANÇA DA AERONAVE",
+    "Adita 3.1. Verificação e controlo de segurança da aeronave",
+    "Adita 3.2. Protecção da aeronave",
+    "Adita 4. PASSAGEIROS E BAGAGEM DE CABINA",
+    "Adita 4.1. Rastreio de passageiros",
+    "Adita 4.2. Separação de passageiros",
+    "Adita 4.3. Rastreio da bagagem de cabina",
+    "Adita 4.4. Rastreio dos diplomatas",
+    "Adita 5. BAGAGEM DE PORÃO",
+    "Adita 5.1. Reconciliação da bagagem de porão",
+    "Adita 5.2. Rastreio da bagagem de porão",
+    "Adita 5.3. Protecção da bagagem de porão",
+    "Adita 6. CARGA, CORREIO E ENCOMENDAS EXPRESSO",
+    "Adita 6.1. Aplicação",
+    "Adita 6.2. Qualificações para agentes reconhecidos",
+    "Adita 6.3. Controlos de segurança",
+    "Adita 6.4. Critérios relativos ao expedidor conhecido",
+    "Adita 6.5. Transporte em aeronaves de carga",
+    "Adita 6.6. Carga de transbordo",
+    "Adita 7. CORREIO POSTAL",
+    "Adita 7.1. Aplicação",
+    "Adita 7.2. Qualificações da autoridade/administração postal reconhecida",
+    "Adita 7.3. Controlos de segurança",
+    "Adita 7.4. Critérios relativos ao expedidor conhecido",
+    "Adita 7.5. Correio de transbordo",
+    "Adita 8. CORREIO POSTAL E MATERIAIS DA TRANSPORTADORA AÉREA",
+    "Adita 8.1. Aplicação",
+    "Adita 8.2. Definições",
+    "Adita 8.3. Controlos de segurança",
+    "Adita 9. PROVISÕES E OUTROS FORNECIMENTOS DE RESTAURAÇÃO DA TRANSPORTADORA AÉREA",
+    "Adita 9.1. Aplicação",
+    "Adita 9.2. Controlos de segurança",
+    "Adita 10. PRODUTOS E OUTROS FORNECIMENTOS DE LIMPEZA DA TRANSPORTADORA AÉREA",
+    "Adita 10.1. Aplicação e objectivo",
+    "Adita 10.2. Controlos de segurança",
+    "Adita 11. AVIAÇÃO GERAL",
+    "Adita 11.1. Controlos de segurança",
+    "Adita 12. RECRUTAMENTO E FORMAÇÃO DO PESSOAL",
+    "Adita 12.1. Programa nacional de formação de segurança da aviação",
+    "Adita 12.2. Pessoal de segurança",
+    "Adita 12.3. Outro pessoal",
+    "Adita 13. ORIENTAÇÕES PARA O EQUIPAMENTO",
+    "Adita 13.1. Equipamentos de detecção de metais",
+    "Adita 1. Pórticos de detecção de metais",
+    "Adita 2. Detectores portáteis de metais",
+    "Adita 13.2. Normas e procedimentos de ensaio para os equipamentos de raios-X",
+    "Adita 1. Aplicabilidade",
+    "Adita 2. Requisitos de comportamento funcional",
+    "Adita 3. Manutenção",
+    "Adita Apêndice",
+    "Adita Orientações para a classificação de artigos proibidos",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "72458690c56bf181",
+    "f714b32aef2c4630",
+    "e3c34406b34eff5c",
+    "027a6a083547f5bf",
+    "09be90d15340dd43",
+    "a6aab03ca1f8943e",
+    "a1015b3548c49f8b",
+    "d6834e6af5b5bb9c",
+    "e9bec2edc0d99e84",
+    "b25f87edbc882216",
+    "e232e09030f6baa2",
+    "8ca47937a2edf7c8",
+    "873e809f47a1d4cb",
+    "1adda0fd4c669e6d",
+    "10220b9774fa9034",
+    "7cab1c41fc66502b",
+    "d66cebe8c2e7822c",
+    "c768c99c966f424a",
+    "1fbc6e369d7aae4f",
+    "387e32a47cc6aa8a",
+    "4b7c647da1f21fe0",
+    "4427b9c1e1a6cf2e",
+    "f5e3f2956217fa4e",
+    "31f1cbc4b09acc3c",
+    "d2078e8840d3e183",
+    "285ee0a7efce3742",
+    "6def219b9dba95a0",
+    "04c5421113bb0f56",
+    "e2861d9ef742cb79",
+    "5b7f6e516e2911bc",
+    "f339aaf0e11eb22c",
+    "df7e6f5115b6fdf1",
+    "9893360861efa30c",
+    "c3d4cb9ccbf8c43e",
+    "95c6b9b6838217d2",
+    "7c2a42ae9f5a87ad",
+    "926fc6680d31d548",
+    "49ca7614b8f92d5f",
+    "00f41918d43c546f",
+    "7940acd5c4f2d54f",
+    "71d3e4e5f4709c31",
+    "3e76b9fbbdb0e75f",
+    "542ed0ec7fa90fea",
+    "21ca7416a45f7997",
+    "f77ddc97d9feae83",
+    "6fd17c002502b932",
+    "2c043e63a639e3c8",
+    "1087f27dfa14e0d5",
+    "aba696f04ad620a4",
+    "1dfb7c4d63c83980",
+    "3014c69f9a09b4b5",
+    "88b583f83608ba58",
+    "2baa5ca2150cc7cd",
+    "0e1048c4520562cb",
+    "cb9fb6ebd0feba6d",
+    "801f07f46386c5f0",
+    "9d8fd198a2d966c4",
+    "a6b4855bf2945d02",
+    "10f2651d75cc0c17",
+    "537693de6f1014c7",
+    "76cdfbf3d7e54274",
+    "a1701d52f8b4328a",
+    "550f2e30af34824f",
+    "1091cf7601a7c1d1",
+    "3db480f0967aed3f",
+    "85668743621bc1b7",
+    "dc40d65734447a6d",
+    "fcd3fc6f59099e52",
+    "1244f3217af6b804",
+    "7d2cfcba5f13adaa",
+    "0c6375a0d05effbf",
+    "3a8fe625a5b2eaed",
+    "9b5580a606616eb9",
+    "e80fa16ce95d0771",
+    "9d9010cf22559c5b",
+    "ae333fc2d57e1e38",
+    "544f5ed606d073aa",
+    "c94c3a607007075a"
+   ]
+  },
+  {
+   "date": "2008-04-29",
+   "future": false,
+   "celex": "02002R2320-20080429",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objectivos",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Âmbito",
+    "Suprime Artigo 4.º — Normas comuns",
+    "Suprime Artigo 5.º — Programa nacional de segurança da aviação civil",
+    "Suprime Artigo 6.º — Medidas mais rigorosas",
+    "Suprime Artigo 7.º — Acompanhamento da conformidade",
+    "Suprime Artigo 8.º — Difusão de informações",
+    "Suprime Artigo 9.º — Comité",
+    "Suprime Artigo 10.º — Países terceiros",
+    "Suprime Artigo 11.º — Publicação de informações",
+    "Suprime Artigo 12.º — Sanções",
+    "Suprime Artigo 13.º — Entrada em vigor",
+    "Suprime ANEXO",
+    "Suprime 1. DEFINIÇÕES",
+    "Suprime 2. SEGURANÇA DO AEROPORTO",
+    "Suprime 2.1. Requisitos em matéria de planeamento aeroportuário",
+    "Suprime 2.1.1. Limites entre o lado ar e o lado terra",
+    "Suprime 2.1.2. Zonas restritas de segurança",
+    "Suprime 2.2. Controlo do acesso",
+    "Suprime 2.2.1. Zonas restritas de segurança e outras zonas do lado ar",
+    "Suprime 2.2.2. Terminais",
+    "Suprime 2.2.3. Outras zonas públicas",
+    "Suprime 2.3. Rastreio do pessoal, objectos transportados e veículos",
+    "Suprime 2.4. Segurança física e patrulhas",
+    "Suprime 3. SEGURANÇA DA AERONAVE",
+    "Suprime 3.1. Verificação e controlo de segurança da aeronave",
+    "Suprime 3.2. Protecção da aeronave",
+    "Suprime 4. PASSAGEIROS E BAGAGEM DE CABINA",
+    "Suprime 4.1. Rastreio de passageiros",
+    "Suprime 4.2. Separação de passageiros",
+    "Suprime 4.3. Rastreio da bagagem de cabina",
+    "Suprime 4.4. Rastreio dos diplomatas",
+    "Suprime 5. BAGAGEM DE PORÃO",
+    "Suprime 5.1. Reconciliação da bagagem de porão",
+    "Suprime 5.2. Rastreio da bagagem de porão",
+    "Suprime 5.3. Protecção da bagagem de porão",
+    "Suprime 6. CARGA, CORREIO E ENCOMENDAS EXPRESSO",
+    "Suprime 6.1. Aplicação",
+    "Suprime 6.2. Qualificações para agentes reconhecidos",
+    "Suprime 6.3. Controlos de segurança",
+    "Suprime 6.4. Critérios relativos ao expedidor conhecido",
+    "Suprime 6.5. Transporte em aeronaves de carga",
+    "Suprime 6.6. Carga de transbordo",
+    "Suprime 7. CORREIO POSTAL",
+    "Suprime 7.1. Aplicação",
+    "Suprime 7.2. Qualificações da autoridade/administração postal reconhecida",
+    "Suprime 7.3. Controlos de segurança",
+    "Suprime 7.4. Critérios relativos ao expedidor conhecido",
+    "Suprime 7.5. Correio de transbordo",
+    "Suprime 8. CORREIO POSTAL E MATERIAIS DA TRANSPORTADORA AÉREA",
+    "Suprime 8.1. Aplicação",
+    "Suprime 8.2. Definições",
+    "Suprime 8.3. Controlos de segurança",
+    "Suprime 9. PROVISÕES E OUTROS FORNECIMENTOS DE RESTAURAÇÃO DA TRANSPORTADORA AÉREA",
+    "Suprime 9.1. Aplicação",
+    "Suprime 9.2. Controlos de segurança",
+    "Suprime 10. PRODUTOS E OUTROS FORNECIMENTOS DE LIMPEZA DA TRANSPORTADORA AÉREA",
+    "Suprime 10.1. Aplicação e objectivo",
+    "Suprime 10.2. Controlos de segurança",
+    "Suprime 11. AVIAÇÃO GERAL",
+    "Suprime 11.1. Controlos de segurança",
+    "Suprime 12. RECRUTAMENTO E FORMAÇÃO DO PESSOAL",
+    "Suprime 12.1. Programa nacional de formação de segurança da aviação",
+    "Suprime 12.2. Pessoal de segurança",
+    "Suprime 12.3. Outro pessoal",
+    "Suprime 13. ORIENTAÇÕES PARA O EQUIPAMENTO",
+    "Suprime 13.1. Equipamentos de detecção de metais",
+    "Suprime 1. Pórticos de detecção de metais",
+    "Suprime 2. Detectores portáteis de metais",
+    "Suprime 13.2. Normas e procedimentos de ensaio para os equipamentos de raios-X",
+    "Suprime 1. Aplicabilidade",
+    "Suprime 2. Requisitos de comportamento funcional",
+    "Suprime 3. Manutenção",
+    "Suprime Apêndice",
+    "Suprime Orientações para a classificação de artigos proibidos",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "ac6beec50b312b21"
+   ]
+  }
+ ],
+ "fragments": {
+  "c3d1977575175dc2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "| 30.12.2002 | PT | Jornal Oficial das Comunidades Europeias | L 355/1 |\n| --- | --- | --- | --- |\n\nREGULAMENTO (CE) N.o 2320/2002 DO PARLAMENTO EUROPEU E DO CONSELHO\n\nde 16 de Dezembro de 2002\n\nrelativo ao estabelecimento de regras comuns no domínio da segurança da aviação civil\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.o 2 do seu artigo 80.o,\n\nTendo em conta as conclusões do Conselho «Transportes» de 16 de Outubro de 2001 e, nomeadamente, o seu ponto 9,\n\nTendo em conta a proposta da Comissão[(1)](http://publications.europa.eu/resource/cellar/89fe2ceb-4b2c-4491-b62a-d8cbd77615e0.0010.05/DOC_1#ntr1-L_2002355PT.01000101-E0001),\n\nTendo em conta o parecer do Comité Económico e Social Europeu[(2)](http://publications.europa.eu/resource/cellar/89fe2ceb-4b2c-4491-b62a-d8cbd77615e0.0010.05/DOC_1#ntr2-L_2002355PT.01000101-E0002),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.o do Tratado[(3)](http://publications.europa.eu/resource/cellar/89fe2ceb-4b2c-4491-b62a-d8cbd77615e0.0010.05/DOC_1#ntr3-L_2002355PT.01000101-E0003), tendo em conta o projecto comum aprovado em 15 de Novembro de 2002 pelo Comité de Conciliação,\n\nConsiderando o seguinte:\n\n(1) Os actos criminosos cometidos em Nova Iorque e Washington em 11 de Setembro de 2001 demonstram que o terrorismo é uma das maiores ameaças aos ideais de democracia e liberdade e aos valores da paz que constituem a própria essência da União Europeia.\n\n(2) É necessário garantir, de forma permanente, na aviação civil a protecção dos cidadãos no interior da Comunidade Europeia, evitando actos de interferência ilegal.\n\n(3) Sem prejuízo da regulamentação dos Estados-Membros no domínio da segurança nacional e das medidas a adoptar com base no Título VI do Tratado da União Europeia, esse objectivo deve ser alcançado mediante a aprovação de disposições adequadas no domínio da política dos transportes aéreos que estabeleçam normas de base comuns, com base nas actuais recomendações do documento 30 da Conferência Europeia da Aviação Civil (CEAC). Deverão ser conferidos à Comissão poderes de execução que lhe permitam adoptar as correspondentes medidas de execução pormenorizadas. A fim de prevenir actos ilegais, algumas destas medidas de execução deverão permanecer secretas e não ser publicadas.\n\n(4) O presente regulamento respeita os direitos fundamentais e observa os princípios reconhecidos, nomeadamente na Carta dos Direitos Fundamentais da União Europeia.\n\n(5) Os diversos tipos de actividades de aviação civil não estão necessariamente sujeitos ao mesmo tipo de ameaças. Por conseguinte, é necessário que as medidas de execução pormenorizadas estejam devidamente adaptadas às circunstâncias específicas de cada actividade e ao carácter sensível de determinadas medidas.\n\n(6) Nos pequenos aeroportos, a aplicação das normas de base comuns pode ser desproporcionada ou a execução das normas pode ser impossível por razões práticas objectivas. Neste caso, as autoridades adequadas dos Estados-Membros deverão poder aplicar medidas alternativas que proporcionem um nível adequado de protecção. A Comissão deverá analisar se estas medidas são justificadas por razões práticas objectivas e se proporcionam um nível adequado de protecção.\n\n(7) A Convenção sobre a Aviação Civil Internacional, assinada em Chicago em 7 de Dezembro de 1944 (Convenção de Chicago), estabelece normas mínimas para garantir a segurança da aviação civil.\n\n(8) Tendo em vista a realização dos objectivos do presente regulamento, cada Estado-Membro deverá adoptar um programa nacional de segurança da aviação civil, bem como um correspondente programa de controlo da qualidade e um programa de formação.\n\n(9) Atendendo à diversidade das partes envolvidas na aplicação de medidas de segurança a nível nacional, é necessário que cada Estado-Membro designe uma autoridade única adequada responsável pela coordenação e pelo acompanhamento da execução dos programas no domínio da segurança da aviação.\n\n(10) Os Estados-Membros deverão poder aplicar medidas mais rigorosas.\n\n(11) O acompanhamento das medidas de segurança exige a criação a nível nacional de sistemas de controlo da qualidade adequados e a organização de inspecções sob a autoridade da Comissão, para verificar a eficácia de cada um dos sistemas nacionais.\n\n(12) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão[(4)](http://publications.europa.eu/resource/cellar/89fe2ceb-4b2c-4491-b62a-d8cbd77615e0.0010.05/DOC_1#ntr4-L_2002355PT.01000101-E0004).\n\n(13) Em 2 de Dezembro de 1987, foram acordadas em Londres pelo Reino de Espanha e o Reino Unido, através de uma declaração conjunta efectuada pelos ministros dos Negócios Estrangeiros dos dois países, disposições que têm em vista uma maior cooperação na utilização do aeroporto de Gibraltar e que não foram ainda aplicadas.\n\n(14) Atendendo a que os objectivos da acção encarada, nomeadamente o estabelecimento e aplicação uniforme de disposições adequadas no domínio da política da aviação, não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, devido à dimensão europeia do presente regulamento, ser melhor alcançados ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.o do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento limita-se às normas de base comuns indispensáveis para alcançar os objectivos de segurança da aviação, não excedendo o necessário para esse efeito,\n\nAPROVARAM O PRESENTE REGULAMENTO:"
+  },
+  "ea88eb2b327f80c4": {
+   "fragment_id": "Artigo 1.º — Objectivos",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos\n\n1. O presente regulamento tem por objectivo principal estabelecer e implementar as medidas comunitárias adequadas, destinadas a evitar actos de interferência ilegal contra a aviação civil.\n\n2. É objectivo adicional proporcionar uma base de interpretação comum das disposições correspondentes da Convenção de Chicago, em especial do anexo 17.\n\n3. As modalidades de consecução dos objectivos enunciados nos n.os 1 e 2 são:\n\na) A criação de normas de base comuns sobre medidas de segurança da aviação;\n\nb) A introdução de mecanismos adequados de vigilância da conformidade."
+  },
+  "0b24bbe41445a42f": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Aeroporto», qualquer área de um Estado-Membro aberta a operações comerciais de transporte aéreo;\n\n2. «Convenção de Chicago», a Convenção sobre a Aviação Civil Internacional e os seus anexos, assinada em Chicago em 7 de Dezembro de 1944;\n\n3. «Segurança da aviação», a combinação de medidas e de recursos humanos e naturais destinados a proteger a aviação civil contra actos de interferência ilegal."
+  },
+  "027a6a083547f5bf": {
+   "fragment_id": "Artigo 3.º — Âmbito",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito\n\n1. As medidas estabelecidas no presente regulamento são aplicáveis a todos os aeroportos situados nos territórios dos Estados-Membros a que o Tratado se aplique.\n\n2. A aplicação do presente regulamento ao aeroporto de Gibraltar entende-se sem prejuízo das posições legais respectivas do Reino de Espanha e do Reino Unido em relação ao diferendo sobre a soberania do território onde se encontra situado o aeroporto.\n\n3. A aplicação do presente regulamento ao aeroporto de Gibraltar fica suspensa até que seja aplicado o regime previsto na declaração conjunta dos ministros dos Negócios Estrangeiros do Reino de Espanha e do Reino Unido, efectuada em 2 de Dezembro de 1987. Os Governos de Espanha e do Reino Unido devem informar o Conselho da referida data de aplicação."
+  },
+  "00f7c5057a9da5de": {
+   "fragment_id": "Artigo 4.º — Normas comuns",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Normas comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Normas comuns\n\n1. As normas de base comuns sobre medidas de segurança da aviação baseiam-se nas actuais recomendações do documento 30 da CEAC e constam do anexo.\n\n2. As medidas necessárias à execução e à adaptação técnica destas normas de base comuns são adoptadas nos termos do n.o 2 do artigo 9.o, tendo devidamente em consideração os diversos tipos de operações e o carácter sensível das medidas relativas aos seguintes aspectos:\n\na) Critérios de desempenho e ensaios de aceitação de equipamentos;\n\nb) Procedimentos detalhados que contenham informações de carácter sensível;\n\nc) Critérios detalhados para derrogações às medidas de segurança.\n\n3. A autoridade adequada do Estado-Membro pode, com base numa avaliação local dos riscos e sempre que as medidas de segurança especificadas no anexo possam ser desproporcionadas ou não possam ser aplicadas por razões práticas objectivas, adoptar medidas de segurança nacionais que proporcionem um nível adequado de protecção nos aeroportos:\n\na) Com uma média anual de 2 voos comerciais diários; ou\n\nb) Com voos apenas de aviação geral; ou\n\nc) Com actividade comercial limitada às aeronaves com peso máximo à descolagem inferior a 10 toneladas ou com menos de 20 lugares,\n\ntendo em conta as particularidades destes pequenos aeroportos.\n\nO Estado-Membro em causa informa a Comissão destas medidas.\n\n4. A Comissão deve avaliar se as medidas adoptadas por qualquer Estado-Membro ao abrigo do n.o 3 se justificam por razões práticas objectivas e proporcionam um nível adequado de protecção. Se as medidas não satisfizerem estes critérios, a Comissão tomará uma decisão nos termos do n.o 3 do artigo 9.o; nesse caso, o Estado-Membro deve revogá-las ou adaptá-las."
+  },
+  "552964c846b83f17": {
+   "fragment_id": "Artigo 5.º — Programa nacional de segurança da aviação civil",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Programa nacional de segurança da aviação civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Programa nacional de segurança da aviação civil\n\n1. No prazo de 3 meses a contar da data de entrada em vigor do presente regulamento, cada Estado-Membro deve aprovar um programa nacional de segurança da aviação civil para garantir a aplicação das normas comuns mencionadas no n.o 1 do artigo 4.o e das medidas adoptadas em conformidade com o n.o 2 do artigo 4.o até à data especificada nas referidas medidas.\n\n2. Não obstante, em qualquer Estado-Membro, um ou mais organismos ou entidades poderem desempenhar funções de segurança da aviação, cada Estado-Membro deve designar uma autoridade adequada responsável pela coordenação e supervisão da aplicação do seu programa nacional de segurança da aviação civil.\n\n3. No prazo de 6 meses a contar da data de entrada em vigor do presente regulamento, cada Estado-Membro deve exigir à sua autoridade adequada que assegure o desenvolvimento e a implementação de um programa nacional de controlo da qualidade de segurança da aviação civil, por forma a garantir a eficácia do seu programa nacional de segurança da aviação civil.\n\n4. Cada Estado-Membro deve assegurar que os seus aeroportos e as transportadoras aéreas que operam a partir desse Estado definam, executem e mantenham programas de segurança dos aeroportos e das transportadoras aéreas de forma a cumprir os requisitos do seu programa nacional de segurança da aviação civil. Esses programas devem ser submetidos à aprovação e supervisão da autoridade adequada.\n\n5. Cada Estado-Membro deve exigir à sua autoridade adequada que assegure o desenvolvimento e a implementação de um programa nacional de formação no domínio da segurança da aviação civil."
+  },
+  "a1015b3548c49f8b": {
+   "fragment_id": "Artigo 6.º — Medidas mais rigorosas",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Medidas mais rigorosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Medidas mais rigorosas\n\nOs Estados-Membros podem aplicar, no respeito do direito comunitário, medidas mais rigorosas do que as previstas no presente regulamento. Os Estados-Membros informam a Comissão da natureza dessas medidas tão rapidamente quanto possível após a sua aplicação."
+  },
+  "c24ae9b30d461435": {
+   "fragment_id": "Artigo 7.º — Acompanhamento da conformidade",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Acompanhamento da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acompanhamento da conformidade\n\n1. As especificações relativas ao programa nacional de controlo da qualidade da segurança da aviação civil a implementar pelos Estados-Membros devem ser aprovadas nos termos do n.o 2 do artigo 9.o. O referido programa deve basear-se nas melhores práticas e permitir a detecção e a correcção rápidas das deficiências. Cada programa deve determinar que todos os aeroportos situados no Estado-Membro em causa sejam objecto de auditorias regulares efectuadas sob a responsabilidade da autoridade adequada a que se refere o n.o 2 do artigo 5.o. Estas auditorias devem recorrer a uma metodologia comum e ser efectuadas por auditores qualificados segundo critérios comuns.\n\n2. Após o decurso de um período de 6 meses a contar da data de entrada em vigor das disposições do presente regulamento nos termos do artigo 12.o e em cooperação com a autoridade adequada a que se refere o n.o 2 do artigo 5.o, a Comissão deve realizar inspecções, incluindo inspecções por amostragem adequada dos aeroportos, a fim de fiscalizar a aplicação das disposições do presente regulamento pelos Estados-Membros. Essas inspecções devem ter em conta as informações obtidas a partir dos programas nacionais de controlo da qualidade de segurança da aviação civil e, em particular, dos relatórios das auditorias. Os procedimentos respeitantes à realização de tais inspecções são aprovados nos termos do n.o 2 do artigo 9.o\n\n3. Os funcionários aos quais a Comissão tenha conferido o mandato de efectuar inspecções em conformidade com o n.o 2 exercem os seus poderes mediante apresentação de uma autorização, por escrito, que especifique o conteúdo e o objectivo da inspecção, bem como a data em que deve ter início. As inspecções aos aeroportos serão feitas sem aviso prévio. Antes das inspecções previstas, a Comissão informa os Estados-Membros interessados com a devida antecedência.\n\nOs Estados-Membros em causa submetem-se a tais inspecções e garantem que os organismos ou pessoas envolvidas se submetem igualmente às mesmas.\n\n4. Os relatórios das inspecções são enviados pela Comissão ao Estado-Membro em questão que deve, no prazo de três meses a contar da notificação, indicar as medidas adoptadas para corrigir qualquer eventual inconformidade. O relatório e a resposta da autoridade adequada a que se refere o n.o 2 do artigo 5.o são comunicados ao comité criado no n.o 1 do artigo 9.o"
+  },
+  "7407225f7f50311e": {
+   "fragment_id": "Artigo 8.º — Difusão de informações",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Difusão de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Difusão de informações\n\n1. Sem prejuízo do direito de acesso do público aos documentos estabelecido no Regulamento (CE) n.o 1049/2100 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso público aos documentos do Parlamento Europeu, do Conselho e da Comissão[(5)](http://publications.europa.eu/resource/cellar/89fe2ceb-4b2c-4491-b62a-d8cbd77615e0.0010.05/DOC_1#ntr5-L_2002355PT.01000101-E0005):\n\na) As medidas relativas aos: i) critérios de desempenho e aos ensaios de aceitação de equipamentos, ii) procedimentos detalhados que contenham informações de carácter sensível, iii) critérios detalhados para derrogações às medidas de segurança, a que se refere o n.o 2 do artigo 4.o;\n\ni) critérios de desempenho e aos ensaios de aceitação de equipamentos,\n\nii) procedimentos detalhados que contenham informações de carácter sensível,\n\niii) critérios detalhados para derrogações às medidas de segurança,\n\nb) As especificações a que se refere o n.o 1 do artigo 7.o;\n\nc) Os relatórios das inspecções e as respostas dos Estados-Membros a que se refere o n.o 4 do artigo 7.o, são secretos e não são publicados. Apenas são colocados à disposição das autoridades a que se refere o n.o 2 do artigo 5.o, as quais só os comunicam às partes interessadas com base no princípio da necessidade de saber, nos termos da regulamentação nacional aplicável à difusão de informações de carácter sensível.\n\n2. Tanto quanto possível e nos termos da legislação nacional aplicável, os Estados-Membros devem tratar como confidencial as informações que resultem dos relatórios das inspecções e das respostas dos Estados-Membros sempre que elas disserem respeito a outros Estados-Membros.\n\n3. Salvo quando for manifesto que os relatórios das inspecções e das respostas podem ser ou não divulgados, os Estados-Membros ou a Comissão devem consultar o Estado-Membro em questão."
+  },
+  "02339e5a182130f2": {
+   "fragment_id": "Artigo 9.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comité\n\n1. A Comissão é assistida por um comité composto por representantes dos Estados-Membros e presidido pelo representante da Comissão.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.o\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de um mês.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 6.o e 7.o da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.o\n\n4. O comité aprovará o seu regulamento interno."
+  },
+  "e232e09030f6baa2": {
+   "fragment_id": "Artigo 10.º — Países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Países terceiros\n\nSem prejuízo das responsabilidades que incumbem aos Estados-Membros em matéria de avaliação de riscos e da cláusula de segurança dos acordos da aviação civil, a Comissão deveria considerar, assistida pelo Comité de Segurança e em colaboração com a Organização Internacional da Aviação Civil (ICAO) e a CEAC, a possibilidade de estabelecer um mecanismo para avaliar se os voos provenientes de aeroportos de países terceiros cumprem os requisitos de segurança necessários."
+  },
+  "a974c1e633e8baca": {
+   "fragment_id": "Artigo 11.º — Publicação de informações",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Publicação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Publicação de informações\n\nSob reserva do Regulamento (CE) n.o 1049/2001, a Comissão deve publicar anualmente um relatório sobre a aplicação do presente regulamento e sobre a situação da segurança da aviação na Comunidade, retirando conclusões dos relatórios de inspecção."
+  },
+  "873e809f47a1d4cb": {
+   "fragment_id": "Artigo 12.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sanções\n\nAs sanções a aplicar em caso de infracção às disposições do presente regulamento devem ser eficazes, proporcionadas e dissuasivas."
+  },
+  "c751799a49856cc5": {
+   "fragment_id": "Artigo 13.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente regulamento entra em vigor vinte dias após a sua publicação no Jornal Oficial das Comunidades Europeias, com excepção das seguintes disposições do anexo:\n\n— rastreio da bagagem de porão (secção 5.2),\n\n— carga, correio e encomendas expresso (secção 6), e\n\n— correio postal (secção 7),\n\nque entram em vigor em 31 de Dezembro de 2002.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 16 de Dezembro de 2002.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nP. COX\n\nPelo Conselho\n\nA Presidente\n\nM. FISCHER BOEL\n\n[(1)](http://publications.europa.eu/resource/cellar/89fe2ceb-4b2c-4491-b62a-d8cbd77615e0.0010.05/DOC_1#ntc1-L_2002355PT.01000101-E0001) [JO C 51 E de 26.2.2002, p. 221](http://publications.europa.eu/resource/oj/JOC_2002_051_E_TOC).\n\n[(2)](http://publications.europa.eu/resource/cellar/89fe2ceb-4b2c-4491-b62a-d8cbd77615e0.0010.05/DOC_1#ntc2-L_2002355PT.01000101-E0002) [JO C 48 de 21.2.2002, p. 70](http://publications.europa.eu/resource/oj/JOC_2002_048_R_TOC).\n\n[(3)](http://publications.europa.eu/resource/cellar/89fe2ceb-4b2c-4491-b62a-d8cbd77615e0.0010.05/DOC_1#ntc3-L_2002355PT.01000101-E0003) Parecer do Parlamento Europeu de 29 de Novembro de 2001 (ainda não publicado no Jornal Oficial), posição comum do Conselho de 28 de Janeiro de 2002 ([JO C 113 E de 14.5.2002, p. 17](http://publications.europa.eu/resource/oj/JOC_2002_113_E_TOC)) e decisão do Parlamento Europeu de 14 de Maio de 2002 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 5 de Dezembro de 2002 e decisão do Conselho de 9 de Dezembro de 2002.\n\n[(4)](http://publications.europa.eu/resource/cellar/89fe2ceb-4b2c-4491-b62a-d8cbd77615e0.0010.05/DOC_1#ntc4-L_2002355PT.01000101-E0004) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC) (rectificação no [JO L 269 de 19.10.1999, p. 45](http://publications.europa.eu/resource/oj/JOL_1999_269_R_TOC)).\n\n[(5)](http://publications.europa.eu/resource/cellar/89fe2ceb-4b2c-4491-b62a-d8cbd77615e0.0010.05/DOC_1#ntc5-L_2002355PT.01000101-E0005) [JO L 145 de 31.5.2001, p. 43](http://publications.europa.eu/resource/oj/JOL_2001_145_R_TOC)."
+  },
+  "87f69f81d182b6ef": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1. DEFINIÇÕES\n\n1. «Bagagem de porão acompanhada»: bagagem aceite para ser transportada no porão de uma aeronave, a bordo da qual se encontra o passageiro que a registou.\n\n2. «Lado ar»: zona de movimento dos aeroportos e seus terrenos e edifícios adjacentes, ou parte destes.\n\n3. «Controlo de segurança da aeronave»: inspecção do interior de uma aeronave a que os passageiros possam ter tido acesso e inspecção do porão a fim de descobrir artigos proibidos.\n\n4. «Verificação de segurança da aeronave»: uma inspecção minuciosa do interior e exterior da aeronave a fim de descobrir artigos proibidos.\n\n5. «Inquérito pessoal»: verificação da identidade e do passado histórico de uma pessoa, incluindo do eventual registo criminal, como parte da avaliação da sua aptidão para aceder sem escolta às zonas restritas de segurança.\n\n6. «Bagagem de cabina»: bagagem destinada a ser transportada na cabina de uma aeronave.\n\n7. «Voo comercial»: um voo regular ou não regular ou actividade de voo efectuada para alugar ao público em geral ou a grupos privados a título oneroso.\n\n8. «Co-Mat»: Sigla de materiais da transportadora aérea, enviados no âmbito da sua rede de escalas.\n\n9. «Co-Mail»: Sigla de correio da transportadora aérea, enviado no âmbito da sua rede de escalas.\n\n10. «Controlo aleatório contínuo»: controlos efectuados durante todo o período de actividade, de forma aleatória.\n\n11. «Aviação geral»: toda a actividade de voo regular ou não regular não oferecida ou facultada ao público em geral.\n\n12. «SDE»: Sistema de Detecção de Explosivos — sistema ou combinação de diferentes tecnologias capazes de detectar, e de o indicar por meio de um alarme, o material explosivo contido na bagagem, independentemente do material de que esta seja feita.\n\n13. «SDEE»: Sistema de Detecção de Engenhos Explosivos — sistema ou combinação de diferentes tecnologias capazes de detectar, e de o indicar por meio de um alarme, qualquer engenho explosivo através da detecção de um ou vários dos seus componentes contidos na bagagem, independentemente do material de que esta seja feita.\n\n14. «Bagagem de porão»: bagagem destinada a ser transportada no porão de uma aeronave.\n\n15.\n\n:\n\na) De carga: expedidor do bem a transportar por avião por sua própria conta, que estabeleceu relações comerciais com um agente reconhecido ou com um transportador aéreo com base em critérios pormenorizados no presente anexo;\n\nb) De correio postal: expedidor de correio a transportar por avião por sua própria conta, que estabeleceu relações comerciais com uma autoridade ou administração postal reconhecida.\n\n16. «Lado terra»: zona do aeroporto que não é o lado ar e que inclui todas as áreas públicas.\n\n17. «Correio postal»: despacho de correspondência e outros objectos enviados pelas administrações postais e destinados a entrega a administrações postais. As autoridades/administrações postais são definidas pelos Estados-Membros.\n\n18. «Artigo proibido»: um objecto susceptível de servir para praticar actos de interferência ilegal e que não tinha sido devidamente declarado e sujeito às disposições legislativas e regulamentares em vigor. A lista indicativa dos referidos artigos consta do apêndice.\n\n19. «SDEP»: Sistema de Detecção de Explosivos Primários - sistema ou combinação de diferentes tecnologias capazes de detectar, e de o indicar por meio de um alarme, o material explosivo contido na bagagem, independentemente do material de que esta seja feita.\n\n20. «Agente reconhecido»: agente, transitário ou outra entidade que tem relações comerciais com um operador e executa controlos de segurança, aceites ou exigidos pela autoridade adequada, à carga, ao correio e encomendas expresso e ao correio postal.\n\n21. «Zona restrita de segurança»: o lado ar do aeroporto cujo acesso é controlado a fim de garantir a segurança da aviação civil. Essas zonas incluirão normalmente, inter alia, todas as zonas de partida de passageiros situadas entre os pontos de rastreio e a aeronave, a plataforma, as zonas de processamento de bagagem, os hangares de carga, os centros de correio e as instalações de limpeza e restauração do lado ar.\n\n22. «Controlos de segurança»: meios para impedir a introdução de artigos proibidos.\n\n23. «Rastreio»: aplicação de meios técnicos ou outros destinados a identificar e/ou detectar artigos proibidos.\n\n24. «Bagagem de porão não acompanhada»: bagagem aceite para ser transportada no porão de uma aeronave, a bordo da qual não se encontra o passageiro que a registou.\n\n25. «Terminal»: edifício ou grupo de edifícios principais onde se processam as formalidades e o embarque de passageiros de voos comerciais e de carga.\n\n26. «PIA»: a Projecção de Imagens de Ameaça é um suporte lógico que pode ser instalado em certos aparelhos de raios-X. O programa projecta imagens virtuais de objectos que constituem ameaça (por exemplo, pistola, faca, engenho explosivo improvisado) na imagem de raios-X de uma mala real a ser examinada e fornece um feedback imediato ao operador sobre a capacidade deste de detectar essas imagens.\n\n27. «Equipamento de detecção de vestígios»: sistema tecnológico ou combinação de diversas tecnologias que é capaz de detectar quantidades muito pequenas (1/mil milionésimo de uma grama), e de indicar assim, por meio de um alarme, material explosivo contido na bagagem, ou outros artigos sujeitos a análise.\n\n2. SEGURANÇA DO AEROPORTO\n\n2.1. Requisitos em matéria de planeamento aeroportuário\n\nNo projecto ou na implantação de aeroportos, terminais de passageiros e de carga e demais edifícios com acesso directo ao lado ar, devem ser tidos em conta os requisitos essenciais no que se refere a:\n\na) Controlos de segurança efectuados aos passageiros, bagagem, correio e encomendas expresso, correio postal, provisões e outros fornecimentos de restauração da transportadora aérea;\n\nb) Protecção e controlo do acesso ao lado ar, zonas restritas de segurança e outras zonas e instalações sensíveis do aeroporto;\n\nc) Utilização eficaz dos equipamentos de segurança.\n\n2.1.1. Limites entre o lado ar e o lado terra\n\nDevem ser estabelecidos limites entre o lado terra e o lado ar dos aeroportos.\n\n2.1.2. Zonas restritas de segurança\n\nEm cada aeroporto serão criadas zonas restritas de segurança.\n\n2.2. Controlo do acesso\n\n2.2.1. Zonas restritas de segurança e outras zonas do lado ar\n\ni) O controlo dos acessos às zonas restritas de segurança e às restantes zonas do lado ar deve ser assegurado em permanência para impedir a entrada nessas zonas a pessoas não autorizadas e a introdução de artigos proibidos nas zonas restritas de segurança ou na aeronave.\n\nii) Todo o pessoal que deva ter acesso às zonas restritas de segurança será sujeito a um inquérito pessoal sobre os últimos cinco anos, no mínimo. O inquérito repetir-se-á a intervalos regulares que não excedam cinco anos.\n\niii) Todo o pessoal que deva ter acesso às zonas restritas de segurança receberá também uma formação regular em segurança da aviação (ver secção 12.3), incluindo os riscos para a segurança da aviação, e terá instruções para informar a autoridade competente sobre qualquer incidente que possa constituir uma ameaça para a segurança da aviação.\n\niv) Serão emitidos cartões de identificação aeroportuária para todo o pessoal afecto ao aeroporto ou que aí se desloque com frequência (incluindo os trabalhadores do aeroporto, os trabalhadores das transportadoras aéreas e os trabalhadores de outras organizações). O cartão de identificação aeroportuária exibirá o nome e uma fotografia do seu titular. O prazo de validade do cartão de identificação deve ser limitado. A autoridade competente determinará quando deve ser emitido um cartão de identificação aeroportuária permanente para visitantes frequentes.\n\nv) O cartão de identificação aeroportuária será exibido em permanência, em local visível, sempre que o seu titular esteja em serviço.\n\nvi) Os veículos que tenham de ser utilizados no lado ar permanecerão no lado ar na medida do possível.\n\nvii) Para os veículos que devam transitar entre o lado terra e o lado ar será emitido um cartão de livre-trânsito específico ao veículo, que deve ser nele afixado em local facilmente visível. O acesso de outros veículos que tenham de se deslocar ao lado ar só será autorizado depois de terem sido inspeccionados e de lhes ter sido concedido um cartão de livre-trânsito temporário. Os veículos em missão de emergência poderão ficar isentos do cumprimento destas disposições.\n\nviii) Os cartões de identificação aeroportuária e os livre-trânsitos dos veículos serão controlados em todos os pontos de acesso ao lado ar e às zonas restritas de segurança.\n\n2.2.2. Terminais\n\nDeve ser assegurada a vigilância de todas as zonas dos terminais acessíveis ao público. Os terminais devem ser patrulhados e os passageiros e outras pessoas devem ser vigiados pelo pessoal de segurança.\n\n2.2.3. Outras zonas públicas\n\nDevem ser criados meios de controlo dos acessos às zonas públicas situadas nas imediações das zonas de movimentação de aeronaves (terraços panorâmicos, hotéis localizados em aeroportos e parques de estacionamento). Outras zonas públicas que exigem supervisão são, entre outras, as instalações que estão sempre localizadas no lado terra, incluindo áreas concessionadas e outras zonas públicas de parqueamento, terminais e estradas de acesso público, instalações de aluguer de automóveis, zonas de estacionamento de táxis e transportes terrestres e todas as instalações hoteleiras localizadas no aeroporto.\n\nDevem igualmente ser adoptadas disposições que assegurem que essas zonas públicas possam ser imediatamente encerradas em caso de aumento da ameaça. Sempre que estejam abertas ao público, essas zonas devem ser patrulhadas por pessoal de segurança.\n\n2.3. Rastreio do pessoal, objectos transportados e veículos\n\na) Todo o pessoal, incluindo tripulantes, e também os objectos transportados, será rastreado antes lhe ser permitido o acesso às zonas restritas de segurança. Sempre que isso não seja viável, as pessoas e os objectos serão sujeitos a um rastreio aleatório permanente adequado, com uma frequência indicada pela avaliação dos riscos efectuada pela autoridade competente em cada um dos Estados-Membros. O rastreio aleatório será alargado a todos os artigos levados para bordo das aeronaves por todos os serviços, incluindo serviços de limpeza, vendas francas e outras partes com acesso à aeronave. Um ano após a entrada em vigor do presente regulamento, todo o pessoal, incluindo tripulantes, e também os objectos transportados, será rastreado antes de lhe ser permitido o acesso às áreas críticas das zonas restritas de segurança identificadas pela autoridade competente de cada Estado-Membro. Até 1 de Julho de 2004, a Comissão aprovará medidas de execução adequadas para a definição comum de áreas críticas das zonas restritas de segurança nos termos do n.o 2 do artigo 4.o do presente regulamento. Essas medidas serão plenamente aplicáveis pelo menos cinco anos após a sua aprovação pela Comissão, sem prejuízo do artigo 6.o do presente regulamento. O processo de rastreio garantirá que não seja transportado qualquer objecto proibido e a metodologia será a mesma do rastreio de passageiros e bagagem de cabina;\n\nb) Os veículos e materiais serão inspeccionados de forma aleatória no acesso ao lado ar ou a outras zonas restritas de segurança.\n\n2.4. Segurança física e patrulhas\n\na) As placas e outras áreas de estacionamento serão adequadamente iluminadas e a iluminação existente deverá iluminar, em particular, zonas vulneráveis do aeroporto;\n\nb) A protecção das zonas técnicas e de manutenção deve ser assegurada por meio de vedações, de agentes de segurança e de patrulhas, devendo o acesso a essas zonas ser controlado por meio de cartões de identificação aeroportuária e de livre-trânsitos para os veículos. As áreas circundantes do aeroporto e as instalações aeroportuárias, designadamente as fontes de alimentação eléctrica, subestações eléctricas, ajudas de navegação, torres de controlo, e demais edifícios utilizados pelos serviços de controlo de tráfego aéreo, bem como os depósitos de combustível e centros de comunicações, devem beneficiar de medidas de protecção equivalentes. Devem ainda ser adoptadas medidas especiais de combate aos actos de sabotagem dos depósitos de combustíveis e dos centros de comunicações;\n\nc) As vedações e zonas limítrofes das zonas restritas de segurança, para além das zonas do lado ar exteriores ao limite dessas vedações, incluindo as que estão na imediata vizinhança das soleiras das pistas e dos caminhos de circulação, serão vigiadas por meio de patrulhas, de circuitos fechados de televisão e de outras medidas de vigilância. Serão implementados processos de interpelação rigorosos em relação a pessoas sem identificação aeroportuária visível e a pessoas que acedam a áreas para as quais não estão autorizadas;\n\nd) O acesso ao lado ar e a zonas restritas de segurança, via escritórios do aeroporto arrendados, hangares de manutenção, instalações de carga e outros edifícios de instalações e de serviços, será restringido ao mínimo necessário.\n\n3. SEGURANÇA DA AERONAVE\n\n3.1. Verificação e controlo de segurança da aeronave\n\n1. As aeronaves serão verificadas da seguinte forma: a) As aeronaves que não estejam em serviço serão sujeitas a uma «verificação de segurança da aeronave» imediatamente antes ou depois de serem levadas para uma área de acesso restrito para efectuar um voo; essa verificação pode ser efectuada com alguma antecedência em relação ao momento de serem levadas para uma zona restrita de segurança, devendo neste caso ser garantida a segurança ou guarda das aeronaves desde o início da verificação até à partida; caso sejam verificadas após serem levadas para a zona restrita de segurança, a segurança ou guarda das aeronaves será garantida desde o início da verificação até à partida; b) As aeronaves que estejam em serviço, em rotação ou em escala, serão sujeitas a um «controlo de segurança da aeronave» imediatamente após o desembarque dos passageiros ou o mais tarde possível antes do embarque dos passageiros e o das bagagens e carga, se for caso disso.\n\na) As aeronaves que não estejam em serviço serão sujeitas a uma «verificação de segurança da aeronave» imediatamente antes ou depois de serem levadas para uma área de acesso restrito para efectuar um voo; essa verificação pode ser efectuada com alguma antecedência em relação ao momento de serem levadas para uma zona restrita de segurança, devendo neste caso ser garantida a segurança ou guarda das aeronaves desde o início da verificação até à partida; caso sejam verificadas após serem levadas para a zona restrita de segurança, a segurança ou guarda das aeronaves será garantida desde o início da verificação até à partida;\n\nb) As aeronaves que estejam em serviço, em rotação ou em escala, serão sujeitas a um «controlo de segurança da aeronave» imediatamente após o desembarque dos passageiros ou o mais tarde possível antes do embarque dos passageiros e o das bagagens e carga, se for caso disso.\n\n2. Todas as verificações e controlos de segurança da aeronave serão efectuados logo que todos os fornecedores de serviços (restauração, limpeza, produtos francos e outros), com excepção dos que desempenham funções de segurança, tenham deixado a aeronave, devendo a segurança ser mantida até ao processo de embarque e pré-descolagem e durante o mesmo.\n\n3.2. Protecção da aeronave\n\n1. Deve ser definida a responsabilidade pelo controlo do acesso às aeronaves estacionadas, que será executado da seguinte forma: a) Em relação às aeronaves em serviço, o acesso será controlado desde o início do controlo de segurança da aeronave até à partida, a fim de manter a integridade do controlo; b) Em relação às aeronaves que não estejam em serviço e que tenham sido verificadas e encaminhadas para uma zona restrita de segurança, o acesso será controlado desde o início da verificação de segurança da aeronave até à partida, a fim de manter a integridade da verificação.\n\na) Em relação às aeronaves em serviço, o acesso será controlado desde o início do controlo de segurança da aeronave até à partida, a fim de manter a integridade do controlo;\n\nb) Em relação às aeronaves que não estejam em serviço e que tenham sido verificadas e encaminhadas para uma zona restrita de segurança, o acesso será controlado desde o início da verificação de segurança da aeronave até à partida, a fim de manter a integridade da verificação.\n\n2. Cada aeronave em serviço será colocada sob vigilância capaz de detectar qualquer acesso não autorizado.\n\n3. O acesso às aeronaves que não estejam em serviço será controlado da seguinte forma: a) As portas da cabina serão fechadas; b) As mangas de recolha de passageiros e/ou as escadas ventrais serão fechadas, retiradas ou colocadas em posição retráctil; ou c) Serão aplicados nas portas dispositivos que evidenciem qualquer violação.\n\na) As portas da cabina serão fechadas;\n\nb) As mangas de recolha de passageiros e/ou as escadas ventrais serão fechadas, retiradas ou colocadas em posição retráctil; ou\n\nc) Serão aplicados nas portas dispositivos que evidenciem qualquer violação.\n\n4. Além disso, se nem todo o pessoal tiver sido objecto de um rastreio para ter acesso às zonas restritas de segurança, cada aeronave será observada, pelo menos, de 30 em 30 minutos, por uma patrulha a pé ou móvel, ou colocada sob uma forma de vigilância capaz de detectar qualquer acesso não autorizado.\n\n5. As aeronaves ficarão, sempre que possível, estacionadas longe de vedações ou de outras barreiras fáceis de transpor e em locais bem iluminados.\n\n4. PASSAGEIROS E BAGAGEM DE CABINA\n\n4.1. Rastreio de passageiros\n\n1. Para além do referido no ponto 3 da presente secção, todos os passageiros que partem (ou seja, passageiros iniciais e passageiros em trânsito, a não ser que tenham sido previamente sujeitos a rastreio de acordo com as normas previstas no presente anexo) serão rastreados para evitar a introdução de artigos proibidos nas zonas restritas de segurança e a bordo da aeronave. Os passageiros serão rastreados através dos seguintes métodos: a) Revista manual; ou b) Rastreio de segurança através de passagem pelo pórtico de detecção de metais. Sempre que se utilize o pórtico de detecção de metais, proceder-se-á também a uma revista manual aleatória contínua dos passageiros rastreados. Essas revistas manuais serão efectuadas a todos os passageiros que tenham activado o alarme, sendo ainda efectuada uma revista manual aleatória contínua de todos os passageiros que não tenham activado o alarme e, se: i) o alarme for activado, será exigido à pessoa que volte a ser rastreada pelo pórtico de detecção de metais, ou ii) proceder-se-á a uma revista manual sempre que possa ser utilizado um detector de metais portátil.\n\na) Revista manual; ou\n\nb) Rastreio de segurança através de passagem pelo pórtico de detecção de metais. Sempre que se utilize o pórtico de detecção de metais, proceder-se-á também a uma revista manual aleatória contínua dos passageiros rastreados. Essas revistas manuais serão efectuadas a todos os passageiros que tenham activado o alarme, sendo ainda efectuada uma revista manual aleatória contínua de todos os passageiros que não tenham activado o alarme e, se: i) o alarme for activado, será exigido à pessoa que volte a ser rastreada pelo pórtico de detecção de metais, ou ii) proceder-se-á a uma revista manual sempre que possa ser utilizado um detector de metais portátil.\n\ni) o alarme for activado, será exigido à pessoa que volte a ser rastreada pelo pórtico de detecção de metais, ou\n\nii) proceder-se-á a uma revista manual sempre que possa ser utilizado um detector de metais portátil.\n\n2. Sempre que se utilize o pórtico de detecção de metais, este será calibrado num nível que garanta razoavelmente a detecção de pequenos objectos metálicos.\n\n3. As autoridades adequadas poderão criar categorias de pessoas que serão sujeitas a processos de rastreio especiais ou isentas de rastreio.\n\n4. Serão desenvolvidas disposições de segurança para passageiros susceptíveis de causar distúrbios.\n\n4.2. Separação de passageiros\n\nOs passageiros que partem que já tenham sido rastreados não serão misturados com os passageiros que chegam que, eventualmente, não terão sido sujeitos a rastreio de acordo com as normas previstas no presente anexo. Nos casos em que não seja possível estabelecer a separação física dos passageiros, o objectivo de segurança será atingido pela aplicação de medidas compensatórias de acordo com a avaliação do risco pela autoridade competente.\n\n4.3. Rastreio da bagagem de cabina\n\n1. A bagagem de cabina de todos os passageiros que partem (ou seja, passageiros iniciais e passageiros em trânsito, a não ser que tenham sido previamente rastreados de acordo com as normas previstas no presente anexo) será rastreada antes de ser autorizada a entrar numa zona restrita de segurança e a bordo da aeronave. Serão retirados ao passageiro todos os artigos proibidos, ou ser-lhe-á proibido o acesso à zona restrita de segurança ou à aeronave, se for caso disso. A bagagem de cabina será rastreada através de um dos seguintes métodos: a) Revista manual completa do conteúdo de cada saco, sendo cada saco examinado para detectar indícios suspeitos, tais como peso inadequado, etc.; ou b) Rastreio por equipamento convencional de raios-X, efectuando-se também a revista manual dos sacos rastreados de forma aleatória e contínua, não devendo a percentagem de pessoas revistadas ser inferior a 10 %, incluindo as pessoas de quem o operador suspeita; ou c) Rastreio por equipamento de raios-X de alta definição, dotado de um dispositivo de PIA devidamente instalado e utilizado. Apenas carecem de revista manual os sacos que levantem suspeitas ao operador, mas a revista manual pode ser apoiada pelo recurso a equipamento de detecção de vestígios.\n\na) Revista manual completa do conteúdo de cada saco, sendo cada saco examinado para detectar indícios suspeitos, tais como peso inadequado, etc.; ou\n\nb) Rastreio por equipamento convencional de raios-X, efectuando-se também a revista manual dos sacos rastreados de forma aleatória e contínua, não devendo a percentagem de pessoas revistadas ser inferior a 10 %, incluindo as pessoas de quem o operador suspeita; ou\n\nc) Rastreio por equipamento de raios-X de alta definição, dotado de um dispositivo de PIA devidamente instalado e utilizado. Apenas carecem de revista manual os sacos que levantem suspeitas ao operador, mas a revista manual pode ser apoiada pelo recurso a equipamento de detecção de vestígios.\n\n2. A bagagem de cabina das pessoas referidas no ponto 3 da secção 4.1 pode ser sujeita a procedimentos especiais de rastreio ou ser dispensada de rastreio.\n\n4.4. Rastreio dos diplomatas\n\nSob reserva das disposições da Convenção de Viena sobre Relações Diplomáticas, os diplomatas e outros beneficiários de privilégios, bem como as suas bagagens pessoais, com excepção das «malas diplomáticas», devem ser rastreados para efeitos de segurança. O pessoal das transportadoras aéreas responsável pela recepção das malas diplomáticas deve certificar-se de que estas foram, de facto, enviadas pelos funcionários devidamente nomeados das respectivas missões diplomáticas. Os custódios diplomáticos e as suas bagagens pessoais não se encontram dispensados dos rastreios de segurança.\n\n5. BAGAGEM DE PORÃO\n\n5.1. Reconciliação da bagagem de porão\n\n1. A bagagem de porão só será colocada a bordo da aeronave depois de se tomarem as seguintes medidas: a) A bagagem de porão será marcada exteriormente de forma adequada a fim de permitir identificá-la com os respectivos passageiros; e b) O passageiro a que a bagagem pertence será registado para o voo em que a bagagem for embarcada; e c) Antes se ser introduzida a bordo, a bagagem de porão será mantida numa zona do aeroporto a que só tenham acesso pessoas autorizadas; e d) Todos os volumes da bagagem à guarda da transportadora aérea para transporte no porão da aeronave serão identificados, quer se trate de bagagem acompanhada ou não acompanhada. O processo de identificação será efectuado por meios manuais ou automáticos.\n\na) A bagagem de porão será marcada exteriormente de forma adequada a fim de permitir identificá-la com os respectivos passageiros; e\n\nb) O passageiro a que a bagagem pertence será registado para o voo em que a bagagem for embarcada; e\n\nc) Antes se ser introduzida a bordo, a bagagem de porão será mantida numa zona do aeroporto a que só tenham acesso pessoas autorizadas; e\n\nd) Todos os volumes da bagagem à guarda da transportadora aérea para transporte no porão da aeronave serão identificados, quer se trate de bagagem acompanhada ou não acompanhada. O processo de identificação será efectuado por meios manuais ou automáticos.\n\n2. Serão estabelecidas medidas para garantir que, se um passageiro registado para um voo, que tenha colocado bagagem à guarda da transportadora aérea, não estiver a bordo da aeronave, essa bagagem seja retirada da aeronave e não seja transportada nesse voo.\n\n3. Será criado um manifesto de bagagem de porão ou um meio alternativo de prova, que confirme a identificação e rastreio de bagagem de porão não acompanhada.\n\n5.2. Rastreio da bagagem de porão\n\n1. Bagagem de porão acompanhada. Toda a bagagem de porão acompanhada (tanto bagagem de porão inicial como em trânsito, a não ser que tenha sido previamente rastreada de acordo com as normas previstas no presente anexo) deve ser rastreada por um dos seguintes métodos antes de ser embarcada na aeronave: a) Revista manual; ou b) Rastreio por equipamento convencional de raios-X, sendo pelo menos 10 % da bagagem rastreada sujeita ainda a: i) revista manual, ou ii) um SDE, um SDEE ou um SDEP, ou iii) rastreio por equipamento convencional de raios-X, sendo cada bagagem inspeccionada de dois ângulos diferentes pelo mesmo operador na mesma posição, ou c) Rastreio por equipamento convencional de raios-X dotado de um dispositivo de PIA devidamente instalado e utilizado; ou d) Rastreio pelo SDE ou pelo SDEE; ou e) SDEP; ou f) Equipamento de detecção de vestígios de explosivos para bagagem aberta.\n\na) Revista manual; ou\n\nb) Rastreio por equipamento convencional de raios-X, sendo pelo menos 10 % da bagagem rastreada sujeita ainda a: i) revista manual, ou ii) um SDE, um SDEE ou um SDEP, ou iii) rastreio por equipamento convencional de raios-X, sendo cada bagagem inspeccionada de dois ângulos diferentes pelo mesmo operador na mesma posição, ou\n\ni) revista manual, ou\n\nii) um SDE, um SDEE ou um SDEP, ou\n\niii) rastreio por equipamento convencional de raios-X, sendo cada bagagem inspeccionada de dois ângulos diferentes pelo mesmo operador na mesma posição, ou\n\nc) Rastreio por equipamento convencional de raios-X dotado de um dispositivo de PIA devidamente instalado e utilizado; ou\n\nd) Rastreio pelo SDE ou pelo SDEE; ou\n\ne) SDEP; ou\n\nf) Equipamento de detecção de vestígios de explosivos para bagagem aberta.\n\n2. Bagagem de porão não acompanhada. Toda a bagagem não acompanhada, tanto bagagem de porão inicial como em trânsito, deve ser rastreada por um dos seguintes métodos antes de ser embarcada na aeronave: a) SDE; ou b) SDEP em vários níveis, sendo no nível 2 as imagens de todos os sacos inspeccionadas pelos operadores; ou c) Rastreio por equipamento convencional de raios-X, sendo cada bagagem inspeccionada de dois ângulos diferentes pelo mesmo operador na mesma posição; ou d) Revista manual complementada com a utilização de equipamento de detecção de vestígios de explosivos para bagagem aberta, a não ser que a bagagem não acompanhada, previamente rastreada de acordo com as normas previstas no presente anexo, tenha sido separada devido a factores que escapam ao controlo dos passageiros, e tenha ficado a cargo da transportadora aérea.\n\na) SDE; ou\n\nb) SDEP em vários níveis, sendo no nível 2 as imagens de todos os sacos inspeccionadas pelos operadores; ou\n\nc) Rastreio por equipamento convencional de raios-X, sendo cada bagagem inspeccionada de dois ângulos diferentes pelo mesmo operador na mesma posição; ou\n\nd) Revista manual complementada com a utilização de equipamento de detecção de vestígios de explosivos para bagagem aberta,\n\n5.3. Protecção da bagagem de porão\n\n1. A bagagem de porão a transportar numa aeronave deve ser protegida de interferências não autorizadas desde o ponto em que foi entregue à guarda da transportadora até à partida da aeronave em que é transportada. Devem ser tomadas as seguintes medidas de protecção da bagagem de porão: a) Antes de ser embarcada, a bagagem de porão deve ser mantida na zona de processamento de bagagem ou noutra zona de armazenagem do aeroporto de acesso reservado a pessoas autorizadas; b) Qualquer pessoa que entre nessas zonas de processamento ou de armazenagem de bagagem sem autorização será interpelada e conduzida para fora dessa zona; c) A bagagem de porão inicial e a bagagem de porão em trânsito não será abandonada na placa ou na plataforma junto à aeronave antes de ser embarcada na aeronave; d) A bagagem de porão transferida entre aviões não será abandonada na placa ou na plataforma junto à aeronave antes de ser embarcada na aeronave; e) O acesso às instalações de perdidos e achados do terminal deve ser restringido, a fim de prevenir o acesso ilegal à bagagem e a outros objectos.\n\na) Antes de ser embarcada, a bagagem de porão deve ser mantida na zona de processamento de bagagem ou noutra zona de armazenagem do aeroporto de acesso reservado a pessoas autorizadas;\n\nb) Qualquer pessoa que entre nessas zonas de processamento ou de armazenagem de bagagem sem autorização será interpelada e conduzida para fora dessa zona;\n\nc) A bagagem de porão inicial e a bagagem de porão em trânsito não será abandonada na placa ou na plataforma junto à aeronave antes de ser embarcada na aeronave;\n\nd) A bagagem de porão transferida entre aviões não será abandonada na placa ou na plataforma junto à aeronave antes de ser embarcada na aeronave;\n\ne) O acesso às instalações de perdidos e achados do terminal deve ser restringido, a fim de prevenir o acesso ilegal à bagagem e a outros objectos.\n\n6. CARGA, CORREIO E ENCOMENDAS EXPRESSO\n\n6.1. Aplicação\n\nAntes de serem embarcados, a carga, o correio e as encomendas expresso transportados em aeronaves de passageiros ou de carga devem ser submetidos a controlos de segurança.\n\n6.2. Qualificações para agentes reconhecidos\n\nOs agentes reconhecidos serão:\n\na) Designados, aprovados ou registados pela autoridade adequada;\n\nb) Sujeitos a obrigações específicas, definidas pela autoridade competente.\n\n6.3. Controlos de segurança\n\n1. A carga, o correio e as encomendas expresso só serão transportados por via aérea quando tiverem sido aplicados os seguintes controlos de segurança: a) A recepção, processamento e manuseamento da carga são efectuados por pessoal devidamente recrutado e treinado; b) A carga será: i) revistada manualmente ou através de inspecção física, ou ii) rastreada com equipamento de raios-X, ou iii) submetida a câmara de simulação, ou iv) submetida a outros meios, técnicos ou biossensoriais (por exemplo, sensores olfactivos, detectores de vestígios, cães detectores de explosivos, etc.) a fim de assegurar, de forma razoável, que a carga não inclui qualquer artigo proibido constante dos pontos iv) e v) da lista do apêndice, a não ser que este tenha sido declarado e devidamente sujeito às medidas de segurança aplicáveis. Quando, devido à natureza do consignamento, não puder ser utilizado nenhum dos meios e métodos de controlo de segurança acima referidos, a autoridade adequada pode especificar um período de quarentena em armazém.\n\na) A recepção, processamento e manuseamento da carga são efectuados por pessoal devidamente recrutado e treinado;\n\nb) A carga será: i) revistada manualmente ou através de inspecção física, ou ii) rastreada com equipamento de raios-X, ou iii) submetida a câmara de simulação, ou iv) submetida a outros meios, técnicos ou biossensoriais (por exemplo, sensores olfactivos, detectores de vestígios, cães detectores de explosivos, etc.) a fim de assegurar, de forma razoável, que a carga não inclui qualquer artigo proibido constante dos pontos iv) e v) da lista do apêndice, a não ser que este tenha sido declarado e devidamente sujeito às medidas de segurança aplicáveis.\n\ni) revistada manualmente ou através de inspecção física, ou\n\nii) rastreada com equipamento de raios-X, ou\n\niii) submetida a câmara de simulação, ou\n\niv) submetida a outros meios, técnicos ou biossensoriais (por exemplo, sensores olfactivos, detectores de vestígios, cães detectores de explosivos, etc.)\n\n2. Uma vez realizados os controlos de segurança, incluindo da carga de expedidores conhecidos, no espaço interior ou exterior do aeroporto, a segurança do carregamento deve ser mantida até ao momento em que o mesmo é embarcado na aeronave e, subsequentemente, até à partida da mesma.\n\n3. Os controlos de segurança referidos no ponto 1 não são obrigatórios nos seguintes casos: a) Carga recebida de expedidor conhecido; b) Carga de transbordo; c) Carga que pela sua origem e condições de processamento oferece garantias de não constituir uma ameaça à segurança; d) Carga que está sujeita a normas que estabelecem um nível adequado de protecção de segurança.\n\na) Carga recebida de expedidor conhecido;\n\nb) Carga de transbordo;\n\nc) Carga que pela sua origem e condições de processamento oferece garantias de não constituir uma ameaça à segurança;\n\nd) Carga que está sujeita a normas que estabelecem um nível adequado de protecção de segurança.\n\n6.4. Critérios relativos ao expedidor conhecido\n\n1. Um agente reconhecido ou uma transportadora aérea só pode considerar conhecido um expedidor: a) Verificando e registando a identidade e endereço do expedidor e dos agentes autorizados a efectuar entregas em seu nome; e b) Exigindo que o expedidor declare que: i) prepara os consignamentos em instalações seguras, e ii) emprega pessoal de confiança na preparação dos consignamentos, e iii) protege os consignamentos contra interferências não autorizadas durante a preparação, a armazenagem e o transporte; e c) Exigindo que o expedidor: i) certifique por escrito que o consignamento não contém qualquer dos artigos proibidos constantes dos pontos iv) e v) da lista do apêndice, e ii) aceite que a embalagem e o conteúdo do consignamento possam ser examinados por razões de segurança.\n\na) Verificando e registando a identidade e endereço do expedidor e dos agentes autorizados a efectuar entregas em seu nome; e\n\nb) Exigindo que o expedidor declare que: i) prepara os consignamentos em instalações seguras, e ii) emprega pessoal de confiança na preparação dos consignamentos, e iii) protege os consignamentos contra interferências não autorizadas durante a preparação, a armazenagem e o transporte; e\n\ni) prepara os consignamentos em instalações seguras, e\n\nii) emprega pessoal de confiança na preparação dos consignamentos, e\n\niii) protege os consignamentos contra interferências não autorizadas durante a preparação, a armazenagem e o transporte; e\n\nc) Exigindo que o expedidor: i) certifique por escrito que o consignamento não contém qualquer dos artigos proibidos constantes dos pontos iv) e v) da lista do apêndice, e ii) aceite que a embalagem e o conteúdo do consignamento possam ser examinados por razões de segurança.\n\ni) certifique por escrito que o consignamento não contém qualquer dos artigos proibidos constantes dos pontos iv) e v) da lista do apêndice, e\n\nii) aceite que a embalagem e o conteúdo do consignamento possam ser examinados por razões de segurança.\n\n6.5. Transporte em aeronaves de carga\n\nSempre que se possam identificar positivamente os consignamentos para transporte apenas em aeronaves de carga, os critérios definidos na secção 6.4 não necessitam de ser aplicados desde que o expedidor conhecido:\n\na) Disponha de um endereço comercial autêntico reconhecido; e\n\nb) Tenha enviado previamente consignamentos com o agente reconhecido ou a transportadora aérea; e\n\nc) Tenha uma relação comercial estabelecida com o agente reconhecido ou a transportadora aérea; e\n\nd) Garanta que todos os consignamentos são protegidos contra o acesso não autorizado até ficarem à guarda da transportadora aérea.\n\n6.6. Carga de transbordo\n\nDesde que se encontre protegida contra quaisquer interferências não autorizadas na zona de trânsito, a carga de transbordo transportada por via aérea não necessita dos controlos de segurança referidos no ponto 1 da secção 6.3. A restante carga de transbordo, como a carga transportada por via terrestre ou por caminho-de-ferro, não submetida a controlos de segurança no ponto de partida ou em trânsito, deve ser rastreada em conformidade com a alínea b) do ponto 1 da secção 6.3 e protegida contra quaisquer interferências não autorizadas.\n\n7. CORREIO POSTAL\n\n7.1. Aplicação\n\nAntes de ser embarcado, o correio postal transportado em aeronaves de passageiros, de carga ou aviões-correio deve ser submetido a controlos de segurança.\n\n7.2. Qualificações da autoridade/administração postal reconhecida\n\n|  | 7.2.1. | Cada autoridade/administração postal reconhecida que entregue correio para transporte a uma transportadora aérea deve satisfazer os seguintes critérios mínimos: a) Ser designada, aprovada ou registada pela autoridade adequada; b) Satisfazer as obrigações para com as transportadoras aéreas de aplicar os controlos de segurança necessários; c) Empregar pessoal devidamente recrutado e treinado; e d) Proteger o correio contra interferências não autorizadas enquanto à sua guarda. |\n| --- | --- | --- |\n| a) | Ser designada, aprovada ou registada pela autoridade adequada; |  |\n| b) | Satisfazer as obrigações para com as transportadoras aéreas de aplicar os controlos de segurança necessários; |  |\n| c) | Empregar pessoal devidamente recrutado e treinado; e |  |\n| d) | Proteger o correio contra interferências não autorizadas enquanto à sua guarda. |  |\n\n7.3. Controlos de segurança\n\n1. Correio urgente. O correio urgente (ou seja, para entrega no prazo de 48 horas) só será transportado por via aérea quando tiverem sido aplicados os seguintes controlos de segurança: a) A recepção, processamento e manuseamento do correio são efectuados por pessoal devidamente recrutado e treinado; b) O correio postal será: i) revistado manualmente ou através de inspecção física, ou ii) rastreado com equipamento de raios-X, ou iii) submetido a câmara de simulação, ou iv) submetido a outros meios processuais, técnicos ou biossensoriais (por exemplo, sensores olfactivos, detectores de vestígios, cães detectores de explosivos, etc.), a fim de assegurar, de forma razoável, que o correio postal não inclui qualquer artigo proibido; e c) As informações de voo e o itinerário da aeronave que transporta o correio são confidenciais.\n\na) A recepção, processamento e manuseamento do correio são efectuados por pessoal devidamente recrutado e treinado;\n\nb) O correio postal será: i) revistado manualmente ou através de inspecção física, ou ii) rastreado com equipamento de raios-X, ou iii) submetido a câmara de simulação, ou iv) submetido a outros meios processuais, técnicos ou biossensoriais (por exemplo, sensores olfactivos, detectores de vestígios, cães detectores de explosivos, etc.), a fim de assegurar, de forma razoável, que o correio postal não inclui qualquer artigo proibido; e\n\ni) revistado manualmente ou através de inspecção física, ou\n\nii) rastreado com equipamento de raios-X, ou\n\niii) submetido a câmara de simulação, ou\n\niv) submetido a outros meios processuais, técnicos ou biossensoriais (por exemplo, sensores olfactivos, detectores de vestígios, cães detectores de explosivos, etc.),\n\nc) As informações de voo e o itinerário da aeronave que transporta o correio são confidenciais.\n\n2. Outros tipos de correio. O correio não urgente pode ser transportado por via aérea desde que tenham sido aplicadas as medidas referidas nas alíneas a) e b) do ponto 1. Os controlos de segurança referidos na alínea b) do ponto 1 só devem ser aplicados a uma proporção aleatória de correio.\n\n3. Os controlos de segurança referidos na alínea b) do ponto 1 não são obrigatórios nos seguintes casos: a) Correio postal recebido de um expedidor conhecido; b) Correspondência com peso e espessura inferiores a um determinado valor; c) Consignamentos bona fide de materiais destinados a salvar vidas; d) Mercadorias de elevado valor, que tenham sido inspeccionadas segundo normas pelo menos equivalentes às enunciadas na alínea b) do ponto 1; e) Correio postal a transportar em todos os voos-correio entre os aeroportos comunitários; f) Correio de transbordo.\n\na) Correio postal recebido de um expedidor conhecido;\n\nb) Correspondência com peso e espessura inferiores a um determinado valor;\n\nc) Consignamentos bona fide de materiais destinados a salvar vidas;\n\nd) Mercadorias de elevado valor, que tenham sido inspeccionadas segundo normas pelo menos equivalentes às enunciadas na alínea b) do ponto 1;\n\ne) Correio postal a transportar em todos os voos-correio entre os aeroportos comunitários;\n\nf) Correio de transbordo.\n\n7.4. Critérios relativos ao expedidor conhecido\n\nA autoridade/administração postal reconhecida só pode considerar conhecido um expedidor:\n\na) Verificando e registando a identidade e endereço do expedidor e dos agentes autorizados a efectuar entregas em seu nome;\n\nb) Exigindo que o expedidor declare que protege o consignamento contra interferências não autorizadas durante a preparação, a armazenagem e o transporte; e\n\nc) Exigindo que o expedidor: i) certifique por escrito que o consignamento postal não contém qualquer dos artigos proibidos constantes dos pontos iv) e v) da lista do apêndice, e ii) aceite que a embalagem e o conteúdo do consignamento postal possam ser submetidos aos controlos de segurança referidos na secção 7.3.\n\ni) certifique por escrito que o consignamento postal não contém qualquer dos artigos proibidos constantes dos pontos iv) e v) da lista do apêndice, e\n\nii) aceite que a embalagem e o conteúdo do consignamento postal possam ser submetidos aos controlos de segurança referidos na secção 7.3.\n\n7.5. Correio de transbordo\n\nDesde que se encontre protegido contra quaisquer interferências não autorizadas na zona de trânsito, o correio de transbordo transportado por via aérea não necessita dos controlos de segurança referidos na secção 7.3. O restante correio de transbordo, como o correio transportado por via terrestre ou por caminho-de-ferro, não submetido a controlos de segurança no ponto de partida ou em trânsito, deve ser rastreado em conformidade com o ponto 1 da secção 7.3 e protegido contra quaisquer interferências não autorizadas.\n\n8. CORREIO POSTAL E MATERIAIS DA TRANSPORTADORA AÉREA\n\n8.1. Aplicação\n\nAntes de serem embarcados, o correio postal e os materiais de uma transportadora aérea transportados nas suas próprias aeronaves devem ser submetidos a controlos de segurança.\n\n8.2. Definições\n\nPor correio postal e materiais entende-se despachos internos de correspondência e materiais, tais como, por exemplo, documentação, fornecimentos, peças sobresselentes, provisões de bordo e material de limpeza e outros artigos, destinados à sua própria organização ou à organização contratada para serem utilizados nas operações da transportadora aérea.\n\n8.3. Controlos de segurança\n\nTodos os carregamentos da transportadora aérea de correio da companhia («co-mail») ou de materiais da companhia («co-mat») devem ser submetidos às seguintes medidas:\n\na) Serão submetidos a um controlo e rastreio de segurança para garantir que não foi introduzido qualquer artigo proibido no transporte da companhia; e\n\nb) Não serão deixados abandonados antes de serem colocados a bordo da aeronave.\n\nA transportadora aérea garantirá que qualquer outro carregamento «co-mail» ou «co-mat» feito em nome da companhia por uma organização contratada, tal como, entre outros, provisões e outros fornecimentos de restauração, materiais de limpeza a bordo e outros materiais provenientes de fornecedores de serviços contratados sejam controlados antes do respectivo carregamento a bordo de uma aeronave.\n\n9. PROVISÕES E OUTROS FORNECIMENTOS DE RESTAURAÇÃO DA TRANSPORTADORA AÉREA\n\n9.1. Aplicação\n\nAntes de serem embarcados, as provisões e outros fornecimentos de restauração da transportadora aérea devem ser submetidos a controlos de segurança para evitar a introdução a bordo de qualquer artigo proibido.\n\n9.2. Controlos de segurança\n\n1. Os fornecedores de provisões e outros fornecimentos de restauração da transportadora aérea aplicarão controlos de segurança para evitar a introdução de artigos proibidos nesses produtos e materiais destinados a embarcar. Estas medidas devem incluir: a) Designação de um responsável pela segurança incumbido da aplicação e da supervisão das condições de segurança na empresa; b) Exigência de elevado padrão de idoneidade na contratação do pessoal; c) Todo o trabalhador com acesso às zonas restritas de segurança deve aceitar inquéritos pessoais bem como as instruções de segurança emanadas da autoridade aeroportuária; d) A empresa deve impedir o acesso de pessoas não autorizadas às suas instalações e materiais; e) No caso da empresa se encontrar localizada fora do perímetro do aeroporto, todos os fornecimentos serão transportados até à aeronave em veículos fechados ou selados; e f) As operações de processamento e manuseamento de provisões e abastecimentos de bordo serão realizadas por pessoal devidamente recrutado e treinado.\n\na) Designação de um responsável pela segurança incumbido da aplicação e da supervisão das condições de segurança na empresa;\n\nb) Exigência de elevado padrão de idoneidade na contratação do pessoal;\n\nc) Todo o trabalhador com acesso às zonas restritas de segurança deve aceitar inquéritos pessoais bem como as instruções de segurança emanadas da autoridade aeroportuária;\n\nd) A empresa deve impedir o acesso de pessoas não autorizadas às suas instalações e materiais;\n\ne) No caso da empresa se encontrar localizada fora do perímetro do aeroporto, todos os fornecimentos serão transportados até à aeronave em veículos fechados ou selados; e\n\nf) As operações de processamento e manuseamento de provisões e abastecimentos de bordo serão realizadas por pessoal devidamente recrutado e treinado.\n\n2. Após a entrega, as provisões e outros abastecimentos devem ser submetidos a rastreios aleatórios.\n\n3. As provisões e outros abastecimentos entregues por empresas que não observem as medidas de controlo de segurança constantes do ponto 1 não devem ser embarcados na aeronave.\n\n10. PRODUTOS E OUTROS FORNECIMENTOS DE LIMPEZA DA TRANSPORTADORA AÉREA\n\n10.1. Aplicação e objectivo\n\nAs transportadoras aéreas e as empresas que fornecem serviços de limpeza devem adoptar medidas para assegurar que os produtos e outros materiais de limpeza colocados a bordo de aeronaves não incluem quaisquer artigos proibidos susceptíveis de comprometer a segurança das aeronaves.\n\n10.2. Controlos de segurança\n\n1. Os fornecedores de serviços, produtos e outros materiais de limpeza da transportadora aérea devem adoptar as medidas de segurança necessárias para impedir a introdução de artigos proibidos nos materiais de limpeza destinados a ser colocados a bordo. Para o efeito, devem ser adoptadas as seguintes medidas de segurança: a) Designação de um responsável pela segurança incumbido da aplicação e da supervisão das condições de segurança na empresa; b) Exigência de elevado padrão de idoneidade na contratação do pessoal; c) Todo o trabalhador com acesso às zonas restritas de segurança deve aceitar inquéritos pessoais bem como as instruções emanadas da autoridade aeroportuária; d) A empresa deve impedir o acesso de pessoas não autorizadas às suas instalações; e) No caso da empresa se encontrar localizada fora do perímetro do aeroporto, os materiais de limpeza serão transportados até à aeronave em veículos fechados ou selados; f) As operações de processamento e manuseamento dos materiais de limpeza serão realizadas por pessoal devidamente recrutado e treinado; e g) O rastreio dos materiais de limpeza realizar-se-á antes de se efectuar um «co-mail» dos materiais para outros destinos.\n\na) Designação de um responsável pela segurança incumbido da aplicação e da supervisão das condições de segurança na empresa;\n\nb) Exigência de elevado padrão de idoneidade na contratação do pessoal;\n\nc) Todo o trabalhador com acesso às zonas restritas de segurança deve aceitar inquéritos pessoais bem como as instruções emanadas da autoridade aeroportuária;\n\nd) A empresa deve impedir o acesso de pessoas não autorizadas às suas instalações;\n\ne) No caso da empresa se encontrar localizada fora do perímetro do aeroporto, os materiais de limpeza serão transportados até à aeronave em veículos fechados ou selados;\n\nf) As operações de processamento e manuseamento dos materiais de limpeza serão realizadas por pessoal devidamente recrutado e treinado; e\n\ng) O rastreio dos materiais de limpeza realizar-se-á antes de se efectuar um «co-mail» dos materiais para outros destinos.\n\n2. Após a entrega, os materiais de limpeza devem ser submetidos a rastreios aleatórios.\n\n3. Os materiais entregues por empresas que não observem as medidas de controlo de segurança constantes do ponto 1 não devem ser colocados a bordo de uma aeronave.\n\n11. AVIAÇÃO GERAL\n\n11.1. Controlos de segurança\n\n1. As aeronaves da aviação geral nos aeroportos não devem ficar estacionadas próximo de aeronaves utilizadas em voos comerciais, para evitar quebras das medidas de segurança aplicadas a essas aeronaves ou à bagagem, carga e correio postal a ser embarcado.\n\n2. Devem ser adoptadas disposições para separar os passageiros dos voos comerciais já submetidos a um rastreio de segurança dos ocupantes das aeronaves da aviação geral, com base nos seguintes critérios: a) Nos aeroportos de grandes dimensões, devem ser montados dispositivos e/ou adoptadas medidas de segurança que garantam a separação física dos ocupantes das aeronaves da aviação geral (partidas e chegadas) dos restantes passageiros já submetidos a um rastreio de segurança; b) Na medida do possível, os ocupantes a embarcar ou a desembarcar de aeronaves da aviação geral deverão passar por terminais separados destinados à aviação geral e, em caso de embarque ou desembarque na placa de estacionamento, serão separados dos outros passageiros já submetidos a rastreios de segurança ou transportados em autocarros ou viaturas especiais ou, ainda, serão sujeitos a vigilância permanente; c) Na falta de um terminal separado, os ocupantes das aeronaves da aviação geral devem: i) passar por uma zona separada do terminal e ser escoltados ou transportados por autocarro/automóvel de ou para a sua aeronave na placa de estacionamento, ii) se não for possível evitar a sua passagem nas zonas restritas de segurança do terminal, ser submetidos a um rastreio de segurança antes de penetrarem nessa zona, ou iii) ser sujeitos a medidas de segurança equivalentes, de acordo com as condições locais.\n\na) Nos aeroportos de grandes dimensões, devem ser montados dispositivos e/ou adoptadas medidas de segurança que garantam a separação física dos ocupantes das aeronaves da aviação geral (partidas e chegadas) dos restantes passageiros já submetidos a um rastreio de segurança;\n\nb) Na medida do possível, os ocupantes a embarcar ou a desembarcar de aeronaves da aviação geral deverão passar por terminais separados destinados à aviação geral e, em caso de embarque ou desembarque na placa de estacionamento, serão separados dos outros passageiros já submetidos a rastreios de segurança ou transportados em autocarros ou viaturas especiais ou, ainda, serão sujeitos a vigilância permanente;\n\nc) Na falta de um terminal separado, os ocupantes das aeronaves da aviação geral devem: i) passar por uma zona separada do terminal e ser escoltados ou transportados por autocarro/automóvel de ou para a sua aeronave na placa de estacionamento, ii) se não for possível evitar a sua passagem nas zonas restritas de segurança do terminal, ser submetidos a um rastreio de segurança antes de penetrarem nessa zona, ou iii) ser sujeitos a medidas de segurança equivalentes, de acordo com as condições locais.\n\ni) passar por uma zona separada do terminal e ser escoltados ou transportados por autocarro/automóvel de ou para a sua aeronave na placa de estacionamento,\n\nii) se não for possível evitar a sua passagem nas zonas restritas de segurança do terminal, ser submetidos a um rastreio de segurança antes de penetrarem nessa zona, ou\n\niii) ser sujeitos a medidas de segurança equivalentes, de acordo com as condições locais.\n\n12. RECRUTAMENTO E FORMAÇÃO DO PESSOAL\n\n12.1. Programa nacional de formação de segurança da aviação\n\nCada autoridade adequada deve desenvolver e implementar um programa nacional de formação de segurança da aviação, por forma a que os tripulantes e o pessoal de terra cumpram os requisitos de segurança da aviação e reajam a actos de interferência ilegal no domínio da aviação.\n\n12.2. Pessoal de segurança\n\n1. O programa nacional de formação de segurança da aviação deve incluir a selecção, a qualificação, a formação, a certificação e a motivação do pessoal de segurança. As pessoas cujo contrato de trabalho preveja a realização de tarefas de segurança, a tempo inteiro ou parcial, devem preencher os seguintes requisitos, a especificar pela autoridade adequada: a) Os formadores que desenvolvam e conduzam acções de formação em matéria de segurança para o pessoal de segurança e para o pessoal de terra das transportadoras aéreas e dos aeroportos devem ter as certificações, os conhecimentos e a experiência necessários, que deverão incluir, no mínimo: i) grande experiência em operações de segurança no domínio da aviação, ii) certificação emitida pela autoridade nacional competente, ou certificação equivalente de aprovação homologada pela autoridade nacional competente, e iii) conhecimentos nos seguintes domínios: 1. sistemas de segurança e controlo de acessos; 2. segurança em terra e a bordo; 3. rastreios antes do embarque; 4. segurança das bagagens e da carga; 5. segurança e verificação da aeronave; 6. armas e artigos proibidos; 7. enquadramento geral do terrorismo; e 8. outras matérias e medidas relacionadas com a segurança, consideradas apropriadas para uma maior sensibilização para as questões da segurança; b) Os formadores e instrutores envolvidos e responsáveis pela formação em matéria de segurança para o pessoal de segurança e para o pessoal de terra dos aeroportos devem ser submetidos a uma formação periódica anual em matéria de segurança da aviação e da evolução recente em matéria de segurança.\n\na) Os formadores que desenvolvam e conduzam acções de formação em matéria de segurança para o pessoal de segurança e para o pessoal de terra das transportadoras aéreas e dos aeroportos devem ter as certificações, os conhecimentos e a experiência necessários, que deverão incluir, no mínimo: i) grande experiência em operações de segurança no domínio da aviação, ii) certificação emitida pela autoridade nacional competente, ou certificação equivalente de aprovação homologada pela autoridade nacional competente, e iii) conhecimentos nos seguintes domínios: 1. sistemas de segurança e controlo de acessos; 2. segurança em terra e a bordo; 3. rastreios antes do embarque; 4. segurança das bagagens e da carga; 5. segurança e verificação da aeronave; 6. armas e artigos proibidos; 7. enquadramento geral do terrorismo; e 8. outras matérias e medidas relacionadas com a segurança, consideradas apropriadas para uma maior sensibilização para as questões da segurança;\n\ni) grande experiência em operações de segurança no domínio da aviação,\n\nii) certificação emitida pela autoridade nacional competente, ou certificação equivalente de aprovação homologada pela autoridade nacional competente, e\n\niii) conhecimentos nos seguintes domínios: 1. sistemas de segurança e controlo de acessos; 2. segurança em terra e a bordo; 3. rastreios antes do embarque; 4. segurança das bagagens e da carga; 5. segurança e verificação da aeronave; 6. armas e artigos proibidos; 7. enquadramento geral do terrorismo; e 8. outras matérias e medidas relacionadas com a segurança, consideradas apropriadas para uma maior sensibilização para as questões da segurança;\n\n1. sistemas de segurança e controlo de acessos;\n\n2. segurança em terra e a bordo;\n\n3. rastreios antes do embarque;\n\n4. segurança das bagagens e da carga;\n\n5. segurança e verificação da aeronave;\n\n6. armas e artigos proibidos;\n\n7. enquadramento geral do terrorismo; e\n\n8. outras matérias e medidas relacionadas com a segurança, consideradas apropriadas para uma maior sensibilização para as questões da segurança;\n\nb) Os formadores e instrutores envolvidos e responsáveis pela formação em matéria de segurança para o pessoal de segurança e para o pessoal de terra dos aeroportos devem ser submetidos a uma formação periódica anual em matéria de segurança da aviação e da evolução recente em matéria de segurança.\n\n2. Formação do pessoal de segurança O pessoal de segurança será formado para assegurar as funções que lhe serão cometidas; essa formação incluirá, entre outras, as seguintes áreas de segurança: 1. tecnologia e técnicas de rastreio; 2. operações de rastreio nos pontos de controlo; 3. técnicas de revista de bagagem de cabina e de porão; 4. sistemas de segurança e controlo de acesso; 5. rastreios antes do embarque; 6. segurança das bagagens e da carga; 7. segurança e verificação da aeronave; 8. armas e artigos objecto de restrições; 9. enquadramento geral do terrorismo; e 10. outras matérias e medidas relacionadas com a segurança, consideradas apropriadas para uma maior sensibilização para as questões da segurança. O âmbito da formação pode ser aumentado sob reserva das necessidades de segurança da aviação e da evolução tecnológica. O período de formação inicial para o pessoal responsável pelos rastreios não será inferior ao da recomendação da ICAO.\n\nO pessoal de segurança será formado para assegurar as funções que lhe serão cometidas; essa formação incluirá, entre outras, as seguintes áreas de segurança: 1. tecnologia e técnicas de rastreio; 2. operações de rastreio nos pontos de controlo; 3. técnicas de revista de bagagem de cabina e de porão; 4. sistemas de segurança e controlo de acesso; 5. rastreios antes do embarque; 6. segurança das bagagens e da carga; 7. segurança e verificação da aeronave; 8. armas e artigos objecto de restrições; 9. enquadramento geral do terrorismo; e 10. outras matérias e medidas relacionadas com a segurança, consideradas apropriadas para uma maior sensibilização para as questões da segurança.\n\n1. tecnologia e técnicas de rastreio;\n\n2. operações de rastreio nos pontos de controlo;\n\n3. técnicas de revista de bagagem de cabina e de porão;\n\n4. sistemas de segurança e controlo de acesso;\n\n5. rastreios antes do embarque;\n\n6. segurança das bagagens e da carga;\n\n7. segurança e verificação da aeronave;\n\n8. armas e artigos objecto de restrições;\n\n9. enquadramento geral do terrorismo; e\n\n10. outras matérias e medidas relacionadas com a segurança, consideradas apropriadas para uma maior sensibilização para as questões da segurança.\n\nO âmbito da formação pode ser aumentado sob reserva das necessidades de segurança da aviação e da evolução tecnológica. O período de formação inicial para o pessoal responsável pelos rastreios não será inferior ao da recomendação da ICAO.\n\n3. Certificação do pessoal de segurança O pessoal de segurança responsável pelos rastreios será aprovado ou certificado pela autoridade nacional adequada.\n\n4. Motivação do pessoal de segurança Devem ser promovidas medidas adequadas para garantir que o pessoal de segurança apresente um elevado nível de motivação que lhe permita ser eficaz no exercício das tarefas que lhe estão atribuídas.\n\n12.3. Outro pessoal\n\nDeve ser elaborado um programa de formação e sensibilização inicial e permanente em matéria de segurança dirigido aos tripulantes e ao pessoal de terra dos aeroportos e das transportadoras aéreas. Essa formação deve contribuir para aumentar a sensibilização do pessoal para as questões da segurança e para a melhoria dos sistemas de segurança existentes. A formação deve incidir nas seguintes matérias:\n\n1. sistemas de segurança e controlo de acesso;\n\n2. segurança em terra e a bordo;\n\n3. rastreios antes do embarque;\n\n4. segurança das bagagens e da carga;\n\n5. segurança e verificação da aeronave;\n\n6. armas e artigos proibidos;\n\n7. enquadramento geral do terrorismo;\n\n8. outras matérias e medidas relacionadas com a segurança, consideradas apropriadas para uma maior sensibilização para as questões da segurança.\n\nA formação em matéria de segurança para o pessoal de terra dos aeroportos e das transportadoras aéreas com acesso a zonas restritas de segurança será projectada para uma duração mínima de 3 horas de formação teórica e 1 hora de formação prática.\n\n13. ORIENTAÇÕES PARA O EQUIPAMENTO\n\nOs equipamentos utilizados para garantir a segurança da aviação devem ser aprovados pela autoridade adequada de acordo com as orientações descritas nesta secção.\n\n13.1. Equipamentos de detecção de metais\n\n1. Pórticos de detecção de metais\n\nOs pórticos de detecção de metais utilizados nos aeroportos para rastreio dos passageiros devem preencher os seguintes requisitos:\n\na) Segurança i) Os equipamentos devem ser capazes de detectar, em todas as condições previsíveis, pequenos artigos feitos dos metais mais variados, com maior sensibilidade para os metais ferrosos; ii) Os equipamentos devem poder detectar quaisquer objectos metálicos, independentemente da respectiva orientação e localização no quadro do pórtico; iii) A sensibilidade dos equipamentos deve ser tão uniforme quanto possível dentro de todo o quadro, permanecer estável e ser verificada periodicamente;\n\ni) Os equipamentos devem ser capazes de detectar, em todas as condições previsíveis, pequenos artigos feitos dos metais mais variados, com maior sensibilidade para os metais ferrosos;\n\nii) Os equipamentos devem poder detectar quaisquer objectos metálicos, independentemente da respectiva orientação e localização no quadro do pórtico;\n\niii) A sensibilidade dos equipamentos deve ser tão uniforme quanto possível dentro de todo o quadro, permanecer estável e ser verificada periodicamente;\n\nb) Condições de funcionamento O funcionamento dos equipamentos não deve ser prejudicado pelo seu meio ambiente;\n\nc) Alarme sonoro A detecção de metais deve ser automaticamente sinalizada, sem quaisquer margens para dúvidas para o operador (sistema de indicação «passa/não passa»);\n\nd) Comandos i) Os equipamentos devem poder ser regulados por forma a abranger todas as condições de detecção especificadas; o volume do alarme sonoro também deve ser regulável; ii) Os comandos de regulação dos níveis de detecção devem ser concebidos por forma a impedir qualquer acesso não autorizado. Os graus de regulação devem ser claramente indicados;\n\ni) Os equipamentos devem poder ser regulados por forma a abranger todas as condições de detecção especificadas; o volume do alarme sonoro também deve ser regulável;\n\nii) Os comandos de regulação dos níveis de detecção devem ser concebidos por forma a impedir qualquer acesso não autorizado. Os graus de regulação devem ser claramente indicados;\n\ne) Calibração O acesso aos procedimentos de calibração deve ser reservado às pessoas autorizadas.\n\n2. Detectores portáteis de metais\n\nOs detectores portáteis de metais utilizados para rastreio dos passageiros devem satisfazer os seguintes requisitos:\n\na) Os equipamentos devem detectar quantidades reduzidas de metais, sem qualquer contacto directo com o objecto, em todas as condições previsíveis;\n\nb) Os equipamentos devem poder detectar metais ferrosos e não ferrosos;\n\nc) O detector deve ser concebido de maneira a localizar a posição do metal detectado sem qualquer dificuldade;\n\nd) Os equipamentos devem estar equipados com sinais de alarme sonoros e/ou visuais.\n\n13.2. Normas e procedimentos de ensaio para os equipamentos de raios-X\n\n1. Aplicabilidade\n\na) Equipamentos Os presentes requisitos e orientações para os equipamentos de segurança de raios-X aplicam-se a todos os aparelhos de raios-X que produzem imagens destinadas a ser interpretadas por um operador. Estas orientações abrangem, por conseguinte, os equipamentos convencionais de raios-X e os SDE/SDEE utilizados em modo indicativo;\n\nb) Objectos rastreados Os presentes requisitos e orientações para os equipamentos de segurança de raios-X são igualmente aplicáveis a quaisquer objectos submetidos a rastreio, independentemente da sua natureza ou dimensão. Caso tenham de ser rastreados, todos os objectos embarcados numa aeronave devem ser submetidos a rastreio de padrão idêntico ao estabelecido no presente anexo.\n\n2. Requisitos de comportamento funcional\n\na) Segurança O equipamento de raios-X deve garantir o necessário nível de detecção, medido em termos de resolução, de penetração e de discriminação, que possa impedir o transporte de artigos proibidos a bordo de aeronaves;\n\nb) Ensaios O comportamento funcional do aparelho deve ser avaliado de acordo com métodos de ensaio adequados;\n\nc) Requisitos técnicos O equipamento de raios-X deve permitir visualizar as imagens integrais dos objectos colocados no túnel, sem quaisquer cortes nos ângulos. A distorção da imagem do objecto visionado deve ser reduzida ao mínimo. O modo de disposição das bagagens no tapete rolante deve estar sinalizado de forma adequada tendo em vista obter as melhores imagens possíveis. Contraste: o equipamento de raios-X deve ser capaz de mostrar grupos de gradações de cinzento (varrimento de uma gama mais pequena). A imagem de qualquer parte do objecto rastreado deve poder ser visualizada no ecrã durante, pelos menos, 5 segundos. No caso de ser necessário um escrutínio mais apurado, o operador deve, além disso, ter a possibilidade de parar a marcha do tapete rolante e, se for caso disso, de inverter a sua marcha. Dimensão do ecrã: o ecrã do monitor deve apresentar uma dimensão suficiente do ponto de vista do conforto do operador (por norma, 14 polegadas ou mais). Características do ecrã: o ecrã deve fornecer imagens sem cintilação e ter pelo menos 800 linhas (por norma, 1024 × 1024 pixels — monitores de alta resolução). Em caso de utilização de dois monitores, um deles deve ser monocromático. O equipamento de raios-X deve dar indicação visual dos materiais que não consegue penetrar. O equipamento de raios-X deve possibilitar a decomposição de matérias orgânicas e inorgânicas. Para facilitar o trabalho do operador, os aparelhos devem fazer a detecção automática das ameaças.\n\n3. Manutenção\n\nOs aparelhos não devem ser objecto de quaisquer alterações não autorizadas, incluindo manutenção ou reparação. Não devem ser efectuadas quaisquer modificações do aparelho (equipamento e suportes lógicos) sem que se verifique que tal não afecta de modo adverso a qualidade da imagem.\n\nA composição do material do tapete rolante não deve ser alterada sem se verificar que tal não provoca alterações na qualidade da imagem.\n\nOs acessos via modem para efeitos de manutenção ou de actualização, caso existam, devem ser controlados e vigiados.\n\nApêndice\n\nOrientações para a classificação de artigos proibidos\n\nEstas orientações abordam as várias formas possíveis de armas e de artigos sujeitos a restrições. Para avaliação dos objectos susceptíveis de poderem eventualmente ser utilizados como armas deverá, contudo, imperar o bom senso.\n\ni) Armas de fogo: quaisquer armas susceptíveis de disparar projécteis sob o efeito de uma explosão ou sob a acção de ar ou gás comprimido, incluindo as pistolas de alarme e as pistolas de sinalização.\n\nii) Facas e objectos cortantes: sabres, espadas, facas para corte de tipo X-acto, punhais de caça, facas de recordação, artigos ligados às artes marciais, ferramentas para uso profissional e outros objectos cortantes com lâminas de comprimento igual ou superior a 6 cm e/ou proibidos pela legislação local.\n\niii) Objectos contundentes: matracas, mocas, tacos de basebol ou instrumentos similares.\n\niv) Explosivos/munições/líquidos inflamáveis/corrosivos: quaisquer matérias explosivas ou comburentes que, isoladamente ou em combinação com outros componentes sejam susceptíveis de provocar explosões ou incêndios. Esta classe de matérias inclui as matérias explosivas, os detonadores, fogos de artifício, a gasolina, outros líquidos inflamáveis, as munições, etc., bem como quaisquer combinações destes artigos. Esta categoria de produtos inclui ainda todas as substâncias tóxicas ou corrosivas, designadamente os gases, sob pressão ou não.\n\nv) Produtos neutralizantes ou incapacitantes: todos os gases lacrimogéneos, vaporizadores de defesa, produtos químicos e gases semelhantes, quer se encontrem contidos em pistolas, latas ou noutros recipientes e os demais dispositivos neutralizantes, tais como os aparelhos de choques eléctricos.\n\nvi) Outros objectos: picadores de gelo, paus ferrados utilizados por alpinistas, navalhas de barbear e tesouras com lâminas alongadas os quais, embora não sejam geralmente considerados armas mortíferas ou perigosas podem, contudo, ser usados como armas, incluindo os brinquedos e as reproduções de objectos com a forma de armas ou de granadas.\n\nvii) Objectos de toda a espécie susceptíveis de levantar suspeitas razoáveis de que qualquer um dos seus componentes pode ser usado para simular uma arma mortífera. Trata-se designadamente, mas não só, de objectos que se assemelham a artigos explosivos e de outros objectos susceptíveis de serem confundidos com armas ou artigos perigosos.\n\nviii) Objectos e substâncias para ataques químicos/biológicos As possibilidades de ataques químicos/biológicos incluem a utilização de agentes químicos ou biológicos para cometer actos criminosos. Essas substâncias químicas/biológicas restritas incluem, entre outras, as seguintes substâncias: gás-mostarda, vx, cloro, sarin, cianeto de hidrogénio, carbúnculo, botulismo, varíola, tularemia e vírus de febre hemorrágica (v.h.f.). Os objectos que indiciem natureza de substância química ou biológica, ou que sejam suspeitos de tal natureza, serão imediatamente notificados à autoridade aeroportuária, à polícia, à autoridade militar ou a qualquer outra autoridade adequada, e mantidos isolados das zonas públicas dos terminais."
+  },
+  "72458690c56bf181": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Dezembro de 2002\n\nrelativo ao estabelecimento de regras comuns no domínio da segurança da aviação civil\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 80.º,\n\nTendo em conta as conclusões do Conselho «Transportes» de 16 de Outubro de 2001 e, nomeadamente, o seu ponto 9,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/06bdc251-178a-48dd-aed0-a4d4e4eee634.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/06bdc251-178a-48dd-aed0-a4d4e4eee634.0018.03/DOC_1#E0002)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/06bdc251-178a-48dd-aed0-a4d4e4eee634.0018.03/DOC_1#E0003)), tendo em conta o projecto comum aprovado em 15 de Novembro de 2002 pelo Comité de Conciliação,\n\n(1) Os actos criminosos cometidos em Nova Iorque e Washington em 11 de Setembro de 2001 demonstram que o terrorismo é uma das maiores ameaças aos ideais de democracia e liberdade e aos valores da paz que constituem a própria essência da União Europeia.\n\n(2) É necessário garantir, de forma permanente, na aviação civil a protecção dos cidadãos no interior da Comunidade Europeia, evitando actos de interferência ilegal.\n\n(3) Sem prejuízo da regulamentação dos Estados-Membros no domínio da segurança nacional e das medidas a adoptar com base no Título VI do Tratado da União Europeia, esse objectivo deve ser alcançado mediante a aprovação de disposições adequadas no domínio da política dos transportes aéreos que estabeleçam normas de base comuns, com base nas actuais recomendações do documento 30 da Conferência Europeia da Aviação Civil (CEAC). Deverão ser conferidos à Comissão poderes de execução que lhe permitam adoptar as correspondentes medidas de execução pormenorizadas. A fim de prevenir actos ilegais, algumas destas medidas de execução deverão permanecer secretas e não ser publicadas.\n\n(4) O presente regulamento respeita os direitos fundamentais e observa os princípios reconhecidos, nomeadamente na Carta dos Direitos Fundamentais da União Europeia.\n\n(5) Os diversos tipos de actividades de aviação civil não estão necessariamente sujeitos ao mesmo tipo de ameaças. Por conseguinte, é necessário que as medidas de execução pormenorizadas estejam devidamente adaptadas às circunstâncias específicas de cada actividade e ao carácter sensível de determinadas medidas.\n\n(6) Nos pequenos aeroportos, a aplicação das normas de base comuns pode ser desproporcionada ou a execução das normas pode ser impossível por razões práticas objectivas. Neste caso, as autoridades adequadas dos Estados-Membros deverão poder aplicar medidas alternativas que proporcionem um nível adequado de protecção. A Comissão deverá analisar se estas medidas são justificadas por razões práticas objectivas e se proporcionam um nível adequado de protecção.\n\n(7) A Convenção sobre a Aviação Civil Internacional, assinada em Chicago em 7 de Dezembro de 1944 (Convenção de Chicago), estabelece normas mínimas para garantir a segurança da aviação civil.\n\n(8) Tendo em vista a realização dos objectivos do presente regulamento, cada Estado-Membro deverá adoptar um programa nacional de segurança da aviação civil, bem como um correspondente programa de controlo da qualidade e um programa de formação.\n\n(9) Atendendo à diversidade das partes envolvidas na aplicação de medidas de segurança a nível nacional, é necessário que cada Estado-Membro designe uma autoridade única adequada responsável pela coordenação e pelo acompanhamento da execução dos programas no domínio da segurança da aviação.\n\n(10) Os Estados-Membros deverão poder aplicar medidas mais rigorosas.\n\n(11) O acompanhamento das medidas de segurança exige a criação a nível nacional de sistemas de controlo da qualidade adequados e a organização de inspecções sob a autoridade da Comissão, para verificar a eficácia de cada um dos sistemas nacionais.\n\n(12) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^4^](http://publications.europa.eu/resource/cellar/06bdc251-178a-48dd-aed0-a4d4e4eee634.0018.03/DOC_1#E0004)).\n\n(13) Em 2 de Dezembro de 1987, foram acordadas em Londres pelo Reino de Espanha e o Reino Unido, através de uma declaração conjunta efectuada pelos ministros dos Negócios Estrangeiros dos dois países, disposições que têm em vista uma maior cooperação na utilização do aeroporto de Gibraltar e que não foram ainda aplicadas.\n\n(14) Atendendo a que os objectivos da acção encarada, nomeadamente o estabelecimento e aplicação uniforme de disposições adequadas no domínio da política da aviação, não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, devido à dimensão europeia do presente regulamento, ser melhor alcançados ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento limita-se às normas de base comuns indispensáveis para alcançar os objectivos de segurança da aviação, não excedendo o necessário para esse efeito,\n\nAPROVARAM O PRESENTE REGULAMENTO:"
+  },
+  "f714b32aef2c4630": {
+   "fragment_id": "Artigo 1.º — Objectivos",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos\n\n1. O presente regulamento tem por objectivo principal estabelecer e implementar as medidas comunitárias adequadas, destinadas a evitar actos de interferência ilegal contra a aviação civil.\n\n2. É objectivo adicional proporcionar uma base de interpretação comum das disposições correspondentes da Convenção de Chicago, em especial do anexo 17.\n\n3. As modalidades de consecução dos objectivos enunciados nos n.^os^ 1 e 2 são:\n\na) A criação de normas de base comuns sobre medidas de segurança da aviação;\n\nb) A introdução de mecanismos adequados de vigilância da conformidade."
+  },
+  "e3c34406b34eff5c": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Aeroporto», qualquer área de um Estado-Membro aberta a operações comerciais de transporte aéreo;\n\n2. «Convenção de Chicago», a Convenção sobre a Aviação Civil Internacional e os seus anexos, assinada em Chicago em 7 de Dezembro de 1944;\n\n3. «Segurança da aviação», a combinação de medidas e de recursos humanos e naturais destinados a proteger a aviação civil contra actos de interferência ilegal;\n\n4. Zona demarcada, uma zona separada de outras zonas restritas de segurança de um aeroporto através de um controlo de acesso."
+  },
+  "09be90d15340dd43": {
+   "fragment_id": "Artigo 4.º — Normas comuns",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Normas comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Normas comuns\n\n1. As normas de base comuns sobre medidas de segurança da aviação baseiam-se nas actuais recomendações do documento 30 da CEAC e constam do anexo.\n\n2. As medidas necessárias à execução e à adaptação técnica destas normas de base comuns são adoptadas nos termos do n.º 2 do artigo 9.º, tendo devidamente em consideração os diversos tipos de operações e o carácter sensível das medidas relativas aos seguintes aspectos:\n\na) Critérios de desempenho e ensaios de aceitação de equipamentos;\n\nb) Procedimentos detalhados que contenham informações de carácter sensível;\n\nc) Critérios detalhados para derrogações às medidas de segurança.\n\n3. A autoridade adequada do Estado-Membro pode, com base numa avaliação local dos riscos e sempre que as medidas de segurança especificadas no anexo possam ser desproporcionadas ou não possam ser aplicadas por razões práticas objectivas, adoptar medidas de segurança nacionais que proporcionem um nível adequado de protecção nos aeroportos:\n\na) Com uma média anual não superior a dois voos comerciais diários; ou\n\nb) Com voos apenas de aviação geral; ou\n\nc) Com actividade comercial limitada às aeronaves com peso máximo à descolagem inferior a 10 toneladas ou com menos de 20 lugares,\n\ntendo em conta as particularidades destes pequenos aeroportos.\n\nO Estado-Membro em causa informa a Comissão destas medidas.\n\n3A. O n.º 3 pode também ser aplicado a zonas demarcadas de aeroportos com:\n\na) Voos apenas de aviação geral; ou\n\nb) Actividade comercial limitada às aeronaves com peso máximo à descolagem inferior a 10 toneladas ou com menos de 20 lugares.\n\nUma zona demarcada deve ser indicada no programa de segurança do aeroporto.\n\nCada voo com origem numa zona demarcada de um aeroporto deve indicar esse facto ao aeroporto de destino antes da chegada do voo.\n\n4. A Comissão deve avaliar se as medidas adoptadas por qualquer Estado-Membro ao abrigo do n.º 3 se justificam por razões práticas objectivas e proporcionam um nível adequado de protecção. Se as medidas não satisfizerem estes critérios, a Comissão tomará uma decisão nos termos do n.º 3 do artigo 9.º; nesse caso, o Estado-Membro deve revogá-las ou adaptá-las."
+  },
+  "a6aab03ca1f8943e": {
+   "fragment_id": "Artigo 5.º — Programa nacional de segurança da aviação civil",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Programa nacional de segurança da aviação civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Programa nacional de segurança da aviação civil\n\n1. No prazo de 3 meses a contar da data de entrada em vigor do presente regulamento, cada Estado-Membro deve aprovar um programa nacional de segurança da aviação civil para garantir a aplicação das normas comuns mencionadas no n.º 1 do artigo 4.º e das medidas adoptadas em conformidade com o n.º 2 do artigo 4.º até à data especificada nas referidas medidas.\n\n2. Não obstante, em qualquer Estado-Membro, um ou mais organismos ou entidades poderem desempenhar funções de segurança da aviação, cada Estado-Membro deve designar uma autoridade adequada responsável pela coordenação e supervisão da aplicação do seu programa nacional de segurança da aviação civil.\n\n3. No prazo de 6 meses a contar da data de entrada em vigor do presente regulamento, cada Estado-Membro deve exigir à sua autoridade adequada que assegure o desenvolvimento e a implementação de um programa nacional de controlo da qualidade de segurança da aviação civil, por forma a garantir a eficácia do seu programa nacional de segurança da aviação civil.\n\n4. Cada Estado-Membro deve assegurar que os seus aeroportos e as transportadoras aéreas que operam a partir desse Estado definam, executem e mantenham programas de segurança dos aeroportos e das transportadoras aéreas de forma a cumprir os requisitos do seu programa nacional de segurança da aviação civil. Esses programas devem ser submetidos à aprovação e supervisão da autoridade adequada.\n\n5. Cada Estado-Membro deve exigir à sua autoridade adequada que assegure o desenvolvimento e a implementação de um programa nacional de formação no domínio da segurança da aviação civil."
+  },
+  "d6834e6af5b5bb9c": {
+   "fragment_id": "Artigo 7.º — Acompanhamento da conformidade",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Acompanhamento da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acompanhamento da conformidade\n\n1. As especificações relativas ao programa nacional de controlo da qualidade da segurança da aviação civil a implementar pelos Estados-Membros devem ser aprovadas nos termos do n.º 2 do artigo 9.º. O referido programa deve basear-se nas melhores práticas e permitir a detecção e a correcção rápidas das deficiências. Cada programa deve determinar que todos os aeroportos situados no Estado-Membro em causa sejam objecto de [**►M1**](http://publications.europa.eu/resource/celex/32004R0849) actividades de vigilância da conformidade**◄** regulares efectuadas sob a responsabilidade da autoridade adequada a que se refere o n.º 2 do artigo 5.º. Estas [**►M1**](http://publications.europa.eu/resource/celex/32004R0849) actividades de vigilância da conformidade**◄** devem recorrer a uma metodologia comum e ser efectuadas por [**►M1**](http://publications.europa.eu/resource/celex/32004R0849) pessoas**◄**qualificadas segundo critérios comuns.\n\n2. Após o decurso de um período de 6 meses a contar da data de entrada em vigor das disposições do presente regulamento nos termos do artigo 12.º e em cooperação com a autoridade adequada a que se refere o n.º 2 do artigo 5.º, a Comissão deve realizar inspecções, incluindo inspecções por amostragem adequada dos aeroportos, a fim de fiscalizar a aplicação das disposições do presente regulamento pelos Estados-Membros. Essas inspecções devem ter em conta as informações obtidas a partir dos programas nacionais de controlo da qualidade de segurança da aviação civil e, em particular, dos [**►M1**](http://publications.europa.eu/resource/celex/32004R0849) relatórios da vigilância da conformidade**◄**. Os procedimentos respeitantes à realização de tais inspecções são aprovados nos termos do n.º 2 do artigo 9.º\n\n3. Os funcionários aos quais a Comissão tenha conferido o mandato de efectuar inspecções em conformidade com o n.º 2 exercem os seus poderes mediante apresentação de uma autorização, por escrito, que especifique o conteúdo e o objectivo da inspecção, bem como a data em que deve ter início. As inspecções aos aeroportos serão feitas sem aviso prévio. Antes das inspecções previstas, a Comissão informa os Estados-Membros interessados com a devida antecedência.\n\nOs Estados-Membros em causa submetem-se a tais inspecções e garantem que os organismos ou pessoas envolvidas se submetem igualmente às mesmas.\n\n4. Os relatórios das inspecções são enviados pela Comissão ao Estado-Membro em questão que deve, no prazo de três meses a contar da notificação, indicar as medidas adoptadas para corrigir qualquer eventual inconformidade. O relatório e a resposta da autoridade adequada a que se refere o n.º 2 do artigo 5.º são comunicados ao comité criado no n.º 1 do artigo 9.º"
+  },
+  "e9bec2edc0d99e84": {
+   "fragment_id": "Artigo 8.º — Difusão de informações",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Difusão de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Difusão de informações\n\n1. Sem prejuízo do direito de acesso do público aos documentos estabelecido no Regulamento (CE) n.º 1049/2100 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso público aos documentos do Parlamento Europeu, do Conselho e da Comissão ([^5^](http://publications.europa.eu/resource/cellar/06bdc251-178a-48dd-aed0-a4d4e4eee634.0018.03/DOC_1#E0005)):\n\na) As medidas relativas aos:\n\ni) critérios de desempenho e aos ensaios de aceitação de equipamentos,\n\nii) procedimentos detalhados que contenham informações de carácter sensível,\n\niii) critérios detalhados para derrogações às medidas de segurança,\n\nb) As especificações a que se refere o n.º 1 do artigo 7.º;\n\nc) Os relatórios das inspecções e as respostas dos Estados-Membros a que se refere o n.º 4 do artigo 7.º, são secretos e não são publicados. Apenas são colocados à disposição das autoridades a que se refere o n.º 2 do artigo 5.º, as quais só os comunicam às partes interessadas com base no princípio da necessidade de saber, nos termos da regulamentação nacional aplicável à difusão de informações de carácter sensível.\n\n2. Tanto quanto possível e nos termos da legislação nacional aplicável, os Estados-Membros devem tratar como confidencial as informações que resultem dos relatórios das inspecções e das respostas dos Estados-Membros sempre que elas disserem respeito a outros Estados-Membros.\n\n3. Salvo quando for manifesto que os relatórios das inspecções e das respostas podem ser ou não divulgados, os Estados-Membros ou a Comissão devem consultar o Estado-Membro em questão."
+  },
+  "b25f87edbc882216": {
+   "fragment_id": "Artigo 9.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comité\n\n1. A Comissão é assistida por um comité composto por representantes dos Estados-Membros e presidido pelo representante da Comissão.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de um mês.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 6.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\n4. O comité aprovará o seu regulamento interno."
+  },
+  "8ca47937a2edf7c8": {
+   "fragment_id": "Artigo 11.º — Publicação de informações",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Publicação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Publicação de informações\n\nSob reserva do Regulamento (CE) n.º 1049/2001, a Comissão deve publicar anualmente um relatório sobre a aplicação do presente regulamento e sobre a situação da segurança da aviação na Comunidade, retirando conclusões dos relatórios de inspecção."
+  },
+  "1adda0fd4c669e6d": {
+   "fragment_id": "Artigo 13.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente regulamento entra em vigor vinte dias após a sua publicação no *Jornal Oficial das Comunidades Europeias*, com excepção das seguintes disposições do anexo:\n\n— rastreio da bagagem de porão (secção 5.2),\n\n— carga, correio e encomendas expresso (secção 6), e\n\n— correio postal (secção 7),\n\nque entram em vigor em 31 de Dezembro de 2002.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "7cab1c41fc66502b": {
+   "fragment_id": "1. DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "1. DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. DEFINIÇÕES\n\n1. «Bagagem de porão acompanhada»: bagagem aceite para ser transportada no porão de uma aeronave, a bordo da qual se encontra o passageiro que a registou.\n\n2. «Lado ar»: zona de movimento dos aeroportos e seus terrenos e edifícios adjacentes, ou parte destes.\n\n3. «Controlo de segurança da aeronave»: inspecção do interior de uma aeronave a que os passageiros possam ter tido acesso e inspecção do porão a fim de descobrir artigos proibidos.\n\n4. «Verificação de segurança da aeronave»: uma inspecção minuciosa do interior e exterior da aeronave a fim de descobrir artigos proibidos.\n\n5. «Inquérito pessoal»: verificação da identidade e do passado histórico de uma pessoa, incluindo do eventual registo criminal, como parte da avaliação da sua aptidão para aceder sem escolta às zonas restritas de segurança.\n\n6. «Bagagem de cabina»: bagagem destinada a ser transportada na cabina de uma aeronave.\n\n7. «Voo comercial»: um voo regular ou não regular ou actividade de voo efectuada para alugar ao público em geral ou a grupos privados a título oneroso.\n\n8. «Co-Mat»: Sigla de materiais da transportadora aérea, enviados no âmbito da sua rede de escalas.\n\n9. «Co-Mail»: Sigla de correio da transportadora aérea, enviado no âmbito da sua rede de escalas.\n\n10. «Controlo aleatório contínuo»: controlos efectuados durante todo o período de actividade, de forma aleatória.\n\n11. «Aviação geral»: toda a actividade de voo regular ou não regular não oferecida ou facultada ao público em geral.\n\n12. «SDE»: Sistema de Detecção de Explosivos — sistema ou combinação de diferentes tecnologias capazes de detectar, e de o indicar por meio de um alarme, o material explosivo contido na bagagem, independentemente do material de que esta seja feita.\n\n13. «SDEE»: Sistema de Detecção de Engenhos Explosivos — sistema ou combinação de diferentes tecnologias capazes de detectar, e de o indicar por meio de um alarme, qualquer engenho explosivo através da detecção de um ou vários dos seus componentes contidos na bagagem, independentemente do material de que esta seja feita.\n\n14. «Bagagem de porão»: bagagem destinada a ser transportada no porão de uma aeronave.\n\n15. «Expedidor conhecido»: a) De carga: expedidor do bem a transportar por avião por sua própria conta, que estabeleceu relações comerciais com um agente reconhecido ou com um transportador aéreo com base em critérios pormenorizados no presente anexo; b) De correio postal: expedidor de correio a transportar por avião por sua própria conta, que estabeleceu relações comerciais com uma autoridade ou administração postal reconhecida.\n\n16. «Lado terra»: zona do aeroporto que não é o lado ar e que inclui todas as áreas públicas.\n\n17. «Correio postal»: despacho de correspondência e outros objectos enviados pelas administrações postais e destinados a entrega a administrações postais. As autoridades/administrações postais são definidas pelos Estados-Membros.\n\n18. «Artigo proibido»: um objecto susceptível de servir para praticar actos de interferência ilegal e que não tinha sido devidamente declarado e sujeito às disposições legislativas e regulamentares em vigor. A lista indicativa dos referidos artigos consta do apêndice.\n\n19. «SDEP»: Sistema de Detecção de Explosivos Primários - sistema ou combinação de diferentes tecnologias capazes de detectar, e de o indicar por meio de um alarme, o material explosivo contido na bagagem, independentemente do material de que esta seja feita.\n\n20. «Agente reconhecido»: agente, transitário ou outra entidade que tem relações comerciais com um operador e executa controlos de segurança, aceites ou exigidos pela autoridade adequada, à carga, ao correio e encomendas expresso e ao correio postal.\n\n21. «Zona restrita de segurança»: o lado ar do aeroporto cujo acesso é controlado a fim de garantir a segurança da aviação civil. Essas zonas incluirão normalmente, *inter alia*, todas as zonas de partida de passageiros situadas entre os pontos de rastreio e a aeronave, a plataforma, as zonas de processamento de bagagem, os hangares de carga, os centros de correio e as instalações de limpeza e restauração do lado ar.\n\n22. «Controlos de segurança»: meios para impedir a introdução de artigos proibidos.\n\n23. «Rastreio»: aplicação de meios técnicos ou outros destinados a identificar e/ou detectar artigos proibidos.\n\n24. «Bagagem de porão não acompanhada»: bagagem aceite para ser transportada no porão de uma aeronave, a bordo da qual não se encontra o passageiro que a registou.\n\n25. «Terminal»: edifício ou grupo de edifícios principais onde se processam as formalidades e o embarque de passageiros de voos comerciais e de carga.\n\n26. «PIA»: a Projecção de Imagens de Ameaça é um suporte lógico que pode ser instalado em certos aparelhos de raios-X. O programa projecta imagens virtuais de objectos que constituem ameaça (por exemplo, pistola, faca, engenho explosivo improvisado) na imagem de raios-X de uma mala real a ser examinada e fornece um *feedback* imediato ao operador sobre a capacidade deste de detectar essas imagens.\n\n27. «Equipamento de detecção de vestígios»: sistema tecnológico ou combinação de diversas tecnologias que é capaz de detectar quantidades muito pequenas (1/mil milionésimo de uma grama), e de indicar assim, por meio de um alarme, material explosivo contido na bagagem, ou outros artigos sujeitos a análise."
+  },
+  "d66cebe8c2e7822c": {
+   "fragment_id": "2. SEGURANÇA DO AEROPORTO",
+   "type": "divisao",
+   "heading": "2. SEGURANÇA DO AEROPORTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. SEGURANÇA DO AEROPORTO"
+  },
+  "c768c99c966f424a": {
+   "fragment_id": "2.1. Requisitos em matéria de planeamento aeroportuário",
+   "type": "divisao",
+   "heading": "2.1. Requisitos em matéria de planeamento aeroportuário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Requisitos em matéria de planeamento aeroportuário\n\nNo projecto ou na implantação de aeroportos, terminais de passageiros e de carga e demais edifícios com acesso directo ao lado ar, devem ser tidos em conta os requisitos essenciais no que se refere a:\n\na) Controlos de segurança efectuados aos passageiros, bagagem, correio e encomendas expresso, correio postal, provisões e outros fornecimentos de restauração da transportadora aérea;\n\nb) Protecção e controlo do acesso ao lado ar, zonas restritas de segurança e outras zonas e instalações sensíveis do aeroporto;\n\nc) Utilização eficaz dos equipamentos de segurança."
+  },
+  "1fbc6e369d7aae4f": {
+   "fragment_id": "2.1.1. Limites entre o lado ar e o lado terra",
+   "type": "divisao",
+   "heading": "2.1.1. Limites entre o lado ar e o lado terra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1.1. Limites entre o lado ar e o lado terra\n\nDevem ser estabelecidos limites entre o lado terra e o lado ar dos aeroportos."
+  },
+  "387e32a47cc6aa8a": {
+   "fragment_id": "2.1.2. Zonas restritas de segurança",
+   "type": "divisao",
+   "heading": "2.1.2. Zonas restritas de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1.2. Zonas restritas de segurança\n\nEm cada aeroporto serão criadas zonas restritas de segurança."
+  },
+  "4b7c647da1f21fe0": {
+   "fragment_id": "2.2. Controlo do acesso",
+   "type": "divisao",
+   "heading": "2.2. Controlo do acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2. Controlo do acesso"
+  },
+  "4427b9c1e1a6cf2e": {
+   "fragment_id": "2.2.1. Zonas restritas de segurança e outras zonas do lado ar",
+   "type": "divisao",
+   "heading": "2.2.1. Zonas restritas de segurança e outras zonas do lado ar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.1. Zonas restritas de segurança e outras zonas do lado ar\n\ni) O controlo dos acessos às zonas restritas de segurança e às restantes zonas do lado ar deve ser assegurado em permanência para impedir a entrada nessas zonas a pessoas não autorizadas e a introdução de artigos proibidos nas zonas restritas de segurança ou na aeronave.\n\nii) Todo o pessoal que deva ter acesso às zonas restritas de segurança será sujeito a um inquérito pessoal sobre os últimos cinco anos, no mínimo. O inquérito repetir-se-á a intervalos regulares que não excedam cinco anos.\n\niii) Todo o pessoal que deva ter acesso às zonas restritas de segurança receberá também uma formação regular em segurança da aviação (ver secção 12.3), incluindo os riscos para a segurança da aviação, e terá instruções para informar a autoridade competente sobre qualquer incidente que possa constituir uma ameaça para a segurança da aviação.\n\niv) Serão emitidos cartões de identificação aeroportuária para todo o pessoal afecto ao aeroporto ou que aí se desloque com frequência (incluindo os trabalhadores do aeroporto, os trabalhadores das transportadoras aéreas e os trabalhadores de outras organizações). O cartão de identificação aeroportuária exibirá o nome e uma fotografia do seu titular. O prazo de validade do cartão de identificação deve ser limitado. A autoridade competente determinará quando deve ser emitido um cartão de identificação aeroportuária permanente para visitantes frequentes.\n\nv) O cartão de identificação aeroportuária será exibido em permanência, em local visível, sempre que o seu titular esteja em serviço.\n\nvi) Os veículos que tenham de ser utilizados no lado ar permanecerão no lado ar na medida do possível.\n\nvii) Para os veículos que devam transitar entre o lado terra e o lado ar será emitido um cartão de livre-trânsito específico ao veículo, que deve ser nele afixado em local facilmente visível. O acesso de outros veículos que tenham de se deslocar ao lado ar só será autorizado depois de terem sido inspeccionados e de lhes ter sido concedido um cartão de livre-trânsito temporário. Os veículos em missão de emergência poderão ficar isentos do cumprimento destas disposições.\n\nviii) Os cartões de identificação aeroportuária e os livre-trânsitos dos veículos serão controlados em todos os pontos de acesso ao lado ar e às zonas restritas de segurança."
+  },
+  "f5e3f2956217fa4e": {
+   "fragment_id": "2.2.2. Terminais",
+   "type": "divisao",
+   "heading": "2.2.2. Terminais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.2. Terminais\n\nDeve ser assegurada a vigilância de todas as zonas dos terminais acessíveis ao público. Os terminais devem ser patrulhados e os passageiros e outras pessoas devem ser vigiados pelo pessoal de segurança."
+  },
+  "31f1cbc4b09acc3c": {
+   "fragment_id": "2.2.3. Outras zonas públicas",
+   "type": "divisao",
+   "heading": "2.2.3. Outras zonas públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.3. Outras zonas públicas\n\nDevem ser criados meios de controlo dos acessos às zonas públicas situadas nas imediações das zonas de movimentação de aeronaves (terraços panorâmicos, hotéis localizados em aeroportos e parques de estacionamento). Outras zonas públicas que exigem supervisão são, entre outras, as instalações que estão sempre localizadas no lado terra, incluindo áreas concessionadas e outras zonas públicas de parqueamento, terminais e estradas de acesso público, instalações de aluguer de automóveis, zonas de estacionamento de táxis e transportes terrestres e todas as instalações hoteleiras localizadas no aeroporto.\n\nDevem igualmente ser adoptadas disposições que assegurem que essas zonas públicas possam ser imediatamente encerradas em caso de aumento da ameaça. Sempre que estejam abertas ao público, essas zonas devem ser patrulhadas por pessoal de segurança."
+  },
+  "d2078e8840d3e183": {
+   "fragment_id": "2.3. Rastreio do pessoal, objectos transportados e veículos",
+   "type": "divisao",
+   "heading": "2.3. Rastreio do pessoal, objectos transportados e veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.3. Rastreio do pessoal, objectos transportados e veículos\n\na) Todo o pessoal, incluindo tripulantes, e também os objectos transportados, será rastreado antes lhe ser permitido o acesso às zonas restritas de segurança. Sempre que isso não seja viável, as pessoas e os objectos serão sujeitos a um rastreio aleatório permanente adequado, com uma frequência indicada pela avaliação dos riscos efectuada pela autoridade competente em cada um dos Estados-Membros. O rastreio aleatório será alargado a todos os artigos levados para bordo das aeronaves por todos os serviços, incluindo serviços de limpeza, vendas francas e outras partes com acesso à aeronave.\n\nb) Os veículos e materiais serão inspeccionados de forma aleatória no acesso ao lado ar ou a outras zonas restritas de segurança."
+  },
+  "285ee0a7efce3742": {
+   "fragment_id": "2.4. Segurança física e patrulhas",
+   "type": "divisao",
+   "heading": "2.4. Segurança física e patrulhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.4. Segurança física e patrulhas\n\na) As placas e outras áreas de estacionamento serão adequadamente iluminadas e a iluminação existente deverá iluminar, em particular, zonas vulneráveis do aeroporto;\n\nb) A protecção das zonas técnicas e de manutenção deve ser assegurada por meio de vedações, de agentes de segurança e de patrulhas, devendo o acesso a essas zonas ser controlado por meio de cartões de identificação aeroportuária e de livre-trânsitos para os veículos. As áreas circundantes do aeroporto e as instalações aeroportuárias, designadamente as fontes de alimentação eléctrica, subestações eléctricas, ajudas de navegação, torres de controlo, e demais edifícios utilizados pelos serviços de controlo de tráfego aéreo, bem como os depósitos de combustível e centros de comunicações, devem beneficiar de medidas de protecção equivalentes. Devem ainda ser adoptadas medidas especiais de combate aos actos de sabotagem dos depósitos de combustíveis e dos centros de comunicações;\n\nc) As vedações e zonas limítrofes das zonas restritas de segurança, para além das zonas do lado ar exteriores ao limite dessas vedações, incluindo as que estão na imediata vizinhança das soleiras das pistas e dos caminhos de circulação, serão vigiadas por meio de patrulhas, de circuitos fechados de televisão e de outras medidas de vigilância. Serão implementados processos de interpelação rigorosos em relação a pessoas sem identificação aeroportuária visível e a pessoas que acedam a áreas para as quais não estão autorizadas;\n\nd) O acesso ao lado ar e a zonas restritas de segurança, via escritórios do aeroporto arrendados, hangares de manutenção, instalações de carga e outros edifícios de instalações e de serviços, será restringido ao mínimo necessário."
+  },
+  "6def219b9dba95a0": {
+   "fragment_id": "3. SEGURANÇA DA AERONAVE",
+   "type": "divisao",
+   "heading": "3. SEGURANÇA DA AERONAVE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. SEGURANÇA DA AERONAVE"
+  },
+  "04c5421113bb0f56": {
+   "fragment_id": "3.1. Verificação e controlo de segurança da aeronave",
+   "type": "divisao",
+   "heading": "3.1. Verificação e controlo de segurança da aeronave",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1. Verificação e controlo de segurança da aeronave\n\n1. As aeronaves serão verificadas da seguinte forma:\n\na) As aeronaves que não estejam em serviço serão sujeitas a uma «verificação de segurança da aeronave» imediatamente antes ou depois de serem levadas para uma área de acesso restrito para efectuar um voo; essa verificação pode ser efectuada com alguma antecedência em relação ao momento de serem levadas para uma zona restrita de segurança, devendo neste caso ser garantida a segurança ou guarda das aeronaves desde o início da verificação até à partida; caso sejam verificadas após serem levadas para a zona restrita de segurança, a segurança ou guarda das aeronaves será garantida desde o início da verificação até à partida;\n\nb) As aeronaves que estejam em serviço, em rotação ou em escala, serão sujeitas a um «controlo de segurança da aeronave» imediatamente após o desembarque dos passageiros ou o mais tarde possível antes do embarque dos passageiros e o das bagagens e carga, se for caso disso.\n\n2. Todas as verificações e controlos de segurança da aeronave serão efectuados logo que todos os fornecedores de serviços (restauração, limpeza, produtos francos e outros), com excepção dos que desempenham funções de segurança, tenham deixado a aeronave, devendo a segurança ser mantida até ao processo de embarque e pré-descolagem e durante o mesmo."
+  },
+  "e2861d9ef742cb79": {
+   "fragment_id": "3.2. Protecção da aeronave",
+   "type": "divisao",
+   "heading": "3.2. Protecção da aeronave",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Protecção da aeronave\n\n1. Deve ser definida a responsabilidade pelo controlo do acesso às aeronaves estacionadas, que será executado da seguinte forma:\n\na) Em relação às aeronaves em serviço, o acesso será controlado desde o início do controlo de segurança da aeronave até à partida, a fim de manter a integridade do controlo;\n\nb) Em relação às aeronaves que não estejam em serviço e que tenham sido verificadas e encaminhadas para uma zona restrita de segurança, o acesso será controlado desde o início da verificação de segurança da aeronave até à partida, a fim de manter a integridade da verificação.\n\n2. Cada aeronave em serviço será colocada sob vigilância capaz de detectar qualquer acesso não autorizado.\n\n3. O acesso às aeronaves que não estejam em serviço será controlado da seguinte forma:\n\na) As portas da cabina serão fechadas;\n\nb) As mangas de recolha de passageiros e/ou as escadas ventrais serão fechadas, retiradas ou colocadas em posição retráctil; ou\n\nc) Serão aplicados nas portas dispositivos que evidenciem qualquer violação.\n\n4. Além disso, se nem todo o pessoal tiver sido objecto de um rastreio para ter acesso às zonas restritas de segurança, cada aeronave será observada, pelo menos, de 30 em 30 minutos, por uma patrulha a pé ou móvel, ou colocada sob uma forma de vigilância capaz de detectar qualquer acesso não autorizado.\n\n5. As aeronaves ficarão, sempre que possível, estacionadas longe de vedações ou de outras barreiras fáceis de transpor e em locais bem iluminados."
+  },
+  "5b7f6e516e2911bc": {
+   "fragment_id": "4. PASSAGEIROS E BAGAGEM DE CABINA",
+   "type": "divisao",
+   "heading": "4. PASSAGEIROS E BAGAGEM DE CABINA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. PASSAGEIROS E BAGAGEM DE CABINA"
+  },
+  "f339aaf0e11eb22c": {
+   "fragment_id": "4.1. Rastreio de passageiros",
+   "type": "divisao",
+   "heading": "4.1. Rastreio de passageiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.1. Rastreio de passageiros\n\n1. Para além do referido no ponto 3 da presente secção, todos os passageiros que partem (ou seja, passageiros iniciais e passageiros em trânsito, a não ser que tenham sido previamente sujeitos a rastreio de acordo com as normas previstas no presente anexo) serão rastreados para evitar a introdução de artigos proibidos nas zonas restritas de segurança e a bordo da aeronave. Os passageiros serão rastreados através dos seguintes métodos:\n\na) Revista manual; ou\n\nb) Rastreio de segurança através de passagem pelo pórtico de detecção de metais. Sempre que se utilize o pórtico de detecção de metais, proceder-se-á também a uma revista manual aleatória contínua dos passageiros rastreados. Essas revistas manuais serão efectuadas a todos os passageiros que tenham activado o alarme, sendo ainda efectuada uma revista manual aleatória contínua de todos os passageiros que não tenham activado o alarme e, se:\n\ni) o alarme for activado, será exigido à pessoa que volte a ser rastreada pelo pórtico de detecção de metais, ou\n\nii) proceder-se-á a uma revista manual sempre que possa ser utilizado um detector de metais portátil.\n\n2. Sempre que se utilize o pórtico de detecção de metais, este será calibrado num nível que garanta razoavelmente a detecção de pequenos objectos metálicos.\n\n3. As autoridades adequadas poderão criar categorias de pessoas que serão sujeitas a processos de rastreio especiais ou isentas de rastreio.\n\n4. Serão desenvolvidas disposições de segurança para passageiros susceptíveis de causar distúrbios."
+  },
+  "df7e6f5115b6fdf1": {
+   "fragment_id": "4.2. Separação de passageiros",
+   "type": "divisao",
+   "heading": "4.2. Separação de passageiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.2. Separação de passageiros\n\nOs passageiros que partem que já tenham sido rastreados não serão misturados com os passageiros que chegam que, eventualmente, não terão sido sujeitos a rastreio de acordo com as normas previstas no presente anexo. Nos casos em que não seja possível estabelecer a separação física dos passageiros, o objectivo de segurança será atingido pela aplicação de medidas compensatórias de acordo com a avaliação do risco pela autoridade competente."
+  },
+  "9893360861efa30c": {
+   "fragment_id": "4.3. Rastreio da bagagem de cabina",
+   "type": "divisao",
+   "heading": "4.3. Rastreio da bagagem de cabina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.3. Rastreio da bagagem de cabina\n\n1. A bagagem de cabina de todos os passageiros que partem (ou seja, passageiros iniciais e passageiros em trânsito, a não ser que tenham sido previamente rastreados de acordo com as normas previstas no presente anexo) será rastreada antes de ser autorizada a entrar numa zona restrita de segurança e a bordo da aeronave. Serão retirados ao passageiro todos os artigos proibidos, ou ser-lhe-á proibido o acesso à zona restrita de segurança ou à aeronave, se for caso disso. A bagagem de cabina será rastreada através de um dos seguintes métodos:\n\na) Revista manual completa do conteúdo de cada saco, sendo cada saco examinado para detectar indícios suspeitos, tais como peso inadequado, etc.; ou\n\nb) Rastreio por equipamento convencional de raios-X, efectuando-se também a revista manual dos sacos rastreados de forma aleatória e contínua, não devendo a percentagem de pessoas revistadas ser inferior a 10 %, incluindo as pessoas de quem o operador suspeita; ou\n\nc) Rastreio por equipamento de raios-X de alta definição, dotado de um dispositivo de PIA devidamente instalado e utilizado. Apenas carecem de revista manual os sacos que levantem suspeitas ao operador, mas a revista manual pode ser apoiada pelo recurso a equipamento de detecção de vestígios.\n\n2. A bagagem de cabina das pessoas referidas no ponto 3 da secção 4.1 pode ser sujeita a procedimentos especiais de rastreio ou ser dispensada de rastreio."
+  },
+  "c3d4cb9ccbf8c43e": {
+   "fragment_id": "4.4. Rastreio dos diplomatas",
+   "type": "divisao",
+   "heading": "4.4. Rastreio dos diplomatas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.4. Rastreio dos diplomatas\n\nSob reserva das disposições da Convenção de Viena sobre Relações Diplomáticas, os diplomatas e outros beneficiários de privilégios, bem como as suas bagagens pessoais, com excepção das «malas diplomáticas», devem ser rastreados para efeitos de segurança. O pessoal das transportadoras aéreas responsável pela recepção das malas diplomáticas deve certificar-se de que estas foram, de facto, enviadas pelos funcionários devidamente nomeados das respectivas missões diplomáticas. Os custódios diplomáticos e as suas bagagens pessoais não se encontram dispensados dos rastreios de segurança."
+  },
+  "95c6b9b6838217d2": {
+   "fragment_id": "5. BAGAGEM DE PORÃO",
+   "type": "divisao",
+   "heading": "5. BAGAGEM DE PORÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. BAGAGEM DE PORÃO"
+  },
+  "7c2a42ae9f5a87ad": {
+   "fragment_id": "5.1. Reconciliação da bagagem de porão",
+   "type": "divisao",
+   "heading": "5.1. Reconciliação da bagagem de porão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5.1. Reconciliação da bagagem de porão\n\n1. A bagagem de porão só será colocada a bordo da aeronave depois de se tomarem as seguintes medidas:\n\na) A bagagem de porão será marcada exteriormente de forma adequada a fim de permitir identificá-la com os respectivos passageiros; e\n\nb) O passageiro a que a bagagem pertence será registado para o voo em que a bagagem for embarcada; e\n\nc) Antes se ser introduzida a bordo, a bagagem de porão será mantida numa zona do aeroporto a que só tenham acesso pessoas autorizadas; e\n\nd) Todos os volumes da bagagem à guarda da transportadora aérea para transporte no porão da aeronave serão identificados, quer se trate de bagagem acompanhada ou não acompanhada. O processo de identificação será efectuado por meios manuais ou automáticos.\n\n2. Serão estabelecidas medidas para garantir que, se um passageiro registado para um voo, que tenha colocado bagagem à guarda da transportadora aérea, não estiver a bordo da aeronave, essa bagagem seja retirada da aeronave e não seja transportada nesse voo.\n\n3. Será criado um manifesto de bagagem de porão ou um meio alternativo de prova, que confirme a identificação e rastreio de bagagem de porão não acompanhada."
+  },
+  "926fc6680d31d548": {
+   "fragment_id": "5.2. Rastreio da bagagem de porão",
+   "type": "divisao",
+   "heading": "5.2. Rastreio da bagagem de porão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5.2. Rastreio da bagagem de porão\n\n1. Bagagem de porão acompanhada. Toda a bagagem de porão acompanhada (tanto bagagem de porão inicial como em trânsito, a não ser que tenha sido previamente rastreada de acordo com as normas previstas no presente anexo) deve ser rastreada por um dos seguintes métodos antes de ser embarcada na aeronave:\n\na) Revista manual; ou\n\nb) Rastreio por equipamento convencional de raios-X, sendo pelo menos 10 % da bagagem rastreada sujeita ainda a:\n\ni) revista manual, ou\n\nii) um SDE, um SDEE ou um SDEP, ou\n\niii) rastreio por equipamento convencional de raios-X, sendo cada bagagem inspeccionada de dois ângulos diferentes pelo mesmo operador na mesma posição, ou\n\nc) Rastreio por equipamento convencional de raios-X dotado de um dispositivo de PIA devidamente instalado e utilizado; ou\n\nd) Rastreio pelo SDE ou pelo SDEE; ou\n\ne) SDEP; ou\n\nf) Equipamento de detecção de vestígios de explosivos para bagagem aberta.\n\n2. Bagagem de porão não acompanhada. Toda a bagagem não acompanhada, tanto bagagem de porão inicial como em trânsito, deve ser rastreada por um dos seguintes métodos antes de ser embarcada na aeronave:\n\na) SDE; ou\n\nb) SDEP em vários níveis, sendo no nível 2 as imagens de todos os sacos inspeccionadas pelos operadores; ou\n\nc) Rastreio por equipamento convencional de raios-X, sendo cada bagagem inspeccionada de dois ângulos diferentes pelo mesmo operador na mesma posição; ou\n\nd) Revista manual complementada com a utilização de equipamento de detecção de vestígios de explosivos para bagagem aberta,\n\n3. Derrogações:"
+  },
+  "49ca7614b8f92d5f": {
+   "fragment_id": "5.3. Protecção da bagagem de porão",
+   "type": "divisao",
+   "heading": "5.3. Protecção da bagagem de porão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5.3. Protecção da bagagem de porão\n\n1. A bagagem de porão a transportar numa aeronave deve ser protegida de interferências não autorizadas desde o ponto em que foi entregue à guarda da transportadora até à partida da aeronave em que é transportada. Devem ser tomadas as seguintes medidas de protecção da bagagem de porão:\n\na) Antes de ser embarcada, a bagagem de porão deve ser mantida na zona de processamento de bagagem ou noutra zona de armazenagem do aeroporto de acesso reservado a pessoas autorizadas;\n\nb) Qualquer pessoa que entre nessas zonas de processamento ou de armazenagem de bagagem sem autorização será interpelada e conduzida para fora dessa zona;\n\nc) A bagagem de porão inicial e a bagagem de porão em trânsito não será abandonada na placa ou na plataforma junto à aeronave antes de ser embarcada na aeronave;\n\nd) A bagagem de porão transferida entre aviões não será abandonada na placa ou na plataforma junto à aeronave antes de ser embarcada na aeronave;\n\ne) O acesso às instalações de perdidos e achados do terminal deve ser restringido, a fim de prevenir o acesso ilegal à bagagem e a outros objectos."
+  },
+  "00f41918d43c546f": {
+   "fragment_id": "6. CARGA, CORREIO E ENCOMENDAS EXPRESSO",
+   "type": "divisao",
+   "heading": "6. CARGA, CORREIO E ENCOMENDAS EXPRESSO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. CARGA, CORREIO E ENCOMENDAS EXPRESSO"
+  },
+  "7940acd5c4f2d54f": {
+   "fragment_id": "6.1. Aplicação",
+   "type": "divisao",
+   "heading": "6.1. Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.1. Aplicação\n\nAntes de serem embarcados, a carga, o correio e as encomendas expresso transportados em aeronaves de passageiros ou de carga devem ser submetidos a controlos de segurança."
+  },
+  "71d3e4e5f4709c31": {
+   "fragment_id": "6.2. Qualificações para agentes reconhecidos",
+   "type": "divisao",
+   "heading": "6.2. Qualificações para agentes reconhecidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.2. Qualificações para agentes reconhecidos\n\nOs agentes reconhecidos serão:\n\na) Designados, aprovados ou registados pela autoridade adequada;\n\nb) Sujeitos a obrigações específicas, definidas pela autoridade competente."
+  },
+  "3e76b9fbbdb0e75f": {
+   "fragment_id": "6.3. Controlos de segurança",
+   "type": "divisao",
+   "heading": "6.3. Controlos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.3. Controlos de segurança\n\n1. A carga, o correio e as encomendas expresso só serão transportados por via aérea quando tiverem sido aplicados os seguintes controlos de segurança:\n\na) A recepção, processamento e manuseamento da carga são efectuados por pessoal devidamente recrutado e treinado;\n\nb) A carga será:\n\ni) revistada manualmente ou através de inspecção física, ou\n\nii) rastreada com equipamento de raios-X, ou\n\niii) submetida a câmara de simulação, ou\n\niv) submetida a outros meios, técnicos ou biossensoriais (por exemplo, sensores olfactivos, detectores de vestígios, cães detectores de explosivos, etc.)\n\n2. Uma vez realizados os controlos de segurança, incluindo da carga de expedidores conhecidos, no espaço interior ou exterior do aeroporto, a segurança do carregamento deve ser mantida até ao momento em que o mesmo é embarcado na aeronave e, subsequentemente, até à partida da mesma.\n\n3. Os controlos de segurança referidos no ponto 1 não são obrigatórios nos seguintes casos:\n\na) Carga recebida de expedidor conhecido;\n\nb) Carga de transbordo;\n\nc) Carga que pela sua origem e condições de processamento oferece garantias de não constituir uma ameaça à segurança;\n\nd) Carga que está sujeita a normas que estabelecem um nível adequado de protecção de segurança."
+  },
+  "542ed0ec7fa90fea": {
+   "fragment_id": "6.4. Critérios relativos ao expedidor conhecido",
+   "type": "divisao",
+   "heading": "6.4. Critérios relativos ao expedidor conhecido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.4. Critérios relativos ao expedidor conhecido\n\n1. Um agente reconhecido ou uma transportadora aérea só pode considerar conhecido um expedidor:\n\na) Verificando e registando a identidade e endereço do expedidor e dos agentes autorizados a efectuar entregas em seu nome; e\n\nb) Exigindo que o expedidor declare que:\n\ni) prepara os consignamentos em instalações seguras, e\n\nii) emprega pessoal de confiança na preparação dos consignamentos, e\n\niii) protege os consignamentos contra interferências não autorizadas durante a preparação, a armazenagem e o transporte; e\n\nc) Exigindo que o expedidor:\n\ni) certifique por escrito que o consignamento não contém qualquer dos artigos proibidos constantes dos pontos iv) e v) da lista do apêndice, e\n\nii) aceite que a embalagem e o conteúdo do consignamento possam ser examinados por razões de segurança."
+  },
+  "21ca7416a45f7997": {
+   "fragment_id": "6.5. Transporte em aeronaves de carga",
+   "type": "divisao",
+   "heading": "6.5. Transporte em aeronaves de carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.5. Transporte em aeronaves de carga\n\nSempre que se possam identificar positivamente os consignamentos para transporte apenas em aeronaves de carga, os critérios definidos na secção 6.4 não necessitam de ser aplicados desde que o expedidor conhecido:\n\na) Disponha de um endereço comercial autêntico reconhecido; e\n\nb) Tenha enviado previamente consignamentos com o agente reconhecido ou a transportadora aérea; e\n\nc) Tenha uma relação comercial estabelecida com o agente reconhecido ou a transportadora aérea; e\n\nd) Garanta que todos os consignamentos são protegidos contra o acesso não autorizado até ficarem à guarda da transportadora aérea."
+  },
+  "f77ddc97d9feae83": {
+   "fragment_id": "6.6. Carga de transbordo",
+   "type": "divisao",
+   "heading": "6.6. Carga de transbordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.6. Carga de transbordo\n\nDesde que se encontre protegida contra quaisquer interferências não autorizadas na zona de trânsito, a carga de transbordo transportada por via aérea não necessita dos controlos de segurança referidos no ponto 1 da secção 6.3. A restante carga de transbordo, como a carga transportada por via terrestre ou por caminho-de-ferro, não submetida a controlos de segurança no ponto de partida ou em trânsito, deve ser rastreada em conformidade com a alínea b) do ponto 1 da secção 6.3 e protegida contra quaisquer interferências não autorizadas."
+  },
+  "6fd17c002502b932": {
+   "fragment_id": "7. CORREIO POSTAL",
+   "type": "divisao",
+   "heading": "7. CORREIO POSTAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. CORREIO POSTAL"
+  },
+  "2c043e63a639e3c8": {
+   "fragment_id": "7.1. Aplicação",
+   "type": "divisao",
+   "heading": "7.1. Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7.1. Aplicação\n\nAntes de ser embarcado, o correio postal transportado em aeronaves de passageiros, de carga ou aviões-correio deve ser submetido a controlos de segurança."
+  },
+  "1087f27dfa14e0d5": {
+   "fragment_id": "7.2. Qualificações da autoridade/administração postal reconhecida",
+   "type": "divisao",
+   "heading": "7.2. Qualificações da autoridade/administração postal reconhecida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7.2. Qualificações da autoridade/administração postal reconhecida\n\n7.2.1. Cada autoridade/administração postal reconhecida que entregue correio para transporte a uma transportadora aérea deve satisfazer os seguintes critérios mínimos:\n\na) Ser designada, aprovada ou registada pela autoridade adequada;\n\nb) Satisfazer as obrigações para com as transportadoras aéreas de aplicar os controlos de segurança necessários;\n\nc) Empregar pessoal devidamente recrutado e treinado; e\n\nd) Proteger o correio contra interferências não autorizadas enquanto à sua guarda."
+  },
+  "aba696f04ad620a4": {
+   "fragment_id": "7.3. Controlos de segurança",
+   "type": "divisao",
+   "heading": "7.3. Controlos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7.3. Controlos de segurança\n\n1. Correio urgente. O correio urgente (ou seja, para entrega no prazo de 48 horas) só será transportado por via aérea quando tiverem sido aplicados os seguintes controlos de segurança:\n\na) A recepção, processamento e manuseamento do correio são efectuados por pessoal devidamente recrutado e treinado;\n\nb) O correio postal será:\n\ni) revistado manualmente ou através de inspecção física, ou\n\nii) rastreado com equipamento de raios-X, ou\n\niii) submetido a câmara de simulação, ou\n\niv) submetido a outros meios processuais, técnicos ou biossensoriais (por exemplo, sensores olfactivos, detectores de vestígios, cães detectores de explosivos, etc.),\n\nc) As informações de voo e o itinerário da aeronave que transporta o correio são confidenciais.\n\n2. Outros tipos de correio. O correio não urgente pode ser transportado por via aérea desde que tenham sido aplicadas as medidas referidas nas alíneas a) e b) do ponto 1. Os controlos de segurança referidos na alínea b) do ponto 1 só devem ser aplicados a uma proporção aleatória de correio.\n\n3. Os controlos de segurança referidos na alínea b) do ponto 1 não são obrigatórios nos seguintes casos:\n\na) Correio postal recebido de um expedidor conhecido;\n\nb) Correspondência com peso e espessura inferiores a um determinado valor;\n\nc) Consignamentos *bona fide* de materiais destinados a salvar vidas;\n\nd) Mercadorias de elevado valor, que tenham sido inspeccionadas segundo normas pelo menos equivalentes às enunciadas na alínea b) do ponto 1;\n\ne) Correio postal a transportar em todos os voos-correio entre os aeroportos comunitários;\n\nf) Correio de transbordo."
+  },
+  "1dfb7c4d63c83980": {
+   "fragment_id": "7.4. Critérios relativos ao expedidor conhecido",
+   "type": "divisao",
+   "heading": "7.4. Critérios relativos ao expedidor conhecido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7.4. Critérios relativos ao expedidor conhecido\n\nA autoridade/administração postal reconhecida só pode considerar conhecido um expedidor:\n\na) Verificando e registando a identidade e endereço do expedidor e dos agentes autorizados a efectuar entregas em seu nome;\n\nb) Exigindo que o expedidor declare que protege o consignamento contra interferências não autorizadas durante a preparação, a armazenagem e o transporte; e\n\nc) Exigindo que o expedidor:\n\ni) certifique por escrito que o consignamento postal não contém qualquer dos artigos proibidos constantes dos pontos iv) e v) da lista do apêndice, e\n\nii) aceite que a embalagem e o conteúdo do consignamento postal possam ser submetidos aos controlos de segurança referidos na secção 7.3."
+  },
+  "3014c69f9a09b4b5": {
+   "fragment_id": "7.5. Correio de transbordo",
+   "type": "divisao",
+   "heading": "7.5. Correio de transbordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7.5. Correio de transbordo\n\nDesde que se encontre protegido contra quaisquer interferências não autorizadas na zona de trânsito, o correio de transbordo transportado por via aérea não necessita dos controlos de segurança referidos na secção 7.3. O restante correio de transbordo, como o correio transportado por via terrestre ou por caminho-de-ferro, não submetido a controlos de segurança no ponto de partida ou em trânsito, deve ser rastreado em conformidade com o ponto 1 da secção 7.3 e protegido contra quaisquer interferências não autorizadas."
+  },
+  "88b583f83608ba58": {
+   "fragment_id": "8. CORREIO POSTAL E MATERIAIS DA TRANSPORTADORA AÉREA",
+   "type": "divisao",
+   "heading": "8. CORREIO POSTAL E MATERIAIS DA TRANSPORTADORA AÉREA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. CORREIO POSTAL E MATERIAIS DA TRANSPORTADORA AÉREA"
+  },
+  "2baa5ca2150cc7cd": {
+   "fragment_id": "8.1. Aplicação",
+   "type": "divisao",
+   "heading": "8.1. Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8.1. Aplicação\n\nAntes de serem embarcados, o correio postal e os materiais de uma transportadora aérea transportados nas suas próprias aeronaves devem ser submetidos a controlos de segurança."
+  },
+  "0e1048c4520562cb": {
+   "fragment_id": "8.2. Definições",
+   "type": "divisao",
+   "heading": "8.2. Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8.2. Definições\n\nPor correio postal e materiais entende-se despachos internos de correspondência e materiais, tais como, por exemplo, documentação, fornecimentos, peças sobresselentes, provisões de bordo e material de limpeza e outros artigos, destinados à sua própria organização ou à organização contratada para serem utilizados nas operações da transportadora aérea."
+  },
+  "cb9fb6ebd0feba6d": {
+   "fragment_id": "8.3. Controlos de segurança",
+   "type": "divisao",
+   "heading": "8.3. Controlos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8.3. Controlos de segurança\n\nTodos os carregamentos da transportadora aérea de correio da companhia («co-mail») ou de materiais da companhia («co-mat») devem ser submetidos às seguintes medidas:\n\na) Serão submetidos a um controlo e rastreio de segurança para garantir que não foi introduzido qualquer artigo proibido no transporte da companhia; e\n\nb) Não serão deixados abandonados antes de serem colocados a bordo da aeronave.\n\nA transportadora aérea garantirá que qualquer outro carregamento «co-mail» ou «co-mat» feito em nome da companhia por uma organização contratada, tal como, entre outros, provisões e outros fornecimentos de restauração, materiais de limpeza a bordo e outros materiais provenientes de fornecedores de serviços contratados sejam controlados antes do respectivo carregamento a bordo de uma aeronave."
+  },
+  "801f07f46386c5f0": {
+   "fragment_id": "9. PROVISÕES E OUTROS FORNECIMENTOS DE RESTAURAÇÃO DA TRANSPORTADORA AÉREA",
+   "type": "divisao",
+   "heading": "9. PROVISÕES E OUTROS FORNECIMENTOS DE RESTAURAÇÃO DA TRANSPORTADORA AÉREA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9. PROVISÕES E OUTROS FORNECIMENTOS DE RESTAURAÇÃO DA TRANSPORTADORA AÉREA"
+  },
+  "9d8fd198a2d966c4": {
+   "fragment_id": "9.1. Aplicação",
+   "type": "divisao",
+   "heading": "9.1. Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9.1. Aplicação\n\nAntes de serem embarcados, as provisões e outros fornecimentos de restauração da transportadora aérea devem ser submetidos a controlos de segurança para evitar a introdução a bordo de qualquer artigo proibido."
+  },
+  "a6b4855bf2945d02": {
+   "fragment_id": "9.2. Controlos de segurança",
+   "type": "divisao",
+   "heading": "9.2. Controlos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9.2. Controlos de segurança\n\n1. Os fornecedores de provisões e outros fornecimentos de restauração da transportadora aérea aplicarão controlos de segurança para evitar a introdução de artigos proibidos nesses produtos e materiais destinados a embarcar. Estas medidas devem incluir:\n\na) Designação de um responsável pela segurança incumbido da aplicação e da supervisão das condições de segurança na empresa;\n\nb) Exigência de elevado padrão de idoneidade na contratação do pessoal;\n\nc) Todo o trabalhador com acesso às zonas restritas de segurança deve aceitar inquéritos pessoais bem como as instruções de segurança emanadas da autoridade aeroportuária;\n\nd) A empresa deve impedir o acesso de pessoas não autorizadas às suas instalações e materiais;\n\ne) No caso da empresa se encontrar localizada fora do perímetro do aeroporto, todos os fornecimentos serão transportados até à aeronave em veículos fechados ou selados; e\n\nf) As operações de processamento e manuseamento de provisões e abastecimentos de bordo serão realizadas por pessoal devidamente recrutado e treinado.\n\n2. Após a entrega, as provisões e outros abastecimentos devem ser submetidos a rastreios aleatórios.\n\n3. As provisões e outros abastecimentos entregues por empresas que não observem as medidas de controlo de segurança constantes do ponto 1 não devem ser embarcados na aeronave."
+  },
+  "10f2651d75cc0c17": {
+   "fragment_id": "10. PRODUTOS E OUTROS FORNECIMENTOS DE LIMPEZA DA TRANSPORTADORA AÉREA",
+   "type": "divisao",
+   "heading": "10. PRODUTOS E OUTROS FORNECIMENTOS DE LIMPEZA DA TRANSPORTADORA AÉREA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10. PRODUTOS E OUTROS FORNECIMENTOS DE LIMPEZA DA TRANSPORTADORA AÉREA"
+  },
+  "537693de6f1014c7": {
+   "fragment_id": "10.1. Aplicação e objectivo",
+   "type": "divisao",
+   "heading": "10.1. Aplicação e objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10.1. Aplicação e objectivo\n\nAs transportadoras aéreas e as empresas que fornecem serviços de limpeza devem adoptar medidas para assegurar que os produtos e outros materiais de limpeza colocados a bordo de aeronaves não incluem quaisquer artigos proibidos susceptíveis de comprometer a segurança das aeronaves."
+  },
+  "76cdfbf3d7e54274": {
+   "fragment_id": "10.2. Controlos de segurança",
+   "type": "divisao",
+   "heading": "10.2. Controlos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10.2. Controlos de segurança\n\n1. Os fornecedores de serviços, produtos e outros materiais de limpeza da transportadora aérea devem adoptar as medidas de segurança necessárias para impedir a introdução de artigos proibidos nos materiais de limpeza destinados a ser colocados a bordo.\n\na) Designação de um responsável pela segurança incumbido da aplicação e da supervisão das condições de segurança na empresa;\n\nb) Exigência de elevado padrão de idoneidade na contratação do pessoal;\n\nc) Todo o trabalhador com acesso às zonas restritas de segurança deve aceitar inquéritos pessoais bem como as instruções emanadas da autoridade aeroportuária;\n\nd) A empresa deve impedir o acesso de pessoas não autorizadas às suas instalações;\n\ne) No caso da empresa se encontrar localizada fora do perímetro do aeroporto, os materiais de limpeza serão transportados até à aeronave em veículos fechados ou selados;\n\nf) As operações de processamento e manuseamento dos materiais de limpeza serão realizadas por pessoal devidamente recrutado e treinado; e\n\ng) O rastreio dos materiais de limpeza realizar-se-á antes de se efectuar um «co-mail» dos materiais para outros destinos.\n\n2. Após a entrega, os materiais de limpeza devem ser submetidos a rastreios aleatórios.\n\n3. Os materiais entregues por empresas que não observem as medidas de controlo de segurança constantes do ponto 1 não devem ser colocados a bordo de uma aeronave."
+  },
+  "a1701d52f8b4328a": {
+   "fragment_id": "11. AVIAÇÃO GERAL",
+   "type": "divisao",
+   "heading": "11. AVIAÇÃO GERAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 11. AVIAÇÃO GERAL"
+  },
+  "550f2e30af34824f": {
+   "fragment_id": "11.1. Controlos de segurança",
+   "type": "divisao",
+   "heading": "11.1. Controlos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 11.1. Controlos de segurança\n\n1. As aeronaves da aviação geral nos aeroportos não devem ficar estacionadas próximo de aeronaves utilizadas em voos comerciais, para evitar quebras das medidas de segurança aplicadas a essas aeronaves ou à bagagem, carga e correio postal a ser embarcado.\n\n2. Devem ser adoptadas disposições para separar os passageiros dos voos comerciais já submetidos a um rastreio de segurança dos ocupantes das aeronaves da aviação geral, com base nos seguintes critérios:\n\na) Nos aeroportos de grandes dimensões, devem ser montados dispositivos e/ou adoptadas medidas de segurança que garantam a separação física dos ocupantes das aeronaves da aviação geral (partidas e chegadas) dos restantes passageiros já submetidos a um rastreio de segurança;\n\nb) Na medida do possível, os ocupantes a embarcar ou a desembarcar de aeronaves da aviação geral deverão passar por terminais separados destinados à aviação geral e, em caso de embarque ou desembarque na placa de estacionamento, serão separados dos outros passageiros já submetidos a rastreios de segurança ou transportados em autocarros ou viaturas especiais ou, ainda, serão sujeitos a vigilância permanente;\n\nc) Na falta de um terminal separado, os ocupantes das aeronaves da aviação geral devem:\n\ni) passar por uma zona separada do terminal e ser escoltados ou transportados por autocarro/automóvel de ou para a sua aeronave na placa de estacionamento,\n\nii) se não for possível evitar a sua passagem nas zonas restritas de segurança do terminal, ser submetidos a um rastreio de segurança antes de penetrarem nessa zona, ou\n\niii) ser sujeitos a medidas de segurança equivalentes, de acordo com as condições locais."
+  },
+  "1091cf7601a7c1d1": {
+   "fragment_id": "12. RECRUTAMENTO E FORMAÇÃO DO PESSOAL",
+   "type": "divisao",
+   "heading": "12. RECRUTAMENTO E FORMAÇÃO DO PESSOAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 12. RECRUTAMENTO E FORMAÇÃO DO PESSOAL"
+  },
+  "3db480f0967aed3f": {
+   "fragment_id": "12.1. Programa nacional de formação de segurança da aviação",
+   "type": "divisao",
+   "heading": "12.1. Programa nacional de formação de segurança da aviação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 12.1. Programa nacional de formação de segurança da aviação\n\nCada autoridade adequada deve desenvolver e implementar um programa nacional de formação de segurança da aviação, por forma a que os tripulantes e o pessoal de terra cumpram os requisitos de segurança da aviação e reajam a actos de interferência ilegal no domínio da aviação."
+  },
+  "85668743621bc1b7": {
+   "fragment_id": "12.2. Pessoal de segurança",
+   "type": "divisao",
+   "heading": "12.2. Pessoal de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 12.2. Pessoal de segurança\n\n1. O programa nacional de formação de segurança da aviação deve incluir a selecção, a qualificação, a formação, a certificação e a motivação do pessoal de segurança. As pessoas cujo contrato de trabalho preveja a realização de tarefas de segurança, a tempo inteiro ou parcial, devem preencher os seguintes requisitos, a especificar pela autoridade adequada:\n\na) Os formadores que desenvolvam e conduzam acções de formação em matéria de segurança para o pessoal de segurança e para o pessoal de terra das transportadoras aéreas e dos aeroportos devem ter as certificações, os conhecimentos e a experiência necessários, que deverão incluir, no mínimo:\n\ni) grande experiência em operações de segurança no domínio da aviação,\n\nii) certificação emitida pela autoridade nacional competente, ou certificação equivalente de aprovação homologada pela autoridade nacional competente, e\n\niii) conhecimentos nos seguintes domínios:\n\n1. sistemas de segurança e controlo de acessos;\n\n2. segurança em terra e a bordo;\n\n3. rastreios antes do embarque;\n\n4. segurança das bagagens e da carga;\n\n5. segurança e verificação da aeronave;\n\n6. armas e artigos proibidos;\n\n7. enquadramento geral do terrorismo; e\n\n8. outras matérias e medidas relacionadas com a segurança, consideradas apropriadas para uma maior sensibilização para as questões da segurança;\n\nb) Os formadores e instrutores envolvidos e responsáveis pela formação em matéria de segurança para o pessoal de segurança e para o pessoal de terra dos aeroportos devem ser submetidos a uma formação periódica anual em matéria de segurança da aviação e da evolução recente em matéria de segurança.\n\n2. Formação do pessoal de segurança\n\nO pessoal de segurança será formado para assegurar as funções que lhe serão cometidas; essa formação incluirá, entre outras, as seguintes áreas de segurança:\n\n1. tecnologia e técnicas de rastreio;\n\n2. operações de rastreio nos pontos de controlo;\n\n3. técnicas de revista de bagagem de cabina e de porão;\n\n4. sistemas de segurança e controlo de acesso;\n\n5. rastreios antes do embarque;\n\n6. segurança das bagagens e da carga;\n\n7. segurança e verificação da aeronave;\n\n8. armas e artigos objecto de restrições;\n\n9. enquadramento geral do terrorismo; e\n\n10. outras matérias e medidas relacionadas com a segurança, consideradas apropriadas para uma maior sensibilização para as questões da segurança.\n\nO âmbito da formação pode ser aumentado sob reserva das necessidades de segurança da aviação e da evolução tecnológica. O período de formação inicial para o pessoal responsável pelos rastreios não será inferior ao da recomendação da ICAO.\n\n3. Certificação do pessoal de segurança\n\n4. Motivação do pessoal de segurança"
+  },
+  "dc40d65734447a6d": {
+   "fragment_id": "12.3. Outro pessoal",
+   "type": "divisao",
+   "heading": "12.3. Outro pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 12.3. Outro pessoal\n\nDeve ser elaborado um programa de formação e sensibilização inicial e permanente em matéria de segurança dirigido aos tripulantes e ao pessoal de terra dos aeroportos e das transportadoras aéreas. Essa formação deve contribuir para aumentar a sensibilização do pessoal para as questões da segurança e para a melhoria dos sistemas de segurança existentes. A formação deve incidir nas seguintes matérias:\n\n1. sistemas de segurança e controlo de acesso;\n\n2. segurança em terra e a bordo;\n\n3. rastreios antes do embarque;\n\n4. segurança das bagagens e da carga;\n\n5. segurança e verificação da aeronave;\n\n6. armas e artigos proibidos;\n\n7. enquadramento geral do terrorismo;\n\n8. outras matérias e medidas relacionadas com a segurança, consideradas apropriadas para uma maior sensibilização para as questões da segurança.\n\nA formação em matéria de segurança para o pessoal de terra dos aeroportos e das transportadoras aéreas com acesso a zonas restritas de segurança será projectada para uma duração mínima de 3 horas de formação teórica e 1 hora de formação prática."
+  },
+  "fcd3fc6f59099e52": {
+   "fragment_id": "13. ORIENTAÇÕES PARA O EQUIPAMENTO",
+   "type": "divisao",
+   "heading": "13. ORIENTAÇÕES PARA O EQUIPAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 13. ORIENTAÇÕES PARA O EQUIPAMENTO\n\nOs equipamentos utilizados para garantir a segurança da aviação devem ser aprovados pela autoridade adequada de acordo com as orientações descritas nesta secção."
+  },
+  "1244f3217af6b804": {
+   "fragment_id": "13.1. Equipamentos de detecção de metais",
+   "type": "divisao",
+   "heading": "13.1. Equipamentos de detecção de metais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 13.1. Equipamentos de detecção de metais"
+  },
+  "7d2cfcba5f13adaa": {
+   "fragment_id": "1. Pórticos de detecção de metais",
+   "type": "divisao",
+   "heading": "1. Pórticos de detecção de metais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Pórticos de detecção de metais\n\nOs pórticos de detecção de metais utilizados nos aeroportos para rastreio dos passageiros devem preencher os seguintes requisitos:\n\na) Segurança\n\ni) Os equipamentos devem ser capazes de detectar, em todas as condições previsíveis, pequenos artigos feitos dos metais mais variados, com maior sensibilidade para os metais ferrosos;\n\nii) Os equipamentos devem poder detectar quaisquer objectos metálicos, independentemente da respectiva orientação e localização no quadro do pórtico;\n\niii) A sensibilidade dos equipamentos deve ser tão uniforme quanto possível dentro de todo o quadro, permanecer estável e ser verificada periodicamente;\n\nb) Condições de funcionamento\n\nc) Alarme sonoro\n\nd) Comandos\n\ni) Os equipamentos devem poder ser regulados por forma a abranger todas as condições de detecção especificadas; o volume do alarme sonoro também deve ser regulável;\n\nii) Os comandos de regulação dos níveis de detecção devem ser concebidos por forma a impedir qualquer acesso não autorizado. Os graus de regulação devem ser claramente indicados;\n\ne) Calibração"
+  },
+  "0c6375a0d05effbf": {
+   "fragment_id": "2. Detectores portáteis de metais",
+   "type": "divisao",
+   "heading": "2. Detectores portáteis de metais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Detectores portáteis de metais\n\nOs detectores portáteis de metais utilizados para rastreio dos passageiros devem satisfazer os seguintes requisitos:\n\na) Os equipamentos devem detectar quantidades reduzidas de metais, sem qualquer contacto directo com o objecto, em todas as condições previsíveis;\n\nb) Os equipamentos devem poder detectar metais ferrosos e não ferrosos;\n\nc) O detector deve ser concebido de maneira a localizar a posição do metal detectado sem qualquer dificuldade;\n\nd) Os equipamentos devem estar equipados com sinais de alarme sonoros e/ou visuais."
+  },
+  "3a8fe625a5b2eaed": {
+   "fragment_id": "13.2. Normas e procedimentos de ensaio para os equipamentos de raios-X",
+   "type": "divisao",
+   "heading": "13.2. Normas e procedimentos de ensaio para os equipamentos de raios-X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 13.2. Normas e procedimentos de ensaio para os equipamentos de raios-X"
+  },
+  "9b5580a606616eb9": {
+   "fragment_id": "1. Aplicabilidade",
+   "type": "divisao",
+   "heading": "1. Aplicabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Aplicabilidade\n\na) Equipamentos\n\nb) Objectos rastreados"
+  },
+  "e80fa16ce95d0771": {
+   "fragment_id": "2. Requisitos de comportamento funcional",
+   "type": "divisao",
+   "heading": "2. Requisitos de comportamento funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Requisitos de comportamento funcional\n\na) Segurança\n\nb) Ensaios\n\nc) Requisitos técnicos"
+  },
+  "9d9010cf22559c5b": {
+   "fragment_id": "3. Manutenção",
+   "type": "divisao",
+   "heading": "3. Manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Manutenção\n\nOs aparelhos não devem ser objecto de quaisquer alterações não autorizadas, incluindo manutenção ou reparação. Não devem ser efectuadas quaisquer modificações do aparelho (equipamento e suportes lógicos) sem que se verifique que tal não afecta de modo adverso a qualidade da imagem.\n\nA composição do material do tapete rolante não deve ser alterada sem se verificar que tal não provoca alterações na qualidade da imagem.\n\nOs acessos via modem para efeitos de manutenção ou de actualização, caso existam, devem ser controlados e vigiados."
+  },
+  "ae333fc2d57e1e38": {
+   "fragment_id": "Apêndice",
+   "type": "divisao",
+   "heading": "Apêndice",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Apêndice"
+  },
+  "544f5ed606d073aa": {
+   "fragment_id": "Orientações para a classificação de artigos proibidos",
+   "type": "divisao",
+   "heading": "Orientações para a classificação de artigos proibidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Orientações para a classificação de artigos proibidos\n\nEstas orientações abordam as várias formas possíveis de armas e de artigos sujeitos a restrições. Para avaliação dos objectos susceptíveis de poderem eventualmente ser utilizados como armas deverá, contudo, imperar o bom senso.\n\ni) Armas de fogo: quaisquer armas susceptíveis de disparar projécteis sob o efeito de uma explosão ou sob a acção de ar ou gás comprimido, incluindo as pistolas de alarme e as pistolas de sinalização.\n\nii) Facas e objectos cortantes: sabres, espadas, facas para corte de tipo X-acto, punhais de caça, facas de recordação, artigos ligados às artes marciais, ferramentas para uso profissional e outros objectos cortantes com lâminas de comprimento igual ou superior a 6 cm e/ou proibidos pela legislação local.\n\niii) Objectos contundentes: matracas, mocas, tacos de basebol ou instrumentos similares.\n\niv) Explosivos/munições/líquidos inflamáveis/corrosivos: quaisquer matérias explosivas ou comburentes que, isoladamente ou em combinação com outros componentes sejam susceptíveis de provocar explosões ou incêndios. Esta classe de matérias inclui as matérias explosivas, os detonadores, fogos de artifício, a gasolina, outros líquidos inflamáveis, as munições, etc., bem como quaisquer combinações destes artigos. Esta categoria de produtos inclui ainda todas as substâncias tóxicas ou corrosivas, designadamente os gases, sob pressão ou não.\n\nv) Produtos neutralizantes ou incapacitantes: todos os gases lacrimogéneos, vaporizadores de defesa, produtos químicos e gases semelhantes, quer se encontrem contidos em pistolas, latas ou noutros recipientes e os demais dispositivos neutralizantes, tais como os aparelhos de choques eléctricos.\n\nvi) Outros objectos: picadores de gelo, paus ferrados utilizados por alpinistas, navalhas de barbear e tesouras com lâminas alongadas os quais, embora não sejam geralmente considerados armas mortíferas ou perigosas podem, contudo, ser usados como armas, incluindo os brinquedos e as reproduções de objectos com a forma de armas ou de granadas.\n\nvii) Objectos de toda a espécie susceptíveis de levantar suspeitas razoáveis de que qualquer um dos seus componentes pode ser usado para simular uma arma mortífera. Trata-se designadamente, mas não só, de objectos que se assemelham a artigos explosivos e de outros objectos susceptíveis de serem confundidos com armas ou artigos perigosos.\n\nviii) Objectos e substâncias para ataques químicos/biológicos\n\n---"
+  },
+  "c94c3a607007075a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/06bdc251-178a-48dd-aed0-a4d4e4eee634.0018.03/DOC_1#src.E0001)) JO C 51 E de 26.2.2002, p. 221.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/06bdc251-178a-48dd-aed0-a4d4e4eee634.0018.03/DOC_1#src.E0002)) JO C 48 de 21.2.2002, p. 70.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/06bdc251-178a-48dd-aed0-a4d4e4eee634.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 29 de Novembro de 2001 (ainda não publicado no Jornal Oficial), posição comum do Conselho de 28 de Janeiro de 2002 (JO C 113 E de 14.5.2002, p. 17) e decisão do Parlamento Europeu de 14 de Maio de 2002 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 5 de Dezembro de 2002 e decisão do Conselho de 9 de Dezembro de 2002.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/06bdc251-178a-48dd-aed0-a4d4e4eee634.0018.03/DOC_1#src.E0004)) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/06bdc251-178a-48dd-aed0-a4d4e4eee634.0018.03/DOC_1#src.E0005)) JO L 145 de 31.5.2001, p. 43."
+  },
+  "ac6beec50b312b21": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2002R2320 — PT — 29.04.2008 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32002R2320) [REGULAMENTO (CE) N.º 2320/2002 DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32002R2320) [de 16 de Dezembro de 2002](http://publications.europa.eu/resource/celex/32002R2320) [relativo ao estabelecimento de regras comuns no domínio da segurança da aviação civil](http://publications.europa.eu/resource/celex/32002R2320) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32002R2320) (JO L 355, 30.12.2002, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 300/2008 do Parlamento Europeu e do Conselho de 11 de Março de 2008](http://publications.europa.eu/resource/celex/32008R0300) — L 97 — 72 — 9.4.2008"
+  }
+ }
+}

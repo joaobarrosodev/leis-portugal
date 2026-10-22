@@ -35,6 +35,41 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: regulamento-ue-2001-2318.versoes.json
+  count: 3
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2001-11-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-10-21'
+    amending: eu:celex:32004R1767:por
+    amending_title: REGULAMENTO (CE) N. o 1767/2004 DA COMISSÃO de 13 de Outubro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Adita Notas
+  - date: '2014-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Notas
 identifiers:
   celex: 32001R2318
   eli: http://data.europa.eu/eli/reg/2001/2318/oj
@@ -49,7 +84,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4f821e75-a37a-4215-92d1-313ee8be5239.0010
   content_url: http://publications.europa.eu/resource/cellar/9367ecab-ddcc-470c-9659-91e09e716c1b.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R2318-20140101
-  retrieved_at: '2026-10-22T03:10:21Z'
+  retrieved_at: '2026-10-22T14:50:56Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:35:20.488+02:00'
 integrity:
@@ -58,9 +93,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:10:21Z'
-  notes: Texto consolidado 02001R2318-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:56Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2001-2318.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -108,16 +143,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:10:21Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:50:56Z'
+  warnings: []
   errors: []
 ---
 

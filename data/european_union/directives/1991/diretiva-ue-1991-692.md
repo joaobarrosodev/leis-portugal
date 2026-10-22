@@ -34,6 +34,34 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-07-04'
+version_history:
+  file: diretiva-ue-1991-692.versoes.json
+  count: 2
+  source_lastmod: '2018-07-04'
+  versions:
+  - date: '2003-11-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-07-04'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime ANEXO I — Directivas alteradas nos termos do n.o 1 do artigo 2.o da presente directiva
+    - Suprime ANEXO II — Directivas alteradas nos termos do n.o 2 do artigo 2.o da presente directiva
+    - Suprime ANEXO III — Directivas alteradas nos termos do n.o 1 do artigo 4.o da presente directiva
+    - Suprime ANEXO IV — Directivas alteradas nos termos do n.o 2 do artigo 4.o da presente directiva
+    - Suprime ANEXO V — Directivas alteradas nos termos do n.o 3 do artigo 4.o da presente directiva
+    - Suprime ANEXO VI — Directiva alterada nos termos do artigo 5.o da presente directiva
 identifiers:
   celex: 31991L0692
   eli: http://data.europa.eu/eli/dir/1991/692/oj
@@ -48,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/311f10aa-2eb3-4fcc-9787-36aa83f2fb2d.0011
   content_url: http://publications.europa.eu/resource/cellar/e2f925c5-947a-4ede-9841-3df2402e1836.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0692-20180704
-  retrieved_at: '2026-10-22T02:36:05Z'
+  retrieved_at: '2026-10-22T14:39:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T03:32:37.456+01:00'
 integrity:
@@ -57,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:05Z'
-  notes: Texto consolidado 01991L0692-20180704.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:39:41Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1991-692.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -352,16 +380,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:05Z'
+  checked_at: '2026-10-22T14:39:41Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01991L0692-19911223: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

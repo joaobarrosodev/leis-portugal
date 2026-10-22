@@ -1,0 +1,47 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31995R1648:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995R1648-19950714",
+ "dre_path": null,
+ "source_lastmod": "1995-07-14",
+ "versions": [
+  {
+   "date": "1995-07-07",
+   "future": false,
+   "celex": "31995R1648",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7dd48c7775a7f01d",
+    "57efcf94f856978a",
+    "f2ad8a3ba40c94f0"
+   ]
+  }
+ ],
+ "fragments": {
+  "7dd48c7775a7f01d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 1648/95 da Comissão, de 6 de Julho de 1995, que altera o Regulamento (CEE) nº 3887/92 que estabelece as normas de execução do sistema integrado de gestão e de controlo relativo a determinados regimes de ajudas comunitárias** *Jornal Oficial nº L 156 de 07/07/1995 p. 0027 - 0028*\n\nREGULAMENTO (CE) Nº 1648/95 DA COMISSÃO de 6 de Julho de 1995 que altera o Regulamento (CEE) nº 3887/92 que estabelece as normas de execução do sistema integrado de gestão e de controlo relativo a determinados regimes de ajudas comunitárias\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CEE) nº 3508/92 do Conselho, de 27 de Novembro de 1992, que estabelece um sistema integrado de gestão e de controlo relativo a determinados regimes de ajudas comunitários (1) (a seguir denominado « sistema integrado »), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 3235/94 (2), e, nomeadamente, o seu artigo 12º,\n\nConsiderando que, à luz da experiência adquirida no âmbito da aplicação do regime de indemnizações compensatórias a favor das zonas desfavorecidas referido no nº 1 do artigo 19º do Regulamento (CEE) nº 2328/91 do Conselho, de 15 de Julho de 1991, relativo à melhoria da eficácia das estruturas agrícolas (3), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 2843/94 (4), é necessário resolver certos problemas de ordem prática, nomeadamente no que respeita a zonas de fraca superfície afectadas por desvantagens específicas;\n\nConsiderando que, na sequência da adopção do Regulamento (CE) nº 603/95 do Conselho, de 21 de Fevereiro de 1995, que institui a organização comum do mercado no sector das forragens secas (5), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1347/95 (6), e do Regulamento (CE) nº 785/95 da Comissão, de 6 de Abril de 1995, que estabelece normas de execução do Regulamento (CE) nº 603/95 do Conselho, que institui a organização comum do mercado no sector das forragens secas (7), com a redacção que lhe foi dada pelo Regulamento (CE) nº 1362/95 (8), as parcelas utilizadas para a produção de forragens para secar devem ser declaradas separadamente;\n\nConsiderando que, para ter em conta circunstâncias imprevistas, se deve permitir que os produtores retirem as superfícies após as datas autorizadas para a alteração do pedido de ajuda « superfícies »;\n\nConsiderando que, para simplificar as sanções « superfícies » e « animais », as disposições relativas à sua aplicação devem ser alteradas; que, uma vez que, depois da adopção do Regulamento (CEE) nº 3887/92 da Comissão (9), alterado pelo Regulamento (CE) nº 229/95 (10), as regras relativas à retirada de terras foram alteradas, nomeadamente através da adopção das disposições que permitem a transferência da obrigação de retirada de terras de um produtor para outro e da retirada voluntária de terras, é adequado alterar as referidas sanções;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do FEOGA,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "57efcf94f856978a": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO Regulamento (CEE) nº 3887/92 é alterado do seguinte modo:\n\n1. Ao artigo 2º, é aditado o seguinte número:\n\n« 5. Um Estado-membro pode decidir excluir da aplicação de certos elementos do sistema integrado as medidas específicas estabelecidas pelo Regulamento (CEE) nº 2328/91 que dizem respeito às indemnizações compensatórias a favor dos produtores nas zonas de fraca superfície definidas no nº 5 do artigo 3º da Directiva 75/268/CEE do Conselho (*), e que são aplicadas através de contratos estabelecidos em conjunção com medidas agroambientais definidas em conformidade com as disposições do Regulamento (CEE) nº 2078/92 do Conselho (**).\n\n(*) JO nº L 128 de 19. 5. 1975, p. 1.\n\n(**) JO nº L 215 de 30. 7. 1992, p. 85. ».\n\n2. Ao nº 1, terceiro parágrafo, do artigo 4º, é aditada a seguinte frase:\n\n« Todavia, a produção de forragens para secar, quer sejam desidratadas artificialmente ou por secagem ao sol, referida no Regulamento (CE) nº 603/95 (*) é declarada separadamente.\n\n(**) JO nº L 63 de 21. 3. 1995, p. 1. ».\n\n3. Ao nº 2, último parágrafo, da alínea a) do artigo 4º, é aditado o seguinte texto:\n\n« Em derrogação da segunda alínea, e mesmo após as datas referidas nos artigos 10º, 11º e 12º do Regulamento (CEE) nº 1765/92, um Estado-membro pode autorizar que uma superfície seja retirada do pedido de ajuda \"superfícies\". A alteração deve ser notificada por escrito antes de qualquer comunicação da autoridade competente respeitante quer aos resultados dos controlos administrativos, que tenham consequências sobre as parcelas em questão, quer à organização de uma inspecção da exploração em causa. ».\n\n4. No nº 1, primeiro parágrafo, do artigo 8º, o número « 20 » constante do último período é substituído por « 25 ».\n\n5. No nº 2 do artigo 9º, o primeiro e segundo travessões do primeiro parágrafo são substituídos pelo seguinte travessão:\n\n« do dobro do excedente verificado, no caso de este ser superior a 3 %, ou a 2 hectares, e inferior ou igual a 20 % da área determinada. ».\n\n6. O nº 4, alínea a), do artigo 9º passa a ter a seguinte redacção:\n\n« a) As áreas determinadas em aplicação dos nºs 1 a 3 para o cálculo da ajuda serão utilizadas para o cálculo do limite dos prémios previstos nos artigos 4ºG e 4ºH do Regulamento (CEE) nº 805/68, bem como para o cálculo da indemnização compensatória.\n\nO cálculo da superfície máxima elegível para pagamentos compensatórios aos produtores de culturas arvenses far-se-á com base na superfície efectivamente determinada de retirada de terras e na proporção das diferentes culturas. ».\n\n7. O nº 5 do artigo 9º passa a ter a seguinte redacção:\n\n« 5. Não será concedida qualquer ajuda à (ou às) parcela(s) agrícolas relativamente às quais se verifique que as culturas a seguir indicadas não satisfazem as exigências das disposições respectivamente aplicáveis:\n\n- colza: artigo 3º do Regulamento (CEE) nº 2294/92,\n\n- girassol: alínea a) do artigo 3º do Regulamento (CEE) nº 2294/92,\n\n- sementes de linho: nº 4, do artigo 6ºA do Regulamento (CEE) nº 1765/92 ».\n\n8. No nº 2, alínea b), do artigo 10º, o segundo e terceiro travessões são substituídos pelo seguinte travessão:\n\n« - do dobro da percentagem, no caso de o excedente verificado ser superior a 5 % e inferior ou igual a 20 %. ».\n\n9. Antes do último parágrafo do nº 2 do artigo 10º, é inserido o seguinte parágrafo:\n\n« Se o pagamento compensatório previsto no Regulamento (CEE) nº 2328/91 for calculado em função do número de cabeças normais, o número de animais presentes na exploração e as sanções atrás referidas serão determinados com base no número de cabeças normais correspondente ao número de animais declarado e verificado. ».\n\n10. Ao nº 4 do artigo 10º, é aditado o seguinte texto:\n\n« Se a indemnização compensatória prevista no Regulamento (CEE) nº 2328/91 for calculada com base no número de cabeças normais sem distinção entre as espécies de animais em causa, os animais declarados podem ser substituídos por outros animais elegíveis para a referida indemnização, desde que o número de cabeças normais correspondente não diminua e que as substituições sejam efectuadas de acordo com as condições estabelecidas no parágrafo anterior. »."
+  },
+  "f2ad8a3ba40c94f0": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nTodavia, os nºs 1, 3, 6, 7, 9 e 10 do artigo 1º são aplicáveis aos pedidos de ajuda introduzidos, respectivamente, a título do ano de 1995 e seguintes. Os outros números são aplicáveis aos pedidos introduzidos a título do ano de 1996 e seguintes.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 6 de Julho de 1995.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO nº L 355 de 5. 12. 1992, p. 1.\n\n(2) JO nº L 338 de 28. 12. 1994, p. 16.\n\n(3) JO nº L 218 de 6. 8. 1991, p. 1.\n\n(4) JO nº L 302 de 25. 11. 1994, p. 11.\n\n(5) JO nº L 63 de 21. 3. 1995, p. 1.\n\n(6) JO nº L 131 de 15. 6. 1995, p. 1.\n\n(7) JO nº L 79 de 7. 4. 1995, p. 5.\n\n(8) JO nº L 132 de 16. 6. 1995, p. 6.\n\n(9) JO nº L 391 de 31. 12. 1992, p. 36.\n\n(10) JO nº L 27 de 4. 2. 1995, p. 3."
+  }
+ }
+}

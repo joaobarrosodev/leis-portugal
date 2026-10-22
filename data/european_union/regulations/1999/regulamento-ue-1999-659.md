@@ -34,6 +34,146 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-10-14'
+version_history:
+  file: regulamento-ue-1999-659.versoes.json
+  count: 4
+  source_lastmod: '2015-10-14'
+  versions:
+  - date: '1999-03-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1791:por
+    amending_title: REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006; Acto relativo às condições de adesão
+      da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia,
+      da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca
+      e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita Artigo 1.º — Definições
+    - Adita CAPÍTULO II
+    - Adita PROCESSO APLICÁVEL AOS AUXÍLIOS NOTIFICADOS
+    - Adita Artigo 2.º — Notificação de novo auxílio
+    - Adita Artigo 3.º — Cláusula suspensiva
+    - Adita Artigo 4.º — Análise preliminar da notificação e decisões da Comissão
+    - Adita Artigo 5.º — Pedido de informações
+    - Adita Artigo 6.º — Procedimento formal de investigação
+    - Adita Artigo 7.º — Decisão da Comissão de encerramento do procedimento formal de investigação
+    - Adita Artigo 8.º — Retirada da notificação
+    - Adita Artigo 9.º — Revogação de uma decisão
+    - Adita CAPÍTULO III
+    - Adita PROCESSO APLICÁVEL AOS AUXÍLIOS ILEGAIS
+    - Adita Artigo 10.º — Exame, pedido de informações e injunção para prestação de informações
+    - Adita Artigo 11.º — Injunção de suspensão ou de recuperação provisória do auxílio
+    - Adita Artigo 12.º — Incumprimento da injunção
+    - Adita Artigo 13.º — Decisões da Comissão
+    - Adita Artigo 14.º — Recuperação do auxílio
+    - Adita Artigo 15.º — Prazo de prescrição
+    - Adita CAPÍTULO IV
+    - Adita PROCESSO APLICÁVEL AOS AUXÍLIOS UTILIZADOS DE FORMA ABUSIVA
+    - Adita Artigo 16.º — Utilização abusiva de um auxílio
+    - Adita CAPÍTULO V
+    - Adita PROCESSO APLICÁVEL AOS REGIMES DE AUXÍLIOS EXISTENTES
+    - Adita Artigo 17.º — Cooperação nos termos do n.º 1 do artigo 93.º do Tratado
+    - Adita Artigo 18.º — Proposta de medidas adequadas
+    - Adita Artigo 19.º — Consequências jurídicas de uma proposta de medidas adequadas
+    - Adita CAPÍTULO VI
+    - Adita PARTES INTERESSADAS
+    - Adita Artigo 20.º — Direitos das partes interessadas
+    - Adita CAPÍTULO VII
+    - Adita CONTROLO
+    - Adita Artigo 21.º — Relatórios anuais
+    - Adita Artigo 22.º — Controlo in loco
+    - Adita Artigo 23.º — Incumprimento de decisões e acórdãos
+    - Adita CAPÍTULO VIII
+    - Adita DISPOSIÇÕES COMUNS
+  - date: '2013-08-20'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013; REGULAMENTO (UE) N. o 734/2013 DO CONSELHO
+      de 22 de julho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 7.º — Decisão da Comissão de encerramento do procedimento formal de investigação
+    - Altera Artigo 10.º — Exame, pedido de informações e injunção para prestação de informações
+    - Altera Artigo 16.º — Utilização abusiva de um auxílio
+    - Altera Artigo 20.º — Direitos das partes interessadas
+    - Altera Artigo 26.º — Publicação das decisões
+    - Altera Artigo 27.º — Medidas de execução
+    - Altera Notas
+    - Adita Artigo 5.º
+    - Adita Pedido de informações apresentado ao Estado-Membro notificante
+    - Adita Artigo 6.º-A — Pedido de informações apresentado a outras fontes
+    - Adita Artigo 6.º-B — [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) Coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29)
+      sanções pecuniárias compulsórias◄
+    - Adita CAPÍTULO III-A
+    - Adita PRAZOS DE PRESCRIÇÃO
+    - Adita Artigo 15.º
+    - Adita Prazo de prescrição para a recuperação dos auxílios
+    - Adita Artigo 15.º-A — Prazo de prescrição para a imposição de [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29)
+      coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias◄
+    - Adita Artigo 15.º-B — Prazos de prescrição em matéria de execução de [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29)
+      coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias◄
+    - Adita CAPÍTULO VI-A
+    - Adita INVESTIGAÇÕES POR SETORES ECONÓMICOS E POR INSTRUMENTOS DE AUXÍLIO
+    - Adita Artigo 20.º-A — Investigações por setores económicos e por instrumentos de auxílio
+    - Adita CAPÍTULO VII-A
+    - Adita COOPERAÇÃO COM OS TRIBUNAIS NACIONAIS
+    - Adita Artigo 23.º-A — Cooperação com os tribunais nacionais
+    - Adita Artigo 25.º — Destinatário das decisões
+    - Suprime Artigo 5.º — Pedido de informações
+    - Suprime Artigo 15.º — Prazo de prescrição
+    - Suprime Artigo 25.º — Destinatários das decisões
+  - date: '2015-10-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime PROCESSO APLICÁVEL AOS AUXÍLIOS NOTIFICADOS
+    - Suprime Artigo 2.º — Notificação de novo auxílio
+    - Suprime Artigo 3.º — Cláusula suspensiva
+    - Suprime Artigo 4.º — Análise preliminar da notificação e decisões da Comissão
+    - Suprime Artigo 5.º
+    - Suprime Pedido de informações apresentado ao Estado-Membro notificante
+    - Suprime Artigo 6.º — Procedimento formal de investigação
+    - Suprime Artigo 6.º-A — Pedido de informações apresentado a outras fontes
+    - Suprime Artigo 6.º-B — [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) Coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29)
+      sanções pecuniárias compulsórias◄
+    - Suprime Artigo 7.º — Decisão da Comissão de encerramento do procedimento formal de investigação
+    - Suprime Artigo 8.º — Retirada da notificação
+    - Suprime Artigo 9.º — Revogação de uma decisão
+    - Suprime CAPÍTULO III
+    - Suprime PROCESSO APLICÁVEL AOS AUXÍLIOS ILEGAIS
+    - Suprime Artigo 10.º — Exame, pedido de informações e injunção para prestação de informações
+    - Suprime Artigo 11.º — Injunção de suspensão ou de recuperação provisória do auxílio
+    - Suprime Artigo 12.º — Incumprimento da injunção
+    - Suprime Artigo 13.º — Decisões da Comissão
+    - Suprime Artigo 14.º — Recuperação do auxílio
+    - Suprime CAPÍTULO III-A
+    - Suprime PRAZOS DE PRESCRIÇÃO
+    - Suprime Artigo 15.º
+    - Suprime Prazo de prescrição para a recuperação dos auxílios
+    - Suprime Artigo 15.º-A — Prazo de prescrição para a imposição de [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29)
+      coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias◄
+    - Suprime Artigo 15.º-B — Prazos de prescrição em matéria de execução de [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29)
+      coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias◄
+    - Suprime CAPÍTULO IV
+    - Suprime PROCESSO APLICÁVEL AOS AUXÍLIOS UTILIZADOS DE FORMA ABUSIVA
+    - Suprime Artigo 16.º — Utilização abusiva de um auxílio
+    - Suprime CAPÍTULO V
+    - Suprime PROCESSO APLICÁVEL AOS REGIMES DE AUXÍLIOS EXISTENTES
+    - Suprime Artigo 17.º — Cooperação nos termos do n.º 1 do artigo 93.º do Tratado
+    - Suprime Artigo 18.º — Proposta de medidas adequadas
+    - Suprime Artigo 19.º — Consequências jurídicas de uma proposta de medidas adequadas
+    - Suprime CAPÍTULO VI
+    - Suprime PARTES INTERESSADAS
 identifiers:
   celex: 31999R0659
   eli: http://data.europa.eu/eli/reg/1999/659/oj
@@ -48,7 +188,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/70798f7e-c1f1-4764-b719-74aa04e1b569.0011
   content_url: http://publications.europa.eu/resource/cellar/445c1b20-be66-4d07-b00f-0b51d59f4df6.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R0659-20151014
-  retrieved_at: '2026-10-22T02:56:45Z'
+  retrieved_at: '2026-10-22T14:48:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-27T19:19:40.405+02:00'
 integrity:
@@ -57,9 +197,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:45Z'
-  notes: Texto consolidado 01999R0659-20151014.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:06Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-1999-659.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -204,16 +344,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:45Z'
+  checked_at: '2026-10-22T14:48:06Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01999R0659-19990416: versão indisponível (Sem expressão na língua por para CELEX 01999R0659-19990416.)'
+  - '01999R0659-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -34,6 +34,133 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-11-07'
+version_history:
+  file: regulamento-ue-2005-2096.versoes.json
+  count: 6
+  source_lastmod: '2011-11-07'
+  versions:
+  - date: '2005-12-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-11-10'
+    amending: eu:celex:32007R1315:por
+    amending_title: REGULAMENTO (CE) N. o 1315/2007 DA COMISSÃO de 8 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Demonstração do cumprimento
+    - Altera Artigo 10.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita REQUISITOS GERAIS PARA A PRESTAÇÃO DE SERVIÇOS DE NAVEGAÇÃO AÉREA
+    - Adita 1. COMPETÊNCIA E APTIDÃO OPERACIONAL E TÉCNICA
+    - Adita 2. ESTRUTURA E GESTÃO DA ORGANIZAÇÃO
+    - Adita 2.1. Estrutura da organização
+    - Adita 2.2. Gestão da organização
+    - Adita 3. GESTÃO DA SEGURANÇA E DA QUALIDADE
+    - Adita 3.1. Gestão da segurança
+    - Adita 3.2. Sistema de gestão da qualidade
+    - Adita 3.3. Manuais de operações
+    - Adita 4. SEGURANÇA (SECURITY)
+    - Adita 5. RECURSOS HUMANOS
+    - Adita 6. CAPACIDADE FINANCEIRA
+    - Adita 6.1. Capacidade económica e financeira
+    - Adita 6.2. Auditoria financeira
+    - Adita 7. RESPONSABILIDADE CIVIL E COBERTURA PELO SEGURO
+    - Adita 8. QUALIDADE DOS SERVIÇOS
+    - Adita 8.1. Prestação de serviços aberta e transparente
+    - Adita 8.2. Planos de contingência
+    - Adita 9. RELATÓRIO DE ACTIVIDADES
+    - Adita ANEXO II
+    - Adita REQUISITOS ESPECÍFICOS PARA A PRESTAÇÃO DE SERVIÇOS DE TRÁFEGO AÉREO
+    - Adita 1. PROPRIEDADE
+    - Adita 2. PRESTAÇÃO DE SERVIÇOS ABERTA E TRANSPARENTE
+    - Adita 3. SEGURANÇA DOS SERVIÇOS
+    - Adita 3.1. Sistema de gestão da segurança
+    - Adita 3.1.1. Requisitos gerais de segurança
+    - Adita 3.1.2. Requisitos para a obtenção da segurança
+    - Adita 3.1.3. Requisitos para a garantia da segurança
+    - Adita 3.1.4. Requisitos para a promoção da segurança
+    - Adita 3.2. Requisitos de segurança para avaliação e redução do risco relativamente a alterações
+    - Adita 3.2.1. Secção 1
+    - Adita 3.2.2. Secção 2
+    - Adita 3.2.3. Secção 3
+    - Adita 3.2.4. Secção 4
+    - Adita 3.3. Requisitos de segurança aplicáveis ao pessoal técnico que desempenha tarefas relacionadas com a segurança
+      operacional
+  - date: '2008-06-20'
+    amending: eu:celex:32008R0482:por
+    amending_title: REGULAMENTO (CE) N. o 482/2008 DA COMISSÃO de 30 de Maio de 2008
+    changes:
+    - Altera preambulo
+    - Altera 3.2.4. Secção 4
+    - Altera Notas
+    - Adita 3.2.5. Secção 5
+  - date: '2008-08-15'
+    amending: eu:celex:32008R0668:por
+    amending_title: REGULAMENTO (CE) N. o 668/2008 DA COMISSÃO de 15 de Julho de 2008
+    changes:
+    - Altera preambulo
+    - Altera 3.2.4. Secção 4
+    - Altera 3.2.5. Secção 5
+    - Altera 4. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS
+    - Altera 2. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS
+    - Altera 3. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS
+    - Altera Notas
+  - date: '2010-08-23'
+    amending: eu:celex:32010R0691:por
+    amending_title: REGULAMENTO (UE) N. o 691/2010 DA COMISSÃO de 29 de Julho de 2010
+    changes:
+    - Altera preambulo
+    - Altera 2.2. Gestão da organização
+    - Altera 9. RELATÓRIO DE ACTIVIDADES
+    - Altera 3.2.4. Secção 4
+    - Altera 3.2.5. Secção 5
+    - Altera Notas
+  - date: '2011-11-07'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto e âmbito
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Concessão de certificados
+    - Suprime Artigo 4.º — Derrogações
+    - Suprime Artigo 5.º — Demonstração do cumprimento
+    - Suprime Artigo 6.º — Facilitação da verificação do cumprimento
+    - Suprime Artigo 7.º — Continuidade do cumprimento
+    - Suprime Artigo 8.º — Regulamentação aplicável ao pessoal técnico no domínio da segurança
+    - Suprime Artigo 9.º — Procedimento de verificação por pares
+    - Suprime Artigo 10.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime REQUISITOS GERAIS PARA A PRESTAÇÃO DE SERVIÇOS DE NAVEGAÇÃO AÉREA
+    - Suprime 1. COMPETÊNCIA E APTIDÃO OPERACIONAL E TÉCNICA
+    - Suprime 2. ESTRUTURA E GESTÃO DA ORGANIZAÇÃO
+    - Suprime 2.1. Estrutura da organização
+    - Suprime 2.2. Gestão da organização
+    - Suprime 3. GESTÃO DA SEGURANÇA E DA QUALIDADE
+    - Suprime 3.1. Gestão da segurança
+    - Suprime 3.2. Sistema de gestão da qualidade
+    - Suprime 3.3. Manuais de operações
+    - Suprime 4. SEGURANÇA (SECURITY)
+    - Suprime 5. RECURSOS HUMANOS
+    - Suprime 6. CAPACIDADE FINANCEIRA
+    - Suprime 6.1. Capacidade económica e financeira
+    - Suprime 6.2. Auditoria financeira
+    - Suprime 7. RESPONSABILIDADE CIVIL E COBERTURA PELO SEGURO
+    - Suprime 8. QUALIDADE DOS SERVIÇOS
+    - Suprime 8.1. Prestação de serviços aberta e transparente
+    - Suprime 8.2. Planos de contingência
+    - Suprime 9. RELATÓRIO DE ACTIVIDADES
+    - Suprime ANEXO II
+    - Suprime REQUISITOS ESPECÍFICOS PARA A PRESTAÇÃO DE SERVIÇOS DE TRÁFEGO AÉREO
+    - Suprime 1. PROPRIEDADE
+    - Suprime 2. PRESTAÇÃO DE SERVIÇOS ABERTA E TRANSPARENTE
+    - Suprime 3. SEGURANÇA DOS SERVIÇOS
+    - Suprime 3.1. Sistema de gestão da segurança
+    - Suprime 3.1.1. Requisitos gerais de segurança
+    - Suprime 3.1.2. Requisitos para a obtenção da segurança
+    - Suprime 3.1.3. Requisitos para a garantia da segurança
 identifiers:
   celex: 32005R2096
   eli: http://data.europa.eu/eli/reg/2005/2096/oj
@@ -48,7 +175,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7cf1dd1f-c35c-43ce-9c9c-45c825ecb9f5.0016
   content_url: http://publications.europa.eu/resource/cellar/d3888765-0829-48d7-a30a-c53f1cd69289.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R2096-20111107
-  retrieved_at: '2026-10-22T02:52:04Z'
+  retrieved_at: '2026-10-22T15:00:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T16:10:19.378+01:00'
 integrity:
@@ -57,9 +184,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:04Z'
-  notes: Texto consolidado 02005R2096-20111107.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:00:55Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2005-2096.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -145,16 +272,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:04Z'
+  checked_at: '2026-10-22T15:00:55Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02005R2096-20051224: versão indisponível (Sem expressão na língua por para CELEX 02005R2096-20051224.)'
   errors: []
 ---
 

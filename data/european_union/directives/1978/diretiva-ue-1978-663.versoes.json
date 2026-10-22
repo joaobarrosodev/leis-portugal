@@ -1,0 +1,89 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31978L0663:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01978L0663-20100120",
+ "dre_path": null,
+ "source_lastmod": "2010-01-20",
+ "versions": [
+  {
+   "date": "1978-08-14",
+   "future": false,
+   "celex": "31978L0663",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2e294b3b46abd33b",
+    "b8e92aa54c387ad5",
+    "445bc849320f73d5",
+    "d10bd602fea2ec57",
+    "669c2a29a9913f14"
+   ]
+  },
+  {
+   "date": "2010-01-20",
+   "future": false,
+   "celex": "01978L0663-20100120",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º.",
+    "Suprime Artigo 2º.",
+    "Suprime Artigo 3º.",
+    "Suprime Artigo 4º."
+   ],
+   "fragments": [
+    "426d350056d2e984"
+   ]
+  }
+ ],
+ "fragments": {
+  "2e294b3b46abd33b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 78/663/CEE do Conselho, de 25 de Julho de 1978, que estabelece os critérios de pureza específicos para os emulsionantes, estabilizadores, espessantes e gelificantes que podem ser utilizados nos géneros alimentícios** *Jornal Oficial nº L 223 de 14/08/1978 p. 0007 - 0029 Edição especial finlandesa: Capítulo 13 Fascículo 9 p. 0003 Edição especial grega: Capítulo 03 Fascículo 22 p. 0104 Edição especial sueca: Capítulo 13 Fascículo 9 p. 0003 Edição especial espanhola: Capítulo 13 Fascículo 8 p. 0242 Edição especial portuguesa: Capítulo 13 Fascículo 8 p. 0242*\n\nDIRECTIVA DO CONSELHO de 25 de Julho de 1978 que estabelece os critérios de pureza específicos para os emulsionantes, estabilizadores, espessantes e gelificantes que podem ser utilizados nos géneros alimentícios (78/663/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 74/329/CEE do Conselho, de 18 de Junho de 1974, relativa à aproximação das legislações dos Estados-membros respeitantes aos emulsionantes, estabilizadores, espessantes e gelificantes que podem ser utilizados nos géneros alimentícios (1), com a última redacção que lhe foi dada pela Directiva 78/612/CEE (2) e, nomeadamente, o nº. 1 do seu artigo 7º.,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que o artigo 6º. da Directiva 74/329/CEE prevê que os emulsionantes, estabilizadores, espessantes e gelificantes devem corresponder aos critérios de pureza específicos estabelecidos em conformidade com o nº. 1 do artigo 7º. da referida directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b8e92aa54c387ad5": {
+   "fragment_id": "Artigo 1º.",
+   "type": "artigo",
+   "heading": "Artigo 1º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º.\n\nOs critérios de pureza específicos referidos no nº. 1, alínea b), do artigo 6º. da Directiva 74/329/CEE constam do Anexo da presente directiva."
+  },
+  "445bc849320f73d5": {
+   "fragment_id": "Artigo 2º.",
+   "type": "artigo",
+   "heading": "Artigo 2º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º.\n\nNo que diz respeito às substâncias referidas nos números E 474 e E 477 do Anexo, o Conselho, deliberando por unanimidade sob proposta da Comissão, pode decidir as alterações necessárias antes de 31 de Dezembro de 1981 e após inquérito da Comissão."
+  },
+  "d10bd602fea2ec57": {
+   "fragment_id": "Artigo 3º.",
+   "type": "artigo",
+   "heading": "Artigo 3º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º.\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva o mais tardar dezoito meses após a sua notificáção. Desse facto informarão imediatamente a Comissão."
+  },
+  "669c2a29a9913f14": {
+   "fragment_id": "Artigo 4º.",
+   "type": "artigo",
+   "heading": "Artigo 4º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º.\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 25 de Julho de 1978.\n\nPelo Conselho\n\nO Presidente\n\nH.J. ROHR (1)JO nº. L 189 de 12.7.1974, p. 1. (2)JO nº. L 197 de 22.7.1978, p. 2.\n\nANEXO CRITÉRIOS DE PUREZA ESPECIFICOS PARA EMULSIONANTES, ESTABILIZADORES, ESPESSANTES E GELIFICANTES QUE PODEM SER UTILIZADOS NOS GÉNEROS ALIMENTICIOS\n\nConsiderações gerais a) Sempre que a interpretação dos critérios a seguir referidos exigir a definição de certos pormenores técnicos, a base de referência será o método de análise determinado em conformidade com o nº. 2 do artigo 7º. da Directiva 74/329/CEE;\n\nb) Salvo indicações em contrário, as quantidades e percentagens serão calculadas em peso em relação produto tal e qual;\n\nc) Os critérios de pureza específicos aplicáveis às substâncias E 322, E 339 i), ii) e iii), E 340 i), ii) e iii) e E 341 i) e ii) serão estabelecidos pela Directiva 78/664/CEE do Conselho, de 25 de Julho de 1978, que estabelece os critérios de pureza especificos em relação às substâncias antioxidantes que podem ser utilizadas nos géneros destinados à alimentação humana (1). O regime aplicável às lecitinas hidrolisadas encontra-se definido na mesma directiva.\n\n>PIC FILE= \"T0013419\"> (1)JO nº. L 223 de 14.8.1978, p. 30.\n\n>PIC FILE= \"T0013420\">\n\n>PIC FILE= \"T0013421\">\n\n>PIC FILE= \"T0013422\">\n\n>PIC FILE= \"T0013423\">\n\n>PIC FILE= \"T0013424\">\n\n>PIC FILE= \"T0013425\">\n\n>PIC FILE= \"T0013426\">\n\n>PIC FILE= \"T0013427\">\n\n>PIC FILE= \"T0013428\">\n\n>PIC FILE= \"T0013429\">\n\n>PIC FILE= \"T0013430\">\n\n>PIC FILE= \"T0013431\">\n\n>PIC FILE= \"T0013432\">\n\n>PIC FILE= \"T0013433\">\n\n>PIC FILE= \"T0013434\">\n\n>PIC FILE= \"T0013435\">\n\n>PIC FILE= \"T0013436\">\n\n>PIC FILE= \"T0013437\">\n\n>PIC FILE= \"T0013438\">\n\n>PIC FILE= \"T0013439\">\n\n>PIC FILE= \"T0013440\">"
+  },
+  "426d350056d2e984": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1978L0663 — PT — 20.01.2010 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31978L0663) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31978L0663) [de 25 de Julho de 1978](http://publications.europa.eu/resource/celex/31978L0663) [que estabelece os critérios de pureza específicos para os emulsionantes, estabilizadores, espessantes e gelificantes que podem ser utilizados nos géneros alimentícios](http://publications.europa.eu/resource/celex/31978L0663) [(78/663/CEE)](http://publications.europa.eu/resource/celex/31978L0663) (JO L 223, 14.8.1978, p.7)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1333/2008 do Parlamento Europeu e do Conselho de 16 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008R1333) — L 354 — 16 — 31.12.2008"
+  }
+ }
+}

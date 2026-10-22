@@ -35,6 +35,53 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-01'
+version_history:
+  file: diretiva-ue-1995-17.versoes.json
+  count: 2
+  source_lastmod: '2007-01-01'
+  versions:
+  - date: '1995-06-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0081:por
+    amending_title: DIRECTIVA 2006/81/CE DA COMISSÃO de 23 de Outubro de 2006; Acto relativo às condições de adesão da República
+      Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República
+      da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações
+      dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita ANEXO
+    - Adita MODALIDADES DE CONCESSÃO DO NÚMERO DE REGISTO PREVISTO NO ARTIGO 4.º
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime ANEXO — MODALIDADES DE CONCESSÃO DO NÚMERO DE REGISTO PREVISTO NO ARTIGO 4º
 identifiers:
   celex: 31995L0017
   eli: http://data.europa.eu/eli/dir/1995/17/oj
@@ -49,7 +96,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8af940e1-7a6d-4567-a5be-7c814eb76502.0009
   content_url: http://publications.europa.eu/resource/cellar/791d3a90-aff2-4fb1-9f60-ea6828d4a80d.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0017-20070101
-  retrieved_at: '2026-10-22T02:46:57Z'
+  retrieved_at: '2026-10-22T14:43:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T05:42:16.877+01:00'
 integrity:
@@ -58,9 +105,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:57Z'
-  notes: Texto consolidado 01995L0017-20070101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:43:59Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1995-17.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -111,33 +158,20 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/8e12a450-cb71-4356-bd3b-8a9f980208a0
 article_structure:
   article_count: 13
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:57Z'
-  warnings: []
+  checked_at: '2026-10-22T14:43:59Z'
+  warnings:
+  - '01995L0017-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 95/17/CE da Comissão, de 19 de Junho de 1995
-
-> 1995L0017 — PT — 01.01.2007 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006L0081) — [DIRECTIVA 2006/81/CE DA COMISSÃO de 23 de Outubro de 2006](http://publications.europa.eu/resource/celex/32006L0081) — L 362 — 92 — 20.12.2006
-
-**Alterado por:**
-
-- [►A1](http://publications.europa.eu/resource/celex/12003T) — [Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T) — L 236 — 33 — 23.9.2003
-
-## DIRECTIVA 95/17/CE DA COMISSÃO
 
 de 19 de Junho de 1995
 

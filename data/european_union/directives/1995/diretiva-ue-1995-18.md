@@ -33,6 +33,104 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-06-17'
+version_history:
+  file: diretiva-ue-1995-18.versoes.json
+  count: 4
+  source_lastmod: '2015-06-17'
+  versions:
+  - date: '1995-06-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-03-15'
+    amending: eu:celex:32001L0013:por
+    amending_title: DIRECTIVA 2001/13/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 Fevereiro de 2001
+    changes:
+    - Altera preambulo
+    - Adita SECÇÃO I
+    - Adita Objectivo e âmbito de aplicação
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita SECÇÃO II
+    - Adita Condições de obtenção de licença
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita SECÇÃO III
+    - Adita Validade da licença
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita SECÇÃO IV
+    - Adita Disposição transitória
+    - Adita Artigo 14.º
+    - Adita SECÇÃO V
+    - Adita Disposições finais
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita ANEXO
+    - Adita I. Informações a que se refere o n.º 2 do artigo 7.º
+    - Adita II. Informações a que se refere o n.º 2 do artigo 8.º
+    - Adita Notas
+    - Suprime SECÇÃO I — Objectivo e âmbito de aplicação
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime SECÇÃO II — Condições de obtenção de licença
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+  - date: '2004-04-30'
+    amending: eu:celex:32004L0049:por
+    amending_title: DIRECTIVA 2004/49/CE DO PARLAMENTO EUROPEU E DO CONSELHO directiva relativa à segurança ferroviária de
+      29 de Abril de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º
+    - Altera Notas
+    - Suprime II. Informações a que se refere o n.º 2 do artigo 8.º
+  - date: '2015-06-17'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime SECÇÃO I
+    - Suprime Objectivo e âmbito de aplicação
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime SECÇÃO II
+    - Suprime Condições de obtenção de licença
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime SECÇÃO III
+    - Suprime Validade da licença
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime SECÇÃO IV
+    - Suprime Disposição transitória
+    - Suprime Artigo 14.º
+    - Suprime SECÇÃO V
+    - Suprime Disposições finais
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime ANEXO
+    - Suprime I. Informações a que se refere o n.º 2 do artigo 7.º
+    - Suprime Notas
 identifiers:
   celex: 31995L0018
   eli: http://data.europa.eu/eli/dir/1995/18/oj
@@ -47,7 +145,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0ae18b6f-2659-40d8-8685-36abb9a695d9.0011
   content_url: http://publications.europa.eu/resource/cellar/b5294b4c-fb80-11eb-b520-01aa75ed71a1.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0018-20150617
-  retrieved_at: '2026-10-22T02:37:53Z'
+  retrieved_at: '2026-10-22T14:44:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T11:59:40.229+02:00'
 integrity:
@@ -56,9 +154,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:53Z'
-  notes: Texto consolidado 01995L0018-20150617.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:44:00Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1995-18.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -162,16 +260,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:53Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:44:00Z'
+  warnings: []
   errors: []
 ---
 

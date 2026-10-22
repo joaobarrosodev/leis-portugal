@@ -35,6 +35,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-11-27'
+version_history:
+  file: diretiva-ue-1999-2.versoes.json
+  count: 2
+  source_lastmod: '2024-11-27'
+  versions:
+  - date: '1999-03-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-11-27'
+    amending: eu:celex:32003R1882:por
+    amending_title: M1; REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008; DIRETIVA
+      (UE) 2024/2839 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024
+    changes:
+    - Altera preambulo
+    - Altera ANEXO III
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita ANEXO I
+    - Adita CONDIÇÕES DE AUTORIZAÇÃO PARA A IRRADIAÇÃO DE ALIMENTOS
+    - Adita ANEXO II
+    - Adita FONTES DE RADIAÇÃO IONIZANTE
+    - Adita 1. DOSIMETRIA
+    - Adita Dose global média absorvida
+    - Adita 2. PROCEDIMENTOS
+    - Adita Notas
+    - Suprime Artigo 1.°
+    - Suprime Artigo 2.°
+    - Suprime Artigo 3.°
+    - Suprime Artigo 4.°
+    - Suprime Artigo 5.°
+    - Suprime Artigo 6.°
+    - Suprime Artigo 7.°
+    - Suprime Artigo 8.°
+    - Suprime Artigo 9.°
+    - Suprime Artigo 10.°
+    - Suprime Artigo 11.°
+    - Suprime Artigo 12.°
+    - Suprime Artigo 13.°
 identifiers:
   celex: 31999L0002
   eli: http://data.europa.eu/eli/dir/1999/2/oj
@@ -49,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7db477af-5311-422e-a47f-624d20695051.0011
   content_url: http://publications.europa.eu/resource/cellar/e6672d09-1b8f-11f0-b1a3-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0002-20241127
-  retrieved_at: '2026-10-22T02:56:39Z'
+  retrieved_at: '2026-10-22T14:47:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T08:10:58.322+01:00'
 integrity:
@@ -58,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:39Z'
-  notes: Texto consolidado 01999L0002-20241127.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:34Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1999-2.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -150,31 +204,21 @@ relationships:
   source: null
 article_structure:
   article_count: 17
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:39Z'
-  warnings: []
+  checked_at: '2026-10-22T14:47:34Z'
+  warnings:
+  - '01999L0002-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999L0002-20081211: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 1999/2/CE do Parlamento Europeu e do Conselho de 22 de Fevereiro de 1999
-
-> 01999L0002 — PT — 27.11.2024 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32003R1882) — [REGULAMENTO (CE) N.º 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
-- [►M2](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [►M3](http://publications.europa.eu/resource/celex/32024L2839) — [DIRETIVA (UE) 2024/2839 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024](http://publications.europa.eu/resource/celex/32024L2839) — L 2839 — 1 — 7.11.2024
-
-## DIRECTIVA 1999/2/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 22 de Fevereiro de 1999
 

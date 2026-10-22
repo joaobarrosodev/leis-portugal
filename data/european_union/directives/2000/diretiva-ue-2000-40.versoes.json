@@ -1,0 +1,139 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000L0040:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0040-20141101",
+ "dre_path": null,
+ "source_lastmod": "2014-11-01",
+ "versions": [
+  {
+   "date": "2000-08-10",
+   "future": false,
+   "celex": "32000L0040",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b96eba0b76d7a882",
+    "bc2c5ecb62a1e1e5",
+    "be98b4bb751fb42d",
+    "65077fe1cdc400be",
+    "c970592c52ef6c4d",
+    "d66b3d80031263d2",
+    "b2cffea67568bc10",
+    "485519d80c177d7d",
+    "41d87ba9f19e2f2f",
+    "e3e63ff2a32e07df"
+   ]
+  },
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "celex": "02000L0040-20141101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime ANEXO I — DISPOSIÇÕES ADMINISTRATIVAS RELATIVAS À HOMOLOGAÇÃO CE",
+    "Suprime ANEXO II — ÂMBITO E REQUISITOS TÉCNICOS"
+   ],
+   "fragments": [
+    "cb76e63ac76b5df4"
+   ]
+  }
+ ],
+ "fragments": {
+  "b96eba0b76d7a882": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2000/40/CE do Parlamento Europeu e do Conselho de 26 de Junho de 2000 relativa à aproximação das legislações dos Estados-Membros respeitantes à protecção à frente contra o encaixe dos veículos a motor e que altera a Directiva 70/156/CEE do Conselho** *Jornal Oficial nº L 203 de 10/08/2000 p. 0009 - 0028*\n\nDirectiva 2000/40/CE do Parlamento Europeu e do Conselho\n\nde 26 de Junho de 2000\n\nrelativa à aproximação das legislações dos Estados-Membros respeitantes à protecção à frente contra o encaixe dos veículos a motor e que altera a Directiva 70/156/CEE do Conselho\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social(2),\n\nDeliberando nos termos do artigo 251.o do Tratado(3),\n\nConsiderando o seguinte:\n\n(1) Na Decisão 97/836/CE(4), o Conselho, com o assentimento do Parlamento Europeu, autorizou a Comunidade Europeia a aderir ao Acordo da Comissão Económica para a Europa da Organização das Nações Unidas relativo à adopção de prescrições técnicas uniformes aplicáveis aos veículos de rodas, aos equipamentos e às peças susceptíveis de serem montados ou utilizados num veículo de rodas e às condições de reconhecimento recíproco das homologações emitidas de acordo com essas prescrições, assinado em Genebra, em 20 de Março de 1958, e revisto em 16 de Outubro de 1995.\n\n(2) Com a adesão ao referido acordo, a Comunidade aderiu a uma lista definida de regulamentos estabelecidos nos termos desse acordo. Essa lista inclui o Regulamento UN/ECE n.o 93(5).\n\n(3) Para reduzir o número de acidentados nas estradas europeias, é necessário introduzir sem demora as medidas previstas no referido Regulamento UN/ECE n.o 93 no procedimento de homologação CE instituído pela Directiva 70/156/CEE(6), para melhorar a protecção dos ocupantes dos automóveis de passageiros e das furgonetas em caso de colisão com a parte frontal dos veículos pesados de mercadorias e para permitir aos fabricantes desses dispositivos e dos veículos com eles equipados a obtenção de uma homologação CE, se os requisitos técnicos desse regulamento forem satisfeitos.\n\n(4) Segundo os princípios da subsidiariedade e da proporcionalidade referidos no artigo 5.o do Tratado, os objectivos da presente directiva não podem ser suficientemente realizados pelos Estados-Membros, devido à dimensão, à amplitude e aos efeitos da acção proposta no sector em questão, podendo ser melhor realizados ao nível comunitário. A presente directiva não excede o necessário para alcançar os seus objectivos, ou seja, a homologação CE.\n\n(5) A presente directiva é uma das directivas específicas a observar em cumprimento do procedimento de homologação CE. Por conseguinte, as disposições da Directiva 70/156/CEE respeitantes aos veículos e aos seus sistemas, componentes e unidades técnicas deverão ser aplicáveis à presente directiva.\n\n(6) Dado o número considerável de acidentes da estrada que implicam veículos comerciais de massa superior a 3,5 toneladas e, por conseguinte, para aumentar a segurança rodoviária, importa tornar as disposições da presente directiva obrigatórias, sem esperar que a homologação CE dessa categoria de veículos seja completada.\n\n(7) Por conseguinte, a Directiva 70/156/CEE deve ser alterada,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "bc2c5ecb62a1e1e5": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) \"Veículo\", qualquer veículo a motor definido na parte A do anexo II da Directiva 70/156/CEE;\n\nb) \"Dispositivo de protecção à frente contra o encaixe\", um dispositivo de protecção à frente contra o encaixe destinado a ser parte de um veículo e que pode ser homologado como unidade técnica nos termos do artigo 2.o da Directiva 70/156/CEE."
+  },
+  "be98b4bb751fb42d": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A partir de 10 de Agosto de 2001 ou, se a publicação a que se refere o artigo 3.o for adiada para depois de 10 de Fevereiro de 2001, seis meses a contar da data dessa publicação, os Estados-Membros não podem, por motivos relacionados com a protecção à frente contra o encaixe de um veículo:\n\na) Recusar a homologação CE ou a homologação de âmbito nacional a um modelo de veículo ou a um tipo de dispositivo de protecção à frente contra o encaixe enquanto unidade técnica,\n\nnem\n\nb) Proibir o registo, venda ou entrada em circulação de veículos de dispositivos de protecção à frente contra o encaixe enquanto unidades técnicas,\n\nse esses veículos ou essas unidades técnicas preencherem os requisitos da presente directiva.\n\n2. A partir de 10 de Agosto de 2003, os Estados-Membros\n\na) Deixam de poder conceder a homologação CE ou a homologação nacional de um modelo de veículo de um tipo de dispositivo de protecção à frente contra o encaixe enquanto unidade técnica,\n\ne\n\nb) Devem recusar o registo, venda ou entrada em circulação de veículos novos ou de novos dispositivos de protecção à frente contra o encaixe enquanto unidades técnicas,\n\npor motivos relacionados com a protecção à frente contra o encaixe, se não se encontrarem preenchidos os requisitos da presente directiva.\n\n3. As disposições administrativas relativas à homologação CE constam do anexo I.\n\nO âmbito de aplicação da presente directiva, bem como os requisitos técnicos a observar para obter a homologação CE constam do anexo II."
+  },
+  "65077fe1cdc400be": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO Regulamento n.o 93 da Comissão Económica para a Europa das Nações Unidas será publicado no Jornal Oficial das Comunidades Europeias antes de 10 de Fevereiro de 2001."
+  },
+  "c970592c52ef6c4d": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA Directiva 70/156/CEE é alterada do seguinte modo:\n\n1. O anexo I é alterado do seguinte modo:\n\na) O ponto 2.3.4 passa a ter a seguinte redacção:\n\n\"2.3.4. Largura do eixo mais à frente (medida na parte mais exterior dos pneumáticos, excluindo o abaulamento dos pneumáticos próximo do chão):...\";\n\nb) São aditados os seguintes pontos:\n\n\"9.22. Protecção à frente contra o encaixe\n\n9.22.1. Desenhos das peças do veículo relevantes para a protecção à frente contra o encaixe, isto é, desenho do veículo e/ou quadro com a posição e o sistema de montagem do eixo da frente mais largo, desenho do sistema de montagem e/ou instalação da protecção à frente contra o encaixe. Se esta não constituir nenhum dispositivo especial, o desenho deve indicar claramente que se satisfazem as dimensões exigidas:...\n\n9.22.2. No caso de um dispositivo especial, descrição completa e/ou desenho da protecção à frente contra o encaixe (incluindo sistema de montagem e acessórios) ou, se homologado como unidade técnica, número de homologação:...\".\n\n2. O anexo IV é alterado do seguinte modo:\n\na) Na parte I, é aditado o seguinte ponto:\n\n\">POSIÇÃO NUMA TABELA>\"\n\nb) Na parte II, é aditado o seguinte ponto:\n\n\">POSIÇÃO NUMA TABELA>\""
+  },
+  "d66b3d80031263d2": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 10 de Fevereiro de 2001. Todavia, se a publicação a que se refere o artigo 3.o for adiada para depois de 10 de Agosto de 2001, os Estados-Membros cumprirão essa obrigação seis meses a contar da data dessa publicação e informarão imediatamente a Comissão desse facto.\n\nOs Estados-Membros devem aplicar essas disposições a partir de 10 de Agosto de 2001 ou, se a publicação a que se refere o artigo 3.o for adiada para depois de 10 de Fevereiro de 2001, seis meses a contar da data dessa publicação.\n\nQuando os Estados-Membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência quando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "b2cffea67568bc10": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "485519d80c177d7d": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 26 de Junho de 2000.\n\nPelo Parlamento Europeu\n\nA Presidente\n\nN. Fontaine\n\nPelo Conselho\n\nO Presidente\n\nJ. Coelho\n\n(1) JO C 89 de 30.3.1999, p. 11.\n\n(2) JO C 209 de 22.7.1999, p. 8.\n\n(3) Parecer do Parlamento Europeu de 27 de Outubro de 1999 (JO C 154 de 5.6.2000, p. 50), posição comum do Conselho de 27 de Março de 2000 (JO C 178 de 27.6.2000, p. 1) e decisão do Parlamento Europeu de 17 de Maio de 2000.\n\n(4) JO L 346 de 17.12.1997, p. 78.\n\n(5) Comissão Económica para a Europa das Nações Unidas, documento E/ECE/324.\n\n(6) JO L 42 de 23.2.1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 98/91/CE do Parlamento Europeu e do Conselho (JO L 11 de 16.1.1999, p. 25).\n\nLISTA DOS ANEXOS\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "41d87ba9f19e2f2f": {
+   "fragment_id": "ANEXO I — DISPOSIÇÕES ADMINISTRATIVAS RELATIVAS À HOMOLOGAÇÃO CE",
+   "type": "divisao",
+   "heading": "ANEXO I — DISPOSIÇÕES ADMINISTRATIVAS RELATIVAS À HOMOLOGAÇÃO CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — DISPOSIÇÕES ADMINISTRATIVAS RELATIVAS À HOMOLOGAÇÃO CE\n\n1. PEDIDO DE HOMOLOGAÇÃO\n\n1.1. Pedido de homologação CE de um dispositivo de protecção à frente contra o encaixe enquanto unidade técnica\n\n1.1.1. O pedido de homologação CE, em conformidade com o n.o 4 do artigo 3.o da Directiva 70/156/CEE, no que diz respeito a um dispositivo de protecção à frente contra o encaixe considerado como unidade técnica na acepção do artigo 2.o da Directiva 70/156/CEE, deve ser apresentado pelo fabricante do dispositivo.\n\n1.1.2. No apêndice 1 figura um modelo da ficha de informações.\n\n1.1.3. Deve ser apresentado ao serviço técnico responsável pela realização dos ensaios de homologação uma amostra representativa do tipo de dispositivo a homologar. O serviço técnico pode, se for considerado necessário, pedir mais uma amostra. As amostras devem ser marcadas clara e indelevelmente com a firma ou marca do requerente e a designação do tipo.\n\n1.2. Pedido de homologação CE de um modelo de veículo no que diz respeito à instalação de dispositivos de protecção à frente contra o encaixe que tenham sido homologados enquanto unidades técnicas.\n\n1.2.1. O pedido de homologação CE, em conformidade com o n.o 1 do artigo 3.o da Directiva 70/156/CEE, deve ser apresentado pelo fabricante do veículo.\n\n1.2.2. No apêndice 2 figura um modelo da ficha de informações.\n\n1.2.3. Deve ser apresentado ao serviço técnico responsável pela realização dos ensaios de homologação um veículo representativo do modelo a homologar, bem como uma protecção à frente contra o encaixe para a instalação, que tenha sido aprovada como unidade técnica.\n\n1.3. Pedido de homologação CE de um modelo de veículo no que diz respeito à sua protecção à frente contra o encaixe.\n\n1.3.1. O pedido de homologação CE, em conformidade com o n.o 1 do artigo 3.o da Directiva 70/156/CEE, deve ser apresentado pelo fabricante do veículo.\n\n1.3.2. No apêndice 3 figura um modelo da ficha de informações.\n\n1.3.3. Deve ser apresentado ao serviço técnico responsável pela realização dos ensaios de homologação um veículo representativo do modelo a homologar.\n\n2. HOMOLOGAÇÃO CE\n\n2.1. Se os requisitos relevantes forem satisfeitos, deve ser concedida a homologação CE em conformidade com o n.o 3 do artigo 4.o e, se aplicável, o n.o 4 do artigo 4.o da Directiva 70/156/CEE.\n\n2.2. Um modelo do certificado de homologação CE figura:\n\n2.2.1. No apêndice 4, para um dispositivo de protecção à frente contra o encaixe enquanto unidade técnica.\n\n2.2.2. No apêndice 5, para um modelo de veículo no que diz respeito à instalação de um dispositivo de protecção à frente contra o encaixe que tenha sido homologado como unidade técnica.\n\n2.2.3. No apêndice 6, para um modelo de veículo no que diz respeito à sua protecção à frente contra o encaixe.\n\n2.3. A cada modelo de veículo homologado ou a cada tipo de dispositivo de protecção à frente contra o encaixe deve ser atribuído um número de homologação conforme com o anexo VII da Directiva 70/156/CEE. Um Estado-Membro não pode atribuir o mesmo número a outro modelo de veículo ou a outro tipo de dispositivo de protecção à frente contra o encaixe.\n\n3. MARCAÇÃO DE HOMOLOGAÇÃO CE DE UNIDADES TÉCNICAS\n\n3.1. Os dispositivos de protecção à frente contra o encaixe conformes com o tipo homologado como unidade técnica com base na presente directiva devem ostentar uma marca de homologação CE.\n\n3.2. Essa marca deve ser constituída por um rectângulo envolvendo a letra minúscula \"e\", seguida do número distintivo do Estado-Membro que procedeu à homologação:\n\n1 para a Alemanha\n\n2 para a França\n\n3 para a Itália\n\n4 para os Países Baixos\n\n5 para a Suécia\n\n6 para a Bélgica\n\n9 para Espanha\n\n11 para o Reino Unido\n\n12 para a Áustria\n\n13 para o Luxemburgo\n\n17 para a Finlândia\n\n18 para a Dinamarca\n\n21 para Portugal\n\n23 para a Grécia\n\n24 para a Irlanda\n\nDeve também incluir o \"número de homologação de base\" que constitui a secção 4 do número de homologação objecto do anexo VII da Directiva 70/156/CEE, precedido do número sequencial de dois algarismos atribuído à mais recente alteração técnica significativa da Directiva 2000/40/CE à data da concessão da homologação CE, ambos a figurar na proximidade do rectângulo. O número sequencial correspondente à presente directiva é 00.\n\n3.3. A marca de homologação CE deve ser afixada a um dispositivo de protecção à frente contra o encaixe de modo tal a ser indelével e claramente legível mesmo se o dispositivo for montado num veículo.\n\n3.4. No apêndice 7 figura um exemplo da marca de homologação CE.\n\n4. MODIFICAÇÃO DO MODELO E ALTERAÇÕES DE HOMOLOGAÇÕES\n\n4.1. No caso de modificações de um modelo de veículo homologado nos termos da presente directiva, aplicam-se as disposições do artigo 5.o da Directiva 70/156/CEE.\n\n5. CONFORMIDADE DA PRODUÇÃO\n\n5.1. As medidas destinadas a garantir a conformidade da produção devem ser tomadas de acordo com o disposto no artigo 10.o da Directiva 70/156/CEE.\n\nApêndice 1\n\nFICHA DE INFORMAÇÕES N.o...\n\nrelativa à homologação CE de um dispositivo de protecção à frente contra o encaixe enquanto unidade técnica\n\n(Directiva 2000/40/CE, com a última redacção que lhe foi dada pela Directiva.../.../CE)\n\n>PIC FILE= \"L_2000203PT.001502.EPS\">\n\nApêndice 2\n\nFICHA DE INFORMAÇÕES N.o...\n\nnos termos do anexo I da Directiva 70/156/CEE do Conselho(1), relativa à homologação CE de um modelo de veículo no que diz respeito à instalação de dispositivos de protecção à frente contra o encaixe que tenham sido homologados enquanto unidades técnicas\n\n(Directiva 2000/40/CE, com a última redacção que lhe foi dada pela Directiva.../.../CE)\n\n>PIC FILE= \"L_2000203PT.001602.EPS\">\n\n>PIC FILE= \"L_2000203PT.001701.EPS\">\n\n(1) Os números dos pontos e notas de pé-de-página utilizados nesta ficha de informações correspondem aos do anexo I da Directiva 70/156/CEE. Os pontos não relevantes para efeitos da presente directiva são omitidos.\n\nApêndice 3\n\nFICHA DE INFORMAÇÕES N.o...\n\nnos termos do anexo I da Directiva 70/156/CEE do Conselho(1), relativa à homologação CE de um modelo de veículo no que diz respeito à protecção à frente contra o encaixe\n\n(Directiva 2000/40/CE, com a última redacção que lhe foi dada pela Directiva.../.../CE)\n\n>PIC FILE= \"L_2000203PT.001802.EPS\">\n\n>PIC FILE= \"L_2000203PT.001901.EPS\">\n\n(1) Os números dos pontos e notas de pé-de-página utilizados nesta ficha de informações correspondem aos do anexo I da Directiva 70/156/CEE. Os pontos não relevantes para efeitos da presente directiva são omitidos.\n\nApêndice 4\n\nMODELO\n\n[formato máximo: A4 (210 mm × 297 mm)]\n\nCERTIFICADO DE HOMOLOGAÇÃO CE\n\n>PIC FILE= \"L_2000203PT.002002.EPS\">\n\n>PIC FILE= \"L_2000203PT.002101.EPS\">\n\nApêndice 5\n\nMODELO\n\n[formato máximo: A4 (210 mm × 297 mm)]\n\nCERTIFICADO DE HOMOLOGAÇÃO CE\n\n>PIC FILE= \"L_2000203PT.002202.EPS\">\n\n>PIC FILE= \"L_2000203PT.002301.EPS\">\n\nApêndice 6\n\nMODELO\n\n[formato máximo: A4 (210 × 297 mm)]\n\nCERTIFICADO DE HOMOLOGAÇÃO CE\n\n>PIC FILE= \"L_2000203PT.002402.EPS\">\n\n>PIC FILE= \"L_2000203PT.002501.EPS\">\n\nApêndice 7\n\nMODELO DE MARCA DE HOMOLOGAÇÃO CE\n\n>PIC FILE= \"L_2000203PT.002602.TIF\">\n\nO dispositivo de protecção à frente contra o encaixe que ostenta a marca de homologação CE acima ilustrada indica que o dispositivo foi homologado na Alemanha (e1) com o número de homologação de base 2439, com base na presente directiva.\n\nOs algarismos indicados no desenho são meramente indicativos."
+  },
+  "e3e63ff2a32e07df": {
+   "fragment_id": "ANEXO II — ÂMBITO E REQUISITOS TÉCNICOS",
+   "type": "divisao",
+   "heading": "ANEXO II — ÂMBITO E REQUISITOS TÉCNICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — ÂMBITO E REQUISITOS TÉCNICOS\n\n1. ÂMBITO\n\n1.1. A presente directiva aplica-se a:\n\n1.1.1. Dispositivos de protecção à frente contra o encaixe enquanto unidades técnicas destinados a ser instalados em veículos das categorias N2 e N3(1).\n\n1.1.2. Veículos das categorias N2 e N3 no que diz respeito à instalação de dispositivos de protecção à frente contra o encaixe que tenham sido homologados enquanto unidades técnicas.\n\n1.1.3. Veículos das categorias N2 e N3 no que diz respeito à sua protecção à frente contra o encaixe.\n\n1.2. Os veículos da categoria N2 de massa máxima não superior a 7,5 toneladas devem satisfazer apenas o requisito da distância ao solo de 400 mm estabelecido na presente directiva.\n\n1.3. Os requisitos da presente directiva não se aplicam a:\n\n1.3.1. Veículos fora-de-estrada das categorias N2 e N3.\n\n1.3.2. Veículos cuja utilização seja incompatível com as disposições da protecção à frente contra o encaixe.\n\n2. DEFINIÇÕES\n\nPara efeitos do disposto na presente directiva, entende-se por:\n\n2.1. Massa máxima do veículo, a massa em carga tecnicamente admissível definida no ponto 2.8 do anexo I da Directiva 70/156/CEE.\n\n2.2. Veículo sem carga, o veículo em ordem de marcha com a massa definida no ponto 2.6 do anexo I da Directiva 70/156/CEE.\n\n2.3. Tipo de dispositivo de protecção à frente contra o encaixe, dispositivos de protecção à frente contra o encaixe que não diferem entre si no que diz respeito às características essenciais tais como a forma, as dimensões, a fixação, os materiais e as marcações citadas no ponto 1.1.3 do anexo I.\n\n2.4. Protecção à frente contra o encaixe, a presença à frente do veículo de:\n\nUm dispositivo especial de protecção à frente contra o encaixe, ou\n\nPartes da carroçaria, partes do quadro ou outros componentes que, pela sua forma e características, possam ser considerados como cumprindo a função do dispositivo de protecção à frente contra o encaixe.\n\n2.5. Modelo de veículo, veículos que não diferem essencialmente entre si em aspectos tais como:\n\n2.5.1. A largura do eixo dianteiro, medida na parte mais exterior dos pneumáticos excluindo o abaulamento dos pneumáticos próximo do chão.\n\n2.5.2. A estrutura, dimensões, forma e materiais da parte frontal do veículo desde que tenham relação com os requisitos da parte relevante da presente directiva.\n\n2.5.3. O dispositivo de protecção à frente contra o encaixe homologado montado no veículo.\n\n2.5.4. A massa máxima do veículo tipo.\n\n3. REQUISITOS TÉCNICOS\n\nOs requisitos técnicos que têm de ser satisfeitos para obter a homologação de acordo com a presente directiva são os estabelecidos nos n.os 6, 8 e 10 e no anexo 5 do Regulamento UN/ECE n.o 93, com as seguintes excepções:\n\n3.1. No ponto 8.2, onde se lê \"communication document contained in annex I\", deve ler-se \"EC type-approval certificate contained in Annex I, Appendix 5\".\n\n3.2. No ponto 8.3, o termo entre parênteses \"(annex 1, item 9.)\" deve ler-se \"(Annex I, Appendix 4, Addendum, Paragraph 1.4)\".\n\n3.3. No ponto 8.6, o termo entre parênteses \"(anex I, item 8.)\" deve ler-se \"(Annex I, Appendix 1, Paragraph 2.3)\".\n\n3.4. No ponto 3.5.1 do anexo V, os termos \"For applications pursuant to Part III\" devem ler-se \"For applications pursuant to Annex I, Paragraph 1.3\".\n\n(1) Na definição que lhe é dada na parte A do anexo II da Directiva 70/156/CEE."
+  },
+  "cb76e63ac76b5df4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2000L0040 — PT — 01.11.2014 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32000L0040) [DIRECTIVA 2000/40/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32000L0040) [de 26 de Junho de 2000](http://publications.europa.eu/resource/celex/32000L0040) [relativa à aproximação das legislações dos Estados-Membros respeitantes à protecção à frente contra o encaixe dos veículos a motor e que altera a Directiva 70/156/CEE do Conselho](http://publications.europa.eu/resource/celex/32000L0040) (JO L 203, 10.8.2000, p.9)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 661/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0661) — L 200 — 1 — 31.7.2009"
+  }
+ }
+}

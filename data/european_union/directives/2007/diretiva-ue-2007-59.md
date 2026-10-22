@@ -35,6 +35,77 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-08'
+version_history:
+  file: diretiva-ue-2007-59.versoes.json
+  count: 4
+  source_lastmod: '2019-07-08'
+  versions:
+  - date: '2007-12-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-15'
+    amending: eu:celex:32014L0082:por
+    amending_title: DIRETIVA 2014/82/UE DA COMISSÃO Texto relevante para efeitos do EEE de 24 de junho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Requisitos básicos
+    - Altera Artigo 37.º — Aplicação progressiva e períodos transitórios
+    - Altera Artigo 39.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita MODELO COMUNITÁRIO DE CARTA DE MAQUINISTA E DE CERTIFICADO COMPLEMENTAR HARMONIZADO
+    - Adita 1. CARACTERÍSTICAS DA CARTA DE MAQUINISTA
+    - Adita 2. CONTEÚDO DA CARTA DE MAQUINISTA
+    - Adita 3. CERTIFICADO
+    - Adita 4. DADOS MÍNIMOS CONSTANTES DOS REGISTOS NACIONAIS
+    - Adita ANEXO II
+    - Adita REQUISITOS MÉDICOS
+    - Adita 1. REQUISITOS GERAIS
+    - Adita 2. CONTEÚDO MÍNIMO DO EXAME ANTES DA NOMEAÇÃO
+    - Adita 3. EXAMES PERIÓDICOS APÓS A NOMEAÇÃO
+    - Adita ANEXO III
+    - Adita MÉTODO DE FORMAÇÃO
+    - Adita ANEXO IV
+    - Adita CONHECIMENTOS PROFISSIONAIS GERAIS E REQUISITOS RELATIVOS À CARTA DE MAQUINISTA
+    - Adita ANEXO V
+    - Adita CONHECIMENTOS PROFISSIONAIS RELATIVOS AO MATERIAL CIRCULANTE E REQUISITOS RELATIVOS AO CERTIFICADO
+    - Adita 1. ENSAIOS E VERIFICAÇÕES PRESCRITOS ANTES DA PARTIDA
+    - Adita 2. CONHECIMENTO DO MATERIAL CIRCULANTE
+    - Adita 3. TESTE DOS TRAVÕES
+    - Adita 4. MODO DE FUNCIONAMENTO E VELOCIDADE MÁXIMA DO COMBOIO EM FUNÇÃO DAS CARACTERÍSTICAS DA LINHA
+    - Adita 5. CONDUÇÃO DO COMBOIO DE FORMA A NÃO DEGRADAR AS INSTALAÇÕES NEM O MATERIAL
+    - Adita 6. ANOMALIAS
+    - Adita 7. INCIDENTES E ACIDENTES DE FUNCIONAMENTO, INCÊNDIOS E ACIDENTES COM PESSOAS
+    - Adita 8. CONDIÇÕES DE REARRANQUE APÓS INCIDENTE COM O MATERIAL CIRCULANTE
+    - Adita 9. IMOBILIZAÇÃO DO COMBOIO
+    - Adita ANEXO VI
+    - Adita CONHECIMENTOS PROFISSIONAIS RELATIVOS ÀS INFRA-ESTRUTURAS E REQUISITOS RELATIVOS AO CERTIFICADO
+    - Adita Matérias relativas às infra-estruturas
+    - Adita 1. TESTE DOS TRAVÕES
+    - Adita 2. TIPO DE ANDAMENTO E VELOCIDADE MÁXIMA DO COMBOIO EM FUNÇÃO DAS CARACTERÍSTICAS DA LINHA
+    - Adita 3. CONHECIMENTO DA LINHA
+    - Adita 4. REGULAMENTAÇÃO DE SEGURANÇA
+    - Adita 5. CONDUÇÃO DO COMBOIO
+  - date: '2016-07-01'
+    amending: eu:celex:32016L0882:por
+    amending_title: DIRETIVA (UE) 2016/882 DA COMISSÃO Texto relevante para efeitos do EEE de 1 de junho de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Requisitos básicos
+    - Altera 8. TESTES LINGUÍSTICOS
+    - Altera Notas
+  - date: '2019-07-08'
+    amending: eu:celex:32019R0554:por
+    amending_title: REGULAMENTO (UE) 2019/554 DA COMISSÃO de 5 de abril de 2019
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Requisitos básicos
+    - Altera Notas
+    - Adita 8. LÍNGUAS
+    - Suprime 8. TESTES LINGUÍSTICOS
 identifiers:
   celex: 32007L0059
   eli: http://data.europa.eu/eli/dir/2007/59/oj
@@ -49,7 +120,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/40923248-5509-41b9-9c89-4b6fdeb2ba80.0018
   content_url: http://publications.europa.eu/resource/cellar/939b6fae-b85c-11e9-9d01-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007L0059-20190708
-  retrieved_at: '2026-10-22T02:41:32Z'
+  retrieved_at: '2026-10-22T15:07:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T00:41:17.084+01:00'
 integrity:
@@ -58,9 +129,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:32Z'
-  notes: Texto consolidado 02007L0059-20190708.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:07:44Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2007-59.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -184,31 +255,19 @@ relationships:
   source: null
 article_structure:
   article_count: 39
-  section_count: 63
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 64
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:32Z'
+  checked_at: '2026-10-22T15:07:44Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2007/59/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2007
-
-> 02007L0059 — PT — 08.07.2019 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014L0082) — [DIRETIVA 2014/82/UE DA COMISSÃO Texto relevante para efeitos do EEE de 24 de junho de 2014](http://publications.europa.eu/resource/celex/32014L0082) — L 184 — 11 — 25.6.2014
-- [M2](http://publications.europa.eu/resource/celex/32016L0882) — [DIRETIVA (UE) 2016/882 DA COMISSÃO Texto relevante para efeitos do EEE de 1 de junho de 2016](http://publications.europa.eu/resource/celex/32016L0882) — L 146 — 22 — 3.6.2016
-- [►M3](http://publications.europa.eu/resource/celex/32019R0554) — [REGULAMENTO (UE) 2019/554 DA COMISSÃO de 5 de abril de 2019](http://publications.europa.eu/resource/celex/32019R0554) — L 97 — 1 — 8.4.2019
-
-## DIRECTIVA 2007/59/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de Outubro de 2007
 

@@ -34,6 +34,30 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-11'
+version_history:
+  file: diretiva-ue-1976-768.versoes.json
+  count: 4
+  source_lastmod: '2013-07-11'
+  versions:
+  - date: '1976-09-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-06-03'
+    amending: null
+    amending_title: null
+    changes:
+    - Adita preambulo
+  - date: '2011-11-18'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+  - date: '2013-07-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
 identifiers:
   celex: 31976L0768
   eli: http://data.europa.eu/eli/dir/1976/768/oj
@@ -48,7 +72,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/63b42f06-f411-4f26-9e75-e0a2cd5c68bf.0011
   content_url: http://publications.europa.eu/resource/cellar/02e30641-83de-4b34-bda7-d10baef875f7.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0768-20130711
-  retrieved_at: '2026-10-22T02:35:46Z'
+  retrieved_at: '2026-10-22T14:32:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T21:10:17.495+01:00'
 integrity:
@@ -57,9 +81,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:46Z'
-  notes: Texto consolidado 01976L0768-20130711.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:32:03Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1976-768.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -635,16 +659,43 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:46Z'
+  checked_at: '2026-10-22T14:32:03Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01976L0768-19980918: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0768-20000623: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0768-20020421: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0768-20020701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0768-20030113: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0768-20030223: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0768-20030311: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0768-20030909: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0768-20031015: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20040925: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20050218: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20050711: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20050913: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20051125: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20060809: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20061003: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20070508: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20070919: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20071213: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20080307: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20080424: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20081014: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20090112: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20090225: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20090507: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20091118: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20100301: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20101201: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0768-20120823: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

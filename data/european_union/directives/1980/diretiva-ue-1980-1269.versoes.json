@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31980L1269:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01980L1269-20131231",
+ "dre_path": null,
+ "source_lastmod": "2013-12-31",
+ "versions": [
+  {
+   "date": "1980-12-31",
+   "future": false,
+   "celex": "31980L1269",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cabc7fde9e9ec423",
+    "7c3a5368918b6797",
+    "0f31d4671740b5c8",
+    "f4f62600397ae93a",
+    "47db52ba8ea5b4bb",
+    "2ab082788aecb713",
+    "c34bbd06dff35ffa",
+    "235398a494cd6f79"
+   ]
+  },
+  {
+   "date": "2013-12-31",
+   "future": false,
+   "celex": "01980L1269-20131231",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º.",
+    "Suprime Artigo 2º.",
+    "Suprime Artigo 3º.",
+    "Suprime Artigo 4º.",
+    "Suprime Artigo 5º.",
+    "Suprime ANEXO I DETERMINAÇÃO DA POTÊNCIA DOS MOTORES",
+    "Suprime ANEXO II — >PIC FILE= \"T0013936\"> >PIC FILE= \"T0013937\">"
+   ],
+   "fragments": [
+    "db4a99c0e1f8efac"
+   ]
+  }
+ ],
+ "fragments": {
+  "cabc7fde9e9ec423": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 80/1269/CEE do Conselho, de 16 de Dezembro de 1980, relativa à aproximação das legislações dos Estados-Membros respeitantes à potência dos motores dos veículos a motor** *Jornal Oficial nº L 375 de 31/12/1980 p. 0046 - 0067 Edição especial finlandesa: Capítulo 13 Fascículo 11 p. 0060 Edição especial grega: Capítulo 13 Fascículo 10 p. 0117 Edição especial sueca: Capítulo 13 Fascículo 11 p. 0060 Edição especial espanhola: Capítulo 13 Fascículo 11 p. 0134 Edição especial portuguesa: Capítulo 13 Fascículo 11 p. 0134*\n\nDIRECTIVA DO CONSELHO de 16 de Dezembro de 1980 relativa à aproximação das legislações dos Estados-membros respeitantes à potência dos motores dos veículos a motor (80/1269/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100º.,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que as prescrições técnicas exigidas para os veículos a motor pelas legislações nacionais respeitam, nomeadamente, ao método de medição da potência dos motores que deve ser utilizado indicação da potência do motor de um modelo de veículo;\n\nConsiderando que estas prescrições diferem de um Estado-membro para outro; que dai resultam entraves técnicos ao comércio, para a eliminação dos quais devem ser adoptadas as mesmas prescrições por todos os Estados-Membros, quer em complemento, quer em substituição das suas regulamentações actuais, tendo em vista nomeadamente permitir a adplicação, para cada modelo de veículo, do processo de recepção CEE que é objecto da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à aprovação de veículos a motor e seus reboques (4), com a última redacção que lhe foi dada pela Directiva 80/1267/CEE (5),\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "7c3a5368918b6797": {
+   "fragment_id": "Artigo 1º.",
+   "type": "artigo",
+   "heading": "Artigo 1º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º.\n\nPara os efeitos do disposto na presente directiva, entende-se por veículo qualquer veículo a motor destinado a transitar na estrada, com ou sem carroçaria, que tenha pelo menos quatro rodas e uma velocidade máxima, por construção, superior a 25 km/h, com excepção dos veículos que se deslocam sobre carris e dos tractores e máquinas agrícolas."
+  },
+  "0f31d4671740b5c8": {
+   "fragment_id": "Artigo 2º.",
+   "type": "artigo",
+   "heading": "Artigo 2º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º.\n\nOs Estados-membros não podem recusar a recepção CEE ou a recepção de âmbito nacional de um veículo, nem recusar ou proibir a venda, a matrícula, a entrada em circulação ou a utilização de um veículo por motivos relacionados com a potência do motor, se esta for determinada de acordo com os Anexos I e II."
+  },
+  "f4f62600397ae93a": {
+   "fragment_id": "Artigo 3º.",
+   "type": "artigo",
+   "heading": "Artigo 3º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º.\n\nAs alterações necessárias para adaptar as prescrições dos anexos ao progresso técnico serão adoptadas em conformidade com o procedimento previsto no artigo 13º. da Directiva 70/156/CEE."
+  },
+  "47db52ba8ea5b4bb": {
+   "fragment_id": "Artigo 4º.",
+   "type": "artigo",
+   "heading": "Artigo 4º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º.\n\n1. Os Estados-membros porão em vigor as disposições necessárias para darem cumprimento à presente Directiva no prazo de dezoito meses a contar da sua notificação. Desse facto informarão imediatamente a Comissão. (1)JO nº. C 104 de 28.4.2980, p. 9. (2)JO nº. C 265 de 13.10.1980, p. 76. (3)JO nº. C 182 de 21.7.1980, p. 3. (4)JO nº. L 42 de 23.2.1970, p. 1. (5)JO nº. L 375 de 31.12.1980, p. 34.\n\n2. Os Estados-membros devem assegurar que a Comissão seja informada do texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente Directiva."
+  },
+  "2ab082788aecb713": {
+   "fragment_id": "Artigo 5º.",
+   "type": "artigo",
+   "heading": "Artigo 5º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º.\n\nOs Estados-membros são destinatários da presente Directiva.\n\nFeito em Bruxelas em 16 de Dezembro de 1980.\n\nPelo Conselho\n\nO Presidente\n\nColette FLESCH"
+  },
+  "c34bbd06dff35ffa": {
+   "fragment_id": "ANEXO I DETERMINAÇÃO DA POTÊNCIA DOS MOTORES",
+   "type": "divisao",
+   "heading": "ANEXO I DETERMINAÇÃO DA POTÊNCIA DOS MOTORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I DETERMINAÇÃO DA POTÊNCIA DOS MOTORES\n\n1. RECEPÇÃO CEE\n\n1.1. Pedido de recepção CEE\n\nO pedido de recepção CEE para um modelo de veículo no que respeita à potência do motor será apresentado pelo fabricante do veículo ou pelo seu mandatário. 1.1.1. O pedido será acompanhado dos documentos mencionados em seguida e das seguintes informações, em triplicado: 1.1.1.1. Ficha de informações devidamente preenchida;\n\n1.1.1.2. Informações de acordo em os Apêndices 1 ou 2.\n\n1.1.2. Se o serviço técnico encarregado dos ensaios os efectuar ele próprio, deve ser-lhe apresentado um veículo representativo do modelo de veículo a recepcionar.\n\n1.2. Documentação\n\nSe for aceite o pdido na acepção do ponto 1.1., a autoridade competente elaborará o documento cujo modelo se encontra no Anexo II. Para a elaboração deste documento, a autoridade competente do Estado-membro que procede à recepção pode utilizar o relatório elaborado pelo laboratório autorizado ou reconhecido para a aplicação das disposições da presente directiva.\n\n2. DOMINIO DE APLICAÇÃO\n\n2.1. O presente método diz respeito aos motores de combustão interna utilizados para a propulsão dos veículos das categorias M e N definidas no Anexo I da Directiva 70/156/CEE e que pertencem a uma das seguintes categorias: 2.1.1. Motores de combustão interna de êmbolos (a ignição comandada ou diesel), com exclusão dos motores de êmbolos livres;\n\n2.1.2. Motores de êmbolos rotativos.\n\n2.2. O presente método diz respeito aos motores naturalmente aspirados ou sobre-alimentados.\n\n3. DEFINIÇÕES\n\nNa acepção da presente Directiva, entende-se por: 3.1. Potência útil a potência que é obtida no banco de ensaios, na extremidade da cambota ou do órgão equivalente, a regime apropriado e com os dispositivos auxiliares enumerados no Quadro I. Se a medição da potência só puder se efectuada no motor equipado com uma caixa de velocidades, ter-se-á em conta o rendimento da caixa de velocidades;\n\n3.2. Potência útil máxima o valor máximo da potência útil medida a plena carga do motor;\n\n3.3. Equipamentos de série qualquer equipamento previsto pelo fabricante para uma aplicação determinada.\n\n4. PRECISÃO DAS MEDIÇÕES DA POTÊNCIA A PLENA CARGA\n\n4.1. Binário\n\n4.1.1. Sem prejuízo do disposto no ponto 4.1.2, o dinamómetro deve ter uma capacidade tal que o primeiro quarto da sua escala não seja utilizado. A aparelhagem de medição deve ter uma precisão de ± 0,5 % do valor máximo assinalado sobre a escala (excluindo o primeiro quarto).\n\n4.1.2. No entanto, a região da escala compreendida entre um sexto e um quarto da escala total pode ser utilizada se a precisão da aparelhagem, em um sexto da escala, for de ± 0,25 % do valor máximo assinalado sobre a escala.\n\n4.2. Velocidade de rotação\n\nA precisão da medição deve ser ± 0,5 %. A velocidade de rotação do motor deve ser medida de preferência com a ajuda de um conta-rotações e de um cronómetro, sincronizados automaticamente.\n\n4.3. Consumo de combustível: ± 1 % no total, para a aparelhagem utilizada.\n\n4.4. Temperatura do ar de admissão do motor: ± 2 º.C.\n\n4.5. Pressão barométrica: ± 2 mbar.\n\n4.6. Pressão na conduta de evacuação dos gases de escape do banco de ensaios (ver nota 1 do Quadro 1).\n\n4.7. Pressão no colector de admissão: ± 0,5 mbar.\n\n4.8. Pressão no tubo de escape do veículo: ± 2 mbar.\n\n5. POTÊNCIA ÚTIL DO MOTOR\n\n5.1. Ensaios\n\n5.1.1. Dispositivos auxiliares\n\nNa ocasião do ensaio, os dispositivos auxiliares incluídos, que em seguida se especificam, devem estar colocados no motor e tanto quanto possivel no lugar que ocupariam para a utilização considerada. 5.1.1.1. Dispositivos auxiliares a incluir\n\nOs dispositivos auxiliares que devem ser incluídos na ocasião do ensaio com vista à determinação da potência útil do motor são indicados no Quadro 1.\n\n5.1.1.2. Dispositivos auxiliares a excluir\n\nOs dispositivos auxiliares que apenas são necessários para a utilização do próprio veículo, susceptíveis de serem montados no motor, devem ser retirados para realizar os ensaios.\n\nA título de exemplo, é dada uma lista não exaustiva: - compressor de ar para os travões,\n\n- bomba de assistência da direcção,\n\n- bomba do sistema de suspensão,\n\n- sistema de condicionamento de ar,\n\n- equipamento de arrefecimento para o óleo da transmissão hidraúlica e/ou da caixa de velocidades.\n\nPara os equipamentos não desmontáveis, a potência que absorvem na condição sem carga pode ser determinada e adicionada à potência medida.\n\nQUADRO I\n\nDispositivos auxiliares a incluir para o ensaio com vista à determinação da potência útil do motor >PIC FILE= \"T0013921\">\n\n>PIC FILE= \"T0013922\">\n\n5.1.1.3. Dispositivos auxiliares que servem para o arranque dos motores Diesel\n\nQuanto aos dispositivos auxiliares que servem para o arranque dos motores Diesel, devem ser considerados os dois casos seguintes: 5.1.1.3.1. Arranque eléctrico: o gerador deve estar montado e alimentar quando for caso disso, os dispositivos auxiliares indispensáveis ao funcionamento do motor;\n\n5.1.1.3.2. Arranque não eléctrico: se existirem dispositivos auxiliares indispensáveis ao funcionamento do motor, alimentados eléctricamente, o gerador deve estar montado e alimentar estes dispositivos. Caso contrário, será retirado. Em ambos os casos, o sistema de produção e acumulação da energia necessária ao arranque deve estar montado e funcionar sem débito.\n\n5.1.2. Condições de regulação\n\nAs condições de regulação, na ocasião do ensaio com vista à determinação da potência útil, são indicadas no Quadro 2.\n\nQUADRO 2\n\nCondições de regulação >PIC FILE= \"T0013923\">\n\n5.1.3. Ensaio de determinação da potência útil 5.1.3.1. O ensaio com vista à determinação da potência útil deve ser efectuado com plena abertura dos gases para os motores de ignição comandada e com débito a plena carga da bomba de injecção para os motores Diesel; o motor deve estar munido de todos os dispositivos especificados no Quadro 1.\n\n5.1.3.2. As medições devem ser efectuadas em condições estabilizadas de funcionamento; a alimentação de ar ao motor deve ser suficiente. Os motores devem ter sido rodados nas condições recomendadas pelo fabricante. As câmaras de combustão podem conter depósitos, mas em quantidades limitadas. As condições do ensaio, por exemplo temperatura de admissão do ar, devem aproximar-se tanto quanto possível das condições de referência (ver ponto 5.2) para diminuir a relevância do factor de correcção.\n\n5.1.3.3. A temperatura do ar de admissão do motor deve ser medida a 0,15 m, no máximo, a montante da entrada do filtro de ar ou, não havendo filtro, a 0,15 m da trompa de entrada de ar. O termómetro ou o termo-par deve estar protegido contra a irradiação de calor e achar-se colocado directamente na passagem do ar. Deve igualmente estar protegido contra os vapores do combustível. Deve ser utilizado um número de posições suficiente para se obter uma temperatura média de admissão representativa. O escoamento do ar não deve ser perturbado pelo dispositivo de medição.\n\n5.1.3.4. Não deve ser efectuada qualquer medição enquanto o binário, a velocidade e as temperaturas não tiverem permanecido sensivelmente constantes durante pelo menos um minuto.\n\n5.1.3.5. Tendo sido escolhida uma velocidade para as medições, o seu valor não deve variar mais do que ± 1 % ou ± 10 rot/min durante as leituras, conforme for uma ou outra destas tolerâncias a maior.\n\n5.1.3.6. As leituras de carga no freio, do consumo de combustível e da temperatura do ar de admissão devem ser efectuadas simultaneamente; o valor retido para a medição da carga no freio e do consumo de combustível deve ser a média de duas leituras estabilizadas, diferindo em menos de 2 %.\n\n5.1.3.7. Para a medição da velocidade e do consumo por um dispositivo de comando manual, a duração da medição deve ser de pelo menos 60 segundos.\n\n5.1.3.8. Combustível\n\n5.1.3.8.1. No caso dos motores Diesel, o combustível utilizado será o descrito no Anexo V da Directiva 72/306/CEE do Conselho, de 21 de Agosto de 1972, relativa à aproximação das legislações dos Estados-membros respeitantes às medidas a tomar contra a emissão de poluentes provenientes dos motores Diesel destinados à propulsão dos veículos (1), com adição, se for caso disso, de um combustível comercializado gasoso ou líquido preconizado pelo fabricante. O combustível não deve conter aditivos anti-fumo.\n\n5.1.3.8.2. No caso de motores de ignição comandada, o combustível utilizado será um combustível comercializado, sem nenhum aditivo suplementar. O combustível descrito no Anexo VI da Directiva 70/220/CEE do Conselho, de 20 de Março de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes às medidas a tomar contra a poluição do ar pelos gases provenientes dos motores de ignição comandada que equipam os veículos a motor (2), com a última redacção que lhe foi dada pela Directiva 78/665/CEE (3), pode igualmente ser utilizado.\n\n5.1.3.9. Arrefecimento do motor\n\n5.1.3.9.1. Motores arrefecidos por liquido\n\nA temperatura do líquido de arrefecimento tomada à saída do motor deve ser mantida a ± 5 º.C da temperatura superior de regulação do termostato especificada pelo fabricante. Se este não der quaisquer indicações, a temperatura deve ser 80 ± 5 º.C.\n\n5.1.3.9.2. Motores arrefecidos por ar\n\nPara os motores arrefecidos por ar, a temperatura num ponto determinado pelo fabricante deve ser mantida entre o valor máximo TM previsto pelo fabricante e TM-20 º.C.\n\n5.1.3.10. A temperatura do combustível à entrada da bomba de injecção ou do carburador deve ser mantida dentro dos limites fixados pelo fabricante.\n\n5.1.3.11. A temperatura do óleo, medida no carter ou à saída do radiator de óleo, se existir, deve estar compreendida entre os limites fixados pelo fabricante.\n\n5.1.3.12. A temperatura dos gases de escape deve ser medida num ponto adjacente à(às) fixação(ões) do(s) colectores de escape. A temperatura não deverá ultrapassar o valor indicado pelo fabricante.\n\n5.1.3.13. Sistema de arrefecimento auxiliar\n\nPode ser utilizado, se necessário, um sistema de arrefecimento auxiliar para manter as temperaturas dentro dos limites previstos nos pontos 5.1.3.9 a 5.1.3.12. (1)JO nº. L 190 de 20.8.1972, p. 1. (2)JO nº. L 76 de 6.4.1970, p. 1. (3)JO nº. L 223 de 14.8.1978, p. 48.\n\n5.1.4. Desenvolvimento dos ensaios\n\nEfectuar as medições a um número suficiente de velocidades de rotação para definir completamente a curva de potência a plena carga entre a velocidade mais baixa e a velocidade mais elevada, indicadas pelo fabricante. Esta gama de velocidades deve incluir a velocidade de rotação na qual o motor dá a sua potência máxima. Para cada velocidade, tomar a média de duas medições estabilizadas.\n\n5.1.5. Medições do índice de fumo\n\nNo caso dos motores Diesel, deve ser controlado no decurso do ensaio que os gases de escape obedecem às condições descritas no Anexo VI da Directiva 72/306/CEE.\n\n5.2. Factores de correcção\n\n5.2.1. Definição\n\nO factor de correção é o coeficiente K pelo qual a potência observada deve ser multiplicada para determinar a potência do motor, reduzida às condições atmosféricas de referência especificadas no ponto 5.2.2.\n\n5.2.2. Condições atmosféricas de referência\n\n5.2.2.1. Temperatura: 25 º.C.\n\n5.2.2.2. Pressão seca (ps): 990 mbar.\n\n5.2.3. Condições que devem ser cumpridas no laboratório >PIC FILE= \"T0013924\">\n\n5.2.4. Determinação dos factores de correcção\n\n5.2.4.1. Caso dos motores de ignição comandada (de carburador ou de injecção) Factor Ka.\n\nO factor de correcção é obtido utilizando a fórmula:\n\nem que: >PIC FILE= \"T0013925\">\n\nT = temperatura absoluta em 2OK do ar aspirado pelo motor,\n\nps = pressão atmosférica seca em mbar, ou seja, a pressão barométrica total deduzida da pressão de vapor de água.\n\n5.2.4.2. Caso dos motores Diesel - Factor Kd\n\n5.2.4.2.1. Motores Diesel a quatro tempos, não sobre-alimentados, e motores Diesel a dois tempos:\n\nO factor de correcção é obtido pela fórmula:\n\nem que: >PIC FILE= \"T0013926\">\n\nT = temperatura em ºK do ar aspirado pelo motor,\n\nps = pressão atmosférica seca em mbar.\n\n5.2.4.2.2. Motores Diesel a quatro tempos sobre-alimentados\n\n5.2.4.2.2.1. Turbocompressor accionado pelos gases de escape\n\nNão é feita qualquer correcção à potência. Contudo, quando a densidade do ar ambiente diferir em mais de 5 % da densidade do ar nas condições de referência (25 º.C e 1 000 mbar), devem ser indicadas no relatório do ensaio as respectivas condições.\n\n5.2.4.2.2.2. Compressor accionado mecanicamente\n\n5.2.4.2.2.2.1. Define-se a relação r pela fórmula seguinte: >PIC FILE= \"T0013927\">\n\nem que:\n\nD = débito de combustível em milímetros cúbicos por ciclo do motor,\n\nV = cilindrada do motor em litros,\n\nP 1 = pressão ambiente,\n\nP 2 = pressão no colector de admissão do motor,\n\nT 1 = temperatura ambiente em ºK (segundo a definição do ponto 5.1.3.3),\n\nT 2 = temperatura no colector de admissão do motor em ºK.\n\n5.2.4.2.2.2.2. O factor de correcção para os motores com compressor accionado mecanicamente será o mesmo que se utiliza para os motores não sobre-alimentados se r for superior ou igual a 50 mm 3/l, e igual a 1 se r for inferior a 50 mm 3/l.\n\n5.3. Relatório do ensaio\n\nO relatório do ensaio deve indicar os resultados e todos os cálculos necessários para obter a potência útil indicada no Anexo II, assim como as características do motor indicadas nos Apêndices 1 ou 2 do presente Anexo.\n\n5.4. Modificação do tipo do motor\n\nQualquer modificação do motor, no que respeita às características indicadas nos Apêndices 1 ou 2 do presente Anexo, deve ser levada ao conhecimento da autoridade administrativa competente. Esta autoridade pode: 5.4.1. Ou considerar que as modificações efectuadas não correm o risco de ter uma influência sensível na potência do motor.\n\n5.4.2. Ou pedir uma nova determinação da potência do motor, efectuando os ensaios que julgar necessários.\n\n6. TOLERÂNCIAS NA MEDIÇÃO DA POTÊNCIA ÚTIL\n\n6.1. A potência útil, tal como terá sido determinada pelo serviço técnico, pode diferir ± 2 % da potência útil especificada pelo fabricante, com uma tolerância de 1,5 % para o regime do motor.\n\n6.2. A potência útil de um motor, na ocasião de um ensaio de conformidade da produção, pode diferir ± 5 % da potência útil determinada na ocasião do ensaio de homologação do modelo.\n\nApêndice 1\n\n>PIC FILE= \"T0013928\"> >PIC FILE= \"T0013929\">\n\n>PIC FILE= \"T0013930\">\n\n>PIC FILE= \"T0013931\">\n\nApêndice 2\n\n>PIC FILE= \"T0013932\"> >PIC FILE= \"T0013933\">\n\n>PIC FILE= \"T0013934\">\n\n>PIC FILE= \"T0013935\">"
+  },
+  "235398a494cd6f79": {
+   "fragment_id": "ANEXO II — >PIC FILE= \"T0013936\"> >PIC FILE= \"T0013937\">",
+   "type": "divisao",
+   "heading": "ANEXO II — >PIC FILE= \"T0013936\"> >PIC FILE= \"T0013937\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >PIC FILE= \"T0013936\"> >PIC FILE= \"T0013937\">\n\n>PIC FILE= \"T0013938\">\n\n>PIC FILE= \"T0013939\">"
+  },
+  "db4a99c0e1f8efac": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1980L1269 — PT — 31.12.2013 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31980L1269) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31980L1269) [de 16 de Dezembro de 1980](http://publications.europa.eu/resource/celex/31980L1269) [relativa à aproximação das legislações dos Estados-membros respeitantes à potência dos motores dos veículos a motor](http://publications.europa.eu/resource/celex/31980L1269) [(80/1269/CEE)](http://publications.europa.eu/resource/celex/31980L1269) (JO L 375, 31.12.1980, p.46)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 595/2009 do Parlamento Europeu e do Conselho de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0595) — L 188 — 1 — 18.7.2009"
+  }
+ }
+}

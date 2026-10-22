@@ -34,6 +34,100 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-04-01'
+version_history:
+  file: regulamento-ue-2007-593.versoes.json
+  count: 4
+  source_lastmod: '2014-04-01'
+  versions:
+  - date: '2007-06-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-01'
+    amending: eu:celex:32008R1356:por
+    amending_title: REGULAMENTO (CE) N. o 1356/2008 DA COMISSÃO de 23 de Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Nota explicativa
+    - Adita PARTE I
+    - Adita Operações pelas quais é facturado um montante fixo
+    - Adita PARTE II
+    - Adita Operações facturadas à hora
+    - Adita PARTE III
+    - Adita Taxas para outras operações relacionadas com a certificação
+    - Adita PARTE IV
+    - Adita Honorários cobrados por recursos
+    - Adita PARTE V
+    - Adita Taxa de inflação anual
+    - Adita PARTE VI
+    - Adita Informação de desempenho
+  - date: '2012-04-01'
+    amending: eu:celex:32012R0494:por
+    amending_title: REGULAMENTO (UE) N. o 494/2012 DA COMISSÃO de 11 de junho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Altera ANEXO
+    - Altera Nota explicativa
+    - Altera Operações pelas quais é facturado um montante fixo
+    - Altera Operações facturadas à hora
+    - Altera Honorários cobrados por recursos
+    - Altera Notas
+  - date: '2014-04-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime CAPÍTULO II
+    - Suprime TAXAS
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime CAPÍTULO III
+    - Suprime HONORÁRIOS
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime CAPÍTULO IV
+    - Suprime DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime ANEXO
+    - Suprime Nota explicativa
+    - Suprime PARTE I
+    - Suprime Operações pelas quais é facturado um montante fixo
+    - Suprime PARTE II
+    - Suprime Operações facturadas à hora
+    - Suprime PARTE III
+    - Suprime Taxas para outras operações relacionadas com a certificação
+    - Suprime PARTE IV
+    - Suprime Honorários cobrados por recursos
+    - Suprime PARTE V
+    - Suprime Taxa de inflação anual
+    - Suprime PARTE VI
+    - Suprime Informação de desempenho
+    - Suprime Notas
 identifiers:
   celex: 32007R0593
   eli: http://data.europa.eu/eli/reg/2007/593/oj
@@ -48,7 +142,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8b1cbefc-bd86-49b1-b31b-a5d83099f3c6.0018
   content_url: http://publications.europa.eu/resource/cellar/2d01c93c-105f-4fea-9eed-7c848bc918ce.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0593-20140401
-  retrieved_at: '2026-10-22T03:13:07Z'
+  retrieved_at: '2026-10-22T15:08:46Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T08:58:24.639+01:00'
 integrity:
@@ -57,9 +151,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:07Z'
-  notes: Texto consolidado 02007R0593-20140401.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:08:46Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2007-593.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -111,16 +205,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:07Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:08:46Z'
+  warnings: []
   errors: []
 ---
 

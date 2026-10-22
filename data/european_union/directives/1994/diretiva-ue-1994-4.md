@@ -35,6 +35,40 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-01'
+version_history:
+  file: diretiva-ue-1994-4.versoes.json
+  count: 3
+  source_lastmod: '2007-01-01'
+  versions:
+  - date: '1994-03-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+  - date: '2007-01-01'
+    amending: eu:celex:31994L0075:por
+    amending_title: M1; DIRECTIVA 98/94/CE DO CONSELHO de 14 de Dezembro de 1998; DIRECTIVA 2006/112/CE DO CONSELHO de 28
+      de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Suprime Artigo 2.º
 identifiers:
   celex: 31994L0004
   eli: http://data.europa.eu/eli/dir/1994/4/oj
@@ -49,7 +83,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c075eda8-18bc-483a-9f2b-93897c33e0d7.0011
   content_url: http://publications.europa.eu/resource/cellar/97f8ec8a-61f1-4bd1-94ea-0b74d5eb7be2.0014.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0004-20070101
-  retrieved_at: '2026-10-22T02:56:02Z'
+  retrieved_at: '2026-10-22T14:42:56Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T02:18:43.862+01:00'
 integrity:
@@ -58,9 +92,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:02Z'
-  notes: Texto consolidado 01994L0004-20070101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:56Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1994-4.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -125,33 +159,20 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:02Z'
-  warnings: []
+  checked_at: '2026-10-22T14:42:56Z'
+  warnings:
+  - '01994L0004-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01994L0004-19980101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 94/4/CE do Conselho, de 14 de Fevereiro de 1994
-
-> 01994L0004 — PT — 01.01.2007 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/31994L0075) — [DIRECTIVA 94/75/CE DO CONSELHO de 22 de Dezembro de 1994](http://publications.europa.eu/resource/celex/31994L0075) — L 365 — 52 — 31.12.1994
-- [►M2](http://publications.europa.eu/resource/celex/31998L0094) — [DIRECTIVA 98/94/CE DO CONSELHO de 14 de Dezembro de 1998](http://publications.europa.eu/resource/celex/31998L0094) — L 358 — 105 — 31.12.1998
-- [►M3](http://publications.europa.eu/resource/celex/32006L0112) — [DIRECTIVA 2006/112/CE DO CONSELHO de 28 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0112) — L 347 — 1 — 11.12.2006
-
-| NB: Esta versão consolidada contém referências à unidade de conta europeia e/ou ao ecu, que a partir de 1 de Janeiro de 1999 devem ser interpretadas como referências ao euro — Regulamento (CEE) n.o 3308/80 do Conselho (JO L 345 de 20.12.1980, p. 1) e Regulamento (CE) n.o 1103/97 do Conselho (JO L 162 de 19.6.1997, p. 1). |
-| --- |
-
-## DIRECTIVA 94/4/CE DO CONSELHO
 
 de 14 de Fevereiro de 1994
 

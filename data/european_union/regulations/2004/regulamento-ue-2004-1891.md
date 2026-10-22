@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: regulamento-ue-2004-1891.versoes.json
+  count: 1
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2014-01-01'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32004R1891
   eli: http://data.europa.eu/eli/reg/2004/1891/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9fab613d-5dd2-403c-831f-61b9be7274bc.0016
   content_url: http://publications.europa.eu/resource/cellar/3c2b0820-7430-4630-8787-583ba1483d8e.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R1891-20140101
-  retrieved_at: '2026-10-22T03:12:01Z'
+  retrieved_at: '2026-10-22T14:59:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-06-05T08:47:18.727+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:01Z'
-  notes: Texto consolidado 02004R1891-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:00Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2004-1891.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -113,16 +122,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:01Z'
+  checked_at: '2026-10-22T14:59:00Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02004R1891-20071006: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R1891-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

@@ -37,6 +37,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-04-20'
+version_history:
+  file: diretiva-ue-2004-10.versoes.json
+  count: 2
+  source_lastmod: '2009-04-20'
+  versions:
+  - date: '2004-02-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-04-20'
+    amending: eu:celex:32009R0219:por
+    amending_title: REGULAMENTO (CE) n. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera SECÇÃO II PRINCÍPIOS DE BOAS PRÁTICAS DE LABORATÓRIO
+    - Adita Artigo 3.ºA
+    - Adita ANEXO I
+    - Adita PRINCÍPIOS DE BOAS PRÁTICAS DE LABORATÓRIO (BPL) DA OCDE
+    - Adita SECÇÃO I INTRODUÇÃO
+    - Adita Prefácio
+    - Adita 1. Âmbito
+    - Adita 2. Definição dos termos
+    - Adita 2.1. Boas práticas de laboratório
+    - Adita 2.2. Termos relacionados com a organização das instalações de ensaio
+    - Adita 2.3. Termos relacionados com os estudos não clínicos de segurança para a saúde e o ambiente.
+    - Adita 2.4. Termos relacionados com a substância em estudo
+    - Adita 1. Organização e pessoal da instalação de ensaio
+    - Adita 1.1. Responsabilidades da administração da instalação de ensaio
+    - Adita 1.2. Responsabilidades do director do estudo
+    - Adita 1.3. Responsabilidades do investigador principal
+    - Adita 1.4. Responsabilidades do pessoal do estudo
+    - Adita 2. Programa de garantia da qualidade
+    - Adita 2.1. Generalidades
+    - Adita 2.2. Responsabilidades do pessoal de garantia da qualidade
+    - Adita 3. Instalações
+    - Adita 3.1. Generalidades
+    - Adita 3.2. Instalações dos sistemas de ensaio
+    - Adita 3.3. Instalações para manuseamento das substâncias para estudo e de referência
+    - Adita 3.4. Instalações de arquivo
+    - Adita 3.5. Eliminação de resíduos
+    - Adita 4. Equipamentos, materiais e reagentes
+    - Adita 5. Sistemas de ensaio
+    - Adita 5.1. Físicos/químicos
+    - Adita 5.2. Biológicos
+    - Adita 6. Substâncias para estudo e de referência
+    - Adita 6.1. Recepção, manuseamento, amostragem e armazenamento
+    - Adita 6.2. Caracterização
+    - Adita 7. Procedimentos habituais de funcionamento
+    - Adita 8. Execução do estudo
+    - Adita 8.1. Plano de estudo
 identifiers:
   celex: 32004L0010
   eli: http://data.europa.eu/eli/dir/2004/10/oj
@@ -51,7 +104,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fdf7e627-e1c2-44d0-af8e-bda96bb1e3c6.0010
   content_url: http://publications.europa.eu/resource/cellar/b78b6aee-a9b4-468e-b21e-0d5e54acbe91.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0010-20090420
-  retrieved_at: '2026-10-22T02:57:44Z'
+  retrieved_at: '2026-10-22T14:56:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T19:17:42.512+01:00'
 integrity:
@@ -60,9 +113,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:44Z'
-  notes: Texto consolidado 02004L0010-20090420.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:36Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2004-10.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -116,29 +169,19 @@ relationships:
   date: '1987-01-17'
 article_structure:
   article_count: 9
-  section_count: 45
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 46
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:44Z'
+  checked_at: '2026-10-22T14:56:36Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2004/10/CE do Parlamento Europeu e do Conselho, de 11 de Fevereiro de 2004
-
-> 2004L0010 — PT — 20.04.2009 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) n.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-
-## DIRECTIVA 2004/10/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de Fevereiro de 2004
 

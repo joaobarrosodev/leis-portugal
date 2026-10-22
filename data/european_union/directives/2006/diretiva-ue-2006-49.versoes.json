@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006L0049:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0049-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "02006L0049-20140101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c37baea5c9830b7a"
+   ]
+  }
+ ],
+ "fragments": {
+  "c37baea5c9830b7a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2006L0049 — PT — 01.01.2014 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32006L0049) [DIRECTIVA 2006/49/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32006L0049) [de 14 de Junho de 2006](http://publications.europa.eu/resource/celex/32006L0049) [relativa à adequação dos fundos próprios das empresas de investimento e das instituições de crédito (reformulação)](http://publications.europa.eu/resource/celex/32006L0049) (JO L 177, 30.6.2006, p.201)\n\n**revogado por:**\n\n- [Diretiva 2013/36/UE do Parlamento Europeu e do Conselho de 26 de junho de 2013](http://publications.europa.eu/resource/celex/32013L0036) — L 176 — 338 — 27.6.2013"
+  }
+ }
+}

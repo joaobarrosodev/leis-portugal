@@ -35,6 +35,49 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-12-29'
+version_history:
+  file: diretiva-ue-1998-37.versoes.json
+  count: 2
+  source_lastmod: '2009-12-29'
+  versions:
+  - date: '1998-07-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-29'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I ÂMBITO DE APLICAÇÃO, COLOCAÇÃO NO MERCADO E LIVRE CIRCULAÇÃO — Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime CAPÍTULO II PROCESSOS DE AVALIAÇÃO DA CONFORMIDADE — Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime CAPÍTULO III MARCAÇÃO «CE» — Artigo 10º
+    - Suprime CAPÍTULO IV DISPOSIÇÕES FINAIS — Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime ANEXO I — EXIGÊNCIAS ESSENCIAIS DE SEGURANÇA E DE SAÚDE RELATIVAS À CONCEPÇÃO E À CONSTRUÇÃO DE MÁQUINAS E DE
+      COMPONENTES DE SEGURANÇA
+    - Suprime ANEXO II — A. Conteúdo da declaração CE de conformidade para as máquinas (1)
+    - Suprime ANEXO III — MARCAÇÃO «CE» DE CONFORMIDADE
+    - Suprime ANEXO IV — TIPOS DE MÁQUINAS E DE COMPONENTES DE SEGURANÇA PARA OS QUAIS É NECESSÁRIO APLICAR O PROCESSO REFERIDO
+      NO Nº 2, ALÍNEAS b) E c), DO ARTIGO 8º
+    - Suprime ANEXO V — DECLARAÇÃO CE DE CONFORMIDADE
+    - Suprime ANEXO VI — EXAME CE DE TIPO
+    - Suprime ANEXO VII — CRITÉRIOS MÍNIMOS QUE DEVEM SER TOMADOS EM CONSIDERAÇÃO PELOS ESTADOS-MEMBROS PARA A NOTIFICAÇÃO
+      DOS ORGANISMOS
+    - Suprime ANEXO VIII — Parte A
+    - Suprime Parte B — Lista dos prazos de transposição para o direito nacional e de aplicação (referidos no artigo 14º)
+    - Suprime ANEXO IX — >POSIÇÃO NUMA TABELA>
 identifiers:
   celex: 31998L0037
   eli: http://data.europa.eu/eli/dir/1998/37/oj
@@ -49,7 +92,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e1b51194-d4e5-4d00-8a77-356adb60be19.0011
   content_url: http://publications.europa.eu/resource/cellar/4e9b4cc8-a0e8-4b83-b65f-58cd5e5ee66b.0012.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0037-20091229
-  retrieved_at: '2026-10-22T02:47:07Z'
+  retrieved_at: '2026-10-22T14:46:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T06:29:19.818+01:00'
 integrity:
@@ -58,9 +101,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:07Z'
-  notes: Texto consolidado 01998L0037-20091229.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:48Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1998-37.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -186,16 +229,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:07Z'
+  checked_at: '2026-10-22T14:46:48Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01998L0037-19980812: versão indisponível (Sem expressão na língua por para CELEX 01998L0037-19980812.)'
+  - '01998L0037-19981207: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

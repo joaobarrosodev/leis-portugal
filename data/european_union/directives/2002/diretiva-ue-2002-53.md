@@ -34,6 +34,29 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2004-04-18'
+version_history:
+  file: diretiva-ue-2002-53.versoes.json
+  count: 2
+  source_lastmod: '2004-04-18'
+  versions:
+  - date: '2002-07-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-04-18'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 20.º
+    - Altera Artigo 23.º
+    - Altera Artigo 28.º
+    - Altera ANEXO I — PARTE A
+    - Altera PARTE B — LISTA DOS PRAZOS DE TRANSPOSIÇÃO PARA O DIREITO NACIONAL
+    - Altera ANEXO II — QUADRO DE CORRESPONDÊNCIA
 identifiers:
   celex: 32002L0053
   eli: http://data.europa.eu/eli/dir/2002/53/oj
@@ -48,7 +71,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3b237693-9bb0-4d15-8203-f56d0d95c71f.0010
   content_url: http://publications.europa.eu/resource/cellar/b3f5726f-2b2c-4c05-bb01-93102973d820.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0053-20040418
-  retrieved_at: '2026-10-22T02:37:40Z'
+  retrieved_at: '2026-10-22T14:51:46Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-04T11:39:51.714+02:00'
 integrity:
@@ -57,9 +80,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:40Z'
-  notes: Texto consolidado 02002L0053-20040418.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:46Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2002-53.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -279,15 +302,14 @@ relationships:
 article_structure:
   article_count: 28
   section_count: 3
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:40Z'
-  warnings:
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:51:46Z'
+  warnings: []
   errors: []
 ---
 

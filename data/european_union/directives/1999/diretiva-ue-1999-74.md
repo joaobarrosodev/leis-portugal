@@ -34,6 +34,48 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-14'
+version_history:
+  file: diretiva-ue-1999-74.versoes.json
+  count: 3
+  source_lastmod: '2019-12-14'
+  versions:
+  - date: '2003-06-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-01'
+    amending: eu:celex:32003R0806:por
+    amending_title: REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003; DIRETIVA 2013/64/UE DO CONSELHO de
+      17 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera ANEXO
+    - Adita CAPÍTULO I
+    - Adita Disposições aplicáveis a sistemas alternativos
+    - Adita CAPÍTULO II
+    - Adita Disposições aplicáveis à criação em gaiolas não melhoradas
+    - Adita CAPÍTULO III
+    - Adita Disposições aplicáveis à criação em gaiolas melhoradas
+    - Adita CAPÍTULO IV
+    - Adita Disposições finais
+    - Adita Notas
+    - Suprime CAPÍTULO I — Disposições aplicáveis a sistemas alternativos
+    - Suprime CAPÍTULO II — Disposições aplicáveis à criação em gaiolas não melhoradas
+    - Suprime CAPÍTULO III — Disposições aplicáveis à criação em gaiolas melhoradas
+    - Suprime CAPÍTULO IV — Disposições finais
+  - date: '2019-12-14'
+    amending: eu:celex:32017R0625:por
+    amending_title: REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Notas
+    - Suprime Artigo 9.º
 identifiers:
   celex: 31999L0074
   eli: http://data.europa.eu/eli/dir/1999/74/oj
@@ -48,7 +90,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d0e8c1b1-26be-4532-83c7-62064ccedb37.0009
   content_url: http://publications.europa.eu/resource/cellar/c5b06d02-27e1-11ea-af81-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0074-20191214
-  retrieved_at: '2026-10-22T02:47:15Z'
+  retrieved_at: '2026-10-22T14:47:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T08:02:53.184+01:00'
 integrity:
@@ -57,9 +99,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:15Z'
-  notes: Texto consolidado 01999L0074-20191214.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:58Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1999-74.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -129,31 +171,20 @@ relationships:
   date: '1988-03-19'
 article_structure:
   article_count: 14
-  section_count: 9
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 10
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:15Z'
-  warnings: []
+  checked_at: '2026-10-22T14:47:58Z'
+  warnings:
+  - '01999L0074-19990803: versão indisponível (Sem expressão na língua por para CELEX 01999L0074-19990803.)'
   errors: []
 ---
 
 # Directiva 1999/74/CE do Conselho de 19 de Julho de 1999
-
-> 01999L0074 — PT — 14.12.2019 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003R0806) — [REGULAMENTO (CE) N.º 806/2003 DO CONSELHO de 14 de Abril de 2003](http://publications.europa.eu/resource/celex/32003R0806) — L 122 — 1 — 16.5.2003
-- [►M2](http://publications.europa.eu/resource/celex/32013L0064) — [DIRETIVA 2013/64/UE DO CONSELHO de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013L0064) — L 353 — 8 — 28.12.2013
-- [►M3](http://publications.europa.eu/resource/celex/32017R0625) — [REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017](http://publications.europa.eu/resource/celex/32017R0625) — L 95 — 1 — 7.4.2017
-
-## DIRECTIVA 1999/74/CE DO CONSELHO
 
 de 19 de Julho de 1999
 

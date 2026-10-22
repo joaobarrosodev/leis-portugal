@@ -1,0 +1,199 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000L0055:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0055-20100413",
+ "dre_path": null,
+ "source_lastmod": "2010-04-13",
+ "versions": [
+  {
+   "date": "2000-11-01",
+   "future": false,
+   "celex": "32000L0055",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "88370a496e700fdd",
+    "ff05413027174ec8",
+    "2c070a8db573beeb",
+    "0482ad03915872b2",
+    "d8343e25092fda3f",
+    "603b9f16efbbc2ea",
+    "10c0ee26fd0bfab5",
+    "4379e0381733b078",
+    "e3295b0e687f2d93",
+    "7ad3221eeb720781",
+    "c5e41c10df01395d",
+    "c5c0cd7618ef406b",
+    "0cb4422ac58af6b1",
+    "c1479b4e7adea847",
+    "f36b8977d3ee4281",
+    "86fc4ab6b778bae6"
+   ]
+  },
+  {
+   "date": "2010-04-13",
+   "future": false,
+   "celex": "02000L0055-20100413",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime ANEXO I — CATEGORIAS DE BALASTROS",
+    "Suprime ANEXO II — MÉTODO DE CÁLCULO DA POTÊNCIA MÁXIMA DE ENTRADA DOS CIRCUITOS BALASTRO-LÂMPADA PARA UM DADO TIPO DE BALASTRO",
+    "Suprime ANEXO III — PRIMEIRA FASE",
+    "Suprime ANEXO IV — SEGUNDA FASE"
+   ],
+   "fragments": [
+    "9a7316c766620892"
+   ]
+  }
+ ],
+ "fragments": {
+  "88370a496e700fdd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2000/55/CE do Parlamento Europeu e do Conselho, de 18 de Setembro de 2000, relativa às normas de eficiência energética para balastros de fontes de iluminação fluorescente** *Jornal Oficial nº L 279 de 01/11/2000 p. 0033 - 0039*\n\nDirectiva 2000/55/CE do Parlamento Europeu e do Conselho\n\nde 18 de Setembro de 2000\n\nrelativa às normas de eficiência energética para balastros de fontes de iluminação fluorescente\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente o seu artigo 95.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social(2),\n\nDeliberando nos termos do artigo 251.o do Tratado(3),\n\nConsiderando o seguinte:\n\n(1) Importa promover medidas que garantam o bom funcionamento do mercado interno e que, simultaneamente, promovam a economia de energia, a protecção do ambiente e a protecção do consumidor.\n\n(2) A iluminação fluorescente representa para uma parte significativa do consumo de electricidade na Comunidade e, portanto, do consumo total de energia. Os vários modelos de balastros para iluminação fluorescente disponíveis no mercado comunitário têm níveis de consumo muito diferentes para um determinado tipo de lâmpada, ou seja, uma eficiência energética extremamente variável.\n\n(3) A presente directiva visa reduzir o consumo energético dos balastros de fontes de iluminação fluorescente, mediante a eliminação gradual dos balastros menos eficientes e a introdução de balastros mais eficientes, eventualmente com características que permitam poupar energia.\n\n(4) Alguns Estados-Membros estão em vias de adoptar disposições sobre o rendimento dos balastros para fontes de iluminação fluorescente, o que é susceptível de criar entraves ao comércio desses produtos no interior da Comunidade.\n\n(5) É adequado tomar como base um elevado nível de protecção nas propostas relativas à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros em matéria de saúde, segurança, protecção ambiental e defesa dos consumidores. A presente directiva garante um elevado nível de protecção do ambiente e dos consumidores, na medida em que visa uma melhoria significativa da eficiência energética dos balastros.\n\n(6) De acordo com os princípios da subsidiariedade e da proporcionalidade estabelecidos no artigo 5.o do Tratado, os objectivos da presente acção, na medida em que não podem ser suficientemente realizados pelos Estados-Membros, podem pois, devido à dimensão e aos efeitos da acção prevista, ser melhor alcançados ao nível comunitário. A presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(7) Impõe-se instituir um dispositivo de execução eficaz para que a directiva seja correctamente aplicada, garanta aos fabricantes condições de concorrência equitativas e proteja os direitos dos consumidores.\n\n(8) A Decisão 93/465/CEE do Conselho, de 22 de Julho de 1993, relativa aos módulos referentes às diversas fases dos procedimentos de avaliação da conformidade e às regras de aposição e de utilização da marcação de conformidade CE(4), destinados a serem utilizados nas directivas de harmonização técnica é aplicável, excepto no que se refere à marcação e retirada do mercado, casos em que a não observância da directiva, em determinada medida, se justifica pelo tipo de produto e pela situação específica do mercado.\n\n(9) No interesse do comércio internacional, devem ser utilizadas, sempre que pertinente, as normas internacionais. O consumo de electricidade de um balastro é definido pela norma do Comité Europeu de Normalização Electrotécnica EN 50294, de Dezembro de 1998, a qual se baseia em normas internacionais.\n\n(10) Para poderem circular livremente, os balastros de fontes de iluminação fluorescente que cumpram as disposições da presente directiva relativas à eficiência energética devem exibir a marcação \"CE\" e toda a informação associada.\n\n(11) A presente directiva é restrita aos balastros de fontes de iluminação fluorescente alimentados pela rede de distribuição eléctrica,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "ff05413027174ec8": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva é aplicável aos balastros para fontes de iluminação fluorescente, alimentados a partir da rede eléctrica, definidos na norma europeia EN 50294, de Dezembro de 1998, ponto 3.4, e a seguir designados \"balastros\".\n\n2. São excluídos da presente directiva os seguintes tipos de balastros:\n\n- os balastros que se encontram integrados em lâmpadas,\n\n- os balastros concebidos especialmente para equipamentos de iluminação a montar em peças de mobiliário, e que constituam uma parte não substituível do equipamento de iluminação, que não pode ser testada separadamente desse equipamento (em conformidade com a norma europeia EN 60920, ponto 2.1.3) e\n\n- os balastros que se destinam à exportação para fora da Comunidade, quer como componentes isolados quer integrados em equipamentos de iluminação.\n\n3. Os balastros são classificados em conformidade com o anexo I."
+  },
+  "2c070a8db573beeb": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros devem tomar todas as medidas necessárias para garantir que, durante uma primeira fase, os balastros só possam ser comercializados, quer como componentes isolados quer integrados em equipamentos de iluminação, se o seu consumo de electricidade for inferior ou igual à potência máxima de entrada do circuito balastro-lâmpada, tal como definido nos anexos I, II e III para cada categoria de balastros.\n\n2. O fabricante de um balastro, o seu mandatário estabelecido na Comunidade ou a pessoa responsável pela colocação do balastro no mercado, quer como componente isolado quer integrado em equipamentos de iluminação, deve garantir que cada balastro comercializado, quer como componente isolado quer integrado em equipamentos de iluminação, satisfaça os requisitos previstos no n.o 1."
+  },
+  "0482ad03915872b2": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros não podem proibir, restringir ou impedir no seu território a comercialização de balastros, quer como componentes isolados quer integrados em equipamentos de iluminação, que tenham aposta a marcação \"CE\", certificadora da conformidade dos mesmos com as disposições da presente directiva.\n\n2. Salvo prova em contrário, os Estados-Membros presumem que os balastros, quer como componentes isolados quer integrados em equipamentos de iluminação, que tenham aposta a marcação \"CE\" exigida nos termos do artigo 5.o estão conformes com as disposições da presente directiva."
+  },
+  "d8343e25092fda3f": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sem prejuízo dos artigos 5.o e 6.o, as normas processuais para a avaliação da conformidade de balastros, quer como componentes separados quer integrados em equipamentos de iluminação, e as regras de aposição e utilização da marcação de conformidade CE devem respeitar o módulo A da Decisão 93/465/CEE do Conselho, bem como os critérios estabelecidos nessa mesma decisão e as orientações gerais constantes do respectivo anexo.\n\n2. Para efeitos da presente directiva, o período referido no n.o 2 do módulo A da Decisão 93/465/CEE do Conselho é de 3 anos.\n\n3. a) O conteúdo da documentação técnica referida no n.o 3 do módulo A da Decisão 93/465/CEE do Conselho deve incluir:\n\ni) O nome e o endereço do fabricante;\n\nii) Uma descrição geral do modelo que permita identificá-lo inequivocamente;\n\niii) Informações, incluindo, se necessário, um desenho das peças, sobre as principais características de concepção do modelo e, em especial, sobre as características que afectem significativamente o seu consumo de electricidade;\n\niv) As instruções de utilização;\n\nv) Os resultados da medição do consumo de electricidade, efectuada nos termos da alínea c);\n\nvi) Informações pormenorizadas sobre a conformidade dessa medição com os requisitos de consumo de energia estabelecidos no anexo I.\n\nb) A documentação técnica criada para dar cumprimento a outra legislação comunitária pode ser utilizada, sob condição de respeitar as presentes disposições.\n\nc) Os fabricantes dos balastros são responsáveis pela determinação do consumo de electricidade de cada balastro, segundo os procedimentos previstos na norma europeia EN 50294, de Dezembro de 1998, bem como pela conformidade do aparelho com o disposto nos artigos 2.o e 9.o"
+  },
+  "603b9f16efbbc2ea": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs balastros devem ter aposta a marca \"CE\" ao serem colocados no mercado, quer como componentes isolados quer integrados em equipamentos de iluminação. Esta marcação, constituída pelas iniciais \"CE\", deve ser aposta de modo visível, legível e indelével nos balastros e na respectiva embalagem. Sempre que os balastros sejam colocados no mercado já incorporados em equipamentos de iluminação, a marcação \"CE\" deve ser aposta nos equipamentos de iluminação e respectivas embalagens."
+  },
+  "10c0ee26fd0bfab5": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Sempre que um Estado-Membro verifique que a marcação \"CE\" foi aposta indevidamente, o fabricante, ou o seu mandatário estabelecido na Comunidade, será obrigado a repor o balastro em conformidade com a presente directiva e a pôr termo à infracção nas condições fixadas pelo Estado-Membro em causa. Quando nem o fabricante nem o seu mandatário estiverem estabelecidos na Comunidade, aquela obrigação caberá à pessoa responsável pela colocação do balastro no mercado, quer como componente isolado quer integrado em equipamentos de iluminação.\n\n2. Se os balastros não estiverem em conformidade com a presente directiva, o Estado-Membro tomará todas as medidas necessárias para proibir a sua colocação no mercado e a respectiva venda, em aplicação do disposto no artigo 7.o"
+  },
+  "4379e0381733b078": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Qualquer medida tomada por um Estado-Membro, nos termos da presente directiva, que inclua a proibição da colocação de balastros no mercado ou da respectiva venda, quer como componente isolado quer integrado em equipamentos de iluminação, deve ser devidamente fundamentada. O fabricante, o seu mandatário estabelecido na Comunidade ou a pessoa responsável pela colocação dos balastros no mercado deve ser imediatamente notificado dessa medida e, simultaneamente, informado das possibilidades e prazos de recurso judicial nos termos da legislação em vigor no Estado-Membro em causa.\n\n2. O Estado-Membro em questão deve informar sem demora a Comissão da medida tomada, fundamentando a sua decisão. A Comissão deve comunicar essa informação aos restantes Estados-Membros."
+  },
+  "e3295b0e687f2d93": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os Estados-Membros devem aprovar e publicar, no prazo de um ano a contar da data de entrada em vigor da presente directiva, as disposições legislativas, regulamentares e administrativas necessárias para lhe dar cumprimento e informar imediatamente a Comissão desse facto.\n\nOs Estados-Membros devem aplicar essas disposições no termo de um prazo de 18 meses a contar da data de entrada em vigor da presente directiva.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência quando da sua publicação oficial. As modalidades da referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva.\n\n3. Durante um período de 18 meses subsequente à entrada em vigor da presente directiva, os Estados-Membros devem autorizar a comercialização de balastros, quer como componentes isolados quer integrados em equipamentos de iluminação, que preencham os requisitos aplicáveis nos respectivos territórios à data da entrada em vigor da presente directiva."
+  },
+  "7ad3221eeb720781": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Cinco anos após a entrada em vigor da presente directiva, ou seja durante uma segunda fase, a potência máxima de entrada do circuito balastro-lâmpada deve respeitar os termos do anexo IV, em especial para efeitos do artigo 2.o\n\n2. Até 31 de Dezembro de 2005, a Comissão deve apresentar, ao Parlamento Europeu e ao Conselho, uma avaliação dos resultados obtidos em função dos resultados previstos. Tendo em vista atingir uma terceira fase de aumento da eficiência energética, a Comissão, em consulta com as partes interessadas, apresentará, se necessário, propostas relativas a posteriores melhorias da eficiência energética dos balastros. A potência máxima de entrada dos circuitos balastro-lâmpada e a data da sua entrada em vigor basear-se-ão em níveis económica e tecnicamente justificados em função das circunstâncias do momento. Deverá ser tida em conta qualquer outra medida considerada adequada para aumentar a eficiência energética inerente dos balastros e para incentivar a utilização de sistemas de controlo de iluminação que economizem energia."
+  },
+  "c5e41c10df01395d": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA presente directiva entra em vigor no vigésimo dia subsequente ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "c5c0cd7618ef406b": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 18 de Setembro de 2000.\n\nPelo Parlamento Europeu\n\nA Presidente\n\nN. Fontaine\n\nPelo Conselho\n\nO Presidente\n\nH. Védrine\n\n(1) JO C 274 E de 28.9.1999, p. 10.\n\n(2) JO C 368 de 20.12.1999, p. 11.\n\n(3) Parecer do Parlamento Europeu de 20 de Janeiro de 2000 (ainda não publicado no Jornal Oficial), posição comum do Conselho de 30 de Maio de 2000 (JO C 208 de 20.7.2000, p. 9) e decisão do Parlamento Europeu de 5 de Julho de 2000 (ainda não publicada no Jornal Oficial).\n\n(4) JO L 220 de 30.8.1993, p. 23."
+  },
+  "0cb4422ac58af6b1": {
+   "fragment_id": "ANEXO I — CATEGORIAS DE BALASTROS",
+   "type": "divisao",
+   "heading": "ANEXO I — CATEGORIAS DE BALASTROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — CATEGORIAS DE BALASTROS\n\nPara calcular a potência máxima de entrada do circuito balastro-lâmpada de um dado balastro, é necessário começar por classificá-lo numa das categorias da seguinte lista:\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "c1479b4e7adea847": {
+   "fragment_id": "ANEXO II — MÉTODO DE CÁLCULO DA POTÊNCIA MÁXIMA DE ENTRADA DOS CIRCUITOS BALASTRO-LÂMPADA PARA UM DADO TIPO DE BALASTRO",
+   "type": "divisao",
+   "heading": "ANEXO II — MÉTODO DE CÁLCULO DA POTÊNCIA MÁXIMA DE ENTRADA DOS CIRCUITOS BALASTRO-LÂMPADA PARA UM DADO TIPO DE BALASTRO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — MÉTODO DE CÁLCULO DA POTÊNCIA MÁXIMA DE ENTRADA DOS CIRCUITOS BALASTRO-LÂMPADA PARA UM DADO TIPO DE BALASTRO\n\nA eficiência energética do circuito balastro-lâmpada é determinada pela potência máxima de entrada do circuito, que, por sua vez, é função da potência da lâmpada e do tipo de balastro. Por esta razão, a potência máxima de entrada do circuito balastro-lâmpada de um dado balastro é definida como a potência máxima do circuito balastro-lâmpada, com níveis diferentes para cada potência de lâmpada e tipo de balastro.\n\nOs termos utilizados no presente anexo correspondem às definições da norma europeia EN 50294, de Dezembro de 1998, estabelecida pelo Comité Europeu de Normalização Electrotécnica."
+  },
+  "f36b8977d3ee4281": {
+   "fragment_id": "ANEXO III — PRIMEIRA FASE",
+   "type": "divisao",
+   "heading": "ANEXO III — PRIMEIRA FASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — PRIMEIRA FASE\n\nA potência máxima de entrada de um circuito balastro-lâmpada, expressa em W, é definida pelo seguinte quadro:\n\n>POSIÇÃO NUMA TABELA>\n\nSempre que um balastro seja concebido para uma lâmpada cuja potência se situe entre dois dos valores indicados no quadro acima representado, a potência máxima de entrada do circuito balastro-lâmpada será calculada por interpolação linear entre os dois valores da potência máxima de entrada correspondentes às duas potências de lâmpada mais próximas indicadas no quadro.\n\nPor exemplo, se um balastro da categoria de lâmpada 1 for concebido para uma lâmpada de 48 W a 50 Hz, a potência máxima de entrada do circuito balastro-lâmpada será calculada como se segue:\n\n>REFERÊNCIA A UM GRÁFICO>"
+  },
+  "86fc4ab6b778bae6": {
+   "fragment_id": "ANEXO IV — SEGUNDA FASE",
+   "type": "divisao",
+   "heading": "ANEXO IV — SEGUNDA FASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — SEGUNDA FASE\n\nA potência máxima de entrada de um circuito balastro-lâmpada, expressa em W, é definida pelo seguinte quadro:\n\n>POSIÇÃO NUMA TABELA>\n\nSempre que um balastro seja concebido para uma lâmpada cuja potência se situe entre dois dos valores indicados no quadro acima apresentado, a potência máxima de entrada do circuito balastro-lâmpada será calculada por interpolação linear entre os dois valores da potência máxima de entrada correspondentes às duas potências de lâmpada mais próximas indicadas no quadro.\n\nPor exemplo, se um balastro da categoria de lâmpada 1 for concebido para uma lâmpada de 48 W a 50 Hz, a potência máxima de entrada do circuito balastro-lâmpada será calculada como se segue:\n\n>REFERÊNCIA A UM GRÁFICO>\n\nDeclarações conjuntas do Parlamento Europeu, do Conselho e da Comissão\n\nA Comissão avaliará também a parte da produção de balastros da Comunidade exportada para fora do mercado comunitário, como componente separado ou incorporado em aparelhos de iluminação. A Comissão avaliará igualmente a possibilidade de lhe ser aplicado o mecanismo flexível definido no contexto do Protocolo de Quioto. A Comissão promoverá ainda, nos fóruns internacionais apropriados, normas internacionais baseadas nos princípios inerentes à presente directiva.\n\nPoderá ser necessário a apresentação de propostas relativamente à terceira fase referida no n.o 2 do artigo 9.o, caso, antes da conclusão da avaliação, prevista para 31 de Dezembro de 2005, os resultados obtidos não sejam aqueles que se esperavam, isto é, que os balastros que satisfazem as normas de eficácia energética \"CELMA-tipo A\" detenham no mercado uma quota-parte média superior a 55 %, ao nível da UE."
+  },
+  "9a7316c766620892": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2000L0055 — PT — 13.04.2010 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32000L0055) [DIRECTIVA 2000/55/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32000L0055) [de 18 de Setembro de 2000](http://publications.europa.eu/resource/celex/32000L0055) [relativa às normas de eficiência energética para balastros de fontes de iluminação fluorescente](http://publications.europa.eu/resource/celex/32000L0055) (JO L 279, 1.11.2000, p.33)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 245/2009 da Comissão de 18 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0245) — L 76 — 17 — 24.3.2009"
+  }
+ }
+}

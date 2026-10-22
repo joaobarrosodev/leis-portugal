@@ -35,6 +35,69 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-07-01'
+version_history:
+  file: regulamento-ue-1999-1254.versoes.json
+  count: 3
+  source_lastmod: '2008-07-01'
+  versions:
+  - date: '2005-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-12-02'
+    amending: eu:celex:32005R1913:por
+    amending_title: REGULAMENTO (CE) N. o 1913/2005 DO CONSELHO de 23 de Novembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 39.º
+    - Altera Artigo 43.º
+    - Altera PRÉMIO ESPECIAL
+    - Altera PRÉMIO POR VACA EM ALEITAMENTO
+    - Altera Notas
+  - date: '2008-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime TÍTULO I
+    - Suprime MERCADO INTERNO
+    - Suprime Artigo 2.º
+    - Suprime CAPÍTULO 1
+    - Suprime PAGAMENTOS DIRECTOS
+    - Suprime CAPÍTULO 2
+    - Suprime ARMAZENAGEM PRIVADA E PÚBLICA
+    - Suprime Artigo 26.º
+    - Suprime Artigo 27.º
+    - Suprime Artigo 28.º
+    - Suprime TÍTULO II
+    - Suprime REGIME COMERCIAL COM PAÍSES TERCEIROS
+    - Suprime Artigo 29.º
+    - Suprime Artigo 30.º
+    - Suprime Artigo 31.º
+    - Suprime Artigo 32.º
+    - Suprime Artigo 33.º
+    - Suprime Artigo 34.º
+    - Suprime Artigo 35.º
+    - Suprime Artigo 36.º
+    - Suprime TÍTULO III
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 37.º
+    - Suprime Artigo 38.º
+    - Suprime Artigo 39.º
+    - Suprime Artigo 40.º
+    - Suprime Artigo 41.º
+    - Suprime Artigo 42.º
+    - Suprime Artigo 43.º
+    - Suprime Artigo 44.º
+    - Suprime Artigo 45.º
+    - Suprime Artigo 46.º
+    - Suprime TÍTULO IV
+    - Suprime DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+    - Suprime Artigo 47.º
+    - Suprime Artigo 48.º
+    - Suprime Artigo 49.º
+    - Suprime Artigo 50.º
 identifiers:
   celex: 31999R1254
   eli: http://data.europa.eu/eli/reg/1999/1254/oj
@@ -49,7 +112,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/408d604c-b7ed-4163-a3c5-91f712b65d8f.0011
   content_url: http://publications.europa.eu/resource/cellar/31a54b14-a2c3-46ed-8346-676c18743ce0.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R1254-20080701
-  retrieved_at: '2026-10-22T02:36:48Z'
+  retrieved_at: '2026-10-22T14:48:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T05:43:14.256+01:00'
 integrity:
@@ -58,9 +121,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:48Z'
-  notes: Texto consolidado 01999R1254-20080701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:10Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1999-1254.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -368,16 +431,21 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:48Z'
+  checked_at: '2026-10-22T14:48:10Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01999R1254-19990626: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1254-20010724: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1254-20010726: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1254-20020101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1254-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1254-20040101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1254-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

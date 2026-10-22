@@ -35,6 +35,104 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-05-25'
+version_history:
+  file: diretiva-ue-1995-46.versoes.json
+  count: 3
+  source_lastmod: '2018-05-25'
+  versions:
+  - date: '1995-11-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-11-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita CAPÍTULO I — DISPOSIÇÕES GERAIS
+    - Adita Artigo 1.º — Objecto da directiva
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 3.º — Âmbito de aplicação
+    - Adita Artigo 4.º — Direito nacional aplicável
+    - Adita CAPÍTULO II — CONDIÇÕES GERAIS DE LICITUDE DO TRATAMENTO DE DADOS PESSOAIS
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º — Tratamento de certas categorias específicas de dados
+    - Adita Artigo 9.º — Tratamento de dados pessoais e liberdade de expressão
+    - Adita Artigo 10.º — Informação em caso de recolha de dados junto da pessoa em causa
+    - Adita Artigo 11.º — Informação em caso de dados não recolhidos junto da pessoa em causa
+    - Adita Artigo 12.º — Direito de acesso
+    - Adita Artigo 13.º — Derrogações e restrições
+    - Adita Artigo 14.º — Direito de oposição da pessoa em causa
+    - Adita Artigo 15.º — Decisões individuais automatizadas
+    - Adita Artigo 16.º — Confidencialidade do tratamento
+    - Adita Artigo 17.º — Segurança do tratamento
+    - Adita Artigo 18.º — Obrigação de notificação à autoridade de controlo
+    - Adita Artigo 19.º — Conteúdo de notificação
+    - Adita Artigo 20.º — Controlo prévio
+    - Adita Artigo 21.º — Publicidade dos tratamentos
+    - Adita CAPÍTULO III — RECURSOS JUDICIAIS, RESPONSABILIDADE E SANÇÕES
+    - Adita Artigo 22.º — Recursos
+    - Adita Artigo 23.º — Responsabilidade
+    - Adita Artigo 24.º — Sanções
+    - Adita CAPÍTULO IV — TRANSFERÊNCIA DE DADOS PESSOAIS PARA PAÍSES TERCEIROS
+    - Adita Artigo 25.º — Princípios
+    - Adita Artigo 26.º — Derrogações
+    - Adita CAPÍTULO V — CÓDIGOS DE CONDUTA
+    - Adita Artigo 27.º
+    - Adita CAPÍTULO VI — AUTORIDADE DE CONTROLO E GRUPO DE PROTECÇÃO DAS PESSOAS NO QUE DIZ RESPEITO AO TRATAMENTO DE DADOS
+      PESSOAIS
+    - Adita Artigo 28.º — Autoridade de controlo
+    - Adita Artigo 29.º — Grupo de protecção das pessoas no que diz respeito ao tratamento de dados pessoais
+    - Adita Artigo 30.º
+    - Adita CAPÍTULO VII — MEDIDAS DE EXECUÇÃO COMUNITÁRIAS
+    - Adita Artigo 31.º
+    - Adita Artigo 32.º
+  - date: '2018-05-25'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I — DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objecto da directiva
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Âmbito de aplicação
+    - Suprime Artigo 4.º — Direito nacional aplicável
+    - Suprime CAPÍTULO II — CONDIÇÕES GERAIS DE LICITUDE DO TRATAMENTO DE DADOS PESSOAIS
+    - Suprime Artigo 5.º
+    - Suprime SECÇÃO I — PRINCÍPIOS RELATIVOS À QUALIDADE DOS DADOS
+    - Suprime Artigo 6.º
+    - Suprime SECÇÃO II — PRINCÍPIOS RELATIVOS À LEGITIMIDADE DO TRATAMENTO DE DADOS
+    - Suprime Artigo 7.º
+    - Suprime SECÇÃO III — CATEGORIAS ESPECÍFICAS DE TRATAMENTOS
+    - Suprime Artigo 8.º — Tratamento de certas categorias específicas de dados
+    - Suprime Artigo 9.º — Tratamento de dados pessoais e liberdade de expressão
+    - Suprime SECÇÃO IV — INFORMAÇÃO DA PESSOA EM CAUSA
+    - Suprime Artigo 10.º — Informação em caso de recolha de dados junto da pessoa em causa
+    - Suprime Artigo 11.º — Informação em caso de dados não recolhidos junto da pessoa em causa
+    - Suprime SECÇÃO V — DIREITO DE ACESSO DA PESSOA EM CAUSA AOS DADOS
+    - Suprime Artigo 12.º — Direito de acesso
+    - Suprime SECÇÃO VI — DERROGAÇÕES E RESTRIÇÕES
+    - Suprime Artigo 13.º — Derrogações e restrições
+    - Suprime SECÇÃO VII — DIREITO DE OPOSIÇÃO DA PESSOA EM CAUSA
+    - Suprime Artigo 14.º — Direito de oposição da pessoa em causa
+    - Suprime Artigo 15.º — Decisões individuais automatizadas
+    - Suprime SECÇÃO VIII — CONFIDENCIALIDADE E SEGURANÇA DO TRATAMENTO
+    - Suprime Artigo 16.º — Confidencialidade do tratamento
+    - Suprime Artigo 17.º — Segurança do tratamento
+    - Suprime SECÇÃO IX — NOTIFICAÇÃO
+    - Suprime Artigo 18.º — Obrigação de notificação à autoridade de controlo
+    - Suprime Artigo 19.º — Conteúdo de notificação
+    - Suprime Artigo 20.º — Controlo prévio
+    - Suprime Artigo 21.º — Publicidade dos tratamentos
+    - Suprime CAPÍTULO III — RECURSOS JUDICIAIS, RESPONSABILIDADE E SANÇÕES
+    - Suprime Artigo 22.º — Recursos
+    - Suprime Artigo 23.º — Responsabilidade
+    - Suprime Artigo 24.º — Sanções
+    - Suprime CAPÍTULO IV — TRANSFERÊNCIA DE DADOS PESSOAIS PARA PAÍSES TERCEIROS
+    - Suprime Artigo 25.º — Princípios
+    - Suprime Artigo 26.º — Derrogações
 identifiers:
   celex: 31995L0046
   eli: http://data.europa.eu/eli/dir/1995/46/oj
@@ -49,7 +147,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/775a4724-2086-4a06-9213-1a4e6489053b.0011
   content_url: http://publications.europa.eu/resource/cellar/335ef9fc-250a-4dfa-a76d-5583b689e91e.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0046-20180525
-  retrieved_at: '2026-10-22T02:35:00Z'
+  retrieved_at: '2026-10-22T14:44:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T21:08:56.807+01:00'
 integrity:
@@ -58,9 +156,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:00Z'
-  notes: Texto consolidado 01995L0046-20180525.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:44:10Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1995-46.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -519,16 +617,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:00Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:44:10Z'
+  warnings: []
   errors: []
 ---
 

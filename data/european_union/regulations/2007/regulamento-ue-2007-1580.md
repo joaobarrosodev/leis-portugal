@@ -35,6 +35,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-09-01'
+version_history:
+  file: regulamento-ue-2007-1580.versoes.json
+  count: 2
+  source_lastmod: '2011-09-01'
+  versions:
+  - date: '2007-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-09-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES PRELIMINARES
+    - Suprime Artigo 1.º — Âmbito de aplicação e utilização dos termos
+    - Suprime Artigo 2.º — Campanhas de comercialização
+    - Suprime TÍTULO II
+    - Suprime CLASSIFICAÇÃO DOS PRODUTOS
+    - Suprime CAPÍTULO I
+    - Suprime Regras gerais
+    - Suprime Artigo 3.º — Excepções e dispensas de aplicação das normas de comercialização
+    - Suprime Artigo 4.º — Menções
+    - Suprime Artigo 5.º — Menções no estádio retalhista
+    - Suprime Artigo 6.º — Embalagens de venda
+    - Suprime CAPÍTULO II
+    - Suprime Controlos de conformidade com as normas de comercialização
+    - Suprime Secção 1
+    - Suprime Disposições gerais
+    - Suprime Artigo 7.º — Âmbito de aplicação
+    - Suprime Artigo 8.º — Organismos competentes
+    - Suprime Artigo 9.º — Base de dados dos operadores
+    - Suprime Secção 2
+    - Suprime Operações de controlo realizadas no mercado interno
+    - Suprime Artigo 10.º — Controlos de conformidade no mercado interno
+    - Suprime Artigo 11.º — Controlo de conformidade no estádio da exportação
+    - Suprime Artigo 12.º — Controlos de conformidade no estádio da importação
+    - Suprime Secção 3
+    - Suprime Controlos realizados pelos países terceiros
+    - Suprime Artigo 13.º — Aprovação dos controlos realizados pelos países terceiros antes da importação para a Comunidade
+    - Suprime Artigo 14.º — Certificados
+    - Suprime Artigo 15.º — Suspensão da aprovação
+    - Suprime Artigo 16.º — Controlos suplementares efectuados pelos Estados-Membros
+    - Suprime Artigo 17.º — Comunicações obrigatórias
+    - Suprime Artigo 18.º — Cooperação administrativa
+    - Suprime Secção 4
+    - Suprime Produtos destinados à transformação industrial
+    - Suprime Artigo 19.º — Produtos destinados à transformação industrial
+    - Suprime Secção 5
+    - Suprime Métodos de controlo
+    - Suprime Artigo 20.º — Métodos de controlo
+    - Suprime TÍTULO III
 identifiers:
   celex: 32007R1580
   eli: http://data.europa.eu/eli/reg/2007/1580/oj
@@ -49,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/499a08d3-050a-4dfb-8a74-c6bf4fbe0121.0018
   content_url: http://publications.europa.eu/resource/cellar/10ff6881-c202-4ae4-a80a-5f80d8ea3a97.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R1580-20110901
-  retrieved_at: '2026-10-22T02:40:41Z'
+  retrieved_at: '2026-10-22T15:12:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T13:55:18.042+01:00'
 integrity:
@@ -58,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:41Z'
-  notes: Texto consolidado 02007R1580-20110901.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:12:03Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2007-1580.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -545,16 +598,31 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:41Z'
+  checked_at: '2026-10-22T15:12:03Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02007R1580-20080101: versão indisponível (Sem expressão na língua por para CELEX 02007R1580-20080101.)'
+  - '02007R1580-20080501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007R1580-20080701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007R1580-20080901: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007R1580-20081101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007R1580-20090101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007R1580-20090701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007R1580-20100101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007R1580-20100201: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007R1580-20100501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007R1580-20100601: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007R1580-20100901: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007R1580-20101001: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007R1580-20101101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007R1580-20110101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007R1580-20110501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007R1580-20110601: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

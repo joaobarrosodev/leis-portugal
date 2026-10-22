@@ -34,6 +34,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2003-08-03'
+version_history:
+  file: diretiva-ue-1973-241.versoes.json
+  count: 1
+  source_lastmod: '2003-08-03'
+  versions:
+  - date: '2003-08-03'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31973L0241
   eli: http://data.europa.eu/eli/dir/1973/241/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0ac1c081-0144-4d73-9b8e-b70b0d71963e.0011
   content_url: http://publications.europa.eu/resource/cellar/75cec81f-9ff0-4c1c-981c-70477bbbecfa.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01973L0241-20030803
-  retrieved_at: '2026-10-22T02:46:19Z'
+  retrieved_at: '2026-10-22T14:30:39Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T12:42:07.755+01:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:19Z'
-  notes: Texto consolidado 01973L0241-20030803.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:30:39Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-1973-241.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -180,16 +189,26 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:19Z'
+  checked_at: '2026-10-22T14:30:39Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01973L0241-19730801: versão indisponível (Sem expressão na língua por para CELEX 01973L0241-19730801.)'
+  - '01973L0241-19740801: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01973L0241-19741220: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01973L0241-19750307: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01973L0241-19760729: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01973L0241-19780705: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01973L0241-19781013: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01973L0241-19790621: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01973L0241-19810101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01973L0241-19841227: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01973L0241-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01973L0241-19880101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -1,0 +1,765 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31983R2289:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01983R2289-20111219",
+ "dre_path": null,
+ "source_lastmod": "2011-12-19",
+ "versions": [
+  {
+   "date": "1983-08-11",
+   "future": false,
+   "celex": "31983R2289",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b8f7999df66eb0ff",
+    "98d755d45e9b1088",
+    "750f9855d447b7f3",
+    "4b206727f6ea512c",
+    "c30500722978dc90",
+    "dd6f547dff1db75e",
+    "9b9eef6668f97cee",
+    "9a9a825dcfb31e00",
+    "b469393222fa55a0",
+    "22a6e9f97194e66a",
+    "056e9f563abf2528",
+    "3017683fa7a8591d",
+    "6160838189d56606",
+    "20e45226758b84d7",
+    "c2c4e1b6c11da09e",
+    "043abab37be7d78e",
+    "f00f3a2d8d90923d",
+    "28330ea7c69654af",
+    "93dc9daba0e96ad2",
+    "e37e0c3976251bc2",
+    "b02835cc20d8d753",
+    "c0fb4bb38ec7a837",
+    "c234f5f58d448bd6",
+    "121df64a23c13754",
+    "761859b3a7d93d24",
+    "06297c31c958728c",
+    "88801f7b87056022",
+    "b1549b280872bd0c",
+    "820f59c662778b54"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01983R2289-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:31985R1746:por",
+     "title": "REGULAMENTO (CEE) N.O 1746/85 DA COMISSÃO de 26 de Junho de 1985",
+     "published": null,
+     "celex": "31985R1746"
+    },
+    {
+     "id": "eu:celex:31985R3399:por",
+     "title": "REGULAMENTO (CEE) N.O 3399/85 DA COMISSÃO de 28 de Novembro de 1985",
+     "published": null,
+     "celex": "31985R3399"
+    },
+    {
+     "id": "eu:celex:31992R0735:por",
+     "title": "REGULAMENTO (CEE) N.O 735/92 DA COMISSÃO de 25 de Março de 1992",
+     "published": null,
+     "celex": "31992R0735"
+    },
+    {
+     "id": "eu:celex:32006R1792:por",
+     "title": "REGULAMENTO (CE) N. o 1792/2006 DA COMISSÃO de 23 de Outubro de 2006",
+     "published": null,
+     "celex": "32006R1792"
+    },
+    {
+     "id": null,
+     "title": "A1",
+     "published": null,
+     "celex": "11985I"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera TÍTULO V",
+    "Adita Artigo 1.º",
+    "Adita CAPÍTULO I",
+    "Adita DISPOSIÇÕES APLICÁVEIS ÀS IMPORTAÇÕES EFECTUADAS POR INSTITUIÇÕES OU ORGANIZAÇÕES",
+    "Adita TÍTULO I",
+    "Adita DISPOSIÇÕES GERAIS",
+    "Adita A.",
+    "Adita Obrigações da instituição ou organização destinatária",
+    "Adita Artigo 2.º",
+    "Adita B.",
+    "Adita Disposições aplicáveis no caso de empréstimo, aluguer ou cessão.",
+    "Adita Artigo 3.º",
+    "Adita TÍTULO II",
+    "Adita DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO FRANQUIA DE OBJECTOS AO ABRIGO DO PRIMEIRO PARÁGRAFO DO ARTIGO 71.º DO REGULAMENTO DE BASE",
+    "Adita Artigo 4.º",
+    "Adita TÍTULO III",
+    "Adita DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE OBJECTOS AO ABRIGO DO N.º 1 DO ARTIGO 72.º DO REGULAMENTO DE BASE",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 10.º",
+    "Adita DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE PEÇAS SOBRESSELENTES, DE ELEMENTOS OU DE ACESSÓRIOS ESPECÍFICOS E DE FERRAMENTAS AO ABRIGO DO SEGUNDO PARÁGRAFO DO ARTIGO 71.º E DO N.º 2 DO ARTIGO 72.º DO REGULAMENTO DE BASE",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita CAPÍTULO II",
+    "Adita IMPORTAÇÕES EFECTUADAS POR CEGOS E OUTRAS DISPOSIÇÕES APLICÁVEIS A PESSOAS DEFICIENTES",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita CAPÍTULO III",
+    "Adita DISPOSIÇÕES FINAIS",
+    "Adita Artigo 19.º",
+    "Adita Artigo 20.º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime CAPÍTULO I — DISPOSIÇÕES APLICÁVEIS ÀS IMPORTAÇÕES EFECTUADAS POR INSTITUIÇÕES OU ORGANIZAÇÕES",
+    "Suprime TÍTULO I — DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime TÍTULO II — DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO FRANQUIA DE OBJECTOS AO ABRIGO DO PRIMEIRO PARÁGRAFO DO ARTIGO 71o DO REGULAMENTO DE BASE",
+    "Suprime Artigo 4o",
+    "Suprime TÍTULO III — DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE OBJECTOS AO ABRIGO DO No 1 DO ARTIGO 72o DO REGULAMENTO DE BASE",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime TÍTULO IV — DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE OBJECTOS AO ABRIGO DO ARTIGO 74o DO REGULAMENTO DE BASE",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime CAPÍTULO II — IMPORTAÇÕES EFECTUADAS POR CEGOS E OUTRAS DISPOSIÇÕES APLICÁVEIS A PESSOAS DEFICIENTES",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime CAPÍTULO III — DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o"
+   ],
+   "fragments": [
+    "002a8b8d0396388c",
+    "f95fb7f649d4327b",
+    "226c39ffd0a88dad",
+    "7d0dfb36ca531eb0",
+    "ffc348f463b781ad",
+    "e17a2adcfbbdd4cc",
+    "35bfd6367ce0d4c6",
+    "08218b3f3a768dd5",
+    "4d0c4e7e5b1a63f3",
+    "aebd514bc5c6b98f",
+    "575987844be87fd9",
+    "0045f552e210af49",
+    "4c8bdeab3d91ec7d",
+    "efd42e2743bcd814",
+    "3326c92a84cc1316",
+    "9db704600627e53c",
+    "f871574433ffd740",
+    "11d969f1ff2f8dff",
+    "6b0bdc421834dc52",
+    "a789523748fba9f7",
+    "4f8efffddfe96470",
+    "0465b23b69f3af23",
+    "bff530928205fdd9",
+    "6d659b8e7aefc286",
+    "691b7963360c4c63",
+    "f0f8c960bfdbce9b",
+    "41af131e7df4dc00",
+    "148aaca4c3761bfd",
+    "f34aa2b761ca4942",
+    "e4fd99fe561813c4",
+    "1e7a0903d2eed348",
+    "dde9cf53e9ae6c9a",
+    "b9607c9fdc1fe25a",
+    "f891aca868a8cbaf",
+    "d5655864f027e102"
+   ]
+  },
+  {
+   "date": "2011-12-19",
+   "future": false,
+   "celex": "01983R2289-20111219",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime CAPÍTULO I",
+    "Suprime DISPOSIÇÕES APLICÁVEIS ÀS IMPORTAÇÕES EFECTUADAS POR INSTITUIÇÕES OU ORGANIZAÇÕES",
+    "Suprime TÍTULO I",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime A.",
+    "Suprime Obrigações da instituição ou organização destinatária",
+    "Suprime Artigo 2.º",
+    "Suprime B.",
+    "Suprime Disposições aplicáveis no caso de empréstimo, aluguer ou cessão.",
+    "Suprime Artigo 3.º",
+    "Suprime TÍTULO II",
+    "Suprime DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO FRANQUIA DE OBJECTOS AO ABRIGO DO PRIMEIRO PARÁGRAFO DO ARTIGO 71.º DO REGULAMENTO DE BASE",
+    "Suprime Artigo 4.º",
+    "Suprime TÍTULO III",
+    "Suprime DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE OBJECTOS AO ABRIGO DO N.º 1 DO ARTIGO 72.º DO REGULAMENTO DE BASE",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 10.º",
+    "Suprime TÍTULO V",
+    "Suprime DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE PEÇAS SOBRESSELENTES, DE ELEMENTOS OU DE ACESSÓRIOS ESPECÍFICOS E DE FERRAMENTAS AO ABRIGO DO SEGUNDO PARÁGRAFO DO ARTIGO 71.º E DO N.º 2 DO ARTIGO 72.º DO REGULAMENTO DE BASE",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime CAPÍTULO II",
+    "Suprime IMPORTAÇÕES EFECTUADAS POR CEGOS E OUTRAS DISPOSIÇÕES APLICÁVEIS A PESSOAS DEFICIENTES",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime CAPÍTULO III",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "28f5555ca8d21428"
+   ]
+  }
+ ],
+ "fragments": {
+  "b8f7999df66eb0ff": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2289/83 da Comissão, de 29 de Julho de 1983, que fixa as disposições de aplicação dos artigos 70º a 78º do Regulamento (CEE) nº 918/83 do Conselho relativo ao estabelecimento do regime comunitário das franquias aduaneiras** *Jornal Oficial nº L 220 de 11/08/1983 p. 0015 - 0019 Edição especial finlandesa: Capítulo 2 Fascículo 3 p. 0206 Edição especial espanhola: Capítulo 02 Fascículo 10 p. 0050 Edição especial sueca: Capítulo 2 Fascículo 3 p. 0206 Edição especial portuguesa: Capítulo 02 Fascículo 10 p. 0050*\n\nREGULAMENTO (CEE) No 2289/83 DA COMISSÃO de 29 de Julho de 1983 que fixa as disposições de aplicação dos artigos 70o a 78o do Regulamento (CEE) no 918/83 do Conselho relativo ao estabelecimento do regime comunitário das franquias aduaneiras\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) no 918/83 do Conselho, de 28 de Março de 1983, relativo ao estabelecimento do regime comunitário das franquias aduaneiras (1) e, nomeadamente, o seu artigo 143o,\n\nConsiderando que o Regulamento (CEE) no 918/83 substituiu, pelos seus artigos 70o a 78o, o Regulamento (CEE) no 1028/79 do Conselho, de 8 de Maio de 1979, relativo à importação com franquia dos direitos da pauta aduaneira comum de objectos destinados a pessoas deficientes (2); que é, por consequência, necessário substituir o Regulamento (CEE) no 2783/79 da Comissão, de 12 de Dezembro de 1979, que fixa as disposições de aplicação do Regulamento (CEE) no 1028/79 (3) por um novo regulamento fixando as disposições de aplicação dos artigos 70o a 78o do Regulamento (CEE) no 918/83;\n\nConsiderando que as medidas previstas no presente regulamento estão conformes com o parecer do Comité das Franquais Aduaneiras,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "98d755d45e9b1088": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nO presente regulamento estabelece as disposições de aplicação dos artigos 70o a 78o do Regulamento (CEE) no 918/83, a seguir designado «regulamento de base»."
+  },
+  "750f9855d447b7f3": {
+   "fragment_id": "CAPÍTULO I — DISPOSIÇÕES APLICÁVEIS ÀS IMPORTAÇÕES EFECTUADAS POR INSTITUIÇÕES OU ORGANIZAÇÕES",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — DISPOSIÇÕES APLICÁVEIS ÀS IMPORTAÇÕES EFECTUADAS POR INSTITUIÇÕES OU ORGANIZAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — DISPOSIÇÕES APLICÁVEIS ÀS IMPORTAÇÕES EFECTUADAS POR INSTITUIÇÕES OU ORGANIZAÇÕES"
+  },
+  "4b206727f6ea512c": {
+   "fragment_id": "TÍTULO I — DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "TÍTULO I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — DISPOSIÇÕES GERAIS\n\nA. Obrigações da instituição ou organização destinatária"
+  },
+  "c30500722978dc90": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. A admissão com beneficio da franquia dos direitos de importação dos objectos referidos no artigo 71o, nos 1 e 2 do artigo 72o e no artigo 74o do regulamento de base implica para a instituição ou organização destinatária a obrigação de:\n\n- expedir directamente os objectos em causa para o local de destino declarado,\n\n- os registar no seu inventário,\n\n- os utilizar exclusivamente para os fins previstos nos referidos artigos,\n\n- facilitar qualquer controlo que as autoridades competentes considerem necessário para se assegurarem de que as condições da concessão da franquia foram observadas e se mantêm.\n\n2. O chefe da instituição ou organização destinatária, ou o seu representante habilitado, deve fornecer às autoridades competentes uma declaração de que conste que tomou conhecimento das diferentes obrigações enumeradas no no 1 e inclua o compromisso de com elas se conformar.\n\nAs autoridades competentes podem prever que a declaração referida no parágrafo precedente seja apresentada, quer para cada importação, quer para várias importações, quer ainda para o conjunto das importações a efectuar pela instituição ou organização destinatária.\n\nB. Disposições aplicáveis no caso de empréstimo, aluguer ou cessão."
+  },
+  "dd6f547dff1db75e": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Em caso de aplicação das disposições do no 2, primeira frase do artigo 77o, do regulamento de base, a instituição ou organização beneficiária do empréstimo, do aluguer ou da cessão de um objecto destinado a pessoas deficientes ficará sujeita, a partir da data da sua recepção, às obrigações referidas no artigo 2o.\n\n2. Quando a instituição ou organização beneficiária do empréstimo, do aluguer ou da cessão de um objecto estiver situada num Estado-membro diferente daquele onde se encontra a instituição ou organização que empresta, aluga ou cede, a expedição do referido objecto com destino ao primeiro Estado-membro dará lugar à emissão pela estância aduaneira competente do Estado-membro de partida, a fim de garantir que a esse objecto seja dada uma utilização que dê direito à manutenção da franquia, de um exemplar de controle T no 5, segundo as modalidades definidas no Regulamento (CEE) no 223/77. Para este efeito, o referido exemplar de controlo deve conter na casa 104, na rubrica «outros», uma das seguintes menções:\n\n- «Object destiné aux personnes handicapées, en franchise des droits à l'importation (UNESCO).\n\nApplication de l'article 77 paragraphe 2 deuxième alinéa du règlement (CEE) no 918/83»;\n\n- «Importafgiftsfrit indfoert genstand bestemt til handicappede (UNESCO).\n\nAnvendelse af artikel 77, stk. 2, andet afsnit i forordning (EOEF) nr. 918/83»;\n\n- «Abgaben freier Gegenstand fuer Behinderte (UNESCO).\n\nAnwendung von Artikel 77, Absatz 2 zweiter Unterabsatz der Verordnung (EWG) Nr. 918/83»;\n\n- «Eidi eisagomena atelos, os pros toys eisagogikoys dasmoys, proorizomena gia meionektoynta atoma (UNESCO)\n\nEfarmogi toy arfroy 77 paragrafos 2 deftero edafio toy kanonismoy (EOK) arith. 918/83»;\n\n- «Article for handicapped persons to be admitted free of import duties (UNESCO).\n\nImplementation of Article 77 (2) (second subparagraph) of Regulation (EEC) No 918/83»;\n\n- «Oggetto destinato ai minorati in franchigia dai dazi all'importazione (UNESCO).\n\nApplicazione dell'articolo 77, paragrafo 2, secondo comma del regolamento (CEE) n. 918/83».\n\n- «Voorwerp bestemd voor gehandicapten, met vrijstelling van rechten bij invoer (UNESCO).\n\nToepassing van artikel 77, lid 2, tweede alinea, van Verordening (EEG) nr. 918/83».\n\n3. O disposto nos nos 1 e 2 aplicar-se-á «mutatis mutandis» ao empréstimo, ao aluguer ou à cessão das peças sobresselentes, elementos ou acessórios especificos de objectos destinados a pessoas deficientes, assim como das ferramentas a utilizar na manutenção, controlo, calibragem ou reparação dos referidos objectos que tenham sido importados com franquia ao abrigo do segundo parágrafo do artigo 71o e do no 2 do artigo 72o do regulamento de base."
+  },
+  "9b9eef6668f97cee": {
+   "fragment_id": "TÍTULO II — DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO FRANQUIA DE OBJECTOS AO ABRIGO DO PRIMEIRO PARÁGRAFO DO ARTIGO 71o DO REGULAMENTO DE BASE",
+   "type": "divisao",
+   "heading": "TÍTULO II — DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO FRANQUIA DE OBJECTOS AO ABRIGO DO PRIMEIRO PARÁGRAFO DO ARTIGO 71o DO REGULAMENTO DE BASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO FRANQUIA DE OBJECTOS AO ABRIGO DO PRIMEIRO PARÁGRAFO DO ARTIGO 71o DO REGULAMENTO DE BASE"
+  },
+  "9a9a825dcfb31e00": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. A fim de obter a admissão com franquia de um objecto destinado a cegos ao abrigo do primeiro parágrafo do artigo 71o do regulamento de base, o chefe da instituição ou organização destinatária, ou o seu representante habilitado, deve formular o pedido à autoridade competente do Estado-membro onde está situada essa instituição ou organização.\n\nEste pedido deve ser acompanhado de todos os elementos de informação considerados necessários pela autoridade competente a fim de determinar se estão preenchidas as condições previstas para a concessão da franquia.\n\n2. A autoridade competente do Estado-membro onde está situada a instituição ou a organização destinatária decidirá directamente sobre o pedido referido no no 1."
+  },
+  "b469393222fa55a0": {
+   "fragment_id": "TÍTULO III — DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE OBJECTOS AO ABRIGO DO No 1 DO ARTIGO 72o DO REGULAMENTO DE BASE",
+   "type": "divisao",
+   "heading": "TÍTULO III — DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE OBJECTOS AO ABRIGO DO No 1 DO ARTIGO 72o DO REGULAMENTO DE BASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE OBJECTOS AO ABRIGO DO No 1 DO ARTIGO 72o DO REGULAMENTO DE BASE"
+  },
+  "22a6e9f97194e66a": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nEnquanto não tiver sido estabelecido por decisão da Comissão, adoptada em conformidade com o procedimento previsto nos nos 3 ou 4 do artigo 8o, que a admissão com franquia dos objectos referidos no no 1 do artigo 72o do regulamento de base é susceptivel de prejudicar a produção comunitária de objectos equivalentes, a franquia será concedida sem se proceder à verificação da condição prevista no no 1, alinea b) do artigo 72o."
+  },
+  "056e9f563abf2528": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. A fim de obter a admissão com franquia de um objecto destinado a pessoas deficientes ao abrigo do disposto no no 1 do artigo 72o do regulamento de base, o chefe da instituição ou organização destinatária, ou o seu representante habilitado, deve formular o pedido à autoridade competente do Estado-membro onde está situada essa instituição ou organização.\n\n2. O pedido referido no no 1 deve conter as seguintes informações relativas ao objecto em causa.\n\na) A designação comercial exacta desse objecto utilizada pelo fabricante, a sua presumivel classificação na pau ta aduaneira comum, assim como as caracteristicas técnicas objectivas que permitem considerá-lo como especialmente concebido para a educação, o emprego ou a promoção social das pessoas deficientes;\n\nb) O nome ou a firma e a morada do fabricante e, se for caso disso, do fornecedor;\n\nc) O pais de origem do objecto;\n\nd) O local de destino do objecto;\n\ne) O uso a que se destina o objecto;\n\nf) O preço do objecto ou o seu valor aduaneiro;\n\ng) O número de exemplares do referido objecto;\n\nh) O prazo de entrega previsto;\n\ni) A data em que o objecto foi encomendado, se este já o tiver sido.\n\nAo pedido deve ser junta documentação que forneça todas as informações úteis sobre as caracteristicas e as especificações técnicas do objecto."
+  },
+  "3017683fa7a8591d": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nSem prejuizo do disposto no artigo 9o, a autoridade competente do Estado-membro onde está situada a instituição ou organização destinatária decidirá directamente sobre o pedido referido no artigo 6o."
+  },
+  "6160838189d56606": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. As autoridades competentes dos Estados-membros comunicarão à Comissão, por sua própria iniciativa ou a pedido desta última, todas as informações, incluindo a documentação técnica de que disponham, a fim de lhe permitir apreciar se a admissão com franquia de direitos de um determinado objecto é susceptivel de prejudicar a produção comunitária de objectos equivalentes.\n\n2. Quando, tendo em conta as informações em seu poder, a Comissão for de parecer que a importação com franquia de direitos de um objecto é susceptivel de prejudicar a produção comunitária de objectos equivalentes, convocará no mais curto prazo um grupo de peritos composto por representantes de todos os Estados-membros, que se reunirá no âmbito do Comité das Franquias Aduaneiras a fim de examinar o caso ou os casos em questão.\n\nAs informações em poder da Comissão serão comunicadas aos peritos no mais curto prazo.\n\n3. Quando resultar do exame a que se procedeu nos termos do disposto no no 2 que a importação com franquia de direitos de um objecto é susceptivel de prejudicar a produção comunitária de objectos equivalentes, a Comissão adoptará uma decisão estabelecendo que o objecto em causa não satisfaz as condições requeridas para ser admitido com franquia.\n\n4. Em caso de urgência, a Comissão pode adoptar a decisão referida no no 3 sem esperar pelo exame dos peritos dos Estados-membros previsto no no 2.\n\nEsta decisão terá um carácter provisório e deve ser confirmada ou revogada pela Comissão após o exame previsto no no 2.\n\nEnquanto aguardam a conclusão deste procedimento, as autoridades competentes podem autorizar a importação do objecto a que o pedido se refere com isenção provisória dos direitos de importação mediante o compromisso por parte da organização ou instituição destinatária de pagar os direitos caso a decisão da Comissão seja confirmada.\n\nAs autoridades competentes podem subordinar a concessão desta isenção provisória à constituição de uma garantia nas condições por elas determinadas.\n\n5. A notificação das decisões da Comissão será feita ao Estado-membro ou aos Estados-membros em causa logo que sejam adoptadas. Esta notificação será publicada logo que possivel, eventualmente sob forma abreviada, no Jornal Oficial das Comunidades Europeias, série C.\n\n6. Pelo menos uma vez por ano, a Comissão procederá, com base nas informações fornecidas pelos Estados-membros em causa, a um exame aprofundado da situação com o grupo de peritos referido no no 2, a fim de determinar se é necessário revogar a totalidade ou parte das decisões que excluem certos objectos do beneficio da franquia."
+  },
+  "20e45226758b84d7": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Quando a autoridade competente do Estado-membro onde está situada a instituição ou organização destinatária não estiver em condições de determiner se o objecto incluido no pedido referido no artigo 6o deve ser considerado como especialmente concebido para a educação, o emprego ou a promoção social de pessoas deficientes, esse pedido assim como a documentação técnica a ele referente serão transmitidos à Comissão a fim de permitir a esta dar inicio ao procedimento previsto nos nos 2 a 6.\n\nEnquanto aguarda a conclusão deste procedimento, a autoridade competente pode autorizar a importação do objecto a que o pedido se refere com insenção provisória dos direitos de importação mediante o compromisso por parte da instituição ou organização destinatária de pagar os direitos no caso de a franquia não ser concedida.\n\nA autoridade competente pode subordinar a concessão desta isenção provisória à constituição de uma garantia nos condições por ela determinadas.\n\n2. Nas duas semanas subsequentes à data de recepção do pedido, a Comissão enviará uma cópia aos Estados-membros acompanhada da documentação respectiva.\n\n3. Se, findo um prazo de três meses a contar da data do envio desta comunicação, nenhum Estado-membro tiver apresentado à Comissão objecções quanto à admissão com franquia do objecto em causa. Considerar-se-à que o referido objecto obedece às condições requeridas para esta admissão com franquia. A Comissão notificará desta situação o Estado-membro em causa nas duas semanas seguintes ao termo do prazo fixado. Esta notificação será publicada no mais curto prazo, eventualmente sob forma abreviada, no Jornal Oficial das Comunidades Europeias, série C.\n\n4. Se, no prazo de três meses referido no no 3, um Estado-membro tiver apresentado à Comissão objecções quanto à importação com franquia do objecto em causa, a Comissão convocará no mais curto prazo um grupo de peritos composto por representantes de todos os Estados-membros que se reunirá no âmbito do Comité das Franquias Aduaneiras a fim de examinar o caso em questão.\n\nAs objecções referidas no parágrafo precedente devem ser fundamentadas. Essa fundamentação deve fazer ressaltar as razões pelas quais o referido objecto não deve ser considerado como especialmente concebido para a educação, a emprego ou a promoção social das pessoas deficientes.\n\nA Comissão transmitirá essas objecções aos Estados-membros logo que as receber.\n\n5. Quando resultar do exame a que se procedeu em conformidade com o disposto no no 4 que o objecto para o qual foi requerida a franquia deve ser considerado como especialmente concebido para a educação, o emprego ou a promoção social de pessoas deficientes, a Comissão adoptará uma decisão estabelecendo que o objecto considerado satisfaz as condições requeridas para ser admitido com franquia.\n\nNo caso contrário, a Comissão adoptará uma decisão estabelecendo que o objecto considerado satisfaz as condições requeridas para ser admitido com franquia.\n\nA notificação da decisão da Comissão será feita ao Estado-membro em causa num prazo de duas semanas. Esta decisão será publicada, no mais curto prazo, eventualmente sob forma abreviada, no Jornal Oficial das Comunidades Europeias, série C.\n\n6. Se, findo um prazo de seis meses a contar da data de recepção do pedido pela Comissão, esta não adoptar a decisão referida no no 5, o objecto a que o pedido se refere será considerado como satisfazendo as condições requeridas para ser admitido com franquia."
+  },
+  "c2c4e1b6c11da09e": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nO prazo de validade das autorizações de admissão com franquia é de seis meses.\n\nAs autoridades competentes podem, no entanto, fixar um prazo maior, tendo em consideração as circunstâncias especiais de cada operação."
+  },
+  "043abab37be7d78e": {
+   "fragment_id": "TÍTULO IV — DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE OBJECTOS AO ABRIGO DO ARTIGO 74o DO REGULAMENTO DE BASE",
+   "type": "divisao",
+   "heading": "TÍTULO IV — DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE OBJECTOS AO ABRIGO DO ARTIGO 74o DO REGULAMENTO DE BASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE OBJECTOS AO ABRIGO DO ARTIGO 74o DO REGULAMENTO DE BASE"
+  },
+  "f00f3a2d8d90923d": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. Para obter a admissão com franquia ao abrigo do artigo 74o do regulamento de base de um objecto destinado a pessoas deficientes, o chefe da instituição ou organização destinatária, ou o seu representante habilitado, deve formular o pedido à autoridade competente do Estado-membro onde está situada essa instituição ou organização.\n\n2. O pedido referido no no 1 deve conter as mesmas indicações que as visadas no no 2, alineas a) a e), do artigo 6o e ser acompanhado de documentação que forneça todas as informações úteis sobre as caracteristicas e as especificações técnicas do objecto em causa.\n\nO pedido deve mencionar também:\n\na) O nome ou a firma e morada do autor da oferta;\n\nb) A declaração do requerente de que os objectos para os quais é pedida a franquia são efectivamente oferecidos à instituição ou organização em causa sem qualquer contrapartida comercial, designadamente de natureza publicitária."
+  },
+  "28330ea7c69654af": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. A autoridade competente do Estado-membro onde está situada a instituição ou a organização destinatária decidirá directamente sobre o pedido referido no artigo 11o.\n\n2. A autoridade competente apenas autorizará a admissão com franquia de direitos desse objecto se ficar demonstrado que o autor da oferta não retira qualquer vantagem comercial, directa ou indirecta, da sua oferta à instituição ou organização destinatária.\n\n3. Quando a autoridade competente do Estado onde está situada a instituição ou organização destinatária não estiver em condições de apreciar, com base nas informações de que dispõe, se o objecto para o qual é pedido o beneficio da franquia deve ser considerado como especialmente concebido para a educação, o emprego ou a promoção social das pessoas deficientes, aplicar-se-á o procedimento previsto no artigo 9o."
+  },
+  "93dc9daba0e96ad2": {
+   "fragment_id": "TÍTULO V",
+   "type": "divisao",
+   "heading": "TÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V\n\nDISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE PEÇAS SOBRESSELENTES, DE ELEMENTOS OU DE ACESSÓRIOS ESPECÍFICOS E DE FERRAMENTAS AO ABRIGO DO SEGUNDO PARÁGRAFO DO ARTIGO 71o E DO No 2 DO ARTIGO 72o DO REGULAMENTO DE BASE"
+  },
+  "e37e0c3976251bc2": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nNa acepção do segundo parágrafo do artigo 71o e do no 2 do artigo 72o do regulamento de base, consideram-se acessórios especificos os artigos especialmente concebidos para serem utilizados com um objecto determinado a fim de melhorarem o seu rendimento ou as suas possibilidades de utilização."
+  },
+  "b02835cc20d8d753": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nPara o efeito de obter a admissão com franquia de peças sobresselentes, de elementos ou de acessórios especificos e de ferramentas ao abrigo do segundo parágrafo do artigo 71o ou do no 2 do artigo 72o do regulamento de base, o chefe da instituição ou organização destinatária, ou o seu representante habilitado, deve formular o pedido à autoridade competente do Estado-membro onde está situada essa instituição ou organização.\n\nEste pedido deve ser acompanhado de todos os elementos de informação considerados necessários pela autoridade competente a fim de se determinar se estão preenchidas as condições previstas no segundo parágrafo do artigo 71o ou no no 2 do artigo 72o do regulamento de base."
+  },
+  "c0fb4bb38ec7a837": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nA autoridade competente do Estado-membro onde está situada a instituição ou organização destinatária decidirá directamente sobre o pedido referido no artigo 14o."
+  },
+  "c234f5f58d448bd6": {
+   "fragment_id": "CAPÍTULO II — IMPORTAÇÕES EFECTUADAS POR CEGOS E OUTRAS DISPOSIÇÕES APLICÁVEIS A PESSOAS DEFICIENTES",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — IMPORTAÇÕES EFECTUADAS POR CEGOS E OUTRAS DISPOSIÇÕES APLICÁVEIS A PESSOAS DEFICIENTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — IMPORTAÇÕES EFECTUADAS POR CEGOS E OUTRAS DISPOSIÇÕES APLICÁVEIS A PESSOAS DEFICIENTES"
+  },
+  "121df64a23c13754": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nPara a admissão com franquia de direitos de importação dos objectos referidos no primeiro e segundo parágrafos do artigo 71o do regulamento de base importados pelos próprios cegos e para seu uso próprio, alicarse-á «mutatis mutandis» o disposto nos artigos 4o, 13o, 14o e 15o."
+  },
+  "761859b3a7d93d24": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nPara a admissão com franquia de direitos de importação de objectos importados pelas próprias pessoas deficientes e para seu uso próprio, alicar-se-á «mutatis mutandis»:\n\n- o disposto nos artigos 5o a 10o, se se tratar de objectos referidos no no 1 do artigo 72o do regulamento de base,\n\n- o disposto nos artigos 11o e 12o, se se tratar de objectos referidos no artigo 74o do regulamento de base,\n\n- o disposto nos artigos 13o, 14o e 15o, se se tratar de objectos referidos no no 2 do artigo 72o do regulamento do base."
+  },
+  "06297c31c958728c": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nAs autoridades competentes podem permitir que o pedido previsto nos artigos 4o, 6o e 11o seja feito sob uma forma simplificada quando se referir a objectos importados nas condições mencionadas nos artigos 16o et 17o."
+  },
+  "88801f7b87056022": {
+   "fragment_id": "CAPÍTULO III — DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — DISPOSIÇÕES FINAIS"
+  },
+  "b1549b280872bd0c": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nO Regulamento (CEE) no 2783/79 é revogado."
+  },
+  "820f59c662778b54": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\nO presente regulamento entra em vigor em 1 de Julho de 1984.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 29 de Julho de 1983.\n\nPela Comissão\n\nKarl-Heinz NARJES\n\nMembro da Comissão\n\n(1) JO no L 105 de 23. 4. 1983, p. 1.(2) JO no L 134 de 31. 5. 1979, p. 8.(3) JO no L 318 de 13. 12. 1979, p. 27."
+  },
+  "002a8b8d0396388c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Julho de 1983\n\nque fixa as disposições de aplicação dos artigos 70.º a 78.º do Regulamento (CEE) n.º 918/83 do Conselho relativo ao estabelecimento do regime comunitário das franquias aduaneiras\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) n.º 918/83 do Conselho, de 28 de Março de 1983, relativo ao estabelecimento do regime comunitário das franquias aduaneiras ([^1^](http://publications.europa.eu/resource/cellar/6e6d27e1-7012-417b-8dd9-f49805bd1b54.0017.03/DOC_1#E0001)) e, nomeadamente, o seu artigo 143.º,\n\nConsiderando que o Regulamento (CEE) n.º 918/83 substituiu, pelos seus artigos 70.º a 78.º, o Regulamento (CEE) n.º 1028/79 do Conselho, de 8 de Maio de 1979, relativo à importação com franquia dos direitos da pauta aduaneira comum de objectos destinados a pessoas deficientes ([^2^](http://publications.europa.eu/resource/cellar/6e6d27e1-7012-417b-8dd9-f49805bd1b54.0017.03/DOC_1#E0002)); que é, por consequência, necessário substituir o Regulamento (CEE) n.º 2783/79 da Comissão, de 12 de Dezembro de 1979, que fixa as disposições de aplicação do Regulamento (CEE) n.º 1028/79 ([^3^](http://publications.europa.eu/resource/cellar/6e6d27e1-7012-417b-8dd9-f49805bd1b54.0017.03/DOC_1#E0003)) por um novo regulamento fixando as disposições de aplicação dos artigos 70.º a 78.º do Regulamento (CEE) n.º 918/83;\n\nConsiderando que as medidas previstas no presente regulamento estão conformes com o parecer do Comité das Franquais Aduaneiras,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f95fb7f649d4327b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece as disposições de aplicação dos artigos 70.º a 78.º do Regulamento (CEE) n.º 918/83, a seguir designado «regulamento de base»."
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "7d0dfb36ca531eb0": {
+   "fragment_id": "DISPOSIÇÕES APLICÁVEIS ÀS IMPORTAÇÕES EFECTUADAS POR INSTITUIÇÕES OU ORGANIZAÇÕES",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES APLICÁVEIS ÀS IMPORTAÇÕES EFECTUADAS POR INSTITUIÇÕES OU ORGANIZAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES APLICÁVEIS ÀS IMPORTAÇÕES EFECTUADAS POR INSTITUIÇÕES OU ORGANIZAÇÕES"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "35bfd6367ce0d4c6": {
+   "fragment_id": "A.",
+   "type": "divisao",
+   "heading": "A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## A."
+  },
+  "08218b3f3a768dd5": {
+   "fragment_id": "Obrigações da instituição ou organização destinatária",
+   "type": "divisao",
+   "heading": "Obrigações da instituição ou organização destinatária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Obrigações da instituição ou organização destinatária"
+  },
+  "4d0c4e7e5b1a63f3": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A importação com benefício da franquia dos direitos de importação dos objectos referidos no artigo 71.º e nos n.^os^ 1 e 2 do artigo 72.º do regulamento de base implica para a instituição ou organização destinatárias a obrigação de:\n\n— expedir directamente os objectos em causa para o local de destino declarado,\n\n— os registar no seu inventário,\n\n— os utilizar exclusivamente para os fins previstos nos referidos artigos,\n\n— facilitar qualquer controlo que as autoridades competentes considerem necessário para se assegurarem de que as condições da concessão da franquia foram observadas e se mantêm.\n\n2. O chefe da instituição ou organização destinatária, ou o seu representante habilitado, deve fornecer às autoridades competentes uma declaração de que conste que tomou conhecimento das diferentes obrigações enumeradas no n.º 1 e inclua o compromisso de com elas se conformar.\n\nAs autoridades competentes podem prever que a declaração referida no parágrafo precedente seja apresentada, quer para cada importação, quer para várias importações, quer ainda para o conjunto das importações a efectuar pela instituição ou organização destinatária."
+  },
+  "aebd514bc5c6b98f": {
+   "fragment_id": "B.",
+   "type": "divisao",
+   "heading": "B.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## B."
+  },
+  "575987844be87fd9": {
+   "fragment_id": "Disposições aplicáveis no caso de empréstimo, aluguer ou cessão.",
+   "type": "divisao",
+   "heading": "Disposições aplicáveis no caso de empréstimo, aluguer ou cessão.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições aplicáveis no caso de empréstimo, aluguer ou cessão."
+  },
+  "0045f552e210af49": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Em caso de aplicação das disposições do n.º 2, primeira frase do artigo 77.º, do regulamento de base, a instituição ou organização beneficiária do empréstimo, do aluguer ou da cessão de um objecto destinado a pessoas deficientes ficará sujeita, a partir da data da sua recepção, às obrigações referidas no artigo 2.º.\n\n2. [**►M3**](http://publications.europa.eu/resource/celex/31992R0735) Quando a instituição ou organização beneficiária do empréstimo, da locação ou da cessão de um objecto estiverem situadas num Estado-membro diferente daquele onde se encontra a instituição ou organização que empresta, aluga ou cede, a expedição do referido objecto dá lugar à emissão, pela estância aduaneira competente do Estado-membro de partida, a fim de garantir que a esse objecto seja dada uma utilização que dê direito à manutenção da franquia de direitos de importação, de um exemplar de controlo T 5, segundo as regras definidas no Regulamento (CEE) n.º 2823/87. Para este efeito, o referido exemplar de controlo deve conter na casa 104, na rubrica «Outros», uma das seguintes menções:**◄**\n\n— «Предмет за хората с увреждания: продължаването на митническите облекчения е съобразнo при спазване условията на член 77, параграф 2, алинея втора на Регламент (ЕИО) № 918/83»,\n\n— «Zboží pro postižené osoby: zachování osvobození za předpokladu splnění podmínek čl. 7 odst. 2 druhého pododstavce nařízení (EHS) č. 918/83»,\n\n— «Genstand til handicappede personer: Fortsat fritagelse betinget af overholdelse af artikel 77, stk. 2, andet afsnit, i forordning (EØF) nr. 918/83»,\n\n— «Gegenstand für Behinderte: Weitergewährung der Zollbefreiung abhängig von der Voraussetzung des Artikels 77 Absatz 2 zweiter Unterabsatz der Verordnung (EWG) Nr. 918/83»,\n\n— «Ανακείμενα προοριξομενα για μειονεκτουντα άτομα: Διατήρηση τησ ατέλειασ εξαρτωμενν αοπ Την τήρηση του αρθρου 77 παράγραωοσ 2 δεύτερο εδάφιο του κανονισμου (ΕΟΚ) αριθ. 918/83»,\n\n— «Articles for the handicapped: continuation of relief subject to compliance with the second subparagraph of Article 77 (2) of Regulation (EEC) No 918/83»,\n\n— «Objeto para personas minusválidas: se mantiene la franquicia subordinada al respeto del artículo 77, apartado 2, segundo párrafo, del Reglamento (CEE) n.º 918/83»,\n\n— «Kaubaartiklid puuetega inimestele: impordimaksudest vabastamise jätkamine vastavalt määruse (EMÜ) nr 918/83 artikli 77 (2) teisele alapunktile»,\n\n— «Vammaisille tarkoitetut tavarat: tullittomuus jatkuu, edellyttäen että asetuksen (ETY) N:o918/83 77 artiklan 2 kohdan 2 alakohdan ehtoja noudatetaanföremål för handikappade:/Fortsatt tullfrihet under förutsättning att villkoren i artikel 77.2 andra stycket i förordning»,\n\n— «Objet pour personnes handicapées: maintien de la franchise subordonné au respect de l'article 77 paragraphe 2 deuxiáme alinéa du règlement (CEE) n.º 918/83»,\n\n— «Áru behozatala fogyatékos személyek számára: a vámmentesség fenntartása a 918/83/EGK rendelet 77. cikkének (2) bekezdésében foglalt feltételek teljesítése esetén»,\n\n— «Oggetto per persone minorate: la franchigia è mantenuta a condizione che venga respettato l'articolo 77, paragrafo 2, secondo comma del regolamento (CEE) n. 918/83;»,\n\n— «Dirbinys neįgaliesiems: atleidimo nuo muitų taikymo pratęsimas laikantis Reglamento (EEB) Nr. 918/83 77 straipsnio 2 dalies antrosios pastraipos nuostatų»,\n\n— «Invalīdiem paredzētas preces: atbrīvojuma turpmāka piemērošana atkarīga no atbilstības Regulas (EEK) Nr.918/83 77. panta 2. punkta otrajai daļai»,\n\n— «Oġġett għal nies b'xi diżabilita': tkomplija ta' ħelsien mid-dazju suġġett għal osservanza tat-tieni subparagrafu ta' l-Artiklu 77 (2) tar-Regolament (KEE) Nru 918/83»,\n\n— «Voorwerp voor gehandicapten: handhaving van de vrijstelling is afhankelijk van de nakomaing van artikel 77, lid 2, tweede alinea, van Verordening (EEG) nr. 918/83,»\n\n— «Przedmiot przeznaczony dla osób niepełnosprawnych: kontynuacja zwolnienia z zastrzeżeniem zachowania warunków określonych w art. 77 ust. 2 akapit drugi rozporządzenia (EWG) nr 918/83»,\n\n— «Objectos destinados a pessoas deficientes: é mantida a franquia desde que seja respeitado o n.º 2, segundo parágrafo, do artigo 77.º do Regulamento (CEE) n.º 918/83»,\n\n— «Articole pentru persoane cu handicap: menținerea scutirii este condiționată de respectarea prevederilor Articolului 77(2) din Regulamentul (CEE) Nr. 918/83»,\n\n— «Tovar pre postihnuté osoby: naďalej oslobodený, ak spĺňa podmienky ustanovené v článku 77 odseku 2 druhom pododseku nariadenia (EHS) č. 918/83»,\n\n— «Predmet za invalide: nadaljevanje oprostitve ob upoštevanju skladnosti z drugim pododstavkom člena 77 (2) uredbe (EGS) št. 918/83»,\n\n— «Föremål för handikappade: Fortsatt tullfrihet under förutsättning att villkoren i artikel 77.2 andrastycket i förordning (EEG) nr 918/83 uppfylls».\n\n3. O disposto nos n.^os^ 1 e 2 aplicar-se-á «mutatis mutandis» ao empréstimo, ao aluguer ou à cessão das peças sobresselentes, elementos ou acessórios especificos de objectos destinados a pessoas deficientes, assim como das ferramentas a utilizar na manutenção, controlo, calibragem ou reparação dos referidos objectos que tenham sido importados com franquia ao abrigo do segundo parágrafo do artigo 71.º e do n.º 2 do artigo 72.º do regulamento de base."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "efd42e2743bcd814": {
+   "fragment_id": "DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO FRANQUIA DE OBJECTOS AO ABRIGO DO PRIMEIRO PARÁGRAFO DO ARTIGO 71.º DO REGULAMENTO DE BASE",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO FRANQUIA DE OBJECTOS AO ABRIGO DO PRIMEIRO PARÁGRAFO DO ARTIGO 71.º DO REGULAMENTO DE BASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO FRANQUIA DE OBJECTOS AO ABRIGO DO PRIMEIRO PARÁGRAFO DO ARTIGO 71.º DO REGULAMENTO DE BASE"
+  },
+  "3326c92a84cc1316": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A fim de obter a admissão com franquia de um objecto destinado a cegos ao abrigo do primeiro parágrafo do artigo 71.º do regulamento de base, o chefe da instituição ou organização destinatária, ou o seu representante habilitado, deve formular o pedido à autoridade competente do Estado-membro onde está situada essa instituição ou organização.\n\nEste pedido deve ser acompanhado de todos os elementos de informação considerados necessários pela autoridade competente a fim de determinar se estão preenchidas as condições previstas para a concessão da franquia.\n\n2. A autoridade competente do Estado-membro onde está situada a instituição ou a organização destinatária decidirá directamente sobre o pedido referido no n.º 1."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "f871574433ffd740": {
+   "fragment_id": "DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE OBJECTOS AO ABRIGO DO N.º 1 DO ARTIGO 72.º DO REGULAMENTO DE BASE",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE OBJECTOS AO ABRIGO DO N.º 1 DO ARTIGO 72.º DO REGULAMENTO DE BASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE OBJECTOS AO ABRIGO DO N.º 1 DO ARTIGO 72.º DO REGULAMENTO DE BASE"
+  },
+  "11d969f1ff2f8dff": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A fim de obter a admissão com franquia de um objecto destinado a pessoas deficientes ao abrigo do disposto no n.º 1 do artigo 72.º do regulamento de base, o chefe da instituição ou organização destinatária, ou o seu representante habilitado, deve formular o pedido à autoridade competente do Estado-membro onde está situada essa instituição ou organização.\n\n2. O pedido referido no n.º 1 deve conter as seguintes informações relativas ao objecto em causa:\n\na) A designação comercial exacta desse objecto utilizada pelo fabricante, a sua presumível classificação na Nomenclatura Combinada, assim como as características técnicas objectivas que permitem considerá-lo como especialmente concebido para a educação, o emprego ou a promoção social das pessoas deficientes;\n\nb) O nome ou a firma e o endereço do fabricante e, se for caso disso, do fornecedor;\n\nc) O país de origem do objecto;\n\nd) O local de destino do objecto;\n\ne) O uso preciso a que se destina o objecto;\n\nf) O preço do objecto ou o seu valor aduaneiro;\n\ng) O número de exemplares do referido objecto.\n\nAo pedido deve ser junta documentação que forneça todas as informações úteis sobre as características e as especificações técnicas do objecto."
+  },
+  "6b0bdc421834dc52": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA autoridade competente do Estado-membro onde está situada a instituição ou organização destinatária dos objectos decidirá directamente sobre os pedidos referidos no artigo 6.º"
+  },
+  "a789523748fba9f7": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO prazo de validade das autorizações de admissão com franquia é de seis meses.\n\nAs autoridades competentes podem, no entanto, fixar um prazo maior, tendo em consideração as circunstâncias especiais de cada operação."
+  },
+  "4f8efffddfe96470": {
+   "fragment_id": "TÍTULO V",
+   "type": "divisao",
+   "heading": "TÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V"
+  },
+  "0465b23b69f3af23": {
+   "fragment_id": "DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE PEÇAS SOBRESSELENTES, DE ELEMENTOS OU DE ACESSÓRIOS ESPECÍFICOS E DE FERRAMENTAS AO ABRIGO DO SEGUNDO PARÁGRAFO DO ARTIGO 71.º E DO N.º 2 DO ARTIGO 72.º DO REGULAMENTO DE BASE",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE PEÇAS SOBRESSELENTES, DE ELEMENTOS OU DE ACESSÓRIOS ESPECÍFICOS E DE FERRAMENTAS AO ABRIGO DO SEGUNDO PARÁGRAFO DO ARTIGO 71.º E DO N.º 2 DO ARTIGO 72.º DO REGULAMENTO DE BASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE PEÇAS SOBRESSELENTES, DE ELEMENTOS OU DE ACESSÓRIOS ESPECÍFICOS E DE FERRAMENTAS AO ABRIGO DO SEGUNDO PARÁGRAFO DO ARTIGO 71.º E DO N.º 2 DO ARTIGO 72.º DO REGULAMENTO DE BASE"
+  },
+  "bff530928205fdd9": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nNa acepção do segundo parágrafo do artigo 71.º e do n.º 2 do artigo 72.º do regulamento de base, consideram-se acessórios especificos os artigos especialmente concebidos para serem utilizados com um objecto determinado a fim de melhorarem o seu rendimento ou as suas possibilidades de utilização."
+  },
+  "6d659b8e7aefc286": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nPara o efeito de obter a admissão com franquia de peças sobresselentes, de elementos ou de acessórios especificos e de ferramentas ao abrigo do segundo parágrafo do artigo 71.º ou do n.º 2 do artigo 72.º do regulamento de base, o chefe da instituição ou organização destinatária, ou o seu representante habilitado, deve formular o pedido à autoridade competente do Estado-membro onde está situada essa instituição ou organização.\n\nEste pedido deve ser acompanhado de todos os elementos de informação considerados necessários pela autoridade competente a fim de se determinar se estão preenchidas as condições previstas no segundo parágrafo do artigo 71.º ou no n.º 2 do artigo 72.º do regulamento de base."
+  },
+  "691b7963360c4c63": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA autoridade competente do Estado-membro onde está situada a instituição ou organização destinatária decidirá directamente sobre o pedido referido no artigo 14.º."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "41af131e7df4dc00": {
+   "fragment_id": "IMPORTAÇÕES EFECTUADAS POR CEGOS E OUTRAS DISPOSIÇÕES APLICÁVEIS A PESSOAS DEFICIENTES",
+   "type": "divisao",
+   "heading": "IMPORTAÇÕES EFECTUADAS POR CEGOS E OUTRAS DISPOSIÇÕES APLICÁVEIS A PESSOAS DEFICIENTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IMPORTAÇÕES EFECTUADAS POR CEGOS E OUTRAS DISPOSIÇÕES APLICÁVEIS A PESSOAS DEFICIENTES"
+  },
+  "148aaca4c3761bfd": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nPara a admissão com franquia de direitos de importação dos objectos referidos no primeiro e segundo parágrafos do artigo 71.º do regulamento de base importados pelos próprios cegos e para seu uso próprio, alicar-se-á «mutatis mutandis» o disposto nos artigos 4.º, 13.º, 14.º e 15.º."
+  },
+  "f34aa2b761ca4942": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nPara a importação com franquia de direitos de objectos importados pelas próprias pessoas deficientes e para seu uso próprio, aplicar-se-á *mutatis mutandis*:\n\n— o disposto nos artigos 6.º, 7.º e 10.º, se se tratar de objectos referidos no n.º 1 do artigo 72.º do regulamento de base,\n\n— o disposto nos artigos 13.º, 14.º e 15.º, se se tratar de artigos referidos no n.º 2 do artigo 72.º do regulamento de base."
+  },
+  "e4fd99fe561813c4": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nAs autoridades competentes podem permitir que o pedido previsto nos artigos 4.º e 6.º seja feito sob uma forma simplificada quando se referir a objectos importados nas condições mencionadas nos artigos 16.º e 17.º"
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "b9607c9fdc1fe25a": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO Regulamento (CEE) n.º 2783/79 é revogado."
+  },
+  "f891aca868a8cbaf": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO presente regulamento entra em vigor em 1 de Julho de 1984.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "d5655864f027e102": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6e6d27e1-7012-417b-8dd9-f49805bd1b54.0017.03/DOC_1#src.E0001)) JO n.º L 105 de 23. 4. 1983, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6e6d27e1-7012-417b-8dd9-f49805bd1b54.0017.03/DOC_1#src.E0002)) JO n.º L 134 de 31. 5. 1979, p. 8.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6e6d27e1-7012-417b-8dd9-f49805bd1b54.0017.03/DOC_1#src.E0003)) JO n.º L 318 de 13. 12. 1979, p. 27."
+  },
+  "28f5555ca8d21428": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1983R2289 — PT — 19.12.2011 — 007.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31983R2289) [REGULAMENTO (CEE) N.º 2289/83 DA COMISSÃO](http://publications.europa.eu/resource/celex/31983R2289) [de 29 de Julho de 1983](http://publications.europa.eu/resource/celex/31983R2289) [que fixa as disposições de aplicação dos artigos 70.º a 78.º do Regulamento (CEE) n.º 918/83 do Conselho relativo ao estabelecimento do regime comunitário das franquias aduaneiras](http://publications.europa.eu/resource/celex/31983R2289) (JO L 220, 11.8.1983, p.15)\n\n**revogado por:**\n\n- [Regulamento de Execução (UE) n.o 1224/2011 da Comissão de 28 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1224) — L 314 — 14 — 29.11.2011"
+  }
+ }
+}

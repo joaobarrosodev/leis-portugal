@@ -1,0 +1,961 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006R0885:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R0885-20150101",
+ "dre_path": null,
+ "source_lastmod": "2015-01-01",
+ "versions": [
+  {
+   "date": "2007-10-30",
+   "future": false,
+   "celex": "02006R0885-20071030",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5fb47de107503eb4",
+    "f6c2eb219fe1b284",
+    "fbfe4e1cc9a1f0b3",
+    "57556f42f5890e84",
+    "d8b11f54d73d60a4",
+    "449974ae13946812",
+    "dc921b7c9ec37f1e",
+    "dcbd8a9692d694bc",
+    "8a6992ea3c104fd1",
+    "f0c29f6e3c0db882",
+    "5aba645132f945d0",
+    "76fe1bb0d0b85641",
+    "c7d5cd0d5eade288",
+    "04ef3b4c1b71cf40",
+    "d2ce82ebde344b9b",
+    "43c1a1e14d488204",
+    "a3b195c08c38f795",
+    "f5ce6b6f3dd9613f",
+    "fd978bee2d66aabf",
+    "f87f40094d1e2679",
+    "25e4cbf0aba61c91",
+    "f42c7521b6b63599",
+    "2179e45f083f7913",
+    "6cc3b57c1b453c93",
+    "fee7c0f6661bbf52",
+    "b2df695365f818f9",
+    "529d62596764c3a3",
+    "476777761d4f08ca",
+    "d664376e2a8dcecd",
+    "8417735722b6d94d",
+    "46bc7df608c0a115",
+    "aade6fd255c88bc6",
+    "9824e51cc55f4014",
+    "d3d3e5ee7d8c0ffb",
+    "0d569622022f394e",
+    "1c196eb5578ad3c0",
+    "60df091210b31413",
+    "fd3c51da303372f9",
+    "9062afb7ef72ba18",
+    "ce9b609bdf577d0d",
+    "59bafa829a905623",
+    "55d8f914a3b3dd06",
+    "a2e8292ae7bcf601",
+    "2b69540d2fbc3299",
+    "6c72b728838f655c",
+    "be05db12d5f83905",
+    "ffd6737dad9af8d7",
+    "852174729551523b",
+    "343778b2bd4d9847",
+    "720af75c92791b10",
+    "bff3e737ae725bfe",
+    "f81bc90f93fc5bcd",
+    "99e69f6f4e7561ea",
+    "e03a0eb4d5b2eef3",
+    "693b7c02317de610",
+    "64610ae29a6cb67c",
+    "2a12b1143ad423b1",
+    "f17038747102c30f"
+   ]
+  },
+  {
+   "date": "2008-10-29",
+   "future": false,
+   "celex": "02006R0885-20081029",
+   "acts": [
+    {
+     "id": "eu:celex:32008R1034:por",
+     "title": "REGULAMENTO (CE) N. o 1034/2008 DA COMISSÃO de 21 de Outubro de 2008",
+     "published": null,
+     "celex": "32008R1034"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 6.º — Conteúdo das contas anuais",
+    "Altera Artigo 18.º — Revogação",
+    "Altera D) Procedimentos relativos aos adiantamentos e garantias",
+    "Altera Modelo de quadro referido na alínea h) do artigo 6.º",
+    "Altera Notas",
+    "Adita CAPÍTULO 1-A",
+    "Adita COBRANÇA DE DÍVIDAS",
+    "Adita Artigo 5.º-A — De minimis",
+    "Adita Artigo 5.º-B — Método de cobrança"
+   ],
+   "fragments": [
+    "2348caba98bde4ee",
+    "f6c2eb219fe1b284",
+    "fbfe4e1cc9a1f0b3",
+    "57556f42f5890e84",
+    "d8b11f54d73d60a4",
+    "449974ae13946812",
+    "dc921b7c9ec37f1e",
+    "dcbd8a9692d694bc",
+    "46056ea8f09306f0",
+    "12cd070c50d7e382",
+    "b0fde99bef64acc7",
+    "1f3795fb40e90e3b",
+    "8a6992ea3c104fd1",
+    "f0c29f6e3c0db882",
+    "0da83098a0a96fad",
+    "76fe1bb0d0b85641",
+    "c7d5cd0d5eade288",
+    "04ef3b4c1b71cf40",
+    "d2ce82ebde344b9b",
+    "43c1a1e14d488204",
+    "a3b195c08c38f795",
+    "f5ce6b6f3dd9613f",
+    "fd978bee2d66aabf",
+    "f87f40094d1e2679",
+    "25e4cbf0aba61c91",
+    "f42c7521b6b63599",
+    "2179e45f083f7913",
+    "6cc3b57c1b453c93",
+    "fee7c0f6661bbf52",
+    "b2df695365f818f9",
+    "6a78f42f779f3a4c",
+    "476777761d4f08ca",
+    "d664376e2a8dcecd",
+    "8417735722b6d94d",
+    "46bc7df608c0a115",
+    "aade6fd255c88bc6",
+    "9824e51cc55f4014",
+    "d3d3e5ee7d8c0ffb",
+    "0d569622022f394e",
+    "1c196eb5578ad3c0",
+    "60df091210b31413",
+    "fd3c51da303372f9",
+    "f0f6f390edbc05be",
+    "ce9b609bdf577d0d",
+    "59bafa829a905623",
+    "55d8f914a3b3dd06",
+    "a2e8292ae7bcf601",
+    "2b69540d2fbc3299",
+    "6c72b728838f655c",
+    "be05db12d5f83905",
+    "ffd6737dad9af8d7",
+    "852174729551523b",
+    "343778b2bd4d9847",
+    "720af75c92791b10",
+    "0fa04790cbf676e6",
+    "f81bc90f93fc5bcd",
+    "99e69f6f4e7561ea",
+    "e03a0eb4d5b2eef3",
+    "693b7c02317de610",
+    "64610ae29a6cb67c",
+    "2a12b1143ad423b1",
+    "37455b45bbfad1ef"
+   ]
+  },
+  {
+   "date": "2012-05-10",
+   "future": false,
+   "celex": "02006R0885-20120510",
+   "acts": [
+    {
+     "id": "eu:celex:32012R0375:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 375/2012 DA COMISSÃO de 2 de maio de 2012",
+     "published": null,
+     "celex": "32012R0375"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º-A — De minimis",
+    "Altera Artigo 6.º — Conteúdo das contas anuais",
+    "Altera Artigo 9.º — Conservação das informações contabilísticas",
+    "Altera Artigo 10.º — Apuramento financeiro",
+    "Altera Artigo 11.º — Apuramento da conformidade",
+    "Altera Artigo 18.º — Revogação",
+    "Altera D) Procedimentos relativos aos adiantamentos e garantias",
+    "Altera Modelo de quadro referido na alínea h) do artigo 6.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "4083720c9849c0cf",
+    "f6c2eb219fe1b284",
+    "fbfe4e1cc9a1f0b3",
+    "57556f42f5890e84",
+    "d8b11f54d73d60a4",
+    "449974ae13946812",
+    "dc921b7c9ec37f1e",
+    "dcbd8a9692d694bc",
+    "46056ea8f09306f0",
+    "12cd070c50d7e382",
+    "9f2f0c04c9b8eb5a",
+    "1f3795fb40e90e3b",
+    "8a6992ea3c104fd1",
+    "f0c29f6e3c0db882",
+    "5028841ec9fd8251",
+    "76fe1bb0d0b85641",
+    "c7d5cd0d5eade288",
+    "c8e55a30e5335152",
+    "51df519d1492baf2",
+    "7a12b5dcd2417b47",
+    "a3b195c08c38f795",
+    "f5ce6b6f3dd9613f",
+    "fd978bee2d66aabf",
+    "f87f40094d1e2679",
+    "25e4cbf0aba61c91",
+    "f42c7521b6b63599",
+    "2179e45f083f7913",
+    "6cc3b57c1b453c93",
+    "fee7c0f6661bbf52",
+    "b2df695365f818f9",
+    "cef3233c5ed57cd3",
+    "476777761d4f08ca",
+    "d664376e2a8dcecd",
+    "8417735722b6d94d",
+    "46bc7df608c0a115",
+    "aade6fd255c88bc6",
+    "9824e51cc55f4014",
+    "d3d3e5ee7d8c0ffb",
+    "0d569622022f394e",
+    "1c196eb5578ad3c0",
+    "60df091210b31413",
+    "fd3c51da303372f9",
+    "63aad493517ae248",
+    "ce9b609bdf577d0d",
+    "59bafa829a905623",
+    "55d8f914a3b3dd06",
+    "a2e8292ae7bcf601",
+    "2b69540d2fbc3299",
+    "6c72b728838f655c",
+    "be05db12d5f83905",
+    "ffd6737dad9af8d7",
+    "852174729551523b",
+    "343778b2bd4d9847",
+    "720af75c92791b10",
+    "f17a69f89be42262",
+    "f81bc90f93fc5bcd",
+    "99e69f6f4e7561ea",
+    "e03a0eb4d5b2eef3",
+    "693b7c02317de610",
+    "64610ae29a6cb67c",
+    "2a12b1143ad423b1",
+    "2197e8bcfe67c143"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "celex": "02006R0885-20150101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO 1",
+    "Suprime ORGANISMOS PAGADORES E OUTROS ORGANISMOS",
+    "Suprime Artigo 1.º — Acreditação dos organismos pagadores",
+    "Suprime Artigo 2.º — Revisão da acreditação",
+    "Suprime Artigo 3.º — Declaração de fiabilidade",
+    "Suprime Artigo 4.º — Organismo de coordenação",
+    "Suprime Artigo 5.º — Certificação",
+    "Suprime CAPÍTULO 1-A",
+    "Suprime COBRANÇA DE DÍVIDAS",
+    "Suprime Artigo 5.º-A — De minimis",
+    "Suprime Artigo 5.º-B — Método de cobrança",
+    "Suprime CAPÍTULO 2",
+    "Suprime APURAMENTO DAS CONTAS",
+    "Suprime Artigo 6.º — Conteúdo das contas anuais",
+    "Suprime Artigo 7.º — Transmissão das informações",
+    "Suprime Artigo 8.º — Forma e conteúdo das informações contabilísticas",
+    "Suprime Artigo 9.º — Conservação das informações contabilísticas",
+    "Suprime Artigo 10.º — Apuramento financeiro",
+    "Suprime Artigo 11.º — Apuramento da conformidade",
+    "Suprime CAPÍTULO 3",
+    "Suprime PROCEDIMENTO DE CONCILIAÇÃO",
+    "Suprime Artigo 12.º — Órgão de conciliação",
+    "Suprime Artigo 13.º — Composição do órgão de conciliação",
+    "Suprime Artigo 14.º — Independência do órgão de conciliação",
+    "Suprime Artigo 15.º — Funcionamento",
+    "Suprime Artigo 16.º — Procedimento de conciliação",
+    "Suprime CAPÍTULO 4",
+    "Suprime DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+    "Suprime Artigo 17.º — Disposições transitórias",
+    "Suprime Artigo 18.º — Revogação",
+    "Suprime Artigo 19.º — Entrada em vigor e execução",
+    "Suprime ANEXO I",
+    "Suprime CRITÉRIOS DE ACREDITAÇÃO",
+    "Suprime 1. Ambiente interno",
+    "Suprime A) Estrutura organizativa",
+    "Suprime B) Recursos humanos",
+    "Suprime C) Delegação",
+    "Suprime 2. Actividades de controlo",
+    "Suprime A) Procedimentos para a autorização dos pedidos",
+    "Suprime B) Procedimentos para o pagamento",
+    "Suprime C) Procedimentos contabilísticos",
+    "Suprime D) Procedimentos relativos aos adiantamentos e garantias",
+    "Suprime E) Procedimentos aplicáveis às dívidas",
+    "Suprime F) Pista de auditoria",
+    "Suprime 3. Informação e comunicação",
+    "Suprime A) Comunicação",
+    "Suprime B) Segurança dos sistemas de informação",
+    "Suprime 4. Acompanhamento",
+    "Suprime A) Acompanhamento contínuo através de actividades de controlo interno",
+    "Suprime B) Avaliações individuais através de um serviço de auditoria interna",
+    "Suprime ANEXO II",
+    "Suprime DECLARAÇÃO DE FIABILIDADE",
+    "Suprime ANEXO III",
+    "Suprime Modelo de quadro referido na alínea h) do artigo 6.º",
+    "Suprime ANEXO IIIA",
+    "Suprime Modelo de quadro referido na alínea i) do artigo 6.º",
+    "Suprime ANEXO IV",
+    "Suprime TRANSMISSÃO DOS PEDIDOS DE INFORMAÇÃO REFERIDOS NO N.º 4 DO ARTIGO 8.º",
+    "Suprime ANEXO V",
+    "Suprime QUADRO DE CORRESPONDÊNCIA",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "8c3fa88a3cda54af"
+   ]
+  }
+ ],
+ "fragments": {
+  "5fb47de107503eb4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Junho de 2006\n\nque estabelece as regras de execução do Regulamento (CE) n.º 1290/2005 do Conselho no respeitante à acreditação dos organismos pagadores e de outros organismos e ao apuramento das contas do FEAGA e do FEADER\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1290/2005 do Conselho, de 21 de Junho de 2005, relativo ao financiamento da política agrícola comum ([^1^](http://publications.europa.eu/resource/cellar/4d62450a-08db-4182-aca1-538e711fb682.0017.03/DOC_1#E0001)), nomeadamente o artigo 42.º,\n\n(1) Na sequência da adopção do Regulamento (CE) n.º 1290/2005, devem ser estabelecidas novas regras de execução no respeitante à acreditação dos organismos pagadores e de outros organismos e ao apuramento das contas do Fundo Europeu Agrícola de Garantia (FEAGA) e do Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER). O Regulamento (CE) n.º 1663/95 da Comissão, de 7 de Julho de 1995, que estabelece as regras de execução do Regulamento (CEE) n.º 729/70 no que respeita ao processo de apuramento das contas do FEOGA, secção Garantia ([^2^](http://publications.europa.eu/resource/cellar/4d62450a-08db-4182-aca1-538e711fb682.0017.03/DOC_1#E0002)), deve, por conseguinte, ser revogado e substituído por um novo regulamento.\n\n(2) Os Estados-Membros só devem acreditar os organismos pagadores se estes satisfizerem certos critérios mínimos estabelecidos ao nível comunitário. Tais critérios devem cobrir quatro grandes domínios: ambiente interno, actividades de controlo, informação e comunicação, e acompanhamento. Os Estados-Membros devem poder estabelecer critérios de acreditação complementares, a fim de ter em conta eventuais características específicas de um organismo pagador.\n\n(3) Os Estados-Membros devem estar obrigados a manter os seus organismos pagadores sob supervisão constante e a estabelecer um dispositivo de troca de informações sobre os eventuais casos de não-conformidade. Para tratar esses casos, convém criar um procedimento que inclua a obrigação de conceber um plano para corrigir, num prazo a fixar, quaisquer deficiências detectadas. As despesas efectuadas pelos organismos pagadores cuja acreditação seja mantida pelos Estados-Membros apesar de não terem aplicado esse plano de correcção no prazo fixado devem ser objecto do procedimento de apuramento da conformidade previsto no artigo 31.º do Regulamento (CE) n.º 1290/2005.\n\n(4) Convém estabelecer as regras de execução no respeitante ao conteúdo e à forma da declaração de fiabilidade referida no n.º 1, subalínea iii) da alínea c), do artigo 8.º do Regulamento (CE) n.º 1290/2005.\n\n(5) É necessário especificar o papel do organismo de coordenação referido no n.º 3 do artigo 6.º do Regulamento (CE) n.º 1290/2005 e estabelecer os critérios relativos à sua acreditação.\n\n(6) A fim de garantir que os certificados e relatórios a elaborar pelos organismos de certificação, referidos no artigo 7.º do Regulamento (CE) n.º 1290/2005, sejam úteis para a Comissão no âmbito do procedimento de apuramento das contas, é necessário especificar o seu conteúdo.\n\n(7) Para permitir que a Comissão proceda ao apuramento das contas em conformidade com o artigo 30.º do Regulamento (CE) n.º 1290/2005, há que especificar o conteúdo das contas anuais dos organismos pagadores e estabelecer uma data para a transmissão à Comissão dessas contas e de outros documentos pertinentes. O período durante o qual os organismos pagadores devem manter à disposição da Comissão os documentos comprovativos relativos a todas as despesas e receitas afectadas deve, igualmente, ser indicado.\n\n(8) Além disso, é necessário precisar que a Comissão estabelece a forma e o conteúdo das informações contabilísticas que os organismos pagadores lhe devem transmitir. Neste contexto, é igualmente oportuno incluir no presente regulamento as regras relativas à utilização dessas informações contabilísticas, que constam actualmente do Regulamento (CE) n.º 2390/1999 da Comissão, de 25 de Outubro de 1999, que estabelece a forma e o conteúdo das informações contabilísticas a apresentar à Comissão no âmbito do apuramento das contas do FEOGA, secção Garantia, e para efeitos de acompanhamento e elaboração de previsões ([^3^](http://publications.europa.eu/resource/cellar/4d62450a-08db-4182-aca1-538e711fb682.0017.03/DOC_1#E0003)). O Regulamento (CE) n.º 2390/1999 deve, portanto, ser revogado.\n\n(9) Convém estabelecer disposições precisas em relação ao apuramento das contas previsto no artigo 30.º do Regulamento (CE) n.º 1290/2005 e ao apuramento da conformidade previsto no artigo 31.º do mesmo regulamento, nomeadamente um dispositivo que permita que os montantes resultantes sejam, conforme o caso, deduzidos de ou adicionados a um dos pagamentos a efectuar posteriormente aos Estados-Membros.\n\n(10) Para efeitos do procedimento de apuramento da conformidade, a Decisão 94/442/CE da Comissão, de 1 de Julho de 1994, relativa à criação de um processo de conciliação no quadro do apuramento das contas do FEOGA, secção Garantia ([^4^](http://publications.europa.eu/resource/cellar/4d62450a-08db-4182-aca1-538e711fb682.0017.03/DOC_1#E0004)), criou um órgão de conciliação e adoptou as regras relativas à sua composição e funcionamento. Por razões de simplificação, convém incluir essas regras no presente regulamento, adaptando-as, se necessário. A Decisão 94/442/CE deve, portanto, ser revogada.\n\n(11) Se um organismo pagador acreditado em conformidade com o Regulamento (CE) n.º 1663/95 assumir, após 16 de Outubro de 2006, responsabilidades que não detinha antes dessa data, é necessária uma nova acreditação de acordo com os critérios estabelecidos no presente regulamento para essas novas responsabilidades. A título transitório, deve ser possível adaptar a acreditação antes de 16 de Outubro de 2007.\n\n(12) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité dos Fundos Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f6c2eb219fe1b284": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 1"
+  },
+  "fbfe4e1cc9a1f0b3": {
+   "fragment_id": "ORGANISMOS PAGADORES E OUTROS ORGANISMOS",
+   "type": "divisao",
+   "heading": "ORGANISMOS PAGADORES E OUTROS ORGANISMOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ORGANISMOS PAGADORES E OUTROS ORGANISMOS"
+  },
+  "57556f42f5890e84": {
+   "fragment_id": "Artigo 1.º — Acreditação dos organismos pagadores",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Acreditação dos organismos pagadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Acreditação dos organismos pagadores\n\n1. Para ser acreditado, um organismo pagador, na acepção do n.º 1 do artigo 6.º do Regulamento (CE) n.º 1290/2005, deve dispor de uma organização administrativa e de um sistema de controlo interno que satisfaçam os critérios estabelecidos no anexo I do presente regulamento (a seguir denominados «critérios de acreditação») relativamente aos seguintes domínios:\n\na) Ambiente interno;\n\nb) Actividades de controlo;\n\nc) Informação e comunicação;\n\nd) Acompanhamento.\n\nOs Estados-Membros podem estabelecer critérios de acreditação complementares para ter em conta a dimensão, as responsabilidades e outras características específicas do organismo pagador.\n\n2. Em relação a cada organismo pagador, os Estados-Membros designarão uma autoridade ao nível ministerial (a seguir denominada «autoridade competente») com competências para conferir e retirar a acreditação ao organismo e para executar as tarefas que lhe são atribuídas pelo presente regulamento. Do facto, informarão a Comissão.\n\n3. A autoridade competente decidirá da acreditação do organismo pagador através de um acto oficial, com base num exame de acordo com os critérios de acreditação.\n\nO exame será efectuado por um organismo independente do organismo pagador a acreditar e incluirá, nomeadamente, as regras relativas à autorização e execução dos pagamentos, protecção do orçamento comunitário, segurança dos sistemas informáticos, manutenção dos registos contabilísticos, repartição de tarefas e adequada realização dos controlos internos e externos, relativos às operações financiadas pelo Fundo Europeu Agrícola de Garantia (FEAGA) e pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER).\n\n4. Se a autoridade competente considerar que o organismo pagador não cumpre os critérios de acreditação, enviar-lhe-á instruções especificando as condições que o organismo pagador deve satisfazer antes de poder ser acreditado.\n\nNa pendência da execução de quaisquer alterações exigidas, a acreditação pode ser atribuída, a título provisório, para um período a fixar em função da gravidade dos problemas identificados, mas não superior a 12 meses. Em casos devidamente justificados, a Comissão pode, a pedido do Estado-Membro em causa, prorrogar esse período.\n\n5. As comunicações previstas no n.º 1, alínea a), do artigo 8.º do Regulamento (CE) n.º 1290/2005 devem ser efectuadas imediatamente depois de o organismo pagador ser acreditado pela primeira vez e, de qualquer forma, antes de serem imputadas ao FEAGA ou ao FEADER quaisquer despesas efectuadas por esse organismo. Essas comunicações devem ser acompanhadas das declarações e documentos relativos aos seguintes elementos:\n\na) Responsabilidades atribuídas ao organismo pagador;\n\nb) Repartição das responsabilidades entre os seus serviços;\n\nc) Ligações com outros organismos, públicos ou privados, que também sejam responsáveis pela execução de medidas a título das quais o organismo impute despesas ao FEAGA ou ao FEADER;\n\nd) Procedimentos de recepção, verificação e validação dos pedidos dos beneficiários e de autorização, pagamento e contabilização das despesas;\n\ne) Disposições em matéria de segurança dos sistemas de informação.\n\n6. A Comissão informará o Comité dos Fundos Agrícolas dos organismos pagadores acreditados em cada Estado-Membro."
+  },
+  "d8b11f54d73d60a4": {
+   "fragment_id": "Artigo 2.º — Revisão da acreditação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Revisão da acreditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Revisão da acreditação\n\n1. A autoridade competente manterá sob supervisão constante os organismos pagadores pelos quais seja responsável, com base, nomeadamente, nos certificados e relatórios elaborados pelo organismo de certificação em conformidade com os n.^os^ 3 e 4 do artigo 5.º, e efectuará o acompanhamento de quaisquer deficiências detectadas. De três em três anos, a autoridade competente informará a Comissão, por escrito, dos resultados da sua supervisão e indicará se os organismos pagadores continuam a satisfazer os critérios de acreditação.\n\n2. Os Estados-Membros instituirão um sistema que garanta a transmissão imediata à autoridade competente de qualquer informação que sugira que um organismo pagador não satisfaz os critérios de acreditação.\n\n3. Sempre que um organismo pagador acreditado deixe de satisfazer um ou mais dos critérios de acreditação ou apresente deficiências graves susceptíveis de afectar a sua capacidade de executar as tarefas estabelecidas no n.º 1 do artigo 6.º do Regulamento (CE) n.º 1290/2005, a autoridade competente submeterá a acreditação do organismo a uma moratória e elaborará um plano para corrigir as deficiências detectadas num período a fixar em função da gravidade do problema, mas não superior a 12 meses a contar da data em que a acreditação é colocada sob moratória. Em casos devidamente justificados, a Comissão pode, mediante pedido do Estado-Membro em causa, prorrogar esse período.\n\n4. A autoridade competente informará a Comissão de qualquer plano elaborado nos termos do n.º 3 e da respectiva execução.\n\n5. Em caso de retirada da acreditação, a autoridade competente acreditará sem demora outro organismo pagador, em conformidade com o n.º 2 do artigo 6.º do Regulamento (CE) n.º 1290/2005 e com o artigo 1.º do presente regulamento, para garantir que os pagamentos aos beneficiários não sejam interrompidos.\n\n6. Sempre que a Comissão verifique que a autoridade competente não cumpriu a obrigação de elaborar um plano de correcção nos termos do n.º 3 ou que o organismo pagador mantém a acreditação apesar de não ter executado integralmente esse plano no prazo fixado, actuará relativamente a quaisquer deficiências que subsistam através do apuramento da conformidade previsto no artigo 31.º do Regulamento (CE) n.º 1290/2005."
+  },
+  "449974ae13946812": {
+   "fragment_id": "Artigo 3.º — Declaração de fiabilidade",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Declaração de fiabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Declaração de fiabilidade\n\n1. A declaração de fiabilidade referida no n.º 1, subalínea iii) da alínea c), do artigo 8.º do Regulamento (CE) n.º 1290/2005 será elaborada a tempo de permitir ao organismo de certificação a emissão do parecer referido no n.º 4, alínea b) do segundo parágrafo, do artigo 5.º do presente regulamento.\n\nA declaração de fiabilidade observará o disposto no anexo II e pode ser acompanhada de reservas destinadas a quantificar o potencial impacto financeiro. Nesse caso, incluirá um plano de medidas de correcção, bem como um calendário preciso para a sua execução.\n\n2. A declaração de fiabilidade deve ser baseada numa supervisão eficaz do sistema de controlo e gestão existente ao longo do ano."
+  },
+  "dc921b7c9ec37f1e": {
+   "fragment_id": "Artigo 4.º — Organismo de coordenação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Organismo de coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Organismo de coordenação\n\n1. O organismo de coordenação referido no n.º 3 do artigo 6.º do Regulamento (CE) n.º 1290/1995 será o único interlocutor da Comissão no que se refere ao Estado-Membro em causa para todas as questões respeitantes ao FEAGA e ao FEADER relacionadas com:\n\na) A distribuição de textos e directrizes comunitários pertinentes aos organismos pagadores e aos organismos responsáveis pela execução desses textos e directrizes, bem como pela promoção da sua aplicação uniforme;\n\nb) A comunicação à Comissão das informações previstas nos artigos 6.º e 8.º do Regulamento (CE) n.º 1290/2005;\n\nc) A colocação à disposição da Comissão de um registo completo de todas as informações contabilísticas necessárias para fins estatísticos e para a realização de controlos.\n\n2. Um organismo pagador pode desempenhar o papel do organismo de coordenação, desde que essas duas funções se conservem separadas.\n\n3. No desempenho das suas missões, o organismo de coordenação pode, de acordo com os procedimentos nacionais, recorrer a outros organismos ou serviços administrativos, nomeadamente àqueles que possuam competência contabilística ou técnica.\n\n4. O Estado-Membro interessado decidirá da acreditação do organismo de coordenação através de um acto oficial ao nível ministerial, depois de ter verificado que as regras administrativas do organismo oferecem garantias suficientes de que este último é capaz de desempenhar as missões previstas no n.º 3, segundo parágrafo, do artigo 6.º do Regulamento (CE) n.º 1290/2005.\n\nPara ser acreditado, o organismo de coordenação deve dispor de procedimentos destinados a garantir que:\n\na) Todas as declarações à Comissão sejam baseadas em informações provenientes de fontes devidamente autorizadas;\n\nb) As declarações à Comissão sejam devidamente autorizadas antes da sua transmissão;\n\nc) Exista uma pista de auditoria adequada para apoiar as informações transmitidas à Comissão;\n\nd) Um registo das informações recebidas e transmitidas seja conservado com toda a segurança, em papel ou em suporte informático.\n\n5. A confidencialidade, integridade e disponibilidade de todos os dados informáticos na posse dos organismos de coordenação devem ser asseguradas através de medidas adaptadas à estrutura administrativa, ao pessoal e ao ambiente tecnológico de cada organismo de coordenação. O esforço financeiro e tecnológico deve ser proporcional aos riscos efectivamente corridos.\n\n6. As comunicações previstas no n.º 3, primeiro parágrafo, do artigo 6.º e no n.º 1, alínea a), do artigo 8.º do Regulamento (CE) n.º 1290/2005 devem ser efectuadas imediatamente depois de o organismo de coordenação ser acreditado pela primeira vez e, de qualquer forma, antes de serem imputadas ao FEAGA ou ao FEADER quaisquer despesas pelas quais esse organismo seja responsável. Essas comunicações serão acompanhadas pelo documento de acreditação do organismo, bem como por informações sobre as condições administrativas, contabilísticas e de controlo interno relativas ao seu funcionamento."
+  },
+  "dcbd8a9692d694bc": {
+   "fragment_id": "Artigo 5.º — Certificação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Certificação\n\n1. O organismo de certificação referido no artigo 7.º do Regulamento (CE) n.º 1290/2005 será designado pela autoridade competente. Esse organismo será funcionalmente independente do organismo pagador e do organismo de coordenação em causa e possuirá a competência técnica necessária.\n\n2. O organismo de certificação realizará o exame do organismo pagador em causa de acordo com normas de auditoria internacionalmente aceites e terá em conta eventuais directrizes estabelecidas pela Comissão no respeitante à aplicação dessas normas.\n\nO organismo de certificação realizará os controlos durante e após cada exercício financeiro.\n\n3. O organismo de certificação elaborará um certificado que deve indicar se obteve garantias suficientes de que as contas a transmitir à Comissão são autênticas, completas e rigorosas e que os procedimentos de controlo interno funcionaram satisfatoriamente.\n\nO certificado basear-se-á no exame dos procedimentos utilizados e de uma amostra de operações. No que toca à estrutura administrativa do organismo pagador, o referido exame limitar-se-á a determinar a capacidade dessa estrutura para garantir o controlo da conformidade com as regras comunitárias antes de os pagamentos serem efectuados.\n\n4. O organismo de certificação elaborará um relatório com os resultados das suas verificações. Esse relatório abrangerá as funções que são delegadas ou que são exercidas pelas autoridades aduaneiras nacionais. O relatório deve indicar se:\n\na) O organismo pagador satisfaz os critérios de acreditação;\n\nb) Os procedimentos aplicados pelo organismo pagador fornecem garantias suficientes de que as despesas imputadas ao FEAGA e ao FEADER foram efectuadas em conformidade com as regras comunitárias, e especificar as recomendações de melhorias, se for caso disso, que foram efectuadas e postas em prática;\n\nc) As contas anuais referidas no n.º 1 do artigo 6.º estão em concordância com os livros e registos do organismo pagador;\n\nd) Os mapas das despesas e das operações de intervenção constituem um registo autêntico, completo e rigoroso das operações imputadas ao FEAGA e ao FEADER;\n\ne) Os interesses financeiros da Comunidade estão convenientemente protegidos, no que se refere a adiantamentos pagos, garantias obtidas, existências de intervenção e montantes a cobrar.\n\nO relatório deve ser acompanhado de:\n\na) Informações sobre o número e as qualificações das pessoas que realizaram a auditoria, o trabalho realizado, o número de operações examinadas, o nível de autenticidade e confiança obtido, eventuais pontos fracos detectados e as recomendações de melhoria efectuadas, bem como sobre as operações do organismo de certificação e de outros organismos de auditoria, internos ou externos ao organismo pagador, com base nas quais o organismo de certificação pôde adquirir, no todo ou em parte, a sua certeza em relação ao conteúdo do relatório;\n\nb) Um parecer sobre a declaração de fiabilidade referida no n.º 1, subalínea iii) da alínea c), do artigo 8.º do Regulamento (CE) n.º 1290/2005."
+  },
+  "8a6992ea3c104fd1": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 2"
+  },
+  "f0c29f6e3c0db882": {
+   "fragment_id": "APURAMENTO DAS CONTAS",
+   "type": "divisao",
+   "heading": "APURAMENTO DAS CONTAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### APURAMENTO DAS CONTAS"
+  },
+  "5aba645132f945d0": {
+   "fragment_id": "Artigo 6.º — Conteúdo das contas anuais",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Conteúdo das contas anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conteúdo das contas anuais\n\nAs contas anuais referidas no n.º 1, subalínea iii) da alínea c), do artigo 8.º do Regulamento (CE) n.º 1290/2005 incluirão:\n\na) As receitas afectadas referidas no artigo 34.º do Regulamento (CE) n.º 1290/2005;\n\nb) As despesas do FEAGA, após dedução dos pagamentos indevidos não recuperados até ao final do exercício financeiro, excepto os montantes a que se refere a alínea h), incluindo os juros que lhes sejam aplicáveis, resumidas por rubrica e sub-rubrica do orçamento comunitário;\n\nc) As despesas do Feader, por programa e medida. No encerramento do programa, os pagamentos indevidos não recuperados, excepto os montantes a que se refere a alínea h), incluindo os juros que lhes sejam aplicáveis, serão deduzidos da despesa do exercício financeiro em questão;\n\nd) Informações sobre as despesas e as receitas afectadas, ou a confirmação de que os dados relativos a cada operação se encontram registados num ficheiro informático à disposição da Comissão;\n\ne) Um quadro com as diferenças por rubrica e sub-rubrica ou, no caso do Feader, por programa e medida, entre as despesas e receitas afectadas declaradas nas contas anuais e as declaradas, para o mesmo período, nos documentos referidos no n.º 1, alínea c), do artigo 4.º do Regulamento (CE) n.º 883/2006 da Comissão, de 21 de Junho de 2006, que estabelece regras de execução do Regulamento (CE) n.º 1290/2005 do Conselho, no que diz respeito à manutenção das contas dos organismos pagadores, às declarações de despesas e de receitas e às condições de reembolso das despesas no âmbito do FEAGA e do Feader ([^5^](http://publications.europa.eu/resource/cellar/4d62450a-08db-4182-aca1-538e711fb682.0017.03/DOC_1#E0005)), em relação ao FEAGA, e no n.º 2 do artigo 16.º do mesmo regulamento, em relação ao Feader, acompanhado de uma explicação de cada diferença;\n\nf) Separadamente, os montantes a suportar, respectivamente, pelo Estado-Membro em causa e pela Comunidade, em conformidade com o n.º 5, primeiro parágrafo, e com o n.º 6 do artigo 32.º do Regulamento (CE) n.º 1290/2005;\n\ng) Separadamente, os montantes a suportar, respectivamente, pelo Estado-Membro em causa e pela Comunidade, em conformidade com o n.º 8, primeiro parágrafo, e com o n.º 7 do artigo 33.º do Regulamento (CE) n.º 1290/2005;\n\nh) O quadro dos pagamentos indevidos a recuperar até ao final do exercício financeiro devido a irregularidades, na acepção do n.º 2 do artigo 1.º do Regulamento (CE, Euratom) n.º 2988/95 do Conselho ([^6^](http://publications.europa.eu/resource/cellar/4d62450a-08db-4182-aca1-538e711fb682.0017.03/DOC_1#E0006)), incluindo as sanções e juros que lhes sejam aplicáveis, em conformidade com o modelo estabelecido no anexo III do presente regulamento;\n\ni) O quadro, extraído da lista de devedores, dos montantes a recuperar e a creditar ao FEAGA ou ao Feader, excepto os referidos nas alíneas b), c) e h), incluindo as sanções e juros que lhes sejam aplicáveis, em conformidade com o modelo estabelecido no anexo IIIA do presente regulamento;\n\nj) Um resumo das operações de intervenção e uma declaração das quantidades e localização das existências no fim do exercício financeiro;\n\nk) A confirmação de que os dados relativos a cada movimento das existências de intervenção se encontram registados nos processos do organismo pagador."
+  },
+  "76fe1bb0d0b85641": {
+   "fragment_id": "Artigo 7.º — Transmissão das informações",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Transmissão das informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transmissão das informações\n\n1. Para efeitos do apuramento das contas a que se refere o artigo 30.º do Regulamento (CE) n.º 1290/2005, cada Estado-Membro enviará à Comissão:\n\na) Os elementos incluídos nas contas anuais, referidos no artigo 6.º do presente regulamento;\n\nb) Os certificados e relatórios elaborados pelo(s) organismo(s) de certificação, referidos nos n.^os^ 3 e 4 do artigo 5.º do presente regulamento;\n\nc) Registos completos de todas as informações contabilísticas necessárias para fins estatísticos e para a realização de controlos;\n\nd) A declaração ou declarações de fiabilidade referidas no artigo 3.º do presente regulamento.\n\n2. Os documentos e as informações contabilísticas referidos no n.º 1 serão enviados à Comissão até 1 de Fevereiro, o mais tardar, do ano seguinte ao termo do exercício financeiro a que respeitam. Os documentos referidos nas alíneas a), b) e d) do n.º 1 serão enviados num único exemplar acompanhado da versão electrónica, no formato e nas condições definidos pela Comissão em conformidade com o artigo 18.º do Regulamento (CE) n.º 883/2006.\n\n3. A pedido da Comissão ou por iniciativa do Estado-Membro, podem ser enviadas à Comissão, num prazo fixado por esta tendo em conta o trabalho necessário para a respectiva transmissão, informações adicionais relativas ao apuramento das contas. Na falta dessas informações, a Comissão pode adoptar o apuramento das contas com base nas informações de que disponha.\n\n4. Em casos devidamente justificados, a Comissão pode aceitar um pedido de prorrogação do prazo de apresentação das informações, se tal pedido lhe for enviado antes do fim desse prazo.\n\n5. Se tiver acreditado mais do que um organismo pagador, o Estado-Membro enviará igualmente à Comissão, até 15 de Fevereiro do ano seguinte ao termo do exercício financeiro a que respeita, uma síntese, elaborada pelo organismo de coordenação, que ofereça uma visão global das declarações de fiabilidade referidas no artigo 3.º e dos certificados referidos no n.º 3 do artigo 5.º"
+  },
+  "c7d5cd0d5eade288": {
+   "fragment_id": "Artigo 8.º — Forma e conteúdo das informações contabilísticas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Forma e conteúdo das informações contabilísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Forma e conteúdo das informações contabilísticas\n\n1. A forma e o conteúdo das informações contabilísticas referidas no n.º 1, alínea c), do artigo 7.º, assim como o modo de transmissão à Comissão, serão determinados segundo o procedimento mencionado no n.º 2 do artigo 41.º do Regulamento (CE) n.º 1290/2005.\n\n2. As informações contabilísticas serão utilizadas pela Comissão apenas com as seguintes finalidades:\n\na) Desempenho das suas funções no âmbito do apuramento das contas, nos termos do Regulamento (CE) n.º 1290/2005;\n\nb) Acompanhamento da evolução do sector agrícola e elaboração de previsões respeitantes a esse mesmo sector.\n\nO Tribunal de Contas Europeu e o Organismo Europeu de Luta Antifraude (OLAF) terão acesso às referidas informações para efeitos do exercício das suas funções.\n\n3. Os dados pessoais eventualmente contidos nas informações contabilísticas recolhidas serão tratados unicamente para os fins mencionados no n.º 2. Se, em especial, a Comissão utilizar informações contabilísticas com a finalidade referida no n.º 2, alínea b), deve torná-las anónimas e só poderá tratá-las de forma agregada.\n\n4. Quaisquer pedidos de informação sobre o tratamento dos seus dados pessoais devem ser dirigidos pela pessoa em causa à Comissão segundo o disposto no anexo IV.\n\n5. A Comissão assegurará a confidencialidade e segurança das informações contabilísticas."
+  },
+  "04ef3b4c1b71cf40": {
+   "fragment_id": "Artigo 9.º — Conservação das informações contabilísticas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Conservação das informações contabilísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conservação das informações contabilísticas\n\n1. Os documentos comprovativos relativos às despesas financiadas e às receitas afectadas a recuperar pelo FEAGA devem ser mantidos à disposição da Comissão durante, pelo menos, os três anos seguintes ao ano do apuramento das contas do exercício financeiro em causa pela Comissão a título do artigo 30.º do Regulamento (CE) n.º 1290/2005.\n\n2. Os documentos comprovativos relativos às despesas financiadas e às receitas afectadas a recuperar pelo FEADER devem ser mantidos à disposição da Comissão durante, pelo menos, os três anos seguintes àquele em que seja efectuado o pagamento final pelo organismo pagador.\n\n3. No caso de irregularidades ou negligência, os documentos comprovativos referidos nos n.^os^ 1 e 2 serão mantidos à disposição da Comissão durante, pelo menos, os três anos seguintes àquele em que as importâncias sejam inteiramente recuperadas do beneficiário e creditadas ao FEAGA ou ao FEADER ou em que sejam determinadas as consequências financeiras da não-recuperação, em conformidade com o n.º 5 do artigo 32.º ou com o n.º 8 do artigo 33.º do Regulamento (CE) n.º 1290/2005.\n\n4. No caso de aplicação do procedimento de apuramento da conformidade previsto no artigo 31.º do Regulamento (CE) n.º 1290/2005, os documentos comprovativos referidos nos n.^os^ 1 e 2 do presente artigo serão mantidos à disposição da Comissão durante, pelo menos, um ano a contar do ano da conclusão desse procedimento ou, se uma decisão de conformidade for objecto de uma acção junto do Tribunal de Justiça das Comunidades Europeias, durante, pelo menos, um ano a contar do ano do termo dessa acção."
+  },
+  "d2ce82ebde344b9b": {
+   "fragment_id": "Artigo 10.º — Apuramento financeiro",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Apuramento financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apuramento financeiro\n\n1. A decisão de apuramento das contas a que se refere o artigo 30.º do Regulamento (CE) n.º 1290/2005 determinará os montantes das despesas efectuadas em cada Estado-Membro durante o exercício financeiro em causa consideradas como imputáveis ao FEAGA e ao FEADER com base nas contas mencionadas no artigo 6.º do presente regulamento e as eventuais reduções e suspensões previstas nos artigos 17.º e 27.º do Regulamento (CE) n.º 1290/2005.\n\nRelativamente ao FEAGA, a decisão de apuramento das contas determinará igualmente os montantes a imputar à Comunidade e ao Estado-Membro em causa em conformidade com o n.º 5 do artigo 32.º do Regulamento (CE) n.º 1290/2005.\n\nRelativamente ao FEADER, o montante determinado pela decisão de apuramento das contas incluirá os fundos que podem ser reutilizados pelo Estado-Membro em causa nos termos do n.º 3, alínea c), do artigo 33.º do Regulamento (CE) n.º 1290/2005.\n\n2. No respeitante ao FEAGA, o montante que, em consequência da decisão de apuramento das contas, seja recuperável de cada Estado-Membro ou lhe seja pagável será determinado através da dedução dos pagamentos mensais a título do exercício financeiro em causa das despesas reconhecidas para o mesmo exercício em conformidade com o n.º 1. Esse montante será deduzido ou adicionado pela Comissão ao pagamento mensal relativo às despesas efectuadas no segundo mês seguinte à decisão de apuramento das contas.\n\nNo respeitante ao FEAGA, o montante que, em consequência da decisão de apuramento das contas, seja recuperável de cada Estado-Membro ou lhe seja pagável será determinado através da dedução dos pagamentos intermédios a título do exercício financeiro em causa das despesas reconhecidas para o mesmo exercício em conformidade com o n.º 1. Esse montante será deduzido ou adicionado pela Comissão ao pagamento intermédio seguinte ou ao pagamento final.\n\n3. A Comissão comunicará ao Estado-Membro em causa os resultados das suas verificações das informações apresentadas, conjuntamente com as alterações que propuser, o mais tardar até ao dia 31 de Março seguinte ao fim do exercício financeiro.\n\n4. Quando, por razões imputáveis ao Estado-Membro, a Comissão não puder apurar as contas de um Estado-Membro antes de 30 de Abril do ano seguinte, informará o Estado-Membro dos inquéritos complementares que se proponha realizar nos termos do artigo 37.º do Regulamento (CE) n.º 1290/2005.\n\n5. O presente artigo aplica-se, *mutatis mutandis*, às receitas afectadas na acepção do artigo 34.º do Regulamento (CE) n.º 1290/2005."
+  },
+  "43c1a1e14d488204": {
+   "fragment_id": "Artigo 11.º — Apuramento da conformidade",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Apuramento da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apuramento da conformidade\n\n1. Quando, na sequência de um inquérito, a Comissão considerar que uma despesa não foi efectuada de acordo com as regras comunitárias, comunicará ao Estado-Membro em causa as suas verificações e indicará as medidas correctivas necessárias para garantir a futura observância dessas regras.\n\nEssa comunicação fará referência ao presente artigo. O Estado-Membro deve responder num prazo de dois meses a contar da recepção da comunicação, podendo a Comissão alterar a sua posição em conformidade com a resposta. Em casos justificados, a Comissão pode prorrogar o prazo de resposta.\n\nTerminado o prazo de resposta, a Comissão convocará uma reunião bilateral, devendo ambas as partes tentar alcançar um acordo quanto às medidas a tomar e à avaliação da gravidade da infracção e do prejuízo financeiro causado ao orçamento comunitário.\n\n2. No prazo de dois meses após a data de recepção da acta da reunião bilateral prevista no n.º 1, terceiro parágrafo, o Estado-Membro transmitirá as informações solicitadas durante essa reunião ou quaisquer outras informações que considere úteis para o exame em curso.\n\nEm casos justificados, a Comissão pode, mediante pedido fundamentado do Estado-Membro, autorizar uma prorrogação do prazo mencionado no primeiro parágrafo. O pedido será enviado à Comissão antes do termo desse prazo.\n\nApós o prazo referido no primeiro parágrafo, a Comissão comunicará formalmente as suas conclusões ao Estado-Membro com base nas informações recebidas no âmbito do procedimento de apuramento da conformidade. Na comunicação será efectuada uma avaliação das despesas que a Comissão prevê excluir do financiamento comunitário a título do artigo 31.º do Regulamento (CE) n.º 1290/2005 e será feita referência ao n.º 1 do artigo 16.º do presente regulamento.\n\n3. O Estado-Membro informará a Comissão das medidas correctivas que tenha adoptado para assegurar a observância das regras comunitárias, assim como da data efectiva da sua aplicação.\n\nA Comissão, depois de examinar quaisquer relatórios elaborados pelo órgão de conciliação em conformidade com o capítulo 3 do presente regulamento, adoptará, se necessário, uma ou mais decisões a título do artigo 31.º do Regulamento (CE) n.º 1290/2005, a fim de excluir do financiamento comunitário as despesas afectadas pela inobservância das regras comunitárias, até que o Estado-Membro aplique efectivamente as medidas correctivas.\n\nQuando da avaliação das despesas a excluir do financiamento comunitário, a Comissão pode ter em conta informações facultadas pelo Estado-Membro após o termo do prazo referido no n.º 2, se tal for necessário para uma melhor estimativa do prejuízo financeiro causado ao orçamento comunitário, desde que a transmissão tardia das informações se justifique por circunstâncias excepcionais.\n\n4. No respeitante ao FEAGA, as deduções do financiamento comunitário serão efectuadas pela Comissão sobre os pagamentos mensais relativos à despesa efectuada no segundo mês seguinte ao da decisão prevista no artigo 31.º do Regulamento (CE) n.º 1290/2005.\n\nNo respeitante ao FEADER, as deduções do financiamento comunitário serão efectuadas pela Comissão sobre o pagamento intermédio seguinte ou sobre o pagamento final.\n\nTodavia, a pedido do Estado-Membro e quando a importância das despesas a excluir o justificar, a Comissão pode, após consulta do Comité dos Fundos Agrícolas, fixar uma data diferente para as deduções.\n\n5. O presente artigo aplica-se, *mutatis mutandis*, às receitas afectadas na acepção do artigo 34.º do Regulamento (CE) n.º 1290/2005."
+  },
+  "a3b195c08c38f795": {
+   "fragment_id": "CAPÍTULO 3",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3"
+  },
+  "f5ce6b6f3dd9613f": {
+   "fragment_id": "PROCEDIMENTO DE CONCILIAÇÃO",
+   "type": "divisao",
+   "heading": "PROCEDIMENTO DE CONCILIAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCEDIMENTO DE CONCILIAÇÃO"
+  },
+  "fd978bee2d66aabf": {
+   "fragment_id": "Artigo 12.º — Órgão de conciliação",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Órgão de conciliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Órgão de conciliação\n\nPara efeitos do procedimento de apuramento da conformidade previsto no artigo 31.º do Regulamento (CE) n.º 1290/2005, será instituído junto da Comissão um órgão de conciliação. As suas atribuições serão:\n\na) Apreciar qualquer questão que lhe seja apresentada por um Estado-Membro que tenha recebido uma comunicação formal da Comissão a título do n.º 2, terceiro parágrafo, do artigo 11.º do presente regulamento, incluindo uma avaliação das despesas que a Comissão proponha excluir do financiamento comunitário;\n\nb) Tentar conciliar as posições divergentes da Comissão e do Estado-Membro em causa;\n\nc) No termo da sua apreciação, elaborar um relatório sobre os resultados da tentativa de conciliação, acompanhado de qualquer observação que considere útil caso o diferendo subsista no todo ou em parte."
+  },
+  "f87f40094d1e2679": {
+   "fragment_id": "Artigo 13.º — Composição do órgão de conciliação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Composição do órgão de conciliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Composição do órgão de conciliação\n\n1. O órgão de conciliação é composto por cinco membros, seleccionados entre personalidades que apresentem todas as garantias de independência e sejam altamente qualificadas nas matérias do domínio do financiamento da política agrícola comum, incluindo o desenvolvimento rural, ou na prática de auditorias financeiras.\n\nOs membros devem ser nacionais de diferentes Estados-Membros.\n\n2. O presidente, os membros e os membros suplentes serão nomeados pela Comissão para um mandato inicial de três anos, após consulta do Comité dos Fundos Agrícolas.\n\nO mandato é renovável apenas por períodos de um ano, devendo o Comité dos Fundos Agrícolas ser disso informado. Contudo, se o presidente a nomear for já membro do órgão de conciliação, a duração do seu mandato inicial como presidente é de três anos.\n\nOs nomes do presidente e dos membros do órgão, bem como os dos membros suplentes, serão publicados na série C do *Jornal Oficial da União Europeia*.\n\n3. Os membros do órgão de conciliação serão remunerados em função do tempo que devam consagrar ao desempenho das suas tarefas. Os custos de comunicação e de transporte serão reembolsados de acordo com as regras em vigor.\n\n4. No termo do seu mandato, o presidente e os membros permanecerão em funções até serem substituídos ou até à renovação do seu mandato.\n\n5. A Comissão, após consulta do Comité dos Fundos Agrícolas, pode pôr termo ao mandato de um membro que deixe de satisfazer as condições necessárias ao exercício das suas funções no órgão de conciliação ou que, por qualquer motivo, se declare indisponível por um período indeterminado.\n\nNesse caso, esse membro será substituído durante o tempo remanescente do mandato por um membro suplente, devendo o Comité dos Fundos Agrícolas ser informado do facto.\n\nSe o mandato do presidente terminar, a Comissão nomeará o membro que exercerá as funções do presidente durante o tempo remanescente do mandato do presidente, após consulta do Comité dos Fundos Agrícolas."
+  },
+  "25e4cbf0aba61c91": {
+   "fragment_id": "Artigo 14.º — Independência do órgão de conciliação",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Independência do órgão de conciliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Independência do órgão de conciliação\n\n1. Os membros do órgão de conciliação desempenharão as respectivas funções com plena independência e não solicitarão nem aceitarão instruções de qualquer governo ou organismo.\n\nQualquer membro do órgão de conciliação que, no âmbito do desempenho de funções anteriores, tenha estado pessoalmente ligado ao processo em causa, não tomará parte nos trabalhos do órgão de conciliação nem assinará o relatório.\n\n2. Sem prejuízo do disposto no artigo 287.º do Tratado, os membros não divulgarão quaisquer informações de que tenham tido conhecimento no âmbito dos trabalhos do órgão de conciliação. Essas informações têm carácter confidencial e estão abrangidas pelo segredo profissional."
+  },
+  "f42c7521b6b63599": {
+   "fragment_id": "Artigo 15.º — Funcionamento",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Funcionamento\n\n1. As reuniões do órgão de conciliação realizar-se-ão na sede da Comissão. O presidente prepara e organiza os trabalhos. Caso esteja impedido, e sem prejuízo do n.º 5, primeiro parágrafo, do artigo 13.º, as funções de presidente serão exercidas pelo membro com idade mais elevada.\n\nO secretariado do órgão de conciliação será assegurado pela Comissão.\n\n2. Sem prejuízo do disposto no n.º 1, segundo parágrafo, do artigo 14.º, os relatórios serão aprovados por maioria absoluta dos membros presentes, sendo o quórum de três.\n\nOs relatórios serão assinados pelo presidente e pelos outros membros que tenham participado nas deliberações. Serão igualmente assinados pelo secretariado."
+  },
+  "2179e45f083f7913": {
+   "fragment_id": "Artigo 16.º — Procedimento de conciliação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Procedimento de conciliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Procedimento de conciliação\n\n1. Um Estado-Membro pode recorrer ao órgão de conciliação no prazo de trinta dias úteis a contar da recepção da comunicação formal da Comissão referida no n.º 2, terceiro parágrafo, do artigo 11.º, através de um pedido fundamentado de conciliação dirigido ao secretariado do órgão de conciliação.\n\nAs condições aplicáveis ao procedimento a seguir e o endereço do secretariado serão comunicados aos Estados-Membros através do Comité dos Fundos Agrícolas.\n\n2. O pedido de conciliação só será admissível quando, de acordo com a comunicação da Comissão, o montante que se prevê excluir do financiamento comunitário:\n\na) exceda um milhão de euros,\n\nb) corresponda a, pelo menos, 25 % da despesa anual total do Estado-Membro a título das rubricas orçamentais em causa.\n\nAlém disso, se, nas reuniões anteriores, o Estado-Membro em causa tiver invocado e justificado que se trata de uma questão de princípio relativa à aplicação das regras comunitárias, o presidente do órgão de conciliação pode declarar admissível o pedido de conciliação. Contudo, esse pedido não será admissível se se tratar unicamente de uma questão de interpretação jurídica.\n\n3. O órgão de conciliação realizará os seus trabalhos de um modo tão informal e rápido quanto possível, com base no processo em causa e depois de ouvidos equitativamente os serviços da Comissão e as autoridades nacionais interessadas.\n\n4. Se, no prazo de quatro meses após a apresentação do recurso, os trabalhos do órgão de conciliação não tiverem permitido conciliar as posições da Comissão e do Estado-Membro, o procedimento de conciliação será considerado como tendo falhado. O relatório referido na alínea c) do artigo 12.º exporá os elementos que impediram a conciliação das posições em causa e indicará se se alcançou qualquer acordo parcial durante o processo.\n\nO relatório será enviado:\n\na) ao Estado-Membro em causa;\n\nb) à Comissão;\n\nc) aos outros Estados-Membros, no quadro do Comité dos Fundos Agrícolas."
+  },
+  "6cc3b57c1b453c93": {
+   "fragment_id": "CAPÍTULO 4",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 4"
+  },
+  "fee7c0f6661bbf52": {
+   "fragment_id": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+  },
+  "b2df695365f818f9": {
+   "fragment_id": "Artigo 17.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Disposições transitórias\n\n1. Sempre que um organismo pagador acreditado em conformidade com o Regulamento (CE) n.º 1663/95 assuma responsabilidades por despesas que não detinha anteriormente, o exame previsto no n.º 3 do artigo 1.º do presente regulamento e a nova acreditação exigida na sequência das novas responsabilidades serão efectuados até 16 de Outubro de 2007.\n\n2. Relativamente ao exercício financeiro de 2007 e no que toca à segurança dos sistemas de informação, o relatório do organismo de certificação referido no n.º 4 do artigo 5.º conterá unicamente comentários e conclusões provisórias, com base num método de pontuação, sobre as medidas instauradas pelo organismo pagador. Esses comentários basear-se-ão nas normas de segurança aplicáveis internacionalmente aceites, referidas no ponto 3B do anexo I, e indicarão em que medida existiam medidas de segurança eficazes."
+  },
+  "529d62596764c3a3": {
+   "fragment_id": "Artigo 18.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Revogação\n\n1. Ficam revogados, com efeitos a partir de 16 de Outubro de 2006, o Regulamento (CE) n.º 1663/95, o Regulamento (CE) n.º 2390/1999 e a Decisão 94/442/CE. Contudo, o Regulamento (CE) n.º 1663/95 continuará a aplicar-se ao apuramento das contas, em conformidade com o do n.º 3 do artigo 7.º do Regulamento (CE) n.º 1258/1999 do Conselho ([^7^](http://publications.europa.eu/resource/cellar/4d62450a-08db-4182-aca1-538e711fb682.0017.03/DOC_1#E0007)), do exercício financeiro de 2006.\n\nO presidente, os membros e os membros suplentes do órgão de conciliação nomeados ao abrigo da Decisão 94/442/CE manter-se-ão em funções até ao final do seu mandato ou até que se proceda à sua substituição.\n\n2. As referências aos actos revogados no n.º 1 devem entender-se como referências ao presente regulamento e devem ser lidas de acordo com o quadro de correspondência constante do anexo V."
+  },
+  "476777761d4f08ca": {
+   "fragment_id": "Artigo 19.º — Entrada em vigor e execução",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Entrada em vigor e execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor e execução\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 16 de Outubro de 2006. No entanto, os artigos 3.º e 5.º, as alíneas a) a e), g) e h) do artigo 6.º e os artigos 7.º e 10.º serão aplicáveis unicamente em relação às despesas e receitas afectadas dos exercícios financeiros de 2007 e seguintes.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "8417735722b6d94d": {
+   "fragment_id": "CRITÉRIOS DE ACREDITAÇÃO",
+   "type": "divisao",
+   "heading": "CRITÉRIOS DE ACREDITAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRITÉRIOS DE ACREDITAÇÃO"
+  },
+  "46bc7df608c0a115": {
+   "fragment_id": "1. Ambiente interno",
+   "type": "divisao",
+   "heading": "1. Ambiente interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Ambiente interno"
+  },
+  "aade6fd255c88bc6": {
+   "fragment_id": "A) Estrutura organizativa",
+   "type": "divisao",
+   "heading": "A) Estrutura organizativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A) Estrutura organizativa\n\nO organismo pagador disporá de uma estrutura organizativa que lhe permita desempenhar as seguintes funções principais relativamente às despesas do FEAGA e do FEADER:\n\ni) Autorização e controlo dos pagamentos, para determinar se o montante que deve ser pago a um requerente está em conformidade com as regras comunitárias, o que incluirá, nomeadamente, os controlos administrativos e no local;\n\nii) Realização dos pagamentos, para pagar ao requerente (ou ao seu representante) o montante autorizado ou, no caso do desenvolvimento rural, a parte do co-financiamento comunitário;\n\niii) Contabilização dos pagamentos, para inscrever todos os pagamentos nas contas separadas do organismo pagador respeitantes a despesas do FEAGA e do FEADER, sob forma de um sistema de informação, e preparação de sínteses periódicas das despesas, nomeadamente as declarações mensais, trimestrais (para o FEADER) e anuais destinadas à Comissão. Nas contas registar-se-ão igualmente os activos financiados pelos Fundos, nomeadamente no que se refere às existências de intervenção, adiantamentos em saldo, garantias e devedores.\n\nA estrutura organizativa do organismo pagador determinará uma atribuição clara dos poderes e das responsabilidades a todos os níveis de funcionamento e garantirá a separação das três funções referidas no primeiro parágrafo, cujas responsabilidades serão definidas no organograma. A estrutura organizativa incluirá os serviços técnicos e o serviço de auditoria interna previstos no ponto 4."
+  },
+  "9824e51cc55f4014": {
+   "fragment_id": "B) Recursos humanos",
+   "type": "divisao",
+   "heading": "B) Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B) Recursos humanos\n\nO organismo pagador deverá garantir:\n\ni) A afectação de recursos humanos adequados para a realização das operações e a disponibilidade das competências técnicas necessárias nos diferentes níveis de funcionamento;\n\nii) Uma repartição de tarefas tal que nenhum agente detenha mais que uma das responsabilidades de autorização, pagamento ou contabilização dos montantes imputados ao FEAGA ou ao FEADER, nem desempenhe qualquer dessas tarefas sem que o seu trabalho seja supervisionado por um segundo agente;\n\niii) O estabelecimento, por escrito, das responsabilidades de cada agente, incluindo a definição dos limites financeiros da sua autoridade;\n\niv) Uma formação adequada do pessoal em todos os níveis de funcionamento e a aplicação de uma política de rotação dos elementos do pessoal que ocupem posições sensíveis, ou, em alternativa, uma supervisão acrescida;\n\nv) A adopção das medidas apropriadas para afastar o risco de conflito de interesses, quando pessoas que detenham uma posição de responsabilidade ou ocupem um posto sensível no âmbito da verificação, autorização, pagamento e contabilização de pedidos desempenharem outras funções fora do organismo pagador."
+  },
+  "d3d3e5ee7d8c0ffb": {
+   "fragment_id": "C) Delegação",
+   "type": "divisao",
+   "heading": "C) Delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C) Delegação\n\nCaso alguma das tarefas do organismo pagador seja delegada noutro organismo, em conformidade com o n.º 1 do artigo 6.º do Regulamento (CE) n.º 1290/2005, devem ser satisfeitas as seguintes condições:\n\ni) Um acordo escrito entre o organismo pagador e esse organismo deverá especificar a natureza da informação e dos documentos comprovativos a submeter ao organismo pagador, assim como o prazo em que devem ser fornecidos; o acordo deve permitir ao organismo pagador satisfazer os critérios de acreditação;\n\nii) O organismo pagador permanecerá, em todos os casos, responsável pela boa gestão dos Fundos em causa;\n\niii) As responsabilidades e obrigações do outro organismo, nomeadamente no que respeita ao controlo e verificação da observância das regras comunitárias, serão claramente definidas;\n\niv) O organismo pagador assegurar-se-á de que esse organismo dispõe de sistemas eficazes que garantam o cumprimento das suas responsabilidades de um modo adequado;\n\nv) Esse organismo confirmará explicitamente ao organismo pagador que cumpre, de facto, as suas responsabilidades e descreverá os meios utilizados;\n\nvi) O organismo pagador procederá regularmente a uma revisão das funções delegadas para confirmar que o trabalho é realizado satisfatoriamente e que está em conformidade com as regras comunitárias.\n\nAs condições acima estabelecidas aplicar-se-ão, *mutatis mutandis*, às tarefas relativas às despesas agrícolas desempenhadas por autoridades aduaneiras nacionais."
+  },
+  "0d569622022f394e": {
+   "fragment_id": "2. Actividades de controlo",
+   "type": "divisao",
+   "heading": "2. Actividades de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Actividades de controlo"
+  },
+  "1c196eb5578ad3c0": {
+   "fragment_id": "A) Procedimentos para a autorização dos pedidos",
+   "type": "divisao",
+   "heading": "A) Procedimentos para a autorização dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A) Procedimentos para a autorização dos pedidos\n\nO organismo pagador adoptará os seguintes procedimentos:\n\ni) O organismo pagador estabelecerá, por escrito, os procedimentos pormenorizados relativos à recepção, registo e tratamento dos pedidos, incluindo uma descrição de todos os documentos a utilizar;\n\nii) Cada agente responsável pela autorização terá à sua disposição uma lista pormenorizada dos controlos que está encarregado de realizar, devendo juntar aos documentos comprovativos correspondentes ao pedido a sua confirmação de que esses controlos foram efectuados. Essa confirmação pode ser efectuada por meios electrónicos. Deve ser incluída a prova de que o trabalho realizado foi revisto por um elemento superior do pessoal;\n\niii) Um pedido só será autorizado para pagamento após terem sido efectuados controlos suficientes para verificar que satisfaz as regras comunitárias. Esses controlos incluirão os exigidos pelo regulamento que estabelece as medidas específicas ao abrigo das quais a ajuda é solicitada, bem como os exigidos pelo artigo 9.º do Regulamento (CE) n.º 1290/2005 para impedir e detectar as fraudes e irregularidades, sendo dada especial atenção aos riscos corridos. No respeitante ao FEADER, serão aplicados, igualmente, procedimentos destinados a verificar se os critérios para a concessão da ajuda foram observados e se todas as regras comunitárias aplicáveis foram cumpridas, especialmente as relativas aos contratos públicos e ao respeito do meio ambiente;\n\niv) A direcção do organismo pagador será informada ao nível adequado, numa base regular e atempadamente, dos resultados dos controlos efectuados, de modo que a suficiência desses controlos possa sempre ser tida em conta antes de um pedido ser liquidado;\n\nv) O trabalho realizado será descrito pormenorizadamente num relatório que acompanhará cada pedido, lote de pedidos, ou, quando for caso disso, num relatório que abranja uma campanha de comercialização. O relatório deve ser acompanhado por um certificado da elegibilidade dos pedidos aprovados e da natureza, alcance e limites do trabalho realizado. No respeitante ao FEADER, é necessária, igualmente, uma garantia de que os critérios para a concessão da ajuda foram observados e que todas as regras comunitárias aplicáveis foram cumpridas, especialmente as relativas aos contratos públicos e ao respeito do meio ambiente. Quando os controlos físicos ou administrativos não forem exaustivos, mas sim realizados com base numa amostra de pedidos, os pedidos seleccionados serão identificados e o método de amostragem será descrito, bem como os resultados de todas as inspecções e as medidas tomadas em relação às discrepâncias e irregularidades detectadas. Os documentos comprovativos devem ser suficientes para garantir que todos os controlos exigidos relativamente à elegibilidade dos pedidos autorizados foram executados;\n\nvi) Quando os documentos (em papel ou em formato electrónico) relativos aos pedidos autorizados e controlos efectuados forem mantidos na posse de outros organismos, estes últimos e o organismo pagador estabelecerão os procedimentos que garantam que a localização de todos os documentos relevantes para os pagamentos efectuados pelo organismo pagador seja registada."
+  },
+  "60df091210b31413": {
+   "fragment_id": "B) Procedimentos para o pagamento",
+   "type": "divisao",
+   "heading": "B) Procedimentos para o pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B) Procedimentos para o pagamento\n\nO organismo pagador adoptará os procedimentos necessários para garantir que os pagamentos sejam efectuados unicamente nas contas bancárias do requerente ou do seu representante. O pagamento será executado pela entidade bancária do organismo pagador, ou, se adequado, por um serviço oficial encarregado dos pagamentos, nos cinco dias úteis seguintes à data da imputação ao FEAGA ou ao FEADER. Contudo, relativamente aos exercícios financeiros de 2007 e 2008, os pagamentos podem também ser efectuados por ordem de pagamento. Serão adoptados procedimentos para garantir que todos os pagamentos relativamente aos quais as transferências não sejam executadas sejam recreditados aos Fundos. Não serão feitos pagamentos em dinheiro. A aprovação do gestor orçamental e/ou do seu superior pode ser feita por meios electrónicos, desde que esteja garantido um nível adequado de segurança e que a informação relativa à identidade do signatário seja introduzida na memória electrónica."
+  },
+  "fd3c51da303372f9": {
+   "fragment_id": "C) Procedimentos contabilísticos",
+   "type": "divisao",
+   "heading": "C) Procedimentos contabilísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C) Procedimentos contabilísticos\n\nO organismo pagador adoptará os seguintes procedimentos:\n\ni) Os procedimentos contabilísticos garantirão que as declarações mensais, trimestrais (para o FEADER) e anuais sejam completas, rigorosas e elaboradas atempadamente e que quaisquer erros ou omissões sejam detectados e corrigidos, nomeadamente através de controlos e conciliações realizados periodicamente;\n\nii) A contabilidade relativa à armazenagem de intervenção garantirá que as quantidades e os correspondentes custos sejam correcta e atempadamente tratados e registados por lote identificável, na conta adequada em cada estádio, desde a aceitação de uma proposta até ao escoamento físico do produto, em conformidade com os regulamentos aplicáveis, e que a quantidade e a natureza das existências em qualquer local possam ser determinadas a qualquer altura."
+  },
+  "9062afb7ef72ba18": {
+   "fragment_id": "D) Procedimentos relativos aos adiantamentos e garantias",
+   "type": "divisao",
+   "heading": "D) Procedimentos relativos aos adiantamentos e garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### D) Procedimentos relativos aos adiantamentos e garantias\n\nOs pagamentos de adiantamentos serão identificados separadamente nos registos contabilísticos ou auxiliares. Serão adoptados procedimentos para assegurar que:\n\ni) As garantias só sejam fornecidas por instituições financeiras que satisfaçam as condições do Regulamento (CEE) n.º 2220/85 da Comissão ([^8^](http://publications.europa.eu/resource/cellar/4d62450a-08db-4182-aca1-538e711fb682.0017.03/DOC_1#E0008)) e sejam aprovadas pelas autoridades competentes e que as garantias permaneçam válidas até serem liberadas ou executadas, sendo realizadas mediante simples pedido do organismo pagador;\n\nii) Os adiantamentos sejam regularizados nos prazos estipulados e que os adiantamentos cujos prazos tenham sido ultrapassados sejam identificados com rapidez e as respectivas garantias imediatamente executadas."
+  },
+  "ce9b609bdf577d0d": {
+   "fragment_id": "E) Procedimentos aplicáveis às dívidas",
+   "type": "divisao",
+   "heading": "E) Procedimentos aplicáveis às dívidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### E) Procedimentos aplicáveis às dívidas\n\nTodos os critérios previstos nos pontos A) a D) serão aplicáveis, *mutatis mutandis*, às imposições, garantias executadas, pagamentos reembolsados, receitas afectadas, etc. que o organismo pagador seja levado a cobrar em nome do FEAGA e do FEADER.\n\nO organismo pagador estabelecerá um sistema para a identificação de todos os montantes devidos e para o registo, numa lista de devedores, de todas as dívidas antes da sua cobrança. A lista de devedores será analisada a intervalos regulares e serão tomadas medidas para que as dívidas cujos prazos tenham sido superados possam ser cobradas."
+  },
+  "59bafa829a905623": {
+   "fragment_id": "F) Pista de auditoria",
+   "type": "divisao",
+   "heading": "F) Pista de auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### F) Pista de auditoria\n\nA informação sobre as provas documentais da autorização, contabilização e pagamento dos pedidos, bem como sobre a gestão dos adiantamentos, garantias e dívidas, estará disponível no organismo pagador para assegurar, a qualquer momento, uma pista de auditoria suficientemente pormenorizada."
+  },
+  "55d8f914a3b3dd06": {
+   "fragment_id": "3. Informação e comunicação",
+   "type": "divisao",
+   "heading": "3. Informação e comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Informação e comunicação"
+  },
+  "a2e8292ae7bcf601": {
+   "fragment_id": "A) Comunicação",
+   "type": "divisao",
+   "heading": "A) Comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A) Comunicação\n\nO organismo pagador adoptará os procedimentos necessários para garantir que as alterações da regulamentação comunitária, nomeadamente das taxas de ajuda aplicáveis, sejam registadas e que as instruções, bases de dados e listas de controlos sejam atempadamente actualizadas."
+  },
+  "2b69540d2fbc3299": {
+   "fragment_id": "B) Segurança dos sistemas de informação",
+   "type": "divisao",
+   "heading": "B) Segurança dos sistemas de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B) Segurança dos sistemas de informação\n\nA segurança dos sistemas de informação basear-se-á nos critérios estabelecidos numa versão aplicável no exercício financeiro em causa de uma das seguintes normas internacionalmente aceites:\n\ni) International Standards Organisation 27002: Code of practice for Information Security management (ISO),\n\nii) Bundesamt für Sicherheit in der Infomationstechnik: IT-Grundschutzhandbuch/IT Baseline Protection Manual (BSI),\n\niii) Information Systems Audit and Control Foundation: Control objectives for Information and related Technology (COBIT).\n\nO organismo pagador escolherá uma das normas internacionais referidas como base da segurança dos seus sistemas de informação.\n\nAs medidas de segurança devem ser adaptadas à estrutura administrativa, ao pessoal e ao ambiente tecnológico da cada organismo pagador. O esforço financeiro e tecnológico deve ser proporcional aos riscos efectivamente corridos."
+  },
+  "6c72b728838f655c": {
+   "fragment_id": "4. Acompanhamento",
+   "type": "divisao",
+   "heading": "4. Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Acompanhamento"
+  },
+  "be05db12d5f83905": {
+   "fragment_id": "A) Acompanhamento contínuo através de actividades de controlo interno",
+   "type": "divisao",
+   "heading": "A) Acompanhamento contínuo através de actividades de controlo interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A) Acompanhamento contínuo através de actividades de controlo interno\n\nAs actividades de controlo interno abrangerão, pelo menos, os seguintes domínios:\n\ni) Acompanhamento dos serviços técnicos e dos organismos delegados responsáveis pela realização dos controlos e outras funções, a fim de garantir a aplicação correcta dos regulamentos, directrizes e procedimentos;\n\nii) Introdução de alterações nos sistemas, a fim de melhorar os sistemas de controlo em geral;\n\niii) Exame dos pedidos apresentados ao organismo pagador e de outras informações que revelem suspeitas de irregularidades.\n\nO acompanhamento contínuo faz parte das actividades normais e habituais do organismo pagador. As operações diárias e as actividades de controlo do organismo pagador serão submetidas a um acompanhamento contínuo a todos os níveis para assegurar uma pista de auditoria suficientemente pormenorizada."
+  },
+  "ffd6737dad9af8d7": {
+   "fragment_id": "B) Avaliações individuais através de um serviço de auditoria interna",
+   "type": "divisao",
+   "heading": "B) Avaliações individuais através de um serviço de auditoria interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B) Avaliações individuais através de um serviço de auditoria interna\n\nO organismo pagador adoptará os seguintes procedimentos:\n\ni) O serviço de auditoria interna será independente dos outros serviços do organismo pagador e responderá perante o director deste último;\n\nii) O serviço de auditoria interna verificará que os procedimentos adoptados pelo organismo pagador são adequados para garantir que a observância das regras comunitárias é verificada e que as contabilidades são precisas, completas e estabelecidas atempadamente. As verificações podem ser limitadas a medidas seleccionadas e a amostras de operações, desde que um programa de auditoria garanta que todas as áreas significativas, incluindo os serviços encarregados das autorizações, são incluídas num período não superior a cinco anos;\n\niii) O trabalho do serviço de auditoria interna deve ser executado de acordo com as normas internacionalmente aceites e registado em documentos de trabalho, devendo dar origem a relatórios e recomendações dirigidas à direcção do organismo pagador."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "343778b2bd4d9847": {
+   "fragment_id": "DECLARAÇÃO DE FIABILIDADE",
+   "type": "divisao",
+   "heading": "DECLARAÇÃO DE FIABILIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DECLARAÇÃO DE FIABILIDADE\n\nEu, abaixo assinado, …, director do organismo pagador …, apresento as contas deste organismo pagador correspondentes ao exercício financeiro de 16/10/xx a 15/10/xx+1.\n\nCom base no meu julgamento e nas informações de que disponho, incluindo, nomeadamente, os resultados dos trabalhos do serviço de auditoria interna, declaro que:\n\n— As contas apresentadas oferecem, tanto quanto é do meu conhecimento, uma imagem autêntica, completa e rigorosa das despesas e receitas relativas ao exercício financeiro acima referido; nomeadamente, todas as dívidas, adiantamentos, garantias e existências de que tive conhecimento foram registadas na contabilidade e todas as receitas cobradas relativas ao FEAGA e ao FEADER foram correctamente creditadas nos fundos adequados.\n\n— Instaurei um sistema que oferece uma garantia razoável da legalidade e regularidade das transacções subjacentes; quanto ao desenvolvimento rural, os procedimentos de atribuição da ajuda são geridos, controlados e documentados em conformidade com as regras comunitárias.\n\n[No entanto, a referida garantia está sujeita às seguintes reservas:]\n\nAlém disso, confirmo não ter conhecimento de qualquer informação não comunicada susceptível de prejudicar os interesses financeiros da Comunidade.\n\nAssinatura"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "bff3e737ae725bfe": {
+   "fragment_id": "Modelo de quadro referido na alínea h) do artigo 6.º",
+   "type": "divisao",
+   "heading": "Modelo de quadro referido na alínea h) do artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Modelo de quadro referido na alínea h) do artigo 6.º\n\nOs Estados-Membros facultarão, por organismo pagador, as informações referidas na alínea h) do artigo 6.º, utilizando para o efeito o quadro seguinte:\n\n| a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t (l + m + n + o) | u |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Organismo pagador | Fundo [artigos 3.º ou 4.º do Regulamento (CE) n.º 1290/2005 | Exercício financeiro | Unidade monetária | Número de identificação do caso | Identificação ECR, se for caso disso [(^1^)](http://publications.europa.eu/resource/cellar/4d62450a-08db-4182-aca1-538e711fb682.0017.03/DOC_1#E0009) | Caso incluído na lista de devedores? | Identificação do beneficiário | Programa encerrado? (Feader) | Exercício financeiro do primeiro auto relativo à irregularidade | Objecto de processo judicial | Montante original a recuperar | Montante total corrigido (totalidade do período de recuperação) | Montante total recuperado (totalidade do período de recuperação) | Montante declarado irrecuperável | Exercício financeiro do estabelecimento da irrecuperabilidade | Razões da irrecuperabilidade | Montante corrigido (no exercício financeiro n) | Montante recuperado (no exercício financeiro n) | Montante cuja recuperação está em curso | Montante a creditar ao orçamento comunitário |\n|  | 3/4 |  |  |  |  | s/n |  |  |  | s/n |  |  |  |  |  |  |  |  |  |  |\n|  | 3/4 |  |  |  |  | s/n |  |  |  | s/n |  |  |  |  |  |  |  |  |  |  |\n|  | 3/4 |  |  |  |  | s/n |  |  |  | s/n |  |  |  |  |  |  |  |  |  |  |\n|  | 3/4 |  |  |  |  | s/n |  |  |  | s/n |  |  |  |  |  |  |  |  |  |  |\n| Total |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| (^1^)Identificação única dos casos comunicados a título do Regulamento (CE) n.º 1848/2006 da Comissão (JO L 355 de 15.12.2006, p. 56). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |"
+  },
+  "f81bc90f93fc5bcd": {
+   "fragment_id": "ANEXO IIIA",
+   "type": "divisao",
+   "heading": "ANEXO IIIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IIIA"
+  },
+  "99e69f6f4e7561ea": {
+   "fragment_id": "Modelo de quadro referido na alínea i) do artigo 6.º",
+   "type": "divisao",
+   "heading": "Modelo de quadro referido na alínea i) do artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Modelo de quadro referido na alínea i) do artigo 6.º\n\nOutros montantes pendentes da lista de devedores a creditar ao FEAGA e ao Feader\n\nOs Estados-Membros facultarão, por organismo pagador, as informações referidas na alínea i) do artigo 6.º, utilizando para o efeito o quadro seguinte:\n\n| a | b | c | d | e | f | g | h |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Organismo pagador | Fundo | Unidade monetária | Saldo em 15 de Outubro do exercício n-1 | Novos casos (exercício n) | Total de recuperações (exercício n) | Total de correcções, incluindo os montantes irrecuperáveis (exercício n) | Montantes a recuperar (15 de Outubro do exercício n) |"
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "693b7c02317de610": {
+   "fragment_id": "TRANSMISSÃO DOS PEDIDOS DE INFORMAÇÃO REFERIDOS NO N.º 4 DO ARTIGO 8.º",
+   "type": "divisao",
+   "heading": "TRANSMISSÃO DOS PEDIDOS DE INFORMAÇÃO REFERIDOS NO N.º 4 DO ARTIGO 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TRANSMISSÃO DOS PEDIDOS DE INFORMAÇÃO REFERIDOS NO N.º 4 DO ARTIGO 8.º\n\nOs pedidos de informação referidos no n.º 4 do artigo 8.º são enviados para:\n\n— Comissão Europeia, DG AGRI-J1, Rue de la Loi 200, B-1049 Bruxelas,\n\n— ou\n\n— AGRI-J1@cec.eu.int."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "2a12b1143ad423b1": {
+   "fragment_id": "QUADRO DE CORRESPONDÊNCIA",
+   "type": "divisao",
+   "heading": "QUADRO DE CORRESPONDÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### QUADRO DE CORRESPONDÊNCIA\n\nRegulamento (CE) n.º 1663/95 Presente regulamento\n\nArtigo 1.º, n.º 2 Artigo 1.º, n.º 2\n\nArtigo 1.º, n.º 3, segundo parágrafo Artigo 1.º, n.º 3, segundo parágrafo\n\nArtigo 1.º, n.º 4 Artigo 1.º, n.º 4\n\nArtigo 1.º, n.º 5 Artigo 2.º, n.º 5\n\nArtigo 1.º, n.º 7 Artigo 1.º, n.º 5\n\nArtigo 2.º, n.º 1 Artigo 4.º, n.º 1\n\nArtigo 2.º, n.º 2 Artigo 4.º, n.º 6\n\nArtigo 2.º, n.º 3 Artigo 8.º, n.º 1\n\nArtigo 3.º, n.º 1, primeiro parágrafo Artigo 5.º, n.º 1, segundo período\n\nArtigo 3.º, n.º 1, segundo parágrafo Artigo 5.º, n.º 3, segundo parágrafo\n\nArtigo 3.º, n.º 1, terceiro parágrafo Artigo 5.º, n.º 2\n\nArtigo 3.º, n.º 3 Artigo 5.º, n.º 4\n\nArtigo 4.º, n.º 1, alíneas a), b) e c) Artigo 7.º, n.º 1, alíneas a), b) e c)\n\nArtigo 4.º, n.º 2 Artigo 7.º, n.º 2\n\nArtigo 4.º, n.º 3 Artigo 7.º, n.º 3\n\nArtigo 4.º, n.º 4 Artigo 7.º, n.º 4\n\nArtigo 5.º, n.º 1, alínea a) Artigo 6.º, alíneas b) e c)\n\nArtigo 5.º, n.º 1, alínea b) Artigo 6.º, alínea e)\n\nArtigo 5.º, n.º 1, alínea c) Artigo 6.º, alínea f)\n\nArtigo 5.º, n.º 1, alínea d) Artigo 6.º, alínea g)\n\nArtigo 5.º, n.º 1, alínea e) Artigo 6.º, alínea h)\n\nArtigo 6º Artigo 9.º, n.^os^ 1 e 2\n\nArtigo 7.º, n.º 1, segundo parágrafo Artigo 10.º, n.º 2\n\nArtigo 7.º, n.º 2 Artigo 10.º, n.º 3\n\nArtigo 7.º, n.º 3 Artigo 10.º, n.º 4\n\nArtigo 8.º Artigo 11.º\n\nRegulamento (CE) n.º 2390/1999 Presente regulamento\n\nArtigo 2.º, n.º 1 Artigo 8.º, n.º 2\n\nArtigo 2.º, n.º 2 Artigo 8.º, n.º 3\n\nArtigo 2.º, n.º 3 Artigo 8.º, n.º 5\n\nDecisão 94/442/CE Presente regulamento\n\nArtigo 1.º, n.º 1 Artigo 12.º\n\nArtigo 2.º, n.º 1 Artigo 16.º, n.º 1\n\nArtigo 2.º, n.º 2 Artigo 16.º, n.º 2\n\nArtigo 2.º, n.º 4 Artigo 16.º, n.º 3\n\nArtigo 2.º, n.º 5 Artigo 16.º, n.º 4, primeiro parágrafo\n\nArtigo 2.º, n.º 6 Artigo 16.º, n.º 4, segundo parágrafo\n\nArtigo 3.º, n.º 1, primeiro parágrafo Artigo 13.º, n.º 1\n\nArtigo 3.º, n.º 1, segundo, terceiro e quarto parágrafos Artigo 13.º, n.º 2\n\nArtigo 3.º, n.º 2 Artigo 13.º, n.º 3\n\nArtigo 3.º, n.º 3 Artigo 13.º, n.º 4\n\nArtigo 3.º, n.º 4, segundo parágrafo Artigo 13.º, n.º 5\n\nArtigo 3.º, n.º 5 Artigo 13.º, n.º 5\n\nArtigo 4.º, n.º 1 Artigo 15.º, n.º 1\n\nArtigo 4.º, n.º 2 Artigo 14.º, n.º 1, segundo parágrafo\n\nArtigo 4.º, n.º 3 Artigo 15.º, n.º 2\n\nArtigo 5.º, n.º 1 Artigo 14.º, n.º 1, primeiro parágrafo\n\nArtigo 5.º, n.º 2 Artigo 14.º, n.º 2\n\n---"
+  },
+  "f17038747102c30f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4d62450a-08db-4182-aca1-538e711fb682.0017.03/DOC_1#src.E0001)) JO L 209 de 11.8.2005, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 320/2006 (JO L 58 de 28.2.2006, p. 42).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4d62450a-08db-4182-aca1-538e711fb682.0017.03/DOC_1#src.E0002)) JO L 158 de 8.7.1995, p. 6. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 465/2005 (JO L 77 de 23.3.2005, p. 6).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4d62450a-08db-4182-aca1-538e711fb682.0017.03/DOC_1#src.E0003)) JO L 295 de 16.11.1999, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1359/2005 (JO L 214 de 19.8.2005, p. 11).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4d62450a-08db-4182-aca1-538e711fb682.0017.03/DOC_1#src.E0004)) JO L 182 de 16.7.1994, p. 45. Decisão com a última redacção que lhe foi dada pela Decisão 2001/535/CE (JO L 193 de 17.7.2001, p. 25).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/4d62450a-08db-4182-aca1-538e711fb682.0017.03/DOC_1#src.E0005)) JO L 171 de 23.6.1996, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/4d62450a-08db-4182-aca1-538e711fb682.0017.03/DOC_1#src.E0006)) JO L 312 de 23.12.1995, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/4d62450a-08db-4182-aca1-538e711fb682.0017.03/DOC_1#src.E0007)) JO L 160 de 26.6.1999, p. 103.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/4d62450a-08db-4182-aca1-538e711fb682.0017.03/DOC_1#src.E0008)) JO L 205 de 3.8.1985, p. 5."
+  },
+  "2348caba98bde4ee": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Junho de 2006\n\nque estabelece as regras de execução do Regulamento (CE) n.º 1290/2005 do Conselho no respeitante à acreditação dos organismos pagadores e de outros organismos e ao apuramento das contas do FEAGA e do FEADER\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1290/2005 do Conselho, de 21 de Junho de 2005, relativo ao financiamento da política agrícola comum ([^1^](http://publications.europa.eu/resource/cellar/f85b8410-30b8-4402-965d-189c938f5bc1.0018.03/DOC_1#E0001)), nomeadamente o artigo 42.º,\n\n(1) Na sequência da adopção do Regulamento (CE) n.º 1290/2005, devem ser estabelecidas novas regras de execução no respeitante à acreditação dos organismos pagadores e de outros organismos e ao apuramento das contas do Fundo Europeu Agrícola de Garantia (FEAGA) e do Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER). O Regulamento (CE) n.º 1663/95 da Comissão, de 7 de Julho de 1995, que estabelece as regras de execução do Regulamento (CEE) n.º 729/70 no que respeita ao processo de apuramento das contas do FEOGA, secção Garantia ([^2^](http://publications.europa.eu/resource/cellar/f85b8410-30b8-4402-965d-189c938f5bc1.0018.03/DOC_1#E0002)), deve, por conseguinte, ser revogado e substituído por um novo regulamento.\n\n(2) Os Estados-Membros só devem acreditar os organismos pagadores se estes satisfizerem certos critérios mínimos estabelecidos ao nível comunitário. Tais critérios devem cobrir quatro grandes domínios: ambiente interno, actividades de controlo, informação e comunicação, e acompanhamento. Os Estados-Membros devem poder estabelecer critérios de acreditação complementares, a fim de ter em conta eventuais características específicas de um organismo pagador.\n\n(3) Os Estados-Membros devem estar obrigados a manter os seus organismos pagadores sob supervisão constante e a estabelecer um dispositivo de troca de informações sobre os eventuais casos de não-conformidade. Para tratar esses casos, convém criar um procedimento que inclua a obrigação de conceber um plano para corrigir, num prazo a fixar, quaisquer deficiências detectadas. As despesas efectuadas pelos organismos pagadores cuja acreditação seja mantida pelos Estados-Membros apesar de não terem aplicado esse plano de correcção no prazo fixado devem ser objecto do procedimento de apuramento da conformidade previsto no artigo 31.º do Regulamento (CE) n.º 1290/2005.\n\n(4) Convém estabelecer as regras de execução no respeitante ao conteúdo e à forma da declaração de fiabilidade referida no n.º 1, subalínea iii) da alínea c), do artigo 8.º do Regulamento (CE) n.º 1290/2005.\n\n(5) É necessário especificar o papel do organismo de coordenação referido no n.º 3 do artigo 6.º do Regulamento (CE) n.º 1290/2005 e estabelecer os critérios relativos à sua acreditação.\n\n(6) A fim de garantir que os certificados e relatórios a elaborar pelos organismos de certificação, referidos no artigo 7.º do Regulamento (CE) n.º 1290/2005, sejam úteis para a Comissão no âmbito do procedimento de apuramento das contas, é necessário especificar o seu conteúdo.\n\n(7) Para permitir que a Comissão proceda ao apuramento das contas em conformidade com o artigo 30.º do Regulamento (CE) n.º 1290/2005, há que especificar o conteúdo das contas anuais dos organismos pagadores e estabelecer uma data para a transmissão à Comissão dessas contas e de outros documentos pertinentes. O período durante o qual os organismos pagadores devem manter à disposição da Comissão os documentos comprovativos relativos a todas as despesas e receitas afectadas deve, igualmente, ser indicado.\n\n(8) Além disso, é necessário precisar que a Comissão estabelece a forma e o conteúdo das informações contabilísticas que os organismos pagadores lhe devem transmitir. Neste contexto, é igualmente oportuno incluir no presente regulamento as regras relativas à utilização dessas informações contabilísticas, que constam actualmente do Regulamento (CE) n.º 2390/1999 da Comissão, de 25 de Outubro de 1999, que estabelece a forma e o conteúdo das informações contabilísticas a apresentar à Comissão no âmbito do apuramento das contas do FEOGA, secção Garantia, e para efeitos de acompanhamento e elaboração de previsões ([^3^](http://publications.europa.eu/resource/cellar/f85b8410-30b8-4402-965d-189c938f5bc1.0018.03/DOC_1#E0003)). O Regulamento (CE) n.º 2390/1999 deve, portanto, ser revogado.\n\n(9) Convém estabelecer disposições precisas em relação ao apuramento das contas previsto no artigo 30.º do Regulamento (CE) n.º 1290/2005 e ao apuramento da conformidade previsto no artigo 31.º do mesmo regulamento, nomeadamente um dispositivo que permita que os montantes resultantes sejam, conforme o caso, deduzidos de ou adicionados a um dos pagamentos a efectuar posteriormente aos Estados-Membros.\n\n(10) Para efeitos do procedimento de apuramento da conformidade, a Decisão 94/442/CE da Comissão, de 1 de Julho de 1994, relativa à criação de um processo de conciliação no quadro do apuramento das contas do FEOGA, secção Garantia ([^4^](http://publications.europa.eu/resource/cellar/f85b8410-30b8-4402-965d-189c938f5bc1.0018.03/DOC_1#E0004)), criou um órgão de conciliação e adoptou as regras relativas à sua composição e funcionamento. Por razões de simplificação, convém incluir essas regras no presente regulamento, adaptando-as, se necessário. A Decisão 94/442/CE deve, portanto, ser revogada.\n\n(11) Se um organismo pagador acreditado em conformidade com o Regulamento (CE) n.º 1663/95 assumir, após 16 de Outubro de 2006, responsabilidades que não detinha antes dessa data, é necessária uma nova acreditação de acordo com os critérios estabelecidos no presente regulamento para essas novas responsabilidades. A título transitório, deve ser possível adaptar a acreditação antes de 16 de Outubro de 2007.\n\n(12) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité dos Fundos Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "46056ea8f09306f0": {
+   "fragment_id": "CAPÍTULO 1-A",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 1-A"
+  },
+  "12cd070c50d7e382": {
+   "fragment_id": "COBRANÇA DE DÍVIDAS",
+   "type": "divisao",
+   "heading": "COBRANÇA DE DÍVIDAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COBRANÇA DE DÍVIDAS"
+  },
+  "b0fde99bef64acc7": {
+   "fragment_id": "Artigo 5.º-A — De minimis",
+   "type": "artigo",
+   "heading": "Artigo 5.º-A — De minimis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º-A — De minimis\n\nSem prejuízo do n.º 3, primeiro parágrafo, do artigo 6.º do Regulamento (CE) n.º 1782/2003 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/f85b8410-30b8-4402-965d-189c938f5bc1.0018.03/DOC_1#E0005)), as condições do n.º 6, alínea a), do artigo 32.º e do n.º 7 do artigo 33.º do Regulamento (CE) n.º 1290/2005 consideram-se cumpridas se o montante que se deve recuperar do beneficiário relativamente a um pagamento individual, para um regime de ajudas, sem juros, não exceder 100 EUR."
+  },
+  "1f3795fb40e90e3b": {
+   "fragment_id": "Artigo 5.º-B — Método de cobrança",
+   "type": "artigo",
+   "heading": "Artigo 5.º-B — Método de cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º-B — Método de cobrança\n\nSem prejuízo de quaisquer outras medidas de execução previstas no direito nacional, os Estados-Membros deduzem de qualquer pagamento futuro a efectuar pelo organismo pagador responsável pela cobrança da dívida de um beneficiário qualquer dívida pendente do mesmo beneficiário que tenha sido estabelecida em conformidade com o direito nacional."
+  },
+  "0da83098a0a96fad": {
+   "fragment_id": "Artigo 6.º — Conteúdo das contas anuais",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Conteúdo das contas anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conteúdo das contas anuais\n\nAs contas anuais referidas no n.º 1, subalínea iii) da alínea c), do artigo 8.º do Regulamento (CE) n.º 1290/2005 incluirão:\n\na) As receitas afectadas referidas no artigo 34.º do Regulamento (CE) n.º 1290/2005;\n\nb) As despesas do FEAGA, após dedução dos pagamentos indevidos não recuperados até ao final do exercício financeiro, excepto os montantes a que se refere a alínea h), incluindo os juros que lhes sejam aplicáveis, resumidas por rubrica e sub-rubrica do orçamento comunitário;\n\nc) As despesas do Feader, por programa e medida. No encerramento do programa, os pagamentos indevidos não recuperados, excepto os montantes a que se refere a alínea h), incluindo os juros que lhes sejam aplicáveis, serão deduzidos da despesa do exercício financeiro em questão;\n\nd) Informações sobre as despesas e as receitas afectadas, ou a confirmação de que os dados relativos a cada operação se encontram registados num ficheiro informático à disposição da Comissão;\n\ne) Um quadro com as diferenças por rubrica e sub-rubrica ou, no caso do Feader, por programa e medida, entre as despesas e receitas afectadas declaradas nas contas anuais e as declaradas, para o mesmo período, nos documentos referidos no n.º 1, alínea c), do artigo 4.º do Regulamento (CE) n.º 883/2006 da Comissão, de 21 de Junho de 2006, que estabelece regras de execução do Regulamento (CE) n.º 1290/2005 do Conselho, no que diz respeito à manutenção das contas dos organismos pagadores, às declarações de despesas e de receitas e às condições de reembolso das despesas no âmbito do FEAGA e do Feader ([^6^](http://publications.europa.eu/resource/cellar/f85b8410-30b8-4402-965d-189c938f5bc1.0018.03/DOC_1#E0006)), em relação ao FEAGA, e no n.º 2 do artigo 16.º do mesmo regulamento, em relação ao Feader, acompanhado de uma explicação de cada diferença;\n\nf) Separadamente, os montantes a suportar, respectivamente, pelo Estado-Membro em causa e pela Comunidade, em conformidade com o n.º 5, primeiro parágrafo, e com o n.º 6 do artigo 32.º do Regulamento (CE) n.º 1290/2005;\n\ng) Separadamente, os montantes a suportar, respectivamente, pelo Estado-Membro em causa e pela Comunidade, em conformidade com o n.º 8, primeiro parágrafo, e com o n.º 7 do artigo 33.º do Regulamento (CE) n.º 1290/2005;\n\nh) O quadro dos pagamentos indevidos a recuperar até ao final do exercício financeiro devido a irregularidades, na acepção do n.º 2 do artigo 1.º do Regulamento (CE, Euratom) n.º 2988/95 do Conselho ([^7^](http://publications.europa.eu/resource/cellar/f85b8410-30b8-4402-965d-189c938f5bc1.0018.03/DOC_1#E0007)), incluindo as sanções e juros que lhes sejam aplicáveis, em conformidade com o modelo estabelecido no anexo III do presente regulamento;\n\ni) O quadro, extraído da lista de devedores, dos montantes a recuperar e a creditar ao FEAGA ou ao Feader, excepto os referidos nas alíneas b), c) e h), incluindo as sanções e juros que lhes sejam aplicáveis, em conformidade com o modelo estabelecido no anexo IIIA do presente regulamento;\n\nj) Um resumo das operações de intervenção e uma declaração das quantidades e localização das existências no fim do exercício financeiro;\n\nk) A confirmação de que os dados relativos a cada movimento das existências de intervenção se encontram registados nos processos do organismo pagador."
+  },
+  "6a78f42f779f3a4c": {
+   "fragment_id": "Artigo 18.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Revogação\n\n1. Ficam revogados, com efeitos a partir de 16 de Outubro de 2006, o Regulamento (CE) n.º 1663/95, o Regulamento (CE) n.º 2390/1999 e a Decisão 94/442/CE. Contudo, o Regulamento (CE) n.º 1663/95 continuará a aplicar-se ao apuramento das contas, em conformidade com o do n.º 3 do artigo 7.º do Regulamento (CE) n.º 1258/1999 do Conselho ([^8^](http://publications.europa.eu/resource/cellar/f85b8410-30b8-4402-965d-189c938f5bc1.0018.03/DOC_1#E0008)), do exercício financeiro de 2006.\n\nO presidente, os membros e os membros suplentes do órgão de conciliação nomeados ao abrigo da Decisão 94/442/CE manter-se-ão em funções até ao final do seu mandato ou até que se proceda à sua substituição.\n\n2. As referências aos actos revogados no n.º 1 devem entender-se como referências ao presente regulamento e devem ser lidas de acordo com o quadro de correspondência constante do anexo V."
+  },
+  "f0f6f390edbc05be": {
+   "fragment_id": "D) Procedimentos relativos aos adiantamentos e garantias",
+   "type": "divisao",
+   "heading": "D) Procedimentos relativos aos adiantamentos e garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### D) Procedimentos relativos aos adiantamentos e garantias\n\nOs pagamentos de adiantamentos serão identificados separadamente nos registos contabilísticos ou auxiliares. Serão adoptados procedimentos para assegurar que:\n\ni) As garantias só sejam fornecidas por instituições financeiras que satisfaçam as condições do Regulamento (CEE) n.º 2220/85 da Comissão ([^9^](http://publications.europa.eu/resource/cellar/f85b8410-30b8-4402-965d-189c938f5bc1.0018.03/DOC_1#E0009)) e sejam aprovadas pelas autoridades competentes e que as garantias permaneçam válidas até serem liberadas ou executadas, sendo realizadas mediante simples pedido do organismo pagador;\n\nii) Os adiantamentos sejam regularizados nos prazos estipulados e que os adiantamentos cujos prazos tenham sido ultrapassados sejam identificados com rapidez e as respectivas garantias imediatamente executadas."
+  },
+  "0fa04790cbf676e6": {
+   "fragment_id": "Modelo de quadro referido na alínea h) do artigo 6.º",
+   "type": "divisao",
+   "heading": "Modelo de quadro referido na alínea h) do artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Modelo de quadro referido na alínea h) do artigo 6.º\n\nOs Estados-Membros facultarão, por organismo pagador, as informações referidas na alínea h) do artigo 6.º, utilizando para o efeito o quadro seguinte:\n\n| a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t (l + m + n + o) | u |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Organismo pagador | Fundo [artigos 3.º ou 4.º do Regulamento (CE) n.º 1290/2005 | Exercício financeiro | Unidade monetária | Número de identificação do caso | Identificação ECR, se for caso disso [(^1^)](http://publications.europa.eu/resource/cellar/f85b8410-30b8-4402-965d-189c938f5bc1.0018.03/DOC_1#E0010) | Caso incluído na lista de devedores? | Identificação do beneficiário | Programa encerrado? (Feader) | Exercício financeiro do primeiro auto relativo à irregularidade | Objecto de processo judicial | Montante original a recuperar | Montante total corrigido (totalidade do período de recuperação) | Montante total recuperado (totalidade do período de recuperação) | Montante declarado irrecuperável | Exercício financeiro do estabelecimento da irrecuperabilidade | Razões da irrecuperabilidade | Montante corrigido (no exercício financeiro n) | Montante recuperado (no exercício financeiro n) | Montante cuja recuperação está em curso | Montante a creditar ao orçamento comunitário |\n|  | 3/4 |  |  |  |  | s/n |  |  |  | s/n |  |  |  |  |  |  |  |  |  |  |\n|  | 3/4 |  |  |  |  | s/n |  |  |  | s/n |  |  |  |  |  |  |  |  |  |  |\n|  | 3/4 |  |  |  |  | s/n |  |  |  | s/n |  |  |  |  |  |  |  |  |  |  |\n|  | 3/4 |  |  |  |  | s/n |  |  |  | s/n |  |  |  |  |  |  |  |  |  |  |\n| Total |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| (^1^)Identificação única dos casos comunicados a título do Regulamento (CE) n.º 1848/2006 da Comissão (JO L 355 de 15.12.2006, p. 56). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |"
+  },
+  "37455b45bbfad1ef": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f85b8410-30b8-4402-965d-189c938f5bc1.0018.03/DOC_1#src.E0001)) JO L 209 de 11.8.2005, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 320/2006 (JO L 58 de 28.2.2006, p. 42).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f85b8410-30b8-4402-965d-189c938f5bc1.0018.03/DOC_1#src.E0002)) JO L 158 de 8.7.1995, p. 6. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 465/2005 (JO L 77 de 23.3.2005, p. 6).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f85b8410-30b8-4402-965d-189c938f5bc1.0018.03/DOC_1#src.E0003)) JO L 295 de 16.11.1999, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1359/2005 (JO L 214 de 19.8.2005, p. 11).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f85b8410-30b8-4402-965d-189c938f5bc1.0018.03/DOC_1#src.E0004)) JO L 182 de 16.7.1994, p. 45. Decisão com a última redacção que lhe foi dada pela Decisão 2001/535/CE (JO L 193 de 17.7.2001, p. 25).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/f85b8410-30b8-4402-965d-189c938f5bc1.0018.03/DOC_1#src.E0005)) JO L 270 de 21.10.2003, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/f85b8410-30b8-4402-965d-189c938f5bc1.0018.03/DOC_1#src.E0006)) JO L 171 de 23.6.1996, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/f85b8410-30b8-4402-965d-189c938f5bc1.0018.03/DOC_1#src.E0007)) JO L 312 de 23.12.1995, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/f85b8410-30b8-4402-965d-189c938f5bc1.0018.03/DOC_1#src.E0008)) JO L 160 de 26.6.1999, p. 103.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/f85b8410-30b8-4402-965d-189c938f5bc1.0018.03/DOC_1#src.E0009)) JO L 205 de 3.8.1985, p. 5."
+  },
+  "4083720c9849c0cf": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Junho de 2006\n\nque estabelece as regras de execução do Regulamento (CE) n.º 1290/2005 do Conselho no respeitante à acreditação dos organismos pagadores e de outros organismos e ao apuramento das contas do FEAGA e do FEADER\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1290/2005 do Conselho, de 21 de Junho de 2005, relativo ao financiamento da política agrícola comum ([^1^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#E0001)), nomeadamente o artigo 42.º,\n\n(1) Na sequência da adopção do Regulamento (CE) n.º 1290/2005, devem ser estabelecidas novas regras de execução no respeitante à acreditação dos organismos pagadores e de outros organismos e ao apuramento das contas do Fundo Europeu Agrícola de Garantia (FEAGA) e do Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER). O Regulamento (CE) n.º 1663/95 da Comissão, de 7 de Julho de 1995, que estabelece as regras de execução do Regulamento (CEE) n.º 729/70 no que respeita ao processo de apuramento das contas do FEOGA, secção Garantia ([^2^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#E0002)), deve, por conseguinte, ser revogado e substituído por um novo regulamento.\n\n(2) Os Estados-Membros só devem acreditar os organismos pagadores se estes satisfizerem certos critérios mínimos estabelecidos ao nível comunitário. Tais critérios devem cobrir quatro grandes domínios: ambiente interno, actividades de controlo, informação e comunicação, e acompanhamento. Os Estados-Membros devem poder estabelecer critérios de acreditação complementares, a fim de ter em conta eventuais características específicas de um organismo pagador.\n\n(3) Os Estados-Membros devem estar obrigados a manter os seus organismos pagadores sob supervisão constante e a estabelecer um dispositivo de troca de informações sobre os eventuais casos de não-conformidade. Para tratar esses casos, convém criar um procedimento que inclua a obrigação de conceber um plano para corrigir, num prazo a fixar, quaisquer deficiências detectadas. As despesas efectuadas pelos organismos pagadores cuja acreditação seja mantida pelos Estados-Membros apesar de não terem aplicado esse plano de correcção no prazo fixado devem ser objecto do procedimento de apuramento da conformidade previsto no artigo 31.º do Regulamento (CE) n.º 1290/2005.\n\n(4) Convém estabelecer as regras de execução no respeitante ao conteúdo e à forma da declaração de fiabilidade referida no n.º 1, subalínea iii) da alínea c), do artigo 8.º do Regulamento (CE) n.º 1290/2005.\n\n(5) É necessário especificar o papel do organismo de coordenação referido no n.º 3 do artigo 6.º do Regulamento (CE) n.º 1290/2005 e estabelecer os critérios relativos à sua acreditação.\n\n(6) A fim de garantir que os certificados e relatórios a elaborar pelos organismos de certificação, referidos no artigo 7.º do Regulamento (CE) n.º 1290/2005, sejam úteis para a Comissão no âmbito do procedimento de apuramento das contas, é necessário especificar o seu conteúdo.\n\n(7) Para permitir que a Comissão proceda ao apuramento das contas em conformidade com o artigo 30.º do Regulamento (CE) n.º 1290/2005, há que especificar o conteúdo das contas anuais dos organismos pagadores e estabelecer uma data para a transmissão à Comissão dessas contas e de outros documentos pertinentes. O período durante o qual os organismos pagadores devem manter à disposição da Comissão os documentos comprovativos relativos a todas as despesas e receitas afectadas deve, igualmente, ser indicado.\n\n(8) Além disso, é necessário precisar que a Comissão estabelece a forma e o conteúdo das informações contabilísticas que os organismos pagadores lhe devem transmitir. Neste contexto, é igualmente oportuno incluir no presente regulamento as regras relativas à utilização dessas informações contabilísticas, que constam actualmente do Regulamento (CE) n.º 2390/1999 da Comissão, de 25 de Outubro de 1999, que estabelece a forma e o conteúdo das informações contabilísticas a apresentar à Comissão no âmbito do apuramento das contas do FEOGA, secção Garantia, e para efeitos de acompanhamento e elaboração de previsões ([^3^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#E0003)). O Regulamento (CE) n.º 2390/1999 deve, portanto, ser revogado.\n\n(9) Convém estabelecer disposições precisas em relação ao apuramento das contas previsto no artigo 30.º do Regulamento (CE) n.º 1290/2005 e ao apuramento da conformidade previsto no artigo 31.º do mesmo regulamento, nomeadamente um dispositivo que permita que os montantes resultantes sejam, conforme o caso, deduzidos de ou adicionados a um dos pagamentos a efectuar posteriormente aos Estados-Membros.\n\n(10) Para efeitos do procedimento de apuramento da conformidade, a Decisão 94/442/CE da Comissão, de 1 de Julho de 1994, relativa à criação de um processo de conciliação no quadro do apuramento das contas do FEOGA, secção Garantia ([^4^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#E0004)), criou um órgão de conciliação e adoptou as regras relativas à sua composição e funcionamento. Por razões de simplificação, convém incluir essas regras no presente regulamento, adaptando-as, se necessário. A Decisão 94/442/CE deve, portanto, ser revogada.\n\n(11) Se um organismo pagador acreditado em conformidade com o Regulamento (CE) n.º 1663/95 assumir, após 16 de Outubro de 2006, responsabilidades que não detinha antes dessa data, é necessária uma nova acreditação de acordo com os critérios estabelecidos no presente regulamento para essas novas responsabilidades. A título transitório, deve ser possível adaptar a acreditação antes de 16 de Outubro de 2007.\n\n(12) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité dos Fundos Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "9f2f0c04c9b8eb5a": {
+   "fragment_id": "Artigo 5.º-A — De minimis",
+   "type": "artigo",
+   "heading": "Artigo 5.º-A — De minimis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º-A — De minimis\n\nSem prejuízo do n.º 3, primeiro parágrafo, do artigo 6.º do Regulamento (CE) n.º 1782/2003 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#E0005)), as condições do n.º 6, alínea a), do artigo 32.º e do n.º 7 do artigo 33.º do Regulamento (CE) n.º 1290/2005 consideram-se cumpridas se o montante que se deve recuperar do beneficiário relativamente a um pagamento individual, para um regime de ajudas, sem juros, não exceder 100 EUR."
+  },
+  "5028841ec9fd8251": {
+   "fragment_id": "Artigo 6.º — Conteúdo das contas anuais",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Conteúdo das contas anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conteúdo das contas anuais\n\nAs contas anuais referidas no n.º 1, subalínea iii) da alínea c), do artigo 8.º do Regulamento (CE) n.º 1290/2005 incluirão:\n\na) As receitas afectadas referidas no artigo 34.º do Regulamento (CE) n.º 1290/2005;\n\nb) As despesas do FEAGA, após dedução dos pagamentos indevidos não recuperados até ao final do exercício financeiro, excepto os montantes a que se refere a alínea h), incluindo os juros que lhes sejam aplicáveis, resumidas por rubrica e sub-rubrica do orçamento comunitário;\n\nc) As despesas do Feader, por programa e medida. No encerramento do programa, os pagamentos indevidos não recuperados, excepto os montantes a que se refere a alínea h), incluindo os juros que lhes sejam aplicáveis, serão deduzidos da despesa do exercício financeiro em questão;\n\nd) Informações sobre as despesas e as receitas afectadas, ou a confirmação de que os dados relativos a cada operação se encontram registados num ficheiro informático à disposição da Comissão;\n\ne) Um quadro com as diferenças por rubrica e sub-rubrica ou, no caso do Feader, por programa e medida, entre as despesas e receitas afectadas declaradas nas contas anuais e as declaradas, para o mesmo período, nos documentos referidos no n.º 1, alínea c), do artigo 4.º do Regulamento (CE) n.º 883/2006 da Comissão, de 21 de Junho de 2006, que estabelece regras de execução do Regulamento (CE) n.º 1290/2005 do Conselho, no que diz respeito à manutenção das contas dos organismos pagadores, às declarações de despesas e de receitas e às condições de reembolso das despesas no âmbito do FEAGA e do Feader ([^6^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#E0006)), em relação ao FEAGA, e no n.º 2 do artigo 16.º do mesmo regulamento, em relação ao Feader, acompanhado de uma explicação de cada diferença;\n\nf) Separadamente, os montantes a suportar, respectivamente, pelo Estado-Membro em causa e pela Comunidade, em conformidade com o n.º 5, primeiro parágrafo, e com o n.º 6 do artigo 32.º do Regulamento (CE) n.º 1290/2005;\n\ng) Separadamente, os montantes a suportar, respectivamente, pelo Estado-Membro em causa e pela Comunidade, em conformidade com o n.º 8, primeiro parágrafo, e com o n.º 7 do artigo 33.º do Regulamento (CE) n.º 1290/2005;\n\nh) O quadro dos pagamentos indevidos a recuperar até ao final do exercício financeiro devido a irregularidades, na acepção do n.º 2 do artigo 1.º do Regulamento (CE, Euratom) n.º 2988/95 do Conselho ([^7^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#E0007)), incluindo as sanções e juros que lhes sejam aplicáveis, em conformidade com o modelo estabelecido no anexo III do presente regulamento;\n\ni) O quadro, extraído da lista de devedores, dos montantes a recuperar e a creditar ao FEAGA ou ao Feader, excepto os referidos nas alíneas b), c) e h), incluindo as sanções e juros que lhes sejam aplicáveis, em conformidade com o modelo estabelecido no anexo IIIA do presente regulamento;\n\nj) Um resumo das operações de intervenção e uma declaração das quantidades e localização das existências no fim do exercício financeiro;\n\nk) A confirmação de que os dados relativos a cada movimento das existências de intervenção se encontram registados nos processos do organismo pagador."
+  },
+  "c8e55a30e5335152": {
+   "fragment_id": "Artigo 9.º — Conservação das informações contabilísticas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Conservação das informações contabilísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conservação das informações contabilísticas\n\n1. Os documentos comprovativos relativos às despesas financiadas e às receitas afectadas a recuperar pelo FEAGA devem ser mantidos à disposição da Comissão durante, pelo menos, os três anos seguintes ao ano do apuramento das contas do exercício financeiro em causa pela Comissão a título do artigo 30.º do Regulamento (CE) n.º 1290/2005.\n\n2. Os documentos comprovativos relativos às despesas financiadas e às receitas afectadas a recuperar pelo FEADER devem ser mantidos à disposição da Comissão durante, pelo menos, os três anos seguintes àquele em que seja efectuado o pagamento final pelo organismo pagador.\n\n3. No caso de irregularidades ou negligência, os documentos comprovativos referidos nos n.^os^ 1 e 2 serão mantidos à disposição da Comissão durante, pelo menos, os três anos seguintes àquele em que as importâncias sejam inteiramente recuperadas do beneficiário e creditadas ao FEAGA ou ao FEADER ou em que sejam determinadas as consequências financeiras da não-recuperação, em conformidade com o n.º 5 do artigo 32.º ou com o n.º 8 do artigo 33.º do Regulamento (CE) n.º 1290/2005.\n\n4. No caso de aplicação do procedimento de apuramento da conformidade previsto no artigo 31.º do Regulamento (CE) n.º 1290/2005, os documentos comprovativos referidos nos n.^os^ 1 e 2 do presente artigo serão mantidos à disposição da Comissão durante, pelo menos, um ano a contar do ano da conclusão desse procedimento ou, se uma decisão de conformidade for objecto de uma acção junto do Tribunal de Justiça das Comunidades Europeias, durante, pelo menos, um ano a contar do ano do termo dessa acção.\n\n5. Os documentos comprovativos referidos nos n.^os^ 1 a 4 devem ser mantidos à disposição da Comissão em formato papel, em formato digital e/ou em ambos os formatos.\n\nOs documentos só podem ser conservados exclusivamente em formato digital se a legislação nacional do Estado-Membro em causa permitir a utilização, nos processos perante os tribunais nacionais, de documentos digitais como prova das transações correspondentes.\n\nSe os documentos forem conservados apenas em formato digital, o sistema utilizado deve ser conforme com o disposto no anexo I, ponto 3.B)."
+  },
+  "51df519d1492baf2": {
+   "fragment_id": "Artigo 10.º — Apuramento financeiro",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Apuramento financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apuramento financeiro\n\n1. A decisão de apuramento das contas a que se refere o artigo 30.º do Regulamento (CE) n.º 1290/2005 determinará os montantes das despesas efectuadas em cada Estado-Membro durante o exercício financeiro em causa consideradas como imputáveis ao FEAGA e ao FEADER com base nas contas mencionadas no artigo 6.º do presente regulamento e as eventuais reduções e suspensões previstas nos artigos 17.º e 27.º do Regulamento (CE) n.º 1290/2005.\n\nRelativamente ao FEAGA, a decisão de apuramento das contas determinará igualmente os montantes a imputar à Comunidade e ao Estado-Membro em causa em conformidade com o n.º 5 do artigo 32.º do Regulamento (CE) n.º 1290/2005.\n\nRelativamente ao FEADER, o montante determinado pela decisão de apuramento das contas incluirá os fundos que podem ser reutilizados pelo Estado-Membro em causa nos termos do n.º 3, alínea c), do artigo 33.º do Regulamento (CE) n.º 1290/2005.\n\n2. No respeitante ao FEAGA, o montante que, em consequência da decisão de apuramento das contas, seja recuperável de cada Estado-Membro ou lhe seja pagável será determinado através da dedução dos pagamentos mensais a título do exercício financeiro em causa das despesas reconhecidas para o mesmo exercício em conformidade com o n.º 1. Esse montante será deduzido ou adicionado pela Comissão ao pagamento mensal relativo às despesas efectuadas no segundo mês seguinte à decisão de apuramento das contas.\n\nNo respeitante ao FEAGA, o montante que, em consequência da decisão de apuramento das contas, seja recuperável de cada Estado-Membro ou lhe seja pagável será determinado através da dedução dos pagamentos intermédios a título do exercício financeiro em causa das despesas reconhecidas para o mesmo exercício em conformidade com o n.º 1. [**►M3**](http://publications.europa.eu/resource/celex/32012R0375) Esse montante deve ser deduzido ou adicionado pela Comissão ao primeiro pagamento para o qual o Estado-Membro apresente a declaração de despesas após a tomada da decisão prevista no artigo 30.º do Regulamento (CE) n.º 1290/2005.**◄**\n\n3. A Comissão comunicará ao Estado-Membro em causa os resultados das suas verificações das informações apresentadas, conjuntamente com as alterações que propuser, o mais tardar até ao dia 31 de Março seguinte ao fim do exercício financeiro.\n\n4. Quando, por razões imputáveis ao Estado-Membro, a Comissão não puder apurar as contas de um Estado-Membro antes de 30 de Abril do ano seguinte, informará o Estado-Membro dos inquéritos complementares que se proponha realizar nos termos do artigo 37.º do Regulamento (CE) n.º 1290/2005.\n\n5. O presente artigo aplica-se, *mutatis mutandis*, às receitas afectadas na acepção do artigo 34.º do Regulamento (CE) n.º 1290/2005."
+  },
+  "7a12b5dcd2417b47": {
+   "fragment_id": "Artigo 11.º — Apuramento da conformidade",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Apuramento da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apuramento da conformidade\n\n1. Quando, na sequência de um inquérito, a Comissão considerar que uma despesa não foi efectuada de acordo com as regras comunitárias, comunicará ao Estado-Membro em causa as suas verificações e indicará as medidas correctivas necessárias para garantir a futura observância dessas regras.\n\nEssa comunicação fará referência ao presente artigo. O Estado-Membro deve responder num prazo de dois meses a contar da recepção da comunicação, podendo a Comissão alterar a sua posição em conformidade com a resposta. Em casos justificados, a Comissão pode prorrogar o prazo de resposta.\n\nTerminado o prazo de resposta, a Comissão convocará uma reunião bilateral, devendo ambas as partes tentar alcançar um acordo quanto às medidas a tomar e à avaliação da gravidade da infracção e do prejuízo financeiro causado ao orçamento comunitário.\n\n2. No prazo de dois meses após a data de recepção da acta da reunião bilateral prevista no n.º 1, terceiro parágrafo, o Estado-Membro transmitirá as informações solicitadas durante essa reunião ou quaisquer outras informações que considere úteis para o exame em curso.\n\nEm casos justificados, a Comissão pode, mediante pedido fundamentado do Estado-Membro, autorizar uma prorrogação do prazo mencionado no primeiro parágrafo. O pedido será enviado à Comissão antes do termo desse prazo.\n\nApós o prazo referido no primeiro parágrafo, a Comissão comunicará formalmente as suas conclusões ao Estado-Membro com base nas informações recebidas no âmbito do procedimento de apuramento da conformidade. Na comunicação será efectuada uma avaliação das despesas que a Comissão prevê excluir do financiamento comunitário a título do artigo 31.º do Regulamento (CE) n.º 1290/2005 e será feita referência ao n.º 1 do artigo 16.º do presente regulamento.\n\n3. O Estado-Membro informará a Comissão das medidas correctivas que tenha adoptado para assegurar a observância das regras comunitárias, assim como da data efectiva da sua aplicação.\n\nA Comissão, depois de examinar quaisquer relatórios elaborados pelo órgão de conciliação em conformidade com o capítulo 3 do presente regulamento, adoptará, se necessário, uma ou mais decisões a título do artigo 31.º do Regulamento (CE) n.º 1290/2005, a fim de excluir do financiamento comunitário as despesas afectadas pela inobservância das regras comunitárias, até que o Estado-Membro aplique efectivamente as medidas correctivas.\n\nQuando da avaliação das despesas a excluir do financiamento comunitário, a Comissão pode ter em conta informações facultadas pelo Estado-Membro após o termo do prazo referido no n.º 2, se tal for necessário para uma melhor estimativa do prejuízo financeiro causado ao orçamento comunitário, desde que a transmissão tardia das informações se justifique por circunstâncias excepcionais.\n\nA Comissão pode, em qualquer fase, pôr termo ao procedimento, sem consequências financeiras para o Estado-Membro em causa, caso preveja que as possíveis consequências financeiras do incumprimento identificadas em resultado de um inquérito, conforme referido no n.º 1, não excedam 50 000 EUR nem 10 % das despesas pertinentes ou dos montantes a recuperar.\n\n4. No respeitante ao FEAGA, as deduções do financiamento comunitário serão efectuadas pela Comissão sobre os pagamentos mensais relativos à despesa efectuada no segundo mês seguinte ao da decisão prevista no artigo 31.º do Regulamento (CE) n.º 1290/2005.\n\nNo respeitante ao FEADER, as deduções do financiamento da União devem ser efetuadas pela Comissão do pagamento para o qual o Estado-Membro apresente a declaração de despesas após a tomada da decisão prevista no artigo 31.º do Regulamento (CE) n.º 1290/2005.\n\nTodavia, a pedido do Estado-Membro e após consulta do Comité dos Fundos Agrícolas, a Comissão pode adotar uma decisão que:\n\na) Fixe uma data diferente para as deduções ou autorize o seu reembolso numa ou mais prestações quando a importância das deduções o justificar, num ato de execução adotado com base no artigo 31.º do Regulamento (CE) n.º 1290/2005; ou\n\nb) Difira, até ao termo de um período de dezoito meses, no máximo, a contar da data da sua adoção, a execução de todas as deduções a executar durante esse período e, ao mesmo tempo, autorize a sua execução após o termo do diferimento, num máximo de três prestações anuais idênticas, em relação aos Estados-Membros que recebam apoio financeiro ao abrigo do Regulamento (CE) n.º 332/2002 do Conselho ([^8^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#E0008)), do Regulamento (UE) n.º 407/2010 do Conselho ([^9^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#E0009)), do Acordo-Quadro relativo ao Fundo Europeu de Estabilidade Financeira assinado, em 7 de junho de 2010, ou do Tratado que institui o Mecanismo Europeu de Estabilidade.\n\nO termo do período de diferimento referido no terceiro parágrafo, alínea b), não pode ser prorrogado e, em relação ao mesmo Estado-Membro, não pode ser adotada qualquer outra decisão que autorize um diferimento. Os Estados-Membros que beneficiem de uma decisão de diferimento devem assegurar que as deficiências que constituíram a razão para as deduções e que ainda persistam aquando da adoção da decisão de diferimento são corrigidas com base num plano de ação, estabelecido em consulta com a Comissão, com indicadores de progresso claros. Caso o Estado-Membro não empreenda as ações necessárias para corrigir essas deficiências de acordo com o plano de ação, o progresso das ações corretivas não seja suficiente de acordo com os indicadores de progresso ou o resultado da ação não seja satisfatório, a Comissão deve revogar a sua decisão de diferimento do prazo para a execução das deduções, no respeito do princípio da proporcionalidade.\n\n5. O presente artigo aplica-se, *mutatis mutandis*, às receitas afectadas na acepção do artigo 34.º do Regulamento (CE) n.º 1290/2005."
+  },
+  "cef3233c5ed57cd3": {
+   "fragment_id": "Artigo 18.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Revogação\n\n1. Ficam revogados, com efeitos a partir de 16 de Outubro de 2006, o Regulamento (CE) n.º 1663/95, o Regulamento (CE) n.º 2390/1999 e a Decisão 94/442/CE. Contudo, o Regulamento (CE) n.º 1663/95 continuará a aplicar-se ao apuramento das contas, em conformidade com o do n.º 3 do artigo 7.º do Regulamento (CE) n.º 1258/1999 do Conselho ([^10^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#E0010)), do exercício financeiro de 2006.\n\nO presidente, os membros e os membros suplentes do órgão de conciliação nomeados ao abrigo da Decisão 94/442/CE manter-se-ão em funções até ao final do seu mandato ou até que se proceda à sua substituição.\n\n2. As referências aos actos revogados no n.º 1 devem entender-se como referências ao presente regulamento e devem ser lidas de acordo com o quadro de correspondência constante do anexo V."
+  },
+  "63aad493517ae248": {
+   "fragment_id": "D) Procedimentos relativos aos adiantamentos e garantias",
+   "type": "divisao",
+   "heading": "D) Procedimentos relativos aos adiantamentos e garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### D) Procedimentos relativos aos adiantamentos e garantias\n\nOs pagamentos de adiantamentos serão identificados separadamente nos registos contabilísticos ou auxiliares. Serão adoptados procedimentos para assegurar que:\n\ni) As garantias só sejam fornecidas por instituições financeiras que satisfaçam as condições do Regulamento (CEE) n.º 2220/85 da Comissão ([^11^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#E0011)) e sejam aprovadas pelas autoridades competentes e que as garantias permaneçam válidas até serem liberadas ou executadas, sendo realizadas mediante simples pedido do organismo pagador;\n\nii) Os adiantamentos sejam regularizados nos prazos estipulados e que os adiantamentos cujos prazos tenham sido ultrapassados sejam identificados com rapidez e as respectivas garantias imediatamente executadas."
+  },
+  "f17a69f89be42262": {
+   "fragment_id": "Modelo de quadro referido na alínea h) do artigo 6.º",
+   "type": "divisao",
+   "heading": "Modelo de quadro referido na alínea h) do artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Modelo de quadro referido na alínea h) do artigo 6.º\n\nOs Estados-Membros facultarão, por organismo pagador, as informações referidas na alínea h) do artigo 6.º, utilizando para o efeito o quadro seguinte:\n\n| a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t (l + m + n + o) | u |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Organismo pagador | Fundo [artigos 3.º ou 4.º do Regulamento (CE) n.º 1290/2005 | Exercício financeiro | Unidade monetária | Número de identificação do caso | Identificação ECR, se for caso disso [(^1^)](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#E0012) | Caso incluído na lista de devedores? | Identificação do beneficiário | Programa encerrado? (Feader) | Exercício financeiro do primeiro auto relativo à irregularidade | Objecto de processo judicial | Montante original a recuperar | Montante total corrigido (totalidade do período de recuperação) | Montante total recuperado (totalidade do período de recuperação) | Montante declarado irrecuperável | Exercício financeiro do estabelecimento da irrecuperabilidade | Razões da irrecuperabilidade | Montante corrigido (no exercício financeiro n) | Montante recuperado (no exercício financeiro n) | Montante cuja recuperação está em curso | Montante a creditar ao orçamento comunitário |\n|  | 3/4 |  |  |  |  | s/n |  |  |  | s/n |  |  |  |  |  |  |  |  |  |  |\n|  | 3/4 |  |  |  |  | s/n |  |  |  | s/n |  |  |  |  |  |  |  |  |  |  |\n|  | 3/4 |  |  |  |  | s/n |  |  |  | s/n |  |  |  |  |  |  |  |  |  |  |\n|  | 3/4 |  |  |  |  | s/n |  |  |  | s/n |  |  |  |  |  |  |  |  |  |  |\n| Total |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| (^1^)Identificação única dos casos comunicados a título do Regulamento (CE) n.º 1848/2006 da Comissão (JO L 355 de 15.12.2006, p. 56). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |"
+  },
+  "2197e8bcfe67c143": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#src.E0001)) JO L 209 de 11.8.2005, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 320/2006 (JO L 58 de 28.2.2006, p. 42).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#src.E0002)) JO L 158 de 8.7.1995, p. 6. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 465/2005 (JO L 77 de 23.3.2005, p. 6).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#src.E0003)) JO L 295 de 16.11.1999, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1359/2005 (JO L 214 de 19.8.2005, p. 11).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#src.E0004)) JO L 182 de 16.7.1994, p. 45. Decisão com a última redacção que lhe foi dada pela Decisão 2001/535/CE (JO L 193 de 17.7.2001, p. 25).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#src.E0005)) JO L 270 de 21.10.2003, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#src.E0006)) JO L 171 de 23.6.1996, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#src.E0007)) JO L 312 de 23.12.1995, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#src.E0008)) JO L 53 de 23.2.2002, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#src.E0009)) JO L 118 de 12.5.2010, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#src.E0010)) JO L 160 de 26.6.1999, p. 103.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/655674b0-6205-434b-b0a5-c4bc1d75cdc4.0018.03/DOC_1#src.E0011)) JO L 205 de 3.8.1985, p. 5."
+  },
+  "8c3fa88a3cda54af": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2006R0885 — PT — 01.01.2015 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32006R0885) [REGULAMENTO(CE) N.º 885/2006 DA COMISSÃO](http://publications.europa.eu/resource/celex/32006R0885) [de 21 de Junho de 2006](http://publications.europa.eu/resource/celex/32006R0885) [que estabelece as regras de execução do Regulamento (CE) n.º 1290/2005 do Conselho no respeitante à acreditação dos organismos pagadores e de outros organismos e ao apuramento das contas do FEAGA e do FEADER](http://publications.europa.eu/resource/celex/32006R0885) (JO L 171, 23.6.2006, p.90)\n\n**revogado por:**\n\n- [Regulamento Delegado (UE) n.o 907/2014 da Comissão de 11 de março de 2014](http://publications.europa.eu/resource/celex/32014R0907) — L 255 — 18 — 28.8.2014"
+  }
+ }
+}

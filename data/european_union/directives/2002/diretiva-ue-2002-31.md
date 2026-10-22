@@ -34,6 +34,32 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-01-01'
+version_history:
+  file: diretiva-ue-2002-31.versoes.json
+  count: 2
+  source_lastmod: '2013-01-01'
+  versions:
+  - date: '2002-04-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime ANEXO I — ETIQUETA
+    - Suprime ANEXO II — FICHA
+    - Suprime ANEXO III — VENDA POR CORRESPONDÊNCIA E OUTRAS FORMAS DE VENDA À DISTÂNCIA
+    - Suprime ANEXO IV — CLASSIFICAÇÃO
+    - Suprime ANEXO V — TRADUÇÃO DE TERMOS A UTILIZAR NA ETIQUETA E NA FICHA
 identifiers:
   celex: 32002L0031
   eli: http://data.europa.eu/eli/dir/2002/31/oj
@@ -48,7 +74,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3b879606-c94b-4d7d-8e67-79788adaad92.0010
   content_url: http://publications.europa.eu/resource/cellar/7797c249-d3cc-4392-bee9-8be4438433e6.0018.04/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0031-20130101
-  retrieved_at: '2026-10-22T02:47:26Z'
+  retrieved_at: '2026-10-22T14:51:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T03:13:12.346+01:00'
 integrity:
@@ -57,9 +83,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:26Z'
-  notes: Texto consolidado 02002L0031-20130101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:29Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2002-31.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -141,16 +167,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:26Z'
+  checked_at: '2026-10-22T14:51:29Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02002L0031-20020423: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002L0031-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002L0031-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

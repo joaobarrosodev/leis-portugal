@@ -34,6 +34,141 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-01-20'
+version_history:
+  file: regulamento-ue-1999-1493.versoes.json
+  count: 5
+  source_lastmod: '2009-01-20'
+  versions:
+  - date: '1999-07-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-01-04'
+    amending: eu:celex:32000R1622:por
+    amending_title: REGULAMENTO (CE) N. o 1622/2000 DA COMISSÃO de 24 de Julho de 2000; REGULAMENTO (CE) N. o 2826/2000 DO
+      CONSELHO de 19 de Dezembro de 2000; REGULAMENTO (CE) N. o 2585/2001 DO CONSELHO de 19 de Dezembro de 2001; REGULAMENTO
+      (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003; REGULAMENTO (CE) N. o 1795/2003 DA COMISSÃO de 13 de Outubro
+      de 2003; REGULAMENTO (CE) N. o 2165/2005 DO CONSELHO de 20 de Dezembro de 2005; Acto relativo às condições de adesão
+      da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia,
+      da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca
+      e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 19.º
+    - Altera Artigo 27.º
+    - Altera Artigo 35.º
+    - Altera Artigo 44.º
+    - Altera Artigo 64.º
+    - Altera Artigo 75.º
+    - Altera Artigo 82.º
+    - Adita TÍTULO I
+    - Adita ÂMBITO DE APLICAÇÃO
+    - Adita TÍTULO II
+    - Adita POTENCIAL DE PRODUÇÃO
+    - Adita CAPÍTULO I
+    - Adita PLANTAÇÃO DE VINHA
+    - Adita CAPÍTULO II
+    - Adita PRÉMIOS DE ABANDONO
+    - Adita Artigo 10.º
+    - Adita CAPÍTULO III
+    - Adita REESTRUTURAÇÃO E RECONVERSÃO
+    - Adita Artigo 15.º
+    - Adita CAPÍTULO IV
+    - Adita DISPOSIÇÕES GERAIS E RELATIVAS À INFORMAÇÃO
+    - Adita TÍTULO III
+    - Adita MECANISMOS DE MERCADO
+    - Adita AJUDA À ARMAZENAGEM PRIVADA
+    - Adita DESTILAÇÃO
+    - Adita AJUDAS À UTILIZAÇÃO DE MOSTOS DE UVAS
+    - Adita Artigo 36.º
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita TÍTULO IV
+    - Adita AGRUPAMENTOS DE PRODUTORES E ORGANIZAÇÕES INTERPROFISSIONAIS
+    - Adita AGRUPAMENTOS DE PRODUTORES
+    - Adita ORGANIZAÇÕES INTERPROFISSIONAIS
+    - Adita TÍTULO V
+    - Adita PRÁTICAS E TRATAMENTOS ENOLÓGICOS, DESIGNAÇÃO, DENOMINAÇÃO, APRESENTAÇÃO E PROTECÇÃO DOS PRODUTOS
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1791:por
+    amending_title: REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006; ►A2
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 13.º
+    - Altera Artigo 64.º
+    - Altera Artigo 75.º
+    - Altera ZONAS VITÍCOLAS
+    - Altera LISTA DAS PRÁTICAS E TRATAMENTOS ENOLÓGICOS AUTORIZADOS
+    - Altera D. Operações de enriquecimento
+    - Altera A. Indicações obrigatórias
+    - Altera D. Línguas a utilizar na rotulagem
+    - Altera D. Regras relativas às indicações obrigatórias
+    - Altera E. Utilização de certos termos específicos
+    - Altera G. Apresentação
+    - Altera Notas
+  - date: '2008-01-01'
+    amending: eu:celex:32007R1234:por
+    amending_title: REGULAMENTO (CE) N. o 1234/2007 DO CONSELHO de 22 de Outubro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 13.º
+    - Altera Artigo 64.º
+    - Altera LISTA DAS PRÁTICAS E TRATAMENTOS ENOLÓGICOS AUTORIZADOS
+    - Altera A. Indicações obrigatórias
+    - Altera G. Apresentação
+    - Altera Notas
+    - Suprime Artigo 74.º
+    - Suprime Artigo 75.º
+    - Suprime Artigo 76.º
+  - date: '2009-01-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime ÂMBITO DE APLICAÇÃO
+    - Suprime Artigo 1.º
+    - Suprime TÍTULO II
+    - Suprime POTENCIAL DE PRODUÇÃO
+    - Suprime CAPÍTULO I
+    - Suprime PLANTAÇÃO DE VINHA
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime CAPÍTULO II
+    - Suprime PRÉMIOS DE ABANDONO
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime CAPÍTULO III
+    - Suprime REESTRUTURAÇÃO E RECONVERSÃO
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime CAPÍTULO IV
+    - Suprime DISPOSIÇÕES GERAIS E RELATIVAS À INFORMAÇÃO
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime TÍTULO III
+    - Suprime MECANISMOS DE MERCADO
+    - Suprime AJUDA À ARMAZENAGEM PRIVADA
+    - Suprime Artigo 24.º
 identifiers:
   celex: 31999R1493
   eli: http://data.europa.eu/eli/reg/1999/1493/oj
@@ -48,7 +183,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ee452451-0dd9-4eee-aa39-dd4561461a13.0011
   content_url: http://publications.europa.eu/resource/cellar/ba8ebbfb-c67a-40e8-aa15-913f97179980.0017.03/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R1493-20090120
-  retrieved_at: '2026-10-22T02:35:13Z'
+  retrieved_at: '2026-10-22T14:48:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T09:24:54.834+01:00'
 integrity:
@@ -57,9 +192,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:13Z'
-  notes: Texto consolidado 01999R1493-20090120.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:23Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-1999-1493.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -520,16 +655,22 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:13Z'
+  checked_at: '2026-10-22T14:48:23Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01999R1493-19990721: versão indisponível (Sem expressão na língua por para CELEX 01999R1493-19990721.)'
+  - '01999R1493-20000801: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1493-20010101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1493-20010517: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1493-20011230: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1493-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1493-20030901: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1493-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

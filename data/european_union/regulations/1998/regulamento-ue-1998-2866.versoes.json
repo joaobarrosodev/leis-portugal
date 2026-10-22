@@ -1,0 +1,434 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998R2866:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998R2866-20260101",
+ "dre_path": null,
+ "source_lastmod": "2026-01-01",
+ "versions": [
+  {
+   "date": "1998-12-31",
+   "future": false,
+   "celex": "31998R2866",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3fe0060b362a431f",
+    "9db603b7e7ef7db1",
+    "1790527e0d4e409c"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01998R2866-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32000R1478:por",
+     "title": "REGULAMENTO (CE) N. o 1478/2000 DO CONSELHO de 19 de Junho de 2000",
+     "published": null,
+     "celex": "32000R1478"
+    },
+    {
+     "id": "eu:celex:32006R1086:por",
+     "title": "REGULAMENTO (CE) N. o 1086/2006 DO CONSELHO de 11 de Julho de 2006",
+     "published": null,
+     "celex": "32006R1086"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º"
+   ],
+   "fragments": [
+    "81996ebd9e5cb329",
+    "4cc0af87436145a5",
+    "282d37fed663dcb1",
+    "29279b0664499879"
+   ]
+  },
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "celex": "01998R2866-20080101",
+   "acts": [
+    {
+     "id": "eu:celex:32007R1135:por",
+     "title": "REGULAMENTO (CE) N. o 1135/2007 DO CONSELHO de 10 de Julho de 2007",
+     "published": null,
+     "celex": "32007R1135"
+    },
+    {
+     "id": "eu:celex:32007R1134:por",
+     "title": "REGULAMENTO (CE) N. o 1134/2007 DO CONSELHO de 10 de Julho de 2007",
+     "published": null,
+     "celex": "32007R1134"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "52890396b2c48295",
+    "1d00ebe0ee1fc4b7",
+    "282d37fed663dcb1",
+    "ca4caf8386c04253"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "celex": "01998R2866-20090101",
+   "acts": [
+    {
+     "id": "eu:celex:32008R0694:por",
+     "title": "REGULAMENTO (CE) N. o 694/2008 DO CONSELHO de 8 de Julho de 2008",
+     "published": null,
+     "celex": "32008R0694"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "9956d5dc11c37443",
+    "1e7012c85d476f69",
+    "282d37fed663dcb1",
+    "052f90e6ebff3c89"
+   ]
+  },
+  {
+   "date": "2011-01-01",
+   "future": false,
+   "celex": "01998R2866-20110101",
+   "acts": [
+    {
+     "id": "eu:celex:32010R0671:por",
+     "title": "REGULAMENTO (UE) N. o 671/2010 DO CONSELHO de 13 de Julho de 2010",
+     "published": null,
+     "celex": "32010R0671"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "60f30ef4b09a421b",
+    "f9ccce33ae392cf1",
+    "282d37fed663dcb1",
+    "0cf2836247af29f2"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "01998R2866-20140101",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0870:por",
+     "title": "REGULAMENTO (UE) N. o 870/2013 DO CONSELHO de 9 de julho de 2013",
+     "published": null,
+     "celex": "32013R0870"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "0040417c862e3bfd",
+    "7b076b0b2bc444e7",
+    "282d37fed663dcb1",
+    "22fe3301043a0cda"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "celex": "01998R2866-20150101",
+   "acts": [
+    {
+     "id": "eu:celex:32014R0851:por",
+     "title": "REGULAMENTO (UE) N. o 851/2014 DO CONSELHO de 23 de julho de 2014",
+     "published": null,
+     "celex": "32014R0851"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "36ead8701e26e191",
+    "d039006697a0649e",
+    "282d37fed663dcb1",
+    "b068468a4f4f6d0b"
+   ]
+  },
+  {
+   "date": "2023-01-01",
+   "future": false,
+   "celex": "01998R2866-20230101",
+   "acts": [
+    {
+     "id": "eu:celex:32022R1208:por",
+     "title": "REGULAMENTO (UE) 2022/1208 DO CONSELHO de 12 de julho de 2022",
+     "published": null,
+     "celex": "32022R1208"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "1f0d55175e9e1d7a",
+    "c32485f3afe60b29",
+    "f9bd0ea6de375558"
+   ]
+  },
+  {
+   "date": "2026-01-01",
+   "future": false,
+   "celex": "01998R2866-20260101",
+   "acts": [
+    {
+     "id": "eu:celex:32025R1409:por",
+     "title": "REGULAMENTO (UE) 2025/1409 DO CONSELHO de 8 de julho de 2025",
+     "published": null,
+     "celex": "32025R1409"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "1f0d55175e9e1d7a",
+    "1163eb331d046086",
+    "f9bd0ea6de375558"
+   ]
+  }
+ ],
+ "fragments": {
+  "3fe0060b362a431f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 2866/98 do Conselho de 31 de Dezembro de 1998 relativo às taxas de conversão entre o euro e as moedas dos Estados-membros que adoptam o euro** *Jornal Oficial nº L 359 de 31/12/1998 p. 0001 - 0002*\n\nREGULAMENTO (CE) Nº 2866/98 DO CONSELHO de 31 de Dezembro de 1998 relativo às taxas de conversão entre o euro e as moedas dos Estados-membros que adoptam o euro\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o nº 4, primeiro período, do seu artigo 109ºL,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Banco Central Europeu (1),\n\n(1) Considerando que, de acordo com o nº 4 do artigo 109ºJ do Tratado, a terceira fase da União Económica e Monetária tem início em 1 de Janeiro de 1999; que o Conselho, reunido a nível de chefes de Estado e de Governo, confirmou em 3 de Maio de 1998 que a Bélgica, a Alemanha, a Espanha, a França, a Irlanda, a Itália, o Luxemburgo, os Países Baixos, a Áustria, Portugal e a Finlândia preenchem as condições necessárias para a adopção da moeda única em 1 de Janeiro de 1999 (2);\n\n(2) Considerando que, de acordo com o Regulamento (CE) nº 974/98 do Conselho, de 3 de Maio de 1998, relativo à introdução do euro (3), o euro será a moeda dos Estados-membros que adoptem a moeda única a partir de 1 de Janeiro de 1999; que a introdução do euro requer a adopção das taxas de conversão a que o euro substituirá as moedas nacionais, bem como das taxas a que o euro se subdividirá em unidades monetárias nacionais; que as taxas de conversão mencionadas no artigo 1º são as taxas definidas no terceiro travessão do artigo 1º do Regulamento (CE) nº 974/98;\n\n(3) Considerando que, de acordo com o Regulamento (CE) nº 1103/97 do Conselho, de 17 de Junho de 1997, relativo a certas disposições respeitantes à introdução do euro (4), todas as referências feitas num instrumento legal ao ecu são substituídas por referências ao euro, à taxa de um euro por um ecu; que, de acordo com o nº 4, segundo período, do artigo 109ºL do Tratado, a adopção das taxas de conversão não modifica, só por si, o valor externo do ecu; que isto é assegurado pela adopção, enquanto taxas de conversão, das taxas de câmbio do ecu face às moedas dos Estados-membros que adoptam o euro, calculadas pela Comissão em 31 de Dezembro de 1998 segundo o sistema estabelecido para o cálculo das taxas oficiais diárias do ecu;\n\n(4) Considerando que os ministros dos Estados-membros que adoptam o euro como sua moeda única, os governadores dos Bancos Centrais desses Estados-membros, a Comissão e o Instituto Monetário Europeu/Banco Central Europeu emitiram dois comunicados sobre a determinação e a adopção das taxas de conversão irrevogáveis do euro em, respectivamente, 3 de Maio (5) e 26 de Setembro de 1998;\n\n(5) Considerando que o Regulamento (CE) nº 1103/97 estabelece que as taxas de conversão adoptadas exprimem o valor de um euro em relação a cada uma das moedas nacionais dos Estados-membros que adoptam o euro; que, a fim de assegurar um elevado grau de rigor, estas taxas incluirão seis algarismos significativos e não serão fixadas quaisquer taxas inversas ou taxas bilaterais entre as moedas dos Estados-membros que adoptam o euro,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "9db603b7e7ef7db1": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nAs taxas de conversão irrevogavelmente fixadas entre o euro e as moedas dos Estados-membros que adoptam o euro são as seguintes:\n\n1 euro // = 40,3399 francos belgas\n\n// = 1,95583 marcos alemães\n\n// = 166,386 pesetas espanholas\n\n// = 6,55957 francos franceses\n\n// = 0,787564 libras irlandesas\n\n// = 1 936,27 liras italianas\n\n// = 40,3399 francos luxemburgueses\n\n// = 2,20371 florins neerlandeses\n\n// = 13,7603 xelins austríacos\n\n// = 200,482 escudos portugueses\n\n// = 5,94573 marcas finlandesas"
+  },
+  "1790527e0d4e409c": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1999.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 31 de Dezembro de 1998.\n\nPelo Conselho\n\nO Presidente\n\nR. EDLINGER\n\n(1) JO C 412 de 31. 12. 1998, p. 1.\n\n(2) Decisão 98/317/CE do Conselho, de 3 de Maio de 1998, nos termos do artigo 109ºJ do Tratado (JO L 139 de 11. 5. 1998, p. 30).\n\n(3) JO L 139 de 11. 5. 1998, p. 1.\n\n(4) JO L 162 de 19. 6. 1997, p. 1.\n\n(5) JO C 160 de 27. 5. 1998, p. 1."
+  },
+  "81996ebd9e5cb329": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Dezembro de 1998\n\nrelativo às taxas de conversão entre o euro e as moedas dos Estados-membros que adoptam o euro\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 4, primeiro período, do seu artigo 109.ºL,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Banco Central Europeu ([^1^](http://publications.europa.eu/resource/cellar/243c663a-104b-4825-9e9f-789ad0d9b294.0011.03/DOC_1#E0001)),\n\n(1) Considerando que, de acordo com o n.º 4 do artigo 109.ºJ do Tratado, a terceira fase da União Económica e Monetária tem início em 1 de Janeiro de 1999; que o Conselho, reunido a nível de chefes de Estado e de Governo, confirmou em 3 de Maio de 1998 que a Bélgica, a Alemanha, a Espanha, a França, a Irlanda, a Itália, o Luxemburgo, os Países Baixos, a Áustria, Portugal e a Finlândia preenchem as condições necessárias para a adopção da moeda única em 1 de Janeiro de 1999 ([^2^](http://publications.europa.eu/resource/cellar/243c663a-104b-4825-9e9f-789ad0d9b294.0011.03/DOC_1#E0002));\n\n(2) Considerando que, de acordo com o Regulamento (CE) n.º 974/98 do Conselho, de 3 de Maio de 1998, relativo à introdução do euro ([^3^](http://publications.europa.eu/resource/cellar/243c663a-104b-4825-9e9f-789ad0d9b294.0011.03/DOC_1#E0003)), o euro será a moeda dos Estados-membros que adoptem a moeda única a partir de 1 de Janeiro de 1999; que a introdução do euro requer a adopção das taxas de conversão a que o euro substituirá as moedas nacionais, bem como das taxas a que o euro se subdividirá em unidades monetárias nacionais; que as taxas de conversão mencionadas no artigo 1.º são as taxas definidas no terceiro travessão do artigo 1.º do Regulamento (CE) n.º 974/98;\n\n(3) Considerando que, de acordo com o Regulamento (CE) n.º 1103/97 do Conselho, de 17 de Junho de 1997, relativo a certas disposições respeitantes à introdução do euro ([^4^](http://publications.europa.eu/resource/cellar/243c663a-104b-4825-9e9f-789ad0d9b294.0011.03/DOC_1#E0004)), todas as referências feitas num instrumento legal ao ecu são substituídas por referências ao euro, à taxa de um euro por um ecu; que, de acordo com o n.º 4, segundo período, do artigo 109.ºL do Tratado, a adopção das taxas de conversão não modifica, só por si, o valor externo do ecu; que isto é assegurado pela adopção, enquanto taxas de conversão, das taxas de câmbio do ecu face às moedas dos Estados-membros que adoptam o euro, calculadas pela Comissão em 31 de Dezembro de 1998 segundo o sistema estabelecido para o cálculo das taxas oficiais diárias do ecu;\n\n(4) Considerando que os ministros dos Estados-membros que adoptam o euro como sua moeda única, os governadores dos Bancos Centrais desses Estados-membros, a Comissão e o Instituto Monetário Europeu/Banco Central Europeu emitiram dois comunicados sobre a determinação e a adopção das taxas de conversão irrevogáveis do euro em, respectivamente, 3 de Maio ([^5^](http://publications.europa.eu/resource/cellar/243c663a-104b-4825-9e9f-789ad0d9b294.0011.03/DOC_1#E0005)) e 26 de Setembro de 1998;\n\n(5) Considerando que o Regulamento (CE) n.º 1103/97 estabelece que as taxas de conversão adoptadas exprimem o valor de um euro em relação a cada uma das moedas nacionais dos Estados-membros que adoptam o euro; que, a fim de assegurar um elevado grau de rigor, estas taxas incluirão seis algarismos significativos e não serão fixadas quaisquer taxas inversas ou taxas bilaterais entre as moedas dos Estados-membros que adoptam o euro,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "4cc0af87436145a5": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs taxas de conversão irrevogavelmente fixadas entre o euro e as moedas dos Estados-membros que adoptam o euro são as seguintes:\n\n| 1 euro | = | 40,3399 | francos belgas |\n| --- | --- | --- | --- |\n| = | 1,95583 | marcos alemães |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32000R1478) |  |  |  |\n| = | 340,750 | dracmas gregas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 166,386 | pesetas espanholas |  |\n| = | 6,55957 | francos franceses |  |\n| = | 0,787564 | libras irlandesas |  |\n| = | 1 936,27 | liras italianas |  |\n| = | 40,3399 | francos luxemburgueses |  |\n| = | 2,20371 | florins neerlandeses |  |\n| = | 13,7603 | xelins austríacos |  |\n| = | 200,482 | escudos portugueses |  |\n| [▼M2](http://publications.europa.eu/resource/celex/32006R1086) |  |  |  |\n| = | 239,640 | tolares eslovenos |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 5,94573 | marcas finlandesas |  |"
+  },
+  "282d37fed663dcb1": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1999.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "29279b0664499879": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/243c663a-104b-4825-9e9f-789ad0d9b294.0011.03/DOC_1#src.E0001)) JO C 412 de 31. 12. 1998, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/243c663a-104b-4825-9e9f-789ad0d9b294.0011.03/DOC_1#src.E0002)) Decisão 98/317/CE do Conselho, de 3 de Maio de 1998, nos termos do artigo 109.ºJ do Tratado (JO L 139 de 11. 5. 1998, p. 30).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/243c663a-104b-4825-9e9f-789ad0d9b294.0011.03/DOC_1#src.E0003)) JO L 139 de 11. 5. 1998, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/243c663a-104b-4825-9e9f-789ad0d9b294.0011.03/DOC_1#src.E0004)) JO L 162 de 19. 6. 1997, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/243c663a-104b-4825-9e9f-789ad0d9b294.0011.03/DOC_1#src.E0005)) JO C 160 de 27. 5. 1998, p. 1."
+  },
+  "52890396b2c48295": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Dezembro de 1998\n\nrelativo às taxas de conversão entre o euro e as moedas dos Estados-membros que adoptam o euro\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 4, primeiro período, do seu artigo 109.ºL,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Banco Central Europeu ([^1^](http://publications.europa.eu/resource/cellar/3a55d901-a749-4683-8226-b0b311261894.0011.03/DOC_1#E0001)),\n\n(1) Considerando que, de acordo com o n.º 4 do artigo 109.ºJ do Tratado, a terceira fase da União Económica e Monetária tem início em 1 de Janeiro de 1999; que o Conselho, reunido a nível de chefes de Estado e de Governo, confirmou em 3 de Maio de 1998 que a Bélgica, a Alemanha, a Espanha, a França, a Irlanda, a Itália, o Luxemburgo, os Países Baixos, a Áustria, Portugal e a Finlândia preenchem as condições necessárias para a adopção da moeda única em 1 de Janeiro de 1999 ([^2^](http://publications.europa.eu/resource/cellar/3a55d901-a749-4683-8226-b0b311261894.0011.03/DOC_1#E0002));\n\n(2) Considerando que, de acordo com o Regulamento (CE) n.º 974/98 do Conselho, de 3 de Maio de 1998, relativo à introdução do euro ([^3^](http://publications.europa.eu/resource/cellar/3a55d901-a749-4683-8226-b0b311261894.0011.03/DOC_1#E0003)), o euro será a moeda dos Estados-membros que adoptem a moeda única a partir de 1 de Janeiro de 1999; que a introdução do euro requer a adopção das taxas de conversão a que o euro substituirá as moedas nacionais, bem como das taxas a que o euro se subdividirá em unidades monetárias nacionais; que as taxas de conversão mencionadas no artigo 1.º são as taxas definidas no terceiro travessão do artigo 1.º do Regulamento (CE) n.º 974/98;\n\n(3) Considerando que, de acordo com o Regulamento (CE) n.º 1103/97 do Conselho, de 17 de Junho de 1997, relativo a certas disposições respeitantes à introdução do euro ([^4^](http://publications.europa.eu/resource/cellar/3a55d901-a749-4683-8226-b0b311261894.0011.03/DOC_1#E0004)), todas as referências feitas num instrumento legal ao ecu são substituídas por referências ao euro, à taxa de um euro por um ecu; que, de acordo com o n.º 4, segundo período, do artigo 109.ºL do Tratado, a adopção das taxas de conversão não modifica, só por si, o valor externo do ecu; que isto é assegurado pela adopção, enquanto taxas de conversão, das taxas de câmbio do ecu face às moedas dos Estados-membros que adoptam o euro, calculadas pela Comissão em 31 de Dezembro de 1998 segundo o sistema estabelecido para o cálculo das taxas oficiais diárias do ecu;\n\n(4) Considerando que os ministros dos Estados-membros que adoptam o euro como sua moeda única, os governadores dos Bancos Centrais desses Estados-membros, a Comissão e o Instituto Monetário Europeu/Banco Central Europeu emitiram dois comunicados sobre a determinação e a adopção das taxas de conversão irrevogáveis do euro em, respectivamente, 3 de Maio ([^5^](http://publications.europa.eu/resource/cellar/3a55d901-a749-4683-8226-b0b311261894.0011.03/DOC_1#E0005)) e 26 de Setembro de 1998;\n\n(5) Considerando que o Regulamento (CE) n.º 1103/97 estabelece que as taxas de conversão adoptadas exprimem o valor de um euro em relação a cada uma das moedas nacionais dos Estados-membros que adoptam o euro; que, a fim de assegurar um elevado grau de rigor, estas taxas incluirão seis algarismos significativos e não serão fixadas quaisquer taxas inversas ou taxas bilaterais entre as moedas dos Estados-membros que adoptam o euro,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1d00ebe0ee1fc4b7": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs taxas de conversão irrevogavelmente fixadas entre o euro e as moedas dos Estados-membros que adoptam o euro são as seguintes:\n\n| 1 euro | = | 40,3399 | francos belgas |\n| --- | --- | --- | --- |\n| = | 1,95583 | marcos alemães |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32000R1478) |  |  |  |\n| = | 340,750 | dracmas gregas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 166,386 | pesetas espanholas |  |\n| = | 6,55957 | francos franceses |  |\n| = | 0,787564 | libras irlandesas |  |\n| = | 1 936,27 | liras italianas |  |\n| [▼M3](http://publications.europa.eu/resource/celex/32007R1135) |  |  |  |\n| = | 0,585274 | libras cipriotas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 40,3399 | francos luxemburgueses |  |\n| [▼M4](http://publications.europa.eu/resource/celex/32007R1134) |  |  |  |\n| = | 0,429300 | libras maltesas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 2,20371 | florins neerlandeses |  |\n| = | 13,7603 | xelins austríacos |  |\n| = | 200,482 | escudos portugueses |  |\n| [▼M2](http://publications.europa.eu/resource/celex/32006R1086) |  |  |  |\n| = | 239,640 | tolares eslovenos |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 5,94573 | marcas finlandesas |  |"
+  },
+  "ca4caf8386c04253": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3a55d901-a749-4683-8226-b0b311261894.0011.03/DOC_1#src.E0001)) JO C 412 de 31. 12. 1998, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/3a55d901-a749-4683-8226-b0b311261894.0011.03/DOC_1#src.E0002)) Decisão 98/317/CE do Conselho, de 3 de Maio de 1998, nos termos do artigo 109.ºJ do Tratado (JO L 139 de 11. 5. 1998, p. 30).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/3a55d901-a749-4683-8226-b0b311261894.0011.03/DOC_1#src.E0003)) JO L 139 de 11. 5. 1998, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/3a55d901-a749-4683-8226-b0b311261894.0011.03/DOC_1#src.E0004)) JO L 162 de 19. 6. 1997, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/3a55d901-a749-4683-8226-b0b311261894.0011.03/DOC_1#src.E0005)) JO C 160 de 27. 5. 1998, p. 1."
+  },
+  "9956d5dc11c37443": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Dezembro de 1998\n\nrelativo às taxas de conversão entre o euro e as moedas dos Estados-membros que adoptam o euro\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 4, primeiro período, do seu artigo 109.ºL,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Banco Central Europeu ([^1^](http://publications.europa.eu/resource/cellar/d966c7eb-35a0-45fa-9913-696ec1c6805c.0011.03/DOC_1#E0001)),\n\n(1) Considerando que, de acordo com o n.º 4 do artigo 109.ºJ do Tratado, a terceira fase da União Económica e Monetária tem início em 1 de Janeiro de 1999; que o Conselho, reunido a nível de chefes de Estado e de Governo, confirmou em 3 de Maio de 1998 que a Bélgica, a Alemanha, a Espanha, a França, a Irlanda, a Itália, o Luxemburgo, os Países Baixos, a Áustria, Portugal e a Finlândia preenchem as condições necessárias para a adopção da moeda única em 1 de Janeiro de 1999 ([^2^](http://publications.europa.eu/resource/cellar/d966c7eb-35a0-45fa-9913-696ec1c6805c.0011.03/DOC_1#E0002));\n\n(2) Considerando que, de acordo com o Regulamento (CE) n.º 974/98 do Conselho, de 3 de Maio de 1998, relativo à introdução do euro ([^3^](http://publications.europa.eu/resource/cellar/d966c7eb-35a0-45fa-9913-696ec1c6805c.0011.03/DOC_1#E0003)), o euro será a moeda dos Estados-membros que adoptem a moeda única a partir de 1 de Janeiro de 1999; que a introdução do euro requer a adopção das taxas de conversão a que o euro substituirá as moedas nacionais, bem como das taxas a que o euro se subdividirá em unidades monetárias nacionais; que as taxas de conversão mencionadas no artigo 1.º são as taxas definidas no terceiro travessão do artigo 1.º do Regulamento (CE) n.º 974/98;\n\n(3) Considerando que, de acordo com o Regulamento (CE) n.º 1103/97 do Conselho, de 17 de Junho de 1997, relativo a certas disposições respeitantes à introdução do euro ([^4^](http://publications.europa.eu/resource/cellar/d966c7eb-35a0-45fa-9913-696ec1c6805c.0011.03/DOC_1#E0004)), todas as referências feitas num instrumento legal ao ecu são substituídas por referências ao euro, à taxa de um euro por um ecu; que, de acordo com o n.º 4, segundo período, do artigo 109.ºL do Tratado, a adopção das taxas de conversão não modifica, só por si, o valor externo do ecu; que isto é assegurado pela adopção, enquanto taxas de conversão, das taxas de câmbio do ecu face às moedas dos Estados-membros que adoptam o euro, calculadas pela Comissão em 31 de Dezembro de 1998 segundo o sistema estabelecido para o cálculo das taxas oficiais diárias do ecu;\n\n(4) Considerando que os ministros dos Estados-membros que adoptam o euro como sua moeda única, os governadores dos Bancos Centrais desses Estados-membros, a Comissão e o Instituto Monetário Europeu/Banco Central Europeu emitiram dois comunicados sobre a determinação e a adopção das taxas de conversão irrevogáveis do euro em, respectivamente, 3 de Maio ([^5^](http://publications.europa.eu/resource/cellar/d966c7eb-35a0-45fa-9913-696ec1c6805c.0011.03/DOC_1#E0005)) e 26 de Setembro de 1998;\n\n(5) Considerando que o Regulamento (CE) n.º 1103/97 estabelece que as taxas de conversão adoptadas exprimem o valor de um euro em relação a cada uma das moedas nacionais dos Estados-membros que adoptam o euro; que, a fim de assegurar um elevado grau de rigor, estas taxas incluirão seis algarismos significativos e não serão fixadas quaisquer taxas inversas ou taxas bilaterais entre as moedas dos Estados-membros que adoptam o euro,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1e7012c85d476f69": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs taxas de conversão irrevogavelmente fixadas entre o euro e as moedas dos Estados-membros que adoptam o euro são as seguintes:\n\n| 1 euro | = | 40,3399 | francos belgas |\n| --- | --- | --- | --- |\n| = | 1,95583 | marcos alemães |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32000R1478) |  |  |  |\n| = | 340,750 | dracmas gregas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 166,386 | pesetas espanholas |  |\n| = | 6,55957 | francos franceses |  |\n| = | 0,787564 | libras irlandesas |  |\n| = | 1 936,27 | liras italianas |  |\n| [▼M4](http://publications.europa.eu/resource/celex/32007R1135) |  |  |  |\n| = | 0,585274 | libras cipriotas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 40,3399 | francos luxemburgueses |  |\n| [▼M3](http://publications.europa.eu/resource/celex/32007R1134) |  |  |  |\n| = | 0,429300 | libras maltesas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 2,20371 | florins neerlandeses |  |\n| = | 13,7603 | xelins austríacos |  |\n| = | 200,482 | escudos portugueses |  |\n| [▼M2](http://publications.europa.eu/resource/celex/32006R1086) |  |  |  |\n| = | 239,640 | tolares eslovenos |  |\n| [▼M5](http://publications.europa.eu/resource/celex/32008R0694) |  |  |  |\n| = | 30,1260 | coroas eslovacas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 5,94573 | marcas finlandesas |  |"
+  },
+  "052f90e6ebff3c89": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d966c7eb-35a0-45fa-9913-696ec1c6805c.0011.03/DOC_1#src.E0001)) JO C 412 de 31. 12. 1998, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d966c7eb-35a0-45fa-9913-696ec1c6805c.0011.03/DOC_1#src.E0002)) Decisão 98/317/CE do Conselho, de 3 de Maio de 1998, nos termos do artigo 109.ºJ do Tratado (JO L 139 de 11. 5. 1998, p. 30).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/d966c7eb-35a0-45fa-9913-696ec1c6805c.0011.03/DOC_1#src.E0003)) JO L 139 de 11. 5. 1998, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/d966c7eb-35a0-45fa-9913-696ec1c6805c.0011.03/DOC_1#src.E0004)) JO L 162 de 19. 6. 1997, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/d966c7eb-35a0-45fa-9913-696ec1c6805c.0011.03/DOC_1#src.E0005)) JO C 160 de 27. 5. 1998, p. 1."
+  },
+  "60f30ef4b09a421b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Dezembro de 1998\n\nrelativo às taxas de conversão entre o euro e as moedas dos Estados-membros que adoptam o euro\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 4, primeiro período, do seu artigo 109.ºL,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Banco Central Europeu ([^1^](http://publications.europa.eu/resource/cellar/b940fd01-a1e0-4041-9c45-26f9f407a11d.0012.03/DOC_1#E0001)),\n\n(1) Considerando que, de acordo com o n.º 4 do artigo 109.ºJ do Tratado, a terceira fase da União Económica e Monetária tem início em 1 de Janeiro de 1999; que o Conselho, reunido a nível de chefes de Estado e de Governo, confirmou em 3 de Maio de 1998 que a Bélgica, a Alemanha, a Espanha, a França, a Irlanda, a Itália, o Luxemburgo, os Países Baixos, a Áustria, Portugal e a Finlândia preenchem as condições necessárias para a adopção da moeda única em 1 de Janeiro de 1999 ([^2^](http://publications.europa.eu/resource/cellar/b940fd01-a1e0-4041-9c45-26f9f407a11d.0012.03/DOC_1#E0002));\n\n(2) Considerando que, de acordo com o Regulamento (CE) n.º 974/98 do Conselho, de 3 de Maio de 1998, relativo à introdução do euro ([^3^](http://publications.europa.eu/resource/cellar/b940fd01-a1e0-4041-9c45-26f9f407a11d.0012.03/DOC_1#E0003)), o euro será a moeda dos Estados-membros que adoptem a moeda única a partir de 1 de Janeiro de 1999; que a introdução do euro requer a adopção das taxas de conversão a que o euro substituirá as moedas nacionais, bem como das taxas a que o euro se subdividirá em unidades monetárias nacionais; que as taxas de conversão mencionadas no artigo 1.º são as taxas definidas no terceiro travessão do artigo 1.º do Regulamento (CE) n.º 974/98;\n\n(3) Considerando que, de acordo com o Regulamento (CE) n.º 1103/97 do Conselho, de 17 de Junho de 1997, relativo a certas disposições respeitantes à introdução do euro ([^4^](http://publications.europa.eu/resource/cellar/b940fd01-a1e0-4041-9c45-26f9f407a11d.0012.03/DOC_1#E0004)), todas as referências feitas num instrumento legal ao ecu são substituídas por referências ao euro, à taxa de um euro por um ecu; que, de acordo com o n.º 4, segundo período, do artigo 109.ºL do Tratado, a adopção das taxas de conversão não modifica, só por si, o valor externo do ecu; que isto é assegurado pela adopção, enquanto taxas de conversão, das taxas de câmbio do ecu face às moedas dos Estados-membros que adoptam o euro, calculadas pela Comissão em 31 de Dezembro de 1998 segundo o sistema estabelecido para o cálculo das taxas oficiais diárias do ecu;\n\n(4) Considerando que os ministros dos Estados-membros que adoptam o euro como sua moeda única, os governadores dos Bancos Centrais desses Estados-membros, a Comissão e o Instituto Monetário Europeu/Banco Central Europeu emitiram dois comunicados sobre a determinação e a adopção das taxas de conversão irrevogáveis do euro em, respectivamente, 3 de Maio ([^5^](http://publications.europa.eu/resource/cellar/b940fd01-a1e0-4041-9c45-26f9f407a11d.0012.03/DOC_1#E0005)) e 26 de Setembro de 1998;\n\n(5) Considerando que o Regulamento (CE) n.º 1103/97 estabelece que as taxas de conversão adoptadas exprimem o valor de um euro em relação a cada uma das moedas nacionais dos Estados-membros que adoptam o euro; que, a fim de assegurar um elevado grau de rigor, estas taxas incluirão seis algarismos significativos e não serão fixadas quaisquer taxas inversas ou taxas bilaterais entre as moedas dos Estados-membros que adoptam o euro,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f9ccce33ae392cf1": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs taxas de conversão irrevogavelmente fixadas entre o euro e as moedas dos Estados-membros que adoptam o euro são as seguintes:\n\n| 1 euro | = | 40,3399 | francos belgas |\n| --- | --- | --- | --- |\n| = | 1,95583 | marcos alemães |  |\n| [▼M6](http://publications.europa.eu/resource/celex/32010R0671) |  |  |  |\n| = | 15,6466 | coroas estónias |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32000R1478) |  |  |  |\n| = | 340,750 | dracmas gregas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 166,386 | pesetas espanholas |  |\n| = | 6,55957 | francos franceses |  |\n| = | 0,787564 | libras irlandesas |  |\n| = | 1 936,27 | liras italianas |  |\n| [▼M4](http://publications.europa.eu/resource/celex/32007R1135) |  |  |  |\n| = | 0,585274 | libras cipriotas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 40,3399 | francos luxemburgueses |  |\n| [▼M3](http://publications.europa.eu/resource/celex/32007R1134) |  |  |  |\n| = | 0,429300 | libras maltesas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 2,20371 | florins neerlandeses |  |\n| = | 13,7603 | xelins austríacos |  |\n| = | 200,482 | escudos portugueses |  |\n| [▼M2](http://publications.europa.eu/resource/celex/32006R1086) |  |  |  |\n| = | 239,640 | tolares eslovenos |  |\n| [▼M5](http://publications.europa.eu/resource/celex/32008R0694) |  |  |  |\n| = | 30,1260 | coroas eslovacas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 5,94573 | marcas finlandesas |  |"
+  },
+  "0cf2836247af29f2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b940fd01-a1e0-4041-9c45-26f9f407a11d.0012.03/DOC_1#src.E0001)) JO C 412 de 31. 12. 1998, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b940fd01-a1e0-4041-9c45-26f9f407a11d.0012.03/DOC_1#src.E0002)) Decisão 98/317/CE do Conselho, de 3 de Maio de 1998, nos termos do artigo 109.ºJ do Tratado (JO L 139 de 11. 5. 1998, p. 30).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b940fd01-a1e0-4041-9c45-26f9f407a11d.0012.03/DOC_1#src.E0003)) JO L 139 de 11. 5. 1998, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b940fd01-a1e0-4041-9c45-26f9f407a11d.0012.03/DOC_1#src.E0004)) JO L 162 de 19. 6. 1997, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b940fd01-a1e0-4041-9c45-26f9f407a11d.0012.03/DOC_1#src.E0005)) JO C 160 de 27. 5. 1998, p. 1."
+  },
+  "0040417c862e3bfd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Dezembro de 1998\n\nrelativo às taxas de conversão entre o euro e as moedas dos Estados-membros que adoptam o euro\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 4, primeiro período, do seu artigo 109.ºL,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Banco Central Europeu ([^1^](http://publications.europa.eu/resource/cellar/6d605bbc-b40e-11e3-86f9-01aa75ed71a1.0012.02/DOC_1#E0001)),\n\n(1) Considerando que, de acordo com o n.º 4 do artigo 109.ºJ do Tratado, a terceira fase da União Económica e Monetária tem início em 1 de Janeiro de 1999; que o Conselho, reunido a nível de chefes de Estado e de Governo, confirmou em 3 de Maio de 1998 que a Bélgica, a Alemanha, a Espanha, a França, a Irlanda, a Itália, o Luxemburgo, os Países Baixos, a Áustria, Portugal e a Finlândia preenchem as condições necessárias para a adopção da moeda única em 1 de Janeiro de 1999 ([^2^](http://publications.europa.eu/resource/cellar/6d605bbc-b40e-11e3-86f9-01aa75ed71a1.0012.02/DOC_1#E0002));\n\n(2) Considerando que, de acordo com o Regulamento (CE) n.º 974/98 do Conselho, de 3 de Maio de 1998, relativo à introdução do euro ([^3^](http://publications.europa.eu/resource/cellar/6d605bbc-b40e-11e3-86f9-01aa75ed71a1.0012.02/DOC_1#E0003)), o euro será a moeda dos Estados-membros que adoptem a moeda única a partir de 1 de Janeiro de 1999; que a introdução do euro requer a adopção das taxas de conversão a que o euro substituirá as moedas nacionais, bem como das taxas a que o euro se subdividirá em unidades monetárias nacionais; que as taxas de conversão mencionadas no artigo 1.º são as taxas definidas no terceiro travessão do artigo 1.º do Regulamento (CE) n.º 974/98;\n\n(3) Considerando que, de acordo com o Regulamento (CE) n.º 1103/97 do Conselho, de 17 de Junho de 1997, relativo a certas disposições respeitantes à introdução do euro ([^4^](http://publications.europa.eu/resource/cellar/6d605bbc-b40e-11e3-86f9-01aa75ed71a1.0012.02/DOC_1#E0004)), todas as referências feitas num instrumento legal ao ecu são substituídas por referências ao euro, à taxa de um euro por um ecu; que, de acordo com o n.º 4, segundo período, do artigo 109.ºL do Tratado, a adopção das taxas de conversão não modifica, só por si, o valor externo do ecu; que isto é assegurado pela adopção, enquanto taxas de conversão, das taxas de câmbio do ecu face às moedas dos Estados-membros que adoptam o euro, calculadas pela Comissão em 31 de Dezembro de 1998 segundo o sistema estabelecido para o cálculo das taxas oficiais diárias do ecu;\n\n(4) Considerando que os ministros dos Estados-membros que adoptam o euro como sua moeda única, os governadores dos Bancos Centrais desses Estados-membros, a Comissão e o Instituto Monetário Europeu/Banco Central Europeu emitiram dois comunicados sobre a determinação e a adopção das taxas de conversão irrevogáveis do euro em, respectivamente, 3 de Maio ([^5^](http://publications.europa.eu/resource/cellar/6d605bbc-b40e-11e3-86f9-01aa75ed71a1.0012.02/DOC_1#E0005)) e 26 de Setembro de 1998;\n\n(5) Considerando que o Regulamento (CE) n.º 1103/97 estabelece que as taxas de conversão adoptadas exprimem o valor de um euro em relação a cada uma das moedas nacionais dos Estados-membros que adoptam o euro; que, a fim de assegurar um elevado grau de rigor, estas taxas incluirão seis algarismos significativos e não serão fixadas quaisquer taxas inversas ou taxas bilaterais entre as moedas dos Estados-membros que adoptam o euro,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "7b076b0b2bc444e7": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs taxas de conversão irrevogavelmente fixadas entre o euro e as moedas dos Estados-membros que adoptam o euro são as seguintes:\n\n| 1 euro | = | 40,3399 | francos belgas |\n| --- | --- | --- | --- |\n| = | 1,95583 | marcos alemães |  |\n| [▼M6](http://publications.europa.eu/resource/celex/32010R0671) |  |  |  |\n| = | 15,6466 | coroas estónias |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32000R1478) |  |  |  |\n| = | 340,750 | dracmas gregas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 166,386 | pesetas espanholas |  |\n| = | 6,55957 | francos franceses |  |\n| = | 0,787564 | libras irlandesas |  |\n| = | 1 936,27 | liras italianas |  |\n| [▼M4](http://publications.europa.eu/resource/celex/32007R1135) |  |  |  |\n| = | 0,585274 | libras cipriotas |  |\n| [▼M7](http://publications.europa.eu/resource/celex/32013R0870) |  |  |  |\n| = | 0,702804 | lats letão |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 40,3399 | francos luxemburgueses |  |\n| [▼M3](http://publications.europa.eu/resource/celex/32007R1134) |  |  |  |\n| = | 0,429300 | libras maltesas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 2,20371 | florins neerlandeses |  |\n| = | 13,7603 | xelins austríacos |  |\n| = | 200,482 | escudos portugueses |  |\n| [▼M2](http://publications.europa.eu/resource/celex/32006R1086) |  |  |  |\n| = | 239,640 | tolares eslovenos |  |\n| [▼M5](http://publications.europa.eu/resource/celex/32008R0694) |  |  |  |\n| = | 30,1260 | coroas eslovacas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 5,94573 | marcas finlandesas |  |"
+  },
+  "22fe3301043a0cda": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6d605bbc-b40e-11e3-86f9-01aa75ed71a1.0012.02/DOC_1#src.E0001)) JO C 412 de 31. 12. 1998, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6d605bbc-b40e-11e3-86f9-01aa75ed71a1.0012.02/DOC_1#src.E0002)) Decisão 98/317/CE do Conselho, de 3 de Maio de 1998, nos termos do artigo 109.ºJ do Tratado (JO L 139 de 11. 5. 1998, p. 30).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6d605bbc-b40e-11e3-86f9-01aa75ed71a1.0012.02/DOC_1#src.E0003)) JO L 139 de 11. 5. 1998, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/6d605bbc-b40e-11e3-86f9-01aa75ed71a1.0012.02/DOC_1#src.E0004)) JO L 162 de 19. 6. 1997, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/6d605bbc-b40e-11e3-86f9-01aa75ed71a1.0012.02/DOC_1#src.E0005)) JO C 160 de 27. 5. 1998, p. 1."
+  },
+  "36ead8701e26e191": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Dezembro de 1998\n\nrelativo às taxas de conversão entre o euro e as moedas dos Estados-membros que adoptam o euro\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 4, primeiro período, do seu artigo 109.ºL,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Banco Central Europeu ([^1^](http://publications.europa.eu/resource/cellar/9b101b8a-567e-496d-8742-1aaf2e994680.0008.02/DOC_1#E0001)),\n\n(1) Considerando que, de acordo com o n.º 4 do artigo 109.ºJ do Tratado, a terceira fase da União Económica e Monetária tem início em 1 de Janeiro de 1999; que o Conselho, reunido a nível de chefes de Estado e de Governo, confirmou em 3 de Maio de 1998 que a Bélgica, a Alemanha, a Espanha, a França, a Irlanda, a Itália, o Luxemburgo, os Países Baixos, a Áustria, Portugal e a Finlândia preenchem as condições necessárias para a adopção da moeda única em 1 de Janeiro de 1999 ([^2^](http://publications.europa.eu/resource/cellar/9b101b8a-567e-496d-8742-1aaf2e994680.0008.02/DOC_1#E0002));\n\n(2) Considerando que, de acordo com o Regulamento (CE) n.º 974/98 do Conselho, de 3 de Maio de 1998, relativo à introdução do euro ([^3^](http://publications.europa.eu/resource/cellar/9b101b8a-567e-496d-8742-1aaf2e994680.0008.02/DOC_1#E0003)), o euro será a moeda dos Estados-membros que adoptem a moeda única a partir de 1 de Janeiro de 1999; que a introdução do euro requer a adopção das taxas de conversão a que o euro substituirá as moedas nacionais, bem como das taxas a que o euro se subdividirá em unidades monetárias nacionais; que as taxas de conversão mencionadas no artigo 1.º são as taxas definidas no terceiro travessão do artigo 1.º do Regulamento (CE) n.º 974/98;\n\n(3) Considerando que, de acordo com o Regulamento (CE) n.º 1103/97 do Conselho, de 17 de Junho de 1997, relativo a certas disposições respeitantes à introdução do euro ([^4^](http://publications.europa.eu/resource/cellar/9b101b8a-567e-496d-8742-1aaf2e994680.0008.02/DOC_1#E0004)), todas as referências feitas num instrumento legal ao ecu são substituídas por referências ao euro, à taxa de um euro por um ecu; que, de acordo com o n.º 4, segundo período, do artigo 109.ºL do Tratado, a adopção das taxas de conversão não modifica, só por si, o valor externo do ecu; que isto é assegurado pela adopção, enquanto taxas de conversão, das taxas de câmbio do ecu face às moedas dos Estados-membros que adoptam o euro, calculadas pela Comissão em 31 de Dezembro de 1998 segundo o sistema estabelecido para o cálculo das taxas oficiais diárias do ecu;\n\n(4) Considerando que os ministros dos Estados-membros que adoptam o euro como sua moeda única, os governadores dos Bancos Centrais desses Estados-membros, a Comissão e o Instituto Monetário Europeu/Banco Central Europeu emitiram dois comunicados sobre a determinação e a adopção das taxas de conversão irrevogáveis do euro em, respectivamente, 3 de Maio ([^5^](http://publications.europa.eu/resource/cellar/9b101b8a-567e-496d-8742-1aaf2e994680.0008.02/DOC_1#E0005)) e 26 de Setembro de 1998;\n\n(5) Considerando que o Regulamento (CE) n.º 1103/97 estabelece que as taxas de conversão adoptadas exprimem o valor de um euro em relação a cada uma das moedas nacionais dos Estados-membros que adoptam o euro; que, a fim de assegurar um elevado grau de rigor, estas taxas incluirão seis algarismos significativos e não serão fixadas quaisquer taxas inversas ou taxas bilaterais entre as moedas dos Estados-membros que adoptam o euro,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "d039006697a0649e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs taxas de conversão irrevogavelmente fixadas entre o euro e as moedas dos Estados-membros que adoptam o euro são as seguintes:\n\n| 1 euro | = | 40,3399 | francos belgas |\n| --- | --- | --- | --- |\n| = | 1,95583 | marcos alemães |  |\n| [▼M6](http://publications.europa.eu/resource/celex/32010R0671) |  |  |  |\n| = | 15,6466 | coroas estónias |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32000R1478) |  |  |  |\n| = | 340,750 | dracmas gregas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 166,386 | pesetas espanholas |  |\n| = | 6,55957 | francos franceses |  |\n| = | 0,787564 | libras irlandesas |  |\n| = | 1 936,27 | liras italianas |  |\n| [▼M4](http://publications.europa.eu/resource/celex/32007R1135) |  |  |  |\n| = | 0,585274 | libras cipriotas |  |\n| [▼M7](http://publications.europa.eu/resource/celex/32013R0870) |  |  |  |\n| = | 0,702804 | lats letão |  |\n| [▼M8](http://publications.europa.eu/resource/celex/32014R0851) |  |  |  |\n| = | 3,45280 | litas lituano |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 40,3399 | francos luxemburgueses |  |\n| [▼M3](http://publications.europa.eu/resource/celex/32007R1134) |  |  |  |\n| = | 0,429300 | libras maltesas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 2,20371 | florins neerlandeses |  |\n| = | 13,7603 | xelins austríacos |  |\n| = | 200,482 | escudos portugueses |  |\n| [▼M2](http://publications.europa.eu/resource/celex/32006R1086) |  |  |  |\n| = | 239,640 | tolares eslovenos |  |\n| [▼M5](http://publications.europa.eu/resource/celex/32008R0694) |  |  |  |\n| = | 30,1260 | coroas eslovacas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 5,94573 | marcas finlandesas |  |"
+  },
+  "b068468a4f4f6d0b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9b101b8a-567e-496d-8742-1aaf2e994680.0008.02/DOC_1#src.E0001)) JO C 412 de 31. 12. 1998, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9b101b8a-567e-496d-8742-1aaf2e994680.0008.02/DOC_1#src.E0002)) Decisão 98/317/CE do Conselho, de 3 de Maio de 1998, nos termos do artigo 109.ºJ do Tratado (JO L 139 de 11. 5. 1998, p. 30).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9b101b8a-567e-496d-8742-1aaf2e994680.0008.02/DOC_1#src.E0003)) JO L 139 de 11. 5. 1998, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/9b101b8a-567e-496d-8742-1aaf2e994680.0008.02/DOC_1#src.E0004)) JO L 162 de 19. 6. 1997, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/9b101b8a-567e-496d-8742-1aaf2e994680.0008.02/DOC_1#src.E0005)) JO C 160 de 27. 5. 1998, p. 1."
+  },
+  "1f0d55175e9e1d7a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Dezembro de 1998\n\nrelativo às taxas de conversão entre o euro e as moedas dos Estados-membros que adoptam o euro"
+  },
+  "c32485f3afe60b29": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs taxas de conversão irrevogavelmente fixadas entre o euro e as moedas dos Estados-membros que adoptam o euro são as seguintes:\n\n| 1 euro | = | 40,3399 | francos belgas |\n| --- | --- | --- | --- |\n| = | 1,95583 | marcos alemães |  |\n| [▼M6](http://publications.europa.eu/resource/celex/32010R0671) |  |  |  |\n| = | 15,6466 | coroas estónias |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32000R1478) |  |  |  |\n| = | 340,750 | dracmas gregas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 166,386 | pesetas espanholas |  |\n| = | 6,55957 | francos franceses |  |\n| [▼M9](http://publications.europa.eu/resource/celex/32022R1208) |  |  |  |\n| = | 7,53450 | kunas croatas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 0,787564 | libras irlandesas |  |\n| = | 1 936,27 | liras italianas |  |\n| [▼M4](http://publications.europa.eu/resource/celex/32007R1135) |  |  |  |\n| = | 0,585274 | libras cipriotas |  |\n| [▼M7](http://publications.europa.eu/resource/celex/32013R0870) |  |  |  |\n| = | 0,702804 | lats letão |  |\n| [▼M8](http://publications.europa.eu/resource/celex/32014R0851) |  |  |  |\n| = | 3,45280 | litas lituano |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 40,3399 | francos luxemburgueses |  |\n| [▼M3](http://publications.europa.eu/resource/celex/32007R1134) |  |  |  |\n| = | 0,429300 | libras maltesas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 2,20371 | florins neerlandeses |  |\n| = | 13,7603 | xelins austríacos |  |\n| = | 200,482 | escudos portugueses |  |\n| [▼M2](http://publications.europa.eu/resource/celex/32006R1086) |  |  |  |\n| = | 239,640 | tolares eslovenos |  |\n| [▼M5](http://publications.europa.eu/resource/celex/32008R0694) |  |  |  |\n| = | 30,1260 | coroas eslovacas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 5,94573 | marcas finlandesas |  |"
+  },
+  "f9bd0ea6de375558": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1999.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "1163eb331d046086": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs taxas de conversão irrevogavelmente fixadas entre o euro e as moedas dos Estados-membros que adoptam o euro são as seguintes:\n\n| 1 euro | = | 40,3399 | francos belgas |\n| --- | --- | --- | --- |\n| [▼M10](http://publications.europa.eu/resource/celex/32025R1409) |  |  |  |\n| = | 1,95583 | levs búlgaros |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 1,95583 | marcos alemães |  |\n| [▼M6](http://publications.europa.eu/resource/celex/32010R0671) |  |  |  |\n| = | 15,6466 | coroas estónias |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32000R1478) |  |  |  |\n| = | 340,750 | dracmas gregas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 166,386 | pesetas espanholas |  |\n| = | 6,55957 | francos franceses |  |\n| [▼M9](http://publications.europa.eu/resource/celex/32022R1208) |  |  |  |\n| = | 7,53450 | kunas croatas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 0,787564 | libras irlandesas |  |\n| = | 1 936,27 | liras italianas |  |\n| [▼M4](http://publications.europa.eu/resource/celex/32007R1135) |  |  |  |\n| = | 0,585274 | libras cipriotas |  |\n| [▼M7](http://publications.europa.eu/resource/celex/32013R0870) |  |  |  |\n| = | 0,702804 | lats letão |  |\n| [▼M8](http://publications.europa.eu/resource/celex/32014R0851) |  |  |  |\n| = | 3,45280 | litas lituano |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 40,3399 | francos luxemburgueses |  |\n| [▼M3](http://publications.europa.eu/resource/celex/32007R1134) |  |  |  |\n| = | 0,429300 | libras maltesas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 2,20371 | florins neerlandeses |  |\n| = | 13,7603 | xelins austríacos |  |\n| = | 200,482 | escudos portugueses |  |\n| [▼M2](http://publications.europa.eu/resource/celex/32006R1086) |  |  |  |\n| = | 239,640 | tolares eslovenos |  |\n| [▼M5](http://publications.europa.eu/resource/celex/32008R0694) |  |  |  |\n| = | 30,1260 | coroas eslovacas |  |\n| [▼B](http://publications.europa.eu/resource/celex/31998R2866) |  |  |  |\n| = | 5,94573 | marcas finlandesas |  |"
+  }
+ }
+}

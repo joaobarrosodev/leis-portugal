@@ -34,6 +34,80 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: diretiva-ue-1994-80.versoes.json
+  count: 4
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '1994-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:31996L0030:por
+    amending_title: M1; DIRECTIVA 2006/106/CE DO CONSELHO de 20 de Novembro de 2006; Acto relativo às condições de adesão
+      da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia,
+      da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca
+      e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 16º
+    - Altera ANEXO
+    - Adita CAPÍTULO I
+    - Adita Generalidades
+    - Adita Artigo 1º
+    - Adita CAPÍTULO II
+    - Adita Do exercício do direito de voto e da elegibilidade
+    - Adita Artigo 7º
+    - Adita CAPÍTULO III
+    - Adita Disposições derrogatórias e transitórias
+    - Adita Artigo 12º
+    - Adita CAPÍTULO IV
+    - Adita Disposições finais
+    - Adita Artigo 13º
+    - Adita Declaração para a acta da delegação alemanã relativa ao n.º 1, alinea b), do artigo 2.º
+    - Adita Declaração para a acta do Conselho e da Comissão relativa ao artigo 3.º
+    - Adita Declaração para a acta da delegação luxemburguesa respeitante à declaração do Conselho e da Comissão relativa
+      ao artigo 3.º
+    - Adita Declaração para a acta do Conselho e da Comissão relativa ao artigo 3, terciero parágrafo, do artigo 5.º
+    - Adita Declaração para a acta da delegação francesa relativa ao n.º 4 do artigo 5.º
+    - Adita Declaração para a acta do Conselho respeitante à declaração da delegação belga relativa ao n.º 2 do artigo 12.º
+    - Adita Declaração para a acta da delegação belga relativa ao nº 2 do artigo 12º
+    - Adita Declaração para a acta do Conselho respeitante à declaração da Comassão relativa ao artigo 13.º
+    - Adita Declaração para a acta da Comissão relativa ao artigo 13º
+    - Adita Declaração para a acta da delegação grega relativa ao artigo 13.º
+    - Adita Declaração para a acta da delegação espanhola relativa a Gibraltar
+    - Adita Notas
+    - Suprime CAPÍTULO I Generalidades — Artigo 1º
+    - Suprime CAPÍTULO II Do exercício do direito de voto e da elegibilidade — Artigo 7º
+    - Suprime CAPÍTULO III Disposições derrogatórias e transitórias — Artigo 12º
+    - Suprime CAPÍTULO IV Disposições finais — Artigo 13º
+  - date: '2012-07-21'
+    amending: eu:celex:32012D0412:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 19 de julho de 2012
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0019:por
+    amending_title: DIRETIVA 2013/19/UE DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera Notas
+    - Suprime Declaração para a acta da delegação alemanã relativa ao n.º 1, alinea b), do artigo 2.º
+    - Suprime Declaração para a acta do Conselho e da Comissão relativa ao artigo 3.º
+    - Suprime Declaração para a acta da delegação luxemburguesa respeitante à declaração do Conselho e da Comissão relativa
+      ao artigo 3.º
+    - Suprime Declaração para a acta do Conselho e da Comissão relativa ao artigo 3, terciero parágrafo, do artigo 5.º
+    - Suprime Declaração para a acta da delegação francesa relativa ao n.º 4 do artigo 5.º
+    - Suprime Declaração para a acta do Conselho respeitante à declaração da delegação belga relativa ao n.º 2 do artigo 12.º
+    - Suprime Declaração para a acta da delegação belga relativa ao nº 2 do artigo 12º
+    - Suprime Declaração para a acta do Conselho respeitante à declaração da Comassão relativa ao artigo 13.º
+    - Suprime Declaração para a acta da Comissão relativa ao artigo 13º
+    - Suprime Declaração para a acta da delegação grega relativa ao artigo 13.º
+    - Suprime Declaração para a acta da delegação espanhola relativa a Gibraltar
 identifiers:
   celex: 31994L0080
   eli: http://data.europa.eu/eli/dir/1994/80/oj
@@ -48,7 +122,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3c8e9549-86dc-418c-9fb8-dedf9674511b.0011
   content_url: http://publications.europa.eu/resource/cellar/66b0bb24-9e5f-4de3-ac3a-6ea94c890516.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0080-20130701
-  retrieved_at: '2026-10-22T02:50:45Z'
+  retrieved_at: '2026-10-22T14:43:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T10:27:46.259+01:00'
 integrity:
@@ -57,9 +131,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:50:45Z'
-  notes: Texto consolidado 01994L0080-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:43:26Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1994-80.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -132,36 +206,21 @@ relationships:
   date: '2026-06-04'
 article_structure:
   article_count: 16
-  section_count: 9
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 10
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:50:45Z'
-  warnings: []
+  checked_at: '2026-10-22T14:43:26Z'
+  warnings:
+  - '01994L0080-19960522: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01994L0080-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 94/80/CE do Conselho, de 19 de Dezembro de 1994
-
-> 1994L0080 — PT — 01.07.2013 — 005.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/31996L0030) — [Directiva 96/30/CE do Conselho de 13 de Maio de 1996](http://publications.europa.eu/resource/celex/31996L0030) — L 122 — 14 — 22.5.1996
-- [M2](http://publications.europa.eu/resource/celex/32006L0106) — [DIRECTIVA 2006/106/CE DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0106) — L 363 — 409 — 20.12.2006
-- [M3](http://publications.europa.eu/resource/celex/32012D0412) — [DECISÃO DE EXECUÇÃO DA COMISSÃO de 19 de julho de 2012](http://publications.europa.eu/resource/celex/32012D0412) — L 192 — 29 — 20.7.2012
-- [►M4](http://publications.europa.eu/resource/celex/32013L0019) — [DIRETIVA 2013/19/UE DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0019) — L 158 — 231 — 10.6.2013
-
-**Alterado por:**
-
-- [A1](http://publications.europa.eu/resource/celex/12003T) — L 236 — 33 — 23.9.2003
-
-## DIRECTIVA 94/80/CE DO CONSELHO
 
 de 19 de Dezembro de 1994
 

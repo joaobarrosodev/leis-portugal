@@ -35,6 +35,29 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-03-16'
+version_history:
+  file: diretiva-ue-2000-35.versoes.json
+  count: 2
+  source_lastmod: '2013-03-16'
+  versions:
+  - date: '2000-08-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-03-16'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Juros em caso de atraso de pagamento
+    - Suprime Artigo 4.º — Reserva de propriedade
+    - Suprime Artigo 5.º — Procedimentos de cobrança de dívidas não impugnadas
+    - Suprime Artigo 6.º — Transposição
+    - Suprime Artigo 7.º — Entrada em vigor
+    - Suprime Artigo 8.º — Destinatários
+    - Suprime Notas
 identifiers:
   celex: 32000L0035
   eli: http://data.europa.eu/eli/dir/2000/35/oj
@@ -49,7 +72,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fa62d6ac-7050-4b33-9173-149c442d88f5.0009
   content_url: http://publications.europa.eu/resource/cellar/4a22f288-937c-440a-9d56-993f377f765b.0002.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0035-20130316
-  retrieved_at: '2026-10-22T02:41:16Z'
+  retrieved_at: '2026-10-22T14:48:50Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-05T18:34:58.951+01:00'
 integrity:
@@ -58,9 +81,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:16Z'
-  notes: Texto consolidado 02000L0035-20130316.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:50Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2000-35.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -208,16 +231,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:16Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:48:50Z'
+  warnings: []
   errors: []
 ---
 

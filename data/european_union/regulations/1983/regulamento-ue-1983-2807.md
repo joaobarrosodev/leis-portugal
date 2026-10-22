@@ -34,6 +34,31 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-05-07'
+version_history:
+  file: regulamento-ue-1983-2807.versoes.json
+  count: 2
+  source_lastmod: '2011-05-07'
+  versions:
+  - date: '1983-10-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-05-07'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime ANEXO I — >PIC FILE= "T0025141">
+    - Suprime ANEXO II — >PIC FILE= "T0025142">
+    - Suprime ANEXO III — >PIC FILE= "T0025143">
+    - Suprime ANEXO VI ARTES E OPERAÇÕES DE PESCA — >PIC FILE= "T0025147">
+    - Suprime ANEXO VIII PROCESSO DE TRANSMISSÃO RADIO
 identifiers:
   celex: 31983R2807
   eli: http://data.europa.eu/eli/reg/1983/2807/oj
@@ -48,7 +73,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f95d933d-a50d-4b9c-b5e6-a7ba66cb055b.0011
   content_url: http://publications.europa.eu/resource/cellar/c52e87d4-3734-46f5-878a-73474bfd0f22.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01983R2807-20110507
-  retrieved_at: '2026-10-22T02:43:57Z'
+  retrieved_at: '2026-10-22T14:34:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T05:16:34.618+01:00'
 integrity:
@@ -57,9 +82,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:57Z'
-  notes: Texto consolidado 01983R2807-20110507.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:04Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1983-2807.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -181,16 +206,25 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:57Z'
+  checked_at: '2026-10-22T14:34:04Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01983R2807-19831013: versão indisponível (Sem expressão na língua por para CELEX 01983R2807-19831013.)'
+  - '01983R2807-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R2807-19890327: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R2807-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R2807-19960101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R2807-19980701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R2807-19980721: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R2807-20000101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R2807-20011016: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983R2807-20051111: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01983R2807-20100101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

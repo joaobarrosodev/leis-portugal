@@ -35,6 +35,108 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-12-21'
+version_history:
+  file: diretiva-ue-2002-19.versoes.json
+  count: 3
+  source_lastmod: '2020-12-21'
+  versions:
+  - date: '2002-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-19'
+    amending: eu:celex:32009L0140:por
+    amending_title: DIRECTIVA 2009/140/CE DO PARLAMENTO EUROPEU E DO CONSELHO, Texto relevante para efeitos do EEE de 25 de
+      Novembro de 2009,
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Quadro geral para o acesso e a interligação
+    - Altera Artigo 4.º — Direitos e obrigações das empresas
+    - Altera Artigo 5.º — Poderes e responsabilidades das autoridades reguladoras nacionais relativamente ao acesso e à interligação
+    - Altera Artigo 6.º — Sistemas de acesso condicional e outros recursos
+    - Altera Artigo 8.º — Imposição, alteração ou supressão de obrigações
+    - Altera Artigo 9.º — Obrigações de transparência
+    - Altera Artigo 12.º — Obrigações de acesso e utilização de recursos de rede específicos
+    - Altera Artigo 13.º — Obrigações de controlo dos preços e de contabilização dos custos
+    - Altera Artigo 14.º — Comité
+    - Altera Artigo 20.º — Destinatários
+    - Altera ANEXO II
+    - Adita CAPÍTULO I
+    - Adita ÂMBITO, OBJECTIVO E DEFINIÇÕES
+    - Adita CAPÍTULO II
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita CAPÍTULO III
+    - Adita OBRIGAÇÕES IMPOSTAS A OPERADORES E PROCEDIMENTOS DE ANÁLISE DE MERCADO
+    - Adita Artigo 13.ºA — Separação funcional
+    - Adita Artigo 13.ºB — Separação voluntária de uma empresa verticalmente integrada
+    - Adita CAPÍTULO IV
+    - Adita DISPOSIÇÕES PROCESSUAIS
+    - Adita ANEXO I
+    - Adita CONDIÇÕES DE ACESSO A SERVIÇOS DE TELEVISÃO E RÁDIO DIGITAL DIFUNDIDOS AOS TELESPECTADORES E OUVINTES NA COMUNIDADE
+    - 'Adita Parte I: Condições para sistemas de acesso condicional a aplicar em conformidade com o n.º 1 do artigo 6.º'
+    - 'Adita Parte II: Outros recursos cujas condições podem ser aplicadas ao abrigo do n.º 1, alínea b), do artigo 5.º'
+    - Adita LISTA MÍNIMA DE ELEMENTOS A INCLUIR NUMA OFERTA DE REFERÊNCIA PARA O FORNECIMENTO GROSSISTA DE ACESSO À INFRA-ESTRUTURA
+      DE REDE, INCLUINDO O ACESSO PARTILHADO OU TOTALMENTE DESAGREGADO NUM LOCAL FIXO, A PUBLICAR PELOS OPERADORES COM PODER
+      DE MERCADO SIGNIFICATIVO (PMS)
+    - Adita A. Condições para o acesso desagregado ao lacete local
+    - Adita B. Partilha de locais
+    - Adita C. Sistemas de informação
+    - Adita D. Condições de oferta
+    - Adita Notas
+    - Suprime CAPÍTULO I — ÂMBITO, OBJECTIVO E DEFINIÇÕES
+    - Suprime CAPÍTULO II — DISPOSIÇÕES GERAIS
+    - Suprime CAPÍTULO III — OBRIGAÇÕES IMPOSTAS A OPERADORES E PROCEDIMENTOS DE ANÁLISE DE MERCADO
+    - Suprime Artigo 7.º — Revisão de obrigações anteriores em matéria de acesso e interligação
+    - Suprime CAPÍTULO IV — DISPOSIÇÕES PROCESSUAIS
+    - Suprime ANEXO I — CONDIÇÕES DE ACESSO A SERVIÇOS DE TELEVISÃO E RÁDIO DIGITAL DIFUNDIDOS AOS TELESPECTADORES E OUVINTES
+      NA COMUNIDADE
+  - date: '2020-12-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime ÂMBITO, OBJECTIVO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Âmbito e objectivo
+    - Suprime Artigo 2.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 3.º — Quadro geral para o acesso e a interligação
+    - Suprime Artigo 4.º — Direitos e obrigações das empresas
+    - Suprime Artigo 5.º — Poderes e responsabilidades das autoridades reguladoras nacionais relativamente ao acesso e à interligação
+    - Suprime CAPÍTULO III
+    - Suprime OBRIGAÇÕES IMPOSTAS A OPERADORES E PROCEDIMENTOS DE ANÁLISE DE MERCADO
+    - Suprime Artigo 6.º — Sistemas de acesso condicional e outros recursos
+    - Suprime Artigo 8.º — Imposição, alteração ou supressão de obrigações
+    - Suprime Artigo 9.º — Obrigações de transparência
+    - Suprime Artigo 10.º — Obrigação de não discriminação
+    - Suprime Artigo 11.º — Obrigação de separação de contas
+    - Suprime Artigo 12.º — Obrigações de acesso e utilização de recursos de rede específicos
+    - Suprime Artigo 13.º — Obrigações de controlo dos preços e de contabilização dos custos
+    - Suprime Artigo 13.ºA — Separação funcional
+    - Suprime Artigo 13.ºB — Separação voluntária de uma empresa verticalmente integrada
+    - Suprime CAPÍTULO IV
+    - Suprime DISPOSIÇÕES PROCESSUAIS
+    - Suprime Artigo 14.º — Comité
+    - Suprime Artigo 15.º — Publicação e acesso a informações
+    - Suprime Artigo 16.º — Notificação
+    - Suprime Artigo 17.º — Procedimento de reexame
+    - Suprime Artigo 18.º — Transposição
+    - Suprime Artigo 19.º — Produção de efeitos
+    - Suprime Artigo 20.º — Destinatários
+    - Suprime ANEXO I
+    - Suprime CONDIÇÕES DE ACESSO A SERVIÇOS DE TELEVISÃO E RÁDIO DIGITAL DIFUNDIDOS AOS TELESPECTADORES E OUVINTES NA COMUNIDADE
+    - 'Suprime Parte I: Condições para sistemas de acesso condicional a aplicar em conformidade com o n.º 1 do artigo 6.º'
+    - 'Suprime Parte II: Outros recursos cujas condições podem ser aplicadas ao abrigo do n.º 1, alínea b), do artigo 5.º'
+    - Suprime ANEXO II
+    - Suprime LISTA MÍNIMA DE ELEMENTOS A INCLUIR NUMA OFERTA DE REFERÊNCIA PARA O FORNECIMENTO GROSSISTA DE ACESSO À INFRA-ESTRUTURA
+      DE REDE, INCLUINDO O ACESSO PARTILHADO OU TOTALMENTE DESAGREGADO NUM LOCAL FIXO, A PUBLICAR PELOS OPERADORES COM PODER
+      DE MERCADO SIGNIFICATIVO (PMS)
+    - Suprime A. Condições para o acesso desagregado ao lacete local
+    - Suprime B. Partilha de locais
+    - Suprime C. Sistemas de informação
+    - Suprime D. Condições de oferta
 identifiers:
   celex: 32002L0019
   eli: http://data.europa.eu/eli/dir/2002/19/oj
@@ -49,7 +151,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1ab3fcbd-c54a-436d-8ae9-45550860f3ea.0010
   content_url: http://publications.europa.eu/resource/cellar/72d1fa17-33db-11eb-b27b-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0019-20201221
-  retrieved_at: '2026-10-22T02:45:02Z'
+  retrieved_at: '2026-10-22T14:51:20Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-26T08:57:33.548+01:00'
 integrity:
@@ -58,9 +160,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:02Z'
-  notes: Texto consolidado 02002L0019-20201221.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:20Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2002-19.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -227,16 +329,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:02Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:51:20Z'
+  warnings: []
   errors: []
 ---
 

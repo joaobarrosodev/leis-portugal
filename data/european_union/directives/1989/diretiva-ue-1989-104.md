@@ -34,6 +34,37 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-11-28'
+version_history:
+  file: diretiva-ue-1989-104.versoes.json
+  count: 2
+  source_lastmod: '2008-11-28'
+  versions:
+  - date: '1989-02-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-11-28'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Âmbito
+    - Suprime Artigo 2.º — Sinais susceptíveis de constituir uma marca
+    - Suprime Artigo 3.º — Motivos de recusa ou de nulidade
+    - Suprime Artigo 4.º — Outros motivos de recusa ou de nulidade relativos a conflitos com direitos anteriores
+    - Suprime Artigo 5.º — Direitos conferidos pela marca
+    - Suprime Artigo 6.º — Limitação dos efeitos da marca
+    - Suprime Artigo 7.º — Esgotamento dos direitos conferidos pela marca
+    - Suprime Artigo 8.º — Licenças
+    - Suprime Artigo 9.º — Preclusão por tolerância
+    - Suprime Artigo 10.º — Uso da marca
+    - Suprime Artigo 11.º — Sanções pelo não uso de uma marca em processos judiciais ou administrativos
+    - Suprime Artigo 12.º — Motivos de caducidade
+    - Suprime Artigo 13.º — Motivos de recusa, caducidade ou nulidade apenas para alguns produtos ou serviços
+    - Suprime Artigo 14.º — Verificação a posteriori da nulidade do registo de uma marca ou da sua caducidade
+    - Suprime Artigo 15.º — Disposições especiais relativas a marcas colectivas, marcas de garantia e marcas de certificação
+    - Suprime Artigo 16.º — Disposições nacionais a adoptar de acordo com a presente directiva
+    - Suprime Artigo 17.º — Destinatários
 identifiers:
   celex: 31989L0104
   eli: http://data.europa.eu/eli/dir/1989/104/oj
@@ -48,7 +79,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4a573477-c9fe-4df6-8763-e557017f7677.0011
   content_url: http://publications.europa.eu/resource/cellar/5fe94a56-0f93-4d33-a183-a752a8ef144a.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0104-20081128
-  retrieved_at: '2026-10-22T03:05:41Z'
+  retrieved_at: '2026-10-22T14:35:37Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-10T17:14:00.177+01:00'
 integrity:
@@ -57,9 +88,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:05:41Z'
-  notes: Texto consolidado 01989L0104-20081128.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:35:37Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1989-104.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -654,16 +685,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:05:41Z'
+  checked_at: '2026-10-22T14:35:37Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01989L0104-19911223: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

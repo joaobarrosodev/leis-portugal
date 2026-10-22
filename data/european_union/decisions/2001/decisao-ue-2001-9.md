@@ -37,6 +37,31 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2003-09-01'
+version_history:
+  file: decisao-ue-2001-9.versoes.json
+  count: 2
+  source_lastmod: '2003-09-01'
+  versions:
+  - date: '2001-01-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-09-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime ANEXO I — CONDIÇÕES REFERIDAS NO N.o 1 DO ARTIGO 1.o
+    - Suprime ANEXO II — CONDIÇÕES REFERIDAS NO N.o 2 DO ARTIGO 1.o
+    - Suprime ANEXO III — CONDIÇÕES REFERIDAS NO N.o 3 DO ARTIGO 1.o
+    - Suprime ANEXO IV — >PIC FILE= "L_2001002PT.003702.EPS">
+    - Suprime ANEXO V — >PIC FILE= "L_2001002PT.003902.EPS">
 identifiers:
   celex: 32001D0009
   eli: http://data.europa.eu/eli/dec/2001/9(1)/oj
@@ -51,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e5ff83f6-aedc-43ab-a5a9-20137a69d398.0010
   content_url: http://publications.europa.eu/resource/cellar/7c5c8e89-54b7-4f39-a75a-5c7b5960c0cc.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001D0009-20030901
-  retrieved_at: '2026-10-22T02:57:01Z'
+  retrieved_at: '2026-10-22T14:49:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T18:51:45.628+01:00'
 integrity:
@@ -60,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:01Z'
-  notes: Texto consolidado 02001D0009-20030901.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:42Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2001-9.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -134,16 +159,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:01Z'
+  checked_at: '2026-10-22T14:49:42Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02001D0009-20010301: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001D0009-20020401: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

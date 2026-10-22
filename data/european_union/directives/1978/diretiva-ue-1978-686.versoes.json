@@ -1,0 +1,409 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31978L0686:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01978L0686-20071020",
+ "dre_path": null,
+ "source_lastmod": "2007-10-20",
+ "versions": [
+  {
+   "date": "1978-08-24",
+   "future": false,
+   "celex": "31978L0686",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9ce8b399d728c8da",
+    "211b08437e1244df",
+    "100aacc0d892ad0b",
+    "e58781bcf9ace053",
+    "9330f42ca45deeb4",
+    "4e98fbdc47c42729",
+    "82ad28f8d96dfcf4",
+    "78253b84dcbcbb4a",
+    "17cdee177312fff1",
+    "1a63e32a0cf57529",
+    "ffb5c4a91996bb08",
+    "da72cdc13bd6806e",
+    "f4458ecf6a41804a",
+    "0d2e2a14d4b78de6",
+    "c22923cb055cdf4d",
+    "f87352c02e9de7b9",
+    "42bf3f1d1ea8db16",
+    "14cdbc15691f612c",
+    "509e21ebf74103e6",
+    "12891b05c7788363",
+    "5dd0501fa7e83348",
+    "2226b4242985760e",
+    "6612bd472da0acad",
+    "eb6e01f266f2de34",
+    "2370a39898e8f9eb",
+    "f71765eff63c51ce",
+    "8e1ec3fb017b4860",
+    "fb9b0dc27dd52727",
+    "a8914862eb94fdff",
+    "2a593259fb777e9f",
+    "d40b0fd479706c68",
+    "a4f1a2196cffbcc3",
+    "39c5a1e81b1824d7",
+    "4eb65194ecd0d0c9",
+    "83199332a848896a"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01978L0686-20070101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I — ÂMBITO DE APLICAÇÃO",
+    "Suprime Artigo 1o",
+    "Suprime CAPÍTULO II — DIPLOMAS, CERTIFICADOS E OUTROS",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime CAPÍTULO III — DIPLOMAS, CERTIFICADOS E OUTROS",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime CAPÍTULO IV — DIREITOS ADQUIRIDOS",
+    "Suprime Artigo 7o",
+    "Suprime CAPÍTULO V — USO DO",
+    "Suprime TÍTULO DE FORMAÇÃO — Artigo 8o",
+    "Suprime CAPÍTULO VI — DISPOSIÇÕES TENDENTES A FACILITAR O EXERCÍCIO EFECTIVO DO DIREITO DE ESTABELECIMENTO E DA LIVRE PRESTAÇÃO DE SERVIÇOS DE DENTISTA",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime CAPÍTULO VII — DISPOSIÇÕES TRANSITÕRIAS RELATIVAS À SITUAÇÃO ESPECIAL DA ITÁLIA",
+    "Suprime Artigo 19o",
+    "Suprime CAPÍTULO VIII — DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 20o",
+    "Suprime Artigo 21o",
+    "Suprime Artigo 22o",
+    "Suprime Artigo 23o",
+    "Suprime Artigo 24o",
+    "Suprime Artigo 25o",
+    "Suprime Artigo 26o"
+   ],
+   "fragments": [
+    "a8358311fb04feae"
+   ]
+  },
+  {
+   "date": "2007-10-20",
+   "future": false,
+   "celex": "01978L0686-20071020",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "d0ac73641a1fd1cc"
+   ]
+  }
+ ],
+ "fragments": {
+  "9ce8b399d728c8da": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 78/686/CEE do Conselho, de 25 de Julho de 1978, que tem por objectivo o reconhecimento mútuo dos diplomas, certificados e outros títulos de dentista e que inclui medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento e da livre prestação de serviços** *Jornal Oficial nº L 233 de 24/08/1978 p. 0001 - 0009 Edição especial finlandesa: Capítulo 16 Fascículo 1 p. 0033 Edição especial grega: Capítulo 05 Fascículo 3 p. 0012 Edição especial sueca: Capítulo 16 Fascículo 1 p. 0033 Edição especial espanhola: Capítulo 06 Fascículo 2 p. 0032 Edição especial portuguesa: Capítulo 06 Fascículo 2 p. 0032*\n\nDIRECTIVA DO CONSELHO de 25 de Julho de 1978 que tem por objectivo o reconhecimento mútuo dos diplomas, certificados e outros títulos de dentista e que inclui medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento e da livre prestação de serviços\n\n(78/686/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 49o, 57o, 66o e 235o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que, nos termos do Tratado, é proibido, após o termo do período de transição, qualquer tratamento discriminatório em razão da nacionalidade em matéria de estabelecimento e de prestação de serviços; que este princípio do tratamento nacional se aplica, nomeadamente, à concessão das autorizações eventualmente exigidas para o acesso às actividades de dentista, bem como para a inscrição ou filiação em organizações ou organismos profissionais;\n\nConsiderando que é, no entanto, oportuno estabelecer normas tendentes a facilitar o exercício efectivo do direito de estabelecimento e da livre prestação de serviços de dentista;\n\nConsiderando que, nos termos do Tratado, os Estados-membros não devem conceder qualquer auxílio susceptível de falsear as condições de estabelecimento;\n\nConsiderando que o no 1 do artigo 57o do Tratado prevê a adopção de directivas que tenham por objectivo o reconhecimento mútuo dos diplomas, certificados e outros títulos; que a presente directiva tem por objectivo o reconhecimento dos diplomas, certificados e outros títulos de dentista que dão acesso ao exercício da actividade de dentista, bem como dos diplomas, certificados e outros títulos de dentista especialista;\n\nConsiderando que, relativamente à formação de dentista especialista, é conveniente proceder ao reconhecimento mútuo dos títulos de formação quando estes, sem constituirem condição de acesso à actividade de dentista especialista, constituem, todavia, condição do uso de um título de especialização;\n\nConsiderando que, tendo em conta as divergências actualmente existentes entre os Estados-membros no que respeita ao número de especialidades dentárias, ao modo ou à duração da formação para as obter, se torna necessário estabelecer certas normas de coordenação, destinadas a permitir aos Estados-membros o reconhecimento mútuo dos diplomas, certificados e outros títulos; que tal coordenação é realizada pela Directiva 78/687/CEE do Conselho, de 25 de Julho de 1978, que tem por objectivo a coordenação das disposições legislativas, regulamentares e administrativas relativas às actividades de dentista (3);\n\nConsiderando que, apesar de a coordenação atrás mencionada não ter por efeito harmonizar o conjunto das disposições dos Estados-membros relativas à formação de dentista especialista, é conveniente proceder ao reconhecimento mútuo dos diplomas, certificados e outros títulos de dentista especialista que não são comuns a todos os Estados-membros, sem que seja excluída a possibilidade de harmonização ulterior neste domínio; que se julgou conveniente, a este respeito, limitar o reconhecimento daqueles diplomas, certificados e outros títulos de dentista especialista aos Estados-membros em que existem as especialidades em causa;\n\nConsiderando que, no que respeita ao uso do título de formação, e pelo facto de uma directiva de reconhecimento mútuo de diplomas não implicar necessariamente a equivalência material das formações a que tais diplomas se referem, é conveniente autorizar apenas o seu uso na língua do Estado-membro de origem ou de proveniência;\n\nConsiderando que, para facilitar a aplicação da presente directiva pelas administrações nacionais, os Estados-membros podem determinar que os interessados que preencham as condições de formação por esta exigidas apresentem, juntamente com o respectivo título de formação, um atestado das autoridades competentes do Estado-membro de origem ou de proveniência, comprovando que tais títulos são os referidos na presente directiva;\n\nConsiderando que, em caso de prestação de serviços, a exigência de inscrição ou filiação em organizações ou organismos profissionais, que está ligada ao carácter estável e permanente da actividade exercida no Estado-membro de acolhimento, constituiria incontestavelmente um obstáculo para o prestador de serviços, em virtude do carácter temporário da sua actividade; que é conveniente, portanto, afastá-la; que é necessário, contudo, neste caso, assegurar o controlo da disciplina profissional que compete a tais organizações ou organismos profissionais; que é conveniente prever, para o efeito, e sem prejuízo do disposto no artigo 62o do Tratado, a possibilidade de impor ao interessado a obrigação de notificar a prestação de serviços à autoridade competente do Estado-membro de acolhimento;\n\nConsiderando que, em matéria de moralidade e de honorabilidade, é conveniente distinguir as condições exigíveis, por um lado, para o primeiro acesso à profissão e, por outro lado, para o seu exercício;\n\nConsiderando que, no que respeita às actividades de dentista assalariadas, o Regulamento (CEE) no 1612/68 do Conselho, de 15 de Outubro de 1968, relativo à livre circulação dos trabalhadores na Comunidade (4) não estabelece, para as profissões regulamentadas, normas específicas em matéria de moralidade e de honorabilidade, de disciplina profissional e de uso de um título; que, segundo os Estados-membros, as regulamentações em causa são ou podem ser aplicáveis tanto aos assalariados como aos não assalariados; que as actividades de dentista estão ou virão a estar subordinadas em todos os Estados-membros à posse de um diploma, certificado ou outro título de dentista; que tais actividades são exercidas tanto por independentes, como por assalariados, ou ainda, alternadamente, na qualidade de assalariado e não assalariado, pelas mesmas pessoas, no decurso da respectiva carreira profissional; que, para favorecer plenamente a livre circulação destes profissionais na Comunidade é, consequentemente necessário, tornar extensiva aos dentistas assalariados a aplicação da presente directiva;\n\nConsiderando que a profissão de dentista não se encontra ainda organizada em Itália; que é, assim, necessário conceder à Itália um prazo suplementar para reconhecer os diplomas de dentista reconhecidos pelos outros Estados-membros;\n\nConsiderando igualmente que resulta de tais circunstâncias que os titulares de um diploma de médico concedido em Itália não podem dispor de um certificado que corresponda aos requisitos constantes do artigo 19o da presente directiva;\n\nConsiderando que, nestas condições, é necessário protelar, por um lado, a obrigação, para a Itália, de reconhecer os diplomas concedidos pelos Estados-membros e, por outro, a obrigação, para os Estados-membros, de reconhecerem os diplomas concedidos em Itália referidos no artigo 19o,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "211b08437e1244df": {
+   "fragment_id": "CAPÍTULO I — ÂMBITO DE APLICAÇÃO",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — ÂMBITO DE APLICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — ÂMBITO DE APLICAÇÃO"
+  },
+  "100aacc0d892ad0b": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva é aplicável às actividades de dentista, tal como se encontram definidas no artigo 5o da Directiva 78/687/CEE, exercidas sob os seguintes títulos:\n\n- na República Federal da Alemanha:\n\nZahnarzt,\n\n- na Bélgica:\n\nLicencié en science dentaire/licentiaat in de tandheelkunde,\n\n- na Dinamarca:\n\nTandlaege,\n\n- em França:\n\nChirurgien-dentiste,\n\n- na Irlanda:\n\nDentist, dental practitioner ou dental surgeon,\n\n- em Itália:\n\nO título cuja denominação será notificada pela Itália aos Estados-membros e à Comissão no prazo fixado no no 1 do artigo 24o,\n\n- no Luxemburgo:\n\nMédecin-dentiste,\n\n- nos Países Baixos:\n\nTandarts,\n\n- no Reino Unido:\n\nDentist, dental practitioner ou dental surgeon."
+  },
+  "e58781bcf9ace053": {
+   "fragment_id": "CAPÍTULO II — DIPLOMAS, CERTIFICADOS E OUTROS",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — DIPLOMAS, CERTIFICADOS E OUTROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — DIPLOMAS, CERTIFICADOS E OUTROS\n\nTÍTULOS DE DENTISTA"
+  },
+  "9330f42ca45deeb4": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nCada Estado-membro reconhecerá os diplomas, certificados e outros títulos de dentista concedidos aos nacionais dos Estados-membros pelos outros Estados-membros nos termos do artigo 1o da Directiva 78/687/CEE, e enumerados no artigo 3o da presente directiva, atribuindo-lhes, no que respeita ao acesso às actividades de dentista e ao respectivo exercício, o mesmo efeito, no seu território, que aos diplomas, certificados e outros títulos que ele próprio concede."
+  },
+  "4e98fbdc47c42729": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs diplomas, certificados e outros títulos referidos no artigo 2o são:\n\na) Na República Federal da Alemanha:\n\n1. «Zeugnis ueber die zahnaerztliche Staatspruefung» (certificado de exame de Estado de dentista), concedido pelas autoridades competentes;\n\n2. Os atestados das autoridades competentes da República Federal da Alemanha comprovativos da equivalência dos títulos de formação concedidos depois de 8 de Maio de 1945 pelas autoridades competentes da República Democrática Alema aos títulos referidos no ponto 1.\n\nb) Na Bélgica:\n\n«Diplôme légal de licencié em science dentaire/wettelijk diploma van licentiaat in de tandheelkunde? (diploma legal de licenciado em ciências dentárias), concedido pelas faculdades de medicina das universidades, pelo Júri Central ou pelos júris de Estado do ensino universitário;\n\nc) Na Dinamarca:\n\n«Bevis for tandlaegeeksamen (kandidateksamen)» (diploma de dentista), concedido pelas escolas dentárias, acompanhado de um atestado de exercício da função de assistente durante o tempo exigido, emitido pelo «Sundhedsstyrelsen» (Instituto Nacional de Saúde);\n\nd) Em França:\n\n1. «Diplôme d'État de chirurgien-dentiste» (diploma de Estado de cirurgião-dentista) concedido até 1973 pelas faculdades de medicina ou pelas faculdades mistas de medicina e de farmácia das universidades;\n\n2. «Diplôme d'État de docteur em chirurgie dentaire» (diploma de Estado de doutor em cirurgia dentária), concedido pelas universidades;\n\ne) Na Irlanda:\n\nDiplomas de:\n\n- «Bachelor in Dental Science (B.Dent.Sc.)»\n\nou\n\n- «Bachelor of Dental Surgery (BDS)»\n\nou\n\n- «Licentiate in Dental Surgery (LDS)»\n\nconcedidos pelas universidades ou pelo «Royal College of Surgeons in Ireland»;\n\nf) Na Itália:\n\nDiploma cuja denominação será notificada pela Itália aos Estados-membros e à Comissão no prazo fixado no no 1 do artigo 24o;\n\ng) No Luxemburgo:\n\n«Diplôme d'État de docteur en médecine dentaire» (diploma de Estado de doutor em medicina dentária) concedido pelo Júri de exame de Estado;\n\nh) Nos Países Baixos:\n\n«Universitair getuigschrift van een met goed gevolg afgelegd tandartsexamen» (certificado universitário de aprovação no exame de dentista);\n\ni) No Reino Unido:\n\nDiplomas de:\n\n- «Bachelor of Dental Surgery (BDS ou B.Ch.D.)»\n\nou\n\n- «Licentiate in Dental Surgery (LDS)»\n\nconcedidos pelas universidades ou pelos «Royal Colleges»."
+  },
+  "82ad28f8d96dfcf4": {
+   "fragment_id": "CAPÍTULO III — DIPLOMAS, CERTIFICADOS E OUTROS",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — DIPLOMAS, CERTIFICADOS E OUTROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — DIPLOMAS, CERTIFICADOS E OUTROS\n\nTÍTULOS DE DENTISTA ESPECIALISTA PRÓPRIOS A DOIS OU MAIS ESTADOS-MEMBROS"
+  },
+  "78253b84dcbcbb4a": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs Estados-membros em que existam disposições legislativas, regulamentares e administrativas sobre a matéria, reconhecerão os diplomas, certificados e outros títulos de dentista especialista em ortodontia e em cirurgia da boca referidos no artigo 5o da presente directiva concedidos aos nacionais dos Estados-membros pelos outros Estados-membros, nos termos do disposto nos artigos 2o e 3o da Directiva 78/687/CEE, conferindo-lhes o mesmo efeito, no seu território, que o conferido aos diplomas, certificados e outros títulos por ele próprio concedidos."
+  },
+  "17cdee177312fff1": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nOs diplomas, certificados e outros títulos referidos no artigo 4o são os seguintes:\n\n1. Ortodontia\n\n- na República Federal da Alemanha:\n\n«Fachzahnaerztliche Anerkennung fuer Kieferorthopaedie» (certificado de ortodontia), concedido pelas «Landeszahnaerztekammern» (Câmaras de dentistas dos «Laender»),\n\n- na Dinamarca:\n\n«Bevis for tilladelse til at betegne sig som spedialtandlaege i ortodonti» (certificado conferindo o título de dentista especialista em ortodontia), concedido pelo «Sundhedsstyrelsen» (Instituto Nacional de Saúde),\n\n- em França:\n\n«Titre de spécialiste en orthodontie» (título de especialista em ortodontia) concedido pela autoridade competente reconhecida para tal efeito,\n\n- na Irlanda:\n\n«Certificate of specialist dentist in orthodontics» (diploma de dentista especialista em ortodontia), concedido pela autoridade competente, reconhecida para tal efeito pelo ministro competente,\n\n- nos Países Baixos:\n\n«Getuigschrift van erkenning en inschrijving als orthodontist in het Specialistenregister» (certificado atestando que o interessado é reconhecido e se encontra inscrito como especialista em ortodontia no registo dos especialistas), concedido pela «Specialisten-Registratie-commissie (SRC)» (Comissão de Registo dos Especialistas),\n\n- no Reino Unido:\n\n«Certificate of completion of specialist training in orthodontics» (certificado de conclusão da formação especializada em ortodontia), concedido pela autoridade competente reconhecida para tal efeito,\n\n2. Cirurgia da boca\n\n- na República Federal da Alemanha:\n\n«Fachzahnaerztliche Anerkennung fuer Oralchirurgie/Mundchirurgie» (certificado de cirurgia da boca), concedido pelas «Landeszahnaerztekammern» (Câmaras dos dentistas dos «Laender»),\n\n- na Dinamarca:\n\n«Bevis for tilladelse til at betegne sig som specialtandlaege i hospitalsodontologi» (certificado conferindo o titulo de dentista especialista em odontologia hospitalar), concedido pelo «Sundhedsstyrelsen» (Instituto Nacional de Saúde),\n\n- na Irlanda:\n\n«Certificate of specialist dentist in oral surgery» (diploma de dentista especialista em cirurgia da boca), concedido pela autoridade competente reconhecida para tal efeito pelo ministro competente,\n\n- nos Países Baixos:\n\n«Getuigschrift van erkenning en inschrijving als kaakchirurg in het Specialistenregister» (certificado atestando que o interessado é reconhecido e se encontra inscrito como especialista em cirurgia da boca no registo dos especialistas), concedido pela «Specialisten-Registratiecomissie (SRC)» (Comissão de Registo dos Especialistas),\n\n- no Reino Unido:\n\n«Certificate of completion of specialist training in oral surgery» (certificado de conclusão da formação especializada em cirurgia da boca), concedido pela autoridade competente para tal efeito."
+  },
+  "1a63e32a0cf57529": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. O Estado-membro de acolhimento pode exigir aos nacionais dos Estados-membros que desejem obter um dos diplomas, certificados ou outros títulos de dentista especialista que não sejam emitidos no Estado-membro de origem ou de proveniência, que preencham as condições de formação previstas a esse respeito pelas suas próprias disposições legislativas, regulamentares e administrativas.\n\n2. Todavia, o Estado-membro de acolhimento tomará em consideração, no todo ou em parte, os períodos de formação completados pelos nacionais referidos no no 1 e comprovados por um diploma, certificado ou outro título de formação concedido pelas autoridades competentes do Estado-membro de origem ou de proveniência, quando os referidos períodos correspondam aos exigidos no Estado-membro de acolhimento para a formação especializada em causa.\n\n3. As autoridades ou organismos competentes do Estado-membro de acolhimento, após terem verificado o conteúdo e a duração da formação especializada do interessado com base nos diplomas, certificados e outros títulos apresentados, informá-lo-ao da duração da formação complementar a efectuar, assim como dos domínios por ela abrangidos."
+  },
+  "ffb5c4a91996bb08": {
+   "fragment_id": "CAPÍTULO IV — DIREITOS ADQUIRIDOS",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — DIREITOS ADQUIRIDOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — DIREITOS ADQUIRIDOS"
+  },
+  "da72cdc13bd6806e": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Os Estados-membros reconhecerão como prova suficiente, para os nacionais dos Estados-membros cujos diplomas, certificados e outros títulos não satisfaçam o conjunto de exigências mínimas de formação previstas no artigo 1o da Directiva 78/687/CEE, os diplomas, certificados e outros títulos de dentista concedidos por esses Estados-membros antes da aplicação da Directiva 78/687/CEE, acompanhados de um atestado comprovativo de que aqueles nacionais se dedicaram efectiva e licitamente às actividades em causa durante, pelo menos, três anos consecutivos dos cinco anos que precederam a emissão do atestado.\n\n2. Os Estados-membros reconhecerão como prova suficiente, para os nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de dentista não satisfaçam as exigências mínimas de formação previstas nos artigos 2o e 3o da Directiva 78/687/CEE, os diplomas, certificados e outros títulos de dentista especialista concedidos por esses Estados-membros antes da aplicação da Directiva 78/687/CEE. Todavia, pode exigir que aqueles diplomas, certificados e outros títulos sejam acompanhados de um atestado passado pelas autoridades ou organismos competentes do Estado-membro de origem ou de proveniência comprovativo do exercício, como dentista especialista, da actividade em causa, durante um período de tempo equivalente ao dobro da diferença existente entre o período de formação especializada do Estado-membro de origem ou de proveniência e o período mínimo de formação estabelecido na Directiva 78/687/CEE, quando aqueles não correspondam ao período mínimo de formação estabelecido no artigo 2o da Directiva 78/687/CEE.\n\nTodavia, se no Estado-membro de acolhimento for exigido, antes da aplicação da presente directiva, um período mínimo de formação inferior ao estabelecido no artigo 2o da Directiva 78/687/CEE, a diferença mencionada no primeiro parágrafo só pode ser determinada em função do período mínimo de formação previsto neste Estado."
+  },
+  "f4458ecf6a41804a": {
+   "fragment_id": "CAPÍTULO V — USO DO",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — USO DO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — USO DO"
+  },
+  "0d2e2a14d4b78de6": {
+   "fragment_id": "TÍTULO DE FORMAÇÃO — Artigo 8o",
+   "type": "divisao",
+   "heading": "TÍTULO DE FORMAÇÃO — Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO DE FORMAÇÃO — Artigo 8o\n\n1. Sem prejuízo do disposto no artigo 17o, os Estados-membros de acolhimento velarão por que seja reconhecido aos nacionais dos Estados-membros que preencham as condições fixadas nos artigos 2o, 4o, 7o e 19o o direito a usarem o respectivo título legal de formação, desde que não seja idêntico ao título profissional, e, eventualmente, a sua abreviatura, do Estado-membro de origem ou de proveniência, na língua deste Estado. Os Estados-membros de acolhimento podem exigir que esse título seja seguido do nome e local do estabelecimento ou do júri que o concedeu.\n\n2. Quando o título de formação do Estado-membro de origem ou de proveniência puder ser confundido, no Estado-membro de acolhimento, com qualquer título que exija, neste Estado, formação complementar não obtida pelo interessado, o Estado-membro de acolhimento pode exigir que aquele use o respectivo título de formação do Estado-membro de origem ou de proveniência em forma adequada, a indicar pelo Estado-membro de acolhimento."
+  },
+  "c22923cb055cdf4d": {
+   "fragment_id": "CAPÍTULO VI — DISPOSIÇÕES TENDENTES A FACILITAR O EXERCÍCIO EFECTIVO DO DIREITO DE ESTABELECIMENTO E DA LIVRE PRESTAÇÃO DE SERVIÇOS DE DENTISTA",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — DISPOSIÇÕES TENDENTES A FACILITAR O EXERCÍCIO EFECTIVO DO DIREITO DE ESTABELECIMENTO E DA LIVRE PRESTAÇÃO DE SERVIÇOS DE DENTISTA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — DISPOSIÇÕES TENDENTES A FACILITAR O EXERCÍCIO EFECTIVO DO DIREITO DE ESTABELECIMENTO E DA LIVRE PRESTAÇÃO DE SERVIÇOS DE DENTISTA\n\nA. Disposições específicas relativas ao direito de estabelecimento"
+  },
+  "f87352c02e9de7b9": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. O Estado-membro de acolhimento que exigir aos seus nacionais prova de moralidade ou de honorabilidade para o primeiro acesso a uma das actividades referidas no artigo 1o, aceitará, como prova suficiente, para os nacionais dos outros Estados-membros, um atestado passado por uma autoridade competente do Estado-membro de origem ou de proveniência comprovativo de que estão preenchidas as condições de moralidade ou de honorabilidade exigidas neste Estado-membro para o acesso à actividade em causa.\n\n2. Quando o Estado-membro de origem ou de proveniência não exigir prova de moralidade ou de honorabilidade para o primeiro acesso à actividade em causa, o Estado-membro de acolhimento pode exigir aos nacionais do Estado-membro de origem ou de proveniência um certificado de registo criminal ou, na sua falta, documento equivalente passado por uma autoridade competente do Estado-membro de origem ou de proveniência.\n\n3. O Estado-membro de acolhimento, se tiver conhecimento de factos graves e concretos ocorridos fora do seu território, anteriormente ao estabelecimento do interessado neste Estado, e susceptíveis de terem neste Estado consequências relativamente ao acesso à actividade em causa, pode informar desses factos o Estado-membro de origem ou de proveniência.\n\nO Estado-membro de origem ou de proveniência investigará a veracidade dos factos na medida em que sejam susceptíveis de terem, neste Estado-membro, consequências relativamente ao acesso à actividade em causa. As autoridades deste Estado decidirão da natureza e extensão das investigações a efectuar e comunicarão ao Estado-membro de acolhimento as medidas que, em consequência, tomarem quanto aos atestados ou documentos que tenham passado.\n\n4. Os Estados-membros assegurarão a confidencialidade das informações comunicadas."
+  },
+  "42bf3f1d1ea8db16": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. Quando, num Estado-membro de acolhimento, estiverem em vigor disposições legislativas, regulamentares e administrativas em matéria de moralidade e de honorabilidade, incluindo as que prevejam sanções disciplinares em caso de falta profissional grave ou de condenação por crime relativas ao exercício de uma das actividades referidas no artigo 1o, o Estado-membro de origem ou de proveniência transmitirá ao Estado-membro de acolhimento as informações necessárias respeitantes às medidas ou sanções de carácter profissional ou administrativo aplicadas ao interessado, bem como às sanções penais relacionadas com o exercício da profissão no Estado-membro de origem ou de proveniência.\n\n2. O Estado-membro de acolhimento, se tiver conhecimento de factos graves e concretos ocorridos fora do seu território, anteriormente ao estabelecimento do interessado neste Estado e susceptíveis de terem, neste Estado, consequências relativamente ao exercício da actividade em causa, pode informar desses factos o Estado-membro de origem ou de proveniência.\n\nO Estado-membro de origem ou de proveniência investigará a veracidade dos factos, na medida em que sejam susceptíveis de terem, neste Estado-membro, consequências relativamente ao exercício da actividade em causa. As autoridades deste Estado decidirão da natureza e extensão das investigações a efectuar e comunicarão ao Estado-membro de acolhimento as medidas que, em consequência, tomarem quanto às informações comunicadas por força do no 1.\n\n3. Os Estados-membros assegurarão a confidencialidade das informações comunicadas."
+  },
+  "14cdbc15691f612c": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nQuando o Estado-membro de acolhimento exigir aos seus nacionais, para o acesso a uma das actividades referidas no artigo 1o, ou para o seu exercício, documento relativo à saúde física ou psíquica, tal Estado aceitará como suficiente, para o efeito, a apresentação do documento exigido no Estado-membro de origem ou de proveniência.\n\nQuando o Estado-membro de origem ou de proveniência não exigir documento daquela natureza para o acesso à actividade em causa ou para o seu exercício, o Estado-membro de acolhimento aceitará dos nacionais do Estado-membro de origem ou de proveniência, um atestado passado por autoridade competente desse Estado, correspondente aos atestados do Estado-membro de acolhimento."
+  },
+  "509e21ebf74103e6": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nOs documentos referidos nos artigos 9o, 10o e 11o não podem, aquando da sua apresentação, ter sido emitidos há mais de três meses."
+  },
+  "12891b05c7788363": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. O processo para autorizar o acesso do interessado a uma das actividades referidas no artigo 1o, nos termos dos artigos 9o, 10o e 11o, deve ser concluído rapidamente e, o mais tardar, três meses após a apresentação da documentação completa do interessado, sem prejuízo dos atrasos que resultem de um eventual recurso introduzido no final daquele processo.\n\n2. Nos casos referidos no no 3 do artigo 9o e no no 2 do artigo 10o, o pedido de revisão suspende o prazo fixado no no 1.\n\nO Estado-membro consultado deve dar a sua resposta num prazo de três meses.\n\nAo receber a resposta, ou decorrido este prazo, o Estado-membro de acolhimento dará andamento ao processo referido no no 1."
+  },
+  "5dd0501fa7e83348": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nQuando o Estado-membro de acolhimento exigir aos seus nacionais um juramento ou uma declaração solene para o acesso a uma das actividades referidas no artigo 1o, ou para o seu exercício, e no caso de a fórmula de tal juramento ou declaração não poder ser utilizada pelos nacionais dos outros Estados-membros, o Estado-membro de acolhimento velará por que seja facultada aos interessados uma fórmula adequada e equivalente.\n\nB. Disposições específicas relativas à prestação de serviços"
+  },
+  "2226b4242985760e": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\n1. Quando um Estado-membro exigir aos seus nacionais, para o acesso a uma das actividades referidas no artigo 1o, ou para o seu exercício, quer uma autorização, quer a inscrição ou filiação numa organização ou organismo profissional, tal Estado-membro dispensará dessa exigência, em caso de prestação de serviços, os nacionais dos outros Estados-membros.\n\nO beneficiário efectuará a prestação de serviços com os mesmos direitos e obrigações que os nacionais do Estado-membro de acolhimento; encontra-se, designadamente, sujeito às disposições disciplinares de carácter profissional ou administrativo aplicáveis nesse Estado-membro.\n\nPara o efeito, e em complemento da declaração relativa à prestação de serviços referida no no 2, os Estados-membros podem, tendo em vista a aplicação das disposições disciplinares em vigor no seu próprio território, prever quer uma inscrição temporária automática ou uma adesão pro forma a uma organização ou organismo profissionais, quer um registo, desde que esta inscrição não atrase nem dificulte de qualquer forma a prestação de serviços nem envolva despesas suplementares para o prestador de serviços.\n\nQuando o Estado-membro de acolhimento tomar uma medida nos termos do segundo parágrafo ou quando tiver conhecimento de factos que contrariem tais disposições, informará imediatamente desses factos o Estado-membro onde se encontra estabelecido o interessado.\n\n2. O Estado-membro de acolhimento pode exigir que o interessado faça às autoridades competentes uma declaração prévia relativa à sua prestação de serviços, no caso de a execução de tal prestação implicar uma estada temporária no seu território.\n\nEm caso de urgência, tal declaração pode ser feita, logo que possível, após a prestação de serviços.\n\n3. Nos termos dos nos 1 e 2, o Estado-membro de acolhimento pode exigir ao interessado a apresentação de um ou mais documentos com as seguintes indicações:\n\n- a declaração referida no no 2,\n\n- atestado comprovativo de que o interessado exerce legalmente as actividades em causa no Estado-membro onde se encontra estabelecido,\n\n- atestado comprovativo de que o interessado possui o ou os diplomas, certificados ou outros títulos exigidos para a prestação de serviços em causa, referidos na presente directiva.\n\n4. O documento ou os documentos referidos no no 3 não podem, aquando da sua apresentação, ter sido emitidos há mais de três meses.\n\n5. Quando um Estado-membro privar, no todo ou em parte, a título temporário ou definitivo, um dos seus nacionais ou um nacional de outro Estado-membro estabelecido no seu território, da faculdade de exercer qualquer uma das actividades referidas no artigo 1o, assegurará a suspensão ou a revogação, conforme os casos, do atestado referido no segundo travessão do no 3."
+  },
+  "6612bd472da0acad": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nQuando, no Estado-membro de acolhimento, for necessária a inscrição num organismo de segurança social de direito público para regularizar, com um organismo segurador, as contas relativas a actividades exercidas em proveito de pessoas abrangidas por um esquema de segurança social, tal Estado-membro dispensará dessa exigência os nacionais dos Estados-membros estabelecidos em outro Estado-membro, quando se trate de prestação de serviços que implique a deslocação do interessado.\n\nEm todos os casos de prestação de serviços que impliquem a deslocação do interessado, o Estado-membro de acolhimento pode exigir que o interessado informe previamente aquele organismo da prestação de serviços, ou, em caso de urgência, o mais rapidamente possível após a prestação.\n\nC. Disposições comuns ao direito de estabelecimento e à livre prestação de serviços"
+  },
+  "eb6e01f266f2de34": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\n1. Quando, no Estado-membro de acolhimento, estiver regulamentado o uso do título profissional relativo a uma das actividades referidas no artigo 1o, os nacionais dos outros Estados-membros que preencham as condições fixadas no artigo 2o, no no 1 do artigo 7o e no artigo 19o, usarão o título profissional do Estado-membro de acolhimento que, neste Estado, corresponda àquelas condições de formação e utilizarão a sua abreviatura.\n\n2. O no 1 é igualmente aplicável ao uso do título de dentista especialista pelas pessoas que preencham as condições fixadas, respectivamente, no artigo 4o e no no 2 do artigo 7o."
+  },
+  "2370a39898e8f9eb": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\n1. Os Estados-membros tomarão as medidas necessárias a fim de permitir que os interessados sejam informados da legislação sanitária e social, bem como, se for caso disso, da deontologia do Estado-membro de acolhimento.\n\nPara o efeito, podem criar serviços de informação junto dos quais os interessados possam obter as informações necessárias. Em caso de estabelecimento, os Estados-membros de acolhimento podem obrigar os interessdos a entrar em contacto com tais serviços.\n\n2. Os Estados-membros podem criar os serviços referidos no no 1 junto das autoridades e organismos competentes, que designarão no prazo fixado no no 1 do artigo 24o.\n\n3. Se for caso disso, providenciarão por que os beneficiários adquiram, no seu próprio interesse e no dos seus pacientes, os conhecimentos da língua necessários ao exercício da actividade profissional no Estado-membro de acolhimento."
+  },
+  "f71765eff63c51ce": {
+   "fragment_id": "CAPÍTULO VII — DISPOSIÇÕES TRANSITÕRIAS RELATIVAS À SITUAÇÃO ESPECIAL DA ITÁLIA",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII — DISPOSIÇÕES TRANSITÕRIAS RELATIVAS À SITUAÇÃO ESPECIAL DA ITÁLIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — DISPOSIÇÕES TRANSITÕRIAS RELATIVAS À SITUAÇÃO ESPECIAL DA ITÁLIA"
+  },
+  "8e1ec3fb017b4860": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nA partir do momento em que a Itália tome as medidas necessárias para dar cumprimento à presente directiva, os Estados-membros reconhecerão, para efeito do exercício das actividades referidas no artigo 1o da presente directiva, os diplomas, certificados e outros títulos de médico concedidos em Itália às pessoas que tenham iniciado a formação universitária de médico, o mais tardar, dezoito meses após a notificação da presente directiva, acompanhados de um atestado emitido pelas autoridades competentes italianas, comprovativo de que tais pessoas se consagraram, em Itália, efectiva e licitamente e a título principal, às actividades referidas no artigo 5o da Directiva 78/687/CEE durante, pelo menos, três anos consecutivos dos cinco anos que precederam a emissão do atestado e que tais pessoas estão autorizadas a exercer as referidas actividades nas mesmas condições que os titulares do diploma, certificado ou outro título referido na alínea f) do artigo 3o da presente directiva.\n\nFicam dispensadas da exigência da prática de três anos referida no primeiro parágrafo as pessoas que tenham feito com aproveitamento estudos de, pelo menos, três anos, comprovados pelas autoridades competentes como sendo equivalentes à formação referida no artigo 1o da Directiva 78/687/CEE."
+  },
+  "fb9b0dc27dd52727": {
+   "fragment_id": "CAPÍTULO VIII — DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — DISPOSIÇÕES FINAIS"
+  },
+  "a8914862eb94fdff": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\nOs Estados-membros que exijam aos seus próprios nacionais a realização de um estágio preparatório para poderem ser convencionados como dentistas numa instituição de seguro de doença podem impor a mesma obrigação aos nacionais dos outros Estados-membros durante um período de oito anos a contar da notificação da presente directiva. A duração do estágio não pode, todavia, exceder seis meses."
+  },
+  "2a593259fb777e9f": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\nO Estado-membro de acolhimento pode, em caso de dúvida justificada, exigir das autoridades competentes de outro Estado-membro a confirmação da autenticidade dos diplomas, certificados e outros títulos concedidos neste Estado-membro e referidos nos capítulos II, III e IV, bem como a confirmação do facto de o beneficiário ter cumprido todas as condições de formação previstas na Directiva 78/687/CEE."
+  },
+  "d40b0fd479706c68": {
+   "fragment_id": "Artigo 22o",
+   "type": "artigo",
+   "heading": "Artigo 22o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o\n\nOs Estados-membros designarão, no prazo fixado no no 1 do artigo 24o, as autoridades e organismos habilitados a conceder ou a receber os diplomas, certificados e outros títulos, bem como os documentos ou informações referidos na presente directiva, e informarão desse facto imediatamente os outros Estados-membros e a Comissão."
+  },
+  "a4f1a2196cffbcc3": {
+   "fragment_id": "Artigo 23o",
+   "type": "artigo",
+   "heading": "Artigo 23o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o\n\nA presente directiva é igualmente aplicável aos nacionais dos Estados-membros que, nos termos do Regulamento (CEE) no 1612/68, exerçam ou venham a exercer, como assalariados, uma das actividades referidas no artigo 1o."
+  },
+  "39c5a1e81b1824d7": {
+   "fragment_id": "Artigo 24o",
+   "type": "artigo",
+   "heading": "Artigo 24o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24o\n\n1. Os Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva no prazo de dezoito meses a contar da data da sua notificação. Desse facto informarão imediatamente a Comissão. Todavia, a Itália tomará tais medidas no prazo máximo de seis anos e, em qualquer caso, no momento em que tomar as medidas necessárias para dar cumprimento à Directiva 78/687/CEE.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "4eb65194ecd0d0c9": {
+   "fragment_id": "Artigo 25o",
+   "type": "artigo",
+   "heading": "Artigo 25o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25o\n\nSe num Estado-membro surgirem, na aplicação da presente directiva, dificuldades graves em certos domínios, a Comissão examinará tais dificuldades em colaboração com esse Estado e solicitará o parecer do Comité de Altos Funcionários da Saúde Pública instituído pela Decisão 75/365/CEE (5), com a última redacção que lhe foi dada pela Decisão 78/689/CEE (6).\n\nA Comissão submeterá ao Conselho, quando necessário, as propostas adequadas."
+  },
+  "83199332a848896a": {
+   "fragment_id": "Artigo 26o",
+   "type": "artigo",
+   "heading": "Artigo 26o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 25 de Julho de 1978.\n\nPelo Conselho\n\nO Presidente\n\nK. von DOHNANYI\n\n(1) JO no C 101 de 4. 8. 1970, p. 19.(2) JO no C 36 de 28. 3. 1970, p. 17.(3) JO no L 233 de 24. 8. 1978, p. 10.(4) JO no L 257 de 19. 10. 1968, p. 2.(5) JO no L 167 de 30. 6. 1975, p. 19.(6) JO no L 233 de 24. 8. 1978, p. 17."
+  },
+  "a8358311fb04feae": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1978L0686 — PT — 01.01.2007 — 008.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/378L0686) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/378L0686) [de 25 de Julho de 1978](http://publications.europa.eu/resource/celex/378L0686) [que tem por objectivo o reconhecimento mútuo dos diplomas, certificados e outros títulos de dentista e que inclui medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento e da livre prestação de serviços](http://publications.europa.eu/resource/celex/378L0686) [(78/686/CEE)](http://publications.europa.eu/resource/celex/378L0686) (JO L 233, 24.8.1978, p.1)\n\n**revogado por:**"
+  },
+  "d0ac73641a1fd1cc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1978L0686 — PT — 20.10.2007 — 009.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31978L0686) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31978L0686) [de 25 de Julho de 1978](http://publications.europa.eu/resource/celex/31978L0686) [que tem por objectivo o reconhecimento mútuo dos diplomas, certificados e outros títulos de dentista e que inclui medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento e da livre prestação de serviços](http://publications.europa.eu/resource/celex/31978L0686) [(78/686/CEE)](http://publications.europa.eu/resource/celex/31978L0686) (JO L 233, 24.8.1978, p.1)\n\n**revogado por:**\n\n- [Directiva 2005/36/CE do Parlamento Europeu e do Conselho de 7 de Setembro de 2005](http://publications.europa.eu/resource/celex/32005L0036) — L 255 — 22 — 30.9.2005"
+  }
+ }
+}

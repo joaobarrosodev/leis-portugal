@@ -1,0 +1,269 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990L0394:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0394-20040520",
+ "dre_path": null,
+ "source_lastmod": "2004-05-20",
+ "versions": [
+  {
+   "date": "1990-07-26",
+   "future": false,
+   "celex": "31990L0394",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122999d3848f58c2",
+    "3331e357c38269c7",
+    "46a59c2e7e7b2380",
+    "63473d894f4d67c7",
+    "730a10b8c7bbefdf",
+    "623cfdf263234252",
+    "a1cae9cbf324cb75",
+    "1cecff4edc953f10",
+    "a12732f4e97b25f1",
+    "45b56407f471ed2a",
+    "d3c144a863dce927",
+    "1efb8e4c7483a62f",
+    "519c02378fa747c8",
+    "0d54fd241f2f37af",
+    "0aad653cc3e396ac",
+    "1b7b3b4ff5b9b28a",
+    "ec216d93bb36a7f3",
+    "f21c23d3e4d7a6cd",
+    "88789d178d457226",
+    "9760ef72e3e3b6f0",
+    "6f4cbaedb3776c36",
+    "3d3ecc2e92ba4e85",
+    "e35eaf168ecd053f"
+   ]
+  },
+  {
+   "date": "2004-05-20",
+   "future": false,
+   "celex": "01990L0394-20040520",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime SECÇÃO I — DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 1º — Objecto",
+    "Suprime Artigo 2º — Definições",
+    "Suprime Artigo 3º — Âmbito de aplicação - identificação e avaliação dos",
+    "Suprime SECÇÃO II — OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+    "Suprime Artigo 5º — Disposições para evitar ou reduzir a exposição",
+    "Suprime Artigo 6º — Informação das autoridades responsáveis",
+    "Suprime Artigo 7º — Exposição imprevisível",
+    "Suprime Artigo 8º — Exposição previsível",
+    "Suprime Artigo 9º — Acesso às zonas de risco",
+    "Suprime Artigo 10º — Medidas de higiene e de protecção individual",
+    "Suprime Artigo 11º — Informação e formação dos trabalhadores",
+    "Suprime Artigo 12º — Informação dos trabalhadores",
+    "Suprime Artigo 13º — Consulta e participação dos trabalhadores",
+    "Suprime SECÇÃO III — DISPOSIÇÕES DIVERSAS",
+    "Suprime Artigo 14º — Vigilância médica",
+    "Suprime Artigo 15º — Registos",
+    "Suprime Artigo 16º — Valores-limite",
+    "Suprime Artigo 17º — Anexos",
+    "Suprime Artigo 18º — Exploração de dados",
+    "Suprime Artigo 19º — Disposições finais",
+    "Suprime Artigo 20º"
+   ],
+   "fragments": [
+    "01f6fa3dc7cf93e4"
+   ]
+  }
+ ],
+ "fragments": {
+  "122999d3848f58c2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 90/394/CEE do Conselho, de 28 de Junho de 1990, relativa à protecção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos durante o trabalho (sexta Directiva especial na acepção do nº 1 do artigo 16º da Directiva 89/391/CEE** *Jornal Oficial nº L 196 de 26/07/1990 p. 0001 - 0007 Edição especial finlandesa: Capítulo 5 Fascículo 4 p. 0208 Edição especial sueca: Capítulo 5 Fascículo 4 p. 0208*\n\nDIRECTIVA DO CONSELHO de 28 de Junho de 1990 relativa à protecção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos durante o trabalho (sexta directiva especial na acepção do no. 1 do artigo 16º da Directiva 89/391/CEE (90/394/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 118ºA,\n\nTendo em conta a proposta da Comissão (1), elaborada após consulta ao Comité Consultivo para a Segurança, Higiene e Protecção da Saúde no Local de Trabalho,\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o artigo 118ºA do Tratado prevê que o Conselho adopte, por meio de directiva, as prescrições mínimas para promover a melhoria, nomeadamente, do meio de trabalho e para garantir um melhor nível de protecção de segurança e da saúde dos trabalhadores;\n\nConsiderando que, nos termos do referido artigo, essas directivas evitam a imposição de restrições administrativas, financeiras e jurídicas susceptíveis de contrariar a criação e o desenvolvimento de pequenas e médias empresas;\n\nConsiderando que a resolução do Conselho, de 27 de Fevereiro de 1984, relativa a um segundo programa de acção das Comunidades Europeias em matéria de segurança e saúde no local de trabalho (4) prevê a elaboração de medidas de protecção a favor dos trabalhadores expostos a agentes cancerígenos;\n\nJO no. C 149 de 18. 6. 1990.\n\nConsiderando que a comunicação da Comissão sobre o seu programa no domínio da segurança, da higiene e da saúde no local de trabalho (5) prevê a adopção de directivas destinadas a garantir a segurança e a saúde dos trabalhadores;\n\nConsiderando que a observância das prescrições mínimas para garantir um melhor nível de segurança e de saúde em matéria de protecção dos trabalhardores contra os riscos ligados à exposição a agentes cancerígenos durante o trabalho constitui um imperativo para garantir a segurança e a saúde dos trabalhadores;\n\nConsiderando que a presente directiva é uma directiva especial na acepção do no. 1 do artigo 16º da Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho (6); que, por esse motivo, as disposições dessa directiva se aplicam plenamente ao domínio da exposição dos trabalhadores a agentes cancerígenos, sem prejuízo de disposições mais restritivas e/ou específicas contidas na presente directiva;\n\nConsiderando que a Directiva 67/548/CEE do Conselho, de 27 de Junho de 1967, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem das substâncias perigosas (7), com a última redacção que lhe foi dada pela Directiva 88/490/CEE (8), contém uma lista de substâncias perigosas, bem como especificações relativas às normas de classificação e rotulagem de cada substância;\n\nConsiderando que a Directiva 88/379/CEE do Conselho, de 7 de Junho de 1988, relativa à aproximação das disposições\n\nlegislativas, regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem dos preparados perigosos (9), com a última redacção que lhe foi dada pela Directiva 89/178/CEE (10), contém especificações sobre a classificação e as regras de rotulagem aplicáveis a esses preparados;\n\nConsiderando que o plano de acção de 1987/1989, adoptado no âmbito do programa «A Europa contra o cancro», prevê um apoio aos estudos europeus sobre os eventuais riscos cancerígenos de determinadas substâncias químicas;\n\nConsiderando que, embora os conhecimentos científicos actuais não permitam estabelecer limites abaixo dos quais os riscos para a saúde deixem de existir, a redução da exposição a agentes cancerígenos diminuirá, no entanto, esses riscos;\n\nConsiderando, contudo, que, a fim de contribuir para uma redução destes riscos, devem ser estabelecidos valores-limite e outras disposições directamente relacionadas para todos os agentes cancerígenos em relação aos quais a informação disponível, incluindo dados científicos e técnicos, o torne possível;\n\nConsiderando que devem ser tomadas medidas preventivas para protecção da segurança e da saúde dos trabalhadores expostos a agentes cancerígenos;\n\nConsiderando que a presente directiva estabelece as medidas especiais a tomar, específicas da exposição aos agentes cancerígenos;\n\nConsiderando que a presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno;\n\nConsiderando que, por força da Decisão 74/325/CEE (11), com a última redacção que lhe foi dada pelo Acto de Adesão de 1985, o Comité Consultivo para a Segurança, a Higiene e a Protecção da Saúde no Local de Trabalho deve ser consultado pela Comissão para a elaboração de propostas neste domínio.\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "3331e357c38269c7": {
+   "fragment_id": "SECÇÃO I — DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "SECÇÃO I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — DISPOSIÇÕES GERAIS"
+  },
+  "46a59c2e7e7b2380": {
+   "fragment_id": "Artigo 1º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º — Objecto\n\n1. A presente directiva, que constitui a sexta directiva especial na acepção do no. 1 do artigo 16º da Directiva 89/391/CEE, tem por objecto a protecção dos trabalhadores contra os riscos para a segurança e a saúde, incluindo a prevenção de tais riscos, a que se encontram expostos ou são susceptíveis de o estar durante o trabalho, em virtude de exposição a agentes cancerígenos.\n\nA presente directiva fixa as prescrições mínimas especiais nesto domínio, incluindo valores-limite.\n\n2. A presente directiva não se aplica aos trabalhadores expostos unicamente às radiações a que alude o Tratado que institui a Comunidade Europeia da Energia Atómica.\n\n3. A Directiva 89/391/CEE aplica-se plenamente ao conjunto do domínio referido no no. 1, sem prejuízo de disposições mais restritivas e/ou específicas contidas na presente directiva."
+  },
+  "63473d894f4d67c7": {
+   "fragment_id": "Artigo 2º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — Definições\n\nPara efeitos da presente directiva, são agentes cancerígenos:\n\na) As substâncias a que foi atribuída, no anexo I da Directiva 67/548/CEE, a menção R 45 «pode causar cancro»;\n\nb)\n\nUm preparado que, nos termos do no. 5, alínea j), do artigo 3º da Directiva 88/379/CEE, deve ser rotulado com a menção R 45 «pode causar cancro»;\n\nc)\n\nUma substância, um preparado ou um processo, referidos no anexo I, bem como uma substância ou um preparado que se libertem nos processos referidos no mesmo anexo."
+  },
+  "730a10b8c7bbefdf": {
+   "fragment_id": "Artigo 3º — Âmbito de aplicação - identificação e avaliação dos",
+   "type": "artigo",
+   "heading": "Artigo 3º — Âmbito de aplicação - identificação e avaliação dos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º — Âmbito de aplicação - identificação e avaliação dos\n\nriscos\n\n1. A presente directiva é aplicável às actividades em que os trabalhadores estejam expostos ou sejam susceptíveis de estar expostos a agentes cancerígenos em resultado do seu trabalho.\n\n2. Em relação a qualquer actividade susceptível de envolver um risco de exposição a agentes cancerígenos, devem ser determinados a natureza, o grau e o tempo de exposição dos trabalhadores, a fim de poderem ser avaliados os riscos para a segurança e a saúde dos trabalhadores e determinadas as medidas a tomar.\n\nEsta avaliação dever ser regularmente renovada e, de qualquer forma, sempre que se verifique qualquer alteração das condições susceptíveis de afectar a exposição dos trabalhadores aos agentes cancerígenos.\n\nA entidade patronal deve fornecer às autoridades responsáveis, a pedido destas, os elementos que serviram para essa avaliação.\n\n3. Além disso, por ocasião da avaliação do risco, devem ser tomadas em conta todas as exposições importantes, como as que têm efeitos nocivos sobre a pele.\n\n4. Na avaliação referida no no. 2, as entidas patronais prestarão especial atenção aos eventuais efeitos sobre a segurança ou a saúde dos trabalhadores expostos a riscos\n\nparticularmente sensíveis e tomarão nomeadamente em consideração a oportunidade de não ocuparem esses trabalhadores em zonas em que possam estar em contacto com agentes cancerígenos."
+  },
+  "623cfdf263234252": {
+   "fragment_id": "SECÇÃO II — OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+   "type": "divisao",
+   "heading": "SECÇÃO II — OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — OBRIGAÇÕES DAS ENTIDADES PATRONAIS\n\nArtigo 4°. Redução e substituição\n\n1. A entidade patronal deve reduzir a utilização de agentes cancerígenos no local de trabalho, nomeadamente substituindo-os, tanto quanto tecnicamente for possível, por substâncias, preparados ou processos que, nas suas condições de utilização, não sejam ou sejam menos perigosos para a saúde ou, se for caso disso, para a segurança dos trabalhadores.\n\n2. A entidade patronal deve comunicar o resultado das suas investigações à autoridade responsável, a pedido\n\ndesta."
+  },
+  "a1cae9cbf324cb75": {
+   "fragment_id": "Artigo 5º — Disposições para evitar ou reduzir a exposição",
+   "type": "artigo",
+   "heading": "Artigo 5º — Disposições para evitar ou reduzir a exposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Disposições para evitar ou reduzir a exposição\n\n1. Se os resultados da avaliação referida no no. 2 do\n\nartigo 3º revelarem um risco para a segurança ou a saúde dos trabalhadores, deve evitar-se a exposição desses trabalhadores.\n\n2. Se não for tecnicamente possível substituir o agente cancerígeno por uma substância, um preparado ou um processo que, nas condições de utilização, não seja ou seja menos perigoso para a segurança ou a saúde, a entidade patronal garantirá que a produção e a utilização do agente cancerígeno se efectuem em sistema fechado, na medida em que isso seja tecnicamente possível.\n\n3. Se não for tecnicamente possível utilizar um sistema fechado, a entidade patronal garantirá que o nível de exposição dos trabalhadores seja reduzido a um valor tão beixo quanto tecnicamente possível.\n\n4. Sempre que seja utilizado um agente cancerígeno, a entidade patronal aplicará todas as seguintes medidas:\n\na) Limitação das quantidades de agentes cancerígenos no local de trabalho;\n\nb)\n\nLimitação ao mínimo do número de trabalhadores expostos ou susceptíveis de o ser;\n\nc)\n\nConcepção de processos de trabalho e de medidas técnicas com o objectivo de evitar ou minimizar a libertação de agentes cancerígenos no local de trabalho;\n\nd)\n\nEvacuação dos agentes cancerígenos na fonte, aspiração local ou ventilação geral adequadas, compatíveis com a necessidade de protecção da saúde pública e do ambiente;\n\ne)\n\nUso de métodos existentes apropriados de medição de agentes cancerígenos, nomeadamente de detecção precoce de exposições anormais devidas a um incidente imprevisível ou a um acidente;\n\na)\n\nf)\n\nAplicação de processos e métodos de trabalhos adequados;\n\ng)\n\nMedidas de protecção colectivas e/ou, nos casos em que a exposição não possa ser evitada por outros meios, medidas de protecção individual;\n\nh)\n\nMedidas de higiene, nomeadamente a limpeza periódica dos pavimentos, paredes e outras superfícies;\n\ni)\n\nInformação dos trabalhadores;\n\nj)\n\nDelimitação das zonas de risco e uso de adequada sinalização de aviso e de segurança, incluindo sinais de proibição de fumar em áreas onde os trabalhadores estejam ou possam vir a estar expostos a agentes cancerígenos;\n\nk)\n\nInstalação de dispositivos para casos de emergência susceptíveis de provocar exposições anormalmente elevadas;\n\nl)\n\nMeios que permitam a armazenagem, o manuseamento\n\ne o transporte sem riscos, nomeadamente mediante a utilização de recipientes herméticos e rotulados de forma clara, distinta e visível;\n\nm)\n\nMeios seguros de recolha, armazenagem e evacuação dos resíduos pelos trabalhadores, incluindo o uso de recipientes herméticos rotulados de forma clara, distinta e visível."
+  },
+  "1cecff4edc953f10": {
+   "fragment_id": "Artigo 6º — Informação das autoridades responsáveis",
+   "type": "artigo",
+   "heading": "Artigo 6º — Informação das autoridades responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º — Informação das autoridades responsáveis\n\nSe os resultados da avaliação referida no no. 2 do artigo 3º revelarem um risco para a segurança ou a saúde dos trabalhadores, as entidades patronais colocarão à disposição das autoridades responsáveis, a seu pedido, as informações adequadas sobre:\n\na) As actividades e/ou processos industriais levados a cabo, incluindo os motivos por que são utilizados agentes cancerígenos;\n\nb)\n\nAs quantidades de substâncias ou preparados fabricados ou utilizados que contenham agentes cancerígenos;\n\nc)\n\nO número de trabalhadores expostos;\n\nd)\n\nAs medidas preventivas tomadas;\n\ne)\n\nO tipo de equipamento de protecção a utilizar;\n\nf)\n\nA natureza e o grau da exposição;\n\ng)\n\nOs casos de substituição."
+  },
+  "a12732f4e97b25f1": {
+   "fragment_id": "Artigo 7º — Exposição imprevisível",
+   "type": "artigo",
+   "heading": "Artigo 7º — Exposição imprevisível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — Exposição imprevisível\n\n1. Em caso de acontecimentos imprevisíveis ou de acidentes susceptíveis de provocar uma exposição anormal dos trabalhadores, a entidade patronal deve informar os trabalhadores desses factos.\n\n2. Até à normalização da situação e enquanto não se eliminarem as causas da exposição anormal:\n\na) Apenas serão autorizados a trabalhar na zona afectada os trabalhadores indispensáveis à execução das reparações e outros trabalhos necessários;\n\nb)\n\nSerá posto à disposição dos trabalhadores em causa, e deve ser por eles utilizado, vestuário de protecção e equipamento individual de protecção respiratória; a exposição não pode ter um carácter permanente e será limitada ao estritamente necessário para cada trabalhador;\n\nc)\n\nOs trabalhadores não protegidos não serão autorizados a trabalhar na área afectada."
+  },
+  "45b56407f471ed2a": {
+   "fragment_id": "Artigo 8º — Exposição previsível",
+   "type": "artigo",
+   "heading": "Artigo 8º — Exposição previsível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º — Exposição previsível\n\n1. Em relação a certas actividades, tais como a manuten-\n\nção, para as quais seja de prever a possibilidade de um\n\naumento significativo da exposição e em relação às quais se encontram já esgotadas todas as possibilidades de tomar medidas técnicas preventivas suplementares para limitar essa exposição, a entidade patronal determinará, após consulta dos trabalhadores e/ou dos seus representantes na empresa ou no estabelecimento e sem prejuízo da responsabilidade da entidade patronal, as medidas necessárias para reduzir o mais possível a duração da exposição dos trabalhadores e para assegurar a sua protecção durante a realização dessas actividades.\n\nEm cumprimento do primeiro parágrafo, deve ser posto à disposição dos trabalhadores em causa vestuário de protecção e equipamento individual de protecção respiratória, que devem ser utilizados enquanto subsistir a exposição anormal; essa exposição não pode ter um carácter permanente e será limitada ao estritamente necessário para cada trabalhador.\n\n2. Devem ser tomadas as medidas adequadas para que as zonas onde decorrem as actividades referidas no primeiro parágrafo do no. 1 se encontrem claramente delimitadas e assinaladas ou para que, por outros meios, se impeça o acesso de pessoas não autorizadas a esses locais."
+  },
+  "d3c144a863dce927": {
+   "fragment_id": "Artigo 9º — Acesso às zonas de risco",
+   "type": "artigo",
+   "heading": "Artigo 9º — Acesso às zonas de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º — Acesso às zonas de risco\n\nAs entidades patronais tomarão as medidas adequadas para garantir que as zonas onde decorrem actividades em relação\n\nàs quais os resultados da avaliação referida no no. 2 do artigo 3º revelem um risco para a segurança ou para a saúde dos trabalhadores apenas sejam acessíveis aos trabalhadores que nelas tenham de penetrar, por força do seu trabalho ou das suas funções."
+  },
+  "1efb8e4c7483a62f": {
+   "fragment_id": "Artigo 10º — Medidas de higiene e de protecção individual",
+   "type": "artigo",
+   "heading": "Artigo 10º — Medidas de higiene e de protecção individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º — Medidas de higiene e de protecção individual\n\n1. Relativamente a todas as actividades quanto às quais existam riscos de contaminação por agentes cancerígenos, as entidades patronais devem tomar medidas apropriadas com os seguintes objectivos:\n\na) Impedir que os trabalhadores comam, bebam e fumem nas zonas de trabalho onde se verifique risco de contaminação por agentes cancerígenos;\n\nb)\n\nFornecer aos trabalhadores vestuário de protecção adequado ou qualquer outro vestuário especial adequado.\n\nPrever locais distintos para arrumação do vestuário de trabalho ou de protecção, por um lado, e do vestuário normal, por outro;\n\nc)\n\nPôr à disposição dos trabalhadores instalações sanitárias e de higiene apropriadas;\n\nd)\n\nColocar correctamente os equipamentos de protecção num local determinado.\n\nVerificar e limpar esses equipamentos, se possível antes e, obrigatoriamente, após cada utilização.\n\nReparar e substituir os equipamentos defeituosos antes de nova utilização.\n\n2. O custo destas medidas não pode ser suportado pelos trabalhadores."
+  },
+  "519c02378fa747c8": {
+   "fragment_id": "Artigo 11º — Informação e formação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 11º — Informação e formação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º — Informação e formação dos trabalhadores\n\n1. A entidade patronal tomará as medidas adequadas para que os trabalhadores e/ou os seus representantes na empresa ou no estabelecimento recebam uma formação simultaneamente suficiente e adequada, com base em todos os dados disponíveis, nomeadamente sob a forma de informações e instruções, sobre:\n\na) Os riscos potenciais para a saúde, incluindo os riscos adicionais resultantes do consumo de tabaco;\n\nb)\n\nAs precauções a tomar para evitar a exposição;\n\nc)\n\nAs normas em matéria de higiene;\n\nd)\n\nO emprego e a utilização dos equipamentos e do vestuário de protecção;\n\ne)\n\nAs medidas a tomar pelos trabalhadores, nomeadamente pelo pessoal de intervenção, em caso de incidente e para a prevenção de incidentes.\n\nEsta formação deve ser:\n\n- adaptada à evolução dos riscos e ao aparecimento de novos riscos,\n\n- periodicamente repetida, se necessário.\n\n2. A entidade patronal deve fornecer aos trabalhadores informações sobre as instalações e os recipientes a elas anexos que contenham agentes cancerígenos, assegurar que todos os recipientes, embalagens e instalações contendo agentes cancerígenos sejam rotulados de forma clara e legível e afixar sinais de perigo bem visíveis."
+  },
+  "0d54fd241f2f37af": {
+   "fragment_id": "Artigo 12º — Informação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 12º — Informação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º — Informação dos trabalhadores\n\nSerão tomadas medidas adequadas para assegurar que:\n\na) Os trabalhadores e/ou os seus representantes na empresa ou no estabelecimento possam verificar a aplicação das disposições da presente directiva ou participem no seu processo de aplicação, nomeadamente no que diz\n\nrespeito:\n\nii) Às consequências sobre a segurança e a saúde dos trabalhadores, decorrentes da escolha, emprego e utilização de vestuário e equipamentos de protecção, sem prejuízo das responsabilidades da entidade patronal na determinação da eficácia desse vestuário e equipamentos;\n\nii) Às medidas determinadas pela entidade patronal referidas no no. 1, primeiro parágrafo, do artigo 8º, sem prejuízo das responsabilidades da entidade patronal na respectiva determinação;\n\nb)\n\nOs trabalhadores e/ou os seus representantes na empresa ou no estabelecimento sejam informados tão rapidamente quanto possível de exposições anormais, incluindo as referidas no artigo 8º, das suas causas e das medidas tomadas ou a tomar a fim de sanar a situação;\n\nc)\n\nA entidade patronal mantenha uma lista actualizada dos trabalhadores afectos a actividades em relação às quais a avaliação efectuada nos termos do no. 2 do artigo 3º revele um risco para a segurança ou a saúde dos trabalhadores, com a indicação, se se dispuser dessa informação, do nível de exposição a que estiveram sujeitos;\n\nd)\n\nO médico e/ou a autoridade responsável, assim como quaisquer outras pessoas com responsabilidades em matéria de segurança ou de saúde no local de trabalho, tenham acesso à lista referida na alínea c);\n\ne)\n\nCada trabalhador tenha acesso às informações contidas na lista que lhe digam pessoalmente respeito;\n\nf)\n\nOs trabalhadores e/ou os seus representantes na empresa ou no estabelecimento tenham acesso às informações colectivas anónimas."
+  },
+  "0aad653cc3e396ac": {
+   "fragment_id": "Artigo 13º — Consulta e participação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 13º — Consulta e participação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º — Consulta e participação dos trabalhadores\n\nA consulta e participação dos trabalhadores e/ou dos seus representantes será efectuada, nos termos do artigo 11º da Directiva 89/391/CEE, sobre as matérias abrangidas pela presente directiva, incluindo os seus anexos."
+  },
+  "1b7b3b4ff5b9b28a": {
+   "fragment_id": "SECÇÃO III — DISPOSIÇÕES DIVERSAS",
+   "type": "divisao",
+   "heading": "SECÇÃO III — DISPOSIÇÕES DIVERSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — DISPOSIÇÕES DIVERSAS"
+  },
+  "ec216d93bb36a7f3": {
+   "fragment_id": "Artigo 14º — Vigilância médica",
+   "type": "artigo",
+   "heading": "Artigo 14º — Vigilância médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º — Vigilância médica\n\n1. Os Estados-membros, de acordo com a legislação e a prática nacionais, estabelecerão medidas para assegurar uma adequada vigilância sanitária dos trabalhadores relativamente aos quais os resultados da avaliação referida no no. 2 do artigo 3º revelam um risco para a segurança ou saúde.\n\n2. As medidas referidas no no. 1 devem ser de natureza a permitir que todos os trabalhadores possam ser submetidos, caso tal se justifique, a uma vigilância médica adequada:\n\n- antes da exposição,\n\n- posteriormente, a intervalos regulares.\n\nEssas medidas devem ser de molde a permitir a aplicação directa de medidas médicas individuais e de medicina do trabalho.\n\n3. Se um trabalhador for atingido por uma anomalia que possa ter sido provocada pela exposição a agentes cancerígenos, o médico ou a autoridade responsável pela vigilância médica dos trabalhadores pode exigir que outros trabalhadores que tenham estado sujeitos a uma exposição análoga sejam submetidos a vigilância médica.\n\nNesse caso, procede-se a uma nova avaliação do risco de exposição, nos termos do no. 2 do artigo 3º\n\n4. Sempre que for garantida uma vigilância médica, será aberto um boletim individual de saúde e o médico ou a autoridade responsável pela vigilância proporá todas as medidas individuais de protecção ou de prevenção a tomar em relação a todos os trabalhadores.\n\n5. Devem ser fornecidos aos trabalhadores informações e conselhos relativos à vigilância médica a que possam ser submetidos após a cessação da exposição.\n\n6. Nos termos das legislações e/ou práticas nacionais:\n\n- os trabalhadores terão acesso aos resultados da vigilância médica que lhes diga respeito e\n\n- os trabalhadores em causa ou a entidade patronal podem pedir a revisão dos resultados da vigilância médica.\n\n7. Constam do anexo II recomendações práticas relativas à vigilância médica dos trabalhadores.\n\n8. Nos termos das legislações e/ou práticas nacionais, devem ser notificados à autoridade responsável todos os casos de cancro identificados como resultantes da exposição a um agente cancerígeno durante o trabalho."
+  },
+  "f21c23d3e4d7a6cd": {
+   "fragment_id": "Artigo 15º — Registos",
+   "type": "artigo",
+   "heading": "Artigo 15º — Registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º — Registos\n\n1. A lista referida na alínea c) do artigo 12º e o boletim médico referido no no. 4 do artigo 14º serão conservados durante pelo menos 40 anos após a cessação da exposição, nos termos da legislação e/ou prática nacionais.\n\n2. Esses documentos serão postos à disposição das autoridades responsáveis em caso de cessação da actividade da empresa, nos termos da legislação e/ou prática nacionais."
+  },
+  "88789d178d457226": {
+   "fragment_id": "Artigo 16º — Valores-limite",
+   "type": "artigo",
+   "heading": "Artigo 16º — Valores-limite",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º — Valores-limite\n\n1. O Conselho, de acordo com o processo previsto no artigo 118ºA do Tratado, estabelecerá valores-limite por meio de directivas, com base na informação disponível, incluindo dados científicos e técnicos, relativamente a todos os agentes cancerígenos para os quais isso seja possível e, quando necessário, outras disposições directamente relacionadas.\n\n2. Os valores-limite e outras disposições directamente relacionadas constarão do anexo III."
+  },
+  "9760ef72e3e3b6f0": {
+   "fragment_id": "Artigo 17º — Anexos",
+   "type": "artigo",
+   "heading": "Artigo 17º — Anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º — Anexos\n\n1. Os anexos I e III só podem ser alterados de acordo com o processo previsto no artigo 118ºA do Tratado.\n\n2. As adaptações de carácter exclusivamente técnico a introduzir no anexo II em função do progresso técnico, da\n\nevolução da regulamentação ou das especificações internacionais e dos conhecimentos no domínio dos agentes cancerígenos serão adoptadas de acordo com o processo previsto no artigo 17º da Directiva 89/391/CEE."
+  },
+  "6f4cbaedb3776c36": {
+   "fragment_id": "Artigo 18º — Exploração de dados",
+   "type": "artigo",
+   "heading": "Artigo 18º — Exploração de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º — Exploração de dados\n\nAs explorações efectuadas pelas autoridades nacionais responsáveis com base nas informações referidas no no. 8 do artigo 14º serão mantidas à disposição da Comissão."
+  },
+  "3d3ecc2e92ba4e85": {
+   "fragment_id": "Artigo 19º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 19º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º — Disposições finais\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar em 31 de Dezembro de 1992.\n\nNo caso de, após a notificação da presente directiva, as Directivas 67/548/CEE ou 88/379/CEE virem a ser alteradas, no que diz respeito às substâncias e preparados referidos nas alíneas a) e b) do artigo 2º, por directivas modificativas, os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para que as alterações em questão sejam introduzidas nas disposições a que se refere o primeiro parágrafo, nos prazos previstos para a entrada em vigor das referidas directivas modificativas.\n\nOs Estados-membros informarão imediatamente a Comissão da entrada em vigor das disposições referidas no presente número.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno já adoptadas ou que adoptarem no domínio da presente directiva."
+  },
+  "e35eaf168ecd053f": {
+   "fragment_id": "Artigo 20º",
+   "type": "artigo",
+   "heading": "Artigo 20º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 28 de Junho de 1990.\n\nPelo Conselho\n\nO Presidente\n\nM. GEOGHEGAN-QUINN\n\n(1) JO no. C 34 de 8. 2. 1988, p. 9.\n\n(2) JO no. C 158 de 26. 6. 1989, p. 121, e(3) JO no. C 208 de 8. 8. 1988, p. 43.\n\n(4) JO no. C 67 de 8. 3. 1984, p. 2.(5) JO no. C 28 de 3. 2. 1988, p. 1.\n\n(6) JO no. L 183 de 29. 6. 1989, p. 1.\n\n(7) JO no. 196 de 16. 8. 1967, p. 1.\n\n(8) JO no. L 259 de 19. 9. 1988, p. 1.(9) JO no. L 187 de 16. 7. 1988, p. 14.\n\n(10) JO no. L 64 de 8. 3. 1989, p. 18.\n\n(11) JO no. L 185 de 9. 7. 1974, p. 15.\n\nANEXO I Lista de substâncias, preparados e processos (alínea c) do artigo 2º) 1. Fabrico de auramina.\n\n2. Trabalhos susceptíveis de provocar a exposição aos hidrocarbonetos policíclicos aromáticos presentes na fuligem, no alcatrão, no pez, nos fumos ou nas poeiras da hulha.\n\n3. Trabalhos susceptíveis de provocar a exposição às poeiras, fumos ou névoas produzidos durante a calcinação e a electrorrefinação de mates de níquel.\n\n4. Processo do ácido forte durante o fabrico do álcool isopropílico.\n\nANEXO II Recomendações práticas para a vigilância médica dos trabalhadores (no. 7 do artigo 14º) 1. O médico e/ou a entidade responsável pela vigilância médica dos trabalhadores expostos a agentes cancerígenos devem conhecer bem as condições ou circunstâncias de exposição de cada trabalhador.\n\n2. A vigilância médica dos trabalhadores deve ser assegurada de acordo com os princípios e práticas da medicina do trabalho; e deve incluir pelo menos as seguintes medidas:\n\n- registo da história clínica e profissional de cada trabalhador,\n\n- entrevista pessoal,\n\n- eventualmente, vigilância biológica, bem como rastreio de efeitos precoces e reversíveis.\n\nPodem ser tomadas outras medidas em relação a cada trabalhador sujeito a vigilância médica, à luz dos conhecimentos mais recentes em medicina do trabalho.\n\nANEXO III Valores-limite e outras disposições directamente relacionadas (Artigo 16º) a. Valores-limite\n\np. m.\n\nb. Outras disposições directamente relacionadas\n\np. m."
+  },
+  "01f6fa3dc7cf93e4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1990L0394 — PT — 20.05.2004 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31990L0394) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31990L0394) [de 28 de Junho de 1990](http://publications.europa.eu/resource/celex/31990L0394) [relativa à protecção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos durante o trabalho (sexta directiva especial na acepção do nº 1 do artigo 16º da Directiva 89/391/CEE)](http://publications.europa.eu/resource/celex/31990L0394) [(90/394/CEE)](http://publications.europa.eu/resource/celex/31990L0394) (JO L 196, 26.7.1990, p.1)\n\n**revogado por:**\n\n- [Rectificação à Directiva 2004/37/CE do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, relativa à protecção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho (sexta directiva especial nos termos do n.o 1 do artigo 16.o da Directiva 89/391/CEE do Conselho) (versão codificada) (Jornal Oficial da União Europeia L 158 de 30 de Abril de 2004)](http://publications.europa.eu/resource/celex/32004L0037) — L 229 — 23 — 29.6.2004 — [Directiva 2004/37/CE do Parlamento Europeu e do Conselho de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004L0037) — L 158 — 50 — 30.4.2004"
+  }
+ }
+}

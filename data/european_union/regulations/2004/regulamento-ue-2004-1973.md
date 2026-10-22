@@ -36,6 +36,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-01-01'
+version_history:
+  file: regulamento-ue-2004-1973.versoes.json
+  count: 2
+  source_lastmod: '2010-01-01'
+  versions:
+  - date: '2004-11-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO 1
+    - Suprime ÂMBITO DE APLICAÇÃO E DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Condições para o pagamento
+    - Suprime Artigo 3.º — Comunicações
+    - Suprime Artigo 4.º — Coeficiente de redução
+    - Suprime CAPÍTULO 2
+    - Suprime PRÉMIO ESPECÍFICO À QUALIDADE PARA O TRIGO DURO
+    - Suprime Artigo 5.º — Exame das variedades
+    - Suprime Artigo 6.º — Métodos de análise
+    - Suprime Artigo 7.º — Quantidade de sementes certificadas
+    - Suprime Artigo 8.º — Publicações e comunicações
+    - Suprime Artigo 9.º — Validade
+    - Suprime Artigo 10.º — Medidas transitórias
+    - Suprime CAPÍTULO 3
+    - Suprime PRÉMIO ÀS PROTEAGINOSAS
+    - Suprime Artigo 11.º — Mistura de culturas cerealíferas e proteaginosas
+    - Suprime CAPÍTULO 4
+    - Suprime PAGAMENTO ESPECÍFICO PARA O ARROZ
+    - Suprime Artigo 12.º — Datas-limite de sementeira
+    - Suprime Artigo 13.º — Coeficiente de redução
+    - Suprime Artigo 14.º — Comunicações
+    - Suprime CAPÍTULO 5
+    - Suprime PAGAMENTO POR SUPERFÍCIE PARA OS FRUTOS DE CASCA RIJA
+    - Suprime Artigo 15.º — Condições de elegibilidade para a ajuda comunitária
+    - Suprime Artigo 16.º — Condições de elegibilidade para a ajuda nacional
+    - Suprime Artigo 17.º — Comunicações
+    - Suprime Artigo 18.º — Medidas transitórias
+    - Suprime CAPÍTULO 6
+    - Suprime AJUDA À BATATA PARA FÉCULA
+    - Suprime Artigo 19.º — Elegibilidade
+    - Suprime Artigo 20.º — Preço mínimo
+    - Suprime Artigo 21.º — Pagamento
+    - Suprime CAPÍTULO 7
+    - Suprime PRÉMIO AOS PRODUTOS LÁCTEOS E PAGAMENTO COMPLEMENTAR
+    - Suprime Artigo 22.º — Casos de inactividade
+    - Suprime CAPÍTULO 8
+    - Suprime AJUDA ÀS CULTURAS ENERGÉTICAS
+    - Suprime Secção 1
 identifiers:
   celex: 32004R1973
   eli: http://data.europa.eu/eli/reg/2004/1973/oj
@@ -50,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7d9b9280-eb14-4d59-93fc-c8342168044f.0016
   content_url: http://publications.europa.eu/resource/cellar/77242a49-a4c5-4ce9-8289-81cf16505aad.0018.04/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R1973-20100101
-  retrieved_at: '2026-10-22T02:36:51Z'
+  retrieved_at: '2026-10-22T14:59:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-06-04T02:57:18.251+02:00'
 integrity:
@@ -59,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:51Z'
-  notes: Texto consolidado 02004R1973-20100101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:11Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2004-1973.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -441,16 +494,24 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:51Z'
+  checked_at: '2026-10-22T14:59:11Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02004R1973-20050101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R1973-20050527: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R1973-20050801: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R1973-20060106: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R1973-20060219: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R1973-20060429: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R1973-20060819: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R1973-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R1973-20080101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R1973-20090101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003L0011:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0011-20030215",
+ "dre_path": null,
+ "source_lastmod": "2003-02-15",
+ "versions": [
+  {
+   "date": "2003-02-15",
+   "future": false,
+   "celex": "02003L0011-20030215",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "de878e3eea6b8c08",
+    "3b0baed36a58f456",
+    "127fff2185f5c0a8",
+    "d1014cbd708bea84",
+    "0af1c35e216fd3bd",
+    "985b210ea6705796"
+   ]
+  }
+ ],
+ "fragments": {
+  "de878e3eea6b8c08": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "2003L0011 — PT — 15.02.2003 — 000.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0011:PT:NOT) [DIRECTIVA 2003/11/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de Fevereiro de 2003 que altera pela vigésima quarta vez a Directiva 76/769/CEE do Conselho relativa à limitação da colocação no mercado e da utilização de algumas substâncias e preparações perigosas (éter pentabromodifenílico, éter octabromodifenílico)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0011:PT:NOT) (JO L 042, 15.2.2003, p.45)\n\nRectificado por:\n\n[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0011R(01):PT:NOT) [Rectificação, JO L 170, 9.7.2003, p. 31 (03/11)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0011R(01):PT:NOT)\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0011:PT:NOT)\n\nDIRECTIVA 2003/11/CE DO PARLAMENTO EUROPEU E DO CONSELHO\n\nde 6 de Fevereiro de 2003\n\nque altera pela vigésima quarta vez a Directiva 76/769/CEE do Conselho relativa à limitação da colocação no mercado e da utilização de algumas substâncias e preparações perigosas (éter pentabromodifenílico, éter octabromodifenílico)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 95.o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/0a566c4b-75ab-459b-8546-dbae21493f1b.0010.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([2](http://publications.europa.eu/resource/cellar/0a566c4b-75ab-459b-8546-dbae21493f1b.0010.02/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.o do Tratado ([3](http://publications.europa.eu/resource/cellar/0a566c4b-75ab-459b-8546-dbae21493f1b.0010.02/DOC_1#E0003)), à luz do texto conjunto aprovado pelo Comité de Conciliação em 8 de Novembro de 2002,\n\n(1) Nos termos do artigo 14.o do Tratado, deve ser estabelecido um espaço sem fronteiras internas no qual a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais é assegurada.\n\n(2) Os riscos para o ambiente decorrentes do éter pentabromodifenílico (pentaBDE) e éter octabromodifenílico (octaBDE) foram avaliados no âmbito do Regulamento (CEE) n.o 793/93 do Conselho, de 23 de Março de 1993, relativo à avaliação e controlo dos riscos ambientais associados às substâncias existentes ([4](http://publications.europa.eu/resource/cellar/0a566c4b-75ab-459b-8546-dbae21493f1b.0010.02/DOC_1#E0004)). As avaliações dos riscos identificaram uma necessidade de se reduzirem os riscos destas substâncias para o ambiente provenientes do pentaBDE e do octaBDE. Nos seus pareceres de 4 de Fevereiro de 2000 e de Outubro de 2002, o Comité Científico da Toxicidade, da Ecotoxicidade e do Ambiente (CSTEE) confirmou as conclusões das avaliações do pentaBDE e do octaBDE quanto à necessidade de se reduzirem os riscos para proteger o ambiente. Além disso, no seu parecer de 19 de Junho de 2000, o CSTEE confirmou as preocupações relativas à exposição ao pentaBDE das crianças amamentadas e que os níveis cada vez mais elevados do pentaBDE no leite materno podem ser devidos a uma utilização ainda não identificada.\n\n(3) A Comissão aprovou recomendações, no âmbito do Regulamento (CEE) n.o 793/93, relativas a uma estratégia de redução dos riscos decorrentes do pentaBDE ([5](http://publications.europa.eu/resource/cellar/0a566c4b-75ab-459b-8546-dbae21493f1b.0010.02/DOC_1#E0005)) e do octaBDE ([6](http://publications.europa.eu/resource/cellar/0a566c4b-75ab-459b-8546-dbae21493f1b.0010.02/DOC_1#E0006)), prevendo limitações relativas à sua comercialização e utilização para controlar os riscos para o ambiente. Essas recomendações também previram que todas as medidas tivessem em conta as preocupações relativas às crianças expostas por via do leite materno.\n\n(4) De modo a proteger a saúde e o ambiente, a colocação no mercado e a utilização do pentaBDE e do octaBDE e a comercialização de artigos contendo uma ou ambas essas substâncias deveriam ser proibidas.\n\n(5) A presença do pentaBDE e octaBDE em concentrações superiores a 0,1 % pode ser identificada por meio de técnicas analíticas padronizadas tais como a CG-EM (cromatografia gasosa/espectrometria de massa). Estas técnicas permitem fazer uma distinção entre as qualidades técnicas do octaBDE e do pentaBDE.\n\n(6) A avaliação do risco do decaBDE foi concluída em Agosto de 2002 e revelou um certo número de incertezas relativas aos possíveis efeitos desta substância no ambiente. Deveriam ser tomadas pela Comunidade sem demora medidas de redução dos riscos e uma estratégia de redução de riscos deveria ser criada imediatamente. A Comissão espera dispor dos resultados da estratégia de redução de riscos o mais tardar até 30 de Junho de 2003. Deveria então proceder à avaliação desses riscos e propor medidas adequadas e estritas destinadas a controlar os riscos identificados. O Parlamento Europeu e o Conselho deveriam considerar esta proposta sem demora. As restrições aprovadas pela Comunidade em matéria de comercialização e utilização de decaBDE entrarão em vigor a curto prazo, salvo se os resultados dos testes realizados no âmbito das ulteriores avaliações de risco resolverem as actuais incertezas através da conclusão de que o decaBDE não constitui motivo de preocupação.\n\n(7) A presente directiva não afecta a legislação comunitária relativa aos requisitos mínimos para a protecção dos trabalhadores contidos na Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho ([7](http://publications.europa.eu/resource/cellar/0a566c4b-75ab-459b-8546-dbae21493f1b.0010.02/DOC_1#E0007)) e em directivas individuais que nela se baseiam, em especial a Directiva 90/394/CEE do Conselho, de 28 de Junho de 1990, relativa à protecção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos durante o trabalho (sexta Directiva especial na acepção do n.o 1 do artigo 16.o da Directiva 89/391/CEE) ([8](http://publications.europa.eu/resource/cellar/0a566c4b-75ab-459b-8546-dbae21493f1b.0010.02/DOC_1#E0008)) e a Directiva 98/24/CE do Conselho, de 7 de Abril de 1998, relativa à protecção da segurança e da saúde dos trabalhadores contra os riscos ligados à exposição a agentes químicos no trabalho (décima-quarta directiva especial na acepção do n.o 1 do artigo 16.o da Directiva 89/391/CEE) ([9](http://publications.europa.eu/resource/cellar/0a566c4b-75ab-459b-8546-dbae21493f1b.0010.02/DOC_1#E0009)),\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "3b0baed36a58f456": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 76/769/CEE é alterado em conformidade com o anexo da presente directiva."
+  },
+  "127fff2185f5c0a8": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros adoptarão e publicarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar até 15 de Fevereiro de 2004. Desse facto informarão imediatamente a Comissão.\n\nOs Estados-Membros aplicarão essas disposições a partir de 15 de Agosto de 2004.\n\nQuando os Estados-Membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência são determinadas pelos Estados-Membros."
+  },
+  "d1014cbd708bea84": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial da União Europeia."
+  },
+  "0af1c35e216fd3bd": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são destinatários da presente directiva."
+  },
+  "985b210ea6705796": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nAo anexo I da Directiva 76/769/CEE é aditado o seguinte ponto 44:\n\n«44. éter difenílico, derivado pentabromado C12H5Br5O 1. Não pode ser colocado ◄ no mercado, nem utilizado como substância ou como componente de substâncias ou de preparações, em concentrações superiores a 0,1 % em massa. 2. [►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:20::NOT) Os artigos, ou partes ◄ ignífugas dos mesmos, que contenham esta substância em concentrações superiores a 0,1 % em massa não podem ser colocados no mercado.»\n\n[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0011R(01):PT:NOT)\n\nAo anexo I da Directiva 76/769/CEE é aditado o seguinte ponto 45:\n\n«45. éter difenílico, derivado octabromado C12H2Br8O 1. Não pode ser colocado ◄ no mercado nem utilizado como substância ou como componente de substâncias ou de preparações em concentrações superiores a 0,1 % em massa. 2. [►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:20::NOT) Os artigos, ou partes ◄ ignífugas dos mesmos que contenham esta substância em concentrações superiores a 0,1 % em massa não podem ser colocados no mercado.»\n\n([1](http://publications.europa.eu/resource/cellar/0a566c4b-75ab-459b-8546-dbae21493f1b.0010.02/DOC_1#src.E0001)) JO C 154 E de 29.5.2001, p. 112, e JO C 25 de 29.1.2002, p. 472.\n\n([2](http://publications.europa.eu/resource/cellar/0a566c4b-75ab-459b-8546-dbae21493f1b.0010.02/DOC_1#src.E0002)) JO C 193 de 10.7.2001, p. 27.\n\n([3](http://publications.europa.eu/resource/cellar/0a566c4b-75ab-459b-8546-dbae21493f1b.0010.02/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 6 de Setembro de 2001 (JO C 72 E de 21.3.2002, p. 235), posição comum do Conselho de 6 de Dezembro de 2001(JO C 110 E de 7.5.2002, p. 23) e decisão do Parlamento Europeu de 10 de Abril de 2002 (ainda não publicada no Jornal Oficial).\n\n([4](http://publications.europa.eu/resource/cellar/0a566c4b-75ab-459b-8546-dbae21493f1b.0010.02/DOC_1#src.E0004)) JO L 84 de 5.4.1993, p. 1.\n\n([5](http://publications.europa.eu/resource/cellar/0a566c4b-75ab-459b-8546-dbae21493f1b.0010.02/DOC_1#src.E0005)) JO L 69 de 10.3.2001, p. 30.\n\n([6](http://publications.europa.eu/resource/cellar/0a566c4b-75ab-459b-8546-dbae21493f1b.0010.02/DOC_1#src.E0006)) JO L 249 de 17.9.2002, p. 27.\n\n([7](http://publications.europa.eu/resource/cellar/0a566c4b-75ab-459b-8546-dbae21493f1b.0010.02/DOC_1#src.E0007)) JO L 183 de 29.6.1989, p. 1.\n\n([8](http://publications.europa.eu/resource/cellar/0a566c4b-75ab-459b-8546-dbae21493f1b.0010.02/DOC_1#src.E0008)) JO L 196 de 26.7.1990, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 1999/38/CE (JO L 138 de 1.6.1999, p. 66).\n\n([9](http://publications.europa.eu/resource/cellar/0a566c4b-75ab-459b-8546-dbae21493f1b.0010.02/DOC_1#src.E0009)) JO L 131 de 5.5.1998, p. 11."
+  }
+ }
+}

@@ -34,6 +34,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '1998-12-31'
+version_history:
+  file: diretiva-ue-1998-93.versoes.json
+  count: 1
+  source_lastmod: '1998-12-31'
+  versions:
+  - date: '1998-12-31'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31998L0093
   eli: http://data.europa.eu/eli/dir/1998/93/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6e09c8ce-1066-45da-accc-cf94ef167316.0011
   content_url: http://publications.europa.eu/resource/cellar/c3302517-6b7a-440c-9496-32544580b8c1.0002.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0093-19981231
-  retrieved_at: '2026-10-22T02:38:35Z'
+  retrieved_at: '2026-10-22T14:47:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T17:44:18.380+01:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:35Z'
-  notes: Texto consolidado 01998L0093-19981231.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:09Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-1998-93.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -163,29 +172,19 @@ relationships:
   date: '1972-12-28'
 article_structure:
   article_count: 7
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:35Z'
+  checked_at: '2026-10-22T14:47:09Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 98/93/CE do Conselho de 14 de Dezembro de 1998
-
-> 1998L0093 — PT — 31.12.1998 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) — [Rectificação, JO L 113, 27.4.2006, p. 26 (98/93)](http://publications.europa.eu/resource/celex/31998L0093R%2801%29)
-
-## DIRECTIVA 98/93/CE DO CONSELHO
 
 de 14 de Dezembro de 1998
 

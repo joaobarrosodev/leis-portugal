@@ -34,6 +34,108 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-01'
+version_history:
+  file: regulamento-ue-1999-1257.versoes.json
+  count: 3
+  source_lastmod: '2007-01-01'
+  versions:
+  - date: '1999-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-01'
+    amending: eu:celex:32003R1783:por
+    amending_title: REGULAMENTO (CE) N. o 1783/2003 DO CONSELHO de 29 de Setembro de 2003; REGULAMENTO (CE) N. o 567/2004
+      DO CONSELHO de 22 de Março de 2004; REGULAMENTO (CE) N. o 583/2004 DO CONSELHO de 22 de Março de 2004; REGULAMENTO (CE)
+      N. o 2223/2004 DO CONSELHO de 22 de Dezembro de 2004; Acto relativo às condições de adesão da República Checa, da República
+      da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República
+      de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em
+      que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 42.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 47.º
+    - Altera Artigo 49.º
+    - Altera Artigo 50.º
+    - Altera Artigo 51.º
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Adita TÍTULO I
+    - Adita ÂMBITO DE APLICAÇÃO E OBJECTIVOS
+    - Adita TÍTULO II
+    - Adita MEDIDAS DE DESENVOLVIMENTO RURAL
+    - Adita CAPÍTULO I
+    - Adita INVESTIMENTOS NAS EXPLORAÇÕES AGRÍCOLAS
+    - Adita CAPÍTULO II
+  - date: '2007-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime ÂMBITO DE APLICAÇÃO E OBJECTIVOS
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime TÍTULO II
+    - Suprime MEDIDAS DE DESENVOLVIMENTO RURAL
+    - Suprime CAPÍTULO I
+    - Suprime INVESTIMENTOS NAS EXPLORAÇÕES AGRÍCOLAS
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime CAPÍTULO II
+    - Suprime INSTALAÇÃO DE JOVENS AGRICULTORES
+    - Suprime Artigo 8.º
+    - Suprime CAPÍTULO III
+    - Suprime FORMAÇÃO
+    - Suprime Artigo 9.º
+    - Suprime CAPÍTULO IV
+    - Suprime REFORMA ANTECIPADA
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime CAPÍTULO V
+    - Suprime ZONAS DESFAVORECIDAS E REGIÕES COM CONDICIONANTES AMBIENTAIS
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime CAPÍTULO V-A
+    - Suprime CUMPRIMENTO DAS NORMAS
+    - Suprime Artigo 21.º-A
+    - Suprime Artigo 21.º-B
+    - Suprime Artigo 21.º-C
 identifiers:
   celex: 31999R1257
   eli: http://data.europa.eu/eli/reg/1999/1257/oj
@@ -48,7 +150,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/667ee66d-5a4b-41b7-95a6-04f39058b0d4.0011
   content_url: http://publications.europa.eu/resource/cellar/11494878-9788-4b4b-be8d-0028113ee3d8.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R1257-20070101
-  retrieved_at: '2026-10-22T02:34:40Z'
+  retrieved_at: '2026-10-22T14:48:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:23:52.127+02:00'
 integrity:
@@ -57,9 +159,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:34:40Z'
-  notes: Texto consolidado 01999R1257-20070101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:10Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1999-1257.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -602,16 +704,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:34:40Z'
+  checked_at: '2026-10-22T14:48:10Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01999R1257-19990703: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1257-20031028: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

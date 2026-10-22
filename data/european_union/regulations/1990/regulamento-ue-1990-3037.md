@@ -34,6 +34,50 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-01-01'
+version_history:
+  file: regulamento-ue-1990-3037.versoes.json
+  count: 2
+  source_lastmod: '2008-01-01'
+  versions:
+  - date: '1990-10-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-01-01'
+    amending: eu:celex:31993R0761:por
+    amending_title: M1; REGULAMENTO (CE) N. o 29/2002 DA COMISSÃO de 19 de Dezembro de 2001; REGULAMENTO (CE) N. o 1882/2003
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003; REGULAMENTO (CE) N. o 1893/2006 DO PARLAMENTO EUROPEU
+      E DO CONSELHO de 20 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1º
+    - Adita Artigo 2º
+    - Adita Artigo 4º
+    - Adita Artigo 5º
+    - Adita Artigo 6º
+    - Adita Artigo 7º
+    - Adita Artigo 8º
+    - Adita Artigo 9.º
+    - Adita Artigo 11º
+    - Adita Artigo 13º
+    - Adita Artigo 14º
+    - Adita ANEXO
+    - Adita Notas
+    - Suprime Artigo 1°.
+    - Suprime Artigo 2°.
+    - Suprime Artigo 3°.
+    - Suprime Artigo 4°.
+    - Suprime Artigo 5°.
+    - Suprime Artigo 6°.
+    - Suprime Artigo 7°.
+    - Suprime Artigo 8°.
+    - Suprime Artigo 9°.
+    - Suprime Artigo 10°.
+    - Suprime Artigo 11°.
+    - Suprime Artigo 12°.
+    - Suprime Artigo 13°.
+    - Suprime Artigo 14°.
+    - Suprime ANEXO — Nomenclaturas
 identifiers:
   celex: 31990R3037
   eli: http://data.europa.eu/eli/reg/1990/3037/oj
@@ -48,7 +92,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d072278c-3e2c-44fc-b635-3ac61fead008.0011
   content_url: http://publications.europa.eu/resource/cellar/ce414430-f0fd-4ffa-947c-71c2c700eeda.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990R3037-20080101
-  retrieved_at: '2026-10-22T02:40:11Z'
+  retrieved_at: '2026-10-22T14:37:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:21:40.369+02:00'
 integrity:
@@ -57,9 +101,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:11Z'
-  notes: Texto consolidado 01990R3037-20080101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:37:57Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1990-3037.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -144,36 +188,22 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/463dde74-1388-42f4-a0bf-140d7bdd01ac
 article_structure:
   article_count: 11
-  section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 2
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:11Z'
-  warnings: []
+  checked_at: '2026-10-22T14:37:57Z'
+  warnings:
+  - '01990R3037-19930423: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R3037-20030101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R3037-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CEE) nº 3037/90 do Conselho, de 9 de Outubro de 1990
-
-> 1990R3037 — PT — 01.01.2008 — 004.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/31993R0761) — [Regulamento (CEE) nº 761/93 da Comissão de 24 de Março de 1993](http://publications.europa.eu/resource/celex/31993R0761) — L 83 — 1 — 3.4.1993
-- [►M2](http://publications.europa.eu/resource/celex/32002R0029) — [REGULAMENTO (CE) N.º 29/2002 DA COMISSÃO de 19 de Dezembro de 2001](http://publications.europa.eu/resource/celex/32002R0029) — L 6 — 3 — 10.1.2002
-- [►M3](http://publications.europa.eu/resource/celex/32003R1882) — [REGULAMENTO (CE) N.º 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
-- [►M4](http://publications.europa.eu/resource/celex/32006R1893) — [REGULAMENTO (CE) N.º 1893/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1893) — L 393 — 1 — 30.12.2006
-
-**Rectificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/31993R0761R%2801%29) — [Rectificação, JO L 159, 11.7.1995, p. 31 (761/93)](http://publications.europa.eu/resource/celex/31993R0761R%2801%29)
-
-## REGULAMENTO (CEE) Nº 3037/90 DO CONSELHO
 
 de 9 de Outubro de 1990
 

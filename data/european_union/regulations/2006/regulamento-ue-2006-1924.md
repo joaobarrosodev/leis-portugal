@@ -36,6 +36,123 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-12-13'
+version_history:
+  file: regulamento-ue-2006-1924.versoes.json
+  count: 6
+  source_lastmod: '2014-12-13'
+  versions:
+  - date: '2006-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Princípios gerais aplicáveis a todas as alegações
+    - Altera Artigo 4.º — Condições de utilização das alegações nutricionais e de saúde
+    - Altera Artigo 5.º — Condições gerais
+    - Altera Artigo 6.º — Fundamento científico das alegações
+    - Altera Artigo 7.º — Informações nutricionais
+    - Altera Artigo 8.º — Condições específicas
+    - Altera Artigo 9.º — Alegações comparativas
+    - Altera Artigo 10.º — Condições específicas
+    - Altera Artigo 16.º — Parecer da Autoridade
+    - Altera Artigo 17.º — Autorização comunitária
+    - Altera Notas
+    - Adita Artigo 11.º — Associações nacionais de profissionais de saúde, nutrição ou dietética e associações caritativas
+      da área da saúde
+    - Adita Artigo 13.º — Alegações de saúde que não refiram a redução de um risco de doença ou o desenvolvimento e a saúde
+      das crianças
+    - Adita Artigo 14.º — Alegações relativas à redução de um risco de doença e alegações relativas ao desenvolvimento e à
+      saúde das crianças
+    - Adita Artigo 15.º — Pedidos de autorização
+    - Adita Artigo 18.º — Alegações de saúde referidas no n.º 5 do artigo 13.º
+    - Adita Artigo 19.º — Alteração, suspensão e revogação de autorizações
+    - Adita Artigo 20.º — Registo comunitário
+    - Adita Artigo 21.º — Protecção de dados
+    - Adita Artigo 22.º — Disposições nacionais
+    - Adita Artigo 23.º — Procedimento de notificação
+    - Adita Artigo 24.º — Medidas de salvaguarda
+    - Adita Artigo 25.º — Procedimento de comité
+    - Adita Artigo 26.º — Controlo
+    - Adita Artigo 27.º — Avaliação
+    - Adita Artigo 28.º — Medidas transitórias
+    - Adita Artigo 29.º — Entrada em vigor
+    - Adita ANEXO
+    - Adita Alegações nutricionais e condições que se lhes aplicam
+    - Adita BAIXO VALOR ENERGÉTICO
+    - Adita VALOR ENERGÉTICO REDUZIDO
+    - Adita SEM VALOR ENERGÉTICO
+    - Adita BAIXO TEOR DE GORDURA
+    - Adita SEM GORDURA
+    - Adita BAIXO TEOR DE GORDURA SATURADA
+    - Adita SEM GORDURA SATURADA
+    - Adita BAIXO TEOR DE AÇÚCARES
+  - date: '2008-03-04'
+    amending: eu:celex:32008R0107:por
+    amending_title: REGULAMENTO (CE) n. o 107/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Janeiro de 2008; REGULAMENTO
+      (CE) N. o 109/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Janeiro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Princípios gerais aplicáveis a todas as alegações
+    - Altera Artigo 4.º — Condições de utilização das alegações nutricionais e de saúde
+    - Altera Artigo 8.º — Condições específicas
+    - Altera Artigo 13.º — Alegações de saúde que não refiram a redução de um risco de doença ou o desenvolvimento e a saúde
+      das crianças
+    - Altera Artigo 14.º — Alegações relativas à redução de um risco de doença e alegações relativas ao desenvolvimento e
+      à saúde das crianças
+    - Altera Artigo 17.º — Autorização comunitária
+    - Altera Artigo 18.º — Alegações de saúde referidas no n.º 5 do artigo 13.º
+    - Altera Artigo 20.º — Registo comunitário
+    - Altera Artigo 28.º — Medidas transitórias
+    - Altera FONTE DE [NOME DA(S) VITAMINA(S)] E/OU [NOME DO(S) MINERAL(IS)]
+    - Altera Notas
+    - Adita Artigo 25.º
+    - Suprime Artigo 25.º — Procedimento de comité
+  - date: '2010-03-02'
+    amending: eu:celex:32010R0116:por
+    amending_title: REGULAMENTO (UE) N. o 116/2010 DA COMISSÃO de 9 de Fevereiro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Condições de utilização das alegações nutricionais e de saúde
+    - Altera FONTE DE [NOME DA(S) VITAMINA(S)] E/OU [NOME DO(S) MINERAL(IS)]
+    - Altera Notas
+    - Adita FONTE DE ÁCIDOS GORDOS ÓMEGA-3
+    - Adita ALTO TEOR DE ÁCIDOS GORDOS ÓMEGA-3
+    - Adita ALTO TEOR DE GORDURAS MONO-INSATURADAS
+    - Adita ALTO TEOR DE GORDURAS POLI-INSATURADAS
+    - Adita ALTO TEOR DE GORDURAS INSATURADAS
+  - date: '2012-11-29'
+    amending: eu:celex:32012R1047:por
+    amending_title: REGULAMENTO (UE) N. o 1047/2012 DA COMISSÃO de 8 de novembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Condições de utilização das alegações nutricionais e de saúde
+    - Altera FONTE DE [NOME DA(S) VITAMINA(S)] E/OU [NOME DO(S) MINERAL(IS)]
+    - Altera TEOR DE (NOME DO NUTRIENTE) REDUZIDO
+    - Altera Notas
+    - Adita SEM ADIÇÃO DE SÓDIO/SAL
+  - date: '2014-12-13'
+    amending: eu:celex:32011R1169:por
+    amending_title: REGULAMENTO (UE) N. o 1169/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de Outubro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Condições de utilização das alegações nutricionais e de saúde
+    - Altera Artigo 7.º — Informações nutricionais
+    - Altera FONTE DE [NOME DA(S) VITAMINA(S)] E/OU [NOME DO(S) MINERAL(IS)]
+    - Altera Notas
 identifiers:
   celex: 32006R1924
   eli: http://data.europa.eu/eli/reg/2006/1924/oj
@@ -50,7 +167,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e6b6f775-c3c7-48b8-a079-eb55cbc7a766.0017
   content_url: http://publications.europa.eu/resource/cellar/b68885ee-3a4a-43ce-b69a-e89a119bb71a.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1924-20141213
-  retrieved_at: '2026-10-22T02:39:45Z'
+  retrieved_at: '2026-10-22T15:05:46Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-19T13:42:54.230+01:00'
 integrity:
@@ -59,9 +176,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:45Z'
-  notes: Texto consolidado 02006R1924-20141213.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:05:46Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2006-1924.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -287,37 +404,19 @@ relationships:
   date: '2025-04-30'
 article_structure:
   article_count: 29
-  section_count: 42
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 43
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:45Z'
+  checked_at: '2026-10-22T15:05:46Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1924/2006 do Parlamento Europeu e do Conselho, de 20 de Dezembro de 2006
-
-> 2006R1924 — PT — 13.12.2014 — 004.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008R0107) — [REGULAMENTO (CE) n.º 107/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Janeiro de 2008](http://publications.europa.eu/resource/celex/32008R0107) — L 39 — 8 — 13.2.2008
-- [►M2](http://publications.europa.eu/resource/celex/32008R0109) — [REGULAMENTO (CE) N.º 109/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Janeiro de 2008](http://publications.europa.eu/resource/celex/32008R0109) — L 39 — 14 — 13.2.2008
-- [►M3](http://publications.europa.eu/resource/celex/32010R0116) — [REGULAMENTO (UE) N.º 116/2010 DA COMISSÃO de 9 de Fevereiro de 2010](http://publications.europa.eu/resource/celex/32010R0116) — L 37 — 16 — 10.2.2010
-- [►M4](http://publications.europa.eu/resource/celex/32011R1169) — [REGULAMENTO (UE) N.º 1169/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de Outubro de 2011](http://publications.europa.eu/resource/celex/32011R1169) — L 304 — 18 — 22.11.2011
-- [►M5](http://publications.europa.eu/resource/celex/32012R1047) — [REGULAMENTO (UE) N.º 1047/2012 DA COMISSÃO de 8 de novembro de 2012](http://publications.europa.eu/resource/celex/32012R1047) — L 310 — 36 — 9.11.2012
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32006R1924R%2801%29) — [Rectificação, JO L 012, 18.1.2007, p. 3 (1924/2006)](http://publications.europa.eu/resource/celex/32006R1924R%2801%29)
-
-## REGULAMENTO (CE) N.º 1924/2006 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de Dezembro de 2006
 

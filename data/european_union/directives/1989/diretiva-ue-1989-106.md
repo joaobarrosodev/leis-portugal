@@ -34,6 +34,58 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: diretiva-ue-1989-106.versoes.json
+  count: 2
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '1989-02-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I — Campo de aplicação - definições - requisitos - especificações técnicas - livre circulação de mercadorias
+    - Suprime Artigo 1°
+    - Suprime Artigo 2°
+    - Suprime Artigo 3°
+    - Suprime Artigo 4°
+    - Suprime Artigo 5°
+    - Suprime Artigo 6°
+    - Suprime CAPÍTULO II — Normas harmonizadas
+    - Suprime Artigo 7°
+    - Suprime CAPÍTULO III — Aprovação técnica europeia
+    - Suprime Artigo 8°
+    - Suprime Artigo 9°
+    - Suprime Artigo 10°
+    - Suprime Artigo 11°
+    - Suprime CAPÍTULO IV — Documentos interpretativos
+    - Suprime Artigo 12°
+    - Suprime CAPÍTULO V — Certificado de conformidade
+    - Suprime Artigo 13°
+    - Suprime Artigo 14°
+    - Suprime Artigo 15°
+    - Suprime CAPÍTULO VI — Processos especiais
+    - Suprime Artigo 16°
+    - Suprime Artigo 17°
+    - Suprime CAPÍTULO VII — Organismos aprovados
+    - Suprime Artigo 18°
+    - Suprime CAPÍTULO VIII — Comité Permanente da Construção
+    - Suprime Artigo 19°
+    - Suprime Artigo 20°
+    - Suprime CAPÍTULO IX — Cláusula de salvaguarda
+    - Suprime Artigo 21°
+    - Suprime CAPÍTULO X — Disposições finais
+    - Suprime Artigo 22°
+    - Suprime Artigo 23°
+    - Suprime Artigo 24°
+    - Suprime ANEXO I — REQUISITOS ESSENCIAIS
+    - Suprime ANEXO II — APROVAÇÃO TÉCNICA EUROPEIA
+    - Suprime ANEXO III — CERTIFICADO DE CONFORMIDADE COM ESPECIFICAÇÕES TÉCNICAS
+    - Suprime ANEXO IV — APROVAÇÃO DOS LABORATÓRIOS DE ENSAIO E DOS ORGANISMOS DE INSPECÇÃO E DE CERTIFICAÇÃO
 identifiers:
   celex: 31989L0106
   eli: http://data.europa.eu/eli/dir/1989/106/oj
@@ -48,7 +100,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/51fee36c-5525-419a-bc02-ce637c770030.0011
   content_url: http://publications.europa.eu/resource/cellar/8ea745b1-993b-481f-b684-3ba0094c9d99.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0106-20130701
-  retrieved_at: '2026-10-22T02:36:46Z'
+  retrieved_at: '2026-10-22T14:35:39Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2021-10-14T12:13:41.922+02:00'
 integrity:
@@ -57,9 +109,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:46Z'
-  notes: Texto consolidado 01989L0106-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:35:39Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1989-106.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -215,16 +267,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:46Z'
+  checked_at: '2026-10-22T14:35:39Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01989L0106-19930802: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01989L0106-20031120: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

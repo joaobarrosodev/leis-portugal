@@ -1,0 +1,423 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0110:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0110-20260614",
+ "dre_path": null,
+ "source_lastmod": "2026-06-14",
+ "versions": [
+  {
+   "date": "2002-01-12",
+   "future": false,
+   "celex": "32001L0110",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0361653dfac7d921",
+    "feef3c8e3463d58a",
+    "bf756a8d9b60b38a",
+    "e32aeff4959b93b9",
+    "7933c5af66fad690",
+    "cb3b9014bf898ca0",
+    "9b529b1bf2047d8a",
+    "3a621e3cb6e465c5",
+    "40d5ca881553c7f4",
+    "7851a727536ba91d",
+    "10a43ff7c243fd4d",
+    "fd666d7ed4b62328",
+    "ea9a70afa64a4050",
+    "aa0a0bd383967376"
+   ]
+  },
+  {
+   "date": "2014-06-23",
+   "future": false,
+   "celex": "02001L0110-20140623",
+   "acts": [
+    {
+     "id": "eu:celex:32014L0063:por",
+     "title": "DIRETIVA 2014/63/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014",
+     "published": null,
+     "celex": "32014L0063"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 11.º",
+    "Adita ANEXO I",
+    "Adita DENOMINAÇÕES E DEFINIÇÕES DOS PRODUTOS",
+    "Adita ANEXO II",
+    "Adita CRITÉRIOS DE COMPOSIÇÃO DOS MÉIS",
+    "Adita Notas",
+    "Suprime ANEXO I — DENOMINAÇÕES E DEFINIÇÕES DOS PRODUTOS",
+    "Suprime ANEXO II — CRITÉRIOS DE COMPOSIÇÃO DOS MÉIS"
+   ],
+   "fragments": [
+    "d2f70b65d1222038",
+    "feef3c8e3463d58a",
+    "b859723b02f46b37",
+    "e32aeff4959b93b9",
+    "634314a19295900a",
+    "cb3b9014bf898ca0",
+    "25ce040260b16b3e",
+    "81e16c783374f2d2",
+    "40d5ca881553c7f4",
+    "89f8c0adb6e40928",
+    "afcc2e9ff0bd9414",
+    "ce9fa090e4baa8eb",
+    "d664376e2a8dcecd",
+    "1a2f647c17a4b53d",
+    "852174729551523b",
+    "8df8bca606da4a93",
+    "a5c3352c734ade31"
+   ]
+  },
+  {
+   "date": "2026-06-14",
+   "future": false,
+   "celex": "02001L0110-20260614",
+   "acts": [
+    {
+     "id": "eu:celex:32024L1438:por",
+     "title": "DIRETIVA (UE) 2024/1438 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024",
+     "published": null,
+     "celex": "32024L1438"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera DENOMINAÇÕES E DEFINIÇÕES DOS PRODUTOS",
+    "Altera CRITÉRIOS DE COMPOSIÇÃO DOS MÉIS",
+    "Altera Notas",
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 4.º-B"
+   ],
+   "fragments": [
+    "ffc27e9774ecff08",
+    "feef3c8e3463d58a",
+    "7963b202bf93493c",
+    "b4bb4bf96d6a3c80",
+    "f5e262fc07c0c33b",
+    "cb5495a84a101d74",
+    "6a845d6762dca192",
+    "cb3b9014bf898ca0",
+    "25ce040260b16b3e",
+    "f4fcbc4fa6cae5c4",
+    "40d5ca881553c7f4",
+    "89f8c0adb6e40928",
+    "afcc2e9ff0bd9414",
+    "ce9fa090e4baa8eb",
+    "d664376e2a8dcecd",
+    "405eb48cd5a630d8",
+    "852174729551523b",
+    "976d7acfa9425efe",
+    "99b955db6559cb95"
+   ]
+  }
+ ],
+ "fragments": {
+  "0361653dfac7d921": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2001/110/CE do Conselho, de 20 de Dezembro de 2001, relativa ao mel** *Jornal Oficial nº L 010 de 12/01/2002 p. 0047 - 0052*\n\nDirectiva 2001/110/CE do Conselho\n\nde 20 de Dezembro de 2001\n\nrelativa ao mel\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 37.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Parlamento Europeu(2),\n\nTendo em conta o parecer do Comité Económico e Social(3),\n\nConsiderando o seguinte:\n\n(1) De acordo com as conclusões do Conselho Europeu de Edimburgo, de 11 e 12 de Dezembro de 1992, confirmadas pelas conclusões do Conselho Europeu de Bruxelas, de 10 e 11 de Dezembro de 1993, é necessário proceder à simplificação de determinadas directivas verticais no domínio dos géneros alimentícios, a fim de tomar exclusivamente em conta os requisitos essenciais que os produtos por elas abrangidos devem satisfazer para poderem circular livremente no mercado interno.\n\n(2) A adopção da Directiva 74/409/CEE do Conselho, de 22 de Julho de 1974, relativa à harmonização das legislações dos Estados-Membros respeitantes ao mel(4), foi justificada pelo facto de as diferenças entre as legislações nacionais no que respeita à definição do mel, aos vários tipos de mel e às características exigidas poderem criar condições de concorrência desleal susceptíveis de induzir os consumidores em erro, influenciando deste modo directamente a realização e o funcionamento do mercado comum.\n\n(3) Neste contexto, a Directiva 74/409/CEE e posteriores alterações tiveram por objectivo estabelecer definições, prever os diferentes tipos de mel que podiam ser comercializados sob denominações apropriadas, fixar regras comuns no que respeita à sua composição e determinar as principais indicações a incluir na rotulagem, por forma a garantir a livre circulação dos produtos em questão na Comunidade.\n\n(4) Por motivos de clareza, é necessário proceder à reformulação da Directiva 74/409/CEE, por forma a tornar mais acessíveis as regras relativas às condições de produção e comercialização do mel e a adaptar a directiva às disposições comunitárias gerais aplicáveis aos géneros alimentícios, nomeadamente à legislação relativa à rotulagem, aos contaminantes e aos métodos de análise.\n\n(5) São aplicáveis as regras gerais de rotulagem dos géneros alimentícios previstas na Directiva 2000/13/CE do Parlamento Europeu e do Conselho(5), sob reserva de determinadas condições. Atendendo à estreita relação entre a qualidade do mel e a sua origem, é indispensável assegurar toda a informação sobre estas questões, a fim de evitar induzir o consumidor em erro sobre a qualidade do produto. Os interesses específicos dos consumidores em relação às características geográficas do mel e a total transparência a esse respeito exigem que se inclua na rotulagem o país de origem em que foi colhido o mel.\n\n(6) Não deve ser retirado ao mel nenhum pólen nem nenhum dos seus componentes, excepto se tal for inevitável aquando da eliminação de matérias orgânicas ou inorgânicas estranhas à sua composição. Essa eliminação pode ser realizada por filtração. Sempre que a filtração conduza à eliminação de uma quantidade significativa de pólen, é necessário informar correctamente desse facto o consumidor através de uma indicação adequada na rotulagem.\n\n(7) Não pode ser adicionado nenhum mel filtrado ao mel cuja denominação seja completada por indicações relativas a uma origem floral ou vegetal, regional, territorial ou topográfica ou ainda por critérios de qualidade específicos. A fim de melhorar a transparência do mercado, deve ser tornada obrigatória para qualquer transacção no mercado grossista a rotulagem dos méis filtrados ou para uso industrial.\n\n(8) Tal como referiu na sua comunicação de 24 de Junho de 1994 ao Parlamento Europeu e ao Conselho sobre a situação da apicultura europeia, a Comissão poderá adoptar métodos de análise destinados a assegurar o respeito das características de composição e das indicações específicas complementares relativamente a qualquer tipo de mel comercializado na Comunidade.\n\n(9) É conveniente tomar em consideração os trabalhos realizados sobre uma nova norma do Codex para o mel, adaptada, se necessário, às exigências específicas da Comunidade.\n\n(10) Em aplicação dos princípios da subsidiariedade e da proporcionalidade consagrados no artigo 5.o do Tratado, o objectivo de fixação de definições e regras comuns para os produtos em causa e de conformidade da presente directiva com as disposições comunitárias gerais aplicáveis aos géneros alimentícios não pode ser suficientemente realizado pelos Estados-Membros e pode pois, devido à própria natureza da directiva, ser melhor alcançado a nível comunitário. A presente directiva não excede o necessário para atingir esse objectivo.\n\n(11) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(6).\n\n(12) Para evitar que sejam criados novos entraves à livre circulação, os Estados-Membros devem abster-se de adoptar, para os produtos em causa, disposições nacionais não previstas na presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "feef3c8e3463d58a": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva aplica-se aos produtos definidos no anexo I. Esses produtos devem obedecer aos critérios descritos no anexo II."
+  },
+  "bf756a8d9b60b38a": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Directiva 2000/13/CE é aplicável aos produtos definidos no anexo I, sob as seguintes condições:\n\n1. O termo \"mel\" será aplicado apenas ao produto definido no ponto 1 do anexo I e deve ser utilizado no comércio para designar esse produto.\n\n2. As denominações a que se referem os pontos 2 e 3 do anexo I são reservadas aos produtos neles definidos e devem ser utilizadas no comércio para designar esses produtos. As denominações em questão podem ser substituídas pela simples denominação \"mel\", excepto no caso do mel filtrado, do mel em favos, do mel com pedaços de favos e do mel para uso industrial.\n\nTodavia:\n\na) No caso do mel para uso industrial, devem figurar na rotulagem, na proximidade da denominação, os termos \"apenas para uso culinário\";\n\nb) Salvo no que se refere ao mel filtrado e ao mel para uso industrial, as denominações em questão podem ser completadas por indicações que façam referência:\n\n- à origem floral ou vegetal do produto, se este provier total ou principalmente da origem indicada e possuir as características organolépticas, físico-químicas e microscópicas próprias de tal origem,\n\n- à origem regional, territorial ou topográfica do produto, se este provier na sua totalidade da origem indicada,\n\n- a critérios de qualidade específicos.\n\n3. Caso tenha sido utilizado mel para uso industrial como ingrediente de um género alimentício composto, o termo \"mel\" pode constar da denominação desse género alimentício, em vez de \"mel para uso industrial\". Todavia, na lista dos ingredientes, será utilizada a denominação completa referida no ponto 3 do anexo I.\n\n4. a) Dever-se-á indicar na rotulagem o país ou países de origem em que o mel foi colhido.\n\nContudo, caso o mel seja originário de um ou vários Estados-Membros ou países terceiros, essa indicação poderá ser substituída por uma das seguintes indicações, consoante o caso:\n\n- \"mistura de méis CE\",\n\n- \"mistura de méis não CE\",\n\n- \"mistura de méis CE e não CE\".\n\nb) Para efeitos do disposto na Directiva 2000/13/CE, nomeadamente nos seus artigos 13.o, 14.o, 16.o e 17.o, as menções a indicar nos termos da alínea a) serão consideradas indicações nos termos do artigo 3.o da referida directiva."
+  },
+  "e32aeff4959b93b9": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nNo caso do mel filtrado e do mel para uso industrial, os recipientes de mel a granel, as embalagens e os documentos comerciais devem indicar claramente a denominação completa referida na alínea b), subalínea viii), do ponto 2 e no ponto 3 do anexo I."
+  },
+  "7933c5af66fad690": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA Comissão poderá adoptar métodos que permitam verificar se o mel obedece às disposições da presente directiva. Esses métodos serão aprovados nos termos do n.o 2 do artigo 7.o Até à sua aprovação, os Estados-Membros recorrerão, sempre que possível, a métodos validados internacionalmente reconhecidos, como os aprovados pelo Codex Alimentarius, para verificar o respeito do disposto na presente directiva."
+  },
+  "cb3b9014bf898ca0": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros não adoptarão, para os produtos definidos no anexo I, disposições nacionais que não estejam previstas na presente directiva."
+  },
+  "9b529b1bf2047d8a": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs medidas necessárias à execução da presente directiva relativas aos assuntos adiante indicados são aprovadas pelo procedimento a que se refere o n.o 2 do artigo 7.o:\n\n- conformidade da presente directiva com as disposições comunitárias gerais aplicáveis aos géneros alimentícios,\n\n- adaptações ao progresso técnico."
+  },
+  "3a621e3cb6e465c5": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A Comissão é assistida pelo Comité Permanente dos Géneros Alimentícios (a seguir designado por \"comité\"), instituído pelo artigo 1.o da Decisão 69/414/CEE(7).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE.\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "40d5ca881553c7f4": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA Directiva 74/409/CEE é revogada, com efeitos a partir de 1 de Agosto de 2003.\n\nAs referências à directiva revogada devem entender-se como sendo feitas à presente directiva."
+  },
+  "7851a727536ba91d": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Agosto de 2003 e informar imediatamente a Comissão desse facto.\n\nEstas disposições devem ser aplicadas de modo a:\n\n- autorizar, com efeitos a partir de 1 de Agosto de 2003, a comercialização dos produtos definidos no anexo I que obedeçam às definições e regras previstas na presente directiva,\n\n- proibir, com efeitos a partir de 1 de Agosto de 2004, a comercialização dos produtos não conformes com a presente directiva.\n\nContudo, até ao esgotamento das existências, é autorizada a comercialização dos produtos não conformes com a presente directiva que tiverem sido rotulados nos termos da Directiva 74/409/CEE até 1 de Agosto de 2004.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros."
+  },
+  "10a43ff7c243fd4d": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "fd666d7ed4b62328": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 20 de Dezembro de 2001.\n\nPelo Conselho\n\nO Presidente\n\nC. Picqué\n\n(1) JO C 231 de 9.8.1996, p. 10.\n\n(2) JO C 279 de 1.10.1999, p. 91.\n\n(3) JO C 56 de 24.2.1997, p. 20.\n\n(4) JO L 221 de 12.8.1974, p. 10. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1985.\n\n(5) JO L 109 de 6.5.2000, p. 29.\n\n(6) JO L 184 de 17.7.1999, p. 23.\n\n(7) JO L 291 de 19.11.1969, p. 9."
+  },
+  "ea9a70afa64a4050": {
+   "fragment_id": "ANEXO I — DENOMINAÇÕES E DEFINIÇÕES DOS PRODUTOS",
+   "type": "divisao",
+   "heading": "ANEXO I — DENOMINAÇÕES E DEFINIÇÕES DOS PRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — DENOMINAÇÕES E DEFINIÇÕES DOS PRODUTOS\n\n1. Mel é a substância açucarada natural produzida pela abelha Apis mellifera a partir do néctar das flores ou das secreções procedentes de partes vivas de plantas ou de excreções de insectos sugadores de plantas que ficam sobre partes vivas de plantas, que as abelhas recolhem, transformam, combinam com substâncias específicas próprias, depositam, desidratam, armazenam e deixam amadurecer nos favos da colmeia.\n\n2. Os principais tipos de mel são os seguintes:\n\na) Consoante a origem:\n\ni) Mel de néctar ou mel de flores\n\nMel obtido a partir do néctar das flores;\n\nii) Mel de melada\n\nMel obtido principalmente a partir de excreções de insectos sugadores de plantas (Hemiptera) que ficam sobre partes vivas de plantas ou de secreções procedentes de partes vivas de plantas.\n\nb) Consoante o modo de produção e/ou a forma de apresentação:\n\niii) Mel em favos\n\nMel armazenado pelas abelhas nos alvéolos operculados de favos construídos recentemente pelas próprias abelhas ou de finas folhas de cera gravada realizadas exclusivamente com cera de abelha e que não contenham criação, vendido em favos inteiros ou em secções de favos;\n\niv) Mel com pedaços de favos\n\nMel que contém um ou vários pedaços de mel em favos;\n\nv) Mel escorrido\n\nMel obtido por escorrimento de favos desoperculados que não contenham criação;\n\nvi) Mel centrifugado\n\nMel obtido por centrifugação de favos desoperculados que não contenham criação;\n\nvii) Mel prensado\n\nMel obtido por compressão de favos que não contenham criação, sem aquecimento ou com aquecimento moderado de 45 °C no máximo;\n\nviii) Mel filtrado\n\nMel obtido por um processo de eliminação de matérias orgânicas ou inorgânicas estranhas à sua composição que retire uma parte importante do pólen.\n\n3. Mel para uso industrial\n\nMel: a) próprio para usos industriais ou como ingrediente de outros géneros alimentícios transformados, e b) que pode:\n\n- apresentar um sabor ou cheiro anormal, ou\n\n- ter começado a fermentar ou ter fermentado, ou\n\n- ter sido sobreaquecido."
+  },
+  "aa0a0bd383967376": {
+   "fragment_id": "ANEXO II — CRITÉRIOS DE COMPOSIÇÃO DOS MÉIS",
+   "type": "divisao",
+   "heading": "ANEXO II — CRITÉRIOS DE COMPOSIÇÃO DOS MÉIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — CRITÉRIOS DE COMPOSIÇÃO DOS MÉIS\n\nO mel é constituído essencialmente por diversos açúcares, predominando a glucose e a frutose, assim como por outras substâncias tais como ácidos orgânicos, enzimas e partículas sólidas provenientes da sua colheita. A cor do mel pode variar de uma tonalidade quase incolor a castanho-escuro. No que respeita à consistência, pode apresentar-se fluido, espesso ou cristalizado (em parte ou na totalidade). O sabor e o aroma variam consoante a origem vegetal.\n\nQuando comercializado como tal ou quando utilizado em qualquer produto destinado ao consumo humano, não pode ter sido ser adicionado ao mel nenhum ingrediente alimentar, nem sequer nenhum aditivo alimentar. O mel deve estar isento, na medida do possível, de matérias orgânicas ou inorgânicas estranhas à sua composição. Com excepção da categoria referida no ponto 3 do anexo I, não deve apresentar sabores ou cheiros anormais, nem ter começado a fermentar, nem apresentar uma acidez que tenha sido alterada artificialmente, nem ter sido aquecido de modo a que as suas enzimas naturais tenham sido destruídas ou consideravelmente inactivadas.\n\nSem prejuízo do disposto no ponto 2, alínea b), subalínea viii), do anexo I, não pode ser retirado ao mel nenhum pólen nem nenhum dos seus componentes, excepto quando tal seja inevitável aquando da eliminação de matérias orgânicas ou inorgânicas estranhas à sua composição.\n\nQuando comercializado como tal ou quando utilizado em qualquer produto destinado ao consumo humano, o mel deve obedecer aos seguintes critérios de composição:\n\n1. Teor de açúcares\n\n1.1. Teor total de frutose e glucose\n\n>POSIÇÃO NUMA TABELA>\n\n1.2. Teor de sacarose\n\n>POSIÇÃO NUMA TABELA>\n\n2. Teor de água\n\n>POSIÇÃO NUMA TABELA>\n\n3. Teor de matérias insolúveis na água\n\n>POSIÇÃO NUMA TABELA>\n\n4. Condutividade eléctrica\n\n>POSIÇÃO NUMA TABELA>\n\n5. Teor de ácidos livres\n\n>POSIÇÃO NUMA TABELA>\n\n6. Índice diastásico e teor de hidroximetilfurfural (HMF), determinados após tratamento e mistura\n\na) Índice diastásico (escala de Schade)\n\n>POSIÇÃO NUMA TABELA>\n\nb) HMF\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "d2f70b65d1222038": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 2001\n\nrelativa ao mel\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#E0003)),\n\n(1) De acordo com as conclusões do Conselho Europeu de Edimburgo, de 11 e 12 de Dezembro de 1992, confirmadas pelas conclusões do Conselho Europeu de Bruxelas, de 10 e 11 de Dezembro de 1993, é necessário proceder à simplificação de determinadas directivas verticais no domínio dos géneros alimentícios, a fim de tomar exclusivamente em conta os requisitos essenciais que os produtos por elas abrangidos devem satisfazer para poderem circular livremente no mercado interno.\n\n(2) A adopção da Directiva 74/409/CEE do Conselho, de 22 de Julho de 1974, relativa à harmonização das legislações dos Estados-Membros respeitantes ao mel ([^4^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#E0004)), foi justificada pelo facto de as diferenças entre as legislações nacionais no que respeita à definição do mel, aos vários tipos de mel e às características exigidas poderem criar condições de concorrência desleal susceptíveis de induzir os consumidores em erro, influenciando deste modo directamente a realização e o funcionamento do mercado comum.\n\n(3) Neste contexto, a Directiva 74/409/CEE e posteriores alterações tiveram por objectivo estabelecer definições, prever os diferentes tipos de mel que podiam ser comercializados sob denominações apropriadas, fixar regras comuns no que respeita à sua composição e determinar as principais indicações a incluir na rotulagem, por forma a garantir a livre circulação dos produtos em questão na Comunidade.\n\n(4) Por motivos de clareza, é necessário proceder à reformulação da Directiva 74/409/CEE, por forma a tornar mais acessíveis as regras relativas às condições de produção e comercialização do mel e a adaptar a directiva às disposições comunitárias gerais aplicáveis aos géneros alimentícios, nomeadamente à legislação relativa à rotulagem, aos contaminantes e aos métodos de análise.\n\n(5) São aplicáveis as regras gerais de rotulagem dos géneros alimentícios previstas na Directiva 2000/13/CE do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#E0005)), sob reserva de determinadas condições. Atendendo à estreita relação entre a qualidade do mel e a sua origem, é indispensável assegurar toda a informação sobre estas questões, a fim de evitar induzir o consumidor em erro sobre a qualidade do produto. Os interesses específicos dos consumidores em relação às características geográficas do mel e a total transparência a esse respeito exigem que se inclua na rotulagem o país de origem em que foi colhido o mel.\n\n(6) Não deve ser retirado ao mel nenhum pólen nem nenhum dos seus componentes, excepto se tal for inevitável aquando da eliminação de matérias orgânicas ou inorgânicas estranhas à sua composição. Essa eliminação pode ser realizada por filtração. Sempre que a filtração conduza à eliminação de uma quantidade significativa de pólen, é necessário informar correctamente desse facto o consumidor através de uma indicação adequada na rotulagem.\n\n(7) Não pode ser adicionado nenhum mel filtrado ao mel cuja denominação seja completada por indicações relativas a uma origem floral ou vegetal, regional, territorial ou topográfica ou ainda por critérios de qualidade específicos. A fim de melhorar a transparência do mercado, deve ser tornada obrigatória para qualquer transacção no mercado grossista a rotulagem dos méis filtrados ou para uso industrial.\n\n(8) Tal como referiu na sua comunicação de 24 de Junho de 1994 ao Parlamento Europeu e ao Conselho sobre a situação da apicultura europeia, a Comissão poderá adoptar métodos de análise destinados a assegurar o respeito das características de composição e das indicações específicas complementares relativamente a qualquer tipo de mel comercializado na Comunidade.\n\n(9) É conveniente tomar em consideração os trabalhos realizados sobre uma nova norma do Codex para o mel, adaptada, se necessário, às exigências específicas da Comunidade.\n\n(10) Em aplicação dos princípios da subsidiariedade e da proporcionalidade consagrados no artigo 5.º do Tratado, o objectivo de fixação de definições e regras comuns para os produtos em causa e de conformidade da presente directiva com as disposições comunitárias gerais aplicáveis aos géneros alimentícios não pode ser suficientemente realizado pelos Estados-Membros e pode pois, devido à própria natureza da directiva, ser melhor alcançado a nível comunitário. A presente directiva não excede o necessário para atingir esse objectivo.\n\n(11) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#E0006)).\n\n(12) Para evitar que sejam criados novos entraves à livre circulação, os Estados-Membros devem abster-se de adoptar, para os produtos em causa, disposições nacionais não previstas na presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b859723b02f46b37": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Directiva 2000/13/CE é aplicável aos produtos definidos no anexo I, sob as seguintes condições:\n\n1. O termo «mel» será aplicado apenas ao produto definido no ponto 1 do anexo I e deve ser utilizado no comércio para designar esse produto.\n\n2. As denominações a que se referem os pontos 2 e 3 do anexo I são reservadas aos produtos neles definidos e devem ser utilizadas no comércio para designar esses produtos. As denominações em questão podem ser substituídas pela simples denominação «mel», excepto no caso do mel filtrado, do mel em favos, do mel com pedaços de favos e do mel para uso industrial.\n\na) No caso do mel para uso industrial, devem figurar na rotulagem, na proximidade da denominação, os termos «apenas para uso culinário»;\n\nb) Salvo no que se refere ao mel filtrado e ao mel para uso industrial, as denominações em questão podem ser completadas por indicações que façam referência:\n\n— à origem floral ou vegetal do produto, se este provier total ou principalmente da origem indicada e possuir as características organolépticas, físico-químicas e microscópicas próprias de tal origem,\n\n— à origem regional, territorial ou topográfica do produto, se este provier na sua totalidade da origem indicada,\n\n— a critérios de qualidade específicos.\n\n3. Caso tenha sido utilizado mel para uso industrial como ingrediente de um género alimentício composto, o termo «mel» pode constar da denominação desse género alimentício, em vez de «mel para uso industrial». Todavia, na lista dos ingredientes, será utilizada a denominação completa referida no ponto 3 do anexo I.\n\n[**►M1**](http://publications.europa.eu/resource/celex/32014L0063) a) Deve-se indicar na rotulagem o país ou países de origem em que o mel foi colhido.\n\n— «mistura de méis UE»,\n\n— «mistura de méis não UE»,\n\n— «mistura de méis UE e não UE»;**◄**\n\nb) Para efeitos do disposto na Directiva 2000/13/CE, nomeadamente nos seus artigos 13.º, 14.º, 16.º e 17.º, as menções a indicar nos termos da alínea a) serão consideradas indicações nos termos do artigo 3.º da referida directiva.\n\n5. O pólen, sendo um componente natural específico do mel, não deve ser considerado um ingrediente, na aceção do artigo 2.º, ponto 2, alínea f), do Regulamento (UE) n.º 1169/2011 do Parlamento Europeu e do Conselho ([^7^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#E0007)), dos produtos definidos no Anexo I da presente diretiva."
+  },
+  "634314a19295900a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Para efeitos da aplicação do artigo 9.º, segundo parágrafo, da presente diretiva a Comissão pode, tendo em conta as normas internacionais e o progresso técnico, através de atos de execução adotados nos termos do Regulamento (CE) n.º 882/2004 do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#E0008)), estabelecer métodos de análise para verificar se o mel cumpre as disposições da presente diretiva. Os referidos atos de execução são adotados pelo procedimento de execução a que se refere o artigo 7.º, n.º 2, da presente diretiva. Até à aprovação desses métodos, os Estados-Membros devem, sempre que possível, utilizar métodos de análise validados e internacionalmente reconhecidos, como os aprovados pelo Codex Alimentarius, para verificar o cumprimento do disposto na presente diretiva.\n\n2. A fim de assegurar práticas comerciais leais e proteger os interesses dos consumidores, bem como permitir que se estabeleçam métodos de análise relevantes, a Comissão fica habilitada a adotar atos delegados, nos termos do artigo 6.º, para completar a presente diretiva, definindo os parâmetros quantitativos relativos aos seguintes pontos:\n\na) A definição do critério de «principalmente», respeitante à origem floral ou vegetal do mel, a que se refere o artigo 2.º, ponto 2, alínea b), primeiro travessão; e\n\nb) O teor mínimo de pólen no mel filtrado, após eliminação das matérias orgânicas ou inorgânicas estranhas à sua composição, referidas no Anexo I, ponto 2, alínea b), subalínea viii).\n\nA Comissão deve estabelecer, nesses atos delegados, medidas transitórias adequadas para os produtos colocados no mercado antes da data de aplicação dos referidos atos delegados."
+  },
+  "25ce040260b16b3e": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 4.º, n.º 2, é conferido à Comissão por um prazo de cinco anos a contar de 23 de junho de 2014. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por prazos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 4.º, n.º 2, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n5. Os atos delegados adotados nos termos do artigo 4.º, n.º 2, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação desse ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "81e16c783374f2d2": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal (“Comité”) criado pelo artigo 58.º, n.º 1, do Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#E0009)). Esse Comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^10^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#E0010)).\n\n2. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.\n\nNa falta de parecer do Comité, a Comissão não pode adotar o projeto de ato de execução, aplicando-se o artigo 5.º, n.º 4, terceiro parágrafo, do Regulamento (UE) n.º 182/2011."
+  },
+  "89f8c0adb6e40928": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Agosto de 2003 e informar imediatamente a Comissão desse facto.\n\nEstas disposições devem ser aplicadas de modo a:\n\n— autorizar, com efeitos a partir de 1 de Agosto de 2003, a comercialização dos produtos definidos no anexo I que obedeçam às definições e regras previstas na presente directiva,\n\n— proibir, com efeitos a partir de 1 de Agosto de 2004, a comercialização dos produtos não conformes com a presente directiva.\n\nContudo, até ao esgotamento das existências, é autorizada a comercialização dos produtos não conformes com a presente directiva que tiverem sido rotulados nos termos da Directiva 74/409/CEE até 1 de Agosto de 2004.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros."
+  },
+  "afcc2e9ff0bd9414": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "ce9fa090e4baa8eb": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "1a2f647c17a4b53d": {
+   "fragment_id": "DENOMINAÇÕES E DEFINIÇÕES DOS PRODUTOS",
+   "type": "divisao",
+   "heading": "DENOMINAÇÕES E DEFINIÇÕES DOS PRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DENOMINAÇÕES E DEFINIÇÕES DOS PRODUTOS\n\n1. Mel é a substância açucarada natural produzida pela abelha *Apis mellifera* a partir do néctar das flores ou das secreções procedentes de partes vivas de plantas ou de excreções de insectos sugadores de plantas que ficam sobre partes vivas de plantas, que as abelhas recolhem, transformam, combinam com substâncias específicas próprias, depositam, desidratam, armazenam e deixam amadurecer nos favos da colmeia.\n\n2. Os principais tipos de mel são os seguintes: a) Consoante a origem: i) Mel de néctar ou mel de flores Mel obtido a partir do néctar das flores; ii) Mel de melada Mel obtido principalmente a partir de excreções de insectos sugadores de plantas (*Hemiptera*) que ficam sobre partes vivas de plantas ou de secreções procedentes de partes vivas de plantas. b) Consoante o modo de produção e/ou a forma de apresentação: iii) Mel em favos Mel armazenado pelas abelhas nos alvéolos operculados de favos construídos recentemente pelas próprias abelhas ou de finas folhas de cera gravada realizadas exclusivamente com cera de abelha e que não contenham criação, vendido em favos inteiros ou em secções de favos; iv) Mel com pedaços de favos Mel que contém um ou vários pedaços de mel em favos; v) Mel escorrido Mel obtido por escorrimento de favos desoperculados que não contenham criação; vi) Mel centrifugado Mel obtido por centrifugação de favos desoperculados que não contenham criação; vii) Mel prensado Mel obtido por compressão de favos que não contenham criação, sem aquecimento ou com aquecimento moderado de 45 °C no máximo; viii) Mel filtrado Mel obtido por um processo de eliminação de matérias orgânicas ou inorgânicas estranhas à sua composição que retire uma parte importante do pólen.\n\n3. Mel para uso industrial Mel: a) próprio para usos industriais ou como ingrediente de outros géneros alimentícios transformados, e b) que pode: — apresentar um sabor ou cheiro anormal, ou — ter começado a fermentar ou ter fermentado, ou — ter sido sobreaquecido."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "8df8bca606da4a93": {
+   "fragment_id": "CRITÉRIOS DE COMPOSIÇÃO DOS MÉIS",
+   "type": "divisao",
+   "heading": "CRITÉRIOS DE COMPOSIÇÃO DOS MÉIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRITÉRIOS DE COMPOSIÇÃO DOS MÉIS\n\nO mel é constituído essencialmente por diversos açúcares, predominando a glucose e a frutose, assim como por outras substâncias tais como ácidos orgânicos, enzimas e partículas sólidas provenientes da sua colheita. A cor do mel pode variar de uma tonalidade quase incolor a castanho-escuro. No que respeita à consistência, pode apresentar-se fluido, espesso ou cristalizado (em parte ou na totalidade). O sabor e o aroma variam consoante a origem vegetal.\n\nQuando comercializado como tal ou quando utilizado em qualquer produto destinado ao consumo humano, não pode ter sido ser adicionado ao mel nenhum ingrediente alimentar, nem sequer nenhum aditivo alimentar. O mel deve estar isento, na medida do possível, de matérias orgânicas ou inorgânicas estranhas à sua composição. Com excepção da categoria referida no ponto 3 do anexo I, não deve apresentar sabores ou cheiros anormais, nem ter começado a fermentar, nem apresentar uma acidez que tenha sido alterada artificialmente, nem ter sido aquecido de modo a que as suas enzimas naturais tenham sido destruídas ou consideravelmente inactivadas.\n\nSem prejuízo do disposto no Anexo I, ponto 2, alínea b), subalínea viii), não pode ser retirado do mel o pólen nem nenhum dos seus componentes, exceto se tal for inevitável aquando da eliminação de matérias orgânicas ou inorgânicas estranhas à sua composição.\n\nQuando comercializado como tal ou quando utilizado em qualquer produto destinado ao consumo humano, o mel deve obedecer aos seguintes critérios de composição:\n\n1. Teor de açúcares\n\n1.1. Teor total de frutose e glucose\n\n— Mel de néctar no mínimo 60 g/100 g\n\n— Mel de melada e misturas de mel de melada com mel de néctar no mínimo 45 g/100 g\n\n1.2. Teor de sacarose\n\n— Em geral no máximo 5 g/100 g\n\n— *Robinia pseudoacacia* (acácia bastarda), *Medicago sativa* (luzerna ou alfafa), *Banksia menziesii*, *Hedysarum* (hedisaro), *Eucalyptus camadulensis*, *Eucryphia lucida, Eucryphia nilliganii, Citrus* spp. no máximo 10 g/100 g\n\n— *Lavandula* spp., *Borago officinalis* (borragem) no máximo 15 g/100 g\n\n2. Teor de água\n\n— Em geral no máximo 20 %\n\n— Mel de urze *(Calluna)* e mel para uso industrial em geral no máximo 23 %\n\n— Mel de urze *(Calluna)* para uso industrial no máximo 25 %\n\n3. Teor de matérias insolúveis na água\n\n— Em geral no máximo 0,1 g/100 g\n\n— Mel prensado no máximo 0,5 g/100 g\n\n4. Condutividade eléctrica\n\n— Mel não enumerado a seguir e misturas desses méis no máximo 0,8 mS/cm\n\n— Mel de melada, mel de flores de castanheiro e misturas desses méis, excepto com os a seguir enumerados no mínimo 0,8 mS/cm\n\n— Excepções: *Arbutus unedo* (medronheiro), *Erica* (erica), *Eucalyptus* (eucalipto), *Tilia* spp. (tília), *Calluna vulgaris* (torga ordinária), *Leptospermum* (leptospermo), *Melaleuca* spp. (melaleuca)\n\n5. Teor de ácidos livres\n\n— Em geral no máximo 50 miliequivalentes por kg\n\n— Mel para uso industrial no máximo 80 miliequivalentes por kg\n\n6. Índice diastásico e teor de hidroximetilfurfural (HMF), determinados após tratamento e mistura\n\na) Índice diastásico (escala de Schade)\n\n— Em geral, com excepção do mel para uso industrial no mínimo 8\n\n— Méis com baixo teor natural de enzimas (por exemplo, méis de flores de citrinos) e teor de HMF não superior a 15 mg/kg no mínimo 3\n\nb) HMF\n\n— Em geral, com excepção do mel para uso industrial no máximo 40 mg/kg [sem prejuízo do disposto na alínea a), segundo travessão]\n\n— Mel de origem declarada de regiões de clima tropical e misturas desses méis no máximo 80 mg/kg\n\n---"
+  },
+  "a5c3352c734ade31": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#src.E0001)) JO C 231 de 9.8.1996, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#src.E0002)) JO C 279 de 1.10.1999, p. 91.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#src.E0003)) JO C 56 de 24.2.1997, p. 20.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#src.E0004)) JO L 221 de 12.8.1974, p. 10. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1985.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#src.E0005)) JO L 109 de 6.5.2000, p. 29.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#src.E0007)) Regulamento (UE) n.º 1169/2011 do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, relativo à prestação de informação aos consumidores sobre os géneros alimentícios, que altera os Regulamentos (CE) n.º 1924/2006 e (CE) n.º 1925/2006 do Parlamento Europeu e do Conselho e revoga as Diretivas 87/250/CEE da Comissão, 90/496/CEE do Conselho, 1999/10/CE da Comissão, 2000/13/CE do Parlamento Europeu e do Conselho, 2002/67/CE e 2008/5/CE da Comissão e o Regulamento (CE) n.º 608/2004 da Comissão (JO L 304 de 22.11.2011, p. 18).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#src.E0008)) Regulamento (CE) n.º 882/2004 do Parlamento Europeu e do Conselho, de 29 de abril de 2004, relativo aos controlos oficiais realizados para assegurar a verificação do cumprimento da legislação relativa aos alimentos para animais e aos géneros alimentícios e das normas relativas à saúde e ao bem-estar dos animais (JO L 165 de 30.4.2004, p. 1).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#src.E0009)) Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios (JO L 31 de 1.2.2002, p. 1).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/373fc4ad-cd18-4143-86f1-533ebfa2c317.0015.02/DOC_1#src.E0010)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13)."
+  },
+  "ffc27e9774ecff08": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 2001\n\nrelativa ao mel"
+  },
+  "7963b202bf93493c": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO Regulamento (UE) n.º 1169/2011 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/5f7f7eb2-4358-11f1-8095-01aa75ed71a1.0019.02/DOC_1#E0001)) é aplicável aos produtos definidos no anexo I da presente diretiva, sob as seguintes condições:\n\n1. O termo «mel» será aplicado apenas ao produto definido no ponto 1 do anexo I e deve ser utilizado no comércio para designar esse produto.\n\n2. As denominações a que se referem os pontos 2 e 3 do anexo I são reservadas aos produtos neles definidos e são utilizadas no comércio para designar esses produtos. Essas denominações podem ser substituídas pela simples denominação «mel», exceto no caso do mel em favos, do mel com pedaços de favos e do mel para uso industrial.\n\na) No caso do mel para uso industrial, devem figurar na rotulagem, na proximidade da denominação, os termos «apenas para uso culinário»;\n\nb) Salvo no que se refere ao mel para uso industrial, essas denominações podem ser completadas por indicações relativas:\n\n— à origem floral ou vegetal do produto, se este provier total ou principalmente da origem indicada e possuir as características organoléticas, físico-químicas e microscópicas de tal origem,\n\n— à origem regional, territorial ou topográfica do produto, se este provier na sua totalidade da origem indicada,\n\n— a critérios de qualidade específicos;\n\n3. Caso tenha sido utilizado mel para uso industrial como ingrediente de um género alimentício composto, o termo «mel» pode constar da denominação desse género alimentício, em vez de «mel para uso industrial». Todavia, na lista dos ingredientes, será utilizada a denominação completa referida no ponto 3 do anexo I.\n\n4.\n\na) Deve indicar-se na rotulagem o país de origem em que o mel tenha sido colhido. Se o mel for originário de mais de um país, os países de origem em que o mel tenha sido colhido devem ser indicados no rótulo no campo visual principal, por ordem decrescente da sua percentagem em peso, juntamente com a percentagem que cada um desses países de origem representa. Deve ser permitida uma tolerância de 5 % para cada parte individual da mistura, calculada com base na documentação de rastreabilidade do operador.\n\nb) As menções a indicar nos termos da alínea a) do presente número são consideradas menções obrigatórias nos termos do artigo 9.º do Regulamento (UE) n.º 1169/2011;\n\n5. O pólen, sendo um componente natural específico do mel, não deve ser considerado um ingrediente, na aceção do artigo 2.º, ponto 2, alínea f), do Regulamento (UE) n.º 1169/2011 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/5f7f7eb2-4358-11f1-8095-01aa75ed71a1.0019.02/DOC_1#E0002)), dos produtos definidos no Anexo I da presente diretiva."
+  },
+  "b4bb4bf96d6a3c80": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nNo caso do mel para uso industrial, os recipientes de mel a granel, as embalagens e a documentação de venda devem indicar claramente a denominação completa do produto, conforme previsto no ponto 3 do anexo I."
+  },
+  "f5e262fc07c0c33b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA Comissão pode, tendo em conta as normas internacionais e o progresso técnico, adotar atos de execução que estabeleçam os métodos de análise para verificar se o mel cumpre a presente diretiva.\n\nA Comissão adota, até 14 de junho de 2028, tendo em conta as normas internacionais e o progresso técnico, atos de execução que estabeleçam os métodos de análise para deteção de mel adulterado.\n\nOs atos de execução referidos no presente artigo são adotados pelo procedimento de exame a que se refere o artigo 7.º, n.º 2.\n\nAté à aprovação dos atos de execução pertinentes, os Estados-Membros devem, sempre que possível, utilizar métodos de análise validados e internacionalmente reconhecidos, como os aprovados pelo *Codex Alimentarius*, para verificar o cumprimento da presente diretiva."
+  },
+  "cb5495a84a101d74": {
+   "fragment_id": "Artigo 4.º-A",
+   "type": "artigo",
+   "heading": "Artigo 4.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º-A\n\n1.\n\nA fim de assegurar práticas comerciais leais e proteger os interesses dos consumidores, a Comissão fica habilitada a adotar atos delegados, nos termos do artigo 6.º, para completar a presente diretiva, definindo os seguintes pontos:\n\na) O critério de «principalmente», respeitante à origem floral ou vegetal do mel, a que se refere o artigo 2.º, ponto 2, segundo parágrafo, alínea b), primeiro travessão;\n\nb) Os critérios de composição a fim de garantir que o mel, com exceção do mel para uso industrial conforme definido no ponto 3 do anexo I, que é colocado no mercado como mel ou utilizado num produto destinado ao consumo humano não foi aquecido nem tratado de modo que as enzimas naturais tenham sido destruídas ou significativamente desativadas, tendo em conta o índice de invertase;\n\nc) Os critérios para garantir e verificar que o pólen não é retirado do mel e que o conteúdo absoluto de pólen e o espectro polínico não são modificados no mel, com exceção do mel para uso industrial definido no ponto 3 do anexo I, quando colocado no mercado como mel ou utilizado num produto destinado ao consumo humano, tendo em conta o teor de pólen, a dimensão mínima do pólen e a abertura da malha dos filtros;\n\nd) O teor mínimo de pólen no mel para uso industrial após a eliminação de matérias orgânicas ou inorgânicas estranhas;\n\ne) Os métodos e critérios para determinar o local onde o mel foi colhido e os requisitos de rastreabilidade aplicáveis ao mel a nível da União, desde o produtor da colheita ou importador até ao consumidor.\n\nA Comissão adota os atos delegados referidos nas alíneas b) a e) do primeiro parágrafo até 14 de junho de 2029.\n\nAntes de adotar esses atos delegados, a Comissão realiza estudos de viabilidade. No estudo de viabilidade realizado relativo ao primeiro parágrafo, alínea e), a Comissão deve incluir uma análise das soluções ou métodos digitais disponíveis, incluindo, se for caso disso, um código identificador único ou técnicas semelhantes.\n\nA Comissão deve estabelecer, nos atos delegados a que se refere o primeiro parágrafo, medidas transitórias adequadas para os produtos colocados no mercado antes da data de aplicação desses atos delegados.\n\n2. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 6.º para alterar o anexo II através da adaptação dos critérios de composição enumerados nesse anexo aos critérios estabelecidos nos atos delegados a que se refere o n.º 1, primeiro parágrafo, alínea b), do presente artigo."
+  },
+  "6a845d6762dca192": {
+   "fragment_id": "Artigo 4.º-B",
+   "type": "artigo",
+   "heading": "Artigo 4.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º-B\n\n1.\n\nÉ criada uma plataforma composta pelos seguintes elementos:\n\na) Representantes dos Estados-Membros, autoridades competentes e laboratórios designados;\n\nb) Peritos que representem as partes interessadas pertinentes da cadeia de abastecimento do mel;\n\nc) Peritos que representem a sociedade civil;\n\nd) Peritos designados a título pessoal que tenham conhecimentos e experiência comprovados nos domínios abrangidos pela presente diretiva;\n\ne) Peritos representantes do setor académico, incluindo universidades, institutos de investigação e outras organizações científicas.\n\n2.\n\nA plataforma deve:\n\na) Recolher dados sobre métodos que permitam melhorar os controlos da autenticidade do mel, nomeadamente métodos para detetar a adulteração do mel, tendo em vista a sua possível harmonização;\n\nb) Formular recomendações para um sistema de rastreabilidade da União, com vista a rastrear o mel até ao produtor da colheita ou importador;\n\nc) Formular recomendações sobre a eventual necessidade de atualizar os critérios de composição e outros parâmetros de qualidade estabelecidos na presente diretiva;\n\nd) Formular recomendações com vista à criação de um laboratório de referência da União.\n\n3. A plataforma é presidida pela Comissão. A Comissão adota regras sobre a composição e os métodos de trabalho da plataforma. A Comissão pode convidar *ad hoc* peritos com conhecimentos especializados específicos."
+  },
+  "f4fcbc4fa6cae5c4": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal («Comité») criado pelo artigo 58.º, n.º 1, do Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/5f7f7eb2-4358-11f1-8095-01aa75ed71a1.0019.02/DOC_1#E0003)). Esse Comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/5f7f7eb2-4358-11f1-8095-01aa75ed71a1.0019.02/DOC_1#E0004)).\n\n2. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.\n\nNa falta de parecer do Comité, a Comissão não pode adotar o projeto de ato de execução, aplicando-se o artigo 5.º, n.º 4, terceiro parágrafo, do Regulamento (UE) n.º 182/2011."
+  },
+  "405eb48cd5a630d8": {
+   "fragment_id": "DENOMINAÇÕES E DEFINIÇÕES DOS PRODUTOS",
+   "type": "divisao",
+   "heading": "DENOMINAÇÕES E DEFINIÇÕES DOS PRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DENOMINAÇÕES E DEFINIÇÕES DOS PRODUTOS\n\n1. Mel é a substância açucarada natural produzida pela abelha *Apis mellifera* a partir do néctar das flores ou das secreções procedentes de partes vivas de plantas ou de excreções de insectos sugadores de plantas que ficam sobre partes vivas de plantas, que as abelhas recolhem, transformam, combinam com substâncias específicas próprias, depositam, desidratam, armazenam e deixam amadurecer nos favos da colmeia.\n\n2. Os principais tipos de mel são os seguintes: a) Consoante a origem: i) Mel de néctar ou mel de flores Mel obtido a partir do néctar das flores; ii) Mel de melada Mel obtido principalmente a partir de excreções de insectos sugadores de plantas (*Hemiptera*) que ficam sobre partes vivas de plantas ou de secreções procedentes de partes vivas de plantas. b) Consoante o modo de produção e/ou a forma de apresentação: iii) Mel em favos Mel armazenado pelas abelhas nos alvéolos operculados de favos construídos recentemente pelas próprias abelhas ou de finas folhas de cera gravada realizadas exclusivamente com cera de abelha e que não contenham criação, vendido em favos inteiros ou em secções de favos; iv) Mel com pedaços de favos Mel que contém um ou vários pedaços de mel em favos; v) Mel escorrido Mel obtido por escorrimento de favos desoperculados que não contenham criação; vi) Mel centrifugado Mel obtido por centrifugação de favos desoperculados que não contenham criação; vii) Mel prensado Mel obtido por compressão de favos que não contenham criação, sem aquecimento ou com aquecimento moderado de 45 °C no máximo. [▼M2](http://publications.europa.eu/resource/celex/32024L1438) ————— [▼B](http://publications.europa.eu/resource/celex/32001L0110)\n\n3. Mel para uso industrial Mel: a) próprio para usos industriais ou como ingrediente de outros géneros alimentícios transformados, e b) que pode: — apresentar um sabor ou cheiro anormal, ou — ter começado a fermentar ou ter fermentado, ou [▼C1](http://publications.europa.eu/resource/celex/32024L1438R%2801%29) — ter sido sobreaquecido, ou — ter sido obtido por um processo de eliminação de matérias orgânicas ou inorgânicas estranhas à sua composição que retire uma parte importante do pólen. [▼B](http://publications.europa.eu/resource/celex/32001L0110)"
+  },
+  "976d7acfa9425efe": {
+   "fragment_id": "CRITÉRIOS DE COMPOSIÇÃO DOS MÉIS",
+   "type": "divisao",
+   "heading": "CRITÉRIOS DE COMPOSIÇÃO DOS MÉIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRITÉRIOS DE COMPOSIÇÃO DOS MÉIS\n\nO mel é constituído essencialmente por diversos açúcares, predominando a glucose e a frutose, assim como por outras substâncias tais como ácidos orgânicos, enzimas e partículas sólidas provenientes da sua colheita. A cor do mel pode variar de uma tonalidade quase incolor a castanho-escuro. No que respeita à consistência, pode apresentar-se fluido, espesso ou cristalizado (em parte ou na totalidade). O sabor e o aroma variam consoante a origem vegetal.\n\nQuando comercializado como tal ou quando utilizado em qualquer produto destinado ao consumo humano, não pode ter sido ser adicionado ao mel nenhum ingrediente alimentar, nem sequer nenhum aditivo alimentar. O mel deve estar isento, na medida do possível, de matérias orgânicas ou inorgânicas estranhas à sua composição. Com excepção da categoria referida no ponto 3 do anexo I, não deve apresentar sabores ou cheiros anormais, nem ter começado a fermentar, nem apresentar uma acidez que tenha sido alterada artificialmente, nem ter sido aquecido de modo a que as suas enzimas naturais tenham sido destruídas ou consideravelmente inactivadas.\n\nSem prejuízo do disposto no [**►M2**](http://publications.europa.eu/resource/celex/32024L1438) [**►C1**](http://publications.europa.eu/resource/celex/32024L1438R%2801%29) ponto 3, quarto travessão, do anexo I**◄** **◄**, não pode ser retirado do mel o pólen nem nenhum dos seus componentes, exceto se tal for inevitável aquando da eliminação de matérias orgânicas ou inorgânicas estranhas à sua composição.\n\nQuando comercializado como tal ou quando utilizado em qualquer produto destinado ao consumo humano, o mel deve obedecer aos seguintes critérios de composição:\n\n1. Teor de açúcares\n\n1.1. Teor total de frutose e glucose\n\n— Mel de néctar no mínimo 60 g/100 g\n\n— Mel de melada e misturas de mel de melada com mel de néctar no mínimo 45 g/100 g\n\n1.2. Teor de sacarose\n\n— Em geral no máximo 5 g/100 g\n\n— *Robinia pseudoacacia* (acácia bastarda), *Medicago sativa* (luzerna ou alfafa), *Banksia menziesii*, *Hedysarum* (hedisaro), *Eucalyptus camadulensis*, *Eucryphia lucida, Eucryphia nilliganii, Citrus* spp. no máximo 10 g/100 g\n\n— *Lavandula* spp., *Borago officinalis* (borragem) no máximo 15 g/100 g\n\n2. Teor de água\n\n— Em geral no máximo 20 %\n\n— Mel de urze *(Calluna)* e mel para uso industrial em geral no máximo 23 %\n\n— Mel de urze *(Calluna)* para uso industrial no máximo 25 %\n\n3. Teor de matérias insolúveis na água\n\n— Em geral no máximo 0,1 g/100 g\n\n— Mel prensado no máximo 0,5 g/100 g\n\n4. Condutividade eléctrica\n\n— Mel não enumerado a seguir e misturas desses méis no máximo 0,8 mS/cm\n\n— Mel de melada, mel de flores de castanheiro e misturas desses méis, excepto com os a seguir enumerados no mínimo 0,8 mS/cm\n\n— Excepções: *Arbutus unedo* (medronheiro), *Erica* (erica), *Eucalyptus* (eucalipto), *Tilia* spp. (tília), *Calluna vulgaris* (torga ordinária), *Leptospermum* (leptospermo), *Melaleuca* spp. (melaleuca)\n\n5. Teor de ácidos livres\n\n— Em geral no máximo 50 miliequivalentes por kg\n\n— Mel para uso industrial no máximo 80 miliequivalentes por kg\n\n6. Índice diastásico e teor de hidroximetilfurfural (HMF), determinados após tratamento e mistura\n\na) Índice diastásico (escala de Schade)\n\n— Em geral, com excepção do mel para uso industrial no mínimo 8\n\n— Méis com baixo teor natural de enzimas (por exemplo, méis de flores de citrinos) e teor de HMF não superior a 15 mg/kg no mínimo 3\n\nb) HMF\n\n— Em geral, com excepção do mel para uso industrial no máximo 40 mg/kg [sem prejuízo do disposto na alínea a), segundo travessão]\n\n— Mel de origem declarada de regiões de clima tropical e misturas desses méis no máximo 80 mg/kg\n\n---"
+  },
+  "99b955db6559cb95": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5f7f7eb2-4358-11f1-8095-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (UE) n.º 1169/2011 do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, relativo à prestação de informação aos consumidores sobre os géneros alimentícios, que altera os Regulamentos (CE) n.º 1924/2006 e (CE) n.º 1925/2006 do Parlamento Europeu e do Conselho e revoga as Diretivas 87/250/CEE da Comissão, 90/496/CEE do Conselho, 1999/10/CE da Comissão, 2000/13/CE do Parlamento Europeu e do Conselho, 2002/67/CE e 2008/5/CE da Comissão e o Regulamento (CE) n.º 608/2004 da Comissão (JO L 304 de 22.11.2011, p. 18).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5f7f7eb2-4358-11f1-8095-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (UE) n.º 1169/2011 do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, relativo à prestação de informação aos consumidores sobre os géneros alimentícios, que altera os Regulamentos (CE) n.º 1924/2006 e (CE) n.º 1925/2006 do Parlamento Europeu e do Conselho e revoga as Diretivas 87/250/CEE da Comissão, 90/496/CEE do Conselho, 1999/10/CE da Comissão, 2000/13/CE do Parlamento Europeu e do Conselho, 2002/67/CE e 2008/5/CE da Comissão e o Regulamento (CE) n.º 608/2004 da Comissão (JO L 304 de 22.11.2011, p. 18).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5f7f7eb2-4358-11f1-8095-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios (JO L 31 de 1.2.2002, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5f7f7eb2-4358-11f1-8095-01aa75ed71a1.0019.02/DOC_1#src.E0004)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13)."
+  }
+ }
+}

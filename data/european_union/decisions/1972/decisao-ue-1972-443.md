@@ -34,6 +34,38 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '1995-01-01'
+version_history:
+  file: decisao-ue-1972-443.versoes.json
+  count: 2
+  source_lastmod: '1995-01-01'
+  versions:
+  - date: '1972-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
 identifiers:
   celex: 31972D0443
   eli: http://data.europa.eu/eli/dec/1972/443/oj
@@ -48,7 +80,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e3851c0d-4d78-410a-8a4b-1796bc6242d0.0011
   content_url: http://publications.europa.eu/resource/cellar/8dbb49da-7ae2-4bfa-a44f-ee1e97c2bddf.0010.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01972D0443-19950101
-  retrieved_at: '2026-10-22T03:02:14Z'
+  retrieved_at: '2026-10-22T14:30:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T14:09:48.013+01:00'
 integrity:
@@ -57,9 +89,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:02:14Z'
-  notes: Texto consolidado 01972D0443-19950101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:30:10Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-1972-443.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -136,15 +168,16 @@ relationships:
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:02:14Z'
+  checked_at: '2026-10-22T14:30:10Z'
   warnings:
-  - Não foi detetado o título principal no XHTML.
+  - '01972D0443-19810101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01972D0443-19860701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

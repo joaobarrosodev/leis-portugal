@@ -1,0 +1,159 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993R0461:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R0461-20080201",
+ "dre_path": null,
+ "source_lastmod": "2008-02-01",
+ "versions": [
+  {
+   "date": "1993-02-27",
+   "future": false,
+   "celex": "31993R0461",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "384f3426bb687cea",
+    "1ee8e175eeb1601d",
+    "2dd302040348cb01",
+    "90621f5cb1b2b34a",
+    "4b282075873ff63a",
+    "52d84c672238bb8e",
+    "85742660c0704da9",
+    "8b6093a662569e76",
+    "f9e2dd911b670217",
+    "000fd1aba6041d51",
+    "a280d657919a325d",
+    "13c73b93bb4a5197"
+   ]
+  },
+  {
+   "date": "2008-02-01",
+   "future": false,
+   "celex": "01993R0461-20080201",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1°",
+    "Suprime Artigo 2°",
+    "Suprime Artigo 3°",
+    "Suprime Artigo 4°",
+    "Suprime Artigo 5°",
+    "Suprime Artigo 6°",
+    "Suprime Artigo 7°",
+    "Suprime Artigo 8°",
+    "Suprime Artigo 9°",
+    "Suprime Artigo 10°",
+    "Suprime Artigo 11°"
+   ],
+   "fragments": [
+    "00637efe0afdea17"
+   ]
+  }
+ ],
+ "fragments": {
+  "384f3426bb687cea": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 461/93 da Comissão, de 26 de Fevereiro de 1993, que estabelece as regras de execução da grelha comunitária de classificação das carcaças de ovinos** *Jornal Oficial nº L 049 de 27/02/1993 p. 0070 - 0074 Edição especial finlandesa: Capítulo 3 Fascículo 48 p. 0142 Edição especial sueca: Capítulo 3 Fascículo 48 p. 0142*\n\nREGULAMENTO (CEE) N° 461/93 DA COMISSÃO de 26 de Fevereiro de 1993 que estabelece as regras de execução da grelha comunitária de classificação das carcaças de ovinos\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) n° 3013/89 do Conselho, de 25 de Setembro de 1989, que estabelece a organização comum de mercado no sector das carnes de ovino e caprino (1), com a última redacção que lhe foi dada pelo Regulamento (CEE) n° 363/93 (2), e, nomeadamente, o n° 5 do seu artigo 4°,\n\nTendo em conta o Regulamento (CEE) n° 2137/92 do Conselho, de 23 de Julho de 1992, relativo à grelha comunitária de classificação de carcaças de ovinos e à qualidade-tipo comunitária de carcaças de ovino frescas ou refrigeradas e que prorroga o Regulamento (CEE) n° 338/91 (3), e, nomeadamente, o seu artigo 2°, o n° 3 do seu artigo 4°, os seus artigos 5° e 6° e o n° 2 do seu artigo 7°,\n\nConsiderando que o Regulamento (CEE) n° 2137/92 prevê normas comunitárias para a classificação de carcaças, com o objectivo de aumentar a transparência no sector da carne de ovino; que são necessárias regras de execução para a determinação dos preços de mercado estabelecidos com base nessas normas de classificação; que é necessário prever a determinação dos preços de mercado no momento adequado do processo de comercialização; que esse momento deve ser o da entrada no matadouro; que, para garantir uma classificação uniforme das carcaças de ovinos na Comunidade, é necessário adoptar definições mais precisas das classes de conformação, de camada de gordura e de cor;\n\nConsiderando que é necessário estabelecer um sistema de comunicação de preços baseado na classificação efectuada no matadouro, imediatamente após o abate; que tal sistema exige uma identificação adequada das carcaças;\n\nConsiderando que a classificação deve ser feita por pessoal suficientemente qualificado; que a fiabilidade da classificação deve ser verificada por uma inspecção efectiva, de forma a garantir uma aplicação uniforme;\n\nConsiderando que o Regulamento (CEE) n° 2137/92 prevê a realização de inspecções no local por um grupo comunitário de inspecção, para garantir uma aplicação uniforme da grelha comunitária de classificação em toda a Comunidade;\n\nConsiderando que é necessário estatuir as normas de composição do grupo e de execução das inspecções no local;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de gestão dos ovinos e caprinos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1ee8e175eeb1601d": {
+   "fragment_id": "Artigo 1°",
+   "type": "artigo",
+   "heading": "Artigo 1°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1°\n\n1. O preço de mercado a estabelecer com base na grelha comunitária de classificação das carcaças de ovinos, referido no n° 1 do artigo 7° do Regulamento (CEE) n° 2137/92, será o preço pago ao fornecedor pelos borregos de origem comunitária, à entrada do matadouro, sem o IVA. Este preço é expresso por 100 quilogramas de peso de carcaça, apresentada conforme a apresentação de referência mencionada no artigo 2° do referido regulamento, pesada e classificada no gancho do matadouro.\n\n2. O peso a tomar em consideração será o da carcaça, a quente, corrigido de forma a ter em conta a perda de peso durante a refrigeração. Os Estados-membros informarão a Comissão dos factores de correcção que utilizarem.\n\n3. No caso de a apresentação da carcaça, após pesagem e classificação no gancho, diferir da apresentação de referência, o seu peso será ajustado pelos Estados-membros, mediante a utilização de factores de correcção, tal como previsto no artigo 2° do Regulamento (CEE) n° 2137/92. Os Estados-membros notificarão a Comissão dos factores de correcção utilizados. Todavia, relativamente às categorias A e B referidas no anexo III do mesmo regulamento, os Estados-membros podem comunicar os preços, por 100 quilogramas, para a apresentação corrente destas carcaças. Nesse caso, os Estados-membros informarão a Comissão das diferenças entre essa apresentação e a apresentação de referência."
+  },
+  "2dd302040348cb01": {
+   "fragment_id": "Artigo 2°",
+   "type": "artigo",
+   "heading": "Artigo 2°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2°\n\n1. Os Estados-membros cuja produção de carne de ovino exceda 200 toneladas por ano comunicarão à Comissão, antes de 15 de Março de 1993, a lista confidencial dos matadouros e/ou outros estabelecimentos participantes no estabelecimento dos preços de acordo com a grelha comunitária, a seguir designados estabelecimentos participantes, acompanhada de uma indicação da produção anual aproximada desses matadouros e/ou estabelecimentos participantes.\n\n2. A partir de 8 de Abril de 1993, o mais tardar, os Estados-membros referidos no n° 1 comunicarão à Comissão, o mais tardar às quintas-feiras, e relativamente a todos os matadouros e/ou estabelecimentos participantes, o preço médio em moeda nacional de cada qualidade de borrego da grelha comunitária, registado durante a semana anterior àquela em que é dada a informação, com indicação da importância relativa a de cada qualidade. No entanto, se uma qualidade representar menos de 1 % do total, não é necessário comunicar o seu preço. Os Estados-membros comunicarão igualmente à Comissão o preço médio, numa base ponderal, de todos os borregos classificados em cada grelha utilizada para efeitos da comunicação de preços.\n\nTodavia, os Estados-membros podem subdividir os preços comunicados por classes de conformação a camada de gordura previstas no anexo, numa base ponderal. O termo « qualidade » é definido como a combinação das classes de conformação e de camada de gordura."
+  },
+  "90621f5cb1b2b34a": {
+   "fragment_id": "Artigo 3°",
+   "type": "artigo",
+   "heading": "Artigo 3°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3°\n\nAs disposições adicionais referidas no artigo 6° do Regulamento (CEE) n° 2137/92 são as estabelecidas no anexo do presente regulamento para as classes de conformação e de camada de gordura. A cor da carne, referida no anexo III do Regulamento (CEE) n° 2137/92, será determinada no flanco, no rectus abdominus, por referência a uma escala de cores padrão."
+  },
+  "4b282075873ff63a": {
+   "fragment_id": "Artigo 4°",
+   "type": "artigo",
+   "heading": "Artigo 4°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4°\n\n1. A classificação será feita, o mais tardar, uma hora após o abate.\n\n2. A identificação, referida no n° 2 do artigo 4° do Regulamento (CEE) n° 2137/92, das carcaças e meias carcaças classificadas em conformidade com a grelha comunitária de classificação das carcaças de ovinos nos estabelecimentos participantes é efectuada mediante uma marcação que indique a categoria e as classes de conformação e de camada de gordura.\n\nEsta marcação é efectuada por estampilhagem com uma tinta indelével e não tóxica, de acordo com um processo aprovado pelas autoridades nacionais competentes.\n\nAs categorias são designadas do seguinte modo:\n\nL. Carcaças de ovinos com menos de 12 meses (borregos);\n\nS. Carcaças de outros ovinos.\n\n3. Os Estados-membros podem permitir a substituição da marcação por uma etiqueta inalterável e que possa ser fixada de forma segura."
+  },
+  "52d84c672238bb8e": {
+   "fragment_id": "Artigo 5°",
+   "type": "artigo",
+   "heading": "Artigo 5°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5°\n\n1. Os Estados-membros velarão por que a classificação seja efectuada por técnicos suficientemente qualificados. Os Estados-membros determinarão tais pessoas medidante processo de aprovação ou designação de um organismo responsável.\n\n2. As classificações efectuadas nos estabelecimentos participantes abrangidos pelo artigo 2° serão submetidas a controlos no local, efectuados sem aviso prévio por um organismo independente do estabelecimento participante, designado pelo Estado-membro. Os controlos devem ser realizados, pelo menos, uma vez de três em três meses, em todos os estabelecimentos participantes que procedam à classificação e devem abranger, pelo menos, 50 carcaças escolhidas ao acaso.\n\nTodavia, sempre que o organismo de controlo seja também o organismo responsável pela classificação, ou no caso de não estar submetido à autoridade de um organismo público, os controlos previstos no primeiro parágrafo devem ser objecto de uma supervisão física por um organismo público, nas mesmas condições e pelo menos uma vez por ano. O organismo público será informado regularmente dos resultados dos trabalhos do organismo de controlo."
+  },
+  "85742660c0704da9": {
+   "fragment_id": "Artigo 6°",
+   "type": "artigo",
+   "heading": "Artigo 6°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6°\n\n1. O grupo de inspecção comunitário referido no artigo 5° do Regulamento (CEE) n° 2137/92, a seguir designado « grupo », será responsável pela realização de inspecções no local que incidam sobre:\n\na) A aplicação das disposições relativas à grelha comunitária de classificação de carcaças de ovinos;\n\nb) A verificação dos preços do mercado de acordo com a referida grelha."
+  },
+  "8b6093a662569e76": {
+   "fragment_id": "Artigo 7°",
+   "type": "artigo",
+   "heading": "Artigo 7°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7°\n\nO grupo é presidido por um dos peritos da Comissão. Os Estados-membros designarão os peritos com base na sua independência e competência em matéria de classificação das carcaças e de verificação de preços de mercado.\n\nOs peritos não podem em caso algum divulgar nem utilizar para fins pessoais as informações obtidas em relação com os trabalhos do grupo."
+  },
+  "f9e2dd911b670217": {
+   "fragment_id": "Artigo 8°",
+   "type": "artigo",
+   "heading": "Artigo 8°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8°\n\n1. As inspecções no local serão levadas a cabo em cada Estado-membro por uma delegação do grupo de, no máximo, nove membros, constituída para o efeito de acordo com as seguintes regras:\n\n- dois peritos da Comissão, no mínimo, um dos quais exercerá a presidência da delegação,\n\n- um perito do Estado-membro em questão,\n\n- um perito do Estado-membro em cujo território o grupo tenha efectuado a última inspecção no local,\n\n- um perito do Estado-membro em cujo território o grupo efectuar uma das inspecções seguintes,\n\n- três peritos, no máximo, de outros Estados-membros.\n\n2. A composição da delegação aquando da primeira inspecção será decidida pela Comissão."
+  },
+  "000fd1aba6041d51": {
+   "fragment_id": "Artigo 9°",
+   "type": "artigo",
+   "heading": "Artigo 9°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9°\n\n1. As inspecções no local serão efectuadas em cada Estado-membro, de três em três anos, pelo menos, podendo, se necessário, ser seguidas por visitas complementares. Para estas visitas, a composição da delegação pode ser reduzida.\n\nO programa das visitas de inspecção será estabelecido pela Comissão, após consulta dos Estados-membros. Podem assistir às inspecções representantes do Estado-membro visitado.\n\n2. Os Estados-membros organizarão as visitas a efectuar no seu território com base nas condições definidas pela Comissão. Para o efeito, 30 dias antes da visita, o Estado-membro enviará o programa pormenorizado das visitas de inspecção previstas à Comissão, que pode solicitar alterações ao programa.\n\n3. Antes de cada visita, a Comissão informará os Estados-membros, tão cedo quanto possível, do programa e da condução da mesma.\n\n4. No termo de cada visita, os membros da delegação e os representantes do Estados-membro visitado reunir-se-ão para apreciar os seus resultados. Os membros da delegação tirarão então as conclusões da visita, no respeitante aos pontos referidos no artigo 6° 5. O presidente da delegação redigirá um relatório sobre as inspecções efectuadas, que incluirá as conclusões referidas no n° 4. O relatório será enviado à Comissão e a todos os Estados-membros, o mais depressa possível, e em todo o caso antes de decorridos 30 dias sobre o termo da visita."
+  },
+  "a280d657919a325d": {
+   "fragment_id": "Artigo 10°",
+   "type": "artigo",
+   "heading": "Artigo 10°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10°\n\nAs despesas de viagem e de estadia dos membros da delegação serão suportadas pela Comissão, em conformidade com a regulamentação aplicável ao reembolso de despesas de viagem e de estadia das pessoas estranhas à Comissão e a que esta recorre na qualidade de peritos."
+  },
+  "13c73b93bb4a5197": {
+   "fragment_id": "Artigo 11°",
+   "type": "artigo",
+   "heading": "Artigo 11°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11°\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 26 de Fevereiro de 1993.\n\nPela Comissão René STEICHEN Membro da Comissão"
+  },
+  "00637efe0afdea17": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993R0461 — PT — 01.02.2008 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993R0461) [REGULAMENTO (CEE) Nº 461/93 DA COMISSÃO](http://publications.europa.eu/resource/celex/31993R0461) [de 26 de Fevereiro de 1993](http://publications.europa.eu/resource/celex/31993R0461) [que estabelece as regras de execução da grelha comunitária de classificação das carcaças de ovinos](http://publications.europa.eu/resource/celex/31993R0461) (JO L 049, 27.2.1993, p.70)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 22/2008 da Comissão de 11 de Janeiro de 2008](http://publications.europa.eu/resource/celex/32008R0022) — L 9 — 6 — 12.1.2008"
+  }
+ }
+}

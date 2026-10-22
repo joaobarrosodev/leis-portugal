@@ -1,0 +1,366 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31968L0151:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01968L0151-20091021",
+ "dre_path": null,
+ "source_lastmod": "2009-10-21",
+ "versions": [
+  {
+   "date": "1968-03-14",
+   "future": false,
+   "celex": "31968L0151",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01968L0151-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32003L0058:por",
+     "title": "DIRECTIVA 2003/58/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Julho de 2003",
+     "published": null,
+     "celex": "32003L0058"
+    },
+    {
+     "id": "eu:celex:32006L0099:por",
+     "title": "DIRECTIVA 2006/99/CE DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006L0099"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Dinamarca, da Irlanda e do Reino Unido da Grã-Bretanha e da Irlanda do Norte",
+     "published": null,
+     "celex": "11972B"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Grécia",
+     "published": null,
+     "celex": "11979H"
+    },
+    {
+     "id": null,
+     "title": "►A3",
+     "published": null,
+     "celex": "11985I"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Adita preambulo",
+    "Adita Artigo 1º",
+    "Adita SECÇÃO I",
+    "Adita Publicidade",
+    "Adita Artigo 2º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 3.ºA",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5º",
+    "Adita Artigo 6.º",
+    "Adita SECÇÃO II",
+    "Adita Validade das obrigações contraídas pela sociedade",
+    "Adita Artigo 7º",
+    "Adita Artigo 8º",
+    "Adita Artigo 9º",
+    "Adita SECÇÃO III",
+    "Adita Invalidade do contrato de sociedade",
+    "Adita Artigo 10º",
+    "Adita Artigo 11º",
+    "Adita Artigo 12º",
+    "Adita SECÇÃO IV",
+    "Adita Disposições gerais",
+    "Adita Artigo 13º",
+    "Adita Artigo 14º",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "0dece7adb481b177",
+    "58837764d56b5d4a",
+    "19572906891c0646",
+    "809691c1494b1161",
+    "db287b143a42ae33",
+    "8100e58f865eafc6",
+    "2ef586a748dc1a27",
+    "90ca266c2bc1f935",
+    "5c2c30bdfe46d1b1",
+    "c6cb06542aa9c130",
+    "0b50b9972a75b595",
+    "c2d002e3e66b32a6",
+    "b7616a96d9696827",
+    "cec204bbd7c40d70",
+    "9a7470c36a3b07b0",
+    "b4f1bfdbc841cf04",
+    "0deed5c35d5e2661",
+    "c02bdfe5a9435059",
+    "6f45d1963c2ee686",
+    "6bb2736ba2412c69",
+    "b9c1c438fac65788",
+    "7fabed8a0a46afb5",
+    "3aff2fbd1c8cc734",
+    "451e1e489b729e41",
+    "80a1c1dcf5db7de3"
+   ]
+  },
+  {
+   "date": "2009-10-21",
+   "future": false,
+   "celex": "01968L0151-20091021",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime SECÇÃO I",
+    "Suprime Publicidade",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 3.ºA",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6.º",
+    "Suprime SECÇÃO II",
+    "Suprime Validade das obrigações contraídas pela sociedade",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime SECÇÃO III",
+    "Suprime Invalidade do contrato de sociedade",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime SECÇÃO IV",
+    "Suprime Disposições gerais",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "acf5b6b3b70b93e2"
+   ]
+  }
+ ],
+ "fragments": {
+  "0dece7adb481b177": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Março de 1968\n\ntendente a coordenar as garantias que, para protecção dos interesses dos sócios e de terceiros, são exigidas nos Estados-membros às sociedades, na acepção do segundo parágrafo do artigo 58º do Tratado, a fim de tornar equivalentes essas garantias em toda a Comunidade\n\n68/151/CEE\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o nº 3, alínea g), do seu artigo 54º,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o nº 3, alínea g), do seu artigo 54º ([^1^](http://publications.europa.eu/resource/cellar/b4ec68fc-7193-4fcc-87e3-6ca39f933b08.0018.03/DOC_1#E0001)),\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/b4ec68fc-7193-4fcc-87e3-6ca39f933b08.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/b4ec68fc-7193-4fcc-87e3-6ca39f933b08.0018.03/DOC_1#E0003)),\n\nConsiderando que é urgente a coordenação prevista no nº 3, alínea g), do artigo 54º, e no Programa Geral para a Supressão das Restrições à Liberdade de Estabelecimento, nomeadamente em relação às sociedades por acções e às outras sociedades de responsabilidade limitada, porquanto a actividade destas sociedades frequentemente se estende para além dos limites do território nacional;\n\nConsiderando que a coordenação das disposições nacionais respeitantes à publicidade, à validade das obrigações contraídas por estas sociedades e à nulidade destas, reveste particular importância, nomeadamente para assegurar a protecção dos interesses de terceiros;\n\nConsiderando que, neste domínio, devem ser adoptadas simultaneamente disposições comunitárias para estas sociedades, visto que, como garantia, em face de terceiros, elas apenas oferecem o património social;\n\nConsiderando que a publicidade deve permitir que os terceiros conheçam os actos essenciais da sociedade e certas indicações a ela respeitantes, nomeadamente a identidade das pessoas que têm o poder de a vincular;\n\nConsiderando que a protecção de terceiros deve ser assegurada por disposições que limitem, na medida do possível, as causas de invalidade das obrigações contraídas em nome da sociedade;\n\nConsiderando que, para garantir a segurança jurídica tanto nas relações entre a sociedade e terceiros, como entre os sócios, é necessário limitar os casos de nulidade, assim como o efeito retroactivo da declaração de nulidade, e fixar um prazo curto para a oposição de terceiros a esta declaração,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "58837764d56b5d4a": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nAs medidas de coordenação prescritas pela presente directiva aplicam-se às disposições legislativas, regulamentares e administrativas dos Estados-membros relativas aos seguintes tipos de sociedades:\n\n— *para a República Federal da Alemanha:*\n\n— die Aktiengesellschaft, die Kommanditgesellschaft auf Aktien, die Gesellschaft mit beschränkter Haftung;\n\n— *para a Bélgica:*\n\nde naamloze vennootschap, la société anonyme,\n\nde commanditaire vennootschap op aandelen, la société en commandite par actions,\n\nde personenvennootschap met beperkte aansprakelijkheid; la société de personnes à responsabilité limitée;\n\n— *para a França:*\n\n— la société anonyme, la société en commandite par actions, la société à responsabilité limitée, la société par actions simplifiée;\n\n— *para a Itália:*\n\n— società per azioni, società in accomandita per azioni, società a responsabilità limitata;\n\n— *para o Luxemburgo:*\n\n— la société anonyme, la société en commandite par actions, la société à responsabilité limitée;\n\n— *para os Países Baixos:*\n\n— de naamloze vennootschap, de besloten vennootschap met beperkte aansprakelijkheid;\n\n— *para o Reino Unido:*\n\n— companies incorporated with limited liability;\n\n— *para a Irlanda:*\n\n— companies incorporated with limited liability;\n\n— *para a Dinamarca:*\n\n— aktieselskab, kommanditaktieselskab, anpartsselskab;\n\n— *para a Grécia:*\n\n— ανώνυμη εταιρία, εταιρία περιωρισμένης ευθύνης, ετερόρρυθμη κατά μετοχές εταιρία;\n\n— *em relação* (SIC! *para*) *a Espanha:*\n\n— la sociedad anónima, la sociedad comanditaria por acciones, la sociedad de responsabilidad limitada;\n\n— *em relação a* (SIC*! para*) *Portugal:*\n\n— a sociedade anónima de responsabilidade limitada, a sociedade em comandita por acções, a sociedade por quotas de responsabilidade limitada;\n\n— *para a Áustria:*\n\n— die Aktiengesellschaft, die Gesellschaft mit beschränkter Haftung;\n\n— *para a Finlândia:*\n\n— yksityinen osakeyhtiöprivat aktiebolag, julkinen osakeyhtiöpublikt aktiebolag;\n\n— *para a Suécia:*\n\n— aktiebolag;\n\n— *para a República Checa:*\n\n— *společnost s ručením omezeným, akciová společnost*;\n\n— *para a Estónia:*\n\n— *aktsiaselts, osaühing*;\n\n— *para Chipre:*\n\n— *Δημόσιες εταιρείες περιορισμένης ευθύνης με μετοχές ή με εγγύηση, ιδιωτικές εταιρείες περιορισμένης ευθύνης με μετοχές ή με εγγύηση*;\n\n— *para a Letónia:*\n\n— *akciju sabiedrība, sabiedrība ar ierobežotu atbildību, komanditsabiedrība*;\n\n— *para a Lituânia:*\n\n— *akcinė bendrovė, uždaroji akcinė bendrovė*;\n\n— *para a Hungria:*\n\n— *részvénytársaság, korlátolt felelősségű társaság*;\n\n— *para Malta:*\n\n— kumpanija pubblika/public limited liability company, kumpanija privata/private limited liability company;\n\n— *para a Polónia:*\n\n— *spółka z ograniczoną odpowiedzialnością, spółka komandytowo-akcyjna, spółka akcyjna*;\n\n— *para a Eslovénia:*\n\n— *delniška družba, družba z omejeno odgovornostjo, komaditna delniška družba*;\n\n— *para a Eslováquia:*\n\n— *akciová spoločnosť, spoločnosť s ručením obmedzeným*;\n\n— *para a Bulgária:*\n\n— *акционерно дружество, дружество с ограничена отговорност, командитно дружество с акции*;\n\n— *para a Roménia:*\n\n— *societate pe acțiuni, societate cu răspundere limitată, societate în comandită pe acțiuni*."
+  },
+  "19572906891c0646": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO I"
+  },
+  "809691c1494b1161": {
+   "fragment_id": "Publicidade",
+   "type": "divisao",
+   "heading": "Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Publicidade"
+  },
+  "db287b143a42ae33": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os Estados-membros tomarão as medidas necessárias para que a publicidade obrigatória relativa às sociedades abranja, pelo menos, os seguintes actos e indicações:\n\na) O acto constitutivo e os estatutos, se estes forem objecto de um acto separado;\n\nb) As alterações dos actos mencionados na alínea a), nelas compreendendo a prorrogação da sociedade;\n\nc) Depois de cada alteração do acto constitutivo ou dos estatutos, o texto integral do acto alterado, na sua redacção actualizada;\n\nd) A nomeação e a cessação de funções, assim como a identidade das pessoas que, na qualidade de órgão legalmente previsto ou de membros de tal órgão:\n\ni) Têm o poder de vincular a sociedade para com terceiros e de a representar em juízo,\n\nii) Participam na administração, na vigilância ou na fiscalização da sociedade.\n\ne) Uma vez por ano, pelo menos, o montante do capital subscrito, nos casos em que o acto constitutivo ou os estatutos mencionarem um capital autorizado, salvo se o aumento do capital subscrito acarretar uma atleração (SIC! alteração) dos estatutos;\n\nf) Os documentos contabilísticos de cada exercício, que devem ser publicados em conformidade com as Directivas 78/660/CEE ([^4^](http://publications.europa.eu/resource/cellar/b4ec68fc-7193-4fcc-87e3-6ca39f933b08.0018.03/DOC_1#E0004)), 83/349/CEE ([^5^](http://publications.europa.eu/resource/cellar/b4ec68fc-7193-4fcc-87e3-6ca39f933b08.0018.03/DOC_1#E0005)), 86/635/CEE ([^6^](http://publications.europa.eu/resource/cellar/b4ec68fc-7193-4fcc-87e3-6ca39f933b08.0018.03/DOC_1#E0006)) e 91/674/CEE ([^7^](http://publications.europa.eu/resource/cellar/b4ec68fc-7193-4fcc-87e3-6ca39f933b08.0018.03/DOC_1#E0007)) do Conselho;\n\ng) Qualquer transferência da sede social;\n\nh) A dissolução da sociedade;\n\ni) A decisão judicial que declare a nulidade da sociedade;\n\nj) A nomeação e a identidade dos liquidatários, bem como os seus poderes respectivos, salvo se estes poderes resultarem expressa e exclusivamente da lei ou dos estatutos;\n\nk) O encerramento da liquidação, assim como o cancelamento do registo nos Estados-membros em que este cancelamento produza efeitos jurídicos."
+  },
+  "8100e58f865eafc6": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Em cada Estado-Membro será aberto um processo, seja junto de um registo central, seja junto de um registo comercial ou de um registo das sociedades, para cada uma das sociedades que aí estiverem inscritas.\n\n2. Todos os documentos e indicações que estão sujeitos a publicidade, por força do artigo 2.º, serão arquivados no processo ou transcritos no registo. O objecto das transcrições no registo deve, em qualquer caso, constar do processo.\n\nOs Estados-Membros assegurarão que o arquivo no processo, por parte das sociedades e das restantes pessoas e órgãos obrigados a efectuar o arquivo ou a nele colaborar, de todos os documentos e indicações sujeitos a publicidade em conformidade com o artigo 2.º possa ser efectuado por via electrónica, o mais tardar a partir de 1 de Janeiro de 2007. Além disso, os Estados-Membros podem impor a todas ou a certas categorias de sociedades o arquivo no processo por via electrónica de todos ou de certos tipos desses documentos e indicações.\n\nTodos os documentos e indicações referidos no artigo 2.º que forem arquivados no processo a partir de 1 de Janeiro de 2007, quer em suporte de papel quer por via electrónica, serão arquivados no processo ou transcritos no registo em formato electrónico. Para este efeito, os Estados-Membros assegurarão que todos os documentos e indicações que forem arquivados em suporte de papel a partir de 1 de Janeiro de 2007 sejam transcritos no registo em formato electrónico.\n\nOs documentos e indicações referidos no artigo 2.º arquivados em suporte de papel até 31 de Dezembro de 2006 não têm de ser convertidos automaticamente para formato electrónico pelo registo. Os Estados-Membros assegurarão, porém, que sejam convertidos para formato electrónico pelo registo, após recepção de um pedido de que lhes seja dada publicidade por via electrónica, apresentado de acordo com as normas adoptadas para dar execução ao disposto no n.º 3.\n\n3. Deve poder ser obtida, mediante pedido, cópia integral ou parcial dos documentos ou indicações mencionados no artigo 2.º A partir de 1 de Janeiro de 2007 os pedidos podem ser apresentados ao registo em suporte de papel ou por via electrónica, à escolha do requerente.\n\nA partir de uma data a fixar por cada Estado-Membro, mas não posterior a 1 de Janeiro de 2007, as cópias referidas no primeiro parágrafo podem ser obtidas do registo em suporte de papel ou por via electrónica, à escolha do requerente. A presente disposição aplica-se a todos os documentos e indicações, independentemente de terem sido arquivados antes ou depois da data fixada. Porém, os Estados-Membros podem decidir que todos ou certos tipos de documentos e indicações arquivados em suporte de papel até 31 de Dezembro de 2006 não poderão ser obtidos do registo em formato electrónico se tiverem sido arquivados se já tiver decorrido um determinado período entre o arquivo e a apresentação do pedido. Tal período não pode ser inferior a 10 anos.\n\nO custo da obtenção de uma cópia integral ou parcial dos documentos ou indicações mencionados no artigo 2.º, tanto em suporte de papel como por via electrónica, não pode ser superior ao respectivo custo administrativo.\n\nAs cópias em suporte de papel fornecidas serão autenticadas, salvo se o requerente dispensar tal autenticação. As cópias em formato electrónico não serão autenticadas, salvo se o requerente expressamente solicitar tal autenticação.\n\nOs Estados-Membros tomarão as medidas necessárias para assegurar que a autenticação das cópias em formato electrónico garanta tanto a autenticidade da sua origem como a integridade do respectivo conteúdo, pelo menos através de uma assinatura electrónica avançada na acepção do n.º 2 do artigo 2.º da Directiva 1999/93/CE do Parlamento Europeu e do Conselho, de 13 de Dezembro de 1999, relativa a um quadro legal comunitário para as assinaturas electrónicas ([^8^](http://publications.europa.eu/resource/cellar/b4ec68fc-7193-4fcc-87e3-6ca39f933b08.0018.03/DOC_1#E0008)).\n\n4. Os documentos e as indicações referidos no n.º 2 serão objecto de publicação integral ou por extracto, sob a forma de uma menção que assinale o arquivamento do documento no processo ou pela sua transcrição no registo, no jornal oficial nacional designado pelo Estado-Membro. O jornal oficial nacional designado para esse efeito pode ser arquivado sob forma electrónica.\n\nOs Estados-Membros podem decidir substituir a publicação no jornal oficial nacional por meios igualmente eficazes, que exijam pelo menos a utilização de um sistema mediante o qual a informação objecto de publicidade possa ser acedida por ordem cronológica através de uma plataforma electrónica central.\n\n5. Os documentos e as indicações não são oponíveis a terceiros pela sociedade antes de publicados de acordo com o n.º 4, excepto se a sociedade provar que esses terceiros tinham conhecimento deles.\n\nTodavia, relativamente às operações efectuadas antes do décimo sexto dia seguinte ao da publicação, tais documentos e indicações não são oponíveis a terceiros, desde que estes provem não ter tido a possibilidade de tomar conhecimento deles.\n\n6. Os Estados-Membros tomarão as medidas necessárias para evitar qualquer discordância entre o conteúdo da publicidade em conformidade com o n.º 4 e o conteúdo do registo ou do processo.\n\nTodavia, em caso de discordância, o texto publicado em conformidade com o n.º 4 não é oponível a terceiros. Estes podem, no entanto, prevalecer-se do texto publicado, salvo se a sociedade provar que eles tiveram conhecimento do texto arquivado no processo ou transcrito no registo.\n\n7. Os terceiros podem, além disso, prevalecer-se sempre dos documentos e indicações relativamente aos quais não tenham ainda sido cumpridas as formalidades de publicidade, salvo se a falta de publicidade os privar de efeitos.\n\n8. Para os efeitos do presente artigo, a expressão «por via electrónica» significará que a informação é enviada desde a origem e recebida no seu destino através de instrumentos electrónicos de processamento (incluindo a compressão digital) e armazenamento de dados e que é inteiramente transmitida, encaminhada e recebida por cabo, rádio, meios ópticos ou outros meios electromagnéticos, na forma determinada pelos Estados-Membros."
+  },
+  "2ef586a748dc1a27": {
+   "fragment_id": "Artigo 3.ºA",
+   "type": "artigo",
+   "heading": "Artigo 3.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.ºA\n\n1. Os documentos e indicações sujeitos a publicidade nos termos do artigo 2.º serão elaborados e arquivados numa das línguas autorizadas pelo regime linguístico aplicável no Estado-Membro em que se abra o processo referido no n.º 1 do artigo 3.º\n\n2. Para além da publicidade obrigatória a que se refere o artigo 3.º, os Estados-Membros devem autorizar que os documentos e indicações referidos no artigo 2.º sejam publicados em conformidade com o artigo 3.º em qualquer das línguas oficiais da Comunidade.\n\nOs Estados-Membros podem exigir a autenticação da tradução de tais documentos e indicações.\n\nOs Estados-Membros tomarão as medidas necessárias para facilitar o acesso de terceiros às traduções voluntariamente publicadas.\n\n3. Para além da publicidade obrigatória a que se refere o artigo 3.º, e da publicidade voluntária prevista no n.º 2 do presente artigo, os Estados-Membros podem autorizar que os documentos e indicações em questão sejam publicados em conformidade com o artigo 3.º em qualquer outra língua.\n\nOs Estados-Membros podem exigir a autenticação da tradução de tais documentos e indicações.\n\n4. Em caso de discrepância entre os documentos e indicações publicados nas línguas oficiais do registo e a tradução voluntariamente publicada, esta não é oponível a terceiros. Estes podem, no entanto, invocar as traduções voluntariamente publicadas, salvo se a sociedade provar que tinham conhecimento da versão objecto de publicidade obrigatória."
+  },
+  "90ca266c2bc1f935": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros exigirão que a correspondência e as notas de encomenda, tanto em suporte de papel como em qualquer outro meio, contenham as seguintes indicações:\n\na) A informação necessária para identificar o registo onde se encontra aberto o processo mencionado no artigo 3.º, bem como o número de matrícula sob o qual a sociedade está inscrita nesse registo;\n\nb) O tipo de sociedade, o lugar da sua sede social e, se for caso disso, o facto de que a sociedade se encontra em liquidação.\n\nSe, nesses documentos, for feita menção ao capital da sociedade, devem ser indicados o capital subscrito e o capital realizado.\n\nOs Estados-Membros exigirão que os sítios internet das sociedades contenham, pelo menos, as indicações referidas no primeiro parágrafo e, se aplicável, as menções ao capital subscrito e realizado."
+  },
+  "5c2c30bdfe46d1b1": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nCada Estado-membro determinará quais as pessoas obrigadas a efectuar as formlidades (SIC! formalidades) de publicidade."
+  },
+  "c6cb06542aa9c130": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-Membros devem estabelecer sanções apropriadas pelo menos nos seguintes casos:\n\na) Falta de publicidade dos documentos contabilísticos prevista na alínea f) do n.º 1 do artigo 2.º;\n\nb) Omissão nos documentos comerciais ou no sítio internet das sociedades das indicações obrigatórias previstas no artigo 4.º."
+  },
+  "0b50b9972a75b595": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO II"
+  },
+  "c2d002e3e66b32a6": {
+   "fragment_id": "Validade das obrigações contraídas pela sociedade",
+   "type": "divisao",
+   "heading": "Validade das obrigações contraídas pela sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Validade das obrigações contraídas pela sociedade"
+  },
+  "b7616a96d9696827": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nSe foram praticados actos em nome de uma sociedade em formação, antes de ela ter adquirido personalidade jurídica, e a sociedade não vier a assumir as obrigações daí decorrentes, as pessoas que os realizaram serão solidária e ilimitadamente responsáveis por tais actos, salvo convenção em contrário."
+  },
+  "cec204bbd7c40d70": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nA realização das formalidades de publicidade relativas às pessoas que, na qualidade de órgão social, têm o poder de vincular a sociedade, torna qualquer irregularidade ocorrida na sua nomeação inoponível a terceiros, salvo se a sociedade provar que esses terceiros tinham conhecimento da irregularidade."
+  },
+  "9a7470c36a3b07b0": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. A sociedade vincula-se perante terceiros pelos actos realizados pelos seus órgãos, mesmo se tais actos forem alheios ao seu objecto social, a não ser que esses actos excedam os poderes que a lei atribui ou permite atribuir a esses órgãos.\n\nTodavia, os Estados-membros podem prever que a sociedade não fica vinculada, quando aqueles actos ultrapassem os limites do objecto social, se ela provar que o terceiro sabia, ou não o podia ignorar, tendo em conta as circunstâncias, que o acto ultrapassava esse objecto; a simples publicação dos estatutos não constitui, para este efeito, prova bastante.\n\n2. As limitações aos poderes dos órgãos da sociedade que resultem dos estatutos ou de uma resolução dos órgãos competentes, são sempre inoponíveis a terceiros, mesmo que tenham sido publicadas.\n\n3. Quando a legislação nacional prveja (SIC! preveja) que o poder de representar a sociedade é atribuído por cláusula estatutária, derrogatória da norma legal sobre a matéria, a uma só pessoa ou a várias pessoas agindo conjuntamente, essa legislação pode prever a oponibilidade de tal cláusula a terceiros, desde que ela seja referente ao poder geral de representação; a oponibilidade a terceiros de uma tal disposição estatutária é regulada pelas disposições do artigo 3º."
+  },
+  "b4f1bfdbc841cf04": {
+   "fragment_id": "SECÇÃO III",
+   "type": "divisao",
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO III"
+  },
+  "0deed5c35d5e2661": {
+   "fragment_id": "Invalidade do contrato de sociedade",
+   "type": "divisao",
+   "heading": "Invalidade do contrato de sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Invalidade do contrato de sociedade"
+  },
+  "c02bdfe5a9435059": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nEm todos os Estados-membros cuja legislação não preveja um controlo preventivo, administrativo ou judicial, aquando da constituição da sociedade, o acto constitutivo e os estatutos desta, bem como as alterações a tais actos, devem ser celebrados por documento autêntico."
+  },
+  "6f45d1963c2ee686": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nA legislação dos Estados-membros pode regular o regime das invalidades do contrato de sociedade, desde que respeite as seguintes regras:\n\n1. A invalidade deve ser reconhecida por decisão judicial;\n\n2. A invalidade apenas pode ser reconhecida com os seguintes fundamentos:\n\na) Falta de acto constitutivo ou inobservância quer das formalidades de fiscalização preventiva, quer da forma autêntica;\n\nb) Natureza ilícita ou contrária à ordem pública do objecto da sociedade;\n\nc) Omissão, no acto constitutivo ou nos estatutos, de indicação relativa à denominação da sociedade, às entradas, ao montante total do capital subscrito ou ao objecto social;\n\nd) Inobservância das disposições da legislação nacional relativas à liberação mínima do capital social;\n\ne) Incapacidade de todos os sócios fundadores;\n\nf) Quando, contrariamente à legislação nacional aplicável à sociedade, o número de sócios fundadores for inferior a dois."
+  },
+  "6bb2736ba2412c69": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. A oponibilidade a terceiros da decisão judicial que reconheça a invalidade é regulada pelo disposto no artigo 3º. A oposição de terceiros, quando o direito nacional a preveja, só será admitida durante o prazo de seis meses, a contar da publicação da decisão judicial.\n\n2. A invalidade provocará a liquidação da sociedade, da mesma forma que a dissolução.\n\n3. A invalidade não afecta, por si mesma, a validade das obrigações contraídas pela sociedade ou para com ela, sem prejuízo dos efeitos do estado de liquidação.\n\n4. A legislação dos Estados-membros pode regular os efeitos da invalidade entre os sócios.\n\n5. Os titulares de quotas ou de acções continuarão obrigados ao pagamento do capital subscrito e não liberado, na medida em que tal for necessário para o cumprimento das obrigações contraídas para com os credores."
+  },
+  "b9c1c438fac65788": {
+   "fragment_id": "SECÇÃO IV",
+   "type": "divisao",
+   "heading": "SECÇÃO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO IV"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "3aff2fbd1c8cc734": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nOs Estados-membros porão em vigor, no prazo de dezoito meses a contar da notificação da directiva, todas as alterações às suas disposições legislativas, regulamentares ou administrativas, que sejam necessárias para darem cumprimento às disposições da presente directiva. Dese (SIC! Desse) facto informarão imediatamente a Comissão.\n\nA obrigação de publicidade prevista no nº 1, alínea f), do artigo 2º só entrará em vigor, no que respeita às sociedades anónimas do direito neerlandês, diversas das indicadas no actual artigo 42º c do Código Comercial neerlandês, trinta meses após a notificação da presente directiva.\n\nOs Estados-membros podem prever que a publicidade relativa ao texto integral dos estatutos, na redacção resultante das alterações efectuadas desde a constituição da sociedade, seja exigida apenas, pela primeira vez, quando ocorrer a próxima alteração dos estatutos, ou, na sua falta, até 31 de Dezembro de 1970.\n\nOs Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "451e1e489b729e41": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nOs Estados-membros são (SIC! são os) destinatários da presente directiva.\n\n---"
+  },
+  "80a1c1dcf5db7de3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b4ec68fc-7193-4fcc-87e3-6ca39f933b08.0018.03/DOC_1#src.E0001)) JO nº 2 de 15. 1. 1962, p. 36/62.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b4ec68fc-7193-4fcc-87e3-6ca39f933b08.0018.03/DOC_1#src.E0002)) JO nº 96 de 28. 5. 1966, p. 1519/66.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b4ec68fc-7193-4fcc-87e3-6ca39f933b08.0018.03/DOC_1#src.E0003)) JO nº 194 de 27. 11. 1964, p. 3248/64.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b4ec68fc-7193-4fcc-87e3-6ca39f933b08.0018.03/DOC_1#src.E0004)) JO L 222 de 14.8.1978, p. 11. Directiva com a última redacção que lhe foi dada pela Directiva 2003/38/CE do Conselho (JO L 120 de 15.5.2003, p. 22).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b4ec68fc-7193-4fcc-87e3-6ca39f933b08.0018.03/DOC_1#src.E0005)) JO L 193 de 18.7.1983, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2003/51/CE (JO L 178 de 17.7.2003, p. 16).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b4ec68fc-7193-4fcc-87e3-6ca39f933b08.0018.03/DOC_1#src.E0006)) JO L 372 de 31.12.1986, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2003/51/CE.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b4ec68fc-7193-4fcc-87e3-6ca39f933b08.0018.03/DOC_1#src.E0007)) JO L 374 de 31.12.1991, p. 7.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/b4ec68fc-7193-4fcc-87e3-6ca39f933b08.0018.03/DOC_1#src.E0008)) JO L 13 de 19.1.2000, p. 12."
+  },
+  "acf5b6b3b70b93e2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1968L0151 — PT — 21.10.2009 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31968L0151) [PRIMEIRA DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31968L0151) [de 9 de Março de 1968](http://publications.europa.eu/resource/celex/31968L0151) [tendente a coordenar as garantias que, para protecção dos interesses dos sócios e de terceiros, são exigidas nos Estados-membros às sociedades, na acepção do segundo parágrafo do artigo 58º do Tratado, a fim de tornar equivalentes essas garantias em toda a Comunidade](http://publications.europa.eu/resource/celex/31968L0151) [68/151/CEE](http://publications.europa.eu/resource/celex/31968L0151) (JO L 065, 14.3.1968, p.8)\n\n**revogado por:**\n\n- [Directiva 2009/101/CE do Parlamento Europeu e do Conselho de 16 de Setembro de 2009](http://publications.europa.eu/resource/celex/32009L0101) — L 258 — 11 — 1.10.2009"
+  }
+ }
+}

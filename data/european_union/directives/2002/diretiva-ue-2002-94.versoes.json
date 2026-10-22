@@ -1,0 +1,509 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002L0094:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0094-20090101",
+ "dre_path": null,
+ "source_lastmod": "2009-01-01",
+ "versions": [
+  {
+   "date": "2002-12-13",
+   "future": false,
+   "celex": "32002L0094",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "eb27d1f690951359",
+    "1e6d6e0e375c13b5",
+    "b6eb2b97e062ee2a",
+    "87305c67d0d9da03",
+    "6e07ad0bb624c7a7",
+    "d13ccb6f2dd35045",
+    "8ddb3a046f7c966e",
+    "424aaa07452f5f53",
+    "2e2987af28929506",
+    "fac75403ba0b8448",
+    "417adf605cda3c5e",
+    "e6fa000f8969931c",
+    "68f7a36b436597c3",
+    "252edd95928c5b28",
+    "e9b3429770403ebd",
+    "95fef962dfdf92a8",
+    "161fd27228be944b",
+    "44056dd08d0ca445",
+    "5933ffddc84b1b0e",
+    "f01208603df1991b",
+    "7644b8c4d3c91eb8",
+    "1346aa7bda15446c",
+    "3cc5c9326e9f0048",
+    "efe2ea54a8d662e6",
+    "16b09d30484e6ada",
+    "f469d21ad6e53b79",
+    "79f628b11b60fabd",
+    "03d812f79d9969d5",
+    "976a245c535d6ce9",
+    "3cf21a3ad00ebacd",
+    "4612285a5b838c74",
+    "361d67fb8254a5cb",
+    "0278a2192b69b566",
+    "1560069c21d87edb",
+    "ba9f3688813b440b",
+    "132062145d1b1fce",
+    "fb9b0dc27dd52727",
+    "e01e2d56d7671a88",
+    "e24a35dcf8cff0f9",
+    "9a157c1043adaea5",
+    "9dcb9da6c16e6f54",
+    "69cb3d09e481c15c",
+    "4afc6794775d6ee7",
+    "6ab45dd27027c691",
+    "f7393dafa201acb1",
+    "19856b42e009ccb4",
+    "f58e362596bbd86a"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "celex": "02002L0094-20090101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I — DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime CAPÍTULO II — PEDIDOS DE INFORMAÇÃO",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime CAPÍTULO III — PEDIDOS DE NOTIFICAÇÃO",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime CAPÍTULO IV — PEDIDOS DE COBRANÇA OU DE TOMADA DE MEDIDAS CAUTELARES",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º — Os pedidos de cobrança relativos a medidas cautelares podem dizer respeito a qualquer das pessoas referidas no artigo 4.o",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime CAPÍTULO V — TRANSMISSÃO DE COMUNICAÇÕES",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime Artigo 24.º",
+    "Suprime CAPÍTULO VI — ÂMBITO E RECUSA DE PEDIDOS DE ASSISTÊNCIA",
+    "Suprime Artigo 25.º",
+    "Suprime Artigo 26.º",
+    "Suprime CAPÍTULO VII — MODALIDADES DE REEMBOLSO",
+    "Suprime Artigo 27.º",
+    "Suprime Artigo 28.º",
+    "Suprime CAPÍTULO VIII — DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 29.º",
+    "Suprime Artigo 30.º",
+    "Suprime Artigo 31.º",
+    "Suprime Artigo 32.º",
+    "Suprime Artigo 33.º",
+    "Suprime Artigo 34.º",
+    "Suprime ANEXO I — >PIC FILE= \"L_2002337PT.004702.TIF\">",
+    "Suprime ANEXO II — >PIC FILE= \"L_2002337PT.004902.TIF\">",
+    "Suprime ANEXO III — >PIC FILE= \"L_2002337PT.005102.TIF\">",
+    "Suprime ANEXO IV — >PIC FILE= \"L_2002337PT.005402.TIF\">"
+   ],
+   "fragments": [
+    "44e15504918038f0"
+   ]
+  }
+ ],
+ "fragments": {
+  "eb27d1f690951359": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2002/94/CE da Comissão, de 9 de Dezembro de 2002, que fixa as normas de execução de certas disposições da Directiva 76/308/CEE do Conselho relativa à assistência mútua em matéria de cobrança de créditos respeitantes a certas quotizações, direitos, impostos e outras medidas** *Jornal Oficial nº L 337 de 13/12/2002 p. 0041 - 0054*\n\nDirectiva 2002/94/CE da Comissão\n\nde 9 de Dezembro de 2002\n\nque fixa as normas de execução de certas disposições da Directiva 76/308/CEE do Conselho relativa à assistência mútua em matéria de cobrança de créditos respeitantes a certas quotizações, direitos, impostos e outras medidas\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 76/308/CEE do Conselho, de 15 de Março de 1996, relativa à assistência mútua em matéria de cobrança de créditos respeitantes a certas quotizações, direitos, impostos e outras medidas(1), com a última redacção que lhe foi dada pela Directiva 2001/44/CE(2) e, nomeadamente, o seu artigo 22.o,\n\nConsiderando o seguinte:\n\n(1) O sistema de assistência mútua entre as autoridades competentes dos Estados-Membros, tal como consta da Directiva 76/308/CEE, foi alterado no que diz respeito às informações a transmitir à autoridade requerente, à notificação ao destinatário dos actos e decisões que produzem efeitos jurídicos no que lhe diz respeito, à adopção de medidas cautelares e à cobrança pela autoridade requerida de créditos em nome da autoridade requerente.\n\n(2) Por conseguinte, no que diz respeito a cada um destes aspectos, é necessário alterar em conformidade a Directiva 77/794/CEE da Comissão, de 4 de Novembro de 1977, que fixa as modalidades práticas necessárias à aplicação de certas disposições da Directiva 76/308/CEE relativa à assistência mútua em matéria de cobrança de créditos resultantes de operações que fazem parte do sistema de financiamento do Fundo Europeu de Orientação e de Garantia Agrícola, bem como de direitos niveladores agrícolas e de direitos aduaneiros, e respeitante ao imposto sobre o valor acrescentado(3), com a última redacção que lhe foi dada pela Directiva 86/489/CEE(4).\n\n(3) Devem também fixar-se normas de execução relativas aos meios de informações entre autoridades.\n\n(4) Com uma preocupação de clareza, convém substituir a Directiva 77/794/CEE.\n\n(5) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité de Cobrança.\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "1e6d6e0e375c13b5": {
+   "fragment_id": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — DISPOSIÇÕES GERAIS"
+  },
+  "b6eb2b97e062ee2a": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva estabelece as normas de execução dos n.os 2 e 4 do artigo 4.o, dos n.os 2 e 3 do artigo 5.o, dos artigos, 7.o, 8.o, 9.o e 11.o, dos n.os 1 e 2 do artigo 12.o, do artigo 14.o, do n.o 3 do artigo 18.o e do artigo 25.o da Directiva 76/308/CEE.\n\nEstabelece ainda normas de execução em matéria de conversão, de transferência dos montantes cobrados, de determinação do montante mínimo dos créditos que podem originar um pedido de assistência, bem como os meios através dos quais as comunicações entre as autoridades podem ser transmitidas."
+  },
+  "87305c67d0d9da03": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\n1. Transmissão \"por meios electrónicos\", a transmissão que recorre a equipamento electrónico de processamento (incluindo a compressão digital) de dados e que emprega fios, transmissão por rádio, tecnologias ópticas ou outros meios electromagnéticos;\n\n2. Rede \"CCN/CSI\", a plataforma comum baseada na rede comum de comunicações (CCN) e na interface comum de sistema (CSI), desenvolvida pela Comunidade para assegurar todas as transmissões por meios electrónicos entre autoridades competentes nos domínios aduaneiro e fiscal."
+  },
+  "6e07ad0bb624c7a7": {
+   "fragment_id": "CAPÍTULO II — PEDIDOS DE INFORMAÇÃO",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — PEDIDOS DE INFORMAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — PEDIDOS DE INFORMAÇÃO"
+  },
+  "d13ccb6f2dd35045": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO pedido de informações referido no artigo 4.o da Directiva 76/308/CEE deve ser formulado por escrito de acordo com o modelo que figura no anexo I da presente directiva. Caso o pedido não possa ser enviado por meios electrónicos, deve conter o carimbo oficial da autoridade requerente e ser assinado por um seu funcionário devidamente autorizado para o efeito.\n\nNo caso de ter sido formulado um pedido semelhante, a autoridade requerente deve indicar no pedido de informações, o nome da autoridade à qual dirigiu esse pedido."
+  },
+  "8ddb3a046f7c966e": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO pedido de informações pode respeitar:\n\n1. Ao devedor;\n\n2. A qualquer pessoa obrigada ao pagamento do crédito em conformidade com as disposições em vigor no Estado-Membro em que a autoridade requerente tiver a sua sede (adiante designado por \"Estado-Membro da autoridade requerente\");\n\n3. A terceiros na posse de bens pertencentes a qualquer das pessoas referidas nos pontos 1 ou 2."
+  },
+  "424aaa07452f5f53": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A autoridade requerida deve acusar por escrito a recepção do pedido de informações, no mais curto prazo e, em qualquer caso, nos sete dias subsequentes ao da recepção.\n\n2. Imediatamente após a recepção do pedido, a autoridade requerida convidará, se for o caso, a autoridade requerente a prestar quaisquer informações adicionais necessárias. A autoridade requerente prestará todas as informações adicionais necessárias a que tenha normalmente acesso."
+  },
+  "2e2987af28929506": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A autoridade requerida transmitirá à autoridade requerente todas as informações solicitadas à medida que as for obtendo.\n\n2. Se a totalidade ou parte das informações solicitadas não puderem ser obtidas dentro de um prazo razoável, tendo em conta a especificidade do caso, a autoridade requerida informará desse facto a autoridade requerente, indicando as respectivas razões.\n\nEm qualquer caso, decorrido o prazo de três meses a contar da data em que tiver acusado a recepção do pedido, a autoridade requerida informará a autoridade requerente do resultado das averiguações por ela efectuadas com o objectivo de obter as informações solicitadas.\n\nTendo em conta as informações comunicadas pela autoridade requerida, a autoridade requerente pode solicitar à autoridade requerida que prossiga as averiguações. Esse pedido deve ser formulado por escrito, no prazo de dois meses a contar da recepção da notificação do resultado das averiguações efectuadas pela autoridade requerida, e ser tratado por esta última nos termos das disposições aplicáveis ao pedido inicial."
+  },
+  "fac75403ba0b8448": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nSempre que a autoridade requerida decidir não dar seguimento ao pedido de informações, notificará por escrito à autoridade requerente os motivos da sua decisão, precisando as disposições do artigo 4.o da Directiva 76/308/CEE. Tal notificação deve ser feita pela autoridade requerida logo que tome a sua decisão e, em qualquer caso, antes de decorrido o prazo de três meses a contar da data em que tiver acusado a recepção do pedido."
+  },
+  "417adf605cda3c5e": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA autoridade requerente pode, em qualquer momento, retirar o pedido de informações que tiver transmitido à autoridade requerida. A decisão de retirar o pedido deve ser comunicada por escrito à autoridade requerida."
+  },
+  "e6fa000f8969931c": {
+   "fragment_id": "CAPÍTULO III — PEDIDOS DE NOTIFICAÇÃO",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — PEDIDOS DE NOTIFICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — PEDIDOS DE NOTIFICAÇÃO"
+  },
+  "68f7a36b436597c3": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO pedido de notificação referido no artigo 5.o da Directiva 76/308/CEE deve ser formulado por escrito, em duplicado, de acordo com o modelo que figura no anexo II da presente directiva. O referido pedido deve conter o carimbo oficial da autoridade requerente e ser assinado por um seu funcionário devidamente autorizado para o apresentar.\n\nDevem ser anexados ao pedido, em duplicado, o acto ou a decisão cuja notificação é requerida."
+  },
+  "252edd95928c5b28": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO pedido de notificação pode respeitar a qualquer pessoa singular ou colectiva que, de acordo com o direito em vigor no Estado-Membro da autoridade requerente, deva tomar conhecimento de qualquer acto ou decisão que lhe diga respeito.\n\nNa medida em que tal não seja indicado no acto ou decisão cuja notificação é requerida, o pedido de notificação deve respeitar o direito em vigor que regule o processo de contestação do crédito ou da sua cobrança no Estado-Membro da autoridade requerente."
+  },
+  "e9b3429770403ebd": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. A autoridade requerida deve acusar por escrito a recepção do pedido de notificação, no mais curto prazo, e, em qualquer caso, nos sete dias subsequentes ao da recepção.\n\nImediatamente após a recepção do pedido de notificação, a autoridade requerida tomará as medidas necessárias com vista a proceder à notificação de acordo com o direito em vigor no Estado-Membro em que tiver a sua sede.\n\nSe necessário, mas sem comprometer a data-limite para a notificação indicada no pedido de notificação, a autoridade requerida solicitará à autoridade requerente o fornecimento de informações adicionais.\n\nA autoridade requerente prestará todas as informações adicionais a que normalmente tenha acesso.\n\nA autoridade requerida não questionará em caso algum a validade do acto ou decisão relativamente ao qual a notificação é requerida.\n\n2. A autoridade requerida comunicará à autoridade requerente a data da notificação, logo que tenha sido efectuada, devolvendo à autoridade requerente um dos exemplares do seu pedido com a certidão que figura no verso devidamente preenchida."
+  },
+  "95fef962dfdf92a8": {
+   "fragment_id": "CAPÍTULO IV — PEDIDOS DE COBRANÇA OU DE TOMADA DE MEDIDAS CAUTELARES",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — PEDIDOS DE COBRANÇA OU DE TOMADA DE MEDIDAS CAUTELARES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — PEDIDOS DE COBRANÇA OU DE TOMADA DE MEDIDAS CAUTELARES"
+  },
+  "161fd27228be944b": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Os pedidos de cobrança relativos a medidas cautelares referidos nos artigos 6.o e 13.o, da Directiva 76/308/CEE serão formulados por escrito de acordo com o modelo que figura no anexo III da presente directiva.\n\nOs pedidos, que devem incluir a declaração de que as condições previstas na Directiva 76/308/CEE para o início do processo de assistência mútua se encontram preenchidas, devem conter o carimbo oficial da autoridade requerente e ser assinados por um seu funcionário autorizado para o efeito.\n\n2. O título executivo deve acompanhar o pedido de cobrança relativo a medidas cautelares. Pode ser emitido um único título em relação a vários créditos, desde que digam respeito à mesma pessoa.\n\nPara efeitos dos artigos 13.o a 20.o da presente directiva, todos os créditos abrangidos pelo mesmo título serão considerados como constituindo um único crédito."
+  },
+  "44056dd08d0ca445": {
+   "fragment_id": "Artigo 13.º — Os pedidos de cobrança relativos a medidas cautelares podem dizer respeito a qualquer das pessoas referidas no artigo 4.o",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Os pedidos de cobrança relativos a medidas cautelares podem dizer respeito a qualquer das pessoas referidas no artigo 4.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Os pedidos de cobrança relativos a medidas cautelares podem dizer respeito a qualquer das pessoas referidas no artigo 4.o"
+  },
+  "5933ffddc84b1b0e": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Caso a moeda do Estado-Membro da autoridade requerida seja diferente da moeda do Estado-Membro da autoridade requerente, a autoridade requerente deve indicar os montantes do crédito a cobrar em ambas as moedas.\n\n2. A taxa de câmbio a utilizar para efeitos do disposto no número anterior é a da última cotação de venda registada no ou nos mercados cambiais mais representativos do Estado-Membro da autoridade requerente na data da assinatura do pedido de cobrança."
+  },
+  "f01208603df1991b": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. A autoridade requerida deve, o mais brevemente possível e, em qualquer caso, no prazo de sete dias a contar da recepção do pedido de cobrança relativo a medidas cautelares, tomar as seguintes medidas por escrito:\n\na) Acusar a recepção do pedido;\n\nb) Convidar a autoridade requerente a completar o pedido caso não contenha as informações ou outros elementos referidos no artigo 7.o da Directiva 76/308/CEE.\n\nA autoridade requerente deve prestar todas as informações a que tenha acesso.\n\n2. Caso a autoridade requerida não tome as medidas solicitadas no prazo de três meses previsto no artigo 8.o da Directiva 76/308/CEE, deve indicar por escrito as razões para o não cumprimento do prazo, o mais rapidamente possível e, em qualquer caso, nos sete dias subsequentes ao termo daquele prazo."
+  },
+  "7644b8c4d3c91eb8": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nSe, dentro de um prazo razoável, tendo em conta a especificidade do caso, não for possível cobrar a totalidade ou parte do crédito, ou obter medidas cautelares, a autoridade requerida informará a autoridade requerente desse facto, indicando as respectivas razões.\n\nO mais tardar no termo de cada período de seis meses a contar da data em que a autoridade requerida tiver acusado a recepção do pedido, deve informar a autoridade requerente da situação em que se encontra o processo ou do resultado do processo de cobrança ou de obtenção de medidas cautelares.\n\nTendo em conta as informações comunicadas pela autoridade requerida, a autoridade requerente pode solicitar à autoridade requerida a reabertura do processo de cobrança ou a obtenção de medidas cautelares. Esse pedido deve ser formulado por escrito no prazo de dois meses a contar da recepção da notificação do resultado do processo, devendo ser tratado pela autoridade requerida nos termos das disposições aplicáveis ao pedido inicial."
+  },
+  "1346aa7bda15446c": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. A autoridade requerente deve notificar por escrito à autoridade requerida qualquer acção de impugnação do crédito ou oposição à execução fundada no título executivo para a cobrança, intentada ou deduzida no Estado-Membro da primeira, logo que dela tiver conhecimento.\n\n2. Caso as disposições legislativas e regulamentares ou a prática administrativa do Estado-Membro da autoridade requerida não lhe permitam obter medidas cautelares ou executar a cobrança nos termos do n.o 2, segunda frase, do artigo 12.o da Directiva 76/308/CEE, esta autoridade deve notificar esse facto à autoridade requerente o mais brevemente possível e, em qualquer caso, no prazo de um mês a contar da recepção da notificação referida no n.o 1.\n\n3. Qualquer acção intentada no Estado-Membro da autoridade requerida tendo em vista o reembolso dos montantes cobrados ou a compensação, no que respeita à cobrança dos créditos impugnados, nos termos da segunda frase do n.o 2 do artigo 12.o da Directiva 76/308/CEE, deve ser notificada por escrito pela autoridade requerida à autoridade requerente, logo que dela tiver conhecimento.\n\nA autoridade requerida deve, na medida do possível, associar a autoridade requerente aos processos de liquidação do montante a reembolsar e da compensação devida. Mediante pedido fundamentado da autoridade requerida, a autoridade requerente transferirá os montantes reembolsados e a compensação paga no prazo de dois meses a contar da recepção deste pedido."
+  },
+  "3cc5c9326e9f0048": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. Caso o pedido de cobrança ou de obtenção de medidas cautelares fique sem objecto em consequência do pagamento do crédito, da sua anulação ou por qualquer outra razão, a autoridade requerente deve comunicar imediatamente esse facto por escrito à autoridade requerida, a fim de que esta última possa pôr termo às diligências por ela empreendidas.\n\n2. Se, por qualquer motivo, o montante do crédito objecto do pedido de cobrança ou de obtenção de medidas cautelares sofrer uma correcção, a autoridade requerente deve comunicar imediatamente esse facto por escrito à autoridade requerida e, se necessário, emitir um novo título executivo.\n\n3. Se a correcção conduzir a uma diminuição do montante do crédito, a autoridade requerida deve prosseguir as diligências por ela empreendidas tendo em vista a cobrança ou a obtenção de medidas cautelares, limitando-as, todavia, ao montante por cobrar.\n\nSe, informada da diminuição do montante do crédito, a autoridade requerida já tiver procedido à cobrança de um montante superior ao montante ainda por cobrar mas ainda não tiver iniciado o processo de transferência referido no artigo 19.o, deve proceder ao reembolso do montante cobrado em excesso à pessoa que a ele tenha direito.\n\n4. Se a correcção conduzir a um aumento do montante do crédito, a autoridade requerente deve dirigir, no mais curto prazo, à autoridade requerida um pedido adicional de cobrança ou de obtenção de medidas cautelares.\n\nO referido pedido adicional deve, na medida do possível, ser tratado pela autoridade requerida conjuntamente com o pedido inicial da autoridade requerente. Sempre que, tendo em conta o estado de avanço do processo em curso, não for possível a cumulação do pedido adicional com o pedido inicial, a autoridade requerida só é obrigada a dar seguimento ao pedido adicional se respeitar a um montante igual ou superior ao referido no n.o 2 do artigo 25.o\n\n5. Para converter o montante corrigido do crédito na moeda do Estado-Membro da autoridade requerida, a autoridade requerente deve utilizar a taxa de câmbio utilizada no seu pedido inicial."
+  },
+  "efe2ea54a8d662e6": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nQualquer montante cobrado pela autoridade requerida, incluindo, se for o caso, os juros referidos no n.o 2 do artigo 9.o da Directiva 76/308/CEE, deve ser transferido para a autoridade requerente na moeda do Estado-Membro da autoridade requerida. A transferência deve ser realizada no prazo de um mês a contar da data em que a cobrança tiver sido efectuada.\n\nAs autoridades competentes dos Estados-Membros podem acordar disposições diferentes para a transferência de montantes inferiores ao limiar referido no n.o 2 do artigo 25.o da presente directiva."
+  },
+  "16b09d30484e6ada": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nIndependentemente dos montantes eventualmente cobrados pela autoridade requerida relativos aos juros referidos no n.o 2 do artigo 9.o da Directiva 76/308/CEE, o crédito considera-se cobrado na proporção correspondente ao montante expresso na moeda nacional do Estado-Membro da autoridade requerida, com base na taxa de câmbio referida no n.o 2 do artigo 14.o da presente directiva."
+  },
+  "f469d21ad6e53b79": {
+   "fragment_id": "CAPÍTULO V — TRANSMISSÃO DE COMUNICAÇÕES",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — TRANSMISSÃO DE COMUNICAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — TRANSMISSÃO DE COMUNICAÇÕES"
+  },
+  "79f628b11b60fabd": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Todas as informações comunicadas por escrito em conformidade com a presente directiva devem, na medida do possível, ser transmitidas unicamente por meios electrónicos, com excepção:\n\na) Do pedido de notificação referido no artigo 5.o da Directiva 76/308/CEE, bem como do acto ou decisão cuja notificação é solicitada;\n\nb) Dos pedidos de cobrança ou de obtenção de medidas cautelares referido nos artigos 6.o e 13.o respectivamente, da Directiva 76/308/CEE, bem como do correspondente título executivo.\n\n2. As autoridades competentes dos Estados-Membros podem renunciar à comunicação em suporte papel dos pedidos e actos enumerados no n.o 1."
+  },
+  "03d812f79d9969d5": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nCada Estado-Membro deve designar um serviço central que será o principal responsável pela comunicação por meios electrónicos com os outros Estados-Membros. O referido serviço deve estar ligado à rede CCN/CSI.\n\nSempre que forem designados vários serviços num Estado-Membro para efeitos da aplicação da presente directiva, o serviço central deve responsabilizar-se pela transmissão por meios electrónicos de todas as comunicações entre esses serviços e os serviços centrais dos outros Estados-Membros."
+  },
+  "976a245c535d6ce9": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. Sempre que as autoridades competentes dos Estados-Membros armazenem informações em bases de dados e procedam ao intercâmbio de tais informações por meios electrónicos, devem tomar todas as medidas necessárias para garantir a confidencialidade de quaisquer informações transmitidas nos termos da presente directiva, independentemente da sua forma de transmissão.\n\nTais informações são abrangidas pela obrigação de segredo profissional, devendo gozar da protecção concedida a informações similares nos termos do direito nacional do Estado-Membro que as recebeu.\n\n2. As informações referidas no n.o 1 só podem ser acessíveis às pessoas e autoridades referidas no artigo 16.o da Directiva 76/308/CEE.\n\nTais informações podem ser utilizadas no âmbito de processos judiciais ou administrativos intentados para a cobrança dos créditos, direitos, impostos, taxas e outras medidas referidos no artigo 2.o da Directiva 76/308/CEE.\n\nAs pessoas acreditadas pela Autoridade de Acreditação de Segurança da Comissão Europeia podem ter acesso a estas informações unicamente na medida em que tal seja necessário para intervenções pontuais ou periódicas de manutenção e de desenvolvimento da rede CCN/CSI.\n\n3. Sempre que as autoridades competentes dos Estados-Membros comuniquem por meios electrónicos, devem tomar todas as medidas necessárias para garantir que todas as comunicações são devidamente autorizadas."
+  },
+  "3cf21a3ad00ebacd": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nA comunicação de informações e outros elementos pela autoridade requerida à autoridade requerente é efectuada na língua oficial ou numa das línguas oficiais do Estado-Membro da autoridade requerida ou numa outra língua oficial acordada entre a autoridade requerente e a autoridade requerida."
+  },
+  "4612285a5b838c74": {
+   "fragment_id": "CAPÍTULO VI — ÂMBITO E RECUSA DE PEDIDOS DE ASSISTÊNCIA",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — ÂMBITO E RECUSA DE PEDIDOS DE ASSISTÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — ÂMBITO E RECUSA DE PEDIDOS DE ASSISTÊNCIA"
+  },
+  "361d67fb8254a5cb": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. A autoridade requerente pode formular um pedido de assistência relativamente a um único crédito ou a vários créditos, desde que o devedor seja uma mesma pessoa.\n\n2. Não pode ser formulado qualquer pedido de assistência se o montante total do crédito ou dos créditos em questão enumerados nas alíneas a) a h) do artigo 2.o da Directiva 76/308/CEE for inferior a 1500 euros."
+  },
+  "0278a2192b69b566": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nSempre que a autoridade requerida decida, nos termos do n.o 1 do artigo 14.o da Directiva 76/308/CEE recusar um pedido de assistência deve notificar à autoridade requerente, por escrito, os motivos da sua recusa. A autoridade requerida deve efectuar esta notificação logo após ter tomado a sua decisão e, em qualquer caso, no prazo de três meses a contar da data da recepção do pedido de assistência."
+  },
+  "1560069c21d87edb": {
+   "fragment_id": "CAPÍTULO VII — MODALIDADES DE REEMBOLSO",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII — MODALIDADES DE REEMBOLSO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — MODALIDADES DE REEMBOLSO"
+  },
+  "ba9f3688813b440b": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nCada Estado-Membro deve nomear uma entidade autorizada a acordar modalidades de reembolso nos termos do n.o 3 do artigo 18.o da Directiva 76/308/CEE."
+  },
+  "132062145d1b1fce": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1. Se a autoridade requerida decidir solicitar um reembolso, deve notificar à autoridade requerente, por escrito, as razões pelas quais considera que a cobrança do crédito coloca um problema específico, acarreta custos muito elevados ou se inscreve no âmbito da luta contra o crime organizado.\n\nA autoridade requerida deve anexar uma estimativa pormenorizada dos custos relativamente aos quais solicita o reembolso pela autoridade requerente.\n\n2. A autoridade requerente deve acusar a recepção do pedido de reembolso, por escrito, o mais rapidamente possível e, em qualquer caso, no prazo de sete dias a contar da recepção.\n\nNo prazo de dois meses a contar da data de comunicação da recepção do referido pedido, a autoridade requerente deve informar a autoridade requerida se e em que medida aceita as modalidades de reembolso propostas.\n\n3. Caso a autoridade requerente e a autoridade requerida não consigam chegar a acordo quanto às modalidades de reembolso, a autoridade requerida deve prosseguir o processo de cobrança de acordo com a prática habitual."
+  },
+  "fb9b0dc27dd52727": {
+   "fragment_id": "CAPÍTULO VIII — DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — DISPOSIÇÕES FINAIS"
+  },
+  "e01e2d56d7671a88": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nOs Estados-Membros devem informar anualmente a Comissão, até 15 de Março de cada ano, dos pedidos formulados no âmbito da Directiva 76/308/CEE, bem como do resultado obtido relativamente a anos anteriores, se possível por meios electrónicos, em conformidade com o modelo que figura no anexo IV."
+  },
+  "e24a35dcf8cff0f9": {
+   "fragment_id": "Artigo 30.º",
+   "type": "artigo",
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nOs Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 31 de Dezembro de 2002. Devem informar a Comissão imediatamente desse facto.\n\nAs medidas adoptadas pelos Estados-Membros devem conter uma referência à presente directiva, ou ser acompanhadas de tal referência aquando da sua publicação oficial. Os Estados-Membros determinarão a forma de efectuar essa referência."
+  },
+  "9a157c1043adaea5": {
+   "fragment_id": "Artigo 31.º",
+   "type": "artigo",
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nA Comissão comunicará aos outros Estados-Membros as medidas tomadas por cada Estado-Membro para efeitos da aplicação da presente directiva.\n\nCada Estado-Membro notificará aos outros Estados-Membros e à Comissão o nome e o endereço das autoridades competentes para efeitos da aplicação da presente directiva, bem como da entidade autorizada a acordar modalidades de reembolso nos termos do n.o 3 do artigo 18.o da Directiva 76/308/CEE."
+  },
+  "9dcb9da6c16e6f54": {
+   "fragment_id": "Artigo 32.º",
+   "type": "artigo",
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nÉ revogada a Directiva 77/794/CEE.\n\nAs remissões para a directiva revogada devem entender-se como sendo feitas à presente directiva."
+  },
+  "69cb3d09e481c15c": {
+   "fragment_id": "Artigo 33.º",
+   "type": "artigo",
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "4afc6794775d6ee7": {
+   "fragment_id": "Artigo 34.º",
+   "type": "artigo",
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 9 de Dezembro de 2002.\n\nPela Comissão\n\nFrederik Bolkestein\n\nMembro da Comissão\n\n(1) JO L 73 de 19.3.1976, p. 18.\n\n(2) JO L 175 de 28.6.2001, p. 17.\n\n(3) JO L 333 de 24.12.1977, p. 11.\n\n(4) JO L 283 de 4.10.1986, p. 23."
+  },
+  "6ab45dd27027c691": {
+   "fragment_id": "ANEXO I — >PIC FILE= \"L_2002337PT.004702.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO I — >PIC FILE= \"L_2002337PT.004702.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — >PIC FILE= \"L_2002337PT.004702.TIF\">\n\n>PIC FILE= \"L_2002337PT.004801.TIF\">"
+  },
+  "f7393dafa201acb1": {
+   "fragment_id": "ANEXO II — >PIC FILE= \"L_2002337PT.004902.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO II — >PIC FILE= \"L_2002337PT.004902.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >PIC FILE= \"L_2002337PT.004902.TIF\">\n\n>PIC FILE= \"L_2002337PT.005001.TIF\">"
+  },
+  "19856b42e009ccb4": {
+   "fragment_id": "ANEXO III — >PIC FILE= \"L_2002337PT.005102.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO III — >PIC FILE= \"L_2002337PT.005102.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — >PIC FILE= \"L_2002337PT.005102.TIF\">\n\n>PIC FILE= \"L_2002337PT.005201.TIF\">\n\n>PIC FILE= \"L_2002337PT.005301.TIF\">"
+  },
+  "f58e362596bbd86a": {
+   "fragment_id": "ANEXO IV — >PIC FILE= \"L_2002337PT.005402.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO IV — >PIC FILE= \"L_2002337PT.005402.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — >PIC FILE= \"L_2002337PT.005402.TIF\">"
+  },
+  "44e15504918038f0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2002L0094 — PT — 01.01.2009 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32002L0094) [DIRECTIVA 2002/94/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/32002L0094) [de 9 de Dezembro de 2002](http://publications.europa.eu/resource/celex/32002L0094) [que fixa as normas de execução de certas disposições da Directiva 76/308/CEE do Conselho relativa à assistência mútua em matéria de cobrança de créditos respeitantes a certas quotizações, direitos, impostos e outras medidas](http://publications.europa.eu/resource/celex/32002L0094) (JO L 337, 13.12.2002, p.41)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1179/2008 da Comissão de 28 de Novembro de 2008](http://publications.europa.eu/resource/celex/32008R1179) — L 319 — 21 — 29.11.2008"
+  }
+ }
+}

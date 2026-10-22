@@ -34,6 +34,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2005-05-20'
+version_history:
+  file: diretiva-ue-1984-500.versoes.json
+  count: 1
+  source_lastmod: '2005-05-20'
+  versions:
+  - date: '2005-05-20'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31984L0500
   eli: http://data.europa.eu/eli/dir/1984/500/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7c92cfa2-4172-4096-aeef-6dc207ee5bf6.0011
   content_url: http://publications.europa.eu/resource/cellar/60011874-0099-4dfd-aba7-46e1e41d92b0.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01984L0500-20050520
-  retrieved_at: '2026-10-22T03:04:43Z'
+  retrieved_at: '2026-10-22T14:34:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T22:45:21.680+01:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:04:43Z'
-  notes: Texto consolidado 01984L0500-20050520.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:11Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-1984-500.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -110,33 +119,20 @@ relationships:
   date: '1989-06-28'
 article_structure:
   article_count: 7
-  section_count: 21
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 22
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:04:43Z'
-  warnings: []
+  checked_at: '2026-10-22T14:34:11Z'
+  warnings:
+  - '01984L0500-19841017: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 84/500/CEE do Conselho, de 15 de Outubro de 1984
-
-> 1984L0500 — PT — 20.05.2005 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32005L0031) — [DIRECTIVA 2005/31/CE DA COMISSÃO Texto relevante para efeitos do EEE de 29 de Abril de 2005](http://publications.europa.eu/resource/celex/32005L0031) — L 110 — 36 — 30.4.2005
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/31984L0500R%2802%29) — [Rectificação, JO L 181, 28.6.1989, p. 58 (84/500)](http://publications.europa.eu/resource/celex/31984L0500R%2802%29)
-
-## DIRECTIVA DO CONSELHO
 
 de 15 de Outubro de 1984
 

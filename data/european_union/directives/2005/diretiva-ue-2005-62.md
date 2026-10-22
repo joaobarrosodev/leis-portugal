@@ -35,6 +35,53 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-08-15'
+version_history:
+  file: diretiva-ue-2005-62.versoes.json
+  count: 2
+  source_lastmod: '2016-08-15'
+  versions:
+  - date: '2005-10-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-08-15'
+    amending: eu:celex:32016L1214:por
+    amending_title: DIRETIVA (UE) 2016/1214 DA COMISSÃO Texto relevante para efeitos do EEE de 25 de julho de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Normas e especificações do sistema de qualidade
+    - Altera Artigo 5.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Normas e especificações do sistema de qualidade
+    - Adita 1. INTRODUÇÃO E PRINCÍPIOS GERAIS
+    - Adita 1.1. Sistema de qualidade
+    - Adita 1.2. Garantia de qualidade
+    - Adita 2. PESSOAL E ORGANIZAÇÃO
+    - Adita 3. INSTALAÇÕES
+    - Adita 3.1. Observações gerais
+    - Adita 3.2. Zona dos dadores de sangue
+    - Adita 3.3. Zona de colheita de sangue
+    - Adita 3.4. Análise do sangue e zonas de processamento
+    - Adita 3.5. Zona de armazenamento
+    - Adita 3.6. Zona de eliminação de resíduos
+    - Adita 4. EQUIPAMENTO E MATERIAL
+    - Adita 5. DOCUMENTAÇÃO
+    - Adita 6. RECOLHA, ANÁLISE E PROCESSAMENTO DO SANGUE
+    - Adita 6.1. Elegibilidade dos dadores
+    - Adita 6.2. Colheita de sangue e componentes sanguíneos
+    - Adita 6.3. Testes laboratoriais
+    - Adita 6.4. Processamento e validação
+    - Adita 6.5. Rotulagem
+    - Adita 6.6. Aprovação do sangue e dos componentes sanguíneos
+    - Adita 7. ARMAZENAMENTO E DISTRIBUIÇÃO
+    - Adita 8. GESTÃO DOS CONTRATOS
+    - Adita 9. NÃO-CONFORMIDADE
+    - Adita 9.1. Desvios
+    - Adita 9.2. Queixas
+    - Adita 9.3. Retirada
+    - Adita 9.4. Medidas correctivas e preventivas
+    - Adita 10. AUTO-INSPECÇÃO, AUDITORIAS E MELHORAMENTOS
 identifiers:
   celex: 32005L0062
   eli: http://data.europa.eu/eli/dir/2005/62/oj
@@ -49,7 +96,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cd234c07-e350-41a4-ba9a-3cda65ee9a22.0016
   content_url: http://publications.europa.eu/resource/cellar/52b6d0e8-cedc-45d5-8f72-7eb97c02df37.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0062-20160815
-  retrieved_at: '2026-10-22T02:42:44Z'
+  retrieved_at: '2026-10-22T14:59:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T11:53:57.793+01:00'
 integrity:
@@ -58,9 +105,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:44Z'
-  notes: Texto consolidado 02005L0062-20160815.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:29Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2005-62.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -125,29 +172,19 @@ relationships:
   source: null
 article_structure:
   article_count: 5
-  section_count: 30
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 31
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:44Z'
+  checked_at: '2026-10-22T14:59:29Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2005/62/CE da Comissão, de 30 de Setembro de 2005
-
-> 2005L0062 — PT — 15.08.2016 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016L1214) — [DIRETIVA (UE) 2016/1214 DA COMISSÃO Texto relevante para efeitos do EEE de 25 de julho de 2016](http://publications.europa.eu/resource/celex/32016L1214) — L 199 — 14 — 26.7.2016
-
-## DIRECTIVA 2005/62/CE DA COMISSÃO
 
 de 30 de Setembro de 2005
 

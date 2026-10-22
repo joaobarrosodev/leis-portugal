@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002L0086:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0086-20021127",
+ "dre_path": null,
+ "source_lastmod": "2002-11-27",
+ "versions": [
+  {
+   "date": "2002-11-07",
+   "future": false,
+   "celex": "32002L0086",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "254b655803024a05",
+    "fd426737bc5a969e",
+    "54157888f699ab69",
+    "823b8a3ac10580a9"
+   ]
+  }
+ ],
+ "fragments": {
+  "254b655803024a05": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2002/86/CE da Comissão, de 6 de Novembro de 2002, que altera a Directiva 2001/101/CE, no que se refere à data a partir da qual são proibidas as trocas de produtos não conformes com a Directiva 2000/13/CE do Parlamento Europeu e do Conselho** *Jornal Oficial nº L 305 de 07/11/2002 p. 0019 - 0019*\n\nDirectiva 2002/86/CE da Comissão\n\nde 6 de Novembro de 2002\n\nque altera a Directiva 2001/101/CE, no que se refere à data a partir da qual são proibidas as trocas de produtos não conformes com a Directiva 2000/13/CE do Parlamento Europeu e do Conselho\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 95.o,\n\nTendo em conta a Directiva 2000/13/CE do Parlamento Europeu e do Conselho, de 20 de Março de 2000, relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios(1), alterada pela Directiva 2001/101/CE da Comissão(2) e, nomeadamente, o segundo parágrafo do segundo travessão do seu artigo 6.o,\n\nConsiderando o seguinte:\n\n(1) As disposições previstas na Directiva 2001/101/CE, relativas à rotulagem de produtos que contenham carne como ingrediente, apenas são aplicáveis a partir do dia seguinte ao da data limite de transposição da referida directiva pelos Estados-Membros.\n\n(2) No seguimento da adopção da definição de \"carne\" para fins de rotulagem, os operadores envolvidos deverão proceder a alterações importantes na rotulagem destes produtos, nomeadamente no que diz respeito à lista de ingredientes e, se for caso disso, do seu conteúdo de carne.\n\n(3) Devido à variedade destes produtos no mercado e à quantidade de pequenas e médias empresas envolvidas, importa prever um período de transição suficiente para que a rotulagem destes produtos seja efectuada em conformidade com as disposições da Directiva 2001/101/CE.\n\n(4) Além disso, importa prever a possibilidade de os operadores colocarem no mercado os produtos cuja rotulagem não está em conformidade com as disposições mencionadas supra e que foram rotulados antes do final do período de transição.\n\n(5) Consequentemente, a Directiva 2001/101/CE deve ser alterada em conformidade.\n\n(6) As medidas previstas na presente directiva estão em conformidade com o parecer do comité,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "fd426737bc5a969e": {
+   "fragment_id": "Artigo 1.º — O artigo 2.o da Directiva 2001/101/CE passa a ter a seguinte redacção: \"Artigo 2.o",
+   "type": "artigo",
+   "heading": "Artigo 1.º — O artigo 2.o da Directiva 2001/101/CE passa a ter a seguinte redacção: \"Artigo 2.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — O artigo 2.o da Directiva 2001/101/CE passa a ter a seguinte redacção: \"Artigo 2.o\n\n1. Os Estados-Membros autorizarão o comércio de produtos conformes com a Directiva 2000/13/CE, alterada pela presente directiva, o mais tardar em 1 de Janeiro de 2003.\n\n2. Proibirão o comércio de produtos não conformes com a Directiva 2000/13/CE, alterada pela presente directiva, com efeitos a partir de 1 de Julho de 2003.\n\nTodavia, são permitidos, até ao esgotamento das existências, os produtos não conformes com a directiva, rotulados antes de 1 de Julho de 2003.\"."
+  },
+  "54157888f699ab69": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "823b8a3ac10580a9": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 6 de Novembro de 2002.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 109 de 6.5.2000, p. 29.\n\n(2) JO L 310 de 28.11.2001, p. 19."
+  }
+ }
+}

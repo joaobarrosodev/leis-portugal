@@ -1,0 +1,199 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31984L0539:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01984L0539-20081231",
+ "dre_path": null,
+ "source_lastmod": "2008-12-31",
+ "versions": [
+  {
+   "date": "1984-11-19",
+   "future": false,
+   "celex": "31984L0539",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fe45393a083e338d",
+    "c25f916491e3b0e9",
+    "d57ac4dc37bb1da4",
+    "d75796a9da78447a",
+    "2390139d8d68e366",
+    "ea91d6b0cbb3a994",
+    "c3b06523ad114d04",
+    "6e854b8144e8703c",
+    "839a79242110f364",
+    "a516f903b21d949d",
+    "e07addeceb177a37",
+    "baeceb6554eccd16",
+    "03e6a0c0f6b34da1",
+    "89b72082c794d48c",
+    "341fe44f593b7652",
+    "b0eebde5d712edc6"
+   ]
+  },
+  {
+   "date": "2008-12-31",
+   "future": false,
+   "celex": "01984L0539-20081231",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II — LISTA DOS APARELHOS REFERIDOS NO ARTIGO 1o",
+    "Suprime ANEXO III — MODELO DE MARCA DE CONFORMIDADE AFIXADA PELO FABRICANTE",
+    "Suprime ANEXO IV — MODELO DE DECLARAÇÃO DE CONFORMIDADE (1)"
+   ],
+   "fragments": [
+    "d8a4502752fd3304"
+   ]
+  }
+ ],
+ "fragments": {
+  "fe45393a083e338d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 84/539/CEE do Conselho, de 17 de Setembro de 1984, relativa à aproximação das legislações dos Estados-Membros respeitantes aos aparelhos eléctricos utilizados em medicina humana e veterinária** *Jornal Oficial nº L 300 de 19/11/1984 p. 0179 - 0187 Edição especial finlandesa: Capítulo 13 Fascículo 14 p. 0131 Edição especial espanhola: Capítulo 13 Fascículo 18 p. 0133 Edição especial sueca: Capítulo 13 Fascículo 14 p. 0131 Edição especial portuguesa: Capítulo 13 Fascículo 18 p. 0133*\n\nDIRECTIVA DO CONSELHO de 17 de Setembro de 1984 relativa à aproximação das legislações dos Estados-membros respeitantes aos aparelhos eléctricos utilizados em medicina humana e veterinária\n\n(84/539/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que em cada Estado-membro, os aparelhos eléctricos utilizados em medicina humana e veterinária devem possuir um nível elevado e bem definido de segurança para quem utilizar estes aparelhos e para aqueles que forem tratados por esses aparelhos;\n\nConsiderando que em vários Estados-membros se procura alcançar este objectivo de segurança por meio de disposições imperativas, tanto no que diz respeito a regras técnicas de segurança como a métodos de controlo, e que estas disposições divergem de um Estado-membro para outro;\n\nConsiderando que estes obstáculos ao estabelecimento e ao funcionamento do mercado comum podem ser reduzidos e até mesmo eliminados, se forem adoptadas as mesmas disposições por todos os Estados-membros, quer em complemento, quer em substituição das suas legislações actuais;\n\nConsiderando que é oportuno harmonizar a nível comunitário, numa primeira fase, uma parte dos aparelhos em questão; que a harmonização mais adequada consiste em fazer referência às normas elaboradas pelo Comité Europeu de Normalização Electrotécnica (CENELEC);\n\nConsiderando que, para assegurar a conformidade dos aparelhos com as normas harmonizadas, o fabricante deve assumir a sua responsabilidade por uma marcação ou por uma declaração de conformidade;\n\nConsiderando que o progresso da técnica torna necessária uma adaptação rápida das disposições técnicas fixadas pelas directivas relativas a aparelhos eléctricos utilizados em medicina; que é conveniente, a fim de facilitar a adopção das medidas necessárias para este efeito, prever um procedimento que estabeleça uma estreita colaboração entre os Estados-membros e a Comissão, no âmbito do Comité para a adoptação ao progresso técnico das directivas que visam a eliminação dos entraves técnicos ao comércio no sector dos aparelhos eléctricos utilizados em medicina;\n\nConsiderando que pode aconter que aparelhos eléctricos utilizados em medicina, embora satisfazendo as disposições da presente directiva, comprometam a segurança ou a saúde pública; que é conveniente por conseguinte prever um processo destinado a minimizar este perigo,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "c25f916491e3b0e9": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva diz respeito aos aparelhos eléctricos indicados no Anexo II, seguidamente designados « aparelhos », que se destinam pela sua natureza a ser utilizados no exercício da medicina veterinária."
+  },
+  "d57ac4dc37bb1da4": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Os Estados-membros não podem, por razões de segurança que digam respeito à sua construção recusar, proibir ou restringir a venda, a livre circulação ou a utilização de acordo com a sua função, dos aparelhos referidos no artigo 1o quando estejam em conformidade com as disposições da presente directiva.\n\nAs disposições técnicas a que devem corresponder os aparelhos figuram no Anexo I.\n\n2. A conformidade dos aparelhos às disposições da presente directiva é atestada pelo fabricante ou pelo importador, sob a responsabilidade deste, pela aposição duma marca de acordo com o modelo constante no Anexo III, ou por uma declaração de acordo com o modelo constante no Anexo IV."
+  },
+  "d75796a9da78447a": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros providenciarão no sentido de que o reembolso dos serviços prestados com a ajuda dos aparelhos que satisfaçam as disposições da presente directiva, seja feito nas mesmas condições que o reembolso dos serviços prestados com a ajuda dos aparelhos que obedeçam aos critérios exigidos pelas disposições em vigor no seu território no que disser respeito às aplicações autorizadas e às exigências mínimas para os equipamentos."
+  },
+  "2390139d8d68e366": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nSerão adoptadas de acordo com o processo previsto no artigo 6o as alterações ao Anexo I:\n\n- que se tornarem necessárias pela adaptação ao progresso técnico das normas harmonizadas pelo organismo de normalização em causa,\n\n- que forem desejáveis em virtude da adaptação ao progresso técnico quando o organismo de normalização em causa não tenha procedido a uma alteração correspondente da norma harmonizada.\n\nNo segundo caso, as alterações serão comunicadas ao organismo de normalização competente."
+  },
+  "ea91d6b0cbb3a994": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. É instituído um Comité para a adaptação ao progresso técnico das directivas que visam a eliminação dos entraves técnicos ao comércio no sector dos aparelhos eléctricos utilizados em medicina, a seguir designado « Comité », composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. O Comité estabelecerá o seu regulamento interno."
+  },
+  "c3b06523ad114d04": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Quando for feita remissão para o procedimento definido no presente artigo, o Comité será convocado pelo seu presidente, quer por sua iniciativa, quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submeterá ao Comité um projecto das medidas a tomar. O Comité emitirá o seu parecer sobre esta projecto, num prazo que o presidente pode fixar em função da urgência da questão em causa. Pronunciar-se-à por uma maioria de quarenta e cinco votos, sendo atribuída aos votos dos Estados-membros a ponderação prevista no no 2 do artigo 148o do Tratado. O presidente não participará na votação.\n\n3. a) A Comissão adoptará as medidas preconizadas quando forem conformes ao parecer do Comité;\n\nb) Quando as medidas preconizadas não forem conformes ao parecer do Comité, ou na ausência de parecer, a Comissão submeterá, sem demora, ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada;\n\nc) Se, decorridos três meses a contar da apresentação da proposta ao Conselho, este não tiver deliberado, as medidas propostas serão adoptadas pela Comissão."
+  },
+  "6e854b8144e8703c": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Se um Estado-membro verificar, com base numa fundamentação circunstanciada, que um aparelho ou que vários aparelhos, ainda que conforme às disposições da presente directiva, apresentam um perigo para a segurança, pode provisoriamente proibir ou submeter a condições particulares no seu território a venda, a livre circulação ou a utilização deste ou destes aparelhos. Deste facto informará imediatamente os outros Estados-membros e a Comissão, precisando os motivos que justificam a sua decisão.\n\n2. A Comissão procederá, num prazo de seis semanas, à consulta dos Estados-membros interessados; em seguida emitirá sem demora o seu parecer e tomará as medidas apropriadas.\n\n3. Se a Comissão for de opinião que são necessárias adaptações técnicas à directiva, essas adaptações serão adoptadas quer pela Comissão, quer pelo Conselho, segundo o procedimento previsto no artigo 6o; neste caso o Estado-membro que tenha adoptado medidas de protecção pode mantê-las até à entrada em vigor dessas adaptações."
+  },
+  "839a79242110f364": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Os Estados-membros tomarão todas as medidas úteis para que a marca e as declarações de conformidade referidas no artigo 2o, só sejam emitidas pelo fabricante ou pelo importador nas condições previstas pela directiva.\n\n2. Os Estados-membros tomarão todas as medidas necessárias para assegurar uma vigilância satisfatória do fabrico dos aparelhos."
+  },
+  "a516f903b21d949d": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros tomarão todas as medidas úteis para impedir a oposição nos aparelhos de marcas ou inscrições susceptíveis de se confundirem com a marca CEE descrita no Anexo III."
+  },
+  "e07addeceb177a37": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. Os Estados-membros porão em vigor as disposições necessárias para darem cumprimento à presente directiva no prazo de vinte e quatro meses a contar da sua notificação e desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros encarregam-se de comunicar à Comissão o texto das disposições de direito interno que adoptarem no domínio regulado pela presente directiva."
+  },
+  "baeceb6554eccd16": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 17 de Setembro de 1984.\n\nPelo Conselho\n\nO Presidente\n\nP. BARRY\n\n(1) JO no C 23 de 12. 2. 1975, p. 5.(2) JO no C 76 de 14. 3. 1975, p. 37.(3) JO no C 233 de 17. 11. 1975, p. 39.(4) A presente Directiva foi notificada aos Estados-membros em 26 de Septembro de 1984."
+  },
+  "03e6a0c0f6b34da1": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nAs prescrições técnicas às quais os aparelhos referidos no artigo 1o devem estar conformes são seguintes:\n\n- documento de harmonização do Comité Europeu de normalização electrotécnica (CENELEC)\n\n- HD 395-1: Exigências gerais (edição 1979 - documento baseado na publicação CEI no 601-1 da Comissão Electrotécnica International) devendo esta norma ser aplicada com ressalva das seguintes alterações:\n\nEm relação aos aparelhos referidos no ponto 2.2.1.1. do Anexo II, as condições que constam de HD 395-1 serão alteradas como segue:\n\n- ponto 14.6 alínea b): os aparelhos serão pelo menos do tipo BF,\n\n- ponto 19.3:\n\ncorrente auxiliar do paciente,\n\ncondição normal - 1mA,\n\ncondição de primeiro defeito - 5mA."
+  },
+  "89b72082c794d48c": {
+   "fragment_id": "ANEXO II — LISTA DOS APARELHOS REFERIDOS NO ARTIGO 1o",
+   "type": "divisao",
+   "heading": "ANEXO II — LISTA DOS APARELHOS REFERIDOS NO ARTIGO 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — LISTA DOS APARELHOS REFERIDOS NO ARTIGO 1o\n\n1. APARELHOS DE DIAGNOSTICO (com exclusão dos aparelhos com uma protecção contra descarga dos desfibradores)\n\n1.1. Aparelhos destinados à recolha de informações num organismo vivo sem influência de uma fonte exterior.\n\n1.1.1. Aparelhos destinados à recolha de biopotenciais\n\n1. Aparelhos e seus acessórios utilizados para fins de diagnóstico ou de vigilância para estudar ou vigiar a actividade eléctrica ou as características eléctricas dos seres vivos:\n\n- electroencefalógrafos e electrocorticógrafos,\n\n- electromiógrafos,\n\n- electrorretinógrafos,\n\n- electronistagmógrafos,\n\n2. Aparelhos e acessórios.\n\n1.1.2. Aparelhos destinados à recolha de outros parâmetros.\n\n1. Aparelhos e seus acessórios para estudar as radiações infravermelhas produzidas pelos organismos vivos para fins de diagnóstico:\n\n- dispositivos de exploração térmica,\n\n- termógrafos,\n\n- termómetros de radiação,\n\n2. Aparelhos e seus acessórios para estudar a actividade acústica ou a sensibilidade dos seres vivos:\n\n- estetoscópios electrónicos,\n\n- fonocardioscónios e fonocardiógrafos unicamente quando não se destinarem a intervenções no sistema cardio-vascular,\n\n- audiómetros,\n\n- audiófonos.\n\n3. Aparelhos e acessórios:\n\n- balistocardiógrafos,\n\n- termómetros electrónicos unicamente quando se destínarem às intervenções no sistema cardio-vascular.\n\n1.2. Aparelhos destinados à recolha de informações num organismo vivo sob a influência de uma fonte exterior.\n\n1.2.1. Aparelhos que utilizem uma fonte eléctrica.\n\nAparelhos e seus acessórios que apliquem directamente correntes eléctricas aos organismos vivos:\n\n- aparelhos para medir a resistência da pele,\n\n- reógrafos de impedância pulmonar ou vascular.\n\n1.2.2. Aparelhos que utilizem uma outra fonte\n\n1. Aparelhos e seus acessórios utilizados para fins de diagnóstico oftalmológico.\n\n- aparelhos para iluminação do olho: lâmpadas de fendas, espelhos oculares, fontes de luz espectral, oftalmoscópios;\n\n- aparelhos para ver, representar e medir o olho: oftalmómetros, refractómetros, tonómetros, fotómetros, retinoscópios, microscópios para a córnea,\n\n- conjuntos de diagnóstico oftalmológico que compreendem os aparelhos de oftalmologia mencionados atrás combinados com dispositivos auxiliares necessários: suportes, colunas, cadeiras.\n\n2. Aparelhos e seus acessórios destinados a aumentar a visibilidade sobre uma ampliação monocular ou binocular para fins de diagnóstico e para visualizar os processos cirúrgicos (com exclusão dos aparelhos de cirurgia de altas frequências):\n\n- microscópios cirúrgicos,\n\n- colposcópios,\n\n- otoscópios,\n\n- dermascópios.\n\n3. Aparelhos e seus acessórios destinados a iluminar localmente as zonas a examinar ou a tratar:\n\n- lâmpadas frontais,\n\n- espelhos frontais iluminados,\n\n- lâmpadas manuais fluorescentes,\n\n- lâmpadas para a boca.\n\n2. APARELHOS DE TERAPÊUTICA\n\n2.1. Aparelhos terapêuticos específicos.\n\n2.1.1. Aparelhos que utilizam a energia.\n\n1. Aparelhos e acessórios que produzam ar, vapores ou nevoeiros, electricamente carregados ou ionizados, podendo a carga ou a ionização ser obtida por:\n\n- alta tensão,\n\n- emissão de electrões a partir de um metal quente.\n\n2.1.2. Aparelhos que utilizem outras energias.\n\n1. Aparelhos e seus acessórios produtores de certos efeitos mecânicos em medicina:\n\n- vibradores,\n\n- aparelhos de massagem com água pressurizada,\n\n- aparelhos de massagem cardíaca, externos.\n\n2. Aparelhos e seus acessórios que produzem arquente, vapor de água ou vapores para fins terapêuticos:\n\n- aparelhos nos quais as substâncias sólidas e líquidas são evaporadas por meios produtores de calor ou mecânicos para fins de inalação,\n\n- banho de ar quente.\n\nEsta rubrica não inclue os aparelhos de ultrasons.\n\n2.2. Aparelhos de electrocirurgia.\n\n2.2.1. Aparelhos que utilizam a energia eléctrica\n\n1. Aparelhos e acessórios que utilizam a energia eléctrica de baixa frequência para produzir calor para a electrocauterização:\n\n- aparelhos para a electrocauterização,\n\n- partes de aparelhos electromedicinais combinados destinados à electrocauterização.\n\n2.2.2. Aparelhos que utilizam outras formas de energia.\n\n1. Aparelhos e acessórios utilizados para fins de terapêutica oftalmológica:\n\n- aparelhos para o tratamento dos olhos,\n\n- imas para os olhos.\n\n2. Aparelhos e seus acessórios\n\n3. Aparelhos e seus acessórios correspondentes que produzem certos efeitos mecânicos em medicina:\n\n- equipamentos para furar, serrar e polir para intervenções dentárias ou cirúrgicas,\n\n- aparelhos de comando hidráulico.\n\n2.3. Aparelhos de assistência ou de substituição de funções fisiológicas (Com exclusão dos estimuladores cardíacos implantados e de outros dispositivos implantados).\n\n2.3.1. Aparelhos para assistência e substituição por outros meios:\n\n1. Aparelhos e seus acessórios para a assistência ou a substituição de certas funções fisiológicas:\n\n- membros artificiais,\n\n- aparelhos auxiliares para os paralisados,\n\n- aparelhos de fonação artificial.\n\n2. Aparelhos e seus acessórios para assistência a orgãos sensoriais:\n\n- aparelhos auxiliares para cegos.\n\n3. OUTROS APARELHOS\n\nAparelhos e seus acessórios destinados a manipular e posicionar o paciente para fins cirúrgicos ou dentários:\n\n- mesas de operação,\n\n- cadeiras de operação,\n\n- blocos operatórios,\n\n- cadeiras dentárias,\n\n- blocos dentários."
+  },
+  "341fe44f593b7652": {
+   "fragment_id": "ANEXO III — MODELO DE MARCA DE CONFORMIDADE AFIXADA PELO FABRICANTE",
+   "type": "divisao",
+   "heading": "ANEXO III — MODELO DE MARCA DE CONFORMIDADE AFIXADA PELO FABRICANTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — MODELO DE MARCA DE CONFORMIDADE AFIXADA PELO FABRICANTE"
+  },
+  "b0eebde5d712edc6": {
+   "fragment_id": "ANEXO IV — MODELO DE DECLARAÇÃO DE CONFORMIDADE (1)",
+   "type": "divisao",
+   "heading": "ANEXO IV — MODELO DE DECLARAÇÃO DE CONFORMIDADE (1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — MODELO DE DECLARAÇÃO DE CONFORMIDADE (1)\n\nEm aplicação da Directiva 84/539/CEE do Conselho de 17 de Setembro de 1984\n\nNome do fabricante:...\n\nEndereço do fabricante:...\n\nDesignação do material:...\n\nNúmero de tipo, número de modelo ou número de referência:...\n\nNúmero na série:...\n\nAno de fabrico:...\n\nO abaixo-assinado declara que o material atrás referido está conforme à Directiva 84/539/CEE.\n\nFeito em...\n\na...\n\n... Assinatura\n\n... Apelido e nome\n\n... (Função)\n\n(1) Deve ser preenchido e assinado por um responsável da empresa mencionada na declaração."
+  },
+  "d8a4502752fd3304": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1984L0539 — PT — 31.12.2008 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31984L0539) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31984L0539) [de 17 de Setembro de 1984](http://publications.europa.eu/resource/celex/31984L0539) [relativa à aproximação das legislações dos Estados-membros respeitantes aos aparelhos eléctricos utilizados em medicinaasasada veterinária](http://publications.europa.eu/resource/celex/31984L0539) [(84/539/CEE)](http://publications.europa.eu/resource/celex/31984L0539) (JO L 300, 19.11.1984, p.179)\n\n**revogado por:**\n\n- [Directiva 2008/13/CE do Parlamento Europeu e do Conselho de 11 de Março de 2008](http://publications.europa.eu/resource/celex/32008L0013) — L 76 — 41 — 19.3.2008"
+  }
+ }
+}

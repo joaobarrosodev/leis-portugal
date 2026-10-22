@@ -36,6 +36,97 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-03-28'
+version_history:
+  file: regulamento-ue-1991-1601.versoes.json
+  count: 5
+  source_lastmod: '2015-03-28'
+  versions:
+  - date: '1991-06-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:31992R3279:por
+    amending_title: REGULAMENTO (CEE) N.O 3279/92 DO CONSELHO de 9 de Novembro de 1992; REGULAMENTO (CE) N.O 3378/94 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 22 de Dezembro de 1994; REGULAMENTO (CE) N.O 2061/96 DO PARLAMENTO EUROPEU E DO CONSELHO de
+      8 de Outubro de 1996; REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003;
+      Acto de Adesão da Áustria, da Finlândia e da Suécia; ►A2
+    changes:
+    - Adita preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º — Definições subsidiárias
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 10.º A
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita ANEXO I
+    - Adita Características do álcool etílico referido na alínea d) do artigo 3.º
+    - Adita ANEXO II
+    - Adita Bebidas aromatizadas à base de produtos vitivinícolas
+    - Adita Denominações geográficas
+    - Adita Notas
+  - date: '2009-01-20'
+    amending: eu:celex:32008R1334:por
+    amending_title: REGULAMENTO (CE) N. o 1334/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: null
+    amending_title: ►A3
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Denominações geográficas
+    - Altera Notas
+  - date: '2015-03-28'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º — Definições subsidiárias
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 10.º A
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime ANEXO I
+    - Suprime Características do álcool etílico referido na alínea d) do artigo 3.º
+    - Suprime ANEXO II
+    - Suprime Bebidas aromatizadas à base de produtos vitivinícolas
+    - Suprime Denominações geográficas
+    - Suprime Notas
 identifiers:
   celex: 31991R1601
   eli: http://data.europa.eu/eli/reg/1991/1601/oj
@@ -50,7 +141,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/81cbbcf5-edfc-41a1-9a15-d56b4f97b9f7.0011
   content_url: http://publications.europa.eu/resource/cellar/b5e14aa8-93de-4e01-b7d7-df0e04c27210.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991R1601-20150328
-  retrieved_at: '2026-10-22T02:37:36Z'
+  retrieved_at: '2026-10-22T14:39:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-30T19:24:12.970+02:00'
 integrity:
@@ -59,9 +150,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:36Z'
-  notes: Texto consolidado 01991R1601-20150328.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:39:55Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-1991-1601.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -244,16 +335,20 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:36Z'
+  checked_at: '2026-10-22T14:39:55Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01991R1601-19910617: versão indisponível (Sem expressão na língua por para CELEX 01991R1601-19910617.)'
+  - '01991R1601-19921116: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R1601-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R1601-19960101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R1601-19961102: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R1601-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

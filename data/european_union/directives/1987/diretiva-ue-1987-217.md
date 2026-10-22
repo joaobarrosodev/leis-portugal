@@ -34,6 +34,94 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-07-04'
+version_history:
+  file: diretiva-ue-1987-217.versoes.json
+  count: 3
+  source_lastmod: '2018-07-04'
+  versions:
+  - date: '1987-03-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-06-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera ANEXO — MÉTODOS DE COLHEITA DE AMOSTRAS E DE ANÁLISE
+    - Adita Artigo 1o
+    - Adita Artigo 2o
+    - Adita Artigo 3o
+    - Adita Artigo 4o
+    - Adita Artigo 5o
+    - Adita Artigo 6o
+    - Adita Artigo 7o
+    - Adita Artigo 8o
+    - Adita Artigo 9o
+    - Adita Artigo 10o
+    - Adita Artigo 11o
+    - Adita Artigo 12.º
+    - Adita Artigo 13o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)
+    - Adita Artigo 14o
+    - Adita Artigo 15o
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Artigo 15º
+  - date: '2018-07-04'
+    amending: eu:celex:31991L0692:por
+    amending_title: M1; REGULAMENTO (CE) N. o 807/2003 DO CONSELHO de 14 de Abril de 2003; DECISÃO (UE) 2018/853 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 30 de maio de 2018; ACTO (94/C 241/08)
+    changes:
+    - Altera preambulo
+    - Altera Artigo 12.º
+    - Adita Artigo 1º
+    - Adita Artigo 2º
+    - Adita Artigo 3º
+    - Adita Artigo 4º
+    - Adita Artigo 5º
+    - Adita Artigo 6º
+    - Adita Artigo 7º
+    - Adita Artigo 8º
+    - Adita Artigo 9º
+    - Adita Artigo 10º
+    - Adita Artigo 11º
+    - Adita Artigo 13º
+    - Adita Artigo 14º
+    - Adita Artigo 15º
+    - Adita ANEXO
+    - Adita MÉTODOS DE COLHEITA DE AMOSTRAS E DE ANÁLISE
+    - Adita A. DESCARGA DE EFLUENTES AQUOSOS
+    - Adita B. ESPEClFlCAÇÕES A RESPEITAR NA ESCOLHA DO MÉTODO DE MEDIÇÃO DAS EMISSÕES PARA A ATMOSFERA
+    - Adita I. Metodo gravimétrico
+    - Adita II. Método de contagem das fibras
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 13o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)
+    - Suprime Artigo 14o
+    - Suprime Artigo 15o
+    - Suprime ANEXO — MÉTODOS DE COLHEITA DE AMOSTRAS E DE ANÁLISE
 identifiers:
   celex: 31987L0217
   eli: http://data.europa.eu/eli/dir/1987/217/oj
@@ -48,7 +136,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1a1dfb02-11b8-4ca5-95f3-9f77c15a152d.0011
   content_url: http://publications.europa.eu/resource/cellar/0bc153fa-8b69-47de-b701-b69b01f184ae.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01987L0217-20180704
-  retrieved_at: '2026-10-22T02:54:59Z'
+  retrieved_at: '2026-10-22T14:35:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T21:17:51.592+01:00'
 integrity:
@@ -57,9 +145,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:54:59Z'
-  notes: Texto consolidado 01987L0217-20180704.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:35:06Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1987-217.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -152,36 +240,21 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/90698b08-3688-487a-aab6-ef98e5fff356
 article_structure:
   article_count: 15
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:54:59Z'
-  warnings: []
+  checked_at: '2026-10-22T14:35:06Z'
+  warnings:
+  - '01987L0217-19911223: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01987L0217-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 87/217/CEE do Conselho de 19 de Março de 1987
-
-> 01987L0217 — PT — 04.07.2018 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/31991L0692) — [DIRECTIVA DO CONSELHO 91/692/CEE de 23 de Dezembro de 1991](http://publications.europa.eu/resource/celex/31991L0692) — L 377 — 48 — 31.12.1991
-- [►M2](http://publications.europa.eu/resource/celex/32003R0807) — [REGULAMENTO (CE) N.º 807/2003 DO CONSELHO de 14 de Abril de 2003](http://publications.europa.eu/resource/celex/32003R0807) — L 122 — 36 — 16.5.2003
-- [►M3](http://publications.europa.eu/resource/celex/32018D0853) — [DECISÃO (UE) 2018/853 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018](http://publications.europa.eu/resource/celex/32018D0853) — L 150 — 155 — 14.6.2018
-
-**Alterada por:**
-
-- [A1](http://publications.europa.eu/resource/celex/11994N) — [ACTO (94/C 241/08)](http://publications.europa.eu/resource/celex/11994N%2FTXT) — C 241 — 21 — 29.8.1994
-- L 001 — 1 — ..
-
-## DIRECTIVA DO CONSELHO
 
 de 19 de Março de 1987
 

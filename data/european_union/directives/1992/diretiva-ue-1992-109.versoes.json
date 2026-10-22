@@ -1,0 +1,209 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992L0109:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0109-20050818",
+ "dre_path": null,
+ "source_lastmod": "2005-08-18",
+ "versions": [
+  {
+   "date": "1992-12-19",
+   "future": false,
+   "celex": "31992L0109",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "91dad2da2be6a058",
+    "80a57ef47c222fe0",
+    "69cd5fdd1e222670",
+    "7ea0ffe430bdecca",
+    "2f99e1f1889e1984",
+    "2511bd1142a48007",
+    "895df5dfa80dff87",
+    "dc299bda33190443",
+    "75b83e0b422d2979",
+    "0f016cfab4819da5",
+    "161b9a51107ddd39",
+    "7c5242bf00cb1dc6",
+    "b0cb6272f75470e0",
+    "20a4faa97126acfe",
+    "bf16ab379d690fc0",
+    "a55a95026a73a9af",
+    "17bd5a7b0a91ad4d"
+   ]
+  },
+  {
+   "date": "2005-08-18",
+   "future": false,
+   "celex": "01992L0109-20050818",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime TÍTULO I — GENERALIDADES",
+    "Suprime Artigo 1°",
+    "Suprime TÍTULO II — FISCALIZAÇÃO DA COLOCAÇÃO NO MERCADO",
+    "Suprime Artigo 3°",
+    "Suprime Artigo 4° — Substâncias classificadas nas categorias 1 e 2 do anexo I",
+    "Suprime TÍTULO III — MEDIDAS DE CONTROLO",
+    "Suprime TÍTULO IV — COOPERAÇÃO ADMINISTRATIVA",
+    "Suprime Artigo 7°",
+    "Suprime TÍTULO V — DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 8°",
+    "Suprime Artigo 9°",
+    "Suprime Artigo 10°",
+    "Suprime Artigo 11°",
+    "Suprime Artigo 12°",
+    "Suprime ANEXO I — CATEGORIA 1",
+    "Suprime ANEXO II — >POSIÇÃO NUMA TABELA>"
+   ],
+   "fragments": [
+    "5666cad92be60946"
+   ]
+  }
+ ],
+ "fragments": {
+  "91dad2da2be6a058": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 92/109/CEE do Conselho, de 14 de Dezembro de 1992, relativa à produção e colocação no mercado de certas substâncias utilizadas na produção ilegal de estupefacientes e psicotrópicos** *Jornal Oficial nº L 370 de 19/12/1992 p. 0076 - 0082 Edição especial finlandesa: Capítulo 15 Fascículo 12 p. 0007 Edição especial sueca: Capítulo 15 Fascículo 12 p. 0007*\n\nDIRECTIVA 92/109/CEE DO CONSELHO de 14 de Dezembro de 1992 relativa à produção e colocação no mercado de certas substâncias utilizadas na produção ilegal de estupefacientes e psicotrópicos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100oA,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que alguns Estados-membros adoptaram já medidas para fiscalizar a produção e colocação no mercado de determinadas substâncias utilizadas frequentemente na produção ilegal de estupefacientes e psicotrópicos; que outros Estados-membros se preparam para adoptar medidas do mesmo tipo; que é, assim, necessário estabelecer normas comuns a nível da Comunidade, na perspectiva do mercado interno e a fim de evitar distorções de concorrência no comércio legal e assegurar uma aplicação homogénea das normas estabelecidas;\n\nConsiderando que em 19 de Dezembro de 1988 foi adoptada em Viena a convenção das Nações Unidas contra o tráfico ilícito de estupefacientes e de substâncias psicotrópicas, a seguir denominada « convenção das Nações Unidas »; que tal convenção se inscreve no âmbito dos esforços desenvolvidos a nível mundial para lutar contra a droga; que a Comunidade participou nas negociações dessa convenção, demonstrando a sua vontade política de actuar dentro dos limites das suas competências;\n\nConsiderando que os requisitos do artigo 12° da convenção das Nações Unidas relativas ao comércio de precursores, isto é, substâncias utilizadas frequentemente na produção ilegal de estupefacientes e substâncias psicotrópicas, se encontram preenchidos, no que diz respeito ao comércio entre a Comunidade e os países terceiros, através do Regulamento (CEE) n° 3677/90 do Conselho, de 13 de Dezembro de 1990, que estabelece as medidas a adoptar para evitar o desvio de determinadas substâncias para o fabrico ilegal de estupefacientes e de substâncias psicotrópicas (4);\n\nConsiderando que o artigo 12° da convenção das Nações Unidas prevê a adopção de medidas adequadas destinadas à fiscalização da produção e distribuição de precursores; que, através de decisões adoptadas durante a sua 35a sessão, a Comissão dos Estupefacientes das Nações Unidas completou a lista das substâncias previstas no quadro do anexo daquela convenção; que, para detectar eventuais desvios ilícitos de drogas, de impedir importações fraudulentas na Comunidade e para assegurar a aplicação de normas comuns de fiscalização no mercado comunitário, é necessário prever as correspondentes disposições na presente directiva;\n\nConsiderando que o disposto no artigo 12° da convenção das Nações Unidas se baseia num sistema de fiscalização do comércio das substâncias em causa; que a maior parte do comércio destas substâncias é totalmente lícito; que a documentação e rotulagem das remessas dessas substâncias devem ser suficientemente explícitas; que, além disso, ao mesmo tempo que se dotam as autoridades competentes dos necessários meios de acção, importa estabelecer, de acordo com o espírito da convenção das Nações Unidas, mecanismos baseados numa estreita cooperação com os operadores envolvidos e no desenvolvimento de processos de recolha, intercâmbio e exploração de informações;\n\nConsiderando, além disso, que os métodos de desvio são muito evolutivos e que, ao nível internacional, se considera que as medidas previstas no artigo 12° da convenção das Nações Unidas devem ser reforçadas para contrariar eficazmente o desvio dos produtos em questão;\n\nConsiderando que a Comissão e sete Estados-membros participaram nos trabalhos do grupo de acção sobre os produtos químicos, criado na cimeira económica de Houston (G7) em 10 de Julho de 1990, para estudar processos eficazes de impedir o desvio de precursores e de produtos químicos essenciais para a produção ilegal de drogas; que ao longo destes trabalhos foi plenamente assegurada uma coordenação comunitária, bem como uma estreita consulta com os representantes da indústria e do comércio;\n\nConsiderando que o relatório final do Grupo de Acção sobre os produtos químicos foi aprovado pela cimeira económica de Londres (G7) em 15 de Julho de 1991;\n\nConsiderando que este relatório final, reconhecendo embora que a convenção das Nações Unidas constitui o instrumento de base para a cooperação internacional nesta matéria, contém um certo número de recomendações para reforçar as medidas nacionais e internacionais com base na referida convenção;\n\nConsiderando que, quanto às substâncias classificadas na categoria 1 do anexo I da presente directiva, é conveniente cuidar de que o seu fabrico ou utilização seja sujeito à posse de uma autorização; que, além disso, a entrega dessas substâncias apenas deve ser autorizada no caso de as pessoas a favor de quem é efectuada essa entrega estarem especificamente autorizadas, de forma geral ou específica, a receber, deter ou manipular essas substâncias;\n\nConsiderando que é necessário adoptar medidas destinadas a instituir uma estreita cooperação com os operadores, a fim de que estes notifiquem as operações suspeitas às autoridades competentes;\n\nConsiderando que é importante estabelecer mecanismos de cooperação administrativa; que, a este respeito e no que toca às autoridades competentes na Comunidade, haverá que tomar como base o Regulamento (CEE) n° 1468/81 do Conselho, de 19 de Maio de 1981, relativo à assistência mútua entre as autoridades administrativas dos Estados-membros e à colaboração entre estas e a Comissão, tendo em vista assegurar a boa aplicação das regulamentações aduaneira e agrícola (5); que deve ser dada especial atenção ao carácter confidencial das informações recebidas e trocadas;\n\nConsiderando que é importante que cada Estado-membro preveja sanções suficientemente dissuasivas para prevenir as infracções às disposições adoptadas em aplicação da presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "80a57ef47c222fe0": {
+   "fragment_id": "TÍTULO I — GENERALIDADES",
+   "type": "divisao",
+   "heading": "TÍTULO I — GENERALIDADES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — GENERALIDADES"
+  },
+  "69cd5fdd1e222670": {
+   "fragment_id": "Artigo 1°",
+   "type": "artigo",
+   "heading": "Artigo 1°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1°\n\n1. A presente directiva destina-se a estabelecer uma fiscalização intracomunitária de certas substâncias frequentemente utilizadas na produção ilegal de estupefacientes e de substâncias psicotrópicas, a fim de evitar o seu desvio.\n\n2. Para efeitos da presente directiva, entende-se por:\n\na) « Substância classificada »: qualquer substância referida no anexo I, incluindo as misturas que contêm essas substâncias. Excluem-se os medicamentos ou outros preparados com substâncias classificadas cujo modo de composição impeça uma fácil utilização dessas substâncias ou a sua extracção por meios facilmente exequíveis;\n\nb) « Colocação no mercado »: a facultação a terceiros, a título oneroso ou gratuito, de substâncias classificadas produzidas na Comunidade ou que nela tenham sido introduzidas em livre prática;\n\nc) « Operador »: a pessoa singular ou colectiva que se dedica ao fabrico, transformação, comércio ou distribuição de substâncias classificadas na Comunidade ou a outras actividades afins, tais como a corretagem e armazenagem dessas substâncias;\n\nd) « Conselho Internacional de Controlo de Estupefacientes »: o órgão instituído pela Convenção Única sobre Estupefacientes de 1961, alterada pelo protocolo de 1972."
+  },
+  "7ea0ffe430bdecca": {
+   "fragment_id": "TÍTULO II — FISCALIZAÇÃO DA COLOCAÇÃO NO MERCADO",
+   "type": "divisao",
+   "heading": "TÍTULO II — FISCALIZAÇÃO DA COLOCAÇÃO NO MERCADO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — FISCALIZAÇÃO DA COLOCAÇÃO NO MERCADO\n\nArtigo 2° Documentação, rotulagem\n\nOs Estados-membros tomarão todas as medidas necessárias para garantir que a colocação no mercado das substâncias classificadas satisfaça os seguintes requisitos:\n\n1. Todas as transacções conducentes à colocação no mercado de substâncias classificadas pertencentes às categorias 1 e 2 do anexo I devem ser devidamente documentadas:\n\na) Em especial, os documentos comerciais, tais como as facturas, os manifestos de carga, os documentos administrativos, os documentos de transporte e outros documentos de expedição devem conter informações suficientes para a precisa identificação dos seguintes elementos:\n\n- designação da substância classificada tal como consta das categorias 1 e 2 do anexo I,\n\n- quantidade e peso da substância classificada e, quando esta consistir numa mistura, quantidade e peso da mistura e quantidade e peso ou percentagem da ou das substâncias classificadas nas categorias 1 e 2 do anexo I e contidas na mistura,\n\n- nome e endereço do fornecedor, do distribuidor e do destinatário;\n\nb) A documentação deve ainda conter uma declaração do cliente que indique as utilizações específicas das substâncias. As modalidades dessa disposição serão determinadas segundo o procedimento previsto no n° 2 do artigo 10° Na análise dessas modalidades, será devidamente tomada em linha de conta a possibilidade de um cliente regular de um fornecedor de uma substância classificada na categoria 2 do anexo I apresentar uma declaração única que abranja todas as transacções relativas a essa substância pelo período de um ano.\n\n2. No entanto, as obrigações decorrentes do ponto 1 não se aplicam às transacções de substâncias da categoria 2 do anexo I quando as quantidades envolvidas não excederem as indicadas no anexo II.\n\n3. Os operadores certificar-se-ão da rotulagem das substâncias classificadas nas categorias 1 e 2 do anexo I para antes da sua colocação no mercado. Essa marcação deve mencionar o nome dessas substâncias tal como consta do anexo I. Os operadores podem aplicar adicionalmente a sua rotulagem habitual.\n\n4. Os operadores devem manter a documentação necessária das suas actividades na medida do necessário para o cumprimento das obrigações estipuladas no ponto 1.\n\n5. A documentação referida nos pontos 1 e 4 deve ser conservada durante, pelo menos, três anos a contar do termo do ano civil em que tiver sido efectuada a operação referida no ponto 1 e estar imediatamente disponível para um eventual controlo sempre que as autoridades competentes o solicitarem."
+  },
+  "2f99e1f1889e1984": {
+   "fragment_id": "Artigo 3°",
+   "type": "artigo",
+   "heading": "Artigo 3°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3°\n\nOs Estados-membros designarão a ou as autoridades competentes que assegurarão a aplicação da presente directiva.\n\nOs Estados-membros comunicarão à Comissão o nome da ou das autoridades competentes designadas."
+  },
+  "2511bd1142a48007": {
+   "fragment_id": "Artigo 4° — Substâncias classificadas nas categorias 1 e 2 do anexo I",
+   "type": "artigo",
+   "heading": "Artigo 4° — Substâncias classificadas nas categorias 1 e 2 do anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4° — Substâncias classificadas nas categorias 1 e 2 do anexo I\n\n1. Os Estados-membros tomarão as medidas adequadas para assegurar que a produção e colocação no mercado na Comunidade das substâncias classificadas constantes da categoria 1 do anexo I fiquem dependentes de licença, a conceder pelas autoridades competentes.\n\n2. Ao decidir sobre a concessão da licença, a autoridade competente deve ter em consideração a competência e integridade do requerente.\n\nA licença pode ser suspensa ou revogada pela autoridade competente sempre que existam fortes razões para supor que o titular deixou de ser uma pessoa com condições para possuir uma licença ou que as condições ao abrigo das quais a licença foi emitida deixaram de ser válidas.\n\n3. Os Estados-membros tomarão as medidas adequadas para assegurar que qualquer operador titular da licença prevista no n° 1 apenas forneça as substâncias classificadas específicas da categoria 1 do anexo I às pessoas expressamente autorizadas, a título geral ou particular, a receber, deter ou manipular essas substâncias.\n\n4. Os operadores que intervenham na produção ou na colocação no mercado das substâncias classificadas constantes da categoria 2 do anexo I devem comunicar às autoridades competentes, mantendo essa informação actualizada, o endereço das instalações em que fabricam essas substâncias ou a partir das quais fazem o seu comércio.\n\nArtigo 5° Cooperação\n\nOs Estados-membros tomarão as medidas necessárias para instaurar uma estreita colaboração entre as autoridades competentes e os operadores, para que estes:\n\n- notifiquem imediatamente as autoridades competentes de todos os elementos, como encomendas ou transacções invulgares de substâncias classificadas, que possam levantar suspeitas de que essas substâncias, consoante o caso, a colocar no mercado ou a produzir, possam ser desviadas para a produção ilegal de estupefacientes ou psicotrópicos,\n\n- forneçam às autoridades competentes as informações de carácter global que tais autoridades lhes solicitem sobre as suas transacções com substâncias classificadas."
+  },
+  "895df5dfa80dff87": {
+   "fragment_id": "TÍTULO III — MEDIDAS DE CONTROLO",
+   "type": "divisao",
+   "heading": "TÍTULO III — MEDIDAS DE CONTROLO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — MEDIDAS DE CONTROLO\n\nArtigo 6° Poderes das autoridades competentes\n\nPara assegurar uma aplicação correcta dos artigos 2° e 4o, os Estados-membros adoptarão, no âmbito do respectivo direito interno, as medidas necessárias para permitir que as autoridades competentes:\n\na) Obtenham informações sobre quaisquer encomendas de substâncias classificadas ou operações que envolvam substâncias classificadas;\n\nb) Tenham acesso ao local de trabalho dos operadores, a fim de obter provas de irregularidades."
+  },
+  "dc299bda33190443": {
+   "fragment_id": "TÍTULO IV — COOPERAÇÃO ADMINISTRATIVA",
+   "type": "divisao",
+   "heading": "TÍTULO IV — COOPERAÇÃO ADMINISTRATIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — COOPERAÇÃO ADMINISTRATIVA"
+  },
+  "75b83e0b422d2979": {
+   "fragment_id": "Artigo 7°",
+   "type": "artigo",
+   "heading": "Artigo 7°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7°\n\nPara efeitos de aplicação da presente directiva e sem prejuízo do disposto no artigo 10o, são aplicáveis, mutatis mutandis, as disposições do Regulamento (CEE) no 1468/81, em especial as relativas à confidencialidade das informações. Cada Estado-membro comunicará aos demais Estados-membros e à Comissão o nome das autoridades competentes designadas como correspondentes na acepção do no 2 do artigo 2° desse regulamento."
+  },
+  "0f016cfab4819da5": {
+   "fragment_id": "TÍTULO V — DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "TÍTULO V — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — DISPOSIÇÕES FINAIS"
+  },
+  "161b9a51107ddd39": {
+   "fragment_id": "Artigo 8°",
+   "type": "artigo",
+   "heading": "Artigo 8°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8°\n\nCada Estado-membro determinará as sanções a aplicar em caso de infracção às disposições adaptadas em aplicação da presente directiva. Essas sanções devem ser suficientemente severas para fomentar a observância destas disposições."
+  },
+  "7c5242bf00cb1dc6": {
+   "fragment_id": "Artigo 9°",
+   "type": "artigo",
+   "heading": "Artigo 9°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9°\n\n1. A fim de permitir adaptar, sempre que necessário, o dispositivo de fiscalização das substâncias classificadas, as autoridades competentes de cada Estado-membro comunicarão anualmente à Comissão todas as informações pertinentes sobre a aplicação das medidas de fiscalização previstas na presente directiva, nomeadamente, no que se refere às substâncias utilizadas na produção ilícita de estupefacientes ou de substâncias psicotrópicas, bem como aos métodos de desvio e de fabrico ilícito.\n\n2. Com base nas comunicações que lhe tenham sido feitas nos termos do n° 1, a Comissão elaborará, nos termos do n° 12 do artigo 12° da convenção das Nações Unidas e após consulta dos Estados-membros, um relatório anual que apresentará ao Conselho Internacional de Controlo de Estupefacientes."
+  },
+  "b0cb6272f75470e0": {
+   "fragment_id": "Artigo 10°",
+   "type": "artigo",
+   "heading": "Artigo 10°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10°\n\n1. A Comissão será assistida pelo comité instituído pelo artigo 10° do Regulamento (CEE) n° 3677/90. O comité analisará as questões relativas à aplicação da presente directiva que o seu presidente venha a apresentar, quer por iniciativa própria quer a pedido do representante de um Estados-membro.\n\n2. O representante da Comissão apresentará à apreciação do comité um projecto de medidas a tomar. O comité dará parecer sobre o projecto num prazo que o presidente pode fixar em função da urgência da questão. O parecer será emitido por maioria, nos termos previstos no n° 2 do artigo 148° do Tratado para a adopção das decisão que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\nA Comissão adoptará medidas que são imediatamente aplicáveis. Todavia, se não forem conformes com o parecer emitido pelo comité, essas medidas serão imediatamente comunicadas pela Comissão ao Conselho. Nesse caso, a Comissão diferirá, por um período de três meses a contar da data dessa comunicação, a aplicação das medidas por si propostas.\n\nO Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo previsto no segundo parágrafo.\n\n3. O processo definido no n° 2 aplica-se, nomeadamente, para:\n\na) A determinação, caso necessário, das condições relativas à documentação e rotulagem de misturas e preparados de substâncias da categoria 2 do anexo I tal como prevista no artigo 2°;\n\nb) As alterações dos anexos da presente directiva, nos casos em que os quadros do anexo da convenção das Nações Unidas forem alterados.\n\nc) A alteração dos limiares previstos no anexo II."
+  },
+  "20a4faa97126acfe": {
+   "fragment_id": "Artigo 11°",
+   "type": "artigo",
+   "heading": "Artigo 11°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11°\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento aos artigos 7° e 8° da presente directiva, o mais tardar, até 1 de Janeiro de 1993 e às demais disposições até 1 de Julho de 1993. Do facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem tais disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão as disposições essenciais de direito interno que adoptarem no domínio da presente directiva. A Comissão informará os outros Estados-membros."
+  },
+  "bf16ab379d690fc0": {
+   "fragment_id": "Artigo 12°",
+   "type": "artigo",
+   "heading": "Artigo 12°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12°\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 14 de Dezembro de 1992.\n\nPelo Conselho\n\nO Presidente\n\nN. LAMONT\n\n(1) JO 1 de 29. 1. 1991, p. 17.\n\n(2) JO 25 de 13. 5. 1992, p. 195, e decisão de 18 de Novembro de 1992 (ainda não publicada no Jornal Oficial).\n\n(3) JO 59 de 17. 6. 1991, p. 58.\n\n(4) JO 57 de 20. 12. 1990, p. 1. Com a última redacção que lhe foi dada pelo Regulamento (CEE) n° 900/92 (JO n° L 96 de 10. 4. 1992, p. 1).\n\n(5) JO 44 de 2. 6. 1981, p. 1. Com a última redacção que lhe foi dada pelo Regulamento (CEE) n° 945/87 (JO n° L 90 de 2. 4. 1987, p. 3)."
+  },
+  "a55a95026a73a9af": {
+   "fragment_id": "ANEXO I — CATEGORIA 1",
+   "type": "divisao",
+   "heading": "ANEXO I — CATEGORIA 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — CATEGORIA 1\n\n>POSIÇÃO NUMA TABELA>\n\nOs sais das substâncias referidas nesta categoria, quando existam.\n\nCATEGORIA 2\n\n>POSIÇÃO NUMA TABELA>\n\nOs sais das substâncias referidas nesta categoria, quando existam.\n\nCATEGORIA 3\n\n>POSIÇÃO NUMA TABELA>\n\n(*) Os sais das substâncias referidas nesta categoria, quando existam."
+  },
+  "17bd5a7b0a91ad4d": {
+   "fragment_id": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >POSIÇÃO NUMA TABELA>"
+  },
+  "5666cad92be60946": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992L0109 — PT — 18.08.2005 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992L0109) [DIRECTIVA 92/109/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31992L0109) [de 14 de Dezembro de 1992](http://publications.europa.eu/resource/celex/31992L0109) [relativa à produção e colocação no mercado de certas substâncias utilizadas na produção ilegal de estupefacientes e psicotrópicos](http://publications.europa.eu/resource/celex/31992L0109) (JO L 370, 19.12.1992, p.76)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 273/2004 do Parlamento Europeu e do Conselho de 11 de Fevereiro de 2004](http://publications.europa.eu/resource/celex/32004R0273) — L 47 — 1 — 18.2.2004"
+  }
+ }
+}

@@ -1,0 +1,229 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004R0136:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0136-20191214",
+ "dre_path": null,
+ "source_lastmod": "2019-12-14",
+ "versions": [
+  {
+   "date": "2004-01-28",
+   "future": false,
+   "celex": "32004R0136",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0ef443fd739c7af4",
+    "6decb6105eabad60",
+    "a8ab9dd1d0e6e79c",
+    "2b6af89b2352be5a",
+    "d7e73b6e54dd9060",
+    "604632ab852da4e7",
+    "75ca9906679fc13e",
+    "2a2fad9229fa5727",
+    "d530b6aeb142fae4",
+    "9f3cb50f479bc8b3",
+    "08ca16550bd78e88",
+    "08b20c0462b815ee",
+    "022a35b7d47bc118",
+    "4b5914203f5291bf",
+    "352b5bae85e99f81",
+    "66737b5ebba14c95",
+    "b004c67f3ec200b2",
+    "f8134c7cf767b923",
+    "96c1c2de5e276e7d"
+   ]
+  },
+  {
+   "date": "2019-12-14",
+   "future": false,
+   "celex": "02004R0136-20191214",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Controlos veterinários",
+    "Suprime Artigo 2.º — Notificação da chegada de produtos através do Documento Veterinário Comum de Entrada",
+    "Suprime Artigo 3.º — Procedimento a seguir depois de completados os controlos veterinários",
+    "Suprime Artigo 4.º — Procedimento a seguir no caso de remessas de produtos que receberam aprovação veterinária, mas que ainda permanecem sob supervisão aduaneira",
+    "Suprime Artigo 5.º — Procedimento a seguir no caso de remessas sob supervisão aduaneira divididas em partes",
+    "Suprime Artigo 6.º — Coordenação com outros serviços responsáveis pela aplicação da legislação",
+    "Suprime Artigo 7.º — Acesso às bases de dados e integração de sistemas de tecnologia da informação",
+    "Suprime Artigo 8.º — Regras específicas para produtos que fazem parte da bagagem dos viajantes ou são enviados como pequenas remessas para particulares",
+    "Suprime Artigo 9.º — Controlos veterinários de certos produtos vegetais",
+    "Suprime Artigo 10.º — Utilização da certificação electrónica",
+    "Suprime Artigo 11.º — Revogação",
+    "Suprime Artigo 12.º — Entrada em vigor",
+    "Suprime ANEXO I — CONTROLOS DOCUMENTAIS REFERIDOS NO N.o 1 DO ARTIGO 1.o",
+    "Suprime ANEXO II — CONTROLOS LABORATORIAIS REFERIDOS NO N.o 2 DO ARTIGO 1.o",
+    "Suprime ANEXO III — DOCUMENTO VETERINÁRIO COMUM DE ENTRADA (DVCE)",
+    "Suprime Parte 1 — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO IV — LISTA DE PRODUTOS VEGETAIS REFERIDA NO ARTIGO 9.o",
+    "Suprime ANEXO V — LISTA DE PAÍSES REFERIDA NO ARTIGO 9.o"
+   ],
+   "fragments": [
+    "f6d486de86cd1e19"
+   ]
+  }
+ ],
+ "fragments": {
+  "0ef443fd739c7af4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 136/2004 da Comissão, de 22 de Janeiro de 2004, que define os procedimentos de controlo veterinário nos postos de inspecção fronteiriços da Comunidade a aplicar a produtos importados de países terceiros (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 021 de 28/01/2004 p. 0011 - 0023*\n\nRegulamento (CE) n.o 136/2004 da Comissão\n\nde 22 de Janeiro de 2004\n\nque define os procedimentos de controlo veterinário nos postos de inspecção fronteiriços da Comunidade a aplicar a produtos importados de países terceiros\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 97/78/CE do Conselho, de 18 de Dezembro de 1997, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade(1), e, nomeadamente o n.o 5 do seu artigo 3.o, o n.o 5 do seu artigo 4.o, o n.o 4 do seu artigo 5.o, o n.o 7 do seu artigo 8.o, o n.o 3 do seu artigo 16.o e o n.o 1 do seu artigo 19.o,\n\nConsiderando o seguinte:\n\n(1) Os requisitos originais relativos aos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade foram fixados na Directiva 90/675/CEE do Conselho(2), que foi revogada e substituída pela Directiva 97/78/CE.\n\n(2) À luz da experiência adquirida desde a adopção da Directiva 90/675/CEE, a Directiva 97/78/CE introduziu algumas alterações aos procedimentos. A Decisão 93/13/CEE, de 22 de Dezembro de 1992, que define os procedimentos de controlo veterinário nos postos de inspecção fronteiriços da Comunidade aquando da introdução de produtos provenientes de países terceiros(3), com a última redacção que lhe foi dada pela Decisão 2003/279/CE(4), foi adoptada com base na primeira directiva e deve, por conseguinte, ser actualizada.\n\n(3) O certificado emitido depois de completados os controlos veterinários e que consta actualmente do anexo B da Decisão 93/13/CEE deve ser adaptado a fim de ter em conta as alterações aos procedimentos aplicáveis às remessas que respeitam as regras comunitárias e às remessas que as não respeitam, quer se destinem a ser importadas para a Comunidade, quer a transitar por ela.\n\n(4) As regras pormenorizadas relativas à utilização desse certificado estão estabelecidas na Decisão 2000/208/CE, de 24 de Fevereiro de 2000, que estabelece regras pormenorizadas de execução da Directiva 97/78/CE do Conselho no que respeita ao trânsito exclusivamente rodoviário através da Comunidade Europeia de produtos de origem animal de um país terceiro para outro país terceiro(5), e na Decisão 2000/571/CE da Comissão, de 8 de Setembro de 2000, que estabelece a metodologia dos controlos veterinários de produtos provenientes de países terceiros destinados a zonas francas, entrepostos francos, entrepostos aduaneiros ou operadores de meios de transporte marítimo transfronteiriço(6).\n\n(5) No entanto, é necessário definir regras específicas relativamente à gestão prática do certificado para situações em que as remessas recebem aprovação veterinária no posto de inspecção fronteiriço, mas permanecem sob supervisão aduaneira por razões fiscais durante um determinado período. Nestes casos, é necessário um sistema de rastreabilidade, bem como esclarecimento quanto à documentação que deve acompanhar as remessas.\n\n(6) Para o funcionamento adequado do sistema de controlos veterinários no mercado único, todas as informações relativas a um produto devem ser reunidas num único documento com um formato uniforme para reduzir os problemas resultantes das diferenças linguísticas nos vários Estados-Membros.\n\n(7) Os pormenores específicos relativos à amostragem e aos ensaios laboratoriais harmonizados dos diferentes tipos de produtos serão objecto de decisões de execução posteriores, mas entretanto as regras nacionais devem continuar a ser aplicáveis, excepto no caso de medidas de salvaguarda particulares.\n\n(8) A experiência tem demonstrado a importância fundamental de dispor de boas fontes de informação relativamente a todas as remessas que entram na Comunidade para reduzir a fraude e a fuga aos controlos. O controlo dos manifestos é uma característica-chave deste processo de recolha de informações, mas sendo uma tarefa considerável e muito morosa, deve ser automatizada por meios electrónicos sempre que possível.\n\n(9) Além da recolha eficiente das informações em causa entre todos os operadores envolvidos, a autoridade competente deve ter acesso às bases de dados pertinentes das autoridades aduaneiras. Todos os operadores devem ser integrados neste sistema de bases de dados para assegurar a disponibilização de informações actualizadas por parte de todos os envolvidos.\n\n(10) Certos produtos vegetais, que podem representar um risco de propagação de doenças infecciosas ou contagiosas para os animais, devem ser submetidos a controlos veterinários. É necessário estabelecer uma lista destes produtos, bem como uma lista dos países terceiros ou partes de países terceiros que podem ser autorizados a exportar esses produtos para a Comunidade.\n\n(11) No caso de pequenas quantidades de produtos de origem animal que são transportadas para consumo pessoal pelos passageiros que chegam de países terceiros, são possíveis isenções aos requisitos dos procedimentos de controlo veterinário. Alguns destes produtos são objecto de uma medida de salvaguarda, nos termos da Decisão 2002/995/CE da Comissão, de 9 de Dezembro de 2002, que estabelece medidas cautelares relativamente à importação de produtos de origem animal para consumo pessoal(7). A referência a essas medidas deve ser mantida enquanto se aguarda a adopção de regras permanentes neste sector.\n\n(12) As medidas previstas no presente regulamento substituem as estabelecidas na Decisão 93/13/CEE, devendo essa decisão, por conseguinte, ser revogada.\n\n(13) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "6decb6105eabad60": {
+   "fragment_id": "Artigo 1.º — Controlos veterinários",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Controlos veterinários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Controlos veterinários\n\n1. Os controlos documentais previstos no n.o 3 do artigo 4.o da Directiva 97/78/CE serão realizados em conformidade com o anexo I do presente regulamento.\n\n2. Os controlos laboratoriais e as análises das amostras oficiais previstos no n.o 4, alínea b), do artigo 4.o da Directiva 97/78/CE serão realizados em conformidade com o anexo II do presente regulamento."
+  },
+  "a8ab9dd1d0e6e79c": {
+   "fragment_id": "Artigo 2.º — Notificação da chegada de produtos através do Documento Veterinário Comum de Entrada",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Notificação da chegada de produtos através do Documento Veterinário Comum de Entrada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Notificação da chegada de produtos através do Documento Veterinário Comum de Entrada\n\n1. Antes da chegada física da remessa ao território da Comunidade, a pessoa responsável pela carga notificará a chegada dos produtos ao pessoal veterinário do posto de inspecção fronteiriço ao qual os produtos serão apresentados, utilizando o Documento Veterinário Comum de Entrada (DVCE), conforme estabelecido no anexo III.\n\n2. O DVCE será emitido em conformidade com as regras gerais relativas à certificação definidas noutros actos legislativos comunitários pertinentes.\n\n3. O DVCE será redigido num original e em cópias, conforme determinado pela autoridade competente para cumprir os requisitos do presente regulamento. A pessoa responsável pela carga preencherá a parte 1 do DVCE e transmiti-la-á ao pessoal veterinário do posto de inspecção fronteiriço.\n\n4. Sem prejuízo dos n.os 1 e 3, as informações contidas no DVCE podem, mediante acordo das autoridades competentes correlacionadas com a remessa, ser objecto de uma notificação antecipada por telecomunicação ou por outro sistema de transmissão electrónica de dados. Quando isso aconteça, as informações fornecidas em formato electrónico serão as requeridas na parte 1 do modelo de DVCE."
+  },
+  "2b6af89b2352be5a": {
+   "fragment_id": "Artigo 3.º — Procedimento a seguir depois de completados os controlos veterinários",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Procedimento a seguir depois de completados os controlos veterinários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Procedimento a seguir depois de completados os controlos veterinários\n\n1. Depois de completados os controlos veterinários previstos no artigo 4.o da Directiva 97/78/CE, a parte 2 do DCVE será preenchida sob a responsabilidade do veterinário oficial responsável pelo posto de inspecção fronteiriço. O DCVE será assinado por esse veterinário oficial ou por outro veterinário oficial que actue sob a supervisão do primeiro, para conceder à remessa a aprovação veterinária.\n\nNo caso de postos de inspecção fronteiriços que controlem as importações de peixe em conformidade com a Decisão 93/352/CEE da Comissão(8), o agente oficial designado pode realizar as funções do veterinário oficial, incluindo o preenchimento e a assinatura do DVCE.\n\n2. O original do DVCE relativo a remessas a que se concedeu aprovação veterinária deve consistir do conjunto das partes 1 e 2, devidamente preenchidas e assinadas.\n\n3. O veterinário oficial, ou a pessoa responsável pela carga, notificará as autoridades aduaneiras do posto de inspecção fronteiriço da aprovação veterinária da remessa, conforme disposto no n.o 1, apresentando o original do DVCE, ou por meio electrónico.\n\n- Uma vez obtido o desalfandegamento(9), o original do DVCE acompanhará a remessa até ao primeiro estabelecimento de destino.\n\n- O oficial veterinário do posto de inspecção fronteiriço conservará uma cópia do DVCE.\n\n- O veterinário oficial transmitirá uma cópia do DVCE à pessoa responsável pela carga.\n\n4. O veterinário oficial conservará a certificação ou documentação veterinária original emitida pelo país terceiro e que acompanha a remessa, bem como uma cópia do DVCE, durante, pelo menos, três anos. No entanto, no caso de remessas de produtos em trânsito ou para armazenagem num entreposto, aprovado nos termos do n.o 4 do artigo 12.o ou do artigo 13.o da Directiva 97/78/CE, e com destino final fora da Comunidade, os documentos veterinários originais que acompanham a remessa à chegada continuarão a acompanhar a remessa, sendo apenas conservadas as cópias desses documentos no posto de inspecção fronteiriço."
+  },
+  "d7e73b6e54dd9060": {
+   "fragment_id": "Artigo 4.º — Procedimento a seguir no caso de remessas de produtos que receberam aprovação veterinária, mas que ainda permanecem sob supervisão aduaneira",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Procedimento a seguir no caso de remessas de produtos que receberam aprovação veterinária, mas que ainda permanecem sob supervisão aduaneira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimento a seguir no caso de remessas de produtos que receberam aprovação veterinária, mas que ainda permanecem sob supervisão aduaneira\n\n1. No caso de remessas de produtos que receberam aprovação veterinária no posto de inspecção fronteiriço, como disposto no n.o 1 do artigo 3.o, mas que permanecem sob supervisão aduaneira e são introduzidas em livre prática numa fase posterior, aplica-se o procedimento disposto nos n.os 2, 3 e 4.\n\n2. O original do DVCE acompanhará a remessa enquanto esta permanecer sob supervisão aduaneira, na sua passagem por um ou mais estabelecimentos, até o desalfandegamento ser solicitado pela pessoa responsável pela carga.\n\n3. Para um primeiro desalfandegamento, a pessoa responsável pela carga apresentará o original do DVCE à estância aduaneira responsável pelo estabelecimento onde se encontra a remessa. Isto também pode ser feito por via electrónica, mediante autorização da autoridade competente.\n\n4. Caso o desalfandegamento tenha sido solicitado, como previsto no n.o 3, o operador do estabelecimento deverá:\n\na) Conservar uma cópia do DVCE que acompanha a remessa;\n\nb) Registar a data de recepção da remessa; e\n\nc) Registar a data de desalfandegamento, ou as datas desse desalfandegamento se a remessa estiver dividida em partes, como previsto no artigo 5.o"
+  },
+  "604632ab852da4e7": {
+   "fragment_id": "Artigo 5.º — Procedimento a seguir no caso de remessas sob supervisão aduaneira divididas em partes",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Procedimento a seguir no caso de remessas sob supervisão aduaneira divididas em partes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimento a seguir no caso de remessas sob supervisão aduaneira divididas em partes\n\n1. Caso uma remessa referida no n.o 1 do artigo 4.o seja dividida em partes, o original do DVCE será apresentado às autoridades aduaneiras competentes responsáveis pelo estabelecimento onde a remessa é dividida. Uma cópia do DVCE permanecerá no estabelecimento onde a remessa é dividida.\n\n2. A autoridade competente responsável pelo estabelecimento referido no n.o 1 pode emitir uma fotocópia autenticada do original do DVCE para acompanhar cada parte da remessa, onde se acrescentarão as informações sobre a quantidade ou o peso revistos.\n\nA autoridade competente poderá requerer que o operador do estabelecimento onde a remessa é dividida conserve os registos para assegurar a rastreabilidade das diferentes partes da remessa.\n\nOs registos e as cópias do DVCE devem ser conservados durante três anos."
+  },
+  "75ca9906679fc13e": {
+   "fragment_id": "Artigo 6.º — Coordenação com outros serviços responsáveis pela aplicação da legislação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Coordenação com outros serviços responsáveis pela aplicação da legislação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Coordenação com outros serviços responsáveis pela aplicação da legislação\n\nPara assegurar que todos os produtos de origem animal que entram na Comunidade são submetidos a controlos veterinários, a autoridade competente e os veterinários oficiais de cada Estado-Membro coordenarão a sua actividade com outros serviços responsáveis pela aplicação da legislação para recolher todas as informações pertinentes relativas à introdução de produtos de origem animal. Isto aplica-se, em particular, ao seguinte:\n\na) Informações ao dispor dos serviços aduaneiros;\n\nb) Informações constantes dos manifestos de navios, embarcações, comboios ou aviões;\n\nc) Outras fontes de informação ao dispor dos operadores comerciais rodoviários, ferroviários, portuários ou aeroportuários."
+  },
+  "2a2fad9229fa5727": {
+   "fragment_id": "Artigo 7.º — Acesso às bases de dados e integração de sistemas de tecnologia da informação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Acesso às bases de dados e integração de sistemas de tecnologia da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acesso às bases de dados e integração de sistemas de tecnologia da informação\n\nPara efeitos do artigo 6.o, a autoridade competente terá acesso às bases de dados, ou às partes pertinentes dessas bases, à disposição dos serviços aduaneiros.\n\nSujeitos a uma segurança adequada dos dados, os sistemas de tecnologia da informação utilizados pela autoridade competente deverão, na medida do possível e conforme apropriado, ser integrados com os sistemas dos serviços aduaneiros e com os dos operadores comerciais, de modo a acelerar a transferência de informações."
+  },
+  "d530b6aeb142fae4": {
+   "fragment_id": "Artigo 8.º — Regras específicas para produtos que fazem parte da bagagem dos viajantes ou são enviados como pequenas remessas para particulares",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Regras específicas para produtos que fazem parte da bagagem dos viajantes ou são enviados como pequenas remessas para particulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regras específicas para produtos que fazem parte da bagagem dos viajantes ou são enviados como pequenas remessas para particulares\n\n1. Sem prejuízo das regras comunitárias específicas relativas a certos produtos, os produtos mencionados no n.o 1, alíneas a), b) e d), do artigo 16.o da Directiva 97/78/CE só não serão submetidos aos controlos veterinários sistemáticos definidos no capítulo I dessa directiva se tiverem um peso inferior a 1 kg e forem destinados ao consumo humano pessoal.\n\nNo entanto, esses produtos só podem ser introduzidos na Comunidade vindos de países terceiros aprovados ou de partes de países terceiros aprovados.\n\n2. O disposto no n.o 1 não prejudica as regras relativas à saúde animal e pública definidas na legislação comunitária adequada.\n\n3. No caso de pequenas embalagens contendo produtos de origem animal introduzidas na Dinamarca vindas da Gronelândia e das Ilhas Faroé para consumo directo por particulares, o limite de peso previsto no n.o 1 será de 5 kg.\n\n4. No que se refere aos peixes de pesca recreativa, provenientes da Rússia e introduzidos nos territórios da Finlândia e da Suécia, contidos nas bagagens pessoais dos viajantes e destinados a consumo directo por particulares, o limite de peso previsto no n.o 1 será de 15 kg, ou um único peixe, independentemente do seu peso, consoante o mais elevado."
+  },
+  "9f3cb50f479bc8b3": {
+   "fragment_id": "Artigo 9.º — Controlos veterinários de certos produtos vegetais",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Controlos veterinários de certos produtos vegetais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Controlos veterinários de certos produtos vegetais\n\n1. Os Estados-Membros submeterão os produtos vegetais constantes do anexo IV, originários dos países autorizados e especificados no anexo V, aos controlos documentais referidos no n.o 1 do artigo 1.o do presente regulamento e, se for caso disso, aos controlos laboratoriais referidos no n.o 2 do artigo 1.o do presente regulamento e a outros controlos físicos estabelecidos no anexo III da Directiva 97/78/CE.\n\n2. Os requisitos da Directiva 97/78/CE e do presente regulamento aplicam-se a todos os produtos vegetais constantes do anexo IV do presente regulamento, que, devido à sua origem e destino subsequente, podem representar um risco de propagação de doenças animais infecciosas ou contagiosas."
+  },
+  "08ca16550bd78e88": {
+   "fragment_id": "Artigo 10.º — Utilização da certificação electrónica",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Utilização da certificação electrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Utilização da certificação electrónica\n\nA produção, utilização, transmissão e armazenagem do DVCE, conforme previsto nas várias situações descritas no presente regulamento, podem ser feitas por meios electrónicos à discrição da autoridade competente."
+  },
+  "08b20c0462b815ee": {
+   "fragment_id": "Artigo 11.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Revogação\n\nA Decisão 93/13/CEE é revogada.\n\nAs referências à decisão revogada serão consideradas como referências ao presente regulamento."
+  },
+  "022a35b7d47bc118": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente regulamento entra em vigor em 1 de Março de 2004.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 22 de Janeiro de 2004.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 24 de 30.1.1998, p. 9.\n\n(2) JO L 373 de 31.12.1990, p. 1.\n\n(3) JO L 9 de 15.1.1993, p. 33.\n\n(4) JO L 101 de 23.4.2003, p. 14.\n\n(5) JO L 64 de 11.3.2000, p. 20.\n\n(6) JO L 240 de 23.9.2000, p. 14.\n\n(7) JO L 353 de 30.12.2002, p. 1.\n\n(8) JO L 144 de 16.6.1993, p. 25.\n\n(9) A expressão \"desalfandegamento\" no presente regulamento significa a introdução em livre prática, na acepção do artigo 79.o do Regulamento (CEE) n.o 2913/92 que estabelece o Código Aduaneiro Comunitário: (JO L 302 de 19.10.1992, p. 1)."
+  },
+  "4b5914203f5291bf": {
+   "fragment_id": "ANEXO I — CONTROLOS DOCUMENTAIS REFERIDOS NO N.o 1 DO ARTIGO 1.o",
+   "type": "divisao",
+   "heading": "ANEXO I — CONTROLOS DOCUMENTAIS REFERIDOS NO N.o 1 DO ARTIGO 1.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — CONTROLOS DOCUMENTAIS REFERIDOS NO N.o 1 DO ARTIGO 1.o\n\nAs seguintes regras devem ser aplicadas aos controlos documentais dos produtos provenientes de países terceiros:\n\n1. A autoridade competente deve, em relação a cada remessa de produtos, verificar o tratamento ou a utilização aprovados previstos a que se destinam as mercadorias.\n\n2. Cada um dos certificados ou documentos relativos à saúde animal ou à saúde pública que acompanha uma remessa de produtos originários de países terceiros e apresentado do posto de inspecção fronteiriço deve ser objecto de um controlo destinado a confirmar, conforme o caso, que:\n\na) Se trata de um certificado ou documento original;\n\nb) Diz respeito a um país terceiro ou a parte de um país terceiro autorizado a exportar para a Comunidade ou, no caso dos produtos não harmonizados, para o Estado-Membro em questão;\n\nc) A sua apresentação e o seu conteúdo correspondem ao modelo estabelecido para o produto e país terceiro em questão, ou no caso dos produtos não harmonizados, para o Estado-Membro em questão;\n\nd) Está conforme com os princípios gerais de certificação estabelecidos no anexo IV da Directiva 2002/99/CE do Conselho(1);\n\ne) Foi inteiramente preenchido;\n\nf) Diz respeito a um estabelecimento ou uma embarcação autorizados ou registados, aptos a exportar para a Comunidade ou, no caso dos produtos não harmonizados, para o Estado-Membro em questão;\n\ng) Está assinado pelo veterinário oficial ou, se for caso disso, pelo representante da autoridade oficial, e menciona, de forma legível e em maiúsculas, o seu nome e cargo, bem como ostenta o carimbo sanitário oficial do país terceiro e a assinatura oficial, numa cor diferente da utilizada nas outras menções impressas no certificado, ou no caso dos certificados electrónicos, que a assinatura e o carimbo são inseridos através de um sistema seguro;\n\nh) A parte 1 do DVCE está correctamente preenchida e a informação dela constante corresponde à informação contida noutros documentos oficiais pertinentes que acompanham a remessa.\n\n(1) JO L 18 de 23.1.2003, p. 11."
+  },
+  "352b5bae85e99f81": {
+   "fragment_id": "ANEXO II — CONTROLOS LABORATORIAIS REFERIDOS NO N.o 2 DO ARTIGO 1.o",
+   "type": "divisao",
+   "heading": "ANEXO II — CONTROLOS LABORATORIAIS REFERIDOS NO N.o 2 DO ARTIGO 1.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — CONTROLOS LABORATORIAIS REFERIDOS NO N.o 2 DO ARTIGO 1.o\n\nAs regras seguintes devem ser aplicadas às análises laboratoriais dos produtos:\n\n1. Cada Estado-Membro submeterá remessas de produtos apresentados para importação a um plano de vigilância para verificação da conformidade com a legislação comunitária ou, onde aplicável, com a legislação nacional, nomeadamente para detectar resíduos, agentes patogénicos ou outras substâncias perigosas para o homem, os animais ou o ambiente. Estes planos de vigilância devem ser baseados na natureza dos produtos e no risco que representam, tendo em conta todos os parâmetros de vigilância pertinentes, tais como a frequência e o número de remessas que entram, bem como os resultados de vigilâncias anteriores.\n\n2. Caso se realizem ensaios aleatórios no âmbito dos planos de vigilância referidos no n.o 1, e não haja suspeitas de perigo imediato para a saúde pública ou animal, a remessa submetida a ensaio pode ser introduzida em livre prática antes de se receberem os resultados laboratoriais. Em todos os casos, o DVCE que acompanha a remessa deve ser anotada em conformidade, e a autoridade competente no local de destino deve ser notificada de acordo com o artigo 8.o da Directiva 97/78/CE.\n\n3. Caso os ensaios laboratoriais sejam realizados com base numa suspeita de irregularidade, em informações disponíveis, numa notificação prévia do Sistema de Alerta Rápido para Alimentos para Consumo Humano e Animal (RASFF) ou numa medida de salvaguarda, e quando os ensaios digam respeito a uma substância ou um agente patogénico que represente um risco directo ou imediato para a saúde animal ou pública, o veterinário oficial responsável pelo posto de inspecção fronteiriço que realizou o ensaio, ou a autoridade competente, deve adiar a aprovação veterinária ou a disponibilização da remessa até se receberem os resultados satisfatórios dos ensaios laboratoriais. Entretanto, a remessa permanecerá sob controlo das autoridades ou sob a responsabilidade do veterinário oficial ou agente oficial designado do posto de inspecção fronteiriço que tiver efectuado os controlos veterinários.\n\n4. Cada Estado-Membro informará a Comissão mensalmente dos resultados favoráveis e desfavoráveis dos ensaios laboratoriais realizados nos seus postos de inspecção fronteiriços."
+  },
+  "66737b5ebba14c95": {
+   "fragment_id": "ANEXO III — DOCUMENTO VETERINÁRIO COMUM DE ENTRADA (DVCE)",
+   "type": "divisao",
+   "heading": "ANEXO III — DOCUMENTO VETERINÁRIO COMUM DE ENTRADA (DVCE)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — DOCUMENTO VETERINÁRIO COMUM DE ENTRADA (DVCE)\n\n>PIC FILE= \"L_2004021PT.001701.TIF\">\n\n>PIC FILE= \"L_2004021PT.001801.TIF\">\n\nInstruções para o preenchimento do certificado do DVCE(1)\n\nGeneralidades:\n\nPreencher o certificado em maiúsculas. Inutilizar claramente ou marcar com uma cruz toda a casa quando esta possa ser suprimida ou não seja relevante. Para indicar a opção correcta, marcar o sinal\n\n>PIC FILE= \"L_2004021PT.001901.TIF\">\n\ncorrespondente.\n\nPreencher o presente certificado para todas as remessas apresentadas num posto de inspecção fronteiriço, quer as remessas respeitem os requisitos da União Europeia e se destinem a colocação em livre prática, quer se destinem a ser transportadas sob controlo, quer não respeitem os requisitos da União Europeia e se destinem a transbordo, a trânsito, a colocação em zonas francas, entrepostos francos ou entrepostos aduaneiros ou a fornecedores de navios. O transporte sob controlo diz respeito às remessas aceites nas condições previstas no artigo 8.o da Directiva 97/78/CE, mas que permanecem sob controlo veterinário até chegarem a um destino final especificado, geralmente para um novo tratamento.\n\nOs códigos ISO correspondem ao código internacional de duas letras dos países."
+  },
+  "b004c67f3ec200b2": {
+   "fragment_id": "Parte 1 — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "Parte 1 — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte 1 — >POSIÇÃO NUMA TABELA>\n\nParte 2 Esta secção pode ser preenchida apenas pelo veterinário oficial ou pelo agente oficial designado (em conformidade com a Decisão 93/352/CEE)\n\nPara as casas 38 a 41, não utilizar tinta de cor negra.\n\n>POSIÇÃO NUMA TABELA>\n\n(1) As instruções podem ser impressas e distribuídas separadamente do certificado."
+  },
+  "f8134c7cf767b923": {
+   "fragment_id": "ANEXO IV — LISTA DE PRODUTOS VEGETAIS REFERIDA NO ARTIGO 9.o",
+   "type": "divisao",
+   "heading": "ANEXO IV — LISTA DE PRODUTOS VEGETAIS REFERIDA NO ARTIGO 9.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — LISTA DE PRODUTOS VEGETAIS REFERIDA NO ARTIGO 9.o\n\nProdutos vegetais sujeitos a controlos veterinários:\n\n1. Palhas\n\n2. Feno"
+  },
+  "96c1c2de5e276e7d": {
+   "fragment_id": "ANEXO V — LISTA DE PAÍSES REFERIDA NO ARTIGO 9.o",
+   "type": "divisao",
+   "heading": "ANEXO V — LISTA DE PAÍSES REFERIDA NO ARTIGO 9.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — LISTA DE PAÍSES REFERIDA NO ARTIGO 9.o\n\nParte I: Países dos quais os Estados-Membros são autorizados a importar feno e palha\n\nAustrália\n\nBielorrússia\n\nBulgária\n\nCanadá\n\nChile\n\nCroácia\n\nGronelândia\n\nIslândia\n\nNova Zelândia\n\nRoménia\n\nÁfrica do Sul (com exclusão da parcela da área de controlo da febre aftosa situada na região veterinária do Transval Norte e Leste, no distrito de Ingwavuma da região veterinária do Natal e na área fronteiriça com o Botsuana a Leste da longitude 28 °)\n\nSuíça\n\nEstados Unidos da América\n\nParte II: Países a partir dos quais os Estados-Membros são autorizados a importar feno e palha até 30 de Abril de 2004\n\nChipre\n\nRepública Checa\n\nEstónia\n\nHungria\n\nLetónia\n\nLituânia\n\nMalta\n\nPolónia\n\nEslováquia\n\nEslovénia"
+  },
+  "f6d486de86cd1e19": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02004R0136 — PT — 14.12.2019 — 006.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32004R0136) [REGULAMENTO (CE) N.º 136/2004 DA COMISSÃO](http://publications.europa.eu/resource/celex/32004R0136) [de 22 de Janeiro de 2004](http://publications.europa.eu/resource/celex/32004R0136) [que define os procedimentos de controlo veterinário nos postos de inspecção fronteiriços da Comunidade a aplicar a produtos importados de países terceiros](http://publications.europa.eu/resource/celex/32004R0136) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32004R0136) (JO L 021, 28.1.2004, p.11)\n\n**Revogado por:**\n\n- [Regulamento de Execução (UE) 2019/2130 da Comissão de 25 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R2130) — L 321 — 128 — 12.12.2019"
+  }
+ }
+}

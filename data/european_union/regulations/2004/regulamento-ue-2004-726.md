@@ -38,6 +38,284 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-01-28'
+version_history:
+  file: regulamento-ue-2004-726.versoes.json
+  count: 10
+  source_lastmod: '2022-01-28'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-26'
+    amending: eu:celex:32006R1901:por
+    amending_title: REGULAMENTO (CE) N.O 1901/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 30.º
+    - Altera Artigo 41.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 68.º
+    - Altera Artigo 69.º
+    - Altera Artigo 73.º
+    - Altera Artigo 85.º
+    - Altera Artigo 90.º
+    - Adita TÍTULO I
+    - Adita DEFINIÇÕES E ÂMBITO DE APLICAÇÃO
+    - Adita TÍTULO II
+    - Adita AUTORIZAÇÃO E FISCALIZAÇÃO DOS MEDICAMENTOS PARA USO HUMANO
+    - Adita Capítulo 1
+    - Adita Apresentação e análise dos pedidos — autorizações
+    - Adita Capítulo 2
+    - Adita Fiscalização e sanções
+    - Adita Capítulo 3
+    - Adita Farmacovigilância
+    - Adita TÍTULO III
+    - Adita AUTORIZAÇÃO E FISCALIZAÇÃO DOS MEDICAMENTOS VETERINÁRIOS
+    - Adita TÍTULO IV
+    - Adita AGÊNCIA EUROPEIA DE MEDICAMENTOS — RESPONSABILIDADES E ESTRUTURA ADMINISTRATIVA
+    - Adita Funções da Agência
+    - Adita Disposições financeiras
+    - Adita Disposições gerais que regem a Agência
+    - Adita Artigo 73.º-A
+    - Adita TÍTULO V
+    - Adita DISPOSIÇÕES GERAIS E FINAIS
+    - Adita ANEXO
+    - Adita MEDICAMENTOS A AUTORIZAR PELA COMUNIDADE
+    - Adita Notas
+    - Suprime TÍTULO I — DEFINIÇÕES E ÂMBITO DE APLICAÇÃO
+    - Suprime TÍTULO II — AUTORIZAÇÃO E FISCALIZAÇÃO DOS MEDICAMENTOS PARA USO HUMANO
+    - Suprime Capítulo 1 — Apresentação e análise dos pedidos - autorizações
+    - Suprime Capítulo 2 — Fiscalização e sanções
+    - Suprime Capítulo 3 — Farmacovigilância
+    - Suprime TÍTULO III — AUTORIZAÇÃO E FISCALIZAÇÃO DOS MEDICAMENTOS VETERINÁRIOS
+  - date: '2008-12-30'
+    amending: eu:celex:32007R1394:por
+    amending_title: REGULAMENTO (CE) N. o 1394/2007 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 13.º
+    - Altera Artigo 30.º
+    - Altera Artigo 41.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 68.º
+    - Altera Artigo 69.º
+    - Altera Artigo 73.º
+    - Altera Artigo 85.º
+    - Altera MEDICAMENTOS A AUTORIZAR PELA COMUNIDADE
+    - Altera Notas
+  - date: '2009-04-20'
+    amending: eu:celex:32009R0219:por
+    amending_title: REGULAMENTO (CE) n. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 24.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 41.º
+    - Altera Artigo 49.º
+    - Altera Artigo 54.º
+    - Altera Artigo 57.º
+    - Altera Artigo 68.º
+    - Altera Artigo 69.º
+    - Altera Artigo 70.º
+    - Altera Artigo 73.º
+    - Altera Artigo 84.º
+    - Altera Artigo 85.º
+    - Altera Artigo 87.º
+    - Altera MEDICAMENTOS A AUTORIZAR PELA COMUNIDADE
+    - Altera Notas
+  - date: '2009-07-06'
+    amending: eu:celex:32009R0470:por
+    amending_title: REGULAMENTO (CE) N. o 470/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de Maio de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 30.º
+    - Altera Artigo 41.º
+    - Altera Artigo 57.º
+    - Altera Artigo 68.º
+    - Altera Artigo 69.º
+    - Altera Artigo 73.º
+    - Altera Artigo 85.º
+    - Altera MEDICAMENTOS A AUTORIZAR PELA COMUNIDADE
+    - Altera Notas
+  - date: '2012-07-02'
+    amending: eu:celex:32010R1235:por
+    amending_title: REGULAMENTO (UE) N. o 1235/2010 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Dezembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 41.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 62.º
+    - Altera Artigo 64.º
+    - Altera Artigo 66.º
+    - Altera Artigo 67.º
+    - Altera Artigo 68.º
+    - Altera Artigo 69.º
+    - Altera Artigo 73.º
+    - Altera Artigo 82.º
+    - Altera Artigo 83.º
+    - Altera Artigo 85.º
+    - Altera MEDICAMENTOS A AUTORIZAR PELA COMUNIDADE
+    - Altera Notas
+    - Adita Artigo 10.ºA
+    - Adita Artigo 10.ºB
+    - Adita Artigo 14.ºA
+    - Adita Farmacoviligância
+    - Adita Artigo 25.ºA
+  - date: '2012-12-04'
+    amending: eu:celex:32012R1027:por
+    amending_title: REGULAMENTO (UE) N. o 1027/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de outubro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 23.º
+    - Altera Artigo 30.º
+    - Altera Artigo 41.º
+    - Altera Artigo 57.º
+    - Altera Artigo 68.º
+    - Altera Artigo 69.º
+    - Altera Artigo 73.º
+    - Altera Artigo 85.º
+    - Altera MEDICAMENTOS A AUTORIZAR PELA COMUNIDADE
+    - Altera Notas
+  - date: '2013-06-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 13.º
+    - Altera Artigo 20.º
+    - Altera Artigo 23.º
+    - Altera Artigo 30.º
+    - Altera Artigo 41.º
+    - Altera Artigo 57.º
+    - Altera Artigo 68.º
+    - Altera Artigo 69.º
+    - Altera Artigo 73.º
+    - Altera Artigo 85.º
+    - Altera MEDICAMENTOS A AUTORIZAR PELA COMUNIDADE
+    - Altera Notas
+    - Adita Artigo 14.º-B
+  - date: '2019-03-30'
+    amending: eu:celex:32018R1718:por
+    amending_title: REGULAMENTO (UE) 2018/1718 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de novembro de 2018; REGULAMENTO
+      (EU) 2019/5 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.ºB
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 34.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 47.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+    - Altera Artigo 51.º
+    - Altera Artigo 53.º
+    - Altera Artigo 57.º
+    - Altera Artigo 58.º
+    - Altera Artigo 59.º
+    - Altera Artigo 61.º
+    - Altera Artigo 64.º
+    - Altera Artigo 67.º
+    - Altera Artigo 68.º
+    - Altera Artigo 69.º
+    - Altera Artigo 70.º
+  - date: '2022-01-28'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera Artigo 20.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 59.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 66.º
+    - Altera Artigo 68.º
+    - Altera Artigo 69.º
+    - Altera Artigo 73.º
+    - Altera Artigo 77.º
+    - Altera Artigo 78.º
+    - Altera Artigo 80.º
+    - Altera Artigo 82.º
+    - Altera Artigo 85.º
+    - Altera Artigo 86.º
+    - Altera Artigo 87.º
+    - Altera Artigo 87.º-B
+    - Altera MEDICAMENTOS A AUTORIZAR PELA [►M8](http://publications.europa.eu/resource/celex/32019R0005) UNIÃO◄
+    - Altera Notas
+    - Suprime Artigo 30.º
+    - Suprime Artigo 31.º
+    - Suprime Artigo 32.º
+    - Suprime Artigo 33.º
+    - Suprime Artigo 34.º
+    - Suprime Artigo 35.º
+    - Suprime Artigo 36.º
+    - Suprime Artigo 37.º
+    - Suprime Artigo 38.º
+    - Suprime Artigo 39.º
+    - Suprime Artigo 40.º
+    - Suprime Artigo 41.º
 identifiers:
   celex: 32004R0726
   eli: http://data.europa.eu/eli/reg/2004/726/oj
@@ -52,7 +330,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/76810f3f-d7a4-4393-878f-99fff4602ffc.0010
   content_url: http://publications.europa.eu/resource/cellar/94cafb70-72f4-11ec-9136-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0726-20220128
-  retrieved_at: '2026-10-22T02:37:02Z'
+  retrieved_at: '2026-10-22T14:57:52Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-31T07:03:04.472+01:00'
 integrity:
@@ -61,9 +339,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:02Z'
-  notes: Texto consolidado 02004R0726-20220128.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:52Z'
+  notes: 10 versão(ões); histórico completo em regulamento-ue-2004-726.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -309,40 +587,20 @@ relationships:
   date: '1993-08-24'
 article_structure:
   article_count: 85
-  section_count: 28
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 29
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:02Z'
-  warnings: []
+  checked_at: '2026-10-22T14:57:52Z'
+  warnings:
+  - '02004R0726-20040520: versão indisponível (Sem expressão na língua por para CELEX 02004R0726-20040520.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 726/2004 do Parlamento Europeu e do Conselho de 31 de Março de 2004
-
-> 02004R0726 — PT — 28.01.2022 — 010.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006R1901) — [REGULAMENTO (CE) N.O 1901/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1901) — L 378 — 1 — 27.12.2006
-- [►M2](http://publications.europa.eu/resource/celex/32007R1394) — [REGULAMENTO (CE) N.º 1394/2007 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de Novembro de 2007](http://publications.europa.eu/resource/celex/32007R1394) — L 324 — 121 — 10.12.2007
-- [M3](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) n.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-- [M4](http://publications.europa.eu/resource/celex/32009R0470) — [REGULAMENTO (CE) N.º 470/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de Maio de 2009](http://publications.europa.eu/resource/celex/32009R0470) — L 152 — 11 — 16.6.2009
-- [►M5](http://publications.europa.eu/resource/celex/32010R1235) — [REGULAMENTO (UE) N.º 1235/2010 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Dezembro de 2010](http://publications.europa.eu/resource/celex/32010R1235) — L 348 — 1 — 31.12.2010
-- [►M6](http://publications.europa.eu/resource/celex/32012R1027) — [REGULAMENTO (UE) N.º 1027/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de outubro de 2012](http://publications.europa.eu/resource/celex/32012R1027) — L 316 — 38 — 14.11.2012
-- [►M7](http://publications.europa.eu/resource/celex/32018R1718) — [REGULAMENTO (UE) 2018/1718 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de novembro de 2018](http://publications.europa.eu/resource/celex/32018R1718) — L 291 — 3 — 16.11.2018
-- [►M8](http://publications.europa.eu/resource/celex/32019R0005) — [REGULAMENTO (EU) 2019/5 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018](http://publications.europa.eu/resource/celex/32019R0005) — L 4 — 24 — 7.1.2019
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32010R1235R%2801%29) — [Rectificação, JO L 201, 27.7.2012, p. 138 (1235/2010)](http://publications.europa.eu/resource/celex/32010R1235R%2801%29)
-
-## REGULAMENTO (CE) N.º 726/2004 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 31 de março de 2004
 

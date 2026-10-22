@@ -35,6 +35,108 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: regulamento-ue-2003-437.versoes.json
+  count: 6
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '2003-03-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-08-21'
+    amending: eu:celex:32003R1358:por
+    amending_title: REGULAMENTO (CE) N. o 1358/2003 DA COMISSÃO de 31 de Julho de 2003
+    changes:
+    - Altera preambulo
+    - Altera Artigo 12.º — Entrada em vigor
+    - Adita ANEXO I
+    - Adita ESTRUTURA DO REGISTO PARA A TRANSMISSÃO DE DADOS AO EUROSTAT
+    - Adita A. Quadro sobre as etapas de voo [dados mensais
+    - Adita B. Quadro sobre origem/destino do voo [dados mensais
+    - Adita C. Quadro sobre os aeroportos (pelo menos, dados anuais)
+    - Adita CÓDIGOS
+    - Adita 1. País declarante
+    - Adita 2. Período de referência
+    - Adita 3. Aeroportos
+    - Adita 4. Informações sobre a transportadora aérea
+    - Adita 5. Tipo de aeronave
+    - Adita ANEXO II
+    - Adita DEFINIÇÕES E ESTATÍSTICAS A DECLARAR
+    - Adita I. DEFINIÇÕES E VARIÁVEIS DE INTERESSE GERAL
+    - Adita 1. Aeroporto comunitário (artigos 1.º e 3.º )
+    - Adita 2. Voo estatal (artigo 1.º e quadro C1)
+    - Adita 3. Unidade-passageiro (n.^os^ 2, 4 e 5 do artigo 3.º )
+    - Adita 4. Serviços comerciais aéreos (artigo 1.º e quadros A1, B1 e C1)
+    - Adita 5. Serviços de transporte aéreo regulares (quadros A1 e B1)
+    - Adita 6. Serviços de transporte aéreo não regulares (quadros A1 e B1)
+    - Adita 7. Serviços de transporte aéreo de passageiros (quadros A1 e B1)
+    - Adita 8. Serviços polivalentes de carga e correio (quadros A1 e B1)
+    - Adita 9. Transportadora aérea (Operador de transporte aéreo comercial) (quadros A1, B1 e C1)
+    - Adita II. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO A1 (ETAPAS DE VOO)
+    - Adita 10. Etapa de voo (quadro A1)
+    - Adita 11. Passageiros a bordo (quadro A1)
+    - Adita 12. Carga e correio a bordo (quadro A1)
+    - Adita 13. Voo comercial (quadro A1)
+    - Adita 14. Lugares de passageiro disponíveis (quadro A1)
+    - Adita III. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO B1 (ORIGEM E DESTINO DO VOO) E AO QUADRO C1 (AEROPORTOS)
+    - Adita 15. Origem e destino do voo (quadro B1)
+    - Adita 16. Passageiros transportados (quadros B1 e C1)
+    - Adita 17. Carga e correio carregados ou descarregados (quadros B1 e C1)
+    - Adita 18. Passageiros em trânsito directo (quadro C1)
+    - Adita 19. Total dos movimentos de aeronaves comerciais (quadro C1)
+    - Adita 20. Total dos movimentos de aeronaves (quadro C1)
+    - Adita Notas
+    - Suprime ANEXO I — ESTRUTURA DO REGISTO PARA A TRANSMISSÃO DE DADOS AO EUROSTAT
+  - date: '2005-04-29'
+    amending: eu:celex:32005R0546:por
+    amending_title: REGULAMENTO (CE) N. o 546/2005 DA COMISSÃO de 8 de Abril de 2005
+    changes:
+    - Altera preambulo
+    - Altera C. Quadro sobre os aeroportos (pelo menos, dados anuais)
+    - Altera 1. País declarante
+    - Altera Notas
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1791:por
+    amending_title: VERORDNUNG (EG) NR. 1791/2006 DES RATES vom 20. November 2006
+    changes:
+    - Altera preambulo
+    - Altera C. Quadro sobre os aeroportos (pelo menos, dados anuais)
+    - Altera 1. País declarante
+    - Altera Notas
+    - Adita A. Quadro sobre as etapas de voo [dados mensais ([^8^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0008))]
+    - Adita B. Quadro sobre origem/destino do voo [dados mensais ([^9^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0009))]
+    - Suprime A. Quadro sobre as etapas de voo [dados mensais
+    - Suprime B. Quadro sobre origem/destino do voo [dados mensais
+  - date: '2009-04-20'
+    amending: eu:celex:32009R0219:por
+    amending_title: REGULAMENTO (CE) N. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Exactidão das estatísticas
+    - Altera Artigo 7.º — Transmissão dos resultados
+    - Altera Artigo 11.º — Procedimento de comité
+    - Altera C. Quadro sobre os aeroportos (pelo menos, dados anuais)
+    - Altera Notas
+    - Adita Artigo 10.º — Medidas de execução
+    - Adita A. Quadro sobre as etapas de voo [dados mensais ([^8^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0008))]
+    - Adita B. Quadro sobre origem/destino do voo [dados mensais ([^9^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0009))]
+    - Suprime Artigo 10.º — Disposições de execução
+    - Suprime A. Quadro sobre as etapas de voo [dados mensais ([^8^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0008))]
+    - Suprime B. Quadro sobre origem/destino do voo [dados mensais ([^9^](http://publications.europa.eu/resource/cellar/51ffb849-4855-4baf-8b30-fbe495f3ddca.0017.03/DOC_1#E0009))]
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera C. Quadro sobre os aeroportos (pelo menos, dados anuais)
+    - Altera 1. País declarante
+    - Altera 14. Lugares de passageiro disponíveis (quadro A1)
+    - Altera Notas
+    - Adita A. Quadro sobre as etapas de voo [dados mensais ([^8^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#E0008))]
+    - Adita B. Quadro sobre origem/destino do voo [dados mensais ([^9^](http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1#E0009))]
+    - Suprime A. Quadro sobre as etapas de voo [dados mensais ([^8^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0008))]
+    - Suprime B. Quadro sobre origem/destino do voo [dados mensais ([^9^](http://publications.europa.eu/resource/cellar/9e1274a4-3993-470b-92cd-6123b697c0d9.0017.03/DOC_1#E0009))]
 identifiers:
   celex: 32003R0437
   eli: http://data.europa.eu/eli/reg/2003/437/oj
@@ -49,7 +151,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d7000ea0-9d64-4353-8296-acc9ce284914.0010
   content_url: http://publications.europa.eu/resource/cellar/e9841374-9785-41d4-8de5-2fede2a88492.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R0437-20130701
-  retrieved_at: '2026-10-22T03:11:25Z'
+  retrieved_at: '2026-10-22T14:55:30Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T17:09:53.673+01:00'
 integrity:
@@ -58,9 +160,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:25Z'
-  notes: Texto consolidado 02003R0437-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:30Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2003-437.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -141,33 +243,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/f9830283-df4c-4576-b043-875dce0385ce
 article_structure:
   article_count: 12
-  section_count: 36
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 37
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:25Z'
+  checked_at: '2026-10-22T14:55:30Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 437/2003 do Parlamento Europeu e do Conselho, de 27 de Fevereiro de 2003
-
-> 2003R0437 — PT — 01.07.2013 — 005.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003R1358) — [REGULAMENTO (CE) N.º 1358/2003 DA COMISSÃO de 31 de Julho de 2003](http://publications.europa.eu/resource/celex/32003R1358) — L 194 — 9 — 1.8.2003
-- [►M2](http://publications.europa.eu/resource/celex/32005R0546) — [REGULAMENTO (CE) N.º 546/2005 DA COMISSÃO de 8 de Abril de 2005](http://publications.europa.eu/resource/celex/32005R0546) — L 91 — 5 — 9.4.2005
-- [►M3](http://publications.europa.eu/resource/celex/32006R1791) — [VERORDNUNG (EG) Nr. 1791/2006 DES RATES vom 20. November 2006](http://publications.europa.eu/resource/celex/32006R1791) — L 363 — 1 — 20.12.2006
-- [►M4](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) N.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-- [►M5](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-
-## REGULAMENTO (CE) N.º 437/2003 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 27 de Fevereiro de 2003
 

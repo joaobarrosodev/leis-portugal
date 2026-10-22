@@ -1,0 +1,1584 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992L0118:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0118-20060101",
+ "dre_path": null,
+ "source_lastmod": "2006-01-01",
+ "versions": [
+  {
+   "date": "1993-03-15",
+   "future": false,
+   "celex": "31992L0118",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2b6b74c396bd7710",
+    "437606caefe14e3c",
+    "32b2d3d2e8807f4e",
+    "eb79f7a7427b5d6f",
+    "e8aaf9f7d13ceba9",
+    "d317a0dd7bb13573",
+    "304c9945740a3144",
+    "5ed75e810ca0567b",
+    "1de53cbfd1259e3a",
+    "a05e69b066f1eae2",
+    "0d24ae5b0287dd76",
+    "cf7b4bc9f0ee0634",
+    "c025ad5b90d967a5",
+    "60db682e79b8913a",
+    "1c6e651f8dd97485",
+    "07df608e444b631e",
+    "d59e8a2cc17c4a39",
+    "507fb90f2e305dc9",
+    "ed4925454a499dfb",
+    "f644393c1f7ca340",
+    "490efc0cbadce7a9",
+    "54b2976e939e4ed1",
+    "b1e775fc979046d2",
+    "9c8db705ec6bd63b",
+    "bbe59b66b715c0a2",
+    "3a93f03835be5280",
+    "188364cd42d90dbe",
+    "cc76b75d98f48721",
+    "1d00584be3ad9709",
+    "8c0c7195c6f1022e",
+    "ff70ceb93db10aad",
+    "42639ce0da3a0ed2",
+    "d78e896105fd4118",
+    "aca5096c3948189e",
+    "d999cd3ddf60ffd2",
+    "bdf76e1e3d2d6301",
+    "ea72a7c32369fe56",
+    "fbb9fa69935a1977",
+    "69087494d9f70ad4",
+    "fc47db4c5fb81b23",
+    "bc8aa3eccd8c11cf",
+    "117a9cf15a87bbc9",
+    "05301a8b5f5548bd",
+    "bf770a4d39a34b9f",
+    "63f53bf053ac9222",
+    "fb476f4f24060f4d",
+    "5970a068734f7f42",
+    "ca64e45269a4d52e",
+    "7c11a5a75092f298",
+    "b48669d1fc3fed72",
+    "2d6ed83ea1a8c6f9",
+    "29d1b32b6221bd46",
+    "44bb3fe1b2a0bf1b",
+    "38ac74ae0fec073f",
+    "a174931c848eb85f",
+    "5e4da2d3e24a658f"
+   ]
+  },
+  {
+   "date": "2004-04-30",
+   "future": false,
+   "celex": "01992L0118-20040430",
+   "acts": [
+    {
+     "id": "eu:celex:31994D0466:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31994D0466"
+    },
+    {
+     "id": "eu:celex:31994D0723:por",
+     "title": "M2",
+     "published": null,
+     "celex": "31994D0723"
+    },
+    {
+     "id": "eu:celex:31995D0338:por",
+     "title": "M3",
+     "published": null,
+     "celex": "31995D0338"
+    },
+    {
+     "id": "eu:celex:31995D0339:por",
+     "title": "M4",
+     "published": null,
+     "celex": "31995D0339"
+    },
+    {
+     "id": "eu:celex:31996D0103:por",
+     "title": "M5",
+     "published": null,
+     "celex": "31996D0103"
+    },
+    {
+     "id": "eu:celex:31996D0340:por",
+     "title": "M6",
+     "published": null,
+     "celex": "31996D0340"
+    },
+    {
+     "id": "eu:celex:31996D0405:por",
+     "title": "DECISÃO DA COMISSÃO de 21 de Junho de 1996",
+     "published": null,
+     "celex": "31996D0405"
+    },
+    {
+     "id": "eu:celex:31996L0090:por",
+     "title": "DIRECTIVA 96/90/CE DO CONSELHO de 17 de Dezembro de 1996",
+     "published": null,
+     "celex": "31996L0090"
+    },
+    {
+     "id": "eu:celex:31997L0079:por",
+     "title": "DIRECTIVA 97/79/CE DO CONSELHO de 18 de Dezembro de 1997",
+     "published": null,
+     "celex": "31997L0079"
+    },
+    {
+     "id": "eu:celex:31999D0724:por",
+     "title": "M10",
+     "published": null,
+     "celex": "31999D0724"
+    },
+    {
+     "id": "eu:celex:32001D0007:por",
+     "title": "M11",
+     "published": null,
+     "celex": "32001D0007"
+    },
+    {
+     "id": "eu:celex:32002L0033:por",
+     "title": "DIRECTIVA 2002/33/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Outubro de 2002",
+     "published": null,
+     "celex": "32002L0033"
+    },
+    {
+     "id": "eu:celex:32003D0042:por",
+     "title": "M13",
+     "published": null,
+     "celex": "32003D0042"
+    },
+    {
+     "id": "eu:celex:32003D0721:por",
+     "title": "M15",
+     "published": null,
+     "celex": "32003D0721"
+    },
+    {
+     "id": "eu:celex:32004R0445:por",
+     "title": "REGULAMENTO (CE) N. o 445/2004 DA COMISSÃO de 10 de Março de 2004",
+     "published": null,
+     "celex": "32004R0445"
+    },
+    {
+     "id": "eu:celex:32004L0041:por",
+     "title": "DIRECTIVA 2004/41/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Abril de 2004",
+     "published": null,
+     "celex": "32004L0041"
+    },
+    {
+     "id": null,
+     "title": "A1",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "A2",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera CAPÍTULO I",
+    "Altera CAPÍTULO II",
+    "Altera CAPÍTULO 2",
+    "Altera CAPÍTULO 5",
+    "Adita Disposições gerais",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Disposições aplicáveis ao comércio",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita CAPÍTULO III",
+    "Adita Disposições aplicáveis às importações na Comunidade",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita CAPÍTULO IV",
+    "Adita Disposições comuns e finais",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Adita Artigo 20.º",
+    "Adita Artigo 21.º",
+    "Adita ANEXO I",
+    "Adita CONDIÇÕES ESPECÍFICAS DE POLÍTICA SANITÁRIA",
+    "Adita Tripas de animais destinadas ao consumo humano",
+    "Adita A. Comércio",
+    "Adita B. Importações provenientes de países terceiros",
+    "Adita Ossos e produtos à base de osso (com exclusão da farinha de osso), chifres e produtos à base de chifre (com exclusão da farinha de chifre) unhas e cascos e produtos à base de cascos (com exclusão da farinha de casco)[►M12](http://publications.europa.eu/resource/celex/32002L0033) destinados ao consumo humano◄",
+    "Adita CAPÍTULO 6",
+    "Adita Proteínas animais transformadas[►M12](http://publications.europa.eu/resource/celex/32002L0033) destinadas ao consumo humano◄",
+    "Adita CAPÍTULO 7",
+    "Adita Sangue e produtos derivados de sangue de ungulados e de aves de capoeira",
+    "Adita (com excepção de soro de equídeos)",
+    "Adita I. Sangue fresco e produtos derivados do sangue destinados ao consumo humano",
+    "Adita B. Importações",
+    "Adita III. Disposições gerais",
+    "Adita CAPÍTULO 9",
+    "Adita Banha e gorduras fundidas destinadas ao consumo humano",
+    "Adita CAPÍTULO 11",
+    "Adita Carnes de coelho e carnes de caça de criação destinadas ao consumo humano",
+    "Adita ANEXO III",
+    "Adita I",
+    "Adita VERSÃO CONSOLIDADA DOS ANEXOS A E B DA DIRECTIVA 89/662/CEE",
+    "Adita «ANEXO A",
+    "Adita LEGISLAÇÃO VETERINÁRIA",
+    "Adita ANEXO B",
+    "Adita PRODUTOS NÃO SUJEITOS A HARMONIZAÇÃO COMUNITÁRIA MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA",
+    "Adita II",
+    "Adita VERSÃO CONSOLIDADA DOS ANEXOS A E B DA DIRECTIVA 90/425/CEE",
+    "Adita LEIGISLAÇÃO ZOOTÉCNICA",
+    "Adita ANIMAIS REPRODUTORES NÃO SUJEITOS A HARMONIZAÇÃO MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA",
+    "Adita Notas",
+    "Suprime CAPÍTULO I — Disposições gerais",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime CAPÍTULO II — Disposições aplicáveis ao comércio",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime CAPÍTULO III — Disposições aplicáveis às importações na Comunidade",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime CAPÍTULO IV — Disposições comuns e finais",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o",
+    "Suprime Artigo 21o",
+    "Suprime ANEXO I — CONDIÇÕES ESPECÍFICAS DE POLÍTICA SANITÁRIA",
+    "Suprime CAPÍTULO 1 — Leite líquido, leite em pó e produtos à base de leite em pó não destinados ao consumo humano",
+    "Suprime CAPÍTULO 2 — Tripas de animais",
+    "Suprime CAPÍTULO 3 — Peles de ungulado não abrangidas pelas directivas 64/433/CEE e 72/462/CEE",
+    "Suprime CAPÍTULO 4 — Alimentos em que foram incorporadas matérias de baixo risco na acepção da Directiva 90/667/CEE",
+    "Suprime CAPÍTULO 6 — Proteínas animais transformadas",
+    "Suprime CAPÍTULO 7 — Sangue e produtos de sangue de origem animal",
+    "Suprime CAPÍTULO 8 — Soro proveniente de equídeos",
+    "Suprime CAPÍTULO 9 — Banha e gorduras fundidas",
+    "Suprime CAPÍTULO 10 — Matérias-primas destinadas ao fabrico de alimentos para animais e de produtos farmacêuticos ou técnicos",
+    "Suprime CAPÍTULO 11 — Carnes de coelho e carnes de caça de criação",
+    "Suprime CAPÍTULO 12 — Produtos apícolas",
+    "Suprime CAPÍTULO 13 — Troféus de caça",
+    "Suprime CAPÍTULO 14 — Chorume para tratamento do solo (8)()",
+    "Suprime CAPÍTULO 15 — La, pêlos, cerdas, penas e penugem não tratados",
+    "Suprime ANEXO II — CONDIÇÕES ESPECÍFICAS DE SAÚDE PÚBLICA",
+    "Suprime CAPÍTULO 1",
+    "Suprime ANEXO III — I",
+    "Suprime ANEXO B — PRODUTOS NAO SUJEITOS A HARMONIZAÇÃO COMUNITÁRIA MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA",
+    "Suprime CAPÍTULO I — LEGISLAÇÃO VETERINÁRIA",
+    "Suprime Secção 1",
+    "Suprime Secção 2",
+    "Suprime CAPÍTULO II — LEIGISLAÇÃO ZOOTÉCNICA",
+    "Suprime ANEXO B — ANIMAIS REPRODUTORES NAO SUJEITOS A HARMONIZAÇÃO MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA"
+   ],
+   "fragments": [
+    "74fbc09c368b69ee",
+    "226c39ffd0a88dad",
+    "7fabed8a0a46afb5",
+    "21943d22f419097a",
+    "fcbe307cabc42d3f",
+    "99d320f4250c3471",
+    "f0f8c960bfdbce9b",
+    "46c1b48c2993c255",
+    "447daf18a407c4f3",
+    "4801ab6f2ef96d99",
+    "2743e9bbec33dee1",
+    "9bb91c0c0d64b41b",
+    "dd7fed492da230b0",
+    "1e7a0903d2eed348",
+    "5750281a1e9b9f15",
+    "1e5c6998e16b0369",
+    "f766ecf223e84ba9",
+    "ad37a461b5033cdf",
+    "fbd38a2d2a013697",
+    "0ddc0c31f9358149",
+    "1ecfc79da3f1ac7f",
+    "73449003be6a2e27",
+    "1804c15652e83702",
+    "45d4fce7ae4eb367",
+    "d23b9e6aced9f8d0",
+    "3b94b94cfb6e22bd",
+    "33d82f293a96ed7c",
+    "72a33344c47b0072",
+    "b1b67b52dbd480af",
+    "2f63a689be3366d5",
+    "d664376e2a8dcecd",
+    "a57574a363d4eac8",
+    "ec2b18140b6b4802",
+    "2f6baf597a3f8d6f",
+    "d07ecc92dab7e2ac",
+    "0a4bc3feb9c3b33f",
+    "866ed939a159cfd6",
+    "e53da0c879b23845",
+    "8b5929d507d9ff76",
+    "8adb90e1a57af56a",
+    "7b950dc1c948e4ac",
+    "41bbc476812c604e",
+    "5b94b1028fa29e9d",
+    "c078aca3d44ff650",
+    "ee2001c371dea17f",
+    "32061463d8804f4d",
+    "11e398e1c0d500ca",
+    "cb66963de7b49a69",
+    "96568cef3708a356",
+    "97665c6a4c8c1257",
+    "b9593750e05216e3",
+    "720af75c92791b10",
+    "a60e60ef5940de2c",
+    "36f301be90a01a2c",
+    "25f098001ea1029b",
+    "9bd85a6af2f07d75",
+    "2d35d299c0a8d109",
+    "608124465f166eae",
+    "c13b99ba13d00e28",
+    "74a174a4223e5029",
+    "78b73ac45cb85c53",
+    "9d4532780b6a5eff",
+    "25f098001ea1029b",
+    "65f14aa49187d775",
+    "b5cd4cb4d5544103",
+    "121e803aa0ba200d",
+    "56b083bd2321d65a",
+    "c13b99ba13d00e28",
+    "f3d8473ba76e5fe9",
+    "1a3e02a3bc75f1c4",
+    "bcf8165691c2bf7e",
+    "1e553bc627370b7a"
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "celex": "01992L0118-20060101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º",
+    "Altera A. Comércio",
+    "Altera Ossos e produtos à base de osso (com exclusão da farinha de osso), chifres e produtos à base de chifre (com exclusão da farinha de chifre) unhas e cascos e produtos à base de cascos (com exclusão da farinha de casco)[►M12](http://publications.europa.eu/resource/celex/32002L0033) destinados ao consumo humano◄",
+    "Altera B. Importações",
+    "Altera Carnes de coelho e carnes de caça de criação destinadas ao consumo humano",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "eb209089119f47aa",
+    "226c39ffd0a88dad",
+    "7fabed8a0a46afb5",
+    "78f26c5f15c974a1",
+    "f4b3eecb8e084645",
+    "99d320f4250c3471",
+    "f0f8c960bfdbce9b",
+    "46c1b48c2993c255",
+    "447daf18a407c4f3",
+    "4801ab6f2ef96d99",
+    "2743e9bbec33dee1",
+    "9bb91c0c0d64b41b",
+    "4b06d79d37debdb8",
+    "1e7a0903d2eed348",
+    "5750281a1e9b9f15",
+    "1e5c6998e16b0369",
+    "f766ecf223e84ba9",
+    "ad37a461b5033cdf",
+    "c3a480c5082f2e7b",
+    "0ddc0c31f9358149",
+    "1ecfc79da3f1ac7f",
+    "73449003be6a2e27",
+    "301c6ca8c7935725",
+    "45d4fce7ae4eb367",
+    "5a510318b7d5f9e8",
+    "3b94b94cfb6e22bd",
+    "33d82f293a96ed7c",
+    "72a33344c47b0072",
+    "b1b67b52dbd480af",
+    "2f63a689be3366d5",
+    "d664376e2a8dcecd",
+    "a57574a363d4eac8",
+    "ec2b18140b6b4802",
+    "2f6baf597a3f8d6f",
+    "9b691670e5c9aa50",
+    "0a4bc3feb9c3b33f",
+    "866ed939a159cfd6",
+    "1268df247fbd5436",
+    "8b5929d507d9ff76",
+    "8adb90e1a57af56a",
+    "7b950dc1c948e4ac",
+    "41bbc476812c604e",
+    "5b94b1028fa29e9d",
+    "c078aca3d44ff650",
+    "28cb8f04ae566b84",
+    "155283ef19495533",
+    "11e398e1c0d500ca",
+    "cb66963de7b49a69",
+    "96568cef3708a356",
+    "97665c6a4c8c1257",
+    "0e1e4354a0ac62ec",
+    "720af75c92791b10",
+    "a60e60ef5940de2c",
+    "36f301be90a01a2c",
+    "25f098001ea1029b",
+    "9bd85a6af2f07d75",
+    "2d35d299c0a8d109",
+    "608124465f166eae",
+    "c13b99ba13d00e28",
+    "74a174a4223e5029",
+    "78b73ac45cb85c53",
+    "9d4532780b6a5eff",
+    "25f098001ea1029b",
+    "65f14aa49187d775",
+    "b5cd4cb4d5544103",
+    "121e803aa0ba200d",
+    "56b083bd2321d65a",
+    "c13b99ba13d00e28",
+    "f3d8473ba76e5fe9",
+    "1a3e02a3bc75f1c4",
+    "bcf8165691c2bf7e",
+    "f507db8e4e821628"
+   ]
+  }
+ ],
+ "fragments": {
+  "2b6b74c396bd7710": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 92/118/CEE do Conselho, de 17 de Dezembro de 1992, que define as condições sanitárias e de polícia sanitária que regem o comércio e as importações na Comunidade de produtos não sujeitos, no que respeita às referidas condições, às regulamentações comunitárias específicas referidas no capítulo I do anexo A da Directiva 89/662/CEE e, no que respeita aos agentes patogénicos, da Directiva 90/425/CEE** *Jornal Oficial nº L 062 de 15/03/1993 p. 0049 - 0068 Edição especial finlandesa: Capítulo 3 Fascículo 48 p. 0194 Edição especial sueca: Capítulo 3 Fascículo 48 p. 0194*\n\nDIRECTIVA 92/118/CEE DO CONSELHO de 17 de Dezembro de 1992 que define as condições sanitárias e de polícia sanitária que regem o comércio e as importações na Comunidade de produtos não sujeitos, no que respeita às referidas condições, às regulamentações comunitárias específicas referidas no capítulo I do anexo A da Directiva 89/662/CEE e, no que respeita aos agentes patogénicos, da Directiva 90/425/CEE\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43o,\n\nTendo em conta as propostas da Comissão (1),\n\nTendo em conta os pareceres do Parlamento Europeu (2),\n\nTendo em conta os pareceres do Comité Económico e Social (3),\n\nConsiderando que os animais vivos e os produtos de origem animal estão incluídos na lista de produtos enumerados no anexo II do Tratado; que a colocação desses animais e produtos no mercado constitui uma fonte importante de rendimento da população agrícola;\n\nConsiderando que, para assegurar um desenvolvimento racional deste sector e aumentar a sua produtividade, há que fixar, a nível comunitário, regras de polícia sanitária para os animais e produtos em questão;\n\nConsiderando que a Comunidade deve adoptar as medidas destinadas a estabelecer progressivamente o mercado interno, durante um período que termina em 31 de Dezembro de 1992;\n\nConsiderando que a prossecução dos objectivos anteriormente referidos levou o Conselho a fixar regras de polícia sanitária relativas aos bovinos, aos suínos, aos ovinos e caprinos, aos equídeos, às aves de capoeira e ovos para incubação, aos peixes e produtos da pesca, aos moluscos bivalves, ao sémen de bovinos e suínos, aos embriões de bovinos, às carnes frescas, à carne de aves de capoeira, aos produtos à base de carne, às carnes de caça e de coelho e aos lacticínios;\n\nConsiderando que, salvo disposições em contrário, o comércio de produtos de origem animal deve ser liberalizado, sem prejuízo do recurso a eventuais medidas de salvaguarda;\n\nConsiderando que, devido a riscos notórios de propagação das doenças a que os animais estão expostos, há que especificar, em relação a certos produtos de origem animal, as exigências especiais a impor no momento da sua colocação no mercado para fins de comércio, nomeadamente com destino a regiões que disponham de um estatuto sanitário elevado;\n\nConsiderando que, aquando da adopção da Directiva 92/65/CEE, a Comissão aceitou dissociar os aspectos de polícia sanitária aplicáveis aos animais dos aplicáveis aos produtos;\n\nConsiderando que, para permitir a supressão dos controlos nas fronteiras entre Estados-membros em 1 de Janeiro de 1993, é necessário fixar as regras sanitárias e de polícia sanitária aplicáveis ao conjunto dos produtos sujeitos a esses controlos, cujo comércio ou importação ainda não foram objecto de harmonização a nível comunitário;\n\nConsiderando que, para realizar esse objectivo, é necessário adaptar certas regulamentações existentes para a adopção das medidas acima referidas;\n\nConsiderando que pareceu oportuno prever um processo de aprovação dos países terceiros e dos estabelecimentos que satisfazem as condições fixadas na presente directiva, bem como um processo de inspecção comunitária para velar pelo cumprimento das condições previstas para essas aprovação;\n\nConsiderando que o documento de acompanhamento dos produtos constitui o meio mais adequado de fornecer às autoridades competentes do local de destino a garantia de que determinada remessa cumpre as disposições da presente directiva; que convém manter o certificado sanitário ou de salubridade para controlar o destino de certos produtos importados;\n\nConsiderando que as regras, princípios e medidas de salvaguarda estabelecidos pela Directiva 90/675/CEE do Conselho, de 10 de Dezembro de 1990, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade (4), devem-se aplicar ao caso presente;\n\nConsiderando que, no contexto do comércio intracomunitário, as regras estabelecidas pela Directiva 89/662/CEE devem ser igualmente aplicáveis;\n\nConsiderando que a Comissão deve ser incumbida da adopção de determinadas medidas de execução da presente directiva; que, com esse objectivo, devem ser adoptados processos que estabeleçam uma cooperação estreita e eficaz entre a Comissão e os Estados-membros no âmbito do Comité Veterinário Permanente;\n\nConsiderando que, devido a dificuldades de abastecimento especiais relacionadas com a situação geográfica da República Helénica, é conveniente prever disposições derrogatórias especiais para este Estado-membro;\n\nConsiderando que a adopção de regras específicas para os produtos abrangidos pela presente directiva não afecta a adopção de regras para a higiene e a segurança alimentar em geral, em relação às quais a Comissão apresentou uma proposta de directiva-quadro,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "437606caefe14e3c": {
+   "fragment_id": "CAPÍTULO I — Disposições gerais",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "32b2d3d2e8807f4e": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva define as condições sanitárias e de polícia sanitária que regem o comércio e as importações na Comunidade de produtos de origem animal (incluindo amostras comerciais colhidas desses produtos) não sujeitos, no que respeita às referidas condições, às regulamentações comunitárias específicas referidas no capítulo I do anexo A da Directiva 89/662/CEE (5) e, no que respeita aos agentes patogénicos, da Directiva 90/425/CEE.\n\nA presente directiva não prejudica a adopção de exigências mais particularizadas em matéria de polícia sanitária no âmbito das regulamentações específicas acima referidas nem a manutenção de restrições ao comércio ou às importações de produtos abrangidos pelas regulamentações específicas referidas no primeiro parágrafo por motivo de exigências de saúde pública."
+  },
+  "eb79f7a7427b5d6f": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Para efeitos da presente directiva, entende-se por:\n\na) Comércio: o comércio tal como definido no no 2 do artigo 2o da Directiva 89/662/CEE;\n\nb) Amostra comercial: uma amostra sem qualquer valor comercial colhida em nome do proprietário ou do responsável por um estabelecimento, que seja representativa de uma dada produção de produtos de origem animal desse estabelecimento ou que constitua um modelo de um produto de origem animal que se tencione fabricar e que, para efeitos de análise posterior, deve conter a indicação do tipo de produto, da sua composição e da espécie animal de onde foi obtido;\n\nc) Doença transmissível grave: qualquer doença prevista na Directiva 82/894/CEE (6);\n\nd) Agentes patogénicos: qualquer conjunto ou cultura de organismos ou qualquer seu derivado, quer isolado quer sob forma recombinada, que possa provocar uma doença em qualquer ser vivo (com excepção do homem), e todos os derivados modificados desses organismos que possam ser portadores ou transmitir um agente patogénico animal, ou o tecido, cultura celular, secreções ou excreções pelos quais ou através dos quais possa ser transportado ou transmitido um agente patogénico animal; esta definição não inclui os medicamentos veterinários imunológicos autorizados pela Directiva 90/677/CEE (7);\n\ne) Proteínas animais transformadas destinadas à alimentação animal: as proteínas animais tratadas por forma a tornarem-se próprias para serem utilizadas directamente como alimentos para animais ou como componentes de alimentos para animais. Estas proteínas incluem a farinha de peixe, a farinha de carne, a farinha de osso, a farinha de cascos, farinha de chifres, a farinha de sangue, a farinha de penas, os torresmos secos e outros produtos similares, incluindo as misturas que contenham estes produtos;\n\nf) Proteínas animais transformadas destinadas ao consumo humano: os torresmos, a farinha de carne e o courato em pó referidos na alínea b) do artigo 2o da Directiva 77/99/CEE (8);\n\ng) Produto apícola: o mel, a cera, a geleia real, o própolis ou o pólen que não se destinam nem ao consumo humano nem à utilização industrial;\n\n2. Além destas, são aplicáveis mutatis mutandis as definições previstas no artigo 2o das directivas 89/662/CEE, 90/425/CEE e 90/675/CEE."
+  },
+  "e8aaf9f7d13ceba9": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros velarão por que:\n\n- o comércio e as importações dos produtos de origem referidos no artigo 1o, bem como de gelatinas não destinadas ao consumo humano não sejam proibidos ou restringidos por motivos sanitários ou de polícia sanitária que não sejam os resultantes da aplicação da presente directiva ou da legislação comunitária e, nomeadamente, das medidas de salvaguarda eventualmente tomadas,\n\n- qualquer novo produto de origem animal cuja colocação no mercado seja autorizada após a data prevista no artigo 20o só possa ser objecto de comércio ou de importação uma vez tomada uma decisão nos termos do primeiro parágrafo do artigo 15o, depois de avaliado, se necessário mediante parecer do Comité Científico Veterinário instituído pela Decisão 81/651/CEE (9), o risco real de propagação de doenças transmissíveis graves que possa advir da circulação do produto, não só na espécie da qual ele deriva mas também noutras espécies que possam agir como portadoras ou transmissoras da doença;\n\n- os outros produtos de origem animal referidos na alínea b) do artigo 2o da Directiva 77/99/CEE só possam ser objecto de comércio ou de importação a partir de países terceiros se cumprirem as exigências da referida directiva e as exigência pertinentes da presente directiva."
+  },
+  "d317a0dd7bb13573": {
+   "fragment_id": "CAPÍTULO II — Disposições aplicáveis ao comércio",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Disposições aplicáveis ao comércio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Disposições aplicáveis ao comércio"
+  },
+  "304c9945740a3144": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs Estados-membros tomarão as medidas necessárias para que, para efeitos da aplicação do no 1 do artigo 4o da Directiva 89/662/CEE e do no 1, alínea a), do artigo 4o da Directiva 90/425/CEE, e sem prejuízo das disposições especiais a adoptar nos termos do no 3, alínea c), do artigo 10o e do artigo 11o, os produtos de origem animal referidos nos anexos I e II bem como no segundo e terceiro travessões do artigo 3o da presente directiva só possam ser objecto de comércio se satisfizerem as seguintes exigências:\n\n1. Cumprirem as exigências do artigo 5o e as exigências específicas previstas no anexo I no que se refere aos aspectos de saúde animal e no anexo II no que se refere aos aspectos de saúde pública;\n\n2. Serem provenientes de estabelecimentos que:\n\na) Se comprometam, em função das exigências específicas previstas nos anexos I e II para os produtos obtidos no estabelecimento, a:\n\n- respeitar as condições de produção enunciadas na presente directiva,\n\n- estabelecer e aplicar métodos de vigilância e de controlo dos pontos críticos, em função dos processos utilizados,\n\n- em função dos produtos, colher amostras para análise num laboratório reconhecido pela autoridade competente, a fim de verificar o cumprimento das normas fixadas na presente directiva,\n\n- conservar um arquivo escrito ou gravado das indicações obtidas nos termos dos travessões anteriores, a fim de o apresentar à autoridade competente. Os resultados dos vários controlos e testes, nomeadamente, serão conservados durante um período de dois anos no mínimo,\n\n- garantir a gestão da marcação ou da rotulagem,\n\n- caso o resultado da análise laboratorial ou qualquer outra informação de que disponham revele a existência de um risco sanitário ou de polícia sanitária grave, informar a autoridade competente,\n\n- só expedir, para fins de comércio, produtos acompanhados de um documento comercial que especifique a natureza do produto, o nome e, se for caso disso, o número de aprovação veterinária do estabelecimento de produção;\n\nb) Sejam sujeitos a fiscalização pela autoridade competente a fim de se certificar do cumprimento das exigências da presente directiva por parte do concessionário ou do gestor do estabelecimento;\n\nc) Tenham sido objecto de registo pela autoridade competente com base nas garantias dadas pelos estabelecimento, a fim de assegurar o cumprimento das exigências da presente directiva."
+  },
+  "5ed75e810ca0567b": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nOs Estados-membros cuidarão de tomar todas as medidas necessárias para garantir que os produtos de origem animal referidos nos anexos I e II não sejam objecto de comércio a partir de uma exploração situada numa zona sujeita a restrições devido ao aparecimento de uma doença à qual a espécie de que o produto é derivado seja sensível, ou a partir de um estabelecimento ou de uma zona a partir dos quais a circulação ou o comércio constituam um risco para o estatuto sanitário dos Estados-membros, excepto no caso de produtos tratados termicamente em conformidade com a legislação comunitária.\n\nEm derrogação do primeiro parágrafo, poderão ser aprovadas, de acordo com o procedimento previsto no artigo 18o, garantias específicas que permitam a circulação de alguns dos referidos produtos, no âmbito de medidas de salvaguarda."
+  },
+  "1de53cbfd1259e3a": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros velarão por que o comércio de agentes patogénicos seja sujeito a regras rígidas a definir de acordo com o procedimento previsto no artigo 18o"
+  },
+  "a05e69b066f1eae2": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. As regras de controlo previstas na Directiva 89/662/CEE e, no que se refere aos agentes patogénicos, na Directiva 90/425/CEE são aplicáveis aos produtos referidos na presente directiva, nomeadamente no que se refere à organização dos controlos a efectuar e ao seguimento a dar a esses controlos.\n\n2. O artigo 10o da Directiva 90/425/CEE aplica-se aos produtos a que se refere a presente directiva.\n\n3. Para efeitos de comércio, as disposições do artigo 12o da Directiva 90/425/CEE serão extensivas aos estabelecimentos que forneçam produtos de origem animal referidos na presente directiva.\n\n4. Sem prejuízo das disposições específicas da presente directiva, a autoridade competente procederá, em caso de suspeita de inobservância da presente directiva, a todos os controlos que considere adequados.\n\n5. Os Estados-membros tomarão as medidas administrativas ou penais adequadas para punir qualquer infracção à presente directiva, designadamente quando se verificar que os certificados ou documentos emitidos não correspondam ao verdadeiro estado dos produtos referidos nos anexos I e II, ou que os produtos em questão não cumprem as exigências da presente directiva ou não foram sujeito aos controlos nela previstos."
+  },
+  "0d24ae5b0287dd76": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nAditar o seguinte parágrafo no capítulo I, ponto 1 do anexo A da Directiva 92/46/CEE (10):\n\n«O leite e os produtos à base de leite não devem provir de uma zona de vigilância delimitada por força da Directiva 85/511/CEE, excepto se o leite tiver sido submetido a pasteurização (71,7 oC durante 15 segundos) sob o controlo da autoridade competente.»."
+  },
+  "cf7b4bc9f0ee0634": {
+   "fragment_id": "CAPÍTULO III — Disposições aplicáveis às importações na Comunidade",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — Disposições aplicáveis às importações na Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições aplicáveis às importações na Comunidade"
+  },
+  "c025ad5b90d967a5": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nAs condições aplicáveis às importações de produtos abrangidos pela presente directiva devem oferecer, no mínimo, as garantias previstas no capítulo II, e incluindo as fixadas nos termos do artigo 6o, bem como as previstas no segundo e terceiro travessões do artigo 3o"
+  },
+  "60db682e79b8913a": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. Para efeitos de aplicação uniforme do artigo 9o, aplicam-se as disposições dos números que se seguem.\n\n2. Os produtos referidos nos anexos I e II e nos segundo e terceiro travessões do artigo 3o só podem ser objecto de importação pela Comunidade se satisfizerem as seguintes exigências:\n\na) Salvo disposições específicas em contrário contidas nos anexos I e II, serem provenientes de um país terceiro ou de uma parte de um país terceiro constante de uma lista a elaborar e actualizar de acordo com o procedimento previsto no artigo 18o;\n\nb) Serem provenientes, excepto no que diz respeito aos produtos constantes do anexo I, capítulo 5, ponto B, de estabelecimentos que a autoridade competente do país terceiro tenha garantido à Comissão que cumprem as exigências da alínea a) do no 3;\n\nc) Nos casos especificamente previstos nos anexos I e II e nos segundo e terceiro travessões do artigo 3o, serem acompanhados de um certificado sanitário ou de salubridade conforme com um modelo a elaborar de acordo com o procedimento previsto no artigo 18o, que ateste que os produtos preenchem as condições suplementares ou oferecem as garantias equivalentes referidas na alínea a) do no 3 e provêm de estabelecimentos que oferecem essas garantias, e que seja assinado por um veterinário oficial ou, se for caso disso, por qualquer outra autoridade competente, reconhecida de acordo com o mesmo procedimento.\n\n3. De acordo com o procedimento previsto no artigo 18o:\n\na) Estabelecer-se-ao condições específicas - em especial condições destinadas a proteger a Comunidade contra certas doenças exóticas ou doenças transmissíveis ao homem - ou garantias equivalentes a essas condições.\n\nAs condições específicas e as garantias equivalentes fixadas para países terceiros não poderão ser mais favoráveis que as previstas nos anexos I e II e nos segundo e terceiro travessões do artigo 3o;\n\nb) Elaborar-se-á uma lista comunitária dos estabelecimentos de países terceiros que satisfazem as exigências da alínea b) do no 2.\n\nc) Determinar-se-á a natureza dos eventuais tratamentos ou as medidas a tomar para evitar a recontaminação das tripas de animais, dos ovos e dos produtos à base de ovos;\n\n4. As decisões previstas nos no.s 2 e 3 deverão ser tomadas com base numa avaliação efectuada, se for caso disso mediante parecer do Comité Científico Veterinário, do risco real de propagação de doenças transmissíveis graves ou de doenças transmissíveis que possa advir da circulação do produto, não só na espécie de que deriva mas também noutras espécies que possam agir como portadoras ou transmissoras de doença ou representar um risco para a saúde pública.\n\n5. Serão efectuados controlos no local por peritos da Comissão e dos Estados-membros, a fim de verificar se as garantias oferecidas pelo país terceiro no tocante à condições de produção e de colocação no mercado podem ser consideradas equivalentes às aplicadas na Comunidade.\n\nOs peritos dos Estados-membros incumbidos dos controlos serão designados pela Comissão sob proposta dos Estados-membros.\n\nO controlos serão efectuados por conta da Comunidade, que suportará as despesas correspondentes.\n\nNa pendência dos controlos referidos no primeiro parágrafo, continuarão a aplicar-se as disposições nacionais aplicáveis em matéria de inspecção em países terceiros, sob reserva de informação do Comité Veterinário Permanente sobre as inobservâncias das garantias oferecidas nos termos do no 3 que sejam detectadas durante essas inspecções.\n\n6. Na pendência da elaboração das listas previstas na alínea a) do no 2 e na alínea b) do no 3, os Estados-membros estão autorizados a manter os controlos previstos no artigo 11o da Directiva 90/675/CEE e o certificado nacional exigido para os produtos importados, no âmbito das regras nacionais existentes."
+  },
+  "1c6e651f8dd97485": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nAs condições específicas de polícia sanitária para a importação na Comunidade dos produtos referidos no anexo I destinados a laboratório de experiências, bem como a natureza e o conteúdo dos respectivos documentos de acompanhamento serão fixados de acordo com o procedimento previsto no artigo 18o"
+  },
+  "07df608e444b631e": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Os princípios e regras previstos nas directivas 90/675/CEE e 91/496/CEE (11), aplicam-se, nomeadamente, no que se refere à organização dos controlos a efectuar pelos Estados-membros e ao seguimento a dar a esses controlos, bem como às medidas de salvaguarda a aplicar.\n\nTodavia, de acordo com procedimento previsto no artigo 18o e em relação a determinados tipos de produtos de origem animal, pode-se derrogar o controlo físico previsto no no 2 do artigo 8o da Directiva 90/675/CEE.\n\n2. No no 1 do artigo 4o da Directiva 90/675/CEE inserir o parágrafo seguinte:\n\n«Todavia, sempre que os produtos de origem animal cheguem em contentores ou embalados no vácuo, o controlo de identidade pode-se limitar a verificar se os selos apostos pelo veterinário oficial ou pela autoridade competente no contentor ou na embalagem estão intactos e se as menções que neles figuram correspondem às constantes do documento ou certificado sanitário de acompanhamento.«."
+  },
+  "d59e8a2cc17c4a39": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. Os Estados-membros poderão, mediante a emissão de uma licenca adequada, autorizar as importações provenientes de países terceiros de produtos de origem animal referidos nos anexo I e II, sob a forma de amostras comerciais.\n\n2. A licença referida no no 1 deverá acompanhar o lote e especificar as condições especiais em que o produto pode ser importado, bem como qualquer derrogação dos controlos previstos na Directiva 90/675/CEE.\n\n3. Sempre que um lote entrar num Estado-membro em trânsito para outro Estado-membro, o primeiro velará por que o lote seja acompanhado da licença adequada. As deslocações do lote efectuar-se-ao nas condições previstas no no 2 do artigo 11o da Directiva 90/675/CEE. Cabe ao Estado-membro que emite a licença certificar-se de que o lote satisfaz as condições previstas na licença e autorizar a entrada do mesmo no seu território."
+  },
+  "507fb90f2e305dc9": {
+   "fragment_id": "CAPÍTULO IV — Disposições comuns e finais",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — Disposições comuns e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições comuns e finais"
+  },
+  "ed4925454a499dfb": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. É revogada a alínea d) do artigo 3o da Directiva 72/461/CEE (12).\n\nAs decisões 92/183/CEE (13) e 92/187/CEE (14) da Comissão continuam a ser aplicáveis para efeitos da presente directiva, sem prejuízo de eventuais alterações a introduzir de acordo com o procedimento previsto no artigo 18o\n\n2. A Directiva 90/667/CEE é alterada do seguinte modo:\n\na) No artigo 13o, é aditado o seguinte número:\n\n«2. A fim de assegurar o acompanhamento dos controlos previstos no no 1:\n\na) Os produtos transformados obtidos a partir de matérias de baixo risco e as matérias de alto risco deverão satisfazer as exigências do capítulo 6 do anexo I da Directiva 92/118/CEE (15)();\n\nb) As matérias de baixo risco, as matérias de alto risco tratadas num estabelecimento de outro Estado-membro designado nos termos da segunda frase do artigo 4o e os produtos transformados a partir de matérias de alto risco ou de baixo risco deverão ser acompanhadas:\n\n- caso provenham de um estabelecimento aprovado nos termos do artigo 4o, de um documento comercial que especifique:\n\n- se for caso disso, a natureza do tratamento,\n\n- se o produto contém proteínas provenientes de ruminantes;\n\n- caso provenham doutro estabelecimento, de um certificado emitido e assinado por um veterinário oficial que indique:\n\n- os métodos de tratamento do lote,\n\n- o resultado dos testes de pesquisa de salmonetes,\n\n- se o produto contém proteínas provenientes de ruminantes.\n\nb) No artigo 6o, os termos «serão determinados de acordo com o procedimento previsto no artigo 19o» são substituídos pelos termos «estão fixados na capítulo 10 do anexo I da Directiva 92/118/CEE».\n\nc) O primeiro parágrafo do artigo 14o é suprimido."
+  },
+  "f644393c1f7ca340": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nO Conselho, deliberando por maioria qualificada sob proposta da Comissão adoptará qualquer novo anexo que estabeleça exigências específicas para outros produtos susceptíveis de apresentar um risco real de propagação de doenças transmissíveis graves ou um risco real para a saúde pública.\n\nOs anexos serão alterados, se necessário, de acordo com o procedimento previsto no artigo 18o, respeitando os princípios gerais enunciados no segundo travessão do artigo 3o"
+  },
+  "490efc0cbadce7a9": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\n1. Os Estados-membros estão autorizados a subordinar à apresentação de um certificado sanitário e/ou de um certificado de salubridade que ateste o cumprimento das exigências da presente directiva, a introdução no seu território de produtos de origem animal referidos nos anexos I e II nos segundo e terceiro travessões do artigo 3o, obtidos no território de um Estado-membro, que tenham transitado pelo território de um país terceiro.\n\n2. Os Estados-membros que recorram à faculdade prevista no no 1 participá-lo-ao à Comissão e aos restantes Estados-membros no seio do Comité Veterinário Permanente, instituído pela Decisão 68/361/CEE (16)."
+  },
+  "54b2976e939e4ed1": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\n1. Os anexos A e B das directivas 89/662/CEE e 90/425/CEE são substituídos pelos textos constantes do anexo III da presente directiva.\n\n2. A Directiva 77/99/CEE á alterada do seguinte modo:\n\n- a subalínea iv) da alínea b) do artigo 2o é suprimida e as subalínea v) e vi) passam respectivamente a iv) e v),\n\n- o no 2 do artigo 6o passa a ter a seguinte redacção:\n\n«2. Poder-se-ao fixar condições suplementares para os outros produtos de origem animal, de acordo com o procedimento previsto no artigo 20o, a fim de assegurar a protecção da saúde pública.«."
+  },
+  "b1e775fc979046d2": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nCaso se faça referência ao procedimento previsto no presente artigo, o Comité Veterinário Permanente, deliberará em conformidade com as regras estabelecidas no artigo 17o da Directiva 89/662/CEE."
+  },
+  "9c8db705ec6bd63b": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nPodem ser adoptadas medidas transitórias, por um período máximo de três anos a partir de 1 de Julho de 1993, de acordo com o procedimento previsto no artigo 18o, a fim de facilitar a passagem para o novo regime previsto na presente directiva."
+  },
+  "bbe59b66b715c0a2": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento ao no 2 do artigo 12o e ao artigo 17o em 1 de Janeiro de 1993 e às restantes disposições da presente directiva antes de 1 de Janeiro de 1994. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito interno que adoptarem no domínio regido pela presente directiva.\n\n3. A fixação da data-limite para a transposição em 1 de Janeiro de 1994 não prejudica a abolição dos controlos veterinários nas fronteiras previstas nas directivas 89/662/CEE e 90/425/CEE."
+  },
+  "3a93f03835be5280": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 17 de Dezembro de 1992.\n\nPelo Conselho\n\nO Presidente\n\nJ. GUMMER\n\n(1) JO no C 327 de 30. 12. 1989, p. 29 e JO no C 84 de 2. 4. 1990, p. 102.(2) JO no C 113 de 7. 5. 1990, p. 205 e JO no C 149 de 18. 6. 1990, p. 259.(3) JO no C 124 de 21. 5. 1990, p. 15 e JO no C 182 de 23. 7. 1990, p. 250.(4) JO no L 373 de 31. 12. 1990, p. 1.(5) JO no L 395 de 30. 12. 1989, p. 13. Com a última redacção que lhe foi dada pela Directiva 91/496/CEE (JO no L 268 de 24. 9. 1991, p. 56).(6) JO no L 378 de 31. 12. 1982, p. 58. Com a última redacção que lhe foi dada pela Decisão 90/134/CEE (JO no L 76 de 22. 3. 1990, p. 23).(7) JO no L 373 de 31. 12. 1990, p. 26.(8) JO no L 26 de 31. 1. 1977, p. 85. Actualizada pela Directiva 92/5/CEE (JO no L 57 de 2. 3. 1992, p. 1) e com a última redacção que lhe foi dada pela Directiva 92/45/CEE (JO no L 268 de 14. 9. 1992, p. 35).(9) JO no L 233 de 19. 8. 1981, p. 32.(10) JO no L 268 de 14. 9. 1992, p. 1.(11) JO no L 268 de 24. 9. 1991, p. 56.(12) JO no L 302 de 31. 12. 1972, p. 24. Com a última redacção que lhe foi dada pela Directiva 91/687/CEE (JO no L 377 de 31. 12. 1991, p. 16).(13) JO no L 84 de 31. 3. 1992, p. 33.(14) JO no L 87 de 2. 4. 1992, p. 20.(15)() JO no L 62 de 15. 3. 1993, p. 49.»(16) JO no L 255 de 18. 10. 1968, p. 23."
+  },
+  "188364cd42d90dbe": {
+   "fragment_id": "ANEXO I — CONDIÇÕES ESPECÍFICAS DE POLÍTICA SANITÁRIA",
+   "type": "divisao",
+   "heading": "ANEXO I — CONDIÇÕES ESPECÍFICAS DE POLÍTICA SANITÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — CONDIÇÕES ESPECÍFICAS DE POLÍTICA SANITÁRIA"
+  },
+  "cc76b75d98f48721": {
+   "fragment_id": "CAPÍTULO 1 — Leite líquido, leite em pó e produtos à base de leite em pó não destinados ao consumo humano",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1 — Leite líquido, leite em pó e produtos à base de leite em pó não destinados ao consumo humano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 1 — Leite líquido, leite em pó e produtos à base de leite em pó não destinados ao consumo humano\n\nO comércio intracomunitário e as importações de leite líquido, de leite em pó e de produtos à base de leite em pó não destinados ao consumo humano estão sujeitos às seguintes condições:\n\n1. Todos os recipientes onde os produtos são transportados devem ostentar claramente uma indicação que especifique a natureza do produto em causa;\n\n2. Cada lote deve ser acompanhado, consoante o caso, do documento comercial referido na alínea a), último travessão, do ponto 2, do artigo 4o ou do certificado sanitário referido no no 2, alínea b) do artigo 10o, contendo o nome e o número de aprovação do estabelecimento de transformação ou de tratamento e atestando que o produto foi tratado termicamente em conformidade com o disposto na alínea a) do ponto 3; esse documento ou certificado deve ser conservado pelo destinatário durante pelo menos um ano.\n\n3. O documento ou certificado a que se refere o no 2 deverá atestar:\n\na) Que durante a transformação ou o tratamento o leite foi submetido a uma temperatura mínima de 71,7 oC durante pelo menos 15 segundos, ou a qualquer combinação temperatura/tempo equivalente ou, no caso do leite em pó ou dos produtos à base de leite em pó, que o tratamento térmico por atomização ou cilindragem assegurou um resultado equivalente;\n\nb) Que, no caso do leite em pó e dos produtos à base de leite em pó, foram preenchidas as seguintes condições:\n\ni) Após a desidratação, foram tomadas todas as precauções para evitar a contaminação do produto;\n\nii) O produto final foi colocado em embalagens novas; e\n\nc) Que, em caso de acondicionamento a granel, os veículos ou contentores utilizados para o transporte de leite líquido, leite em pó ou produtos à base de leite em pó até ao seu destino foram desinfectados antes do carregamento com um produto aprovado pelas autoridades competentes.\n\nAlém disso, só poderão ser autorizadas as importações de leite líquido, de leite em pó ou de produtos à base de leite em pó, que sejam provenientes de países terceiros ou de partes de países terceiros constantes das listas previstas no artigo 23o da Directiva 92/46/CEE e que preencham as condições enunciadas no artigo 26o da referida directiva."
+  },
+  "1d00584be3ad9709": {
+   "fragment_id": "CAPÍTULO 2 — Tripas de animais",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2 — Tripas de animais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 2 — Tripas de animais\n\nA. Comércio\n\nO comércio de tripas de animais está subordinado à apresentação de um documento que especifique o estabelecimento de origem, o qual deverá ser:\n\n- sempre que as tripas sejam salgadas ou secas na origem e no caso de as tripas salgadas ou secas serem seguidamente manipuladas, um estabelecimento aprovado pela autoridade competente,\n\n- nos outros casos, um estabelecimento aprovado em conformidade com a Directiva 64/433/CEE (1), devendo as tripas ser transportadas por forma a evitar a contaminação.\n\nB. Importações provenientes de países terceiros\n\nAs importações de tripas de animais provenientes de países terceiros estão subordinadas à apresentação do certificado referido no no 2, alínea b) do artigo 10o, emitido e assinado por um veterinário oficial do país terceiro exportador, que ateste:\n\ni) Que as tripas provêm de um estabelecimento aprovado pela autoridade competente do país exportador;\n\nii) Que as tripas foram limpas, raspadas e, seguidamente salgadas ou branqueadas (ou que, em vez de serem salgadas ou branqueadas, foram secas após o desbaste);\n\niii) Que, após o tratamento referido na subalínea ii), foram tomadas medidas eficazes para impedir a recontaminação das tripas."
+  },
+  "8c0c7195c6f1022e": {
+   "fragment_id": "CAPÍTULO 3 — Peles de ungulado não abrangidas pelas directivas 64/433/CEE e 72/462/CEE",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3 — Peles de ungulado não abrangidas pelas directivas 64/433/CEE e 72/462/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 3 — Peles de ungulado não abrangidas pelas directivas 64/433/CEE e 72/462/CEE\n\nO comércio e a importação de peles de ungulados não abrangidas pelas directivas 64/433/CEE e 72/462/CEE provenientes de países terceiros estão subordinados à condição de que cada lote venha acompanhado do documento comercial previsto no ponto 2, alínea a), último travessão do artigo 4o ou do certificado sanitário referido no no 2, alínea b) do artigo 10o, atestando:\n\na) No que se refere às peles de ungulados, com excepção dos suínos:\n\ni) Que as peles não provêm de animais originários de uma região ou de um país sujeito a restrições para a espécie em questão devido ao aparecimento de uma doença transmissível grave;\n\nii) Que as peles foram secas, salgadas a seco ou em salmoura ou sujeitas a um tratamento químico pelo menos 14 dias antes da expedição;\n\niii) Que o lote não esteve em contacto com quaisquer outros produtos de origem animal ou com animais vivos que apresentem o risco de propagação de uma doença transmissível grave.\n\nEstas exigências não são necessárias sempre que as peles tenham ficado isoladas durante 21 dias, ou se o seu transporte tiver durado 21 dias sem interrupção.\n\nb) No que se refere às peles de suíno:\n\ni) Que as peles provêm de suínos que permaneceram no país expedidor durante pelo menos três meses antes de serem abatidos;\n\nii) Que as peles foram secas, salgadas a seco ou em salmoura ou sujeitas a um tratamento químico pelo menos 14 dias antes da expedição;\n\niii) Que não houve qualquer surto de peste suína africana ou de doença vesiculosa do porco no país de origem ou, em caso de regionalização, na região de origem, no período de 12 meses anterior à expedição;\n\niv) Que lote não esteve em contacto com quaisquer outros produtos de origem animal ou com animais vivos que apresentem o risco de propagação de uma doença transmissível grave.\n\nSó são autorizadas as importações de peles não tratadas que provenham de países terceiros a partir dos quais estejam autorizadas as importações de carnes frescas das espécies correspondentes, de acordo com a regulamentação comunitária."
+  },
+  "ff70ceb93db10aad": {
+   "fragment_id": "CAPÍTULO 4 — Alimentos em que foram incorporadas matérias de baixo risco na acepção da Directiva 90/667/CEE",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4 — Alimentos em que foram incorporadas matérias de baixo risco na acepção da Directiva 90/667/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 4 — Alimentos em que foram incorporadas matérias de baixo risco na acepção da Directiva 90/667/CEE\n\n1. Cada lote de alimentos para animais de estimação embalados em recipientes hermeticamente fechados deve ser acompanhado de um certificado emitido e assinado por um veterinário oficial do país de origem, atestando que o produto foi submetido a um tratamento térmico a fim de atingir um valor Fc superior ou igual a 3.0.\n\n2. Cada lote de alimentos semi-húmidos para animais de estimação deve ser acompanhado do documento comercial ou do certificado previsto no no 2 alínea b) do artigo 13o da Directiva 90/667/CEE, atestando:\n\ni) Que as matérias-primas de origem animal a partir das quais foram fabricados os alimentos provêm unicamente de animais saudáveis, cuja carne foi reconhecida própria para consumo humano;\n\nii) Que os ingredientes de origem animal foram submetidos a um tratamento térmico interno de pelo menos 90 oC;\n\niii) Que, após a transformação, foram tomadas medidas eficazes para que o lote não fosse exposto a nova contaminação;\n\n3. Os alimentos secos para animais de estimação devem satisfazer as seguintes exigências:\n\na) As matérias-primas a partir das quais são fabricados esses alimentos devem ser matérias de baixo risco nos termos dos artigos 2o, 5o e 17o da Directiva 90/667/CEE;\n\nb) Cada lote deve ser acompanhado do documento comercial ou do certificado previsto no no 2 alínea b) do artigo 13o da Directiva 90/667/CEE, atestando:\n\ni) Que os componentes dos alimentos secos para animais de estimação consistem em produtos de animais abatidos que foram tratados termicamente por forma a atingir uma temperatura interna de, pelo menos, 90 oC, entendendo-se que o tratamento não é necessário para os produtos acabados cujos componentes tenham sido submetidos ao mesmo tratamento;\n\nii) Que após o tratamento térmico, foram tomadas todas as precauções para evitar qualquer contaminação do produto antes da expedição;\n\niii) Que o produto foi colocado em embalagens novas (sacos ou pacotes);\n\niv) Que o processo de tratamento foi testado com resultados satisfatórios em conformidade com o capítulo III, ponto 2 do anexo II da Directiva 90/667/CEE.\n\n4. Cada lote de produtos fabricados a partir de peles transformadas deve ser acompanhado do documento comercial ou do certificado previsto no 2, alínea b) do artigo 13o da Directiva 90/667/CEE, atestando que os produtos foram submetidos durante a transformação a um tratamento térmico suficiente para destruir os organismos patogénicos (incluindo as salmonelas) e que foram tomadas medidas eficazes após a transformação para impedir a contaminação dos produtos."
+  },
+  "42639ce0da3a0ed2": {
+   "fragment_id": "CAPÍTULO 5",
+   "type": "divisao",
+   "heading": "CAPÍTULO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 5\n\nOssos e produtos à base de osso (com exclusão da farinha de osso), chifres e produtos à base de chifre (com exclusão da farinha de chifre) unhas e cascos e produtos à base de cascos (com exclusão da farinha de casco)\n\nO comércio e as importações dos produtos em questão estão sujeitos às seguintes condições:\n\nA. Caso se destinem à alimentação humana ou animal:\n\n1. No que se refere ao comércio, os ossos, os chifres e os cascos e unhas estão sujeitos às condições de polícia sanitária previstas na Directiva 72/461/CEE;\n\n2. No que se refere ao comércio, os produtos à base de osso, os produtos à base de chifre e os produtos à base de cascos estão sujeitos às condições de polícia sanitária previstas na Directiva 80/215/CEE (2);\n\n3. No que se refere às importações, os ossos, os produtos à base de osso, os chifres, os produtos à base de chifre, os cascos e os produtos à base de cascos estão sujeitos às condições previstas na Directiva 72/462/CEE (3);\n\nB. Caso se destinem a outros fins que não sejam a alimentação humana ou animal, incluindo os que se destinem à transformação para fabrico de gelatinas:\n\n1. Os Estados-membros autorizarão as importações de ossos e de produtos à base de osso (com exclusão da farinha de osso), de chifres e de produtos à base de chifre (com exclusão da farinha de chifre) e de cascos e produtos à base de cascos (com exclusão da farinha de casco), desde que:\n\ni) Os produtos sejam secos antes da exportação e não sejam nem refrigerados nem congelados;\n\nii) Os produtos sejam enviados exclusivamente por via terrestre ou marítima directamente do país de origem para um posto de inspecção fronteiriço da Comunidade sem transbordo em qualquer porto ou local situado fora da Comunidade;\n\niii) Após os controlos documentais previstos na Directiva 90/675/CEE, os produtos sejam encaminhados directamente para o estabelecimento de fabrico.\n\n2. Cada lote de produtos deve ser acompanhado de uma declaração do importador comprometendo-se a não destinar os produtos importados ao abrigo deste capítulo à alimentação humana ou animal directa.\n\nEsta declaração de compromisso deve ser apresentada ao veterinário oficial do posto de inspecção fronteiriço do local de entrada da mercadoria no território da Comunidade para aí ser visado pelo referido veterinário oficial e deve acompanhar o lote até ao seu destino.\n\n3. Algumas das exigências acima referidas podem ser derrogadas de acordo com o procedimento previsto no artigo 18o da presente directiva e em função das situações sanitárias e das garantias em matéria de controlo na origem oferecidas pelo país terceiro."
+  },
+  "d78e896105fd4118": {
+   "fragment_id": "CAPÍTULO 6 — Proteínas animais transformadas",
+   "type": "divisao",
+   "heading": "CAPÍTULO 6 — Proteínas animais transformadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 6 — Proteínas animais transformadas\n\nI. Sem prejuízo de eventuais restrições impostas em matéria de EBE e das restrições impostas à alimentação de ruminantes com proteínas de ruminantes, o comércio e as importações de proteínas animais transformadas, estão subordinados:\n\nA. No que se refere ao comércio:\n\n- de proteínas animais transformadas destinadas à alimentação humana, à apresentação do documento ou certificado previsto na Directiva 77/99/CEE atestando o cumprimento das exigências desta directiva,\n\n- de proteínas animais transformadas destinadas à alimentação animal, à apresentação do documento ou certificado previsto no artigo 13o da Directiva 90/667/CEE;\n\nB. No que se refere às importações:\n\n1. À apresentação do certificado sanitário previsto no no 2, alínea b) do artigo 10o, assinado pelo veterinário oficial do país de origem, atestando que:\n\na) O produto:\n\ni) Caso se destine ao consumo animal, foi submetido a um tratamento térmico adequado por forma a cumprir as normas microbiológicas enunciadas no capítulo III do anexo II da Directiva 90/667/CEE;\n\nii) Caso se destine ao consumo humano, corresponde às exigências da Directiva 80/215/CEE;\n\nb) Foram tomadas todas as precauções após o tratamento para evitar qualquer contaminação do produto tratado;\n\nc) Foram colhidas amostras na altura da partida do país de origem, para serem submetidas a testes de rastreio de salmonelas;\n\nd) Os resultados desses testes se revelaram negativos;\n\n2. Após controlo documental dos certificados referidos no ponto 1, e sem prejuízo do ponto II infra, à colheita de amostras pela autoridade competente do posto de inspecção fronteiriço:\n\ni) Em cada lote de produtos a granel;\n\nii) Por amostragem aleatória, nos lotes de produtos acondicionados em fábrica;\n\n3. No que se refere aos lotes de proteínas animais transformadas destinados à colocação em livre prática no território da Comunidade, à prova de que os resultados das colheitas efectuadas nos termos do no 1, alínea c) do ponto B foram negativos.\n\nC. As regras nacionais existentes à data de notificação da presente directiva no que diz respeito às exigências aplicáveis às proteínas de origem animal em matéria de EBE e de cenurose dos ovinos (scrapie) podem ser mantidas na pendência de uma decisão quanto ao tipo de tratamento térmico capaz de destruir o agente responsável.\n\nO comércio e as importações de farinha de carne e de farinha de osso continuam sujeitos às disposições do no 2 do artigo 5o da Directiva 89/662/CEE e do no 2 do artigo 11o da Directiva 90/675/CEE.\n\nII. Os Esatdos-membros podem praticar um controlo por amostragem aleatória nos lotes de produtos apresentados a granel originários de países terceiros cujos produtos tenham dado resultados negativos nos últimos seis testes consecutivos.\n\nQuando durante esse controlo um dos resultados for positivo, a autoridade competente do país de origem deve ser informada, a fim de tomar medidas adequadas para resolver a situação. Essas medidas deverão ser comunicadas à autoridade competente responsável pelos controlos de importação. Caso se registe um novo resultado positivo em lotes da mesma proveniência, os controlos posteriores deverão incidir sobre todos os lotes dessa proveniência até voltarem a ser satisfeitas as exigências referidas na primeira frase do presente parágrafo.\n\nIII. Os Estados-membros deverão manter um registo dos resultados dos controlos efectuados nos lotes que foram sujeitos a controlo.\n\nIV. Nos termos do no 3 do artigo 3o da Directiva 89/662/CEE, o transbordo de lotes apenas será autorizado em portos reconhecidos de acordo com o procedimento previsto no artigo 18o desde que os Estados-membros tenham celebrado um acordo bilateral, que permita que o controlo desses lotes seja diferido até à sua chegada ao posto de inspecção fronteiriço do Estado-membro de destino final.\n\nV. Se o resultado dos testes de pesquisa de salmonelas efectuados num lote for positivo, esse lote deverá ser:\n\na) Ou reexportado da Comunidade;\n\nb) Ou utilizado para um fim diferente da alimentação animal; nesse caso o lote só poderá sair do porto ou do entreposto de armazenagem na condição de os produtos que o compõem não serem incorporados em alimentos para animais;\n\nc) Ou sujeito a novo tratamento numa instalação de transformação aprovada nos termos da Directiva 90/667/CEE ou em qualquer empresa aprovada para efeitos de descontaminação; para assegurar o controlo desse lote, a sua saída do porto ou entreposto de armazenagem deverá ser sujeita a uma autorização emitida pela autoridade competente, e o lote só poderá ser levantado depois de tratado e submetido pela autoridade competente, a testes de pesquisa de salmonelas, em conformidade com o disposto no capítulo III do anexo II da Directiva 90/667/CEE, e desde que o resultado desses testes seja negativo."
+  },
+  "aca5096c3948189e": {
+   "fragment_id": "CAPÍTULO 7 — Sangue e produtos de sangue de origem animal",
+   "type": "divisao",
+   "heading": "CAPÍTULO 7 — Sangue e produtos de sangue de origem animal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 7 — Sangue e produtos de sangue de origem animal\n\n(com excepção dos provenientes equídeos)\n\n1. O comércio de sangue e produtos de sangue efectuar-se-á de acordo com as disposições gerais do artigo 4o da presente directiva.\n\n2. As importações de sangue e de produtos de sangue destinados à indústria farmacêutica estão subordinadas à apresentação do certificado sanitário previsto no no 2, alínea b) do artigo 10o, atestando o cumprimento das disposições relativas à identidade das matérias em causa, à sua embalagem, às condições de transporte, de armazenagem, de manipulação e de transformação, bem como das disposições relativas à eliminação do invólucro, da embalagem, e dos resíduos da transformação, a fim de eliminar qualquer perigo para a saúde pública e para a saúde animal, sem prejuízo das exigências previstas na Directiva 72/462/CEE, que continuam a ser aplicáveis às importações destinadas ao consumo humano.\n\n3. As importações de produtos de sangue de origem animal de espécies que não sejam os equídeos destinados a outros fins estão subordinadas à apresentação do certificado sanitário previsto no no 2, alínea b) do artigo 10o, assinado pelo veterinário oficial, atestando, caso se considere, de acordo com o procedimento previsto no artigo 18o, que o país de origem apresenta um risco sanitário no que se refere à febre aftosa e/ou à febre catarral:\n\na) Ou que os produtos:\n\n- provêm de um matadouro situado numa zona com um raio de 10 quilómetros isenta das doenças em questão a que a espécie donde provém o produto é receptiva, e\n\n- provêm de um animal que:\n\n- se encontrava no país de origem há três meses e\n\n- foi submetido a inspecções ante e post mortem e declarado isento das doenças em questão\n\nou cuja mae satisfaz estas condições.\n\nSe os lotes cumprirem as exigências das alíneas i) e ii) do no 3 supra:\n\n- salvo no caso previsto no no 5, cada lote de produtos sanguíneos terá de ser transportado directamente do porto de entrada para um laboratório a fim de aí ser tratado, devendo todos os resíduos resultantes do tratamento ser imediatamente destruídos,\n\n- será colhida uma amostra de cada lote de produtos de sangue que será enviada para um laboratório aprovado de acordo com o procedimento previsto no artigo 18o da presente directiva, para aí ser submetida a testes de pesquisa do vírus da febre aftosa e da fabre catarral,\n\n- o lote não poderá sair do laboratório antes de a amostra analisada ter sido declarada isenta do vírus da febre aftosa e de febre catarral,\n\n- as despesas decorrentes dos testes efectuados em conformidade com a Directiva 90/675/CEE ficarão a cargo do importador;\n\nb) Ou que os produtos de sangue foram submetidos a um dos seguintes tratamentos:\n\n- aquecimento a uma temperatura mínima de 65 oC durante pelo menos três horas; ou\n\n- irradiação a 2,5 megaradas; ou\n\n- alteração do pH para pH5 durante três horas;\n\nc) Ou ainda, no caso dos produtos de sangue a utilizar como meio de diagnóstico in vitro ou como reagente laboratorial, que esses produtos foram expedidos em recipientes hermeticamente fechados e estanques. Neste caso:\n\n- os recipientes ou a sua embalagem exterior deverão ostentar, bem legível, a menção «A utilizar exclusivamente como meio de diagnóstico in vitro ou como reagente laboratorial», e\n\n- os produtos de sangue apenas poderão ser utilizados como meio de diagnóstico in vitro ou como reagente laboratorial, devendo toda a documentação relativa ao produto mencionar expressamente que deverá ser impedido o seu contacto, ou o dos respectivos resíduos, com ruminantes ou suínos.\n\n4. Os Estados-membros autorizarão a importação de produtos de sangue provenientes de países terceiros considerados indemnes de doenças transmissíveis graves desde que esses produtos sejam acompanhados de um certificado veterinário que ateste que provêm de um animal originário de um Estado-membro ou de um dos referidos países terceiros.\n\n5. Todos os produtos de sangue acondicionados em recipientes hermeticamente fechado e estanques poderão ser armazenados em estabelecimentos colocados sob a supervisão permanente de um veterinário oficial desde que esses produtos sejam mantidos afastados de quaisquer outros produtos de origem animal armazenados nesse estabelecimento."
+  },
+  "d999cd3ddf60ffd2": {
+   "fragment_id": "CAPÍTULO 8 — Soro proveniente de equídeos",
+   "type": "divisao",
+   "heading": "CAPÍTULO 8 — Soro proveniente de equídeos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 8 — Soro proveniente de equídeos\n\n1. Para poder ser objecto de comércio, o soro deverá provir de equídeos que não apresentem nenhuma das doenças transmissíveis graves referidas na Directiva 90/426/CEE (4) nem nenhuma das doenças transmissíveis graves a que os equídeos são sensíveis e ter sido obtido em organismos ou centros não sujeitos a restrições sanitárias nos termos da referida directiva.\n\n2. Só poderá ser importado o soro proveniente de equídeos nascidos e criados em países terceiros a partir dos quais sejam autorizadas as importações de equídeos de talho e que tenha sido obtido, tratado e expedido em condições a especificar de acordo com o procedimento previsto no artigo 18o"
+  },
+  "bdf76e1e3d2d6301": {
+   "fragment_id": "CAPÍTULO 9 — Banha e gorduras fundidas",
+   "type": "divisao",
+   "heading": "CAPÍTULO 9 — Banha e gorduras fundidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 9 — Banha e gorduras fundidas\n\n1. Os Estados-membros autorizarão a importação na Comunidade de banha e gorduras fundidas provenientes de países terceiros constantes da lista do anexo à Decisão 79/542/CEE a partir dos quais é autorizada a importação de carne fresca da espécie em questão.\n\n2. No caso de se ter declarado uma doença transmissível grave no período de 12 meses anterior à exportação de um dos países referidos no no 1 cada lote de banha ou gorduras fundidas deverá ser acompanhado do certificado previsto no no 2 do artigo 10o da presente directiva, atestando:\n\nA. Que a banha ou as gorduras fundidas foram submetidas a um dos tratamentos térmicos seguintes:\n\ni) Aquecimento a pelo menos 70 oC durante um mínimo de 30 minutos; ou\n\nii) Aquecimento a pelo menos 90 oC durante um mínimo de 15 minutos; ou\n\niii) Aquecimento a uma temperatura mínima de 80 oC num sistema de fusão contínua;\n\nB. No caso de a banha ou as gorduras fundidas serem embaladas, que foram colocadas em recipientes novos e que foram tomadas todas as precauções para evitar uma nova contaminação;\n\nC. Se se tencionar transportar o produto a granel, que os tubos, bombas, depósitos e outros contentores ou camiões-cisterna utilizados para o transporte do estabelecimento de produção quer directamente para o navio ou para cisternas de armazenagem em terra quer directamente para estabelecimentos que foram inspeccionados e considerados limpos antes de serem utilizados."
+  },
+  "ea72a7c32369fe56": {
+   "fragment_id": "CAPÍTULO 10 — Matérias-primas destinadas ao fabrico de alimentos para animais e de produtos farmacêuticos ou técnicos",
+   "type": "divisao",
+   "heading": "CAPÍTULO 10 — Matérias-primas destinadas ao fabrico de alimentos para animais e de produtos farmacêuticos ou técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 10 — Matérias-primas destinadas ao fabrico de alimentos para animais e de produtos farmacêuticos ou técnicos\n\n1. Por matérias-primas entendem-se carnes frescas, glândulas, órgãos e outras miudezas bem como tripas, não destinados ao consumo humano. As matérias-primas são consideradas frescas quando só tiverem sido submetidas a um tratamento pelo frio ou a outro tratamento que não permita eliminar os agentes patogénicos com suficiente certeza. Só poderá tratar-se de matérias de baixo risco, na acepção da Directiva 90/667/CEE.\n\n2. As matérias-primas deverão ser acompanhadas do documento comercial ou certificado previsto no no 2 do artigo 13o da Directiva 90/667/CEE, ou de um certificado conforme com um modelo a estabelecer de acordo com o procedimento previsto no artigo 18o, e satisfazer as exigências da Decisão 92/183/CEE.\n\n3. No caso do comércio, o original do certificado sanitário ou do documento comercial terá de ser apresentado às autoridades veterinárias responsáveis respectivamente pelo estabelecimento de transformação, pelo entreposto de armazenagem intermédia (entreposto frigorífico), ou pelo estabelecimento de triagem; no caso das importações na Comunidade, terá de ser apresentado à autoridade encarregada do controlo no posto de inspecção fronteiriço.\n\n4. As matérias-primas devem ser transportadas directamente para estabelecimentos de transformação aprovados ou registados e que preencham as condições fixadas na Directiva 90/667/CEE, ou para entrepostos frigoríficos aprovados para efeitos de armazenagem intermédia. Do mesmo modo, as matérias-primas destinadas ao fabrico de produtos farmacêuticos podem ser triadas e armazenadas em estabelecimentos e especialmente aprovados para o efeito pelos Estados-membros, enquanto aguardam a transformação. Os Estados-membros informarão a Comissão da aprovação desses estabelecimentos de triagem.\n\n5. As matérias-primas só poderão ser transportadas para o estabelecimento de transformação em recipientes ou veículos estanques devidamente selados. Os recipientes e documentos de acompanhamento devem ostentar a menção, consoante a finalidade a que as matérias-primas se destinem: «Exclusivamente destinado à produção de alimentos para animais de estimação», ou «Exclusivamente destinado ao fabrico de produtos farmacêuticos ou técnicos». Os recipientes e os documentos de acompanhamento devem ostentar o nome e o endereço do estabelecimento a que se destinam.\n\n6. Os veículos e recipientes utilizados no transporte das mercadorias, bem como todos os equipamentos e utensílios que tenham entrado em contacto com as matérias-primas não tratadas devem ser limpos e desinfectados. As embalagens devem ser queimadas ou destruídas de qualquer outra forma segura, segundo as instruções do veterinário oficial.\n\n7. A armazenagem intermédia das matérias-primas só será permitida em entrepostos frigoríficos aprovados para o efeito, mediante a autorização e sob o controlo do veterinário oficial. As matérias-primas devem ser armazenadas separadamente das outras mercadorias e de forma a evitar a propagação de doenças epizoóticas.\n\n8. As matérias-primas deverão ser tratadas no estabelecimento de transformação de forma a eliminar os agentes patogénicos e a excluir qualquer perigo para os efectivos animais indígenas. As matérias-primas só podem sair do estabelecimento, a título excepcional, mediante autorização do veterinário oficial, para serem destruídas, em conformidade com a Directiva 90/667/CEE, em estabelecimentos de transformação aprovados ou registados. As disposições dos pontos 5, 6 e 9 são aplicáveis, por analogia, ao transporte dessas matérias-primas e à notificação do veterinário oficial responsável pelo estabelecimento de transformação.\n\n9. A partida das matérias-primas do estabelecimento de origem ou das fronteiras externas da Comunidade deverá ser notificada pelo sistema «ANIMO», ou por telex ou telefax, ao veterinário oficial responsável pelo estabelecimento de transformação, pelo entreposto de armazenagem intermédia ou pelo estabelecimento de triagem:\n\n- no caso do comércio intracomunitário, pelo veterinário oficial responsável pelo estabelecimento de origem,\n\n- no caso das importações na Comnunidade, pela autoridade responsável pelo controlo na fronteira.\n\n10. As importações na Comunidade estão igualmente sujeitas às seguintes disposições:\n\na) Os Estados-membros só autorizarão a importação na Comunidade de matérias-primas que sejam originários de países terceiros constantes da lista (Lista de países terceiros), adoptada pela Decisão 79/542/CEE do Conselho, ou mediante uma decisão específica da Comissão aplicável a uma matéria-prima determinada;\n\nb) Após o controlo na fronteira, as matérias-primas serão transportadas, sob a vigilância da autoridade veterinária responsável, directamente para um estabelecimento de transformação aprovado ou registado que se encontre sob o controlo permanente de um veterinário oficial e que tenha dado a garantia de que as matérias-primas só serão utilizadas para o fim autorizado e só deixarão o estabelecimento depois de transformadas, ou para serem transportadas para um entreposto de armazenagem intermédia aprovado ou para um estabelecimento de triagem aprovado;\n\nc) As mercadorias serão acompanhadas até ao estabelecimento de destino por um certificado sanitário com o visto de entrada da autoridade responsável pelo controlo na fronteira, ou por uma cópia autenticada desse certificado."
+  },
+  "fbb9fa69935a1977": {
+   "fragment_id": "CAPÍTULO 11 — Carnes de coelho e carnes de caça de criação",
+   "type": "divisao",
+   "heading": "CAPÍTULO 11 — Carnes de coelho e carnes de caça de criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 11 — Carnes de coelho e carnes de caça de criação\n\nOs Estados-membros velarão por que as carnes de coelho e de caça de criação só sejam importadas se:\n\na) Forem provenientes de países terceiros constantes:\n\ni) Da lista dos países a partir dos quais podem ser importadas carnes frescas das espécies correspondentes, nos termos da Directiva 72/462/CEE, no que se refere à caça de criação de pêlo;\n\nii) Da lista dos países a partir dos quais podem ser importadas carnes frescas de aves de capoeira, nos termos da Directiva 91/494/CEE (5), no que se refere à caça de criação de penas;\n\niii) De uma lista a estabelecer de acordo com o procedimento previsto no artigo 18o, no que se refere às carnes de coelho;\n\nb) Satisfizerem, pelo menos, as exigências previstas, respectivamente, nos capítulos II e III da Directiva 91/495/CEE (6);\n\nc) Forem provenientes de estabelecimentos que ofereçam as garantias previstas na alínea b) e reconhecidas de acordo com o procedimento previsto no artigo 18o ou, enquanto se aguarda a lista referida na subalínea iii) da alínea a), de estabelecimentos aprovados pelas autoridades competentes;\n\nd) Cada lote de carne for acompanhado do certificado sanitário previsto no no 2, alínea c), do artigo 10o"
+  },
+  "69087494d9f70ad4": {
+   "fragment_id": "CAPÍTULO 12 — Produtos apícolas",
+   "type": "divisao",
+   "heading": "CAPÍTULO 12 — Produtos apícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 12 — Produtos apícolas\n\n1. Os produtos apícolas destinados a ser utilizados exclusivamente na apicultura:\n\na) Não devem ser provenientes de uma zona objecto de uma proibição relacionada com o aparecimento de loque americana ou de acariose salvo se, no caso desta última doença, o Estado-membro de destino tiver obtido garantias suplementares nos termos do no 2 do artigo 14o da Directiva 92/65/CEE (7),\n\nb) Devem satisfazer as exigências impostas pela alínea a) do artigo 8o da Directiva 92/65/CEE.\n\n2. Quaisquer derrogações eventualmente necessárias serão fixadas de acordo com o procedimento previsto no artigo 18o da presente directiva."
+  },
+  "fc47db4c5fb81b23": {
+   "fragment_id": "CAPÍTULO 13 — Troféus de caça",
+   "type": "divisao",
+   "heading": "CAPÍTULO 13 — Troféus de caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 13 — Troféus de caça\n\nOs troféus de caça não tratados, que sejam objecto de comércio ou importação deverão ser acompanhados do documento comercial previsto no no 2, alínea a), último travessão do artigo 4o ou do certificado sanitário previsto no no 2, alínea c), do artigo 10o, atestando que:\n\n1. Os referidos troféus não provêm de animais originários de uma região sujeita a restrições devido à presença de doenças transmissíveis graves;\n\n2. Os referidos troféus estão perfeitamente secos e sem restos de carne ou foram secos ou salgados a seco ou em salmoura durante pelo menos 14 dias antes da expedição;\n\n3. O lote não esteve em contacto com nenhum outro produto de origem animal nem com qualquer animal susceptível de o contaminar;\n\n4. Uma vez seco, o produto foi desinfectado com produtos autorizados pela autoridade competente do país expedidor;\n\n5. Os troféus foram embalados em embalagens novas e limpas."
+  },
+  "bc8aa3eccd8c11cf": {
+   "fragment_id": "CAPÍTULO 14 — Chorume para tratamento do solo (8)()",
+   "type": "divisao",
+   "heading": "CAPÍTULO 14 — Chorume para tratamento do solo (8)()",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 14 — Chorume para tratamento do solo (8)()\n\nProdutos transformados à base de chorume\n\nTodos os adubos orgânicos devem ter sido tratados por forma a que o produto esteja isento de agentes patogénicos.\n\nPoderão ser objecto de comércio ou de importação os produtos transformados à base de chorume que preencham as seguintes condições:\n\n- estarem isentos de salmonelas\n\nausência de salmonelas em 25 gramas de produto transformado\n\n- estarem isentos de enterobactérias\n\nde acordo com a medida do teor de germes aeróbios (< 1 000 unidades que formem colónias por grama de produto tratado)\n\n- terem sido submetidos a uma redução da esporulação e da toxinogénese\n\nteor de humidade < 14 % valor «água» do produto < 0,7\n\nOs produtos deverão ser conservados de forma a tornar impossível a contaminação ou a infecção secundária e a humidificação após o tratamento.\n\nPara o efeito, os produtos deverão ser conservados:\n\n- em silos bem fechados e isolados\n\nou\n\n- em embalagens bem fechadas (sacos de plástico ou big bags).\n\nChorume não transformado\n\nSó poderá ser objecto de comércio ou de importação o chorume não transformado proveniente de aves de capoeira e de equídeos. Este chorume deverá ser originário de uma região indemne de doenças transmissíveis graves, nomeadamente as seguintes:\n\n- febre aftosa,\n\n- doença de Newcastle,\n\n- peste suína clássica,\n\n- gripe aviária,\n\n- peste suína africana,\n\n- peste equina,\n\n- doença vesiculosa do porco.\n\nCaso seja necessário, poderão ser fixadas normas bacteriológicas de acordo com o procedimento previsto no artigo 18o da presente directiva."
+  },
+  "117a9cf15a87bbc9": {
+   "fragment_id": "CAPÍTULO 15 — La, pêlos, cerdas, penas e penugem não tratados",
+   "type": "divisao",
+   "heading": "CAPÍTULO 15 — La, pêlos, cerdas, penas e penugem não tratados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 15 — La, pêlos, cerdas, penas e penugem não tratados\n\n1. Por não tratados entendem-se a la de ovelha, os pêlos de ruminantes e as cerdas de suíno que não tenham sido submetidos a lavagem industrial nem obtidos em operações de curtume, bem como as penas e a penugem não tratadas a jacto de vapor ou por qualquer outro processo que exclua a possibilidade de transmissão de agentes patogénicos.\n\n2. A la de ovelha, os pêlos de ruminantes, as cerdas de suíno, as penas e a penugem (produtos) só poderão ser objecto de comércio ou ser importados se estiverem secos e solidamente embalados. Todavia, são proibidos o comércio e as importações de cerdas de suíno provenientes de países ou regiões em que a peste suína africana seja endémica. Exceptuam-se, no entanto, as cerdas de suíno que:\n\na) Tenham sido fervidas, tingidas ou branqueadas; ou\n\nb) Tenham sido submetidas a qualquer outro tratamento que permita eliminar com segurança os agentes patogénicos, desde que tal seja certificado num documento emitido pelo veterinário competente do local de origem. A lavagem industrial não é considerada tratamento na acepção da presente disposição.\n\n3. O disposto no presente capítulo não se aplica ao comércio nem às importações de penas ornamentais ou de penas que:\n\na) Sejam transportadas por viajantes para seu uso próprio; ou\n\nb) Sejam transaccionadas ou importadas em remessas destinadas a particulares, para fins não industriais.\n\n4. Os produtos deverão ser encaminhados directamente para o estabelecimento de destino ou entreposto de armazenagem em condições que permitam evitar qualquer propagação de agentes patogénicos.\n\n(1) JO no 121 de 29. 7. 1964, p. 2012/64. Com a última redacção que lhe foi dada pela Directiva 91/497/CEE (JO no L 268 de 24. 9. 1991, p. 69).(2) JO no L 47 de 21. 2. 1980, p. 4. Com a última redacção que lhe foi dada pela Directiva 91/687/CEE (JO no L 377 de 31. 12. 1991, p. 16).(3) JO no L 302 de 31. 12. 1972, p. 28. Com a última redacção que lhe foi dada pela Directiva 91/688/CEE (JO no L 377 de 31. 12. 1991, p. 18).(4) JO no L 224 de 18. 8. 1990, p. 42. Com a ultima redacção que lhe foi dada pela Decisão 92/130/CEE (JO no L 47 de 22. 2. 1992, p. 26).(5) JO no L 268 de 24. 9. 1991, p. 35.(6) JO no L 268 de 24. 9. 1991, p. 41.(7) JO no L 268 de 14. 9. 1992, p. 64.(8)() Por chorume entende-se qualquer mistura de excrementos e urina de bovinos, suínos, equídeos e aves de capoeira."
+  },
+  "05301a8b5f5548bd": {
+   "fragment_id": "ANEXO II — CONDIÇÕES ESPECÍFICAS DE SAÚDE PÚBLICA",
+   "type": "divisao",
+   "heading": "ANEXO II — CONDIÇÕES ESPECÍFICAS DE SAÚDE PÚBLICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — CONDIÇÕES ESPECÍFICAS DE SAÚDE PÚBLICA"
+  },
+  "bf770a4d39a34b9f": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 1\n\nImportações a partir de países terceiros de produtos à base de carne obtidos a partir de carnes de aves de capoeira, de caça de criação, de caça selvagem e de carnes de coelho\n\nOs Estados-membros assegurarão que os produtos à base de carne obtidos a partir de carnes de aves de capoeira, de caça de criação, de caça selvagem e de carne de coelho só sejam importados:\n\na) Se forem provenientes de um país terceiro constante da lista referida:\n\ni) A que se refere o artigo 14o da Directiva 71/118/CEE, no que se refere às carnes de aves de capoeira;\n\nii) A que se refere o artigo 16o da Directiva 92/45/CEE, no que se refere às carnes de caça selvagem;\n\niii) A estabelecer de acordo com o procedimento previsto no que se refere às carnes de coelho e às carnes de caça de criação;\n\nb) Se a carne fresca utilizada satisfazer as exigências pertinentes do artigo 14o da Directiva 71/118/CEE no que se refere à carne de aves de capoeira, do artigo 16o da Directiva 92/45/CEE, no que se refere à carne de caça selvagem, no artigo 3o da Directiva 91/495/CEE, no que se refere à carne de coelho, e no artigo 6o da referida directiva, no que se refere às carnes de caça de criação;\n\nc) Se forem provenientes de um estabelecimento que ofereça as mesmas garantias que as referidas na Directiva 77/99/CEE, aprovadas de acordo com o procedimento previsto no artigo 18o, ou, na pendência da adopção dessa decisão, pela autoridade competente do Estado-membro, continuando as importações desses produtos sujeitas às regras do no 2 do artigo 11o da Directiva 90/675/CEE;\n\nd) Se forem preparados, inspeccionados e manipulados de acordo com as exigências pertinentes da Directiva 77/99/CEE;\n\ne) Se cada lote de produtos à base de carne for acompanhado de um certificado sanitário elaborado de acordo com o procedimento previsto no artigo 18o"
+  },
+  "63f53bf053ac9222": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 2\n\nAntes de 1 de Janeiro de 1994, haverá que especificar, de acordo com o procedimento previsto no artigo 18o, as condições sanitárias aplicáveis:\n\n- à colocação no mercado e às importações de ovos e ovoprodutos destinados ao consumo humano, sem prejuízo das normas estabelecidas no âmbito da organização comum de mercado,\n\n- à preparação de gelatinas para consumo humano,\n\n- ao comércio e às importações de mel, pernas de ra e caracóis destinados ao consumo humano."
+  },
+  "fb476f4f24060f4d": {
+   "fragment_id": "ANEXO III — I",
+   "type": "divisao",
+   "heading": "ANEXO III — I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — I\n\nVERSÃO CONSOLIDADA DOS ANEXOS A E B DA DIRECTIVA 89/662/CEE\n\n«ANEXO A\n\nLEGISLAÇÃO VETERINÁRIA"
+  },
+  "5970a068734f7f42": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I\n\n- Directiva 64/433/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas sanitários em matéria de comércio intracomunitário de carne fresca (JO no 121 de 29. 7. 1964, p. 2012/64).\n\n- Directiva 71/118/CEE do Conselho, de 15 de Fevereiro de 1971, relativa a problemas sanitários em matéria de comércio de carnes frescas de aves de capoeira (JO no L 55 de 8. 3. 1971, p. 23).\n\n- Directiva 72/461/CEE do Conselho, de 12 de Dezembro de 1972, relativa a problemas de polícia sanitária respeitantes a trocas intracomunitárias de carnes frescas (JO noL 302 de 31. 2. 1972, p. 24).\n\n- Directiva 77/99/CEE do Conselho, de 21 de Dezembro de 1976, relativa aos problemas de polícia sanitária em matéria de comércio intracomunitário de produtos à base de carne (JO no L 26 de 31. 1. 1977, p. 85).\n\n- Directiva 80/215/CEE do Conselho, de 22 de Janeiro de 1980, relativa aos problemas de polícia sanitária e matéria de trocas comerciais intracomunitárias de produtos à base de carne fresca (JO no L 47 de 21. 2. 1980, p. 14).\n\n- Directiva 88/657/CEE do Conselho, de 14 de Dezembro de 1988, que estabelece os requisitos relativos à produção e ao comércio de carne picada e de carne em pedaços de menos de 100 gramas e de preparados de carne (JO no L 382 de 31. 12. 1988, p. 3).\n\n- Directiva 89/437/CEE do Conselho, de 20 de Junho de 1989, relativa aos problemas de ordem higiénica e sanitária respeitantes à produção e à colocação no mercado dos ovoprodutos (JO no L 212 de 22. 7. 1989, p. 87).\n\n- Directiva 91/67/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem a introdução no mercado de animais e produtos de aquicultura (JO no L 46 de 19. 2. 1991, p. 1).\n\n- Directiva 91/492/CEE do Conselho, de 15 de Julho de 1991, que estabelece as normas sanitárias que regem a produção e a colocação no mercado de moluscos bivalves vivos (JO no L 268 de 24. 9. 1991, p. 1).\n\n- Directiva 91/493/CEE do Conselho, de 22 de Julho de 1991, que adopta as normas sanitárias relativas à produção e à colocação no mercado dos produtos da pesca (JO no L 268 de 24. 9. 1991, p. 15).\n\n- Directiva 91/494/CEE do Conselho, de 26 de Junho de 1991, relativa às condições de polícia sanitária que regem o comércio intracomunitário e as importações provenientes de países terceiros de carnes frescas de capoeira (JO no L 268 de 24. 9. 1991, p. 35).\n\n- Directiva 91/495/CEE do Conselho, de 27 de Novembro de 1991, relativa aos problemas sanitários relativos à produção e à colocação no mercado de carnes de coelho e às carnes de caça de criação (JO no L 268 de 24. 9. 1991, p. 41).\n\n- Directiva 92/45/CEE do Conselho, de 16 de Junho de 1992, relativa aos problemas sanitários e de polícia sanitária referentes ao abate de caça selvagem e à colocação no mercado das respectivas carnes (JO no L 268 de 14. 9. 1992, p. 35).\n\n- Directiva 92/46/CEE do Conselho, de 16 de Junho de 1992, que adopta as normas sanitárias relativas à produção de leite cru, de leite tratado termicamente e de produtos à base de leite e à sua colocação no mercado (JO no L 268 de 14. 9. 1992, p. 1)."
+  },
+  "ca64e45269a4d52e": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II\n\n- Directiva 92/118/CEE do Conselho, de 17 de Dezembro de 1992, que define as condições sanitárias e de polícia sanitária que regem o comércio e as importações na Comunidade de produtos não sujeitos, no que respeita às referidas condições, às regulamentações comunitárias específicas referidas no capítulo I do anexo A da Directiva 89/662/CEE e, no que respeita aos agentes patogénicos na Directiva 90/425/CEE (com exclusão dos agentes patogénicos)."
+  },
+  "7c11a5a75092f298": {
+   "fragment_id": "ANEXO B — PRODUTOS NAO SUJEITOS A HARMONIZAÇÃO COMUNITÁRIA MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA",
+   "type": "divisao",
+   "heading": "ANEXO B — PRODUTOS NAO SUJEITOS A HARMONIZAÇÃO COMUNITÁRIA MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B — PRODUTOS NAO SUJEITOS A HARMONIZAÇÃO COMUNITÁRIA MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA\n\nOutros produtos de origem animal que não constam nem do anexo A da presente directiva nem do anexo da Directiva 90/425/CEE: estes produtos serão definidos de acordo com o procedimento previsto no artigo 18o»\n\nII\n\nVERSÃO CONSOLIDADA DOS ANEXOS A E B DA DIRECTIVA 90/425/CEE\n\n«ANEXO A"
+  },
+  "b48669d1fc3fed72": {
+   "fragment_id": "CAPÍTULO I — LEGISLAÇÃO VETERINÁRIA",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — LEGISLAÇÃO VETERINÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — LEGISLAÇÃO VETERINÁRIA"
+  },
+  "2d6ed83ea1a8c6f9": {
+   "fragment_id": "Secção 1",
+   "type": "divisao",
+   "heading": "Secção 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 1\n\n- Directiva 64/432/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas de fiscalização sanitária em matéria de comércio intracomunitário de animais das espécies bovina e suína (JO no L 121 de 29. 7. 1964, p. 1977/64).\n\n- Directiva 88/407/CEE do Conselho, de 14 de Junho de 1988, que fixa as exigências de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações de sémen congelado de animais da espécie bovina (JO no L 194 de 22. 7. 1988, p. 10).\n\n- Directiva 89/556/CEE do Conselho, de 25 de Setembro de 1989, que estabelece as condições de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações provenientes de países terceiros de embriões de animais da espécie bovina (JO no L 302 de 19. 10. 1989, p. 1).\n\n- Directiva 90/426/CEE do Conselho, de 26 de Junho de 1990, relativa às condições de polícia sanitária que regem a circulação de equídeos e as importações de equídeos provenientes de países terceiros (JO no L 224 de 18. 8. 1990, p. 42).\n\n- Directiva 90/429/CEE do Conselho, de 26 de Junho de 1990, que fixa as exigências de polícia sanitária aplicáveis às trocas comerciais intracomunitárias a às importações de sémen de animais da espécie suína (JO no L 224 de 18. 8. 1990, p. 62).\n\n- Directiva 90/539/CEE do Conselho, de 15 de Outubro de 1990, relativa às condições de polícia sanitária que regem o comércio intracomunitário e as importações de aves de capoeira e de ovos para incubação provenientes de países terceiros (JO no L 303 de 31. 10. 1990, p. 6).\n\n- Directiva 90/667/CEE do Conselho, de 27 de Novembro de 1990, que estabelece as normas sanitárias para a eliminação e a transformação de resíduos animais, para a sua colocação no mercado e para a prevenção da presença de agentes patogénicos nos alimentos par animais de origem animal ou à base de peixe e que altera a Directiva 90/425/CEE (JO no L 363 de 27. 12. 1990, p. 51).\n\n- Directiva 91/67/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem a introdução no mercado de animais e produtos da aquicultura (JO no L 46 de 19. 2. 1991, p. 1).\n\n- Directiva 91/68/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem as trocas comerciais intracomunitárias de ovinos e caprinos (JO no L 46 de 19. 2. 1991, p. 19).\n\n- Directiva 91/628/CEE do Conselho, de 19 de Novembro de 1991, realtiva à protecção dos animais durante o transporte e que altera as directiva 90/425/CEE e 91/496/CEE (JO no L 340 de 11. 12. 1991, p. 17)."
+  },
+  "29d1b32b6221bd46": {
+   "fragment_id": "Secção 2",
+   "type": "divisao",
+   "heading": "Secção 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 2\n\nDirectiva 92/65/CEE do Conselho, de 13 de Julho de 1992, que define as condições de polícia sanitária que regem o comércio e as importações na Comunidade de animais, sémens, óvulos e embriões não sujeitos, no que se refere às condições de polícia sanitária, às regulamentações comunitárias específicas referidas na secção I do anexo A da Directiva 90/425/CEE (JO no L 268 de 14. 9. 1992, p. 54).\n\n- Para os agentes patogénicos\n\nDirectiva 92/118/CEE do Conselho, de 17 de Dezembro de 1992, que define as condições sanitárias e de polícia sanitária que regem o comércio e as importações na Comunidade de produtos não sujeitos, no que respeita às referidas condições, às regulamentações comunitárias específicas referidas no capítulo I do anexo A da Directiva 89/662/CEE e, no que respeita aos agentes patogénicos, no capítulo I do anexo A da Directiva 90/425/CEE."
+  },
+  "44bb3fe1b2a0bf1b": {
+   "fragment_id": "CAPÍTULO II — LEIGISLAÇÃO ZOOTÉCNICA",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — LEIGISLAÇÃO ZOOTÉCNICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — LEIGISLAÇÃO ZOOTÉCNICA\n\n- Directiva 77/504/CEE do Conselho, de 25 de Julho de 1977, que diz respeito aos animais da espécie bovina reprodutores de raça pura (JO no L 206 de 12. 8. 1977, p. 8).\n\n- Directiva 88/661/CEE do Conselho, de 19 de Dezembro de 1988, relativa às normas zootécnicas aplicáveis aos animais reprodutores da espécie suína (JO no L 382 de 31. 12. 1988, p. 36).\n\n- Directiva 89/361/CEE do Conselho, de 30 de Maio de 1989, relativa aos animais reprodutores das espécies ovina e caprina (JO no L 153 de 6. 6. 1989, p. 30).\n\n- Directiva 90/427/CEE do Conselho, de 26 de Junho de 1990, relativa às condições zootécnicas e genealógicas que regem o comércio intracomunitário de equídeos (JO no L 224 de 18. 8. 1990, p. 55).\n\n- Directiva 91/174/CEE do Conselho, de 25 de Março de 1991, relativa às condições zootécnicas e genealógicas que regem a comercialização de animais de raça e que altera as directivas 77/504/CEE e 90/425/CEE (JO no L 85 de 5. 4. 1991, p. 37)."
+  },
+  "38ac74ae0fec073f": {
+   "fragment_id": "ANEXO B — ANIMAIS REPRODUTORES NAO SUJEITOS A HARMONIZAÇÃO MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA",
+   "type": "divisao",
+   "heading": "ANEXO B — ANIMAIS REPRODUTORES NAO SUJEITOS A HARMONIZAÇÃO MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B — ANIMAIS REPRODUTORES NAO SUJEITOS A HARMONIZAÇÃO MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA"
+  },
+  "a174931c848eb85f": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I\n\nLegislação veterinária - Outros animais vivos que não constam do capítulo I do anexo A."
+  },
+  "5e4da2d3e24a658f": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II\n\nLegislação veterinária - Sémens, óvulos e embriões que não constam do capítulo I do anexo A."
+  },
+  "74fbc09c368b69ee": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Dezembro de 1992\n\nque define as condições sanitárias e de polícia sanitária que regem o comércio e as importações na Comunidade de produtos não sujeitos, no que respeita às referidas condições, às regulamentações comunitárias específicas referidas no capítulo I do anexo A da Directiva 89/662/CEE e, no que respeita aos agentes patogénicos, da Directiva 90/425/CEE\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43.º,\n\nTendo em conta as propostas da Comissão ([^1^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0001)),\n\nTendo em conta os pareceres do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0002)),\n\nTendo em conta os pareceres do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0003)),\n\nConsiderando que os animais vivos e os produtos de origem animal estão incluídos na lista de produtos enumerados no anexo II do Tratado; que a colocação desses animais e produtos no mercado constitui uma fonte importante de rendimento da população agrícola;\n\nConsiderando que, para assegurar um desenvolvimento racional deste sector e aumentar a sua produtividade, há que fixar, a nível comunitário, regras de polícia sanitária para os animais e produtos em questão;\n\nConsiderando que a Comunidade deve adoptar as medidas destinadas a estabelecer progressivamente o mercado interno, durante um período que termina em 31 de Dezembro de 1992;\n\nConsiderando que a prossecução dos objectivos anteriormente referidos levou o Conselho a fixar regras de polícia sanitária relativas aos bovinos, aos suínos, aos ovinos e caprinos, aos equídeos, às aves de capoeira e ovos para incubação, aos peixes e produtos da pesca, aos moluscos bivalves, ao sémen de bovinos e suínos, aos embriões de bovinos, às carnes frescas, à carne de aves de capoeira, aos produtos à base de carne, às carnes de caça e de coelho e aos lacticínios;\n\nConsiderando que, salvo disposições em contrário, o comércio de produtos de origem animal deve ser liberalizado, sem prejuízo do recurso a eventuais medidas de salvaguarda;\n\nConsiderando que, devido a riscos notórios de propagação das doenças a que os animais estão expostos, há que especificar, em relação a certos produtos de origem animal, as exigências especiais a impor no momento da sua colocação no mercado para fins de comércio, nomeadamente com destino a regiões que disponham de um estatuto sanitário elevado;\n\nConsiderando que, aquando da adopção da Directiva 92/65/CEE, a Comissão aceitou dissociar os aspectos de polícia sanitária aplicáveis aos animais dos aplicáveis aos produtos;\n\nConsiderando que, para permitir a supressão dos controlos nas fronteiras entre Estados-membros em 1 de Janeiro de 1993, é necessário fixar as regras sanitárias e de polícia sanitária aplicáveis ao conjunto dos produtos sujeitos a esses controlos, cujo comércio ou importação ainda não foram objecto de harmonização a nível comunitário;\n\nConsiderando que, para realizar esse objectivo, é necessário adaptar certas regulamentações existentes para a adopção das medidas acima referidas;\n\nConsiderando que pareceu oportuno prever um processo de aprovação dos países terceiros e dos estabelecimentos que satisfazem as condições fixadas na presente directiva, bem como um processo de inspecção comunitária para velar pelo cumprimento das condições previstas para essas aprovação;\n\nConsiderando que o documento de acompanhamento dos produtos constitui o meio mais adequado de fornecer às autoridades competentes do local de destino a garantia de que determinada remessa cumpre as disposições da presente directiva; que convém manter o certificado sanitário ou de salubridade para controlar o destino de certos produtos importados;\n\nConsiderando que as regras, princípios e medidas de salvaguarda estabelecidos pela Directiva 90/675/CEE do Conselho, de 10 de Dezembro de 1990, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade ([^4^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0004)), devem-se aplicar ao caso presente;\n\nConsiderando que, no contexto do comércio intracomunitário, as regras estabelecidas pela Directiva 89/662/CEE devem ser igualmente aplicáveis;\n\nConsiderando que a Comissão deve ser incumbida da adopção de determinadas medidas de execução da presente directiva; que, com esse objectivo, devem ser adoptados processos que estabeleçam uma cooperação estreita e eficaz entre a Comissão e os Estados-membros no âmbito do Comité Veterinário Permanente;\n\nConsiderando que, devido a dificuldades de abastecimento especiais relacionadas com a situação geográfica da República Helénica, é conveniente prever disposições derrogatórias especiais para este Estado-membro;\n\nConsiderando que a adopção de regras específicas para os produtos abrangidos pela presente directiva não afecta a adopção de regras para a higiene e a segurança alimentar em geral, em relação às quais a Comissão apresentou uma proposta de directiva-quadro,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "21943d22f419097a": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva define as condições sanitárias e de polícia sanitária que regem o comércio e as importações na Comunidade de produtos de origem animal (incluindo amostras comerciais colhidas desses produtos) não sujeitos, no que respeita às referidas condições, às regulamentações comunitárias específicas referidas no capítulo I do anexo A da Directiva 89/662/CEE ([^5^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0005)) e, no que respeita aos agentes patogénicos, da Directiva 90/425/CEE.\n\nA presente directiva não prejudica a adopção de exigências mais particularizadas em matéria de polícia sanitária no âmbito das regulamentações específicas acima referidas nem a manutenção de restrições ao comércio ou às importações de produtos abrangidos pelas regulamentações específicas referidas no primeiro parágrafo por motivo de exigências de saúde pública."
+  },
+  "fcbe307cabc42d3f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Para efeitos da presente directiva, entende-se por:\n\na) *Comércio*: o comércio tal como definido no n.º 2 do artigo 2.º da Directiva 89/662/CEE;\n\nb) *Amostra comercial*: uma amostra sem qualquer valor comercial colhida em nome do proprietário ou do responsável por um estabelecimento, que seja representativa de uma dada produção de produtos de origem animal desse estabelecimento ou que constitua um modelo de um produto de origem animal que se tencione fabricar e que, para efeitos de análise posterior, deve conter a indicação do tipo de produto, da sua composição e da espécie animal de onde foi obtido;\n\nc) *Doença transmissível grave*: qualquer doença prevista na Directiva 82/894/CEE ([^6^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0006))\n\nd) *Agentes patogénicos*: qualquer conjunto ou cultura de organismos ou qualquer seu derivado, quer isolado quer sob forma recombinada, que possa provocar uma doença em qualquer ser vivo (com excepção do homem), e todos os derivados modificados desses organismos que possam ser portadores ou transmitir um agente patogénico animal, ou o tecido, cultura celular, secreções ou excreções pelos quais ou através dos quais possa ser transportado ou transmitido um agente patogénico animal; esta definição não inclui os medicamentos veterinários imunológicos autorizados pela Directiva 90/677/CEE ([^7^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0007));\n\nf) *Proteínas animais transformadas destinadas ao consumo humano*: os torresmos, a farinha de carne e o courato em pó referidos na alínea b) do artigo 2.º da Directiva 77/99/CEE ([^8^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0008));\n\n2. Além destas, são aplicáveis *mutatis mutandis* as definições previstas no artigo 2.º das directivas 89/662/CEE, 90/425/CEE e 90/675/CEE."
+  },
+  "99d320f4250c3471": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-membros velarão por que:\n\n— o comércio e as importações dos produtos de origem referidos no artigo 1.º, [**►M12**](http://publications.europa.eu/resource/celex/32002L0033) —————**◄**não sejam proibidos ou restringidos por motivos sanitários ou de polícia sanitária que não sejam os resultantes da aplicação da presente directiva ou da legislação comunitária e, nomeadamente, das medidas de salvaguarda eventualmente tomadas,\n\n— qualquer novo produto de origem animal destinado ao consumo humano cuja colocação no mercado de um Estado-Membro seja autorizada após a data prevista no artigo 20.º não poderá ser comercializado ou importado enquanto não for tomada uma decisão nos termos do n.º 1 do artigo 15.º, após avaliação, se adequado à luz do parecer do Comité Científico Veterinário instituído pela Decisão 81/651/CEE, do risco real de propagação de doenças transmissíveis graves que poderiam resultar da circulação do produto, não apenas para as espécies das quais o produto é originário como também para as outras espécies que poderiam veicular a doença, tornar-se um foco de doença ou constituir um risco para a saúde humana,\n\n— os outros produtos de origem animal referidos na alínea b) do artigo 2.º da Directiva 77/99/CEE só possam ser objecto de comércio ou de importação a partir de países terceiros se cumprirem as exigências da referida directiva e as exigência pertinentes da presente directiva."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "46c1b48c2993c255": {
+   "fragment_id": "Disposições aplicáveis ao comércio",
+   "type": "divisao",
+   "heading": "Disposições aplicáveis ao comércio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições aplicáveis ao comércio"
+  },
+  "447daf18a407c4f3": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-membros tomarão as medidas necessárias para que, para efeitos da aplicação do n.º 1 do artigo 4.º da Directiva 89/662/CEE e do n.º 1, alínea a), do artigo 4.º da Directiva 90/425/CEE, e sem prejuízo das disposições especiais a adoptar nos termos do n.º 3, alínea c), do artigo 10.º e do artigo 11.º, os produtos de origem animal referidos no[**►M17**](http://publications.europa.eu/resource/celex/32004L0041) [**►C1**](http://publications.europa.eu/resource/celex/32004L0041R%2801%29) anexo I**◄** **◄** bem como no segundo e terceiro travessões do artigo 3.º da presente directiva só possam ser objecto de comércio se satisfizerem as seguintes exigências:\n\n1. Cumprirem as exigências do artigo 5.º e as exigências específicas previstas no anexo I no que se refere aos aspectos de saúde animal[**►M17**](http://publications.europa.eu/resource/celex/32004L0041) —————**◄**;\n\n2. Serem provenientes de estabelecimentos que:\n\na) Se comprometam, em função das exigências específicas previstas no[**►M17**](http://publications.europa.eu/resource/celex/32004L0041) [**►C1**](http://publications.europa.eu/resource/celex/32004L0041R%2801%29) anexo I**◄** **◄** para os produtos obtidos no estabelecimento, a:\n\n— respeitar as condições de produção enunciadas na presente directiva,\n\n— estabelecer e aplicar métodos de vigilância e de controlo dos pontos críticos, em função dos processos utilizados,\n\n— em função dos produtos, colher amostras para análise num laboratório reconhecido pela autoridade competente, a fim de verificar o cumprimento das normas fixadas na presente directiva,\n\n— conservar um arquivo escrito ou gravado das indicações obtidas nos termos dos travessões anteriores, a fim de o apresentar à autoridade competente. Os resultados dos vários controlos e testes, nomeadamente, serão conservados durante um período de dois anos no mínimo,\n\n— garantir a gestão da marcação ou da rotulagem,\n\n— caso o resultado da análise laboratorial ou qualquer outra informação de que disponham revele a existência de um risco sanitário ou de polícia sanitária grave, informar a autoridade competente,\n\n— só expedir, para fins de comércio, produtos acompanhados de um documento comercial que especifique a natureza do produto, o nome e, se for caso disso, o número de aprovação veterinária do estabelecimento de produção;\n\nb) Sejam sujeitos a fiscalização pela autoridade competente a fim de se certificar do cumprimento das exigências da presente directiva por parte do concessionário ou do gestor do estabelecimento;\n\nc) Tenham sido objecto de registo pela autoridade competente com base nas garantias dadas pelos estabelecimento, a fim de assegurar o cumprimento das exigências da presente directiva."
+  },
+  "4801ab6f2ef96d99": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-membros cuidarão de tomar todas as medidas necessárias para garantir que os produtos de origem animal referidos no[**►M17**](http://publications.europa.eu/resource/celex/32004L0041) [**►C1**](http://publications.europa.eu/resource/celex/32004L0041R%2801%29) anexo I**◄** **◄** não sejam objecto de comércio a partir de uma exploração situada numa zona sujeita a restrições devido ao aparecimento de uma doença à qual a espécie de que o produto é derivado seja sensível, ou a partir de um estabelecimento ou de uma zona a partir dos quais a circulação ou o comércio constituam um risco para o estatuto sanitário dos Estados-membros, excepto no caso de produtos tratados termicamente em conformidade com a legislação comunitária.\n\nEm derrogação do primeiro parágrafo, poderão ser aprovadas, de acordo com o procedimento previsto no artigo 18.º, garantias específicas que permitam a circulação de alguns dos referidos produtos, no âmbito de medidas de salvaguarda."
+  },
+  "2743e9bbec33dee1": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros velarão por que o comércio de agentes patogénicos seja sujeito a regras rígidas a definir de acordo com o procedimento previsto no artigo 18.º"
+  },
+  "9bb91c0c0d64b41b": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. As regras de controlo previstas na Directiva 89/662/CEE e, no que se refere aos agentes patogénicos, na Directiva 90/425/CEE são aplicáveis aos produtos referidos na presente directiva, nomeadamente no que se refere à organização dos controlos a efectuar e ao seguimento a dar a esses controlos.\n\n2. O artigo 10.º da Directiva 90/425/CEE aplica-se aos produtos a que se refere a presente directiva.\n\n3. Para efeitos de comércio, as disposições do artigo 12.º da Directiva 90/425/CEE serão extensivas aos estabelecimentos que forneçam produtos de origem animal referidos na presente directiva.\n\n4. Sem prejuízo das disposições específicas da presente directiva, a autoridade competente procederá, em caso de suspeita de inobservância da presente directiva, a todos os controlos que considere adequados.\n\n5. Os Estados-membros tomarão as medidas administrativas ou penais adequadas para punir qualquer infracção à presente directiva, designadamente quando se verificar que os certificados ou documentos emitidos não correspondam ao verdadeiro estado dos produtos referidos no[**►M17**](http://publications.europa.eu/resource/celex/32004L0041) [**►C1**](http://publications.europa.eu/resource/celex/32004L0041R%2801%29) anexo I**◄** **◄**, ou que os produtos em questão não cumprem as exigências da presente directiva ou não foram sujeito aos controlos nela previstos."
+  },
+  "dd7fed492da230b0": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAditar o seguinte parágrafo no capítulo I, ponto 1 do anexo A da Directiva 92/46/CEE ([^9^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0009)):\n\n«O leite e os produtos à base de leite não devem provir de uma zona de vigilância delimitada por força da Directiva 85/511/CEE, excepto se o leite tiver sido submetido a pasteurização (71,7 oC durante 15 segundos) sob o controlo da autoridade competente.»"
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "5750281a1e9b9f15": {
+   "fragment_id": "Disposições aplicáveis às importações na Comunidade",
+   "type": "divisao",
+   "heading": "Disposições aplicáveis às importações na Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições aplicáveis às importações na Comunidade"
+  },
+  "1e5c6998e16b0369": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs condições aplicáveis às importações de produtos abrangidos pela presente directiva devem oferecer, no mínimo, as garantias previstas no capítulo II, e incluindo as fixadas nos termos do artigo 6.º, bem como as previstas no segundo e terceiro travessões do artigo 3.º"
+  },
+  "f766ecf223e84ba9": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Para efeitos de aplicação uniforme do artigo 9.º, aplicam-se as disposições dos números que se seguem.\n\n2. Os produtos referidos no[**►M17**](http://publications.europa.eu/resource/celex/32004L0041) [**►C1**](http://publications.europa.eu/resource/celex/32004L0041R%2801%29) anexo I**◄** **◄** e nos segundo e terceiro travessões do artigo 3.º só podem ser objecto de importação pela Comunidade se satisfizerem as seguintes exigências:\n\na) Salvo disposições específicas em contrário contidas no[**►M17**](http://publications.europa.eu/resource/celex/32004L0041) [**►C1**](http://publications.europa.eu/resource/celex/32004L0041R%2801%29) anexo I**◄** **◄**, serem provenientes de um país terceiro ou de uma parte de um país terceiro constante de uma lista a elaborar e actualizar de acordo com o procedimento previsto no artigo 18.º;\n\nb) Salvo disposição em contrário do [**►M17**](http://publications.europa.eu/resource/celex/32004L0041) [**►C1**](http://publications.europa.eu/resource/celex/32004L0041R%2801%29) anexo I**◄** **◄**, serem provenientes de estabelecimentos constantes de uma lista comunitária a estabelecer de acordo com o procedimento previsto no artigo 18.º;\n\nc) Nos casos especificamente previstos no[**►M17**](http://publications.europa.eu/resource/celex/32004L0041) [**►C1**](http://publications.europa.eu/resource/celex/32004L0041R%2801%29) anexo I**◄** **◄** e nos segundo e terceiro travessões do artigo 3.º, serem acompanhados de um certificado sanitário ou de salubridade conforme com um modelo a elaborar de acordo com o procedimento previsto no artigo 18.º, que ateste que os produtos preenchem as condições suplementares ou oferecem as garantias equivalentes referidas na alínea a) do n.º 3 e provêm de estabelecimentos que oferecem essas garantias, e que seja assinado por um veterinário oficial ou, se for caso disso, por qualquer outra autoridade competente, reconhecida de acordo com o mesmo procedimento.\n\n3. De acordo com o procedimento previsto no artigo 18.º:\n\na) Estabelecer-se-ão condições específicas — em especial condições destinadas a proteger a Comunidade contra certas doenças exóticas ou doenças transmissíveis ao homem — ou garantias equivalentes a essas condições.\n\nc) Determinar-se-á a natureza dos eventuais tratamentos ou as medidas a tomar para evitar a recontaminação das tripas de animais, dos ovos e dos produtos à base de ovos;\n\n4. As decisões previstas nos n.^os^ 2 e 3 deverão ser tomadas com base numa avaliação efectuada, se for caso disso mediante parecer do Comité Científico Veterinário, do risco real de propagação de doenças transmissíveis graves ou de doenças transmissíveis que possa advir da circulação do produto, não só na espécie de que deriva mas também noutras espécies que possam agir como portadoras ou transmissoras de doença ou representar um risco para a saúde pública.\n\n5. Serão efectuados controlos no local por peritos da Comissão e dos Estados-membros, a fim de verificar se as garantias oferecidas pelo país terceiro no tocante à condições de produção e de colocação no mercado podem ser consideradas equivalentes às aplicadas na Comunidade.\n\nOs peritos dos Estados-membros incumbidos dos controlos serão designados pela Comissão sob proposta dos Estados-membros.\n\nO controlos serão efectuados por conta da Comunidade, que suportará as despesas correspondentes.\n\nNa pendência dos controlos referidos no primeiro parágrafo, continuarão a aplicar-se as disposições nacionais aplicáveis em matéria de inspecção em países terceiros, sob reserva de informação do Comité Veterinário Permanente sobre as inobservâncias das garantias oferecidas nos termos do n.º 3 que sejam detectadas durante essas inspecções.\n\n6. Na pendência da elaboração das listas previstas [**►M8**](http://publications.europa.eu/resource/celex/31996L0090) nas alíneas a) e b), segundo travessão, do n.º 2**◄**, os Estados-membros estão autorizados a manter os controlos previstos no artigo 11.º da Directiva 90/675/CEE e o certificado nacional exigido para os produtos importados, no âmbito das regras nacionais existentes."
+  },
+  "ad37a461b5033cdf": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs condições específicas de polícia sanitária para a importação na Comunidade dos produtos referidos no anexo I destinados a laboratório de experiências, bem como a natureza e o conteúdo dos respectivos documentos de acompanhamento serão fixados de acordo com o procedimento previsto no artigo 18.º"
+  },
+  "fbd38a2d2a013697": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Os princípios e regras previstos nas directivas 90/675/CEE e 91/496/CEE ([^10^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0010)), aplicam-se, nomeadamente, no que se refere à organização dos controlos a efectuar pelos Estados-membros e ao seguimento a dar a esses controlos, bem como às medidas de salvaguarda a aplicar.\n\nTodavia, de acordo com procedimento previsto no artigo 18.º e em relação a determinados tipos de produtos de origem animal, pode-se derrogar o controlo físico previsto no [**►M9**](http://publications.europa.eu/resource/celex/31997L0079) n.º 4, alínea b), do artigo 4.º da Directiva 97/78/CE**◄**."
+  },
+  "0ddc0c31f9358149": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Os Estados-membros poderão, mediante a emissão de uma licenca adequada, autorizar as importações provenientes de países terceiros de produtos de origem animal referidos no[**►M17**](http://publications.europa.eu/resource/celex/32004L0041) [**►C1**](http://publications.europa.eu/resource/celex/32004L0041R%2801%29) anexo I**◄** **◄**, sob a forma de amostras comerciais.\n\n2. A licença referida no n.º 1 deverá acompanhar o lote e especificar as condições especiais em que o produto pode ser importado, bem como qualquer derrogação dos controlos previstos na Directiva 90/675/CEE.\n\n3. Sempre que um lote entrar num Estado-membro em trânsito para outro Estado-membro, o primeiro velará por que o lote seja acompanhado da licença adequada. As deslocações do lote efectuar-se-ão nas condições previstas no n.º 2 do artigo 11.º da Directiva 90/675/CEE. Cabe ao Estado-membro que emite a licença certificar-se de que o lote satisfaz as condições previstas na licença e autorizar a entrada do mesmo no seu território."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "73449003be6a2e27": {
+   "fragment_id": "Disposições comuns e finais",
+   "type": "divisao",
+   "heading": "Disposições comuns e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições comuns e finais"
+  },
+  "1804c15652e83702": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. É revogada a alínea d) do artigo 3.º da Directiva 72/461/CEE ([^11^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0011)).\n\nAs decisões 92/183/CEE ([^12^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0012)) e 92/187/CEE ([^13^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0013)) da Comissão continuam a ser aplicáveis para efeitos da presente directiva, sem prejuízo de eventuais alterações a introduzir de acordo com o procedimento previsto no artigo 18.º\n\n2. A Directiva 90/667/CEE é alterada do seguinte modo:\n\na) No artigo 13.º, é aditado o seguinte número:\n\n2.«2. A fim de assegurar o acompanhamento dos controlos previstos no n.º 1:\n\na) Os produtos transformados obtidos a partir de matérias de baixo risco e as matérias de alto risco deverão satisfazer as exigências do capítulo 6 do anexo I da Directiva 92/118/CEE ([^14^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0014));\n\nb) As matérias de baixo risco, as matérias de alto risco tratadas num estabelecimento de outro Estado-membro designado nos termos da segunda frase do artigo 4.º e os produtos transformados a partir de matérias de alto risco ou de baixo risco deverão ser acompanhadas:\n\n— caso provenham de um estabelecimento aprovado nos termos do artigo 4.º, de um documento comercial que especifique:\n\n— se for caso disso, a natureza do tratamento,\n\n— se o produto contém proteínas provenientes de ruminantes;\n\n— caso provenham doutro estabelecimento, de um certificado emitido e assinado por um veterinário oficial que indique:\n\n— os métodos de tratamento do lote,\n\n— o resultado dos testes de pesquisa de salmonetes,\n\n— se o produto contém proteínas provenientes de ruminantes.\n\nb) No artigo 6.º, os termos «serão determinados de acordo com o procedimento previsto no artigo 19.º» são substituídos pelos termos «estão fixados na capítulo 10 do anexo I da Directiva 92/118/CEE».\n\nc) O primeiro parágrafo do artigo 14.º é suprimido."
+  },
+  "45d4fce7ae4eb367": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nO Conselho, deliberando por maioria qualificada sob proposta da Comissão adoptará qualquer novo anexo que estabeleça exigências específicas para outros produtos susceptíveis de apresentar um risco real de propagação de doenças transmissíveis graves ou um risco real para a saúde pública.\n\nOs anexos serão alterados, se necessário, de acordo com o procedimento previsto no artigo 18.º, respeitando os princípios gerais enunciados no segundo travessão do artigo 3.º"
+  },
+  "d23b9e6aced9f8d0": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Os Estados-membros estão autorizados a subordinar à apresentação de um certificado sanitário e/ou de um certificado de salubridade que ateste o cumprimento das exigências da presente directiva, a introdução no seu território de produtos de origem animal referidos no[**►M17**](http://publications.europa.eu/resource/celex/32004L0041) [**►C1**](http://publications.europa.eu/resource/celex/32004L0041R%2801%29) anexo I**◄** **◄** nos segundo e terceiro travessões do artigo 3.º, obtidos no território de um Estado-membro, que tenham transitado pelo território de um país terceiro.\n\n2. Os Estados-membros que recorram à faculdade prevista no n.º 1 participá-lo-ão à Comissão e aos restantes Estados-membros no seio do Comité Veterinário Permanente, instituído pela Decisão 68/361/CEE ([^15^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0015))."
+  },
+  "3b94b94cfb6e22bd": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. Os anexos A e B das directivas 89/662/CEE e 90/425/CEE são substituídos pelos textos constantes do anexo III da presente directiva.\n\n2. A Directiva 77/99/CEE á alterada do seguinte modo:\n\n— a subalínea iv) da alínea b) do artigo 2.º é suprimida e as subalínea v) e vi) passam respectivamente a iv) e v),\n\n— o n.º 2 do artigo 6.º passa a ter a seguinte redacção:\n\n— «2. Poder-se-ão fixar condições suplementares para os outros produtos de origem animal, de acordo com o procedimento previsto no artigo 20.º, a fim de assegurar a protecção da saúde pública.»"
+  },
+  "33d82f293a96ed7c": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nCaso se faça referência ao procedimento previsto no presente artigo, o Comité Veterinário Permanente, deliberará em conformidade com as regras estabelecidas no artigo 17.º da Directiva 89/662/CEE."
+  },
+  "72a33344c47b0072": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nPodem ser adoptadas medidas transitórias, por um período máximo de três anos a partir de 1 de Julho de 1993, de acordo com o procedimento previsto no artigo 18.º, a fim de facilitar a passagem para o novo regime previsto na presente directiva."
+  },
+  "b1b67b52dbd480af": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento ao n.º 2 do artigo 12.º e ao artigo 17.º em 1 de Janeiro de 1993 e às restantes disposições da presente directiva antes de 1 de Janeiro de 1994. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito interno que adoptarem no domínio regido pela presente directiva.\n\n3. A fixação da data-limite para a transposição em 1 de Janeiro de 1994 não prejudica a abolição dos controlos veterinários nas fronteiras previstas nas directivas 89/662/CEE e 90/425/CEE."
+  },
+  "2f63a689be3366d5": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "a57574a363d4eac8": {
+   "fragment_id": "CONDIÇÕES ESPECÍFICAS DE POLÍTICA SANITÁRIA",
+   "type": "divisao",
+   "heading": "CONDIÇÕES ESPECÍFICAS DE POLÍTICA SANITÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES ESPECÍFICAS DE POLÍTICA SANITÁRIA"
+  },
+  "ec2b18140b6b4802": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 2"
+  },
+  "2f6baf597a3f8d6f": {
+   "fragment_id": "Tripas de animais destinadas ao consumo humano",
+   "type": "divisao",
+   "heading": "Tripas de animais destinadas ao consumo humano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Tripas de animais destinadas ao consumo humano"
+  },
+  "d07ecc92dab7e2ac": {
+   "fragment_id": "A. Comércio",
+   "type": "divisao",
+   "heading": "A. Comércio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Comércio\n\nO comércio de tripas de animais está subordinado à apresentação de um documento que especifique o estabelecimento de origem, o qual deverá ser:\n\n— sempre que as tripas sejam salgadas ou secas na origem e no caso de as tripas salgadas ou secas serem seguidamente manipuladas, um estabelecimento aprovado pela autoridade competente,\n\n— nos outros casos, um estabelecimento aprovado em conformidade com a Directiva 64/433/CEE ([^16^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0016)), devendo as tripas ser transportadas por forma a evitar a contaminação."
+  },
+  "0a4bc3feb9c3b33f": {
+   "fragment_id": "B. Importações provenientes de países terceiros",
+   "type": "divisao",
+   "heading": "B. Importações provenientes de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Importações provenientes de países terceiros\n\nAs importações de tripas de animais provenientes de países terceiros estão subordinadas à apresentação do certificado referido no n.º 2, alínea b) do artigo 10.º, emitido e assinado por um veterinário oficial do país terceiro exportador, que ateste:\n\ni) Que as tripas provêm de um estabelecimento aprovado pela autoridade competente do país exportador;\n\nii) Que as tripas foram limpas, raspadas e, seguidamente salgadas ou branqueadas (ou que, em vez de serem salgadas ou branqueadas, foram secas após o desbaste);\n\niii) Que, após o tratamento referido na subalínea ii), foram tomadas medidas eficazes para impedir a recontaminação das tripas."
+  },
+  "866ed939a159cfd6": {
+   "fragment_id": "CAPÍTULO 5",
+   "type": "divisao",
+   "heading": "CAPÍTULO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 5"
+  },
+  "e53da0c879b23845": {
+   "fragment_id": "Ossos e produtos à base de osso (com exclusão da farinha de osso), chifres e produtos à base de chifre (com exclusão da farinha de chifre) unhas e cascos e produtos à base de cascos (com exclusão da farinha de casco)[►M12](http://publications.europa.eu/resource/celex/32002L0033) destinados ao consumo humano◄",
+   "type": "divisao",
+   "heading": "Ossos e produtos à base de osso (com exclusão da farinha de osso), chifres e produtos à base de chifre (com exclusão da farinha de chifre) unhas e cascos e produtos à base de cascos (com exclusão da farinha de casco)[►M12](http://publications.europa.eu/resource/celex/32002L0033) destinados ao consumo humano◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Ossos e produtos à base de osso (com exclusão da farinha de osso), chifres e produtos à base de chifre (com exclusão da farinha de chifre) unhas e cascos e produtos à base de cascos (com exclusão da farinha de casco)[►M12](http://publications.europa.eu/resource/celex/32002L0033) destinados ao consumo humano◄\n\nO comércio e as importações dos produtos em questão estão sujeitos às seguintes condições:\n\n1. No que se refere ao comércio, os ossos, os chifres e os cascos e unhas estão sujeitos às condições de polícia sanitária previstas na Directiva 72/461/CEE;\n\n2. No que se refere ao comércio, os produtos à base de osso, os produtos à base de chifre e os produtos à base de cascos estão sujeitos às condições de polícia sanitária previstas na Directiva 80/215/CEE ([^17^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0019));\n\n3. No que se refere às importações, os ossos, os produtos à base de osso, os chifres, os produtos à base de chifre, os cascos e os produtos à base de cascos estão sujeitos às condições previstas na Directiva 72/462/CEE ([^18^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0020))."
+  },
+  "8b5929d507d9ff76": {
+   "fragment_id": "CAPÍTULO 6",
+   "type": "divisao",
+   "heading": "CAPÍTULO 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 6"
+  },
+  "8adb90e1a57af56a": {
+   "fragment_id": "Proteínas animais transformadas[►M12](http://publications.europa.eu/resource/celex/32002L0033) destinadas ao consumo humano◄",
+   "type": "divisao",
+   "heading": "Proteínas animais transformadas[►M12](http://publications.europa.eu/resource/celex/32002L0033) destinadas ao consumo humano◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Proteínas animais transformadas[►M12](http://publications.europa.eu/resource/celex/32002L0033) destinadas ao consumo humano◄\n\nI. Sem prejuízo de eventuais restrições impostas em matéria de EBE e das restrições impostas à alimentação de ruminantes com proteínas de ruminantes, o comércio e as importações de proteínas animais transformadas, estão subordinados: [▼M12](http://publications.europa.eu/resource/celex/32002L0033) A. No que se refere ao comércio, à apresentação do documento ou certificado previsto na Directiva 77/99/CEE atestando o cumprimento das exigências desta directiva; [▼B](http://publications.europa.eu/resource/celex/31992L0118) B. No que se refere às importações: 1. À apresentação do certificado sanitário previsto no n.º 2, alínea b) do artigo 10.º, assinado pelo veterinário oficial do país de origem, atestando que: [▼M12](http://publications.europa.eu/resource/celex/32002L0033) a) O produto corresponde às exigências da Directiva 80/215/CEE; [▼B](http://publications.europa.eu/resource/celex/31992L0118) b) Foram tomadas todas as precauções após o tratamento para evitar qualquer contaminação do produto tratado; c) Foram colhidas amostras na altura da partida do país de origem, para serem submetidas a testes de rastreio de salmonelas; d) Os resultados desses testes se revelaram negativos; 2. Após controlo documental dos certificados referidos no ponto 1, e sem prejuízo do ponto II infra, à colheita de amostras pela autoridade competente do posto de inspecção fronteiriço: i) Em cada lote de produtos a granel; ii) Por amostragem aleatória, nos lotes de produtos acondicionados em fábrica; 3. No que se refere aos lotes de proteínas animais transformadas destinados à colocação em livre prática no território da Comunidade, à prova de que os resultados das colheitas efectuadas nos termos do n.º 1, alínea c) do ponto B foram negativos. C. As regras nacionais existentes à data de notificação da presente directiva no que diz respeito às exigências aplicáveis às proteínas de origem animal em matéria de EBE e de cenurose dos ovinos (scrapie) podem ser mantidas na pendência de uma decisão quanto ao tipo de tratamento térmico capaz de destruir o agente responsável. O comércio e as importações de farinha de carne e de farinha de osso continuam sujeitos às disposições do n.º 2 do artigo 5.º da Directiva 89/662/CEE e do n.º 2 do artigo 11.º da Directiva 90/675/CEE.\n\nII. Os Esatdos-membros podem praticar um controlo por amostragem aleatória nos lotes de produtos apresentados a granel originários de países terceiros cujos produtos tenham dado resultados negativos nos últimos seis testes consecutivos. Quando durante esse controlo um dos resultados for positivo, a autoridade competente do país de origem deve ser informada, a fim de tomar medidas adequadas para resolver a situação. Essas medidas deverão ser comunicadas à autoridade competente responsável pelos controlos de importação. Caso seregiste um novo resultado positivo em lotes da mesma proveniência, os controlos posteriores deverão incidir sobre todos os lotes dessa proveniência até voltarem a ser satisfeitas as exigências referidas na primeira frase do presente parágrafo.\n\nIII. Os Estados-membros deverão manter um registo dos resultados dos controlos efectuados nos lotes que foram sujeitos a controlo.\n\nIV. Nos termos do n.º 3 do artigo 3.º da Directiva 89/662/CEE, o transbordo de lotes apenas será autorizado em portos reconhecidos de acordo com o procedimento previsto no artigo 18.º desde que os Estados-membros tenham celebrado um acordo bilateral, que permita que o controlo desses lotes seja diferido até à sua chegada ao posto de inspecção fronteiriço do Estado-membro de destino final.\n\nV. Se o resultado dos testes de pesquisa de salmonelas efectuados num lote for positivo, esse lote deverá ser: a) Ou reexportado da Comunidade; b) Ou utilizado para um fim diferente da alimentação animal; nesse caso o lote só poderá sair do porto ou do entreposto de armazenagem na condição de os produtos que o compõem não serem incorporados em alimentos para animais; c) Ou sujeito a novo tratamento numa instalação de transformação aprovada nos termos da Directiva 90/667/CEE ou em qualquer empresa aprovada para efeitos de descontaminação; para assegurar o controlo desse lote, a sua saída do porto ou entreposto de armazenagem deverá ser sujeita a uma autorização emitida pela autoridade competente, e o lote só poderá ser levantado depois de tratado e submetido pela autoridade competente, a testes de pesquisa de salmonelas, em conformidade com o disposto no capítulo III do anexo II da Directiva 90/667/CEE, e desde que o resultado desses testes seja negativo."
+  },
+  "7b950dc1c948e4ac": {
+   "fragment_id": "CAPÍTULO 7",
+   "type": "divisao",
+   "heading": "CAPÍTULO 7",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 7"
+  },
+  "41bbc476812c604e": {
+   "fragment_id": "Sangue e produtos derivados de sangue de ungulados e de aves de capoeira",
+   "type": "divisao",
+   "heading": "Sangue e produtos derivados de sangue de ungulados e de aves de capoeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Sangue e produtos derivados de sangue de ungulados e de aves de capoeira"
+  },
+  "5b94b1028fa29e9d": {
+   "fragment_id": "(com excepção de soro de equídeos)",
+   "type": "divisao",
+   "heading": "(com excepção de soro de equídeos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (com excepção de soro de equídeos)"
+  },
+  "c078aca3d44ff650": {
+   "fragment_id": "I. Sangue fresco e produtos derivados do sangue destinados ao consumo humano",
+   "type": "divisao",
+   "heading": "I. Sangue fresco e produtos derivados do sangue destinados ao consumo humano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Sangue fresco e produtos derivados do sangue destinados ao consumo humano"
+  },
+  "ee2001c371dea17f": {
+   "fragment_id": "A. Comércio",
+   "type": "divisao",
+   "heading": "A. Comércio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Comércio\n\n1. O comércio de sangue fresco de ungulados ou de aves de capoeira destinado ao consumo humano fica sujeito às mesmas condições de polícia sanitária que as aplicáveis à carne fresca em conformidade com as Directivas 72/461/CEE ([^19^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0021)), 91/494/CEE ([^20^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0022)) ou 91/495/CEE ([^21^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0023)) do Conselho, respectivamente.\n\n2. O comércio de produtos derivados do sangue destinados ao consumo humano fica sujeito às condições de polícia sanitária previstas no capítulo II da presente directiva."
+  },
+  "32061463d8804f4d": {
+   "fragment_id": "B. Importações",
+   "type": "divisao",
+   "heading": "B. Importações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Importações\n\n1. A importação de sangue fresco de ungulados domésticos destinados ao consumo humano fica proibida em conformidade com a Directiva 72/462/CEE do Conselho ([^22^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0024)). A importação de sangue fresco de aves de capoeira domésticas destinado ao consumo humano fica sujeita às condições de polícia sanitária previstas na Directiva 91/494/CEE. A importação de sangue fresco de caça de criação destinado ao consumo humano fica sujeita às condições de polícia previstas no capítulo 11 do presente anexo.\n\n2. A importação de produtos derivados do sangue destinados ao consumo humano, incluindo os referidos na Directiva 77/99/CEE do Conselho ([^23^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0025)), fica sujeita às mesmas condições de polícia sanitária que as aplicáveis aos produtos à base de carne em conformidade com a Directiva 72/462/CEE ou com a presente directiva, respectivamente, sem prejuízo das normas referidas, no respeitante às proteínas animais transformadas à base de sangue, no capítulo 6 do presente anexo."
+  },
+  "11e398e1c0d500ca": {
+   "fragment_id": "III. Disposições gerais",
+   "type": "divisao",
+   "heading": "III. Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. Disposições gerais\n\nAs normas de execução do presente capítulo serão adoptadas, sempre que necessário, de acordo com o processo previsto no artigo 18.º"
+  },
+  "cb66963de7b49a69": {
+   "fragment_id": "CAPÍTULO 9",
+   "type": "divisao",
+   "heading": "CAPÍTULO 9",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 9"
+  },
+  "96568cef3708a356": {
+   "fragment_id": "Banha e gorduras fundidas destinadas ao consumo humano",
+   "type": "divisao",
+   "heading": "Banha e gorduras fundidas destinadas ao consumo humano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Banha e gorduras fundidas destinadas ao consumo humano\n\n1. Os Estados-membros autorizarão a importação na Comunidade de banha e gorduras fundidas provenientes de países terceiros constantes da lista do anexo à Decisão 79/542/CEE a partir dos quais é autorizada a importação de carne fresca da espécie em questão.\n\n2. No caso de se ter declarado uma doença transmissível grave no período de 12 meses anterior à exportação de um dos países referidos no n.º 1 cada lote de banha ou gorduras fundidas deverá ser acompanhado do certificado previsto no n.º 2 do artigo 10.º da presente directiva, atestando: A. Que a banha ou as gorduras fundidas foram submetidas a um dos tratamentos térmicos seguintes: i) Aquecimento a pelo menos 70 ºC durante um mínimo de 30 minutos; ou ii) Aquecimento a pelo menos 90 ºC durante um mínimo de 15 minutos; ou iii) Aquecimento a uma temperatura mínima de 80 ºC num sistema de fusão contínua; B. No caso de a banha ou as gorduras fundidas serem embaladas, que foram colocadas em recipientes novos e que foram tomadas todas as precauções para evitar uma nova contaminação; C. Se se tencionar transportar o produto a granel, que os tubos, bombas, depósitos e outros contentores ou camiões-cisterna utilizados para o transporte do estabelecimento de produção quer directamente para o navio ou para cisternas de armazenagem em terra quer directamente para estabelecimentos que foram inspeccionados e considerados limpos antes de serem utilizados."
+  },
+  "97665c6a4c8c1257": {
+   "fragment_id": "CAPÍTULO 11",
+   "type": "divisao",
+   "heading": "CAPÍTULO 11",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 11"
+  },
+  "b9593750e05216e3": {
+   "fragment_id": "Carnes de coelho e carnes de caça de criação destinadas ao consumo humano",
+   "type": "divisao",
+   "heading": "Carnes de coelho e carnes de caça de criação destinadas ao consumo humano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Carnes de coelho e carnes de caça de criação destinadas ao consumo humano\n\nOs Estados-membros velarão por que as carnes de coelho e de caça de criação só sejam importadas se:\n\na) Forem provenientes de países terceiros constantes:\n\ni) Da lista dos países a partir dos quais podem ser importadas carnes frescas das espécies correspondentes, nos termos da Directiva 72/462/CEE, no que se refere à caça de criação de pêlo;\n\nii) Da lista dos países a partir dos quais podem ser importadas carnes frescas de aves de capoeira, nos termos da Directiva 91/494/CEE ([^24^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0027)), no que se refere à caça de criação de penas;\n\niii) De uma lista a estabelecer de acordo com o procedimento previsto no artigo 18.º, no que se refere às carnes de coelho;\n\nb) Satisfizerem, pelo menos, as exigências previstas, respectivamente, nos capítulos II e III da Directiva 91/495/CEE ([^25^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#E0028));\n\nc) Forem provenientes de estabelecimentos que ofereçam as garantias previstas na alínea b) e reconhecidas de acordo com o procedimento previsto no artigo 18.º ou, enquanto se aguarda a lista referida na subalínea iii) da alínea a), de estabelecimentos aprovados pelas autoridades competentes;\n\nd) Cada lote de carne for acompanhado do certificado sanitário previsto no n.º 2, alínea c), do artigo 10.º"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "a60e60ef5940de2c": {
+   "fragment_id": "I",
+   "type": "divisao",
+   "heading": "I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I"
+  },
+  "36f301be90a01a2c": {
+   "fragment_id": "VERSÃO CONSOLIDADA DOS ANEXOS A E B DA DIRECTIVA 89/662/CEE",
+   "type": "divisao",
+   "heading": "VERSÃO CONSOLIDADA DOS ANEXOS A E B DA DIRECTIVA 89/662/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VERSÃO CONSOLIDADA DOS ANEXOS A E B DA DIRECTIVA 89/662/CEE"
+  },
+  "25f098001ea1029b": {
+   "fragment_id": "«ANEXO A",
+   "type": "divisao",
+   "heading": "«ANEXO A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## «ANEXO A"
+  },
+  "9bd85a6af2f07d75": {
+   "fragment_id": "LEGISLAÇÃO VETERINÁRIA",
+   "type": "divisao",
+   "heading": "LEGISLAÇÃO VETERINÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LEGISLAÇÃO VETERINÁRIA"
+  },
+  "2d35d299c0a8d109": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CAPÍTULO I\n\n— Directiva 64/433/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas sanitários em matéria de comércio intracomunitário de carne fresca (JO n.º 121 de 29. 7. 1964, p. 2012/64).\n\n— Directiva 71/118/CEE do Conselho, de 15 de Fevereiro de 1971, relativa a problemas sanitários em matéria de comércio de carnes frescas de aves de capoeira (JO n.º L 55 de 8. 3. 1971, p. 23).\n\n— Directiva 72/461/CEE do Conselho, de 12 de Dezembro de 1972, relativa a problemas de polícia sanitária respeitantes a trocas intracomunitárias de carnes frescas (JO n.ºL 302 de 31. 2. 1972, p. 24).\n\n— Directiva 77/99/CEE do Conselho, de 21 de Dezembro de 1976, relativa aos problemas de polícia sanitária em matéria de comércio intracomunitário de produtos à base de carne (JO n.º L 26 de 31. 1. 1977, p. 85).\n\n— Directiva 80/215/CEE do Conselho, de 22 de Janeiro de 1980, relativa aos problemas de polícia sanitária e matéria de trocas comerciais intracomunitárias de produtos à base de carne fresca (JO n.º L 47 de 21. 2. 1980, p. 14).\n\n— Directiva 88/657/CEE do Conselho, de 14 de Dezembro de 1988, que estabelece os requisitos relativos à produção e ao comércio de carne picada e de carne em pedaços de menos de 100 gramas e de preparados de carne (JO n.º L 382 de 31. 12. 1988, p. 3).\n\n— Directiva 89/437/CEE do Conselho, de 20 de Junho de 1989, relativa aos problemas de ordem higiénica e sanitária respeitantes à produção e à colocação no mercado dos ovoprodutos (JO n.º L 212 de 22. 7. 1989, p. 87).\n\n— Directiva 91/67/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem a introdução no mercado de animais e produtos de aquicultura (JO n.º L 46 de 19. 2. 1991, p. 1).\n\n— Directiva 91/492/CEE do Conselho, de 15 de Julho de 1991, que estabelece as normas sanitárias que regem a produção e a colocação no mercado de moluscos bivalves vivos (JO n.º L 268 de 24. 9. 1991, p. 1).\n\n— Directiva 91/493/CEE do Conselho, de 22 de Julho de 1991, que adopta as normas sanitárias relativas à produção e à colocação no mercado dos produtos da pesca (JO n.º L 268 de 24. 9. 1991, p. 15).\n\n— Directiva 91/494/CEE do Conselho, de 26 de Junho de 1991, relativa às condições de polícia sanitária que regem o comércio intracomunitário e as importações provenientes de países terceiros de carnes frescas de capoeira (JO n.º L 268 de 24. 9. 1991, p. 35).\n\n— Directiva 91/495/CEE do Conselho, de 27 de Novembro de 1991, relativa aos problemas sanitários relativos à produção e à colocação no mercado de carnes de coelho e às carnes de caça de criação (JO n.º L 268 de 24. 9. 1991, p. 41).\n\n— Directiva 92/45/CEE do Conselho, de 16 de Junho de 1992, relativa aos problemas sanitários e de polícia sanitária referentes ao abate de caça selvagem e à colocação no mercado das respectivas carnes (JO n.º L 268 de 14. 9. 1992, p. 35).\n\n— Directiva 92/46/CEE do Conselho, de 16 de Junho de 1992, que adopta as normas sanitárias relativas à produção de leite cru, de leite tratado termicamente e de produtos à base de leite e à sua colocação no mercado (JO n.º L 268 de 14. 9. 1992, p. 1)."
+  },
+  "608124465f166eae": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CAPÍTULO II\n\n— Directiva 92/118/CEE do Conselho, de 17 de Dezembro de 1992, que define as condições sanitárias e de polícia sanitária que regem o comércio e as importações na Comunidade de produtos não sujeitos, no que respeita às referidas condições, às regulamentações comunitárias específicas referidas no capítulo I do anexo A da Directiva 89/662/CEE e, no que respeita aos agentes patogénicos na Directiva 90/425/CEE (com exclusão dos agentes patogénicos)."
+  },
+  "c13b99ba13d00e28": {
+   "fragment_id": "ANEXO B",
+   "type": "divisao",
+   "heading": "ANEXO B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B"
+  },
+  "74a174a4223e5029": {
+   "fragment_id": "PRODUTOS NÃO SUJEITOS A HARMONIZAÇÃO COMUNITÁRIA MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA",
+   "type": "divisao",
+   "heading": "PRODUTOS NÃO SUJEITOS A HARMONIZAÇÃO COMUNITÁRIA MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRODUTOS NÃO SUJEITOS A HARMONIZAÇÃO COMUNITÁRIA MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA\n\nOutros produtos de origem animal que não constam nem do anexo A da presente directiva nem do anexo da Directiva 90/425/CEE: estes produtos serão definidos de acordo com o procedimento previsto no artigo 18.^o»^"
+  },
+  "78b73ac45cb85c53": {
+   "fragment_id": "II",
+   "type": "divisao",
+   "heading": "II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II"
+  },
+  "9d4532780b6a5eff": {
+   "fragment_id": "VERSÃO CONSOLIDADA DOS ANEXOS A E B DA DIRECTIVA 90/425/CEE",
+   "type": "divisao",
+   "heading": "VERSÃO CONSOLIDADA DOS ANEXOS A E B DA DIRECTIVA 90/425/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VERSÃO CONSOLIDADA DOS ANEXOS A E B DA DIRECTIVA 90/425/CEE"
+  },
+  "65f14aa49187d775": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CAPÍTULO I"
+  },
+  "b5cd4cb4d5544103": {
+   "fragment_id": "LEGISLAÇÃO VETERINÁRIA",
+   "type": "divisao",
+   "heading": "LEGISLAÇÃO VETERINÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### LEGISLAÇÃO VETERINÁRIA\n\n— Directiva 64/432/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas de fiscalização sanitária em matéria de comércio intracomunitário de animais das espécies bovina e suína (JO n.º L 121 de 29. 7. 1964, p. 1977/64).\n\n— Directiva 88/407/CEE do Conselho, de 14 de Junho de 1988, que fixa as exigências de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações de sémen congelado de animais da espécie bovina (JO n.º L 194 de 22. 7. 1988, p. 10).\n\n— Directiva 89/556/CEE do Conselho, de 25 de Setembro de 1989, que estabelece as condições de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações provenientes de países terceiros de embriões de animais da espécie bovina (JO n.º L 302 de 19. 10. 1989, p. 1).\n\n— Directiva 90/426/CEE do Conselho, de 26 de Junho de 1990, relativa às condições de polícia sanitária que regem a circulação de equídeos e as importações de equídeos provenientes de países terceiros (JO n.º L 224 de 18. 8. 1990, p. 42).\n\n— Directiva 90/429/CEE do Conselho, de 26 de Junho de 1990, que fixa as exigências de polícia sanitária aplicáveis às trocas comerciais intracomunitárias a às importações de sémen de animais da espécie suína (JO n.º L 224 de 18. 8. 1990, p. 62).\n\n— Directiva 90/539/CEE do Conselho, de 15 de Outubro de 1990, relativa às condições de polícia sanitária que regem o comércio intracomunitário e as importações de aves de capoeira e de ovos para incubação provenientes de países terceiros (JO n.º L 303 de 31. 10. 1990, p. 6).\n\n— Directiva 90/667/CEE do Conselho, de 27 de Novembro de 1990, que estabelece as normas sanitárias para a eliminação e a transformação de resíduos animais, para a sua colocação no mercado e para a prevenção da presença de agentes patogénicos nos alimentos par animais de origem animal ou à base de peixe e que altera a Directiva 90/425/CEE (JO n.º L 363 de 27. 12. 1990, p. 51).\n\n— Directiva 91/67/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem a introdução no mercado de animais e produtos da aquicultura (JO n.º L 46 de 19. 2. 1991, p. 1).\n\n— Directiva 91/68/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem as trocas comerciais intracomunitárias de ovinos e caprinos (JO n.º L 46 de 19. 2. 1991, p. 19).\n\n— Directiva 91/628/CEE do Conselho, de 19 de Novembro de 1991, realtiva à protecção dos animais durante o transporte e que altera as directiva 90/425/CEE e 91/496/CEE (JO n.º L 340 de 11. 12. 1991, p. 17).\n\nDirectiva 92/65/CEE do Conselho, de 13 de Julho de 1992, que define as condições de polícia sanitária que regem o comércio e as importações na Comunidade de animais, sémens, óvulos e embriões não sujeitos, no que se refere às condições de polícia sanitária, às regulamentações comunitárias específicas referidas na secção I do anexo A da Directiva 90/425/CEE (JO n.º L 268 de 14. 9. 1992, p. 54).\n\n— Para os agentes patogénicos\n\nDirectiva 92/118/CEE do Conselho, de 17 de Dezembro de 1992, que define as condições sanitárias e de polícia sanitária que regem o comércio e as importações na Comunidade de produtos não sujeitos, no que respeita às referidas condições, às regulamentações comunitárias específicas referidas no capítulo I do anexo A da Directiva 89/662/CEE e, no que respeita aos agentes patogénicos, no capítulo I do anexo A da Directiva 90/425/CEE."
+  },
+  "121e803aa0ba200d": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CAPÍTULO II"
+  },
+  "56b083bd2321d65a": {
+   "fragment_id": "LEIGISLAÇÃO ZOOTÉCNICA",
+   "type": "divisao",
+   "heading": "LEIGISLAÇÃO ZOOTÉCNICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### LEIGISLAÇÃO ZOOTÉCNICA\n\n— Directiva 77/504/CEE do Conselho, de 25 de Julho de 1977, que diz respeito aos animais da espécie bovina reprodutores de raça pura (JO n.º L 206 de 12. 8. 1977, p. 8).\n\n— Directiva 88/661/CEE do Conselho, de 19 de Dezembro de 1988, relativa às normas zootécnicas aplicáveis aos animais reprodutores da espécie suína (JO n.º L 382 de 31. 12. 1988, p. 36).\n\n— Directiva 89/361/CEE do Conselho, de 30 de Maio de 1989, relativa aos animais reprodutores das espécies ovina e caprina (JO n.º L 153 de 6. 6. 1989, p. 30).\n\n— Directiva 90/427/CEE do Conselho, de 26 de Junho de 1990, relativa às condições zootécnicas e genealógicas que regem o comércio intracomunitário de equídeos (JO n.º L 224 de 18. 8. 1990, p. 55).\n\n— Directiva 91/174/CEE do Conselho, de 25 de Março de 1991, relativa às condições zootécnicas e genealógicas que regem a comercialização de animais de raça e que altera as directivas 77/504/CEE e 90/425/CEE (JO n.º L 85 de 5. 4. 1991, p. 37)."
+  },
+  "f3d8473ba76e5fe9": {
+   "fragment_id": "ANIMAIS REPRODUTORES NÃO SUJEITOS A HARMONIZAÇÃO MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA",
+   "type": "divisao",
+   "heading": "ANIMAIS REPRODUTORES NÃO SUJEITOS A HARMONIZAÇÃO MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ANIMAIS REPRODUTORES NÃO SUJEITOS A HARMONIZAÇÃO MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS NA PRESENTE DIRECTIVA"
+  },
+  "1a3e02a3bc75f1c4": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CAPÍTULO I\n\nLegislação veterinária — Outros animais vivos que não constam do capítulo I do anexo A."
+  },
+  "bcf8165691c2bf7e": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CAPÍTULO II\n\nLegislação veterinária — Sémens, óvulos e embriões que não constam do capítulo I do anexo A.»\n\n---"
+  },
+  "1e553bc627370b7a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0001)) JO n.º C 327 de 30. 12. 1989, p. 29 e JO n.º C 84 de 2. 4. 1990, p. 102.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0002)) JO n.º C 113 de 7. 5. 1990, p. 205 e JO n.º C 149 de 18. 6. 1990, p. 259.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0003)) JO n.º C 124 de 21. 5. 1990, p. 15 e JO n.º C 182 de 23. 7. 1990, p. 250.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0004)) JO n.º L 373 de 31. 12. 1990, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0005)) JO n.º L 395 de 30. 12. 1989, p. 13. Com a última redacção que lhe foi dada pela Directiva 91/496/CEE (JO n.º L 268 de 24. 9. 1991, p. 56).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0006)) JO n.º L 378 de 31. 12. 1982, p. 58. Com a última redacção que lhe foi dada pela Decisão 90/134/CEE (JO n.º L 76 de 22. 3. 1990, p. 23).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0007)) JO n.º L 373 de 31. 12. 1990, p. 26.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0008)) JO n.º L 26 de 31. 1. 1977, p. 85. Actualizada pela Directiva 92/5/CEE (JO n.º L 57 de 2. 3. 1992, p. 1) e com a última redacção que lhe foi dada pela Directiva 92/45/CEE (JO n.º L 268 de 14. 9. 1992, p. 35.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0009)) JO n.º L 268 de 14. 9. 1992, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0010)) JO n.º L 268 de 24. 9. 1991, p. 56.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0011)) JO n.º L 302 de 31. 12. 1972, p. 24. Com a última redacção que lhe foi dada pela Directiva 91/687/CEE (JO n.º L 377 de 31. 12. 1991, p. 16).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0012)) JO n.º L 84 de 31. 3. 1992, p. 33.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0013)) JO n.º L 87 de 2. 4. 1992, p. 20.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0014)) JO n.º L 62 de 15. 3. 1993, p. 49.»\n\n> ([^15^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0015)) JO n.º L 255 de 18. 10. 1968, p. 23.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0016)) JO n.º 121 de 29. 7. 1964, p. 2012/64. Com a última redacção que lhe foi dada pela Directiva 91/497/CEE (JO n.º L 268 de 24. 9. 1991, p. 69).\n\n> ([^17^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0019)) JO n.º L 47 de 21. 2. 1980, p. 4. Com a última redacção que lhe foi dada pela Directiva 91/687/CEE (JO n.º L 377 de 31. 12. 1991, p. 16).\n\n> ([^18^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0020)) JO n.º L 302 de 31. 12. 1972, p. 28. Com a última redacção que lhe foi dada pela Directiva 91/688/CEE (JO n.º L 377 de 31. 12. 1991, p. 18).\n\n> ([^19^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0021)) JO n.º L 302 de 31. 12. 1972, p. 24.\n\n> ([^20^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0022)) JO n.º L 268 de 24. 9. 1991, p. 35.\n\n> ([^21^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0023)) JO n.º L 268 de 24. 9. 1991, p. 41.\n\n> ([^22^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0024)) JO n.º L 302 de 31. 12. 1972, p. 28.\n\n> ([^23^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0025)) JO n.º L 26 de 31. 1. 1977, p. 85.\n\n> ([^24^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0027)) JO n.º L 268 de 24. 9. 1991, p. 35.\n\n> ([^25^](http://publications.europa.eu/resource/cellar/96ba7adb-7340-40d9-ab8b-cb74ad1f2c26.0010.02/DOC_1#src.E0028)) JO n.º L 268 de 24. 9. 1991, p. 41."
+  },
+  "eb209089119f47aa": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Dezembro de 1992\n\nque define as condições sanitárias e de polícia sanitária que regem o comércio e as importações na Comunidade de produtos não sujeitos, no que respeita às referidas condições, às regulamentações comunitárias específicas referidas no capítulo I do anexo A da Directiva 89/662/CEE e, no que respeita aos agentes patogénicos, da Directiva 90/425/CEE\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43.º,\n\nTendo em conta as propostas da Comissão ([^1^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0001)),\n\nTendo em conta os pareceres do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0002)),\n\nTendo em conta os pareceres do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0003)),\n\nConsiderando que os animais vivos e os produtos de origem animal estão incluídos na lista de produtos enumerados no anexo II do Tratado; que a colocação desses animais e produtos no mercado constitui uma fonte importante de rendimento da população agrícola;\n\nConsiderando que, para assegurar um desenvolvimento racional deste sector e aumentar a sua produtividade, há que fixar, a nível comunitário, regras de polícia sanitária para os animais e produtos em questão;\n\nConsiderando que a Comunidade deve adoptar as medidas destinadas a estabelecer progressivamente o mercado interno, durante um período que termina em 31 de Dezembro de 1992;\n\nConsiderando que a prossecução dos objectivos anteriormente referidos levou o Conselho a fixar regras de polícia sanitária relativas aos bovinos, aos suínos, aos ovinos e caprinos, aos equídeos, às aves de capoeira e ovos para incubação, aos peixes e produtos da pesca, aos moluscos bivalves, ao sémen de bovinos e suínos, aos embriões de bovinos, às carnes frescas, à carne de aves de capoeira, aos produtos à base de carne, às carnes de caça e de coelho e aos lacticínios;\n\nConsiderando que, salvo disposições em contrário, o comércio de produtos de origem animal deve ser liberalizado, sem prejuízo do recurso a eventuais medidas de salvaguarda;\n\nConsiderando que, devido a riscos notórios de propagação das doenças a que os animais estão expostos, há que especificar, em relação a certos produtos de origem animal, as exigências especiais a impor no momento da sua colocação no mercado para fins de comércio, nomeadamente com destino a regiões que disponham de um estatuto sanitário elevado;\n\nConsiderando que, aquando da adopção da Directiva 92/65/CEE, a Comissão aceitou dissociar os aspectos de polícia sanitária aplicáveis aos animais dos aplicáveis aos produtos;\n\nConsiderando que, para permitir a supressão dos controlos nas fronteiras entre Estados-membros em 1 de Janeiro de 1993, é necessário fixar as regras sanitárias e de polícia sanitária aplicáveis ao conjunto dos produtos sujeitos a esses controlos, cujo comércio ou importação ainda não foram objecto de harmonização a nível comunitário;\n\nConsiderando que, para realizar esse objectivo, é necessário adaptar certas regulamentações existentes para a adopção das medidas acima referidas;\n\nConsiderando que pareceu oportuno prever um processo de aprovação dos países terceiros e dos estabelecimentos que satisfazem as condições fixadas na presente directiva, bem como um processo de inspecção comunitária para velar pelo cumprimento das condições previstas para essas aprovação;\n\nConsiderando que o documento de acompanhamento dos produtos constitui o meio mais adequado de fornecer às autoridades competentes do local de destino a garantia de que determinada remessa cumpre as disposições da presente directiva; que convém manter o certificado sanitário ou de salubridade para controlar o destino de certos produtos importados;\n\nConsiderando que as regras, princípios e medidas de salvaguarda estabelecidos pela Directiva 90/675/CEE do Conselho, de 10 de Dezembro de 1990, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade ([^4^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0004)), devem-se aplicar ao caso presente;\n\nConsiderando que, no contexto do comércio intracomunitário, as regras estabelecidas pela Directiva 89/662/CEE devem ser igualmente aplicáveis;\n\nConsiderando que a Comissão deve ser incumbida da adopção de determinadas medidas de execução da presente directiva; que, com esse objectivo, devem ser adoptados processos que estabeleçam uma cooperação estreita e eficaz entre a Comissão e os Estados-membros no âmbito do Comité Veterinário Permanente;\n\nConsiderando que, devido a dificuldades de abastecimento especiais relacionadas com a situação geográfica da República Helénica, é conveniente prever disposições derrogatórias especiais para este Estado-membro;\n\nConsiderando que a adopção de regras específicas para os produtos abrangidos pela presente directiva não afecta a adopção de regras para a higiene e a segurança alimentar em geral, em relação às quais a Comissão apresentou uma proposta de directiva-quadro,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "78f26c5f15c974a1": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva define as condições sanitárias e de polícia sanitária que regem o comércio e as importações na Comunidade de produtos de origem animal (incluindo amostras comerciais colhidas desses produtos) não sujeitos, no que respeita às referidas condições, às regulamentações comunitárias específicas referidas no capítulo I do anexo A da Directiva 89/662/CEE ([^5^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0005)) e, no que respeita aos agentes patogénicos, da Directiva 90/425/CEE.\n\nA presente directiva não prejudica a adopção de exigências mais particularizadas em matéria de polícia sanitária no âmbito das regulamentações específicas acima referidas nem a manutenção de restrições ao comércio ou às importações de produtos abrangidos pelas regulamentações específicas referidas no primeiro parágrafo por motivo de exigências de saúde pública."
+  },
+  "f4b3eecb8e084645": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Para efeitos da presente directiva, entende-se por:\n\na) *Comércio*: o comércio tal como definido no n.º 2 do artigo 2.º da Directiva 89/662/CEE;\n\nb) *Amostra comercial*: uma amostra sem qualquer valor comercial colhida em nome do proprietário ou do responsável por um estabelecimento, que seja representativa de uma dada produção de produtos de origem animal desse estabelecimento ou que constitua um modelo de um produto de origem animal que se tencione fabricar e que, para efeitos de análise posterior, deve conter a indicação do tipo de produto, da sua composição e da espécie animal de onde foi obtido;\n\nc) *Doença transmissível grave*: qualquer doença prevista na Directiva 82/894/CEE ([^6^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0006))\n\nd) *Agentes patogénicos*: qualquer conjunto ou cultura de organismos ou qualquer seu derivado, quer isolado quer sob forma recombinada, que possa provocar uma doença em qualquer ser vivo (com excepção do homem), e todos os derivados modificados desses organismos que possam ser portadores ou transmitir um agente patogénico animal, ou o tecido, cultura celular, secreções ou excreções pelos quais ou através dos quais possa ser transportado ou transmitido um agente patogénico animal; esta definição não inclui os medicamentos veterinários imunológicos autorizados pela Directiva 90/677/CEE ([^7^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0007));\n\nf) *Proteínas animais transformadas destinadas ao consumo humano*: os torresmos, a farinha de carne e o courato em pó referidos na alínea b) do artigo 2.º da Directiva 77/99/CEE ([^8^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0008));\n\n2. Além destas, são aplicáveis *mutatis mutandis* as definições previstas no artigo 2.º das directivas 89/662/CEE, 90/425/CEE e 90/675/CEE."
+  },
+  "4b06d79d37debdb8": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAditar o seguinte parágrafo no capítulo I, ponto 1 do anexo A da Directiva 92/46/CEE ([^9^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0009)):\n\n«O leite e os produtos à base de leite não devem provir de uma zona de vigilância delimitada por força da Directiva 85/511/CEE, excepto se o leite tiver sido submetido a pasteurização (71,7 oC durante 15 segundos) sob o controlo da autoridade competente.»"
+  },
+  "c3a480c5082f2e7b": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Os princípios e regras previstos nas directivas 90/675/CEE e 91/496/CEE ([^10^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0010)), aplicam-se, nomeadamente, no que se refere à organização dos controlos a efectuar pelos Estados-membros e ao seguimento a dar a esses controlos, bem como às medidas de salvaguarda a aplicar.\n\nTodavia, de acordo com procedimento previsto no artigo 18.º e em relação a determinados tipos de produtos de origem animal, pode-se derrogar o controlo físico previsto no [**►M9**](http://publications.europa.eu/resource/celex/31997L0079) n.º 4, alínea b), do artigo 4.º da Directiva 97/78/CE**◄**."
+  },
+  "301c6ca8c7935725": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. É revogada a alínea d) do artigo 3.º da Directiva 72/461/CEE ([^11^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0011)).\n\nAs decisões 92/183/CEE ([^12^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0012)) e 92/187/CEE ([^13^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0013)) da Comissão continuam a ser aplicáveis para efeitos da presente directiva, sem prejuízo de eventuais alterações a introduzir de acordo com o procedimento previsto no artigo 18.º\n\n2. A Directiva 90/667/CEE é alterada do seguinte modo:\n\na) No artigo 13.º, é aditado o seguinte número:\n\n2.«2. A fim de assegurar o acompanhamento dos controlos previstos no n.º 1:\n\na) Os produtos transformados obtidos a partir de matérias de baixo risco e as matérias de alto risco deverão satisfazer as exigências do capítulo 6 do anexo I da Directiva 92/118/CEE ([^14^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0014));\n\nb) As matérias de baixo risco, as matérias de alto risco tratadas num estabelecimento de outro Estado-membro designado nos termos da segunda frase do artigo 4.º e os produtos transformados a partir de matérias de alto risco ou de baixo risco deverão ser acompanhadas:\n\n— caso provenham de um estabelecimento aprovado nos termos do artigo 4.º, de um documento comercial que especifique:\n\n— se for caso disso, a natureza do tratamento,\n\n— se o produto contém proteínas provenientes de ruminantes;\n\n— caso provenham doutro estabelecimento, de um certificado emitido e assinado por um veterinário oficial que indique:\n\n— os métodos de tratamento do lote,\n\n— o resultado dos testes de pesquisa de salmonetes,\n\n— se o produto contém proteínas provenientes de ruminantes.\n\nb) No artigo 6.º, os termos «serão determinados de acordo com o procedimento previsto no artigo 19.º» são substituídos pelos termos «estão fixados na capítulo 10 do anexo I da Directiva 92/118/CEE».\n\nc) O primeiro parágrafo do artigo 14.º é suprimido."
+  },
+  "5a510318b7d5f9e8": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Os Estados-membros estão autorizados a subordinar à apresentação de um certificado sanitário e/ou de um certificado de salubridade que ateste o cumprimento das exigências da presente directiva, a introdução no seu território de produtos de origem animal referidos no[**►M17**](http://publications.europa.eu/resource/celex/32004L0041) [**►C1**](http://publications.europa.eu/resource/celex/32004L0041R%2801%29) anexo I**◄** **◄** nos segundo e terceiro travessões do artigo 3.º, obtidos no território de um Estado-membro, que tenham transitado pelo território de um país terceiro.\n\n2. Os Estados-membros que recorram à faculdade prevista no n.º 1 participá-lo-ão à Comissão e aos restantes Estados-membros no seio do Comité Veterinário Permanente, instituído pela Decisão 68/361/CEE ([^15^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0015))."
+  },
+  "9b691670e5c9aa50": {
+   "fragment_id": "A. Comércio",
+   "type": "divisao",
+   "heading": "A. Comércio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Comércio\n\nO comércio de tripas de animais está subordinado à apresentação de um documento que especifique o estabelecimento de origem, o qual deverá ser:\n\n— sempre que as tripas sejam salgadas ou secas na origem e no caso de as tripas salgadas ou secas serem seguidamente manipuladas, um estabelecimento aprovado pela autoridade competente,\n\n— nos outros casos, um estabelecimento aprovado em conformidade com a Directiva 64/433/CEE ([^16^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0016)), devendo as tripas ser transportadas por forma a evitar a contaminação."
+  },
+  "1268df247fbd5436": {
+   "fragment_id": "Ossos e produtos à base de osso (com exclusão da farinha de osso), chifres e produtos à base de chifre (com exclusão da farinha de chifre) unhas e cascos e produtos à base de cascos (com exclusão da farinha de casco)[►M12](http://publications.europa.eu/resource/celex/32002L0033) destinados ao consumo humano◄",
+   "type": "divisao",
+   "heading": "Ossos e produtos à base de osso (com exclusão da farinha de osso), chifres e produtos à base de chifre (com exclusão da farinha de chifre) unhas e cascos e produtos à base de cascos (com exclusão da farinha de casco)[►M12](http://publications.europa.eu/resource/celex/32002L0033) destinados ao consumo humano◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Ossos e produtos à base de osso (com exclusão da farinha de osso), chifres e produtos à base de chifre (com exclusão da farinha de chifre) unhas e cascos e produtos à base de cascos (com exclusão da farinha de casco)[►M12](http://publications.europa.eu/resource/celex/32002L0033) destinados ao consumo humano◄\n\nO comércio e as importações dos produtos em questão estão sujeitos às seguintes condições:\n\n1. No que se refere ao comércio, os ossos, os chifres e os cascos e unhas estão sujeitos às condições de polícia sanitária previstas na Directiva 72/461/CEE;\n\n2. No que se refere ao comércio, os produtos à base de osso, os produtos à base de chifre e os produtos à base de cascos estão sujeitos às condições de polícia sanitária previstas na Directiva 80/215/CEE ([^17^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0019));\n\n3. No que se refere às importações, os ossos, os produtos à base de osso, os chifres, os produtos à base de chifre, os cascos e os produtos à base de cascos estão sujeitos às condições previstas na Directiva 72/462/CEE ([^18^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0020))."
+  },
+  "28cb8f04ae566b84": {
+   "fragment_id": "A. Comércio",
+   "type": "divisao",
+   "heading": "A. Comércio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Comércio\n\n1. O comércio de sangue fresco de ungulados ou de aves de capoeira destinado ao consumo humano fica sujeito às mesmas condições de polícia sanitária que as aplicáveis à carne fresca em conformidade com as Directivas 72/461/CEE ([^19^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0021)), 91/494/CEE ([^20^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0022)) ou 91/495/CEE ([^21^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0023)) do Conselho, respectivamente.\n\n2. O comércio de produtos derivados do sangue destinados ao consumo humano fica sujeito às condições de polícia sanitária previstas no capítulo II da presente directiva."
+  },
+  "155283ef19495533": {
+   "fragment_id": "B. Importações",
+   "type": "divisao",
+   "heading": "B. Importações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Importações\n\n1. A importação de sangue fresco de ungulados domésticos destinados ao consumo humano fica proibida em conformidade com a Directiva 72/462/CEE do Conselho ([^22^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0024)). A importação de sangue fresco de aves de capoeira domésticas destinado ao consumo humano fica sujeita às condições de polícia sanitária previstas na Directiva 91/494/CEE. A importação de sangue fresco de caça de criação destinado ao consumo humano fica sujeita às condições de polícia previstas no capítulo 11 do presente anexo.\n\n2. A importação de produtos derivados do sangue destinados ao consumo humano, incluindo os referidos na Directiva 77/99/CEE do Conselho ([^23^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0025)), fica sujeita às mesmas condições de polícia sanitária que as aplicáveis aos produtos à base de carne em conformidade com a Directiva 72/462/CEE ou com a presente directiva, respectivamente, sem prejuízo das normas referidas, no respeitante às proteínas animais transformadas à base de sangue, no capítulo 6 do presente anexo."
+  },
+  "0e1e4354a0ac62ec": {
+   "fragment_id": "Carnes de coelho e carnes de caça de criação destinadas ao consumo humano",
+   "type": "divisao",
+   "heading": "Carnes de coelho e carnes de caça de criação destinadas ao consumo humano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Carnes de coelho e carnes de caça de criação destinadas ao consumo humano\n\nOs Estados-membros velarão por que as carnes de coelho e de caça de criação só sejam importadas se:\n\na) Forem provenientes de países terceiros constantes:\n\ni) Da lista dos países a partir dos quais podem ser importadas carnes frescas das espécies correspondentes, nos termos da Directiva 72/462/CEE, no que se refere à caça de criação de pêlo;\n\nii) Da lista dos países a partir dos quais podem ser importadas carnes frescas de aves de capoeira, nos termos da Directiva 91/494/CEE ([^24^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0027)), no que se refere à caça de criação de penas;\n\niii) De uma lista a estabelecer de acordo com o procedimento previsto no artigo 18.º, no que se refere às carnes de coelho;\n\nb) Satisfizerem, pelo menos, as exigências previstas, respectivamente, nos capítulos II e III da Directiva 91/495/CEE ([^25^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#E0028));\n\nc) Forem provenientes de estabelecimentos que ofereçam as garantias previstas na alínea b) e reconhecidas de acordo com o procedimento previsto no artigo 18.º ou, enquanto se aguarda a lista referida na subalínea iii) da alínea a), de estabelecimentos aprovados pelas autoridades competentes;\n\nd) Cada lote de carne for acompanhado do certificado sanitário previsto no n.º 2, alínea c), do artigo 10.º"
+  },
+  "f507db8e4e821628": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0001)) JO n.º C 327 de 30. 12. 1989, p. 29 e JO n.º C 84 de 2. 4. 1990, p. 102.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0002)) JO n.º C 113 de 7. 5. 1990, p. 205 e JO n.º C 149 de 18. 6. 1990, p. 259.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0003)) JO n.º C 124 de 21. 5. 1990, p. 15 e JO n.º C 182 de 23. 7. 1990, p. 250.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0004)) JO n.º L 373 de 31. 12. 1990, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0005)) JO n.º L 395 de 30. 12. 1989, p. 13. Com a última redacção que lhe foi dada pela Directiva 91/496/CEE (JO n.º L 268 de 24. 9. 1991, p. 56).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0006)) JO n.º L 378 de 31. 12. 1982, p. 58. Com a última redacção que lhe foi dada pela Decisão 90/134/CEE (JO n.º L 76 de 22. 3. 1990, p. 23).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0007)) JO n.º L 373 de 31. 12. 1990, p. 26.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0008)) JO n.º L 26 de 31. 1. 1977, p. 85. Actualizada pela Directiva 92/5/CEE (JO n.º L 57 de 2. 3. 1992, p. 1) e com a última redacção que lhe foi dada pela Directiva 92/45/CEE (JO n.º L 268 de 14. 9. 1992, p. 35.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0009)) JO n.º L 268 de 14. 9. 1992, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0010)) JO n.º L 268 de 24. 9. 1991, p. 56.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0011)) JO n.º L 302 de 31. 12. 1972, p. 24. Com a última redacção que lhe foi dada pela Directiva 91/687/CEE (JO n.º L 377 de 31. 12. 1991, p. 16).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0012)) JO n.º L 84 de 31. 3. 1992, p. 33.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0013)) JO n.º L 87 de 2. 4. 1992, p. 20.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0014)) JO n.º L 62 de 15. 3. 1993, p. 49.»\n\n> ([^15^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0015)) JO n.º L 255 de 18. 10. 1968, p. 23.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0016)) JO n.º 121 de 29. 7. 1964, p. 2012/64. Com a última redacção que lhe foi dada pela Directiva 91/497/CEE (JO n.º L 268 de 24. 9. 1991, p. 69).\n\n> ([^17^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0019)) JO n.º L 47 de 21. 2. 1980, p. 4. Com a última redacção que lhe foi dada pela Directiva 91/687/CEE (JO n.º L 377 de 31. 12. 1991, p. 16).\n\n> ([^18^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0020)) JO n.º L 302 de 31. 12. 1972, p. 28. Com a última redacção que lhe foi dada pela Directiva 91/688/CEE (JO n.º L 377 de 31. 12. 1991, p. 18).\n\n> ([^19^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0021)) JO n.º L 302 de 31. 12. 1972, p. 24.\n\n> ([^20^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0022)) JO n.º L 268 de 24. 9. 1991, p. 35.\n\n> ([^21^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0023)) JO n.º L 268 de 24. 9. 1991, p. 41.\n\n> ([^22^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0024)) JO n.º L 302 de 31. 12. 1972, p. 28.\n\n> ([^23^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0025)) JO n.º L 26 de 31. 1. 1977, p. 85.\n\n> ([^24^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0027)) JO n.º L 268 de 24. 9. 1991, p. 35.\n\n> ([^25^](http://publications.europa.eu/resource/cellar/180b0d41-c00a-4151-8271-fa28cdbc6b19.0018.03/DOC_1#src.E0028)) JO n.º L 268 de 24. 9. 1991, p. 41."
+  }
+ }
+}

@@ -34,6 +34,110 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-12-15'
+version_history:
+  file: diretiva-ue-1990-434.versoes.json
+  count: 4
+  source_lastmod: '2009-12-15'
+  versions:
+  - date: '1990-08-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-03-24'
+    amending: eu:celex:32005L0019:por
+    amending_title: DIRECTIVA 2005/19/CE DO CONSELHO de 17 de Fevereiro de 2005; Acto de Adesão da Áustria, da Finlândia e
+      da Suécia; Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre,
+      da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia,
+      da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita TÍTULO I
+    - Adita Disposições gerais
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita TÍTULO II
+    - Adita Regras aplicáveis às fusões, cisões, cisões parciais e permutas de acções
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita TÍTULO III
+    - Adita Regras aplicáveis às entradas de activos
+    - Adita Artigo 9.º
+    - Adita TÍTULO IV
+    - Adita Caso especial da transferência de um estabelecimento estável
+    - Adita Artigo 10.º
+    - Adita TÍTULO IV-A
+    - Adita Caso Especial das Entidades Transparentes
+    - Adita Artigo 10.ºA
+    - Adita TÍTULO IV-B
+    - Adita Regras aplicáveis à transferência da sede de uma SE ou de uma SCE
+    - Adita Artigo 10.ºB
+    - Adita Artigo 10.ºC
+    - Adita Artigo 10.ºD
+    - Adita TÍTULO V
+    - Adita Disposições finais
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita ANEXO
+    - Adita LISTA DAS SOCIEDADES REFERIDAS NA ALÍNEA A) DO ARTIGO 3.º
+    - Adita Notas
+    - Suprime TÍTULO I — Disposições gerais
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º — Para efeitos da presente directiva, entende-se por
+    - Suprime Artigo 3º
+    - Suprime TÍTULO II — Regras aplicáveis às fusões, cisões e permutas de acções
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0098:por
+    amending_title: DIRECTIVA 2006/98/CE DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera LISTA DAS SOCIEDADES REFERIDAS NA ALÍNEA A) DO ARTIGO 3.º
+    - Altera Notas
+  - date: '2009-12-15'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime Disposições gerais
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime TÍTULO II
+    - Suprime Regras aplicáveis às fusões, cisões, cisões parciais e permutas de acções
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime TÍTULO III
+    - Suprime Regras aplicáveis às entradas de activos
+    - Suprime Artigo 9.º
+    - Suprime TÍTULO IV
+    - Suprime Caso especial da transferência de um estabelecimento estável
+    - Suprime Artigo 10.º
+    - Suprime TÍTULO IV-A
+    - Suprime Caso Especial das Entidades Transparentes
+    - Suprime Artigo 10.ºA
+    - Suprime TÍTULO IV-B
+    - Suprime Regras aplicáveis à transferência da sede de uma SE ou de uma SCE
+    - Suprime Artigo 10.ºB
+    - Suprime Artigo 10.ºC
+    - Suprime Artigo 10.ºD
+    - Suprime TÍTULO V
+    - Suprime Disposições finais
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime ANEXO
+    - Suprime LISTA DAS SOCIEDADES REFERIDAS NA ALÍNEA A) DO ARTIGO 3.º
+    - Suprime Notas
 identifiers:
   celex: 31990L0434
   eli: http://data.europa.eu/eli/dir/1990/434/oj
@@ -48,7 +152,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/93e50eec-3780-4466-989e-c276cd589e90.0011
   content_url: http://publications.europa.eu/resource/cellar/28afafa7-27d1-4e34-9b96-bc1ed645a328.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0434-20091215
-  retrieved_at: '2026-10-22T02:38:52Z'
+  retrieved_at: '2026-10-22T14:36:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T00:11:30.456+01:00'
 integrity:
@@ -57,9 +161,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:52Z'
-  notes: Texto consolidado 01990L0434-20091215.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:36:58Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1990-434.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -221,16 +325,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:52Z'
+  checked_at: '2026-10-22T14:36:58Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01990L0434-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0434-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

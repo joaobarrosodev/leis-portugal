@@ -34,6 +34,106 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-06-16'
+version_history:
+  file: regulamento-ue-1968-1612.versoes.json
+  count: 3
+  source_lastmod: '2011-06-16'
+  versions:
+  - date: '1968-10-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-04-30'
+    amending: eu:celex:31976R0312:por
+    amending_title: REGULAMENTO (CEE) N. o 312/76 DO CONSELHO de 9 de Fevereiro de 1976; REGULAMENTO (CEE) N. o 2434/92 DO
+      CONSELHO de 27 de Julho de 1992; DIRECTIVA 2004/38/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Abril de 2004
+    changes:
+    - Altera preambulo
+    - Altera PARTE III
+    - Adita PARTE I
+    - Adita DO EMPREGO E DA FAMÍLIA DOS TRABALHADORES
+    - Adita TÍTULO I
+    - Adita Do acesso ao emprego
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita TÍTULO II
+    - Adita Do exercício do emprego e da igualdade de tratamento
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita TÍTULO III
+    - Adita Da família dos trabalhadores
+    - Adita Artigo 12.º
+    - Adita PARTE II
+    - Adita DO CONTACTO E COMPENSAÇÃO DAS OFERTAS E PEDIDOS DE EMPREGO
+    - Adita Da colaboração entre os Estados-membros e com a Comissão
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Do mecanismo de compensação
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Das medidas reguladoras do equilíbrio no mercado de trabalho
+    - Adita Artigo 19.º
+    - Adita TÍTULO IV
+    - Adita Do Gabinete Europeu de Coordenação
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita DOS ORGANISMOS ENCARREGADOS DE ASSEGURAR UMA ESTREITA COLABORAÇÃO ENTRE OS ESTADOS-MEMBROS EM MATÉRIA DE LIVRE
+      CIRCULAÇÃO E DE EMPREGO DOS TRABALHADORES
+    - Adita Do Comité Consultivo
+    - Adita Artigo 24.º
+  - date: '2011-06-16'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime PARTE I
+    - Suprime DO EMPREGO E DA FAMÍLIA DOS TRABALHADORES
+    - Suprime TÍTULO I
+    - Suprime Do acesso ao emprego
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime TÍTULO II
+    - Suprime Do exercício do emprego e da igualdade de tratamento
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime TÍTULO III
+    - Suprime Da família dos trabalhadores
+    - Suprime Artigo 12.º
+    - Suprime PARTE II
+    - Suprime DO CONTACTO E COMPENSAÇÃO DAS OFERTAS E PEDIDOS DE EMPREGO
+    - Suprime Da colaboração entre os Estados-membros e com a Comissão
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Do mecanismo de compensação
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Das medidas reguladoras do equilíbrio no mercado de trabalho
+    - Suprime Artigo 19.º
+    - Suprime TÍTULO IV
+    - Suprime Do Gabinete Europeu de Coordenação
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime PARTE III
+    - Suprime DOS ORGANISMOS ENCARREGADOS DE ASSEGURAR UMA ESTREITA COLABORAÇÃO ENTRE OS ESTADOS-MEMBROS EM MATÉRIA DE LIVRE
+      CIRCULAÇÃO E DE EMPREGO DOS TRABALHADORES
+    - Suprime Do Comité Consultivo
+    - Suprime Artigo 24.º
 identifiers:
   celex: 31968R1612
   eli: http://data.europa.eu/eli/reg/1968/1612/oj
@@ -48,7 +148,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5c4de932-dfc6-4d62-b9f3-9c763832d04a.0011
   content_url: http://publications.europa.eu/resource/cellar/aca9c85e-ea9c-4c9b-8b97-e7ba08d020b7.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01968R1612-20110616
-  retrieved_at: '2026-10-22T02:43:44Z'
+  retrieved_at: '2026-10-22T14:29:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T21:53:34.664+01:00'
 integrity:
@@ -57,9 +157,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:44Z'
-  notes: Texto consolidado 01968R1612-20110616.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:29:23Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1968-1612.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -540,16 +640,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:44Z'
+  checked_at: '2026-10-22T14:29:23Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01968R1612-19920827: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

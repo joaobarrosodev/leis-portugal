@@ -1,0 +1,673 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31995L0070:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0070-20080801",
+ "dre_path": null,
+ "source_lastmod": "2008-08-01",
+ "versions": [
+  {
+   "date": "1995-12-30",
+   "future": false,
+   "celex": "31995L0070",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "24090a7630eea4c9",
+    "b8fc58b05d02036c",
+    "067e67963929c1b7",
+    "e40fd68f073306fa",
+    "1f9b1d52980250f1",
+    "cfa85384642a5f81",
+    "84e9d71b9f230258",
+    "88a436e5df9c1e23",
+    "8fedb1a454f42bc3",
+    "044c5a39cf8abcc6",
+    "905f373784c657f0",
+    "e938d4cd012c64a5",
+    "adff20fe07c1974e",
+    "cb7dac4285b7f086",
+    "83f553adc0cbb0d4",
+    "42c4d65a3e37498c",
+    "f98ab08217668b44",
+    "ee28de544ebfb62e",
+    "54b1ae9315d7c208"
+   ]
+  },
+  {
+   "date": "2006-12-12",
+   "future": false,
+   "celex": "01995L0070-20061212",
+   "acts": [
+    {
+     "id": "eu:celex:32001D0293:por",
+     "title": "M1",
+     "published": null,
+     "celex": "32001D0293"
+    },
+    {
+     "id": "eu:celex:32003D0083:por",
+     "title": "M2",
+     "published": null,
+     "celex": "32003D0083"
+    },
+    {
+     "id": "eu:celex:32003R0806:por",
+     "title": "REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003",
+     "published": null,
+     "celex": "32003R0806"
+    },
+    {
+     "id": "eu:celex:32006D0775:por",
+     "title": "DECISÃO DA COMISSÃO de 13 de Novembro de 2006",
+     "published": null,
+     "celex": "32006D0775"
+    },
+    {
+     "id": "eu:celex:32006D0911:por",
+     "title": "DECISÃO DA COMISSÃO de 5 de Dezembro de 2006",
+     "published": null,
+     "celex": "32006D0911"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita ANEXO A",
+    "Adita LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES",
+    "Adita ANEXO B",
+    "Adita FUNÇÕES E ATRIBUIÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS",
+    "Adita ANEXO C",
+    "Adita ANEXO D",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime ANEXO A — LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES",
+    "Suprime ANEXO B — FUNÇÕES E ATRIBUIÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS",
+    "Suprime ANEXO C — LABORATÓRIOS NACIONAIS DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES",
+    "Suprime ANEXO D — >POSIÇÃO NUMA TABELA>"
+   ],
+   "fragments": [
+    "be25f23914480d8b",
+    "1e3a6dd8db941760",
+    "e29a60c90b306855",
+    "64151023c6031b43",
+    "ef738677025c1d4a",
+    "10e24a38af6b311d",
+    "6acd971027c8b9bc",
+    "7b5ab0a878c7325b",
+    "2dfce6f05359fdaf",
+    "773c0fcd0244aa20",
+    "9c520d71f72a9d3a",
+    "f6b249d9380f0860",
+    "7263eebb20ab8e6b",
+    "04220fe9e8af24c8",
+    "93f7be9cb1d3e0bd",
+    "c5f705ca1c5a3e34",
+    "76542c4c6374f208",
+    "c13b99ba13d00e28",
+    "dbe2c2b4c0355cdd",
+    "8060e4f26aebd90a",
+    "d79904e269fb7f33",
+    "9d8a43c50b10a2fc"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01995L0070-20070101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime ANEXO A",
+    "Suprime LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES",
+    "Suprime ANEXO B",
+    "Suprime FUNÇÕES E ATRIBUIÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS",
+    "Suprime ANEXO C",
+    "Suprime ANEXO D",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "4e6ea4fb41b110eb"
+   ]
+  },
+  {
+   "date": "2007-11-13",
+   "future": false,
+   "celex": "01995L0070-20071113",
+   "acts": [
+    {
+     "id": "eu:celex:32006L0104:por",
+     "title": "DIRECTIVA 2006/104/CE DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006L0104"
+    },
+    {
+     "id": "eu:celex:32007D0729:por",
+     "title": "DECISÃO DA COMISSÃO de 7 de Novembro de 2007",
+     "published": null,
+     "celex": "32007D0729"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita ANEXO A",
+    "Adita LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES",
+    "Adita ANEXO B",
+    "Adita FUNÇÕES E ATRIBUIÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS",
+    "Adita ANEXO C",
+    "Adita ANEXO D",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "11edc502c0016aa8",
+    "1e3a6dd8db941760",
+    "725f1a40e0fb7b36",
+    "64151023c6031b43",
+    "ef738677025c1d4a",
+    "10e24a38af6b311d",
+    "6acd971027c8b9bc",
+    "680946eb922dffc1",
+    "2dfce6f05359fdaf",
+    "773c0fcd0244aa20",
+    "178901ba05136981",
+    "f6b249d9380f0860",
+    "7263eebb20ab8e6b",
+    "04220fe9e8af24c8",
+    "93f7be9cb1d3e0bd",
+    "c5f705ca1c5a3e34",
+    "76542c4c6374f208",
+    "c13b99ba13d00e28",
+    "dbe2c2b4c0355cdd",
+    "aa2d250412fa3964",
+    "d79904e269fb7f33",
+    "52369481b787956f"
+   ]
+  },
+  {
+   "date": "2008-08-01",
+   "future": false,
+   "celex": "01995L0070-20080801",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime ANEXO A",
+    "Suprime LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES",
+    "Suprime ANEXO B",
+    "Suprime FUNÇÕES E ATRIBUIÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS",
+    "Suprime ANEXO C",
+    "Suprime ANEXO D",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "b00fda6e24e18c34"
+   ]
+  }
+ ],
+ "fragments": {
+  "24090a7630eea4c9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 95/70/CE do Conselho, de 22 de Dezembro de 1995, que estabelece medidas comunitárias mínimas de controlo de certas doenças dos moluscos bivalves** *Jornal Oficial nº L 332 de 30/12/1995 p. 0033 - 0039*\n\nDIRECTIVA 95/70/CE DO CONSELHO\n\nde 22 de Dezembro de 1995\n\nque estabelece medidas comunitárias mínimas de controlo de certas doenças dos moluscos bivalves\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nConsiderando que os moluscos constam da lista do anexo II do Tratado; que a comercialização de moluscos constitui uma fonte importante de rendimento para o sector da aquicultura;\n\nConsiderando que as doenças dos moluscos referidas na lista II do anexo A da Directiva 91/67/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem a introdução no mercado de animais e produtos da aquicultura (3), têm efeitos bastante graves para a conquicultura; que ocorrem em países terceiros outras doenças com consequências semelhantes e que é conveniente elaborar uma lista e dar à Comissão a possibilidade de adaptar a referida lista em função da evolução da situação zoossanitária;\n\nConsiderando que as referidas doenças podem atingir rapidamente proporções epizoóticas, provocando mortalidade e perturbações susceptíveis de reduzir drasticamente a rentabilidade da conquicultura;\n\nConsiderando que é necessário, por conseguinte, fixar ao nível da Comunidade as medidas a tomar em caso de eclosão de doenças, por forma a garantir um desenvolvimento racional do sector da conquicultura e a contribuir para a defesa da saúde animal na Comunidade;\n\nConsiderando que os Estados-membros devem comunicar à Comissão e aos demais Estados-membros todos os casos de mortalidade anormal observados nos moluscos bivalves;\n\nConsiderando que, em tais casos, devem ser tomadas medidas destinadas a evitar a propagação da doença, nomeadamente no que se refere à retirada de moluscos bivalves vivos das explorações ou zonas em questão;\n\nConsiderando que é indispensável realizar um inquérito epidemiológico aprofundado para detectar a origem da doença e evitar a sua propagação;\n\nConsiderando que, para garantir um sistema de luta eficaz, o diagnóstico dessas doenças deve ser harmonizado e efectuado sob o controlo de laboratórios competentes, cuja coordenação pode ficar a cargo de um laboratório de referência designado pela Comunidade;\n\nConsiderando que, para garantir uma aplicação uniforme da presente directiva, deve ser instituído um processo de inspecção comunitário;\n\nConsiderando que medidas comuns de luta contra as doenças constituem uma base mínima para a manutenção de um nível homogéneo de saúde animal;\n\nConsiderando que deve ser confiada à Comissão a adopção das medidas de execução necessárias,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b8fc58b05d02036c": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA presente directiva define as medidas comunitárias mínimas de luta contra as doenças dos moluscos bivalves referidas na presente directiva."
+  },
+  "067e67963929c1b7": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Para efeitos da presente directiva, são aplicáveis na medida do necessário as definições do artigo 2º da Directiva 91/67/CEE e do artigo 2º da Directiva 91/492/CEE (4).\n\n2. Além disso, entende-se por «mortalidade anormal observada», uma mortalidade súbita que afecte aproximadamente 15 % das unidades populacionais e que ocorra durante um curto período entre dois controlos (confirmada num prazo de quinze dias). Numa maternidade, considera-se que a mortalidade é anormal sempre que o ostreicultor não consiga obter larvas durante um período em que se verifiquem várias desovas de reprodutores diferentes. Num infantário, considera-se que a mortalidade é anormal sempre que se registe inopinadamente uma mortalidade súbita relativamente importante em várias provetas."
+  },
+  "e40fd68f073306fa": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros zelarão por que todas as explorações que cultivem moluscos bivalves:\n\n1. Sejam registadas pelos serviços oficiais, devendo o registo ser permanentemente actualizado;\n\n2. Procedam ao registo:\n\na) Dos moluscos vivos introduzidos na exploração, incluindo todas as informações relacionadas com o seu fornecimento, número ou peso, tamanho e origem;\n\nb) Dos moluscos bivalves que saiam da exploração para reimersão, incluindo todas as informações relacionadas com a sua expedição, número ou peso, tamanho e destino;\n\nc) Dos casos de mortalidade anormal observados.\n\nO registo, que pode ser inspeccionado em qualquer altura pelos serviços oficiais a pedido destes, deverá ser actualizado regularmente e conservado durante quatro anos."
+  },
+  "1f9b1d52980250f1": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Os Estados-membros zelarão pela execução de um programa permanente de vigilância e de colheita de amostras nas explorações, zonas de exploração e viveiros naturais explorados de moluscos bivalves com vista a efectuar a observação de uma mortalidade anormal, de modo a assegurar o acompanhamento da situação sanitária das populações.\n\nAlém disso, os serviços oficiais poderão aplicar o referido programa aos centros de depuração e tanques de armazenagem que despejam as suas águas no mar.\n\nSe, no decurso da aplicação do referido programa, se observar uma mortalidade anormal ou se os serviços oficiais dispuserem de informações que os levem a suspeitar da existência de doenças, haverá que:\n\n- elaborar uma lista dos locais em que ocorrem as doenças referidas na lista II do anexo A da Directiva 91/67/CEE, desde que essas doenças não sejam objecto de um programa aprovado ao abrigo da referida directiva,\n\n- elaborar a lista dos locais nos quais se observa uma mortalidade anormal ligada à existência das doenças referidas no anexo D ou em relação aos quais os serviços oficiais disponham de informações que os levem a suspeitar da existência de doenças,\n\n- controlar a evolução e a repartição geográfica das doenças referidas nos primeiro e segundo travessões.\n\n2. As regras de execução do presente artigo, nomeadamente as referentes à elaboração do programa mencionado no nº 1, em especial no que respeita às frequências e ao calendário dos controlos, às regras de amostragem (volume estatisticamente representativo) e aos métodos de diagnóstico, serão adoptadas nos termos do procedimento previsto no artigo 10º"
+  },
+  "cfa85384642a5f81": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Os Estados-membros zelarão por que os conquicultores ou quaisquer outras pessoas que tenham procedido a essa observação notifiquem o mais rapidamente possível os serviços oficiais da suspeita da existência das doenças referidas no artigo 4º, assim como de uma eventual taxa de mortalidade anormal observada em moluscos bivalves nas explorações, zonas de exploração ou viveiros naturais explorados, ou nos centros de depuração ou tanques de armazenagem que despejam as águas no mar.\n\n2. Nos casos referidos no nº 1, os serviços oficiais assegurar-se-ão de que:\n\na) Sejam colhidas amostras para exame num laboratório aprovado;\n\nb) Enquanto se aguarda o resultado do exame referido na alínea a), seja proibida a saída de moluscos bivalves da exploração, zona de exploração ou viveiros naturais explorados, ou dos centros de depuração ou dos tanques de armazenagem atingidos que despejam as águas no mar, destinados a reparcagem ou reimersão noutra exploração ou no meio aquático, salvo autorização dos serviços oficiais.\n\n3. Caso o exame referido na alínea a) do nº 2 não revele a presença de um agente patogénico, as restrições refendas na alínea b) do nº 2 são levantadas.\n\n4. Caso o exame referido no nº 2 revele a presença de um agente patogénico na origem da mortalidade anormal observada, ou susceptível de estar na sua origem, ou de um agente patogénico de uma das doenças referidas no artigo 4º, os serviços oficiais devem efectuar um inquérito epizoótico a fim de determinar os modos de contaminação possíveis e de averiguar se saíram moluscos da exploração, zona de exploração ou viveiros naturais explorados, para reparcagem ou reimersão noutro local, durante o período que antecedeu a observação da mortalidade anormal.\n\nSe o inquérito epizoótico revelar que a doença foi introduzida numa ou mais explorações, zonas de exploração ou viveiros naturais explorados, na sequência designadamente de um movimento de moluscos, as disposições previstas no nº 2 são aplicáveis.\n\nContudo, em derrogação do disposto no nº 1, alínea c), do artigo 3º da Directiva 91/67/CEE, os serviços oficiais poderão autorizar no seu território o movimento de moluscos bivalves vivos destinados a outras explorações, zonas de exploração ou viveiros naturais explorados infectados pela mesma doença.\n\nSe necessário, poderão ser adoptadas medidas complementares nos termos do procedimento previsto no artigo 10º\n\n5. Os serviços oficiais zelarão por que a Comissão e os outros Estados-membros sejam imediatamente informados, segundo os processos comunitários em vigor, dos casos de taxa de mortalidade anormal observada ligados a um agente patogénico, das medidas tomadas para analisar a situação e a controlar, bem como da causa da mortalidade."
+  },
+  "84e9d71b9f230258": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. As colheitas de amostras e as análises laboratoriais para determinação da causa da mortalidade anormal de moluscos bivalves sarão efectuadas de acordo com os métodos estabelecidos nos termos do procedimento previsto no artigo 10º\n\n2. Os Estados-membros zelarão por que em cada um deles seja designado um laboratório nacional de referência que disponha de instalações e de pessoal especializado que lhes permita efectuar as análises referidas no nº 1.\n\n3. Em derrogação do nº 2, os Estados-membros que não dispuserem de um laboratório nacional competente na matéria poderão recorrer aos serviços do laboratório nacional competente na matéria de outro Estado-membro.\n\n4. A lista dos laboratórios nacionais de referência para as doenças dos moluscos bivalves figura no anexo C.\n\n5. Os laboratórios nacionais de referência cooperarão com o laboratório comunitário de referência mencionado no artigo 7º"
+  },
+  "88a436e5df9c1e23": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. O laboratório comunitário de referência para as doenças dos muluscos bivalves é o indicado no anexo A.\n\n2. Sem prejuízo do disposto na Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário (1), nomeadamente no seu artigo 28º, as funções e obrigações do laboratório referido no nº 1 são as indicadas no anexo B."
+  },
+  "8fedb1a454f42bc3": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Na medida em que tal seja necessário para assegurar a aplicação uniforme da presente directiva, poderão ser efectuados controlos no local por peritos da Comissão. Para o efeito, esses peritos poderão verificar, de forma aleatória e não discriminatória, se a autoridade competente controla a aplicação dos requisitos da presente directiva.\n\nA Comissão informará os Estados-membros do resultado dos controlos efectuados.\n\n2. Os controlos referidos no nº 1 serão efectuados em colaboração com a autoridade competente.\n\n3. O Estado-membro em cujo território seja efectuado um controlo prestará aos peritos toda a assistência ao cumprimento da sua missão.\n\n4. As regras de execução do presente artigo serão adoptadas nos termos do procedimento previsto no artigo 10º"
+  },
+  "044c5a39cf8abcc6": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nO anexo A será alterado, sempre que necessário, pelo Conselho, deliberando por maioria qualificada, sob proposta da Comissão.\n\nOs anexos B, C e D poderão ser alterados, sempre que necessário, nos termos do procedimento previsto no artigo 10º"
+  },
+  "905f373784c657f0": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Nos casos em que se faz referência ao processo definido no presente artigo, o Comité veterinário permanente, criado pela Decisão 68/361/CEE (2), a seguir designado «comité», será imediatamente chamado a pronunciar-se pelo seu presidente, quer por iniciativa deste, quer a pedido de um Estado-membro.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3.a) A Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este último ainda não tiver deliberado, a Comissão adoptará as medidas propostas, excepto no caso de o Conselho se ter pronunciado por maioria simples contra as referidas medidas."
+  },
+  "e938d4cd012c64a5": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nAté 31 de Dezembro de 1999, a Comissão apresentará ao Conselho um relatório elaborado, se necessário após parecer do Comité científico veterinário, em função da experiência adquirida na aplicação da presente directiva e da evolução técnica e científica, eventualmente acompanhado de propostas de revisão.\n\nO Conselho pronunciar-se-á por maioria qualificada sobre as eventuais propostas."
+  },
+  "adff20fe07c1974e": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Junho de 1997. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Contudo, a contar da data fixada no nº 1, os Estados-membros podem, no respeito das regras gerais do Tratado, manter ou aplicar em relação à sua produção disposições mais rigorosas que as previstas na presente directiva. A Comissão será por eles informada de todas as medidas tomadas nesse sentido.\n\n3. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptem no domínio regido pela presente directiva."
+  },
+  "cb7dac4285b7f086": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "83f553adc0cbb0d4": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 22 de Dezembro de 1995.\n\nPelo Conselho\n\nO Presidente\n\nL. ATIENZA SERNA\n\n(1) JO nº C 285 de 13. 10. 1994, p. 9.\n\n(2) JO nº C 109 de 1. 5. 1995, p. 2.\n\n(3) JO nº L 46 de 19. 2. 1991, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 95/22/CE (JO nº L 243 de 11. 10. 1995, p. 1).\n\n(4) Directiva 91/492/CEE do Conselho, de 15 de Julho de 1991, que estabelece as normas sanitárias que regem a produção e a colocação no mercado de moluscos bivalves vivos (JO nº L 268 de 24. 9. 1991, p. 1). Directiva com a redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n(1) JO nº L 224 de 18. 8. 1990, p. 19. Decisão com a última redacção que lhe foi dada pela Decisão 94/370/CE (JO nº L 168 de 2. 7. 1994, p. 31).\n\n(2) JO nº L 255 de 18. 10. 1968, p. 23."
+  },
+  "42c4d65a3e37498c": {
+   "fragment_id": "ANEXO A — LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES",
+   "type": "divisao",
+   "heading": "ANEXO A — LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A — LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES\n\nIFREMER\n\nBoîte postale 133\n\n17390 La Tremblade\n\nFrança"
+  },
+  "f98ab08217668b44": {
+   "fragment_id": "ANEXO B — FUNÇÕES E ATRIBUIÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS",
+   "type": "divisao",
+   "heading": "ANEXO B — FUNÇÕES E ATRIBUIÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B — FUNÇÕES E ATRIBUIÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS\n\nO laboratório comunitário de referência tem as seguintes funções e obrigações:\n\n1. Coordenar, em consulta com a Comissão, os métodos utilizados nos Estados-membros, de diagnóstico das doenças dos moluscos, mais precisamente:\n\na) A constituição e conservação de uma colecção de lâminas histológicas, de estirpes ou de culturas dos agentes patogénicos em questão, e colocação destas à disposição dos laboratórios aprovados dos Estados-membros;\n\nb) A organização periódica de ensaios comparativos entre os processos de diagnóstico utilizados na Comunidade;\n\nc) A recolha e confronto de dados e informações sobre os métodos de diagnóstico utilizados e os resultados dos ensaios efectuados na Comunidade;\n\nd) A caracterização dos «isolatos» dos agentes patogénicos através dos métodos mais modernos e adequados, a fim de permitir uma melhor compreensão da epizootologia da doença;\n\ne) O acompanhamento da evolução da situação, em todo o mundo, em matéria de vigilância, epizootologia e prevenção das doenças em questão;\n\nf) A actualização permanente dos conhecimentos sobre os agentes patogénicos das doenças em causa, para permitir um diagnóstico diferencial rápido;\n\n2. Participar activamente no diagnóstico das doenças que se declarem nos Estados-membros, através de estudos dos agentes patogénicos isolados que lhe forem enviados para confirmação do diagnóstico, caracterização e estudos epizoóticos;\n\n3. Facilitar a formação ou reciclagem de especialistas em diagnóstico, a fim de harmonizar as técnicas de diagnóstico em toda a Comunidade;\n\n4. Colaborar, no domínio dos métodos de diagnóstico, com laboratórios competentes de países terceiros onde essas doenças se encontram propagadas."
+  },
+  "ee28de544ebfb62e": {
+   "fragment_id": "ANEXO C — LABORATÓRIOS NACIONAIS DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES",
+   "type": "divisao",
+   "heading": "ANEXO C — LABORATÓRIOS NACIONAIS DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C — LABORATÓRIOS NACIONAIS DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES\n\n> POSIÇÃO NUMA TABELA>"
+  },
+  "54b1ae9315d7c208": {
+   "fragment_id": "ANEXO D — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO D — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO D — >POSIÇÃO NUMA TABELA>"
+  },
+  "be25f23914480d8b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Dezembro de 1995\n\nque estabelece medidas comunitárias mínimas de controlo de certas doenças dos moluscos bivalves\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 43.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/b4232bcc-8f11-41f3-9e6f-6d5356a67fce.0016.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/b4232bcc-8f11-41f3-9e6f-6d5356a67fce.0016.03/DOC_1#E0002)),\n\nConsiderando que os moluscos constam da lista do anexo II do Tratado; que a comercialização de moluscos constitui uma fonte importante de rendimento para o sector da aquicultura;\n\nConsiderando que as doenças dos moluscos referidas na lista II do anexo A da Directiva 91/67/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem a introdução no mercado de animais e produtos da aquicultura ([^3^](http://publications.europa.eu/resource/cellar/b4232bcc-8f11-41f3-9e6f-6d5356a67fce.0016.03/DOC_1#E0003)), têm efeitos bastante graves para a conquicultura; que ocorrem em países terceiros outras doenças com consequências semelhantes e que é conveniente elaborar uma lista e dar à Comissão a possibilidade de adaptar a referida lista em função da evolução da situação zoossanitária;\n\nConsiderando que as referidas doenças podem atingir rapidamente proporções epizoóticas, provocando mortalidade e perturbações susceptíveis de reduzir drasticamente a rentabilidade da conquicultura;\n\nConsiderando que é necessário, por conseguinte, fixar ao nível da Comunidade as medidas a tomar em caso de eclosão de doenças, por forma a garantir um desenvolvimento racional do sector da conquicultura e a contribuir para a defesa da saúde animal na Comunidade;\n\nConsiderando que os Estados-membros devem comunicar à Comissão e aos demais Estados-membros todos os casos de mortalidade anormal observados nos moluscos bivalves;\n\nConsiderando que, em tais casos, devem ser tomadas medidas destinadas a evitar a propagação da doença, nomeadamente no que se refere à retirada de moluscos bivalves vivos das explorações ou zonas em questão;\n\nConsiderando que é indispensável realizar um inquérito epidemiológico aprofundado para detectar a origem da doença e evitar a sua propagação;\n\nConsiderando que, para garantir um sistema de luta eficaz, o diagnóstico dessas doenças deve ser harmonizado e efectuado sob o controlo de laboratórios competentes, cuja coordenação pode ficar a cargo de um laboratório de referência designado pela Comunidade;\n\nConsiderando que, para garantir uma aplicação uniforme da presente directiva, deve ser instituído um processo de inspecção comunitário;\n\nConsiderando que medidas comuns de luta contra as doenças constituem uma base mínima para a manutenção de um nível homogéneo de saúde animal;\n\nConsiderando que deve ser confiada à Comissão a adopção das medidas de execução necessárias,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "1e3a6dd8db941760": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva define as medidas comunitárias mínimas de luta contra as doenças dos moluscos bivalves referidas na presente directiva."
+  },
+  "e29a60c90b306855": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Para efeitos da presente directiva, são aplicáveis na medida do necessário as definições do artigo 2.º da Directiva 91/67/CEE e do artigo 2.º da Directiva 91/492/CEE ([^4^](http://publications.europa.eu/resource/cellar/b4232bcc-8f11-41f3-9e6f-6d5356a67fce.0016.03/DOC_1#E0004)).\n\n2. Além disso, entende-se por «mortalidade anormal observada», uma mortalidade súbita que afecte aproximadamente 15 % das unidades populacionais e que ocorra durante um curto período entre dois controlos (confirmada num prazo de quinze dias). Numa maternidade, considera-se que a mortalidade é anormal sempre que o ostreicultor não consiga obter larvas durante um período em que se verifiquem várias desovas de reprodutores diferentes. Num infantário, considera-se que a mortalidade é anormal sempre que se registe inopinadamente uma mortalidade súbita relativamente importante em várias provetas."
+  },
+  "64151023c6031b43": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-membros zelarão por que todas as explorações que cultivem moluscos bivalves:\n\n1. Sejam registadas pelos serviços oficiais, devendo o registo ser permanentemente actualizado;\n\n2. Procedam ao registo:\n\na) Dos moluscos vivos introduzidos na exploração, incluindo todas as informações relacionadas com o seu fornecimento, número ou peso, tamanho e origem;\n\nb) Dos moluscos bivalves que saiam da exploração para reimersão, incluindo todas as informações relacionadas com a sua expedição, número ou peso, tamanho e destino;\n\nc) Dos casos de mortalidade anormal observados."
+  },
+  "ef738677025c1d4a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-membros zelarão pela execução de um programa permanente de vigilância e de colheita de amostras nas explorações, zonas de exploração e viveiros naturais explorados de moluscos bivalves com vista a efectuar a observação de uma mortalidade anormal, de modo a assegurar o acompanhamento da situação sanitária das populações.\n\nAlém disso, os serviços oficiais poderão aplicar o referido programa aos centros de depuração e tanques de armazenagem que despejam as suas águas no mar.\n\nSe, no decurso da aplicação do referido programa, se observar uma mortalidade anormal ou se os serviços oficiais dispuserem de informações que os levem a suspeitar da existência de doenças, haverá que:\n\n— elaborar uma lista dos locais em que ocorrem as doenças referidas na lista II do anexo A da Directiva 91/67/CEE, desde que essas doenças não sejam objecto de um programa aprovado ao abrigo da referida directiva,\n\n— elaborar a lista dos locais nos quais se observa uma mortalidade anormal ligada à existência das doenças referidas no anexo D ou em relação aos quais os serviços oficiais disponham de informações que os levem a suspeitar da existência de doenças,\n\n— controlar a evolução e a repartição geográfica das doenças referidas nos primeiro e segundo travessões.\n\n2. As regras de execução do presente artigo, nomeadamente as referentes à elaboração do programa mencionado no n.º 1, em especial no que respeita às frequências e ao calendário dos controlos, às regras de amostragem (volume estatisticamente representativo) e aos métodos de diagnóstico, serão adoptadas nos termos do procedimento previsto no artigo 10.º"
+  },
+  "10e24a38af6b311d": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-membros zelarão por que os conquicultores ou quaisquer outras pessoas que tenham procedido a essa observação notifiquem o mais rapidamente possível os serviços oficiais da suspeita da existência das doenças referidas no artigo 4.º, assim como de uma eventual taxa de mortalidade anormal observada em moluscos bivalves nas explorações, zonas de exploração ou viveiros naturais explorados, ou nos centros de depuração ou tanques de armazenagem que despejam as águas no mar.\n\n2. Nos casos referidos no n.º 1, os serviços oficiais assegurar-se-ão de que:\n\na) Sejam colhidas amostras para exame num laboratório aprovado;\n\nb) Enquanto se aguarda o resultado do exame referido na alínea a), seja proibida a saída de moluscos bivalves da exploração, zona de exploração ou viveiros naturais explorados, ou dos centros de depuração ou dos tanques de armazenagem atingidos que despejam as águas no mar, destinados a reparcagem ou reimersão noutra exploração ou no meio aquático, salvo autorização dos serviços oficiais.\n\n3. Caso o exame referido na alínea a) do n.º 2 não revele a presença de um agente patogénico, as restrições refendas na alínea b) do n.º 2 são levantadas.\n\n4. Caso o exame referido no n.º 2 revele a presença de um agente patogénico na origem da mortalidade anormal observada, ou susceptível de estar na sua origem, ou de um agente patogénico de uma das doenças referidas no artigo 4.º, os serviços oficiais devem efectuar um inquérito epizoótico a fim de determinar os modos de contaminação possíveis e de averiguar se saíram moluscos da exploração, zona de exploração ou viveiros naturais explorados, para reparcagem ou reimersão noutro local, durante o período que antecedeu a observação da mortalidade anormal.\n\nSe o inquérito epizoótico revelar que a doença foi introduzida numa ou mais explorações, zonas de exploração ou viveiros naturais explorados, na sequência designadamente de um movimento de moluscos, as disposições previstas no n.º 2 são aplicáveis.\n\nContudo, em derrogação do disposto no n.º 1, alínea c), do artigo 3.º da Directiva 91/67/CEE, os serviços oficiais poderão autorizar no seu território o movimento de moluscos bivalves vivos destinados a outras explorações, zonas de exploração ou viveiros naturais explorados infectados pela mesma doença.\n\nSe necessário, poderão ser adoptadas medidas complementares nos termos do procedimento previsto no artigo 10.º.\n\n5. Os serviços oficiais zelarão por que a Comissão e os outros Estados-membros sejam imediatamente informados, segundo os processos comunitários em vigor, dos casos de taxa de mortalidade anormal observada ligados a um agente patogénico, das medidas tomadas para analisar a situação e a controlar, bem como da causa da mortalidade."
+  },
+  "6acd971027c8b9bc": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. As colheitas de amostras e as análises laboratoriais para determinação da causa da mortalidade anormal de moluscos bivalves sarão efectuadas de acordo com os métodos estabelecidos nos termos do procedimento previsto no artigo 10.º.\n\n2. Os Estados-membros zelarão por que em cada um deles seja designado um laboratório nacional de referência que disponha de instalações e de pessoal especializado que lhes permita efectuar as análises referidas no n.º 1.\n\n3. Em derrogação do n.º 2, os Estados-membros que não dispuserem de um laboratório nacional competente na matéria poderão recorrer aos serviços do laboratório nacional competente na matéria de outro Estado-membro.\n\n4. A lista dos laboratórios nacionais de referência para as doenças dos moluscos bivalves figura no anexo C.\n\n5. Os laboratórios nacionais de referência cooperarão com o laboratório comunitário de referência mencionado no artigo 7.º."
+  },
+  "7b5ab0a878c7325b": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. O laboratório comunitário de referência para as doenças dos muluscos bivalves é o indicado no anexo A.\n\n2. Sem prejuízo do disposto na Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário ([^5^](http://publications.europa.eu/resource/cellar/b4232bcc-8f11-41f3-9e6f-6d5356a67fce.0016.03/DOC_1#E0005)), nomeadamente no seu artigo 28.º, as funções e obrigações do laboratório referido no n.º 1 são as indicadas no anexo B."
+  },
+  "2dfce6f05359fdaf": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Na medida em que tal seja necessário para assegurar a aplicação uniforme da presente directiva, poderão ser efectuados controlos no local por peritos da Comissão. Para o efeito, esses peritos poderão verificar, de forma aleatória e não discriminatória, se a autoridade competente controla a aplicação dos requisitos da presente directiva.\n\nA Comissão informará os Estados-membros do resultado dos controlos efectuados.\n\n2. Os controlos referidos no n.º 1 serão efectuados em colaboração com a autoridade competente.\n\n3. O Estado-membro em cujo território seja efectuado um controlo prestará aos peritos toda a assistência ao cumprimento da sua missão.\n\n4. As regras de execução do presente artigo serão adoptadas nos termos do procedimento previsto no artigo 10.º."
+  },
+  "773c0fcd0244aa20": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO anexo A será alterado, sempre que necessário, pelo Conselho, deliberando por maioria qualificada, sob proposta da Comissão.\n\nOs anexos B, C e D poderão ser alterados, sempre que necessário, nos termos do procedimento previsto no artigo 10.º."
+  },
+  "9c520d71f72a9d3a": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^6^](http://publications.europa.eu/resource/cellar/b4232bcc-8f11-41f3-9e6f-6d5356a67fce.0016.03/DOC_1#E0006)).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^7^](http://publications.europa.eu/resource/cellar/b4232bcc-8f11-41f3-9e6f-6d5356a67fce.0016.03/DOC_1#E0007)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "f6b249d9380f0860": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAté 31 de Dezembro de 1999, a Comissão apresentará ao Conselho um relatório elaborado, se necessário após parecer do Comité científico veterinário, em função da experiência adquirida na aplicação da presente directiva e da evolução técnica e científica, eventualmente acompanhado de propostas de revisão.\n\nO Conselho pronunciar-se-á por maioria qualificada sobre as eventuais propostas."
+  },
+  "7263eebb20ab8e6b": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Junho de 1997. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Contudo, a contar da data fixada no n.º 1, os Estados-membros podem, no respeito das regras gerais do Tratado, manter ou aplicar em relação à sua produção disposições mais rigorosas que as previstas na presente directiva. A Comissão será por eles informada de todas as medidas tomadas nesse sentido.\n\n3. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptem no domínio regido pela presente directiva."
+  },
+  "04220fe9e8af24c8": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "93f7be9cb1d3e0bd": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "c5f705ca1c5a3e34": {
+   "fragment_id": "ANEXO A",
+   "type": "divisao",
+   "heading": "ANEXO A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A"
+  },
+  "76542c4c6374f208": {
+   "fragment_id": "LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES",
+   "type": "divisao",
+   "heading": "LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES\n\nIFREMER\n\nBoîte postale 133\n\n17390 La Tremblade\n\nFrança"
+  },
+  "c13b99ba13d00e28": {
+   "fragment_id": "ANEXO B",
+   "type": "divisao",
+   "heading": "ANEXO B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B"
+  },
+  "dbe2c2b4c0355cdd": {
+   "fragment_id": "FUNÇÕES E ATRIBUIÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS",
+   "type": "divisao",
+   "heading": "FUNÇÕES E ATRIBUIÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FUNÇÕES E ATRIBUIÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS\n\nO laboratório comunitário de referência tem as seguintes funções e obrigações:\n\n1. Coordenar, em consulta com a Comissão, os métodos utilizados nos Estados-membros, de diagnóstico das doenças dos moluscos, mais precisamente:\n\na) A constituição e conservação de uma colecção de lâminas histológicas, de estirpes ou de culturas dos agentes patogénicos em questão, e colocação destas à disposição dos laboratórios aprovados dos Estados-membros;\n\nb) A organização periódica de ensaios comparativos entre os processos de diagnóstico utilizados na Comunidade;\n\nc) A recolha e confronto de dados e informações sobre os métodos de diagnóstico utilizados e os resultados dos ensaios efectuados na Comunidade;\n\nd) A caracterização dos «isolatos» dos agentes patogénicos através dos métodos mais modernos e adequados, a fim de permitir uma melhor compreensão da epizootologia da doença;\n\ne) O acompanhamento da evolução da situação, em todo o mundo, em matéria de vigilância, epizootologia e prevenção das doenças em questão;\n\nf) A actualização permanente dos conhecimentos sobre os agentes patogénicos das doenças em causa, para permitir um diagnóstico diferencial rápido;\n\n2. Participar activamente no diagnóstico das doenças que se declarem nos Estados-membros, através de estudos dos agentes patogénicos isolados que lhe forem enviados para confirmação do diagnóstico, caracterização e estudos epizoóticos;\n\n3. Facilitar a formação ou reciclagem de especialistas em diagnóstico, a fim de harmonizar as técnicas de diagnóstico em toda a Comunidade;\n\n4. Colaborar, no domínio dos métodos de diagnóstico, com laboratórios competentes de países terceiros onde essas doenças se encontram propagadas."
+  },
+  "8060e4f26aebd90a": {
+   "fragment_id": "ANEXO C",
+   "type": "divisao",
+   "heading": "ANEXO C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C\n\nAT —\n\nBE CODA — CERVA — VARVeterinary and Agrochemical Research CentreGroeselenberg 99B-1180 Brussels\n\nCY State Veterinary LaboratoryVeterinary Services1417 AthalassaNicosia\n\nCZ —\n\nDE Friedrich-Loeffler-InstitutBundesforschungsinstitut für TiergesundheitBoddenblick 5a17493 Greifswald-Insel RiemsTel.: +49 383 51-7-0Fax: +49 383 51-7-151\n\nDK Danish Institute for Fisheries Research,Dpt. for Marine Ecology and Aquaculture, Fish Disease Laboratory,Stigboejlen 4,DK-1870 Frederiksberg C\n\nEE Veterinaar- ja ToidulaboratooriumKreutzwaldi 30, 51006 Tartu, EstoniaTel.: +372 7 386 100Faks: +372 7 386 102E-post: info@vetlab.ee\n\nES Instituto de Investigaciones MarinasCSICEduardo Cabello, 6E-36208 VigoTel.: +34 986 214 462Fax: +34 986 292 762E-mail: pato1@iim.csic.es\n\nFI Danish Institute for Fisheries Research,Dpt. for Marine Ecology and Aquaculture,Fish Disease Laboratory,Stigboejlen 4,DK-1870 Frederiksberg C\n\nFR Laboratoire de génétique et pathologieIFREMERRonce-les-bains17390 La Tremblade\n\nGB Cefas Weymouth LaboratoryBarrack RoadThe notheWeymouthDorset DT4 8UBUKFRS Marine LaboratoryPO Box 101375 Victoria RoadTorryAberdeenAB11 9DB\n\nGR Centre of Thessaloniki Veterinary Institutions, Department of Pathology of Aquatic Organisms,80, 26th October Street,GR-54627 ThessalonikiTel: +30.2310785104\n\nHU —\n\nIE The Marine InstituteRinvilleOranmoreCo. Galway\n\nIT Centro di referenza nazionale per lo studio e la diagnosi delle malattie dei pesci, molluschi e crostacei c/o Istituto zooprofilattico sperimentale delle Venezie,V.le dell'Università,10-35020 Legnaro (Pd)\n\nLT National Veterinary Laboratory(Nacionalinė veterinarijos laboratorija)J.J. Kairiūkščio 10LT-08409 Vilnius\n\nLU CODA — CERVA — VARVeterinary and Agrochemical Research CentreGroeselenberg 99B-1180 Brussels\n\nLV —\n\nMT —\n\nNL Centraal Instituut voor DierziekteControleCIDC-LelystadHoofdvestiging: Houtribweg 39Nevenvestiging: Edelhertweg 15Postbus 20048203 AA Lelystad\n\nPL Laboratory Departement of Hygiene of Food of Animal OriginPaństwowy Instytut Weterynaryjny – Państwowy Instytut BadawczyAl. Partyzantów 57, 24-100 PuławyTel.: +48.81.886 30 51Fax: +48.81.886 25 95E-mail: sekretariat@piwet.pulawy.pl\n\nPT IPIMARInstituto de Investigação das Pescas e do MarAv. BrasíliaP-1449-006 Lisboa\n\nSE Statens Veterinärmedicinska AnstaltDepartment of Wildlife, Fish and EnvironmentSE-751 89 UppsalaTel (46-18) 18674000Fax (46-18) 18674044\n\nSI Univerza v LjubljaniVeterinarska fakultetaNacionalni veterinarski inštitutGerbičeva 60,SI-1000 Ljubljana\n\nSK Štátny veterinárny a potravinový ústav,Jánoškova 1611/58,026 80 Dolný Kubín"
+  },
+  "d79904e269fb7f33": {
+   "fragment_id": "ANEXO D",
+   "type": "divisao",
+   "heading": "ANEXO D",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO D\n\nDoença Espécie hospedeira sensível\n\nInfecção por *Bonamia exitiosa* Ostra-redonda (*Ostrea angasi*) e Ostra-plana-chilena (*Ostrea chilensis*)\n\nInfecção por *Perkinsus marinus* Ostra-gigante (*Crassostrea gigas*) e Ostra-americana (*C. virginica*)\n\nInfecção por *Microcytos mackini* Ostra-gigante (*Crassostrea gigas*), Ostra-americana (*C. virginica*), Ostra-plana-do-pacífico (*Ostrea conchaphila*) e Ostra-plana-europeia (*O. edulis*)\n\n---"
+  },
+  "9d8a43c50b10a2fc": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b4232bcc-8f11-41f3-9e6f-6d5356a67fce.0016.03/DOC_1#src.E0001)) JO n.º C 285 de 13. 10. 1994, p. 9.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b4232bcc-8f11-41f3-9e6f-6d5356a67fce.0016.03/DOC_1#src.E0002)) JO n.º C 109 de 1. 5. 1995, p. 2.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b4232bcc-8f11-41f3-9e6f-6d5356a67fce.0016.03/DOC_1#src.E0003)) JO n.º L 46 de 19. 2. 1991, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 95/22/CE (JO n.º L 243 de 11. 10. 1995, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b4232bcc-8f11-41f3-9e6f-6d5356a67fce.0016.03/DOC_1#src.E0004)) Directiva 91/492/CEE do Conselho, de 15 de Julho de 1991, que estabelece as normas sanitárias que regem a produção e a colocação no mercado de moluscos bivalves vivos (JO n.º L 268 de 24. 9. 1991, p. 1). Directiva com a redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b4232bcc-8f11-41f3-9e6f-6d5356a67fce.0016.03/DOC_1#src.E0005)) JO n.º L 224 de 18. 8. 1990, p. 19. Decisão com a última redacção que lhe foi dada pela Decisão 94/370/CE (JO n.º L 168 de 2. 7. 1994, p. 31).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b4232bcc-8f11-41f3-9e6f-6d5356a67fce.0016.03/DOC_1#src.E0006)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b4232bcc-8f11-41f3-9e6f-6d5356a67fce.0016.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "4e6ea4fb41b110eb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1995L0070 — PT — 01.01.2007 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/395L0070) [DIRECTIVA 95/70/CE DO CONSELHO](http://publications.europa.eu/resource/celex/395L0070) [de 22 de Dezembro de 1995](http://publications.europa.eu/resource/celex/395L0070) [que estabelece medidas comunitárias mínimas de controlo de certas doenças dos moluscos bivalves](http://publications.europa.eu/resource/celex/395L0070) (JO L 332, 30.12.1995, p.33)\n\n**revogado por:**"
+  },
+  "11edc502c0016aa8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Dezembro de 1995\n\nque estabelece medidas comunitárias mínimas de controlo de certas doenças dos moluscos bivalves\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 43.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/a10e6f67-a90b-4f5b-97b4-ae682787ab9f.0016.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/a10e6f67-a90b-4f5b-97b4-ae682787ab9f.0016.03/DOC_1#E0002)),\n\nConsiderando que os moluscos constam da lista do anexo II do Tratado; que a comercialização de moluscos constitui uma fonte importante de rendimento para o sector da aquicultura;\n\nConsiderando que as doenças dos moluscos referidas na lista II do anexo A da Directiva 91/67/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem a introdução no mercado de animais e produtos da aquicultura ([^3^](http://publications.europa.eu/resource/cellar/a10e6f67-a90b-4f5b-97b4-ae682787ab9f.0016.03/DOC_1#E0003)), têm efeitos bastante graves para a conquicultura; que ocorrem em países terceiros outras doenças com consequências semelhantes e que é conveniente elaborar uma lista e dar à Comissão a possibilidade de adaptar a referida lista em função da evolução da situação zoossanitária;\n\nConsiderando que as referidas doenças podem atingir rapidamente proporções epizoóticas, provocando mortalidade e perturbações susceptíveis de reduzir drasticamente a rentabilidade da conquicultura;\n\nConsiderando que é necessário, por conseguinte, fixar ao nível da Comunidade as medidas a tomar em caso de eclosão de doenças, por forma a garantir um desenvolvimento racional do sector da conquicultura e a contribuir para a defesa da saúde animal na Comunidade;\n\nConsiderando que os Estados-membros devem comunicar à Comissão e aos demais Estados-membros todos os casos de mortalidade anormal observados nos moluscos bivalves;\n\nConsiderando que, em tais casos, devem ser tomadas medidas destinadas a evitar a propagação da doença, nomeadamente no que se refere à retirada de moluscos bivalves vivos das explorações ou zonas em questão;\n\nConsiderando que é indispensável realizar um inquérito epidemiológico aprofundado para detectar a origem da doença e evitar a sua propagação;\n\nConsiderando que, para garantir um sistema de luta eficaz, o diagnóstico dessas doenças deve ser harmonizado e efectuado sob o controlo de laboratórios competentes, cuja coordenação pode ficar a cargo de um laboratório de referência designado pela Comunidade;\n\nConsiderando que, para garantir uma aplicação uniforme da presente directiva, deve ser instituído um processo de inspecção comunitário;\n\nConsiderando que medidas comuns de luta contra as doenças constituem uma base mínima para a manutenção de um nível homogéneo de saúde animal;\n\nConsiderando que deve ser confiada à Comissão a adopção das medidas de execução necessárias,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "725f1a40e0fb7b36": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Para efeitos da presente directiva, são aplicáveis na medida do necessário as definições do artigo 2.º da Directiva 91/67/CEE e do artigo 2.º da Directiva 91/492/CEE ([^4^](http://publications.europa.eu/resource/cellar/a10e6f67-a90b-4f5b-97b4-ae682787ab9f.0016.03/DOC_1#E0004)).\n\n2. Além disso, entende-se por «mortalidade anormal observada», uma mortalidade súbita que afecte aproximadamente 15 % das unidades populacionais e que ocorra durante um curto período entre dois controlos (confirmada num prazo de quinze dias). Numa maternidade, considera-se que a mortalidade é anormal sempre que o ostreicultor não consiga obter larvas durante um período em que se verifiquem várias desovas de reprodutores diferentes. Num infantário, considera-se que a mortalidade é anormal sempre que se registe inopinadamente uma mortalidade súbita relativamente importante em várias provetas."
+  },
+  "680946eb922dffc1": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. O laboratório comunitário de referência para as doenças dos muluscos bivalves é o indicado no anexo A.\n\n2. Sem prejuízo do disposto na Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário ([^5^](http://publications.europa.eu/resource/cellar/a10e6f67-a90b-4f5b-97b4-ae682787ab9f.0016.03/DOC_1#E0005)), nomeadamente no seu artigo 28.º, as funções e obrigações do laboratório referido no n.º 1 são as indicadas no anexo B."
+  },
+  "178901ba05136981": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^6^](http://publications.europa.eu/resource/cellar/a10e6f67-a90b-4f5b-97b4-ae682787ab9f.0016.03/DOC_1#E0006)).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^7^](http://publications.europa.eu/resource/cellar/a10e6f67-a90b-4f5b-97b4-ae682787ab9f.0016.03/DOC_1#E0007)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "aa2d250412fa3964": {
+   "fragment_id": "ANEXO C",
+   "type": "divisao",
+   "heading": "ANEXO C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C\n\n| AT | — |\n| --- | --- |\n| [▼M7](http://publications.europa.eu/resource/celex/32007D0729) |  |\n| BE | Laboratory for Microbiology in FoodstuffsUniversity of LiègeBoulevard de Colonster 20Bât. 43 bis, Start-TilmanB-4000 Liège |\n| [▼M6](http://publications.europa.eu/resource/celex/32006L0104) |  |\n| BG | Национален диагностичен научноизследователски ветеринарномедицински институт Проф. д-р Георги ПавловНационална референтна лабораторияБолести по рибите и морските мекотелбул. Пенчо Славейков 15София 1606(Instituto Nacional de Investigação e Diagnóstico Veterinários Prof. Dr. Georgi PavlovLaboratório Nacional de Referência para as doenças dos peixes e moluscos15, Pencho Slaveykov Blvd.1606 Sófia) |\n| [▼M5](http://publications.europa.eu/resource/celex/32006D0911) |  |\n| CY | State Veterinary LaboratoryVeterinary Services1417 AthalassaNicosia |\n| CZ | — |\n| [▼M7](http://publications.europa.eu/resource/celex/32007D0729) |  |\n| DE | Friedrich-Loeffler-InstitutBundesforschungsinstitut für TiergesundheitBoddenblick 5a17493 Greifswald — Insel RiemsTel. (49-38351) 7-0Fax (49-38351) 7-219E-Mail: poststelle@fli.bund.de |\n| [▼M5](http://publications.europa.eu/resource/celex/32006D0911) |  |\n| DK | Danish Institute for Fisheries Research,Dpt. for Marine Ecology and Aquaculture, Fish Disease Laboratory,Stigboejlen 4,DK-1870 Frederiksberg C |\n| EE | Veterinaar- ja ToidulaboratooriumKreutzwaldi 30, 51006 Tartu, EstoniaTel.: +372 7 386 100Faks: +372 7 386 102E-post: info@vetlab.ee |\n| ES | Instituto de Investigaciones MarinasCSICEduardo Cabello, 6E-36208 VigoTel.: +34 986 214 462Fax: +34 986 292 762E-mail: pato1@iim.csic.es |\n| FI | Danish Institute for Fisheries Research,Dpt. for Marine Ecology and Aquaculture,Fish Disease Laboratory,Stigboejlen 4,DK-1870 Frederiksberg C |\n| FR | Laboratoire de génétique et pathologieIFREMERRonce-les-bains17390 La Tremblade |\n| GB | Cefas Weymouth LaboratoryBarrack RoadThe notheWeymouthDorset DT4 8UBUKFRS Marine LaboratoryPO Box 101375 Victoria RoadTorryAberdeenAB11 9DB |\n| GR | Centre of Thessaloniki Veterinary Institutions, Department of Pathology of Aquatic Organisms,80, 26th October Street,GR-54627 ThessalonikiTel: +30.2310785104 |\n| [▼M7](http://publications.europa.eu/resource/celex/32007D0729) |  |\n| HU | Mezőgazdasági Szakigazgatási Hivatal Központ, Állat-egészségügyi Diagnosztikai IgazgatóságCentral Agricultural Office, Veterinary Diagnostic DirectorateAddress: 1149 Budapest, Tábornok u. 2.Mailing Address: 1581 Budapest, 146. Pf. 2.Tel.: +36 1 460-6300Fax: +36 1 252-5177E-mail: titkarsag@oai.hu |\n| [▼M5](http://publications.europa.eu/resource/celex/32006D0911) |  |\n| IE | The Marine InstituteRinvilleOranmoreCo. Galway |\n| IT | Centro di referenza nazionale per lo studio e la diagnosi delle malattie dei pesci, molluschi e crostacei c/o Istituto zooprofilattico sperimentale delle Venezie,V.le dell'Università,10-35020 Legnaro (Pd) |\n| LT | National Veterinary Laboratory(Nacionalinė veterinarijos laboratorija)J.J. Kairiūkščio 10LT-08409 Vilnius |\n| LU | CODA — CERVA — VARVeterinary and Agrochemical Research CentreGroeselenberg 99B-1180 Brussels |\n| LV | — |\n| MT | — |\n| NL | Centraal Instituut voor DierziekteControleCIDC-LelystadHoofdvestiging: Houtribweg 39Nevenvestiging: Edelhertweg 15Postbus 20048203 AA Lelystad |\n| PL | Laboratory Departement of Hygiene of Food of Animal OriginPaństwowy Instytut Weterynaryjny – Państwowy Instytut BadawczyAl. Partyzantów 57, 24-100 PuławyTel.: +48.81.886 30 51Fax: +48.81.886 25 95E-mail: sekretariat@piwet.pulawy.pl |\n| PT | IPIMARInstituto de Investigação das Pescas e do MarAv. BrasíliaP-1449-006 Lisboa |\n| [▼M6](http://publications.europa.eu/resource/celex/32006L0104) |  |\n| RO | Institutul de Diagnostic și Sănătate AnimalăStrada Dr. Staicovici nr. 63, sector 5,codul 050557, București |\n| [▼M5](http://publications.europa.eu/resource/celex/32006D0911) |  |\n| SE | Statens Veterinärmedicinska AnstaltDepartment of Wildlife, Fish and EnvironmentSE-751 89 UppsalaTel (46-18) 18674000Fax (46-18) 18674044 |\n| SI | Univerza v LjubljaniVeterinarska fakultetaNacionalni veterinarski inštitutGerbičeva 60,SI-1000 Ljubljana |\n| SK | Štátny veterinárny a potravinový ústav,Jánoškova 1611/58,026 80 Dolný Kubín |"
+  },
+  "52369481b787956f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a10e6f67-a90b-4f5b-97b4-ae682787ab9f.0016.03/DOC_1#src.E0001)) JO n.º C 285 de 13. 10. 1994, p. 9.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/a10e6f67-a90b-4f5b-97b4-ae682787ab9f.0016.03/DOC_1#src.E0002)) JO n.º C 109 de 1. 5. 1995, p. 2.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/a10e6f67-a90b-4f5b-97b4-ae682787ab9f.0016.03/DOC_1#src.E0003)) JO n.º L 46 de 19. 2. 1991, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 95/22/CE (JO n.º L 243 de 11. 10. 1995, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/a10e6f67-a90b-4f5b-97b4-ae682787ab9f.0016.03/DOC_1#src.E0004)) Directiva 91/492/CEE do Conselho, de 15 de Julho de 1991, que estabelece as normas sanitárias que regem a produção e a colocação no mercado de moluscos bivalves vivos (JO n.º L 268 de 24. 9. 1991, p. 1). Directiva com a redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/a10e6f67-a90b-4f5b-97b4-ae682787ab9f.0016.03/DOC_1#src.E0005)) JO n.º L 224 de 18. 8. 1990, p. 19. Decisão com a última redacção que lhe foi dada pela Decisão 94/370/CE (JO n.º L 168 de 2. 7. 1994, p. 31).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/a10e6f67-a90b-4f5b-97b4-ae682787ab9f.0016.03/DOC_1#src.E0006)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/a10e6f67-a90b-4f5b-97b4-ae682787ab9f.0016.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "b00fda6e24e18c34": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1995L0070 — PT — 01.08.2008 — 008.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31995L0070) [DIRECTIVA 95/70/CE DO CONSELHO](http://publications.europa.eu/resource/celex/31995L0070) [de 22 de Dezembro de 1995](http://publications.europa.eu/resource/celex/31995L0070) [que estabelece medidas comunitárias mínimas de controlo de certas doenças dos moluscos bivalves](http://publications.europa.eu/resource/celex/31995L0070) (JO L 332, 30.12.1995, p.33)\n\n**revogado por:**\n\n- [Directiva 2006/88/CE do Conselho de 24 de Outubro de 2006](http://publications.europa.eu/resource/celex/32006L0088) — L 328 — 14 — 24.11.2006"
+  }
+ }
+}

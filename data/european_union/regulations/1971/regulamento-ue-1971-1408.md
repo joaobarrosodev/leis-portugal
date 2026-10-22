@@ -35,6 +35,62 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-05-01'
+version_history:
+  file: regulamento-ue-1971-1408.versoes.json
+  count: 2
+  source_lastmod: '2010-05-01'
+  versions:
+  - date: '1971-07-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-05-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I — DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1° — Definições
+    - Suprime Artigo 2° — Âmbito de aplicação pessoal
+    - Suprime Artigo 3° — Igualdade de tratamento
+    - Suprime Artigo 4° — Âmbito de aplicação material
+    - Suprime Artigo 5° — Declarações dos Estados-membros relativas ao âmbito de aplicação do presente regulamento
+    - Suprime Artigo 6° — Convenções de segurança social substituídas pelo presente regulamento
+    - Suprime Artigo 7° — Disposições internacionais não prejudicadas pelo presente regulamento
+    - Suprime Artigo 8° — Celebração de convenções entre Estados-membros
+    - Suprime Artigo 9° — Admissão ao seguro voluntário ou facultativo continuado
+    - Suprime Artigo 10° — Supressão das cláusulas de residência
+    - Suprime Artigo 11° — Actualização das prestações
+    - Suprime Artigo 12° — Proibição de cumulação de prestações
+    - Suprime TÍTULO II — DETERMINAÇÃO DA LEGISLAÇÃO APLICÁVEL
+    - Suprime Artigo 13° — Regras gerais
+    - Suprime Artigo 14° — Regras especiais
+    - Suprime Artigo 15° — Regras relativas ao seguro voluntário ou ao seguro facultativo continuado
+    - Suprime Artigo 16°
+    - Suprime Artigo 17° — Excepções ao disposto nos artigos 13° a 16°
+    - Suprime TÍTULO III — DISPOSIÇÕES ESPECIAIS RELATIVAS ÀS DIFERENTES CATEGORIAS DE PRESTAÇÕES
+    - Suprime CAPÍTULO 1 — DOENÇA E MATERNIDADE
+    - Suprime Secção 1 — Disposições comuns
+    - Suprime Artigo 18° — Totalização dos períodos de seguro, de emprego ou de residência
+    - Suprime Secção 2 — Trabalhadores e membros da sua família
+    - Suprime Artigo 19° — Residência num Estado-membro que não seja o Estado competente - Regras gerais
+    - Suprime Artigo 20° — Trabalhadores fronteiriços e membros da sua família - Regras especiais
+    - Suprime Artigo 21° — Estada ou transferência de residência para o Estado competente
+    - Suprime Artigo 22°
+    - Suprime Artigo 23° — Cálculo das prestações pecuniárias
+    - Suprime Artigo 24° — Prestações em espécie de grande importância
+    - Suprime Secção 3 — Desempregados e membros da sua família
+    - Suprime Artigo 25°
+    - Suprime Secção 4 — Requerentes de pensões ou de rendas e membros da sua família
+    - Suprime Artigo 26° — Direito às prestações em espécie no caso de cessação do direito às prestações por parte da instituição
+      que era competente em último lugar
+    - Suprime Secção V — Titulares de pensões ou de rendas e membros da sua família
+    - Suprime Artigo 27° — Pensões ou rendas devidas por força da legislação de vários Estados-membros, quando houver direito
+      às prestações no país de residência
+    - Suprime Artigo 28° — Pensões ou rendas devidas por força da legislação de um único ou de vários Estados, quando não
+      houver direito às prestações no país de residência
+    - Suprime Artigo 29°
+    - Suprime Artigo 30° — Prestações em espécie de grande importância
 identifiers:
   celex: 31971R1408
   eli: http://data.europa.eu/eli/reg/1971/1408/oj
@@ -49,7 +105,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0b3bf387-2f8a-4361-9dea-6682294d9884.0011
   content_url: http://publications.europa.eu/resource/cellar/ce909aa7-c679-4e10-9127-dafeb1f53fef.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01971R1408-20100501
-  retrieved_at: '2026-10-22T02:37:05Z'
+  retrieved_at: '2026-10-22T14:30:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-26T19:02:10.265+01:00'
 integrity:
@@ -58,9 +114,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:05Z'
-  notes: Texto consolidado 01971R1408-20100501.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:30:10Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1971-1408.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -2448,16 +2504,22 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:05Z'
+  checked_at: '2026-10-22T14:30:10Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01971R1408-20000101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01971R1408-20010901: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01971R1408-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01971R1408-20040601: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01971R1408-20050505: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01971R1408-20060428: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01971R1408-20070102: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01971R1408-20080707: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

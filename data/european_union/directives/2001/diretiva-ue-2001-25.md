@@ -35,6 +35,139 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-12-23'
+version_history:
+  file: diretiva-ue-2001-25.versoes.json
+  count: 5
+  source_lastmod: '2008-12-23'
+  versions:
+  - date: '2001-05-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-03-29'
+    amending: eu:celex:32002L0084:por
+    amending_title: DIRECTIVA 2002/84/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5 de Novembro
+      de 2002; DIRECTIVA 2003/103/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 17 de Novembro
+      de 2003; DIRECTIVA 2005/23/CE DA COMISSÃO Texto relevante para efeitos do EEE de 8 de Março de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 5.º — Certificados e autenticações
+    - Altera Artigo 17.º — Comunicação a bordo
+    - Altera Artigo 18.º — Reconhecimento de certificados
+    - Altera Artigo 22.º — Alteração
+    - Altera Artigo 23.º — Procedimento do comité
+    - Altera Artigo 29.º — Destinatários
+    - Altera ANEXO II
+    - Adita Artigo 10.º — Normas médicas — Emissão e registo de certificados
+    - Adita Artigo 18.ºA
+    - Adita Artigo 18.ºB
+    - Adita ANEXO I
+    - Adita REQUISITOS DA CONVENÇÃO NFCSQ EM MATÉRIA DE FORMAÇÃO REFERIDOS NO ARTIGO 3.º
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita CAPÍTULO II
+    - Adita COMANDANTE E SECÇÃO DE CONVÉS
+    - Adita Regra II/1
+    - Adita Requisitos mínimos obrigatórios para a certificação de oficiais chefes de quarto de navegação de navios de arqueação
+      bruta igual ou superior a 500
+    - Adita Regra II/2
+    - Adita Requisitos mínimos obrigatórios para a certificação de comandantes e imediatos de navios de arqueação bruta igual
+      ou superior a 500
+    - Adita Regra II/3
+    - Adita Requisitos mínimos obrigatórios para a certificação de oficiais chefes de quarto de navegação e comandantes de
+      navios de arqueação bruta inferior a 500
+    - Adita Regra II/4
+    - Adita Requisitos mínimos obrigatórios para a certificação de marítimos de mestrança e marinhagem que fazem parte de
+      quartos de navegação
+    - Adita CAPÍTULO III
+    - Adita SECÇÃO DE MÁQUINAS
+    - Adita Regra III/1
+    - Adita Requisitos mínimos obrigatórios para a certificação de oficiais chefes de quarto de máquinas em casas de máquinas
+      com pessoal permanente e de oficiais de máquinas de serviço em casas de máquinas sem pessoal permanente
+    - Adita Regra III/2
+    - Adita Requisitos mínimos obrigatórios para a certificação de chefes de máquinas e segundo-oficiais de máquinas de navios
+      cuja máquina principal tenha uma potência propulsora igual ou superior a 3 000 kW
+    - Adita Regra III/3
+    - Adita Requisitos mínimos obrigatórios para a certificação de chefes de máquinas e segundo-oficiais de máquinas de navios
+      cuja máquina principal tenha uma potência propulsora de 750 e 3 000 kW
+    - Adita Regra III/4
+    - Adita Requisitos mínimos obrigatórios para a certificação de marítimos da mestrança e marinhagem que façam parte de
+      quartos em casas de máquinas com pessoal permanente ou sejam designados para prestar serviço em casas de máquinas sem
+      pessoal permanente
+    - Adita CAPÍTULO IV
+    - Adita SERVIÇO E PESSOAL DE RADIOCOMUNICAÇÕES
+    - Adita Nota explicativa
+    - Adita Regra IV/1
+  - date: '2005-10-20'
+    amending: eu:celex:32005L0045:por
+    amending_title: DIRECTIVA 2005/45/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 7 de Setembro
+      de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Certificado
+    - Altera Artigo 18.º — Reconhecimento de certificados
+    - Altera Artigo 22.º — Alteração
+    - Altera DISPOSIÇÕES GERAIS
+    - Altera ANEXO IV
+    - Altera Notas
+    - Adita Artigo 7.ºA — Prevenção da fraude e de outras práticas ilegais
+    - Adita Artigo 21.ºA — Verificação regular da conformidade
+    - Adita Artigo 21.ºB — Relatório de conformidade
+  - date: '2007-10-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 18.º — Reconhecimento de certificados
+    - Altera Artigo 21.ºA — Verificação regular da conformidade
+    - Altera Artigo 22.º — Alteração
+    - Altera ANEXO IV
+    - Altera Notas
+  - date: '2008-12-23'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Definições
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Formação e certificação
+    - Suprime Artigo 4.º — Certificado
+    - Suprime Artigo 5.º — Certificados e autenticações
+    - Suprime Artigo 6.º — Requisitos de formação
+    - Suprime Artigo 7.º — Princípios que regulam as viagens costeiras
+    - Suprime Artigo 7.ºA — Prevenção da fraude e de outras práticas ilegais
+    - Suprime Artigo 8.º — Sanções e medidas disciplinares
+    - Suprime Artigo 9.º — Normas de qualidade
+    - Suprime Artigo 10.º — Normas médicas — Emissão e registo de certificados
+    - Suprime Artigo 11.º — Revalidação de certificados
+    - Suprime Artigo 12.º — Utilização de simuladores
+    - Suprime Artigo 13.º — Responsabilidades das companhias
+    - Suprime Artigo 14.º — Aptidão para o serviço
+    - Suprime Artigo 15.º — Dispensa
+    - Suprime Artigo 16.º — Possibilidades dos Estados-Membros em relação à formação e avaliação
+    - Suprime Artigo 17.º — Comunicação a bordo
+    - Suprime Artigo 18.º — Reconhecimento de certificados
+    - Suprime Artigo 18.ºA
+    - Suprime Artigo 18.ºB
+    - Suprime Artigo 19.º — Inspecção pelo Estado do porto
+    - Suprime Artigo 20.º — Procedimento de inspecção pelo Estado do porto
+    - Suprime Artigo 21.º — Retenção
+    - Suprime Artigo 21.ºA — Verificação regular da conformidade
+    - Suprime Artigo 21.ºB — Relatório de conformidade
+    - Suprime Artigo 22.º — Alteração
+    - Suprime Artigo 23.º — Procedimento do comité
+    - Suprime Artigo 24.º — Disposições transitórias
+    - Suprime Artigo 25.º — Sanções
+    - Suprime Artigo 26.º — Comunicação
+    - Suprime Artigo 27.º — Revogação
+    - Suprime Artigo 28.º — Entrada em vigor
+    - Suprime Artigo 29.º — Destinatários
+    - Suprime ANEXO I
+    - Suprime REQUISITOS DA CONVENÇÃO NFCSQ EM MATÉRIA DE FORMAÇÃO REFERIDOS NO ARTIGO 3.º
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime CAPÍTULO II
 identifiers:
   celex: 32001L0025
   eli: http://data.europa.eu/eli/dir/2001/25/oj
@@ -49,7 +182,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/974631c2-8a30-4896-b981-b0e683def81d.0010
   content_url: http://publications.europa.eu/resource/cellar/76c06f08-ecc0-4844-be39-d713aabd9d84.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0025-20081223
-  retrieved_at: '2026-10-22T02:51:15Z'
+  retrieved_at: '2026-10-22T14:50:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T08:14:36.582+01:00'
 integrity:
@@ -58,9 +191,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:15Z'
-  notes: Texto consolidado 02001L0025-20081223.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:03Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2001-25.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -158,16 +291,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:15Z'
+  checked_at: '2026-10-22T14:50:03Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02001L0025-20021129: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001L0025-20031214: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

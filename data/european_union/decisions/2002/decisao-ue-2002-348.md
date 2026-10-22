@@ -34,6 +34,24 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-06-16'
+version_history:
+  file: decisao-ue-2002-348.versoes.json
+  count: 2
+  source_lastmod: '2007-06-16'
+  versions:
+  - date: '2002-05-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-16'
+    amending: eu:celex:32007D0412:por
+    amending_title: DECISÃO 2007/412/JAI DO CONSELHO de 12 de Junho de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Tarefas do ponto nacional de informações sobre futebol
+    - Altera Artigo 3.º — Intercâmbio de informações policiais entre pontos nacionais de informações sobre futebol
+    - Altera Artigo 7.º — Entrada em vigor
+    - Adita Notas
 identifiers:
   celex: 32002D0348
   eli: http://data.europa.eu/eli/dec/2002/348/oj
@@ -48,7 +66,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/df62dda3-0012-4b86-926a-dccb61299a56.0010
   content_url: http://publications.europa.eu/resource/cellar/02a0b52f-6746-47d8-bcea-1d8714992507.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002D0348-20070616
-  retrieved_at: '2026-10-22T03:10:23Z'
+  retrieved_at: '2026-10-22T14:51:07Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T12:47:31.672+01:00'
 integrity:
@@ -57,9 +75,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:10:23Z'
-  notes: Texto consolidado 02002D0348-20070616.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:07Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2002-348.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -110,29 +128,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/bf32786c-089b-478c-a00b-01cefc255888
 article_structure:
   article_count: 7
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:10:23Z'
+  checked_at: '2026-10-22T14:51:07Z'
   warnings: []
   errors: []
 ---
 
 # 2002/348/JAI: Decisão do Conselho, de 25 de Abril de 2002
-
-> 2002D0348 — PT — 16.06.2007 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007D0412) — [DECISÃO 2007/412/JAI DO CONSELHO de 12 de Junho de 2007](http://publications.europa.eu/resource/celex/32007D0412) — L 155 — 76 — 15.6.2007
-
-## DECISÃO DO CONSELHO
 
 de 25 de Abril de 2002
 

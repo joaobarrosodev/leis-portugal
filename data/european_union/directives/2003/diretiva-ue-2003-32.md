@@ -35,6 +35,71 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-08-29'
+version_history:
+  file: diretiva-ue-2003-32.versoes.json
+  count: 3
+  source_lastmod: '2013-08-29'
+  versions:
+  - date: '2003-04-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-05-16'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera ANEXO
+    - Adita 1. ANÁLISE DO RISCO E GESTÃO DO RISCO
+    - Adita 1.1. Justificação para a utilização de tecidos ou derivados animais
+    - Adita 1.2. Procedimento de avaliação
+    - Adita 1.2.1. Os animais como origem de matérias
+    - Adita 1.2.2. Abastecimento geográfico
+    - Adita 1.2.3. Natureza do tecido de base
+    - Adita 1.2.3.1. Ovinos e caprinos
+    - Adita 1.2.3.2. Bovinos
+    - Adita 1.2.4. Desactivação ou remoção de agentes transmissíveis
+    - Adita 1.2.5. Quantidades de tecidos ou derivados animais de base necessárias para produzir uma unidade do dispositivo
+      médico
+    - Adita 1.2.6. Tecidos ou derivados de origem animal que entram em contacto com os pacientes ou os utilizadores
+    - Adita 1.2.7. Via de administração
+    - Adita 1.3. Revisão da avaliação
+    - Adita 2. AVALIAÇÃO DOS DISPOSITIVOS MÉDICOS DA CLASSE III PELOS ORGANISMOS NOTIFICADOS
+    - Adita Notas
+  - date: '2013-08-29'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime ANEXO
+    - Suprime 1. ANÁLISE DO RISCO E GESTÃO DO RISCO
+    - Suprime 1.1. Justificação para a utilização de tecidos ou derivados animais
+    - Suprime 1.2. Procedimento de avaliação
+    - Suprime 1.2.1. Os animais como origem de matérias
+    - Suprime 1.2.2. Abastecimento geográfico
+    - Suprime 1.2.3. Natureza do tecido de base
+    - Suprime 1.2.3.1. Ovinos e caprinos
+    - Suprime 1.2.3.2. Bovinos
+    - Suprime 1.2.4. Desactivação ou remoção de agentes transmissíveis
+    - Suprime 1.2.5. Quantidades de tecidos ou derivados animais de base necessárias para produzir uma unidade do dispositivo
+      médico
+    - Suprime 1.2.6. Tecidos ou derivados de origem animal que entram em contacto com os pacientes ou os utilizadores
+    - Suprime 1.2.7. Via de administração
+    - Suprime 1.3. Revisão da avaliação
+    - Suprime 2. AVALIAÇÃO DOS DISPOSITIVOS MÉDICOS DA CLASSE III PELOS ORGANISMOS NOTIFICADOS
+    - Suprime Notas
 identifiers:
   celex: 32003L0032
   eli: http://data.europa.eu/eli/dir/2003/32/oj
@@ -49,7 +114,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/be539020-44a7-4c83-b27e-262887a6f18a.0010
   content_url: http://publications.europa.eu/resource/cellar/fdfeb445-ccdf-4a34-8453-b479b2b286f2.0005.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0032-20130829
-  retrieved_at: '2026-10-22T02:47:32Z'
+  retrieved_at: '2026-10-22T14:54:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T14:45:47.340+01:00'
 integrity:
@@ -58,9 +123,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:32Z'
-  notes: Texto consolidado 02003L0032-20130829.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:40Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2003-32.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -116,16 +181,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:32Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:54:40Z'
+  warnings: []
   errors: []
 ---
 

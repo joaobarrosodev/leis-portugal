@@ -1,0 +1,319 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31966L0400:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01966L0400-20020809",
+ "dre_path": null,
+ "source_lastmod": "2002-08-09",
+ "versions": [
+  {
+   "date": "1966-07-11",
+   "future": false,
+   "celex": "31966L0400",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "71d02d307b0910f9",
+    "867ff60a0cde9175",
+    "59c6a0f5ec539188",
+    "153d5cea8f82032a",
+    "bc75666357ba9749",
+    "7be145af5b9f78a3",
+    "7ccf130a9f477956",
+    "8557d2fb8eee5bc2",
+    "ee5ae046227ac119",
+    "7a19e0e8220fd90b",
+    "6614d9d26aa18777",
+    "46367161cb3a0311",
+    "594797352f7adde1",
+    "eee5fdb0e3e08315",
+    "c0095dede00964d0",
+    "dfd2a4051230151e",
+    "2b8eafcc90a1bfca",
+    "d4b6711f70e80850",
+    "5cd963491c9049e9",
+    "8cde2f20c44254f9",
+    "6c4cb4d877aea2b4",
+    "7a3cbc602422c3ef",
+    "378ecc8abe4570a5",
+    "e760b564bb6253a6",
+    "b911235c84a4ab79",
+    "657d948674d44772",
+    "e3f32059bbb4450d",
+    "3b6c679f7600553c"
+   ]
+  },
+  {
+   "date": "2002-08-09",
+   "future": false,
+   "celex": "01966L0400-20020809",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.",
+    "Suprime Artigo 2.",
+    "Suprime Artigo 3.",
+    "Suprime Artigo 4. — Os Estados-membros podem, todavia, autorizar com derrogação das disposições no artigo 3.,",
+    "Suprime Artigo 5.",
+    "Suprime Artigo 6.",
+    "Suprime Artigo 7.",
+    "Suprime Artigo 8. — Os Estados-membros determinarão que as sementes da categoria «sementes certificadas» só podem ser comercializadas,",
+    "Suprime Artigo 9.",
+    "Suprime Artigo 10.",
+    "Suprime Artigo 11.",
+    "Suprime Artigo 12.",
+    "Suprime Artigo 13.",
+    "Suprime Artigo 14.",
+    "Suprime Artigo 15.",
+    "Suprime Artigo 16.",
+    "Suprime Artigo 17.",
+    "Suprime Artigo 18.",
+    "Suprime Artigo 19.",
+    "Suprime Artigo 20.",
+    "Suprime Artigo 21.",
+    "Suprime Artigo 22.",
+    "Suprime Artigo 23.",
+    "Suprime Artigo 24.",
+    "Suprime ANEXO I — Condições relativas à certificação",
+    "Suprime ANEXO II — Peso máximo do lote: // 20 toneladas,",
+    "Suprime ANEXO III — Rótulo"
+   ],
+   "fragments": [
+    "8a338a3aaae2334c"
+   ]
+  }
+ ],
+ "fragments": {
+  "71d02d307b0910f9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 66/400/CEE do Conselho, de 14 de Junho de 1966, relativa à comercialização de sementes de beterrabas** *Jornal Oficial nº 125 de 11/07/1966 p. 2290 - 2297 Edição especial dinamarquesa: Série I Capítulo 1965-1966 p. 0108 Edição especial inglesa: Série I Capítulo 1965-1966 p. 0124 Edição especial grega: Capítulo 03 Fascículo 1 p. 0235 Edição especial espanhola: Capítulo 03 Fascículo 1 p. 0166 Edição especial portuguesa: Capítulo 03 Fascículo 1 p. 0166 Edição especial finlandesa: Capítulo 3 Fascículo 1 p. 0123 Edição especial sueca: Capítulo 3 Fascículo 1 p. 0123*\n\nDIRECTIVA DO CONSELHO de 14 de Junho de 1966 relativa a la comercialização de sementes de beterrabas (66/400/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 43. e 100.,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\n(1) JO n. 109 de 9.7.1964, p. 1744/64.\n\nTendo em conta o parecer do Comité Económico e Social,\n\nConsiderando que a produção da beterraba açucareira e forrageira, adiante designadas por «beterrabas», ocupa um lugar importante na agricultura da Comunidade Económica Europeia;\n\nConsiderando que na cultura da beterraba os resultados satisfatórios dependem em larga medida da utilização de sementes adequadas; que com esta finalidade alguns Estados-membros limitaram, desde há algum tempo, a comercialização de sementes de beterraba à das sementes de alta qualidade; que beneficiaram do resultado dos trabalhos de selecção sistemática de plantas prosseguidos desde há várias dezenas de anos tendo conseguido obter tipos e variedades de beterraba suficientemente estáveis e homogéneas, cujas características permitem que se prevejam vantagens substanciais relativamente às utilizações previstas;\n\nConsiderando que será obtida na Comunidade maior produtividade em matéria de cultura da beterraba através da aplicação pelos Estados-membros de regras unificadas e tão rigorosas quanto possível no que respeita à escolha dos tipos e variedades admitidas na comercialização;\n\nConsiderando, todavia, que limitar o comércio a certas variedades só se justifica na medida em que exista simultaneamente para o agricultor a garantia de que obterá efectivamente sementes desses mesmos tipos e variedades;\n\nConsiderando que, para isso, certos Estados-membros aplicam sistemas de certificação que têm como objecto garantir a identidade e a pureza dos tipos ou variedades através de um controlo oficial;\n\nConsiderando que esses sistemas já existem no plano internacional relativamente às sementes de milho (Organização das Nações Unidas para a Alimentação e a Agricultura) e às sementes de plantas forrageiras Organização de Cooperação e de Desenvolvimento Económicos);\n\nConsiderando que convém estabelecer em relação à Comunidade um sistema de certificação baseado nas experiências adquiridas através da aplicação dos sistemas acima referidos;\n\nConsiderando que convém que um tal sistema seja aplicável ao comércio tanto entre os Estados- membros como nos mercados nacionais;\n\nConsiderando que, regra geral, as sementes de beterraba só devem poder ser comercializadas se, de acordo com as regras de certificação, tiverem sido oficialmente examinadas e certificadas como sementes de base ou sementes certificadas; que a escolha das expressões técnicas «sementes de base» e «sementes certificadas» se baseia na terminologia internacional já existente;\n\nConsiderando que convém que as sementes de beterraba não comercializadas sejam excluídas do campo de aplicação das regras comunitárias dada a sua fraca importância económica; que não deve ser afectado o direito de os Estados- membros as submeterem a prescrições especiais;\n\nConsiderando que convém não aplicar as regras comunitárias às sementes para as quais existe a prova de que se destinam à exportação para países terceiros,\n\nConsiderando que para melhorar, na Comunidade, a qualidade das sementes de beterraba devem ser previstas certas condições no que respeita à poliploidia, à monogermia, bem como à segmentação, pureza específica, faculdade germinativa e teor de humidade; que convém que as disposições nesta matéria sejam adoptadas tendo em conta as condições já aplicadas em larga medida no comércio das sementes de beterraba açucareira com base nas recomendações ao Instituto Internacional de Investigação da Beterraba;\n\nConsiderando que para assegurar a identidade das sementes devem ser fixadas regras comunitárias relativas à embalagem, à colheita de amostras, ao fecho e marcação; que, para isso, nos rótulos devem constar as indicações necessárias para o exercício do controlo oficial, bem como a informação para o agricultor e se deve evidenciar o carácter comunitário da certificação;\n\nConsiderando que para se garantir na comercialização o respeito das condições relativas à qualidade das sementes e das disposições que asseguram a sua identidade, os Estados-membros devem prever disposições adequadas de controlo;\n\nConsiderando que as sementes que obedecem a essas condições só devem ser submetidas a restrições de comercialização previstas pelas regras comunitárias, sem prejuízo da aplicação do artigo 36. do Tratado;\n\nConsiderando que convém, numa primeira fase e até ao estabelecimento de um catálogo comum dos tipos ou variedades, que nessas restrições se inclua nomeadamente o direito de os Estados-membros limitarem a comercialização das sementes aos tipos ou variedades que tenham um valor de cultura e de utilização, relativamente ao seu território;\n\nConsiderando que é necessário que, sob certas condições, se reconheça uma equivalência entre sementes multiplicadas noutro país, a partir de sementes de base certificadas num Estado-membro, e sementes multiplicadas nesse Estado-membro;\n\nConsiderando, por outro lado, que convém prever que as sementes de beterraba produzidas em países terceiros só poderão ser comercializadas na Comunidade se oferecerem as mesmas garantias das sementes oficialmente certificadas na Comunidade e em conformidade com as regras comunitárias;\n\nConsiderando que convém admitir provisoriamente sementes submetidas a exigências reduzidas, relativamente a períodos em que o aprovisionamento de sementes certificadas das diferentes categorias enfrenta dificuldades;\n\nConsiderando que, a fim de harmonizar os métodos técnicos de certificação dos diferentes Estados-membros e para futuramente poder comparar as sementes certificadas no interior da Comunidade e as provenientes de países terceiros, é conveniente que se estabeleçam campos comparativos comunitários nos Estados-membros para que se possam controlar anualmente a posteriori sementes da categoria «sementes certificadas»;\n\nConsiderando que convém confiar à Comissão a tarefa de tomar certas medidas de aplicação; que, para facilitar a execução das medidas previstas convém que se defina um procedimento que instaure estreita cooperação entre os Estados-membros e a Comissão, no âmbito de um Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "867ff60a0cde9175": {
+   "fragment_id": "Artigo 1.",
+   "type": "artigo",
+   "heading": "Artigo 1.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.\n\nA presente directiva diz respeito às sementes de beterraba comercializadas na Comunidade."
+  },
+  "59c6a0f5ec539188": {
+   "fragment_id": "Artigo 2.",
+   "type": "artigo",
+   "heading": "Artigo 2.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.\n\nNa acepção da presente directiva deve entender-se por:\n\nA. Beterraba: as beterrabas açucareiras e forrageiras da espécie Beta vulgaris L.\n\nB. Sementes de base: as sementes,\n\na) Que tenham sido produzidos sob a responsabilidade do produtor, de acordo com regras de selecção rigorosas no que respeita a tipo e à variedade;\n\nb) Que estão previstas para a produção de sementes da categoria «sementes certificadas»;\n\nc) Que, sob reserva das disposições do artigo 4., obedeçam às condições previstas no Anexo I em relação às sementes de base e\n\nd) Relativamente às quais se verificou num exame oficial, que as condições acima referidas foram respeitadas.\n\nC. Sementes certificadas: as sementes,\n\na) Que provêm directamente de sementes de base;\n\nb) Que estão previstas para a produção de beterraba;\n\nc) Que, sob reserva das disposições da alínea b) do artigo 4., obedeçam às condições previstas no Anexo I em relação às sementes certificadas e\n\nd) Em relação às quais se tenha verificado, em exame oficial, que as condições referidas foram respeitadas.\n\nD. Sementes monogérmicas: as sementes geneticamente monogérmicas.\n\nE. Sementes segmentadas: as sementes transformadas artificialmente em monogérmicas.\n\nF. Disposições oficiais: as disposições adoptadas,\n\na) Pelas autoridades de um Estado ou,\n\nb) So a responsabilidade de um Estado, por pessoas colectivas de direito público ou privado ou,\n\nc) Em relação a actividades auxiliares igualmente sob controlo de um Estado, por pessoas singulares ajuramentadas,\n\nna condição de que as pessoas referidas nas alíneas b) e c) não benficiem de proveito particular do resultado dessa disposições."
+  },
+  "153d5cea8f82032a": {
+   "fragment_id": "Artigo 3.",
+   "type": "artigo",
+   "heading": "Artigo 3.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.\n\n1. Os Estados-membros determinam que as sementes de beterraba apenas podem ser comercializadas se tiverem sido oficialmente certificadas «sementes de base» ou «sementes certificadas» e se obedecerem às condições previstas na parte B do Anexo I.\n\n2. Os Estados-membros velarão para que os exames oficiais sejam efectuados de acordo com os métodos internacionais usuais, na medida em que tais métodos existam.\n\n3. Os Estados-membros podem determinar derrogações às disposições do n. 1:\n\na) Relativamente às sementes de selecção de gerações anteriores às sementes de base;\n\nb) Relativamente a ensaios ou para fins científicos;\n\nc) Relativamente a trabalhos de selecção;\n\nd) Relativamente a sementes em bruto comercializadas com vista ao acondicionamento desde que a identidade dessas sementes esteja garantida."
+  },
+  "bc75666357ba9749": {
+   "fragment_id": "Artigo 4. — Os Estados-membros podem, todavia, autorizar com derrogação das disposições no artigo 3.,",
+   "type": "artigo",
+   "heading": "Artigo 4. — Os Estados-membros podem, todavia, autorizar com derrogação das disposições no artigo 3.,",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4. — Os Estados-membros podem, todavia, autorizar com derrogação das disposições no artigo 3.,\n\na) A certificação oficial e a comercialização de sementes de base que não obedeçam às condições previstas no Anexo I, no que respeita à faculdade germinativa; com este fim são tomadas todas as disposições úteis, para que o fornecedor garanta uma determinada faculdade germinativa que ele indicará relativamente à comercialização, em rótulo especial onde conste o seu nome e endereço e o número de referência do lote;\n\nb) No interesse de um aprovisionamento rápido de sementes, a certificação oficial e a comercialização até ao primeiro destinatário comercial de sementes das categorias «sementes de base» ou «sementes certificadas» em relação às quais não estiver terminado o exame oficial destinado a controlar o respeito das condições previstas no Anexo I relativamente à faculdade germinativa. A certificação só será concedida mediante a apresentação de um relatório de análise provisório das sementes e na condição de que sejam indicados o nome e o endereço do primeiro destinatário; todas as disposições úteis são tomadas para que o fornecedor garanta a faculdade germinativa verificada aquando da análise provisória; a indicação desta faculdade germinativa deve constar, relativamente à comercialização, num rótulo especial onde conste o nome e o endereço do fornecedor e o número de referência do lote.\n\nEstas disposições não se aplicam às sementes importadas de países terceiros, salvo nos casos previstos no artigo 15. no que respeita à multiplicação fora da Comunidade."
+  },
+  "7be145af5b9f78a3": {
+   "fragment_id": "Artigo 5.",
+   "type": "artigo",
+   "heading": "Artigo 5.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.\n\nOs Estados-membros podem fixar, em relação às condições previstas no Anexo I, condições suplementares ou mais rigorosas no que respeita à certificação da sua própria produção."
+  },
+  "7ccf130a9f477956": {
+   "fragment_id": "Artigo 6.",
+   "type": "artigo",
+   "heading": "Artigo 6.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.\n\n1. Cada Estado-membro elaborará uma lista dos tipos ou variedades de beterraba admitidas oficialmente à certificação no seu território; a lista indicará as principais características morfológicas ou fisiológicas que permitam distinguir entre elas os tipos ou variedades de plantas provenientes directamente de sementes da categoria «sementes certificadas».\n\n2. Relativamente aos híbridos e às variedades sintéticas, os componentes genealógicos serão comunicados aos serviços responsáveis da admissão e da certificação. Os Estados-membros velarão para que, a pedido do produtor, o exame e a descrição dos componentes genealógicos sejam mantidos confidenciais.\n\n3. Um tipo ou uma variedade só será admitida à certificação se, durante 3 anos sucessivos, se tiver verificado, através de exames oficiais ou oficialmente controlados, efectuados, nomeadamente, em cultura, que o tipo ou a variedade é suficientemente homogénea e estável.\n\n4. Os tipos e as variedades admitidas são regularmente e oficialmente controlados. Se se verificar durante os exames, nomeadamente em cultura, incidindo sobre vários anos que alguma das condições da admissão à certificação já não é preenchida, a admissão será anulada e o tipo ou a variedade será suprimida da lista. Quando se verificar alteração de uma ou de várias características secundárias de um tipo ou duma variedade, a descrição na lista será imediatamente alterada.\n\n5. A lista e as diversas alterações são imediatamente notificadas à Comissão que as comunicará aos outros Estados-membros."
+  },
+  "8557d2fb8eee5bc2": {
+   "fragment_id": "Artigo 7.",
+   "type": "artigo",
+   "heading": "Artigo 7.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.\n\n1. Os Estados-membros determinarão que, durante o processo de controlo das variedades e durante o exame das sementes para certificação, as amostras sejam colhides oficialmente de acordo com métodos adequados.\n\n2. Durante o exame das sementes para certificação, as amostras são colhidas em lotes homogéneos; o peso máximo de cada lote e o peso mínimo das amostras estão definidos no Anexo II."
+  },
+  "ee5ae046227ac119": {
+   "fragment_id": "Artigo 8. — Os Estados-membros determinarão que as sementes da categoria «sementes certificadas» só podem ser comercializadas,",
+   "type": "artigo",
+   "heading": "Artigo 8. — Os Estados-membros determinarão que as sementes da categoria «sementes certificadas» só podem ser comercializadas,",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8. — Os Estados-membros determinarão que as sementes da categoria «sementes certificadas» só podem ser comercializadas,\n\na) Como sementes poliploides, se a percentagem de diploides não ultrapassar 40%;\n\nb) Como sementes triploides, se a percentagem de triploides atingir pelo menos 75%,\n\nc) Como sementes tetraploides, se a percentagem de tetraploides atingir pelo menos 85%."
+  },
+  "7a19e0e8220fd90b": {
+   "fragment_id": "Artigo 9.",
+   "type": "artigo",
+   "heading": "Artigo 9.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.\n\n1. Os Estados-membros determinarão que as sementes de base e as sementes certificadas apenas podem ser comercializadas em remessas suficientemente homogéneas e em embalagens fechadas, munidas, de acordo com o disposto nos artigos 10. e 11., de um sistema de fecho e de marcação.\n\n2. Relativamente à comercialização de pequenas quantidades no utilizador final, os Estados-membros podem determinar derrogações ao disposto no n. 1 no que respeita à embalagem, sistema de fecho e marcação."
+  },
+  "6614d9d26aa18777": {
+   "fragment_id": "Artigo 10.",
+   "type": "artigo",
+   "heading": "Artigo 10.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.\n\n1. Os Estados-membros determinarão que as embalagens de sementes de base e de sementes certificadas sejam fechadas oficialmente de modo que, na abertura da embalagem, o sistema de fecho seja deteriorado e não possa ser recolocado.\n\n2. Apenas oficialmente se pode proceder a novo fecho. Neste caso, é igualmente feita menção, no rótulo previsto no n. 1 do artigo 11., da nova operação de fecho, da data e do serviço que a efectuou."
+  },
+  "46367161cb3a0311": {
+   "fragment_id": "Artigo 11.",
+   "type": "artigo",
+   "heading": "Artigo 11.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.\n\n1. Os Estados-membros determinarão que as embalagens de sementes de base e de sementes certificadas:\n\na) Sejam portadoras, no exterior, de um rótulo oficial em conformidade com o Anexo III, redigido numa das línguas oficiais da Comunidade; a sua fixação será assegurada pelo sistema de fecho oficial; o rótulo será de cor branca nas sementes de base e azul nas sementes certificadas; no comércio entre os Estados- membros o rótulo indicará a dato do fecho oficial; Se, no caso previsto no alínea a) do artigo 4., as sementes de base não obedecerem às condições constantes do Anexo I, em relação à faculdade germinativa, disso se fará menção no rótulo.\n\nb) Contenham, no interior, instruções oficiais sobre a cor do rótulo reproduzindo as indicações constante do Anexo III relativamente ao rótulo; serão dispensadas essas instruções quando as indicações estiverem impressas de maneira indelével na embalagem.\n\n2. Os Estados-membros podem:\n\na) Determinar que o rótulo deve indicar, em todos os casos, a data de fecho oficial;\n\nb) Prever derrogações às disposições do n. 1, relativamente às pequenas embalagens."
+  },
+  "594797352f7adde1": {
+   "fragment_id": "Artigo 12.",
+   "type": "artigo",
+   "heading": "Artigo 12.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.\n\nNão é afectado o direito dos Estados- membros de determinar que as embalagens de sementes de base ou de sementes certificadas de produção nacional ou importadas sejam munidas, com vista à comercialização no seu território, noutros casos diferentes dos previstos no artigo 4., de um rótulo do fornecedor."
+  },
+  "eee5fdb0e3e08315": {
+   "fragment_id": "Artigo 13.",
+   "type": "artigo",
+   "heading": "Artigo 13.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.\n\nOs Estados-membros determinarão que qualquer tratamento químico das sementes de base ou das sementes certificadas seja indicado ou no rótulo oficial, ou no rótulo de fornecedor bem como sobre a embalagem ou no seu interior."
+  },
+  "c0095dede00964d0": {
+   "fragment_id": "Artigo 14.",
+   "type": "artigo",
+   "heading": "Artigo 14.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.\n\n1. Os Estados- membros velarão para que as sementes de base e as sementes certificadas, que foram oficialmente certificadas e cuja embalagem tenha sido oficialmente marcada e fechada em conformidade com as disposições da presente directiva, sejam submetidas apenas às restrições de comercialização previstas na presente directiva no que respeita às suas características, às disposições do exame, à marcação e ao fecho.\n\n2. Os Estados-membros podem:\n\na) Limitar a comercialização das sementes de beterraba às sementes de tipos ou variedades constantes de uma lista nacional baseada no valor de cultura e de utilização em relação aos seu território, até que um catálogo comum dos tipos ou variedades possa entrar em vigor, devendo esta entrada em vigor ocorrer, no máximo, até 1 de Janeiro de 1970; as condições de inscrição nesta lista, em relação aos tipos e variedades provenientes de outros Estados-membros, são as mesmas tipos e variedades nacionais;\n\nb) Determinar que as sementes de beterraba só podem ser comercializadas se estiverem em conformidade com calibres definidos."
+  },
+  "dfd2a4051230151e": {
+   "fragment_id": "Artigo 15.",
+   "type": "artigo",
+   "heading": "Artigo 15.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.\n\nOs Estados-membros determinam que as sementes de beterraba provenientes directamente de sementes de base certificadas num Estado-membro e produzidas noutro Estado-membro ou num país terceiro são equivalentes às sementes certificadas produzidas no Estado produtor das sementes de base, se tiverem sido submetidos no campo da produção a uma inspecção de campo que satisfaça às condições previstas na parte A do Anexo I e se tiver sido verificado através de um exame oficial que se observaram as condições constantes da parte B do Anexo I relativamente às sementes certificadas."
+  },
+  "2b8eafcc90a1bfca": {
+   "fragment_id": "Artigo 16.",
+   "type": "artigo",
+   "heading": "Artigo 16.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.\n\n1. O Conselho, por proposta da Comissão, deliberando por maioria qualificada verificará:\n\na) Se, no caso previsto no artigo 15., as inspecções de campo obedecem, num país terceiro às condições previstas na parte A do Anexo I;\n\nb) Se as sementes de beterraba produzidas num país terceiro e que forneçam as mesmas garantias quanto às suas características bem como às disposições adoptadas relativamente ao seu exame, para assegurar a sua identidade, para a sua marcação e para o seu controlo, são, neste aspecto, equivalentes às sementes de base ou às sementes certificadas produzidas na Comunidade e estão em conformidade com as disposições da presente directiva.\n\n2. Enquanto o Conselho não se tiver pronunciado, de acordo com o disposto no n. 1, os Estados-membros podem eles próprios proceder às verificações previstas no referido número. Este direito caducará em 1 de Julho de 1969."
+  },
+  "d4b6711f70e80850": {
+   "fragment_id": "Artigo 17.",
+   "type": "artigo",
+   "heading": "Artigo 17.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.\n\n1. A fim de eliminar dificuldades passageiras de aprovisionamento geral em sementes de base ou em sementes certificadas que surjam pelo menos num Estado-membro e insuperáveis no interior da Comunidade, a Comissão pode autorizar um ou vários Estados-membros, de acordo com o procedimento previsto no artigo 21., a admitir no comércio, por um período por ela determinado, sementes de uma categoria submetida a exigências reduzidas.\n\n2. Quando se trata de uma categoria de sementes dum tipo ou de uma variedade determinada, o rótulo oficial será o previsto para a categoria correspondente e, nos restantes casos, a cor será amarelo escuro. O rótulo indicará sempre que se trata de sementes de uma categoria submetida a exigências reduzidas."
+  },
+  "5cd963491c9049e9": {
+   "fragment_id": "Artigo 18.",
+   "type": "artigo",
+   "heading": "Artigo 18.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.\n\nA presente directiva não se aplica às sementes de beterraba para as quais se prova destinarem-se à exportação para países terceiros."
+  },
+  "8cde2f20c44254f9": {
+   "fragment_id": "Artigo 19.",
+   "type": "artigo",
+   "heading": "Artigo 19.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.\n\nOs Estados-membros adoptarão todas as disposições úteis que permitam que durane a comercialização seja efectuado, pelo menos por amostragem, o controlo oficial de sementes de beterraba relativamente ao respeito das condições previstas pela presente directiva."
+  },
+  "6c4cb4d877aea2b4": {
+   "fragment_id": "Artigo 20.",
+   "type": "artigo",
+   "heading": "Artigo 20.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.\n\n1. Serão estabelecidos no interior da Comunidade campos comparativos, nos quais será anualmente executado um controlo à posteriori de amostras de sementes certificadas de beterraba recolhidas por amostragem; esses campos são submetidos ao exame do Comité previsto no artigo 21.\n\n2. Numa primeira fase, os exames comparativos servirão para harmonizar os métodos técnicos de certificação a fim de obter a equivalência dos resultados. Logo que tenha sido atingido este objectivo, os exames comparativos constarão de um relatório anual de actividade notificado confidencialmente aos Estados-membros e à Comissão. A Comissão, de acordo com o procedimento previsto no artigo 21., determina a data em que o relatório é pela primeira vez elaborado.\n\n3. A Comissão adoptará, de acordo com o procedimento previsto no artigo 21., as disposições necessárias para execução dos exames comparativos. Sementes de beterraba produzidas em países terceiros podem ser incluídas nos exames comparativos."
+  },
+  "7a3cbc602422c3ef": {
+   "fragment_id": "Artigo 21.",
+   "type": "artigo",
+   "heading": "Artigo 21.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.\n\n1. Quando seja feita remissão para o procedimento definido no presente artigo, o Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais, instituído pela Decisão do Conselho de 14 de Junho de 1966 (1) adiante designado por «Comité», é convocado pelo seu presidente por iniciativa deste ou a pedido do representante de um Estado-membro.\n\n(1) JO n. 125 de 11.7.1966, p. 2289/66.\n\n2. No seio do Comité atribui-se aos votos dos Estados-membros a ponderação prevista no n. 2 do artigo 148. do Tratado. O presidente não toma parte na votação.\n\n3. O representante da Comissão submete um projecto das medidas a tomar. O Comité emitirá o seu parecer sobre estas medidas em prazo que o presidente pode fixar em função da urgência das questões submetidas a exame. O Comité pronuncia-se por maioria de doze votos.\n\n4. A Comissão adoptará medidas imediatamente aplicáveis. Todavia, se não estiverem em conformidade com o parecer emitido pelo Comité, estas medidas são logo comunicadas pela Comissão ao Conselho. Neste caso, a Comissão pode adiar por um mês, no máximo, a contar desta comunicação, e aplicação das medidas por ela decididas.\n\nO Conselho, deliberando por maioria qualificada pode tomar uma decisão diferente no prazo de u mês."
+  },
+  "378ecc8abe4570a5": {
+   "fragment_id": "Artigo 22.",
+   "type": "artigo",
+   "heading": "Artigo 22.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.\n\nA presente directiva não prejudica as disposições das legislações nacionais justificadas por motivo de protecção da saúde e da vida das pessoas e dos animais ou da preservação dos vegetais ou de protecção da propriedade industrial ou comercial."
+  },
+  "e760b564bb6253a6": {
+   "fragment_id": "Artigo 23.",
+   "type": "artigo",
+   "heading": "Artigo 23.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.\n\nOs Estados-membros farão vigorar até 1 de Julho de 1968, o mais tardar, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento às disposições do n. 1 do artigo 14. e, o mais tardar até 1 de Julho de 1969, às outras disposições da presente directiva e seus anexos. Disso informarão imediatamente a Comissão."
+  },
+  "b911235c84a4ab79": {
+   "fragment_id": "Artigo 24.",
+   "type": "artigo",
+   "heading": "Artigo 24.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas em 14 de Junho de 1966.\n\nPelo Conselho\n\nO Presidente\n\nP. WERNER"
+  },
+  "657d948674d44772": {
+   "fragment_id": "ANEXO I — Condições relativas à certificação",
+   "type": "divisao",
+   "heading": "ANEXO I — Condições relativas à certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Condições relativas à certificação\n\nA. CULTURA\n\n1. A cultura possuirá, em gra suficiente, identidade e pureza do tipo ou da variedade.\n\n2. O produtor de semente submeterá ao exame do serviço de certificação todas as multiplicações de sementes de um tipo ou duma variedade.\n\n3. Proceder-se-á pelo menos a uma inspecção oficial de campo e, em relação às sementes de base, a pelo menos duas inspecções oficiais de campo uma das quais incidindo sobre as plantas jovens, no primeiro ano, e a outra, após a floração, sobre as porta-sementes.\n\n4. O estado cultural do campo de produção e o estado desenvolvimento da cultura devem permitir um controlo suficiente da identidade e da pureza do tipo ou da variedade.\n\n5. As distâncias mínimas das culturas vizinhas são de:\n\nPOSIÇÃO NUMA TABELA\n\nEstas distâncias podem não ser respeitadas quando exista protecção suficiente contra qualquer polinização estranha indesejável.\n\nB. SEMENTES\n\n1. As sementes possuirão suficiente identidade e pureza do tipo ou da variedade.\n\n2. A presença de doenças que reduzam o valor de utilização das sementes tolerar-se-á apenas no limite mais franco possível.\n\n3. As sementes obedecerão, além disso, às seguintes condições:\n\nPOSIÇÃO NUMA TABELA\n\nA percentagem em peso de outras plantas não ultrapassará 0,3% das quais uma percentagem máxima de sementes de ervas daninhas de 0,1%. Com esta finalidade serão examinados, pelos menos, 200 grams da amostra.\n\nb) Condições suplementares exigidas relativamente às sementes monogérmicas e às sementes segmentadas:\n\naa) Sementes monogérmicas:\n\npelo menos 90% dos glomérulos germinados originarão apenas uma única plântula.\n\nbb) Sementes segmentadas:\n\npelo menos 65%, e, a partir de 1971, pelo menos 70% dos glomérulos germinados apenas originarão uma única plântula; a percentagem de glomérulos que originem 3 plântulas ou mais, não ultrapassará 5%, calculado sobre os glomérulos germinados."
+  },
+  "e3f32059bbb4450d": {
+   "fragment_id": "ANEXO II — Peso máximo do lote: // 20 toneladas,",
+   "type": "divisao",
+   "heading": "ANEXO II — Peso máximo do lote: // 20 toneladas,",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Peso máximo do lote: // 20 toneladas,\n\nPeso mínimo da amostra // 300 gramas."
+  },
+  "3b6c679f7600553c": {
+   "fragment_id": "ANEXO III — Rótulo",
+   "type": "divisao",
+   "heading": "ANEXO III — Rótulo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Rótulo\n\nA. Indicações prescritas\n\n1. «Sementes certificadas de acordo com as prescrições da Comunidade Económica Europeia»\n\n2. Serviço de certificação e Estado-membro\n\n3. Número de referência do lote\n\n4. Beterraba açucareira ou forrageira\n\n5. Tipo ou variedade\n\n6. Categoria\n\n7. País de produção\n\n8. Peso líquido ou total declarado\n\n9. Relativamente às sementes poliploides da categoria «Sementes certificadas»: indicação «poliploides»\n\nRelativamente às sementes «triploides» da categoria «sementes certificadas»: indicação «triploide»\n\nRelativamente às sementes tetraploides da categoria «Sementes certificadas»: indicação «tetraploides»\n\n10. Em relação às sementes monogérmicas: indicação «monogérmicas»\n\n11. Em relação às sementes segmentadas: indicação «segmentadas»\n\nB. Dimensões mínimas\n\n110 mm X 67 mm."
+  },
+  "8a338a3aaae2334c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1966L0400 — PT — 09.08.2002 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31966L0400) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31966L0400) [de 14 de Junho de 1966](http://publications.europa.eu/resource/celex/31966L0400) [relativa à comercialização de sementes de beterrabas](http://publications.europa.eu/resource/celex/31966L0400) [(66/400/CEE)](http://publications.europa.eu/resource/celex/31966L0400) (JO P 125, 11.7.1966, p.2290)\n\n**revogado por:**\n\n- [Directiva 2002/54/CE do Conselho de 13 de Junho de 2002](http://publications.europa.eu/resource/celex/32002L0054) — L 193 — 12 — 20.7.2002"
+  }
+ }
+}

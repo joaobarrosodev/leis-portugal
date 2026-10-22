@@ -39,6 +39,125 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-03-04'
+version_history:
+  file: regulamento-ue-2002-1774.versoes.json
+  count: 3
+  source_lastmod: '2011-03-04'
+  versions:
+  - date: '2002-10-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-07'
+    amending: eu:celex:32003R0808:por
+    amending_title: REGULAMENTO (CE) N. o 808/2003 DA COMISSÃO de 12 de Maio de 2003; REGULAMENTO (CE) N. o 668/2004 DA COMISSÃO
+      de 10 de Março de 2004; REGULAMENTO (CE) N. o 92/2005 DA COMISSÃO de 19 de Janeiro de 2005; REGULAMENTO (CE) N. o 93/2005
+      DA COMISSÃO de 19 de Janeiro de 2005; REGULAMENTO (CE) N. o 416/2005 DA COMISSÃO de 11 de Março de 2005; REGULAMENTO
+      (CE) N. o 181/2006 DA COMISSÃO de 1 de Fevereiro de 2006; REGULAMENTO (CE) N. o 208/2006 DA COMISSÃO de 7 de Fevereiro
+      de 2006; REGULAMENTO (CE) N. o 2007/2006 DA COMISSÃO de 22 de Dezembro de 2006; REGULAMENTO (CE) N. o 829/2007 DA COMISSÃO
+      de 28 de Junho de 2007; REGULAMENTO (CE) N. o 1432/2007 DA COMISSÃO de 5 de Dezembro de 2007; REGULAMENTO (CE) N. o
+      399/2008 DA COMISSÃO de 5 de Maio de 2008; REGULAMENTO (CE) N. o 437/2008 DA COMISSÃO de 21 de Maio de 2008; REGULAMENTO
+      (CE) N. o 523/2008 DA COMISSÃO de 11 de Junho de 2008; REGULAMENTO (CE) N. o 777/2008 DA COMISSÃO de 4 de Agosto de
+      2008; REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Obrigações gerais
+    - Altera Artigo 4.º — Matérias da categoria 1
+    - Altera Artigo 5.º — Matérias da categoria 2
+    - Altera Artigo 6.º — Matérias da categoria 3
+    - Altera Artigo 7.º — Recolha, transporte e armazenagem
+    - Altera CAPÍTULO III
+    - Altera Artigo 12.º — Aprovação de unidades de incineração e de co-incineração
+    - Altera CAPÍTULO IV
+    - Altera Artigo 16.º — Disposições gerais de sanidade animal
+    - Altera Artigo 20.º — Colocação no mercado e exportação de alimentos para animais de companhia, ossos de couro e produtos
+      técnicos
+    - Altera Artigo 22.º — Restrições de utilização
+    - Altera Artigo 23.º — Derrogações relativas à utilização de subprodutos animais
+    - Altera Artigo 25.º — Autocontrolos nas unidades
+    - Altera Artigo 26.º — Controlos oficiais e listas de unidades aprovadas
+    - Altera Artigo 28.º — Disposições gerais
+    - Altera Artigo 32.º — Alterações dos anexos e medidas de transição
+    - Altera Artigo 38.º — Produção de efeitos
+    - Altera CAPÍTULO X
+    - Altera ANEXO VII
+    - Altera ANEXO IX
+    - Altera PARTE II
+    - Altera PARTE VI
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita CAPÍTULO II
+    - Adita CLASSIFICAÇÃO, RECOLHA, TRANSPORTE, ELIMINAÇÃO, TRANSFORMAÇÃO, UTILIZAÇÃO E ARMAZENAGEM INTERMÉDIA DE SUBPRODUTOS
+      ANIMAIS
+    - Adita APROVAÇÃO DE UNIDADES INTERMÉDIAS, DE ENTREPOSTOS, DE UNIDADES DE INCINERAÇÃO E DE CO-INCINERAÇÃO, DE UNIDADES
+      DE TRANSFORMAÇÃO DAS CATEGORIAS 1 E 2, DE UNIDADES OLEOQUÍMICAS DAS CATEGORIAS 2 E 3, DE UNIDADES DE BIOGÁS E DE UNIDADES
+      DE COMPOSTAGEM
+    - Adita COLOCAÇÃO NO MERCADO E UTILIZAÇÃO DE PROTEÍNAS ANIMAIS TRANSFORMADAS E DE OUTROS PRODUTOS TRANSFORMADOS QUE POSSAM
+      SER UTILIZADOS EM MATÉRIAS PARA ALIMENTAÇÃO ANIMAL, ALIMENTOS PARA ANIMAIS DE COMPANHIA, OSSOS DE COURO E PRODUTOS TÉCNICOS,
+      E APROVAÇÃO DAS RESPECTIVAS UNIDADES
+    - Adita Artigo 19.º — Colocação no mercado e exportação de proteínas animais transformadas e de outros produtos transformados
+      que possam ser utilizados na alimentação animal
+    - Adita CAPÍTULO V
+    - Adita NORMAS DERROGATÓRIAS
+    - Adita CAPÍTULO VI
+    - Adita CONTROLOS E INSPECÇÕES
+    - Adita CAPÍTULO VII
+    - Adita CONTROLOS COMUNITÁRIOS
+    - Adita CAPÍTULO VIII
+    - Adita DISPOSIÇÕES APLICÁVEIS À IMPORTAÇÃO E AO TRÂNSITO DE CERTOS SUBPRODUTOS ANIMAIS E PRODUTOS DELES DERIVADOS
+    - Adita CAPÍTULO IX
+  - date: '2011-03-04'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Âmbito
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Obrigações gerais
+    - Suprime CAPÍTULO II
+    - Suprime CLASSIFICAÇÃO, RECOLHA, TRANSPORTE, ELIMINAÇÃO, TRANSFORMAÇÃO, UTILIZAÇÃO E ARMAZENAGEM INTERMÉDIA DE SUBPRODUTOS
+      ANIMAIS
+    - Suprime Artigo 4.º — Matérias da categoria 1
+    - Suprime Artigo 5.º — Matérias da categoria 2
+    - Suprime Artigo 6.º — Matérias da categoria 3
+    - Suprime Artigo 7.º — Recolha, transporte e armazenagem
+    - Suprime Artigo 8.º — Expedição de subprodutos animais e produtos transformados para outros Estados-Membros
+    - Suprime Artigo 9.º — Registos
+    - Suprime CAPÍTULO III
+    - Suprime APROVAÇÃO DE UNIDADES INTERMÉDIAS, DE ENTREPOSTOS, DE UNIDADES DE INCINERAÇÃO E DE CO-INCINERAÇÃO, DE UNIDADES
+      DE TRANSFORMAÇÃO DAS CATEGORIAS 1 E 2, DE UNIDADES OLEOQUÍMICAS DAS CATEGORIAS 2 E 3, DE UNIDADES DE BIOGÁS E DE UNIDADES
+      DE COMPOSTAGEM
+    - Suprime Artigo 10.º — Aprovação de unidades intermédias
+    - Suprime Artigo 11.º — Aprovação de entrepostos
+    - Suprime Artigo 12.º — Aprovação de unidades de incineração e de co-incineração
+    - Suprime Artigo 13.º — Aprovação de unidades de transformação da categoria 1 e da categoria 2
+    - Suprime Artigo 14.º — Aprovação de unidades oleoquímicas da categoria 2 e da categoria 3
+    - Suprime Artigo 15.º — Aprovação de unidades de biogás e de compostagem
+    - Suprime CAPÍTULO IV
+    - Suprime COLOCAÇÃO NO MERCADO E UTILIZAÇÃO DE PROTEÍNAS ANIMAIS TRANSFORMADAS E DE OUTROS PRODUTOS TRANSFORMADOS QUE
+      POSSAM SER UTILIZADOS EM MATÉRIAS PARA ALIMENTAÇÃO ANIMAL, ALIMENTOS PARA ANIMAIS DE COMPANHIA, OSSOS DE COURO E PRODUTOS
+      TÉCNICOS, E APROVAÇÃO DAS RESPECTIVAS UNIDADES
+    - Suprime Artigo 16.º — Disposições gerais de sanidade animal
+    - Suprime Artigo 17.º — Aprovação de unidades de transformação da categoria 3
+    - Suprime Artigo 18.º — Aprovação de unidades de alimentos para animais de companhia e de unidades técnicas
+    - Suprime Artigo 19.º — Colocação no mercado e exportação de proteínas animais transformadas e de outros produtos transformados
+      que possam ser utilizados na alimentação animal
+    - Suprime Artigo 20.º — Colocação no mercado e exportação de alimentos para animais de companhia, ossos de couro e produtos
+      técnicos
+    - Suprime Artigo 21.º — Medidas de salvaguarda
+    - Suprime Artigo 22.º — Restrições de utilização
+    - Suprime CAPÍTULO V
+    - Suprime NORMAS DERROGATÓRIAS
+    - Suprime Artigo 23.º — Derrogações relativas à utilização de subprodutos animais
+    - Suprime Artigo 24.º — Derrogações relativas à eliminação de subprodutos animais
+    - Suprime CAPÍTULO VI
+    - Suprime CONTROLOS E INSPECÇÕES
+    - Suprime Artigo 25.º — Autocontrolos nas unidades
+    - Suprime Artigo 26.º — Controlos oficiais e listas de unidades aprovadas
+    - Suprime CAPÍTULO VII
 identifiers:
   celex: 32002R1774
   eli: http://data.europa.eu/eli/reg/2002/1774/oj
@@ -53,7 +172,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2b96727f-5da3-4426-bb3f-1879ac8e6a1c.0010
   content_url: http://publications.europa.eu/resource/cellar/bb1bf237-a25e-4aca-bdb6-24421a06e078.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R1774-20110304
-  retrieved_at: '2026-10-22T02:35:14Z'
+  retrieved_at: '2026-10-22T14:54:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T17:28:44.781+01:00'
 integrity:
@@ -62,9 +181,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:14Z'
-  notes: Texto consolidado 02002R1774-20110304.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:49Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2002-1774.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -455,16 +574,25 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:14Z'
+  checked_at: '2026-10-22T14:54:49Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02002R1774-20030501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R1774-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R1774-20050101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R1774-20050315: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R1774-20060401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R1774-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R1774-20070724: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R1774-20080701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R1774-20080825: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R1774-20100728: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R1774-20100928: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

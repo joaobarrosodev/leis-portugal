@@ -35,6 +35,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-01-09'
+version_history:
+  file: diretiva-ue-2004-25.versoes.json
+  count: 5
+  source_lastmod: '2024-01-09'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-04-20'
+    amending: eu:celex:32009R0219:por
+    amending_title: REGULAMENTO (CE) N. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Autoridade de supervisão e direito aplicável
+    - Altera Artigo 6.º — Informação sobre ofertas
+    - Altera Artigo 10.º — Informação sobre as sociedades referidas no n.º 1 do artigo 1.º
+    - Altera Artigo 15.º — Aquisição potestativa
+    - Altera Artigo 18.º — Processo do comité
+    - Altera Artigo 23.º — Destinatários
+    - Altera Notas
+  - date: '2014-07-02'
+    amending: eu:celex:32014L0059:por
+    amending_title: DIRETIVA 2014/59/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 15 de maio
+      de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Autoridade de supervisão e direito aplicável
+    - Altera Artigo 10.º — Informação sobre as sociedades referidas no n.º 1 do artigo 1.º
+    - Altera Notas
+  - date: '2022-08-12'
+    amending: eu:celex:32021R0023:por
+    amending_title: REGULAMENTO (UE) 2021/23 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Autoridade de supervisão e direito aplicável
+    - Altera Artigo 10.º — Informação sobre as sociedades referidas no n.º 1 do artigo 1.º
+    - Altera Notas
+  - date: '2024-01-09'
+    amending: eu:celex:32023L2864:por
+    amending_title: DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Autoridade de supervisão e direito aplicável
+    - Altera Artigo 10.º — Informação sobre as sociedades referidas no n.º 1 do artigo 1.º
+    - Altera Notas
+    - Adita Artigo 16.º-A — Acessibilidade da informação no ponto de acesso único europeu
 identifiers:
   celex: 32004L0025
   eli: http://data.europa.eu/eli/dir/2004/25/oj
@@ -49,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/35eff5d1-4ef3-449f-8c12-26e7b85856ed.0010
   content_url: http://publications.europa.eu/resource/cellar/edf1898c-ba30-11ee-b164-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0025-20240109
-  retrieved_at: '2026-10-22T02:39:41Z'
+  retrieved_at: '2026-10-22T14:56:45Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-06-03T22:13:18.727+02:00'
 integrity:
@@ -58,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:41Z'
-  notes: Texto consolidado 02004L0025-20240109.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:45Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2004-25.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -183,32 +237,19 @@ relationships:
   date: '2026-05-13'
 article_structure:
   article_count: 24
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:41Z'
+  checked_at: '2026-10-22T14:56:45Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2004/25/CE do Parlamento Europeu e do Conselho de 21 de Abril de 2004
-
-> 02004L0025 — PT — 09.01.2024 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) N.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-- [M2](http://publications.europa.eu/resource/celex/32014L0059) — [DIRETIVA 2014/59/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014L0059) — L 173 — 190 — 12.6.2014
-- [►M3](http://publications.europa.eu/resource/celex/32021R0023) — [REGULAMENTO (UE) 2021/23 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020](http://publications.europa.eu/resource/celex/32021R0023) — L 22 — 1 — 22.1.2021
-- [►M4](http://publications.europa.eu/resource/celex/32023L2864) — [DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023L2864) — L — 1 — 20.12.2023
-
-## DIRECTIVA 2004/25/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 21 de Abril de 2004
 

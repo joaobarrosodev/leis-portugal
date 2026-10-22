@@ -36,6 +36,64 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-26'
+version_history:
+  file: diretiva-ue-2003-10.versoes.json
+  count: 4
+  source_lastmod: '2019-07-26'
+  versions:
+  - date: '2003-02-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-27'
+    amending: eu:celex:32007L0030:por
+    amending_title: DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de
+      Junho de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Valores-limite de exposição e valores de exposição que desencadeiam a acção
+    - Altera Artigo 6.º — Protecção individual
+    - Altera Artigo 19.º — Destinatários
+    - Adita SECÇÃO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita SECÇÃO II
+    - Adita OBRIGAÇÕES DA ENTIDADE PATRONAL
+    - Adita SECÇÃO III
+    - Adita DISPOSIÇÕES DIVERSAS
+    - Adita SECÇÃO IV
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita Notas
+    - Suprime SECÇÃO I — DISPOSIÇÕES GERAIS
+    - Suprime SECÇÃO II — OBRIGAÇÕES DA ENTIDADE PATRONAL
+    - Suprime SECÇÃO III — DISPOSIÇÕES DIVERSAS
+    - Suprime SECÇÃO IV — DISPOSIÇÕES FINAIS
+    - Suprime Artigo 16.º — Relatórios
+  - date: '2008-12-11'
+    amending: eu:celex:32008R1137:por
+    amending_title: REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE22 de Outubro de 2008 que adapta
+      à Decisão 1999/468/CE do Conselho certos actos sujeitos ao procedimento previsto no artigo 251. o do Tratado, no que
+      se refere ao procedimento de regulamentação com controlo
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Valores-limite de exposição e valores de exposição que desencadeiam a acção
+    - Altera Artigo 6.º — Protecção individual
+    - Altera Artigo 12.º — Alterações técnicas
+    - Altera Notas
+    - Adita Artigo 13.º — Procedimento de comité
+    - Suprime Artigo 13.º — Comité
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Valores-limite de exposição e valores de exposição que desencadeiam a acção
+    - Altera Artigo 6.º — Protecção individual
+    - Altera Notas
+    - Adita Artigo 12.º — Alteração da diretiva
+    - Adita Artigo 12.º-A — Exercício da delegação
+    - Adita Artigo 12.º-B — Procedimento de urgência
+    - Suprime Artigo 12.º — Alterações técnicas
+    - Suprime Artigo 13.º — Procedimento de comité
 identifiers:
   celex: 32003L0010
   eli: http://data.europa.eu/eli/dir/2003/10/oj
@@ -50,7 +108,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d190beed-159a-4320-a27d-3877be067cda.0010
   content_url: http://publications.europa.eu/resource/cellar/93c887a0-e5fd-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0010-20190726
-  retrieved_at: '2026-10-22T02:40:33Z'
+  retrieved_at: '2026-10-22T14:54:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T23:26:24.644+01:00'
 integrity:
@@ -59,9 +117,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:33Z'
-  notes: Texto consolidado 02003L0010-20190726.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:33Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2003-10.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -174,31 +232,19 @@ relationships:
   source: null
 article_structure:
   article_count: 19
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:33Z'
+  checked_at: '2026-10-22T14:54:33Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2003/10/CE do Parlamento Europeu e do Conselho, de 6 de Fevereiro de 2003
-
-> 02003L0010 — PT — 26.07.2019 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007L0030) — [DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007](http://publications.europa.eu/resource/celex/32007L0030) — L 165 — 21 — 27.6.2007
-- [M2](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [►M3](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-## DIRECTIVA 2003/10/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 6 de Fevereiro de 2003
 

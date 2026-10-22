@@ -37,6 +37,54 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-07-01'
+version_history:
+  file: diretiva-ue-2005-1.versoes.json
+  count: 2
+  source_lastmod: '2011-07-01'
+  versions:
+  - date: '2005-03-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-07-01'
+    amending: eu:celex:32006L0048:por
+    amending_title: DIRECTIVA 2006/48/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14 de
+      Junho de 2006; DIRECTIVA 2009/65/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 13 de
+      Julho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Suprime Artigo 1.º — Directiva 93/6/CEE
+    - Suprime Artigo 2.º — Directiva 94/19/CE
+    - Suprime Artigo 3.º — Directiva 2000/12/CE
+    - Suprime Artigo 4.º — Directiva 73/239/CEE
+    - Suprime «Artigo 29.º‐A
+    - Suprime Artigo 5.º — Directiva 91/675/CEE
+    - Suprime «Artigo 1.º
+    - Suprime «Artigo 2.º
+    - Suprime Artigo 6.º — Directiva 92/49/CEE
+    - Suprime Artigo 7.º — Directiva 98/78/CE
+    - Suprime Artigo 8.º — Directiva 2002/83/CE
+    - Suprime Artigo 9.º — Directiva 85/611/CEE
+    - Suprime Artigo 10.º — Directiva 2001/34/CE
+    - Suprime Artigo 11.º — Directiva 2002/87/CE
+    - Suprime Artigo 12.º — Medidas de execução
+    - Suprime Artigo 13.º — Transposição
+    - Suprime Artigo 14.º — Entrada em vigor
+    - Suprime Artigo 15.º — Destinatários
 identifiers:
   celex: 32005L0001
   eli: http://data.europa.eu/eli/dir/2005/1/oj
@@ -51,7 +99,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017
   content_url: http://publications.europa.eu/resource/cellar/f2dd8a39-ad4e-11e9-9d01-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0001-20110701
-  retrieved_at: '2026-10-22T02:57:54Z'
+  retrieved_at: '2026-10-22T14:59:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T17:12:19.077+01:00'
 integrity:
@@ -60,9 +108,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:54Z'
-  notes: Texto consolidado 02005L0001-20110701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:13Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2005-1.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -197,30 +245,20 @@ relationships:
   date: '2024-11-14'
 article_structure:
   article_count: 13
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:54Z'
-  warnings: []
+  checked_at: '2026-10-22T14:59:13Z'
+  warnings:
+  - '02005L0001-20050413: versão indisponível (Sem expressão na língua por para CELEX 02005L0001-20050413.)'
   errors: []
 ---
 
 # Directiva 2005/1/CE do Parlamento Europeu e do Conselho, de 9 de Março de 2005
-
-> 02005L0001 — PT — 01.07.2011 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006L0048) — [DIRECTIVA 2006/48/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14 de Junho de 2006](http://publications.europa.eu/resource/celex/32006L0048) — L 177 — 1 — 30.6.2006
-- [►M2](http://publications.europa.eu/resource/celex/32009L0065) — [DIRECTIVA 2009/65/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009L0065) — L 302 — 32 — 17.11.2009
-
-## DIRECTIVA 2005/1/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 9 de Março de 2005
 

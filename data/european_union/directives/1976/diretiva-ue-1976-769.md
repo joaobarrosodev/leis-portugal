@@ -35,6 +35,120 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-06-01'
+version_history:
+  file: diretiva-ue-1976-769.versoes.json
+  count: 4
+  source_lastmod: '2009-06-01'
+  versions:
+  - date: '1976-09-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-10-03'
+    amending: eu:celex:31979L0663:por
+    amending_title: Directiva do Conselho de 24 de Julho de 1979; Directiva do Conselho de 22 de Novembro de 1982; M3; Directiva
+      do Conselho de 16 de Maio de 1983; Directiva do Conselho de 19 de Setembro de 1983; Directiva do Conselho de 1 de Outubro
+      de 1983; M7; Directiva do Conselho de 21 de Dezembro de 1989; Directiva do Conselho de 21 de Dezembro de 1989; Directiva
+      do Conselho de 18 de Março de 1991; DIRECTIVA 98/101/CE DA COMISSÃO Texto relevante para efeitos do EEE de 22 de Dezembro
+      de 1998; M12; Directiva do Conselho de 18 de Junho de 1991; Directiva do Conselho de 18 de Junho de 1991; Directiva
+      da Comissão de 3 de Dezembro de 1991; Directiva 94/27/CE do Parlamento Europeu e do Conselho de 30 de Junho de 1994;
+      Directiva 94/48/CE do Parlamento Europeu e do Conselho de 7 de Dezembro de 1994; M18; DIRECTIVA 96/55/CE DA COMISSÃO
+      Texto relevante para efeitos do EEE de 4 de Setembro de 1996; DIRECTIVA 97/10/CE DA COMISSÃO Texto relevante para efeitos
+      do EEE de 26 de Fevereiro de 1997; M21; DIRECTIVA 97/64/CE DA COMISSÃO Texto relevante para efeitos do EEE de 10 de
+      Novembro de 1997; DIRECTIVA 97/56/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Outubro de 1997; DIRECTIVA 1999/51/CE
+      DA COMISSÃO Texto relevante para efeitos do EEE de 26 de Maio de 1999; DIRECTIVA 1999/43/CE DO PARLAMENTO EUROPEU E
+      DO CONSELHO de 25 de Maio de 1999; DIRECTIVA 1999/77/CE DA COMISSÃO Texto relevante para efeitos do EEE de 26 de Julho
+      de 1999; DIRECTIVA 2001/41/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de Junho de 2001; DIRECTIVA 2001/90/CE DA COMISSÃO
+      Texto relevante para efeitos do EEE de 26 de Outubro de 2001; DIRECTIVA 2001/91/CE DA COMISSÃO Texto relevante para
+      efeitos do EEE de 29 de Outubro de 2001; DIRECTIVA 2002/45/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de Junho de
+      2002; DIRECTIVA 2002/62/CE DA COMISSÃO Texto relevante para efeitos do EEE de 9 de Julho de 2002; M32; M33; DIRECTIVA
+      2003/3/CE DA COMISSÃO Texto relevante para efeitos do EEE de 6 de Janeiro de 2003; DIRECTIVA 2003/11/CE DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 6 de Fevereiro de 2003; DIRECTIVA 2003/34/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de Maio
+      de 2003; DIRECTIVA 2003/36/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 26 de Maio
+      de 2003; DIRECTIVA 2003/53/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 18 de Junho
+      de 2003; DIRECTIVA 2004/21/CE DA COMISSÃO Texto relevante para efeitos do EEE de 24 de Fevereiro de 2004; DIRECTIVA
+      2004/96/CE DA COMISSÃO Texto relevante para efeitos do EEE de 27 de Setembro de 2004; DIRECTIVA 2004/98/CE DA COMISSÃO
+      Texto relevante para efeitos do EEE de 30 de Setembro de 2004; DIRECTIVA 2005/59/CE DO PARLAMENTO EUROPEU E DO CONSELHO
+      Texto relevante para efeitos do EEE de 26 de Outubro de 2005; DIRECTIVA 2005/69/CE DO PARLAMENTO EUROPEU E DO CONSELHO
+      de 16 de Novembro de 2005; DIRECTIVA 2005/84/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de Dezembro de 2005; DIRECTIVA
+      2005/90/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 18 de Janeiro de 2006; DIRECTIVA
+      2006/122/CE do PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 12 de Dezembro de 2006; DIRECTIVA
+      2006/139/CE DA COMISSÃO Texto relevante para efeitos do EEE de 20 de Dezembro de 2006; DIRECTIVA 2007/51/CE DO PARLAMENTO
+      EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 25 de Setembro de 2007
+    changes:
+    - Adita preambulo
+    - Adita Artigo 1º
+    - Adita Artigo 2º
+    - Adita Artigo 2ºA
+    - Adita Artigo 3º
+    - Adita Artigo 4º
+    - Adita [►M5](http://publications.europa.eu/resource/celex/31983L0478) ANEXO I◄
+    - Adita Apêndice
+    - Adita Preâmbulo
+    - Adita Explicação dos títulos das colunas
+    - 'Adita Nome da substância:'
+    - 'Adita Número de índice:'
+    - 'Adita Número CE:'
+    - 'Adita Número CAS:'
+    - 'Adita Notas:'
+    - 'Adita Nota A:'
+    - 'Adita Nota D:'
+    - 'Adita Nota E:'
+    - 'Adita Nota H:'
+    - 'Adita Nota J:'
+    - 'Adita Nota K:'
+    - 'Adita Nota L:'
+    - 'Adita Nota M:'
+    - 'Adita Nota N:'
+    - 'Adita Nota P:'
+    - 'Adita Nota R:'
+    - 'Adita Nota S:'
+    - Adita ANEXO II
+    - Adita [►M6](http://publications.europa.eu/resource/celex/31985L0467) A.◄ Disposições especiais relativas à rotulagem
+      dos produtos que contenham amianto
+    - Adita B. Disposições especiais relativas à rotulagem dos produtos que contenham PCB e PCT
+    - Adita Notas
+  - date: '2008-12-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 2ºA
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime [►M5](http://publications.europa.eu/resource/celex/31983L0478) ANEXO I◄
+    - Suprime Apêndice
+    - Suprime Preâmbulo
+    - Suprime Explicação dos títulos das colunas
+    - 'Suprime Nome da substância:'
+    - 'Suprime Número de índice:'
+    - 'Suprime Número CE:'
+    - 'Suprime Número CAS:'
+    - 'Suprime Notas:'
+    - 'Suprime Nota A:'
+    - 'Suprime Nota D:'
+    - 'Suprime Nota E:'
+    - 'Suprime Nota H:'
+    - 'Suprime Nota J:'
+    - 'Suprime Nota K:'
+    - 'Suprime Nota L:'
+    - 'Suprime Nota M:'
+    - 'Suprime Nota N:'
+    - 'Suprime Nota P:'
+    - 'Suprime Nota R:'
+    - 'Suprime Nota S:'
+    - Suprime ANEXO II
+    - Suprime [►M6](http://publications.europa.eu/resource/celex/31985L0467) A.◄ Disposições especiais relativas à rotulagem
+      dos produtos que contenham amianto
+    - Suprime B. Disposições especiais relativas à rotulagem dos produtos que contenham PCB e PCT
+    - Suprime Notas
+  - date: '2009-06-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
 identifiers:
   celex: 31976L0769
   eli: http://data.europa.eu/eli/dir/1976/769/oj
@@ -49,7 +163,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/70b23758-ad3c-4dfc-9085-8b209fdfa6e8.0011
   content_url: http://publications.europa.eu/resource/cellar/fa3a5e2e-fcc3-4d0f-9486-54bc5cfbcd1b.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0769-20090601
-  retrieved_at: '2026-10-22T02:36:19Z'
+  retrieved_at: '2026-10-22T14:32:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T08:14:00.108+01:00'
 integrity:
@@ -58,9 +172,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:19Z'
-  notes: Texto consolidado 01976L0769-20090601.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:32:05Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1976-769.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -453,16 +567,35 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:19Z'
+  checked_at: '2026-10-22T14:32:05Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01976L0769-19950120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0769-19970526: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0769-19990125: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0769-19990826: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0769-20010718: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0769-20011027: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0769-20011119: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0769-20020706: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0769-20020801: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0769-20020911: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0769-20030129: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0769-20030215: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0769-20030625: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0769-20030715: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0769-20030717: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0769-20040316: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0769-20041018: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0769-20051215: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0769-20051229: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0769-20060224: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0769-20061230: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

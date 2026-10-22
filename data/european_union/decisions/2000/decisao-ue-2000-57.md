@@ -36,6 +36,73 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-03-06'
+version_history:
+  file: decisao-ue-2000-57.versoes.json
+  count: 4
+  source_lastmod: '2017-03-06'
+  versions:
+  - date: '2000-01-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-05-01'
+    amending: eu:celex:32008D0351:por
+    amending_title: DECISÃO DA COMISSÃO de 28 de Abril de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º
+    - Adita ANEXO I
+    - Adita Eventos a notificar no âmbito do Sistema de Alerta Rápido e de Resposta
+    - Adita ANEXO II
+    - Adita Procedimentos de informação, consulta e cooperação no âmbito do Sistema de Alerta Rápido e de Resposta
+    - 'Adita 1. Nível de activação 1: Intercâmbio de informações'
+    - 'Adita 2. Nível de activação 2: ameaça potencial'
+    - Adita 2.1. Verificação e avaliação
+    - Adita 2.2. Desactivação
+    - 'Adita 3. Nível de activação 3: ameaça confirmada'
+    - Adita 3.1. Coordenação das medidas
+    - Adita 3.2. Desactivação
+    - Adita 4. Informação ao grande público e aos profissionais competentes
+    - Adita Notas
+    - Suprime ANEXO I — Eventos a notificar no âmbito do Sistema de Alerta Rápido e de Resposta
+    - Suprime ANEXO II — Procedimentos de informação, consulta e cooperação no âmbito do Sistema de Alerta Rápido e de Resposta
+  - date: '2009-07-14'
+    amending: eu:celex:32009D0547:por
+    amending_title: DECISÃO DA COMISSÃO de 10 de Julho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Notas
+    - Adita Artigo 2.º-A
+    - Adita ANEXO III
+    - Adita Lista indicativa de dados pessoais para efeitos de identificação de contactos
+  - date: '2017-03-06'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 2.º-A
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime ANEXO I
+    - Suprime Eventos a notificar no âmbito do Sistema de Alerta Rápido e de Resposta
+    - Suprime ANEXO II
+    - Suprime Procedimentos de informação, consulta e cooperação no âmbito do Sistema de Alerta Rápido e de Resposta
+    - 'Suprime 1. Nível de activação 1: Intercâmbio de informações'
+    - 'Suprime 2. Nível de activação 2: ameaça potencial'
+    - Suprime 2.1. Verificação e avaliação
+    - Suprime 2.2. Desactivação
+    - 'Suprime 3. Nível de activação 3: ameaça confirmada'
+    - Suprime 3.1. Coordenação das medidas
+    - Suprime 3.2. Desactivação
+    - Suprime 4. Informação ao grande público e aos profissionais competentes
+    - Suprime ANEXO III
+    - Suprime Lista indicativa de dados pessoais para efeitos de identificação de contactos
+    - Suprime Notas
 identifiers:
   celex: 32000D0057
   eli: http://data.europa.eu/eli/dec/2000/57(1)/oj
@@ -50,7 +117,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fb792d70-f471-4caf-844c-a5e39422cd8b.0009
   content_url: http://publications.europa.eu/resource/cellar/7bc119b2-5bce-4a47-a9c8-75ff2b64013c.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000D0057-20170306
-  retrieved_at: '2026-10-22T03:09:39Z'
+  retrieved_at: '2026-10-22T14:48:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-12T11:47:54.428+02:00'
 integrity:
@@ -59,9 +126,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:09:39Z'
-  notes: Texto consolidado 02000D0057-20170306.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:28Z'
+  notes: 4 versão(ões); histórico completo em decisao-ue-2000-57.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -103,16 +170,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:09:39Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:48:28Z'
+  warnings: []
   errors: []
 ---
 

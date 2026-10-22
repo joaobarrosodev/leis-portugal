@@ -1,0 +1,227 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996L0050:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0050-20081211",
+ "dre_path": null,
+ "source_lastmod": "2008-12-11",
+ "versions": [
+  {
+   "date": "1996-09-17",
+   "future": false,
+   "celex": "31996L0050",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2aafe8a972b305a0",
+    "c17cdac8a1ad75d4",
+    "fb47e037c21a210f",
+    "7a9760e54cc74076",
+    "9a3851181734f64a",
+    "d86481203ea5ce1c",
+    "fbedab8ff56a9db1",
+    "fa307f8cfcfc4d99",
+    "52eede2789accb9a",
+    "08a2946c0bf31e0a",
+    "1ad76136ba3b4059",
+    "f10f33df6768a1b1",
+    "89eeb9cd685f3e13",
+    "e8d99208d3b34a58",
+    "4deb5940eaa23642",
+    "af54e25c7c979f74",
+    "92346d04e87d5d70",
+    "707aa0e80c3b0df2",
+    "5782e1af154b886d",
+    "f9784b5d27f5752c",
+    "84ff35b2de25cd49",
+    "f7a405790bcb9180",
+    "6cb1dd595968ecf9"
+   ]
+  }
+ ],
+ "fragments": {
+  "2aafe8a972b305a0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 96/50/CE do Conselho de 23 de Julho de 1996 relativa à harmonização das condições de obtenção dos certificados nacionais de condução de embarcações de navegação interior para o transporte de mercadorias e de passageiros na Comunidade** *Jornal Oficial nº L 235 de 17/09/1996 p. 0031 - 0038*\n\nDIRECTIVA 96/50/CE DO CONSELHO de 23 de Julho de 1996 relativa à harmonização das condições de obtenção dos certificados nacionais de condução de embarcações de navegação interior para o transporte de mercadorias e de passageiros na Comunidade\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 75º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºC do Tratado (3),\n\nConsiderando que é conveniente estabelecer disposições comuns relativas à condução das embarcações de navegação interior nas vias navegáveis interiores da Comunidade; que foi dado um primeiro passo neste sentido com a Directiva 91/672/CEE do Conselho, de 16 de Dezembro de 1991, sobre o reconhecimento recíproco dos certificados nacionais de condução de embarcações para transporte de mercadorias e de passageiros por navegação interior (4);\n\nConsiderando que, perante a diversidade das legislações nacionais sobre as condições de obtenção de certificados de condução de embarcações de navegação interior e a necessidade de reforçar progressivamente as exigências em matéria de segurança no sector da navegação interior, é necessário adoptar normas comunitárias para a emissão desses certificados, de forma a evitar eventuais distorções de concorrência neste domínio;\n\nConsiderando que, para garantir a uniformidade e a transparência exigidas, importa que a Comunidade defina um modelo único de certificado nacional de condução de embarcações, reconhecido reciprocamente pelos Estados-membros sem obrigatoriedade de substituição, deixando aos Estados-membros, em virtude do princípio da subsidiariedade, a responsabilidade da sua emissão;\n\nConsiderando que as vias navegáveis nacionais não ligadas à rede navegável de outro Estado-membro não estão sujeitas à concorrência internacional e que, por conseguinte, não é necessário tornar nelas obrigatórias as disposições comuns para a obtenção dos certificados de condução previstas na presente directiva;\n\nConsiderando que essas disposições comuns devem, sobretudo, ter como objectivo o aumento da segurança da navegação e da protecção da vida humana; que, para o efeito, é indispensável que essas disposições estabeleçam requisitos mínimos a preencher pelo candidato para obter o certificado de condução de uma embarcação de navegação interior;\n\nConsiderando que os requisitos a prever devem abranger pelo menos a idade exigida para a condução de uma embarcação, a aptidão física e mental do candidato, a sua experiência profissional e os conhecimentos de determinadas matérias relacionadas com a condução de uma embarcação; que, por questões de segurança da embarcação e das pessoas a bordo, os Estados-membros podem impor requisitos complementares, nomeadamente para garantir o conhecimento de determinadas situações locais; que são exigidos conhecimentos profissionais suplementares para a condução de uma embarcação por radar ou para a condução de uma embarcação que transporte passageiros;\n\nConsiderando que é conveniente prever procedimentos adequados para a adaptação dos anexos da presente directiva; que é, portanto, conveniente que o Comité criado pelo artigo 7º da Directiva 91/672/CEE seja incumbido de assistir a Comissão na adaptação dos anexos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "c17cdac8a1ad75d4": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. Os Estados-membros emissores de certificados de condução de embarcações de navegação interior para o transporte de mercadorias e de passageiros, a seguir denominado «certificado», devem, para o efeito, seguir o modelo comunitário descrito no anexo I, nos termos da presente directiva.\n\n2. Os Estados-membros adoptarão todas as disposições necessárias para evitar os riscos de falsificação dos certificados.\n\n3. O certificado é emitido pela autoridade competente dos Estados-membros, nos termos da presente directiva. O certificado atenderá às especificidades das vias navegáveis e dos certificados referidos no artigo 1º da Directiva 91/672/CEE, ou seja:\n\n- o certificado de condução válido para todas as vias navegáveis dos Estados-membros, à excepção das vias navegáveis relativamente às quais se aplica o regulamento relativo à emissão de patentes de barqueiro do Reno (Grupo A);\n\n- o certificado de condução válido para todas as vias navegáveis dos Estados-membros, à excepção das vias navegáveis de carácter marítimo mencionadas no anexo II da Directiva 91/672/CEE e das vias navegáveis relativamente às quais se aplica o regulamento relativo à emissão de patentes de barqueiro do Reno (Grupo B).\n\n4. O certificado do Grupo A ou B, emitido pelos Estados-membros de acordo com as disposições da presente directiva, será válido para todas as vias navegáveis da Comunidade do Grupo A ou B.\n\n5. Sob reserva das disposições constantes do nº 2 do artigo 8º, a patente de barqueiro do Reno emitida de acordo com a convenção revista para a navegação do Reno é válida para todas as vias navegáveis da Comunidade.\n\n6. Os certificados nacionais de condução, reciprocamente reconhecidos nos termos da Directiva 91/672/CEE, constantes do anexo I da presente directiva, emitidos o mais tardar 18 meses após a data de entrada em vigor da presente directiva, mantêm-se válidos sem obrigatoriedade de substituição."
+  },
+  "fb47e037c21a210f": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Autoridade competente»: a autoridade incumbida pelo Estado-membro de emitir o certificado, após ter verificado que o candidato satisfaz os requisitos exigidos;\n\nb) «Condutor de embarcação»: a pessoa que possui as aptidões e qualificações necessárias para garantir a condução da embarcação nas vias navegáveis dos Estados-membros e que exerce a responsabilidade náutica a bordo;\n\nc) «Membro da tripulação de ponte»: a pessoa que tenha participado regularmente na condução e estado ao leme de uma embarcação de navegação interior."
+  },
+  "7a9760e54cc74076": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. A presente directiva aplica-se a qualquer condutor de embarcação de navegação interior: autopropulsor, rebocador, batelão, comboio empurrado ou de formação em parelha destinado ao transporte de mercadorias ou passageiros, com excepção:\n\n- dos condutores de embarcações destinadas ao transporte de mercadorias com um comprimento inferior a 20 m;\n\n- dos condutores de embarcações destinadas ao transporte de passageiros que não transportem mais de 12 pessoas, além da tripulação.\n\n2. Consultada a Comissão, um Estado-membro pode dispensar da aplicação da presente directiva os condutores de embarcações que operem exclusivamente nas vias navegáveis nacionais não ligadas à rede navegável de outro Estado-membro e emitir certificados nacionais de condução de embarcações cujas condições de obtenção podem diferir das definidas na presente directiva. A validade desses certificados nacionais fica, neste caso, limitada a essas vias navegáveis."
+  },
+  "9a3851181734f64a": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. A fim de obter o certificado, o candidato deve satisfazer os requisitos mínimos previstos nos artigos 5º a 8º O certificado conterá a menção do grupo A ou B para o qual o condutor está habilitado a conduzir.\n\n2. Os Estados-membros reconhecerão reciprocamente os certificados emitidos que satisfaçam os requisitos mínimos previstos no número anterior."
+  },
+  "d86481203ea5ce1c": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nA idade mínima para a obtenção de um certificado é de 21 anos. Contudo, os Estados-membros conservam a faculdade de emitir certificados de condução a partir da idade de 18 anos. O reconhecimento, por um Estado-membro, de um certificado do Grupo A ou B emitido por outro Estado-membro pode ser subordinado às mesmas condições de idade mínima que as exigidas naquele Estado-membro para a emissão de um certificado do mesmo grupo."
+  },
+  "fbedab8ff56a9db1": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. O candidato deve comprovar a sua aptidão física e mental por meio de um exame médico realizado por um médico oficial. Esse exame incidirá especialmente na acuidade visual e auditiva, na capacidade de distinção das cores, na motricidade dos membros superiores e inferiores e no estado neuropsiquiátrico e vascular do candidato.\n\n2. O titular de um certificado que tenha atingido os 65 anos de idade deve sujeitar-se ao exame médico referido no nº 1 no prazo dos três meses após ter cumprido aquela idade e posteriormente uma vez por ano; a autoridade competente inscreverá no certificado uma menção atestando que o condutor cumpriu essa obrigação."
+  },
+  "fa307f8cfcfc4d99": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. O candidato deve comprovar que possui uma experiência profissional de pelo menos 4 anos na qualidade de membro da tripulação de ponte a bordo de uma embarcação de navegação interior.\n\n2. Para poder ser levada em conta, a experiência profissional deve ser validada pela autoridade competente do Estado-membro por meio de inscrição numa caderneta de serviço pessoal. Essa experiência pode ter sido adquirida em qualquer via navegável dos Estados-membros. No que diz respeito às vias navegáveis cujo trajecto se situa dentro e fora do território comunitário, tais como o Danúbio, o Elba e o Oder, a experiência profissional adquirida em todas as secções destas vias será tida em conta.\n\n3. O período mínimo de experiência profissional referido no nº 1 pode ser reduzido de 3 anos, no máximo:\n\na) Se o candidato for titular de um diploma reconhecido pela autoridade competente, que comprove uma formação especializada em navegação interior que inclua estágios práticos de condução de embarcações; a redução não pode, nesse caso, ser superior ao período da formação especializada; ou\n\nb) Se o candidato comprovar que possui uma experiência profissional adquirida numa embarcação marítima na qualidade de membro da tripulação de ponte; para obter a redução máxima de 3 anos, o candidato deve comprovar que possui uma experiência mínima de 4 anos em navegação marítima.\n\n4. A duração mínima da experiência profissional prevista no nº 1 pode ser reduzida em 3 anos, no máximo, se o candidato tiver sido aprovado num exame prático de condução de uma embarcação; nesse caso, o certificado restringe-se às embarcações com características náuticas similares às da embarcação utilizada para o exame prático."
+  },
+  "52eede2789accb9a": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. O candidato deve ter sido aprovado num exame que incida sobre os seus conhecimentos profissionais; esse exame deve incluir pelo menos as matérias gerais mencionadas no capítulo A do anexo II.\n\n2. Sob reserva de consulta à Comissão, um Estado-membro pode exigir que o condutor de embarcação satisfaça os requisitos complementares relativos ao conhecimento da situação local para a navegação em determinadas vias navegáveis, com excepção das vias de carácter marítimo referidas no anexo II da Directiva 91/672/CEE.\n\nSob a mesma reserva, um Estado-membro pode exigir que, em determinados espaços limitados de transporte, o condutor de uma embarcação de passageiros possua conhecimentos profissionais mais aprofundados das disposições específicas relativas à segurança dos passageiros, em especial em caso de acidente, incêndio e naufrágio."
+  },
+  "08a2946c0bf31e0a": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. A fim de obter uma autorização de condução de embarcações por radar, o condutor deve possuir um atestado especial, emitido pela autoridade competente, comprovativo da sua aprovação no exame sobre os conhecimentos profissionais das matérias referidas no capítulo B do anexo II.\n\nOs Estados-membros reconhecerão o diploma emitido nos termos do regulamento relativo à emissão de diplomas de condução de embarcações por radar no Reno.\n\n2. Se o candidato satisfizer as condições enunciadas no nº 1, a autoridade competente inscreverá no certificado uma menção atestando a aptidão para a condução por radar."
+  },
+  "1ad76136ba3b4059": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nPara ser autorizado a conduzir embarcações que transportem passageiros nas vias navegáveis dos Estados-membros, quer o condutor da embarcação, quer outro membro da tripulação deverão possuir um atestado especial emitido pela autoridade competente, comprovativo da sua aprovação no exame sobre os conhecimentos profissionais das matérias enunciadas no capítulo C do anexo II."
+  },
+  "f10f33df6768a1b1": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nNos termos do procedimento previsto no artigo 12º, a Comissão pode tomar as iniciativas necessárias à adaptação do modelo de certificado de condução constante do anexo I e à evolução dos conhecimentos profissionais necessários exigidos para a obtenção do certificado, constantes do anexo II."
+  },
+  "89eeb9cd685f3e13": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. Para efeitos de aplicação do artigo 11º, a Comissão será assistida pelo Comité instituído pelo artigo 7º da Directiva 91/672/CEE.\n\n2. O representante da Comissão submeterá à apreciação do Comité um projecto de medidas a adoptar. O Comité emitirá o seu parecer sobre esse projecto num prazo que o Presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no Comité os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3. a) A Comissão adoptará medidas que são imediatamente aplicáveis.\n\nb) Todavia, se não forem conformes com o parecer emitido pelo Comité, serão imediatamente comunicadas pela Comissão ao Conselho. Nesse caso, a Comissão pode diferir, por um período máximo de um mês, a contar da data dessa comunicação, a aplicação das medidas que aprovou. O Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo previsto na frase anterior."
+  },
+  "e8d99208d3b34a58": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar 18 meses após a entrada em vigor da presente directiva. Do facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão de imediato à Comissão o texto das disposições que adoptarem nos domínios regidos pela presente directiva.\n\n3. Os Estados-membros prestarão assistência mútua, se necessário, na aplicação da presente directiva."
+  },
+  "4deb5940eaa23642": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "af54e25c7c979f74": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 23 de Julho de 1996.\n\nPelo Conselho\n\nO Presidente\n\nI. YATES\n\n(1) JO nº C 280 de 6. 10. 1994, p. 5.\n\n(2) Parecer emitido em 25 de Janeiro de 1995 (ainda não publicado no Jornal Oficial).\n\n(3) Parecer do Parlamento Europeu de 2 de Março de 1995 (JO nº C 68 de 20. 3. 1995, p. 41), posição comum do Conselho de 8 de Dezembro de 1995 (JO nº C 356 de 30. 12. 1995, p. 66) e decisão do Parlamento Europeu de 9 de Maio de 1996 (JO nº C 152 de 27. 5. 1996, p. 46).\n\n(4) JO nº L 373 de 31. 12. 1991, p. 29."
+  },
+  "92346d04e87d5d70": {
+   "fragment_id": "ANEXO I — MODELO DE CERTIFICADO DE CONDUÇÃO DE EMBARCAÇÃO DE NAVEGAÇÃO INTERIOR (85 mm × 54 mm - Fundo azul claro)",
+   "type": "divisao",
+   "heading": "ANEXO I — MODELO DE CERTIFICADO DE CONDUÇÃO DE EMBARCAÇÃO DE NAVEGAÇÃO INTERIOR (85 mm × 54 mm - Fundo azul claro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — MODELO DE CERTIFICADO DE CONDUÇÃO DE EMBARCAÇÃO DE NAVEGAÇÃO INTERIOR (85 mm × 54 mm - Fundo azul claro)\n\nAs características físicas do cartão devem ser conformes com as normas ISO 78.10.\n\n>INÍCIO DE GRÁFICO>\n\nCERTIFICADO DE CONDUÇÃO DE EMBARCAÇÃO DE NAVEGAÇÃO INTERIOR: A/B (1) PORTUGAL 1. xxx\n\n2. xxx\n\n3. 01/01/1996 - L-Lisboa\n\n4. 02/01/1996\n\n6.\n\n7.\n\n8. AB\n\n9. R tonelagem, kW, xx\n\n10. 01/01/2061\n\n11.\n\n5. xxx\n\n>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\nCERTIFICADO DE CONDUÇÃO DE EMBARCAÇÃO PARA O TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS POR NAVEGAÇÃO INTERIOR\n\n1. Apelido(s) do titular\n\n2. Nome(s) próprio(s)\n\n3. Data e local de nascimento\n\n4. Data de emissão do certificado\n\n5. Número de emissão\n\n6. Fotografia do titular\n\n7. Assinatura do titular\n\n8. A Todas as vias navegáveis, com excepção do Reno\n\nB Todas as vias navegáveis, com excepção das marítimas e do Reno\n\n9. - R (Radar)\n\n- Categoria e capacidade exclusiva da embarcação (tonelagem, kW, passageiros)\n\n10. Prazo de validade\n\n11. Referências\n\nLimitações\n\nModelo da União Europeia (1) NB: A/B a negro. >FIM DE GRÁFICO>"
+  },
+  "707aa0e80c3b0df2": {
+   "fragment_id": "ANEXO II — CONHECIMENTOS PROFISSIONAIS EXIGIDOS PARA A OBTENÇÃO DO CERTIFICADO DE CONDUÇÃO DE EMBARCAÇÕES DE NAVEGAÇÃO INTERIOR",
+   "type": "divisao",
+   "heading": "ANEXO II — CONHECIMENTOS PROFISSIONAIS EXIGIDOS PARA A OBTENÇÃO DO CERTIFICADO DE CONDUÇÃO DE EMBARCAÇÕES DE NAVEGAÇÃO INTERIOR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — CONHECIMENTOS PROFISSIONAIS EXIGIDOS PARA A OBTENÇÃO DO CERTIFICADO DE CONDUÇÃO DE EMBARCAÇÕES DE NAVEGAÇÃO INTERIOR"
+  },
+  "5782e1af154b886d": {
+   "fragment_id": "CAPÍTULO A — Matérias gerais relativas ao transporte de mercadorias e de passageiros",
+   "type": "divisao",
+   "heading": "CAPÍTULO A — Matérias gerais relativas ao transporte de mercadorias e de passageiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO A — Matérias gerais relativas ao transporte de mercadorias e de passageiros"
+  },
+  "f9784b5d27f5752c": {
+   "fragment_id": "PARTE 1: CERTIFICADO DE GRUPO A",
+   "type": "divisao",
+   "heading": "PARTE 1: CERTIFICADO DE GRUPO A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE 1: CERTIFICADO DE GRUPO A\n\n1. Navegação\n\na) Conhecimento das regras de navegação nas vias navegáveis interiores e nas vias navegáveis marítimas, nomeadamente do Código Europeu das Vias de Navegação Interior (CEVNI) e do Regulamento Internacional para a Prevenção dos Abalroamentos no Mar, incluindo a sinalização e a balizagem das vias navegáveis;\n\nb) Conhecimento das características gerais das principais vias navegáveis interiores e vias navegáveis marítimas, do ponto de vista geográfico, hidrográfico, meteorológico e morfológico;\n\nc) Navegação terrestre, incluindo:\n\ndeterminação da rota, linhas de posição, posicionamento da embarcação, impressos e publicações náuticas, utilização de cartas de marear, ajudas à navegação e sistemas de balizagem, processos de controlo da agulha magnética, bases das condições das marés.\n\n2. Manobra e condução da embarcação\n\na) Governo da embarcação, tendo em conta os efeitos do vento e das correntes, dos remoinhos e refluxos e do calado, tendo em vista uma flutuabilidade e estabilidade suficientes;\n\nb) Função e funcionamento do leme e do hélice;\n\nc) Manobra de lançamento da âncora e de atracagem em quaisquer condições;\n\nd) Manobras de entrada e saída numa eclusa ou num porto e manobras em caso de cruzamento e de ultrapassagem.\n\n3. Construção e estabilidade da embarcação\n\na) Conhecimentos dos princípios fundamentais da construção das embarcações, sobretudo no que respeita à segurança dos passageiros, da tripulação e da embarcação;\n\nb) Conhecimento elementar da Directiva 82/714/CEE do Conselho, de 4 de Outubro de 1982, que estabelece as prescrições técnicas das embarcações de navegação interior (1);\n\nc) Conhecimento elementar dos princípios básicos da estrutura das embarcações;\n\nd) Conhecimento teórico das regras de estabilidade relativas à flutuabilidade, assim como a respectiva aplicação prática, nomeadamente a navegabilidade;\n\ne) Prescrições suplementares, nomeadamente equipamento suplementar, relativas às vias navegáveis marítimas.\n\n4. Máquinas da embarcação\n\na) Conhecimentos elementares sobre a construção e o funcionamento das máquinas a fim de garantir o seu funcionamento;\n\nb) Comando e controlo do funcionamento das máquinas principais e auxiliares e procedimentos a observar em caso de avaria.\n\n5. Carga e descarga\n\na) Utilização de escalas de calado;\n\nb) Determinação da capacidade de carga, através do certificado de arqueação;\n\nc) Operações de carga e descarga, estiva da carga (plano de estiva);\n\n6. Condução em circunstâncias específicas\n\na) Princípios fundamentais da prevenção de acidentes;\n\nb) Medidas a adoptar em caso de avaria, abalroamento ou encalhe, incluindo a vedação de rombos;\n\nc) Utilização de instrumentos e de material de salvamento;\n\nd) Primeiros socorros em caso de acidente;\n\ne) Prevenção de incêndios e utilização das instalações e dos dispositivos de combate a incêndios;\n\nf) Prevenção da poluição das vias navegáveis;\n\ng) Condições específicas de salvamento de pessoas, da embarcação e da carga nas vias marítimas navegáveis; sobrevivência no mar."
+  },
+  "84ff35b2de25cd49": {
+   "fragment_id": "PARTE 2: CERTIFICADO DE GRUPO B",
+   "type": "divisao",
+   "heading": "PARTE 2: CERTIFICADO DE GRUPO B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE 2: CERTIFICADO DE GRUPO B\n\n1. Navegação\n\na) Conhecimento exacto das regras de navegação nas vias navegáveis interiores, nomeadamente do Código Europeu das Vias de Navegação Interior (CEVNI), incluindo a sinalização e a balizagem das vias navegáveis;\n\nb) Conhecimento das características gerais das principais vias navegáveis interiores do ponto de vista geográfico, hidrológico, meteorológico e morfológico;\n\nc) Determinação da rota, impressos e publicações náuticas, sistemas de balizagem.\n\n2. Manobra e condução da embarcação\n\na) Governo da embarcação, tendo em conta os efeitos do vento e das correntes, dos remoinhos e refluxos e do calado, tendo em vista uma flutuabilidade e estabilidade suficientes;\n\nb) Função e funcionamento do leme e do hélice;\n\nc) Manobra de lançamento da âncora e de atracagem em quaisquer condições;\n\nd) Manobras de entrada e saída numa eclusa ou num porto e manobras em caso de cruzamento e de ultrapassagem.\n\n3. Construção e estabilidade da embarcação\n\na) Conhecimentos dos princípios fundamentais da construção das embarcações sobretudo no que respeita à segurança dos passageiros, da tripulação e da embarcação;\n\nb) Conhecimento elementar da Directiva 82/714/CEE do Conselho, de 4 de Outubro de 1982, que estabelece as prescrições técnicas das embarcações de navegação interior;\n\nc) Conhecimento elementar dos princípios básicos da estrutura das embarcações;\n\nd) Conhecimento teórico das regras de estabilidade e relativas à flutuabilidade, assim como a respectiva aplicação prática.\n\n4. Máquinas da embarcação\n\na) Conhecimentos elementares sobre a construção e o funcionamento das máquinas, a fim de garantir o seu funcionamento;\n\nb) Comando e controlo do funcionamento das máquinas principais e auxiliares e procedimentos a observar em caso de avaria.\n\n5. Carga e descarga\n\na) Utilização de escalas de calado;\n\nb) Determinação da capacidade de carga, através do certificado de arqueação;\n\nc) Operações de carga e descarga, estiva da carga (plano de estiva).\n\n6. Condução em circunstâncias específicas\n\na) Princípios fundamentais da prevenção de acidentes;\n\nb) Medidas a adoptar em caso de avaria, abalroamento ou encalhe, incluindo a vedação de rombos;\n\nc) Utilização de instrumentos e de material de salvamento;\n\nd) Primeiros socorros em caso de acidente;\n\ne) Prevenção de incêndios e utilização das instalações e dos dispositivos de combate a incêndios;\n\nf) Prevenção da poluição das vias navegáveis."
+  },
+  "f7a405790bcb9180": {
+   "fragment_id": "CAPÍTULO B — Matérias complementares obrigatórias para a condução da embarcação por radar",
+   "type": "divisao",
+   "heading": "CAPÍTULO B — Matérias complementares obrigatórias para a condução da embarcação por radar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO B — Matérias complementares obrigatórias para a condução da embarcação por radar\n\na) Conhecimento da teoria do radar: conhecimentos gerais sobre as ondas radioeléctricas e princípios de funcionamento do radar;\n\nb) Capacidade de utilizar o aparelho radar, interpretação da imagem fornecida pelo radar, análise das informações fornecidas pelo aparelho e conhecimentos dos limites das informações radar;\n\nc) Utilização do taquímetro (indicador da velocidade de rotação do radar);\n\nd) Conhecimento das regras do CEVNI relativas à navegação por radar."
+  },
+  "6cb1dd595968ecf9": {
+   "fragment_id": "CAPÍTULO C — Matérias complementares obrigatórias para o transporte de passageiros",
+   "type": "divisao",
+   "heading": "CAPÍTULO C — Matérias complementares obrigatórias para o transporte de passageiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO C — Matérias complementares obrigatórias para o transporte de passageiros\n\n1. Conhecimentos sumários das prescrições técnicas relativas à estabilidade das embarcações de passageiros em caso de avaria, à compartimentação estanque e ao plano do calado máximo;\n\n2. Primeiros socorros em caso de acidente;\n\n3. Prevenção de incêndios e dispositivos de combate a incêndios;\n\n4. Utilização dos meios e do material de salvamento.\n\n5. Medidas a tomar para a protecção dos passageiros em geral e designadamente em caso de evacuação, avaria, abalroamento, encalhe, incêndio, explosão e outras situações de pânico;\n\n6. Conhecimento das normas de segurança (saídas de emergência, rampa de portaló, utilização do leme de socorro).\n\n(1) JO nº L 301 de 28. 10. 1982, p. 1."
+  }
+ }
+}

@@ -34,6 +34,49 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-03-03'
+version_history:
+  file: regulamento-ue-2008-3.versoes.json
+  count: 3
+  source_lastmod: '2009-03-03'
+  versions:
+  - date: '2008-01-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-08-01'
+    amending: eu:celex:32008R0479:por
+    amending_title: REGULAMENTO (CE) N. o 479/2008 DO CONSELHO de 29 de Abril de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Acções de informação e promoção
+    - Altera Artigo 3.º — Sectores e produtos abrangidos
+    - Altera Artigo 10.º — Acções de informação e promoção a realizar por iniciativa da Comissão
+    - Altera Artigo 13.º — Financiamento
+    - Altera Artigo 16.º — Comité
+    - Altera Artigo 17.º — Consulta
+    - Altera Artigo 20.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO
+    - Adita TABELAS DE CORRESPONDÊNCIA REFERIDAS NO ARTIGO 19.º
+    - Adita 1. Regulamento (CE) n.º 2702/1999
+    - Adita 2. Regulamento (CE) n.º 2826/2000
+  - date: '2009-03-03'
+    amending: eu:celex:32009R0072:por
+    amending_title: REGULAMENTO (CE) N.O 72/2009 DO CONSELHO de 19 de Janeiro de 2009; REGULAMENTO (CE) N. o 153/2009 DO CONSELHO
+      de 19 de Fevereiro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 10.º — Acções de informação e promoção a realizar por iniciativa da Comissão
+    - Altera Artigo 13.º — Financiamento
+    - Altera Artigo 16.º — Comité
+    - Altera Artigo 17.º — Consulta
+    - Altera TABELAS DE CORRESPONDÊNCIA REFERIDAS NO ARTIGO 19.º
+    - Altera Notas
+    - Adita Artigo 9.º — Procedimento a seguir na falta de programas de acções de informação para o mercado interno ou em
+      países terceiros
+    - Suprime Artigo 9.º — Procedimento a seguir na falta de programas de acções de informação para o mercado interno
+    - Suprime 1. Regulamento (CE) n.º 2702/1999
+    - Suprime 2. Regulamento (CE) n.º 2826/2000
 identifiers:
   celex: 32008R0003
   eli: http://data.europa.eu/eli/reg/2008/3/oj
@@ -48,7 +91,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/012b2bb4-d8cf-4995-b1cd-c42f8dfc6a10.0018
   content_url: http://publications.europa.eu/resource/cellar/9872e81e-6b2c-49ce-85f5-345004fb33e8.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0003-20090303
-  retrieved_at: '2026-10-22T02:40:41Z'
+  retrieved_at: '2026-10-22T15:13:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T18:57:22.180+01:00'
 integrity:
@@ -57,9 +100,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:41Z'
-  notes: Texto consolidado 02008R0003-20090303.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:13:42Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2008-3.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -159,35 +202,19 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 20
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:41Z'
+  checked_at: '2026-10-22T15:13:42Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 3/2008 do Conselho, de 17 de Dezembro de 2007
-
-> 2008R0003 — PT — 03.03.2009 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008R0479) — [REGULAMENTO (CE) N.º 479/2008 DO CONSELHO de 29 de Abril de 2008](http://publications.europa.eu/resource/celex/32008R0479) — L 148 — 1 — 6.6.2008
-- [►M2](http://publications.europa.eu/resource/celex/32009R0072) — [REGULAMENTO (CE) N.O 72/2009 DO CONSELHO de 19 de Janeiro de 2009](http://publications.europa.eu/resource/celex/32009R0072) — L 30 — 1 — 31.1.2009
-- [►M3](http://publications.europa.eu/resource/celex/32009R0153) — [REGULAMENTO (CE) N.º 153/2009 DO CONSELHO de 19 de Fevereiro de 2009](http://publications.europa.eu/resource/celex/32009R0153) — L 51 — 1 — 24.2.2009
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32008R0003R%2801%29) — [Rectificação, JO L 040, 11.2.2009, p. 58 (3/08)](http://publications.europa.eu/resource/celex/32008R0003R%2801%29)
-
-## REGULAMENTO (CE) N.º 3/2008 DO CONSELHO
 
 de 17 de Dezembro de 2007
 

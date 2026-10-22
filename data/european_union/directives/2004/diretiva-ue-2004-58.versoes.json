@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004L0058:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0058-20050301",
+ "dre_path": null,
+ "source_lastmod": "2005-03-01",
+ "versions": [
+  {
+   "date": "2004-04-24",
+   "future": false,
+   "celex": "32004L0058",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "89a69d53ebaa4cab",
+    "23ff42845a23918b",
+    "13fbcc24440259ed",
+    "f5d8f6d69e2853ad",
+    "08f9e2edd2aa595c",
+    "08121d10fdba1f30",
+    "a4e9983d0521e56a"
+   ]
+  }
+ ],
+ "fragments": {
+  "89a69d53ebaa4cab": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2004/58/CE da Comissão, de 23 de Abril de 2004, que altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir as substâncias activas alfa-cipermetrina, benalaxil, bromoxinil, desmedifame, ioxinil e fenemedifame (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 120 de 24/04/2004 p. 0026 - 0029*\n\nDirectiva 2004/58/CE da Comissão\n\nde 23 de Abril de 2004\n\nque altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir as substâncias activas alfa-cipermetrina, benalaxil, bromoxinil, desmedifame, ioxinil e fenemedifame\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado(1), e, nomeadamente o n.o 1 do seu artigo 6.o,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CEE) n.o 3600/92 da Comissão, de 11 de Dezembro de 1992, que estabelece normas de execução para a primeira fase do programa de trabalho referido no n.o 2 do artigo 8.o da Directiva 91/414/CEE do Conselho relativa à colocação dos produtos fitofarmacêuticos no mercado(2), estabelece uma lista de substâncias activas a avaliar, com vista à possível inclusão das mesmas no anexo I da Directiva 91/414/CEE. Aquela lista inclui as substâncias activas alfa-cipermetrina, benalaxil, bromoxinil, desmedifame, ioxinil e fenemedifame.\n\n(2) Os efeitos das substâncias activas em causa na saúde humana e no ambiente foram avaliados em conformidade com o Regulamento (CEE) n.o 3600/92 no que respeita a um certa gama de utilizações, proposta pelos notificantes. Nos termos do Regulamento (CE) n.o 933/94 da Comissão, de 27 de Abril de 1994, que estabelece as substâncias activas dos produtos fitofarmacêuticos e designa os Estados-Membros relatores com vista à aplicação do Regulamento (CEE) n.o 3600/92(3), foram designados os seguintes Estados-Membros relatores, que apresentaram os respectivos relatório de avaliação e recomendações à Comissão, em conformidade com o n.o 1, alínea c), do artigo 7.o do Regulamento (CEE) n.o 3600/92: No respeitante à alfa-cipermetrina, foi designado Estado-Membro relator a Bélgica e todas as informações pertinentes foram apresentadas em 16 de Setembro de 1999; no respeitante ao benalaxil, foi designado Estado-Membro relator Portugal e todas as informações pertinentes foram apresentadas em 27 de Abril de 2000; no respeitante ao bromoxinil, foi designado Estado-Membro relator a França e todas as informações pertinentes foram apresentadas em 16 de Março de 2000; no respeitante ao desmedifame, foi designado Estado-Membro relator a Finlândia e todas as informações pertinentes foram apresentadas em 8 de Maio de 2000; no respeitante ao ioxinil, foi designado Estado-Membro relator a França e todas as informações pertinentes foram apresentadas em 16 de Março de 2000; no respeitante ao fenemedifame, foi designado Estado-Membro relator a Finlândia e todas as informações pertinentes foram apresentadas em 5 de Janeiro de 2000.\n\n(3) Os relatórios de avaliação foram examinados pelos Estados-Membros e pela Comissão no âmbito do Comité Permanente da Cadeia Alimentar e da Saúde Animal.\n\n(4) Os exames de todas as substâncias activas foram concluídos em 13 de Fevereiro de 2004 com a elaboração dos relatórios de revisão da Comissão das substâncias alfa-cipermetrina, benalaxil, bromoxinil, desmedifame, ioxinil e fenemedifame.\n\n(5) A avaliação das substâncias alfa-cipermetrina, benalaxil, bromoxinil, desmedifame, ioxinil e fenemedifame não suscitou quaisquer dúvidas ou deixou questões pendentes, que justificassem a consulta do Comité Científico das Plantas.\n\n(6) As avaliações efectuadas permitiram concluir poder presumir-se que os produtos fitofarmacêuticos que contêm alfa-cipermetrina, benalaxil, bromoxinil, desmedifame, ioxinil e fenemedifame satisfazem, em geral, as condições definidas no n.o 1, alíneas a) e b) do artigo 5.o da Directiva 91/414/CEE, designadamente no que respeita às utilizações examinadas em pormenor no relatório de revisão da Comissão. É, portanto, adequado incluir as substâncias activas em causa no anexo I, para assegurar que, em cada Estado-Membro, as autorizações de produtos fitofarmacêuticos que as contenham possam ser concedidas em conformidade com a referida directiva.\n\n(7) Deve ser previsto um período razoável antes de uma substância activa ser incluída no anexo I, para que os Estados-Membros e as partes interessadas possam preparar-se para a satisfação dos novos requisitos que resultarão da inclusão.\n\n(8) Depois da inclusão, deve facultar-se aos Estados-Membros um período razoável para porem em prática as disposições da Directiva 91/414/CEE no que se refere aos produtos fitofarmacêuticos que contenham alfa-cipermetrina, benalaxil, bromoxinil, desmedifame, ioxinil e fenemedifame, nomeadamente para reapreciarem as autorizações em vigor e assegurarem o cumprimento das condições aplicáveis às substâncias activas em causa estabelecidas no anexo I da Directiva 91/414/CEE. Por questões de eficácia e tendo em conta os prazos curtos, é adequado que o Estado-Membro relator coordene tais reexames entre Estados-Membros. É necessário prever um período mais longo para a apresentação e avaliação do processo completo relativo a cada produto fitofarmacêutico, em conformidade com os princípios uniformes enunciados na Directiva 91/414/CEE.\n\n(9) Há, portanto, que alterar a Directiva 91/414/CEE em conformidade.\n\n(10) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "23ff42845a23918b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 91/414/CEE é alterado em conformidade com o anexo da presente directiva."
+  },
+  "13fbcc24440259ed": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros adoptarão e publicarão, o mais tardar em 31 de Agosto de 2005, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Os Estados-Membros comunicarão imediatamente à Comissão o texto das referidas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nOs Estados-Membros aplicarão as referidas disposições a partir de 1 de Setembro de 2005.\n\nQuando os Estados-membros adoptarem essas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros."
+  },
+  "f5d8f6d69e2853ad": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros reapreciarão as autorizações concedidas a cada produto fitossanitário que contenha alfa-cipermetrina, benalaxil, bromoxinil, desmedifame, ioxinil e fenemedifame de forma a garantir o cumprimento das condições aplicáveis às substâncias activas em causa estabelecidas no anexo I da Directiva 91/414/CEE. Se necessário, os Estados-Membros alterarão ou revogarão a autorização respeitante a cada produto fitossanitário até 31 de Agosto de 2005.\n\nO Estado-Membro relator respectivo organizará a cooperação entre Estados-Membros ao efectuar tal reexame.\n\n2. Os Estados-Membros reavaliarão cada produto fitofarmacêutico autorizado que contenha alfa-cipermetrina, benalaxil, bromoxinil, desmedifame, ioxinil e fenemedifame, como única substância activa ou acompanhada de outras substâncias activas incluídas no anexo I da Directiva 91/414/CEE, o mais tardar até 28 de Fevereiro de 2005, em conformidade com os princípios uniformes estabelecidos no anexo VI da Directiva 91/414/CEE, com base num processo que satisfaça as exigências do anexo III da mesma directiva. Na sequência dessa avaliação, os Estados-Membros determinarão se o produto satisfaz as condições estabelecidas no n.o 1, alíneas b), c), d) e e), do artigo 4.o da Directiva 91/414/CEE.\n\nNa sequência dessa determinação, os Estados-Membros:\n\na) No caso de um produto que contenha alfa-cipermetrina, benalaxil, bromoxinil, desmedifame, ioxinil ou fenemedifame como a única substância activa alterarão ou retirarão a autorização, se necessário, o mais tardar até 28 de Fevereiro de 2009; ou\n\nb) No caso de um produto que contenha alfa-cipermetrina, benalaxil, bromoxinil, desmedifame, ioxinil ou fenemedifame como uma de várias substâncias activas, alterarão ou retirarão a autorização, se necessário, o mais tardar até 28 Fevereiro 2009 ou até à data fixada para essa alteração ou retirada na respectiva directiva ou directivas que acrescentaram a substância ou as substâncias relevantes ao anexo I da Directiva 91/414/CEE, caso esta última data seja posterior."
+  },
+  "08f9e2edd2aa595c": {
+   "fragment_id": "Artigo 4.º — A presente directiva entra em vigor em 1 de Março de 2005",
+   "type": "artigo",
+   "heading": "Artigo 4.º — A presente directiva entra em vigor em 1 de Março de 2005",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — A presente directiva entra em vigor em 1 de Março de 2005"
+  },
+  "08121d10fdba1f30": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 23 de Abril de 2004.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 230 de 19.8.1991, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2004/60/CE da Comissão (Ver página 39 do presente Jornal Oficial).\n\n(2) JO L 366 de 15.12.1992, p. 10. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2266/2000 (JO L 259 de 13.10.2000, p. 10).\n\n(3) JO L 107 de 28.4.1994, p. 8. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2230/95 (JO L 225 de 22.9.1995, p. 1)."
+  },
+  "a4e9983d0521e56a": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nAditar o seguinte no final do quadro do anexo I da Directiva 91/414/CEE:\n\n\">POSIÇÃO NUMA TABELA>\""
+  }
+ }
+}

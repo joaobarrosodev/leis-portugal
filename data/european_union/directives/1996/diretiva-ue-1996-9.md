@@ -35,6 +35,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-06-06'
+version_history:
+  file: diretiva-ue-1996-9.versoes.json
+  count: 2
+  source_lastmod: '2019-06-06'
+  versions:
+  - date: '1996-03-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-06-06'
+    amending: eu:celex:32019L0790:por
+    amending_title: DIRETIVA (UE) 2019/790 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 17 de
+      abril de 2019
+    changes:
+    - Altera preambulo
+    - Adita CAPÍTULO I
+    - Adita ÂMBITO DE APLICAÇÃO
+    - Adita Artigo 1.º — Âmbito de aplicação
+    - Adita Artigo 2.º — Restrições ao âmbito de aplicação
+    - Adita CAPÍTULO II
+    - Adita DIREITO DE AUTOR
+    - Adita Artigo 3.º — Objecto da protecção
+    - Adita Artigo 4.º — Qualidade de autor da base de dados
+    - Adita Artigo 5.º — Actos sujeitos a restrições
+    - Adita Artigo 6.º — Excepções aos actos sujeitos a restrições
+    - Adita CAPÍTULO III
+    - Adita DIREITO SUI GENERIS
+    - Adita Artigo 7.º — Objecto da protecção
+    - Adita Artigo 8.º — Direitos e obrigações do utilizador legítimo
+    - Adita Artigo 9.º — Excepções ao direito sui generis
+    - Adita Artigo 10.º — Prazo de protecção
+    - Adita Artigo 11.º — Beneficiários do direito sui generis
+    - Adita CAPÍTULO IV
+    - Adita DISPOSIÇÕES COMUNS
+    - Adita Artigo 12.º — Sanções
+    - Adita Artigo 13.º — Aplicação de outras disposições legais
+    - Adita Artigo 14.º — Aplicação no tempo
+    - Adita Artigo 15.º — Carácter imperativo de certas disposições
+    - Adita Artigo 16.º — Disposições finais
+    - Adita Artigo 17.º
+    - Adita Notas
+    - Suprime CAPÍTULO I — ÂMBITO DE APLICAÇÃO
+    - Suprime Artigo 1º — Âmbito de aplicação
+    - Suprime Artigo 2º — Restrições ao âmbito de aplicação
+    - Suprime CAPÍTULO II — DIREITO DE AUTOR
+    - Suprime Artigo 3º — Objecto da protecção
+    - Suprime Artigo 4º — Qualidade de autor da base de dados
+    - Suprime Artigo 5º — Actos sujeitos a restrições
+    - Suprime Artigo 6º — Excepções aos actos sujeitos a restrições
+    - Suprime CAPÍTULO III — DIREITO SUI GENERIS
+    - Suprime Artigo 7º — Objecto da protecção
+    - Suprime Artigo 8º — Direitos e obrigações do utilizador legítimo
+    - Suprime Artigo 9º — Excepções ao direito sui generis
+    - Suprime Artigo 10º — Prazo de protecção
 identifiers:
   celex: 31996L0009
   eli: http://data.europa.eu/eli/dir/1996/9/oj
@@ -49,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b48976b5-b31a-4dba-a052-87133e17d65e.0011
   content_url: http://publications.europa.eu/resource/cellar/b748608c-875e-11e9-9f05-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0009-20190606
-  retrieved_at: '2026-10-22T02:39:28Z'
+  retrieved_at: '2026-10-22T14:44:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-18T21:22:20.252+01:00'
 integrity:
@@ -58,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:28Z'
-  notes: Texto consolidado 01996L0009-20190606.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:44:54Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1996-9.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -233,29 +287,19 @@ relationships:
   source: null
 article_structure:
   article_count: 17
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:28Z'
+  checked_at: '2026-10-22T14:44:54Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 96/9/CE do Parlamento Europeu e do Conselho, de 11 de Março de 1996
-
-> 01996L0009 — PT — 06.06.2019 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019L0790) — [DIRETIVA (UE) 2019/790 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 17 de abril de 2019](http://publications.europa.eu/resource/celex/32019L0790) — L 130 — 92 — 17.5.2019
-
-## DIRECTIVA 96/9/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de Março de 1996
 

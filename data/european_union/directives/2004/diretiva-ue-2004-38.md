@@ -37,6 +37,22 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-06-16'
+version_history:
+  file: diretiva-ue-2004-38.versoes.json
+  count: 2
+  source_lastmod: '2011-06-16'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-06-16'
+    amending: eu:celex:32011R0492:por
+    amending_title: REGULAMENTO (UE) N. o 492/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de Abril de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 38.º — Revogações
+    - Altera Notas
 identifiers:
   celex: 32004L0038
   eli: http://data.europa.eu/eli/dir/2004/38/oj
@@ -51,7 +67,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a1435737-300a-4760-8462-03db75b27caa.0010
   content_url: http://publications.europa.eu/resource/cellar/daf73261-7b52-40d2-ab3f-158205d20c43.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0038-20110616
-  retrieved_at: '2026-10-22T02:36:36Z'
+  retrieved_at: '2026-10-22T14:57:01Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:43:20.169+02:00'
 integrity:
@@ -60,9 +76,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:36Z'
-  notes: Texto consolidado 02004L0038-20110616.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:01Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2004-38.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -716,34 +732,19 @@ relationships:
   source: null
 article_structure:
   article_count: 42
-  section_count: 18
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 19
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:36Z'
+  checked_at: '2026-10-22T14:57:01Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2004/38/CE do Parlamento Europeu e do Conselho, de 29 de Abril de 2004
-
-> 2004L0038 — PT — 16.06.2011 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011R0492) — [REGULAMENTO (UE) N.º 492/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de Abril de 2011](http://publications.europa.eu/resource/celex/32011R0492) — L 141 — 1 — 27.5.2011
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32004L0038R%2801%29) — [Rectificação, JO L 229, 29.6.2004, p. 35 (2004/38)](http://publications.europa.eu/resource/celex/32004L0038R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32004L0038R%2803%29) — [Rectificação, JO L 197, 28.7.2005, p. 34 (2004/38)](http://publications.europa.eu/resource/celex/32004L0038R%2803%29)
-
-## DIRECTIVA 2004/38/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 29 de Abril de 2004
 

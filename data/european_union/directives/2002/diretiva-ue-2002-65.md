@@ -36,6 +36,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-01-13'
+version_history:
+  file: diretiva-ue-2002-65.versoes.json
+  count: 4
+  source_lastmod: '2018-01-13'
+  versions:
+  - date: '2002-10-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-06-12'
+    amending: eu:celex:32005L0029:por
+    amending_title: DIRECTIVA 2005/29/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 11 de
+      Maio de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Informação do consumidor antes da celebração do contrato à distância
+    - Altera Artigo 6.º — Direito de rescisão
+    - Altera Artigo 15.º — Ónus da prova
+    - Altera Artigo 18.º — Directiva 97/7/CE
+    - Altera Artigo 19.º — Directiva 98/27/CE
+    - Altera Artigo 23.º — Destinatários
+    - Adita Artigo 9.º
+    - Adita Notas
+    - Suprime Artigo 9.º — Serviços não pedidos
+  - date: '2007-12-25'
+    amending: eu:celex:32007L0064:por
+    amending_title: DIRECTIVA 2007/64/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 13 de
+      Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Informação do consumidor antes da celebração do contrato à distância
+    - Altera Artigo 4.º — Requisitos de informação adicionais
+    - Altera Artigo 6.º — Direito de rescisão
+    - Altera Artigo 9.º
+    - Altera Artigo 15.º — Ónus da prova
+    - Altera Artigo 18.º — Directiva 97/7/CE
+    - Altera Artigo 19.º — Directiva 98/27/CE
+    - Altera Notas
+    - Suprime Artigo 8.º — Pagamento por cartão
+  - date: '2018-01-13'
+    amending: eu:celex:32015L2366:por
+    amending_title: DIRETIVA (UE) 2015/2366 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 25
+      de novembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Informação do consumidor antes da celebração do contrato à distância
+    - Altera Artigo 4.º — Requisitos de informação adicionais
+    - Altera Artigo 6.º — Direito de rescisão
+    - Altera Artigo 9.º
+    - Altera Artigo 15.º — Ónus da prova
+    - Altera Artigo 18.º — Directiva 97/7/CE
+    - Altera Artigo 19.º — Directiva 98/27/CE
+    - Altera Notas
 identifiers:
   celex: 32002L0065
   eli: http://data.europa.eu/eli/dir/2002/65/oj
@@ -50,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e65a37c1-9eff-4170-8f0c-9ef693091b8f.0010
   content_url: http://publications.europa.eu/resource/cellar/29622b72-285c-45b2-9613-08b5d777ad7e.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0065-20180113
-  retrieved_at: '2026-10-22T02:38:37Z'
+  retrieved_at: '2026-10-22T14:52:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-04T11:35:20.232+02:00'
 integrity:
@@ -59,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:37Z'
-  notes: Texto consolidado 02002L0065-20180113.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:05Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2002-65.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -255,31 +308,19 @@ relationships:
   source: null
 article_structure:
   article_count: 22
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:37Z'
+  checked_at: '2026-10-22T14:52:05Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2002/65/CE do Parlamento Europeu e do Conselho, de 23 de Setembro de 2002
-
-> 02002L0065 — PT — 13.01.2018 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32005L0029) — [DIRECTIVA 2005/29/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 11 de Maio de 2005](http://publications.europa.eu/resource/celex/32005L0029) — L 149 — 22 — 11.6.2005
-- [►M2](http://publications.europa.eu/resource/celex/32007L0064) — [DIRECTIVA 2007/64/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 13 de Novembro de 2007](http://publications.europa.eu/resource/celex/32007L0064) — L 319 — 1 — 5.12.2007
-- [►M3](http://publications.europa.eu/resource/celex/32015L2366) — [DIRETIVA (UE) 2015/2366 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 25 de novembro de 2015](http://publications.europa.eu/resource/celex/32015L2366) — L 337 — 35 — 23.12.2015
-
-## DIRECTIVA 2002/65/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de Setembro de 2002
 

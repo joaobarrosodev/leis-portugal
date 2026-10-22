@@ -35,6 +35,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2004-03-25'
+version_history:
+  file: decisao-ue-1991-516.versoes.json
+  count: 2
+  source_lastmod: '2004-03-25'
+  versions:
+  - date: '1991-10-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-03-25'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1°
+    - Suprime Artigo 2°
+    - Suprime Artigo 3°
+    - Suprime Artigo 4°
+    - Suprime ANEXO — LISTA DE PRODUTOS PROIBIDOS
 identifiers:
   celex: 31991D0516
   eli: http://data.europa.eu/eli/dec/1991/516/oj
@@ -49,7 +68,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/25d66785-05c6-4f6b-a31e-5cdc6815cb84.0011
   content_url: http://publications.europa.eu/resource/cellar/68c9d1ea-03ae-43c5-a8b0-cdfd1f4e0f1b.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991D0516-20040325
-  retrieved_at: '2026-10-22T02:55:27Z'
+  retrieved_at: '2026-10-22T14:38:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T01:58:35.519+01:00'
 integrity:
@@ -58,9 +77,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:55:27Z'
-  notes: Texto consolidado 01991D0516-20040325.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:38:13Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-1991-516.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -136,16 +155,19 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:55:27Z'
+  checked_at: '2026-10-22T14:38:13Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01991D0516-19931001: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991D0516-19960601: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991D0516-19971201: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991D0516-19991101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991D0516-20000801: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

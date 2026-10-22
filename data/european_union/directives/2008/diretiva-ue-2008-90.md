@@ -34,6 +34,58 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-10-13'
+version_history:
+  file: diretiva-ue-2008-90.versoes.json
+  count: 5
+  source_lastmod: '2022-10-13'
+  versions:
+  - date: '2008-10-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-12-16'
+    amending: eu:celex:32010D0777:por
+    amending_title: DECISÃO DA COMISSÃO de 15 de Dezembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Identificação da variedade
+    - Altera Artigo 9.º — Rotulagem
+    - Altera Artigo 12.º
+    - Altera Artigo 24.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Lista de géneros e espécies a que é aplicável a presente directiva
+    - Adita ANEXO II
+    - Adita PARTE A
+    - Adita Directiva revogada e sucessivas alterações
+    - Adita (a que se refere o artigo 22.º)
+    - Adita PARTE B
+    - Adita Lista dos prazos de transposição para o direito interno e de aplicação
+    - Adita ANEXO III
+  - date: '2014-06-30'
+    amending: eu:celex:32014R0652:por
+    amending_title: REGULAMENTO (UE) N. o 652/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 19.º — Comité
+    - Altera Notas
+  - date: '2019-01-28'
+    amending: eu:celex:32019D0120:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2019/120 DA COMISSÃO de 24 de janeiro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 12.º
+    - Altera Artigo 19.º — Comité
+    - Altera Notas
+  - date: '2022-10-13'
+    amending: eu:celex:32022D1933:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2022/1933 DA COMISSÃO de 12 de outubro de 2022
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 19.º — Comité
+    - Altera Lista de géneros e espécies a que é aplicável a presente directiva
+    - Altera Notas
 identifiers:
   celex: 32008L0090
   eli: http://data.europa.eu/eli/dir/2008/90/oj
@@ -48,7 +100,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/88c67828-631c-4053-9dc9-bb92a7fa8f9c.0018
   content_url: http://publications.europa.eu/resource/cellar/b353c718-6504-11ed-9f85-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0090-20221013
-  retrieved_at: '2026-10-22T02:47:57Z'
+  retrieved_at: '2026-10-22T15:13:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T07:18:37.127+01:00'
 integrity:
@@ -57,9 +109,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:57Z'
-  notes: Texto consolidado 02008L0090-20221013.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:13:13Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2008-90.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -165,32 +217,19 @@ relationships:
   source: null
 article_structure:
   article_count: 24
-  section_count: 26
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 27
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:57Z'
+  checked_at: '2026-10-22T15:13:13Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2008/90/CE do Conselho, de 29 de Setembro de 2008
-
-> 02008L0090 — PT — 13.10.2022 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32010D0777) — [DECISÃO DA COMISSÃO de 15 de Dezembro de 2010](http://publications.europa.eu/resource/celex/32010D0777) — L 332 — 40 — 16.12.2010
-- [►M2](http://publications.europa.eu/resource/celex/32014R0652) — [REGULAMENTO (UE) N.º 652/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0652) — L 189 — 1 — 27.6.2014
-- [M3](http://publications.europa.eu/resource/celex/32019D0120) — [DECISÃO DE EXECUÇÃO (UE) 2019/120 DA COMISSÃO de 24 de janeiro de 2019](http://publications.europa.eu/resource/celex/32019D0120) — L 24 — 27 — 28.1.2019
-- [►M4](http://publications.europa.eu/resource/celex/32022D1933) — [DECISÃO DE EXECUÇÃO (UE) 2022/1933 DA COMISSÃO de 12 de outubro de 2022](http://publications.europa.eu/resource/celex/32022D1933) — L 266 — 19 — 13.10.2022
-
-## DIRECTIVA 2008/90/CE DO CONSELHO
 
 de 29 de Setembro de 2008
 

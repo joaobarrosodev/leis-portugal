@@ -37,6 +37,33 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-12-31'
+version_history:
+  file: diretiva-ue-2005-55.versoes.json
+  count: 2
+  source_lastmod: '2013-12-31'
+  versions:
+  - date: '2005-10-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-12-31'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Definições
+    - Suprime Artigo 2.º — Obrigações dos Estados-Membros
+    - Suprime Artigo 3.º — Durabilidade dos sistemas de controlo de emissões
+    - Suprime Artigo 4.º — Sistemas de diagnóstico a bordo
+    - Suprime Artigo 5.º — Sistemas de controlo das emissões que utilizam reagentes consumíveis
+    - Suprime Artigo 6.º — Incentivos fiscais
+    - Suprime Artigo 7.º — Medidas de execução e alterações
+    - Suprime Artigo 8.º — Revisão e relatórios
+    - Suprime Artigo 9.º — Transposição
+    - Suprime Artigo 10.º — Revogação
+    - Suprime Artigo 11.º — Entrada em vigor
+    - Suprime Artigo 12.º — Destinatários
+    - Suprime Notas
 identifiers:
   celex: 32005L0055
   eli: http://data.europa.eu/eli/dir/2005/55/oj
@@ -51,7 +78,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d0eaeaec-2e8a-494d-acff-1c0da4192f5b.0018
   content_url: http://publications.europa.eu/resource/cellar/9514318b-4261-43a8-9394-4d3d0e90f777.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0055-20131231
-  retrieved_at: '2026-10-22T02:42:42Z'
+  retrieved_at: '2026-10-22T14:59:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-11T12:46:51.451+01:00'
 integrity:
@@ -60,9 +87,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:42Z'
-  notes: Texto consolidado 02005L0055-20131231.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:43Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2005-55.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -176,16 +203,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:42Z'
+  checked_at: '2026-10-22T14:59:43Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02005L0055-20051219: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005L0055-20060610: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005L0055-20080808: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

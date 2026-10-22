@@ -35,6 +35,24 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-11-01'
+version_history:
+  file: diretiva-ue-1994-20.versoes.json
+  count: 2
+  source_lastmod: '2014-11-01'
+  versions:
+  - date: '1994-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-11-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
 identifiers:
   celex: 31994L0020
   eli: http://data.europa.eu/eli/dir/1994/20/oj
@@ -49,7 +67,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c51b5702-274c-4066-a3e6-35dbe919742c.0011
   content_url: http://publications.europa.eu/resource/cellar/d265c037-a9ed-45d6-b0d8-48e67fa2d208.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0020-20141101
-  retrieved_at: '2026-10-22T03:07:40Z'
+  retrieved_at: '2026-10-22T14:43:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T04:46:33.441+01:00'
 integrity:
@@ -58,9 +76,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:07:40Z'
-  notes: Texto consolidado 01994L0020-20141101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:43:02Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1994-20.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -121,16 +139,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:07:40Z'
+  checked_at: '2026-10-22T14:43:02Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01994L0020-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01994L0020-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01994L0020-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

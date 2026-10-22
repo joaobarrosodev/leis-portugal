@@ -36,6 +36,62 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2005-12-27'
+version_history:
+  file: regulamento-ue-2002-1334.versoes.json
+  count: 4
+  source_lastmod: '2005-12-27'
+  versions:
+  - date: '2002-07-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-03-31'
+    amending: eu:celex:32002R1965:por
+    amending_title: REGULAMENTO (CE) N. o 1965/2002 DA COMISSÃO de 4 de Novembro de 2002; REGULAMENTO (CE) N. o 631/2003 DA
+      COMISSÃO de 7 de Abril de 2003
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e definições
+    - Altera Artigo 2.º — Condições de aprovação das organizações de operadores oleícolas
+    - Altera Artigo 3.º — Procedimento de aprovação das organizações de operadores oleícolas
+    - Altera Artigo 5.º — Programas de actividades das organizações de operadores oleícolas
+    - Altera Artigo 6.º — Selecção dos programas de actividades
+    - Altera Artigo 11.º — Comunicações dos Estados-Membros
+    - Altera Artigo 12.º — Entrada em vigor
+    - Adita Artigo 5.ºA — Repartição do financiamento comunitário
+    - Adita Notas
+  - date: '2004-07-28'
+    amending: eu:celex:32004R1331:por
+    amending_title: REGULAMENTO (CE) N. o 1331/2004 DA COMISSÃO de 20 de Julho de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e definições
+    - Altera Artigo 3.º — Procedimento de aprovação das organizações de operadores oleícolas
+    - Altera Artigo 5.º — Programas de actividades das organizações de operadores oleícolas
+    - Altera Artigo 6.º — Selecção dos programas de actividades
+    - Altera Artigo 8.º — Adiantamentos
+    - Altera Artigo 9.º — Pagamento do financiamento comunitário
+    - Altera Artigo 11.º — Comunicações dos Estados-Membros
+    - Altera Notas
+  - date: '2005-12-27'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto e definições
+    - Suprime Artigo 2.º — Condições de aprovação das organizações de operadores oleícolas
+    - Suprime Artigo 3.º — Procedimento de aprovação das organizações de operadores oleícolas
+    - Suprime Artigo 4.º — Actividades elegíveis para financiamento comunitário
+    - Suprime Artigo 5.º — Programas de actividades das organizações de operadores oleícolas
+    - Suprime Artigo 5.ºA — Repartição do financiamento comunitário
+    - Suprime Artigo 6.º — Selecção dos programas de actividades
+    - Suprime Artigo 7.º — Alteração dos programas de actividades
+    - Suprime Artigo 8.º — Adiantamentos
+    - Suprime Artigo 9.º — Pagamento do financiamento comunitário
+    - Suprime Artigo 10.º — Controlo e sanções
+    - Suprime Artigo 11.º — Comunicações dos Estados-Membros
+    - Suprime Artigo 12.º — Entrada em vigor
+    - Suprime Notas
 identifiers:
   celex: 32002R1334
   eli: http://data.europa.eu/eli/reg/2002/1334/oj
@@ -50,7 +106,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7a2981eb-a339-4a40-b1e2-6b270bd5f323.0010
   content_url: http://publications.europa.eu/resource/cellar/f4c4d43f-31ca-455f-a263-abeb5dd0b946.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R1334-20051227
-  retrieved_at: '2026-10-22T02:57:25Z'
+  retrieved_at: '2026-10-22T14:52:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T13:43:59.214+01:00'
 integrity:
@@ -59,9 +115,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:25Z'
-  notes: Texto consolidado 02002R1334-20051227.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:57Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2002-1334.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -126,16 +182,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:25Z'
+  checked_at: '2026-10-22T14:52:57Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02002R1334-20021101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

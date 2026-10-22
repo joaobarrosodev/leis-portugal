@@ -33,6 +33,61 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-01-01'
+version_history:
+  file: diretiva-ue-1992-79.versoes.json
+  count: 4
+  source_lastmod: '2011-01-01'
+  versions:
+  - date: '1992-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-12-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 2.oA
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o — Os Estados-membros são os destinatários da presente directiva. Feito no Luxemburgo, em 19 de Outubro
+      de 1992. Pelo Conselho
+  - date: '2010-02-27'
+    amending: eu:celex:31999L0081:por
+    amending_title: DIRECTIVA 1999/81/CE DO CONSELHO de 29 de Julho de 1999; M2; M3; DIRECTIVA 2010/12/UE DO CONSELHO de 16
+      de Fevereiro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Adita Artigo 2.º-A
+    - Adita Notas
+    - Suprime Artigo 2.oA
+  - date: '2011-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 2.º-A
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Notas
 identifiers:
   celex: 31992L0079
   eli: http://data.europa.eu/eli/dir/1992/79/oj
@@ -47,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/59639196-40d2-45a7-9d23-8e84a3684ffb.0011
   content_url: http://publications.europa.eu/resource/cellar/59570f73-e7c1-4988-b5de-3c45cde533b8.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0079-20110101
-  retrieved_at: '2026-10-22T02:50:26Z'
+  retrieved_at: '2026-10-22T14:41:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T06:54:06.574+01:00'
 integrity:
@@ -56,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:50:26Z'
-  notes: Texto consolidado 01992L0079-20110101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:11Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1992-79.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -141,16 +196,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:50:26Z'
+  checked_at: '2026-10-22T14:41:11Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01992L0079-19921110: versão indisponível (Sem expressão na língua por para CELEX 01992L0079-19921110.)'
+  - '01992L0079-19990101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0079-20020308: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

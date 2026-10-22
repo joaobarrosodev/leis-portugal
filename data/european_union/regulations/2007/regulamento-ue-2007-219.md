@@ -34,6 +34,133 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-11-30'
+version_history:
+  file: regulamento-ue-2007-219.versoes.json
+  count: 4
+  source_lastmod: '2021-11-30'
+  versions:
+  - date: '2008-01-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-01'
+    amending: eu:celex:32008R1361:por
+    amending_title: REGULAMENTO (CE) N. o 1361/2008 DO CONSELHO de 16 de Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Constituição de uma empresa comum
+    - Altera Artigo 4.º — Fontes de financiamento
+    - Altera Artigo 5.º — Comité
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 2.º — Estatuto jurídico
+    - Adita Artigo 2.º-A — Pessoal
+    - Adita Artigo 2.º-B — Privilégios e imunidades
+    - Adita Artigo 2.º-C — Responsabilidade
+    - Adita Artigo 2.º-D — Competência do Tribunal de Justiça e lei aplicável
+    - Adita Artigo 4.º-A — Regulamentação financeira
+    - Adita Artigo 4.º-B — Quitação
+    - Adita ANEXO
+    - Adita ESTATUTOS DA EMPRESA COMUM
+    - Adita Artigo 1.º — Membros
+    - Adita Artigo 2.º — Órgãos da Empresa Comum
+    - Adita Artigo 3.º — Composição e presidência do Conselho de Administração
+    - Adita Artigo 4.º — Votação no Conselho de Administração
+    - Adita Artigo 5.º — Atribuições do Conselho de Administração
+    - Adita Artigo 6.º — Prevenção de situações de conflito de interesses
+    - Adita Artigo 7.º — Director executivo
+    - Adita Artigo 7.º-A — Função de auditoria interna
+    - Adita Artigo 8.º — Destacamento de pessoal para a empresa comum
+    - Adita Artigo 9.º — Acordos
+    - Adita Artigo 10.º — Contratos externos
+    - Adita Artigo 11.º — Grupos de trabalho
+    - Adita Artigo 12.º — Disposições financeiras
+    - Adita Artigo 13.º — Receitas
+    - Adita Artigo 15.º — Execução e controlo orçamental
+    - Adita Artigo 16.º — Plano de actividades e relatórios
+    - Adita Artigo 17.º — Protecção dos interesses financeiros da Comunidade
+    - Adita Artigo 18.º — Direitos de propriedade
+    - Adita Artigo 19.º — Transparência
+    - Adita Artigo 20.º — Medidas antifraude
+    - Adita Artigo 21.º — Seguros
+    - Adita Artigo 22.º — Confidencialidade
+    - Adita Artigo 23.º — Transferência de activos pela Empresa Comum
+    - Adita Artigo 24.º — Alteração dos Estatutos
+    - Adita Artigo 25.º — Dissolução da Empresa Comum
+  - date: '2014-01-01'
+    amending: eu:celex:32014R0721:por
+    amending_title: REGULAMENTO (UE) N. o 721/2014 DO CONSELHO de 16 de junho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Constituição de uma empresa comum
+    - Altera Artigo 2.º-A — Pessoal
+    - Altera Artigo 4.º — Fontes de financiamento
+    - Altera Artigo 4.º-A — Regulamentação financeira
+    - Altera Artigo 5.º — Comité
+    - Altera Artigo 5.º — Atribuições do Conselho de Administração
+    - Altera Artigo 6.º — Prevenção de situações de conflito de interesses
+    - Altera Artigo 7.º — Director executivo
+    - Altera Artigo 9.º — Acordos
+    - Altera Artigo 12.º — Disposições financeiras
+    - Altera Artigo 13.º — Receitas
+    - Altera Artigo 16.º — Plano de actividades e relatórios
+    - Altera Artigo 19.º — Transparência
+    - Altera Artigo 20.º — Medidas antifraude
+    - Altera Artigo 22.º — Confidencialidade
+    - Altera Notas
+    - Adita Artigo 6.º — Procedimento de Comité
+    - Adita Artigo 7.º — Avaliação intercalar e relatório
+    - Adita Artigo 10.º — Contratos e subvenções
+    - Adita Artigo 17.º — Proteção dos interesses financeiros da União
+    - Suprime Artigo 6.º — Comitologia
+    - Suprime Artigo 7.º — Avaliação
+    - Suprime Artigo 10.º — Contratos externos
+    - Suprime Artigo 17.º — Protecção dos interesses financeiros da Comunidade
+    - Suprime Artigo 24.º — Alteração dos Estatutos
+  - date: '2021-11-30'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Constituição de uma empresa comum
+    - Suprime Artigo 2.º — Estatuto jurídico
+    - Suprime Artigo 2.º-A — Pessoal
+    - Suprime Artigo 2.º-B — Privilégios e imunidades
+    - Suprime Artigo 2.º-C — Responsabilidade
+    - Suprime Artigo 2.º-D — Competência do Tribunal de Justiça e lei aplicável
+    - Suprime Artigo 3.º — Estatutos da Empresa Comum
+    - Suprime Artigo 4.º — Fontes de financiamento
+    - Suprime Artigo 4.º-A — Regulamentação financeira
+    - Suprime Artigo 4.º-B — Quitação
+    - Suprime Artigo 5.º — Comité
+    - Suprime Artigo 6.º — Procedimento de Comité
+    - Suprime Artigo 7.º — Avaliação intercalar e relatório
+    - Suprime Artigo 8.º — Entrada em vigor
+    - Suprime ANEXO
+    - Suprime ESTATUTOS DA EMPRESA COMUM
+    - Suprime Artigo 1.º — Membros
+    - Suprime Artigo 2.º — Órgãos da Empresa Comum
+    - Suprime Artigo 3.º — Composição e presidência do Conselho de Administração
+    - Suprime Artigo 4.º — Votação no Conselho de Administração
+    - Suprime Artigo 5.º — Atribuições do Conselho de Administração
+    - Suprime Artigo 6.º — Prevenção de situações de conflito de interesses
+    - Suprime Artigo 7.º — Director executivo
+    - Suprime Artigo 7.º-A — Função de auditoria interna
+    - Suprime Artigo 8.º — Destacamento de pessoal para a empresa comum
+    - Suprime Artigo 9.º — Acordos
+    - Suprime Artigo 10.º — Contratos e subvenções
+    - Suprime Artigo 11.º — Grupos de trabalho
+    - Suprime Artigo 12.º — Disposições financeiras
+    - Suprime Artigo 13.º — Receitas
+    - Suprime Artigo 15.º — Execução e controlo orçamental
+    - Suprime Artigo 16.º — Plano de actividades e relatórios
+    - Suprime Artigo 17.º — Proteção dos interesses financeiros da União
+    - Suprime Artigo 18.º — Direitos de propriedade
+    - Suprime Artigo 19.º — Transparência
+    - Suprime Artigo 20.º — Medidas antifraude
+    - Suprime Artigo 21.º — Seguros
+    - Suprime Artigo 22.º — Confidencialidade
+    - Suprime Artigo 23.º — Transferência de activos pela Empresa Comum
 identifiers:
   celex: 32007R0219
   eli: http://data.europa.eu/eli/reg/2007/219/oj
@@ -48,7 +175,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/196e797f-f315-47af-b404-1ebb789643ab.0017
   content_url: http://publications.europa.eu/resource/cellar/6b441c1c-6264-11ec-a033-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0219-20211130
-  retrieved_at: '2026-10-22T02:58:38Z'
+  retrieved_at: '2026-10-22T15:08:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T04:41:18.563+01:00'
 integrity:
@@ -57,9 +184,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:38Z'
-  notes: Texto consolidado 02007R0219-20211130.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:08:13Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2007-219.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -141,16 +268,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:38Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:08:13Z'
+  warnings: []
   errors: []
 ---
 

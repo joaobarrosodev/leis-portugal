@@ -35,6 +35,56 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-12-17'
+version_history:
+  file: diretiva-ue-2006-17.versoes.json
+  count: 2
+  source_lastmod: '2012-12-17'
+  versions:
+  - date: '2006-02-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-12-17'
+    amending: eu:celex:32012L0039:por
+    amending_title: DIRETIVA 2012/39/UE DA COMISSÃO Texto relevante para efeitos do EEE de 26 de novembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita CRITÉRIOS DE SELECÇÃO DE DADORES DE TECIDOS E/OU CÉLULAS (EXCEPTO DADORES DE CÉLULAS REPRODUTIVAS) REFERIDOS NA
+      ALÍNEA a) DO ARTIGO 3.º
+    - Adita 1. Dadores mortos
+    - Adita 1.1. Critérios gerais de exclusão
+    - Adita 1.2. Critérios suplementares de exclusão de crianças dadoras mortas
+    - Adita 2. Dadores vivos
+    - Adita 2.1. Dador vivo para fins autólogos
+    - Adita 2.2. Dador vivo para fins alogénicos
+    - Adita ANEXO II
+    - Adita ANÁLISES LABORATORIAIS EXIGIDAS A DADORES (EXCEPTO DADORES DE CÉLULAS REPRODUTIVAS) REFERIDAS NO N.º 1 DO ARTIGO
+      4.º
+    - Adita 1. Análises biológicas exigidas aos dadores
+    - Adita 2. Requisitos gerais a observar na determinação dos marcadores biológicos
+    - Adita ANEXO III
+    - Adita CRITÉRIOS DE SELECÇÃO E ANÁLISES LABORATORIAIS EXIGIDAS A DADORES DE CÉLULAS REPRODUTIVAS, REFERIDOS NA ALÍNEA
+      b) DO ARTIGO 3.º E NO N.º 2 DO ARTIGO 4.º
+    - Adita 1. Dádivas entre parceiros para utilização directa
+    - Adita 2. Dádivas entre parceiros para utilização não directa
+    - Adita 3. Dádivas não provenientes de parceiros
+    - Adita 4. Requisitos gerais a observar na determinação dos marcadores biológicos
+    - Adita ANEXO IV
+    - Adita PROCEDIMENTOS DE DÁDIVA E COLHEITA DE CÉLULAS E/OU TECIDOS E RECEPÇÃO NO SERVIÇO MANIPULADOR DE TECIDOS, REFERIDOS
+      NO ARTIGO 5.º
+    - Adita 1. Procedimentos de dádiva e colheita
+    - Adita 1.1. Consentimento e identificação do dador
+    - Adita 1.2. Avaliação do dador (este ponto não se aplica a dádivas entre parceiros de células reprodutivas nem a dadores
+      para fins autólogos)
+    - Adita 1.3. Procedimentos de recolha de tecidos e células
+    - Adita 1.4. Documentação relativa ao dador
+    - Adita 1.5. Embalagem
+    - Adita 1.6. Rotulagem dos tecidos/células colhidos
+    - Adita 1.7. Rotulagem do contentor de transporte
+    - Adita 2. Recepção dos tecidos/células no serviço manipulador de tecidos
 identifiers:
   celex: 32006L0017
   eli: http://data.europa.eu/eli/dir/2006/17/oj
@@ -49,7 +99,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6078f8c9-bd97-4fd0-86c8-5fe7621822ab.0016
   content_url: http://publications.europa.eu/resource/cellar/922e1619-116f-4ea9-9e22-4cf23d187952.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0017-20121217
-  retrieved_at: '2026-10-22T02:52:06Z'
+  retrieved_at: '2026-10-22T15:01:38Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T15:34:01.578+01:00'
 integrity:
@@ -58,9 +108,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:06Z'
-  notes: Texto consolidado 02006L0017-20121217.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:01:38Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2006-17.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -109,29 +159,19 @@ relationships:
   source: null
 article_structure:
   article_count: 9
-  section_count: 29
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 30
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:06Z'
+  checked_at: '2026-10-22T15:01:38Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2006/17/CE da Comissão, de 8 de Fevereiro de 2006
-
-> 2006L0017 — PT — 17.12.2012 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32012L0039) — [DIRETIVA 2012/39/UE DA COMISSÃO Texto relevante para efeitos do EEE de 26 de novembro de 2012](http://publications.europa.eu/resource/celex/32012L0039) — L 327 — 24 — 27.11.2012
-
-## DIRECTIVA 2006/17/CE DA COMISSÃO
 
 de 8 de Fevereiro de 2006
 

@@ -34,6 +34,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-01-31'
+version_history:
+  file: diretiva-ue-1992-50.versoes.json
+  count: 2
+  source_lastmod: '2006-01-31'
+  versions:
+  - date: '1992-07-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-01-31'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I — Disposições gerais
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime TÍTULO II — Aplicação a dois níveis
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º — Os contratos que tenham por objecto serviços enumerados no anexo I B serão celebrados de acordo
+      com o disposto nos artigos 14º e 16º
+    - Suprime Artigo 10º
+    - Suprime TÍTULO III — Escolha dos processos de adjudicação e regras relativas aos concursos
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime TÍTULO IV — Regras comuns no domínio técnico
+    - Suprime Artigo 14º
+    - Suprime TÍTULO V — Regras comuns de publicidade
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime Artigo 17º
+    - Suprime Artigo 18º
+    - Suprime Artigo 19º
+    - Suprime Artigo 20º
+    - Suprime Artigo 21º
+    - Suprime Artigo 22º
+    - Suprime TÍTULO VI — CAPÍTULO 1
+    - Suprime Artigo 23º
+    - Suprime Artigo 24º
+    - Suprime Artigo 25º
+    - Suprime Artigo 26º
+    - Suprime Artigo 27º
+    - Suprime Artigo 28º
+    - Suprime CAPÍTULO 2 — Critérios de selecção qualitativa
+    - Suprime Artigo 29º
+    - Suprime Artigo 30º
+    - Suprime Artigo 31º
+    - Suprime Artigo 32º
 identifiers:
   celex: 31992L0050
   eli: http://data.europa.eu/eli/dir/1992/50/oj
@@ -48,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d922fcc0-b292-4f70-96c2-3c18fceea06b.0011
   content_url: http://publications.europa.eu/resource/cellar/e8fa8cfb-5c72-4b0c-bb98-5cac2086096f.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0050-20060131
-  retrieved_at: '2026-10-22T02:38:56Z'
+  retrieved_at: '2026-10-22T14:40:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T03:48:58.197+01:00'
 integrity:
@@ -57,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:56Z'
-  notes: Texto consolidado 01992L0050-20060131.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:40:57Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1992-50.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -406,16 +460,19 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:56Z'
+  checked_at: '2026-10-22T14:40:57Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01992L0050-19930705: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0050-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0050-19971218: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0050-20011118: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0050-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

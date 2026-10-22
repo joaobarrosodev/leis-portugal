@@ -1,0 +1,245 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001R1338:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R1338-20090123",
+ "dre_path": null,
+ "source_lastmod": "2009-01-23",
+ "versions": [
+  {
+   "date": "2009-01-23",
+   "future": false,
+   "celex": "02001R1338-20090123",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a6cbba544cee64e1",
+    "f6c2eb219fe1b284",
+    "65bfbfa6e1731d88",
+    "bf4ae20ec2ca76af",
+    "755046453350f233",
+    "8a6992ea3c104fd1",
+    "ce669c37f0655902",
+    "f4965a6cc497e712",
+    "f5427cb52a830d6f",
+    "e631b3dea6c211a5",
+    "a3b195c08c38f795",
+    "94d6192966cfe06e",
+    "8ee19798011f32d1",
+    "6cc3b57c1b453c93",
+    "c35c8c6d16a51cf5",
+    "a980190e24f50318",
+    "d11c54e8750bc619",
+    "7d3e6f50841d677f",
+    "ba538fa7b6eb44e8",
+    "dde9cf53e9ae6c9a",
+    "6ed20f99cafc3718",
+    "1d48cac14e17c545",
+    "fcb1783f109c1b0a",
+    "b81445d3ccd30af1",
+    "de905bfba1c74409"
+   ]
+  }
+ ],
+ "fragments": {
+  "a6cbba544cee64e1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Junho de 2001\n\nque define medidas necessárias à protecção do euro contra a falsificação\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente o n.º 4, terceira frase, do seu artigo 123.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#E0002)),\n\nTendo em conta o parecer do Banco Central Europeu ([^3^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#E0003)),\n\n(1) O Regulamento (CE) n.º 974/98 do Conselho, de 3 de Maio de 1998, relativo à introdução do euro ([^4^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#E0004)), prevê que, a partir de 1 de Janeiro de 2002, serão postas em circulação notas em euros pelo Banco Central Europeu (BCE) e pelos bancos centrais nacionais dos Estados-Membros participantes e emitidas moedas em euros pelos Estados-Membros participantes. É, pois, conveniente adoptar rapidamente um sistema de protecção do euro contra a falsificação, por forma a estar operacional antes da entrada em circulação das notas e moedas em euros.\n\n(2) O mecanismo instituído pelo Acto do Conselho, de 26 de Julho de 1995, que estabelece a Convenção que cria um Serviço Europeu de Polícia (Convenção Europol) ([^5^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#E0005)), e pela Decisão do Conselho, de 29 de Abril de 1999, que torna o mandato da Europol extensivo à falsificação de moeda e de meios de pagamento ([^6^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#E0006)), está concebido para combater a falsificação de moeda em geral.\n\n(3) Na Decisão-Quadro, de 29 de Maio de 2000, sobre o reforço da protecção contra a falsificação de moeda, na perspectiva da introdução do euro, através de sanções penais e outras ([^7^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#E0007)), o Conselho tomou disposições para assegurar que o euro será protegido de forma adequada por medidas penais eficazes.\n\n(4) As medidas a tomar para a protecção do euro contra a falsificação interessam à Comunidade por força das suas responsabilidades em relação à moeda única. A protecção jurídica do euro não pode ser obtida de maneira satisfatória pelos Estados-Membros individualmente, atendendo a que as notas e moedas em euros também serão postas em circulação fora dos territórios dos Estados-Membros participantes. Há, pois, que adoptar legislação comunitária que defina medidas necessárias à circulação das notas e moedas em euros em condições adequadas para assegurar a sua protecção global, efectiva e homogénea contra actividades susceptíveis de lesar a sua credibilidade e que tome assim as medidas adequadas para se concluírem atempadamente todos os preparativos e antes de 1 de Janeiro de 2002.\n\n(5) Para efeitos de aplicação do presente regulamento, é conveniente definir determinados conceitos ou retomar as definições existentes de outros como, nomeadamente, os de actividades de falsificação do euro, de dados técnicos e estatísticos e de autoridades nacionais competentes para as investigações destinadas à recolha e análise dos dados relativos às actividades de falsificação, incluindo as repartições centrais contempladas no artigo 12.º da Convenção de Genebra.\n\n(6) É conveniente assegurar que os dados técnicos e estatísticos coligidos pelas autoridades nacionais competentes relativos às notas falsas e às moedas falsas em euros e, na medida do possível, às notas não autorizadas sejam comunicados ao BCE, permitindo às autoridades nacionais competentes, bem como à Comissão, em função das responsabilidades desta, o acesso a esses dados. Além disso, prevê-se que a Europol terá acesso aos mesmos dados com base num acordo entre esta e o BCE.\n\n(7) O Centro de Investigação da Contrafacção de Moeda (CICM) criado e gerido sob a égide do BCE, nos termos da orientação deste ([^8^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#E0008)), centraliza a classificação e a análise dos dados técnicos relativos às notas falsas.\n\n(8) O regime técnico para tratar as moedas falsas em euros, aceite pelo Conselho em 28 de Fevereiro de 2000 refere-se à recolha sistemática, por parte do BCE, de informações técnicas relativas à falsificação do euro e à criação, a nível europeu, de um Centro Técnico e Científico Europeu (CTCE) para a análise técnica e a classificação das moedas falsas em euros e, a nível nacional, de centros nacionais de análise de moedas (CNAM).\n\n(9) Previu-se, a título temporário, que o CTCE seria constituído como entidade administrativa distinta e independente no âmbito da Casa da Moeda de Paris, com base numa troca de cartas de 28 de Fevereiro e 9 de Junho de 2000, entre o Presidente do Conselho e o Ministro das Finanças francês. As suas missões devem ser definidas no presente regulamento. O Conselho deliberará, oportunamente, sobre o futuro estatuto e a sede permanente do CTCE.\n\n(10) É necessário prever que as notas falsas em euros sejam enviadas para identificação aos centros nacionais de análise — (CNA). As moedas falsas devem ser enviadas aos CNAM.\n\n(11) É necessário prever que as instituições de crédito, bem como qualquer outra instituição que intervenha, a título profissional, na manipulação e entrega ao público de notas e moedas, incluindo aquelas cuja actividade consiste em cambiar notas e moedas, como as casas de câmbio, sejam obrigadas a retirar da circulação e entregar às autoridades nacionais competentes as notas e moedas em euros que saibam que são falsas ou em relação às quais tenham motivos bastantes para presumir que são falsas. Além disso, é necessário prever que os Estados-Membros tomem medidas tendo em vista a imposição de sanções que considerem adequadas em caso de incumprimento destas obrigações por parte das referidas instituições.\n\n(12) É conveniente organizar uma cooperação estreita e regular entre as autoridades nacionais competentes, a Comissão e o BCE para assegurar uma protecção efectiva e homogénea do euro, nomeadamente no que respeita às trocas de informações, com exclusão dos dados de carácter pessoal, à cooperação e à assistência mútua entre as autoridades comunitárias e nacionais, ao apoio científico e à formação profissional. Para o efeito, e sem prejuízo do papel atribuído ao BCE em matéria de protecção do euro contra a falsificação, a Comissão prosseguirá de forma regular, no âmbito de um Comité Consultivo adequado, as consultas com os principais intervenientes na luta contra a falsificação do euro (nomeadamente o BCE, a Europol e a Interpol), no sentido de melhorar as condições de protecção global do euro com base em iniciativas legislativas destinadas a reforçar a prevenção e a luta contra a falsificação.\n\n(13) Com vista a assegurar um intercâmbio de dados actuais, completos e comparáveis, é conveniente prever a centralização a nível nacional da informação estratégica e operacional, bem como das obrigações de comunicação dos dados. Para o efeito, cabe prever que os Estados-Membros tomem as medidas necessárias para permitir às repartições centrais desempenhar a sua missão em conformidade com a Convenção de Genebra, a fim de assegurar a troca de informações entre elas e as unidades nacionais da Europol.\n\n(14) A complementaridade das missões dos diferentes parceiros comunitários, com o contributo que a Europol está apta a prestar em conformidade com a citada decisão do Conselho de 29 de Abril de 1999, deve permitir reunir o conjunto dos instrumentos indispensáveis para preservar o euro das consequências lesivas decorrentes das actividades ilegais de falsificação. A Europol desempenha as suas funções sem prejuízo das competências da Comunidade. Compete a esta última e à Europol, na estrita observância das respectivas competências, estabelecer as formas de cooperação que lhes permitam exercer as respectivas funções tão eficazmente quanto possível. Para o efeito, deve ser privilegiada a organização de uma cooperação estreita e regular, com base em acordos adequados a celebrar entre a Europol e o BCE, por um lado, e entre a Europol e a Comissão, por outro, nos termos das disposições pertinentes da Convenção Europol.\n\n(15) Relativamente à utilização do euro em países terceiros como moeda para transacções internacionais, é conveniente prever uma cooperação estruturada que envolva todos os intervenientes competentes para os casos de falsificação em países terceiros.\n\n(16) As medidas previstas no presente regulamento não afectam a competência dos Estados-Membros na aplicação do direito penal nacional para a protecção do euro contra a falsificação,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f6c2eb219fe1b284": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 1"
+  },
+  "65bfbfa6e1731d88": {
+   "fragment_id": "OBJECTO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "OBJECTO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTO E DEFINIÇÕES"
+  },
+  "bf4ae20ec2ca76af": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. O presente regulamento tem por objecto estabelecer medidas necessárias na perspectiva da circulação das notas e moedas em euros em condições que garantam a sua protecção contra as actividades de falsificação.\n\n2. Para efeitos de aplicação do presente regulamento, entende-se por «falsificação» as seguintes actividades:\n\na) Todos os actos fraudulentos de fabrico ou alteração de notas ou moedas em euros, independentemente do meio utilizado;\n\nb) O acto de pôr em circulação fraudulentamente notas falsas ou moedas falsas em euros;\n\nc) A importação, a exportação, o transporte, a recepção ou a obtenção de notas falsas ou moedas falsas em euros, a fim de as pôr em circulação, com conhecimento de que são falsas;\n\nd) Os actos fraudulentos de fabrico, recepção, obtenção ou posse de:\n\n— instrumentos, objectos, programas informáticos e outros meios que se prestem, pela sua natureza, ao fabrico de notas falsas ou moedas falsas em euros, ou à alteração de notas e moedas em euros,\n\n— ou\n\n— hologramas ou outros elementos de notas e moedas em euros que sirvam de protecção contra a falsificação.\n\n3. O presente regulamento é aplicável, sem prejuízo da aplicação do direito penal nacional, para a protecção do euro contra a falsificação."
+  },
+  "755046453350f233": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nNa acepção do presente regulamento, entende-se por:\n\na) «Notas falsas» ou «moedas falsas», as notas ou as moedas expressas em euros ou que tenham a aparência de notas ou moedas em euros e que tenham sido fabricadas ou alteradas de forma fraudulenta;\n\nb) «Autoridades nacionais competentes», as autoridades designadas pelos Estados-Membros para:\n\n— identificação das notas e moedas falsas,\n\n— recolha e análise dos dados técnicos e estatísticos relativos às notas falsas, nomeadamente os bancos centrais nacionais ou os outros organismos habilitados,\n\n— recolha e análise dos dados técnicos e estatísticos relativos às moedas falsas, nomeadamente as Casas da Moeda, os bancos centrais nacionais ou os outros organismos habilitados,\n\n— recolha dos dados relativos à falsificação do euro e à sua análise, nomeadamente as repartições centrais nacionais a que se refere o artigo 12.º da Convenção de Genebra;\n\nc) «Instituições de crédito», as instituições de crédito a que se refere a alínea a) do n.º 1 do artigo 4.º da Directiva 2006/48/CE do Parlamento Europeu e do Conselho, de 14 de Junho de 2006, relativa ao acesso à actividade das instituições de crédito e ao seu exercício ([^9^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#E0009));\n\nd) «Dados técnicos e estatísticos», os dados que permitem a identificação de notas ou de moedas falsas (descrição técnica do tipo de falsificação), bem como os dados relativos ao número de notas falsas e de moedas falsas segundo a sua proveniência, nomeadamente geográfica;\n\ne) «Convenção de Genebra», a Convenção Internacional para a Repressão da Moeda Falsa, assinada em Genebra em 20 de Abril de 1929 ([^10^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#E0010));\n\nf) «Convenção Europol», a Convenção de 26 de Julho de 1995 que cria a Europol ([^11^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#E0011));\n\ng) «Prestadores de serviços de pagamentos», os prestadores de serviços de pagamentos a que se refere o n.º 1 do artigo 1.º da Directiva 2007/64/CE do Parlamento Europeu e do Conselho de 13 de Novembro de 2007 relativa aos serviços de pagamento no mercado interno ([^12^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#E0012));"
+  },
+  "8a6992ea3c104fd1": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 2"
+  },
+  "ce669c37f0655902": {
+   "fragment_id": "DADOS TÉCNICOS E ESTATÍSTICOS",
+   "type": "divisao",
+   "heading": "DADOS TÉCNICOS E ESTATÍSTICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DADOS TÉCNICOS E ESTATÍSTICOS"
+  },
+  "f4965a6cc497e712": {
+   "fragment_id": "Artigo 3.º — Recolha e acesso",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Recolha e acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Recolha e acesso\n\n1. Os dados técnicos e estatísticos relativos às notas e moedas falsas detectadas nos Estados-Membros são recolhidos e repertoriados pelas autoridades nacionais competentes. Esses dados são comunicados ao Banco Central Europeu (BCE) para nele serem armazenados e tratados.\n\n2. O BCE reúne e armazena os dados técnicos e estatísticos relativos às notas e moedas falsas detectadas em países terceiros.\n\n3. As autoridades nacionais competentes, bem como, em função das suas responsabilidades, a Comissão, têm acesso aos dados técnicos e estatísticos do BCE. A Europol tem acesso a esses dados por força de acordo entre ela e o BCE, de harmonia com as disposições pertinentes da Convenção Europol e com as disposições adoptadas com base nessa convenção."
+  },
+  "f5427cb52a830d6f": {
+   "fragment_id": "Artigo 4.º — [►M1](http://publications.europa.eu/resource/celex/32009R0044) Obrigação de transmissão das notas falsas◄",
+   "type": "artigo",
+   "heading": "Artigo 4.º — [►M1](http://publications.europa.eu/resource/celex/32009R0044) Obrigação de transmissão das notas falsas◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — [►M1](http://publications.europa.eu/resource/celex/32009R0044) Obrigação de transmissão das notas falsas◄\n\n1. Os Estados-Membros designam ou criam, de comum acordo com o BCE, um centro nacional de análise (CNA) segundo a legislação e as práticas nacionais.\n\n2. As autoridades nacionais competentes permitem a análise pelo CNA das notas que se suspeite serem falsas e enviam imediatamente, para análise e identificação, os exemplares necessários, solicitados pelo CNA, de cada tipo de nota suspeita, bem como os dados técnicos e estatísticos de que disponham. O CNA transmite ao BCE qualquer novo tipo de nota que se suspeite ser falsa segundo os critérios adoptados pelo BCE.[**►M1**](http://publications.europa.eu/resource/celex/32009R0044) A fim de facilitar o controlo da autenticidade das notas de euro em circulação, é permitido o transporte de notas falsas entre as autoridades nacionais competentes, bem como as instituições e os organismos da União Europeia. Durante o transporte, as notas falsas devem ser permanentemente acompanhadas das ordens de transporte recebidas para esse efeito das autoridades, instituições e organismos já referidos.**◄**\n\n3. O disposto no n.º 2 é aplicado de forma a não obstar à utilização e à conservação das notas que se suspeite serem falsas como elementos de prova no quadro de processos penais.[**►M1**](http://publications.europa.eu/resource/celex/32009R0044) As autoridades nacionais competentes podem no entanto transmitir ao CNA, e eventualmente ao BCE, para análise ou teste, parte de um lote dessas notas.**◄**\n\n4. O BCE comunica o resultado final pertinente da sua análise e da classificação que faça de qualquer novo tipo de nota falsa às autoridades nacionais competentes e, em função das responsabilidades desta, à Comissão. O BCE comunica esse resultado à Europol, em conformidade com o acordo a que se refere o n.º 3 do artigo 3.º"
+  },
+  "e631b3dea6c211a5": {
+   "fragment_id": "Artigo 5.º — [►M1](http://publications.europa.eu/resource/celex/32009R0044) Obrigação de transmissão das moedas falsas◄",
+   "type": "artigo",
+   "heading": "Artigo 5.º — [►M1](http://publications.europa.eu/resource/celex/32009R0044) Obrigação de transmissão das moedas falsas◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — [►M1](http://publications.europa.eu/resource/celex/32009R0044) Obrigação de transmissão das moedas falsas◄\n\n1. Os Estados-Membros designam ou criam um centro nacional de análise de moedas (CNAM) segundo a legislação e as práticas nacionais.\n\n2. As autoridades nacionais competentes permitem a análise, pelo CNAM, das moedas que se suspeite serem falsas e enviam imediatamente, para análise e identificação, os exemplares necessários, solicitados pelo CNAM, de cada tipo de moeda que se suspeite ser falsa, bem como os dados técnicos e estatísticos de que disponham. O CNAM transmitirá ao Centro Técnico e Científico Europeu (CTCE) qualquer novo tipo de moeda que se suspeite ser falsa segundo os critérios adoptados por este último. Para o efeito, o BCE faculta aos CNAM os dados técnicos e estatísticos de que disponha relativos às moedas falsas em euros.[**►M1**](http://publications.europa.eu/resource/celex/32009R0044) A fim de facilitar o controlo da autenticidade das moedas de euro em circulação, é permitido o transporte de moedas falsas entre as autoridades nacionais competentes, bem como as instituições e os organismos da União Europeia. Durante o transporte, as moedas falsas devem ser permanentemente acompanhadas das ordens de transporte recebidas para esse efeito das autoridades, instituições e organismos já referidos.**◄**\n\n3. O disposto no n.º 2 é aplicado de forma a não obstar à utilização e à conservação das moedas que se suspeite serem falsas como elementos de prova no quadro de processos penais.[**►M1**](http://publications.europa.eu/resource/celex/32009R0044) As autoridades nacionais competentes podem no entanto transmitir ao CNAM, e eventualmente ao CTCE, para análise ou teste, parte de um lote dessas moedas.**◄**\n\n4. O CTCE analisa e classifica cada novo tipo de moeda falsa de euro. Para o efeito, o CTCE tem acesso aos dados técnicos e estatísticos armazenados no BCE em matéria de moedas falsas de euro. O CTCE comunica o resultado final pertinente da sua análise às autoridades nacionais competentes, bem como, em função das respectivas responsabilidades, ao BCE. O BCE comunica esse resultado à Europol, em conformidade com o acordo a que se refere o n.º 3 do artigo 3.º"
+  },
+  "a3b195c08c38f795": {
+   "fragment_id": "CAPÍTULO 3",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3"
+  },
+  "94d6192966cfe06e": {
+   "fragment_id": "OBRIGAÇÕES E SANÇÕES",
+   "type": "divisao",
+   "heading": "OBRIGAÇÕES E SANÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBRIGAÇÕES E SANÇÕES"
+  },
+  "8ee19798011f32d1": {
+   "fragment_id": "Artigo 6.º — [►M1](http://publications.europa.eu/resource/celex/32009R0044) Obrigações relativas à instituições que participam no tratamento e na entrega ao público de notas e moedas◄",
+   "type": "artigo",
+   "heading": "Artigo 6.º — [►M1](http://publications.europa.eu/resource/celex/32009R0044) Obrigações relativas à instituições que participam no tratamento e na entrega ao público de notas e moedas◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — [►M1](http://publications.europa.eu/resource/celex/32009R0044) Obrigações relativas à instituições que participam no tratamento e na entrega ao público de notas e moedas◄\n\n1. As instituições de crédito e, no limite das suas actividades de pagamento, os outros prestadores de serviços de pagamento, bem como qualquer outro agente económico que participe no tratamento e entrega ao público de notas e moedas, incluindo:\n\n— as instituições cuja actividade consista na troca de notas ou de moedas de diferentes divisas, tais como as casas de câmbio,\n\n— os transportadores de fundos,\n\n— os outros agentes económicos, como comerciantes e casinos, que participem a título acessório no tratamento e entrega ao público das notas através dos caixas automáticos dos bancos (distribuidores automáticos de notas), no limite dessas actividades acessórias,\n\nTêm a obrigação de assegurar o controlo da autenticidade das notas e moedas de euros que recebam e pretendam repor em circulação, bem como a detecção das contrafacções.\n\nPara as notas de euro, o controlo efectua-se de acordo com os procedimentos definidos pelo BCE[**►C1**](http://publications.europa.eu/resource/celex/32009R0044R%2801%29) ([^13^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#E0013)).**◄**\n\nAs instituições e agentes económicos referidos no primeiro parágrafo têm a obrigação de retirar da circulação todas as notas e moedas de euro que tenham recebido e que saibam que são falsas ou que tenham motivos bastantes para presumir que são falsas. Enviam sem demora essas notas e moedas às autoridades nacionais competentes.\n\n1-A. Em derrogação do disposto no segundo parágrafo do n.º 1, nos Estados-Membros que não tenham o euro como moeda única, o controlo da autenticidade das notas e moedas de euro é efectuado:\n\n— por pessoal formado;\n\n— ou por uma máquina de tratamento de notas ou moedas que figuram na lista publicada pelo BCE para as notas[**►C1**](http://publications.europa.eu/resource/celex/32009R0044R%2801%29) ([^14^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#E0014))**◄** ou pela Comissão para as moedas ([^15^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#E0015)).\n\n2. Os Estados-Membros tomam as medidas necessárias para garantir que as instituições a que se refere o n.º 1 que não cumpram as obrigações previstas no mesmo número sejam sujeitas a sanções efectivas, proporcionadas e dissuasivas.\n\n3. Sem prejuízo das datas fixadas pelo BCE para a aplicação dos processos que define, os Estados-Membros aprovam, o mais tardar até 31 de Dezembro de 2011, as disposições legislativas, regulamentares e administrativas necessárias à aplicação do primeiro parágrafo do n.º 1 do presente artigo. Desse facto informam imediatamente a Comissão e o BCE."
+  },
+  "6cc3b57c1b453c93": {
+   "fragment_id": "CAPÍTULO 4",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 4"
+  },
+  "c35c8c6d16a51cf5": {
+   "fragment_id": "COOPERAÇÃO E ASSISTÊNCIA MÚTUA",
+   "type": "divisao",
+   "heading": "COOPERAÇÃO E ASSISTÊNCIA MÚTUA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COOPERAÇÃO E ASSISTÊNCIA MÚTUA"
+  },
+  "a980190e24f50318": {
+   "fragment_id": "Artigo 7.º — Cooperação com vista à protecção do euro contra a falsificação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Cooperação com vista à protecção do euro contra a falsificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cooperação com vista à protecção do euro contra a falsificação\n\n1. A fim de assegurar uma protecção eficaz do euro contra a falsificação, os Estados-Membros, a Comissão e o BCE cooperam, por um lado, entre si, e, por outro, com a Europol, em conformidade com a Convenção Europol e as disposições aprovadas com base nesta. Para o efeito, a Comissão e o BCE procederão a negociações tendo em vista a celebração, em tempo útil, de um acordo com a Europol.\n\n2. Em particular, as autoridades nacionais competentes, a Comissão e o BCE, no exercício das respectivas missões, cooperarão através:\n\n— do intercâmbio de informações sobre a prevenção da falsificação de moeda e da luta contra a colocação em circulação de notas e moedas falsas,\n\n— de uma informação regular sobre o impacto da falsificação de moeda para efeitos de análise estratégica,\n\n— da assistência mútua em matéria de prevenção da falsificação de moeda e de luta contra a colocação em circulação de notas e moedas falsas, que incluirá designadamente o apoio científico e a formação com o apoio logístico dos Estados-Membros.\n\n3. No âmbito da assistência mútua, as repartições centrais nacionais a que se refere o artigo 12.º da Convenção de Genebra e o BCE e, na medida do necessário, a Comissão, devem prever, no âmbito das respectivas competências e sem prejuízo do papel da Europol, um sistema de mensagens relativas aos dados técnicos (alerta rápido)."
+  },
+  "d11c54e8750bc619": {
+   "fragment_id": "Artigo 8.º — Centralização da informação a nível nacional",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Centralização da informação a nível nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Centralização da informação a nível nacional\n\n1. Os Estados-Membros asseguram que as informações a nível nacional relativas a casos de falsificação de moeda, sejam comunicadas à repartição central nacional, a partir da primeira constatação, tendo em vista a sua transmissão à Europol através da unidade nacional da Europol.\n\n2. Os Estados-Membros tomam as disposições necessárias para garantir a troca de informações entre a repartição central nacional e a unidade nacional da Europol."
+  },
+  "7d3e6f50841d677f": {
+   "fragment_id": "Artigo 9.º — Relações externas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Relações externas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Relações externas\n\n1. A Comissão e os Estados-Membros cooperam com os países terceiros e as organizações internacionais, em estreita concertação com o BCE. Essa cooperação inclui, em conformidade com as disposições relativas à prevenção das actividades ilegais contidas nos acordos de cooperação, de associação e de pré-adesão, a assistência necessária para prevenir e lutar contra a falsificação do euro.\n\n2. O Conselho vela por que sejam incluídas nos acordos de cooperação, de associação e de pré-adesão entre a Comunidade Europeia e países terceiros disposições que permitam a aplicação do n.º 2 do artigo 3.º"
+  },
+  "ba538fa7b6eb44e8": {
+   "fragment_id": "CAPÍTULO 5",
+   "type": "divisao",
+   "heading": "CAPÍTULO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 5"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "6ed20f99cafc3718": {
+   "fragment_id": "Artigo 10.º — Autoridades nacionais competentes",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Autoridades nacionais competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Autoridades nacionais competentes\n\n1. Os Estados-Membros comunicam ao BCE e à Comissão uma lista das autoridades nacionais competentes a que se refere a alínea b) do artigo 2.º\n\n2. As listas a que se refere o n.º 1 são publicadas no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "1d48cac14e17c545": {
+   "fragment_id": "Artigo 11.º — Notas não autorizadas",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Notas não autorizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Notas não autorizadas\n\nNa medida do possível, as disposições previstas nos artigos 3.º, 4.º, 7.º, 8.º e 9.º são aplicáveis às notas expressas em euros que tenham sido produzidas mediante utilização de instalações legais ou de materiais legais em violação das disposições por força das quais as autoridades competentes podem emitir moeda, ou que tenham sido postas em circulação em violação das condições segundo as quais as autoridades competentes podem pôr moeda em circulação e sem o acordo dessas autoridades."
+  },
+  "fcb1783f109c1b0a": {
+   "fragment_id": "Artigo 12.º — Aplicabilidade",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Aplicabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Aplicabilidade\n\nOs artigos 1.º a 11.º produzem efeitos nos Estados-Membros que tiverem adoptado o euro como moeda única."
+  },
+  "b81445d3ccd30af1": {
+   "fragment_id": "Artigo 13.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é aplicável a partir de 1 de Janeiro de 2002. No entanto, é aplicável a partir da data da sua publicação às notas e moedas ainda não emitidas, mas a emitir.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável nos Estados-Membros em conformidade como Tratado que institui a Comunidade.\n\n---"
+  },
+  "de905bfba1c74409": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#src.E0001)) JO C 337 E de 28.11.2000, p. 264.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#src.E0002)) Parecer emitido em 3 de Maio de 2001 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#src.E0003)) JO C 19 de 20.1.2001, p. 18.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#src.E0004)) JO L 139 de 11.5.1998, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2596/2000 (JO L 300 de 29.11.2000, p. 2).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#src.E0005)) JO C 316 de 27.11.1995, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#src.E0006)) JO C 149 de 28.5.1999, p. 16, e rectificação no JO C 229 de 12.8.1999, p. 14.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#src.E0007)) JO L 140 de 14.6.2000, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#src.E0008)) Orientação do Banco Central Europeu, de 26 de Agosto de 1998, relativa à adopção de determinadas disposições sobre notas expressas em euros, alterada em 26 de Agosto de 1999 (JO L 258 de 5.10.1999, p. 32).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#src.E0009)) JO L 177 de 30.6.2006, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#src.E0010)) Sociedade das Nações, Série Tratado N.º 2623 (1931), p. 372.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#src.E0011)) JO C 316 de 27.11.1995, p. 2.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#src.E0012)) JO L 319 de 5.12.2007, p. 1.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#src.E0013)) Consultar o quadro para a deteção de contrafações e para a escolha e verificação da qualidade das notas de euro pelas instituições de crédito e outros profissionais que operam com numerário, disponível no sítio internet do BCE: http://www.ecb.europa.eu/euro/cashprof/html/index.pt.html\n\n> ([^14^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#src.E0014)) A lista publicada pelo BCE está disponível no seguinte endereço: http://www.ecb.europa.eu/euro/cashprof/html/index.pt.html\n\n> ([^15^](http://publications.europa.eu/resource/cellar/790932e6-a076-4950-b5e3-079beedda8d8.0018.03/DOC_2#src.E0015)) A lista publicada pela Comissão está disponível no seguinte endereço: http://ec.europa.eu/anti_fraud/pages_euro/euro-coins/machines.pdf"
+  }
+ }
+}

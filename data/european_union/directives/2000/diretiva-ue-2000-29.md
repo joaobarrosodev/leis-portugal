@@ -34,6 +34,84 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-15'
+version_history:
+  file: diretiva-ue-2000-29.versoes.json
+  count: 3
+  source_lastmod: '2019-12-15'
+  versions:
+  - date: '2000-07-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-12-14'
+    amending: eu:celex:32001L0033:por
+    amending_title: M1; M2; M3; DIRECTIVA 2002/89/CE DO CONSELHO de 28 de Novembro de 2002; M5; M6; M7; M8; M9; M10; M11;
+      M12; M13; M14; M15; M16; M17; M18; M19; M20; M21; M22; DIRECTIVA 2009/143/CE DO CONSELHO de 26 de Novembro de 2009;
+      M24; M25; M26; M27; M28; REGULAMENTO (UE) N. o 652/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014; REGULAMENTO
+      (UE) 2016/2031 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de outubro de 2016; M32; M33; M34; ACTO relativo às condições
+      de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República
+      da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da
+      República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 21.º
+    - Adita Artigo 13.ºA
+    - Adita Artigo 13.ºB
+    - Adita Artigo 13.ºC
+    - Adita Artigo 13.ºD
+    - Adita Artigo 27.ºA
+    - Adita ANEXO VIII-A
+    - Adita Notas
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime Artigo 24.º
+    - Suprime Artigo 25.º
+    - Suprime Artigo 26.º
+    - Suprime Artigo 27.º
+    - Suprime Artigo 28.º
+    - Suprime Artigo 29.º
+    - Suprime ANEXO I — PARTE A
+    - Suprime Secção I — ORGANISMOS PREJUDICIAIS DE IMPORTÂNCIA PARA TODA A COMUNIDADE, CUJA OCORRÊNCIA NÃO É CONHECIDA EM
+      NENHUMA ZONA DA COMUNIDADE
+    - Suprime Secção II — ORGANISMOS PREJUDICIAIS DE IMPORTÂNCIA PARA TODA A COMUNIDADE, CUJA OCORRÊNCIA NA COMUNIDADE É CONHECIDA
+  - date: '2019-12-15'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 13.ºA
+    - Suprime Artigo 13.ºB
+    - Suprime Artigo 13.ºC
+    - Suprime Artigo 13.ºD
+    - Suprime Artigo 21.º
+    - Suprime Artigo 27.ºA
+    - Suprime ANEXO VIII-A
+    - Suprime Notas
 identifiers:
   celex: 32000L0029
   eli: http://data.europa.eu/eli/dir/2000/29/oj
@@ -48,7 +126,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/97ebdf59-5b83-4403-a0ad-d0d31b1045c0.0009
   content_url: http://publications.europa.eu/resource/cellar/3dea31de-78ea-11ea-b75f-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0029-20191215
-  retrieved_at: '2026-10-22T02:35:26Z'
+  retrieved_at: '2026-10-22T14:49:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:21:20.766+02:00'
 integrity:
@@ -57,9 +135,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:26Z'
-  notes: Texto consolidado 02000L0029-20191215.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:03Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2000-29.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -539,16 +617,41 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:26Z'
+  checked_at: '2026-10-22T14:49:03Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02000L0029-20010522: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000L0029-20020323: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000L0029-20020504: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000L0029-20021230: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000L0029-20030328: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000L0029-20030608: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000L0029-20031226: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000L0029-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000L0029-20041026: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0029-20050306: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0029-20060101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0029-20060210: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0029-20060414: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0029-20070719: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0029-20080701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0029-20081202: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0029-20090303: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0029-20090930: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0029-20091224: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0029-20100113: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0029-20130411: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0029-20140210: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0029-20140630: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0029-20170101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0029-20180101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0029-20180401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0029-20190901: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

@@ -34,6 +34,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-03-01'
+version_history:
+  file: diretiva-ue-1976-895.versoes.json
+  count: 1
+  source_lastmod: '2009-03-01'
+  versions:
+  - date: '2009-03-01'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31976L0895
   eli: http://data.europa.eu/eli/dir/1976/895/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0d3c9a90-3a82-40e4-aed6-550eb81858f2.0011
   content_url: http://publications.europa.eu/resource/cellar/f36ad7d5-4281-4cfa-992c-be698e04dba8.0012.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0895-20090301
-  retrieved_at: '2026-10-22T02:54:28Z'
+  retrieved_at: '2026-10-22T14:32:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T20:20:02.020+01:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:54:28Z'
-  notes: Texto consolidado 01976L0895-20090301.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:32:02Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-1976-895.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -247,16 +256,42 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:54:28Z'
+  checked_at: '2026-10-22T14:32:02Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01976L0895-19761126: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-19800911: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-19810101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-19810226: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-19820804: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-19880520: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-19890310: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-19930712: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-19960618: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-19970801: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-20000430: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-20000504: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-20001019: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-20010126: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-20020809: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-20020829: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-20021104: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-20030714: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-20040105: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976L0895-20051110: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0895-20060719: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0895-20060816: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0895-20061130: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0895-20070321: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01976L0895-20071008: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

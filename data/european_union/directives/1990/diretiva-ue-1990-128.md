@@ -34,6 +34,34 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2002-09-04'
+version_history:
+  file: diretiva-ue-1990-128.versoes.json
+  count: 2
+  source_lastmod: '2002-09-04'
+  versions:
+  - date: '1990-03-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-09-04'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime ANEXO I — DISPOSIÇÕES ADICIONAIS APLICÁVEIS PARA VERIFICAÇÃO DO CUMPRIMENTO DOS LIMITES DE MIGRAÇÃO
+    - Suprime ANEXO II — LISTA DE MONÓMEROS E OUTRAS SUBSTÂNCIAS INICIADORAS QUE PODEM SER USADAS NO FABRICO DE MATERIAIS
+      E OBJECTOS DE MATÉRIA PLÁSTICA
+    - Suprime SECÇÃO A — LISTA DE MONÓMEROS E OUTRAS SUBSTÂNCIAS INICIADORAS
+    - Suprime SECÇÃO B — LISTA DE MONÓMEROS E OUTRAS SUBSTÂNCIAS INICIADORAS QUE PODEM CONTINUAR A SER USADAS ENQUANTO SE
+      AGUARDA DECISÃO SOBRE A SUA INCLUSÃO NA SECÇÃO A
 identifiers:
   celex: 31990L0128
   eli: http://data.europa.eu/eli/dir/1990/128/oj
@@ -48,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/39c10af7-653d-48e1-97d5-02d8e17ea73f.0011
   content_url: http://publications.europa.eu/resource/cellar/dee23604-1cf4-4881-a547-4fe77ee7b5af.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0128-20020904
-  retrieved_at: '2026-10-22T02:40:10Z'
+  retrieved_at: '2026-10-22T14:36:38Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T03:25:54.399+01:00'
 integrity:
@@ -57,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:10Z'
-  notes: Texto consolidado 01990L0128-20020904.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:36:38Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1990-128.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -186,16 +214,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:10Z'
+  checked_at: '2026-10-22T14:36:38Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01990L0128-19960401: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0128-19991224: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0128-20010906: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -35,6 +35,47 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-03-01'
+version_history:
+  file: regulamento-ue-2006-1085.versoes.json
+  count: 3
+  source_lastmod: '2012-03-01'
+  versions:
+  - date: '2006-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-07-14'
+    amending: eu:celex:32010R0540:por
+    amending_title: REGULAMENTO (UE) N. o 540/2010 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Junho de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Quadro político para a assistência
+    - Altera Artigo 9.º — Componente «cooperação transfronteiriça»
+    - Altera Artigo 10.º — Componente «desenvolvimento regional»
+    - Altera Artigo 11.º — Componente «desenvolvimento dos recursos humanos»
+    - Altera Artigo 12.º — Componente «desenvolvimento rural»
+    - Altera Artigo 14.º — Comités
+    - Altera Artigo 18.º — Protecção dos interesses financeiros da Comunidade
+    - Altera Artigo 25.º — Disposições transitórias
+    - Altera Artigo 28.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+  - date: '2012-03-01'
+    amending: eu:celex:32012R0153:por
+    amending_title: REGULAMENTO (UE) N. o 153/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de fevereiro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Componente «cooperação transfronteiriça»
+    - Altera Artigo 10.º — Componente «desenvolvimento regional»
+    - Altera Artigo 11.º — Componente «desenvolvimento dos recursos humanos»
+    - Altera Artigo 12.º — Componente «desenvolvimento rural»
+    - Altera Artigo 18.º — Protecção dos interesses financeiros da Comunidade
+    - Altera Artigo 19.º — Regras de participação e de origem, elegibilidade para subvenções
+    - Altera Artigo 25.º — Disposições transitórias
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
 identifiers:
   celex: 32006R1085
   eli: http://data.europa.eu/eli/reg/2006/1085/oj
@@ -49,7 +90,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c0656a24-a245-4774-993a-62ec5bec507e.0017
   content_url: http://publications.europa.eu/resource/cellar/71b3825c-8497-4fe2-a8f0-dabf89c0ae1d.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1085-20120301
-  retrieved_at: '2026-10-22T03:12:48Z'
+  retrieved_at: '2026-10-22T15:04:51Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-19T23:16:29.707+01:00'
 integrity:
@@ -58,9 +99,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:48Z'
-  notes: Texto consolidado 02006R1085-20120301.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:04:51Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2006-1085.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -233,30 +274,20 @@ relationships:
   date: '2005-12-30'
 article_structure:
   article_count: 28
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:48Z'
-  warnings: []
+  checked_at: '2026-10-22T15:04:51Z'
+  warnings:
+  - '02006R1085-20060801: versão indisponível (Sem expressão na língua por para CELEX 02006R1085-20060801.)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 1085/2006 do Conselho, de 17 de Julho de 2006
-
-> 2006R1085 — PT — 01.03.2012 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010R0540) — [REGULAMENTO (UE) N.º 540/2010 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Junho de 2010](http://publications.europa.eu/resource/celex/32010R0540) — L 158 — 7 — 24.6.2010
-- [►M2](http://publications.europa.eu/resource/celex/32012R0153) — [REGULAMENTO (UE) N.º 153/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012R0153) — L 58 — 1 — 29.2.2012
-
-## REGULAMENTO (CE) N.º 1085/2006 DO CONSELHO
 
 de 17 de Julho de 2006
 

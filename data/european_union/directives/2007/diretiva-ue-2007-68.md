@@ -36,6 +36,48 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-12-13'
+version_history:
+  file: diretiva-ue-2007-68.versoes.json
+  count: 4
+  source_lastmod: '2014-12-13'
+  versions:
+  - date: '2007-11-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-05-28'
+    amending: eu:celex:32009R0415:por
+    amending_title: REGULAMENTO (CE) N. o 415/2009 DA COMISSÃO de 20 de Maio de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita «ANEXO III A
+    - Adita Ingredientes a que se referem os n.^os^ 3A, 10 e 11 do artigo 6.º
+  - date: '2010-12-31'
+    amending: eu:celex:32010R1266:por
+    amending_title: REGULAMENTO (UE) N. o 1266/2010 DA COMISSÃO de 22 de Dezembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Ingredientes a que se referem os n.^os^ 3A, 10 e 11 do artigo 6.º
+    - Altera Notas
+  - date: '2014-12-13'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime ANEXO
+    - Suprime «ANEXO III A
+    - Suprime Ingredientes a que se referem os n.^os^ 3A, 10 e 11 do artigo 6.º
+    - Suprime Notas
 identifiers:
   celex: 32007L0068
   eli: http://data.europa.eu/eli/dir/2007/68/oj
@@ -50,7 +92,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ea2146b6-5707-438c-ad4f-bacaf92176f5.0018
   content_url: http://publications.europa.eu/resource/cellar/3da70a94-8b05-4377-a23f-5452d308b4f3.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007L0068-20141213
-  retrieved_at: '2026-10-22T03:13:04Z'
+  retrieved_at: '2026-10-22T15:07:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T14:42:19.148+01:00'
 integrity:
@@ -59,9 +101,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:04Z'
-  notes: Texto consolidado 02007L0068-20141213.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:07:59Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2007-68.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -112,16 +154,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:04Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:07:59Z'
+  warnings: []
   errors: []
 ---
 

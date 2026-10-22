@@ -34,6 +34,100 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-08-13'
+version_history:
+  file: regulamento-ue-2004-794.versoes.json
+  count: 3
+  source_lastmod: '2025-08-13'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-07-03'
+    amending: eu:celex:32006R1627:por
+    amending_title: M1; M2; REGULAMENTO (CE) N. o 271/2008 DA COMISSÃO de 30 de Janeiro de 2008; M4; M5; M6; REGULAMENTO (UE)
+      N. o 372/2014 DA COMISSÃO de 9 de Abril de 2014; REGULAMENTO (UE) 2015/2282 DA COMISSÃO de 27 de Novembro de 2015; M9;
+      M10; REGULAMENTO DE EXECUÇÃO (UE) 2025/905 DA COMISSÃO de 12 de maio de 2025
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Formulários de notificação
+    - Altera Artigo 3.º — Transmissão das notificações
+    - Altera Artigo 4.º — Procedimento de notificação simplificado para certas alterações de auxílios existentes
+    - Altera Artigo 5.º — Forma e conteúdo dos relatórios anuais
+    - Altera Artigo 7.º — Estatuto dos relatórios anuais
+    - Altera Artigo 8.º — Cálculo dos prazos
+    - Altera Artigo 9.º — Método de fixação da taxa de juro
+    - Altera Artigo 11.º — Método de cálculo dos juros
+    - Altera Artigo 13.º — Entrada em vigor
+    - Altera Notas
+    - Adita CAPÍTULO V-A
+    - Adita TRATAMENTO DAS DENÚNCIAS
+    - Adita Artigo 11.º-A — Admissibilidade das denúncias
+    - Adita CAPÍTULO V-B
+    - Adita IDENTIFICAÇÃO E PROTEÇÃO DE INFORMAÇÕES CONFIDENCIAIS
+    - Adita Artigo 11.º-B — Proteção dos segredos comerciais e de outras informações confidenciais
+    - Adita ANEXO I
+    - Adita PARTE I.
+    - Adita INFORMAÇÕES GERAIS
+    - Adita PARTE III
+    - Adita FICHAS DE INFORMAÇÕES COMPLEMENTARES
+    - Adita PARTE III.12
+    - Adita FICHA DE INFORMAÇÕES GERAIS PARA AS ORIENTAÇÕES RELATIVAS AOS AUXÍLIOS ESTATAIS NOS SETORES AGRÍCOLA E FLORESTAL
+      E NAS ZONAS RURAIS
+    - Adita APRECIAÇÃO DA COMPATIBILIDADE NOS TERMOS DO ARTIGO 107.º, N.º 3, ALÍNEA C), DO TRATADO
+    - Adita PARTE III.12.R
+    - Adita FICHA DE INFORMAÇÕES COMPLEMENTARES SOBRE OS AUXÍLIOS PARA PROMOÇÃO E PUBLICIDADE DE PRODUTOS AGRÍCOLAS
+    - Adita 1. Campanhas publicitárias na Comunidade
+    - Adita 2. Campanhas publicitárias em países terceiros
+    - Adita PARTE III.12.S
+    - Adita FICHA DE INFORMAÇÕES COMPLEMENTARES SOBRE OS AUXÍLIOS LIGADOS A ISENÇÕES FISCAIS NOS TERMOS DA DIRECTIVA 2003/96/CE
+    - Adita PARTE III.12.T
+    - Adita FICHA DE INFORMAÇÕES COMPLEMENTARES SOBRE OS AUXÍLIOS PARA O SECTOR FLORESTAL
+    - Adita 1. Objectivos da medida
+    - Adita 2. Critérios de elegibilidade
+    - Adita 3. Tipos de auxílio
+    - Adita 4 Montante do auxílio
+    - Adita PARTE III. 13A
+    - Adita Ficha de informações complementares relativa aos auxílios ao investimento para aeroportos
+  - date: '2025-08-13'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Formulários de notificação
+    - Altera INFORMAÇÕES GERAIS
+    - Altera FICHAS DE INFORMAÇÕES COMPLEMENTARES
+    - Altera FICHA DE INFORMAÇÕES GERAIS PARA AS ORIENTAÇÕES RELATIVAS AOS AUXÍLIOS ESTATAIS NOS SETORES AGRÍCOLA E FLORESTAL
+      E NAS ZONAS RURAIS
+    - Altera APRECIAÇÃO DA COMPATIBILIDADE NOS TERMOS DO ARTIGO 107.º, N.º 3, ALÍNEA C), DO TRATADO
+    - Altera FICHA DE INFORMAÇÕES COMPLEMENTARES SOBRE OS AUXÍLIOS PARA PROMOÇÃO E PUBLICIDADE DE PRODUTOS AGRÍCOLAS
+    - Altera 1. Campanhas publicitárias na Comunidade
+    - Altera 2. Campanhas publicitárias em países terceiros
+    - Altera FICHA DE INFORMAÇÕES COMPLEMENTARES SOBRE OS AUXÍLIOS LIGADOS A ISENÇÕES FISCAIS NOS TERMOS DA DIRECTIVA 2003/96/CE
+    - Altera FICHA DE INFORMAÇÕES COMPLEMENTARES SOBRE OS AUXÍLIOS PARA O SECTOR FLORESTAL
+    - Altera 3. Tipos de auxílio
+    - Altera Ficha de informações complementares relativa aos auxílios ao investimento para aeroportos
+    - Altera 1. Informações suplementares sobre o beneficiário, o projeto de investimento e o auxílio
+    - Altera 2. Apreciação da compatibilidade da medida
+    - Altera FICHA DE INFORMAÇÕES COMPLEMENTARES RELATIVA AOS AUXÍLIOS AO FUNCIONAMENTO PARA AEROPORTOS
+    - Altera Ficha de informações complementares relativa aos auxílios ao arranque de companhias aéreas
+    - Altera Ficha de informações complementares relativa aos auxílios de natureza social na aceção do artigo 107.º, n.º 2,
+      alínea a), do Tratado, para os serviços de transporte aéreo
+    - Altera 1. Informações sobre o beneficiário ou beneficiários, o projeto e o auxílio
+    - Altera Ficha de informações complementares relativa aos auxílios aos transportes marítimos
+    - Altera FICHA DE INFORMAÇÕES GERAIS PARA AS ORIENTAÇÕES RELATIVAS AOS AUXÍLIOS ESTATAIS NO SETOR DAS PESCAS E DA AQUICULTURA
+    - Altera Condições adicionais para auxílios ao investimento notificáveis individualmente e auxílios ao investimento concedidos
+      a grandes empresas ao abrigo de regimes notificados
+    - Altera MODELO NORMALIZADO PARA APRESENTAÇÃO DE RELATÓRIOS SOBRE OS AUXÍLIOS ESTATAIS EXISTENTES
+    - Altera 3. Queira selecionar uma das seguintes opções para descrever a sua identidade
+    - Altera 5. FUNDAMENTAÇÃO DO PEDIDO
+    - Altera Notas
+    - Adita FORMULÁRIO PARA A APRESENTAÇÃO DE PEDIDOS DE REEXAME INTERNO NA SEQUÊNCIA DAS CONCLUSÕES DO COMITÉ DE AVALIAÇÃO
+      DO CUMPRIMENTO DA CONVENÇÃO DE AARHUS NO PROCESSO ACCC/C/2015/128 ([^684^](http://publications.europa.eu/resource/cellar/e99bb9c5-a385-11f0-97c8-01aa75ed71a1.0019.02/DOC_1#E0724))
+    - Adita 8. PROTEÇÃO DE DADOS PESSOAIS ([^686^](http://publications.europa.eu/resource/cellar/e99bb9c5-a385-11f0-97c8-01aa75ed71a1.0019.02/DOC_1#E0726))
+    - Suprime FORMULÁRIO PARA A APRESENTAÇÃO DE PEDIDOS DE REEXAME INTERNO NA SEQUÊNCIA DAS CONCLUSÕES DO COMITÉ DE AVALIAÇÃO
+      DO CUMPRIMENTO DA CONVENÇÃO DE AARHUS NO PROCESSO ACCC/C/2015/128 ([^684^](http://publications.europa.eu/resource/cellar/373ea4e1-77ba-11f0-9af8-01aa75ed71a1.0019.02/DOC_1#E0724))
+    - Suprime 8. PROTEÇÃO DE DADOS PESSOAIS ([^686^](http://publications.europa.eu/resource/cellar/373ea4e1-77ba-11f0-9af8-01aa75ed71a1.0019.02/DOC_1#E0726))
 identifiers:
   celex: 32004R0794
   eli: http://data.europa.eu/eli/reg/2004/794/oj
@@ -48,7 +142,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/26f403d1-7656-4c91-9726-c08d466ff8bd.0009
   content_url: http://publications.europa.eu/resource/cellar/e99bb9c5-a385-11f0-97c8-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0794-20250813
-  retrieved_at: '2026-10-22T02:57:52Z'
+  retrieved_at: '2026-10-22T14:58:56Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-06-03T13:53:36.762+02:00'
 integrity:
@@ -57,9 +151,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:52Z'
-  notes: Texto consolidado 02004R0794-20250813.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:58:56Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2004-794.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -196,45 +290,30 @@ relationships:
   date: '2020-03-19'
 article_structure:
   article_count: 15
-  section_count: 84
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 85
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:52Z'
-  warnings: []
+  checked_at: '2026-10-22T14:58:56Z'
+  warnings:
+  - '02004R0794-20040520: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0794-20061121: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0794-20070119: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0794-20080414: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0794-20081122: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0794-20090416: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0794-20091124: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0794-20140502: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0794-20151230: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0794-20160317: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0794-20161222: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento(CE) n.o 794/2004 da Comissão, de 21 de Abril 2004, relativoà aplicação do Regulamento (CE) n.o 659/1999 do Conselho que estabelece as regras de execução do artigo 93.º do Tratado CE
-
-> 02004R0794 — PT — 13.08.2025 — 012.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32006R1627) — [REGULAMENTO (CE) N.º 1627/2006 DA COMISSÃO de 24 de Outubro de 2006](http://publications.europa.eu/resource/celex/32006R1627) — L 302 — 10 — 1.11.2006
-- [M2](http://publications.europa.eu/resource/celex/32006R1935) — [REGULAMENTO (CE) N.º 1935/2006 DA COMISSÃO de 20 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1935) — L 407 — 1 — 30.12.2006
-- [►M3](http://publications.europa.eu/resource/celex/32008R0271) — [REGULAMENTO (CE) N.º 271/2008 DA COMISSÃO de 30 de Janeiro de 2008](http://publications.europa.eu/resource/celex/32008R0271) — L 82 — 1 — 25.3.2008
-- [M4](http://publications.europa.eu/resource/celex/32008R1147) — [REGULAMENTO (CE) N.º 1147/2008 DA COMISSÃO de 31 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1147) — L 313 — 1 — 22.11.2008
-- [M5](http://publications.europa.eu/resource/celex/32009R0257) — [REGULAMENTO (CE) N.º 257/2009 DA COMISSÃO de 24 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0257) — L 81 — 15 — 27.3.2009
-- [M6](http://publications.europa.eu/resource/celex/32009R1125) — [REGULAMENTO (CE) N.º 1125/2009 DA COMISSÃO de 23 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1125) — L 308 — 5 — 24.11.2009
-- [►M7](http://publications.europa.eu/resource/celex/32014R0372) — [REGULAMENTO (UE) N.º 372/2014 DA COMISSÃO de 9 de Abril de 2014](http://publications.europa.eu/resource/celex/32014R0372) — L 109 — 14 — 12.4.2014
-- [►M8](http://publications.europa.eu/resource/celex/32015R2282) — [REGULAMENTO (UE) 2015/2282 DA COMISSÃO de 27 de Novembro de 2015](http://publications.europa.eu/resource/celex/32015R2282) — L 325 — 1 — 10.12.2015
-- [M9](http://publications.europa.eu/resource/celex/32016R0246) — [REGULAMENTO (UE) 2016/246 DA COMISSÃO de 3 de fevereiro de 2016](http://publications.europa.eu/resource/celex/32016R0246) — L 51 — 1 — 26.2.2016
-- [M10](http://publications.europa.eu/resource/celex/32016R2105) — [REGULAMENTO (UE) 2016/2105 DA COMISSÃO de 1 de dezembro de 2016](http://publications.europa.eu/resource/celex/32016R2105) — L 327 — 19 — 2.12.2016
-- [►M11](http://publications.europa.eu/resource/celex/32025R0905) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/905 DA COMISSÃO de 12 de maio de 2025](http://publications.europa.eu/resource/celex/32025R0905) — L 905 — 1 — 13.6.2025
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32004R0794R%2802%29) — [Rectificação, JO L 025, 28.1.2005, p. 74 (794/2004)](http://publications.europa.eu/resource/celex/32004R0794R%2802%29)
-- [C2](http://publications.europa.eu/resource/celex/32004R0794R%2804%29) — [Rectificação, JO L 131, 25.5.2005, p. 45 (794/2004)](http://publications.europa.eu/resource/celex/32004R0794R%2804%29)
-- [►C3](http://publications.europa.eu/resource/celex/32006R1935R%2801%29) — [Rectificação, JO L 044, 15.2.2007, p. 3 (1935/2006)](http://publications.europa.eu/resource/celex/32006R1935R%2801%29)
-
-## REGULAMENTO (CE) N.º 794/2004 DA COMISSÃO
 
 de 21 de abril de 2004
 

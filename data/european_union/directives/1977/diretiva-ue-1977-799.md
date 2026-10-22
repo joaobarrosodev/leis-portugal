@@ -34,6 +34,83 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-01-01'
+version_history:
+  file: diretiva-ue-1977-799.versoes.json
+  count: 4
+  source_lastmod: '2013-01-01'
+  versions:
+  - date: '1977-12-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-12-24'
+    amending: eu:celex:31979L1070:por
+    amending_title: M1; M2; DIRECTIVA 2003/93/CE DO CONSELHO de 7 de Outubro de 2003; DIRECTIVA 2004/56/CE DO CONSELHO de
+      21 de Abril de 2004; DIRECTIVA 2004/106/CE DO CONSELHO de 16 de Novembro de 2004; Acto de Adesão da Áustria, da Finlândia
+      e da Suécia; Acto de Adesão da Grécia; A3; Acto relativo às condições de adesão da República Checa, da República da
+      Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República
+      de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em
+      que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º — Disposições gerais
+    - Adita Artigo 2.º — Troca de informações mediante pedido
+    - Adita Artigo 3.º — Troca automática de informações
+    - Adita Artigo 4.º — Troca espontânea de informações
+    - Adita Artigo 5.º — Prazo de transmissão
+    - Adita Artigo 6.º — Colaboração de agentes do Estado interessado
+    - Adita Artigo 7.º — Disposições relativas ao sigilo
+    - Adita Artigo 8.º — Limites da troca de informações
+    - Adita Artigo 8.ºA — Notificação
+    - Adita Artigo 8.ºB — Controlos simultâneos
+    - Adita Artigo 9.º — Consultas
+    - Adita Artigo 10.º — Comunicação de experiências
+    - Adita Artigo 11.º — Aplicabilidade de disposições mais amplas em matéria de assistência
+    - Adita Artigo 12.º — Disposições finais
+    - Adita Artigo 13.º
+    - Adita Notas
+    - Suprime Artigo 1o — Disposições gerais
+    - Suprime Artigo 2o — Troca de informações mediante pedido
+    - Suprime Artigo 3o — Troca automática de informações
+    - Suprime Artigo 4o — Troca espontânea de informações
+    - Suprime Artigo 5o — Prazo de transmissão
+    - Suprime Artigo 6o — Colaboração de agentes do Estado interessado
+    - Suprime Artigo 7o — Disposições relativas ao sigilo
+    - Suprime Artigo 8o — Limites da troca de informações
+    - Suprime Artigo 9o — Consultas
+    - Suprime Artigo 10o — Comunicação de experiências
+    - Suprime Artigo 11o — Aplicabilidade de disposições mais amplas em matéria de assistência
+    - Suprime Artigo 12o — Disposições finais
+    - Suprime Artigo 13o
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0098:por
+    amending_title: DIRECTIVA 2006/98/CE DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Disposições gerais
+    - Altera Artigo 7.º — Disposições relativas ao sigilo
+    - Altera Notas
+  - date: '2013-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Disposições gerais
+    - Suprime Artigo 2.º — Troca de informações mediante pedido
+    - Suprime Artigo 3.º — Troca automática de informações
+    - Suprime Artigo 4.º — Troca espontânea de informações
+    - Suprime Artigo 5.º — Prazo de transmissão
+    - Suprime Artigo 6.º — Colaboração de agentes do Estado interessado
+    - Suprime Artigo 7.º — Disposições relativas ao sigilo
+    - Suprime Artigo 8.º — Limites da troca de informações
+    - Suprime Artigo 8.ºA — Notificação
+    - Suprime Artigo 8.ºB — Controlos simultâneos
+    - Suprime Artigo 9.º — Consultas
+    - Suprime Artigo 10.º — Comunicação de experiências
+    - Suprime Artigo 11.º — Aplicabilidade de disposições mais amplas em matéria de assistência
+    - Suprime Artigo 12.º — Disposições finais
+    - Suprime Artigo 13.º
+    - Suprime Notas
 identifiers:
   celex: 31977L0799
   eli: http://data.europa.eu/eli/dir/1977/799/oj
@@ -48,7 +125,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5ebf8450-3518-4d7a-916d-54be7d8b40d2.0011
   content_url: http://publications.europa.eu/resource/cellar/9137b762-d5f0-4294-890d-80bcd00f481e.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977L0799-20130101
-  retrieved_at: '2026-10-22T02:37:06Z'
+  retrieved_at: '2026-10-22T14:32:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-18T08:39:32.661+01:00'
 integrity:
@@ -57,9 +134,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:06Z'
-  notes: Texto consolidado 01977L0799-20130101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:32:26Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1977-799.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -214,16 +291,21 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:06Z'
+  checked_at: '2026-10-22T14:32:26Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01977L0799-19791207: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0799-19810101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0799-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0799-19920306: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0799-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0799-20031015: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0799-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

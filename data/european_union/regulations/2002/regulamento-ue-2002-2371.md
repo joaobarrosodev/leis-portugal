@@ -34,6 +34,160 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: regulamento-ue-2002-2371.versoes.json
+  count: 7
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2002-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Tipos de medidas
+    - Altera Artigo 5.º — Planos de recuperação
+    - Altera Artigo 11.º — Ajustamento da capacidade de pesca
+    - Altera Artigo 12.º — Níveis de referência para as frotas de pesca
+    - Altera Artigo 13.º — Regime de entrada/saída e redução da capacidade global
+    - Altera Artigo 14 — Intercâmbio de informações
+    - Altera Artigo 16.º — Condicionalidade da assistência financeira comunitária e redução do esforço de pesca
+    - Altera Artigo 20.º — Repartição das possibilidades de pesca
+    - Altera Artigo 36.º — Entrada em vigor
+    - Adita CAPÍTULO I
+    - Adita ÂMBITO DE APLICAÇÃO E OBJECTO
+    - Adita CAPÍTULO II
+    - Adita CONSERVAÇÃO E SUSTENTABILIDADE
+    - Adita CAPÍTULO III
+    - Adita AJUSTAMENTO DA CAPACIDADE DE PESCA
+    - Adita CAPÍTULO IV
+    - Adita REGRAS DE ACESSO ÀS ÁGUAS E AOS RECURSOS
+    - Adita CAPÍTULO V
+    - Adita SISTEMA COMUNITÁRIO DE CONTROLO E EXECUÇÃO
+    - Adita CAPÍTULO VI
+    - Adita TOMADA DE DECISÃO E CONSULTA
+    - Adita CAPÍTULO VII
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita ANEXO I
+    - Adita ACESSO ÀS ÁGUAS COSTEIRAS NA ACEPÇÃO DO N.º 2 DO ARTIGO 17.º
+    - Adita 1. FAIXA COSTEIRA DO REINO UNIDO
+    - Adita A. ACESSO PARA A FRANÇA
+    - Adita B. ACESSO PARA A IRLANDA
+    - Adita C. ACESSO PARA A ALEMANHA
+    - Adita D. ACESSO PARA OS PAÍSES BAIXOS
+    - Adita E. ACESSO PARA A BÉLGICA
+    - Adita 2. FAIXA COSTEIRA DA IRLANDA
+    - Adita B. ACESSO PARA O REINO UNIDO
+    - Adita C. ACESSO PARA OS PAÍSES BAIXOS
+    - Adita D. ACESSO PARA A ALEMANHA
+    - Adita 3. FAIXA COSTEIRA DA BÉLGICA
+    - Adita 4. FAIXA COSTEIRA DA DINAMARCA
+    - Adita 5. FAIXA COSTEIRA DA ALEMANHA
+  - date: '2007-07-27'
+    amending: eu:celex:32007R0865:por
+    amending_title: REGULAMENTO (CE) N. o 865/2007 DO CONSELHO de 10 de Julho de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Ajustamento da capacidade de pesca
+    - Altera Artigo 12.º — Níveis de referência para as frotas de pesca
+    - Altera Artigo 13.º — Regime de entrada/saída e redução da capacidade global
+    - Altera Artigo 16.º — Condicionalidade da assistência financeira comunitária e redução do esforço de pesca
+    - Altera 4. FAIXA COSTEIRA DA DINAMARCA
+    - Altera Notas
+  - date: '2010-01-01'
+    amending: eu:celex:32009R1224:por
+    amending_title: REGULAMENTO (CE) N. o 1224/2009 do Conselho de 20 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Ajustamento da capacidade de pesca
+    - Altera Artigo 12.º — Níveis de referência para as frotas de pesca
+    - Altera Artigo 16.º — Condicionalidade da assistência financeira comunitária e redução do esforço de pesca
+    - Altera 4. FAIXA COSTEIRA DA DINAMARCA
+    - Altera Notas
+    - Adita Artigo 21.º — Controlo comunitário e regime de cumprimento
+    - Suprime Artigo 21.º — Objectivos
+    - Suprime Artigo 22.º — Condições de acesso às águas e aos recursos e de comercialização dos produtos da pesca
+    - Suprime Artigo 23.º — Responsabilidades dos Estados-Membros
+    - Suprime Artigo 24.º — Inspecção e execução
+    - Suprime Artigo 25.º — Seguimento das infracções
+    - Suprime Artigo 26.º — Responsabilidades da Comissão
+    - Suprime Artigo 27.º — Avaliação e controlo pela Comissão
+    - Suprime Artigo 28.º — Cooperação e coordenação
+  - date: '2013-01-01'
+    amending: eu:celex:32012R1152:por
+    amending_title: REGULAMENTO (UE) N. o 1152/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de novembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Ajustamento da capacidade de pesca
+    - Altera Artigo 12.º — Níveis de referência para as frotas de pesca
+    - Altera Artigo 16.º — Condicionalidade da assistência financeira comunitária e redução do esforço de pesca
+    - Altera Artigo 17.º — Regras gerais
+    - Altera 4. FAIXA COSTEIRA DA DINAMARCA
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: null
+    amending_title: ►A1
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Ajustamento da capacidade de pesca
+    - Altera Artigo 12.º — Níveis de referência para as frotas de pesca
+    - Altera Artigo 16.º — Condicionalidade da assistência financeira comunitária e redução do esforço de pesca
+    - Altera 4. FAIXA COSTEIRA DA DINAMARCA
+    - Altera Notas
+    - Adita 11. FAIXA COSTEIRA DA CROÁCIA ([^15^](http://publications.europa.eu/resource/cellar/fce65c21-8bfb-42dc-a462-d452b8c25575.0018.03/DOC_1#E0018))
+    - Adita 12. FAIXA COSTEIRA DA ESLOVÉNIA ([^16^](http://publications.europa.eu/resource/cellar/fce65c21-8bfb-42dc-a462-d452b8c25575.0018.03/DOC_1#E0019))
+  - date: '2014-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime ÂMBITO DE APLICAÇÃO E OBJECTO
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Objectivos
+    - Suprime Artigo 3.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime CONSERVAÇÃO E SUSTENTABILIDADE
+    - Suprime Artigo 4.º — Tipos de medidas
+    - Suprime Artigo 5.º — Planos de recuperação
+    - Suprime Artigo 6.º — Planos de gestão
+    - Suprime Artigo 7.º — Medidas de emergência da Comissão
+    - Suprime Artigo 8.º — Medidas de emergência dos Estados-Membros
+    - Suprime Artigo 9.º — Medidas dos Estados-Membros aplicáveis na zona das doze milhas marítimas
+    - Suprime Artigo 10.º — Medidas dos Estados-Membros aplicáveis exclusivamente aos navios de pesca que arvorem o seu pavilhão
+    - Suprime CAPÍTULO III
+    - Suprime AJUSTAMENTO DA CAPACIDADE DE PESCA
+    - Suprime Artigo 11.º — Ajustamento da capacidade de pesca
+    - Suprime Artigo 12.º — Níveis de referência para as frotas de pesca
+    - Suprime Artigo 13.º — Regime de entrada/saída e redução da capacidade global
+    - Suprime Artigo 14 — Intercâmbio de informações
+    - Suprime Artigo 15.º — Ficheiros da frota de pesca
+    - Suprime Artigo 16.º — Condicionalidade da assistência financeira comunitária e redução do esforço de pesca
+    - Suprime CAPÍTULO IV
+    - Suprime REGRAS DE ACESSO ÀS ÁGUAS E AOS RECURSOS
+    - Suprime Artigo 17.º — Regras gerais
+    - Suprime Artigo 18.º — Acantoamento de Shetland
+    - Suprime Artigo 19.º — Revisão das regras de acesso
+    - Suprime Artigo 20.º — Repartição das possibilidades de pesca
+    - Suprime CAPÍTULO V
+    - Suprime SISTEMA COMUNITÁRIO DE CONTROLO E EXECUÇÃO
+    - Suprime Artigo 21.º — Controlo comunitário e regime de cumprimento
+    - Suprime CAPÍTULO VI
+    - Suprime TOMADA DE DECISÃO E CONSULTA
+    - Suprime Artigo 29.º — Processo de tomada de decisão
+    - Suprime Artigo 30.º — Comité das Pescas e da Aquicultura
+    - Suprime Artigo 31.º — Conselhos consultivos regionais
+    - Suprime Artigo 32.º — Processo de instituição dos conselhos consultivos regionais
+    - Suprime Artigo 33.º — Comité Científico, Técnico e Económico das Pescas
+    - Suprime CAPÍTULO VII
 identifiers:
   celex: 32002R2371
   eli: http://data.europa.eu/eli/reg/2002/2371/oj
@@ -48,7 +202,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/98fc4b70-c38e-4135-9ec7-ca1aaa533901.0010
   content_url: http://publications.europa.eu/resource/cellar/e000404d-18ee-4ca5-a24c-1253c6b87b5c.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R2371-20140101
-  retrieved_at: '2026-10-22T02:45:06Z'
+  retrieved_at: '2026-10-22T14:54:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:35:35.159+02:00'
 integrity:
@@ -57,9 +211,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:06Z'
-  notes: Texto consolidado 02002R2371-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:11Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2002-2371.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -220,16 +374,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:06Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:54:11Z'
+  warnings: []
   errors: []
 ---
 

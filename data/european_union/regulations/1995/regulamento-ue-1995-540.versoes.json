@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31995R0540:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995R0540-19950314",
+ "dre_path": null,
+ "source_lastmod": "1995-03-14",
+ "versions": [
+  {
+   "date": "1995-03-11",
+   "future": false,
+   "celex": "31995R0540",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3ade040247e1b32e",
+    "e3b924d79a9342a7",
+    "56a413b88151e385",
+    "641b145f5b2fd7a0",
+    "0969000cd6061040",
+    "57b97913a73fb158"
+   ]
+  }
+ ],
+ "fragments": {
+  "3ade040247e1b32e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 540/95 da Comissão, de 10 de Março de 1995, que institui medidas quanto à notificação de possíveis reacções adversas inesperadas e sem gravidade a medicamentos para uso humano ou veterinário autorizados em conformidade com o disposto no Regulamento (CEE) nº 2309/93 do Conselho que ocorram na Comunidade ou em países terceiros** *Jornal Oficial nº L 055 de 11/03/1995 p. 0005 - 0006*\n\nREGULAMENTO (CE) Nº 540/95 DA COMISSÃO de 10 de Março de 1995 que institui medidas quanto à notificação de possíveis reacções adversas inesperadas e sem gravidade a medicamentos para uso humano ou veterinário autorizados em conformidade com o disposto no Regulamento (CEE) nº 2309/93 do Conselho que ocorram na Comunidade ou em países terceiros\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CEE) nº 2309/93, de 22 de Julho de 1993, que estabelece procedimentos comunitários de autorização e fiscalização de medicamentos de uso humano e veterinário e institui uma Agência Europeia de Avaliação dos Medicamentos (1), e, nomeadamente, o nº 1, terceiro parágrafo, do seu artigo 22º e o nº 1, terceiro parágrafo, do seu artigo 44º,\n\nConsiderando que em qualquer altura após a comercialização de um medicamento pode ocorrer e ser identificado um certo número de reacções adversas que não se encontram descritas no resumo das características do medicamento;\n\nConsiderando que o nº 1 do artigo 22º e o nº 1 do artigo 44º já prevêem a notificação da suspeita de reacções adversas graves, respectivamente no que respeita aos medicamentos para uso humano e para uso veterinário;\n\nConsiderando que, tendo em conta a saúde humana e animal, os medicamentos inovadores justificam uma supervisão cuidada em termos de farmacovigilância, nomeadamente no que respeita a possíveis reacções adversas inesperadas e sem gravidade que ocorram quer na Comunidade quer em países terceiros e sejam notificadas aos detentores de autorizações de comercialização por profissionais de saúde, e, no âmbito da veterinária, por outras pessoas adequadas;\n\nConsiderando que os detentores de autorizações de comercialização devem requerer a alteração da autorização de comercialização caso se confirme que reacções adversas não classificadas como graves se devem ao medicamento em questão;\n\nConsiderando que a Agência Europeia de Avaliação dos Medicamentos, a seguir denominada « Agência », deveria ser responsável pela coordenação das actividades dos Estados-membros no domínio da monitorização das reacções adversas aos medicamentos (farmacovigilância);\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer dos comités permanentes dos medicamentos para uso humano e dos medicamentos veterinários,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "e3b924d79a9342a7": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO responsável pela colocação do medicamento no mercado deve assegurar que a suspeita de reacções adversas imprevistas em relação a um medicamento autorizado em conformidade com o disposto no Regulamento (CEE) nº 2309/93, as quais não sejam classificadas como graves e ocorram na Comunidade ou em países terceiros, seja notificada às autoridades competentes de todos os Estados-membros, bem como à Agência."
+  },
+  "56a413b88151e385": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nA menos que sejam aplicáveis outras disposições para a concessão da autorização de comercialização por parte da Comunidade, o detentor da autorização de comercialização deverá notificar a suspeita de reacções adversas imprevistas e sem gravidade numa secção específica e claramente identificada dos registos periódicos referidos no nº 2 do artigo 22º e no nº 2 do artigo 44º do Regulamento (CEE) nº 2309/93 « actualizações da segurança ». Estas actualizações da segurança devem consistir em linhas descritivas de caso individuais e ser acompanhadas por uma avaliação científica global, incluindo uma análise narrativa da natureza e de outras características relevantes das reacções, e, em especial, de eventuais alterações de frequência."
+  },
+  "641b145f5b2fd7a0": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs dados devem ser incorporados nas actualizações da segurança relevantes até ao fim de cada período referido no nº 2 do artigo 22º e no nº 2 do artigo 44º do Regulamento (CEE) nº 2309/93 (« momento de fixação dos dados »). As actualizações da segurança devem ser apresentadas às autoridades competentes o mais tardar dentro de 60 dias após o momento de fixação dos dados."
+  },
+  "0969000cd6061040": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nA suspeita de reacções adversas imprevistas e sem gravidade que, no entender do detentor da autorização de comercialização, possam ser atribuídas ao medicamento e requeiram a alteração do resumo das características do produto referido no segundo parágrafo do nº 9 do artigo 4º da Directiva 65/65/CEE do Conselho (2), com a última redacção que lhe foi dada pela Directiva 93/39/CEE (3), e no segundo parágrafo, nº 11 do artigo 5º da Directiva 81/851/CEE do Conselho (4) com a última redacção que lhe foi dada pela Directiva 93/40/CEE (5), deve ser abordada em conformidade com o Regulamento (CE) nº 542/95 da Comissão, de 10 de Março de 1995, relativo à análise da alteração dos termos das autorizações de introdução no mercado abrangidas pelo Regulamento (CEE) nº 2309/93 do Conselho (6), e com o Regulamento (CE) nº 541/95 da Comissão, de 10 de Março de 1995, relativo à análise da alteração dos termos das autorizações de introdução no mercado concedidas pelas autoridades competentes dos Estados-membros (7)."
+  },
+  "57b97913a73fb158": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 10 de Março de 1995.\n\nPela Comissão\n\nMartin BANGEMANN\n\nMembro da Comissão\n\n(1) JO nº L 214 de 24. 8. 1993, p. 1.\n\n(2) JO nº 22 de 9. 2. 1965, p. 369/65.\n\n(3) JO nº L 214 de 24. 8. 1993, p. 22.\n\n(4) JO nº L 317 de 6. 11. 1981, p. 1.\n\n(5) JO nº L 214 de 24. 8. 1993, p. 31.\n\n(6) Ver página 15 do presente Jornal Oficial.\n\n(7) Ver página 7 do presente Jornal Oficial."
+  }
+ }
+}

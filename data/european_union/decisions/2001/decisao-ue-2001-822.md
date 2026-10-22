@@ -34,6 +34,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: decisao-ue-2001-822.versoes.json
+  count: 2
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2001-11-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime PARTE I — DISPOSIÇÕES GERAIS DA ASSOCIAÇÃO DOS PTU À COMUNIDADE
+    - Suprime Capítulo I — Disposições gerais
+    - Suprime Artigo 1.º — Finalidade, objectivos e princípios
+    - Suprime Artigo 2.º — Elementos essenciais
+    - Suprime Artigo 3.º — Os PTU menos desenvolvidos
+    - Suprime Capítulo 2 — Agentes da cooperação nos PTU
+    - Suprime Artigo 4.º — Princípios
+    - Suprime Artigo 5.º — Os diversos actores
+    - Suprime Artigo 6.º — Tarefas dos actores não governamentais
+    - Suprime Capítulo 3 — Princípios e procedimentos da Parceria PTU-CE
+    - Suprime Artigo 7.º — Diálogo e parceria
+    - Suprime Artigo 8.º — Assembleia Parlamentar Paritária ACP- UE
+    - Suprime Artigo 9.º — Gestão
+    - Suprime PARTE II — DOMÍNIOS DA COOPERAÇÃO PTU-CE
+    - Suprime Artigo 10.º — Domínios da cooperação
+    - Suprime Artigo 11.º — Sectores produtivos
+    - Suprime Artigo 12.º — Desenvolvimento do comércio
+    - Suprime Artigo 13.º — Comércio de serviços
+    - Suprime Artigo 14.º — Domínios relacionados com o comércio
+    - Suprime Artigo 15.º — Sectores sociais
+    - Suprime Artigo 16.º — Cooperação e integração regionais
+    - Suprime Artigo 17.º — Cooperação cultural e social
+    - Suprime PARTE III — INSTRUMENTOS DA COOPERAÇÃO PTU-CE
+    - Suprime TÍTULO I — COOPERAÇÃO PARA O FINANCIAMENTO DO DESENVOLVIMENTO
+    - Suprime Capítulo 1 — Disposições gerais
+    - Suprime Artigo 18.º — Objectivos
+    - Suprime Artigo 19.º — Princípios
+    - Suprime Artigo 20.º — Documento Único de Programação
+    - Suprime Artigo 21.º — Âmbito de aplicação
+    - Suprime Artigo 22.º — Elegibilidade para o financiamento
+    - Suprime Artigo 23.º — Programação e execução
+    - Suprime Artigo 24.º — Comité do FED-PTU
+    - Suprime Capítulo 2 — Recursos colocados à disposição dos PTU
+    - Suprime Artigo 25.º — Contribuições financeiras
+    - Suprime Capítulo 3 — Apoio aos investimentos do sector privado
+    - Suprime Artigo 26.º — Promoção dos investimentos
+    - Suprime Artigo 27.º — Apoio e financiamento dos investimentos
+    - Suprime Capítulo 4 — Apoio adicional em caso de flutuação das receitas de exportação
+    - Suprime Artigo 28.º — Apoio adicional
 identifiers:
   celex: 32001D0822
   eli: http://data.europa.eu/eli/dec/2001/822(1)/oj
@@ -48,7 +101,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/76959936-3f70-4232-9e8c-b898933c009b.0010
   content_url: http://publications.europa.eu/resource/cellar/147c643b-7625-4c5e-a0e4-b718771f6da6.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001D0822-20140101
-  retrieved_at: '2026-10-22T02:57:04Z'
+  retrieved_at: '2026-10-22T14:49:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:52:00.172+02:00'
 integrity:
@@ -57,9 +110,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:04Z'
-  notes: Texto consolidado 02001D0822-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:53Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2001-822.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -386,16 +439,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:04Z'
+  checked_at: '2026-10-22T14:49:53Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02001D0822-20011202: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001D0822-20070426: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02001D0822-20120930: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02001D0822-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

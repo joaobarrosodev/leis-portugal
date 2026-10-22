@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002L0026:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0026-20060701",
+ "dre_path": null,
+ "source_lastmod": "2006-07-01",
+ "versions": [
+  {
+   "date": "2002-03-16",
+   "future": false,
+   "celex": "32002L0026",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "33c34bc0a884096f",
+    "382e5609337786de",
+    "493975d3b0342fb6",
+    "dda3979c84a03238",
+    "648967540239fe62",
+    "7fecb2734774ddb8",
+    "301f1dba9383e015",
+    "acfab661f1d51de4"
+   ]
+  },
+  {
+   "date": "2006-07-01",
+   "future": false,
+   "celex": "02002L0026-20060701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime ANEXO I — MÉTODOS DE COLHEITA DE AMOSTRAS PARA CONTROLO OFICIAL DO TEOR DE OCRATOXINA A DE CERTOS GÉNEROS ALIMENTÍCIOS",
+    "Suprime ANEXO II"
+   ],
+   "fragments": [
+    "fa168d09efee06e7"
+   ]
+  }
+ ],
+ "fragments": {
+  "33c34bc0a884096f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2002/26/CE da Comissão, de 13 de Março de 2002, que fixa os métodos de colheita de amostras e de análise para o controlo oficial do teor de ocratoxina A nos géneros alimentícios (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 075 de 16/03/2002 p. 0038 - 0043*\n\nDirectiva 2002/26/CE da Comissão\n\nde 13 de Março de 2002\n\nque fixa os métodos de colheita de amostras e de análise para o controlo oficial do teor de ocratoxina A nos géneros alimentícios\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CEE) n.o 315/93 do Conselho, de 8 de Fevereiro de 1993, que estabelece procedimentos comunitários para os contaminantes presentes nos géneros alimentícios(1), e, nomeadamente, o seu artigo 2.o,\n\nTendo em conta a Directiva 85/591/CEE do Conselho, de 20 de Dezembro de 1985, relativa à introdução de modos de colheita de amostras e de métodos de análise comunitários para o controlo dos géneros destinados à alimentação humana(2), e, nomeadamente, o seu artigo 1.o,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.o 466/2001 da Comissão, de 8 de Março de 2001, que fixa os teores máximos de certos contaminantes presentes nos géneros alimentícios(3), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 472/2002(4), fixa teores máximos de ocratoxina A para determinados géneros alimentícios.\n\n(2) A Directiva 93/99/CEE do Conselho, de 29 de Outubro de 1993, relativa a medidas adicionais respeitantes ao controlo oficial dos géneros alimentícios(5), introduziu um sistema de normas de qualidade para os laboratórios encarregues pelos Estados-Membros do controlo oficial dos géneros alimentícios.\n\n(3) A colheita de amostras desempenha um papel muito importante na precisão da determinação do teor de ocratoxina A, que se apresenta distribuída de forma muito heterogénea nos lotes.\n\n(4) É necessário fixar os critérios gerais a que os métodos de análise devem obedecer a fim de que os laboratórios encarregues dos controlos utilizem métodos de análise com um nível de eficácia comparável.\n\n(5) As disposições relativas ao método de colheita de amostras e de análise são estabelecidas com base nos conhecimentos actuais e poderão ser adaptadas à evolução dos conhecimentos científicos e técnicos.\n\n(6) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "382e5609337786de": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs Estados-Membros tomarão todas as medidas necessárias para que as colheitas de amostras para o controlo oficial do teor máximo de ocratoxina A nos géneros alimentícios sejam efectuadas em conformidade com os métodos descritos no anexo I da presente directiva."
+  },
+  "493975d3b0342fb6": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros tomarão todas as medidas necessárias para que a preparação da amostra e o método de análise utilizado para o controlo oficial dos teores de ocratoxina A nos géneros alimentícios satisfaçam os critérios descritos no anexo II da presente directiva."
+  },
+  "dda3979c84a03238": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros porão em vigor, o mais tardar até 28 de Fevereiro de 2003, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Do facto informarão imediatamente a Comissão.\n\nSempre que os Estados-Membros adoptarem tais disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros."
+  },
+  "648967540239fe62": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "7fecb2734774ddb8": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 13 de Março de 2002.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 37 de 13.2.1993, p. 1.\n\n(2) JO L 372 de 31.12.1985, p. 50.\n\n(3) JO L 77 de 16.3.2001, p. 1.\n\n(4) Ver página 18 do presente Jornal Oficial.\n\n(5) JO L 290 de 24.11.1993, p. 14."
+  },
+  "301f1dba9383e015": {
+   "fragment_id": "ANEXO I — MÉTODOS DE COLHEITA DE AMOSTRAS PARA CONTROLO OFICIAL DO TEOR DE OCRATOXINA A DE CERTOS GÉNEROS ALIMENTÍCIOS",
+   "type": "divisao",
+   "heading": "ANEXO I — MÉTODOS DE COLHEITA DE AMOSTRAS PARA CONTROLO OFICIAL DO TEOR DE OCRATOXINA A DE CERTOS GÉNEROS ALIMENTÍCIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — MÉTODOS DE COLHEITA DE AMOSTRAS PARA CONTROLO OFICIAL DO TEOR DE OCRATOXINA A DE CERTOS GÉNEROS ALIMENTÍCIOS\n\n1. Objectivo e âmbito de aplicação\n\nAs amostras destinadas aos controlos oficiais do teor de ocratoxina A nos géneros alimentícios são colhidas em conformidade com os métodos a seguir indicados. As amostras globais assim obtidas são consideradas representativas dos lotes. A conformidade dos lotes com os teores máximos fixados no Regulamento (CE) n.o 466/2001 é estabelecida em função dos teores determinados nas amostras para laboratório.\n\n2. Definições\n\nLote: quantidade de género alimentício identificável, entregue de uma vez, que apresenta, conforme estabelecido pelo agente responsável, características comuns tais como a origem, a variedade, o tipo de embalagem, o embalador, o expedidor ou a marcação\n\nSublote: parte designada de um grande lote para aplicação do método de amostragem a essa parte designada. Cada sublote deve ser fisicamente separado e identificável\n\nToma ou amostra elementar: quantidade de material recolhida num só ponto do lote ou sublote\n\nAmostra global: a totalidade das amostras elementares colhidas no lote ou sublote.\n\n3. Disposições gerais\n\n3.1. Pessoal\n\nA colheita de amostras deve ser efectuada por uma pessoa autorizada para esse efeito, segundo as disposições vigentes nos Estados-Membros.\n\n3.2. Produto a amostrar\n\nTodos os lotes a analisar devem ser amostrados separadamente. Em conformidade com as disposições específicas previstas no presente anexo, os grandes lotes devem ser subdivididos em sublotes, os quais devem ser amostrados separadamente.\n\n3.3. Precauções a tomar\n\nDurante a amostragem e a preparação das amostras, devem ser tomadas precauções para evitar qualquer alteração que possa fazer variar o teor de ocratoxina A, ou afectar as análises ou a representatividade da amostra global.\n\n3.4. Amostras elementares\n\nNa medida do possível, as amostras elementares devem ser colhidas em diversos pontos do lote ou sublote. Todas as derrogações dessa regra devem ser assinaladas no registo.\n\n3.5. Preparação da amostra global\n\nA amostra global é obtida através da mistura das amostras elementares.\n\n3.6. Amostras idênticas\n\nAs amostras idênticas, para efeitos de controlo, de direito de recurso e de referência, são obtidas a partir da amostra homogeneizada, desde que esse procedimento não infrinja as regras de amostragem dos Estados-Membros.\n\n3.7. Acondicionamento e envio das amostras\n\nColocar cada amostra num recipiente limpo, de material inerte, protegendo-a adequadamente de qualquer possível contaminação ou dano durante o transporte. Tomar todas as precauções necessárias para evitar qualquer modificação da composição da amostra que possa ocorrer durante o transporte ou a armazenagem.\n\n3.8. Fecho e rotulagem das amostras\n\nCada amostra oficial será selada no local de colheita e identificada segundo as prescrições em vigor no Estado-Membro.\n\nPara cada colheita de amostra, elaborar um registo que permita identificar sem ambiguidade o lote amostrado e indicar a data e o local de amostragem, bem como qualquer informação suplementar que possa ser útil ao analista.\n\n4. Disposições específicas\n\n4.1. Diferentes tipos de lotes\n\nOs produtos alimentares podem ser comercializados a granel, em contentores ou em embalagens individuais (sacos, embalagens para venda a retalho, etc.). O método de amostragem pode ser aplicado a todas as formas sob as quais os produtos são colocados no mercado.\n\nSem prejuízo das disposições específicas previstas nos pontos 4.3, 4.4 e 4.5 do presente anexo, a fórmula seguinte pode ser utilizada como guia para a amostragem dos lotes comercializados em sacos ou em embalagens individuais (sacos, bolsas, embalagem para venda a retalho, etc.):\n\n>PIC FILE= \"L_2002075PT.004001.TIF\">\n\n- massa: expressa em kg\n\n- frequência de amostragem (SF): Número de embalagens individuais que separa a colheita de duas amostras elementares; a colheita é realizada em cada enésima embalagem individual (os números decimais serão arredondados para o número inteiro mais próximo).\n\n4.2. Massa da amostra elementar\n\nA massa da amostra elementar é de cerca de 100 gramas, salvo definição em contrário no presente anexo. No caso dos lotes se apresentarem em embalagens para venda a retalho, a massa da amostra elementar será função da massa da embalagem para venda a retalho.\n\n4.3. Resumo geral do método de colheita de amostras para cereais e passas de uvas\n\nQuadro 1: Subdivisão dos lotes em sublotes em função do produto e da massa do lote\n\n>POSIÇÃO NUMA TABELA>\n\n4.4. Método de colheita de amostras para cereais e produtos derivados dos cereais (lotes &gt;= 50 toneladas) e para passas de uvas (lotes &gt;= 5 toneladas)\n\n- Desde que os sublotes possam ser fisicamente separados, cada lote deve ser subdividido em sublotes de acordo com o quadro 1. Dado que a massa dos lotes nem sempre é um múltiplo exacto da massa dos sublotes, a massa dos sublotes pode exceder a massa indicada até um máximo de 20 %.\n\n- Cada sublote deve ser objecto de uma amostragem separada.\n\n- Número de amostras elementares: 100. No caso dos lotes de cereais com menos de 50 toneladas ou de passas de uvas com menos de 15 toneladas, ver o ponto 4.5. Massa da amostra global = 10 kg\n\n- Nos casos em que não seja possível aplicar o método de amostragem acima descrito dadas as consequências comerciais da danificação do lote (por exemplo, por causa das formas de embalagem ou dos meios de transporte), pode ser aplicado um método alternativo de amostragem adequado, desde que a amostragem seja tão representativa quanto possível e que o método aplicado seja descrito e solidamente documentado.\n\n4.5. Disposições aplicáveis à colheita de amostras de cereais e de produtos derivados dos cereais (lotes &lt; 50 toneladas) e de passas de uvas (lotes &lt; 15 toneladas)\n\nPara lotes de cereais com menos de 50 toneladas e para as passas de uvas com menos de 15 toneladas, devem colher-se 10 a 100 amostras elementares, dependendo da massa do lote, resultando numa amostra global de 1 a 10 kg.\n\nPara definir o número de amostras elementares necessárias, podem ser utilizados os valores dos quadros que se seguem.\n\nQuadro 2: Número de amostras elementares a colher em função da massa do lote de cereais\n\n>POSIÇÃO NUMA TABELA>\n\nQuadro 3: Número de amostras elementares a colher em função da massa do lote de passas de uvas\n\n>POSIÇÃO NUMA TABELA>\n\n4.6. Colheita de amostra na venda a retalho\n\nA colheita de amostras dos géneros alimentícios na venda a retalho deverá fazer-se, sempre que possível, em conformidade com as disposições aplicáveis à colheita de amostras acima descritas. Quando isto não for possível, poderão usar-se outros métodos eficazes utilizados nessa fase, sempre que assegurem uma representatividade suficiente para o lote amostrado.\n\n5. Aceitação do lote ou sublote\n\n- aceitação se a amostra global respeitar o limite máximo,\n\n- rejeição se a amostra global exceder o limite máximo."
+  },
+  "acfab661f1d51de4": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nPREPARAÇÃO DAS AMOSTRAS E CRITÉRIOS GERAIS A QUE DEVEM OBEDECER OS MÉTODOS DE ANÁLISE PARA O CONTROLO OFICIAL DO TEOR DE OCRATOXINA A DE CERTOS GÉNEROS ALIMENTÍCIOS\n\n1. Precauções\n\nDado que a ocratoxina A está distribuída de forma heterogénea, as amostras devem ser preparadas, e, sobretudo, homogeneizadas, com o máximo cuidado.\n\nPara a preparação do material a testar, deve ser utilizada a totalidade do produto recebido no laboratório.\n\n2. Tratamento da amostra recebida pelo laboratório\n\nA amostra global deve ser finamente triturada e cuidadosamente misturada, utilizando-se um método que garanta uma homogeneização completa.\n\n3. Subdivisão das amostras para medidas executórias e acções de defesa\n\nAs amostras para análise destinadas a medidas executórias, a fins comerciais ou a procedimentos de arbitragem são colhidas a partir do material homogeneizado, desde que esse procedimento não infrinja as regras de amostragem dos Estados-Membros.\n\n4. Método de análise a utilizar pelo laboratório e requisitos de controlo do laboratório\n\n4.1. Definições\n\nSeguem-se algumas das definições mais frequentemente utilizadas aplicáveis aos laboratórios:\n\nOs parâmetros de precisão mais frequentemente citados são a repetibilidade e a reprodutibilidade.\n\nr= repetibilidade, valor abaixo do qual se pode esperar que a diferença absoluta entre os resultados de dois testes determinados obtidos em condições de repetibilidade (isto é, mesma amostra, mesmo operador, mesmo equipamento, mesmo laboratório e curto intervalo de tempo) se situe dentro dos limites da probabilidade específica (em princípio 95 %), sendo r = 2,8 × sr\n\nsr= desvio padrão calculado a partir dos resultados obtidos em condições de repetibilidade\n\nRSDr= desvio padrão relativo, calculado a partir dos resultados obtidos em condições de repetibilidade\n\n>REFERÊNCIA A UM GRÁFICO>\n\nfórmula na qual\n\n>REFERÊNCIA A UM GRÁFICO>\n\nrepresenta a média dos resultados de todos os laboratórios e amostras\n\nR= reprodutibilidade, valor abaixo do qual se pode esperar que a diferença absoluta entre os resultados de testes individuais obtidos em condições de reprodutibilidade (isto é, com um material idêntico obtido pelos operadores de diferentes laboratórios utilizando o método de ensaio normalizado) se situe dentro de um certo limite de probabilidade (em princípio 95 %); R = 2,8 × sR\n\nsR= desvio padrão calculado a partir dos resultados obtidos em condições de reprodutibilidade\n\nRSDR= desvio padrão relativo calculado a partir dos resultados obtidos em condições de reprodutibilidade\n\n>REFERÊNCIA A UM GRÁFICO>.\n\n4.2. Exigências gerais\n\nOs métodos de análise utilizados para o controlo dos géneros alimentícios devem cumprir as disposições dos pontos 1 e 2 do anexo da Directiva 85/591/CEE relativa à introdução de modos de colheita de amostras e de métodos de análise comunitários para o controlo dos géneros destinados à alimentação humana.\n\n4.3. Requisitos específicos\n\nSe não estiver prescrito a nível comunitário nenhum método específico para a determinação do teor de ocratoxina A nos géneros alimentícios, os laboratórios podem escolher o método a utilizar, desde que esse método respeite os seguintes critérios:\n\nAvaliação de desempenho para ocratoxina A\n\n>POSIÇÃO NUMA TABELA>\n\n- Os limites de detecção dos métodos utilizados não são indicados visto que os valores relativos à precisão são dados para as concentrações em causa.\n\n- Os valores relativos à precisão são calculados a partir da equação de Horwitz:\n\n>REFERÊNCIA A UM GRÁFICO>\n\nem que:\n\n- RSDR é o desvio padrão relativo calculado a partir dos resultados obtidos em condições de reprodutibilidade\n\n>REFERÊNCIA A UM GRÁFICO>,\n\n- C é a taxa de concentração (ou seja, 1 = 100 g/100 g, 0,001 = 1000 mg/kg).\n\nTrata-se de uma equação geral relativa à precisão, considerada independente da substância analisada ou da matriz e dependente apenas da concentração para a maior parte dos métodos de análise de rotina.\n\n4.4. Cálculo da taxa de recuperação\n\nO resultado analítico é registado, corrigido ou não para o valor da taxa de recuperação. O modo de registo e a taxa de recuperação devem ser indicados.\n\n4.5. Normas de qualidade aplicáveis aos laboratórios\n\nOs laboratórios devem respeitar o disposto na Directiva 93/99/CEE relativa a medidas adicionais respeitantes ao controlo oficial dos géneros alimentícios."
+  },
+  "fa168d09efee06e7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2002L0026 — PT — 01.07.2006 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32002L0026) [DIRECTIVA 2002/26/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/32002L0026) [de 13 de Março de 2002](http://publications.europa.eu/resource/celex/32002L0026) [que fixa os métodos de colheita de amostras e de análise para o controlo oficial do teor de ocratoxina A nos géneros alimentícios](http://publications.europa.eu/resource/celex/32002L0026) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32002L0026) (JO L 075, 16.3.2002, p.38)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 401/2006 da Comissão de 23 de Fevereiro de 2006](http://publications.europa.eu/resource/celex/32006R0401) — L 70 — 12 — 9.3.2006"
+  }
+ }
+}

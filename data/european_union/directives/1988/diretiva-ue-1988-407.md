@@ -34,6 +34,57 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-04-21'
+version_history:
+  file: diretiva-ue-1988-407.versoes.json
+  count: 2
+  source_lastmod: '2021-04-21'
+  versions:
+  - date: '1988-07-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-04-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I — Disposições gerais
+    - Suprime Artigo 1g.
+    - Suprime Artigo 2g.
+    - Suprime CAPÍTULO II — Trocas comerciais intracomunitárias
+    - Suprime Artigo 3g.
+    - Suprime Anexo B;
+    - Suprime Artigo 4g.
+    - Suprime Artigo 5g.
+    - Suprime Artigo 6g.
+    - Suprime Artigo 7g.
+    - Suprime artigo 18g. — CAPÍTULO III
+    - Suprime Artigo 8g.
+    - Suprime Artigo 9g.
+    - Suprime Artigo 10g.
+    - Suprime Artigo 11g.
+    - Suprime Artigo 12°.
+    - Suprime artigo 9g., — - que o sémen provém do território de um país terceiro do qual são proibidas as importações nos
+      termos do n° 2 do artigo 15g.,
+    - Suprime Artigo 13g.
+    - Suprime Artigo 14g. — Se forem decididas medidas de destruição em aplicação do
+    - Suprime CAPÍTULO IV — Medidas de salvaguarda e de controlo
+    - Suprime Artigo 15g.
+    - Suprime Artigo 16g.
+    - Suprime CAPÍTULO V — Disposições finais
+    - Suprime Artigo 17g. — Os anexos da presente directiva serão alterados pelo
+    - Suprime Artigo 18g.
+    - Suprime Artigo 19g.
+    - Suprime Artigo 20g.
+    - Suprime Artigo 21g.
+    - Suprime Artigo 22g. — Os Estados-membros são os destinatários da presente
+    - Suprime ANEXO A CAPÍTULO I — CONDIÇÕES DE AUTORIZAÇÃO DOS CENTROS DE COLHEITA DE SÉMEN
+    - Suprime CAPÍTULO II CONDIÇÕES RELATIVAS À FISCALIZAÇÃO DOS CENTROS DE COLHEITA DE SÉMEN
+    - Suprime artigo 19g. — EWG:L111UMBP03.96
+    - Suprime ANEXO B — CAPÍTULO I CONDIÇÕES APLICÁVEIS À ADMISSÃO DOS ANIMAIS NOS CENTROS AUTORIZADOS DE COLHEITA DE SÉMEN
+    - Suprime ANEXO C — CONDIÇÕES A PREENCHER PELO SÉMEN COLHIDO NOS CENTROS AUTORIZADOS DE COLHEITA DE SÉMEN E DESTINADO
+      ÀS TROCAS INTRACOMUNITÁRIAS
+    - Suprime ANEXO D — CERTIFICADO SANITÁRIO
 identifiers:
   celex: 31988L0407
   eli: http://data.europa.eu/eli/dir/1988/407/oj
@@ -48,7 +99,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/37c9e3d8-0e5b-474e-a86a-af7c7ea5a3ef.0011
   content_url: http://publications.europa.eu/resource/cellar/a81a0421-066a-11ec-b5d3-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01988L0407-20210421
-  retrieved_at: '2026-10-22T02:46:37Z'
+  retrieved_at: '2026-10-22T14:35:30Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T00:38:54.679+01:00'
 integrity:
@@ -57,9 +108,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:37Z'
-  notes: Texto consolidado 01988L0407-20210421.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:35:30Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1988-407.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -176,16 +227,25 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:37Z'
+  checked_at: '2026-10-22T14:35:30Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01988L0407-19900312: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01988L0407-19900726: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01988L0407-19930728: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01988L0407-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01988L0407-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01988L0407-20030611: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01988L0407-20050101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01988L0407-20060101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01988L0407-20080301: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01988L0407-20080903: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01988L0407-20111101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

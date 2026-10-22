@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2005-06-11'
+version_history:
+  file: diretiva-ue-1988-357.versoes.json
+  count: 1
+  source_lastmod: '2005-06-11'
+  versions:
+  - date: '2005-06-11'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31988L0357
   eli: http://data.europa.eu/eli/dir/1988/357/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/20ead187-9e66-4e48-acd9-24b8a336fbbe.0011
   content_url: http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01988L0357-20050611
-  retrieved_at: '2026-10-22T02:41:03Z'
+  retrieved_at: '2026-10-22T14:35:20Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-27T16:30:20.107+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:03Z'
-  notes: Texto consolidado 01988L0357-20050611.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:35:20Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-1988-357.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -176,35 +185,23 @@ relationships:
   date: '2009-12-15'
 article_structure:
   article_count: 26
-  section_count: 16
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 17
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:03Z'
-  warnings: []
+  checked_at: '2026-10-22T14:35:20Z'
+  warnings:
+  - '01988L0357-19880630: versão indisponível (Sem expressão na língua por para CELEX 01988L0357-19880630.)'
+  - '01988L0357-19901120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01988L0357-19920702: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01988L0357-20000720: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Segunda Directiva 88/357/CEE do Conselho de 22 de Junho de 1988
-
-> 1988L0357 — PT — 11.06.2005 — 004.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/31990L0618) — [DIRECTIVA DO CONSELHO 90/618/CEE de 8 de Novembro de 1990](http://publications.europa.eu/resource/celex/31990L0618) — L 330 — 44 — 29.11.1990
-- [►M2](http://publications.europa.eu/resource/celex/31992L0049) — [DIRECTIVA 92/49/CEE DO CONSELHO de 18 de Junho de 1992](http://publications.europa.eu/resource/celex/31992L0049) — L 228 — 1 — 11.8.1992
-- [►M3](http://publications.europa.eu/resource/celex/32000L0026) — [DIRECTIVA 2000/26/CE DO PARLAMENTO EUROPEU E DO CONSELHO Quarta directiva sobre o seguro automóvel de 16 de Maio de 2000](http://publications.europa.eu/resource/celex/32000L0026) — L 181 — 65 — 20.7.2000
-- [►M4](http://publications.europa.eu/resource/celex/32005L0014) — [DIRECTIVA 2005/14/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 11 de Maio de 2005](http://publications.europa.eu/resource/celex/32005L0014) — L 149 — 14 — 11.6.2005
-
-| NB: Esta versão consolidada contém referências à unidade de conta europeia e/ou ao ecu, que a partir de 1 de Janeiro de 1999 devem ser interpretadas como referências ao euro — Regulamento (CEE) n.o 3308/80 do Conselho (JO L 345 de 20.12.1980, p. 1) e Regulamento (CE) n.o 1103/97 do Conselho (JO L 162 de 19.6.1997, p. 1). |
-| --- |
-
-## SEGUNDA DIRECTIVA DO CONSELHO
 
 de 22 de Junho de 1988
 

@@ -35,6 +35,40 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2004-05-07'
+version_history:
+  file: regulamento-ue-2004-870.versoes.json
+  count: 2
+  source_lastmod: '2004-05-07'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-07'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 9.º — Selecção de acções
+    - Altera Artigo 17.º — Entrada em vigor
+    - Adita ANEXO I
+    - 'Adita PROGRAMA COMUNITÁRIO: ACÇÕES E DOMÍNIOS ELEGÍVEIS'
+    - Adita 1. Acções e domínios elegíveis
+    - Adita 2. ACÇÕES E DOMÍNIOS EXCLUÍDOS
+    - Adita 3. TIPOS DE ACÇÕES
+    - Adita 3.1. Acções específicas
+    - Adita 3.2. Acções concertadas
+    - Adita 3.3. Acções de acompanhamento
+    - 'Adita 4. ACÇÕES ESPECÍFICAS: MAIS PORMENORES ACERCA DOS DOMÍNIOS ELEGÍVEIS'
+    - Adita 4.1. Recursos genéticos agrícolas
+    - Adita 4.2. Recursos genéticos florestais
+    - Adita 4.3. Recursos genéticos animais
+    - Adita ANEXO II
+    - Adita Repartição financeira indicativa para o programa comunitário
+    - Adita Notas
+    - 'Suprime ANEXO I — PROGRAMA COMUNITÁRIO: ACÇÕES E DOMÍNIOS ELEGÍVEIS'
+    - Suprime ANEXO II — Repartição financeira indicativa para o programa comunitário
 identifiers:
   celex: 32004R0870
   eli: http://data.europa.eu/eli/reg/2004/870/oj
@@ -49,7 +83,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4747475d-fe5b-4654-bcf2-c1d88cffcc59.0010
   content_url: http://publications.europa.eu/resource/cellar/d89fd132-e101-49f3-95e3-600575da9623.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0870-20040507
-  retrieved_at: '2026-10-22T03:11:59Z'
+  retrieved_at: '2026-10-22T14:58:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-31T08:53:37.142+01:00'
 integrity:
@@ -58,9 +92,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:59Z'
-  notes: Texto consolidado 02004R0870-20040507.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:58:21Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2004-870.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -175,29 +209,19 @@ relationships:
   date: '1994-06-28'
 article_structure:
   article_count: 17
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:59Z'
+  checked_at: '2026-10-22T14:58:21Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 870/2004 do Conselho, de 24 de Abril de 2004
-
-> 2004R0870 — PT — 07.05.2004 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32004R0870R%2801%29) — [Rectificação, JO L 117, 4.5.2005, p. 22 (870/04)](http://publications.europa.eu/resource/celex/32004R0870R%2801%29)
-
-## REGULAMENTO (CE) N.º 870/2004 DO CONSELHO
 
 de [**►C1**](http://publications.europa.eu/resource/celex/32004R0870R%2801%29) 26 de Abril de 2004**◄**
 

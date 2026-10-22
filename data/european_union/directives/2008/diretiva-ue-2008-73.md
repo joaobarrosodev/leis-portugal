@@ -38,6 +38,54 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-09-03'
+version_history:
+  file: diretiva-ue-2008-73.versoes.json
+  count: 2
+  source_lastmod: '2008-09-03'
+  versions:
+  - date: '2008-08-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-09-03'
+    amending: eu:celex:32009D0436:por
+    amending_title: DECISÃO DO CONSELHO de 5 de Maio de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Alteração da Directiva 64/432/CEE
+    - Altera Artigo 2.º — Alteração da Directiva 77/504/CEE
+    - Altera Artigo 3.º — Alteração da Directiva 88/407/CEE
+    - Altera Artigo 4.º — Alteração da Directiva 88/661/CEE
+    - Altera Artigo 5.º — Alteração da Directiva 89/361/CEE
+    - Altera Artigo 6.º — Alteração da Directiva 89/556/CEE
+    - Altera Artigo 8.º — Alteração da Directiva 90/427/CEE
+    - Altera Artigo 9.º — Alteração da Directiva 90/428/CEE
+    - Altera Artigo 10.º — Alteração da Directiva 90/429/CEE
+    - Altera Artigo 11.º — Alteração da Directiva 90/539/CEE
+    - Altera Artigo 13.º — Alteração da Directiva 91/496/CEE
+    - Altera Artigo 14.º — Alteração da Directiva 92/35/CEE
+    - Altera Artigo 15.º — Alteração da Directiva 92/65/CEE
+    - Altera Artigo 16.º — Alteração da Directiva 92/66/CEE
+    - Altera Artigo 18.º — Alteração da Directiva 94/28/CE
+    - Altera Artigo 19.º — Alteração da Directiva 2000/75/CE
+    - Altera Artigo 20.º — Alteração da Directiva 2000/258/CE
+    - Altera Artigo 21.º — Alteração da Directiva 2001/89/CE
+    - Altera Artigo 22.º — Alteração da Directiva 2002/60/CE
+    - Altera Artigo 24.º — Transposição
+    - Altera Artigo 26.º — Destinatários
+    - Altera Notas
+    - Adita «4.1. Tarefas e responsabilidades
+    - Adita «Tarefas dos laboratórios nacionais da peste suína clássica»;
+    - Adita «Tarefas dos laboratórios nacionais da peste suína africana»;
+    - Adita Artigo 23.ºA — Disposições transitórias
+    - Adita Artigo 23.ºB — Procedimento de comité
+    - Adita Artigo 25.º — Entrada em vigor e aplicabilidade
+    - Adita ANEXO
+    - Adita «ANEXO I
+    - Adita ANEXO II
+    - Suprime «Artigo 4.º-A
+    - Suprime «Artigo 5.º
+    - Suprime Artigo 25.º — Entrada em vigor
 identifiers:
   celex: 32008L0073
   eli: http://data.europa.eu/eli/dir/2008/73/oj
@@ -52,7 +100,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/41f050af-2b59-44cd-95bf-c1515d650b6f.0018
   content_url: http://publications.europa.eu/resource/cellar/797a7abd-e1c7-4e83-9366-3cb1cc1e80c3.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0073-20080903
-  retrieved_at: '2026-10-22T02:47:57Z'
+  retrieved_at: '2026-10-22T15:12:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T13:18:28.243+01:00'
 integrity:
@@ -61,9 +109,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:57Z'
-  notes: Texto consolidado 02008L0073-20080903.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:12:57Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2008-73.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -252,29 +300,19 @@ relationships:
   source: null
 article_structure:
   article_count: 28
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:57Z'
+  checked_at: '2026-10-22T15:12:57Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2008/73/CE do Conselho, de 15 de Julho de 2008
-
-> 2008L0073 — PT — 03.09.2008 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009D0436) — [DECISÃO DO CONSELHO de 5 de Maio de 2009](http://publications.europa.eu/resource/celex/32009D0436) — L 145 — 43 — 10.6.2009
-
-## DIRECTIVA 2008/73/CE DO CONSELHO
 
 de 15 de Julho de 2008
 

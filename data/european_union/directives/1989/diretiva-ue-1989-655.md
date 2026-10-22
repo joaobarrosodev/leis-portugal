@@ -35,6 +35,107 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-10-23'
+version_history:
+  file: diretiva-ue-1989-655.versoes.json
+  count: 3
+  source_lastmod: '2009-10-23'
+  versions:
+  - date: '1989-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-27'
+    amending: eu:celex:31995L0063:por
+    amending_title: DIRECTIVA 95/63/CE DO CONSELHO de 5 de Dezembro de 1995; DIRECTIVA 2001/45/CE do PARLAMENTO EUROPEU E
+      DO CONSELHO Texto relevante para efeitos do EEE de 27 de Junho de 2001; DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E
+      DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007
+    changes:
+    - Altera preambulo
+    - Adita SECÇÃO I
+    - Adita Disposições gerais
+    - Adita Artigo 1.º — Objecto
+    - Adita Artigo 2.º — Definições
+    - Adita SECÇÃO II
+    - Adita OBRIGAGAÇÕES DAS ENTIDADES PATRONAIS
+    - Adita Artigo 3.º — Obrigações gerais
+    - Adita Artigo 4.º — Regras relativas aos equipamentos de trabalho
+    - Adita Artigo 4.º A — Verificações dos equipamentos de trabalho
+    - Adita Artigo 5.º — Equipamentos de trabalho que apresentam riscos específicos
+    - Adita Artigo 5.º A — Ergonomia e saúde no trabalho
+    - Adita Artigo 6.º — Informação dos trabalhadores
+    - Adita Artigo 7.º — Formação dos trabalhadores
+    - Adita Artigo 8.º — Consulta e participação dos trabalhadores
+    - Adita SECÇÃO III
+    - Adita DISPOSIÇÕES DIVERSAS
+    - Adita Artigo 9.º — Alteração [►M1](http://publications.europa.eu/resource/celex/31995L0063) dos anexos◄
+    - Adita Artigo 10.º — Disposições finais
+    - Adita Artigo 11.º
+    - Adita ANEXO [►M1](http://publications.europa.eu/resource/celex/31995L0063) I◄
+    - Adita PRESCRIÇÕES MÍNIMAS REFERIDAS NO N.º 1, ALÍNEA a), SUBALÍNEA ii), E ALÍNEA b), DO ARTIGO 4.º
+    - Adita 1. Observação prévia
+    - Adita 2. Prescrições mínimas gerais aplicáveis aos equipamentos de trabalho
+    - Adita 3. Prescrições mínimas suplementares aplicáveis a equipamentos de trabalho específicos
+    - Adita 3.1. Prescrições mínimas aplicáveis aos equipamentos de trabalho móveis, automotores ou não.
+    - Adita 3.2. Prescrições mínimas aplicáveis aos equipamentos de trabalho destinados à elevação de cargas.
+    - Adita ANEXO II
+    - Adita Disposições relativas à utilização dos equipamentos de trabalho referidos no n.º 3 do artigo 4.º
+    - Adita 0. Observação prévia
+    - Adita 1. Disposições de ordem geral aplicáveis a todos os equipamentos de trabalho
+    - Adita 2. Disposições para a utilização de equipamentos de trabalho móveis, automotores ou não
+    - Adita 3. Disposições relativas à utilização de equipamentos de trabalho destinados à elevação de cargas
+    - Adita 3.1. Generalidades
+    - Adita 3.2 Equipamentos de trabalho destinados à elevação de cargas não guiadas.
+    - Adita 4. Disposições relativas à utilização dos equipamentos de trabalho disponibilizados para trabalhos temporários
+      em altura
+    - Adita 4.1. Disposições gerais
+    - Adita 4.2. Disposições específicas relativas à utilização de escadas
+    - Adita 4.3. Disposições específicas relativas à utilização de andaimes
+    - Adita 4.4. Disposições específicas relativas à utilização de técnicas de acesso e de posicionamento por meio de cordas
+  - date: '2009-10-23'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime SECÇÃO I
+    - Suprime Disposições gerais
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Definições
+    - Suprime SECÇÃO II
+    - Suprime OBRIGAGAÇÕES DAS ENTIDADES PATRONAIS
+    - Suprime Artigo 3.º — Obrigações gerais
+    - Suprime Artigo 4.º — Regras relativas aos equipamentos de trabalho
+    - Suprime Artigo 4.º A — Verificações dos equipamentos de trabalho
+    - Suprime Artigo 5.º — Equipamentos de trabalho que apresentam riscos específicos
+    - Suprime Artigo 5.º A — Ergonomia e saúde no trabalho
+    - Suprime Artigo 6.º — Informação dos trabalhadores
+    - Suprime Artigo 7.º — Formação dos trabalhadores
+    - Suprime Artigo 8.º — Consulta e participação dos trabalhadores
+    - Suprime SECÇÃO III
+    - Suprime DISPOSIÇÕES DIVERSAS
+    - Suprime Artigo 9.º — Alteração [►M1](http://publications.europa.eu/resource/celex/31995L0063) dos anexos◄
+    - Suprime Artigo 10.º — Disposições finais
+    - Suprime Artigo 11.º
+    - Suprime ANEXO [►M1](http://publications.europa.eu/resource/celex/31995L0063) I◄
+    - Suprime PRESCRIÇÕES MÍNIMAS REFERIDAS NO N.º 1, ALÍNEA a), SUBALÍNEA ii), E ALÍNEA b), DO ARTIGO 4.º
+    - Suprime 1. Observação prévia
+    - Suprime 2. Prescrições mínimas gerais aplicáveis aos equipamentos de trabalho
+    - Suprime 3. Prescrições mínimas suplementares aplicáveis a equipamentos de trabalho específicos
+    - Suprime 3.1. Prescrições mínimas aplicáveis aos equipamentos de trabalho móveis, automotores ou não.
+    - Suprime 3.2. Prescrições mínimas aplicáveis aos equipamentos de trabalho destinados à elevação de cargas.
+    - Suprime ANEXO II
+    - Suprime Disposições relativas à utilização dos equipamentos de trabalho referidos no n.º 3 do artigo 4.º
+    - Suprime 0. Observação prévia
+    - Suprime 1. Disposições de ordem geral aplicáveis a todos os equipamentos de trabalho
+    - Suprime 2. Disposições para a utilização de equipamentos de trabalho móveis, automotores ou não
+    - Suprime 3. Disposições relativas à utilização de equipamentos de trabalho destinados à elevação de cargas
+    - Suprime 3.1. Generalidades
+    - Suprime 3.2 Equipamentos de trabalho destinados à elevação de cargas não guiadas.
+    - Suprime 4. Disposições relativas à utilização dos equipamentos de trabalho disponibilizados para trabalhos temporários
+      em altura
+    - Suprime 4.1. Disposições gerais
+    - Suprime 4.2. Disposições específicas relativas à utilização de escadas
+    - Suprime 4.3. Disposições específicas relativas à utilização de andaimes
+    - Suprime 4.4. Disposições específicas relativas à utilização de técnicas de acesso e de posicionamento por meio de cordas
 identifiers:
   celex: 31989L0655
   eli: http://data.europa.eu/eli/dir/1989/655/oj
@@ -49,7 +150,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a334f7b8-389d-4b56-b588-93e798e0fb40.0011
   content_url: http://publications.europa.eu/resource/cellar/e43e59ba-46d6-4811-b076-0d57525ea3d0.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0655-20091023
-  retrieved_at: '2026-10-22T02:44:08Z'
+  retrieved_at: '2026-10-22T14:36:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T08:14:27.123+01:00'
 integrity:
@@ -58,9 +159,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:08Z'
-  notes: Texto consolidado 01989L0655-20091023.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:36:06Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1989-655.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -149,16 +250,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:08Z'
+  checked_at: '2026-10-22T14:36:06Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01989L0655-19960119: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01989L0655-20010719: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

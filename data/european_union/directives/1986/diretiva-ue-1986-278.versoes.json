@@ -1,0 +1,649 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31986L0278:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01986L0278-20220101",
+ "dre_path": null,
+ "source_lastmod": "2022-01-01",
+ "versions": [
+  {
+   "date": "2009-04-20",
+   "future": false,
+   "celex": "01986L0278-20090420",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0aca525a7ba178fe",
+    "294cab229fb51f2d",
+    "fee3248f21ade044",
+    "67c89be15d4234b2",
+    "822a1ffb95ac99a2",
+    "c2a79eac08338aaf",
+    "6e45d09ef5329a92",
+    "3ecd16bd3f175a98",
+    "6517cfebad420cd3",
+    "b0ea40fe02c582aa",
+    "5a53c9dfb851ebc3",
+    "c193bd5faf0cfa9b",
+    "0b475c2ce8188e88",
+    "6b62f19c52b80018",
+    "7b1017f7a57dce34",
+    "bb047997caa2aa98",
+    "d22a8b2751368ad8",
+    "3b128b33a800e7e7",
+    "6eba472b34529e3a",
+    "19da765637018805",
+    "e0363ee19a873429",
+    "a48d534f60b159f9",
+    "10f63e4849932bd0",
+    "b114fafd9587629c",
+    "a4ad2b2330aa25b2",
+    "46d886f99bbdad7e",
+    "293212785bd961f6",
+    "f2eaf01ec3b4f93c",
+    "5fc95b8f64e8782f",
+    "c34c65e7672f0327",
+    "20e380943492d57d",
+    "ff06652d26fd85af",
+    "109fdf55b7e7ef1e",
+    "a73138ae8d09b664",
+    "bbd91b768e15e7c7",
+    "b2d11d4c954e859d",
+    "6372c687a6301dbf",
+    "19c26491cd34d3aa"
+   ]
+  },
+  {
+   "date": "2018-07-04",
+   "future": false,
+   "celex": "01986L0278-20180704",
+   "acts": [
+    {
+     "id": "eu:celex:32018D0853:por",
+     "title": "DECISÃO (UE) 2018/853 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018",
+     "published": null,
+     "celex": "32018D0853"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera (mg/kg de matéria seca de uma amostra representativa dos solos com pH compreendido entre 6 e 7, tal como se encontra definido no Anexo II C)",
+    "Altera (mg/kg de matéria seca)",
+    "Altera (kg/ha/ano)",
+    "Altera Notas",
+    "Adita Artigo 15.º-A",
+    "Suprime Artigo 14.º"
+   ],
+   "fragments": [
+    "8772158eddd4b112",
+    "294cab229fb51f2d",
+    "fee3248f21ade044",
+    "67c89be15d4234b2",
+    "822a1ffb95ac99a2",
+    "c2a79eac08338aaf",
+    "6e45d09ef5329a92",
+    "3ecd16bd3f175a98",
+    "6517cfebad420cd3",
+    "b0ea40fe02c582aa",
+    "5a53c9dfb851ebc3",
+    "c193bd5faf0cfa9b",
+    "0b475c2ce8188e88",
+    "91e2d8e21ba5523d",
+    "ad828286ca978882",
+    "e753d03b6e07ab3d",
+    "d22a8b2751368ad8",
+    "44da1b45a6e8bfc7",
+    "6eba472b34529e3a",
+    "19da765637018805",
+    "e0363ee19a873429",
+    "1288b0120964882d",
+    "10f63e4849932bd0",
+    "b114fafd9587629c",
+    "a8bcfa4a90073591",
+    "46d886f99bbdad7e",
+    "293212785bd961f6",
+    "dddfec9c5eda92db",
+    "5fc95b8f64e8782f",
+    "c34c65e7672f0327",
+    "20e380943492d57d",
+    "ff06652d26fd85af",
+    "109fdf55b7e7ef1e",
+    "a73138ae8d09b664",
+    "bbd91b768e15e7c7",
+    "b2d11d4c954e859d",
+    "6372c687a6301dbf",
+    "4fcb7fe7e2d559b9"
+   ]
+  },
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "celex": "01986L0278-20220101",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1010:por",
+     "title": "REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019",
+     "published": null,
+     "celex": "32019R1010"
+    },
+    {
+     "id": null,
+     "title": "ACTO (94/C 241/08)",
+     "published": null,
+     "celex": "11994N%2FACT"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 15.º-A",
+    "Altera Artigo 17.º",
+    "Altera (mg/kg de matéria seca de uma amostra representativa dos solos com pH compreendido entre 6 e 7, tal como se encontra definido no Anexo II C)",
+    "Altera (mg/kg de matéria seca)",
+    "Altera (kg/ha/ano)",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "8772158eddd4b112",
+    "294cab229fb51f2d",
+    "ff565c8eb37ddf20",
+    "8791f7109ef51bf3",
+    "822a1ffb95ac99a2",
+    "c2a79eac08338aaf",
+    "6e45d09ef5329a92",
+    "3ecd16bd3f175a98",
+    "6517cfebad420cd3",
+    "b0ea40fe02c582aa",
+    "106056d12e3c6137",
+    "c193bd5faf0cfa9b",
+    "0b475c2ce8188e88",
+    "91e2d8e21ba5523d",
+    "7b82cb5a19f69807",
+    "f35565f1282b6442",
+    "d22a8b2751368ad8",
+    "3f8fa3723fce4761",
+    "6eba472b34529e3a",
+    "19da765637018805",
+    "e0363ee19a873429",
+    "818a61708261b26e",
+    "10f63e4849932bd0",
+    "b114fafd9587629c",
+    "5b39efc20045660f",
+    "46d886f99bbdad7e",
+    "293212785bd961f6",
+    "b5d0788a7bcaabe6",
+    "5fc95b8f64e8782f",
+    "c34c65e7672f0327",
+    "20e380943492d57d",
+    "ff06652d26fd85af",
+    "109fdf55b7e7ef1e",
+    "a73138ae8d09b664",
+    "bbd91b768e15e7c7",
+    "b2d11d4c954e859d",
+    "6372c687a6301dbf",
+    "201f541ee08f5729"
+   ]
+  }
+ ],
+ "fragments": {
+  "0aca525a7ba178fe": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Junho de 1986\n\nrelativa à protecção do ambiente, e em especial dos solos, na utilização agrícola de lamas de depuração\n\n(86/278/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100.º e 235.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#E0003)),\n\nConsiderando que a presente directiva tem por objecto regulamentar a utilização agrícola das lamas de depuração por forma a evitar efeitos nocivos sobre os solos, a vegetação, os animais e o homem, incentivando ao mesmo tempo a sua correcta utilização;\n\nConsiderando que as disparidades entre as disposições nos diferentes Estados-membros relativamente à utilização de lamas na agricultura podem repercutir-se no funcionamento do mercado comum; que é portanto conveniente proceder nesta área à aproximação de legislações prevista no artigo 100.º do Tratado;\n\nConsiderando que as lamas de depuração utilizadas no âmbito da exploração agrícola não estão abrangidas pela Directiva 75/442/CEE do Conselho, de 15 de Julho de 1975, relativa aos detritos ([^4^](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#E0004));\n\nConsiderando que as medidas previstas na Directiva 78/319/CEE do Conselho, de 20 de Março de 1978, relativa aos detritos tóxicos e perigosos ([^5^](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#E0005)), se aplicam igualmente às lamas de depuração, na medida em que tais lamas contenham ou estejam contaminadas por qualquer das substâncias ou matérias constantes do anexo dessa directiva que sejam de natureza, teor ou concentração susceptível de constituir um risco para a saúde ou para o ambiente;\n\nConsiderando que importa prever um regime especial que faculte uma total garantia de que será assegurada a protecção do homem, dos animais, dos vegetais e do ambiente contra os efeitos nocivos da utilização não controlada das lamas;\n\nConsiderando que esta directiva tem ainda como objectivo elaborar algumas primeiras medidas comunitárias no âmbito da protecção dos solos;\n\nConsiderando que as lamas podem ter propriedades agronómicas e que, por conseguinte, se justifica incentivar a sua valorização na agricultura desde que correctamente utilizadas; que a aplicação das lamas de depuração não deve prejudicar a qualidade dos solos e da produção agrícola;\n\nConsiderando que certos metais pesados são tóxicos para as plantas e para o homem através da sua presença nas colheitas, e que importa fixar valores-limite obrigatórios para estes elementos no solo;\n\nConsiderando que há que proibir a utilização das lamas sempre que a concentração dos referidos metais nos solos ultrapasse tais valores-limite;\n\nConsiderando ainda que é conveniente evitar que esses valores-limite sejam ultrapassados na sequência de uma aplicação de lamas; que importa para o efeito limitar a adição de metais pesados aos solos cultivados, quer mediante a fixação de quantidades máximas anuais de adição de lamas, zelando por que não sejam ultrapassados os valores-limite de concentrações de metais pesados nas lamas utilizadas, quer zelando por que não sejam ultrapassados os valores-limite aplicáveis às quantidades de metais pesados adicionados ao solo com base numa média de dez anos;\n\nConsiderando que as lamas têm de ser tratadas previamente à sua utilização na agricultura; que os Estados podem, no entanto, autorizar em certas condições a utilização de lamas não tratadas, sem risco para a saúde humana ou animal, caso sejam injectadas ou enterradas no solo;\n\nConsiderando que deve ser respeitado um certo prazo entre a utilização das lamas e a utilização dos prados para pastagem, a colheita das culturas forrageiras ou de certas culturas que estão normalmente em contacto directo com o solo e são consumidas cruas; que a utilização das lamas nas culturas hortícolas e de frutas deve ser proibida durante a fase vegetativa, excepto no caso de árvores de fruto;\n\nConsiderando que, em conformidade com a Directiva 75/440/CEE ([^6^](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#E0006)) e com a Directiva 80/68/CEE ([^7^](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#E0007)), a utilização deve ser efectuada em condições que garantam a protecção do solo e das águas superficiais e subterrâneas;\n\nConsiderando que para o efeito é necessário controlar a qualidade das lamas e dos solos em que são utilizadas e que por conseguinte terá de efectuar-se a respectiva análise e comunicar aos utilizadores determinados resultados;\n\nConsiderando que, para o melhor conhecimento da utilização das lamas na agricultura, há que estar na posse de certos dados essenciais, a comunicar à Comissão sob a forma de relatórios periódicos; que à luz de tais relatórios, a Comissão apresentará, caso necessário, propostas tendentes a salvaguardar uma maior protecção dos solos e do ambiente;\n\nConsiderando que as lamas provenientes de estações de depuração de pequenas dimensões, que tratem essencialmente apenas águas de origem doméstica, apresentam riscos reduzidos para a saúde humana, animal, vegetal e para o ambiente e que, por conseguinte, é conveniente permitir, relativamente a estas lamas, a isenção de algumas das obrigações de informação previstas em matéria de informação e de análise;\n\nConsiderando que os Estados-membros devem poder estabelecer disposições mais restritivas do que as contidas na presente directiva; e que essas disposições devem ser comunicadas à Comissão;\n\nConsiderando que o progresso técnico e científico pode vir a criar a necessidade de uma rápida adaptação de algumas das disposições contidas na presente directiva; que, para facilitar a execução das medidas necessárias para o efeito, há que prever um procedimento que estabeleça uma cooperação estreita entre os Estados-membros e a Comissão; que essa cooperação deve efectuar-se no seio de um comité para a adaptação ao progresso técnico e científico;\n\nConsiderando que não tendo sido previstos pelo Tratado poderes de acção para além dos do artigo 235.º;\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "294cab229fb51f2d": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva tem por objectivo regulamentar a utilização das lamas de depuração na agricultura, de modo a evitar efeitos nocivos nos solos, na vegetação, nos animais e no homem, encorajando ao mesmo tempo a sua correcta utilização."
+  },
+  "fee3248f21ade044": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Lamas»:\n\ni) As lamas residuais provenientes de estações de depuração que tratam águas residuais domésticas ou urbanas e de outras estações de depuração que tratam águas residuais de composição similar às águas residuais domésticas e urbanas;\n\nii) As lamas residuais de fossas sépticas e de outras instalações similares para o tratamento de águas residuais;\n\niii) As lamas residuais provenientes de estações de depuração diferentes das referidas em i) e ii);\n\nb) «Lamas tratadas»:\n\nc) «Agricultura»:\n\nd) «Utilização»:"
+  },
+  "67c89be15d4234b2": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As lamas referidas na alínea a), ponto i), do artigo 2.º, só podem ser utilizadas na agricultura em conformidade com a presente directiva.\n\n2. Sem prejuízo da Directiva 75/442/CEE e da Directiva 78/319/CEE:\n\n— as lamas referidas na alínea a), ponto ii), do artigo 2.º podem ser utilizadas na agricultura, sob reserva das condições que o Estado-membro em questão possa considerar necessárias a fim de assegurar a protecção da saúde do homem e do ambiente,\n\n— as lamas referidas na alínea a), ponto iii), do artigo 2.º podem ser utilizadas na agricultura com a condição de a sua utilização ser regulamentada pelo Estado-membro em questão."
+  },
+  "822a1ffb95ac99a2": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs valores relativos às concentrações de metais pesados nos solos receptores de lamas, às concentrações de metais pesados nas lamas e às quantidades máximas anuais destes metais pesados que podem ser introduzidas nos solos de utilização agrícola constam dos Anexos I A, I B e I C."
+  },
+  "c2a79eac08338aaf": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSem prejuízo do artigo 12.º:\n\n1. Os Estados-membros proibirão a utilização de lamas sempre que a concentração de um ou vários metais pesados nos solos ultrapasse os valores-limite por eles fixados em conformidade com o Anexo I A e tomarão as medidas necessárias para assegurar que esses valores-limite não sejam ultrapassados na sequência da utilização das lamas.\n\n2. Os Estados-membros regulamentarão a utilização das lamas de maneira a que a acumulação dos metais pesados nos solos não conduza a uma ultrapassagem dos valores-limite referidos no n.º 1. Para tal, aplicarão qualquer um dos procedimentos previstos nas alíneas a) e b) infra:\n\na) Os Estados-membros fixarão as quantidades máximas de lamas expressas em toneladas de matéria seca que podem ser fornecidas ao solo por unidade de superfície e por ano, respeitando os valores-limite de concentração de metais pesados nas lamas, que fixarão em conformidade com o Anexo I B;\n\nb) Os Estados-membros assegurarão o respeito de valores-limite de quantidades de metais introduzidos no solo por unidade de superfície e por unidade de tempo que constam no Anexo I C."
+  },
+  "6e45d09ef5329a92": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSem prejuízo do artigo 7.º:\n\na) As lamas serão tratadas antes de serem utilizadas na agricultura. Todavia, os Estados-membros podem autorizar nas condições que estabelecerem a utilização das lamas não tratadas, se elas forem injectadas ou enterradas no solo;\n\nb) Os produtores de lamas de depuração fornecerão regularmente aos utilizadores todas as informações referidas no Anexo II A."
+  },
+  "3ecd16bd3f175a98": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-membros proibirão a utilização ou a entrega das lamas destinadas a serem utilizadas:\n\na) Em prados ou culturas forrageiras, se nessas terras se proceder a pastagem ou à colheita de culturas forrageiras, antes de expirar um certo prazo. Este prazo, que será fixado pelos Estados-membros tendo em conta, nomeadamente, a sua situação geográfica e climatérica, não pode em nenhum caso ser inferior a três semanas;\n\nb) Em culturas hortícolas e frutícolas durante o período vegetativo, com excepção das culturas de árvores de fruto;\n\nc) Em solos destinados a culturas hortícolas ou frutícolas que estejam normalmente em contacto directo com o solo e que sejam normalmente consumidas em cru, durante um período de dez meses antes da colheita e durante a colheita."
+  },
+  "6517cfebad420cd3": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA utilização das lamas processa-se de acordo com as regras seguintes:\n\n— a utilização deve ter em conta as necessidades nutricionais das plantas e não pode comprometer a qualidade do solo e das águas superficiais e subterrâneas,\n\n— se forem utilizadas lamas em solos cujo pH é inferior a 6, os Estados-membros terão em conta o aumento da mobilidade dos metais pesados e da sua absorção pelas plantas e, se for necessário, reduzirão os valores-limite que fixaram em conformidade com o Anexo I A."
+  },
+  "b0ea40fe02c582aa": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs lamas e os solos sobre os quais elas são utilizadas serão analisados segundo o esquema referido nos Anexos II A e II B.\n\nOs métodos de referência de amostragem e de análise são indicados no Anexo II C."
+  },
+  "5a53c9dfb851ebc3": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-membros zelarão por que se mantenham actualizados registos onde são anotados:\n\na) As quantidades de lamas produzidas e as entregues à agricultura;\n\nb) A composição e as características das lamas em relação aos parâmetros referidos no Anexo II A;\n\nc) O tipo de tratamento efectuado, tal como definido na alínea b) do artigo 2.º;\n\nd) Os nomes e endereços dos destinatários das lamas e os locais de utilização das lamas.\n\n2. Esses registos são mantidos à disposição das autoridades competentes e servem para estabelecer o relatório de síntese referido no artigo 17.º.\n\n3. A seu pedido, os métodos de tratamento e os resultados de análise são comunicados às autoridades competentes."
+  },
+  "c193bd5faf0cfa9b": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Estados-membros podem isentar das disposições da alínea b) do artigo 6.º e do n.º 1, alíneas b), c) e d), e do n.º 2 do artigo 10.º as lamas provenientes de estações de depuração de águas residuais cuja capacidade de tratamento seja inferior a 300 Kg DBO5 por dia, correspondendo a 5 000 unidades equivalente habitantes e que sejam destinadas essencialmente ao tratamento das águas residuais de origem doméstica."
+  },
+  "0b475c2ce8188e88": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-membros podem, se as condições o exigirem, adoptar medidas mais severas do que as previstas na presente directiva.\n\nQualquer decisão dessa ordem será imediatamente comunicada à Comissão, em conformidade com os acordos existentes."
+  },
+  "6b62f19c52b80018": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA Comissão adapta ao progresso técnico e científico as disposições dos anexos da directiva, com excepção dos parâmetros e valores referidos nos anexos I A, I B e I C, de qualquer elemento susceptível de afectar a avaliação desses valores, bem como dos parâmetros a analisar referidos nos anexos II A e II B.\n\nEssas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 15.º."
+  },
+  "7b1017f7a57dce34": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. É instituído um Comité de Adaptação ao Progresso Técnico e Científico, adiante denominado «Comité», que será composto por representantes dos Estados-membros e presidido por um representante da Comissão."
+  },
+  "bb047997caa2aa98": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. A Comissão é assistida pelo comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "d22a8b2751368ad8": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva num prazo de três anos a contar da sua notificação.\n\nOs Estados-membros informarão desse facto imediatamente a Comissão.\n\nOs Estados-membros comunicarão à Comissão o texto das disposições de direito interno que adoptarem no domínio regido pela presente directiva."
+  },
+  "3b128b33a800e7e7": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nDe três em três anos os Estados-membros transmitirão à Comissão informações sobre a aplicação da presente directiva, no âmbito de um relatório sectorial que abranja igualmente as outras directivas comunitárias pertinentes. Esse relatório deve ser elaborado com base num questionário ou num esquema elaborado pela Comissão de acordo com o procedimento previsto no artigo 6.º da Directiva 91/692/CEE ([^8^](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#E0008)). Esse questionário ou esquema deve ser enviado aos Estados-membros seis meses antes do início do período abrangido pelo relatório. O relatório deve ser enviado à Comissão num prazo de nove meses a contar do final do período de três anos a que se refere.\n\nO primeiro relatório abrangerá o período de 1995 a 1997, inclusive.\n\nA Comissão publicará um relatório comunitário sobre a aplicação da directiva num prazo de nove meses a contar da recepção dos relatórios dos Estados-membros."
+  },
+  "6eba472b34529e3a": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "19da765637018805": {
+   "fragment_id": "ANEXO I A",
+   "type": "divisao",
+   "heading": "ANEXO I A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I A"
+  },
+  "e0363ee19a873429": {
+   "fragment_id": "VALORES-LIMITE DE CONCENTRAÇÃO DE METAIS PESADOS NOS SOLOS",
+   "type": "divisao",
+   "heading": "VALORES-LIMITE DE CONCENTRAÇÃO DE METAIS PESADOS NOS SOLOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VALORES-LIMITE DE CONCENTRAÇÃO DE METAIS PESADOS NOS SOLOS"
+  },
+  "a48d534f60b159f9": {
+   "fragment_id": "(mg/kg de matéria seca de uma amostra representativa dos solos com pH compreendido entre 6 e 7, tal como se encontra definido no Anexo II C)",
+   "type": "divisao",
+   "heading": "(mg/kg de matéria seca de uma amostra representativa dos solos com pH compreendido entre 6 e 7, tal como se encontra definido no Anexo II C)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (mg/kg de matéria seca de uma amostra representativa dos solos com pH compreendido entre 6 e 7, tal como se encontra definido no Anexo II C)\n\n| Parâmetros | Valores-limite [(^1^)](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#E0009) |\n| --- | --- |\n| Cádmio | 1 a 3 |\n| Cobre [(^2^)](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#E0010) | 50 a 140 |\n| Níquel [(^2^)](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#E0010) | 30 a 75 |\n| Chumbo | 50 a 300 |\n| Zinco [(^2^)](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#E0010) | 150 a 300 |\n| Mercúrio | 1 a 1,5 |\n| Crómio [(^3^)](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#E0011) | — |\n| (^1^)Os Estados-membros podem autorizar valores superiores aos limites acima reproduzidos quando se utilizem lamas em terrenos que, no momento da notificação da presente directiva, sejam destinados à eliminação de lamas mas onde se efectuem culturas com fins comerciais e destinadas unicamente ao consumo animal. Os Estados-membros comunicarão à Comissão o número e a natureza dos locais em causa. Zelarão além disso por que daí não resulte qualquer perigo para o homem e o ambiente. (^2^)Os Estados-membros podem autorizar que os valores-limite destes parâmetros sejam excedidos em terrenos cujo pH seja permanentemente superior a 7. Em caso algum podem as concentrações máximas autorizadas apresentar valores que excedam em mais de 50 % os valores acima reproduzidos. Os Estados-membros zelarão, além disso, por que do facto não resulte qualquer perigo para o homem e o ambiente e, nomeadamente, para os lençóis de água subterrâneos. (^3^)Não é possível neste estádio fixar valores-limite para o crómio. O Conselho fixará esses valores-limite num estádio posterior com base em propostas que apresentará à Comissão no prazo de um ano a seguir à notificação da presente directiva. |  |"
+  },
+  "10f63e4849932bd0": {
+   "fragment_id": "ANEXO I B",
+   "type": "divisao",
+   "heading": "ANEXO I B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I B"
+  },
+  "b114fafd9587629c": {
+   "fragment_id": "VALORES-LIMITE DE CONCENTRAÇÃO DE METAIS PESADOS NAS LAMAS DESTINADAS À ESTRUMAÇÃO NA AGRICULTURA",
+   "type": "divisao",
+   "heading": "VALORES-LIMITE DE CONCENTRAÇÃO DE METAIS PESADOS NAS LAMAS DESTINADAS À ESTRUMAÇÃO NA AGRICULTURA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VALORES-LIMITE DE CONCENTRAÇÃO DE METAIS PESADOS NAS LAMAS DESTINADAS À ESTRUMAÇÃO NA AGRICULTURA"
+  },
+  "a4ad2b2330aa25b2": {
+   "fragment_id": "(mg/kg de matéria seca)",
+   "type": "divisao",
+   "heading": "(mg/kg de matéria seca)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (mg/kg de matéria seca)\n\n| Parâmetros | Valores-limite |\n| --- | --- |\n| Cádmio | 20 a 40 |\n| Cobre | 1 000 a 1 750 |\n| Níquel | 300 a 400 |\n| Chumbo | 750 a 1 200 |\n| Zinco | 2 500 a 4 000 |\n| Mercúrio | 16 a 25 |\n| Crómio [(^1^)](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#E0012) | — |\n| (^1^)Não é possível neste estádio fixar valores-limite para o crómio. O Conselho fixará esses valores-limite num estádio posterior com base em propostas que apresentará à Comissão no prazo de um ano a seguir à notificação da presente directiva. |  |"
+  },
+  "46d886f99bbdad7e": {
+   "fragment_id": "ANEXO I C",
+   "type": "divisao",
+   "heading": "ANEXO I C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I C"
+  },
+  "293212785bd961f6": {
+   "fragment_id": "VALORES-LIMITE PARA AS QUANTIDADES ANUAIS DE METAIS PESADOS QUE PODEM SER INTRODUZIDOS NOS SOLOS CULTIVADOS COM BASE NUMA MÉDIA DE 10 ANOS",
+   "type": "divisao",
+   "heading": "VALORES-LIMITE PARA AS QUANTIDADES ANUAIS DE METAIS PESADOS QUE PODEM SER INTRODUZIDOS NOS SOLOS CULTIVADOS COM BASE NUMA MÉDIA DE 10 ANOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VALORES-LIMITE PARA AS QUANTIDADES ANUAIS DE METAIS PESADOS QUE PODEM SER INTRODUZIDOS NOS SOLOS CULTIVADOS COM BASE NUMA MÉDIA DE 10 ANOS"
+  },
+  "f2eaf01ec3b4f93c": {
+   "fragment_id": "(kg/ha/ano)",
+   "type": "divisao",
+   "heading": "(kg/ha/ano)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (kg/ha/ano)\n\n| Parâmetros | Valores-limite [(^1^)](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#E0013) |\n| --- | --- |\n| Cádmio | 0,15 |\n| Cobre | 12 |\n| Níquel | 3 |\n| Chumbo | 15 |\n| Zinco | 30 |\n| Mercúrio | 0,1 |\n| Crómio [(^2^)](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#E0014) | — |\n| (^1^)Os Estados-membros podem autorizar valores superiores aos limites acima reproduzidos quando se utilizem lamas em terrenos que, no momento da notificação da presente directiva, sejam destinadas à eliminação de lamas mas onde se efectuem culturas com fins comerciais e destinadas unicamente ao consumo animal. Os Estados-membros comunicarão à Comissão o número e a natureza dos locais em causa. Zelarão além disso por que daí não resulte qualquer perigo para o homem e o ambiente. (^2^)Não é possível neste estádio fixar valores-limite para o crómio. O Conselho fixará esses valores-limite num estádio posterior com base em propostas que apresentará à Comissão no prazo da presente directiva. |  |"
+  },
+  "5fc95b8f64e8782f": {
+   "fragment_id": "ANEXO II A",
+   "type": "divisao",
+   "heading": "ANEXO II A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II A"
+  },
+  "c34c65e7672f0327": {
+   "fragment_id": "ANÁLISE DAS LAMAS",
+   "type": "divisao",
+   "heading": "ANÁLISE DAS LAMAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ANÁLISE DAS LAMAS\n\n1. Regra geral, as lamas devem ser analisadas de seis em seis meses, pelo menos. Se surgirem variações na qualidade das águas tratadas, deve ser aumentada a frequência das análises. Se os resultados das análises não variarem de maneira significativa durante um período de um ano, as lamas devem ser analisadas de doze em doze meses.\n\n2. No caso das lamas provenientes das estações de depuração referidas no artigo 11.º, se não tiver sido efectuada qualquer análise nos doze meses anteriores à aplicação da presente directiva, deve ser efectuada uma análise num prazo de doze meses a contar da aplicação da presente directiva, ou, eventualmente, num prazo de seis meses a contar da decisão de autorização da utilização na agricultura das lamas provenientes de tal estação. Os Estados-membros decidirão da frequência de análises posteriores em função dos resultados da primeira análise das eventuais variações surgidas na natureza das águas residuais tratadas e de quaisquer outros elementos pertinentes.\n\n3. Sem prejuízo do n.º 4, devem ser analisados os seguintes parâmetros: — matéria seca, matéria orgânica, — PH, — azoto e fósforo, — cádmio, cobre, níquel, chumbo, zinco, mercúrio e crómio.\n\n4. Para o cobre, o zinco e o crómio, quando se demonstrar a contento da autoridade competente do Estado-membro que tais metais não se encontram presentes ou apenas se encontram presentes em quantidade desprezível nas águas residuais tratadas pela estação de depuração, os Estados-membros decidirão das análises a efectuar."
+  },
+  "20e380943492d57d": {
+   "fragment_id": "ANEXO II B",
+   "type": "divisao",
+   "heading": "ANEXO II B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II B"
+  },
+  "ff06652d26fd85af": {
+   "fragment_id": "ANÁLISE DOS SOLOS",
+   "type": "divisao",
+   "heading": "ANÁLISE DOS SOLOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ANÁLISE DOS SOLOS\n\n1. Antes de qualquer utilização das lamas, com excepção das provenientes das estações de depuração referidas no artigo 11.º, os Estados-membros devem obter a garantia de que os teores de metais pesados dos solos não ultrapassam os valores-limite fixados nos termos do Anexo I A. Para o efeito, os Estados-membros decidirão das análises a efectuar, tendo em conta os dados científicos disponíveis sobre as características dos solos e a sua homogeneidade.\n\n2. Os Estados-membros decidirão da frequência das análises posteriores, tendo em conta o teor de metais dos solos antes da utilização das lamas, a quantidade e a composição das lamas utilizadas, bem como qualquer outro elemento pertinente.\n\n3. Devem ser analisados os seguintes parâmetros: — pH, — cádmio, cobre, níquel, chumbo, zinco, mercúrio, crómio."
+  },
+  "109fdf55b7e7ef1e": {
+   "fragment_id": "ANEXO II C",
+   "type": "divisao",
+   "heading": "ANEXO II C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II C"
+  },
+  "a73138ae8d09b664": {
+   "fragment_id": "MÉTODOS DE AMOSTRAGEM E DE ANÁLISE",
+   "type": "divisao",
+   "heading": "MÉTODOS DE AMOSTRAGEM E DE ANÁLISE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MÉTODOS DE AMOSTRAGEM E DE ANÁLISE"
+  },
+  "bbd91b768e15e7c7": {
+   "fragment_id": "1. Amostragem dos solos",
+   "type": "divisao",
+   "heading": "1. Amostragem dos solos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Amostragem dos solos\n\nAs amostras representativas dos solos sujeitos à análise devem ser constituídas pela mistura de 25 subamostras efectuada numa superfície inferior ou igual a cinco hectares homogeneamente explorada.\n\nAs colheitas devem ser efectuadas a uma profundidade de 25 cm, salvo se a profundidade da camada arável for inferior a este valor, não devendo, neste caso, a profundidade da colheita ser inferior a 10 cm."
+  },
+  "b2d11d4c954e859d": {
+   "fragment_id": "2. Amostragem das lamas",
+   "type": "divisao",
+   "heading": "2. Amostragem das lamas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Amostragem das lamas\n\nAs lamas serão objecto de amostragem após tratamento, mas antes da entrega ao utilizador, e devem ser representativas das lamas produzidas."
+  },
+  "6372c687a6301dbf": {
+   "fragment_id": "3. Métodos de análise",
+   "type": "divisao",
+   "heading": "3. Métodos de análise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Métodos de análise\n\nA análise dos metais pesados é efectuada após digestão com ácido forte. O método de referência da análise é a espectrometria de absorção atómica. O limite de detecção para cada metal não deve exceder 10 % do valor-limite adequado.\n\n---"
+  },
+  "19c26491cd34d3aa": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#src.E0001)) JO n.º C 264 de 8.10.1982, p. 3 e JO n.º C 154 de 14.6.1984, p. 6.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#src.E0002)) JO n.º C 77 de 19.3.1984, p. 136.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#src.E0003)) JO n.º C 90 de 5.4.1983, p. 27.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#src.E0004)) JO n.º L 194 de 25.7.1975, p. 39.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#src.E0005)) JO n.º L 84 de 31.3.1978, p. 43.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#src.E0006)) JO n.º L 194 de 25.7.1975, p. 26.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#src.E0007)) JO n.º L 20 de 26.1.1980, p. 43.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/f912f8c5-8f00-4416-95e3-0fbc40b64a8a.0018.03/DOC_1#src.E0008)) JO n.º L 377 de 31.12.1991, p. 48."
+  },
+  "8772158eddd4b112": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Junho de 1986\n\nrelativa à protecção do ambiente, e em especial dos solos, na utilização agrícola de lamas de depuração\n\n(86/278/CEE)"
+  },
+  "91e2d8e21ba5523d": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 15.º-A no que diz respeito à alteração dos anexos a fim de os adaptar ao progresso técnico e científico.\n\nO primeiro parágrafo não é aplicável aos parâmetros e aos valores referidos nos anexos I A, I B e I C, a quaisquer fatores suscetíveis de afetar a avaliação desses valores, nem aos parâmetros de análise referidos nos anexos II A e II B."
+  },
+  "ad828286ca978882": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. A Comissão é assistida pelo comité criado pelo artigo 39.º da Diretiva 2008/98/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/653444a8-562f-4378-8b3f-1f5db680d30f.0015.02/DOC_1#E0001)). Este comité é um comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/653444a8-562f-4378-8b3f-1f5db680d30f.0015.02/DOC_1#E0002)).\n\n2. Caso se remeta para o presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "e753d03b6e07ab3d": {
+   "fragment_id": "Artigo 15.º-A",
+   "type": "artigo",
+   "heading": "Artigo 15.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º-A\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 13.º é conferido à Comissão por um prazo de cinco anos a contar de 4 de Julho de 2018. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. O relatório é apresentado ao Parlamento Europeu e ao Conselho. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 13.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^3^](http://publications.europa.eu/resource/cellar/653444a8-562f-4378-8b3f-1f5db680d30f.0015.02/DOC_1#E0003)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 13.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "44da1b45a6e8bfc7": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nDe três em três anos, os Estados‐Membros devem transmitir à Comissão informações sobre a aplicação da presente diretiva, no âmbito de um relatório sectorial que abranja igualmente outras diretivas comunitárias pertinentes. Os relatórios setoriais devem ser elaborados com base num questionário ou num modelo adotados pela Comissão sob a forma de um ato de execução. O referido ato de execução deve ser adotado pelo procedimento de exame a que se refere o artigo 15.º, n.º 2. O questionário ou modelo deve ser enviado aos Estados-Membros seis meses antes do início do período abrangido pelo relatório. O relatório deve ser enviado à Comissão no prazo de nove meses a contar do final do período de três anos a que se refere.\n\nO primeiro relatório abrangerá o período de 1995 a 1997, inclusive.\n\nA Comissão publicará um relatório comunitário sobre a aplicação da directiva num prazo de nove meses a contar da recepção dos relatórios dos Estados-membros."
+  },
+  "1288b0120964882d": {
+   "fragment_id": "(mg/kg de matéria seca de uma amostra representativa dos solos com pH compreendido entre 6 e 7, tal como se encontra definido no Anexo II C)",
+   "type": "divisao",
+   "heading": "(mg/kg de matéria seca de uma amostra representativa dos solos com pH compreendido entre 6 e 7, tal como se encontra definido no Anexo II C)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (mg/kg de matéria seca de uma amostra representativa dos solos com pH compreendido entre 6 e 7, tal como se encontra definido no Anexo II C)\n\n| Parâmetros | Valores-limite [(^1^)](http://publications.europa.eu/resource/cellar/653444a8-562f-4378-8b3f-1f5db680d30f.0015.02/DOC_1#E0004) |\n| --- | --- |\n| Cádmio | 1 a 3 |\n| Cobre [(^2^)](http://publications.europa.eu/resource/cellar/653444a8-562f-4378-8b3f-1f5db680d30f.0015.02/DOC_1#E0005) | 50 a 140 |\n| Níquel [(^2^)](http://publications.europa.eu/resource/cellar/653444a8-562f-4378-8b3f-1f5db680d30f.0015.02/DOC_1#E0005) | 30 a 75 |\n| Chumbo | 50 a 300 |\n| Zinco [(^2^)](http://publications.europa.eu/resource/cellar/653444a8-562f-4378-8b3f-1f5db680d30f.0015.02/DOC_1#E0005) | 150 a 300 |\n| Mercúrio | 1 a 1,5 |\n| Crómio [(^3^)](http://publications.europa.eu/resource/cellar/653444a8-562f-4378-8b3f-1f5db680d30f.0015.02/DOC_1#E0006) | — |\n| (^1^)Os Estados-membros podem autorizar valores superiores aos limites acima reproduzidos quando se utilizem lamas em terrenos que, no momento da notificação da presente directiva, sejam destinados à eliminação de lamas mas onde se efectuem culturas com fins comerciais e destinadas unicamente ao consumo animal. Os Estados-membros comunicarão à Comissão o número e a natureza dos locais em causa. Zelarão além disso por que daí não resulte qualquer perigo para o homem e o ambiente. (^2^)Os Estados-membros podem autorizar que os valores-limite destes parâmetros sejam excedidos em terrenos cujo pH seja permanentemente superior a 7. Em caso algum podem as concentrações máximas autorizadas apresentar valores que excedam em mais de 50 % os valores acima reproduzidos. Os Estados-membros zelarão, além disso, por que do facto não resulte qualquer perigo para o homem e o ambiente e, nomeadamente, para os lençóis de água subterrâneos. (^3^)Não é possível neste estádio fixar valores-limite para o crómio. O Conselho fixará esses valores-limite num estádio posterior com base em propostas que apresentará à Comissão no prazo de um ano a seguir à notificação da presente directiva. |  |"
+  },
+  "a8bcfa4a90073591": {
+   "fragment_id": "(mg/kg de matéria seca)",
+   "type": "divisao",
+   "heading": "(mg/kg de matéria seca)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (mg/kg de matéria seca)\n\n| Parâmetros | Valores-limite |\n| --- | --- |\n| Cádmio | 20 a 40 |\n| Cobre | 1 000 a 1 750 |\n| Níquel | 300 a 400 |\n| Chumbo | 750 a 1 200 |\n| Zinco | 2 500 a 4 000 |\n| Mercúrio | 16 a 25 |\n| Crómio [(^1^)](http://publications.europa.eu/resource/cellar/653444a8-562f-4378-8b3f-1f5db680d30f.0015.02/DOC_1#E0007) | — |\n| (^1^)Não é possível neste estádio fixar valores-limite para o crómio. O Conselho fixará esses valores-limite num estádio posterior com base em propostas que apresentará à Comissão no prazo de um ano a seguir à notificação da presente directiva. |  |"
+  },
+  "dddfec9c5eda92db": {
+   "fragment_id": "(kg/ha/ano)",
+   "type": "divisao",
+   "heading": "(kg/ha/ano)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (kg/ha/ano)\n\n| Parâmetros | Valores-limite [(^1^)](http://publications.europa.eu/resource/cellar/653444a8-562f-4378-8b3f-1f5db680d30f.0015.02/DOC_1#E0008) |\n| --- | --- |\n| Cádmio | 0,15 |\n| Cobre | 12 |\n| Níquel | 3 |\n| Chumbo | 15 |\n| Zinco | 30 |\n| Mercúrio | 0,1 |\n| Crómio [(^2^)](http://publications.europa.eu/resource/cellar/653444a8-562f-4378-8b3f-1f5db680d30f.0015.02/DOC_1#E0009) | — |\n| (^1^)Os Estados-membros podem autorizar valores superiores aos limites acima reproduzidos quando se utilizem lamas em terrenos que, no momento da notificação da presente directiva, sejam destinadas à eliminação de lamas mas onde se efectuem culturas com fins comerciais e destinadas unicamente ao consumo animal. Os Estados-membros comunicarão à Comissão o número e a natureza dos locais em causa. Zelarão além disso por que daí não resulte qualquer perigo para o homem e o ambiente. (^2^)Não é possível neste estádio fixar valores-limite para o crómio. O Conselho fixará esses valores-limite num estádio posterior com base em propostas que apresentará à Comissão no prazo da presente directiva. |  |"
+  },
+  "4fcb7fe7e2d559b9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/653444a8-562f-4378-8b3f-1f5db680d30f.0015.02/DOC_1#src.E0001)) Diretiva 2008/98/CE do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, relativa aos resíduos e que revoga certas diretivas (JO L 312 de 22.11.2008, p. 3).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/653444a8-562f-4378-8b3f-1f5db680d30f.0015.02/DOC_1#src.E0002)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/653444a8-562f-4378-8b3f-1f5db680d30f.0015.02/DOC_1#src.E0003)) JO L 123 de 12.5.2016, p. 1."
+  },
+  "ff565c8eb37ddf20": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Lamas»:\n\ni) As lamas residuais provenientes de estações de depuração que tratam águas residuais domésticas ou urbanas e de outras estações de depuração que tratam águas residuais de composição similar às águas residuais domésticas e urbanas;\n\nii) As lamas residuais de fossas sépticas e de outras instalações similares para o tratamento de águas residuais;\n\niii) As lamas residuais provenientes de estações de depuração diferentes das referidas em i) e ii);\n\nb) «Lamas tratadas»:\n\nc) «Agricultura»:\n\nd) «Utilização»:\n\ne) «Serviços de dados geográficos», serviços de dados geográficos na aceção do artigo 3.º, ponto 4, da Diretiva 2007/2/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/9f516003-4c69-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0001));\n\nf) «Conjunto de dados geográficos», um conjunto de dados geográficos na aceção do artigo 3.º, ponto 3, da Diretiva 2007/2/CE."
+  },
+  "8791f7109ef51bf3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As lamas referidas na alínea a), ponto i), do artigo 2.º, só podem ser utilizadas na agricultura em conformidade com a presente directiva.\n\n2.\n\nSem prejuízo da Directiva 75/442/CEE e da Directiva 78/319/CEE:\n\n— as lamas referidas na alínea a), ponto ii), do artigo 2.º podem ser utilizadas na agricultura, sob reserva das condições que o Estado-membro em questão possa considerar necessárias a fim de assegurar a protecção da saúde do homem e do ambiente,\n\n— as lamas referidas na alínea a), ponto iii), do artigo 2.º podem ser utilizadas na agricultura com a condição de a sua utilização ser regulamentada pelo Estado-membro em questão."
+  },
+  "106056d12e3c6137": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1.\n\nOs Estados-Membros asseguram que os registos se mantenham atualizados e que neles se anotem:\n\na) As quantidades de lamas produzidas e as entregues à agricultura;\n\nb) A composição e as características das lamas em relação aos parâmetros referidos no anexo II A;\n\nc) O tipo de tratamento efetuado, na aceção do artigo 2.º, alínea b);\n\nd) Os nomes e endereços dos destinatários das lamas e os locais de utilização das lamas;\n\ne) Quaisquer outras informações sobre a transposição e aplicação da presente diretiva facultadas pelos Estados-Membros à Comissão nos termos do artigo 17.º.\n\nA apresentação dos conjuntos de dados geográficos incluídos nas informações constantes desses registos utiliza serviços de dados geográficos.\n\n2. Os registos a que se refere o n.º 1 do presente artigo são disponibilizados de forma facilmente acessível ao público para cada ano civil, no prazo de oito meses a contar do final do ano civil correspondente, num formato consolidado, conforme estabelecido no anexo da Decisão 94/741/CE da Comissão ([^2^](http://publications.europa.eu/resource/cellar/9f516003-4c69-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0002)) ou noutro formato consolidado previsto nos termos do artigo 17.º da presente diretiva.\n\nOs Estados-Membros comunicam à Comissão, por via eletrónica, as informações a que se refere o primeiro parágrafo do presente número.\n\n3. Os métodos de tratamento e os resultados da análise são comunicados às autoridades competentes."
+  },
+  "7b82cb5a19f69807": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. A Comissão é assistida pelo comité criado pelo artigo 39.º da Diretiva 2008/98/CE do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/9f516003-4c69-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0003)). Este comité é um comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/9f516003-4c69-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0004)).\n\n2. Caso se remeta para o presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "f35565f1282b6442": {
+   "fragment_id": "Artigo 15.º-A",
+   "type": "artigo",
+   "heading": "Artigo 15.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º-A\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 13.º é conferido à Comissão por um prazo de cinco anos a contar de 4 de Julho de 2018. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. O relatório é apresentado ao Parlamento Europeu e ao Conselho. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 13.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^5^](http://publications.europa.eu/resource/cellar/9f516003-4c69-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0005)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 13.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "3f8fa3723fce4761": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nA Comissão fica habilitada a estabelecer, por meio de atos de execução, um modelo de acordo com o qual os Estados-Membros facultam informações sobre a aplicação da presente diretiva, tal como disposto no artigo 10.º. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2.\n\nOs serviços da Comissão publicam uma análise global à escala da União, incluindo mapas, com base nos dados disponibilizados pelos Estados-Membros nos termos do artigo 10.º e do presente artigo."
+  },
+  "818a61708261b26e": {
+   "fragment_id": "(mg/kg de matéria seca de uma amostra representativa dos solos com pH compreendido entre 6 e 7, tal como se encontra definido no Anexo II C)",
+   "type": "divisao",
+   "heading": "(mg/kg de matéria seca de uma amostra representativa dos solos com pH compreendido entre 6 e 7, tal como se encontra definido no Anexo II C)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (mg/kg de matéria seca de uma amostra representativa dos solos com pH compreendido entre 6 e 7, tal como se encontra definido no Anexo II C)\n\n| Parâmetros | Valores-limite [(^1^)](http://publications.europa.eu/resource/cellar/9f516003-4c69-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0006) |\n| --- | --- |\n| Cádmio | 1 a 3 |\n| Cobre [(^2^)](http://publications.europa.eu/resource/cellar/9f516003-4c69-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0007) | 50 a 140 |\n| Níquel [(^2^)](http://publications.europa.eu/resource/cellar/9f516003-4c69-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0007) | 30 a 75 |\n| Chumbo | 50 a 300 |\n| Zinco [(^2^)](http://publications.europa.eu/resource/cellar/9f516003-4c69-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0007) | 150 a 300 |\n| Mercúrio | 1 a 1,5 |\n| Crómio [(^3^)](http://publications.europa.eu/resource/cellar/9f516003-4c69-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0008) | — |\n| (^1^) Os Estados-membros podem autorizar valores superiores aos limites acima reproduzidos quando se utilizem lamas em terrenos que, no momento da notificação da presente directiva, sejam destinados à eliminação de lamas mas onde se efectuem culturas com fins comerciais e destinadas unicamente ao consumo animal. Os Estados-membros comunicarão à Comissão o número e a natureza dos locais em causa. Zelarão além disso por que daí não resulte qualquer perigo para o homem e o ambiente. (^2^) Os Estados-membros podem autorizar que os valores-limite destes parâmetros sejam excedidos em terrenos cujo pH seja permanentemente superior a 7. Em caso algum podem as concentrações máximas autorizadas apresentar valores que excedam em mais de 50 % os valores acima reproduzidos. Os Estados-membros zelarão, além disso, por que do facto não resulte qualquer perigo para o homem e o ambiente e, nomeadamente, para os lençóis de água subterrâneos. (^3^) Não é possível neste estádio fixar valores-limite para o crómio. O Conselho fixará esses valores-limite num estádio posterior com base em propostas que apresentará à Comissão no prazo de um ano a seguir à notificação da presente directiva. |  |"
+  },
+  "5b39efc20045660f": {
+   "fragment_id": "(mg/kg de matéria seca)",
+   "type": "divisao",
+   "heading": "(mg/kg de matéria seca)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (mg/kg de matéria seca)\n\n| Parâmetros | Valores-limite |\n| --- | --- |\n| Cádmio | 20 a 40 |\n| Cobre | 1 000 a 1 750 |\n| Níquel | 300 a 400 |\n| Chumbo | 750 a 1 200 |\n| Zinco | 2 500 a 4 000 |\n| Mercúrio | 16 a 25 |\n| Crómio [(^1^)](http://publications.europa.eu/resource/cellar/9f516003-4c69-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0009) | — |\n| (^1^) Não é possível neste estádio fixar valores-limite para o crómio. O Conselho fixará esses valores-limite num estádio posterior com base em propostas que apresentará à Comissão no prazo de um ano a seguir à notificação da presente directiva. |  |"
+  },
+  "b5d0788a7bcaabe6": {
+   "fragment_id": "(kg/ha/ano)",
+   "type": "divisao",
+   "heading": "(kg/ha/ano)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (kg/ha/ano)\n\n| Parâmetros | Valores-limite [(^1^)](http://publications.europa.eu/resource/cellar/9f516003-4c69-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0010) |\n| --- | --- |\n| Cádmio | 0,15 |\n| Cobre | 12 |\n| Níquel | 3 |\n| Chumbo | 15 |\n| Zinco | 30 |\n| Mercúrio | 0,1 |\n| Crómio [(^2^)](http://publications.europa.eu/resource/cellar/9f516003-4c69-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0011) | — |\n| (^1^) Os Estados-membros podem autorizar valores superiores aos limites acima reproduzidos quando se utilizem lamas em terrenos que, no momento da notificação da presente directiva, sejam destinadas à eliminação de lamas mas onde se efectuem culturas com fins comerciais e destinadas unicamente ao consumo animal. Os Estados-membros comunicarão à Comissão o número e a natureza dos locais em causa. Zelarão além disso por que daí não resulte qualquer perigo para o homem e o ambiente. (^2^) Não é possível neste estádio fixar valores-limite para o crómio. O Conselho fixará esses valores-limite num estádio posterior com base em propostas que apresentará à Comissão no prazo da presente directiva. |  |"
+  },
+  "201f541ee08f5729": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9f516003-4c69-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Diretiva 2007/2/CE do Parlamento Europeu e do Conselho, de 14 de março de 2007, que estabelece uma infraestrutura de informação geográfica na Comunidade Europeia (INSPIRE) (JO L 108 de 25.4.2007, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9f516003-4c69-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Decisão 94/741/CE da Comissão, de 24 de outubro de 1994, relativa aos questionários para os relatórios dos Estados-Membros sobre a aplicação de determinadas diretivas respeitantes aos resíduos (aplicação da Diretiva 91/692/CEE do Conselho) (JO L 296 de 17.11.1994, p. 42).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9f516003-4c69-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Diretiva 2008/98/CE do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, relativa aos resíduos e que revoga certas diretivas (JO L 312 de 22.11.2008, p. 3).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/9f516003-4c69-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#src.E0004)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/9f516003-4c69-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#src.E0005)) JO L 123 de 12.5.2016, p. 1."
+  }
+ }
+}

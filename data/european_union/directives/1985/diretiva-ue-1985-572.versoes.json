@@ -1,0 +1,188 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31985L0572:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01985L0572-20121231",
+ "dre_path": null,
+ "source_lastmod": "2012-12-31",
+ "versions": [
+  {
+   "date": "1985-12-31",
+   "future": false,
+   "celex": "31985L0572",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2007-04-20",
+   "future": false,
+   "celex": "01985L0572-20070420",
+   "acts": [
+    {
+     "id": "eu:celex:32007L0019:por",
+     "title": "DIRECTIVA 2007/19/CE DA COMISSÃO Texto relevante para efeitos do EEE de 30 de Março de 2007",
+     "published": null,
+     "celex": "32007L0019"
+    }
+   ],
+   "changes": [
+    "Adita preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita ANEXO",
+    "Adita LISTA DOS SIMULADORES",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "daf0d2e3fcfd5710",
+    "2e4e3a555bf14705",
+    "98e6f365fa28ea87",
+    "899133508432aabd",
+    "8cb786f8d32f9f2a",
+    "9ebae6cffbbaa40e",
+    "10220b9774fa9034",
+    "77f71dd97019b7f2",
+    "6c36dd11f68b8737"
+   ]
+  },
+  {
+   "date": "2012-12-31",
+   "future": false,
+   "celex": "01985L0572-20121231",
+   "acts": [
+    {
+     "id": "eu:celex:32011R0010:por",
+     "title": "REGULAMENTO (UE) N. o 10/2011 DA COMISSÃO de 14 Janeiro de 2011",
+     "published": null,
+     "celex": "32011R0010"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Altera ANEXO",
+    "Altera Notas",
+    "Suprime LISTA DOS SIMULADORES"
+   ],
+   "fragments": [
+    "6ca7028f038cf98e",
+    "2e4e3a555bf14705",
+    "98e6f365fa28ea87",
+    "fbc6b1906bbd6d21",
+    "8cb786f8d32f9f2a",
+    "9ebae6cffbbaa40e",
+    "73cd5e6d406aa256",
+    "221174f2ecf562ff"
+   ]
+  }
+ ],
+ "fragments": {
+  "daf0d2e3fcfd5710": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Dezembro de 1985\n\nque fixa a lista dos simuladores a utilizar para verificar a migração dos constituintes dos materiais e objectos em matéria plástica destinados a entrar em contacto com os géneros alimentícios\n\n(85/572/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 82/711/CEE do Conselho, de 18 de Outubro de 1982, que estabelece as regras de base necessárias à verificação da migração dos constituintes dos materiais e objectos em matéria plástica destinados a entrar em contacto com os géneros alimentícios ([^1^](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0001)) e, nomeadamente, o n.º 3 do seu artigo 2.º,\n\nTendo em conta a proposta da Comissão ([^2^](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Parlamento Europeu ([^3^](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0003)),\n\nTendo em conta o parecer do Comité Económico e Social ([^4^](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0004)),\n\nConsiderando que, nos termos do n.º 3 do artigo 2.º e do ponto 2, primeiro travessão, do Capítulo I do anexo da Directiva 82/711/CEE, é conveniente indicar os simuladores adequados para efectuar os ensaios de migração no caso dos materiais e objectos em matéria plástica destinados a entrar em contacto com um único género alimentício ou com um grupo determinado de géneros alimentícios;\n\nConsiderando que não se deve excluir a possibilidade, em caso de necessidade, de recorrer a meios de verificação da migração diferentes dos previstos pela presente directiva;\n\nConsiderando que é necessário ter em conta, na escolha dos simuladores adequados, nomeadamente a composição química do género alimentício e o seu estado físico;\n\nConsiderando que, para determinados géneros alimentícios que contêm matérias gordas, o resultado obtido nos ensaios de migração com o simulador é mais elevado que o obtido nos ensaios de migração com o próprio género alimentício e que, portanto, é conveniente corrigir o resultado aplicando um «coeficiente de redução» adequado ao caso em questão; que, em determinados casos específicos e, nomeadamente no dos materiais e objectos em contacto com géneros alimentícios que apresentam matérias gordas à superfície, a existência de métodos de análise adequados é essencial para a aplicação da presente directiva;\n\nConsiderando que a adaptação da presente directiva ao progresso técnico constitui uma medida de aplicação, cuja adopção convém ser confiada, em princípio, à Comissão, para simplificar e acelerar o procedimento;\n\nConsiderando que, em todos os casos em relação aos quais o Conselho atribui competência à Comissão para a aplicação das regras relativas ao sector dos materiais e objectos em matéria plástica destinados a entrar em contacto com os géneros alimentícios, é conveniente prever um procedimento que institua uma estreita cooperação entre os Estados-membros e a Comissão no âmbito do Comité Permanente dos Géneros Alimentícios, instituído pela Decisão 69/414/CEE ([^5^](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0005)).\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "2e4e3a555bf14705": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nEm conformidade com o n.º 3 do artigo 2.º da Directiva 82/711/CEE, os simuladores a utilizar para verificar a migração dos constituintes dos materiais e objectos em matéria plástica destinados a entrar em contacto com um único género alimentício ou com um grupo determinado de géneros alimentícios, e à concentração desses simuladores, são os indicados no anexo."
+  },
+  "98e6f365fa28ea87": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSem prejuízo o artigo 1.º, as listas das bustâncias ou matérias cuja utilização é autorizada com exclusão de todas as outras podem, se necessário, fixar procedimentos para a verificação da migração de determinados constituintes dos materiais e objectos em matéria plástica, diferentes dos que figuram no anexo."
+  },
+  "899133508432aabd": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs adaptações a introduzir no anexo em função da evolução dos conhecimentos científicos e técnicos serão adoptadas de acordo com o procedimento referido no artigo 10.º da Directiva 76/893/CEE ([^6^](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0006))."
+  },
+  "8cb786f8d32f9f2a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva o mais tardar quando tomarem as medidas de aplicação da Directiva 82/711/CEE."
+  },
+  "9ebae6cffbbaa40e": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "77f71dd97019b7f2": {
+   "fragment_id": "LISTA DOS SIMULADORES",
+   "type": "divisao",
+   "heading": "LISTA DOS SIMULADORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA DOS SIMULADORES\n\n1. No quadro a seguir, que contém uma lista não exaustiva de géneros alimentícios, os simuladores a utilizar nos ensaios de migração em relação a um género alimentício ou grupo de géneros alimentícios são indicados pelas seguintes abreviaturas:\n\nSimulador A:\n\nágua destilada ou água de qualidade equivalente,\n\nSimulador B:\n\nácido acético a 3 % (p/v) em solução aquosa,\n\nSimulador C:\n\netanol a 15 % (v/v) em solução aquosa,\n\nSimulador D:\n\nazeite rectificado ([^7^](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0007)); quando, por razões técnicas ligadas ao método de análise, for necessário utilizar outros simuladores, o azeite deve ser substituído por uma mistura de triglicéridos sintéticos ([^8^](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0008)) ou por óleo de girassol ([^9^](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0009)).\n\n2. Para cada género alimentício ou para cada grupo de géneros alimentícios, apenas se utilizará o ou os simuladores indicados pelo sinal X, utilizando para cada simulador uma nova amostra de materiais e objecto em questão. A ausência do sinal X significa que, para essa posição ou subposição, não é necessário nenhum ensaio de migração.\n\n3. Quando o sinal «X» for seguido de um número do qual esteja separado por uma barra oblíqua, o resultado dos ensaios de migração deve ser dividido por esse número. No caso de determinados tipos de alimentos gordos, este número convencional, chamado «factor de redução do simulador D» (FRD), tem em consideração o mais elevado poder de extracção do simulador em comparação com o alimento.\n\n4. Se o sinal X for acompanhado pela letra a entre parênteses, utilizar apenas um dos dois simuladores indicados:\n\n— se o pH do género alimentício for superior a 4,5, utilizar o simulador A;\n\n— se o pH do género alimentício for inferior ou igual a 4,5, utilizar o simulador B.\n\n4A. Se o sinal X for acompanhado pela letra b entre parêntesis, o ensaio indicado deve ser efectuado com etanol a 50 % (v/v).\n\n5. Se um género alimentício figurar na lista tanto numa posição específica como numa posição geral, utilizar unicamente o(s) simulador(es) previsto(s) na posição específica.\n\n| N.º de referência | Denominação dos géneros alimentícios | Simuladores a utilizar |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| A | B | C | D |  |  |\n| 01 | **Bebidas** |  |  |  |  |\n| 01.01 | Bebidas não alcoólicas ou bebidas alcoólicas de teor inferior a 5 % vol: |  |  |  |  |\n|  | Águas, cidras, sumos de frutas ou de produtos hortícolas simples ou concentrados, mostos, néctares de frutas, limonadas, sodas, xaropes, «bitter», infusões, café, chá, chocolate líquido, cervejas e outras | X (a) | X (a) |  |  |\n| 01.02 | Bebidas alcoólicas de teor igual ou superior a 5 % vol: Bebidas classificadas na posição 01.01, mas de teor igual ou superior a 5 % vol: |  |  |  |  |\n|  | Vinhos, bebidas espirituosas, licores |  | X [(^1^)](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0010) | X [(^2^)](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0011) |  |\n| 01.03 | Diversas: álcool etílico não desnaturado |  | X [(^1^)](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0010) | X [(^2^)](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0011) |  |\n| 02 | **Cereais, derivados de cereaïs, produtos da indústria das bolachas e biscoitos, de padaria e de pastelaria** |  |  |  |  |\n| 02.01 | Amidos e féculas |  |  |  |  |\n| 02.02 | Cereais sem transformação, em flocos, em palhetas (incluindo pipocas, *corn flakes* e outros) |  |  |  |  |\n| 02.03 | Farinhas de cereais e sêmolas |  |  |  |  |\n| 02.04 | Massas alimentícias |  |  |  |  |\n| 02.05 | Produtos secos de padaria, da indústria das bolachas e biscoitos e secos de pastelaria: |  |  |  |  |\n|  | A. que apresentam matérias gordas à superfície |  |  |  | X/5 |\n|  | B. Outros |  |  |  |  |\n| 02.06 | Produtos frescos de padaria e de pastelaria: |  |  |  |  |\n|  | A. Que apresentam matérias gordas à superfície |  |  |  | X/5 |\n|  | B. Outros | X |  |  |  |\n| 03 | **Chocolates, açúcares e seus derivados, produtos de confeitaria** |  |  |  |  |\n| 03.01 | Chocolates, produtos envolvidos com chocolate, sucedâneos e produtos envolvidos com sucedâneos |  |  |  | X/5 |\n| 03.02 | Produtos de confeitaria: |  |  |  |  |\n|  | A. Na forma sólida: |  |  |  |  |\n|  | I. Que apresentam matérias gordas à superfície |  |  |  | X/5 |\n|  | II. Outros |  |  |  |  |\n|  | B. Na forma pastosa: |  |  |  |  |\n|  | I. Que apresentam matérias gordas à superfície |  |  |  | X/3 |\n|  | II. Húmidos | X |  |  |  |\n| 03.03 | Açúcares e produtos de açúcar: |  |  |  |  |\n|  | A. Na forma sólida |  |  |  |  |\n|  | B. Mel e semelhantes | X |  |  |  |\n|  | C. Melaço e xaropes de açúcar | X |  |  |  |\n| 04 | **Frutas, produtos hortícolas e seus derivados** |  |  |  |  |\n| 04.01 | Frutas inteiras, frescas ou refrigeradas |  |  |  |  |\n| 04.02 | Frutas transformadas: |  |  |  |  |\n|  | A. Frutas secas ou desidratadas, inteiras ou na forma de farinha ou de pó |  |  |  |  |\n|  | B. Frutas em pedaços ou na forma de puré ou de pasta | X (a) | X (a) |  |  |\n|  | C. Frutas em conserva (compotas e produtos semelhantes — frutas internas ou em pedaços, ou na forma de farinha ou de pó, conservados em meio líquido): |  |  |  |  |\n|  | I. Em meio aquoso | X (a) | X (a) |  |  |\n|  | II. Em meio oleoso | X (a) | X (a) |  |  |\n|  | III. Em meio alcoólico (≥ 5 % vol) |  | X [(^1^)](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0010) | X |  |\n| 04.03 | Frutas com casca (amendoins, castanhas, amêndoas, avelãs, nozes comuns, pinhões e outras): |  |  |  |  |\n|  | A. Sem casca, secas |  |  |  |  |\n|  | B. Sem casca e torradas |  |  |  | X/5 [(^3^)](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0012) |\n|  | C. Na forma de pasta ou de creme | X |  |  | X/3 [(^3^)](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0012) |\n| 04.04 | Produtos hortícolas inteiros, frescos ou refrigerados |  |  |  |  |\n| 04.05 | Produtos hortícolas transformados: |  |  |  |  |\n|  | A. Produtos hortícolas secos ou desidratados, inteiros, na forma de farinha ou de pó |  |  |  |  |\n|  | B. Produtos hortícolas em pedaços, na forma de puré | X (a) | X (a) |  |  |\n|  | C. Produtos hortícolas em conserva: |  |  |  |  |\n|  | I. Em meio aquoso | X (a) | X (a) |  |  |\n|  | II. Em meio oleoso | X (a) | X (a) |  | X |\n|  | III. Em meio alcoólico (≥ 5 % vol) |  | X [(^1^)](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0010) | X |  |\n| 05 | **Gorduras e óleos** |  |  |  |  |\n| 05.01 | Gorduras e óleos animais e vegetais, naturais ou preparados (incluindo a manteiga de cacau, a banha e a manteiga fundida) |  |  |  | X |\n| 05.02 | Margarina, manteiga e outras matérias gordas constituídas por emulsões de água em óleo |  |  |  | X/2 |\n| 06 | **Produtos de origem animal e ovos** |  |  |  |  |\n| 06.01 | Peixes: |  |  |  |  |\n|  | A. Frescos, refrigerados, salgados, fumados | X |  |  | X/3 [(^3^)](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0012) |\n|  | B. Na forma de pasta | X |  |  | X/3 [(^3^)](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0012) |\n| 06.02 | Crustáceos e moluscos (incluindo as ostras, os mexilhões e os caracóis), não protegidos naturalmente pela sua carapaça ou casca | X |  |  |  |\n| 06.03 | Carnes de todas as espécies zoológicas (incluindo as aves de capoeira e a caça): |  |  |  |  |\n|  | A. Frescas, refrigeradas, salgadas, fumadas | X |  |  | X/4 |\n|  | B. Na forma de pasta, de creme | X |  |  | X/4 |\n| 06.04 | Produtos transformados à base de carne (fiambre, salsichão, *bacon* e outros) | X |  |  | X/4 |\n| 06.05 | Conservas e semiconservas de carne ou de peixe: |  |  |  |  |\n|  | A. Em meio aquoso | X (a) | X (a) |  |  |\n|  | B. Em meio oleoso | X (a) | X (a) |  | X |\n| 06.06 | Ovos sem casca: |  |  |  |  |\n|  | A. Em pó ou secos |  |  |  |  |\n|  | B. Outros | X |  |  |  |\n| 06.07 | Gemas de ovos: |  |  |  |  |\n|  | A. Líquidas | X |  |  |  |\n|  | B. Em pó ou congeladas |  |  |  |  |\n| 06.08 | Claras de ovos secas |  |  |  |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32007L0019) |  |  |  |  |  |\n| 07 | **Produtos lácteos** |  |  |  |  |\n| 07.01 | Leite: |  |  |  |  |\n|  | A. Inteiro |  |  |  | X(b) |\n|  | B. Parcialmente desidratado |  |  |  | X(b) |\n|  | C. Parcialmente ou totalmente desnatado |  |  |  | X(b) |\n|  | D. Totalmente desidratado |  |  |  |  |\n| 07.02 | Leite fermentado, tal como o iogurte, o leitelho e produtos similares |  | X |  | X(b) |\n| 07.03 | Natas e natas ácidas |  | X(a) |  | X(b) |\n| 07.04 | Queijos: |  |  |  |  |\n|  | A. Inteiros, com crosta não comestível |  |  |  |  |\n|  | B. Todos os outros | X(a) | X(a) |  | X/3 [(^3^)](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0012) |\n| 07.05 | Coalho: |  |  |  |  |\n|  | A. Líquido ou pastoso | X(a) | X(a) |  |  |\n|  | B. Em pó ou seco |  |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/31985L0572) |  |  |  |  |  |\n| 08 | **Produtos diversos** |  |  |  |  |\n| 08.01 | Vinagre |  | X |  |  |\n| 08.02 | Alimentos fritos ou assados: |  |  |  |  |\n|  | A. Batatas fritas, fritos e outros |  |  |  | X/5 |\n|  | B. De origem animal |  |  |  | X/4 |\n| 08.03 | Preparados para obtenção de sopas ou caldos, sopas ou caldos preparados (extractos, concentrados); preparados alimentares compostos homogeneizados, pratos preparados: |  |  |  |  |\n|  | A. Em pó ou secos: |  |  |  |  |\n|  | I. Que apresentam matérias gordas à superfície |  |  |  | X/5 |\n|  | II. Outros |  |  |  |  |\n|  | B. Líquidos ou pastosos: |  |  |  |  |\n|  | I. Que apresentam matérioas gordas à superfície | X (a) | X (a) |  | X/3 |\n|  | II. Outros | X (a) | X (a) |  |  |\n| 08.04 | Leveduras e substâncias fermentantes: |  |  |  |  |\n|  | A. Em pasta | X (a) | X (a) |  |  |\n|  | B. Secas |  |  |  |  |\n| 08.05 | Sal de cozinha |  |  |  |  |\n| 08.06 | Molhos: |  |  |  |  |\n|  | A. Que não apresentam matérias gordas à superfície | X (a) | X (a) |  |  |\n|  | B. Maionese, molhos derivados da maionese, creme para salada e outros emulsionados (emulsão do tipo óleo em água) | X (a) | X (a) |  | X/3 |\n|  | C. Molho contendo óleo e água que formam duas camadas distintas | X (a) | X (a) |  | X |\n| 08.07 | Mostardas (com exclusão das mostardas em pó da posição 08.17) | X (a) | X (a) | X/3 [(^3^)](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0012) |  |\n| 08.08 | Sandes, tostas e outras contendo todas as espécies de alimentos: |  |  |  |  |\n|  | A. Que apresentam matérias gordas à superfície |  |  |  | X/5 |\n|  | B. Outras |  |  |  | X/5 |\n| 08.09 | Gelados | X |  |  |  |\n| 08.10 | Alimentos secos: |  |  |  |  |\n|  | A. Que apresentam matérias gordas à superficie |  |  |  |  |\n|  | B. Outros |  |  |  | X/5 |\n| 08.11 | Alimentos congelados ou ultra-congelados |  |  |  |  |\n| 08.12 | Extractos concentrados de teor alcoólico de 5 % ou mais |  | X [(^2^)](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0011) | X |  |\n| 08.13 | Cacau: |  |  |  |  |\n|  | A. Cacau em pó |  |  |  | X/5 [(^3^)](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0012) |\n|  | B. Cacau em pasta |  |  |  | X/3 [(^3^)](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#E0012) |\n| 08.14 | Café, mesmo torrado ou descafeinado ou solúvel, sucedâneos de café em granulado ou em pó |  |  |  |  |\n| 08.15 | Extractos de café liquido | X |  |  |  |\n| 08.16 | Plantas aromáticas e outras plantas |  |  |  |  |\n|  | camomila, malva, menta, chá, tília e outras |  |  |  |  |\n| 08.17 | Especiarias e condimentos no estado natural: |  |  |  |  |\n|  | canela, cravinho, mostarda em pó, pimenta, baunilha, açafrão e outros |  |  |  |  |\n| (^1^)Este ensaio é efectuado unicamente nos casos em que o pH seja inferior ou igual a 4,5. (^2^)Este ensaio pode ser efectuado, no caso de líquidos ou de bebidas de teor de álcool superior a 15 % vol, com etanol em solução aquosa de concentração análoga. (^3^)Se for possível, por um ensaio apropriado, demonstrar que não se etabelece nenhum «contacto gordo» com a matéria plástica, o ensaio com o simulador D pode ser omitido. |  |  |  |  |  |\n\n---"
+  },
+  "6c36dd11f68b8737": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#src.E0001)) JO n.º L 297 de 23. 10. 1982, p. 26.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#src.E0002)) JO n.º. C 102 de 14. 4. 1984, p. 4.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#src.E0003)) JO n.º C 175 de 15. 7. 1985, p. 299.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#src.E0004)) JO n.º C 25 de 28. 1. 1985, p. 6.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#src.E0005)) JO n.º L 291 de 19. 11. 1969, p. 9.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#src.E0006)) JO n.º L 340 de 9. 12. 1976, p. 19.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#src.E0007)) **Características do azeite rectificado:**\n\n| índice de iodo (Wijs) | = | 80-88 |\n| --- | --- | --- |\n\n| índice de refracção a 25 °C | = | 1,4665-1,4679 |\n| --- | --- | --- |\n\n| acidez (expressa em % de ácido oleico) | = | 0,5 %, no máximo |\n| --- | --- | --- |\n\n| índice de peróxidos (expressos em miliequivalentes de oxigénio por kg de azeite) | = | 10, no máximo |\n| --- | --- | --- |\n\n> ([^8^](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#src.E0008)) **Composição da mistura de trigicéridos sintéticos:**\n\n| Número de átomos de C nos resíduos de ácidos gordos | 6 | 8 | 10 | 12 | 14 | 16 | 18 | outros |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Zonas GLC (%) | ~1 | 6-9 | 8-11 | 45-52 | 12-15 | 8-10 | 8-12 | ≤ 1 |\n\nTeor de monoglicéridos (determinado por via enzimática) ≤ 0,2 %\n\nTeor de diglicéridos (determinado por via enzimática) ≤ 2,0 %\n\nMatérias não saponificáveis ≤ 0,2 %\n\nÍndice de iodo (Wijs) ≤ 0,1 %\n\nÍndice de ácido ≤ 0,1 %\n\nTeor de água (K. Fischer) ≤ 0,1 %\n\nPonto de fusão 28 ± 2 °C\n\n| Comprimento de onda (mm) | 290 | 310 | 330 | 350 | 370 | 390 | 430 | 470 | 510 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Transmitância (%) | ~2 | ~15 | ~37 | ~64 | ~80 | ~88 | ~95 | ~97 | ~98 |\n\n> Pelo menos 10 % de transmitância de luz a 310 nm (célula de 1 cm, referência: água a 35 °C)\n\n> ([^9^](http://publications.europa.eu/resource/cellar/bf52300e-aa1c-4904-b8ab-523ea5304fe6.0018.03/DOC_1#src.E0009)) **Características do óleo de girassol**\n\níndice de iodo (Wijs) = 120-145\n\níndice de refracção a 20 °C = 1,474-1,476\n\níndice de saponificação = 188-193\n\ndensidade relativa a 20 °C = 0,918-0,925\n\nmatérias não saponificáveis = 0,5 -1,5 %"
+  },
+  "6ca7028f038cf98e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Dezembro de 1985\n\nque fixa a lista dos simuladores a utilizar para verificar a migração dos constituintes dos materiais e objectos em matéria plástica destinados a entrar em contacto com os géneros alimentícios\n\n(85/572/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 82/711/CEE do Conselho, de 18 de Outubro de 1982, que estabelece as regras de base necessárias à verificação da migração dos constituintes dos materiais e objectos em matéria plástica destinados a entrar em contacto com os géneros alimentícios ([^1^](http://publications.europa.eu/resource/cellar/b478d016-0e6e-4cb4-8088-7f6ce9b9e277.0018.03/DOC_1#E0001)) e, nomeadamente, o n.º 3 do seu artigo 2.º,\n\nTendo em conta a proposta da Comissão ([^2^](http://publications.europa.eu/resource/cellar/b478d016-0e6e-4cb4-8088-7f6ce9b9e277.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Parlamento Europeu ([^3^](http://publications.europa.eu/resource/cellar/b478d016-0e6e-4cb4-8088-7f6ce9b9e277.0018.03/DOC_1#E0003)),\n\nTendo em conta o parecer do Comité Económico e Social ([^4^](http://publications.europa.eu/resource/cellar/b478d016-0e6e-4cb4-8088-7f6ce9b9e277.0018.03/DOC_1#E0004)),\n\nConsiderando que, nos termos do n.º 3 do artigo 2.º e do ponto 2, primeiro travessão, do Capítulo I do anexo da Directiva 82/711/CEE, é conveniente indicar os simuladores adequados para efectuar os ensaios de migração no caso dos materiais e objectos em matéria plástica destinados a entrar em contacto com um único género alimentício ou com um grupo determinado de géneros alimentícios;\n\nConsiderando que não se deve excluir a possibilidade, em caso de necessidade, de recorrer a meios de verificação da migração diferentes dos previstos pela presente directiva;\n\nConsiderando que é necessário ter em conta, na escolha dos simuladores adequados, nomeadamente a composição química do género alimentício e o seu estado físico;\n\nConsiderando que, para determinados géneros alimentícios que contêm matérias gordas, o resultado obtido nos ensaios de migração com o simulador é mais elevado que o obtido nos ensaios de migração com o próprio género alimentício e que, portanto, é conveniente corrigir o resultado aplicando um «coeficiente de redução» adequado ao caso em questão; que, em determinados casos específicos e, nomeadamente no dos materiais e objectos em contacto com géneros alimentícios que apresentam matérias gordas à superfície, a existência de métodos de análise adequados é essencial para a aplicação da presente directiva;\n\nConsiderando que a adaptação da presente directiva ao progresso técnico constitui uma medida de aplicação, cuja adopção convém ser confiada, em princípio, à Comissão, para simplificar e acelerar o procedimento;\n\nConsiderando que, em todos os casos em relação aos quais o Conselho atribui competência à Comissão para a aplicação das regras relativas ao sector dos materiais e objectos em matéria plástica destinados a entrar em contacto com os géneros alimentícios, é conveniente prever um procedimento que institua uma estreita cooperação entre os Estados-membros e a Comissão no âmbito do Comité Permanente dos Géneros Alimentícios, instituído pela Decisão 69/414/CEE ([^5^](http://publications.europa.eu/resource/cellar/b478d016-0e6e-4cb4-8088-7f6ce9b9e277.0018.03/DOC_1#E0005)).\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "fbc6b1906bbd6d21": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs adaptações a introduzir no anexo em função da evolução dos conhecimentos científicos e técnicos serão adoptadas de acordo com o procedimento referido no artigo 10.º da Directiva 76/893/CEE ([^6^](http://publications.europa.eu/resource/cellar/b478d016-0e6e-4cb4-8088-7f6ce9b9e277.0018.03/DOC_1#E0006))."
+  },
+  "73cd5e6d406aa256": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nOs simuladores alimentares a usar nos ensaios de migração dos constituintes dos materiais e objectos de matéria plástica destinados a entrar em contacto com um único alimento ou com um grupo de alimentos específico constam do ponto 3 do anexo III do Regulamento (UE) n.º 10/2011 da Comissão.\n\n---"
+  },
+  "221174f2ecf562ff": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b478d016-0e6e-4cb4-8088-7f6ce9b9e277.0018.03/DOC_1#src.E0001)) JO n.º L 297 de 23. 10. 1982, p. 26.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b478d016-0e6e-4cb4-8088-7f6ce9b9e277.0018.03/DOC_1#src.E0002)) JO n.º. C 102 de 14. 4. 1984, p. 4.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b478d016-0e6e-4cb4-8088-7f6ce9b9e277.0018.03/DOC_1#src.E0003)) JO n.º C 175 de 15. 7. 1985, p. 299.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b478d016-0e6e-4cb4-8088-7f6ce9b9e277.0018.03/DOC_1#src.E0004)) JO n.º C 25 de 28. 1. 1985, p. 6.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b478d016-0e6e-4cb4-8088-7f6ce9b9e277.0018.03/DOC_1#src.E0005)) JO n.º L 291 de 19. 11. 1969, p. 9.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b478d016-0e6e-4cb4-8088-7f6ce9b9e277.0018.03/DOC_1#src.E0006)) JO n.º L 340 de 9. 12. 1976, p. 19."
+  }
+ }
+}

@@ -35,6 +35,124 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-10-01'
+version_history:
+  file: regulamento-ue-2006-318.versoes.json
+  count: 5
+  source_lastmod: '2008-10-01'
+  versions:
+  - date: '2006-02-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-10-28'
+    amending: eu:celex:32006R1585:por
+    amending_title: REGULAMENTO (CE) N. o 1585/2006 DA COMISSÃO de 24 de Outubro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 12.º — Âmbito de aplicação
+    - Altera Artigo 13.º — Açúcar industrial
+    - Altera Artigo 14.º — Reporte de açúcar excedentário
+    - Altera Artigo 18.º — Armazenagem privada e intervenção
+    - Altera Artigo 23.º — Certificados de importação e de exportação
+    - Altera Artigo 25.º — Medida de salvaguarda
+    - Altera Artigo 33.º — Fixação das restituições à exportação
+    - Altera Artigo 36.º — Ajudas estatais
+    - Altera Artigo 40.º — Normas de execução
+    - Altera Artigo 41.º — Alteração do Regulamento (CE) n.º 247/2006
+    - Altera Artigo 44.º — Medidas transitórias
+    - Altera Artigo 46.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita QUALIDADES-TIPO
+    - Adita PONTO I
+    - Adita Qualidade-tipo da beterraba açucareira
+    - Adita PONTO II
+    - Adita Qualidade-tipo do açúcar branco
+    - Adita PONTO III
+    - Adita Qualidade-tipo do açúcar bruto
+    - Adita ANEXO II
+    - Adita CONDIÇÕES DE COMPRA DA BETERRABA
+    - Adita PONTO IV
+    - Adita PONTO V
+    - Adita PONTO VI
+    - Adita PONTO VII
+    - Adita PONTO VIII
+    - Adita PONTO IX
+    - Adita PONTO X
+    - Adita PONTO XI
+    - Adita PONTO XII
+    - Adita PONTO XIII
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Adita QUOTAS ADICIONAIS DE AÇÚCAR
+    - Adita QUOTAS SUPLEMENTARES DE ISOGLICOSE
+    - Adita ANEXO V
+  - date: '2007-03-12'
+    amending: eu:celex:32006R2011:por
+    amending_title: REGULAMENTO (CE) N. o 2011/2006 DO CONSELHO de 19 de Dezembro de 2006; REGULAMENTO (CE) N. o 247/2007
+      DA COMISSÃO de 8 de Março de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Atribuição de quotas
+    - Altera Artigo 9.º — Quotas adicionais e suplementares de isoglicose
+    - Altera Artigo 23.º — Certificados de importação e de exportação
+    - Altera Artigo 25.º — Medida de salvaguarda
+    - Altera Artigo 29.º — Necessidades de abastecimento tradicionais para refinação
+    - Altera Artigo 33.º — Fixação das restituições à exportação
+    - Altera Artigo 36.º — Ajudas estatais
+    - Altera ANEXO III
+    - Altera Notas
+  - date: '2008-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime TÍTULO II
+    - Suprime MERCADO INTERNO
+    - Suprime CAPÍTULO 1
+    - Suprime Preços
+    - Suprime Artigo 3.º — Preços de referência
+    - Suprime Artigo 4.º — Comunicação de preços
+    - Suprime Artigo 5.º — Preço mínimo da beterraba
+    - Suprime Artigo 6.º — Acordos interprofissionais
+    - Suprime CAPÍTULO 2
+    - Suprime Quotas de produção
+    - Suprime Artigo 7.º — Atribuição de quotas
+    - Suprime Artigo 8.º — Quota adicional de açúcar
+    - Suprime Artigo 9.º — Quotas adicionais e suplementares de isoglicose
+    - Suprime Artigo 10.º — Gestão das quotas
+    - Suprime Artigo 11.º — Reatribuição de quotas a nível nacional
+    - Suprime CAPÍTULO 3
+    - Suprime Produção extra-quota
+    - Suprime Artigo 12.º — Âmbito de aplicação
+    - Suprime Artigo 13.º — Açúcar industrial
+    - Suprime Artigo 14.º — Reporte de açúcar excedentário
+    - Suprime Artigo 15.º — Imposição sobre os excedentes
+    - Suprime CAPÍTULO 4
+    - Suprime Gestão do mercado
+    - Suprime Artigo 16.º — Encargo de produção
+    - Suprime Artigo 17.º — Operadores aprovados
+    - Suprime Artigo 18.º — Armazenagem privada e intervenção
+    - Suprime Artigo 19.º — Retirada de açúcar do mercado
+    - Suprime Artigo 20.º — Armazenagem ao abrigo de medidas diferentes
+    - Suprime TÍTULO III
+    - Suprime COMÉRCIO COM PAÍSES TERCEIROS
+    - Suprime Disposições comuns relativas às importações e exportações
+    - Suprime Artigo 21.º — Nomenclatura combinada
+    - Suprime Artigo 22.º — Princípios gerais
+    - Suprime Artigo 23.º — Certificados de importação e de exportação
+    - Suprime Artigo 24.º — Regime de aperfeiçoamento activo
+  - date: '2008-10-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
 identifiers:
   celex: 32006R0318
   eli: http://data.europa.eu/eli/reg/2006/318/oj
@@ -49,7 +167,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/dc291249-59ed-4628-ab6a-065770a2f23c.0016
   content_url: http://publications.europa.eu/resource/cellar/00d0cffb-60d1-413e-ab87-0f8b515b68e4.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R0318-20081001
-  retrieved_at: '2026-10-22T02:42:45Z'
+  retrieved_at: '2026-10-22T15:03:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T04:49:29.647+01:00'
 integrity:
@@ -58,9 +176,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:45Z'
-  notes: Texto consolidado 02006R0318-20081001.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:03:22Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2006-318.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -231,16 +349,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:45Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:03:22Z'
+  warnings: []
   errors: []
 ---
 

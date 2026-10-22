@@ -36,6 +36,28 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2001-08-18'
+version_history:
+  file: regulamento-ue-2001-1651.versoes.json
+  count: 2
+  source_lastmod: '2001-08-18'
+  versions:
+  - date: '2001-08-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-08-18'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Suprime ANEXO I — "ANEXO II
+    - Suprime ANEXO II — "ANEXO III
+    - Suprime ANEXO III — "ANEXO IV
 identifiers:
   celex: 32001R1651
   eli: http://data.europa.eu/eli/reg/2001/1651/oj
@@ -50,7 +72,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/eb0a3e84-b39f-4798-8d6e-046fd44e5aec.0010
   content_url: http://publications.europa.eu/resource/cellar/2fce77fd-4f9a-452f-b11d-46c4db1a97c5.0010.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R1651-20010818
-  retrieved_at: '2026-10-22T03:10:19Z'
+  retrieved_at: '2026-10-22T14:50:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T14:30:09.152+01:00'
 integrity:
@@ -59,9 +81,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:10:19Z'
-  notes: Texto consolidado 02001R1651-20010818.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:53Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2001-1651.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -138,15 +160,14 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 3
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:10:19Z'
-  warnings:
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:50:53Z'
+  warnings: []
   errors: []
 ---
 

@@ -37,6 +37,104 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-04-08'
+version_history:
+  file: diretiva-ue-2004-37.versoes.json
+  count: 6
+  source_lastmod: '2024-04-08'
+  versions:
+  - date: '2014-03-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-01-16'
+    amending: eu:celex:32017L2398:por
+    amending_title: DIRETIVA (UE) 2017/2398 DO PARLAMENTO EUROPEU E DO CONSELHO, Texto relevante para efeitos do EEE de 12
+      de dezembro de 2017,
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Informação das autoridades responsáveis
+    - Altera Artigo 14.º — Vigilância médica
+    - Altera [alínea a) iii) do artigo 2.º]
+    - Altera A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL
+    - Altera Notas
+    - Adita Artigo 18.º-A — Avaliação
+    - Adita Valores-limite e outras disposições diretamente relacionadas (Artigo 16.º)
+    - Adita B. OUTRAS DISPOSIÇÕES DIRETAMENTE RELACIONADAS
+    - Suprime Valores-limite e outras disposições directamente relacionadas
+    - Suprime (Artigo 16.º)
+    - Suprime Β. OUTRAS DISPOSIÇÕES DIRECTAMENTE RELACIONADAS
+  - date: '2019-07-10'
+    amending: eu:celex:32019L0130:por
+    amending_title: DIRETIVA (UE) 2019/130 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 16 de
+      janeiro de 2019; DIRETIVA (UE) 2019/983 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5
+      de junho de 2019
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 18.º-A — Avaliação
+    - Altera [alínea a) iii) do artigo 2.º]
+    - Altera A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL
+    - Altera Notas
+    - Adita Artigo 13.º-A — Acordos entre os parceiros sociais
+    - Adita VALORES-LIMITE E OUTRAS DISPOSIÇÕES DIRETAMENTE RELACIONADAS (ARTIGO 16.º)
+    - Suprime Valores-limite e outras disposições diretamente relacionadas (Artigo 16.º)
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera [alínea a) iii) do artigo 2.º]
+    - Altera A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL
+    - Altera Notas
+    - Adita Artigo 17.º — Alteração do anexo II
+    - Adita Artigo 17.º-A — Exercício da delegação
+    - Adita Artigo 17.º-B — Procedimento de urgência
+    - Suprime Artigo 17.º — Anexos
+  - date: '2022-04-05'
+    amending: eu:celex:32022L0431:por
+    amending_title: DIRETIVA (UE) 2022/431 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de março de 2022
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Âmbito de aplicação — Identificação e avaliação dos riscos
+    - Altera Artigo 4.º — Redução e substituição
+    - Altera Artigo 5.º — Disposições para evitar ou reduzir a exposição
+    - Altera Artigo 6.º — Informação das autoridades responsáveis
+    - Altera Artigo 10.º — Medidas de higiene e de protecção individual
+    - Altera Artigo 11.º — Informação e formação dos trabalhadores
+    - Altera Artigo 14.º — Vigilância médica
+    - Altera Artigo 15.º — Registos
+    - Altera Artigo 16.º — Valores-limite
+    - Altera Artigo 17.º — Alteração do anexo II
+    - Altera Artigo 17.º-A — Exercício da delegação
+    - Altera Artigo 18.º-A — Avaliação
+    - Altera [alínea a) iii) do artigo 2.º]
+    - Altera (n.º 7 do artigo 14.º)
+    - Altera A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL
+    - Altera Notas
+    - Adita Artigo 16.º-A — Identificação de substâncias tóxicas para a reprodução sujeitas ou não sujeitas a um limiar
+    - Adita ANEXO III-A
+    - Adita VALORES-LIMITE BIOLÓGICOS E MEDIDAS DE VIGILÂNCIA MÉDICA
+    - Adita (Artigo 16.º, n.º 4)
+  - date: '2024-04-08'
+    amending: eu:celex:32024L0869:por
+    amending_title: DIRETIVA (UE) 2024/869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 17.º-A — Exercício da delegação
+    - Altera Artigo 18.º-A — Avaliação
+    - Altera A. VALORES-LIMITE DE EXPOSIÇÃO PROFISSIONAL
+    - Altera (Artigo 16.º, n.º 4)
+    - Altera Notas
+    - Adita Lista de substâncias, misturas e processos [artigo 2.º, alínea a), subalínea ii), e alínea b), subalínea ii)]
+    - Suprime Lista de substâncias, [►M1](http://publications.europa.eu/resource/celex/32014L0027) misturas◄ e processos
+    - Suprime [alínea a) iii) do artigo 2.º]
 identifiers:
   celex: 32004L0037
   eli: http://data.europa.eu/eli/dir/2004/37/oj
@@ -51,7 +149,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/308eb2e0-b58b-4464-abb4-bcf98a4eb0e1.0010
   content_url: http://publications.europa.eu/resource/cellar/b6405fae-280e-11ef-a195-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0037-20240408
-  retrieved_at: '2026-10-22T02:41:25Z'
+  retrieved_at: '2026-10-22T14:56:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-31T08:44:09.503+01:00'
 integrity:
@@ -60,9 +158,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:25Z'
-  notes: Texto consolidado 02004L0037-20240408.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:59Z'
+  notes: 6 versão(ões); histórico completo em diretiva-ue-2004-37.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -224,40 +322,20 @@ relationships:
   source: null
 article_structure:
   article_count: 27
-  section_count: 26
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 27
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:25Z'
-  warnings: []
+  checked_at: '2026-10-22T14:56:59Z'
+  warnings:
+  - '32004L0037: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 2004/37/CE do Parlamento Europeu e do Conselho, de 29 de Abril de 2004
-
-> 02004L0037 — PT — 08.04.2024 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014L0027) — [DIRETIVA 2014/27/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014L0027) — L 65 — 1 — 5.3.2014
-- [►M2](http://publications.europa.eu/resource/celex/32017L2398) — [DIRETIVA (UE) 2017/2398 DO PARLAMENTO EUROPEU E DO CONSELHO, de 12 de dezembro de 2017,](http://publications.europa.eu/resource/celex/32017L2398) — L 345 — 87 — 27.12.2017
-- [►M3](http://publications.europa.eu/resource/celex/32019L0130) — [DIRETIVA (UE) 2019/130 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de janeiro de 2019](http://publications.europa.eu/resource/celex/32019L0130) — L 30 — 112 — 31.1.2019
-- [►M4](http://publications.europa.eu/resource/celex/32019L0983) — [DIRETIVA (UE) 2019/983 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019](http://publications.europa.eu/resource/celex/32019L0983) — L 164 — 23 — 20.6.2019
-- [►M5](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [►M6](http://publications.europa.eu/resource/celex/32022L0431) — [DIRETIVA (UE) 2022/431 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de março de 2022](http://publications.europa.eu/resource/celex/32022L0431) — L 88 — 1 — 16.3.2022
-- [►M7](http://publications.europa.eu/resource/celex/32024L0869) — [DIRETIVA (UE) 2024/869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024](http://publications.europa.eu/resource/celex/32024L0869) — L 869 — 1 — 19.3.2024
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32004L0037R%2801%29) — [Rectificação, JO L 229, 29.6.2004, p. 23 (2004/37/CE)](http://publications.europa.eu/resource/celex/32004L0037R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32017L2398R%2802%29) — [Rectificação, JO L 136, 1.6.2018, p. 88 (2017/2398)](http://publications.europa.eu/resource/celex/32017L2398R%2802%29)
-
-## DIRECTIVA 2004/37/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 29 de Abril de 2004
 

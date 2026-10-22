@@ -36,6 +36,76 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-01-28'
+version_history:
+  file: regulamento-ue-2005-183.versoes.json
+  count: 5
+  source_lastmod: '2022-01-28'
+  versions:
+  - date: '2009-04-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-09-16'
+    amending: eu:celex:32012R0225:por
+    amending_title: REGULAMENTO (UE) N. o 225/2012 DA COMISSÃO de 15 de março de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera INSTALAÇÕES E EQUIPAMENTO
+    - Altera PRODUÇÃO
+    - Altera ARMAZENAMENTO E TRANSPORTE
+    - Altera Lista das empresas aprovadas no sector dos alimentos para animais
+    - Altera Notas
+    - Adita DEFINIÇÕES
+    - Adita VIGILÂNCIA DAS DIOXINAS
+  - date: '2015-11-12'
+    amending: eu:celex:32015R1905:por
+    amending_title: REGULAMENTO (UE) 2015/1905 DA COMISSÃO de 22 de outubro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera DEFINIÇÕES
+    - Altera PRODUÇÃO
+    - Altera Lista das empresas aprovadas no sector dos alimentos para animais
+    - Altera Notas
+    - Adita VIGILÂNCIA DAS DIOXINAS DE ÓLEOS, GORDURAS E PRODUTOS DERIVADOS
+    - Suprime VIGILÂNCIA DAS DIOXINAS
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Obrigações específicas
+    - Altera Artigo 10.º — Aprovação de estabelecimentos do sector dos alimentos para animais
+    - Altera Artigo 27.º
+    - Altera Artigo 31.º — Comité Permanente
+    - Altera DEFINIÇÕES
+    - Altera PRODUÇÃO
+    - Altera CONTROLO DE QUALIDADE
+    - Altera VIGILÂNCIA DAS DIOXINAS DE ÓLEOS, GORDURAS E PRODUTOS DERIVADOS
+    - Altera CAPÍTULO 1
+    - Altera Lista das empresas aprovadas no sector dos alimentos para animais
+    - Altera Notas
+    - Adita Artigo 28.º — Derrogações ao disposto nos anexos I, II e III
+    - Adita Artigo 30.º-A — Exercício da delegação
+    - Suprime Artigo 28.º
+  - date: '2022-01-28'
+    amending: eu:celex:32019R0004:por
+    amending_title: REGULAMENTO (UE) 2019/4 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Obrigações específicas
+    - Altera Artigo 30.º-A — Exercício da delegação
+    - Altera DEFINIÇÕES
+    - Altera PRODUÇÃO
+    - Altera VIGILÂNCIA DAS DIOXINAS DE ÓLEOS, GORDURAS E PRODUTOS DERIVADOS
+    - Altera Lista das empresas aprovadas no sector dos alimentos para animais
+    - Altera Notas
 identifiers:
   celex: 32005R0183
   eli: http://data.europa.eu/eli/reg/2005/183/oj
@@ -50,7 +120,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4c15cbe8-0ebd-4552-8f06-8fc8d114ba13.0017
   content_url: http://publications.europa.eu/resource/cellar/483ffeba-6818-11ec-9136-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R0183-20220128
-  retrieved_at: '2026-10-22T02:37:12Z'
+  retrieved_at: '2026-10-22T15:00:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-02T22:03:20.807+01:00'
 integrity:
@@ -59,9 +129,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:12Z'
-  notes: Texto consolidado 02005R0183-20220128.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:00:03Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2005-183.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -253,37 +323,20 @@ relationships:
   date: '1998-07-29'
 article_structure:
   article_count: 35
-  section_count: 46
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 47
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:12Z'
-  warnings: []
+  checked_at: '2026-10-22T15:00:03Z'
+  warnings:
+  - '02005R0183-20050208: versão indisponível (Sem expressão na língua por para CELEX 02005R0183-20050208.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 183/2005 do Parlamento Europeu e do Conselho, de 12 de Janeiro de 2005
-
-> 02005R0183 — PT — 28.01.2022 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) n.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-- [►M2](http://publications.europa.eu/resource/celex/32012R0225) — [REGULAMENTO (UE) N.º 225/2012 DA COMISSÃO de 15 de março de 2012](http://publications.europa.eu/resource/celex/32012R0225) — L 77 — 1 — 16.3.2012
-- [►M3](http://publications.europa.eu/resource/celex/32015R1905) — [REGULAMENTO (UE) 2015/1905 DA COMISSÃO de 22 de outubro de 2015](http://publications.europa.eu/resource/celex/32015R1905) — L 278 — 5 — 23.10.2015
-- [►M4](http://publications.europa.eu/resource/celex/32019R0004) — [REGULAMENTO (UE) 2019/4 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018](http://publications.europa.eu/resource/celex/32019R0004) — L 4 — 1 — 7.1.2019
-- [►M5](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32005R0183R%2808%29) — [Rectificação, JO L 191, 16.6.2020, p. 9 (183/2005)](http://publications.europa.eu/resource/celex/32005R0183R%2808%29)
-
-## REGULAMENTO (CE) N.º 183/2005 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 12 de Janeiro de 2005
 

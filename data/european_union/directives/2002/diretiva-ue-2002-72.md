@@ -34,6 +34,50 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-05-01'
+version_history:
+  file: diretiva-ue-2002-72.versoes.json
+  count: 2
+  source_lastmod: '2011-05-01'
+  versions:
+  - date: '2002-08-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-05-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime ANEXO I — DISPOSIÇÕES ADICIONAIS APLICÁVEIS PARA VERIFICAÇÃO DO CUMPRIMENTO DOS LIMITES DE MIGRAÇÃO
+    - Suprime ANEXO II — LISTA DE MONÓMEROS E OUTRAS SUBSTÂNCIAS INICIADORAS QUE PODEM SER USADAS NO FABRICO DE MATERIAIS
+      E OBJECTOS DE MATÉRIA PLÁSTICA
+    - Suprime Secção A — Lista de monómeros e outras substâncias iniciadoras autorizados
+    - Suprime Secção B — Lista de monómeros e outras substâncias iniciadoras que podem continuar a ser usados enquanto se
+      aguarda decisão sobre a sua inclusão na secção A
+    - Suprime ANEXO III — LISTA INCOMPLETA DE ADITIVOS QUE PODEM SER UTILIZADOS NO FABRICO DE MATERIAIS E OBJECTOS DE MATÉRIA
+      PLÁSTICA
+    - Suprime Secção A — Lista incompleta dos aditivos totalmente harmonizados a nível comunitário
+    - Suprime Secção B — Lista incompleta dos aditivos referidos no segundo parágrafo do artigo 4.o
+    - Suprime ANEXO IV — PRODUTOS OBTIDOS POR FERMENTAÇÃO BACTERIANA
+    - Suprime ANEXO V — ESPECIFICAÇÕES
+    - 'Suprime PARTE A: Especificações gerais'
+    - 'Suprime PARTE B: Outras especificações — >POSIÇÃO NUMA TABELA>'
+    - Suprime ANEXO VI — NOTAS RELATIVAS À COLUNA "RESTRIÇÕES E/OU ESPECIFICAÇÕES"
+    - Suprime ANEXO VII — Parte A
+    - Suprime Parte B — PRAZOS DE TRANSPOSIÇÃO PARA O DIREITO NACIONAL
+    - Suprime ANEXO VIII — QUADRO DE CORRELAÇÃO
 identifiers:
   celex: 32002L0072
   eli: http://data.europa.eu/eli/dir/2002/72/oj
@@ -48,7 +92,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e09295b5-32d0-4475-a69f-dc19fd355b96.0010
   content_url: http://publications.europa.eu/resource/cellar/f3614adb-3573-4205-be1b-8cbe52a45751.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0072-20110501
-  retrieved_at: '2026-10-22T02:42:31Z'
+  retrieved_at: '2026-10-22T14:52:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T16:12:53.762+01:00'
 integrity:
@@ -57,9 +101,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:31Z'
-  notes: Texto consolidado 02002L0072-20110501.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:14Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2002-72.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -189,16 +233,21 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:31Z'
+  checked_at: '2026-10-22T14:52:14Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02002L0072-20020904: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002L0072-20040202: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002L0072-20040330: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002L0072-20051209: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002L0072-20070420: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002L0072-20080327: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002L0072-20091109: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

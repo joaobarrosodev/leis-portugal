@@ -36,6 +36,85 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-26'
+version_history:
+  file: diretiva-ue-1994-63.versoes.json
+  count: 4
+  source_lastmod: '2019-07-26'
+  versions:
+  - date: '1994-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-11'
+    amending: eu:celex:32003R1882:por
+    amending_title: REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003; REGULAMENTO
+      (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE22 de Outubro de 2008 que adapta à Decisão 1999/468/CE do
+      Conselho certos actos sujeitos ao procedimento previsto no artigo 251. o do Tratado, no que se refere ao procedimento
+      de regulamentação com controlo
+    changes:
+    - Altera preambulo
+    - Altera ANEXO III
+    - Adita Artigo 1.º — âmbito de aplicação
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 3.º — Instalações de armazenamento em terminais
+    - Adita Artigo 4.º — Carga e descarga de reservatórios móveis nos terminais
+    - Adita Artigo 5.º — Reservatórios móveis
+    - Adita Artigo 6.º — Carga das instalações de armazenamento das estações de serviço
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º — Comité
+    - Adita Artigo 9.º — Controlo periódico e elaboração dos relatórios
+    - Adita Artigo 10.º — Transposição para o direito nacional
+    - Adita Artigo 11.º — Disposição final
+    - Adita ANEXO I
+    - Adita REQUISITOS DAS INSTALAÇÕES DE ARMAZENAMENTO DOS TERMINAIS
+    - Adita ANEXO II
+    - Adita REQUISITOS DAS INSTALAÇÕES DE CARGA E DE DESCARGA DOS TEMINAIS
+    - Adita REQUISITOS DAS INSTALAÇÕES DE CARGA E ARMAZENAMENTO DAS ESTAÇÕES DE SERVIÇO E DOS TERMINAIS EM QUE É EFECTUADO
+      O ARMAZENAMENTO INTERMEDIÁRIO DE VAPORES
+    - Adita ANEXO IV
+    - Adita ESPECIFICAÇÕES PARA O CARREGAMENTO PELO FUNDO, RECOLHA DE VAPORES E PROTECÇÃO CONTRA A SOBRECARGA DOS CAMIÕES-CISTERNA
+      EUROPEUS
+    - Adita 1. Acoplamentos
+    - Adita 2. Condições de carga
+    - Adita 3. Ligação à massa/ detecção de sobrecarga do veículo
+    - Adita 4. Posição das conexões
+    - Adita 5. Dispositivos de segurança
+    - Adita 5.1. Ligação à massa/detecção de sobrecarga
+    - Adita 5.2. Detecção de recolha de vapor
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime ANEXO I — REQUISITOS DAS INSTALAÇÕES DE ARMAZENAMENTO DOS TERMINAIS
+  - date: '2018-07-04'
+    amending: eu:celex:32018D0853:por
+    amending_title: DECISÃO (UE) 2018/853 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Carga e descarga de reservatórios móveis nos terminais
+    - Altera Artigo 6.º — Carga das instalações de armazenamento das estações de serviço
+    - Altera Artigo 9.º — Controlo periódico e elaboração dos relatórios
+    - Altera Notas
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Carga e descarga de reservatórios móveis nos terminais
+    - Altera Notas
+    - Adita Artigo 7.º — Adaptação ao progresso técnico
+    - Adita Artigo 7.º-A — Exercício da delegação
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º — Comité
 identifiers:
   celex: 31994L0063
   eli: http://data.europa.eu/eli/dir/1994/63/oj
@@ -50,7 +129,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0fe20b4c-3130-47e5-a0b8-18512020f0a4.0011
   content_url: http://publications.europa.eu/resource/cellar/f85ca396-e630-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0063-20190726
-  retrieved_at: '2026-10-22T02:40:19Z'
+  retrieved_at: '2026-10-22T14:43:20Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-26T01:38:28.689+01:00'
 integrity:
@@ -59,9 +138,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:19Z'
-  notes: Texto consolidado 01994L0063-20190726.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:43:20Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1994-63.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -164,32 +243,20 @@ relationships:
   source: null
 article_structure:
   article_count: 11
-  section_count: 15
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 16
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:19Z'
-  warnings: []
+  checked_at: '2026-10-22T14:43:20Z'
+  warnings:
+  - '01994L0063-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 94/63/CEE do Parlamento Europeu e do Conselho, de 20 de Dezembro de 1994
-
-> 01994L0063 — PT — 26.07.2019 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32003R1882) — [REGULAMENTO (CE) N.º 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
-- [M2](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE22 de Outubro de 2008 que adapta à Decisão 1999/468/CE do Conselho certos actos sujeitos ao procedimento previsto no artigo 251.º do Tratado, no que se refere ao procedimento de regulamentação com controlo](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [►M3](http://publications.europa.eu/resource/celex/32018D0853) — [DECISÃO (UE) 2018/853 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018](http://publications.europa.eu/resource/celex/32018D0853) — L 150 — 155 — 14.6.2018
-- [►M4](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-## DIRECTIVA 94/63/CEE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de Dezembro de 1994
 

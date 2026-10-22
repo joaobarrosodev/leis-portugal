@@ -36,6 +36,188 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-01-01'
+version_history:
+  file: regulamento-ue-2000-2037.versoes.json
+  count: 8
+  source_lastmod: '2010-01-01'
+  versions:
+  - date: '2000-09-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-12-24'
+    amending: eu:celex:32000R2038:por
+    amending_title: REGULAMENTO (CE) N. o 2038/2000 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de Setembro de 2000; REGULAMENTO
+      (CE) N. o 2039/2000 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de Setembro de 2000; DECISÃO DA COMISSÃO de 7 de Março
+      de 2003; REGULAMENTO (CE) N. o 1804/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Setembro de 2003; DECISÃO DA COMISSÃO
+      de 3 de Março de 2004; REGULAMENTO (CE) N. o 2077/2004 DA COMISSÃO de 3 de Dezembro de 2004; Acto relativo às condições
+      de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República
+      da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da
+      República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Controlo da produção de substâncias regulamentadas
+    - Altera Artigo 4.º — Controlo da colocação no mercado e da utilização de substâncias regulamentadas
+    - Altera Artigo 5.º — Controlo da utilização de hidroclorofluorocarbonos
+    - Altera Artigo 6.º — Licenças para importação de países terceiros
+    - Altera Artigo 11.º — Exportação de substâncias regulamentadas ou de produtos que as contenham
+    - Altera Artigo 12.º — Licença de exportação
+    - Altera Artigo 16.º — Recuperação de substâncias regulamentadas usadas
+    - Altera Artigo 19.º — Comunicação de dados
+    - Altera Artigo 24.º — Entrada em vigor
+    - Altera ANEXO III
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES INTRODUTÓRIAS
+    - Adita CAPÍTULO II
+    - Adita CALENDÁRIO DE ELIMINAÇÃO PROGRESSIVA
+    - Adita CAPÍTULO III
+    - Adita COMÉRCIO
+    - Adita CAPÍTULO IV
+    - Adita CONTROLO DAS EMISSÕES
+    - Adita CAPÍTULO V
+    - Adita COMITÉ, COMUNICAÇÃO DE DADOS, INSPECÇÕES E SANÇÕES
+    - Adita CAPÍTULO VI
+    - Adita NOVAS SUBSTÂNCIAS
+    - Adita CAPÍTULO VII
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita ANEXO I
+    - Adita ANEXO IV
+    - Adita ANEXO V
+    - Adita Códigos da Nomenclatura Combinada (NC) de produtos que contêm substâncias regulamentadas ([^9^](http://publications.europa.eu/resource/cellar/420b292d-2b84-4b17-91c0-e69f54c09f59.0010.03/DOC_1#E0009))
+    - Adita 1. Equipamentos de ar condicionado para automóveis e camiões
+    - Adita 2. Refrigeração doméstica e comercial e equipamentos de ar condicionado e bombas de calor
+    - 'Adita Frigoríficos:'
+    - 'Adita Congeladores:'
+    - 'Adita Desumidificadores:'
+    - 'Adita Refrigeradores de água e dispositivos de liquefacção de gás:'
+    - 'Adita Máquinas de gelo:'
+    - 'Adita Equipamentos de ar condicionado e bombas de calor:'
+    - Adita 3. Aerossóis, excepto no sector médico
+  - date: '2006-01-31'
+    amending: eu:celex:32006R0029:por
+    amending_title: REGULAMENTO (CE) N. o 29/2006 DA COMISSÃO de 10 de Janeiro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 16.º — Recuperação de substâncias regulamentadas usadas
+    - Altera ANEXO I
+    - Altera ANEXO III
+    - Altera ANEXO IV
+    - Altera Notas
+    - Adita Códigos da Nomenclatura Combinada (NC) de produtos que contêm substâncias regulamentadas ([^9^](http://publications.europa.eu/resource/cellar/04afea84-5ce0-4099-90cb-0bb545aa04cd.0016.03/DOC_1#E0009))
+    - Suprime Códigos da Nomenclatura Combinada (NC) de produtos que contêm substâncias regulamentadas ([^9^](http://publications.europa.eu/resource/cellar/420b292d-2b84-4b17-91c0-e69f54c09f59.0010.03/DOC_1#E0009))
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1366:por
+    amending_title: REGULAMENTO (CE) N. o 1366/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de Setembro de 2006; REGULAMENTO
+      (CE) N. o 1784/2006 DA COMISSÃO de 4 de Dezembro de 2006; REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro
+      de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Controlo da colocação no mercado e da utilização de substâncias regulamentadas
+    - Altera Artigo 16.º — Recuperação de substâncias regulamentadas usadas
+    - Altera ANEXO I
+    - Altera ANEXO III
+    - Altera Notas
+    - Adita Códigos da Nomenclatura Combinada (NC) de produtos que contêm substâncias regulamentadas ([^9^](http://publications.europa.eu/resource/cellar/b8f4d1c3-a606-4282-aaaa-8d08c2fd4e4e.0016.03/DOC_1#E0014))
+    - Adita Processos em que as substâncias regulamentadas são utilizadas como agentes de transformação, definidos no décimo
+      sexto travessão do artigo 2.º
+    - Suprime Códigos da Nomenclatura Combinada (NC) de produtos que contêm substâncias regulamentadas ([^9^](http://publications.europa.eu/resource/cellar/04afea84-5ce0-4099-90cb-0bb545aa04cd.0016.03/DOC_1#E0009))
+    - Suprime Processos em que as substâncias regulamentadas são utilizadas como agentes de transformação, definidos no décimo
+      quinto travessão do artigo 2.º
+  - date: '2007-07-31'
+    amending: eu:celex:32007R0899:por
+    amending_title: REGULAMENTO (CE) N. o 899/2007 DA COMISSÃO de 27 de Julho de 2007; DECISÃO DA COMISSÃO de 30 de Julho
+      de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 16.º — Recuperação de substâncias regulamentadas usadas
+    - Altera ANEXO I
+    - Altera ANEXO III
+    - Altera ANEXO IV
+    - Altera Utilizações críticas dos halons
+    - Altera Notas
+    - Adita Códigos da Nomenclatura Combinada (NC) de produtos que contêm substâncias regulamentadas ([^9^](http://publications.europa.eu/resource/cellar/13561da4-d68c-451d-adf0-d357caae65d9.0017.03/DOC_1#E0014))
+    - Suprime Códigos da Nomenclatura Combinada (NC) de produtos que contêm substâncias regulamentadas ([^9^](http://publications.europa.eu/resource/cellar/b8f4d1c3-a606-4282-aaaa-8d08c2fd4e4e.0016.03/DOC_1#E0014))
+  - date: '2008-01-01'
+    amending: eu:celex:32008R0473:por
+    amending_title: REGULAMENTO (CE) N. o 473/2008 DA COMISSÃO de 29 de Maio de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 16.º — Recuperação de substâncias regulamentadas usadas
+    - Altera ANEXO I
+    - Altera ANEXO III
+    - Altera ANEXO IV
+    - Altera Notas
+    - Adita Códigos da Nomenclatura Combinada (NC) de produtos que contêm substâncias regulamentadas ([^9^](http://publications.europa.eu/resource/cellar/15901ccd-d431-4e54-821f-3f1523e7a05f.0017.03/DOC_1#E0014))
+    - Suprime Códigos da Nomenclatura Combinada (NC) de produtos que contêm substâncias regulamentadas ([^9^](http://publications.europa.eu/resource/cellar/13561da4-d68c-451d-adf0-d357caae65d9.0017.03/DOC_1#E0014))
+  - date: '2009-08-07'
+    amending: eu:celex:32009R0596:por
+    amending_title: REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Controlo da colocação no mercado e da utilização de substâncias regulamentadas
+    - Altera Artigo 5.º — Controlo da utilização de hidroclorofluorocarbonos
+    - Altera Artigo 6.º — Licenças para importação de países terceiros
+    - Altera Artigo 9.º — Importação de produtos que contenham substâncias regulamentadas de Estados não partes no protocolo
+    - Altera Artigo 11.º — Exportação de substâncias regulamentadas ou de produtos que as contenham
+    - Altera Artigo 16.º — Recuperação de substâncias regulamentadas usadas
+    - Altera Artigo 18.º — Comité
+    - Altera Artigo 19.º — Comunicação de dados
+    - Altera ANEXO I
+    - Altera ANEXO III
+    - Altera Notas
+    - Adita Códigos da Nomenclatura Combinada (NC) de produtos que contêm substâncias regulamentadas ([^9^](http://publications.europa.eu/resource/cellar/efc5e964-7821-4cdc-8f08-5d103478044c.0017.03/DOC_1#E0014))
+    - Suprime Códigos da Nomenclatura Combinada (NC) de produtos que contêm substâncias regulamentadas ([^9^](http://publications.europa.eu/resource/cellar/15901ccd-d431-4e54-821f-3f1523e7a05f.0017.03/DOC_1#E0014))
+  - date: '2010-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES INTRODUTÓRIAS
+    - Suprime Artigo 1.º — Âmbito
+    - Suprime Artigo 2.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime CALENDÁRIO DE ELIMINAÇÃO PROGRESSIVA
+    - Suprime Artigo 3.º — Controlo da produção de substâncias regulamentadas
+    - Suprime Artigo 4.º — Controlo da colocação no mercado e da utilização de substâncias regulamentadas
+    - Suprime Artigo 5.º — Controlo da utilização de hidroclorofluorocarbonos
+    - Suprime CAPÍTULO III
+    - Suprime COMÉRCIO
+    - Suprime Artigo 6.º — Licenças para importação de países terceiros
+    - Suprime Artigo 7.º — Importação de substâncias regulamentadas de países terceiros
+    - Suprime Artigo 8.º — Importação de substâncias regulamentadas de Estados não partes no protocolo
+    - Suprime Artigo 9.º — Importação de produtos que contenham substâncias regulamentadas de Estados não partes no protocolo
+    - Suprime Artigo 10.º — Importação de produtos fabricados com substâncias regulamentadas de Estados não partes no protocolo
+    - Suprime Artigo 11.º — Exportação de substâncias regulamentadas ou de produtos que as contenham
+    - Suprime Artigo 12.º — Licença de exportação
+    - Suprime Artigo 13.º — Licença excepcional para o comércio com Estados não partes no protocolo
+    - Suprime Artigo 14.º — Comércio com territórios não abrangidos pelo protocolo
+    - Suprime Artigo 15.º — Informação dos Estados-Membros
+    - Suprime CAPÍTULO IV
+    - Suprime CONTROLO DAS EMISSÕES
+    - Suprime Artigo 16.º — Recuperação de substâncias regulamentadas usadas
+    - Suprime Artigo 17.º — Fugas de substâncias regulamentadas
+    - Suprime CAPÍTULO V
+    - Suprime COMITÉ, COMUNICAÇÃO DE DADOS, INSPECÇÕES E SANÇÕES
+    - Suprime Artigo 18.º — Comité
+    - Suprime Artigo 19.º — Comunicação de dados
+    - Suprime Artigo 20.º — Inspecção
+    - Suprime Artigo 21.º — Sanções
+    - Suprime CAPÍTULO VI
+    - Suprime NOVAS SUBSTÂNCIAS
+    - Suprime Artigo 22.º — Novas substâncias
+    - Suprime CAPÍTULO VII
+    - Suprime DISPOSIÇÕES FINAIS
+    - Suprime Artigo 23.º — Revogação
+    - Suprime Artigo 24.º — Entrada em vigor
+    - Suprime ANEXO I
 identifiers:
   celex: 32000R2037
   eli: http://data.europa.eu/eli/reg/2000/2037/oj
@@ -50,7 +232,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e7916be1-fd73-4b66-9902-43a451b6254f.0009
   content_url: http://publications.europa.eu/resource/cellar/dccb59fb-0fc1-4459-9b84-723fcb458f23.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R2037-20100101
-  retrieved_at: '2026-10-22T02:38:36Z'
+  retrieved_at: '2026-10-22T14:49:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-30T01:06:54.009+01:00'
 integrity:
@@ -59,9 +241,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:36Z'
-  notes: Texto consolidado 02000R2037-20100101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:40Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-2000-2037.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -234,16 +416,19 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:36Z'
+  checked_at: '2026-10-22T14:49:40Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02000R2037-20000930: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000R2037-20030308: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000R2037-20031105: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000R2037-20040310: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000R2037-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

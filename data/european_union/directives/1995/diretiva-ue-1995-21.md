@@ -35,6 +35,50 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-01-01'
+version_history:
+  file: diretiva-ue-1995-21.versoes.json
+  count: 2
+  source_lastmod: '2011-01-01'
+  versions:
+  - date: '1995-07-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º — Objectivo
+    - Suprime Artigo 2º — Definições
+    - Suprime Artigo 3º — Âmbito
+    - Suprime Artigo 4º — Organismo responsável pelas inspecções
+    - Suprime Artigo 5º — Obrigações de inspecção
+    - Suprime Artigo 6º — Procedimento de inspecção
+    - Suprime Artigo 7º — Inspecção alargada de determinados navios
+    - Suprime Artigo 8º — Relatório de inspecção para o comandante
+    - Suprime Artigo 9º — Correcção das anomalias e imobilização
+    - Suprime Artigo 10º — Direito de recurso
+    - Suprime Artigo 11º — Acompanhamento das inspecções e imobilizações
+    - Suprime Artigo 12º — Perfil profissional dos inspectores
+    - Suprime Artigo 13º — Relatórios dos pilotos e das autoridades portuárias
+    - Suprime Artigo 14º — Cooperação
+    - Suprime Artigo 15º — Publicação das imobilizações
+    - Suprime Artigo 16º — Reembolso das despesas
+    - Suprime Artigo 17º — Dados para controlo da aplicação
+    - Suprime Artigo 18º — Comité de regulamentação
+    - Suprime Artigo 19º — Procedimento de alteração
+    - Suprime Artigo 20º — Aplicação
+    - Suprime Artigo 21º
+    - Suprime Artigo 22º
+    - Suprime ANEXO I — LISTA DE NAVIOS A INSPECCIONAR PRIORITARIAMENTE [referida no nº 2, do artigo 5º (*)]
+    - Suprime ANEXO II — LISTA DE CERTIFICADOS E DOCUMENTOS (referida no nº 1 do artigo 6º)
+    - Suprime ANEXO III — LISTA DE EXEMPLOS DE «MOTIVOS INEQUÍVOCOS» PARA A INSPECÇÃO APROFUNDADA (referida no nº 3 do artigo
+      6º)
+    - Suprime ANEXO IV — PROCEDIMENTOS PARA A INSPECÇÃO DOS NAVIOS (referidos no nº 4 do artigo 6º)
+    - Suprime ANEXO V — A. TIPOS DE NAVIOS SUJEITOS A INSPECÇÃO ALARGADA (referidos no nº 1 do artigo 7º)
+    - Suprime ANEXO VI — CRITÉRIOS DE IMOBILIZAÇÃO DE UM NAVIO (referidos no nº 3 do artigo 9º)
+    - Suprime ANEXO VII — CRITÉRIOS MÍNIMOS PARA OS INSPECTORES (referidos no nº 1 do artigo 12º)
 identifiers:
   celex: 31995L0021
   eli: http://data.europa.eu/eli/dir/1995/21/oj
@@ -49,7 +93,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/dec5a6d8-2df7-46fa-914c-9cfe5f3f1a61.0011
   content_url: http://publications.europa.eu/resource/cellar/50c266c3-4c51-4de7-a65d-0f44023d5cb3.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0021-20110101
-  retrieved_at: '2026-10-22T02:39:00Z'
+  retrieved_at: '2026-10-22T14:44:01Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T21:21:12.995+01:00'
 integrity:
@@ -58,9 +102,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:00Z'
-  notes: Texto consolidado 01995L0021-20110101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:44:01Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1995-21.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -184,16 +228,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:00Z'
+  checked_at: '2026-10-22T14:44:01Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01995L0021-19980704: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995L0021-19991230: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995L0021-20020122: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995L0021-20021129: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

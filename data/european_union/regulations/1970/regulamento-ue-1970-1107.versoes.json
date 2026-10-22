@@ -1,0 +1,129 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31970R1107:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01970R1107-20091203",
+ "dre_path": null,
+ "source_lastmod": "2009-12-03",
+ "versions": [
+  {
+   "date": "1970-06-15",
+   "future": false,
+   "celex": "31970R1107",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "46506fc01dcd1bd3",
+    "d28a731b02b418e8",
+    "7ff2ed770c2e15b4",
+    "34900415d46f07d7",
+    "016aa9e02c99094f",
+    "ce845ceff50638b9",
+    "8b376dbd30f34d15",
+    "9d80ff0bc1e10f09",
+    "1a2fc18774b3a4d1"
+   ]
+  },
+  {
+   "date": "2009-12-03",
+   "future": false,
+   "celex": "01970R1107-20091203",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o"
+   ],
+   "fragments": [
+    "4403e7608cc9624e"
+   ]
+  }
+ ],
+ "fragments": {
+  "46506fc01dcd1bd3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 1107/70, de 4 de Junho de 1970, relativo aos auxílios concedidos no domínio dos transportes ferroviários, rodoviários e por via navegável** *Jornal Oficial nº L 130 de 15/06/1970 p. 0001 - 0003 Edição especial finlandesa: Capítulo 7 Fascículo 1 p. 0097 Edição especial dinamarquesa: Série I Capítulo 1970(II) p. 0309 Edição especial sueca: Capítulo 7 Fascículo 1 p. 0097 Edição especial inglesa: Série I Capítulo 1970(II) p. 0360 Edição especial grega: Capítulo 07 Fascículo 1 p. 0135 Edição especial espanhola: Capítulo 08 Fascículo 1 p. 0164 Edição especial portuguesa: Capítulo 08 Fascículo 1 p. 0164*\n\nREGULAMENTO (CEE) No 1107/70 de 4 de Junho de 1970 relativo aos auxílios concedidos no domínio dos transportes ferroviários, rodoviários e por via navegável\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 75o, 77o e 94o,\n\nTendo em conta a Decisão do Conselho, de 13 de Maio de 1965, relativa à harmonização de certas disposições com incidência na concorrência no domínio dos transportes ferroviários, rodoviários e por via navegável (1) e, nomeadamente, o seu artigo 9o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a eliminação de disparidades, capazes de falsear as condições de concorrência no mercado de transportes, constitui um objectivo principal da política comum de transportes;\n\nConsiderando que, para esse efeito, é conveniente fixar certas regras relativas aos auxílios concedidos no domínio dos transportes ferroviários, rodoviários e por via navegável, desde que esses auxílios se destinem especificamente à actividade desse sector;\n\nConsiderando que o artigo 77o declara compatíveis com o Tratado os auxílios que vão ao encontro das necessidades da coordenação dos transportes ou correspondam ao reembolso de certas prestações inerentes à noção de serviço público;\n\nConsiderando que foram adoptadas respectivamente pelos Regulamentos (CEE) nos 1192/69 e 1191/69 do Conselho, de 26 de Junho de 1969 (4), regras a métodos comuns para as compensações financeiras decorrentes da normalização das contas das empresas de caminho de ferro e para a compensação dos encargos resultantes das obrigações de serviço público no domínio dos transportes ferroviários, rodoviários e por via navegável;\n\nConsiderando que é, portanto, necessário precisar os casos e as condições em que os Estados-membros terão a faculdade de tomar medidas de coordenação ou impôr prestações inerentes à noção de serviço público que impliquem, nos termos do artigo 77o do Tratado, a concessão de auxílios não referidos nos regulamentos já citados;\n\nConsiderando que os pagamentos dos Estados e das colectividades públicas a favor das empresas de caminho de ferro devem ser objecto de regulamentações comunitárias, em conformidade com o artigo 8o da Decisão do Conselho, de 13 de Maio de 1965; que os pagamentos efectuados, pelo facto de a harmonização referida no citado artigo 8o não ter sido ainda realizada, devem ser isentos da aplicação das disposições do presente regulamento que dão aos Estados-membros a faculdade de tomar medidas de coordenação ou impôr prestações inerentes à noção de serviço público, que envolvam a concessão de auxílios nos termos do artigo 77o do Tratado;\n\nConsiderando que, dada a natureza especial desses pagamentos, parece indicado, em aplicação do artigo 94o do Tratado, submetê-los a um processo especial para a informação da Comissão;\n\nConsiderando que é conveniente não aplicar certas disposições do presente regulamento às medidas de execução tomadas por um Estado-membro no âmbito de um regime de auxílios que já foi objecto de uma tomada de posição da Comissão, nos termos dos artigos 77o, 92o e 93o do Tratado;\n\nConsiderando que, a fim de apoiar a Comissão no exame dos auxílios concedidos no domínio dos transportes, é conveniente criar junto dela, um Comité consultivo composto de peritos designados pelos Estados-membros,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "d28a731b02b418e8": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nO presente regulamento é aplicável aos auxílios concedidos no domínio dos transportes ferroviários, rodoviários e por via navegável, desde que esses auxílios se destinem especificamente à actividade desse sector."
+  },
+  "7ff2ed770c2e15b4": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs artigos 92o a 94o do Tratado são aplicáveis aos auxílios concedidos no domínio dos transportes ferroviários, rodoviários e por via navegável."
+  },
+  "34900415d46f07d7": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nSem prejuízo das disposições do Regulamento (CEE) no 1192/69 do Conselho, de 26 de Junho de 1969, relativo às regras comuns para a normalização de contas das empresas de caminho de ferro, e do Regulamento (CEE) no 1191/69 do Conselho, de 26 de Junho de 1969, relativo à acção dos Estados-membros em matéria de obrigações inerentes à noção de serviço público no domínio dos transportes ferroviários, rodoviários e por via navegável, os Estados-membros só tomarão medidas de coordenação ou imporão prestações inerentes à noção de serviço público, que envolvam a concessão de auxílio nos termos do artigo 77o do Tratado, nos casos e condições seguintes:\n\n1. Em matéria de coordenação dos transportes:\n\na) Quando os auxílios concedidos às empresas de caminho de ferro, não abrangidos pelo Regulamento (CEE) no 1192/69, se destinam a compensar encargos suplementares em relação a uma das rubricas de normalização previstas neste mesmo regulamento, que essas empresas suportam, comparativamente a outras empresas de transporte;\n\nb) Até à entrada em vigor de uma regulamentação comum em matéria de imputação dos custos de infra-estruturas, quando os auxílios são concedidos a empresas que suportam encargos relativos à infra-estrutura que utilizam, enquanto que outras empresas não suportam tais encargos; o montante dos auxílios concedidos deve ser apreciado tendo em conta os custos de infra-estrutura que os transportes concorrentes não suportam;\n\nc) Quando os auxílios têm como objectivo:\n\n- facilitar a pesquisa de formas técnicas de transporte mais económicas para a colectividade;\n\n- ou facilitar o desenvolvimento de formas e técnicas de transporte mais económicas para a colectividade,\n\ndevendo esses auxílios limitar-se à fase experimental e não se estender à fase de exploração comercial dessas formas e técnicas de transporte;\n\nd) Até à entrada em vigor de regulamentações comunitárias relativas ao acesso ao mercado de transportes, quando os auxílios são concedidos a título excepcional e temporário, a fim de eliminar, no quadro de um plano de saneamento, uma sobrecapacidade causadora de graves dificuldades estruturais, e contribuir, assim, para melhor corresponder às necessidades do mercado de transportes.\n\n2. Em matéria de reembolso de prestações inerentes à noção de serviço público:\n\naté à entrada em vigor de regulamentações comunitárias que lhes digam respeito, sempre que os pagamentos são feitos a favor de empresas de transportes ferroviários, rodoviários e por via navegável, para compensar as obrigações de serviço público que lhes são impostas pelo Estado ou pelas colectividades públicas, e visando:\n\n- quer obrigações tarifárias não previstas no no 5 do artigo 2o do Regulamento (CEE) no 1191/69;\n\n- quer as empresas ou as actividades de transporte excluídas do âmbito de aplicação desse regulamento.\n\n3. O Conselho, deliberando por maioria qualificada sobre proposta da Comissão, pode alterar a lista constante dos nos º 1 e 2, sem prejuízo do disposto no no 3 do artigo 75o do Tratado."
+  },
+  "016aa9e02c99094f": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nAté à entrada em vigor de regulamentações comunitárias adoptadas em conformidade com o artigo 8o da Decisão do Conselho, de 13 de Maio de 1965, e sem prejuízo das disposições do Regulamento (CEE) nos 1191/69 e do Regulamento (CEE) no 1192/69, o disposto no artigo 3o não se aplicará aos pagamentos dos Estados e das colectividades públicas às empresas de caminho de ferro, efectuados em virtude da não realização da harmonização, prevista no referido artigo 8o, das regras que regem as relações financeiras entre as empresas de caminho de ferro e os Estados, harmonização essa que tem em vista assegurar a autonomia financeira destas empresas."
+  },
+  "ce845ceff50638b9": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Ao informar a Comissão, em conformidade com o no 3 do artigo 93o do Tratado, sobre os projectos de instituição ou alteração dos auxílios, os Estados-membros comunicar-lhe-ao todos os elementos necessários para determinar se esses auxílios correspondem ao disposto no presente regulamento.\n\n2. Os auxílios referidos no artigo 4o estão dispensados do processo previsto no no 3 do artigo 93o do Tratado; os auxílios serão comunicados à Comissão, sob a forma de previsão, no início de cada ano e, posteriormente, no fim do ano financeiro, sob a forma de relatório."
+  },
+  "8b376dbd30f34d15": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nÉ criado junto à Comissão um Comité Consultivo encarregado de a apoiar no exame dos auxílios concedidos no domínio dos transportes ferroviários, rodoviários e por via navegável. Este Comité será presidido por um representante da Comissão e composto por representantes designados por cada Estado-membro. Será convocado com pelo menos 10 dias de antecedência em relação à data da reunião e com indicação da respectiva ordem do dia, podendo aquele prazo ser reduzido em caso de urgência. O disposto no artigo 83o do Tratado é aplicável ao funcionamento deste Comité.\n\nO Comité pode examinar e dar o seu parecer sobre qualquer questão relativa à execução do presente regulamento e das outras disposições concernentes ao regime de auxílios no sector de transportes.\n\nEste Comité será informado sobre a natureza, o montante e, de uma maneira geral, sobre todas as indicações úteis que digam respeito aos auxílios concedidos às empresas de transportes, logo que estas indicações, em conformidade com o disposto no presente regulamento, sejam levadas ao conhecimento da Comissão."
+  },
+  "9d80ff0bc1e10f09": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nO disposto no artigo 3o não é aplicável às medidas de execução tomadas por um Estado-membro, no âmbito de um regime de auxílios que já tenha sido objecto de uma tomada de posição da Comissão, nos termos dos artigos 77o, 92o e 93o do Tratado."
+  },
+  "1a2fc18774b3a4d1": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1971.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo em 4 de Junho de 1970.\n\nPelo Conselho\n\nO Presidente\n\nA. BERTRAND\n\n(1) JO no 88 de 24. 5. 1965, p. 1500/65.(2) JO no 103 de 2. 6. 1967, p. 2050/67.(3) JO no 178 de 2. 8. 1967, p. 18.(4) JO no L 156 de 28. 6. 1969."
+  },
+  "4403e7608cc9624e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1970R1107 — PT — 03.12.2009 — 007.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31970R1107) [REGULAMENTO (CEE) N.º 1107/70](http://publications.europa.eu/resource/celex/31970R1107) [de 4 de Junho de 1970](http://publications.europa.eu/resource/celex/31970R1107) [relativo aos auxílios concedidos no domínio dos transportes ferroviários, rodoviários e por via navegável](http://publications.europa.eu/resource/celex/31970R1107) (JO L 130, 15.6.1970, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1370/2007 do Parlamento Europeu e do Conselho de 23 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1370) — L 315 — 1 — 3.12.2007"
+  }
+ }
+}

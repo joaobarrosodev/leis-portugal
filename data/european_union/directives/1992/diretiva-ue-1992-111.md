@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '1992-12-30'
+version_history:
+  file: diretiva-ue-1992-111.versoes.json
+  count: 1
+  source_lastmod: '1992-12-30'
+  versions:
+  - date: '1992-12-30'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31992L0111
   eli: http://data.europa.eu/eli/dir/1992/111/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/11fec3df-225f-4343-9d59-be140a2bef6f.0009
   content_url: http://publications.europa.eu/resource/cellar/c6a50825-4620-4fd4-bfaa-ecf03b9a931e.0009.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0111-19921230
-  retrieved_at: '2026-10-22T02:50:29Z'
+  retrieved_at: '2026-10-22T14:41:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-31T20:27:20.231+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:50:29Z'
-  notes: Texto consolidado 01992L0111-19921230.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:21Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-1992-111.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -149,15 +158,14 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:50:29Z'
-  warnings:
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:41:21Z'
+  warnings: []
   errors: []
 ---
 

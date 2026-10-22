@@ -35,6 +35,64 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-09-18'
+version_history:
+  file: diretiva-ue-2008-50.versoes.json
+  count: 2
+  source_lastmod: '2015-09-18'
+  versions:
+  - date: '2008-06-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-09-18'
+    amending: eu:celex:32015L1480:por
+    amending_title: DIRETIVA (UE) 2015/1480 DA COMISSÃO Texto relevante para efeitos do EEE de 28 de agosto de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera A. Objectivos de qualidade dos dados na avaliação da qualidade do ar ambiente
+    - 'Altera C. Garantia da qualidade da avaliação da qualidade do ar ambiente: validação de dados'
+    - Altera 3. Partículas em suspensão (PM10/PM2,5)
+    - Altera C. Localização em micro-escala dos pontos de amostragem
+    - Altera Critérios para a determinação do número mínimo de pontos de amostragem para medições fixas de concentrações de
+      dióxido de enxofre, dióxido de azoto e óxidos de azoto, partículas em suspensão (PM10, PM2,5), chumbo, benzeno e monóxido
+      de carbono no ar ambiente
+    - Altera E. Reconhecimento mútuo dos dados
+    - Altera 2. Critérios
+    - Altera B. Valores-alvo
+    - Altera A. Localização em macro-escala
+    - Altera A. Critérios
+    - Altera B. Valores-limite
+    - Altera B. Limiares de informação e de alerta para o ozono
+    - Altera E. Valor-limite
+    - Altera B. Informações a fornecer nos termos do n.º 1 do artigo 22.º
+    - Altera Notas
+    - Adita D. Documentação e reavaliação da seleção dos locais
+    - Adita A. Métodos de referência para avaliação das concentrações de dióxido de enxofre, dióxido de azoto e óxidos de
+      azoto, partículas em suspensão (PM10 e PM2,5), chumbo, benzeno, monóxido de carbono e ozono
+    - Adita 1. Método de referência para medição de dióxido de enxofre
+    - Adita 2. Método de referência para medição de dióxido de azoto e óxidos de azoto
+    - Adita 3. Método de referência para amostragem e medição de chumbo
+    - Adita 4. Método de referência para amostragem e medição de PM10
+    - Adita 5. Método de referência para amostragem e medição de PM2,5
+    - Adita 6. Método de referência para amostragem e medição de benzeno
+    - Adita 7. Método de referência para medição de monóxido de carbono
+    - Adita 8. Método de referência para medição de ozono
+    - Adita A. Número mínimo de pontos de amostragem para medições fixas de concentrações de ozono
+    - Suprime D. Documentação e reavaliação da selecção dos locais
+    - Suprime A. Métodos de medição de referência
+    - Suprime 1. Método de referência para a medição do dióxido de enxofre
+    - Suprime 2. Método de referência para a medição do dióxido de azoto e dos óxidos de azoto
+    - Suprime 3. Método de referência para a amostragem e medição do chumbo
+    - Suprime 4. Método de referência para a amostragem e medição de PM10
+    - Suprime 5. Método de referência para a amostragem e medição de PM2,5
+    - Suprime 6. Método de referência para a amostragem e medição do benzeno
+    - Suprime 7. Método de referência para a medição do monóxido de carbono
+    - Suprime 8. Método de referência para a medição do ozono
+    - Suprime D. Introdução de equipamento novo
+    - Suprime A. Número mínimo de pontos de amostragem para medições fixas contínuas destinadas a avaliar a observância dos
+      valores-alvo, dos objectivos a longo prazo e dos limiares de informação e alerta, caso a medição contínua seja a única
+      fonte de informações
 identifiers:
   celex: 32008L0050
   eli: http://data.europa.eu/eli/dir/2008/50/oj
@@ -49,7 +107,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/13ad7ff4-6d84-45a6-bfe7-bc93232559d0.0018
   content_url: http://publications.europa.eu/resource/cellar/1ac2582f-048a-4afe-91ad-72e7cc066ec9.0015.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0050-20150918
-  retrieved_at: '2026-10-22T02:39:46Z'
+  retrieved_at: '2026-10-22T15:12:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T09:47:25.974+01:00'
 integrity:
@@ -58,9 +116,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:46Z'
-  notes: Texto consolidado 02008L0050-20150918.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:12:44Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2008-50.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -212,34 +270,19 @@ relationships:
   source: null
 article_structure:
   article_count: 35
-  section_count: 116
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 117
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:46Z'
+  checked_at: '2026-10-22T15:12:44Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2008/50/CE do Parlamento Europeu e do Conselho, de 21 de Maio de 2008
-
-> 02008L0050 — PT — 18.09.2015 — 001.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015L1480) — [DIRETIVA (UE) 2015/1480 DA COMISSÃO Texto relevante para efeitos do EEE de 28 de agosto de 2015](http://publications.europa.eu/resource/celex/32015L1480) — L 226 — 4 — 29.8.2015
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32008L0050R%2803%29) — [Rectificação, JO L 322, 8.12.2010, p. 50 (2008/50/CE)](http://publications.europa.eu/resource/celex/32008L0050R%2803%29)
-- [►C2](http://publications.europa.eu/resource/celex/32015L1480R%2801%29) — [Rectificação, JO L 072, 14.3.2019, p. 141 (2015/1480)](http://publications.europa.eu/resource/celex/32015L1480R%2801%29)
-
-## DIRECTIVA 2008/50/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 21 de Maio de 2008
 

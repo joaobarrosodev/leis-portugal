@@ -37,6 +37,239 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-01-09'
+version_history:
+  file: diretiva-ue-2002-87.versoes.json
+  count: 10
+  source_lastmod: '2027-01-30'
+  versions:
+  - date: '2003-02-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-04-13'
+    amending: eu:celex:32005L0001:por
+    amending_title: DIRECTIVA 2005/1/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 9 de Março
+      de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Autoridade competente responsável pelo exercício da supervisão complementar (coordenador)
+    - Altera Artigo 19.º — Cooperação com as autoridades competentes de países terceiros
+    - Altera Artigo 22.º — Alterações a introduzir na Directiva 73/239/CEE
+    - Altera Artigo 23.º — Alterações a introduzir na Directiva 79/267/CEE
+    - Altera Artigo 24.º — Alterações a introduzir na Directiva 92/49/CEE
+    - Altera Artigo 25.º — Alterações a introduzir na Directiva 92/96/CEE
+    - Altera Artigo 26.º — Alterações a introduzir na Directiva 93/6/CEE
+    - Altera Artigo 28.º — Alterações a introduzir na Directiva 98/78/CE
+    - Altera Artigo 29.º — Alterações a introduzir na Directiva 2000/12/CE
+    - Altera Artigo 34.º — Destinatários
+    - Adita CAPÍTULO I
+    - Adita OBJECTIVO E DEFINIÇÕES
+    - Adita CAPÍTULO II
+    - Adita SUPERVISÃO COMPLEMENTAR
+    - Adita SECÇÃO I
+    - Adita ÂMBITO DE APLICAÇÃO
+    - Adita Artigo 5.º — Âmbito de aplicação da supervisão complementar das entidades regulamentadas referidas no artigo 1.º
+    - Adita SECÇÃO 2
+    - Adita SITUAÇÃO FINANCEIRA
+    - Adita SECÇÃO 3
+    - Adita MEDIDAS PARA FACILITAR A SUPERVISÃO COMPLEMENTAR
+    - Adita SECÇÃO 4
+    - Adita PAÍSES TERCEIROS
+    - Adita CAPÍTULO III
+    - Adita COMPETÊNCIAS ATRIBUÍDAS À COMISSÃO E PROCESSOS DE COMITOLOGIA
+    - Adita CAPÍTULO IV
+    - Adita ALTERAÇÃO DE DIRECTIVAS EXISTENTES
+    - Adita «2.4A. Instituições de crédito, empresas de investimento e instituições financeiras coligadas
+    - Adita CAPÍTULO V
+    - Adita SOCIEDADES DE GESTÃO DE ACTIVOS
+    - Adita CAPÍTULO VI
+    - Adita DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+    - Adita ANEXO I
+    - Adita ADEQUAÇÃO DOS FUNDOS PRÓPRIOS
+    - Adita I. Princípios técnicos
+    - Adita 1. Âmbito e forma de cálculo dos requisitos de adequação complementar dos fundos próprios
+    - Adita 2. Outros princípios técnicos
+    - Adita II. Métodos de cálculo
+  - date: '2008-03-21'
+    amending: eu:celex:32008L0025:por
+    amending_title: DIRECTIVA 2008/25/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 20.º — Competências atribuídas à Comissão
+    - Altera Artigo 21.º — Comité
+    - Altera Artigo 22.º — Alterações a introduzir na Directiva 73/239/CEE
+    - Altera Artigo 23.º — Alterações a introduzir na Directiva 79/267/CEE
+    - Altera Artigo 26.º — Alterações a introduzir na Directiva 93/6/CEE
+    - Altera Artigo 28.º — Alterações a introduzir na Directiva 98/78/CE
+    - Altera Artigo 29.º — Alterações a introduzir na Directiva 2000/12/CE
+    - Altera Notas
+    - 'Adita Método 1: Método da «consolidação contabilística»'
+    - 'Adita Método 2: Método de «dedução e agregação»'
+    - 'Adita Método 3: Método da «dedução do valor contabilístico/de um requisito»'
+    - 'Suprime Método 1: Método da'
+    - 'Suprime Método 2: Método de'
+    - 'Suprime Método 3: Método da'
+  - date: '2011-01-04'
+    amending: eu:celex:32010L0078:por
+    amending_title: DIRECTIVA 2010/78/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 24 de
+      Novembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Identificação de um conglomerado financeiro
+    - Altera Artigo 9.º — Processos de gestão dos riscos e mecanismos de controlo interno
+    - Altera Artigo 10.º — Autoridade competente responsável pelo exercício da supervisão complementar (coordenador)
+    - Altera Artigo 11.º — Funções do coordenador
+    - Altera Artigo 12.º — Cooperação e intercâmbio de informações entre as autoridades competentes
+    - Altera Artigo 14.º — Acesso às informações
+    - Altera Artigo 16.º — Medidas de execução
+    - Altera Artigo 18.º — Empresas-mãe sediadas fora da Comunidade
+    - Altera Artigo 19.º — Cooperação com as autoridades competentes de países terceiros
+    - Altera Artigo 20.º — Competências atribuídas à Comissão
+    - Altera Artigo 21.º — Comité
+    - Altera Artigo 22.º — Alterações a introduzir na Directiva 73/239/CEE
+    - Altera Artigo 23.º — Alterações a introduzir na Directiva 79/267/CEE
+    - Altera Artigo 26.º — Alterações a introduzir na Directiva 93/6/CEE
+    - Altera Artigo 28.º — Alterações a introduzir na Directiva 98/78/CE
+    - Altera Artigo 29.º — Alterações a introduzir na Directiva 2000/12/CE
+    - Altera Notas
+    - Adita MEDIDAS PARA FACILITAR A SUPERVISÃO COMPLEMENTAR E COMPETÊNCIAS DO COMITÉ CONJUNTO
+    - Adita Artigo 9.ºA — Papel do Comité Conjunto
+    - Adita Artigo 12.ºA — Cooperação e intercâmbio de informações com o Comité Conjunto
+    - Adita Artigo 21.ºA — Normas técnicas
+    - Suprime MEDIDAS PARA FACILITAR A SUPERVISÃO COMPLEMENTAR
+  - date: '2011-12-09'
+    amending: eu:celex:32011L0089:por
+    amending_title: DIRECTIVA 2011/89/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 16 de
+      Novembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Limiares para a identificação de um conglomerado financeiro
+    - Altera Artigo 4.º — Identificação de um conglomerado financeiro
+    - Altera Artigo 5.º — Âmbito de aplicação da supervisão complementar das entidades regulamentadas referidas no artigo
+      1.º
+    - Altera Artigo 6.º — Adequação dos fundos próprios
+    - Altera Artigo 7.º — Concentração de riscos
+    - Altera Artigo 8.º — Operações intragrupo
+    - Altera Artigo 9.º — Processos de gestão dos riscos e mecanismos de controlo interno
+    - Altera Artigo 10.º — Autoridade competente responsável pelo exercício da supervisão complementar (coordenador)
+    - Altera Artigo 11.º — Funções do coordenador
+    - Altera Artigo 12.º — Cooperação e intercâmbio de informações entre as autoridades competentes
+    - Altera Artigo 12.ºA — Cooperação e intercâmbio de informações com o Comité Conjunto
+    - Altera Artigo 19.º — Cooperação com as autoridades competentes de países terceiros
+    - Altera Artigo 21.º — Comité
+    - Altera Artigo 21.ºA — Normas técnicas
+    - Altera Artigo 22.º — Alterações a introduzir na Directiva 73/239/CEE
+    - Altera Artigo 23.º — Alterações a introduzir na Directiva 79/267/CEE
+    - Altera Artigo 24.º — Alterações a introduzir na Directiva 92/49/CEE
+    - Altera Artigo 25.º — Alterações a introduzir na Directiva 92/96/CEE
+    - Altera Artigo 26.º — Alterações a introduzir na Directiva 93/6/CEE
+    - Altera Artigo 28.º — Alterações a introduzir na Directiva 98/78/CE
+    - Altera Artigo 29.º — Alterações a introduzir na Directiva 2000/12/CE
+    - Altera Artigo 30.º — Sociedades de gestão de activos
+    - Altera Notas
+    - Adita Artigo 1.º — Objecto
+    - Adita Artigo 9.º-B — Testes de esforço
+    - Adita Artigo 12.º-B — Orientações comuns
+    - Adita Artigo 18.º
+    - Adita Empresas-mãe de um país terceiro
+    - Adita ACTOS DELEGADOS E MEDIDAS DE EXECUÇÃO
+    - Adita Artigo 20.º — Poderes delegados na Comissão
+    - Adita Artigo 21.º-B — Orientações comuns
+    - Adita Artigo 21.º-C — Exercício da delegação
+    - Adita Artigo 30.º-A — Gestores de fundos de investimento alternativos
+    - 'Adita Método 3: «Método combinado»'
+    - Suprime Artigo 1.º — Objectivo
+    - Suprime Artigo 18.º — Empresas-mãe sediadas fora da Comunidade
+    - Suprime COMPETÊNCIAS ATRIBUÍDAS À COMISSÃO E PROCESSOS DE COMITOLOGIA
+    - Suprime Artigo 20.º — Competências atribuídas à Comissão
+  - date: '2013-07-17'
+    amending: eu:celex:32013L0036:por
+    amending_title: DIRETIVA 2013/36/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 26 de junho
+      de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Limiares para a identificação de um conglomerado financeiro
+    - Altera Artigo 9.º-B — Testes de esforço
+    - Altera Artigo 12.º — Cooperação e intercâmbio de informações entre as autoridades competentes
+    - Altera Artigo 21.ºA — Normas técnicas
+    - Altera Artigo 22.º — Alterações a introduzir na Directiva 73/239/CEE
+    - Altera Artigo 23.º — Alterações a introduzir na Directiva 79/267/CEE
+    - Altera Artigo 26.º — Alterações a introduzir na Directiva 93/6/CEE
+    - Altera Artigo 28.º — Alterações a introduzir na Directiva 98/78/CE
+    - Altera Artigo 29.º — Alterações a introduzir na Directiva 2000/12/CE
+    - Altera Notas
+  - date: '2014-01-01'
+    amending: eu:celex:32006L0048:por
+    amending_title: DIRECTIVA 2006/48/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14 de
+      Junho de 2006; DIRECTIVA 2009/138/CE DO PARLAMENTO EUROPEU E DO CONSELHO, Texto relevante para efeitos do EEE de 25
+      de Novembro de 2009,
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Limiares para a identificação de um conglomerado financeiro
+    - Altera Artigo 9.º-B — Testes de esforço
+    - Altera Artigo 12.º — Cooperação e intercâmbio de informações entre as autoridades competentes
+    - Altera Artigo 23.º — Alterações a introduzir na Directiva 79/267/CEE
+    - Altera Artigo 26.º — Alterações a introduzir na Directiva 93/6/CEE
+    - Altera Artigo 29.º — Alterações a introduzir na Directiva 2000/12/CE
+    - Altera Notas
+    - Suprime Artigo 22.º — Alterações a introduzir na Directiva 73/239/CEE
+    - Suprime Artigo 24.º — Alterações a introduzir na Directiva 92/49/CEE
+    - Suprime Artigo 28.º — Alterações a introduzir na Directiva 98/78/CE
+    - Suprime «2.4A. Instituições de crédito, empresas de investimento e instituições financeiras coligadas
+  - date: '2021-06-26'
+    amending: eu:celex:32019L2034:por
+    amending_title: M8
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Limiares para a identificação de um conglomerado financeiro
+    - Altera Artigo 9.º-B — Testes de esforço
+    - Altera Artigo 12.º — Cooperação e intercâmbio de informações entre as autoridades competentes
+    - Altera Artigo 23.º — Alterações a introduzir na Directiva 79/267/CEE
+    - Altera Artigo 26.º — Alterações a introduzir na Directiva 93/6/CEE
+    - Altera I. Princípios técnicos
+    - Altera II. Métodos de cálculo
+    - Altera Notas
+    - Suprime 1. Âmbito e forma de cálculo dos requisitos de adequação complementar dos fundos próprios
+    - Suprime 2. Outros princípios técnicos
+    - 'Suprime Método 1: Método da «consolidação contabilística»'
+    - 'Suprime Método 2: Método de «dedução e agregação»'
+    - 'Suprime Método 3: «Método combinado»'
+  - date: '2024-01-09'
+    amending: eu:celex:32023L2864:por
+    amending_title: DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Limiares para a identificação de um conglomerado financeiro
+    - Altera Artigo 9.º-B — Testes de esforço
+    - Altera Artigo 12.º — Cooperação e intercâmbio de informações entre as autoridades competentes
+    - Altera Artigo 23.º — Alterações a introduzir na Directiva 79/267/CEE
+    - Altera Artigo 26.º — Alterações a introduzir na Directiva 93/6/CEE
+    - Altera Notas
+    - Adita Artigo 30.º-B — Acessibilidade da informação no ponto de acesso único europeu
+  - date: '2027-01-30'
+    amending: eu:celex:32025L0002:por
+    amending_title: DIRETIVA (UE) 2025/2 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Limiares para a identificação de um conglomerado financeiro
+    - Altera Artigo 9.º-B — Testes de esforço
+    - Altera Artigo 12.º — Cooperação e intercâmbio de informações entre as autoridades competentes
+    - Altera Artigo 23.º — Alterações a introduzir na Directiva 79/267/CEE
+    - Altera Artigo 26.º — Alterações a introduzir na Directiva 93/6/CEE
+    - Altera Artigo 30.º-B — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 31.º — Relatório da Comissão
+    - Altera Notas
 identifiers:
   celex: 32002L0087
   eli: http://data.europa.eu/eli/dir/2002/87/oj
@@ -51,7 +284,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4a34193b-60ed-4106-8e2f-2e06386af029.0010
   content_url: http://publications.europa.eu/resource/cellar/2a9c4f7a-b47e-11ee-b164-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0087-20240109
-  retrieved_at: '2026-10-22T02:37:29Z'
+  retrieved_at: '2026-10-22T14:52:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-04T17:15:34.617+02:00'
 integrity:
@@ -60,9 +293,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:29Z'
-  notes: Texto consolidado 02002L0087-20240109.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:26Z'
+  notes: 10 versão(ões); histórico completo em diretiva-ue-2002-87.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -290,41 +523,19 @@ relationships:
   source: null
 article_structure:
   article_count: 40
-  section_count: 26
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 28
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:29Z'
+  checked_at: '2026-10-22T14:52:26Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2002/87/CE do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2002
-
-> 02002L0087 — PT — 09.01.2024 — 008.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32005L0001) — [DIRECTIVA 2005/1/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de Março de 2005](http://publications.europa.eu/resource/celex/32005L0001) — L 79 — 9 — 24.3.2005
-- [►M2](http://publications.europa.eu/resource/celex/32006L0048) — [DIRECTIVA 2006/48/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de Junho de 2006](http://publications.europa.eu/resource/celex/32006L0048) — L 177 — 1 — 30.6.2006
-- [M3](http://publications.europa.eu/resource/celex/32008L0025) — [DIRECTIVA 2008/25/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2008](http://publications.europa.eu/resource/celex/32008L0025) — L 81 — 40 — 20.3.2008
-- [►M4](http://publications.europa.eu/resource/celex/32009L0138) — [DIRECTIVA 2009/138/CE DO PARLAMENTO EUROPEU E DO CONSELHO, de 25 de Novembro de 2009,](http://publications.europa.eu/resource/celex/32009L0138) — L 335 — 1 — 17.12.2009
-- [►M5](http://publications.europa.eu/resource/celex/32010L0078) — [DIRECTIVA 2010/78/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de Novembro de 2010](http://publications.europa.eu/resource/celex/32010L0078) — L 331 — 120 — 15.12.2010
-- [►M6](http://publications.europa.eu/resource/celex/32011L0089) — [DIRECTIVA 2011/89/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011L0089) — L 326 — 113 — 8.12.2011
-- [►M7](http://publications.europa.eu/resource/celex/32013L0036) — [DIRETIVA 2013/36/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de junho de 2013](http://publications.europa.eu/resource/celex/32013L0036) — L 176 — 338 — 27.6.2013
-- [M8](http://publications.europa.eu/resource/celex/32019L2034) — [DIRETIVA (UE) 2019/2034 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019L2034) — L 314 — 64 — 5.12.2019
-- [►M9](http://publications.europa.eu/resource/celex/32023L2864) — [DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023L2864) — L — 1 — 20.12.2023
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019L2034R%2802%29) — [Rectificação, JO L 405, 2.12.2020, p. 84 (2019/2034)](http://publications.europa.eu/resource/celex/32019L2034R%2802%29)
-
-## DIRECTIVA 2002/87/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Dezembro de 2002
 

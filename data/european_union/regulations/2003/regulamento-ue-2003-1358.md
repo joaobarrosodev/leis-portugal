@@ -35,6 +35,86 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: regulamento-ue-2003-1358.versoes.json
+  count: 4
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '2003-08-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-04-29'
+    amending: eu:celex:32005R0546:por
+    amending_title: REGULAMENTO (CE) N. o 546/2005 DA COMISSÃO de 8 de Abril de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º
+    - Adita ANEXO I
+    - Adita CATEGORIAS DE AEROPORTOS, LISTAS DOS AEROPORTOS COMUNITÁRIOS E DERROGAÇÕES
+    - Adita I. Categorias de aeroportos e períodos de referência considerados
+    - Adita II. Derrogações permitidas
+    - Adita III. Lista dos aeroportos comunitários abrangidos e derrogações
+    - Adita ANEXO II
+    - Adita DESCRIÇÃO DOS FICHEIROS DE DADOS E DO SUPORTE DE TRANSMISSÃO
+    - 'Adita Lista e descrição dos campos a utilizar para cada quadro do regulamento:'
+    - 'Adita Formato e dimensão dos campos:'
+    - Adita ANEXO III
+    - Adita Alterações aos anexos do Regulamento (CE) n.º 437/2003
+    - Adita «ANEXO I
+    - Adita ESTRUTURA DO REGISTO PARA A TRANSMISSÃO DE DADOS AO EUROSTAT
+    - Adita A. Quadro sobre as etapas de voo [dados mensais ([^3^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#E0003))]
+    - Adita B. Quadro sobre origem/destino do voo [dados mensais ([^4^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#E0004))]
+    - Adita C. Quadro sobre os aeroportos (pelo menos, dados anuais)
+    - Adita CÓDIGOS
+    - Adita 1. País declarante
+    - Adita 2. Período de referência
+    - Adita 3. Aeroportos
+    - Adita 4. Informações sobre a transportadora aérea
+    - Adita 5. Tipo de aeronave
+    - Adita DEFINIÇÕES E ESTATÍSTICAS A DECLARAR
+    - Adita I. DEFINIÇÕES E VARIÁVEIS DE INTERESSE GERAL
+    - Adita 1. Aeroporto comunitário (artigos 1.º e 3.º )
+    - Adita 2. Voo estatal (artigo 1.º e quadro C1)
+    - Adita 3. Unidade-passageiro (n.^os^ 2, 4 e 5 do artigo 3.º )
+    - Adita 4. Serviços comerciais aéreos (artigo 1.º e quadros A1, B1 e C1)
+    - Adita 5. Serviços de transporte aéreo regulares (quadros A1 e B1)
+    - Adita 6. Serviços de transporte aéreo não regulares (quadros A1 e B1)
+    - Adita 7. Serviços de transporte aéreo de passageiros (quadros A1 e B1)
+    - Adita 8. Serviços polivalentes de carga e correio (quadros A1 e B1)
+    - Adita 9. Transportadora aérea (Operador de transporte aéreo comercial) (quadros A1, B1 e C1)
+    - Adita II. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO A1 (ETAPAS DE VOO)
+    - Adita 10. Etapa de voo (quadro A1)
+    - Adita 11. Passageiros a bordo (quadro A1)
+    - Adita 12. Carga e correio a bordo (quadro A1)
+    - Adita 13. Voo comercial (quadro A1)
+  - date: '2007-03-09'
+    amending: eu:celex:32006R1792:por
+    amending_title: M2; REGULAMENTO (CE) N. o 158/2007 DA COMISSÃO de 16 de Fevereiro de 2007
+    changes:
+    - Altera preambulo
+    - Altera III. Lista dos aeroportos comunitários abrangidos e derrogações
+    - Altera C. Quadro sobre os aeroportos (pelo menos, dados anuais)
+    - Altera Notas
+    - Adita A. Quadro sobre as etapas de voo [dados mensais ([^3^](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#E0003))]
+    - Adita B. Quadro sobre origem/destino do voo [dados mensais [(3)](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#E0003)
+      ]
+    - Suprime A. Quadro sobre as etapas de voo [dados mensais ([^3^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#E0003))]
+    - Suprime B. Quadro sobre origem/destino do voo [dados mensais ([^4^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#E0004))]
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0519:por
+    amending_title: REGULAMENTO (UE) N. o 519/2013 DA COMISSÃO de 21 de fevereiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera III. Lista dos aeroportos comunitários abrangidos e derrogações
+    - Altera C. Quadro sobre os aeroportos (pelo menos, dados anuais)
+    - Altera Notas
+    - Adita A. Quadro sobre as etapas de voo [dados mensais ([^3^](http://publications.europa.eu/resource/cellar/88bdacbf-e34e-414d-b2ec-78477b045343.0018.04/DOC_1#E0003))]
+    - Adita B. Quadro sobre origem/destino do voo [dados mensais [(3)](http://publications.europa.eu/resource/cellar/88bdacbf-e34e-414d-b2ec-78477b045343.0018.04/DOC_1#E0003)
+      ]
+    - Suprime A. Quadro sobre as etapas de voo [dados mensais ([^3^](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#E0003))]
+    - Suprime B. Quadro sobre origem/destino do voo [dados mensais [(3)](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#E0003)
+      ]
 identifiers:
   celex: 32003R1358
   eli: http://data.europa.eu/eli/reg/2003/1358/oj
@@ -49,7 +129,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/bda8be68-6737-4a4e-87de-0a256d7e0cfc.0010
   content_url: http://publications.europa.eu/resource/cellar/88bdacbf-e34e-414d-b2ec-78477b045343.0018.04/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R1358-20130701
-  retrieved_at: '2026-10-22T03:11:30Z'
+  retrieved_at: '2026-10-22T14:55:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T13:15:40.872+01:00'
 integrity:
@@ -58,9 +138,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:30Z'
-  notes: Texto consolidado 02003R1358-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:40Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2003-1358.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -121,32 +201,20 @@ relationships:
   date: '2005-01-14'
 article_structure:
   article_count: 5
-  section_count: 47
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 48
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:30Z'
-  warnings: []
+  checked_at: '2026-10-22T14:55:40Z'
+  warnings:
+  - '02003R1358-20030821: versão indisponível (Sem expressão na língua por para CELEX 02003R1358-20030821.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 1358/2003 da Comissão, de 31 de Julho de 2003
-
-> 2003R1358 — PT — 01.07.2013 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32005R0546) — [REGULAMENTO (CE) N.º 546/2005 DA COMISSÃO de 8 de Abril de 2005](http://publications.europa.eu/resource/celex/32005R0546) — L 91 — 5 — 9.4.2005
-- [M2](http://publications.europa.eu/resource/celex/32006R1792) — [REGULAMENTO (CE) N.º 1792/2006 DA COMISSÃO de 23 de Outubro de 2006](http://publications.europa.eu/resource/celex/32006R1792) — L 362 — 1 — 20.12.2006
-- [►M3](http://publications.europa.eu/resource/celex/32007R0158) — [REGULAMENTO (CE) N.º 158/2007 DA COMISSÃO de 16 de Fevereiro de 2007](http://publications.europa.eu/resource/celex/32007R0158) — L 49 — 9 — 17.2.2007
-- [►M4](http://publications.europa.eu/resource/celex/32013R0519) — [REGULAMENTO (UE) N.º 519/2013 DA COMISSÃO de 21 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0519) — L 158 — 74 — 10.6.2013
-
-## REGULAMENTO (CE) N.º 1358/2003 DA COMISSÃO
 
 de 31 de Julho de 2003
 

@@ -1,0 +1,116 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31981R0348:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01981R0348-19950101",
+ "dre_path": null,
+ "source_lastmod": "1995-01-01",
+ "versions": [
+  {
+   "date": "1981-02-12",
+   "future": false,
+   "celex": "31981R0348",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3840d1013609cff6",
+    "3952c8248ed30259",
+    "809d0008686bef7d",
+    "7e6f70b0fd625ee3",
+    "6b8502f5c421eadd"
+   ]
+  },
+  {
+   "date": "1995-01-01",
+   "future": false,
+   "celex": "01981R0348-19950101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2o",
+    "Altera Artigo 3o",
+    "Altera ANEXO"
+   ],
+   "fragments": [
+    "483b07eae7c8d4c3",
+    "3952c8248ed30259",
+    "98d9241165cb5b65",
+    "5528e628120ecfcd",
+    "ad5c363e0ac2dd08"
+   ]
+  }
+ ],
+ "fragments": {
+  "3840d1013609cff6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 348/81 do Conselho, de 20 de Janeiro de 1981, relativo a um regime comum aplicável às importações dos produtos extraídos dos cetáceos** *Jornal Oficial nº L 039 de 12/02/1981 p. 0001 - 0003 Edição especial finlandesa: Capítulo 15 Fascículo 3 p. 0114 Edição especial espanhola: Capítulo 15 Fascículo 3 p. 0003 Edição especial sueca: Capítulo 15 Fascículo 3 p. 0114 Edição especial portuguesa: Capítulo 15 Fascículo 3 p. 0003*\n\nREGULAMENTO (CEE) N. 348/81 DO CONSELHO de 20 de Janeiro de 1981 relativo a um regime comum aplicável às importações dos produtos extraídos dos cetáceos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\ntendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 235o,\n\ntendo em conta a proposta da Comissão (1),\n\ntendo em conta o parecer do Parlamento Europeu (2),\n\ntendo em conta o parecer do Comité Económico e Social (3),\n\nconsiderando que a conservação das espécies dos cetáceos torna necessária a aplicação de medidas de restrição das trocas comerciais internacionais; que tais medidas devem ser tomadas a nível da Comunidade no respeito das suas obrigações internacionais;\n\nconsiderando que, enquanto se aguarda que sejam adoptadas a nível da Comunidade medidas mais globais respeitantes ao controlo do comércio das espécies de fauna e de flora selvagens, é conveniente, numa primeira fase, submeter a importação dos principais produtos extraídos dos cetáceos a uma autorização de importação, reservando-se igualmente a possibilidade de aumentar a lista destes produtos; que, a fim de clarificar a situação, pode ser útil a constatação de que enquanto se aguarda este eventual alargamento, os Estados-membros, continuam a ter competência para tomar, no respeito do Tratado, medidas de protecção das espécies, relativas à importação de produtos não abrangidos pelo presente regulamento; que as autoridades competentes só emitem as autorizações após se terem certificado de que os produtos em causa não serão utilizados para fins comerciais,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3952c8248ed30259": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A partir de 1 de Janeiro de 1982, a introdução na Comunidade dos produtos que constam do anexo está sujeita à apresentação de uma autorização de importação. Não será emitida qualquer autorização para produtos destinados a fins comerciais.\n\n2. Antes de 1 de Julho de 1981, os Estados-membros devem comunicar à Comissão a lista e as direcções das autoridades competentes para emitirem as autorizações de importação referidas no n. 1. A Comissão deverá informar imediatamente desse facto, os outros Estados-membros."
+  },
+  "809d0008686bef7d": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. É instituído um Comité para os «produtos extraídos dos cetáceos» a seguir denominado «Comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\nO Comité estabelece o seu regulamento interno.\n\nO Comité pode examinar toda e qualquer questão relativa à aplicação do presente regulamento, incluindo a questão do controlo, que seja invocada pelo seu presidente, quer por iniciativa deste, quer a pedido do representante de um Estado-membro.\n\n2. As modalidades de aplicação do presente regulamento serão adoptadas de acordo com o seguinte procedimento:\n\na) O representante da Comissão submete à apreciação do Comité um projecto de disposições a adoptar. O Comité dá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. Pronuncia-se por maioria de quarenta e cinco votos, sendo atribuída aos votos dos Estados-membros a ponderação prevista no n. 2 do artigo 148o do Tratado. O presidente não participa na votação;\n\nb) A Comissão adopta as disposições previstas sempre que estas estão em conformidade com o parecer do Comité;\n\nc) Quando as disposições previstas não estão em conformidade com o parecer do Comité, ou na falta de parecer, a Comissão submete, sem demora, ao Conselho uma proposta relativa às disposições a adoptar. O Conselho delibera por maioria qualificada. Se, aquando da expiração de um prazo de três meses a contar da data em que a proposta foi submetida à apreciação do Conselho, este não tiver ainda deliberado, as disposições propostas são aprovadas pela Comissão."
+  },
+  "7e6f70b0fd625ee3": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. A Comissão submete ao Conselho, no mais curto prazo, um relatório sobre a oportunidade de proceder ao alargamento da lista dos produtos que constam do anexo ao presente regulamento bem como sobre as possibilidades de controlo da observância dessas disposições, acompanhado, se for caso disso, de propostas.\n\n2. O Conselho, deliberando por maioria qualificada sob proposta da Comissão, pode decidir o alargamento da lista referida no n. 1.\n\n3. Enquanto não for tomada essa decisão, os Estados-membros podem adoptar, no respeito do Tratado, as medidas de protecção das espécies respeitantes aos produtos extraídos de cetáceos não abrangidos pelo presente regulamento.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 20 de Janeiro de 1981.\n\nPelo Conselho\n\nO Presidente\n\nCh. A. van der KLAAUW\n\n(1) JO n. C 121 de 20. 5. 1980, p. 5.(2) JO n. C 291 de 10. 11. 1980, p. 46.(3) JO n. C 300 de 18. 11. 1980, p. 13."
+  },
+  "6b8502f5c421eadd": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n\"\" ID=\"1\">ex 02.04 C> ID=\"2\">Carnes e miudezas comestíveis de cetáceos fresoas, refrigeradas ou congeladas\"> ID=\"1\">ex 02.06 C> ID=\"2\">Carnes e miudezas comestíveis de cetáceos, salgadas ou em salmora, secas ou fumadas\"> ID=\"1\">ex 05.09> ID=\"2\">Barbas de baleia e de animais semelhantes, em bruto ou simplesmente preparadas, mas não cortadas em forma determinada, compreendendo as rebarbas e desperdícios\"> ID=\"1\">ex 05.15 B> ID=\"2\">Carnes e miudezas de cetáceos, impróprios para a alimentação humana\"> ID=\"1\">ex 15.04> ID=\"2\">Gorduras e óleos de cetáceos mesmo refinados\"> ID=\"1\">ex 15.08> ID=\"2\">Óleos de cetáceos cozidos, oxidados, desidratados, sulfurados, soprados, estandolizados ou modificados por qualquer outro processo\"> ID=\"1\">ex 15.12> ID=\"2\">Óleos e gorduras de cetáceos parcial ou totalmente hidrogenados e óleos e gorduras de cetáceos solidificados ou endurecidos por qualquer outro processo, mesmo refinados, mas não preparados\"> ID=\"1\">15.15 A> ID=\"2\">Espermacete de baleia e de outros cetáceos, em bruto, prensado ou refinado mesmo corado artificialmente\"> ID=\"1\">ex 16.03> ID=\"2\">Extractos e sucos de carne de cetáceos\"> ID=\"1\">ex 23.01 A> ID=\"2\">Farinha e pó de carne e miudezas de cetáceos, impróprias para alimentação humana\"> ID=\"1\">ex Capítulo 41> ID=\"2\">Couros e peles tratados com óleo de baleia ou de outros cetáceos, mesmo modificado.\">Todos os produtos a seguir mencionados, tratados com óleo de baleia ou de outros cetáceos mesmo modificado, ou confeccionados a partir de couros e peles tratados com esse mesmo óleo:\" ID=\"1\">ex Capítulo 42> ID=\"2\">Obras de couro, artigos de correeiro e de seleiro, artigos de viagem, bolsas e artefactos semelhantes\"> ID=\"1\">ex Capítulo 43> ID=\"2\">Peles em cabelo e respectivas obras\"> ID=\"1\">ex Capítulo 64> ID=\"2\">Calçado, polainas e artefactos análogos; suas partes\">"
+  },
+  "483b07eae7c8d4c3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1981R0348 — PT — 01.01.1995 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31981R0348:PT:NOT) [REGULAMENTO (CEE) N. 348/81 DO CONSELHO de 20 de Janeiro de 1981 relativo a um regime comum aplicável às importações dos produtos extraídos dos cetáceos](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31981R0348:PT:NOT) (JO L 039, 12.2.1981, p.1)\n\nAlterado por:\n\n|  |  | Jornal Oficial |\n| --- | --- | --- |\n| No | page | date |\n\nAlterado por:\n\n| [A1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11985I:PT:NOT) |  | L 302 | 23 | 15.11.1985 |\n| --- | --- | --- | --- | --- |\n| [A2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N:PT:NOT) | [Acto de Adesão da Áustria, da Finlândia e da Suécia](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N:PT:NOT) | C 241 | 21 | 29.8.1994 |\n|  | (adaptado pela Decisão 95/1/CE, Euratom, CECA do Conselho) | L 001 | 1 | .. |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31981R0348:PT:NOT)\n\nREGULAMENTO (CEE) N. 348/81 DO CONSELHO\n\nde 20 de Janeiro de 1981\n\nrelativo a um regime comum aplicável às importações dos produtos extraídos dos cetáceos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\ntendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 235o,\n\ntendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/ee64b221-43a1-4d19-ab5f-dee44aafb7a6.0018.02/DOC_1#E0001)),\n\ntendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/ee64b221-43a1-4d19-ab5f-dee44aafb7a6.0018.02/DOC_1#E0002)),\n\ntendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/ee64b221-43a1-4d19-ab5f-dee44aafb7a6.0018.02/DOC_1#E0003)),\n\nconsiderando que a conservação das espécies dos cetáceos torna necessária a aplicação de medidas de restrição das trocas comerciais internacionais; que tais medidas devem ser tomadas a nível da Comunidade no respeito das suas obrigações internacionais;\n\nconsiderando que, enquanto se aguarda que sejam adoptadas a nível da Comunidade medidas mais globais respeitantes ao controlo do comércio das espécies de fauna e de flora selvagens, é conveniente, numa primeira fase, submeter a importação dos principais produtos extraídos dos cetáceos a uma autorização de importação, reservando-se igualmente a possibilidade de aumentar a lista destes produtos; que, a fim de clarificar a situação, pode ser útil a constatação de que enquanto se aguarda este eventual alargamento, os Estados-membros, continuam a ter competência para tomar, no respeito do Tratado, medidas de protecção das espécies, relativas à importação de produtos não abrangidos pelo presente regulamento; que as autoridades competentes só emitem as autorizações após se terem certificado de que os produtos em causa não serão utilizados para fins comerciais,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "98d9241165cb5b65": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. É instituído um Comité para os «produtos extraídos dos cetáceos», a seguir denominado «Comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\nO Comité estabelece o seu regulamento interno.\n\nO Comité pode examinar toda e qualquer questão relativa à aplicação do presente regulamento, incluindo a questão do controlo, que seja invocada pelo seu presidente, quer por iniciativa deste, quer a pedido do representante de um Estado-membro.\n\n2. As modalidades de aplicação do presente regulamento serão adoptadas de acordo com o seguinte procedimento:\n\na) O representante da Comissão submete à apreciação do Comité um projecto de disposições a adoptar. O Comité dá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. Pronuncia-se por maioria de [►](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N::NOT) [►](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N::NOT) 62 ◄ ◄ votos, sendo atribuída aos votos dos Estados-membros a ponderação prevista no n. 2 do artigo 148o do Tratado. O presidente não participa na votação;\n\nb) A Comissão adopta as disposições previstas sempre que estas estão em conformidade com o parecer do Comité;\n\nc) Quando as disposições previstas não estão em conformidade com o parecer do Comité, ou na falta de parecer, a Comissão submete, sem demora, ao Conselho uma proposta relativa às disposições a adoptar. O Conselho delibera por maioria qualificada. Se, aquando da expiração de um prazo de três meses a contar da data em que a proposta foi submetida à apreciação do Conselho, este não tiver ainda deliberado, as disposições propostas são aprovadas pela Comissão."
+  },
+  "5528e628120ecfcd": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. A Comissão submete ao Conselho, no mais curto prazo, um relatório sobre a oportunidade de proceder ao alargamento da lista dos produtos que constam do anexo ao presente regulamento bem como sobre as possibilidades de controlo da observância dessas disposições, acompanhado, se for caso disso, de propostas.\n\n2. O Conselho, deliberando por maioria qualificada sob proposta da Comissão, pode decidir o alargamento da lista referida no n. 1.\n\n3. Enquanto não for tomada essa decisão, os Estados-membros podem adoptar, no respeito do Tratado, as medidas de protecção das espécies respeitantes aos produtos extraídos de cetáceos não abrangidos pelo presente regulamento.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "ad5c363e0ac2dd08": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| N. da pauta aduaneira comum | Designação de mercadorias |\n| --- | --- |\n| ex 02.04 C | Carnes e miudezas comestíveis de cetáceos fresoas, refrigeradas ou congeladas |\n| ex 02.06 C | Carnes e miudezas comestíveis de cetáceos, salgadas ou em salmora, secas ou fumadas |\n| ex 05.09 | Barbas de baleia e de animais semelhantes, em bruto ou simplesmente preparadas, mas não cortadas em forma determinada, compreendendo as rebarbas e desperdícios |\n| ex 05.15 B | Carnes e miudezas de celáceos, impróprios para a alimentação humana |\n| ex 15.04 | Gorduras e óleos de cetáceos mesmo refinados |\n| ex 15.08 | Óleos de cetáceos cozidos, oxidados, desidratados, sulfurados, soprados, estandolizados ou modificados por qualquer outro processo |\n| ex 15.12 | Óleos e gorduras de cetáceos parcial ou totalmente hidrogenados e óleos e gorduras de cetáceos solidificados ou endurecidos por qualquer outro processo, mesmo refinados, mas não preparados |\n| 15.15 A | Espermacete de baleia e de outros cetáceos, em bruto, prensado ou refinado mesmo corado artificialmente |\n| ex 16.03 | Extractos e sucos de carne de cetáceos |\n| ex 23.01 A | Farinha e pó de carne e miudezas de cetáceos, impróprias para alimentação humana |\n| ex Capítulo 41 | Couros e peles tratados com óleo de baleia ou de outros cetáceos, mesmo modificado. |\n| Todos os produtos a seguir mencionados, tratados com óleo de baleia ou de outros cetáceos mesmo modificado, ou confeccionados a partir de couros e peles tratados com esse mesmo óleo: |  |\n| ex Capítulo 42 | Obras de couro, artigos de correeiro e de seleiro, artigos de viagem, bolsas e artefactos semelhantes |\n| ex Capítulo 43 | Peles em cabelo e respectivas obras |\n| ex Capítulo 64 | Calçado, polainas e artefactos análogos; suas partes |\n\n([1](http://publications.europa.eu/resource/cellar/ee64b221-43a1-4d19-ab5f-dee44aafb7a6.0018.02/DOC_1#src.E0001)) JO n. C 121 de 20. 5. 1980, p. 5.\n\n([2](http://publications.europa.eu/resource/cellar/ee64b221-43a1-4d19-ab5f-dee44aafb7a6.0018.02/DOC_1#src.E0002)) JO n. C 291 de 10. 11. 1980, p. 46.\n\n([3](http://publications.europa.eu/resource/cellar/ee64b221-43a1-4d19-ab5f-dee44aafb7a6.0018.02/DOC_1#src.E0003)) JO n. C 300 de 18. 11. 1980, p. 13."
+  }
+ }
+}

@@ -33,6 +33,74 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: diretiva-ue-1991-672.versoes.json
+  count: 4
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '1991-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32003R1882:por
+    amending_title: REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003; DIRECTIVA
+      2006/103/CE DO CONSELHO de 20 de Novembro de 2006; Acto de Adesão da Áustria, da Finlândia e da Suécia; Acto relativo
+      às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia,
+      da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia
+      e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita LISTA DOS CERTIFICADOS NACIONAIS DE CONDUÇÃO PARA O TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS POR NAVEGAÇÃO INTERIOR,
+      A QUE SE REFERE O ARTIGO 1.º DA DIRECTIVA
+    - Adita ANEXO II
+    - Adita LISTA DAS VIAS NAVEGÁVEIS DE CARÁCTER MARÍTIMO A QUE SE REFERE O ARTIGO 2.º DA DIRECTIVA
+    - Adita Reino da Bélgica
+    - Adita República Federal da Alemanha
+    - Adita Reino dos Países Baixos
+    - Adita República da Polónia
+    - Adita República da Finlândia
+    - Adita Reino da Suécia
+    - Adita Roménia
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime ANEXO II — LISTA DAS VIAS NAVEGÁVEIS DE CARÁCTER MARÍTIMO A QUE SE REFERE O ARTIGO 2o DA DIRECTIVA
+  - date: '2008-12-11'
+    amending: eu:celex:32008R1137:por
+    amending_title: REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE22 de Outubro de 2008 que adapta
+      à Decisão 1999/468/CE do Conselho certos actos sujeitos ao procedimento previsto no artigo 251. o do Tratado, no que
+      se refere ao procedimento de regulamentação com controlo
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera LISTA DOS CERTIFICADOS NACIONAIS DE CONDUÇÃO PARA O TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS POR NAVEGAÇÃO
+      INTERIOR, A QUE SE REFERE O ARTIGO 1.º DA DIRECTIVA
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0022:por
+    amending_title: DIRETIVA 2013/22/UE DO CONSELHO, de 13 de maio de 2013,
+    changes:
+    - Altera preambulo
+    - Altera LISTA DOS CERTIFICADOS NACIONAIS DE CONDUÇÃO PARA O TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS POR NAVEGAÇÃO
+      INTERIOR, A QUE SE REFERE O ARTIGO 1.º DA DIRECTIVA
+    - Altera Notas
 identifiers:
   celex: 31991L0672
   eli: http://data.europa.eu/eli/dir/1991/672/oj
@@ -47,7 +115,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cd50be3e-3b10-46ef-abdb-579bf795dc3b.0011
   content_url: http://publications.europa.eu/resource/cellar/6f552334-8742-4b14-9676-767191de7d34.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0672-20130701
-  retrieved_at: '2026-10-22T03:06:26Z'
+  retrieved_at: '2026-10-22T14:39:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-14T17:17:06.733+02:00'
 integrity:
@@ -56,9 +124,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:06:26Z'
-  notes: Texto consolidado 01991L0672-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:39:34Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1991-672.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -131,38 +199,22 @@ relationships:
   date: '2017-12-27'
 article_structure:
   article_count: 8
-  section_count: 11
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 12
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:06:26Z'
-  warnings: []
+  checked_at: '2026-10-22T14:39:34Z'
+  warnings:
+  - '01991L0672-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0672-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991L0672-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 91/672/CEE do Conselho, de 16 de Dezembro de 1991
-
-> 1991L0672 — PT — 01.07.2013 — 006.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32003R1882) — [REGULAMENTO (CE) N.º 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
-- [►M2](http://publications.europa.eu/resource/celex/32006L0103) — [DIRECTIVA 2006/103/CE DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0103) — L 363 — 344 — 20.12.2006
-- [►M3](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE22 de Outubro de 2008 que adapta à Decisão 1999/468/CE do Conselho certos actos sujeitos ao procedimento previsto no artigo 251.º do Tratado, no que se refere ao procedimento de regulamentação com controlo](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [►M4](http://publications.europa.eu/resource/celex/32013L0022) — [DIRETIVA 2013/22/UE DO CONSELHO, de 13 de maio de 2013,](http://publications.europa.eu/resource/celex/32013L0022) — L 158 — 356 — 10.6.2013
-
-**Alterado por:**
-
-- [A1](http://publications.europa.eu/resource/celex/11994N) — C 241 — 21 — 29.8.1994
-- L 001 — 1 — ..
-- [►A2](http://publications.europa.eu/resource/celex/12003T) — L 236 — 33 — 23.9.2003
-
-## DIRECTIVA DO CONSELHO
 
 de 16 de Dezembro de 1991
 

@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2007-58.versoes.json
+  count: 1
+  source_lastmod: '2007-12-04'
+  versions:
+  - date: '2007-12-03'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32007L0058
   eli: http://data.europa.eu/eli/dir/2007/58/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018
   content_url: http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:58:37Z'
+  retrieved_at: '2026-10-22T15:07:38Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T21:57:19.788+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:37Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:07:38Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2007-58.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -150,21 +159,20 @@ relationships:
   date: '2012-11-21'
 article_structure:
   article_count: 5
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:37Z'
+  checked_at: '2026-10-22T15:07:38Z'
   warnings:
-  - Versão consolidada 02007L0058-20071204 indisponível (Sem expressão na língua por para CELEX 02007L0058-20071204.); usado
-    o texto do JO.
+  - '02007L0058-20071204: versão indisponível (Sem expressão na língua por para CELEX 02007L0058-20071204.)'
   errors: []
 ---
 
-# DIRECTIVA 2007/58/CE DO PARLAMENTO EUROPEU E DO CONSELHO
+# Directiva 2007/58/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2007
 
 de 23 de Outubro de 2007
 

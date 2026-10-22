@@ -35,6 +35,103 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-04-29'
+version_history:
+  file: regulamento-ue-2002-2320.versoes.json
+  count: 3
+  source_lastmod: '2008-04-29'
+  versions:
+  - date: '2002-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-20'
+    amending: eu:celex:32004R0849:por
+    amending_title: REGULAMENTO (CE) N. o 849/2004 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Abril de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Normas comuns
+    - Altera Artigo 7.º — Acompanhamento da conformidade
+    - Altera Artigo 8.º — Difusão de informações
+    - Altera Artigo 13.º — Entrada em vigor
+    - Altera ANEXO
+    - Adita 1. DEFINIÇÕES
+    - Adita 2. SEGURANÇA DO AEROPORTO
+    - Adita 2.1. Requisitos em matéria de planeamento aeroportuário
+    - Adita 2.1.1. Limites entre o lado ar e o lado terra
+    - Adita 2.1.2. Zonas restritas de segurança
+    - Adita 2.2. Controlo do acesso
+    - Adita 2.2.1. Zonas restritas de segurança e outras zonas do lado ar
+    - Adita 2.2.2. Terminais
+    - Adita 2.2.3. Outras zonas públicas
+    - Adita 2.3. Rastreio do pessoal, objectos transportados e veículos
+    - Adita 2.4. Segurança física e patrulhas
+    - Adita 3. SEGURANÇA DA AERONAVE
+    - Adita 3.1. Verificação e controlo de segurança da aeronave
+    - Adita 3.2. Protecção da aeronave
+    - Adita 4. PASSAGEIROS E BAGAGEM DE CABINA
+    - Adita 4.1. Rastreio de passageiros
+    - Adita 4.2. Separação de passageiros
+    - Adita 4.3. Rastreio da bagagem de cabina
+    - Adita 4.4. Rastreio dos diplomatas
+    - Adita 5. BAGAGEM DE PORÃO
+    - Adita 5.1. Reconciliação da bagagem de porão
+    - Adita 5.2. Rastreio da bagagem de porão
+    - Adita 5.3. Protecção da bagagem de porão
+    - Adita 6. CARGA, CORREIO E ENCOMENDAS EXPRESSO
+    - Adita 6.1. Aplicação
+    - Adita 6.2. Qualificações para agentes reconhecidos
+    - Adita 6.3. Controlos de segurança
+    - Adita 6.4. Critérios relativos ao expedidor conhecido
+    - Adita 6.5. Transporte em aeronaves de carga
+    - Adita 6.6. Carga de transbordo
+    - Adita 7. CORREIO POSTAL
+    - Adita 7.1. Aplicação
+    - Adita 7.2. Qualificações da autoridade/administração postal reconhecida
+  - date: '2008-04-29'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objectivos
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Âmbito
+    - Suprime Artigo 4.º — Normas comuns
+    - Suprime Artigo 5.º — Programa nacional de segurança da aviação civil
+    - Suprime Artigo 6.º — Medidas mais rigorosas
+    - Suprime Artigo 7.º — Acompanhamento da conformidade
+    - Suprime Artigo 8.º — Difusão de informações
+    - Suprime Artigo 9.º — Comité
+    - Suprime Artigo 10.º — Países terceiros
+    - Suprime Artigo 11.º — Publicação de informações
+    - Suprime Artigo 12.º — Sanções
+    - Suprime Artigo 13.º — Entrada em vigor
+    - Suprime ANEXO
+    - Suprime 1. DEFINIÇÕES
+    - Suprime 2. SEGURANÇA DO AEROPORTO
+    - Suprime 2.1. Requisitos em matéria de planeamento aeroportuário
+    - Suprime 2.1.1. Limites entre o lado ar e o lado terra
+    - Suprime 2.1.2. Zonas restritas de segurança
+    - Suprime 2.2. Controlo do acesso
+    - Suprime 2.2.1. Zonas restritas de segurança e outras zonas do lado ar
+    - Suprime 2.2.2. Terminais
+    - Suprime 2.2.3. Outras zonas públicas
+    - Suprime 2.3. Rastreio do pessoal, objectos transportados e veículos
+    - Suprime 2.4. Segurança física e patrulhas
+    - Suprime 3. SEGURANÇA DA AERONAVE
+    - Suprime 3.1. Verificação e controlo de segurança da aeronave
+    - Suprime 3.2. Protecção da aeronave
+    - Suprime 4. PASSAGEIROS E BAGAGEM DE CABINA
+    - Suprime 4.1. Rastreio de passageiros
+    - Suprime 4.2. Separação de passageiros
+    - Suprime 4.3. Rastreio da bagagem de cabina
+    - Suprime 4.4. Rastreio dos diplomatas
+    - Suprime 5. BAGAGEM DE PORÃO
+    - Suprime 5.1. Reconciliação da bagagem de porão
+    - Suprime 5.2. Rastreio da bagagem de porão
+    - Suprime 5.3. Protecção da bagagem de porão
+    - Suprime 6. CARGA, CORREIO E ENCOMENDAS EXPRESSO
+    - Suprime 6.1. Aplicação
 identifiers:
   celex: 32002R2320
   eli: http://data.europa.eu/eli/reg/2002/2320/oj
@@ -49,7 +146,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/89fe2ceb-4b2c-4491-b62a-d8cbd77615e0.0010
   content_url: http://publications.europa.eu/resource/cellar/c39f3693-7e18-4fa2-beb4-cbbbe9f09341.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R2320-20080429
-  retrieved_at: '2026-10-22T02:41:21Z'
+  retrieved_at: '2026-10-22T14:53:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:41:04.721+02:00'
 integrity:
@@ -58,9 +155,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:21Z'
-  notes: Texto consolidado 02002R2320-20080429.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:53:41Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2002-2320.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -141,16 +238,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:21Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:53:41Z'
+  warnings: []
   errors: []
 ---
 

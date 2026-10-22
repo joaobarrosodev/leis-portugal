@@ -35,6 +35,94 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-07-01'
+version_history:
+  file: regulamento-ue-1971-2358.versoes.json
+  count: 4
+  source_lastmod: '2006-07-01'
+  versions:
+  - date: '1971-11-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-07-01'
+    amending: eu:celex:31973R0597:por
+    amending_title: M1; M2; M3; M4; M5; M6; Regulamento (CEE) n o 1346/78 do Conselho de 19 de Junho de 1978; M8; Regulamento
+      (CEE) n o 2878/79 do Conselho de 17 de Dezembro de 1979; M10; M11; M12; M13; M14; Regulamento (CEE) n o 3997/87 da Comissão
+      de 23 de Dezembro de 1987; M16; M17; Regulamento (CEE) n o 3695/92 da Comissão de 21 de Dezembro de 1992; M19; Regulamento
+      (CE) n o 3290/94 do Conselho de 22 de Dezembro de 1994; M21; REGULAMENTO (CE) N.O 1405/1999 DO CONSELHO de 24 de Junho
+      de 1999; REGULAMENTO (CE) N. o 2371/2000 DO CONSELHO de 23 de Outubro de 2000; REGULAMENTO (CE) N. o 154/2002 DO CONSELHO
+      de 21 de Janeiro de 2002; Acto de Adesão da Dinamarca, da Irlanda e do Reino Unido da Grã-Bretanha e da Irlanda do Norte;
+      Acto de Adesão da Grécia; Acto de Adesão da Áustria, da Finlândia e da Suécia
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Adita Artigo 1º
+    - Adita Artigo 2º
+    - Adita Artigo 3º
+    - Adita Artigo 3ºA
+    - Adita Artigo 4º
+    - Adita Artigo 5º
+    - Adita Artigo 6º
+    - Adita Artigo 7º
+    - Adita Artigo 8º
+    - Adita Artigo 9º
+    - Adita Artigo 11.º
+    - Adita Artigo 12º
+    - Adita Artigo 13º
+    - Adita Artigo 14º
+    - Adita Artigo 15º
+    - Adita Artigo 16º
+    - Adita Artigo 17º
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+    - Suprime Artigo 15o
+    - Suprime Artigo 16o
+    - Suprime Artigo 17o
+  - date: '2005-07-01'
+    amending: eu:celex:32003R1782:por
+    amending_title: REGULAMENTO (CE) N. o 1782/2003 DO CONSELHO de 29 de Setembro de 2003
+    changes:
+    - Altera preambulo
+    - Altera Artigo 15º
+    - Altera ANEXO
+    - Altera Notas
+    - Suprime Artigo 3º
+  - date: '2006-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3ºA
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime Artigo 17º
+    - Suprime ANEXO
+    - Suprime Notas
 identifiers:
   celex: 31971R2358
   eli: http://data.europa.eu/eli/reg/1971/2358/oj
@@ -49,7 +137,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3b05b44c-304a-4960-b636-a1b5122248d7.0011
   content_url: http://publications.europa.eu/resource/cellar/d6dfbe4b-9624-4f62-87ea-199721693cad.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01971R2358-20060701
-  retrieved_at: '2026-10-22T02:54:15Z'
+  retrieved_at: '2026-10-22T14:30:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T16:54:15.202+01:00'
 integrity:
@@ -58,9 +146,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:54:15Z'
-  notes: Texto consolidado 01971R2358-20060701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:30:05Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-1971-2358.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -281,16 +369,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:54:15Z'
+  checked_at: '2026-10-22T14:30:05Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01971R2358-19980701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01971R2358-20000701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01971R2358-20001027: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -1,0 +1,277 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31976L0762:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0762-20141101",
+ "dre_path": null,
+ "source_lastmod": "2014-11-01",
+ "versions": [
+  {
+   "date": "1976-09-27",
+   "future": false,
+   "celex": "31976L0762",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "dbfa3d03e5f340ad",
+    "fa97a6fb988af75b",
+    "47bfa45a768f88eb",
+    "71a5afee266dc08d",
+    "294857e0a0fb1890",
+    "7e3e8e8ebdf07a57",
+    "1d7a5dbe484fe501",
+    "ffc07d955bb3051a",
+    "a0ccb2379ae8cdf5",
+    "ad60586141d6c41c",
+    "93570642041164d3",
+    "80500db2b193bdba",
+    "f890f83123905aa8",
+    "0c9a0755a69970ed",
+    "34fa8b8b04e9f4d3",
+    "e562518931b41ac9",
+    "c86de1d2e6fe1586",
+    "c893c6b1e9686fca",
+    "2322067100ac8043",
+    "7bd38179e7376c2b",
+    "7bd38179e7376c2b",
+    "77727bd62ad7c973",
+    "432f4325750996ea",
+    "0c9a0755a69970ed",
+    "34fa8b8b04e9f4d3",
+    "e562518931b41ac9",
+    "c86de1d2e6fe1586",
+    "c893c6b1e9686fca",
+    "2322067100ac8043",
+    "7bd38179e7376c2b",
+    "77727bd62ad7c973",
+    "809816b039ab3eb2"
+   ]
+  },
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "celex": "01976L0762-20141101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Anexo I - Modelo de ficha de homologação CEE — Anexo II - Condições de homologação CEE e marcação",
+    "Suprime Anexo III (1)() - Lâmpadas para as luzes de nevoeiro da frente — Anexo IV (1)() - Lâmpadas-padrão para as luzes de nevoeiro da frente",
+    "Suprime Anexo V (1)() - Painel de medição",
+    "Suprime ANEXO 0 — DEFINIÇÕES, ESPECIFICAÇÕES GERAIS, ILUMINAÇÃO, CONFORMIDADE DA PRODUÇÃO",
+    "Suprime ANEXO I — MODELO DE FICHA DE HOMOLOGAÇÃO CEE",
+    "Suprime ANEXO II — CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO",
+    "Suprime ANEXO III — LÁMPADAS PARA FAROIS DE NEVOEIRO",
+    "Suprime ANEXO IV — LÂMPADAS-PADRAO PARA LUZES DE NEVOEIRO DA FRENTE",
+    "Suprime ANEXO V — PAINEL DE MEDIDA COLOCADO A 25 M"
+   ],
+   "fragments": [
+    "7e2bbcd000cd8006"
+   ]
+  }
+ ],
+ "fragments": {
+  "dbfa3d03e5f340ad": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 76/762/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-Membros respeitantes às luzes de nevoeiro da frente dos veículos a motor bem como às lâmpadas para essas luzes** *Jornal Oficial nº L 262 de 27/09/1976 p. 0122 - 0134 Edição especial finlandesa: Capítulo 13 Fascículo 5 p. 0151 Edição especial grega: Capítulo 13 Fascículo 4 p. 0097 Edição especial sueca: Capítulo 13 Fascículo 5 p. 0151 Edição especial espanhola: Capítulo 13 Fascículo 5 p. 0161 Edição especial portuguesa: Capítulo 13 Fascículo 5 p. 0161*\n\nDIRECTIVA DO CONSELHO de 27 de Julho de 1976 relativa à aproximação das legislações dos Estados-membros respeitantes às luzes de nevoeiro da frente dos veículos a motor bem como às lâmpadas para essas luzes\n\n(76/762/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que as prescrições técnicas exigidas para os veículos a motor pelas legislações nacionais respeitam, nomeadamente, às luzes de nevoeiro da frente;\n\nConsiderando que estas prescrições diferem de um Estado-membro para outro; que daí resulta a necessidade de que sejam adoptadas as mesmas prescrições por todos os Estados-membros, quer em complemento, quer em substituição das suas regulamentações actuais, tendo em vista nomeadamente permitir a aplicação, para cada modelo de veículo, do processo de recepção CEE que é objecto da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques (3);\n\nConsiderando que, pela Directiva 76/756/CEE (4), o Conselho adoptou as prescrições comuns respeitantes à instalação dos dispositivos de iluminação e de sinalização luminosa dos veículos a motor e seus reboques;\n\nConsiderando que, por um processo de homologação harmonizado das luzes de nevoeiro da frente, cada Estado-membro terá a possibilidade de verificar o cumprimento das prescrições comuns de construção e de ensaio e de informar os outros Estados-membros da verificação feita pelo envio de uma cópia da ficha de homologação estabelecida para cada tipo de luz de nevoeiro da frente; que a aposição de uma marca de homologação CEE em todos os dispositivos fabricados em conformidade com o tipo homologado torna desnecessário um controlo técnico destes dispositivos nos outros Estados-membros;\n\nConsiderando que convém ter em conta certas prescrições técnicas adoptadas pela Comissão Económica para a Europa da ONU no seu Regulamento no 19 (Prescrições uniformes relativas à homologação das luzes de nevoeiro para veículos automóveis) (5), anexado ao Acordo, de 20 de Março de 1958, respeitante à adopção de condições uniformes de homologação e ao reconhecimento reciproco da homologação de equipamentos e peças de veículos a motor;\n\nConsiderando que a aproximação das legislações nacionais respeitantes aos veículos a motor implica um reconhecimento reciproco pelos Estados-membros dos controlos efectuados por cada um deles com base nas prescrições comuns,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "fa97a6fb988af75b": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Cada Estado-membro procederá à homologação CEE de qualquer tipo de luz de nevoeiro da frente que esteja em conformidade com as prescrições de construção e de ensaio constantes dos Anexos 0, II, III, IV e V.\n\n2. O Estado-membro que tiver procedido à homologação CEE tomará as medidas necessárias para controlar, tanto quanto necessário, a conformidade da produção com o tipo homologado, se for caso disso, em colaboração com as autoridades competentes dos outros Estados-membros. Este controlo limitár-se-á a amostragens."
+  },
+  "47bfa45a768f88eb": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros atribuirão ao fabricante ou ao seu mandatário uma marca de homologação CEE conforme aos modelos estabelecidos no Anexo II para cada tipo de luz de nevoeiro da frente que homologuem por força do artigo 1o.\n\nOs Estados-membros tomarão todas as disposições necessárias para impedir a utilização de marcas que possam criar confusões entre as luzes de nevoeiro da frente cujo tipo tenha sido homologado por força do artigo 1o e outros dispositivos."
+  },
+  "71a5afee266dc08d": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os Estados-membros não podem proibir a colocação no mercado das luzes de nevoeiro da frente por motivos relacionados com a sua construção ou o seu funcionamento, se estas ostentarem a marca de homologação CEE.\n\n2. Contudo, um Estado-membro pode proibir a colocação no mercado das luzes de nevoeiro da frente que ostentem a marca de homologação CEE mas que, de forma sistemática, não sejam conformes ao tipo homologado. Este Estado informará imediatamente os outros Estados-membros e a Comissão das medidas tomadas, especificando os motivos da sua decisão."
+  },
+  "294857e0a0fb1890": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nAs autoridades competentes de cada Estado-membro enviarão às dos outros Estados-membros, no prazo de um mês, uma cópia das fichas de homologação, cujo modelo figura no Anexo I, estabelecidas para cada tipo de luz de nevoeiro da frente que homologuem ou recusem homologar."
+  },
+  "7e3e8e8ebdf07a57": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Se o Estado-membro que procedeu à homologação CEE verificar que várias luzes de nevoeiro da frente que ostentam a mesma marca de homologação CEE não são conformes ao tipo que homologou, tomará as medidas necessárias para que a conformidade da produção com o tipo homologado seja assegurada. As autoridades competentes deste Estado avisarão as dos outros Estados-membros das medidas tomadas, que podem ir até à revogação da homologação CEE quando a não conformidade for sistemática. As referidas autoridades tomarão as mesmas disposições se forem informadas pelas autoridades competentes de um outro Estado-membro da existência de uma tal falta de conformidade.\n\n2. As autoridades competentes dos Estados-membros informar-se-ao mutuamente, no prazo de um mês, da revogação de uma homologação CEE concedida, bem como dos motivos que justificam essa medida."
+  },
+  "1d7a5dbe484fe501": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nQualquer decisão de recusa ou revogação da homologação ou de proibição da colocação no mercado ou da utilização, tomada por força das disposições adoptadas em execução da presente directiva, será fundamentada de forma precisa. Será notificada ao interessado, com a indicação das vias de recurso previstas na legislação em vigor nos Estados-membros e dos prazos nos quais estes recursos podem ser interpostos."
+  },
+  "ffc07d955bb3051a": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros não podem recusar a recepção CEE nem a recepção de âmbito nacional de um veículo por motivos relacionados com as luzes de nevoeiro da frente, se estas ostentarem a marca de homologação CEE e estiverem montadas em conformidade com as prescrições constantes da Directiva 76/756/CEE."
+  },
+  "a0ccb2379ae8cdf5": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros não podem recusar ou proibir a venda, a matricula, a entrada em circulação ou a utilização de um veículo por motivos relacionados com as luzes de nevoeiro da frente, se estas ostentarem a marca de homologação CEE e estiverem montadas em conformidade com as prescrições constantes da Directiva 76/756/CEE."
+  },
+  "ad60586141d6c41c": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nPara efeitos do disposto na presente directiva, entende-se por veículo qualquer veículo a motor destinado a transitar na estrada, com ou sem carroçaria, tendo pelo menos quatro rodas e uma velocidade máxima, por construção, superior a 25 Km/h, com excepção dos veículos que se deslocam sobre carris, dos tractores e máquinas agricolas, bem como das máquinas de obras públicas."
+  },
+  "93570642041164d3": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nAs alterações necessárias para adaptar ao progresso técnico as prescrições dos anexos serão adoptadas em conformidade com o procedimento previsto no artigo 13o da Directiva 70/156/CEE."
+  },
+  "80500db2b193bdba": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. Os Estados-membros adoptarão e publicarão, antes de 1 de Julho de 1977, as disposições necessárias para darem cumprimento à presente directiva e desse facto informarão imediatamente a Comissão. Aplicarão estas disposições o mais tardar a partir de 1 de Outubro de 1977.\n\n2. A partir da notificação da presente directiva, os Estados-membros devem assegurar que a Comissão seja informada, em tempo útil que lhe permita apresentar as suas observações, de qualquer projecto de disposições de natureza legislativa, regulamentar ou administrativa que tenham a intenção de adoptar no domínio regulado pela presente directiva."
+  },
+  "f890f83123905aa8": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 27 de Julho de 1976.\n\nPELO CONSELHO\n\nO PRESIDENTE\n\nM. van der STOEL\n\n(1) JO no C 55 de 13. 5. 1974, p. 14.(2) JO no C 109 de 19. 9. 1974, p. 24.(3) JO no L 42 de 23. 2. 1970, p. 1.(4) Vide p. 1 do JO no L 262 de 27. 9. 1976.(5) Documento da Comissão Económica para a Europa\n\nE/ECE/324 Rev. 1/Add. 18 rev. 1 de 22. 8. 1974.\n\nE/ECE/TRANS/505 Rev. 1/Add. 18 rev. 1 de 22. 8. 1974.\n\nLista dos anexos\n\nAnexo 0 (1)() - Definições, especificações gerais, iluminação, conformidade da produção"
+  },
+  "0c9a0755a69970ed": {
+   "fragment_id": "Anexo I - Modelo de ficha de homologação CEE — Anexo II - Condições de homologação CEE e marcação",
+   "type": "divisao",
+   "heading": "Anexo I - Modelo de ficha de homologação CEE — Anexo II - Condições de homologação CEE e marcação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I - Modelo de ficha de homologação CEE — Anexo II - Condições de homologação CEE e marcação\n\nApêndice: exemplo de marca de homologação CEE"
+  },
+  "34fa8b8b04e9f4d3": {
+   "fragment_id": "Anexo III (1)() - Lâmpadas para as luzes de nevoeiro da frente — Anexo IV (1)() - Lâmpadas-padrão para as luzes de nevoeiro da frente",
+   "type": "divisao",
+   "heading": "Anexo III (1)() - Lâmpadas para as luzes de nevoeiro da frente — Anexo IV (1)() - Lâmpadas-padrão para as luzes de nevoeiro da frente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III (1)() - Lâmpadas para as luzes de nevoeiro da frente — Anexo IV (1)() - Lâmpadas-padrão para as luzes de nevoeiro da frente"
+  },
+  "e562518931b41ac9": {
+   "fragment_id": "Anexo V (1)() - Painel de medição",
+   "type": "divisao",
+   "heading": "Anexo V (1)() - Painel de medição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V (1)() - Painel de medição\n\n(1)() As exigências técnicas dos anexos são análogas às do Regulamento no 19 rev. 1 da Comissão Económica para a Europa; em especial, as subdivisões em pontos são as mesmas. É por isso que, se um ponto do Regulamento no 19 rev. 1 não tiver correspondência na presente directiva, o seu número é indicado pro memoria entre parênteses."
+  },
+  "c86de1d2e6fe1586": {
+   "fragment_id": "ANEXO 0 — DEFINIÇÕES, ESPECIFICAÇÕES GERAIS, ILUMINAÇÃO, CONFORMIDADE DA PRODUÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO 0 — DEFINIÇÕES, ESPECIFICAÇÕES GERAIS, ILUMINAÇÃO, CONFORMIDADE DA PRODUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 0 — DEFINIÇÕES, ESPECIFICAÇÕES GERAIS, ILUMINAÇÃO, CONFORMIDADE DA PRODUÇÃO\n\n1. DEFINIÇÕES\n\n1.1. Luz de nevoeiro da frente\n\nPor luz de nevoeiro da frente entende-se a luz que serve para melhorar a iluminação da estrada em caso de nevoeiro, queda de neve, tempestade com chuva ou nuvens de pó.\n\n1.2. Tipo de luzes de nevoeiro da frente\n\nPor tipo de luzes de nevoeiro da frente entende-se as luzes de nevoeiro da frente que não apresentem diferenças essenciais entre si, nomeadamente quanto aos seguintes pontos:\n\n1.2.1. Marca de fabrico ou comercial.\n\n1.2.2. Caracteristicas do sistema óptico.\n\n1.2.3. Elementos adicionais susceptiveis de alterar os resultados ópticos por reflexão, refracção ou absorção.\n\n1.2.4. Tipo de lâmpada\n\n(2.)\n\n(3.)\n\n(4.)\n\n5. ESPECIFICAÇÕES GERAIS\n\n5.1. Cada uma das amostras apresentadas em conformidade com o ponto 1.2.3 do Anexo II deve satisfazer as especificações indicadas nos pontos 6 e 7.\n\n5.2. As luzes de nevoeiro da frente devem ser concebidas e fabricadas de tal forma que, em condições normais de utilização e apesar das vibrações às quais possam estar sujeitos, o seu bom funcionamento continue assegurado e conservem as caracteristicas impostas pela presente directiva.\n\nA posição correcta do vidro deve ser claramente indicada e o vidro e o reflector devem ser fixados de forma a evitar qualquer rotação durante a utilização.\n\n5.3. A verificação da conformidade com as prescrições do presente ponto efectua-se por inspecção visual e, se necessário, por meio de uma montagem de ensaio.\n\n6. ILUMINAÇÃO\n\n6.1. As luzes de nevoeiro da frente devem ser fabricadas de modo a darem uma iluminação com encandeamento limitado.\n\n6.2. Para verificar a iluminação produzida pela de nevoeiro da frente, utiliza-se um painel colocado verticalmente, a uma distância de 25 m à frente do vidro da luz e perpendicularmente ao eixo desta. O ponto HV é a base da perpendicular que vai do centro da luz ao painel. A linha hh é a horizontal que passa por HV (ver Anexo V).\n\n6.3. No caso de um tipo de fabrico não selado, utiliza-se uma lâmpada-padrão com ampola incolor do tipo indicado pelo fabricante, em conformidade com as prescrições do Anexo IV, fabricada para uma tensão nominal de 12 V e fornecida pelo fabricante; esta lâmpada será alimentada a uma tensão tal que dê o fluxo previsto para os ensaios correspondentes ao seu tipo. No caso de um tipo de fabrico selado, a alimentação será feita à tensão de ensaio (6, OV, 12, OV ou 24, OV conforme o caso).\n\n6.4. O feixe deve produzir no painel, numa largura minima de 225 cm de ambos os lados de vv, um recorte horizontal suficientemente nitido para permitir uma regulação com o seu auxilio.\n\n6.5. A luz de nevoeiro da frente será orientada de modo a que, no painel, o recorte se encontre 50 cm abaixo da linha hh.\n\n6.6. Regulada desta maneira, a luz de nevoeiro da frente deve satisfazer as condições mencionadas no ponto 6.7.\n\n6.7. A iluminação produzida no painel (ver Anexo V) deve responder às prescrições do seguinte quadro:\n\n\"\" ID=\"1\">A> ID=\"2\">225 cm de cada lado da linha vv e 75 cm acima de hh> ID=\"3\">& ge; 0,15 e & le; 1\"> ID=\"1\">B> ID=\"2\">1 250 cm de cada lado da linha vv e 150 cm acima de hh, incluindo hh (excepto a zona A)> ID=\"3\">& le; 1\"> ID=\"1\">C> ID=\"2\">1 250 cm de cada lado da linha vv e a partir de 150 cm acima de hh. Em qualquer direcção que faça um ângulo superior a 15 ° para cima com o plano horizontal, a intensidade luminosa do projector deve ser limitada a 200 cd.> ID=\"3\">& le; 0,5\"> ID=\"1\">D> ID=\"2\">450 cm de cada lado da linha vv e entre as paralelas a hh situadas respectivamente 75 e 150 cm abaixo de hh.> ID=\"3\">Sobre cada linha vertical desta zona deve existir pelo menos um ponto (a, b, c) em que a iluminação seja & ge; 1,5.\"> ID=\"1\">E> ID=\"2\">De 450 a 1 000 cm de cada lado da zona D e entre as paralelas a hh situadas respectivamente 75 e 150 cm abaixo de hh> ID=\"3\">Sobre cada linha vertical desta zona deve existir pelo menos um ponto em que a iluminação seja & ge; 0,5\"\"\n\nNota: As especificações de iluminação aplicam-se igualmente às rectas que limitam as zonas. Para as rectas contiguas a duas zonas, aplica-se a especificação mais severa.>\n\nA iluminação é medida quer em luz branca quer em luz colorida tal como prevista pelo fabricante para a utilização da luz de nevoeiro da frente em serviço normal. Nas zonas B e C não devem existir variações de iluminação se forem prejudiciais a uma boa visibilidade.\n\n6.8. A iluminação no painel mencionado no ponto 6.7 é medida por meio de uma célula fotoeléctrica cuja área útil deve estar compreendida no interior de um quadrado de 65 mm de lado.\n\n7. COR DA LUZ EMITIDA\n\nA homologação CEE pode ser obtida para um tipo de luz de nevoeiro da frente que emita luz branca ou luz amarela (1)(). A coloração eventual do feixe luminoso pode ser obtida quer pela ampola da lâmpada, quer pelo vidro da luz de nevoeiro da frente, quer por qualquer outro meio apropriado.\n\n(8.)\n\n(9.)\n\n(10.) CONFORMIDADE DA PRODUÇÃO\n\nQualquer luz de nevoeiro da frente que ostente uma marca de homologação CEE deve estar conforme ao tipo homologado e satisfazer as condições fotométricas indicadas no ponto 6.\n\n(11.)\n\n(12.)\n\n(1)() A mesma definição que para o amarelo selectivo mas com um factor de pureza diferente. O limite para o branco será y & ge; - x + 0,940 e y & ge; 0,440 em vez de y & ge; - x + 0,966 como para o amarelo selectivo."
+  },
+  "c893c6b1e9686fca": {
+   "fragment_id": "ANEXO I — MODELO DE FICHA DE HOMOLOGAÇÃO CEE",
+   "type": "divisao",
+   "heading": "ANEXO I — MODELO DE FICHA DE HOMOLOGAÇÃO CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — MODELO DE FICHA DE HOMOLOGAÇÃO CEE\n\n(Formato minimo A 4 (210 × 297 mm))\n\nDenominação da autoridade administrativa\n\nComunicação respeitante à homologação CEE, à recusa, à revogação da homologação CEE ou à extensão da homologação CEE, à recusa, à revogação da extensão da homologação CEE de um tipo de luz de nevoeiro da frente\n\nNúmero de homologação...\n\n1. Luz de nevoeiro da frente prevista para emitir luz branca/amarela (1)()...\n\n2. Luz de nevoeiro da frente que utiliza uma lâmpada do tipo F1, F2, F3, H1, H2, H3 (1)()\n\n3. Tensão nominal (se se tratar de uma luz selada)... volts\n\n4. Marca de fabrico ou comercial...\n\n5. Nome e morada do fabricante...\n\n6. Se for caso disso, nome e morada do seu mandatário...\n\n7. Apresentada para homologação CEE em...\n\n8. Serviço técnico encarregado dos ensaios de homologação CEE...\n\n9. Data do relatório emitido por este serviço...\n\n10. Número do relatório emitido por este serviço...\n\n11. Extensão da homologação; amarelo/branco (1)()...\n\n12. Data da homologação/recusa/revogação da homologação CEE (1)()...\n\n13. Data da extensão da homologação CEE/recusa/revogação da extensão da homologação CEE (1)()...\n\n14. Homologação CEE única concedida com base no ponto 3.3 do Anexo II a um dispositivo de iluminação e de sinalização luminosa incluindo várias luzes, e nomeadamente...\n\n15. Data da recusa/revogação (1)() da homologação CEE única...\n\n16. Local...\n\n17. Data...\n\n18. Assinatura...\n\n19. O desenho no... em anexo representa a luz vista de frente, com as estrias do vidro, e em corte transversal\n\n20. Observações eventuais...\n\n(1)() Riscar o que não interessa"
+  },
+  "2322067100ac8043": {
+   "fragment_id": "ANEXO II — CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO II — CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO\n\n1. PEDIDO DE HOMOLOGAÇÃO CEE\n\n1.1. O pedido de homologação CEE será apresentado pelo detentor da marca de fabrico ou comercial, ou pelo seu mandatário.\n\n1.2. Para cada tipo de luz de nevoeiro da frente, o pedido é acompanhado por:\n\n1.2.1. Uma descrição técnica sucinta. No caso de a luz não ser do tipo selado, o tipo da lâmpada deve ser especificado; este tipo é um daqueles cujas caracteristicas figuram no Anexo III.\n\n1.2.2. Desenhos, em triplicado, suficientemente pormenorizados para permitir a identificação do tipo e representando a luz em corte transversal (axial) e vista de frente com, se necessário, o pormenor das estrias de vidro. Os desenhos devem mostrar a posição prevista para o número de homologação CEE e o simbolo adicional em relação ao rectângulo da marca de homologação CEE.\n\n1.2.3. Duas amostras do tipo de luz de nevoeiro da frente.\n\n2. INSCRIÇÕES\n\n2.1. As amostras de um tipo de luz de nevoeiro da frente apresentadas para homologação CEE devem ostentar a marca de fabrico ou comercial do requerente; esta marca deve ser nitidamente legivel e indelével.\n\n2.2. Cada luz deve ter, tanto no vidro como no corpo principal, um espaço de dimensão suficiente para a marca de homologação CEE; este espaço deve ser indicado nos desenhos mencionados no ponto 1.2.2.\n\n3. HOMOLOGAÇÃO CEE\n\n3.1. Quando todas as amostras apresentadas em conformidade com o ponto 1 obedecerem ao disposto nos pontos 5, 6 e 7 do Anexo 0 será concedida a homologação CEE e será atribuido um número de homologação.\n\n3.2. Este número não será atribuído a nenhum outro tipo de luz de nevoeiro da frente, salvo no caso de extensão da homologação CEE a um outro tipo de luz de nevoeiro da frente que só difira daquele pela cor da luz emitida.\n\n3.3. Quando a homologação CEE for pedida para um tipo de dispositivo de iluminação e de sinalização luminosa que inclua uma luz de nevoeiro da frente e outras luzes, pode ser concedida uma marca de homologação CEE única, na condição de que a luz de nevoeiro da frente corresponda às prescrições da presente directiva e que cada uma das outras luzes que fazem parte do tipo de dispositivo de iluminação e de sinalização luminosa para o qual é pedida a homologação corresponda à directiva especial que lhe é aplicável.\n\n4. MARCAÇÃO\n\n4.1. Qualquer luz de nevoeiro da frente conforme a um tipo homologado em aplicação da presente directiva deve ostentar uma marca de homologação CEE.\n\n4.2. Esta marca será composta por: um rectângulo, no interior do qual está colocada a letra «e» minúscula, seguida do número ou grupo de letras distintivo do Estado-membro que concedeu a homologação:\n\n1 para a Alemanha\n\n2 para a França\n\n3 para a Itália\n\n4 para os Países Baixos\n\n6 para a Bélgica\n\n11 para o Reino Unido\n\n13 para o Luxemburgo\n\nDK para a Dinamarca\n\nIRL para a Irlanda\n\ne um número de homologação CEE que corresponda ao número da ficha de homologação CEE estabelecida para o tipo de luz de nevoeiro da frente.\n\n4.3. A marca de homologação CEE será completada pelo simbolo adicional «B».\n\n4.4. O número de homologação CEE deve ser colocado em qualquer posição conveniente na proximidade do rectângulo circunscrito à letra «e».\n\n4.5. A marca de homologação CEE e o simbolo adicional devem ser apostos no vidro ou num dos vidros de tal forma que sejam indeléveis e bem legiveis mesmo quando as luzes de nevoeiro da frente estiverem montadas no veículo.\n\n4.6. Um exemplo da marca de homologação completada pelo simbolo adicional é dado em apêndice.\n\n4.7. No caso da atribuição de um número de homologação CEE única previsto no ponto 3.3 para um tipo de dispositivo de iluminação e de sinalização luminosa que inclua uma luz de nevoeiro da frente e outras luzes, pode ser aposta uma única marca de homologação CEE que compreenda:\n\n- um rectângulo no interior do qual esteja colocada a letra «e» seguida do número ou do grupo de letras distintivo do Estado-membro que concedeu a homologação,\n\n- um número de homologação CEE,\n\n- os simbolos adicionais previstos nas diferentes directivas ao abrigo das quais a homologação CEE foi concedida.\n\n4.8. As dimensões dos diferentes elementos desta marca não devem ser inferiores às maiores das dimensões minimas prescritas para as marcações individuais pelas directivas ao abrigo das quais a homologação CEE Efoiconcedida.\n\nApêndice\n\nEXEMPLO DE MARCA DE HOMOLOGAÇaO CEE"
+  },
+  "7bd38179e7376c2b": {
+   "fragment_id": "ANEXO III — LÁMPADAS PARA FAROIS DE NEVOEIRO",
+   "type": "divisao",
+   "heading": "ANEXO III — LÁMPADAS PARA FAROIS DE NEVOEIRO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — LÁMPADAS PARA FAROIS DE NEVOEIRO"
+  },
+  "77727bd62ad7c973": {
+   "fragment_id": "ANEXO IV — LÂMPADAS-PADRAO PARA LUZES DE NEVOEIRO DA FRENTE",
+   "type": "divisao",
+   "heading": "ANEXO IV — LÂMPADAS-PADRAO PARA LUZES DE NEVOEIRO DA FRENTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — LÂMPADAS-PADRAO PARA LUZES DE NEVOEIRO DA FRENTE\n\n\"\" ID=\"1\">D> ID=\"2\">29 max.> ID=\"3\">36 max.> ID=\"4\">41 max.> ID=\"5\">10 max.\"> ID=\"1\">b> ID=\"2\">46 max.> ID=\"3\">50 max.> ID=\"4\">45 max.> ID=\"5\">49 max.\"> ID=\"1\">c> ID=\"2\">21,5 ± 0,15> ID=\"3\">30 ± 0,15> ID=\"4\">28,5 ± 0,15> ID=\"5\">25 ± 0,15\"> ID=\"1\">d1> ID=\"2\" ASSV=\"2\">± 0,2> ID=\"3\" ASSV=\"2\">± 0,2> ID=\"4\" ASSV=\"2\">± 0,2> ID=\"5\">± 0,2\"> ID=\"1\">d2> ID=\"5\">± 0,25\"> ID=\"1\">f> ID=\"2\">6 à 7,5> ID=\"3\">(1) 4 à 7> ID=\"4\">5 ± 1> ID=\"5\">5,5 ± 0,5\"> ID=\"1\">v> ID=\"2\">90 ° ± 3 °> ID=\"3\">90 ° ± 3 °> ID=\"4\"\" ID=\"5\"\"\" ID=\"1\">Tensão de ensaio> ID=\"2\">13,2 V> ID=\"3\">13,5 V> ID=\"4\">13,2 V> ID=\"5\">13,2 V\"> ID=\"1\">Potência à tensão de ensaio> ID=\"2\">55,5 W ± 10 %> ID=\"3\">35 W ± 10 %> ID=\"4\">45 W ± 10 %> ID=\"5\">62 W ± 7,5 %\"> ID=\"1\">Fluxo luminoso para o ensaio das luzes de nevoeiro da frente> ID=\"2\">800 lm> ID=\"3\">540 lm> ID=\"4\">650 lm> ID=\"5\">1 150 lm\"\">\n\n(1) A extremidade do filamenté deve estar, em relação ao eixo de referência da lâmpada, à cota 2,5 ± 0,2."
+  },
+  "432f4325750996ea": {
+   "fragment_id": "ANEXO V — PAINEL DE MEDIDA COLOCADO A 25 M",
+   "type": "divisao",
+   "heading": "ANEXO V — PAINEL DE MEDIDA COLOCADO A 25 M",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — PAINEL DE MEDIDA COLOCADO A 25 M\n\nLista dos anexos\n\nAnexo 0 (1)() - Definições, especificações gerais, iluminação, conformidade da produção"
+  },
+  "809816b039ab3eb2": {
+   "fragment_id": "ANEXO V — PAINEL DE MEDIDA COLOCADO A 25 M",
+   "type": "divisao",
+   "heading": "ANEXO V — PAINEL DE MEDIDA COLOCADO A 25 M",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — PAINEL DE MEDIDA COLOCADO A 25 M"
+  },
+  "7e2bbcd000cd8006": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1976L0762 — PT — 01.11.2014 — 009.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31976L0762) [DIRECTIVA 2006/96/CE DO CONSELHO](http://publications.europa.eu/resource/celex/31976L0762) [de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/31976L0762) [relativa à aproximação das legislações dos Estados-membros respeitantes às luzes de nevoeiro da frente dos veículos a motor](http://publications.europa.eu/resource/celex/31976L0762) (JO L 262, 27.9.1976, p.122)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 661/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0661) — L 200 — 1 — 31.7.2009"
+  }
+ }
+}

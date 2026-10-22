@@ -37,6 +37,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '1998-12-31'
+version_history:
+  file: regulamento-ue-1998-2846.versoes.json
+  count: 1
+  source_lastmod: '1998-12-31'
+  versions:
+  - date: '1998-12-31'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31998R2846
   eli: http://data.europa.eu/eli/reg/1998/2846/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b0f0ad9b-17d0-4e6e-bfd5-33c467daf4c0.0011
   content_url: http://publications.europa.eu/resource/cellar/37154625-f75c-4ec8-8b8f-104f0b8ec5d4.0010.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998R2846-19981231
-  retrieved_at: '2026-10-22T02:41:15Z'
+  retrieved_at: '2026-10-22T14:47:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T17:06:54.296+01:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:15Z'
-  notes: Texto consolidado 01998R2846-19981231.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:24Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-1998-2846.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -132,15 +141,14 @@ relationships:
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:15Z'
-  warnings:
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:47:24Z'
+  warnings: []
   errors: []
 ---
 

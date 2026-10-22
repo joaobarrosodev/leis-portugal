@@ -1,0 +1,762 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994R1164:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994R1164-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "1994-05-25",
+   "future": false,
+   "celex": "31994R1164",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "abaf072d3eb4e6e9",
+    "3997ec3dfb1b26ca",
+    "595fdea0dfb51cb4",
+    "9333392d654e7710",
+    "7362780fbee53db3",
+    "45e0c7b38f08cbef",
+    "5e0bd7c2bd08fc16",
+    "4594aa7b6b7b1d7e",
+    "e83df39bdb35c048",
+    "874ec76f800ad1f4",
+    "825bd220bce3ae30",
+    "a28d54125c5ddac6",
+    "dc42689b4104034c",
+    "4f70bfa6fcf36469",
+    "967532d0b5bb659a",
+    "0e313b6ab839ddfc",
+    "07e250c7598273e0",
+    "72259b41bdee8106",
+    "c63958eec3e621f0",
+    "bbfc31bb644123a2",
+    "f65634ac86499fa5",
+    "3090c701e0de75b0",
+    "661b85141d9388dd",
+    "b26571f9a4ecb161",
+    "fa2a626587583383",
+    "3ba108ab770d26c5",
+    "033a3b1b22945998",
+    "598b90bf9106b696",
+    "c25f8f7a2a68d5d4",
+    "653dd54a4063b8fd"
+   ]
+  },
+  {
+   "date": "2004-05-01",
+   "future": false,
+   "celex": "01994R1164-20040501",
+   "acts": [
+    {
+     "id": "eu:celex:31999R1264:por",
+     "title": "REGULAMENTO (CE) N. o 1264/1999 DO CONSELHO de 21 de Junho de 1999",
+     "published": null,
+     "celex": "31999R1264"
+    },
+    {
+     "id": "eu:celex:31999R1265:por",
+     "title": "REGULAMENTO (CE) N. o 1265/1999 DO CONSELHO de 21 de Junho de 1999",
+     "published": null,
+     "celex": "31999R1265"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo H",
+    "Adita Artigo 1.º — Definição e objectivo",
+    "Adita Artigo 2.º — Âmbito de aplicação",
+    "Adita Artigo 3.º — Acções elegíveis",
+    "Adita Artigo 4.º — Recursos financeiros",
+    "Adita Artigo 5.º — Repartição indicativa",
+    "Adita Artigo 6.º — Assistência condicional",
+    "Adita Artigo 7.º — Taxa de apoio",
+    "Adita Artigo 8.º — Coordenação e compatibilidade com as políticas comunitárias",
+    "Adita Artigo 9.º — Conjugação e sobreposição",
+    "Adita Artigo 10.º — Aprovação dos projectos",
+    "Adita Artigo 11.º — Disposições financeiras",
+    "Adita Artigo 12.º — Controlo financeiro",
+    "Adita Artigo 13.º — Apreciação, acompanhamento e avaliação",
+    "Adita Artigo 14.º — Informação e publicidade",
+    "Adita Artigo 15.º — Execução",
+    "Adita Artigo 16.º — Disposições finais e transitórias",
+    "Adita Artigo 16.ºA — Disposições específicas na sequência da adesão à União Europeia de um novo Estado-Membro que beneficiou de ajuda de pré-adesão ao abrigo do Instrumento Estrutural de Pré-Adesão (ISPA)",
+    "Adita Artigo 17.º — Entrada em vigor",
+    "Adita ANEXO I",
+    "Adita ANEXO II",
+    "Adita DISPOSIÇÕES DE EXECUÇÃO",
+    "Adita Artigo A — Identificação de projectos, fases ou grupos de projectos",
+    "Adita Artigo B — Avaliação",
+    "Adita Artigo C — Autorizações",
+    "Adita Artigo D — Pagamentos",
+    "Adita Artigo E — Utilização do [►M2](http://publications.europa.eu/resource/celex/31999R1265) euro◄",
+    "Adita Artigo F — Acompanhamento",
+    "Adita Artigo G — Controlo",
+    "Adita Correcções financeiras",
+    "Adita Artigo I — Contratos públicos",
+    "Adita Artigo J — Informação",
+    "Adita Artigo K — Revisão",
+    "Adita Anexo ao anexo II",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime ANEXO I — REPARTIÇÃO INDICATIVA DOS RECURSOS GLOBAIS DO FUNDO PELOS ESTADOS-MEMBROS BENEFICIÁRIOS - Espanha: de 52 % a 58 % do total",
+    "Suprime ANEXO II — DISPOSIÇÕES DE EXECUÇÃO Artigo A",
+    "Suprime Artigo B",
+    "Suprime Artigo C",
+    "Suprime Artigo D",
+    "Suprime Artigo E",
+    "Suprime Artigo F",
+    "Suprime Artigo G",
+    "Suprime Artigo I",
+    "Suprime Artigo J",
+    "Suprime Artigo K"
+   ],
+   "fragments": [
+    "48e5013e663f3fe7",
+    "70bbb8ec540e9a1f",
+    "078da12441dc0c3e",
+    "c2a8f64b099604bc",
+    "556e10a32ce646c5",
+    "9e8b18111e02678e",
+    "a402087dc0431adf",
+    "06d4ce40ed767da9",
+    "0c0c147bab027c5f",
+    "cb9628c79f9e7273",
+    "ea4a557c7e339b11",
+    "91fa5f1739ec8120",
+    "1e85d7a6807a772c",
+    "98fc69a72bd9b230",
+    "0a692f558e0dd9f3",
+    "69d251d00571b0aa",
+    "75af4d2b0b7d0f4f",
+    "fdc8103d6d1a196f",
+    "af8156e184f802b7",
+    "8c187c8c5a4b3237",
+    "852174729551523b",
+    "84643d81f4c35ad2",
+    "568c73966345a2fa",
+    "404a967002240854",
+    "e5b210f3a87f1ced",
+    "df6b01a655d1023f",
+    "d4b5fb8cb79724da",
+    "9000959bc9dd548e",
+    "d5581a4601290697",
+    "4d28ce5517b8778b",
+    "01f5af0e58d58f73",
+    "7a212395b1a55a8e",
+    "636ccca6e713c50f",
+    "c096fa65a1b8f291",
+    "d67eca4167a21fed",
+    "d004eac44156aba5"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01994R1164-20070101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Definição e objectivo",
+    "Suprime Artigo 2.º — Âmbito de aplicação",
+    "Suprime Artigo 3.º — Acções elegíveis",
+    "Suprime Artigo 4.º — Recursos financeiros",
+    "Suprime Artigo 5.º — Repartição indicativa",
+    "Suprime Artigo 6.º — Assistência condicional",
+    "Suprime Artigo 7.º — Taxa de apoio",
+    "Suprime Artigo 8.º — Coordenação e compatibilidade com as políticas comunitárias",
+    "Suprime Artigo 9.º — Conjugação e sobreposição",
+    "Suprime Artigo 10.º — Aprovação dos projectos",
+    "Suprime Artigo 11.º — Disposições financeiras",
+    "Suprime Artigo 12.º — Controlo financeiro",
+    "Suprime Artigo 13.º — Apreciação, acompanhamento e avaliação",
+    "Suprime Artigo 14.º — Informação e publicidade",
+    "Suprime Artigo 15.º — Execução",
+    "Suprime Artigo 16.º — Disposições finais e transitórias",
+    "Suprime Artigo 16.ºA — Disposições específicas na sequência da adesão à União Europeia de um novo Estado-Membro que beneficiou de ajuda de pré-adesão ao abrigo do Instrumento Estrutural de Pré-Adesão (ISPA)",
+    "Suprime Artigo 17.º — Entrada em vigor",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime DISPOSIÇÕES DE EXECUÇÃO",
+    "Suprime Artigo A — Identificação de projectos, fases ou grupos de projectos",
+    "Suprime Artigo B — Avaliação",
+    "Suprime Artigo C — Autorizações",
+    "Suprime Artigo D — Pagamentos",
+    "Suprime Artigo E — Utilização do [►M2](http://publications.europa.eu/resource/celex/31999R1265) euro◄",
+    "Suprime Artigo F — Acompanhamento",
+    "Suprime Artigo G — Controlo",
+    "Suprime Artigo H",
+    "Suprime Correcções financeiras",
+    "Suprime Artigo I — Contratos públicos",
+    "Suprime Artigo J — Informação",
+    "Suprime Artigo K — Revisão",
+    "Suprime Anexo ao anexo II",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "26939a33f0875ce1"
+   ]
+  }
+ ],
+ "fragments": {
+  "abaf072d3eb4e6e9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 1164/94 do Conselho, de 16 de Maio de 1994, que institui o Fundo de Coesão** *Jornal Oficial nº L 130 de 25/05/1994 p. 0001 - 0013 Edição especial finlandesa: Capítulo 14 Fascículo 1 p. 0189 Edição especial sueca: Capítulo 14 Fascículo 1 p. 0189*\n\nREGULAMENTO (CE) Nº 1164/94 DO CONSELHO de 16 de Maio de 1994 que institui o Fundo de Coesão\n\nO CONSELHO DA UNIAO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o segundo parágrafo do seu artigo 130º D,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer favorável do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nTendo em conta o parecer do Comité das Regiões (4),\n\nConsiderando que o artigo 2º do Tratado inclui a missão de promover a coesão económica e social e a solidariedade entre os Estados-membros, as quais constituem objectivos essenciais para o desenvolvimento e o êxito da Comunidade; que o reforço da coesão económica e social é mencionado na alínea j) do artigo 3º do Tratado como uma das acções da Comunidade para alcançar os fins enunciados no artigo 2º;\n\nConsiderando que o artigo 130ºA do Tratado dispõe que a Comunidade desenvolverá e prosseguirá a sua acção no sentido de reforçar a sua coesão económica e social e que, em especial, procurará reduzir a disparidade entre os níveis de desenvolvimento das diversas regiões e o atraso das regiões menos favorecidas; que a acção da Comunidade deve, através do Fundo de Coesão, contribuir para a realização dos objectivos referidos neste artigo;\n\nConsiderando que as conclusões dos Conselhos Europeus de Lisboa, de 26 e 27 de Junho de 1992, e de Edimburgo, de 11 e 12 de Dezembro de 1992, relativas à instituição do Fundo de Coesão, enunciam os seus princípios;\n\nConsiderando que a promoção da coesão económica e social requer uma acção do Fundo de Coesão que seja complementar da dos fundos estruturais, do Banco Europeu de Investimento (BEI) e dos outros instrumentos financeiros, nos domínios do ambiente e das infra-estruturas de transportes de interesse comum;\n\nConsiderando que o protocolo relativo à coesão económica e social anexo ao Tratado que institui a Comunidade Europeia reafirma a missão da Comunidade de promover a coesão económica e social e a solidariedade entre os Estados-membros e prevê que um Fundo de Coesão fornecerá contribuições financeiras para projectos na área do ambiente e das redes transeuropeias nos Estados-membros sob duas condições: a primeira, que o respectivo produto nacional bruto (PNB) per capita seja inferior a 90 % da média comunitária e, a segunda, que tenham definido um programa que lhes permita preencher os requisitos de convergência económica estabelecidos no artigo 104ºC do Tratado; que a melhor forma de avaliar a prosperidade relativa dos Estados-membros consiste no recurso ao PNB per capita medido em paridades de poder de compra;\n\nConsiderando que a observância dos critérios de convergência, que constituem uma condição prévia da passagem à terceira fase da União Económica e Monetária, exige um esforço decidido dos Estados-membros beneficiários; que, neste contexto, cada Estado-membro beneficiário apresentará ao Conselho um programa de convergência com esse objectivo e a fim de evitar défices orçamentais excessivos;\n\nConsiderando que o segundo parágrafo do artigo 130ºD do Tratado dispõe que o Conselho deveria criar, até 31 de Dezembro de 1993, um Fundo de Coesão que contribua financeiramente para a realização de projectos nos domínios do ambiente e das redes transeuropeias em matéria de infra-estruturas de transportes;\n\nConsiderando que o nº 1 do artigo 129ºC do Tratado dispõe que a Comunidade pode contribuir para o financiamento de projectos específicos na área das infra-estruturas de transportes, nos Estados-membros, através do Fundo de Coesão, tendo em conta a potencial viabilidade económica dos projectos; que os projectos financiados pelo Fundo de Coesão devem enquadrar-se nas orientações relativas às redes transeuropeias aprovadas pelo Conselho, incluindo os que se enquadram nas linhas directrizes de redes transeuropeias aprovadas pelo Conselho antes da entrada em vigor do Tratado da União Europeia; que, todavia, podem ser financiados outros projectos de infra-estruturas de transportes que contribuam para a realização dos objectivos do artigo 129ºB do Tratado, até que tenham sido aprovadas pelo Conselho as directrizes apropriadas;\n\nConsiderando que o artigo 130ºR do Tratado define os objectivos e os princípios da Comunidade no domínio do ambiente; que a Comunidade pode contribuir, através do Fundo de Coesão, para as acções dirigidas à consecução desses objectivos; que, em conformidade com o nº 5 do artigo 130ºS do Tratado, sem prejuízo do princípio do poluidor-pagador, o Conselho pode decidir, quando uma medida baseada no nº 1 do referido artigo implicar custos considerados desproporcionados para as autoridades públicas de um Estado-membro, um apoio financeiro do Fundo de Coesão;\n\nConsiderando que os princípios e os objectivos de um desenvolvimento sustentável se encontram estabelecidos no programa comunitário de política e acção em relação com o ambiente e o desenvolvimento sustentável, conforme previsto na resolução do Conselho de 1 de Fevereiro de 1993 (5);\n\nConsiderando que é necessário assegurar um equilíbrio adequado entre o financiamento de projectos de infra-estruturas de transportes e o de projectos no domínio do ambiente;\n\nConsiderando que o Livro Verde da Comissão relativo ao impacte dos transportes no ambiente sublinha a necessidade do desenvolvimento de uma rede de transportes mais respeitadora do ambiente, tendo em conta as necessidades de desenvolvimento sustentável dos Estados-membros;\n\nConsiderando que o cálculo do custo dos projectos relativos às infra-estruturas de transportes deve englobar os custos ambientais;\n\nConsiderando que, à luz do compromisso assumido pelos Estados-membros em causa de não diminuírem o esforço de investimento nos domínios da protecção do ambiente e das infra-estruturas de transportes, a adicionalidade, na acepção do artigo 9º do Regulamento (CEE) nº 4253/88 do Conselho, de 19 de Dezembro de 1988, que estabelece as disposições de aplicação do Regulamento (CEE) nº 2052/88 no que respeita à coordenação entre as intervenções dos diferentes Fundos Estruturais, por um lado, e entre estas e as do Banco Europeu de Investimento e dos outros instrumentos financeiros existentes, por outro (6), não será aplicável ao Fundo de Coesão;\n\nConsiderando que, nos termos do artigo 198ºE do Tratado, o BEI facilitará o financiamento de investimentos em articulação com as intervenções dos demais instrumentos financeiros comunitários;\n\nConsiderando que é necessário coordenar as acções do Fundo de Coesão, dos fundos estruturais, do BEI e dos demais instrumentos financeiros, nos domínios do ambiente e das redes transeuropeias em matéria de infra-estruturas de transportes de modo a aumentar a eficácia das intervenções comunitárias;\n\nConsiderando que, nomeadamente para apoiar os Estados-membros na elaboração dos seus projectos, a Comissão deve estar em condições de assegurar que estes disponham do necessário apoio técnico, designadamente a fim de contribuir para a sua preparação e execução, incluindo o acompanhamento e a avaliação de projectos;\n\nConsiderando que, nomeadamente para garantir a rentabilidade, a colocação de recursos comunitários à disposição deve ser precedida de uma cuidadosa avaliação que assegure que os benefícios socioeconómicos obtidos serão proporcionais aos recursos investidos;\n\nConsiderando que as intervenções do Fundo de Coesão devem ser compatíveis com as políticas comunitárias, incluindo a protecção do ambiente, os transportes, as redes transeuropeias, a concorrência e a adjudicação de contratos públicos; que a protecção do ambiente comporta uma apreciação do impacte no ambiente;\n\nConsiderando que se deve prever uma repartição indicativa, entre os Estados-membros, dos recursos globais disponíveis para autorização, a fim de facilitar a preparação dos projectos;\n\nConsiderando que se deve prever uma certa condicionalidade na concessão de financiamentos, em conjugação com o nº 6 do artigo 104ºC do Tratado;\n\nConsiderando que, dadas as exigências de coesão económica e social, é necessário prever taxas de apoio elevadas;\n\nConsiderando que, para facilitar a gestão da contribuição do Fundo de Coesão, é conveniente prever a possibilidade de identificar fases de projectos dotadas de autonomia técnica e financeira, bem como de, se necessário, agrupar projectos;\n\nConsiderando que é conveniente prever a possibilidade de a autorização da contribuição do Fundo de Coesão ser realizada, quer por fracções anuais quer em relação ao conjunto do projecto, e que, em conformidade com o princípio estabelecido pelo Conselho Europeu de Edimburgo de 11 e 12 de Dezembro de 1992, as fracções do pagamento subsequentes ao adiantamento inicial deverão estar ligadas de forma estrita e transparente aos progressos realizados na execução dos projectos;\n\nConsiderando que é conveniente especificar os poderes e responsabilidades, respectivamente, dos Estados-membros e da Comissão em matéria de controlo financeiro ligado às operações do Fundo de Coesão;\n\nConsiderando que, para uma boa gestão do Fundo de Coesão, é necessário prever métodos eficazes de avaliação, acompanhamento e controlo das intervenções comunitárias, especificando os princípios da avaliação, a natureza e as regras do acompanhamento e prevendo medidas a tomar em caso de irregularidade ou de incumprimento de uma das condições estabelecidas na aprovação da contribuição daquele Fundo;\n\nConsiderando que é conveniente fornecer uma informação adequada, nomeadamente, através de um relatório anual;\n\nConsiderando que é conveniente publicitar devidamente o apoio comunitário fornecido através do Fundo de Coesão;\n\nConsiderando que a publicação no Jornal Oficial das Comunidades Europeias dos anúncios de contratos públicos relativos a projectos que beneficiem de uma contribuição do Fundo de Coesão deverá incluir uma referência a essa contribuição;\n\nConsiderando que, para facilitar a aplicação do presente regulamento, há que definir disposições de execução no anexo II; que, para assegurar a necessária flexibilidade na sua aplicação, convém que o Conselho, deliberando por maioria qualificada, sob proposta da Comissão, possa alterar, se necessário, à luz da experiência adquirida, essas disposições;\n\nConsiderando que o presente regulamento deve substituir, sem interrupção, o Regulamento (CEE) nº 792/93 do Conselho, de 30 de Março de 1993, que institui um instrumento financeiro de coesão (7),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3997ec3dfb1b26ca": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nDefinição e objectivo 1. É instituído um Fundo de Coesão, a seguir denominado « fundo ».\n\n2. O fundo contribui para o reforço da coesão económica e social da Comunidade e rege-se pelo disposto no presente regulamento.\n\n3. O fundo pode contribuir para o financiamento de:\n\n- projectos,\n\n- fases de projecto técnica e financeiramente independentes, ou\n\n- grupos de projectos abrangidos por uma estratégia visível que formem um conjunto coerente."
+  },
+  "595fdea0dfb51cb4": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nÂmbito de aplicação 1. O fundo apoia financeiramente projectos que contribuam para a realização dos objectivos fixados no Tratado da União Europeia, nos domínios do ambiente e das redes transeuropeias de infra-estruturas de transportes, nos Estados-membros com um PNB per capita inferior a 90 % da média comunitária, medido com base nas paridades do poder de compra, que tenham definido um programa que lhes permita preencher os requisitos de convergência económica estabelecidos no artigo 104ºC do Tratado.\n\n2. Até ao final de 1999, apenas serão elegíveis os quatro Estados-membros que satisfazem actualmente o critério do produto nacional bruto (PNB) mencionado no nº 1. Esses Estados-membros serão a Grécia, a Espanha, a Irlanda e Portugal.\n\n3. Relativamente ao critério do PNB referido no nº 1, os Estados-membros mencionados no nº 2 continuarão a poder beneficiar do apoio do fundo desde que, após uma revisão intercalar a efectuar em 1996, o nível do seu PNB permaneça inferior a 90 % da média comunitária. Qualquer Estado-membro elegível cujo PNB ultrapasse nessa altura o limiar de 90 % perderá o direito a beneficiar do apoio do Fundo para novos projectos ou, no caso de projectos importantes com várias fases técnica e financeiramente independentes, para novas fases de um projecto."
+  },
+  "9333392d654e7710": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nAcções elegíveis 1. O fundo pode apoiar os seguintes projectos:\n\n- projectos no domínio do ambiente que contribuam para a realização dos objectivos enunciados no artigo 130ºR do Tratado, incluindo projectos resultantes de medidas adoptadas nos termos do artigo 130ºS do Tratado, nomeadamente projectos que se enquadrem no âmbito das prioridades da política comunitária de protecção do ambiente em conformidade com o quinto programa de política e acção relacionado com o ambiente e o desenvolvimento sustentável,\n\n- projectos de infra-estruturas de transportes de interesse comum, financiados pelos Estados-membros e identificados no âmbito das orientações referidas no artigo 129ºC do Tratado; podem, todavia, ser financiados outros projectos de infra-estruturas de transportes que contribuam para a realização dos objectivos enunciados no artigo 129ºB do Tratado, enquanto o Conselho não adoptar as linhas directrizes adequadas.\n\n2. O fundo pode também apoiar:\n\n- estudos preparatórios relacionados com projectos elegíveis, incluindo os necessários à sua execução,\n\n- medidas de apoio técnico, designadamente:\n\na) Medidas horizontais, tais como estudos comparativos destinados a avaliar o impacte do apoio comunitário,\n\nb) Medidas e estudos que possam contribuir para a apreciação, o acompanhamento ou a avaliação, bem como reforçar e assegurar a coordenação e a coerência dos projectos, nomeadamente a sua coerência com as outras políticas comunitárias;\n\nc) Medidas e estudos que possam contribuir para ajustamentos que sejam necessários durante a execução dos projectos."
+  },
+  "7362780fbee53db3": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nRecursos financeiros Para o período de 1993 a 1999, o total dos recursos disponíveis para autorização pelo fundo, ao abrigo do presente regulamento e do Regulamento (CEE) nº 792/93, conforme indicado no Acordo Interinstitucional de 29 de Outubro de 1993, eleva-se a 15,15 mil milhões de ecus, a preços de 1992.\n\nAs perspectivas financeiras estabelecidas, em dotações de autorização, ao abrigo dos regulamentos referidos no nº 1, para cada ano daquele período, são as seguintes:\n\n- 1993: 1,5 mil milhões de ecus,\n\n- 1994: 1,75 mil milhões de ecus,\n\n- 1995: 2 mil milhões de ecus,\n\n- 1996: 2,25 mil milhões de ecus,\n\n- 1997: 2,5 mil milhões de ecus,\n\n- 1998: 2,55 mil milhões de ecus,\n\n- 1999: 2,6 mil milhões de ecus."
+  },
+  "45e0c7b38f08cbef": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nRepartição indicativa A repartição indicativa dos recursos globais do fundo assenta em critérios precisos e objectivos, essencialmente a população, o PNB per capita e a superfície; são igualmente tidos em conta outros factores socioeconómicos, tais como a insuficiência das infraestruturas de transportes.\n\nA aplicação destes critérios conduz à repartição indicativa dos recursos globais que consta do anexo I."
+  },
+  "5e0bd7c2bd08fc16": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nAssistência condicional 1. Se o Conselho decidir, em conformidade com o nº 6 do artigo 104ºC do Tratado, que existe um défice orçamental excessivo de um Estado-membro e se essa decisão não for revogada, nos termos do nº 12 do artigo 104ºC do Tratado, no prazo de um ano ou dentro de qualquer outro prazo fixado para a correcção do défice numa recomendação formulada nos termos do nº 7 do artigo 104ºC do Tratado, o fundo não financiará no Estado-membro em causa qualquer novo projecto nem, no caso de projectos importantes com várias fases, qualquer nova fase.\n\n2. Excepcionalmente, no caso de projectos que afectem directamente mais do que um Estado-membro, o Conselho, deliberando por maioria qualificada sob recomendação da Comissão, poderá decidir adiar a suspensão do financiamento.\n\n3. A suspensão do financiamento não produz efeitos nos dois anos seguintes à entrada em vigor do Tratado da União Europeia.\n\n4. A suspensão do financiamento cessará logo que o Conselho tenha decidido, em conformidade com o nº 12 do artigo 104ºC do Tratado, revogar a decisão tomada nos termos do nº 6 do artigo 104ºC do Tratado."
+  },
+  "4594aa7b6b7b1d7e": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nTaxa de apoio 1. A taxa do apoio comunitário concedido pelo fundo variará entre 80 % e 85 % das despesas públicas ou similares, incluindo as despesas de organismos cujas actividades sejam realizadas num enquadramento administrativo ou jurídico que os tornem equiparáveis a organismos públicos.\n\nA taxa de apoio efectiva será fixada em função da natureza das intervenções a efectuar.\n\n2. Em caso de apoio a um projecto gerador de receitas, compete à Comissão determinar o montante da despesa que servirá de base ao cálculo do apoio do fundo, tendo em conta as receitas, desde que se trate de receitas substanciais líquidas para os promotores, e em estreita concertação com o Estado-membro beneficiário.\n\nPor projecto gerador de receitas entendem-se:\n\n- as infra-estruturas cuja utilização implique encargos directamente suportados pelos utilizadores,\n\n- os investimentos produtivos no sector do ambiente.\n\n3. Os Estados-membros beneficiários poderão apresentar propostas de estudos preparatórios e de medidas de apoio técnico.\n\n4. Os estudos preparatórios e as medidas de apoio técnico podem ser financiados a 100 % do custo total, a título excepcional, mesmo quando empreendidos por iniciativa da Comissão.\n\nA totalidade das despesas efectuadas ao abrigo do presente número não pode exceder 0,5 % da dotação total do fundo."
+  },
+  "e83df39bdb35c048": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nCoordenação e compatibilidade com as políticas comunitárias 1. Os projectos financiados pelo fundo deverão respeitar as disposições dos Tratados e demais actos adoptados para sua execução e as políticas comunitárias, incluindo as relativas à protecção do ambiente, aos transportes, às redes transeuropeias, à concorrência e à adjudicação de contratos públicos.\n\n2. A Comissão garantirá a coordenação e a coerência entre os projectos a realizar no âmbito do presente regulamento e as acções beneficiárias de contribuições provenientes do orçamento comunitário, do Banco Europeu de Investimento (BEI) e dos demais instrumentos financeiros comunitários."
+  },
+  "874ec76f800ad1f4": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nConjugação e sobreposição 1. Nenhuma rubrica das despesas poderá beneficiar simultaneamente de apoio do fundo e de apoio do Fundo Europeu de Orientação e de Garantia Agrícola, do Fundo Social Europeu, do Fundo Europeu de Desenvolvimento Regional ou do Instrumento Financeiro de Orientação da Pesca.\n\n2. O apoio conjugado do fundo e das demais contribuições comunitárias não deverá exceder 90 % das despesas totais de um projecto."
+  },
+  "825bd220bce3ae30": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nAprovação dos projectos 1. A Comissão decidirá, de acordo com o Estado-membro beneficiário, quais os projectos a financiar pelo fundo.\n\n2. Será garantido um equilíbrio adequado entre projectos nos domínios do ambiente e das infra-estruturas de transportes. Este equilíbrio tomará em consideração o disposto no nº 5 do artigo 130ºS do Tratado.\n\n3. Os pedidos de concessão de apoio para projectos abrangidos pelo nº 1 do artigo 3º serão apresentados pelos Estados-membros interessados. Os projectos, e grupos de projectos inter-relacionados, deverão ter dimensão suficientemente importante para que tenham impacte significativo nos domínios da protecção do ambiente ou da melhoria das redes transeuropeias de infra-estruturas de transportes. O custo total de um projecto ou grupo de projectos não poderá, em princípio, ser em qualquer caso inferior a 10 milhões de ecus. Em casos devidamente justificados, poderão ser aprovados projectos ou grupos de projectos de valor inferior.\n\n4. Os pedidos deverão conter as seguintes informações: organismo responsável pela execução do projecto; natureza do investimento e sua descrição; custos e localização, incluindo, nos casos adequados, a indicação dos projectos de interesse comum situados no mesmo eixo de transportes; calendário de execução dos trabalhos; análise dos custos e dos benefícios, incluindo os efeitos directos e indirectos sobre o emprego; elementos que permitam avaliar o eventual impacte ambiental; elementos relativos aos contratos públicos; plano de financiamento, incluindo, na medida do possível, indicações sobre a viabilidade económica do projecto e o montante total do financiamento que o Estado-membro pretende obter do fundo ou de qualquer outra fonte comunitária.\n\nOs pedidos deverão igualmente conter todas as informações úteis para proceder à necessária demonstração da conformidade dos projectos com o presente regulamento e com os critérios constantes do nº 5, designadamente no que diz respeito às vantagens socioeconómicas que daí resultarão, a médio prazo, relativamente aos recursos mobilizados.\n\n5. Com o objectivo de garantir aos projectos uma elevada qualidade serão utilizados os seguintes critérios:\n\n- benefícios económicos e sociais a médio prazo, que devem ser proporcionais aos recursos mobilizados; será feita uma avaliação baseada numa análise dos custos e dos benefícios,\n\n- prioridades estabelecidas pelos Estados-membros beneficiários,\n\n- contribuição que os projectos podem dar para a realização das políticas comunitárias em matéria de ambiente e de redes transeuropeias,\n\n- compatibilidade dos projectos com as políticas comunitárias e sua coerência com as demais medidas estruturais da Comunidade,\n\n- realização de um equilíbrio adequado entre os domínios do ambiente e das infra-estruturas de transportes.\n\n6. Sob reserva do disposto no artigo 6º e da disponibilidade de dotações de autorização, a Comissão decidirá da concessão de apoios ao abrigo do fundo, desde que estejam reunidas as condições exigidas pelo presente artigo, de modo geral, no prazo de três meses a contar da recepção do pedido. As decisões da Comissão relativas à aprovação dos projectos, fases de projecto ou grupos de projectos conexos determinarão o montante do apoio financeiro, o plano de financiamento e as disposições e condições necessárias para a realização dos projectos.\n\n7. Os elementos essenciais das decisões da Comissão serão publicados no Jornal Oficial das Comunidades Europeias."
+  },
+  "a28d54125c5ddac6": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nDisposições financeiras 1. As dotações de autorização inscritas no orçamento serão concedidas com base nas decisões que, nos termos do artigo 10º, aprovem as acções em causa.\n\n2. No que diz respeito aos projectos referidos no nº 1 do artigo 3º, as autorizações serão, de modo geral, concedidas por fracções anuais. Todavia, em casos apropriados, a Comissão poderá proceder à disponibilização do montante total do apoio concedido no momento em que aprove a decisão de concessão.\n\n3. Não poderão beneficiar do apoio do fundo as despesas, na acepção do nº 1 do artigo 7º, que tenham sido efectuadas pelo Estado-membro beneficiário antes da data de recepção pela Comissão do correspondente pedido.\n\n4. Os pagamentos subsequentes ao adiantamento inicial deverão estar ligados de forma estrita e transparente aos progressos realizados na execução dos projectos.\n\n5. Os pagamentos serão efectuados em ecus e estarão sujeitos às disposições específicas que constam do anexo II."
+  },
+  "dc42689b4104034c": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nControlo financeiro 1. A fim de garantir o êxito dos projectos financiados pelo fundo, os Estados-membros deverão tomar as medidas necessárias para:\n\n- verificar regularmente se as acções financiadas pela Comunidade foram correctamente executadas,\n\n- prevenir as irregularidades e encetar procedimentos administrativos ou judiciais,\n\n- recuperar quaisquer montantes perdidos na sequência de uma irregularidade ou negligência. Salvo no caso de o Estado-membro e/ou a autoridade responsável pela execução do projecto provarem que a irregularidade ou negligência lhes não é imputável, o Estado-membro será subsidiariamente responsável pelo reembolso dos montantes pagos indevidamente.\n\n2. Os Estados-membros deverão informar a Comissão das medidas tomadas para o efeito e, em especial, comunicar-lhe a descrição dos sistemas de controlo e gestão existentes para assegurar a eficaz execução das acções; deverão ainda informar regularmente a Comissão da evolução dos procedimentos administrativos e judiciais. Os Estados-membros e Comissão deverão tomar as medidas necessárias para garantir a confidencialidade das informações trocadas.\n\n3. Os Estados-membros deverão colocar à disposição da Comissão todos os relatórios nacionais relativos ao controlo dos projectos em causa.\n\n4. Sem prejuízo dos controlos efectuados pelos Estados-membros em conformidade com as disposições legislativas, regulamentares e administrativas nacionais, do disposto no artigo 188ºA do Tratado e dos controlos efectuados ao abrigo da alínea c) do artigo 209º do Tratado, a Comissão poderá, através dos seus funcionários ou agentes, controlar no local, nomeadamente por amostragem, os projectos financiados pelo fundo e examinar os sistemas e medidas de controlo utilizados pelas autoridades nacionais, que informarão a Comissão das disposições tomadas para o efeito.\n\n5. A partir da entrada em vigor do presente regulamento, a Comissão adoptará as disposições de execução do presente artigo e comunicá-las-á, para informação, ao Parlamento Europeu."
+  },
+  "4f70bfa6fcf36469": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nApreciação, acompanhamento e avaliação 1. Compete aos Estados-membros e à Comissão garantir que a execução dos projectos realizados ao abrigo do presente regulamento será efectivamente objecto de medidas de acompanhamento e de avaliação. Os projectos deverão ser adaptados em função dos resultados do acompanhamento e da avaliação.\n\n2. A fim de assegurar a eficácia do apoio comunitário, a Comissão e os Estados-membros beneficiários deverão proceder, eventualmente em cooperação com o BEI, à apreciação e à avaliação sistemáticas dos projectos.\n\n3. A partir da recepção de um pedido de apoio e antes da aprovação de um projecto, a Comissão deverá proceder a uma apreciação aprofundada do mesmo, a fim de avaliar a sua conformidade com os critérios referido no nº 5 do artigo 10º Se necessário, a Comissão convidará o BEI a contribuir para a avaliação dos projectos.\n\n4. Durante a execução dos projectos e após a sua conclusão, a Comissão e os Estados-membros beneficiários avaliarão a forma como os projectos estão a ser ou foram executados, bem como o impacte potencial e real dessa execução, a fim de apreciar se os objectivos originais podem ser ou foram atingidos. Esta avaliação incluirá nomeadamente as consequências para o ambiente resultantes dos projectos, respeitando as regras comunitárias em vigor.\n\n5. Ao instruir os pedidos de contribuição, a Comissão tomará em consideração os resultados das apreciações e avaliações efectuadas de acordo com o disposto no presente artigo.\n\n6. As regras de acompanhamento e de avaliação previstas no nº 4 serão especificadas nas decisões de aprovação dos projectos."
+  },
+  "967532d0b5bb659a": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nInformação e publicidade 1. A Comissão apresentará, para análise e parecer, um relatório anual sobre as actividades do fundo ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social e ao Comité das Regiões.\n\nO Parlamento Europeu pronunciar-se-á sobre o relatório no mais curto prazo possível. A Comissão informará de que modo aplicou as observações contidas no parecer do Parlamento Europeu.\n\nA Comissão assegurará a informação dos Estados-membros sobre as actividades do fundo.\n\n2. Os Estados-membros responsáveis pela execução de uma acção que beneficie da contribuição financeira do fundo deverão tomar as medidas adequadas para que ela seja objecto da publicidade adequada, a fim de sensibilizar:\n\n- a opinião pública quanto ao papel desempenhado pela Comunidade na acção,\n\n- os potenciais beneficiários e as organizações profissionais quanto às possibilidades que a acção oferece.\n\nOs Estados-membros assegurarão, nomeadamente, a instalação de painéis distintamente visíveis, que deverão ostentar o emblema comunitário, que indiquem a percentagem do custo total de um determinado projecto financiada pela Comunidade, bem como a devida participação de representantes das instituições comunitárias nas actividades públicas de maior importância que digam respeito ao fundo.\n\nDeverão informar a Comissão das iniciativas adoptadas para efeitos da aplicação do presente número.\n\n3. Logo que entre em vigor o presente regulamento, a Comissão adoptará disposições pormenorizadas em matéria de informação e publicidade, comunicá-las-á para informação ao Parlamento Europeu e publicá-las-á no Jornal Oficial das Comunidades Europeias."
+  },
+  "0e313b6ab839ddfc": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nExecução As disposições de execução do presente regulamento constam do anexo II."
+  },
+  "07e250c7598273e0": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nDisposições finais e transitórias 1. O Conselho, deliberando sob proposta da Comissão nos termos do procedimento previsto no artigo 130ºD do Tratado, reexaminará o presente regulamento antes do final de 1999.\n\n2. Com a entrada em vigor do presente regulamento, é revogado o Regulamento (CEE) nº 792/93.\n\n3. O presente regulamento não afecta a prossecução das acções aprovadas pela Comissão com base no Regulamento (CEE) nº 792/93 aplicável antes da data de entrada em vigor do presente regulamento, que passa a ser aplicável a essas acções a partir dessa data.\n\n4. Os pedidos apresentados ao abrigo do Regulamento (CEE) nº 792/93 antes da data de entrada em vigor do presente regulamento mantêm-se válidos desde que sejam completados, se necessário, para cumprirem os requisitos do presente regulamento no prazo máximo de dois meses a contar da referida data de entrada em vigor."
+  },
+  "72259b41bdee8106": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nEntrada em vigor O presente regulamento entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 16 de Maio de 1994.\n\nPelo Conselho\n\nO Presidente\n\nTh. PANGALOS\n\n(1) JO nº C 39 de 9. 2. 1994, p. 6.\n\n(2) Parecer favorável emitido em 5 de Maio de 1994 (ainda não publicado no Jornal Oficial).\n\n(3) JO nº C 133 de 16. 5. 1994.\n\n(4) Parecer emitido em 5 de Abril de 1994 (ainda não publicado no Jornal Oficial).\n\n(5) JO nº C 138 de 17. 5. 1993, p. 1.\n\n(6) JO nº L 374 de 31. 12. 1988, p. 1. Regulamento alterado pelo Regulamento (CEE) nº 2082/93 (JO nº L 193 de 31. 7. 1993, p. 20).\n\n(7) JO nº L 79 de 1. 4. 1993, p. 74."
+  },
+  "c63958eec3e621f0": {
+   "fragment_id": "ANEXO I — REPARTIÇÃO INDICATIVA DOS RECURSOS GLOBAIS DO FUNDO PELOS ESTADOS-MEMBROS BENEFICIÁRIOS - Espanha: de 52 % a 58 % do total",
+   "type": "divisao",
+   "heading": "ANEXO I — REPARTIÇÃO INDICATIVA DOS RECURSOS GLOBAIS DO FUNDO PELOS ESTADOS-MEMBROS BENEFICIÁRIOS - Espanha: de 52 % a 58 % do total",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — REPARTIÇÃO INDICATIVA DOS RECURSOS GLOBAIS DO FUNDO PELOS ESTADOS-MEMBROS BENEFICIÁRIOS - Espanha: de 52 % a 58 % do total\n\n- Grécia: de 16 % a 20 % do total\n\n- Portugal: de 16 % a 20 % do total\n\n- Irlanda: de 7 % a 10 % do total."
+  },
+  "bbfc31bb644123a2": {
+   "fragment_id": "ANEXO II — DISPOSIÇÕES DE EXECUÇÃO Artigo A",
+   "type": "divisao",
+   "heading": "ANEXO II — DISPOSIÇÕES DE EXECUÇÃO Artigo A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — DISPOSIÇÕES DE EXECUÇÃO Artigo A\n\nIdentificação de fases ou de grupos de projectos 1. A Comissão, de acordo com o Estado-membro beneficiário em causa, pode agrupar projectos e delimitar num projecto fases técnica e financeiramente independentes para efeitos de concessão da contribuição.\n\n2. Uma fase pode dizer igualmente respeito a estudos preparatórios, de viabilidade e técnicos, necessários à realização de um projecto."
+  },
+  "f65634ac86499fa5": {
+   "fragment_id": "Artigo B",
+   "type": "artigo",
+   "heading": "Artigo B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo B\n\nAvaliação 1. A Comissão examinará os pedidos de contribuição, nomeadamente com o objectivo de verificar se os mecanismos administrativos e financeiros são de molde a assegurar a eficaz execução do projecto.\n\n2. A Comissão procederá, nos termos do nº 3 do artigo 13º, à apreciação dos projectos a fim de determinar o seu impacte esperado relativamente aos objectivos do fundo, quantificados por indicadores adequados. Os Estados-membros beneficiários fornecerão todos os elementos necessários, referidos no nº 4 do artigo 10º, incluindo os resultados dos estudos de viabilidade e das avaliações ex ante, de modo a que esta apreciação possa ser realizada o mais eficazmente possível."
+  },
+  "3090c701e0de75b0": {
+   "fragment_id": "Artigo C",
+   "type": "artigo",
+   "heading": "Artigo C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo C\n\nAutorizações 1. As autorizações orçamentais serão efectuadas com base nas decisões da Comissão que aprovem as acções em causa (projecto, fase de projecto, grupo de projectos, estudo ou medida de apoio técnico). Serão válidas por um prazo cuja duração dependerá da natureza e das condições específicas de execução da acção.\n\n2. As autorizações orçamentais relativas às contribuições concedidas a projectos, fases de projecto ou grupos de projectos serão efectuadas de acordo com uma das seguintes modalidades:\n\na) As autorizações para os projectos referidos no nº 1 do artigo 3º com duração igual ou superior a dois anos serão, de modo geral, sob reserva do disposto na alínea b), efectuadas por fracções anuais.\n\nAs autorizações relativas à primeira fracção anual ocorrerão no momento em que for adoptada pela Comissão a decisão que concede a contribuição comunitária. As autorizações relativas às fracções anuais posteriores basear-se-ao no plano de financiamento, inicial ou revisto, do projecto e nos progressos verificados na execução do mesmo;\n\nb) Para os projectos com duração inferior a dois anos ou cuja contribuição comunitária não exceda 40 milhões de ecus, o montante total da contribuição comunitária poderá ser autorizado no momento em que a Comissão adoptar a decisão que aprova a concessão da contribuição comunitária.\n\n3. Em relação aos estudos e medidas de apoio técnico referidos no nº 2 do artigo 3º, a autorização da contribuição ocorrerá quando a Comissão aprovar a acção em causa.\n\n4. As regras de autorização serão especificadas nas decisões da Comissão que aprovem as acções em causa."
+  },
+  "661b85141d9388dd": {
+   "fragment_id": "Artigo D",
+   "type": "artigo",
+   "heading": "Artigo D",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo D\n\nPagamentos 1. O pagamento da contribuição financeira será efectuado em conformidade com as autorizações orçamentais e será feito à autoridade ou organismo designado para esse efeito no pedido apresentado pelo Estado-membro beneficiário em causa. Pode assumir a forma quer de adiantamentos quer de pagamentos intermédios ou de saldo, em função das despesas realmente efectuadas.\n\n2. Quando as autorizações da contribuição comunitária assumirem a forma prevista no nº 2, alínea a), do artigo C, os pagamentos serão efectuados de acordo com as seguinte regras:\n\na) Na sequência da adopção da decisão que concede a contribuição comunitária, será pago um adiantamento, que pode atingir 50 % do montante da primeira fracção anual de autorização;\n\nb) Podem ser efectuados pagamentos intermédios, desde que o projecto progrida satisfatoriamente para a sua conclusão e tenham sido realizados, pelo menos, dois terços das despesas ligadas ao pagamento precedente.\n\nSob reserva do disposto na alínea c), nenhum destes pagamentos pode exceder 50 % do montante de cada fracção anual de autorização;\n\nc) O montante cumulado dos pagamentos referidos nas alíneas a) e b), em relação ao conjunto das fracções, não pode exceder 80 % da contribuição total concedida. Em relação a projectos importantes e, em casos justificados, essa percentagem pode ir até 90 %;\n\nd) O pagamento do saldo da contribuição comunitária será efectuado se:\n\n- o projecto, a fase de projecto ou o grupo de projectos tiver sido realizado em conformidade com os seus objectivos,\n\n- a autoridade ou organismo designado, referido no nº 1, apresentar à Comissão um pedido de pagamento nos seis meses seguintes à conclusão material do projecto, da fase de projecto ou do grupo de projectos,\n\n- for apresentado à Comissão o relatório final referido no nº 4 do artigo F,\n\n- o Estado-membro enviar à Comissão uma declaração que confirme as informações fornecidas no pedido de pagamento e no relatório.\n\n3. Quando a autorização assumir a forma prevista no nº 2, alínea b), do artigo C, os pagamentos serão efectuados de acordo com as seguintes regras:\n\na) O adiantamento pago na sequência da decisão pode atingir 50 % do montante da contribuição ligado às despesas previstas para o primeiro ano, tal como indicadas no plano de financiamento aprovado pela Comissão;\n\nb) Podem ser efectuados pagamentos intermédios, desde que o projecto progrida satisfatoriamente para a sua conclusão e tenham sido realizados, pelo menos, dois terços das despesas ligadas ao pagamento precedente e a totalidade das despesas ligadas aos pagamentos anteriores a este último.\n\nSob reserva do disposto na alínea c), cada um destes pagamentos pode atingir 50 % da contribuição ligada às despesas previstas para o ano em causa, tal como indicadas no plano de financiamento, inicial ou revisto, aprovado pela Comissão;\n\nc) O montante cumulado dos pagamentos referidos nas alíneas a) e b) não pode exceder 80 % da contribuição total concedida;\n\nd) O pagamento do saldo da contribuição será efectuado se:\n\n- o projecto, a fase de projecto ou o grupo de projectos tiver sido realizado em conformidade com os seus objectivos,\n\n- a autoridade ou organismo designado, referido no nº 1, apresentar à Comissão um pedido de pagamento nos seis meses seguintes à conclusão material do projecto, da fase de projecto ou do grupo de projectos,\n\n- for apresentado à Comissão o relatório final referido no nº 4 do artigo F,\n\n- o Estado-membro enviar à Comissão uma declaração que confirme as informações fornecidas no pedido de pagamento e no relatório.\n\n4. Os Estados-membros designarão as autoridades competentes para emitir as declarações referidas na alínea d) do nº 2 e na alínea d) do nº 3.\n\n5. Os pagamentos serão feitos à autoridade ou organismo designado pelo Estado-membro, de modo geral, o mais tardar dois meses a contar da recepção de um pedido de pagamento admissível.\n\n6. Em relação aos estudos e às outras medidas referidas no nº 2 do artigo 3º, a Comissão estabelecerá os procedimentos de pagamento adequados."
+  },
+  "b26571f9a4ecb161": {
+   "fragment_id": "Artigo E",
+   "type": "artigo",
+   "heading": "Artigo E",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo E\n\nUtilização do ecu 1. Os pedidos de contribuição, incluindo os respectivos planos de financiamento, serão apresentados à Comissão em ecus ou em moeda nacional.\n\n2. Os montantes das contribuições e os planos de financiamento aprovados pela Comissão serão expressos em ecus.\n\n3. As declarações de despesas apresentadas em apoio dos correspondentes pedidos de pagamento serão expressas em ecus ou em moeda nacional.\n\n4. Os pagamentos da contribuição financeira, efectuados pela Comissão, serão feitos em ecus à autoridade designada pelo Estado-membro para receber os pagamentos."
+  },
+  "fa2a626587583383": {
+   "fragment_id": "Artigo F",
+   "type": "artigo",
+   "heading": "Artigo F",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo F\n\nAcompanhamento 1. A Comissão e os Estados-membros assegurarão um acompanhamento eficaz da execução dos projectos comunitários co-financiados pelo fundo. Esse acompanhamento será assegurado por meio de relatórios elaborados segundo procedimentos adoptados de comum acordo, de controlos por amostragem e dos comités instituídos para o efeito.\n\n2. O acompanhamento será assegurado por meio de indicadores físicos e financeiros. Esses indicadores referir-se-ao ao carácter específico do projecto e aos seus objectivos. Os indicadores serão estruturados de forma a indicar:\n\n- o estado de adiantamento do projecto relativamente ao plano e aos objectivos inicialmente estabelecidos,\n\n- os progressos da gestão e eventuais problemas conexos.\n\n3. Serão criados comités de acompanhamento, por acordo entre o Estado-membro em causa e a Comissão.\n\nAs autoridades ou organismos designados pelo Estado-membro, a Comissão e, eventualmente, o Banco Europeu de Investimento (BEI) estarão representados nesses comités.\n\nQuando forem competentes para a execução de um projecto ou, eventualmente, quando um projecto lhes disser directamente respeito, as autoridades regionais e locais estarão igualmente representadas nesses comités.\n\n4. Em relação a todos os projectos, a autoridade ou o organismo designado para o efeito pelo Estado-membro enviará à Comissão, nos três meses subsequentes ao termo de cada ano completo de execução, um relatório sobre os progressos realizados. Será igualmente enviado à Comissão um relatório final, nos seis meses seguintes à conclusão do projecto ou da fase do projecto.\n\n5. Com base nas indicações do acompanhamento e tendo em conta as observações do comité de acompanhamento, a Comissão adaptará, eventualmente sob proposta do Estado-membro, o volume e as condições de concessão das contribuições financeiras inicialmente aprovadas e o plano de financiamento previsto.\n\n6. A fim de aumentar a eficácia do fundo, a Comissão assegurar-se-á de que, na sua administração, será dada especial atenção à transparência da gestão.\n\n7. As regras de acompanhamento serão especificadas nas decisões da Comissão que aprovem os projectos."
+  },
+  "3ba108ab770d26c5": {
+   "fragment_id": "Artigo G",
+   "type": "artigo",
+   "heading": "Artigo G",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo G\n\nControlo 1. Antes de efectuar um controlo no local, a Comissão informará o Estado-membro interessado, de modo a obter todo o apoio necessário. O recurso da Comissão a eventuais controlos no local sem pré-aviso será regido por acordos concluídos em conformidade com as disposições do Regulamento Financeiro. Poderão participar nos controlos funcionários ou agentes do Estado-membro.\n\nA Comissão poderá solicitar ao Estado-membro em causa que efectue um controlo no local para verificar a regularidade do pedido de pagamento. Nesses controlos poderão participar funcionários ou agentes da Comissão, devendo fazê-lo se o Estado-membro em causa o solicitar.\n\nA Comissão assegurar-se-á de que os controlos que efectue serão realizados de modo coordenado, a fim de evitar a repetição de controlos para o mesmo assunto e no mesmo período. O Estado-membro em causa e a Comissão transmitirão imediatamente um ao outro todas as informações adequadas quanto aos resultados dos controlos efectuados.\n\n2. Durante os três anos subsequentes ao último pagamento respeitante a um projecto, o organismo e as autoridades responsáveis manterão à disposição da Comissão todos os documentos comprovativos relativos às despesas referentes ao projecto."
+  },
+  "033a3b1b22945998": {
+   "fragment_id": "Artigo H",
+   "type": "artigo",
+   "heading": "Artigo H",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo H\n\nRedução, suspensão e supressão da contribuição 1. Se a realização de uma acção não parecer justificar uma parte ou a totalidade da contribuição financeira que lhe tiver sido atribuída, a Comissão procederá a uma análise adequada do caso, solicitando nomeadamente ao Estado-membro ou às autoridades ou organismos por este designados para a execução da acção que apresentem as suas observações num prazo determinado.\n\n2. Após esta análise, a Comissão poderá reduzir, suspender ou suprimir a contribuição para a acção em causa, se for confirmada a existência de uma irregularidade ou o incumprimento de uma das condições indicadas na decisão que concede a contribuição, nomeadamente no caso de uma alteração importante que afecte a natureza ou as condições de execução da acção e para a qual não tenha sido solicitada a aprovação da Comissão.\n\nQualquer cumulação indevida dará origem à reposição dos montantes indevidamente pagos.\n\n3. Qualquer montante que dê lugar a repetição do indevido deverá ser devolvido à Comissão. Os montantes não devolvidos serão majorados de juros de mora, de acordo com disposições a adoptar pela Comissão."
+  },
+  "598b90bf9106b696": {
+   "fragment_id": "Artigo I",
+   "type": "artigo",
+   "heading": "Artigo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo I\n\nContratos públicos No âmbito da aplicação das normas comunitárias sobre os contratos públicos, os anúncios enviados para publicação no Jornal Oficial das Comunidades Europeias especificarão as referências dos projectos em relação aos quais tenha sido solicitada ou decidida a contribuição do fundo."
+  },
+  "c25f8f7a2a68d5d4": {
+   "fragment_id": "Artigo J",
+   "type": "artigo",
+   "heading": "Artigo J",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo J\n\nInformação As informações que devem constar do relatório anual previsto no artigo 14º são enumeradas no anexo ao presente anexo.\n\nCompete à Comissão organizar semestralmente uma reunião de informação com os Estados-membros."
+  },
+  "653dd54a4063b8fd": {
+   "fragment_id": "Artigo K",
+   "type": "artigo",
+   "heading": "Artigo K",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo K\n\nRevisão Se for necessário, à luz da experiência adquirida, o Conselho, deliberando por maioria qualificada, sob proposta da Comissão e após consulta do Parlamento Europeu, poderá alterar as disposições do presente anexo.\n\nAnexo ao anexo II O relatório anual incluirá informações sobre os seguintes pontos:\n\n1. Apoio financeiro autorizado e pago pelo fundo, com uma repartição anual por Estado-membro e por categoria dos projectos (ambiente e transportes);\n\n2. Impacte económico e social do fundo nos Estados-membros e na coesão económica e social na União Europeia;\n\n3. Resumo dos programas postos em prática nos Estados-membros beneficiários para preencher os requisitos de convergência económica mencionados no artigo 104ºC do Tratado e sobre a aplicação do artigo 6º do regulamento;\n\n4. Consequências verificadas pela Comissão, à luz da suspensão do financiamento, das decisões adoptadas pelo Conselho referidas nos nºs 1 e 2 do artigo 6º;\n\n5. Contribuição prestada pelo fundo ao esforço desenvolvido pelos Estados-membros beneficiários para aplicar a política comunitária do ambiente e para reforçar as redes transeuropeias de infra-estruturas de transportes; equilíbrio entre os projectos no domínio ambiental e os relativos às infra-estruturas de transportes;\n\n6. Avaliação da compatibilidade das intervenções do fundo com as políticas comunitárias, incluindo as de protecção do ambiente, transportes, concorrência e adjudicação de contratos públicos;\n\n7. Medidas destinadas a assegurar a coordenação e a coerência entre os projectos financiados pelo fundo e as medidas financiadas com base em dotações inscritas no orçamento da Comunidade, do BEI e dos restantes instrumentos financeiros comunitários;\n\n8. Esforço de investimento desenvolvido pelos Estados-membros beneficiários nos domínios da protecção do ambiente e das infra-estruturas de transportes;\n\n9. Estudos preparatórios realizados e medidas de apoio técnico financiadas, com especificação dos tipos de estudos e medidas em causa;\n\n10. Resultados do acompanhamento, da apreciação e da avaliação dos projectos, incluindo eventuais adaptações dos projectos efectuadas em função desses resultados;\n\n11. Contribuição do BEI para a avaliação dos projectos;\n\n12. Resumo dos resultados dos controlos efectuados, irregularidades detectadas e procedimentos administrativos e judiciais em curso."
+  },
+  "48e5013e663f3fe7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Maio de 1994\n\nque institui o Fundo de Coesão\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o segundo parágrafo do seu artigo 130.º D,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer favorável do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#E0003)),\n\nTendo em conta o parecer do Comité das Regiões ([^4^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#E0004)),\n\nConsiderando que o artigo 2.º do Tratado inclui a missão de promover a coesão económica e social e a solidariedade entre os Estados-membros, as quais constituem objectivos essenciais para o desenvolvimento e o êxito da Comunidade; que o reforço da coesão económica e social é mencionado na alínea j) do artigo 3.º do Tratado como uma das acções da Comunidade para alcançar os fins enunciados no artigo 2.º;\n\nConsiderando que o artigo 130.ºA do Tratado dispõe que a Comunidade desenvolverá e prosseguirá a sua acção no sentido de reforçar a sua coesão económica e social e que, em especial, procurará reduzir a disparidade entre os níveis de desenvolvimento das diversas regiões e o atraso das regiões menos favorecidas; que a acção da Comunidade deve, através do Fundo de Coesão, contribuir para a realização dos objectivos referidos neste artigo;\n\nConsiderando que as conclusões dos Conselhos Europeus de Lisboa, de 26 e 27 de Junho de 1992, e de Edimburgo, de 11 e 12 de Dezembro de 1992, relativas à instituição do Fundo de Coesão, enunciam os seus princípios;\n\nConsiderando que a promoção da coesão económica e social requer uma acção do Fundo de Coesão que seja complementar da dos fundos estruturais, do Banco Europeu de Investimento (BEI) e dos outros instrumentos financeiros, nos domínios do ambiente e das infra-estruturas de transportes de interesse comum;\n\nConsiderando que o protocolo relativo à coesão económica e social anexo ao Tratado que institui a Comunidade Europeia reafirma a missão da Comunidade de promover a coesão económica e social e a solidariedade entre os Estados-membros e prevê que um Fundo de Coesão fornecerá contribuições financeiras para projectos na área do ambiente e das redes transeuropeias nos Estados-membros sob duas condições: a primeira, que o respectivo produto nacional bruto (PNB) *per capita* seja inferior a 90 % da média comunitária e, a segunda, que tenham definido um programa que lhes permita preencher os requisitos de convergência económica estabelecidos no artigo 104.ºC do Tratado; que a melhor forma de avaliar a prosperidade relativa dos Estados-membros consiste no recurso ao PNB *per capita* medido em paridades de poder de compra;\n\nConsiderando que a observância dos critérios de convergência, que constituem uma condição prévia da passagem à terceira fase da União Económica e Monetária, exige um esforço decidido dos Estados-membros beneficiários; que, neste contexto, cada Estado-membro beneficiário apresentará ao Conselho um programa de convergência com esse objectivo e a fim de evitar défices orçamentais excessivos;\n\nConsiderando que as actuais disposições de condicionalidade macroeconómica continuam a ser aplicáveis em relação aos critérios de convergência económica; que, nesse sentido, não devem ser financiados pelo Fundo, num Estado-Membro, novos projectos ou novas fases de projectos, quando o Conselho, deliberando por maioria qualificada sob recomendação da Comissão, considerar que o Estado-Membro não respeitou o pacto de estabilidade e crescimento;\n\nConsiderando que as diposições para acelerar e clarificar o procedimento relativo aos défices excessivos — que têm o objectivo de impedir défices orçamentais excessivos e, quando se verifiquem, de os corrigir imediatamente —, constam do Regulamento (CE) n.º 1467/97 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#E0005));\n\nConsiderando que o segundo parágrafo do artigo 130.ºD do Tratado dispõe que o Conselho deveria criar, até 31 de Dezembro de 1993, um Fundo de Coesão que contribua financeiramente para a realização de projectos nos domínios do ambiente e das redes transeuropeias em matéria de infra-estruturas de transportes;\n\nConsiderando que o n.º 1 do artigo 129.ºC do Tratado dispõe que a Comunidade pode contribuir para o financiamento de projectos específicos na área das infra-estruturas de transportes, nos Estados-membros, através do Fundo de Coesão, tendo em conta a potencial viabilidade económica dos projectos; que os projectos financiados pelo Fundo de Coesão devem enquadrar-se nas orientações relativas às redes transeuropeias aprovadas pelo Conselho, incluindo os que se enquadram nas linhas directrizes de redes transeuropeias aprovadas pelo Conselho antes da entrada em vigor do Tratado da União Europeia; que, todavia, podem ser financiados outros projectos de infra-estruturas de transportes que contribuam para a realização dos objectivos do artigo 129.ºB do Tratado, até que tenham sido aprovadas pelo Conselho as directrizes apropriadas;\n\nConsiderando que o artigo 130.ºR do Tratado define os objectivos e os princípios da Comunidade no domínio do ambiente; que a Comunidade pode contribuir, através do Fundo de Coesão, para as acções dirigidas à consecução desses objectivos; que, em conformidade com o n.º 5 do artigo 130.ºS do Tratado, sem prejuízo do princípio do poluidor-pagador, o Conselho pode decidir, quando uma medida baseada no n.º 1 do referido artigo implicar custos considerados desproporcionados para as autoridades públicas de um Estado-membro, um apoio financeiro do Fundo de Coesão;\n\nConsiderando que os princípios e os objectivos de um desenvolvimento sustentável se encontram estabelecidos no programa comunitário de política e acção em relação com o ambiente e o desenvolvimento sustentável, conforme previsto na resolução do Conselho de 1 de Fevereiro de 1993 ([^6^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#E0006));\n\nConsiderando que é necessário assegurar um equilíbrio adequado entre o financiamento de projectos de infra-estruturas de transportes e o de projectos no domínio do ambiente;\n\nConsiderando que o Livro Verde da Comissão relativo ao impacte dos transportes no ambiente sublinha a necessidade do desenvolvimento de uma rede de transportes mais respeitadora do ambiente, tendo em conta as necessidades de desenvolvimento sustentável dos Estados-membros;\n\nConsiderando que o cálculo do custo dos projectos relativos às infra-estruturas de transportes deve englobar os custos ambientais;\n\nConsiderando que, à luz do compromisso assumido pelos Estados-membros em causa de não diminuírem o esforço de investimento nos domínios da protecção do ambiente e das infra-estruturas de transportes, a adicionalidade, na acepção do artigo 9.º do Regulamento (CEE) n.º 4253/88 do Conselho, de 19 de Dezembro de 1988, que estabelece as disposições de aplicação do Regulamento (CEE) n.º 2052/88 no que respeita à coordenação entre as intervenções dos diferentes Fundos Estruturais, por um lado, e entre estas e as do Banco Europeu de Investimento e dos outros instrumentos financeiros existentes, por outro ([^7^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#E0007)), não será aplicável ao Fundo de Coesão;\n\nConsiderando que, nos termos do artigo 198.ºE do Tratado, o BEI facilitará o financiamento de investimentos em articulação com as intervenções dos demais instrumentos financeiros comunitários;\n\nConsiderando que é necessário coordenar as acções do Fundo de Coesão, dos fundos estruturais, do BEI e dos demais instrumentos financeiros, nos domínios do ambiente e das redes transeuropeias em matéria de infra-estruturas de transportes de modo a aumentar a eficácia das intervenções comunitárias;\n\nConsiderando que, nomeadamente para apoiar os Estados-membros na elaboração dos seus projectos, a Comissão deve estar em condições de assegurar que estes disponham do necessário apoio técnico, designadamente a fim de contribuir para a sua preparação e execução, incluindo o acompanhamento e a avaliação de projectos;\n\nConsiderando que, nomeadamente para garantir a rentabilidade, a colocação de recursos comunitários à disposição deve ser precedida de uma cuidadosa avaliação que assegure que os benefícios socioeconómicos obtidos serão proporcionais aos recursos investidos;\n\nConsiderando que as intervenções do Fundo de Coesão devem ser compatíveis com as políticas comunitárias, incluindo a protecção do ambiente, os transportes, as redes transeuropeias, a concorrência e a adjudicação de contratos públicos; que a protecção do ambiente comporta uma apreciação do impacte no ambiente;\n\nConsiderando que se deve prever uma repartição indicativa, entre os Estados-membros, dos recursos globais disponíveis para autorização, a fim de facilitar a preparação dos projectos;\n\nConsiderando que o total dos montantes recebidos do Fundo de Coesão por qualquer Estado-Membro ao abrigo do presente regulamento — em conjugação com a assistência prestada pelos Fundos estruturais — deverá ser limitado por um tecto geral dependente da capacidade nacional de absorção;\n\nConsiderando que se deve prever uma certa condicionalidade na concessão de assistência financeira, em conjugação com o preenchimento dos requisitos de convergência económica estabelecidos no artigo 104.º do Tratado e com a necessidade de uma gestão correcta do défice orçamental; que, nesse contexto, o cumprimento das obrigações decorrentes do Tratado deve ser igualmente avaliado tendo devidamente em conta as directrizes adoptadas na Resolução do Conselho Europeu de 17 de Junho de 1997 sobre o pacto de estabilidade e crescimento ([^8^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#E0008)) e que o conceito de défice excessivo deve ser interpretado à luz dessa resolução; que, no que se refere a cada Estado-Membro participante, a condicionalidade macroeconómica deve ser avaliada tendo em conta as responsabilidades desse Estado-Membro em relação à estabilidade do euro;\n\nConsiderando que, dadas as exigências de coesão económica e social, é necessário prever taxas de apoio elevadas;\n\nConsiderando que, para facilitar a gestão da contribuição do Fundo de Coesão, é conveniente prever a possibilidade de identificar fases de projectos dotadas de autonomia técnica e financeira, bem como de, se necessário, agrupar projectos;\n\nConsiderando que é conveniente prever a possibilidade de a autorização da contribuição do Fundo de Coesão ser realizada, quer por fracções anuais quer em relação ao conjunto do projecto, e que, em conformidade com o princípio estabelecido pelo Conselho Europeu de Edimburgo de 11 e 12 de Dezembro de 1992, as fracções do pagamento subsequentes ao adiantamento inicial deverão estar ligadas de forma estrita e transparente aos progressos realizados na execução dos projectos;\n\nConsiderando que é conveniente especificar os poderes e responsabilidades, respectivamente, dos Estados-membros e da Comissão em matéria de controlo financeiro ligado às operações do Fundo de Coesão;\n\nConsiderando que, para uma boa gestão do Fundo de Coesão, é necessário prever métodos eficazes de avaliação, acompanhamento e controlo das intervenções comunitárias, especificando os princípios da avaliação, a natureza e as regras do acompanhamento e prevendo medidas a tomar em caso de irregularidade ou de incumprimento de uma das condições estabelecidas na aprovação da contribuição daquele Fundo;\n\nConsiderando que é conveniente fornecer uma informação adequada, nomeadamente, através de um relatório anual;\n\nConsiderando que é conveniente publicitar devidamente o apoio comunitário fornecido através do Fundo de Coesão;\n\nConsiderando que a publicação no *Jornal Oficial das Comunidades Europeias* dos anúncios de contratos públicos relativos a projectos que beneficiem de uma contribuição do Fundo de Coesão deverá incluir uma referência a essa contribuição;\n\nConsiderando que, para facilitar a aplicação do presente regulamento, há que definir disposições de execução no anexo II; que, para assegurar a necessária flexibilidade na sua aplicação, convém que o Conselho, deliberando por maioria qualificada, sob proposta da Comissão, possa alterar, se necessário, à luz da experiência adquirida, essas disposições;\n\nConsiderando que o presente regulamento deve substituir, sem interrupção, o Regulamento (CEE) n.º 792/93 do Conselho, de 30 de Março de 1993, que institui um instrumento financeiro de coesão ([^9^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#E0009)),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "70bbb8ec540e9a1f": {
+   "fragment_id": "Artigo 1.º — Definição e objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Definição e objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definição e objectivo\n\n1. É instituído um Fundo de Coesão, a seguir denominado «fundo».\n\n2. O fundo contribui para o reforço da coesão económica e social da Comunidade e rege-se pelo disposto no presente regulamento.\n\n3. O fundo pode contribuir para o financiamento de:\n\n— projectos,\n\n— fases de projecto técnica e financeiramente independentes, ou\n\n— grupos de projectos abrangidos por uma estratégia visível que formem um conjunto coerente."
+  },
+  "078da12441dc0c3e": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O fundo apoia financeiramente projectos que contribuam para a realização dos objectivos fixados no Tratado da União Europeia, nos domínios do ambiente e das redes transeuropeias de infra-estruturas de transportes, nos Estados-membros com um PNB *per capita* inferior a 90 % da média comunitária, medido com base nas paridades do poder de compra, que tenham definido um programa que lhes permita preencher os requisitos de convergência económica estabelecidos no artigo 104.ºC do Tratado.\n\n2. Até ao final de 1999, apenas serão elegíveis os quatro Estados-membros que satisfazem actualmente o critério do produto nacional bruto (PNB) mencionado no n.º 1. Esses Estados-membros serão a Grécia, a Espanha, a Irlanda e Portugal.\n\n3. Relativamente ao critério do PNB referido no n.º 1, os Estados-membros mencionados no n.º 2 continuarão a poder beneficiar do apoio do fundo desde que, após uma revisão intercalar a efectuar em 1996, o nível do seu PNB permaneça inferior a 90 % da média comunitária. Qualquer Estado-membro elegível cujo PNB ultrapasse nessa altura o limiar de 90 % perderá o direito a beneficiar do apoio do Fundo para novos projectos ou, no caso de projectos importantes com várias fases técnica e financeiramente independentes, para novas fases de um projecto.\n\n(4) Para serem elegíveis para o Fundo, a partir de 1 de Janeiro de 2000, os Estados-Membros beneficiários deverão ter introduzido os programas especificados nos artigos 3.º e 7.º do Regulamento (CE) n.º 1466/97 do Conselho ([^10^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#E0010)).\n\nOs quatro Estados-Membros que satisfazem o critério do PNB referido no n.º 1 são a Espanha, a Grécia, Portugal e a Irlanda.\n\nA avaliação intercalar prevista no n.º 3 será feita antes do final de 2003, numa base PNB *per capita* segundo os dados comunitários para o período de 2000 a 2002.\n\n5. No período compreendido entre a data da adesão e 31 de Dezembro de 2006, a República Checa, a Estónia, Chipre, a Letónia, a Lituânia, a Hungria, Malta, a Polónia, a Eslovénia e a Eslováquia também são elegíveis para a assistência do Fundo.\n\n6. Para efeitos do presente regulamento, o PNB é o RNB do ano a preços de mercado como previsto pela Comissão em aplicação do SEC 95 nos termos do Regulamento (CE) n.º 2223/96."
+  },
+  "c2a8f64b099604bc": {
+   "fragment_id": "Artigo 3.º — Acções elegíveis",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Acções elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acções elegíveis\n\n1. O fundo pode apoiar os seguintes projectos:\n\n— projectos no domínio do ambiente que contribuam para a realização dos objectivos enunciados no artigo 130.ºR do Tratado, incluindo projectos resultantes de medidas adoptadas nos termos do artigo 130.ºS do Tratado, nomeadamente projectos que se enquadrem no âmbito das prioridades da política comunitária de protecção do ambiente em conformidade com o [**►M1**](http://publications.europa.eu/resource/celex/31999R1264) —————**◄**programa de política e acção relacionado com o ambiente e o desenvolvimento sustentável,\n\n— projectos de infra-estruturas de transportes de interesse comum, apoiados pelos Estados-Membros e identificados no âmbito das orientações adoptadas pela Decisão n.º 1692/96/CE do Parlamento Europeu e do Conselho, de 23 de Julho de 1996, sobre o desenvolvimento da rede transeuropeia de transportes ([^11^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#E0011)).\n\n2. O fundo pode também apoiar:\n\n— estudos preparatórios relacionados com projectos elegíveis, incluindo os necessários à sua execução,\n\n— [**►M1**](http://publications.europa.eu/resource/celex/31999R1264) medidas de apoio técnico, incluindo campanhas de publicidade e de informação, designadamente:**◄**\n\na) Medidas horizontais, tais como estudos comparativos destinados a avaliar o impacte do apoio comunitário,\n\nb) Medidas e estudos que possam contribuir para a apreciação, o acompanhamento[**►M1**](http://publications.europa.eu/resource/celex/31999R1264), a supervisão**◄** ou a avaliação, bem como reforçar e assegurar a coordenação e a coerência dos projectos, nomeadamente a sua coerência com as outras políticas comunitárias;\n\nc) Medidas e estudos que possam contribuir para ajustamentos que sejam necessários durante a execução dos projectos."
+  },
+  "556e10a32ce646c5": {
+   "fragment_id": "Artigo 4.º — Recursos financeiros",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Recursos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Recursos financeiros\n\nPara o período de 1993 a 1999, o total dos recursos disponíveis para autorização pelo fundo, ao abrigo do presente regulamento e do Regulamento (CEE) n.º 792/93, conforme indicado no Acordo Interinstitucional de 29 de Outubro de 1993, eleva-se a 15,15 mil milhões de ecus, a preços de 1992.\n\nAs perspectivas financeiras estabelecidas, em dotações de autorização, ao abrigo dos regulamentos referidos no n.º 1, para cada ano daquele período, são as seguintes:\n\n— 1993: 1,5 mil milhões de ecus,\n\n— 1994: 1,75 mil milhões de ecus,\n\n— 1995: 2 mil milhões de ecus,\n\n— 1996: 2,25 mil milhões de ecus,\n\n— 1997: 2,5 mil milhões de ecus,\n\n— 1998: 2,55 mil milhões de ecus,\n\n— 1999: 2,6 mil milhões de ecus.\n\nA partir de 1 de Janeiro de 2000, o total dos recursos disponíveis para autorizações para a Grécia, a Espanha, Portugal e a Irlanda no período de 2000 a 2006 deverá ser de 18 mil milhões de euros a preços de 1999.\n\nAs dotações de autorização para cada ano desse período deverão ser:\n\n— 2000: 2,615 milhões de euros,\n\n— 2001: 2,615 milhões de euros,\n\n— 2002: 2,615 milhões de euros,\n\n— 2003: 2,615 milhões de euros,\n\n— 2004: 2,515 milhões de euros,\n\n— 2005: 2,515 milhões de euros,\n\n— 2006: 2,510 milhões de euros.\n\nO total dos recursos disponíveis para autorizações para a República Checa, a Estónia, Chipre, a Letónia, a Lituânia, a Hungria, Malta, a Polónia, a Eslovénia e a Eslováquia no período compreendido entre a data da adesão e 2006 deverá ser de 7,5905 mil milhões de euros a preços de 1999.\n\nAs dotações de autorização para cada ano desse período deverão ser:\n\n— 2004: 2,6168 mil milhões de euros\n\n— 2005: 2,1517 mil milhões de euros\n\n— 2006: 2,8220 mil milhões de euros.\n\nNo caso de um Estado-Membro deixar de ser elegível, os recursos do Fundo de Coesão serão reduzidos de modo correspondente."
+  },
+  "9e8b18111e02678e": {
+   "fragment_id": "Artigo 5.º — Repartição indicativa",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Repartição indicativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Repartição indicativa\n\nSerá feita uma repartição indicativa dos recursos totais do Fundo com base em critérios precisos e objectivos, principalmente a população, o PNB *per capita* tendo em conta o aumento da prosperidade nacional alcançado no período anterior, e a superfície; serão também tidos em conta outros factores socioeconómicos, como as deficiências na infra-estrutura de transportes.\n\nA repartição indicativa dos recursos totais resultante da aplicação destes critérios consta do anexo I.\n\nO total dos montantes recebidos do Fundo de Coesão ao abrigo do presente regulamento — em conjugação com as ajudas previstas pelos fundos estruturais — não deve exceder 4 % do PIB nacional."
+  },
+  "a402087dc0431adf": {
+   "fragment_id": "Artigo 6.º — Assistência condicional",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Assistência condicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Assistência condicional\n\n1. O Fundo não financiará qualquer novo projecto nem, no caso de projectos importantes, qualquer nova fase de um projecto num Estado-membro, se o Conselho, deliberando por maioria qualificada sob recomendação da Comissão, verificar que o Estado-Membro em causa, na aplicação do presente regulamento, não executou o programa referido no n.º 4 do artigo 2.º de modo a evitar um défice orçamental excessivo.\n\nA suspensão do financiamento cessará logo que o Conselho, deliberando nas mesmas condições, verificar que o Estado-Membro em causa tomou medidas para executar esse programa de modo a evitar um défice orçamental excessivo.\n\n2. Excepcionalmente, no caso de projectos que afectem directamente mais do que um Estado-Membro, o Conselho, deliberando por maioria qualificada sob recomendação da Comissão, pode decidir adiar a suspensão do financiamento."
+  },
+  "06d4ce40ed767da9": {
+   "fragment_id": "Artigo 7.º — Taxa de apoio",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Taxa de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Taxa de apoio\n\n1. A taxa do apoio comunitário concedido pelo fundo variará entre 80 % e 85 % das despesas públicas ou similares, incluindo as despesas de organismos cujas actividades sejam realizadas num enquadramento administrativo ou jurídico que os tornem equiparáveis a organismos públicos.\n\nNo entanto, a partir de 1 de Janeiro de 2000, essa taxa pode ser reduzida para ter em conta, em cooperação com o Estado-Membro em questão, as receitas que previsivelmente serão geradas pelos projectos, bem como pela aplicação do princípio do poluidor-pagador.\n\nPara esse fim, a Comissão apoiará os esforços dos Estados-Membros beneficiários no sentido de maximizar o efeito de alavanca dos recursos do Fundo, promovendo uma maior utilização de fontes de financiamento privadas.\n\n2. Em caso de apoio a um projecto gerador de receitas, compete à Comissão determinar o montante [**►M1**](http://publications.europa.eu/resource/celex/31999R1264) —————**◄**do apoio do fundo, tendo em conta as receitas, desde que se trate de receitas substanciais líquidas para os promotores, e em estreita concertação com o Estado-membro beneficiário.\n\nPor projecto gerador de receitas entendem-se:\n\n— as infra-estruturas cuja utilização implique encargos directamente suportados pelos utilizadores,\n\n— os investimentos produtivos no sector do ambiente.\n\n3. Os Estados-membros beneficiários poderão apresentar propostas de estudos preparatórios e de medidas de apoio técnico.\n\n4. Os estudos preparatórios e as medidas de apoio técnico podem ser financiados a 100 % do custo total, a título excepcional, mesmo quando empreendidos por iniciativa da Comissão.\n\nA totalidade das despesas efectuadas ao abrigo do presente número não pode exceder 0,5 % da dotação total do fundo."
+  },
+  "0c0c147bab027c5f": {
+   "fragment_id": "Artigo 8.º — Coordenação e compatibilidade com as políticas comunitárias",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Coordenação e compatibilidade com as políticas comunitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Coordenação e compatibilidade com as políticas comunitárias\n\n1. Os projectos financiados pelo fundo deverão respeitar as disposições dos Tratados e demais actos adoptados para sua execução e as políticas comunitárias, incluindo as relativas à protecção do ambiente, aos transportes, às redes transeuropeias, à concorrência e à adjudicação de contratos públicos.\n\n2. A Comissão garantirá a coordenação e a coerência entre os projectos a realizar no âmbito do presente regulamento e as acções beneficiárias de contribuições provenientes do orçamento comunitário, do Banco Europeu de Investimento (BEI) e dos demais instrumentos financeiros comunitários."
+  },
+  "cb9628c79f9e7273": {
+   "fragment_id": "Artigo 9.º — Conjugação e sobreposição",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Conjugação e sobreposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conjugação e sobreposição\n\n1. Nenhuma rubrica das despesas poderá beneficiar simultaneamente de apoio do fundo e de apoio do Fundo Europeu de Orientação e de Garantia Agrícola, do Fundo Social Europeu, do Fundo Europeu de Desenvolvimento Regional ou do Instrumento Financeiro de Orientação da Pesca.\n\n2. O apoio conjugado do fundo e das demais contribuições comunitárias não deverá exceder 90 % das despesas totais de um projecto."
+  },
+  "ea4a557c7e339b11": {
+   "fragment_id": "Artigo 10.º — Aprovação dos projectos",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Aprovação dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aprovação dos projectos\n\n1. A Comissão decidirá, de acordo com o Estado-membro beneficiário, quais os projectos a financiar pelo fundo.\n\n2. Será garantido um equilíbrio adequado entre projectos nos domínios do ambiente e das infra-estruturas de transportes. Este equilíbrio tomará em consideração o disposto no n.º 5 do artigo 130.ºS do Tratado.\n\n3. Os pedidos de concessão de apoio para projectos abrangidos pelo n.º 1 do artigo 3.º serão apresentados pelos Estados-membros interessados. Os projectos, e grupos de projectos inter-relacionados, deverão ter dimensão suficientemente importante para que tenham impacte significativo nos domínios da protecção do ambiente ou da melhoria das redes transeuropeias de infra-estruturas de transportes. O custo total de um projecto ou grupo de projectos não poderá, em princípio, ser em qualquer caso inferior a 10 milhões de [**►M1**](http://publications.europa.eu/resource/celex/31999R1264) euros**◄**. Em casos devidamente justificados, poderão ser aprovados projectos ou grupos de projectos de valor inferior.\n\n4. Os pedidos deverão conter as seguintes informações: organismo responsável pela execução do projecto; natureza do investimento e sua descrição; custos e localização, incluindo, nos casos adequados, a indicação dos projectos de interesse comum situados no mesmo eixo de transportes; calendário de execução dos trabalhos; análise dos custos e dos benefícios, incluindo os efeitos directos e indirectos sobre o emprego; elementos que permitam avaliar o [**►M1**](http://publications.europa.eu/resource/celex/31999R1264) —————**◄**impacte ambiental; elementos relativos aos contratos públicos; plano de financiamento, incluindo, na medida do possível, indicações sobre a viabilidade económica do projecto e o montante total do financiamento que o Estado-membro pretende obter do fundo ou de qualquer outra fonte comunitária.\n\nOs pedidos deverão igualmente conter todas as informações úteis para proceder à necessária demonstração da conformidade dos projectos com o presente regulamento e com os critérios constantes do n.º 5, designadamente no que diz respeito às vantagens socioeconómicas que daí resultarão, a médio prazo, relativamente aos recursos mobilizados.\n\n5. Com o objectivo de garantir aos projectos uma elevada qualidade serão utilizados os seguintes critérios:\n\n— benefícios económicos e sociais a médio prazo, que devem ser proporcionais aos recursos mobilizados; será feita uma avaliação baseada numa análise dos custos e dos benefícios,\n\n— prioridades estabelecidas pelos Estados-membros beneficiários,\n\n— contribuição que os projectos podem dar para a realização das políticas comunitárias em matéria de ambiente[**►M1**](http://publications.europa.eu/resource/celex/31999R1264), incluindo o princípio do poluidor-pagador,**◄** e de redes transeuropeias,\n\n— compatibilidade dos projectos com as políticas comunitárias e sua coerência com as demais medidas estruturais da Comunidade,\n\n— realização de um equilíbrio adequado entre os domínios do ambiente e das infra-estruturas de transportes.\n\n6. Sob reserva do disposto no artigo 6.º e da disponibilidade de dotações de autorização, a Comissão decidirá da concessão de apoios ao abrigo do fundo, desde que estejam reunidas as condições exigidas pelo presente artigo, de modo geral, no prazo de três meses a contar da recepção do pedido. As decisões da Comissão relativas à aprovação dos projectos, fases de projecto ou grupos de projectos conexos determinarão o montante do apoio financeiro, o plano de financiamento e as disposições e condições necessárias para a realização dos projectos.\n\n7. Os elementos essenciais das decisões da Comissão serão publicados no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "91fa5f1739ec8120": {
+   "fragment_id": "Artigo 11.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Disposições financeiras\n\n1. As dotações de autorização inscritas no orçamento serão concedidas com base nas decisões que, nos termos do artigo 10.º, aprovem as acções em causa.\n\n2. No que diz respeito aos projectos referidos no n.º 1 do artigo 3.º, as autorizações serão, de modo geral, concedidas por fracções anuais. Todavia, em casos apropriados, a Comissão poderá proceder à disponibilização do montante total do apoio concedido no momento em que aprove a decisão de concessão.\n\n3. Não poderão beneficiar do apoio do fundo as despesas, na acepção do n.º 1 do artigo 7.º, que tenham sido efectuadas pelo Estado-membro beneficiário antes da data de recepção pela Comissão do correspondente pedido.\n\nPara a República Checa, a Estónia, Chipre, a Letónia, a Lituânia, a Hungria, Malta, a Polónia, a Eslovénia e a Eslováquia, as despesas na acepção do n.º 1 do artigo 7.º só poderão ser consideradas elegíveis para o apoio do Fundo se tiverem sido efectuadas depois de 1 de Janeiro de 2004 e desde que satisfaçam todas as condições previstas no presente regulamento.\n\n4. Os pagamentos subsequentes ao adiantamento inicial deverão estar ligados de forma estrita e transparente aos progressos realizados na execução dos projectos.\n\n5. Os pagamentos serão efectuados em [**►M1**](http://publications.europa.eu/resource/celex/31999R1264) euros**◄** e estarão sujeitos às disposições específicas que constam do anexo II."
+  },
+  "1e85d7a6807a772c": {
+   "fragment_id": "Artigo 12.º — Controlo financeiro",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Controlo financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Controlo financeiro\n\n1. Sem prejuízo da responsabilidade da Comissão na execução do orçamento das Comunidades, os Estados-Membros serão os primeiros responsáveis pelo controlo financeiro dos projectos. Para o efeito, tomarão nomeadamente as seguintes medidas:\n\na) Verificarão se foram instituídos sistemas de gestão e de controlo e se estes são aplicados de modo a assegurar uma utilização eficaz e correcta dos fundos comunitários;\n\nb) Apresentarão uma descrição desse sistemas a Comissão;\n\nc) Garantirão a gestão dos projectos segundo o conjunto da regulamentação comunitária aplicável e a utilização dos fundos postos à sua disposição segundo os princípios de boa gestão financeira;\n\nd) Certificarão a exactidão das declarações de despesas apresentadas à Comissão e garantirão a sua proveniência de sistemas de contabilidade baseados em documentos de prova passíveis de verificação;\n\ne) Prevenirão e detectarão as irregularidades e comunicá-las-ão à Comissão, segundo a regulamentação em vigor, mantendo aquela informada da evolução dos procesos administrativos e judiciais. Neste contexto, os Estados-Membros e a Comissão tomarão as medidas necessárias para garantir a confidencialidade das informações trocadas;\n\nf) Apresentarão à Comissão, aquando do encerramento de cada projecto, fase de projecto ou grupos de projectos, uma declaração de uma pessoa ou de um serviço funcionalmente independente da autoridade designada. A declaração apresentará uma síntese das conclusões dos controlos efectuados nos anos anteriores e uma avaliação da validade do pedido de pagamento do saldo, bem como da legalidade e regularidade das despesas abrangidas pelo certificado final. Os Estados-Membros farão acompanhar a declaração do seu parecer, se o considerarem necessário;\n\ng) Cooperarão para assegurar uma utilização dos fundos comunitários segundo o princípio de boa gestão financeira;\n\nh) Recuperarão os fundos perdidos na sequência de uma irregualaridade verificada, aplicando, se for caso disso, juros de mora.\n\n2. A Comissão, na sua qualidade de responsável pela execução do orçamento comunitário, certificar-se-á da existência e do bom funcionamento de sistemas de gestão e de controlo nos Estados-Membros, de modo a assegurar uma utilização eficaz e correcta dos fundos comunitários.\n\nPara o efeito, e sem prejuízo dos controlos efectuados pelos Estados-Membros de acordo com as disposições legislativas, regulamentares e administrativas nacionais, os funcionários ou agentes da Comissão podem, segundo os acordos feitos com os Estados-Membros no âmbito da cooperação prevista no n.º 1, do artigo G, do anexo II, efectuar controlos *in loco*, nomeadamente por amostragem, dos projectos financiados pelo Fundo e dos sistemas de gestão e de controlo, com um pré-aviso mínimo de um dia útil. A Comissão informará o Estado-Membro em causa, a fim de obter todo o apoio necessário. Podem participar nestes controlos funcionários ou agentes desse Estado-Membro.\n\nA Comissão pode solicitar ao Estado-Membro em causa que efectue um controlo *in loco* para verificar a regularidade de uma ou várias operações. Podem participar nesses controlos funcionários ou agentes da Comissão.\n\nAntes de efectuar um controlo no local, a Comissão informará o Estado-membro interessado, de modo a obter todo o apoio necessário. O recurso da Comissão a eventuais controlos no local sem pré-aviso será regido por acordos concluídos em conformidade com as disposições do Regulamento Financeiro. Poderão participar nos controlos funcionários ou agentes do Estado-membro.\n\nA Comissão poderá solicitar ao Estado-membro em causa que efectue um controlo no local para verificar a regularidade do pedido de pagamento. Nesses controlos poderão participar funcionários ou agentes da Comissão, devendo fazê-lo se o Estado-membro em causa o solicitar.\n\nA Comissão assegurar-se-á de que os controlos que efectue serão realizados de modo coordenado, a fim de evitar a repetição de controlos para o mesmo assunto e no mesmo período. O Estado-membro em causa e a Comissão transmitirão imediatamente um ao outro todas as informações adequadas quanto aos resultados dos controlos efectuados.\n\n3. Os Estados-membros deverão colocar à disposição da Comissão todos os relatórios nacionais relativos ao controlo dos projectos em causa.\n\n[**►M1**](http://publications.europa.eu/resource/celex/31999R1264) 4**◄**. A partir da entrada em vigor do presente regulamento, a Comissão adoptará as disposições de execução do presente artigo e comunicá-las-á, para informação, ao Parlamento Europeu."
+  },
+  "98fc69a72bd9b230": {
+   "fragment_id": "Artigo 13.º — Apreciação, acompanhamento e avaliação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Apreciação, acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apreciação, acompanhamento e avaliação\n\n1. Compete aos Estados-membros e à Comissão garantir que a execução dos projectos realizados ao abrigo do presente regulamento será efectivamente objecto de medidas de acompanhamento e de avaliação. Os projectos deverão ser adaptados em função dos resultados do acompanhamento e da avaliação.\n\n2. A fim de assegurar a eficácia do apoio comunitário, a Comissão e os Estados-membros beneficiários deverão proceder, eventualmente em cooperação com o BEI, à apreciação e à avaliação sistemáticas dos projectos.\n\n3. A partir da recepção de um pedido de apoio e antes da aprovação de um projecto, a Comissão deverá proceder a uma apreciação aprofundada do mesmo, a fim de avaliar a sua conformidade com os critérios referido no n.º 5 do artigo 10.º Se necessário, a Comissão convidará o BEI a contribuir para a avaliação dos projectos.\n\n4. Durante a execução dos projectos e após a sua conclusão, a Comissão e os Estados-membros beneficiários avaliarão a forma como os projectos estão a ser ou foram executados, bem como o impacte potencial e real dessa execução, a fim de apreciar se os objectivos originais podem ser ou foram atingidos. Esta avaliação incluirá nomeadamente as consequências para o ambiente resultantes dos projectos, respeitando as regras comunitárias em vigor.\n\n5. Ao instruir os pedidos de contribuição, a Comissão tomará em consideração os resultados das apreciações e avaliações efectuadas de acordo com o disposto no presente artigo.\n\n6. As regras de acompanhamento e de avaliação previstas no n.º 4 serão especificadas nas decisões de aprovação dos projectos."
+  },
+  "0a692f558e0dd9f3": {
+   "fragment_id": "Artigo 14.º — Informação e publicidade",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Informação e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Informação e publicidade\n\n1. A Comissão apresentará, para análise e parecer, um relatório anual sobre as actividades do fundo ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social e ao Comité das Regiões.\n\nO Parlamento Europeu pronunciar-se-á sobre o relatório no mais curto prazo possível. A Comissão informará de que modo aplicou as observações contidas no parecer do Parlamento Europeu.\n\nA Comissão assegurará a informação dos Estados-membros sobre as actividades do fundo.\n\n2. Os Estados-membros responsáveis pela execução de uma acção que beneficie da contribuição financeira do fundo deverão tomar as medidas adequadas para que ela seja objecto da publicidade adequada, a fim de sensibilizar:\n\n— a opinião pública quanto ao papel desempenhado pela Comunidade na acção,\n\n— os potenciais beneficiários e as organizações profissionais quanto às possibilidades que a acção oferece.\n\nOs Estados-membros assegurarão, nomeadamente, a instalação de painéis distintamente visíveis, que deverão ostentar o emblema comunitário, que indiquem a percentagem do custo total de um determinado projecto financiada pela Comunidade, bem como a devida participação de representantes das instituições comunitárias nas actividades públicas de maior importância que digam respeito ao fundo.\n\nDeverão informar a Comissão das iniciativas adoptadas para efeitos da aplicação do presente número.\n\n3. Logo que entre em vigor o presente regulamento, a Comissão adoptará disposições pormenorizadas em matéria de informação e publicidade, comunicá-las-á para informação ao Parlamento Europeu e publicá-las-á no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "69d251d00571b0aa": {
+   "fragment_id": "Artigo 15.º — Execução",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Execução\n\nAs disposições de execução do presente regulamento constam do anexo II."
+  },
+  "75af4d2b0b7d0f4f": {
+   "fragment_id": "Artigo 16.º — Disposições finais e transitórias",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Disposições finais e transitórias\n\n1. O Conselho, deliberando sob proposta da Comissão nos termos do procedimento previsto no artigo 130.ºD do Tratado, reexaminará o presente regulamento [**►M1**](http://publications.europa.eu/resource/celex/31999R1264) o mais tardar até 31 de Dezembro de 2006**◄**.\n\n2. Com a entrada em vigor do presente regulamento, é revogado o Regulamento (CEE) n.º 792/93.\n\n3. O presente regulamento não afecta a prossecução das acções aprovadas pela Comissão com base no Regulamento (CEE) n.º 792/93 aplicável antes da data de entrada em vigor do presente regulamento, que passa a ser aplicável a essas acções a partir dessa data.\n\n4. Os pedidos apresentados ao abrigo do Regulamento (CEE) n.º 792/93 antes da data de entrada em vigor do presente regulamento mantêm-se válidos desde que sejam completados, se necessário, para cumprirem os requisitos do presente regulamento no prazo máximo de dois meses a contar da referida data de entrada em vigor."
+  },
+  "fdc8103d6d1a196f": {
+   "fragment_id": "Artigo 16.ºA — Disposições específicas na sequência da adesão à União Europeia de um novo Estado-Membro que beneficiou de ajuda de pré-adesão ao abrigo do Instrumento Estrutural de Pré-Adesão (ISPA)",
+   "type": "artigo",
+   "heading": "Artigo 16.ºA — Disposições específicas na sequência da adesão à União Europeia de um novo Estado-Membro que beneficiou de ajuda de pré-adesão ao abrigo do Instrumento Estrutural de Pré-Adesão (ISPA)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.ºA — Disposições específicas na sequência da adesão à União Europeia de um novo Estado-Membro que beneficiou de ajuda de pré-adesão ao abrigo do Instrumento Estrutural de Pré-Adesão (ISPA)\n\n1. As medidas que, à data da adesão da República Checa, da Estónia, de Chipre, da Letónia, da Lituânia, da Hungria, da Polónia, da Eslovénia e da Eslováquia, tenham sido objecto de decisões da Comissão em matéria de assistência ao abrigo do Regulamento (CE) n.º 1267/1999, que cria um instrumento estrutural de pré-adesão ([^12^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#E0012)), e cuja execução não tenha sido completada até essa data, [**►C1**](http://publications.europa.eu/resource/celex/12003T0000R%2801%29) devem ser consideradas aprovadas pela Comissão nos termos do presente regulamento.**◄** Salvo disposição em contrário nos n.^os^ 2 a 5, aplicar-se-ão a essas medidas as disposições que regulam a aplicação de medidas aprovadas nos termos do presente regulamento.\n\n2. Qualquer processo de adjudicação relativo às medidas referidas no n.º 1 que, à data da adesão, já tenha sido objecto de publicação de um convite para apresentação de propostas no Jornal Oficial da União Europeia será executado segundo as regras previstas no respectivo anúncio. Não é aplicável o disposto no artigo 165.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, que institui o Regulamento Financeiro aplicável ao Orçamento Geral da União Europeia ([^13^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#E0013)).\n\nQualquer processo de adjudicação referente às medidas referidas no n.º 1 que ainda não tenha sido objecto de publicação de um convite para apresentação de propostas no *Jornal Oficial da União Europeia* deve respeitar as regras e disposições previstas no artigo 8.º\n\n3. Em casos devidamente justificados, a Comissão pode decidir, a pedido do Estado-Membro interessado e apenas relativamente às prestações anuais ainda a autorizar no âmbito do orçamento geral, alterar a assistência comunitária a conceder, tendo em conta os critérios previstos no artigo 7.º. A alteração da assistência comunitária em nada prejudica a parte da medida já coberta por um empréstimo assinado com o BEI, o Banco Europeu para a Reconstrução e o Desenvolvimento ou outra instituição financeira internacional.\n\nOs pagamentos efectuados pela Comissão no âmbito de uma medida referida no n.º 1 devem ser imputados à dotação mais antiga em aberto, antes de mais nos termos do Regulamento (CE) n.º 1267/1999 e só depois nos termos do presente Regulamento.\n\n4. As regras relativas à elegibilidade da despesa nos termos do Regulamento (CE) n.º 1267/1999 continuam a ser aplicáveis às medidas referidas no n.º 1, excepto nos casos devidamente justificados a decidir pela Comissão a pedido do Estado-Membro interessado.\n\n5. Em casos excepcionais e devidamente justificados, a Comissão pode decidir autorizar derrogações específicas das regras aplicáveis nos termos do presente Regulamento às medidas referidas no n.º 1."
+  },
+  "af8156e184f802b7": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "8c187c8c5a4b3237": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nRepartição indicativa dos recursos totais do Fundo de Coesão pelos Estados-Membros beneficiários, tal como referido no terceiro parágrafo do artigo 4.º:\n\n— Grécia: 16 % a 18 % do total\n\n— Espanha: 61 % a 63,5 % do total\n\n— Irlanda: 2 % a 6 % do total\n\n— Portugal: 16 % a 18 % do total.\n\nRepartição indicativa dos recursos totais do Fundo de Coesão pelos Estados-Membros beneficiários, tal como referido no quinto parágrafo do artigo 4.º:\n\n— República Checa: 9,76 % a 12,28 % do total\n\n— Estónia: 2,88 % a 4,39 % do total\n\n— Chipre: 0,43 % a 0,84 % do total\n\n— Letónia: 5,07 % a 7,08 % do total\n\n— Lituânia: 6,15 % a 8,17 % do total\n\n— Hungria: 11,58 % a 14,61 % do total\n\n— Malta: 0,16 % a 0,36 % do total\n\n— Polónia: 45,65 % a 52,72 % do total\n\n— Eslovénia: 1,72 % a 2,73 % do total\n\n— Eslováquia: 5,71 % a 7,72 % do total."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "84643d81f4c35ad2": {
+   "fragment_id": "DISPOSIÇÕES DE EXECUÇÃO",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES DE EXECUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES DE EXECUÇÃO"
+  },
+  "568c73966345a2fa": {
+   "fragment_id": "Artigo A — Identificação de projectos, fases ou grupos de projectos",
+   "type": "artigo",
+   "heading": "Artigo A — Identificação de projectos, fases ou grupos de projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo A — Identificação de projectos, fases ou grupos de projectos\n\n1. A Comissão, de acordo com o Estado-Membro beneficiário, pode agrupar projectos e delimitar num projecto fases técnica e financeiramente independentes para efeitos de concessão de assistência.\n\n2. Para efeitos do presente regulamento, são aplicáveis as seguintes definições:\n\na) «Projecto»: um conjunto de trabalhos, economicamente indivisíveis, que desempenhem uma função técnica precisa e com objectivos claramente identificados que permitem avaliar se o projecto satisfaz o primeiro critério enunciado no n.º 5, primeiro travessão, do artigo 10.º;\n\nb) «Fase técnica e financeiramente independente»: fase cujo carácter operacional explicito pode ser identificado.\n\n3. Uma fase pode dizer igualmente respeito a estudos preparatórios, de viabilidade e técnicos, necessários à realização de um projecto.\n\n4. Para que seja respeitado o critério enunciado no n.º 3, terceiro travessão, do artigo 1.º, podem ser agrupados os projectos que cumpram as três condições seguintes:\n\na) Estarem situados na mesma área ou no mesmo eixo de transporte;\n\nb) Serem efectuados em aplicação de um plano de conjunto para essa área ou esse eixo, com objectivos claramente identificados, nos termos do n.º 3 do artigo 1.º;\n\nc) Serem supervisados por uma entidade responsável pela coordenação e pelo acompanhamento do grupo de projectos, se estes forem executados por diferentes autoridades competentes."
+  },
+  "404a967002240854": {
+   "fragment_id": "Artigo B — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo B — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo B — Avaliação\n\n1. A Comissão examinará os pedidos de contribuição, nomeadamente com o objectivo de verificar se os mecanismos administrativos e financeiros são de molde a assegurar a eficaz execução do projecto.\n\nOs Estados-Membros beneficiários fornecerão todas as informações necessárias, previstas no n.º 4 do artigo 10.º, incluindo os resultados dos estudos de viabilidade e das avaliações *ex ante*. Para que esta apreciação possa ser realizada o mais eficazmente possível, os Estados-Membros fornecerão igualmente os resultados do processo de avaliação do impacto ambiental segundo a legislação comunitária, o seu enquadramento numa estratégia global ambiental ou de transportes, a nível territorial ou sectorial, e, se for caso disso:\n\n— a indicação das possíveis alternativas que não tenham sido adoptadas,\n\n— a articulação com projectos de interesse comum situados no mesmo eixo de transporte."
+  },
+  "e5b210f3a87f1ced": {
+   "fragment_id": "Artigo C — Autorizações",
+   "type": "artigo",
+   "heading": "Artigo C — Autorizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo C — Autorizações\n\n1. As autorizações orçamentais serão efectuadas com base nas decisões da Comissão que aprovem as acções em causa (projecto, fase de projecto, grupo de projectos, estudo ou medida de apoio técnico). Serão válidas por um prazo cuja duração dependerá da natureza e das condições específicas de execução da acção.\n\n2. As autorizações orçamentais relativas às contribuições concedidas a projectos, fases de projecto ou grupos de projectos serão efectuadas de acordo com uma das seguintes modalidades:\n\na) As autorizações para os projectos referidos no n.º 1 do artigo 3.º com duração igual ou superior a dois anos serão, de modo geral, sob reserva do disposto na alínea b), efectuadas por fracções anuais.\n\nb) Para os projectos com duração inferior a dois anos ou cuja contribuição comunitária não exceda 50 milhões de euros, pode ser autorizado um primeiro montante que represente 80 % dessa contribuição no momento em que a Comissão adoptar a decisão que aprova a concessão da contribuição comunitária.\n\n3. Em relação aos estudos e medidas de apoio técnico referidos no n.º 2 do artigo 3.º, a autorização da contribuição ocorrerá quando a Comissão aprovar a acção em causa.\n\n4. As regras de autorização serão especificadas nas decisões da Comissão que aprovem as acções em causa.\n\n5. Excepto em casos devidamente justificados, serão anuladas as contribuições concedidas para um projecto, grupo de projectos ou fase de projecto cujos trabalhos não tenham começado nos dois anos subsequentes à data prevista para o seu início na decisão de concessão da contribuição ou à data da sua aprovação se esta for posterior.\n\nDa qualquer forma, sempre que haja risco de anulação, a Comissão informará atempadamente os Estados-Membros e a autoridade designada."
+  },
+  "df6b01a655d1023f": {
+   "fragment_id": "Artigo D — Pagamentos",
+   "type": "artigo",
+   "heading": "Artigo D — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo D — Pagamentos\n\n1. O pagamento da contribuição financeira será efectuado em conformidade com as autorizações orçamentais e será feito à autoridade ou organismo designado para esse efeito no pedido apresentado pelo Estado-membro beneficiário em causa. [**►M2**](http://publications.europa.eu/resource/celex/31999R1265) O pagamento pode assumir a forma de pagamentos por conta, de pagamentos intermédios ou de pagamentos do saldo. Os pagamentos intermédios ou de saldo serão referentes às despesas efectivamente pagas, que devem ser justificadas por facturas pagas ou documentos contabilísticos de valor probatório equivalente.**◄**\n\n2. Os pagamentos serão efectuados do seguinte modo:\n\na) Na sequência da adopção da decisão que concede a contribuição comunitária e, excepto em casos devidamente justificados, após assinatura dos contratos públicos, será efectuado um único pagamento por conta, de 20 % da contribuição do Fundo inicialmente concedida.\n\nb) Podem ser efectuados pagamentos intermédios, desde que o projecto progrida satisfatoriamente para a sua conclusão, em reembolso de despesas certificadas e efectivamente pagas e sob as seguintes condições:\n\n— o Estado-Membro ter apresentado um pedido que ateste o adiantamento do projecto, em termos de indicadores físicos e financeiros, e a sua conformidade com a decisão de concessão da contribuição, incluindo, se for caso disso, as condições específicas associadas a essa contribuição,\n\n— ter sido dado seguimento às observações e recomendações das autoridades de controlo nacionais e/ou comunitárias, especialmente em matéria de correcção de irregularidades presumidas ou reais,\n\n— terem sido indicados os principais problemas técnicos, financeiros e jurídicos ocorridos e as medidas tomadas para os corrigir,\n\n— terem sido analisadas as diferenças em relação ao plano de financiamento inicial,\n\n— terem sido indicadas as medidas tomadas para assegurar a publicidade do projecto.\n\nc) O montante total dos pagamentos referidos nas alíneas a) e b) não pode exceder 80 % da contribuição total concedida. Em relação a projectos importantes autorizados por fracções anuais e em casos justificados, essa percentagem pode ir até 90 %;\n\nd) O pagamento final do saldo da contribuição comunitária, calculado com base nas despesas certificadas e efectivamente pagas, será efectuado se:\n\n— o projecto, a fase de projecto ou o grupo de projectos tiver sido realizado de acordo com os seus objectivos,\n\n— a autoridade ou o organismo designado, referido no n.º 1, apresentar à Comissão um pedido de pagamento nos seis meses subsequentes à data indicada na decisão de concessão da contribuição para a conclusão dos trabalhos e dos pagamentos do projecto, da fase de projecto ou do grupo de projectos,\n\n— for apresentado à Comissão o relatório final referido no n.º 4 do artigo F,\n\n— o Estado-Membro confirmar à Comissão as informações dadas no pedido de pagamento e no relatório,\n\n— o Estado-Membro tiver enviado à Comissão a declaração referida no n.º 1 do artigo 12.º,\n\n— tiverem sido executadas todas as disposições em matéria de informação e publicidade adoptadas pela Comissão nos termos do n.º 3 do artigo 14.º\n\n3. Se o relatório final previsto no n.º 2 não for apresentado à Comissão nos 18 meses subsequentes à data indicada na decisão de concessão da contribuição para a conclusão dos trabalhos e dos pagamentos, será anulada a parte da contribuição correspondente ao saldo do projecto.\n\n4. Os Estados-membros designarão as autoridades competentes para emitir as declarações referidas na alínea d) do n.º 2\n\n4A. Os Estados-Membros assegurarão que os pedidos de pagamento sejam, regra geral, apresentados à Comissão três vezes por ano, o mais tardar até 1 de Março, 1 de Julho e 1 de Novembro.\n\n5. Os pagamentos serão feitos à autoridade ou organismo designado pelo Estado-membro, de modo geral, o mais tardar dois meses a contar da recepção de um pedido de pagamento admissível[**►M2**](http://publications.europa.eu/resource/celex/31999R1265), em função das disponibilidades orçamentais**◄**.\n\n6. Em relação aos estudos e às outras medidas referidas no n.º 2 do artigo 3.º, a Comissão estabelecerá os procedimentos de pagamento adequados.\n\n7. A Comissão estabelecerá regras comuns de elegibilidade das despesas."
+  },
+  "d4b5fb8cb79724da": {
+   "fragment_id": "Artigo E — Utilização do [►M2](http://publications.europa.eu/resource/celex/31999R1265) euro◄",
+   "type": "artigo",
+   "heading": "Artigo E — Utilização do [►M2](http://publications.europa.eu/resource/celex/31999R1265) euro◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo E — Utilização do [►M2](http://publications.europa.eu/resource/celex/31999R1265) euro◄\n\n1. Os pedidos de contribuição, incluindo os respectivos planos de financiamento, serão apresentados à Comissão em [**►M2**](http://publications.europa.eu/resource/celex/31999R1265) euros**◄** [**►M2**](http://publications.europa.eu/resource/celex/31999R1265) —————**◄**.\n\n2. Os montantes das contribuições e os planos de financiamento aprovados pela Comissão serão expressos em [**►M2**](http://publications.europa.eu/resource/celex/31999R1265) euros**◄**.\n\n3. As declarações de despesas apresentadas em apoio dos correspondentes pedidos de pagamento serão expressas em [**►M2**](http://publications.europa.eu/resource/celex/31999R1265) euros**◄** [**►M2**](http://publications.europa.eu/resource/celex/31999R1265) —————**◄**.\n\n4. Os pagamentos da contribuição financeira, efectuados pela Comissão, serão feitos em [**►M2**](http://publications.europa.eu/resource/celex/31999R1265) euros**◄** à autoridade designada pelo Estado-membro para receber os pagamentos.\n\n5. Em relação aos Estados-Membros não participantes no euro, a taxa de conversão será a taxa contabilística da Comissão."
+  },
+  "9000959bc9dd548e": {
+   "fragment_id": "Artigo F — Acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo F — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo F — Acompanhamento\n\n1. A Comissão e os Estados-membros assegurarão um acompanhamento eficaz da execução dos projectos comunitários co-financiados pelo fundo. Esse acompanhamento será assegurado por meio de relatórios elaborados segundo procedimentos adoptados de comum acordo, de controlos por amostragem e dos comités instituídos para o efeito.\n\n2. O acompanhamento será assegurado por meio de indicadores físicos e financeiros. Esses indicadores referir-se-ão ao carácter específico do projecto e aos seus objectivos. Os indicadores serão estruturados de forma a indicar:\n\n— o estado de adiantamento do projecto relativamente ao plano e aos objectivos inicialmente estabelecidos,\n\n— os progressos da gestão e eventuais problemas conexos.\n\n3. Serão criados comités de acompanhamento, por acordo entre o Estado-membro em causa e a Comissão.\n\nAs autoridades ou organismos designados pelo Estado-membro, a Comissão e, eventualmente, o Banco Europeu de Investimento (BEI) estarão representados nesses comités.\n\nQuando forem competentes para a execução de um projecto ou, eventualmente, quando um projecto lhes disser directamente respeito, as autoridades regionais e locais estarão igualmente representadas nesses comités.\n\n4. Em relação a todos os projectos, a autoridade ou o organismo designado para o efeito pelo Estado-membro enviará à Comissão, nos três meses subsequentes ao termo de cada ano completo de execução, um relatório sobre os progressos realizados. Será igualmente enviado à Comissão um relatório final, nos seis meses seguintes à conclusão do projecto ou da fase do projecto.\n\nEsse relatório compreenderá os seguintes elementos:\n\na) Descrição dos trabalhos realizados e respectivos indicadores físicos, quantificação das despesas por categorias de trabalhos e eventuais medidas tomadas ao abrigo de cláusulas específicas da decisão de concessão da contribuição;\n\nb) Informações relativas a todas as acções de publicidade;\n\nc) Certificação da conformidade dos trabalhos com a decisão de concessão da contribuição;\n\nd) Apreciação inicial da possibilidade de alcançar os resultados esperados, como indicado no n.º 4 do artigo 13.º, que conterá designadamente:\n\n— a data efectiva de arranque do projecto,\n\n— a indicação do modo gestão do projecto após a sua conclusão,\n\n— a confimação, se for caso disso, das previsões financeiras, em especial quanto aos custos operacionais e às receitas previstas,\n\n— a confirmação das previsões socioeconómicas, designadamente em matéria de custos e benefícios previstos,\n\n— a indicação das disposições tomadas para assegurar a protecção do ambiente, e respectivo custo, incluindo a observância do princípio do poluidor-pagador.\n\n5. Com base nas indicações do acompanhamento e tendo em conta as observações do comité de acompanhamento, a Comissão adaptará, eventualmente sob proposta do Estado-membro, o volume e as condições de concessão das contribuições financeiras inicialmente aprovadas e o plano de financiamento previsto.\n\nA decisão de concessão da contribuição incluirá as regras de execução dessas adaptações, diferenciadas segundo a sua natureza e importância.\n\n6. A fim de aumentar a eficácia do fundo, a Comissão assegurar-se-á de que, na sua administração, será dada especial atenção à transparência da gestão.\n\n7. As regras de acompanhamento serão especificadas nas decisões da Comissão que aprovem os projectos."
+  },
+  "d5581a4601290697": {
+   "fragment_id": "Artigo G — Controlo",
+   "type": "artigo",
+   "heading": "Artigo G — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo G — Controlo\n\n1. Com base em acordos administrativos bilaterais, a Comissão e os Estados-Membros cooperarão para coordenar os plano, a metodologia e a realização dos controlos, a fim de maximizar o efeito útil dos controlos efectuados. A Comissão e os Estados-Membros procederão ao intercâmbio imediato dos resultados desses controlos. Pelo menos uma vez por ano, deverão ser analisados e avaliados os seguintes aspectos:\n\na) Resultados dos controlos efectuados pelo Estado-Membro e pela Comissão;\n\nb) Eventuais observações de outros órgãos ou instituições de controlo nacionais ou comunitários;\n\nc) Impacto financeiro das irregularidades verificadas, medidas já tomadas ou ainda necessárias para as corrigir e, se for caso disso, alterações dos sistemas de gestão e de controlo.\n\nApós essa análise e avaliação e sem prejuízo das medidas a tomar sem demora pelo Estado-Membro ao abrigo do artigo H, a Comissão pode formular observações, nomeadamente quanto ao impacto financeiro das irregularidades eventualmente verificaddas. Essas observações serão comunicadas ao Estado-Membro e à autoridade designada do projecto em causa, e serão, se necessário, acompanhadas de pedidos de medidas correctivas, destinadas a obviar às insuficiências de gestão e a corrigir as irregularidades detectadas que ainda não tiverem sido corrigidas. O Estado-Membro tem a possibilidade de comentar as observações.\n\nSempre que, na sequência ou na falta de comentários do Estado-Membro, a Comissão adoptar conclusões, aquele efetuará, no prazo fixado, as diligências necessárias para dar seguimento ao pedido desta e informa-la-á das medidas tomadas.\n\n2. Sem prjuízo do disposto no presente artigo, a Comissão pode suspender a totalidade ou parte de um pagamento intermédio, se verificar nas despesas em questão uma irregularidade grave. A Comissão informará o Estado-Membro em causa da acção empreendida e das suas razões.\n\n3. Salvo disposição em contrário dos acordos administrativos bilaterais e por um período de três anos subsequentes ao pagamento pela Comissão do saldo final relativo a um projecto, as autoridades responsáveis devem conservar (na forma de documentos originais ou de cópias autenticadas, em suportes de dados de aceitação generalizada) todos os elementos de prova relativos às despesas e aos controlos do projecto em causa.\n\nEsse prazo será suspenso em caso de processos judiciais ou mediante pedido fundamentado da Comissão."
+  },
+  "4d28ce5517b8778b": {
+   "fragment_id": "Artigo H",
+   "type": "artigo",
+   "heading": "Artigo H",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo H"
+  },
+  "01f5af0e58d58f73": {
+   "fragment_id": "Correcções financeiras",
+   "type": "divisao",
+   "heading": "Correcções financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Correcções financeiras\n\n1. Se, após ter procedido às verificações necessárias, a Comissão conclui que:\n\na) A execução de um projecto não justifica uma parte ou a totalidade da contribuição que lhe é concedida, nomeadamente no caso de incumprimento de uma das condições indicadas na decisão de concessão da contribuição, em especial de uma alteração importante que afecte a natureza ou as condições de execução do projecto e para a qual não tenha sido solicitada a sua aprovação; ou\n\nb) Existe uma irregularidade quanto à contribuição do Fundo e o Estado-Membro em causa não tomou as medidas correctivas necessárias,\n\nsuspenderá a contribuição referente ao projecto em causa e, mediante pedido fundamentado, solicitará ao Estado-Membro que apresente as suas observações num prazo determinado.\n\nSe o Estado-Membro contestar as observações da Comissão, esta convidá-lo-á para uma reunião na qual ambas as partes envidarão esforços para chegar a acordo relativamente às referidas observações e às conclusões a extrair delas.\n\n2. No termo do prazo fixado pela Comissão e se não se tiver chegado a acordo dentro de três meses, esta decidirá, segundo o procedimento devido e tendo em conta as eventuais observações do Estado-Membro:\n\na) Reduzir o pagamento por conta referido no n.º 2 do artigo D; ou\n\nb) Efectuar as correcções financeiras necessárias, suprimindo total ou parcialmente a contribuição concedida ao projecto.\n\nEstas decisões respeitarão o princípio da proporcionalidade. Ao fixar o montante de uma correcção, a Comissão atenderá à natureza da irregularidade ou da alteração, bem como à importância do potencial impacto financeiro das eventuais deficiências dos sistemas de gestão ou de controlo. Qualquer redução ou anulação da contribuição dará origem à devolução dos montantes pagos.\n\n3. [**►M2**](http://publications.europa.eu/resource/celex/31999R1265) Qualquer montante que dê lugar a repetição do indevido deve ser devolvido à Comissão. Esses montantes serão acrescidos de juros de mora, de acordo com regras a adoptar pela Comissão.**◄**\n\n4. A Comissão adoptará as normas de execução dos n.^os^ 1 a 3 e comunicá-las-á, para informação, aos Estados-Membros e ao Parlamento Europeu."
+  },
+  "7a212395b1a55a8e": {
+   "fragment_id": "Artigo I — Contratos públicos",
+   "type": "artigo",
+   "heading": "Artigo I — Contratos públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo I — Contratos públicos\n\nNo âmbito da aplicação das normas comunitárias sobre os contratos públicos, os anúncios enviados para publicação no *Jornal Oficial das Comunidades Europeias* especificarão as referências dos projectos em relação aos quais tenha sido solicitada ou decidida a contribuição do fundo."
+  },
+  "636ccca6e713c50f": {
+   "fragment_id": "Artigo J — Informação",
+   "type": "artigo",
+   "heading": "Artigo J — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo J — Informação\n\nAs informações que devem constar do relatório anual previsto no artigo 14.º são enumeradas no anexo ao presente anexo.\n\nCompete à Comissão organizar semestralmente uma reunião de informação com os Estados-membros.\n\n[**►M2**](http://publications.europa.eu/resource/celex/31999R1265) Nessa reunião, a Comissão informará os Estados-Membros designadamente dos temas relevantes para o relatório anual e das acções e decisões adoptadas. A Comissão enviará aos Estados-Membros a documentação adequada com antecedência suficiente em relação à reunião.**◄**"
+  },
+  "c096fa65a1b8f291": {
+   "fragment_id": "Artigo K — Revisão",
+   "type": "artigo",
+   "heading": "Artigo K — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo K — Revisão\n\nSe for necessário, à luz da experiência adquirida, o Conselho, deliberando por maioria qualificada, sob proposta da Comissão e após consulta do Parlamento Europeu, poderá alterar as disposições do presente anexo."
+  },
+  "d67eca4167a21fed": {
+   "fragment_id": "Anexo ao anexo II",
+   "type": "divisao",
+   "heading": "Anexo ao anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo ao anexo II\n\nO relatório anual incluirá informações sobre os seguintes pontos:\n\n1. Apoio financeiro autorizado e pago pelo fundo, com uma repartição anual por Estado-membro e por categoria dos projectos (ambiente e transportes);\n\n2. Impacto económico e social do Fundo nos Estados-Membros e na coesão económica e social na União, incluindo o impacto no emprego;\n\n3. Resumo dos programas postos em prática nos Estados-membros beneficiários para preencher os requisitos de convergência económica mencionados no artigo 104.ºC do Tratado e sobre a aplicação do artigo 6.º do regulamento;\n\n4. Consequências verificadas pela Comissão, à luz da suspensão do financiamento, das decisões adoptadas pelo Conselho referidas [**►M2**](http://publications.europa.eu/resource/celex/31999R1265) no artigo 6.º **◄**;\n\n5. Contribuição prestada pelo fundo ao esforço desenvolvido pelos Estados-membros beneficiários para aplicar a política comunitária do ambiente e para reforçar as redes transeuropeias de infra-estruturas de transportes; equilíbrio entre os projectos no domínio ambiental e os relativos às infra-estruturas de transportes;\n\n6. Avaliação da compatibilidade das intervenções do fundo com as políticas comunitárias, incluindo as de protecção do ambiente, transportes, concorrência e adjudicação de contratos públicos;\n\n7. Medidas destinadas a assegurar a coordenação e a coerência entre os projectos financiados pelo fundo e as medidas financiadas com base em dotações inscritas no orçamento da Comunidade, do BEI e dos restantes instrumentos financeiros comunitários;\n\n8. Esforço de investimento desenvolvido pelos Estados-membros beneficiários nos domínios da protecção do ambiente e das infra-estruturas de transportes;\n\n9. Estudos preparatórios realizados e medidas de apoio técnico financiadas, com especificação dos tipos de estudos e medidas em causa;\n\n10. Resultados do acompanhamento, da apreciação e da avaliação dos projectos, incluindo eventuais adaptações dos projectos efectuadas em função desses resultados;\n\n11. Contribuição do BEI para a avaliação dos projectos;\n\n12. Resumo dos resultados dos controlos efectuados, irregularidades detectadas e procedimentos administrativos e judiciais em curso.\n\n---"
+  },
+  "d004eac44156aba5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#src.E0001)) JO n.º C 39 de 9. 2. 1994, p. 6.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#src.E0002)) Parecer favorável emitido em 5 de Maio de 1994 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#src.E0003)) JO n.º C 133 de 16. 5. 1994.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#src.E0004)) Parecer emitido em 5 de Abril de 1994 (ainda não publicado no Jornal Oficial).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#src.E0005)) JO L 209 de 2.8.1997, p. 6.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#src.E0006)) JO n.º C 138 de 17. 5. 1993, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#src.E0007)) JO n.º L 374 de 31. 12. 1988, p. 1. Regulamento alterado pelo Regulamento (CEE) n.º 2082/93 (JO n.º L 193 de 31. 7. 1993, p. 20).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#src.E0008)) JO C 236 de 2.8.1997, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#src.E0009)) JO n.º L 79 de 1. 4. 1993, p. 74.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#src.E0010)) JO L 209 de 2.8.1997, p. 2.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#src.E0011)) JO L 228 de 9.9.1996, p. 1\n\n> ([^12^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#src.E0012)) JO L 161 de 26.6.1999, p. 73; alterado.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/e8c61be3-ee9f-47b2-8852-2207d1447934.0017.03/DOC_1#src.E0013)) JO L 248 de 16.9.2002, p. 1."
+  },
+  "26939a33f0875ce1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1994R1164 — PT — 01.01.2007 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31994R1164) [REGULAMENTO (CE) N.º 1164/94 DO CONSELHO](http://publications.europa.eu/resource/celex/31994R1164) [de 16 de Maio de 1994](http://publications.europa.eu/resource/celex/31994R1164) [que institui o Fundo de Coesão](http://publications.europa.eu/resource/celex/31994R1164) (JO L 130, 25.5.1994, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1084/2006 do Conselho de 11 de Julho de 2006](http://publications.europa.eu/resource/celex/32006R1084) — L 210 — 79 — 31.7.2006"
+  }
+ }
+}

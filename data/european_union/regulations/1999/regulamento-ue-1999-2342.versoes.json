@@ -1,0 +1,606 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999R2342:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R2342-20041106",
+ "dre_path": null,
+ "source_lastmod": "2004-11-06",
+ "versions": [
+  {
+   "date": "1999-11-04",
+   "future": false,
+   "celex": "31999R2342",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2b60310d6abc1e95",
+    "22078f8900dc1283",
+    "3891350acbc72d09",
+    "52c8c866ed912111",
+    "cb906c5c945979dd",
+    "a2a2ab067d8a5b69",
+    "3b4feee7f9e59149",
+    "d9a7d3d5500c4359",
+    "ae4f9cd5e5a2741a",
+    "d0b82ce44bd14e0e",
+    "ed3b21a03160c029",
+    "63e9fc8e079ec726",
+    "837e229ea7f3bb6e",
+    "2f134586f09eb3d7",
+    "0ed71e02d97052d5",
+    "086827b1cc57905c",
+    "31a8b90a7d0a68ff",
+    "dce30893d767c816",
+    "b7985f0b441fb190",
+    "52c8c866ed912111",
+    "3984675123e3a539",
+    "2ab4cd43f65c48f3",
+    "c62b45fc090986b4",
+    "4ffbd0721dfe6108",
+    "ff126618d63509bc",
+    "b22011bf6c96949d",
+    "a4244a757112c64f",
+    "c32971c0c10ffcb4",
+    "43c138298c2b786b",
+    "945634fa823ca7d7",
+    "5229bcc2114541e0",
+    "b36856e5cbae0764",
+    "c284ab8b0c134c7e",
+    "3a04d0e23343c65d",
+    "eea92b878e8d9baa",
+    "44ff36d8fb7c3054",
+    "daa55115af2b44d9",
+    "8884ccf936f7ad42",
+    "96c8fea71d235cd1",
+    "fb535e05fc35ff0d",
+    "0236eee336db97f3",
+    "af39bf2000a6814e",
+    "f7968a436f666b2e",
+    "80f85b8359f9d764",
+    "8e6921c64f02ff8b",
+    "5b325e3beffbe4de",
+    "c2a414c2083729b9",
+    "733a1688b043c616",
+    "618c6b1c1ae4e37f",
+    "95203303042e502d",
+    "20c686fc1a3806ae",
+    "86590fd3cc515676",
+    "4d1f2be7e80497a4",
+    "aaff7aa0018022d7",
+    "9c112e707ff9bcfb",
+    "c8d5f5b6b32e2935",
+    "bfaf38ba5c9fac1c",
+    "f117f5ccfbe9b85f",
+    "d807bf45ef8cc2e7",
+    "308b93c98201f4c4",
+    "8557adc47ff8ea76",
+    "d320fd7eee10b53a",
+    "5a361853c9d95148",
+    "f1e045437a6bed47",
+    "9f0e9c6175242b3f",
+    "8ebec1def140fa70"
+   ]
+  }
+ ],
+ "fragments": {
+  "2b60310d6abc1e95": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n° 2342/1999 da Comissão, de 28 de Outubro de 1999, que estabelece normas de execução do Regulamento (CE) n° 1254/1999 do Conselho, que estabelece a organização comum de mercado no sector da carne de bovino, no que respeita ao regime de prémios** *Jornal Oficial nº L 281 de 04/11/1999 p. 0030 - 0052*\n\nREGULAMENTO (CE) N.o 2342/1999 DA COMISSÃO\n\nde 28 de Outubro de 1999\n\nque estabelece normas de execução do Regulamento (CE) n.o 1254/1999 do Conselho, que estabelece a organização comum de mercado no sector da carne de bovino, no que respeita ao regime de prémios\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.o 1254/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum de mercado no sector da carne de bovino(1), e, nomeadamente, o n.o 8 do seu artigo 4.o, o n.o 5 do seu artigo 5.o, o n.o 7 do seu artigo 6.o, o n.o 5 do seu artigo 7.o, o n.o 4 do seu artigo 8.o, o n.o 4 do seu artigo 9.o, o n.o 3 do seu artigo 10.o, o n.o 5 do seu artigo 11.o, o n.o 3 do seu artigo 12.o, o n.o 5 do seu artigo 13.o, o seu artigo 20.o, o n.o 3 do seu artigo 23.o e o seu artigo 50.o,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.o 1254/1999 criou um novo regime de prémios que substitui o regime de prémios previsto pelo Regulamento (CEE) n.o 805/68 do Conselho(2). A fim de ter em conta o novo regime, é necessário alterar o Regulamento (CEE) n.o 3886/92 da Comissão, de 23 de Dezembro de 1992, que estabelece normas de execução dos regimes de execução dos regimes de prémios previstos no Regulamento (CEE) n.o 805/68 do Conselho que estabelece a organização comum do mercado no sector da carne de bovino, e revoga os Regulamentos (CEE) n.o 1244/82 e (CEE) n.o 714/89(3), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1410/1999(4), sendo conveniente por ocasião de tal alteração e por razões de certeza jurídica proceder à reforma do Regulamento (CEE) n.o 3886/92;\n\n(2) Os regimes de prémios e pagamentos referidos nos artigos 3.o a 25.o do Regulamento (CE) n.o 1254/1999 devem entrar no domínio de aplicação do Regulamento (CEE) n.o 3508/92 do Conselho, de 27 de Novembro de 1992, que estabelece um sistema integrado de gestão e de controlo relativo a determinados regimes de ajudas comunitários(5) (adiante referenciado por \"sistema integrado\"), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1036/1999(6); é, por conseguinte, conveniente limitar as disposições do presente regulamento às questões ainda não resolvidas de modo horizontal no âmbito do referido sistema integrado;\n\n(3) Decorre dos objectivos do limite máximo regional e do factor de densidade que os animais afectados pela aplicação dessas duas medidas já não poderão ser objecto de um pedido de prémio especial com relação à mesma classe etária; no que se refere ao prémio à dessazonalização, os animais em questão devem ser considerados como tendo sido admitidos ao benefício do prémio especial;\n\n(4) O n.o 3, alínea b), do artigo 4.o do Regulamento (CE) n.o 1254/1999 estabelece que cada bovino macho deve dispor, até ao abate ou exportação, do passaporte previsto no Regulamento (CE) n.o 820/97 do Conselho, de 21 de Abril de 1997, que estabelece um regime de identificação e registo de bovinos e relativo à rotulagem da carne de bovino e dos produtos à base de carne de bovino(7), ou de um documento administrativo equivalente; é necessário prever que tal documento administrativo seja concebido e fixado a nível nacional; para atender às condições específicas de gestão e controlo que vigoram nos Estados-Membros, justifica-se a aceitação de diferentes formas de documentos administrativos;\n\n(5) O n.o 3 do artigo 4.o do Regulamento (CE) n.o 1254/1999 estabelece um período de retenção como condição para a concessão do prémio especial; é, portanto, necessário definir e quantificar esse período;\n\n(6) É desejável que as regras de concessão do prémio especial aquando do abate sejam coerentes com as regras de concessão do prémio ao abate; deve ser especificado que tipo de documentos deve acompanhar o animal até ao abate, expedição ou exportação; para atender às especificidades do modo de concessão no abate, devem ser especificadas as condições etárias aplicáveis aos bois e o tipo de apresentação da carcaça dos bovinos adultos;\n\n(7) As condições de concessão do prémio à dessazonalização devem ser especificadas de forma coerente com as regras de concessão do prémio ao abate; é conveniente que por decisão da Comissão sejam determinados, em função das informações disponíveis, os Estados-Membros que preenchem as condições de aplicação desse regime de prémio;\n\n(8) A noção de \"vaca em aleitamento\" deve ser precisada em conformidade com o n.o 7 do artigo 6.o do Regulamento (CE) n.o 1254/1999; para o efeito, haverá que considerar as mesmas raças já consideradas no regime anterior; por outro lado, as regras de gestão em vigor no regime anterior podem continuar a ser aplicadas no essencial, nomeadamente no que se refere ao rendimento leiteiro médio e ao prémio nacional complementar;\n\n(9) Tendo em vista a aplicação prática do regime de limites máximos individuais, é necessário estabelecer as regras de fixação e de comunicação desses limites aos produtores; para reforçar o efeito regulador do regime no mercado, é conveniente prever a transferência para a reserva nacional dos direitos ao prémio que não tenham sido utilizados pelo titular durante um período determinado; haverá igualmente que tomar as medidas adequadas para assegurar que os direitos atribuídos gratuitamente pela reserva nacional sejam utilizados pelos beneficiários estritamente para os fins previstos;\n\n(10) É conveniente encorajar a mobilização dos direitos ao prémio e a sua disponibilização aos produtores que deles tirem de facto partido; nesse sentido, é necessário fixar uma percentagem mínima de utilização dos direitos ao prémio; importa que essa percentagem seja suficiente para evitar a subutilização dos direitos disponíveis em certos Estados-Membros, situação que pode causar problemas aos produtores prioritários requerentes de direitos por intermédio da reserva nacional; nestas circunstâncias, é conveniente permitir aos Estados-Membros aumentar a percentagem mínima de utilização dos direitos, que não poderá, porém, exceder 90 %;\n\n(11) Os artigos 22.o e 23.o do Regulamento (CE) n.o 1257/1999 do Conselho, de 17 de Maio de 1999, relativo ao apoio do Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA) ao desenvolvimento rural(8), criam programas de extensificação; é conveniente prever a suspensão, durante todo o período de participação nos referidos programas, da utilização dos direitos ao prémio por vaca em aleitamento desse modo liberados; todavia, é conveniente permitir, a título excepcional, a utilização dos direitos liberados para satisfazer necessidades de direitos a prémio no quadro de outras acções agro-ambientais; um dos objectivos do regime de reforma antecipada criado pelo artigo 10.o do referido regulamento é favorecer a substituição dos agricultores de idade mais avançada por agricultores capazes de melhorar a viabilidade económica das explorações restantes; é de temer que alguns agricultores não participem nos programas de reforma antecipada se daí puder advir a perda, a prazo, dos seus direitos ao prémio por vaca em aleitamento; é, pois, conveniente que os Estados-Membros possam prever uma prorrogação da duração total da cessão temporária em função dos referidos programas;\n\n(12) A execução uniforme das disposições relativas à transferência e à cessão temporária de direitos exige a definição de certas regras administrativas; para evitar sobrecargas de trabalho administrativo, os Estados-Membros devem poder fixar um número mínimo de direitos susceptível de ser transferido e cedido; as referidas regras devem igualmente evitar que seja desrespeitada a obrigação, prevista no n.o 1 do artigo 8.o do Regulamento (CE) n.o 1254/1999, de ceder uma parte dos direitos transferidos à reserva nacional em cada transferência de direitos sem transferência de exploração; acresce a necessidade de prever que a cessão temporária seja limitada no tempo, a fim de evitar desvios às regras de transferência;\n\n(13) É conveniente prever uma certa flexibilidade nos prazos administrativos fixados para a transferência de direitos, no caso dos produtores que apresentem provas de terem sucedido em direitos de um produtor falecido;\n\n(14) É conveniente equiparar a uma transferência de exploração o caso especial do produtor que apenas explora terrenos de natureza pública ou colectiva e transfere todos os seus direitos para outro produtor, cessando a sua produção;\n\n(15) A aplicação de um sistema administrativo de transferência no âmbito do qual todas as transferências de direitos sem transferência de exploração e as cessões temporárias sejam operadas exclusivamente por intermédio da reserva nacional requer um determinado enquadramento jurídico, que assegure a coerência económica em relação ao sistema da transferência directa de direitos entre produtores; é, nomeadamente, conveniente prever critérios objectivos para a fixação do montante a pagar pela reserva nacional ao produtor que transfere direitos, bem como do montante a pagar pelo produtor que recebe direitos equivalentes a partir da reserva nacional;\n\n(16) O artigo 10.o do Regulamento (CE) n.o 1254/1999 prevê, para os Estados-Membros que respeitem as condições especificadas nesse mesmo artigo, um regime específico opcional, para as novilhas, de gestão da concessão do prémio por vaca em aleitamento; é conveniente que por decisão da Comissão sejam determinados, com base nas informações disponíveis, os Estados-Membros que preenchem as condições de aplicação desse regime específico; é conveniente definir regras específicas de concessão do prémio; em conformidade com o objectivo geral do prémio por vaca em aleitamento, este deve ser pago aos criadores cujos efectivos de novilhas se destinem à renovação de efectivos de vacas e não à produção de novilhas para abate; nesse sentido, os Estados-Membros devem estabelecer critérios, que poderão incluir limites etários ou condições raciais;\n\n(17) É necessário estabelecer o modo de cálculo do factor de densidade; para simplificar a aplicação prática desse factor, é necessário definir uma data para a determinação da quantidade de referência de leite;\n\n(18) O pagamento por extensificação é efectuado sob condição do respeito de um ou dois factores de densidade máximos, à escolha do Estado-Membro; o factor de densidade no âmbito do regime de pagamento por extensificação deve ter em conta, nomeadamente, todos os bovinos com pelo menos seis meses de idade presentes na exploração; essa contabilização necessita de regras específicas de contagem dos animais e de declaração pelo produtor da sua participação no regime; a gestão do regime pode ser grandemente facilitada pelo recurso à base de dados informatizada referida no Regulamento (CE) n.o 820/97; é, portanto, conveniente prever a utilização dessa base, desde que o Estado-Membro considere que a sua base de dados oferece garantias suficientes de exactidão dos dados relativos ao pagamento por extensificação;\n\n(19) Existe o risco de que os produtores respeitem artificialmente as taxas de encabeçamento médias exigidas para a concessão do pagamento por extensificação com base, nomeadamente, em taxas de encabeçamento anormalmente baixas durante uma parte do ano; é conveniente zelar, em especial, por que o pagamento por extensificação não seja concedido a esses produtores; para o efeito, e numa perspectiva de clarificação, afigura-se útil precisar que a situação descrita se insere no âmbito do artigo 7.o do Regulamento (CE) n.o 1259/1999 do Conselho, de 17 de Maio de 1999, que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum(9) e que os Estados-Membros devem, portanto, tomar as disposições necessárias para aplicar o referido artigo no quadro do regime de pagamento por extensificação;\n\n(20) Numa perspectiva de simplificação aplicável às explorações mais extensivas, afigura-se adequado prever um regime simplificado opcional para a concessão do pagamento por extensificação;\n\n(21) O n.o 4 do artigo 13.o do Regulamento (CE) n.o 1254/1999 prevê, para os Estados-Membros que respeitem as condições especificadas nesse mesmo artigo, um regime específico de pagamento por extensificação para as vacas leiteiras; é conveniente estabelecer o processo de decisão com base no qual será determinado, em função das informações disponíveis, que Estados-Membros preenchem as condições de aplicação desse regime específico; é conveniente definir regras específicas de concessão desse pagamento; numa perspectiva de coerência com o regime geral de pagamento por extensificação, e a fim de estabelecer com precisão o número de vacas leiteiras elegíveis, é necessário fixar, designadamente, um período de retenção mínimo para as vacas leiteiras;\n\n(22) A aplicação de determinadas disposições do Regulamento (CEE, Euratom) n.o 1182/71 do Conselho, de 3 de Junho de 1971, relativo à determinação das regras aplicáveis aos prazos, às datas e aos termos(10) implicaria o prolongamento artificial em um ou mais dias dos períodos de retenção expressos em meses; é, portanto, conveniente prever disposições específicas sobre a matéria;\n\n(23) O prémio ao abate deve, normalmente, ser objecto de um pedido; por razões de simplificação da gestão, o pedido deve ser constituído pelo pedido de ajuda a animais previsto no sistema integrado, desde que comporte todos os elementos necessários para justificar o pagamento do prémio e que o animal seja abatido no mesmo Estado-Membro ou noutro Estado-Membro ou em caso de exportação;\n\n(24) Nos termos do Regulamento (CE) n.o 820/97, os Estados-Membros devem dispor, a partir de 31 de Dezembro de 1999, de uma base de dados informatizada totalmente operacional; a existência dessa base de dados deve poder ser aproveitada para, designadamente, facilitar a gestão do prémio ao abate, desde que o Estado-Membro considere que a sua base de dados oferece garantias suficientes de exactidão dos dados relativos ao pagamento dos prémios;\n\n(25) O prémio ao abate relativo aos vitelos obedece a critérios de peso máximo; é, portanto, necessário, especificar a apresentação-tipo da carcaça à qual o peso máximo será aplicado;\n\n(26) O n.o 1 do artigo 11.o do Regulamento (CE) n.o 1254/1999 estabelece um período de retenção como condição para a concessão do prémio ao abate; é, portanto, necessário definir e quantificar esse período;\n\n(27) Os pagamentos complementares devem ser objecto da comunicação de informações pormenorizadas à Comissão no respeitante às regras nacionais e à sua execução;\n\n(28) Para possibilitar que os criadores beneficiem dos pagamentos sem atrasos, deve ser prevista a concessão de adiantamentos; é, porém, necessário evitar que, tendo em conta a aplicação de limites máximos nacionais ou regionais, o adiantamento seja superior ao pagamento definitivo; é, portanto, conveniente prever a possibilidade de os Estados-Membros diminuírem a percentagem do adiantamento no caso dos regimes de prémios sujeitos a tais limites;\n\n(29) O Regulamento (CE) n.o 1254/1999 prevê sanções em caso de utilização ou detenção ilegal de substâncias ou produtos não permitidos pela regulamentação veterinária; em caso de reincidência, é conveniente permitir que a duração das sanções seja determinada pelos Estados-Membros, que se encontram em melhor posição para apreciar da gravidade real da infracção cometida;\n\n(30) Os regimes de prémios especiais e à vaca em aleitamento utilizam o ano civil como período de referência; é, pois, necessário fixar a data que determina a imputação dos elementos a ter em conta para a aplicação desses regimes; para o efeito, e para assegurar uma gestão eficaz e coerente, é conveniente escolher, em geral, a data de apresentação do pedido; todavia, no que respeita ao prémio especial pago no abate, é conveniente prever regras específicas que evitem a transferência de um ano para outro para obtenção de um montante de prémio superior; no caso do prémio ao abate, a data de abate ou de exportação é mais representativa da realidade das operações;\n\n(31) A taxa de câmbio na data do facto gerador para as ajudas, prémios e montantes referidos no artigo 5.o do Regulamento (CE) n.o 2799/98 do Conselho, de 15 de Dezembro de 1998, que estabelece o regime agrimonetário do euro(11) é definida como a taxa de um único dia; é conveniente estabelecer a taxa aplicável na data do facto gerador de modo a assegurar que, em princípio, essas ajudas, prémios e montantes, convertidos em moeda nacional, não sofram oscilações bruscas causadas pela taxa de câmbio de um único dia; para o efeito, a solução indicada parece ser a utilização de uma média, calculada pro rata temporis, das taxas de câmbio aplicáveis durante o mês anterior ao ano de imputação;\n\n(32) Para efeitos de acompanhamento das medidas tomadas no âmbito da reforma dos regimes de prémios no sector da carne de bovino, a Comissão tem necessidade de se manter plenamente informada das medidas de execução adoptadas pelos Estados-Membros, bem como dos resultados quantitativos da aplicação dos referidos regimes; justifica-se, assim, que sejam previstas determinadas obrigações de comunicação por parte dos Estados-Membros; a fim de facilitar a transmissão e a análise dos dados, é conveniente prescrever a sua apresentação harmonizada;\n\n(33) A fim de facilitar a passagem ao novo regime, são necessárias disposições transitórias no que se refere às regras de comunicação e às obrigações de marcação e identificação dos animais;\n\n(34) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão da Carne de Bovino,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "22078f8900dc1283": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece as normas de execução dos regimes de prémios e pagamentos previstos nos artigos 3.o a 25.o do Regulamento (CE) n.o 1254/1999."
+  },
+  "3891350acbc72d09": {
+   "fragment_id": "CAPÍTULO I — PRÉMIO ESPECIAL",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — PRÉMIO ESPECIAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — PRÉMIO ESPECIAL\n\n[artigo 4.o do Regulamento (CE) n.o 1254/1999]"
+  },
+  "52c8c866ed912111": {
+   "fragment_id": "Secção 1 — Regime geral",
+   "type": "divisao",
+   "heading": "Secção 1 — Regime geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 1 — Regime geral"
+  },
+  "cb906c5c945979dd": {
+   "fragment_id": "Artigo 2.º — Pedido",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pedido\n\n1. Para além dos requisitos do sistema integrado de gestão e de controlo previsto pelo Regulamento (CEE) n.o 3508/92 (sistema integrado), o pedido de ajuda \"animais\" referido no n.o 8 do artigo 6.o do referido regulamento (pedido) incluirá:\n\na) A discriminação do número de animais por classe etária;\n\nb) As referências aos passaportes ou aos documentos administrativos que acompanham os animais que são objecto do pedido.\n\n2. Só podem ser objecto de pedidos os animais que, na data de início do período de retenção:\n\na) no caso dos touros, tenham pelo menos sete meses;\n\nou\n\nb) no caso dos bois, tenham entre sete e 19 meses (primeira classe etária) ou pelo menos 20 meses (segunda classe etária)."
+  },
+  "a2a2ab067d8a5b69": {
+   "fragment_id": "Artigo 3.º — Concessão do prémio",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Concessão do prémio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Concessão do prémio\n\nOs animais que não sejam admitidos ao benefício do prémio, quer por aplicação da redução proporcional referida no n.o 4 do artigo 4.o do Regulamento (CE) n.o 1254/1999, quer devido à aplicação do factor de densidade referido no artigo 12.o do mesmo regulamento, não podem voltar a ser objecto de um pedido com relação à mesma classe etária, sendo considerados como tendo recebido o prémio."
+  },
+  "3b4feee7f9e59149": {
+   "fragment_id": "Artigo 4.º — Passaportes e documentos administrativos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Passaportes e documentos administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Passaportes e documentos administrativos\n\n1. Se, nos termos do artigo 6.o do Regulamento (CE) n.o 820/97, o passaporte não estiver disponível, será substituído por um documento administrativo nacional, conforme previsto no n.o 3, alínea b), do artigo 4.o do Regulamento (CE) n.o 1254/1999.\n\n2. As autoridades competentes do Estado-Membro zelarão por que o passaporte ou o documento administrativo permitam garantir que não é atribuído mais do que um prémio por animal e classe etária.\n\nOs Estados-Membros prestar-se-ão a assistência mútua necessária para o efeito.\n\n3. Os Estados-Membros podem determinar que o documento administrativo nacional seja constituído:\n\na) Por um documento individual de acompanhamento de cada animal;\n\nb) Por uma lista global, mantida pelo produtor, que inclua todos os dados previstos para o documento administrativo, na condição de os animais em causa permanecerem na exploração desse mesmo produtor desde a apresentação do primeiro pedido até à sua colocação no mercado com vista ao abate;\n\nc) Por uma lista global, mantida pela autoridade central, que inclua todos os dados previstos para o documento administrativo, desde que o Estado-Membro ou a região de Estado-Membro que recorra a esta possibilidade efectue um controlo in loco de todos os animais objecto de pedidos, exerça um controlo sobre as movimentações desses animais e proceda a uma marcação irrefutável de cada animal sujeito a controlo, acções a que estão sujeitos os produtores;\n\nd) Por uma lista global, mantida pela autoridade central, que inclua todos os dados previstos para o documento administrativo, desde que o Estado-Membro tome as medidas necessárias para evitar a dupla concessão do prémio com relação à mesma classe etária e possa fornecer de imediato o estatuto do animal no respeitante ao prémio mediante simples solicitação.\n\nOs Estados-Membros que decidam recorrer a uma ou mais destas possibilidades informarão atempadamente do facto a Comissão e comunicar-lhe-ão as respectivas disposições de aplicação.\n\nPara efeitos da alínea c), apenas a Grã-Bretanha e a Irlanda do Norte são consideradas \"regiões de Estado-Membro\"."
+  },
+  "d9a7d3d5500c4359": {
+   "fragment_id": "Artigo 5.º — Período de retenção",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Período de retenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Período de retenção\n\nA duração do período de retenção é de dois meses a contar do dia seguinte ao da apresentação do pedido.\n\nTodavia, os Estados-Membros podem prever a possibilidade de o produtor estabelecer outras datas iniciais, desde que não ultrapassem dois meses após a data de apresentação do pedido."
+  },
+  "ae4f9cd5e5a2741a": {
+   "fragment_id": "Artigo 6.º — Limite máximo regional",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Limite máximo regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Limite máximo regional\n\n1. Se a aplicação da redução proporcional conduzir a um número não-inteiro de animais elegíveis, será concedida, pela parte decimal, uma fracção correspondente do montante unitário do prémio. Para o efeito, só será tida em conta a primeira casa decimal.\n\n2. Se os Estados-Membros decidirem introduzir regiões distintas ou modificar as regiões existentes no interior do território respectivo, nos termos da alínea c) do artigo 3.o do Regulamento (CE) n.o 1254/1999, informarão desse facto a Comissão antes do dia 1 de Janeiro do ano em causa, estabelecendo uma definição da região e indicando o limite máximo afectado. As alterações posteriores devem ser levadas ao conhecimento da Comissão antes do dia 1 de Janeiro do ano em causa."
+  },
+  "d0b82ce44bd14e0e": {
+   "fragment_id": "Artigo 7.º — Limites impostos ao número de animais por exploração",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Limites impostos ao número de animais por exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Limites impostos ao número de animais por exploração\n\n1. Sempre que um Estado-Membro alterar ou estabelecer uma derrogação do limite de 90 animais por exploração e classe etária, informará desse facto a Comissão antes do dia 1 de Janeiro do ano civil em causa.\n\nSempre que um Estado-Membro estabelecer um número mínimo de animais por exploração, abaixo do qual não é aplicada a redução proporcional, informará desse facto a Comissão antes do dia 1 de Janeiro do ano civil em causa.\n\n2. As alterações posteriores para efeitos do n.o 1 devem ser levadas ao conhecimento da Comissão antes do dia 1 de Janeiro do ano em causa."
+  },
+  "ed3b21a03160c029": {
+   "fragment_id": "Secção 2 — Concessão do prémio ao abate",
+   "type": "divisao",
+   "heading": "Secção 2 — Concessão do prémio ao abate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 2 — Concessão do prémio ao abate"
+  },
+  "63e9fc8e079ec726": {
+   "fragment_id": "Artigo 8.º — Modo de concessão",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Modo de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Modo de concessão\n\n1. Os Estados-Membros podem conceder o prémio especial ao abate com relação à classe etária única, no caso dos touros, ou à primeira ou à segunda classes etárias, no caso dos bois, ou por concessão grupada, com relação às duas classes etárias em conjunto.\n\n2. Os Estados-Membros que tenham decidido aplicar o sistema previsto no n.o 1 devem estabelecer que o prémio é igualmente concedido aquando da expedição de animais elegíveis para outro Estado-Membro ou aquando da sua exportação para um país terceiro.\n\n3. Em caso de aplicação do sistema previsto nos n.os 1 e 2, a concessão do prémio fica sujeita à observância das disposições da presente secção e à aplicação, mutatis mutandis, do artigo 34.o e dos n.os 1 e 2 do artigo 35.o\n\n4. Além das indicações previstas no n.o 1 do artigo 35.o, o pedido de ajuda deve precisar se o animal é um touro ou um boi e ser acompanhado de um documento em que figurem as indicações previstas nos termos do n.o 2 do artigo 4.o Esse documento será, ao critério do Estado-Membro:\n\na) O passaporte ou, se o modelo utilizado compreender vários exemplares, um exemplar do passaporte;\n\nou\n\nb) Uma cópia do passaporte, se o modelo de passaporte utilizado for constituído por um exemplar único que deva ser restituído à autoridade competente para aplicação do artigo 6.o do Regulamento (CE) n.o 820/97; nesse caso, o Estado-Membro tomará medidas que lhe permitam certificar-se de que os dados constantes da cópia são conformes com o original;\n\nou\n\nc) O documento administrativo nacional, se o passaporte não estiver disponível, nos termos do artigo 6.o do Regulamento (CE) n.o 820/97.\n\nOs Estados-Membros podem, todavia, suspender a aplicação do documento administrativo nacional. Nesse caso, tomarão as medidas necessárias para evitar a dupla concessão do prémio com relação à mesma classe etária relativamente a animais que tenham sido objecto de uma transacção intracomunitária.\n\nSempre que o Estado-Membro dispuser de uma base de dados conforme com a alínea b) do artigo 3.o do Regulamento (CE) n.o 820/97 e considerar que contém os dados necessários para assegurar que só é concedido um prémio por animal e classe etária, o pedido de ajuda não necessita de ser acompanhado do documento referido no primeiro parágrafo.\n\nEm derrogação do primeiro parágrafo, se o Estado-Membro aplicar a opção prevista no primeiro parágrafo do n.o 2 do artigo 35.o, tomará as medidas necessárias para que o produtor possa definir para que animais solicita o prémio especial.\n\n5. No caso dos touros, a prova de abate deve precisar o peso-carcaça.\n\n6. Em caso de expedição, constituirá prova de expedição a declaração do expedidor em que seja indicado, designadamente, o Estado-Membro de destino do animal.\n\nNesse caso, o pedido de ajuda incluirá:\n\na) O nome e endereço do expedidor (ou um código equivalente);\n\nb) O número de identificação do animal;\n\nc) A declaração de que o animal atingiu, pelo menos, a idade de nove meses.\n\nO pedido de ajuda será apresentado antes da saída do território do Estado-Membro em causa e a prova de expedição será apresentada no prazo de três meses a contar da saída do território do Estado-Membro em causa."
+  },
+  "837e229ea7f3bb6e": {
+   "fragment_id": "Artigo 9.º — Particularidades do sistema de concessão",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Particularidades do sistema de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Particularidades do sistema de concessão\n\n1. Em derrogação do artigo 5.o, o prémio será pago ao produtor que tenha sido detentor do animal durante um período de retenção mínimo de dois meses cujo termo tenha tido lugar menos de um mês antes do abate, da expedição ou da exportação.\n\nNo caso dos bois o pagamento do prémio está sujeito às seguintes regras:\n\na) O pagamento pela primeira classe etária só pode ser efectuado se o produtor tiver sido detentor do animal durante um período mínimo de dois meses, compreendido entre as idades mínima de sete meses e máxima de 22 meses (exclusive);\n\nb) O pagamento pela segunda classe etária só pode ser efectuado se o produtor tiver sido detentor do animal, de idade não inferior a 20 meses, durante um período mínimo de dois meses;\n\nc) Os pagamentos pelas duas classes etárias só podem ser efectuados em conjunto se o produtor tiver sido detentor do animal durante um período mínimo de quatro meses consecutivos, no respeito das condições etárias referidas nas alíneas a) e b);\n\nd) Se o animal tiver sido expedido de outro Estado-Membro depois de já ter atingido os 19 meses de idade, só pode ser efectuado o pagamento pela segunda classe etária.\n\n2. No âmbito do cálculo do factor de densidade referido no artigo 12.o do Regulamento (CE) n.o 1254/1999, cada animal objecto de um pedido grupado com relação à duas classes etárias será tido em conta duas vezes.\n\n3. O peso-carcaça é estabelecido com base numa carcaça que satisfaça os requisitos definidos no artigo 2.o do Regulamento (CEE) n.o 1208/81 do Conselho(12).\n\nSe a apresentação da carcaça for diferente da indicada na referida definição, são aplicáveis os coeficientes de correcção constantes do anexo do Regulamento (CEE) n.o 563/82 da Comissão(13).\n\nSe o abate for efectuado em matadouro não sujeito à aplicação da grelha comunitária de classificação das carcaças de bovinos adultos, o Estado-Membro pode admitir que o peso seja estabelecido com base no peso-vivo do animal abatido. Nesse caso, o peso-carcaça é considerado igual ou superior a 185 quilogramas se o peso-vivo do animal tiver sido igual ou superior a 340 quilogramas."
+  },
+  "2f134586f09eb3d7": {
+   "fragment_id": "Artigo 10.º — Comunicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comunicação\n\nOs Estados-Membros comunicarão à Comissão, antes do início do ano civil em causa, a sua decisão de aplicar o sistema de concessão previsto na presente secção e as regras respectivas."
+  },
+  "0ed71e02d97052d5": {
+   "fragment_id": "CAPÍTULO II — PRÉMIO À DESSAZONALIZAÇÃO",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — PRÉMIO À DESSAZONALIZAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — PRÉMIO À DESSAZONALIZAÇÃO\n\n[artigo 5.o do Regulamento (CE) n.o 1254/1999]"
+  },
+  "086827b1cc57905c": {
+   "fragment_id": "Artigo 11.º — Aplicação do prémio",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Aplicação do prémio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aplicação do prémio\n\nO mais tardar no dia 1 de Agosto de cada ano civil, a Comissão decidirá em que Estados-Membros pode o prémio à dessazonalização ser concedido com relação ao ano civil seguinte.\n\nOs Estados-Membros informarão a Comissão antes do dia 1 de Janeiro do ano civil de concessão do prémio da sua decisão de aplicar o n.o 3 do artigo 5.o do Regulamento (CE) n.o 1254/1999."
+  },
+  "31a8b90a7d0a68ff": {
+   "fragment_id": "Artigo 12.º — Direito ao prémio",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Direito ao prémio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direito ao prémio\n\n1. O prémio só pode ser concedido em relação aos bois que já tenham beneficiado do prémio especial - ou que sejam considerados como dele tendo beneficiado nos termos do artigo 3.o - num Estado-Membro que aplique o prémio à dessazonalização e que sejam abatidos num Estado-Membro que aplique o prémio à dessazonalização.\n\n2. Só pode beneficiar do prémio o último produtor a ter a posse do animal antes do abate."
+  },
+  "dce30893d767c816": {
+   "fragment_id": "Artigo 13.º — Pedido",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pedido\n\n1. O produtor apresentará o seu pedido à autoridade competente do Estado-Membro em cujo território se situe a sua exploração.\n\n2. O pedido é constituído nos termos do n.o 4 do artigo 8.o e do artigo 35.o, aplicadas mutatis mutandis.\n\nOs Estados-Membros tomarão as medidas necessárias para se certificarem de que a concessão do prémio especial teve lugar e procederão a um controlo regular e sem aviso prévio da exactidão dos certificados referidos no artigo 35.o"
+  },
+  "b7985f0b441fb190": {
+   "fragment_id": "CAPÍTULO III — PRÉMIO POR VACA EM ALEITAMENTO",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — PRÉMIO POR VACA EM ALEITAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — PRÉMIO POR VACA EM ALEITAMENTO\n\n[artigos 6.o a 10.o do Regulamento (CE) n.o 1254/1999]"
+  },
+  "3984675123e3a539": {
+   "fragment_id": "Artigo 14.º — Vacas de orientação \"carne\"",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Vacas de orientação \"carne\"",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Vacas de orientação \"carne\"\n\nNão são consideradas como pertencendo a uma raça de orientação \"carne\", nos termos da alínea f) do artigo 3.o e do n.o 2 do artigo 10.o do Regulamento (CE) n.o 1254/1999, as vacas pertencentes às raças bovinas indicadas no anexo I do presente regulamento."
+  },
+  "2ab4cd43f65c48f3": {
+   "fragment_id": "Artigo 15.º — Quantidade de referência individual máxima",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Quantidade de referência individual máxima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Quantidade de referência individual máxima\n\n1. Sempre que um Estado-Membro alterar ou estabelecer uma derrogação do limite máximo de 120000 quilogramas fixado para a quantidade de referência individual e referido no n.o 2, alínea b), do artigo 6.o do Regulamento (CE) n.o 1254/1999, informará desse facto a Comissão antes do dia 1 de Janeiro do ano civil em causa.\n\n2. As alterações posteriores para efeitos do n.o 1 devem ser levadas ao conhecimento da Comissão antes do dia 1 de Janeiro do ano em causa."
+  },
+  "c62b45fc090986b4": {
+   "fragment_id": "Artigo 16.º — Período de retenção",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Período de retenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Período de retenção\n\nO período de retenção de seis meses a que se refere o n.o 2 do artigo 6.o do Regulamento (CE) n.o 1254/1999 começa no dia seguinte ao da apresentação do pedido."
+  },
+  "4ffbd0721dfe6108": {
+   "fragment_id": "Artigo 17.º — Pedido",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Pedido\n\n1. Para além dos requisitos do sistema integrado, sempre que o prémio for pedido ao abrigo do n.o 2, alínea b), do artigo 6.o do Regulamento (CE) n.o 1254/1999, os pedidos de ajuda \"animais\" ou, ao critério do Estado-Membro, os pedidos de ajuda \"superfícies\" referidos no n.o 1 do artigo 6.o do Regulamento (CE) n.o 3508/92 (pedidos) incluirão:\n\na) Uma declaração que indique a quantidade de referência individual de leite atribuída ao produtor no dia 31 de Março anterior ao começo do período de 12 meses de aplicação do regime de imposição suplementar iniciado no ano civil em causa. Se essa quantidade não for conhecida na data de apresentação do pedido, será comunicada à autoridade competente logo que possível;\n\ne\n\nb) O compromisso do produtor de não aumentar a sua quantidade de referência individual para além do limite quantitativo referido no n.o 2, alínea b), do artigo 6.o do Regulamento (CE) n.o 1254/1999 nos 12 meses seguintes à apresentação do pedido.\n\nTodavia, a alínea b) não é aplicável se o Estado-Membro tiver suprimido o referido limite quantitativo.\n\n2. Os pedidos devem ser apresentados no decurso de um período global de seis meses do ano civil, a determinar pelo Estado-Membro.\n\nO Estado-Membro pode prever vários períodos de apresentação distintos durante esse período global."
+  },
+  "ff126618d63509bc": {
+   "fragment_id": "Artigo 18.º — Rendimento leiteiro médio",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Rendimento leiteiro médio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Rendimento leiteiro médio\n\nO rendimento leiteiro médio é calculado com base nos rendimentos médios constantes do anexo II. Todavia, os Estados-Membros podem utilizar para esse cálculo um documento reconhecido pelo Estado-Membro que certifique o rendimento médio do efectivo leiteiro do produtor."
+  },
+  "b22011bf6c96949d": {
+   "fragment_id": "Artigo 19.º — Prémio nacional complementar",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Prémio nacional complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Prémio nacional complementar\n\n1. Só pode ser concedido um prémio nacional complementar: aos produtores que, com relação ao mesmo ano civil, beneficiem do prémio por vaca em aleitamento\n\nO prémio é concedido até ao limite do número de animais admitidos ao benefício do prémio, se for caso disso depois de aplicada a redução proporcional prevista no n.o 1, terceiro parágrafo, do artigo 10.o do Regulamento (CE) n.o 1254/1999.\n\n2. Os Estados-Membros podem estabelecer condições suplementares para a concessão do prémio complementar. Do facto informarão atempadamente a Comissão, antes de iniciada a aplicação dessas condições.\n\n3. A Comissão decidirá, o mais tardar no dia 1 de Agosto de cada ano civil, quais os Estados-Membros que satisfazem as condições referidas no n.o 5, terceiro parágrafo, do artigo 6.o do Regulamento (CE) n.o 1254/1999."
+  },
+  "a4244a757112c64f": {
+   "fragment_id": "Secção 2 — Limites máximos, reservas, transferências",
+   "type": "divisao",
+   "heading": "Secção 2 — Limites máximos, reservas, transferências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 2 — Limites máximos, reservas, transferências"
+  },
+  "c32971c0c10ffcb4": {
+   "fragment_id": "Artigo 20.º — Limite máximo individual",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Limite máximo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Limite máximo individual\n\n1. Os Estados-Membros estabelecerão um limite máximo individual para cada produtor nos termos dos n.os 1, 2 e 3 do artigo 7.o do Regulamento (CE) n.o 1254/1999.\n\n2. Logo que possível, e o mais tardar uma semana antes do início do período de apresentação dos pedidos de ajuda com relação ao ano 2000, será comunicado a cada produtor o montante do seu limite máximo individual."
+  },
+  "43c138298c2b786b": {
+   "fragment_id": "Artigo 21.º — Comunicações",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Comunicações\n\n1. Os Estados-Membros comunicarão à Comissão, o mais tardar no dia 1 de Março de 2000, as regras que tenham utilizado na redução dos limites máximos individuais nos termos do n.o 3 do artigo 7.o do Regulamento (CE) n.o 1254/1999, bem como o número total de direitos atribuídos aos produtores e o número de direitos cedidos à reserva.\n\n2. Os Estados-Membros comunicarão à Comissão, o mais tardar no dia 1 de Março de 2000, o modo de cálculo da redução adoptada nos termos do n.o 1, segundo parágrafo, do artigo 8.o do Regulamento (CE) n.o 1254/1999 e, se for caso disso, as medidas tomadas nos termos do n.o 2, alínea a), do mesmo artigo, bem como, antes do dia 1 de Janeiro de cada ano, as alterações eventualmente introduzidas.\n\n3. De acordo com o quadro constante do Anexo IV, os Estados-Membros comunicarão à Comissão até 1 de Março, a título provisório, e 31 de Julho, a título definitivo, de cada ano civil:\n\na) O número de direitos ao prémio cedidos sem compensação à reserva nacional, na sequência de transferências de direitos sem transferência de exploração, durante o ano civil anterior;\n\nb) O número de direitos ao prémio não utilizados, referidos no n.o 2 do artigo 23.o, transferidos para a reserva nacional durante o ano civil anterior;\n\nc) O número de direitos atribuídos nos termos do n.o 3 do artigo 9.o do Regulamento (CE) n.o 1254/1999 durante o ano civil anterior."
+  },
+  "945634fa823ca7d7": {
+   "fragment_id": "Artigo 22.º — Direitos obtidos gratuitamente",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Direitos obtidos gratuitamente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Direitos obtidos gratuitamente\n\nSalvo circunstâncias excepcionais devidamente justificadas, a um produtor que tenha obtido gratuitamente direitos ao prémio da reserva nacional não é permitido transferir e/ou ceder temporariamente os seus direitos durante os três anos civis seguintes."
+  },
+  "5229bcc2114541e0": {
+   "fragment_id": "Artigo 23.º — Utilização de direitos",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Utilização de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Utilização de direitos\n\n1. O produtor detentor de direitos pode utilizá-los directamente e/ou por cessão temporária a outro produtor.\n\n2. Sempre que um produtor não utilizar pelo menos a percentagem mínima dos seus direitos, fixada em conformidade com o n.o 4, em cada ano, a parte não utilizada será transferida para a reserva nacional, salvo:\n\n- no caso de um produtor que tenha, no máximo, sete direitos ao prémio. Sempre que o produtor não utilizar pelo menos a percentagem mínima dos seus direitos, fixada em conformidade com o n.o 4, durante cada um de dois anos civis consecutivos, a parte não utilizada durante o último ano civil será transferida para a reserva nacional,\n\n- no caso de um produtor que participe num programa de extensificação reconhecido pela Comissão,\n\n- no caso de um produtor que participe num programa de reforma antecipada reconhecido pela Comissão que não imponha a transferência e/ou a cessão temporária de direitos,\n\nou\n\n- em casos excepcionais devidamente justificados.\n\n3. A cessão temporária só pode incidir sobre anos civis completos e terá de abranger, pelo menos, o número de animais previsto no n.o 1 do artigo 24.o No termo de cada período de cessão temporária, que não pode exceder três anos consecutivos, o produtor, salvo em caso de transferência, recuperará a totalidade dos seus direitos para si próprio durante, pelo menos, dois anos consecutivos. Sempre que o produtor não utilizar pelo menos a percentagem mínima dos seus direitos, fixada em conformidade com o n.o 4, em cada um dos dois anos referidos, o Estado-Membro, salvo em casos excepcionais devidamente justificados, transferirá anualmente para a reserva nacional a parte dos direitos não utilizada.\n\nTodavia, em relação aos produtores que participem em programas de pré-reforma reconhecidos pela Comissão, os Estados-Membros podem prever uma prorrogação da duração total da cessão temporária em função dos referidos programas.\n\nAos produtores que se tenham comprometido a participar num programa de extensificação em conformidade com a medida referida no n.o 1, alínea c), do artigo 2.o do Regulamento (CEE) n.o 2078/92 do Conselho(14), ou num programa de extensificação em conformidade com os artigos 22.o e 23.o do Regulamento (CE) n.o 1257/1999, não é permitida a cessão temporária ou a transferência dos seus direitos durante o período por que se tenham comprometido. Esta proibição não se aplica, porém, se o programa permitir a transferência e/ou a cessão temporária de direitos a produtores cuja participação em medidas distintas das referidas no presente parágrafo exija a obtenção de direitos.\n\n4. A percentagem mínima de utilização dos direitos ao prémio é fixada em 70 %.\n\nOs Estados-Membros podem, porém, aumentar essa percentagem até 90 %.\n\nOs Estados-Membros informarão previamente a Comissão da percentagem que aplicam."
+  },
+  "b36856e5cbae0764": {
+   "fragment_id": "Artigo 24.º — Transferência de direitos e cessão temporária",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Transferência de direitos e cessão temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Transferência de direitos e cessão temporária\n\n1. Os Estados-Membros podem fixar, em função das respectivas estruturas de produção, um número mínimo de direitos ao prémio que pode ser objecto de transferência parcial sem transferência de exploração. Esse mínimo não pode exceder cinco direitos ao prémio.\n\n2. A transferência de direitos ao prémio e a cessão temporária de direitos só se tornam efectivas depois da sua comunicação conjunta às autoridades competentes do Estado-Membro pelo produtor que transfere e/ou cede os direitos e pelo que os recebe.\n\nA comunicação será efectuada dentro de um prazo a fixar pelo Estado-Membro, o mais tardar aquando da apresentação do pedido de prémio pelo produtor que recebe os direitos, excepto se a transferência de direitos for realizada por ocasião de uma sucessão por morte. Nesse caso, o produtor que recebe os direitos deve poder apresentar os documentos legais adequados que provem ser o sucessor do produtor falecido."
+  },
+  "c284ab8b0c134c7e": {
+   "fragment_id": "Artigo 25.º — Alteração do limite máximo individual",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Alteração do limite máximo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Alteração do limite máximo individual\n\nEm caso de transferência ou de cessão temporária de direitos ao prémio, os Estados-Membros estabelecerão o novo limite máximo individual e comunicarão aos produtores em causa, o mais tardar 60 dias após o último dia do período no decurso do qual o produtor tiver apresentado o seu pedido de prémio, o número dos direitos ao prémio desses produtores.\n\nO primeiro parágrafo não é aplicável no caso de a transferência ser realizada por ocasião de uma sucessão por morte."
+  },
+  "3a04d0e23343c65d": {
+   "fragment_id": "Artigo 26.º — Produtores não proprietários das superfícies exploradas",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Produtores não proprietários das superfícies exploradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Produtores não proprietários das superfícies exploradas\n\nOs produtores que apenas explorem terrenos de natureza pública ou colectiva e decidam deixar de explorar esses terrenos e transferir a totalidade dos seus direitos para outro produtor serão equiparados aos produtores que vendem ou transferem as suas explorações. Em todos os outros casos, esses produtores serão equiparados aos produtores que transferem apenas os seus direitos ao prémio."
+  },
+  "eea92b878e8d9baa": {
+   "fragment_id": "Artigo 27.º — Transferência por intermédio da reserva nacional",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Transferência por intermédio da reserva nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Transferência por intermédio da reserva nacional\n\nSempre que um Estado-Membro estabelecer que a transferência de direitos sem transferência de exploração se efectua por intermédio da reserva nacional, nos termos do n.o 2, alínea b), do artigo 8.o do Regulamento (CE) n.o 1254/1999, aplicará disposições nacionais análogas às previstas nos artigos 23.o a 26.o Nesse caso:\n\n- Os Estados-Membros podem determinar que a cessão temporária se efectue por intermédio da reserva nacional;\n\n- aquando da transferência dos direitos ao prémio, ou da cessão temporária em caso de aplicação da alínea a), a transferência para a reserva só se torna efectiva depois da notificação do produtor que transfere e/ou cede pelas autoridades competentes do Estado-Membro e a transferência da reserva para outro produtor só se torna efectiva depois da notificação desse produtor por aquelas autoridades.\n\nTais disposições devem ainda assegurar que a parte dos direitos que não a referida no n.o 1, segundo parágrafo, do artigo 8.o do Regulamento (CE) n.o 1254/1999 seja objecto de um pagamento, pelo Estado-Membro, correspondente ao que teria resultado de uma transferência directa entre produtores, atendendo, nomeadamente, ao desenvolvimento da produção no Estado-Membro em causa. Esse pagamento será igual ao pagamento exigido ao produtor que receba direitos equivalentes a partir da reserva nacional."
+  },
+  "44ff36d8fb7c3054": {
+   "fragment_id": "Artigo 28.º — Direitos parciais",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Direitos parciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Direitos parciais\n\n1. Se os cálculos a efectuar no âmbito do disposto na presente secção conduzirem a números não inteiros, serão tidos em conta até à primeira casa decimal.\n\n2. Se a aplicação do disposto na presente secção originar direitos parciais ao prémio, tanto ao nível de um produtor como da reserva nacional, esses direitos parciais serão adicionados.\n\n3. Sempre que um produtor possuir um direito parcial, este só dá origem à concessão da fracção correspondente do montante unitário do prémio e, se for caso disso, do prémio nacional complementar referido no artigo 19.o e do pagamento por extensificação referido no artigo 32.o"
+  },
+  "daa55115af2b44d9": {
+   "fragment_id": "Artigo 29.º — Regime específico aplicável às novilhas",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Regime específico aplicável às novilhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regime específico aplicável às novilhas\n\n1. A Comissão decidirá, o mais tardar no dia 1 de Novembro de 1999, quais os Estados-Membros que satisfazem as condições referidas no n.o 1 do artigo 10.o do Regulamento (CE) n.o 1254/1999.\n\nOs Estados-Membros abrangidos por essa decisão informarão a Comissão, antes de 1 de Janeiro de 2000, da sua intenção de aplicar ou não o regime previsto no artigo 10.o do Regulamento (CE) n.o 1254/1999 (o regime específico) e comunicarão, se for caso disso, o limite máximo nacional específico que tiverem fixado. As alterações posteriores devem ser levadas ao conhecimento da Comissão antes do dia 1 de Janeiro do ano em causa.\n\n2. Os Estados-Membros que apliquem o regime específico estabelecerão critérios que permitam garantir que o prémio seja pago a criadores cujos efectivos de novilhas se destinem à renovação de efectivos de vacas. Esses critérios podem incluir, nomeadamente, limites etários e/ou condições raciais.\n\nOs referidos Estados-Membros comunicarão os critérios adoptados à Comissão antes do dia 1 de Janeiro do ano em causa. As alterações posteriores devem ser levadas ao conhecimento da Comissão antes do dia 1 de Janeiro do ano em causa.\n\n3. Se a aplicação da redução proporcional referida no n.o 1, terceiro parágrafo, do artigo 10.o do Regulamento (CE) n.o 1254/1999 conduzir a um número não inteiro de animais elegíveis, será concedida, pela parte decimal, uma fracção correspondente do montante unitário do prémio e, se for caso disso, do prémio nacional complementar referido no artigo 19.o e do pagamento por extensificação referido no artigo 32.o Para o efeito, só é tida em conta a primeira casa decimal.\n\n4. Nos Estados-Membros que apliquem o regime específico, a obrigação referida no n.o 2 do artigo 6.o do Regulamento (CE) n.o 1254/1999, relativa ao número mínimo de animais a possuir, deve ser satisfeita a 100 %, quer pelas vacas em aleitamento, se o produtor tiver apresentado um pedido para vacas em aleitamento, quer pelas novilhas, se o produtor tiver apresentado um pedido para novilhas.\n\n5. O disposto nos artigos 20.o a 28.o relativas aos direitos individuais, às transferências e à reserva nacional não se aplicam no âmbito do regime específico."
+  },
+  "8884ccf936f7ad42": {
+   "fragment_id": "CAPÍTULO IV — DISPOSIÇÕES COMUNS AO PRÉMIO ESPECIAL E AO PRÉMIO POR VACA EM ALEITAMENTO",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — DISPOSIÇÕES COMUNS AO PRÉMIO ESPECIAL E AO PRÉMIO POR VACA EM ALEITAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — DISPOSIÇÕES COMUNS AO PRÉMIO ESPECIAL E AO PRÉMIO POR VACA EM ALEITAMENTO"
+  },
+  "96c8fea71d235cd1": {
+   "fragment_id": "Artigo 30.º — Pedido",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Pedido\n\n1. Por razões administrativas, os Estados-Membros podem estabelecer que o pedido incida sobre um número mínimo de animais, desde que este não seja superior a três.\n\n2. Sem prejuízo do n.o 2 do artigo 17.o e do n.o 7 do artigo 32.o, os Estados-Membros podem estabelecer: períodos e datas para a apresentação dos pedidos de prémio e o número de pedidos que um produtor pode apresentar por regime de prémio e ano civil."
+  },
+  "fb535e05fc35ff0d": {
+   "fragment_id": "Artigo 31.º — Factor de densidade",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Factor de densidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Factor de densidade\n\n1. Para cada produtor que, com relação a um mesmo ano civil, apresente:\n\n- o pedido de ajuda \"superfícies\" referido no n.o 1 do artigo 6.o do Regulamento (CEE) n.o 3508/92,\n\ne\n\n- pelo menos um pedido de prémio especial ou de prémio por vaca em aleitamento,\n\nas autoridades competentes estabelecerão o número de unidades de bovinos adultos correspondente ao número de animais em relação ao qual pode ser concedido um prémio especial ou um prémio por vaca em aleitamento, atendendo, para o efeito, à superfície forrageira da exploração do produtor.\n\n2. Na determinação do factor de densidade referido no artigo 12.o do Regulamento (CE) n.o 1254/1999 proceder-se-á como segue:\n\na) É tida em conta a quantidade de referência individual de leite atribuída ao produtor no dia 31 de Março anterior ao começo do período de 12 meses de aplicação do regime de imposição suplementar iniciado no ano civil em causa;\n\nb) O número de vacas leiteiras necessário para produzir essa quantidade de referência é calculado em conformidade com o disposto no artigo 18.o\n\n3. Para determinar o número de animais que pode beneficiar de um prémio:\n\na) O número de hectares determinado em conformidade com as regras do sistema integrado é multiplicado pelo factor de densidade referido no artigo 12.o do Regulamento (CE) n.o 1254/1999;\n\nb) Do valor assim obtido é deduzido o número de unidades de bovinos adultos correspondente ao número de vacas leiteiras necessário para produzir a quantidade de referência de leite atribuída ao produtor;\n\nc) Do valor assim obtido é deduzido o número de unidades de bovinos adultos correspondente ao número de ovinos e/ou caprinos em relação ao qual é apresentado um pedido de prémio.\n\nO valor final assim obtido corresponde ao número máximo de unidades de bovinos adultos em relação ao qual podem ser concedidos o prémio especial e o prémio por vaca em aleitamento.\n\n4. Os Estados-Membros informarão cada produtor em causa do factor de densidade determinado a seu respeito e do número resultante de unidades de bovinos adultos em relação ao qual pode ser concedido um prémio."
+  },
+  "0236eee336db97f3": {
+   "fragment_id": "Artigo 32.º — Pagamento por extensificação",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Pagamento por extensificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Pagamento por extensificação\n\n1. Para beneficiarem do pagamento por extensificação, os produtores devem indicar no pedido de ajuda \"superfícies\" que pretendem participar no regime de pagamento por extensificação.\n\n2. Os animais que se considere terem recebido o prémio especial, nos termos do artigo 3.o, não podem dar lugar ao pagamento por extensificação.\n\n3. A fim de verificar se o número de animais calculado em conformidade com o n.o 3, alínea a), do artigo 13.o do Regulamento (CE) n.o 1254/1999 respeita o ou os factores de densidade definidos no n.o 2 do artigo 13.o do referido regulamento, os Estados-Membros estabelecerão anualmente pelo menos cinco datas de contagem dos animais e informarão a Comissão desse facto.\n\nExcepto se o Estado-Membro decidir que todos os dias do ano são datas de contagem:\n\n- as datas de contagem devem ser distribuídas aleatoriamente de modo a serem representativas no conjunto do ano, devendo ainda ser alteradas todos os anos,\n\ne\n\n- cada data de contagem deve ser estabelecida a posteriori e levada ao conhecimento do produtor quando estejam transcorridas pelo menos duas semanas sobre a data em que foi estabelecida.\n\nA contagem dos animais nas datas referidas pode ser efectuada por um dos métodos a seguir indicados, à escolha de cada Estado-Membro:\n\n- O Estado-Membro solicita ao produtor a declaração, com base no registo de estábulo respectivo, antes de uma data a fixar pelo Estado-Membro, do número de unidades de bovinos adultos ou do número de animais de cada uma das duas categorias de bovinos referidas no anexo III do Regulamento (CE) n.o 1254/1999;\n\nou\n\n- Os Estados-Membros que disponham de uma base de dados informatizada conforme com as disposições da alínea b) do artigo 3.o do Regulamento (CE) n.o 820/97 utilizá-la-ão na determinação do número de unidades de bovinos adultos, desde que ofereça garantias, que o Estado-Membro considere suficientes, de exactidão dos dados que contém com vista à aplicação do regime de pagamento por extensificação.\n\nO número de unidades de bovinos adultos a considerar para determinar se o produtor respeita os factores de densidade definidos no n.o 2 do artigo 13.o do Regulamento (CE) n.o 1254/1999 será a média aritmética dos números de unidades de bovinos adultos determinados nas datas de contagem e das unidades de bovinos adultos correspondentes aos ovinos e caprinos que tenham sido objecto de pedidos de prémios com relação ao mesmo ano civil.\n\nTodavia, se o Estado-Membro decidir que todos os dias do ano são datas de contagem, pode estabelecer que os números referidos nas alíneas a) e b) sejam calculados pro rata temporis em função do período de presença dos animais.\n\nO Estado-Membro tomará todas as medidas necessárias para aplicar o artigo 7.o do Regulamento (CE) n.o 1259/1999 no caso dos produtores que, por recurso a taxas de encabeçamento anormalmente baixas durante uma parte do ano, criem artificialmente as condições requeridas pelo artigo 13.o do Regulamento (CE) n.o 1254/1999.\n\n4. Em derrogação do n.o 3, os Estados-Membros podem facultar aos produtores a possibilidade de optarem por um regime simplificado.\n\nNesse caso, o produtor deve indicar, no seu pedido de ajuda \"superfícies\":\n\na) Que declara ter respeitado diariamente o factor de densidade máximo definido no artigo 13.o do Regulamento (CE) n.o 1254/1999 até ao dia do seu pedido de ajuda \"superfícies\";\n\ne\n\nb) Que se compromete a respeitar diariamente esse factor de densidade entre o dia do seu pedido de ajuda \"superfícies\" e o dia 31 de Dezembro.\n\nSe o Estado-Membro tiver decidido aplicar o n.o 2, segundo parágrafo, do artigo 13.o do Regulamento (CE) n.o 1254/1999, o produtor deve precisar no seu pedido qual dos dois factores de densidade máximos respeita. O produtor pode alterar essa escolha, desde que o faça antes do anúncio de uma verificação in loco do seu número de animais.\n\nO produtor pode comunicar à autoridade competente a revogação do seu compromisso, desde que o faça antes do anúncio de uma verificação in loco do seu número de animais. Nesse caso, não beneficiará do pagamento por extensificação.\n\nA declaração e o compromisso referidos no presente número estão sujeitos às disposições de controlo e sanções previstas no âmbito do sistema integrado.\n\n5. Os Estados-Membros comunicarão à Comissão, antes do dia 1 de Janeiro de 2000, a definição das \"pastagens\" que utilizam na aplicação do n.o 3, alínea c), do artigo 13.o do Regulamento (CE) n.o 1254/1999. As alterações posteriores devem ser levadas ao conhecimento da Comissão antes do dia 1 de Janeiro do ano em causa.\n\n6. A Comissão decidirá, o mais tardar no dia 1 de Novembro de 1999, quais os Estados-Membros que satisfazem as condições referidas no n.o 4 do artigo 13.o do Regulamento (CE) n.o 1254/1999.\n\nPara efeitos do referido n.o 4, são considerados produtores em áreas montanhosas os produtores:\n\n- cuja exploração esteja situada em áreas montanhosa,\n\nou\n\n- cuja superfície forrageira, numa percentagem não inferior a 50 %, esteja situada em áreas montanhosas.\n\n7. Sem prejuízo do n.o 1, os produtores que pretendam beneficiar do pagamento por extensificação com relação ao n.o 6 devem indicá-lo no seu pedido de ajuda \"animais\". O produtor deve ser detentor, durante pelo menos seis meses consecutivos, a partir da data da apresentação do pedido, de um número de vacas leiteiras pelo menos igual ao número de vacas leiteiras para o qual é requerido o pagamento por extensificação. O período de retenção de seis meses tem início no dia seguinte ao da apresentação do pedido.\n\nOs pedidos devem ser apresentados no decurso de um período global de seis meses do ano civil, a determinar pelo Estado-Membro.\n\nO Estado-Membro pode prever vários períodos de apresentação distintos durante esse período global.\n\n8. O número de vacas leiteiras relativamente ao qual um produtor beneficie do pagamento por extensificação não pode exceder os seguintes quantitativos:\n\na) Número de vacas leiteiras necessário para produzir a quantidade de referência individual de leite atribuída ao referido produtor no dia 31 de Março anterior ao começo do período de 12 meses de aplicação do regime de imposição suplementar iniciado no ano civil em causa; esse número de vacas é calculado com base no rendimento leiteiro médio definido no anexo II.\n\nb) Número total de vacas da exploração, determinado em conformidade com o n.o 3, deduzido do número de vacas em aleitamento correspondente ao limite máximo individual respectivo.\n\n9. Se um Estado-Membro optar por aplicar ou por deixar de aplicar a alternativa prevista no n.o 2, segundo parágrafo, do artigo 13.o do Regulamento (CE) n.o 1254/1999, informará desse facto a Comissão antes do dia 1 de Janeiro do ano civil em causa.\n\n10. No cálculo do factor de densidade nos termos do presente artigo, só serão tidas em conta as duas primeiras casas decimais."
+  },
+  "af39bf2000a6814e": {
+   "fragment_id": "Artigo 33.º — Determinação dos períodos de retenção",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Determinação dos períodos de retenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Determinação dos períodos de retenção\n\nO último dia dos períodos de retenção referidos no artigo 5.o, no n.o 1 do artigo 9.o, no artigo 16.o, no n.o 7 do artigo 32.o e no artigo 37.o é o dia, útil ou não, que precede o dia com o mesmo número que o dia de início da contagem."
+  },
+  "f7968a436f666b2e": {
+   "fragment_id": "CAPÍTULO V — PRÉMIO AO ABATE",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — PRÉMIO AO ABATE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — PRÉMIO AO ABATE\n\n[artigo 11.o do Regulamento (CE) n.o 1254/1999]"
+  },
+  "80f85b8359f9d764": {
+   "fragment_id": "Artigo 34.º — Declaração de participação",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Declaração de participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Declaração de participação\n\nOs Estados-Membros podem estabelecer que, para beneficiar do prémio com relação a um ano civil, cada produtor apresentará, antes da apresentação do primeiro pedido em relação ao mesmo ano civil ou em simultâneo com esse pedido, uma declaração de participação.\n\nTodavia, se um produtor não introduzir alterações na sua declaração de participação, o Estado-Membro pode admitir a recondução da validade da declaração anteriormente apresentada."
+  },
+  "8e6921c64f02ff8b": {
+   "fragment_id": "Artigo 35.º — Pedido",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Pedido\n\n1. O pedido de ajuda \"animais\" deve comportar os elementos necessários para o pagamento do prémio ao abate, nomeadamente, no respeitante aos animais nascidos depois de 1 de Janeiro de 1998, o dia de nascimento do animal.\n\nO pedido de ajuda \"animais\" será apresentado depois do abate do animal ou, em caso de exportação, depois da data de saída do território aduaneiro da Comunidade, num prazo a estabelecer pelo Estado-Membro, que não poderá ser superior a seis meses, nem ir além do mês de Fevereiro do ano seguinte, salvaguardadas situações excepcionais a decidir pelo Estado-Membro em causa em caso de exportação ou expedição.\n\nOs Estados-Membros podem admitir a possibilidade de o pedido ser apresentado por intermédio de uma pessoa diferente do produtor. Nesse caso, devem nele ser indicados o nome e o endereço do produtor que pode beneficiar do prémio.\n\nEm complemento dos requisitos do sistema integrado, o pedido incluirá:\n\na) Em caso de concessão aquando do abate, um certificado do matadouro, ou qualquer outro documento emitido ou visado pelo matadouro com as mesmas indicações, que ateste:\n\ni) o nome e endereço do matadouro (ou um código equivalente),\n\nii) a data de abate, os números de identificação e os números de abate dos animais,\n\niii) relativamente aos vitelos, o peso-carcaça (salvo em caso de aplicação do n.o 4 do artigo 36.o);\n\nb) Em caso da exportação do animal para um país terceiro:\n\ni) o nome e endereço do exportador (ou um código equivalente),\n\nii) os números de identificação dos animais,\n\niii) a declaração de exportação, de que conste a idade, no caso dos animais nascidos depois de 1 de Janeiro de 1998, e, tratando-se de vitelos, excepto em caso de aplicação do n.o 4 do artigo 36.o, o peso-vivo, que não pode exceder 290 quilogramas,\n\niv) a prova de saída do território aduaneiro da Comunidade, apresentada tal como previsto para as restituições à exportação.\n\nO Estado-Membro pode, porém, prever que a transmissão das informações referidas nas alíneas a) e b) seja efectuada por intermédio de um ou mais organismos acreditados pelo Estado-Membro, podendo ter lugar, designadamente, por via informática.\n\nO Estado-Membro procederá a um controlo regular e sem aviso prévio da exactidão dos certificados ou documentos emitidos e, se for caso disso, das informações referidas no quinto parágrafo.\n\n2. Em derrogação do n.o 1, os Estados-Membros que disponham de uma base de dados conforme com a referida na alínea b) do artigo 3.o do Regulamento (CE) n.o 820/97 podem estabelecer que as informações relativas ao abate dos animais transmitidas pelos matadouros à autoridade administrativa competente produzam efeitos de pedido de prémio ao abate em nome do produtor, desde que ofereçam garantias, que o Estado-Membro considere suficientes, de exactidão dos dados que contêm com vista à aplicação do regime de prémio ao abate e, se for caso disso, do pagamento, aquando do abate, do prémio especial e/ou dos pagamentos complementares, se forem pagos no abate, e/ou do prémio à dessazonalização.\n\nO Estado-Membro pode, porém, prever a necessidade de um pedido. Nesse caso, pode ainda estabelecer que tipo de dados deve acompanhar o pedido.\n\nOs Estados-Membros que decidam recorrer à aplicação do presente número informarão desse facto a Comissão antes do dia 1 de Janeiro de 2000. Os Estados-Membros informarão a Comissão de qualquer alteração subsequente antes da sua aplicação.\n\nOs Estados-Membros zelarão por que os dados postos à disposição do organismo pagador contenham todas as informações necessárias ao pagamento, em especial:\n\na) As categorias e quantidades dos animais referidos no n.o 1 do artigo 11.o do Regulamento (CE) n.o 1254/1999 que tenham sido abatidos no ano civil considerado;\n\nb) Os dados relativos ao respeito das condições etárias e de peso-carcaça dos animais referidas no mesmo artigo e do período de retenção referido no artigo 37.o;\n\nc) Se for caso disso, os dados necessários ao pagamento, aquando do abate, do prémio especial e/ou dos pagamentos complementares, se forem pagos no abate, e/ou do prémio à dessazonalização.\n\n3. Relativamente aos animais que tenham sido objecto de uma transacção intracomunitária depois do período de retenção referido no artigo 37.o, ainda que o Estado-Membro em que tem lugar o abate tenha decidido aplicar a derrogação prevista no n.o 2, o matadouro deve elaborar o documento referido no n.o 1, alínea a) do quarto parágrafo.\n\nTodavia, caso os seus sistemas informáticos de intercâmbio de dados sejam compatíveis, dois Estados-Membros podem acordar em aplicar entre si o sistema definido no n.o 2.\n\nOs Estados-Membros prestar-se-ão assistência mútua com o objectivo de assegurar um controlo eficaz da autenticidade dos documentos transmitidos e/ou da exactidão dos dados comunicados. Para o efeito, o Estado-Membro no qual o pagamento é efectuado transmitirá regularmente ao Estado-Membro no qual tem lugar o abate uma relação, discriminada por matadouro, dos certificados de abate (ou das informações que os substituam) que tiver recebido com origem neste último Estado-Membro."
+  },
+  "5b325e3beffbe4de": {
+   "fragment_id": "Artigo 36.º — Peso e apresentação da carcaça",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Peso e apresentação da carcaça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Peso e apresentação da carcaça\n\n1. Para efeitos do n.o 1, alínea b), do artigo 11.o do Regulamento (CE) n.o 1254/1999, as carcaças de vitelos serão apresentadas depois de esfoladas, evisceradas e sangradas, sem a cabeça e sem os pés, com o fígado, os rins e a gordura dos rins.\n\n2. O peso a ter em conta é o da carcaça, uma vez arrefecida, ou o da carcaça a quente, o mais rapidamente possível após o abate, reduzido em 2 %.\n\n3. Se a carcaça for apresentada sem o fígado, os rins e/ou a gordura dos rins, o seu peso será aumentado:\n\na) Em 3,5 quilogramas no referente ao fígado;\n\nb) Em 0,5 quilogramas no referente aos rins;\n\nc) Em 3,5 quilogramas no referente à gordura dos rins.\n\n4. O Estado-Membro pode estabelecer que, se a idade do vitelo for inferior a cinco meses no momento do abate ou da exportação, a condição ponderal referida no n.o 1, alínea b), do artigo 11.o do Regulamento (CE) n.o 1254/1999 seja considerada respeitada.\n\nSe o peso-carcaça não puder ser determinado no matadouro, a referida condição ponderal será considerada respeitada se o peso-vivo não exceder 290 quilogramas."
+  },
+  "c2a414c2083729b9": {
+   "fragment_id": "Artigo 37.º — Beneficiário do prémio",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Beneficiário do prémio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Beneficiário do prémio\n\n1. O prémio será pago ao produtor que tenha sido detentor do animal durante um período de retenção mínimo de dois meses cujo termo tenha tido lugar menos de um mês antes do abate ou da exportação.\n\n2. No caso dos vitelos abatidos antes dos três meses de idade, o período de retenção é de um mês."
+  },
+  "733a1688b043c616": {
+   "fragment_id": "Artigo 38.º — Limites máximos nacionais",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Limites máximos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Limites máximos nacionais\n\n1. Os limites máximos nacionais referidos nos n.os 1 e 3 do artigo 11.o do Regulamento (CE) n.o 1254/1999 figuram no anexo III.\n\n2. Se a aplicação da redução proporcional conduzir a um número não inteiro de animais elegíveis, será concedida, pela parte decimal, uma fracção correspondente do montante unitário do prémio. Para o efeito, apenas será tida em conta a primeira casa decimal."
+  },
+  "618c6b1c1ae4e37f": {
+   "fragment_id": "CAPÍTULO VI — PAGAMENTOS COMPLEMENTARES",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — PAGAMENTOS COMPLEMENTARES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — PAGAMENTOS COMPLEMENTARES\n\n[artigos 14.o a 20.o do Regulamento (CE) n.o 1254/1999]"
+  },
+  "95203303042e502d": {
+   "fragment_id": "Artigo 39.º — Regras nacionais",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Regras nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Regras nacionais\n\nAs informações pormenorizadas a transmitir à Comissão nos termos do artigo 18.o do Regulamento (CE) n.o 1254/1999 devem incluir os seguintes elementos:\n\n1. Pagamentos por cabeça (se for caso disso):\n\na) Montantes indicativos por cabeça, por categoria de animal, e regras de concessão;\n\nb) Previsão indicativa das despesas totais para cada categoria de animais (precisando se os pagamentos serão efectuados sob a forma de suplemento ao prémio ao abate) e do número de animais em causa;\n\nc) Requisitos específicos relativos ao factor de densidade (salvo em caso de pagamento sob a forma de suplemento ao prémio ao abate);\n\nd) Limite, em cabeças de bovinos machos, por exploração (se for caso disso);\n\ne) Outras informações sobre as normas de execução.\n\nAs categorias de animais referidas nas alíneas a) e b) são as seguintes: touros, bois, vacas em aleitamento, vacas leiteiras, novilhas que podem beneficiar do prémio à vaca em aleitamento e outras novilhas e todos os subgrupos de animais estabelecidos pelo Estado-Membro e incluídos nestas categorias.\n\n2. Pagamentos por superfície (se for caso disso):\n\na) Cálculo das superfícies de base regionais;\n\nb) Montantes indicativos por hectare;\n\nc) Previsão indicativa das despesas totais e do número de hectares em causa;\n\nd) Outras informações sobre as normas de execução."
+  },
+  "20c686fc1a3806ae": {
+   "fragment_id": "Artigo 40.º — Relatório pormenorizado",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Relatório pormenorizado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Relatório pormenorizado\n\nO relatório pormenorizado a transmitir à Comissão nos termos do artigo 19.o do Regulamento (CE) n.o 1254/1999 deve incluir os mesmos elementos de informação, actualizados e completos, já referidos no artigo 39.o\n\nDeve, também, incluir:\n\na) Uma relação das dificuldades surgidas durante a aplicação do regime de pagamentos complementares;\n\nb) Uma avaliação da eficácia desse regime;\n\nc) Eventualmente, propostas com vista à evolução futura do regime."
+  },
+  "86590fd3cc515676": {
+   "fragment_id": "CAPÍTULO VII — DISPOSIÇÕES COMUNS",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII — DISPOSIÇÕES COMUNS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — DISPOSIÇÕES COMUNS"
+  },
+  "4d1f2be7e80497a4": {
+   "fragment_id": "Artigo 41.º — Pagamento de adiantamentos",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Pagamento de adiantamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Pagamento de adiantamentos\n\n1. Com base nos resultados do controlo administrativo e do controlo exercido in loco, a autoridade competente pagará ao produtor, pelo número de animais considerados elegíveis, um adiantamento de montante igual a 60 % do montante do prémio especial, do prémio à vaca em aleitamento e do prémio ao abate.\n\nRelativamente ao prémio especial, ao regime específico aplicável às novilhas referido no artigo 29.o e/ou ao prémio ao abate, a percentagem do adiantamento pode ser reduzida pelo Estado-Membro, não podendo, no entanto, ser inferior a 40 %.\n\nO adiantamento só pode ser pago a partir do dia 16 de Outubro do ano civil relativamente ao qual é pedido o prémio.\n\n2. O pagamento definitivo do prémio incidirá sobre um montante igual à diferença entre o adiantamento pago e o montante do prémio a que o produtor tem direito."
+  },
+  "aaff7aa0018022d7": {
+   "fragment_id": "Artigo 42.º — Ano de imputação",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Ano de imputação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Ano de imputação\n\nA data de apresentação do pedido constitui o facto gerador para determinar o ano de imputação dos animais que são objecto dos regimes de prémio especial, de prémio à vaca em aleitamento, de prémio à dessazonalização e de pagamento por extensificação e o número de unidades de bovinos adultos a considerar no cálculo do factor de densidade.\n\nTodavia, em caso de concessão do prémio especial de acordo com uma das opções previstas no artigo 8.o:\n\n- se o animal for abatido até ao dia 31 de Dezembro,\n\ne\n\n- se o pedido de prémio para o referido animal for apresentado depois dessa data,\n\no montante do prémio aplicável será o montante válido no dia 31 de Dezembro do ano no decurso do qual teve lugar o abate.\n\nNo que se refere ao prémio ao abate, para efeitos da aplicação da taxa de ajuda e para o cálculo da redução proporcional em aplicação do artigo 38.o, o ano de imputação é o ano de abate ou de exportação."
+  },
+  "9c112e707ff9bcfb": {
+   "fragment_id": "Artigo 43.º — Conversão em moeda nacional",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Conversão em moeda nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Conversão em moeda nacional\n\nA conversão em moeda nacional dos montantes dos prémios e do pagamento por extensificação é efectuada com base na média, calculada pro rata temporis, das taxas de câmbio aplicáveis durante o mês de Dezembro do ano anterior ao ano de imputação determinado em conformidade com o artigo 42.o"
+  },
+  "c8d5f5b6b32e2935": {
+   "fragment_id": "Artigo 44.º — Sanções à utilização ou à detenção ilegal de determinadas substâncias ou produtos",
+   "type": "artigo",
+   "heading": "Artigo 44.º — Sanções à utilização ou à detenção ilegal de determinadas substâncias ou produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Sanções à utilização ou à detenção ilegal de determinadas substâncias ou produtos\n\nEm caso de reincidência, na utilização ou detenção ilegal de substâncias ou produtos não permitidos pela regulamentação comunitária pertinente no sector veterinário, os Estados-Membros determinarão, em função da gravidade da infracção, a duração do período de exclusão do benefício dos regimes de ajuda, previstos no n.o 1, segundo parágrafo do artigo 23.o do Regulamento (CE) n.o 1254/1999."
+  },
+  "bfaf38ba5c9fac1c": {
+   "fragment_id": "Artigo 45.º — Medidas nacionais de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 45.º — Medidas nacionais de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Medidas nacionais de aplicação\n\nOs Estados-Membros tomarão todas as medidas apropriadas necessárias para assegurar a correcta aplicação do presente regulamento. Do facto informarão a Comissão."
+  },
+  "f117f5ccfbe9b85f": {
+   "fragment_id": "Artigo 46.º — Comunicações",
+   "type": "artigo",
+   "heading": "Artigo 46.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Comunicações\n\n1. A partir de 1 de Julho de 2000, os Estados-Membros comunicarão anualmente à Comissão, o mais tardar no dia 15 de Setembro, relativamente aos dados referentes ao primeiro semestre do ano em curso, ou no dia 1 de Março, relativamente aos dados referentes ao segundo semestre do ano anterior:\n\na) O número de bovinos machos que foram objecto de um pedido de prémio especial, discriminado:\n\n- por classe etária,\n\n- por categoria de animal (touro ou boi);\n\nb) O número de vacas que foram objecto de um pedido de prémio por vaca em aleitamento, discriminado em função dos regimes referidos no n.o 2, alíneas a) e b), do artigo 6.o do Regulamento (CE) n.o 1254/1999;\n\nc) O número de animais que foram objecto de um pedido de prémio ao abate, discriminado por categoria de animal (bovino adulto ou vitelo) e precisando se se trata de animais abatidos ou exportados;\n\nd) O número de animais relativamente aos quais os pedidos de prémio à dessazonalização tenham sido acolhidos favoravelmente, discriminado em beneficiários da primeira e da segunda classes do prémio especial, bem como o número de produtores de animais correspondente a cada uma dessas classes etárias.\n\n2. A partir de 2001, os Estados-Membros comunicarão à Comissão, o mais tardar em 31 de Julho e em relação ao ano civil anterior:\n\na) O número de bovinos machos cujos pedidos de prémio especial tenham sido acolhidos favoravelmente, discriminado:\n\n- por classe etária,\n\n- por categoria de animal (touro ou boi);\n\ne precisando:\n\n- a concessão, se for caso disso, do pagamento por extensificação, discriminado em função dos limites fixados no n.o 2 do artigo 13.o do Regulamento (CE) n.o 1254/1999, bem como, o número de produtores em causa discriminado em função dos referidos limites,\n\n- o número de animais, discriminado por classe etária, relativamente aos quais o prémio especial não tenha sido concedido a título do ano civil anterior em virtude da aplicação do limite máximo regional;\n\nb) O número de vacas e de novilhas cujos pedidos de prémio por vaca em aleitamento tenham sido acolhidos favoravelmente, discriminado em função dos regimes referidos no n.o 2, alíneas a) e b), do artigo 6.o do Regulamento (CE) n.o 1254/1999 e precisando a concessão, se for caso disso, do pagamento por extensificação (discriminado em função dos limites fixados no n.o 2 do artigo 13.o do mesmo regulamento), bem como o número de produtores em causa em cada um desses regimes;\n\nc) O número de vacas leiteiras cujos pedidos de pagamento por extensificação tenham sido acolhidos favoravelmente;\n\nd) O número de animais relativamente aos quais o prémio não tenha sido concedido relativamente ao ano civil anterior em virtude da aplicação do limite máximo nacional específico para as novilhas;\n\ne) Se for caso disso, a concessão do prémio nacional complementar do prémio por vaca em aleitamento, mencionando:\n\n- as condições de concessão,\n\ne\n\n- o montante concedido por animal;\n\nf) O número de animais cujos pedidos de prémio isento da aplicação do factor de densidade tenham sido acolhidos favoravelmente e o número de produtores em causa.\n\ng) O número de animais cujos pedidos de prémio ao abate tenham sido acolhidos favoravelmente, discriminados por categoria de animal (bovino adulto ou vitelo) e precisando se a concessão da ajuda teve lugar pelo abate ou pela exportação, bem como o número de produtores em causa para cada uma dessas subdivisões.\n\n3. Os Estados-Membros comunicarão à Comissão, o mais tardar no dia 31 de Julho de cada ano civil, a partir de 2001, o número de animais, discriminado por categoria de animal, relativamente aos quais o prémio ao abate não tenha sido concedido relativamente ao ano civil anterior em virtude da aplicação dos limites máximos nacionais.\n\n4. Os Estados-Membros comunicarão os elementos especificados no presente artigo utilizando para o efeito os quadros constantes do anexo IV."
+  },
+  "d807bf45ef8cc2e7": {
+   "fragment_id": "CAPÍTULO VIII — DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII — DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+  },
+  "308b93c98201f4c4": {
+   "fragment_id": "Artigo 47.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 47.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Disposições transitórias\n\n1. Em conformidade com o artigo 50.o do Regulamento (CE) n.o 1254/1999, e para facilitar a transição do disposto no Regulamento (CEE) n.o 805/68 para o disposto no Regulamento (CE) n.o 1254/1999, as comunicações à Comissão relativas ao ano de 1999 serão efectuadas de acordo com as regras estatuídas pelo Regulamento (CEE) n.o 3886/92.\n\n2. A obrigatoriedade de identificação e registo dos animais referida no artigo 21.o do Regulamento (CE) n.o 1254/1999 é aplicável aos animais nascidos antes de 1 de Janeiro de 1998 de acordo com as regras estabelecidas na Directiva 92/102/CEE do Conselho(15); constituem excepção os animais que tenham sido objecto de uma transacção intracomunitária."
+  },
+  "8557adc47ff8ea76": {
+   "fragment_id": "Artigo 48.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 48.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Revogação\n\nÉ revogado o Regulamento (CEE) n.o 3886/92, com efeitos a partir de 1 de Janeiro de 2000.\n\nO regulamento continua, porém, a ser aplicável aos pedidos apresentados até 31 de Dezembro de 1999.\n\nAs remissões feitas para o regulamento revogado entendem-se como feitas para o presente regulamento."
+  },
+  "d320fd7eee10b53a": {
+   "fragment_id": "Artigo 49.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 49.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Entrada em vigor\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Janeiro de 2000, salvo no referente às disposições relativas a comunicações ou decisões constantes dos artigos 10.o, 11.o e 15.o, do n.o 2 do artigo 21.o, do n.o 4 do artigo 23.o, dos n.os 1 e 2 do artigo 29.o, dos n.os 5, 6 e 9 do artigo 32.o, do n.o 2 do artigo 35.o e do artigo 39.o, que são aplicáveis a partir da sua entrada em vigor.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 28 de Outubro de 1999.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO L 160 de 26.6.1999, p. 21.\n\n(2) JO L 148 de 28.6.1968, p. 24.\n\n(3) JO L 391 de 31.12.1992, p. 20.\n\n(4) JO L 164 de 30.6.1999, p. 53.\n\n(5) JO L 355 de 5.12.1992, p. 1.\n\n(6) JO L 127 de 21.5.1999, p. 4.\n\n(7) JO L 117 de 7.5.1997, p. 1.\n\n(8) JO L 160 de 26.6.1999, p. 80.\n\n(9) JO L 160 de 26.6.1999, p. 113.\n\n(10) JO L 124 de 8.6.1971, p. 1.\n\n(11) JO L 349 de 24.12.1998, p. 1.\n\n(12) JO L 123 de 7.5.1981, p. 3.\n\n(13) JO L 67 de 11.3.1982, p. 23.\n\n(14) JO L 215 de 30.7.1992, p. 85.\n\n(15) JO L 355 de 5.12.1992, p. 32."
+  },
+  "5a361853c9d95148": {
+   "fragment_id": "ANEXO I — LISTA DAS RAÇAS BOVINAS REFERIDAS NO ARTIGO 14.o",
+   "type": "divisao",
+   "heading": "ANEXO I — LISTA DAS RAÇAS BOVINAS REFERIDAS NO ARTIGO 14.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — LISTA DAS RAÇAS BOVINAS REFERIDAS NO ARTIGO 14.o\n\n- Angler Rotvieh (Anglen) - Rød dansk mælkerace (RMD),\n\n- Ayreshire,\n\n- Armoricaine,\n\n- Bretonne pie-noire,\n\n- Fries-Hollands (FH), Française frisonne pie noire (FFPN), Friesian-Holstein, Holstein, Black and White Friesain, Red and White Friesian, Frisona española, Frisona Italiana, Zwartbonten van België/Pie-noire de Belgique, Sortbroget dansk mælkerace (SDM), Deutsche Schwarzbunte, Schwarzbunte Milchrasse (SMR),\n\n- Groninger Blaarkop,\n\n- Guernsey,\n\n- Jersey,\n\n- Malkeborthorn,\n\n- Reggiana,\n\n- Valdostana Nera,\n\n- Itäsuomenkarja,\n\n- Länsisuomenkarja,\n\n- Pohjoissuomenkarja."
+  },
+  "f1e045437a6bed47": {
+   "fragment_id": "ANEXO II — RENDIMENTO LEITEIRO MÉDIO REFERIDO NO ARTIGO 18.o",
+   "type": "divisao",
+   "heading": "ANEXO II — RENDIMENTO LEITEIRO MÉDIO REFERIDO NO ARTIGO 18.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — RENDIMENTO LEITEIRO MÉDIO REFERIDO NO ARTIGO 18.o\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "9f0e9c6175242b3f": {
+   "fragment_id": "ANEXO III — LIMITES MÁXIMOS NACIONAIS RELATIVOS AO PRÉMIO AO ABATE REFERIDOS NO N.o1 DO ARTIGO 38.o",
+   "type": "divisao",
+   "heading": "ANEXO III — LIMITES MÁXIMOS NACIONAIS RELATIVOS AO PRÉMIO AO ABATE REFERIDOS NO N.o1 DO ARTIGO 38.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — LIMITES MÁXIMOS NACIONAIS RELATIVOS AO PRÉMIO AO ABATE REFERIDOS NO N.o1 DO ARTIGO 38.o\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "8ebec1def140fa70": {
+   "fragment_id": "ANEXO IV — Quadro referido no n.o 3 do artigo 21.o e no artigo 46.o",
+   "type": "divisao",
+   "heading": "ANEXO IV — Quadro referido no n.o 3 do artigo 21.o e no artigo 46.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Quadro referido no n.o 3 do artigo 21.o e no artigo 46.o\n\n>PIC FILE= \"L_1999281PT.004902.EPS\">\n\n>PIC FILE= \"L_1999281PT.005001.EPS\">\n\n>PIC FILE= \"L_1999281PT.005101.EPS\">\n\n>PIC FILE= \"L_1999281PT.005201.EPS\">"
+  }
+ }
+}

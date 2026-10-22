@@ -1,0 +1,429 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0106:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0106-20130701",
+ "dre_path": null,
+ "source_lastmod": "2013-07-01",
+ "versions": [
+  {
+   "date": "1989-02-11",
+   "future": false,
+   "celex": "31989L0106",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4745a5653475ca6e",
+    "c6645555d2f7ebf1",
+    "5a4221897deeee76",
+    "4e3e1cbf243196b7",
+    "0831ef623f9bacfb",
+    "60be2202399d012d",
+    "7b8d6d7bcd0e7ea2",
+    "e58a69365c6a2d5b",
+    "9f77c94d3da4ded0",
+    "124924c261064a45",
+    "fbe3dae807a6b19f",
+    "f4d95b493d56b786",
+    "a338e39fe34a0d93",
+    "c21d7db7c334c1f0",
+    "93e06025e9b668d5",
+    "9abab8ceaa7d2f69",
+    "d14804cbe408c786",
+    "eb7e69d7bdcbe8c7",
+    "0b29f070712a4e77",
+    "84f6800aa5aa725a",
+    "9b93b88d903bfaf6",
+    "563c56714e3e084f",
+    "70337258894a2842",
+    "3bca7c10b851e70b",
+    "1fe0f38708015fd9",
+    "9d32e9cbe12a14d1",
+    "8bd1ff73effe2c48",
+    "62f8d23a4e6eaf0b",
+    "c0905ac413698896",
+    "674743c785164673",
+    "64f2b2e4735a605b",
+    "545a053987dfff08",
+    "2b432607a8656aca",
+    "636b36955a63b5f5",
+    "47b19e6063f3db35",
+    "7bf4624a0f10b5ce",
+    "858bd13e240783a2",
+    "2cc5bca7ac8c9522",
+    "48a983c65b8e13fc"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "01989L0106-20130701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I — Campo de aplicação - definições - requisitos - especificações técnicas - livre circulação de mercadorias",
+    "Suprime Artigo 1°",
+    "Suprime Artigo 2°",
+    "Suprime Artigo 3°",
+    "Suprime Artigo 4°",
+    "Suprime Artigo 5°",
+    "Suprime Artigo 6°",
+    "Suprime CAPÍTULO II — Normas harmonizadas",
+    "Suprime Artigo 7°",
+    "Suprime CAPÍTULO III — Aprovação técnica europeia",
+    "Suprime Artigo 8°",
+    "Suprime Artigo 9°",
+    "Suprime Artigo 10°",
+    "Suprime Artigo 11°",
+    "Suprime CAPÍTULO IV — Documentos interpretativos",
+    "Suprime Artigo 12°",
+    "Suprime CAPÍTULO V — Certificado de conformidade",
+    "Suprime Artigo 13°",
+    "Suprime Artigo 14°",
+    "Suprime Artigo 15°",
+    "Suprime CAPÍTULO VI — Processos especiais",
+    "Suprime Artigo 16°",
+    "Suprime Artigo 17°",
+    "Suprime CAPÍTULO VII — Organismos aprovados",
+    "Suprime Artigo 18°",
+    "Suprime CAPÍTULO VIII — Comité Permanente da Construção",
+    "Suprime Artigo 19°",
+    "Suprime Artigo 20°",
+    "Suprime CAPÍTULO IX — Cláusula de salvaguarda",
+    "Suprime Artigo 21°",
+    "Suprime CAPÍTULO X — Disposições finais",
+    "Suprime Artigo 22°",
+    "Suprime Artigo 23°",
+    "Suprime Artigo 24°",
+    "Suprime ANEXO I — REQUISITOS ESSENCIAIS",
+    "Suprime ANEXO II — APROVAÇÃO TÉCNICA EUROPEIA",
+    "Suprime ANEXO III — CERTIFICADO DE CONFORMIDADE COM ESPECIFICAÇÕES TÉCNICAS",
+    "Suprime ANEXO IV — APROVAÇÃO DOS LABORATÓRIOS DE ENSAIO E DOS ORGANISMOS DE INSPECÇÃO E DE CERTIFICAÇÃO"
+   ],
+   "fragments": [
+    "7ffef23d1fa20ffb"
+   ]
+  }
+ ],
+ "fragments": {
+  "4745a5653475ca6e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 89/106/CEE do Conselho de 21 de Dezembro de 1988 relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros no que respeita aos produtos de construção** *Jornal Oficial nº L 040 de 11/02/1989 p. 0012 - 0026 Edição especial finlandesa: Capítulo 13 Fascículo 17 p. 0185 Edição especial sueca: Capítulo 13 Fascículo 17 p. 0185*\n\nDIRECTIVA DO CONSELHO de 21 de Dezembro de 1988 relativa à exproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros no que respeita aos produtos de construção (89/106/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100° A,\n\nTendo em conta a proposta da Comissão [1],\n\nTendo em conta o parecer do Parlamento Europeu [2],\n\nTendo em conta o parecer do Comité Económico e Social [3],\n\n[1] JO n° C 93 de 6. 4. 1987, p. 1.\n\n[2] JO n° C 305 de 16. 11. 1987, p. 74 e JO n° C 326 de 19. 12. 1988.\n\n[3] JO n° C 95 de 11. 4. 1988, p. 29.\n\nConsiderando que cabe aos Estados-membros assegurar-se de que as obras de construção civil e de engenharia civil no seu território sejam concebidas e realizadas de modo a que não comprometam a segurança das pessoas, animais domésticos e bens, respeitando ao mesmo tempo outros requisitos essenciais no interesse do bem-estar geral;\n\nConsiderando que, nos Estados-membros, há preceitos imperativos que incluem requisitos relativos não só à segurança da construção mas também à saúde, à durabilidade, à poupança de energia, à Protecção do ambiente, aos aspectos económicos e outros aspectos relevantes de interesse público;\n\nConsiderando que esses requisitos, que muitas vezes são objecto de disposições legislativas, regulamentares e administrativas a nível nacional, têm uma influência directa sobre a natureza dos produtos de construção utilizados e se reflectem nas normas nacionais de produtos, aprovações técnicas e outras especificações e disposições técnicas que, pela sua disparidade, entravam as trocas comerciais no interior da Comunidade;\n\nConsiderando que o «Livro Branco» sobre a conclusão do Mercado Interno, aprovado pelo Conselho Europeu em Junho de 1985, determina no n° 71 que, no âmbito da política geral, deve dar-se especial realce a certos sectores, incluindo o sector da construção; que a eliminação dos entraves técnicos no domínio da construção, na medida em que não possam ser eliminados pelo reconhecimertto mútuo da equivalência entre Estados-membros, deve obedecer à nova abordagem prevista na resolução do Conselho de 7 de Maio de 1985 [4] que requer a definição dos requisitos essenciais relativos à segurança e a outros aspectos importantes para o bem-estar geral, sem que se reduzam os níveis de protecção justificados actualmente existentes nos Estados-membros;\n\n[4] JO no.s C 136 de 4. 6. 1985, p. 1.\n\nConsiderando que os requisitos essenciais constituem os critérios gerais e específicos a que devem satisfazer as obras de construção e que tais requisitos devem entender-se como exigindo que as referidas obras correspondam a um grau adequado de fiabilidade a um ou mais ou à totalidade desses requisitos sempre que tal esteja regulamentado;\n\nConsiderando que, como base para as normas harmonizadas ou outras especificações técnicas a nível europeu e para a elaboração ou concessão de aprovações técnicas europeias, devem elaborar-se documentos interpretativos a fim de que seja dada forma concreta aos requisitos essenciais a nível técnico;\n\nConsiderando que os requisitos essenciais proporcionam uma base para a preparação de normas harmonizadas a nível europeu para os produtos de construção; que, para se tirar o maior proveito possível da existência de um mercado interno único, para permitir o acesso a esse mercado ao maior número possível de fabricantes, para garantir o maior grau possível de transparência do mercado e criar as condições para um sistema harmonizado de regras gerais na indústria da construção, haverá que definir normas harmonizadas com a máxima extensão possível e com a maior brevidade possível; que tais normas são estabelecidas por organismos privados e, por conseguinte, têm de continuar a ser textos não vinculativos; que, para o efeito, o Comité Europeu de Normalização (CEN) e o Comité Europeu de Normalização Electrotécnica (Cenelec) são reconhecidos como os organismos competentes para a adopção de normas harmonizadas de acordo com as directrizes gerais para a cooperação entre a Comissáo e esses dois organismos assinadas em 13 de Novembro de 1984; que, para os efeitos da presente directiva, uma norma harmonizada é uma especificação técnica (norma europeia ou documento harmonizado) adoptada por um ou ambos desses organismos com base num mandato conferido pela Comissão nos termos da Directiva 83/189/CEE do Conselho, de 28 de Março de 1983, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas [5];\n\n[5] JO n° L 109 de 26. 4. 1983, p. 8.\n\nConsiderando que a natureza especial dos produtos de construção exige uma formulação precisa dessas normas harmonizadas; que, por conseguinte, é necessário elaborar documentos interpretativos por forma a estabelecer as relações entre os mandatos para a adopção de normas e os requisitos essenciais; que as normas harmonizadas, que serão expressas tanto quanto possível em termos do comportamento funcional do produto, devem ter em conta tais documentos interpretativos, que devem ser elaborados em cooperação com os Estados-membros;\n\nConsiderando que os níveis de comportamento funcional e os requisitos a satisfazer no futuro pelos produtos nos Estados-membros serão desdobrados em classes nos documentos interpretativos e nas especificações técnicas harmonizadas por forma a ter em conta diferentes níveis nos requisitos essenciais para determinadas obras e as diferenças de condições existentes nos Estados-membros;\n\nConsiderando que as normas harmonizadas devem incluir classificações que permitam que os produtos de construção que satisfaçam os requisitos essenciais e que sejam produzidos e utilizados correctamente de acordo com tradições técnicas justificadas pelas condições climatéricas locais e outras possam contimuar a ser comercializados;\n\nConsiderando que se presume que um produto está apto para ser utilizado se estiver conforme com uma norma harmonizada, uma aprovação técnica europeia ou uma especificação técnica não harmonizada reconhecida a nível comunitário; que, para os produtos que se revistam de reduzida importância no que respeita aos requisitos essenciais, a sua aptidão para o uso pode ser certificada por recurso a um organismo aprovado, sempre que tais produtos se afastem das especificações técnicas existentes;\n\nConsiderando que os produtos desse modo considerados aptos para o uso são facilmente reconhecíveis pela aposição da marca CE; que deve ser-lhes permitida a livre circulação e a livre utilização para o fim a que se destinem em toda a Comunidade;\n\nConsiderando que, no caso dos produtos cujas normas europeias não possam ser estabelecidas ou previstas dentro de um prazo razoável, ou de produtos que se afastem substancialmente de uma norma, a respectiva aptidão para o uso pode ser comprovada por recurso às aprovações técnicas europeias com base em directrizes comuns; que as directrizes comuns para a concessão de aprovações técnicas europeias serão adoptadas a partir dos documentos interpretativos;\n\nConsiderando que, na ausência de normas harmonizadas e de aprovações técnicas europeias, as normas nacionais ou outras especificações técnicas ñao harmonizadas podem ser reconhecidas como fonmecendo uma base adequada para a presunção de que os requisitos essenciais estão preenchidos;\n\nConsiderando que é necessário assegurar a conformidade dos produtos com as normas harmonizadas e com as aprovações técnicas não harmonizadas reconhecidas a nível europeu através de processos de controlo de produção pelo fabricante e de supervisão, de ensaio, de apreciação e de certificação por terceiros independentes e qualificados, ou pelo próprio fabricante;\n\nConsiderando que deve ser estabelecido um processo especial como medida provisória para os produtos relativamente aos quais ainda não existem normas ou aprovações técnicas reconhecidas a nível europeu; que esse processo deve facilitar o reconhecimento dos resultados dos ensaios realizados noutro Estado-membro segundo as exigências técnicas do Estado-membro destinatário;\n\nConsiderando que deve ser constituído um comité permanente da construção composto por peritos designados pelos Estados-membros para assistir à Comissáo nas questões resultantes da execução e aplicação prática da presente directiva;\n\nConsiderando que a responsabilidade dos Estados-membros quanto à segurança, saúde e outros aspectos abrangidos pelos requisitos essenciais no seu território deve ser reconhecida numa cláusula de salvaguarda que preveja medidas adequadas de protecção,\n\nADOPTOU A PRESENIE DIRECTIVA:"
+  },
+  "c6645555d2f7ebf1": {
+   "fragment_id": "CAPÍTULO I — Campo de aplicação - definições - requisitos - especificações técnicas - livre circulação de mercadorias",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Campo de aplicação - definições - requisitos - especificações técnicas - livre circulação de mercadorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Campo de aplicação - definições - requisitos - especificações técnicas - livre circulação de mercadorias"
+  },
+  "5a4221897deeee76": {
+   "fragment_id": "Artigo 1°",
+   "type": "artigo",
+   "heading": "Artigo 1°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1°\n\n1. A presente directiva aplica-se a produtos de construção, na medida em que lhes digam respeito os requisitos essenciais a satisfazer pelas obras nos termos do n° 1 do artigo 3°\n\n2. Para efeitos da presente directiva, entende-se por «produtos de construção» todos os produtos destinados a ser permanentemente incorporados em obras de construção, incluindo as obras de construção civil e de engenharia civil.\n\nOs «produtos de construção» são adiante denominados «produtos»; as obras de construção, incluindo as de construção civil e de engenharia civil, são adiante denominadas «obras»."
+  },
+  "4e3e1cbf243196b7": {
+   "fragment_id": "Artigo 2°",
+   "type": "artigo",
+   "heading": "Artigo 2°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2°\n\n1. Os Estados-membros tomarão as medidas necessárias para garantir que os produtos mencionados no artigo 1°, destinados a ser utilizados em obras, só possam ser comercializados se estiverem aptos para a função a que se destinam, ou seja, se apresentarem características tais que as obras em que sejam incorporados, montados, aplicados ou instalados, se tiverem sido convenientemente planeadas e realizadas, possam satisfazer os requisitos essenciais referidos no artigo 3°, sempre que tais obras estejam sujeitas a regulamentações que contenham tais requisitos.\n\n2. Caso os produtos sejam objecto de outras directivas comunitárias no tocante a outros aspectos, a marca CE de conformidade, adiante denominada «marca CE», referida no n° 2 do artigo 4°, indicará que, nesses casos, os requisitos dessas directivas foram igualmente preenchidos.\n\n3. Quando uma futura directiva contemplar sobretudo outros aspectos e só em grau secundário disser respeito aos requisitos essenciais da presente directiva, essa directiva deve conter disposições que assegurem que ela abrange também os requisitos da presente directiva.\n\n4. A presente directiva não afecta o direito de os Estados-membros - no devido respeito pelas disposições do Tratado - especificarem os requisitos que considerarem necessários para garantir a protecção dos trabalhadores aquando da utilização dos produtos, na condição de que tal não implique uma modificação dos produtos de forma não especificada na presente directiva."
+  },
+  "0831ef623f9bacfb": {
+   "fragment_id": "Artigo 3°",
+   "type": "artigo",
+   "heading": "Artigo 3°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3°\n\n1. Estabelecem-se no Anexo I, sob a forma de objectivos, os requisitos essenciais aplicáveis às obras susceptiveis de influenciar as características técnicas de um produto. Podem ser aplicáveis um ou mais ou a totalidade desses requisitos; os requisitos devem ser satisfeitos durante um período de vida útil economicamente razoável.\n\n2. A fim de atender a eventuais condições divergentes de natureza geográfica, climática ou de usos e costumes, bem como a níveis de protecção divergentes que possam existir a nível nacional, regional ou local, cada requisito essencial pode dar origem à constituição de classes, quer nos documentos referidos no n° 3 quer nas especificações técnicas referidas no artigo 4° para o requisito a cumprir.\n\n3. Os requisitos essenciais traduzir-se-ão em documentos (documentos interpretativos) que estabelecerão as ligações necessárias entre os requisitos essenciais referidos no n° 1 e os mandatos de normalização, os mandatos para a elaboração de directrizes para a aprovação técnica europeia ou o reconhecimento de outras especifieações técnicas na acepção dos artigos 4° e 5°"
+  },
+  "60be2202399d012d": {
+   "fragment_id": "Artigo 4°",
+   "type": "artigo",
+   "heading": "Artigo 4°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4°\n\n1. Para efeitos da presente directiva, as normas e aprovações técnicas são designadas por «especificações técnicas».\n\nPara efeitos da presente directiva, as normas harmonizadas são as especificações técnicas adoptadas pelo CEN, Pelo Cenelec, ou por ambos, por mandatos conferidos pela Comissão em conformidade com a Directiva 83/189/CEE, com base no parecer emitido pelo comité previsto no artigo 19° e em conformidade com as disposições gerais relativas à cooperação entre a Comissão e esses dois organismos, assinadas em 13 de Novembro de 1984.\n\n2. Os Estados-membros presumirão que são aptos para o fim a que se destinam os produtos que permitam que as obras em que são utilizados, quando correctamente concebidas e construídas, satisfaçam os requisitos essenciais referidos no artigo 3° e que estejam munidos da marca CE. A marca CE indica:\n\na) A conformidade do produto com as normas nacionais que transpõem as normas harmonizadas cujas referências tenham sido publicadas no Jornal Oficial das Comunidades Europeias. Os Estados-membros publicarão as referências dessas normas nacionais;\n\nb) A conformidade do produto com uma aprovação técnica europeia, emitida nos termos do processo referido no Capítulo III: ou\n\nc) A conformidade do produto com as especificações técnicas nacionais referidas no n° 3, na medida em que não existam especificações harmonizadas; será estabelecida uma lista dessas especificações nacionais em conformidade com o processo do n° 2 do artigo 5°\n\n3. Os Estados-membros podem comunicar à Comissão os textos das especificações técnicas nacionais que considerem satisfazer os requisitos essenciais referidos no artigo 3° A Comissão comunicará imediatamente essas especificações técnicas nacionais aos demais Estados-membros. Nos termos do processo previsto no n° 2 do artigo 5° a Comissão notificará os Estados-membros das especificações técnicas nacionais para as quais haja presunção de conformidade com os requisitos essenciais previstos no artigo 3° Este processo será iniciado e conduzido pela Comissão em concertação com o comité previsto no artigo 19° Os Estados-membros publicarão as referências dessas especificações técnicas. A Comissão publicá-las-á igualmente no Jornal Oficial das Comunidades Europeias.\n\n4. No caso de um fabricante, ou o seu mandatário estabelecido na Comunidade, não ter aplicado ou ter aplicado apenas parcialmente as especificações técnicas em vigor referidas no n° 2, que exijam, de acordo com os critérios estabelecidos no n° 4 do artigo 13°, que o produto seja sujeito a uma declaração de conformidade, nos termos do no n° 2, alínea ii), segunda e terceira possibilidades, do Anexo III, aplicar-se-ão as decisões correspondentes tomadas ao abrigo do n° 4 do artigo 13° e do Anexo III e a aptidão do produto para o uso, na acepção do n° 1 do artigo 2° será estabelecida nos termos do processo estabelecido no n° 2, alínea ii), segunda possibilidade, do Anexo III.\n\n5. A Comissão, em colaboração com o comité previsto no artigo 19° elaborará, gerirá e procederá a revisões periodicas de uma lista de produtos de menor importância no aspecto da saúde e da segurança, relativamente aos quais será emitida pelo fabricante uma declaração de conformidade com as «boas práticas técnicas» (recognised technical good practice / régles de l'art), que permitirá a sua colocação no mercado.\n\n6. A marca CE significa que tais produtos satisfazem os requisitos dos n° 2 e 4 do presente artigo. Compete ao fabricante, ou ao seu mandatário estabelecido na Comunidade, apor a marca CE no próprio produto, numa etiqueta nele fixada, na respectiva embalagem ou nos documentos comerciais de acompanhamento.\n\nReproduzem-se no Anexo III o modelo da marca CE e as condições da sua utilização.\n\nOs produtos referidos no n° 5 não trarão aposta a marca CE."
+  },
+  "7b8d6d7bcd0e7ea2": {
+   "fragment_id": "Artigo 5°",
+   "type": "artigo",
+   "heading": "Artigo 5°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5°\n\n1. Quando um Estado-membro ou a Comissão forem da opinião de que as normas harmonizadas ou as aprovações técnicas europeias referido no n° 2, alíneas a) e b), do artigo 4°, ou os mandatos referidos no Capítulo II, não satisfazem o disposto nos artigos 2° e 3°, esse Estado-membro ou a Comissáo notificarão desse facto o comité previsto no artigo 19°, expondo as suas razões. O comité emitirá com urgência um parecer.\n\nCom base no parecer do comité previsto no artigo 19° e após consulta ao comité criado pela Directiva 83/l89/CEE no que se refere às normas harmonizadas, a Comissão informará os Estados-membros se as normas ou aprovações em causa devem ser retiradas das publicações mencionadas no n° 3 do artigo 7°\n\n2. Recebida a comunicação referida no n° 3 do artigo 4°, a Comissão consultará o comité previsto no artigo 19° Com base no parecer desse comité, a Comissão notificará os Estados-membros indicando se a especificação técnica em causa deve beneficiar da presunção de conformidade e, em caso afirmativo, publicará uma referência a essa especificação no Jornal Oficial das Comunidades Europeias.\n\nSe a Comissão ou um Estado-membro entender que uma especificação técnica deixou de satisfazer as condições necessárias para a presunção de conformidade com o disposto nos artigos 2° e 3° a Comissão consultará o comité previsto no artigo 19° Com base no parecer desse comité, a Comissão notificará os Estados-membros indicando se a especificação técnica nacional em causa deve continuar a beneficiar da presunção de conformidade e, em caso negativo, se deve retirada a referência a essa especificação prevista no n° 3 do artigo 4°"
+  },
+  "e58a69365c6a2d5b": {
+   "fragment_id": "Artigo 6°",
+   "type": "artigo",
+   "heading": "Artigo 6°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6°\n\nl. Os Estados-membros não podem levantar obstáculos à livre circulação, à introdução no mercado e à utilização no seu território de produtos que satisfaçam as disposições da presente directiva.\n\nOs Estados-membros garantirão que a utilização de tais produtos para os firts a que se destinam não será impedida por regras ou condições impostas por organismos públicos ou por organismos privados que actuem como empresas públicas ou organismos públicos com base na sua posição de monopólio.\n\n2. Contudo, os Estados-membros autorizarão a comercialização no seu território dos produtos não abrangidos pelo n° 2 do artigo 4°, desde que satisfaçam disposições nacionais conformes com o Tratado, até que as especificações técnicas europeias referidas nos Capítulos II e III disponham em contrário. A Comissão e o comité previsto no artigo 19° procederão, numa base de regularidade, ao controlo e à revisão da elaboração das especificações técnicas europeias.\n\n3. Quando as especificações técnicas europeias aplíaveis, por si só ou com base nos documentos interpretativos referidos no n° 3 do artigo 3° estabelecerem uma distinção entre diferentes classes com diferentes níveis de comportamento funcional, os Estados-membros só podem determinar os comportamentos funcionais a respeitar no seu território dentro das classificações aceites a nível comunitário, e isso apenas mediante a utilização de todas, de algumas, ou de uma única classe."
+  },
+  "9f77c94d3da4ded0": {
+   "fragment_id": "CAPÍTULO II — Normas harmonizadas",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Normas harmonizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Normas harmonizadas"
+  },
+  "124924c261064a45": {
+   "fragment_id": "Artigo 7°",
+   "type": "artigo",
+   "heading": "Artigo 7°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7°\n\n1. A fim de assegurar a qualidade das normas harmonizadas para os produtos, essas normas serão estabelecidas pelos organismos europeus de normalização com base em mandatos que lhes são conferidos pela Comissão nos termos do processo estabelecido pela Directiva 83/189/CEE e, após consulta ao comité previsto no artigo 19°, em conformidade com as disposições gerais respeitantes à cooperação entre a Comissão e esses organismos assinadas em 13 de Novembro de 1984.\n\n2. As normas assim estabelecidas serão conebidas, na medida do possível, sob forma de exigências quanto ao comportamento funcional dos produtos, tendo em conta os documentos interpretativos.\n\n3. Uma vez estabelecidas as normas pelas organizações europeias de normalização, a Comissão publicará as respectivas referêrtcias na série «C» do Jornal Oficial das Comunidades Europeias."
+  },
+  "fbe3dae807a6b19f": {
+   "fragment_id": "CAPÍTULO III — Aprovação técnica europeia",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — Aprovação técnica europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Aprovação técnica europeia"
+  },
+  "f4d95b493d56b786": {
+   "fragment_id": "Artigo 8°",
+   "type": "artigo",
+   "heading": "Artigo 8°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8°\n\n1. A aprovação técnica europeia é uma apreciação técnica favorável da aptidão de um produto para o uso a que se destina, com base no cumprimento dos requisitos essenciais a satisfazer pelas obras em que o produto é utilizado.\n\n2. A aprovação técnica europeia pode ser concedida a:\n\na) Produtos para os quais não exista uma norma harmonizada, nem uma norma nacional aprovada nem um mandato para a elaboração de uma norma harmonizada, e para os quais a Comissão, após consulta ao comité previsto no artigo 19°, considere que não se pôde, ou não se pôde ainda, elaborar uma norma, e\n\nb) Os produtos que se afastem, de forma significativa, das normas nacionais harmonizadas ou aprovadas.\n\nMesmo nos casos em que tenha sido conferido um mandato para a elaboração de uma norma harmonizada, as disposições referidas na alínea a) não excluem a concessão de uma aprovação técnica europeia para produtos para os quais existam directrizes nesse sentido. A presente disposição aplicar-se-á até à entrada em vigor da norma harmonizada nos Estados-membros.\n\n3. Em casos excepcionais, a Comissão pode, em derrogação da alínea a) do n° 2, após consulta ao comité previsto no artigo 19°, autorizar a concessão da aprovação técnica europeia a produtos para os quais exista um mandato para a elaboração de uma norma harmonizada ou para os quais a Comissão tenha estabelecido que pode ser elaborada uma norma harmonizada. Essa autorização será válida por um período determinado.\n\n4. A aprovação técnica europeia é, em geral, concedida por um prazo de cinco anos. Esse prazo pode ser prorrogado."
+  },
+  "a338e39fe34a0d93": {
+   "fragment_id": "Artigo 9°",
+   "type": "artigo",
+   "heading": "Artigo 9°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9°\n\n1. A aprovação técnica europeia de um produto basear-se-á em análises, ensaios e numa apreciação com base nos documentos interpretativos referidos no n° 3 do artigo 3° e nas directrizes referidas no artigo 11° para esse produto ou para a família de produtos a que pertence.\n\n2. Sempre que as directrizes referidas no artigo 11° não existam ou não existam ainda, pode ser concedida a aprovação técnica europeia com referência aos requisitos essenciais pertinentes e aos documentos interpretativos sempre que a apreciação do produto seja adoptada por deliberação conjunta dos organismos de aprovação no seio da organização referida no Anexo II. Se os organismos de aprovação não chegarem a acordo, o assunto será submetido à apreciação do comité previsto no artigo 19°\n\n3. O certificado de aprovação técnica europeia de um produto será emitido num Estado-membro nos termos do processo estabelecido no Anexo II, a pedido do fabricante, ou seu mandatário estabelecido na Comunidade."
+  },
+  "c21d7db7c334c1f0": {
+   "fragment_id": "Artigo 10°",
+   "type": "artigo",
+   "heading": "Artigo 10°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10°\n\n1. Cada Estado-membro notificará os outros Estados-membros e a Comissão dos nomes e endereços dos organismos por ele autorizados para a concessão de aprovações técnicas europeias.\n\n2. Os organismos de aprovação devem satisfazer os requisitos da presente directiva e, em especial, devem estar em condições de:\n\n- apreciar a aptidáo para o uso de novos produtos, com base em conhecimentos científicos e práticos,\n\n- tomar decisões imparciais relativamente aos interesses dos fabricantes, ou seus mandatários estabelecidos na Comunidade, e\n\n- reunir os contributos de todas as partes interessadas por forma a conseguir uma apreciação equilibrada.\n\n3. A lista dos organismos competentes para a concessão de aprovações técnicas europeias, bem como qualquer alteração dessa lista, será publicada na série «C» do Jornal Oficial das Comunidades Europeias."
+  },
+  "93e06025e9b668d5": {
+   "fragment_id": "Artigo 11°",
+   "type": "artigo",
+   "heading": "Artigo 11°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11°\n\n1. Após consulta ao comité previsto no artigo 19° a Comissão concederá mandatos para o estabelecimento de directrizes para a aprovação técnica europeia de um produto ou família de produtos à organização que réuna os organismos de aprovação designados pelos Estados-membros.\n\n2. As directrizes para a aprovação técnica europeia de um produto ou família de produtos devem conter, em especial:\n\na) A lista dos documentos interpretativos pertinentes referidos no n° 3 do artigo 3°;\n\nb) As exigências concretas a satisfazer pelo produto na acepção dos requisitos essenciais referidos no n° 1 do artigo 3°;\n\nc) Os processos de ensaio;\n\nd) O método de apreciação e de avaliação dos resultados dos ensaios;\n\ne) Os processos de controlo e de comprovação de conformidade, que devem corresponder aos artigos 13° 14° e 15°;\n\nf) O prazo de validade da aprovação técnica europeia.\n\n3. Após consulta ao comité previsto no artigo 19° as directrizes para a aprovação técnica europeia serão publicadas pelos Estados-membros na(s) respectiva(s) língua(s) oficial(ais)."
+  },
+  "9abab8ceaa7d2f69": {
+   "fragment_id": "CAPÍTULO IV — Documentos interpretativos",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — Documentos interpretativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Documentos interpretativos"
+  },
+  "d14804cbe408c786": {
+   "fragment_id": "Artigo 12°",
+   "type": "artigo",
+   "heading": "Artigo 12°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12°\n\n1. Após ter consultado o comité previsto no artigo 19° a Comissão encarregará os comité em os Estados-membros participam de elaborar os documentos interpretativos referidos no n° 3 do artigo 3°\n\n2. Os documentos interpretativos devem:\n\na) Concretizar os requisitos essenciais definidos no artigo 3° e no Anexo I, harmonizando a terminologia e as bases técnicas e indicando classes ou níveis para cada requisito, sempre que necessário e sempre que o estado dos conhecimentos científicos e técnicos o permitir;\n\nb) Indicar métodos de correlação entre essas classes ou níveis de requisitos e as especificações técnicas referidas no artigo 4° por exemplo, métodos de cálculo e de ensaio, regras técnicas de concepção de projectos, etc.\n\nc) Servir de referência para o estabelecimento das normas harmonizadas e das directrizes para a aprovação técnica europeia e para o reconhecimento de especificações técnicas nacionais, nos termos do n° 3 do artigo 4°\n\n3. A Comissão publicará os documentos interpretativos na série «C» do Jornal Oficial das Comunidades Europeias, após ter pedido o parecer do comité previsto no artigo 19°"
+  },
+  "eb7e69d7bdcbe8c7": {
+   "fragment_id": "CAPÍTULO V — Certificado de conformidade",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — Certificado de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Certificado de conformidade"
+  },
+  "0b29f070712a4e77": {
+   "fragment_id": "Artigo 13°",
+   "type": "artigo",
+   "heading": "Artigo 13°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13°\n\n1. O responsável pela certificação da conformidade de um produto com os requisitos de uma especificação técnica, na acepção do artigo 4° é o fabricante, ou o seu mandatário estabelecido na Comunidade.\n\n2. Os produtos que forem objecto de um certificado de conformidade beneficiarão da presunção de conformidade com as especificações técnicas na acepção do artigo 4° A conformidade será verificada através de ensaios ou outras provas com base nas especificações técnicas, nos termos do Anexo III.\n\n3. O certificado de conformidade de um produto pressupõe:\n\na) Que o fabricante disponha de um sistema de controlo de produção na fábrica, por forma a assegurar a conformidade da produção com as especificações técnicas pertinentes, ou\n\nb) para além de um sistema de controlo de produção na fábrica, no caso de determinados produtos mencionados nas especificações técnicas pertinentes, a intervenção de um organismo de certificação aprovado na apreciação e vigilância do controlo de produção ou do próprio produto.\n\n4. A escolha do processo, na acepção do n° 3, para um determinado produto ou família de produtos será especificada pela Comissão, após consulta ao comité previsto no artigo 19°, de acordo com as especificidades previstas no Anexo III, em função:\n\na) Da importância do produto no que se refere aos requisitos essenciais, em especial os relacionados com a saúde e seguranca;\n\nb) Da natureza do produto;\n\nc) Da inflûencia da variação das características do produto na sua funcionalidade;\n\nd) Das probabilidades de ocorrência de defeitos no fabrico do produto.\n\nSerá sempre dada preferência ao processo menos oneroso compatível com a seguranca.\n\nO processo assim escolhido deve ser indicado nos mandatos e nas especificações técnicas ou na respectiva publicação.\n\n5. No caso de produção individual (e não em série), bastará uma declaração de conformidade nos termos do n° 2, alínea ii), terceira possibilidade, do Anexo III, a menos que as especificações técnicas contenham disposições em corttrário relativamente a produtos que tenham importantes implicações no domínio da saúde e da seguranca."
+  },
+  "84f6800aa5aa725a": {
+   "fragment_id": "Artigo 14°",
+   "type": "artigo",
+   "heading": "Artigo 14°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14°\n\n1. De acordo com o Anexo III, os processos descritos darão origem:\n\na) No caso referido no n° 3, alínea a), do artigo 13°, à emissão de uma declaração de conformidade para o produto pelo fabricante, ou seu mandatário estabelecido na Comunidade, ou\n\nb) No caso referido no n° 3, alínea b), do artigo 13°, à emissão por um organismo de certificação aprovado de um certificado de conformidade para um sistema de controlo e vigilância da produção ou para o próprio produto.\n\nAs regras pormenorizadas para a aplicação dos processos de certificação da conformidade encontram-se no Anexo III.\n\n2. A declaração de conformidade do fabricante ou o certificado de conformidade autorizam o fabricante, ou o seu mandatário estabelecido na Comunidade, a apor a correspondente marca CE no próprio produto, num rótulo aplicado ao produto, na sua embalagem, ou nos documentos comerciais que o acompanham. No Anexo III encontram-se o modelo da marca CE e as regras para a sua utilização no caso dos diferentes processos de certificação da conformidade."
+  },
+  "9b93b88d903bfaf6": {
+   "fragment_id": "Artigo 15°",
+   "type": "artigo",
+   "heading": "Artigo 15°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15°\n\n1. Os Estados-membros assegurarão a correcta utilização da marca CE.\n\n2. Caso se verifique que a marca CE foi aposta num produto que não satisfaz, ou não satisfaz já, o disposto na presente directiva, o Estado-membro em que a conformidade foi certificada assegurará, se necessário, que a utilização da marca CE seja proibida e que os produtos não vendidos sejam retirados do mercado, ou as marcas suprimidas, até que o produto em causa volte a satisfazer os critérios de conformidade.\n\nO Estado-membro em causa informará imediatamente os outros Estados-membros e a Comissão, fornecendo todos os pormenores qualitativos e quantitativos necessários para a identificação do produto que não satisfaz os critérios de conformidade.\n\n3. Os Estados-membros assegurarão a proibição de fixar, nos produtos ou suas embalagens, marcas que possam confundir-se com a marca CE."
+  },
+  "563c56714e3e084f": {
+   "fragment_id": "CAPÍTULO VI — Processos especiais",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — Processos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Processos especiais"
+  },
+  "70337258894a2842": {
+   "fragment_id": "Artigo 16°",
+   "type": "artigo",
+   "heading": "Artigo 16°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16°\n\n1. Na ausência de especificações técnicas, tal como definidas no artigo 4° para um determinado produto, o Estado-membro destinatário, mediante pedido e em casos concretos, considerará como conformes com as disposições nacionais em vigor os produtos que tenham sido considerados satisfatórios em ertsaios e inspecções efectuados por um organismo aprovado no Estado-membro produtor segundo os métodos em vigor no Estado-membro destinatário ou por este reconhecidos como equivalentes.\n\n2. O Estado-membro produtor comunicará ao Estado-membro destinatário, cujas disposições nacionais servirão de base para os ensaios e inspecções, o organismo que tenciona aprovar para esse fim. O Estado-membro destinatário e o Estado-membro produtor prestar-se-ão mutuamente todas as informações necessárias. Após essa troca de informações, o Estado-membro produtor aprovará o organismo assim designado. Se um dos Estados-membros tiver dúvidas, fundamentará a sua posição e informará a Comissão.\n\n3. Os Estados-membros assegurarão que os organismos designados se prestem mutuamente toda a assistência necessária.\n\n4. Se um Estado-membro verificar que um organismo aprovado não efectua os ensaios e inspecções em conformidade com as suas disposições nacionais, notificará do facto o Estado-membro onde o organismo está aprovado. Este último Estado-membro informará em tempo útil o Estado-membro notificador das diligências efectuadas. Se o Estado-membro notificador considerar que essas diligências são insuficientes, pode proibir a comercialização e a utilização do produto em causa ou submetê-las a condições especiais. Do facto informará o outro Estado-membro e a Comissão."
+  },
+  "3bca7c10b851e70b": {
+   "fragment_id": "Artigo 17°",
+   "type": "artigo",
+   "heading": "Artigo 17°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17°\n\nOs Estados-membros destinatários atribuirão aos relatórios estabelecidos e aos certificados de conformidade emitidos no Estado-membro produtor, nos termos do processo referido no artigo l6° o mesmo valor que aos documentos nacionais correspondentes."
+  },
+  "1fe0f38708015fd9": {
+   "fragment_id": "CAPÍTULO VII — Organismos aprovados",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII — Organismos aprovados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Organismos aprovados"
+  },
+  "9d32e9cbe12a14d1": {
+   "fragment_id": "Artigo 18°",
+   "type": "artigo",
+   "heading": "Artigo 18°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18°\n\n1. Cada Estado-membro fonmecerá à Comissão uma lista com os nomes e endereços dos organismos de certificação e de inspecção e dos laboratórios de ensaio designados por esse Estado-membro para as tarefas a executar ao abrigo da presente directiva para efeito das aprovações técnicas, certificados de conformidade, inspecções e ensaios.\n\n2. Os organismos de certificação e de inspecção e os laboratórios de ensaio devem satisfazer os critérios fixados no Anexo IV.\n\n3. Os Estados-membros devem indicar quais os produtos abrangidos pela competência dos organismos e laboratórios referidos no n° 1 e a natureza das tarefas que lhes são confiadas."
+  },
+  "8bd1ff73effe2c48": {
+   "fragment_id": "CAPÍTULO VIII — Comité Permanente da Construção",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII — Comité Permanente da Construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Comité Permanente da Construção"
+  },
+  "62f8d23a4e6eaf0b": {
+   "fragment_id": "Artigo 19°",
+   "type": "artigo",
+   "heading": "Artigo 19°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19°\n\n1. É criado um Comité Permanente da Construção.\n\n2. O Comité será composto por representantes designados pelos Estados-membros e presidido por um representante da Comissão. Cada Estado-membro designará dois representantes que podem fazer-se acompanhar de peritos.\n\n3. O comité estabelecerá o seu próprio regulamento intenmo."
+  },
+  "c0905ac413698896": {
+   "fragment_id": "Artigo 20°",
+   "type": "artigo",
+   "heading": "Artigo 20°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20°\n\n1. O comité previsto no artigo 19° pode, a pedido do seu presidente ou de um Estado-membro, examinar todas as questões relacionadas com a execução e a aplicação prática da presente directiva.\n\n2. As disposições necessárias a:\n\na) Estabelecer categorias de requisitos na medida em que não tenham sido incluídas nos documentos interpretativos e estabelecer o processo para a certificação da conformidade em mandatos para a elaboração de normas nos termos do n° 1 do artigo 7° e para o estabelecimento de directrizes para a aprovação nos termos do n° 1 do artigo 11°;\n\nb) Prestar instruções para a elaboração de documentos interpretativos, nos termos do n° 1 do artigo 12°, e para as deliberações sobre os documentos interpretativos, nos termos do n° 3 do artigo 12°;\n\nc) Reconhecer as especificações técnicas nacionais, nos termos do n° 3 do artigo 4°, serão adoptadas de acordo com o processo estabelecido nos n° 3 e 4.\n\n3. O representante da Comissão apresentará ao comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto dentro do prazo a fixar pelo presidente conforme a urgência da questão. O parecer será emitido pela maioria prevista no n° 2 do artigo 148° do Tratado para a adopção das decisões que o Conselho é convidado a tomar sob proposta da Comissao. Aos votos dos representantes dos Estados-membros será atribuída a ponderação prevista no mesmo artigo. O presidente não participa na votação.\n\n4. A Comissão adoptará as medidas propostas se estas forem conformes com o parecer do comité. Se as medidas previstas não forem conformes com o parecer do comité, ou se não for emitido qualquer parecer, a Comissão apresentará sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada. Se, no prazo de três meses a contar da data em que a proposta lhe tiver sido apresentada, o Conselho não tiver deliberado, as medidas propostas serão adoptadas pela Comissão."
+  },
+  "674743c785164673": {
+   "fragment_id": "CAPÍTULO IX — Cláusula de salvaguarda",
+   "type": "divisao",
+   "heading": "CAPÍTULO IX — Cláusula de salvaguarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — Cláusula de salvaguarda"
+  },
+  "64f2b2e4735a605b": {
+   "fragment_id": "Artigo 21°",
+   "type": "artigo",
+   "heading": "Artigo 21°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21°\n\n1. Sempre que em Estado-membro verifique que um produto que seja declarado em conformidade com o disposto na presente directiva não satisfaz os artigos 2° e 3°, tomará todas as medidas necessárias para retirar esse produto do mercado, proibir a sua comercialização ou restringir a sua livre circulação. O fstado-membro em causa informará imediatamente a Comissao de qualquer uma dessas medidas e indicará as razões da sua decisão e, em especial, se a não conformidade resulta:\n\na) Da não observância dos artigos 2° e 3°, quando o produto não corresponda às especificações técnicas referidas no artigo 4°;\n\nb) De uma má aplicação das especificações técnicas referidas no artigo 4°;\n\nc) De deficiências nas próprias especificações técnicas referidas no artigo 4°.\n\n2. A Comissão consultará as partes interessadas tão rapidamente quanto possível. Se, após essa consulta, a Comissão verificar que se justifica uma actuação, dá-lo-á a conhecer imediatamente ao Estado-membro que tomou a iniciativa bem como aos outros Estados-membros.\n\n3. Quando a decisão referida no n° 1 for motivada por deficiências das normas ou especificações técnicas, a Comissão, após consulta às partes interessadas, apresentará o assunto ao comité previsto no artigo 19°, bem como, no caso de deficiências de uma norma harmonizada, ao comité criado pela Directiva 83/189/CEE, no prazo de dois meses, se o Estado-membro que tiver tomado as medidas pretender mantê-las, e iniciará os Processos referidos no n° 2 do artigo 5°.\n\n4. O Estado-membro em causa tomará as medidas adequadas contra quem tiver feito a declaração de conformidade e informará do facto a Comissão e os outros Estados-membros.\n\n5. A Comissão assegurará que os Estados-membros sejam mantidos ao corrente do desenvolvimento e dos resultados deste processo."
+  },
+  "545a053987dfff08": {
+   "fragment_id": "CAPÍTULO X — Disposições finais",
+   "type": "divisao",
+   "heading": "CAPÍTULO X — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO X — Disposições finais"
+  },
+  "2b432607a8656aca": {
+   "fragment_id": "Artigo 22°",
+   "type": "artigo",
+   "heading": "Artigo 22°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22°\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, no prazo de trinta meses após a sua notificação [6]. Do facto informarão imediatamente a Comissão.\n\n[6] A presente directiva foi notificada aos Estados-membros em 27 de Dezembro de 1988.\n\n2. Os Estados-membros comunicarão à Comissão o texto das normas de direito interno que tiverem adoptado no domínio abrangido pela presente directiva."
+  },
+  "636b36955a63b5f5": {
+   "fragment_id": "Artigo 23°",
+   "type": "artigo",
+   "heading": "Artigo 23°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23°\n\nO mais tardar em 31 de Dezembro de 1993, a Comissão, em consulta com o comité previsto no artigo 19°, voltará a analisar a operacionalidade dos processos previstos na presente directiva, apresentando, se necessário, propostas de alteração adequadas."
+  },
+  "47b19e6063f3db35": {
+   "fragment_id": "Artigo 24°",
+   "type": "artigo",
+   "heading": "Artigo 24°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24°\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 21 de Dezembro de 1988.\n\nPelo Conselho\n\nO Presidente\n\nV. PAPANDREOU"
+  },
+  "7bf4624a0f10b5ce": {
+   "fragment_id": "ANEXO I — REQUISITOS ESSENCIAIS",
+   "type": "divisao",
+   "heading": "ANEXO I — REQUISITOS ESSENCIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — REQUISITOS ESSENCIAIS\n\nOs produtos devem permitir a realização de obras que (no seu todo e nas suas partes) estejam aptas para o uso a que se destinam, tendo em conta factores de rentabilidade económica, e que, para tal, satisfaçam os seguintes requisitos essenciais, sempre que tais obras estejam sujeitas a regulamentações que contenham tais requisitos. Os requisitos devem, em condições normais de manutenção, ser satisfeitos durante um período de vida útil economicamente razoável. Os requisitos referem-se geralmente a factores previsíveis.\n\n1. Resistência mecânica e estabilidade\n\nAs obras devem ser concebidas e construídas de modo a que as cargas a que possam estar sujeitas durante a construção e a utilização não causem:\n\na) O desabamento total ou parcial da obra;\n\nb) Grandes deformações que atinjam um grau inadmissível;\n\nc) Danos em outras partes da obra ou das instalações ou do equipamento instalado como resultado de deformações importantes das estruturas de suporte de carga;\n\nd) Danos desproporcionados relativamente ao facto que esteve na sua origem.\n\n2. Segurança contra incêndios\n\nAs obras devem ser concebidas e realizadas de modo a que, no caso de se declarar um incêndio:\n\n- a capacidade das estruturas de suporte de carga possa ser garantida durante um período de tempo determinado,\n\n- a deflagração e propagação do fogo e do fumo dentro da obra sejam limitadas,\n\n- a propagação do fogo às construções vizinhas seja limitada,\n\n- os ocupantes possam abandonar a obra ou ser salvos por outros meios,\n\n- a segurança das equipas de socorro esteja assegurada.\n\n3. Higiene, saúde e ambiente\n\nA obra deve ser concebida e realizada de modo a não causar danos à higiene e à saúde dos ocupantes ou vizinhos, em consequência, nomeadamente:\n\n- da libertação de gases tóxicos,\n\n- da presenca de partículas ou gases peligosos no ar,\n\n- da emissão de radiações perigosas,\n\n- da poluição ou contaminação da água ou do solo,\n\n- da evacuação defeituosa das águas residuais, do fumo, dos desperdícios sólidos ou líquidos,\n\n- da presença de humidade em partes ou em superfícies da obra.\n\n4. Segurança na utifização\n\nA obra deve ser concebida e realizada de modo a não apresentar riscos inaceitáveis de acidente durante a sua utilização e funcionamento, como por exemplo, riscos de escorregamento, desabamento, queda, queimadura, electrocussáo e quaisquer danos provocados por explosáo.\n\n5. Protecção contra o ruído\n\nA obra deve ser concebida e realizada de modo a que o ruído captado pelos ocupantes ou pelas pessoas próximas se mantenha a um nível que não prejudique a sua saúde e lhes permita dormir, descansar e trabalhar em condições satisfatórias.\n\n6. Economia de energia e retenção de calor\n\nA obra e as instalações de aquecimento, arrefecimento e ventilação devem ser concebidas e realizadas de modo a que a quantidade de energia necessária para a sua utilização seja baixa, tendo em conta as condições climáticas do local e os ocupantes."
+  },
+  "858bd13e240783a2": {
+   "fragment_id": "ANEXO II — APROVAÇÃO TÉCNICA EUROPEIA",
+   "type": "divisao",
+   "heading": "ANEXO II — APROVAÇÃO TÉCNICA EUROPEIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — APROVAÇÃO TÉCNICA EUROPEIA\n\n1. O fabricante de um produto, ou o seu mandatorio estabelecido na Comunidade, deve introduzir o respectivo pedido de aprovação junto de um único organismo aprovado para o efeito.\n\n2. Os organismos de aprovação designados pelos Estados-membros constituir-se-ão numa organização. Essa organização deve, no âmbito das suas atribuições, manter uma cooperação estreita com a Comissão, que consultará o comité previsto no artigo 19° da directiva sobre questões importantes. Se um Estado-membro tiver designado mais de um organismo de aprovação, cabe a esse Estado-membro coordenar esses organismos; o Estado-membro designará igualmente o organismo que será porta-voz da organização.\n\n3. As regras processuais comuns para a apresentação do pedido e a preparação e concessão das aprovações serão estabelecidas pela organização que agrupa os organismos de aprovação designados. A regras processuais comuns serão, nos termos do artigo 20° da directiva, adoptadas pela Comissão com base no parecer do comité.\n\n4. Os organismos de aprovação apoiar-se-ão mutuamente no seio da organização que os agrupa. Cabe igualmente a essa organização coordenar as aprovações técnicas no que se refere a aspectos específicos. Se necessário, a organização criará subgrupos para o efeito.\n\n5. As aprovações técnicas europeias serão publicadas pelos organismos de aprovação, que delas darão conhecimento a todos os outros organismos de aprovação. A pedido de um organismo de aprovação, ser-lhe-á enviada, para informação, uma cópia de todos os documentos relativos a qualquer aprovação concedida.\n\n6. Os custos decorrentes do processo de aprovação técnica europeia ficam a cargo do requerente nos termos da lei nacional em vigor."
+  },
+  "2cc5bca7ac8c9522": {
+   "fragment_id": "ANEXO III — CERTIFICADO DE CONFORMIDADE COM ESPECIFICAÇÕES TÉCNICAS",
+   "type": "divisao",
+   "heading": "ANEXO III — CERTIFICADO DE CONFORMIDADE COM ESPECIFICAÇÕES TÉCNICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — CERTIFICADO DE CONFORMIDADE COM ESPECIFICAÇÕES TÉCNICAS\n\n1. MÉTODOS DE CONTROLO DA CONFORMIDADE\n\nAo estabelecer-se o processo de certificação da conformidade de um produto com as especificações técnicas, nos termos do artigo 13°, devem ser utilizados os métodos de controlo da conformidade a seguir indicados; a escolha do método e respectivas combinações que devem ser utilizados para um determinado sistema dependerão dos requisitos relativos ao produto em causa ou grupo de produtos, de acordo com os critérios referidos nos n° 3 e 4 do artigo 13° da directiva:\n\na) Ensaio iniciai do produto feito pelo fabricante ou por um organismo aprovado;\n\nb) Ensaios de amostras colhidas em fábrica de acordo com um programa de ensaios previamente estabelecido, efectuados pelo fabricante ou por um organismo aprovado;\n\nc) Ensaio aleatório de amostras colhidas na fábrica, no mercado ou numa obra, efectuado pelo fabricante ou por um organismo aprovado;\n\nd) Ensaio de amostras colhidas num lote destinado a fonmecimento ou já fornecido, efectuado pelo fabricante ou por um organismo aprovado;\n\ne) Controlo de produção da fábrica;\n\nf) Inspecção inicial da fábrica e do controlo de produção da fábrica efectuada por um organismo aprovado;\n\ng) Fiscalização, avaliação e apreciação contínuas do controlo de produção da fábrica, efectuadas por um organismo aprovado.\n\nNa acepção da directiva, controlo de produção da fábrica significa um controlo interno permanente da produção efectuado pelo fabricante. Todos os elementos, requisitos e disposições adoptados pelo fabricante serão sistematicamente documentados sob a forma de normas e procedimentos escritos. Essa documentação do sistema de controlo da produção deve assegurar uma compreensão comum das garantias de qualidade e permitir verificar a obtenção das características exigidas do produto e a funcionalidade efectiva do sistema de controlo da produção.\n\n2. SISTEMAS DE CERTIFICAÇÃO DA CONFORMIDADE\n\nDevem ser utilizados, de preferência, os seguintes sistemas de certificação da conformidade:\n\ni) Certificação da conformidade do produto por um organismo de certificação aprovado, com base em:\n\na) (Atribuições do fabricante)\n\n1. Controlo de produção da fábrica;\n\n2. Ensaio suplementar de amostras colhidas na fábrica efectuado pelo fabricante de acordo com um programa de ensaio previamente estabelecido;\n\nb) (Atribuições do organismo aprovado)\n\n3. Ensaio inicial do produto;\n\n4. Inspecção inicial da fábrica e do controlo da produção da fábrica;\n\n5. Fiscalização, apreciação e aprovação contínuas do controlo de produção da fábrica;\n\n6. Eventualmente, ensaio aleatório de amostras colhidas na fábrica, no mercado, ou no local da obra;\n\nii) Declaração de conformidade do produto efectuada pelo fabricante com base em:\n\nPrimeira possibilidade\n\na) (Atribuições do fabricante)\n\n1. Ensaio inicial do produto;\n\n2. Controlo de produção da fábrica;\n\n3. Eventualmente, ensaio de amostras colhidas na fãbrica de acordo com um programa de ensaio previamente estabelecido;\n\nb) (Atribuições do organismo aprovado)\n\n4. Certificação do controlo de produção da fábrica com base:\n\n- na inspecção inicial da fábrica e do controlo de produção da fábrica,\n\n- eventualmente, na fiscalização, apreciação e aprovação contínuas do controlo de produção da fábrica.\n\nSegunda possibilidade\n\n1. Ensaio inicial do produto efectuado por um laboratório aprovado;\n\n2. Controlo de produção da fábrica.\n\nTerceira possibilidade\n\n1. Ensaio inicial do produto efectuado pelo fabricante;\n\n2. Controlo de produção da fabrica.\n\n3. ORGANISMOS ENVOLVIDOS NA CERTIFICAÇÃO DA CONFORMIDADE\n\nNo que respeita à função dos organismos envolvidos na certificação da conformidade, distinguir-se-ão:\n\ni) O organismo de certificação, que é um organismo imparcial, público ou não, com a competência e a responsabilidade necessárias para proceder à certificação da conformidade, de acordo com as regras de processo e gestão estabelecidas;\n\nii) O organismo de inspecção, que é um organismo imparcial que disponha da organização, pessoal, competência e integridade necessárias para realizar, segundo critérios específicos, operações como a apreciação, recomendação de aceitação e auditoria das operações de controlo de qualidade da fábrica, a selecção e a avaliação dos produtos in situ, na fábrica, ou em qualquer outro lugar, de acordo com critérios específicos;\n\niii) O laborotório de ensaio, que é um laboratório que mede, examina, ensaia, calibra ou determina por qualquer outro modo as características do comportamento funcional dos materiais ou dos produtos.\n\nNos casos i) e ii), primeira possibilidade, do n° 2, as três funções 3 i), 3 ii) e 3 iii) podem ser efectuadas por um só organismo ou por organismos distintos, caso em que os organismos implicados na certificação da conformidade executarão as suas funções sob a égide do organismo de certificação.\n\nPara os critérios relativos à competência, imparcialidade e integridade dos organismos de certificação, de inspecção e dos laboratórios de ensaio, ver o Anexo IV.\n\n4. MARCA DE CONFORMIDADE CE, CERTIFICADO DE CONFORMIDADE CE, DECLARAÇÃO DE CONFORMIDADE CE\n\n4.1. Marca de conformidade CE\n\nA marca de conformidade CE consiste no símbolo CE adiante reproduzido.\n\n&gt;INÍCIO DE GRÁFICO&gt;\n\n&gt;FIM DE GRÁFICO&gt;\n\nSerá acompanhado do:\n\n- nome ou marca distintiva do fabricante, e, sempre que adequado:\n\n- indicações que permitam identificar as características do produto, em função das especificações técnicas,\n\n- os dois últimos algarismos do ano de fabrico,\n\n- o símbolo de identificação do organismo de inspecção responsável,\n\n- o número do certificado de conformidade CE.\n\n4.2. Certificado de conformidade CE\n\nO certificado de conformidade CE deve incluir, em particular:\n\n- nome e endereço do organismo de certificação,\n\n- nome e endereço do fabricante, ou do seu mandatário estabelecido na Comunidade,\n\n- a descrição do produto (tipo, identificação, utilização...),\n\n- as disposições com as quais o produto está conforme,\n\n- as condições específicas para a utilização do produto,\n\n- o número do certificado,\n\n- as condições e o prazo de validade do certificado, se for caso disso,\n\n- o nome e cargo da pessoa autorizada a assinar o certificado.\n\n4.3. Declaração de conformidade CE\n\nA declaração de conformidade CE incluirá, em particular:\n\n- o nome e endereço do fabricante, ou do seu mandatário estabelecido na Comunidade,\n\n- a descrição do produto (tipo, identificação, utilização...),\n\n- as disposições com as quais o produto está conforme,\n\n- as condições específicas para a utilização do produto,\n\n- o número da declaração,\n\n- o nome e endereço dos organismos aprovados, se for caso disso,\n\n- o nome e cargo da pessoa autorizada a assinar a declaração em nome do fabricante, ou em nome do seu mandatário.\n\n4.4. O certificado e a declaração de conformidade devem ser elaborados na(s) língua(s) oficial(ais) do Estado-membro em que o produto irá ser utilizado."
+  },
+  "48a983c65b8e13fc": {
+   "fragment_id": "ANEXO IV — APROVAÇÃO DOS LABORATÓRIOS DE ENSAIO E DOS ORGANISMOS DE INSPECÇÃO E DE CERTIFICAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO IV — APROVAÇÃO DOS LABORATÓRIOS DE ENSAIO E DOS ORGANISMOS DE INSPECÇÃO E DE CERTIFICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — APROVAÇÃO DOS LABORATÓRIOS DE ENSAIO E DOS ORGANISMOS DE INSPECÇÃO E DE CERTIFICAÇÃO\n\nOs laboratórios de ensaio, os organismos de inspecção e os organismos de certificação designados pelos Estados-membros devem satisfazer as seguintes condições mínimas:\n\n1. Disponibilidade em pessoal, bem como nos meios e equipamentos necessários;\n\n2. Competência técnica eintegridade profissional do pessoal;\n\n3. Imparcialidade, no que diz respeito à execução dos testes, elaboração dos relatórios, concessão de certificados e realização da vigilância previstas na directiva, da parte dos quadros e pessoal técnico em relação a todos os meios, agrupamentos ou pessoas, directa ou indirectamente interessadas nos produtos de construção;\n\n4. Respeito do segredo profissional pelo pessoal;\n\n5. Subscrição de um seguro de responsabilidade civil, se a responsabilidade civil não for coberta pelo Estado com base no direito nacional.\n\nO preenchimento das condições referidas nos pontos 1 e 2 serão periodicamente verificadas pelas autoridades competentes dos Estados-membros."
+  },
+  "7ffef23d1fa20ffb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1989L0106 — PT — 01.07.2013 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31989L0106) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31989L0106) [de 21 de Dezembro de 1988](http://publications.europa.eu/resource/celex/31989L0106) [relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros no que respeita aos produtos de construção](http://publications.europa.eu/resource/celex/31989L0106) [(89/106/CEE)](http://publications.europa.eu/resource/celex/31989L0106) (JO L 040, 11.2.1989, p.12)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 305/2011 do Parlamento Europeu e do Conselho de 9 de Março de 2011](http://publications.europa.eu/resource/celex/32011R0305) — L 88 — 5 — 4.4.2011"
+  }
+ }
+}

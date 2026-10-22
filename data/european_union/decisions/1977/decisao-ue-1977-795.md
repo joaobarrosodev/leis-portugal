@@ -34,6 +34,31 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-12-22'
+version_history:
+  file: decisao-ue-1977-795.versoes.json
+  count: 2
+  source_lastmod: '2007-12-22'
+  versions:
+  - date: '1977-12-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-12-22'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime ANEXO I — LISTA DES ESTAÇÕES DE COLHEITA DE AMOSTRAS OU DE MEDIÇÃO QUE PARTICIPAM NA TROCA DE INFORMAÇÕES
+    - Suprime ANEXO II — PARÂMETROS QUE SÃO OBJECTO DA TROCA DE INFORMAÇÕES
 identifiers:
   celex: 31977D0795
   eli: http://data.europa.eu/eli/dec/1977/795/oj
@@ -48,7 +73,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/baf7c2b1-a1c7-42d1-8526-f00c11727c53.0011
   content_url: http://publications.europa.eu/resource/cellar/bedd67b6-4ccf-4390-b021-403781ba04cb.0013.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977D0795-20071222
-  retrieved_at: '2026-10-22T02:36:57Z'
+  retrieved_at: '2026-10-22T14:32:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-26T09:23:02.476+01:00'
 integrity:
@@ -57,9 +82,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:57Z'
-  notes: Texto consolidado 01977D0795-20071222.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:32:05Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-1977-795.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -203,16 +228,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:57Z'
+  checked_at: '2026-10-22T14:32:05Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01977D0795-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977D0795-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977D0795-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

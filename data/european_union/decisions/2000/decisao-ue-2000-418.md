@@ -35,6 +35,34 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2001-07-01'
+version_history:
+  file: decisao-ue-2000-418.versoes.json
+  count: 2
+  source_lastmod: '2001-07-01'
+  versions:
+  - date: '2000-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Matérias de risco especificadas
+    - Suprime Artigo 4.º — Carne separada mecanicamente
+    - Suprime Artigo 5.º — Técnicas de abate
+    - Suprime Artigo 6.º — Importação para a Comunidade
+    - Suprime Artigo 7.º — Controlo oficial
+    - Suprime Artigo 8.º — Reexame
+    - Suprime Artigo 9.º — Alterações
+    - Suprime Artigo 10.º — Revogações
+    - Suprime Artigo 11.º — Aplicabilidade
+    - Suprime Artigo 12.º — Destinatários
+    - Suprime ANEXO I — MATÉRIAS DE RISCO ESPECIFICADAS
+    - Suprime ANEXO II
 identifiers:
   celex: 32000D0418
   eli: http://data.europa.eu/eli/dec/2000/418/oj
@@ -49,7 +77,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/94cc91f6-0c57-4229-81da-0ee248727406.0009
   content_url: http://publications.europa.eu/resource/cellar/a8bab2dd-5669-4ba3-a8d7-d775ce54d5bb.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000D0418-20010701
-  retrieved_at: '2026-10-22T02:56:49Z'
+  retrieved_at: '2026-10-22T14:48:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T15:35:53.862+01:00'
 integrity:
@@ -58,9 +86,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:49Z'
-  notes: Texto consolidado 02000D0418-20010701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:31Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2000-418.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -164,16 +192,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:49Z'
+  checked_at: '2026-10-22T14:48:31Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02000D0418-20010101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000D0418-20010331: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -36,6 +36,124 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-06-26'
+version_history:
+  file: diretiva-ue-2005-60.versoes.json
+  count: 6
+  source_lastmod: '2017-06-26'
+  versions:
+  - date: '2005-11-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-12-25'
+    amending: eu:celex:32007L0064:por
+    amending_title: DIRECTIVA 2007/64/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 13 de
+      Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 11.º
+    - Altera Artigo 15.º
+    - Altera Artigo 28.º
+    - Altera Artigo 36.º
+    - Altera Artigo 47.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita QUADRO DE CORRESPONDÊNCIA
+  - date: '2008-03-20'
+    amending: eu:celex:32008L0020:por
+    amending_title: DIRECTIVA 2008/20/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 11 de
+      Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 11.º
+    - Altera Artigo 15.º
+    - Altera Artigo 28.º
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+    - Altera Notas
+  - date: '2009-10-30'
+    amending: eu:celex:32009L0110:por
+    amending_title: DIRECTIVA 2009/110/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 16 de
+      Setembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 11.º
+    - Altera Artigo 15.º
+    - Altera Artigo 28.º
+    - Altera Notas
+  - date: '2011-01-04'
+    amending: eu:celex:32010L0078:por
+    amending_title: Directiva 2010/78/UE do Parlamento Europeu e do Conselho Texto relevante para efeitos do EEE de 24 de
+      Novembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 11.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 28.º
+    - Altera Artigo 31.º
+    - Altera Artigo 34.º
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+    - Altera Notas
+    - Adita Artigo 37.ºA
+    - Adita ACTOS DELEGADOS E MEDIDAS DE EXECUÇÃO
+    - Adita Artigo 41.ºA — Revogação da delegação
+    - Adita Artigo 41.ºB — Objecções aos actos delegados
+    - Suprime MEDIDAS DE EXECUÇÃO
+  - date: '2017-06-26'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime OBJECTO, ÂMBITO E DEFINIÇÕES
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime CAPÍTULO II
+    - Suprime DEVERES DE VIGILÂNCIA DA CLIENTELA
+    - Suprime SECÇÃO 1
+    - Suprime Disposições gerais
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime SECÇÃO 2
+    - Suprime Deveres simplificados de vigilância da clientela
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime SECÇÃO 3
+    - Suprime Deveres reforçados de vigilância da clientela
+    - Suprime Artigo 13.º
+    - Suprime SECÇÃO 4
+    - Suprime Execução por terceiros
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime CAPÍTULO III
+    - Suprime OBRIGAÇÕES DE COMUNICAÇÃO
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime Artigo 24.º
+    - Suprime Artigo 25.º
 identifiers:
   celex: 32005L0060
   eli: http://data.europa.eu/eli/dir/2005/60/oj
@@ -50,7 +168,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/52eeca78-fda3-49d9-88b2-465a667fec96.0017
   content_url: http://publications.europa.eu/resource/cellar/85ffeb4c-36ba-11ea-ba6e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0060-20170626
-  retrieved_at: '2026-10-22T02:36:16Z'
+  retrieved_at: '2026-10-22T14:59:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-02T12:00:23.988+01:00'
 integrity:
@@ -59,9 +177,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:16Z'
-  notes: Texto consolidado 02005L0060-20170626.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:31Z'
+  notes: 6 versão(ões); histórico completo em diretiva-ue-2005-60.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -302,16 +420,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:16Z'
+  checked_at: '2026-10-22T14:59:31Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02005L0060-20051215: versão indisponível (Sem expressão na língua por para CELEX 02005L0060-20051215.)'
   errors: []
 ---
 

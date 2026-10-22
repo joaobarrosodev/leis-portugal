@@ -35,6 +35,46 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-01-11'
+version_history:
+  file: regulamento-ue-2001-761.versoes.json
+  count: 2
+  source_lastmod: '2010-01-11'
+  versions:
+  - date: '2001-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-01-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Sistema de ecogestão e auditoria e seus objectivos
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Participação no EMAS
+    - Suprime Artigo 4.º — Sistema de acreditação
+    - Suprime Artigo 5.º — Organismos competentes
+    - Suprime Artigo 6.º — Registo das organizações
+    - Suprime Artigo 7.º — Lista de organizações registadas e de verificadores ambientais
+    - Suprime Artigo 8.º — Logotipo
+    - Suprime Artigo 9.º — Relação com normas europeias e internacionais
+    - Suprime Artigo 10.º — Relação com outra legislação ambiental na Comunidade
+    - Suprime Artigo 11.º — Promoção da participação das organizações, e em especial das pequenas e médias empresas
+    - Suprime Artigo 12.º — Informação
+    - Suprime Artigo 13.º — Infracções
+    - Suprime Artigo 14.º — Comité
+    - Suprime Artigo 15.º — Revisão
+    - Suprime Artigo 16.º — Custos e taxas
+    - Suprime Artigo 17.º — Revogação do Regulamento (CEE) n.o 1836/93
+    - Suprime Artigo 18.º — Entrada em vigor
+    - Suprime ANEXO I — A. REQUISITOS DO SISTEMA DE GESTÃO AMBIENTAL
+    - Suprime ANEXO II — REQUISITOS RELATIVOS À AUDITORIA AMBIENTAL INTERNA
+    - Suprime ANEXO III — DECLARAÇÃO AMBIENTAL
+    - Suprime ANEXO IV — Logotipo
+    - Suprime ANEXO V — ACREDITAÇÃO, SUPERVISÃO E FUNÇÕES DOS VERIFICADORES AMBIENTAIS
+    - Suprime ANEXO VI — ASPECTOS AMBIENTAIS
+    - Suprime ANEXO VII — LEVANTAMENTO AMBIENTAL
+    - Suprime ANEXO VIII — INFORMAÇÕES PARA O REGISTO
 identifiers:
   celex: 32001R0761
   eli: http://data.europa.eu/eli/reg/2001/761/oj
@@ -49,7 +89,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/612766f5-fa3c-453b-b6a9-8d8c27fd1982.0010
   content_url: http://publications.europa.eu/resource/cellar/b6495978-7801-4d7a-a194-2123581686b1.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R0761-20100111
-  retrieved_at: '2026-10-22T02:44:59Z'
+  retrieved_at: '2026-10-22T14:50:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-27T22:53:20.565+01:00'
 integrity:
@@ -58,9 +98,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:59Z'
-  notes: Texto consolidado 02001R0761-20100111.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:42Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2001-761.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -162,16 +202,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:59Z'
+  checked_at: '2026-10-22T14:50:42Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02001R0761-20010427: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0761-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001R0761-20060224: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02001R0761-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

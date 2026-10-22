@@ -34,6 +34,146 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-12-08'
+version_history:
+  file: diretiva-ue-2003-48.versoes.json
+  count: 5
+  source_lastmod: '2015-12-08'
+  versions:
+  - date: '2003-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-08-04'
+    amending: eu:celex:32004L0066:por
+    amending_title: DIRECTIVA 2004/66/CE DO CONSELHO de 26 de Abril de 2004; DECISÃO DO CONSELHO de 19 de Julho de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Identificação e determinação do lugar de residência dos beneficiários efectivos
+    - Altera Artigo 6.º — Definição de pagamento de juros
+    - Altera Artigo 15.º — Títulos de dívida negociáveis
+    - Altera Artigo 17.º — Transposição
+    - Altera Artigo 20.º — Destinatários
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES INTRODUTÓRIAS
+    - Adita Artigo 1.º — Objectivo
+    - Adita CAPÍTULO II
+    - Adita INTERCÂMBIO DE INFORMAÇÕES
+    - Adita Artigo 8.º — Comunicação de informações por parte do agente pagador
+    - Adita CAPÍTULO III
+    - Adita DISPOSIÇÕES TRANSITÓRIAS
+    - Adita Artigo 10.º — Período de transição
+    - Adita CAPÍTULO IV
+    - Adita DISPOSIÇÕES DIVERSAS E FINAIS
+    - Adita Artigo 16.º — Outras retenções na fonte
+    - Adita ANEXO
+    - Adita LISTA DAS ENTIDADES AFINS A QUE SE REFERE O ARTIGO 15.º
+    - Adita Notas
+    - Suprime CAPÍTULO I DISPOSIÇÕES INTRODUTÓRIAS — Artigo 1.o
+    - Suprime CAPÍTULO II INTERCÂMBIO DE INFORMAÇÕES — Artigo 8.o
+    - Suprime CAPÍTULO III DISPOSIÇÕES TRANSITÓRIAS — Artigo 10.o
+    - Suprime CAPÍTULO IV DISPOSIÇÕES DIVERSAS E FINAIS — Artigo 16.o
+    - Suprime ANEXO — LISTA DAS ENTIDADES AFINS A QUE SE REFERE O ARTIGO 15.o
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0098:por
+    amending_title: DIRECTIVA 2006/98/CE DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Identificação e determinação do lugar de residência dos beneficiários efectivos
+    - Altera Artigo 15.º — Títulos de dívida negociáveis
+    - Altera LISTA DAS ENTIDADES AFINS A QUE SE REFERE O ARTIGO 15.º
+    - Altera Notas
+  - date: '2014-04-15'
+    amending: eu:celex:32014L0048:por
+    amending_title: DIRETIVA 2014/48/UE DO CONSELHO de 24 de março de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivo
+    - Altera Artigo 6.º — Definição de pagamento de juros
+    - Altera Artigo 8.º — Comunicação de informações por parte do agente pagador
+    - Altera Artigo 9.º — Troca automática de informações
+    - Altera Artigo 10.º — Período de transição
+    - Altera Artigo 11.º — Retenção na fonte
+    - Altera Artigo 14.º — Eliminação da dupla tributação
+    - Altera Artigo 15.º — Títulos de dívida negociáveis
+    - Altera Artigo 18.º — Revisão
+    - Altera Notas
+    - Adita Artigo 1.º-A — Definições de determinados termos
+    - Adita Artigo 2.º — Definição de beneficiário efetivo
+    - Adita Artigo 3.º — Identificação e determinação do local de residência dos beneficiários efetivos
+    - Adita Artigo 4.º — Agentes pagadores
+    - Adita Artigo 13.º — Exceções ao sistema de retenção na fonte
+    - Adita Artigo 18.º-A — Medidas de execução
+    - Adita Artigo 18.º-B — Comité
+    - Adita ANEXO I
+    - Adita Lista indicativa das categorias de entidades e de estruturas jurídicas consideradas não sujeitos a tributação
+      efetiva, para efeitos do artigo 2.º, n.º 3
+    - Adita ANEXO II
+    - Adita Lista indicativa das categorias de entidades e de estruturas jurídicas consideradas não sujeitas a tributação
+      efetiva, para efeitos do artigo 4.º, n.º 2
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Adita LISTA DOS ELEMENTOS A TRANSMITIR ANUALMENTE PARA FINS ESTATÍSTICOS PELOS ESTADOS-MEMBROS À COMISSÃO
+    - Adita 1. Elementos económicos
+    - 'Adita 1.1. Retenção na fonte:'
+    - 'Adita 1.2. Montante dos pagamentos de juros/produto das cessões:'
+    - 'Adita 1.3. Beneficiário efetivo:'
+    - 'Adita 1.4. Agentes pagadores:'
+    - 'Adita 1.5. Agentes pagadores no momento da receção:'
+    - Adita 2. Elementos técnicos
+    - 'Adita 2.1. Registos:'
+    - 'Adita 2.2. Registos tratados/corrigidos:'
+    - Adita 3. Elementos facultativos
+    - Suprime Artigo 2.º — Definição de beneficiário efectivo
+    - Suprime Artigo 3.º — Identificação e determinação do lugar de residência dos beneficiários efectivos
+    - Suprime Artigo 4.º — Definição de agente pagador
+    - Suprime Artigo 13.º — Excepções ao sistema de retenção na fonte
+    - Suprime ANEXO
+  - date: '2015-12-08'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES INTRODUTÓRIAS
+    - Suprime Artigo 1.º — Objectivo
+    - Suprime Artigo 1.º-A — Definições de determinados termos
+    - Suprime Artigo 2.º — Definição de beneficiário efetivo
+    - Suprime Artigo 3.º — Identificação e determinação do local de residência dos beneficiários efetivos
+    - Suprime Artigo 4.º — Agentes pagadores
+    - Suprime Artigo 5.º — Definição de autoridade competente
+    - Suprime Artigo 6.º — Definição de pagamento de juros
+    - Suprime Artigo 7.º — Âmbito de aplicação territorial
+    - Suprime CAPÍTULO II
+    - Suprime INTERCÂMBIO DE INFORMAÇÕES
+    - Suprime Artigo 8.º — Comunicação de informações por parte do agente pagador
+    - Suprime Artigo 9.º — Troca automática de informações
+    - Suprime CAPÍTULO III
+    - Suprime DISPOSIÇÕES TRANSITÓRIAS
+    - Suprime Artigo 10.º — Período de transição
+    - Suprime Artigo 11.º — Retenção na fonte
+    - Suprime Artigo 12.º — Repartição das receitas
+    - Suprime Artigo 13.º — Exceções ao sistema de retenção na fonte
+    - Suprime Artigo 14.º — Eliminação da dupla tributação
+    - Suprime Artigo 15.º — Títulos de dívida negociáveis
+    - Suprime CAPÍTULO IV
+    - Suprime DISPOSIÇÕES DIVERSAS E FINAIS
+    - Suprime Artigo 16.º — Outras retenções na fonte
+    - Suprime Artigo 17.º — Transposição
+    - Suprime Artigo 18.º — Revisão
+    - Suprime Artigo 18.º-A — Medidas de execução
+    - Suprime Artigo 18.º-B — Comité
+    - Suprime Artigo 19.º — Entrada em vigor
+    - Suprime Artigo 20.º — Destinatários
+    - Suprime ANEXO I
+    - Suprime Lista indicativa das categorias de entidades e de estruturas jurídicas consideradas não sujeitos a tributação
+      efetiva, para efeitos do artigo 2.º, n.º 3
+    - Suprime ANEXO II
+    - Suprime Lista indicativa das categorias de entidades e de estruturas jurídicas consideradas não sujeitas a tributação
+      efetiva, para efeitos do artigo 4.º, n.º 2
+    - Suprime ANEXO III
+    - Suprime LISTA DAS ENTIDADES AFINS A QUE SE REFERE O ARTIGO 15.º
+    - Suprime ANEXO IV
+    - Suprime LISTA DOS ELEMENTOS A TRANSMITIR ANUALMENTE PARA FINS ESTATÍSTICOS PELOS ESTADOS-MEMBROS À COMISSÃO
 identifiers:
   celex: 32003L0048
   eli: http://data.europa.eu/eli/dir/2003/48/oj
@@ -48,7 +188,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3429c157-8cf1-48e6-bb84-6d624dc7afa5.0010
   content_url: http://publications.europa.eu/resource/cellar/b1bcfefb-c929-4864-8f3d-6007eb9edbff.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0048-20151208
-  retrieved_at: '2026-10-22T02:36:06Z'
+  retrieved_at: '2026-10-22T14:54:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:30:57.731+02:00'
 integrity:
@@ -57,9 +197,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:06Z'
-  notes: Texto consolidado 02003L0048-20151208.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:49Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2003-48.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -271,16 +411,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:06Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:54:49Z'
+  warnings: []
   errors: []
 ---
 

@@ -1,0 +1,445 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000L0036:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0036-20131118",
+ "dre_path": null,
+ "source_lastmod": "2013-11-18",
+ "versions": [
+  {
+   "date": "2000-08-03",
+   "future": false,
+   "celex": "32000L0036",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cb926dbcddf035b9",
+    "7237b57487bdc709",
+    "6b669e7a50cbeff3",
+    "1f3cffd6154561c4",
+    "d4a6912c77fe21c7",
+    "28f3113334c0e9e2",
+    "bf5d165aec064f0e",
+    "29c2be07f7733069",
+    "992a3ab0d8821263",
+    "0a5ff18b9905db99",
+    "8e20c2e88e05e65a",
+    "4cbbda673827793e",
+    "94b900b1b8804dce"
+   ]
+  },
+  {
+   "date": "2008-12-11",
+   "future": false,
+   "celex": "02000L0036-20081211",
+   "acts": [
+    {
+     "id": "eu:celex:32008R1137:por",
+     "title": "REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008",
+     "published": null,
+     "celex": "32008R1137"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º",
+    "Adita ANEXO I",
+    "Adita DENOMINAÇÕES DE VENDA, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS",
+    "Adita A. DENOMINAÇÕES DE VENDA DEFINIÇÕES",
+    "Adita 1. Manteiga de cacau",
+    "Adita B. INGREDIENTES FACULTATIVOS AUTORIZADOS",
+    "Adita Adição de matérias comestíveis",
+    "Adita C. CÁLCULO DOS TEORES PERCENTUAIS",
+    "Adita D. AÇÚCARES",
+    "Adita ANEXO II",
+    "Adita GORDURAS VEGETAIS REFERIDAS NO N.º 1 DO ARTIGO 2.º",
+    "Adita Notas",
+    "Suprime ANEXO I — DENOMINAÇÕES DE VENDA, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS",
+    "Suprime ANEXO II — GORDURAS VEGETAIS REFERIDAS NO N.o 1 DO ARTIGO 2.o"
+   ],
+   "fragments": [
+    "c7110d88260a9f43",
+    "7237b57487bdc709",
+    "c85fd31be0c1bf27",
+    "803ba1c2347a3603",
+    "d4a6912c77fe21c7",
+    "4bc3cc59b7af6159",
+    "49e35c4f04202cf8",
+    "29c2be07f7733069",
+    "4ac4d6720e8a1e2e",
+    "fae0d618a1cc3ea4",
+    "8121d82e6c54612e",
+    "d664376e2a8dcecd",
+    "d08b62c3123afe66",
+    "063794d4191233d5",
+    "88a3e6071a25107c",
+    "f9e9a4718ca83260",
+    "7f260ee4641a0769",
+    "c53ddd3ef46a4ff6",
+    "44da73ec2c5f9a1a",
+    "852174729551523b",
+    "86ab8e7116b7774a",
+    "fe87974dba50e3d3"
+   ]
+  },
+  {
+   "date": "2013-11-18",
+   "future": false,
+   "celex": "02000L0036-20131118",
+   "acts": [
+    {
+     "id": "eu:celex:32013R1021:por",
+     "title": "REGULAMENTO (UE) N. o 1021/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2013",
+     "published": null,
+     "celex": "32013R1021"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera D. AÇÚCARES",
+    "Altera GORDURAS VEGETAIS REFERIDAS NO N.º 1 DO ARTIGO 2.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "1b41d93e88d0476d",
+    "7237b57487bdc709",
+    "c85fd31be0c1bf27",
+    "803ba1c2347a3603",
+    "d4a6912c77fe21c7",
+    "a794491c7102798c",
+    "899a2fef53bcc68f",
+    "29c2be07f7733069",
+    "4ac4d6720e8a1e2e",
+    "fae0d618a1cc3ea4",
+    "8121d82e6c54612e",
+    "d664376e2a8dcecd",
+    "d08b62c3123afe66",
+    "063794d4191233d5",
+    "88a3e6071a25107c",
+    "f9e9a4718ca83260",
+    "7f260ee4641a0769",
+    "c53ddd3ef46a4ff6",
+    "e4092729708085b4",
+    "852174729551523b",
+    "52257a89fb4ae745",
+    "4be8569703706409"
+   ]
+  }
+ ],
+ "fragments": {
+  "cb926dbcddf035b9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2000/36/CE do Parlamento Europeu e do Conselho, de 23 de Junho de 2000, relativa aos produtos de cacau e de chocolate destinados à alimentação humana** *Jornal Oficial nº L 197 de 03/08/2000 p. 0019 - 0025*\n\nDirectiva 2000/36/CE do Parlamento Europeu e do Conselho\n\nde 23 de Junho de 2000\n\nrelativa aos produtos de cacau e de chocolate destinados à alimentação humana\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 95.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social(2),\n\nDeliberando nos termos do artigo 251.o do Tratado(3),\n\nConsiderando o seguinte:\n\n(1) Segundo as conclusões do Conselho Europeu de Edimburgo, de 11 e 12 de Dezembro de 1992, confirmadas pelas do Conselho Europeu de Bruxelas, de 10 e 11 de Dezembro de 1993, é necessário proceder à simplificação de determinadas directivas verticais no domínio dos géneros alimentícios, a fim de tomar exclusivamente em conta os requisitos essenciais que os produtos por elas abrangidos devem satisfazer para poderem circular livremente no mercado interno.\n\n(2) A adopção da Directiva 73/241/CEE do Conselho, de 24 de Julho de 1973, relativa à aproximação das legislações dos Estados-Membros respeitantes aos produtos de cacau e de chocolate destinados à alimentação humana(4), foi justificada pelo facto de as diferenças entre as legislações nacionais no que respeita a vários tipos de produtos de cacau e de chocolate poderem entravar a livre circulação dos produtos em questão, influenciando deste modo directamente a realização e o funcionamento do mercado comum.\n\n(3) Neste contexto, a referida directiva teve por objectivo estabelecer definições e regras comuns no que respeita à composição, às características de fabrico, ao acondicionamento e à rotulagem dos produtos de cacau e de chocolate, por forma a garantir a sua livre circulação na Comunidade.\n\n(4) Essas definições e regras devem ser alteradas, para ter em conta o progresso tecnológico e a evolução dos gostos dos consumidores, e adaptadas à legislação comunitária geral aplicável aos géneros alimentícios, nomeadamente à legislação relativa à rotulagem, aos edulcorantes e outros aditivos autorizados, às substâncias aromatizantes, aos solventes de extracção e aos métodos de análise.\n\n(5) Alguns Estados-Membros admitem a adição aos produtos de chocolate de um máximo de 5 % de outras gorduras vegetais, além da manteiga de cacau.\n\n(6) Deve-se permitir em todos os Estados-Membros a adição aos produtos de chocolate de um máximo de 5 % de certas gorduras vegetais, além da manteiga de cacau. Essas gorduras vegetais devem consistir em equivalentes à manteiga de cacau e devem, por conseguinte, ser definidas segundo critérios técnicos e científicos.\n\n(7) Para garantir a unidade do mercado interno, todos os produtos de chocolate abrangidos pela presente directiva devem poder circular na Comunidade sob as denominações de venda previstas no anexo I.\n\n(8) Por força das regras gerais de rotulagem dos géneros alimentícios estabelecidas na Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios(5), nomeadamente a indicação da lista dos ingredientes, segundo o artigo 6.o, é obrigatória. A presente directiva torna a Directiva 79/112/CEE aplicável aos produtos de cacau e de chocolate, o que garante uma informação correcta dos consumidores.\n\n(9) No caso dos produtos de chocolate a que tenham sido adicionadas outras gorduras vegetais além da manteiga de cacau, é necessário facultar ao consumidor uma informação correcta, neutra e objectiva, para além da lista dos ingredientes.\n\n(10) Por outro lado, a Directiva 79/112/CEE não obsta a que na rotulagem dos produtos de chocolate figure a indicação de que não foram adicionadas outras gorduras vegetais além da manteiga de cacau, desde que essa informação seja correcta, neutra e objectiva, e não induza os consumidores em erro.\n\n(11) Determinadas denominações de venda reservadas pela presente directiva são utilizadas em denominações de venda compostas consagradas pelas práticas de alguns Estados-Membros para designar produtos que não podem ser confundidos com os definidos na presente directiva. Por conseguinte, essas denominações devem ser mantidas. Todavia, a sua utilização deve respeitar o disposto na Directiva 79/112/CEE, nomeadamente no artigo 5.o\n\n(12) O desenvolvimento do mercado interno desde a adopção da Directiva 73/241/CEE permite hoje em dia equiparar o \"chocolate para culinária\" ao \"chocolate\".\n\n(13) Deve-se manter a derrogação prevista na Directiva 73/241/CEE que permite ao Reino Unido e à Irlanda autorizarem a utilização nos respectivos territórios da denominação \"milk chocolate\" para designar o \"chocolate de leite para culinária\". A denominação \"chocolate de leite para culinária\" deve ser substituída por \"chocolate de leite familiar\".\n\n(14) Segundo o princípio da proporcionalidade, a presente directiva limita-se ao estritamente necessário para realizar os objectivos do Tratado, nos termos do n.o 3 do seu artigo 5.o\n\n(15) O cacau, a manteiga de cacau e diversas outras gorduras vegetais utilizadas no fabrico de chocolate são produzidas predominantemente em países desenvolvimento. No interesse da população destes países, devem ser concluídos acordos com a maior duração possível. A Comissão deve verificar, neste contexto, de que modo a Comunidade pode dar o seu apoio no que se refere à manteiga de cacau e a outras gorduras vegetais (nomeadamente, promovendo o comércio leal).\n\n(16) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(6).\n\n(17) Para evitar que sejam criados novos entraves à livre circulação, os Estados-Membros devem abster-se de adoptar, para os produtos em causa, disposições nacionais que não estejam previstas na presente directiva,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "7237b57487bdc709": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva é aplicável aos produtos de cacau e de chocolate destinados à alimentação humana definidos no anexo I."
+  },
+  "6b669e7a50cbeff3": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Podem ser adicionadas aos produtos de chocolate definidos nos pontos 3, 4, 5, 6, 8 e 9 da parte A do anexo I as outras gorduras vegetais, além da manteiga de cacau, definidas e enumeradas no anexo II. Essa adição não poderá exceder 5 % do produto acabado, após dedução da massa total das outras matérias comestíveis eventualmente utilizadas nos termos da parte B do anexo I e sem qualquer redução dos teores mínimos de manteiga de cacau ou de matéria seca total de cacau.\n\n2. Os produtos de chocolate que, nos termos do n.o 1, contenham outras gorduras vegetais além da manteiga de cacau podem ser comercializados em todos os Estados-Membros, desde que, nos termos do artigo 3.o, a sua rotulagem seja completada pela seguinte referência, que deve chamar a atenção e ser perfeitamente legível: \"contém outras gorduras vegetais além da manteiga de cacau\". Esta referência deve aparecer no mesmo campo visual que a lista dos ingredientes, claramente distinta dessa lista, em caracteres pelo menos tão grandes e a negro e com a denominação de venda do produto na proximidade. Não obstante este requisito, a denominação de venda pode também figurar noutro lugar.\n\n3. As eventuais alterações do anexo II serão efectuadas nos termos do artigo 95.o do Tratado.\n\n4. O mais tardar em 3 de Fevereiro de 2006, a Comissão apresentará, se necessário, uma proposta de alteração da lista do anexo II, nos termos do artigo 95.o do Tratado e tendo em conta os resultados de um estudo adequado do impacto da presente directiva nas economias dos países produtores de cacau e de outras gorduras vegetais além da manteiga de cacau."
+  },
+  "1f3cffd6154561c4": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA Directiva 79/112/CEE é aplicável aos produtos definidos no anexo I, nas seguintes condições:\n\n1. As denominações de venda previstas no anexo I são reservadas aos produtos nele referidos e devem ser utilizadas no comércio para os designar.\n\nContudo, as denominações de venda em questão poderão também ser utilizadas adicionalmente e de acordo com as disposições ou práticas habituais aplicáveis no Estado-Membro em que se efectua a venda ao consumidor final, para designar outros produtos que não possam ser confundidos com os definidos no anexo I.\n\n2. Quando os produtos definidos nos pontos 3, 4, 5, 6, 7 e 10 da parte A do anexo I forem vendidos em sortidos, as suas denominações de venda poderão ser substituídas pelas denominações \"chocolates sortidos\" ou \"chocolates com recheio sortidos\", ou por uma denominação similar. Nesse caso, a lista dos ingredientes poderá ser uma só para o conjunto dos produtos que constituem o sortido.\n\n3. No caso dos produtos de cacau e de chocolate definidos nos pontos 2, alíneas c) e d), 3, 4, 5, 8 e 9 da parte A do anexo I, o teor de matéria seca total de cacau deve figurar na rotulagem através da indicação \"cacau: mínimo de... %.\".\n\n4. Nos casos previstos na alínea b) e no segundo período da alínea d) do ponto 2 da parte A do anexo I, o teor de manteiga de cacau deve figurar na rotulagem.\n\n5. As denominações de venda \"chocolate\", \"chocolate de leite\" e \"chocolate de cobertura\" definidas no anexo I podem ser completadas por indicações ou qualificativos que façam referência a critérios de qualidade, desde que os produtos contenham:\n\n- no caso do chocolate: no mínimo 43 % de matéria seca total de cacau, dos quais pelo menos 26 % de manteiga de cacau,\n\n- no caso do chocolate de leite: no mínimo 30 % de matéria seca total de cacau e pelo menos 18 % de matéria seca de leite proveniente da evaporação parcial ou total de leite inteiro, de leite parcial ou totalmente desnatado, de nata, de nata parcial ou totalmente desidratada, de manteiga ou de matéria gorda láctea, dos quais no mínimo 4,5 % de matéria gorda láctea,\n\n- no caso do chocolate de cobertura: no mínimo 16 % de matéria seca de cacau isenta de gordura."
+  },
+  "d4a6912c77fe21c7": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nNo caso dos produtos definidos no anexo I, os Estados-Membros não adoptarão disposições nacionais que não estejam previstas na presente directiva."
+  },
+  "28f3113334c0e9e2": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. As medidas necessárias à execução da presente directiva relativa aos assuntos adiante indicados são aprovadas pelo procedimento de regulamentação a que se refere o n.o 2 do artigo 6.o:\n\n- a conformidade da presente directiva com as disposições comunitárias gerais aplicáveis aos géneros alimentícios,\n\n- a adaptação ao progresso técnico do disposto no ponto 2 da parte B e nas partes C e D do anexo I.\n\n2. Sem prejuízo do disposto no n.o 3 do artigo 2.o, e o mais tardar em 3 de Agosto de 2003, o Parlamento Europeu e o Conselho reexaminarão, sob proposta da Comissão, o n.o 1, segundo travessão, do presente artigo, tendo em vista o possível alargamento do processo de adaptação ao progresso técnico e científico."
+  },
+  "bf5d165aec064f0e": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A Comissão é assistida pelo Comité Permanente dos Géneros Alimentícios criado pela Decisão 69/414/CEE(7), a seguir designado \"comité\".\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.o\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "29c2be07f7733069": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA Directiva 73/241/CEE do Conselho é revogada com efeitos a 3 de Agosto de 2003.\n\nAs remissões para a directiva revogada devem entender-se como remissões para a presente directiva."
+  },
+  "992a3ab0d8821263": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 3 de Agosto de 2003. Do facto informarão imediatamente a Comissão.\n\n2. Estas disposições devem ser aplicadas de modo a:\n\n- autorizar a comercialização dos produtos definidos no anexo I conformes com as definições e regras previstas na presente directiva, a partir de 3 de Agosto de 2003,\n\n- proibir a comercialização dos produtos não conformes com a presente directiva, a partir de 3 de Agosto de 2003.\n\nContudo, é autorizada a comercialização dos produtos não conformes com a presente directiva que tiverem sido rotulados nos termos da Directiva 73/241/CEE do Conselho antes de 3 de Agosto de 2003, até ao esgotamento das respectivas existências.\n\n3. Quando os Estados-Membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência quando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros."
+  },
+  "0a5ff18b9905db99": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "8e20c2e88e05e65a": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 23 de Junho de 2000.\n\nPelo Parlamento Europeu\n\nA Presidente\n\nN. Fontaine\n\nPelo Conselho\n\nO Presidente\n\nJ. Sócrates\n\n(1) JO C 231 de 9.8.1996, p. 1 eJO C 118 de 17.4.1998, p. 10.\n\n(2) JO C 56 de 24.2.1997, p. 20.\n\n(3) Parecer do Parlamento Europeu de 23 de Outubro de 1997 (JO C 339 de 10.11.1997, p. 128), posição comum do Conselho de 28 de Outubro de 1999 (JO C 10 de 13.1.2000, p. 1) e decisão do Parlamento Europeu de 15 de Março de 2000 (ainda não publicada no Jornal Oficial). Decisão do Conselho de 25 de Maio de 2000.\n\n(4) JO L 228 de 16.8.1973, p. 23. Directiva com a última redacção que lhe foi dada pela Directiva 89/344/CEE (JO L 142 de 25.5.1989, p. 19).\n\n(5) JO L 33 de 8.2.1979, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 97/4/CE do Parlamento Europeu e do Conselho (JO L 43 de 14.2.1997, p. 21).\n\n(6) JO L 184 de 17.7.1999, p. 23.\n\n(7) JO L 291 de 19.11.1969, p. 9."
+  },
+  "4cbbda673827793e": {
+   "fragment_id": "ANEXO I — DENOMINAÇÕES DE VENDA, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS",
+   "type": "divisao",
+   "heading": "ANEXO I — DENOMINAÇÕES DE VENDA, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — DENOMINAÇÕES DE VENDA, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS\n\nA. DENOMINAÇÕES DE VENDA DEFINIÇÕES\n\n1. Manteiga de cacau\n\nDesigna a matéria gorda obtida a partir de sementes de cacau ou de partes de sementes de cacau, com as seguintes características:\n\n>POSIÇÃO NUMA TABELA>\n\n2. a) Cacau em pó, cacau\n\nDesigna o produto obtido pela transformação em pó de sementes de cacau limpas, descascadas e torradas que contém no mínimo 20 %, em massa, de manteiga de cacau (expresso em relação à matéria seca) e no máximo 9 % de humidade.\n\nb) Cacau magro em pó, cacau magro, cacau fortemente desengordurado em pó, cacau fortemente desengordurado\n\nDesigna o cacau em pó que contém menos de 20 %, em massa, de manteiga de cacau (expresso em relação à matéria seca).\n\nc) Chocolate em pó\n\nDesigna o produto que consiste numa mistura de cacau em pó e de açúcares que contenha pelo menos 32 % de cacau em pó.\n\nd) Chocolate em pó para bebidas, cacau açucarado e cacau em pó açucarado\n\nDesigna o produto que consiste numa mistura de cacau em pó e de açúcares que contenha pelo menos 25 % de cacau em pó; estas denominações serão acompanhadas da indicação \"teor reduzido de matéria gorda\" se o produto tiver um teor reduzido de matéria gorda como definido na alínea b) supra.\n\n3. Chocolate\n\na) Designa o produto obtido a partir de produtos do cacau e de açúcares que, sem prejuízo da alínea b), contém, no mínimo, 35 % de matéria seca total de cacau, dos quais pelo menos 18 % de manteiga de cacau e no mínimo 14 % de matéria seca de cacau isenta de gordura.\n\nb) Contudo, se esta denominação for completada pela expressão:\n\n- \"em grânulos\" ou \"em flocos\": o produto em questão, apresentado sob a forma de grânulos ou de flocos, deve conter, no mínimo, 32 % de matéria seca total de cacau, dos quais pelo menos 12 % de manteiga de cacau e no mínimo 14 % de matéria seca de cacau isenta de gordura,\n\n- \"de cobertura\": o produto em questão deve conter, no mínimo, 35 % de matéria seca total de cacau, dos quais pelo menos 31 % de manteiga de cacau e no mínimo 2,5 % de matéria seca de cacau isenta de gordura,\n\n- \"gianduia\": chocolate com frutos de casca rija \"gianduia\" (ou um dos derivados do termo \"gianduia\": o produto deve ser obtido, em primeiro lugar, a partir de chocolate com um teor mínimo de 32 % de matéria seca total de cacau - incluindo um teor mínimo de 8 % de matéria seca de cacau isenta de gordura - e, em segundo lugar, a partir de avelãs finamente moídas numa quantidade de 20 g a 40 g de avelãs por 100 g de produto acabado. Podem também ser adicionados os seguintes ingredientes:\n\na) leite e/ou matéria seca de leite proveniente da evaporação do leite, em tal proporção que o produto acabado não contenha mais de 5 % de matéria seca de leite,\n\nb) amêndoas, avelãs e outras variedades de frutos de casca rija, inteiros ou partidos, em quantidades que, juntamente com as avelãs moídas, não excedam 60 % da massa total do produto acabado.\n\n4. Chocolate de leite\n\na) Designa o produto obtido a partir de produtos do cacau, de açúcares e de leite ou produtos do leite que, sem prejuízo da alínea b), contém:\n\n- no mínimo 25 % de matéria seca total de cacau,\n\n- no mínimo 14 % de matéria seca de leite proveniente da evaporação parcial ou total de leite inteiro, de leite parcial ou totalmente desnatado, de nata, de nata parcial ou totalmente desidratada, de manteiga ou de matéria gorda láctea,\n\n- no mínimo 2,5 % de matéria seca de cacau isenta de gordura,\n\n- no mínimo 3,5 % de matéria gorda láctea,\n\n- no mínimo 25 % de matéria gorda total (manteiga de cacau e matéria gorda láctea).\n\nb) Contudo, se esta denominação for completada pela expressão:\n\n- \"em grânulos\" ou \" em flocos\": o produto em questão, apresentado sob a forma de grânulos ou de flocos, deve conter, no mínimo, 20 % de matéria seca total de cacau, pelo menos 12 % de matéria seca de leite proveniente da evaporação parcial ou total de leite inteiro, de leite parcial ou totalmente desnatado, de nata, de nata parcial ou totalmente desidratada, de manteiga ou de matéria gorda láctea e, no mínimo, 12 % de matéria gorda total (em manteiga de cacau e matéria gorda láctea),\n\n- \"de cobertura\": o produto em questão deve conter, no mínimo, 31 % de matéria gorda total (em manteiga de cacau e matéria gorda láctea),\n\n- \"gianduia\": chocolate de leite com frutos de casca rija \"gianduia\" (ou um dos derivados do termo \"gianduia\"): o produto deve ser obtido, em primeiro lugar, a partir de chocolate de leite com um teor mínimo de 10 % de matéria seca de leite proveniente da evaporação parcial ou total de leite inteiro, de leite parcial ou totalmente desnatado, de nata, de nata parcial ou totalmente desidratada, de manteiga ou de matéria gorda láctea e, em segundo lugar, a partir de avelãs finamente moídas numa quantidade de 15 g a 40 g de avelãs por 100 g de produto acabado. Podem também ser adicionadas amêndoas, avelãs e outras variedades de frutos de casca rija, inteiros ou partidos, em quantidades que, juntamente com as avelãs moídas, não excedam 60 % da massa total do produto acabado.\n\nc) Se, nesta denominação, a expressão \"de leite\" for substituída pela expressão:\n\n- \"de nata\": o produto em questão deve conter, no mínimo, 5,5 % de matéria gorda láctea,\n\n- \"de leite desnatado\": o produto em questão não pode conter mais de 1 % de matéria gorda láctea.\n\nd) O Reino Unido e a Irlanda podem autorizar a utilização nos respectivos territórios da denominação \"milk chocolate\" para designar o produto referido no ponto 5, na condição de esta denominação ser acompanhada, em ambos os casos, da indicação do teor de matéria seca de leite, fixado para cada um destes dois produtos, através da menção \"milk solids... % minimum\".\n\n5. Chocolate de leite familiar\n\nDesigna o produto obtido a partir de produtos do cacau, de açúcares e de leite ou produtos do leite, que contém:\n\n- no mínimo 20 % de matéria seca total de cacau,\n\n- no mínimo 20 % de matéria seca de leite proveniente da evaporação parcial ou total de leite inteiro, de leite parcial ou totalmente desnatado, de nata, de nata parcial ou totalmente desidratada, de manteiga ou de matéria gorda láctea,\n\n- no mínimo 2,5 % de matéria seca de cacau isenta de gordura,\n\n- no mínimo 5 % de matéria gorda láctea,\n\n- no mínimo 25 % de matéria gorda total (em manteiga de cacau e matéria gorda láctea).\n\n6. Chocolate branco\n\nDesigna o produto obtido a partir de manteiga de cacau, de leite ou produtos do leite e de açúcares, que contém, no mínimo, 20 % de manteiga de cacau e pelo menos 14 % de matéria seca de leite proveniente da evaporação parcial ou total de leite inteiro, de leite parcial ou totalmente desnatado, de nata, de nata parcial ou totalmente desidratada, de manteiga ou de matéria gorda láctea, dos quais no mínimo 3,5 % de matéria gorda láctea.\n\n7. Chocolate com recheio\n\nDesigna o produto com recheio cuja parte exterior é constituída por um dos produtos definidos nos pontos 3, 4, 5 e 6. Esta denominação não se aplica aos produtos cujo interior seja constituído por produtos de padaria, pastelaria, bolacha ou biscoito ou por um gelado alimentar.\n\nA parte exterior de chocolate dos produtos que ostentem esta denominação deverá representar, no mínimo, 25 % da massa total do produto.\n\n8. Chocolate a la taza\n\nDesigna o produto obtido a partir de produtos do cacau, de açúcares e de farinha ou amido de trigo, de arroz ou de milho, que contém, no mínimo, 35 % de matéria seca total de cacau (dos quais pelo menos 14 % de matéria seca de cacau isenta de gordura e no mínimo 18 % de manteiga de cacau) e, no máximo, 8 % de farinha ou amido.\n\n9. Chocolate familiar a la taza\n\nDesigna o produto obtido a partir de produtos do cacau, de açúcares e de farinha ou amido de trigo, de arroz ou de milho, que contém, no mínimo, 30 % de matéria seca total de cacau (dos quais pelo menos 12 % de matéria seca de cacau isenta de gordura e no mínimo 18 % de manteiga de cacau) e, no máximo, 18 % de farinha ou amido.\n\n10. Bombom de chocolate\n\nDesigna o produto que cabe na boca de uma só vez, constituído por:\n\n- chocolate com recheio, ou\n\n- um só tipo de chocolate ou uma combinação ou mistura de tipos de chocolate (na acepção das definições constantes dos pontos 3, 4, 5 ou 6) e de outras matérias comestíveis, desde que o chocolate represente pelo menos 25 % da massa total do produto.\n\nB. INGREDIENTES FACULTATIVOS AUTORIZADOS\n\nAdição de matérias comestíveis\n\n1. Sem prejuízo do disposto no artigo 2.o e no ponto 2 da parte B, podem também adicionar-se outras matérias comestíveis aos produtos de chocolate definidos nos pontos 3, 4, 5, 6, 8 e 9 da parte A.\n\nContudo, a adição de:\n\n- gorduras animais e preparados de gorduras animais que não provenham exclusivamente do leite é proibida,\n\n- farinhas, féculas e amidos só é autorizada se for conforme com as definições que constam dos pontos 8 e 9 da parte A.\n\nAs matérias comestíveis adicionadas não devem representar mais de 40 % da massa total do produto acabado.\n\n2. Aos produtos definidos nos pontos 2, 3, 4, 5, 6, 8 e 9 da parte A só podem ser adicionadas substâncias aromatizantes que não lembrem o sabor do chocolate natural ou da matéria gorda do leite.\n\nC. CÁLCULO DOS TEORES PERCENTUAIS\n\nOs teores mínimos previstos nos pontos 3, 4, 5, 6, 8 e 9 da parte A são calculados após dedução da massa dos ingredientes previstos na parte B. No caso dos produtos constantes dos pontos 7 e 10 da parte A, os teores mínimos são calculados após dedução da massa dos ingredientes previstos na parte B, assim como da massa do recheio.\n\nNo caso dos produtos definidos nos pontos 7 e 10 da parte A, os teores de chocolate são calculados em relação à massa total do produto acabado, incluindo o recheio.\n\nD. AÇÚCARES\n\nOs açúcares, na acepção da presente directiva, não se limitam aos abrangidos pela Directiva 73/437/CEE do Conselho, de 11 de Dezembro de 1973, relativa à aproximação das legislações dos Estados-Membros respeitantes a determinados açúcares destinados à alimentação humana(1).\n\n(1) JO L 356 de 27.12.1973, p. 71. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1985."
+  },
+  "94b900b1b8804dce": {
+   "fragment_id": "ANEXO II — GORDURAS VEGETAIS REFERIDAS NO N.o 1 DO ARTIGO 2.o",
+   "type": "divisao",
+   "heading": "ANEXO II — GORDURAS VEGETAIS REFERIDAS NO N.o 1 DO ARTIGO 2.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — GORDURAS VEGETAIS REFERIDAS NO N.o 1 DO ARTIGO 2.o\n\nAs gorduras vegetais a que se refere o n.o 1 do artigo 2.o são, estremes ou em mistura, equivalentes à manteiga de cacau e obedecem aos seguintes critérios:\n\na) Serem gorduras vegetais não láruicas, ricas em triglicéridos monoinsaturados simétricos do tipo POP, POSt, StOSt(1);\n\nb) Serem miscíveis em qualquer proporção com a manteiga de cacau e compatíveis com as suas propriedades físicas (ponto de fusão e temperatura de cristalização, velocidade de fusão, necessidade de fase de temperagem);\n\nc) Serem obtidas exclusivamente por processos de refinação e/ou fraccionamento; está excluída a alteração enzimática da estrutura dos triglicéridos.\n\nDe acordo com estes critérios, podem ser utilizadas as seguintes gorduras vegetais obtidas a partir das plantas enunciadas infra:\n\n>POSIÇÃO NUMA TABELA>\n\nAlém disso, a título de derrogação, os Estados-Membros podem autorizar a utilização de óleo de coco no chocolate usado para o fabrico de gelados e produtos congelados similares.\n\n(1) P (ácido palmítico), O (ácido oleico), St (ácido esteárico)."
+  },
+  "c7110d88260a9f43": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Junho de 2000\n\nrelativa aos produtos de cacau e de chocolate destinados à alimentação humana\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 95.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/7cb81f51-bc93-4803-b1e8-dabb134c595f.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/7cb81f51-bc93-4803-b1e8-dabb134c595f.0018.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/7cb81f51-bc93-4803-b1e8-dabb134c595f.0018.03/DOC_1#E0003)),\n\n(1) Segundo as conclusões do Conselho Europeu de Edimburgo, de 11 e 12 de Dezembro de 1992, confirmadas pelas do Conselho Europeu de Bruxelas, de 10 e 11 de Dezembro de 1993, é necessário proceder à simplificação de determinadas directivas verticais no domínio dos géneros alimentícios, a fim de tomar exclusivamente em conta os requisitos essenciais que os produtos por elas abrangidos devem satisfazer para poderem circular livremente no mercado interno.\n\n(2) A adopção da Directiva 73/241/CEE do Conselho, de 24 de Julho de 1973, relativa à aproximação das legislações dos Estados-Membros respeitantes aos produtos de cacau e de chocolate destinados à alimentação humana ([^4^](http://publications.europa.eu/resource/cellar/7cb81f51-bc93-4803-b1e8-dabb134c595f.0018.03/DOC_1#E0004)), foi justificada pelo facto de as diferenças entre as legislações nacionais no que respeita a vários tipos de produtos de cacau e de chocolate poderem entravar a livre circulação dos produtos em questão, influenciando deste modo directamente a realização e o funcionamento do mercado comum.\n\n(3) Neste contexto, a referida directiva teve por objectivo estabelecer definições e regras comuns no que respeita à composição, às características de fabrico, ao acondicionamento e à rotulagem dos produtos de cacau e de chocolate, por forma a garantir a sua livre circulação na Comunidade.\n\n(4) Essas definições e regras devem ser alteradas, para ter em conta o progresso tecnológico e a evolução dos gostos dos consumidores, e adaptadas à legislação comunitária geral aplicável aos géneros alimentícios, nomeadamente à legislação relativa à rotulagem, aos edulcorantes e outros aditivos autorizados, às substâncias aromatizantes, aos solventes de extracção e aos métodos de análise.\n\n(5) Alguns Estados-Membros admitem a adição aos produtos de chocolate de um máximo de 5 % de outras gorduras vegetais, além da manteiga de cacau.\n\n(6) Deve-se permitir em todos os Estados-Membros a adição aos produtos de chocolate de um máximo de 5 % de certas gorduras vegetais, além da manteiga de cacau. Essas gorduras vegetais devem consistir em equivalentes à manteiga de cacau e devem, por conseguinte, ser definidas segundo critérios técnicos e científicos.\n\n(7) Para garantir a unidade do mercado interno, todos os produtos de chocolate abrangidos pela presente directiva devem poder circular na Comunidade sob as denominações de venda previstas no anexo I.\n\n(8) Por força das regras gerais de rotulagem dos géneros alimentícios estabelecidas na Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios ([^5^](http://publications.europa.eu/resource/cellar/7cb81f51-bc93-4803-b1e8-dabb134c595f.0018.03/DOC_1#E0005)), nomeadamente a indicação da lista dos ingredientes, segundo o artigo 6.º, é obrigatória. A presente directiva torna a Directiva 79/112/CEE aplicável aos produtos de cacau e de chocolate, o que garante uma informação correcta dos consumidores.\n\n(9) No caso dos produtos de chocolate a que tenham sido adicionadas outras gorduras vegetais além da manteiga de cacau, é necessário facultar ao consumidor uma informação correcta, neutra e objectiva, para além da lista dos ingredientes.\n\n(10) Por outro lado, a Directiva 79/112/CEE não obsta a que na rotulagem dos produtos de chocolate figure a indicação de que não foram adicionadas outras gorduras vegetais além da manteiga de cacau, desde que essa informação seja correcta, neutra e objectiva, e não induza os consumidores em erro.\n\n(11) Determinadas denominações de venda reservadas pela presente directiva são utilizadas em denominações de venda compostas consagradas pelas práticas de alguns Estados-Membros para designar produtos que não podem ser confundidos com os definidos na presente directiva. Por conseguinte, essas denominações devem ser mantidas. Todavia, a sua utilização deve respeitar o disposto na Directiva 79/112/CEE, nomeadamente no artigo 5.º\n\n(12) O desenvolvimento do mercado interno desde a adopção da Directiva 73/241/CEE permite hoje em dia equiparar o «chocolate para culinária» ao «chocolate».\n\n(13) Deve-se manter a derrogação prevista na Directiva 73/241/CEE que permite ao Reino Unido e à Irlanda autorizarem a utilização nos respectivos territórios da denominação «milk chocolate» para designar o «chocolate de leite para culinária». A denominação «chocolate de leite para culinária» deve ser substituída por «chocolate de leite familiar».\n\n(14) Segundo o princípio da proporcionalidade, a presente directiva limita-se ao estritamente necessário para realizar os objectivos do Tratado, nos termos do n.º 3 do seu artigo 5.º\n\n(15) O cacau, a manteiga de cacau e diversas outras gorduras vegetais utilizadas no fabrico de chocolate são produzidas predominantemente em países desenvolvimento. No interesse da população destes países, devem ser concluídos acordos com a maior duração possível. A Comissão deve verificar, neste contexto, de que modo a Comunidade pode dar o seu apoio no que se refere à manteiga de cacau e a outras gorduras vegetais (nomeadamente, promovendo o comércio leal).\n\n(16) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/7cb81f51-bc93-4803-b1e8-dabb134c595f.0018.03/DOC_1#E0006)).\n\n(17) Para evitar que sejam criados novos entraves à livre circulação, os Estados-Membros devem abster-se de adoptar, para os produtos em causa, disposições nacionais que não estejam previstas na presente directiva,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "c85fd31be0c1bf27": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Podem ser adicionadas aos produtos de chocolate definidos nos pontos 3, 4, 5, 6, 8 e 9 da parte A do anexo I as outras gorduras vegetais, além da manteiga de cacau, definidas e enumeradas no anexo II. Essa adição não poderá exceder 5 % do produto acabado, após dedução da massa total das outras matérias comestíveis eventualmente utilizadas nos termos da parte B do anexo I e sem qualquer redução dos teores mínimos de manteiga de cacau ou de matéria seca total de cacau.\n\n2. Os produtos de chocolate que, nos termos do n.º 1, contenham outras gorduras vegetais além da manteiga de cacau podem ser comercializados em todos os Estados-Membros, desde que, nos termos do artigo 3.º, a sua rotulagem seja completada pela seguinte referência, que deve chamar a atenção e ser perfeitamente legível: «contém outras gorduras vegetais além da manteiga de cacau». Esta referência deve aparecer no mesmo campo visual que a lista dos ingredientes, claramente distinta dessa lista, em caracteres pelo menos tão grandes e a negro e com a denominação de venda do produto na proximidade. Não obstante este requisito, a denominação de venda pode também figurar noutro lugar.\n\n3. As eventuais alterações do anexo II serão efectuadas nos termos do artigo 95.º do Tratado.\n\n4. O mais tardar em 3 de Fevereiro de 2006, a Comissão apresentará, se necessário, uma proposta de alteração da lista do anexo II, nos termos do artigo 95.º do Tratado e tendo em conta os resultados de um estudo adequado do impacto da presente directiva nas economias dos países produtores de cacau e de outras gorduras vegetais além da manteiga de cacau."
+  },
+  "803ba1c2347a3603": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA Directiva 79/112/CEE é aplicável aos produtos definidos no anexo I, nas seguintes condições:\n\n1. As denominações de venda previstas no anexo I são reservadas aos produtos nele referidos e devem ser utilizadas no comércio para os designar.\n\n2. Quando os produtos definidos nos pontos 3, 4, 5, 6, 7 e 10 da parte A do anexo I forem vendidos em sortidos, as suas denominações de venda poderão ser substituídas pelas denominações «chocolates sortidos» ou «chocolates com recheio sortidos», ou por uma denominação similar. Nesse caso, a lista dos ingredientes poderá ser uma só para o conjunto dos produtos que constituem o sortido.\n\n3. No caso dos produtos de cacau e de chocolate definidos nos pontos 2, alíneas c) e d), 3, 4, 5, 8 e 9 da parte A do anexo I, o teor de matéria seca total de cacau deve figurar na rotulagem através da indicação «cacau: mínimo de… %.».\n\n4. Nos casos previstos na alínea b) e no segundo período da alínea d) do ponto 2 da parte A do anexo I, o teor de manteiga de cacau deve figurar na rotulagem.\n\n5. As denominações de venda «chocolate», «chocolate de leite» e «chocolate de cobertura» definidas no anexo I podem ser completadas por indicações ou qualificativos que façam referência a critérios de qualidade, desde que os produtos contenham:\n\n— no caso do chocolate: no mínimo 43 % de matéria seca total de cacau, dos quais pelo menos 26 % de manteiga de cacau,\n\n— no caso do chocolate de leite: no mínimo 30 % de matéria seca total de cacau e pelo menos 18 % de matéria seca de leite proveniente da evaporação parcial ou total de leite inteiro, de leite parcial ou totalmente desnatado, de nata, de nata parcial ou totalmente desidratada, de manteiga ou de matéria gorda láctea, dos quais no mínimo 4,5 % de matéria gorda láctea,\n\n— no caso do chocolate de cobertura: no mínimo 16 % de matéria seca de cacau isenta de gordura."
+  },
+  "4bc3cc59b7af6159": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. As seguintes medidas necessárias à execução da presente directiva que têm por objecto alterar elementos não essenciais da presente directiva, nomeadamente completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 6.º:\n\n— a harmonização do conteúdo da presente directiva com as disposições comunitárias gerais aplicáveis aos géneros alimentícios,\n\n— a adaptação ao progresso técnico do disposto no ponto 2 da parte B e nas partes C e D do anexo I.;\n\n2. Sem prejuízo do disposto no n.º 3 do artigo 2.º, e o mais tardar em 3 de Agosto de 2003, o Parlamento Europeu e o Conselho reexaminarão, sob proposta da Comissão, o n.º 1, segundo travessão, do presente artigo, tendo em vista o possível alargamento do processo de adaptação ao progresso técnico e científico."
+  },
+  "49e35c4f04202cf8": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho ([^7^](http://publications.europa.eu/resource/cellar/7cb81f51-bc93-4803-b1e8-dabb134c595f.0018.03/DOC_1#E0007)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "4ac4d6720e8a1e2e": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 3 de Agosto de 2003. Do facto informarão imediatamente a Comissão.\n\n2. Estas disposições devem ser aplicadas de modo a:\n\n— autorizar a comercialização dos produtos definidos no anexo I conformes com as definições e regras previstas na presente directiva, a partir de 3 de Agosto de 2003,\n\n— proibir a comercialização dos produtos não conformes com a presente directiva, a partir de 3 de Agosto de 2003.\n\nContudo, é autorizada a comercialização dos produtos não conformes com a presente directiva que tiverem sido rotulados nos termos da Directiva 73/241/CEE do Conselho antes de 3 de Agosto de 2003, até ao esgotamento das respectivas existências.\n\n3. Quando os Estados-Membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência quando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros."
+  },
+  "fae0d618a1cc3ea4": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "8121d82e6c54612e": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "d08b62c3123afe66": {
+   "fragment_id": "DENOMINAÇÕES DE VENDA, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS",
+   "type": "divisao",
+   "heading": "DENOMINAÇÕES DE VENDA, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DENOMINAÇÕES DE VENDA, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS"
+  },
+  "063794d4191233d5": {
+   "fragment_id": "A. DENOMINAÇÕES DE VENDA DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "A. DENOMINAÇÕES DE VENDA DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. DENOMINAÇÕES DE VENDA DEFINIÇÕES"
+  },
+  "88a3e6071a25107c": {
+   "fragment_id": "1. Manteiga de cacau",
+   "type": "divisao",
+   "heading": "1. Manteiga de cacau",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Manteiga de cacau\n\nDesigna a matéria gorda obtida a partir de sementes de cacau ou de partes de sementes de cacau, com as seguintes características:\n\nteor de ácidos gordos livres (expresso em ácido oleico): no máximo 1,75 %\n\nteor de matérias insaponificáveis (determinado pelo éter de petróleo): no máximo 0,5 %, excepto no caso da manteiga de cacau obtida por pressão, em que não poderá exceder 0,35 %\n\n2. a) Cacau em pó, cacau Designa o produto obtido pela transformação em pó de sementes de cacau limpas, descascadas e torradas que contém no mínimo 20 %, em massa, de manteiga de cacau (expresso em relação à matéria seca) e no máximo 9 % de humidade. b) Cacau magro em pó, cacau magro, cacau fortemente desengordurado em pó, cacau fortemente desengordurado Designa o cacau em pó que contém menos de 20 %, em massa, de manteiga de cacau (expresso em relação à matéria seca). c) Chocolate em pó Designa o produto que consiste numa mistura de cacau em pó e de açúcares que contenha pelo menos 32 % de cacau em pó. d) Chocolate em pó para bebidas, cacau açucarado e cacau em pó açucarado Designa o produto que consiste numa mistura de cacau em pó e de açúcares que contenha pelo menos 25 % de cacau em pó; estas denominações serão acompanhadas da indicação «teor reduzido de matéria gorda» se o produto tiver um teor reduzido de matéria gorda como definido na alínea b) *supra*.\n\n3. Chocolate a) Designa o produto obtido a partir de produtos do cacau e de açúcares que, sem prejuízo da alínea b), contém, no mínimo, 35 % de matéria seca total de cacau, dos quais pelo menos 18 % de manteiga de cacau e no mínimo 14 % de matéria seca de cacau isenta de gordura. b) Contudo, se esta denominação for completada pela expressão: — «em grânulos» ou «em flocos»: o produto em questão, apresentado sob a forma de grânulos ou de flocos, deve conter, no mínimo, 32 % de matéria seca total de cacau, dos quais pelo menos 12 % de manteiga de cacau e no mínimo 14 % de matéria seca de cacau isenta de gordura, — «de cobertura»: o produto em questão deve conter, no mínimo, 35 % de matéria seca total de cacau, dos quais pelo menos 31 % de manteiga de cacau e no mínimo 2,5 % de matéria seca de cacau isenta de gordura, — «*gianduia*»: chocolate com frutos de casca rija «*gianduia*» (ou um dos derivados do termo «*gianduia*»: o produto deve ser obtido, em primeiro lugar, a partir de chocolate com um teor mínimo de 32 % de matéria seca total de cacau — incluindo um teor mínimo de 8 % de matéria seca de cacau isenta de gordura — e, em segundo lugar, a partir de avelãs finamente moídas numa quantidade de 20 g a 40 g de avelãs por 100 g de produto acabado. Podem também ser adicionados os seguintes ingredientes:— a) leite e/ou matéria seca de leite proveniente da evaporação do leite, em tal proporção que o produto acabado não contenha mais de 5 % de matéria seca de leite, b) amêndoas, avelãs e outras variedades de frutos de casca rija, inteiros ou partidos, em quantidades que, juntamente com as avelãs moídas, não excedam 60 % da massa total do produto acabado.\n\n4. Chocolate de leite a) Designa o produto obtido a partir de produtos do cacau, de açúcares e de leite ou produtos do leite que, sem prejuízo da alínea b), contém: — no mínimo 25 % de matéria seca total de cacau, — no mínimo 14 % de matéria seca de leite proveniente da evaporação parcial ou total de leite inteiro, de leite parcial ou totalmente desnatado, de nata, de nata parcial ou totalmente desidratada, de manteiga ou de matéria gorda láctea, — no mínimo 2,5 % de matéria seca de cacau isenta de gordura, — no mínimo 3,5 % de matéria gorda láctea, — no mínimo 25 % de matéria gorda total (manteiga de cacau e matéria gorda láctea). b) Contudo, se esta denominação for completada pela expressão: — «em grânulos» ou « em flocos»: o produto em questão, apresentado sob a forma de grânulos ou de flocos, deve conter, no mínimo, 20 % de matéria seca total de cacau, pelo menos 12 % de matéria seca de leite proveniente da evaporação parcial ou total de leite inteiro, de leite parcial ou totalmente desnatado, de nata, de nata parcial ou totalmente desidratada, de manteiga ou de matéria gorda láctea e, no mínimo, 12 % de matéria gorda total (em manteiga de cacau e matéria gorda láctea), — «de cobertura»: o produto em questão deve conter, no mínimo, 31 % de matéria gorda total (em manteiga de cacau e matéria gorda láctea), — «*gianduia*»: chocolate de leite com frutos de casca rija «*gianduia*» (ou um dos derivados do termo «*gianduia*»): o produto deve ser obtido, em primeiro lugar, a partir de chocolate de leite com um teor mínimo de 10 % de matéria seca de leite proveniente da evaporação parcial ou total de leite inteiro, de leite parcial ou totalmente desnatado, de nata, de nata parcial ou totalmente desidratada, de manteiga ou de matéria gorda láctea e, em segundo lugar, a partir de avelãs finamente moídas numa quantidade de 15 g a 40 g de avelãs por 100 g de produto acabado. Podem também ser adicionadas amêndoas, avelãs e outras variedades de frutos de casca rija, inteiros ou partidos, em quantidades que, juntamente com as avelãs moídas, não excedam 60 % da massa total do produto acabado. c) Se, nesta denominação, a expressão «de leite» for substituída pela expressão: — «de nata»: o produto em questão deve conter, no mínimo, 5,5 % de matéria gorda láctea, — «de leite desnatado»: o produto em questão não pode conter mais de 1 % de matéria gorda láctea. [▼A1](http://publications.europa.eu/resource/celex/12003T) d) O Reino Unido, a Irlanda e Malta podem autorizar a utilização nos respectivos territórios da denominação «*milk chocolate*» para designar o produto referido no ponto 5, na condição de esta denominação ser acompanhada, em ambos os casos, da indicação do teor de matéria seca de leite, fixado para cada um destes dois produtos, através da menção «*milk solids: … % minimum*». [▼B](http://publications.europa.eu/resource/celex/32000L0036)\n\n5. Chocolate de leite familiarDesigna o produto obtido a partir de produtos do cacau, de açúcares e de leite ou produtos do leite, que contém: — no mínimo 20 % de matéria seca total de cacau, — no mínimo 20 % de matéria seca de leite proveniente da evaporação parcial ou total de leite inteiro, de leite parcial ou totalmente desnatado, de nata, de nata parcial ou totalmente desidratada, de manteiga ou de matéria gorda láctea, — no mínimo 2,5 % de matéria seca de cacau isenta de gordura, — no mínimo 5 % de matéria gorda láctea, — no mínimo 25 % de matéria gorda total (em manteiga de cacau e matéria gorda láctea).\n\n6. Chocolate brancoDesigna o produto obtido a partir de manteiga de cacau, de leite ou produtos do leite e de açúcares, que contém, no mínimo, 20 % de manteiga de cacau e pelo menos 14 % de matéria seca de leite proveniente da evaporação parcial ou total de leite inteiro, de leite parcial ou totalmente desnatado, de nata, de nata parcial ou totalmente desidratada, de manteiga ou de matéria gorda láctea, dos quais no mínimo 3,5 % de matéria gorda láctea.\n\n7. Chocolate com recheioDesigna o produto com recheio cuja parte exterior é constituída por um dos produtos definidos nos pontos 3, 4, 5 e 6. Esta denominação não se aplica aos produtos cujo interior seja constituído por produtos de padaria, pastelaria, bolacha ou biscoito ou por um gelado alimentar. A parte exterior de chocolate dos produtos que ostentem esta denominação deverá representar, no mínimo, 25 % da massa total do produto.\n\n8. Chocolate a la tazaDesigna o produto obtido a partir de produtos do cacau, de açúcares e de farinha ou amido de trigo, de arroz ou de milho, que contém, no mínimo, 35 % de matéria seca total de cacau (dos quais pelo menos 14 % de matéria seca de cacau isenta de gordura e no mínimo 18 % de manteiga de cacau) e, no máximo, 8 % de farinha ou amido.\n\n9. Chocolate familiar a la tazaDesigna o produto obtido a partir de produtos do cacau, de açúcares e de farinha ou amido de trigo, de arroz ou de milho, que contém, no mínimo, 30 % de matéria seca total de cacau (dos quais pelo menos 12 % de matéria seca de cacau isenta de gordura e no mínimo 18 % de manteiga de cacau) e, no máximo, 18 % de farinha ou amido.\n\n10. Bombom de chocolateDesigna o produto que cabe na boca de uma só vez, constituído por: — chocolate com recheio, ou — um só tipo de chocolate ou uma combinação ou mistura de tipos de chocolate (na acepção das definições constantes dos pontos 3, 4, 5 ou 6) e de outras matérias comestíveis, desde que o chocolate represente pelo menos 25 % da massa total do produto."
+  },
+  "f9e9a4718ca83260": {
+   "fragment_id": "B. INGREDIENTES FACULTATIVOS AUTORIZADOS",
+   "type": "divisao",
+   "heading": "B. INGREDIENTES FACULTATIVOS AUTORIZADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. INGREDIENTES FACULTATIVOS AUTORIZADOS"
+  },
+  "7f260ee4641a0769": {
+   "fragment_id": "Adição de matérias comestíveis",
+   "type": "divisao",
+   "heading": "Adição de matérias comestíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Adição de matérias comestíveis\n\n1. Sem prejuízo do disposto no artigo 2.º e no ponto 2 da parte B, podem também adicionar-se outras matérias comestíveis aos produtos de chocolate definidos nos pontos 3, 4, 5, 6, 8 e 9 da parte A. Contudo, a adição de: — gorduras animais e preparados de gorduras animais que não provenham exclusivamente do leite é proibida, — farinhas, féculas e amidos só é autorizada se for conforme com as definições que constam dos pontos 8 e 9 da parte A. As matérias comestíveis adicionadas não devem representar mais de 40 % da massa total do produto acabado.\n\n2. Aos produtos definidos nos pontos 2, 3, 4, 5, 6, 8 e 9 da parte A só podem ser adicionadas substâncias aromatizantes que não lembrem o sabor do chocolate natural ou da matéria gorda do leite."
+  },
+  "c53ddd3ef46a4ff6": {
+   "fragment_id": "C. CÁLCULO DOS TEORES PERCENTUAIS",
+   "type": "divisao",
+   "heading": "C. CÁLCULO DOS TEORES PERCENTUAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. CÁLCULO DOS TEORES PERCENTUAIS\n\nOs teores mínimos previstos nos pontos 3, 4, 5, 6, 8 e 9 da parte A são calculados após dedução da massa dos ingredientes previstos na parte B. No caso dos produtos constantes dos pontos 7 e 10 da parte A, os teores mínimos são calculados após dedução da massa dos ingredientes previstos na parte B, assim como da massa do recheio.\n\nNo caso dos produtos definidos nos pontos 7 e 10 da parte A, os teores de chocolate são calculados em relação à massa total do produto acabado, incluindo o recheio."
+  },
+  "44da73ec2c5f9a1a": {
+   "fragment_id": "D. AÇÚCARES",
+   "type": "divisao",
+   "heading": "D. AÇÚCARES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### D. AÇÚCARES\n\nOs açúcares, na acepção da presente directiva, não se limitam aos abrangidos pela Directiva 73/437/CEE do Conselho, de 11 de Dezembro de 1973, relativa à aproximação das legislações dos Estados-Membros respeitantes a determinados açúcares destinados à alimentação humana ([^8^](http://publications.europa.eu/resource/cellar/7cb81f51-bc93-4803-b1e8-dabb134c595f.0018.03/DOC_1#E0008))."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "86ab8e7116b7774a": {
+   "fragment_id": "GORDURAS VEGETAIS REFERIDAS NO N.º 1 DO ARTIGO 2.º",
+   "type": "divisao",
+   "heading": "GORDURAS VEGETAIS REFERIDAS NO N.º 1 DO ARTIGO 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GORDURAS VEGETAIS REFERIDAS NO N.º 1 DO ARTIGO 2.º\n\nAs gorduras vegetais a que se refere o n.º 1 do artigo 2.º são, estremes ou em mistura, equivalentes à manteiga de cacau e obedecem aos seguintes critérios:\n\na) Serem gorduras vegetais não láruicas, ricas em triglicéridos monoinsaturados simétricos do tipo POP, POSt, StOSt ([^9^](http://publications.europa.eu/resource/cellar/7cb81f51-bc93-4803-b1e8-dabb134c595f.0018.03/DOC_1#E0009));\n\nb) Serem miscíveis em qualquer proporção com a manteiga de cacau e compatíveis com as suas propriedades físicas (ponto de fusão e temperatura de cristalização, velocidade de fusão, necessidade de fase de temperagem);\n\nc) Serem obtidas exclusivamente por processos de refinação e/ou fraccionamento; está excluída a alteração enzimática da estrutura dos triglicéridos.\n\nDe acordo com estes critérios, podem ser utilizadas as seguintes gorduras vegetais obtidas a partir das plantas enunciadas *infra:*\n\nNome comum da gordura vegetal Designação científica das plantas a partir das quais se podem obter estas gorduras\n\n1. Sebo de Bornéu ou Tengkawang *Shorea spp*.\n\n2. Óleo de dendém *Elaeis guineensis* *Elaeis olifera*\n\n3. Sal *Shorea robusta*\n\n4. Karité *Butyrospermum parkii*\n\n5. Brindoeiro *Garcinia indica*\n\n6. Mangueira da Índia *Mangifera indica*\n\nAlém disso, a título de derrogação, os Estados-Membros podem autorizar a utilização de óleo de coco no chocolate usado para o fabrico de gelados e produtos congelados similares.\n\n---"
+  },
+  "fe87974dba50e3d3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7cb81f51-bc93-4803-b1e8-dabb134c595f.0018.03/DOC_1#src.E0001)) JO C 231 de 9.8.1996, p. 1 eJO C 118 de 17.4.1998, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7cb81f51-bc93-4803-b1e8-dabb134c595f.0018.03/DOC_1#src.E0002)) JO C 56 de 24.2.1997, p. 20.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7cb81f51-bc93-4803-b1e8-dabb134c595f.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 23 de Outubro de 1997 (JO C 339 de 10.11.1997, p. 128), posição comum do Conselho de 28 de Outubro de 1999 (JO C 10 de 13.1.2000, p. 1) e decisão do Parlamento Europeu de 15 de Março de 2000 (ainda não publicada no Jornal Oficial). Decisão do Conselho de 25 de Maio de 2000.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7cb81f51-bc93-4803-b1e8-dabb134c595f.0018.03/DOC_1#src.E0004)) JO L 228 de 16.8.1973, p. 23. Directiva com a última redacção que lhe foi dada pela Directiva 89/344/CEE (JO L 142 de 25.5.1989, p. 19).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/7cb81f51-bc93-4803-b1e8-dabb134c595f.0018.03/DOC_1#src.E0005)) JO L 33 de 8.2.1979, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 97/4/CE do Parlamento Europeu e do Conselho (JO L 43 de 14.2.1997, p. 21).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/7cb81f51-bc93-4803-b1e8-dabb134c595f.0018.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/7cb81f51-bc93-4803-b1e8-dabb134c595f.0018.03/DOC_1#src.E0007)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/7cb81f51-bc93-4803-b1e8-dabb134c595f.0018.03/DOC_1#src.E0008)) JO L 356 de 27.12.1973, p. 71. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1985.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/7cb81f51-bc93-4803-b1e8-dabb134c595f.0018.03/DOC_1#src.E0009)) P (ácido palmítico), O (ácido oleico), St (ácido esteárico)."
+  },
+  "1b41d93e88d0476d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Junho de 2000\n\nrelativa aos produtos de cacau e de chocolate destinados à alimentação humana\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 95.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/4ec22cc4-4db5-4bbe-bf53-354eacaae15c.0018.04/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/4ec22cc4-4db5-4bbe-bf53-354eacaae15c.0018.04/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/4ec22cc4-4db5-4bbe-bf53-354eacaae15c.0018.04/DOC_1#E0003)),\n\n(1) Segundo as conclusões do Conselho Europeu de Edimburgo, de 11 e 12 de Dezembro de 1992, confirmadas pelas do Conselho Europeu de Bruxelas, de 10 e 11 de Dezembro de 1993, é necessário proceder à simplificação de determinadas directivas verticais no domínio dos géneros alimentícios, a fim de tomar exclusivamente em conta os requisitos essenciais que os produtos por elas abrangidos devem satisfazer para poderem circular livremente no mercado interno.\n\n(2) A adopção da Directiva 73/241/CEE do Conselho, de 24 de Julho de 1973, relativa à aproximação das legislações dos Estados-Membros respeitantes aos produtos de cacau e de chocolate destinados à alimentação humana ([^4^](http://publications.europa.eu/resource/cellar/4ec22cc4-4db5-4bbe-bf53-354eacaae15c.0018.04/DOC_1#E0004)), foi justificada pelo facto de as diferenças entre as legislações nacionais no que respeita a vários tipos de produtos de cacau e de chocolate poderem entravar a livre circulação dos produtos em questão, influenciando deste modo directamente a realização e o funcionamento do mercado comum.\n\n(3) Neste contexto, a referida directiva teve por objectivo estabelecer definições e regras comuns no que respeita à composição, às características de fabrico, ao acondicionamento e à rotulagem dos produtos de cacau e de chocolate, por forma a garantir a sua livre circulação na Comunidade.\n\n(4) Essas definições e regras devem ser alteradas, para ter em conta o progresso tecnológico e a evolução dos gostos dos consumidores, e adaptadas à legislação comunitária geral aplicável aos géneros alimentícios, nomeadamente à legislação relativa à rotulagem, aos edulcorantes e outros aditivos autorizados, às substâncias aromatizantes, aos solventes de extracção e aos métodos de análise.\n\n(5) Alguns Estados-Membros admitem a adição aos produtos de chocolate de um máximo de 5 % de outras gorduras vegetais, além da manteiga de cacau.\n\n(6) Deve-se permitir em todos os Estados-Membros a adição aos produtos de chocolate de um máximo de 5 % de certas gorduras vegetais, além da manteiga de cacau. Essas gorduras vegetais devem consistir em equivalentes à manteiga de cacau e devem, por conseguinte, ser definidas segundo critérios técnicos e científicos.\n\n(7) Para garantir a unidade do mercado interno, todos os produtos de chocolate abrangidos pela presente directiva devem poder circular na Comunidade sob as denominações de venda previstas no anexo I.\n\n(8) Por força das regras gerais de rotulagem dos géneros alimentícios estabelecidas na Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios ([^5^](http://publications.europa.eu/resource/cellar/4ec22cc4-4db5-4bbe-bf53-354eacaae15c.0018.04/DOC_1#E0005)), nomeadamente a indicação da lista dos ingredientes, segundo o artigo 6.º, é obrigatória. A presente directiva torna a Directiva 79/112/CEE aplicável aos produtos de cacau e de chocolate, o que garante uma informação correcta dos consumidores.\n\n(9) No caso dos produtos de chocolate a que tenham sido adicionadas outras gorduras vegetais além da manteiga de cacau, é necessário facultar ao consumidor uma informação correcta, neutra e objectiva, para além da lista dos ingredientes.\n\n(10) Por outro lado, a Directiva 79/112/CEE não obsta a que na rotulagem dos produtos de chocolate figure a indicação de que não foram adicionadas outras gorduras vegetais além da manteiga de cacau, desde que essa informação seja correcta, neutra e objectiva, e não induza os consumidores em erro.\n\n(11) Determinadas denominações de venda reservadas pela presente directiva são utilizadas em denominações de venda compostas consagradas pelas práticas de alguns Estados-Membros para designar produtos que não podem ser confundidos com os definidos na presente directiva. Por conseguinte, essas denominações devem ser mantidas. Todavia, a sua utilização deve respeitar o disposto na Directiva 79/112/CEE, nomeadamente no artigo 5.º\n\n(12) O desenvolvimento do mercado interno desde a adopção da Directiva 73/241/CEE permite hoje em dia equiparar o «chocolate para culinária» ao «chocolate».\n\n(13) Deve-se manter a derrogação prevista na Directiva 73/241/CEE que permite ao Reino Unido e à Irlanda autorizarem a utilização nos respectivos territórios da denominação «milk chocolate» para designar o «chocolate de leite para culinária». A denominação «chocolate de leite para culinária» deve ser substituída por «chocolate de leite familiar».\n\n(14) Segundo o princípio da proporcionalidade, a presente directiva limita-se ao estritamente necessário para realizar os objectivos do Tratado, nos termos do n.º 3 do seu artigo 5.º\n\n(15) O cacau, a manteiga de cacau e diversas outras gorduras vegetais utilizadas no fabrico de chocolate são produzidas predominantemente em países desenvolvimento. No interesse da população destes países, devem ser concluídos acordos com a maior duração possível. A Comissão deve verificar, neste contexto, de que modo a Comunidade pode dar o seu apoio no que se refere à manteiga de cacau e a outras gorduras vegetais (nomeadamente, promovendo o comércio leal).\n\n(16) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/4ec22cc4-4db5-4bbe-bf53-354eacaae15c.0018.04/DOC_1#E0006)).\n\n(17) Para evitar que sejam criados novos entraves à livre circulação, os Estados-Membros devem abster-se de adoptar, para os produtos em causa, disposições nacionais que não estejam previstas na presente directiva,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "a794491c7102798c": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA fim de ter em conta o progresso técnico e a evolução das normas internacionais aplicáveis, a Comissão fica habilitada a adotar atos delegados, de acordo com o artigo 6.º, para alterar o Anexo I, Secções C e D."
+  },
+  "899a2fef53bcc68f": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 5.º é conferido à Comissão por um prazo de cinco anos a contar de 18 de novembro de 2013. A Comissão elabora um relatório sobre a delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por prazos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 5.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n5. Os atos delegados adotados nos termos do artigo 5.º só entram em vigor se não tiverem sido formuladas objecções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da data de notificação desse ato a estas duas instituições ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "e4092729708085b4": {
+   "fragment_id": "D. AÇÚCARES",
+   "type": "divisao",
+   "heading": "D. AÇÚCARES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### D. AÇÚCARES\n\nOs açúcares, na acepção da presente directiva, não se limitam aos abrangidos pela Directiva 73/437/CEE do Conselho, de 11 de Dezembro de 1973, relativa à aproximação das legislações dos Estados-Membros respeitantes a determinados açúcares destinados à alimentação humana ([^7^](http://publications.europa.eu/resource/cellar/4ec22cc4-4db5-4bbe-bf53-354eacaae15c.0018.04/DOC_1#E0007))."
+  },
+  "52257a89fb4ae745": {
+   "fragment_id": "GORDURAS VEGETAIS REFERIDAS NO N.º 1 DO ARTIGO 2.º",
+   "type": "divisao",
+   "heading": "GORDURAS VEGETAIS REFERIDAS NO N.º 1 DO ARTIGO 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GORDURAS VEGETAIS REFERIDAS NO N.º 1 DO ARTIGO 2.º\n\nAs gorduras vegetais a que se refere o n.º 1 do artigo 2.º são, estremes ou em mistura, equivalentes à manteiga de cacau e obedecem aos seguintes critérios:\n\na) Serem gorduras vegetais não láruicas, ricas em triglicéridos monoinsaturados simétricos do tipo POP, POSt, StOSt ([^8^](http://publications.europa.eu/resource/cellar/4ec22cc4-4db5-4bbe-bf53-354eacaae15c.0018.04/DOC_1#E0008));\n\nb) Serem miscíveis em qualquer proporção com a manteiga de cacau e compatíveis com as suas propriedades físicas (ponto de fusão e temperatura de cristalização, velocidade de fusão, necessidade de fase de temperagem);\n\nc) Serem obtidas exclusivamente por processos de refinação e/ou fraccionamento; está excluída a alteração enzimática da estrutura dos triglicéridos.\n\nDe acordo com estes critérios, podem ser utilizadas as seguintes gorduras vegetais obtidas a partir das plantas enunciadas *infra:*\n\nNome comum da gordura vegetal Designação científica das plantas a partir das quais se podem obter estas gorduras\n\n1. Sebo de Bornéu ou Tengkawang *Shorea spp*.\n\n2. Óleo de dendém *Elaeis guineensis* *Elaeis olifera*\n\n3. Sal *Shorea robusta*\n\n4. Karité *Butyrospermum parkii*\n\n5. Brindoeiro *Garcinia indica*\n\n6. Mangueira da Índia *Mangifera indica*\n\nAlém disso, a título de derrogação, os Estados-Membros podem autorizar a utilização de óleo de coco no chocolate usado para o fabrico de gelados e produtos congelados similares.\n\n---"
+  },
+  "4be8569703706409": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4ec22cc4-4db5-4bbe-bf53-354eacaae15c.0018.04/DOC_1#src.E0001)) JO C 231 de 9.8.1996, p. 1 eJO C 118 de 17.4.1998, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4ec22cc4-4db5-4bbe-bf53-354eacaae15c.0018.04/DOC_1#src.E0002)) JO C 56 de 24.2.1997, p. 20.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4ec22cc4-4db5-4bbe-bf53-354eacaae15c.0018.04/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 23 de Outubro de 1997 (JO C 339 de 10.11.1997, p. 128), posição comum do Conselho de 28 de Outubro de 1999 (JO C 10 de 13.1.2000, p. 1) e decisão do Parlamento Europeu de 15 de Março de 2000 (ainda não publicada no Jornal Oficial). Decisão do Conselho de 25 de Maio de 2000.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4ec22cc4-4db5-4bbe-bf53-354eacaae15c.0018.04/DOC_1#src.E0004)) JO L 228 de 16.8.1973, p. 23. Directiva com a última redacção que lhe foi dada pela Directiva 89/344/CEE (JO L 142 de 25.5.1989, p. 19).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/4ec22cc4-4db5-4bbe-bf53-354eacaae15c.0018.04/DOC_1#src.E0005)) JO L 33 de 8.2.1979, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 97/4/CE do Parlamento Europeu e do Conselho (JO L 43 de 14.2.1997, p. 21).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/4ec22cc4-4db5-4bbe-bf53-354eacaae15c.0018.04/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/4ec22cc4-4db5-4bbe-bf53-354eacaae15c.0018.04/DOC_1#src.E0007)) JO L 356 de 27.12.1973, p. 71. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1985.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/4ec22cc4-4db5-4bbe-bf53-354eacaae15c.0018.04/DOC_1#src.E0008)) P (ácido palmítico), O (ácido oleico), St (ácido esteárico)."
+  }
+ }
+}

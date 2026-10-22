@@ -1,0 +1,641 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002L0092:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0092-20160223",
+ "dre_path": null,
+ "source_lastmod": "2016-02-23",
+ "versions": [
+  {
+   "date": "2003-01-15",
+   "future": false,
+   "celex": "32002L0092",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1739c8afcafc3635",
+    "f2a8eb6c6e93d2a6",
+    "5f71d597bbe75169",
+    "aba40857ba67fd09",
+    "ee8df9b83d4985da",
+    "bd5ae45ebd80454c",
+    "a9bb8f2e8b3f3fbc",
+    "c1e21f8c6af641d8",
+    "c7eab9b1221dd40c",
+    "c2199708722e23b1",
+    "c9679a38c43438b6",
+    "206d17371a89c8a0",
+    "4c3604d5c4806b07",
+    "fcb47cd8a561b1fd",
+    "85c2e3753ca6f088",
+    "43c686b2fc5f4bab",
+    "4329b53e2cd027e1",
+    "656d915ac2b9e7b5",
+    "5dc9460d8e85ba72",
+    "0f2a3732daf9e85e",
+    "c4e3a3afeb2d5c49",
+    "bbaf3bed0f9795f8",
+    "9802604e22579d7b"
+   ]
+  },
+  {
+   "date": "2014-07-02",
+   "future": false,
+   "celex": "02002L0092-20140702",
+   "acts": [
+    {
+     "id": "eu:celex:32014L0065:por",
+     "title": "DIRETIVA 2014/65/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 15 de maio de 2014",
+     "published": null,
+     "celex": "32014L0065"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Âmbito de aplicação",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 9.º — Intercâmbio de informações entre Estados-Membros",
+    "Altera Artigo 12.º — Informações a prestar pelo mediador de seguros",
+    "Altera Artigo 18.º — Destinatários",
+    "Adita CAPÍTULO I",
+    "Adita ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+    "Adita CAPÍTULO II",
+    "Adita CONDIÇÕES DE REGISTO",
+    "Adita CAPÍTULO III",
+    "Adita INFORMAÇÕES A PRESTAR PELOS MEDIADORES",
+    "Adita CAPÍTULO III-A",
+    "Adita REQUISITOS ADICIONAIS DE PROTEÇÃO DOS CLIENTES NO QUE SE REFERE AOS PRODUTOS DE INVESTIMENTO COM BASE EM SEGUROS",
+    "Adita Artigo 13.º-A — Âmbito de aplicação",
+    "Adita Artigo 13.º-B — Prevenção de conflitos de interesse",
+    "Adita Artigo 13.º-C — Conflitos de interesses",
+    "Adita Artigo 13.º-D — Princípios gerais e informações prestadas aos clientes",
+    "Adita Artigo 13.º-E — Exercício da delegação",
+    "Adita CAPÍTULO IV",
+    "Adita DISPOSIÇÕES FINAIS",
+    "Adita Notas",
+    "Suprime CAPÍTULO I — ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+    "Suprime CAPÍTULO II — CONDIÇÕES DE REGISTO",
+    "Suprime CAPÍTULO III — INFORMAÇÕES A PRESTAR PELOS MEDIADORES",
+    "Suprime CAPÍTULO IV — DISPOSIÇÕES FINAIS"
+   ],
+   "fragments": [
+    "6f2693b87d72153e",
+    "226c39ffd0a88dad",
+    "5ab355e9e3267ddf",
+    "af3a81608797fec7",
+    "e31aa2f032cd808f",
+    "f0f8c960bfdbce9b",
+    "411c60d144d43eaa",
+    "a8417c50f3d15f14",
+    "4496ddb80fb0ddb6",
+    "2f8b45b9209ae97c",
+    "473dc7fa9499e615",
+    "beff2f31d8d7701a",
+    "24af0317108f434b",
+    "bb19b35e4a381224",
+    "4c3604d5c4806b07",
+    "fcb47cd8a561b1fd",
+    "1e7a0903d2eed348",
+    "0425e403dc743296",
+    "9912774d3c85ef73",
+    "012e73626e10e07e",
+    "b0342bc1df002810",
+    "94965c5fddb6813b",
+    "e445a0137114e98c",
+    "cbd65a1a0e795cf8",
+    "51b990420e94a5fe",
+    "006d7502f3d7d9a0",
+    "10102b79ab250019",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "5dc9460d8e85ba72",
+    "d5de4fa78eab34fc",
+    "c4e3a3afeb2d5c49",
+    "743ef6646ca0982f",
+    "e7d30c6ca98ba2fd",
+    "2512273d7d800f32"
+   ]
+  },
+  {
+   "date": "2016-02-23",
+   "future": false,
+   "celex": "02002L0092-20160223",
+   "acts": [
+    {
+     "id": "eu:celex:32016L0097:por",
+     "title": "DIRETIVA (UE) 2016/97 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de janeiro de 2016",
+     "published": null,
+     "celex": "32016L0097"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Âmbito de aplicação",
+    "Altera Artigo 9.º — Intercâmbio de informações entre Estados-Membros",
+    "Altera Notas",
+    "Suprime CAPÍTULO III-A",
+    "Suprime REQUISITOS ADICIONAIS DE PROTEÇÃO DOS CLIENTES NO QUE SE REFERE AOS PRODUTOS DE INVESTIMENTO COM BASE EM SEGUROS",
+    "Suprime Artigo 13.º-A — Âmbito de aplicação",
+    "Suprime Artigo 13.º-B — Prevenção de conflitos de interesse",
+    "Suprime Artigo 13.º-C — Conflitos de interesses",
+    "Suprime Artigo 13.º-D — Princípios gerais e informações prestadas aos clientes",
+    "Suprime Artigo 13.º-E — Exercício da delegação"
+   ],
+   "fragments": [
+    "7376d45d4fb912a9",
+    "226c39ffd0a88dad",
+    "5ab355e9e3267ddf",
+    "d4140fe4debfaf0b",
+    "e31aa2f032cd808f",
+    "f0f8c960bfdbce9b",
+    "411c60d144d43eaa",
+    "a8417c50f3d15f14",
+    "4496ddb80fb0ddb6",
+    "2f8b45b9209ae97c",
+    "473dc7fa9499e615",
+    "beff2f31d8d7701a",
+    "24af0317108f434b",
+    "3e7868d0ee4dfa1a",
+    "4c3604d5c4806b07",
+    "fcb47cd8a561b1fd",
+    "1e7a0903d2eed348",
+    "0425e403dc743296",
+    "9912774d3c85ef73",
+    "012e73626e10e07e",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "5dc9460d8e85ba72",
+    "d5de4fa78eab34fc",
+    "c4e3a3afeb2d5c49",
+    "743ef6646ca0982f",
+    "e7d30c6ca98ba2fd",
+    "6a11dd769945a59d"
+   ]
+  }
+ ],
+ "fragments": {
+  "1739c8afcafc3635": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2002/92/CE do Parlamento Europeu e do Conselho, de 9 de Dezembro de 2002, relativa à mediação de seguros** *Jornal Oficial nº L 009 de 15/01/2003 p. 0003 - 0010*\n\nDirectiva 2002/92/CE do Parlamento Europeu e do Conselho\n\nde 9 de Dezembro de 2002\n\nrelativa à mediação de seguros\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.o 2 do seu artigo 47.o e o seu artigo 55.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social(2),\n\nDeliberando nos termos do artigo 251.o do Tratado(3),\n\nConsiderando o seguinte:\n\n(1) Os mediadores de seguros e de resseguros desempenham um papel essencial na distribuição de produtos de seguros e de resseguros na Comunidade.\n\n(2) Com a Directiva 77/92/CEE do Conselho, de 13 de Dezembro de 1976, relativa às medidas destinadas a facilitar o exercício efectivo da liberdade de estabelecimento e da livre prestação de serviços nas actividades de agente e de corretor de seguros (ex grupo 630 CITI), e contendo, nomeadamente, medidas transitórias para estas actividades(4), foi dado um primeiro passo para facilitar o exercício da liberdade de estabelecimento e da liberdade de prestação de serviços pelos agentes e corretores de seguros.\n\n(3) Previa-se que a Directiva 77/92/CEE continuasse a ser aplicável até à entrada em vigor das disposições relativas à coordenação das regulamentações nacionais respeitantes ao acesso às actividades de agentes e corretores de seguros e ao seu exercício.\n\n(4) A Recomendação 92/48/CEE da Comissão, de 18 de Dezembro de 1991, relativa aos mediadores de seguros(5), foi seguida em grande medida pelos Estados-Membros e contribuiu para a aproximação das disposições nacionais referentes aos requisitos profissionais e ao registo dos mediadores de seguros.\n\n(5) No entanto, subsistem ainda diferenças consideráveis entre as disposições nacionais, o que coloca obstáculos ao acesso à actividade dos mediadores de seguros e de resseguros no mercado interno e ao seu exercício. Deste modo, justifica-se a substituição da Directiva 77/92/CEE por uma nova directiva.\n\n(6) Os mediadores de seguros e de resseguros devem poder usufruir dos direitos de liberdade de estabelecimento e de liberdade de prestação de serviços consignados no Tratado.\n\n(7) A impossibilidade de os mediadores de seguros operarem livremente em toda a Comunidade prejudica o bom funcionamento do mercado único de seguros.\n\n(8) A coordenação das disposições nacionais relativas aos requisitos profissionais e ao registo de pessoas que iniciam a actividade de mediação de seguros ou exercem essa actividade pode assim contribuir para a realização do mercado único dos serviços financeiros e para o reforço da protecção dos consumidores neste domínio.\n\n(9) Vários tipos de pessoas e de instituições, tais como agentes, corretores e operadores de banca-seguros, podem distribuir produtos de seguros. A igualdade de tratamento dos operadores e a protecção dos consumidores requerem que todas estas pessoas e instituições sejam abrangidas pela presente directiva.\n\n(10) A presente directiva inclui uma definição de \"mediador de seguros ligado\", que tem em conta características de determinados mercados dos Estados-Membros e cujo objecto é fixar as condições de registo aplicáveis a esses mediadores. Não se pretende, com essa definição, impedir que os Estados-Membros mantenham conceitos semelhantes, que se refiram a mediadores de seguros que, actuando embora por conta e em nome de uma empresa de seguros e sob sua Inteira responsabilidade, estejam Habilitadas a receber prémios e montantes destinados aos clientes de acordo com as condições de garantia financeira previstas na presente directiva.\n\n(11) A presente directiva é aplicável às pessoas cuja actividade consiste em prestar serviços de mediação de seguros a terceiros a troco de remuneração, que pode ser pecuniária ou revestir a forma de qualquer outra vantagem económica acordada e ligada à prestação fornecida por esses intermediários.\n\n(12) A presente directiva não é aplicável às pessoas com uma actividade profissional diferente (por exemplo, peritos fiscais ou contabilistas) que prestem os seus conselhos em matéria de seguros a título ocasional no quadro dessa outra actividade profissional, nem às pessoas que forneçam meras informações de carácter geral sobre produtos de seguros, desde que essa actividade não tenha por objecto ajudar o cliente a celebrar ou executar um contrato de seguros ou de resseguros nem a gestão, a título profissional, dos sinistros de uma empresa de seguros ou de resseguros, nem actividades de peritagem e regularização de sinistros.\n\n(13) A presente directiva não é aplicável a pessoas que exerçam a mediação de seguros a título ocasional, em condições estritas e determinadas.\n\n(14) Os mediadores de seguros e de resseguros devem estar registados na autoridade competente do Estado-Membro em que se situa a sua residência ou o seu estabelecimento principal, desde que satisfaçam requisitos profissionais estritos relativos à sua competência, boa reputação, cobertura por um seguro de responsabilidade profissional e capacidade financeira.\n\n(15) Esse registo deve permitir aos mediadores de seguros e de resseguros o exercício da sua actividade nos outros Estados-Membros de acordo com os princípios da liberdade de estabelecimento e da livre prestação de serviços, desde que tenha sido observado o procedimento de notificação adequado entre as autoridades competentes.\n\n(16) Devem ser previstas sanções adequadas para as pessoas que exerçam a actividade de mediação de seguros ou resseguros sem estarem registadas, para as empresas de seguros ou de resseguros que utilizem os serviços de mediadores não registados ou de mediadores que não satisfaçam as disposições nacionais adoptadas nos termos da presente directiva.\n\n(17) A cooperação e a troca de informações entre autoridades competentes constitui um factor essencial para a protecção dos consumidores e para assegurar a solidez das actividades de seguros e de resseguros no mercado único.\n\n(18) É essencial que os consumidores Saiam se o mediador com quem contactam os aconselha sobre produtos de um conjunto amplo de empresas de seguros ou sobre produtos oferecidos por um número restrito de empresas.\n\n(19) A presente directiva deve prever as obrigações em matéria de informação a fornecer pelos mediadores de seguros aos clientes. A esse respeito, os Estados-Membros podem manter ou aprovar disposições mais rigorosas, que podem ser impostas aos mediadores de seguros que, independentemente do seu local de residência, exerçam as suas actividades de mediação no seu território, desde que essas disposições mais rigorosas estejam em conformidade com o direito comunitário, incluindo a Directiva 2000/31/CE do Parlamento Europeu e do Conselho, de 8 de Junho de 2000, relativa a certos aspectos legais dos serviços da sociedade de informação, em especial do comércio electrónico, no mercado interno (\"Directiva sobre o comércio electrónico\")(6).\n\n(20) Quando o mediador declare prestar serviços de consultoria relativamente a produtos de um conjunto amplo de empresas de seguros, deve realizar uma análise equilibrada e suficientemente alargada dos contratos disponíveis no mercado. Além disso, os mediadores devem explicar as razões subjacentes aos seus conselhos.\n\n(21) É menos necessário exigir estas informações quando o consumidor é uma empresa que pretende ressegurar ou segurar riscos comerciais e industriais.\n\n(22) Devem existir nos Estados-Membros procedimentos adequados e eficazes de reclamação e recurso para resolução de litígios entre mediadores de seguros e consumidores utilizando, sempre que adequado, os procedimentos existentes.\n\n(23) Sem prejuízo do direito que assiste aos consumidores de intentarem acções nos tribunais, os Estados-Membros devem incentivar os organismos públicos ou privados instituídos tendo em vista a resolução extrajudicial de litígios a cooperar na resolução de litígios transfronteiras. Essa cooperação poderá, por exemplo, permitir que os consumidores contactem organismos extrajudiciais no Estado-Membro do seu próprio país de residência quanto a reclamações relativas a mediadores de seguros estabelecidos noutros Estados-Membros. O estabelecimento da FIN-NET oferece uma maior assistência aos consumidores na utilização de serviços transfronteiras. As disposições processuais deverão ter em conta a Recomendação 98/257/CE da Comissão, de 30 de Março de 1998, relativa aos princípios aplicáveis aos organismos responsáveis pela resolução extrajudicial de litígios de consumo(7).\n\n(24) Por conseguinte, a Directiva 77/92/CE deve ser revogada,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "f2a8eb6c6e93d2a6": {
+   "fragment_id": "CAPÍTULO I — ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — ÂMBITO DE APLICAÇÃO E DEFINIÇÕES"
+  },
+  "5f71d597bbe75169": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1. A presente directiva estabelece normas relativas ao acesso à actividade de mediação de seguros ou de resseguros e ao seu exercício por pessoas singulares ou colectivas estabelecidas num Estado-Membro ou que nele pretendam estabelecer-se.\n\n2. A presente directiva não é aplicável às pessoas que prestem serviços de mediação de contratos de seguro sempre que se encontrem reunidas as seguintes condições:\n\na) O contrato de seguro apenas requerer o conhecimento da cobertura fornecida pelo seguro;\n\nb) O contrato de seguro não ser um contrato de seguro de vida;\n\nc) O contrato de seguro não prever qualquer cobertura da responsabilidade civil;\n\nd) A actividade profissional principal da pessoa não consistir na mediação de seguros;\n\ne) O seguro ser complementar de um bem ou serviço fornecido por qualquer fornecedor, sempre que esse seguro cubra:\n\ni) risco de avaria ou de perda de bens fornecidos por esse fornecedor ou de danos a esses bens, ou\n\nii) danos em bagagens ou perda das mesmas e demais riscos associados a uma viagem reservada junto desse fornecedor, ainda que o seguro cubra a vida ou a responsabilidade civil, desde que essa cobertura seja acessória em relação à cobertura principal dos riscos associados a essa viagem.\n\nf) O montante do prémio anual não exceder 500 euros e a duração total do contrato de seguro, incluindo eventuais renovações, não exceder um período de cinco anos.\n\n3. A presente directiva não é aplicável a actividades de mediação de seguros ou de resseguros no que se refere a riscos e responsabilidades localizados fora da Comunidade.\n\nA presente directiva não afecta a legislação dos Estados-Membros relativa a actividades de mediação de seguros exercidas por mediadores de seguros e de resseguros estabelecidos num país terceiro e que trabalhem a título de livre prestação de serviços no seu território, desde que seja garantida a igualdade de tratamento a todas as pessoas que exerçam ou sejam autorizadas a exercer actividades de mediação de seguros nesse mercado..\n\nA presente directiva não regula as actividades de mediação de seguros exercidas em países terceiros, nem as actividades de empresas comunitárias de seguros ou de resseguros, definidas na primeira Directiva 73/239/CEE do Conselho, de 24 de Julho de 1973, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao acesso à actividade de seguro directo não vida e ao seu exercício(8), e na primeira Directiva 79/267/CEE do Conselho, de 5 de Março de 1979, relativa à coordenação das disposições legislativas, regulamentares e administrativas, respeitantes ao acesso à actividade de seguro directo de vida e ao seu exercício(9), exercidas em países terceiros através de intermediários de seguros."
+  },
+  "aba40857ba67fd09": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. \"Empresa de seguros\", uma empresa que tenha recebido uma autorização administrativa nos termos do artigo 6.o da Directiva 73/239/CEE ou do artigo 6.o da Directiva 79/267/CEE;\n\n2. \"Empresa de resseguros\", uma empresa que não seja uma empresa de seguros ou uma empresa de seguros de um país terceiro, cuja principal actividade consista em aceitar riscos cedidos por uma empresa de seguros, por uma empresa de seguros de um país terceiro ou por outras empresas de resseguros;\n\n3. \"Mediação de seguros\", as actividades que consistem em apresentar, propor ou praticar outro acto preparatório da celebração de um contrato de seguro, ou em celebrar esses contratos, de apoiar a gestão e execução desses contratos, em especial em caso de sinistro.\n\nEstas actividades, quando exercidas por uma empresa de seguros ou por um empregado de uma empresa de seguros que actue sob a responsabilidade dessa empresa, não são consideradas como mediação de seguros.\n\nA prestação de informações a título ocasional no contexto de outra actividade profissional, desde que essa actividade não se destine a assistir o cliente na celebração ou na execução de um contrato de seguro, a gestão dos sinistros de uma empresa de seguros numa base profissional ou as actividades de regularização e peritagem de sinistros não são consideradas como mediação de seguros.\n\n4. \"Mediação de resseguros\", as actividades que consistem em apresentar, propor ou praticar outro acto preparatório da celebração de um contrato de resseguro, ou em celebrar esses contratos, ou em apoiar a gestão e execução desses contratos, em especial em caso de sinistro.\n\nEstas actividades, quando exercidas por uma empresa de resseguros ou por um empregado de uma empresa de resseguros que actue sob a responsabilidade dessa empresa de resseguros, não são consideradas como mediação de resseguros.\n\nA prestação de informações a título ocasional no contexto de outra actividade profissional, desde que essa actividade não se destine a assistir o cliente na celebração ou na execução de um contrato de resseguro, a gestão dos sinistros de uma empresa de seguros a título profissional ou as actividades de regularização e peritagem de sinistros não são consideradas como mediação de resseguros;\n\n5. \"Mediador de seguros\", qualquer pessoa singular ou colectiva que inicie ou exerça, mediante remuneração, a actividade de mediação de seguros;\n\n6. \"Mediador de resseguros\", qualquer pessoa singular ou colectiva que inicie ou exerça, mediante remuneração, a actividade de mediação de resseguros;\n\n7. \"Mediador de seguros ligado\", qualquer pessoa que exerça uma actividade de mediação de seguros, em nome e por conta de uma empresa de seguros ou de várias empresas de seguros, caso os produtos não sejam concorrentes, mas que não receba prémios nem somas destinadas ao cliente e actue sob a inteira responsabilidade dessas empresas de seguros, no que se refere aos respectivos produtos.\n\nConsidera-se igualmente mediador de seguros ligado, agindo sob a responsabilidade de uma ou várias empresas de seguros, no que se refere aos respectivos produtos, qualquer pessoa que exerça uma actividade de mediação de seguros, em complemento da sua actividade profissional principal, sempre que o seguro constitua um complemento dos bens ou serviços fornecidos no âmbito dessa ocupação principal e que não receba prémios nem somas destinadas ao cliente;\n\n8. \"Grandes riscos\", os grandes riscos definidos na alínea d) do artigo 5.o da Directiva 73/239/CEE;\n\n9. \"Estado-Membro de origem\":\n\na) Quando o mediador for uma pessoa singular, o Estado-Membro em que se situe a sua residência e em que exercer a sua actividade;\n\nb) Quando o mediador for uma pessoa colectiva, o Estado-Membro em que se situe a sua sede social ou, se não dispuser de sede social de acordo com o seu direito nacional, o Estado-Membro em que se situe o seu estabelecimento principal;\n\n10. \"Estado-Membro de acolhimento\", o Estado-Membro em que o mediador de seguros ou de resseguros tenha uma sucursal ou preste serviços;\n\n11. \"Autoridades competentes\", as autoridades designadas por cada Estado-Membro nos termos do artigo 6.o;\n\n12. \"Suporte duradouro\", qualquer instrumento que permita ao cliente armazenar informações que lhe sejam dirigidas pessoalmente, de tal forma que possam ser consultadas posteriormente durante um período adequado aos fins dessas informações, e que permita uma reprodução exacta das informações armazenadas.\n\nOs suportes duradouros incluem, nomeadamente, as disquetes informáticas, os CD-ROM, os DVD e o disco rígido do computador do consumidor no qual esteja armazenado o correio electrónico, mas não incluem os sítios internet, excepto se estes satisfizerem os critérios especificados no primeiro parágrafo."
+  },
+  "ee8df9b83d4985da": {
+   "fragment_id": "CAPÍTULO II — CONDIÇÕES DE REGISTO",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — CONDIÇÕES DE REGISTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — CONDIÇÕES DE REGISTO"
+  },
+  "bd5ae45ebd80454c": {
+   "fragment_id": "Artigo 3.º — Registo",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Registo\n\n1. Os mediadores de seguros e de resseguros são registados no seu Estado-Membro de origem, numa autoridade competente na acepção do n.o 2 do artigo 7.o\n\nSem prejuízo do disposto no primeiro parágrafo, os Estados-Membros podem prever que as empresas de seguros e de resseguros ou outros organismos possam colaborar com as autoridades competentes no registo dos mediadores de seguros e de resseguros, bem como na aplicação a esses mediadores dos requisitos do artigo 4.o Em especial, no caso de mediadores de seguros ligados, estes podem ser registados por uma empresa de seguros ou uma associação de empresas de seguros, sob o controlo de uma autoridade competente.\n\nOs Estados-Membros podem não aplicar o requisito referido nos primeiro e segundo parágrafos a todas as pessoas singulares que trabalhem numa empresa e que exerçam a actividade de mediador de seguros ou de resseguros.\n\nNo caso das pessoas colectivas, os Estados-Membros registá-las-ão e indicarão também no registo os nomes das pessoas singulares que, no âmbito da sua direcção, são responsáveis pelas actividades de mediação.\n\n2. Os Estados-Membros podem criar mais do que um registo para os mediadores de seguros ou de resseguros, desde que fixem critérios segundo os quais os mediadores serão inscritos.\n\nOs Estados-Membros velarão por instaurar um balcão único, que permita um acesso fácil e rápido à informação proveniente dos vários registos criados por via electrónica e actualizados permanentemente. Esse balcão permitirá igualmente a identificação das autoridades competentes de cada Estado-Membro a que se refere o primeiro parágrafo do n.o 1. Esse registo deve indicar, além disso, o país ou países em que o mediador opera em regime de livre estabelecimento ou de livre prestação de serviços.\n\n3. Os Estados-Membros garantem que o registo dos mediadores de seguros - incluindo os mediadores de seguros ligados - e de resseguros dependa da observância dos requisitos profissionais previstos no artigo 4.o\n\nOs Estados-Membros garantem também que o registo dos mediadores de seguros, incluindo os mediadores de seguros ligados, e de resseguros que deixarem de preencher esses requisitos seja cancelado. A validade do registo deve ser sujeita a uma revisão regular pela autoridade competente. Se necessário, o Estado-Membro de origem informa desse cancelamento o Estado-Membro de acolhimento, por quaisquer meios adequados.\n\n4. As autoridades competentes podem emitir a favor do mediador de seguros ou de resseguros um documento que permita a qualquer interessado verificar, através de consulta do ou dos registos referidos no n.o 2, que aquele se encontra devidamente registado.\n\nEsse documento deve conter, no mínimo, as informações referidas nas alíneas a) e b) do n.o 1 do artigo 12.o e, no caso das pessoas colectivas, o ou os nomes das pessoas singulares referidas no quarto parágrafo do n.o 1 do mesmo artigo.\n\nO Estado-Membro deve exigir que o documento seja devolvido à autoridade competente que o emitiu, se o mediador de seguros ou de resseguros deixar de estar registado.\n\n5. Os mediadores de seguros e de resseguros registados são autorizados a iniciar ou a exercer a actividade de mediação de seguros ou de resseguros na Comunidade ao abrigo tanto da liberdade de estabelecimento quanto da livre prestação de serviços.\n\n6. Os Estados-Membros velarão por que as empresas de seguros recorram apenas aos serviços de mediação de seguros ou de resseguros prestados por mediadores de seguros ou de resseguros registados e pelas pessoas referidas no n.o 2 do artigo 1.o"
+  },
+  "a9bb8f2e8b3f3fbc": {
+   "fragment_id": "Artigo 4.º — Requisitos profissionais",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Requisitos profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos profissionais\n\n1. Os mediadores de seguros ou de resseguros devem possuir conhecimentos e aptidões adequados, tal como determinados pelo Estado-Membro de origem do mediador.\n\nOs Estados-Membros de origem podem ajustar as condições exigidas em matéria de conhecimentos e aptidões em função da actividade do mediador de seguros e de resseguros e dos produtos distribuídos, em particular se o mediador exercer uma actividade profissional principal diferente da de mediador de seguros. Nesses casos, o interessado só pode exercer uma actividade de mediação de seguros se um mediador de seguros que satisfaça as condições do presente artigo ou uma empresa de seguros assumir inteira responsabilidade pelos seus actos.\n\nOs Estados-Membros podem prever, nos casos referidos no segundo parágrafo do n.o 1 do artigo 3.o, que a empresa de seguros verifique se os conhecimentos e aptidões dos mediadores em causa cumprem o disposto no primeiro parágrafo do presente número e, se for caso disso, lhes dispense uma formação que corresponda às exigências relativas aos produtos propostos por esses mediadores.\n\nOs Estados-Membros podem não aplicar o requisito referido no primeiro parágrafo do presente número a todas as pessoas singulares que trabalhem numa empresa e exerçam a actividade de mediador de seguros ou de resseguros. Os Estados-Membros velam por que essas empresas contem na sua estrutura de gestão uma proporção razoável de pessoas - responsáveis pela mediação em matéria de produtos de seguros e quaisquer outras directamente envolvidas na mediação de seguros ou de resseguros - que provem possuir os conhecimentos e aptidões necessários ao exercício do seu trabalho.\n\n2. Os mediadores de seguros ou de resseguros devem gozar de boa reputação. No mínimo, devem ter um registo criminal ou qualquer outro documento nacional equivalente de que não constem quaisquer infracções penais graves ligadas a crimes contra a propriedade ou outros crimes relacionados com actividades financeiras e não devem ter sido anteriormente declarados falidos ou insolventes, salvo se tiverem sido reabilitados nos termos do seu direito interno.\n\nOs Estados-Membros podem, nos termos do segundo parágrafo do n.o 1 do artigo 3.o, autorizar a empresa de seguros a verificar a boa reputação dos mediadores de seguros.\n\nOs Estados-Membros podem não aplicar o requisito referido no primeiro parágrafo do presente número a todas as pessoas singulares que trabalhem numa empresa e exerçam a actividade de mediador de seguros ou de resseguros. Os Estados-Membros devem, todavia, velar por que o órgão de direcção dessa empresa e o pessoal directamente envolvido na mediação de seguros ou de resseguros preencham este requisito.\n\n3. Os mediadores de seguros ou de resseguros devem estar cobertos por um seguro de responsabilidade civil profissional, que abranja todo o território da Comunidade, ou por qualquer outra garantia equivalente que cubra as responsabilidades resultantes de negligência profissional, pelo menos até ao montante de 1000000 de euros por sinistro e, globalmente, de 1500000 euros para todos os sinistros que ocorram durante um ano, salvo se esse seguro ou uma garantia equivalente lhes forem já fornecidos por uma empresa de seguros, empresa de resseguros ou outra empresa por conta da qual actuem ou pela qual estejam mandatados ou se essa empresa tiver assumido plena responsabilidade pelos actos dos mediadores.\n\n4. Os Estados-Membros devem tomar as medidas necessárias para proteger os clientes face à incapacidade de um mediador de seguros para transferir o prémio da empresa de seguros ou para transferir o montante da indemnização ou do estorno do prémio para o segurado.\n\nEssas medidas podem revestir uma ou várias das seguintes formas:\n\na) Disposições legais ou contratuais, nos termos das quais os montantes pagos pelo cliente ao mediador são tratados como se tivessem sido pagos à empresa, enquanto os montantes pagos pela empresa ao mediador só são tratados como tendo sido pagos ao cliente depois de este ter recebido efectivamente esses montantes;\n\nb) A obrigação de os mediadores de seguros disporem, permanentemente, de uma capacidade financeira correspondente a 4 % da soma dos prémios recebidos por ano, num montante mínimo de 15000 euros;\n\nc) A obrigação de os fundos dos clientes serem transferidos através de contas de clientes rigorosamente separadas e de essas contas não serem utilizadas para reembolsar outros credores em caso de falência;\n\nd) A criação de um fundo de garantia.\n\n5. O exercício de actividades de mediação no domínio dos seguros e dos resseguros exige que os requisitos profissionais estabelecidos no presente artigo sejam preenchidos numa base permanente.\n\n6. Os Estados-Membros podem tornar mais estritos os critérios acima mencionados ou prever requisitos suplementares para os mediadores de seguros ou de resseguros registados no seu território.\n\n7. Os montantes referidos nos n.os 3 e 4 devem ser revistos periodicamente a fim de atender à evolução do índice europeu de preços no consumidor, publicado pelo Eurostat. A primeira revisão terá lugar cinco anos a contar da data de entrada em vigor da presente directiva e as revisões seguintes cinco anos a contar da data da revisão anterior.\n\nAs adaptações são automáticas. O montante de base em euros é aumentado da percentagem de variação do índice acima referido durante o período compreendido entre a data de entrada em vigor da presente directiva e a data da primeira revisão ou entre a data da última revisão e a data da nova revisão, e arredondado para o euro superior."
+  },
+  "c1e21f8c6af641d8": {
+   "fragment_id": "Artigo 5.º — Protecção de direitos adquiridos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Protecção de direitos adquiridos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Protecção de direitos adquiridos\n\nOs Estados-Membros podem dispor que as pessoas que, antes de Setembro de 2000, tenham exercido uma actividade de mediação, tenham estado inscritas num registo e possuam um nível de formação e de experiência semelhante ao requerido na presente directiva, sejam automaticamente inscritas no registo a criar, uma vez preenchidos os requisitos previstos nos n.os 3 e 4 do artigo 4.o"
+  },
+  "c7eab9b1221dd40c": {
+   "fragment_id": "Artigo 6.º — Notificação do estabelecimento e da prestação de serviços noutros Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Notificação do estabelecimento e da prestação de serviços noutros Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Notificação do estabelecimento e da prestação de serviços noutros Estados-Membros\n\n1. Qualquer mediador de seguros ou de resseguros que tencione exercer pela primeira vez a sua actividade num ou mais Estados-Membros, em regime de livre prestação de serviços ou de liberdade de estabelecimento, deve informar previamente do facto as autoridades competentes do Estado-Membro de origem.\n\nNo prazo de um mês a contar dessa notificação, essas autoridades competentes comunicam às autoridades competentes dos Estados-Membros de acolhimento que o desejarem a intenção do mediador de seguros ou de resseguros e informam simultaneamente do facto o mediador em causa.\n\nO mediador de seguros ou de resseguros pode começar a sua actividade um mês a contar da data em que tiver sido informado pelas autoridades competentes do Estado-Membro de origem da comunicação referida no segundo parágrafo do presente número. Todavia, o mediador pode começar a sua actividade imediatamente se o Estado-Membro de acolhimento não desejar ser informado.\n\n2. Os Estados-Membros comunicam à Comissão a sua vontade de serem informados, nos termos do n.o 1. Por sua vez, a Comissão notificará do facto os Estados-Membros.\n\n3. As autoridades competentes do Estado-Membro de acolhimento podem tomar todas as medidas para garantir a devida publicação das condições em que, por razões do interesse geral, essas actividades devem ser exercidas no respectivo território."
+  },
+  "c2199708722e23b1": {
+   "fragment_id": "Artigo 7.º — Autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Autoridades competentes\n\n1. Os Estados-Membros designam as autoridades competentes encarregadas de assegurar a execução da presente directiva e informam a Comissão desse facto, indicando qualquer eventual repartição de funções.\n\n2. As autoridades referidas no n.o 1 devem ser autoridades públicas, organismos reconhecidos pelo direito interno ou por autoridades públicas expressamente habilitadas para o efeito pelo direito interno. Não podem ser empresas de seguros ou de resseguros.\n\n3. As autoridades competentes devem dispor dos poderes necessários para o desempenho das suas funções. Cada Estado-Membro deve assegurar que, no caso de existirem várias autoridades competentes no seu território, estas desenvolvam uma estreita colaboração, por forma a que possam desempenhar as suas funções eficazmente."
+  },
+  "c9679a38c43438b6": {
+   "fragment_id": "Artigo 8.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sanções\n\n1. Os Estados-Membros devem prever sanções adequadas no caso de uma pessoa exercer a actividade de mediação de seguros ou de resseguros sem estar registada para esse efeito num Estado-Membro, nem ser abrangidas pelo n.o 2 do artigo 1.o\n\n2. Os Estados-Membros devem prever sanções adequadas em relação a empresas de seguros ou de resseguros que utilizem os serviços de mediação de seguros ou de resseguros de pessoas que não estejam registadas para esse efeito num Estado-Membro, nem sejam abrangidas pelo n.o 2 do artigo 1.o\n\n3. Os Estados-Membros devem prever sanções adequadas em caso de não cumprimento, por parte de um mediador de seguros ou de resseguros, das disposições nacionais adoptadas ao abrigo da presente directiva.\n\n4. A presente directiva em nada prejudica as competências dos Estados-Membros de acolhimento para tomar medidas adequadas destinadas a prevenir ou punir, no seu território, a prática de actos que infrinjam disposições legislativas ou regulamentares adoptadas por razões de interesse geral. Essas competências incluem a possibilidade de impedir que os mediadores de seguros ou de resseguros infractores iniciem novas operações no seu território.\n\n5. Quaisquer medidas que impliquem sanções ou restrições das actividades de um mediador de seguros ou de resseguros devem ser devidamente fundamentadas e comunicadas ao mediador em causa. Dessas medidas cabe recurso para os tribunais do Estado-Membro que as tiver tomado."
+  },
+  "206d17371a89c8a0": {
+   "fragment_id": "Artigo 9.º — Intercâmbio de informações entre Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Intercâmbio de informações entre Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Intercâmbio de informações entre Estados-Membros\n\n1. As autoridades competentes dos vários Estados-Membros devem cooperar entre si a fim de assegurar a boa aplicação das disposições da presente directiva.\n\n2. As autoridades competentes devem trocar informações sobre os mediadores de seguros ou de resseguros que tiverem sido sujeitos a uma sanção referida no n.o 3 do artigo 8.o ou a uma medida referida no n.o 4 do artigo 8.o, susceptíveis de conduzir ao cancelamento da sua inscrição na lista de registo dos mediadores. Além disso, as autoridades competentes podem proceder ao intercâmbio de qualquer informação relevante a pedido de uma delas.\n\n3. Todas as pessoas que recebam ou divulguem informações relacionadas com a presente directiva estão obrigadas ao sigilo profissional, em termos idênticos aos previstos no artigo 16.o da Directiva 92/49/CEE do Conselho, de 18 de Junho de 1992, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao seguro directo não-vida e que altera as Directivas 73/239/CEE e 88/357/CEE (terceira directiva sobre o seguro não-vida)(10), e no artigo 15.o da Directiva 92/96/CEE do Conselho, de 10 de Novembro de 1992, que estabelece a coordenação das disposições legislativas, regulamentares e administrativas relativas ao seguro directo vida e que altera as Directivas 79/267/CEE e 90/619/CEE (terceira directiva sobre o seguro de vida)(11)."
+  },
+  "4c3604d5c4806b07": {
+   "fragment_id": "Artigo 10.º — Reclamações",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Reclamações\n\nOs Estados-Membros promovam as medidas necessárias para instituir procedimentos que permitam aos clientes e a outras partes interessadas, nomeadamente as associações de consumidores, apresentarem reclamações contra mediadores de seguros e de resseguros. Em qualquer dos casos, deve ser dada resposta às referidas reclamações."
+  },
+  "fcb47cd8a561b1fd": {
+   "fragment_id": "Artigo 11.º — Resolução extrajudicial de litígios",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Resolução extrajudicial de litígios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Resolução extrajudicial de litígios\n\n1. Os Estados-Membros devem incentivar a instituição de procedimentos adequados e eficazes de reclamação e de recurso para a resolução extrajudicial de litígios entre mediadores de seguros e clientes, recorrendo, sempre que adequado, aos organismos existentes.\n\n2. Os Estados-Membros devem incentivar esses organismos a cooperar na resolução de litígios transfronteiras."
+  },
+  "85c2e3753ca6f088": {
+   "fragment_id": "CAPÍTULO III — INFORMAÇÕES A PRESTAR PELOS MEDIADORES",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — INFORMAÇÕES A PRESTAR PELOS MEDIADORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — INFORMAÇÕES A PRESTAR PELOS MEDIADORES"
+  },
+  "43c686b2fc5f4bab": {
+   "fragment_id": "Artigo 12.º — Informações a prestar pelo mediador de seguros",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Informações a prestar pelo mediador de seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Informações a prestar pelo mediador de seguros\n\n1. Antes da celebração de qualquer contrato de seguro inicial e, se necessário, aquando da sua alteração ou renovação, um mediador de seguros deve informar os clientes, pelo menos:\n\na) Da sua identidade e endereço;\n\nb) Do registo em que foi inscrito e dos meios para verificar se foi efectivamente registado;\n\nc) De qualquer participação, directa ou indirecta, superior a 10 % nos direitos de voto ou no capital que tenha numa determinada empresa de seguros;\n\nd) De qualquer participação, directa ou indirecta, superior a 10 % nos direitos de voto ou no capital do mediador de seguros detida por uma determinada empresa de seguros, ou pela empresa-mãe de uma determinada empresa de seguros;\n\ne) Dos procedimentos, referidos no artigo 10.o, que permitem aos clientes e a outras partes interessadas apresentarem reclamações contra mediadores de seguros e, eventualmente, dos procedimentos extrajudiciais de reclamação e recurso referidos no artigo 11.o\n\nAlém disso, o mediador de seguros deve indicar ao cliente, no que se refere ao contrato que é fornecido:\n\ni) Se baseia os seus conselhos na obrigação de fornecer uma análise imparcial prevista no n.o 2; ou\n\nii) Se tem a obrigação contratual de exercer a actividade de mediação de seguros exclusivamente com uma ou mais empresas de seguros. Nesse caso e a pedido do cliente, deve também informá-lo dos nomes dessas empresas de seguros; ou\n\niii) Se não tem a obrigação contratual de exercer a actividade de mediação de seguros exclusivamente com uma ou mais empresas de seguros e se não baseia os seus conselhos na obrigação de fornecer uma análise imparcial prevista no n.o 2. Nesse caso e a pedido do cliente, deve também informá-lo dos nomes das empresas de seguros com as quais trabalha.\n\nNos casos em que se preveja que determinada informação é dada apenas a pedido do cliente, este deve ser notificado do direito de pedir essa informação.\n\n2. Quando o mediador de seguros informar o cliente que baseia os seus conselhos numa análise imparcial, é obrigado a dar esses conselhos com base na análise de um número suficiente de contratos de seguro disponíveis no mercado que lhe permita fazer uma recomendação, de acordo com critérios profissionais, quanto ao contrato de seguro mais adequado às necessidades do cliente.\n\n3. Antes da celebração de qualquer contrato de seguro, o mediador de seguros deve, tendo em conta especialmente as informações fornecidas pelo cliente, especificar pelo menos as exigências e as necessidades do cliente e as razões que nortearam os conselhos dados quanto a um determinado produto. Essas informações são ajustadas de acordo com a complexidade do contrato de seguro proposto.\n\n4. As informações a que se referem os n.os 1, 2 e 3 não têm de ser prestadas pelos mediadores de seguros se estes desenvolverem actividades de mediação que digam respeito à cobertura de grandes riscos; os mediadores de resseguros também estão dispensados de prestar essas informações.\n\n5. Os Estados-Membros podem manter ou aprovar disposições mais estritas em relação às exigências em matéria de informação previstas no n.o 1, desde que essas disposições sejam conformes com o direito comunitário.\n\nOs Estados-Membros comunicam à Comissão as disposições nacionais a que se refere o primeiro parágrafo.\n\nPara estabelecer por todos os meios adequados um elevado nível de transparência, a Comissão garante que as informações relativas às disposições nacionais que lhe são comunicadas sejam também comunicadas aos consumidores e aos mediadores de seguros."
+  },
+  "4329b53e2cd027e1": {
+   "fragment_id": "Artigo 13.º — Condições de informação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Condições de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Condições de informação\n\n1. As informações fornecidas aos clientes nos termos do artigo 12.o devem ser comunicadas:\n\na) Em papel ou qualquer outro suporte duradouro acessível aos clientes;\n\nb) Com clareza e exactidão e de uma forma compreensível para os clientes;\n\nc) Numa língua oficial do Estado-Membro do compromisso ou em qualquer outra língua convencionada entre as partes.\n\n2. Em derrogação da alínea a) do n.o 1, as informações referidas no artigo 12.o podem ser fornecidas oralmente se o cliente o solicitar, ou quando seja necessária uma cobertura imediata. Nesses casos, as informações são fornecidas ao cliente nos termos do n.o 1, imediatamente após a celebração do contrato de seguro.\n\n3. No caso de venda por telefone, as informações prévias prestadas ao cliente devem cumprir as regras comunitárias relativas à comercialização à distância de serviços financeiros junto dos consumidores. Além disso, as informações são prestadas ao cliente nos termos do n.o 1 imediatamente após a celebração do contrato de seguro."
+  },
+  "656d915ac2b9e7b5": {
+   "fragment_id": "CAPÍTULO IV — DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — DISPOSIÇÕES FINAIS"
+  },
+  "5dc9460d8e85ba72": {
+   "fragment_id": "Artigo 14.º — Recurso judicial",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Recurso judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Recurso judicial\n\nOs Estados-Membros asseguram que possa haver recurso judicial das decisões tomadas, em relação a um mediador de seguros ou de resseguros ou a uma empresa de seguros, nos termos das disposições legislativas, regulamentares e administrativas adoptadas de acordo com a presente directiva."
+  },
+  "0f2a3732daf9e85e": {
+   "fragment_id": "Artigo 15.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revogação\n\nA Directiva 77/92/CEE é revogada com efeitos à data referida no n.o 1 do artigo 16.o"
+  },
+  "c4e3a3afeb2d5c49": {
+   "fragment_id": "Artigo 16.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Transposição\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 15 de Janeiro de 2005 e informar imediatamente a Comissão desse facto.\n\nEssas disposições devem incluir uma referência à presente directiva ou ser dela acompanhadas aquando da sua publicação oficial. As modalidades dessa referência são aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicam à Comissão o texto das principais disposições legislativas, regulamentares e administrativas que adoptem nas matérias reguladas pela presente directiva. Nessa comunicação, os Estados-Membros devem incluir um quadro em que se indiquem as disposições nacionais que correspondem à presente directiva."
+  },
+  "bbaf3bed0f9795f8": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "9802604e22579d7b": {
+   "fragment_id": "Artigo 18.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 9 de Dezembro de 2002.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nP. Cox\n\nPelo Conselho\n\nO Presidente\n\nH. C. Schmidt\n\n(1) JO C 29 E de 30.1.2001, p. 245.\n\n(2) JO C 221 de 7.8.2001, p. 121.\n\n(3) Parecer do Parlamento Europeu de 14 de Novembro de 2001 (JO C 140 E de 13.6.2002, p. 167), posição comum do Conselho de 18 de Março de 2002 (JO C 145 E de 18.6.2002, p. 1), decisão do Parlamento Europeu de 13 de Junho de 2002 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 28 de Junho de 2002.\n\n(4) JO L 26 de 31.1.1977, p. 14. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n(5) JO L 19 de 28.1.1992, p. 32.\n\n(6) JO L 178 de 17.7.2000, p. 1.\n\n(7) JO L 115 de 17.4.1998, p. 31.\n\n(8) JO L 228 de 16.8.1973, p. 3. Directiva com a última redacção que lhe foi dada pela Directiva 2002/13/CE do Parlamento Europeu e do Conselho (JO L 77 de 20.3.2000, p. 17).\n\n(9) JO L 63 de 13.3.1979, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2002/12/CE do Parlamento Europeu e do Conselho (JO L 77 de 20.3.2002, p. 11).\n\n(10) JO L 228 de 11.8.1992, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2000/64/CE do Parlamento Europeu e do Conselho (JO L 290 de 17.11.2000, p. 27).\n\n(11) JO L 360 de 9.12.1992, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2000/64/CE do Parlamento Europeu e do Conselho."
+  },
+  "6f2693b87d72153e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Dezembro de 2002\n\nrelativa à mediação de seguros\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 47.º e o seu artigo 55.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#E0003)),\n\n(1) Os mediadores de seguros e de resseguros desempenham um papel essencial na distribuição de produtos de seguros e de resseguros na Comunidade.\n\n(2) Com a Directiva 77/92/CEE do Conselho, de 13 de Dezembro de 1976, relativa às medidas destinadas a facilitar o exercício efectivo da liberdade de estabelecimento e da livre prestação de serviços nas actividades de agente e de corretor de seguros (ex grupo 630 CITI), e contendo, nomeadamente, medidas transitórias para estas actividades ([^4^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#E0004)), foi dado um primeiro passo para facilitar o exercício da liberdade de estabelecimento e da liberdade de prestação de serviços pelos agentes e corretores de seguros.\n\n(3) Previa-se que a Directiva 77/92/CEE continuasse a ser aplicável até à entrada em vigor das disposições relativas à coordenação das regulamentações nacionais respeitantes ao acesso às actividades de agentes e corretores de seguros e ao seu exercício.\n\n(4) A Recomendação 92/48/CEE da Comissão, de 18 de Dezembro de 1991, relativa aos mediadores de seguros ([^5^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#E0005)), foi seguida em grande medida pelos Estados-Membros e contribuiu para a aproximação das disposições nacionais referentes aos requisitos profissionais e ao registo dos mediadores de seguros.\n\n(5) No entanto, subsistem ainda diferenças consideráveis entre as disposições nacionais, o que coloca obstáculos ao acesso à actividade dos mediadores de seguros e de resseguros no mercado interno e ao seu exercício. Deste modo, justifica-se a substituição da Directiva 77/92/CEE por uma nova directiva.\n\n(6) Os mediadores de seguros e de resseguros devem poder usufruir dos direitos de liberdade de estabelecimento e de liberdade de prestação de serviços consignados no Tratado.\n\n(7) A impossibilidade de os mediadores de seguros operarem livremente em toda a Comunidade prejudica o bom funcionamento do mercado único de seguros.\n\n(8) A coordenação das disposições nacionais relativas aos requisitos profissionais e ao registo de pessoas que iniciam a actividade de mediação de seguros ou exercem essa actividade pode assim contribuir para a realização do mercado único dos serviços financeiros e para o reforço da protecção dos consumidores neste domínio.\n\n(9) Vários tipos de pessoas e de instituições, tais como agentes, corretores e operadores de banca-seguros, podem distribuir produtos de seguros. A igualdade de tratamento dos operadores e a protecção dos consumidores requerem que todas estas pessoas e instituições sejam abrangidas pela presente directiva.\n\n(10) A presente directiva inclui uma definição de «mediador de seguros ligado», que tem em conta características de determinados mercados dos Estados-Membros e cujo objecto é fixar as condições de registo aplicáveis a esses mediadores. Não se pretende, com essa definição, impedir que os Estados-Membros mantenham conceitos semelhantes, que se refiram a mediadores de seguros que, actuando embora por conta e em nome de uma empresa de seguros e sob sua Inteira responsabilidade, estejam Habilitadas a receber prémios e montantes destinados aos clientes de acordo com as condições de garantia financeira previstas na presente directiva.\n\n(11) A presente directiva é aplicável às pessoas cuja actividade consiste em prestar serviços de mediação de seguros a terceiros a troco de remuneração, que pode ser pecuniária ou revestir a forma de qualquer outra vantagem económica acordada e ligada à prestação fornecida por esses intermediários.\n\n(12) A presente directiva não é aplicável às pessoas com uma actividade profissional diferente (por exemplo, peritos fiscais ou contabilistas) que prestem os seus conselhos em matéria de seguros a título ocasional no quadro dessa outra actividade profissional, nem às pessoas que forneçam meras informações de carácter geral sobre produtos de seguros, desde que essa actividade não tenha por objecto ajudar o cliente a celebrar ou executar um contrato de seguros ou de resseguros nem a gestão, a título profissional, dos sinistros de uma empresa de seguros ou de resseguros, nem actividades de peritagem e regularização de sinistros.\n\n(13) A presente directiva não é aplicável a pessoas que exerçam a mediação de seguros a título ocasional, em condições estritas e determinadas.\n\n(14) Os mediadores de seguros e de resseguros devem estar registados na autoridade competente do Estado-Membro em que se situa a sua residência ou o seu estabelecimento principal, desde que satisfaçam requisitos profissionais estritos relativos à sua competência, boa reputação, cobertura por um seguro de responsabilidade profissional e capacidade financeira.\n\n(15) Esse registo deve permitir aos mediadores de seguros e de resseguros o exercício da sua actividade nos outros Estados-Membros de acordo com os princípios da liberdade de estabelecimento e da livre prestação de serviços, desde que tenha sido observado o procedimento de notificação adequado entre as autoridades competentes.\n\n(16) Devem ser previstas sanções adequadas para as pessoas que exerçam a actividade de mediação de seguros ou resseguros sem estarem registadas, para as empresas de seguros ou de resseguros que utilizem os serviços de mediadores não registados ou de mediadores que não satisfaçam as disposições nacionais adoptadas nos termos da presente directiva.\n\n(17) A cooperação e a troca de informações entre autoridades competentes constitui um factor essencial para a protecção dos consumidores e para assegurar a solidez das actividades de seguros e de resseguros no mercado único.\n\n(18) É essencial que os consumidores Saiam se o mediador com quem contactam os aconselha sobre produtos de um conjunto amplo de empresas de seguros ou sobre produtos oferecidos por um número restrito de empresas.\n\n(19) A presente directiva deve prever as obrigações em matéria de informação a fornecer pelos mediadores de seguros aos clientes. A esse respeito, os Estados-Membros podem manter ou aprovar disposições mais rigorosas, que podem ser impostas aos mediadores de seguros que, independentemente do seu local de residência, exerçam as suas actividades de mediação no seu território, desde que essas disposições mais rigorosas estejam em conformidade com o direito comunitário, incluindo a Directiva 2000/31/CE do Parlamento Europeu e do Conselho, de 8 de Junho de 2000, relativa a certos aspectos legais dos serviços da sociedade de informação, em especial do comércio electrónico, no mercado interno («Directiva sobre o comércio electrónico») ([^6^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#E0006)).\n\n(20) Quando o mediador declare prestar serviços de consultoria relativamente a produtos de um conjunto amplo de empresas de seguros, deve realizar uma análise equilibrada e suficientemente alargada dos contratos disponíveis no mercado. Além disso, os mediadores devem explicar as razões subjacentes aos seus conselhos.\n\n(21) É menos necessário exigir estas informações quando o consumidor é uma empresa que pretende ressegurar ou segurar riscos comerciais e industriais.\n\n(22) Devem existir nos Estados-Membros procedimentos adequados e eficazes de reclamação e recurso para resolução de litígios entre mediadores de seguros e consumidores utilizando, sempre que adequado, os procedimentos existentes.\n\n(23) Sem prejuízo do direito que assiste aos consumidores de intentarem acções nos tribunais, os Estados-Membros devem incentivar os organismos públicos ou privados instituídos tendo em vista a resolução extrajudicial de litígios a cooperar na resolução de litígios transfronteiras. Essa cooperação poderá, por exemplo, permitir que os consumidores contactem organismos extrajudiciais no Estado-Membro do seu próprio país de residência quanto a reclamações relativas a mediadores de seguros estabelecidos noutros Estados-Membros. O estabelecimento da FIN-NET oferece uma maior assistência aos consumidores na utilização de serviços transfronteiras. As disposições processuais deverão ter em conta a Recomendação 98/257/CE da Comissão, de 30 de Março de 1998, relativa aos princípios aplicáveis aos organismos responsáveis pela resolução extrajudicial de litígios de consumo ([^7^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#E0007)).\n\n(24) Por conseguinte, a Directiva 77/92/CE deve ser revogada,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "5ab355e9e3267ddf": {
+   "fragment_id": "ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ÂMBITO DE APLICAÇÃO E DEFINIÇÕES"
+  },
+  "af3a81608797fec7": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1. A presente directiva estabelece normas relativas ao acesso à actividade de mediação de seguros ou de resseguros e ao seu exercício por pessoas singulares ou colectivas estabelecidas num Estado-Membro ou que nele pretendam estabelecer-se.\n\n2. A presente directiva não é aplicável às pessoas que prestem serviços de mediação de contratos de seguro sempre que se encontrem reunidas as seguintes condições:\n\na) O contrato de seguro apenas requerer o conhecimento da cobertura fornecida pelo seguro;\n\nb) O contrato de seguro não ser um contrato de seguro de vida;\n\nc) O contrato de seguro não prever qualquer cobertura da responsabilidade civil;\n\nd) A actividade profissional principal da pessoa não consistir na mediação de seguros;\n\ne) O seguro ser complementar de um bem ou serviço fornecido por qualquer fornecedor, sempre que esse seguro cubra:\n\ni) risco de avaria ou de perda de bens fornecidos por esse fornecedor ou de danos a esses bens, ou\n\nii) danos em bagagens ou perda das mesmas e demais riscos associados a uma viagem reservada junto desse fornecedor, ainda que o seguro cubra a vida ou a responsabilidade civil, desde que essa cobertura seja acessória em relação à cobertura principal dos riscos associados a essa viagem.\n\nf) O montante do prémio anual não exceder 500 euros e a duração total do contrato de seguro, incluindo eventuais renovações, não exceder um período de cinco anos.\n\n3. A presente directiva não é aplicável a actividades de mediação de seguros ou de resseguros no que se refere a riscos e responsabilidades localizados fora da Comunidade.\n\nA presente directiva não afecta a legislação dos Estados-Membros relativa a actividades de mediação de seguros exercidas por mediadores de seguros e de resseguros estabelecidos num país terceiro e que trabalhem a título de livre prestação de serviços no seu território, desde que seja garantida a igualdade de tratamento a todas as pessoas que exerçam ou sejam autorizadas a exercer actividades de mediação de seguros nesse mercado..\n\nA presente directiva não regula as actividades de mediação de seguros exercidas em países terceiros, nem as actividades de empresas comunitárias de seguros ou de resseguros, definidas na primeira Directiva 73/239/CEE do Conselho, de 24 de Julho de 1973, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao acesso à actividade de seguro directo não vida e ao seu exercício ([^8^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#E0008)), e na primeira Directiva 79/267/CEE do Conselho, de 5 de Março de 1979, relativa à coordenação das disposições legislativas, regulamentares e administrativas, respeitantes ao acesso à actividade de seguro directo de vida e ao seu exercício ([^9^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#E0009)), exercidas em países terceiros através de intermediários de seguros."
+  },
+  "e31aa2f032cd808f": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Empresa de seguros», uma empresa que tenha recebido uma autorização administrativa nos termos do artigo 6.º da Directiva 73/239/CEE ou do artigo 6.º da Directiva 79/267/CEE;\n\n2. «Empresa de resseguros», uma empresa que não seja uma empresa de seguros ou uma empresa de seguros de um país terceiro, cuja principal actividade consista em aceitar riscos cedidos por uma empresa de seguros, por uma empresa de seguros de um país terceiro ou por outras empresas de resseguros;\n\n3. «Mediação de seguros», as actividades que consistem em apresentar, propor ou praticar outro acto preparatório da celebração de um contrato de seguro, ou em celebrar esses contratos, de apoiar a gestão e execução desses contratos, em especial em caso de sinistro.\n\n4. «Mediação de resseguros», as actividades que consistem em apresentar, propor ou praticar outro acto preparatório da celebração de um contrato de resseguro, ou em celebrar esses contratos, ou em apoiar a gestão e execução desses contratos, em especial em caso de sinistro.\n\n5. «Mediador de seguros», qualquer pessoa singular ou colectiva que inicie ou exerça, mediante remuneração, a actividade de mediação de seguros;\n\n6. «Mediador de resseguros», qualquer pessoa singular ou colectiva que inicie ou exerça, mediante remuneração, a actividade de mediação de resseguros;\n\n7. «Mediador de seguros ligado», qualquer pessoa que exerça uma actividade de mediação de seguros, em nome e por conta de uma empresa de seguros ou de várias empresas de seguros, caso os produtos não sejam concorrentes, mas que não receba prémios nem somas destinadas ao cliente e actue sob a inteira responsabilidade dessas empresas de seguros, no que se refere aos respectivos produtos.\n\n8. «Grandes riscos», os grandes riscos definidos na alínea d) do artigo 5.º da Directiva 73/239/CEE;\n\n9. «Estado-Membro de origem»:\n\na) Quando o mediador for uma pessoa singular, o Estado-Membro em que se situe a sua residência e em que exercer a sua actividade;\n\nb) Quando o mediador for uma pessoa colectiva, o Estado-Membro em que se situe a sua sede social ou, se não dispuser de sede social de acordo com o seu direito nacional, o Estado-Membro em que se situe o seu estabelecimento principal;\n\n10. «Estado-Membro de acolhimento», o Estado-Membro em que o mediador de seguros ou de resseguros tenha uma sucursal ou preste serviços;\n\n11. «Autoridades competentes», as autoridades designadas por cada Estado-Membro nos termos do artigo 6.º;\n\n12. «Suporte duradouro», qualquer instrumento que permita ao cliente armazenar informações que lhe sejam dirigidas pessoalmente, de tal forma que possam ser consultadas posteriormente durante um período adequado aos fins dessas informações, e que permita uma reprodução exacta das informações armazenadas.\n\n13. Para efeitos do Capítulo III, secção A, «produto de investimento com base em seguros», um produto de seguros que oferece um valor de reembolso ou resgate e em que esse valor de reembolso ou resgate está total ou parcialmente exposto, direta ou indiretamente, às flutuações do mercado e não inclui:\n\na) Produtos de seguro não vida descritos na Diretiva 2009/138/CE, Anexo I (Ramos de seguro não vida);\n\nb) Produtos de seguro de vida em que as prestações previstas no contrato sejam exclusivamente pagas por morte ou incapacidade causada por acidente, doença ou debilidade;\n\nc) Produtos de pensões que, ao abrigo do direito nacional, são reconhecidos como tendo por principal objetivo proporcionar ao investidor um rendimento na reforma e que conferem ao investidor direito a receber determinadas prestações;\n\nd) Produtos de pensões profissionais oficialmente reconhecidos, no âmbito da Diretiva 2003/41/CE ou da Diretiva 2009/138/CE;\n\ne) Produtos de pensões individuais relativamente aos quais a legislação nacional exige uma contribuição da entidade patronal e esta ou o empregado não são livres de escolher o produto ou o prestador."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "411c60d144d43eaa": {
+   "fragment_id": "CONDIÇÕES DE REGISTO",
+   "type": "divisao",
+   "heading": "CONDIÇÕES DE REGISTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES DE REGISTO"
+  },
+  "a8417c50f3d15f14": {
+   "fragment_id": "Artigo 3.º — Registo",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Registo\n\n1. Os mediadores de seguros e de resseguros são registados no seu Estado-Membro de origem, numa autoridade competente na acepção do n.º 2 do artigo 7.º\n\nSem prejuízo do disposto no primeiro parágrafo, os Estados-Membros podem prever que as empresas de seguros e de resseguros ou outros organismos possam colaborar com as autoridades competentes no registo dos mediadores de seguros e de resseguros, bem como na aplicação a esses mediadores dos requisitos do artigo 4.º Em especial, no caso de mediadores de seguros ligados, estes podem ser registados por uma empresa de seguros ou uma associação de empresas de seguros, sob o controlo de uma autoridade competente.\n\nOs Estados-Membros podem não aplicar o requisito referido nos primeiro e segundo parágrafos a todas as pessoas singulares que trabalhem numa empresa e que exerçam a actividade de mediador de seguros ou de resseguros.\n\nNo caso das pessoas colectivas, os Estados-Membros registá-las-ão e indicarão também no registo os nomes das pessoas singulares que, no âmbito da sua direcção, são responsáveis pelas actividades de mediação.\n\n2. Os Estados-Membros podem criar mais do que um registo para os mediadores de seguros ou de resseguros, desde que fixem critérios segundo os quais os mediadores serão inscritos.\n\nOs Estados-Membros velarão por instaurar um balcão único, que permita um acesso fácil e rápido à informação proveniente dos vários registos criados por via electrónica e actualizados permanentemente. Esse balcão permitirá igualmente a identificação das autoridades competentes de cada Estado-Membro a que se refere o primeiro parágrafo do n.º 1. Esse registo deve indicar, além disso, o país ou países em que o mediador opera em regime de livre estabelecimento ou de livre prestação de serviços.\n\n3. Os Estados-Membros garantem que o registo dos mediadores de seguros — incluindo os mediadores de seguros ligados — e de resseguros dependa da observância dos requisitos profissionais previstos no artigo 4.º\n\nOs Estados-Membros garantem também que o registo dos mediadores de seguros, incluindo os mediadores de seguros ligados, e de resseguros que deixarem de preencher esses requisitos seja cancelado. A validade do registo deve ser sujeita a uma revisão regular pela autoridade competente. Se necessário, o Estado-Membro de origem informa desse cancelamento o Estado-Membro de acolhimento, por quaisquer meios adequados.\n\n4. As autoridades competentes podem emitir a favor do mediador de seguros ou de resseguros um documento que permita a qualquer interessado verificar, através de consulta do ou dos registos referidos no n.º 2, que aquele se encontra devidamente registado.\n\nEsse documento deve conter, no mínimo, as informações referidas nas alíneas a) e b) do n.º 1 do artigo 12.º e, no caso das pessoas colectivas, o ou os nomes das pessoas singulares referidas no quarto parágrafo do n.º 1 do mesmo artigo.\n\nO Estado-Membro deve exigir que o documento seja devolvido à autoridade competente que o emitiu, se o mediador de seguros ou de resseguros deixar de estar registado.\n\n5. Os mediadores de seguros e de resseguros registados são autorizados a iniciar ou a exercer a actividade de mediação de seguros ou de resseguros na Comunidade ao abrigo tanto da liberdade de estabelecimento quanto da livre prestação de serviços.\n\n6. Os Estados-Membros velarão por que as empresas de seguros recorram apenas aos serviços de mediação de seguros ou de resseguros prestados por mediadores de seguros ou de resseguros registados e pelas pessoas referidas no n.º 2 do artigo 1.º"
+  },
+  "4496ddb80fb0ddb6": {
+   "fragment_id": "Artigo 4.º — Requisitos profissionais",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Requisitos profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos profissionais\n\n1. Os mediadores de seguros ou de resseguros devem possuir conhecimentos e aptidões adequados, tal como determinados pelo Estado-Membro de origem do mediador.\n\nOs Estados-Membros de origem podem ajustar as condições exigidas em matéria de conhecimentos e aptidões em função da actividade do mediador de seguros e de resseguros e dos produtos distribuídos, em particular se o mediador exercer uma actividade profissional principal diferente da de mediador de seguros. Nesses casos, o interessado só pode exercer uma actividade de mediação de seguros se um mediador de seguros que satisfaça as condições do presente artigo ou uma empresa de seguros assumir inteira responsabilidade pelos seus actos.\n\nOs Estados-Membros podem prever, nos casos referidos no segundo parágrafo do n.º 1 do artigo 3.º, que a empresa de seguros verifique se os conhecimentos e aptidões dos mediadores em causa cumprem o disposto no primeiro parágrafo do presente número e, se for caso disso, lhes dispense uma formação que corresponda às exigências relativas aos produtos propostos por esses mediadores.\n\nOs Estados-Membros podem não aplicar o requisito referido no primeiro parágrafo do presente número a todas as pessoas singulares que trabalhem numa empresa e exerçam a actividade de mediador de seguros ou de resseguros. Os Estados-Membros velam por que essas empresas contem na sua estrutura de gestão uma proporção razoável de pessoas — responsáveis pela mediação em matéria de produtos de seguros e quaisquer outras directamente envolvidas na mediação de seguros ou de resseguros — que provem possuir os conhecimentos e aptidões necessários ao exercício do seu trabalho.\n\n2. Os mediadores de seguros ou de resseguros devem gozar de boa reputação. No mínimo, devem ter um registo criminal ou qualquer outro documento nacional equivalente de que não constem quaisquer infracções penais graves ligadas a crimes contra a propriedade ou outros crimes relacionados com actividades financeiras e não devem ter sido anteriormente declarados falidos ou insolventes, salvo se tiverem sido reabilitados nos termos do seu direito interno.\n\nOs Estados-Membros podem, nos termos do segundo parágrafo do n.º 1 do artigo 3.º, autorizar a empresa de seguros a verificar a boa reputação dos mediadores de seguros.\n\nOs Estados-Membros podem não aplicar o requisito referido no primeiro parágrafo do presente número a todas as pessoas singulares que trabalhem numa empresa e exerçam a actividade de mediador de seguros ou de resseguros. Os Estados-Membros devem, todavia, velar por que o órgão de direcção dessa empresa e o pessoal directamente envolvido na mediação de seguros ou de resseguros preencham este requisito.\n\n3. Os mediadores de seguros ou de resseguros devem estar cobertos por um seguro de responsabilidade civil profissional, que abranja todo o território da Comunidade, ou por qualquer outra garantia equivalente que cubra as responsabilidades resultantes de negligência profissional, pelo menos até ao montante de 1 000 000 de euros por sinistro e, globalmente, de 1 500 000 euros para todos os sinistros que ocorram durante um ano, salvo se esse seguro ou uma garantia equivalente lhes forem já fornecidos por uma empresa de seguros, empresa de resseguros ou outra empresa por conta da qual actuem ou pela qual estejam mandatados ou se essa empresa tiver assumido plena responsabilidade pelos actos dos mediadores.\n\n4. Os Estados-Membros devem tomar as medidas necessárias para proteger os clientes face à incapacidade de um mediador de seguros para transferir o prémio da empresa de seguros ou para transferir o montante da indemnização ou do estorno do prémio para o segurado.\n\nEssas medidas podem revestir uma ou várias das seguintes formas:\n\na) Disposições legais ou contratuais, nos termos das quais os montantes pagos pelo cliente ao mediador são tratados como se tivessem sido pagos à empresa, enquanto os montantes pagos pela empresa ao mediador só são tratados como tendo sido pagos ao cliente depois de este ter recebido efectivamente esses montantes;\n\nb) A obrigação de os mediadores de seguros disporem, permanentemente, de uma capacidade financeira correspondente a 4 % da soma dos prémios recebidos por ano, num montante mínimo de 15 000 euros;\n\nc) A obrigação de os fundos dos clientes serem transferidos através de contas de clientes rigorosamente separadas e de essas contas não serem utilizadas para reembolsar outros credores em caso de falência;\n\nd) A criação de um fundo de garantia.\n\n5. O exercício de actividades de mediação no domínio dos seguros e dos resseguros exige que os requisitos profissionais estabelecidos no presente artigo sejam preenchidos numa base permanente.\n\n6. Os Estados-Membros podem tornar mais estritos os critérios acima mencionados ou prever requisitos suplementares para os mediadores de seguros ou de resseguros registados no seu território.\n\n7. Os montantes referidos nos n.^os^ 3 e 4 devem ser revistos periodicamente a fim de atender à evolução do índice europeu de preços no consumidor, publicado pelo Eurostat. A primeira revisão terá lugar cinco anos a contar da data de entrada em vigor da presente directiva e as revisões seguintes cinco anos a contar da data da revisão anterior.\n\nAs adaptações são automáticas. O montante de base em euros é aumentado da percentagem de variação do índice acima referido durante o período compreendido entre a data de entrada em vigor da presente directiva e a data da primeira revisão ou entre a data da última revisão e a data da nova revisão, e arredondado para o euro superior."
+  },
+  "2f8b45b9209ae97c": {
+   "fragment_id": "Artigo 5.º — Protecção de direitos adquiridos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Protecção de direitos adquiridos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Protecção de direitos adquiridos\n\nOs Estados-Membros podem dispor que as pessoas que, antes de Setembro de 2000, tenham exercido uma actividade de mediação, tenham estado inscritas num registo e possuam um nível de formação e de experiência semelhante ao requerido na presente directiva, sejam automaticamente inscritas no registo a criar, uma vez preenchidos os requisitos previstos nos n.^os^ 3 e 4 do artigo 4.º"
+  },
+  "473dc7fa9499e615": {
+   "fragment_id": "Artigo 6.º — Notificação do estabelecimento e da prestação de serviços noutros Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Notificação do estabelecimento e da prestação de serviços noutros Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Notificação do estabelecimento e da prestação de serviços noutros Estados-Membros\n\n1. Qualquer mediador de seguros ou de resseguros que tencione exercer pela primeira vez a sua actividade num ou mais Estados-Membros, em regime de livre prestação de serviços ou de liberdade de estabelecimento, deve informar previamente do facto as autoridades competentes do Estado-Membro de origem.\n\nNo prazo de um mês a contar dessa notificação, essas autoridades competentes comunicam às autoridades competentes dos Estados-Membros de acolhimento que o desejarem a intenção do mediador de seguros ou de resseguros e informam simultaneamente do facto o mediador em causa.\n\nO mediador de seguros ou de resseguros pode começar a sua actividade um mês a contar da data em que tiver sido informado pelas autoridades competentes do Estado-Membro de origem da comunicação referida no segundo parágrafo do presente número. Todavia, o mediador pode começar a sua actividade imediatamente se o Estado-Membro de acolhimento não desejar ser informado.\n\n2. Os Estados-Membros comunicam à Comissão a sua vontade de serem informados, nos termos do n.º 1. Por sua vez, a Comissão notificará do facto os Estados-Membros.\n\n3. As autoridades competentes do Estado-Membro de acolhimento podem tomar todas as medidas para garantir a devida publicação das condições em que, por razões do interesse geral, essas actividades devem ser exercidas no respectivo território."
+  },
+  "beff2f31d8d7701a": {
+   "fragment_id": "Artigo 7.º — Autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Autoridades competentes\n\n1. Os Estados-Membros designam as autoridades competentes encarregadas de assegurar a execução da presente directiva e informam a Comissão desse facto, indicando qualquer eventual repartição de funções.\n\n2. As autoridades referidas no n.º 1 devem ser autoridades públicas, organismos reconhecidos pelo direito interno ou por autoridades públicas expressamente habilitadas para o efeito pelo direito interno. Não podem ser empresas de seguros ou de resseguros.\n\n3. As autoridades competentes devem dispor dos poderes necessários para o desempenho das suas funções. Cada Estado-Membro deve assegurar que, no caso de existirem várias autoridades competentes no seu território, estas desenvolvam uma estreita colaboração, por forma a que possam desempenhar as suas funções eficazmente."
+  },
+  "24af0317108f434b": {
+   "fragment_id": "Artigo 8.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sanções\n\n1. Os Estados-Membros devem prever sanções adequadas no caso de uma pessoa exercer a actividade de mediação de seguros ou de resseguros sem estar registada para esse efeito num Estado-Membro, nem ser abrangidas pelo n.º 2 do artigo 1.º\n\n2. Os Estados-Membros devem prever sanções adequadas em relação a empresas de seguros ou de resseguros que utilizem os serviços de mediação de seguros ou de resseguros de pessoas que não estejam registadas para esse efeito num Estado-Membro, nem sejam abrangidas pelo n.º 2 do artigo 1.º\n\n3. Os Estados-Membros devem prever sanções adequadas em caso de não cumprimento, por parte de um mediador de seguros ou de resseguros, das disposições nacionais adoptadas ao abrigo da presente directiva.\n\n4. A presente directiva em nada prejudica as competências dos Estados-Membros de acolhimento para tomar medidas adequadas destinadas a prevenir ou punir, no seu território, a prática de actos que infrinjam disposições legislativas ou regulamentares adoptadas por razões de interesse geral. Essas competências incluem a possibilidade de impedir que os mediadores de seguros ou de resseguros infractores iniciem novas operações no seu território.\n\n5. Quaisquer medidas que impliquem sanções ou restrições das actividades de um mediador de seguros ou de resseguros devem ser devidamente fundamentadas e comunicadas ao mediador em causa. Dessas medidas cabe recurso para os tribunais do Estado-Membro que as tiver tomado."
+  },
+  "bb19b35e4a381224": {
+   "fragment_id": "Artigo 9.º — Intercâmbio de informações entre Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Intercâmbio de informações entre Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Intercâmbio de informações entre Estados-Membros\n\n1. As autoridades competentes dos vários Estados-Membros devem cooperar entre si a fim de assegurar a boa aplicação das disposições da presente directiva.\n\n2. As autoridades competentes devem trocar informações sobre os mediadores de seguros ou de resseguros que tiverem sido sujeitos a uma sanção referida no n.º 3 do artigo 8.º ou a uma medida referida no n.º 4 do artigo 8.º, susceptíveis de conduzir ao cancelamento da sua inscrição na lista de registo dos mediadores. Além disso, as autoridades competentes podem proceder ao intercâmbio de qualquer informação relevante a pedido de uma delas.\n\n3. Todas as pessoas que recebam ou divulguem informações relacionadas com a presente directiva estão obrigadas ao sigilo profissional, em termos idênticos aos previstos no artigo 16.º da Directiva 92/49/CEE do Conselho, de 18 de Junho de 1992, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao seguro directo não-vida e que altera as Directivas 73/239/CEE e 88/357/CEE (terceira directiva sobre o seguro não-vida) ([^10^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#E0010)), e no artigo 15.º da Directiva 92/96/CEE do Conselho, de 10 de Novembro de 1992, que estabelece a coordenação das disposições legislativas, regulamentares e administrativas relativas ao seguro directo vida e que altera as Directivas 79/267/CEE e 90/619/CEE (terceira directiva sobre o seguro de vida) ([^11^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#E0011))."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "0425e403dc743296": {
+   "fragment_id": "INFORMAÇÕES A PRESTAR PELOS MEDIADORES",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES A PRESTAR PELOS MEDIADORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÕES A PRESTAR PELOS MEDIADORES"
+  },
+  "9912774d3c85ef73": {
+   "fragment_id": "Artigo 12.º — Informações a prestar pelo mediador de seguros",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Informações a prestar pelo mediador de seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Informações a prestar pelo mediador de seguros\n\n1. Antes da celebração de qualquer contrato de seguro inicial e, se necessário, aquando da sua alteração ou renovação, um mediador de seguros deve informar os clientes, pelo menos:\n\na) Da sua identidade e endereço;\n\nb) Do registo em que foi inscrito e dos meios para verificar se foi efectivamente registado;\n\nc) De qualquer participação, directa ou indirecta, superior a 10 % nos direitos de voto ou no capital que tenha numa determinada empresa de seguros;\n\nd) De qualquer participação, directa ou indirecta, superior a 10 % nos direitos de voto ou no capital do mediador de seguros detida por uma determinada empresa de seguros, ou pela empresa-mãe de uma determinada empresa de seguros;\n\ne) Dos procedimentos, referidos no artigo 10.º, que permitem aos clientes e a outras partes interessadas apresentarem reclamações contra mediadores de seguros e, eventualmente, dos procedimentos extrajudiciais de reclamação e recurso referidos no artigo 11.º\n\ni) Se baseia os seus conselhos na obrigação de fornecer uma análise imparcial prevista no n.º 2; ou\n\nii) Se tem a obrigação contratual de exercer a actividade de mediação de seguros exclusivamente com uma ou mais empresas de seguros. Nesse caso e a pedido do cliente, deve também informá-lo dos nomes dessas empresas de seguros; ou\n\niii) Se não tem a obrigação contratual de exercer a actividade de mediação de seguros exclusivamente com uma ou mais empresas de seguros e se não baseia os seus conselhos na obrigação de fornecer uma análise imparcial prevista no n.º 2. Nesse caso e a pedido do cliente, deve também informá-lo dos nomes das empresas de seguros com as quais trabalha.\n\nNos casos em que se preveja que determinada informação é dada apenas a pedido do cliente, este deve ser notificado do direito de pedir essa informação.\n\n2. Quando o mediador de seguros informar o cliente que baseia os seus conselhos numa análise imparcial, é obrigado a dar esses conselhos com base na análise de um número suficiente de contratos de seguro disponíveis no mercado que lhe permita fazer uma recomendação, de acordo com critérios profissionais, quanto ao contrato de seguro mais adequado às necessidades do cliente.\n\n3. Antes da celebração de qualquer contrato de seguro, o mediador de seguros deve, tendo em conta especialmente as informações fornecidas pelo cliente, especificar pelo menos as exigências e as necessidades do cliente e as razões que nortearam os conselhos dados quanto a um determinado produto. Essas informações são ajustadas de acordo com a complexidade do contrato de seguro proposto.\n\n4. As informações a que se referem os n.^os^ 1, 2 e 3 não têm de ser prestadas pelos mediadores de seguros se estes desenvolverem actividades de mediação que digam respeito à cobertura de grandes riscos; os mediadores de resseguros também estão dispensados de prestar essas informações.\n\n5. Os Estados-Membros podem manter ou aprovar disposições mais estritas em relação às exigências em matéria de informação previstas no n.º 1, desde que essas disposições sejam conformes com o direito comunitário.\n\nOs Estados-Membros comunicam à Comissão as disposições nacionais a que se refere o primeiro parágrafo.\n\nPara estabelecer por todos os meios adequados um elevado nível de transparência, a Comissão garante que as informações relativas às disposições nacionais que lhe são comunicadas sejam também comunicadas aos consumidores e aos mediadores de seguros."
+  },
+  "012e73626e10e07e": {
+   "fragment_id": "Artigo 13.º — Condições de informação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Condições de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Condições de informação\n\n1. As informações fornecidas aos clientes nos termos do artigo 12.º devem ser comunicadas:\n\na) Em papel ou qualquer outro suporte duradouro acessível aos clientes;\n\nb) Com clareza e exactidão e de uma forma compreensível para os clientes;\n\nc) Numa língua oficial do Estado-Membro do compromisso ou em qualquer outra língua convencionada entre as partes.\n\n2. Em derrogação da alínea a) do n.º 1, as informações referidas no artigo 12.º podem ser fornecidas oralmente se o cliente o solicitar, ou quando seja necessária uma cobertura imediata. Nesses casos, as informações são fornecidas ao cliente nos termos do n.º 1, imediatamente após a celebração do contrato de seguro.\n\n3. No caso de venda por telefone, as informações prévias prestadas ao cliente devem cumprir as regras comunitárias relativas à comercialização à distância de serviços financeiros junto dos consumidores. Além disso, as informações são prestadas ao cliente nos termos do n.º 1 imediatamente após a celebração do contrato de seguro."
+  },
+  "b0342bc1df002810": {
+   "fragment_id": "CAPÍTULO III-A",
+   "type": "divisao",
+   "heading": "CAPÍTULO III-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III-A"
+  },
+  "94965c5fddb6813b": {
+   "fragment_id": "REQUISITOS ADICIONAIS DE PROTEÇÃO DOS CLIENTES NO QUE SE REFERE AOS PRODUTOS DE INVESTIMENTO COM BASE EM SEGUROS",
+   "type": "divisao",
+   "heading": "REQUISITOS ADICIONAIS DE PROTEÇÃO DOS CLIENTES NO QUE SE REFERE AOS PRODUTOS DE INVESTIMENTO COM BASE EM SEGUROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS ADICIONAIS DE PROTEÇÃO DOS CLIENTES NO QUE SE REFERE AOS PRODUTOS DE INVESTIMENTO COM BASE EM SEGUROS"
+  },
+  "e445a0137114e98c": {
+   "fragment_id": "Artigo 13.º-A — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 13.º-A — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-A — Âmbito de aplicação\n\nSujeito à exceção prevista no artigo 2.º, n.º 3, segundo parágrafo, o presente capítulo estabelece requisitos adicionais às atividades de mediação de seguros e às vendas diretas efetuadas por empresas de seguros no que se refere à venda de produtos de investimento com base em seguros. Essas atividades devem ser referidas como atividades de distribuição de seguros."
+  },
+  "cbd65a1a0e795cf8": {
+   "fragment_id": "Artigo 13.º-B — Prevenção de conflitos de interesse",
+   "type": "artigo",
+   "heading": "Artigo 13.º-B — Prevenção de conflitos de interesse",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-B — Prevenção de conflitos de interesse\n\nO mediador ou a empresa de seguros deve manter e utilizar mecanismos organizacionais e administrativos eficazes, por forma a tomar todas as medidas razoáveis destinadas a evitar que conflitos de interesses prejudiquem os interesses dos seus clientes, conforme determinado no artigo 13.º-C."
+  },
+  "51b990420e94a5fe": {
+   "fragment_id": "Artigo 13.º-C — Conflitos de interesses",
+   "type": "artigo",
+   "heading": "Artigo 13.º-C — Conflitos de interesses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-C — Conflitos de interesses\n\n1. Os Estados-Membros exigem que os mediadores e as empresas de seguros tomem todas as medidas razoáveis para identificar conflitos de interesse entre si próprios, incluindo os respetivos gestores, empregados, mediadores de seguros vinculados ou qualquer pessoa que lhes esteja, direta ou indiretamente, ligada por uma relação de controlo, e os seus clientes, ou entre dois clientes, que surjam no decurso de atividades de distribuição de seguros.\n\n2. Caso as medidas a nível organizativo ou administrativo, adotadas pelo mediador ou pela empresa de seguros nos termos do artigo 13.º-B, para gerir conflitos de interesses, não sejam suficientes para garantir, com um grau de certeza razoável, que serão evitados os riscos de os interesses dos clientes serem prejudicados, o mediador ou a empresa de seguros deve informar claramente o cliente, antes de efetuar uma operação em seu nome, da natureza genérica e/ou das fontes destes conflitos de interesses.\n\n3. A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 13.º-E, destinados a:\n\na) Definir as medidas que os mediadores ou as empresas de seguros devem razoavelmente tomar para identificar, prevenir, gerir e comunicar conflitos de interesses no exercício da atividade de distribuição de seguros;\n\nb) Estabelecer critérios apropriados para determinar os tipos de conflitos de interesses cuja existência possa prejudicar os interesses dos clientes ou potenciais clientes do mediador ou da empresa de seguros."
+  },
+  "006d7502f3d7d9a0": {
+   "fragment_id": "Artigo 13.º-D — Princípios gerais e informações prestadas aos clientes",
+   "type": "artigo",
+   "heading": "Artigo 13.º-D — Princípios gerais e informações prestadas aos clientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-D — Princípios gerais e informações prestadas aos clientes\n\n1. Os Estados-Membros asseguram que, no quadro do exercício da atividade de distribuição de seguros, os mediadores ou as empresas de seguros atuem de forma honesta, correta e profissional, em conformidade com os melhores interesses dos seus clientes.\n\n2. Todas as informações, incluindo as comunicações comerciais, enviadas pelo mediador ou pela empresa de seguros destinadas a clientes ou a potenciais clientes devem ser corretas, claras e não induzir em erro. As comunicações comerciais devem ser claramente identificadas como tal.\n\n3. Os Estados-Membros podem proibir a aceitação ou receção de remunerações, comissões ou quaisquer prestações monetárias pagas ou concedidas a mediadores ou empresas de seguros por qualquer terceiro ou por uma pessoa que atue em nome de um terceiro no que se refere à distribuição de produtos de investimento com base em seguros a clientes."
+  },
+  "10102b79ab250019": {
+   "fragment_id": "Artigo 13.º-E — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 13.º-E — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-E — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 13.-°C é conferido à Comissão por um prazo indeterminado a contar de 2 de julho de 2014.\n\n3. A delegação de poderes referida no artigo 13.º-C pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação da decisão no *Jornal Oficial da União Europeia* ou de numa data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n5. Os atos delegados adotados nos termos do artigo 13.º-C só entram em vigor se não tiverem sido formuladas objecções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação desse ato a estas duas instituições ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "d5de4fa78eab34fc": {
+   "fragment_id": "Artigo 15.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revogação\n\nA Directiva 77/92/CEE é revogada com efeitos à data referida no n.º 1 do artigo 16.º"
+  },
+  "743ef6646ca0982f": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "e7d30c6ca98ba2fd": {
+   "fragment_id": "Artigo 18.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\n---"
+  },
+  "2512273d7d800f32": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#src.E0001)) JO C 29 E de 30.1.2001, p. 245.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#src.E0002)) JO C 221 de 7.8.2001, p. 121.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 14 de Novembro de 2001 (JO C 140 E de 13.6.2002, p. 167), posição comum do Conselho de 18 de Março de 2002 (JO C 145 E de 18.6.2002, p. 1), decisão do Parlamento Europeu de 13 de Junho de 2002 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 28 de Junho de 2002.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#src.E0004)) JO L 26 de 31.1.1977, p. 14. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#src.E0005)) JO L 19 de 28.1.1992, p. 32.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#src.E0006)) JO L 178 de 17.7.2000, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#src.E0007)) JO L 115 de 17.4.1998, p. 31.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#src.E0008)) JO L 228 de 16.8.1973, p. 3. Directiva com a última redacção que lhe foi dada pela Directiva 2002/13/CE do Parlamento Europeu e do Conselho (JO L 77 de 20.3.2000, p. 17).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#src.E0009)) JO L 63 de 13.3.1979, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2002/12/CE do Parlamento Europeu e do Conselho (JO L 77 de 20.3.2002, p. 11).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#src.E0010)) JO L 228 de 11.8.1992, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2000/64/CE do Parlamento Europeu e do Conselho (JO L 290 de 17.11.2000, p. 27).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/cb122e86-5eaa-4ac6-8904-b5f1de5b8f2d.0015.02/DOC_1#src.E0011)) JO L 360 de 9.12.1992, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2000/64/CE do Parlamento Europeu e do Conselho."
+  },
+  "7376d45d4fb912a9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Dezembro de 2002\n\nrelativa à mediação de seguros\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 47.º e o seu artigo 55.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#E0003)),\n\n(1) Os mediadores de seguros e de resseguros desempenham um papel essencial na distribuição de produtos de seguros e de resseguros na Comunidade.\n\n(2) Com a Directiva 77/92/CEE do Conselho, de 13 de Dezembro de 1976, relativa às medidas destinadas a facilitar o exercício efectivo da liberdade de estabelecimento e da livre prestação de serviços nas actividades de agente e de corretor de seguros (ex grupo 630 CITI), e contendo, nomeadamente, medidas transitórias para estas actividades ([^4^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#E0004)), foi dado um primeiro passo para facilitar o exercício da liberdade de estabelecimento e da liberdade de prestação de serviços pelos agentes e corretores de seguros.\n\n(3) Previa-se que a Directiva 77/92/CEE continuasse a ser aplicável até à entrada em vigor das disposições relativas à coordenação das regulamentações nacionais respeitantes ao acesso às actividades de agentes e corretores de seguros e ao seu exercício.\n\n(4) A Recomendação 92/48/CEE da Comissão, de 18 de Dezembro de 1991, relativa aos mediadores de seguros ([^5^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#E0005)), foi seguida em grande medida pelos Estados-Membros e contribuiu para a aproximação das disposições nacionais referentes aos requisitos profissionais e ao registo dos mediadores de seguros.\n\n(5) No entanto, subsistem ainda diferenças consideráveis entre as disposições nacionais, o que coloca obstáculos ao acesso à actividade dos mediadores de seguros e de resseguros no mercado interno e ao seu exercício. Deste modo, justifica-se a substituição da Directiva 77/92/CEE por uma nova directiva.\n\n(6) Os mediadores de seguros e de resseguros devem poder usufruir dos direitos de liberdade de estabelecimento e de liberdade de prestação de serviços consignados no Tratado.\n\n(7) A impossibilidade de os mediadores de seguros operarem livremente em toda a Comunidade prejudica o bom funcionamento do mercado único de seguros.\n\n(8) A coordenação das disposições nacionais relativas aos requisitos profissionais e ao registo de pessoas que iniciam a actividade de mediação de seguros ou exercem essa actividade pode assim contribuir para a realização do mercado único dos serviços financeiros e para o reforço da protecção dos consumidores neste domínio.\n\n(9) Vários tipos de pessoas e de instituições, tais como agentes, corretores e operadores de banca-seguros, podem distribuir produtos de seguros. A igualdade de tratamento dos operadores e a protecção dos consumidores requerem que todas estas pessoas e instituições sejam abrangidas pela presente directiva.\n\n(10) A presente directiva inclui uma definição de «mediador de seguros ligado», que tem em conta características de determinados mercados dos Estados-Membros e cujo objecto é fixar as condições de registo aplicáveis a esses mediadores. Não se pretende, com essa definição, impedir que os Estados-Membros mantenham conceitos semelhantes, que se refiram a mediadores de seguros que, actuando embora por conta e em nome de uma empresa de seguros e sob sua Inteira responsabilidade, estejam Habilitadas a receber prémios e montantes destinados aos clientes de acordo com as condições de garantia financeira previstas na presente directiva.\n\n(11) A presente directiva é aplicável às pessoas cuja actividade consiste em prestar serviços de mediação de seguros a terceiros a troco de remuneração, que pode ser pecuniária ou revestir a forma de qualquer outra vantagem económica acordada e ligada à prestação fornecida por esses intermediários.\n\n(12) A presente directiva não é aplicável às pessoas com uma actividade profissional diferente (por exemplo, peritos fiscais ou contabilistas) que prestem os seus conselhos em matéria de seguros a título ocasional no quadro dessa outra actividade profissional, nem às pessoas que forneçam meras informações de carácter geral sobre produtos de seguros, desde que essa actividade não tenha por objecto ajudar o cliente a celebrar ou executar um contrato de seguros ou de resseguros nem a gestão, a título profissional, dos sinistros de uma empresa de seguros ou de resseguros, nem actividades de peritagem e regularização de sinistros.\n\n(13) A presente directiva não é aplicável a pessoas que exerçam a mediação de seguros a título ocasional, em condições estritas e determinadas.\n\n(14) Os mediadores de seguros e de resseguros devem estar registados na autoridade competente do Estado-Membro em que se situa a sua residência ou o seu estabelecimento principal, desde que satisfaçam requisitos profissionais estritos relativos à sua competência, boa reputação, cobertura por um seguro de responsabilidade profissional e capacidade financeira.\n\n(15) Esse registo deve permitir aos mediadores de seguros e de resseguros o exercício da sua actividade nos outros Estados-Membros de acordo com os princípios da liberdade de estabelecimento e da livre prestação de serviços, desde que tenha sido observado o procedimento de notificação adequado entre as autoridades competentes.\n\n(16) Devem ser previstas sanções adequadas para as pessoas que exerçam a actividade de mediação de seguros ou resseguros sem estarem registadas, para as empresas de seguros ou de resseguros que utilizem os serviços de mediadores não registados ou de mediadores que não satisfaçam as disposições nacionais adoptadas nos termos da presente directiva.\n\n(17) A cooperação e a troca de informações entre autoridades competentes constitui um factor essencial para a protecção dos consumidores e para assegurar a solidez das actividades de seguros e de resseguros no mercado único.\n\n(18) É essencial que os consumidores Saiam se o mediador com quem contactam os aconselha sobre produtos de um conjunto amplo de empresas de seguros ou sobre produtos oferecidos por um número restrito de empresas.\n\n(19) A presente directiva deve prever as obrigações em matéria de informação a fornecer pelos mediadores de seguros aos clientes. A esse respeito, os Estados-Membros podem manter ou aprovar disposições mais rigorosas, que podem ser impostas aos mediadores de seguros que, independentemente do seu local de residência, exerçam as suas actividades de mediação no seu território, desde que essas disposições mais rigorosas estejam em conformidade com o direito comunitário, incluindo a Directiva 2000/31/CE do Parlamento Europeu e do Conselho, de 8 de Junho de 2000, relativa a certos aspectos legais dos serviços da sociedade de informação, em especial do comércio electrónico, no mercado interno («Directiva sobre o comércio electrónico») ([^6^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#E0006)).\n\n(20) Quando o mediador declare prestar serviços de consultoria relativamente a produtos de um conjunto amplo de empresas de seguros, deve realizar uma análise equilibrada e suficientemente alargada dos contratos disponíveis no mercado. Além disso, os mediadores devem explicar as razões subjacentes aos seus conselhos.\n\n(21) É menos necessário exigir estas informações quando o consumidor é uma empresa que pretende ressegurar ou segurar riscos comerciais e industriais.\n\n(22) Devem existir nos Estados-Membros procedimentos adequados e eficazes de reclamação e recurso para resolução de litígios entre mediadores de seguros e consumidores utilizando, sempre que adequado, os procedimentos existentes.\n\n(23) Sem prejuízo do direito que assiste aos consumidores de intentarem acções nos tribunais, os Estados-Membros devem incentivar os organismos públicos ou privados instituídos tendo em vista a resolução extrajudicial de litígios a cooperar na resolução de litígios transfronteiras. Essa cooperação poderá, por exemplo, permitir que os consumidores contactem organismos extrajudiciais no Estado-Membro do seu próprio país de residência quanto a reclamações relativas a mediadores de seguros estabelecidos noutros Estados-Membros. O estabelecimento da FIN-NET oferece uma maior assistência aos consumidores na utilização de serviços transfronteiras. As disposições processuais deverão ter em conta a Recomendação 98/257/CE da Comissão, de 30 de Março de 1998, relativa aos princípios aplicáveis aos organismos responsáveis pela resolução extrajudicial de litígios de consumo ([^7^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#E0007)).\n\n(24) Por conseguinte, a Directiva 77/92/CE deve ser revogada,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "d4140fe4debfaf0b": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1. A presente directiva estabelece normas relativas ao acesso à actividade de mediação de seguros ou de resseguros e ao seu exercício por pessoas singulares ou colectivas estabelecidas num Estado-Membro ou que nele pretendam estabelecer-se.\n\n2. A presente directiva não é aplicável às pessoas que prestem serviços de mediação de contratos de seguro sempre que se encontrem reunidas as seguintes condições:\n\na) O contrato de seguro apenas requerer o conhecimento da cobertura fornecida pelo seguro;\n\nb) O contrato de seguro não ser um contrato de seguro de vida;\n\nc) O contrato de seguro não prever qualquer cobertura da responsabilidade civil;\n\nd) A actividade profissional principal da pessoa não consistir na mediação de seguros;\n\ne) O seguro ser complementar de um bem ou serviço fornecido por qualquer fornecedor, sempre que esse seguro cubra:\n\ni) risco de avaria ou de perda de bens fornecidos por esse fornecedor ou de danos a esses bens, ou\n\nii) danos em bagagens ou perda das mesmas e demais riscos associados a uma viagem reservada junto desse fornecedor, ainda que o seguro cubra a vida ou a responsabilidade civil, desde que essa cobertura seja acessória em relação à cobertura principal dos riscos associados a essa viagem.\n\nf) O montante do prémio anual não exceder 500 euros e a duração total do contrato de seguro, incluindo eventuais renovações, não exceder um período de cinco anos.\n\n3. A presente directiva não é aplicável a actividades de mediação de seguros ou de resseguros no que se refere a riscos e responsabilidades localizados fora da Comunidade.\n\nA presente directiva não afecta a legislação dos Estados-Membros relativa a actividades de mediação de seguros exercidas por mediadores de seguros e de resseguros estabelecidos num país terceiro e que trabalhem a título de livre prestação de serviços no seu território, desde que seja garantida a igualdade de tratamento a todas as pessoas que exerçam ou sejam autorizadas a exercer actividades de mediação de seguros nesse mercado..\n\nA presente directiva não regula as actividades de mediação de seguros exercidas em países terceiros, nem as actividades de empresas comunitárias de seguros ou de resseguros, definidas na primeira Directiva 73/239/CEE do Conselho, de 24 de Julho de 1973, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao acesso à actividade de seguro directo não vida e ao seu exercício ([^8^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#E0008)), e na primeira Directiva 79/267/CEE do Conselho, de 5 de Março de 1979, relativa à coordenação das disposições legislativas, regulamentares e administrativas, respeitantes ao acesso à actividade de seguro directo de vida e ao seu exercício ([^9^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#E0009)), exercidas em países terceiros através de intermediários de seguros."
+  },
+  "3e7868d0ee4dfa1a": {
+   "fragment_id": "Artigo 9.º — Intercâmbio de informações entre Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Intercâmbio de informações entre Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Intercâmbio de informações entre Estados-Membros\n\n1. As autoridades competentes dos vários Estados-Membros devem cooperar entre si a fim de assegurar a boa aplicação das disposições da presente directiva.\n\n2. As autoridades competentes devem trocar informações sobre os mediadores de seguros ou de resseguros que tiverem sido sujeitos a uma sanção referida no n.º 3 do artigo 8.º ou a uma medida referida no n.º 4 do artigo 8.º, susceptíveis de conduzir ao cancelamento da sua inscrição na lista de registo dos mediadores. Além disso, as autoridades competentes podem proceder ao intercâmbio de qualquer informação relevante a pedido de uma delas.\n\n3. Todas as pessoas que recebam ou divulguem informações relacionadas com a presente directiva estão obrigadas ao sigilo profissional, em termos idênticos aos previstos no artigo 16.º da Directiva 92/49/CEE do Conselho, de 18 de Junho de 1992, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao seguro directo não-vida e que altera as Directivas 73/239/CEE e 88/357/CEE (terceira directiva sobre o seguro não-vida) ([^10^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#E0010)), e no artigo 15.º da Directiva 92/96/CEE do Conselho, de 10 de Novembro de 1992, que estabelece a coordenação das disposições legislativas, regulamentares e administrativas relativas ao seguro directo vida e que altera as Directivas 79/267/CEE e 90/619/CEE (terceira directiva sobre o seguro de vida) ([^11^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#E0011))."
+  },
+  "6a11dd769945a59d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#src.E0001)) JO C 29 E de 30.1.2001, p. 245.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#src.E0002)) JO C 221 de 7.8.2001, p. 121.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 14 de Novembro de 2001 (JO C 140 E de 13.6.2002, p. 167), posição comum do Conselho de 18 de Março de 2002 (JO C 145 E de 18.6.2002, p. 1), decisão do Parlamento Europeu de 13 de Junho de 2002 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 28 de Junho de 2002.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#src.E0004)) JO L 26 de 31.1.1977, p. 14. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#src.E0005)) JO L 19 de 28.1.1992, p. 32.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#src.E0006)) JO L 178 de 17.7.2000, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#src.E0007)) JO L 115 de 17.4.1998, p. 31.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#src.E0008)) JO L 228 de 16.8.1973, p. 3. Directiva com a última redacção que lhe foi dada pela Directiva 2002/13/CE do Parlamento Europeu e do Conselho (JO L 77 de 20.3.2000, p. 17).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#src.E0009)) JO L 63 de 13.3.1979, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2002/12/CE do Parlamento Europeu e do Conselho (JO L 77 de 20.3.2002, p. 11).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#src.E0010)) JO L 228 de 11.8.1992, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2000/64/CE do Parlamento Europeu e do Conselho (JO L 290 de 17.11.2000, p. 27).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/9f76a8a2-98e5-42c1-a7e8-cf3d1af1472f.0015.02/DOC_1#src.E0011)) JO L 360 de 9.12.1992, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2000/64/CE do Parlamento Europeu e do Conselho."
+  }
+ }
+}

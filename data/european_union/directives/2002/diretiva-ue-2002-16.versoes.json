@@ -1,0 +1,169 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002L0016:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0016-20060101",
+ "dre_path": null,
+ "source_lastmod": "2006-01-01",
+ "versions": [
+  {
+   "date": "2002-02-22",
+   "future": false,
+   "celex": "32002L0016",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1b24a0a1c4115e5f",
+    "c118e5430eda4e52",
+    "1a28bad58e7d8b72",
+    "2e86af5571b0b0a7",
+    "18cf6f0cf8ba3a09",
+    "620f3963c1c2bcca",
+    "b53c6bec27ce0f2d",
+    "d3586f580f5ab8bc",
+    "69cc951f62ecb096",
+    "fd1af2f5d385079c",
+    "2dc6c3fafc881f7f",
+    "59b8f5f2e52e3469",
+    "7b5811e61ed2cf7f"
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "celex": "02002L0016-20060101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime ANEXO I — Limite de migração específica para o BADGE e alguns dos seus derivados",
+    "Suprime ANEXO II — Limite de migração específica para o BFDGE e alguns dos seus derivados",
+    "Suprime ANEXO III — Quadro de correlação"
+   ],
+   "fragments": [
+    "fb1d185547ac9451"
+   ]
+  }
+ ],
+ "fragments": {
+  "1b24a0a1c4115e5f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2002/16/CE da Comissão, de 20 de Fevereiro de 2002, relativa à utilização de determinados derivados epoxídicos em materiais e objectos destinados a entrar em contacto com géneros alimentícios (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 051 de 22/02/2002 p. 0027 - 0031*\n\nDirectiva 2002/16/CE da Comissão\n\nde 20 de Fevereiro de 2002\n\nrelativa à utilização de determinados derivados epoxídicos em materiais e objectos destinados a entrar em contacto com géneros alimentícios\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 89/109/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-Membros respeitantes aos materiais e objectos destinados a entrar em contacto com géneros alimentícios(1), e, nomeadamente, o seu artigo 3.o,\n\nApós consulta do Comité Científico da Alimentação Humana,\n\nConsiderando o seguinte:\n\n(1) A utilização e/ou presença do éter bis-(2,3-epoxipropílico) do 2,2-bis-(4-hidroxifenil)- propano (\"BADGE\"), dos éteres bis-(2,3-epoxipropílicos) do bis-(-hidroxifenil)-metano (\"BFDGE\") e de éteres glicidílicos de novolac (\"NOGE\") em materiais e objectos destinados a entrar em contacto com géneros alimentícios levantou dúvidas quanto à sua segurança, especialmente quando usados como aditivos.\n\n(2) Os resultados dos ensaios revelaram a presença de níveis significativos destas substâncias e de alguns dos seus derivados em alguns géneros alimentícios.\n\n(3) O Comité Científico da Alimentação Humana emitiu um parecer segundo o qual a vigência do limite de migração específica para o BADGE e para alguns dos seus derivados pode ser alargada por mais três anos, na pendência da apresentação de dados suplementares para avaliação relativos à toxicologia.\n\n(4) A permissão da utilização e/ou da presença de BADGE pode, por conseguinte, ser provisoriamente prorrogada.\n\n(5) O Comité Científico da Alimentação Humana examinou os dados disponíveis sobre o BFDGE, muito semelhantes aos correspondentes ao BADGE.\n\n(6) A permissão da utilização e/ou da presença de BFDGE e de alguns dos seus derivados pode, por conseguinte, também continuar na pendência da apresentação e avaliação de dados suplementares relativos à toxicologia, sob determinadas condições.\n\n(7) O Comité Científico da Alimentação Humana indicou que, na ausência de informações relativas à exposição potencial e ao perfil toxicológico dos componentes do NOGE com mais de dois anéis aromáticos e dos seus derivados, não se encontrava em condições de avaliar a segurança da utilização e/ou da presença de produtos correspondentes. Por conseguinte, o comité é de opinião que, presentemente, não é adequada a utilização de NOGE como aditivo nos materiais e objectos destinados a entrar em contacto com géneros alimentícios devido à sua tendência para migrar nesta aplicação.\n\n(8) A utilização e/ou a presença de componentes do NOGE com mais de dois anéis aromáticos e dos seus derivados nos materiais e objectos em plástico, revestimentos de superfície e adesivos destinados a entrar em contacto com géneros alimentícios deve ser objecto de regulamentação mediante a fixação de um limite rigoroso que deverá, na prática, excluir provisoriamente a sua utilização como aditivo. Esse limite provisório deverá ser aplicado, na pendência da apresentação dos dados necessários para uma análise científica de risco mais completa, em conformidade com o disposto no n.o 7 do artigo 5.o do Acordo relativo à aplicação de medidas sanitárias e fitossanitárias da OMC e o desenvolvimento de métodos adequados para a determinação dos seus níveis nos géneros alimentícios.\n\n(9) A continuação da utilização e/ou da presença de NOGE e de BFDGE como substâncias iniciadoras para a preparação de revestimentos especiais utilizados para cobrir as superfícies de contentores muito grandes deverá ser permitida, a título provisório, na pendência da apresentação de dados técnicos suplementares. A elevada razão entre o volume e a área superficial destes contentores, a sua utilização repetida ao longo do seu extenso tempo de vida, que diminui a migração e o seu contacto com os géneros alimentícios à temperatura ambiente na maioria das aplicações, sugerem que não é necessário estabelecer um limite de migração para o NOGE e o BFDGE nesses contentores.\n\n(10) Os Estados-Membros que não permitiram a utilização e/ou a presença de BADGE e/ou BFDGE e/ou NOGE em materiais e objectos destinados a entrar em contacto com géneros alimentícios devem poder manter a sua proibição.\n\n(11) A utilização e/ou a presença de BADGE, BFDGE e NOGE em materiais e objectos de plástico, em revestimentos de superfície tais como vernizes, lacas e tintas, assim como nos adesivos, devem ser objecto de regulamentação a nível comunitário de modo a evitar riscos para a saúde humana, bem como obstáculos à livre circulação de bens.\n\n(12) Poderão ocorrer durante a análise erros devido à presença de outras substâncias químicas. São, por isso, necessários métodos validados de análise para uma verificação correcta da conformidade com as restrições estabelecidas na directiva.\n\n(13) Deve ser previsto um período de transição relativamente a materiais e objectos que se encontrem em contacto com géneros alimentícios antes da data-limite para execução da presente directiva.\n\n(14) O referido período de transição deve também ter em conta as normas da Directiva 2000/13/CE do Parlamento Europeu e do Conselho, de 20 de Março de 2000, relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios(2), alterada pela Directiva 2001/101/CE da Comissão(3).\n\n(15) À luz dos novos requisitos técnicos, a Directiva 2001/61/CE da Comissão, de 8 de Agosto de 2001, relativa à utilização de determinados derivados epoxídios em materiais e objectos destinados a entrar em contacto com géneros alimentícios(4) deve ser revogada, por razões de clareza.\n\n(16) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente dos Géneros Alimentícios,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "c118e5430eda4e52": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva é aplicável aos materiais e objectos que, no estado de produtos acabados, se destinem a entrar em contacto ou estejam em contacto, em conformidade com a utilização a que se destinam, com os géneros alimentícios, fabricados a partir de, ou que contenham, uma ou várias das seguintes substâncias:\n\na) Éter bis-(2,3-epoxipropílico) do 2,2-bis-(4-hidroxifenil)-propano, a seguir designado \"BADGE\", bem como alguns dos seus derivados;\n\nb) Éteres bis-(2,3-epoxipropílicos) do bis-(-hidroxifenil)-metano, a seguir designados \"BFDGE\", bem como alguns dos seus derivados;\n\nc) Outros éteres glicidílicos de novolac, a seguir designados \"NOGE\", bem como alguns dos seus derivados.\n\nPara efeitos da presente directiva, \"materiais e objectos\" são:\n\na) Os materiais e objectos fabricados em qualquer tipo de plástico;\n\nb) Os materiais e objectos cobertos por revestimentos de superfície;\n\nc) Os adesivos.\n\n2. A presente directiva não se aplica aos contentores ou tanques de armazenamento com capacidade superior a 10000 litros nem a nenhuma conduta que deles faça parte ou lhes esteja ligada, cobertos por revestimentos especiais denominados \"revestimentos resistentes\"."
+  },
+  "1a28bad58e7d8b72": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs materiais e objectos referidos no n.o 1 do artigo 1.o não devem libertar as substâncias enumeradas no anexo I numa quantidade que exceda o limite aí fixado.\n\nA utilização e/ou a presença de BADGE no fabrico desses materiais e objectos só pode continuar até 31 de Dezembro de 2004."
+  },
+  "2e86af5571b0b0a7": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs materiais e objectos referidos no n.o 1 do artigo 1.o não devem libertar as substâncias enumeradas no anexo II numa quantidade que, adicionada à quantidade de BADGE e dos seus derivados enumerados no anexo I, exceda o limite fixado no anexo II.\n\nA utilização e/ou a presença de BFDGE no fabrico desses materiais e objectos só pode continuar até 31 de Dezembro de 2004."
+  },
+  "18cf6f0cf8ba3a09": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA partir de 1 de Março de 2003, a quantidade de componentes do NOGE com mais de dois anéis aromáticos e, pelo menos, um grupo epoxi, bem como os seus derivados que contenham funções cloridrina e com massa molecular inferior a 1000 Dalton, não deve ser detectável nos materiais e objectos referidos no n.o 1 do artigo 1.o, com o limite de detecção de 0,2 mg/6 dm2, incluindo a tolerância analítica.\n\nPara efeitos da presente directiva, o limite de detecção mencionado no primeiro parágrafo deve ser determinado por um método de análise validado. Caso tal método não exista, pode ser utilizado um método com características adequadas de desempenho, na pendência do desenvolvimento de um método validado.\n\nA utilização e/ou a presença de NOGE no fabrico desses materiais e objectos só pode continuar até 31 de Dezembro de 2004."
+  },
+  "620f3963c1c2bcca": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs disposições da presente directiva não se aplicam aos materiais e objectos cobertos por revestimentos de superfície e adesivos referidos no n.o 1, segundo parágrafo, alíneas b) e c) do artigo 1.o que sejam postos em contacto com géneros alimentícios antes de 1 de Março de 2003. Tais materiais e objectos podem continuar a ser colocados no mercado desde que a data de enchimento conste dos referidos materiais e objectos, tendo em conta as exigências da Directiva 2000/13/CE."
+  },
+  "b53c6bec27ce0f2d": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nÉ revogada a Directiva 2001/61/CE.\n\nAs remissões para a Directiva 2001/61/CE entendem-se como feitas para a presente directiva e devem ler-se de acordo com o quadro de correlação que figura no anexo III."
+  },
+  "d3586f580f5ab8bc": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-Membros porão em vigor, o mais tardar em 28 de Fevereiro de 2003, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Desse facto informarão imediatamente a Comissão.\n\nAs disposições adoptadas pelos Estados-Membros devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da publicação oficial. O modo da referência incumbe aos Estados-Membros."
+  },
+  "69cc951f62ecb096": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "fd1af2f5d385079c": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 20 de Fevereiro de 2002.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 40 de 11.2.1989, p. 38.\n\n(2) JO L 109 de 6.5.2000, p. 29.\n\n(3) JO L 310 de 28.11.2001, p. 19.\n\n(4) JO L 215 de 9.8.2001, p. 26."
+  },
+  "2dc6c3fafc881f7f": {
+   "fragment_id": "ANEXO I — Limite de migração específica para o BADGE e alguns dos seus derivados",
+   "type": "divisao",
+   "heading": "ANEXO I — Limite de migração específica para o BADGE e alguns dos seus derivados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Limite de migração específica para o BADGE e alguns dos seus derivados\n\n1. A soma dos níveis de migração das seguintes substâncias:\n\na) BADGE [= éter bis-(2,3-epoxipropílico) do 2,2-bis-(4-hidroxifenil)-propano];\n\nb) BADGE.H2O;\n\nc) BADGE.HCl;\n\nd) BADGE.2HCl;\n\ne) BADGE.H2O.HCl;\n\nnão pode exceder os seguintes limites:\n\n- 1 mg/kg em géneros alimentícios ou em simuladores de alimentos (excluindo a tolerância analítica), ou\n\n- 1 mg/6 dm2 de acordo com os casos previstos no artigo 4.o da Directiva 90/128/CEE da Comissão(1).\n\n2. Os ensaios relativos à migração devem ser efectuados segundo as normas estabelecidas pela Directiva 82/711/CEE do Conselho(2), bem como pela Directiva 90/128/CEE. Contudo, em simuladores de alimentos aquosos, este valor deve incluir também o BADGE.2H2O, a menos que se refira no rótulo do material ou objecto que este se destina apenas a utilização em contacto com os alimentos e/ou bebidas para os quais tiver sido demonstrado que a soma dos níveis de migração das cinco substâncias a), b), c), d) e e) enumeradas no ponto 1 supra não pode exceder os limites constantes do mesmo ponto 1.\n\n3. Para efeitos da presente directiva, a migração específica de substâncias a), b), c), d) e e) enumeradas no ponto 1, deve ser determinada através de um método validado de análise. Caso tal método não exista, pode ser utilizado um método analítico com características de desempenho adequadas, enquanto se procede ao desenvolvimento de um método validado.\n\n(1) JO L 75 de 21.3.1990, p. 19.\n\n(2) JO L 297 de 23.10.1982, p. 26."
+  },
+  "59b8f5f2e52e3469": {
+   "fragment_id": "ANEXO II — Limite de migração específica para o BFDGE e alguns dos seus derivados",
+   "type": "divisao",
+   "heading": "ANEXO II — Limite de migração específica para o BFDGE e alguns dos seus derivados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Limite de migração específica para o BFDGE e alguns dos seus derivados\n\n1. A soma dos níveis de migração das seguintes substâncias:\n\na) BFDGE [= éteres bis-(2,3-epoxipropílicos) do bis-(-hidroxifenil)-metano];\n\nb) BFDGE.H2O;\n\nc) BFDGE.HCl;\n\nd) BFDGE.2HCl;\n\ne) BFDGE.H2O.HCl;\n\nadicionada à soma dos níveis das substâncias constantes do anexo I, não pode exceder os seguintes limites:\n\n- 1 mg/kg em géneros alimentícios ou em simuladores de alimentos (excluindo a tolerância analítica), ou\n\n- 1 mg/6 dm2 de acordo com os casos previstos no artigo 4.o da Directiva 90/128/CEE.\n\n2. Os ensaios relativos à migração devem ser efectuados segundo as normas estabelecidas pela Directiva 82/711/CEE, bem como pela Directiva 90/128/CEE. Contudo, em simuladores de alimentos aquosos, este valor deve incluir também o BFDGE.2H2O, a menos que se refira no rótulo do material ou objecto que este se destina apenas a utilização em contacto com os alimentos e/ou bebidas para os quais tiver sido demonstrado que a soma dos níveis de migração das cinco substâncias a), b), c), d) e e) enumeradas no ponto 1 supra, adicionada aos níveis das substâncias enumeradas no anexo I, não pode exceder os limites constantes do mesmo ponto 1.\n\n3. Para efeitos da presente directiva, a migração específica de substâncias a), b), c), d) e e) enumeradas no ponto 1, deve ser determinada através de um método validado de análise. Caso tal método não exista, pode ser utilizado um método analítico com características de desempenho adequadas, enquanto se procede ao desenvolvimento de um método validado."
+  },
+  "7b5811e61ed2cf7f": {
+   "fragment_id": "ANEXO III — Quadro de correlação",
+   "type": "divisao",
+   "heading": "ANEXO III — Quadro de correlação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Quadro de correlação\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "fb1d185547ac9451": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2002L0016 — PT — 01.01.2006 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32002L0016) [DIRECTIVA 2002/16/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/32002L0016) [de 20 de Fevereiro de 2002](http://publications.europa.eu/resource/celex/32002L0016) [relativa à utilização de determinados derivados epoxídicos em materiais e objectos destinados a entrar em contacto com géneros alimentícios](http://publications.europa.eu/resource/celex/32002L0016) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32002L0016) (JO L 051, 22.2.2002, p.27)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1895/2005 da Comissão de 18 de Novembro de 2005](http://publications.europa.eu/resource/celex/32005R1895) — L 302 — 28 — 19.11.2005"
+  }
+ }
+}

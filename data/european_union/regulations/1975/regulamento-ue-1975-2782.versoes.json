@@ -1,0 +1,555 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31975R2782:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01975R2782-20080701",
+ "dre_path": null,
+ "source_lastmod": "2008-07-01",
+ "versions": [
+  {
+   "date": "1975-11-01",
+   "future": false,
+   "celex": "31975R2782",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e2fc736c723f6914",
+    "3e14eeecc6e0aacc",
+    "7113cbc5151953d4",
+    "9f6f51f40ea45eb3",
+    "cf6c071935bf941b",
+    "801b554f69daaf61",
+    "0e4259e1f2c594e6",
+    "fee44a71cbd32853",
+    "74d1ee46ff572989",
+    "1a88bc89f0c8be91",
+    "701dcc40e7842c6f",
+    "5e305dfa048fa649",
+    "1a774395807bf3eb",
+    "47bf1d91269f4f18",
+    "d66b8e11c7b56ad9",
+    "db3d86c08fdc02df",
+    "fa78369b5abadc3d",
+    "59f0bd65e2e23fe5",
+    "fb76fc1f54d9a3f5",
+    "e2ae96d8a4b939c5",
+    "f61265dc03a25d6c"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01975R2782-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:31980R3485:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31980R3485"
+    },
+    {
+     "id": "eu:celex:31985R3791:por",
+     "title": "M2",
+     "published": null,
+     "celex": "31985R3791"
+    },
+    {
+     "id": "eu:celex:31986R3494:por",
+     "title": "Regulamento (CEE) n. o 3494/86 do Conselho de 13 de Novembro de 1986",
+     "published": null,
+     "celex": "31986R3494"
+    },
+    {
+     "id": "eu:celex:31987R3987:por",
+     "title": "Regulamento (CEE) n. o 3987/87 da Comissão de 22 de Dezembro de 1987",
+     "published": null,
+     "celex": "31987R3987"
+    },
+    {
+     "id": "eu:celex:31991R1057:por",
+     "title": "Regulamento (CEE) n. o 1057/91 da Comissão de 26 de Abril de 1991",
+     "published": null,
+     "celex": "31991R1057"
+    },
+    {
+     "id": "eu:celex:31995R2916:por",
+     "title": "Regulamento (CE) n. o 2916/95 da Comissão de 18 de Dezembro de 1995",
+     "published": null,
+     "celex": "31995R2916"
+    },
+    {
+     "id": "eu:celex:32006R1791:por",
+     "title": "REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006R1791"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1º",
+    "Adita Artigo 2º",
+    "Adita Artigo 3º",
+    "Adita Artigo 4º",
+    "Adita Artigo 5º",
+    "Adita Artigo 6º",
+    "Adita Artigo 7º",
+    "Adita Artigo 8º",
+    "Adita Artigo 9º",
+    "Adita Artigo 10º",
+    "Adita Artigo 11º",
+    "Adita Artigo 12º",
+    "Adita Artigo 13º",
+    "Adita Artigo 14º",
+    "Adita Artigo 15º",
+    "Adita Artigo 16º",
+    "Adita Artigo 17º",
+    "Adita Artigo 18º",
+    "Adita Artigo 19º",
+    "Adita Artigo 20º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o"
+   ],
+   "fragments": [
+    "ad2a851ea3708ee6",
+    "3af4e0fadd9a754b",
+    "1daee70c7cf57ea9",
+    "56f81a2344d84bd4",
+    "8c96dbaad7c81758",
+    "8ef44697a6ebbfe0",
+    "32706c7b4a92f151",
+    "79dc2163436f8140",
+    "4b59c741bb91ce2c",
+    "9229a9df392370c9",
+    "669a3d3afc847ea9",
+    "e22929d504145f4f",
+    "09d91a1ffe7cc525",
+    "a88f0b24f56f42f8",
+    "b403df2688642f4e",
+    "836c480a09c5067a",
+    "50fa18e959870f72",
+    "5bbfb421d0c09960",
+    "f2946b2793a023ca",
+    "9a1fb0d6929c2a7b",
+    "03ef555726a43d0c",
+    "afd085037ef7fa65"
+   ]
+  },
+  {
+   "date": "2008-07-01",
+   "future": false,
+   "celex": "01975R2782-20080701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime Artigo 20º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "2e9b6c180ca16c01"
+   ]
+  }
+ ],
+ "fragments": {
+  "e2fc736c723f6914": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2782/75 do Conselho, de 29 de Outubro de 1975, relativo à produção e comercialização de ovos para incubação e de pintos de aves de capoeira** *Jornal Oficial nº L 282 de 01/11/1975 p. 0100 - 0103 Edição especial finlandesa: Capítulo 3 Fascículo 6 p. 0232 Edição especial grega: Capítulo 03 Fascículo 14 p. 0090 Edição especial sueca: Capítulo 3 Fascículo 6 p. 0232 Edição especial espanhola: Capítulo 03 Fascículo 9 p. 0170 Edição especial portuguesa: Capítulo 03 Fascículo 9 p. 0170*\n\nREGULAMENTO (CEE) No 2782/75 DO CONSELHO de 29 de Outubro de 1975 relativo à produção e comercialização de ovos para incubação e de pintos de aves de capoeira\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43o,\n\nTendo em conta o Regulamento (CEE) no 2771/75 do Conselho, de 29 de Outubro de 1975, que estabelece a organização comum de mercado no sector dos ovos (1) e, nomeadamente, o seu artigo 2o,\n\nTendo em conta o Regulamento (CEE) no 2777/75 do Conselho, de 29 de Outubro de 1975 que estabelece a organização comum de mercado no sector da carne de aves de capoeira (2), e nomeadamente o seu artigo 2o,\n\nTendo em conta à proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (3),\n\nConsiderando que, para realizar os objectivos referidos no artigo 39o do tratado no sector da avicultura, os Regulamentos (CEE) no 2771/75 e (CEE) no 2777/75, prevêem medidas para facilitar a adaptação da oferta às exigências do mercado;\n\nConsiderando que fazem principalmente parte destas medidas, as que devem facilitar o estabelecimento de previsões a curto e a longo prazo baseadas no conhecimento dos meios de produção utilizados, e também as normas de comercialização que podem incidir principalmente sobre a embalagem, o transporte e a marcação;\n\nConsiderando que um conhecimento exacto do número de ovos em efectiva incubação e do número de pintos do dia, diferenciados segundo a espécie, a categoria e o tipo de ave, permite prever a evolução do mercado de produtos avícolas; que, além disso, convém, para o efeito, prever a possibilidade de recolher, se necessário, os elementos estatísticos relativos ao efectivo de aves de selecção e de multiplicação;\n\nConsiderando que, a fim de prever a evolução do mercado com a maior exactidão possível e nos melhores prazos, convém colher, com intervalos regulares, os dados relativos aos ovos em incubação e aos pintos do dia nascidos e comercializados;\n\nConsiderando ainda que é necessário identificar os ovos para incubação, produzidos na Comunidade, para permitir distingui-los dos ovos sujeitos ao Regulamento (CEE) no 2772/75 do Conselho, de 29 de Outubro de 1975, tendo em conta certas normas de comercialização aplicáveis aos ovos (4); que para o efeito, esta identificação deve efectuar-se na Comunidade pela marcação individual dos ovos para incubação, mas que convém no entanto prever que, nos Estados-membros que a autorizam, esta identificação possa ser realizada de acordo com disposições específicas de embalagem; que esta última possibilidade não deve no entanto conduzir a que os ovos retirados da incubadora possam ser comercializados sem sinal distintivo particular;\n\nConsiderando que os preços limite e os direitos niveladores são diferentes para os ovos de incubação e para os outros ovos; que interessa tornar possível, por uma marcação dos ovos para incubação, uma nítida distinção entre estes produtos;\n\nConsiderando que o mesmo se passa relativamente às exportações, nomeadamente por causa da possibilidade de concessão de restituições; que é preciso, no entanto, ter em conta, tanto quanto possível, as disposições existentes em matéria de identificação nos países terceiros para evitar prejudicar o comércio com estes países;\n\nConsiderando que um número distintivo, atribuído a cada estabelecimento e colocado sobre os ovos para incubação ou sobre as embalagens dos ovos para incubação ou dos pintos, pode facilitar a comercialização destes produtos e o controlo da observância das disposições do regulamento;\n\nConsiderando que, tanto para o comércio como para o controlo, é aconselhável assinalar, nas guias de mercadoria, indicações relativas principalmente à natureza dos lotes de ovos para incubação ou de pintos e à sua origem; que, para este efeito, algumas dessas indicações devem figurar nas embalagens;\n\nConsiderando que se deve garantir aos estabelecimentos em questão o anonimato e o segredo estatístico relativamente às indicações individuais que lhe dizem respeito;\n\nConsiderando que convém isentar da obrigação de respeitar o presente regulamento, os estabelecimentos que, devido à sua pouca importância comercial, não têm influência apreciável nem nos resultados estatísticos globais nem na evolução do mercado,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3e14eeecc6e0aacc": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nNa acepção do presente regulamento entende-se por:\n\n1. Ovos para incubação: os ovos de aves de capoeira da posição 04.05 A I a) da pauta aduaneira comum destinados à produção de pintos diferenciados segundo a espécie, a categoria e o tipo e identificados nos termos do presente regulamento.\n\n2. Pintos: as aves de capoeira vivas cujo peso não exceda os 185 gramas da posição 01.05 A da pauta aduaneira comum, das categorias seguintes:\n\na) pintos de produção: os pintos de um dos seguintes tipos:\n\ni) pintos de carne: os pintos destinados a serem engordados e abatidos antes da maturidade sexual;\n\nii) pintos de ovos: os pintos destinados a serem criados para a produção de ovos para consumo;\n\niii) pintos de uso misto: os pintos destinados quer à produção de ovos, quer à produção de carne;\n\nb) pintos de multiplicação: os pintos destinados à produção de pintos de produção;\n\nc) pintos de reprodução: os pintos destinados à produção de pintos de multiplicação;\n\n3. Estabelecimento: estabelecimento ou parte de um estabelecimento de um dos seguintes sectores de actividade:\n\na) Estabelecimento de selecção: estabelecimento cuja actividade consiste na produção de ovos para incubação destinados à produção de pintos de reprodução, de multiplicação ou de produção;\n\nb) Estabelecimento de multiplicação: estabelecimento cuja actividade consiste na produção de ovos para incubação destinados à produção de pintos de produção;\n\nc) Incubadora: estabelecimento cuja actividade consiste em pôr em incubação, na incubação dos ovos de incubação e fornecimento dos «pintos do dia».\n\n4. Capacidade: o número máximo de ovos para incubação que podem ser colocados simultaneamente nas incubadoras com exclusão das eclosoras."
+  },
+  "7113cbc5151953d4": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. A comercialização e transporte de ovos para incubação e de pintos, bem como a colocação em incubação de ovos, não são admitidos no território da Comunidade com fins profissionais ou comerciais sem que as condições do presente regulamento sejam respeitadas.\n\n2. No entanto, os estabelecimentos de selecção e os estabelecimentos de multiplicação com menos de 100 aves de capoeira, bem como as incubadoras com capacidade inferior a 1 000 ovos para incubação não são obrigados a respeitar o presente regulamento."
+  },
+  "9f6f51f40ea45eb3": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nCada estabelecimento é registado, a seu pedido, no organismo competente designado pelo Estado-membro e recebe um número distintivo.\n\nO número distintivo pode ser retirado aos estabelecimentos que não satisfaçam as disposições deste regulamento."
+  },
+  "cf6c071935bf941b": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nO mais tardar três meses após a entrada em vigor deste regulamento, cada Estado-membro envia aos outros Estados-membros e à Comissão a lista dos estabelecimentos situados no seu território, mencionando o número distintivo, a denominação e o endereço de cada estabelecimento. Qualquer modificação a esta lista deve ser comunicada aos Estados-membros e à Comissão no início de cada trimestre."
+  },
+  "801b554f69daaf61": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os ovos para incubação são marcados individualmente. Esta identificação é efectuada pelos estabelecimentos de produção que imprimirão o seu número distintivo nos ovos para incubação.\n\n2. Todavia, os Estados-membros podem autorizar a identificação dos ovos para incubação por meio de uma fita colocada na embalagem de modo a ser inutilizada com a abertura; esta fita inclui pelo menos a indicação da espécie de ave de que provêm os ovos e o número distintivo de estabelecimento de produção.\n\nO Estado-membro que recorrer a esta faculdade informará os outros Estados membros e a Comissão, comunicando-lhes as disposições tomadas para tal efeito.\n\nOs ovos para incubação assim identificados não podem ser transportados, comercializados ou postos em incubação senão nos Estados-membros que recorrem à referida faculdade.\n\n3. Os ovos para incubação são transportados em embalagens de asseio irrepreensível, que conterão exclusivamente ovos para incubação de uma mesma espécie, de uma mesma categoria e de um mesmo tipo de aves, provenientes de um único estabelecimento e incluindo pelo menos a indicação «Bruteier», «oeufs à couver», «ouva da cova», «broedeieren», «eggs for hatching» ou «rugeaeg».\n\n4. Para estarem de acordo com as disposições em vigor em certos países terceiros importadores, os ovos para incubação destinados à exportação e as suas embalagens podem incluir outras indicações para além das previstas pelo presente regulamento, desde que não haja risco de serem confundidas com estas últimas, nem com as previstas pelo Regulamento (CEE) no 2772/75 e seus regulamentos de aplicação."
+  },
+  "0e4259e1f2c594e6": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs ovos para incubação provenientes de países terceiros só podem ser importados se tiverem em letras de pelo menos 3 mm de altura, o nome do país de origem e a indicação impressa «Brutei», «à couver», «cova», «broedei», «Hatching» ou «rugeaeg». As embalagens devem conter exclusivamente ovos para incubação da mesma espécie, da mesma categoria e do mesmo tipo de aves, do mesmo país de origem e do mesmo expedidor e incluir pelo menos as seguintes indicações:\n\na) As indicações impressas nos ovos;\n\nb) A espécie de ave de que provêm os ovos;\n\nc) O nome ou designação da firma e a morada do expedidor."
+  },
+  "fee44a71cbd32853": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nCada incubadora tem um ou mais registos onde são inscritos, por espécie, por categoria (selecção, reprodução ou utilização) e por tipo (carne, ovos ou utilização mista).\n\na) A data de início da incubação e o número de ovos postos em incubação, o número distintivo do estabelecimento onde os ovos para incubação foram produzidos e o número de ovos incubados não marcados, retirados da incubadora;\n\nb) A data da abertura dos ovos e o número de pintos nascidos, bem como o número de pintos destinados a serem efectivamente utilizados."
+  },
+  "74d1ee46ff572989": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs ovos para incubação não marcados antes de serem postos em incubação e retirados da incubadora são destruídos ou, se forem comercializados como ovos industriais na acepção do ponto 2 do artigo 1o do Regulamento (CEE) no 2772/75, devem ser marcados com um sinal distintivo a definir."
+  },
+  "1a88bc89f0c8be91": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Cada unidade de incubação comunicará mensalmente ao organismo competente do Estado-membro, por espécie, por categoria e por tipo, o número de ovos postos em incubação, o número de pintos nascidos e o número de pintos destinados a serem efectivamente utilizados.\n\n2. Se necessário, serão pedidos dados estatísticos relativos aos efectivos de aves de selecção e de multiplicação a estabelecimentos que não sejam os referidos no no 1 segundo regras e nas condições adoptadas de acordo com o processo previsto no artigo 17o do Regulamento (CEE) no 2777/75."
+  },
+  "701dcc40e7842c6f": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. Os Estados-membros comunicam todos os meses à Comissão, a recepção e contagem dos dados referidos no artigo 9o, num mapa recapitulativo feito com base nos dados do mês precedente.\n\nO mapa recapitulativo apresentado pelo Estado-membro indica ainda o número de pintos importados e exportados durante o mesmo mês, segundo a espécie, a categoria e o tipo de ave.\n\n2. A Comissão recolhe os elementos dos mapas recapitulativos e procede à sua análise, informando desse facto os Estados-membros."
+  },
+  "5e305dfa048fa649": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. Os pintos são embalados por espécies, tipos e categorias de aves.\n\n2. As caixas contêm exclusivamente pintos duma mesma unidade de incubação e têm pelo menos a indicação do número distintivo da unidade de incubação."
+  },
+  "1a774395807bf3eb": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nOs pintos provenientes de países terceiros só podem ser importados desde que estejam distribuidos de acordo com o no 1 do artigo 11o. As caixas devem conter exclusivamente pintos do mesmo país de origem e do mesmo expedidor e incluirem pelo menos as seguintes indicações:\n\na) O nome do país de origem;\n\nb) A espécie de aves a que pertencem os pintos;\n\nc) O nome ou designação da firma e a morada do expedidor."
+  },
+  "47bf1d91269f4f18": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. Será preenchida uma guia para cada lote de ovos para incubação ou de pintos expedidos, incluindo pelo menos as seguintes indicações:\n\na) O nome ou designação da firma e a morada do estabelecimento e o seu número distintivo;\n\nb) O número de ovos para incubação ou de pintos segundo a espécie, a categoria e o tipo de ave;\n\nc) A data da expedição;\n\nd) O nome e a morada do destinatário.\n\n2. Relativamente aos lotes de ovos para incubação e de pintos importados de países terceiros, o número distintivo do estabelecimento deve ser substituído pelo nome do país de origem."
+  },
+  "d66b8e11c7b56ad9": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nAs indicações previstas pelo presente regulamento devem ser inscritas de maneira bem legível.\n\nEstas indicações assim como os documentos anexos devem ser redigidas em pelo menos uma língua da Comunidade."
+  },
+  "db3d86c08fdc02df": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nPara estarem conformes com as disposições em vigor em certos países terceiros importadores, as embalagens destinadas à exportação podem incluir indicações diferentes das previstas no presente regulamento, desde que não haja o risco de serem confundidas com estas últimas."
+  },
+  "fa78369b5abadc3d": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nO controlo de observância das disposições do presente regulamento será efectuado pelos organismos designados por cada Estado-membro. A lista destes organismos é comunicada aos outros Estados-membros e à Comissão o mais tardar um mês antes da data de entrada em vigor do presente regulamento. Todas as alterações da referida lista serão comunicadas aos outros Estados-membros e à Comissão."
+  },
+  "59f0bd65e2e23fe5": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nAs modalidades de aplicação do presente regulamento são adoptadas de acordo com o procedimento previsto no artigo 17o do Regulamento (CEE) no 2771/75 ou no artigo 17o do Regulamento (CEE) no 2777/75 conforme o caso."
+  },
+  "fb76fc1f54d9a3f5": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\n1. Os Estados-membros tomam todas as medidas adequadas com o fim de assegurar o anonimato e o carácter confidencial das informações fornecidas pela aplicação do artigo 9o.\n\n2. Os dados constantes dos registos só podem ser utilizados pelas instâncias encarregadas da aplicação do presente regulamento."
+  },
+  "e2ae96d8a4b939c5": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\n1. É revogado o Regulamento (CEE) no 1349/72 do Conselho, de 27 de Junho de 1972, respeitante à produção e à comercialização dos ovos para incubação e dos pintos de aves de capoeira (5), alterado pelo regulamento (CEE) no 225/73 (6).\n\n2. As referências ao regulamento revogado por força do no 1 devem ser entendidas como feitas ao presente regulamento."
+  },
+  "f61265dc03a25d6c": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\nO presente regulamento entra em vigor, em 1 de Novembro de 1975.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo em 29 de Outubro de 1975.\n\nPelo Conselho\n\nO Presidente\n\nG. MARCORA\n\n(1) JO no L 282 de 1. 11. 1975, p. 49.(2) JO no L 282 de 1. 11. 1975, p. 77.(3) JO no C 128 de 9. 6. 1975, p. 39.(4) JO no L 282 de 1. 11. 1975, p. 56.(5) JO no L 148 de 30. 6. 1972, p. 7.(6) JO no L 27 de 1. 2. 1973, p. 16."
+  },
+  "ad2a851ea3708ee6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Outubro de 1975\n\nrelativo à produção e comercialização de ovos para incubação e de pintos de aves de capoeira\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43°,\n\nTendo em conta o Regulamento (CEE) nº 2771/75 do Conselho, de 29 de Outubro de 1975, que estabelece a organização comum de mercado no sector dos ovos ([^1^](http://publications.europa.eu/resource/cellar/a8b90421-3b11-44d9-872a-de2ca5d9473d.0017.03/DOC_1#E0001)) e, nomeadamente, o seu artigo 2°,\n\nTendo em conta o Regulamento (CEE) nº 2777/75 do Conselho, de 29 de Outubro de 1975 que estabelece a organização comum de mercado no sector da carne de aves de capoeira ([^2^](http://publications.europa.eu/resource/cellar/a8b90421-3b11-44d9-872a-de2ca5d9473d.0017.03/DOC_1#E0002)), e nomeadamente o seu artigo 2°,\n\nTendo em conta à proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^3^](http://publications.europa.eu/resource/cellar/a8b90421-3b11-44d9-872a-de2ca5d9473d.0017.03/DOC_1#E0003)),\n\nConsiderando que, para realizar os objectivos referidos no artigo 39º do tratado no sector da avicultura, os Regulamentos (CEE) nº 2771/75 e (CEE) nº 2777/75, prevêem medidas para facilitar a adaptação da oferta às exigências do mercado;\n\nConsiderando que fazem principalmente parte destas medidas, as que devem facilitar o estabelecimento de previsões a curto e a longo prazo baseadas no conhecimento dos meios de produção utilizados, e também as normas de comercialização que podem incidir principalmente sobre a embalagem, o transporte e a marcação;\n\nConsiderando que um conhecimento exacto do número de ovos em efectiva incubação e do número de pintos do dia, diferenciados segundo a espécie, a categoria e o tipo de ave, permite prever a evolução do mercado de produtos avícolas; que, além disso, convém, para o efeito, prever a possibilidade de recolher, se necessário, os elementos estatísticos relativos ao efectivo de aves de selecção e de multiplicação;\n\nConsiderando que, a fim de prever a evolução do mercado com a maior exactidão possível e nos melhores prazos, convém colher, com intervalos regulares, os dados relativos aos ovos em incubação e aos pintos do dia nascidos e comercializados;\n\nConsiderando ainda que é necessário identificar os ovos para incubação, produzidos na Comunidade, para permitir distingui-los dos ovos sujeitos ao Regulamento (CEE) nº 2772/75 do Conselho, de 29 de Outubro de 1975, tendo em conta certas normas de comercialização aplicáveis aos ovos ([^4^](http://publications.europa.eu/resource/cellar/a8b90421-3b11-44d9-872a-de2ca5d9473d.0017.03/DOC_1#E0004)); que para o efeito, esta identificação deve efectuar-se na Comunidade pela marcação individual dos ovos para incubação, mas que convém no entanto prever que, nos Estados-membros que a autorizam, esta identificação possa ser realizada de acordo com disposições específicas de embalagem; que esta última possibilidade não deve no entanto conduzir a que os ovos retirados da incubadora possam ser comercializados sem sinal distintivo particular;\n\nConsiderando que os preços limite e os direitos niveladores são diferentes para os ovos de incubação e para os outros ovos; que interessa tornar possível, por uma marcação dos ovos para incubação, uma nítida distinção entre estes produtos;\n\nConsiderando que o mesmo se passa relativamente às exportações, nomeadamente por causa da possibilidade de concessão de restituições; que é preciso, no entanto, ter em conta, tanto quanto possível, as disposições existentes em matéria de identificação nos países terceiros para evitar prejudicar o comércio com estes países;\n\nConsiderando que um número distintivo, atribuído a cada estabelecimento e colocado sobre os ovos para incubação ou sobre as embalagens dos ovos para incubação ou dos pintos, pode facilitar a comercialização destes produtos e o controlo da observância das disposições do regulamento;\n\nConsiderando que, tanto para o comércio como para o controlo, é aconselhável assinalar, nas guias de mercadoria, indicações relativas principalmente à natureza dos lotes de ovos para incubação ou de pintos e à sua origem; que, para este efeito, algumas dessas indicações devem figurar nas embalagens;\n\nConsiderando que se deve garantir aos estabelecimentos em questão o anonimato e o segredo estatístico relativamente às indicações individuais que lhe dizem respeito;\n\nConsiderando que convém isentar da obrigação de respeitar o presente regulamento, os estabelecimentos que, devido à sua pouca importância comercial, não têm influência apreciável nem nos resultados estatísticos globais nem na evolução do mercado,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3af4e0fadd9a754b": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nNa acepção do presente regulamento entende-se por:\n\n1. Ovos para incubação: os ovos de aves de capoeira das subposições 0407 00 11 e 0407 00 19 da Nomenclatura Combinada destinados à produção de pintos diferenciados segundo a espécie, a categoria e o tipo, e identificados nos termos do presente regulamento.\n\n2. Pintos: as aves de capoeira vivas cujo peso não exceda os 185 gramas das subposições 0105 11, [**►M6**](http://publications.europa.eu/resource/celex/31995R2916) 0105 12**◄** e 0105 19 da Nomenclatura Combinada das categorias seguintes:\n\na) pintos de produção: os pintos de um dos seguintes tipos:\n\ni) pintos de carne: os pintos destinados a serem engordados e abatidos antes da maturidade sexual;\n\nii) pintos de ovos: os pintos destinados a serem criados para a produção de ovos para consumo;\n\niii) pintos de uso misto: os pintos destinados quer à produção de ovos, quer à produção de carne;\n\nb) pintos de multiplicação: os pintos destinados à produção de pintos de produção;\n\nc) pintos de reprodução: os pintos destinados à produção de pintos de multiplicação;\n\n3. Estabelecimento: estabelecimento ou parte de um estabelecimento de um dos seguintes sectores de actividade:\n\na) Estabelecimento de selecção: estabelecimento cuja actividade consiste na produção de ovos para incubação destinados à produção de pintos de reprodução, de multiplicação ou de produção;\n\nb) Estabelecimento de multiplicação: estabelecimento cuja actividade consiste na produção de ovos para incubação destinados à produção de pintos de produção;\n\nc) Incubadora: estabelecimento cuja actividade consiste em pôr em incubação, na incubação dos ovos de incubação e fornecimento dos «pintos do dia».\n\n4. Capacidade: o número máximo de ovos para incubação que podem ser colocados simultaneamente nas incubadoras com exclusão das eclosoras."
+  },
+  "1daee70c7cf57ea9": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. A comercialização e transporte de ovos para incubação e de pintos, bem como a colocação em incubação de ovos, não são admitidos no território da Comunidade com fins profissionais ou comerciais sem que as condições do presente regulamento sejam respeitadas.\n\n2. No entanto, os estabelecimentos de selecção e os estabelecimentos de multiplicação com menos de 100 aves de capoeira, bem como as incubadoras com capacidade inferior a 1 000 ovos para incubação não são obrigados a respeitar o presente regulamento."
+  },
+  "56f81a2344d84bd4": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nCada estabelecimento é registado, a seu pedido, no organismo competente designado pelo Estado-membro e recebe um número distintivo.\n\nO número distintivo pode ser retirado aos estabelecimentos que não satisfaçam as disposições deste regulamento."
+  },
+  "8c96dbaad7c81758": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nO mais tardar três meses após a entrada em vigor deste regulamento, cada Estado-membro envia aos outros Estados-membros e à Comissão a lista dos estabelecimentos situados no seu território, mencionando o número distintivo, a denominação e o endereço de cada estabelecimento. Qualquer modificação a esta lista deve ser comunicada aos Estados-membros e à Comissão no início de cada trimestre."
+  },
+  "8ef44697a6ebbfe0": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Os ovos para incubação utilizados para a protecção de pintos são marcados individualmente.\n\n2. Os ovos para incubação serão transportados em embalagens irrepreensivelmente limpas, que contenham exclusivamente ovos para incubação da mesma espécie, da mesma categoria e do mesmo tipo de aves de capoeira, provenientes de um único estabelecimento, e nas quais figure pelo menos a menção «œufs à couver», «broedeieren», «rugeæg», «Bruteier», «αυγά προς εκκόλαψιν», «huevos para incubar», «eggs for hatching», «uova da cova», «ovos para incubação», «munia haudottavasksi»,«kläckägg»[**►A2**](http://publications.europa.eu/resource/celex/12003T), «*násadová vejce*», «*haudemunad*», «*inkubējamas olas*», «*kiaušiniai perinimui*», «*keltetőtojás*», «*bajd tat-tifqis*», «*jaja wylęgowe*», «*valilna jajca*» ou «*násadové vajcia*»**◄**,[**►M7**](http://publications.europa.eu/resource/celex/32006R1791) «яйца за люпене», «ouă puse la incubat».**◄**\n\n[**►M3**](http://publications.europa.eu/resource/celex/31986R3494) 3.**◄** Para estarem de acordo com as disposições em vigor em certos países terceiros importadores, os ovos para incubação destinados à exportação e as suas embalagens podem incluir outras indicações para além das previstas pelo presente regulamento, desde que não haja risco de serem confundidas com estas últimas, nem com as previstas pelo Regulamento (CEE) nº 2772/75 e seus regulamentos de aplicação."
+  },
+  "32706c7b4a92f151": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs ovos para incubação provenientes de países terceiros, só podem ser importados se neles figurar, em caracteres de pelo menos 3 milímetros de altura, o nome do país de origem e a menção impressa «à couver», «broedei», «rugeæg», «Brutei», «προς εκκόλαψιν», «para incubar», «hatching», «cova», «para incubação», «haudottavaksi», «för kläckning»[**►A2**](http://publications.europa.eu/resource/celex/12003T), «*líhnutí*», «*haue*», «*inkubācija*», «*perinimas*», «*keltetésre*», «*tifqis*», «*do wylęgu*», «*valjenje*», «*liahnutie*»**◄**,[**►M7**](http://publications.europa.eu/resource/celex/32006R1791) «за люпене», «incubare».**◄**.As suas embalagens devem conter exclusivamente ovos para incubação da mesma espécie, da mesma categoria e do mesmo tipo de aves, do mesmo país de origem e do mesmo expedidor e devem mencionar pelo menos o seguinte:\n\na) As indicações que figuram nos ovos;\n\nb) A espécie de ave de que provêm os ovos;\n\nc) O nome ou a firma e o endereço do expedidor."
+  },
+  "79dc2163436f8140": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nCada unidade de incubação terá um ou mais registos onde são inscritos, por espécie, por categoria (selecção, reprodução ou utilização) e por tipo (carne, ovos ou utilização mista):\n\na) A data de início da incubação, o número de ovos postos em incubação e o número distintivo do estabelecimento onde os ovos para incubação foram produzidos;\n\nb) A data de abertura dos ovos e o número de pintos nascidos destinados a serem efectivamente utilizados;\n\nc) O número de ovos incubados retirados da incubadora e a identidade do comprador."
+  },
+  "4b59c741bb91ce2c": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nOs ovos incubados retirados da incubadora devem ser utilizados para outros fins que não os do consumo humano. Podem ser utilizados como ovos industriais na acepção do ponto 2 do artigo 1º do Regulamento (CEE) nº 2772/75."
+  },
+  "9229a9df392370c9": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Cada unidade de incubação comunicará mensalmente ao organismo competente do Estado-membro, por espécie, por categoria e por tipo, o número de ovos postos em incubação e o número de pintos nascidos destinados a serem efectivamente utilizados.\n\n2. Se necessário, serão pedidos dados estatísticos relativos aos efectivos de aves de selecção e de multiplicação a estabelecimentos que não sejam os referidos no nº 1 segundo regras e nas condições adoptadas de acordo com o processo previsto no artigo 17º do Regulamento (CEE) nº 2777/75."
+  },
+  "669a3d3afc847ea9": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Os Estados-membros comunicam todos os meses à Comissão, a recepção e contagem dos dados referidos no artigo 9º, num mapa recapitulativo feito com base nos dados do mês precedente. [**►M5**](http://publications.europa.eu/resource/celex/31991R1057) A Alemanha fica autorizada a só recolher os dados mensais referentes aos centros de incubação situados no território da antiga República Democrática Alemã a partir do dia 1 de Janeiro de 1991 e a só comunicar os dados relativos a estes centros de incubação situados, para o ano de 1991, o mais tardar, quatro meses após o mês de referência.**◄**\n\nO mapa recapitulativo apresentado pelo Estado-membro indica ainda o número de pintos importados e exportados durante o mesmo mês, segundo a espécie, a categoria e o tipo de ave.\n\n2. A Comissão recolhe os elementos dos mapas recapitulativos e procede à sua análise, informando desse facto os Estados-membros."
+  },
+  "e22929d504145f4f": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. Os pintos são embalados por espécies, tipos e categorias de aves.\n\n2. As caixas contêm exclusivamente pintos duma mesma unidade de incubação e têm pelo menos a indicação do número distintivo da unidade de incubação."
+  },
+  "09d91a1ffe7cc525": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nOs pintos provenientes de países terceiros só podem ser importados desde que estejam distribuidos de acordo com o nº 1 do artigo 11º. As caixas devem conter exclusivamente pintos do mesmo país de origem e do mesmo expedidor e incluirem pelo menos as seguintes indicações:\n\na) O nome do país de origem;\n\nb) A espécie de aves a que pertencem os pintos;\n\nc) O nome ou designação da firma e a morada do expedidor."
+  },
+  "a88f0b24f56f42f8": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. Será preenchida uma guia para cada lote de ovos para incubação ou de pintos expedidos, incluindo pelo menos as seguintes indicações:\n\na) O nome ou designação da firma e a morada do estabelecimento e o seu número distintivo;\n\nb) O número de ovos para incubação ou de pintos segundo a espécie, a categoria e o tipo de ave;\n\nc) A data da expedição;\n\nd) O nome e a morada do destinatário.\n\n2. Relativamente aos lotes de ovos para incubação e de pintos importados de países terceiros, o número distintivo do estabelecimento deve ser substituído pelo nome do país de origem."
+  },
+  "b403df2688642f4e": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nAs indicações previstas pelo presente regulamento devem ser inscritas de maneira bem legível.\n\nEstas indicações assim como os documentos anexos devem ser redigidas em pelo menos uma língua da Comunidade."
+  },
+  "836c480a09c5067a": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nPara estarem conformes com as disposições em vigor em certos países terceiros importadores, as embalagens destinadas à exportação podem incluir indicações diferentes das previstas no presente regulamento, desde que não haja o risco de serem confundidas com estas últimas."
+  },
+  "50fa18e959870f72": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nO controlo de observância das disposições do presente regulamento será efectuado pelos organismos designados por cada Estado-membro. A lista destes organismos é comunicada aos outros Estados-membros e à Comissão o mais tardar um mês antes da data de entrada em vigor do presente regulamento. Todas as alterações da referida lista serão comunicadas aos outros Estados-membros e à Comissão."
+  },
+  "5bbfb421d0c09960": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nAs modalidades de aplicação do presente regulamento são adoptadas de acordo com o procedimento previsto no artigo 17º do Regulamento (CEE) nº 2771/75 ou no artigo 17º do Regulamento (CEE) nº 2777/75 conforme o caso."
+  },
+  "f2946b2793a023ca": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\n1. Os Estados-membros tomam todas as medidas adequadas com o fim de assegurar o anonimato e o carácter confidencial das informações fornecidas pela aplicação do artigo 9º.\n\n2. Os dados constantes dos registos só podem ser utilizados pelas instâncias encarregadas da aplicação do presente regulamento."
+  },
+  "9a1fb0d6929c2a7b": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\n1. É revogado o Regulamento (CEE) nº 1349/72 do Conselho, de 27 de Junho de 1972, respeitante à produção e à comercialização dos ovos para incubação e dos pintos de aves de capoeira ([^5^](http://publications.europa.eu/resource/cellar/a8b90421-3b11-44d9-872a-de2ca5d9473d.0017.03/DOC_1#E0005)), alterado pelo regulamento (CEE) nº 225/73 ([^6^](http://publications.europa.eu/resource/cellar/a8b90421-3b11-44d9-872a-de2ca5d9473d.0017.03/DOC_1#E0006)).\n\n2. As referências ao regulamento revogado por força do nº 1 devem ser entendidas como feitas ao presente regulamento."
+  },
+  "03ef555726a43d0c": {
+   "fragment_id": "Artigo 20º",
+   "type": "artigo",
+   "heading": "Artigo 20º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º\n\nO presente regulamento entra em vigor, em 1 de Novembro de 1975.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n---"
+  },
+  "afd085037ef7fa65": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a8b90421-3b11-44d9-872a-de2ca5d9473d.0017.03/DOC_1#src.E0001)) JO nº L 282 de 1. 11. 1975, p. 49.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/a8b90421-3b11-44d9-872a-de2ca5d9473d.0017.03/DOC_1#src.E0002)) JO nº L 282 de 1. 11. 1975, p. 77.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/a8b90421-3b11-44d9-872a-de2ca5d9473d.0017.03/DOC_1#src.E0003)) JO nº C 128 de 9. 6. 1975, p. 39.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/a8b90421-3b11-44d9-872a-de2ca5d9473d.0017.03/DOC_1#src.E0004)) JO nº L 282 de 1. 11. 1975, p. 56.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/a8b90421-3b11-44d9-872a-de2ca5d9473d.0017.03/DOC_1#src.E0005)) JO nº L 148 de 30. 6. 1972, p. 7.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/a8b90421-3b11-44d9-872a-de2ca5d9473d.0017.03/DOC_1#src.E0006)) JO nº L 27 de 1. 2. 1973, p. 16."
+  },
+  "2e9b6c180ca16c01": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1975R2782 — PT — 01.07.2008 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31975R2782) [REGULAMENTO (CEE) Nº 2782/75 DO CONSELHO](http://publications.europa.eu/resource/celex/31975R2782) [de 29 de Outubro de 1975](http://publications.europa.eu/resource/celex/31975R2782) [relativo à produção e comercialização de ovos para incubação e de pintos de aves de capoeira](http://publications.europa.eu/resource/celex/31975R2782) (JO L 282, 1.11.1975, p.100)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1234/2007 Do Conselho de 22 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1234) — L 299 — 1 — 16.11.2007"
+  }
+ }
+}

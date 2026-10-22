@@ -36,6 +36,40 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '1998-11-01'
+version_history:
+  file: diretiva-ue-1998-82.versoes.json
+  count: 2
+  source_lastmod: '1998-11-01'
+  versions:
+  - date: '1998-10-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-11-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita ANEXO A
+    - Adita ANEXO B
+    - Adita ANEXO C
+    - Adita ANEXO D
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime ANEXO A — >POSIÇÃO NUMA TABELA>
+    - Suprime ANEXO B — >POSIÇÃO NUMA TABELA>
+    - Suprime ANEXO C — >POSIÇÃO NUMA TABELA>
+    - Suprime ANEXO D — >POSIÇÃO NUMA TABELA>
 identifiers:
   celex: 31998L0082
   eli: http://data.europa.eu/eli/dir/1998/82/oj
@@ -50,7 +84,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ced6b68b-4239-4968-a6a2-4c6a45429c04.0011
   content_url: http://publications.europa.eu/resource/cellar/e3392e29-4af0-4dbd-b412-195506b0a28d.0009.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0082-19981101
-  retrieved_at: '2026-10-22T02:56:34Z'
+  retrieved_at: '2026-10-22T14:47:07Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T07:09:10.964+01:00'
 integrity:
@@ -59,9 +93,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:34Z'
-  notes: Texto consolidado 01998L0082-19981101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:07Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1998-82.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -140,15 +174,14 @@ relationships:
 article_structure:
   article_count: 6
   section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:34Z'
-  warnings:
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:47:07Z'
+  warnings: []
   errors: []
 ---
 

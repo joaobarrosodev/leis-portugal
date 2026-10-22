@@ -1,0 +1,169 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31977L0504:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977L0504-20100102",
+ "dre_path": null,
+ "source_lastmod": "2010-01-02",
+ "versions": [
+  {
+   "date": "2008-09-03",
+   "future": false,
+   "celex": "01977L0504-20080903",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3432dcbfc596fc8a",
+    "9ab36be2264f1623",
+    "5119b804dcce5ef3",
+    "e9cb67e40cd2e293",
+    "e3b7308a2bcb2eeb",
+    "3c8c254e87692a49",
+    "2d3dac72fd77305d",
+    "b9ab9879fb4ad597",
+    "6855e57674dfbdfa",
+    "e13627169927707b",
+    "c035288f3a971186",
+    "22271c89e70db9d0",
+    "f3d368088c29755e"
+   ]
+  },
+  {
+   "date": "2010-01-02",
+   "future": false,
+   "celex": "01977L0504-20100102",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 4.º-A",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "8468cde578489f18"
+   ]
+  }
+ ],
+ "fragments": {
+  "3432dcbfc596fc8a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Julho de 1977\n\nque diz respeito aos animais da espécie bovina reprodutores de raça pura\n\n(77/504/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 43.º e 100.º\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/db34e88f-484f-4ccc-ac13-eee6765099e2.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico Social ([^2^](http://publications.europa.eu/resource/cellar/db34e88f-484f-4ccc-ac13-eee6765099e2.0018.03/DOC_1#E0002)),\n\nConsiderando que a produção de animais da espécie bovina ocupa um lugar muito importante na agricultura da Comunidade e que os resultados satisfatórios nesse domínio dependerão em larga medida da utilização de animais reprodutores de raça pura;\n\nConsiderando que, no âmbito da sua política nacional de criação, os Estados-membros se têm esforçado até aqui por incentivar a produção de animais pertencentes a um número limitado de raças e correspondendo a normas zootécnicas bem determinadas; que as raças e as normas variam de um Estado-membro para outro; que a existência de tais disparidades constitui um entrave às trocas intracomunitárias;\n\nConsiderando que, para se eliminarem essas disparidades e contribuir assim para o crescimento da produtividade da agricultura no sector considerado, convém liberalizar progressivamente as trocas intracomunitárias de todos os reprodutores de raça pura; que a liberalização total das trocas pressupõe uma harmonização complementar posterior, nomeadamente no que diz respeito à admissão à reprodução;\n\nConsiderando que os Estados-membros deverão ter a possibilidade de exigir a apresentação de certificados geneológicos estabelecidos de acordo com um procedimento comunitário;\n\nConsiderando que convém adoptar regras de aplicação em certos domínios de carácter técnico; que, para a execução das medidas referidas, há motivos para se prever um processo que estabeleça uma cooperação estreita entre os Estados-membros e a Commissão no âmbito do Comité Zootécnico Permanente; que, enquanto se aguardam essa regras de aplicação, as disposições que estão actualmente em vigor nos domínios considerados devem permanecer inalteradas;\n\nConsiderando que é oportuno prever que as importações de bovinos reprodutores de raça pura provenientes de países terceiros não possam efectuar-se sob condições menos exigentes do que as aplicadas no âmbito da Comunidade,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "9ab36be2264f1623": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNos termos da presente directiva, entende-se por:\n\na) Bovino reprodutor de raça pura, qualquer animal da espécie bovina[**►M4**](http://publications.europa.eu/resource/celex/31991L0174) incluindo os búfalos**◄** cujos pais e avós estejam inscritos ou registados num livro geneológico da mesma raça e que ele próprio aí esteja inscrito ou registado e susceptível de aí ser inscrito;\n\nb) Livro geneológico: qualquer livro, registo, ficheiro ou appoio informático\n\n— mantido, quer por uma organização ou associação de criadores reconhecida oficialmente por um Estado-membro no qual a organização ou a associação de criadores foi constituída, quer por um serviço oficial do Estado-membro em causa,\n\n— e\n\n— no qual estão inscritos ou registados os bovinos reprodutores de raça pura de uma raça determinada com referência aos seus ascendentes."
+  },
+  "5119b804dcce5ef3": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-membros velam para que não sejam proibidos, restringidos ou entravados por razões zootécnicas:\n\n— as trocas intracomunitárias de bovinos reprodutores de raça pura,\n\n— as trocas intracomunitárias de esperma e de [**►M5**](http://publications.europa.eu/resource/celex/31994L0028) óvulos e embriões**◄** provenientes de bovinos reprodutores de raça pura,\n\n— a criação de livros geneológicos na medida em que eles respondam às condições fixadas pela aplicação do artigo 6.º,\n\n— o reconhecimento das organizações ou associações que possuem livros geneológicos, de acordo com o artigo 6.º,\n\n— e\n\n— sob reserva do artigo 3.º, as trocas intracomunitárias de touros destinados à inseminação artificial.\n\nContudo, Portugal fica autorizado a manter, até 31 de Dezembro de 1990, o mais tardar, as restrições à importação dos bovinos referidos no primeiro travessão do parágrafo anterior, se as raças em questão não constarem da lista das raças autorizadas em Portugal. Portugal comunicará à Comissão e aos Estados-membros a lista das raças autorizadas."
+  },
+  "e9cb67e40cd2e293": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO Conselho, deliberando sob proposta da Comissão, adopta, antes do dia 1 de Julho de 1980 as disposições comunitárias de admissão à reprodução dos bovinos reprodutores de raça pura.\n\nAté à entrada em vigor dessas disposições, a admissão de bovinos reprodutores de raça pura à reprodução, bem como a admissão de touros destinados à inseminação artificial e à utilização do esperma assim como de [**►M5**](http://publications.europa.eu/resource/celex/31994L0028) óvulos e embriões**◄** ficam sujeitas às legislações nacionais, entendendo-se que estas não podem ser mais restritivas do que as aplicáveis aos bovinos reprodutores de raça pura, ao esperma e aos [**►M5**](http://publications.europa.eu/resource/celex/31994L0028) óvulos e embriões**◄** no Estado-membro destinatário."
+  },
+  "e3b7308a2bcb2eeb": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs organizações ou associações de criadores reconhecidas oficialmente por um Estado-membro não podem opor-se à inscrição nos seus livros; geneológicos dos bovinos reprodutores de raça pura, provenientes de um outro Estado-membro desde que correspondam às normas fixadas de acordo com o artigo 6.º"
+  },
+  "3c8c254e87692a49": {
+   "fragment_id": "Artigo 4.º-A",
+   "type": "artigo",
+   "heading": "Artigo 4.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º-A\n\n1. Os Estados-Membros elaboram e mantêm actualizada uma lista dos organismos referidos no primeiro travessão da alínea b) do artigo 1.º oficialmente reconhecidos para efeitos de manutenção ou estabelecimento de livros genealógicos, que disponibilizam aos demais Estados-Membros e ao público.\n\n2. Podem ser aprovadas nos termos do n.º 2 do artigo 8.º regras de execução para uma aplicação uniformizada do presente artigo."
+  },
+  "2d3dac72fd77305d": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-membros podem exigir que os bovinos reprodutores de raça pura, bem como o esperma ou os [**►M5**](http://publications.europa.eu/resource/celex/31994L0028) óvulos e embriões**◄** deles provenientes, sejam acompanhados, nas trocas intracomunitárias, de um certificado geneológico conforme com o modelo fixado nos termos do procedimento previsto no artigo 8.º, nomeadamente no que diz respeito aos melhores resultados zootécnicos obtidos."
+  },
+  "b9ab9879fb4ad597": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. São determinados nos termos do procedimento fixado no artigo 8.º:\n\n— os métodos de controlo dos resultados e da apreciação do valor genético dos animais da espécie bovina,\n\n— os critérios de reconhecimento das organizações e associações de criadores,\n\n— os critérios de criação dos livros geneológicos,\n\n— os critérios de inscrição nos livros geneológicos,\n\n— as inscrições que devem constar do certificado genológico.\n\n2. Até à entrada em vigor das disposições previstas nos primeiro, segundo e terceiro travessões do n.º 1:\n\na) Os controlos referidos no primeiro travessão do n.º 1, efectuados oficialmente em cada Estado-membro, bem como os livros geneológicos existentes actualmente, são reconhecidos pelos outros Estados-membros;\n\nb) O reconhecimento das organizações ou associações de criadores ficar sujeito à regulamentação actualmente em vigor nos Estados-membros;\n\nc) A criação de novos livros geneológicos deve continuar a corresponder às condições actualmente em vigor nos Estados-membros."
+  },
+  "6855e57674dfbdfa": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAté à aplicação de uma regulamentação comunitária na matéria, as condições aplicáveis às importações de bovinos reprodutores de raça pura provenientes de países terceiros não devem ser mais favoráveis do que as que regulam as trocas intracomunitárias.\n\nOs Estados-membros só podem autorizar a importação de bovinos reprodutores de raça pura, provenientes de países terceiros, se forem acompanhados de um certificado geneológico que comprove que estão inscritos ou registados no livro geneológico do país terceiro expedidor. Deve ser apresentada a prova de que esses animais estão ou inscritos, ou registados e susceptíveis de serem inscritos num livro geneológico na Comunidade."
+  },
+  "e13627169927707b": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A Comissão é assistida pelo Comité Zootécnico Permanente instituído pela Decisão 77/505/CEE ([^3^](http://publications.europa.eu/resource/cellar/db34e88f-484f-4ccc-ac13-eee6765099e2.0018.03/DOC_1#E0003)).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^4^](http://publications.europa.eu/resource/cellar/db34e88f-484f-4ccc-ac13-eee6765099e2.0018.03/DOC_1#E0004)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "c035288f3a971186": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros põem em vigor as disposições legislativas, regulamentares e administrativas necessárias:\n\na) Para darem cumprimento à presente directiva, com excepção do artigo 7.º, o mais tardar em 1 de Janeiro de 1979;\n\nb) Para darem cumprimento ao artigo 7.º no que diz respeito a cada um dos domínios por essa disposição abrangidos nas mesmas datas em que devem dar cumprimento às disposições correspondentes aplicáveis nas trocas intracomunitárias, e em especial às decisões progressivamente adoptadas em aplição do artigo 6.º\n\nOs Estados-membros informam desse facto imediatamente a Comissão."
+  },
+  "22271c89e70db9d0": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-membros são destinatários da presente directiva.\n\n---"
+  },
+  "f3d368088c29755e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/db34e88f-484f-4ccc-ac13-eee6765099e2.0018.03/DOC_1#src.E0001)) JO n.º C 76 de 3.7.1974, p. 52.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/db34e88f-484f-4ccc-ac13-eee6765099e2.0018.03/DOC_1#src.E0002)) JO n.º C 116 de 30.9.1974, p. 33.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/db34e88f-484f-4ccc-ac13-eee6765099e2.0018.03/DOC_1#src.E0003)) JO L 206 de 12.8.1977, p. 11.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/db34e88f-484f-4ccc-ac13-eee6765099e2.0018.03/DOC_1#src.E0004)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "8468cde578489f18": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1977L0504 — PT — 02.01.2010 — 010.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31977L0504) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31977L0504) [de 25 de Julho de 1977](http://publications.europa.eu/resource/celex/31977L0504) [que diz respeito aos animais da espécie bovina reprodutores de raça pura](http://publications.europa.eu/resource/celex/31977L0504) [(77/504/CEE)](http://publications.europa.eu/resource/celex/31977L0504) (JO L 206, 12.8.1977, p.8)\n\n**revogado por:**\n\n- [Directiva 2009/157/CE do Conselho de 30 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009L0157) — L 323 — 1 — 10.12.2009"
+  }
+ }
+}

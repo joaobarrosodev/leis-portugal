@@ -35,6 +35,113 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-04-08'
+version_history:
+  file: diretiva-ue-1998-26.versoes.json
+  count: 7
+  source_lastmod: '2024-04-08'
+  versions:
+  - date: '1998-06-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-06-30'
+    amending: eu:celex:32009L0044:por
+    amending_title: DIRECTIVA 2009/44/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 6 de Maio
+      de 2009
+    changes:
+    - Altera preambulo
+    - Adita SECÇÃO I
+    - Adita ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita SECÇÃO II
+    - Adita COMPENSAÇÃO E ORDENS DE TRANSFERÊNCIA
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita SECÇÃO III
+    - Adita DISPOSIÇÕES RELATIVAS AOS PROCESSOS DE FALÊNCIA
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita SECÇÃO IV
+    - Adita PRESERVAÇÃO DOS DIREITOS DOS TITULARES DE GARANTIAS CONTRA OS EFEITOS DA FALÊNCIA DA PARTE QUE CONSTITUIU AS GARANTIAS
+    - Adita Artigo 9.º
+    - Adita SECÇÃO V
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Notas
+    - Suprime SECÇÃO I — ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime SECÇÃO II — COMPENSAÇÃO E ORDENS DE TRANSFERÊNCIA
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime SECÇÃO III — DISPOSIÇÕES RELATIVAS AOS PROCESSOS DE FALÊNCIA
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime SECÇÃO IV — PRESERVAÇÃO DOS DIREITOS DOS TITULARES DE GARANTIAS CONTRA OS EFEITOS DA FALÊNCIA DA PARTE QUE CONSTITUIU
+      AS GARANTIAS
+    - Suprime Artigo 9º
+    - Suprime SECÇÃO V — DISPOSIÇÕES FINAIS
+  - date: '2011-01-04'
+    amending: eu:celex:32010L0078:por
+    amending_title: Directiva 2010/78/UE do Parlamento Europeu e do Conselho Texto relevante para efeitos do EEE de 24 de
+      Novembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Notas
+    - Adita Artigo 10.ºA
+  - date: '2012-08-16'
+    amending: eu:celex:32012R0648:por
+    amending_title: REGULAMENTO (UE) N. o 648/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de julho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Notas
+  - date: '2014-09-17'
+    amending: eu:celex:32014R0909:por
+    amending_title: REGULAMENTO (UE) N. o 909/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de julho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Notas
+  - date: '2019-06-27'
+    amending: eu:celex:32019L0879:por
+    amending_title: DIRETIVA (UE) 2019/879 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera Notas
+    - Adita Artigo 12.º-A
+  - date: '2024-04-08'
+    amending: eu:celex:32024R0886:por
+    amending_title: REGULAMENTO (UE) 2024/886 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera Notas
 identifiers:
   celex: 31998L0026
   eli: http://data.europa.eu/eli/dir/1998/26/oj
@@ -49,7 +156,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c2ea648f-c59a-4809-9fcb-9fba762ae240.0011
   content_url: http://publications.europa.eu/resource/cellar/fb0b31c2-fbf8-11ee-a251-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0026-20240408
-  retrieved_at: '2026-10-22T02:36:34Z'
+  retrieved_at: '2026-10-22T14:46:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-13T15:01:25.338+02:00'
 integrity:
@@ -58,9 +165,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:34Z'
-  notes: Texto consolidado 01998L0026-20240408.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:44Z'
+  notes: 7 versão(ões); histórico completo em diretiva-ue-1998-26.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -220,34 +327,19 @@ relationships:
   source: null
 article_structure:
   article_count: 16
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:34Z'
+  checked_at: '2026-10-22T14:46:44Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 98/26/CE do Parlamento Europeu e do Conselho de 19 de Maio 1998 relativa ao carácter definitivo da liquidação nos sistemas de pagamentos e de liquidação de valores mobiliários
-
-> 01998L0026 — PT — 08.04.2024 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009L0044) — [DIRECTIVA 2009/44/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de Maio de 2009](http://publications.europa.eu/resource/celex/32009L0044) — L 146 — 37 — 10.6.2009
-- [►M2](http://publications.europa.eu/resource/celex/32010L0078) — [DIRECTIVA 2010/78/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de Novembro de 2010](http://publications.europa.eu/resource/celex/32010L0078) — L 331 — 120 — 15.12.2010
-- [►M3](http://publications.europa.eu/resource/celex/32012R0648) — [REGULAMENTO (UE) N.º 648/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de julho de 2012](http://publications.europa.eu/resource/celex/32012R0648) — L 201 — 1 — 27.7.2012
-- [►M4](http://publications.europa.eu/resource/celex/32014R0909) — [REGULAMENTO (UE) N.º 909/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de julho de 2014](http://publications.europa.eu/resource/celex/32014R0909) — L 257 — 1 — 28.8.2014
-- [►M5](http://publications.europa.eu/resource/celex/32019L0879) — [DIRETIVA (UE) 2019/879 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019L0879) — L 150 — 296 — 7.6.2019
-- [►M6](http://publications.europa.eu/resource/celex/32024R0886) — [REGULAMENTO (UE) 2024/886 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024](http://publications.europa.eu/resource/celex/32024R0886) — L 886 — 1 — 19.3.2024
-
-## DIRECTIVA 98/26/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 19 de Maio 1998
 

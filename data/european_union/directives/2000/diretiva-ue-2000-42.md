@@ -36,6 +36,28 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2000-07-01'
+version_history:
+  file: diretiva-ue-2000-42.versoes.json
+  count: 2
+  source_lastmod: '2000-07-01'
+  versions:
+  - date: '2000-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Adita ANEXO I — ANEXO II
+    - Adita ANEXO III — ANEXO IV
+    - Suprime ANEXO I — >POSIÇÃO NUMA TABELA>
+    - Suprime ANEXO II — >POSIÇÃO NUMA TABELA>
+    - Suprime ANEXO III — >POSIÇÃO NUMA TABELA>
+    - Suprime ANEXO IV — >POSIÇÃO NUMA TABELA>
 identifiers:
   celex: 32000L0042
   eli: http://data.europa.eu/eli/dir/2000/42/oj
@@ -50,7 +72,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1a597d56-b5e5-4e78-8e78-f54ce72c78d3.0009
   content_url: http://publications.europa.eu/resource/cellar/db16fe1c-4525-4e7f-8402-9933e3ee8f58.0010.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0042-20000701
-  retrieved_at: '2026-10-22T02:56:52Z'
+  retrieved_at: '2026-10-22T14:48:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T17:08:42.793+01:00'
 integrity:
@@ -59,9 +81,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:52Z'
-  notes: Texto consolidado 02000L0042-20000701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:54Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2000-42.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -187,15 +209,14 @@ relationships:
 article_structure:
   article_count: 6
   section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:52Z'
-  warnings:
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:48:54Z'
+  warnings: []
   errors: []
 ---
 

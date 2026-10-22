@@ -34,6 +34,51 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: diretiva-ue-2003-49.versoes.json
+  count: 4
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '2003-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-01'
+    amending: eu:celex:32004L0066:por
+    amending_title: DIRECTIVA 2004/66/CE DO CONSELHO de 26 de Abril de 2004; DIRECTIVA 2004/76/CE DO CONSELHO de 29 de Abril
+      de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definição de sociedade, sociedade associada e estabelecimento permanente
+    - Altera Artigo 11.º — Destinatários
+    - Adita Artigo 6.º
+    - Adita Regras transitórias para a República Checa, a Grécia, Espanha, a Letónia, a Lituânia, a Polónia, Portugal e a
+      Eslováquia
+    - Adita ANEXO
+    - Adita Lista das sociedades abrangidas pela alínea a) do artigo 3.º da directiva
+    - Adita Notas
+    - Suprime Artigo 6.º — Regras transitórias para a Grécia, Espanha e Portugal
+    - Suprime ANEXO — Lista das sociedades abrangidas pela alínea a) do artigo 3.o da directiva
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0098:por
+    amending_title: DIRECTIVA 2006/98/CE DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definição de sociedade, sociedade associada e estabelecimento permanente
+    - Altera Regras transitórias para a República Checa, a Grécia, Espanha, a Letónia, a Lituânia, a Polónia, Portugal e a
+      Eslováquia
+    - Altera Lista das sociedades abrangidas pela alínea a) do artigo 3.º da directiva
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0013:por
+    amending_title: DIRETIVA 2013/13/UE DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definição de sociedade, sociedade associada e estabelecimento permanente
+    - Altera Regras transitórias para a República Checa, a Grécia, Espanha, a Letónia, a Lituânia, a Polónia, Portugal e a
+      Eslováquia
+    - Altera Lista das sociedades abrangidas pela alínea a) do artigo 3.º da directiva
+    - Altera Notas
 identifiers:
   celex: 32003L0049
   eli: http://data.europa.eu/eli/dir/2003/49/oj
@@ -48,7 +93,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/08e483c8-4af3-431c-8963-9e6ebe5dab89.0010
   content_url: http://publications.europa.eu/resource/cellar/108ba38b-c91c-4625-87f8-2a7fb03fbb38.0018.03/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0049-20130701
-  retrieved_at: '2026-10-22T02:42:33Z'
+  retrieved_at: '2026-10-22T14:54:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-26T09:40:45.075+02:00'
 integrity:
@@ -57,9 +102,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:33Z'
-  notes: Texto consolidado 02003L0049-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:49Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2003-49.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -170,36 +215,19 @@ relationships:
   date: '2026-03-05'
 article_structure:
   article_count: 11
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 4
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:33Z'
+  checked_at: '2026-10-22T14:54:49Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2003/49/CE do Conselho, de 3 de Junho de 2003
-
-> 02003L0049 — PT — 01.07.2013 — 003.004
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32004L0076) — [DIRECTIVA 2004/76/CE DO CONSELHO de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004L0076) — L 157 — 106 — 30.4.2004
-- [►M2](http://publications.europa.eu/resource/celex/32004L0066) — [DIRECTIVA 2004/66/CE DO CONSELHO de 26 de Abril de 2004](http://publications.europa.eu/resource/celex/32004L0066) — L 168 — 35 — 1.5.2004
-- [►M3](http://publications.europa.eu/resource/celex/32006L0098) — [DIRECTIVA 2006/98/CE DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0098) — L 363 — 129 — 20.12.2006
-- [►M4](http://publications.europa.eu/resource/celex/32013L0013) — [DIRETIVA 2013/13/UE DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0013) — L 141 — 30 — 28.5.2013
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32004L0076R%2801%29) — [Rectificação, JO L 195, 2.6.2004, p. 33 (Directiva 2004/76/CE)](http://publications.europa.eu/resource/celex/32004L0076R%2801%29)
-
-## DIRECTIVA 2003/49/CE DO CONSELHO
 
 de 3 de Junho de 2003
 

@@ -35,6 +35,20 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-01'
+version_history:
+  file: diretiva-ue-1977-388.versoes.json
+  count: 2
+  source_lastmod: '2007-01-01'
+  versions:
+  - date: '1977-06-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Adita preambulo
 identifiers:
   celex: 31977L0388
   eli: http://data.europa.eu/eli/dir/1977/388/oj
@@ -49,7 +63,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/dd3ab2e8-a943-4256-a490-7952ca228bfe.0011
   content_url: http://publications.europa.eu/resource/cellar/f7f0e7ed-4c98-4b6e-8a0a-0c446d096556.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977L0388-20070101
-  retrieved_at: '2026-10-22T02:36:31Z'
+  retrieved_at: '2026-10-22T14:32:17Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-31T11:26:26.375+01:00'
 integrity:
@@ -58,9 +72,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:31Z'
-  notes: Texto consolidado 01977L0388-20070101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:32:17Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1977-388.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -2920,16 +2934,27 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:31Z'
+  checked_at: '2026-10-22T14:32:17Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01977L0388-19970101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0388-20001021: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0388-20010101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0388-20020206: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0388-20020515: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0388-20021207: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0388-20030701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0388-20031011: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0388-20040101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0388-20040219: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0388-20040501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01977L0388-20051228: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01977L0388-20060101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

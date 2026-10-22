@@ -1,0 +1,164 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997L0002:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997L0002-20090204",
+ "dre_path": null,
+ "source_lastmod": "2009-02-04",
+ "versions": [
+  {
+   "date": "1997-01-28",
+   "future": false,
+   "celex": "31997L0002",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5941a113c1ace6e5",
+    "62e48e67f54dc619",
+    "871cbd384587db0b",
+    "e466928b56c6dcd0",
+    "c38d6275b39d6591"
+   ]
+  },
+  {
+   "date": "1997-02-17",
+   "future": false,
+   "celex": "01997L0002-19970217",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º"
+   ],
+   "fragments": [
+    "4a2c25ffc7f35c63",
+    "2c127f2655671807",
+    "0c1d08cf24d183e1",
+    "ddc85b5457a62095",
+    "cec28669aa22f818",
+    "67c8834153d5d5a5"
+   ]
+  },
+  {
+   "date": "2009-02-04",
+   "future": false,
+   "celex": "01997L0002-20090204",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "66d70da8b33e537e"
+   ]
+  }
+ ],
+ "fragments": {
+  "5941a113c1ace6e5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 97/2/CE do Conselho de 20 de Janeiro de 1997 que altera a Directiva 91/629/CEE relativa às normas mínimas de protecção dos vitelos** *Jornal Oficial nº L 025 de 28/01/1997 p. 0024 - 0025*\n\nDIRECTIVA 97/2/CE DO CONSELHO de 20 de Janeiro de 1997 que altera a Directiva 91/629/CEE relativa às normas mínimas de protecção dos vitelos\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nConsiderando que, conforme previsto no artigo 6º da Directiva 91/629/CEE (3), o Comité científico veterinário emitiu o seu parecer em 9 de Novembro de 1995, tendo a Comissão, com base neste parecer, elaborado um relatório que apresentou ao Parlamento Europeu e ao Conselho;\n\nConsiderando que, com base nas conclusões desse relatório, é conveniente alterar determinadas disposições da Directiva 91/629/CEE, de forma a garantir que as normas se baseiem em dados científicos e não vão além do necessário para permitir o bom funcionamento da organização comum de mercado;\n\nConsiderando que a declaração nº 24 anexa à Acta Final do Tratado da União Europeia convida as instituições europeias e os Estados-membros a terem plenamente em consideração as exigências em matéria de bem-estar dos animais na elaboração e aplicação da legislação comunitária;\n\nConsiderando que a harmonização das normas relativas às condições de criação de vitelos no âmbito da organização comum dos mercados é necessária para garantir um desenvolvimento racional da produção em condições de concorrência satisfatórias; que, a este respeito, é um facto cientificamente reconhecido que os vitelos devem beneficiar de condições ambientais que correspondam às necessidades da espécie, que vive em rebanhos; que, por essa razão, os vitelos devem ser criados em grupo; que os vitelos, alojados em grupo ou em compartimentos individuais, devem dispor de espaço suficiente para poder fazer exercício, ter contactos com outros bovinos e executar os movimentos normais, quer de pé quer deitados;\n\nConsiderando que é necessário prever um prazo para que as explorações possam tomar as medidas necessárias para o cumprimento das novas normas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "62e48e67f54dc619": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA Directiva 91/629/CEE é alterada do seguinte modo:\n\n1. No artigo 3º, o nº 3 passa a ter a seguinte redacção:\n\n«3. A partir de 1 de Janeiro de 1998, serão aplicáveis as seguintes disposições a todas as explorações novas ou reconstruídas, bem como a todas as explorações utilizadas pela primeira vez após essa data:\n\na) Nenhum vitelo com mais de oito semanas de idade pode ser confinado num compartimento individual, a menos que um veterinário tenha certificado que deve ser isolado, por razões de saúde ou de comportamento, e para efeitos de tratamento. A largura do compartimento individual deve ser pelo menos igual à altura do vitelo no garrote, medida com o vitelo em pé, devendo o comprimento ser pelo menos igual ao comprimento do corpo do vitelo, medido da ponta do nariz até à extremidade caudal do tuber ischii (osso ilíaco), multiplicado por 1,1.\n\nCada compartimento individual para vitelos (com excepção dos destinados ao isolamento dos animais doentes) não deve ter paredes sólidas, mas sim divisórias perfuradas que permitam o contacto visual e táctil directo entre os vitelos;\n\nb) Relativamente aos vitelos criados em grupo, o espaço livre individual disponível para cada vitelo deve ser pelo menos igual a 1,5 m² para os vitelos com um peso vivo inferior a 150 kg, pelo menos de 1,7 m² para os vitelos com um peso vivo superior a 150 kg mas inferior a 220 kg e pelo menos de 1,8 m² para os vitelos com um peso vivo superior a 220 kg.\n\nTodavia, o disposto no presente número não é aplicável:\n\n- às explorações com menos de seis vitelos,\n\n- aos vitelos que permanecem com as mães para aleitamento.\n\nA partir de 31 de Dezembro de 2006, as disposições acima previstas serão aplicáveis a todas as explorações.».\n\n2. No artigo 3º, é revogado o segundo travessão do nº 4.\n\n3. No artigo 4º, é revogado o nº 2.\n\n4. No artigo 6º, a data de «1 de Outubro de 1997» é substituída pela de «1 de Janeiro de 2006»."
+  },
+  "871cbd384587db0b": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 31 de Dezembro de 1997. Desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas incluirão uma referência à presente directiva ou serão dela acompanhadas na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Todavia, a partir da data fixada no nº 1, e no que se refere à protecção dos vitelos, os Estados-membros podem manter ou aplicar no seu território disposições mais rigorosas do que as previstas na presente directiva, desde que o façam nos termos das regras gerais do Tratado. Os Estados-membros informarão a Comissão de qualquer medida tomada nesse sentido."
+  },
+  "e466928b56c6dcd0": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nA presente directiva entre em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "c38d6275b39d6591": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 20 de Janeiro de 1997.\n\nPelo Conselho\n\nO Presidente\n\nJ. VAN AARTSEN\n\n(1) JO nº C 85 de 22. 3. 1996, p. 19.\n\n(2) JO nº C 320 de 28. 10. 1996, p. 259.\n\n(3) JO nº L 340 de 11. 12. 1991, p. 28."
+  },
+  "4a2c25ffc7f35c63": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Janeiro de 1997\n\nque altera a Directiva 91/629/CEE relativa às normas mínimas de protecção dos vitelos\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43.º,\n\nTendo em conta proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/7683b846-4501-49ac-b614-a6ab83432ba0.0010.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/7683b846-4501-49ac-b614-a6ab83432ba0.0010.03/DOC_1#E0002)),\n\nConsiderando que, conforme previsto no artigo 6.º da Directiva 91/629/CEE ([^3^](http://publications.europa.eu/resource/cellar/7683b846-4501-49ac-b614-a6ab83432ba0.0010.03/DOC_1#E0003)), o Comité científico veterinário emitiu o seu parecer em 9 de Novembro de 1995, tendo a Comissão, com base neste parecer, elaborado um relatório que apresentou ao Parlamento Europeu e ao Conselho;\n\nConsiderando que, com base nas conclusões desse relatório, é conveniente alterar determinadas disposições da Directiva 91/629/CEE, de forma a garantir que as normas se baseiem em dados científicos e não vão além do necessário para permitir o bom funcionamento da organização comum de mercado;\n\nConsiderando que a declaração n.º 24 anexa à Acta Final do Tratado da União Europeia convida as instituições europeias e os Estados-membros a terem plenamente em consideração as exigências em matéria de bem-estar dos animais na elaboração e aplicação da legislação comunitária;\n\nConsiderando que a harmonização das normas relativas às condições de criação de vitelos no âmbito da organização comum dos mercados é necessária para garantir um desenvolvimento racional da produção em condições de concorrência satisfatórias; que, a este respeito, é um facto cientificamente reconhecido que os vitelos devem beneficiar de condições ambientais que correspondam às necessidades da espécie, que vive em rebanhos; que, por essa razão, os vitelos devem ser criados em grupo; que os vitelos, alojados em grupo ou em compartimentos individuais, devem dispor de espaço suficiente para poder fazer exercício, ter contactos com outros bovinos e executar os movimentos normais, quer de pé quer deitados;\n\nConsiderando que é necessário prever um prazo para que as explorações possam tomar as medidas necessárias para o cumprimento das novas normas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "2c127f2655671807": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Directiva 91/629/CEE é alterada do seguinte modo:\n\n1. No artigo 3.º, o n.º 3 passa a ter a seguinte redacção:\n\n«3. A partir de 1 de Janeiro de 1998, serão aplicáveis as seguintes disposições a todas as explorações novas ou reconstruídas, bem como a todas as explorações utilizadas pela primeira vez após essa data:\n\na) Nenhum vitelo com mais de oito semanas de idade pode ser confinado num compartimento individual, a menos que um veterinário tenha certificado que deve ser isolado, por razões de saúde ou de comportamento, e para efeitos de tratamento. A largura do compartimento individual deve ser pelo menos igual à altura do vitelo no garrote, medida com o vitelo em pé, devendo o comprimento ser pelo menos igual ao comprimento do corpo do vitelo, medido da ponta do nariz até à extremidade caudal do *tuber ischii* (osso ilíaco), multiplicado por 1,1.\n\nb) Relativamente aos vitelos criados em grupo, o espaço livre individual disponível para cada vitelo deve ser pelo menos igual a 1,5 m^2^ para os vitelos com um peso vivo inferior a 150 kg, pelo menos de 1,7 m^2^ para os vitelos com um peso vivo igual ou superior a 150 kg mas inferior a 220 kg e pelo menos de 1,8 m^2^ para os vitelos com um peso vivo igual ou superior a 220 kg.\n\nTodavia, o disposto no presente número não é aplicável:\n\n— às explorações com menos de seis vitelos,\n\n— aos vitelos que permanecem com as mães para aleitamento.\n\nA partir de 31 de Dezembro de 2006, as disposições acima previstas serão aplicáveis a todas as explorações.».\n\n2. No artigo 3.º, é revogado o segundo travessão do n.º 4.\n\n3. No artigo 4.º, é revogado o n.º 2.\n\n4. No artigo 6.º, a data de «1 de Outubro de 1997» é substituída pela de «1 de Janeiro de 2006»."
+  },
+  "0c1d08cf24d183e1": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 31 de Dezembro de 1997. Desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas incluirão uma referência à presente directiva ou serão dela acompanhadas na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Todavia, a partir da data fixada no n.º 1, e no que se refere à protecção dos vitelos, os Estados-membros podem manter ou aplicar no seu território disposições mais rigorosas do que as previstas na presente directiva, desde que o façam nos termos das regras gerais do Tratado. Os Estados-membros informarão a Comissão de qualquer medida tomada nesse sentido."
+  },
+  "ddc85b5457a62095": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entre em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "cec28669aa22f818": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n---"
+  },
+  "67c8834153d5d5a5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7683b846-4501-49ac-b614-a6ab83432ba0.0010.03/DOC_1#src.E0001)) JO n.º C 85 de 22.3.1996, p. 19.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7683b846-4501-49ac-b614-a6ab83432ba0.0010.03/DOC_1#src.E0002)) JO n.º C 320 de 28.10.1996, p. 259.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7683b846-4501-49ac-b614-a6ab83432ba0.0010.03/DOC_1#src.E0003)) JO n.º L 340 de 11.12.1991, p. 28."
+  },
+  "66d70da8b33e537e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1997L0002 — PT — 04.02.2009 — 001.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31997L0002) [DIRECTIVA 97/2/CE DO CONSELHO](http://publications.europa.eu/resource/celex/31997L0002) [de 20 de Janeiro de 1997](http://publications.europa.eu/resource/celex/31997L0002) [que altera a Directiva 91/629/CEE relativa às normas mínimas de protecção dos vitelos](http://publications.europa.eu/resource/celex/31997L0002) (JO L 025, 28.1.1997, p.24)\n\n**revogado por:**\n\n- [Directiva 2008/119/CE do Conselho de 18 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008L0119) — L 10 — 7 — 15.1.2009"
+  }
+ }
+}

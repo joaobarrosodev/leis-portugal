@@ -34,6 +34,75 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-05-20'
+version_history:
+  file: diretiva-ue-1996-67.versoes.json
+  count: 3
+  source_lastmod: '2024-05-20'
+  versions:
+  - date: '1996-10-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-11-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera ANEXO — LISTA DOS SERVIÇOS DE ASSISTÊNCIA EM ESCALA
+    - Adita Artigo 1.º — Âmbito de aplicação
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 3.º — Entidade gestora de um aeroporto
+    - Adita Artigo 4.º — Separação de actividades
+    - Adita Artigo 5.º — Comité de utilizadores
+    - Adita Artigo 6.º — Assistência a terceiros
+    - Adita Artigo 7.º — Auto-assistência
+    - Adita Artigo 8.º — Infra-estruturas centralizadas
+    - Adita Artigo 9.º — Derrogações
+    - Adita Artigo 10.º — Comité Consultivo
+    - Adita Artigo 11.º — Selecção dos prestadores
+    - Adita Artigo 12.º — Aeroportos insulares
+    - Adita Artigo 13.º — Consultas
+    - Adita Artigo 14.º — Licença
+    - Adita Artigo 15.º — Regras de conduta
+    - Adita Artigo 16.º — Acesso às instalações
+    - Adita Artigo 17.º — Protecção e segurança
+    - Adita Artigo 18.º — Protecção social e protecção do ambiente
+    - Adita Artigo 19.º — Respeito pelas disposições nacionais
+    - Adita Artigo 20.º — Reciprocidade
+    - Adita Artigo 21.º — Direito de recurso
+    - Adita Artigo 22.º — Relatório de informação e revisão
+    - Adita Artigo 23.º — Transposição
+    - Adita Artigo 24.º — Entrada em vigor
+    - Adita Artigo 25.º — Destinatários
+    - Suprime Artigo 1º — Âmbito de aplicação
+    - Suprime Artigo 2º — Definições
+    - Suprime Artigo 3º — Entidade gestora de um aeroporto
+    - Suprime Artigo 4º — Separação de actividades
+    - Suprime Artigo 5º — Comité de utilizadores
+    - Suprime Artigo 6º — Assistência a terceiros
+    - Suprime Artigo 7º — Auto-assistência
+    - Suprime Artigo 8º — Infra-estruturas centralizadas
+    - Suprime Artigo 9º — Derrogações
+    - Suprime Artigo 10º — Comité consultivo
+    - Suprime Artigo 11º — Selecção dos prestadores
+    - Suprime Artigo 12º — Aeroportos insulares
+    - Suprime Artigo 13º — Consultas
+  - date: '2024-05-20'
+    amending: eu:celex:32003R1882:por
+    amending_title: REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003; DECISÃO
+      (UE) 2024/1254 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 7.º — Auto-assistência
+    - Altera Artigo 9.º — Derrogações
+    - Altera Artigo 10.º — Comité Consultivo
+    - Altera Artigo 11.º — Selecção dos prestadores
+    - Altera Artigo 20.º — Reciprocidade
+    - Adita ANEXO
+    - Adita LISTA DOS SERVIÇOS DE ASSISTÊNCIA EM ESCALA
+    - Adita Notas
+    - Suprime ANEXO — LISTA DOS SERVIÇOS DE ASSISTÊNCIA EM ESCALA
 identifiers:
   celex: 31996L0067
   eli: http://data.europa.eu/eli/dir/1996/67/oj
@@ -48,7 +117,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/14ae9263-70dd-479a-9f5c-c1a1f40c148f.0011
   content_url: http://publications.europa.eu/resource/cellar/591bbb12-3e06-11ef-ab8f-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0067-20240520
-  retrieved_at: '2026-10-22T02:36:40Z'
+  retrieved_at: '2026-10-22T14:45:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T03:58:42.244+01:00'
 integrity:
@@ -57,9 +126,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:40Z'
-  notes: Texto consolidado 01996L0067-20240520.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:45:18Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1996-67.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -252,30 +321,20 @@ relationships:
   source: null
 article_structure:
   article_count: 25
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:40Z'
-  warnings: []
+  checked_at: '2026-10-22T14:45:18Z'
+  warnings:
+  - '01996L0067-19961114: versão indisponível (Sem expressão na língua por para CELEX 01996L0067-19961114.)'
   errors: []
 ---
 
 # Directiva 96/67/CE do Conselho de 15 de Outubro de 1996
-
-> 01996L0067 — PT — 20.05.2024 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003R1882) — [REGULAMENTO (CE) N.º 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
-- [►M2](http://publications.europa.eu/resource/celex/32024D1254) — [DECISÃO (UE) 2024/1254 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024](http://publications.europa.eu/resource/celex/32024D1254) — L 1254 — 1 — 30.4.2024
-
-## DIRECTIVA 96/67/CE DO CONSELHO
 
 de 15 de Outubro de 1996
 

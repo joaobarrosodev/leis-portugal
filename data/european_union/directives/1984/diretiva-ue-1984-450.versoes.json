@@ -1,0 +1,293 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31984L0450:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01984L0450-20071212",
+ "dre_path": null,
+ "source_lastmod": "2007-12-12",
+ "versions": [
+  {
+   "date": "1984-09-19",
+   "future": false,
+   "celex": "31984L0450",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7e61ab56ed3f89f6",
+    "16216c83bb6e4328",
+    "ed4131e549849f31",
+    "cb1711d1ab7c0b7a",
+    "f0ce867075278c36",
+    "a230033d5dc5683c",
+    "234ef43871ba7a34",
+    "0a159132d1dd49ec",
+    "cf54ba144d1e4e56",
+    "e7a61b902fb23889"
+   ]
+  },
+  {
+   "date": "2005-06-12",
+   "future": false,
+   "celex": "01984L0450-20050612",
+   "acts": [
+    {
+     "id": "eu:celex:31997L0055:por",
+     "title": "DIRECTIVA 97/55/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de Outubro de 1997",
+     "published": null,
+     "celex": "31997L0055"
+    },
+    {
+     "id": "eu:celex:32005L0029:por",
+     "title": "DIRECTIVA 2005/29/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 11 de Maio de 2005",
+     "published": null,
+     "celex": "32005L0029"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 3.ºA",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o"
+   ],
+   "fragments": [
+    "28e2ff3a1515b24a",
+    "e224a9d85e8d0bad",
+    "5a53d62d8a9fd3dd",
+    "a61b244fe68773b8",
+    "fae305e57ae9e2a8",
+    "875c2e40b4b79d3b",
+    "f098c72460925093",
+    "a2b4eb11f3c75808",
+    "f9af8dbb3f718349",
+    "777888f4c3d3e3ad",
+    "4045616d41792800",
+    "6e8745bce6d52745"
+   ]
+  },
+  {
+   "date": "2007-12-12",
+   "future": false,
+   "celex": "01984L0450-20071212",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 3.ºA",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "c43e81f686767b08"
+   ]
+  }
+ ],
+ "fragments": {
+  "7e61ab56ed3f89f6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 84/450/CEE do Conselho, de 10 de Setembro de 1984, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros em matéria de publicidade enganosa** *Jornal Oficial nº L 250 de 19/09/1984 p. 0017 - 0020 Edição especial finlandesa: Capítulo 15 Fascículo 4 p. 0211 Edição especial espanhola: Capítulo 15 Fascículo 5 p. 0055 Edição especial sueca: Capítulo 15 Fascículo 4 p. 0211 Edição especial portuguesa: Capítulo 15 Fascículo 5 p. 0055*\n\nDIRECTIVA DO CONSELHO de 10 de Setembro de 1984 relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros em matéria de publicidade enganosa\n\n(84/450/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\ntendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\ntendo em conta a proposta da Comissão (1),\n\ntendo em conta o parecer do Parlamento Europeu (2),\n\ntendo em conta o parecer do Comité Económico e Social (3),\n\nconsiderando que existem disparidades entre as legislações actualmente em vigor nos Estados-membros em matéria de publicidade enganosa; que a publicidade transpõe as fronteiras dos Estados-membros e que tem, consequentemente, uma incidência directa sobre o estabelecimento e o funcionamento do mercado comum;\n\nconsiderando que a publicidade enganosa pode levar a distorções de concorrência no mercado comum;\n\nconsiderando que a publicidade, quer conduza ou não à aceleração de um contrato, afecta a situação económica dos consumidores;\n\nconsiderando que a publicidade enganosa pode levar o consumidor, quando adquire bens ou utiliza serviços, a tomar decisões que lhe são prejudiciais e que as disparidades entre as legislações dos Estados-membros não só conduzem, em numerosos casos, a uma protecção insuficiente dos consumidores, mas entravam também a realização de campanhas publicitárias para além das fronteiras, afectando, deste modo, a livre circulação das mercadorias e das prestações de serviços;\n\nconsiderando que o segundo programa da Comunidade Económica Europeia para uma política de protecção e de informação dos consumidores, prevê medidas apropriadas destinadas a proteger o consumidor contra a publicidade enganosa e desleal;\n\nconsiderando que é do interesse do público em geral, dos consumidores e das pessoas que estão em concorrência no exercício de uma actividade comercial, industrial, artesanal ou liberal no mercado comum, harmonizar, numa primeira fase, as disposições nacionais em matéria de protecção contra a publicidade enganosa e, numa segunda fase, tratar da publicidade desleal bem como, em caso de necessidade, da publicidade comparativa, com base em propostas adequadas da Comissão;\n\nconsiderando que é necessário, para este fim, fixar critérios mínimos e objectivos, com base nos quais seja possível determinar se uma publicidade é enganosa;\n\nconsiderando que as disposições jurídicas que os Estados-membros devem adoptar para combater a publicidade enganosa devem ser adequadas e eficazes;\n\nconsiderando que as pessoas ou organizações que tenham, segundo a legislação nacional, um interesse legítimo na matéria, devem ter a possibilidade de interpor recurso contra toda a publicidade enganosa quer perante um tribunal, quer perante um órgão administrativo que seja competente para decidir das queixas ou para desencadear as medidas judiciais apropriadas;\n\nconsiderando que deve caber a cada Estado-membro decidir se é conveniente atribuir ao tribunal ou ao órgão administrativo a competência para exigir uma acção prévia a outras vias estabelecidas para o seguimento a dar à queixa;\n\nconsiderando que os tribunais ou os órgãos administrativos devem dispor de poderes que lhes permitam ordenar ou obter a cessação da publicidade enganosa;\n\nconsiderando que em certos casos, pode ser desejável proibir uma publicidade enganosa mesmo antes desta ser levada ao conhecimento do público; que, contudo, isto não implica que os Estados-membros sejam obrigados a adoptar uma regulamentação que preveja o controlo prévio e sistemático da publicidade;\n\nconsiderando que é conveniente estabelecer processos acelerados que permitam tomar medidas com efeito provisório ou definitivo;\n\nconsiderando que pode ser desejável ordenar a publicação de decisões proferidas pelos tribunais ou órgãos administrativos ou de comunicados rectificativos tendo em vista eliminar os efeitos persistentes da publicidade enganosa;\n\nconsiderando que os órgãos administrativos devem ser imparciais e que o exercício das suas competências deve ser passível de um recurso juridiscional;\n\nconsiderando que os controlos voluntários exercidos por organismos autónomos para suprimir a publicidade enganosa podem evitar o recurso a uma acção administrativa ou judicial e devem, portanto, ser encorajados;\n\nconsiderando que o anunciador deve poder provar, através dos meios adequados, a exactidão dos dados de facto contidos na sua publicidade e que, em determinados casos, pode ser convidado a fazê-lo a pedido do tribunal ou do órgão administrativo;\n\nconsiderando que a presente directiva não deve obstar à manutenção ou à adopção pelos Estados-membros de disposições que visem assegurar uma protecção mais ampla dos consumidores, das pessoas que exercem uma actividade comercial, industrial, artesanal, ou liberal, assim como do público em geral,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "16216c83bb6e4328": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva tem por objectivo proteger os consumidores e as pessoas que exercem uma actividade comercial, industrial, artesanal ou liberal, bem como os interesses do público em geral, contra a publicidade enganosa e as suas consequências desleais."
+  },
+  "ed4131e549849f31": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nNa acepção da presente directiva, entende-se por:\n\n1. Publicidade: qualquer forma de comunicação feita no âmbito duma actividade comercial, industrial, artesanal ou liberal tendo por fim promover o fornecimento de bens ou de serviços, incluindo os bens imóveis, os direitos e as obrigações;\n\n2. Publicidade enganosa: a publicidade que, por qualquer forma, incluindo a sua apresentação, induz em erro ou é susceptível de induzir em erro as pessoas a quem se dirige ou que afecta e cujo comportamento económico pode afectar, em virtude do seu carácter enganador ou que, por estas razões, prejudica ou pode prejudicar um concorrente;\n\n3. Pessoa: qualquer pessoa singular ou colectiva."
+  },
+  "cb1711d1ab7c0b7a": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nPara determinar se uma publicidade é enganosa, devem ter-se em conta todos os seus elementos e, nomeadamente, todas as indicações que digam respeito:\n\na) às características dos bens ou serviços, tais como a sua disponibilidade, natureza, execução, composição, o modo e a data de fabrico ou de prestação, o carácter adequado, as utilizações, a quantidade, as especificações, a origem geográfica ou comercial ou os resultados que podem ser esperados da sua utilização, ou os resultados e as características essenciais dos testes ou controlos efectuados sobre os bens ou serviços;\n\nb) ao preço ou ao seu modo de estabelecimento, e às condições de fornecimento dos bens ou da prestação dos serviços;\n\nc) à natureza, às qualidades e aos direitos do anunciador, tais como a sua identidade e o seu património, as suas qualificações e os seus direitos de propriedade industrial, comercial ou intelectual, ou os prémios que recebeu ou as suas distinções."
+  },
+  "f0ce867075278c36": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Os Estados-membros velarão para que existam meios adequados e eficazes para controlar a publicidade enganosa no interesse dos consumidores bem como dos concorrentes e do público em geral.\n\nEstes meios devem incluir disposições jurídicas segundo as quais as pessoas ou organizações que tenham, segundo a legislação nacional, um interesse legítimo na proibição da publicidade enganosa possam:\n\na) intentar uma acção judicial contra esta publicidade e/ou\n\nb) apresentar esta publicidade a um órgão administrativo competente, seja para decidir sobre as queixas, seja para dar início aos procedimentos judiciais adequados.\n\nCompete a cada Estado-membro decidir a qual destas vias se deve recorrer e se convém que o tribunal ou órgão administrativo tenha poderes para exigir um recurso prévio a outras vias estabelecidas para o seguimento a dar às queixas, incluindo as referidas no artigo 5o.\n\n2. No âmbito das disposições jurídicas referidas no n. 1, os Estados-membros conferirão aos tribunais ou aos órgãos administrativos as competências que os habilitem, no caso em que estes considerem que estas medidas são necessárias, tendo em conta todos os interesses em jogo e, nomeadamente, o interesse geral:\n\n- a ordenar a cessação duma publicidade enganosa ou a dar início aos procedimentos adequados com vista a fazer cessar esta publicidade, ou\n\n- a proibir tal publicidade ou dar início aos procedimentos adequados com vista a ordenar a proibição da publicidade enganosa quando ela não foi ainda levada ao conhecimento do público, mas quando a sua publicação está eminente;\n\nmesmo na ausência de prova de ter havido uma perda ou prejuízo real, ou de uma intenção ou negligência da parte do anunciador.\n\nOs Estados-membros prevêem, por outro lado, que as medidas referidas no primeiro parágrafo possam ser tomadas no âmbito de um processo acelerado:\n\n- seja com efeito provisório,\n\n- seja com efeito definitivo;\n\nentendendo-se que compete a cada Estado-membro determinar qual destas duas opções será estabelecida.\n\nAlém disso, os Estados-membros podem conferir aos tribunais ou aos órgãos administrativos as competências que os habilitem, tendo em vista eliminar os efeitos persistentes de uma publicidade enganosa cuja cessação tenha sido ordenada por uma decisão definitiva:\n\n- a exigir a publicação desta decisão no todo ou em parte e da forma que considerem adequada;\n\n- a exigir, além disso, a publicação de um comunicado rectificativo.\n\n3. Os órgãos administrativos referidos no n. 1 devem:\n\na) ser compostos de forma a que não seja posta em causa a sua imparcialidade;\n\nb) ter poderes adequados que lhes permitam fiscalizar e impor de forma eficaz a observação das suas decisões quando decidirem sobre as queixas;\n\nc) em princípio, fundamentar as suas decisões.\n\nQuando as competências referidas no n. 2 forem exercidas unicamente por um órgão administrativo, as decisões devem ser sempre fundamentadas. Além disso, neste caso, devem ser previstos procedimentos pelos quais o exercício impróprio ou injustificado dos poderes do órgão administrativo ou o não exercício impróprio ou injustificado dos mesmos poderes possam ser objecto dum recurso judicial."
+  },
+  "a230033d5dc5683c": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nA presente directiva não exclui o controlo voluntário da publicidade enganosa por organismos autónomos e o recurso a tais organismos pelas pessoas ou organizações referidas no artigo 4o, se existem procedimentos junto desses organismos para além dos processos jurisdicionais ou administrativos mencionados no referido artigo."
+  },
+  "234ef43871ba7a34": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros conferirão aos tribunais ou aos órgãos administrativos competências que os habilitem, aquando do processo judicial ou administrativo, referido no artigo 4o:\n\na) a exigir que o anunciador apresente provas respeitantes à exactidão material dos dados de factor contidos na publicidade se, atendendo aos interesses legítimos do anunciador e das outras partes do processo, uma tal exigência parecer pertinente dadas as circunstâncias do caso em questão\n\ne\n\nb) a considerar os dados de facto como inexactos se as provas exigidas, de acordo com a alínea a), não forem apresentadas ou forem consideradas insuficientes pelo tribunal ou pelo órgão administrativo."
+  },
+  "0a159132d1dd49ec": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nA presente directiva não obsta à manutenção ou à adopção pelos Estados-membros de disposições que visem assegurar uma protecção mais ampla dos consumidores, das pessoas que exercem uma actividade comercial, industrial, artesanal ou liberal, assim como do público em geral."
+  },
+  "cf54ba144d1e4e56": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva o mais tardar até 1 de Outubro de 1986. Desse facto informarão imediatamente a Comissão.\n\nOs Estados-membros comunicarão à Comissão as disposições de direito nacional que adoptem no domínio regulado pela presente directiva."
+  },
+  "e7a61b902fb23889": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 10 de Setembro de 1984.\n\nPelo Conselho\n\nO Presidente\n\nP. O'TOOLE\n\n(1) JO n. C 70 de 21. 3. 1978, p. 4.(2) JO n. C 140 de 5. 6. 1979, p. 23.(3) JO n. C 171 de 9. 7. 1979, p. 43.(4) JO n. C 133 de 3. 6. 1981, p. 1."
+  },
+  "28e2ff3a1515b24a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Setembro de 1984\n\nrelativa à publicidade enganosa e comparativa\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\ntendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.º,\n\ntendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/7b62740f-572d-423a-8a9b-951e3fe8ae4b.0017.03/DOC_1#E0001)),\n\ntendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/7b62740f-572d-423a-8a9b-951e3fe8ae4b.0017.03/DOC_1#E0002)),\n\ntendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/7b62740f-572d-423a-8a9b-951e3fe8ae4b.0017.03/DOC_1#E0003)),\n\nconsiderando que existem disparidades entre as legislações actualmente em vigor nos Estados-membros em matéria de publicidade enganosa; que a publicidade transpõe as fronteiras dos Estados-membros e que tem, consequentemente, uma incidência directa sobre o estabelecimento e o funcionamento do mercado comum;\n\nconsiderando que a publicidade enganosa pode levar a distorções de concorrência no mercado comum;\n\nconsiderando que a publicidade, quer conduza ou não à aceleração de um contrato, afecta a situação económica dos consumidores;\n\nconsiderando que a publicidade enganosa pode levar o consumidor, quando adquire bens ou utiliza serviços, a tomar decisões que lhe são prejudiciais e que as disparidades entre as legislações dos Estados-membros não só conduzem, em numerosos casos, a uma protecção insuficiente dos consumidores, mas entravam também a realização de campanhas publicitárias para além das fronteiras, afectando, deste modo, a livre circulação das mercadorias e das prestações de serviços;\n\nconsiderando que o segundo programa da Comunidade Económica Europeia para uma política de protecção e de informação dos consumidores, prevê medidas apropriadas destinadas a proteger o consumidor contra a publicidade enganosa e desleal;\n\nconsiderando que é do interesse do público em geral, dos consumidores e das pessoas que estão em concorrência no exercício de uma actividade comercial, industrial, artesanal ou liberal no mercado comum, harmonizar, numa primeira fase, as disposições nacionais em matéria de protecção contra a publicidade enganosa e, numa segunda fase, tratar da publicidade desleal bem como, em caso de necessidade, da publicidade comparativa, com base em propostas adequadas da Comissão;\n\nconsiderando que é necessário, para este fim, fixar critérios mínimos e objectivos, com base nos quais seja possível determinar se uma publicidade é enganosa;\n\nconsiderando que as disposições jurídicas que os Estados-membros devem adoptar para combater a publicidade enganosa devem ser adequadas e eficazes;\n\nconsiderando que as pessoas ou organizações que tenham, segundo a legislação nacional, um interesse legítimo na matéria, devem ter a possibilidade de interpor recurso contra toda a publicidade enganosa quer perante um tribunal, quer perante um órgão administrativo que seja competente para decidir das queixas ou para desencadear as medidas judiciais apropriadas;\n\nconsiderando que deve caber a cada Estado-membro decidir se é conveniente atribuir ao tribunal ou ao órgão administrativo a competência para exigir uma acção prévia a outras vias estabelecidas para o seguimento a dar à queixa;\n\nconsiderando que os tribunais ou os órgãos administrativos devem dispor de poderes que lhes permitam ordenar ou obter a cessação da publicidade enganosa;\n\nconsiderando que em certos casos, pode ser desejável proibir uma publicidade enganosa mesmo antes desta ser levada ao conhecimento do público; que, contudo, isto não implica que os Estados-membros sejam obrigados a adoptar uma regulamentação que preveja o controlo prévio e sistemático da publicidade;\n\nconsiderando que é conveniente estabelecer processos acelerados que permitam tomar medidas com efeito provisório ou definitivo;\n\nconsiderando que pode ser desejável ordenar a publicação de decisões proferidas pelos tribunais ou órgãos administrativos ou de comunicados rectificativos tendo em vista eliminar os efeitos persistentes da publicidade enganosa;\n\nconsiderando que os órgãos administrativos devem ser imparciais e que o exercício das suas competências deve ser passível de um recurso juridiscional;\n\nconsiderando que os controlos voluntários exercidos por organismos autónomos para suprimir a publicidade enganosa podem evitar o recurso a uma acção administrativa ou judicial e devem, portanto, ser encorajados;\n\nconsiderando que o anunciador deve poder provar, através dos meios adequados, a exactidão dos dados de facto contidos na sua publicidade e que, em determinados casos, pode ser convidado a fazê-lo a pedido do tribunal ou do órgão administrativo;\n\nconsiderando que a presente directiva não deve obstar à manutenção ou à adopção pelos Estados-membros de disposições que visem assegurar uma protecção mais ampla dos consumidores, das pessoas que exercem uma actividade comercial, industrial, artesanal, ou liberal, assim como do público em geral,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "e224a9d85e8d0bad": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva tem por objectivo proteger os profissionais contra a publicidade enganosa e suas consequências desleais e estabelecer as condições em que a publicidade comparativa é permitida."
+  },
+  "5a53d62d8a9fd3dd": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nNa acepção da presente directiva, entende-se por:\n\n1. Publicidade: qualquer forma de comunicação feita no âmbito duma actividade comercial, industrial, artesanal ou liberal tendo por fim promover o fornecimento de bens ou de serviços, incluindo os bens imóveis, os direitos e as obrigações;\n\n2. Publicidade enganosa: a publicidade que, por qualquer forma, incluindo a sua apresentação, induz em erro ou é susceptível de induzir em erro as pessoas a quem se dirige ou que afecta e cujo comportamento económico pode afectar, em virtude do seu carácter enganador ou que, por estas razões, prejudica ou pode prejudicar um concorrente;\n\n3A. Publicidade comparativa: a publicidade que identifica, explícita ou implicitamente, um concorrente ou os bens ou serviços oferecidos por um concorrente;\n\n3. Profissional: qualquer pessoa singular ou colectiva que, no que respeita às práticas comerciais abrangidas pela presente directiva, actue no âmbito da sua actividade comercial, industrial, artesanal ou profissional e quem actue em nome ou por conta desse profissional;\n\n4. Titular de um código: qualquer entidade, incluindo um profissional ou grupo de profissionais, responsável pela elaboração e a revisão de um código de conduta e/ou o controlo do cumprimento deste código por aqueles que se comprometeram a ficar vinculados por ele."
+  },
+  "a61b244fe68773b8": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara determinar se uma publicidade é enganosa, devem ter-se em conta todos os seus elementos e, nomeadamente, todas as indicações que digam respeito:\n\na) às características dos bens ou serviços, tais como a sua disponibilidade, natureza, execução, composição, o modo e a data de fabrico ou de prestação, o carácter adequado, as utilizações, a quantidade, as especificações, a origem geográfica ou comercial ou os resultados que podem ser esperados da sua utilização, ou os resultados e as características essenciais dos testes ou controlos efectuados sobre os bens ou serviços;\n\nb) ao preço ou ao seu modo de estabelecimento, e às condições de fornecimento dos bens ou da prestação dos serviços;\n\nc) à natureza, às qualidades e aos direitos do anunciador, tais como a sua identidade e o seu património, as suas qualificações e os seus direitos de propriedade industrial, comercial ou intelectual, ou os prémios que recebeu ou as suas distinções."
+  },
+  "fae305e57ae9e2a8": {
+   "fragment_id": "Artigo 3.ºA",
+   "type": "artigo",
+   "heading": "Artigo 3.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.ºA\n\n1. No que se refere à comparação, a publicidade comparativa é autorizada, quando se reúnam as seguintes condições:\n\na) Não seja enganosa na acepção do n.º 2 do artigo 2.º, do artigo 3.º e do n.º 1 do artigo 7.º da presente directiva ou dos artigos 6.º e 7.º da Directiva 2005/29/CE do Parlamento Europeu e do Conselho, de 11 de Maio de 2005, relativa às práticas comerciais desleais das empresas face aos consumidores no mercado interno ([^4^](http://publications.europa.eu/resource/cellar/7b62740f-572d-423a-8a9b-951e3fe8ae4b.0017.03/DOC_1#E0004));\n\nb) Compare bens ou serviços que respondem às mesmas necessidades ou têm os mesmos objectivos;\n\nc) Compare objectivamente uma ou mais características substanciais, pertinentes, comprováveis e representativas desses bens e serviços, entre as quais se pode incluir o preço;\n\nd) Não desacredite ou denigra marcas, designações comerciais, outros sinais distintivos, bens, serviços, actividades ou situação de um concorrente;\n\ne) Em caso de produtos com denominação de origem, se refira, em cada caso, a produtos com a mesma denominação;\n\nf) Não retire partido indevido da notoriedade de uma marca, designação comercial ou outro sinal distintivo de um concorrente ou da denominação de origem de produtos concorrentes;\n\ng) Não apresente um bem ou serviço como uma imitação ou reprodução de um bem ou serviço cuja marca ou designação comercial seja protegida;\n\nh) Não crie confusão entre os profissionais, entre o anunciante e um concorrente, ou entre uma marca, designação comercial ou outro sinal distintivo, bens ou serviços do anunciante e os de um concorrente."
+  },
+  "875c2e40b4b79d3b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-Membros devem assegurar a existência de meios adequados e eficazes para lutar contra a publicidade enganosa e garantir o cumprimento das disposições em matéria de publicidade comparativa no interesse dos profissionais e dos concorrentes. Estes meios devem incluir disposições legais nos termos das quais as pessoas ou organizações que, de acordo com a legislação nacional, tenham um interesse legítimo em combater a publicidade enganosa ou em regular a publicidade comparativa, possam:\n\na) Intentar uma acção judicial contra essa publicidade;\n\nb) Submetê-la a uma autoridade administrativa competente para decidir as queixas ou para mover os procedimentos legais adequados.\n\nCompete a cada Estado-Membro decidir qual destas vias estará disponível e se o tribunal ou autoridade administrativa terão poderes para exigir o recurso prévio a outras vias estabelecidas para a resolução de litígios, incluindo as referidas no artigo 5.º\n\nCompete a cada Estado-Membro decidir:\n\na) Se as referidas acções podem ser instauradas individual ou colectivamente contra diversos profissionais do mesmo sector económico;\n\nb) Se as referidas acções podem ser instauradas contra o titular de um código, caso o código relevante promova o não cumprimento das prescrições legais.\n\n2. No âmbito das disposições jurídicas referidas no n. 1, os Estados-membros conferirão aos tribunais ou aos órgãos administrativos as competências que os habilitem, no caso em que estes considerem que estas medidas são necessárias, tendo em conta todos os interesses em jogo e, nomeadamente, o interesse geral:\n\n— a ordenar a cessação de uma publicidade enganosa ou comparativa ilícita, ou a instaurar os processos judiciais adequados para que seja ordenada a cessação dessa publicidade, ou\n\n— a proibir a publicidade enganosa ou comparativa ilícita, ou a instaurar os processos judiciais adequados para que seja ordenada a proibição dessa publicidade quando esta não tenha ainda sido levada ao conhecimento do público mas cuja difusão esteja iminente;\n\nmesmo na ausência de prova de ter havido uma perda ou prejuízo real, ou de uma intenção ou negligência da parte do anunciador.\n\nOs Estados-membros prevêem, por outro lado, que as medidas referidas no primeiro parágrafo possam ser tomadas no âmbito de um processo acelerado:\n\n— seja com efeito provisório,\n\n— seja com efeito definitivo;\n\nentendendo-se que compete a cada Estado-membro determinar qual destas duas opções será estabelecida.\n\nAlém disso, os Estados-membros podem conferir aos tribunais ou às autoridades administrativas competências que os habilitem a eliminar os efeitos persistentes de uma publicidade enganosa ou de uma publicidade comparativa ilícita cuja cessação tenha sido ordenada por uma decisão definitiva:\n\n— a exigir a publicação desta decisão no todo ou em parte e da forma que considerem adequada;\n\n— a exigir, além disso, a publicação de um comunicado rectificativo.\n\n3. Os órgãos administrativos referidos no n. 1 devem:\n\na) ser compostos de forma a que não seja posta em causa a sua imparcialidade;\n\nb) ter poderes adequados que lhes permitam fiscalizar e impor de forma eficaz a observação das suas decisões quando decidirem sobre as queixas;\n\nc) em princípio, fundamentar as suas decisões.\n\nQuando as competências referidas no n. 2 forem exercidas unicamente por um órgão administrativo, as decisões devem ser sempre fundamentadas. Além disso, neste caso, devem ser previstos procedimentos pelos quais o exercício impróprio ou injustificado dos poderes do órgão administrativo ou o não exercício impróprio ou injustificado dos mesmos poderes possam ser objecto dum recurso judicial."
+  },
+  "f098c72460925093": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA presente directiva não exclui o controlo voluntário, que pode ser incentivado pelos Estados-membros, da publicidade enganosa ou comparativa por organismos autónomos e o recurso a esses organismos pelas pessoas ou organizações referidas no artigo 4.º se, para além dos processos judiciais ou administrativos mencionados no referido artigo, houver processos pendentes nesses organismos."
+  },
+  "a2b4eb11f3c75808": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros conferirão aos tribunais ou aos órgãos administrativos competências que os habilitem, aquando do processo judicial ou administrativo, referido no artigo 4.º:\n\na) A exigir que o anunciante apresente provas quanto à exactidão material dos elementos de facto que constam da publicidade se, tendo em conta os interesses legítimos do anunciante e de qualquer outra parte no processo, semelhante exigência se revelar adequada à luz das circunstâncias do caso em apreço e, em caso de publicidade comparativa, a exigir que o anunciante forneça tais provas num curto espaço de tempo\n\nb) a considerar os dados de facto como inexactos se as provas exigidas, de acordo com a alínea a), não forem apresentadas ou forem consideradas insuficientes pelo tribunal ou pelo órgão administrativo."
+  },
+  "f9af8dbb3f718349": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Esta directiva não prejudica a manutenção ou adopção, pelos Estados-Membros, de disposições que assegurem uma protecção mais ampla dos profissionais e dos concorrentes em matéria de publicidade enganosa.\n\n2. O n.º 1 não é aplicável à publicidade comparativa, no que se refere exclusivamente à comparação.\n\n3. As disposições da presente directiva são aplicáveis sem prejuízo das disposições comunitárias sobre publicidade de produtos e/ou serviços específicos ou das restrições ou proibições relativas à publicidade em certos meios de comunicação social.\n\n4. As disposições da presente directiva relativas à publicidade comparativa não obrigam os Estados-membros que, na observância das disposições do Tratado, mantenham ou introduzam proibições de publicidade de certos bens ou serviços, impostas directamente ou por um organismo ou organização responsáveis, nos termos da legislação dos Estados-membros, para regulamentar o exercício de uma actividade comercial, industrial, artesanal ou liberal, a autorizar a publicidade comparativa para esses bens ou serviços. Quando essas proibições se limitem a certos meios de comunicação social, a directiva é aplicável aos meios de comunicação social que não são abrangidos pelas referidas proibições.\n\n5. Nenhuma disposição da presente directiva obsta a que os Estados-membros mantenham ou introduzam, no respeito pelas disposições do Tratado, proibições ou limitações à utilização de comparações na publicidade de serviços profissionais, quer impostas directamente quer através de um organismo ou organização responsável, nos termos das legislações dos Estados-membros, pela regulamentação do exercício de uma actividade."
+  },
+  "777888f4c3d3e3ad": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva o mais tardar até 1 de Outubro de 1986. Desse facto informarão imediatamente a Comissão.\n\nOs Estados-membros comunicarão à Comissão as disposições de direito nacional que adoptem no domínio regulado pela presente directiva."
+  },
+  "4045616d41792800": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros são destinatários da presente directiva.\n\n---"
+  },
+  "6e8745bce6d52745": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7b62740f-572d-423a-8a9b-951e3fe8ae4b.0017.03/DOC_1#src.E0001)) JO n. C 70 de 21. 3. 1978, p. 4.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7b62740f-572d-423a-8a9b-951e3fe8ae4b.0017.03/DOC_1#src.E0002)) JO n. C 140 de 5. 6. 1979, p. 23.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7b62740f-572d-423a-8a9b-951e3fe8ae4b.0017.03/DOC_1#src.E0003)) JO n. C 171 de 9. 7. 1979, p. 43.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7b62740f-572d-423a-8a9b-951e3fe8ae4b.0017.03/DOC_1#src.E0004)) JO L 149 de 11.6.2005, p. 22."
+  },
+  "c43e81f686767b08": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1984L0450 — PT — 12.12.2007 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31984L0450) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31984L0450) [de 10 de Setembro de 1984](http://publications.europa.eu/resource/celex/31984L0450) [relativa à publicidade enganosa e comparativa](http://publications.europa.eu/resource/celex/31984L0450) (JO L 250, 19.9.1984, p.17)\n\n**revogado por:**\n\n- [Directiva 2006/114/CE do Parlamento Europeu e do Conselho de 12 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006L0114) — L 376 — 21 — 27.12.2006"
+  }
+ }
+}

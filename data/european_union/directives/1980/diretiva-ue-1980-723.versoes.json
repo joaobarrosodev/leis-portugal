@@ -1,0 +1,316 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31980L0723:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01980L0723-20061220",
+ "dre_path": null,
+ "source_lastmod": "2006-12-20",
+ "versions": [
+  {
+   "date": "1980-07-29",
+   "future": false,
+   "celex": "31980L0723",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "947c21829d255efb",
+    "ea80d482420c905d",
+    "0402d4c4e6e83ddb",
+    "2446265b42ead628",
+    "b946a31f3225f988",
+    "9da0c96c88fce507",
+    "a5134dd62adf6f54",
+    "1914608173ef6cc7",
+    "211d30ca616206bd",
+    "f17af1cba47bf432"
+   ]
+  },
+  {
+   "date": "2005-12-19",
+   "future": false,
+   "celex": "01980L0723-20051219",
+   "acts": [
+    {
+     "id": "eu:celex:31985L0413:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31985L0413"
+    },
+    {
+     "id": "eu:celex:31993L0084:por",
+     "title": "DIRECTIVA 93/84/CEE DA COMISSÃO de 30 de Setembro de 1993",
+     "published": null,
+     "celex": "31993L0084"
+    },
+    {
+     "id": "eu:celex:32000L0052:por",
+     "title": "DIRECTIVA 2000/52/CE DA COMISSÃO de 26 de Julho de 2000",
+     "published": null,
+     "celex": "32000L0052"
+    },
+    {
+     "id": "eu:celex:32005L0081:por",
+     "title": "DIRECTIVA 2005/81/CE DA COMISSÃO Texto relevante para efeitos do EEE de 28 de Novembro de 2005",
+     "published": null,
+     "celex": "32005L0081"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 3.ºA",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 5.ºA",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o — Para efeitos do disposto na presente directiva entende-se por",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o — A presente directiva não respeita às relações financeiras entre os poderes públicos e",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o"
+   ],
+   "fragments": [
+    "cb5c0267a6a26826",
+    "be711464e7e8b684",
+    "578119ef505497e5",
+    "2726991a46bd5c3e",
+    "184872d3068328a5",
+    "e45330a39bdbc184",
+    "395676604ef80d0c",
+    "76419542f355c760",
+    "7e2c9c71292c70e1",
+    "6f47347ce7fe5621",
+    "6ad2bbe470ce36f9",
+    "4045616d41792800",
+    "b391e256f77b0c99"
+   ]
+  },
+  {
+   "date": "2006-12-20",
+   "future": false,
+   "celex": "01980L0723-20061220",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 3.ºA",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 5.ºA",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "b772be7b68df0130"
+   ]
+  }
+ ],
+ "fragments": {
+  "947c21829d255efb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 80/723/CEE da Comissão, de 25 de Junho de 1980, relativa à transparência das relações financeiras entre os Estados-Membros e as empresas públicas** *Jornal Oficial nº L 195 de 29/07/1980 p. 0035 - 0037 Edição especial finlandesa: Capítulo 8 Fascículo 1 p. 0054 Edição especial grega: Capítulo 08 Fascículo 1 p. 0205 Edição especial sueca: Capítulo 8 Fascículo 1 p. 0054 Edição especial espanhola: Capítulo 08 Fascículo 2 p. 0075 Edição especial portuguesa: Capítulo 08 Fascículo 2 p. 0075*\n\nDIRECTIVA DA COMISSÃO de 25 de Junho de 1980 relativa à transparência das relações financeiras entre os Estados-membros e as empresas públicas\n\n(80/723/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o no 3 do seu artigo 90o,\n\nConsiderando que as empresas públicas desempenham um papel importante na economia nacional dos Estados-membros;\n\nConsiderando que o Tratado CEE em nada prejudica o regime de propriedade nos Estados-membros, devendo pois ser assegurada a igualdade de tratamento entre as empresas públicas e as empresas privadas;\n\nConsiderando que, por força do Tratado CEE, a Comissão tem o dever de assegurar que os Estados-membros não concedam a empresas, sejam elas públicas ou privadas, auxílios incompatíveis com o mercado comum;\n\nConsiderando, contudo, que a complexidade das relações financeiras entre os poderes públicos nacionais e as empresas públicas é de natureza a entravar a execução desta tarefa;\n\nConsiderando, por outro lado, que uma aplicação eficaz e equitativa às empresas públicas e privadas das regras do Tratado CEE respeitantes aos auxílios só pode ser feita na medida em que essas relações financeiras se tornem transparentes;\n\nConsiderando, além disso, que, em matéria de empresas públicas, esta transparência deve permitir uma clara distinção entre o papel do Estado como poder público e como proprietário;\n\nConsiderando que o no 1 do artigo 90o impõe obrigações aos Estados-membros no que respeita às empresas públicas; que o no 3 do mesmo artigo impõe à Comissão que vele pelo respeito dessas obrigações, fornecendo-lhe para o efeito os meios específicos necessários; que tal implica a definição das condições que correspondem à necessidade de transparência acima referida;\n\nConsiderando que é conveniente determinar o que se entende por «poderes públicos» e «empresas públicas»;\n\nConsiderando que os poderes públicos podem exercer uma influência dominante no comportamento das empresas públicas, não só no caso de serem seus proprietários ou nelas deterem uma participação maioritária, mas também em consequência dos poderes que detenham nos seus órgãos de gestão ou de fiscalização, por força de disposições estatutárias ou em consequência da repartição das acções;\n\nConsiderando que a atribuição de recursos públicos a empresas públicas pode fazer-se tanto directa como indirectamente; que é conveniente, portanto, que a transparência seja assegurada independentemente das modalidades segundo as quais se efectue a atribuição de recursos públicos; que convém igualmente, se for caso disso, assegurar um conhecimento adequado das razões da atribuição e da sua utilização efectiva;\n\nConsiderando que os Estados-membros podem prosseguir através das suas empresas públicas, fins não comerciais; que, em alguns casos, as empresas públicas obtêm do Estado uma compensação dos encargos financeiros assumidos por este facto; que a transparência das compensações deve ser igualmente assegurada;\n\nConsiderando que se devem prever exclusões, tanto sectoriais como quantitativas; que, de facto, se devem excluir certos sectores que não pertencem ao sector concorrencial ou que são já objecto de disposições comunitárias especiais que garantem uma transparência adequada, certos sectores cuja natureza especial justifique que sejam objecto de disposições específicas, assim como as empresas públicas cuja reduzida importância económica não justifique os encargos administrativos que podem resultar das medidas a tomar;\n\nConsiderando que a presente directiva não prejudica a aplicação de outras disposições do Tratado CEE e, nomeadamente, do no 2 artigo 90o, e dos artigos 93o e 223o;\n\nConsiderando que, tratando-se de empresas cujas actividades se exercem em concorrência com as de outras empresas, é conveniente assegurar o segredo profissional no que respeita às informações obtidas;\n\nConsiderando que a aplicação da presente directiva deve ser feita em estreita colaboração com os Estados-membros e que, com base na experiência adquirida, convirá, se for caso disso, proceder a uma revisão,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "ea80d482420c905d": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nOs Estados-membros asseguram, nas condições previstas pela presente directiva, a transparência das relações financeiras entre os poderes públicos e as empresas públicas, fazendo ressaltar:\n\na) A atribuição de recursos públicos efectuada directamente pelos poderes públicos às empresas públicas em causa;\n\nb) A atribuição de recursos públicos efectuada pelos poderes públicos, por intermédio de empresas públicas ou de instituições financeiras;\n\nc) A utilização efectiva desses recursos públicos."
+  },
+  "0402d4c4e6e83ddb": {
+   "fragment_id": "Artigo 2o — Para efeitos do disposto na presente directiva entende-se por",
+   "type": "artigo",
+   "heading": "Artigo 2o — Para efeitos do disposto na presente directiva entende-se por",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o — Para efeitos do disposto na presente directiva entende-se por\n\n- poderes públicos:\n\no Estado, bem como outras pessoas colectivas de tipo territorial,\n\n- empresa pública:\n\nqualquer empresa em que os poderes públicos possam exercer, directa ou indirectamente, uma influência dominante em consequência da propriedade, da participação financeira ou das regras que a disciplinem.\n\nPresume-se a existência de influência dominante quando os poderes públicos, directa ou indirectamente, relativamente à empresa:\n\na) Detenham a maioria do capital subscrito da empresa\n\nou\n\nb) Disponham da maioria dos votos atribuídos às partes sociais emitidas pela empresa\n\nou\n\nc) Possam designar mais de metade dos membros do orgão de administração, de direcção ou de fiscalização da empresa."
+  },
+  "2446265b42ead628": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nAs relações financeiras entre os poderes públicos e as empresas públicas, cuja transparência deve ser assegurada nos termos do artigo 1o, são nomeadamente:\n\na) A compensação das perdas de exploração;\n\nb) As entradas de capital ou as dotações;\n\nc) As entradas a fundo perdido ou os empréstimos em condições privilegiadas;\n\nd) A concessão de vantagens financeiras sob forma de não-percepção de benefícios ou de não-cobrança de créditos;\n\ne) A renuncia a uma remuneração normal dos recursos públicos utilizados;\n\nf) A compensação de encargos impostos pelos poderes públicos."
+  },
+  "b946a31f3225f988": {
+   "fragment_id": "Artigo 4o — A presente directiva não respeita às relações financeiras entre os poderes públicos e",
+   "type": "artigo",
+   "heading": "Artigo 4o — A presente directiva não respeita às relações financeiras entre os poderes públicos e",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o — A presente directiva não respeita às relações financeiras entre os poderes públicos e\n\na) As empresas públicas, no que respeita às prestações de serviços que não sejam susceptíveis de afectar sensivelmente as trocas comerciais entre os Estados-membros;\n\nb) As empresas públicas no que respeita à actividade exercida nos sectores seguintes:\n\n- água e energia, incluindo, no que se refere à energia nuclear, a produção de urânio, o seu enriquecimento e o retratamento dos combustíveis irradiados, bem como a preparação dos materiais que contém plutónio,\n\n- correios e telecomunicações,\n\n- transportes;\n\nc) As instituições públicas de crédito;\n\nd) As empresas públicas cujo volume de negócios livre de impostos não tenha atingido um total de 40 milhões de unidades de conta europeias durante os dois anos financeiros anteriores ao da atribuição ou da utilização dos recursos referidos no artigo 1o."
+  },
+  "9da0c96c88fce507": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os Estados-membros tomarão as medidas necessárias para que os dados relativos às relações financeiras referidas no artigo 1o sejam mantidos à disposição da Comissão durante cinco anos a contar do final do ano financeiro durante o qual os recursos públicos tenham sido atribuído às empresas públicas em causa.\n\nContudo, quando os recursos públicos forem utilizados no decurso de um ano financeiro posterior, o prazo de cinco anos começa a correr a partir do final desse mesmo ano.\n\n2. A pedido da Comissão, se esta o considerar necessário, os Estados-membros comunicar-lhe-ao os dados referidos no no 1, bem como os elementos de apreciação eventualmente necessários e, em especial, os objectivos prosseguidos."
+  },
+  "a5134dd62adf6f54": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. A Comissão não divulgará os dados de que tenha conhecimento por força do no 2 do artigo 5o, e que, pela sua natureza, estejam sujeitos a segredo profissional.\n\n2. O disposto no no 1 não constitui obstáculo à publicação de informações gerais ou de estudos que não incluam indicações individuais sobre as empresas públicas a que se aplica a presente directiva."
+  },
+  "1914608173ef6cc7": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nA Comissão informará regularmente os Estados-membros dos resultados da aplicação da presente directiva."
+  },
+  "211d30ca616206bd": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva o mais tardar em 31 de Dezembro de 1981; desse facto informarão a Comissão."
+  },
+  "f17af1cba47bf432": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 25 de Junho de 1980.\n\nPela Comissão\n\nRaymond VOUEL\n\nMembro da Comissão"
+  },
+  "cb5c0267a6a26826": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Junho de 1980\n\nrelativa à transparência das relações financeiras entre os Estados-Membros e as empresas públicas, bem como à transparência financeira relativamente a certas empresas\n\n(80/723/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o n.º 3 do seu artigo 90.º,\n\nConsiderando que as empresas públicas desempenham um papel importante na economia nacional dos Estados-membros;\n\nConsiderando que o Tratado CEE em nada prejudica o regime de propriedade nos Estados-membros, devendo pois ser assegurada a igualdade de tratamento entre as empresas públicas e as empresas privadas;\n\nConsiderando que, por força do Tratado CEE, a Comissão tem o dever de assegurar que os Estados-membros não concedam a empresas, sejam elas públicas ou privadas, auxílios incompatíveis com o mercado comum;\n\nConsiderando, contudo, que a complexidade das relações financeiras entre os poderes públicos nacionais e as empresas públicas é de natureza a entravar a execução desta tarefa;\n\nConsiderando, por outro lado, que uma aplicação eficaz e equitativa às empresas públicas e privadas das regras do Tratado CEE respeitantes aos auxílios só pode ser feita na medida em que essas relações financeiras se tornem transparentes;\n\nConsiderando, além disso, que, em matéria de empresas públicas, esta transparência deve permitir uma clara distinção entre o papel do Estado como poder público e como proprietário;\n\nConsiderando que o n.º 1 do artigo 90.º impõe obrigações aos Estados-membros no que respeita às empresas públicas; que o n.º 3 do mesmo artigo impõe à Comissão que vele pelo respeito dessas obrigações, fornecendo-lhe para o efeito os meios específicos necessários; que tal implica a definição das condições que correspondem à necessidade de transparência acima referida;\n\nConsiderando que é conveniente determinar o que se entende por «poderes públicos» e «empresas públicas»;\n\nConsiderando que os poderes públicos podem exercer uma influência dominante no comportamento das empresas públicas, não só no caso de serem seus proprietários ou nelas deterem uma participação maioritária, mas também em consequência dos poderes que detenham nos seus órgãos de gestão ou de fiscalização, por força de disposições estatutárias ou em consequência da repartição das acções;\n\nConsiderando que a atribuição de recursos públicos a empresas públicas pode fazer-se tanto directa como indirectamente; que é conveniente, portanto, que a transparência seja assegurada independentemente das modalidades segundo as quais se efectue a atribuição de recursos públicos; que convém igualmente, se for caso disso, assegurar um conhecimento adequado das razões da atribuição e da sua utilização efectiva;\n\nConsiderando que os Estados-membros podem prosseguir através das suas empresas públicas, fins não comerciais; que, em alguns casos, as empresas públicas obtêm do Estado uma compensação dos encargos financeiros assumidos por este facto; que a transparência das compensações deve ser igualmente assegurada;\n\nConsiderando que se devem prever exclusões, tanto sectoriais como quantitativas; que, de facto, se devem excluir certos sectores que não pertencem ao sector concorrencial ou que são já objecto de disposições comunitárias especiais que garantem uma transparência adequada, certos sectores cuja natureza especial justifique que sejam objecto de disposições específicas, assim como as empresas públicas cuja reduzida importância económica não justifique os encargos administrativos que podem resultar das medidas a tomar;\n\nConsiderando que a presente directiva não prejudica a aplicação de outras disposições do Tratado CEE e, nomeadamente, do n.º 2 artigo 90.º, e dos artigos 93.º e 223.º;\n\nConsiderando que, tratando-se de empresas cujas actividades se exercem em concorrência com as de outras empresas, é conveniente assegurar o segredo profissional no que respeita às informações obtidas;\n\nConsiderando que a aplicação da presente directiva deve ser feita em estreita colaboração com os Estados-membros e que, com base na experiência adquirida, convirá, se for caso disso, proceder a uma revisão,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "be711464e7e8b684": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os Estados-Membros assegurarão, nos termos da presente directiva, a transparência das relações financeiras entre os poderes públicos e as empresas públicas, fazendo ressaltar:\n\na) A atribuição de recursos públicos efectuada directamente pelo poderes públicos às empresas públicas em causa;\n\nb) A atribuição de recursos públicos efectuada pelos poderes públicos por intermédio de empresas públicas ou instituições financeiras;\n\nc) A utilização efectiva desses recursos públicos.\n\n2. Sem prejuízo de disposições específicas adoptadas pela Comunidade, os Estados-Membros assegurarão que a estrutura financeira e organizativa de quaisquer empresas obrigadas a manter contas distintas seja reflectida de forma adequada nessas contas, de modo a fazer ressaltar:\n\na) Os custos e receitas associados às diferentes actividades;\n\nb) Elementos pormenorizados sobre os métodos através dos quais os custos e as receitas são afectados ou imputados às diferentes actividades."
+  },
+  "578119ef505497e5": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Para efeitos da presente directiva, entende-se por:\n\na) «Poderes públicos», todas as autoridades públicas, incluindo o Estado, as autoridades regionais e locais e todas as outras pessoas colectivas de carácter territorial;\n\nb) «Empresa pública», qualquer empresa em que os poderes públicos possam exercer, directa ou indirectamente, uma influência dominante em consequência da propriedade, da participação financeira ou das regras que a disciplinam;\n\nc) «Empresa pública que opera no sector transformador», qualquer empresa cuja área principal de actividade, definida como representando pelo menos 50 % do volume de negócios anual total, seja as actividades de transformação. Estas empresas são as empresas cujas actividades podem ser incluídas na secção D — Indústria transformadora (da subsecção DA até à DN inclusive) da classificação NACE (Rev. 1) ([^1^](http://publications.europa.eu/resource/cellar/a9b1a8fe-e8a9-4c25-8a3e-92cb968ffe85.0016.03/DOC_1#E0001)).\n\nd) «empresa obrigada a elaborar contas distintas», qualquer empresa que beneficie de um direito especial ou exclusivo concedido por um Estado-Membro, ao abrigo do n.º 1 do artigo 86.º do Tratado, ou que tenha sido encarregada da gestão de um serviço de interesse económico geral, ao abrigo do n.º 2 do artigo 86.º do Tratado, e que receba uma compensação em relação a esse serviço público, qualquer que seja a forma que a mesma assuma, e que prossiga outras actividades;\n\ne) «Diferentes actividades», por um lado, todos os produtos ou serviços relativamente aos quais tenham sido concedidos direitos especiais ou exclusivos a uma empresa ou todos os serviços de interesse económico geral de cuja gestão uma empresa tenha sido encarregada e, por outro, todos os outros produtos ou serviços abrangidos pela actividade da empresa;\n\nf) «Direitos exclusivos», os direitos concedidos por um Estado-Membro a uma empresa, através de qualquer acto legislativo, regulamentar ou administrativo, que lhe reservam o direito de prestar um serviço ou de exercer uma actividade numa determinada área geográfica;\n\ng) «Direitos especiais», os direitos concedidos por um Estado-Membro a um número limitado de empresas, através de qualquer acto legislativo, regulamentar ou administrativo, que, numa determinada área geográfica,\n\n— limitam a dois ou mais o número de tais empresas, autorizadas a prestar um serviço ou a exercer uma actividade, sem ser em função de critérios objectivos, proporcionais e não discriminatórios, ou\n\n— designam, sem ser em função de tais critérios, várias empresas em concorrência, como estando autorizadas a prestar um serviço ou a exercer uma actividade, ou\n\n— conferem a uma ou mais empresas, sem ser em função de tais critérios, quaisquer vantagens de carácter legal ou regulamentar que afectam substancialmente a capacidade de qualquer outra empresa prestar o mesmo serviço ou exercer a mesma actividade na mesma área geográfica sob condições substancialmente equivalentes.\n\n2. Presume-se a existência de influência dominante quando os poderes públicos, directa ou indirectamente, relativamente à empresa:\n\na) Tenham a maioria do capital subscrito da empresa;\n\nb) Disponham da maioria dos votos atribuídos às partes sociais emitidas pela empresa, ou\n\nc) Possam designar mais de metade dos membros do órgão de administração, de direcção ou de fiscalização da empresa."
+  },
+  "2726991a46bd5c3e": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs relações financeiras entre os poderes públicos e as empresas públicas, cuja transparência deve ser assegurada nos termos do [**►M3**](http://publications.europa.eu/resource/celex/32000L0052) n.º 1 do artigo 1.º **◄**, são nomeadamente:\n\na) A compensação das perdas de exploração;\n\nb) As entradas de capital ou as dotações;\n\nc) As entradas a fundo perdido ou os empréstimos em condições privilegiadas;\n\nd) A concessão de vantagens financeiras sob forma de não-percepção de benefícios ou de não-cobrança de créditos;\n\ne) A renúncia a uma remuneração normal dos recursos públicos utilizados;\n\nf) A compensação de encargos impostos pelos poderes públicos."
+  },
+  "184872d3068328a5": {
+   "fragment_id": "Artigo 3.ºA",
+   "type": "artigo",
+   "heading": "Artigo 3.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.ºA\n\n1. A fim de garantir a transparência a que se refere o n.º 2 do artigo 1.º, os Estados-Membros tomarão as medidas necessárias para assegurar que, em todas as empresas obrigadas a manter contas distintas:\n\na) Sejam estabelecidas contas de exploração distintas em relação às diferentes actividades;\n\nb) Todos os custos e receitas sejam correctamente afectados ou imputados, com base na aplicação coerente de princípios contabilísticos de custeio fundados em bases objectivas;\n\nc) Os princípios contabilísticos de custeio com base nos quais são elaboradas as contas distintas são claramente estabelecidos.\n\n2. O disposto no n.º 1 só é aplicável às actividades não abrangidas por disposições específicas adoptadas pela Comunidade e não prejudica eventuais obrigações que decorram do Tratado CE ou das referidas disposições específicas para os Estados-Membros ou para as empresas."
+  },
+  "e45330a39bdbc184": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Relativamente à transparência a que se refere o n.º 1 do artigo 1.º, a presente directiva não é aplicável às relações financeiras entre os poderes públicos e:\n\na) As empresas públicas, no que se refere à prestação de serviços não susceptíveis de afectar sensivelmente o comércio entre os Estados-Membros;\n\nb) Os bancos centrais;\n\nc) As instituições públicas de crédito, no que respeita ao depósito de fundos públicos pelos poderes públicos em condições comerciais normais;\n\nd) As empresas públicas cujo volume de negócios líquido total durante os dois exercícios anteriores àquele em que os fundos referidos no n.º 1 do artigo 1.º foram colocados à disposição ou utilizados foi inferior a 40 milhões de euros. Todavia, no que respeita às instituições públicas de crédito, este limiar é um balanço total de 800 milhões de euros.\n\n2. Relativamente à transparência a que se refere o n.º 2 do artigo 1.º, a presente directiva não é aplicável:\n\na) Às empresas, no que respeita às prestações de serviços que não sejam susceptíveis de afectar o comércio entre Estados-Membros de forma apreciável;\n\nb) Às empresas cujo volume de negócios líquido total durante os dois exercícios anteriores àquele em que beneficiaram de um direito especial ou exclusivo concedido por um Estado-Membro, nos termos do n.º 1 do artigo 86.º do Tratado, ou em que foram encarregadas da gestão de um serviço de interesse económico geral, nos termos do n.º 2 do artigo 86.º do Tratado, foi inferior a 40 milhões de euros. Todavia, no que respeita às instituições públicas de crédito, este limiar é um balanço total de 800 milhões de euros;\n\nc) Às empresas que foram encarregadas da gestão de serviços de interesse económico geral, nos termos do n.º 2 do artigo 86.º do Tratado CE, se o auxílio estatal, independentemente da forma que assuma, incluindo qualquer subvenção, apoio ou compensação que recebam, tiver sido fixado por um período adequado na sequência de um procedimento aberto, transparente e não discriminatório."
+  },
+  "395676604ef80d0c": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros tomarão as medidas necessárias para que os dados relativos às relações financeiras referidas no n.º 1 do artigo 1.º sejam mantidos à disposição da Comissão durante um período de cinco anos a contar do final do exercício durante o qual os recursos públicos tenham sido atribuídos às empresas públicas em causa. Todavia, sempre que os fundos públicos forem utilizados no decurso de um exercício posterior, o prazo de cinco anos começa a correr no final desse exercício.\n\n2. Os Estados-Membros tomarão as medidas necessárias para que as informações relativas à estrutura financeira e organizativa das empresas a que se refere o n.º 2 do artigo 1.º sejam mantidas à disposição da Comissão durante um período de cinco anos a contar do final do exercício a que essas informações se referem.\n\n3. Os Estados-Membros fornecerão à Comissão, quando esta o solicitar, todas as informações referidas nos n.^os^ 1 e 2, conjuntamente com qualquer informação de apoio necessária, essencialmente relativa aos objectivos prosseguidos."
+  },
+  "76419542f355c760": {
+   "fragment_id": "Artigo 5.ºA",
+   "type": "artigo",
+   "heading": "Artigo 5.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.ºA\n\n1. Os Estados-membros cujas empresas públicas operem no sector transformador fornecerão anualmente à Comissão as informações de carácter financeiro fixadas no n.º 2 segundo o calendário incluído no n.º 4.\n\n2. As informações de carácter financeiro exigidas relativamente a cada empresa pública que opera no sector transformador, em conformidade com o disposto no n.º 3, são as seguintes:\n\ni) O relatório de gestão e as contas anuais, em conformidade com a definição prevista na Quarta Directiva 78/660/CEE do Conselho ([^2^](http://publications.europa.eu/resource/cellar/a9b1a8fe-e8a9-4c25-8a3e-92cb968ffe85.0016.03/DOC_1#E0002)) relativa às contas das sociedades. As contas anuais e o relatório de gestão incluem o balanço e a conta de resultados, o anexo bem como a descrição dos princípios contabilísticos, a declaração do conselho de administração, informações por sector e o relatório de actividades. Além disso, devem igualmente ser comunicadas as convocatórias das assembleias de sócios e quaisquer outras informações pertinentes.\n\nNa medida em que não constem do relatório de gestão ou das contas anuais, devem ser igualmente fornecidas relativamente a cada empresa as seguintes informações:\n\nii) Contribuições em capital sob a forma de participações ou quase-capital equiparável a capital social; devem ser precisadas as condições da contribuição (participações comuns, privilegiadas, diferidas ou convertíveis e taxas de juro, dividendos ou direitos de conversão a elas relativas);\n\niii) Subvenções não reembolsáveis ou reembolsáveis apenas em determinadas condições;\n\niv) Concessão de empréstimos à empresa, incluindo os empréstimos a descoberto e os adiantamentos sobre injecções de capital; há que especificar as taxas de juro e as condições do empréstimo e, sendo caso disso, as garantias fornecidas ao mutuante pela empresa beneficiária do empréstimo;\n\nv) Garantias concedidas à empresa pelas autoridades públicas relativamente a empréstimos; há que especificar as condições e os prémios eventuais pagos pela empresa relativamente a essas garantias;\n\nvi) Dividendos pagos e lucros não distribuídos;\n\nvii) Qualquer outra forma de intervenção estatal, em especial a renúncia por parte do Estado a montantes que lhe são devidos pela empresa, incluindo, nomeadamente, o reembolso de empréstimos ou de subvenções, o pagamento de impostos sobre as sociedades, de encargos sociais ou de dívidas similares.\n\n3. As informações a que se refere o n.º 2 são fornecidas relativamente a todas as empresas públicas que tenham realizado, durante o exercício mais recente, um volume de negócios superior a 250 milhões de [**►M3**](http://publications.europa.eu/resource/celex/32000L0052) euros**◄**.\n\nAs informações exigidas são fornecidas separadamente em relação a cada empresa pública, incluindo as estabelecidas noutros Estados-membros e incluirão, se for caso disso, informações sobre todas as transacções efectuadas no interior de um mesmo grupo e entre diferentes grupos de empresas públicas, bem como as efectuadas directamente entre as empresas públicas e o Estado. O capital-acções referido na alínea ii) do n.º 2 inclui, para além do capital-participações fornecido directamente pelo Estado, o capital proveniente de *holdings* públicas e de outras empresas públicas (incluindo instituições financeiras) quer pertençam ou não ao mesmo grupo. A relação entre o mutuante e o beneficiário deve ser sempre especificada. Do mesmo modo, os relatórios referidos no n.º 2 são fornecidos relativamente a cada empresa pública em separado, bem como em relação à (sub)-*holding* no âmbito da qual várias empresas públicas se encontram reunidas, desde que, com base nas suas vendas consolidadas, a (sub)—*holding* pertença ao sector transformador tal como definido no artigo 2.º.\n\nDeterminadas empresas públicas repartem as suas actividades entre várias empresas juridicamente distintas. Relativamente a estas empresas, a Comissão aceita um relatório consolidado. Esta consolidação deve reflectir a realidade económica de um grupo de empresas que operam num mesmo sector ou em sectores estreitamente associados. Os relatórios consolidados de diversas *holdings* puramente financeiras não são suficientes.\n\n4. As informações a que se refere o n.º 2 serão fornecidas anualmente à Comissão. As informações relativas ao exercício financeiro de 1992 serão comunicadas à Comissão num prazo de dois meses a contar da data de publicação da presente directiva.\n\nRelativamente a 1993 e anos subsequentes, as informações serão fornecidas num prazo de 15 dias úteis a contar da data de publicação do relatório de gestão da empresa pública em causa. De qualquer modo, e em especial para as empresas que não publicam relatório de gestão, as informações exigidas serão comunicadas num prazo máximo de nove meses a contar do encerramento do exercício financeiro da empresa.\n\nA fim de permitir à Comissão determinar o número de empresas abrangidas pelo sistema de relatórios, os Estados-membros comunicar-lhe-ão, num prazo de dois meses a contar da publicação da presente directiva, uma lista das empresas abrangidas pelo artigo 5.ºA, indicando o respectivo volume de negócios. Esta lista será actualizada até 31 de Março de cada ano.\n\n5. O presente artigo só é aplicável às empresas pertencentes ao Treuhandanstalt ou controladas por este a partir da data do termo da vigência do sistema especial de relatórios instituído relativamente aos investimentos deste organismo.\n\n6. Os Estados-membros fornecerão à Comissão quaisquer informações complementares que esta considerar necessárias para apreciar com total conhecimento de causa os dados que lhe são comunicados."
+  },
+  "7e2c9c71292c70e1": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A Comissão não divulgará os dados de que tenha conhecimento por força do [**►M3**](http://publications.europa.eu/resource/celex/32000L0052) n.º 3 do artigo 5.º **◄**, e que, pela sua natureza, estejam sujeitos a segredo profissional.\n\n2. O disposto no n.º 1 não constitui obstáculo à publicação de informações gerais ou de estudos que não incluam indicações individuais sobre as empresas públicas a que se aplica a presente directiva."
+  },
+  "6f47347ce7fe5621": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA Comissão informará regularmente os Estados-membros dos resultados da aplicação da presente directiva."
+  },
+  "6ad2bbe470ce36f9": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva o mais tardar em 31 de Dezembro de 1981; desse facto informarão a Comissão."
+  },
+  "4045616d41792800": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros são destinatários da presente directiva.\n\n---"
+  },
+  "b391e256f77b0c99": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a9b1a8fe-e8a9-4c25-8a3e-92cb968ffe85.0016.03/DOC_1#src.E0001)) JO L 83 de 3.4.1993, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/a9b1a8fe-e8a9-4c25-8a3e-92cb968ffe85.0016.03/DOC_1#src.E0002)) L 222 de 14. 8. 1978, p. 11."
+  },
+  "b772be7b68df0130": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1980L0723 — PT — 20.12.2006 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31980L0723) [DIRECTIVA DA COMISSÃO](http://publications.europa.eu/resource/celex/31980L0723) [de 25 de Junho de 1980](http://publications.europa.eu/resource/celex/31980L0723) [relativa à transparência das relações financeiras entre os Estados-Membros e as empresas públicas, bem como à transparência financeira relativamente a certas empresas](http://publications.europa.eu/resource/celex/31980L0723) [(80/723/CEE)](http://publications.europa.eu/resource/celex/31980L0723) (JO L 195, 29.7.1980, p.35)\n\n**revogado por:**\n\n- [Directiva 2006/111/CE da Comissão de 16 de Novembro 2006](http://publications.europa.eu/resource/celex/32006L0111) — L 318 — 17 — 17.11.2006"
+  }
+ }
+}

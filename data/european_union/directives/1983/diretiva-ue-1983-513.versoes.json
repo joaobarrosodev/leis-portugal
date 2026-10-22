@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31983L0513:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01983L0513-20121222",
+ "dre_path": null,
+ "source_lastmod": "2012-12-22",
+ "versions": [
+  {
+   "date": "1983-10-24",
+   "future": false,
+   "celex": "31983L0513",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d789c54ba4a82b4a",
+    "52aaaa11afa9aa54",
+    "55ba95e50e9ca11a",
+    "1f257bf95fc752fe",
+    "3c68c60ac0abacdf",
+    "349bf7b21a6d92cd",
+    "f936dc16c8a0caab",
+    "3c9111a2503ffbe2",
+    "7f41e2926b5c0e21",
+    "54656f16111f5885",
+    "42fceea7486158ef",
+    "d86dcdbc9ee755ce",
+    "871cbb7a315e231b"
+   ]
+  },
+  {
+   "date": "2009-01-13",
+   "future": false,
+   "celex": "01983L0513-20090113",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime ANEXO I — Valores límite, prazos fixados para a entrada em vigor desses valores e procedimentos de fiscalização e de controlo a aplicar às descargas",
+    "Suprime ANEXO II — Objectivos de qualidade",
+    "Suprime ANEXO III — Métodos de medida de referência",
+    "Suprime ANEXO IV — Procedimento de controlo para os objectivos de qualidade"
+   ],
+   "fragments": [
+    "a88894249e29b812"
+   ]
+  },
+  {
+   "date": "2012-12-22",
+   "future": false,
+   "celex": "01983L0513-20121222",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "f0698c787b8644f6"
+   ]
+  }
+ ],
+ "fragments": {
+  "d789c54ba4a82b4a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 83/513/CEE do Conselho, de 26 de Setembro de 1983, relativa aos valores-limite e aos objectivos de qualidade para as descargas de cádmio** *Jornal Oficial nº L 291 de 24/10/1983 p. 0001 - 0008 Edição especial espanhola: Capítulo 15 Fascículo 4 p. 0131 Edição especial portuguesa: Capítulo 15 Fascículo 4 p. 0131 Edição especial finlandesa: Capítulo 15 Fascículo 4 p. 0140 Edição especial sueca: Capítulo 15 Fascículo 4 p. 0140*\n\nDIRECTIVA DO CONSELHO de 26 de Setembro de 1983 relativa aos valores-limite e aos objectivos de qualidade para as descargas de cádmio\n\n(83/513/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100o e 235o,\n\nTendo em conta a Directiva 76/464/CEE do Conselho, de 4 de Maio de 1976, relativa à poluição causada por determinadas substâncias perigosas derramadas no meio aquático da Comunidade (1) e, nomeadamente, os seus artigos 6o e 12o,\n\nTendo em conta a proposta da Comissão (2),\n\nTendo em conta o parecer do Parlamento Europeu (3),\n\nTendo em conta o parecer do Comité Económico e Social (4),\n\nConsiderando que, para proteger o meio aquático da Comunidade contra a poluição causada por determinadas substâncias perigosas, o artigo 3o da Directiva 76/464/CEE instaura um regime de autorizações prévias que fixa normas de emissão para as descargas das substâncias constantes da Lista I que figura no seu anexo; que o artigo 6o da referida directiva prevê não só a fixação de valores-limite para as normas de emissão, mas também a fixação de objectivos de qualidade para o meio aquático afectado pelas descargas dessas substâncias;\n\nConsiderando que o cádmio e os seus compostos estão incluídos na Lista I;\n\nConsiderando que os Estados-membros devem aplicar os valores-limite, excepto nos casos em que possam recorrer aos objectivos de qualidade;\n\nConsiderando que, dado que a poluição causada pelas descargas de cádmio na água é provocada por um grande número de indústrias, é necessário fixar valores-limite específicos para cada tipo de indústria e fixar objectivos de qualidade para o meio aquático no qual o cádmio é descarregado por essas indústrias;\n\nConsiderando que não é contudo possível, actualmente, fixar valores-limite para as descargas resultantes do fabrico de ácido fosfórico e de adubos fosfatados a partir de minério fosfatado;\n\nConsiderando que a finalidade dos objectivos de qualidade deve ser eliminar a poluição originada pelo cádmio, existentes nas diferentes partes do meio aquático que poderiam ser afectadas por descargas de cádmio;\n\nConsiderando que esses objectivos de qualidade devem ser fixados expressamente para esse efeito e não com a intenção de estabelecer regras relativas à protecção dos consumidores ou à comercialização de produtos provenientes do meio aquático;\n\nConsiderando que, para que os Estados-membros possam provar que os objectivos de qualidade são respeitados, é conveniente prever um procedimento de controlo específico;\n\nConsiderando que se deve prever a fiscalização por parte dos Estados-membros do meio aquático afectado pelas descargas de cádmio acima referidas, com vista a uma aplicação eficaz da presente directiva; que os poderes para instaurar uma tal fiscalização não estão previstos no artigo 6o da Directiva 76/464/CEE; que, dado que os poderes de acção específicos para a adopção da presente directiva não estão previstos no Tratado, é conveniente recorrer ao seu artigo 235o;\n\nConsiderando que é importante que a Comissão transmita ao Conselho, de cinco em cinco anos, os resultados de uma avaliação comparada da aplicação da presente directiva pelos Estados-membros;\n\nConsiderando que, dado que as águas subterrâneas são objecto da Directiva 80/68/CEE (5), não entram no campo de aplicação da presente Directiva;\n\nConsiderando que o nível de industrialização da Gronelândia é muito fraco, devido à situação geral desta ilha e, nomeadamente, ao seu fraco povoamento, assim como à sua extensão considerável e à sua situação geográfica especifica; que, portanto, não se deve aplicar a presente directiva à Gronelândia,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "52aaaa11afa9aa54": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva:\n\n- fixa, nos termos do no 1, do artigo 6o da Directiva 76/464/CEE, os valores-limite das normas de emissão do cádmio, para as descargas provenientes dos estabelecimentos industriais, na acepção da alínea e) do artigo 2o, da presente Directiva,\n\n- fixa, nos termos do no 2, do artigo 6o da Directiva 76/464/CEE, os objectivos de qualidade para o meio aquático em relação ao cádmio,\n\n- fixa, nos termos do no 4, do artigo 6o da Directiva 76/464/CEE, os prazos estabelecidos para o cumprimento das condições previstas nas autorizações concedidas pelas autoridades competentes dos Estados-membros, no que se refere às descargas existentes;\n\n- fixa, nos termos do no 1, do artigo 12o da Directiva 76/464/CEE, os métodos de medida de referência que permitem determinar o teor em cádmio nas descargas e no meio aquático,\n\n- estabelece, nos termos do no 3, do artigo 6o da Directiva 76/464/CEE, um procedimento de controlo,\n\n- prescreve que os Estados-membros devem colaborar entre si sempre que as descargas afectarem as águas de vários Estados-membros.\n\n2. A presente Directiva é aplicável às águas referidas no artigo 1o da Directiva 76/464/CEE, com excepção das águas subterrâneas."
+  },
+  "55ba95e50e9ca11a": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nNa acepção da presente Directiva, entende-se por:\n\na) «Cádmio»:\n\n- o cádmio no estado elementar,\n\n- o cádmio contido num dos seus compostos;\n\nb) «Valores-limite»:\n\nOs valores que figuram no Anexo I;\n\nc) «Objectivos de qualidade»:\n\nAs exigências que figuram no Anexo II;\n\nd) «Tratamento do cádmio»:\n\nQualquer processo industrial que implique a produção ou a utilização do cádmio ou qualquer outro processo industrial ao qual seja inerente a presença do cádmio;\n\ne) «Estabelecimento industrial»:\n\nQualquer estabelecimento onde se efectue o tratamento do cádmio ou de qualquer outra substância que contenha cádmio;\n\nf) «Estabelecimento existente»:\n\nO estabelecimento industrial em actividade na data de notificação da presente directiva;\n\ng) «Novo estabelecimento»:\n\n- o estabelecimento industrial que iniciou a sua actividade após a data de notificação da presente Directiva,\n\n- o estabelecimento industrial existente cuja capacidade de tratamento do cádmio tenha sido consideravelmente aumentada, após a data de notificação da presente Directiva."
+  },
+  "1f257bf95fc752fe": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os valores-limite, os prazos fixados para a entrada em vigor destes valores e o procedimento de fiscalização e de controlo a aplicar às descargas, figuram no Anexo I.\n\n2. Os valores-limite aplicam-se, normalmente, no ponto onde as águas residuais que contêm cádmio saem do estabelecimento industrial.\n\nSe as águas residuais que contêm cádmio forem tratadas fora do estabelecimento industrial, numa instalação de tratamento destinada a eliminar o cádmio, o Estado-membro pode permitir que os valores-limite sejam aplicados no ponto onde as águas residuais saem da instalação de tratamento.\n\n3. As autorizações previstas no artigo 3o, da Directiva 76/464/CEE, devem incluir disposições que sejam tão rigorosas como as que figuram no Anexo I da presente directiva, salvo no caso em que um Estado-membro der cumprimento ao disposto no no 3, do artigo 6o, da Directiva 76/464/CEE, com base nos anexos II e IV da presente Directiva.\n\nEstas autorizações serão reexaminadas, pelo menos, de quatro em quatro anos.\n\n4. Sem prejuízo das suas obrigações decorrentes dos no 1, 2 e 3, assim como das disposições da Directiva 76/464/CEE, os Estados-membros só podem conceder autorizações para os novos estabelecimentos se estes estabelecimentos aplicarem as normas que correspondentes aos melhores meios técnicos disponíveis, quando tal for necessário para eliminar a poluição, nos termos do artigo 2o da referida directiva, ou para impedir as distorções de concorrência.\n\nQualquer que seja o método adoptado, se, por razões técnicas, as medidas previstas não corresponderem aos melhores meios técnicos disponíveis, o Estado-membro fornecerá à Comissão, previamente a qualquer autorização, as justificações de tais razões.\n\nA Comissão transmitirá imediatamente essas justificações aos outros Estados-membros e dirigirá a todos os Estados-membros, o mais rapidamente possível, um relatório com o seu parecer sobre a derrogação referida no segundo parágrafo. Se necessário, a Comissão apresentará simultaneamente propostas adequadas ao Conselho.\n\n5. O método de análise de referência a utilizar para determinar a presença de cádmio, figura no ponto 1 do Anexo III. Podem ser utilizados outros métodos, desde que os limites de detecção, a precisão e a exactidão desses métodos sejam, pelo menos, tão válidos como os que figuram no ponto 1 do Anexo III. A exactidão exigida para a medida do débito dos efluentes figura no ponto 2 do Anexo III."
+  },
+  "3c68c60ac0abacdf": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs Estados-membros em causa assegurarão a fiscalização do meio aquático afectado pelas descargas dos estabelecimentos industriais.\n\nSempre que descargas afectem as águas de vários Estados-membros, estes colaborarão de modo a harmonizar os procedimentos de fiscalização."
+  },
+  "349bf7b21a6d92cd": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Com base nas informações que lhe forem fornecidas pelos Estados-membros, nos termos do artigo 13o da Directiva 76/464/CEE, e a seu pedido, apresentado caso a caso, em especial no que se refere:\n\n- aos pormenores relativos às autorizações que fixam as normas de emissão para as descargas de cádmio,\n\n- aos resultados do inventário das descargas de cádmio efectuadas nas águas referidas no no 2 do artigo 1o,\n\n- aos resultados das medições efectuadas pela rede nacional instituída com vista a determinar as concentrações em cádmio,\n\na Comissão procederá a uma avaliação comparativa da aplicação da presente Directiva pelos Estados-membros.\n\n2. De cinco em cinco anos e, pela primeira vez, quatro anos a contar da notificação da presente directiva, a Comissão transmitirá ao Conselho os resultados da avaliação comparativa referida no no 1.\n\n3. Caso haja modificação dos conhecimentos científicos relativos, principalmente, à toxicidade, à persistência e à acumulação do cádmio nos organismos vivos e nos sedimentos ou em caso de aperfeiçoamento dos melhores meios técnicos disponíveis, a Comissão apresentará ao Conselho propostas adequadas destinadas a reforçar, se necessário, os valores-limite e os objectivos de qualidade ou a fixar novos valores-limite e novos objectivos de qualidade."
+  },
+  "f936dc16c8a0caab": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os Estados-membros aplicarão as medidas necessárias para dar cumprimento à presente directiva no prazo de dois anos a contar da sua notificação. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito nacional que adoptarem no domínio regulado pela presente Directiva."
+  },
+  "3c9111a2503ffbe2": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nA presente Directiva não se aplica à Gronelândia."
+  },
+  "7f41e2926b5c0e21": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros são destinatários da presente Directiva.\n\nFeito em Bruxelas em 26 de Setembro de 1983.\n\nPelo Conselho\n\nO Presidente\n\nC. SIMITIS\n\n(1) JO no L 129 de 18. 5. 1976, p. 23.(2) JO no C 118 de 21. 5. 1981, p. 3.(3) JO no C 334 de 20. 12. 1982, p. 138.(4) JO no C 230 de 10. 9. 1981, p. 22.(5) JO no L 20 de 26. 1. 1980, p. 43."
+  },
+  "54656f16111f5885": {
+   "fragment_id": "ANEXO I — Valores límite, prazos fixados para a entrada em vigor desses valores e procedimentos de fiscalização e de controlo a aplicar às descargas",
+   "type": "divisao",
+   "heading": "ANEXO I — Valores límite, prazos fixados para a entrada em vigor desses valores e procedimentos de fiscalização e de controlo a aplicar às descargas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Valores límite, prazos fixados para a entrada em vigor desses valores e procedimentos de fiscalização e de controlo a aplicar às descargas\n\n1. Valores limite e prazos\n\n>(1)(2)\"> ID=\"1\">1. Extracção do zinco, refinação do chumbo e do zinco, indústria de metais não ferrosos e do cádmio metálico> ID=\"2\">Miligramas de cadmio por litro descarregado> ID=\"3\">0,3 (3)> ID=\"4\">0,2 (3)\"> ID=\"1\" ASSV=\"2\">2. Fabrido de compostos de cádmio> ID=\"2\">Miligramas de cádmio por litro descarregado> ID=\"3\">0,5 (3)> ID=\"4\">0,2 (3)\"> ID=\"2\">Gramas de cádmio descarregado por quilograma de cádmio tratado> ID=\"3\">0,5 (4)> ID=\"4\">(5)\"> ID=\"1\" ASSV=\"2\">3. Fabrico de pigmentos> ID=\"2\">Miligramas de cádmio por litro descarregado> ID=\"3\">0,5 (3)> ID=\"4\">0,2 (3)\"> ID=\"2\">Gramas de cádmio por litro descarregado por quilograma de cádmio tratado> ID=\"3\">0,3 (4)> ID=\"4\">(5)\"> ID=\"1\" ASSV=\"2\">4. Fabrico de estabilizantes> ID=\"2\">Miligramas de cádmio por litro descarregado> ID=\"3\">0,5 (3)> ID=\"4\">0,2 (3)\"> ID=\"2\">Gramas de cádmio descarregado pro quilograma de cádmio tratado> ID=\"3\">0,5 (4)> ID=\"4\">(5)\"> ID=\"1\" ASSV=\"2\">5. Fabrico de baterias primarias e secundárias> ID=\"2\">Miligramas de cádmio por litro descarregado> ID=\"3\">0,5 (3)> ID=\"4\">0,2 (3)\"> ID=\"2\">Gramas de cádmio descarregado por quilograma de cádmio tratado> ID=\"3\">1,5 (4)> ID=\"4\">(5)\"> ID=\"1\" ASSV=\"2\">6. Electrodeposição (6)> ID=\"2\">Miligramas de cádmio por litro descarregado> ID=\"3\">0,5 (3)> ID=\"4\">0,2 (3)\"> ID=\"2\">Gramas de cádmio descarregado por quilograma de cádmio tratado> ID=\"3\">0,3 (4)> ID=\"4\">(5)\"> ID=\"1\">7. Fabrico de ácido fosfórico e/ou de adubos fosfatados a partir do minério fosfatado (7)> ID=\"2\"\" ID=\"3\">-> ID=\"4\">-\"\">\n\n2. Os valores-limite, expressos em termos de concentração, que, em princípio, não devem ser ultrapassados, figuram, para os sectores industriais da rubicas 2, 3, 4, 5 e 6, no quadro acima. Os valores-limite expressos em concentrações mácimas nunca podem ser superiores aos valores expressos em quantidades máximas, divididas pelas necessidades de água por quilograma de cádmio tratado. Porém, dado que a concentração de cádmio nos efluentes depende do volume de água necessário, o qual difere conforme os diversos processos e estabelecimentos, devem sempre ser respeitados, os valores-limite, expressos em termos de quantidade de cádmio descarregado em relação à quantidade de cádmio tratado, que figuram no quadro acima.\n\n3. Os valores-limite das médias diárias são iguais ao dobro dos valores-limite das médias mensais correspondentes, que figuram no quadro acima.\n\n4. Para verificar se as descargas satisfazem as normas de emissão fixadas de acordo com os valores-limite definidos no presente anexo, deverá instituído um procedimento de controlo.\n\nEste procedimento deverá prever a colheita a análise de amostras bem como a medição do débito das descargas e da quantidade de cádmio tratado.\n\nSe for impossível determinar a quantidade de cádmio tratado, o procedimento de controlo pode basear-se na quantidade de cádmio que pode ser utilizado, em função da capacidade de produção na qual se baseia a autorização.\n\n5. Recolher-se-á uma amostra representativa da descarga, durante um período de vinte e quatro horas. A quantidade de cádmio descarregada ao longo de um mês deve ser calculada com base nas quantidades de cádmio descarregadas diariamente.\n\nPorém, poderá ser instaurado um procedimento de controlo simplificado para os estabelecimentos industriais que não descarreguem mais de 10 kg de cádmio por ano. Relativamente aos estabelecimentos industriais de electrodeposição, só poderá ser instaurado um procedimento de controlo simplificado se o volume total das tinas de electrodeposição for inferior a 1,5 m3.\n\n(1) Para os sectores industriais não mencionados no presente quadro, os valores-limite serão fixados, se necessário, pelo Conselho, numa fase ulterior, Entretanto, os Estados-membros fixarão, de forma autónoma, nos termos da Directiva 76/464/CEE, normas de emissão para as descargas de cádmio. Estas normas devem ter em conta os melhores meiso técnicos disponíveis e não devem ser menos rigorosas do que o valor-limite mais comparável contido no presente anexo.\n\n(2) Com base na experiência adquirida pela aplicação da presente directiva, a Comissão apresentará ao Conselho, nos termos do no 3, do artigo 5o, em tempo útil, propostas, destinadas a fixar valores-limite mais restritivos, com vista à sua entrada em vigor em 1992.\n\n(3) Concentração média mensal em cádmio total, ponderado segundo o débito do afluente.\n\n(4) Média mensal.\n\n(5) É impossível, presentemente, fixar valores-limite expressos em peso. O Conselho fixará estes valores, se for caso disso, em conformidade com o no 3, do artigo 5o, da presente directiva. Se o Conselho não fixar valores-limite, serão mantidos os valores expressos em peso, que figuram na coluna «1 de Janeiro de 1986».\n\n(6) Os Estados-membros podem suspender, até 1 de Janeiro de 1989, a aplicação dos valores-limite para os estabelecimentos que não descarregam mais de 10 kg de cádmio por ano e cujo volume total das tinas de electrodeposição é inferior a 1,5 m3, quando a situação técnica ou administrativa tornar esta medida absolutamente necessária.\n\n(7) Actualmente, não existem métodos técnicos válidos no plano económico, que permitam extrair sistematicamente o cádmio das descargas resultantes da produção de ácido fosfórico e/eu de adubos fosfatados a partir do minério fosfatado. Não foi, pois, fixado nenhum valor-limite para estas descargas. A ausência destes valores-limite não liberta os Estados-membros da obrigação de fixar normas de emissão para essas descargas, em conformidade com a Directiva 76/464/CEE."
+  },
+  "42fceea7486158ef": {
+   "fragment_id": "ANEXO II — Objectivos de qualidade",
+   "type": "divisao",
+   "heading": "ANEXO II — Objectivos de qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Objectivos de qualidade\n\nPara os Estados-membros que apliquem a excepção prevista no no 3, do artigo 6o da Directiva 76/464/CEE, as normas de emissão que os Estados-membros devem estabelecer e fazer aplicar, nos termos do artigo 5o da referida directiva, serão fixadas de forma que o (ou os) objectivo(s) de qualidade adequado(s), entre os objectivos a seguir enumerados, seja(m) respeitado(s) na região afectada pelas descargas de cádmio. A autoridade competente indica a região afectada em cada caso e selecciona, entre os objectivos de qualidade que figuram no ponto 1, aquele ou aqueles que considere adequados, de acordo com a utilização a que se destina a região afectada e tendo em conta o facto de que o objectivo da presente directiva é eliminar qualquer poluição.\n\n1. A fim de eliminar a poluição, na acepção da Directiva 76/464/CEE e nos termos do artigo 2o referida directiva, são fixados os objectivos de qualidade (1) seguintes, que serão medidos num ponto suficientemente próximo do ponto de descarga (2).\n\n1.1. A concentração total de cádmio nas águas interiores de superfície afectadas pelas descargas não deve exceder 5 µg/l.\n\n1.2. A concentração de cádmio em solução nas águas dos estuários, afectadas pelas descargas, não deve exceder 5 µg/l.\n\n1.3. A concentração de cádmio em solução nas águas de mar territoriais e nas águas costeiras interiores, não estuárias, afectadas pelas descargas, não deve exceder 2,5 µg/l;\n\n1.4. No caso das águas utilizadas para a produção de água potável, o teor em cádmio deve corresponder às exigências da Directiva 75/440/CEE (3).\n\n2. Além das exigências anteriores, as concentrações de cádmio devem ser determinadas pela rede nacional, referida no artigo 5o, e os resultados devem ser comparados com as seguintes concentrações (2).\n\n2.1. No caso das águas interiores de superfície, uma concentração total de cádmio de 1 µg/l.\n\n2.2. No caso das águas dos estuários, uma concentração de cádmio em solução de 1 µg/l.\n\n2.3. No caso das águas territoriais e das águas costeiras interiores, não estuárias, uma concentração de cádmio em solução de 0,5 µg/l.\n\nSe estas concentrações não forem respeitadas num dos pontos da rede nacional, devem ser indicadas as razões à Comissão.\n\n3. A concentração de cádmio nos sedimentos e/ou moluscos e crustáceos, se possível da espécie Mytilus edulis, não deve aumentar de forma significativa com o tempo.\n\n4. Quando vários objectivos de qualidade são aplicados às águas de uma região, a qualidade das águas deve ser suficiente para respeitar cada um desses objectivos.\n\n(1) As concentrações de cádmio indicadas nos pontos 1.1., 1.2. e 1.3. constituem as exigências mínimas necessárias para proteger a vida aquática.(2) Com excepção do objectivo de qualidade referido no ponto 1.4., todas as concentrações correspondem à média aritmética dos resultados obtidos durante um ano.(3) A Directiva 75/440/CEE diz respeito à qualidade exigida para as águas superficiais destinadas à produção de água potável nos Estados-membros (JO no L 194 de 25. 7. 1975, p. 26). A directiva prevê, para o cádmio, um valor imperativo de 5 µg/l em 95 % das amostras recolhidas."
+  },
+  "d86dcdbc9ee755ce": {
+   "fragment_id": "ANEXO III — Métodos de medida de referência",
+   "type": "divisao",
+   "heading": "ANEXO III — Métodos de medida de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Métodos de medida de referência\n\n1. O método de análise de referência utilizado para determinar o teor em cádmio das águas, dos sedimentos e dos moluscos e crustáceos é a medida da absorção atómica por espectrofotometria, após conservação e tratamento adequados da amostra.\n\nOs limites de detecção (1) devem ser tais que a concentração de cádmio possa ser medida com uma exactidão (1) de + 30 % e uma precisão (1) de + 30 % para as seguintes concentrações:\n\n- no caso das descargas, um décimo da concentração máxima de cádmio autorizada, especificada na autorização,\n\n- no caso das águas superficiais, 0,1 µg/l ou um décimo da concentração de cádmio, especificada pelo objectivo de qualidade, aplicando-se o valor mais elevado,\n\n- no caso dos moluscos e crustáceos, 0,1 mg/kg (peso húmido),\n\n- no caso dos sedimentos, um décimo da concentração do cádmio da amostra ou 0,1 mg/kg, peso seco, com secagem efectuada entre 105 e 110 C, e peso constante, aplicando-se o valor mais elevado.\n\n2. A medida do débito dos efluentes deve ser efectuada com uma exactidão de ± 20 %.\n\n(1) As definições destes termos figuram na Directiva 79/869/CEE do Conselho, de 9 de Outubro de 1976, relativa aos métodos de medida e à frequência das amostragens e da análise das águas superficiais destinadas à produção de água potável nos Estados-membros (JO no L 271 de 20. 10. 1979, p. 44)."
+  },
+  "871cbb7a315e231b": {
+   "fragment_id": "ANEXO IV — Procedimento de controlo para os objectivos de qualidade",
+   "type": "divisao",
+   "heading": "ANEXO IV — Procedimento de controlo para os objectivos de qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Procedimento de controlo para os objectivos de qualidade\n\n1. A autoridade competente define as prescrições, as modalidades de fiscalização e os prazos necessários para assegurar o respeito do ou dos objectivos de qualidade em causa, no que se refere a qualquer autorização concedida nos termos da presente directiva.\n\n2. Para cada objectivo de qualidade escolhido e aplicado, o Estado-membro faz um relatório Comissão, nos termos do no 3, do artigo 6o da Directiva 76/464/CEE, sobre:\n\n- os pontos de descarga e o dispositivo de dispersão,\n\n- a zona na qual se aplica o objectivo de qualidade,\n\n- a localização dos pontos de colheita das amostras,\n\n- a frequência de amostragem,\n\n- os métodos de amostragem e de medida,\n\n- os resultados obtidos.\n\n3. As amostras devem ser suficientemente representativas da qualidade do meio aquático na região afectada pelas descargas e a frequência de amostragem deve ser suficiente para pôr em evidência as modificações eventuais do meio aquático, tendo em conta, nomeadamente, as variações naturais do regime hidrológico."
+  },
+  "a88894249e29b812": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1983L0513 — PT — 13.01.2009 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/383L0513) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/383L0513) [de 26 de Setembro de 1983](http://publications.europa.eu/resource/celex/383L0513) [relativa aos valores-limite e aos objectivos de qualidade para as descargas de cádmio](http://publications.europa.eu/resource/celex/383L0513) [(83/513/CEE)](http://publications.europa.eu/resource/celex/383L0513) (JO L 291, 24.10.1983, p.1)\n\n**revogado por:**"
+  },
+  "f0698c787b8644f6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1983L0513 — PT — 22.12.2012 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31983L0513) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31983L0513) [de 26 de Setembro de 1983](http://publications.europa.eu/resource/celex/31983L0513) [relativa aos valores-limite e aos objectivos de qualidade para as descargas de cádmio](http://publications.europa.eu/resource/celex/31983L0513) [(83/513/CEE)](http://publications.europa.eu/resource/celex/31983L0513) (JO L 291, 24.10.1983, p.1)\n\n**revogado por:**\n\n- [Directiva 2008/105/CE do Parlamento Europeu e do Conselho de 16 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008L0105) — L 348 — 84 — 24.12.2008"
+  }
+ }
+}

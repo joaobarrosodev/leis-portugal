@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31982L0884:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01982L0884-20010719",
+ "dre_path": null,
+ "source_lastmod": "2001-07-19",
+ "versions": [
+  {
+   "date": "1982-12-31",
+   "future": false,
+   "celex": "31982L0884",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "06ccdd03c5b90dbe",
+    "67f8631a7ddbd80f",
+    "9f79c4596db29211",
+    "fb6d03e467972da8",
+    "0c584051e30113b2",
+    "dfafad6186f6cab1",
+    "f1ee8df3aea9a423",
+    "c523e32d46afd26c",
+    "b772b31655c65779",
+    "9842d867e2c4aa55",
+    "e21793eee821b5ce",
+    "f959266ed8221419",
+    "72fd7c79baa6a830",
+    "d49e24398e2a2fcd",
+    "2b973f0c38449560"
+   ]
+  }
+ ],
+ "fragments": {
+  "06ccdd03c5b90dbe": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 82/884/CEE do Conselho, de 3 de Dezembro de 1982, relativa a um valor-limite para o chumbo contido na atmosfera** *Jornal Oficial nº L 378 de 31/12/1982 p. 0015 - 0018 Edição especial espanhola: Capítulo 15 Fascículo 4 p. 0017 Edição especial portuguesa: Capítulo 15 Fascículo 4 p. 0017 Edição especial finlandesa: Capítulo 15 Fascículo 4 p. 0056 Edição especial sueca: Capítulo 15 Fascículo 4 p. 0056*\n\nDIRECTIVA DO CONSELHO de 3 de Dezembro de 1982 relativa a um valor-limite para o chumbo contido na atmosfera\n\n(82/884/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 235o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que uma das tarefas essenciais da Comunidade Económica Europeia é promover um desenvolvimento harmonioso das actividades económicas em toda a Comunidade e uma expansão contínua e equilibrada, missões que não se podem conceber sem uma luta contra a poluição e perturbações nem sem a melhoria da qualidade de vida e da protecção do ambiente;\n\nConsiderando que a utilização do chumbo conduz actualmente à poluição saturnina de numerosas áreas do ambiente;\n\nConsiderando que o chumbo inalado contribui de um modo significativo para o teor corporal global em chumbo;\n\nConsiderando que a protecção do homem contra o risco saturnino exige o controlo da sua exposição ao chumbo contido na atmosfera;\n\nConsiderando que os primeiro (4) e segundo (5) programas de acção das Comunidades Europeias em matéria de ambiente prevêem uma acção prioritária para este poluente; que estes mesmos programas prevêem a coordenação dos programas nacionais neste domínio, assim como a harmonização das políticas na Comunidade com base numa concepção comum, a longo prazo, tendo por objectivo a melhoria da qualidade de vida; que não tendo sido previstos no Tratado os poderes de acção exigidos para este efeito, é conveniente recorrer ao seu artigo 235o;\n\nConsiderando que as informações técnicas e científicas disponíveis são insuficientes para permitir ao Conselho adoptar normas específicas para o ambiente em geral e que a adopção de valores-limite para a protecção da saúde humana contribuirá igualmente para a protecção do ambiente;\n\nConsiderando que convém fixar um valor-limite para o chumbo contido na atmosfera;\n\nConsiderando que as medidas adoptadas em conformidade com a presente directiva devem ser economicamente viáveis e compatíveis com um desenvolvimento equilibrado; que, em consequência, convém prever prazos suficientes para a sua execução; que convém igualmente ter em conta a Directiva 78/611/CEE do Conselho, de 29 de Junho de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes ao teor em chumbo da gasolina (6);\n\nConsiderando que convém vigiar a qualidade do ar em locais onde pode haver exposição contínua de pessoas ao chumbo durante um longo período e onde existe o risco de o valor-limite não ser respeitado;\n\nConsiderando que importa que a Comissão obtenha informações respeitantes aos locais utilizados para as amostragens, aos processos de amostragem e de análise utilizados para determinar a concentração de chumbo contido na atmosfera, aos locais onde o valor-limite fixado na presente directiva for ultrapassado, bem como às concentrações obtidas nesses locais e às medidas tomadas para evitar que esse limite seja ultrapassado de novo;\n\nConsiderando que é conveniente que a Comissão publique todos os anos, a contar do segundo ano seguinte à aplicação da presente directiva, um relatório de síntese sobre a aplicação das disposições nacionais tomadas por força desta Directiva;\n\nConsiderando que a aplicação das medidas tomadas por força da presente directiva não deve conduzir a uma deterioração sensível da qualidade do ar nos locais onde o nível de poluição pelo chumbo, verificado aquando da aplicação da presente Directiva, é baixo em relação ao valor limite-fixado;\n\nConsiderando que, para a aplicação da presente directiva, convém respeitar as características fixadas no Anexo para a escolha do método de amostragem; que, para a análise das amostras recolhidas, convém utilizar o método de referência fixado no anexo ou qualquer outro método para o qual tenha sido previamente demonstrado à Comissão que fornece resultados equivalentes;\n\nConsiderando que o desenvolvimento posterior das características a respeitar para a escolha de um método de amostragem e do método de referência para a análise, que constam do anexo à presente Directiva, pode ser desejável à luz do progresso técnico e científico realizado na matéria; que é conveniente, para facilitar a execução dos trabalhos necessários para este efeito, prever um procedimento que estabeleça uma cooperação estreita entre os Estados-membros e a Comissão no âmbito de um comité para a adaptação ao progresso técnico e científico,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "67f8631a7ddbd80f": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva fixa um valor-limite para o chumbo contido na atmosfera com o objectivo de contribuir especificamente para a protecção dos seres humanos contra os efeitos do chumbo no ambiente.\n\n2. A presente directiva não se aplica à exposição profissional."
+  },
+  "9f79c4596db29211": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Para efeitos do disposto na presente directiva, entende-se por «valor-limite» a concentração de chumbo contido na atmosfera que não deve ser ultrapassada nas condições a seguir definidas.\n\n2. O valor-limite é de 2 microgramas de chumbo por metro cúbico, expresso em concentração média anual.\n\n3. Os Estados-membros podem, em qualquer momento, fixar um valor mais severo que o previsto na presente directiva."
+  },
+  "fb6d03e467972da8": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os Estados-membros tomarão as medidas necessárias para garantir que cinco anos após a notificação da presente directiva, as concentrações de chumbo contido na atmosfera, medidas em conformidade com o artigo 4o, não ultrapassem o valor-limite indicado no artigo 2o.\n\n2. Se um Estado-membro considerar que o valor-limite fixado no artigo 2o pode ser ultrapassado em certos locais quatro anos depois da notificação da presente directiva, informará de tal facto a Comissão.\n\n3. Os Estados-membros em causa transmitirão à Comissão, no prazo de dois anos a contar da aplicação da presente directiva, os projectos de melhoramento progressivo da qualidade do ar nesses locais. Estes projectos, elaborados com base em informações pertinentes relativas à natureza, à origem e à evolução da poluição, descreverão nomeadamente as medidas já tomadas ou previstas e os procedimentos executados ou projectados pelos Estados-membros em causa. O objectivo destas medidas e procedimentos deve ser reduzir a concentração de chumbo na atmosfera desses locais abaixo do nível do valor-limite fixado no no 2 do artigo 2o ou até esse nível, no mais curto prazo e o mais tardar sete anos após a notificação da presente Directiva. Estas medidas e procedimentos devem ter em conta a Directiva 78/611/CEE e os resultados obtidos com a sua aplicação."
+  },
+  "0c584051e30113b2": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs Estados-membros velarão pela instalação e o funcionamento de estações de medição em locais onde possa haver exposição contínua de pessoas durante um longo período e onde considerarem que existe o risco de os artigos 1o e 2o não serem respeitados."
+  },
+  "dfafad6186f6cab1": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Para efeitos da aplicação da presente directiva, os Estados-membros fornecerão à Comissão, a seu pedido, informações respeitantes:\n\n- aos locais utilizados para as amostragens,\n\n- aos processos de amostragem e de análise utilizados para determinar a concentração de chumbo contido na atmosfera.\n\n2. Os Estados-membros informarão a Comissão, o mais tardar em 1 de Julho de cada ano a contar do ano civil seguinte à aplicação da presente directiva, sobre os locais onde o valor-limite fixado no no 2 do artigo 2o foi ultrapassado durante o ano civil anterior e sobre as concentrações registadas.\n\n3. Comunicarão igualmente à Comissão, o mais tardar durante o ano civil seguinte àquele em que o valor-limite foi ultrapassado, as medidas que tomaram para evitar que esse limite seja ultrapassado de novo."
+  },
+  "f1ee8df3aea9a423": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nA Comissão publicará anualmente, a contar do segundo ano seguinte ao da aplicação da presente directiva, um relatório de síntese sobre a sua aplicação."
+  },
+  "c523e32d46afd26c": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nA aplicação das medidas tomadas por força da presente directiva não deve conduzir a uma deterioração sensível da qualidade do ar nos locais onde o nível de poluição pelo chumbo, verificado aquando da aplicação da presente Directiva, é baixo em relação ao valor-limite fixado no no 2 do artigo 2o."
+  },
+  "b772b31655c65779": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nPara aplicação da presente directiva, os Estados-membros respeitarão as características fixadas no anexo para a escolha do método de amostragem; para a análise das amostras recolhidas, os Estados-membros utilizarão o método de referência citado no anexo ou qualquer outro método para o qual demonstrem previamente à Comissão que fornece resultados equivalentes."
+  },
+  "9842d867e2c4aa55": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nO procedimento dos artigos 10o e 11o que tem por objectivo adaptar a presente directiva ao progresso científico e técnico diz respeito às características a respeitar na escolha de um método de amostragem e ao método de referência mencionados no anexo.\n\nEsta adaptação não deve ter por efeito alterar directa ou indirectamente a aplicação do valor efectivo de concentração fixado no no 2 do artigo 2o."
+  },
+  "e21793eee821b5ce": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. É instituído um Comité para adaptação da presente directiva ao progresso científico e técnico, a seguir denominado «Comité», que é composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. O Comité estabelece o seu regulamento interno."
+  },
+  "f959266ed8221419": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. No caso em que seja feita referência ao procedimento definido no presente artigo, o «Comité» será convocado pelo seu presidente, quer por iniciativa deste, quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submete ao Comité um projecto de medidas a tomar. O Comité emite o seu parecer sobre este projecto num prazo que o presidente pode fixar em função da urgência do assunto em causa. Pronunciar-se-á por maioria de 45 votos, sendo atribuída aos votos dos Estados-membros a ponderação prevista no no 2 do artigo 148o do Tratado. O presidente não toma parte na votação.\n\n3. A Comissão adopta as medidas previstas quando estiverem em conformidade com o parecer do Comité.\n\nQuando as medidas previstas não estiverem em conformidade com o parecer do Comité, ou na ausência de parecer, a Comissão submete sem tardar ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada.\n\nSe, decorrido um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este não tiver decidido, as medidas propostas são adoptadas pela Comissão."
+  },
+  "72fd7c79baa6a830": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva no prazo de vinte e quatro meses a contar da sua notificação e desse facto informarão imediatamente a Comissão.\n\n2. O Estados-membros comunicarão à Comissão o texto das disposições de direito nacional que adoptem no domínio regulado pela presente Directiva."
+  },
+  "d49e24398e2a2fcd": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nOs Estados-membros são destinatários da presente Directiva.\n\nFeito em Bruxelas em 3 de Dezembro de 1982.\n\nPelo Conselho\n\nO Presidente\n\nCh. CHRISTENSEN\n\n(1) JO no C 154 de 7. 7. 1975, p. 29.(2) JO no C 28 de 9. 2. 1976, p. 31.(3) JO no C 50 de 4. 3. 1976, p. 9.(4) JO no C 112 de 20. 12. 1973, p. 1.(5) JO no C 139 de 13. 6. 1977, p. 1.(6) JO no L 197 de 22. 7. 1978, p. 19."
+  },
+  "2b973f0c38449560": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nCARACTERÍSTICAS A RESPEITAR NA ESCOLHA DE UM MÉTODO DE AMOSTRAGEM E DE UM MÉTODO DE REFERÊNCIA PARA A ANÁLISE DAS CONCENTRAÇÕES DE CHUMBO NA ATMOSFERA\n\nAs partículas da atmosfera devem ser recolhidas num filtro de um aparelho de amostragem com vista à sua análise posterior para determinação do teor em chumbo.\n\nA. Características a respeitar na escolha do método de amostragem\n\n1. Filtro\n\nO filtro deve, à velocidade nominal utilizada durante a amostragem, permitir recolher uma quantidade que não seja inferior a 99 % de todas as partículas com diâmetro aerodinâmico médio de 0,3 µm.\n\n2. Eficiência do aparelho de amostragem\n\nA eficiência do aparelho de amostragem é definida como a relação entre a concentração em massa das partículas no ar aspirado pelo filtro e a concentração na atmosfera. Esta eficiência não deve ser inferior aos valores indicados no quadro seguinte e deve ser independente da direcção do vento.\n\nEficiência mínima aceitável para um aparelho de amostragem (%)\n\n\"\" ID=\"1\">2 ms-1> ID=\"2\">95> ID=\"3\">65\"> ID=\"1\">4 ms-1> ID=\"2\">95> ID=\"3\">60\"> ID=\"1\">6 ms-1> ID=\"2\">85> ID=\"3\">40\">\n\n3. Caudal de aspiração para a amostragem\n\nO caudal de aspiração para a amostragem deve permanecer constante durante todo o período de amostragem, com uma tolerância de ± 5 % do valor nominal.\n\n4. Localização\n\nAs estações (ou aparelhos) de amostragem devem ser tanto quanto possível localizados de modo a serem representativos das zonas nas quais as medições devem ser efectuadas.\n\n5. Modo de proceder\n\nA amostragem deve ser contínua, sendo contudo autorizadas interrupções de alguns minutos em cada dia ou cada semana de modo a permitir a substituição dos filtros. Um valor médio anual calculado só é válido se a amostragem tiver sido realizada durante pelo menos 10 dias úteis por mês, durante os cinco primeiros anos após a notificação da directiva e, em seguida, durante pelo menos quinze dias úteis por mês repartidos tanto quanto possível de modo equitativo pelo período considerado. O valor médio anual é calculado dividindo a soma dos valores válidos diários pelo número de dias durante os quais se obtiveram os valores válidos.\n\nB. Método de análise de referência\n\nO método de análise de referência é o espectrofotométrico de absorção atómica no qual o erro analítico da determinação do chumbo nas partículas recolhidas é inferior ao valor correspondente a uma concentração de chumbo na atmosfera de 0,1 µg m-3 (5 % do valor limite de 2 µg m-3). Este erro analítico deve ser mantido dentro da gama definida por uma frequência de calibração apropriada."
+  }
+ }
+}

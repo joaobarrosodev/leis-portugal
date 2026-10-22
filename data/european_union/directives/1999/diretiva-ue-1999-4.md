@@ -35,6 +35,53 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-11-18'
+version_history:
+  file: diretiva-ue-1999-4.versoes.json
+  count: 3
+  source_lastmod: '2013-11-18'
+  versions:
+  - date: '1999-03-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-11'
+    amending: eu:celex:32003R1882:por
+    amending_title: M1; REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE 22 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita ANEXO
+    - Adita DENOMINAÇÕES, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS
+    - Adita 1. «Extracto de café», «extracto de café solúvel», «café solúvel» ou «café instantâneo»
+    - Adita 2. «Extracto de chicória», «chicória solúvel» ou «chicória instantânea»
+    - Adita Notas
+    - Suprime Artigo 1.°
+    - Suprime Artigo 2.°
+    - Suprime Artigo 3.°
+    - Suprime Artigo 4.°
+    - Suprime Artigo 5.°
+    - Suprime Artigo 6.°
+    - Suprime Artigo 7.°
+    - Suprime Artigo 8.°
+    - Suprime Artigo 9.°
+    - Suprime ANEXO — DENOMINAÇÕES, DEFINIÇÕES E CARACTERÍSTICAS DOS PRODUTOS
+  - date: '2013-11-18'
+    amending: eu:celex:32013R1021:por
+    amending_title: REGULAMENTO (UE) N. o 1021/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2013
+    changes:
+    - Altera preambulo
+    - Altera 1. «Extracto de café», «extracto de café solúvel», «café solúvel» ou «café instantâneo»
+    - Altera Notas
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
 identifiers:
   celex: 31999L0004
   eli: http://data.europa.eu/eli/dir/1999/4/oj
@@ -49,7 +96,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/172a60f3-87f0-4e10-973d-6c2b79a66b54.0011
   content_url: http://publications.europa.eu/resource/cellar/b1438d4c-b9f0-4cd0-9158-7529848c76ea.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0004-20131118
-  retrieved_at: '2026-10-22T03:09:19Z'
+  retrieved_at: '2026-10-22T14:47:35Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T18:31:32.890+01:00'
 integrity:
@@ -58,9 +105,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:09:19Z'
-  notes: Texto consolidado 01999L0004-20131118.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:35Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1999-4.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -140,31 +187,20 @@ relationships:
   date: '1977-07-12'
 article_structure:
   article_count: 7
-  section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 5
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:09:19Z'
-  warnings: []
+  checked_at: '2026-10-22T14:47:35Z'
+  warnings:
+  - '01999L0004-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 1999/4/CE do Parlamento Europeu e do Conselho de 22 de Fevereiro de 1999
-
-> 1999L0004 — PT — 18.11.2013 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32003R1882) — [REGULAMENTO (CE) N.º 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
-- [M2](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE 22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [►M3](http://publications.europa.eu/resource/celex/32013R1021) — [REGULAMENTO (UE) N.º 1021/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R1021) — L 287 — 1 — 29.10.2013
-
-## DIRECTIVA 1999/4/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 22 de Fevereiro de 1999
 

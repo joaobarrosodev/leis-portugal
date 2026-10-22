@@ -1,0 +1,39 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991R0613:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991R0613-20040520",
+ "dre_path": null,
+ "source_lastmod": "2004-05-20",
+ "versions": [
+  {
+   "date": "1991-03-15",
+   "future": false,
+   "celex": "31991R0613",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2004-05-20",
+   "future": false,
+   "celex": "01991R0613-20040520",
+   "acts": [],
+   "changes": [
+    "Adita preambulo"
+   ],
+   "fragments": [
+    "fb57f1219129b72c"
+   ]
+  }
+ ],
+ "fragments": {
+  "fb57f1219129b72c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991R0613 — PT — 20.05.2004 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31991R0613) [REGULAMENTO (CEE) N.º 613/91 DO CONSELHO](http://publications.europa.eu/resource/celex/31991R0613) [de 4 de Março de 1991](http://publications.europa.eu/resource/celex/31991R0613) [relativo à transferência de registo de navios no interior da Comunidade](http://publications.europa.eu/resource/celex/31991R0613) (JO L 068, 15.3.1991, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 789/2004 do Parlamento Europeu e do Conselho de 21 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0789) — L 138 — 19 — 30.4.2004"
+  }
+ }
+}

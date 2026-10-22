@@ -1,0 +1,99 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31974L0268:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01974L0268-20060613",
+ "dre_path": null,
+ "source_lastmod": "2006-06-13",
+ "versions": [
+  {
+   "date": "1974-05-24",
+   "future": false,
+   "celex": "31974L0268",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c98f82999592720d",
+    "62442f403d65a332",
+    "fc43d3ba13fb7bfb",
+    "31e34f6b966bcced",
+    "538341b03b2dfb07",
+    "56d17faacacc67a3"
+   ]
+  },
+  {
+   "date": "2006-06-13",
+   "future": false,
+   "celex": "01974L0268-20060613",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o"
+   ],
+   "fragments": [
+    "16e34049f1433b5d"
+   ]
+  }
+ ],
+ "fragments": {
+  "c98f82999592720d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 74/268/CEE da Comissão, de 2 de Maio de 1974, que fixa condições especiais no que diz respeito à presença de Avena fatua nas sementes de plantas forrageiras e de cereais** *Jornal Oficial nº L 141 de 24/05/1974 p. 0019 - 0019 Edição especial finlandesa: Capítulo 3 Fascículo 6 p. 0005 Edição especial grega: Capítulo 03 Fascículo 10 p. 0220 Edição especial sueca: Capítulo 3 Fascículo 6 p. 0005 Edição especial espanhola: Capítulo 03 Fascículo 7 p. 0214 Edição especial portuguesa: Capítulo 03 Fascículo 7 p. 0214*\n\nDIRECTIVA DA COMISSÃO de 2 de Maio de 1974 que fixa condições especiais no que diz respeito à presença de Avena fatua nas sementes de plantas forrageiras e de cereais\n\n(74/268/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta as directivas do Conselho, de 14 de Junho de 1966, respeitantes à comercialização de sementes de plantas forrageiras (1) e à comercialização de sementes de cereais (2), com as últimas redacções que lhes foram dadas pela Directiva do Conselho de 11 de Dezembro de 1973 (3) e, nomeadamente, o seu artigo 11o,\n\nConsiderando que as directivas citadas fixaram tolerâncias quanto à presença de Avena fatua nas sementes de plantas forrageiras e de cereais;\n\nConsiderando que aquelas tolerâncias parecem muito elevadas para certas necessidades; que, por esta razão, as directivas citadas prevêem um registo suplementar para as sementes que satisfaçam condições especiais no que se refere à presença de Avena fatua;\n\nConsiderando que as condições especiais fixadas a este respeito são de molde a satisfazer as necessidades acima referidas, mas têm igualmente em conta as possibilidades de produção e de controlo das sementes,\n\nConsiderando que as medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente de Sementes e Plantas Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "62442f403d65a332": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nOs Estados-membros emitirão, a pedido, o certificado oficial previsto no artigo 11o da directiva respeitante à comercialização de sementes de plantas forrageiras,\n\na) No caso de sementes de dimensão igual ou superior à dos grãos de trigo, se quando submetida a um exame oficial, uma amostra de pelo menos 500 g, retirada segundo as disposições do artigo 7o da directiva citada, estiver isenta de Avena fatua;\n\nb) No caso de sementes de dimensões inferiores à dos grãos de trigo,\n\n- se uma inspecção oficial de campo, efectuada em conformidade com as disposições do Anexo I da directiva citada, revelar que a cultura está isenta de Avena fatua, e se uma amostra de pelo menos 100 g, retirada segundo as disposições do artigo 7o da directiva citada, se apresentar isenta de Avena fatua quando sujeita a um exame oficial, ou\n\n- se, quando submetida a um exame oficial, uma amostra de pelo menos 300 g, retirada segundo as disposições do artigo 7o da directiva citada, estiver isenta de Avena fatua."
+  },
+  "fc43d3ba13fb7bfb": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros emitirão, a pedido, o certificado oficial previsto no artigo 11o da directiva respeitante à comercialização de sementes de cereais,\n\n- se uma inspecção oficial de campo, efectuada em conformidade com as disposições do Anexo I da directiva citada, revelar que a cultura está isenta de Avena fatua, e se uma amostra de pelo menos 1 kg, retirada segundo as disposições do artigo 7o da directiva citada, se apresentar isenta de Avena fatua quando sujeita a um exame oficial, ou\n\n- se quando sujeita a um exame oficial, uma amostra de pelo menos 3 kg, retirada segundo as disposições do artigo 7o da directiva citada, estiver isenta de Avena fatua."
+  },
+  "31e34f6b966bcced": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros podem determinar que o certificado oficial só seja emitido num único dos dois casos previstos no primeiro parágrafo do artigo 1o e no artigo 2o respectivamente."
+  },
+  "538341b03b2dfb07": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs Estados-membros aplicarão, o mais tardar a 1 de Julho de 1974, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento às disposições da presente directiva. Deste facto informarão imediatamente a Comissão, que informará os outros Estados-membros."
+  },
+  "56d17faacacc67a3": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 2 de Maio de 1974.\n\nPela Comissão\n\nO Presidente\n\nFrançois-Xavier ORTOLI\n\n(1) JO no 125 de 11. 7. 1966, p. 2298/66.(2) JO no 125 de 11. 7. 1966, p. 2309/66.(3) JO no L 356 de 27. 12. 1973, p. 79."
+  },
+  "16e34049f1433b5d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1974L0268 — PT — 13.06.2006 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31974L0268) [DIRECTIVA DA COMISSÃO](http://publications.europa.eu/resource/celex/31974L0268) [de 2 de Maio de 1974](http://publications.europa.eu/resource/celex/31974L0268) [que fixa condições especiais no que diz respeito à presença de Avena fatua nas sementes de plantas forrageiras e de cereais](http://publications.europa.eu/resource/celex/31974L0268) [(74/268/CEE)](http://publications.europa.eu/resource/celex/31974L0268) (JO L 141, 24.5.1974, p.19)\n\n**revogado por:**\n\n- [Directiva 2006/47/CE da Comissão de 23 de Maio de 2006](http://publications.europa.eu/resource/celex/32006L0047) — L 136 — 18 — 24.5.2006"
+  }
+ }
+}

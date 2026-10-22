@@ -34,6 +34,46 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-07-28'
+version_history:
+  file: regulamento-ue-1985-3703.versoes.json
+  count: 2
+  source_lastmod: '2006-07-28'
+  versions:
+  - date: '1985-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-07-28'
+    amending: eu:celex:31989R3506:por
+    amending_title: REGULAMENTO (CEE) N. o 3506/89 DA COMISSÃO de 23 de Novembro de 1989; REGULAMENTO (CE) N. o 1115/2006
+      DA COMISSÃO de 20 de Julho de 2006
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo [►M1](http://publications.europa.eu/resource/celex/31989R3506) 10.º ◄
+    - Adita Artigo [►M1](http://publications.europa.eu/resource/celex/31989R3506) 11.º ◄
+    - Adita Artigo [►M1](http://publications.europa.eu/resource/celex/31989R3506) 12.º ◄
+    - Adita ANEXO [►M1](http://publications.europa.eu/resource/celex/31989R3506) I◄
+    - Adita ANEXO II
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime ANEXO — >PIC FILE= "T0028077">
 identifiers:
   celex: 31985R3703
   eli: http://data.europa.eu/eli/reg/1985/3703/oj
@@ -48,7 +88,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ada9f158-4900-4860-b434-9e40624e6a39.0009
   content_url: http://publications.europa.eu/resource/cellar/1824a894-c3bb-4671-96cf-428f4da888c0.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01985R3703-20060728
-  retrieved_at: '2026-10-22T03:05:09Z'
+  retrieved_at: '2026-10-22T14:34:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T08:37:13.155+01:00'
 integrity:
@@ -57,9 +97,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:05:09Z'
-  notes: Texto consolidado 01985R3703-20060728.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:36Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1985-3703.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -104,30 +144,20 @@ relationships:
   date: '1986-02-15'
 article_structure:
   article_count: 12
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:05:09Z'
-  warnings: []
+  checked_at: '2026-10-22T14:34:36Z'
+  warnings:
+  - '01985R3703-19891127: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CEE) nº 3703/85 da Comissão, de 23 de Dezembro de 1985
-
-> 1985R3703 — PT — 28.07.2006 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/31989R3506) — [REGULAMENTO (CEE) N.º 3506/89 DA COMISSÃO de 23 de Novembro de 1989](http://publications.europa.eu/resource/celex/31989R3506) — L 342 — 11 — 24.11.1989
-- [►M2](http://publications.europa.eu/resource/celex/32006R1115) — [REGULAMENTO (CE) N.º 1115/2006 DA COMISSÃO de 20 de Julho de 2006](http://publications.europa.eu/resource/celex/32006R1115) — L 199 — 6 — 21.7.2006
-
-## REGULAMENTO (CEE) N.º 3703/85 DA COMISSÃO
 
 de 23 de Dezembro de 1985
 

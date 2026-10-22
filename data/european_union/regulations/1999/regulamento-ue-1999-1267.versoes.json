@@ -1,0 +1,666 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999R1267:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R1267-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "1999-06-26",
+   "future": false,
+   "celex": "31999R1267",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f51761bfce5ec26c",
+    "1474a8b4ff083b26",
+    "2973ac4799e7f92f",
+    "ed33865bc0785a88",
+    "a38fbe12e813a0f8",
+    "ca2fd6f4c5dfb432",
+    "c6ff2005b01c3036",
+    "b163eb65f4acd064",
+    "7177dc928f5c3c19",
+    "c1224066b0486854",
+    "003d1cc73c64285f",
+    "a11df2efd68a8b92",
+    "17292355f6419836",
+    "76564d1279a38043",
+    "cd22c492ea31094e",
+    "525ed198703e71b9",
+    "f9ac95e3c421228e",
+    "6ba60096858b7b3d",
+    "82646157beeb3633",
+    "92467f9375d644f3",
+    "2cb60fcc6d671e90",
+    "eef9ed5dd447266f",
+    "aaaba6f4c9c99a47"
+   ]
+  },
+  {
+   "date": "2005-01-02",
+   "future": false,
+   "celex": "01999R1267-20050102",
+   "acts": [
+    {
+     "id": "eu:celex:32001R2382:por",
+     "title": "REGULAMENTO (CE) N. o 2382/2001 DO CONSELHO de 4 de Dezembro de 2001",
+     "published": null,
+     "celex": "32001R2382"
+    },
+    {
+     "id": "eu:celex:32001R2500:por",
+     "title": "REGULAMENTO (CE) N. o 2500/2001 DO CONSELHO de 17 de Dezembro de 2001",
+     "published": null,
+     "celex": "32001R2500"
+    },
+    {
+     "id": "eu:celex:32004R0769:por",
+     "title": "REGULAMENTO (CE) N. o 769/2004 DO CONSELHO de 21 de Abril de 2004",
+     "published": null,
+     "celex": "32004R0769"
+    },
+    {
+     "id": "eu:celex:32004R2257:por",
+     "title": "REGULAMENTO (CE) N. o 2257/2004 DO CONSELHO de 20 de Dezembro de 2004",
+     "published": null,
+     "celex": "32004R2257"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Definição e objectivo",
+    "Altera Artigo 3.º — Recursos financeiros",
+    "Altera Artigo 4.º — Repartição indicativa",
+    "Altera Artigo 7.º — Apreciação e aprovação das medidas",
+    "Altera Artigo 8.º — Autorizações e pagamentos",
+    "Altera Artigo 9.º — Gestão e controlo",
+    "Altera Artigo 14.º — Comité",
+    "Altera Artigo 17.º — Entrada em vigor",
+    "Adita Artigo 6.º-A — Adjudicação de contratos",
+    "Adita ANEXO I",
+    "Adita Conteúdo dos pedidos [n.º 3, alínea a), do artigo 7.º]",
+    "Adita ANEXO II",
+    "Adita Apreciação das medidas [n.º 3, alínea b), e n.º 4 do artigo 7.º]",
+    "Adita ANEXO III",
+    "Adita Gestão e controlo financeiros (n.º 5 do artigo 9.º)",
+    "Adita ANEXO IV",
+    "Adita Acompanhamento e avaliação subsequente (artigo 11.º)",
+    "Adita ANEXO V",
+    "Adita Relatório anual da Comissão (artigo 12.º)",
+    "Adita Notas",
+    "Suprime ANEXO I — Conteúdo dos pedidos [n.o 3, alínea a), do artigo 7.o]",
+    "Suprime ANEXO II — Apreciação das medidas [n.o 3, alínea b), e n.o 4 do artigo 7.o]",
+    "Suprime ANEXO III — Gestão e controlo financeiros (n.o 5 do artigo 9.o)",
+    "Suprime ANEXO IV — Acompanhamento e avaliação subsequente (artigo 11.o)",
+    "Suprime ANEXO V — Relatório anual da Comissão (artigo 12.o)"
+   ],
+   "fragments": [
+    "cfcdc9bc7c29956c",
+    "e67e5f0bfbd778d3",
+    "9b6703c8fcef5faa",
+    "e98e56ae01c90a4b",
+    "9b6b95144faeeade",
+    "63ffec3353ebee08",
+    "c5ca9be59b8b4107",
+    "f42254563e5d91a8",
+    "0fe259d9613d58d5",
+    "8dd304a8d3a4b06c",
+    "f9b315bdca33c6f0",
+    "003d1cc73c64285f",
+    "a11df2efd68a8b92",
+    "17292355f6419836",
+    "b5d00ea5b38d7270",
+    "5ba16dab887fae30",
+    "d1ea880e7ee5facd",
+    "c9a7792be37397c7",
+    "1a82dcc83a310077",
+    "d664376e2a8dcecd",
+    "b4470969c33ab818",
+    "852174729551523b",
+    "c48702eee82da46b",
+    "720af75c92791b10",
+    "e8f8db821e771894",
+    "e03a0eb4d5b2eef3",
+    "16662275bdaf6c30",
+    "64610ae29a6cb67c",
+    "76990db2f9c482a5",
+    "89b7a247d49a491f"
+   ]
+  },
+  {
+   "date": "2005-12-28",
+   "future": false,
+   "celex": "01999R1267-20051228",
+   "acts": [
+    {
+     "id": "eu:celex:32005R2112:por",
+     "title": "REGULAMENTO (CE) N. o 2112/2005 DO CONSELHO de 21 de Novembro de 2005",
+     "published": null,
+     "celex": "32005R2112"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 6.º-A — Adjudicação de contratos",
+    "Altera Conteúdo dos pedidos [n.º 3, alínea a), do artigo 7.º]",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "efb20abf358a095f",
+    "e67e5f0bfbd778d3",
+    "9b6703c8fcef5faa",
+    "e98e56ae01c90a4b",
+    "9b6b95144faeeade",
+    "63ffec3353ebee08",
+    "c5ca9be59b8b4107",
+    "910651857c65c7ea",
+    "0fe259d9613d58d5",
+    "8dd304a8d3a4b06c",
+    "f9b315bdca33c6f0",
+    "003d1cc73c64285f",
+    "a11df2efd68a8b92",
+    "17292355f6419836",
+    "b5d00ea5b38d7270",
+    "5ba16dab887fae30",
+    "d1ea880e7ee5facd",
+    "c9a7792be37397c7",
+    "1a82dcc83a310077",
+    "d664376e2a8dcecd",
+    "c80530c1468a7ddf",
+    "852174729551523b",
+    "c48702eee82da46b",
+    "720af75c92791b10",
+    "e8f8db821e771894",
+    "e03a0eb4d5b2eef3",
+    "16662275bdaf6c30",
+    "64610ae29a6cb67c",
+    "76990db2f9c482a5",
+    "231f2d6f9fb484ce"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01999R1267-20070101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Definição e objectivo",
+    "Suprime Artigo 2.º — Medidas elegíveis",
+    "Suprime Artigo 3.º — Recursos financeiros",
+    "Suprime Artigo 4.º — Repartição indicativa",
+    "Suprime Artigo 5.º — Compatibilidade com as políticas comunitárias",
+    "Suprime Artigo 6.º — Formas e taxa de assistência",
+    "Suprime Artigo 6.º-A — Adjudicação de contratos",
+    "Suprime Artigo 7.º — Apreciação e aprovação das medidas",
+    "Suprime Artigo 8.º — Autorizações e pagamentos",
+    "Suprime Artigo 9.º — Gestão e controlo",
+    "Suprime Artigo 10.º — Utilização do euro",
+    "Suprime Artigo 11.º — Acompanhamento e avaliação subsequente",
+    "Suprime Artigo 12.º — Relatório anual",
+    "Suprime Artigo 13.º — Informação e publicidade",
+    "Suprime Artigo 14.º — Comité",
+    "Suprime Artigo 15.º — Reafectação de recursos",
+    "Suprime Artigo 16.º — Disposições finais e transitórias",
+    "Suprime Artigo 17.º — Entrada em vigor",
+    "Suprime ANEXO I",
+    "Suprime Conteúdo dos pedidos [n.º 3, alínea a), do artigo 7.º]",
+    "Suprime ANEXO II",
+    "Suprime Apreciação das medidas [n.º 3, alínea b), e n.º 4 do artigo 7.º]",
+    "Suprime ANEXO III",
+    "Suprime Gestão e controlo financeiros (n.º 5 do artigo 9.º)",
+    "Suprime ANEXO IV",
+    "Suprime Acompanhamento e avaliação subsequente (artigo 11.º)",
+    "Suprime ANEXO V",
+    "Suprime Relatório anual da Comissão (artigo 12.º)",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "c40c85a867a57248"
+   ]
+  }
+ ],
+ "fragments": {
+  "f51761bfce5ec26c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n° 1267/1999 do Conselho de 21 de Junho de 1999 que cria um instrumento estrutural de pré-adesão** *Jornal Oficial nº L 161 de 26/06/1999 p. 0073 - 0086*\n\nREGULAMENTO (CE) N.o 1267/1999 DO CONSELHO\n\nde 21 de Junho de 1999\n\nque cria um instrumento estrutural de pré-adesão\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 308.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Parlamento Europeu(2),\n\nTendo em conta o parecer do Comité Económico e Social(3),\n\nTendo em conta o parecer do Comité das Regiões(4),\n\n(1) Considerando que as conclusões do Conselho Europeu do Luxemburgo, de 12 de 13 de Dezembro de 1997, prevêem uma estratégia reforçada de pré-adesão para os países candidatos da Europa Central e Oriental e uma estratégia de pré-adesão específica para Chipre;\n\n(2) Considerando que as conclusões do Conselho Europeu do Luxemburgo, de 12 e 13 de Dezembro de 1997, prevêem que a ajuda prevista no presente regulamento seja por ora concedida aos 10 países candidatos da Europa Central e Oriental;\n\n(3) Considerando que o Regulamento (CE) n.o 622/98 do Conselho, de 16 de Março de 1998, relativo à assistência aos Estados candidatos à adesão à União Europeia no contexto de uma estratégia de pré-adesão e, em particular, à instituição de parcerias de adesão(5), prevê que aquelas parcerias devem compreender um quadro único para os domínios prioritários e todos os recuros disponíveis para uma assistência de pré-adesão;\n\n(4) Considerando que a estratégia de pré-adesão prevê a criação de um instrumento estrutural de pré-adesão (ISPA), cujo objectivo principal consistirá em alinhar os candidatos pelas normas comunitárias em matérias de infra-estruturas, fornecendo uma contribuição financeira para medidas nos domínios do ambiente e das infra-estruturas de transpore;\n\n(5) Considerando que a contribuição comunitária ao abrigo do ISPA, juntamente com a contribuição comunitária ao abrigo do Regulamento (CEE) n.o 3906/89 do Conselho, de 18 de Dezembro 1989, relativo à ajuda económica a favor da República da Hungria e da República Popular da Polónia(6), e a contribuição comunitária ao abrigo do Regulamento (CE) n.o 1268/1999 do Conselho, de 21 de Junho de 1999, relativo ao apoio comunitário a medidas de pré-adesão em matéria de agricultura e desenvolvimento rural nos países candidatos da Europa Central e Oriental durante o período de pré-adesão(7), será coordenada no quadro do Regulamento (CE) n.o 1266/1999 do Conselho, de 21 de Junho de 1999, relativo à coordenação da ajuda aos países candidatos no âmbito da estratégia de pré-adesão e que altera o Regulamento (CE) n.o 3906/89(8) e ficará sujeita às disposições de condicionalidade do Regulamento (CE) n.o 622/89 e das várias decisões relativas à instituição de parcerias de adesão;\n\n(6) Considerando que o objectivo deve ser um equilíbrio equitativo entre o financiamento de medidas relativas a infra-estruturas de transporte e o financiamento de medidas no domínio do ambiente, tendo em conta as situações específicas nos países beneficiários;\n\n(7) Considerando que a assistência da Comunidade ao abrigo do ISPA deve facilitar a aplicação do acervo ambiental comunitário pelos países candidatos e contribuir para um desenvolvimento sustentável nesses países;\n\n(8) Considerando que a Decisão n.o 1692/96/CE do Parlamento Europeu e do Conselho, de 23 de Julho de 1996, sobre as orientações comunitárias para o desenvolvimento da rede transeuropeia de transportes(9) descreve os critérios para projectos de interesse comum, que devem ser utilizados, quando necessário, na selecção das medidas elegíveis ao abrigo do presente regulamento;\n\n(9) Considerando que a avaliação das necessidades de infra-estruturas de transportes (TINA), lançada pelo Conselho deve facilitar o processo de selecção de medidas prioritárias para o desenvolvimento de uma rede transeuropeia de transportes durante o período de pré-adesão;\n\n(10) Considerando que se deve prever que a Comissão possa proceder a uma repartição indicativa, entre os países candidatos, dos recursos totais da Comunidade disponíveis para autorização ao abrigo do ISPA, a fim de facilitar a preparação das medidas;\n\n(11) Considerando que o ponto 17 das conclusões do Conselho Europeu do Luxemburgo, de 12 e 13 de Dezembro de 1997, prevê que o apoio financeiro aos Estados implicados no processo de alargamento deverá basear-se, para a repartição da ajuda, no princípio da igualdade de tratamento, independentemente da data da adesão, dando-se especial atenção aos países com maiores necessidades;\n\n(12) Considerando que as taxas do apoio prestado pela Comunidade ao abrigo do ISPA devem ser fixadas, a fim de reforçar o efeito de alavanca dos recursos, promover o co-financiamento e a utilização de fontes de financiamento privadas e ter em conta a capacidade das medidas para gerarem receitas líquidas substanciais;\n\n(13) Considerando que, no que diz respeito à assistência da Comunidade Europeia, há que assegurar um máximo de transparência na concretização da assistência financeira, devendo ser efectuados controlos estritos quanto à utilização das dotações;\n\n(14) Considerando que, para uma boa gestão da assistência comunitária concedida ao abrigo do ISPA, é necessário prever métodos eficazes de apreciação, acompanhamento, avaliação e controlo das operações, especificando o princípio que rege a avaliação, definindo a natureza e as regras do acompanhamento e prevendo as medidas a tomar em caso de irregularidade ou de incumprimento de uma das condições estabelecidas no momento da concessão da assistência do ISPA;\n\n(15) Considerando que, durante o período de transição de 1 de Janeiro de 1999 a 31 de Dezembro de 2001, qualquer referência ao euro deve, em regra geral, ser entendida como uma referência ao euro enquanto unidade monetária, nos termos do segundo período do artigo 2.o do Regulamento (CE) n.o 974/98 do Conselho, de 3 de Maio de 1998, relativo à introdução do euro(10);\n\n(16) Considerando que a Comissão deve ser assistida por um Comité de Gestão na aplicação do presente regulamento;\n\n(17) Considerando que a execução das medidas previstas no presente regulamento contribuirá para a realização dos objectivos da União e que o Tratado não prevê, para a adopção do presente regulamento, outros poderes para além dos previstos no artigo 308.o,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1474a8b4ff083b26": {
+   "fragment_id": "Artigo 1.º — Definição e objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Definição e objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definição e objectivo\n\n1. É instituído um instrumento estrutural de pré-adesão, a seguir designado \"ISPA\".\n\nO ISPA prestará assistência para contribuir para a preparação da adesão à União Europeia dos seguintes países candidatos: Bulgária, Eslováquia, Eslovénia, Estónia, Hungria, Letónia, Lituânia, Polónia, República Checa e Roménia, a seguir designados \"países beneficiários\", em matéria de coesão económica e social, no que refere às políticas do ambiente e dos transportes, nos termos do presente regulamento.\n\n2. A assistência comunitária concedida ao abrigo do ISPA contribuirá para a realização dos objectivos fixados na parceria de adesão de cada país candidato e dos programas nacionais correspondentes de melhoria do ambiente e das redes de infra-estruturas de transportes."
+  },
+  "2973ac4799e7f92f": {
+   "fragment_id": "Artigo 2.º — Medidas elegíveis",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Medidas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Medidas elegíveis\n\n1. A assistência da Comunidade financiada ao abrigo do ISPA incluirá projectos, fases de projecto técnica e financeiramente independentes, grupos de projectos ou projectos integrados, no domínio do ambiente ou dos transportes, a seguir conjuntamente designados \"medidas\". Uma fase de um projecto pode igualmente abranger os estudos preparatórios, de viabilidade e técnicos necessários à realização do projecto.\n\n2. A Comunidade prestará, ao abrigo do ISPA e em função dos objectivos enunciados no artigo 1.o, assistência a:\n\na) Medidas no domínio do ambiente, que permitam aos países beneficiários cumprir as disposições da legislação comunitária em matéria de ambiente e os objectivos das parcerias de adesão,\n\nb) Medidas no domínio das infra-estruturas de transporte, que promovam uma mobilidade sustentável, nomeadamente as que constituam projectos de interesse comum, com base nos critérios da Decisão n.o 1692/96/CE, e as que permitam aos países beneficiários cumprir os objectivos das parcerias de adesão; estas medidas incluem nomeadamente, a interconexão e a interoperabilidade das redes nacionais entre si e com as redes transeuropeias, assim como o acesso a essas redes.\n\nAs medidas deverão ter uma dimensão suficientemente importante para que tenham impacto significativo no domínio da protecção do ambiente ou na melhoria das redes de infra-estruturas de transportes. O custo total de cada medida não deverá, em princípio, ser inferior a 5 milhões de euros. Em casos excepcionais e devidamente justificados, tendo em conta as circunstâncias específicas em causa, o custo total de uma determinada medida poderá ser inferior a 5 milhões de euros.\n\n3. Será garantido em equilíbrio entre medidas em matéria de ambiente e medidas relacionadas com infra-estruturas de transportes.\n\n4. Pode também ser concedida assistência a:\n\na) Estudos preparatórios relacionados com medidas elegíveis, incluindo os necessários à sua execução; e\n\nb) Medidas de assistência técnica, incluindo acções de informação e publicidade, designadamente:\n\ni) medidas horizontais, como estudos comparativos de avaliação do impacto da assistência comunitária,\n\nii) medidas e estudos que contribuam para a apreciação, o acompanhamento, a avaliação ou o controlo de projectos, bem como para reforçar e assegurar a coordenação e a coerência dos projectos com as parcerias de adesão, e\n\niii) medidas e estudos destinados a assegurar uma gestão e execução eficazes dos projectos e a proceder aos ajustamentos necessários."
+  },
+  "ed33865bc0785a88": {
+   "fragment_id": "Artigo 3.º — Recursos financeiros",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Recursos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Recursos financeiros\n\nA assistência comunitária ao abrigo do ISPA será concedida durante o período compreendido entre 2000 e 2006.\n\nAs dotações anuais serão autorizadas pela autoridade orçamental dentro dos limites das perspectivas financeiras."
+  },
+  "a38fbe12e813a0f8": {
+   "fragment_id": "Artigo 4.º — Repartição indicativa",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Repartição indicativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Repartição indicativa\n\nA Comissão, deliberando nos termos do artigo 14.o, procederá a uma repartição indicativa da assistência comunitária global ao abrigo do ISPA pelos países beneficiários, com base nos critérios de população, produto interno bruto (PIB) per capita em paridades de poder de compra e superfície.\n\nEssa repartição poder ser ajustada para atender à eficiência demonstrada nos anos anteriores por cada um dos países beneficiários na execução das medidas do ISPA. Devem igualmente ser tidas em conta as deficiências dos países beneficiários nos domínios do ambiente e das infra-estruturas de transportes."
+  },
+  "ca2fd6f4c5dfb432": {
+   "fragment_id": "Artigo 5.º — Compatibilidade com as políticas comunitárias",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Compatibilidade com as políticas comunitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Compatibilidade com as políticas comunitárias\n\n1. As medidas financiadas pela Comunidade ao abrigo do ISPA devem observar o disposto nos Acordos Europeus, incluindo as regras de execução desses acordos em matéria de auxílios estatais, e contribuir para a realização das políticas comunitárias, nomeadamente das relativas à protecção e melhoria do ambiente, aos transportes e às redes transeuropeias.\n\n2. A Comissão garantirá a coordenação e a coerência entre as medidas executadas no âmbito do presente regulamento e as medidas beneficiárias de contribuições provenientes do orçamento comunitário, incluindo contribuições provenientes de iniciativas comunitárias em matéria de cooperação transfronteiras, transnacional e inter-regional, de operações do Banco Europeu de Investimento (BEI), incluindo o seu mecanismo de pré-adesão, e dos demais instrumentos financeiros comunitários, e do facto informará o comité previsto no artigo 14.o\n\n3. A Comissão procurará a coordenação e a coerência entre as medidas executadas nos países beneficiários, no âmbito do presente regulamento e as operações do Banco Europeu de Reconstrução e Desenvolvimento (BERD), do Banco Mundial e de outras instituições financeiras, e do facto informará o comité previsto no artigo 14.o do presente regulamento."
+  },
+  "c6ff2005b01c3036": {
+   "fragment_id": "Artigo 6.º — Formas e taxa de assistência",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Formas e taxa de assistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formas e taxa de assistência\n\n1. A assistência comunitária ao abrigo do ISPA pode assumir a forma de assistência directa não reembolsável, assistência reembolsável ou qualquer outro tipo de assistência.\n\nA assistência reembolsada à autoridade de gestão ou a outra autoridade pública será reaplicada para os mesmos fins.\n\n2. A taxa da assistência comunitária concedida ao abrigo do ISPA pode ascender a 75 % das despesas públicas ou similares, incluindo as despesas de organismos cujas actividades sejam realizadas num quadro administrativo ou legal que os torne equiparáveis a organismos públicos. A Comissão pode decidir, nos termos do artigo 14.o, aumentar esta taxa até 85 %, nomeadamente se considerar que é necessária uma taxa superior a 75 % para a execução de projectos essenciais para a realização dos objectivos globais do ISPA.\n\nSalvo no caso de assistência reembolsável ou quando exista um interesse comunitário substancial, a taxa de assistência será reduzida para atender:\n\na) À disponibilidade de co-financiamento,\n\nb) À capacidade da medida para gerar receitas; e\n\nc) A uma aplicação adequada do princípio do \"poluidor-pagador\".\n\n3. Entende-se por medidas geradoras de receitas nos termos do n.o 2, alínea b), as medidas relativas:\n\na) Às infra-estruturas cuja utilização implique encargos suportados pelos utilizadores;\n\nb) Aos investimentos produtivos no sector do ambiente.\n\n4. Os estudos preparatórios e as medidas de apoio técnico podem, a título excepcional, ser financiados a 100 % do custo total.\n\nA totalidade das despesas efectuadas por iniciativa da Comissão ou em seu nome, nos termos do presente número, não pode exceder 2 % da dotação total do ISPA."
+  },
+  "b163eb65f4acd064": {
+   "fragment_id": "Artigo 7.º — Apreciação e aprovação das medidas",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Apreciação e aprovação das medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apreciação e aprovação das medidas\n\n1. A Comissão adoptará decisões sobre as medidas a financiar ao abrigo do ISPA, nos termos do artigo 14.o\n\n2. Os pedidos de assistência serão apresentados à Comissão pelos países beneficiários. No entanto, a Comissão pode conceder assistência por iniciativa própria, nos termos do n.o 4 do artigo 2.o, quando o interesse comunitário for prevalecente.\n\n3. Os pedidos conterão:\n\na) As informações enunciadas no anexo I;\n\nb) As informações relevantes para provar a conformidade das medidas com o presente regulamento e com os critérios do anexo II, e designadamente a existência de vantagens socioeconómicas a médio prazo, proporcionais aos recursos mobilizados.\n\n4. A partir da recepção de um pedido de concessão de apoio e antes da aprovação de uma medida, a Comissão deve proceder a uma apreciação aprofundada do mesmo, a fim de avaliar a sua conformidade com os critérios do anexo II.\n\n5. As decisões da Comissão relativas à aprovação das medidas determinarão o montante da assistência financeira, o plano de financiamento e as disposições e condições necessárias para a execução das medidas.\n\n6. A assistência combinada do ISPA e de outros auxílios comunitários a uma determinada medida não deve exceder 90 % das despesas totais relativas a essa medida.\n\n7. A Comissão adoptará regras comuns para a elegibilidade das despesas, nos termos do artigo 14.o"
+  },
+  "7177dc928f5c3c19": {
+   "fragment_id": "Artigo 8.º — Autorizações e pagamentos",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Autorizações e pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Autorizações e pagamentos\n\n1. A Comissão executará as despesas previstas no ISPA nos termos do Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias e com base no protocolo financeiro a estabelecer entre a Comissão e o país beneficiário.\n\nNo entanto, as autorizações orçamentais anuais relativas à assistência concedida às medidas serão efectuadas de acordo com uma das seguintes modalidades:\n\na) As autorizações para as medidas referidas no n.o 2 do artigo 2.o com duração igual ou superior a dois anos, serão, de modo geral e sob reserva do disposto na alínea b), efectuadas por fracções anuais.\n\nAs autorizações relativas à primeira fracção anual ocorrerão no momento em que for estabelecido o protocolo financeiro. As autorizações relativas às fracções anuais posteriores basear-se-ão no plano de financiamento, inicial ou revisto, da medida, e serão efectuadas, em princípio, no início de cada exercício orçamental, e o mais tardar em 1 de Abril do ano em questão, de acordo com as previsões de despesas para esse ano;\n\nb) Para as medidas com duração inferior a dois anos ou com uma contribuição comunitária não superior a 20 milhões de euros, poderá ser autorizado um primeiro montante até 80 % da assistência concedida no momento em que for estabelecido o protocolo financeiro. A parte remanescente será autorizada em função do estado de execução da medida.\n\n2. Salvo em casos devidamente justificados, será anulada a assistência concedida para uma medida em relação à qual não tenham sido iniciados trabalhos substanciais dentro do período contratual especificado.\n\n3. O pagamento da assistência financeira pode assumir a forma quer de adiantamentos quer de pagamentos intermédios ou de saldos, em função das despesas certificadas e efectivamente pagas.\n\nA Comissão adoptará regras de execução dos pagamentos nos termos do artigo 14.o\n\n4. As disposições pormenorizadas do dispositivo de pagamento relativo às medidas constarão do protocolo financeiro com cada país beneficiário."
+  },
+  "c1224066b0486854": {
+   "fragment_id": "Artigo 9.º — Gestão e controlo",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Gestão e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Gestão e controlo\n\n1. A Comissão exigirá aos países beneficiários que:\n\na) Instituam a partir de 1 de Janeiro de 2000, e, de qualquer modo, o mais tardar em 1 de Janeiro de 2002, sistemas de gestão e controlo que garantam:\n\ni) uma correcta aplicação da assistência concedida ao abrigo do presente regulamento, de acordo com os princípios da boa gestão financeira,\n\nii) a separação das funções de gestão e de controlo,\n\niii) que as declarações de despesas apresentadas à Comissão sejam exactas e procedam de sistemas de contabilidade baseados em documentos comprovativos passíveis de verificação;\n\nb) Verifiquem regularmente se as medidas financiadas pela Comunidade foram correctamente executadas;\n\nc) Previnam irregularidades e desencadeiem os processos necessários;\n\nd) Recuperem quaisquer montantes perdidos na sequência de irregularidades ou negligências.\n\n2. Sem prejuízo dos controlos efectuados pelos países beneficiários, a Comissão e o Tribunal de Contas podem, através dos seus funcionários ou representantes devidamente autorizados, proceder no local a auditorias técnicas ou financeiras, incluindo controlos por amostragem e auditorias finais.\n\n3. Os protocolos financeiros conterão regras pormenorizadas de execução dos princípios previstos nos n.os 1 e 2, bem como disposições de cooperação e coordenação da programação e metodologia de controlo entre a Comissão e o país beneficiário. A Comissão informará desse facto o comité instituído no artigo 14.o\n\n4. Os protocolos financeiros conterão igualmente disposições relativas à redução, suspensão ou anulação da assistência, no caso de a execução de uma medida não justificar, no todo ou em parte, a assistência concedida.\n\n5. A Comissão assegurará que, na aplicação do presente regulamento, sejam cumpridos os princípios de boa gestão financeira, nomeadamente no que se refere aos elementos do anexo III."
+  },
+  "003d1cc73c64285f": {
+   "fragment_id": "Artigo 10.º — Utilização do euro",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Utilização do euro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Utilização do euro\n\n1. Os montantes referidos nos pedidos de assistência, incluindo os respectivos planos de financiamento, serão expressos em euros.\n\n2. Os montantes da assistência e os planos de financiamento aprovados pela Comissão serão expressos em euros.\n\n3. As declarações de despesas apresentadas, justificativas dos correspondentes pedidos de pagamento, serão expressas em euros.\n\n4. Os pagamentos da assistência financeira pela Comissão serão feitos em euros à autoridade designada pelo país beneficiário para receber esses pagamentos."
+  },
+  "a11df2efd68a8b92": {
+   "fragment_id": "Artigo 11.º — Acompanhamento e avaliação subsequente",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Acompanhamento e avaliação subsequente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acompanhamento e avaliação subsequente\n\nCompete aos países beneficiários e à Comissão garantir que a execução das medidas ao abrigo do presente regulamento seja acompanhada e avaliada, nos termos do anexo IV."
+  },
+  "17292355f6419836": {
+   "fragment_id": "Artigo 12.º — Relatório anual",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Relatório anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Relatório anual\n\nA Comissão apresentará ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social e ao Comité das Regiões um relatório anual sobre a assistência concedida pela Comunidade ao abrigo do ISPA. As informações a incluir no relatório anual são as enumeradas no anexo V.\n\nO Parlamento Europeu pronunciar-se-á sobre o relatório no prazo de três meses. A Comissão informará sobre o modo como tomou em consideração o parecer do Parlamento Europeu.\n\nA Comissão assegurará a informação regular dos países beneficiários sobre as actividades do ISPA."
+  },
+  "76564d1279a38043": {
+   "fragment_id": "Artigo 13.º — Informação e publicidade",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Informação e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Informação e publicidade\n\n1. Os países beneficiários responsáveis pela execução de medidas que beneficiem da assistência financeira da Comunidade ao abrigo do ISPA devem tomar as medidas adequadas para que ela seja objecto da publicidade adequada, a fim de:\n\na) Sensibilizar a opinião pública quanto ao papel desempenhado pela Comunidade, em relação a essas medidas;\n\nb) Sensibilizar os potenciais beneficiários e as organizações profissionais quanto às possibilidades que essas medidas oferecem.\n\nOs países beneficiários assegurarão, nomeadamente, a instalação de painéis distintamente visíveis, com o símbolo comunitário, que indiquem que o co-financiamento da medida pela Comunidade, bem como a devida participação de representantes das instituições comunitárias nas actividades públicas de maior importância relacionadas com a assistência comunitária concedida ao abrigo do ISPA.\n\nOs países beneficiários devem informar anualmente a Comissão das iniciativas desenvolvidas a título do presente número.\n\n2. A Comissão adoptará regras de execução em matéria de informação e publicidade, nos termos do artigo 14.o\n\nA Comissão informará o Parlamento Europeu dessas regras e publicá-las-á no Jornal Oficial das Comunidades Europeias."
+  },
+  "cd22c492ea31094e": {
+   "fragment_id": "Artigo 14.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Comité\n\n1. A Comissão será assistida por um comité de gestão composto por representantes dos Estados-Membros e presidido pelo representante da Comissão, adiante designado \"comité\". O Banco Europeu de Investimento designará um representante sem direito de voto.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão. O parecer será emitido por maioria, nos termos previstos no n.o 2 do artigo 205.o do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-Membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3. a) A Comissão adoptará medidas que são imediatamente aplicáveis;\n\nb) Todavia, se não forem conformes com o parecer do comité, essas medidas serão imediatamente comunicadas pela Comissão ao Conselho. Nesse caso:\n\n- a Comissão diferirá a aplicação das medidas que aprovou por um prazo que será fixado em cada acto adoptado pelo Conselho, mas que não pode em caso algum exceder três meses a contar da data da comunicação,\n\n- o Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo previsto no parágrafo anterior.\n\n4. O comité pode analisar quaisquer questões relacionadas com a execução do presente regulamento que sejam submetidas à sua apreciação pelo presidente, incluindo a pedido do representante de um Estado-Membro.\n\n5. O comité adoptará o seu regulamento interno por maioria qualificada."
+  },
+  "525ed198703e71b9": {
+   "fragment_id": "Artigo 15.º — Reafectação de recursos",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Reafectação de recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Reafectação de recursos\n\nUm país que se torne membro da União Europeia perde o direito à assistência prevista no presente regulamento. Os recursos disponibilizados pelo facto de um país candidato se ter tornado membro da União Europeia serão reafectados a outros países candidatos referidos no n.o 1 do artigo 1.o A reafectação será efectuada em função das necessidades do país candidato e da sua capacidade de absorção da ajuda assim como dos critérios previstos no artigo 4.o\n\nO Conselho, deliberando por maioria qualificada sob proposta da Comissão, adoptará uma decisão que defina a abordagem geral da reafectação.\n\nA Comissão decidirá da reafectação dos recursos disponíveis entre os restantes beneficiários, nos termos do artigo 14.o, em função da decisão do Conselho referida no segundo parágrafo do presente artigo."
+  },
+  "f9ac95e3c421228e": {
+   "fragment_id": "Artigo 16.º — Disposições finais e transitórias",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Disposições finais e transitórias\n\nO Conselho, deliberando sob proposta da Comissão nos termos do artigo 308.o do Tratado, reexaminará o presente regulamento até 31 de Dezembro de 2006."
+  },
+  "6ba60096858b7b3d": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente regulamento entra em vigor três dias após a sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito no Luxemburgo, em 21 de Junho de 1999.\n\nPelo Conselho\n\nO Presidente\n\nG. VERHEUGEN\n\n(1) JO C 164 de 29.5.1998, p. 4.\n\n(2) Parecer emitido em 6 de Maio de 1999 (ainda não publicado no Jornal Oficial).\n\n(3) JO C 407 de 28.12.1998.\n\n(4) JO C 373 de 2.12.1998.\n\n(5) JO L 85 de 20.3.1998, p. 1.\n\n(6) JO L 375 de 23.12.1989, p. 11. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 753/96 (JO L 103 de 26.4.1996, p. 5).\n\n(7) Ver a página 87 do presente Jornal Oficial.\n\n(8) Ver a página 68 do presente Jornal Oficial.\n\n(9) JO L 228 de 9.9.1998, p. 1.\n\n(10) JO L 139 de 11.5.1998, p. 1."
+  },
+  "82646157beeb3633": {
+   "fragment_id": "ANEXO I — Conteúdo dos pedidos [n.o 3, alínea a), do artigo 7.o]",
+   "type": "divisao",
+   "heading": "ANEXO I — Conteúdo dos pedidos [n.o 3, alínea a), do artigo 7.o]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Conteúdo dos pedidos [n.o 3, alínea a), do artigo 7.o]\n\nDos pedidos constarão as seguintes informações:\n\n1. Nome do organismo responsável pela execução, natureza da medida e sua descrição;\n\n2. Custo e localização da medida, incluindo, se for caso disso, indicações sobre a interconexão e interoperabilidade de medidas situadas no mesmo eixo de transporte;\n\n3. Calendário de execução dos trabalhos;\n\n4. Análise custo/benefício, incluindo os efeitos directos e indirectos no emprego, que devem ser quantificados se forem quantificáveis;\n\n5. Avaliação de impacto ambiental, similar à avaliação prevista na Directiva 85/337/CEE do Conselho, de 27 de Junho de 1985, relativa à avaliação dos efeitos de determinados projectos públicos e privados no ambiente(1);\n\n6. Informações sobre o cumprimento das regras de concorrência e da regulamentação em matéria de contratos públicos;\n\n7. Plano de financiamento, incluindo, na medida do possível, indicações sobre a viabilidade económica da medida e o montante total de financiamento que o país beneficiário prentende obter do ISPA, do BEI, incluindo o seu mecanismo de pré-adesão, e de outras fontes comunitárias ou dos Estados-Membros, do BERD e do Banco Mundial;\n\n8. Compatibilidade da medida com as políticas comunitárias;\n\n9. Informações sobre as disposições destinadas a assegurar uma utilização e manutenção eficazes das instalações;\n\n10. (Medidas em matéria de ambiente) Informações sobre o lugar e o grau de prioridade da medida na estratégia nacional em matéria de ambiente, estabelecida no programa nacional de adopção do acervo comunitário;\n\n11. (Medidas em matéria de transportes) Informações sobre a estratégia nacional de desenvolvimento dos transportes e o lugar e o grau de prioridade da medida nessa estratégia, incluindo o grau de coerência com as orientações das redes transeuropeias e com a política paneuropeia de transportes.\n\n(1) JO L 175 de 5.7.1985, p. 40. Directiva com a redacção que lhe foi dada pela Directiva 97/11/CE (JO L 73 de 14.3.1997, p. 5."
+  },
+  "92467f9375d644f3": {
+   "fragment_id": "ANEXO II — Apreciação das medidas [n.o 3, alínea b), e n.o 4 do artigo 7.o]",
+   "type": "divisao",
+   "heading": "ANEXO II — Apreciação das medidas [n.o 3, alínea b), e n.o 4 do artigo 7.o]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Apreciação das medidas [n.o 3, alínea b), e n.o 4 do artigo 7.o]\n\nA. Na apreciação das medidas serão utilizados os seguintes critérios, com o objectivo de garantir a sua elevada qualidade, nos termos do artigo 2.o:\n\n1. Benefícios económicos e sociais, que serão proporcionais aos recursos mobilizados, incluindo o seu potencial para suscitar financiamentos privados; será feita uma avaliação baseada numa análise custo/benefício;\n\n2. Disposições destinadas a assegurar uma gestão eficaz das medidas;\n\n3. Prioridades estabelecidas para as zonas de intervenção pelas parcerias de adesão;\n\n4. Contribuição das medidas para a realização da política comunitária de ambiente e o resultado da avaliação de impacto ambiental a que se refere o anexo I;\n\n5. Contribuição das medidas para as redes transeuropeias e a política comum de transportes;\n\n6. Realização de um equilíbrio adequado entre os domínios do ambiente e das infra-estruturas de transportes;\n\n7. Estudo de possíveis modos de financiamento alternativos, nos termos do artigo 6.o\n\nB. A Comissão pode, se necessário, convidar o BEI, o BERD ou o Banco Mundial a contribuir para a apreciação das medidas. A Comissão examinará os pedidos de contribuição, nomeadamente para verificar se os mecanismos administrativos e financeiros permitem uma execução eficaz da medida.\n\nC. A Comissão procederá à apreciação das medidas a fim de determinar o seu impacto previsível relativamente aos objectivos do presente regulamento, com base em indicadores quantitativos adequados. Os países beneficiários fornecerão todos os elementos necessários, referidos no anexo I, incluindo os resultados dos estudos de viabilidade e das apreciações, uma indicação das alternativas não seleccionadas e informações sobre a coordenação de medidas de interesse comum situadas no mesmo eixo de transporte, de modo a que esta apreciação possa ser realizada o mais eficazmente possível."
+  },
+  "2cb60fcc6d671e90": {
+   "fragment_id": "ANEXO III — Gestão e controlo financeiros (n.o 5 do artigo 9.o)",
+   "type": "divisao",
+   "heading": "ANEXO III — Gestão e controlo financeiros (n.o 5 do artigo 9.o)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Gestão e controlo financeiros (n.o 5 do artigo 9.o)\n\n1. Em cada país beneficiário designar-se-á uma entidade central pela qual serão canalizados os fundos concedidos ao abrigo do ISPA.\n\nO responsável por essa entidade terá a responsabilidade global pela gestão dos fundos no país beneficário em questão.\n\n2. Os sistemas de gestão e controlo dos países beneficiários terão uma pista de auditoria que permita, nomeadamente:\n\n- reconciliar as contas sumárias certificadas à Comissão com os registos contabilísticos e documentos justificativos, nos diversos níveis administrativos,\n\n- verificar as transferências dos fundos disponíveis, comunitários e outros,\n\n- analisar os planos técnicos e financeiros do projecto, os relatórios sobre os progressos realizados, os processos de concurso e de adjudicação, nos diversos níveis administrativos.\n\n3. O processo a seguir para a adjudicação dos contratos de empreitadas, de fornecimentos ou de serviços será determinado no memorando financeiro e terá em conta os princípios chave previstos no título IX do Regulamento Financeiro, nomeadamente:\n\n- no âmbito de medidas abrangidas por um memorando financeiro, a execução é realizada pelo país beneficiário em estreita colaboração com a Comissão, que continua responsável pela utilização das dotações,\n\n- a Comissão, em estreita cooperação com o país beneficiário, diligenciará no sentido de serem asseguradas a igualdade de condições na participação em concursos, a eliminação de discriminações e a escolha da proposta economicamente mais vantajosa.\n\nContudo, nos termos do artigo 12.o do Regulamento (CE) 1266/1999, as dotações podem ser objecto de uma larga gestão descentralizada, nomeadamente no que diz respeito à aprovação prévia pela Comissão do lançamento de concursos, avaliação de propostas e adjudicação de contratos e gestão financeira.\n\nEstas disposições, a definir no memorando financeiro com o país beneficiário, terão em conta a sua gestão financeira quantitativa e qualitativa e a sua capacidade de controlo financeiro.\n\n4. Os controlos financeiros adequados, internos e externos, serão efectuados segundo as normas de auditoria reconhecidas internacionalmente, pela autoridade nacional competente em matéria de controlo financeiro, que deverá ser independente para desempenhar essa função. Todos os anos será enviado à Comissão um plano de auditoria e um sumário dos resultados dos controlos efectuados. Os relatórios de auditoria serão mantidos ao dispor da Comissão.\n\nA Comissão e o país beneficiário cooperarão na coordenação de programas e métodos de fiscalização, de modo a dar a máxima utilidade às fiscalizações que forem realizadas.\n\nO país beneficiário garantirá que sempre que forem efectuados controlos por funcionários da Comissão, ou pelos seus representantes devidamente autorizados, esses funcionários terão o direito de inspeccionar in loco toda a documentação e contas pertinentes que digam respeito a elementos financiados ao abrigo do memorando de financiamento. Os países beneficiários assistirão o Tribunal de Contas na realização de fiscalizações relacionadas com a utilização de fundos concedidos ao abrigo do ISPA.\n\nAs autoridades responsáveis manterão à disposição todos os documentos justificativos de despesas para cada projecto durante um período de cinco anos a contar do último pagamento relativo ao projecto.\n\n5. O memorando financeiro com cada país incluirá as seguintes disposições em matéria de correcções financeiras.\n\nSe a execução de uma medida parecer não justificar uma parte ou a totalidade da ajuda afectada, a Comissão efectuará uma análise apropriada do caso, solicitando nomeadamente ao país beneficiário que apresente os seus comentários dentro de um prazo determinado e que corrija quaisquer irregularidades.\n\nApós a análise mencionada no n.o 1, a Comissão poderá reduzir, suspender ou anular a assistência relativa às medidas em questão, se a análise revelar irregularidades, uma associação de fundos imprópria ou o incumprimento de uma das condições da decisão respeitante à concessão da assistência ou, nomeadamente, uma alteração significativa que afecte a natureza ou as condições de execução da medida, para a qual não tenha sido solicitada a aprovação da Comissão. A redução ou anulação da ajuda implicará a recuperação dos montantes pagos.\n\nSe a Comissão considerar que a irregularidade não foi corrigida ou que toda ou parte da operação não justifica a totalidade ou parte da assistência que lhe tenha sido atribuída, a Comissão efectuará uma análise apropriada do caso e solicitará ao país beneficiário que apresente os seus comentários dentro de um prazo determinado. Após a análise, e se não tiverem sido tomadas medidas de correcção pelo país beneficiário, a Comissão poderá:\n\na) Reduzir ou anular eventuais adiantamentos;\n\nb) Anular toda ou parte da ajuda concedida para essa medida.\n\nA Comissão determinará a amplitude da correcção tendo em conta a natureza da irregularidade e o grau das eventuais falhas dos sistemas de gestão e de controlo. Qualquer montante que dê lugar a repetição do indevido deve ser restituído à Comissão. A esse montante serão acrescidos juros de mora, segundo regimes a adoptar pela Comissão."
+  },
+  "eef9ed5dd447266f": {
+   "fragment_id": "ANEXO IV — Acompanhamento e avaliação subsequente (artigo 11.o)",
+   "type": "divisao",
+   "heading": "ANEXO IV — Acompanhamento e avaliação subsequente (artigo 11.o)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Acompanhamento e avaliação subsequente (artigo 11.o)\n\nA. O acompanhamento será assegurado por meio de relatórios elaborados segundo procedimentos adoptados de comum acordo, de controlos por amostragem e dos comités instituídos para o efeito. O acompanhamento recorrerá a indicadores físicos e financeiros. Esses indicadores estão relacionados com o carácter específico do projecto e com os seus objectivos. Os indicadores serão estruturados de forma a indicarem o estado de adiantamento da medida relativamente ao plano e aos objectivos inicialmente estabelecidos, bem como os progressos da gestão e eventuais problemas conexos.\n\nB. Os comités serão constituídos por acordo entre o país beneficiário em causa e a Comissão. As autoridades ou organismos designados do país beneficiário, a Comissão e, se necessário, o BEI estarão representados nesses comités. Quando forem competentes para a execução de um projecto ou quando um projecto lhes disser directamente respeito, as autoridades regionais e locais e as empresas privadas estarão igualmente representadas nesses comités.\n\nC. Para cada medida, a autoridade ou o organismo responsável pela medida enviará à Comissão, nos três meses subsequentes ao termo de cada ano completo de execução, um relatório sobre os progressos realizados.\n\nD. Com base nas indicações do acompanhamento e tendo em conta as observações do Comité de Acompanhamento, a Comissão adaptará, eventualmente sob proposta dos países beneficiários, o volume e as condições de concessão da assistência financeira inicialmente aprovada e o plano de financiamento previsto.\n\nA Comissão adoptará as disposições adequadas para essas adaptações, diferenciando-as segundo a sua natureza e importância.\n\nE. A autoridade ou organismo responsável pela medida apresentará um relatório final à Comissão, nos seis meses subsequentes à conclusão da medida ou da fase de projecto. Esse relatório final incluirá:\n\n1. Uma descrição dos trabalhos realizados e respectivos indicadores físicos, quantificação das despesas por categorias de trabalhos e medidas tomadas em relação a cláusulas específicas constantes da decisão de concessão da assistência;\n\n2. A certificação da conformidade dos trabalhos com a decisão de concessão de assistência;\n\n3. Uma primeira apreciação da medida em que os resultados esperados foram alcançados, a qual conterá nomeadamente:\n\na) A data efectiva de execução da medida;\n\nb) A indicação do modo como a medida será gerida, após a suas conclusão;\n\nc) A confirmação, se for caso disso, das previsões da análise financeira, em especial quanto aos custos operacionais e aos rendimentos esperados;\n\nd) A confirmação das previsões da análise socioeconómica, designadamente em matéria de custos e benefícios esperados;\n\ne) A indicação das disposições tomadas para assegurar a protecção do ambiente e respectivo custo.\n\n4. Informações relativas às acções de publicidade.\n\nF. A avaliação subsequente incidirá na utilização dos recursos, na eficácia da assistência e no seu impacto. A avaliação abrangerá os factores de êxito ou de insucesso da execução da medida, bem como os factores que contribuíram para as realizações e resultados. Após a conclusão da medida, a Comissão e os países beneficiários avaliarão o modo como a mesma foi executada, inclusive do ponto de vista da eficácia da utilização dos recursos. A avaliação abrangerá igualmente o impacto efectivo da sua execução, a fim de avaliar a realização dos objectivos iniciais. Determinará ainda o contributo prestado pela medida para a realização das políticas comunitárias em matéria de ambiente ou o seu contributo para as redes transeuropeias e a política comum de transportes, bem como o seu impacto ambiental.\n\nG. A fim de aumentar a eficácia da assistência comunitária concedida ao abrigo do ISPA, a Comissão assegurará que, na administração do ISPA, seja dada especial atenção à transparência da gestão.\n\nH. As regras de execução relativas ao acompanhamento e à avaliação serão especificadas nas decisões da Comissão que aprovem as medidas."
+  },
+  "aaaba6f4c9c99a47": {
+   "fragment_id": "ANEXO V — Relatório anual da Comissão (artigo 12.o)",
+   "type": "divisao",
+   "heading": "ANEXO V — Relatório anual da Comissão (artigo 12.o)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — Relatório anual da Comissão (artigo 12.o)\n\nO relatório anual incluirá informações sobre os seguintes pontos:\n\n1. Assistência financeira autorizada e paga pela Comunidade ao abrigo do ISPA, com uma repartição anual por país beneficiário e por categoria de projecto (ambiente e transportes);\n\n2. Contributo prestado pela assistência da Comunidade ao abrigo do ISPA para o esforço desenvolvido pelos países beneficiários para aplicar a politíca comunitária do ambiente e para reforçar as redes transeuropeias de infra-estruturas de transportes; equilíbrio entre as medidas nos domínios do ambiente e das infra-estruturas de transportes;\n\n3. Avaliação da compatibilidade das intervenções de apoio da Comunidade ao abrigo do ISPA com as políticas comunitárias, incluindo as de protecção do ambiente, transportes, concorrência e adjudicação de controlos públicos;\n\n4. Disposições tomadas para assegurar a coordenação e a coerência entre as medidas financiadas ao abrigo do ISPA e as medidas financiadas com base em contribuições do orçamento comunitário, do BEI e dos restantes instrumentos financeiros comunitários;\n\n5. Esforço de investimento desenvolvido pelos países beneficiários nos domínios da protecção do ambiente e das infra-estruturas de transportes;\n\n6. Estudos preparatórios e medidas de assistência técnica financiados;\n\n7. Resultados da apreciação, acompanhamento e avaliação das medidas, incluindo eventuais adaptações das medidas efectuadas em função desses resultados;\n\n8. Contribuição do BEI para a avaliação das medidas;\n\n9. Resumo dos resultados dos controlos efectuados, irregularidades detectadas e procedimentos administrativos e judiciais em curso;\n\n10. Informações sobre acções de publicidade."
+  },
+  "cfcdc9bc7c29956c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Junho de 1999\n\nque cria um instrumento estrutural de pré-adesão\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 308.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#E0003)),\n\nTendo em conta o parecer do Comité das Regiões ([^4^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#E0004)),\n\n(1) Considerando que as conclusões do Conselho Europeu do Luxemburgo, de 12 de 13 de Dezembro de 1997, prevêem uma estratégia reforçada de pré-adesão para os países candidatos da Europa Central e Oriental e uma estratégia de pré-adesão específica para Chipre;\n\n(2) Considerando que as conclusões do Conselho Europeu do Luxemburgo, de 12 e 13 de Dezembro de 1997, prevêem que a ajuda prevista no presente regulamento seja por ora concedida aos 10 países candidatos da Europa Central e Oriental;\n\n(3) Considerando que o Regulamento (CE) n.º 622/98 do Conselho, de 16 de Março de 1998, relativo à assistência aos Estados candidatos à adesão à União Europeia no contexto de uma estratégia de pré-adesão e, em particular, à instituição de parcerias de adesão ([^5^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#E0005)), prevê que aquelas parcerias devem compreender um quadro único para os domínios prioritários e todos os recuros disponíveis para uma assistência de pré-adesão;\n\n(4) Considerando que a estratégia de pré-adesão prevê a criação de um instrumento estrutural de pré-adesão (ISPA), cujo objectivo principal consistirá em alinhar os candidatos pelas normas comunitárias em matérias de infra-estruturas, fornecendo uma contribuição financeira para medidas nos domínios do ambiente e das infra-estruturas de transpore;\n\n(5) Considerando que a contribuição comunitária ao abrigo do ISPA, juntamente com a contribuição comunitária ao abrigo do Regulamento (CEE) n.º 3906/89 do Conselho, de 18 de Dezembro 1989, relativo à ajuda económica a favor da República da Hungria e da República Popular da Polónia ([^6^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#E0006)), e a contribuição comunitária ao abrigo do Regulamento (CE) n.º 1268/1999 do Conselho, de 21 de Junho de 1999, relativo ao apoio comunitário a medidas de pré-adesão em matéria de agricultura e desenvolvimento rural nos países candidatos da Europa Central e Oriental durante o período de pré-adesão ([^7^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#E0007)), será coordenada no quadro do Regulamento (CE) n.º 1266/1999 do Conselho, de 21 de Junho de 1999, relativo à coordenação da ajuda aos países candidatos no âmbito da estratégia de pré-adesão e que altera o Regulamento (CE) n.º 3906/89 ([^8^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#E0008)) e ficará sujeita às disposições de condicionalidade do Regulamento (CE) n.º 622/89 e das várias decisões relativas à instituição de parcerias de adesão;\n\n(6) Considerando que o objectivo deve ser um equilíbrio equitativo entre o financiamento de medidas relativas a infra-estruturas de transporte e o financiamento de medidas no domínio do ambiente, tendo em conta as situações específicas nos países beneficiários;\n\n(7) Considerando que a assistência da Comunidade ao abrigo do ISPA deve facilitar a aplicação do acervo ambiental comunitário pelos países candidatos e contribuir para um desenvolvimento sustentável nesses países;\n\n(8) Considerando que a Decisão n.º 1692/96/CE do Parlamento Europeu e do Conselho, de 23 de Julho de 1996, sobre as orientações comunitárias para o desenvolvimento da rede transeuropeia de transportes ([^9^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#E0009)) descreve os critérios para projectos de interesse comum, que devem ser utilizados, quando necessário, na selecção das medidas elegíveis ao abrigo do presente regulamento;\n\n(9) Considerando que a avaliação das necessidades de infra-estruturas de transportes (TINA), lançada pelo Conselho deve facilitar o processo de selecção de medidas prioritárias para o desenvolvimento de uma rede transeuropeia de transportes durante o período de pré-adesão;\n\n(10) Considerando que se deve prever que a Comissão possa proceder a uma repartição indicativa, entre os países candidatos, dos recursos totais da Comunidade disponíveis para autorização ao abrigo do ISPA, a fim de facilitar a preparação das medidas;\n\n(11) Considerando que o ponto 17 das conclusões do Conselho Europeu do Luxemburgo, de 12 e 13 de Dezembro de 1997, prevê que o apoio financeiro aos Estados implicados no processo de alargamento deverá basear-se, para a repartição da ajuda, no princípio da igualdade de tratamento, independentemente da data da adesão, dando-se especial atenção aos países com maiores necessidades;\n\n(12) Considerando que as taxas do apoio prestado pela Comunidade ao abrigo do ISPA devem ser fixadas, a fim de reforçar o efeito de alavanca dos recursos, promover o co-financiamento e a utilização de fontes de financiamento privadas e ter em conta a capacidade das medidas para gerarem receitas líquidas substanciais;\n\n(13) Considerando que, no que diz respeito à assistência da Comunidade Europeia, há que assegurar um máximo de transparência na concretização da assistência financeira, devendo ser efectuados controlos estritos quanto à utilização das dotações;\n\n(14) Considerando que, para uma boa gestão da assistência comunitária concedida ao abrigo do ISPA, é necessário prever métodos eficazes de apreciação, acompanhamento, avaliação e controlo das operações, especificando o princípio que rege a avaliação, definindo a natureza e as regras do acompanhamento e prevendo as medidas a tomar em caso de irregularidade ou de incumprimento de uma das condições estabelecidas no momento da concessão da assistência do ISPA;\n\n(15) Considerando que, durante o período de transição de 1 de Janeiro de 1999 a 31 de Dezembro de 2001, qualquer referência ao euro deve, em regra geral, ser entendida como uma referência ao euro enquanto unidade monetária, nos termos do segundo período do artigo 2.º do Regulamento (CE) n.º 974/98 do Conselho, de 3 de Maio de 1998, relativo à introdução do euro ([^10^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#E0010));\n\n(16) Considerando que a Comissão deve ser assistida por um Comité de Gestão na aplicação do presente regulamento;\n\n(17) Considerando que a execução das medidas previstas no presente regulamento contribuirá para a realização dos objectivos da União e que o Tratado não prevê, para a adopção do presente regulamento, outros poderes para além dos previstos no artigo 308.º,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "e67e5f0bfbd778d3": {
+   "fragment_id": "Artigo 1.º — Definição e objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Definição e objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definição e objectivo\n\n1. É criado um instrumento estrutural de pré-adesão, a seguir designado «ISPA».\n\nO ISPA prestará assistência à preparação da adesão da Bulgária, da Croácia e da Roménia, a seguir designados «países beneficiários», à União Europeia no domínio da coesão económica e social e, mais especificamente, no que refere às políticas de ambiente e de transportes, nos termos do presente regulamento.\n\n2. A assistência comunitária concedida ao abrigo do ISPA contribuirá para a realização dos objectivos fixados na parceria de adesão de cada país candidato e dos programas nacionais correspondentes de melhoria do ambiente e das redes de infra-estruturas de transportes."
+  },
+  "9b6703c8fcef5faa": {
+   "fragment_id": "Artigo 2.º — Medidas elegíveis",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Medidas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Medidas elegíveis\n\n1. A assistência da Comunidade financiada ao abrigo do ISPA incluirá projectos, fases de projecto técnica e financeiramente independentes, grupos de projectos ou projectos integrados, no domínio do ambiente ou dos transportes, a seguir conjuntamente designados «medidas». Uma fase de um projecto pode igualmente abranger os estudos preparatórios, de viabilidade e técnicos necessários à realização do projecto.\n\n2. A Comunidade prestará, ao abrigo do ISPA e em função dos objectivos enunciados no artigo 1.º, assistência a:\n\na) Medidas no domínio do ambiente, que permitam aos países beneficiários cumprir as disposições da legislação comunitária em matéria de ambiente e os objectivos das parcerias de adesão,\n\nb) Medidas no domínio das infra-estruturas de transporte, que promovam uma mobilidade sustentável, nomeadamente as que constituam projectos de interesse comum, com base nos critérios da Decisão n.º 1692/96/CE, e as que permitam aos países beneficiários cumprir os objectivos das parcerias de adesão; estas medidas incluem nomeadamente, a interconexão e a interoperabilidade das redes nacionais entre si e com as redes transeuropeias, assim como o acesso a essas redes.\n\nAs medidas deverão ter uma dimensão suficientemente importante para que tenham impacto significativo no domínio da protecção do ambiente ou na melhoria das redes de infra-estruturas de transportes. O custo total de cada medida não deverá, em princípio, ser inferior a 5 milhões de euros. Em casos excepcionais e devidamente justificados, tendo em conta as circunstâncias específicas em causa, o custo total de uma determinada medida poderá ser inferior a 5 milhões de euros.\n\n3. Será garantido em equilíbrio entre medidas em matéria de ambiente e medidas relacionadas com infra-estruturas de transportes.\n\n4. Pode também ser concedida assistência a:\n\na) Estudos preparatórios relacionados com medidas elegíveis, incluindo os necessários à sua execução; e\n\nb) Medidas de assistência técnica, incluindo acções de informação e publicidade, designadamente:\n\ni) medidas horizontais, como estudos comparativos de avaliação do impacto da assistência comunitária,\n\nii) medidas e estudos que contribuam para a apreciação, o acompanhamento, a avaliação ou o controlo de projectos, bem como para reforçar e assegurar a coordenação e a coerência dos projectos com as parcerias de adesão, e\n\niii) medidas e estudos destinados a assegurar uma gestão e execução eficazes dos projectos e a proceder aos ajustamentos necessários."
+  },
+  "e98e56ae01c90a4b": {
+   "fragment_id": "Artigo 3.º — Recursos financeiros",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Recursos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Recursos financeiros\n\nA assistência comunitária ao abrigo do ISPA será concedida durante o período compreendido entre 2000 e 2006.\n\nAs dotações anuais serão autorizadas pela autoridade orçamental dentro dos limites das perspectivas financeiras.\n\nNão obstante o que precede, a assistência comunitária à Croácia será concedida durante o período compreendido entre 2005 e 2006."
+  },
+  "9b6b95144faeeade": {
+   "fragment_id": "Artigo 4.º — Repartição indicativa",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Repartição indicativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Repartição indicativa\n\nA Comissão, deliberando nos termos do artigo 14.º, procederá a uma repartição indicativa da assistência comunitária global ao abrigo do ISPA pelos países beneficiários, com base nos critérios de população, produto interno bruto (PIB) *per capita* em paridades de poder de compra e superfície.\n\nEssa repartição poder ser ajustada para atender à eficiência demonstrada nos anos anteriores por cada um dos países beneficiários na execução das medidas do ISPA. Devem igualmente ser tidas em conta as deficiências dos países beneficiários nos domínios do ambiente e das infra-estruturas de transportes.\n\nEm derrogação dos dois primeiros períodos do presente artigo, a dotação a afectar à Croácia, em 2005 e 2006, no quadro do presente instrumento, será determinada pela Comissão com base numa avaliação da capacidade de absorção administrativa e das necessidades em matéria de investimento na perspectiva da adesão deste país beneficiário."
+  },
+  "63ffec3353ebee08": {
+   "fragment_id": "Artigo 5.º — Compatibilidade com as políticas comunitárias",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Compatibilidade com as políticas comunitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Compatibilidade com as políticas comunitárias\n\n1. As medidas financiadas pela Comunidade ao abrigo do ISPA devem observar o disposto nos Acordos Europeus, incluindo as regras de execução desses acordos em matéria de auxílios estatais, e contribuir para a realização das políticas comunitárias, nomeadamente das relativas à protecção e melhoria do ambiente, aos transportes e às redes transeuropeias.\n\n2. A Comissão garantirá a coordenação e a coerência entre as medidas executadas no âmbito do presente regulamento e as medidas beneficiárias de contribuições provenientes do orçamento comunitário, incluindo contribuições provenientes de iniciativas comunitárias em matéria de cooperação transfronteiras, transnacional e inter-regional, de operações do Banco Europeu de Investimento (BEI), incluindo o seu mecanismo de pré-adesão, e dos demais instrumentos financeiros comunitários, e do facto informará o comité previsto no artigo 14.º\n\n3. A Comissão procurará a coordenação e a coerência entre as medidas executadas nos países beneficiários, no âmbito do presente regulamento e as operações do Banco Europeu de Reconstrução e Desenvolvimento (BERD), do Banco Mundial e de outras instituições financeiras, e do facto informará o comité previsto no artigo 14.º do presente regulamento."
+  },
+  "c5ca9be59b8b4107": {
+   "fragment_id": "Artigo 6.º — Formas e taxa de assistência",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Formas e taxa de assistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formas e taxa de assistência\n\n1. A assistência comunitária ao abrigo do ISPA pode assumir a forma de assistência directa não reembolsável, assistência reembolsável ou qualquer outro tipo de assistência.\n\nA assistência reembolsada à autoridade de gestão ou a outra autoridade pública será reaplicada para os mesmos fins.\n\n2. A taxa da assistência comunitária concedida ao abrigo do ISPA pode ascender a 75 % das despesas públicas ou similares, incluindo as despesas de organismos cujas actividades sejam realizadas num quadro administrativo ou legal que os torne equiparáveis a organismos públicos. A Comissão pode decidir, nos termos do artigo 14.º, aumentar esta taxa até 85 %, nomeadamente se considerar que é necessária uma taxa superior a 75 % para a execução de projectos essenciais para a realização dos objectivos globais do ISPA.\n\nSalvo no caso de assistência reembolsável ou quando exista um interesse comunitário substancial, a taxa de assistência será reduzida para atender:\n\na) À disponibilidade de co-financiamento,\n\nb) À capacidade da medida para gerar receitas; e\n\nc) A uma aplicação adequada do princípio do «poluidor-pagador».\n\n3. Entende-se por medidas geradoras de receitas nos termos do n.º 2, alínea b), as medidas relativas:\n\na) Às infra-estruturas cuja utilização implique encargos suportados pelos utilizadores;\n\nb) Aos investimentos produtivos no sector do ambiente.\n\n4. Os estudos preparatórios e as medidas de apoio técnico podem, a título excepcional, ser financiados a 100 % do custo total.\n\nA totalidade das despesas efectuadas por iniciativa da Comissão ou em seu nome, nos termos do presente número, não pode exceder 2 % da dotação total do ISPA."
+  },
+  "f42254563e5d91a8": {
+   "fragment_id": "Artigo 6.º-A — Adjudicação de contratos",
+   "type": "artigo",
+   "heading": "Artigo 6.º-A — Adjudicação de contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º-A — Adjudicação de contratos\n\n1. Relativamente às medidas para as quais a Comunidade constitui a única fonte de ajuda externa, a participação em concursos e contratos estará aberta, em igualdade de condições, a todas as pessoas singulares e colectivas dos Estados-Membros abrangidas pelo âmbito de aplicação dos Tratados e dos países referidos no segundo parágrafo do n.º 1 do artigo 1.º, bem como dos países que beneficiam de ajuda ao abrigo do Regulamento (CE) n.º 2666/2000 do Conselho, de 5 de Dezembro de 2000, relativo à ajuda à Albânia, à Bósnia-Herzegovina, à Croácia, à República Federativa da Jugoslávia e à antiga República jugoslava da Macedónia ([^11^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#E0011)).\n\n2. O n.º 1 aplica-se igualmente aos co-financiamentos.\n\nContudo, em caso de co-financiamento, a participação dos países terceiros nos concursos públicos, adjudicações, contratos de direito público e contratos em geral pode ser autorizada pela Comissão após exame caso-a-caso."
+  },
+  "0fe259d9613d58d5": {
+   "fragment_id": "Artigo 7.º — Apreciação e aprovação das medidas",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Apreciação e aprovação das medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apreciação e aprovação das medidas\n\n1. A Comissão adoptará decisões sobre as medidas a financiar ao abrigo do ISPA, nos termos do artigo 14.º\n\n2. Os pedidos de assistência serão apresentados à Comissão pelos países beneficiários. No entanto, a Comissão pode conceder assistência por iniciativa própria, nos termos do n.º 4 do artigo 2.º, quando o interesse comunitário for prevalecente.\n\n3. Os pedidos conterão:\n\na) As informações enunciadas no anexo I;\n\nb) As informações relevantes para provar a conformidade das medidas com o presente regulamento e com os critérios do anexo II, e designadamente a existência de vantagens socioeconómicas a médio prazo, proporcionais aos recursos mobilizados.\n\n4. A partir da recepção de um pedido de concessão de apoio e antes da aprovação de uma medida, a Comissão deve proceder a uma apreciação aprofundada do mesmo, a fim de avaliar a sua conformidade com os critérios do anexo II.\n\n5. As decisões da Comissão relativas à aprovação das medidas determinarão o montante da assistência financeira, o plano de financiamento e as disposições e condições necessárias para a execução das medidas.\n\n6. A assistência combinada do ISPA e de outros auxílios comunitários a uma determinada medida não deve exceder 90 % das despesas totais relativas a essa medida.\n\n7. A Comissão adoptará regras comuns para a elegibilidade das despesas, nos termos do artigo 14.º\n\n8. Em caso de co-financiamento de uma medida por instituições financeiras internacionais, podem ser incluídas no cálculo das despesas totais elegíveis dessa medida as despesas conformes às regras de elegibilidade referidas no n.º 7 mas efectuadas de acordo com procedimentos próprios das fontes de financiamento externas diferentes da contribuição comunitária e suportadas por essas instituições financeiras.\n\n9. As pessoas singulares e colectivas de Chipre, de Malta e da Turquia podem participar nos concursos e contratos nas mesmas condições aplicadas as todas as pessoas singulares e colectivas dos Estados-Membros e dos países beneficiários."
+  },
+  "8dd304a8d3a4b06c": {
+   "fragment_id": "Artigo 8.º — Autorizações e pagamentos",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Autorizações e pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Autorizações e pagamentos\n\n1. A Comissão executará as despesas previstas no ISPA nos termos do Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias e com base no protocolo financeiro a estabelecer entre a Comissão e o país beneficiário.\n\nNo entanto, as autorizações orçamentais anuais relativas à assistência concedida às medidas serão efectuadas de acordo com uma das seguintes modalidades:\n\na) As autorizações para as medidas referidas no n.º 2 do artigo 2.º com duração igual ou superior a dois anos, serão, de modo geral e sob reserva do disposto na alínea b), efectuadas por fracções anuais.\n\nb) Para as medidas com duração inferior a dois anos ou com uma contribuição comunitária não superior a 20 milhões de euros, poderá ser autorizado um primeiro montante até 80 % da assistência concedida no momento em que for estabelecido o protocolo financeiro. A parte remanescente será autorizada em função do estado de execução da medida.\n\n2. Salvo em casos devidamente justificados, será anulada a assistência concedida para uma medida em relação à qual não tenham sido iniciados trabalhos substanciais dentro do período contratual especificado.\n\n3. O pagamento da assistência financeira pode assumir a forma quer de adiantamentos quer de pagamentos intermédios ou de saldos, em função das despesas certificadas e efectivamente pagas.\n\nA Comissão adoptará regras de execução dos pagamentos nos termos do artigo 14.º\n\n4. As disposições pormenorizadas do dispositivo de pagamento relativo às medidas constarão do protocolo financeiro com cada país beneficiário."
+  },
+  "f9b315bdca33c6f0": {
+   "fragment_id": "Artigo 9.º — Gestão e controlo",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Gestão e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Gestão e controlo\n\n1. A Comissão exigirá aos países beneficiários que:\n\na) Instituam [**►M4**](http://publications.europa.eu/resource/celex/32004R2257) —————1 de Janeiro de 2000—————1 de Janeiro de 2002—————**◄** sistemas de gestão e controlo que garantam:\n\ni) uma correcta aplicação da assistência concedida ao abrigo do presente regulamento, de acordo com os princípios da boa gestão financeira,\n\nii) a separação das funções de gestão e de controlo,\n\niii) que as declarações de despesas apresentadas à Comissão sejam exactas e procedam de sistemas de contabilidade baseados em documentos comprovativos passíveis de verificação;\n\nb) Verifiquem regularmente se as medidas financiadas pela Comunidade foram correctamente executadas;\n\nc) Previnam irregularidades e desencadeiem os processos necessários;\n\nd) Recuperem quaisquer montantes perdidos na sequência de irregularidades ou negligências.\n\n2. Sem prejuízo dos controlos efectuados pelos países beneficiários, a Comissão e o Tribunal de Contas podem, através dos seus funcionários ou representantes devidamente autorizados, proceder no local a auditorias técnicas ou financeiras, incluindo controlos por amostragem e auditorias finais.\n\n3. Os protocolos financeiros conterão regras pormenorizadas de execução dos princípios previstos nos n.^os^ 1 e 2, bem como disposições de cooperação e coordenação da programação e metodologia de controlo entre a Comissão e o país beneficiário. A Comissão informará desse facto o comité instituído no artigo 14.º\n\n4. Os protocolos financeiros conterão igualmente disposições relativas à redução, suspensão ou anulação da assistência, no caso de a execução de uma medida não justificar, no todo ou em parte, a assistência concedida.\n\n5. A Comissão assegurará que, na aplicação do presente regulamento, sejam cumpridos os princípios de boa gestão financeira, nomeadamente no que se refere aos elementos do anexo III."
+  },
+  "b5d00ea5b38d7270": {
+   "fragment_id": "Artigo 13.º — Informação e publicidade",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Informação e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Informação e publicidade\n\n1. Os países beneficiários responsáveis pela execução de medidas que beneficiem da assistência financeira da Comunidade ao abrigo do ISPA devem tomar as medidas adequadas para que ela seja objecto da publicidade adequada, a fim de:\n\na) Sensibilizar a opinião pública quanto ao papel desempenhado pela Comunidade, em relação a essas medidas;\n\nb) Sensibilizar os potenciais beneficiários e as organizações profissionais quanto às possibilidades que essas medidas oferecem.\n\nOs países beneficiários assegurarão, nomeadamente, a instalação de painéis distintamente visíveis, com o símbolo comunitário, que indiquem que o co-financiamento da medida pela Comunidade, bem como a devida participação de representantes das instituições comunitárias nas actividades públicas de maior importância relacionadas com a assistência comunitária concedida ao abrigo do ISPA.\n\nOs países beneficiários devem informar anualmente a Comissão das iniciativas desenvolvidas a título do presente número.\n\n2. A Comissão adoptará regras de execução em matéria de informação e publicidade, nos termos do artigo 14.º\n\nA Comissão informará o Parlamento Europeu dessas regras e publicá-las-á no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "5ba16dab887fae30": {
+   "fragment_id": "Artigo 14.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Comité\n\n1. A Comissão é assistida por um Comité composto por representantes dos Estados-Membros e presidido pelo representante da Comissão (a seguir designado Comité). O Banco Europeu de Investimento designará um representante sem direito de voto.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\n3. O prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n4. O comité pode analisar quaisquer questões relacionadas com a execução do presente regulamento que sejam submetidas à sua apreciação pelo presidente, incluindo a pedido do representante de um Estado-Membro.\n\n5. O comité adoptará o seu regulamento interno por maioria qualificada."
+  },
+  "d1ea880e7ee5facd": {
+   "fragment_id": "Artigo 15.º — Reafectação de recursos",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Reafectação de recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Reafectação de recursos\n\nUm país que se torne membro da União Europeia perde o direito à assistência prevista no presente regulamento. Os recursos disponibilizados pelo facto de um país candidato se ter tornado membro da União Europeia serão reafectados a outros países candidatos referidos no n.º 1 do artigo 1.º A reafectação será efectuada em função das necessidades do país candidato e da sua capacidade de absorção da ajuda assim como dos critérios previstos no artigo 4.º\n\nO Conselho, deliberando por maioria qualificada sob proposta da Comissão, adoptará uma decisão que defina a abordagem geral da reafectação.\n\nA Comissão decidirá da reafectação dos recursos disponíveis entre os restantes beneficiários, nos termos do artigo 14.º, em função da decisão do Conselho referida no segundo parágrafo do presente artigo."
+  },
+  "c9a7792be37397c7": {
+   "fragment_id": "Artigo 16.º — Disposições finais e transitórias",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Disposições finais e transitórias\n\nO Conselho, deliberando sob proposta da Comissão nos termos do artigo 308.º do Tratado, reexaminará o presente regulamento até 31 de Dezembro de 2006."
+  },
+  "1a82dcc83a310077": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente regulamento entra em vigor três dias após a sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "b4470969c33ab818": {
+   "fragment_id": "Conteúdo dos pedidos [n.º 3, alínea a), do artigo 7.º]",
+   "type": "divisao",
+   "heading": "Conteúdo dos pedidos [n.º 3, alínea a), do artigo 7.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Conteúdo dos pedidos [n.º 3, alínea a), do artigo 7.º]\n\nDos pedidos constarão as seguintes informações:\n\n1. Nome do organismo responsável pela execução, natureza da medida e sua descrição;\n\n2. Custo e localização da medida, incluindo, se for caso disso, indicações sobre a interconexão e interoperabilidade de medidas situadas no mesmo eixo de transporte;\n\n3. Calendário de execução dos trabalhos;\n\n4. Análise custo/benefício, incluindo os efeitos directos e indirectos no emprego, que devem ser quantificados se forem quantificáveis;\n\n5. Avaliação de impacto ambiental, similar à avaliação prevista na Directiva 85/337/CEE do Conselho, de 27 de Junho de 1985, relativa à avaliação dos efeitos de determinados projectos públicos e privados no ambiente ([^12^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#E0012));\n\n6. Informações sobre o cumprimento das regras de concorrência e da regulamentação em matéria de contratos públicos;\n\n7. Plano de financiamento, incluindo, na medida do possível, indicações sobre a viabilidade económica da medida e o montante total de financiamento que o país beneficiário prentende obter do ISPA, do BEI, incluindo o seu mecanismo de pré-adesão, e de outras fontes comunitárias ou dos Estados-Membros, do BERD e do Banco Mundial;\n\n8. Compatibilidade da medida com as políticas comunitárias;\n\n9. Informações sobre as disposições destinadas a assegurar uma utilização e manutenção eficazes das instalações;\n\n10. (Medidas em matéria de ambiente) Informações sobre o lugar e o grau de prioridade da medida na estratégia nacional em matéria de ambiente, estabelecida no programa nacional de adopção do acervo comunitário;\n\n11. (Medidas em matéria de transportes) Informações sobre a estratégia nacional de desenvolvimento dos transportes e o lugar e o grau de prioridade da medida nessa estratégia, incluindo o grau de coerência com as orientações das redes transeuropeias e com a política paneuropeia de transportes."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "c48702eee82da46b": {
+   "fragment_id": "Apreciação das medidas [n.º 3, alínea b), e n.º 4 do artigo 7.º]",
+   "type": "divisao",
+   "heading": "Apreciação das medidas [n.º 3, alínea b), e n.º 4 do artigo 7.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Apreciação das medidas [n.º 3, alínea b), e n.º 4 do artigo 7.º]\n\nA. Na apreciação das medidas serão utilizados os seguintes critérios, com o objectivo de garantir a sua elevada qualidade, nos termos do artigo 2.º:\n\n1. Benefícios económicos e sociais, que serão proporcionais aos recursos mobilizados, incluindo o seu potencial para suscitar financiamentos privados; será feita uma avaliação baseada numa análise custo/benefício;\n\n2. Disposições destinadas a assegurar uma gestão eficaz das medidas;\n\n3. Prioridades estabelecidas para as zonas de intervenção pelas parcerias de adesão;\n\n4. Contribuição das medidas para a realização da política comunitária de ambiente e o resultado da avaliação de impacto ambiental a que se refere o anexo I;\n\n5. Contribuição das medidas para as redes transeuropeias e a política comum de transportes;\n\n6. Realização de um equilíbrio adequado entre os domínios do ambiente e das infra-estruturas de transportes;\n\n7. Estudo de possíveis modos de financiamento alternativos, nos termos do artigo 6.º\n\nB. A Comissão pode, se necessário, convidar o BEI, o BERD ou o Banco Mundial a contribuir para a apreciação das medidas. A Comissão examinará os pedidos de contribuição, nomeadamente para verificar se os mecanismos administrativos e financeiros permitem uma execução eficaz da medida.\n\nC. A Comissão procederá à apreciação das medidas a fim de determinar o seu impacto previsível relativamente aos objectivos do presente regulamento, com base em indicadores quantitativos adequados. Os países beneficiários fornecerão todos os elementos necessários, referidos no anexo I, incluindo os resultados dos estudos de viabilidade e das apreciações, uma indicação das alternativas não seleccionadas e informações sobre a coordenação de medidas de interesse comum situadas no mesmo eixo de transporte, de modo a que esta apreciação possa ser realizada o mais eficazmente possível."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "e8f8db821e771894": {
+   "fragment_id": "Gestão e controlo financeiros (n.º 5 do artigo 9.º)",
+   "type": "divisao",
+   "heading": "Gestão e controlo financeiros (n.º 5 do artigo 9.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Gestão e controlo financeiros (n.º 5 do artigo 9.º)\n\n1. Em cada país beneficiário designar-se-á uma entidade central pela qual serão canalizados os fundos concedidos ao abrigo do ISPA.\n\n2. Os sistemas de gestão e controlo dos países beneficiários terão uma pista de auditoria que permita, nomeadamente:\n\n— reconciliar as contas sumárias certificadas à Comissão com os registos contabilísticos e documentos justificativos, nos diversos níveis administrativos,\n\n— verificar as transferências dos fundos disponíveis, comunitários e outros,\n\n— analisar os planos técnicos e financeiros do projecto, os relatórios sobre os progressos realizados, os processos de concurso e de adjudicação, nos diversos níveis administrativos.\n\n3. O processo a seguir para a adjudicação dos contratos de empreitadas, de fornecimentos ou de serviços será determinado no memorando financeiro e terá em conta os princípios chave previstos no título IX do Regulamento Financeiro, nomeadamente:\n\n— no âmbito de medidas abrangidas por um memorando financeiro, a execução é realizada pelo país beneficiário em estreita colaboração com a Comissão, que continua responsável pela utilização das dotações,\n\n— a Comissão, em estreita cooperação com o país beneficiário, diligenciará no sentido de serem asseguradas a igualdade de condições na participação em concursos, a eliminação de discriminações e a escolha da proposta economicamente mais vantajosa.\n\n4. Os controlos financeiros adequados, internos e externos, serão efectuados segundo as normas de auditoria reconhecidas internacionalmente, pela autoridade nacional competente em matéria de controlo financeiro, que deverá ser independente para desempenhar essa função. Todos os anos será enviado à Comissão um plano de auditoria e um sumário dos resultados dos controlos efectuados. Os relatórios de auditoria serão mantidos ao dispor da Comissão.\n\n5. O memorando financeiro com cada país incluirá as seguintes disposições em matéria de correcções financeiras.\n\na) Reduzir ou anular eventuais adiantamentos;\n\nb) Anular toda ou parte da ajuda concedida para essa medida."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "16662275bdaf6c30": {
+   "fragment_id": "Acompanhamento e avaliação subsequente (artigo 11.º)",
+   "type": "divisao",
+   "heading": "Acompanhamento e avaliação subsequente (artigo 11.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Acompanhamento e avaliação subsequente (artigo 11.º)\n\nA. O acompanhamento será assegurado por meio de relatórios elaborados segundo procedimentos adoptados de comum acordo, de controlos por amostragem e dos comités instituídos para o efeito. O acompanhamento recorrerá a indicadores físicos e financeiros. Esses indicadores estão relacionados com o carácter específico do projecto e com os seus objectivos. Os indicadores serão estruturados de forma a indicarem o estado de adiantamento da medida relativamente ao plano e aos objectivos inicialmente estabelecidos, bem como os progressos da gestão e eventuais problemas conexos.\n\nB. Os comités serão constituídos por acordo entre o país beneficiário em causa e a Comissão. As autoridades ou organismos designados do país beneficiário, a Comissão e, se necessário, o BEI estarão representados nesses comités. Quando forem competentes para a execução de um projecto ou quando um projecto lhes disser directamente respeito, as autoridades regionais e locais e as empresas privadas estarão igualmente representadas nesses comités.\n\nC. Para cada medida, a autoridade ou o organismo responsável pela medida enviará à Comissão, nos três meses subsequentes ao termo de cada ano completo de execução, um relatório sobre os progressos realizados.\n\nD. Com base nas indicações do acompanhamento e tendo em conta as observações do Comité de Acompanhamento, a Comissão adaptará, eventualmente sob proposta dos países beneficiários, o volume e as condições de concessão da assistência financeira inicialmente aprovada e o plano de financiamento previsto.\n\nE. A autoridade ou organismo responsável pela medida apresentará um relatório final à Comissão, nos seis meses subsequentes à conclusão da medida ou da fase de projecto. Esse relatório final incluirá:\n\n1. Uma descrição dos trabalhos realizados e respectivos indicadores físicos, quantificação das despesas por categorias de trabalhos e medidas tomadas em relação a cláusulas específicas constantes da decisão de concessão da assistência;\n\n2. A certificação da conformidade dos trabalhos com a decisão de concessão de assistência;\n\n3. Uma primeira apreciação da medida em que os resultados esperados foram alcançados, a qual conterá nomeadamente:\n\na) A data efectiva de execução da medida;\n\nb) A indicação do modo como a medida será gerida, após a suas conclusão;\n\nc) A confirmação, se for caso disso, das previsões da análise financeira, em especial quanto aos custos operacionais e aos rendimentos esperados;\n\nd) A confirmação das previsões da análise socioeconómica, designadamente em matéria de custos e benefícios esperados;\n\ne) A indicação das disposições tomadas para assegurar a protecção do ambiente e respectivo custo.\n\n4. Informações relativas às acções de publicidade.\n\nF. A avaliação subsequente incidirá na utilização dos recursos, na eficácia da assistência e no seu impacto. A avaliação abrangerá os factores de êxito ou de insucesso da execução da medida, bem como os factores que contribuíram para as realizações e resultados. Após a conclusão da medida, a Comissão e os países beneficiários avaliarão o modo como a mesma foi executada, inclusive do ponto de vista da eficácia da utilização dos recursos. A avaliação abrangerá igualmente o impacto efectivo da sua execução, a fim de avaliar a realização dos objectivos iniciais. Determinará ainda o contributo prestado pela medida para a realização das políticas comunitárias em matéria de ambiente ou o seu contributo para as redes transeuropeias e a política comum de transportes, bem como o seu impacto ambiental.\n\nG. A fim de aumentar a eficácia da assistência comunitária concedida ao abrigo do ISPA, a Comissão assegurará que, na administração do ISPA, seja dada especial atenção à transparência da gestão.\n\nH. As regras de execução relativas ao acompanhamento e à avaliação serão especificadas nas decisões da Comissão que aprovem as medidas."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "76990db2f9c482a5": {
+   "fragment_id": "Relatório anual da Comissão (artigo 12.º)",
+   "type": "divisao",
+   "heading": "Relatório anual da Comissão (artigo 12.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Relatório anual da Comissão (artigo 12.º)\n\nO relatório anual incluirá informações sobre os seguintes pontos:\n\n1. Assistência financeira autorizada e paga pela Comunidade ao abrigo do ISPA, com uma repartição anual por país beneficiário e por categoria de projecto (ambiente e transportes);\n\n2. Contributo prestado pela assistência da Comunidade ao abrigo do ISPA para o esforço desenvolvido pelos países beneficiários para aplicar a politíca comunitária do ambiente e para reforçar as redes transeuropeias de infra-estruturas de transportes; equilíbrio entre as medidas nos domínios do ambiente e das infra-estruturas de transportes;\n\n3. Avaliação da compatibilidade das intervenções de apoio da Comunidade ao abrigo do ISPA com as políticas comunitárias, incluindo as de protecção do ambiente, transportes, concorrência e adjudicação de controlos públicos;\n\n4. Disposições tomadas para assegurar a coordenação e a coerência entre as medidas financiadas ao abrigo do ISPA e as medidas financiadas com base em contribuições do orçamento comunitário, do BEI e dos restantes instrumentos financeiros comunitários;\n\n5. Esforço de investimento desenvolvido pelos países beneficiários nos domínios da protecção do ambiente e das infra-estruturas de transportes;\n\n6. Estudos preparatórios e medidas de assistência técnica financiados;\n\n7. Resultados da apreciação, acompanhamento e avaliação das medidas, incluindo eventuais adaptações das medidas efectuadas em função desses resultados;\n\n8. Contribuição do BEI para a avaliação das medidas;\n\n9. Resumo dos resultados dos controlos efectuados, irregularidades detectadas e procedimentos administrativos e judiciais em curso;\n\n10. Informações sobre acções de publicidade.\n\n---"
+  },
+  "89b7a247d49a491f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#src.E0001)) JO C 164 de 29.5.1998, p. 4.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#src.E0002)) Parecer emitido em 6 de Maio de 1999 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#src.E0003)) JO C 407 de 28.12.1998.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#src.E0004)) JO C 373 de 2.12.1998.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#src.E0005)) JO L 85 de 20.3.1998, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#src.E0006)) JO L 375 de 23.12.1989, p. 11. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 753/96 (JO L 103 de 26.4.1996, p. 5).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#src.E0007)) Ver a página 87 do presente Jornal Oficial.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#src.E0008)) Ver a página 68 do presente Jornal Oficial.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#src.E0009)) JO L 228 de 9.9.1998, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#src.E0010)) JO L 139 de 11.5.1998, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#src.E0011)) JO L 306 de 7.12.2000, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 2415/2001 (JO L 327 de 13.12.2001, p. 3).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/feb0d205-d11e-4c5e-a0d8-69f93643fd3c.0010.03/DOC_1#src.E0012)) JO L 175 de 5.7.1985, p. 40. Directiva com a redacção que lhe foi dada pela Directiva 97/11/CE (JO L 73 de 14.3.1997, p. 5."
+  },
+  "efb20abf358a095f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Junho de 1999\n\nque cria um instrumento estrutural de pré-adesão\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 308.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#E0003)),\n\nTendo em conta o parecer do Comité das Regiões ([^4^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#E0004)),\n\n(1) Considerando que as conclusões do Conselho Europeu do Luxemburgo, de 12 de 13 de Dezembro de 1997, prevêem uma estratégia reforçada de pré-adesão para os países candidatos da Europa Central e Oriental e uma estratégia de pré-adesão específica para Chipre;\n\n(2) Considerando que as conclusões do Conselho Europeu do Luxemburgo, de 12 e 13 de Dezembro de 1997, prevêem que a ajuda prevista no presente regulamento seja por ora concedida aos 10 países candidatos da Europa Central e Oriental;\n\n(3) Considerando que o Regulamento (CE) n.º 622/98 do Conselho, de 16 de Março de 1998, relativo à assistência aos Estados candidatos à adesão à União Europeia no contexto de uma estratégia de pré-adesão e, em particular, à instituição de parcerias de adesão ([^5^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#E0005)), prevê que aquelas parcerias devem compreender um quadro único para os domínios prioritários e todos os recuros disponíveis para uma assistência de pré-adesão;\n\n(4) Considerando que a estratégia de pré-adesão prevê a criação de um instrumento estrutural de pré-adesão (ISPA), cujo objectivo principal consistirá em alinhar os candidatos pelas normas comunitárias em matérias de infra-estruturas, fornecendo uma contribuição financeira para medidas nos domínios do ambiente e das infra-estruturas de transpore;\n\n(5) Considerando que a contribuição comunitária ao abrigo do ISPA, juntamente com a contribuição comunitária ao abrigo do Regulamento (CEE) n.º 3906/89 do Conselho, de 18 de Dezembro 1989, relativo à ajuda económica a favor da República da Hungria e da República Popular da Polónia ([^6^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#E0006)), e a contribuição comunitária ao abrigo do Regulamento (CE) n.º 1268/1999 do Conselho, de 21 de Junho de 1999, relativo ao apoio comunitário a medidas de pré-adesão em matéria de agricultura e desenvolvimento rural nos países candidatos da Europa Central e Oriental durante o período de pré-adesão ([^7^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#E0007)), será coordenada no quadro do Regulamento (CE) n.º 1266/1999 do Conselho, de 21 de Junho de 1999, relativo à coordenação da ajuda aos países candidatos no âmbito da estratégia de pré-adesão e que altera o Regulamento (CE) n.º 3906/89 ([^8^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#E0008)) e ficará sujeita às disposições de condicionalidade do Regulamento (CE) n.º 622/89 e das várias decisões relativas à instituição de parcerias de adesão;\n\n(6) Considerando que o objectivo deve ser um equilíbrio equitativo entre o financiamento de medidas relativas a infra-estruturas de transporte e o financiamento de medidas no domínio do ambiente, tendo em conta as situações específicas nos países beneficiários;\n\n(7) Considerando que a assistência da Comunidade ao abrigo do ISPA deve facilitar a aplicação do acervo ambiental comunitário pelos países candidatos e contribuir para um desenvolvimento sustentável nesses países;\n\n(8) Considerando que a Decisão n.º 1692/96/CE do Parlamento Europeu e do Conselho, de 23 de Julho de 1996, sobre as orientações comunitárias para o desenvolvimento da rede transeuropeia de transportes ([^9^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#E0009)) descreve os critérios para projectos de interesse comum, que devem ser utilizados, quando necessário, na selecção das medidas elegíveis ao abrigo do presente regulamento;\n\n(9) Considerando que a avaliação das necessidades de infra-estruturas de transportes (TINA), lançada pelo Conselho deve facilitar o processo de selecção de medidas prioritárias para o desenvolvimento de uma rede transeuropeia de transportes durante o período de pré-adesão;\n\n(10) Considerando que se deve prever que a Comissão possa proceder a uma repartição indicativa, entre os países candidatos, dos recursos totais da Comunidade disponíveis para autorização ao abrigo do ISPA, a fim de facilitar a preparação das medidas;\n\n(11) Considerando que o ponto 17 das conclusões do Conselho Europeu do Luxemburgo, de 12 e 13 de Dezembro de 1997, prevê que o apoio financeiro aos Estados implicados no processo de alargamento deverá basear-se, para a repartição da ajuda, no princípio da igualdade de tratamento, independentemente da data da adesão, dando-se especial atenção aos países com maiores necessidades;\n\n(12) Considerando que as taxas do apoio prestado pela Comunidade ao abrigo do ISPA devem ser fixadas, a fim de reforçar o efeito de alavanca dos recursos, promover o co-financiamento e a utilização de fontes de financiamento privadas e ter em conta a capacidade das medidas para gerarem receitas líquidas substanciais;\n\n(13) Considerando que, no que diz respeito à assistência da Comunidade Europeia, há que assegurar um máximo de transparência na concretização da assistência financeira, devendo ser efectuados controlos estritos quanto à utilização das dotações;\n\n(14) Considerando que, para uma boa gestão da assistência comunitária concedida ao abrigo do ISPA, é necessário prever métodos eficazes de apreciação, acompanhamento, avaliação e controlo das operações, especificando o princípio que rege a avaliação, definindo a natureza e as regras do acompanhamento e prevendo as medidas a tomar em caso de irregularidade ou de incumprimento de uma das condições estabelecidas no momento da concessão da assistência do ISPA;\n\n(15) Considerando que, durante o período de transição de 1 de Janeiro de 1999 a 31 de Dezembro de 2001, qualquer referência ao euro deve, em regra geral, ser entendida como uma referência ao euro enquanto unidade monetária, nos termos do segundo período do artigo 2.º do Regulamento (CE) n.º 974/98 do Conselho, de 3 de Maio de 1998, relativo à introdução do euro ([^10^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#E0010));\n\n(16) Considerando que a Comissão deve ser assistida por um Comité de Gestão na aplicação do presente regulamento;\n\n(17) Considerando que a execução das medidas previstas no presente regulamento contribuirá para a realização dos objectivos da União e que o Tratado não prevê, para a adopção do presente regulamento, outros poderes para além dos previstos no artigo 308.º,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "910651857c65c7ea": {
+   "fragment_id": "Artigo 6.º-A — Adjudicação de contratos",
+   "type": "artigo",
+   "heading": "Artigo 6.º-A — Adjudicação de contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º-A — Adjudicação de contratos\n\n1. Relativamente às medidas para as quais a Comunidade constitui a única fonte de ajuda externa, a participação em concursos e contratos estará aberta, em igualdade de condições, a todas as pessoas singulares e colectivas dos Estados-Membros abrangidas pelo âmbito de aplicação dos Tratados e dos países referidos no segundo parágrafo do n.º 1 do artigo 1.º, bem como dos países que beneficiam de ajuda ao abrigo do Regulamento (CE) n.º 2666/2000 do Conselho, de 5 de Dezembro de 2000, relativo à ajuda à Albânia, à Bósnia-Herzegovina, à Croácia, à República Federativa da Jugoslávia e à antiga República jugoslava da Macedónia ([^11^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#E0011)).[**►M5**](http://publications.europa.eu/resource/celex/32005R2112) O direito de participar em concursos ao abrigo do presente regulamento é também definido de acordo com as regras de elegibilidade e respectivas derrogações, previstas no Regulamento (CE) n.º 2112/2005 do Conselho, de 21 de Novembro de 2005, relativo ao acesso à ajuda externa da Comunidade ([^12^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#E0012))**◄**\n\n2. O n.º 1 aplica-se igualmente aos co-financiamentos.\n\nContudo, em caso de co-financiamento, a participação dos países terceiros nos concursos públicos, adjudicações, contratos de direito público e contratos em geral pode ser autorizada pela Comissão após exame caso-a-caso.\n\nAs condições de participação nos procedimentos contratuais executados através de uma organização internacional ou co-financiados com um país terceiro são também definidas no Regulamento (CE) n.º 2112/2005."
+  },
+  "c80530c1468a7ddf": {
+   "fragment_id": "Conteúdo dos pedidos [n.º 3, alínea a), do artigo 7.º]",
+   "type": "divisao",
+   "heading": "Conteúdo dos pedidos [n.º 3, alínea a), do artigo 7.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Conteúdo dos pedidos [n.º 3, alínea a), do artigo 7.º]\n\nDos pedidos constarão as seguintes informações:\n\n1. Nome do organismo responsável pela execução, natureza da medida e sua descrição;\n\n2. Custo e localização da medida, incluindo, se for caso disso, indicações sobre a interconexão e interoperabilidade de medidas situadas no mesmo eixo de transporte;\n\n3. Calendário de execução dos trabalhos;\n\n4. Análise custo/benefício, incluindo os efeitos directos e indirectos no emprego, que devem ser quantificados se forem quantificáveis;\n\n5. Avaliação de impacto ambiental, similar à avaliação prevista na Directiva 85/337/CEE do Conselho, de 27 de Junho de 1985, relativa à avaliação dos efeitos de determinados projectos públicos e privados no ambiente ([^13^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#E0013));\n\n6. Informações sobre o cumprimento das regras de concorrência e da regulamentação em matéria de contratos públicos;\n\n7. Plano de financiamento, incluindo, na medida do possível, indicações sobre a viabilidade económica da medida e o montante total de financiamento que o país beneficiário prentende obter do ISPA, do BEI, incluindo o seu mecanismo de pré-adesão, e de outras fontes comunitárias ou dos Estados-Membros, do BERD e do Banco Mundial;\n\n8. Compatibilidade da medida com as políticas comunitárias;\n\n9. Informações sobre as disposições destinadas a assegurar uma utilização e manutenção eficazes das instalações;\n\n10. (Medidas em matéria de ambiente) Informações sobre o lugar e o grau de prioridade da medida na estratégia nacional em matéria de ambiente, estabelecida no programa nacional de adopção do acervo comunitário;\n\n11. (Medidas em matéria de transportes) Informações sobre a estratégia nacional de desenvolvimento dos transportes e o lugar e o grau de prioridade da medida nessa estratégia, incluindo o grau de coerência com as orientações das redes transeuropeias e com a política paneuropeia de transportes."
+  },
+  "231f2d6f9fb484ce": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#src.E0001)) JO C 164 de 29.5.1998, p. 4.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#src.E0002)) Parecer emitido em 6 de Maio de 1999 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#src.E0003)) JO C 407 de 28.12.1998.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#src.E0004)) JO C 373 de 2.12.1998.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#src.E0005)) JO L 85 de 20.3.1998, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#src.E0006)) JO L 375 de 23.12.1989, p. 11. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 753/96 (JO L 103 de 26.4.1996, p. 5).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#src.E0007)) Ver a página 87 do presente Jornal Oficial.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#src.E0008)) Ver a página 68 do presente Jornal Oficial.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#src.E0009)) JO L 228 de 9.9.1998, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#src.E0010)) JO L 139 de 11.5.1998, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#src.E0011)) JO L 306 de 7.12.2000, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 2415/2001 (JO L 327 de 13.12.2001, p. 3).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#src.E0012)) JO L 344 de 27.12.2005, p. 23.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/7a8a8f9c-4050-4673-8d32-03b6f7a7f059.0017.03/DOC_1#src.E0013)) JO L 175 de 5.7.1985, p. 40. Directiva com a redacção que lhe foi dada pela Directiva 97/11/CE (JO L 73 de 14.3.1997, p. 5."
+  },
+  "c40c85a867a57248": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1999R1267 — PT — 01.01.2007 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31999R1267) [REGULAMENTO (CE) N.º 1267/1999 DO CONSELHO](http://publications.europa.eu/resource/celex/31999R1267) [de 21 de Junho de 1999](http://publications.europa.eu/resource/celex/31999R1267) [que cria um instrumento estrutural de pré-adesão](http://publications.europa.eu/resource/celex/31999R1267) (JO L 161, 26.6.1999, p.73)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1085/2006 do Conselho de 17 de Julho de 2006](http://publications.europa.eu/resource/celex/32006R1085) — L 210 — 82 — 31.7.2006"
+  }
+ }
+}

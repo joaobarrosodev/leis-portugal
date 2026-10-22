@@ -1,0 +1,279 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989R4045:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989R4045-20080623",
+ "dre_path": null,
+ "source_lastmod": "2008-06-23",
+ "versions": [
+  {
+   "date": "1989-12-30",
+   "future": false,
+   "celex": "31989R4045",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "670eb6227c7b55f0",
+    "ec76b3a14acec725",
+    "a200c6fe96d98ff9",
+    "2701f673ebba3762",
+    "358e557e4d5dc52b",
+    "9e9bb949a1227a8b",
+    "40333517b3b40e79",
+    "6abce4174dafe75f",
+    "68611626e81cabba",
+    "007247077723f9a3",
+    "55fbf851bd58735f",
+    "8f0a4ae1596ec8fa",
+    "29fa25fc31e3c092",
+    "bbef5859233aa819",
+    "3eedfa4a9300d0e1",
+    "6ee52b7fcca4de67",
+    "9646a3e59069ca91",
+    "992ca5564179b118",
+    "da0fb96983c0ed68",
+    "382828124828eb31",
+    "cb37bb1e948ce0d7",
+    "bbd5431e354ec209",
+    "084cf8f24cb889be",
+    "d97f4687a09b8d78"
+   ]
+  },
+  {
+   "date": "2008-06-23",
+   "future": false,
+   "celex": "01989R4045-20080623",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime Artigo 20º",
+    "Suprime Artigo 21º",
+    "Suprime Artigo 22º",
+    "Suprime Artigo 23º"
+   ],
+   "fragments": [
+    "3c2af09181e33255"
+   ]
+  }
+ ],
+ "fragments": {
+  "670eb6227c7b55f0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 4045/89 do Conselho, de 21 de Dezembro de 1989, relativo aos controlos, pelos Estados- membros, das operações que fazem parte do sistema de financiamento pelo Fundo Europeu de Orientação e Garantia Agrícola, secção «Garantia», e que revoga a Directiva 77/435/CEE** *Jornal Oficial nº L 388 de 30/12/1989 p. 0018 - 0023 Edição especial finlandesa: Capítulo 3 Fascículo 31 p. 0027 Edição especial sueca: Capítulo 3 Fascículo 31 p. 0027*\n\nREGULAMENTO (CEE) Nº 4045/89 DO CONSELHO de 21 de Dezembro de 1989 relativo aos controlos, pelos Estados-membros, das operações que fazem parte do sistema de financiamento pelo Fundo Europeu de Orientação e Garantia Agrícola, secção «Garantia», e que revoga a Directiva 77/435/CEE\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nConsiderando que, nos termos do artigo 8º do Regulamento (CEE) nº 729/70 do Conselho, de 21 de Abril de 1970, relativo ao financiamento da política agrícola comum (3), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 2048/88 (4), os Estados-membros tomarão as medidas necessárias para assegurar a realidade e a regularidade das operações financiadas pelo Fundo Europeu de dade das operações financiadas pelo Fundo Europeu de Orientação e Garantia Agrícola (FEOGA), para prevenir e perseguir as irregularidades e recuperar as somas perdidas devido a irregularidades ou a negligência;\n\nConsiderando que o controlo dos documentos comerciais das empresas beneficiárias ou devedoras pode constituir um meio muito eficaz de controlo das operações que fazem parte do sistema de financiamento do FEOGA, secção «Garantia»; que esse controlo completa os outros controlos efectuados pelos Estados-membros; que, além disso, o presente regulamento não afecta as disposições nacionais em matéria de controlo que sejam mais extensas que as previstas no presente regulamento;\n\nConsiderando que os Estados-membros devem ser encorajados a reforçar os controlos dos documentos comerciais das empresas beneficiárias ou devedoras que tenham efectuado em aplicação da Directiva 77/435/CEE (5);\n\nConsiderando que a aplicação, pelos Estados-membros, da regulamentação decorrente da Directiva 77/435/CEE permitiu verificar a necessidade de alterar o sistema existente, em função da experiência adquirida; que é conveniente incorporar essas alterações num regulamento, tendo em conta o carácter das disposições implicadas;\n\nConsiderando que os documentos comerciais com base nos quais o controlo em causa é efectuado devem ser determinaquais o controlo em causa é efectuado devem ser determinados de forma a permitir um controlo completo;\n\nConsiderando que é necessário que a escolha das empresas a controlar seja efectuada tendo em conta, nomeadamente, o carácter das operações que têm lugar sob a sua responsabilidade e a repartição das empresas beneficiárias ou devedoras, em função da sua importância financeira no âmbito do sistema de financiamento do FEOGA, secção «Garantia»;\n\nConsiderando que é, por outro lado, conveniente prever um número mínimo de verificações de documentos comerciais; que tal número mínimo deve ser determinado por um método que evite diferenças importantes entre os Estados-membros, devidas à estrutura particular das suas despesas no âmbito do FEOGA, secção «Garantia»; que o citado método pode ser fixado se se tomar como referência o número de empresas que tenham uma certa importância no sistema de financiamento do FEOGA, secção «Garantia»;\n\nConsiderando que importa definir os poderes dos agentes encarregados dos controlos bem como a obrigação de as empresas meterem à sua disposição, durante um período determinado, os documentos comerciais e fornecer-lhes as informações por eles pedidas; que convém, além disso, informações por eles pedidas; que convém, além disso, prever que os documentos comerciais possam ser apreendidos em determinados casos;\n\nConsiderando que, tendo em conta a estrutura internacional do comércio agrícola e na perspectiva da realização do mercado interno, é necessário organizar a cooperação entre os Estados-membros; que é igualmente necessário que seja estabelecido a nível comunitário uma documentação centralizada relativa às empresas beneficiárias ou devedoras estabelecidas em países terceiros;\n\nConsiderando que, embora incumba em primeiro lugar aos Estados-membros a adopção dos respectivos programas de controlo, é necessário que esses programas sejam comunicados pela Comissão, a fim de que esta possa assumir o seu papel de supervisão e de coordenação e que esses programas sejam adoptados com base em critérios apropriados; que os controlos podem, deste modo, ser concentrados em sectores controlos podem, deste modo, ser concentrados em sectores ou em empresas em que se verifica um elevado risco de fraude;\n\nConsiderando que os serviços que efectuam os controlos em aplicação do presente regulamento devem ser organizados de forma independente dos serviços que efectuam os controlos antes do pagamento;\n\nConsiderando que é necessário que cada Estado-membro disponha de um serviço específico encarregado do acompanhamento da aplicação do presente regulamento e da coordenação dos controlos efectuados em aplicação do presente regulamento; que os agentes desse serviço podem efectuar os controlos das empresas em aplicação do presente regulamento;\n\nConsiderando que é necessário promover o reforço dos serviços encarregados da aplicação do presente regulamento através de uma participação da Comunidade, a título temporário e degressivo, nas despesas efectuadas pelos Estados-membros com a contratação de pessoal suplementar e noutras despesas efectuadas com a formação do pessoal e equipamento dos serviços;\n\nConsiderando que é oportuno proceder a uma estimativa do montante dos meios financeiros comunitários necessários à realização dessa acção; que esse montante se inscreve nas perspectivas financeiras constantes do ponto II do Acordo interinstitucional sobre a disciplina orçamental e a melhoria do processo orçamental (6), de 29 de Junho de 1988; que as dotações efectivamente disponíveis serão determinadas no procedimento orçamental na observância do referido\n\nacordo;\n\nConsiderando que as informações recolhidas no âmbito dos controlos dos documentos comerciais devem estar abrangidas pelo segredo profissional;\n\nConsiderando que é conveniente estabelecer uma troca de informações ao nível comunitário, a fim de que os resultados da aplicação do presente regulamento possam ser explorados com o máximo de efeitos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ec76b3a14acec725": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. O presente regulamento diz respeito ao controlo da realidade e da regularidade das operações que façam directa ou indirectamente parte do sistema de financiamento pelo FEOGA, secção «Garantia», com base nos documentos comerciais dos beneficiários ou devedores, a seguir denominados «empresas».\n\n2. Para efeitos do presente regulamento, entende-se por 2. Para efeitos do presente regulamento, entende-se por «documentos comerciais» o conjunto dos livros, registos, notas e documentos comprovativos, a contabilidade, bem como a correspondência relativos à actividade profissional da empresa, bem como os dados comerciais, qualquer que seja a sua forma, desde que estes documentos estejam directa seja a sua forma, desde que estes documentos estejam directa ou indirectamente relacionados com as operações previstas no nº 1."
+  },
+  "a200c6fe96d98ff9": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os Estados-membros procederão a controlos dos documentos comerciais das empresas, tendo em conta o carácter das operações a controlar. Os Estados-membros zelarão por que a escolha das empresas a controlar permita garantir, nas melhores condições possíveis, a eficácia das medidas de prevenção e de detecção das irregularidades no âmbito do sistema de financiamento do FEOGA, secção «Garantia». A selecção tomará nomeadamente em conta a importância financeira das empresas nesse domínio e outros factores de risco.\n\n2. Os controlos referidos no nº 1 dirão respeito, durante cada período de controlo previsto no nº 4, a um número de\n\nempresas que não pode ser inferior à metade do número de empresas cujas receitas ou encargos, ou a sua soma, no âmbito do sistema do FEOGA, secção «Garantia», tenham sido superiores a 60 000 ecus, ao abrigo do ano de calendário anterior ao do início do período de controlo em causa.\n\nO montante de 60 000 ecus previsto no primeiro parágrafo será substituído por um montante de 100 000 ecus relativamente ao período de controlo que se inicia em 1990 e por um montante de 90 000 ecus relativamente ao que se inicia em 1991.\n\nAs empresas cuja soma das receitas ou encargos tenha sido superior a 200 000 ecus e que não tenham sido controladas, em aplicação do presente regulamento, durante o anterior período de controlo, serão obrigatoriamente controladas.\n\nAs empresas cuja soma das receitas ou encargos tenha sido inferior a 10 000 ecus só podem ser controladas, em aplicação do presente regulamento, em função de critérios a indicar pelos Estados-membros no seu programa anual previsto no artigo 10º ou pela Comissão, em qualquer proposta de alteração desse programa que venha a ser pedida.\n\n3. Nos casos adequados, os controlos previstos no nº 1 serão extensivos às pessoas singulares ou colectivas às quais as empresas, na acepção do artigo 1º, estão associadas, bem como a todas as pessoas singulares ou colectivas susceptíveis de terem interesse na prossecução dos objectivos enunciados no artigo 3º\n\n4. O período de controlo decorre entre 1 de Julho e 30 de Junho do ano seguinte.\n\nO controlo incidirá, pelo menos, sobre o ano de calendário anterior ao período de controlo; pode abranger um período a determinar pelo Estado-membro anterior a esse ano de calendário, bem como o período compreendido entre 1 de Janeiro do ano em que o período de controlo teve início e a data do controlo efectivo de uma empresa.\n\n5. Os controlos efectuados em aplicação do presente regulamento não prejudicam os controlos efectuados nos regulamento não prejudicam os controlos efectuados nos termos do artigo 6º do Regulamento (CEE) nº 283/72 (7), nem os efectuados nos termos do artigo 9º do Regulamento (CEE) nº 729/70."
+  },
+  "2701f673ebba3762": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. A exactidão dos principais dados submetidos a controlo será verificada, nos devidos casos, através de controlos cruzados, em número apropriado, incluindo designadamente:\n\n- comparações com os documentos comerciais dos fornecedores, dos clientes, dos transportadores e outros terceiros que tenham uma ligação directa ou indirecta com as operações efectuadas no âmbito do sistema de financiamento do FEOGA, secção «Garantia»,\n\n- controlos físicos da quantidade e da natureza das existências, e\n\n- comparações com a contabilidade dos fluxos financeiros a montante ou a jusante das operações efectuadas no âmbito do sistema de financiamento do FEOGA, secção «Garantia».\n\n2. Em particular, sempre que as empresas sejam obrigadas a manter uma contabilidade-matéria específica, de acordo com as disposições comunitárias ou nacionais, o controlo dessa contabilidade compreenderá, nos devidos casos, a confrontação desta última com os documentos comerciais e, se for caso disso, com as quantidades armazenadas da empresa."
+  },
+  "358e557e4d5dc52b": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nAs empresas conservarão os documentos comerciais referidos no nº 2 do artigo 1º e no artigo 3º durante pelo menos três anos a contar do final do ano da sua emissão.\n\nOs Estados-membros podem prever um período mais longo para a conservação desses documentos."
+  },
+  "9e9bb949a1227a8b": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Os responsáveis pelas empresas devem assegurar que todos os documentos comerciais e as informações complementares sejam fornecidos aos agentes encarregados do controlo e às pessoas habilitadas para esse efeito.\n\n2. Os agentes encarregados do controlo ou as pessoas habilitadas para o efeito podem mandar emitir extractos ou cópias dos documentos referidos no nº 1."
+  },
+  "40333517b3b40e79": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Os Estados-membros certificar-se-ão de que os agentes encarregados dos controlos têm o direito de apreender ou de mandar apreender os documentos comerciais. Esse direito será exercido na observância das disposições nacionais na matéria e não afecta a aplicação das disposições de processo penal relativas à apreensão de documentos.\n\n2. Os Estados-membros adoptarão as medidas adequadas para sancionar as pessoas singulares ou colectivas que não cumpram as obrigações previstas pelo presente regulanão cumpram as obrigações previstas pelo presente regulamento."
+  },
+  "6abce4174dafe75f": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Os Estados-membros prestarão mutuamente a assistência necessária à execução dos controlos previstos nos artigos 2º e 3º nos casos em que uma empresa esteja estabelecida no Estado-membro que não seja aquele em que o depósito e/ou o pagamento do montante em questão tenha sido feito ou devesse ter sido feito.\n\n2. Os Estados-membros comunicarão, no decurso do primeiro trimestre do ano seguinte ao do pagamento, uma lista das empresas referidas no nº 1 a cada Estado-membro em que uma empresa dessa natureza esteja estabelecida; essa lista incluirá todos os pormenores que permitam que o Estado-membro destinatário identifique essas empresas. Será comunicada à Comissão uma cópia de cada lista.\n\nO Estado-membro onde o depósito ou o pagamento foi efectuado pode solicitar ao Estado-membro em que a empresa está estabelecida que controle prioritariamente uma empresa ao abrigo do artigo 2º, especificando as razões desse pedido. Será comunicada à Comissão uma cópia de cada pedido.\n\n3. Os Estados-membros comunicarão à Comissão, no decurso do primeiro trimestre do ano seguinte ao do decurso do primeiro trimestre do ano seguinte ao do pagamento, uma lista das empresas estabelecidas num país terceiro relativamente às quais o depósito e/ou o pagamento do montante em questão tenha sido feito ou devesse ter sido feito nesse Estado-membro."
+  },
+  "68611626e81cabba": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. As informações recolhidas no âmbito dos controlos previstos no presente regulamento estão abrangidas pelo segredo profissional. Não podem ser comunicadas a outras pessoas além daquelas que, pelas suas funções nos Estados-membros ou nas Instituições da Comunidade, são chamadas a conhecê-las no cumprimento das suas chamadas a conhecê-las no cumprimento das suas funções.\n\n2. O presente artigo não prejudica as disposições nacionais relativas ao procedimento judicial."
+  },
+  "007247077723f9a3": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Antes do dia 1 de Janeiro subsequente ao período de controlo, os Estados-membros comunicarão à Comissão um relatório pormenorizado sobre a aplicação do presente regulamento.\n\n2. Esse relatório deve mencionar as dificuldades eventualmente encontradas, bem como as medidas adoptadas para a sua superação e apresentar, se for caso disso, propostas de melhoria.\n\n3. Os Estados-membros e a Comissão procederão regularmente a uma troca de pontos de vista sobre a aplicação do presente regulamento.\n\n4. A Comissão avaliará anualmente no seu relatório anual sobre a administração do fundo, previsto no artigo 10º do Regulamento (CEE) nº 729/70, o progresso go 10º do Regulamento (CEE) nº 729/70, o progresso realizado.\n\n5. A Comissão apresentará, antes de 31 de Dezembro de 1991, um relatório sobre a aplicação do presente regulamento. No âmbito desse relatório, a Comissão analisará a situação especial eventualmente resultante, para certos Estados-membros, da aplicação do presente regulamento e apresentará, se necessário, propostas adequadas."
+  },
+  "55fbf851bd58735f": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Os Estados-membros estabelecerão o programa dos controlos que irão ser efectuados nos termos do artigo 2º no decurso do período de controlo subsequente.\n\n2. Anualmente os Estados-membros comunicarão à Comissão, antes de 15 de Abril, o respectivo programa previsto no nº 1, especificando:\n\n- o número de empresas que serão controladas e a sua repartição por sector, tendo em conta os respectivos montantes,\n\n- os critérios que foram adoptados para a elaboração do programa.\n\n3. Os programas estabelecidos pelos Estados-membros e comunicados à Comissão serão aplicados pelos Estados-membros se, num prazo de seis semanas, a Comissão não tiver apresentado observações.\n\n4. As modificações apresentadas pelos Estados-membros aos programas serão regidas pelo mesmo processo.\n\n5. Em casos excepcionais, a Comissão pode, em qualquer estádio, pedir que seja incluída uma categoria especial de empresas no programa de um ou mais Estados-membros.\n\n6. Em relação ao primeiro ano de aplicação, os programas de controlo estabelecidos pelos Estados-membros serão comunicados à Comissão o mais tardar até 1 de Maio de 1990 e aplicados se a Comissão não tiver apresentado as suas observações antes de 15 de Junho de 1990."
+  },
+  "8f0a4ae1596ec8fa": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. Em cada Estado-membro, o mais tardar até 1 de Janeiro de 1991, um serviço específico será encarregado do acompanhamento da aplicação do presente regulamento e,\n\n- quer da execução dos controlos previstos no presente regulamento, por agentes que dependem directamente desse serviço específico,\n\n- quer da coordenação dos controlos efectuados por agentes que dependem de outros serviços.\n\nagentes que dependem de outros serviços.\n\nOs Estados-membros podem igualmente prever que os controlos a efectuar em aplicação do presente regulamento controlos a efectuar em aplicação do presente regulamento sejam repartidos entre o serviço específico e outros serviços nacionais, desde que o primeiro assegure a respectiva coordenação.\n\n2. O ou os serviços encarregados da aplicação do presente regulamento devem ser organizados de modo a serem independentes dos serviços ou secções de serviços encarregados dos pagamentos e dos controlos efectuados antes destes.\n\n3. A fim de assegurar a correcta aplicação do presente regulamento, o serviço específico referido no nº 1 deverá adoptar todas as iniciativas e as disposições necessárias.\n\n4. O serviço específico vigiará além disso:\n\n- a formação dos agentes nacionais encarregados dos controlos previstos no presente regulamento, a fim de que adquiram os conhecimentos suficientes ao cumprimento das suas tarefas,\n\n- a gestão dos relatórios de controlo e de qualquer documentação relacionada com os controlos efectuados e previstos em aplicação do presente regulamento,\n\n- a redacção e comunicação dos relatórios previstos no nº 1 do artigo 9º bem como dos programas previstos no artigo 10º\n\n5. O serviço específico será investido pelo Estado-membro em causa de todos os poderes necessários ao cumprimento das tarefas referidas nos no.s 3 e 4.\n\nEsse serviço será composto por agentes cujo número e formação serão apropriados à realização dessas tarefas.\n\n6. O presente artigo não é aplicável quando o número mínimo de empresas a controlar por força do nº 2 do artigo 2º seja inferior a dez."
+  },
+  "29fa25fc31e3c092": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nNas condições previstas nos artigos 13º, 14º e 15º, a Comunidade participará no financiamento das despesas suplementares efectivas realizadas pelos Estados-membros e relacionadas com:\n\n- a diminuição do limiar de cálculo do número de controles a efectuar,\n\n- a mobilização de meios destinados a melhorar a qualidade dos controlos."
+  },
+  "bbef5859233aa819": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. A Comunidade participará nas despesas efectivas realizadas pelos Estados-membros com a remuneração do pessoal suplementar exclusivamente destinado a partir de 1 de Janeiro de 1990:\n\n- ao efectivo do serviço específico previsto no artigo 11º, ou\n\n- ao efectivo de outros serviços nacionais, desde que se trate de pessoal exclusivamente encarregado dos controlos previstos no presente regulamento.\n\n2. A participação financeira comunitária far-se-á na proporção de 50 % quanto aos três primeiros anos e de 25 % quanto ao quarto e quinto anos, durante um período de cinco anos a contar de 1 de Janeiro de 1990, até ao limite de um montante anual global de:\n\nmontante anual global de:\n\n- 500 000 ecus em relação aos três primeiros anos e 250 000 ecus em relação ao quarto e quinto anos, no que diz respeito à Alemanha, à Espanha, à França, à Itália, aos Países Baixos e ao Reino Unido,\n\n- 250 000 ecus em relação aos três primeiros anos e 125 000 ecus em relação ao quarto e quinto anos, no que diz respeito à Bélgica, à Dinamarca, à Grécia, à Irlanda e a Portugal, e\n\n- 50 000 ecus em relação aos três primeiros anos e 25 000 ecus em relação ao quarto e quinto anos, no que diz respeito ao Luxemburgo.\n\n3. Para efeitos do presente regulamento, entende-se por «remuneração» os salários, dedução feita dos impostos e retenções fiscais, dos agentes encarregados da aplicação do presente regulamento e as despesas de deslocação que devam efectuar para o cumprimento das suas tarefas.\n\nA participação comunitária nas despesas de remuneração do pessoal será fixada de maneira forfetária, por Estado-membro."
+  },
+  "3eedfa4a9300d0e1": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nA Comunidade participará nas despesas realizadas pelos Estados-membros com a formação do pessoal dos serviços encarregados da aplicação do presente regulamento, na proporção de 50 % quanto aos três primeiros anos e de 25 % quanto ao quarto e quinto anos, durante um período de cinco anos a contar de 1 de Janeiro de 1990, até ao limite de um montante anual global de:\n\n- 100 000 ecus em relação aos três primeiros anos e 50 000 ecus em relação ao quarto e quinto anos no que diz respeito à Alemanha, à Espanha, à França, à Itália, aos Países Baixos e ao Reino Unido,\n\n- 50 000 ecus em relação aos três primeiros anos e 25 000 ecus em relação ao quatro e quinto anos, no que diz respeito à Bélgica, à Dinamarca, à Grécia, à Irlanda e a Portugal, e\n\n- 10 000 ecus em relação aos três primeiros anos e 5 000 ecus em relação ao quarto e quinto anos, no que diz respeito ao Luxemburgo."
+  },
+  "6ee52b7fcca4de67": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nA Comunidade participará nas despesas efectivas realizadas pelos Estados-membros com a compra de material informático e burótico necessário para os serviços encarregados da aplicação do presente regulamento, na proporção de 100 % até ao limite de um montante de:\n\n- 100 000 ecus em relação à Alemanha, à Espanha, à - 100 000 ecus em relação à Alemanha, à Espanha, à França, à Itália, aos Países Baixos e ao Reino Unido,\n\n- 60 000 ecus em relação à Bélgica, à Dinamarca, à Grécia, à Irlanda e a Portugal, e\n\n- 20 000 ecus em relação ao Luxemburgo."
+  },
+  "9646a3e59069ca91": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\n1. O montante máximo das despesas comunitárias considerado necessário para a realização da acção instaurada pelo presente regulamento eleva-se a 6,08 milhões de ecus para o\n\nprimeiro ano, a 5,16 milhões de ecus para o segundo e terceiro anos e a 2,58 milhões de ecus para o quarto e quinto anos.\n\n2. A autoridade orçamental determinará o montante das dotações disponíveis para cada exercício."
+  },
+  "992ca5564179b118": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nO montante anual representativo das despesas tomadas a cargo pela Comunidade será fixado pela Comissão, com base nas indicações fornecidas pelos Estados-membros."
+  },
+  "da0fb96983c0ed68": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\nOs montantes em ecus que figuram no presente regulamento Os montantes em ecus que figuram no presente regulamento serão convertidos em moeda nacional aplicando as taxas de câmbio em vigor no primeiro dia útil do ano de início do período de controlo e publicadas na série C do Jornal Oficial das Comunidades Europeias."
+  },
+  "382828124828eb31": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\nAs regras de execução do presente regulamento serão adoptadas, na medida do necessário, de acordo com o processo previsto no artigo 13º do Regulamento (CEE) nº 729/70."
+  },
+  "cb37bb1e948ce0d7": {
+   "fragment_id": "Artigo 20º",
+   "type": "artigo",
+   "heading": "Artigo 20º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º\n\nPara o controlo das despesas específicas financiadas pela Comunidade ao abrigo do presente regulamento, aplica-se o artigo 9º do Regulamento (CEE) nº 729/70."
+  },
+  "bbd5431e354ec209": {
+   "fragment_id": "Artigo 21º",
+   "type": "artigo",
+   "heading": "Artigo 21º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21º\n\nNos termos das disposições legislativas nacionais aplicáveis na matéria, os agentes da Comissão têm acesso ao conjunto dos documentos elaborados para ou na sequência dos controlos organizados no âmbito do presente regulamento, bem como aos dados recolhidos, incluindo os memorizados em sistemas informáticos."
+  },
+  "084cf8f24cb889be": {
+   "fragment_id": "Artigo 22º",
+   "type": "artigo",
+   "heading": "Artigo 22º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22º\n\n1. A Directiva 77/435/CEE é revogada, com efeito a 1 de Janeiro de 1990. Os controlos efectuados a partir dessa data ao abrigo da citada directiva serão considerados como realizados no âmbito do presente regulamento.\n\n2. As referências à Directiva 77/435/CEE consideram-se como sendo feitas ao presente regulamento."
+  },
+  "d97f4687a09b8d78": {
+   "fragment_id": "Artigo 23º",
+   "type": "artigo",
+   "heading": "Artigo 23º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir do dia 1 de Janeiro de 1990.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 21 de Dezembro de 1989.\n\nPelo Conselho\n\nO Presidente\n\nE. CRESSON\n\n(1) JO nº C 192 de 29. 7. 1989, p. 15.\n\n(2) JO nº C 291 de 20. 11. 1989, p. 105.\n\n(3)JO nº L 94 de 28. 4. 1970, p. 13.\n\n(4) JO nº L 185 de 15. 7. 1988, p. 1.\n\n(5) JO nº L 172 de 12. 7. 1977, p. 17.\n\n(6) JO nº L 185 de 15. 7. 1988, p. 33.\n\n(7) JO nº L 36 de 10. 2. 1972, p. 1."
+  },
+  "3c2af09181e33255": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1989R4045 — PT — 23.06.2008 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31989R4045) [REGULAMENTO (CEE) Nº 4045/89 DO CONSELHO](http://publications.europa.eu/resource/celex/31989R4045) [de 21 de Dezembro de 1989](http://publications.europa.eu/resource/celex/31989R4045) [relativo aos controlos, pelos Estados-membros, das operações que fazem parte do sistema de financiamento pelo Fundo Europeu de Orientação e Garantia Agrícola, secção «Garantia», e que revoga a Directiva 77/435/CEE](http://publications.europa.eu/resource/celex/31989R4045) (JO L 388, 30.12.1989, p.18)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 485/2008 do Conselho de 26 de Maio de 2008](http://publications.europa.eu/resource/celex/32008R0485) — L 143 — 1 — 3.6.2008"
+  }
+ }
+}

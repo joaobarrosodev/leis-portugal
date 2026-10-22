@@ -1,0 +1,309 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996L0074:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0074-20090212",
+ "dre_path": null,
+ "source_lastmod": "2009-02-12",
+ "versions": [
+  {
+   "date": "1997-02-03",
+   "future": false,
+   "celex": "31996L0074",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "99bad51fd6c22169",
+    "bda62873f68d59ff",
+    "88ef3b0c04ab18eb",
+    "4a79c92239702dc8",
+    "f9e7667b81d7dda2",
+    "cc7872a77c70cac9",
+    "0cacf0dfb09cae88",
+    "64c9b20e59973d58",
+    "3dd7fe9f116bfa92",
+    "11334bd24bb65915",
+    "bee396d07e626f45",
+    "432cbd83f795b9d9",
+    "8214be09c1a09a5f",
+    "544d1c9509fb8f6e",
+    "ba1b75b8d498b7f8",
+    "bd4d07cd23c8e1fd",
+    "604fa1ad3cc6967a",
+    "f5297b1c566b7bf1",
+    "9ea665dd581bcd79",
+    "1232e1d6fc2b7329",
+    "f1dcd38a5979a2f4",
+    "17bd5a7b0a91ad4d",
+    "66f5a09360dc2f11",
+    "323fd7fe57678c4c",
+    "45686af7ee2bc3ca",
+    "43047ca1bb419b4b",
+    "07f492378e32c15c"
+   ]
+  },
+  {
+   "date": "2009-02-12",
+   "future": false,
+   "celex": "01996L0074-20090212",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime ANEXO I — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO II — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO III — PRODUTOS QUE NÃO PODEM SER SUBMETIDOS A UMA OBRIGAÇÃO DE ETIQUETAGEM OU DE MARCAÇÃO [Nº 1, alínea a), do artigo 10º]",
+    "Suprime ANEXO IV — PRODUTOS PARA OS QUAIS SÓ É OBRIGATÓRIA UMA ETIQUETAGEM OU MARCAÇÃO GLOBAL [Nº 1, alínea b), do artigo 10º]",
+    "Suprime ANEXO V — PARTE A",
+    "Suprime PARTE B — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO VI — >POSIÇÃO NUMA TABELA>"
+   ],
+   "fragments": [
+    "4620100d3a07270a"
+   ]
+  }
+ ],
+ "fragments": {
+  "99bad51fd6c22169": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 96/74/CE do Parlamento Europeu e do Conselho de 16 de Dezembro de 1996 relativa às denominações têxteis** *Jornal Oficial nº L 032 de 03/02/1997 p. 0038 - 0055*\n\nDIRECTIVA 96/74/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Dezembro de 1996 relativa às denominações têxteis\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºB do Tratado (3),\n\n(1) Considerando que a Directiva 71/307/CEE do Conselho, de 26 de Julho de 1971, relativa à aproximação das legislações dos Estados-membros respeitantes às denominações têxteis (4), foi sucessiva e substancialmente alterada; que, por conseguinte, por uma questão de clareza e racionalidade, é conveniente proceder à sua codificação;\n\n(2) Considerando que se as disposições dos Estados-membros em matéria de denominação, composição e etiquetagem variarem de um Estado-membro para outro, criar-se-ão obstáculos ao estabelecimento e ao funcionamento do mercado comum;\n\n(3) Considerando que tais obstáculos podem ser eliminados se a colocação dos produtos têxteis no mercado, a nível comunitário, for subordinada a regras uniformes; que é, por isso, importante harmonizar as denominações das fibras têxteis, bem como as indicações constantes das etiquetas, marcações ou documentos que acompanham os produtos têxteis nas diferentes operações inerentes aos ciclos da produção, da transformação e da distribuição; que a noção de fibra têxtil deve igualmente englobar as fitas ou tubos de 5 mm, no máximo, de largura aparente, que são cortados a partir de folhas fabricadas por extrusão dos polímeros descritos nos nºs 19 a 38 e 41 do anexo I e sucessivamente estiradas no sentido longitudinal;\n\n(4) Considerando que é oportuno regulamentar igualmente determinados produtos não exclusivamente compostos por têxteis mas em que a parte têxtil representa um elemento essencial do produto ou é valorizada por uma especificação do produtor, do transformador ou do comerciante; que não é necessário distinguir, no nº 30 do anexo II, os diferentes tipos de poliamida ou nylon, cujas taxas convencionais devem, por conseguinte, ser unificadas;\n\n(5) Considerando que, a tolerância em relação a fibras estranhas, já prevista para os produtos puros, deve igualmente ser aplicada aos produtos mistos;\n\n(6) Considerando que, para atingir os objectivos que estão na origem das disposições nacionais sobre a matéria, é conveniente tornar a etiquetagem obrigatória;\n\n(7) Considerando que, em relação aos produtos cuja composição é tecnicamente difícil de estabelecer aquando da fabricação, as fibras eventualmente conhecidas nesse momento podem ser indicadas na etiqueta, desde que representem uma certa percentagem do produto acabado;\n\n(8) Considerando que é oportuno, a fim de evitar as divergências de aplicação que se tenham manifestado a esse respeito na Comunidade, determinar com precisão as modalidades especiais de etiquetagem de certos produtos têxteis compostos por duas ou mais partes, bem como os elementos dos produtos têxteis que não devem ser tomados em conta aquando da etiquetagem e da análise;\n\n(9) Considerando que a apresentação para venda dos produtos têxteis submetidos unicamente à obrigação de etiquetagem global e dos vendidos a metro ou em corte, deve ser efectuada de maneira a que o consumidor possa realmente tomar conhecimento das indicações afixadas na embalagem global ou no rolo e que compete aos Estados-membros determinar as medidas a adoptar para este efeito;\n\n(10) Considerando que é conveniente submeter a determinadas condições a utilização de qualificativos ou de denominações que beneficiem de uma reputação especial junto dos utilizadores e dos consumidores;\n\n(11) Considerando que foi necessário prever métodos de amostragem e de análise dos têxteis para eliminar qualquer possibilidade de contestação dos métodos aplicados; que, todavia, a manutenção provisória dos métodos nacionais actualmente em vigor não impede a aplicação de regras uniformes;\n\n(12) Considerando que o anexo II da presente directiva, que indica as taxas convencionais a aplicar à massa seca de cada fibra na determinação, por meio de análise, da composição em fibra dos produtos têxteis, prevê nos nºs 1, 2 e 3 duas taxas convencionais, diferentes para o cálculo da composição dos produtos cardados ou penteados que contenham lã e/ou pêlos; que, contudo, os laboratórios não podem ainda reconhecer se um produto pertence ao sistema de «cardado» ou «penteado», podendo a aplicação desta disposição aquando dos controlos de conformidade dos produtos têxteis efectuados na Comunidade ter como consequência resultados contraditórios; que é, por conseguinte, oportuno permitir aos laboratórios aplicar uma taxa convencional única em casos de dúvida;\n\n(13) Considerando que não é oportuno, numa directiva específica relativa aos produtos têxteis, harmonizar todas as disposições que lhe são aplicáveis;\n\n(14) Considerando que os anexos III e IV, em função do carácter excepcional dos casos que neles são previstos, devem também abranger outros produtos isentos de etiquetagem, como, nomeadamente, os produtos «não recuperáveis» ou aqueles para os quais só se justifica apenas uma etiquetagem global;\n\n(15) Considerando que as disposições necessárias para determinar e adaptar ao progresso técnico os métodos de análise constituem medidas de aplicação de natureza estritamente técnica; que é portanto, conveniente aplicar a estas medidas, bem como às necessárias para adaptar ao progresso técnico os anexos I e II da presente directiva, o procedimento do comité previsto no artigo 6º da Directiva 96/73/CE do Parlamento Europeu e do Conselho, de 16 de Dezembro de 1996, relativa a certos métodos de análise quantitativa de misturas binárias de fibras têxteis (5);\n\n(16) Considerando que as disposições previstas na presente directiva estão em conformidade com o parecer do Comité para o sector das directivas relativas às denominações e à etiquetagem dos produtos têxteis;\n\n(17) Considerando que a presente directiva não afecta os obrigações dos Estados-membros relativas aos prazos de transposição das directivas que figuram na parte B do anexo V,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "bda62873f68d59ff": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nOs produtos têxteis só podem ser colocados no mercado na Comunidade, quer anteriormente a qualquer transformação, quer no decurso do ciclo industrial e das diversas operações inerentes à sua distribuição, se obedecerem às disposições da presente directiva."
+  },
+  "88ef3b0c04ab18eb": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Para efeitos do disposto na presente directiva, entende-se por produtos têxteis todos os produtos que, no estado bruto, semitrabalhados, trabalhados, semimanufacturados, manufacturados, semiconfeccionados ou confeccionados, sejam exclusivamente compostos por fibras têxteis, qualquer que seja a técnica de mistura ou de união aplicada.\n\n2. Para efeitos do disposto na presente directiva, entende-se por fibra têxtil:\n\n- um elemento caracterizado pela sua flexibilidade, finura e grande comprimento relativamente à dimensão transversal máxima, que o tornam apto para aplicações têxteis,\n\n- as fitas flexíveis ou os tubos com largura aparente não superior a 5 mm, incluindo as fitas cortadas de fitas mais largas ou de folhas fabricadas a partir de substâncias que servem para o fabrico das fibras classificadas no anexo I sob os nºs 19 a 41 e aptas para aplicações têxteis; a largura aparente é a da fita ou do tubo sob a forma dobrada, achatada, comprimida ou torcida ou, nos casos de largura não uniforme, a largura média.\n\n3. São equiparados aos produtos têxteis e submetidos às disposições da presente directiva:\n\n- os produtos que contenham pelo menos 80 % em massa de fibras têxteis,\n\n- as coberturas de móveis, de guarda-chuvas e de guarda-sóis cujas partes têxteis representam pelo menos 80 % da sua massa e, do mesmo modo, as partes têxteis das coberturas de chão com várias camadas, dos colchões e dos artigos de campismo, bem como os forros quentes dos artigos de calçado e de luvaria;\n\n- os têxteis incorporados noutros produtos de que façam parte integrante, quando venha especificada a sua composição,"
+  },
+  "4a79c92239702dc8": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. As denominações das fibras referidas no artigo 2º e as respectivas descrições constam do anexo I.\n\n2. A utilização das denominações constantes do quadro do anexo I é reservada às fibras cuja natureza é especificada no ponto correspondente do quadro.\n\n3. É proibida a utilização destas denominações para designar quaisquer outras fibras, a título principal ou a título de raiz, ou sob a forma de adjectivo, qualquer que seja a língua utilizada.\n\n4. É proibido o uso da denominação «seda» para indicar a forma ou apresentação especial das fibras têxteis em fio contínuo."
+  },
+  "f9e7667b81d7dda2": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Só pode ser qualificado de «100 %» ou de «puro» ou eventualmente de «tudo», com exclusão de qualquer expressão equivalente, qualquer produto têxtil que seja composto, na sua totalidade, pela mesma fibra.\n\n2. É tolerada uma quantidade de outras fibras até ao montante de 2 % da massa do produto têxtil se tal quantidade for justificada por motivos técnicos e não resultar de uma adição sistemática. Esta tolerância é elevada para 5 % para os produtos têxteis obtidos pelo sistema de cardado."
+  },
+  "cc7872a77c70cac9": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Um produto de lã só pode ser qualificado de:\n\n- «lana virgen» ou «lana de esquilado»,\n\n- «ren, ny uld»,\n\n- «Schurwolle»,\n\n- «ðáñèÝíï ìáëëss»,\n\n- «flecce wool» ou «virgin wool»,\n\n- «laine vierge» ou «laine de tonte»,\n\n- «lana vergine» ou «lana di rosa»,\n\n- «scheerwol»,\n\n- «lã virgem»,\n\n- «uusi villa»,\n\n- «ren ull»,\n\nquando for exclusivamente composto por fibras nunca anteriormente incorporadas num produto acabado nem tendo sofrido operações de fiação e/ou de feltragem para além das necessárias para a fabricação do produto, nem qualquer tratamento ou utilização que tenha degradado a fibra.\n\n2. Em derrogação ao disposto no nº 1, as denominações aí fixadas podem ser utilizadas para qualificar a lã contida numa mistura de fibras quando:\n\na) A totalidade da lã contida na mistura corresponder às características definidas no nº 1;\n\nb) A quantidade desta lã, relativamente à massa total da mistura, não for inferior a 25 %;\n\nc) Em caso de mistura íntima, a lã se encontrar misturada apenas com uma outra fibra.\n\nNo caso referido no presente número é obrigatória a indicação da composição percentual completa.\n\n3. A tolerância de impurezas fibrosas justificada por motivos técnicos inerentes ao fabrico é limitada a 0,3 % para os produtos referidos nos nºs 1 e 2, mesmo para os produtos de lã obtidos pelo sistema de cardado."
+  },
+  "0cacf0dfb09cae88": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Qualquer produto têxtil composto por duas ou mais fibras em que uma delas represente pelo menos 85 % da massa total é designado:\n\n- ou pela denominação desta fibra acompanhada da respectiva percentagem em massa,\n\n- ou pela denominação desta fibra acompanhada da indicação «mínimo 85 %»,\n\n- ou pela composição percentual completa do produto.\n\n2. Qualquer produto têxtil composto por duas ou mais fibras, das quais nenhuma atinja 85 % da massa total, será designado pela denominação e pela percentagem em peso de, pelo menos, as duas fibras que tenham as percentagens mais elevadas, seguidas da enumeração das denominações das outras fibras que compõem o produto, por ordem decrescente de peso, com ou sem indicação da sua percentagem em peso. Todavia:\n\na) O conjunto das fibras que representem, cada uma, menos de 10 % da massa total do produto, pode ser designado pela expressão «outras fibras» seguida de uma percentagem global;\n\nb) No caso em que seja especificada a denominação de uma fibra que represente menos de 10 % da massa do produto, será mencionada a composição percentual completa do produto.\n\n3. Os produtos contendo uma teia de puro algodão e uma trama de puro linho, e em que a percentagem de linho não seja inferior a 40 % da massa total do tecido desencolado, podem ser designados pela denominação «métis» (meio-linho), obrigatoriamente completada pela indicação de composição «teia puro algodão-trama puro linho».\n\n4. Em relação aos têxteis destinados ao consumidor final, nas composições percentuais previstas nos nºs 1, 2, 3 e 5:\n\na) Será tolerada uma quantidade de fibras estranhas até 2 % da massa total do produto têxtil, se for justificada por motivos técnicos e não resultar de uma adição sistemática, esta tolerância será elevada para 5 % em relação a produtos obtidos pelo sistema de cardado, sem prejuízo da tolerância referida no nº 3 do artigo 5º;\n\nb) Será admitida uma tolerância de fabrico de 3 % entre as percentagens indicadas na etiqueta e as percentagens resultantes da análise, relativamente à massa total das fibras indicadas na etiqueta; esta tolerância será igualmente aplicada às fibras que, em conformidade com o nº 2, sejam mencionadas pela ordem decrescente das massas sem indicação das percentagens. Esta tolerância aplicar-se-á igualmente ao nº 2, alínea b), do artigo 5º\n\nAquando da análise, estas tolerâncias são calculadas separadamente; a massa total a tomar em consideração para o cálculo da tolerância prevista na alínea b) é a das fibras do produto acabado, com exclusão das fibras estranhas eventualmente verificadas na aplicação da tolerância referida na alínea a).\n\nA acumulação das tolerâncias referidas nas alíneas a) e b) só é permitida se as fibras estranhas eventualmente encontradas na análise, para aplicação da tolerância referida na alínea a), forem da mesma natureza química que uma ou mais fibras mencionadas na etiqueta.\n\nEm relação aos produtos especiais cuja técnica de fabrico exija tolerâncias superiores às indicadas nas alíneas a) e b), só podem ser admitidas tolerâncias superiores às indicadas, aquando do controlo da conformidade dos produtos previstos no nº 1 do artigo 13º, a título excepcional e mediante justificação adequada fornecida pelo fabricante. Os Estados-membros informarão imediatamente desse facto a Comissão.\n\n5. Podem ser utilizadas as expressões «fibras diversas» ou «composição têxtil não determinada» para qualquer produto cuja composição seja difícil de especificar no momento do fabrico."
+  },
+  "64c9b20e59973d58": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nSem prejuízo das tolerâncias previstas no nº 2 do artigo 4º, no nº 3 do artigo 5º e no nº 4 do artigo 6º, as fibras visíveis e isoláveis destinadas a produzir um efeito puramente decorativo, que não ultrapassem 7 % da massa do produto acabado, bem como as fibras (por exemplo, metálicas) incorporadas a fim de obter um efeito anti-estático e que não ultrapassem 2 % da massa do produto acabado, podem não ser mencionadas nas composições centesimais previstas nos artigos 4º e 6º Em relação aos produtos referidos no nº 3 do artigo 6º, aquelas percentagens devem ser calculadas separadamente para a teia e para a trama e não relativamente à massa total do produto."
+  },
+  "3dd7fe9f116bfa92": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Os produtos têxteis, na acepção da presente directiva, são etiquetados ou marcados no momento de qualquer operação de colocação no mercado inerente ao ciclo industrial e comercial; a etiquetagem e a marcação podem ser substituídas ou completadas por documentos comerciais de acompanhamento quando estes produtos não são postos para venda ao consumidor final ou quando são entregues em execução de uma encomenda do Estado ou de outra entidade de direito público ou, nos Estados-membros em que esta noção é desconhecida, de uma entidade equivalente.\n\n2. a) As denominações, os qualificativos e os teores de fibras previstos nos artigos 3º e 6º do anexo I devem ser indicados claramente nos documentos comerciais. Esta obrigação exclui, nomedamente, o recurso a abreviaturas nos contratos, nas facturas ou nas notas de venda; é porém permitido o recurso a um código mecanográfico, desde que o significado das codificações conste do mesmo documento;\n\nb) Aquando da colocação para venda e da venda aos consumidores e nomeadamente nos catálogos, prospectos, embalagens, etiquetas e marcas, as denominações, os qualificativos e os teores de fibras têxteis previstos nos artigos 3º a 6º e no anexo I devem ser indicados com os mesmos caracteres tipográficos facilmente legíveis e claramente visíveis.\n\nAs indicações e informações que não sejam as previstas na presente directiva devem ser nitidamente separadas. Esta disposição não se aplica às marcas ou firmas, as quais podem acompanhar imediatamente as indicações previstas na presente directiva.\n\nContudo, se aquando da colocação para venda ou da venda aos consumidores referida no primeiro parágrafo desta alínea for indicada uma marca ou uma firma que contenha, quer a título principal, quer a título de adjectivo ou de raiz, a utilização de uma denominação prevista no anexo I ou susceptível de com ela ser confundida, a marca ou a firma social devem ser imediatamente acompanhadas, em caracteres facilmente legíveis e bem visíveis, das denominações, qualificativos e teores de fibras têxteis previstos nos artigos 3º a 6º e no anexo I;\n\nc) Os Estados-membros podem exigir que, no seu território, aquando da colocação para venda ou da venda ao consumidor final, a etiquetagem ou a marcação previstas no presente artigo sejam redigidas igualmente nas suas línguas nacionais,\n\nPara bobinas, carrinhos, novelos, meadas pequenas ou qualquer outra pequena unidade de fios para coser, cerzir ou bordar, a faculdade prevista no primeiro parágrafo só pode ser exercida pelos Estados-membros para a etiquetagem global sobre as embalagens ou expositores. Sem prejuízo dos casos referidos no ponto 18 do anexo IV, as unidades individuais podem ser etiquetadas em qualquer das línguas da Comunidade;\n\nd) Os Estados-membros não podem proibir a utilização de qualificativos ou de menções relativos às características dos produtos, que não sejam os referidos nos artigos 3º, 4º e 5º, quando tais qualificativos ou menções estiverem em conformidade com as suas práticas leais de comércio."
+  },
+  "11334bd24bb65915": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Qualquer produto têxtil composto por duas ou mais partes que não tenham o mesmo teor de fibras será munido de uma etiqueta indicando o teor de fibras de cada uma das partes. Esta etiquetagem não é obrigatória para as partes que representem menos de 30 % da massa total do produto com excepção dos forros principais.\n\n2. Dois ou mais produtos têxteis com o mesmo teor de fibras e que formem usualmente um conjunto inseparável podem ser munidos duma única etiqueta.\n\n3. Sem prejuízo do disposto no artigo 12º:\n\na) A composição fibrosa dos artigos para espartilho seguintes será indicada, ou pela composição do produto no seu conjunto, ou pela composição das partes a seguir referidas, na sua globalidade ou separadamente:\n\n- para os soutiens: tecido exterior e interior das caixas e das costas,\n\n- para as cintas: reforços anterior, posterior e laterais,\n\n- para as cintas-soutiens: tecido exterior e interior das caixas, reforços anterior e posterior e partes laterais.\n\nA composição fibrosa dos artigos para espartilho diferentes dos referidos no primeiro parágrafo será indicada, ou pela composição do produto no seu conjunto, ou pela composição das diversas partes desses artigos, na sua globalidade ou separadamente, não sendo a etiquetagem obrigatória para as partes que representem menos de 10 % da massa total do produto.\n\nA etiquetagem separada das diversas partes dos artigos para espartilho acima referidos será efectuada de modo a que o consumidor final possa compreender facilmente a que parte do produto se referem as indicações que constam da etiqueta;\n\nb) A composição fibrosa dos produtos têxteis gravados por corrosão será dada para a totalidade do produto e pode ser indicada dando separadamente a composição do tecido de base e a do tecido corroído, devendo estes elementos ser nominalmente indicados;\n\nc) A composição fibrosa dos produtos têxteis bordados será dada para a totalidade do produto e pode ser indicada dando separadamente a composição do tecido de base e as dos fios de bordado, devendo estes elementos ser nominalmente indicados; se as partes bordadas representarem menos de 10 % da superfície do produto, basta indicar a composição do tecido de base;\n\nd) A composição dos fios constituídos por uma alma e uma cobertura compostas de fibras diferentes e assim apresentados aos consumidores, é dada para a totalidade do produto e pode ser indicada dando separadamente a composição da alma e da cobertura devendo estes elementos ser nominalmente indicados;\n\ne) A composição fibrosa dos produtos têxteis de veludo e de pelúcia, ou produtos similares, será dada pela totalidade do produto e pode ser indicada, quando estes produtos forem constituídos por um tecido-base e uma camada de uso distintos e compostos por fibras diferentes, em separado para estes dois elementos, os quais devem ser nominalmente indicados;\n\nf) A composição das coberturas de chão e tapetes em que a base e a camada de uso sejam compostos por fibras diferentes pode ser dada apenas para a camada de uso, a qual deve ser nominalmente indicada."
+  },
+  "bee396d07e626f45": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Em derrogação ao disposto nos artigos 8º e 9º:\n\na) Os Estados-membros não podem exigir, para os produtos têxteis que constem do anexo III, num dos estados definidos no nº 1 do artigo 2º, uma etiquetagem ou marcação referente à denominação e à indicação da composição. Se, todavia, tais produtos estiverem munidos de uma etiqueta ou de uma marcação indicando a denominação, a composição ou a marca ou a firma contendo, quer a título principal, quer a título de adjectivo ou de raiz, a utilização de uma denominação prevista no anexo I ou de modo a poder confundir-se com esta, serão aplicadas as disposições dos artigos 8º e 9º;\n\nb) Os produtos têxteis que constam do anexo IV, quando são do mesmo tipo e da mesma composição, podem ser postos à venda agrupados sob uma etiquetagem global contendo as indicações de composição previstas na presente directiva;\n\nc) A etiquetagem de composição dos produtos têxteis que se vendam a metro pode figurar unicamente na peça ou no rolo apresentado para venda.\n\n2. Os Estados-membros tomarão todas as medidas necessárias para que a apresentação para venda dos produtos referidos nas alíneas b) e c) do nº 1 seja efectuada de modo a que o consumidor final possa efectivamente tomar conhecimento da composição desses produtos."
+  },
+  "432cbd83f795b9d9": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nOs Estados-membros tomarão todas as medidas necessárias para que a informação fornecida no momento da colocação de produtos têxteis no mercado não possa ocasionar confusão com as denominações e menções previstas na presente directiva."
+  },
+  "8214be09c1a09a5f": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nPara efeitos do nº 1 do artigo 8º, e de outras disposições da presente directiva relativas à etiquetagem dos produtos têxteis, as percentagens de fibras previstas nos artigos 4º, 5º e 6º serão determinadas sem ter em conta os elementos indicados nos pontos que se seguem:\n\n1. Em relação a todos os produtos têxteis:\n\npartes não têxteis, ourelas, etiquetas e insígnias, orlas e guarnições que não façam parte integrante do produto, botões e fivelas recobertas com material têxtil, acessórios, adornos, fitas não elásticas, fios e tiras elásticas incorporados em locais específicos e limitados do produto e, nas condições previstas no artigo 7º, fibras visíveis e isoláveis com efeito decorativo e fibras antiestáticas.\n\n2. a) Em relação a coberturas de chão e tapetes: todos os elementos constituintes excepto a camada de uso;\n\nb) Em relação aos tecidos de revestimento de móveis: as teias e tramas de ligação e de enchimento que não façam parte da camada de uso; para as tapeçarias, cortinas e cortinados: as teias e tramas de ligação e de enchimento que não façam parte do direito do tecido;\n\nc) Em relação a outros produtos têxteis: suportes, reforços, entretelas, chumaços fios de coser e de união, desde que não substituam a trama e/ou a teia do tecido, acolchoados que não tenham função de isolante e sem prejuízo das disposições do nº 1 do artigo 9º, forros.\n\nNa acepção da presente disposição:\n\n- não serão considerados como suportes a excluir os tecidos de forro dos produtos têxteis que sirvam de suporte à camada de uso, nomeadamente os tecidos de forro de coberturas e de tecidos duplos e os tecidos-base dos produtos de veludo, pelúcia e semelhantes,\n\n- entender-se-á por reforços os fios ou tecidos incorporados em zonas específicas e limitadas do produto têxtil para as reforçar ou para lhes conferir rigidez ou espessura.\n\n3. As matérias gordas, ligantes, cargas, preparos, produtos auxiliares de tinturaria e de estampagem e outros produtos para tratamento dos têxteis. Na ausência de disposições comunitárias, os Estados-membros tomarão todas as medidas necessárias a fim de evitar que estes elementos estejam presentes em quantidades susceptíveis de induzir em erro o consumidor."
+  },
+  "544d1c9509fb8f6e": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. Os controlos da conformidade dos produtos têxteis com as indicações de composição previstas pela presente directiva serão efectuados de acordo com os métodos de análise estabelecidos nas directivas referidas no nº 2.\n\nPara este efeito, as percentagens em fibras previstas nos artigos 4º, 5º e 6º serão determinadas aplicando à massa seca de cada fibra a taxa convencional correspondente prevista no anexo II, após a eliminação dos elementos referidos nos nºs 1, 2 e 3 do artigo 12º\n\n2. Directivas especiais especificarão os métodos de colheita de amostras e de análise aplicáveis nos Estados-membros para determinar a composição em fibras dos produtos referidos pela presente directiva."
+  },
+  "ba1b75b8d498b7f8": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. Os Estados-membros não podem, por motivos relacionados com as denominações ou as indicações da composição, proibir ou entravar a colocação dos produtos têxteis no mercado se estes corresponderem às disposições da presente directiva.\n\n2. As disposições da presente directiva não prejudicam a aplicação das disposições vigentes em cada Estado-membro, relativas à protecção da propriedade industrial e comercial, às indicações de proveniência, às denominações de origem e à repressão da concorrência desleal."
+  },
+  "bd4d07cd23c8e1fd": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nAs disposições da presente directiva não se aplicam aos produtos têxteis que:\n\n1. Se destinem à exportação para países terceiros;\n\n2. Sejam introduzidos para fins de trânsito, sob controlo aduaneiro, nos Estados-membros da Comunidade Europeia;\n\n3. Sejam importados de países terceiros para serem objecto de um tráfego de aperfeiçoamento activo;\n\n4. Sejam confiados para fins de transformação, sem transferência a título oneroso, a trabalhadores no domicílio ou a empresas independentes que trabalham à tarefa."
+  },
+  "604fa1ad3cc6967a": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\n1. As adendas ao anexo I bem como as adendas e alterações ao anexo II da presente directiva necessárias para adaptar estes anexos ao progresso técnico serão adoptadas de acordo com o procedimento previsto no artigo 6º da Directiva 96/73/CE.\n\n2. Os novos métodos de análise quantitativa relativos às misturas binárias e ternárias que não sejam os referidos nas Directivas 96/73/CE e 73/44/CEE do Conselho, de 26 de Fevereiro de 1973, relativa à aproximação das legislações dos Estados-membros à análise quantitativa de misturas ternárias de fibras têxteis (6), serão igualmente determinados de acordo com este procedimento.\n\n3. O Comité previsto no artigo 5º da Directiva 96/73/CE é designado «Comité para o sector das directivas relativas às denominações e à etiquetagem dos produtos têxteis»."
+  },
+  "f5297b1c566b7bf1": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nOs Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "9ea665dd581bcd79": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\nSão revogadas as directivas que constam do anexo V, parte A, sem prejuízo das obrigações dos Estados-membros relativas aos prazos de transposição que constam do anexo V, parte B.\n\nAs remissões para as directivas revogadas devem entender-se como sendo feitas para a presente directiva e ser lidas de acordo com o quadro de correspondência constante do anexo VI."
+  },
+  "1232e1d6fc2b7329": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nFeito em Bruxelas, em 16 de Dezembro de 1996.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nK. HAENSCH\n\nPelo Conselho\n\nO Presidente\n\nI. YATES\n\n(1) JO nº C 96 de 6. 4. 1994, p. 1.\n\n(2) JO nº C 195 de 18. 7. 1994, p. 9.\n\n(3) Parecer do Parlamento Europeu de 15 de Fevereiro de 1995 (JO nº C 56 de 6. 3. 1995, p. 53), posição comum do Conselho de 26 de Fevereiro de 1996 (JO nº C 196 de 6. 7. 1996, p. 1) e decisão do Parlamento Europeu de 18 de Junho de 1996 (JO nº C 198 de 8. 7. 1996, p. 25), decisão do Conselho de 7 de Outubro de 1996.\n\n(4) JO nº L 185 de 16. 8. 1971, p. 16. Directiva com a última redacção que lhe foi dada pela Directiva 87/140/CEE (JO nº L 56 de 26. 2. 1987, p. 24).\n\n(5) Ver página 1 do presente Jornal Oficial.\n\n(6) JO nº L 83 de 30. 3. 1973, p. 1."
+  },
+  "f1dcd38a5979a2f4": {
+   "fragment_id": "ANEXO I — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO I — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — >POSIÇÃO NUMA TABELA>"
+  },
+  "17bd5a7b0a91ad4d": {
+   "fragment_id": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >POSIÇÃO NUMA TABELA>"
+  },
+  "66f5a09360dc2f11": {
+   "fragment_id": "ANEXO III — PRODUTOS QUE NÃO PODEM SER SUBMETIDOS A UMA OBRIGAÇÃO DE ETIQUETAGEM OU DE MARCAÇÃO [Nº 1, alínea a), do artigo 10º]",
+   "type": "divisao",
+   "heading": "ANEXO III — PRODUTOS QUE NÃO PODEM SER SUBMETIDOS A UMA OBRIGAÇÃO DE ETIQUETAGEM OU DE MARCAÇÃO [Nº 1, alínea a), do artigo 10º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — PRODUTOS QUE NÃO PODEM SER SUBMETIDOS A UMA OBRIGAÇÃO DE ETIQUETAGEM OU DE MARCAÇÃO [Nº 1, alínea a), do artigo 10º]\n\n1. Prende-mangas de camisas\n\n2. Braceletes em têxtil para relógios\n\n3. Etiquetas e insígnias\n\n4. Pegas estofadas e em têxtil\n\n5. Panos para cobrir cafeteiras (cobre-cafeteiras)\n\n6. Panos para cobrir chaleiras (cobre-chaleiras)\n\n7. Mangas de protecção\n\n8. Manguitos com excepção dos de pelúcia\n\n9. Flores artificiais\n\n10. Pregadeiras de alfinetes\n\n11. Telas pintadas\n\n12. Produtos têxteis para reforços e suportes\n\n13. Feltros\n\n14. Produtos têxteis confeccionados usados, quando explicitamente declarados como tais\n\n15. Polainas\n\n16. Embalagens não novas e vendidas como tais\n\n17. Chapéus de feltro\n\n18. Artigos de marroquinaria e de selaria, em têxtil\n\n19. Artigos de viagem, em têxtil\n\n20. Tapeçarias bordadas à mão, acabadas ou por acabar e materiais para o seu fabrico, incluindo os fios para bordar, vendidos separadamente da base e especialmente acondicionados para serem utilizados para tais tapeçarias\n\n21. Fechos de correr\n\n22. Botões e fivelas recobertas de têxtil\n\n23. Capas de livros em têxtil\n\n24. Brinquedos\n\n25. Partes têxteis do calçado, com excepção dos forros quentes\n\n26. «Napperons» compostos de vários elementos e com superfície inferior a 500 cm²\n\n27. Pegas e luvas para retirar pratos do forno\n\n28. Panos para cobrir ovos (cobre-ovos)\n\n29. Estojos de maquilhagem\n\n30. Bolsas de tecido para tabaco\n\n31. Estojos de tecido para óculos, cigarros e charutos, isqueiros e pentes\n\n32. Artigos desportivos de protecção, excepto luvas\n\n33. Bolsas de toucador\n\n34. Estojos para calçado\n\n35. Artigos funerários\n\n36. Produtos não recuperáveis: com excepção das pastas (ouates)\n\nPara efeitos do disposto na presente directiva, são considerados como não recuperáveis os artigos têxteis para utilizar uma vez ou durante um tempo limitado e cuja utilização normal exclui toda a restauração para o mesmo uso ou para uma utilização ulterior semelhante\n\n37. Artigos têxteis sujeitos às regras da farmacopeia europeia e nos quais essa indicação venha mencionada, ligaduras não recuperáveis para usos médicos ortopédicos e artigos têxteis de ortopedia em geral\n\n38. Artigos têxteis, incluindo cordas, cordame e cordéis (sem prejuízo do ponto 12 do anexo IV), destinados normalmente:\n\na) A serem utilizados de modo instrumental em actividades de produção e de transformação de bens;\n\nb) A ser incorporados em máquinas, instalações (de aquecimento, climatização, iluminação, etc.), aparelhos domésticos e outros, veículos e outros meios de transporte, ou a servir para o funcionamento, a conservação e o equipamento destes, com excepção dos encerados e dos acessórios de material têxtil para viaturas automóveis, vendidos separadamente dos veículos.\n\n39. Artigos têxteis de protecção e de segurança, tais como cintos de segurança, pára-quedas, coletes de salvação, descidas de socorro, dispositivos contra incêndio, coletes antibala, fatos de protecção especiais (por exemplo: de protecção contra o fogo, os agentes químicos, ou outros riscos de segurança).\n\n40. Estruturas de enchimento por pressão pneumática (pavilhões para desportos, salas de exposições, armazéns, etc.), com a condição de serem fornecidas indicações respeitantes às características funcionais e especificações técnicas desses artigos.\n\n41. Velas\n\n42. Artigos têxteis para animais\n\n43. Estandartes e bandeiras"
+  },
+  "323fd7fe57678c4c": {
+   "fragment_id": "ANEXO IV — PRODUTOS PARA OS QUAIS SÓ É OBRIGATÓRIA UMA ETIQUETAGEM OU MARCAÇÃO GLOBAL [Nº 1, alínea b), do artigo 10º]",
+   "type": "divisao",
+   "heading": "ANEXO IV — PRODUTOS PARA OS QUAIS SÓ É OBRIGATÓRIA UMA ETIQUETAGEM OU MARCAÇÃO GLOBAL [Nº 1, alínea b), do artigo 10º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — PRODUTOS PARA OS QUAIS SÓ É OBRIGATÓRIA UMA ETIQUETAGEM OU MARCAÇÃO GLOBAL [Nº 1, alínea b), do artigo 10º]\n\n1. Serapilheiras\n\n2. Esfregões de limpeza\n\n3. Orlas de guarnições\n\n4. Passamanarias\n\n5. Cintos\n\n6. Suspensórios\n\n7. Ligas-suspensórios e ligas\n\n8. Atacadores\n\n9. Fitas de nastro\n\n10. Elásticos\n\n11. Embalagens novas e vendidas como tais\n\n12. Cordéis para embalagem e fins agrícolas: cordéis, cordas e cordame diferentes dos referidos no ponto 38 do anexo III (1)\n\n13. «Napperons»\n\n14. Lenços de algibeira\n\n15. Coifas e redes para cabelo\n\n16. Gravatas e laços para criança\n\n17. Babeiros; luvas e lenços de «toilette»\n\n18. Fios para coser, cerzir e bordar, apresentados, para venda a retalho, em pequenas unidades cuja massa líquida não ultrapassa um grama\n\n19. Correias para cortinas e persianas\n\n(1) Para os produtos constantes deste ponto e vendidos em partes cortadas, a etiquetagem global é a do rolo. Entre as cordas e cordame previstos neste ponto figuram, nomeadamente, os destinados a alpinismo e a desportos náuticos."
+  },
+  "45686af7ee2bc3ca": {
+   "fragment_id": "ANEXO V — PARTE A",
+   "type": "divisao",
+   "heading": "ANEXO V — PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — PARTE A\n\nDIRECTIVAS REVOGADAS (referidas no artigo 18º)\n\n- Directiva 71/307/CEE do Conselho (JO nº L 185 de 16. 8. 1971, p. 16) e suas modificações sucessivas:\n\n- Directiva 75/36/CEE do Conselho (JO nº L 14 de 20. 1. 1975, p. 15),\n\n- Directiva 83/623/CEE do Conselho (JO nº L 353 de 15. 12. 1983, p. 8),\n\n- Directiva 87/140/CEE da Comissão (JO nº L 56 de 26. 2. 1987, p. 24)."
+  },
+  "43047ca1bb419b4b": {
+   "fragment_id": "PARTE B — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "PARTE B — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE B — >POSIÇÃO NUMA TABELA>"
+  },
+  "07f492378e32c15c": {
+   "fragment_id": "ANEXO VI — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO VI — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — >POSIÇÃO NUMA TABELA>"
+  },
+  "4620100d3a07270a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1996L0074 — PT — 12.02.2009 — 005.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31996L0074) [DIRECTIVA 96/74/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/31996L0074) [de 16 de Dezembro de 1996](http://publications.europa.eu/resource/celex/31996L0074) [relativa às denominações têxteis](http://publications.europa.eu/resource/celex/31996L0074) (JO L 032, 3.2.1997, p.38)\n\n**revogado por:**\n\n- [Directiva 2008/121/CE do Parlamento Europeu e do Conselho de 14 de Janeiro de 2009](http://publications.europa.eu/resource/celex/32008L0121) — L 19 — 29 — 23.1.2009"
+  }
+ }
+}

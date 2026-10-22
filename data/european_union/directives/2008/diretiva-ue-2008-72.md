@@ -34,6 +34,51 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-08-16'
+version_history:
+  file: diretiva-ue-2008-72.versoes.json
+  count: 5
+  source_lastmod: '2022-08-16'
+  versions:
+  - date: '2008-08-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-04-04'
+    amending: eu:celex:32013D0166:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 2 de abril de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 16.º
+    - Altera Artigo 27.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Condições a fixar nos termos do artigo 4.º
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita ANEXO IV
+  - date: '2013-08-28'
+    amending: eu:celex:32013L0045:por
+    amending_title: DIRETIVA DE EXECUÇÃO 2013/45/UE DA COMISSÃO Texto relevante para efeitos do EEE de 7 de agosto de 2013
+    changes:
+    - Altera preambulo
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2020-07-01'
+    amending: eu:celex:32019L0990:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2019/990 DA COMISSÃO Texto relevante para efeitos do EEE de 17 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera ANEXO II
+    - Adita Lista dos géneros e espécies a que refere o n.º 2 do artigo 1.º
+    - Suprime Notas
+  - date: '2022-08-16'
+    amending: eu:celex:32022D1400:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2022/1400 DA COMISSÃO de 11 de agosto de 2022
+    changes:
+    - Altera Artigo 16.º
 identifiers:
   celex: 32008L0072
   eli: http://data.europa.eu/eli/dir/2008/72/oj
@@ -48,7 +93,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7ec67ac0-cbbf-4fdb-a299-4e7387b6ff36.0018
   content_url: http://publications.europa.eu/resource/cellar/4029c72e-33aa-11ed-8b77-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0072-20220816
-  retrieved_at: '2026-10-22T02:52:31Z'
+  retrieved_at: '2026-10-22T15:12:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T18:10:08.445+01:00'
 integrity:
@@ -57,9 +102,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:31Z'
-  notes: Texto consolidado 02008L0072-20220816.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:12:58Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2008-72.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -203,31 +248,18 @@ relationships:
 article_structure:
   article_count: 27
   section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:31Z'
+  checked_at: '2026-10-22T15:12:58Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2008/72/CE do Conselho, de 15 de Julho de 2008
-
-> 02008L0072 — PT — 16.08.2022 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32013D0166) — [DECISÃO DE EXECUÇÃO DA COMISSÃO de 2 de abril de 2013](http://publications.europa.eu/resource/celex/32013D0166) — L 94 — 8 — 4.4.2013
-- [M2](http://publications.europa.eu/resource/celex/32013L0045) — [DIRETIVA DE EXECUÇÃO 2013/45/UE DA COMISSÃO de 7 de agosto de 2013](http://publications.europa.eu/resource/celex/32013L0045) — L 213 — 20 — 8.8.2013
-- [►M3](http://publications.europa.eu/resource/celex/32019L0990) — [DIRETIVA DE EXECUÇÃO (UE) 2019/990 DA COMISSÃO de 17 de junho de 2019](http://publications.europa.eu/resource/celex/32019L0990) — L 160 — 14 — 18.6.2019
-- [►M4](http://publications.europa.eu/resource/celex/32022D1400) — [DECISÃO DE EXECUÇÃO (UE) 2022/1400 DA COMISSÃO de 11 de agosto de 2022](http://publications.europa.eu/resource/celex/32022D1400) — L 213 — 57 — 16.8.2022
-
-## DIRECTIVA 2008/72/CE DO CONSELHO
 
 de 15 de Julho de 2008
 

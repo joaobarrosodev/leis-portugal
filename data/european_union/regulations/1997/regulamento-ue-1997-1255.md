@@ -35,6 +35,44 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-05'
+version_history:
+  file: regulamento-ue-1997-1255.versoes.json
+  count: 2
+  source_lastmod: '2007-01-05'
+  versions:
+  - date: '1997-07-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-05'
+    amending: eu:celex:32003R1040:por
+    amending_title: REGULAMENTO (CE) N. o 1040/2003 DO CONSELHO de 11 de Junho de 2003; REGULAMENTO (CE) N. o 1/2005 DO CONSELHO
+      de 22 de Dezembro de 2004
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 6.º–A
+    - Adita Artigo 6.ºB
+    - Adita Artigo 7.º
+    - Adita ANEXO I
+    - Adita CRITÉRIOS COMUNITÁRIOS APLICÁVEIS AOS POSTOS DE CONTROLO
+    - Adita A. MEDIDAS SANITÁRIAS E HIGIÉNICAS
+    - Adita B. CONSTRUÇÃO E INSTALAÇÕES
+    - Adita C. OPERAÇÃO
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime ANEXO I — CRITÉRIOS COMUNITÁRIOS APLICÁVEIS AOS PONTOS DE PARAGEM
 identifiers:
   celex: 31997R1255
   eli: http://data.europa.eu/eli/reg/1997/1255/oj
@@ -49,7 +87,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/52a9643b-a5d4-4143-925f-64e7f0725856.0011
   content_url: http://publications.europa.eu/resource/cellar/a8596a68-13f6-4d4e-926f-89c13866b342.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R1255-20070105
-  retrieved_at: '2026-10-22T03:08:52Z'
+  retrieved_at: '2026-10-22T14:46:20Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T07:36:33.492+01:00'
 integrity:
@@ -58,9 +96,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:08:52Z'
-  notes: Texto consolidado 01997R1255-20070105.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:20Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1997-1255.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -135,30 +173,20 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/2c08a7f4-e9a4-4c6c-bbf6-e436e7b4f154
 article_structure:
   article_count: 9
-  section_count: 5
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 6
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:08:52Z'
-  warnings: []
+  checked_at: '2026-10-22T14:46:20Z'
+  warnings:
+  - '01997R1255-20040701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) nº 1255/97 do Conselho de 25 de Junho de 1997
-
-> 1997R1255 — PT — 05.01.2007 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003R1040) — [REGULAMENTO (CE) N.º 1040/2003 DO CONSELHO de 11 de Junho de 2003](http://publications.europa.eu/resource/celex/32003R1040) — L 151 — 21 — 19.6.2003
-- [►M2](http://publications.europa.eu/resource/celex/32005R0001) — [REGULAMENTO (CE) N.º 1/2005 DO CONSELHO de 22 de Dezembro de 2004](http://publications.europa.eu/resource/celex/32005R0001) — L 3 — 1 — 5.1.2005
-
-## REGULAMENTO (CE) N.º 1255/97 DO CONSELHO
 
 de 25 de Junho de 1997
 

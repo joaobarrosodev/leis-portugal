@@ -36,6 +36,159 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-07-16'
+version_history:
+  file: regulamento-ue-2003-2003.versoes.json
+  count: 4
+  source_lastmod: '2022-07-16'
+  versions:
+  - date: '2003-11-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-12-01'
+    amending: eu:celex:32004R0885:por
+    amending_title: REGULAMENTO (CE) N. o 885/2004 DO CONSELHO de 26 de Abril de 2004; REGULAMENTO (CE) N. o 2076/2004 DA
+      COMISSÃO de 3 de Dezembro de 2004; REGULAMENTO (CE) N. o 1791/2006 DO CONSELHO de 20 de Novembro de 2006; REGULAMENTO
+      (CE) N. o 162/2007 DA COMISSÃO de 19 de Fevereiro de 2007; REGULAMENTO (CE) N. o 1107/2008 DA COMISSÃO de 7 de Novembro
+      de 2008; REGULAMENTO (CE) n. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009; REGULAMENTO (CE)
+      N. o 1020/2009 DA COMISSÃO de 28 de Outubro de 2009; REGULAMENTO (UE) N. o 137/2011 DA COMISSÃO de 16 de Fevereiro de
+      2011; REGULAMENTO (UE) N. o 223/2012 DA COMISSÃO de 14 de março de 2012; REGULAMENTO (UE) N. o 463/2013 DA COMISSÃO
+      de 17 de maio de 2013; REGULAMENTO (UE) N. o 1257/2014 DA COMISSÃO de 24 de novembro de 2014; REGULAMENTO (UE) 2016/1618
+      DA COMISSÃO de 8 de setembro de 2016; REGULAMENTO (UE) 2019/1102 DA COMISSÃO de 27 de junho de 2019; REGULAMENTO (UE)
+      2020/1666 DA COMISSÃO de 10 de novembro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 29.º — Medidas de controlo
+    - Altera Artigo 31.º — Novos adubos CE
+    - Altera Artigo 32.º — Procedimento de comité
+    - Altera Artigo 38.º — Entrada em vigor
+    - Altera ANEXO V
+    - Adita TÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita CAPÍTULO I
+    - Adita Âmbito de aplicação e definições
+    - Adita CAPÍTULO II
+    - Adita Colocação no mercado
+    - Adita TÍTULO II
+    - Adita DISPOSIÇÕES PARA TIPOS ESPECÍFICOS DE ADUBOS
+    - Adita Adubos inorgânicos de nutrientes primários
+    - Adita Adubos inorgânicos de nutrientes secundários
+    - Adita CAPÍTULO III
+    - Adita Adubos inorgânicos de micronutrientes
+    - Adita CAPÍTULO IV
+    - Adita Adubos à base de nitrato de amónio com elevado teor de azoto
+    - Adita TÍTULO III
+    - Adita AVALIAÇÃO DA CONFORMIDADE DOS ADUBOS
+    - Adita TÍTULO IV
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita Adaptação dos anexos
+    - Adita Disposições transitórias
+    - Adita Disposições finais
+    - Adita ÍNDICE
+    - Adita ANEXO I
+    - Adita LISTA DOS TIPOS DE ADUBOS CE
+    - Adita A. Adubos inorgânicos elementares de nutrientes primários
+    - Adita A.1. Adubos azotados
+    - Adita A.2. Adubos fosfatados
+    - Adita A.3. Adubos potássicos
+    - Adita B. Adubos inorgânicos compostos de nutrientes primários
+    - Adita B.1. Adubos NPK
+    - Adita B.2. Adubos NP
+    - Adita B.3. Adubos NK
+    - Adita B.4. Adubos PK
+    - Adita C. Adubos inorgânicos fluidos
+  - date: '2021-06-20'
+    amending: eu:celex:32021R0862:por
+    amending_title: REGULAMENTO (UE) 2021/862 DA COMISSÃO de 28 de maio de 2021
+    changes:
+    - Altera C.1. Adubos fluidos elementares
+    - Altera E.1. Adubos que contêm apenas um micronutriente
+    - Altera E.2. Teor mínimo de micronutrientes em percentagem em massa dos adubos; tipos de adubos constituidos por mistura
+      de micronutrientes
+    - Altera E.3. Lista de agentes orgânicos quelatantes e complexantes autorizados para micronutrientes
+    - Altera F. Inibidores da nitrificação e da urease
+    - Altera Métodos para a aplicação dos ciclos térmicos
+    - Altera Determinação da retenção de óleo
+    - Altera Determinação dos componentes combustíveis
+    - Altera Determinação do valor do pH
+    - Altera Determinação da granulometria
+    - Altera Determinação do teor de cloro (como ião cloreto)
+    - Altera Determinação do cobre
+    - Altera 4.3. Materiais
+    - Altera 4.4. Técnica
+    - Altera 4.5. Relatório de ensaio
+    - Altera 1. Objectivo e âmbito de aplicação
+    - Altera 4. Aparelhos e utensílios
+    - Altera 5. Requisitos quantitativos
+    - Altera 6. Instruções relativas à colheita, preparação e acondicionamento das amostras
+    - Altera Disposições gerais relativas aos métodos de análise dos adubos
+    - Altera Notas
+    - Suprime E.1.1. Boro
+    - Suprime E.1.2. Cobalto
+    - Suprime E.1.3. Cobre
+    - Suprime E.1.4. Ferro
+    - Suprime E.1.5. Manganês
+    - Suprime E.1.6. Molibdénio
+    - Suprime E.1.7. Zinco
+    - Suprime E.2.1. Teor mínimo de micronutrientes em misturas sólidas ou fluidas de adubos de micronutrientes, em percentagem
+      em massa dos adubos
+    - Suprime E.2.2. Teor mínimo de micronutrientes em adubos CE que contêm nutrientes primários e/ou secundários com micronutrientes
+      para aplicação no solo, em percentagem em massa dos adubos
+    - Suprime E.2.3. Teor mínimo de micronutrientes em adubos CE que contêm nutrientes primários e/ou secundários com micronutrientes
+      para pulverização foliar, em percentagem em massa dos adubos
+    - Suprime E.2.4. Misturas sólidas ou fluidas de adubos de micronutrientes
+    - Suprime E.3.1. Agentes quelatantes ([^2^](http://publications.europa.eu/resource/cellar/ad59853a-2e3d-11eb-b27b-01aa75ed71a1.0019.02/DOC_1#E0003))
+    - Suprime E.3.2. Agentes complexantes ([^3^](http://publications.europa.eu/resource/cellar/ad59853a-2e3d-11eb-b27b-01aa75ed71a1.0019.02/DOC_1#E0005))
+    - Suprime 2. Ciclos térmicos referidos no Anexo III-1
+    - Suprime 2.1. Âmbito de aplicação
+    - Suprime 2.2. Resumo do processo
+    - Suprime 2.3. Aparelhos e utensílios
+    - Suprime 2.4. Técnica
+    - Suprime 3. Ciclos térmicos a utilizar para o Anexo III-2
+  - date: '2022-07-16'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime CAPÍTULO I
+    - Suprime Âmbito de aplicação e definições
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime Colocação no mercado
+    - Suprime Artigo 3.º — Adubo CE
+    - Suprime Artigo 4.º — Sede na Comunidade
+    - Suprime Artigo 5.º — Livre circulação
+    - Suprime Artigo 6.º — Menções obrigatórias
+    - Suprime Artigo 7.º — Identificação
+    - Suprime Artigo 8.º — Rastreabilidade
+    - Suprime Artigo 9.º — Indicações
+    - Suprime Artigo 10.º — Rotulagem
+    - Suprime Artigo 11.º — Línguas
+    - Suprime Artigo 12.º — Embalagem
+    - Suprime Artigo 13.º — Tolerâncias
+    - Suprime Artigo 14.º — Requisitos dos adubos
+    - Suprime Artigo 15.º — Cláusula de salvaguarda
+    - Suprime TÍTULO II
+    - Suprime DISPOSIÇÕES PARA TIPOS ESPECÍFICOS DE ADUBOS
+    - Suprime Adubos inorgânicos de nutrientes primários
+    - Suprime Artigo 16.º — Âmbito de aplicação
+    - Suprime Artigo 17.º — Declaração de nutrientes secundários em adubos com nutrientes primários
+    - Suprime Artigo 18.º — Cálcio, magnésio, sódio e enxofre
+    - Suprime Artigo 19.º — Identificação
+    - Suprime Adubos inorgânicos de nutrientes secundários
+    - Suprime Artigo 20.º — Âmbito de aplicação
+    - Suprime Artigo 21.º — Identificação
+    - Suprime CAPÍTULO III
+    - Suprime Adubos inorgânicos de micronutrientes
+    - Suprime Artigo 22.º — Âmbito de aplicação
+    - Suprime Artigo 23.º — Identificação
+    - Suprime Artigo 24.º — Embalagem
+    - Suprime CAPÍTULO IV
+    - Suprime Adubos à base de nitrato de amónio com elevado teor de azoto
+    - Suprime Artigo 25.º — Âmbito de aplicação
 identifiers:
   celex: 32003R2003
   eli: http://data.europa.eu/eli/reg/2003/2003/oj
@@ -50,7 +203,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/73c543e5-4ba5-4dbf-99bf-baadff9ce23f.0010
   content_url: http://publications.europa.eu/resource/cellar/a592373b-197e-11ed-8fa0-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R2003-20220716
-  retrieved_at: '2026-10-22T02:38:38Z'
+  retrieved_at: '2026-10-22T14:56:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-07T14:30:45.988+01:00'
 integrity:
@@ -59,9 +212,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:38Z'
-  notes: Texto consolidado 02003R2003-20220716.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:33Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2003-2003.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -283,16 +436,31 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:38Z'
+  checked_at: '2026-10-22T14:56:33Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02003R2003-20040501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2003-20041224: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2003-20070312: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2003-20081128: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2003-20090420: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2003-20091118: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2003-20110309: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2003-20120704: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2003-20130404: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2003-20130607: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2003-20140607: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2003-20141207: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2003-20141215: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2003-20160101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2003-20160929: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2003-20170701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R2003-20190718: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

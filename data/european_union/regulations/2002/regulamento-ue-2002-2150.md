@@ -35,6 +35,127 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: regulamento-ue-2002-2150.versoes.json
+  count: 6
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '2002-12-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-06-14'
+    amending: eu:celex:32004R0574:por
+    amending_title: REGULAMENTO (CE) N. o 574/2004 DA COMISSÃO de 23 de Fevereiro de 2004; REGULAMENTO (CE) N. o 783/2005
+      DA COMISSÃO de 24 de Maio de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Procedimento do comité
+    - Altera Artigo 9.º — Entrada em vigor
+    - Adita ANEXO I
+    - Adita PRODUÇÃO DE RESÍDUOS
+    - Adita SECÇÃO 1
+    - Adita Âmbito
+    - Adita SECÇÃO 2
+    - Adita Categorias de resíduos
+    - Adita SECÇÃO 3
+    - Adita Características
+    - Adita SECÇÃO 4
+    - Adita Unidade de referência
+    - Adita SECÇÃO 5
+    - Adita Primeiro ano de referência e periodicidade
+    - Adita SECÇÃO 6
+    - Adita Transmissão de resultados ao Eurostat
+    - Adita SECÇÃO 7
+    - Adita Relatório sobre a cobertura e a qualidade das estatísticas
+    - Adita SECÇÃO 8
+    - Adita Apresentação dos resultados
+    - Adita ANEXO II
+    - Adita VALORIZAÇÃO E ELIMINAÇÃO DE RESÍDUOS
+    - Adita ANEXO III
+    - Adita Notas
+    - Suprime ANEXO I — PRODUÇÃO DE RESÍDUOS
+    - Suprime SECÇÃO 1 — Âmbito
+    - Suprime SECÇÃO 2 — Categorias de resíduos
+    - Suprime SECÇÃO 3 — Características
+    - Suprime SECÇÃO 4 — Unidade de referência
+    - Suprime SECÇÃO 5 — Primeiro ano de referência e periodicidade
+    - Suprime SECÇÃO 6 — Transmissão de resultados ao Eurostat
+    - Suprime SECÇÃO 7 — Relatório sobre a cobertura e a qualidade das estatísticas
+    - Suprime SECÇÃO 8 — Apresentação dos resultados
+    - Suprime ANEXO II — VALORIZAÇÃO E ELIMINAÇÃO DE RESÍDUOS
+    - Suprime ANEXO III — NOMENCLATURA ESTATÍSTICA DOS RESÍDUOS
+  - date: '2008-01-01'
+    amending: eu:celex:32006R1893:por
+    amending_title: REGULAMENTO (CE) N. o 1893/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Procedimento do comité
+    - Altera Âmbito
+    - Altera Apresentação dos resultados
+    - Altera Notas
+  - date: '2009-04-20'
+    amending: eu:celex:32009R0221:por
+    amending_title: REGULAMENTO (CE) N. o 221/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Recolha de dados
+    - Altera Artigo 4.º — Período transitório
+    - Altera Artigo 5.º — Importação e exportação de resíduos
+    - Altera Artigo 6.º — Medidas de execução
+    - Altera Artigo 8.º — Relatório
+    - Altera Categorias de resíduos
+    - Altera Relatório sobre a cobertura e a qualidade das estatísticas
+    - Altera Apresentação dos resultados
+    - Altera Notas
+    - Adita Artigo 7.º — Comité
+    - Suprime Artigo 7.º — Procedimento do comité
+  - date: '2010-10-18'
+    amending: eu:celex:32010R0849:por
+    amending_title: REGULAMENTO (UE) N. o 849/2010 DA COMISSÃO de 27 de Setembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Comité
+    - Altera Âmbito
+    - Altera Categorias de resíduos
+    - Altera Características
+    - Altera Unidade de referência
+    - Altera Primeiro ano de referência e periodicidade
+    - Altera Relatório sobre a cobertura e a qualidade das estatísticas
+    - Altera Apresentação dos resultados
+    - Altera ANEXO III
+    - Altera Notas
+    - Adita Operações de valorização e eliminação de resíduos
+    - Adita TABELA DE EQUIVALÊNCIA
+    - Adita como referida no artigo 1.º, n.º 5, do Regulamento (CE) n.º 2150/2002, entre a CER-Stat/Versão 4 (nomenclatura
+      estatística dos resíduos orientada principalmente para as substâncias) e a lista europeia de resíduos estabelecida pela
+      Decisão 2000/532/CE da Comissão ([^18^](http://publications.europa.eu/resource/cellar/c694ef08-6b29-40a6-9124-4b6d3f82883d.0018.03/DOC_1#E0018))
+  - date: '2026-01-01'
+    amending: eu:celex:32025R0447:por
+    amending_title: REGULAMENTO (UE) 2025/447 DA COMISSÃO de 7 de março de 2025
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Comité
+    - Altera Âmbito
+    - Altera Apresentação dos resultados
+    - Altera Operações de valorização e eliminação de resíduos
+    - Altera Notas
+    - Adita como referida no artigo 1.º, n.º 5, do Regulamento (CE) n.º 2150/2002, entre a CER-Stat/Versão 4 (nomenclatura
+      estatística dos resíduos orientada principalmente para as substâncias) e a lista europeia de resíduos estabelecida pela
+      Decisão 2000/532/CE da Comissão ([^14^](http://publications.europa.eu/resource/cellar/be971180-0c59-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0014))
+    - Suprime como referida no artigo 1.º, n.º 5, do Regulamento (CE) n.º 2150/2002, entre a CER-Stat/Versão 4 (nomenclatura
+      estatística dos resíduos orientada principalmente para as substâncias) e a lista europeia de resíduos estabelecida pela
+      Decisão 2000/532/CE da Comissão ([^18^](http://publications.europa.eu/resource/cellar/c694ef08-6b29-40a6-9124-4b6d3f82883d.0018.03/DOC_1#E0018))
 identifiers:
   celex: 32002R2150
   eli: http://data.europa.eu/eli/reg/2002/2150/oj
@@ -49,7 +170,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b2c28950-c94b-47e7-8d19-6dc9f84901a2.0010
   content_url: http://publications.europa.eu/resource/cellar/be971180-0c59-11f1-8870-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R2150-20260101
-  retrieved_at: '2026-10-22T02:57:27Z'
+  retrieved_at: '2026-10-22T14:53:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T21:30:26.193+01:00'
 integrity:
@@ -58,9 +179,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:27Z'
-  notes: Texto consolidado 02002R2150-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:53:34Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2002-2150.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -180,34 +301,20 @@ relationships:
   date: '2007-08-20'
 article_structure:
   article_count: 9
-  section_count: 39
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 40
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:27Z'
-  warnings: []
+  checked_at: '2026-10-22T14:53:34Z'
+  warnings:
+  - '02002R2150-20040416: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 2150/2002 do Parlamento Europeu e do Conselho, de 25 de Novembro de 2002
-
-> 02002R2150 — PT — 01.01.2026 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32004R0574) — [REGULAMENTO (CE) N.º 574/2004 DA COMISSÃO de 23 de Fevereiro de 2004](http://publications.europa.eu/resource/celex/32004R0574) — L 90 — 15 — 27.3.2004
-- [M2](http://publications.europa.eu/resource/celex/32005R0783) — [REGULAMENTO (CE) N.º 783/2005 DA COMISSÃO de 24 de Maio de 2005](http://publications.europa.eu/resource/celex/32005R0783) — L 131 — 38 — 25.5.2005
-- [M3](http://publications.europa.eu/resource/celex/32006R1893) — [REGULAMENTO (CE) N.º 1893/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1893) — L 393 — 1 — 30.12.2006
-- [►M4](http://publications.europa.eu/resource/celex/32009R0221) — [REGULAMENTO (CE) N.º 221/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0221) — L 87 — 157 — 31.3.2009
-- [►M5](http://publications.europa.eu/resource/celex/32010R0849) — [REGULAMENTO (UE) N.º 849/2010 DA COMISSÃO de 27 de Setembro de 2010](http://publications.europa.eu/resource/celex/32010R0849) — L 253 — 2 — 28.9.2010
-- [►M6](http://publications.europa.eu/resource/celex/32025R0447) — [REGULAMENTO (UE) 2025/447 DA COMISSÃO de 7 de março de 2025](http://publications.europa.eu/resource/celex/32025R0447) — L 447 — 1 — 10.3.2025
-
-## REGULAMENTO (CE) N.º 2150/2002 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de Novembro de 2002
 

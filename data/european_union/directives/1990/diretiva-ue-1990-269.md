@@ -35,6 +35,62 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-26'
+version_history:
+  file: diretiva-ue-1990-269.versoes.json
+  count: 3
+  source_lastmod: '2019-07-26'
+  versions:
+  - date: '1990-06-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-27'
+    amending: eu:celex:32007L0030:por
+    amending_title: DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de
+      Junho de 2007
+    changes:
+    - Adita preambulo
+    - Adita SECÇÃO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita Artigo 1.º — Objecto
+    - Adita Artigo 2.º — Definição
+    - Adita SECÇÃO II
+    - Adita OBRIGAÇÕES DAS ENTIDADES PATRONAIS
+    - Adita Artigo 3.º — Disposição geral
+    - Adita Artigo 4.º — Organização dos postos de trabalho
+    - Adita Artigo 5.º — Tomada em consideração do anexo II
+    - Adita Artigo 6.º — Informação e formação dos trabalhadores
+    - Adita Artigo 7.º — Consulta e participação dos trabalhadores
+    - Adita SECÇÃO III
+    - Adita DISPOSIÇÕES VÁRIAS
+    - Adita Artigo 8.º — Adaptação dos anexos
+    - Adita Artigo 9.º — Disposições finais
+    - Adita Artigo 10.º
+    - Adita ANEXO I ([^8^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0008))
+    - Adita ELEMENTOS DE REFERÊNCIA
+    - Adita (N.º 2 do artigo 3.º, alíneas a) e b) do artigo 4.º e n.º 2 do artigo 6.º )
+    - Adita 1. Características da carga
+    - Adita 2. Esforço físico exigido
+    - Adita 3. Condições de trabalho
+    - Adita 4. Exigências da actividade
+    - Adita ANEXO II ([^9^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0009))
+    - Adita FACTORES INDIVIDUAIS DE RISCO
+    - Adita (Artigo 5.º e n.º 2 do artigo 6.º)
+    - Adita Notas
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 8.º — Alteração dos anexos
+    - Adita Artigo 8.º-A — Exercício da delegação
+    - Adita Artigo 8.º-B — Procedimento de urgência
+    - Adita ANEXO I ([^1^](http://publications.europa.eu/resource/cellar/6e1b33c5-e425-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0002))
+    - Adita ANEXO II ([^2^](http://publications.europa.eu/resource/cellar/6e1b33c5-e425-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0003))
+    - Suprime Artigo 8.º — Adaptação dos anexos
+    - Suprime ANEXO I ([^8^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0008))
+    - Suprime ANEXO II ([^9^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0009))
 identifiers:
   celex: 31990L0269
   eli: http://data.europa.eu/eli/dir/1990/269/oj
@@ -49,7 +105,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d4adbb27-6dda-4a77-9f04-66e5a5da6f37.0011
   content_url: http://publications.europa.eu/resource/cellar/6e1b33c5-e425-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0269-20190726
-  retrieved_at: '2026-10-22T02:55:19Z'
+  retrieved_at: '2026-10-22T14:36:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T14:44:24.131+01:00'
 integrity:
@@ -58,9 +114,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:55:19Z'
-  notes: Texto consolidado 01990L0269-20190726.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:36:42Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1990-269.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -125,30 +181,19 @@ relationships:
   source: null
 article_structure:
   article_count: 12
-  section_count: 16
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 17
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:55:19Z'
+  checked_at: '2026-10-22T14:36:42Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 90/269/CEE do Conselho, de 29 de Maio de 1990
-
-> 01990L0269 — PT — 26.07.2019 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007L0030) — [DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007](http://publications.europa.eu/resource/celex/32007L0030) — L 165 — 21 — 27.6.2007
-- [►M2](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-## DIRECTIVA DO CONSELHO
 
 de 29 de Maio de 1990
 

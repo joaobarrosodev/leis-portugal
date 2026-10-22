@@ -1,0 +1,249 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R2081:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R2081-20060331",
+ "dre_path": null,
+ "source_lastmod": "2006-03-31",
+ "versions": [
+  {
+   "date": "1992-07-24",
+   "future": false,
+   "celex": "31992R2081",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "862afe7656730889",
+    "76caa9febd5fca35",
+    "860abb16db33ddac",
+    "2ce5f8640d229f25",
+    "88b18fc63240f92d",
+    "1a127602e947e752",
+    "9989a272ffc769bb",
+    "2f6cd9c0aa1a3fd1",
+    "0448871fdbb01cd3",
+    "bd9367bc9251c264",
+    "934b024380fad73c",
+    "c5b8486b9ae626c5",
+    "2de9c00033f26248",
+    "ba5a089bff1651db",
+    "3dfe8e812f72f116",
+    "501f1cbc1c1839d6",
+    "20ecbe7674a7f246",
+    "26cf3199567cd3ed",
+    "a50b129cfa543e48",
+    "79c44698f932e004",
+    "3a9ee93cb764a553"
+   ]
+  },
+  {
+   "date": "2006-03-31",
+   "future": false,
+   "celex": "01992R2081-20060331",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º — As regras de execução do presente regulamento serão adoptadas de acordo com o processo previsto no artigo 15º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime ANEXO I — Géneros alimentícios previstos no nº 1 do artigo 1º",
+    "Suprime ANEXO II — Produtos agrícolas previstos no nº 1 do artigo 1º"
+   ],
+   "fragments": [
+    "f33c39a3e2e073ff"
+   ]
+  }
+ ],
+ "fragments": {
+  "862afe7656730889": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2081/92 do Conselho, de 14 de Julho de 1992, relativo à protecção das indicações geográficas e denominações de origem dos produtos agrícolas e dos géneros alimentícios** *Jornal Oficial nº L 208 de 24/07/1992 p. 0001 - 0008 Edição especial finlandesa: Capítulo 3 Fascículo 43 p. 0153 Edição especial sueca: Capítulo 3 Fascículo 43 p. 0153*\n\nREGULAMENTO (CEE) Nº 2081/92 DO CONSELHOde 14 de Julho de 1992 relativo à protecção das indicações geográficas e denominações de origem dos produtos agrícolas e dos géneros alimentícios\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a produção, o fabrico e a distribuição de produtos agrícolas e de géneros alimentícios ocupam um lugar importante na economia da Comunidade;\n\nConsiderando que, no âmbito da reorientação da política agrícola comum, é conveniente favorecer a diversificação da produção agrícola, a fim de obter um melhor equilíbrio entre a oferta e a procura no mercado; que a promoção de produtos com determinadas características pode tornar-se um trunfo importante para o mundo rural, nomeadamente nas zonas desfavorecidas ou afastadas, mediante, por um lado, a melhoria do rendimento dos agricultores e, por outro, a fixação da população rural nestas zonas;\n\nConsiderando, além disso, que se tem vindo a verificar nos últimos anos uma tendência por parte dos consumidores no sentido de privilegiarem na sua alimentação a qualidade em detrimento da quantidade; que essa procura de produtos específicos se traduz, entre outras, numa procura cada vez mais importante de produtos agrícolas ou de géneros alimentícios com uma origem geográfica determinada;\n\nConsiderando que, perante a diversidade dos produtos colocados no mercado e a quantidade de informações sobre eles fornecidas, o consumidor deve, a fim de poder efectuar melhor a sua escolha, dispor de informações claras e sucintas que o esclareçam com rigor sobre a origem do produto;\n\nConsiderando que os produtos agrícolas e os géneros alimentícios se encontram sujeitos, no que se refere à sua rotulagem, às regras gerais estabelecidas na Comunidade, nomeadamente à Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios destinados ao consumidor final (4); que, atendendo à sua especificidade, é conveniente adoptar disposições especiais complementares para os produtos agrícolas e os géneros alimentícios provenientes de uma área geográfica delimitada;\n\nConsiderando que a vontade de proteger produtos agrícolas ou géneros alimentícios identificáveis quanto à sua origem geográfica levou certos Estados-membros à criação de « denominações de origem controlada »; que estas se desenvolveram a contento dos produtores, que obtêm melhores rendimentos em contrapartida de um real esforço qualitativo, e dos consumidores, que dispõem de produtos de alto nível com garantias quanto ao seu método de fabrico e origem;\n\nConsiderando, no entanto, que as actuais práticas nacionais de execução das denominações de origem e das indicações geográficas não estão harmonizadas; que é necessário prever uma abordagem comunitária; que, com efeito, um quadro de regras comunitárias que inclua um regime de protecção permitirá o desenvolvimento das indicações geográficas e das denominações de origem na medida em que garantirá, através de uma abordagem mais uniforme, a igualdade das condições de concorrência entre os produtores de produtos que beneficiem dessas menções e conduzirá a uma maior credibilidade desses produtos aos olhos dos consumidores;\n\nConsiderando que convém que a regulamentação projectada seja aplicada sem prejuízo da legislação comunitária já existente relativa aos vinhos e bebidas espirituosas, que pretende estabelecer um nível de protecção mais elevado;\n\nConsiderando que o âmbito de aplicação do presente regulamento abrange apenas os produtos agrícolas e géneros alimentícios relativamente aos quais existe uma ligação entre as características do produto e a sua origem geográfica; que, todavia, podem incluir-se outros produtos ou géneros no âmbito de aplicação do presente regulamento;\n\nConsiderando que, atendendo às práticas existentes, convém definir dois níveis diferentes de referência geográfica, a saber: as indicações geográficas protegidas e as denominações de origem protegidas;\n\nConsiderando que um produto agrícola ou um género alimentício que beneficie de uma tal menção deve satisfazer um determinado número de condições, enumeradas num caderno de especificações e obrigações;\n\nConsiderando que, para beneficiarem de protecção em todos os Estados-membros, as indicações geográficas e denominações de origem devem ser registadas ao nível comunitário; que a inscrição num registo permite igualmente assegurar a informação dos profissionais e dos consumidores;\n\nConsiderando que o processo de registo deve permitir a qualquer pessoa, individual e directamente interessada, defender os seus direitos mediante notificação da sua oposição à Comissão;\n\nConsiderando que é desejável dispor de processos que permitam, após o registo, quer a adaptação do caderno de especificações e obrigações, designadamente à luz da evolução dos conhecimentos tecnológicos, quer a retirada do registo da indicação geográfica ou denominação de origem de um produto agrícola ou de um género alimentício, sempre que esse produto ou género deixar de ser conforme ao caderno de especificações e obrigações com base no qual tinha beneficiado da indicação geográfica ou denominação de origem;\n\nConsiderando que convém permitir negociações com países terceiros que possam apresentar garantias equivalentes relativas à concessão e controlo das indicações geográficas e denominação de origem emitidas no seu território;\n\nConsiderando que convém prever um processo de cooperação estreita entre os Estados-membros e a Comissão, no âmbito de um comité de carácter regulamentar criado para o efeito,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "76caa9febd5fca35": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. O presente regulamento estabelece as regras relativas à protecção das denominações de origem e das indicações geográficas dos produtos agrícolas destinados à alimentação humana que constam do anexo II do Tratado, dos géneros alimentícios que constam do anexo I do presente regulamento e dos produtos agrícolas enumerados no anexo II do presente regulamento.\n\nTodavia, o disposto no presente regulamento não se aplica nem aos produtos do sector vitivinícola nem às bebidas espirituosas.\n\nO anexo I pode ser alterado em conformidade com o processo previsto no artigo 15º\n\n2. O disposto no presente regulamento não prejudica a aplicação de outras disposições comunitárias específicas.\n\n3. A Directiva 83/189/CEE do Conselho, de 28 de Março de 1983, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas (5), não é aplicável nem às denominações de origem nem às indicações geográficas a que o presente regulamento diz respeito."
+  },
+  "860abb16db33ddac": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. A protecção comunitária das denominações de origem e das indicações geográficas dos produtos agrícolas e dos géneros alimentícios será obtida em conformidade com o disposto no presente regulamento.\n\n2. Na acepção do presente regulamento, entende-se por:\n\na) Denominação de origem, o nome de uma região, de um local determinado ou, em casos excepcionais, de um país, que serve para designar um produto agrícola ou um género alimentício:\n\n- originário dessa região, desse local determinado ou desse país e\n\n- cuja qualidade ou características se devem essencial ou exclusivamente ao meio geográfico, incluindo os factores naturais e humanos, e cuja produção, transformação e elaboração ocorrem na área geográfica delimitada;\n\nb) Indicação geográfica, o nome de uma região, de um local determinado, ou, em casos excepcionais, de um país, que serve para designar um produto agrícola ou um género alimentício:\n\n- originário dessa região, desse local determinado ou desse país e\n\n- cuja reputação, determinada qualidade ou outra característica podem ser atribuídas a essa origem geográfica e cuja produção e/ou transformação e/ou elaboração ocorrem na área geográfica delimitada.\n\n3. São igualmente consideradas denominações de origem certas denominações tradicionais, geográficas ou não, que designem um produto agrícola ou um género alimentício originário de uma região ou local determinado e que satisfaça as condições previstas na alínea a), segundo travessão, do nº 2.\n\n4. Em derrogação ao nº 2, alínea a), são equiparadas a denominações de origem, certas designações geográficas quando as matérias-primas dos produtos em questão provenham de uma área geográfica mais vasta ou diferente da área de transformação desde que:\n\n- a área de produção da matéria-prima se encontre delimitada e\n\n- existam condições especiais para a produção das matérias-primas e\n\n- exista um regime de controlo que garanta a observância dessas condições.\n\n5. Na acepção do nº 4, apenas são considerados matérias-primas os animais vivos, as carnes e o leite. A utilização de outras matérias-primas pode ser permitida segundo o processo previsto no artigo 15º\n\n6. Para beneficiar do disposto no nº 4, as designações em questão devem ou ter já sido reconhecidas como denominações de origem beneficiando de uma protecção nacional pelo Estado-membro em questão ou, se tal regime não existir, ter justificado um carácter tradicional, bem como uma reputação e de uma notoriedade excepcionais.\n\n7. Para beneficiar do disposto no nº 4, os pedidos de registo devem ser efectuados no prazo de dois anos após a entrada em vigor do presente regulamento."
+  },
+  "2ce5f8640d229f25": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Não se podem registar as denominações que se tornaram genéricas.\n\nNa acepção do presente regulamento, entende-se por denominação que se tornou genérica o nome de um produto agrícola ou de um género alimentício que, embora diga respeito a um local ou à região onde esse produto agrícola ou género alimentício tenha inicialmente sido produzido ou comercializado, passou a ser o nome comum de um produto ou género alimentício.\n\nPara determinar se uma designação se tornou genérica todos os factores devem ser tidos em conta e, nomeadamente;\n\n- a situação existente no Estado-membro onde a denominação tem origem e nas zonas de consumo,\n\n- a situação noutros Estados-membros,\n\n- as disposições legislativas nacionais ou comunitárias pertinentes.\n\nSe, no termo do processo definido nos artigos 6º e 7º, um pedido de registo for recusado porque uma denominação passou a ser genérica, a Comissão publicará essa decisão no Jornal Oficial das Comunidades Europeias.\n\n2. Um nome não pode ser registado como denominação de origem ou como indicação geográfica quando entrar em conflito com o nome de uma variedade vegetal ou de uma raça animal, podendo assim induzir em erro o consumidor em geral quanto à verdadeira origem do produto.\n\n3. Antes da data de entrada em vigor do presente regulamento, o Conselho, deliberando por maioria qualificada por proposta da Comissão, deve elaborar e publicar no Jornal Oficial das Comunidades Europeias uma lista não exaustiva, indicativa das designações de produtos agrícolas ou géneros alimentícios que são abrangidos pelo presente regulamento e são considerados nos termos do nº 1, como genéricos e por esse facto não susceptíveis de ser registados sob o presente regulamento."
+  },
+  "88b18fc63240f92d": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Para poder beneficiar de uma denominação de origem protegida (DOP) ou de uma indicação geográfica protegida (IGP), um produto agrícola ou um género alimentício deve obedecer a especificações.\n\n2. As especificações do produto deverão incluir, pelo menos:\n\na) O nome do produto agrícola ou do género alimentício, incluindo a denominação de origem ou a indicação geográfica;\n\nb) A descrição do produto agrícola ou do género alimentício, incluindo as matérias-primas se for caso disso, as principais características físicas, químicas, microbiológicas e/ou organolépticas do produto ou do género alimentício;\n\nc) A delimitação da área geográfica e, se for caso disso, os elementos que indiquem a observância das condições previstas no nº 4 do artigo 2º;\n\nd) Os elementos que provem que o produto agrícola ou o género alimentício são originários da área geográfica, na acepção do nº 2, alínea a) ou b) do artigo 2º, conforme o caso;\n\ne) A descrição do método de obtenção do produto e, se for caso disso, dos métodos locais, leais e constantes;\n\nf) Os elementos que justificam a relação com o meio geográfico ou a origem geográfica na acepção do nº 2, alínea a) ou b), do artigo 2º, conforme o caso;\n\ng) As referências relativas à ou às estruturas de controlo previstas no artigo 10º;\n\nh) Os elementos específicos da rotulagem relacionados com a menção « DOP » ou « IGP », conforme o caso, ou as menções tradicionais nacionais equivalentes;\n\ni) As eventuais exigências fixadas por disposições comunitárias e/ou nacionais."
+  },
+  "1a127602e947e752": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Apenas um agrupamento ou, sob certas condições a determinar em conformidade com o processo previsto no artigo 15º, uma pessoa singular ou colectiva poderá apresentar um pedido de registo.Na acepção do presente regulamento entende-se por « agrupamento » uma organização, qualquer que seja a sua forma jurídica ou composição, de produtores e/ou transformadores de um mesmo produto agrícola ou de um mesmo género alimentício. Outras partes interessadas poderão participar no agrupamento.\n\n2. O pedido de registo apresentado por um agrupamento ou por uma pessoa, singular ou colectiva, apenas poderá dizer respeito aos produtos agrícolas ou géneros alimentícios por si produzidos ou obtidos, na acepção do nº 2, alínea a) ou b) do artigo 2º\n\n3. O pedido de registo deverá incluir as especificações do produto referidas no artigo 4º\n\n4. O pedido de registo será enviado ao Estado-membro onde se situa a área geográfica.\n\n5. O Estado-membro verificará a correcta fundamentação do pedido e transmiti-lo-á à Comissão, juntamente com as especificações do produto referidas no artigo 4º e com outros documentos em que tenha baseado a sua decisão, caso considere satisfeitas as exigências do presente regulamento.\n\nCaso o pedido diga respeito a uma denominação que designe igualmente uma área geográfica de outro Estado-membro, este último será consultado antes de ser tomada qualquer decisão.\n\n6. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento ao disposto no presente artigo."
+  },
+  "9989a272ffc769bb": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. No prazo de seis meses, a Comissão verificará, mediante um exame formal, se o pedido de registo inclui todos os elementos previstos no artigo 4º\n\nA Comissão comunicará ao Estado-membro em questão o resultado das suas averiguações.\n\n2. Se, tendo em conta o disposto no nº 1, a Comissão concluir que a denominação reúne as condições para ser protegida, fará publicar no Jornal Oficial das Comunidades Europeias o nome e endereço do requerente, o nome do produto, os elementos principais do pedido, as referências às disposições nacionais que regem a sua elaboração, produção ou fabrico e, se necessário, as considerações em que assenta a sua opinião.\n\n3. Se não for notificada à Comissão qualquer oposição, em conformidade com o disposto no artigo 7º, a denominação será inscrita no registo mantido pela Comissão intitulado « Registo das Denominações de Origem e das Indicações Geográficas Protegidas », que contém os nomes dos agrupamentos e dos organismos de controlo em causa.\n\n4. A Comissão fará publicar no Jornal Oficial das Comunidades Europeias:\n\n- as denominações inscritas no registo,\n\n- as alterações ao registo feitas em conformidade com os artigos 9º e 11º\n\n5. Se, tendo em conta o exame previsto no nº 1, a Comissão chegar à conclusão que a denominação não reúne as condições para ser protegida, decidirá, segundo o processo previsto no artigo 15º, não proceder à publicação prevista no nº 2 do presente artigo.\n\nAntes das publicações previstas nos nºs 2 e 4 e do registo previsto no nº 3, a Comissão poderá solicitar o parecer do comité previsto no artigo 15º"
+  },
+  "2f6cd9c0aa1a3fd1": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. No prazo de seis meses a contar da data de publicação no Jornal Oficial das Comunidades Europeias prevista no nº 2 do artigo 6º, qualquer Estado-membro pode manifestar a sua oposição ao registo.\n\n2. As autoridades competentes dos Estados-membros assegurarão que qualquer pessoa que possa alegar um interesse económico legítimo seja autorizada a consultar o pedido. Além disso, de acordo com a situação existente nos Estados-membros, estes podem prever que outras partes com um interesse legítimo possam ter acesso ao referido pedido.\n\n3. Qualquer pessoa singular ou colectiva legitimamente interessada poderá opor-se ao registo previsto enviando uma declaração devidamente motivada à autoridade competente do Estado-membro onde reside ou está estabelecida. Essa autoridade adoptará as medidas necessárias para tomar em consideração estas observações ou esta oposição nos prazos previstos.\n\n4. Para ser admissível, qualquer declaração de oposição deve:\n\n- quer demonstrar o desrespeito pelas condições referidas no nº 2,\n\n- quer demonstrar que o registo do nome proposto prejudicaria a existência de uma designação total ou parcialmente homónima, ou de uma marca, quer a existência de produtos que se encontrem legalmente no mercado no momento da publicação do presente regulamento no Jornal Oficial das Comunidades Europeias,\n\n- quer ainda especificar os elementos que permitem concluir quanto ao carácter genérico do nome cujo registo é solicitado.\n\n5. Sempre que uma oposição seja admissível na acepção do nº 4, a Comissão convidará os Estados-membros interessados a procurar um acordo entre si no prazo de três meses, em conformidade com os seus processos internos.\n\na) Se chegarem a acordo, os referidos Estados-membros comunicarão à Comissão todos os elementos que permitiram esse acordo, bem como o parecer do requerente e o do oponente. Caso as informações recebidas nos termos do artigo 5º não tenham sofrido alterações, a Comissão procederá em conformidade com o nº 4 do artigo 6º Caso contrário, reiniciará o processo previsto no artigo 7º para qualquer pedido novo que receba.\n\nb) Se não se chegar a acordo, a Comissão toma uma decisão em conformidade com o procedimento previsto no artigo 15º, tendo em conta as práticas leais e tradicionais e os riscos de confusão existentes. Caso seja decidido proceder ao registo, a Comissão procederá à publicação em conformidade com o nº 4 do artigo 6º"
+  },
+  "0448871fdbb01cd3": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nAs menções « DOP », « IGP » ou as menções tradicionais nacionais equivalentes deverão constar apenas dos produtos agrícolas e géneros alimentícios que obedeçam ao presente regulamento."
+  },
+  "bd9367bc9251c264": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nO Estado-membro em questão poderá solicitar a alteração de um caderno de especificações e obrigações, para ter em conta a evolução dos conhecimentos científicos e técnicos ou de proceder a uma nova delimitação geográfica.\n\nO processo do artigo 6º aplica-se mutatis mutandis.\n\nTodavia, a Comissão pode, nos termos do processo do artigo 15º, decidir não aplicar o processo previsto no artigo 6º, quando a alteração seja de menor importância."
+  },
+  "934b024380fad73c": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Os Estados-membros assegurarão que, o mais tardar seis meses depois da data de entrada em vigor do presente regulamento, tenham sido criadas estruturas de controlo, cuja função consistirá em garantir que os produtos agrícolas e géneros alimentícios que comportem uma denominação protegida, satisfaçam as condições formuladas nos cadernos de especificações e obrigações.\n\n2. Uma estrutura de controlo poderá incluir um ou vários serviços de controlo designados e/ou organismos privados autorizados para o efeito pelo Estado-membro. Os Estados-membros enviarão à Comissão as listas de serviços e/ou organismos autorizados bem como as respectivas competências. A Comissão publicará essas informações no Jornal Oficial das Comunidades Europeias.\n\n3. Os serviços de controlo designados e/ou organismos privados autorizados deverão oferecer garantias adequadas de objectividade e imparcialidade em relação aos produtores e transformadores sob o seu controlo e dispor permanentemente dos peritos e recursos necessários para levar a cabo as operações de controlo dos produtos agrícolas e géneros alimentícios com uma denominação protegida.\n\nSe uma estrutura de controlo utilizar os serviços de outro organismo para realizar determinados controlos, este deverá oferecer garantias idênticas. Nesse caso, os serviços de controlo designados e/ou organismos privados autorizados continuarão, todavia, a ser responsáveis perante o Estado-membro por todos os controlos.\n\nA partir de 1 de Janeiro de 1998, os organismos deverão preencher os requisitos estipulados na norma EN 45011 de 26 de Junho de 1989, para serem autorizados pelos Estados-membros para efeitos da aplicação do presente regulamento.\n\n4. Se um serviço de controlo designado e/ou um organismo privado de um Estado-membro verificarem que um produto agrícola ou género alimentício com uma denominação protegida originária desse Estado-membro não satisfaz as condições do caderno de especificações e obrigações, tomarão as medidas necessárias para garantir a observância das disposições do presente regulamento. O referido serviço e/ou organismo informará o Estado-membro das medidas tomadas no exercício dos seus controlos. As partes interessadas deverão ser notificadas de todas as decisões tomadas.\n\n5. Um Estado-membro deve retirar a autorização a um organismo de controlo quando as condições referidas nos nos 2 e 3 deixarem de estar preenchidas. Do facto informará a Comissão que publicará no Jornal Oficial das Comunidades Europeias uma lista revista dos organismos autorizados.\n\n6. Os Estados-membros adoptarão as medidas necessárias para se assegurarem de que um produtor que observe as disposições do presente regulamento tenha acesso ao sistema de controlo.\n\n7. Os custos ocasionados pelos controlos previstos no presente regulamento serão suportados pelos produtores que utilizam a denominação protegida."
+  },
+  "c5b8486b9ae626c5": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. Qualquer Estado-membro pode alegar que a satisfação de uma das condições mencionadas no caderno de especificações e obrigações de um produto agrícola ou género alimentício que beneficia de uma denominação protegida não se verifica.\n\n2. Esse Estado-membro apresentará a sua alegação ao Estado-membro interessado. Este último analisará a reclamação e informará aquele das suas averiguações e das medidas tomadas.\n\n3. Em caso de repetidas irregularidades e de impossibilidade de os Estados-membros chegarem a acordo, deverá ser enviada à Comissão uma reclamação devidamente motivada.\n\n4. A Comissão analisará a reclamação através de consulta aos Estados-membros em questão. Após consulta do comité referido no artigo 15º, a Comissão tomará as medidas necessárias. Estas poderão incluir a anulação do registo."
+  },
+  "2de9c00033f26248": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. Sem prejuízo do disposto em acordos internacionais, qualquer país terceiro pode beneficiar do disposto no presente regulamento relativamente a um produto agrícola ou género alimentício desde que:\n\n- o país terceiro possa oferecer garantias idênticas ou equivalentes às referidas no artigo 4º, - exista no país terceiro em causa um regime de controlo equivalente ao resultante do disposto no artigo 10º,\n\n- o país terceiro em causa esteja disposto a conceder aos produtos agrícolas ou géneros alimentícios correspondentes provenientes da Comunidade uma protecção similar à existente na Comunidade.\n\n2. No caso de existir uma denominação protegida de um país terceiro homónima de uma denominação protegida comunitária, o registo é concedido tomando na devida conta os usos praticados local e tradicionalmente e o risco efectivo de confusão.\n\nApenas é autorizada a utilização de tais denominações no caso de o país de origem do produto ser indicado de maneira clara e visível no rótulo."
+  },
+  "ba5a089bff1651db": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. As denominações registadas encontram-se protegidas contra:\n\na) Qualquer utilização comercial directa ou indirecta de uma denominação registada para produtos não abrangidos pelo registo, na medida em que esses produtos sejam comparáveis a produtos registados sob essa denominação, ou na medida em que a utilização dessa denominação explore a reputação da mesma;\n\nb) Qualquer usurpação, imitação ou evocação, ainda que a verdadeira origem do produto seja indicada ou que a denominação protegida seja traduzida ou acompanhada por termos como « género », « tipo », « método », « imitação », « estilo » ou por uma expressão similar;\n\nc) Qualquer outra indicação falsa ou falaciosa quanto à proveniência, origem, natureza ou qualidades essenciais dos produtos, que conste do acondicionamento ou embalagem, da publicidade ou dos documentos relativos aos produtos em causa, bem como a utilização para o acondicionamento de recipientes susceptíveis de criarem uma opinião errada sobre a origem do produto;\n\nd) Qualquer outra prática susceptível de induzir o público em erro quanto à verdadeira origem do produto.\n\nQuando um nome registado contém em si a designação de um produto agrícola ou género alimentício que é considerada genérica, a utilização dessa designação genérica no adequado produto agrícola ou género alimentício não será considerada contrária às disposições da alínea a) ou b) do presente número.\n\n2. Todavia, os Estados-membros podem manter medidas nacionais que autorizem a utilização das expressões mencionadas na alínea b) do nº 1 durante um período limitado a cinco anos, no máximo, após a data de publicação do presente regulamento, desde que:\n\n- os produtos tenham sido comercializados legalmente sob esta expressão durante, pelo menos, cinco anos antes da data de publicação do presente regulamento,\n\n- a rotulagem faça transparecer claramente a verdadeira origem do produto.\n\nTodavia, esta excepção não pode levar à livre comercialização dos produtos no território de um Estado-membro em que estas expressões eram proibidas.\n\n3. As denominações protegidas não podem tornar-se genéricas."
+  },
+  "3dfe8e812f72f116": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. Sempre que uma denominação de origem ou uma indicação geográfica seja registada em conformidade com o disposto no presente regulamento, será recusado o pedido de registo de uma marca que corresponda a uma das situações referidas no artigo 13º e relativa ao mesmo tipo de produto, na condição de o pedido de registo da marca ser apresentado após a data de publicação prevista no nº 2 do artigo 6º\n\nAs marcas registadas contrariamente ao que é acima disposto serão anuladas.\n\nO disposto no parágrafo anterior aplica-se igualmente sempre que o pedido de registo de uma marca seja apresentado antes da data de publicação do pedido de registo previsto no nº 2 do artigo 6º, na condição de esta publicação ser feita antes do registo da marca.\n\n2. Na observância da legislação comunitária, a utilização de uma marca que corresponda a uma das situações enumeradas no artigo 13º, registada de boa fé antes da data de depósito do pedido de registo de uma denominação de origem ou de uma indicação geográfica, poderá prosseguir não obstante o registo de denominação de origem ou da indicação geográfica, sempre que a marca não incorra nos motivos de nulidade ou caducidade, previstos na Directiva 89/104/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-membros sobre as marcas (6), designadamente, no nº 1, alíneas c) e g), do seu artigo 3º e no nº 2, alínea b), do seu artigo 12º\n\n3. Uma denominação de origem ou uma indicação geográfica não será registada quando, atendendo à reputação de uma marca, à sua notoriedade e à duração da sua utilização, o registo for susceptível de induzir em erro o consumidor quanto à verdadeira identidade do produto."
+  },
+  "501f1cbc1c1839d6": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nA Comissão será assistida por um comité compoto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\nO representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\nA Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nSe as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "20ecbe7674a7f246": {
+   "fragment_id": "Artigo 16º — As regras de execução do presente regulamento serão adoptadas de acordo com o processo previsto no artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 16º — As regras de execução do presente regulamento serão adoptadas de acordo com o processo previsto no artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º — As regras de execução do presente regulamento serão adoptadas de acordo com o processo previsto no artigo 15º"
+  },
+  "26cf3199567cd3ed": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\n1. No prazo de seis meses seguinte à data de entrada em vigor do presente regulamento, os Estados-membros comunicarão à Comissão quais são, de entre as suas denominações legalmente protegidas ou, nos Estados-membros em que não existe um sistema de protecção, de entre as denominações consagradas pelo uso, as que desejam registar ao abrigo do presente regulamento.\n\n2. Em conformidade com o parecer do artigo 15º, a Comissão registará as denominações referidas no nº 1 que correspondam aos requisitos dos artigos 2º e 4º do presente regulamento. O artigo 7º não é aplicável. Contudo, as designações genéricas não serão registadas.\n\n3. Os Estados-membros podem manter a protecção nacional das denominações comunicadas em conformidade com o nº 1 até à data em que for tomada uma decisão sobre o registo."
+  },
+  "a50b129cfa543e48": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\nO presente regulamento entra em vigor doze meses após a data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 14 de Julho de 1992.\n\nPelo Conselho\n\nO Presidente\n\nJ. GUMMER\n\n(1) JO nº C 30 de 6. 2. 1991, p. 9 e\n\nJO nº C 69 de 18. 3. 1992, p. 15.\n\n(2) JO nº C 326 de 16. 12. 1991, p. 35.\n\n(3) JO nº C 269 de 14. 10. 1991, p. 62.\n\n(4) JO nº L 33 de 8. 2. 1979, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 91/72/CEE (JO nº L 42 de 15. 2. 1991, p. 27.)\n\n(5) JO nº L 109 de 26. 4. 1983, p. 8. Directiva com a última redacção que lhe foi dada pela Decisão 90/230/CEE (JO nº L 128 de 18. 5. 1990, p. 15).\n\n(6) JO nº L 40 de 11. 2. 1989, p. 1. Directiva alterada pela Decisão 92/10/CEE (JO nº L 6 de 11. 1. 1992, p. 35)."
+  },
+  "79c44698f932e004": {
+   "fragment_id": "ANEXO I — Géneros alimentícios previstos no nº 1 do artigo 1º",
+   "type": "divisao",
+   "heading": "ANEXO I — Géneros alimentícios previstos no nº 1 do artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Géneros alimentícios previstos no nº 1 do artigo 1º\n\n- Cerveja\n\n- Águas minerais naturais e águas termais\n\n- Bebidas à base de extractos de plantas\n\n- Produtos de padaria, pastelaria, confeitaria ou da indústria de bolachas e biscoitos\n\n- Gomas e resinas naturais"
+  },
+  "3a9ee93cb764a553": {
+   "fragment_id": "ANEXO II — Produtos agrícolas previstos no nº 1 do artigo 1º",
+   "type": "divisao",
+   "heading": "ANEXO II — Produtos agrícolas previstos no nº 1 do artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Produtos agrícolas previstos no nº 1 do artigo 1º\n\n- Feno\n\n- Óleos essenciais"
+  },
+  "f33c39a3e2e073ff": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992R2081 — PT — 31.03.2006 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992R2081) [REGULAMENTO (CEE) Nº 2081/92 DO CONSELHO](http://publications.europa.eu/resource/celex/31992R2081) [de 14 de Julho de 1992](http://publications.europa.eu/resource/celex/31992R2081) [relativo à protecção das indicações geográficas e denominações de origem dos produtos agrícolas e dos géneros alimentícios](http://publications.europa.eu/resource/celex/31992R2081) (JO L 208, 24.7.1992, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 510/2006 do Conselho de 20 de Março de 2006](http://publications.europa.eu/resource/celex/32006R0510) — L 93 — 12 — 31.3.2006"
+  }
+ }
+}

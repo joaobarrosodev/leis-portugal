@@ -34,6 +34,141 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-08-01'
+version_history:
+  file: diretiva-ue-1995-70.versoes.json
+  count: 5
+  source_lastmod: '2008-08-01'
+  versions:
+  - date: '1995-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-12-12'
+    amending: eu:celex:32001D0293:por
+    amending_title: M1; M2; REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003; DECISÃO DA COMISSÃO de 13 de
+      Novembro de 2006; DECISÃO DA COMISSÃO de 5 de Dezembro de 2006; Acto relativo às condições de adesão da República Checa,
+      da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da
+      Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações
+      dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita ANEXO A
+    - Adita LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES
+    - Adita ANEXO B
+    - Adita FUNÇÕES E ATRIBUIÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS
+    - Adita ANEXO C
+    - Adita ANEXO D
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime ANEXO A — LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES
+    - Suprime ANEXO B — FUNÇÕES E ATRIBUIÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS
+    - Suprime ANEXO C — LABORATÓRIOS NACIONAIS DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES
+    - Suprime ANEXO D — >POSIÇÃO NUMA TABELA>
+  - date: '2007-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime ANEXO A
+    - Suprime LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES
+    - Suprime ANEXO B
+    - Suprime FUNÇÕES E ATRIBUIÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS
+    - Suprime ANEXO C
+    - Suprime ANEXO D
+    - Suprime Notas
+  - date: '2007-11-13'
+    amending: eu:celex:32006L0104:por
+    amending_title: DIRECTIVA 2006/104/CE DO CONSELHO de 20 de Novembro de 2006; DECISÃO DA COMISSÃO de 7 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita ANEXO A
+    - Adita LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES
+    - Adita ANEXO B
+    - Adita FUNÇÕES E ATRIBUIÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS
+    - Adita ANEXO C
+    - Adita ANEXO D
+    - Adita Notas
+  - date: '2008-08-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime ANEXO A
+    - Suprime LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS BIVALVES
+    - Suprime ANEXO B
+    - Suprime FUNÇÕES E ATRIBUIÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS MOLUSCOS
+    - Suprime ANEXO C
+    - Suprime ANEXO D
+    - Suprime Notas
 identifiers:
   celex: 31995L0070
   eli: http://data.europa.eu/eli/dir/1995/70/oj
@@ -48,7 +183,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cdaf9017-0c09-4937-92bc-dcec6afe2e1e.0011
   content_url: http://publications.europa.eu/resource/cellar/2bf8f797-c167-4e22-828f-f627f067ebf4.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0070-20080801
-  retrieved_at: '2026-10-22T02:50:50Z'
+  retrieved_at: '2026-10-22T14:44:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T06:19:19.515+01:00'
 integrity:
@@ -57,9 +192,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:50:50Z'
-  notes: Texto consolidado 01995L0070-20080801.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:44:24Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-1995-70.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -155,16 +290,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:50:50Z'
+  checked_at: '2026-10-22T14:44:24Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01995L0070-20010411: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995L0070-20030408: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995L0070-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01995L0070-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -1,0 +1,237 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0396:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0396-20120105",
+ "dre_path": null,
+ "source_lastmod": "2012-01-05",
+ "versions": [
+  {
+   "date": "1989-06-30",
+   "future": false,
+   "celex": "31989L0396",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "21b4fd5ec6d3bbfc",
+    "504467787e2049ea",
+    "c85a73c66bbc5d23",
+    "8e94ed5baf93b207",
+    "9ae38a49286cbeb5",
+    "8cbd0ef87d94a109",
+    "54e8931d3b51ad0d",
+    "c83350620b168c23",
+    "36b365f9bf49d372"
+   ]
+  },
+  {
+   "date": "1992-03-11",
+   "future": false,
+   "celex": "01989L0396-19920311",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º"
+   ],
+   "fragments": [
+    "7c0f60b51bdb6c42",
+    "b70938585ff67a67",
+    "7b8303e57752e0cb",
+    "0c1e1a4256ae609a",
+    "9e927dd3326102a8",
+    "1efe16aac8e2440d",
+    "1bb5d4a5dce1eadc",
+    "6f7a074f8b89c069",
+    "a8ee18a99de7ca08"
+   ]
+  },
+  {
+   "date": "2012-01-05",
+   "future": false,
+   "celex": "01989L0396-20120105",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º"
+   ],
+   "fragments": [
+    "5d0026613dc9e5ca"
+   ]
+  }
+ ],
+ "fragments": {
+  "21b4fd5ec6d3bbfc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 89/396/CEE do Conselho, de 14 de Junho de 1989, relativa às menções ou marcas que permitem identificar o lote ao qual pertence um género alimentício** *Jornal Oficial nº L 186 de 30/06/1989 p. 0021 - 0022 Edição especial finlandesa: Capítulo 15 Fascículo 9 p. 0071 Edição especial sueca: Capítulo 15 Fascículo 9 p. 0071*\n\nDIRECTIVA DO CONSELHO de 14 de Junho de 1989 relativa às menções ou marcas que permitem identificar o lote ao qual pertence um género alimentício (89/396/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que importa adoptar medidas destinadas a estabelecer progessivamente o mercado interno durante um período que termina em 31 de Dezembro de 1992; que o mercado interno compreende um espaço sem fronteiras internas no qual é assegurada a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais;\n\nConsiderando que o comércio de géneros alimentícios ocupa um lugar muito importante no mercado interno;\n\nConsiderando que a indicação do lote ao qual pertence um género alimentício vai ao encontro da preocupação de assegurar uma melhor informação sobre a identidade dos produtos; que a indicação constitui, a esse título, uma fonte de informações útil quando os géneros são objecto de litígio ou apresentam um perigo para a saúde dos consumidores;\n\nConsiderando que a Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios (4), com a última redacção que lhe foi dada pela Directiva 89/395/CEE (5), não considera uma menção relativa à identificação dos lotes; que, desde então, alguns Estados-membros adoptaram disposições nacionais relativas a essa indicação;\n\nConsiderando que, a nível internacional, a referência ao lote de fabrico ou de acondicionamento dos géneros alimentícios pré-embalados é já objecto de uma obrigação generalizada; que a Comunidade deve contribuir para o desenvolvimento do comércio internacional;\n\nConsiderando que é por conseguinte oportuno adoptar as regras de carácter geral e horizontal que devem presidir ao estabelecimento de um sistema comum de identificação dos lotes;\n\nConsiderando que a eficácia desse sistema depende da sua aplicação às várias fases de comercialização; que é conveniente, no entanto, excluir determinados produtos e determinadas operações, particularmente as que tenham lugar no início do circuito de comercialização dos produtos agrícolas;\n\nConsiderando que a noção de lote implica que várias unidades de venda do mesmo género alimentício apresentem características praticamente idênticas de produção, fabrico ou acondicionamento; que, por essa razão, essa noção não pode ser aplicada a produtos apresentados a granel ou que, devido à sua especificidade ou ao seu carácter heterogéneo, não possam ser considerados como constituindo um conjunto homogéneo;\n\nConsiderando que, face à diversidade dos métodos de identificação utilizados, cabe ao operador económico determinar o lote e apor a menção ou marca correspondente;\n\nConsiderando no entanto que, para satisfazer as necessidades de informação para a quais essa menção é considerada, importa que ela se possa distinguir e reconhecer claramente como tal;\n\nConsiderando que a data de durabilidade mínima ou a data limite de consumo, em conformidade com a Directiva 79/112/CEE, pode substituir a menção que permita a identificação do lote, na condição de que tal data seja indicada de forma precisa,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "504467787e2049ea": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva diz respeito à indicação que permite identificar o lote a que pertence um género alimentício.\n\n2. Entende-se por «lote», na acepção da presente directiva, um conjunto de unidades de venda de um género alimentício produzido, fabricado ou acondicionado em cirunstâncias praticamente idênticas."
+  },
+  "c85a73c66bbc5d23": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Um género alimentício apenas pode ser comercializado se vier acompanhado pela indicação referida no nº 1 do artigo 1º\n\n2. Todavia, o nº 1 não se aplica:\n\na) Aos produtos agrícolas que, quando saem da zona de exploração, são:\n\n- vendidos ou entregues a estações de armazenamento, de acondicionamento ou de embalagem,\n\n- encaminhados para organizações de produtores, ou\n\n- reunidos com vista à sua integração imediata num sistema operacional de preparação ou de transformação;\n\nb) Quando, nos locais de venda ao consumidor final, os géneros alimentícios não forem pré-embalados, forem embalados a pedido do comprador ou forem pré-embalados com vista à sua venda imediata;\n\nc) As embalagens ou recipientes cuja face maior tenha uma superfície inferior a 10 cm$.\n\n3. Até 31 de Dezembro de 1996, os Estados-membros podem não exigir a indicação referida no nº 1 do artigo 1º no caso das garrafas destinadas a ser reutilizadas que estejam marcadas de modo indelével e que, por esse facto, não exibam rótulo, nem anel nem gargantilha."
+  },
+  "8e94ed5baf93b207": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nO lote será determinado em cada caso pelo produtor, fabricante ou acondicionador do género alimentício em questão, ou pelo primeiro vendedor estabelecido no interior da Comunidade.\n\nA indicação referida no nº 1 do artigo 1º será determinada e aposta sob a responsabilidade de um ou outro daqueles operadores. Ela será precedida da letra «L», salvo no caso em que se distinº claramente das outras indicações de rotulagem."
+  },
+  "9ae38a49286cbeb5": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nQuando os géneros alimentícios forem pré-embalados, a indicação referida no nº 1 do artigo 1º e, se for caso disso, a letra «L» figurarão na pré-embalagem ou num rótulo a ele ligado.\n\nQuando os géneros alimentícios não forem pré-embalados, a indicação referida no nº 1 do artigo 1º e, se for caso disso, a letra «L» figurarão na embalagem ou no recipiente ou, na sua falta, nos documentos comerciais a eles relativos.\n\nEssa indicação deve figurar sempre de modo a ser facilmente visível, claramente legível e indelével."
+  },
+  "8cbd0ef87d94a109": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nQuando a data de durabilidade mínima ou a data limite de consumo figurarem no rótulo, a indicação referida no nº 1 do artigo 1º pode não acompanhar o género alimentício, desde que essa data seja composta pela indicação, clara e por ordem, do dia e do mês, pelo menos."
+  },
+  "54e8931d3b51ad0d": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nA presente directiva aplica-se sem prejuízo das indicações previstas por disposições comunitárias específicas.\n\nA Comissão publicará e manterá actualizada a lista das disposições em causa."
+  },
+  "c83350620b168c23": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nOs Estados-membros alterarão, se necessário, as suas disposições legislativas, regulamentares ou administrativas, de modo a:\n\n- autorizar o comércio dos produtos conformes com a presente directiva, o mais tardar em 20 de Junho de 1990,\n\n- proibir o comércio dos produtos não conformes com a presente directiva a partir de 20 de Junho de 1991; contudo, os produtos colocados no mercado ou rotulados antes dessa data e não conformes com a presente directiva podem ser comercializados até ao esgotamento das existências.\n\nOs Estados-membros informarão imediatamente do facto a Comissão."
+  },
+  "36b365f9bf49d372": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 14 de Junho de 1989.\n\nPelo Conselho\n\nO Presidente\n\nP. SOLBES\n\n(1) JO nº C 310 de 20. 11. 1987, p. 2.\n\n(2) JO nº C 167 de 27. 6. 1988, p. 425, e JO nº C 120 de\n\n16. 5. 1989.\n\n(3) JO nº C 95 de 11. 4. 1988, p. 1.\n\n(4) JO nº L 33 de 8. 2. 1979, p. 1.\n\n(5) Ver página 17 do presente Jornal oficial."
+  },
+  "7c0f60b51bdb6c42": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1989L0396 — PT — 11.03.1992 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0396:PT:NOT) [DIRECTIVA DO CONSELHO de 14 de Junho de 1989 relativa às menções ou marcas que permitem identificar o lote ao qual pertence um género alimentício (89/396/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0396:PT:NOT) (JO L 186, 30.6.1989, p.21)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0238:PT:NOT) | [Directiva do Conselho 91/238/CEE de 22 de Abril de 1991](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0238:PT:NOT) | L 107 | 50 | 27.4.1991 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0011:PT:NOT) | [Directiva 92/11/CEE do Conselho de 3 de Março de 1992](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0011:PT:NOT) | L 65 | 32 | 11.3.1992 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0396:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 14 de Junho de 1989\n\nrelativa às menções ou marcas que permitem identificar o lote ao qual pertence um género alimentício\n\n(89/396/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.oA,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/a52af194-d5fe-4812-913d-e0a0a327cd5d.0018.02/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/a52af194-d5fe-4812-913d-e0a0a327cd5d.0018.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/a52af194-d5fe-4812-913d-e0a0a327cd5d.0018.02/DOC_1#E0003)),\n\nConsiderando que importa adoptar medidas destinadas a estabelecer progessivamente o mercado interno durante um período que termina em 31 de Dezembro de 1992; que o mercado interno compreende um espaço sem fronteiras internas no qual é assegurada a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais;\n\nConsiderando que o comércio de géneros alimentícios ocupa um lugar muito importante no mercado interno;\n\nConsiderando que a indicação do lote ao qual pertence um género alimentício vai ao encontro da preocupação de assegurar uma melhor informação sobre a identidade dos produtos; que a indicação constitui, a esse título, uma fonte de informações útil quando os géneros são objecto de litígio ou apresentam um perigo para a saúde dos consumidores;\n\nConsiderando que a Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios ([4](http://publications.europa.eu/resource/cellar/a52af194-d5fe-4812-913d-e0a0a327cd5d.0018.02/DOC_1#E0004)), com a última redacção que lhe foi dada pela Directiva 89/395/CEE ([5](http://publications.europa.eu/resource/cellar/a52af194-d5fe-4812-913d-e0a0a327cd5d.0018.02/DOC_1#E0005)), não considera uma menção relativa à identificação dos lotes; que, desde então, alguns Estados-membros adoptaram disposições nacionais relativas a essa indicação;\n\nConsiderando que, a nível internacional, a referência ao lote de fabrico ou de acondicionamento dos géneros alimentícios pré-embalados é já objecto de uma obrigação generalizada; que a Comunidade deve contribuir para o desenvolvimento do comércio internacional;\n\nConsiderando que é por conseguinte oportuno adoptar as regras de carácter geral e horizontal que devem presidir ao estabelecimento de um sistema comum de identificação dos lotes;\n\nConsiderando que a eficácia desse sistema depende da sua aplicação às várias fases de comercialização; que é conveniente, no entanto, excluir determinados produtos e determinadas operações, particularmente as que tenham lugar no início do circuito de comercialização dos produtos agrícolas;\n\nConsiderando que a noção de lote implica que várias unidades de venda do mesmo género alimentício apresentem características praticamente idênticas de produção, fabrico ou acondicionamento; que, por essa razão, essa noção não pode ser aplicada a produtos apresentados a granel ou que, devido à sua especificidade ou ao seu carácter heterogéneo, não possam ser considerados como constituindo um conjunto homogéneo;\n\nConsiderando que, face à diversidade dos métodos de identificação utilizados, cabe ao operador económico determinar o lote e apor a menção ou marca correspondente;\n\nConsiderando no entanto que, para satisfazer as necessidades de informação para a quais essa menção é considerada, importa que ela se possa distinguir e reconhecer claramente como tal;\n\nConsiderando que a data de durabilidade mínima ou a data limite de consumo, em conformidade com a Directiva 79/112/CEE, pode substituir a menção que permita a identificação do lote, na condição de que tal data seja indicada de forma precisa,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b70938585ff67a67": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva diz respeito à indicação que permite identificar o lote a que pertence um género alimentício.\n\n2. Entende-se por «lote», na acepção da presente directiva, um conjunto de unidades de venda de um género alimentício produzido, fabricado ou acondicionado em circunstâncias praticamente idênticas."
+  },
+  "7b8303e57752e0cb": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Um género alimentício apenas pode ser comercializado se vier acompanhado pela indicação referida no n.o 1 do artigo 1.o\n\n2. Todavia, o n.o 1 não se aplica:\n\na) Aos produtos agrícolas que, quando saem da zona de exploração, são:\n\n— vendidos ou entregues a estações de armazenamento, de acondicionamento ou de embalagem,\n\n— encaminhados para organizações de produtores,\n\n— ou\n\n— reunidos com vista à sua integração imediata num sistema operacional de preparação ou de transformação;\n\nb) Quando, nos locais de venda ao consumidor final, os géneros alimentícios não forem pré-embalados, forem embalados a pedido do comprador ou forem pré-embalados com vista à sua venda imediata;\n\nc) As embalagens ou recipientes cuja face maior tenha uma superfície inferior a 10 cm2.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0238:PT:NOT)\n\nd) As doses individuais de gelados alimentares. A indicação que permite identificar o lote deve figurar nas embalagens colectivas.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0396:PT:NOT)\n\n3. Até 31 de Dezembro de 1996, os Estados-membros podem não exigir a indicação referida no n.o 1 do artigo 1.o no caso das garrafas destinadas a ser reutilizadas que estejam marcadas de modo indelével e que, por esse facto, não exibam rótulo, nem anel nem gargantilha."
+  },
+  "0c1e1a4256ae609a": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO lote será determinado em cada caso pelo produtor, fabricante ou acondicionador do género alimentício em questão, ou pelo primeiro vendedor estabelecido no interior da Comunidade.\n\nA indicação referida no n.o 1 do artigo 1.o será determinada e aposta sob a responsabilidade de um ou outro daqueles operadores. Ela será precedida da letra «L», salvo no caso em que se distinga claramente das outras indicações de rotulagem."
+  },
+  "9e927dd3326102a8": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nQuando os géneros alimentícios forem pré-embalados, a indicação referida no n.o 1 do artigo 1.o e, se for caso disso, a letra «L» figurarão na pré-embalagem ou num rótulo a ele ligado.\n\nQuando os géneros alimentícios não forem pré-embalados, a indicação referida no n.o 1 do artigo 1.o e, se for caso disso, a letra «L» figurarão na embalagem ou no recipiente ou, na sua falta, nos documentos comerciais a eles relativos.\n\nEssa indicação deve figurar sempre de modo a ser facilmente visível, claramente legível e indelével."
+  },
+  "1efe16aac8e2440d": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nQuando a data de durabilidade mínima ou a data limite de consumo figurarem no rótulo, a indicação referida no n.o 1 do artigo 1.o pode não acompanhar o género alimentício, desde que essa data seja composta pela indicação, clara e por ordem, do dia e do mês, pelo menos."
+  },
+  "1bb5d4a5dce1eadc": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA presente directiva aplica-se sem prejuízo das indicações previstas por disposições comunitárias específicas.\n\nA Comissão publicará e manterá actualizada a lista das disposições em causa."
+  },
+  "6f7a074f8b89c069": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-membros alterarão, se necessário, as suas disposições legislativas, regulamentares ou administrativas, de modo a:\n\n— autorizar o comércio dos produtos conformes com a presente directiva, o mais tardar em 20 de Junho de 1990,\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0011:PT:NOT)\n\n— proibir o comércio dos produtos não conformes com a presente directiva a partir de 1 de Julho de 1992. Contudo, os produtos colocados no mercado ou rotulados antes dessa data e não conformes com a presente directiva podem ser comercializados até ao esgotamento das existências.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0396:PT:NOT)\n\nOs Estados-membros informarão imediatamente do facto a Comissão."
+  },
+  "a8ee18a99de7ca08": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n([1](http://publications.europa.eu/resource/cellar/a52af194-d5fe-4812-913d-e0a0a327cd5d.0018.02/DOC_1#src.E0001)) JO n.o C 310 de 20. 11. 1987, p. 2.\n\n([2](http://publications.europa.eu/resource/cellar/a52af194-d5fe-4812-913d-e0a0a327cd5d.0018.02/DOC_1#src.E0002)) JO n.o C 167 de 27. 6. 1988, p. 425, e JO n.o C 120 de 16. 5. 1989.\n\n([3](http://publications.europa.eu/resource/cellar/a52af194-d5fe-4812-913d-e0a0a327cd5d.0018.02/DOC_1#src.E0003)) JO n.o C 95 de 11. 4. 1988, p. 1.\n\n([4](http://publications.europa.eu/resource/cellar/a52af194-d5fe-4812-913d-e0a0a327cd5d.0018.02/DOC_1#src.E0004)) JO n.o L 33 de 8. 2. 1979, p. 1.\n\n([5](http://publications.europa.eu/resource/cellar/a52af194-d5fe-4812-913d-e0a0a327cd5d.0018.02/DOC_1#src.E0005)) JO n.o L 186 de 30. 6. 1989, p. 17."
+  },
+  "5d0026613dc9e5ca": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1989L0396 — PT — 05.01.2012 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31989L0396) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31989L0396) [de 14 de Junho de 1989](http://publications.europa.eu/resource/celex/31989L0396) [relativa às menções ou marcas que permitem identificar o lote ao qual pertence um género alimentício](http://publications.europa.eu/resource/celex/31989L0396) [(89/396/CEE)](http://publications.europa.eu/resource/celex/31989L0396) (JO L 186, 30.6.1989, p.21)\n\n**revogado por:**\n\n- [Directiva 2011/91/UE do Parlamento Europeu e do Conselho de 13 de Dezembro de 2011](http://publications.europa.eu/resource/celex/32011L0091) — L 334 — 1 — 16.12.2011"
+  }
+ }
+}

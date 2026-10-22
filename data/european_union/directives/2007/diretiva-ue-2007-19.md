@@ -36,6 +36,36 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-04-20'
+version_history:
+  file: diretiva-ue-2007-19.versoes.json
+  count: 2
+  source_lastmod: '2007-04-20'
+  versions:
+  - date: '2007-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-04-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Adita «ANEXO IV-A
+    - Adita ANEXO V
+    - 'Adita «Parte A: Especificações gerais'
+    - Adita ANEXO VI
+    - Adita ANEXO VII
+    - Adita «ANEXO VI-A
+    - Adita DECLARAÇÃO DE CONFORMIDADE
+    - Adita ANEXO VIII
 identifiers:
   celex: 32007L0019
   eli: http://data.europa.eu/eli/dir/2007/19/oj
@@ -50,7 +80,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/630d80a3-0b55-4e64-97b6-a2461e7aec86.0017
   content_url: http://publications.europa.eu/resource/cellar/40822ea6-da11-47da-987c-f6ac6fcff3b6.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007L0019-20070420
-  retrieved_at: '2026-10-22T02:58:31Z'
+  retrieved_at: '2026-10-22T15:07:08Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T16:43:18.418+01:00'
 integrity:
@@ -59,9 +89,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:31Z'
-  notes: Texto consolidado 02007L0019-20070420.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:07:08Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2007-19.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -133,30 +163,19 @@ relationships:
   source: null
 article_structure:
   article_count: 5
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:31Z'
+  checked_at: '2026-10-22T15:07:08Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2007/19/CE da Comissão, de 30 de Março de 2007
-
-> 2007L0019 — PT — 20.04.2007 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32007L0019R%2801%29) — [Rectificação, JO L 094, 4.4.2007, p. 71 (07/19)](http://publications.europa.eu/resource/celex/32007L0019R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32007L0019R%2802%29) — [Rectificação, JO L 097, 12.4.2007, p. 50 (07/19)](http://publications.europa.eu/resource/celex/32007L0019R%2802%29)
-
-## DIRECTIVA 2007/19/CE DA COMISSÃO
 
 de 2 de Abril de 2007
 

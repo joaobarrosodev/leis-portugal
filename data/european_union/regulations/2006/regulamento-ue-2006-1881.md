@@ -35,6 +35,286 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-05-25'
+version_history:
+  file: regulamento-ue-2006-1881.versoes.json
+  count: 30
+  source_lastmod: '2023-05-25'
+  versions:
+  - date: '2012-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-04-01'
+    amending: eu:celex:32012R0219:por
+    amending_title: M9
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2012-09-01'
+    amending: eu:celex:32011R0835:por
+    amending_title: REGULAMENTO (UE) N. o 835/2011 DA COMISSÃO de 19 de Agosto de 2011; REGULAMENTO (UE) N. o 594/2012 DA
+      COMISSÃO de 5 de julho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera Artigo 11.º — Medidas transitórias
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2012-12-03'
+    amending: eu:celex:32012R1058:por
+    amending_title: REGULAMENTO (UE) N. o 1058/2012 DA COMISSÃO de 12 de novembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2014-01-01'
+    amending: eu:celex:32013R1067:por
+    amending_title: REGULAMENTO (UE) N. o 1067/2013 DA COMISSÃO de 30 de outubro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2014-04-01'
+    amending: eu:celex:32014R0212:por
+    amending_title: REGULAMENTO (UE) N. o 212/2014 DA COMISSÃO de 6 de março de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2014-06-02'
+    amending: eu:celex:32014R0362:por
+    amending_title: M15; Regulamento (UE) n. o 488/2014 da Comissão de 12 de maio de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2014-07-01'
+    amending: eu:celex:32014R0696:por
+    amending_title: REGULAMENTO (UE) N. o 696/2014 DA COMISSÃO de 24 de junho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2014-09-01'
+    amending: eu:celex:32014R1327:por
+    amending_title: REGULAMENTO (UE) N. o 1327/2014 DA COMISSÃO de 12 de dezembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Derrogações
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2015-05-21'
+    amending: eu:celex:32015R0704:por
+    amending_title: REGULAMENTO (UE) 2015/704 DA COMISSÃO de 30 de abril de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2015-07-31'
+    amending: eu:celex:32015R1125:por
+    amending_title: REGULAMENTO (UE) 2015/1125 DA COMISSÃO de 10 de julho de 2015; REGULAMENTO (UE) 2015/1137 DA COMISSÃO
+      de 13 de julho de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2015-11-18'
+    amending: eu:celex:32015R1933:por
+    amending_title: REGULAMENTO (UE) 2015/1933 DA COMISSÃO de 27 de outubro de 2015; REGULAMENTO (UE) 2015/1940 DA COMISSÃO
+      de 28 de outubro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2016-01-01'
+    amending: eu:celex:32015R1005:por
+    amending_title: REGULAMENTO (UE) 2015/1005 DA COMISSÃO de 25 de junho de 2015; REGULAMENTO (UE) 2015/1006 DA COMISSÃO
+      de 25 de junho de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2016-03-11'
+    amending: eu:celex:32016R0239:por
+    amending_title: REGULAMENTO (UE) 2016/239 DA COMISSÃO de 19 de fevereiro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2016-04-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2017-07-28'
+    amending: eu:celex:32017R1237:por
+    amending_title: REGULAMENTO (UE) 2017/1237 DA COMISSÃO de 7 de julho de 2017
+    changes:
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2018-03-19'
+    amending: eu:celex:32018R0290:por
+    amending_title: REGULAMENTO (UE) 2018/290 DA COMISSÃO de 26 de fevereiro de 2018
+    changes:
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2019-11-28'
+    amending: eu:celex:32019R1870:por
+    amending_title: REGULAMENTO (UE) 2019/1870 DA COMISSÃO de 7 de novembro de 2019
+    changes:
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2020-04-01'
+    amending: eu:celex:32019R1901:por
+    amending_title: REGULAMENTO (UE) 2019/1901 DA COMISSÃO de 7 de novembro de 2019
+    changes:
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2020-07-01'
+    amending: eu:celex:32020R0685:por
+    amending_title: REGULAMENTO (UE) 2020/685 DA COMISSÃO de 20 de maio de 2020
+    changes:
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2020-09-28'
+    amending: eu:celex:32020R1255:por
+    amending_title: REGULAMENTO (UE) 2020/1255 DA COMISSÃO de 7 de setembro de 2020
+    changes:
+    - Altera Derrogações
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2020-10-14'
+    amending: eu:celex:32020R1322:por
+    amending_title: REGULAMENTO (UE) 2020/1322 DA COMISSÃO de 23 de setembro de 2020
+    changes:
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2021-08-31'
+    amending: eu:celex:32021R1317:por
+    amending_title: REGULAMENTO (UE) 2021/1317 DA COMISSÃO de 9 de agosto de 2021; REGULAMENTO (UE) 2021/1323 DA COMISSÃO
+      de 10 de agosto de 2021
+    changes:
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2021-09-19'
+    amending: eu:celex:32021R1408:por
+    amending_title: REGULAMENTO (UE) 2021/1408 DA COMISSÃO de 27 de agosto de 2021
+    changes:
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2022-01-01'
+    amending: eu:celex:32021R1399:por
+    amending_title: REGULAMENTO (UE) 2021/1399 DA COMISSÃO de 24 de agosto de 2021
+    changes:
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2022-05-03'
+    amending: eu:celex:32022R0617:por
+    amending_title: REGULAMENTO (UE) 2022/617 DA COMISSÃO de 12 de abril de 2022
+    changes:
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2022-07-01'
+    amending: eu:celex:32020R2040:por
+    amending_title: REGULAMENTO (UE) 2020/2040 DA COMISSÃO de 11 de dezembro de 2020; REGULAMENTO (UE) 2021/2142 DA COMISSÃO
+      de 3 de dezembro de 2021
+    changes:
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2023-01-01'
+    amending: eu:celex:32022R1364:por
+    amending_title: REGULAMENTO (UE) 2022/1364 DA COMISSÃO de 4 de agosto de 2022; REGULAMENTO (UE) 2022/1370 DA COMISSÃO
+      de 5 de agosto de 2022; REGULAMENTO (UE) 2022/1393 DA COMISSÃO de 11 de agosto de 2022; REGULAMENTO (UE) 2022/2002 DA
+      COMISSÃO de 21 de outubro de 2022; REGULAMENTO (UE) 2022/2388 DA COMISSÃO de 7 de dezembro de 2022
+    changes:
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2023-03-26'
+    amending: eu:celex:32023R0465:por
+    amending_title: REGULAMENTO (UE) 2023/465 DA COMISSÃO de 3 de março de 2023
+    changes:
+    - Altera Artigo 8.º — Amostragem e análise
+    - Altera Artigo 9.º — Monitorização e informação
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2023-05-25'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Regras gerais
+    - Suprime Artigo 2.º — Géneros alimentícios secos, diluídos, transformados e compostos
+    - Suprime Artigo 3.º — Proibições relativas à utilização, à mistura e à destoxificação
+    - Suprime Artigo 4.º — Disposições específicas relativas aos amendoins, a outras sementes oleaginosas, a frutos de casca
+      rija, a frutos secos, ao arroz e ao milho
+    - Suprime Artigo 5.º — Disposições específicas relativas aos amendoins, a outras sementes oleaginosas, aos respectivos
+      produtos derivados e aos cereais
+    - Suprime Artigo 6.º — Disposições específicas relativas à alface
+    - Suprime Artigo 7.º
+    - Suprime Derrogações
+    - Suprime Artigo 8.º — Amostragem e análise
+    - Suprime Artigo 9.º — Monitorização e informação
+    - Suprime Artigo 10.º — Revogação
+    - Suprime Artigo 11.º — Medidas transitórias
+    - Suprime Artigo 12.º — Entrada em vigor e aplicação
+    - Suprime ANEXO
+    - Suprime Notas
 identifiers:
   celex: 32006R1881
   eli: http://data.europa.eu/eli/reg/2006/1881/oj
@@ -49,7 +329,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/82532bb5-dcb4-4624-80fc-326561963e7a.0016
   content_url: http://publications.europa.eu/resource/cellar/c7b0a648-1a76-11ee-806b-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1881-20230525
-  retrieved_at: '2026-10-22T03:12:50Z'
+  retrieved_at: '2026-10-22T15:06:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-21T05:46:17.403+01:00'
 integrity:
@@ -58,9 +338,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:50Z'
-  notes: Texto consolidado 02006R1881-20230525.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:06:09Z'
+  notes: 30 versão(ões); histórico completo em regulamento-ue-2006-1881.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -346,16 +626,19 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:50Z'
+  checked_at: '2026-10-22T15:06:09Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02006R1881-20070701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1881-20080723: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1881-20090701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1881-20100701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1881-20110520: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

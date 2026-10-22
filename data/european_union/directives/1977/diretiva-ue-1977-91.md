@@ -36,6 +36,121 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-12-04'
+version_history:
+  file: diretiva-ue-1977-91.versoes.json
+  count: 4
+  source_lastmod: '2012-12-04'
+  versions:
+  - date: '1977-01-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:31992L0101:por
+    amending_title: Directiva 92/101/CEE do Conselho de 23 de Novembro de 1992; DIRECTIVA 2006/68/CE DO PARLAMENTO EUROPEU
+      E DO CONSELHO Texto relevante para efeitos do EEE de 6 de Setembro de 2006; DIRECTIVA 2006/99/CE DO CONSELHO de 20 de
+      Novembro de 2006; Acto de Adesão da Grécia; ►A2; Acto de Adesão da Áustria, da Finlândia e da Suécia; Acto relativo
+      às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia,
+      da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia
+      e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Adita preambulo
+    - Adita Artigo 1º
+    - Adita Artigo 2º
+    - Adita Artigo 3º
+    - Adita Artigo 4º
+    - Adita Artigo 5º
+    - Adita Artigo 6º
+    - Adita Artigo 7º
+    - Adita Artigo 8º
+    - Adita Artigo 9º
+    - Adita Artigo 10º
+    - Adita Artigo 10.º-A
+    - Adita Artigo 10.º-B
+    - Adita Artigo 11º
+    - Adita Artigo 12º
+    - Adita Artigo 13º
+    - Adita Artigo 14º
+    - Adita Artigo 15º
+    - Adita Artigo 16º
+    - Adita Artigo 17º
+    - Adita Artigo 18º
+    - Adita Artigo 19º
+    - Adita Artigo 20º
+    - Adita Artigo 21º
+    - Adita Artigo 22º
+    - Adita Artigo 23º
+    - Adita Artigo 23.º-A
+    - Adita Artigo 24º
+    - Adita Artigo 24ºA
+    - Adita Artigo 25º
+    - Adita Artigo 26º
+    - Adita Artigo 27º
+    - Adita Artigo 28º
+    - Adita Artigo 29º
+    - Adita Artigo 30º
+    - Adita Artigo 31º
+    - Adita Artigo 32º
+    - Adita Artigo 33º
+    - Adita Artigo 34º
+    - Adita Artigo 35º
+  - date: '2009-10-22'
+    amending: eu:celex:32009L0109:por
+    amending_title: DIRECTIVA 2009/109/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Setembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1º
+    - Altera Artigo 6º
+    - Altera Artigo 10º
+    - Altera Artigo 10.º-A
+    - Altera Artigo 19º
+    - Altera Artigo 23.º-A
+    - Altera Artigo 27º
+    - Altera Notas
+  - date: '2012-12-04'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 10.º-A
+    - Suprime Artigo 10.º-B
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime Artigo 17º
+    - Suprime Artigo 18º
+    - Suprime Artigo 19º
+    - Suprime Artigo 20º
+    - Suprime Artigo 21º
+    - Suprime Artigo 22º
+    - Suprime Artigo 23º
+    - Suprime Artigo 23.º-A
+    - Suprime Artigo 24º
+    - Suprime Artigo 24ºA
+    - Suprime Artigo 25º
+    - Suprime Artigo 26º
+    - Suprime Artigo 27º
+    - Suprime Artigo 28º
+    - Suprime Artigo 29º
+    - Suprime Artigo 30º
+    - Suprime Artigo 31º
+    - Suprime Artigo 32º
+    - Suprime Artigo 33º
+    - Suprime Artigo 34º
+    - Suprime Artigo 35º
 identifiers:
   celex: 31977L0091
   eli: http://data.europa.eu/eli/dir/1977/91/oj
@@ -50,7 +165,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7b977bbb-7d79-4352-bc3b-36a152d98970.0011
   content_url: http://publications.europa.eu/resource/cellar/b16444a7-ca5e-4c85-bda4-4b3800e873f1.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977L0091-20121204
-  retrieved_at: '2026-10-22T02:46:22Z'
+  retrieved_at: '2026-10-22T14:32:08Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T20:09:39.925+01:00'
 integrity:
@@ -59,9 +174,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:22Z'
-  notes: Texto consolidado 01977L0091-20121204.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:32:08Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1977-91.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -196,16 +311,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:22Z'
+  checked_at: '2026-10-22T14:32:08Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01977L0091-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0091-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

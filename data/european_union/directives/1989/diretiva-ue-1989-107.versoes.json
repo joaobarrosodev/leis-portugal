@@ -1,0 +1,219 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0107:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0107-20100120",
+ "dre_path": null,
+ "source_lastmod": "2010-01-20",
+ "versions": [
+  {
+   "date": "1989-02-11",
+   "future": false,
+   "celex": "31989L0107",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5d5887bfb55a53ec",
+    "eb19c5921ed133a2",
+    "67342f7ee3addb0c",
+    "b7f4db3ce2b5cd0b",
+    "97723008db8f1ee8",
+    "cb9fca1ff5d91d51",
+    "debccd32af88cb43",
+    "d81b5907ed8cf41d",
+    "ec691858318912e1",
+    "258c77465feec310",
+    "703933d5414f60e5",
+    "7d9210002cdc9e7b",
+    "668c7606e47ccde2",
+    "73ab0bc00f9b629e",
+    "0212915a975db2b6",
+    "8aabb2af41c67101",
+    "88f9a95fe8524df5",
+    "1ed74ba48b65cca6"
+   ]
+  },
+  {
+   "date": "2010-01-20",
+   "future": false,
+   "celex": "01989L0107-20100120",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1°",
+    "Suprime Artigo 2°",
+    "Suprime Artigo 3°",
+    "Suprime Artigo 4°",
+    "Suprime Artigo 5°",
+    "Suprime Artigo 6°",
+    "Suprime Artigo 7°",
+    "Suprime Artigo 8°",
+    "Suprime Artigo 9°",
+    "Suprime Artigo 10°",
+    "Suprime Artigo 11°",
+    "Suprime Artigo 12°",
+    "Suprime Artigo 13°",
+    "Suprime Artigo 14°",
+    "Suprime Artigo 15°",
+    "Suprime ANEXO I — Categorias de aditivos alimentares",
+    "Suprime ANEXO II — Critérios gerais para a utilização de aditivos alimentares"
+   ],
+   "fragments": [
+    "75cbc86cace6777f"
+   ]
+  }
+ ],
+ "fragments": {
+  "5d5887bfb55a53ec": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 89/107/CEE do Conselho de 21 de Dezembro de 1988 relativa à aproximação das legislações dos Estados- membros respeitantes aos aditivos que podem ser utilizados nos géneros destinados à alimentação humana** *Jornal Oficial nº L 040 de 11/02/1989 p. 0027 - 0033 Edição especial finlandesa: Capítulo 13 Fascículo 17 p. 0200 Edição especial sueca: Capítulo 13 Fascículo 17 p. 0200*\n\nDIRECTIVA DO CONSELHO de 21 de Dezembro de 1988 relativa à aproximação das legislações dos Estados-membros respeitantes aos aditivos que podem ser utilizados nos géneros destinados à alimentação humana (89/107/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100°.A,\n\nTendo em conta a proposta da Comissão,\n\nEm cooperação com o Parlamento Europeu [1],\n\n[1] JO n° 99 de 13. 4. 1987, p. 65 e JO n° C 12 de 16. 1. 1989.\n\nTendo em conta o parecer do Comité Económico e Social [2],\n\n[2] JO n° C 328 de 22. 12. 1986, p. 5.\n\nConsiderando que as diferenças existentes entre as legislações nacionais respeitantes aos aditivos alimentares e respectivas condições de utilização entravam a livre circulação dos géneros alimentícios; que essas diferenças podem criar condições de concorrência desiguais e que têm, por isso, uma incidência directa sobre a criação ou o funcionamento do mercado comum;\n\nConsiderando que é, pois, necessário proceder a uma aproximação dessas legislações;\n\nConsiderando que os requisitos necessários para o efeito devem ser incluídos numa directiva global, elaborada eventualmente por etapas;\n\nConsiderando que a elaboração de listas de categorias de aditivos alimentares que devem ser objecto de uma directiva é da competência do Conselho, deliberando segundo o processo previsto no artigo 100° A do Tratado;\n\nConsiderando que a utilização dos aditivos alimentares incluídos em tais categorias apenas deve ser autorizada com base em critérios científicos e tecnológicos admitidos, fixados pelo Conselho;\n\nConsiderando que, para a elaboração das listas de aditivos e respectivas condições de utilização, o Comité Científico da Alimentação Humana, instituído pela Decisão 74/234/CEE da Comissão [3], deve ser consultado antes da adopção de disposições susceptíveis de ter incidência sobre a saúde pública;\n\n[3] JO n° L 136 de 20. 5. 1974, p. 1.\n\nConsiderando que as listas de aditivos autorizados devem poder ser adaptadas à evolução científica e técnica; que, nesse caso, pode ser oportuno prever também, para além das regras processuais previstas pelo Tratado, um sistema que permita aos Estados-membros contribuir, através da tomada de medidas nacionais temporárias, à obtenção de uma solução comunitária;\n\nConsiderartdo que a determinação dos critérios de pureza aplicáveis aos aditivos alimentares e a elaboração de métodos de análise e de amostragem são questões técnicas que devem ser confiadas à Comissão;\n\nConsiderando que as disposições comunitárias existentes sobre corantes, conservantes, antioxidantes e emulsionantes estabilizadores, espessantes e gelificantes devem ser alteradas em função da presente directiva;\n\nConsiderando que, em todos os casos em que o Conselho atribui à Comissão competência para a execução das regras estabelecidas no domínio dos géneros alimentícios, é conveniente prever um processo que institua uma estreita cooperação entre os Estados-membros e a Comissão, no âmbito do Comité Permanente dos Géneros Alimentícios, instituído pela Decisão 69/414/CEE da Comissáo [4],\n\n[4] JO n° L 291 de 19. 11. 1969, p.9.\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "eb19c5921ed133a2": {
+   "fragment_id": "Artigo 1°",
+   "type": "artigo",
+   "heading": "Artigo 1°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1°\n\n1. A presente directiva é aplicável aos aditivos alimentares incluídos nas categorias enumeradas no Anexo I e utilizados ou destinados a ser utilizados como ingredientes no fabrico ou preparação de um género alimentício e que se mantenham presentes no produto acabado, eventualmente sob uma forma modificada adiante denominados «aditivos alimentares».\n\n2. Para efeitos da presente directiva, entende-se por «aditivo alimentar» qualquer substância não consumida habitualmente como alimento em si mesma e habitualmente não utilizada como ingrediente característico na alimentação, com ou sem valor nutritivo, e cuja adição intencional aos géneros alimentícios, com um objectivo tecnológico, na fase de fabrico, transformação, preparação, tratamento, acondicionamento, transporte ou armazenagem, tenha por efeito, ou possa legitimamente considerar-se como tendo por efeito, que ela própria ou os seus derivados se tonmem directa ou indirectamente um componente desses géneros alimentícios.\n\n3. A presente directiva não aplicável:\n\na) Aos adjuvartes tecnológicos [5];\n\nb) Às substâncias utilizadas para a protecção das plantas e dos produtos vegetais nos termos da regulamentação comunitária aplicável no domínio fitossanitário;\n\nc) Aos aromatizantes referidos na Directiva 88/388/CEE [6] destinados a ser utilizados nos géneros alimentícios;\n\nd) Às substâncias adicionadas aos géneros alimentícios como nutrientes (por exemplo, minerais, oligo-elementos ou vitaminas).\n\n[5] Para efeitos da presente directiva, entende-se por «adjuvante tecnológicos». qualquer substância que não é consumida como ingrediente alimentar em si e que é intencionalmente utilizada na transformação das matérias-primas, dos géneros alimentícios ou dos seus ingredientes, para atingir determinado objectivo tecnológico durante o tratamento ou a transformação e que possa ter como resultado a presença não intencional de resíduos tecnicamente inevitáveis da substância em causa ou dos derivados no produto acabado, na condição de que esses resíduos não apresentem qualquer risco sanitário e não produzam efeitos tecnológicos sobre o produto acabado.\n\n[6] JO n° L 184 de 15. 7. 1988, p. 61."
+  },
+  "67342f7ee3addb0c": {
+   "fragment_id": "Artigo 2°",
+   "type": "artigo",
+   "heading": "Artigo 2°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2°\n\n1. Para qualquer categoria de aditivos alimentares indicada no Anexo I relativamente à qual tenham sido elaboradas listas nos termos do n° 3 do artigo 3°, apenas as substâncias incluídas em tais listas podem ser utilizadas como aditivos alimentares no fabrico ou preparação de géneros alimentícios e somente nas condições de utilização nelas especificadas.\n\n2. A inclusão de aditivos alimentares numa das categorias referidas no Anexo I far-se-à de acordo com a função principal que lhes está normalmente associada. Contudo, a inclusão de um aditivo numa categoria determinada não exclui a possibilidade de esse aditivo ser autorizado para outras funções.\n\n3. Os aditivos alimentares são incluídos numa lista com base nos critérios gerais descritos no Anexo II."
+  },
+  "b7f4db3ce2b5cd0b": {
+   "fragment_id": "Artigo 3°",
+   "type": "artigo",
+   "heading": "Artigo 3°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3°\n\nI. Serão adoptadas disposições especiais para os aditivos incluídos nas categorias referidas no Anexo I através de uma directiva global, que integrará, nomedamente, as directivas específicas existentes relativas a certas categorias de aditivos. Todavia, essa directiva pode ser elaborada por etapas.\n\n2. O Conselho, deliberando sob proposta da Comissão segundo o processo previsto no artigo lOO° A do Tratado, adoptará:\n\na) A lista dos aditivos cuja utilização está autorizada, com exclusáo de quaisquer outros;\n\nb) A lista dos géneros alimenticios a que tais aditivos podem ser adicionados, as condições dessa adição e, eventualmente, uma limitação quanto à finalidade tecnológica da sua utilização;\n\nc) As regras relativas aos aditivos utilizados como solventes transportadores ou suportes, incluindo, eventualmente, os respectivos critérios de pureza.\n\n3. Serão adoptados, segundo o processo previsto no artigo 11°:\n\na) Os critérios de pureza estabelecidos para os aditivos em questão;\n\nb) Eventualmente, os métodos de análise necessários para verificar o respeito pelos critérios de pureza referidos na alínea a);\n\nc) Eventualmente, o processo de amostragem e os métodos de análise qualitativa e quantitativa dos aditivos alimentares existentes no interior e à superfície dos géneros alimentícios;\n\nd) Outras regras necessárias para assegurar o respeito do disposto no artigo 2°"
+  },
+  "97723008db8f1ee8": {
+   "fragment_id": "Artigo 4°",
+   "type": "artigo",
+   "heading": "Artigo 4°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4°\n\n1. Se na sequência de novas informações ou de uma reanálise das informações existentes, que se produzam após a adopção da presente directiva ou da directiva global prevista no artigo 3° um Estado-membro tiver razões precisas para considerar que a utilização de um aditivo nos géneros alimentícios, embora conforme com a presente directiva ou com qualquer lista elaborada ao abrigo do artigo 3° apresenta riscos para a saúde humana, esse Estado-membro pode provisoriamente suspender ou restringir a aplicação, no seu território, das disposições em questão. Do facto informará imediatamente os outros Estados-membros e a Comissão, indicando os motivos que justificam a sua decisão.\n\n2. A Comissão analisará logo que possível, no âmbito do Comité Permanente dos Géneros Alimentícios, os motivos invocados pelo Estado-membro referido no n° 1, emitindo o seu parecer sem demora e tomando as medidas adequadas.\n\n3. Se a Comissão considerar que são necessárias alterações à presente directiva ou à directiva global prevista no artigo 3° com vista a solucionar os problemas referidos no n° 1 e a garantir a protecção da saúde humana, desencadeará o processo previsto no artigo l1° a fim de adoptar essas alterações; nesse caso, o Estado-membro que tiver tomado medidas de salvaguarda pode matê-las até à adopção das alterações."
+  },
+  "cb9fca1ff5d91d51": {
+   "fragment_id": "Artigo 5°",
+   "type": "artigo",
+   "heading": "Artigo 5°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5°\n\n1. Um Estado-membro pode, a título provisório, a fim de atender à evolução científica e técnica verificada após a adopção de uma lista nos termos do artigo 3°, autorizar o comércio ou a utilização, no seu território, de um aditivo pertencente a uma das categorias enumeradas no Anexo I mas não incluído na lista em causa, desde que sejam respeitadas as seguintes condições:\n\na) A autorização deve limitar-se a um período máximo de dois anos;\n\nb) O Estado-membro exercerá um controlo oficial sobre os géneros alimentícios em que é empregue o aditivo de que foi autorizada a utilização;\n\nc) O Estado-membro pode impor, na autorização, uma indicação especial para os géneros alimentícios assim fabricados.\n\n2. O Estado-membro comunicará aos outros Estados-membros e à Comissão o texto de qualquer decisão de autorização tomada ao abrigo do n° l, num prazo de dois meses a contar da data a partir da qual essa decisão produziu efeito.\n\n3. Antes do termo do prazo de dois anos previsto na alínea a) do n° 1, o Estado-membro pode apresentar à Comissão um pedido de inclusão na lista adoptada ao abrigo do artigo 3° do aditivo que tiver sido objecto de uma autorização nacional nos termos do n° 1 do presente artigo. O Estado-membro em causa apresentará simultaneamente os documentos que lhe pareçam justificar essa inclusão e indicará as utilizações a que o aditivo se destina. Se a Comissão considerar o pedido justificado, desencadeará o processo previsto no artigo 100° A do Tratado com vista à alteração da lista adoptada ao abrigo do artigo 3° O Conselho deliberará sobre a proposta da Comissão num prazo de dezoito meses a contar da data em que o assunto lhe foi submetido.\n\n4. Se, no prazo de dois anos previsto no n° l, a Comissão não apresentar uma proposta nos termos do n° 3 ou se o Conselho não deliberar no prazo de dezoito meses previsto nesse mesmo número, a autorização nacional deve ser anulada. Qualquer autorização dada por um outro Estado-membro para o mesmo aditivo deve, simultaneamente, ser anulada.\n\n5. Só pode ser concedida uma nova autorização nacional para o mesmo aditivo se a evolução científica ou técnica que se tenha verificado após a anulação prevista no n° 4 o justificar."
+  },
+  "debccd32af88cb43": {
+   "fragment_id": "Artigo 6°",
+   "type": "artigo",
+   "heading": "Artigo 6°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6°\n\nAs disposições susceptíveis de ter incidência sobre a saúde pública serão adoptadas após consulta do Comité Científico da Alimentação Humana."
+  },
+  "d81b5907ed8cf41d": {
+   "fragment_id": "Artigo 7°",
+   "type": "artigo",
+   "heading": "Artigo 7°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7°\n\n1. Os aditivos alimentares não destinados à venda ao consumidor final apenas podem ser comercializadas se as suas embalagens ou recipientes exibirem as indicações seguintes, em caracteres bem visíveis, claramente legíveis e indeléveis:\n\na) - quando os aditivos alimentares sejam vendidos individualmente ou misturados entre si, o nome de cada aditivo previsto pelas disposições comunitárias aplicáveis e o número CEE ou, na falta de tais disposições, uma descrição do aditivo suficientemente precisa, permitindo distingui-lo dos aditivos com os quais possa ser confundido, por ordem decrescente de importância ponderal em relação ao total,\n\n- no caso de serem incorporadas nos aditivos outras substâncias, matérias ou ingredientes alimentares para facilitar a armazenagem, a venda, a normalização, a diluição ou a dissolução de um ou mais aditivos alimentares, o nome do aditivo, nos termos do primeiro travessão, bem como a indicação de cada componente, por ordem decrescente de importância ponderal em relação ao total;\n\nb) - quer a menção «para utilização em géneros alimentícios»,\n\n- quer a menção «para géneros alimentícios, utilização limitada»,\n\n- quer ainda uma indicação mais específica quanto à utilização alimentar a que o aditivo se destina;\n\nc) Eventualmente, as condições especiais de conservação e de utilização;\n\nd) Instruções de utilização, no caso de a sua omissão não permitir o uso adequado do aditivo;\n\ne) Uma indicação que permita identificar o lote;\n\nf) O nome ou a firma e o endereço do fabricante ou do acondicionador ou de um vendedor estabelecido na Comunidade;\n\ng) A indicação da percentagem de qualquer componente cuja incorporação em alimentos esteja sujeita a uma limitação quantitativa ou qualquer informação adequada relativa à composição que permita ao comprador dar cumprimento a qualquer disposição comunitária ou, na sua falta, às disposições nacionais aplicáveis ao alimento. No caso de a mesma limitação quarttitativa se aplicar a um grupo de componentes utilizados separadamente ou em combinação, a percentagem combinada pode ser indicada por um único valor;\n\nh) A quantidade líquida;\n\ni) Outra indicação prescrita na directiva global referida no artigo 3°\n\n2. Em derrogação do n° 1, as menções previstas no segundo travessão da alínea a) e nas alíneas d) e g) desse mesmo número, podem constar apenas dos documentos comerciais relativos ao lote a apresentar no acto de entrega ou antes dela, desde que a menção «para fabrico de géneros alimentícios e não para venda a retalho» figure, em lugar bem visível, na embalagem ou no recipiente do produto em questão."
+  },
+  "ec691858318912e1": {
+   "fragment_id": "Artigo 8°",
+   "type": "artigo",
+   "heading": "Artigo 8°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8°\n\nOs aditivos alimentares destinados à venda ao consumidor final apenas podem ser comercializados se as respectivas embalagens ou recipientes exibirem as seguintes indicações, em caracteres bem visíveis, claramente legíveis e indeléveis:\n\na) A denominação de venda do produto. Essa denominação é constituída pelo nome previsto pelas disposições comunitárias aplicáveis ao produto em questão e pelo seu múmero CEE ou, na falta de tais disposições, por uma descrição do produto suficientemente precisa para permitir distingui-lo dos produtos com os quais possa ser confundido;\n\nb) As informações exigidas pelo n° 1, alíneas a) a f) e h), do artigo 7°;\n\nc) A data de durabilidade mínima, na acepção do artigo 9° da Directiva 79/112/CEE [7];\n\n[7] JO n° L 33 de 8. 2. 1979, p. 1.\n\nd) Qualquer outra indicação prescrita na directiva global referida no artigo 3°"
+  },
+  "258c77465feec310": {
+   "fragment_id": "Artigo 9°",
+   "type": "artigo",
+   "heading": "Artigo 9°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9°\n\nOs artigos 7° e 8° não afectam as disposições legislativas, regulamentares ou administrativas mais pormenorizadas ou mais extensas relativas à metrologia ou à apresentação, classificação, embalagem e rotulagem de substâncias e preparados perigosos ou ao transporte de tais substâncias."
+  },
+  "703933d5414f60e5": {
+   "fragment_id": "Artigo 10°",
+   "type": "artigo",
+   "heading": "Artigo 10°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10°\n\nOs Estados-membros abster-se-ão de fixar condições mais pormenorizadas do que as previstas nos artigos 7° e 8° no que respeita às modalidades segundo as quais as menções prescritas devem ser indicadas. As menções previstas nos artigos 7° e 8° devem ser indicadas numa língua facilmente compreensível para os compradores, excepto se a informação destes últimos for assegurada por outras medidas. A presente disposição não impede que as referidas menções sejam indicadas em várias línguas."
+  },
+  "7d9210002cdc9e7b": {
+   "fragment_id": "Artigo 11°",
+   "type": "artigo",
+   "heading": "Artigo 11°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11°\n\n1. Quando seja feita referência ao processo definido no presente artigo, o Comité Permanente dos Géneros Alimentícios será convocado pelo seu presidente, quer Por sua própria iniciativa quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão apresentará ao Comité um projecto de medidas a tomar. O Comité emitirá o seu parecer sobre esse projecto, num prazo a fixar pelo presidente em função da urgência da questão. O Comité pronuncia-se pela maioria qualificada prevista no n° 2 do artigo 148° do Tratado. O presidente não participa na votação.\n\n3. a) A Comissão adoptará as medidas previstas, desde que estejam em conformidade com o parecer do Comité.\n\nb) Quando as medidas previstas não estejam em conformidade com o parecer do Comité, ou na falta de parecer, a Comissão apresentará sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada. Se, decorrido um prazo de três meses a contar da data em que o assunto lhe foi apresentado, o Conselho não tiver adoptado medidas, a Comissão adoptará as medidas propostas."
+  },
+  "668c7606e47ccde2": {
+   "fragment_id": "Artigo 12°",
+   "type": "artigo",
+   "heading": "Artigo 12°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12°\n\n1. Os Estados-membros tomarão todas as medidas necessárias para garantir que os aditivos alimentares incluídos nas categorias enumeradas no Anexo I apenas sejam comercializados se estiverem em conformidade com as disposições da presente directiva e dos seus anexos.\n\n2. Os Estados-membros não podem proibir, restringir ou entravar a comercialização de aditivos alimentares, ou de alimentos ou ingredientes por razões relacionadas com os aditivos alimentares, se estes estiverem conformes com o disposto na presente directiva, nas directivas específicas em vigor e na directiva global prevista no artigo 3°\n\n3. O n° 2 não prejudica as disposições nacionais aplicáveis se a directiva global prevista no artigo 3° não contiver disposições correspondentes."
+  },
+  "73ab0bc00f9b629e": {
+   "fragment_id": "Artigo 13°",
+   "type": "artigo",
+   "heading": "Artigo 13°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13°\n\nAs medidas destinadas a alinhar as directivas comunitárias existentes pela presente directiva serão adoptadas de acordo com o processo previsto no artigo 11°"
+  },
+  "0212915a975db2b6": {
+   "fragment_id": "Artigo 14°",
+   "type": "artigo",
+   "heading": "Artigo 14°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14°\n\n1. Os Estados-membros tomarão todas as medidas necessárias para dar cumprimento à presente directiva no prazo de dezoito meses a contar da sua notificação. Do facto informarão imediatamente a Comissão. As medidas a tomar devem:\n\n- autorizar, o mais tardar dois anos após a notificação [8] da presente directiva, a comercialização e a utilização dos aditivos alimentares conformes com as disposições da presente directiva,\n\n[8] A presente directiva foi notificada aos Estados-membros em 28 de Dezembro de 1988.\n\n- proibir, o mais tardar três anos após a notificação da presente directiva, a comercialização e a utilização de aditivos alimentares não conformes com as disposições da presente directiva.\n\n2. O n° 1 nao afecta as disposições comunitárias existentes nem as disposições nacionais que, na falta da directiva global prevista no artigo 3°, regem certos grupos de aditivos alimentares ou determinam os géneros alimentícios para os quais podem ser empregues, à superfície ou no seu interior, os aditivos alimentares conformes com as disposições da presente directiva."
+  },
+  "8aabb2af41c67101": {
+   "fragment_id": "Artigo 15°",
+   "type": "artigo",
+   "heading": "Artigo 15°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15°\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 21 de Dezembro de 1988.\n\nPelo Conselho\n\nO Presidente\n\nV. PAPANDREOU"
+  },
+  "88f9a95fe8524df5": {
+   "fragment_id": "ANEXO I — Categorias de aditivos alimentares",
+   "type": "divisao",
+   "heading": "ANEXO I — Categorias de aditivos alimentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Categorias de aditivos alimentares\n\nCorante\n\nConservante\n\nAntioxidante\n\nEmulsionante\n\nSais de fusão\n\nEspessante\n\nGelificante\n\nEstabilizador [9]\n\n[9] Considera-se que esta categoria inclui também os estabilizadores de espuma.\n\nIntensificador de sabor\n\nAcidificante\n\nRegulador de acidez [10]\n\n[10] Esclarece-se que estes agentes podem provocar correcções de acidez nos dois sentidos.\n\nAntiaglomerante\n\nAmido modificado\n\nEdulcorance\n\nLevedante químico\n\nAntiespuma\n\nAgente de revestimento [11]\n\n[11] Estas substâncias incluem também os agentes de deslizamento.\n\nAgente de tratamento da farinha\n\nAgente de endurecimento\n\nHumidificante\n\nSequestrante [12]\n\n[12] A inclusão destes termos na presente lista não obsta a uma eventual decisão quanto à respectiva menção na etiquetagem dos géneros alimentícios destinados ao consumidor final.\n\nEnzima [13] [14]\n\n[13] A inclusão destes termos na presente lista não obsta a uma eventual decisão quanto à respectiva menção na etiquetagem dos géneros alimentícios destinados ao consumidor final.\n\n[14] Trata-se apenas dos enzimas utilizados como aditivos.\n\nAgente de volume\n\nGás propulsor e gás de embalagem."
+  },
+  "1ed74ba48b65cca6": {
+   "fragment_id": "ANEXO II — Critérios gerais para a utilização de aditivos alimentares",
+   "type": "divisao",
+   "heading": "ANEXO II — Critérios gerais para a utilização de aditivos alimentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Critérios gerais para a utilização de aditivos alimentares\n\n1. Os aditivos alimentares só podem ser aprovados quando:\n\n- se puder demonstrar a existência de uma necessidade tecnológica suficiente e o objectivo pretendido não puder ser alcançado por outros métodos económica e tecnologicamente exequíveis,\n\n- não apresentarem, nas doses propostas, qualquer perigo para a saúde do consumidor, na medida em que os dados científicos disponíveis permitam formular uma opinião a esse respeito,\n\n- a sua utilização não induzir o consumidor em erro.\n\n2. Só se poderá encarar a utilização de um aditivo alimentar se se provar que a utilização proposta do aditivo traz ao consumidor vantagens demonstráveis; por outras Palavras, há que comprovar o que habitualmente se designa por uma «necessidade». A utilização de aditivos alimentares deve ser feita em função dos objectivos indicados nas alíneas a) a d) e unicamente quando esses objectivos não puderem ser alcançados por outros métodos económica e praticamente exequíveis e não apresentarem qualquer perigo para a saúde do consumidor:\n\na) Conservar a qualidade nutritiva dos alimentos; uma diminuição deliberada da qualidade nutritiva de um alimento só será justificada se o alimento não constituir um elemento importante de um regime normal ou se o aditivo for necessário para a produção de alimentos destinados a grupos de consumidores que tenham necessidades nutritivas especiais;\n\nb) Fornecer os ingredientes ou os componentes necessários a produtos alimentares fabricados com vista a grupos de consumidores que tenham necessidades nutritivas especiais;\n\nc) Aumentar a conservação ou a estabilidade de um alimento ou melhorar as suas propriedades organolépticas, desde que não altere a natureza, a essência ou a qualidade do alimento de modo susceptível de induzir o consumidor em erro;\n\nd) Ajudar o fabrico, a transformação, a preparação, o tratamento, o acondicionamento, o transporte ou a armazenagem dos alimentos, desde que o aditivo não seja utilizado para dissimular os efeitos da utilização de matérias-primas defeituosas ou de métodos indesejáveis (incluindo anti-higiénicos) durante qualquer uma daquelas operações.\n\n3. A fim de se determinarem os eventuais efeitos nocivos de um aditivo alimentar ou dos seus derivados, o aditivo deve ser submetido a ensaios e a uma avaliação de toxicidade adequados. Essa avaliação deve igualmente ter em conta, por exemplo, qualquer efeito cumulativo, sinérgico ou de potencialização decorrente da sua utilização, bem como o fenómeno da intolerância humana às substâncias estranhas ao organismo.\n\n4. Todos os aditivos alimentares devem ser mantidos sob observação permanente e ser novamente avaliados sempre que for necessário, tendo em conta as variações das condições de utilização e quaisquer novos dados científicos.\n\n5. Os aditivos alimentares devem estar sempre em conformidade com os critérios de pureza aprovados.\n\n6. A aprovação dos aditivos alimentares deve:\n\na) Especificar os géneros alimentícios a que esses aditivos podem ser adicionados e as condições dessa adição;\n\nb) Limitar-se à dose mínima estritamente necessária para se alcançar o efeito desejado;\n\nc) Ter em conta qualquer dose diária admissível, ou dada como equivalente, estabelecida para o aditivo alimentar e a quantidade diária provável desse aditivo em todos os produtos alimentares. No caso de o aditivo alimentar se destinar a ser utilizado em géneros consumidos por grupos especiais de consumidores, há que ter em conta a dose diária possível desse aditivo para esse tipo de consumidores."
+  },
+  "75cbc86cace6777f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1989L0107 — PT — 20.01.2010 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31989L0107) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31989L0107) [de 21 de Dezembro de 1988](http://publications.europa.eu/resource/celex/31989L0107) [relativa à aproximação das legislações dos Estados-membros respeitantes aos aditivos que podem ser utilizados nos géneros destinados à alimentação humana](http://publications.europa.eu/resource/celex/31989L0107) [(89/107/CEE)](http://publications.europa.eu/resource/celex/31989L0107) (JO L 040, 11.2.1989, p.27)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1333/2008 do Parlamento Europeu e do Conselho de 16 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008R1333) — L 354 — 16 — 31.12.2008"
+  }
+ }
+}

@@ -34,6 +34,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2007-498.versoes.json
+  count: 1
+  source_lastmod: '2011-01-12'
+  versions:
+  - date: '2007-05-10'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32007R0498
   eli: http://data.europa.eu/eli/reg/2007/498/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018
   content_url: http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:52:28Z'
+  retrieved_at: '2026-10-22T15:08:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T01:29:26.869+01:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:28Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:08:29Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2007-498.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -214,21 +223,21 @@ relationships:
   date: '2001-02-27'
 article_structure:
   article_count: 70
-  section_count: 36
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 37
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:28Z'
+  checked_at: '2026-10-22T15:08:29Z'
   warnings:
-  - 'Versão consolidada 02007R0498-20110112 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02007R0498-20070530: versão indisponível (Sem expressão na língua por para CELEX 02007R0498-20070530.)'
+  - '02007R0498-20110112: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO (CE) N.º 498/2007 DA COMISSÃO
+# Regulamento (CE) n. o 498/2007 da Comissão, de 26 de Março de 2007
 
 de 26 de Março de 2007
 

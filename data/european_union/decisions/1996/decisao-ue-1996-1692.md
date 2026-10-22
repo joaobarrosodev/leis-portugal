@@ -35,6 +35,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-08-25'
+version_history:
+  file: decisao-ue-1996-1692.versoes.json
+  count: 2
+  source_lastmod: '2010-08-25'
+  versions:
+  - date: '1996-09-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-08-25'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime SECÇÃO 1 PRINCÍPIOS GERAIS — Artigo 1º Objecto
+    - Suprime SECÇÃO 2 REDE RODOVIÁRIA — Artigo 9º Características
+    - Suprime SECÇÃO 3 REDE FERROVIÁRIA — Artigo 10º Características
+    - Suprime SECÇÃO 4 REDE DE VIAS NAVEGÁVEIS E PORTOS DE NAVEGAÇÃO INTERIOR — Artigo 11º Características
+    - Suprime SECÇÃO 5 PORTOS MARÍTIMOS — Artigo 12º Características
+    - Suprime SECÇÃO 6 AEROPORTOS — Artigo 13º Características
+    - Suprime SECÇÃO 7 REDE DE TRANSPORTE COMBINADO — Artigo 14º Características
+    - Suprime SECÇÃO 8 REDE DE GESTÃO E DE INFORMAÇÃO DO TRÁFEGO MARÍTIMO — Artigo 15º Características
+    - Suprime SECÇÃO 9 REDE DE GESTÃO DO TRÁFEGO AÉREO — Artigo 16º Características
+    - Suprime SECÇÃO 10 REDE DE DETERMINAÇÃO DA POSIÇÃO E DE NAVEGAÇÃO — Artigo 17º Características
+    - Suprime SECÇÃO 11 DISPOSIÇÕES COMUNS — Artigo 18º Comité para a troca de informações e relatório
+    - Suprime Artigo 23º
+    - Suprime Artigo 24º
+    - Suprime ANEXO I — PLANOS DAS REDES ILUSTRADOS COM MAPAS (1*)
+    - 'Suprime Secção 2: Rede rodoviária'
+    - 'Suprime Secção 3: Rede ferroviária'
+    - 'Suprime Secção 4: Rede de vias navegáveis'
+    - 'Suprime Secção 5: Portos marítimos'
+    - 'Suprime Secção 6: Aeroportos'
+    - 'Suprime Secção 7: Rede de transporte combinado'
+    - Suprime SECÇÃO 2 REDE RODOVIÁRIA — >REFERÊNCIA A UMA IMAGEN>
+    - Suprime SECÇÃO 3 REDE FERROVIÁRIA — >REFERÊNCIA A UMA IMAGEN>
+    - Suprime SECÇÃO 4 REDE DE VIAS NAVEGÁVEIS — >REFERÊNCIA A UMA IMAGEN>
+    - Suprime SECÇÃO 6 AEROPORTOS — >REFERÊNCIA A UMA IMAGEN>
+    - Suprime SECÇÃO 7 REDE DE TRANSPORTE COMBINADO — >REFERÊNCIA A UMA IMAGEN>
+    - Suprime ANEXO II — CRITÉRIOS E ESPECIFICAÇÕES DOS PROJECTOS DE INTERESSE COMUM (1)
+    - 'Suprime Secção 2: Rede rodoviária — Secção 3: Rede ferroviária'
+    - 'Suprime Secção 4: Rede de vias navegáveis e portos de navegação interior — Secção 5: Portos marítimos'
+    - 'Suprime Secção 6: Aeroportos — Secção 7: Rede de transporte combinado'
+    - 'Suprime Secção 8: Rede de gestão e de informação do tráfego marítimo — Secção 9: Rede de gestão do tráfego aéreo'
+    - 'Suprime Secção 10: Rede de determinação da posição e de navegação — Secção 2 Rede rodoviária'
+    - Suprime Secção 3 Rede ferroviária
+    - Suprime Secção 4 Rede de vias navegáveis e portos de navegação interior — Portos de navegação interior
+    - Suprime Secção 5 Portos marítimos
+    - Suprime Secção 6 Aeroportos — I. Critérios de selecção dos aeroportos de interesse comum
+    - Suprime Secção 7 Rede de transporte combinado
+    - Suprime Secção 8 Rede de gestão e de informação do tráfego marítimo
+    - Suprime Secção 9 Rede de gestão do tráfego aéreo
+    - Suprime Secção 10 Rede de determinação da posição e de navegação
 identifiers:
   celex: 31996D1692
   eli: http://data.europa.eu/eli/dec/1996/1692/oj
@@ -49,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f34131d1-aae6-4421-8394-c1cd130a4ed5.0009
   content_url: http://publications.europa.eu/resource/cellar/c48761e1-7ed0-4783-b30c-b1ae5960f5d4.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996D1692-20100825
-  retrieved_at: '2026-10-22T02:39:28Z'
+  retrieved_at: '2026-10-22T14:44:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2017-05-15T14:16:33.172+02:00'
 integrity:
@@ -58,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:28Z'
-  notes: Texto consolidado 01996D1692-20100825.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:44:49Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-1996-1692.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -176,16 +229,19 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:28Z'
+  checked_at: '2026-10-22T14:44:49Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01996D1692-19960910: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996D1692-20010709: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996D1692-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996D1692-20040520: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01996D1692-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

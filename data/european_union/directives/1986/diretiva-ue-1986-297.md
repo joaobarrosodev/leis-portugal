@@ -34,6 +34,64 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-10-29'
+version_history:
+  file: diretiva-ue-1986-297.versoes.json
+  count: 3
+  source_lastmod: '2012-10-29'
+  versions:
+  - date: '1986-07-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-09-29'
+    amending: eu:celex:31997L0054:por
+    amending_title: M1; DIRECTIVA 2010/62/UE DA COMISSÃO Texto relevante para efeitos do EEE de 8 de Setembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Disposições gerais e requisitos aplicáveis às tomada de força
+    - Adita 1. Definição e âmbito de aplicação
+    - Adita 2. Pedido de homologação CE
+    - Adita 3. Certificado de homologação CE
+    - Adita 4. Disposições gerais
+    - Adita 4.1 Disposições aplicáveis a tomadas de força à retaguarda
+    - Adita 4.2. Disposições aplicáveis a tomadas de força dianteiras
+    - Adita ANEXO II
+    - Adita Parte I
+    - Adita FICHA DE INFORMAÇÕES N.º […]
+    - Adita nos termos do anexo I da Directiva 2003/37/CE relativa à homologação CE de um tractor no que diz respeito à tomada
+      de força dos tractores
+    - Adita 0. GENERALIDADES
+    - Adita Parte II
+    - Adita DOCUMENTAÇÃO DE HOMOLOGAÇÃO
+    - Adita MODELO
+    - 'Adita [Formato máximo: A4 (210 × 297 mm)]'
+    - Adita Notas
+    - Suprime Artigo 1g.
+    - Suprime Artigo 2g.
+    - Suprime Artigo 3g.
+    - Suprime Artigo 4g.
+    - Suprime Artigo 5g.
+    - Suprime Artigo 6g. — Os Estados-membros são destinatários da presente direc-
+    - Suprime ANEXO II — MODELO
+  - date: '2012-10-29'
+    amending: eu:celex:32012L0024:por
+    amending_title: DIRETIVA 2012/24/UE DA COMISSÃO Texto relevante para efeitos do EEE de 8 de outubro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera 4.1 Disposições aplicáveis a tomadas de força à retaguarda
+    - Altera 0. GENERALIDADES
+    - 'Altera [Formato máximo: A4 (210 × 297 mm)]'
+    - Altera Notas
+    - Adita 4.2 Disposições relativas às tomadas de força dianteiras
+    - Suprime 4.2. Disposições aplicáveis a tomadas de força dianteiras
 identifiers:
   celex: 31986L0297
   eli: http://data.europa.eu/eli/dir/1986/297/oj
@@ -48,7 +106,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cbb44860-7905-46bf-9c9c-f600048742bb.0011
   content_url: http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01986L0297-20121029
-  retrieved_at: '2026-10-22T02:54:56Z'
+  retrieved_at: '2026-10-22T14:34:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T22:42:44.274+01:00'
 integrity:
@@ -57,9 +115,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:54:56Z'
-  notes: Texto consolidado 01986L0297-20121029.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:42Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1986-297.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -119,31 +177,20 @@ relationships:
   date: '2013-03-01'
 article_structure:
   article_count: 6
-  section_count: 17
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 18
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:54:56Z'
-  warnings: []
+  checked_at: '2026-10-22T14:34:42Z'
+  warnings:
+  - '01986L0297-19971030: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 86/297/CEE do Conselho de 26 de Maio de 1986
-
-> 1986L0297 — PT — 29.10.2012 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/31997L0054) — [DIRECTIVA 97/54/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de Setembro de 1997](http://publications.europa.eu/resource/celex/31997L0054) — L 277 — 24 — 10.10.1997
-- [►M2](http://publications.europa.eu/resource/celex/32010L0062) — [DIRECTIVA 2010/62/UE DA COMISSÃO Texto relevante para efeitos do EEE de 8 de Setembro de 2010](http://publications.europa.eu/resource/celex/32010L0062) — L 238 — 7 — 9.9.2010
-- [►M3](http://publications.europa.eu/resource/celex/32012L0024) — [DIRETIVA 2012/24/UE DA COMISSÃO Texto relevante para efeitos do EEE de 8 de outubro de 2012](http://publications.europa.eu/resource/celex/32012L0024) — L 274 — 24 — 9.10.2012
-
-## DIRECTIVA DO CONSELHO
 
 de 26 de Maio de 1986
 

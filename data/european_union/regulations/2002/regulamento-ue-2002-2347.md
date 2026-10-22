@@ -35,6 +35,66 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-01-12'
+version_history:
+  file: regulamento-ue-2002-2347.versoes.json
+  count: 4
+  source_lastmod: '2017-01-12'
+  versions:
+  - date: '2002-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-01'
+    amending: eu:celex:32004R2269:por
+    amending_title: REGULAMENTO (CE) N. o 2269/2004 DO CONSELHO de 20 de Dezembro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Limitação do esforço de pesca
+    - Altera Artigo 6.º — Sistema de localização dos navios
+    - Altera Artigo 12.º — Entrada em vigor
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita Informações relativas às características das artes de pesca e às operações de pesca referidas no artigo 5.º
+    - Adita Notas
+    - Suprime ANEXO I — Listas das espécies de profundidade
+    - Suprime ANEXO II — Lista suplementar
+    - Suprime ANEXO III — Informações relativas às características das artes de pesca e às operações de pesca referidas no
+      artigo 5.o
+  - date: '2015-06-01'
+    amending: eu:celex:32015R0812:por
+    amending_title: REGULAMENTO (UE) 2015/812 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Autorização de pesca de profundidade
+    - Altera Artigo 5.º — Comunicação das características das artes de pesca e das operações de pesca
+    - Altera Artigo 6.º — Sistema de localização dos navios
+    - Altera Notas
+  - date: '2017-01-12'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Autorização de pesca de profundidade
+    - Suprime Artigo 4.º — Limitação do esforço de pesca
+    - Suprime Artigo 5.º — Comunicação das características das artes de pesca e das operações de pesca
+    - Suprime Artigo 6.º — Sistema de localização dos navios
+    - Suprime Artigo 7.º — Portos designados
+    - Suprime Artigo 8.º — Observadores
+    - Suprime Artigo 9.º — Informações
+    - Suprime Artigo 10.º — Seguimento
+    - Suprime Artigo 11.º — Comité
+    - Suprime Artigo 12.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime ANEXO II
+    - Suprime ANEXO III
+    - Suprime Informações relativas às características das artes de pesca e às operações de pesca referidas no artigo 5.º
+    - Suprime Notas
 identifiers:
   celex: 32002R2347
   eli: http://data.europa.eu/eli/reg/2002/2347/oj
@@ -49,7 +109,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/17a547f9-ed4d-48ea-945c-2b845de83719.0010
   content_url: http://publications.europa.eu/resource/cellar/9efd05bf-857e-4be4-8d56-cbbcaa609295.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R2347-20170112
-  retrieved_at: '2026-10-22T02:41:21Z'
+  retrieved_at: '2026-10-22T14:53:50Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-04T17:12:10.214+02:00'
 integrity:
@@ -58,9 +118,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:21Z'
-  notes: Texto consolidado 02002R2347-20170112.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:53:50Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2002-2347.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -153,16 +213,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:21Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:53:50Z'
+  warnings: []
   errors: []
 ---
 

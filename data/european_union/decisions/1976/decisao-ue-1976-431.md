@@ -34,6 +34,50 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-01'
+version_history:
+  file: decisao-ue-1976-431.versoes.json
+  count: 2
+  source_lastmod: '2007-01-01'
+  versions:
+  - date: '1976-05-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1792:por
+    amending_title: REGULAMENTO (CE) N. o 1792/2006 DA COMISSÃO de 23 de Outubro de 2006; Acto de Adesão da Grécia; A2; Acto
+      relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da
+      Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República
+      da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
 identifiers:
   celex: 31976D0431
   eli: http://data.europa.eu/eli/dec/1976/431/oj
@@ -48,7 +92,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/008caecb-691e-4e46-b0fd-68a80950de97.0011
   content_url: http://publications.europa.eu/resource/cellar/ac968d34-8893-4b26-99fb-2a829b99ae49.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976D0431-20070101
-  retrieved_at: '2026-10-22T03:02:38Z'
+  retrieved_at: '2026-10-22T14:31:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-18T08:45:30.136+01:00'
 integrity:
@@ -57,9 +101,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:02:38Z'
-  notes: Texto consolidado 01976D0431-20070101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:31:29Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-1976-431.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -110,35 +154,22 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/f6ff7168-0e51-48b2-824e-efdda9f3b731
 article_structure:
   article_count: 13
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:02:38Z'
-  warnings: []
+  checked_at: '2026-10-22T14:31:29Z'
+  warnings:
+  - '01976D0431-19810101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976D0431-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01976D0431-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # 76/431/CEE: Decisão da Comissão, de 21 de Abril de 1976
-
-> 1976D0431 — PT — 01.01.2007 — 004.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006R1792) — [REGULAMENTO (CE) N.º 1792/2006 DA COMISSÃO de 23 de Outubro de 2006](http://publications.europa.eu/resource/celex/32006R1792) — L 362 — 1 — 20.12.2006
-
-**Alterado por:**
-
-- [A1](http://publications.europa.eu/resource/celex/11979H) — [Acto de Adesão da Grécia](http://publications.europa.eu/resource/celex/11979H) — L 291 — 17 — 19.11.1979
-- [A2](http://publications.europa.eu/resource/celex/11985I) — L 302 — 23 — 15.11.1985
-- [A3](http://publications.europa.eu/resource/celex/12003T) — [Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T) — L 236 — 33 — 23.9.2003
-
-## DECISÃO DA COMISSÃO
 
 de 21 de Abril de 1976
 

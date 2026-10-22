@@ -34,6 +34,35 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-06-26'
+version_history:
+  file: regulamento-ue-2004-2252.versoes.json
+  count: 2
+  source_lastmod: '2009-06-26'
+  versions:
+  - date: '2004-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-06-26'
+    amending: eu:celex:32009R0444:por
+    amending_title: REGULAMENTO (CE) N. o 444/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de Maio de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Notas
+    - Adita Artigo 1.ºA
+    - Adita Artigo 5.ºA
+    - Adita ANEXO
+    - Adita NORMAS MÍNIMAS DE SEGURANÇA DOS PASSAPORTES E DOCUMENTOS DE VIAGEM EMITIDOS PELOS ESTADOS-MEMBROS
+    - Adita Introdução
+    - Adita 1. Material
+    - Adita 2. Página de dados pessoais
+    - Adita 3. Técnicas de impressão
+    - Adita 4. Protecção contra a cópia
+    - Adita 5. Técnica de emissão
 identifiers:
   celex: 32004R2252
   eli: http://data.europa.eu/eli/reg/2004/2252/oj
@@ -48,7 +77,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8b71a06f-e689-498b-85ea-02343f320d25.0016
   content_url: http://publications.europa.eu/resource/cellar/6960723e-8211-484c-bc88-e5965a2c945c.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R2252-20090626
-  retrieved_at: '2026-10-22T02:37:41Z'
+  retrieved_at: '2026-10-22T14:59:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-06-04T03:52:14.556+02:00'
 integrity:
@@ -57,9 +86,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:41Z'
-  notes: Texto consolidado 02004R2252-20090626.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:05Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2004-2252.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -198,29 +227,20 @@ relationships:
   date: '2015-04-16'
 article_structure:
   article_count: 8
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:41Z'
-  warnings: []
+  checked_at: '2026-10-22T14:59:05Z'
+  warnings:
+  - '02004R2252-20050118: versão indisponível (Sem expressão na língua por para CELEX 02004R2252-20050118.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 2252/2004 do Conselho, de 13 de Dezembro de 2004
-
-> 2004R2252 — PT — 26.06.2009 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0444) — [REGULAMENTO (CE) N.º 444/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de Maio de 2009](http://publications.europa.eu/resource/celex/32009R0444) — L 142 — 1 — 6.6.2009
-
-## REGULAMENTO (CE) N.º 2252/2004 DO CONSELHO
 
 de 13 de Dezembro de 2004
 

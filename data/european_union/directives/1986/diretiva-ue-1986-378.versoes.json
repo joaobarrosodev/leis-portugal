@@ -1,0 +1,169 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31986L0378:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01986L0378-20060815",
+ "dre_path": null,
+ "source_lastmod": "2006-08-15",
+ "versions": [
+  {
+   "date": "1986-08-12",
+   "future": false,
+   "celex": "31986L0378",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "347177711ff9189a",
+    "882c36025dab5c16",
+    "46b11069648a80da",
+    "cf9dfc7167ce1833",
+    "05bc82406bba0417",
+    "da46d83be04938a6",
+    "0078390cff255efc",
+    "100e480ee3f88cb2",
+    "3d8beaaebc7f8833",
+    "ff99b34f736a71ff",
+    "98d005af491766d1",
+    "896f00d01e8895eb",
+    "6094954a953969be"
+   ]
+  },
+  {
+   "date": "2006-08-15",
+   "future": false,
+   "celex": "01986L0378-20060815",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º"
+   ],
+   "fragments": [
+    "737c362280a53d9e"
+   ]
+  }
+ ],
+ "fragments": {
+  "347177711ff9189a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 86/378/CEE do Conselho de 24 de Julho de 1986 relativa à aplicação do princípio da igualdade de tratamento entre homens e mulheres aos regimes profissionais de segurança social** *Jornal Oficial nº L 225 de 12/08/1986 p. 0040 - 0042 Edição especial finlandesa: Capítulo 5 Fascículo 4 p. 0083 Edição especial sueca: Capítulo 5 Fascículo 4 p. 0083*\n\n*****\n\nDIRECTIVA DO CONSELHO\n\nde 24 de Julho de 1986\n\nrelativa à aplicação do princípio da igualdade de tratamento entre homens e mulheres aos regimes profissionais de segurança social\n\n(86/378/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100º e 235º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que, nos termos do Tratado, cada Estado-membro assegura a aplicação do princípio da igualdade de remuneração entre os trabalhadores de sexo masculino e os trabalhadores de sexo feminino por um mesmo trabalho; que por remuneração deve entender-se o salário ou vencimento normal de base ou mínimo e todos os outros benefícios, directa ou indirectamente pagos, em dinheiro ou em espécie, pela entidade patronal ao trabalhador, em função do seu trabalho;\n\nConsiderando que, se é verdade que o princípio da igualdade das remunerações se aplica directamente nos casos em que as descriminações possam ser verificadas exclusivamente mediante critérios de igualdade de tratamento e de remuneração, existem também casos em que a aplicação deste princípio supõe a adopção de medidas complementares que explicitem o seu alcance;\n\nConsiderando que o nº 2 do artigo 1º da Directiva 76/207/CEE do Conselho, de 9 de Fevereiro de 1976, relativa à concretização do princípio da igualdade de tratamento entre homens e mulheres no que se refere ao acesso ao emprego, à formação e promoção profissionais e às condições de trabalho (4), prevê que o Conselho, tendo em vista assegurar a aplicação progressiva do princípio da igualdade de tratamento em matéria de segurança social, adoptará, sob proposta da Comissão, disposições que especifiquem, nomeadamente, o seu conteúdo, alcance e modalidade de aplicação; que, para o efeito, o Conselho adoptou a Directiva 79/7/CEE, de 19 de Dezembro de 1978, relativa à realização progressiva do princípio da igualdade de tratamento entre homens e mulheres em matéria de segurança social (5);\n\nConsiderando que o nº 3 do artigo 3º da Directiva 79/7/CEE prevê que, tendo em vista assegurar a realização do princípio da igualdade de tratamento nos regimes profissionais, o Conselho, sob proposta da Comissão, venha a adoptar disposições que especifiquem o seu conteúdo, alcance e modalidades de aplicação desse princípio;\n\nConsiderando que convém aplicar o princípio da igualdade de tratamento nos regimes profissionais de segurança social que assegurem uma protecção contra os riscos previstos no nº 1 do artigo 3º da Directiva 79/7/CEE, bem como nos que prevêem, para os assalariados, quaisquer outros benefícios, em dinheiro ou em espécie, na acepção do Tratado;\n\nConsiderando que a concretização do princípio da igualdade de tratamento não prejudica as disposições relativas à protecção da mulher em função da maternidade,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "882c36025dab5c16": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA presente directiva tem por objectivo a realização, nos regimes profissionais de segurança social, do princípio da igualdade de tratamento entre homens e mulheres, a seguir denominado « princípio da igualdade de tratamento »."
+  },
+  "46b11069648a80da": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Consideram-se regimes profissionais de segurança social os regimes não regidos pela Directiva 79/7/CEE que tenham por objectivo proporcionar aos trabalhadores, assalariados ou independentes, agrupados no quadro de uma empresa ou de um agrupamento de empresas, de um ramo de actividade económica ou de um sector profissional ou interprofissional, prestações destinadas a completar as prestações dos regimes legais de segurança social ou a substituir estas últimas, quer a inscrição nesses regimes seja obrigatória, quer facultativa.\n\n2. A presente directiva não se aplica:\n\na) Aos contratos individuais;\n\nb) Aos regimes constituídos por um só membro;\n\nc) No caso de trabalhadores assalariados, aos contratos de seguro de que a entidade patronal não seja parte;\n\nd) As disposições facultativas dos regimes profissionais que sejam individualmente abertas aos beneficiários no intuito de lhes garantir:\n\n- quer a concessão de prestações complementares,\n\n- quer a escolha em que as prestações normais terão início, a escolha entre várias prestações."
+  },
+  "cf9dfc7167ce1833": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nA presente directiva aplica-se à população activa - incluindo os trabalhadores independentes, os trabalhadores cuja actividade esteja interrompida por doença, maternidade, acidente ou desemprego involuntário e as pessoas à procura de emprego - bem como aos trabalhadores reformados e aos trabalhadores inválidos."
+  },
+  "05bc82406bba0417": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nA presente directiva aplica-se:\n\na) Aos regimes profissionais que assegurem uma protecção contra os seguintes riscos:\n\n- doença,\n\n- invalidez,\n\n- velhice, incluindo nos casos de reforma antecipada,\n\n- acidentes de trabalho e doença profissional,\n\n- desemprego;\n\nb) Aos regimes profissionais que prevejam outras prestações sociais, em dinheiro ou em espécie, e, nomeadamente, prestações de sobrevivência e prestações familiares, se estas se destinarem a trabalhadores assalariados e constituirem, portanto, benefícios pagos pela entidade patronal ao trabalhador em função do seu trabalho."
+  },
+  "da46d83be04938a6": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Nas condições estabelecidas nas disposições seguintes, o princípio da igualdade de tratamento implica a ausência de qualquer discriminação em razão do sexo, quer directa, quer indirectamente, por referência, nomeadamente ao estado civil ou familiar, especialmente no que respeita:\n\n- ao âmbito dos regimes e às condições de acesso aos regimes,\n\n- à obrigação, de pagar as quotizações e ao cálculo destas,\n\n- ao cálculo das prestações, incluindo as majorações devidas na qualidade de cônjuge e por pessoas a cargo, e às condições de duração e de manutenção do direito às prestações.\n\n2. O princípio da igualdade de tratamento não prejudica as disposições relativas à protecção da mulher em função da maternidade.\n\nArrtigo 6º\n\n1. Devem ser classificadas como contrárias ao princípio da igualdade de tratamento todas e quaisquer disposições que, directa ou indirectamente, nomeadamente, por referência ao estado civil ou familiar, se baseiam no sexo para:\n\na) Definir as pessoas a quem é permitido participar num regime profissional;\n\nb) Fixar o carácter obrigatório ou facultativo da participação num regime profissional;\n\nc) Estabelecer regras diferentes no que diz respeito à idade de admissão ao regime ou ao tempo mínimo de actividade laboral ou de filiação no regime necessário a obtenção de prestações;\n\nd) Prever regras diferentes, na medida do previsto nos pontos h) e i), para o reembolso das quotizações, quando o trabalhador abandone o regime sem ter satisfeito as condições que lhe garantam um direito diferido às prestações de longo prazo;\n\ne) Fixar normas diferentes de concessão das prestações ou reservar estas últimas a trabalhadores de um dos sexos;\n\nf) Impor idades de reforma diferentes;\n\ng) Interromper a manutenção ou a aquisição de direitos durante os períodos de licença de parto ou de licença por razões familiares, legal ou convencionalmente prescritas e remuneradas pela entidade patronal;\n\nh) Fixar níveis diferentes para as prestações, salvo na medida do necessário, para atender a elementos de cálculo actuarial que sejam diferentes para os dois sexos em caso de prestações definidas como sendo baseadas nas quotizações; i) Fixar níveis diferentes para as quotizações dos trabalhadores; fixar níveis diferentes para as quotizações das entidades patronais no caso de prestações definidas como sendo baseadas nas quotizações, salvo se se tratar de aproximar os montantes dessas prestações;\n\nj) Prever normas diferentes ou normas aplicáveis apenas exclusivamente aos trabalhadores de determinado sexo, salvo na medida do previsto nas alíneas h) e i), no que diz respeito à garantia ou à manutenção do direito a prestações diferidas quando o trabalhador abandone o regime.\n\n2. Quando a concessão de prestações abrangidas pela presente directiva for deixada ao critério dos órgãos de gestão do regime, estes devem atender ao princípio da igualdade de tratamento."
+  },
+  "0078390cff255efc": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nOs Estados-membros tomarão as medidas necessárias para que:\n\na) Sejam anuladas, declaradas anuláveis ou alteradas as disposições contrárias ao princípio da igualdade de tratamento constantes de convenções colectivas legalmente obrigatórias, de regulamentos de empresa ou de quaisquer outros acordos relativos aos regimes profissionais;\n\nb) Os regimes que contenham essas disposições não possam ser objecto de medidas administrativas de aprovação ou de alargamento."
+  },
+  "100e480ee3f88cb2": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Os Estados-membros tomarão as medidas necessárias para que as disposições dos regimes profissionais contrárias ao princípio da igualdade de tratamento sejam revistas até 1 de Janeiro de 1993, o mais tardar.\n\n2. A presente directiva não constitui impedimento a que os direitos e obrigações referentes a um período de filiação num regime profissional anterior à revisão desse regime continuem a ser regidos pelas disposições desse regime em vigor durante este período."
+  },
+  "3d8beaaebc7f8833": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nOs Estados-membros podem adiar a aplicação obrigatória do princípio da igualdade de tratamento, no tocante:\n\na) À fixação da idade de reforma para a concessão das pensões de velhice e de reforma e as consequências que daí possam decorrer para outras prestações, à sua escolha:\n\n- quer até à data em que a igualdade se encontre consagrada nos regimes legais,\n\n- quer, o mais tardar, até que nova directiva imponha essa igualdade;\n\nb) Às pensões de familiares sobrevivos, até que uma directiva imponha o princípio da igualdade de tratamento nos regimes legais de segurança social sobre a matéria;\n\nc) À aplicação do nº 1, primeiro parágrafo, alínea i), do artigo 6º, para levarem em conta as diferenças existentes nos elementos de cálculo actuarial, o mais tardar até ao termo de um prazo de treze anos a contar da notificação da presente directiva."
+  },
+  "ff99b34f736a71ff": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros introduzirão nas suas ordens jurídicas internas as medidas necessárias para permitir que qualquer pessoa que se considere lesada pela não aplicação do princípio da igualdade de tratamento possa fazer valer os seus direitos por via jurisdicional, após eventual recurso a outras instâncias competentes."
+  },
+  "98d005af491766d1": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nOs Estados-membros tomarão as medidas necessárias para protegerem os trabalhadores contra qualquer despedimento que constitua reacção da entidade patronal a uma queixa formulada ao nível da empresa ou a uma acção judicial no sentido de fazer respeitar o princípio da igualdade de tratamento."
+  },
+  "896f00d01e8895eb": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva, o mais tardar no prazo de três anos a contar da sua notificação (1). Desse facto informarão imediatamente a Comissão.\n\n2. No prazo máximo de cinco anos a contar da notificação da presente directiva, os Estados-membros transmitirão à Comissão todos os dados úteis para que esta elabore um relatório a apresentar ao Conselho sobre a aplicação da presente directiva."
+  },
+  "6094954a953969be": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 24 de Julho de 1986.\n\nPelo Conselho\n\nO Presidente\n\nA. CLARK\n\n(1) JO nº C 134 de 21. 5. 1983, p. 7.\n\n(2) JO nº C 117 de 30. 4. 1984, p. 169.\n\n(3) JO nº C 35 de 9. 2. 1984, p. 7.\n\n(4) JO nº L 39 de 14. 2. 1976, p. 40.\n\n(5) JO nº L 6 de 10. 1. 1979, p. 24.\n\n(1) A presente directiva foi notificada aos Estados-membros em 30 de Julho de 1986."
+  },
+  "737c362280a53d9e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1986L0378 — PT — 15.08.2006 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31986L0378) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31986L0378) [de 24 de Julho de 1986](http://publications.europa.eu/resource/celex/31986L0378) [relativa à aplicação do princípio da igualdade de tratamento entre homens e mulheres aos regimes profissionais de segurança social](http://publications.europa.eu/resource/celex/31986L0378) [(86/378/CEE)](http://publications.europa.eu/resource/celex/31986L0378) (JO L 225, 12.8.1986, p.40)\n\n**revogado por:**\n\n- [Directiva 2006/54/CE do Parlamento Europeu e do Conselho de 5 de Julho de 2006](http://publications.europa.eu/resource/celex/32006L0054) — L 204 — 23 — 26.7.2006"
+  }
+ }
+}

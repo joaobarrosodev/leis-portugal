@@ -1,0 +1,435 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004R0026:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0026-20180201",
+ "dre_path": null,
+ "source_lastmod": "2018-02-01",
+ "versions": [
+  {
+   "date": "2004-01-09",
+   "future": false,
+   "celex": "32004R0026",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a4a646f216e43e61",
+    "eda24834cac25075",
+    "5ae98546cff3121f",
+    "4426423b24c19c6c",
+    "a58d015baa9219d3",
+    "f8dea519220d45f2",
+    "5f1ee93dc76687fa",
+    "ee135bd26d8db398",
+    "3152741bdd7597a3",
+    "d64cbd91f17dbb86",
+    "134b9b0e967d46ed",
+    "f7cc7add127937de",
+    "e814314c4d9f95d4",
+    "4e5a8cd3fcae4738",
+    "9c3598c893ebc7ef",
+    "0ec18ab00fde4526"
+   ]
+  },
+  {
+   "date": "2006-12-14",
+   "future": false,
+   "celex": "02004R0026-20061214",
+   "acts": [
+    {
+     "id": "eu:celex:32006R1799:por",
+     "title": "REGULAMENTO (CE) N. o 1799/2006 DA COMISSÃO de 6 de Dezembro de 2006",
+     "published": null,
+     "celex": "32006R1799"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Âmbito de aplicação",
+    "Altera Artigo 13.º — Entrada em vigor",
+    "Adita Artigo 10.º — Número de identificação «CFR»",
+    "Adita ANEXO I",
+    "Adita ANEXO II",
+    "Adita Notas",
+    "Suprime Artigo 10.º — Número de identificação \"CFR\"",
+    "Suprime ANEXO I — DEFINIÇÃO DOS DADOS E DESCRIÇÃO DE UM REGISTO",
+    "Suprime ANEXO II — DADOS A COMUNICAR EM FUNÇÃO DO TIPO DE ACONTECIMENTO DEFINIDO NO QUADRO 1 DO ANEXO I"
+   ],
+   "fragments": [
+    "b63a232601a5596d",
+    "fe799f8154a6a3d9",
+    "5a66d0b9ce2b1a4a",
+    "56ba0644f88a1814",
+    "a58d015baa9219d3",
+    "f95062114d887068",
+    "5f1ee93dc76687fa",
+    "3def02df3f6c4968",
+    "3152741bdd7597a3",
+    "d64cbd91f17dbb86",
+    "22a796f4636d7dca",
+    "fab4fa258a7b40e6",
+    "24162bc4c0f1295a",
+    "a7bf2987a43c43cf",
+    "734032412a36a2a7",
+    "41d786592983c596",
+    "55ccd96e8615823b"
+   ]
+  },
+  {
+   "date": "2014-07-19",
+   "future": false,
+   "celex": "02004R0026-20140719",
+   "acts": [
+    {
+     "id": "eu:celex:32014R0741:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 741/2014 DA COMISSÃO de 8 de julho de 2014",
+     "published": null,
+     "celex": "32014R0741"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Âmbito de aplicação",
+    "Altera ANEXO I",
+    "Altera ANEXO II",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "1f732fbde0ade893",
+    "dc0d43f20ed326a2",
+    "27da77dde5596a5d",
+    "56ba0644f88a1814",
+    "a58d015baa9219d3",
+    "f95062114d887068",
+    "5f1ee93dc76687fa",
+    "3def02df3f6c4968",
+    "3152741bdd7597a3",
+    "d64cbd91f17dbb86",
+    "22a796f4636d7dca",
+    "fab4fa258a7b40e6",
+    "24162bc4c0f1295a",
+    "a7bf2987a43c43cf",
+    "586c4daf8bf91f48",
+    "607064a5dfecca08",
+    "73214a32016e9228"
+   ]
+  },
+  {
+   "date": "2018-02-01",
+   "future": false,
+   "celex": "02004R0026-20180201",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objectivo",
+    "Suprime Artigo 2.º — Âmbito de aplicação",
+    "Suprime Artigo 3.º — Definições",
+    "Suprime Artigo 4.º — Recolha de dados",
+    "Suprime Artigo 5.º — Registo no ficheiro nacional",
+    "Suprime Artigo 6.º — Transmissão periódica",
+    "Suprime Artigo 7.º — Registo no ficheiro comunitário",
+    "Suprime Artigo 8.º — Transmissão intercalar",
+    "Suprime Artigo 9.º — Instrumentos de comunicação entre a Comissão e os Estados-Membros",
+    "Suprime Artigo 10.º — Número de identificação «CFR»",
+    "Suprime Artigo 11.º — Acesso",
+    "Suprime Artigo 12.º — Revogação",
+    "Suprime Artigo 13.º — Entrada em vigor",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "c77b242c2c68a4bd"
+   ]
+  }
+ ],
+ "fragments": {
+  "a4a646f216e43e61": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 26/2004 da Comissão, de 30 de Dezembro de 2003, relativo ao ficheiro da frota de pesca comunitária** *Jornal Oficial nº L 005 de 09/01/2004 p. 0025 - 0035*\n\nRegulamento (CE) n.o 26/2004 da Comissão\n\nde 30 de Dezembro de 2003\n\nrelativo ao ficheiro da frota de pesca comunitária\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.o 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da política comum das pescas(1), e, nomeadamente, os n.os 3 e 4 do seu artigo 15.o,\n\nConsiderando o seguinte:\n\n(1) Para efeitos da aplicação da política comum da pesca, em conformidade com o artigo 15.o do Regulamento (CE) n.o 2371/2002, é necessário que cada Estado-Membro mantenha um ficheiro de todos os navios de pesca que arvorem o seu pavilhão e a Comissão elabore, com base nesses ficheiros nacionais, um ficheiro da frota de pesca comunitária.\n\n(2) Para ser um instrumento eficaz e completo para a aplicação da política comum da pesca, o ficheiro da frota de pesca comunitária deve abranger todos os navios de pesca comunitários, incluindo os exclusivamente utilizados na aquicultura.\n\n(3) Para que se possa dispor da informação indispensável para a gestão da capacidade das frotas de pesca e das suas actividades, é conveniente identificar os dados relativos às características dos navios que devem constar do ficheiro dos navios de pesca mantido por cada Estado-Membro, em conformidade com o n.o 1 do artigo 15.o do Regulamento (CE) n.o 2371/2002.\n\n(4) Para assegurar a actualização regular do ficheiro da frota comunitária, é necessário definir os procedimentos de transmissão à Comissão dos dados constantes do ficheiro de cada Estado-Membro.\n\n(5) As características e marcas exteriores registadas no ficheiro mantido por cada Estado-Membro devem ser mencionadas em conformidade com o disposto no Regulamento (CEE) n.o 2930/86 do Conselho, de 22 de Setembro de 1986, que define as características dos navios de pesca(2), alterado pelo Regulamento (CE) n.o 3259/94(3), e no Regulamento (CEE) n.o 1381/87 da Comissão, de 20 de Maio de 1987, que estabelece regras de execução relativas à marcação e à documentação dos navios de pesca(4).\n\n(6) Os Estados-Membros devem velar permanente pela qualidade dos dados que figuram no seu ficheiro nacional, que serão verificados pela Comissão assim que recebidos.\n\n(7) Para seguir as movimentações de navios entre Estados-Membros e para garantir uma relação inequívoca entre os dados do ficheiro da frota comunitária e os de outros sistemas de informação relativos às actividades de pesca, é importante atribuir um número de identificação único a cada navio de pesca comunitário, que não pode, em caso algum, ser reatribuído ou alterado.\n\n(8) Para garantir uma aplicação eficaz do presente regulamento e simplificar a gestão dos dados, é conveniente definir instrumentos de comunicação a utilizar entre os Estados-Membros e a Comissão.\n\n(9) Deve prever-se que a Comissão garanta aos Estados-Membros o acesso à integralidade dos dados do ficheiro da frota de pesca comunitária, no respeito das disposições relativas à protecção dos dados pessoais resultante do Regulamento (CE) n.o 45/2001 do Parlamento Europeu e do Conselho(5).\n\n(10) Tendo em conta as alterações introduzidas pelo artigo 15.o do Regulamento (CE) n.o 2371/2002 no modo de gestão dos ficheiros dos navios de pesca, é necessário revogar o Regulamento (CE) n.o 2090/98 da Comissão, de 30 de Setembro de 1998, relativo ao ficheiro comunitário dos navios de pesca(6), alterado pelo Regulamento (CE) n.o 839/2002(7).\n\n(11) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão das Pescas e da Aquicultura,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "eda24834cac25075": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\n1. O presente regulamento:\n\na) Determina os dados mínimos referentes às características e acontecimentos respeitantes aos navios que devem figurar no ficheiro que cada Estado-Membro mantém relativamente aos navios de pesca que arvorem o seu pavilhão (a seguir denominado \"o ficheiro nacional\");\n\nb) Fixa as obrigações dos Estados-Membros no que respeita à recolha, validação e transmissão, a partir do seu ficheiro nacional, desses dados à Comissão;\n\nc) Fixa as obrigações da Comissão relativamente à gestão do ficheiro da frota de pesca comunitária ( a seguir denominado \"o ficheiro comunitário\").\n\n2. Os dados do ficheiro comunitário servem de referência para a aplicação das regras da política comum da pesca."
+  },
+  "5ae98546cff3121f": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente regulamento é aplicável a todos os navios de pesca comunitários, incluindo os exclusivamente utilizados na aquicultura, tal como definida no ponto 2.2 do anexo III do Regulamento (CE) n.o 2792/1999 do Conselho(8)."
+  },
+  "4426423b24c19c6c": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. \"Acontecimento\": qualquer entrada ou saída de um navio da frota e qualquer registo ou alteração de um dos dados definidos no anexo I;\n\n2. \"Transmissão\": uma transferência numérica de um ou vários acontecimentos através da rede de telecomunicação estabelecida entre as administrações nacionais e a Comissão;\n\n3. \"Instantâneo\": o conjunto dos acontecimentos registados em relação aos navios que compõem a frota de um Estado-Membro entre a data de recenseamento indicada no anexo I e a data de transmissão;\n\n4. \"Dado pessoal\": o nome e o endereço dos armadores e proprietários dos navios de pesca."
+  },
+  "a58d015baa9219d3": {
+   "fragment_id": "Artigo 4.º — Recolha de dados",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Recolha de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Recolha de dados\n\nCada Estado-Membro recolherá, sem demora, os dados referidos no anexo II relativamente aos navios de pesca comunitários que arvorem o seu pavilhão."
+  },
+  "f8dea519220d45f2": {
+   "fragment_id": "Artigo 5.º — Registo no ficheiro nacional",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Registo no ficheiro nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Registo no ficheiro nacional\n\nCada Estado-Membro validará os dados recolhidos em conformidade com o artigo 4.o e registá-los-á no seu ficheiro nacional."
+  },
+  "5f1ee93dc76687fa": {
+   "fragment_id": "Artigo 6.º — Transmissão periódica",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Transmissão periódica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Transmissão periódica\n\nNo primeiro dia útil de Março, Junho, Setembro e Dezembro de cada ano, cada Estado-Membro transmitirá um instantâneo à Comissão."
+  },
+  "ee135bd26d8db398": {
+   "fragment_id": "Artigo 7.º — Registo no ficheiro comunitário",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Registo no ficheiro comunitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Registo no ficheiro comunitário\n\n1. Imediatamente após a recepção do instantâneo, a Comissão verificará os dados nele contidos e registá-los-á no ficheiro comunitário. Se não for detectado qualquer erro, esse instantâneo substituirá o instantâneo anterior.\n\nSe forem detectados erros, a Comissão comunicará as suas observações ao Estado-Membro, que introduzirá as correcções necessárias no seu ficheiro nacional e transmitirá à Comissão um novo instantâneo no prazo de dez dias úteis, a contar da comunicação da Comissão.\n\n2. Após recepção e verificação do novo instantâneo, a Comissão registá-lo-á ou rejeitá-lo-á se o mesmo contiver erros desproporcionados relativamente à correcta aplicação da política comum da pesca.\n\nSe o instantâneo aceite ainda contiver erros, estes serão comunicados ao Estado-Membro, a quem incumbe a obrigação de os corrigir, sem demora, de acordo com o procedimento descrito no artigo 8.o\n\n3. O ficheiro comunitário ficará acessível aos Estados-Membros, de acordo com as regras estabelecidas no artigo 11.o, 20 dias úteis após a data da transmissão periódica do instantâneo."
+  },
+  "3152741bdd7597a3": {
+   "fragment_id": "Artigo 8.º — Transmissão intercalar",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Transmissão intercalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Transmissão intercalar\n\n1. Se a execução das medidas especiais previstas no quadro da política comum da pesca o tornar necessário, um Estado-Membro, por sua iniciativa ou a pedido da Comissão, transmitirá sem demora à Comissão, a partir do seu ficheiro nacional, os dados actualizados relativos aos navios afectados por essas medidas.\n\n2. Essa transmissão deve conter, para cada um dos navios em causa, todos os factos desde a sua entrada na frota até à data dessa transmissão.\n\n3. Os dados serão verificados pela Comissão imediatamente após a sua recepção e substituirão os que constavam do ficheiro comunitário."
+  },
+  "d64cbd91f17dbb86": {
+   "fragment_id": "Artigo 9.º — Instrumentos de comunicação entre a Comissão e os Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Instrumentos de comunicação entre a Comissão e os Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Instrumentos de comunicação entre a Comissão e os Estados-Membros\n\n1. As transmissões de dados entre os Estados-Membros e a Comissão serão geridas por meio de uma aplicação informática desenvolvida pela Comissão.\n\n2. O ficheiro comunitário e os dados relativos ao controlo e ao acompanhamento das transmissões serão acessíveis aos Estados-Membros através da internet."
+  },
+  "134b9b0e967d46ed": {
+   "fragment_id": "Artigo 10.º — Número de identificação \"CFR\"",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Número de identificação \"CFR\"",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Número de identificação \"CFR\"\n\nO número do ficheiro \"CFR\" constante do anexo I identificará, de uma forma unívoca, um navio de pesca. Esse número figurará em todas as transmissões de dados relativos às características e actividades dos navios de pesca entre os Estados-Membros e a Comissão.\n\nEsse número é atribuído definitivamente aquando da primeira inscrição do navio de pesca num ficheiro nacional. Esse número não pode ser modificado, nem reatribuído a outro navio."
+  },
+  "f7cc7add127937de": {
+   "fragment_id": "Artigo 11.º — Acesso",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acesso\n\n1. Os Estados-Membros terão acesso a todas as informações constantes do ficheiro comunitário, desde que respeitem as disposições relativas à protecção dos dados pessoais resultante do Regulamento (CE) n.o 45/2001, e nomeadamente do seu artigo 8.o\n\n2. O público terá acesso a uma versão do ficheiro comunitário que não conterá dados pessoais.\n\n3. Os pedidos de acesso aos dados pessoais constantes do ficheiro comunitário serão tratados pela Comissão em conformidade com o disposto no Regulamento (CE) n.o 45/2001."
+  },
+  "e814314c4d9f95d4": {
+   "fragment_id": "Artigo 12.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Revogação\n\nÉ revogado o Regulamento (CE) n.o 2090/98."
+  },
+  "4e5a8cd3fcae4738": {
+   "fragment_id": "Artigo 13.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente regulamento entra em vigor em 1 de Setembro de 2004.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 30 de Dezembro de 2003.\n\nPela Comissão\n\nFranz Fischler\n\nMembro da Comissão\n\n(1) JO L 358 de 31.12.2002, p. 59.\n\n(2) JO L 274 de 25.9.1986, p. 1.\n\n(3) JO L 339 de 29.12.1994, p. 11.\n\n(4) JO L 132 de 21.5.1987, p. 9.\n\n(5) JO L 8 de 12.1.2001, p. 1.\n\n(6) JO L 266 de 1.10.1998, p. 27.\n\n(7) JO L 134 de 22.5.2002, p. 5.\n\n(8) JO L 337 de 30.12.1999, p. 10."
+  },
+  "9c3598c893ebc7ef": {
+   "fragment_id": "ANEXO I — DEFINIÇÃO DOS DADOS E DESCRIÇÃO DE UM REGISTO",
+   "type": "divisao",
+   "heading": "ANEXO I — DEFINIÇÃO DOS DADOS E DESCRIÇÃO DE UM REGISTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — DEFINIÇÃO DOS DADOS E DESCRIÇÃO DE UM REGISTO\n\n>POSIÇÃO NUMA TABELA>\n\nQuadro 1 Codificação do tipo de acontecimento\n\n>POSIÇÃO NUMA TABELA>\n\nQuadro 2 Data de recenseamento fixada por país\n\n>POSIÇÃO NUMA TABELA>\n\nQuadro 3 Codificação das artes de pesca\n\n>POSIÇÃO NUMA TABELA>\n\nQuadro 4 Codificação do material do casco\n\n>POSIÇÃO NUMA TABELA>\n\nQuadro 5 Codificação da segmentação\n\n>POSIÇÃO NUMA TABELA>\n\nQuadro 6 Codificação do tipo de exportação\n\n>POSIÇÃO NUMA TABELA>\n\nQuadro 7 Código da ajuda pública\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "0ec18ab00fde4526": {
+   "fragment_id": "ANEXO II — DADOS A COMUNICAR EM FUNÇÃO DO TIPO DE ACONTECIMENTO DEFINIDO NO QUADRO 1 DO ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO II — DADOS A COMUNICAR EM FUNÇÃO DO TIPO DE ACONTECIMENTO DEFINIDO NO QUADRO 1 DO ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — DADOS A COMUNICAR EM FUNÇÃO DO TIPO DE ACONTECIMENTO DEFINIDO NO QUADRO 1 DO ANEXO I\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "b63a232601a5596d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Dezembro de 2003\n\nrelativo ao ficheiro da frota de pesca comunitária\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da política comum das pescas ([^1^](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0001)), e, nomeadamente, os n.^os^ 3 e 4 do seu artigo 15.º,\n\n(1) Para efeitos da aplicação da política comum da pesca, em conformidade com o artigo 15.º do Regulamento (CE) n.º 2371/2002, é necessário que cada Estado-Membro mantenha um ficheiro de todos os navios de pesca que arvorem o seu pavilhão e a Comissão elabore, com base nesses ficheiros nacionais, um ficheiro da frota de pesca comunitária.\n\n(2) Para ser um instrumento eficaz e completo para a aplicação da política comum da pesca, o ficheiro da frota de pesca comunitária deve abranger todos os navios de pesca comunitários, incluindo os exclusivamente utilizados na aquicultura.\n\n(3) Para que se possa dispor da informação indispensável para a gestão da capacidade das frotas de pesca e das suas actividades, é conveniente identificar os dados relativos às características dos navios que devem constar do ficheiro dos navios de pesca mantido por cada Estado-Membro, em conformidade com o n.º 1 do artigo 15.º do Regulamento (CE) n.º 2371/2002.\n\n(4) Para assegurar a actualização regular do ficheiro da frota comunitária, é necessário definir os procedimentos de transmissão à Comissão dos dados constantes do ficheiro de cada Estado-Membro.\n\n(5) As características e marcas exteriores registadas no ficheiro mantido por cada Estado-Membro devem ser mencionadas em conformidade com o disposto no Regulamento (CEE) n.º 2930/86 do Conselho, de 22 de Setembro de 1986, que define as características dos navios de pesca ([^2^](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0002)), alterado pelo Regulamento (CE) n.º 3259/94 ([^3^](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0003)), e no Regulamento (CEE) n.º 1381/87 da Comissão, de 20 de Maio de 1987, que estabelece regras de execução relativas à marcação e à documentação dos navios de pesca ([^4^](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0004)).\n\n(6) Os Estados-Membros devem velar permanente pela qualidade dos dados que figuram no seu ficheiro nacional, que serão verificados pela Comissão assim que recebidos.\n\n(7) Para seguir as movimentações de navios entre Estados-Membros e para garantir uma relação inequívoca entre os dados do ficheiro da frota comunitária e os de outros sistemas de informação relativos às actividades de pesca, é importante atribuir um número de identificação único a cada navio de pesca comunitário, que não pode, em caso algum, ser reatribuído ou alterado.\n\n(8) Para garantir uma aplicação eficaz do presente regulamento e simplificar a gestão dos dados, é conveniente definir instrumentos de comunicação a utilizar entre os Estados-Membros e a Comissão.\n\n(9) Deve prever-se que a Comissão garanta aos Estados-Membros o acesso à integralidade dos dados do ficheiro da frota de pesca comunitária, no respeito das disposições relativas à protecção dos dados pessoais resultante do Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0005)).\n\n(10) Tendo em conta as alterações introduzidas pelo artigo 15.º do Regulamento (CE) n.º 2371/2002 no modo de gestão dos ficheiros dos navios de pesca, é necessário revogar o Regulamento (CE) n.º 2090/98 da Comissão, de 30 de Setembro de 1998, relativo ao ficheiro comunitário dos navios de pesca ([^6^](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0006)), alterado pelo Regulamento (CE) n.º 839/2002 ([^7^](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0007)).\n\n(11) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão das Pescas e da Aquicultura,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "fe799f8154a6a3d9": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\n1. O presente regulamento:\n\na) Determina os dados mínimos referentes às características e acontecimentos respeitantes aos navios que devem figurar no ficheiro que cada Estado-Membro mantém relativamente aos navios de pesca que arvorem o seu pavilhão (a seguir denominado «o ficheiro nacional»);\n\nb) Fixa as obrigações dos Estados-Membros no que respeita à recolha, validação e transmissão, a partir do seu ficheiro nacional, desses dados à Comissão;\n\nc) Fixa as obrigações da Comissão relativamente à gestão do ficheiro da frota de pesca comunitária ( a seguir denominado «o ficheiro comunitário»).\n\n2. Os dados do ficheiro comunitário servem de referência para a aplicação das regras da política comum da pesca."
+  },
+  "5a66d0b9ce2b1a4a": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente regulamento é aplicável a todos os navios de pesca comunitários, incluindo os exclusivamente utilizados na aquicultura, tal como definida no ponto 2.2 do anexo III do Regulamento (CE) n.º 2792/1999 do Conselho ([^8^](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0008))."
+  },
+  "56ba0644f88a1814": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Acontecimento»: qualquer entrada ou saída de um navio da frota e qualquer registo ou alteração de um dos dados definidos no anexo I;\n\n2. «Transmissão»: uma transferência numérica de um ou vários acontecimentos através da rede de telecomunicação estabelecida entre as administrações nacionais e a Comissão;\n\n3. «Instantâneo»: o conjunto dos acontecimentos registados em relação aos navios que compõem a frota de um Estado-Membro entre a data de recenseamento indicada no anexo I e a data de transmissão;\n\n4. «Dado pessoal»: o nome e o endereço dos armadores e proprietários dos navios de pesca."
+  },
+  "f95062114d887068": {
+   "fragment_id": "Artigo 5.º — Registo no ficheiro nacional",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Registo no ficheiro nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Registo no ficheiro nacional\n\nCada Estado-Membro validará os dados recolhidos em conformidade com o artigo 4.º e registá-los-á no seu ficheiro nacional."
+  },
+  "3def02df3f6c4968": {
+   "fragment_id": "Artigo 7.º — Registo no ficheiro comunitário",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Registo no ficheiro comunitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Registo no ficheiro comunitário\n\n1. Imediatamente após a recepção do instantâneo, a Comissão verificará os dados nele contidos e registá-los-á no ficheiro comunitário. Se não for detectado qualquer erro, esse instantâneo substituirá o instantâneo anterior.\n\nSe forem detectados erros, a Comissão comunicará as suas observações ao Estado-Membro, que introduzirá as correcções necessárias no seu ficheiro nacional e transmitirá à Comissão um novo instantâneo no prazo de dez dias úteis, a contar da comunicação da Comissão.\n\n2. Após recepção e verificação do novo instantâneo, a Comissão registá-lo-á ou rejeitá-lo-á se o mesmo contiver erros desproporcionados relativamente à correcta aplicação da política comum da pesca.\n\nSe o instantâneo aceite ainda contiver erros, estes serão comunicados ao Estado-Membro, a quem incumbe a obrigação de os corrigir, sem demora, de acordo com o procedimento descrito no artigo 8.º\n\n3. O ficheiro comunitário ficará acessível aos Estados-Membros, de acordo com as regras estabelecidas no artigo 11.º, 20 dias úteis após a data da transmissão periódica do instantâneo."
+  },
+  "22a796f4636d7dca": {
+   "fragment_id": "Artigo 10.º — Número de identificação «CFR»",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Número de identificação «CFR»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Número de identificação «CFR»\n\nO número do ficheiro «CFR» constante do anexo I identificará, de uma forma unívoca, um navio de pesca. Esse número figurará em todas as transmissões de dados relativos às características e actividades dos navios de pesca entre os Estados-Membros e a Comissão.\n\nEsse número é atribuído definitivamente aquando da primeira inscrição do navio de pesca num ficheiro nacional. Esse número não pode ser modificado, nem reatribuído a outro navio."
+  },
+  "fab4fa258a7b40e6": {
+   "fragment_id": "Artigo 11.º — Acesso",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acesso\n\n1. Os Estados-Membros terão acesso a todas as informações constantes do ficheiro comunitário, desde que respeitem as disposições relativas à protecção dos dados pessoais resultante do Regulamento (CE) n.º 45/2001, e nomeadamente do seu artigo 8.º\n\n2. O público terá acesso a uma versão do ficheiro comunitário que não conterá dados pessoais.\n\n3. Os pedidos de acesso aos dados pessoais constantes do ficheiro comunitário serão tratados pela Comissão em conformidade com o disposto no Regulamento (CE) n.º 45/2001."
+  },
+  "24162bc4c0f1295a": {
+   "fragment_id": "Artigo 12.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Revogação\n\nÉ revogado o Regulamento (CE) n.º 2090/98."
+  },
+  "a7bf2987a43c43cf": {
+   "fragment_id": "Artigo 13.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente regulamento entra em vigor em 1 de Setembro de 2004.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "734032412a36a2a7": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| Nome da zona | Número máximo de caracteres | Alinhamento [(^1^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0009) E(squerda)/D(ireita) | Definição e observações |\n| --- | --- | --- | --- |\n| País de registo | 3 | — | Estado-Membro (código Alpha-3 ISO) em que o navio está registado para a pesca nos termos do Regulamento (CE) n.º 2371/2002. Trata-se sempre do país declarante |\n| CFR [(^2^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0010) | 12 | — | (*C*ommunity *F*leet *R*egister number). Número único de identificação de um navio de pesca. Estado-Membro (código Alpha-3 ISO) seguido de uma cadeia identificadora (9 caracteres). Uma cadeia inferior a 9 caracteres deve ser completada com zeros à esquerda |\n| Código do acontecimento | 3 | — | Código de identificação do tipo de acontecimento declarado. (quadro 1) |\n| Data do acontecimento [(^3^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0011) | 8 | — | Data (AAAAMMDD) em que ocorreu o acontecimento |\n| Indicador de licença | 1 | — | Navio que dispõe de uma licença de pesca nos termos do Regulamento (CE) n.º 3690/93: *Y*(Sim)/*N*(Não) |\n| Número de registo | 14 | E |  |\n| Marcação externa | 14 | E | Nos termos do Regulamento (CEE) n.º 1381/87 |\n| Nome do navio | 40 | E |  |\n| Porto de registo | 5 | E | Codificação nacional [(^4^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0012) |\n| Indicativo IRCS | 1 | — | Navio com rádio internacional a bordo: *Y*(Sim)/*N*(Não)/*U*(Desconhecido) [(^7^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0015) |\n| IRCS | 7 | E | (*I*nternational *R*adio *C*all *S*ign). Indicativo rádio internacional |\n| Indicador VMS | 1 | — | (*V*essel *M*onitoring *S*ystem). Navio que dispõe de um dispositivo de localização por satélite nos termos do artigo 22.º do Regulamento (CE) n.º 2371/2002: *Y*(Sim)/*N*(Não) |\n| Arte de pesca principal [(^5^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0013) | 3 | E | Codificação da arte de pesca principal (quadro 3) |\n| Arte de pesca secundária | 3 | E | Codificação da arte de pesca secundária (quadro 3) |\n| LOA [(^6^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0014) | 6 | D | (*L*ength *O*ver*A*ll). Comprimento de fora a fora em metros, definido nos termos do Regulamento (CE) n.º 2930/86 |\n| LBP [(^6^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0014) | 6 | D | (*L*ength *B*etween *P*erpendiculars). Comprimento entre perpendiculares em metros, definido nos termos do Regulamento (CE) n.º 2930/86 |\n| Arqueação GT [(^6^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0014) | 8 | D | Em GT, definida nos termos do Regulamento (CE) n.º 2930/86 |\n| Outra arqueação [(^6^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0014) | 8 | D | Em toneladas, nos termos da Convenção de Oslo ou de acordo com uma definição a precisar pelo Estado-Membro |\n| GTs [(^6^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0014) | 7 | D | Em GT, aumento de arqueação autorizado por razões de segurança nos termos do artigo 11.º do Regulamento (CE) n.º 2371/2002 |\n| Potência principal [(^6^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0014) | 8 | D | Em kW, nos termos do Regulamento (CE) n.º 2930/86 |\n| Potência auxiliar [(^6^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0014) | 8 | D | Em kW. Compreende toda a potência instalada não incluída na rubrica «Potência principal» |\n| Material do casco | 1 | — | Codificação (quadro 4) |\n| Ano de entrada em serviço | 4 | — | Nos termos do Regulamento (CE) n.º 2930/86 |\n| Mês de entrada em serviço | 2 | — | Nos termos do Regulamento (CE) n.º 2930/86 |\n| Dia de entrada em serviço | 2 | — | Nos termos do Regulamento (CE) n.º 2930/86 |\n| Segmento | 3 | — | Codificação (quadro 5) |\n| País de importação/exportação | 3 | — | Código Alpha-3 ISO do país de importação ou exportação |\n| Tipo de exportação | 2 | — | Codificação (quadro 6) |\n| Código da ajuda pública | 2 | — | Codificação (quadro 7) |\n| Data da decisão administrativa | 8 | — | Data (AAAAMMJJ) da decisão administrativa referida no artigo 6.º do Regulamento (CE) n.º 1438/2003 |\n| Segmento objecto da decisão administrativa | 3 | — | Código do segmento do POP que deve ser comunicado nos termos do Regulamento (CE) n.º 1438/2003 |\n| Ano de construção | 4 | — |  |\n| Local de construção | 100 | E | Texto livre. Nome do estaleiro naval, cidade e país em que foi construído o casco do navio |\n| Nome do armador | 100 | E | Armador do navio: Pessoa singular: apelido, nome próprio Pessoa colectiva: nome |\n| Endereço do armador | 100 | E | Texto livre. O endereço deve ser suficientemente preciso, por forma a permitir contactar o armador: rua, número, caixa, código postal, cidade e país |\n| Indicador do proprietário | 1 | — | Navio de que o armador é igualmente proprietário *Y*(Sim)/*N*(Não) |\n| Nome do proprietário | 100 | E | Proprietário do navio: Pessoa singular: apelido, nome próprio Pessoa colectiva: nome |\n| Endereço do proprietário | 100 | E | Texto livre. O endereço deve ser suficientemente preciso, por forma a permitir contactar o proprietário: rua, número, caixa, código postal, cidade e país |\n| (^1^)Informações pertinentes para a transmissão de dados de acordo com uma formatagem com um comprimento fixo. (^2^)Anteriormente denominado *número interno*. (^3^)No caso de um recenseamento da frota, é a data de recenseamento no Estado-Membro (quadro 2). Para todos os outros tipos de acontecimento, deve ser comunicada a data do documento oficial que regista o acontecimento. (^4^)Todas as alterações da codificação nacional devem ser aprovadas pela Comissão. (^5^)Arte de pesca considerada como a mais utilizada a bordo do navio durante um período de actividade anual ou por campanha de pesca. (^6^)Valor numérico com duas decimais opcionais. O separador das decimais é o ponto. Não é aceite qualquer separador para os milhares. (^7^)Não válido para os navios da frota ou declarados a partir de 1 de Janeiro de 2003. |  |  |  |\n\nQuadro 1 Codificação do tipo de acontecimento\n\n| Entrada na frota | Recenseamento | CEN |\n| --- | --- | --- |\n| Nova construção | CST |  |\n| Alteração de actividade | CHA |  |\n| Importação, transferência intracomunitária | IMP |  |\n| Na frota | Alteração | MOD |\n| Saída da frota | Demolição, naufrágio | DES |\n| Alteração de actividade | RET |  |\n| Exportação, transferência intracomunitária | EXP |  |\n\nQuadro 2 Data de recenseamento fixada por país\n\nBEL, DNK, FRA, GBR, PRT 1.1.1989\n\nNLD 1.9.1989\n\nDEU, ESP 1.1.1990\n\nIRL 1.10.1990\n\nITA 1.1.1991\n\nGRC 1.7.1991\n\nSWE, FIN 1.1.1995\n\nCYP, EST, LTU, LVA, MLT, POL, SVN 1.5.2004\n\nEstados-Membros que adiram após 1 de Maio de 2004 Data de adesão\n\nQuadro 3 Codificação das artes de pesca\n\n| Categoria de arte | Arte | Código | Arte fixa (S) ou rebocada (T) ou móvel (M) | Pelágica (P) ou demersal (D) |\n| --- | --- | --- | --- | --- |\n| Redes de cercar | Redes de cerco com retenida | PS | M | P |\n| Sem retenida (lâmpara) | LA | M | P |  |\n| Redes envolventes-arrastantes | Redes de alar para a praia | SB | T | D/P |\n| Redes de cerco dinamarquesas | SDN | T | D/P |  |\n| Redes escocesas | SSC | T | D/P |  |\n| Redes manobradas por dois navios | SPR | T | D/P |  |\n| Redes de arrasto | Rede de arrasto de vara | TBB | T | D |\n| Redes de arrasto pelo fundo com portas | OTB | T | D |  |\n| Redes de arrasto pelo fundo para a pesca em parelha | PTB | T | D |  |\n| Redes de arrasto pelágico com portas | OTM | T | D/P |  |\n| Redes de arrasto pelágico de parelha | PTM | T | D/P |  |\n| Redes de arrasto geminadas com portas | OTT | T | D/P |  |\n| Dragas | Dragas rebocadas por navio | DRB | T | D |\n| Dragas de mão utilizadas a bordo do navio | DRH | T | D |  |\n| Dragas mecanizadas, incluindo as dragas hidráulicas | HMD | T | D |  |\n| Redes de sacada | Redes de sacada manobradas de embarcações | LNB | M | P |\n| Redes de sacada manobradas de terra | LNS | M | P |  |\n| Redes de emalhar e redes de enredar | Redes de emalhar fundeadas | GNS | S | D |\n| Redes de emalhar de deriva | GND | S | D/P |  |\n| Redes de emalhar envolventes | GNC | S | D/P |  |\n| Tresmalhos | GTR | S | D/P |  |\n| Redes mistas de emalhar-tresmalho | GTN | S | D/P |  |\n| Armadilhas | Nassas (covos) | FPO | S | D |\n| Linhas e anzóis | Linhas de mão e linhas de vara (operadas manualmente) | LHP | S | D/P |\n| Linhas de mão e linhas de vara (mecanizadas) | LHM | S | D/P |  |\n| Palangres fundeados | LLS | S | D |  |\n| Palangres de deriva | LLD | S | P |  |\n| Corricos | LTL | M | P |  |\n| Arte de pesca desconhecida [(^1^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0016) |  | NK |  |  |\n| Nenhuma arte [(^2^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0017) |  | NO |  |  |\n| (^1^)Não válido para os navios da frota ou declarados a partir de 1 de Janeiro de 2003. (^2^)Válido unicamente para a arte de pesca secundária. |  |  |  |  |\n\nQuadro 4 Codificação do material do casco\n\n| Madeira | 1 |\n| --- | --- |\n| Metal | 2 |\n| Fibra de vidro/plástico | 3 |\n| Outro | 4 |\n| Desconhecido [(^1^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0018) | 5 |\n| (^1^)Não válido para os navios da frota ou declarados a partir de 1.1.2003. |  |\n\nQuadro 5 Codificação da segmentação\n\n| Data do acontecimento anterior a 31.12.2002 | Codificação POP |  |\n| --- | --- | --- |\n| Data do acontecimento posterior a 1.1.2003 | Frota metropolitana | MFL |\n| Região ultraperiférica [(^1^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0019) | França | Codificação POP IV |\n| Portugal | Codificação POP IV |  |\n| Espanha | CAN1 a CANn |  |\n| Aquicultura | AQU |  |\n| (^1^)Codificação provisória sob reserva da adopção de uma segmentação para as ilhas Canárias e de segmentações diferentes das dos POP IV para as regiões ultraperiféricas da França e de Portugal na sequência da adopção do projecto de regulamento do Conselho relativo à gestão das frotas de pesca registadas nas regiões ultraperiféricas [COM(2003)175 final]. |  |  |\n\nQuadro 6 Codificação do tipo de exportação\n\nExportação ou transferência intracomunitária EX\n\nExportação no quadro de uma sociedade mista SM\n\nQuadro 7 Código da ajuda pública\n\nAjuda não co-financiada pela Comunidade AE\n\nAjuda co-financiada pela Comunidade AC\n\nNenhuma ajuda pública PA\n\nAjuda para a substituição do motor, sob reserva de redução da potência (opção individual) EI\n\nAjuda para a substituição do motor, sob reserva de redução da potência (opção de grupo) EG"
+  },
+  "41d786592983c596": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n|  | Entrada na frota | Na frota | Saída da frota |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | CEN | CST | CHA | IMP | MOD | DES | RET | EXP |\n| País de registo | X | X | X | X | X | X | X | X |\n| CFR | X | X | X | X | X | X | X | X |\n| Código do acontecimento | X | X | X | X | X | X | X | X |\n| Data do acontecimento | X | X | X | X | X | X | X | X |\n| Indicador de licença [(^1^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0020) | X | X | X | X | X | X | X | X |\n| Número de registo | X | X | X | X | X | X | X | X |\n| Marcação externa | X | X | X | X | X | X | X | X |\n| Nome do navio | X | X | X | X | X | X | X | X |\n| Porto de registo | X | X | X | X | X | X | X | X |\n| Indicativo IRCS | X | X | X | X | X | X | X | X |\n| IRCS [(^2^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0021) | X | X | X | X | X | X | X | X |\n| Indicador VMS [(^1^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0020) | X | X | X | X | X | X | X | X |\n| Arte de pesca principal | X | X | X | X | X | X | X | X |\n| Arte de pesca secundária | X | X | X | X | X | X | X | X |\n| LOA [(^1^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0020) [(^3^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0022) | X | X | X | X | X | X | X | X |\n| LBP [(^3^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0022) | X | X | X | X | X | X | X | X |\n| Arqueação GT [(^4^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0023) [(^5^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0024) | X | X | X | X | X | X | X | X |\n| Outra arqueação [(^4^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0023) | X | X | X | X | X | X | X | X |\n| GTs | X | X | X | X | X | X | X | X |\n| Potência principal | X | X | X | X | X | X | X | X |\n| Potência auxiliar | X | X | X | X | X | X | X | X |\n| Material do casco | X | X | X | X | X | X | X | X |\n| Ano de entrada em serviço [(^6^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0025) | X | [(^1^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0020) | [(^1^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0020) | [(^1^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0020) | X | X | X | X |\n| Mês de entrada em serviço | X | [(^1^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0020) | [(^1^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0020) | [(^1^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0020) | X | X | X | X |\n| Dia de entrada em serviço | X | [(^1^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0020) | [(^1^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0020) | [(^1^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0020) | X | X | X | X |\n| Segmento | X | X | X | X | X | X | X | X |\n| País de importação/exportação | — | — | — | X | — | — | — | X |\n| Tipo de exportação [(^1^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0020) | — | — | — | — | — | — | — | X |\n| Código da ajuda pública | — | X | X | X | [(^11^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0030) | X | X | X |\n| Data da decisão administrativa [(^12^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0031) | — | X | X | X | — | — | — | — |\n| Segmento objecto da decisão administrativa [(^10^)](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#E0029) | — | X | X | X | — | — | — | — |\n| (^1^)Dado obrigatório para todos os navios da frota ou declarados a partir de 1.1.2003. (^2^)Campo vazio se o «Indicativo IRCS» for «N». (^3^)Para os acontecimentos anteriores a 31.12.2002, deve ser declarado um dos dois comprimentos. (^4^)Para os acontecimentos anteriores a 31.12.2003, deve ser declarada uma das duas arqueações. (^5^)Dado obrigatório para todos os navios da frota ou declarados a partir de 1.1.2004. (^6^)Para os acontecimentos anteriores a 31.12.2002, deve ser declarado o ano de entrada em serviço ou de construção. (^7^)Dado obrigatório para todos os navios da frota ou declarados a partir de 1.1.2003 cujo comprimento de fora a fora seja igual ou superior a 15 metros ou cujo comprimento entre perpendiculares seja igual ou superior a 12 metros. (^8^)Dado obrigatório para todos os navios da frota ou declarados a partir de 1.1.2003 cujo comprimento de fora a fora seja igual ou superior a 27 metros ou cujo comprimento entre perpendiculares seja igual ou superior a 24 metros. (^9^)Campo vazio se o «Indicador Proprietário» for «Y». (^10^)A preencher unicamente para as entradas na frota a partir de 1.1.2003 na sequência de decisões administrativas adoptadas entre 1.1.2000 e 31.12.2002. (^11^)Dado obrigatório unicamente nos casos de aumento de arqueação autorizado por razões de segurança. (^12^)A preencher unicamente para as entradas na frota a partir de 1.1.2003 na sequência de decisões administrativas adoptadas a partir de 1.1.2000. |  |  |  |  |  |  |  |  |\n\n---"
+  },
+  "55ccd96e8615823b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#src.E0001)) JO L 358 de 31.12.2002, p. 59.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#src.E0002)) JO L 274 de 25.9.1986, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#src.E0003)) JO L 339 de 29.12.1994, p. 11.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#src.E0004)) JO L 132 de 21.5.1987, p. 9.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#src.E0005)) JO L 8 de 12.1.2001, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#src.E0006)) JO L 266 de 1.10.1998, p. 27.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#src.E0007)) JO L 134 de 22.5.2002, p. 5.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/2770a992-ea1c-423c-ae6e-c7ecee95885f.0018.03/DOC_1#src.E0008)) JO L 337 de 30.12.1999, p. 10."
+  },
+  "1f732fbde0ade893": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Dezembro de 2003\n\nrelativo ao ficheiro da frota de pesca comunitária\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da política comum das pescas ([^1^](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0001)), e, nomeadamente, os n.^os^ 3 e 4 do seu artigo 15.º,\n\n(1) Para efeitos da aplicação da política comum da pesca, em conformidade com o artigo 15.º do Regulamento (CE) n.º 2371/2002, é necessário que cada Estado-Membro mantenha um ficheiro de todos os navios de pesca que arvorem o seu pavilhão e a Comissão elabore, com base nesses ficheiros nacionais, um ficheiro da frota de pesca comunitária.\n\n(2) Para ser um instrumento eficaz e completo para a aplicação da política comum da pesca, o ficheiro da frota de pesca comunitária deve abranger todos os navios de pesca comunitários, incluindo os exclusivamente utilizados na aquicultura.\n\n(3) Para que se possa dispor da informação indispensável para a gestão da capacidade das frotas de pesca e das suas actividades, é conveniente identificar os dados relativos às características dos navios que devem constar do ficheiro dos navios de pesca mantido por cada Estado-Membro, em conformidade com o n.º 1 do artigo 15.º do Regulamento (CE) n.º 2371/2002.\n\n(4) Para assegurar a actualização regular do ficheiro da frota comunitária, é necessário definir os procedimentos de transmissão à Comissão dos dados constantes do ficheiro de cada Estado-Membro.\n\n(5) As características e marcas exteriores registadas no ficheiro mantido por cada Estado-Membro devem ser mencionadas em conformidade com o disposto no Regulamento (CEE) n.º 2930/86 do Conselho, de 22 de Setembro de 1986, que define as características dos navios de pesca ([^2^](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0002)), alterado pelo Regulamento (CE) n.º 3259/94 ([^3^](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0003)), e no Regulamento (CEE) n.º 1381/87 da Comissão, de 20 de Maio de 1987, que estabelece regras de execução relativas à marcação e à documentação dos navios de pesca ([^4^](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0004)).\n\n(6) Os Estados-Membros devem velar permanente pela qualidade dos dados que figuram no seu ficheiro nacional, que serão verificados pela Comissão assim que recebidos.\n\n(7) Para seguir as movimentações de navios entre Estados-Membros e para garantir uma relação inequívoca entre os dados do ficheiro da frota comunitária e os de outros sistemas de informação relativos às actividades de pesca, é importante atribuir um número de identificação único a cada navio de pesca comunitário, que não pode, em caso algum, ser reatribuído ou alterado.\n\n(8) Para garantir uma aplicação eficaz do presente regulamento e simplificar a gestão dos dados, é conveniente definir instrumentos de comunicação a utilizar entre os Estados-Membros e a Comissão.\n\n(9) Deve prever-se que a Comissão garanta aos Estados-Membros o acesso à integralidade dos dados do ficheiro da frota de pesca comunitária, no respeito das disposições relativas à protecção dos dados pessoais resultante do Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0005)).\n\n(10) Tendo em conta as alterações introduzidas pelo artigo 15.º do Regulamento (CE) n.º 2371/2002 no modo de gestão dos ficheiros dos navios de pesca, é necessário revogar o Regulamento (CE) n.º 2090/98 da Comissão, de 30 de Setembro de 1998, relativo ao ficheiro comunitário dos navios de pesca ([^6^](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0006)), alterado pelo Regulamento (CE) n.º 839/2002 ([^7^](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0007)).\n\n(11) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão das Pescas e da Aquicultura,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "dc0d43f20ed326a2": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\n1. O presente regulamento:\n\na) Determina os dados mínimos referentes às características e acontecimentos respeitantes aos navios que devem figurar no ficheiro que cada Estado-Membro mantém relativamente aos navios de pesca que arvorem o seu pavilhão (a seguir denominado «o ficheiro nacional»);\n\nb) Fixa as obrigações dos Estados-Membros no que respeita à recolha, validação e transmissão, a partir do seu ficheiro nacional, desses dados à Comissão;\n\nc) Fixa as obrigações da Comissão relativamente à gestão do ficheiro da frota de pesca comunitária (a seguir denominado «o ficheiro comunitário»).\n\n2. Os dados do ficheiro comunitário servem de referência para a aplicação das regras da política comum da pesca."
+  },
+  "27da77dde5596a5d": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente regulamento é aplicável a todos os navios de pesca comunitários, incluindo os exclusivamente utilizados na aquicultura, tal como definida no ponto 2.2 do anexo III do Regulamento (CE) n.º 2792/1999 do Conselho ([^8^](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0008))."
+  },
+  "586c4daf8bf91f48": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| Nome da zona | Número máximo de caracteres | Alinhamento [(^1^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0009) E(squerda)/D(ireita) | Definição e observações |\n| --- | --- | --- | --- |\n| País de registo | 3 | — | Estado-Membro (código Alpha-3 ISO) em que o navio está registado para a pesca nos termos do Regulamento (CE) n.º 2371/2002. Trata-se sempre do país declarante |\n| CFR [(^2^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0010) | 12 | — | (*C*ommunity *F*leet *R*egister number). Número único de identificação de um navio de pesca. Estado-Membro (código Alpha-3 ISO) seguido de uma cadeia identificadora (9 caracteres). Uma cadeia inferior a 9 caracteres deve ser completada com zeros à esquerda |\n| Código do acontecimento | 3 | — | Código de identificação do tipo de acontecimento declarado. (quadro 1) |\n| Data do acontecimento [(^3^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0011) | 8 | — | Data (AAAAMMDD) em que ocorreu o acontecimento |\n| Indicador de licença | 1 | — | Navio que dispõe de uma licença de pesca nos termos do Regulamento (CE) n.º 3690/93: *Y*(Sim)/*N*(Não) |\n| Número de registo | 14 | E |  |\n| Marcação externa | 14 | E | Nos termos do Regulamento (CEE) n.º 1381/87 |\n| Nome do navio | 40 | E |  |\n| Porto de registo | 5 | E | Codificação nacional [(^4^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0012) |\n| Indicativo IRCS | 1 | — | Navio com rádio internacional a bordo: *Y*(Sim)/*N*(Não)/*U*(Desconhecido) [(^7^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0015) |\n| IRCS | 7 | E | (*I*nternational *R*adio *C*all *S*ign). Indicativo rádio internacional |\n| Indicador VMS | 1 | — | (*V*essel *M*onitoring *S*ystem). Navio que dispõe de um dispositivo de localização por satélite nos termos do artigo 22.º do Regulamento (CE) n.º 2371/2002: *Y*(Sim)/*N*(Não) |\n| Arte de pesca principal [(^5^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0013) | 3 | E | Codificação da arte de pesca principal (quadro 3) |\n| Arte de pesca secundária | 3 | E | Codificação da arte de pesca secundária (quadro 3) |\n| LOA [(^6^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0014) | 6 | D | (*L*ength *O*ver*A*ll). Comprimento de fora a fora em metros, definido nos termos do Regulamento (CE) n.º 2930/86 |\n| LBP [(^6^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0014) | 6 | D | (*L*ength *B*etween *P*erpendiculars). Comprimento entre perpendiculares em metros, definido nos termos do Regulamento (CE) n.º 2930/86 |\n| Arqueação GT [(^6^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0014) | 8 | D | Em GT, definida nos termos do Regulamento (CE) n.º 2930/86 |\n| Outra arqueação [(^6^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0014) | 8 | D | Em toneladas, nos termos da Convenção de Oslo ou de acordo com uma definição a precisar pelo Estado-Membro |\n| GTs [(^6^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0014) | 7 | D | Em GT, aumento de arqueação autorizado por razões de segurança nos termos do artigo 11.º do Regulamento (CE) n.º 2371/2002 |\n| Potência principal [(^6^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0014) | 8 | D | Em kW, nos termos do Regulamento (CE) n.º 2930/86 |\n| Potência auxiliar [(^6^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0014) | 8 | D | Em kW. Compreende toda a potência instalada não incluída na rubrica «Potência principal» |\n| Material do casco | 1 | — | Codificação (quadro 4) |\n| Ano de entrada em serviço | 4 | — | Nos termos do Regulamento (CE) n.º 2930/86 |\n| Mês de entrada em serviço | 2 | — | Nos termos do Regulamento (CE) n.º 2930/86 |\n| Dia de entrada em serviço | 2 | — | Nos termos do Regulamento (CE) n.º 2930/86 |\n| Segmento | 3 | — | Codificação (quadro 5) |\n| País de importação/exportação | 3 | — | Código Alpha-3 ISO do país de importação ou exportação |\n| Tipo de exportação | 2 | — | Codificação (quadro 6) |\n| Código da ajuda pública | 2 | — | Codificação (quadro 7) |\n| Data da decisão administrativa | 8 | — | Data (AAAAMMJJ) da decisão administrativa referida no artigo 6.º do Regulamento (CE) n.º 1438/2003 |\n| Segmento objecto da decisão administrativa | 3 | — | Código do segmento do POP que deve ser comunicado nos termos do Regulamento (CE) n.º 1438/2003 |\n| Ano de construção | 4 | — |  |\n| Local de construção | 100 | E | Texto livre. Nome do estaleiro naval, cidade e país em que foi construído o casco do navio |\n| Nome do armador | 100 | E | Armador do navio: Pessoa singular: apelido, nome próprio Pessoa colectiva: nome |\n| Endereço do armador | 100 | E | Texto livre. O endereço deve ser suficientemente preciso, por forma a permitir contactar o armador: rua, número, caixa, código postal, cidade e país |\n| Indicador do proprietário | 1 | — | Navio de que o armador é igualmente proprietário *Y*(Sim)/*N*(Não) |\n| Nome do proprietário | 100 | E | Proprietário do navio: Pessoa singular: apelido, nome próprio Pessoa colectiva: nome |\n| Endereço do proprietário | 100 | E | Texto livre. O endereço deve ser suficientemente preciso, por forma a permitir contactar o proprietário: rua, número, caixa, código postal, cidade e país |\n| (^1^)Informações pertinentes para a transmissão de dados de acordo com uma formatagem com um comprimento fixo. (^2^)Anteriormente denominado *número interno*. (^3^)No caso de um recenseamento da frota, é a data de recenseamento no Estado-Membro (quadro 2). Para todos os outros tipos de acontecimento, deve ser comunicada a data do documento oficial que regista o acontecimento. (^4^)Todas as alterações da codificação nacional devem ser aprovadas pela Comissão. (^5^)Arte de pesca considerada como a mais utilizada a bordo do navio durante um período de actividade anual ou por campanha de pesca. (^6^)Valor numérico com duas decimais opcionais. O separador das decimais é o ponto. Não é aceite qualquer separador para os milhares. (^7^)Não válido para os navios da frota ou declarados a partir de 1 de Janeiro de 2003. |  |  |  |\n\nQuadro 1 Codificação do tipo de acontecimento\n\n| Entrada na frota | Recenseamento | CEN |\n| --- | --- | --- |\n| Nova construção | CST |  |\n| Alteração de actividade | CHA |  |\n| Importação, transferência intracomunitária | IMP |  |\n| Na frota | Alteração | MOD |\n| Saída da frota | Demolição, naufrágio | DES |\n| Alteração de actividade | RET |  |\n| Exportação, transferência intracomunitária | EXP |  |\n\nQuadro 1-A Códigos de país dos Estados-Membros\n\nEstado-Membro Código do país\n\nBelgique/België BEL\n\nБългария BGR\n\nDanmark DNK\n\nDeutschland DEU\n\nEesti EST\n\nÉire/Ireland IRL\n\nΕλλάδα GRC\n\nEspaña ESP\n\nFrance FRA\n\nHrvatska HRV\n\nItalia ITA\n\nΚύπρος CYP\n\nLatvija LVA\n\nLietuva LTU\n\nMalta MLT\n\nNederland NLD\n\nPolska POL\n\nPortugal PRT\n\nRomânia ROM\n\nSlovenija SVN\n\nSuomi/Finland FIN\n\nSverige SWE\n\nUnited Kingdom GBR\n\nQuadro 2 Data de recenseamento fixada por país\n\nBEL, DNK, FRA, GBR, PRT 1.1.1989\n\nNLD 1.9.1989\n\nDEU, ESP 1.1.1990\n\nIRL 1.10.1990\n\nITA 1.1.1991\n\nGRC 1.7.1991\n\nSWE, FIN 1.1.1995\n\nCYP, EST, LTU, LVA, MLT, POL, SVN 1.5.2004\n\nEstados-Membros que adiram após 1 de Maio de 2004 Data de adesão\n\nQuadro 3 Codificação das artes de pesca\n\n| Categoria de arte | Arte | Código | Arte fixa (S) ou rebocada (T) ou móvel (M) | Pelágica (P) ou demersal (D) |\n| --- | --- | --- | --- | --- |\n| Redes de cercar | Redes de cerco com retenida | PS | M | P |\n| Sem retenida (lâmpara) | LA | M | P |  |\n| Redes envolventes-arrastantes | Redes de alar para a praia | SB | T | D/P |\n| Redes de cerco dinamarquesas | SDN | T | D/P |  |\n| Redes escocesas | SSC | T | D/P |  |\n| Redes manobradas por dois navios | SPR | T | D/P |  |\n| Redes de arrasto | Rede de arrasto de vara | TBB | T | D |\n| Redes de arrasto pelo fundo com portas | OTB | T | D |  |\n| Redes de arrasto pelo fundo para a pesca em parelha | PTB | T | D |  |\n| Redes de arrasto pelágico com portas | OTM | T | D/P |  |\n| Redes de arrasto pelágico de parelha | PTM | T | D/P |  |\n| Redes de arrasto geminadas com portas | OTT | T | D/P |  |\n| Dragas | Dragas rebocadas por navio | DRB | T | D |\n| Dragas de mão utilizadas a bordo do navio | DRH | T | D |  |\n| Dragas mecanizadas, incluindo as dragas hidráulicas | HMD | T | D |  |\n| Redes de sacada | Redes de sacada manobradas de embarcações | LNB | M | P |\n| Redes de sacada manobradas de terra | LNS | M | P |  |\n| Redes de emalhar e redes de enredar | Redes de emalhar fundeadas | GNS | S | D |\n| Redes de emalhar de deriva | GND | S | D/P |  |\n| Redes de emalhar envolventes | GNC | S | D/P |  |\n| Tresmalhos | GTR | S | D/P |  |\n| Redes mistas de emalhar-tresmalho | GTN | S | D/P |  |\n| Armadilhas | Nassas (covos) | FPO | S | D |\n| Linhas e anzóis | Linhas de mão e linhas de vara (operadas manualmente) | LHP | S | D/P |\n| Linhas de mão e linhas de vara (mecanizadas) | LHM | S | D/P |  |\n| Palangres fundeados | LLS | S | D |  |\n| Palangres de deriva | LLD | S | P |  |\n| Corricos | LTL | M | P |  |\n| Instrumentos para aferrar e para causar ferimentos | Arpões | HAR | M | P |\n| Arte de pesca desconhecida [(^1^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0016) |  | NK |  |  |\n| Nenhuma arte [(^2^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0017) |  | NO |  |  |\n| (^1^)Não válido para os navios da frota ou declarados a partir de 1 de janeiro de 2003. (^2^)Válido unicamente para a arte de pesca secundária. |  |  |  |  |\n\nQuadro 4 Codificação do material do casco\n\n| Madeira | 1 |\n| --- | --- |\n| Metal | 2 |\n| Fibra de vidro/plástico | 3 |\n| Outro | 4 |\n| Desconhecido [(^1^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0018) | 5 |\n| (^1^)Não válido para os navios da frota ou declarados a partir de 1.1.2003. |  |\n\nQuadro 5 Codificação da segmentação\n\n| 1. *Data do acontecimento anterior a 31.12.2002* |  |\n| --- | --- |\n| Frota | Códigos do segmento |\n| Estados-Membros | Códigos POP |\n| 2. *Data do acontecimento posterior a 1.1.2003* |  |\n| Segmentos de frota | Códigos do segmento |\n| **Continente** | MFL |\n| **Aquicultura** | AQU |\n| **Espanha — regiões ultraperiféricas:** |  |\n| Ilhas Canárias. Comprimento < 12 m. Águas da UE | CA1 |\n| Ilhas Canárias. Comprimento > 12 m. Águas da UE | CA2 |\n| Ilhas Canárias. Comprimento > 12 m. Águas internacionais e de países terceiros | CA3 |\n| **França — regiões ultraperiféricas:** |  |\n| Reunião. Espécies demersais e pelágicas. Comprimento < 12m | 4FC |\n| Reunião. Espécies pelágicas. Comprimento > 12m | 4FD |\n| Guiana francesa. Espécies demersais e pelágicas. Comprimento < 12m | 4FF |\n| Guiana francesa. Navios de pesca do camarão. | 4FG |\n| Guiana francesa. Espécies pelágicas. Navios de pesca do largo. | 4FH |\n| Martinica. Espécies demersais e pelágicas. Comprimento < 12m | 4FJ |\n| Martinica. Espécies pelágicas. Comprimento > 12m | 4FK |\n| Guadalupe. Espécies demersais e pelágicas. Comprimento < 12m | 4FL |\n| Guadalupe. Espécies pelágicas. Comprimento > 12m | 4FM |\n| Maiote. Cercadores | 4FN |\n| Maiote. Palangreiros mecânicos < 23 m. | 4FO |\n| Maiote. Espécies demersais e pelágicas. Navios < 10 m | 4FP |\n| **Portugal — regiões ultraperiféricas:** |  |\n| Madeira. Espécies demersais. Comprimento < 12m | 4K6 |\n| Madeira. Espécies demersais e pelágicas. Comprimento > 12m | 4K7 |\n| Madeira. Espécies pelágicas. Comprimento > 12m | 4K8 |\n| Açores. Espécies demersais. Comprimento < 12m | 4K9 |\n| Açores. Espécies demersais e pelágicas. Comprimento > 12m | 4KA |\n\nQuadro 6 Codificação do tipo de exportação\n\nExportação ou transferência intracomunitária EX\n\nExportação no quadro de uma sociedade mista SM\n\nQuadro 7 Código da ajuda pública\n\nAjuda não co-financiada pela Comunidade AE\n\nAjuda co-financiada pela Comunidade AC\n\nNenhuma ajuda pública PA\n\nAjuda para a substituição do motor, sob reserva de redução da potência (opção individual) EI\n\nAjuda para a substituição do motor, sob reserva de redução da potência (opção de grupo) EG"
+  },
+  "607064a5dfecca08": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n|  | Entrada na frota | Na frota | Saída da frota |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | CEN | CST | CHA | IMP | MOD | DES | RET | EXP |\n| País de registo | X | X | X | X | X | X | X | X |\n| CFR | X | X | X | X | X | X | X | X |\n| Código do acontecimento | X | X | X | X | X | X | X | X |\n| Data do acontecimento | X | X | X | X | X | X | X | X |\n| Indicador de licença [(^1^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0019) | X | X | X | X | X | X | X | X |\n| Número de registo | X | X | X | X | X | X | X | X |\n| Marcação externa | X | X | X | X | X | X | X | X |\n| Nome do navio | X | X | X | X | X | X | X | X |\n| Porto de registo | X | X | X | X | X | X | X | X |\n| Indicativo IRCS | X | X | X | X | X | X | X | X |\n| IRCS [(^2^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0020) | X | X | X | X | X | X | X | X |\n| Indicador VMS [(^1^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0019) | X | X | X | X | X | X | X | X |\n| Arte de pesca principal | X | X | X | X | X | X | X | X |\n| Arte de pesca secundária | X | X | X | X | X | X | X | X |\n| LOA [(^1^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0019) [(^3^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0021) | X | X | X | X | X | X | X | X |\n| LBP [(^3^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0021) | X | X | X | X | X | X | X | X |\n| Arqueação GT [(^4^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0022) [(^5^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0023) | X | X | X | X | X | X | X | X |\n| Outra arqueação [(^4^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0022) | X | X | X | X | X | X | X | X |\n| GTs | X | X | X | X | X | X | X | X |\n| Potência principal | X | X | X | X | X | X | X | X |\n| Potência auxiliar | X | X | X | X | X | X | X | X |\n| Material do casco | X | X | X | X | X | X | X | X |\n| Ano de entrada em serviço [(^6^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0024) | X | [(^1^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0019) | [(^1^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0019) | [(^1^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0019) | X | X | X | X |\n| Mês de entrada em serviço | X | [(^1^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0019) | [(^1^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0019) | [(^1^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0019) | X | X | X | X |\n| Dia de entrada em serviço | X | [(^1^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0019) | [(^1^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0019) | [(^1^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0019) | X | X | X | X |\n| Segmento | X | X | X | X | X | X | X | X |\n| País de importação/exportação | — | — | — | X | — | — | — | X |\n| Tipo de exportação [(^1^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0019) | — | — | — | — | — | — | — | X |\n| Código da ajuda pública | — | X | X | X | [(^11^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0029) | X | X | X |\n| Data da decisão administrativa [(^12^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0030) | — | X | X | X | — | — | — | — |\n| Segmento objecto da decisão administrativa [(^10^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0028) | — | X | X | X | — | — | — | — |\n| Ano de construção [(^6^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0024) | X | X | X | X | X | X | X | X |\n| Local de construção [(^5^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0023) [(^8^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0026) | X | X | X | X | X | X | X | X |\n| Nome do armador [(^5^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0023) [(^7^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0025) | X | X | X | X | X | X | X | X |\n| Endereço do armador [(^5^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0023) [(^7^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0025) | X | X | X | X | X | X | X | X |\n| Indicador Proprietário | X | X | X | X | X | X | X | X |\n| Nome do proprietário [(^5^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0023) [(^8^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0026) [(^9^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0027) | X | X | X | X | X | X | X | X |\n| Endereço do proprietário [(^5^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0023) [(^8^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0026) [(^9^)](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#E0027) | X | X | X | X | X | X | X | X |\n| (^1^)Dado obrigatório para todos os navios da frota ou declarados a partir de 1.1.2003. (^2^)Campo vazio se o «Indicativo IRCS» for «N». (^3^)Para os acontecimentos anteriores a 31.12.2002, deve ser declarado um dos dois comprimentos. (^4^)Para os acontecimentos anteriores a 31.12.2003, deve ser declarada uma das duas arqueações. (^5^)Dado obrigatório para todos os navios da frota ou declarados a partir de 1.1.2004. (^6^)Para os acontecimentos anteriores a 31.12.2002, deve ser declarado o ano de entrada em serviço ou de construção. (^7^)Dado obrigatório para todos os navios da frota ou declarados a partir de 1.1.2003 cujo comprimento de fora a fora seja igual ou superior a 15 metros ou cujo comprimento entre perpendiculares seja igual ou superior a 12 metros. (^8^)Dado obrigatório para todos os navios da frota ou declarados a partir de 1.1.2003 cujo comprimento de fora a fora seja igual ou superior a 27 metros ou cujo comprimento entre perpendiculares seja igual ou superior a 24 metros. (^9^)Campo vazio se o «Indicador Proprietário» for «Y». (^10^)A preencher unicamente para as entradas na frota a partir de 1.1.2003 na sequência de decisões administrativas adoptadas entre 1.1.2000 e 31.12.2002. (^11^)Dado obrigatório unicamente nos casos de aumento de arqueação autorizado por razões de segurança. (^12^)A preencher unicamente para as entradas na frota a partir de 1.1.2003 na sequência de decisões administrativas adoptadas a partir de 1.1.2000. |  |  |  |  |  |  |  |  |\n\n---"
+  },
+  "73214a32016e9228": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#src.E0001)) JO L 358 de 31.12.2002, p. 59.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#src.E0002)) JO L 274 de 25.9.1986, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#src.E0003)) JO L 339 de 29.12.1994, p. 11.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#src.E0004)) JO L 132 de 21.5.1987, p. 9.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#src.E0005)) JO L 8 de 12.1.2001, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#src.E0006)) JO L 266 de 1.10.1998, p. 27.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#src.E0007)) JO L 134 de 22.5.2002, p. 5.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/fff86353-8a77-4071-aee8-9243844bb169.0015.02/DOC_1#src.E0008)) JO L 337 de 30.12.1999, p. 10."
+  },
+  "c77b242c2c68a4bd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02004R0026 — PT — 01.02.2018 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32004R0026) [REGULAMENTO (CE) N.º 26/2004 DA COMISSÃO](http://publications.europa.eu/resource/celex/32004R0026) [de 30 de Dezembro de 2003](http://publications.europa.eu/resource/celex/32004R0026) [relativo ao ficheiro da frota de pesca comunitária](http://publications.europa.eu/resource/celex/32004R0026) (JO L 005, 9.1.2004, p.25)\n\n**revogado por:**\n\n- [Regulamento de Execução (UE) 2017/218 da Comissão de 6 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0218) — L 34 — 9 — 9.2.2017"
+  }
+ }
+}

@@ -33,6 +33,132 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-01-09'
+version_history:
+  file: diretiva-ue-2002-56.versoes.json
+  count: 9
+  source_lastmod: '2024-01-09'
+  versions:
+  - date: '2002-07-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-12-16'
+    amending: eu:celex:32003D0066:por
+    amending_title: M1; DIRECTIVA 2003/61/CE DO CONSELHO de 18 de Junho de 2003; DECISÃO DA COMISSÃO de 14 de Dezembro de
+      2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 25.º
+    - Altera Artigo 31.º
+    - Adita ANEXO I
+    - Adita CONDIÇÕES MÍNIMAS A QUE DEVE OBEDECER A BATATA DE SEMENTE
+    - Adita ANEXO II
+    - Adita CONDIÇÕES MÍNIMAS DE QUALIDADE DOS LOTES DE BATATA DE SEMENTE
+    - Adita ANEXO III
+    - Adita ETIQUETA
+    - Adita A. Indicações prescritas
+    - Adita B. Dimensões mínimas
+    - Adita ANEXO IV
+    - Adita PARTE A
+    - Adita DIRECTIVA REVOGADA E SUAS ALTERAÇÕES SUCESSIVAS
+    - Adita (referida no artigo 29.º)
+    - Adita PARTE B
+    - Adita LISTA DOS PRAZOS DE TRANSPOSIÇÃO PARA O DIREITO NACIONAL
+    - Adita (referidos no artigo 29.º)
+    - Adita ANEXO V
+    - Adita QUADRO DE CORRESPONDÊNCIA
+    - Adita Notas
+    - Suprime ANEXO I — CONDIÇÕES MÍNIMAS A QUE DEVE OBEDECER A BATATA DE SEMENTE
+    - Suprime ANEXO II — CONDIÇÕES MÍNIMAS DE QUALIDADE DOS LOTES DE BATATA DE SEMENTE
+    - Suprime ANEXO III — ETIQUETA
+    - Suprime ANEXO IV — PARTE A
+    - Suprime PARTE B — LISTA DOS PRAZOS DE TRANSPOSIÇÃO PARA O DIREITO NACIONAL
+    - Suprime ANEXO V — QUADRO DE CORRESPONDÊNCIA
+  - date: '2008-12-23'
+    amending: eu:celex:32008D0973:por
+    amending_title: DECISÃO DA COMISSÃO de 15 de Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 13.º
+    - Altera Artigo 21.º
+    - Altera Artigo 25.º
+    - Altera CONDIÇÕES MÍNIMAS DE QUALIDADE DOS LOTES DE BATATA DE SEMENTE
+    - Altera PARTE A
+    - Altera PARTE B
+    - Altera ANEXO V
+    - Altera Notas
+    - Suprime DIRECTIVA REVOGADA E SUAS ALTERAÇÕES SUCESSIVAS
+    - Suprime (referida no artigo 29.º)
+    - Suprime LISTA DOS PRAZOS DE TRANSPOSIÇÃO PARA O DIREITO NACIONAL
+    - Suprime (referidos no artigo 29.º)
+    - Suprime QUADRO DE CORRESPONDÊNCIA
+  - date: '2011-12-09'
+    amending: eu:celex:32011D0820:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 7 de Dezembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 21.º
+    - Altera Artigo 25.º
+    - Altera PARTE B
+    - Altera ANEXO V
+    - Altera Notas
+  - date: '2014-01-07'
+    amending: eu:celex:32013L0063:por
+    amending_title: DIRETIVA DE EXECUÇÃO 2013/63/UE DA COMISSÃO Texto relevante para efeitos do EEE de 17 de Dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 21.º
+    - Altera Artigo 25.º
+    - Altera CONDIÇÕES MÍNIMAS A QUE DEVE OBEDECER A BATATA DE SEMENTE
+    - Altera CONDIÇÕES MÍNIMAS DE QUALIDADE DOS LOTES DE BATATA DE SEMENTE
+    - Altera PARTE B
+    - Altera ANEXO V
+    - Altera Notas
+  - date: '2014-06-18'
+    amending: eu:celex:32014D0367:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 16 de junho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 21.º
+    - Altera Artigo 25.º
+    - Altera PARTE B
+    - Altera ANEXO V
+    - Altera Notas
+  - date: '2017-04-01'
+    amending: eu:celex:32016L0317:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2016/317 DA COMISSÃO Texto relevante para efeitos do EEE de 3 de março de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 21.º
+    - Altera Artigo 25.º
+    - Altera A. Indicações prescritas
+    - Altera PARTE B
+    - Altera ANEXO V
+    - Altera Notas
+  - date: '2020-02-16'
+    amending: eu:celex:32019D0119:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2019/119 DA COMISSÃO de 24 de janeiro de 2019; DIRETIVA DE EXECUÇÃO (UE) 2020/177
+      DA COMISSÃO Texto relevante para efeitos do EEE de 11 de fevereiro de 2020
+    changes:
+    - Altera Artigo 21.º
+    - Altera Artigo 25.º
+    - Altera CONDIÇÕES MÍNIMAS A QUE DEVE OBEDECER A BATATA DE SEMENTE
+    - Altera CONDIÇÕES MÍNIMAS DE QUALIDADE DOS LOTES DE BATATA DE SEMENTE
+    - Altera PARTE B
+    - Altera ANEXO V
+    - Altera Notas
+  - date: '2024-01-09'
+    amending: eu:celex:32024D0202:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2024/202 DA COMISSÃO de 8 de janeiro de 2024
+    changes:
+    - Altera Artigo 21.º
+    - Altera Artigo 25.º
+    - Altera PARTE B
+    - Altera ANEXO V
+    - Altera Notas
 identifiers:
   celex: 32002L0056
   eli: http://data.europa.eu/eli/dir/2002/56/oj
@@ -47,7 +173,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a71d473c-ddf5-40e5-9d5b-22180132315d.0010
   content_url: http://publications.europa.eu/resource/cellar/3a08febd-ca7b-11ee-95d9-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0056-20240109
-  retrieved_at: '2026-10-22T02:47:27Z'
+  retrieved_at: '2026-10-22T14:51:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-04T11:39:41.903+02:00'
 integrity:
@@ -56,9 +182,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:27Z'
-  notes: Texto consolidado 02002L0056-20240109.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:55Z'
+  notes: 9 versão(ões); histórico completo em diretiva-ue-2002-56.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -246,39 +372,21 @@ relationships:
   date: '1966-07-11'
 article_structure:
   article_count: 31
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:27Z'
-  warnings: []
+  checked_at: '2026-10-22T14:51:55Z'
+  warnings:
+  - '02002L0056-20030130: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002L0056-20030710: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 2002/56/CE do Conselho, de 13 de Junho de 2002
-
-> 02002L0056 — PT — 09.01.2024 — 011.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32003D0066) — [DECISÃO DA COMISSÃO de 28 de Janeiro de 2003](http://publications.europa.eu/resource/celex/32003D0066) — L 25 — 42 — 30.1.2003
-- [►M2](http://publications.europa.eu/resource/celex/32003L0061) — [DIRECTIVA 2003/61/CE DO CONSELHO de 18 de Junho de 2003](http://publications.europa.eu/resource/celex/32003L0061) — L 165 — 23 — 3.7.2003
-- [M3](http://publications.europa.eu/resource/celex/32005D0908) — [DECISÃO DA COMISSÃO de 14 de Dezembro de 2005](http://publications.europa.eu/resource/celex/32005D0908) — L 329 — 37 — 16.12.2005
-- [M4](http://publications.europa.eu/resource/celex/32008D0973) — [DECISÃO DA COMISSÃO de 15 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008D0973) — L 345 — 90 — 23.12.2008
-- [M5](http://publications.europa.eu/resource/celex/32011D0820) — [DECISÃO DE EXECUÇÃO DA COMISSÃO de 7 deDezembro de 2011](http://publications.europa.eu/resource/celex/32011D0820) — L 327 — 66 — 9.12.2011
-- [M6](http://publications.europa.eu/resource/celex/32013L0063) — [DIRETIVA DE EXECUÇÃO 2013/63/UE DA COMISSÃO de 17 deDezembro de 2013](http://publications.europa.eu/resource/celex/32013L0063) — L 341 — 52 — 18.12.2013
-- [M7](http://publications.europa.eu/resource/celex/32014D0367) — [DECISÃO DE EXECUÇÃO DA COMISSÃO de 16 dejunho de 2014](http://publications.europa.eu/resource/celex/32014D0367) — L 178 — 26 — 18.6.2014
-- [►M8](http://publications.europa.eu/resource/celex/32016L0317) — [DIRETIVA DE EXECUÇÃO (UE) 2016/317 DA COMISSÃO de 3 de março de 2016](http://publications.europa.eu/resource/celex/32016L0317) — L 60 — 72 — 5.3.2016
-- [M9](http://publications.europa.eu/resource/celex/32019D0119) — [DECISÃO DE EXECUÇÃO (UE) 2019/119 DA COMISSÃO de 24 de janeiro de 2019](http://publications.europa.eu/resource/celex/32019D0119) — L 24 — 26 — 28.1.2019
-- [►M10](http://publications.europa.eu/resource/celex/32020L0177) — [DIRETIVA DE EXECUÇÃO (UE) 2020/177 DA COMISSÃO de 11 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020L0177) — L 41 — 1 — 13.2.2020
-- [►M11](http://publications.europa.eu/resource/celex/32024D0202) — [DECISÃO DE EXECUÇÃO (UE) 2024/202 DA COMISSÃO de 8 de janeiro de 2024](http://publications.europa.eu/resource/celex/32024D0202) — L — 1 — 9.1.2024
-
-## DIRECTIVA 2002/56/CE DO CONSELHO
 
 de 13 de Junho de 2002
 

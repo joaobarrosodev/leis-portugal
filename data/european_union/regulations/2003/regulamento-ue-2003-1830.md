@@ -36,6 +36,46 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-26'
+version_history:
+  file: regulamento-ue-2003-1830.versoes.json
+  count: 3
+  source_lastmod: '2019-07-26'
+  versions:
+  - date: '2003-10-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-11'
+    amending: eu:celex:32008R1137:por
+    amending_title: REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE22 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Regras de rastreabilidade e de rotulagem aplicáveis aos produtos que contenham ou sejam constituídos
+      por OGM
+    - Altera Artigo 7.º — Alteração da Directiva 2001/18/CE
+    - Altera Artigo 10.º — Comité
+    - Altera Artigo 13.º — Entrada em vigor
+    - Adita A. RASTREABILIDADE
+    - Adita B. ROTULAGEM
+    - Adita C. ISENÇÕES
+    - Adita Artigo 8.º
+    - Adita Notas
+    - Suprime Artigo 8.º — Identificadores únicos
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 10.º — Comité
+    - Altera Artigo 13.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 8.º — Identificadores únicos
+    - Adita Artigo 9.º-A — Exercício da delegação
+    - Suprime Artigo 8.º
 identifiers:
   celex: 32003R1830
   eli: http://data.europa.eu/eli/reg/2003/1830/oj
@@ -50,7 +90,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f298e6b4-796e-4d81-bfeb-7ffb728c194f.0010
   content_url: http://publications.europa.eu/resource/cellar/ac37d1d8-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R1830-20190726
-  retrieved_at: '2026-10-22T02:40:36Z'
+  retrieved_at: '2026-10-22T14:56:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T17:04:59.891+01:00'
 integrity:
@@ -59,9 +99,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:36Z'
-  notes: Texto consolidado 02003R1830-20190726.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:02Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2003-1830.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -160,30 +200,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/9fdfc82a-7e73-4b53-b1d4-e2b77747d846
 article_structure:
   article_count: 14
-  section_count: 3
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 4
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:36Z'
+  checked_at: '2026-10-22T14:56:02Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 1830/2003 do Parlamento Europeu e do Conselho, de 22 de Setembro de 2003
-
-> 02003R1830 — PT — 26.07.2019 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [►M2](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-## REGULAMENTO (CE) N.º 1830/2003 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 22 de Setembro de 2003
 

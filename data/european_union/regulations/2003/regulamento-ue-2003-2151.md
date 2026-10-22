@@ -35,6 +35,27 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2003-12-20'
+version_history:
+  file: regulamento-ue-2003-2151.versoes.json
+  count: 2
+  source_lastmod: '2003-12-20'
+  versions:
+  - date: '2003-12-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-12-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I — VOCABULÁRIO COMUM PARA OS CONTRATOS PÚBLICOS (CPV)
+    - Altera ANEXO II — ALTERAÇÕES AOS CÓDIGOS CPV OU DESCRIÇÕES DO ANEXO DO REGULAMENTO (CE) N.o 2195/2002
+    - Altera ANEXO III
+    - Altera ANEXO IV — ALTERAÇÕES AO ANEXO IV DO REGULAMENTO (CE) N.o 2195/2002
+    - Altera ANEXO V — ALTERAÇÕES AOS CÓDIGOS CPV OU DESCRIÇÕES DO ANEXO DO REGULAMENTO (CE) N.o 2195/2002
+    - Adita Artigo 2.º — [▼C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:20::NOT)
+    - Suprime Artigo 2.º
 identifiers:
   celex: 32003R2151
   eli: http://data.europa.eu/eli/reg/2003/2151/oj
@@ -49,7 +70,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/bad23a18-e7b3-41d2-92c1-8b688ccead2d.0010
   content_url: http://publications.europa.eu/resource/cellar/b9121aea-44bc-4902-ba18-fde8a6790e5c.0010.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R2151-20031220
-  retrieved_at: '2026-10-22T02:42:36Z'
+  retrieved_at: '2026-10-22T14:56:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T12:53:17.424+01:00'
 integrity:
@@ -58,9 +79,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:36Z'
-  notes: Texto consolidado 02003R2151-20031220.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:15Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2003-2151.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -132,15 +153,14 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 5
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:36Z'
-  warnings:
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:56:15Z'
+  warnings: []
   errors: []
 ---
 

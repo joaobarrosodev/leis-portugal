@@ -38,6 +38,34 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2002-12-19'
+version_history:
+  file: diretiva-ue-1995-26.versoes.json
+  count: 2
+  source_lastmod: '2002-12-19'
+  versions:
+  - date: '1995-07-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-12-19'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2
+    - Adita Artigo 3
+    - Adita Artigo 4
+    - Adita Artigo 5
+    - Adita Artigo 6
+    - Adita Artigo 7
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
 identifiers:
   celex: 31995L0026
   eli: http://data.europa.eu/eli/dir/1995/26/oj
@@ -52,7 +80,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9248cf5e-cce3-4540-a3b8-82681ce0ec1e.0011
   content_url: http://publications.europa.eu/resource/cellar/6e9c8dad-4dba-480f-b05d-248ad0e059c7.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0026-20021219
-  retrieved_at: '2026-10-22T02:46:58Z'
+  retrieved_at: '2026-10-22T14:44:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-16T09:57:50.180+02:00'
 integrity:
@@ -61,9 +89,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:58Z'
-  notes: Texto consolidado 01995L0026-20021219.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:44:03Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1995-26.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -159,15 +187,15 @@ relationships:
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:58Z'
+  checked_at: '2026-10-22T14:44:03Z'
   warnings:
-  - Não foi detetado o título principal no XHTML.
+  - '01995L0026-20000615: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

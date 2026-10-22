@@ -34,6 +34,113 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-11-20'
+version_history:
+  file: diretiva-ue-1992-29.versoes.json
+  count: 5
+  source_lastmod: '2019-11-20'
+  versions:
+  - date: '1992-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-28'
+    amending: eu:celex:32003R1882:por
+    amending_title: REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003; DIRECTIVA
+      2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007
+    changes:
+    - Adita preambulo
+    - Adita Artigo 1.º — Definições
+    - Adita Artigo 2.º — Medicamentos e material médico — Local dos cuidados médicos — Médico
+    - Adita Artigo 3.º — Antídotos
+    - Adita Artigo 4.º — Responsabilidades
+    - Adita Artigo 5.º — Informação e formação
+    - Adita Artigo 6.º — Consultas médicas via rádio
+    - Adita Artigo 7.º — Controlo
+    - Adita Artigo 8.º — Comité
+    - Adita Artigo 9.º — Disposições finais
+    - Adita Artigo 9.º-A — Relatório de aplicação
+    - Adita Artigo 10.º
+    - Adita ANEXO I
+    - Adita CATEGORIAS DE NAVIOS
+    - Adita [Alínea a) do artigo 1.º]
+    - Adita ANEXO II
+    - Adita DOTAÇÃO MÉDICA (LISTA NÃO EXAUSTIVA)
+    - Adita [Alínea d) do artigo 1.º]
+    - Adita I. MEDICAMENTOS
+    - Adita II. MATERIAL MÉDICO
+    - Adita III. ANTÍDOTOS
+    - Adita 1. Medicamentos
+    - Adita 2. Material médico
+    - Adita Observação
+    - Adita ANEXO III
+    - Adita MATÉRIAS PERIGOSAS
+    - Adita [Alínea e) do artigo 1.º, n.º 1 do artigo 3.º]
+    - Adita ANEXO IV
+    - Adita QUADRO GERAL DESTINADO AO CONTROLO DAS DOTAÇÕES MÉDICAS DOS NAVIOS
+    - Adita [N.º 1, alínea c), do artigo 2.º e n.º 3 do artigo 3.º]
+    - Adita SECÇÃO A. NAVIOS DA CATEGORIA A
+    - Adita I. Identificação do navio
+    - Adita II. Dotação médica
+    - Adita SECÇÃO B. NAVIOS DA CATEGORIA B
+    - Adita SECÇÃO C. NAVIOS DA CATEGORIA C
+    - Adita ANEXO V
+    - Adita FORMAÇÃO MÉDICA DO COMANDANTE E DOS TRABALHADORES DESIGNADOS
+    - Adita (N.º 3 do artigo 5.º)
+    - Adita Notas
+  - date: '2008-12-11'
+    amending: eu:celex:32008R1137:por
+    amending_title: REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera [Alínea a) do artigo 1.º]
+    - Altera II. MATERIAL MÉDICO
+    - Altera Notas
+    - Adita Artigo 8.º
+    - Suprime Artigo 8.º — Comité
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera [Alínea a) do artigo 1.º]
+    - Altera II. MATERIAL MÉDICO
+    - Altera Notas
+    - Adita Artigo 8.º — Alteração dos anexos
+    - Adita Artigo 8.º-A — Exercício da delegação
+    - Adita Artigo 8.º-B — Procedimento de urgência
+    - Suprime Artigo 8.º
+  - date: '2019-11-20'
+    amending: eu:celex:32019L1834:por
+    amending_title: DIRETIVA (UE) 2019/1834 DA COMISSÃO de 24 de outubro de 2019
+    changes:
+    - Altera Artigo 8.º-A — Exercício da delegação
+    - Altera [Alínea a) do artigo 1.º]
+    - Altera I. MEDICAMENTOS
+    - Altera II. MATERIAL MÉDICO
+    - Altera III. ANTÍDOTOS
+    - Altera Notas
+    - Adita Dotação médica (lista não exaustiva) ()
+    - Adita [Artigo 1.º, alínea d)]
+    - Adita Quadro Geral Destinado ao Controlo das Dotações Médicas dos Navios
+    - Adita [Artigo 2.º, n.º 1, alínea c), e artigo 3.º, n.º 3]
+    - Adita SECÇÃO A
+    - Adita NAVIOS DA CATEGORIA A
+    - Adita II. Dotações médicas
+    - Adita SECÇÃO B
+    - Adita NAVIOS DA CATEGORIA B
+    - Adita SECÇÃO C
+    - Adita NAVIOS DA CATEGORIA C
+    - Suprime DOTAÇÃO MÉDICA (LISTA NÃO EXAUSTIVA)
+    - Suprime [Alínea d) do artigo 1.º]
+    - Suprime 1. Medicamentos
+    - Suprime 2. Material médico
+    - Suprime Observação
+    - Suprime QUADRO GERAL DESTINADO AO CONTROLO DAS DOTAÇÕES MÉDICAS DOS NAVIOS
+    - Suprime [N.º 1, alínea c), do artigo 2.º e n.º 3 do artigo 3.º]
+    - Suprime SECÇÃO A. NAVIOS DA CATEGORIA A
+    - Suprime II. Dotação médica
+    - Suprime SECÇÃO B. NAVIOS DA CATEGORIA B
+    - Suprime SECÇÃO C. NAVIOS DA CATEGORIA C
 identifiers:
   celex: 31992L0029
   eli: http://data.europa.eu/eli/dir/1992/29/oj
@@ -48,7 +155,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/902b2a1d-a441-478b-990d-868c804b1b7a.0011
   content_url: http://publications.europa.eu/resource/cellar/e0a2bf9b-32d0-11ea-ba6e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0029-20191120
-  retrieved_at: '2026-10-22T02:41:06Z'
+  retrieved_at: '2026-10-22T14:40:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T03:33:38.245+01:00'
 integrity:
@@ -57,9 +164,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:06Z'
-  notes: Texto consolidado 01992L0029-20191120.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:40:44Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-1992-29.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -147,33 +254,20 @@ relationships:
   source: null
 article_structure:
   article_count: 13
-  section_count: 30
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 31
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:06Z'
-  warnings: []
+  checked_at: '2026-10-22T14:40:44Z'
+  warnings:
+  - '01992L0029-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 92/29/CEE do Conselho, de 31 de Março de 1992
-
-> 01992L0029 — PT — 20.11.2019 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32003R1882) — [REGULAMENTO (CE) N.º 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
-- [►M2](http://publications.europa.eu/resource/celex/32007L0030) — [DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007](http://publications.europa.eu/resource/celex/32007L0030) — L 165 — 21 — 27.6.2007
-- [M3](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [►M4](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [►M5](http://publications.europa.eu/resource/celex/32019L1834) — [DIRETIVA (UE) 2019/1834 DA COMISSÃO de 24 de outubro de 2019](http://publications.europa.eu/resource/celex/32019L1834) — L 279 — 80 — 31.10.2019
-
-## DIRECTIVA 92/29/CEE DO CONSELHO
 
 de 31 de Março de 1992
 

@@ -1,0 +1,179 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003L0023:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0023-20110614",
+ "dre_path": null,
+ "source_lastmod": "2011-06-14",
+ "versions": [
+  {
+   "date": "2003-03-28",
+   "future": false,
+   "celex": "32003L0023",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "00cc25d353ce8ff9",
+    "23ff42845a23918b",
+    "b1ec011125afc556",
+    "b08a1a29001d3c41",
+    "2ca6f2797f57e31a",
+    "2fc2e1a1888f5639",
+    "d2ee7a2ac029d8ca"
+   ]
+  },
+  {
+   "date": "2009-12-02",
+   "future": false,
+   "celex": "02003L0023-20091202",
+   "acts": [
+    {
+     "id": "eu:celex:32009D0874:por",
+     "title": "DECISÃO DA COMISSÃO de 30 de Novembro de 2009",
+     "published": null,
+     "celex": "32009D0874"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º",
+    "Altera ANEXO",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "4adbbee755569bd6",
+    "23ff42845a23918b",
+    "b1ec011125afc556",
+    "c301932989f41a1b",
+    "2ca6f2797f57e31a",
+    "c2768784123201be",
+    "bf183f93222b7074",
+    "6e8745a404738d20"
+   ]
+  },
+  {
+   "date": "2011-06-14",
+   "future": false,
+   "celex": "02003L0023-20110614",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "954a7363e2a02199"
+   ]
+  }
+ ],
+ "fragments": {
+  "00cc25d353ce8ff9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2003/23/CE da Comissão, de 25 de Março de 2003, que altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir as substâncias activas imazamox, oxasulfurão, etoxisulfurão, foramsulfurão, oxadiargil e ciazofamida (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 081 de 28/03/2003 p. 0039 - 0042*\n\nDirectiva 2003/23/CE da Comissão\n\nde 25 de Março de 2003\n\nque altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir as substâncias activas imazamox, oxasulfurão, etoxisulfurão, foramsulfurão, oxadiargil e ciazofamida\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado(1), com a última redacção que lhe foi dada pela Directiva 2002/81/CE da Comissão(2), e, nomeadamente, o n.o 1 do seu artigo 6.o,\n\nConsiderando o seguinte:\n\n(1) Em conformidade com o n.o 2 do artigo 6.o da Directiva 91/414/CEE, a França recebeu, em 2 de Dezembro de 1997, um pedido da empresa Cyanamid NV/SA (actualmente BASF AG) com vista à inclusão da substância activa imazamox no anexo I da Directiva 91/414/CEE. A Decisão 1998/676/CE(3), confirmou a \"conformidade\" do processo, isto é, que este podia considerar-se satisfazer, em princípio, as exigências de dados e informações dos anexos II e III da Directiva 91/414/CEE.\n\n(2) A Itália recebeu, em 29 de Maio de 1998, um pedido similar da empresa Novartis Protezione Piante SpA (actualmente Syngenta), relativo ao oxasulfurão. O processo respectivo foi declarado conforme pela Decisão 1999/237/CE(4).\n\n(3) A Itália recebeu, em 3 de Julho de 1996, um pedido similar da empresa Hoechst Schering AgrEvo GmbH (actualmente Bayer Crop Science), relativo ao etoxisulfurão. O processo respectivo foi declarado conforme pela Decisão 97/591/CE(5).\n\n(4) A Alemanha recebeu, em 30 de Março de 2000, um pedido similar da empresa Aventis Crop Science (actualmente Bayer Crop Science), relativo ao foramsulfurão. O processo respectivo foi declarado conforme pela Decisão 2000/540/CE(6).\n\n(5) A Itália recebeu, em 16 de Junho de 1997, um pedido similar da empresa Rhône-Poulenc Agro SPA (actualmente Bater Crepe Science), relativo ao oxadiargil. O processo respectivo foi declarado conforme pela Decisão 98/398/CE(7).\n\n(6) A França recebeu, em 16 de Dezembro de 1999, um pedido similar da empresa Ishira Sangyo Kaisha Ltd, relativo à ciazofamida. O processo respectivo foi declarado conforme pela Decisão 2000/412/CE da Comissão(8).\n\n(7) Os efeitos destas substâncias activas na saúde humana e no ambiente foram avaliados em conformidade com os n.os 2 e 4 do artigo 6.o da Directiva 91/414/CEE, no que respeita às utilizações propostas pelos requerentes. Os Estados-Membros designados relatores apresentaram projectos de relatório de avaliação das substâncias à Comissão em 9 de Setembro de 1999 (imazamox), 10 de Maio de 2000 (oxasulfurão), 20 de Maio de 1998 (etoxisulfurão), 1 de Junho de 2001 (foramsulfurão), 20 de Julho de 1999 (oxadiargil) e 27 de Agosto de 2001 (ciazofamida).\n\n(8) Os projectos de relatório de avaliação foram examinados pelos Estados-Membros e pela Comissão no âmbito do Comité Permanente da Cadeia Alimentar e da Saúde Animal. Esse exame foi concluído em 3 de Dezembro de 2002 com a elaboração dos relatórios de revisão do imazamox, oxadiargil, oxasulfurão, etoxisulfurão, foramsulfurão e ciazofamida da Comissão.\n\n(9) A avaliação do imazamox, oxasulfurão, foramsulfurão, oxadiargil e ciazofamida não suscitou quaisquer dúvidas nem deixou questões pendentes, que justificassem a consulta do Comité Científico das Plantas.\n\n(10) Os documentos e informações sobre o etoxisulfurão foram igualmente apresentados ao Comité Científico das Plantas, em consulta separada. Numa primeira consulta, foi solicitado ao comité um comentário sobre a ocorrência de tumores uterinos na ratazana. No seu parecer(9), o Comité Científico das Plantas considerou o aumento da incidência de tumores uterinos na ratazana sem relevância em termos de risco humano, por ocorrer apenas a doses elevadas, acompanhadas de toxicidade geral pronunciada. Não foram considerados necessários outros estudos mecanísticos. Foi efectuada um consulta suplementar sobre o risco potencial para os organismos aquáticos. No seu segundo parecer(10), o comité concluiu pela existência de várias lacunas na avaliação do risco do etoxisulfurão para os organismos aquáticos, nomeadamente em relação aos organismos sedimentares. Também foi considerada incompleta a avaliação do risco representado pelo metabolito Hoe 136086 do etoxisulfurão para as plantas aquáticas e algas.\n\nO requerente forneceu subsequentemente estudos e informações suplementares, tendo o Estado-Membro relator efectuado uma revisão da avaliação de riscos da substância activa e dos produtos de degradação da mesma.\n\n(11) As avaliações efectuadas permitiram concluir poder presumir-se que os produtos fitofarmacêuticos que contêm as substâncias activas em causa satisfazem, em geral, as condições definidas no n.o 1, alíneas a) e b), e no n.o 3 do artigo 5.o da Directiva 91/414/CEE, designadamente no que respeita às utilizações examinadas em pormenor nos relatórios de avaliação da Comissão. É, portanto, adequado incluir essas substâncias activas no anexo I, para assegurar que, em cada Estado-Membro, as autorizações de produtos fitofarmacêuticos que as contenham possam ser concedidas em conformidade com a referida directiva.\n\n(12) Os relatórios de avaliação da Comissão são necessários para que os Estados-Membros possam aplicar correctamente várias secções dos princípios uniformes enunciados na Directiva 91/414/CEE. É, pois, conveniente estabelecer que, salvo no que respeita às informações confidenciais, na acepção do artigo 14.o da Directiva 91/414/CEE, os Estados-Membros mantenham os relatórios finais de revisão à disposição de todas as partes interessadas e lhes facultem a consulta dos mesmos.\n\n(13) Depois da inclusão, os Estados-Membros devem dispor de um período razoável para pôr em prática as disposições da Directiva 91/414/CEE em relação aos produtos fitofarmacêuticos que contenham imazamox, oxasulfurão, etoxisulfurão, foramsulfurão, oxadiargil ou ciazofamida, nomeadamente para reapreciarem as autorizações provisórias, transformando-as em autorizações plenas, alterando-as ou retirando-as, em conformidade com a Directiva 91/414/CEE, até ao final do referido período.\n\n(14) Há, portanto, que alterar a Directiva 91/414/CEE em conformidade.\n\n(15) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "23ff42845a23918b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 91/414/CEE é alterado em conformidade com o anexo da presente directiva."
+  },
+  "b1ec011125afc556": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros adoptarão e publicarão, o mais tardar em 31 de Dezembro de 2003, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Do facto informarão imediatamente a Comissão.\n\nOs Estados-Membros aplicarão essas disposições a partir de 1 de Janeiro de 2004.\n\nQuando os Estados-Membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros."
+  },
+  "b08a1a29001d3c41": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros reapreciarão as autorizações de cada produto fitofarmacêutico que contenha imazamox, oxasulfurão, etoxisulfurão, foramsulfurão, oxadiargil ou ciazofamida, de forma a garantir a observância das condições aplicáveis a essas substâncias activas, constantes do anexo I da Directiva 91/414/CEE. Se necessário, os Estados-Membros alterarão ou retirarão as autorizações, em conformidade com a Directiva 91/414/CEE, antes de 31 de Dezembro de 2003.\n\n2. Os Estados-Membros reavaliarão cada produto fitofarmacêutico autorizado que contenha imazamox, oxasulfurão, etoxisulfurão, foramsulfurão, oxadiargil ou ciazofamida, como única substância activa ou acompanhada de outras substâncias activas incluídas, até 30 de Junho de 2003, no anexo I da Directiva 91/414/CEE, em conformidade com os princípios uniformes enunciados no anexo VI dessa directiva, com base num processo que satisfaça os requisitos do anexo III da mesma. Na sequência dessa avaliação, os Estados-Membros determinarão se o produto satisfaz as condições estabelecidas no n.o 1, alíneas b), c), d) e e), do artigo 4.o da Directiva 91/414/CEE. Se necessário, os Estados-Membros alterarão ou retirarão a autorização respeitante a cada produto fitofarmacêutico em causa, até 31 de Dezembro de 2004."
+  },
+  "2ca6f2797f57e31a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor em 1 de Julho de 2003."
+  },
+  "2fc2e1a1888f5639": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 25 de Março de 2003.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 230 de 19.8.1991, p. 1.\n\n(2) JO L 276 de 12.10.2002, p. 28.\n\n(3) JO L 317 de 26.11.1998, p. 47.\n\n(4) JO L 87 de 31.3.1999, p. 15.\n\n(5) JO L 239 de 30.8.1997, p. 48.\n\n(6) JO L 230 de 12.9.2000, p. 14.\n\n(7) JO L 176 de 20.6.1998, p. 34.\n\n(8) JO L 155 de 28.6.2000, p. 62.\n\n(9) Parecer do Comité Científico das Plantas sobre a avaliação do etoxisulfurão no contexto da Directiva 91/414/CEE do Conselho relativa à colocação dos produtos fitofarmacêuticos no mercado (SCP/ETHOXY/002-final, adoptado em 22 de Setembro de 2000).\n\n(10) Parecer sobre a avaliação do etoxisulfurão (AE F095404) no contexto da Directiva 91/414/CEE do Conselho relativa à colocação dos produtos fitofarmacêuticos no mercado (SCP/ETHOXY/Bis/002, adoptado em 7 de Junho de 2001)."
+  },
+  "d2ee7a2ac029d8ca": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nAditar as seguintes substâncias no final do quadro do anexo I:\n\n\">POSIÇÃO NUMA TABELA>\""
+  },
+  "4adbbee755569bd6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Março de 2003\n\nque altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir as substâncias activas imazamox, oxasulfurão, etoxisulfurão, foramsulfurão, oxadiargil e ciazofamida\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado ([^1^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#E0001)), com a última redacção que lhe foi dada pela Directiva 2002/81/CE da Comissão ([^2^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#E0002)), e, nomeadamente, o n.º 1 do seu artigo 6.º,\n\n(1) Em conformidade com o n.º 2 do artigo 6.º da Directiva 91/414/CEE, a França recebeu, em 2 de Dezembro de 1997, um pedido da empresa Cyanamid NV/SA (actualmente BASF AG) com vista à inclusão da substância activa imazamox no anexo I da Directiva 91/414/CEE. A Decisão 1998/676/CE ([^3^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#E0003)), confirmou a «conformidade» do processo, isto é, que este podia considerar-se satisfazer, em princípio, as exigências de dados e informações dos anexos II e III da Directiva 91/414/CEE.\n\n(2) A Itália recebeu, em 29 de Maio de 1998, um pedido similar da empresa Novartis Protezione Piante SpA (actualmente Syngenta), relativo ao oxasulfurão. O processo respectivo foi declarado conforme pela Decisão 1999/237/CE ([^4^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#E0004)).\n\n(3) A Itália recebeu, em 3 de Julho de 1996, um pedido similar da empresa Hoechst Schering AgrEvo GmbH (actualmente Bayer Crop Science), relativo ao etoxisulfurão. O processo respectivo foi declarado conforme pela Decisão 97/591/CE ([^5^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#E0005)).\n\n(4) A Alemanha recebeu, em 30 de Março de 2000, um pedido similar da empresa Aventis Crop Science (actualmente Bayer Crop Science), relativo ao foramsulfurão. O processo respectivo foi declarado conforme pela Decisão 2000/540/CE ([^6^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#E0006)).\n\n(5) A Itália recebeu, em 16 de Junho de 1997, um pedido similar da empresa Rhône-Poulenc Agro SPA (actualmente Bater Crepe Science), relativo ao oxadiargil. O processo respectivo foi declarado conforme pela Decisão 98/398/CE ([^7^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#E0007)).\n\n(6) A França recebeu, em 16 de Dezembro de 1999, um pedido similar da empresa Ishira Sangyo Kaisha Ltd, relativo à ciazofamida. O processo respectivo foi declarado conforme pela Decisão 2000/412/CE da Comissão ([^8^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#E0008)).\n\n(7) Os efeitos destas substâncias activas na saúde humana e no ambiente foram avaliados em conformidade com os n.^os^ 2 e 4 do artigo 6.º da Directiva 91/414/CEE, no que respeita às utilizações propostas pelos requerentes. Os Estados-Membros designados relatores apresentaram projectos de relatório de avaliação das substâncias à Comissão em 9 de Setembro de 1999 (imazamox), 10 de Maio de 2000 (oxasulfurão), 20 de Maio de 1998 (etoxisulfurão), 1 de Junho de 2001 (foramsulfurão), 20 de Julho de 1999 (oxadiargil) e 27 de Agosto de 2001 (ciazofamida).\n\n(8) Os projectos de relatório de avaliação foram examinados pelos Estados-Membros e pela Comissão no âmbito do Comité Permanente da Cadeia Alimentar e da Saúde Animal. Esse exame foi concluído em 3 de Dezembro de 2002 com a elaboração dos relatórios de revisão do imazamox, oxadiargil, oxasulfurão, etoxisulfurão, foramsulfurão e ciazofamida da Comissão.\n\n(9) A avaliação do imazamox, oxasulfurão, foramsulfurão, oxadiargil e ciazofamida não suscitou quaisquer dúvidas nem deixou questões pendentes, que justificassem a consulta do Comité Científico das Plantas.\n\n(10) Os documentos e informações sobre o etoxisulfurão foram igualmente apresentados ao Comité Científico das Plantas, em consulta separada. Numa primeira consulta, foi solicitado ao comité um comentário sobre a ocorrência de tumores uterinos na ratazana. No seu parecer ([^9^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#E0009)), o Comité Científico das Plantas considerou o aumento da incidência de tumores uterinos na ratazana sem relevância em termos de risco humano, por ocorrer apenas a doses elevadas, acompanhadas de toxicidade geral pronunciada. Não foram considerados necessários outros estudos mecanísticos. Foi efectuada um consulta suplementar sobre o risco potencial para os organismos aquáticos. No seu segundo parecer ([^10^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#E0010)), o comité concluiu pela existência de várias lacunas na avaliação do risco do etoxisulfurão para os organismos aquáticos, nomeadamente em relação aos organismos sedimentares. Também foi considerada incompleta a avaliação do risco representado pelo metabolito Hoe 136086 do etoxisulfurão para as plantas aquáticas e algas. O requerente forneceu subsequentemente estudos e informações suplementares, tendo o Estado-Membro relator efectuado uma revisão da avaliação de riscos da substância activa e dos produtos de degradação da mesma.\n\n(11) As avaliações efectuadas permitiram concluir poder presumir-se que os produtos fitofarmacêuticos que contêm as substâncias activas em causa satisfazem, em geral, as condições definidas no n.º 1, alíneas a) e b), e no n.º 3 do artigo 5.º da Directiva 91/414/CEE, designadamente no que respeita às utilizações examinadas em pormenor nos relatórios de avaliação da Comissão. É, portanto, adequado incluir essas substâncias activas no anexo I, para assegurar que, em cada Estado-Membro, as autorizações de produtos fitofarmacêuticos que as contenham possam ser concedidas em conformidade com a referida directiva.\n\n(12) Os relatórios de avaliação da Comissão são necessários para que os Estados-Membros possam aplicar correctamente várias secções dos princípios uniformes enunciados na Directiva 91/414/CEE. É, pois, conveniente estabelecer que, salvo no que respeita às informações confidenciais, na acepção do artigo 14.º da Directiva 91/414/CEE, os Estados-Membros mantenham os relatórios finais de revisão à disposição de todas as partes interessadas e lhes facultem a consulta dos mesmos.\n\n(13) Depois da inclusão, os Estados-Membros devem dispor de um período razoável para pôr em prática as disposições da Directiva 91/414/CEE em relação aos produtos fitofarmacêuticos que contenham imazamox, oxasulfurão, etoxisulfurão, foramsulfurão, oxadiargil ou ciazofamida, nomeadamente para reapreciarem as autorizações provisórias, transformando-as em autorizações plenas, alterando-as ou retirando-as, em conformidade com a Directiva 91/414/CEE, até ao final do referido período.\n\n(14) Há, portanto, que alterar a Directiva 91/414/CEE em conformidade.\n\n(15) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "c301932989f41a1b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros reapreciarão as autorizações de cada produto fitofarmacêutico que contenha imazamox, oxasulfurão, etoxisulfurão, foramsulfurão, oxadiargil ou ciazofamida, de forma a garantir a observância das condições aplicáveis a essas substâncias activas, constantes do anexo I da Directiva 91/414/CEE. Se necessário, os Estados-Membros alterarão ou retirarão as autorizações, em conformidade com a Directiva 91/414/CEE, antes de 31 de Dezembro de 2003.\n\n2. Os Estados-Membros reavaliarão cada produto fitofarmacêutico autorizado que contenha imazamox, oxasulfurão, etoxisulfurão, foramsulfurão, oxadiargil ou ciazofamida, como única substância activa ou acompanhada de outras substâncias activas incluídas, até 30 de Junho de 2003, no anexo I da Directiva 91/414/CEE, em conformidade com os princípios uniformes enunciados no anexo VI dessa directiva, com base num processo que satisfaça os requisitos do anexo III da mesma. Na sequência dessa avaliação, os Estados-Membros determinarão se o produto satisfaz as condições estabelecidas no n.º 1, alíneas b), c), d) e e), do artigo 4.º da Directiva 91/414/CEE. Se necessário, os Estados-Membros alterarão ou retirarão a autorização respeitante a cada produto fitofarmacêutico em causa, até 31 de Dezembro de 2004."
+  },
+  "c2768784123201be": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "bf183f93222b7074": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n*Aditar as seguintes substâncias no final do quadro do anexo I:*\n\n| Número | Denominação comum — números de identificação | Denominação IUPAC | Pureza [(^1^)](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#E0011) | Entrada em vigor | Termo da inclusão | Disposições específicas |\n| --- | --- | --- | --- | --- | --- | --- |\n| «41 | Imazamox Número CAS: 114311-32-9 Número CIPAC: 619 | Ácido (±)-2-(4-isopropil-4-meti--5-oxo-2-imidazolin-2-il)-5-(metoximetil)nicotínico | 950 g/kg | 1.7.2003 | 30.6.2013 | Só serão autorizadas as utilizações como herbicida Na aplicação dos princípios uniformes enunciados no anexo VI, devem ser tidas em conta as conclusões da versão final, de 3 de Dezembro de 2002, do relatório de revisão do imazamox elaborado no quadro do Comité Permanente da Cadeia Alimentar e da Saúde Animal, nomeadamente os apêndices I e II do relatório Na avaliação global, os Estados-Membros estarão particularmente atentos ao potencial de contaminação das águas subterrâneas, quando a substância activa for aplicada em zonas com condições pedológicas e/ou climáticas vulneráveis. Se necessário, serão aplicadas medidas de redução do risco |\n| 42 | Oxasulfurão Número CAS: 144651-06-9 Número CIPAC: 626 | 2[(4,6-dimetilpirimidin-2-il) carbamoilsulfamoil]benzoato de oxetan-3-ilo | [**►M1**](http://publications.europa.eu/resource/celex/32009D0874) 930 g/kg**◄** | 1.7.2003 | 30.6.2013 | Só serão autorizadas as utilizações como herbicida Na aplicação dos princípios uniformes enunciados no anexo VI, devem ser tidas em conta as conclusões da versão final, de 3 de Dezembro de 2002, do relatório de revisão do oxasulfurão elaborado no quadro do Comité Permanente da Cadeia Alimentar e da Saúde Animal, nomeadamente os apêndices I e II do relatório — Os Estados-Membros estarão particularmente atentos à protecção das águas subterrâneas, quando a substância activa for aplicada em zonas com condições pedológicas e/ou climáticas vulneráveis Se necessário, serão aplicadas medidas de redução do risco |\n| 43 | Etoxisulfurão Número CAS: 126801-58-9 Número CIPAC: 591 | 3-(4,6-dimetoxipirimidin-2-il)-1-(2-etoxifenoxissulfonil)ureia | 950 g/kg | 1.7.2003 | 30.6.2013 | Só serão autorizadas as utilizações como herbicida Na aplicação dos princípios uniformes enunciados no anexo VI, devem ser tidas em conta as conclusões da versão final, de 3 de Dezembro de 2002, do relatório de revisão do etoxisulfurão elaborado no quadro do Comité Permanente da Cadeia Alimentar e da Saúde Animal, nomeadamente os apêndices I e II do relatório Na avaliação global, os Estados-Membros estarão particularmente atentos à protecção das plantas aquáticas e algas não-visadas, nos canais de drenagem. Se necessário, serão aplicadas medidas de redução do risco |\n| 44 | Foramsulfurão Número CAS: 173159-57-4 Número CIPAC: 659 | 1-(4,6-dimetoxipirimidin-2-il)-3-(2-dimetilcarbamoil-5-formamidofenilsulfonil)ureia | 940 g/kg | 1.7.2003 | 30.6.2013 | Só serão autorizadas as utilizações como herbicida Na aplicação dos princípios uniformes enunciados no anexo VI, devem ser tidas em conta as conclusões da versão final, de 3 de Dezembro de 2002, do relatório de revisão do foramsulfurão elaborado no quadro do Comité Permanente da Cadeia Alimentar e da Saúde Animal, nomeadamente os apêndices I e II do relatório Na avaliação global, os Estados-Membros estarão particularmente atentos à protecção das plantas aquáticas. Se necessário, serão aplicadas medidas de redução do risco |\n| 45 | Oxadiargil Número CAS: 39807-15-3 Número CIPAC: 604 | 5-*tert*-butil-3-(2,4-dicloro-5-propargiloxifenil)-1,3,4-oxadiazol-2-(3*H*)-ona | 980 g/kg | 1.7.2003 | 30.6.2013 | Só serão autorizadas as utilizações como herbicida Na aplicação dos princípios uniformes enunciados no anexo VI, devem ser tidas em conta as conclusões da versão final, de 3 de Dezembro de 2002, do relatório de revisão do oxadiargil elaborado no quadro do Comité Permanente da Cadeia Alimentar e da Saúde Animal, nomeadamente os apêndices I e II do relatório Na avaliação global, os Estados-Membros estarão particularmente atentos à protecção das algas e das plantas aquáticas. Se necessário, serão aplicadas medidas de redução do risco |\n| 46 | Ciazofamida Número CAS: 120116-88-3 Número CIPAC: 653 | 4-Cloro-2-ciano-*N*,*N*-dimetil-5-*P*-tolilimidazolo-1-sulfonamida | 935 g/kg | 1.7.2003 | 30.6.2013 | Só serão autorizadas as utilizações como fungicida Na aplicação dos princípios uniformes enunciados no anexo VI, devem ser tidas em conta as conclusões da versão final, de 3 de Dezembro de 2002, do relatório de revisão da ciazofamida elaborado no quadro do Comité Permanente da Cadeia Alimentar e da Saúde Animal, nomeadamente os apêndices I e II do relatório. Na avaliação global: — os Estados-Membros estarão particularmente atentos à protecção dos organismos aquáticos — os Estados-Membros estarão particularmente atentos à cinética de degradação do metabolito CTCA no solo, em especial na Europa Setentrional Se necessário, serão aplicadas medidas de redução do risco ou restrições de utilização |\n| (^1^)O relatório de avaliação fornece mais pormenores sobre a identidade e as especificações das substâncias activas.» |  |  |  |  |  |  |\n\n---"
+  },
+  "6e8745a404738d20": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#src.E0001)) JO L 230 de 19.8.1991, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#src.E0002)) JO L 276 de 12.10.2002, p. 28.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#src.E0003)) JO L 317 de 26.11.1998, p. 47.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#src.E0004)) JO L 87 de 31.3.1999, p. 15.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#src.E0005)) JO L 239 de 30.8.1997, p. 48.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#src.E0006)) JO L 230 de 12.9.2000, p. 14.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#src.E0007)) JO L 176 de 20.6.1998, p. 34.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#src.E0008)) JO L 155 de 28.6.2000, p. 62.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#src.E0009)) Parecer do Comité Científico das Plantas sobre a avaliação do etoxisulfurão no contexto da Directiva 91/414/CEE do Conselho relativa à colocação dos produtos fitofarmacêuticos no mercado (SCP/ETHOXY/002-final, adoptado em 22 de Setembro de 2000).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/4c67c303-076c-48e9-a12e-f035c32c387f.0018.03/DOC_1#src.E0010)) Parecer sobre a avaliação do etoxisulfurão (AE F095404) no contexto da Directiva 91/414/CEE do Conselho relativa à colocação dos produtos fitofarmacêuticos no mercado (SCP/ETHOXY/Bis/002, adoptado em 7 de Junho de 2001)."
+  },
+  "954a7363e2a02199": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02003L0023 — PT — 14.06.2011 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32003L0023) [DIRECTIVA 2003/23/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/32003L0023) [de 25 de Março de 2003](http://publications.europa.eu/resource/celex/32003L0023) [que altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir as substâncias activas imazamox, oxasulfurão, etoxisulfurão, foramsulfurão, oxadiargil e ciazofamida](http://publications.europa.eu/resource/celex/32003L0023) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32003L0023) (JO L 081, 28.3.2003, p.39)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1107/2009 do Parlamento Europeu e do Conselho de 21 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009R1107) — L 309 — 1 — 24.11.2009"
+  }
+ }
+}

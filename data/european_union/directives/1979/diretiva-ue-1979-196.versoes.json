@@ -1,0 +1,128 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31979L0196:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01979L0196-19971010",
+ "dre_path": null,
+ "source_lastmod": "1997-10-10",
+ "versions": [
+  {
+   "date": "1979-02-20",
+   "future": false,
+   "celex": "31979L0196",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3ce41cd35892efa6",
+    "28e1b63cb2ed1b00",
+    "17e0ca5ea5c04308",
+    "932a77a04b9b1b68",
+    "c9c6f8b1b7c9c7c1",
+    "9459fd52a510e9ca",
+    "58adae0500a6db64",
+    "3fee03fdbc7d316d",
+    "7ac99b7e29ddc5f5",
+    "0cc023ae165c47c2",
+    "57b049d4635328f4",
+    "67f58f7335c92e4f"
+   ]
+  }
+ ],
+ "fragments": {
+  "3ce41cd35892efa6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 79/196/CEE do Conselho, de 6 de Fevereiro de 1979, relativa à aproximação das legislações dos Estados-Membros respeitantes ao material eléctrico utilizável em atmosfera explosiva que emprega certos tipos de protecção** *Jornal Oficial nº L 043 de 20/02/1979 p. 0020 - 0022 Edição especial finlandesa: Capítulo 13 Fascículo 9 p. 0158 Edição especial grega: Capítulo 13 Fascículo 8 p. 0042 Edição especial sueca: Capítulo 13 Fascículo 9 p. 0158 Edição especial espanhola: Capítulo 13 Fascículo 9 p. 0204 Edição especial portuguesa: Capítulo 13 Fascículo 9 p. 0204*\n\nDIRECTIVA DO CONSELHO de 6 de Fevereiro de 1979 relativa à aproximação das legislações dos Estados-membros respeitantes ao material eléctrico utilizável em atmosfera explosiva que emprega certos tipos de protecção\n\n(79/196/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nTendo em conta que as disposições em vigor nos Estados-membros com vista a assegurar a segurança do material eléctrico utilizável em atmosfera explosiva diferem de um Estado-membro para outro, o que cria entraves ao comércio; que se torna portanto necessário proceder à aproximação destas legislações;\n\nConsiderando que a Directiva 76/117/CEE do Conselho, de 18 de Dezembro de 1975, relativa à aproximação das legislações dos Estados-membros respeitantes ao material eléctrico utilizável em atmosfera explosiva 4 definiu, nomeadamente, os procedimentos de exame que este material deve satisfazer para livremente poder ser importado, comercializado e utilizado, depois de ter sido sujeito aos controlos e sido munido das marcas e marcações previstas;\n\nConsiderando que a Directiva 76/117/CEE prevê no no 4 do artigo 4o, que certas directivas especiais indicarão, para este material, quais as normas harmonizadas aplicáveis em todos os Estados-membros;\n\nConsiderando que a Directiva 76/117/CEE prevê no seu artigo 5o que as directivas especiais indicarão quais as disposições que podem ser adaptadas ao progresso técnico, segundo o procedimento previsto no artigo 7o da referida directiva;\n\nConsiderando que a Directiva 76/117/CEE prevê no no 1, segundo parágrafo, do artigo 8o e no 5 do artigo 9o, que as cópias dos certificados de conformidade e de controlo serão transmitidas aos Estados-membros; que é conveniente, para que seja asseguara a livre circulação deste material, que a Comissão possa publicar extractos dos mesmos no Jornal Oficial das Comunidades Europeias; que será, portanto, necessário que a Comissão seja igualmente destinatária das cópias desses certificados;\n\nConsiderando que a Directiva 76/117/CEE no no 2 do artigo 8o e no no 6 do artigo 9o, prevê um procedimento para revogar o certificado; que é conveniente que os Estados-membros, a Comissão e o interessado sejam informados de um tal acto de revogação e das razões invocadas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "28e1b63cb2ed1b00": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva diz respeito ao material eléctrico utilizável em atmosfera explosiva que empregue um ou vários dos seguintes tipos de protecção:\n\n- imersão em óleo « o »,\n\n- sobrepressão interna « p »,\n\n- enchimento pulverulento « q »,\n\n- invólucro antideflagrante « d »,\n\n- segurança aumentada « e »,\n\n- segurança intrínseca « i »."
+  },
+  "17e0ca5ea5c04308": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Os Estados-membros não podem, por razões de segurança relativas à sua construção, proibir a venda ou a livre circulação ou a utilização, de acordo com a sua finalidade, do material eléctrico destinado a ser utilizado em atmosfera explosiva que esteja em conformidade com as disposições da presente directiva e da Directiva 76/117/CEE, no que respeita aos aspectos de segurança cobertos pela presente directiva.\n\n2. No que respeita aos aspectos de segurança que não estejam cobertos pela presente directiva mantêm-se em vigor as disposições nacionais na medida em que não existam disposições comunitárias."
+  },
+  "932a77a04b9b1b68": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nPara efeitos do disposto na presente directiva, as normas harmonizadas na acepção do no 4, do artigo 4o da Directiva 76/117/CEE, são as normas cujas referências estão reproduzidas no Anexo I."
+  },
+  "c9c6f8b1b7c9c7c1": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. O material utilizável em atmosfera explosiva encontrase sujeito aos procedimentos indicados no no 1, do artigo 4o da Directiva 76/117/CEE. As informações transmitidas aos organismos aprovados, no âmbito destes procedimentos, são confidenciais.\n\n2. Para os fins da presente directiva, a marca distintiva comunitária referida no no 1 do artigo 4o e no artigo 10o da Directiva 76/117/CEE, deve estar em conformidade com o Anexo II; esta marca deve ser aposta, em cada material, de modo a ser visível, legível e durável.\n\n3. Os Estados-membros tomarão todas as disposições úteis para proibir a utilização, no material referido na presente directiva, de marcas ou inscrições susceptíveis de criar confusão com a marca que figura no Anexo II."
+  },
+  "9459fd52a510e9ca": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nDe acordo com o no 1 do artigo 5o da Directiva 76/117/CEE, o conteúdo das normas harmonizadas indicadas no Anexo I, assim como no Anexo II, pode ser alterado segundo o procedimento previsto no artigo 7o da Directiva 76/117/CEE."
+  },
+  "58adae0500a6db64": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. No prazo de um mês a contar da concessão do certificado de conformidade ou de controlo será enviada uma cópia do mesmo à Comissão. Esta receberá também, a seu pedido, as cópias do processo técnico definitivo do material e dos processos-verbais dos exames ou controlos a que o mesmo tenha sido submetido. Estas informações são confidenciais.\n\n2. A Comissão fará publicar os extractos significativos destes certificados no Jornal Oficial das Comunidades Europeias."
+  },
+  "3fee03fdbc7d316d": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Se o organismo que concedeu o certificado de conformidade ou de controlo, o revogar pelas razões invocadas no no 2 do artigo 8o e no no 6 do artigo 9o da Directiva 76/117/CEE, deve informar desta revogação os outros Estados-membros e a Comissão.\n\nA revogação deve ser justificada de modo preciso. Será publicada em conformidade com no 2 do artigo 6o.\n\n2. A recusa em conceder um certificado de conformidade ou de controlo ou a sua revogação deve ser imediatamente comunicada ao interessado, com a indicação das vias de recurso previstas pelas legislações em vigor nos Estados-membros e dos prazos dentro dos quais estes recursos podem ser apresentados."
+  },
+  "7ac99b7e29ddc5f5": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros porão em vigor as disposições necessárias para darem cumprimento à presente directiva num prazo de dezoito meses a contar da sua notificação e disso informarão imediatamente a Comissão.\n\nOs Estados-membros velarão para que seja comunicado à Comissão o texto das disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "0cc023ae165c47c2": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 6 de Fevereiro de 1979.\n\nPelo Conselho\n\nO Presidente\n\nJ. FRANÇOIS-PONCET\n\n(1) JO no C 4 de 6. 1. 1978, p. 2.(2) JO no C 131 de 5. 6. 1978, p. 84.(3) JO no C 269 de 13. 11. 1978, p. 45.(4) JO no L 24 de 30. 1. 1978, p. 45."
+  },
+  "57b049d4635328f4": {
+   "fragment_id": "ANEXO I — NORMAS HARMONIZADAS",
+   "type": "divisao",
+   "heading": "ANEXO I — NORMAS HARMONIZADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — NORMAS HARMONIZADAS\n\nAs normas harmonizadas com as quais um material deve estar em conformidade segundo o seu modo de protecção são as normas europeias cujas referências figuram no quadro seguinte\n\nNormas Europeias\n\n(estabelecidas pelo Cenelec, rue de Bréderode 2, boîte 5, 1000 Bruxelas)\n\n\"\" ID=\"1\">EN 50 014> ID=\"2\">Material eléctrico para atmosferas explosivas: regras gerais> ID=\"3\">1> ID=\"4\">Março 1977\"> ID=\"1\">EN 50 015> ID=\"2\">Material eléctrico para atmosferas explosivas: imersão no óleo « o »> ID=\"3\">1> ID=\"4\">Março 1977\"> ID=\"1\">EN 50 016> ID=\"2\">Material eléctrico para atmosferas explosivas: sobrepressão interna « p »> ID=\"3\">1> ID=\"4\">Março 1977\"> ID=\"1\">EN 50 017> ID=\"2\">Material eléctrico para atmosferas explosivas: enchimento pulverulento « q »> ID=\"3\">1> ID=\"4\">Março 1977\"> ID=\"1\">EN 50 018> ID=\"2\">Material eléctrico para atmosferas explosivas: invólucro antideflagrante « d »> ID=\"3\">1> ID=\"4\">Março 1977\"> ID=\"1\">EN 50 019> ID=\"2\">Material eléctrico para atmosferas explosivas: segurança aumentada « e »> ID=\"3\">1> ID=\"4\">Março 1977\"> ID=\"1\">EN 50 020> ID=\"2\">Material eléctrico para atmosferas explosivas: segurança intrinseca « i »> ID=\"3\">1> ID=\"4\">Março 1977\">"
+  },
+  "67f58f7335c92e4f": {
+   "fragment_id": "ANEXO II — Marca distintiva comunitária",
+   "type": "divisao",
+   "heading": "ANEXO II — Marca distintiva comunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Marca distintiva comunitária"
+  }
+ }
+}

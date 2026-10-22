@@ -35,6 +35,55 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-10-27'
+version_history:
+  file: diretiva-ue-1972-166.versoes.json
+  count: 3
+  source_lastmod: '2009-10-27'
+  versions:
+  - date: '1972-05-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-06-11'
+    amending: eu:celex:31972L0430:por
+    amending_title: DIRECTIVA DO CONSELHO 72/430/CEE de 19 de Dezembro de 1972; M2; DIRECTIVA 2005/14/CE DO PARLAMENTO EUROPEU
+      E DO CONSELHO Texto relevante para efeitos do EEE de 11 de Maio de 2005
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+  - date: '2009-10-27'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Notas
 identifiers:
   celex: 31972L0166
   eli: http://data.europa.eu/eli/dir/1972/166/oj
@@ -49,7 +98,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f4ecfd4f-93fe-4426-9034-a70a7d148ac8.0011
   content_url: http://publications.europa.eu/resource/cellar/dbcec034-ed94-4c3e-b5fc-90fc4eb173e5.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01972L0166-20091027
-  retrieved_at: '2026-10-22T02:40:59Z'
+  retrieved_at: '2026-10-22T14:30:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-13T19:34:25.764+01:00'
 integrity:
@@ -58,9 +107,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:59Z'
-  notes: Texto consolidado 01972L0166-20091027.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:30:11Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1972-166.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -276,16 +325,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:59Z'
+  checked_at: '2026-10-22T14:30:11Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01972L0166-19730101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01972L0166-19840104: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

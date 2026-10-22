@@ -41,6 +41,754 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-01-01'
+version_history:
+  file: regulamento-ue-2007-1234.versoes.json
+  count: 17
+  source_lastmod: '2018-01-01'
+  versions:
+  - date: '2007-11-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-07-01'
+    amending: eu:celex:32008R0247:por
+    amending_title: REGULAMENTO (CE) N. o 247/2008 DO CONSELHO de 17 de Março de 2008; REGULAMENTO (CE) N. o 248/2008 DO CONSELHO
+      de 17 de Março de 2008; REGULAMENTO (CE) N. o 361/2008 DO CONSELHO de 14 de Abril de 2008; REGULAMENTO (CE) N. o 470/2008
+      DO CONSELHO de 26 de Maio de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 15.º — Manteiga
+    - Altera Artigo 22.º — Manteiga
+    - Altera Artigo 175.º — Aplicação dos artigos 81.º a 86.º do Tratado
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Adita Artigo 28.º
+    - Adita Artigo 29.º — Condições e nível de ajuda para a manteiga
+    - Adita Artigo 30.º
+    - Adita Artigo 31.º
+    - Adita Artigo 32.º
+    - Adita Artigo 33.º
+    - Adita Artigo 34.º
+    - Adita Artigo 35.º
+    - Adita Artigo 36.º
+    - Adita Artigo 37.º
+  - date: '2008-10-01'
+    amending: eu:celex:32008R0510:por
+    amending_title: REGULAMENTO (CE) N. o 510/2008 DA COMISSÃO de 6 de Junho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera Artigo 31.º
+    - Altera Artigo 50.º
+    - Altera Artigo 55.º
+    - Altera Artigo 60.º
+    - Altera Artigo 61.º
+    - Altera Artigo 64.º
+    - Altera Artigo 78.º
+    - Altera Artigo 103.º-A — Ajudas aos agrupamentos de produtores
+    - Altera Artigo 103.º-C — Programas operacionais
+    - Altera Artigo 103.º-D — Assistência financeira comunitária
+    - Altera Artigo 103.º-F — Quadro nacional e estratégia nacional para os programas operacionais
+    - Altera Artigo 106.º
+    - Altera Artigo 113.º-B — Comercialização da carne de bovinos de idade não superior a doze meses
+    - Altera Artigo 129.º
+    - Altera Artigo 147.º
+    - Altera Artigo 153.º
+    - Altera Artigo 154.º
+    - Altera Artigo 159.º
+    - Altera Artigo 167.º
+    - Altera Artigo 200.º
+    - Altera Artigo 203.º-A — Regras transitórias nos sectores das frutas e produtos hortícolas e dos produtos transformados
+      à base de frutas e produtos hortícolas
+    - 'Altera Parte I: Cereais'
+    - 'Altera Parte XXI: Outros produtos'
+    - 'Altera Parte II: Definições relativas ao sector do açúcar'
+    - Altera V. Classificação e identificação
+    - Altera II. Classificação
+    - Altera VI
+    - Altera ANEXO XI
+    - Altera II. Classificação dos bovinos de idade não superior a doze meses no matadouro
+    - Altera VII. Controlos oficiais
+    - Altera II. Utilização da designação «leite»
+    - Altera III. Utilização das designações no caso de produtos concorrentes
+    - Altera II. Definições
+    - Altera II. Rotulagem e apresentação
+  - date: '2009-04-01'
+    amending: eu:celex:32009R0013:por
+    amending_title: REGULAMENTO (CE) N. o 13/2009 DO CONSELHO de 18 de Dezembro de 2008; REGULAMENTO (CE) N.O 72/2009 DO CONSELHO
+      de 19 de Janeiro de 2009; REGULAMENTO (CE) N. o 183/2009 DA COMISSÃO de 6 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 28.º
+    - Altera Artigo 31.º
+    - Altera Artigo 43.º
+    - Altera Artigo 46.º
+    - Altera Artigo 55.º
+    - Altera Artigo 61.º
+    - Altera Artigo 72.º
+    - Altera Artigo 78.º
+    - Altera Artigo 80.º
+    - Altera Artigo 102.º
+    - Altera Artigo 103.º
+    - Altera Artigo 103.º-A — Ajudas aos agrupamentos de produtores
+    - Altera Artigo 103.º-C — Programas operacionais
+    - Altera Artigo 103.º-D — Assistência financeira comunitária
+    - Altera Artigo 103.º-E — Assistência financeira nacional
+    - Altera Artigo 103.º-F — Quadro nacional e estratégia nacional para os programas operacionais
+    - Altera Artigo 103.º-H — Regras de execução
+    - Altera Artigo 105.º
+    - Altera Artigo 106.º
+    - Altera Artigo 113.º-B — Comercialização da carne de bovinos de idade não superior a doze meses
+    - Altera Artigo 122.º
+    - Altera Artigo 124.º
+    - Altera Artigo 129.º
+    - Altera Artigo 147.º
+    - Altera Artigo 154.º
+    - Altera Artigo 159.º
+    - Altera Artigo 167.º
+    - Altera Artigo 182.º
+    - Altera Artigo 184.º
+    - Altera Artigo 200.º
+    - Altera Artigo 203.º-A — Regras transitórias nos sectores das frutas e produtos hortícolas e dos produtos transformados
+      à base de frutas e produtos hortícolas
+    - 'Altera Parte I: Cereais'
+    - 'Altera Parte XXI: Outros produtos'
+    - 'Altera Parte II: Definições relativas ao sector do açúcar'
+    - Altera V. Classificação e identificação
+    - Altera II. Classificação
+    - Altera ANEXO VI
+  - date: '2009-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 61.º
+    - Altera Artigo 78.º
+    - Altera Artigo 85.º
+    - Altera Artigo 91.º
+    - Altera Artigo 92.º
+    - Altera Artigo 94.º
+    - Altera Artigo 103.º-A — Ajudas aos agrupamentos de produtores
+    - Altera Artigo 103.º-C — Programas operacionais
+    - Altera Artigo 103.º-D — Assistência financeira comunitária
+    - Altera Artigo 103.º-F — Quadro nacional e estratégia nacional para os programas operacionais
+    - Altera Artigo 103.º-GA — Ajuda para a distribuição às crianças de frutas e legumes, de frutas e legumes transformados
+      e produtos derivados de bananas
+    - Altera Artigo 106.º
+    - Altera Artigo 113.º-B — Comercialização da carne de bovinos de idade não superior a doze meses
+    - Altera Artigo 129.º
+    - Altera Artigo 147.º
+    - Altera Artigo 154.º
+    - Altera Artigo 159.º
+    - Altera Artigo 167.º
+    - Altera Artigo 200.º
+    - Altera Artigo 203.º-A — Regras transitórias nos sectores das frutas e produtos hortícolas e dos produtos transformados
+      à base de frutas e produtos hortícolas
+    - Altera Artigo 204.º
+    - 'Altera Parte I: Cereais'
+    - 'Altera Parte XXI: Outros produtos'
+    - 'Altera Parte II: Definições relativas ao sector do açúcar'
+    - Altera V. Classificação e identificação
+    - Altera II. Classificação
+    - Altera ANEXO XI
+    - Altera II. Classificação dos bovinos de idade não superior a doze meses no matadouro
+    - Altera VII. Controlos oficiais
+    - Altera II. Utilização da designação «leite»
+    - Altera III. Utilização das designações no caso de produtos concorrentes
+    - Altera II. Definições
+    - Altera II. Rotulagem e apresentação
+    - Altera Apêndice ao Anexo XV
+    - Altera Notas
+    - Adita Artigo 55.º — Regimes de quotas
+    - Adita Secção III-A
+    - Adita Quotas de fécula de batata
+    - Adita Artigo 84.º–A — Quotas de fécula de batata
+  - date: '2009-08-01'
+    amending: eu:celex:32009R0435:por
+    amending_title: REGULAMENTO (CE) N. o 435/2009 DA COMISSÃO de 26 de Maio de 2009; REGULAMENTO (CE) N. o 491/2009 DO CONSELHO
+      de 25 de Maio de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 18.º — Preços de intervenção
+    - Altera Artigo 61.º
+    - Altera Artigo 78.º
+    - Altera Artigo 84.º–A — Quotas de fécula de batata
+    - Altera Artigo 85.º
+    - Altera Artigo 103.º-A — Ajudas aos agrupamentos de produtores
+    - Altera Artigo 103.º-C — Programas operacionais
+    - Altera Artigo 103.º-D — Assistência financeira comunitária
+    - Altera Artigo 103.º-F — Quadro nacional e estratégia nacional para os programas operacionais
+    - Altera Artigo 103.º-GA — Ajuda para a distribuição às crianças de frutas e legumes, de frutas e legumes transformados
+      e produtos derivados de bananas
+    - Altera Artigo 106.º
+    - Altera Artigo 113.º-B — Comercialização da carne de bovinos de idade não superior a doze meses
+    - Altera Artigo 121.º
+    - Altera Artigo 122.º
+    - Altera Artigo 123.º
+    - Altera Artigo 129.º
+    - Altera Artigo 130.º
+    - Altera Artigo 141.º
+    - Altera Artigo 147.º
+    - Altera Artigo 154.º
+    - Altera Artigo 159.º
+    - Altera Artigo 160.º
+    - Altera Artigo 161.º
+    - Altera Artigo 167.º
+    - Altera Artigo 174.º
+    - Altera Artigo 175.º — Aplicação dos artigos 81.º a 86.º do Tratado
+    - Altera Artigo 180.º — Aplicação dos artigos 87.º, 88.º e 89.º do Tratado
+    - Altera Artigo 182.º
+    - Altera Artigo 184.º
+    - Altera Artigo 194.º
+    - Altera Artigo 195.º
+    - Altera Artigo 200.º
+    - Altera Artigo 203.º-A — Regras transitórias nos sectores das frutas e produtos hortícolas e dos produtos transformados
+      à base de frutas e produtos hortícolas
+    - 'Altera Parte I: Cereais'
+    - 'Altera Parte III: Açúcar'
+    - 'Altera Parte X: Produtos transformados à base de frutas e produtos hortícolas'
+    - 'Altera Parte XI: Bananas'
+  - date: '2010-05-01'
+    amending: eu:celex:32009R1047:por
+    amending_title: REGULAMENTO (CE) N. o 1047/2009 DO CONSELHO de 19 de Outubro de 2009; REGULAMENTO (CE) N. o 1140/2009
+      DO CONSELHO de 20 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 61.º
+    - Altera Artigo 78.º
+    - Altera Artigo 79.º
+    - Altera Artigo 84.º–A — Quotas de fécula de batata
+    - Altera Artigo 103.º-A — Ajudas aos agrupamentos de produtores
+    - Altera Artigo 103.º-C — Programas operacionais
+    - Altera Artigo 103.º-D — Assistência financeira comunitária
+    - Altera Artigo 103.º-F — Quadro nacional e estratégia nacional para os programas operacionais
+    - Altera Artigo 103.º-GA — Ajuda para a distribuição às crianças de frutas e legumes, de frutas e legumes transformados
+      e produtos derivados de bananas
+    - Altera Artigo 103.º-Q — Reestruturação e reconversão de vinhas
+    - Altera Artigo 103.º-U — Investimentos
+    - Altera Artigo 106.º
+    - Altera Artigo 113.º-B — Comercialização da carne de bovinos de idade não superior a doze meses
+    - Altera Artigo 118.º-J — Homonímia
+    - Altera Artigo 118.º-L — Relação com marcas registadas
+    - Altera Artigo 118.º-O — Designação da autoridade de controlo competente
+    - Altera Artigo 118.º-S — Nomes de vinhos actualmente protegidos
+    - Altera Artigo 118.º-X — Aplicabilidade das regras horizontais
+    - Altera Artigo 129.º
+    - Altera Artigo 147.º
+    - Altera Artigo 154.º
+    - Altera Artigo 159.º
+    - Altera Artigo 167.º
+    - Altera Artigo 186.º
+    - Altera Artigo 200.º
+    - Altera Artigo 203.º-A — Regras transitórias nos sectores das frutas e produtos hortícolas e dos produtos transformados
+      à base de frutas e produtos hortícolas
+    - 'Altera Parte XXI: Outros produtos'
+    - 'Altera Parte II: Definições relativas ao sector do açúcar'
+    - Altera V. Classificação e identificação
+    - Altera II. Classificação
+    - Altera ANEXO X-B
+    - Altera ANEXO XI
+    - Altera II. Classificação dos bovinos de idade não superior a doze meses no matadouro
+    - Altera VII. Controlos oficiais
+    - Altera II. Utilização da designação «leite»
+    - Altera III. Utilização das designações no caso de produtos concorrentes
+    - Altera II. Definições
+    - Altera III. Classificação em função da qualidade e do peso
+    - Altera II. Rotulagem e apresentação
+  - date: '2010-06-19'
+    amending: eu:celex:32010R0513:por
+    amending_title: REGULAMENTO (UE) N. o 513/2010 DA COMISSÃO de 15 de Junho de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 61.º
+    - Altera Artigo 78.º
+    - Altera Artigo 84.º–A — Quotas de fécula de batata
+    - Altera Artigo 103.º-A — Ajudas aos agrupamentos de produtores
+    - Altera Artigo 103.º-C — Programas operacionais
+    - Altera Artigo 103.º-D — Assistência financeira comunitária
+    - Altera Artigo 103.º-F — Quadro nacional e estratégia nacional para os programas operacionais
+    - Altera Artigo 103.º-GA — Ajuda para a distribuição às crianças de frutas e legumes, de frutas e legumes transformados
+      e produtos derivados de bananas
+    - Altera Artigo 103.º-Q — Reestruturação e reconversão de vinhas
+    - Altera Artigo 103.º-U — Investimentos
+    - Altera Artigo 106.º
+    - Altera Artigo 113.º-B — Comercialização da carne de bovinos de idade não superior a doze meses
+    - Altera Artigo 118.º-J — Homonímia
+    - Altera Artigo 118.º-L — Relação com marcas registadas
+    - Altera Artigo 118.º-O — Designação da autoridade de controlo competente
+    - Altera Artigo 118.º-S — Nomes de vinhos actualmente protegidos
+    - Altera Artigo 118.º-X — Aplicabilidade das regras horizontais
+    - Altera Artigo 129.º
+    - Altera Artigo 147.º
+    - Altera Artigo 154.º
+    - Altera Artigo 159.º
+    - Altera Artigo 167.º
+    - Altera Artigo 200.º
+    - Altera Artigo 203.º-A — Regras transitórias nos sectores das frutas e produtos hortícolas e dos produtos transformados
+      à base de frutas e produtos hortícolas
+    - 'Altera Parte XXI: Outros produtos'
+    - 'Altera Parte II: Definições relativas ao sector do açúcar'
+    - Altera V. Classificação e identificação
+    - Altera II. Classificação
+    - Altera ANEXO VI
+    - Altera ANEXO X-B
+    - Altera ANEXO XI
+    - Altera II. Classificação dos bovinos de idade não superior a doze meses no matadouro
+    - Altera VII. Controlos oficiais
+    - Altera II. Utilização da designação «leite»
+    - Altera III. Utilização das designações no caso de produtos concorrentes
+    - Altera II. Definições
+    - Altera II. Rotulagem e apresentação
+    - Altera Apêndice ao Anexo XV
+    - Altera Notas
+  - date: '2011-01-01'
+    amending: eu:celex:32010R1234:por
+    amending_title: Regulamento (UE) n. o 1234/2010 do Parlamento Europeu e do Conselho de 15 de Dezembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 27.º
+    - Altera Artigo 31.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 44.º
+    - Altera Artigo 46.º
+    - Altera Artigo 49.º
+    - Altera Artigo 50.º
+    - Altera Artigo 51.º
+    - Altera Artigo 52.º — Retirada de açúcar do mercado
+    - Altera Artigo 56.º
+    - Altera Artigo 58.º
+    - Altera Artigo 59.º — Gestão das quotas
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 66.º
+    - Altera Artigo 70.º
+    - Altera Artigo 72.º
+    - Altera Artigo 73.º
+    - Altera Artigo 78.º
+    - Altera Artigo 84.º–A — Quotas de fécula de batata
+    - Altera Artigo 87.º
+    - Altera Artigo 88.º
+    - Altera Artigo 91.º
+    - Altera Artigo 92.º
+    - Altera Artigo 102.º
+    - Altera Artigo 103.º
+    - Altera Artigo 103.º-A — Ajudas aos agrupamentos de produtores
+    - Altera Artigo 103.º-C — Programas operacionais
+    - Altera Artigo 103.º-D — Assistência financeira comunitária
+    - Altera Artigo 103.º-F — Quadro nacional e estratégia nacional para os programas operacionais
+    - Altera Artigo 103.º-GA — Ajuda para a distribuição às crianças de frutas e legumes, de frutas e legumes transformados
+      e produtos derivados de bananas
+    - Altera Artigo 103.º-Q — Reestruturação e reconversão de vinhas
+    - Altera Artigo 103.º-U — Investimentos
+    - Altera Artigo 106.º
+    - Altera Artigo 113.º
+    - Altera Artigo 113.º-B — Comercialização da carne de bovinos de idade não superior a doze meses
+    - Altera Artigo 117.º
+  - date: '2012-04-01'
+    amending: eu:celex:32012R0121:por
+    amending_title: REGULAMENTO (UE) N. o 121/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de fevereiro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 31.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 44.º
+    - Altera Artigo 46.º
+    - Altera Artigo 49.º
+    - Altera Artigo 50.º
+    - Altera Artigo 51.º
+    - Altera Artigo 52.º — Retirada de açúcar do mercado
+    - Altera Artigo 56.º
+    - Altera Artigo 58.º
+    - Altera Artigo 59.º — Gestão das quotas
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 66.º
+    - Altera Artigo 70.º
+    - Altera Artigo 72.º
+    - Altera Artigo 73.º
+    - Altera Artigo 78.º
+    - Altera Artigo 84.º–A — Quotas de fécula de batata
+    - Altera Artigo 91.º
+    - Altera Artigo 92.º
+    - Altera Artigo 102.º
+    - Altera Artigo 103.º
+    - Altera Artigo 103.º-A — Ajudas aos agrupamentos de produtores
+    - Altera Artigo 103.º-C — Programas operacionais
+    - Altera Artigo 103.º-D — Assistência financeira comunitária
+    - Altera Artigo 103.º-F — Quadro nacional e estratégia nacional para os programas operacionais
+    - Altera Artigo 103.º-GA — Ajuda para a distribuição às crianças de frutas e legumes, de frutas e legumes transformados
+      e produtos derivados de bananas
+    - Altera Artigo 103.º-Q — Reestruturação e reconversão de vinhas
+    - Altera Artigo 103.º-U — Investimentos
+    - Altera Artigo 106.º
+    - Altera Artigo 113.º
+    - Altera Artigo 113.º-B — Comercialização da carne de bovinos de idade não superior a doze meses
+    - Altera Artigo 117.º
+    - Altera Artigo 118.º-J — Homonímia
+    - Altera Artigo 118.º-L — Relação com marcas registadas
+    - Altera Artigo 118.º-O — Designação da autoridade de controlo competente
+  - date: '2012-04-02'
+    amending: eu:celex:32012R0261:por
+    amending_title: REGULAMENTO (UE) N. o 261/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de março de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 61.º
+    - Altera Artigo 78.º
+    - Altera Artigo 84.º–A — Quotas de fécula de batata
+    - Altera Artigo 103.º-A — Ajudas aos agrupamentos de produtores
+    - Altera Artigo 103.º-C — Programas operacionais
+    - Altera Artigo 103.º-D — Assistência financeira comunitária
+    - Altera Artigo 103.º-F — Quadro nacional e estratégia nacional para os programas operacionais
+    - Altera Artigo 103.º-GA — Ajuda para a distribuição às crianças de frutas e legumes, de frutas e legumes transformados
+      e produtos derivados de bananas
+    - Altera Artigo 103.º-Q — Reestruturação e reconversão de vinhas
+    - Altera Artigo 103.º-U — Investimentos
+    - Altera Artigo 106.º
+    - Altera Artigo 113.º-B — Comercialização da carne de bovinos de idade não superior a doze meses
+    - Altera Artigo 118.º-J — Homonímia
+    - Altera Artigo 118.º-L — Relação com marcas registadas
+    - Altera Artigo 118.º-O — Designação da autoridade de controlo competente
+    - Altera Artigo 118.º-S — Nomes de vinhos actualmente protegidos
+    - Altera Artigo 118.º-X — Aplicabilidade das regras horizontais
+    - Altera Artigo 122.º
+    - Altera Artigo 123.º
+    - Altera Artigo 129.º
+    - Altera Artigo 147.º
+    - Altera Artigo 154.º
+    - Altera Artigo 159.º
+    - Altera Artigo 167.º
+    - Altera Artigo 175.º — Aplicação dos artigos 81.º a 86.º do Tratado
+    - Altera Artigo 184.º
+    - Altera Artigo 200.º
+    - Altera Artigo 203.º-A — Regras transitórias nos sectores das frutas e produtos hortícolas e dos produtos transformados
+      à base de frutas e produtos hortícolas
+    - Altera Artigo 204.º
+    - 'Altera Parte XXI: Outros produtos'
+    - 'Altera Parte II: Definições relativas ao sector do açúcar'
+    - Altera V. Classificação e identificação
+    - Altera II. Classificação
+    - Altera ANEXO X-B
+    - Altera ANEXO XI
+    - Altera II. Classificação dos bovinos de idade não superior a doze meses no matadouro
+    - Altera VII. Controlos oficiais
+    - Altera II. Utilização da designação «leite»
+    - Altera III. Utilização das designações no caso de produtos concorrentes
+  - date: '2012-10-03'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 61.º
+    - Altera Artigo 78.º
+    - Altera Artigo 84.º–A — Quotas de fécula de batata
+    - Altera Artigo 103.º-A — Ajudas aos agrupamentos de produtores
+    - Altera Artigo 103.º-C — Programas operacionais
+    - Altera Artigo 103.º-D — Assistência financeira comunitária
+    - Altera Artigo 103.º-F — Quadro nacional e estratégia nacional para os programas operacionais
+    - Altera Artigo 103.º-GA — Ajuda para a distribuição às crianças de frutas e legumes, de frutas e legumes transformados
+      e produtos derivados de bananas
+    - Altera Artigo 103.º-Q — Reestruturação e reconversão de vinhas
+    - Altera Artigo 103.º-U — Investimentos
+    - Altera Artigo 106.º
+    - Altera Artigo 113.º-B — Comercialização da carne de bovinos de idade não superior a doze meses
+    - Altera Artigo 118.º-J — Homonímia
+    - Altera Artigo 118.º-L — Relação com marcas registadas
+    - Altera Artigo 118.º-O — Designação da autoridade de controlo competente
+    - Altera Artigo 118.º-S — Nomes de vinhos actualmente protegidos
+    - Altera Artigo 118.º-X — Aplicabilidade das regras horizontais
+    - Altera Artigo 129.º
+    - Altera Artigo 147.º
+    - Altera Artigo 154.º
+    - Altera Artigo 159.º
+    - Altera Artigo 167.º
+    - Altera Artigo 196.º-B — Procedimento de comité
+    - Altera Artigo 200.º
+    - Altera Artigo 203.º-A — Regras transitórias nos sectores das frutas e produtos hortícolas e dos produtos transformados
+      à base de frutas e produtos hortícolas
+    - 'Altera Parte XXI: Outros produtos'
+    - 'Altera Parte II: Definições relativas ao sector do açúcar'
+    - Altera V. Classificação e identificação
+    - Altera II. Classificação
+    - Altera ANEXO X-B
+    - Altera ANEXO XI
+    - Altera II. Classificação dos bovinos de idade não superior a doze meses no matadouro
+    - Altera VII. Controlos oficiais
+    - Altera II. Utilização da designação «leite»
+    - Altera III. Utilização das designações no caso de produtos concorrentes
+    - Altera II. Definições
+    - Altera II. Rotulagem e apresentação
+    - Altera Apêndice ao Anexo XV
+    - Altera Notas
+  - date: '2012-11-21'
+    amending: eu:celex:32012R1028:por
+    amending_title: REGULAMENTO (UE) N. o 1028/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de outubro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 61.º
+    - Altera Artigo 78.º
+    - Altera Artigo 84.º–A — Quotas de fécula de batata
+    - Altera Artigo 103.º-A — Ajudas aos agrupamentos de produtores
+    - Altera Artigo 103.º-C — Programas operacionais
+    - Altera Artigo 103.º-D — Assistência financeira comunitária
+    - Altera Artigo 103.º-F — Quadro nacional e estratégia nacional para os programas operacionais
+    - Altera Artigo 103.º-GA — Ajuda para a distribuição às crianças de frutas e legumes, de frutas e legumes transformados
+      e produtos derivados de bananas
+    - Altera Artigo 103.º-N — Regras gerais relativas aos programas de apoio
+    - Altera Artigo 103.º-O — Regime de pagamento único e apoio aos viticultores
+    - Altera Artigo 103.º-Q — Reestruturação e reconversão de vinhas
+    - Altera Artigo 103.º-U — Investimentos
+    - Altera Artigo 106.º
+    - Altera Artigo 113.º-B — Comercialização da carne de bovinos de idade não superior a doze meses
+    - Altera Artigo 118.º-J — Homonímia
+    - Altera Artigo 118.º-L — Relação com marcas registadas
+    - Altera Artigo 118.º-O — Designação da autoridade de controlo competente
+    - Altera Artigo 118.º-S — Nomes de vinhos actualmente protegidos
+    - Altera Artigo 118.º-X — Aplicabilidade das regras horizontais
+    - Altera Artigo 126.º-C — Negociações contratuais no setor do leite e dos produtos lácteos
+    - Altera Artigo 129.º
+    - Altera Artigo 147.º
+    - Altera Artigo 154.º
+    - Altera Artigo 159.º
+    - Altera Artigo 167.º
+    - Altera Artigo 196.º-B — Procedimento de comité
+    - Altera Artigo 200.º
+    - Altera Artigo 203.º-A — Regras transitórias nos sectores das frutas e produtos hortícolas e dos produtos transformados
+      à base de frutas e produtos hortícolas
+    - 'Altera Parte XXI: Outros produtos'
+    - 'Altera Parte II: Definições relativas ao sector do açúcar'
+    - Altera V. Classificação e identificação
+    - Altera II. Classificação
+    - Altera ANEXO X-B
+    - Altera ANEXO XI
+    - Altera II. Classificação dos bovinos de idade não superior a doze meses no matadouro
+    - Altera VII. Controlos oficiais
+    - Altera II. Utilização da designação «leite»
+    - Altera III. Utilização das designações no caso de produtos concorrentes
+    - Altera II. Definições
+  - date: '2013-01-26'
+    amending: eu:celex:32013R0052:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 52/2013 DA COMISSÃO de 22 de janeiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 61.º
+    - Altera Artigo 78.º
+    - Altera Artigo 84.º–A — Quotas de fécula de batata
+    - Altera Artigo 103.º-A — Ajudas aos agrupamentos de produtores
+    - Altera Artigo 103.º-C — Programas operacionais
+    - Altera Artigo 103.º-D — Assistência financeira comunitária
+    - Altera Artigo 103.º-F — Quadro nacional e estratégia nacional para os programas operacionais
+    - Altera Artigo 103.º-GA — Ajuda para a distribuição às crianças de frutas e legumes, de frutas e legumes transformados
+      e produtos derivados de bananas
+    - Altera Artigo 103.º-Q — Reestruturação e reconversão de vinhas
+    - Altera Artigo 103.º-U — Investimentos
+    - Altera Artigo 106.º
+    - Altera Artigo 113.º-B — Comercialização da carne de bovinos de idade não superior a doze meses
+    - Altera Artigo 118.º-J — Homonímia
+    - Altera Artigo 118.º-L — Relação com marcas registadas
+    - Altera Artigo 118.º-O — Designação da autoridade de controlo competente
+    - Altera Artigo 118.º-S — Nomes de vinhos actualmente protegidos
+    - Altera Artigo 118.º-X — Aplicabilidade das regras horizontais
+    - Altera Artigo 126.º-C — Negociações contratuais no setor do leite e dos produtos lácteos
+    - Altera Artigo 129.º
+    - Altera Artigo 147.º
+    - Altera Artigo 154.º
+    - Altera Artigo 159.º
+    - Altera Artigo 167.º
+    - Altera Artigo 196.º-B — Procedimento de comité
+    - Altera Artigo 200.º
+    - Altera Artigo 203.º-A — Regras transitórias nos sectores das frutas e produtos hortícolas e dos produtos transformados
+      à base de frutas e produtos hortícolas
+    - 'Altera Parte XXI: Outros produtos'
+    - 'Altera Parte II: Definições relativas ao sector do açúcar'
+    - Altera V. Classificação e identificação
+    - Altera II. Classificação
+    - Altera ANEXO X-B
+    - Altera ANEXO XI
+    - Altera II. Classificação dos bovinos de idade não superior a doze meses no matadouro
+    - Altera VII. Controlos oficiais
+    - Altera 8. Vinho frisante natural
+    - Altera 9. Vinho frisante gaseificado
+    - Altera II. Utilização da designação «leite»
+    - Altera III. Utilização das designações no caso de produtos concorrentes
+    - Altera II. Definições
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013; TRATADOENTRE O REINO DA BÉLGICA, A REPÚBLICA
+      DA BULGÁRIA, A REPÚBLICA CHECA, O REINO DA DINAMARCA, A REPÚBLICA FEDERAL DA ALEMANHA, A REPÚBLICA DA ESTÓNIA, A IRLANDA,
+      A REPÚBLICA HELÉNICA, O REINO DE ESPANHA, A REPÚBLICA FRANCESA, A REPÚBLICA ITALIANA, A REPÚBLICA DE CHIPRE, A REPÚBLICA
+      DA LETÓNIA, A REPÚBLICA DA LITUÂNIA, O GRÃO-DUCADO DO LUXEMBURGO, A REPÚBLICA DA HUNGRIA, A REPÚBLICA DE MALTA, O REINO
+      DOS PAÍSES BAIXOS, A REPÚBLICA DA ÁUSTRIA, A REPÚBLICA DA POLÓNIA, A REPÚBLICA PORTUGUESA, A ROMÉNIA, A REPÚBLICA DA
+      ESLOVÉNIA, A REPÚBLICA ESLOVACA, A REPÚBLICA DA FINLÂNDIA, O REINO DA SUÉCIA E O REINO UNIDO DA GRÃ-BRETANHA E DA IRLANDA
+      DO NORTE
+    changes:
+    - Altera preambulo
+    - Altera Artigo 61.º
+    - Altera Artigo 66.º
+    - Altera Artigo 78.º
+    - Altera Artigo 84.º–A — Quotas de fécula de batata
+    - Altera Artigo 103.º-A — Ajudas aos agrupamentos de produtores
+    - Altera Artigo 103.º-C — Programas operacionais
+    - Altera Artigo 103.º-D — Assistência financeira comunitária
+    - Altera Artigo 103.º-F — Quadro nacional e estratégia nacional para os programas operacionais
+    - Altera Artigo 103.º-GA — Ajuda para a distribuição às crianças de frutas e legumes, de frutas e legumes transformados
+      e produtos derivados de bananas
+    - Altera Artigo 103.º-K — Apresentação dos programas de apoio
+    - Altera Artigo 103.º-Q — Reestruturação e reconversão de vinhas
+    - Altera Artigo 103.º-U — Investimentos
+    - Altera Artigo 106.º
+    - Altera Artigo 113.º-B — Comercialização da carne de bovinos de idade não superior a doze meses
+    - Altera Artigo 118.º-J — Homonímia
+    - Altera Artigo 118.º-L — Relação com marcas registadas
+    - Altera Artigo 118.º-M — Protecção
+    - Altera Artigo 118.º-O — Designação da autoridade de controlo competente
+    - Altera Artigo 118.º-S — Nomes de vinhos actualmente protegidos
+    - Altera Artigo 118.º-X — Aplicabilidade das regras horizontais
+    - Altera Artigo 126.º-C — Negociações contratuais no setor do leite e dos produtos lácteos
+    - Altera Artigo 129.º
+    - Altera Artigo 147.º
+    - Altera Artigo 154.º
+    - Altera Artigo 159.º
+    - Altera Artigo 167.º
+    - Altera Artigo 196.º-B — Procedimento de comité
+    - Altera Artigo 200.º
+    - Altera Artigo 203.º-A — Regras transitórias nos sectores das frutas e produtos hortícolas e dos produtos transformados
+      à base de frutas e produtos hortícolas
+    - 'Altera Parte XXI: Outros produtos'
+    - 'Altera Parte II: Definições relativas ao sector do açúcar'
+    - Altera V. Classificação e identificação
+    - Altera II. Classificação
+    - Altera ANEXO VI
+    - 'Altera 1. Quotas nacionais: quantidades (toneladas) por período de doze meses por Estado-Membro:'
+    - Altera 2. Reservas especiais de reestruturação
+    - Altera TEOR DE MATÉRIA GORDA DE REFERÊNCIA A QUE SE REFERE O ARTIGO 70.º
+    - Altera ANEXO X-B
+    - Altera ANEXO XI
+  - date: '2013-12-31'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 61.º
+    - Altera Artigo 78.º
+    - Altera Artigo 84.º–A — Quotas de fécula de batata
+    - Altera Artigo 103.º
+    - Altera Artigo 103.º-A — Ajudas aos agrupamentos de produtores
+    - Altera Artigo 103.º-C — Programas operacionais
+    - Altera Artigo 103.º-D — Assistência financeira comunitária
+    - Altera Artigo 103.º-F — Quadro nacional e estratégia nacional para os programas operacionais
+    - Altera Artigo 103.º-GA — Ajuda para a distribuição às crianças de frutas e legumes, de frutas e legumes transformados
+      e produtos derivados de bananas
+    - Altera Artigo 103.º-Q — Reestruturação e reconversão de vinhas
+    - Altera Artigo 103.º-U — Investimentos
+    - Altera Artigo 106.º
+    - Altera Artigo 113.º-B — Comercialização da carne de bovinos de idade não superior a doze meses
+    - Altera Artigo 118.º-J — Homonímia
+    - Altera Artigo 118.º-L — Relação com marcas registadas
+    - Altera Artigo 118.º-O — Designação da autoridade de controlo competente
+    - Altera Artigo 118.º-S — Nomes de vinhos actualmente protegidos
+    - Altera Artigo 118.º-X — Aplicabilidade das regras horizontais
+    - Altera Artigo 126.º-C — Negociações contratuais no setor do leite e dos produtos lácteos
+    - Altera Artigo 129.º
+    - Altera Artigo 147.º
+    - Altera Artigo 154.º
+    - Altera Artigo 159.º
+    - Altera Artigo 167.º
+    - Altera Artigo 196.º-B — Procedimento de comité
+    - Altera Artigo 200.º
+    - Altera Artigo 203.º-A — Regras transitórias nos sectores das frutas e produtos hortícolas e dos produtos transformados
+      à base de frutas e produtos hortícolas
+    - Altera Artigo 204.º
+    - 'Altera Parte XXI: Outros produtos'
+    - 'Altera Parte II: Definições relativas ao sector do açúcar'
+    - Altera V. Classificação e identificação
+    - Altera II. Classificação
+    - Altera ANEXO X-B
+    - Altera ANEXO XI
+    - Altera II. Classificação dos bovinos de idade não superior a doze meses no matadouro
+    - Altera VII. Controlos oficiais
+    - Altera II. Utilização da designação «leite»
+    - Altera III. Utilização das designações no caso de produtos concorrentes
+    - Altera II. Definições
+  - date: '2018-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime PARTE I
+    - Suprime DISPOSIÇÕES PRELIMINARES
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime PARTE II
+    - Suprime MERCADO INTERNO
+    - Suprime TÍTULO I
+    - Suprime INTERVENÇÃO NO MERCADO
+    - Suprime CAPÍTULO I
+    - Suprime Intervenção pública e armazenagem privada
+    - Suprime Secção I
+    - Suprime Disposições gerais
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Secção II
+    - Suprime Intervenção pública
+    - Suprime Subsecção I
+    - Suprime Artigo 10.º
+    - Suprime Subsecção II
+    - Suprime Abertura das compras
+    - Suprime Artigo 11.º — Períodos de intervenção pública
+    - Suprime Artigo 12.º — Abertura da intervenção pública
+    - Suprime Artigo 13.º — Limites da intervenção
+    - Suprime Subsecção III
+    - Suprime Preços de intervenção
+    - Suprime Artigo 18.º — Preços de intervenção
+    - Suprime Subsecção IV
+    - Suprime Escoamento das existências de intervenção
+    - Suprime Artigo 25.º
+    - Suprime Artigo 26.º
+    - Suprime Artigo 27.º
+    - Suprime Secção III
+    - Suprime Armazenagem privada
+    - Suprime Ajuda obrigatória
 identifiers:
   celex: 32007R1234
   eli: http://data.europa.eu/eli/reg/2007/1234/oj
@@ -55,7 +803,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cdc39167-df71-40ca-a817-12537381ae5e.0018
   content_url: http://publications.europa.eu/resource/cellar/be572066-c2ac-4573-b85f-cd0068af47f3.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R1234-20180101
-  retrieved_at: '2026-10-22T02:23:52Z'
+  retrieved_at: '2026-10-22T15:11:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-06T13:08:31.158+01:00'
 integrity:
@@ -64,9 +812,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:23:52Z'
-  notes: Texto consolidado 02007R1234-20180101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:11:06Z'
+  notes: 17 versão(ões); histórico completo em regulamento-ue-2007-1234.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -1370,16 +2118,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:23:52Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:11:06Z'
+  warnings: []
   errors: []
 ---
 

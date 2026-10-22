@@ -35,6 +35,23 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2004-02-11'
+version_history:
+  file: diretiva-ue-2004-4.versoes.json
+  count: 2
+  source_lastmod: '2004-02-11'
+  versions:
+  - date: '2004-01-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-02-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º
+    - Adita ANEXO
+    - Suprime ANEXO — "ANEXO
 identifiers:
   celex: 32004L0004
   eli: http://data.europa.eu/eli/dir/2004/4/oj
@@ -49,7 +66,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/34519c7b-2ce3-47f7-a51b-8a065be76581.0010
   content_url: http://publications.europa.eu/resource/cellar/bfec5477-1674-479b-a7a0-c1a24cec05f8.0010.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0004-20040211
-  retrieved_at: '2026-10-22T03:11:38Z'
+  retrieved_at: '2026-10-22T14:56:35Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-13T20:51:58.818+01:00'
 integrity:
@@ -58,9 +75,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:38Z'
-  notes: Texto consolidado 02004L0004-20040211.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:56:35Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2004-4.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -111,15 +128,14 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:38Z'
-  warnings:
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:56:35Z'
+  warnings: []
   errors: []
 ---
 

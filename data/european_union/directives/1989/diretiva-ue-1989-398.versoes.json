@@ -1,0 +1,663 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0398:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0398-20090609",
+ "dre_path": null,
+ "source_lastmod": "2009-06-09",
+ "versions": [
+  {
+   "date": "1989-06-30",
+   "future": false,
+   "celex": "31989L0398",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2686a59b30911f0f",
+    "44b19f65fd215a1f",
+    "56823a360860428d",
+    "7e2204f0201f5055",
+    "f2a63b3695d874db",
+    "83d01d0471eaf397",
+    "a90ca41876fd4308",
+    "02cd6e4149a39e3b",
+    "fad65f7caaa838b8",
+    "90607d434e85a6a0",
+    "cd106d10359d72fb",
+    "838c0cd1edb700a1",
+    "8dd55ccdcf2efe1a",
+    "7d732131c1c2ca75",
+    "d102a4e14bd693aa",
+    "3aba9e9d5eb2ca9d",
+    "b7d32fc3e7abf398",
+    "5fc1173d03131954",
+    "909ecfc0b0f0c604",
+    "909ecfc0b0f0c604",
+    "329bfe94470b3b61",
+    "acea549052e750a1",
+    "b9cdeb8850b6d4b6",
+    "2d0180b37eda2df1",
+    "7cfd5373386eb20d",
+    "bbd8e5ab9a9218a5",
+    "2d0180b37eda2df1",
+    "9362acd6b8b07f92",
+    "7aeee04bc52dc1ba",
+    "acea549052e750a1",
+    "30034d0099e1f98e",
+    "7aeee04bc52dc1ba",
+    "c7cf18f8246abb03",
+    "004b1516555b3651",
+    "78a835756423f1f8",
+    "6c77563065048ca2",
+    "b578ddc6308bb32c",
+    "825f64d7ce906f0c",
+    "874aab560bb4cba3",
+    "8eb599943f6740ef",
+    "541cba0d68ac01a3",
+    "943367cd337acace",
+    "fcebd92a089a0ddf",
+    "b652aff46756d055",
+    "42305db8daa25a8a",
+    "7900764a2ec77de1",
+    "a69f42cea7546768",
+    "0a100c63e03aa80f",
+    "714f95cc8a8845fe",
+    "f3d4d7019960883e",
+    "f32ac8195894fc95",
+    "7f8786ae3bdfc6c4",
+    "4b3d00f3a1330c92",
+    "85e5857650ae2648",
+    "fcebd92a089a0ddf",
+    "bc540b4356436eb8",
+    "e88dfd3ebf8e53cb",
+    "b03ce54348bbf795",
+    "4f6a6b4676f7d9ec",
+    "8cb03444a3cfb4fd",
+    "e2e55b7531541709",
+    "85e5857650ae2648",
+    "005ad5574854a509",
+    "da35111137daeda3",
+    "bbe1a8ae9e896781",
+    "d1ae64c7b6ff4780",
+    "e2e55b7531541709",
+    "e189c8f462012b38",
+    "005ad5574854a509",
+    "1ad6aa5417923db2",
+    "bbf9ecaeabedd9d2"
+   ]
+  },
+  {
+   "date": "2009-06-09",
+   "future": false,
+   "celex": "01989L0398-20090609",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime anexo II. — Artigo 15º",
+    "Suprime Artigo 16º — Os Estados-membros são os destinatários da presente",
+    "Suprime ANEXO II TABELA DE CORRESPONDÊNCIA — Directiva 77/94/CEE",
+    "Suprime Artigo 1º — ., nº 1",
+    "Suprime Artigo 1º — ., nº 2",
+    "Suprime Artigo 2º — ., nº 2",
+    "Suprime Artigo 1º — ., nº 3",
+    "Suprime Artigo 2º — ., nº 1",
+    "Suprime Artigo 3º — ., nº 1",
+    "Suprime Artigo 2º — ., nº 2, primeiro parágrafo",
+    "Suprime Artigo 2º — ., nº 2, segundo parágrafo",
+    "Suprime Artigo 2º — ., nº 3",
+    "Suprime Artigo 2º — ., nº 4",
+    "Suprime Artigo 3º — ., nº 2",
+    "Suprime Artigo 4º — ., nº 1",
+    "Suprime Artigo 6º — ., nº 1",
+    "Suprime Artigo 4º — ., nº 2",
+    "Suprime Artigo 4º — ., nº 3",
+    "Suprime Artigo 6º — ., nº 2",
+    "Suprime Artigo 5º — ., nº 1",
+    "Suprime Artigo 7º — ., nº 1",
+    "Suprime Artigo 5º — ., nº 2, alínea a)",
+    "Suprime Artigo 7º — ., nº 2",
+    "Suprime Artigo 5º — ., nº 2, alíneas b) e c)",
+    "Suprime Artigo 7º — ., nº 3, alíneas a) e b)",
+    "Suprime Artigo 5º — ., nº 2, alínea d)",
+    "Suprime Artigo 5º — ., nº 2, alínea e)",
+    "Suprime Artigo 7º — ., nº 4",
+    "Suprime Artigo 5º — ., nº 3",
+    "Suprime Artigo 10º — ., nº 1",
+    "Suprime Artigo 10º — ., nº 2",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Anexo I"
+   ],
+   "fragments": [
+    "19140281e16c3784"
+   ]
+  }
+ ],
+ "fragments": {
+  "2686a59b30911f0f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 89/398/CEE do Conselho, de 3 de Maio de 1989, relativa à aproximação das legislações dos Estados- membros respeitantes aos géneros alimentícios destinados a uma alimentação especial** *Jornal Oficial nº L 186 de 30/06/1989 p. 0027 - 0032 Edição especial finlandesa: Capítulo 13 Fascículo 19 p. 0051 Edição especial sueca: Capítulo 13 Fascículo 19 p. 0051*\n\nDIRECTIVA DO CONSELHO de 3 de Maio de 1989 relativa à aproximação das legislações dos Estados-membros respeitantes aos géneros alimentícios destinados a uma alimentação especial (89/398/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comuni-\n\ndade Económica Europeia e, nomeadamente, o seu ar-\n\ntigo 100º A,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a Directiva 77/94/CEE do Conselho, de 21 de Dezembro de 1976, relativa à aproximação das legislações dos Estados-membros respeitantes aos géneros alimentícios destinados a uma alimentação especial (4), com a última redacção que lhe foi dada pela Directiva 85/7/CEE (5), foi alterada por diversas vezes; que, no intuito de uma maior clareza, convém proceder a uma codificação da referida directiva;\n\nConsiderando que a adopção da Directiva 77/94/CEE foi justificada pelo facto de que as diferenças entre as legislações nacionais respeitantes aos géneros alimentícios destinados a uma alimentação especial dificultavam a livre circulação desses produtos, podiam ter criado condições de concorrência desiguais e tinham, por esse facto, uma incidência directa sobre o estabelecimento e o funcionamento do mercado comum;\n\nConsiderando que a aproximação das legislações nacionais implicava, numa primeira fase, o estabelecimento de uma definição comum, a determinação de medidas que permitam garantir a protecção do consumidor contra as fraudes sobre a natureza desses produtos e a fixação das regras a que deve obedecer a rotulagem dos produtos em questão;\n\nConsiderando que os produtos abrangidos pela presente directiva são géneros alimentícios cuja composição e elaboração devem ser especialmente estudadas para satisfazer as necessidades nutricionais especiais das pessoas a que são essencialmente destinados; que, por conseguinte, pode ser necessário prever derrogações às disposições gerais ou especiais aplicáveis aos géneros alimentícios, a fim de conseguir o objectivo nutricional específico pretendido;\n\nConsiderando que, se os géneros alimentícios destinados a uma alimentação especial, em relação aos quais tenham sido adoptadas disposições específicas, podem ser eficazmente controlados com base nas regras gerais aplicáveis ao controlo de todos os géneros alimentícios, nem sempre essa possibilidade se verifica no que respeita aos géneros não abrangidos por tais disposições específicas;\n\nConsiderando efectivamente que, naquele último caso, os meios habituais postos à disposição dos serviços de controlo podem, em determinadas circunstâncias, não permitir que se verifique se o género alimentício em causa possui de facto as propriedades nutricionais especiais que lhe são atribuídas; que convém, por conseguinte, prever que, se tal for necessário, o responsável da comercialização desse produto assistirá o serviço de controlo no exercício das suas actividades;\n\nConsiderando que o actual estado de desenvolvimento da regulamentação comunitária relativa aos aditivos não permite adoptar, no âmbito da presente directiva, disposições relativas à utilização de aditivos nos géneros alimentícios destinados a uma alimentação especial que não se encontrem incluídos em qualquer um dos grupos mencionados no anexo; que importa, por conseguinte, que essa questão seja oportunamente reexaminada;\n\nConsiderando que a elaboração de directivas específicas de execução dos princípios de base da regulamentação comunitária, bem como as respectivas alterações, são medidas de execução de carácter técnico; que a sua adopção deve ser atribuída à Comissão a fim de simplificar e acelerar o processo;\n\nConsiderando que, em todos os casos em que o Conselho atribui competência à Comissão para a execução de regras estabelecidas no domínio dos géneros alimentícios destinados à alimentação humana, é conveniente prever um processo que institua uma estreita cooperação entre os Estados-membros e a Comissão no âmbito do Comité Permanente dos Géneros Alimentícios instituído pela Decisão 69/414/CEE (6);\n\nConsiderando que a presente directiva não prejudica os prazos em que os Estados-membros devem dar cumprimento à Directiva 77/94/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "44b19f65fd215a1f": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva diz respeito aos géneros alimentícios destinados a uma alimentação especial.\n\n2. a) Os géneros alimentícios destinados a uma alimentação especial são géneros alimentícios que, devido à sua composição especial ou a processos especiais de fabrico, se destinguem claramente dos géneros alimentícios de consumo corrente, são adequados ao objectivo nutricional pretendido e são comercializados com a indicação de que correspondem a esse objectivo;\n\nb) A alimentação especial deve corresponder às necessidades nutricionais especiais:\n\niii) De determinadas categorias de pessoas cujo processo de assimilação ou cujo metabolismo se encontram perturbados ou\n\niii) De determinadas categorias de pessoas que se encontrem em condições fisiológicas especiais e que, por esse facto, possam retirar benefícios especiais de uma ingestão controlada de determinadas substâncias contidas nos alimentos ou\n\niii) Dos lactentes ou crianças de tenra idade em bom estado de saúde."
+  },
+  "56823a360860428d": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os produtos referidos no nº 2, alíneas b), subalínea i), e b), subalínea ii), do artigo 1º podem ser caracterizados pelos qualificativos «dietético» ou «de regime».\n\n2. Na rotulagem, apresentação e publicidade dos géneros alimentícios de consumo corrente são proibidas:\n\na) A utilização dos qualificativos «dietético» ou «de regime», isolados ou em combinação com outros termos, para designar esses géneros alimentícios;\n\nb) Quaisquer outras indicações ou formas de apresentação susceptíveis de fazer crer que se trata de um dos produtos definidos no artigo 1º\n\n3. Todavia, de acordo com disposições a adoptar nos termos do processo previsto no artigo 13º, podem admitir-se, para os géneros alimentícios de consumo corrente adequados a uma alimentação especial, que se faça menção daquela propriedade.\n\nEssas mesmas disposições podem fixar as regras de acordo com as quais essas indicações serão dadas."
+  },
+  "7e2204f0201f5055": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. A natureza ou a composição dos produtos referidos no artigo 1º devem ser de molde a que esses produtos sejam apropriados ao objectivo nutricional específico a que se destinam.\n\n2. Os produtos referidos no artigo 1º devem igualmente obedecer às disposições obrigatórias aplicáveis aos géneros\n\nalimentícos de consumo corrente, excepto no que diz respeito às alterações introduzidas nesses produtos para os tornar conformes com as definições previstas no artigo 1º"
+  },
+  "f2a63b3695d874db": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. As disposições específicas aplicáveis aos grupos de géneros alimentícios destinados a uma alimentação especial constantes do anexo I serão estabelecidas por meio de directivas específicas.\n\nEssas directivas podem incluir, nomeadamente:\n\na) Requisitos essenciais quanto à natureza ou composição dos produtos;\n\nb) Disposições relativas à qualidade das matérias-primas;\n\nc) Requisitos sanitários;\n\nd) As alterações permitidas nos termos do nº 2 do artigo 3º;\n\ne) Uma lista de aditivos;\n\nf)\n\nDisposições relativas à rotulagem, apresentação e publicidade;\n\ng)\n\nAs regras de colheita de amostras e os métodos de análise necessários ao controlo do cumprimento do disposto nas directivas específicas.\n\nEssas directivas específicas serão adoptadas:\n\n- pelo Conselho, nos termos do processo previsto no artigo 100ºA do Tratado, no que respeita à\n\nalínea e),\n\n- nos termos do processo previsto no artigo 13º, no que respeita às restantes alíneas.\n\nA disposições susceptíveis de ter incidência sobre a saúde pública serão adoptadas após consulta ao Comité Científico da Alimentação Humana, instituído pela Decisão 74/234/CEE (7).\n\n2. Será adoptada, nos termos do processo previsto no artigo 13º, uma lista das substâncias com objectivo nutricional especial, tais como vitaminas, sais minerais, aminoácidos e outras substâncias a adicionar aos géneros alimentícios destinados a uma alimentação especial, bem como os critérios de pureza que lhes são aplicáveis e, eventualmente, as condições de utilização."
+  },
+  "83d01d0471eaf397": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nPodem ser adoptadas, nos termos do processo referido no artigo 13º, regras que permitam que a rotulagem, a apresentação e a publicidade façam alusão a um regime ou a uma categoria de pessoas a que um produto referido no artigo 1º se destina."
+  },
+  "a90ca41876fd4308": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. A rotulagem de um produto referido no artigo 1º e as regras de acordo com as quais são realizadas a sua apresentação e publicidade não devem atribuir a esses produtos propriedades de prevenção, tratamento e cura de uma doença humana, nem fazer referência a tais propriedades.\n\nPodem ser previstas, nos termos do processo previsto no artigo 13º, derrogações ao primeiro parágrafo em casos excepcionais e bem determinados. As derrogações em questão podem ser mantidas até à conclusão desse processo.\n\n2. O nº 1 não prejudica a difusão de quaisquer informações ou recomendações úteis destinadas exclusivamente às pessoas qualificadas nos domínios da medicina, da nutrição ou da farmácia."
+  },
+  "02cd6e4149a39e3b": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. A Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios (8), com a última redacção que lhe foi dada pela Directiva 89/395/CEE (9), é aplicável aos produtos referidos no artigo 1º, nas condições abaixo indicadas.\n\n2. A denominação sob a qual um produto é posto à venda deve ser acompanhada pela indicação das suas características nutricionais especiais. Todavia, no caso dos produtos referidos no nº 2, alínea b) subalínea iii), do artigo 1º, tal menção será substituída por uma indicação do fim a que o produto se destina.\n\n3. A rotulagem dos produtos para os quais não tenha sido adoptada qualquer directiva específica nos termos do artigo 4º deve também incluir:\n\na) Os elementos especiais da composição qualitativa e quantitativa ou o processo especial de fabrico que conferem ao produto características nutricionais especiais;\n\nb) O valor energético disponível expresso em kj ou kcal, bem como o teor em glúcidos, prótidos e lípidos por 100 g ou 100 ml de produto comercializado e, eventualmente, caso seja essa a apresentação do produto, por quantidade proposta para consumo.\n\nTodavia, se esse valor energético for inferior a 50 kj (12 kcal) por 100 g ou 100 ml de produto comercializado, as referidas indicações podem ser substituídas, quer pela menção «valor energético inferior a 50 kj (12 kcal) por 100 g», quer pela menção «valor energético inferior a 50 kj (12 kcal) por\n\n100 ml».\n\n4. Os requisitos especiais de rotulagem dos produtos para os quais tenha sido adoptada uma directiva específica serão definidos nessa directiva."
+  },
+  "fad65f7caaa838b8": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Os produtos referidos no artigo 1º só podem ser comercializados sob a forma pré-embalada e de tal modo que a embalagem os envolva inteiramente.\n\n2. Todavia, os Estados-membros podem prever derrogações para o comércio a retalho, devendo nesse caso as indicações previstas no artigo 7º acompanhar o produto no momento da sua apresentação para venda."
+  },
+  "90607d434e85a6a0": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nNo que diz respeito aos géneros alimentícios destinados a uma alimentação especial que não pertençam a um dos grupos incluídos anexo I, e a fim de permitir um controlo oficial eficaz a seu respeito, aplicar-se-ão as seguintes disposições específicas:\n\n1. Aquando da primeira comercialização de um dos produtos acima referidos, o fabricante ou, caso se trate de um produto fabricado num estado terceiro, o importador informará dessa primeira comercialização a autoridade competente do Estado-membro em que a comercialização tenha lugar, por meio do envio de um modelo da rotulagem utilizada para esse produto;\n\n2. Aquando da posterior comercialização do mesmo produto num outro Estado-membro, o fabricante ou, se for caso disso, o importador transmitirá à autoridade competente desse Estado-membro a mesma informação, completada pela indicação da autoridade destinatária da primeira notificação;\n\n3. Se necessário, a autoridade competente pode exigir ao fabricante ou, se for caso disso, ao importador a apresentação dos trabalhos científicos e dos dados que comprovem a conformidade do produto com o nº 2 do artigo 1º, bem como as menções previstas no nº 3, alínea a), do artigo 7º Se esses trabalhos tiverem sido objecto de uma publicação de fácil acesso, será suficiente fazer uma referência a essa publicação;\n\n4. Os Estados-membros comunicarão à Comissão a identidade das autoridades competentes para os efeitos do presente artigo e qualquer outra informação útil que lhes diga respeito.\n\nA Comissão publicará essas informações no Jornal Oficial das Comunidades Europeias.\n\nAs regras de execução do presente número podem ser adoptadas nos termos do processo previsto no artigo 13º\n\n5. No final de um período de quatro anos a contar da notificação da presente directiva, a Comissão enviará ao Conselho um relatório sobre a aplicação do presente artigo acompanhado, se for caso disso, de propostas adequadas."
+  },
+  "cd106d10359d72fb": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Os Estados-membros não podem proibir ou restringir o comércio dos produtos referidos no artigo 1º que sejam conformes com o disposto na presente directiva e, eventualmente, nas directivas adoptadas em sua execução, por motivos relacionados com a composição, características de fabrico, apresentação ou rotulagem desses produtos.\n\n2. O nº 1 não afecta as disposições nacionais aplicáveis na falta de directivas adoptadas em execução da presente directiva."
+  },
+  "838c0cd1edb700a1": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. Se, com base numa motivação circunstanciada, um Estado-membro verificar que um género alimentício destinado a uma alimentação especial que não pertença a nenhum dos grupos constantes do anexo I, não é conforme com o nº 2 do artigo 1º ou representa um perigo para a saúde humana, apesar de circular livremente num ou vários Estados-membros, esse Estado-membro pode suspender ou limitar provisoriamente no seu território o comércio do produto em causa. Do facto informará imediatamente a Comissão e os outros Estados-membros, precisando os motivos que tenham justificado a sua decisão.\n\n2. A Comissão analisará o mais rapidamente possível os motivos invocados pelo Estado-membro em questão e procederá à consulta dos Estados-membros no âmbito do Comité Permanente dos Géneros Alimentícios, após o que emitirá sem tardar o seu parecer e tomará as medidas adequadas.\n\n3. Se a Comissão considerar que a medida nacional deve ser suprimida ou alterada, dará início ao processo previsto no artigo 13º, a fim de adoptar as medidas adequadas."
+  },
+  "8dd55ccdcf2efe1a": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. Se, com base numa motivação circunstanciada, devido a novas informações ou a uma reavaliação das informações existentes efectuada após a adopção de uma das directivas específicas, um Estado-membro constatar que o uso de um género alimentício destinado a uma alimentação especial põe em perigo a saúde humana, embora seja conforme com as disposições da directiva específica relevante, esse Estado-membro pode suspender ou limitar temporariamente a aplicação no seu território das disposições em questão. Do facto informará imediatamente os outros Estados-membros e a Comissão, precisando os motivos que tenham justificado a sua decisão.\n\n2. A Comissão analisará o mais rapidamente possível os motivos invocados pelo Estado-membro em questão e procederá à consulta dos Estados-membros no âmbito do Comité Permanente dos Géneros Alimentícios, após o que emitirá o seu parecer e tomará as medidas adequadas.\n\n3. Se a Comissão considerar que são necessárias alterações à presente directiva e/ou às directivas específicas para\n\nremediar as dificuldades mencionadas no nº 1 e para assegurar a protecção da saúde humana, dará início ao processo estabelecido no artigo 13º com vista à adopção dessas alterações. O Estado-membro que tiver adoptado medidas de salvaguarda pode, nesse caso, mantê-las até que as alterações tenham sido adoptadas."
+  },
+  "7d732131c1c2ca75": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nQuando seja feita referência ao processo definido no presente artigo, o Comité Permanente dos Géneros Alimentícios, a seguir denominado «Comité», será convocado pelo seu presidente, quer por sua própria iniciativa quer a pedido do representante de um Estado-membro.\n\nO representante da Comissão apresentará ao Comité um projecto de medidas a tomar. O Comité emitirá o seu parecer sobre esse projecto, num prazo que o presidente pode fixar em função da urgência da questão. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no seio do Comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida nesse mesmo artigo. O presidente não participa na votação.\n\nA Comissão adoptará as medidas projectadas, desde que sejam conformes com o parecer do Comité.\n\nQuando as medidas projectadas não forem conformes com o parecer do Comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, decorrido um prazo de três meses a contar da data em que a questão lhe tiver sido apresentada, o Conselho não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "d102a4e14bd693aa": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nFica revogada a Directiva 77/94/CEE.\n\nAs referências feitas à directiva revogada devem entender-se como sendo feitas à presente directiva e devem ler-se de acordo com a tabela de correspondências constante do"
+  },
+  "3aba9e9d5eb2ca9d": {
+   "fragment_id": "anexo II. — Artigo 15º",
+   "type": "divisao",
+   "heading": "anexo II. — Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## anexo II. — Artigo 15º\n\n1. Os Estados-membros alterarão as suas disposições legislativas, regulamentares e administrativas, de modo a:\n\n- permitir, a partir de 16 de Maio de 1990, o comércio dos produtos conformes com a presente directiva,\n\n- proibir, a partir de 16 de Maio de 1991, o comércio dos produtos não conformes com a presente directiva.\n\nDo facto informarão imediatamente a Comissão.\n\n2. O nº 1 não afecta as disposições nacionais que, na falta das directivas a que se refere o artigo 4º, regulem determinados grupos de géneros alimentícios destinados a uma alimentação especial."
+  },
+  "b7d32fc3e7abf398": {
+   "fragment_id": "Artigo 16º — Os Estados-membros são os destinatários da presente",
+   "type": "artigo",
+   "heading": "Artigo 16º — Os Estados-membros são os destinatários da presente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º — Os Estados-membros são os destinatários da presente\n\ndirectiva.\n\nFeito em Bruxelas, em 3 de Maio de 1989.\n\nPelo Conselho\n\nO Presidente\n\nP. SOLBES\n\n(1) JO nº C 124 e 23. 5. 1986, p. 7, e JO nº C 161 de 19. 6. 1987, p. 12.\n\n(2) JO nº C 99 de 13. 4. 1987, p. 54 e JO nº C 120 de 16. 5. 1989.\n\n(3) JO nº C 328 de 22. 12. 1986, p. 9.\n\n(4) JO nº L 26 de 31. 1. 1977, p. 55.\n\n(5) JO nº L 2 de 3. 1. 1985, p. 22.\n\n(6) JO nº L 291 de 19. 11. 1969, p. 9.\n\n(7) JO nº L 136 de 20. 5. 1974, p. 1.\n\n(8) JO nº L 33 de 8. 2. 1979, p. 1.\n\n(9) Ver página 17 do presente Jornal Oficial.\n\nANEXO I Grupos de géneros alimentícios destinados a uma alimentação especial para os quais serão definidas disposições específicas por directivas específicas (¹) 1. Preparados para lactentes\n\n2. Leites de transição e outros alimentos do complemento\n\n3. Alimentos para bebés\n\n4. Géneros alimentícios com valor energético baixo ou reduzido destinados ao controlo do peso\n\n5. Alimentos dietéticos destinados a fins medicinais específicos\n\n6. Alimentos pobres em sódio, incluindo os sais dietéticos hipossódicos ou assódicos\n\n7. Alimentos sem glúten\n\n8. Alimentos adaptados a um esforço muscular intenso, sobretudo para os desportistas\n\n9. Alimentos destinados a pessoas que sofrem de perturbações do metabolismo dos glúcidos (diabéticos)\n\n(¹) Fica assente que a presente directiva não afecta os produtos que já se encontrem à venda por ocasião da sua adopção."
+  },
+  "5fc1173d03131954": {
+   "fragment_id": "ANEXO II TABELA DE CORRESPONDÊNCIA — Directiva 77/94/CEE",
+   "type": "divisao",
+   "heading": "ANEXO II TABELA DE CORRESPONDÊNCIA — Directiva 77/94/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II TABELA DE CORRESPONDÊNCIA — Directiva 77/94/CEE\n\nPresente directiva"
+  },
+  "909ecfc0b0f0c604": {
+   "fragment_id": "Artigo 1º — ., nº 1",
+   "type": "artigo",
+   "heading": "Artigo 1º — ., nº 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º — ., nº 1"
+  },
+  "329bfe94470b3b61": {
+   "fragment_id": "Artigo 1º — ., nº 2",
+   "type": "artigo",
+   "heading": "Artigo 1º — ., nº 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º — ., nº 2"
+  },
+  "acea549052e750a1": {
+   "fragment_id": "Artigo 2º — ., nº 2",
+   "type": "artigo",
+   "heading": "Artigo 2º — ., nº 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — ., nº 2"
+  },
+  "b9cdeb8850b6d4b6": {
+   "fragment_id": "Artigo 1º — ., nº 3",
+   "type": "artigo",
+   "heading": "Artigo 1º — ., nº 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º — ., nº 3\n\n-"
+  },
+  "2d0180b37eda2df1": {
+   "fragment_id": "Artigo 2º — ., nº 1",
+   "type": "artigo",
+   "heading": "Artigo 2º — ., nº 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — ., nº 1"
+  },
+  "7cfd5373386eb20d": {
+   "fragment_id": "Artigo 3º — ., nº 1",
+   "type": "artigo",
+   "heading": "Artigo 3º — ., nº 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º — ., nº 1"
+  },
+  "bbd8e5ab9a9218a5": {
+   "fragment_id": "Artigo 2º — ., nº 2, primeiro parágrafo",
+   "type": "artigo",
+   "heading": "Artigo 2º — ., nº 2, primeiro parágrafo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — ., nº 2, primeiro parágrafo"
+  },
+  "9362acd6b8b07f92": {
+   "fragment_id": "Artigo 2º — ., nº 2, segundo parágrafo",
+   "type": "artigo",
+   "heading": "Artigo 2º — ., nº 2, segundo parágrafo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — ., nº 2, segundo parágrafo\n\n-"
+  },
+  "7aeee04bc52dc1ba": {
+   "fragment_id": "Artigo 2º — ., nº 3",
+   "type": "artigo",
+   "heading": "Artigo 2º — ., nº 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — ., nº 3"
+  },
+  "30034d0099e1f98e": {
+   "fragment_id": "Artigo 2º — ., nº 4",
+   "type": "artigo",
+   "heading": "Artigo 2º — ., nº 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — ., nº 4"
+  },
+  "c7cf18f8246abb03": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n."
+  },
+  "004b1516555b3651": {
+   "fragment_id": "Artigo 3º — ., nº 2",
+   "type": "artigo",
+   "heading": "Artigo 3º — ., nº 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º — ., nº 2\n\n-"
+  },
+  "78a835756423f1f8": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n."
+  },
+  "6c77563065048ca2": {
+   "fragment_id": "Artigo 4º — ., nº 1",
+   "type": "artigo",
+   "heading": "Artigo 4º — ., nº 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — ., nº 1"
+  },
+  "b578ddc6308bb32c": {
+   "fragment_id": "Artigo 6º — ., nº 1",
+   "type": "artigo",
+   "heading": "Artigo 6º — ., nº 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º — ., nº 1"
+  },
+  "825f64d7ce906f0c": {
+   "fragment_id": "Artigo 4º — ., nº 2",
+   "type": "artigo",
+   "heading": "Artigo 4º — ., nº 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — ., nº 2"
+  },
+  "874aab560bb4cba3": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n."
+  },
+  "8eb599943f6740ef": {
+   "fragment_id": "Artigo 4º — ., nº 3",
+   "type": "artigo",
+   "heading": "Artigo 4º — ., nº 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — ., nº 3"
+  },
+  "541cba0d68ac01a3": {
+   "fragment_id": "Artigo 6º — ., nº 2",
+   "type": "artigo",
+   "heading": "Artigo 6º — ., nº 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º — ., nº 2"
+  },
+  "943367cd337acace": {
+   "fragment_id": "Artigo 5º — ., nº 1",
+   "type": "artigo",
+   "heading": "Artigo 5º — ., nº 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — ., nº 1"
+  },
+  "fcebd92a089a0ddf": {
+   "fragment_id": "Artigo 7º — ., nº 1",
+   "type": "artigo",
+   "heading": "Artigo 7º — ., nº 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — ., nº 1"
+  },
+  "b652aff46756d055": {
+   "fragment_id": "Artigo 5º — ., nº 2, alínea a)",
+   "type": "artigo",
+   "heading": "Artigo 5º — ., nº 2, alínea a)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — ., nº 2, alínea a)"
+  },
+  "42305db8daa25a8a": {
+   "fragment_id": "Artigo 7º — ., nº 2",
+   "type": "artigo",
+   "heading": "Artigo 7º — ., nº 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — ., nº 2"
+  },
+  "7900764a2ec77de1": {
+   "fragment_id": "Artigo 5º — ., nº 2, alíneas b) e c)",
+   "type": "artigo",
+   "heading": "Artigo 5º — ., nº 2, alíneas b) e c)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — ., nº 2, alíneas b) e c)"
+  },
+  "a69f42cea7546768": {
+   "fragment_id": "Artigo 7º — ., nº 3, alíneas a) e b)",
+   "type": "artigo",
+   "heading": "Artigo 7º — ., nº 3, alíneas a) e b)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — ., nº 3, alíneas a) e b)"
+  },
+  "0a100c63e03aa80f": {
+   "fragment_id": "Artigo 5º — ., nº 2, alínea d)",
+   "type": "artigo",
+   "heading": "Artigo 5º — ., nº 2, alínea d)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — ., nº 2, alínea d)\n\n-"
+  },
+  "714f95cc8a8845fe": {
+   "fragment_id": "Artigo 5º — ., nº 2, alínea e)",
+   "type": "artigo",
+   "heading": "Artigo 5º — ., nº 2, alínea e)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — ., nº 2, alínea e)"
+  },
+  "f3d4d7019960883e": {
+   "fragment_id": "Artigo 7º — ., nº 4",
+   "type": "artigo",
+   "heading": "Artigo 7º — ., nº 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — ., nº 4"
+  },
+  "f32ac8195894fc95": {
+   "fragment_id": "Artigo 5º — ., nº 3",
+   "type": "artigo",
+   "heading": "Artigo 5º — ., nº 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — ., nº 3\n\n-"
+  },
+  "7f8786ae3bdfc6c4": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n."
+  },
+  "4b3d00f3a1330c92": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n.\n\n-"
+  },
+  "85e5857650ae2648": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n."
+  },
+  "bc540b4356436eb8": {
+   "fragment_id": "Artigo 10º — ., nº 1",
+   "type": "artigo",
+   "heading": "Artigo 10º — ., nº 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º — ., nº 1\n\n-"
+  },
+  "e88dfd3ebf8e53cb": {
+   "fragment_id": "Artigo 10º — ., nº 2",
+   "type": "artigo",
+   "heading": "Artigo 10º — ., nº 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º — ., nº 2"
+  },
+  "b03ce54348bbf795": {
+   "fragment_id": "Artigo 7º — ., nº 2",
+   "type": "artigo",
+   "heading": "Artigo 7º — ., nº 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — ., nº 2\n\n-"
+  },
+  "4f6a6b4676f7d9ec": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n.\n\n-\n\n-"
+  },
+  "8cb03444a3cfb4fd": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n.\n\n-"
+  },
+  "e2e55b7531541709": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n."
+  },
+  "005ad5574854a509": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n."
+  },
+  "da35111137daeda3": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n.\n\n-"
+  },
+  "bbe1a8ae9e896781": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n.\n\n-\n\n-"
+  },
+  "d1ae64c7b6ff4780": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n."
+  },
+  "e189c8f462012b38": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\n."
+  },
+  "1ad6aa5417923db2": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\n.\n\n-"
+  },
+  "bbf9ecaeabedd9d2": {
+   "fragment_id": "Anexo I",
+   "type": "divisao",
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I"
+  },
+  "19140281e16c3784": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1989L0398 — PT — 09.06.2009 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31989L0398) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31989L0398) [de 3 de Maio de 1989](http://publications.europa.eu/resource/celex/31989L0398) [relativa à aproximação das legislações dos Estados-membros respeitantes aos géneros alimentícios destinados a uma alimentação especial](http://publications.europa.eu/resource/celex/31989L0398) [(89/398/CEE)](http://publications.europa.eu/resource/celex/31989L0398) (JO L 186, 30.6.1989, p.27)\n\n**revogado por:**\n\n- [Directiva 2009/39/CE do Parlamento Europeu e do Conselho de 6 de Maio de 2009](http://publications.europa.eu/resource/celex/32009L0039) — L 124 — 21 — 20.5.2009"
+  }
+ }
+}

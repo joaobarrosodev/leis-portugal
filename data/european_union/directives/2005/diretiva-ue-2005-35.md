@@ -35,6 +35,95 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-05'
+version_history:
+  file: diretiva-ue-2005-35.versoes.json
+  count: 4
+  source_lastmod: '2025-01-05'
+  versions:
+  - date: '2005-09-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-10-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 10.º — Medidas de acompanhamento
+    - Altera Artigo 13.º — Procedimento de Comité
+    - Altera Artigo 16.º — Execução
+    - Altera Artigo 18.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Resumo, para efeitos de referência, das regras da Convenção Marpol 73/78 relativas às descargas de hidrocarbonetos
+      e de substâncias líquidas nocivas, a que se refere o ponto 2 do artigo 2.º
+    - 'Adita Parte I: Hidrocarbonetos (Convenção Marpol 73/78, anexo I)'
+    - 'Adita Parte II: Substâncias líquidas nocivas (anexo II da Convenção Marpol 73/78)'
+  - date: '2009-11-16'
+    amending: eu:celex:32009L0123:por
+    amending_title: DIRECTIVA 2009/123/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 21 de
+      Outubro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Infracções
+    - Altera Artigo 5.º — Excepções
+    - Altera Artigo 8.º — Sanções
+    - Altera Artigo 10.º — Medidas de acompanhamento
+    - Altera Artigo 13.º — Procedimento de Comité
+    - Altera Notas
+    - Adita Artigo 5.ºA — Infracções penais
+    - Adita Artigo 5.ºB — Instigação e cumplicidade
+    - Adita Artigo 8.ºA — Sanções aplicáveis às pessoas singulares
+    - Adita Artigo 8.ºB — Responsabilidade das pessoas colectivas
+    - Adita Artigo 8.ºC — Sanções aplicáveis às pessoas colectivas
+  - date: '2025-01-05'
+    amending: eu:celex:32024L3101:por
+    amending_title: DIRETIVA (UE) 2024/3101 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 13.º — Procedimento de Comité
+    - Altera Notas
+    - Adita Artigo 1.º — Objeto
+    - Adita Artigo 4.º — Infrações e exceções
+    - Adita Artigo 6.º — Medidas de aplicação relativas a navios que se encontram num porto de um Estado-Membro
+    - Adita Artigo 8.º — Sanções administrativas
+    - Adita Artigo 8.º-D — Aplicação efetiva das sanções
+    - Adita Artigo 10.º — Intercâmbio de informações e de experiência
+    - Adita Artigo 10.º-A — Relatórios
+    - Adita Artigo 10.º-B — Formação
+    - Adita Artigo 10.º-C — Publicação da informação
+    - Adita Artigo 10.º-D — Proteção das pessoas que denunciam potenciais infrações e proteção dos seus dados pessoais
+    - Adita Artigo 12.º-A — Avaliação e revisão
+    - Adita Artigo 16.º — Transposição
+    - Adita ANEXO I
+    - Adita Lista não exaustiva das irregularidades ou informações referidas no artigo 6.º
+    - Adita ANEXO II
+    - Adita Informações que devem constar da análise global à escala da União publicada pela Comissão, referida no artigo
+      10.º-C
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 4.º — Infracções
+    - Suprime Artigo 5.º — Excepções
+    - Suprime Artigo 5.ºA — Infracções penais
+    - Suprime Artigo 5.ºB — Instigação e cumplicidade
+    - Suprime Artigo 6.º — Medidas de aplicação no que respeita aos navios que se encontram num porto de um Estado-Membro
+    - Suprime Artigo 8.º — Sanções
+    - Suprime Artigo 8.ºA — Sanções aplicáveis às pessoas singulares
+    - Suprime Artigo 8.ºB — Responsabilidade das pessoas colectivas
+    - Suprime Artigo 8.ºC — Sanções aplicáveis às pessoas colectivas
+    - Suprime Artigo 10.º — Medidas de acompanhamento
+    - Suprime Artigo 11.º — Estudo de Viabilidade
+    - Suprime Artigo 12.º — Relatórios
+    - Suprime Artigo 14.º — Prestação de informações
+    - Suprime Artigo 15.º — Procedimento de alteração
+    - Suprime Artigo 16.º — Execução
+    - Suprime ANEXO
+    - Suprime Resumo, para efeitos de referência, das regras da Convenção Marpol 73/78 relativas às descargas de hidrocarbonetos
+      e de substâncias líquidas nocivas, a que se refere o ponto 2 do artigo 2.º
+    - 'Suprime Parte I: Hidrocarbonetos (Convenção Marpol 73/78, anexo I)'
+    - 'Suprime Parte II: Substâncias líquidas nocivas (anexo II da Convenção Marpol 73/78)'
 identifiers:
   celex: 32005L0035
   eli: http://data.europa.eu/eli/dir/2005/35/oj
@@ -49,7 +138,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e6a25180-e5fa-40f9-b696-8106994d6547.0017
   content_url: http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0035-20250105
-  retrieved_at: '2026-10-22T02:45:13Z'
+  retrieved_at: '2026-10-22T14:59:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T02:18:20.100+01:00'
 integrity:
@@ -58,9 +147,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:13Z'
-  notes: Texto consolidado 02005L0035-20250105.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:21Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2005-35.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -189,35 +278,19 @@ relationships:
   date: '2018-07-11'
 article_structure:
   article_count: 19
-  section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 5
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:13Z'
+  checked_at: '2026-10-22T14:59:21Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2005/35/CE do Parlamento Europeu e do Conselho, de 7 de Setembro de 2005
-
-> 02005L0035 — PT — 05.01.2025 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32009L0123) — [DIRECTIVA 2009/123/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009L0123) — L 280 — 52 — 27.10.2009
-- [►M2](http://publications.europa.eu/resource/celex/32024L3101) — [DIRETIVA (UE) 2024/3101 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024](http://publications.europa.eu/resource/celex/32024L3101) — L 3101 — 1 — 16.12.2024
-
-**Retificada por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32005L0035R%2801%29) — [Rectificação, JO L 033, 4.2.2006, p. 87 (Directiva 2005/35/CE)](http://publications.europa.eu/resource/celex/32005L0035R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32005L0035R%2802%29) — [Rectificação, JO L 105, 13.4.2006, p. 65 (Directiva 2005/35/CE)](http://publications.europa.eu/resource/celex/32005L0035R%2802%29)
-
-## DIRETIVA 2005/35/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 7 de setembro de 2005
 

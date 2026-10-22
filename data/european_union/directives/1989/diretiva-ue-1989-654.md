@@ -34,6 +34,72 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-26'
+version_history:
+  file: diretiva-ue-1989-654.versoes.json
+  count: 3
+  source_lastmod: '2019-07-26'
+  versions:
+  - date: '1989-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-27'
+    amending: eu:celex:32007L0030:por
+    amending_title: DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de
+      Junho de 2007
+    changes:
+    - Altera preambulo
+    - Adita SECÇÃO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita Artigo 1.º — Objecto
+    - Adita Artigo 2.º — Definição
+    - Adita SECÇÃO II
+    - Adita OBRIGAÇÕES DAS ENTIDADES PATRONAIS
+    - Adita Artigo 3.º — Locais de trabalho utilizados pela primeira vez
+    - Adita Artigo 4.º — Locais de trabalho já utilizados
+    - Adita Artigo 5.º — Modificações dos locais de trabalho
+    - Adita Artigo 6.º — Obrigações gerais
+    - Adita Artigo 7.º — Informação dos trabalhadores
+    - Adita Artigo 8.º — Consulta e participação dos trabalhadores
+    - Adita SECÇÃO III
+    - Adita DISPOSIÇÕES DIVERSAS
+    - Adita Artigo 9.º — Adaptação dos anexos
+    - Adita Artigo 10.º — Disposições finais
+    - Adita Artigo 11.º
+    - Adita ANEXO I
+    - Adita PRESCRIÇÕES MÍNIMAS DE SEGURANÇA E DE SAÚDE PARA OS LOCAIS DE TRABALHO UTILIZADOS PELA PRIMEIRA VEZ, REFERIDOS
+      NO ARTIGO 3º DA DIRECTIVA
+    - Adita 1. Observação preliminar
+    - Adita 2. Estabilidade e solidez
+    - Adita 3. Instalação eléctrica
+    - Adita 4. Vias e saídas de emergência
+    - Adita 5. Detecção e luta contra o incêndio
+    - Adita 6. Ventilação dos locais de trabalho fechados
+    - Adita 7. Temperatura dos locais de trabalho
+    - Adita 8. Iluminação natural e artificial dos locais de trabalho
+    - Adita 9. Pavimentos, paredes, tectos e telhados dos locais de trabalho
+    - Adita 10. Janelas e clarabóias dos locais de trabalho
+    - Adita 11. Portas e portões
+    - Adita 12. Vias de circulação — zonas de perigo
+    - Adita 13. Medidas específicas para escadas e passadeiras rolantes
+    - Adita 14. Cais e rampas de carga
+    - Adita 15. Dimensões e volume de ar nos locais de trabalho - espaço para a liberdade de movimento no posto de trabalho
+    - Adita 16. Locais de descanso
+    - Adita 17. Mulheres grávidas e mães em período de amamentação
+    - Adita 18. Instalações sanitárias
+    - Adita 18.1. Vestiários e armários para roupa
+    - Adita 18.2. Chuveiros, lavatórios
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera 4. Vias e saídas de emergência
+    - Altera Notas
+    - Adita Artigo 9.º — Alteração dos anexos
+    - Adita Artigo 9.º-A — Exercício da delegação
+    - Adita Artigo 9.º-B — Procedimento de urgência
+    - Suprime Artigo 9.º — Adaptação dos anexos
 identifiers:
   celex: 31989L0654
   eli: http://data.europa.eu/eli/dir/1989/654/oj
@@ -48,7 +114,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1338a22e-5af5-4932-857f-a077025cf89a.0011
   content_url: http://publications.europa.eu/resource/cellar/1ff7f1af-e420-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0654-20190726
-  retrieved_at: '2026-10-22T02:50:09Z'
+  retrieved_at: '2026-10-22T14:36:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T09:51:33.557+01:00'
 integrity:
@@ -57,9 +123,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:50:09Z'
-  notes: Texto consolidado 01989L0654-20190726.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:36:06Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1989-654.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -134,30 +200,19 @@ relationships:
   source: null
 article_structure:
   article_count: 13
-  section_count: 53
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 54
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:50:09Z'
+  checked_at: '2026-10-22T14:36:06Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 89/654/CEE do Conselho, de 30 de Novembro de 1989
-
-> 01989L0654 — PT — 26.07.2019 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007L0030) — [DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007](http://publications.europa.eu/resource/celex/32007L0030) — L 165 — 21 — 27.6.2007
-- [►M2](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-## DIRECTIVA DO CONSELHO
 
 de 30 de Novembro de 1989
 

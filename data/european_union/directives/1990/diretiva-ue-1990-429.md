@@ -34,6 +34,54 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-04-21'
+version_history:
+  file: diretiva-ue-1990-429.versoes.json
+  count: 2
+  source_lastmod: '2021-04-21'
+  versions:
+  - date: '1990-08-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-04-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I — Disposições gerais
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime CAPÍTULO II — Trocas comerciais intracomunitárias
+    - Suprime Artigo 3º
+    - Suprime anexo B; — c)
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime artigo 18º — Artigo 6º
+    - Suprime CAPÍTULO III — Importações provenientes de países terceiros
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime artigo 7º, — - que o sémen não provém de um centro de colheita
+    - Suprime artigo 8º, — - que o sémen provém do território de um país terceiro do qual são proibidas as importações nos
+      termos do no. 2 do artigo 15º,
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º — Se forem decididas medidas de destruição em aplicação do
+    - Suprime CAPÍTULO IV — Medidas de salvaguarda e de controlo
+    - Suprime Artigo 14º
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime CAPÍTULO V — Disposições finais
+    - Suprime Artigo 17º
+    - Suprime Artigo 18º
+    - Suprime Artigo 19º
+    - Suprime Artigo 20º
+    - Suprime Artigo 21º
+    - Suprime Artigo 22º — Os Estados-membros são os destinatários da presente
+    - Suprime ANEXO A CAPÍTULO I Condições de autorização dos centros de colheita de sémen
+    - Suprime CAPÍTULO II Condições relativas à fiscalização dos centros de colheita de sémen
+    - Suprime ANEXO D
 identifiers:
   celex: 31990L0429
   eli: http://data.europa.eu/eli/dir/1990/429/oj
@@ -48,7 +96,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0c5e6c29-6301-4853-9f0d-5e1f60a101a8.0011
   content_url: http://publications.europa.eu/resource/cellar/41e8bc6f-30dd-11ec-bd8e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0429-20210421
-  retrieved_at: '2026-10-22T02:44:11Z'
+  retrieved_at: '2026-10-22T14:37:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T02:46:47.021+01:00'
 integrity:
@@ -57,9 +105,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:11Z'
-  notes: Texto consolidado 01990L0429-20210421.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:37:00Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1990-429.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -177,16 +225,20 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:11Z'
+  checked_at: '2026-10-22T14:37:00Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01990L0429-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0429-19991001: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0429-19991217: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0429-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0429-20080903: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01990L0429-20120601: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

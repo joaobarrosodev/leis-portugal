@@ -34,6 +34,38 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-01-01'
+version_history:
+  file: decisao-ue-1994-741.versoes.json
+  count: 2
+  source_lastmod: '2022-01-01'
+  versions:
+  - date: '1994-11-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-01-01'
+    amending: eu:celex:32007D0151:por
+    amending_title: DECISÃO DA COMISSÃO de 6 de Março de 2007; DECISÃO DE EXECUÇÃO (UE) 2021/2252 DA COMISSÃO de 16 de dezembro
+      de 2021
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita LISTA DOS QUESTIONÁRIOS
+    - Adita QUESTIONÁRIO
+    - Adita para o relatório a elaborar pelos Estados-membros sobre a transposição e aplicação da Directiva 75/439/CEE relativa
+      à eliminação dos óleos usados, com a última redacção que lhe foi dada pela Directiva 91/692/CEE ([^5^](http://publications.europa.eu/resource/cellar/bfec1506-78d5-11ec-9136-01aa75ed71a1.0020.02/DOC_1#E0005))
+    - Adita para os relatórios dos Estados-Membros sobre a transposição e a aplicação da Directiva 2006/12/CE
+    - Adita para o relatório a elaborar pelos Estados-Membros sobre a transposição e aplicação da Diretiva 86/278/CEE do Conselho
+      relativa à proteção do ambiente, e em especial dos solos, na utilização agrícola de lamas de depuração ([^6^](http://publications.europa.eu/resource/cellar/bfec1506-78d5-11ec-9136-01aa75ed71a1.0020.02/DOC_1#E0009)),
+      com a redação que lhe foi dada pela Diretiva 91/692/CEE do Conselho ([^7^](http://publications.europa.eu/resource/cellar/bfec1506-78d5-11ec-9136-01aa75ed71a1.0020.02/DOC_1#E0010))
+      e pelo Regulamento (UE) 2019/1010 do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/bfec1506-78d5-11ec-9136-01aa75ed71a1.0020.02/DOC_1#E0011))
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
 identifiers:
   celex: 31994D0741
   eli: http://data.europa.eu/eli/dec/1994/741/oj
@@ -48,7 +80,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ef15959e-5f43-404b-9e32-b6ec44d2360a.0009
   content_url: http://publications.europa.eu/resource/cellar/bfec1506-78d5-11ec-9136-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994D0741-20220101
-  retrieved_at: '2026-10-22T03:07:37Z'
+  retrieved_at: '2026-10-22T14:42:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-31T20:18:16.218+02:00'
 integrity:
@@ -57,9 +89,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:07:37Z'
-  notes: Texto consolidado 01994D0741-20220101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:54Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-1994-741.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -110,30 +142,20 @@ relationships:
   source: null
 article_structure:
   article_count: 3
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:07:37Z'
-  warnings: []
+  checked_at: '2026-10-22T14:42:54Z'
+  warnings:
+  - '01994D0741-20070307: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Decisão da Comissão, de 24 de Outubro de 1994
-
-> 01994D0741 — PT — 01.01.2022 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007D0151) — [DECISÃO DA COMISSÃO de 6 de Março de 2007](http://publications.europa.eu/resource/celex/32007D0151) — L 67 — 7 — 7.3.2007
-- [►M2](http://publications.europa.eu/resource/celex/32021D2252) — [DECISÃO DE EXECUÇÃO (UE) 2021/2252 DA COMISSÃO de 16 de dezembro de 2021](http://publications.europa.eu/resource/celex/32021D2252) — L 454 — 4 — 17.12.2021
-
-## DECISÃO DA COMISSÃO
 
 de 24 de Outubro de 1994
 

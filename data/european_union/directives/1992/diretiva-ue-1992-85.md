@@ -35,6 +35,82 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-26'
+version_history:
+  file: diretiva-ue-1992-85.versoes.json
+  count: 4
+  source_lastmod: '2019-07-26'
+  versions:
+  - date: '1992-11-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-27'
+    amending: eu:celex:32007L0030:por
+    amending_title: DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de
+      Junho de 2007
+    changes:
+    - Altera preambulo
+    - Altera ANEXO II
+    - Adita SECÇÃO I
+    - Adita OBJECTO E DEFINIÇÕES
+    - Adita Artigo 1.º — Objecto
+    - Adita Artigo 2.º — Definições
+    - Adita SECÇÃO II
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita Artigo 3.º — Directrizes
+    - Adita Artigo 4.º — Avaliação e informação
+    - Adita Artigo 5.º — Consequências dos resultados da avaliação
+    - Adita Artigo 6.º — Proibições de exposição
+    - Adita Artigo 7.º — Trabalho nocturno
+    - Adita Artigo 8.º — Licença de maternidade
+    - Adita Artigo 9.º — Dispensa de trabalho para exames pré-natais
+    - Adita Artigo 10.º — Proibição de despedimento
+    - Adita Artigo 11.º — Direitos decorrentes do contrato de trabalho
+    - Adita Artigo 12.º — Defesa dos direitos
+    - Adita Artigo 13.º — Alteração dos anexos
+    - Adita Artigo 14.º — Disposições finais
+    - Adita Artigo 15.º
+    - Adita ANEXO I
+    - Adita LISTA NÃO EXAUSTIVA DOS AGENTES, PROCESSOS E CONDIÇÕES DE TRABALHO
+    - Adita a que se refere o n.º 1 do artigo 4.º
+    - Adita A. Agentes
+    - Adita B. Processos
+    - Adita C. Condições de trabalho
+    - Adita LISTA NÃO EXAUSTIVA DOS AGENTES E CONDIÇÕES DE TRABALHO
+    - Adita a que se refere o artigo 6.º
+    - Adita A. Trabalhadoras grávidas na acepção da alínea a) do artigo 2.º
+    - Adita 1. Agentes
+    - Adita a) Agentes físicos
+    - Adita b) Agentes biológicos
+    - Adita c) Agentes químicos
+    - Adita 2. Condições de trabalho
+    - Adita B. Mulheres lactantes na acepção da alínea c) do artigo 2.º
+    - Adita a) Agentes químicos
+    - Adita Declaração do Conselho e da Comissão relativa ao ponto 3 do artigo 11.º da Directiva 92/85/CEE, inscrita na acta
+      da 1608.ª sessão do Conselho (Luxemburgo, 19 de Outubro de 1992)
+    - Adita Notas
+    - Suprime SECÇÃO I — OBJECTO E DEFINIÇÕES
+  - date: '2014-03-25'
+    amending: eu:celex:32014L0027:por
+    amending_title: DIRETIVA 2014/27/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera A. Agentes
+    - Altera B. Processos
+    - Altera Notas
+    - Adita A QUE SE REFERE O ARTIGO 6.º
+    - Suprime a que se refere o artigo 6.º
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera A. Agentes
+    - Altera Notas
+    - Adita Artigo 13.º — Alteração do anexo I
+    - Adita Artigo 13.º-A — Exercício da delegação
+    - Adita Artigo 13.º-B — Procedimento de urgência
+    - Suprime Artigo 13.º — Alteração dos anexos
 identifiers:
   celex: 31992L0085
   eli: http://data.europa.eu/eli/dir/1992/85/oj
@@ -49,7 +125,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5ddbd18c-3bca-4809-8c1c-999b99aaede2.0011
   content_url: http://publications.europa.eu/resource/cellar/8c38efd9-e083-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0085-20190726
-  retrieved_at: '2026-10-22T02:38:08Z'
+  retrieved_at: '2026-10-22T14:41:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T06:39:17.923+01:00'
 integrity:
@@ -58,9 +134,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:08Z'
-  notes: Texto consolidado 01992L0085-20190726.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:15Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1992-85.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -294,31 +370,19 @@ relationships:
   date: '2024-06-27'
 article_structure:
   article_count: 17
-  section_count: 24
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 25
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:08Z'
+  checked_at: '2026-10-22T14:41:15Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 92/85/CEE do Conselho, de 19 de Outubro de 1992
-
-> 01992L0085 — PT — 26.07.2019 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007L0030) — [DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007](http://publications.europa.eu/resource/celex/32007L0030) — L 165 — 21 — 27.6.2007
-- [►M2](http://publications.europa.eu/resource/celex/32014L0027) — [DIRETIVA 2014/27/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014L0027) — L 65 — 1 — 5.3.2014
-- [►M3](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-## DIRECTIVA 92/85/CEE DO CONSELHO
 
 de 19 de Outubro de 1992
 

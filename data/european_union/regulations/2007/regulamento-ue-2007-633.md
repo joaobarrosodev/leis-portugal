@@ -37,6 +37,55 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-10-05'
+version_history:
+  file: regulamento-ue-2007-633.versoes.json
+  count: 3
+  source_lastmod: '2023-10-05'
+  versions:
+  - date: '2007-06-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-04-12'
+    amending: eu:celex:32011R0283:por
+    amending_title: Regulamento (UE) n. o 283/2011 da Comissão de 22 de Março de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Disposições transitórias
+    - Altera Artigo 8.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Requisitos de interoperabilidade referidos no artigo 3.º
+    - Adita ANEXO II
+    - Adita Requisitos para apreciação da conformidade dos componentes realizada nos termos do artigo 4.º
+    - Adita ANEXO III
+    - Adita Condições previstas no artigo 5.º
+    - Adita ANEXO IV
+    - 'Adita Parte A: Requisitos para a verificação dos sistemas efectuada nos termos do n.º 1 do artigo 5.º'
+    - 'Adita Parte B: Requisitos para a verificação dos sistemas efectuada nos termos do n.º 2 do artigo 5.º'
+  - date: '2023-10-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Aplicação do protocolo de transferência de mensagens de voo
+    - Suprime Artigo 4.º — Declaração de conformidade dos componentes
+    - Suprime Artigo 5.º — Verificação de sistemas
+    - Suprime Artigo 6.º — Cumprimento
+    - Suprime Artigo 7.º — Disposições transitórias
+    - Suprime Artigo 8.º — Entrada em vigor e aplicação
+    - Suprime ANEXO I
+    - Suprime Requisitos de interoperabilidade referidos no artigo 3.º
+    - Suprime ANEXO II
+    - Suprime Requisitos para apreciação da conformidade dos componentes realizada nos termos do artigo 4.º
+    - Suprime ANEXO III
+    - Suprime Condições previstas no artigo 5.º
+    - Suprime ANEXO IV
+    - 'Suprime Parte A: Requisitos para a verificação dos sistemas efectuada nos termos do n.º 1 do artigo 5.º'
+    - 'Suprime Parte B: Requisitos para a verificação dos sistemas efectuada nos termos do n.º 2 do artigo 5.º'
+    - Suprime Notas
 identifiers:
   celex: 32007R0633
   eli: http://data.europa.eu/eli/reg/2007/633/oj
@@ -51,7 +100,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a8fcdb69-7870-4224-9fbd-2bc0492280fd.0018
   content_url: http://publications.europa.eu/resource/cellar/2fe75650-854d-11ee-99ba-01aa75ed71a1.0001.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0633-20231005
-  retrieved_at: '2026-10-22T02:45:22Z'
+  retrieved_at: '2026-10-22T15:08:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T05:02:21.626+01:00'
 integrity:
@@ -60,9 +109,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:22Z'
-  notes: Texto consolidado 02007R0633-20231005.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:08:53Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2007-633.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -134,16 +183,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:22Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:08:53Z'
+  warnings: []
   errors: []
 ---
 

@@ -34,6 +34,40 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-01-19'
+version_history:
+  file: decisao-ue-2006-144.versoes.json
+  count: 2
+  source_lastmod: '2009-01-19'
+  versions:
+  - date: '2006-09-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-19'
+    amending: eu:celex:32009D0061:por
+    amending_title: DECISÃO DO CONSELHO de 19 de Janeiro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo único
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Orientações estratégicas comunitárias de desenvolvimento rural para o período de programação 2007-2013
+    - Adita 1. INTRODUÇÃO
+    - Adita 2. DESENVOLVIMENTO RURAL E OBJECTIVOS GERAIS DA COMUNIDADE
+    - Adita 2.1. PAC e desenvolvimento rural
+    - 'Adita 2.2. Para uma agricultura sustentável: reformas da PAC de 2003 e 2004'
+    - Adita 2.3. Desenvolvimento rural 2007-2013
+    - Adita 2.4. Responder aos desafios
+    - Adita 2.5. Responder aos novos desafios
+    - Adita 3. FIXAR AS PRIORIDADES DA COMUNIDADE PARA O PERÍODO DE PROGRAMAÇÃO DO DESENVOLVIMENTO RURAL 2007-2013
+    - Adita 3.1. Aumento da competitividade dos sectores agrícola e florestal
+    - Adita 3.2. Melhoria do ambiente e da paisagem rural
+    - Adita 3.3. Melhoria da qualidade de vida nas zonas rurais e promoção da diversificação da economia rural
+    - Adita 3.4. Criação de capacidades locais para o emprego e a diversificação
+    - Adita 3.4-A. Responder aos novos desafios
+    - Adita 3.5. Garantir a coerência da programação
+    - Adita 3.6. Complementaridade entre os instrumentos comunitários
+    - Adita 4. SISTEMA DE INFORMAÇÃO
 identifiers:
   celex: 32006D0144
   eli: http://data.europa.eu/eli/dec/2006/144(1)/oj
@@ -48,7 +82,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a2c65a48-9163-417c-a204-807c36a8e7f6.0016
   content_url: http://publications.europa.eu/resource/cellar/4af96277-477c-41b5-94a1-d59d2c5db78c.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006D0144-20090119
-  retrieved_at: '2026-10-22T03:12:25Z'
+  retrieved_at: '2026-10-22T15:01:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T05:16:27.236+01:00'
 integrity:
@@ -57,9 +91,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:25Z'
-  notes: Texto consolidado 02006D0144-20090119.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:01:05Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2006-144.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -89,29 +123,19 @@ relationships:
   source: null
 article_structure:
   article_count: 1
-  section_count: 18
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 19
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:25Z'
+  checked_at: '2026-10-22T15:01:05Z'
   warnings: []
   errors: []
 ---
 
 # 2006/144/CE: Decisão do Conselho, de 20 de Fevereiro de 2006
-
-> 2006D0144 — PT — 19.01.2009 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009D0061) — [DECISÃO DO CONSELHO de 19 de Janeiro de 2009](http://publications.europa.eu/resource/celex/32009D0061) — L 30 — 112 — 31.1.2009
-
-## DECISÃO DO CONSELHO
 
 de 20 de Fevereiro de 2006
 

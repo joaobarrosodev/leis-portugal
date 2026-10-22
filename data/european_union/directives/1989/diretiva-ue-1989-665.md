@@ -35,6 +35,57 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-04-17'
+version_history:
+  file: diretiva-ue-1989-665.versoes.json
+  count: 3
+  source_lastmod: '2014-04-17'
+  versions:
+  - date: '1989-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-01-09'
+    amending: eu:celex:31992L0050:por
+    amending_title: M1; DIRECTIVA 2007/66/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 11
+      de Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º — Âmbito de aplicação e acesso ao recurso
+    - Adita Artigo 2.º — Requisitos do recurso
+    - Adita Artigo 2.º-A — Prazo suspensivo
+    - Adita Artigo 2.º-B — Excepções ao prazo suspensivo
+    - Adita Artigo 2.º-C — Prazos para interposição de recurso
+    - Adita Artigo 2.º-D — Privação de efeitos
+    - Adita Artigo 2.º-E — Violação da presente directiva e sanções alternativas
+    - Adita Artigo 2.º-F — Prazos
+    - Adita Artigo 3.º — Mecanismo de correcção
+    - Adita Artigo 3.º-A — Teor do anúncio voluntário de transparência ex ante
+    - Adita Artigo 3.º-B — Procedimento de comité
+    - Adita Artigo 4.º — Aplicação
+    - Adita Artigo 4.º-A — Reexame
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+  - date: '2014-04-17'
+    amending: eu:celex:32014L0023:por
+    amending_title: DIRETIVA 2014/23/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação e acesso ao recurso
+    - Altera Artigo 2.º-A — Prazo suspensivo
+    - Altera Artigo 2.º-B — Excepções ao prazo suspensivo
+    - Altera Artigo 2.º-C — Prazos para interposição de recurso
+    - Altera Artigo 2.º-D — Privação de efeitos
+    - Altera Artigo 2.º-F — Prazos
+    - Altera Artigo 3.º — Mecanismo de correcção
+    - Altera Artigo 3.º-B — Procedimento de comité
+    - Altera Notas
 identifiers:
   celex: 31989L0665
   eli: http://data.europa.eu/eli/dir/1989/665/oj
@@ -49,7 +100,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1fd21fd7-c17f-4d79-af35-319f77d1a459.0011
   content_url: http://publications.europa.eu/resource/cellar/a6982287-7298-4880-8b42-dfea5d008a8d.0015.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0665-20140417
-  retrieved_at: '2026-10-22T02:39:22Z'
+  retrieved_at: '2026-10-22T14:36:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:14:20.284+02:00'
 integrity:
@@ -58,9 +109,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:22Z'
-  notes: Texto consolidado 01989L0665-20140417.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:36:10Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1989-665.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -454,36 +505,21 @@ relationships:
   date: '2024-10-17'
 article_structure:
   article_count: 15
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:22Z'
-  warnings: []
+  checked_at: '2026-10-22T14:36:10Z'
+  warnings:
+  - '01989L0665-19900103: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01989L0665-19920714: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 89/665/CEE do Conselho, de 21 de Dezembro de 1989
-
-> 01989L0665 — PT — 17.04.2014 — 003.004
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/31992L0050) — [DIRECTIVA 92/50/CEE DO CONSELHO de 18 de Junho de 1992](http://publications.europa.eu/resource/celex/31992L0050) — L 209 — 1 — 24.7.1992
-- [►M2](http://publications.europa.eu/resource/celex/32007L0066) — [DIRECTIVA 2007/66/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Dezembro de 2007](http://publications.europa.eu/resource/celex/32007L0066) — L 335 — 31 — 20.12.2007
-- [►M3](http://publications.europa.eu/resource/celex/32014L0023) — [DIRETIVA 2014/23/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014L0023) — L 94 — 1 — 28.3.2014
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/31989L0665R%2801%29) — [Rectificação, JO L 034, 6.2.1990, p. 30 (1989/665)](http://publications.europa.eu/resource/celex/31989L0665R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32007L0066R%2802%29) — [Rectificação, JO L 225, 31.8.2022, p. 5 (2007/66/CE)](http://publications.europa.eu/resource/celex/32007L0066R%2802%29)
-
-## DIRECTIVA DO CONSELHO
 
 de 21 de Dezembro de 1989
 

@@ -37,6 +37,267 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-05-25'
+version_history:
+  file: regulamento-ue-2008-110.versoes.json
+  count: 14
+  source_lastmod: '2021-05-25'
+  versions:
+  - date: '2008-02-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-20'
+    amending: eu:celex:32008R1334:por
+    amending_title: REGULAMENTO (CE) N. o 1334/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definição de bebida espirituosa
+    - Altera Artigo 5.º — Regras gerais relativas às categorias de bebidas espirituosas
+    - Altera Artigo 22.º — Verificação do cumprimento das especificações constantes da ficha técnica
+    - Altera Artigo 23.º — Relação entre marcas e indicações geográficas
+    - Altera Artigo 29.º — Revogação
+    - Altera Artigo 30.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita DEFINIÇÕES E REQUISITOS TÉCNICOS
+    - Adita ANEXO II
+    - Adita BEBIDAS ESPIRITUOSAS
+    - Adita Categorias de bebidas espirituosas
+    - Adita 1. Rum
+    - Adita 2. Whisky ou Whiskey
+    - Adita 3. Aguardente de cereais
+    - Adita 4. Aguardente vínica
+    - Adita 5. Brandy ou Weinbrand
+    - Adita 6. Aguardente bagaceira ou bagaço de uva
+    - Adita 7. Aguardente de bagaço de frutos
+    - Adita 8. Aguardente de uva seca ou raisin brandy
+    - Adita 9. Aguardente de frutos
+    - Adita 10. Aguardente de sidra e aguardente de perada
+    - Adita 11. Aguardente de mel
+    - Adita 12. Hefebrand ou aguardente de borras
+    - Adita 13. Bierbrand ou eau-de-vie de bière
+    - Adita 14. Topinambur ou aguardente de topinambos
+    - Adita 15. Vodka
+    - Adita 16. Aguardente de (seguida do nome do fruto) obtida por maceração e destilação
+    - Adita 17. Geist (associado ao nome do fruto ou da matéria-prima utilizada)
+    - Adita 18. Genciana
+    - Adita 19. Bebida espirituosa zimbrada
+    - Adita 20. Gin
+    - Adita 21. Gin destilado
+    - Adita 22. London gin
+    - Adita 23. Bebida espirituosa com alcaravia
+    - Adita 24. Akvavit ou aquavit
+    - Adita 25. Bebida espirituosa anisada
+    - Adita 26. Pastis
+    - Adita 27. Pastis de Marseille
+  - date: '2012-02-26'
+    amending: eu:celex:32012R0164:por
+    amending_title: REGULAMENTO (UE) N. o 164/2012 DA COMISSÃO de 24 de fevereiro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Regras gerais relativas às categorias de bebidas espirituosas
+    - Altera Artigo 22.º — Verificação do cumprimento das especificações constantes da ficha técnica
+    - Altera Artigo 23.º — Relação entre marcas e indicações geográficas
+    - Altera Artigo 29.º — Revogação
+    - Altera DEFINIÇÕES E REQUISITOS TÉCNICOS
+    - Altera 32. Licor
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: null
+    amending_title: ►A1
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Regras gerais relativas às categorias de bebidas espirituosas
+    - Altera Artigo 20.º — Indicações geográficas estabelecidas
+    - Altera Artigo 22.º — Verificação do cumprimento das especificações constantes da ficha técnica
+    - Altera Artigo 23.º — Relação entre marcas e indicações geográficas
+    - Altera Artigo 29.º — Revogação
+    - Altera DEFINIÇÕES E REQUISITOS TÉCNICOS
+    - Altera 32. Licor
+    - Altera Notas
+  - date: '2013-11-01'
+    amending: eu:celex:32013R1065:por
+    amending_title: REGULAMENTO (UE) N. o 1065/2013 DA COMISSÃO de 30 de outubro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Regras gerais relativas às categorias de bebidas espirituosas
+    - Altera Artigo 22.º — Verificação do cumprimento das especificações constantes da ficha técnica
+    - Altera Artigo 23.º — Relação entre marcas e indicações geográficas
+    - Altera Artigo 29.º — Revogação
+    - Altera DEFINIÇÕES E REQUISITOS TÉCNICOS
+    - Altera 32. Licor
+    - Altera Notas
+  - date: '2014-02-07'
+    amending: eu:celex:32014R0097:por
+    amending_title: REGULAMENTO (UE) N. o 97/2014 DA COMISSÃO de 3 de fevereiro de 2014; REGULAMENTO (UE) N. o 98/2014 DA
+      COMISSÃO de 3 de fevereiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Regras gerais relativas às categorias de bebidas espirituosas
+    - Altera Artigo 22.º — Verificação do cumprimento das especificações constantes da ficha técnica
+    - Altera Artigo 23.º — Relação entre marcas e indicações geográficas
+    - Altera Artigo 29.º — Revogação
+    - Altera DEFINIÇÕES E REQUISITOS TÉCNICOS
+    - Altera 20. Gin
+    - Altera 21. Gin destilado
+    - Altera 32. Licor
+    - Altera Notas
+  - date: '2014-04-29'
+    amending: eu:celex:32014R0426:por
+    amending_title: REGULAMENTO (UE) N. o 426/2014 DA COMISSÃO de 25 de abril de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Regras gerais relativas às categorias de bebidas espirituosas
+    - Altera Artigo 22.º — Verificação do cumprimento das especificações constantes da ficha técnica
+    - Altera Artigo 23.º — Relação entre marcas e indicações geográficas
+    - Altera Artigo 29.º — Revogação
+    - Altera DEFINIÇÕES E REQUISITOS TÉCNICOS
+    - Altera 16. Aguardente de (seguida do nome do fruto) obtida por maceração e destilação
+    - Altera 24. Akvavit ou aquavit
+    - Altera 32. Licor
+    - Altera Notas
+  - date: '2015-02-14'
+    amending: eu:celex:32015R0210:por
+    amending_title: REGULAMENTO (UE) 2015/210 DA COMISSÃO de 10 de fevereiro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Regras gerais relativas às categorias de bebidas espirituosas
+    - Altera Artigo 22.º — Verificação do cumprimento das especificações constantes da ficha técnica
+    - Altera Artigo 23.º — Relação entre marcas e indicações geográficas
+    - Altera Artigo 29.º — Revogação
+    - Altera DEFINIÇÕES E REQUISITOS TÉCNICOS
+    - Altera 32. Licor
+    - Altera Notas
+    - Adita 37-A. Bebida espirituosa aromatizada à base de abrunhos ou Pacharán
+  - date: '2016-02-22'
+    amending: eu:celex:32016R0235:por
+    amending_title: REGULAMENTO (UE) 2016/235 DA COMISSÃO de 18 de fevereiro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Regras gerais relativas às categorias de bebidas espirituosas
+    - Altera Artigo 22.º — Verificação do cumprimento das especificações constantes da ficha técnica
+    - Altera Artigo 23.º — Relação entre marcas e indicações geográficas
+    - Altera Artigo 29.º — Revogação
+    - Altera DEFINIÇÕES E REQUISITOS TÉCNICOS
+    - Altera 32. Licor
+    - Altera Notas
+  - date: '2016-07-05'
+    amending: eu:celex:32016R1067:por
+    amending_title: REGULAMENTO (UE) 2016/1067 DA COMISSÃO de 1 de julho de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Regras gerais relativas às categorias de bebidas espirituosas
+    - Altera Artigo 22.º — Verificação do cumprimento das especificações constantes da ficha técnica
+    - Altera Artigo 23.º — Relação entre marcas e indicações geográficas
+    - Altera Artigo 29.º — Revogação
+    - Altera DEFINIÇÕES E REQUISITOS TÉCNICOS
+    - Altera Notas
+  - date: '2018-02-09'
+    amending: eu:celex:32018R0175:por
+    amending_title: REGULAMENTO (UE) 2018/175 DA COMISSÃO de 2 de fevereiro de 2018
+    changes:
+    - Altera Artigo 5.º — Regras gerais relativas às categorias de bebidas espirituosas
+    - Altera Artigo 22.º — Verificação do cumprimento das especificações constantes da ficha técnica
+    - Altera Artigo 23.º — Relação entre marcas e indicações geográficas
+    - Altera Artigo 29.º — Revogação
+    - Altera DEFINIÇÕES E REQUISITOS TÉCNICOS
+    - Altera 9. Aguardente de frutos
+    - Altera 25. Bebida espirituosa anisada
+    - Altera 26. Pastis
+    - Altera 27. Pastis de Marseille
+    - Altera 28. Anis
+    - Altera 29. Anis destilado
+    - Altera 32. Licor
+    - Altera 37. Sloe gin
+    - Altera 37-A. Bebida espirituosa aromatizada à base de abrunhos ou Pacharán
+    - Altera 42. Licor de ovos
+    - Altera 43. Mistrà
+    - Altera 44. Väkevä glögi ou spritglögg
+    - Altera 45. Berenburg ou Beerenburg
+    - Altera 46. Néctar de mel ou de hidromel
+    - Altera Outras bebidas espirituosas
+    - Altera Notas
+    - Adita 10. Aguardente de sidra, aguardente de perada e aguardente de sidra e de perada
+    - Suprime 10. Aguardente de sidra e aguardente de perada
+  - date: '2019-05-20'
+    amending: eu:celex:32018R1098:por
+    amending_title: REGULAMENTO (UE) 2018/1098 DA COMISSÃO de 2 de agosto de 2018; REGULAMENTO (UE) 2018/1670 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 23 de outubro de 2018; REGULAMENTO (UE) 2018/1850 DA COMISSÃO de 21 de novembro de 2018; REGULAMENTO
+      (UE) 2018/1871 DA COMISSÃO de 23 de novembro de 2018; REGULAMENTO (UE) 2019/335 DA COMISSÃO de 27 de fevereiro de 2019;
+      REGULAMENTO (UE) 2019/674 DA COMISSÃO de 29 de abril de 2019; TRATADO RELATIVO À ADESÃO DA REPÚBLICA DA CROÁCIA À UNIÃO
+      EUROPEIA
+    changes:
+    - Altera Artigo 5.º — Regras gerais relativas às categorias de bebidas espirituosas
+    - Altera Artigo 22.º — Verificação do cumprimento das especificações constantes da ficha técnica
+    - Altera Artigo 23.º — Relação entre marcas e indicações geográficas
+    - Altera Artigo 29.º — Revogação
+    - Altera DEFINIÇÕES E REQUISITOS TÉCNICOS
+    - Altera Notas
+    - Adita Artigo 24.º-A — Derrogação dos requisitos de quantidades nominais da Diretiva 2007/45/CE
+  - date: '2019-06-08'
+    amending: eu:celex:32019R0787:por
+    amending_title: REGULAMENTO (UE) 2019/787 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de abril de 2019
+    changes:
+    - Altera Artigo 5.º — Regras gerais relativas às categorias de bebidas espirituosas
+    - Altera Artigo 24.º-A — Derrogação dos requisitos de quantidades nominais da Diretiva 2007/45/CE
+    - Altera Artigo 29.º — Revogação
+    - Altera DEFINIÇÕES E REQUISITOS TÉCNICOS
+    - Altera INDICAÇÕES GEOGRÁFICAS
+    - Altera Notas
+    - Suprime CAPÍTULO III
+    - Suprime Artigo 15.º — Indicações geográficas
+    - Suprime Artigo 16.º — Protecção das indicações geográficas
+    - Suprime Artigo 17.º — Registo das indicações geográficas
+    - Suprime Artigo 18.º — Cancelamento de uma indicação geográfica
+    - Suprime Artigo 19.º — Indicações geográficas homónimas
+    - Suprime Artigo 20.º — Indicações geográficas estabelecidas
+    - Suprime Artigo 21.º — Alteração da ficha técnica
+    - Suprime Artigo 22.º — Verificação do cumprimento das especificações constantes da ficha técnica
+    - Suprime Artigo 23.º — Relação entre marcas e indicações geográficas
+  - date: '2021-05-25'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime ÂMBITO DE APLICAÇÃO, DEFINIÇÃO E CATEGORIAS DE BEBIDAS ESPIRITUOSAS
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definição de bebida espirituosa
+    - Suprime Artigo 3.º — Origem do álcool etílico
+    - Suprime Artigo 4.º — Categorias de bebidas espirituosas
+    - Suprime Artigo 5.º — Regras gerais relativas às categorias de bebidas espirituosas
+    - Suprime Artigo 6.º — Legislação dos Estados-Membros
+    - Suprime CAPÍTULO II
+    - Suprime DESIGNAÇÃO, APRESENTAÇÃO E ROTULAGEM DAS BEBIDAS ESPIRITUOSAS
+    - Suprime Artigo 7.º — Definições
+    - Suprime Artigo 8.º — Denominação de venda
+    - Suprime Artigo 9.º — Regras específicas relativas às denominações de venda
+    - Suprime Artigo 10.º — Regras específicas relativas à utilização das denominações de venda e das indicações geográficas
+    - Suprime Artigo 11.º — Designação, apresentação e rotulagem das misturas
+    - Suprime Artigo 12.º — Regras específicas relativas à designação, apresentação e rotulagem das bebidas espirituosas
+    - Suprime Artigo 13.º — Proibição de cápsulas ou folhas fabricadas à base de chumbo
+    - Suprime Artigo 14.º — Língua utilizada na designação, apresentação e rotulagem das bebidas espirituosas
+    - Suprime CAPÍTULO IV
+    - Suprime DISPOSIÇÕES GERAIS, TRANSITÓRIAS E FINAIS
+    - Suprime Artigo 24.º — Controlo e protecção das bebidas espirituosas
+    - Suprime Artigo 24.º-A — Derrogação dos requisitos de quantidades nominais da Diretiva 2007/45/CE
+    - Suprime Artigo 25.º — Comité
+    - Suprime Artigo 26.º — Alteração dos anexos
+    - Suprime Artigo 27.º — Medidas de execução
+    - Suprime Artigo 28.º — Medidas transitórias e outras medidas específicas
+    - Suprime Artigo 29.º — Revogação
+    - Suprime Artigo 30.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime DEFINIÇÕES E REQUISITOS TÉCNICOS
+    - Suprime ANEXO II
+    - Suprime BEBIDAS ESPIRITUOSAS
+    - Suprime Categorias de bebidas espirituosas
+    - Suprime 1. Rum
+    - Suprime 2. Whisky ou Whiskey
+    - Suprime 3. Aguardente de cereais
+    - Suprime 4. Aguardente vínica
+    - Suprime 5. Brandy ou Weinbrand
+    - Suprime 6. Aguardente bagaceira ou bagaço de uva
 identifiers:
   celex: 32008R0110
   eli: http://data.europa.eu/eli/reg/2008/110(1)/oj
@@ -51,7 +312,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/41cce866-1fea-43ff-a626-3db1ffa26ad5.0019
   content_url: http://publications.europa.eu/resource/cellar/d555222f-d351-11eb-ac72-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0110-20210525
-  retrieved_at: '2026-10-22T02:36:17Z'
+  retrieved_at: '2026-10-22T15:14:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T02:19:22.484+01:00'
 integrity:
@@ -60,9 +321,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:17Z'
-  notes: Texto consolidado 02008R0110-20210525.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:14:10Z'
+  notes: 14 versão(ões); histórico completo em regulamento-ue-2008-110.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -372,16 +633,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:17Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:14:10Z'
+  warnings: []
   errors: []
 ---
 

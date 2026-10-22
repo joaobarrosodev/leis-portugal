@@ -1,0 +1,1143 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31995L0064:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0064-20090626",
+ "dre_path": null,
+ "source_lastmod": "2009-06-26",
+ "versions": [
+  {
+   "date": "1995-12-30",
+   "future": false,
+   "celex": "31995L0064",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a7d3f227eed7ef6b",
+    "3196ec2f46f9e429",
+    "69d6e1ef5e86c7cc",
+    "d38d80291cda9c0c",
+    "5462592cd4a21309",
+    "1b4f23083394b63f",
+    "02e5f1911cc98177",
+    "b7e759e054ded0a5",
+    "486d13291fc6ca11",
+    "f76822358b6c02cb",
+    "1f43446fc0e8a226",
+    "f323bc9979fd0605",
+    "cdbfc942d5f285ba",
+    "17a0b9a191f61db8",
+    "19c7c1da9e06f756",
+    "e8837dfe8b1ab289",
+    "45c25360238331ff",
+    "fd19ec7424e4cd26",
+    "20b0fb11e5c721ef",
+    "40c8410d7e801602",
+    "bf2be1088ae90d8e",
+    "536b0d6cedcdda44",
+    "586e6a8177c9ce76",
+    "9e5f81eadbf3c302",
+    "35f2bd25ec123745"
+   ]
+  },
+  {
+   "date": "2004-01-01",
+   "future": false,
+   "celex": "01995L0064-20040101",
+   "acts": [
+    {
+     "id": "eu:celex:31998D0385:por",
+     "title": "DECISÃO DA COMISSÃO de 13 de Maio de 1998",
+     "published": null,
+     "celex": "31998D0385"
+    },
+    {
+     "id": "eu:celex:32000D0363:por",
+     "title": "M2",
+     "published": null,
+     "celex": "32000D0363"
+    },
+    {
+     "id": "eu:celex:32003R1882:por",
+     "title": "REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1882"
+    },
+    {
+     "id": "eu:celex:32005D0366:por",
+     "title": "DECISÃO DA COMISSÃO de 4 de Março de 2005",
+     "published": null,
+     "celex": "32005D0366"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º — Definições",
+    "Adita Artigo 3.º — Características da recolha de dados",
+    "Adita Artigo 4.º — Portos",
+    "Adita Artigo 5.º — Exactidão das estatísticas",
+    "Adita Artigo 6.º — Tratamento dos resultados da recolha de dados",
+    "Adita Artigo 7.º — Transmissão dos resultados da recolha de dados",
+    "Adita Artigo 8.º — Relatórios",
+    "Adita Artigo 9.º — Divulgação dos dados estatísticos",
+    "Adita Artigo 10.º — Período de transição",
+    "Adita Artigo 11.º — Contribuição financeira",
+    "Adita Artigo 12.º — Regras de aplicação",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º — Aplicação",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita ANEXO I",
+    "Adita VARIÁVEIS E DEFINIÇÕES",
+    "Adita 1. Variáveis estatísticas",
+    "Adita a) Informações relativas às mercadorias e passageiros:",
+    "Adita b) Informações relativas aos navios:",
+    "Adita 2. Definições",
+    "Adita ANEXO II",
+    "Adita CLASSIFICAÇÃO DO TIPO DE CARGA",
+    "Adita ANEXO III",
+    "Adita ANEXO IV",
+    "Adita ZONAS COSTEIRAS MARÍTIMAS",
+    "Adita Com os códigos suplementares",
+    "Adita ANEXO V",
+    "Adita NACIONALIDADE DE REGISTO DO NAVIO",
+    "Adita ANEXO VI",
+    "Adita NOMENCLATURA DO TIPO DE NAVIO (ICST-COM)",
+    "Adita ANEXO VII",
+    "Adita CLASSES DOS NAVIOS",
+    "Adita expressas em toneladas de porte bruto (TPB) ou em arqueação bruta (TB)",
+    "Adita ANEXO VIII",
+    "Adita ESTRUTURA DOS CONJUNTOS DE DADOS ESTATÍSTICOS",
+    "Adita ESTATÍSTICAS SUMÁRIAS E PORMENORIZADAS",
+    "Adita Conjunto de dados A1: Transportes marítimos nos principais portos europeus, por porto, tipo de carga e relação",
+    "Adita Periodicidade: Trimestral",
+    "Adita Conjunto de dados A2: Transportes marítimos nos principais portos europeus, por porto, tipo de carga e relação",
+    "Adita Conjunto de dados A3: Informações exigidas relativamente aos portos seleccionados e aos portos relativamente aos quais não são exigidas estatísticas pormenorizadas (ver n.º 3 do artigo 4.º)",
+    "Adita Periodicidade: Anuais",
+    "Adita Conjunto de dados B1: Transportes marítimos nos principais portos europeus, por porto, tipo de carga, mercadoria e relação",
+    "Adita Conjunto de dados C1: Transportes marítimos, em contentores ou ro-ro, nos principais portos europeus, por porto, tipo de carga, relação e situação de carga",
+    "Adita Conjunto de dados D1: Transportes de passageiros nos principais portos europeus, por relação e nacionalidade de registo do navio",
+    "Adita Conjunto de dados E1: Transportes marítimos nos principais portos europeus, por porto, tipo de carga, relação e nacionalidade de registo do navio",
+    "Adita Conjunto de dados F1: Tráfego portuário europeu de navios nos principais portos europeus, por porto, tipo e classe do navio que carrega ou descarrega o frete, embarca ou desembarca passageiros (incluindo passageiros de cruzeiro numa excursão de passageiros de navio de cruzeiro)",
+    "Adita Conjunto de dados F2: Tráfego portuário europeu de navios nos principais portos europeus, por porto, tipo e classe do navio que carrega ou descarrega o frete, embarca ou desembarca passageiros (incluindo passageiros de cruzeiro numa excursão de passageiros de navio de cruzeiro)",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º — Definições",
+    "Suprime Artigo 3º — Características da recolha de dados",
+    "Suprime Artigo 4º — Portos",
+    "Suprime Artigo 5º — Exactidão das estatísticas",
+    "Suprime Artigo 6º — Tratamento dos resultados da recolha de dados",
+    "Suprime Artigo 7º — Transmissão dos resultados da recolha de dados",
+    "Suprime Artigo 8º — Relatórios",
+    "Suprime Artigo 9º — Divulgação dos dados estatísticos",
+    "Suprime Artigo 10º — Período de transição",
+    "Suprime Artigo 11º — Contribuição financeira",
+    "Suprime Artigo 12º — Regras de aplicação",
+    "Suprime Artigo 13º — Processo",
+    "Suprime Artigo 14º — Aplicação",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime ANEXO I — VARIÁVEIS E DEFINIÇÕES",
+    "Suprime ANEXO II — CLASSIFICAÇÃO DO TIPO DE CARGA",
+    "Suprime ANEXO III — NOMENCLATURA DE MERCADORIAS",
+    "Suprime ANEXO IV — ZONAS COSTEIRAS MARÍTIMAS",
+    "Suprime ANEXO V — NACIONALIDADE DE REGISTO DO NAVIO",
+    "Suprime ANEXO VI — NOMENCLATURA DO TIPO DE NAVIO (ICST-COM)",
+    "Suprime ANEXO VII — CLASSES DOS NAVIOS",
+    "Suprime ANEXO VIII — ESTRUTURA DOS CONJUNTOS DE DADOS ESTATÍSTICOS"
+   ],
+   "fragments": [
+    "9bce32a1fddc0591",
+    "a5f834f74a3671af",
+    "1f784e945176941f",
+    "030b9a1f54445483",
+    "0c48575176f4309f",
+    "d77684eeb8fa4b2e",
+    "abd5f1a1f520d6fd",
+    "25b2718b32ca54d4",
+    "80337758f3523130",
+    "caf59dc83087952c",
+    "3cdc48504ee3819a",
+    "9d869142cb07d81b",
+    "06a75ea72a048221",
+    "6236f4440fdbb624",
+    "548f6f702fdfabe7",
+    "db2c4b337ebb871c",
+    "cab2ddd4b4a242d3",
+    "d664376e2a8dcecd",
+    "05059b8ff7ee6a62",
+    "d861cea7b4a1f4a0",
+    "751935191bdbc366",
+    "f687d742b194eeb2",
+    "1c02f8f578165b40",
+    "852174729551523b",
+    "033cad8b9b5c1227",
+    "6b043ee18a95ff82",
+    "e03a0eb4d5b2eef3",
+    "e0baf8c25b3d5734",
+    "72074b3d41247c2d",
+    "64610ae29a6cb67c",
+    "2ceccff5ff067393",
+    "90c7d2baf4d44ee2",
+    "46531410a6a31861",
+    "d46ca50274582635",
+    "54d62338f010a7d4",
+    "62e21a0a7b28a2a4",
+    "1b41b51ec3248d43",
+    "39d5a3ae74e2a768",
+    "97eae5eccfc27a11",
+    "03325ae4f939b7c5",
+    "13c7013ada9ead66",
+    "ba3c9c4e5ce4e263",
+    "83a4d38518d341c2",
+    "cf8f8ee7316d5ba1",
+    "3344998c09f6c968",
+    "82aa4fbe4d056ebe",
+    "905747b59f485783",
+    "5f33b56a821306dc",
+    "e08a52848861daa0",
+    "7e4efb58bb904112",
+    "2fe26ecd6ca1f73b",
+    "f53f69611134be2d",
+    "19aaf7e9333c39a4",
+    "8beaa35e6a50d4a2",
+    "1be95d5381e468cf",
+    "c2a9e49d90aaaeed",
+    "84bc38b46639892c",
+    "abddb47c4bd3b3f9"
+   ]
+  },
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "celex": "01995L0064-20080101",
+   "acts": [
+    {
+     "id": "eu:celex:32007R1304:por",
+     "title": "REGULAMENTO (CE) N. o 1304/2007 DA COMISSÃO de 7 de Novembro de 2007",
+     "published": null,
+     "celex": "32007R1304"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 7.º — Transmissão dos resultados da recolha de dados",
+    "Altera Artigo 13.º",
+    "Altera CLASSIFICAÇÃO DO TIPO DE CARGA",
+    "Altera ANEXO III",
+    "Altera ZONAS COSTEIRAS MARÍTIMAS",
+    "Altera NACIONALIDADE DE REGISTO DO NAVIO",
+    "Altera NOMENCLATURA DO TIPO DE NAVIO (ICST-COM)",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "ff6a52908fc0b479",
+    "a5f834f74a3671af",
+    "1f784e945176941f",
+    "030b9a1f54445483",
+    "0c48575176f4309f",
+    "d77684eeb8fa4b2e",
+    "abd5f1a1f520d6fd",
+    "a7b705941c2d3dca",
+    "80337758f3523130",
+    "caf59dc83087952c",
+    "3cdc48504ee3819a",
+    "9d869142cb07d81b",
+    "06a75ea72a048221",
+    "b359c51f669a6e09",
+    "548f6f702fdfabe7",
+    "db2c4b337ebb871c",
+    "cab2ddd4b4a242d3",
+    "d664376e2a8dcecd",
+    "05059b8ff7ee6a62",
+    "d861cea7b4a1f4a0",
+    "751935191bdbc366",
+    "f687d742b194eeb2",
+    "1c02f8f578165b40",
+    "852174729551523b",
+    "9b28a9f2daff52a9",
+    "56bfcd20efed4237",
+    "e03a0eb4d5b2eef3",
+    "b61cf366709e5912",
+    "72074b3d41247c2d",
+    "64610ae29a6cb67c",
+    "c9f2b0d66ee2c284",
+    "90c7d2baf4d44ee2",
+    "2c28149907666e58",
+    "d46ca50274582635",
+    "54d62338f010a7d4",
+    "62e21a0a7b28a2a4",
+    "1b41b51ec3248d43",
+    "39d5a3ae74e2a768",
+    "97eae5eccfc27a11",
+    "03325ae4f939b7c5",
+    "dddc79f7167df2bd",
+    "ba3c9c4e5ce4e263",
+    "93d895e1aa40a5ba",
+    "cf8f8ee7316d5ba1",
+    "3344998c09f6c968",
+    "82aa4fbe4d056ebe",
+    "16fad2a1198569b6",
+    "5f33b56a821306dc",
+    "e08a52848861daa0",
+    "7e4efb58bb904112",
+    "0451f51669a321a6",
+    "f53f69611134be2d",
+    "0b3e2158e4b73cec",
+    "8beaa35e6a50d4a2",
+    "1be95d5381e468cf",
+    "c2a9e49d90aaaeed",
+    "84bc38b46639892c",
+    "462c082be869d953"
+   ]
+  },
+  {
+   "date": "2009-06-26",
+   "future": false,
+   "celex": "01995L0064-20090626",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Características da recolha de dados",
+    "Suprime Artigo 4.º — Portos",
+    "Suprime Artigo 5.º — Exactidão das estatísticas",
+    "Suprime Artigo 6.º — Tratamento dos resultados da recolha de dados",
+    "Suprime Artigo 7.º — Transmissão dos resultados da recolha de dados",
+    "Suprime Artigo 8.º — Relatórios",
+    "Suprime Artigo 9.º — Divulgação dos dados estatísticos",
+    "Suprime Artigo 10.º — Período de transição",
+    "Suprime Artigo 11.º — Contribuição financeira",
+    "Suprime Artigo 12.º — Regras de aplicação",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º — Aplicação",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime ANEXO I",
+    "Suprime VARIÁVEIS E DEFINIÇÕES",
+    "Suprime 1. Variáveis estatísticas",
+    "Suprime a) Informações relativas às mercadorias e passageiros:",
+    "Suprime b) Informações relativas aos navios:",
+    "Suprime 2. Definições",
+    "Suprime ANEXO II",
+    "Suprime CLASSIFICAÇÃO DO TIPO DE CARGA",
+    "Suprime ANEXO III",
+    "Suprime ANEXO IV",
+    "Suprime ZONAS COSTEIRAS MARÍTIMAS",
+    "Suprime Com os códigos suplementares",
+    "Suprime ANEXO V",
+    "Suprime NACIONALIDADE DE REGISTO DO NAVIO",
+    "Suprime ANEXO VI",
+    "Suprime NOMENCLATURA DO TIPO DE NAVIO (ICST-COM)",
+    "Suprime ANEXO VII",
+    "Suprime CLASSES DOS NAVIOS",
+    "Suprime expressas em toneladas de porte bruto (TPB) ou em arqueação bruta (TB)",
+    "Suprime ANEXO VIII",
+    "Suprime ESTRUTURA DOS CONJUNTOS DE DADOS ESTATÍSTICOS",
+    "Suprime ESTATÍSTICAS SUMÁRIAS E PORMENORIZADAS",
+    "Suprime Conjunto de dados A1: Transportes marítimos nos principais portos europeus, por porto, tipo de carga e relação",
+    "Suprime Periodicidade: Trimestral",
+    "Suprime Conjunto de dados A2: Transportes marítimos nos principais portos europeus, por porto, tipo de carga e relação",
+    "Suprime Conjunto de dados A3: Informações exigidas relativamente aos portos seleccionados e aos portos relativamente aos quais não são exigidas estatísticas pormenorizadas (ver n.º 3 do artigo 4.º)",
+    "Suprime Periodicidade: Anuais",
+    "Suprime Conjunto de dados B1: Transportes marítimos nos principais portos europeus, por porto, tipo de carga, mercadoria e relação",
+    "Suprime Conjunto de dados C1: Transportes marítimos, em contentores ou ro-ro, nos principais portos europeus, por porto, tipo de carga, relação e situação de carga",
+    "Suprime Conjunto de dados D1: Transportes de passageiros nos principais portos europeus, por relação e nacionalidade de registo do navio",
+    "Suprime Conjunto de dados E1: Transportes marítimos nos principais portos europeus, por porto, tipo de carga, relação e nacionalidade de registo do navio",
+    "Suprime Conjunto de dados F1: Tráfego portuário europeu de navios nos principais portos europeus, por porto, tipo e classe do navio que carrega ou descarrega o frete, embarca ou desembarca passageiros (incluindo passageiros de cruzeiro numa excursão de passageiros de navio de cruzeiro)",
+    "Suprime Conjunto de dados F2: Tráfego portuário europeu de navios nos principais portos europeus, por porto, tipo e classe do navio que carrega ou descarrega o frete, embarca ou desembarca passageiros (incluindo passageiros de cruzeiro numa excursão de passageiros de navio de cruzeiro)",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "bbc53979ab3dedb2"
+   ]
+  }
+ ],
+ "fragments": {
+  "a7d3f227eed7ef6b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 95/64/CE do Conselho de 8 de Dezembro de 1995 relativa ao levantamento estatístico dos transportes marítimos de mercadorias e de passageiros** *Jornal Oficial nº L 320 de 30/12/1995 p. 0025 - 0040*\n\nDIRECTIVA 95/64/CE DO CONSELHO\n\nde 8 de Dezembro de 1995\n\nrelativa ao levantamento estatístico dos transportes marítimos de mercadorias e de passageiros\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 213º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que, para cumprir as funções que lhe são confiadas no âmbito da política comum dos transportes marítimos, a Comissão deve dispor de estatísticas comparáveis, fiáveis, sincronizadas e regulares sobre a dimensão e a evolução dos transportes marítimos de mercadorias e de passageiros de e para a Comunidade, entre os Estados-membros e nos Estados-membros;\n\nConsiderando igualmente a importância de que se reveste um bom conhecimento do mercado dos transportes marítimos para os Estados-membros e os operadores económicos;\n\nConsiderando que não existe, até ao momento, nenhuma estatística que abranja totalmente, à escala comunitária, o transporte marítimo de mercadorias e de passageiros;\n\nConsiderando que a Decisão 93/464/CEE do Conselho, de 22 de Julho de 1993, relativa ao programa-quadro para as acções prioritárias no domínio da informação estatística 1993/1997 (4), salientou a necessidade de serem elaboradas estatísticas completas;\n\nConsiderando que a recolha de dados estatísticos comunitários numa base comparável ou harmonizada permite a criação de um sistema integrado capaz de fornecer informações fiáveis, compatíveis e actualizadas;\n\nConsiderando que os dados relativos aos transportes marítimos de mercadorias e de passageiros devem poder ser comparados entre os Estados-membros e entre os diferentes modos de transporte;\n\nConsiderando que a Comissão deve apresentar em momento oportuno um relatório sobre o funcionamento da presente directiva;\n\nConsiderando que importa prever um período de transição a fim de permitir aos Estados-membros adaptarem os seus sistemas estatísticos às exigências da presente directiva e darem início a um programa de estudos-piloto sobre os problemas específicos da recolha de determinados dados;\n\nConsiderando que importa que, durante o período inicial, a Comunidade preste aos Estados-membros uma contribuição financeira para a execução dos trabalhos necessários;\n\nConsiderando que, para a aplicação da presente directiva, incluindo as medidas necessárias para a sua adaptação às evoluções económica e técnica, há que recorrer ao Comité do Programa Estatístico criado pela Decisão 89/382/CEE, Euratom (5);\n\nConsiderando que, de acordo com o princípio da subsidiariedade, a criação de normas estatísticas comuns que permitam a produção de informações harmonizadas é uma acção que só pode ser eficazmente levada a cabo a nível comunitário e que a recolha de dados estatísticos será realizada por cada Estado-membro, sob a autoridade dos organismos e instituições responsáveis pela elaboração das estatísticas oficiais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "3196ec2f46f9e429": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nOs Estados-membros devem elaborar estatísticas comunitárias sobre os transportes de mercadorias e de passageiros efectuados por navios que façam escala em portos situados no respectivo território."
+  },
+  "69d6e1ef5e86c7cc": {
+   "fragment_id": "Artigo 2º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. Transporte marítimo de mercadorias e de passageiros, o movimento de mercadorias e de passageiros através de navios, em percursos efectuados, total ou parcialmente, por mar.\n\nO âmbito de aplicação da presente directiva inclui igualmente as mercadorias:\n\na) Transportadas para instalações off shore;\n\nb) Recuperadas dos fundos marinhos e descarregadas nos portos.\n\nSão excluídos o combustível líquido e os abastecimentos de que necessitam os navios.\n\n2. Navio de mar, qualquer navio, com excepção dos que navegam exclusivamente em águas interiores ou em águas situadas no interior ou na proximidade de águas abrigadas ou em zonas nas quais se apliquem regulamentos portuários.\n\nNão são abrangidos pelo âmbito de aplicação da presente directiva as embarcações de pesca e os navios-fábrica para o tratamento de peixe, os navios de sondagem e exploração, os rebocadores, os empurradores, as dragas, os navios de pesquisa e de exploração, os navios de guerra e as embarcações utilizadas exclusivamente para fins não comerciais.\n\n3. Porto, um local com instalações que permitam amarrar navios mercantes e descarregar ou carregar mercadorias, bem como desembarcar ou embarcar passageiros dos ou nos navios.\n\n4. Nacionalidade do operador de transporte marítimo, a nacionalidade do país onde está estabelecido o centro real da actividade comercial do operador de transporte.\n\n5. Operador de transporte marítimo, qualquer pessoa que celebre, ou em nome da qual seja celebrado, um contrato de transporte marítimo de mercadorias ou de pessoas com um carregador ou com um passageiro."
+  },
+  "d38d80291cda9c0c": {
+   "fragment_id": "Artigo 3º — Características da recolha de dados",
+   "type": "artigo",
+   "heading": "Artigo 3º — Características da recolha de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º — Características da recolha de dados\n\n1. Os Estados-membros devem recolher os dados relativos aos seguintes domínios:\n\na) Informações relativas às mercadorias e passageiros;\n\nb) Informações relativas ao navio.\n\nPodem ser excluídos da recolha de dados os navios de arqueação bruta inferior a 100.\n\n2. As características da recolha de dados, ou seja, as variáveis estatísticas de cada domínio, as nomenclaturas para a respectiva classificação, bem como a sua periodicidade de observação, são indicadas nos anexos da presente directiva.\n\n3. A recolha de dados deve basear-se, na medida do possível, nas fontes disponíveis, limitando o encargo que recai sobre os inquiridos."
+  },
+  "5462592cd4a21309": {
+   "fragment_id": "Artigo 4º — Portos",
+   "type": "artigo",
+   "heading": "Artigo 4º — Portos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — Portos\n\n1. Para efeitos da presente directiva, deve ser elaborada, nos termos do procedimento previsto no artigo 13º, uma lista de portos, codificados e classificados por país e por zonas costeiras marítimas.\n\n2. Cada Estado-membro deve seleccionar os portos dessa lista que lidem anualmente com mais de um milhão de toneladas de mercadorias ou registem mais de 200 000 movimentos de passageiros.\n\nDurante um período máximo de três anos a contar da entrada em vigor da presente directiva, cada Estado-membro pode seleccionar apenas os portos que lidem anualmente com mais de dois milhões de toneladas de mercadorias ou registem mais de 400 000 movimentos de passageiros.\n\nDevem ser fornecidos dados pormenorizados, de acordo com o anexo VIII, sobre cada porto seleccionado, nos domínios (mercadorias e passageiros) em relação aos quais esse porto preencha o critério de selecção e, se necessário, dados sumários acerca do outro domínio.\n\n3. Devem ser fornecidos dados sumários, de acordo com o anexo VIII, «Conjunto de dados A3», sobre os portos que não tenham sido seleccionados da lista."
+  },
+  "1b4f23083394b63f": {
+   "fragment_id": "Artigo 5º — Exactidão das estatísticas",
+   "type": "artigo",
+   "heading": "Artigo 5º — Exactidão das estatísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Exactidão das estatísticas\n\nOs métodos de recolha de dados devem ser elaborados por forma a que os dados estatísticos comunitários sobre transporte marítimo tenham a exactidão necessária dos conjuntos de dados estatísticos descritos no anexo VIII. As normas de exactidão são estabelecidas nos termos do procedimento previsto no artigo 13º"
+  },
+  "02e5f1911cc98177": {
+   "fragment_id": "Artigo 6º — Tratamento dos resultados da recolha de dados",
+   "type": "artigo",
+   "heading": "Artigo 6º — Tratamento dos resultados da recolha de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º — Tratamento dos resultados da recolha de dados\n\nOs Estados-membros devem tratar as informações recolhidas nos termos do artigo 3º de modo a obterem estatísticas comparáveis, com a exactidão exigida no artigo 5º"
+  },
+  "b7e759e054ded0a5": {
+   "fragment_id": "Artigo 7º — Transmissão dos resultados da recolha de dados",
+   "type": "artigo",
+   "heading": "Artigo 7º — Transmissão dos resultados da recolha de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — Transmissão dos resultados da recolha de dados\n\n1. Os Estados-membros devem transmitir ao Serviço de Estatística das Comunidades Europeias os resultados da recolha de dados referidos no artigo 3º, incluindo os dados declarados confidenciais pelos Estados-membros por força da legislação ou de práticas nacionais relativas à confidencialidade estatística, em conformidade com o Regulamento (Euratom, CEE) nº 1588/90 do Conselho, de 11 de Junho de 1990, relativo à transmissão de informações abrangidas pelo segredo estatístico ao Serviço de Estatística das Comunidades Europeias (1).\n\n2. Os resultados devem ser transmitidos em conformidade com a estrutura dos conjuntos de dados estatísticos definida no anexo VIII. As regras técnicas de transmissão dos resultados são fixadas nos termos do procedimento previsto no artigo 13º\n\n3. A transmissão dos resultados deve ser efectuada no prazo de cinco meses a contar do fim do período de observação para os dados cuja periodicidade seja trimestral e de oito meses para os dados cuja periodicidade seja anual.\n\nA primeira transmissão deve abranger o primeiro trimestre de 1997."
+  },
+  "486d13291fc6ca11": {
+   "fragment_id": "Artigo 8º — Relatórios",
+   "type": "artigo",
+   "heading": "Artigo 8º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º — Relatórios\n\n1. Os Estados-membros devem comunicar à Comissão todas as informações relativas aos métodos utilizados para a produção dos dados. Caso seja necessário, devem comunicar igualmente as alterações substanciais dos métodos de recolha utilizados.\n\n2. A Comissão apresenta ao Conselho um relatório sobre a experiência adquirida no trabalho realizado de acordo com a presente directiva, após três anos de recolha de dados."
+  },
+  "f76822358b6c02cb": {
+   "fragment_id": "Artigo 9º — Divulgação dos dados estatísticos",
+   "type": "artigo",
+   "heading": "Artigo 9º — Divulgação dos dados estatísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º — Divulgação dos dados estatísticos\n\nA Comissão divulga os dados estatísticos apropriados, com periodicidade análoga à das transmissões dos resultados.\n\nAs regras de publicação ou de divulgação dos dados estatísticos pela Comissão são adoptadas nos termos do procedimento previsto no artigo 13º"
+  },
+  "1f43446fc0e8a226": {
+   "fragment_id": "Artigo 10º — Período de transição",
+   "type": "artigo",
+   "heading": "Artigo 10º — Período de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º — Período de transição\n\n1. Durante um período de transição que terá uma duração máxima de três anos e nos termos do procedimento previsto no artigo 13º, podem ser concedidas derrogações em conformidade com as disposições da presente directiva, na medida em que os sistemas nacionais de estatísticas necessitem de adaptações importantes.\n\n2. Durante o período de transição referido no nº 1 e nos termos do procedimento previsto no artigo 13º, deve ser adoptado um programa de estudos-piloto sobre:\n\na) A viabilidade e o custo, para os Estados-membros e os inquiridos, da recolha dos seguintes dados:\n\n- descrição das mercadorias definidas no anexo III e no anexo VIII, «Conjunto de dados B1»,\n\n- passageiros transportados em distâncias curtas,\n\n- informações sobre os serviços de ligação (feeder) e sobre a cadeia intermodal de transportes,\n\n- dados relativos à nacionalidade do operador de transporte marítimo;\n\nb) A possibilidade de recolher dados em aplicação dos acordos celebrados no contexto da simplificação dos procedimentos comerciais, da Organização Internacional de Normalização (ISO), do Comité Europeu de Normalização (CEN) e das regulamentações aduaneiras internacionais.\n\nA Comissão deve informar o Conselho dos resultados dos estudos-piloto e apresentar-lhe propostas sobre a possibilidade de generalizar o regime instituído pela presente directiva para instaurar uma recolha regular destes elementos de informação."
+  },
+  "f323bc9979fd0605": {
+   "fragment_id": "Artigo 11º — Contribuição financeira",
+   "type": "artigo",
+   "heading": "Artigo 11º — Contribuição financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º — Contribuição financeira\n\n1. Durante os três primeiros anos de aplicação dos levantamentos estatísticos previstos na presente directiva, os Estados-membros beneficiam de um apoio financeiro da Comunidade relativamente ao custo de execução dos trabalhos.\n\n2. O montante das dotações afectadas anualmente ao apoio financeiro referido no nº 1 é fixado no contexto do processo orçamental anual.\n\n3. A autoridade orçamental determina as dotações disponíveis para cada ano."
+  },
+  "cdbfc942d5f285ba": {
+   "fragment_id": "Artigo 12º — Regras de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 12º — Regras de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º — Regras de aplicação\n\nAs regras de aplicação da presente directiva, incluindo as medidas necessárias para a sua adaptação às evoluções económica e técnica, nomeadamente:\n\n- a adaptação das características da recolha de dados (artigo 3º) e do conteúdo dos anexos da presente directiva, desde que esta adaptação não implique um aumento significativo dos custos para os Estados-membros e/ou do encargo que recai sobre os inquiridos,\n\n- a lista, actualizada periodicamente pela Comissão, de portos codificados e classificados por país e por zonas costeiras marítimas (artigo 4º),\n\n- as exigências de exactidão (artigo 5º),\n\n- a descrição técnica do ficheiro de dados e dos códigos para transmissão dos resultados à Comissão (artigo 7º),\n\n- as regras de publicação ou de divulgação dos dados (artigo 9º),\n\n- as derrogações às disposições da presente directiva a conceder durante o período de transição e os estudos-piloto previstos (artigo 10º),\n\n- a nomenclatura equivalente em arqueação bruta por grupo de navios (anexo VII),\n\nsão adoptadas nos termos do procedimento previsto no artigo 13º"
+  },
+  "17a0b9a191f61db8": {
+   "fragment_id": "Artigo 13º — Processo",
+   "type": "artigo",
+   "heading": "Artigo 13º — Processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º — Processo\n\n1. A Comissão é assistida pelo Comité do Programa Estatístico, criado pela Decisão 89/382/CEE, Euratom.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3. a) A Comissão adoptará medidas que são imediatamente aplicáveis.\n\nb) Todavia, se não forem conformes com o parecer emitido pelo comité, essas medidas serão imediatamente comunicadas pela Comissão ao Conselho.\n\nNesse caso:\n\n- a Comissão diferirá a aplicação das medidas que aprovou por um prazo de três meses a contar da data da comunicação,\n\n- o Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo previsto no travessão precedente."
+  },
+  "19c7c1da9e06f756": {
+   "fragment_id": "Artigo 14º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 14º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º — Aplicação\n\n1. Os Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Janeiro de 1997. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptem no domínio regido pela presente directiva."
+  },
+  "e8837dfe8b1ab289": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "45c25360238331ff": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 8 de Dezembro de 1995.\n\nPelo Conselho\n\nO Presidente\n\nJ. BORRELL FONTELLES\n\n(1) JO nº C 214 de 4. 8. 1994, p. 12.\n\n(2) JO nº C 15 de 19. 6. 1995, p. 493.\n\n(3) JO nº C 397 de 31. 12. 1994, p. 6.\n\n(4) JO nº L 219 de 28. 8. 1993, p. 1.\n\n(5) JO nº L 181 de 28. 6. 1989, p. 47.\n\n(1) JO nº L 151 de 15. 6. 1990, p. 1."
+  },
+  "fd19ec7424e4cd26": {
+   "fragment_id": "ANEXO I — VARIÁVEIS E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "ANEXO I — VARIÁVEIS E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — VARIÁVEIS E DEFINIÇÕES\n\n1. VARIÁVEIS ESTATÍSTICAS\n\na) Informações relativas às mercadorias e passageiros:\n\n- peso bruto das mercadorias em toneladas,\n\n- tipo de carga, segundo a nomenclatura indicada no anexo II,\n\n- descrição das mercadorias, segundo a nomenclatura indicada no anexo III,\n\n- porto declarante,\n\n- direcção do movimento, entrada ou saída,\n\n- para as entradas de mercadorias: o porto de carga (isto é, o porto no qual a carga foi embarcada no navio em que chegou ao porto declarante), utilizando os portos individuais do Espaço Económico Europeu (EEE) descritos na lista de portos e, fora do EEE, as zonas costeiras marítimas descritas no anexo IV,\n\n- para as saídas de mercadorias: o porto de descarga (isto é, o porto no qual a carga deve ser descarregada do navio em que deixou o porto declarante), utilizando os portos individuais do EEE descritos na lista de portos e, fora do EEE, as zonas costeiras marítimas descritas no anexo IV,\n\n- número de passageiros que iniciam ou concluem uma travessia.\n\nPara as mercadorias transportadas em contentores ou unidades ro-ro, deve ser feito o levantamento das seguintes características complementares:\n\n- número de contentores com carga,\n\n- número de contentores vazios,\n\n- número de unidades móveis (ro-ro) com carga,\n\n- número de unidades móveis (ro-ro) vazias.\n\nb) Informações relativas aos navios:\n\n- número de navios,\n\n- tonelagem de porto bruto dos navios (deadweight) ou arqueação bruta,\n\n- país ou território de registo dos navios, segundo a nomenclatura indicada no anexo V,\n\n- tipo de navios, segundo a nomenclatura indicada no anexo VI,\n\n- classe dos navios, segundo a nomenclatura indicada no anexo VII.\n\n2. DEFINIÇÕES\n\na) «Contentor de transporte»: um elemento de equipamento de transporte:\n\n1. De carácter duradouro e, por conseguinte, suficientemente sólido para suportar múltiplas utilizações;\n\n2. Concebido de forma a facilitar o transporte de mercadorias por um ou mais modos de transporte, sem rotura de carga;\n\n3. Equipado com acessórios que permitam uma movimentação simples e, especialmente, a transferência de um modo de transporte para outro;\n\n4. Concebido de forma a ser fácil de encher ou esvaziar;\n\n5. Com um comprimento mínimo de, pelo menos, 20 pés.\n\nb) «Unidade ro-ro»: um equipamento com rodas destinado ao transporte de mercadorias, como um camião, reboque ou semi-reboque, que possa ser conduzido ou rebocado para um navio. Os reboques pertencentes aos portos ou aos navios estão incluídos nesta definição. As nomenclaturas devem seguir a Recomendação nº 21 da CEE-ONU «Códigos dos tipos de carga das embalagens e dos materiais de embalagem».\n\nc) «Carga contentorizada»: contentores com carga ou vazios carregados para o ou descarregados do navio que os transporta por mar.\n\nd) «Carga ro-ro»: unidades ro-ro e mercadorias (em contentor ou não) em unidades ro-ro que entrem no ou saiam do navio que as transporta por mar.\n\ne) «Tonelagem bruta de mercadorias»: a tonelagem de mercadorias transportadas, incluindo as embalagens, mas excluindo a tara dos contentores e unidades ro-ro.\n\nf) «Tonelagem de porte bruto (TPB)»: a diferença, expressa em toneladas, entre o deslocamento de um navio em linha de carga de Verão em água com peso específico de 1,025 e a tara da embarcação, ou seja, o deslocamento, expresso em toneladas, de um navio sem carga, combustível, lubrificante, água de lastro, água fresca, água potável nos tanques, provisões para consumo, nem passageiros, tripulação e sues haveres.\n\ng) «Arqueação bruta»: a medida do tamanho total de um navio nos termos da Convenção Internacional sobre a Arqueação dos Navios, de 1969."
+  },
+  "20b0fb11e5c721ef": {
+   "fragment_id": "ANEXO II — CLASSIFICAÇÃO DO TIPO DE CARGA",
+   "type": "divisao",
+   "heading": "ANEXO II — CLASSIFICAÇÃO DO TIPO DE CARGA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — CLASSIFICAÇÃO DO TIPO DE CARGA\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "40c8410d7e801602": {
+   "fragment_id": "ANEXO III — NOMENCLATURA DE MERCADORIAS",
+   "type": "divisao",
+   "heading": "ANEXO III — NOMENCLATURA DE MERCADORIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — NOMENCLATURA DE MERCADORIAS\n\nA nomenclatura de mercadorias utilizada deve estar em conformidade com a NST/R (1), até que a sua substituição seja decidida pela Comissão, após consulta dos Estados-membros.\n\nGRUPOS DE MERCADORIAS\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "bf2be1088ae90d8e": {
+   "fragment_id": "ANEXO IV — ZONAS COSTEIRAS MARÍTIMAS",
+   "type": "divisao",
+   "heading": "ANEXO IV — ZONAS COSTEIRAS MARÍTIMAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — ZONAS COSTEIRAS MARÍTIMAS\n\nA nomenclatura a utilizar é a geonomenclatura aprovada para 1993 pelo Regulamento (CEE) nº 208/93, de 1 de Fevereiro de 1993, relativo à nomenclatura dos países para as estatísticas do comércio externo da Comunidade e do comércio entre os seus Estados-membros (1), com a seguinte reserva: os códigos 017 e 018 serão utilizados, respectivamente, para a Bélgica e o Luxemburgo, quando for necessário tratá-los separadamente.\n\nO código é representado por quatro algarismos: os três algarismos do código da nomenclatura acima referida, seguidos do algarismo zero (código 0030 para os Países Baixos, por exemplo), excepto para os países que estão divididos em várias zonas costeiras marítimas, que serão caracterizadas por um quarto algarismo diferente de zero (de 1 a 7), como indicado a seguir:\n\n>POSIÇÃO NUMA TABELA>\n\n(1) JO nº L 25 de 2. 2. 1993, p. 11."
+  },
+  "536b0d6cedcdda44": {
+   "fragment_id": "ANEXO V — NACIONALIDADE DE REGISTO DO NAVIO",
+   "type": "divisao",
+   "heading": "ANEXO V — NACIONALIDADE DE REGISTO DO NAVIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — NACIONALIDADE DE REGISTO DO NAVIO\n\nA nomenclatura a utilizar é a geonomenclatura aprovada para 1993 pelo Regulamento (CEE) nº 208/93, de 1 de Fevereiro de 1993, relativo à nomenclatura dos países para as estatísticas do comércio externo da Comunidade e do comércio entre os seus Estados-membros (1), com a seguinte reserva: os códigos 017 e 018 serão utilizados, respectivamente, para a Bélgica e o Luxemburgo, quando for necessário tratá-los separadamente.\n\nO código é representado por quatro algarismos: os três algarismos do código da nomenclatura acima referida, seguidos do algarismo zero (código 0010 para França, por exemplo), excepto para os países que têm vários registos.\n\nNo caso de um país ter vários registos, o código será:\n\n>POSIÇÃO NUMA TABELA>\n\n(1) JO nº L 25 de 2. 2. 1993, p. 11."
+  },
+  "586e6a8177c9ce76": {
+   "fragment_id": "ANEXO VI — NOMENCLATURA DO TIPO DE NAVIO (ICST-COM)",
+   "type": "divisao",
+   "heading": "ANEXO VI — NOMENCLATURA DO TIPO DE NAVIO (ICST-COM)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — NOMENCLATURA DO TIPO DE NAVIO (ICST-COM)\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "9e5f81eadbf3c302": {
+   "fragment_id": "ANEXO VII — CLASSES DOS NAVIOS",
+   "type": "divisao",
+   "heading": "ANEXO VII — CLASSES DOS NAVIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — CLASSES DOS NAVIOS\n\nexpressas em toneladas de porte bruto (TPB) ou em arqueação bruta (TB)\n\nEsta nomenclatura refere-se unicamente às embarcações de arqueação bruta igual ou superior a 100\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "35f2bd25ec123745": {
+   "fragment_id": "ANEXO VIII — ESTRUTURA DOS CONJUNTOS DE DADOS ESTATÍSTICOS",
+   "type": "divisao",
+   "heading": "ANEXO VIII — ESTRUTURA DOS CONJUNTOS DE DADOS ESTATÍSTICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII — ESTRUTURA DOS CONJUNTOS DE DADOS ESTATÍSTICOS\n\nOs conjuntos de dados especificados neste anexo definem a periodicidade das estatísticas sobre o transporte marítimo exigidas pela Comunidade. Cada conjunto define uma repartição cruzada num número limitado de dimensões em diferentes níveis das nomenclaturas, com agregação em todas as outras dimensões, para a qual são necessárias estatísticas de boa qualidade.\n\nAs condições de recolha do conjunto de dados B1 serão fixadas pelo Conselho, sob proposta da Comissão, à luz dos resultados do estudo-piloto levado a cabo durante um período transitório de três anos, como definido no artigo 10º da directiva.\n\nESTATÍSTICAS SUMÁRIAS E PORMENORIZADAS\n\n- Os conjuntos de dados a fornecer relativamente aos portos seleccionados, para as mercadorias e os passageiros, são: A1, A2, B1, C1, D1, E1 e F1.\n\n- Os conjuntos de dados a fornecer relativamente aos portos seleccionados, para as mercadorias, mas não para os passageiros, são: A1, A2, A3, B1, C1, E1 e F1.\n\n- Os conjuntos de dados a fornecer relativamente aos portos seleccionados, para os passageiros, mas não para as mercadorias, são: A3, D1 e F1.\n\n- Os conjuntos de dados a fornecer relativamente aos portos não seleccionados (nem para as mercadorias, nem para os passageiros) é: A3.\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "9bce32a1fddc0591": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Dezembro de 1995\n\nrelativa ao levantamento estatístico dos transportes marítimos de mercadorias e de passageiros\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 213.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0003)),\n\nConsiderando que, para cumprir as funções que lhe são confiadas no âmbito da política comum dos transportes marítimos, a Comissão deve dispor de estatísticas comparáveis, fiáveis, sincronizadas e regulares sobre a dimensão e a evolução dos transportes marítimos de mercadorias e de passageiros de e para a Comunidade, entre os Estados-membros e nos Estados-membros;\n\nConsiderando igualmente a importância de que se reveste um bom conhecimento do mercado dos transportes marítimos para os Estados-membros e os operadores económicos;\n\nConsiderando que não existe, até ao momento, nenhuma estatística que abranja totalmente, à escala comunitária, o transporte marítimo de mercadorias e de passageiros;\n\nConsiderando que a Decisão 93/464/CEE do Conselho, de 22 de Julho de 1993, relativa ao programa-quadro para as acções prioritárias no domínio da informação estatística 1993/1997 ([^4^](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0004)), salientou a necessidade de serem elaboradas estatísticas completas;\n\nConsiderando que a recolha de dados estatísticos comunitários numa base comparável ou harmonizada permite a criação de um sistema integrado capaz de fornecer informações fiáveis, compatíveis e actualizadas;\n\nConsiderando que os dados relativos aos transportes marítimos de mercadorias e de passageiros devem poder ser comparados entre os Estados-membros e entre os diferentes modos de transporte;\n\nConsiderando que a Comissão deve apresentar em momento oportuno um relatório sobre o funcionamento da presente directiva;\n\nConsiderando que importa prever um período de transição a fim de permitir aos Estados-membros adaptarem os seus sistemas estatísticos às exigências da presente directiva e darem início a um programa de estudos-piloto sobre os problemas específicos da recolha de determinados dados;\n\nConsiderando que importa que, durante o período inicial, a Comunidade preste aos Estados-membros uma contribuição financeira para a execução dos trabalhos necessários;\n\nConsiderando que, para a aplicação da presente directiva, incluindo as medidas necessárias para a sua adaptação às evoluções económica e técnica, há que recorrer ao Comité do Programa Estatístico criado pela Decisão 89/382/CEE, Euratom ([^5^](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0005));\n\nConsiderando que, de acordo com o princípio da subsidiariedade, a criação de normas estatísticas comuns que permitam a produção de informações harmonizadas é uma acção que só pode ser eficazmente levada a cabo a nível comunitário e que a recolha de dados estatísticos será realizada por cada Estado-membro, sob a autoridade dos organismos e instituições responsáveis pela elaboração das estatísticas oficiais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "a5f834f74a3671af": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs Estados-membros devem elaborar estatísticas comunitárias sobre os transportes de mercadorias e de passageiros efectuados por navios que façam escala em portos situados no respectivo território."
+  },
+  "1f784e945176941f": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. *Transporte marítimo de mercadorias e de passageiros*, o movimento de mercadorias e de passageiros através de navios, em percursos efectuados, total ou parcialmente, por mar.\n\na) Transportadas para instalações *off shore*;\n\nb) Recuperadas dos fundos marinhos e descarregadas nos portos.\n\n2. *Navio de mar*, qualquer navio, com excepção dos que navegam exclusivamente em águas interiores ou em águas situadas no interior ou na proximidade de águas abrigadas ou em zonas nas quais se apliquem regulamentos portuários.\n\n3. *Porto*, um local com instalações que permitam amarrar navios mercantes e descarregar ou carregar mercadorias, bem como desembarcar ou embarcar passageiros dos ou nos navios.\n\n4. *Nacionalidade do operador de transporte marítimo*, a nacionalidade do país onde está estabelecido o centro real da actividade comercial do operador de transporte.\n\n5. *Operador de transporte marítimo*, qualquer pessoa que celebre, ou em nome da qual seja celebrado, um contrato de transporte marítimo de mercadorias ou de pessoas com um carregador ou com um passageiro."
+  },
+  "030b9a1f54445483": {
+   "fragment_id": "Artigo 3.º — Características da recolha de dados",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Características da recolha de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Características da recolha de dados\n\n1. Os Estados-membros devem recolher os dados relativos aos seguintes domínios:\n\na) Informações relativas às mercadorias e passageiros;\n\nb) Informações relativas ao navio.\n\nPodem ser excluídos da recolha de dados os navios de arqueação bruta inferior a 100.\n\n2. As características da recolha de dados, ou seja, as variáveis estatísticas de cada domínio, as nomenclaturas para a respectiva classificação, bem como a sua periodicidade de observação, são indicadas nos anexos da presente directiva.\n\n3. A recolha de dados deve basear-se, na medida do possível, nas fontes disponíveis, limitando o encargo que recai sobre os inquiridos."
+  },
+  "0c48575176f4309f": {
+   "fragment_id": "Artigo 4.º — Portos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Portos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Portos\n\n1. Para efeitos da presente directiva, deve ser elaborada, nos termos do procedimento previsto no artigo 13.º, uma lista de portos, codificados e classificados por país e por zonas costeiras marítimas.\n\n2. Cada Estado-membro deve seleccionar os portos dessa lista que lidem anualmente com mais de um milhão de toneladas de mercadorias ou registem mais de 200 000 movimentos de passageiros.\n\nDurante um período máximo de três anos a contar da entrada em vigor da presente directiva, cada Estado-membro pode seleccionar apenas os portos que lidem anualmente com mais de dois milhões de toneladas de mercadorias ou registem mais de 400 000 movimentos de passageiros.\n\nDevem ser fornecidos dados pormenorizados, de acordo com o anexo VIII, sobre cada porto seleccionado, nos domínios (mercadorias e passageiros) em relação aos quais esse porto preencha o critério de selecção e, se necessário, dados sumários acerca do outro domínio.\n\n3. Devem ser fornecidos dados sumários, de acordo com o anexo VIII, «Conjunto de dados A3», sobre os portos que não tenham sido seleccionados da lista."
+  },
+  "d77684eeb8fa4b2e": {
+   "fragment_id": "Artigo 5.º — Exactidão das estatísticas",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Exactidão das estatísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Exactidão das estatísticas\n\nOs métodos de recolha de dados devem ser elaborados por forma a que os dados estatísticos comunitários sobre transporte marítimo tenham a exactidão necessária dos conjuntos de dados estatísticos descritos no anexo VIII. As normas de exactidão são estabelecidas nos termos do procedimento previsto no artigo 13.º"
+  },
+  "abd5f1a1f520d6fd": {
+   "fragment_id": "Artigo 6.º — Tratamento dos resultados da recolha de dados",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Tratamento dos resultados da recolha de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tratamento dos resultados da recolha de dados\n\nOs Estados-membros devem tratar as informações recolhidas nos termos do artigo 3.º de modo a obterem estatísticas comparáveis, com a exactidão exigida no artigo 5.º"
+  },
+  "25b2718b32ca54d4": {
+   "fragment_id": "Artigo 7.º — Transmissão dos resultados da recolha de dados",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Transmissão dos resultados da recolha de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transmissão dos resultados da recolha de dados\n\n1. Os Estados-membros devem transmitir ao Serviço de Estatística das Comunidades Europeias os resultados da recolha de dados referidos no artigo 3.º, incluindo os dados declarados confidenciais pelos Estados-membros por força da legislação ou de práticas nacionais relativas à confidencialidade estatística, em conformidade com o Regulamento (Euratom, CEE) n.º 1588/90 do Conselho, de 11 de Junho de 1990, relativo à transmissão de informações abrangidas pelo segredo estatístico ao Serviço de Estatística das Comunidades Europeias ([^6^](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0006)).\n\n2. Os resultados devem ser transmitidos em conformidade com a estrutura dos conjuntos de dados estatísticos definida no anexo VIII. As regras técnicas de transmissão dos resultados são fixadas nos termos do procedimento previsto no artigo 13.º\n\n3. A transmissão dos resultados deve ser efectuada no prazo de cinco meses a contar do fim do período de observação para os dados cuja periodicidade seja trimestral e de oito meses para os dados cuja periodicidade seja anual.\n\nA primeira transmissão deve abranger o primeiro trimestre de 1997."
+  },
+  "80337758f3523130": {
+   "fragment_id": "Artigo 8.º — Relatórios",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Relatórios\n\n1. Os Estados-membros devem comunicar à Comissão todas as informações relativas aos métodos utilizados para a produção dos dados. Caso seja necessário, devem comunicar igualmente as alterações substanciais dos métodos de recolha utilizados.\n\n2. A Comissão apresenta ao Conselho um relatório sobre a experiência adquirida no trabalho realizado de acordo com a presente directiva, após três anos de recolha de dados."
+  },
+  "caf59dc83087952c": {
+   "fragment_id": "Artigo 9.º — Divulgação dos dados estatísticos",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Divulgação dos dados estatísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Divulgação dos dados estatísticos\n\nA Comissão divulga os dados estatísticos apropriados, com periodicidade análoga à das transmissões dos resultados.\n\nAs regras de publicação ou de divulgação dos dados estatísticos pela Comissão são adoptadas nos termos do procedimento previsto no artigo 13.º"
+  },
+  "3cdc48504ee3819a": {
+   "fragment_id": "Artigo 10.º — Período de transição",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Período de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Período de transição\n\n1. Durante um período de transição que terá uma duração máxima de três anos e nos termos do procedimento previsto no artigo 13.º, podem ser concedidas derrogações em conformidade com as disposições da presente directiva, na medida em que os sistemas nacionais de estatísticas necessitem de adaptações importantes.\n\n2. Durante o período de transição referido no n.º 1 e nos termos do procedimento previsto no artigo 13.º, deve ser adoptado um programa de estudos-piloto sobre:\n\na) A viabilidade e o custo, para os Estados-membros e os inquiridos, da recolha dos seguintes dados:\n\n— descrição das mercadorias definidas no anexo III e no anexo VIII, «Conjunto de dados B1»,\n\n— passageiros transportados em distâncias curtas,\n\n— informações sobre os serviços de ligação (*feeder*) e sobre a cadeia intermodal de transportes,\n\n— dados relativos à nacionalidade do operador de transporte marítimo;\n\nb) A possibilidade de recolher dados em aplicação dos acordos celebrados no contexto da simplificação dos procedimentos comerciais, da Organização Internacional de Normalização (ISO), do Comité Europeu de Normalização (CEN) e das regulamentações aduaneiras internacionais.\n\nA Comissão deve informar o Conselho dos resultados dos estudos-piloto e apresentar-lhe propostas sobre a possibilidade de generalizar o regime instituído pela presente directiva para instaurar uma recolha regular destes elementos de informação."
+  },
+  "9d869142cb07d81b": {
+   "fragment_id": "Artigo 11.º — Contribuição financeira",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Contribuição financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contribuição financeira\n\n1. Durante os três primeiros anos de aplicação dos levantamentos estatísticos previstos na presente directiva, os Estados-membros beneficiam de um apoio financeiro da Comunidade relativamente ao custo de execução dos trabalhos.\n\n2. O montante das dotações afectadas anualmente ao apoio financeiro referido no n.º 1 é fixado no contexto do processo orçamental anual.\n\n3. A autoridade orçamental determina as dotações disponíveis para cada ano."
+  },
+  "06a75ea72a048221": {
+   "fragment_id": "Artigo 12.º — Regras de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Regras de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regras de aplicação\n\nAs regras de aplicação da presente directiva, incluindo as medidas necessárias para a sua adaptação às evoluções económica e técnica, nomeadamente:\n\n— a adaptação das características da recolha de dados (artigo 3.º) e do conteúdo dos anexos da presente directiva, desde que esta adaptação não implique um aumento significativo dos custos para os Estados-membros e/ou do encargo que recai sobre os inquiridos,\n\n— a lista, actualizada periodicamente pela Comissão, de portos codificados e classificados por país e por zonas costeiras marítimas (artigo 4.º),\n\n— as exigências de exactidão (artigo 5.º),\n\n— a descrição técnica do ficheiro de dados e dos códigos para transmissão dos resultados à Comissão (artigo 7.º),\n\n— as regras de publicação ou de divulgação dos dados (artigo 9.º),\n\n— as derrogações às disposições da presente directiva a conceder durante o período de transição e os estudos-piloto previstos (artigo 10.º),\n\n— a nomenclatura equivalente em arqueação bruta por grupo de navios (anexo VII),\n\nsão adoptadas nos termos do procedimento previsto no artigo 13.º"
+  },
+  "6236f4440fdbb624": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. A Comissão é assistida pelo Comité do Programa Estatístico, instituído pela Decisão 89/382/CEE, Euratom, a seguir designado por «Comité».\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE ([^7^](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0007)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo referido no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "548f6f702fdfabe7": {
+   "fragment_id": "Artigo 14.º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Aplicação\n\n1. Os Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Janeiro de 1997. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptem no domínio regido pela presente directiva."
+  },
+  "db2c4b337ebb871c": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "cab2ddd4b4a242d3": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "05059b8ff7ee6a62": {
+   "fragment_id": "VARIÁVEIS E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "VARIÁVEIS E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VARIÁVEIS E DEFINIÇÕES"
+  },
+  "d861cea7b4a1f4a0": {
+   "fragment_id": "1. Variáveis estatísticas",
+   "type": "divisao",
+   "heading": "1. Variáveis estatísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Variáveis estatísticas"
+  },
+  "751935191bdbc366": {
+   "fragment_id": "a) Informações relativas às mercadorias e passageiros:",
+   "type": "divisao",
+   "heading": "a) Informações relativas às mercadorias e passageiros:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### a) Informações relativas às mercadorias e passageiros:\n\n— peso bruto das mercadorias em toneladas,\n\n— tipo de carga, segundo a nomenclatura indicada no anexo II,\n\n— descrição das mercadorias, segundo a nomenclatura indicada no anexo III,\n\n— porto declarante,\n\n— direcção do movimento, entrada ou saída,\n\n— para as entradas de mercadorias: o porto de carga (isto é, o porto no qual a carga foi embarcada no navio em que chegou ao porto declarante), utilizando os portos individuais do Espaço Económico Europeu (EEE) descritos na lista de portos e, fora do EEE, as zonas costeiras marítimas descritas no anexo IV,\n\n— para as saídas de mercadorias: o porto de descarga (isto é, o porto no qual a carga deve ser descarregada do navio em que deixou o porto declarante), utilizando os portos individuais do EEE descritos na lista de portos e, fora do EEE, as zonas costeiras marítimas descritas no anexo IV,\n\n— número de passageiros que iniciam ou concluem uma travessia, bem como número de passageiros de cruzeiro numa excursão de passageiros de cruzeiro.\n\nPara as mercadorias transportadas em contentores ou unidades *ro-ro*, deve ser feito o levantamento das seguintes características complementares:\n\n— número total de contentores (com carga e vazios),\n\n— número de contentores vazios,\n\n— número total de unidades móveis (*ro-ro*) com carga e vazias,\n\n— número de unidades móveis (*ro-ro*) vazias;"
+  },
+  "f687d742b194eeb2": {
+   "fragment_id": "b) Informações relativas aos navios:",
+   "type": "divisao",
+   "heading": "b) Informações relativas aos navios:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### b) Informações relativas aos navios:\n\n— número de navios,\n\n— tonelagem de porto bruto dos navios (*deadweight*) ou arqueação bruta,\n\n— país ou território de registo dos navios, segundo a nomenclatura indicada no anexo V,\n\n— tipo de navios, segundo a nomenclatura indicada no anexo VI,\n\n— classe dos navios, segundo a nomenclatura indicada no anexo VII."
+  },
+  "1c02f8f578165b40": {
+   "fragment_id": "2. Definições",
+   "type": "divisao",
+   "heading": "2. Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Definições\n\na) «Contentor de transporte»: um elemento de equipamento de transporte:\n\n1. De carácter duradouro e, por conseguinte, suficientemente sólido para suportar múltiplas utilizações;\n\n2. Concebido de forma a facilitar o transporte de mercadorias por um ou mais modos de transporte, sem rotura de carga;\n\n3. Equipado com acessórios que permitam uma movimentação simples e, especialmente, a transferência de um modo de transporte para outro;\n\n4. Concebido de forma a ser fácil de encher ou esvaziar;\n\n5. Com um comprimento mínimo de, pelo menos, 20 pés;\n\nb) «Unidade *ro-ro*»: um equipamento com rodas destinado ao transporte de mercadorias, como um camião, reboque ou semi-reboque, que possa ser conduzido ou rebocado para um navio. Os reboques pertencentes aos portos ou aos navios estão incluídos nesta definição. As nomenclaturas devem seguir a Recomendação nº 21 da CEE-ONU «Códigos dos tipos de carga das embalagens e dos materiais de embalagem»;\n\nc) «Carga contentorizada»: contentores com carga ou vazios carregados para o ou descarregados do navio que os transporta por mar;\n\nd) «Carga *ro-ro*»: unidades *ro-ro* e mercadorias (em contentor ou não) em unidades *ro-ro* que entrem no ou saiam do navio que as transporta por mar;\n\ne) «Tonelagem bruta de mercadorias»: a tonelagem de mercadorias transportadas, incluindo as embalagens, mas excluindo a tara dos contentores e unidades *ro-ro*;\n\nf) «Tonelagem de porte bruto (TPB)»: a diferença, expressa em toneladas, entre o deslocamento de um navio em linha de carga de Verão em água com peso específico de 1,025 e a tara da embarcação, ou seja, o deslocamento, expresso em toneladas, de um navio sem carga, combustível, lubrificante, água de lastro, água fresca, água potável nos tanques, provisões para consumo, nem passageiros, tripulação e seus haveres;\n\ng) «Arqueação bruta»: a medida do tamanho total de um navio nos termos da Convenção Internacional sobre a Arqueação dos Navios, de 1969;\n\nh) «Passageiro de cruzeiro» um passageiro que faz uma viagem marítima num navio de cruzeiro. Excluem-se os passageiros em excursões de um dia;\n\ni) «Navio de cruzeiro» um navio de passageiros destinado a proporcionar aos passageiros uma experiência turística completa. Todos os passageiros têm camarotes. Está incluído equipamento para diversões a bordo. Excluem-se os navios que efectuam serviços normais do tipo «ferry», ainda que alguns passageiros considerem o serviço como um cruzeiro. Excluem-se igualmente as embarcações de transporte de carga aptas a transportar um número limitado de passageiros também com camarotes próprios. Excluem-se também os navios destinados exclusivamente a excursões de um dia;\n\nj) «Excursão de passageiros de cruzeiro» uma visita de curta duração por parte de um passageiro de um navio de cruzeiro a uma atracção turística associada a um porto, mantendo o passageiro um camarote a bordo."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "033cad8b9b5c1227": {
+   "fragment_id": "CLASSIFICAÇÃO DO TIPO DE CARGA",
+   "type": "divisao",
+   "heading": "CLASSIFICAÇÃO DO TIPO DE CARGA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CLASSIFICAÇÃO DO TIPO DE CARGA\n\n| Categoria [(^1^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0015) | Código 1 dígito | Código 2 dígitos | Designação das mercadorias | Tonelagem | Número |\n| --- | --- | --- | --- | --- | --- |\n| Granel líquido | 1 | 1X | Granéis líquidos (ausência de unidade de carga) | X |  |\n| 11 | Gás liquefeito | X |  |  |  |\n| 12 | Petróleo bruto | X |  |  |  |\n| 13 | Produtos petrolíferos | X |  |  |  |\n| 19 | Outros granéis líquidos | X |  |  |  |\n| Granel sólido | 2 | 2X | Granéis sólidos (ausência de unidade de carga) | X |  |\n| 21 | Minérios | X |  |  |  |\n| 22 | Carvão | X |  |  |  |\n| 23 | Produtos agrícolas (por exemplo: cereais, soja, tapioca) | X |  |  |  |\n| 29 | Outros granéis secos | X |  |  |  |\n| Contentores | 3 | 3X | Mercadorias em grandes contentores | X [(^2^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0016) | X |\n| 31 | Contentores de 20 pés | X [(^2^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0016) | X |  |  |\n| 32 | Contentores de 40 pés | X [(^2^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0016) | X |  |  |\n| 33 | Contentores > 20 pés e < 40 pés | X [(^2^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0016) | X |  |  |\n| 34 | Contentores > 40 pés | X [(^2^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0016) | X |  |  |\n| *Roro* (com autopropulsão) | 5 | 5X | Unidades móveis de autopropulsão | X | X |\n| 51 | Mercadorias em veículos rodoviários automóveis para o transporte de mercadorias e acompanhados de reboques | X [(^2^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0016) | X |  |  |\n| 52 | Viaturas particulares, motociclos e acompanhados de reboques e caravanas |  | X [(^3^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0017) |  |  |\n| 53 | Autocarros de passageiros |  | X [(^3^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0017) |  |  |\n| 54 | Veículos comerciais (incluindo veículos automóveis *import*/*export*) | X | X [(^3^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0017) |  |  |\n| 56 | Animais vivos | X | X [(^3^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0017) |  |  |\n| 59 | Outras unidades móveis com autopropulsão | X | X |  |  |\n| *Roro* (sem autopropulsão) | 6 | 6X | Unidades móveis sem autopropulsão | X | X |\n| 61 | Mercadorias em reboques rodoviários de mercadorias e semireboques não acompanhados | X [(^2^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0016) | X |  |  |\n| 62 | Caravanas não acompanhadas e outros veículos agrícolas e industriais | X | X [(^3^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0017) |  |  |\n| 63 | Mercadorias em vagões de caminhodeferro, reboques para o transporte marítimo transportados por navios, batelões para transporte de mercadorias transportadas por navios | X [(^2^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0016) | X |  |  |\n| 69 | Outras unidades móveis sem autopropulsão | X | X |  |  |\n| Outra carga geral (incluindo pequenos contentores) | 9 | 9X | Outra carga não classificada noutra posição | X |  |\n| 91 | Produtos florestais | X |  |  |  |\n| 92 | Produtos ferrosos e aço | X |  |  |  |\n| 99 | Outra carga geral | X |  |  |  |\n| (^1^)Estas categorias são compatíveis com a Recomendação n.º 21 CEEONU. (^2^)A quantidade registada é o peso bruto das mercadorias incluindo a embalagem, mas excluindo a tara dos contentores e das unidades *roro*. (^3^)Unicamente número total de unidades. |  |  |  |  |  |"
+  },
+  "6b043ee18a95ff82": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\n| Grupos de mercadorias | Capítulo da NST/R | Grupos da NST/R | Designação das mercadorias |\n| --- | --- | --- | --- |\n| 1 | 0 | 01 | Cereais |\n| 2 | 02, 03 | Batatas, outros legumes frescos ou congelados e frutos frescos |  |\n| 3 | 00, 06 | Animais vivos e beterraba sacarina |  |\n| 4 | 05 | Madeira e cortiça |  |\n| 5 | 04, 09 | Matérias têxteis e desperdícios, outras matérias-primas de origem animal ou vegetal |  |\n| 6 | 1 | 11, 12, 13, 14, 16, 17 | Produtos alimentares e forragens |\n| 7 | 18 | Oleaginosas |  |\n| 8 | 2 | 21, 22, 23 | Combustíveis minerais sólidos |\n| 9 | 3 | 31 | Petróleo bruto |\n| 10 | 32, 33, 34 | Produtos petrolíferos |  |\n| 11 | 4 | 41, 46 | Minérios de ferro, sucatas e poeiras de altos fornos |\n| 12 | 45 | Minérios e desperdícios não ferrosos |  |\n| 13 | 5 | 51, 52, 53, 54, 55, 56 | Produtos metalúrgicos |\n| 14 | 6 | 64, 69 | Cimentos, cal e materiais de construção manufacturados |\n| 15 | 61, 62, 63, 65 | Minerais brutos ou manufacturados |  |\n| 16 | 7 | 71, 72 | Adubos naturais ou manufacturados |\n| 17 | 8 | 83 | Produtos carboquímicos e alcatrões |\n| 18 | 81, 82, 89 | Produtos químicos, excepto produtos carboquímicos e alcatrões |  |\n| 19 | 84 | Celulose e desperdícios |  |\n| 20 | 9 | 91, 92, 93 | Veículos e materiais de transporte, máquinas, motores, mesmo desmontados, e peças |\n| 21 | 94 | Artigos metálicos |  |\n| 22 | 95 | Vidros, produtos vidreiros e produtos cerâmicos |  |\n| 23 | 96, 97 | Couro, têxteis, vestuário e artigos manufacturados diversos |  |\n| 24 | 99 | Artigos diversos |  |\n| (^1^)Publicação do Serviço de Estatística das Comunidades Europeias, edição de 1968. |  |  |  |"
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "e0baf8c25b3d5734": {
+   "fragment_id": "ZONAS COSTEIRAS MARÍTIMAS",
+   "type": "divisao",
+   "heading": "ZONAS COSTEIRAS MARÍTIMAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ZONAS COSTEIRAS MARÍTIMAS\n\nA nomenclatura a utilizar é a geonomenclatura [nomenclatura dos países para as estatísticas do comércio externo da Comunidade e do comércio entre os seus Estados-Membros, originalmente estabelecida pelo Regulamento (CEE) nº 1736/75 do Conselho ([^8^](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0018))] em vigor no ano ao qual os dados se referirem.\n\nO código é constituído por quatro caracteres: os dois caracteres alfabéticos do código ISO de base de cada país da nomenclatura acima referida, seguidos de dois zeros (código GR00 para a Grécia, por exemplo), excepto para os países que estão divididos em várias zonas costeiras marítimas, que serão caracterizadas por um quarto carácter diferente de zero (de 1 a 7), como indicado a seguir:\n\n*Código* *Zonas costeiras marítimas*\n\nFR01 França: Atlântico e Mar do Norte\n\nFR02 França: Mediterrâneo\n\nFR03 Departamentos ultramarinos franceses: Guiana Francesa\n\nFR04 Departamentos ultramarinos franceses: Martinica e Guadalupe\n\nFR05 Departamentos ultramarinos franceses: Reunião\n\nDE01 Alemanha: Mar do Norte\n\nDE02 Alemanha: Mar Báltico\n\nDE03 Alemanha: Interior\n\nGB01 Reino Unido\n\nGB02 Ilha de Man\n\nGB03 Ilhas do Canal\n\nES01 Espanha: Atlântico (Norte)\n\nES02 Espanha: Mediterrâneo e Atlântico (Sul), incluindo ilhas Baleares e Canárias\n\nSE01 Suécia: Mar Báltico\n\nSE02 Suécia: Mar do Norte\n\nTR01 Turquia: Mar Negro\n\nTR02 Turquia: Mediterrâneo\n\nRU01 Rússia: Mar Negro\n\nRU02 Rússia: Mar Báltico\n\nRU03 Rússia: Ásia\n\nMA01 Marrocos: Mediterrâneo\n\nMA02 Marrocos: África Ocidental\n\nEG01 Egipto: Mediterrâneo\n\nEG02 Egipto: Mar Vermelho\n\nIL01 Israel: Mediterrâneo\n\nIL02 Israel: Mar Vermelho\n\nSA01 Arábia Saudita: Mar Vermelho\n\nSA02 Arábia Saudita: Golfo\n\nUS01 Estados Unidos da América: Atlântico (Norte)\n\nUS02 Estados Unidos da América: Atlântico (Sul)\n\nUS03 Estados Unidos da América: Golfo\n\nUS04 Estados Unidos da América: Pacífico (Sul)\n\nUS05 Estados Unidos da América: Pacífico (Norte)\n\nUS06 Estados Unidos da América: Grandes Lagos\n\nUS07 Porto Rico\n\nCA01 Canadá: Atlântico\n\nCA02 Canadá: Grandes Lagos e Alto São Lourenço\n\nCA03 Canadá: Costa Ocidental\n\nCO01 Colômbia: Costa Norte\n\nCO02 Colômbia: Costa Ocidental"
+  },
+  "72074b3d41247c2d": {
+   "fragment_id": "Com os códigos suplementares",
+   "type": "divisao",
+   "heading": "Com os códigos suplementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Com os códigos suplementares\n\nZZ01 Instalações *off shore*\n\nZZ02 Agregados e não descritos noutra posição"
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "2ceccff5ff067393": {
+   "fragment_id": "NACIONALIDADE DE REGISTO DO NAVIO",
+   "type": "divisao",
+   "heading": "NACIONALIDADE DE REGISTO DO NAVIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NACIONALIDADE DE REGISTO DO NAVIO\n\nA nomenclatura a utilizar é a geonomenclatura [nomenclatura dos países para as estatísticas do comércio externo da Comunidade e do comércio entre os seus Estados-Membros, originalmente estabelecida pelo Regulamento (CEE) n.º 1736/75 do Conselho ([^9^](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0019))] em vigor no ano ao qual os dados se referirem.\n\nO código é constituído por quatro caracteres: os dois caracteres alfabéticos do código ISO de base de cada país da nomenclatura acima referida, seguidos de dois zeros (código GR00 para a Grécia, por exemplo), excepto para os países com vários registos, que serão caracterizados por um quarto carácter diferente de zero, como indicado a seguir:\n\nFR01 França\n\nFR02 Território antárctico francês (incluindo ilhas Kerguelen)\n\nIT01 Itália — primeiro registo\n\nIT02 Itália — registo internacional\n\nGB01 Reino Unido\n\nGB02 Ilha de Man\n\nGB03 Ilhas Anglo-Normandas\n\nGB04 Gibraltar\n\nDK01 Dinamarca\n\nDK02 Dinamarca (DIS)\n\nPT01 Portugal\n\nPT02 Portugal (MAR)\n\nES01 Espanha\n\nES02 Espanha (Rebeca)\n\nNO01 Noruega\n\nNO02 Noruega (NIS)\n\nUS01 Estados Unidos da América\n\nUS02 Porto Rico"
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "46531410a6a31861": {
+   "fragment_id": "NOMENCLATURA DO TIPO DE NAVIO (ICST-COM)",
+   "type": "divisao",
+   "heading": "NOMENCLATURA DO TIPO DE NAVIO (ICST-COM)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NOMENCLATURA DO TIPO DE NAVIO (ICST-COM)\n\n|  | Modelo | Categorias incluídas em cada tipo de navio |\n| --- | --- | --- |\n| 10 | Granel líquido | Petroleiro Navio-tanque para produtos químicos Transportador de gás liquefeito Batelão-cisterna Outros navios-tanque |\n| 20 | Granel sólido | Petroleiro/graneleiro Graneleiro |\n| 31 | Contentores | Porta-contentores integral |\n| 32 | Transporte especializado | Transportador de batelões Transportador de produtos químicos Transportador de produtos radioactivos Transportador de gado Transportador de veículos Outros transportadores especializados |\n| 33 | Carga geral | Navio frigorífico Navio *ro-ro* e passageiros Navio *ro-ro* e contentores Outros navios *ro-ro* Navio misto (carga geral e passageiros) Navio misto (carga geral e contentores) Navio de carga geral *single decker* Navio de carga geral *multi-decker* |\n| 34 | Batelão sem propulsão para cargas secas | Batelão de convés Batelão de comportas Batelão porta-barcaças LASH Batelão de carga seca aberta Batelão de carga seca coberta Outros batelões de carga seca não especificados noutra posição |\n| 35 | Passageiros | Navios de passageiros (excluindo passageiros de cruzeiros) |\n| 36 | Passageiros de cruzeiro | Só navios de cruzeiro |\n| 41 | Pesca [(^1^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0020) | Embarcações de pesca [(^1^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0020) Navio-fábrica para o tratamento de peixe [(^1^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0020) |\n| 42 | Actividades *off shore* | Sondagem e exploração [(^1^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0020) Abastecimento *off shore* [(^1^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0020) |\n| 43 | Rebocadores | Rebocadores [(^1^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0020) Empurradores [(^1^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0020) |\n| 49 | Diversos | Dragas [(^1^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0020) Investigação/exploração [(^1^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0020) Outros navios e embarcações não especificados noutra posição [(^1^)](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#E0020) |\n| XX | Desconhecido | Tipo de navio desconhecido |\n| (^1^)Não abrangidos pela presente directiva. |  |  |"
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "54d62338f010a7d4": {
+   "fragment_id": "CLASSES DOS NAVIOS",
+   "type": "divisao",
+   "heading": "CLASSES DOS NAVIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CLASSES DOS NAVIOS"
+  },
+  "62e21a0a7b28a2a4": {
+   "fragment_id": "expressas em toneladas de porte bruto (TPB) ou em arqueação bruta (TB)",
+   "type": "divisao",
+   "heading": "expressas em toneladas de porte bruto (TPB) ou em arqueação bruta (TB)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### expressas em toneladas de porte bruto (TPB) ou em arqueação bruta (TB)\n\nEsta nomenclatura refere-se unicamente às embarcações de arqueação bruta igual ou superior a 100.\n\n| Grupo | Limite inferior | Limite superior |  |  |\n| --- | --- | --- | --- | --- |\n| TPB | TB | TPB | TB |  |\n| 01 | — | 100 | até 499 | até 499 |\n| 02 | 500 | 500 | 999 | 999 |\n| 03 | 1 000 | 1 000 | 1 999 | 1 999 |\n| 04 | 2 000 | 2 000 | 2 999 | 2 999 |\n| 05 | 3 000 | 3 000 | 3 999 | 3 999 |\n| 06 | 4 000 | 4 000 | 4 999 | 4 999 |\n| 07 | 5 000 | 5 000 | 5 999 | 5 999 |\n| 08 | 6 000 | 6 000 | 6 999 | 6 999 |\n| 09 | 7 000 | 7 000 | 7 999 | 7 999 |\n| 10 | 8 000 | 8 000 | 8 999 | 8 999 |\n| 11 | 9 000 | 9 000 | 9 999 | 9 999 |\n| 12 | 10000 | 10 000 | 19 999 | 19 999 |\n| 13 | 20 000 | 20 000 | 29 999 | 29 999 |\n| 14 | 30000 | 30 000 | 39 999 | 39 999 |\n| 15 | 40 000 | 40 000 | 49 999 | 49 999 |\n| 16 | 50 000 | 50 000 | 79 999 | 79 999 |\n| 17 | 80 000 | 80 000 | 99 999 | 99 999 |\n| 18 | 100 000 | 100 000 | 149 999 | 149 999 |\n| 19 | 150 000 | 150 000 | 199 999 | 199 999 |\n| 20 | 200000 | 200000 | 249 999 | 249 999 |\n| 21 | 250 000 | 250 000 | 299 999 | 299 999 |\n| 22 | ≥ 300 000 | ≥ 300 000 | — | — |\n| *Nota:* No caso de, para efeitos da presente directiva, serem tidos em conta navios com arqueação bruta inferior a 100, ser-lhes-á atribuído um código de grupo «99». |  |  |  |  |"
+  },
+  "1b41b51ec3248d43": {
+   "fragment_id": "ANEXO VIII",
+   "type": "divisao",
+   "heading": "ANEXO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII"
+  },
+  "39d5a3ae74e2a768": {
+   "fragment_id": "ESTRUTURA DOS CONJUNTOS DE DADOS ESTATÍSTICOS",
+   "type": "divisao",
+   "heading": "ESTRUTURA DOS CONJUNTOS DE DADOS ESTATÍSTICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESTRUTURA DOS CONJUNTOS DE DADOS ESTATÍSTICOS\n\nOs conjuntos de dados especificados neste anexo definem a periodicidade das estatísticas sobre o transporte marítimo exigidas pela Comunidade. Cada conjunto define uma repartição cruzada num número limitado de dimensões em diferentes níveis das nomenclaturas, com agregação em todas as outras dimensões, para a qual são necessárias estatísticas de boa qualidade.\n\nAs condições de recolha do conjunto de dados B1 serão fixadas pelo Conselho, sob proposta da Comissão, à luz dos resultados do estudo-piloto levado a cabo durante um período transitório de três anos, como definido no artigo 10º da presente directiva."
+  },
+  "97eae5eccfc27a11": {
+   "fragment_id": "ESTATÍSTICAS SUMÁRIAS E PORMENORIZADAS",
+   "type": "divisao",
+   "heading": "ESTATÍSTICAS SUMÁRIAS E PORMENORIZADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### ESTATÍSTICAS SUMÁRIAS E PORMENORIZADAS\n\n— Os conjuntos de dados a fornecer relativamente aos portos seleccionados, para as mercadorias e os passageiros, são: A1, A2, B1, C1, D1, E1, F1 e/ou F2.\n\n— Os conjuntos de dados a fornecer relativamente aos portos seleccionados, para as mercadorias, mas não para os passageiros, são: A1, A2, A3, B1, C1, E1, F1 e/ou F2.\n\n— Os conjuntos de dados a fornecer relativamente aos portos seleccionados, para os passageiros, mas não para as mercadorias, são: A3, D1, F1 e/ou F2.\n\n— O conjunto de dados a fornecer relativamente aos portos seleccionados e aos portos que não foram seleccionados (nem para as mercadorias, nem para os passageiros) é: A3."
+  },
+  "03325ae4f939b7c5": {
+   "fragment_id": "Conjunto de dados A1: Transportes marítimos nos principais portos europeus, por porto, tipo de carga e relação",
+   "type": "divisao",
+   "heading": "Conjunto de dados A1: Transportes marítimos nos principais portos europeus, por porto, tipo de carga e relação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Conjunto de dados A1: Transportes marítimos nos principais portos europeus, por porto, tipo de carga e relação"
+  },
+  "13c7013ada9ead66": {
+   "fragment_id": "Periodicidade: Trimestral",
+   "type": "divisao",
+   "heading": "Periodicidade: Trimestral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Periodicidade: Trimestral\n\n|  | Variáveis | Pormenor dos códigos | Nomenclatura |\n| --- | --- | --- | --- |\n| Dimensões | Quadro | Duas posições alfanuméricas | A1 |\n| Ano de referência | Quatro posições alfanuméricas | (por exemplo, 1997) |  |\n| Trimestre de referência | Uma posição alfanumérica | (1, 2, 3, 4) |  |\n| Porto declarante | Cinco posições alfanuméricas | Portos EEE seleccionados da lista de portos |  |\n| Direcção | Uma posição alfanumérica | Entrada, saída (1, 2) |  |\n| Porto de carga/descarga | Cinco posições alfanuméricas | Portos EEE da lista de portos |  |\n| Relação | Quatro posições alfanuméricas | Zonas costeiras marítimas, anexo IV |  |\n| Tipo de carga | Uma posição alfanumérica | Tipo de carga, anexo II |  |\n| *Dado:*Peso bruto das mercadorias em toneladas. |  |  |  |"
+  },
+  "ba3c9c4e5ce4e263": {
+   "fragment_id": "Conjunto de dados A2: Transportes marítimos nos principais portos europeus, por porto, tipo de carga e relação",
+   "type": "divisao",
+   "heading": "Conjunto de dados A2: Transportes marítimos nos principais portos europeus, por porto, tipo de carga e relação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Conjunto de dados A2: Transportes marítimos nos principais portos europeus, por porto, tipo de carga e relação"
+  },
+  "83a4d38518d341c2": {
+   "fragment_id": "Periodicidade: Trimestral",
+   "type": "divisao",
+   "heading": "Periodicidade: Trimestral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Periodicidade: Trimestral\n\n|  | Variáveis | Pormenor dos códigos | Nomenclatura |\n| --- | --- | --- | --- |\n| Dimensões | Quadro | Duas posições alfanuméricas | A2 |\n| Ano de referência | Quatro posições alfanuméricas | (por exemplo, 1997) |  |\n| Trimestre de referência | Uma posição alfanumérica | (1, 2, 3, 4) |  |\n| Porto declarante | Cinco posições alfanuméricas | Portos EEE seleccionados da lista de portos |  |\n| Direcção | Uma posição alfanumérica | Entrada, saída (1, 2) |  |\n| Porto de carga/descarga | Cinco posições alfanuméricas | Portos EEE da lista de portos |  |\n| Relação | Quatro posições alfanuméricas | Zonas costeiras marítimas, anexo IV |  |\n| Tipo de carga | Duas posições alfanuméricas | Tipo de carga, anexo II (contentores e *ro-ro* excluídos) (subcategorias 1X, 11, 12, 13, 19, 2X, 21, 22, 23, 29, 9X, 91, 92 e 99). |  |\n| *Dado:*Peso bruto das mercadorias em toneladas. |  |  |  |"
+  },
+  "cf8f8ee7316d5ba1": {
+   "fragment_id": "Conjunto de dados A3: Informações exigidas relativamente aos portos seleccionados e aos portos relativamente aos quais não são exigidas estatísticas pormenorizadas (ver n.º 3 do artigo 4.º)",
+   "type": "divisao",
+   "heading": "Conjunto de dados A3: Informações exigidas relativamente aos portos seleccionados e aos portos relativamente aos quais não são exigidas estatísticas pormenorizadas (ver n.º 3 do artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Conjunto de dados A3: Informações exigidas relativamente aos portos seleccionados e aos portos relativamente aos quais não são exigidas estatísticas pormenorizadas (ver n.º 3 do artigo 4.º)"
+  },
+  "3344998c09f6c968": {
+   "fragment_id": "Periodicidade: Anuais",
+   "type": "divisao",
+   "heading": "Periodicidade: Anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Periodicidade: Anuais\n\n|  | Variáveis | Pormenor dos códigos | Nomenclatura |\n| --- | --- | --- | --- |\n| Dimensões | Quadro | Duas posições alfanuméricas | A3 |\n| Ano de referência | Quatro posições alfanuméricas | (por exemplo, 1997) |  |\n| Trimestre de referência | Uma posição alfanumérica | (0) |  |\n| Porto declarante | Cinco posições alfanuméricas | Todos os portos da lista de portos |  |\n| Direcção | Uma posição alfanumérica | Entrada, saída (1, 2) |  |\n| *Dados:* Peso bruto das mercadorias em toneladas. Número de passageiros (excluindo passageiros de cruzeiros). Número de passageiros de cruzeiro que iniciam ou concluem um cruzeiro. Número de passageiros de cruzeiro numa excursão de passageiros de navio de cruzeiro: direcção: entrada (1) apenas — (facultativo). |  |  |  |"
+  },
+  "82aa4fbe4d056ebe": {
+   "fragment_id": "Conjunto de dados B1: Transportes marítimos nos principais portos europeus, por porto, tipo de carga, mercadoria e relação",
+   "type": "divisao",
+   "heading": "Conjunto de dados B1: Transportes marítimos nos principais portos europeus, por porto, tipo de carga, mercadoria e relação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Conjunto de dados B1: Transportes marítimos nos principais portos europeus, por porto, tipo de carga, mercadoria e relação"
+  },
+  "905747b59f485783": {
+   "fragment_id": "Periodicidade: Anuais",
+   "type": "divisao",
+   "heading": "Periodicidade: Anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Periodicidade: Anuais\n\n|  | Variáveis | Pormenor dos códigos | Nomenclatura |\n| --- | --- | --- | --- |\n| Dimensões | Quadro | Duas posições alfanuméricas | B1 |\n| Ano de referência | Quatro posições alfanuméricas | (por exemplo, 1997) |  |\n| Trimestre de referência | Uma posição alfanumérica | (0) |  |\n| Porto declarante | Cinco posições alfanuméricas | Portos EEE seleccionados da lista de portos |  |\n| Direcção | Uma posição alfanumérica | Entrada, saída (1, 2) |  |\n| Porto de carga/descarga | Cinco posições alfanuméricas | Portos EEE da lista de portos |  |\n| Relação | Quatro posições alfanuméricas | Zonas costeiras marítimas, anexo IV |  |\n| Tipo de carga | Uma posição alfanumérica | Tipo de carga, anexo II |  |\n| Tipo de mercadoria | Duas posições alfanuméricas | Nomenclatura de mercadorias, anexo III |  |\n| *Dado:*Peso bruto das mercadorias em toneladas. |  |  |  |"
+  },
+  "5f33b56a821306dc": {
+   "fragment_id": "Conjunto de dados C1: Transportes marítimos, em contentores ou ro-ro, nos principais portos europeus, por porto, tipo de carga, relação e situação de carga",
+   "type": "divisao",
+   "heading": "Conjunto de dados C1: Transportes marítimos, em contentores ou ro-ro, nos principais portos europeus, por porto, tipo de carga, relação e situação de carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Conjunto de dados C1: Transportes marítimos, em contentores ou ro-ro, nos principais portos europeus, por porto, tipo de carga, relação e situação de carga"
+  },
+  "e08a52848861daa0": {
+   "fragment_id": "Periodicidade: Trimestral",
+   "type": "divisao",
+   "heading": "Periodicidade: Trimestral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Periodicidade: Trimestral\n\n|  | Variáveis | Pormenor dos códigos | Nomenclatura |\n| --- | --- | --- | --- |\n| Dimensões | Quadro | Duas posições alfanuméricas | C1 |\n| Ano de referência | Quatro posições alfanuméricas | (por exemplo, 1997) |  |\n| Trimestre de referência | Uma posição alfanumérica | (1, 2, 3, 4) |  |\n| Porto declarante | Cinco posições alfanuméricas | Portos EEE seleccionados da lista de portos |  |\n| Direcção | Uma posição alfanumérica | Entrada, saída (1, 2) |  |\n| Porto de carga/descarga | Cinco posições alfanuméricas | Portos EEE da lista de portos |  |\n| Relação | Quatro posições alfanuméricas | Zonas costeiras marítimas, anexo IV |  |\n| Tipo de carga | Duas posições alfanuméricas | Tipo de carga, anexo II (contentores e *ro-ro* unicamente) (subcategorias 3X, 31, 32, 33, 34, 5X, 51, 52, 53, 54, 56, 59, 6X, 61, 62, 63 e 69). |  |\n| *Dado:* Peso bruto das mercadorias em toneladas (tipo de carga: subcategorias 3X, 31, 32, 33, 34, 5X, 51, 54, 56, 59, 6X, 61, 62, 63 e 69). Número de unidades (tipo de carga: subcategorias 3X, 31, 32, 33, 34, 5X, 51, 52, 53, 54, 56, 59, 6X, 61, 62, 63 e 69). Número de unidades vazias (tipo de carga: subcategorias 3X, 31, 32, 33, 34, 5X, 51, 59, 6X, 61, 63 e 69). |  |  |  |"
+  },
+  "7e4efb58bb904112": {
+   "fragment_id": "Conjunto de dados D1: Transportes de passageiros nos principais portos europeus, por relação e nacionalidade de registo do navio",
+   "type": "divisao",
+   "heading": "Conjunto de dados D1: Transportes de passageiros nos principais portos europeus, por relação e nacionalidade de registo do navio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Conjunto de dados D1: Transportes de passageiros nos principais portos europeus, por relação e nacionalidade de registo do navio"
+  },
+  "2fe26ecd6ca1f73b": {
+   "fragment_id": "Periodicidade: Trimestral",
+   "type": "divisao",
+   "heading": "Periodicidade: Trimestral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Periodicidade: Trimestral\n\n|  | Variáveis | Pormenor dos códigos | Nomenclatura |\n| --- | --- | --- | --- |\n| Dimensões | Quadro | Duas posições alfanuméricas | D1 |\n| Ano de referência | Quatro posições alfanuméricas | (por exemplo, 1997) |  |\n| Trimestre de referência | Uma posição alfanumérica | (1, 2, 3, 4) |  |\n| Porto declarante | Cinco posições alfanuméricas | Portos EEE seleccionados da lista de portos |  |\n| Direcção | Uma posição alfanumérica | Entrada, saída (1, 2) |  |\n| Porto de carga/descarga | Cinco posições alfanuméricas | Portos EEE da lista de portos |  |\n| Relação | Quatro posições alfanuméricas | Zonas costeiras marítimas, Anexo IV |  |\n| Nacionalidade de registo do navio | Quatro posições alfanuméricas | Nacionalidade de registo do navio, anexo V |  |\n| *Dados:*Número de passageiros excluindo passageiros de cruzeiro que iniciam ou concluem um cruzeiro e passageiros de cruzeiro numa excursão. |  |  |  |"
+  },
+  "f53f69611134be2d": {
+   "fragment_id": "Conjunto de dados E1: Transportes marítimos nos principais portos europeus, por porto, tipo de carga, relação e nacionalidade de registo do navio",
+   "type": "divisao",
+   "heading": "Conjunto de dados E1: Transportes marítimos nos principais portos europeus, por porto, tipo de carga, relação e nacionalidade de registo do navio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Conjunto de dados E1: Transportes marítimos nos principais portos europeus, por porto, tipo de carga, relação e nacionalidade de registo do navio"
+  },
+  "19aaf7e9333c39a4": {
+   "fragment_id": "Periodicidade: Anuais",
+   "type": "divisao",
+   "heading": "Periodicidade: Anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Periodicidade: Anuais\n\n|  | Variáveis | Pormenor dos códigos | Nomenclatura |\n| --- | --- | --- | --- |\n| Dimensões | Quadro | Duas posições alfanuméricas | E1 |\n| Ano de referência | Quatro posições alfanuméricas | (por exemplo, 1997) |  |\n| Trimestre de referência | Uma posição alfanumérica | (0) |  |\n| Porto declarante | Cinco posições alfanuméricas | Portos EEE seleccionados da lista de portos |  |\n| Direcção | Uma posição alfanumérica | Entrada, saída (1, 2) |  |\n| Porto de carga/descarga | Cinco posições alfanuméricas | Portos EEE da lista de portos |  |\n| Relação | Quatro posições alfanuméricas | Zonas costeiras marítimas, anexo IV |  |\n| Tipo de carga | Uma posição alfanumérica | Tipo de carga, anexo II |  |\n| Nacionalidade de registo do navio | Quatro posições alfanuméricas | Nacionalidade de registo do navio, anexo V |  |\n| *Dado:*Peso bruto das mercadorias em toneladas. |  |  |  |"
+  },
+  "8beaa35e6a50d4a2": {
+   "fragment_id": "Conjunto de dados F1: Tráfego portuário europeu de navios nos principais portos europeus, por porto, tipo e classe do navio que carrega ou descarrega o frete, embarca ou desembarca passageiros (incluindo passageiros de cruzeiro numa excursão de passageiros de navio de cruzeiro)",
+   "type": "divisao",
+   "heading": "Conjunto de dados F1: Tráfego portuário europeu de navios nos principais portos europeus, por porto, tipo e classe do navio que carrega ou descarrega o frete, embarca ou desembarca passageiros (incluindo passageiros de cruzeiro numa excursão de passageiros de navio de cruzeiro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Conjunto de dados F1: Tráfego portuário europeu de navios nos principais portos europeus, por porto, tipo e classe do navio que carrega ou descarrega o frete, embarca ou desembarca passageiros (incluindo passageiros de cruzeiro numa excursão de passageiros de navio de cruzeiro)"
+  },
+  "1be95d5381e468cf": {
+   "fragment_id": "Periodicidade: Trimestral",
+   "type": "divisao",
+   "heading": "Periodicidade: Trimestral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Periodicidade: Trimestral\n\n|  | Variáveis | Pormenor dos códigos | Nomenclatura |\n| --- | --- | --- | --- |\n| Dimensões | Quadro | Duas posições alfanuméricas | F1 |\n| Ano de referência | Quatro posições alfanuméricas | (por exemplo, 1997) |  |\n| Trimestre de referência | Uma posição alfanumérica | (1, 2, 3, 4) |  |\n| Porto declarante | Cinco posições alfanuméricas | Portos EEE seleccionados da lista de portos |  |\n| Direcção | Uma posição alfanumérica | Entrada, saída (1, 2) |  |\n| Tipo de navio | Duas posições alfanuméricas | Tipo de navio, anexo VI |  |\n| Dimensão do navio TPB | Duas posições alfanuméricas | Classe de porte bruto (*deadweight*) ou de arqueação bruta, anexo VII |  |\n| *Dado:* Número de navios. Toneladas de peso bruto ou arqueação bruta dos navios. |  |  |  |"
+  },
+  "c2a9e49d90aaaeed": {
+   "fragment_id": "Conjunto de dados F2: Tráfego portuário europeu de navios nos principais portos europeus, por porto, tipo e classe do navio que carrega ou descarrega o frete, embarca ou desembarca passageiros (incluindo passageiros de cruzeiro numa excursão de passageiros de navio de cruzeiro)",
+   "type": "divisao",
+   "heading": "Conjunto de dados F2: Tráfego portuário europeu de navios nos principais portos europeus, por porto, tipo e classe do navio que carrega ou descarrega o frete, embarca ou desembarca passageiros (incluindo passageiros de cruzeiro numa excursão de passageiros de navio de cruzeiro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Conjunto de dados F2: Tráfego portuário europeu de navios nos principais portos europeus, por porto, tipo e classe do navio que carrega ou descarrega o frete, embarca ou desembarca passageiros (incluindo passageiros de cruzeiro numa excursão de passageiros de navio de cruzeiro)"
+  },
+  "84bc38b46639892c": {
+   "fragment_id": "Periodicidade: Trimestral",
+   "type": "divisao",
+   "heading": "Periodicidade: Trimestral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Periodicidade: Trimestral\n\n|  | Variáveis | Pormenor dos códigos | Nomenclatura |\n| --- | --- | --- | --- |\n| Dimensões | Quadro | Duas posições alfanuméricas | F2 |\n| Ano de referência | Quatro posições alfanuméricas | (por exemplo, 1997) |  |\n| Trimestre de referência | Uma posição alfanumérica | (1, 2, 3, 4) |  |\n| Porto declarante | Cinco posições alfanuméricas | Portos EEE seleccionados da lista de portos |  |\n| Direcção | Uma posição alfanumérica | Entrada, saída (1, 2) |  |\n| Tipo de navio | Duas posições alfanuméricas | Tipo de navio, anexo VI |  |\n| Dimensão do navio TB | Duas posições alfanuméricas | Classe de arqueação bruta, anexo VII |  |\n| *Dado:* Número de navios. Arqueação bruta dos navios. |  |  |  |\n\n---"
+  },
+  "abddb47c4bd3b3f9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#src.E0001)) JO n.º C 214 de 4. 8. 1994, p. 12.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#src.E0002)) JO n.º C 15 de 19. 6. 1995, p. 493.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#src.E0003)) JO n.º C 397 de 31. 12. 1994, p. 6.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#src.E0004)) JO n.º L 219 de 28. 8. 1993, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#src.E0005)) JO n.º L 181 de 28. 6. 1989, p. 47.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#src.E0006)) JO n.º L 151 de 15. 6. 1990, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#src.E0007)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#src.E0018)) JO L 183 de 14.7.1975, p. 3.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/e23ef389-1f8e-46e3-960e-b7259ae5701a.0017.03/DOC_1#src.E0019)) JO L 183 de 14.7.1975, p. 3."
+  },
+  "ff6a52908fc0b479": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Dezembro de 1995\n\nrelativa ao levantamento estatístico dos transportes marítimos de mercadorias e de passageiros\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 213.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0003)),\n\nConsiderando que, para cumprir as funções que lhe são confiadas no âmbito da política comum dos transportes marítimos, a Comissão deve dispor de estatísticas comparáveis, fiáveis, sincronizadas e regulares sobre a dimensão e a evolução dos transportes marítimos de mercadorias e de passageiros de e para a Comunidade, entre os Estados-membros e nos Estados-membros;\n\nConsiderando igualmente a importância de que se reveste um bom conhecimento do mercado dos transportes marítimos para os Estados-membros e os operadores económicos;\n\nConsiderando que não existe, até ao momento, nenhuma estatística que abranja totalmente, à escala comunitária, o transporte marítimo de mercadorias e de passageiros;\n\nConsiderando que a Decisão 93/464/CEE do Conselho, de 22 de Julho de 1993, relativa ao programa-quadro para as acções prioritárias no domínio da informação estatística 1993/1997 ([^4^](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0004)), salientou a necessidade de serem elaboradas estatísticas completas;\n\nConsiderando que a recolha de dados estatísticos comunitários numa base comparável ou harmonizada permite a criação de um sistema integrado capaz de fornecer informações fiáveis, compatíveis e actualizadas;\n\nConsiderando que os dados relativos aos transportes marítimos de mercadorias e de passageiros devem poder ser comparados entre os Estados-membros e entre os diferentes modos de transporte;\n\nConsiderando que a Comissão deve apresentar em momento oportuno um relatório sobre o funcionamento da presente directiva;\n\nConsiderando que importa prever um período de transição a fim de permitir aos Estados-membros adaptarem os seus sistemas estatísticos às exigências da presente directiva e darem início a um programa de estudos-piloto sobre os problemas específicos da recolha de determinados dados;\n\nConsiderando que importa que, durante o período inicial, a Comunidade preste aos Estados-membros uma contribuição financeira para a execução dos trabalhos necessários;\n\nConsiderando que, para a aplicação da presente directiva, incluindo as medidas necessárias para a sua adaptação às evoluções económica e técnica, há que recorrer ao Comité do Programa Estatístico criado pela Decisão 89/382/CEE, Euratom ([^5^](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0005));\n\nConsiderando que, de acordo com o princípio da subsidiariedade, a criação de normas estatísticas comuns que permitam a produção de informações harmonizadas é uma acção que só pode ser eficazmente levada a cabo a nível comunitário e que a recolha de dados estatísticos será realizada por cada Estado-membro, sob a autoridade dos organismos e instituições responsáveis pela elaboração das estatísticas oficiais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "a7b705941c2d3dca": {
+   "fragment_id": "Artigo 7.º — Transmissão dos resultados da recolha de dados",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Transmissão dos resultados da recolha de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transmissão dos resultados da recolha de dados\n\n1. Os Estados-membros devem transmitir ao Serviço de Estatística das Comunidades Europeias os resultados da recolha de dados referidos no artigo 3.º, incluindo os dados declarados confidenciais pelos Estados-membros por força da legislação ou de práticas nacionais relativas à confidencialidade estatística, em conformidade com o Regulamento (Euratom, CEE) n.º 1588/90 do Conselho, de 11 de Junho de 1990, relativo à transmissão de informações abrangidas pelo segredo estatístico ao Serviço de Estatística das Comunidades Europeias ([^6^](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0006)).\n\n2. Os resultados devem ser transmitidos em conformidade com a estrutura dos conjuntos de dados estatísticos definida no anexo VIII. As regras técnicas de transmissão dos resultados são fixadas nos termos do procedimento previsto no artigo 13.º\n\n3. A transmissão dos resultados deve ser efectuada no prazo de cinco meses a contar do fim do período de observação para os dados cuja periodicidade seja trimestral e de oito meses para os dados cuja periodicidade seja anual.\n\nA primeira transmissão deve abranger o primeiro trimestre de 1997."
+  },
+  "b359c51f669a6e09": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. A Comissão é assistida pelo Comité do Programa Estatístico, instituído pela Decisão 89/382/CEE, Euratom, a seguir designado por «Comité».\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE ([^7^](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0007)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo referido no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "9b28a9f2daff52a9": {
+   "fragment_id": "CLASSIFICAÇÃO DO TIPO DE CARGA",
+   "type": "divisao",
+   "heading": "CLASSIFICAÇÃO DO TIPO DE CARGA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CLASSIFICAÇÃO DO TIPO DE CARGA\n\n| Categoria [(^1^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0008) | Código 1 dígito | Código 2 dígitos | Designação das mercadorias | Tonelagem | Número |\n| --- | --- | --- | --- | --- | --- |\n| Granel líquido | 1 | 1X | Granéis líquidos (ausência de unidade de carga) | X |  |\n| 11 | Gás liquefeito | X |  |  |  |\n| 12 | Petróleo bruto | X |  |  |  |\n| 13 | Produtos petrolíferos | X |  |  |  |\n| 19 | Outros granéis líquidos | X |  |  |  |\n| Granel sólido | 2 | 2X | Granéis sólidos (ausência de unidade de carga) | X |  |\n| 21 | Minérios | X |  |  |  |\n| 22 | Carvão | X |  |  |  |\n| 23 | Produtos agrícolas (por exemplo: cereais, soja, tapioca) | X |  |  |  |\n| 29 | Outros granéis secos | X |  |  |  |\n| Contentores | 3 | 3X | Mercadorias em grandes contentores | X [(^2^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0009) | X |\n| 31 | Contentores de 20 pés | X [(^2^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0009) | X |  |  |\n| 32 | Contentores de 40 pés | X [(^2^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0009) | X |  |  |\n| 33 | Contentores > 20 pés e < 40 pés | X [(^2^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0009) | X |  |  |\n| 34 | Contentores > 40 pés | X [(^2^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0009) | X |  |  |\n| *Roro* (com autopropulsão) | 5 | 5X | Unidades móveis de autopropulsão | X | X |\n| 51 | Mercadorias em veículos rodoviários automóveis para o transporte de mercadorias e acompanhados de reboques | X [(^2^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0009) | X |  |  |\n| 52 | Viaturas particulares, motociclos e acompanhados de reboques e caravanas |  | X [(^3^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0010) |  |  |\n| 53 | Autocarros de passageiros |  | X [(^3^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0010) |  |  |\n| 54 | Veículos comerciais (incluindo veículos automóveis *import*/*export*) | X | X [(^3^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0010) |  |  |\n| 56 | Animais vivos | X | X [(^3^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0010) |  |  |\n| 59 | Outras unidades móveis com autopropulsão | X | X |  |  |\n| *Roro* (sem autopropulsão) | 6 | 6X | Unidades móveis sem autopropulsão | X | X |\n| 61 | Mercadorias em reboques rodoviários de mercadorias e semireboques não acompanhados | X [(^2^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0009) | X |  |  |\n| 62 | Caravanas não acompanhadas e outros veículos agrícolas e industriais | X | X [(^3^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0010) |  |  |\n| 63 | Mercadorias em vagões de caminhodeferro, reboques para o transporte marítimo transportados por navios, batelões para transporte de mercadorias transportadas por navios | X [(^2^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0009) | X |  |  |\n| 69 | Outras unidades móveis sem autopropulsão | X | X |  |  |\n| Outra carga geral (incluindo pequenos contentores) | 9 | 9X | Outra carga não classificada noutra posição | X |  |\n| 91 | Produtos florestais | X |  |  |  |\n| 92 | Produtos ferrosos e aço | X |  |  |  |\n| 99 | Outra carga geral | X |  |  |  |\n| (^1^)Estas categorias são compatíveis com a Recomendação n.º 21 CEEONU. (^2^)A quantidade registada é o peso bruto das mercadorias incluindo a embalagem, mas excluindo a tara dos contentores e das unidades *roro*. (^3^)Unicamente número total de unidades. |  |  |  |  |  |"
+  },
+  "56bfcd20efed4237": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nDivisão Descrição\n\n01 Produtos da agricultura, da produção animal, da caça e da silvicultura; peixe e outros produtos da pesca\n\n02 Hulha e linhite; petróleo bruto e gás natural\n\n03 Produtos não energéticos das indústrias extractivas; turfa; urânio e tório\n\n04 Produtos alimentares, bebidas e tabaco\n\n05 Têxteis e produtos têxteis; couro e artigos de couro\n\n06 Madeira e cortiça e suas obras (excepto mobiliário); obras de espartaria e de cestaria; pasta, papel e cartão e seus artigos; material impresso, suportes gravados\n\n07 Coque e produtos petrolíferos refinados\n\n08 Produtos químicos e fibras sintéticas; artigos de borracha e de matérias plásticas; combustível nuclear\n\n09 Outros produtos minerais não metálicos\n\n10 Metais de base; produtos metálicos transformados, excepto máquinas e equipamento\n\n11 Máquinas e equipamentos n.e.; máquinas de escritório e equipamento informático; máquinas e aparelhos eléctricos n.e.; equipamento e aparelhos de radiotelevisão e telecomunicações; instrumentos de medicina, de precisão e de óptica; relógios\n\n12 Material de transporte\n\n13 Móveis; outros produtos das indústrias transformadoras n.e.\n\n14 Matérias-primas secundárias; resíduos municipais e outros resíduos\n\n15 Correio, encomendas\n\n16 Equipamento e material utilizados no transporte de mercadorias\n\n17 Mercadorias transportadas no contexto de uma mudança de carácter privado ou profissional; bagagem transportada separadamente dos passageiros; veículos a motor transportados para reparação; outros bens não mercantis n.e.\n\n18 Mercadorias grupadas: diversos tipos de mercadorias transportados em conjunto\n\n19 Mercadorias não identificáveis: mercadorias que, por determinado motivo, não podem ser identificadas e, por conseguinte, não se podem classificar num dos grupos de 01 a 16.\n\n20 Outras mercadorias n.e."
+  },
+  "b61cf366709e5912": {
+   "fragment_id": "ZONAS COSTEIRAS MARÍTIMAS",
+   "type": "divisao",
+   "heading": "ZONAS COSTEIRAS MARÍTIMAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ZONAS COSTEIRAS MARÍTIMAS\n\nA nomenclatura a utilizar é a geonomenclatura [nomenclatura dos países para as estatísticas do comércio externo da Comunidade e do comércio entre os seus Estados-Membros, originalmente estabelecida pelo Regulamento (CEE) nº 1736/75 do Conselho ([^8^](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0011))] em vigor no ano ao qual os dados se referirem.\n\nO código é constituído por quatro caracteres: os dois caracteres alfabéticos do código ISO de base de cada país da nomenclatura acima referida, seguidos de dois zeros (código GR00 para a Grécia, por exemplo), excepto para os países que estão divididos em várias zonas costeiras marítimas, que serão caracterizadas por um quarto carácter diferente de zero (de 1 a 7), como indicado a seguir:\n\n*Código* *Zonas costeiras marítimas*\n\nFR01 França: Atlântico e Mar do Norte\n\nFR02 França: Mediterrâneo\n\nFR03 Departamentos ultramarinos franceses: Guiana Francesa\n\nFR04 Departamentos ultramarinos franceses: Martinica e Guadalupe\n\nFR05 Departamentos ultramarinos franceses: Reunião\n\nDE01 Alemanha: Mar do Norte\n\nDE02 Alemanha: Mar Báltico\n\nDE03 Alemanha: Interior\n\nGB01 Reino Unido\n\nGB02 Ilha de Man\n\nGB03 Ilhas do Canal\n\nES01 Espanha: Atlântico (Norte)\n\nES02 Espanha: Mediterrâneo e Atlântico (Sul), incluindo ilhas Baleares e Canárias\n\nSE01 Suécia: Mar Báltico\n\nSE02 Suécia: Mar do Norte\n\nTR01 Turquia: Mar Negro\n\nTR02 Turquia: Mediterrâneo\n\nRU01 Rússia: Mar Negro\n\nRU02 Rússia: Mar Báltico\n\nRU03 Rússia: Ásia\n\nMA01 Marrocos: Mediterrâneo\n\nMA02 Marrocos: África Ocidental\n\nEG01 Egipto: Mediterrâneo\n\nEG02 Egipto: Mar Vermelho\n\nIL01 Israel: Mediterrâneo\n\nIL02 Israel: Mar Vermelho\n\nSA01 Arábia Saudita: Mar Vermelho\n\nSA02 Arábia Saudita: Golfo\n\nUS01 Estados Unidos da América: Atlântico (Norte)\n\nUS02 Estados Unidos da América: Atlântico (Sul)\n\nUS03 Estados Unidos da América: Golfo\n\nUS04 Estados Unidos da América: Pacífico (Sul)\n\nUS05 Estados Unidos da América: Pacífico (Norte)\n\nUS06 Estados Unidos da América: Grandes Lagos\n\nUS07 Porto Rico\n\nCA01 Canadá: Atlântico\n\nCA02 Canadá: Grandes Lagos e Alto São Lourenço\n\nCA03 Canadá: Costa Ocidental\n\nCO01 Colômbia: Costa Norte\n\nCO02 Colômbia: Costa Ocidental"
+  },
+  "c9f2b0d66ee2c284": {
+   "fragment_id": "NACIONALIDADE DE REGISTO DO NAVIO",
+   "type": "divisao",
+   "heading": "NACIONALIDADE DE REGISTO DO NAVIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NACIONALIDADE DE REGISTO DO NAVIO\n\nA nomenclatura a utilizar é a geonomenclatura [nomenclatura dos países para as estatísticas do comércio externo da Comunidade e do comércio entre os seus Estados-Membros, originalmente estabelecida pelo Regulamento (CEE) n.º 1736/75 do Conselho ([^9^](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0012))] em vigor no ano ao qual os dados se referirem.\n\nO código é constituído por quatro caracteres: os dois caracteres alfabéticos do código ISO de base de cada país da nomenclatura acima referida, seguidos de dois zeros (código GR00 para a Grécia, por exemplo), excepto para os países com vários registos, que serão caracterizados por um quarto carácter diferente de zero, como indicado a seguir:\n\nFR01 França\n\nFR02 Território antárctico francês (incluindo ilhas Kerguelen)\n\nIT01 Itália — primeiro registo\n\nIT02 Itália — registo internacional\n\nGB01 Reino Unido\n\nGB02 Ilha de Man\n\nGB03 Ilhas Anglo-Normandas\n\nGB04 Gibraltar\n\nDK01 Dinamarca\n\nDK02 Dinamarca (DIS)\n\nPT01 Portugal\n\nPT02 Portugal (MAR)\n\nES01 Espanha\n\nES02 Espanha (Rebeca)\n\nNO01 Noruega\n\nNO02 Noruega (NIS)\n\nUS01 Estados Unidos da América\n\nUS02 Porto Rico"
+  },
+  "2c28149907666e58": {
+   "fragment_id": "NOMENCLATURA DO TIPO DE NAVIO (ICST-COM)",
+   "type": "divisao",
+   "heading": "NOMENCLATURA DO TIPO DE NAVIO (ICST-COM)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NOMENCLATURA DO TIPO DE NAVIO (ICST-COM)\n\n|  | Modelo | Categorias incluídas em cada tipo de navio |\n| --- | --- | --- |\n| 10 | Granel líquido | Petroleiro Navio-tanque para produtos químicos Transportador de gás liquefeito Batelão-cisterna Outros navios-tanque |\n| 20 | Granel sólido | Petroleiro/graneleiro Graneleiro |\n| 31 | Contentores | Porta-contentores integral |\n| 32 | Transporte especializado | Transportador de batelões Transportador de produtos químicos Transportador de produtos radioactivos Transportador de gado Transportador de veículos Outros transportadores especializados |\n| 33 | Carga geral | Navio frigorífico Navio *ro-ro* e passageiros Navio *ro-ro* e contentores Outros navios *ro-ro* Navio misto (carga geral e passageiros) Navio misto (carga geral e contentores) Navio de carga geral *single decker* Navio de carga geral *multi-decker* |\n| 34 | Batelão sem propulsão para cargas secas | Batelão de convés Batelão de comportas Batelão porta-barcaças LASH Batelão de carga seca aberta Batelão de carga seca coberta Outros batelões de carga seca não especificados noutra posição |\n| 35 | Passageiros | Navios de passageiros (excluindo passageiros de cruzeiros) |\n| 36 | Passageiros de cruzeiro | Só navios de cruzeiro |\n| 41 | Pesca [(^1^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0013) | Embarcações de pesca [(^1^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0013) Navio-fábrica para o tratamento de peixe [(^1^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0013) |\n| 42 | Actividades *off shore* | Sondagem e exploração [(^1^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0013) Abastecimento *off shore* [(^1^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0013) |\n| 43 | Rebocadores | Rebocadores [(^1^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0013) Empurradores [(^1^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0013) |\n| 49 | Diversos | Dragas [(^1^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0013) Investigação/exploração [(^1^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0013) Outros navios e embarcações não especificados noutra posição [(^1^)](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#E0013) |\n| XX | Desconhecido | Tipo de navio desconhecido |\n| (^1^)Não abrangidos pela presente directiva. |  |  |"
+  },
+  "dddc79f7167df2bd": {
+   "fragment_id": "Periodicidade: Trimestral",
+   "type": "divisao",
+   "heading": "Periodicidade: Trimestral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Periodicidade: Trimestral\n\n|  | Variáveis | Pormenor dos códigos | Nomenclatura |\n| --- | --- | --- | --- |\n| Dimensões | Quadro | Duas posições alfanuméricas | A1 |\n| Ano de referência | Quatro posições alfanuméricas | (por exemplo, 1997) |  |\n| Trimestre de referência | Uma posição alfanumérica | (1, 2, 3, 4) |  |\n| Porto declarante | Cinco posições alfanuméricas | Portos EEE seleccionados da lista de portos |  |\n| Direcção | Uma posição alfanumérica | Entrada, saída (1, 2) |  |\n| Porto de carga/descarga | Cinco posições alfanuméricas | Portos EEE da lista de portos |  |\n| Relação | Quatro posições alfanuméricas | Zonas costeiras marítimas, anexo IV |  |\n| Tipo de carga | Uma posição alfanumérica | Tipo de carga, anexo II |  |\n| *Dado:* Peso bruto das mercadorias em toneladas. |  |  |  |"
+  },
+  "93d895e1aa40a5ba": {
+   "fragment_id": "Periodicidade: Trimestral",
+   "type": "divisao",
+   "heading": "Periodicidade: Trimestral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Periodicidade: Trimestral\n\n|  | Variáveis | Pormenor dos códigos | Nomenclatura |\n| --- | --- | --- | --- |\n| Dimensões | Quadro | Duas posições alfanuméricas | A2 |\n| Ano de referência | Quatro posições alfanuméricas | (por exemplo, 1997) |  |\n| Trimestre de referência | Uma posição alfanumérica | (1, 2, 3, 4) |  |\n| Porto declarante | Cinco posições alfanuméricas | Portos EEE seleccionados da lista de portos |  |\n| Direcção | Uma posição alfanumérica | Entrada, saída (1, 2) |  |\n| Porto de carga/descarga | Cinco posições alfanuméricas | Portos EEE da lista de portos |  |\n| Relação | Quatro posições alfanuméricas | Zonas costeiras marítimas, anexo IV |  |\n| Tipo de carga | Duas posições alfanuméricas | Tipo de carga, anexo II (contentores e *ro-ro* excluídos) (subcategorias 1X, 11, 12, 13, 19, 2X, 21, 22, 23, 29, 9X, 91, 92 e 99). |  |\n| *Dado:* Peso bruto das mercadorias em toneladas. |  |  |  |"
+  },
+  "16fad2a1198569b6": {
+   "fragment_id": "Periodicidade: Anuais",
+   "type": "divisao",
+   "heading": "Periodicidade: Anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Periodicidade: Anuais\n\n|  | Variáveis | Pormenor dos códigos | Nomenclatura |\n| --- | --- | --- | --- |\n| Dimensões | Quadro | Duas posições alfanuméricas | B1 |\n| Ano de referência | Quatro posições alfanuméricas | (por exemplo, 1997) |  |\n| Trimestre de referência | Uma posição alfanumérica | (0) |  |\n| Porto declarante | Cinco posições alfanuméricas | Portos EEE seleccionados da lista de portos |  |\n| Direcção | Uma posição alfanumérica | Entrada, saída (1, 2) |  |\n| Porto de carga/descarga | Cinco posições alfanuméricas | Portos EEE da lista de portos |  |\n| Relação | Quatro posições alfanuméricas | Zonas costeiras marítimas, anexo IV |  |\n| Tipo de carga | Uma posição alfanumérica | Tipo de carga, anexo II |  |\n| Tipo de mercadoria | Duas posições alfanuméricas | Nomenclatura de mercadorias, anexo III |  |\n| *Dado:* Peso bruto das mercadorias em toneladas. |  |  |  |"
+  },
+  "0451f51669a321a6": {
+   "fragment_id": "Periodicidade: Trimestral",
+   "type": "divisao",
+   "heading": "Periodicidade: Trimestral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Periodicidade: Trimestral\n\n|  | Variáveis | Pormenor dos códigos | Nomenclatura |\n| --- | --- | --- | --- |\n| Dimensões | Quadro | Duas posições alfanuméricas | D1 |\n| Ano de referência | Quatro posições alfanuméricas | (por exemplo, 1997) |  |\n| Trimestre de referência | Uma posição alfanumérica | (1, 2, 3, 4) |  |\n| Porto declarante | Cinco posições alfanuméricas | Portos EEE seleccionados da lista de portos |  |\n| Direcção | Uma posição alfanumérica | Entrada, saída (1, 2) |  |\n| Porto de carga/descarga | Cinco posições alfanuméricas | Portos EEE da lista de portos |  |\n| Relação | Quatro posições alfanuméricas | Zonas costeiras marítimas, Anexo IV |  |\n| Nacionalidade de registo do navio | Quatro posições alfanuméricas | Nacionalidade de registo do navio, anexo V |  |\n| *Dados:* Número de passageiros excluindo passageiros de cruzeiro que iniciam ou concluem um cruzeiro e passageiros de cruzeiro numa excursão. |  |  |  |"
+  },
+  "0b3e2158e4b73cec": {
+   "fragment_id": "Periodicidade: Anuais",
+   "type": "divisao",
+   "heading": "Periodicidade: Anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Periodicidade: Anuais\n\n|  | Variáveis | Pormenor dos códigos | Nomenclatura |\n| --- | --- | --- | --- |\n| Dimensões | Quadro | Duas posições alfanuméricas | E1 |\n| Ano de referência | Quatro posições alfanuméricas | (por exemplo, 1997) |  |\n| Trimestre de referência | Uma posição alfanumérica | (0) |  |\n| Porto declarante | Cinco posições alfanuméricas | Portos EEE seleccionados da lista de portos |  |\n| Direcção | Uma posição alfanumérica | Entrada, saída (1, 2) |  |\n| Porto de carga/descarga | Cinco posições alfanuméricas | Portos EEE da lista de portos |  |\n| Relação | Quatro posições alfanuméricas | Zonas costeiras marítimas, anexo IV |  |\n| Tipo de carga | Uma posição alfanumérica | Tipo de carga, anexo II |  |\n| Nacionalidade de registo do navio | Quatro posições alfanuméricas | Nacionalidade de registo do navio, anexo V |  |\n| *Dado:* Peso bruto das mercadorias em toneladas. |  |  |  |"
+  },
+  "462c082be869d953": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#src.E0001)) JO n.º C 214 de 4. 8. 1994, p. 12.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#src.E0002)) JO n.º C 15 de 19. 6. 1995, p. 493.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#src.E0003)) JO n.º C 397 de 31. 12. 1994, p. 6.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#src.E0004)) JO n.º L 219 de 28. 8. 1993, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#src.E0005)) JO n.º L 181 de 28. 6. 1989, p. 47.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#src.E0006)) JO n.º L 151 de 15. 6. 1990, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#src.E0007)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#src.E0011)) JO L 183 de 14.7.1975, p. 3.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/753e747f-9575-40cb-80bb-946e65e9b1f1.0018.03/DOC_1#src.E0012)) JO L 183 de 14.7.1975, p. 3."
+  },
+  "bbc53979ab3dedb2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1995L0064 — PT — 26.06.2009 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31995L0064) [DIRECTIVA 95/64/CE DO CONSELHO](http://publications.europa.eu/resource/celex/31995L0064) [de 8 de Dezembro de 1995](http://publications.europa.eu/resource/celex/31995L0064) [relativa ao levantamento estatístico dos transportes marítimos de mercadorias e de passageiros](http://publications.europa.eu/resource/celex/31995L0064) (JO L 320, 30.12.1995, p.25)\n\n**revogado por:**\n\n- [Directiva 2009/42/CE do Parlamento Europeu e do Conselho de 6 de Maio de 2009](http://publications.europa.eu/resource/celex/32009L0042) — L 141 — 29 — 6.6.2009"
+  }
+ }
+}

@@ -1,0 +1,644 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32007R0864:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0864-20090111",
+ "dre_path": null,
+ "source_lastmod": "2009-01-11",
+ "versions": [
+  {
+   "date": "2007-07-31",
+   "future": false,
+   "celex": "32007R0864",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cbe983dac1eeee5f",
+    "226c39ffd0a88dad",
+    "707b247288f2485e",
+    "27e12430694c5f49",
+    "4efae5c40157c2b4",
+    "00b16430685f2afb",
+    "f0f8c960bfdbce9b",
+    "6348daa3e1f0f886",
+    "57da0d21fe25c71e",
+    "bca6c06a9942baa9",
+    "d0d0625a1906849f",
+    "1e35056b108d78f0",
+    "fa9be38fc29dab7a",
+    "347ba9fcc2c553f0",
+    "1e7a0903d2eed348",
+    "6913f7d7b69ae6ad",
+    "2577f18e97190cd1",
+    "536d03006aed610c",
+    "fa78a6632bcf2394",
+    "735005cb19ec84d8",
+    "1ecfc79da3f1ac7f",
+    "7acb416707c3ed87",
+    "d2c26a60d8784106",
+    "40ed6b62e188ac6f",
+    "9460db0d43a88aa7",
+    "2518fac7800a2b92",
+    "0f9ad5c2e8f0a2bf",
+    "5bab3772c1e12827",
+    "6bd4b977f3d0bfe3",
+    "120434d3eb841b6b",
+    "b831fcc56b728618",
+    "baae2d2805160579",
+    "4af51abfdaafca4d",
+    "b76d202a844f758e",
+    "4e5f5ef2cc0de1a3",
+    "e911c3b60530a9d0",
+    "4788046d55fdea14",
+    "281d898e441f9f14",
+    "039e9284cd2c8d57",
+    "3b220ed4b5918a50",
+    "e9a2a4387377dc2f",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "c50d78f870e2543b",
+    "56423f3043afb153",
+    "f9a01e6c447a5960",
+    "64ae4b622b5a659d",
+    "431aa2ee090fce2e"
+   ]
+  },
+  {
+   "date": "2009-01-11",
+   "future": false,
+   "celex": "02007R0864-20090111",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 6.º — Concorrência desleal e actos que restrinjam a livre concorrência",
+    "Altera Artigo 14.º — Liberdade de escolha",
+    "Altera Artigo 30.º — Cláusula de revisão",
+    "Altera Artigo 32.º — Data de aplicação",
+    "Altera Notas",
+    "Adita Artigo 5.º — Responsabilidade pelos produtos",
+    "Adita Declaração da Comissão sobre a cláusula de revisão (artigo 30.º)",
+    "Adita Declaração da Comissão em matéria de acidentes de viação",
+    "Adita Declaração da Comissão sobre o tratamento da lei estrangeira",
+    "Suprime Artigo 5.º — Responsabilidade por produtos defeituosos"
+   ],
+   "fragments": [
+    "4a937a1e5c10ce60",
+    "226c39ffd0a88dad",
+    "707b247288f2485e",
+    "29f9e2768025fb0e",
+    "305cdc317cdde0f0",
+    "00b16430685f2afb",
+    "f0f8c960bfdbce9b",
+    "6348daa3e1f0f886",
+    "57da0d21fe25c71e",
+    "7638b6625a744ef0",
+    "d3305a69e7fe1526",
+    "1e35056b108d78f0",
+    "fa9be38fc29dab7a",
+    "347ba9fcc2c553f0",
+    "1e7a0903d2eed348",
+    "6913f7d7b69ae6ad",
+    "2577f18e97190cd1",
+    "536d03006aed610c",
+    "9dc8478a61720352",
+    "735005cb19ec84d8",
+    "1ecfc79da3f1ac7f",
+    "7acb416707c3ed87",
+    "64efff5ba97e68d7",
+    "40ed6b62e188ac6f",
+    "9460db0d43a88aa7",
+    "2518fac7800a2b92",
+    "0f9ad5c2e8f0a2bf",
+    "5bab3772c1e12827",
+    "6bd4b977f3d0bfe3",
+    "120434d3eb841b6b",
+    "b831fcc56b728618",
+    "baae2d2805160579",
+    "4af51abfdaafca4d",
+    "b76d202a844f758e",
+    "4e5f5ef2cc0de1a3",
+    "0eecbee392ce118c",
+    "4788046d55fdea14",
+    "281d898e441f9f14",
+    "039e9284cd2c8d57",
+    "3b220ed4b5918a50",
+    "e9a2a4387377dc2f",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "13b41d294b3e8dad",
+    "0b8127688bdcfc44",
+    "f9a01e6c447a5960",
+    "dd5139443d7ce9ac",
+    "7b3d11d38c71d8b4",
+    "3d4903ed4f006405",
+    "8e159887d050eaef",
+    "716607284b80b4c3"
+   ]
+  }
+ ],
+ "fragments": {
+  "cbe983dac1eeee5f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Julho de 2007\n\nrelativo à lei aplicável às obrigações extracontratuais («Roma II»)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente a alínea c) do artigo 61.º e o artigo 67.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/0e830168-524b-43dd-b73d-a87d367c14ad.0019.02/DOC_1#ntr1-L_2007199PT.01004001-E0001),\n\nDeliberando nos termos do artigo 251.º do Tratado, tendo em conta o projecto comum aprovado pelo Comité de Conciliação em 25 de Junho de 2007 [([^2])](http://publications.europa.eu/resource/cellar/0e830168-524b-43dd-b73d-a87d367c14ad.0019.02/DOC_1#ntr2-L_2007199PT.01004001-E0002),\n\nConsiderando o seguinte:\n\n(1) A Comunidade fixou como seu objectivo manter e desenvolver um espaço de liberdade, de segurança e de justiça. A fim de estabelecer gradualmente esse espaço, a Comunidade deverá adoptar medidas no domínio da cooperação judiciária em matéria civil que tenham uma incidência transfronteiriça, na medida do necessário ao bom funcionamento do mercado interno.\n\n(2) Nos termos da alínea b) do artigo 65.º do Tratado, essas medidas devem incluir medidas que promovam a compatibilidade das normas aplicáveis nos Estados-Membros em matéria de conflitos de leis e de jurisdição.\n\n(3) Na sua reunião em Tampere, de 15 e 16 de Outubro de 1999, o Conselho Europeu subscreveu o princípio do reconhecimento mútuo das sentenças e outras decisões das autoridades judiciais como pedra angular da cooperação judiciária em matéria civil e solicitou ao Conselho e à Comissão que adoptassem um programa legislativo para implementar aquele princípio.\n\n(4) Em 30 de Novembro de 2000, o Conselho aprovou um programa conjunto da Comissão e do Conselho, de medidas destinadas a aplicar o princípio do reconhecimento mútuo das decisões em matéria civil e comercial [([^3])](http://publications.europa.eu/resource/cellar/0e830168-524b-43dd-b73d-a87d367c14ad.0019.02/DOC_1#ntr3-L_2007199PT.01004001-E0003). Esse programa aponta as medidas de harmonização das regras de conflitos de leis como medidas que contribuem para facilitar o reconhecimento mútuo das decisões judiciais.\n\n(5) O Programa da Haia [([^4])](http://publications.europa.eu/resource/cellar/0e830168-524b-43dd-b73d-a87d367c14ad.0019.02/DOC_1#ntr4-L_2007199PT.01004001-E0004), aprovado pelo Conselho Europeu em 5 de Novembro de 2004, apela à prossecução activa dos trabalhos sobre regras de conflitos de leis no que respeita às obrigações extracontratuais («Roma II»).\n\n(6) O bom funcionamento do mercado interno exige, para favorecer a previsibilidade do resultado dos litígios, a certeza quanto à lei aplicável e a livre circulação das decisões judiciais, que as regras de conflitos de leis em vigor nos Estados-Membros designem a mesma lei nacional, independentemente do país em que se situe o tribunal perante o qual é proposta a acção.\n\n(7) O âmbito de aplicação material e as disposições do presente regulamento deverão ser coerentes com o Regulamento (CE) n.º 44/2001 do Conselho, de 22 de Dezembro de 2000, relativo à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial [([^5])](http://publications.europa.eu/resource/cellar/0e830168-524b-43dd-b73d-a87d367c14ad.0019.02/DOC_1#ntr5-L_2007199PT.01004001-E0005) (Bruxelas I) e com os instrumentos referentes à lei aplicável às obrigações contratuais.\n\n(8) O presente regulamento deverá aplicar-se independentemente na natureza do tribunal em que a acção é proposta.\n\n(9) As acções resultantes de *acta iure imperii* deverão abranger as acções contra funcionários que agem em nome do Estado e a responsabilidade por actos praticados no exercício de poderes públicos, incluindo a responsabilidade de funcionários oficialmente mandatados. Por conseguinte, estas matérias deverão ser excluídas do âmbito de aplicação do presente regulamento.\n\n(10) As relações de família deverão abranger a filiação, o casamento, a afinidade e o parentesco em linha colateral. A referência feita no n.º 2 do artigo 1.º às relações com efeitos equiparados ao casamento e outras relações de família deverá ser interpretada de acordo com a lei do Estado-Membro do tribunal em que a acção é proposta.\n\n(11) O conceito de obrigação extracontratual varia entre os Estados-Membros. Por conseguinte, para efeitos do presente regulamento, a obrigação extracontratual deverá ser entendida como um conceito autónomo. As regras de conflitos de leis estabelecidas no presente regulamento deverão igualmente cobrir as obrigações extracontratuais resultantes de responsabilidade objectiva.\n\n(12) A lei aplicável deverá regular igualmente a questão da capacidade de incorrer em responsabilidade fundada em acto lícito, ilícito ou no risco.\n\n(13) Regras uniformes, aplicadas independentemente da lei que designem, poderão evitar o risco de distorções da concorrência entre litigantes comunitários.\n\n(14) A exigência de certeza jurídica e a necessidade de administrar a justiça nos casos individuais são elementos essenciais de um espaço de justiça. O presente regulamento estabelece os factores de conexão mais apropriados para a consecução desses objectivos. Consequentemente, o presente regulamento estabelece uma regra geral, mas também regras específicas e, em certas disposições, uma «cláusula de salvaguarda» que permite não aplicar essas regras se resultar claramente do conjunto das circunstâncias do caso que a responsabilidade fundada em acto lícito, ilícito ou no risco apresenta uma conexão manifestamente mais estreita com outro país. Assim, este conjunto de regras cria um quadro flexível de regras de conflitos. Além disso, permite ao tribunal em que a acção é proposta tratar os casos individuais da forma adequada.\n\n(15) Embora o princípio *lex loci delicti commissi* constitua a solução de base em matéria de obrigações extracontratuais na quase totalidade dos Estados-Membros, a concretização deste princípio varia quando elementos do caso estão dispersos por vários países. Esta situação é fonte de incerteza quanto à lei aplicável.\n\n(16) As regras uniformes deverão reforçar a previsibilidade das decisões judiciais e assegurar um equilíbrio razoável entre os interesses da pessoa alegadamente responsável e os interesses do lesado. A conexão com o país do lugar onde o dano directo ocorreu (*lex loci damni*) estabelece um justo equilíbrio entre os interesses da pessoa alegadamente responsável e do lesado e reflecte a concepção moderna da responsabilidade civil, assim como a evolução dos sistemas de responsabilidade objectiva.\n\n(17) A lei aplicável deverá ser determinada com base no local onde ocorreu o dano, independentemente do país ou países onde possam ocorrer as consequências indirectas do mesmo. Assim sendo, em caso de danos não patrimoniais ou patrimoniais, o país onde os danos ocorrem deverá ser o país em que o dano tenha sido infligido, respectivamente, à pessoa ou ao património.\n\n(18) A regra geral consagrada no presente regulamento deverá ser a *lex loci damni*, prevista no n.º 1 do artigo 4.º O n.º 2 do artigo 4.º deverá ser visto como uma excepção a este princípio geral, criando uma conexão especial caso as partes tenham a sua residência habitual no mesmo país. O n.º 3 do artigo 4.º deverá ser entendido como uma «cláusula de salvaguarda» relativamente aos n.^os^ 1 e 2 do mesmo artigo, se resultar claramente do conjunto das circunstâncias do caso que a responsabilidade fundada em acto lícito, ilícito ou no risco apresenta uma conexão manifestamente mais estreita com outro país.\n\n(19) Deverão ser previstas regras específicas para os casos especiais de responsabilidade fundada em acto lícito, ilícito ou no risco em relação aos quais a regra geral não permita obter um equilíbrio razoável entre os interesses em presença.\n\n(20) A regra de conflito de leis em matéria de responsabilidade por produtos defeituosos deverá responder aos objectivos que consistem na justa repartição dos riscos inerentes a uma sociedade moderna de alta tecnologia, na protecção da saúde dos consumidores, na promoção da inovação, na garantia de uma concorrência não falseada e na facilitação das trocas comerciais. A criação de um sistema em cascata de factores de conexão, acompanhada de uma cláusula de previsibilidade, constitui uma solução equilibrada em relação a estes objectivos. O primeiro aspecto a ter em conta é a lei do país onde o lesado tenha a sua residência habitual, no momento em que tenha ocorrido o dano, se o produto tiver sido comercializado nesse país. Os outros elementos da cascata são desencadeados se o produto não tiver sido comercializado nesse país, sem prejuízo do n.º 2 do artigo 4.º e da possibilidade de uma conexão manifestamente mais estreita com outro país.\n\n(21) A regra especial do artigo 6.º não constitui uma excepção à regra geral do n.º 1 do artigo 4.º, mas sim uma clarificação da mesma. Em matéria de concorrência desleal, a regra de conflito de leis deverá proteger os concorrentes, os consumidores e o público em geral, bem como garantir o bom funcionamento da economia de mercado. A conexão à lei do país onde as relações concorrenciais ou os interesses colectivos dos consumidores sejam afectados ou sejam susceptíveis de ser afectados cumpre, em geral, estes objectivos.\n\n(22) As obrigações extracontratuais decorrentes das restrições à concorrência referidas no n.º 3 do artigo 6.º deverão abranger as violações da legislação nacional e comunitária da concorrência. A lei aplicável a tais obrigações extracontratuais deverá ser a lei do país em que o mercado seja afectado ou seja susceptível de ser afectado. Caso o mercado seja afectado ou seja susceptível de ser afectado em mais do que um país, o requerente deverá poder, em circunstâncias determinadas, optar por basear o seu pedido na lei do tribunal em que a acção é proposta.\n\n(23) Para efeitos do presente regulamento, o conceito de restrição à concorrência deverá abranger as proibições de acordos entre empresas, decisões de associações de empresas e práticas concertadas que tenham por objectivo ou efeito impedir, restringir ou falsear a concorrência no território de um Estado-Membro ou no interior do mercado interno, bem como as proibições relativas ao abuso de posição dominante no território de um Estado-Membro ou no interior do mercado interno, caso tais acordos, decisões, práticas concertadas ou abusos sejam proibidos pelos artigos 81.º e 82.º do Tratado ou pela lei de um Estado-Membro.\n\n(24) Por «danos ambientais» deverá entender-se a alteração adversa de um recurso natural, como a água, o solo ou o ar, ou a deterioração do serviço de um recurso natural em benefício de outro recurso natural ou do público, ou a deterioração da variabilidade entre organismos vivos.\n\n(25) Relativamente aos danos ambientais, o artigo 174.° do Tratado, que estabelece como objectivo um nível elevado de protecção fundado nos princípios da precaução e da acção preventiva, da correcção, prioritariamente na fonte, e do poluidor-pagador, justifica plenamente o recurso ao princípio de discriminar a favor do lesado. O momento em que a pessoa que pede a indemnização pode escolher a lei aplicável deverá ser determinado pela lei do Estado-Membro do tribunal em que a acção é proposta.\n\n(26) No que diz respeito à violação dos direitos de propriedade intelectual, importa preservar o princípio universalmente reconhecido da *lex loci protectionis*. Para efeitos do presente regulamento, a expressão direitos de propriedade intelectual deverá ser interpretada como abrangendo, nomeadamente, o direito de autor, os direitos conexos, o direito *sui generis* para a protecção das bases de dados, bem como os direitos de propriedade industrial.\n\n(27) O conceito exacto de acção colectiva, como a greve ou o *lock-out*, varia de Estado-Membro para Estado-Membro e rege-se pelas normas internas de cada um deles. Por conseguinte, o presente regulamento assume como princípio geral que deverá ser aplicável a lei do país onde ocorre a acção colectiva, a fim de proteger os direitos e obrigações dos trabalhadores e empregadores.\n\n(28) A regra especial do artigo 9.º sobre a acção colectiva não prejudica as condições do exercício dessas acções de acordo com a lei nacional e não prejudica o estatuto jurídico das organizações representativas dos trabalhadores ou dos sindicatos, tal como previsto na lei dos Estados-Membros.\n\n(29) É conveniente prever regras especiais para danos relativamente aos quais a responsabilidade não seja fundada em actos lícitos, ilícitos ou no risco, como o enriquecimento sem causa, a *negotiorum gestio* e a *culpa in contrahendo*.\n\n(30) A expressão *culpa in contrahendo*, para efeitos do presente regulamento, designa um conceito autónomo e não deverá forçosamente ser interpretada de acordo com o direito nacional. Deverá incluir a violação do dever de comunicar e a violação das negociações contratuais. O artigo 12.º apenas abrange as obrigações extracontratuais que tenham uma relação directa com as negociações realizadas antes da celebração de um contrato. Isso significa que, se uma pessoa sofrer danos não patrimoniais enquanto um contrato é negociado, serão aplicáveis o artigo 4.º ou outras disposições relevantes do presente regulamento.\n\n(31) Para respeitar o princípio da autonomia das partes e reforçar a certeza jurídica, as partes deverão poder escolher a lei aplicável a uma obrigação extracontratual. Esta escolha deverá ser expressa ou demonstrada com um grau de certeza razoável pelas circunstâncias do caso. Ao determinar a existência de acordo, o tribunal deverá respeitar as intenções das partes. É necessário proteger as partes mais vulneráveis, impondo determinadas condições a esta escolha.\n\n(32) Considerações de interesse público justificam que, em circunstâncias excepcionais, os tribunais dos Estados-Membros possam aplicar excepções, por motivos de ordem pública e com base em normas de aplicação imediata. Em especial, a aplicação de uma disposição da lei designada pelo presente regulamento que tenha por efeito dar origem à determinação de indemnizações não compensatórias exemplares ou punitivas de carácter excessivo pode, em função das circunstâncias do caso e da ordem jurídica do Estado-Membro do tribunal em que a acção é proposta, ser considerada contrária à ordem pública do foro.\n\n(33) De acordo com as regras nacionais actualmente em vigor relativas à indemnização às vítimas de acidentes de viação, ao quantificar a indemnização por danos não patrimoniais quando o acidente ocorre num Estado diferente do da residência habitual da vítima, o tribunal em que a acção é proposta deverá ter em conta todas as circunstâncias efectivas relevantes da vítima em causa, incluindo, em especial, os reais prejuízos e custos da assistência ulterior e do acompanhamento médico.\n\n(34) Para atingir um equilíbrio razoável entre as partes, é necessário ter em conta, na medida do possível, normas de segurança e de conduta em vigor no país em que o acto danoso foi praticado, mesmo quando a obrigação extracontratual seja regulada pela lei de outro país. Os termos «regras de segurança e de conduta» deverão ser interpretados como referindo-se a todas as regras relacionadas com a segurança e a conduta, incluindo, por exemplo, as relativas à segurança rodoviária em caso de acidente.\n\n(35) Deverá ser evitada a dispersão por vários instrumentos das regras de conflitos de leis e as divergências entre essas regras. O presente regulamento não exclui, porém, a possibilidade de, em matérias específicas, se incluírem regras de conflitos relativamente a obrigações extracontratuais em disposições de direito comunitário. O presente regulamento não deverá prejudicar a aplicação de outros instrumentos que contenham disposições destinadas a contribuir para o bom funcionamento do mercado interno, na medida em que estas não possam ser aplicadas em conjugação com a lei designada pelas regras do presente regulamento. A aplicação das disposições da lei aplicável designada pelas regras do presente regulamento não deverá restringir a livre circulação de bens e serviços regulada por instrumentos comunitários como a Directiva 2000/31/CE do Parlamento Europeu e do Conselho, de 8 de Junho de 2000, relativa a certos aspectos legais dos serviços da sociedade de informação, em especial do comércio electrónico, no mercado interno («Directiva sobre o comércio electrónico») [([^6])](http://publications.europa.eu/resource/cellar/0e830168-524b-43dd-b73d-a87d367c14ad.0019.02/DOC_1#ntr6-L_2007199PT.01004001-E0006).\n\n(36) O respeito pelos compromissos internacionais subscritos pelos Estados-Membros significa que o presente regulamento não deverá afectar as convenções internacionais nas quais sejam partes um ou mais Estados-Membros, na data da aprovação do presente regulamento. Para facilitar o acesso às regras em vigor, a Comissão publicará, no *Jornal Oficial da União Europeia*, a lista das convenções em causa, com base em informações transmitidas pelos Estados-Membros.\n\n(37) A Comissão apresentará ao Parlamento Europeu e ao Conselho uma proposta relativa aos procedimentos e às condições em que os Estados-Membros terão o direito de negociar e celebrar, em seu próprio nome, acordos com países terceiros, em casos individuais e excepcionais, respeitantes a matérias sectoriais, que contenham disposições sobre a lei aplicável às obrigações extracontratuais.\n\n(38) Atendendo a que o objectivo do presente regulamento não pode ser suficientemente realizado pelos Estados-Membros e pode, pois, devido à sua dimensão e efeitos, ser mais bem alcançado a nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir aquele objectivo.\n\n(39) Nos termos do artigo 3.º do Protocolo relativo à posição do Reino Unido e da Irlanda, anexo ao Tratado da União Europeia e ao Tratado que institui a Comunidade Europeia, o Reino Unido e a Irlanda participam na aprovação e aplicação do presente regulamento.\n\n(40) Nos termos dos artigos 1.º e 2.º do Protocolo relativo à posição da Dinamarca, anexo ao Tratado da União Europeia e ao Tratado que institui a Comunidade Europeia, a Dinamarca não participa na aprovação do presente regulamento e não fica a ele vinculada nem sujeita à sua aplicação,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "707b247288f2485e": {
+   "fragment_id": "ÂMBITO DE APLICAÇÃO",
+   "type": "divisao",
+   "heading": "ÂMBITO DE APLICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ÂMBITO DE APLICAÇÃO"
+  },
+  "27e12430694c5f49": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1. O presente regulamento é aplicável, em situações que envolvam um conflito de leis, às obrigações extracontratuais em matéria civil e comercial. Não é aplicável, em especial, às matérias fiscais, aduaneiras e administrativas, nem à responsabilidade do Estado por actos e omissões no exercício do poder público (*acta iure imperii*).\n\n2. São excluídas do âmbito de aplicação do presente regulamento:\n\na) As obrigações extracontratuais que decorram de relações de família ou de relações que a lei aplicável às mesmas considere terem efeitos equiparados, incluindo as obrigações de alimentos;\n\nb) As obrigações extracontratuais que decorram de regimes de bens no casamento, de regimes de bens em relações que a lei aplicável às mesmas considere terem efeitos equiparados ao casamento e as sucessões;\n\nc) As obrigações extracontratuais que decorram de letras de câmbio, cheques, livranças, bem como de outros títulos negociáveis, na medida em que as obrigações decorrentes desses outros títulos resultem do seu carácter negociável;\n\nd) As obrigações extracontratuais que decorram do direito das sociedades e do direito aplicável a outras entidades dotadas ou não de personalidade jurídica, como em matéria de constituição, através de registo ou por outro meio, de capacidade jurídica, de funcionamento interno ou de dissolução das sociedades e de outras entidades dotadas ou não de personalidade jurídica, de responsabilidade pessoal dos sócios e dos titulares dos órgãos que agem nessa qualidade, relativamente às obrigações da sociedade ou de outra entidade, e de responsabilidade pessoal dos auditores perante uma sociedade ou perante os titulares dos seus órgãos no exercício do controlo legal de documentos contabilísticos;\n\ne) As obrigações extracontratuais que decorram das relações entre os constituintes, os trustees e os beneficiários de um *trust* voluntariamente criado;\n\nf) As obrigações extracontratuais que decorram de um dano nuclear;\n\ng) As obrigações extracontratuais que decorram da violação da vida privada e dos direitos de personalidade, incluindo a difamação.\n\n3. Sem prejuízo dos artigos 21.º e 22.º, o presente regulamento não se aplica à prova e ao processo.\n\n4. Para efeitos do presente regulamento, por «Estado-Membro» entende-se qualquer Estado-Membro, com excepção da Dinamarca."
+  },
+  "4efae5c40157c2b4": {
+   "fragment_id": "Artigo 2.º — Obrigações extracontratuais",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Obrigações extracontratuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Obrigações extracontratuais\n\n1. Para efeitos do presente regulamento, o dano abrange todas as consequências decorrentes da responsabilidade fundada em acto lícito, ilícito ou no risco, do enriquecimento sem causa, da *negotiorum gestio* ou da *culpa in contrahendo*.\n\n2. O presente regulamento é aplicável às obrigações extracontratuais susceptíveis de surgir.\n\n3. Todas as referências no presente regulamento a:\n\na) Um facto que dá origem a um dano, incluem os factos susceptíveis de ocorrer que dêem origem a danos; e\n\nb) Um dano, incluem os danos susceptíveis de ocorrer."
+  },
+  "00b16430685f2afb": {
+   "fragment_id": "Artigo 3.º — Aplicação universal",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Aplicação universal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aplicação universal\n\nÉ aplicável a lei designada pelo presente regulamento, mesmo que não seja a lei de um Estado-Membro."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "6348daa3e1f0f886": {
+   "fragment_id": "RESPONSABILIDADE FUNDADA EM ACTO LÍCITO, ILÍCITO OU NO RISCO",
+   "type": "divisao",
+   "heading": "RESPONSABILIDADE FUNDADA EM ACTO LÍCITO, ILÍCITO OU NO RISCO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RESPONSABILIDADE FUNDADA EM ACTO LÍCITO, ILÍCITO OU NO RISCO"
+  },
+  "57da0d21fe25c71e": {
+   "fragment_id": "Artigo 4.º — Regra geral",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Regra geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regra geral\n\n1. Salvo disposição em contrário do presente regulamento, a lei aplicável às obrigações extracontratuais decorrentes da responsabilidade fundada em acto lícito, ilícito ou no risco é a lei do país onde ocorre o dano, independentemente do país onde tenha ocorrido o facto que deu origem ao dano e independentemente do país ou países onde ocorram as consequências indirectas desse facto.\n\n2. Todavia, sempre que a pessoa cuja responsabilidade é invocada e o lesado tenham a sua residência habitual no mesmo país no momento em que ocorre o dano, é aplicável a lei desse país.\n\n3. Se resultar claramente do conjunto das circunstâncias que a responsabilidade fundada em acto lícito, ilícito ou no risco tem uma conexão manifestamente mais estreita com um país diferente do indicado nos n.^os^ 1 ou 2, é aplicável a lei desse outro país. Uma conexão manifestamente mais estreita com um outro país poderá ter por base, nomeadamente, uma relação preexistente entre as partes, tal como um contrato, que tenha uma ligação estreita com a responsabilidade fundada no acto lícito, ilícito ou no risco em causa."
+  },
+  "bca6c06a9942baa9": {
+   "fragment_id": "Artigo 5.º — Responsabilidade por produtos defeituosos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Responsabilidade por produtos defeituosos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Responsabilidade por produtos defeituosos\n\n1. Sem prejuízo do n.º 2 do artigo 4.º, a lei aplicável a uma obrigação extracontratual decorrente de um dano causado por um produto é:\n\na) A lei do país onde o lesado tenha a sua residência habitual no momento em que ocorre o dano, se o produto tiver sido comercializado nesse país; ou, não sendo assim,\n\nb) A lei do país onde o produto tenha sido adquirido, se o produto tiver sido comercializado nesse país; ou, não sendo assim,\n\nc) A lei do país onde o dano tenha ocorrido, se o produto tiver sido comercializado nesse país.\n\nNo entanto, a lei aplicável é a lei do país onde a pessoa cuja responsabilidade é invocada tenha a sua residência habitual, se essa pessoa não puder razoavelmente prever a comercialização do produto, ou de um produto do mesmo tipo, no país cuja lei é aplicável, ao abrigo das alíneas a), b) ou c).\n\n2. Se resultar claramente do conjunto das circunstâncias do caso que a responsabilidade fundada em acto lícito, ilícito ou no risco tem uma conexão manifestamente mais estreita com um país diferente do indicado no n.º 1, é aplicável a lei desse outro país. Uma conexão manifestamente mais estreita com um outro país poderá ter por base, nomeadamente, uma relação pré-existente entre as partes, tal como um contrato, que tenha uma ligação estreita com a responsabilidade fundada no acto lícito, ilícito ou no risco em causa."
+  },
+  "d0d0625a1906849f": {
+   "fragment_id": "Artigo 6.º — Concorrência desleal e actos que restrinjam a livre concorrência",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Concorrência desleal e actos que restrinjam a livre concorrência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Concorrência desleal e actos que restrinjam a livre concorrência\n\n1. A lei aplicável a uma obrigação extracontratual decorrente de um acto de concorrência desleal é a lei do país em que as relações de concorrência ou os interesses colectivos dos consumidores sejam afectados ou sejam susceptíveis de ser afectados.\n\n2. Se um acto de concorrência desleal afectar apenas os interesses de um concorrente específico, aplica-se o artigo 4.º\n\n3. a) A lei aplicável a uma obrigação extracontratual decorrente de uma restrição de concorrência é a lei do país em que o mercado seja afectado ou seja susceptível de ser afectado; b) Quando o mercado for afectado ou for susceptível de ser afectado em mais do que um país, a pessoa que requer a reparação do dano e propõe a acção no tribunal do domicilio do réu pode optar por basear o seu pedido na lei do tribunal em que a acção é proposta, desde que o mercado desse Estado-Membro seja um dos directa e substancialmente afectados pela restrição à concorrência de que decorre a obrigação extracontratual em que se baseia o pedido. Caso o requerente proponha nesse tribunal, de acordo com as regras aplicáveis em matéria de competência judiciária, uma acção contra mais do que um réu, só pode optar por basear o seu pedido na lei desse tribunal se a restrição à concorrência em que se baseia a acção contra cada um desses réus também afectar directa e substancialmente o mercado do Estado-Membro em que se situa esse tribunal.\n\na) A lei aplicável a uma obrigação extracontratual decorrente de uma restrição de concorrência é a lei do país em que o mercado seja afectado ou seja susceptível de ser afectado;\n\nb) Quando o mercado for afectado ou for susceptível de ser afectado em mais do que um país, a pessoa que requer a reparação do dano e propõe a acção no tribunal do domicilio do réu pode optar por basear o seu pedido na lei do tribunal em que a acção é proposta, desde que o mercado desse Estado-Membro seja um dos directa e substancialmente afectados pela restrição à concorrência de que decorre a obrigação extracontratual em que se baseia o pedido. Caso o requerente proponha nesse tribunal, de acordo com as regras aplicáveis em matéria de competência judiciária, uma acção contra mais do que um réu, só pode optar por basear o seu pedido na lei desse tribunal se a restrição à concorrência em que se baseia a acção contra cada um desses réus também afectar directa e substancialmente o mercado do Estado-Membro em que se situa esse tribunal.\n\n4. A lei aplicável ao abrigo do presente artigo não pode ser afastada por acordos celebrados em aplicação do artigo 14.º"
+  },
+  "1e35056b108d78f0": {
+   "fragment_id": "Artigo 7.º — Danos ambientais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Danos ambientais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Danos ambientais\n\nA lei aplicável à obrigação extracontratual que decorra de danos ambientais ou de danos não patrimoniais ou patrimoniais decorrentes daqueles é a que resulta da aplicação do n.º 1 do artigo 4.º, salvo se a pessoa que requer a reparação do dano escolher basear o seu pedido na lei do país onde tiver ocorrido o facto que deu origem ao dano."
+  },
+  "fa9be38fc29dab7a": {
+   "fragment_id": "Artigo 8.º — Violação de direitos de propriedade intelectual",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Violação de direitos de propriedade intelectual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Violação de direitos de propriedade intelectual\n\n1. A lei aplicável à obrigação extracontratual que decorra da violação de um direito de propriedade intelectual é a lei do país para o qual a protecção é reivindicada.\n\n2. No caso de obrigação extracontratual que decorra da violação de um direito de propriedade intelectual comunitário com carácter unitário, a lei aplicável a qualquer questão que não seja regida pelo instrumento comunitário pertinente é a lei do país em que a violação tenha sido cometida.\n\n3. A lei aplicável ao abrigo do presente artigo não pode ser afastada por acordos celebrados em aplicação do artigo 14.º"
+  },
+  "347ba9fcc2c553f0": {
+   "fragment_id": "Artigo 9.º — Acção colectiva",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Acção colectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acção colectiva\n\nSem prejuízo do n.º 2 do artigo 4.º, a lei aplicável a uma obrigação extracontratual no que diz respeito à responsabilidade de uma pessoa que age na qualidade de trabalhador ou de empregador, ou das organizações que representam os respectivos interesses profissionais, pelos danos decorrentes de acções colectivas, pendentes ou executadas, é a lei do país no qual a acção tenha ocorrido ou venha a ocorrer."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "6913f7d7b69ae6ad": {
+   "fragment_id": "ENRIQUECIMENTO SEM CAUSA, NEGOTIORIUM GESTIO E CULPA IN CONTRAHENDO",
+   "type": "divisao",
+   "heading": "ENRIQUECIMENTO SEM CAUSA, NEGOTIORIUM GESTIO E CULPA IN CONTRAHENDO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ENRIQUECIMENTO SEM CAUSA, NEGOTIORIUM GESTIO E CULPA IN CONTRAHENDO"
+  },
+  "2577f18e97190cd1": {
+   "fragment_id": "Artigo 10.º — Enriquecimento sem causa",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Enriquecimento sem causa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Enriquecimento sem causa\n\n1. Se uma obrigação extracontratual que decorra de enriquecimento sem causa, incluindo o pagamento de montantes indevidamente recebidos, estiver associada a uma relação existente entre as partes, baseada nomeadamente num contrato ou em responsabilidade fundada em acto lícito, ilícito ou no risco que apresente uma conexão estreita com esse enriquecimento sem causa, é aplicável a lei que rege essa relação.\n\n2. Sempre que a lei aplicável não possa ser determinada com base no n.º 1 e as partes tenham a sua residência habitual no mesmo país no momento em que ocorre o facto que dá origem ao enriquecimento sem causa, é aplicável a lei desse país.\n\n3. Sempre que a lei aplicável não possa ser determinada com base nos n.^os^ 1 ou 2, é aplicável a lei do país onde tenha ocorrido o enriquecimento sem causa.\n\n4. Se resultar claramente do conjunto das circunstâncias do caso, que a obrigação extracontratual que decorra de enriquecimento sem causa tem uma conexão manifestamente mais estreita com um país diferente do indicado nos n.^os^ 1, 2 e 3, é aplicável a lei desse outro país."
+  },
+  "536d03006aed610c": {
+   "fragment_id": "Artigo 11.º — Negotiorum gestio",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Negotiorum gestio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Negotiorum gestio\n\n1. Se uma obrigação extracontratual que decorra da prática de um acto relativamente a negócios alheios sem a devida autorização estiver associada a uma relação previamente existente entre as partes, baseada nomeadamente num contrato ou em responsabilidade fundada em acto lícito, ilícito ou no risco que apresente uma conexão estreita com essa obrigação extracontratual, a lei aplicável é a lei que rege essa relação.\n\n2. Sempre que a lei aplicável não possa ser determinada com base no n.º 1 e as partes tenham a sua residência habitual no mesmo país no momento em que ocorre o facto que dá origem ao dano, é aplicável a lei desse país.\n\n3. Sempre que a lei aplicável não possa ser determinada com base nos n.^os^ 1 ou 2, é aplicável a lei do país onde tenha sido praticado o acto.\n\n4. Se resultar claramente do conjunto das circunstâncias do caso que a obrigação extracontratual que decorra da prática de um acto relativamente a negócios alheios sem a devida autorização tem uma conexão manifestamente mais estreita com um país diferente do indicado nos n.^os^ 1, 2 e 3, é aplicável a lei desse outro país."
+  },
+  "fa78a6632bcf2394": {
+   "fragment_id": "Artigo 12.º — Culpa in contrahendo",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Culpa in contrahendo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Culpa in contrahendo\n\n1. A lei aplicável a uma obrigação extracontratual decorrente de negociações realizadas antes da celebração de um contrato, independentemente de este ser efectivamente celebrado, é a lei aplicável ao contrato ou que lhe seria aplicável se tivesse sido celebrado.\n\n2. Caso não possa ser determinada com base no n.º 1, a lei aplicável é:\n\na) A lei do país onde ocorre o dano, independentemente do país em que tenha ocorrido o facto que deu origem ao dano e do país ou países em que ocorram as consequências indirectas desse facto; ou,\n\nb) Quando as partes tiverem a sua residência habitual no mesmo país no momento em que ocorre o facto que dá origem ao dano, a lei desse país; ou,\n\nc) Se resultar claramente do conjunto das circunstâncias do caso que a obrigação extracontratual, decorrente de negociações realizadas antes da celebração de um contrato, tem uma conexão manifestamente mais estreita com um país diferente do indicado nas alíneas a) e b), a lei desse outro país."
+  },
+  "735005cb19ec84d8": {
+   "fragment_id": "Artigo 13.º — Aplicabilidade do artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Aplicabilidade do artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Aplicabilidade do artigo 8.º\n\nPara efeitos do presente capítulo, o artigo 8.º aplica-se às obrigações extracontratuais que decorram da violação de um direito de propriedade intelectual."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "7acb416707c3ed87": {
+   "fragment_id": "LIBERDADE DE ESCOLHA",
+   "type": "divisao",
+   "heading": "LIBERDADE DE ESCOLHA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LIBERDADE DE ESCOLHA"
+  },
+  "d2c26a60d8784106": {
+   "fragment_id": "Artigo 14.º — Liberdade de escolha",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Liberdade de escolha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Liberdade de escolha\n\n1. As partes podem acordar em subordinar obrigações extracontratuais à lei da sua escolha:\n\na) Mediante convenção posterior ao facto que dê origem ao dano; ou,\n\nb) Caso todas as partes desenvolvam actividades económicas, também mediante uma convenção livremente negociada, anterior ao facto que dê origem ao dano.\n\nA escolha deve ser expressa ou decorrer, de modo razoavelmente certo, das circunstâncias do caso, e não prejudica os direitos de terceiros.\n\n2. Sempre que todos os elementos relevantes da situação se situem, no momento em que ocorre o facto que dá origem ao dano, num país que não seja o país da lei escolhida, a escolha das partes não prejudica a aplicação das disposições da lei desse país não derrogáveis por acordo.\n\n3. Sempre que todos os elementos relevantes da situação se situem, no momento em que ocorre o facto que dá origem ao dano, num ou em vários Estados-Membros, a escolha, pelas partes, de uma lei aplicável que não a de um Estado-Membro, não prejudica a aplicação, se for esse o caso, das disposições de direito comunitário não derrogáveis por convenção, tal como aplicadas pelo Estado-Membro do foro."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "9460db0d43a88aa7": {
+   "fragment_id": "REGRAS COMUNS",
+   "type": "divisao",
+   "heading": "REGRAS COMUNS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGRAS COMUNS"
+  },
+  "2518fac7800a2b92": {
+   "fragment_id": "Artigo 15.º — Alcance da lei aplicável",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Alcance da lei aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Alcance da lei aplicável\n\nA lei aplicável às obrigações extracontratuais referidas no presente regulamento rege, designadamente:\n\na) O fundamento e o âmbito da responsabilidade, incluindo a determinação das pessoas às quais pode ser imputada responsabilidade pelos actos que praticam;\n\nb) As causas de exclusão da responsabilidade, bem como qualquer limitação e repartição da responsabilidade;\n\nc) A existência, a natureza e a avaliação dos danos ou da reparação exigida;\n\nd) Nos limites dos poderes conferidos ao tribunal pelo seu direito processual, as medidas que um tribunal pode tomar para prevenir ou fazer cessar o dano ou assegurar a sua reparação;\n\ne) A transmissibilidade do direito de exigir indemnização ou reparação, incluindo por via sucessória;\n\nf) As pessoas com direito à reparação do dano pessoalmente sofrido;\n\ng) A responsabilidade por actos de outrem;\n\nh) As formas de extinção das obrigações, bem como as regras de prescrição e caducidade, incluindo as que determinem o início, a interrupção e suspensão dos respectivos prazos."
+  },
+  "0f9ad5c2e8f0a2bf": {
+   "fragment_id": "Artigo 16.º — Normas de aplicação imediata",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Normas de aplicação imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Normas de aplicação imediata\n\nO disposto no presente regulamento em nada afecta a aplicação das disposições da lei do país do foro que regulem imperativamente o caso concreto independentemente da lei normalmente aplicável à obrigação extracontratual."
+  },
+  "5bab3772c1e12827": {
+   "fragment_id": "Artigo 17.º — Regras de segurança e de conduta",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Regras de segurança e de conduta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regras de segurança e de conduta\n\nAo avaliar o comportamento da pessoa cuja responsabilidade é invocada, são tidas em conta, a título de matéria de facto e na medida em que for apropriado, as regras de segurança e de conduta em vigor no lugar e no momento em que ocorre o facto que dá origem à responsabilidade."
+  },
+  "6bd4b977f3d0bfe3": {
+   "fragment_id": "Artigo 18.º — Acção directa contra o segurador do responsável",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Acção directa contra o segurador do responsável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Acção directa contra o segurador do responsável\n\nO lesado pode demandar directamente o segurador do responsável pela reparação, se a lei aplicável à obrigação extracontratual ou a lei aplicável ao contrato de seguro assim o previr."
+  },
+  "120434d3eb841b6b": {
+   "fragment_id": "Artigo 19.º — Sub-rogação",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Sub-rogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Sub-rogação\n\nSe, por força de uma obrigação extracontratual, uma pessoa («o credor»), tiver direitos relativamente a outra pessoa («o devedor»), e um terceiro tiver a obrigação de satisfazer o direito do credor, ou tiver efectivamente satisfeito o credor em cumprimento dessa obrigação, a lei que rege esta obrigação do terceiro determina se e em que medida este pode exercer os direitos do credor contra o devedor, segundo a lei que rege as suas relações."
+  },
+  "b831fcc56b728618": {
+   "fragment_id": "Artigo 20.º — Responsabilidade múltipla",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Responsabilidade múltipla",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Responsabilidade múltipla\n\nSe o credor tiver um direito contra vários devedores responsáveis pelo mesmo direito e se um deles já tiver satisfeito total ou parcialmente o pedido, o direito de este devedor exigir reparação aos restantes condevedores rege-se pela lei aplicável às obrigações extracontratuais desse devedor para com o credor."
+  },
+  "baae2d2805160579": {
+   "fragment_id": "Artigo 21.º — Validade formal",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Validade formal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Validade formal\n\nOs actos jurídicos unilaterais relativos a uma obrigação extracontratual são formalmente válidos desde que preencham os requisitos de forma prescritos pela lei que rege a obrigação extracontratual em causa ou pela lei do país em que o acto é praticado."
+  },
+  "4af51abfdaafca4d": {
+   "fragment_id": "Artigo 22.º — Ónus da prova",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Ónus da prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Ónus da prova\n\n1. A lei que rege a obrigação extracontratual por força do presente regulamento aplica-se na medida em que, em matéria de obrigações extracontratuais, contenha regras que estabeleçam presunções legais ou repartam o ónus da prova.\n\n2. Os actos jurídicos podem ser provados mediante qualquer meio de prova admitido, quer pela lei do foro, quer por uma das leis referidas no artigo 21.º, ao abrigo da qual o acto seja formalmente válido, desde que esse meio de prova possa ser produzido no tribunal do foro."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "4e5f5ef2cc0de1a3": {
+   "fragment_id": "OUTRAS DISPOSIÇÕES",
+   "type": "divisao",
+   "heading": "OUTRAS DISPOSIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OUTRAS DISPOSIÇÕES"
+  },
+  "e911c3b60530a9d0": {
+   "fragment_id": "Artigo 23.º — Residência habitual",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Residência habitual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Residência habitual\n\n1. Para efeitos do presente regulamento, a residência habitual das sociedades e outras entidades com ou sem personalidade jurídica é o local onde se situa a respectiva administração central.\n\nCaso o facto que dá origem ao dano seja praticado, ou o dano ocorra, no exercício da actividade de uma sucursal, agência ou outro estabelecimento, considera-se que a residência habitual corresponde ao local onde se situa a sucursal, agência ou outro estabelecimento.\n\n2. Para efeitos do presente regulamento, a residência habitual de uma pessoa singular no exercício da sua actividade profissional é o local onde se situa o seu estabelecimento principal."
+  },
+  "4788046d55fdea14": {
+   "fragment_id": "Artigo 24.º — Exclusão do reenvio",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Exclusão do reenvio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Exclusão do reenvio\n\nEntende-se por aplicação da lei de qualquer país designada pelo presente regulamento, a aplicação das normas jurídicas em vigor nesse país, com exclusão das suas normas de direito internacional privado."
+  },
+  "281d898e441f9f14": {
+   "fragment_id": "Artigo 25.º — Ordenamentos jurídicos plurilegislativos",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Ordenamentos jurídicos plurilegislativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Ordenamentos jurídicos plurilegislativos\n\n1. Sempre que um Estado englobe várias unidades territoriais, tendo cada uma normas de direito próprias em matéria de obrigações extracontratuais, cada unidade territorial é considerada um país para fins de determinação da lei aplicável por força do presente regulamento.\n\n2. Um Estado-Membro em que diferentes unidades territoriais tenham normas de direito próprias em matéria de obrigações extracontratuais não é obrigado a aplicar o presente regulamento aos conflitos de leis que respeitem exclusivamente a essas unidades territoriais."
+  },
+  "039e9284cd2c8d57": {
+   "fragment_id": "Artigo 26.º — Ordem pública do foro",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Ordem pública do foro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Ordem pública do foro\n\nA aplicação de uma disposição da lei de qualquer país designada pelo presente regulamento só pode ser afastada se for manifestamente incompatível com a ordem pública do foro."
+  },
+  "3b220ed4b5918a50": {
+   "fragment_id": "Artigo 27.º — Relação com outras disposições de direito comunitário",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Relação com outras disposições de direito comunitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Relação com outras disposições de direito comunitário\n\nO presente regulamento não prejudica a aplicação das disposições do direito comunitário que, em matérias específicas, estabeleçam regras de conflitos de leis referentes a obrigações extracontratuais."
+  },
+  "e9a2a4387377dc2f": {
+   "fragment_id": "Artigo 28.º — Relações com convenções internacionais existentes",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Relações com convenções internacionais existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Relações com convenções internacionais existentes\n\n1. O presente regulamento não prejudica a aplicação das convenções internacionais de que um ou mais Estados-Membros sejam parte na data de aprovação do presente regulamento e que estabeleçam regras de conflitos de leis referentes a obrigações extracontratuais.\n\n2. Todavia, entre Estados-Membros, o presente regulamento prevalece sobre as convenções celebradas exclusivamente entre dois ou vários Estados-Membros, na medida em que estas incidam sobre matérias regidas pelo presente regulamento."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "c50d78f870e2543b": {
+   "fragment_id": "Artigo 29.º — Lista das convenções",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Lista das convenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Lista das convenções\n\n1. Até 11 de Julho de 2008, os Estados-Membros comunicam à Comissão as convenções referidas no n.º 1 do artigo 28.º Após essa data, os Estados-Membros comunicam à Comissão a denúncia dessas convenções.\n\n2. No prazo de seis meses após a sua recepção, a Comissão publica no *Jornal Oficial da União Europeia*:\n\ni) Uma lista das convenções a que se refere o n.º 1;\n\nii) As denúncias das convenções a que se refere o n.º 1."
+  },
+  "56423f3043afb153": {
+   "fragment_id": "Artigo 30.º — Cláusula de revisão",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Cláusula de revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Cláusula de revisão\n\n1. Até 20 de Agosto de 2011, a Comissão apresenta ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social Europeu um relatório relativo à aplicação do presente regulamento, acompanhado, se necessário, de propostas de adaptação do mesmo. O relatório deve incluir:\n\ni) Um estudo sobre os efeitos do tratamento dado ao direito estrangeiro pelos diferentes ordenamentos jurídicos e sobre a aplicação prática do direito estrangeiro pelos tribunais dos EstadosMembros por força do presente regulamento;\n\nii) Um estudo sobre os efeitos do artigo 28.° do presente regulamento no que diz respeito à Convenção da Haia, de 4 de Maio de 1971, sobre a lei aplicável em matéria de acidentes de circulação rodoviária.\n\n2. Até 31 de Dezembro de 2008, a Comissão deve apresentar ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social Europeu um estudo sobre a situação do direito aplicável às obrigações extracontratuais resultantes de violações do direito à reserva da vida privada e dos direitos de personalidade, tendo em conta as regras relativas à liberdade de imprensa e à liberdade de expressão nos meios de comunicação social, e sobre questões de conflitos de leis relacionadas com a Directiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados [([^7])](http://publications.europa.eu/resource/cellar/0e830168-524b-43dd-b73d-a87d367c14ad.0019.02/DOC_1#ntr7-L_2007199PT.01004001-E0007)."
+  },
+  "f9a01e6c447a5960": {
+   "fragment_id": "Artigo 31.º — Aplicação no tempo",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Aplicação no tempo\n\nO presente regulamento é aplicável a factos danosos que ocorram após a sua entrada em vigor."
+  },
+  "64ae4b622b5a659d": {
+   "fragment_id": "Artigo 32.º — Data de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Data de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Data de aplicação\n\nO presente regulamento é aplicável a partir de 11 de Janeiro de 2009, com excepção do artigo 29.º, que é aplicável a partir de 11 de Julho de 2008.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável nos Estados-Membros, em conformidade com o Tratado que institui a Comunidade Europeia.\n\nFeito em Estrasburgo, em 11 de Julho de 2007.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**H.-G. PÖTTERING**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**M. LOBO ANTUNES**\n\n---"
+  },
+  "431aa2ee090fce2e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/0e830168-524b-43dd-b73d-a87d367c14ad.0019.02/DOC_1#ntc1-L_2007199PT.01004001-E0001) [JO C 241 de 28.9.2004, p. 1](http://publications.europa.eu/resource/oj/JOC_2004_241_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/0e830168-524b-43dd-b73d-a87d367c14ad.0019.02/DOC_1#ntc2-L_2007199PT.01004001-E0002) Parecer do Parlamento Europeu de 6 de Julho de 2005 ([JO C 157 E de 6.7.2006, p. 371](http://publications.europa.eu/resource/oj/JOC_2006_157_E_TOC)), posição comum do Conselho de 25 de Setembro de 2006 ([JO C 289 E de 28.11.2006, p. 68](http://publications.europa.eu/resource/oj/JOC_2006_289_E_TOC)), posição do Parlamento Europeu de 18 de Janeiro de 2007 (ainda não publicada no Jornal Oficial), resolução legislativa do Parlamento Europeu de 10 de Julho de 2007 e decisão do Conselho de 28 de Junho de 2007.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/0e830168-524b-43dd-b73d-a87d367c14ad.0019.02/DOC_1#ntc3-L_2007199PT.01004001-E0003) [JO C 12 de 15.1.2001, p. 1](http://publications.europa.eu/resource/oj/JOC_2001_012_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/0e830168-524b-43dd-b73d-a87d367c14ad.0019.02/DOC_1#ntc4-L_2007199PT.01004001-E0004) [JO C 53 de 3.3.2005, p. 1](http://publications.europa.eu/resource/oj/JOC_2005_053_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/0e830168-524b-43dd-b73d-a87d367c14ad.0019.02/DOC_1#ntc5-L_2007199PT.01004001-E0005) [JO L 12 de 16.1.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_012_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1791/2006 ([JO L 363 de 20.12.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_363_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/0e830168-524b-43dd-b73d-a87d367c14ad.0019.02/DOC_1#ntc6-L_2007199PT.01004001-E0006) [JO L 178 de 17.7.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_178_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/0e830168-524b-43dd-b73d-a87d367c14ad.0019.02/DOC_1#ntc7-L_2007199PT.01004001-E0007) [JO L 281 de 23.11.1995, p. 31](http://publications.europa.eu/resource/oj/JOL_1995_281_R_TOC)."
+  },
+  "4a937a1e5c10ce60": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Julho de 2007\n\nrelativo à lei aplicável às obrigações extracontratuais («Roma II»)"
+  },
+  "29f9e2768025fb0e": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1. O presente regulamento é aplicável, em situações que envolvam um conflito de leis, às obrigações extracontratuais em matéria civil e comercial. Não é aplicável, em especial, às matérias fiscais, aduaneiras e administrativas, nem à responsabilidade do Estado por actos e omissões no exercício do poder público (*acta iure imperii*).\n\n2.\n\nSão excluídas do âmbito de aplicação do presente regulamento:\n\na) As obrigações extracontratuais que decorram de relações de família ou de relações que a lei aplicável às mesmas considere terem efeitos equiparados, incluindo as obrigações de alimentos;\n\nb) As obrigações extracontratuais que decorram de regimes de bens no casamento, de regimes de bens em relações que a lei aplicável às mesmas considere terem efeitos equiparados ao casamento e as sucessões;\n\nc) As obrigações extracontratuais que decorram de letras de câmbio, cheques, livranças, bem como de outros títulos negociáveis, na medida em que as obrigações decorrentes desses outros títulos resultem do seu carácter negociável;\n\nd) As obrigações extracontratuais que decorram do direito das sociedades e do direito aplicável a outras entidades dotadas ou não de personalidade jurídica, como em matéria de constituição, através de registo ou por outro meio, de capacidade jurídica, de funcionamento interno ou de dissolução das sociedades e de outras entidades dotadas ou não de personalidade jurídica, de responsabilidade pessoal dos sócios e dos titulares dos órgãos que agem nessa qualidade, relativamente às obrigações da sociedade ou de outra entidade, e de responsabilidade pessoal dos auditores perante uma sociedade ou perante os titulares dos seus órgãos no exercício do controlo legal de documentos contabilísticos;\n\ne) As obrigações extracontratuais que decorram das relações entre os constituintes, os trustees e os beneficiários de um *trust* voluntariamente criado;\n\nf) As obrigações extracontratuais que decorram de um dano nuclear;\n\ng) As obrigações extracontratuais que decorram da violação da vida privada e dos direitos de personalidade, incluindo a difamação.\n\n3. Sem prejuízo dos artigos 21.º e 22.º, o presente regulamento não se aplica à prova e ao processo.\n\n4. Para efeitos do presente regulamento, por «Estado-Membro» entende-se qualquer Estado-Membro, com excepção da Dinamarca."
+  },
+  "305cdc317cdde0f0": {
+   "fragment_id": "Artigo 2.º — Obrigações extracontratuais",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Obrigações extracontratuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Obrigações extracontratuais\n\n1. Para efeitos do presente regulamento, o dano abrange todas as consequências decorrentes da responsabilidade fundada em acto lícito, ilícito ou no risco, do enriquecimento sem causa, da *negotiorum gestio* ou da *culpa in contrahendo*.\n\n2. O presente regulamento é aplicável às obrigações extracontratuais susceptíveis de surgir.\n\n3.\n\nTodas as referências no presente regulamento a:\n\na) Um facto que dá origem a um dano, incluem os factos susceptíveis de ocorrer que dêem origem a danos; e\n\nb) Um dano, incluem os danos susceptíveis de ocorrer."
+  },
+  "7638b6625a744ef0": {
+   "fragment_id": "Artigo 5.º — Responsabilidade pelos produtos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Responsabilidade pelos produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Responsabilidade pelos produtos\n\n1.\n\nSem prejuízo do n.º 2 do artigo 4.º, a lei aplicável a uma obrigação extracontratual decorrente de um dano causado por um produto é:\n\na) A lei do país onde o lesado tenha a sua residência habitual no momento em que ocorre o dano, se o produto tiver sido comercializado nesse país; ou, não sendo assim,\n\nb) A lei do país onde o produto tenha sido adquirido, se o produto tiver sido comercializado nesse país; ou, não sendo assim,\n\nc) A lei do país onde o dano tenha ocorrido, se o produto tiver sido comercializado nesse país.\n\nNo entanto, a lei aplicável é a lei do país onde a pessoa cuja responsabilidade é invocada tenha a sua residência habitual, se essa pessoa não puder razoavelmente prever a comercialização do produto, ou de um produto do mesmo tipo, no país cuja lei é aplicável, ao abrigo das alíneas a), b) ou c).\n\n2. Se resultar claramente do conjunto das circunstâncias do caso que a responsabilidade fundada em acto lícito, ilícito ou no risco tem uma conexão manifestamente mais estreita com um país diferente do indicado no n.º 1, é aplicável a lei desse outro país. Uma conexão manifestamente mais estreita com um outro país poderá ter por base, nomeadamente, uma relação pré-existente entre as partes, tal como um contrato, que tenha uma ligação estreita com a responsabilidade fundada no acto lícito, ilícito ou no risco em causa."
+  },
+  "d3305a69e7fe1526": {
+   "fragment_id": "Artigo 6.º — Concorrência desleal e actos que restrinjam a livre concorrência",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Concorrência desleal e actos que restrinjam a livre concorrência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Concorrência desleal e actos que restrinjam a livre concorrência\n\n1. A lei aplicável a uma obrigação extracontratual decorrente de um acto de concorrência desleal é a lei do país em que as relações de concorrência ou os interesses colectivos dos consumidores sejam afectados ou sejam susceptíveis de ser afectados.\n\n2. Se um acto de concorrência desleal afectar apenas os interesses de um concorrente específico, aplica-se o artigo 4.º\n\n3.\n\na) A lei aplicável a uma obrigação extracontratual decorrente de uma restrição de concorrência é a lei do país em que o mercado seja afectado ou seja susceptível de ser afectado;\n\nb) Quando o mercado for afectado ou for susceptível de ser afectado em mais do que um país, a pessoa que requer a reparação do dano e propõe a acção no tribunal do domicilio do réu pode optar por basear o seu pedido na lei do tribunal em que a acção é proposta, desde que o mercado desse Estado-Membro seja um dos directa e substancialmente afectados pela restrição à concorrência de que decorre a obrigação extracontratual em que se baseia o pedido. Caso o requerente proponha nesse tribunal, de acordo com as regras aplicáveis em matéria de competência judiciária, uma acção contra mais do que um réu, só pode optar por basear o seu pedido na lei desse tribunal se a restrição à concorrência em que se baseia a acção contra cada um desses réus também afectar directa e substancialmente o mercado do Estado-Membro em que se situa esse tribunal.\n\n4. A lei aplicável ao abrigo do presente artigo não pode ser afastada por acordos celebrados em aplicação do artigo 14.º"
+  },
+  "9dc8478a61720352": {
+   "fragment_id": "Artigo 12.º — Culpa in contrahendo",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Culpa in contrahendo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Culpa in contrahendo\n\n1. A lei aplicável a uma obrigação extracontratual decorrente de negociações realizadas antes da celebração de um contrato, independentemente de este ser efectivamente celebrado, é a lei aplicável ao contrato ou que lhe seria aplicável se tivesse sido celebrado.\n\n2.\n\nCaso não possa ser determinada com base no n.º 1, a lei aplicável é:\n\na) A lei do país onde ocorre o dano, independentemente do país em que tenha ocorrido o facto que deu origem ao dano e do país ou países em que ocorram as consequências indirectas desse facto; ou,\n\nb) Quando as partes tiverem a sua residência habitual no mesmo país no momento em que ocorre o facto que dá origem ao dano, a lei desse país; ou,\n\nc) Se resultar claramente do conjunto das circunstâncias do caso que a obrigação extracontratual, decorrente de negociações realizadas antes da celebração de um contrato, tem uma conexão manifestamente mais estreita com um país diferente do indicado nas alíneas a) e b), a lei desse outro país."
+  },
+  "64efff5ba97e68d7": {
+   "fragment_id": "Artigo 14.º — Liberdade de escolha",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Liberdade de escolha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Liberdade de escolha\n\n1.\n\nAs partes podem acordar em subordinar obrigações extracontratuais à lei da sua escolha:\n\na) Mediante convenção posterior ao facto que dê origem ao dano;\n\nb) Caso todas as partes desenvolvam actividades económicas, também mediante uma convenção livremente negociada, anterior ao facto que dê origem ao dano.\n\nA escolha deve ser expressa ou decorrer, de modo razoavelmente certo, das circunstâncias do caso, e não prejudica os direitos de terceiros.\n\n2. Sempre que todos os elementos relevantes da situação se situem, no momento em que ocorre o facto que dá origem ao dano, num país que não seja o país da lei escolhida, a escolha das partes não prejudica a aplicação das disposições da lei desse país não derrogáveis por acordo.\n\n3. Sempre que todos os elementos relevantes da situação se situem, no momento em que ocorre o facto que dá origem ao dano, num ou em vários Estados-Membros, a escolha, pelas partes, de uma lei aplicável que não a de um Estado-Membro, não prejudica a aplicação, se for esse o caso, das disposições de direito comunitário não derrogáveis por convenção, tal como aplicadas pelo Estado-Membro do foro."
+  },
+  "0eecbee392ce118c": {
+   "fragment_id": "Artigo 23.º — Residência habitual",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Residência habitual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Residência habitual\n\n1.\n\nPara efeitos do presente regulamento, a residência habitual das sociedades e outras entidades com ou sem personalidade jurídica é o local onde se situa a respectiva administração central.\n\nCaso o facto que dá origem ao dano seja praticado, ou o dano ocorra, no exercício da actividade de uma sucursal, agência ou outro estabelecimento, considera-se que a residência habitual corresponde ao local onde se situa a sucursal, agência ou outro estabelecimento.\n\n2. Para efeitos do presente regulamento, a residência habitual de uma pessoa singular no exercício da sua actividade profissional é o local onde se situa o seu estabelecimento principal."
+  },
+  "13b41d294b3e8dad": {
+   "fragment_id": "Artigo 29.º — Lista das convenções",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Lista das convenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Lista das convenções\n\n1. Até 11 de Julho de 2008, os Estados-Membros comunicam à Comissão as convenções referidas no n.º 1 do artigo 28.º Após essa data, os Estados-Membros comunicam à Comissão a denúncia dessas convenções.\n\n2.\n\nNo prazo de seis meses após a sua recepção, a Comissão publica no *Jornal Oficial da União Europeia*:\n\ni) Uma lista das convenções a que se refere o n.º 1;\n\nii) As denúncias das convenções a que se refere o n.º 1."
+  },
+  "0b8127688bdcfc44": {
+   "fragment_id": "Artigo 30.º — Cláusula de revisão",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Cláusula de revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Cláusula de revisão\n\n1.\n\nAté 20 de Agosto de 2011, a Comissão apresenta ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social Europeu um relatório relativo à aplicação do presente regulamento, acompanhado, se necessário, de propostas de adaptação do mesmo. O relatório deve incluir:\n\ni) Um estudo sobre os efeitos do tratamento dado ao direito estrangeiro pelos diferentes ordenamentos jurídicos e sobre a aplicação prática do direito estrangeiro pelos tribunais dos EstadosMembros por força do presente regulamento;\n\nii) Um estudo sobre os efeitos do artigo 28.° do presente regulamento no que diz respeito à Convenção da Haia, de 4 de Maio de 1971, sobre a lei aplicável em matéria de acidentes de circulação rodoviária.\n\n2. Até 31 de Dezembro de 2008, a Comissão deve apresentar ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social Europeu um estudo sobre a situação do direito aplicável às obrigações extracontratuais resultantes de violações do direito à reserva da vida privada e dos direitos de personalidade, tendo em conta as regras relativas à liberdade de imprensa e à liberdade de expressão nos meios de comunicação social, e sobre questões de conflitos de leis relacionadas com a Directiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados ([^1^](http://publications.europa.eu/resource/cellar/2abbc202-21ce-4cac-a842-f4bb3b10a6ba.0006.02/DOC_1#E0001))."
+  },
+  "dd5139443d7ce9ac": {
+   "fragment_id": "Artigo 32.º — Data de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Data de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Data de aplicação\n\nO presente regulamento é aplicável a partir de 11 de Janeiro de 2009, com excepção do artigo 29.º, que é aplicável a partir de 11 de Julho de 2008.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável nos Estados-Membros, em conformidade com o Tratado que institui a Comunidade Europeia."
+  },
+  "7b3d11d38c71d8b4": {
+   "fragment_id": "Declaração da Comissão sobre a cláusula de revisão (artigo 30.º)",
+   "type": "divisao",
+   "heading": "Declaração da Comissão sobre a cláusula de revisão (artigo 30.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Declaração da Comissão sobre a cláusula de revisão (artigo 30.º)\n\nA Comissão, a convite do Parlamento Europeu e do Conselho no quadro do artigo 30.° do Regulamento «Roma II», apresentará, até Dezembro de 2008, um estudo sobre a situação no domínio da lei aplicável às obrigações extracontratuais que decorram da violação da vida privada e dos direitos de personalidade. A Comissão terá em consideração todos os aspectos da situação e, se necessário, tomará as medidas adequadas."
+  },
+  "3d4903ed4f006405": {
+   "fragment_id": "Declaração da Comissão em matéria de acidentes de viação",
+   "type": "divisao",
+   "heading": "Declaração da Comissão em matéria de acidentes de viação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Declaração da Comissão em matéria de acidentes de viação\n\nA Comissão, ciente das diferentes práticas dos Estados-Membros no que diz respeito ao nível de indemnização concedido às vítimas de acidentes de viação, declara-se disposta a examinar os problemas específicos com que se confrontam os residentes da União Europeia envolvidos em acidentes de viação num Estado-Membro diferente do Estado-Membro da sua residência habitual. Para este efeito, a Comissão apresentará um estudo ao Parlamento Europeu e ao Conselho até final de 2008 sobre todas as opções, incluindo os aspectos relativos aos seguros, a fim de melhorar a posição das vítimas transfronteiras, e que antecederá a elaboração de um livro verde."
+  },
+  "8e159887d050eaef": {
+   "fragment_id": "Declaração da Comissão sobre o tratamento da lei estrangeira",
+   "type": "divisao",
+   "heading": "Declaração da Comissão sobre o tratamento da lei estrangeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Declaração da Comissão sobre o tratamento da lei estrangeira\n\nA Comissão, ciente das diferentes práticas dos Estados-Membros no que diz respeito ao tratamento da lei estrangeira, publicará o mais tardar quatro anos após a entrada em vigor do Regulamento «Roma II», e em qualquer caso logo que esteja disponível, um estudo de carácter horizontal sobre a aplicação da lei estrangeira em matéria civil e comercial pelos tribunais dos Estados-Membros, tendo em conta os objectivos do Programa da Haia. A Comissão está igualmente preparada para, se necessário, tomar as medidas adequadas.\n\n---"
+  },
+  "716607284b80b4c3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/2abbc202-21ce-4cac-a842-f4bb3b10a6ba.0006.02/DOC_1#src.E0001)) JO L 281 de 23.11.1995, p. 31."
+  }
+ }
+}

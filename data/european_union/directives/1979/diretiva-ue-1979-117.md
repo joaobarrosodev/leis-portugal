@@ -34,6 +34,73 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-06-14'
+version_history:
+  file: diretiva-ue-1979-117.versoes.json
+  count: 4
+  source_lastmod: '2011-06-14'
+  versions:
+  - date: '1979-02-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-06-05'
+    amending: eu:celex:31983L0131:por
+    amending_title: DIRECTIVA DA COMISSÃO 83/131/CEE de 14 de Março de 1983; DIRECTIVA DA COMISSÃO 85/298/CEE de 22 de Maio
+      de 1985; M3; DIRECTIVA DO CONSELHO 86/214/CEE de 26 de Maio de 1986; DIRECTIVA DO CONSELHO 86/355/CEE de 21 de Julho
+      de 1986; DIRECTIVA DO CONSELHO 87/181/CEE de 9 de Março de 1987; M7; DIRECTIVA DO CONSELHO 89/365/CEE de 30 de Maio
+      de 1989; DIRECTIVA DA COMISSÃO 90/335/CEE de 7 de Junho de 1990; DIRECTIVA DO CONSELHO 90/533/CEE de 15 de Outubro de
+      1990; DIRECTIVA DA COMISSÃO 91/188/CEE de 19 de Março de 1991; REGULAMENTO (CE) N. o 807/2003 DO CONSELHO de 14 de Abril
+      de 2003; Acto de Adesão da Grécia; Acto de Adesão da Áustria, da Finlândia e da Suécia
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+  - date: '2004-05-20'
+    amending: eu:celex:32004R0850:por
+    amending_title: REGULAMENTO (CE) N. o 850/2004 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Abril de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2011-06-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime ANEXO
+    - Suprime Notas
 identifiers:
   celex: 31979L0117
   eli: http://data.europa.eu/eli/dir/1979/117/oj
@@ -48,7 +115,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e3b248ee-4150-4c50-985b-b94bb5b356fb.0011
   content_url: http://publications.europa.eu/resource/cellar/95ca3511-343d-4007-b3a4-4bcd042c17a1.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01979L0117-20110614
-  retrieved_at: '2026-10-22T02:49:48Z'
+  retrieved_at: '2026-10-22T14:32:52Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T20:54:44.316+01:00'
 integrity:
@@ -57,9 +124,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:48Z'
-  notes: Texto consolidado 01979L0117-20110614.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:32:52Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1979-117.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -190,16 +257,27 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:48Z'
+  checked_at: '2026-10-22T14:32:52Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01979L0117-19810101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0117-19830315: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0117-19850523: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0117-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0117-19860604: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0117-19860721: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0117-19870312: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0117-19870910: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0117-19890606: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0117-19900615: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0117-19901023: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0117-19910322: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0117-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

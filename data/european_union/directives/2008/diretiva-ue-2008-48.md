@@ -35,6 +35,58 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-12-30'
+version_history:
+  file: diretiva-ue-2008-48.versoes.json
+  count: 2
+  source_lastmod: '2023-12-30'
+  versions:
+  - date: '2008-05-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-12-30'
+    amending: eu:celex:32011L0090:por
+    amending_title: DIRECTIVA 2011/90/UE DA COMISSÃO de 14 de Novembro de 2011; DIRETIVA 2014/17/UE DO PARLAMENTO EUROPEU
+      E DO CONSELHO de 4 de fevereiro de 2014; REGULAMENTO (UE) 2016/1011 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de junho
+      de 2016; REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019; DIRETIVA (UE) 2021/2167
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de novembro de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Informações pré-contratuais
+    - Altera Artigo 9.º — Acesso a bases de dados
+    - Altera Artigo 10.º — Informação a mencionar nos contratos de crédito
+    - Altera Artigo 14.º — Direito de retractação
+    - Altera Artigo 16.º — Reembolso antecipado
+    - Altera Artigo 19.º — Cálculo da taxa anual de encargos efectiva global
+    - Altera Artigo 22.º — Harmonização e carácter imperativo da presente directiva
+    - Altera Artigo 26.º — Informação a prestar à Comissão
+    - Altera Artigo 27.º — Transposição
+    - Altera Artigo 29.º — Revogação
+    - Altera Artigo 32.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 11.º-A — Informação relativa à alteração dos termos e condições de um contrato de crédito
+    - Adita Artigo 16.º-A — Pagamentos em atraso e execução
+    - Adita Artigo 24.º-A — Exercício da delegação
+    - Adita ANEXO I
+    - Adita I. Equação de base que traduz a equivalência entre os levantamentos de crédito, por um lado, e os reembolsos e
+      encargos, por outro
+    - 'Adita II. Pressupostos adicionais para o cálculo da taxa anual de encargos efectiva global:'
+    - Adita ANEXO II
+    - Adita INFORMAÇÃO NORMALIZADA EUROPEIA EM MATÉRIA DE CRÉDITO AOS CONSUMIDORES
+    - Adita 1. Identificação e informações de contacto do mutuante/intermediário de crédito
+    - Adita 2. Descrição das principais características do produto de crédito
+    - Adita 3. Custos do crédito
+    - Adita 4. Outros aspectos jurídicos importantes
+    - Adita 5. Informações adicionais em caso de comercialização à distância de serviços financeiros
+    - Adita ANEXO III
+    - Adita INFORMAÇÃO EUROPEIA EM MATÉRIA DE CRÉDITO AOS CONSUMIDORES RELATIVA
+    - Adita 5. Informações adicionais, a prestar caso as informações pré-contratuais sejam dadas por certas organizações de
+      crédito (n.º 5 do artigo 2.º da Directiva 2008/48/CE) ou digam respeito a um crédito aos consumidores para conversão
+      de dívidas
+    - Adita 6. Informações adicionais a prestar em caso de comercialização à distância de serviços financeiros
+    - Suprime Artigo 25.º — Procedimento de comité
 identifiers:
   celex: 32008L0048
   eli: http://data.europa.eu/eli/dir/2008/48/oj
@@ -49,7 +101,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e4945793-f1f9-4527-8a2e-9060378fc302.0018
   content_url: http://publications.europa.eu/resource/cellar/cd1e9db6-a5c5-11ee-b164-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0048-20231230
-  retrieved_at: '2026-10-22T02:38:01Z'
+  retrieved_at: '2026-10-22T15:12:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T20:15:20.741+01:00'
 integrity:
@@ -58,9 +110,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:01Z'
-  notes: Texto consolidado 02008L0048-20231230.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:12:48Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2008-48.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -406,40 +458,24 @@ relationships:
   source: null
 article_structure:
   article_count: 34
-  section_count: 34
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 35
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:01Z'
-  warnings: []
+  checked_at: '2026-10-22T15:12:48Z'
+  warnings:
+  - '02008L0048-20080621: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008L0048-20111205: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008L0048-20140320: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008L0048-20180101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008L0048-20190726: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 2008/48/CE do Parlamento Europeu e do Conselho, de 23 de Abril de 2008
-
-> 02008L0048 — PT — 30.12.2023 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011L0090) — [DIRECTIVA 2011/90/UE DA COMISSÃO de 14 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011L0090) — L 296 — 35 — 15.11.2011
-- [►M2](http://publications.europa.eu/resource/celex/32014L0017) — [DIRETIVA 2014/17/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014L0017) — L 60 — 34 — 28.2.2014
-- [►M3](http://publications.europa.eu/resource/celex/32016R1011) — [REGULAMENTO (UE) 2016/1011 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de junho de 2016](http://publications.europa.eu/resource/celex/32016R1011) — L 171 — 1 — 29.6.2016
-- [►M4](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [►M5](http://publications.europa.eu/resource/celex/32021L2167) — [DIRETIVA (UE) 2021/2167 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de novembro de 2021](http://publications.europa.eu/resource/celex/32021L2167) — L 438 — 1 — 8.12.2021
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32008L0048R%2801%29) — [Rectificação, JO L 207, 11.8.2009, p. 14 (2008/48/CE)](http://publications.europa.eu/resource/celex/32008L0048R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32008L0048R%2803%29) — [Rectificação, JO L 199, 31.7.2010, p. 40 (2008/48/CE)](http://publications.europa.eu/resource/celex/32008L0048R%2803%29)
-- [►C3](http://publications.europa.eu/resource/celex/32008L0048R%2805%29) — [Rectificação, JO L 234, 10.9.2011, p. 46 (2008/48/CE)](http://publications.europa.eu/resource/celex/32008L0048R%2805%29)
-- [►C4](http://publications.europa.eu/resource/celex/32019R1243R%2801%29) — [Rectificação, JO L 191, 16.6.2020, p. 5 (2019/1243)](http://publications.europa.eu/resource/celex/32019R1243R%2801%29)
-
-## DIRECTIVA 2008/48/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de Abril de 2008
 

@@ -35,6 +35,96 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-04-11'
+version_history:
+  file: decisao-ue-2002-757.versoes.json
+  count: 6
+  source_lastmod: '2022-04-11'
+  versions:
+  - date: '2002-09-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-04-30'
+    amending: eu:celex:32004D0426:por
+    amending_title: DECISÃO DA COMISSÃO de 29 de Abril de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera ANEXO
+    - Adita Notas
+  - date: '2007-03-30'
+    amending: eu:celex:32007D0201:por
+    amending_title: DECISÃO DA COMISSÃO de 27 de Março de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2013-12-20'
+    amending: eu:celex:32013D0782:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 18 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Notas
+    - Adita Artigo 6.º-A
+    - Adita [►M3](http://publications.europa.eu/resource/celex/32013D0782) ANEXO I◄
+    - Adita ANEXO II
+    - Adita PARTE I
+    - Adita Condições referidas no n.º 1, segundo parágrafo, do artigo 3.º
+    - Adita PARTE II
+    - Adita Model of Certificate of Kiln-drying
+    - Adita CERTIFICATE OF KILN DRYING
+    - Adita Sawn Hardwood Lumber
+    - 'Adita Description of Consignment:'
+    - Adita AUTHORIZED PERSON RESPONSIBLE FOR CERTIFICATION
+    - Adita NATIONAL HARDWOOD LUMBER ASSOCIATION VALIDATION
+    - Suprime ANEXO
+  - date: '2016-11-10'
+    amending: eu:celex:32016D1967:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2016/1967 DA COMISSÃO de 8 de novembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Notas
+  - date: '2022-04-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 6.º-A
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime [►M3](http://publications.europa.eu/resource/celex/32013D0782) ANEXO I◄
+    - Suprime ANEXO II
+    - Suprime PARTE I
+    - Suprime Condições referidas no n.º 1, segundo parágrafo, do artigo 3.º
+    - Suprime PARTE II
+    - Suprime Model of Certificate of Kiln-drying
+    - Suprime CERTIFICATE OF KILN DRYING
+    - Suprime Sawn Hardwood Lumber
+    - 'Suprime Description of Consignment:'
+    - Suprime AUTHORIZED PERSON RESPONSIBLE FOR CERTIFICATION
+    - Suprime NATIONAL HARDWOOD LUMBER ASSOCIATION VALIDATION
+    - Suprime Notas
 identifiers:
   celex: 32002D0757
   eli: http://data.europa.eu/eli/dec/2002/757/oj
@@ -49,7 +139,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/010cc64b-3055-405b-a57e-7464c4739102.0010
   content_url: http://publications.europa.eu/resource/cellar/75c937dc-cc6f-11ec-a95f-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002D0757-20220411
-  retrieved_at: '2026-10-22T02:51:25Z'
+  retrieved_at: '2026-10-22T14:51:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-10-14T15:40:57.590+02:00'
 integrity:
@@ -58,9 +148,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:25Z'
-  notes: Texto consolidado 02002D0757-20220411.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:13Z'
+  notes: 6 versão(ões); histórico completo em decisao-ue-2002-757.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -132,16 +222,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:25Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:51:13Z'
+  warnings: []
   errors: []
 ---
 

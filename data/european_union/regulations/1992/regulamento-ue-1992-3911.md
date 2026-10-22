@@ -33,6 +33,45 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-03-02'
+version_history:
+  file: regulamento-ue-1992-3911.versoes.json
+  count: 2
+  source_lastmod: '2009-03-02'
+  versions:
+  - date: '1992-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-03-02'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o.
+    - Suprime TÍTULO I — Licença de exportação
+    - Suprime Artigo 2o.
+    - Suprime Artigo 3o.
+    - Suprime Artigo 4o.
+    - Suprime Artigo 5o.
+    - Suprime TÍTULO II — Cooperação administrativa
+    - Suprime Artigo 6o.
+    - Suprime TÍTULO III — Disposições gerais e finais
+    - Suprime Artigo 7o.
+    - Suprime Artigo 8o.
+    - Suprime Artigo 9o.
+    - Suprime Artigo 10o.
+    - Suprime Artigo 11o.
+    - Suprime ANEXO
+    - Suprime Capítulo 49
+    - Suprime Capítulo 95 — - vidros e cristais
+    - Suprime Capítulo 94 — - instrumentos de óptica, fotografia ou cinematografia
+    - Suprime Capítulo 90 — - instrumentos musicais
+    - Suprime Capítulo 92 — - relojoaria
+    - Suprime Capítulo 91 — - obras de madeira
+    - Suprime Capítulo 44 — - produtos cerâmicos
+    - Suprime Capítulo 69 — - tapeçarias
+    - Suprime Capítulo 57 — - papéis de parede
+    - Suprime Capítulo 93 — b) Com mais de 100 anos
 identifiers:
   celex: 31992R3911
   eli: http://data.europa.eu/eli/reg/1992/3911/oj
@@ -47,7 +86,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7a846811-30fb-4277-96a8-14d457866034.0009
   content_url: http://publications.europa.eu/resource/cellar/0645b158-ef39-4219-9152-9fbd6f839b0f.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R3911-20090302
-  retrieved_at: '2026-10-22T02:55:47Z'
+  retrieved_at: '2026-10-22T14:41:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T00:13:51.888+01:00'
 integrity:
@@ -56,9 +95,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:55:47Z'
-  notes: Texto consolidado 01992R3911-20090302.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:48Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1992-3911.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -137,16 +176,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:55:47Z'
+  checked_at: '2026-10-22T14:41:48Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01992R3911-19930330: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R3911-19970624: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R3911-20020101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992R3911-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

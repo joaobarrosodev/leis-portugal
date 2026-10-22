@@ -35,6 +35,35 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-05-08'
+version_history:
+  file: diretiva-ue-1996-73.versoes.json
+  count: 2
+  source_lastmod: '2012-05-08'
+  versions:
+  - date: '1997-02-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-05-08'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime ANEXO I — PREPARAÇÃO DAS AMOSTRAS REDUZIDAS E DOS PROVETES PARA DETERMINAR A COMPOSIÇÃO EM FIBRAS DOS PRODUTOS
+      TÊXTEIS
+    - Suprime ANEXO II — MÉTODOS DE ANÁLISE QUANTITATIVA DE DETERMINADAS MISTURAS BINÁRIAS DE FIBRAS TÊXTEIS
+    - Suprime ANEXO III — PARTE A
+    - Suprime PARTE B — PRAZOS DE TRANSPOSIÇÃO
+    - Suprime ANEXO IV — QUADRO DE CORRESPONDÊNCIAS
 identifiers:
   celex: 31996L0073
   eli: http://data.europa.eu/eli/dir/1996/73/oj
@@ -49,7 +78,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7126d6ee-6faf-4b54-9ecb-c53c6dbd0e4e.0011
   content_url: http://publications.europa.eu/resource/cellar/7f765e5c-0683-45ab-8b8d-80c80080faa3.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0073-20120508
-  retrieved_at: '2026-10-22T02:47:01Z'
+  retrieved_at: '2026-10-22T14:45:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T14:21:14.094+01:00'
 integrity:
@@ -58,9 +87,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:01Z'
-  notes: Texto consolidado 01996L0073-20120508.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:45:23Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1996-73.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -171,16 +200,20 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:01Z'
+  checked_at: '2026-10-22T14:45:23Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01996L0073-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996L0073-20060130: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01996L0073-20070223: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01996L0073-20081211: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01996L0073-20091005: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01996L0073-20110819: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

@@ -35,6 +35,150 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-12-31'
+version_history:
+  file: regulamento-ue-2002-1605.versoes.json
+  count: 5
+  source_lastmod: '2013-12-31'
+  versions:
+  - date: '2002-09-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1995:por
+    amending_title: REGULAMENTO (CE, EURATOM) N. o 1995/2006 DO CONSELHO de 13 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 33.º
+    - Altera Artigo 37.º
+    - Altera Artigo 40.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 49.º
+    - Altera Artigo 50.º
+    - Altera Artigo 52.º
+    - Altera Artigo 53.º
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 59.º
+    - Altera Artigo 60.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 63.º
+    - Altera Artigo 65.º
+    - Altera Artigo 66.º
+    - Altera Artigo 73.º
+    - Altera Artigo 75.º
+  - date: '2007-12-27'
+    amending: eu:celex:32007R1525:por
+    amending_title: REGULAMENTO (CE) N. o 1525/2007 DO CONSELHO de 17 de Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 26.º
+    - Altera Artigo 30.º
+    - Altera Artigo 55.º
+    - Altera Artigo 90.º
+    - Altera Artigo 108.º
+    - Altera Artigo 109.º
+    - Altera Artigo 149.º
+    - Altera Artigo 155.º
+    - Altera Artigo 166.º
+    - Altera Notas
+  - date: '2010-11-29'
+    amending: eu:celex:32010R1081:por
+    amending_title: REGULAMENTO (UE, EURATOM) N. o 1081/2010 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de Novembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 16.º
+    - Altera Artigo 28.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+    - Altera Artigo 46.º
+    - Altera Artigo 50.º
+    - Altera Artigo 51.º
+    - Altera Artigo 53.º-A
+    - Altera Artigo 55.º
+    - Altera Artigo 59.º
+    - Altera Artigo 60.º
+    - Altera Artigo 61.º
+    - Altera Artigo 66.º
+    - Altera Artigo 85.º
+    - Altera Artigo 90.º
+    - Altera Artigo 108.º
+    - Altera Artigo 149.º
+    - Altera Artigo 155.º
+    - Altera Artigo 163.º
+    - Altera Artigo 165.º
+    - Altera Artigo 166.º
+    - Altera Notas
+    - Adita Artigo 60.º-A
+    - Adita Artigo 147.º-A
+    - Adita Artigo 186.º-A
+  - date: '2013-12-31'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime PARTE I
+    - Suprime DISPOSIÇÕES COMUNS
+    - Suprime TÍTULO I
+    - Suprime OBJECTO
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime TÍTULO II
+    - Suprime PRINCÍPIOS ORÇAMENTAIS
+    - Suprime Artigo 3.º
+    - Suprime CAPÍTULO 1
+    - Suprime Princípios da unicidade e da verdade orçamental
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 5.º-A
+    - Suprime CAPÍTULO 2
+    - Suprime Princípio da anualidade
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime CAPÍTULO 3
+    - Suprime Princípio do equilíbrio
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime CAPÍTULO 4
+    - Suprime Princípio da unidade de conta
+    - Suprime Artigo 16.º
+    - Suprime CAPÍTULO 5
+    - Suprime Princípio da universalidade
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime CAPÍTULO 6
+    - Suprime Princípio da especificação
 identifiers:
   celex: 32002R1605
   eli: http://data.europa.eu/eli/reg/2002/1605/oj
@@ -49,7 +193,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ec39c4bf-a5ad-4962-afe3-471e9695cbe3.0010
   content_url: http://publications.europa.eu/resource/cellar/b2f0711c-0016-11e4-831f-01aa75ed71a1.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R1605-20131231
-  retrieved_at: '2026-10-22T02:42:31Z'
+  retrieved_at: '2026-10-22T14:53:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-11-11T20:14:15.937+01:00'
 integrity:
@@ -58,9 +202,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:31Z'
-  notes: Texto consolidado 02002R1605-20131231.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:53:09Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2002-1605.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -231,16 +375,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:31Z'
+  checked_at: '2026-10-22T14:53:09Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02002R1605-20021006: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

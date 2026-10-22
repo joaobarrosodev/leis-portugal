@@ -37,6 +37,104 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-01'
+version_history:
+  file: regulamento-ue-2006-1013.versoes.json
+  count: 3
+  source_lastmod: '2025-01-01'
+  versions:
+  - date: '2006-07-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-11'
+    amending: eu:celex:32007R1379:por
+    amending_title: REGULAMENTO (CE) N. o 1379/2007 DA COMISSÃO de 26 de Novembro de 2007; REGULAMENTO (CE) N. o 669/2008
+      DA COMISSÃO de 15 de Julho de 2008; REGULAMENTO (CE) n. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março
+      de 2009; REGULAMENTO (CE) N. o 308/2009 DA COMISSÃO de 15 de Abril de 2009; DIRECTIVA 2009/31/CE DO PARLAMENTO EUROPEU
+      E DO CONSELHO de 23 de Abril de 2009; REGULAMENTO (UE) N. o 413/2010 DA COMISSÃO de 12 de Maio de 2010; REGULAMENTO
+      (UE) N. o 664/2011 DA COMISSÃO de 11 de Julho de 2011; REGULAMENTO (UE) N. o 135/2012 DA COMISSÃO de 16 de fevereiro
+      de 2012; REGULAMENTO (UE) N. o 255/2013 DA COMISSÃO de 20 de março de 2013; REGULAMENTO (UE) N. o 1257/2013 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 20 de novembro de 2013; REGULAMENTO (UE) N. o 660/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
+      de 15 de maio de 2014; REGULAMENTO (UE) N. o 1234/2014 DA COMISSÃO de 18 de novembro de 2014; REGULAMENTO (UE) 2015/2002
+      DA COMISSÃO de 10 de novembro de 2015; REGULAMENTO DELEGADO (UE) 2020/2174 DA COMISSÃO de 19 de outubro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Quadro processual global
+    - Altera Artigo 4.º — Notificação
+    - Altera Artigo 11.º — Objecções a transferências de resíduos destinados a eliminação
+    - Altera Artigo 12.º — Objecções a transferências de resíduos destinados a valorização
+    - Altera Artigo 15.º — Disposições adicionais relativas a operações intermédias de valorização e eliminação
+    - Altera Artigo 16.º — Requisitos a respeitar após a autorização de uma transferência
+    - Altera Artigo 26.º — Formato das comunicações
+    - Altera Artigo 35.º — Procedimentos de exportação para países da EFTA
+    - Altera Artigo 36.º — Proibição de exportação
+    - Altera Artigo 43.º — Importações proibidas com excepção das provenientes de países abrangidos pela decisão da OCDE ou
+      partes na Convenção de Basileia ou com um acordo em vigor ou de outras zonas em situações de crise ou de guerra
+    - Altera Artigo 58.º — Alteração dos anexos
+    - Altera Artigo 60.º — Revisão
+    - Altera Artigo 64.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita TRANSFERÊNCIAS EXCLUSIVAMENTE NO INTERIOR DE ESTADOS-MEMBROS
+    - Adita Artigo 33.º — Aplicação do presente regulamento a transferências exclusivamente no interior de Estados-Membros
+    - Adita Artigo 37.º — Procedimentos na exportação de resíduos enumerados nos anexos III ou III-A
+    - Adita Artigo 38.º — Exportações de resíduos enumerados nos anexos III, III-A, III-B, IV e IV-A
+    - Adita Artigo 50.º — Controlo do cumprimento nos Estados-Membros
+    - Adita Artigo 51.º — Relatórios dos Estados-Membros
+    - Adita Artigo 58.º-A — Exercício da delegação
+    - Adita Artigo 59.º-A — Procedimento de comité
+    - Adita Artigo 63.º — Disposições transitórias para determinados Estados-Membros
+    - Adita ANEXO I-A
+    - Adita Documento de notificação para transferências/movimentos transfronteiriços de resíduos
+    - Adita ANEXO I-B
+    - Adita Documento de acompanhamento para transferências/movimentos transfronteiriços de resíduos
+    - Adita ANEXO I-C
+    - Adita INSTRUÇÕES ESPECÍFICAS PARA O PREENCHIMENTO DOS DOCUMENTOS DE NOTIFICAÇÃO E DE ACOMPANHAMENTO
+    - Adita I. Introdução
+    - Adita II. Objectivo dos documentos de notificação e de acompanhamento
+    - Adita III. Requisitos gerais
+    - Adita IV. Instruções específicas para o preenchimento do documento de notificação
+    - Adita V. Instruções específicas para o preenchimento do documento de acompanhamento
+    - Adita ANEXO II
+    - Adita INFORMAÇÕES E DOCUMENTAÇÃO RELACIONADA COM A NOTIFICAÇÃO
+    - Adita Parte 1 INFORMAÇÕES A INCLUIR OU ANEXAR NO DOCUMENTO DE NOTIFICAÇÃO
+  - date: '2025-01-01'
+    amending: eu:celex:32024R3229:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/3229 DA COMISSÃO de 18 de outubro de 2024
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 12.º — Objecções a transferências de resíduos destinados a valorização
+    - Altera Artigo 26.º — Formato das comunicações
+    - Altera Artigo 36.º — Proibição de exportação
+    - Altera Artigo 50.º — Controlo do cumprimento nos Estados-Membros
+    - Altera Artigo 63.º — Disposições transitórias para determinados Estados-Membros
+    - Altera I. Introdução
+    - Altera II. Objectivo dos documentos de notificação e de acompanhamento
+    - Altera IV. Instruções específicas para o preenchimento do documento de notificação
+    - Altera V. Instruções específicas para o preenchimento do documento de acompanhamento
+    - Altera Parte I
+    - Altera Outros resíduos que contenham metais
+    - Altera RESÍDUOS ADICIONAIS DA LISTA «VERDE» QUE AGUARDAM INCLUSÃO NOS ANEXOS RELEVANTES DA CONVENÇÃO DE BASILEIA OU
+      DA DECISÃO DA OCDE, CONFORME REFERIDO NO ARTIGO 58.º, N.º 1, ALÍNEA b)
+    - Altera Resíduos que contenham metais
+    - Altera Lista A (anexo VIII da Convenção de Basileia)
+    - Altera Lista B (anexo IX da Convenção de Basileia)
+    - Altera Lista A (anexo II da Convenção de Basileia)
+    - 'Altera I. Diretrizes e documentos de orientação adotados pela Convenção de Basileia:'
+    - 'Altera II. Diretrizes adotadas pela OCDE:'
+    - 'Altera III. Diretrizes adotadas pela Organização Marítima Internacional (OMI):'
+    - 'Altera IV. Diretrizes adotadas pela Organização Internacional do Trabalho (OIT):'
+    - Altera Notas
+    - Adita Parte 1 ([^38^](http://publications.europa.eu/resource/cellar/4bc5cfee-ee3f-11ef-b5e9-01aa75ed71a1.0019.02/DOC_1#E0041))
+    - Adita Lista B (resíduos da parte II do apêndice 4 da decisão da OCDE) ([^59^](http://publications.europa.eu/resource/cellar/4bc5cfee-ee3f-11ef-b5e9-01aa75ed71a1.0019.02/DOC_1#E0070))
+    - Adita INFORMAÇÃO RELATIVA A TRANSFERÊNCIAS ILÍCITAS DE RESÍDUOS ([^1^](http://publications.europa.eu/resource/cellar/4bc5cfee-ee3f-11ef-b5e9-01aa75ed71a1.0019.02/DOC_1#E0084))
+      (artigo 24.º e n.º 1 do artigo 50.º)
+    - Suprime Parte 1 ([^38^](http://publications.europa.eu/resource/cellar/4f660505-5c10-11eb-b487-01aa75ed71a1.0019.02/DOC_2#E0039))
+    - Suprime Lista B (resíduos da parte II do apêndice 4 da decisão da OCDE) ([^64^](http://publications.europa.eu/resource/cellar/4f660505-5c10-11eb-b487-01aa75ed71a1.0019.02/DOC_2#E0070))
+    - Suprime INFORMAÇÃO RELATIVA A TRANSFERÊNCIAS ILÍCITAS DE RESÍDUOS ([^1^](http://publications.europa.eu/resource/cellar/4f660505-5c10-11eb-b487-01aa75ed71a1.0019.02/DOC_2#E0084))
+      (artigo 24.º e n.º 1 do artigo 50.º)
 identifiers:
   celex: 32006R1013
   eli: http://data.europa.eu/eli/reg/2006/1013/oj
@@ -51,7 +149,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1784c89a-69e5-43eb-9c40-1157f6895e85.0017
   content_url: http://publications.europa.eu/resource/cellar/4bc5cfee-ee3f-11ef-b5e9-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1013-20250101
-  retrieved_at: '2026-10-22T02:36:06Z'
+  retrieved_at: '2026-10-22T15:05:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T04:19:29.191+01:00'
 integrity:
@@ -60,9 +158,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:06Z'
-  notes: Texto consolidado 02006R1013-20250101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:05:27Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2006-1013.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -517,53 +615,32 @@ relationships:
   date: '1999-06-30'
 article_structure:
   article_count: 65
-  section_count: 123
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 124
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:06Z'
-  warnings: []
+  checked_at: '2026-10-22T15:05:27Z'
+  warnings:
+  - '02006R1013-20070712: versão indisponível (Sem expressão na língua por para CELEX 02006R1013-20070712.)'
+  - '02006R1013-20071130: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1013-20080716: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1013-20090420: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1013-20090625: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1013-20100516: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1013-20110801: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1013-20120308: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1013-20130410: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1013-20140526: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1013-20150601: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1013-20160101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02006R1013-20180101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 1013/2006 do Parlamento Europeu e do Conselho, de 14 de Junho de 2006
-
-> 02006R1013 — PT — 01.01.2025 — 014.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007R1379) — [REGULAMENTO (CE) N.º 1379/2007 DA COMISSÃO de 26 de Novembro de 2007](http://publications.europa.eu/resource/celex/32007R1379) — L 309 — 7 — 27.11.2007
-- [►M2](http://publications.europa.eu/resource/celex/32008R0669) — [REGULAMENTO (CE) N.º 669/2008 DA COMISSÃO de 15 de Julho de 2008](http://publications.europa.eu/resource/celex/32008R0669) — L 188 — 7 — 16.7.2008
-- [►M3](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) n.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-- [►M4](http://publications.europa.eu/resource/celex/32009R0308) — [REGULAMENTO (CE) N.º 308/2009 DA COMISSÃO de 15 de Abril de 2009](http://publications.europa.eu/resource/celex/32009R0308) — L 97 — 8 — 16.4.2009
-- [►M5](http://publications.europa.eu/resource/celex/32009L0031) — [DIRECTIVA 2009/31/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de Abril de 2009](http://publications.europa.eu/resource/celex/32009L0031) — L 140 — 114 — 5.6.2009
-- [►M6](http://publications.europa.eu/resource/celex/32010R0413) — [REGULAMENTO (UE) N.º 413/2010 DA COMISSÃO de 12 de Maio de 2010](http://publications.europa.eu/resource/celex/32010R0413) — L 119 — 1 — 13.5.2010
-- [►M7](http://publications.europa.eu/resource/celex/32011R0664) — [REGULAMENTO (UE) N.º 664/2011 DA COMISSÃO de 11 de Julho de 2011](http://publications.europa.eu/resource/celex/32011R0664) — L 182 — 2 — 12.7.2011
-- [►M8](http://publications.europa.eu/resource/celex/32012R0135) — [REGULAMENTO (UE) N.º 135/2012 DA COMISSÃO de 16 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012R0135) — L 46 — 30 — 17.2.2012
-- [►M9](http://publications.europa.eu/resource/celex/32013R0255) — [REGULAMENTO (UE) N.º 255/2013 DA COMISSÃO de 20 de março de 2013](http://publications.europa.eu/resource/celex/32013R0255) — L 79 — 19 — 21.3.2013
-- [►M10](http://publications.europa.eu/resource/celex/32013R1257) — [REGULAMENTO (UE) N.º 1257/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1257) — L 330 — 1 — 10.12.2013
-- [►M11](http://publications.europa.eu/resource/celex/32014R0660) — [REGULAMENTO (UE) N.º 660/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0660) — L 189 — 135 — 27.6.2014
-- [►M12](http://publications.europa.eu/resource/celex/32014R1234) — [REGULAMENTO (UE) N.º 1234/2014 DA COMISSÃO de 18 de novembro de 2014](http://publications.europa.eu/resource/celex/32014R1234) — L 332 — 15 — 19.11.2014
-- [►M13](http://publications.europa.eu/resource/celex/32015R2002) — [REGULAMENTO (UE) 2015/2002 DA COMISSÃO de 10 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R2002) — L 294 — 1 — 11.11.2015
-- [►M14](http://publications.europa.eu/resource/celex/32020R2174) — [REGULAMENTO DELEGADO (UE) 2020/2174 DA COMISSÃO de 19 de outubro de 2020](http://publications.europa.eu/resource/celex/32020R2174) — L 433 — 11 — 22.12.2020
-- [►M15](http://publications.europa.eu/resource/celex/32024R3229) — [REGULAMENTO DELEGADO (UE) 2024/3229 DA COMISSÃO de 18 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R3229) — L 3229 — 1 — 20.12.2024
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32007R1379R%2801%29) — [Rectificação, JO L 299, 8.11.2008, p. 50 (1379/2007)](http://publications.europa.eu/resource/celex/32007R1379R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32006R1013R%2802%29) — [Rectificação, JO L 318, 28.11.2008, p. 15 (1013/2006)](http://publications.europa.eu/resource/celex/32006R1013R%2802%29)
-- [C3](http://publications.europa.eu/resource/celex/32007R1379R%2802%29) — [Rectificação, JO L 044, 14.2.2009, p. 82 (1379/2007)](http://publications.europa.eu/resource/celex/32007R1379R%2802%29)
-- [►C4](http://publications.europa.eu/resource/celex/32007R1379R%2803%29) — [Rectificação, JO L 052, 25.2.2009, p. 17 (1379/2007)](http://publications.europa.eu/resource/celex/32007R1379R%2803%29)
-- [►C5](http://publications.europa.eu/resource/celex/32006R1013R%2804%29) — [Rectificação, JO L 334, 13.12.2013, p. 46 (1013/2006)](http://publications.europa.eu/resource/celex/32006R1013R%2804%29)
-- [►C6](http://publications.europa.eu/resource/celex/32006R1013R%2806%29) — [Rectificação, JO L 277, 22.10.2015, p. 61 (1013/2006)](http://publications.europa.eu/resource/celex/32006R1013R%2806%29)
-- [►C7](http://publications.europa.eu/resource/celex/32006R1013R%2812%29) — [Rectificação, JO L 002, 6.1.2022, p. 9 (n.o 1013/2006)](http://publications.europa.eu/resource/celex/32006R1013R%2812%29)
-
-## REGULAMENTO (CE) N.º 1013/2006 DO PARLAMENTO EUROPEU E DO CONSELHO,
 
 de 14 de Junho de 2006,
 

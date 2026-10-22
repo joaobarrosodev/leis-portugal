@@ -35,6 +35,42 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-07-30'
+version_history:
+  file: diretiva-ue-1996-71.versoes.json
+  count: 2
+  source_lastmod: '2020-07-30'
+  versions:
+  - date: '1997-01-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-07-30'
+    amending: eu:celex:32018L0957:por
+    amending_title: DIRETIVA (UE) 2018/957 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 28 de
+      junho de 2018
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Adita Artigo 1.º
+    - Adita Objeto e âmbito de aplicação
+    - Adita Artigo 2.º — Definição
+    - Adita Artigo 3.º — Condições de trabalho e emprego
+    - Adita Artigo 4.º — Cooperação em matéria de informação
+    - Adita Artigo 5.º — Acompanhamento, controlo e execução
+    - Adita Artigo 6.º — Competência judicial
+    - Adita Artigo 7.º — Aplicação
+    - Adita Artigo 8.º — Reexame pela Comissão
+    - Adita Artigo 9.º
+    - Adita Notas
+    - Suprime Artigo 1º — Âmbito de aplicação
+    - Suprime Artigo 2º — Definição
+    - Suprime Artigo 3º — Condições de trabalho e emprego
+    - Suprime Artigo 4º — Cooperação em matéria de informação
+    - Suprime Artigo 5º — Medidas
+    - Suprime Artigo 6º — Competência judicial
+    - Suprime Artigo 7º — Aplicação
+    - Suprime Artigo 8º — Reexame pela Comissão
+    - Suprime Artigo 9º
 identifiers:
   celex: 31996L0071
   eli: http://data.europa.eu/eli/dir/1996/71/oj
@@ -49,7 +85,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/26316833-db0f-4a84-864d-8ca967a3a654.0011
   content_url: http://publications.europa.eu/resource/cellar/68a991b1-7027-11ea-a07e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0071-20200730
-  retrieved_at: '2026-10-22T02:37:38Z'
+  retrieved_at: '2026-10-22T14:45:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-20T09:02:20.331+01:00'
 integrity:
@@ -58,9 +94,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:38Z'
-  notes: Texto consolidado 01996L0071-20200730.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:45:19Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1996-71.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -284,33 +320,20 @@ relationships:
   source: null
 article_structure:
   article_count: 9
-  section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:38Z'
-  warnings: []
+  checked_at: '2026-10-22T14:45:19Z'
+  warnings:
+  - '01996L0071-19970210: versão indisponível (Sem expressão na língua por para CELEX 01996L0071-19970210.)'
   errors: []
 ---
 
 # Directiva 96/71/CE do Parlamento Europeu e do Conselho de 16 de Dezembro de 1996
-
-> 01996L0071 — PT — 30.07.2020 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018L0957) — [DIRETIVA (UE) 2018/957 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 28 de junho de 2018](http://publications.europa.eu/resource/celex/32018L0957) — L 173 — 16 — 9.7.2018
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32018L0957R%2801%29) — [Rectificação, JO L 091, 29.3.2019, p. 77 (2018/957)](http://publications.europa.eu/resource/celex/32018L0957R%2801%29)
-
-## DIRECTIVA 96/7 l/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Dezembro de 1996
 

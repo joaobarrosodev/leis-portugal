@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '1996-06-18'
+version_history:
+  file: diretiva-ue-1996-33.versoes.json
+  count: 1
+  source_lastmod: '1996-06-18'
+  versions:
+  - date: '1996-06-18'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31996L0033
   eli: http://data.europa.eu/eli/dir/1996/33/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ce7d4477-1f81-417b-a447-4dab70ac8549.0011
   content_url: http://publications.europa.eu/resource/cellar/1d6e2d89-4e8d-4866-a70e-4675fa027c4c.0002.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0033-19960618
-  retrieved_at: '2026-10-22T02:50:53Z'
+  retrieved_at: '2026-10-22T14:45:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T06:19:31.454+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:50:53Z'
-  notes: Texto consolidado 01996L0033-19960618.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:45:06Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-1996-33.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -128,15 +137,14 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:50:53Z'
-  warnings:
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:45:06Z'
+  warnings: []
   errors: []
 ---
 

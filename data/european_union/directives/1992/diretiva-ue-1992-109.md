@@ -34,6 +34,36 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2005-08-18'
+version_history:
+  file: diretiva-ue-1992-109.versoes.json
+  count: 2
+  source_lastmod: '2005-08-18'
+  versions:
+  - date: '1992-12-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-08-18'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I — GENERALIDADES
+    - Suprime Artigo 1°
+    - Suprime TÍTULO II — FISCALIZAÇÃO DA COLOCAÇÃO NO MERCADO
+    - Suprime Artigo 3°
+    - Suprime Artigo 4° — Substâncias classificadas nas categorias 1 e 2 do anexo I
+    - Suprime TÍTULO III — MEDIDAS DE CONTROLO
+    - Suprime TÍTULO IV — COOPERAÇÃO ADMINISTRATIVA
+    - Suprime Artigo 7°
+    - Suprime TÍTULO V — DISPOSIÇÕES FINAIS
+    - Suprime Artigo 8°
+    - Suprime Artigo 9°
+    - Suprime Artigo 10°
+    - Suprime Artigo 11°
+    - Suprime Artigo 12°
+    - Suprime ANEXO I — CATEGORIA 1
+    - Suprime ANEXO II — >POSIÇÃO NUMA TABELA>
 identifiers:
   celex: 31992L0109
   eli: http://data.europa.eu/eli/dir/1992/109/oj
@@ -48,7 +78,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e654bd63-1633-48eb-a33e-5e81b34ace7b.0011
   content_url: http://publications.europa.eu/resource/cellar/755c929d-9edf-449a-9dbc-b03946ecb413.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0109-20050818
-  retrieved_at: '2026-10-22T02:50:28Z'
+  retrieved_at: '2026-10-22T14:41:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T18:27:27.111+01:00'
 integrity:
@@ -57,9 +87,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:50:28Z'
-  notes: Texto consolidado 01992L0109-20050818.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:22Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1992-109.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -136,16 +166,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:50:28Z'
+  checked_at: '2026-10-22T14:41:22Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01992L0109-19930625: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0109-20010301: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -1,0 +1,159 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31976L0207:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0207-20060815",
+ "dre_path": null,
+ "source_lastmod": "2006-08-15",
+ "versions": [
+  {
+   "date": "1976-02-14",
+   "future": false,
+   "celex": "31976L0207",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "66f32e595d80f375",
+    "67da7b02dc7e3ee1",
+    "6cb3b0f868414cc1",
+    "3ff16c80d619a5b0",
+    "8aa9941ac6fdded7",
+    "61adb734a5bc6ee4",
+    "8f94fa2e84ab425b",
+    "2839787619e7c310",
+    "31ad20e1483b4690",
+    "6b59d1da3f75f42e",
+    "9485df63b342657e",
+    "d0f356efea2aaf1d"
+   ]
+  },
+  {
+   "date": "2006-08-15",
+   "future": false,
+   "celex": "01976L0207-20060815",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o"
+   ],
+   "fragments": [
+    "1fe42c86ed50b9b9"
+   ]
+  }
+ ],
+ "fragments": {
+  "66f32e595d80f375": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 76/207/CEE do Conselho, de 9 de Fevereiro de 1976, relativa à concretização do princípio da igualdade de tratamento entre homens e mulheres no que se refere ao acesso ao emprego, à formação e promoção profissionais e às condições de trabalho** *Jornal Oficial nº L 039 de 14/02/1976 p. 0040 - 0042 Edição especial finlandesa: Capítulo 5 Fascículo 1 p. 0191 Edição especial grega: Capítulo 05 Fascículo 2 p. 0070 Edição especial sueca: Capítulo 5 Fascículo 1 p. 0191 Edição especial espanhola: Capítulo 05 Fascículo 2 p. 0070 Edição especial portuguesa: Capítulo 05 Fascículo 2 p. 0070*\n\nDIRECTIVA DO CONSELHO de 9 de Febereiro de 1976 relativa à concretização do princípio da igualdade de tratamento entre homens e mulheres no que se refere ao acesso ao emprego, à formação e promoção profissionais e às condições de trabalho\n\n(76/207/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\ntendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 235o,\n\ntendo em conta a proposta da Comissão,\n\ntendo em conta o parecer do Parlamento Europeu (1),\n\ntendo em conta o parecer do Comité Económico e Social (2),\n\nconsiderando que o Conselho, na sua Resolução de 21 de Janeiro de 1974 relativa a um programa de acção social (3), fixou, entre as prioridades, acções tendentes a assegurar a igualdade dos homens e das mulheres no que respeita ao acesso ao emprego e á formação e promoção profissionais assim como às condições de trabalho incluindo as remunerações;\n\nconsiderando que, no que respeita às remunerações, o Conselho adoptou em 10 de Fevereiro de 1975 a Directiva 75/117/CEE, relativa à aproximação das legislações dos Estados-membros no que se refere à aplicação do princípio da igualdade de remuneração entre os trabalhadores masculinos e os trabalhadores femininos (4);\n\nconsiderando que parece igualmente necessária uma acção da Comunidade no sentido de efectivar o princípio da igualdade de tratamento entre homens e mulheres, tanto no que se refere ao acesso ao emprego, à formação e promoção profissionais, como no que se refere às outras condições de trabalho; que a igualdade de tratamento entre os trabalhadores masculinos e femininos constitui um dos objectivos da Comunidade, na medida em que se trata, nomeadamente, de promover a igualização no progresso das condições de vida e de trabalho da mão-de-obra; que o Tratado não previu os poderes de acção específicos necessários para o efeito;\n\nconsiderando que convém definir e pôr progressivamente em prática, através de ulteriores instrumentos, o princípio da igualdade de tratamento em matéria de segurança social,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "67da7b02dc7e3ee1": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva tem em vista a realização, nos Estados-membros, do princípio da igualdade de tratamento entre homens e mulheres no que se refere ao acesso ao emprego, incluindo a promoção, e à formação profissional, assim como no que se refere às condições, de trabalho e, nas condições previstas no no 2, à segurança social. Este princípio será a seguir denominado por «princípio da igualdade de tratamento».\n\n2. Tendo em vista assegurar a realização progressiva do princípio da igualdade de tratamento em matéria de segurança social, o Conselho adoptará, sob proposta da Comissão, disposições que especificarão, nomeadamente, o seu conteúdo, alcance e modalidades de aplicação."
+  },
+  "6cb3b0f868414cc1": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. O princípio da igualdade de tratamento, na acepção das disposições adiante referidas, implica a ausência de qualquer discriminação em razão do sexo, quer directa, quer indirectamente, nomeadamente pela referência à situação matrimonial ou familiar.\n\n2. A presente directiva não constitui obstáculo à faculdade que os Estados-membros têm de excluir do seu âmbito de aplicação as actividades profissionais e, eventualmente, as formações que a elas conduzam, e para as quais, em razão da sua natureza ou das condições do seu exercício, o sexo constitua um condição determinante.\n\n3. A presente directiva não constitui obstáculo às disposições relativas à protecção da mulher, nomeadamente no que se refere à gravidez e à maternidade.\n\n4. A presente directiva não constitui obstáculo à medidas que tenham em vista promover a igualdade de oportunidades entre homens e mulheres, em particular ás que corrijam as desigualdades de facto que afectam as oportunidades das mulheres nos domínios referidos no no 1 do artigo 1o."
+  },
+  "3ff16c80d619a5b0": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. A aplicação do princípio da igualdade de tratamento implica a ausência de qualquer discriminação em razão do sexo nas condições de acesso, incluindo os critérios de selecção, a empregos ou a postos de trabalho, seja qual for o sector ou o ramo de actividade e a todos os níveis da hierarquia profissional.\n\n2. Para este efeito, os Estados-membros adoptarão as medidas necessárias a fim de que:\n\na) Sejam suprimidas as disposições legislativas, regulamentares e administrativas contrárias ao princípio da igualdade de tratamento;\n\nb) Sejam nulas, anuláveis ou possam ser revistas as disposições contrárias ao princípio da igualdade de tratamento que figurem em convenções colectivas ou em contratos individuais de trabalho, em regulamentos internos das empresas, bem como nos estatutos das profissões independentes;\n\nc) Sejam revistas as disposições legislativas, regulamentares ou administrativas contrárias ao princípio da igualdade de tratamento em relação às quais a preocupação de protecção que as inspirou na origem tenha deixado de ter fundamento; e que para as disposições convencionais da mesma natureza, os parceiros sociais sejam convidados a proceder às desejáveis revisões."
+  },
+  "8aa9941ac6fdded7": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nA aplicação do princípio da igualdade de tratamento no que se refere ao acesso a todos os tipos e a todos os níveis de orientação profissional, de formação, de aperfeiçoamento e de reciclagem profissionais, implica que os Estados-membros tomem as medidas necessárias a fim de que:\n\na) Sejam suprimidas as disposições legislativas, regulamentares e administrativas contrárias ao princípio da igualdade de tratamento;\n\nb) Sejam nulas, anuláveis ou possam ser revistas as disposições contrárias ao princípio da igualdade de tratamento que figurem em convenções colectivas ou em contratos individuais de trabalho, em regulamentos internos das empresas, bem como nos estatutos das profissões independentes;\n\nc) A orientação, a formação, o aperfeiçoamento e a reciclagem profissionais, sem prejuízo da autonomia reconhecida em alguns Estados-membros a certos estabelecimentos privados de formação, sejam acessíveis, segundo os mesmos critérios e aos mesmos níveis, sem discriminação em razão do sexo."
+  },
+  "61adb734a5bc6ee4": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. A aplicação do princípio da igualdade de tratamento no que se refere às condições de trabalho, incluindo as condições de despedimento, implica que sejam asseguradas aos homens e às mulheres as mesmas condições, sem discriminação em razão do sexo.\n\n2. Para esse efeito, os Estados-membros adoptarão as medidas necessárias a fim de que:\n\na) Sejam suprimidas as desposições legislativas, regulamentares e administrativas contrárias ao princípio da igualdade de tratamento;\n\nb) Sejam nulas, anuláveis ou possam ser revistas as disposições contrárias ao princípio da igualdade de tratamento que figurem em convenções colectivas ou em contratos individuais de trabalho, em regulamentos internos das empresas, bem como nos estatutos das profissões independentes;\n\nc) Sejam revistas as desposições legislativas, regulamentares e administrativas contrárias ao princípio da igualdade de tratamento quando a preocupação de protecção que as inspirou na origem tenha deixado de ter fundamento; e que, no que se refere às disposições convencionais da mesma natureza, os parceiros sociais sejam convidados a proceder ás desejáveis revisões."
+  },
+  "8f94fa2e84ab425b": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros devem introduzir na respectiva ordem jurídica interna as medidas necessarias para permitir a qualquer pessoa que se condidere lesada pela não aplicação do princípio da igualdade de tratamento, na acepção dos artigos 3o, 4o e 5o, fazer valer judicialmente os seus direitos, eventualmente, após recurso a outras instâncias competentes."
+  },
+  "2839787619e7c310": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros tomarão as medidas necessárias para proteger os trabalhadores contra qualquer despedimento que constitua reacção do empregador a uma queixa formulada a nível da empresa ou a uma acção judicial com o fim de fazer respeitar o princípio da igualdade de tratamento."
+  },
+  "31ad20e1483b4690": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros providenciarão no sentido de que as medidas tomadas em aplicação da presente directiva, bem como as disposições já em vigor sobre esta matéria, sejam levadas ao conhecimento dos trabalhadores por quaisquer meios apropriados, designadamente, por informação nos locais de trabalho."
+  },
+  "6b59d1da3f75f42e": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Os Estados-membros devem adoptar as desposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva no prazo de trinta meses a contar da sua notificação. Desse facto informarão imediatamente a Comissão.\n\nTodavia, no que se refere ao disposto na primeira parte, da alínea c), do no 2, do artigo 3o e na primeira parte, da alínea c), do no 2, do artigo 5o, os Estados-membros devem proceder a um primeiro exame e a uma eventual primeira revisão das disposições legislativas, regulamentares e administrativas visadas, no prazo de quatro anos a contar da notificação da presente directiva.\n\n2. Os Estados-membros devem proceder periodicamente a um exame das actividades profissionais referidas no no 2 do artigo 2o, com a finalidade de apreciar, tendo em consideração a evolução social, se se justificará manter as exclusões em questão. Devem comunicar à Comissão o resultado deste exame.\n\n3. Por outro lado, Estados-membros devem comunicar à Comissão o texto das disposições legislativas, regulamentares e administrativas que adoptarem no domínio regulado pela presente directiva."
+  },
+  "9485df63b342657e": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nNo prazo de dois anos a contar do termo do período de trinta meses previsto no no 1, primeiro parágrafo, do artigo 9o, os Estados-membros devem transmitir à Comissão todos os dados úteis que lhe permitam elaborar um relatório, a submeter ao Conselho, sobre a aplicação da presente directiva."
+  },
+  "d0f356efea2aaf1d": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 9 de Fevereiro de 1976\n\nPelo Conselho\n\nO Presidente\n\nG. THORN\n\n(1) JO no C 111 de 20. 5. 1975, p. 14.(2) JO no C 286 de 15. 12. 1975, p. 8.(3) JO no C 13 de 12. 2. 1974, p. 1.(4) JO no L 45 de 19. 2. 1975, p. 19."
+  },
+  "1fe42c86ed50b9b9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1976L0207 — PT — 15.08.2006 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31976L0207) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31976L0207) [de 9 de Febereiro de 1976](http://publications.europa.eu/resource/celex/31976L0207) [relativa à concretização do princípio da igualdade de tratamento entre homens e mulheres no que se refere ao acesso ao emprego, à formação e promoção profissionais e às condições de trabalho](http://publications.europa.eu/resource/celex/31976L0207) [(76/207/CEE)](http://publications.europa.eu/resource/celex/31976L0207) (JO L 039, 14.2.1976, p.40)\n\n**revogado por:**\n\n- [Directiva 2006/54/CE do Parlamento Europeu e do Conselho de 5 de Julho de 2006](http://publications.europa.eu/resource/celex/32006L0054) — L 204 — 23 — 26.7.2006"
+  }
+ }
+}

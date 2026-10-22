@@ -37,6 +37,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2008-213.versoes.json
+  count: 1
+  source_lastmod: '2008-04-04'
+  versions:
+  - date: '2008-03-15'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32008R0213
   eli: http://data.europa.eu/eli/reg/2008/213/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b7d0d765-8773-4697-bc96-c9699407d297.0018
   content_url: http://publications.europa.eu/resource/cellar/b7d0d765-8773-4697-bc96-c9699407d297.0018.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:39:10Z'
+  retrieved_at: '2026-10-22T15:14:07Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T14:41:47.235+01:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:10Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:14:07Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2008-213.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -213,21 +222,20 @@ relationships:
   date: '2026-06-25'
 article_structure:
   article_count: 4
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:10Z'
+  checked_at: '2026-10-22T15:14:07Z'
   warnings:
-  - Versão consolidada 02008R0213-20080404 indisponível (Sem expressão na língua por para CELEX 02008R0213-20080404.); usado
-    o texto do JO.
+  - '02008R0213-20080404: versão indisponível (Sem expressão na língua por para CELEX 02008R0213-20080404.)'
   errors: []
 ---
 
-# REGULAMENTO (CE) N.º 213/2008 DA COMISSÃO
+# Regulamento (CE) n.° 213/2008 da Comissão, de 28 de Novembro de 2007
 
 de 28 de Novembro de 2007
 

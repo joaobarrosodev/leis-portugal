@@ -35,6 +35,95 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-05-18'
+version_history:
+  file: diretiva-ue-2002-59.versoes.json
+  count: 4
+  source_lastmod: '2025-05-18'
+  versions:
+  - date: '2009-06-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-03-16'
+    amending: eu:celex:32011L0015:por
+    amending_title: DIRECTIVA 2011/15/UE DA COMISSÃO Texto relevante para efeitos do EEE de 23 de Fevereiro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 10.º — Sistemas de registo dos dados de viagem
+    - Altera Artigo 12.º — Obrigação de informação respeitante ao transporte de mercadorias perigosas
+    - Altera Artigo 16.º — Transmissão de informações relativas a determinados navios
+    - Altera Artigo 20.º-C — Garantia financeira e indemnização
+    - Altera Artigo 28.º — Procedimento de comité
+    - Altera 2.1.2. Sistema central SafeSeaNet
+    - Altera Notas
+    - Adita Prescrições aplicáveis aos equipamentos de bordo
+    - Adita I. NAVIOS DE PESCA
+    - Adita II. NAVIOS AFECTOS AO TRÁFEGO INTERNACIONAL
+    - Adita III. NAVIOS NÃO AFECTOS AO TRÁFEGO INTERNACIONAL
+    - Adita 1. Sistemas de identificação automática (AIS)
+    - Adita 2. Sistemas de registo dos dados de viagem (VDR)
+    - Adita IV. ISENÇÕES
+    - Adita 1. Dispensa da instalação de AIS a bordo
+    - Adita 2. Dispensa da instalação de VDR ou S-VDR a bordo
+    - Adita (em aplicação do artigo 19.º, n.º 1)
+    - Suprime PRESCRIÇÕES APLICÁVEIS AOS EQUIPAMENTOS DE BORDO
+    - Suprime I. Sistema de identificação automática (AIS)
+    - Suprime 1. Navios construídos em ou após 1 de Julho de 2002
+    - Suprime 2. Navios construídos antes de 1 de Julho de 2002
+    - Suprime 3. Navios de pesca
+    - Suprime II. Sistemas de registo dos dados de viagem (VDR)
+    - Suprime (em aplicação do n.º 1 do artigo 19.º)
+  - date: '2019-07-26'
+    amending: eu:celex:32014L0100:por
+    amending_title: DIRETIVA 2014/100/UE DA COMISSÃO Texto relevante para efeitos do EEE de 28 de Outubro de 2014; REGULAMENTO
+      (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 10.º — Sistemas de registo dos dados de viagem
+    - Altera Artigo 16.º — Transmissão de informações relativas a determinados navios
+    - Altera Artigo 20.º-C — Garantia financeira e indemnização
+    - Altera Artigo 27.º — Alterações
+    - Altera 2. Dispensa da instalação de VDR ou S-VDR a bordo
+    - Altera 2.2. Princípios de gestão
+    - Altera 4. Segurança e direitos de acesso
+    - Altera Notas
+    - Adita Artigo 27.º-A — Exercício da delegação
+    - Adita MENSAGENS ELETRÓNICAS E SISTEMA DE INTERCÂMBIO DE INFORMAÇÕES MARÍTIMAS DA UNIÃO (SAFESEANET)
+    - Adita 1. Conceção geral e arquitetura
+    - Adita 2. Gestão, funcionamento, desenvolvimento e manutenção
+    - Adita 2.1.1. Sistemas SafeSeaNet nacionais
+    - Adita 2.1.2. Sistema SafeSeaNet central
+    - Adita 2.3. Documento de controlo da interface e das funcionalidades e documentação técnica
+    - Adita 3. Intercâmbio e partilha de dados
+    - Suprime Artigo 28.º — Procedimento de comité
+    - Suprime MENSAGENS ELECTRÓNICAS E SAFESEANET
+    - Suprime 1. Concepção geral e arquitectura
+    - Suprime 2. Gestão, funcionamento, desenvolvimento e manutenção do SafeSeaNet
+    - Suprime 2.1.1. Sistemas nacionais SafeSeaNet
+    - Suprime 2.1.2. Sistema central SafeSeaNet
+    - Suprime 2.3. Documento de controlo da interface e das funcionalidades e documentação técnica do SafeSeaNet
+    - Suprime 3. Intercâmbio de dados através do SafeSeaNet
+  - date: '2025-05-18'
+    amending: eu:celex:32025L0811:por
+    amending_title: DIRETIVA DELEGADA (UE) 2025/811 DA COMISSÃO de 19 de fevereiro de 2025
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 10.º — Sistemas de registo dos dados de viagem
+    - Altera Artigo 16.º — Transmissão de informações relativas a determinados navios
+    - Altera Artigo 20.º-C — Garantia financeira e indemnização
+    - Altera Artigo 27.º-A — Exercício da delegação
+    - Altera 4. Informações referidas no artigo 5.º
+    - Altera III. NAVIOS NÃO AFECTOS AO TRÁFEGO INTERNACIONAL
+    - Altera IV. ISENÇÕES
+    - Altera 2.1. Responsabilidades
+    - Altera 3. Intercâmbio e partilha de dados
+    - Altera Notas
+    - Suprime 1. Sistemas de identificação automática (AIS)
+    - Suprime 2. Sistemas de registo dos dados de viagem (VDR)
+    - Suprime 1. Dispensa da instalação de AIS a bordo
+    - Suprime 2. Dispensa da instalação de VDR ou S-VDR a bordo
+    - Suprime 2.1.1. Sistemas SafeSeaNet nacionais
+    - Suprime 2.1.2. Sistema SafeSeaNet central
 identifiers:
   celex: 32002L0059
   eli: http://data.europa.eu/eli/dir/2002/59/oj
@@ -49,7 +138,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9150683a-2d91-414a-9c7f-e206ede0fa20.0010
   content_url: http://publications.europa.eu/resource/cellar/fb491345-3b53-11f0-8a44-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0059-20250518
-  retrieved_at: '2026-10-22T02:37:10Z'
+  retrieved_at: '2026-10-22T14:52:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:45:00.226+02:00'
 integrity:
@@ -58,9 +147,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:10Z'
-  notes: Texto consolidado 02002L0059-20250518.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:02Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2002-59.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -230,34 +319,20 @@ relationships:
   source: null
 article_structure:
   article_count: 40
-  section_count: 35
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 36
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:10Z'
-  warnings: []
+  checked_at: '2026-10-22T14:52:02Z'
+  warnings:
+  - '02002L0059-20020805: versão indisponível (Sem expressão na língua por para CELEX 02002L0059-20020805.)'
   errors: []
 ---
 
 # Directiva 2002/59/CE do Parlamento Europeu e do Conselho, de 27 de Junho de 2002
-
-> 02002L0059 — PT — 18.05.2025 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009L0017) — [DIRECTIVA 2009/17/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de Abril de 2009](http://publications.europa.eu/resource/celex/32009L0017) — L 131 — 101 — 28.5.2009
-- [►M2](http://publications.europa.eu/resource/celex/32009L0018) — [DIRECTIVA 2009/18/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de Abril de 2009](http://publications.europa.eu/resource/celex/32009L0018) — L 131 — 114 — 28.5.2009
-- [►M3](http://publications.europa.eu/resource/celex/32011L0015) — [DIRECTIVA 2011/15/UE DA COMISSÃO de 23 de Fevereiro de 2011](http://publications.europa.eu/resource/celex/32011L0015) — L 49 — 33 — 24.2.2011
-- [►M4](http://publications.europa.eu/resource/celex/32014L0100) — [DIRETIVA 2014/100/UE DA COMISSÃO de 28 de Outubro de 2014](http://publications.europa.eu/resource/celex/32014L0100) — L 308 — 82 — 29.10.2014
-- [►M5](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [►M6](http://publications.europa.eu/resource/celex/32025L0811) — [DIRETIVA DELEGADA (UE) 2025/811 DA COMISSÃO de 19 de fevereiro de 2025](http://publications.europa.eu/resource/celex/32025L0811) — L 811 — 1 — 28.4.2025
-
-## DIRECTIVA 2002/59/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 27 de Junho de 2002
 

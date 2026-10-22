@@ -34,6 +34,120 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-21'
+version_history:
+  file: diretiva-ue-1999-35.versoes.json
+  count: 4
+  source_lastmod: '2019-12-21'
+  versions:
+  - date: '1999-06-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-04-20'
+    amending: eu:celex:32002L0084:por
+    amending_title: DIRECTIVA 2002/84/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5 de Novembro
+      de 2002; REGULAMENTO (CE) N. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Verificações iniciais exigidas relativamente aos ferries ro-ro ou às embarcações de passageiros
+      de alta velocidade
+    - Altera Artigo 11.º — Procedimentos relativos às vistorias específicas iniciais e regulares
+    - Altera Artigo 13.º — Medidas de acompanhamento
+    - Altera Artigo 17.º — Procedimento de alteração
+    - Altera Artigo 22.º — Destinatários
+    - Adita Artigo 16.º — Procedimento de comité
+    - Adita ANEXO I
+    - Adita REQUISITOS ESPECÍFICOS A SATISFAZER PELAS COMPANHIAS
+    - Adita a que se refere o n.º 1 do artigo 5.º e os artigos 6.º e 8.º
+    - Adita ANEXO II
+    - Adita LISTA DE INSTRUMENTOS COMUNITÁRIOS
+    - Adita referidos no n.º 1, alínea c), do artigo 10.º
+    - Adita ANEXO III
+    - Adita PROCEDIMENTOS PARA AS VISTORIAS ESPECÍFICAS
+    - Adita a que se refere os artigos 6.º e 8.º
+    - Adita ANEXO IV
+    - Adita ORIENTAÇÕES INDICATIVAS A SEGUIR PELOS INSPECTORES QUALIFICADOS AO EFECTUAREM VISTORIAS NÃO PROGRAMADAS DURANTE
+      UMA TRAVESSIA REGULAR
+    - Adita a que se refere o n.º 1 do artigo 8.º
+    - Adita 1. Informação sobre os passageiros
+    - Adita 2. Informação sobre o carregamento e a estabilidade
+    - Adita 3. Segurança para a navegação no mar
+    - Adita 4. Comunicações de segurança
+    - Adita 5. Entradas no diário de bordo
+    - Adita 6. Mercadorias perigosas
+    - Adita 7. Fixação dos veículos de mercadorias
+    - Adita 8. Pavimentos para veículos
+    - Adita 9. Encerramento das portas estanque
+    - Adita 10. Serviço de rondas
+    - Adita 11. Comunicações em situações de emergência
+    - Adita 12. Língua comum de trabalho dos membros da tripulação
+    - Adita 13. Equipamento de segurança
+    - Adita 14. Equipamento de navegação e radioeléctrico
+    - Adita 15. Iluminação de emergência suplementar
+    - Adita 16. Meios de evacuação
+    - Adita 17. Manual de operações
+    - Adita 18. Limpeza da casa das máquinas
+    - Adita 19. Eliminação do lixo
+    - Adita 20. Plano de manutenção
+  - date: '2009-06-17'
+    amending: eu:celex:32009L0018:por
+    amending_title: DIRECTIVA 2009/18/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 23 de
+      Abril de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Verificações iniciais exigidas relativamente aos ferries ro-ro ou às embarcações de passageiros
+      de alta velocidade
+    - Altera Artigo 16.º — Procedimento de comité
+    - Altera Notas
+    - Suprime Artigo 12.º — Investigação de acidentes
+  - date: '2019-12-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objectivo
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Âmbito de aplicação
+    - Suprime Artigo 4.º — Verificações iniciais exigidas relativamente aos ferries ro-ro ou às embarcações de passageiros
+      de alta velocidade
+    - Suprime Artigo 5.º — Verificações iniciais exigidas relativamente às companhias e aos Estados do pavilhão
+    - Suprime Artigo 6.º — Vistorias específicas iniciais
+    - Suprime Artigo 7.º — Disposições especiais
+    - Suprime Artigo 8.º — Vistorias específicas regulares e outras vistorias
+    - Suprime Artigo 9.º — Notificação
+    - Suprime Artigo 10.º — Impedimento de exploração
+    - Suprime Artigo 11.º — Procedimentos relativos às vistorias específicas iniciais e regulares
+    - Suprime Artigo 13.º — Medidas de acompanhamento
+    - Suprime Artigo 14.º — Cooperação entre Estados de acolhimento
+    - Suprime Artigo 15.º — Medidas de apoio
+    - Suprime Artigo 16.º — Procedimento de comité
+    - Suprime Artigo 17.º — Procedimento de alteração
+    - Suprime Artigo 18.º — Sanções
+    - Suprime Artigo 19.º — Aplicação
+    - Suprime Artigo 20.º — Avaliação da aplicação
+    - Suprime Artigo 21.º — Entrada em vigor
+    - Suprime Artigo 22.º — Destinatários
+    - Suprime ANEXO I
+    - Suprime REQUISITOS ESPECÍFICOS A SATISFAZER PELAS COMPANHIAS
+    - Suprime a que se refere o n.º 1 do artigo 5.º e os artigos 6.º e 8.º
+    - Suprime ANEXO II
+    - Suprime LISTA DE INSTRUMENTOS COMUNITÁRIOS
+    - Suprime referidos no n.º 1, alínea c), do artigo 10.º
+    - Suprime ANEXO III
+    - Suprime PROCEDIMENTOS PARA AS VISTORIAS ESPECÍFICAS
+    - Suprime a que se refere os artigos 6.º e 8.º
+    - Suprime ANEXO IV
+    - Suprime ORIENTAÇÕES INDICATIVAS A SEGUIR PELOS INSPECTORES QUALIFICADOS AO EFECTUAREM VISTORIAS NÃO PROGRAMADAS DURANTE
+      UMA TRAVESSIA REGULAR
+    - Suprime a que se refere o n.º 1 do artigo 8.º
+    - Suprime 1. Informação sobre os passageiros
+    - Suprime 2. Informação sobre o carregamento e a estabilidade
+    - Suprime 3. Segurança para a navegação no mar
+    - Suprime 4. Comunicações de segurança
+    - Suprime 5. Entradas no diário de bordo
+    - Suprime 6. Mercadorias perigosas
 identifiers:
   celex: 31999L0035
   eli: http://data.europa.eu/eli/dir/1999/35/oj
@@ -48,7 +162,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f0e72334-23dc-416c-9913-9f6ffc605463.0011
   content_url: http://publications.europa.eu/resource/cellar/c9e92d6a-176c-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0035-20191221
-  retrieved_at: '2026-10-22T02:44:48Z'
+  retrieved_at: '2026-10-22T14:47:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-17T12:30:15.975+02:00'
 integrity:
@@ -57,9 +171,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:48Z'
-  notes: Texto consolidado 01999L0035-20191221.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:44Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1999-35.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -152,16 +266,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:48Z'
+  checked_at: '2026-10-22T14:47:44Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01999L0035-20021129: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -34,6 +34,174 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-19'
+version_history:
+  file: diretiva-ue-1983-349.versoes.json
+  count: 7
+  source_lastmod: '2013-07-19'
+  versions:
+  - date: '1983-07-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-06-29'
+    amending: eu:celex:31989L0666:por
+    amending_title: DÉCIMA PRIMEIRA DIRECTIVA DO CONSELHO 89/666/CEE de 21 de Dezembro de 1989; DIRECTIVA DO CONSELHO 90/604/CEE
+      de de 8 de Novembro de 1990; DIRECTIVA DO CONSELHO 90/605/CEE de 8 de Novembro de 1990; DIRECTIVA 2001/65/CE DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 27 de Setembro de 2001; DIRECTIVA 2003/51/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante
+      para efeitos do EEE de 18 de Junho de 2003; DIRECTIVA 2006/43/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante
+      para efeitos do EEE de 17 de Maio de 2006; ►A1; Acto de Adesão da Áustria, da Finlândia e da Suécia; Acto relativo às
+      condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da
+      República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia
+      e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Adita preambulo
+    - Adita SECÇÃO 1
+    - Adita Condições de elaboração das contas consolidadas
+    - Adita Artigo 1º
+    - Adita Artigo 2º
+    - Adita Artigo 3º
+    - Adita Artigo 4º
+    - Adita Artigo 5º
+    - Adita Artigo 6º
+    - Adita Artigo 7º
+    - Adita Artigo 8º
+    - Adita Artigo 9º
+    - Adita Artigo 10º
+    - Adita Artigo 11º
+    - Adita Artigo 12º
+    - Adita Artigo 13º
+    - Adita Artigo 15º
+    - Adita SECÇÃO 2
+    - Adita Modos de elaboração das contas consolidadas
+    - Adita Artigo 16º
+    - Adita Artigo 17º
+    - Adita Artigo 18º
+    - Adita Artigo 19º
+    - Adita Artigo 20º
+    - Adita Artigo 21º
+    - Adita Artigo 22º
+    - Adita Artigo 23º
+    - Adita Artigo 24º
+    - Adita Artigo 25º
+    - Adita Artigo 26º
+    - Adita Artigo 27º
+    - Adita Artigo 28º
+    - Adita Artigo 29º
+    - Adita Artigo 30º
+    - Adita Artigo 31º
+    - Adita Artigo 32º
+    - Adita Artigo 33º
+    - Adita Artigo 34º
+    - Adita Artigo 35º
+    - Adita SECÇÃO 3
+  - date: '2006-09-05'
+    amending: eu:celex:32006L0046:por
+    amending_title: DIRECTIVA 2006/46/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14 de
+      Junho de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6º
+    - Altera Artigo 20º
+    - Altera Artigo 34º
+    - Altera Artigo 36º
+    - Altera Artigo 37.º
+    - Altera Artigo 41º
+    - Altera Notas
+    - Adita SECÇÃO 3-A
+    - Adita Obrigações e responsabilidades pela elaboração e publicação das contas consolidadas e do relatório anual consolidado
+    - Adita Artigo 36.º-A
+    - Adita Artigo 36.º-B
+    - Adita Artigo 48.º
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0099:por
+    amending_title: DIRECTIVA 2006/99/CE DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4º
+    - Altera Artigo 6º
+    - Altera Artigo 20º
+    - Altera Artigo 36º
+    - Altera Artigo 36.º-A
+    - Altera Artigo 37.º
+    - Altera Notas
+  - date: '2009-07-16'
+    amending: eu:celex:32009L0049:por
+    amending_title: DIRECTIVA 2009/49/CE DO PARLAMENTO EUROPEU E DO CONSELHO, Texto relevante para efeitos do EEE de 18 de
+      Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1º
+    - Altera Artigo 2º
+    - Altera Artigo 4º
+    - Altera Artigo 5º
+    - Altera Artigo 6º
+    - Altera Artigo 8º
+    - Altera Artigo 11º
+    - Altera Artigo 12º
+    - Altera Artigo 13º
+    - Altera Artigo 18º
+    - Altera Artigo 20º
+    - Altera Artigo 26º
+    - Altera Artigo 33º
+    - Altera Artigo 34º
+    - Altera Artigo 36º
+    - Altera Artigo 36.º-A
+    - Altera Artigo 37.º
+    - Altera Artigo 38º
+    - Altera Artigo 39º
+    - Altera Artigo 42º
+    - Altera Artigo 45º
+    - Altera Artigo 46º
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime SECÇÃO 1
+    - Suprime Condições de elaboração das contas consolidadas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 15º
+    - Suprime SECÇÃO 2
+    - Suprime Modos de elaboração das contas consolidadas
+    - Suprime Artigo 16º
+    - Suprime Artigo 17º
+    - Suprime Artigo 18º
+    - Suprime Artigo 19º
+    - Suprime Artigo 20º
+    - Suprime Artigo 21º
+    - Suprime Artigo 22º
+    - Suprime Artigo 23º
+    - Suprime Artigo 24º
+    - Suprime Artigo 25º
+    - Suprime Artigo 26º
+    - Suprime Artigo 27º
+    - Suprime Artigo 28º
+    - Suprime Artigo 29º
+    - Suprime Artigo 30º
+    - Suprime Artigo 31º
+    - Suprime Artigo 32º
+    - Suprime Artigo 33º
+    - Suprime Artigo 34º
+    - Suprime Artigo 35º
+    - Suprime SECÇÃO 3
+  - date: '2013-07-19'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
 identifiers:
   celex: 31983L0349
   eli: http://data.europa.eu/eli/dir/1983/349/oj
@@ -48,7 +216,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cd9d9fc0-c784-4aa2-8166-f3af95d75fb7.0011
   content_url: http://publications.europa.eu/resource/cellar/bf5a246a-24d5-439c-8970-fa9eb2b990ec.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01983L0349-20130719
-  retrieved_at: '2026-10-22T02:35:21Z'
+  retrieved_at: '2026-10-22T14:33:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T21:55:38.569+01:00'
 integrity:
@@ -57,9 +225,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:21Z'
-  notes: Texto consolidado 01983L0349-20130719.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:33:57Z'
+  notes: 7 versão(ões); histórico completo em diretiva-ue-1983-349.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -334,16 +502,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:21Z'
+  checked_at: '2026-10-22T14:33:57Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01983L0349-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983L0349-20011116: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983L0349-20030717: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01983L0349-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

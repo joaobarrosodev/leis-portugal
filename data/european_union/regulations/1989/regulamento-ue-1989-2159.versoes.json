@@ -1,0 +1,326 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989R2159:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989R2159-20020126",
+ "dre_path": null,
+ "source_lastmod": "2002-01-26",
+ "versions": [
+  {
+   "date": "1989-07-19",
+   "future": false,
+   "celex": "31989R2159",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8fc1103edd9449ac",
+    "1e40b9825a77d16d",
+    "e18c82b32f5c9c97",
+    "36676edc3f5f2811",
+    "e74b386b6dda6f54",
+    "3877d34e749c885f",
+    "70ae9833171e90c8",
+    "f413e87053d4dd54",
+    "ae039aabb14a6447",
+    "f3e995136a58ebdf",
+    "8989712ed23431ab",
+    "6ed393104f12661c",
+    "dba3f0fcbc93f982",
+    "0ae212c82799aeab",
+    "1c146ab2bdba3a61",
+    "76551f7eb423fd9d",
+    "956d38f4618de1c4",
+    "e1cd7efbc105dddd",
+    "440fc98ceb0e2ba3",
+    "a7eae46349ba6383",
+    "b2c185bfc14cf910",
+    "20d9837dd146735b",
+    "9028d9cceedf74fb",
+    "451b185d209c9f2f",
+    "e2f02f89cc9cab59",
+    "8bf3eeb50a7b2d64",
+    "b6eca8e4499ea865",
+    "8d4ff9b3075aafe5",
+    "4b466dbe8368aa3f",
+    "968d2d7a19733794",
+    "ae9dc000878ea3ea",
+    "a6fd02faae903d19",
+    "a7d98dc8f980bd3b",
+    "5082a15c10e48c11"
+   ]
+  }
+ ],
+ "fragments": {
+  "8fc1103edd9449ac": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2159/89 da Comissão, de 18 de Julho de 1989, que estabelece as regras de execução das medidas específicas para as frutas de casca rija e as alfarrobas previstas no título IIA do Regulamento (CEE) nº 1035/72 do Conselho** *Jornal Oficial nº L 207 de 19/07/1989 p. 0019 - 0034 Edição especial finlandesa: Capítulo 3 Fascículo 29 p. 0246 Edição especial sueca: Capítulo 3 Fascículo 29 p. 0246*\n\n*****\n\nREGULAMENTO (CEE) Nº 2159/89 DA COMISSÃO\n\nde 18 de Julho de 1989\n\nque estabelece as regras de execução das medidas específicas para as frutas de casca rija e as alfarrobas previstas no título IIA do Regulamento (CEE) nº 1035/72 do Conselho\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) nº 1035/72 do Conselho, de 18 de Maio de 1972, que estabelece a organização comum de mercado no sector das frutas e produtos hortícolas (1), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 1119/89 (2), e, nomeadamente, o seu artigo 14ºG,\n\nTendo em conta o Regulamento (CEE) nº 1676/85 do Conselho, de 11 de Junho de 1985, relativo ao valor da unidade de conta e às taxas de conversão a aplicar no âmbito da política agrícola comum (3), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 1636/87 (4), e, nomeadamente, o nº 3 do seu artigo 5º,\n\nConsiderando que o título IIA do Regulamento (CEE) nº 1035/72 contém diversas medidas específicas destinadas a obviar à inadaptação das condições de produção e de comercialização de determinadas frutas de casca rija e de alfarrobas; que as ajudas previstas são concedidas a organizações de produtores que tenham sido objecto de um reconhecimento específico e que tenham apresentado um plano de melhoria da qualidade bem como da comercialização aprovado pela autoridade nacional competente;\n\nConsiderando que é conveniente recordar que este reconhecimento específico não está subordinado a um reconhecimento anterior concedido em aplicação do artigo 13º do Regulamento (CEE) nº 1035/72; que é concedido independentemente deste último, desde que sejam observadas as condições especiais fixadas para a sua emissão;\n\nConsiderando que as condições fixadas para a concessão do reconhecimento devem apresentar garantias razoáveis de que as organizações de produtores beneficiárias das ajudas comunitárias contribuirão, através da amplitude e da duração da sua actividade e até mesmo através do seu modo de funcionamento, para a melhoria pretendida das condições de produção e de comercialização dos produtos em causa; que, a fim de garantir uma estabilidade mínima dessas organizações de produtores, é conveniente fixar os limites mínimos, em termos de números de aderentes e de volumes de produção de frutos de casca rija e de alfarrobas, em função das características das diversas regiões da Comunidade; que, com vista ao mesmo objectivo, é necessário exigir que essas organizações contenham nos seus estatutos cláusulas precisas que garantam aos produtores o domínio das decisões e o controlo do funcionamento da organização, bem como cláusulas que sancionem as infracções às regras aprovadas;\n\nConsiderando que, numa preocupação de eficácia e de boa gestão, para o financiamento dos planos de melhoria da qualidade bem como da comercialização, é conveniente limitar as contribuições do Estado-membro e da Comunidade ao financiamento de pomares especializados em frutas de casca rija e alfarrobas, com exclusão de plantações puramente marginais; que é mesmo necessário definir, por região de produção, uma superfície mínima de pomar especializado;\n\nConsiderando que é conveniente definir os tipos de acções que os projectos podem incluir para alcançar, em primeiro lugar, um objectivo de melhoria da qualidade de produção, em aplicação do artigo 14ºD do Regulamento (CEE) nº 1035/72; que, embora incumba à autoridade nacional aprovar os planos, uma concertação e cooperação administrativa com a Comissão, com o fim de salvaguardar os objectivos da regulamentação, deve permitir a esta última solicitar, se for caso disso, alterações ao projecto de plano e mesmo opor-se à concessão, tanto a nível nacional como comunitário, das contribuições financeiras;\n\nConsiderando que é conveniente precisar as acções tendentes a desenvolver e a melhorar o consumo e a utilização na Comunidade de frutas de casca rija e de alfarrobas a que a Comunidade dará uma contribuição financeira; que, tendo em vista este objectivo, os projectos submetidos devem apresentar garantias quanto à satisfação de um interesse comunitário e quanto à eficácia das acções e ao seu impacto, directo ou indirecto, no aumento do consumo e da utilização dos produtos; que devem emanar de organismos ou de agrupamentos profissionais que apresentem uma efectiva experiência técnica ou que sejam representativos dos sectores económicos interessados; que, sob reserva de derrogações concedidas pela Comissão, a execução ou o controlo directo dos trabalhos pelo organismo ou agrupamento que apresentou o plano pode garantir a seriedade do compromisso do co-contratante da Comissão; que é conveniente precisar que as diversas regras de execução dos compromissos serão objecto de um contrato;\n\nConsiderando que é conveniente adoptar determinadas regras gerais e de financiamento para as ajudas que serão tomadas a cargo pelo Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA), secção « Garantia », nas\n\ncondições previstas no título IIA do Regulamento (CEE) nº 1035/72; que é conveniente recordar que, em qualquer caso, a contribuição comunitária só pode ser paga pelo Estado-membro posteriormente ou, quando muito, em simultâneo com o pagamento da contribuição nacional, após a execução de verificações adequadas;\n\nConsiderando que é necessário prever que a ajuda para a realização do plano de melhoria da qualidade bem como da comercialização será paga anualmente em função dos trabalhos efectivamente executados em conformidade com o plano aprovado; que, a fim de ser expresso em moeda nacional, o montante máximo por hectare da ajuda fixado pelo Regulamento (CEE) nº 790/89 do Conselho (1), é convertido à taxa de conversão agrícola em vigor no primeiro dia de cada campanha de comercialização, em conformidade com o disposto no Regulamento (CEE) nº 1676/85;\n\nConsiderando que a execução das diversas medidas específicas em causa implica uma obrigação imperiosa para a organização de produtores beneficiária de transmitir informações pormenorizadas e precisas, de acordo com a periodicidade estabelecida, à autoridade designada pelo Estado-membro, a fim de permitir a esta última acompanhar a execução dos compromissos contraídos pela organização de produtores;\n\nConsiderando que a obrigação de informação a cargo do beneficiário da ajuda não pode por si só garantir uma boa gestão das medidas; que, consequentemente, é necessário precisar as verificações com base em documentos e os controlos no local que a autoridade nacional deve efectuar, em função das diferentes contribuições previstas no título IIA do regulamento atrás citado;\n\nConsiderando que as situações mais graves de não cumprimento das obrigações previstas no Regulamento (CEE) nº 1035/72 ou no presente regulamento devem ser sancionadas de modo adequado;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão das Frutas e Produtos Hortícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1e40b9825a77d16d": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. As organizações de produtores cuja actividade económica incida na produção e comercialização das frutas de casca rija e/ou das alfarrobas:\n\n- que tenham sido objecto de um reconhecimento específico nas condições definidas no título I,\n\n- e que tenham apresentado um plano de melhoria da qualidade bem como da comercialização em conformidade com o disposto no título II, aprovado pelo Estado-membro em causa,\n\nbeneficiarão das medidas específicas previstas no título IIA do Regulamento (CEE) nº 1035/72, de acordo com as regras dos títulos II, III e IV do presente regulamento.\n\n2. A contribuição da Comunidade para o financiamento de acções tendentes a desenvolver e a melhorar o consumo e a utilização dos produtos supracitados será efectuada nas condições definidas nos títulos IV e V."
+  },
+  "e18c82b32f5c9c97": {
+   "fragment_id": "TÍTULO I — Do reconhecimento específico das organizações de produtores de frutas de casca rija e/ou de alfarrobas",
+   "type": "divisao",
+   "heading": "TÍTULO I — Do reconhecimento específico das organizações de produtores de frutas de casca rija e/ou de alfarrobas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Do reconhecimento específico das organizações de produtores de frutas de casca rija e/ou de alfarrobas"
+  },
+  "36676edc3f5f2811": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nOs Estados-membros concederão o reconhecimento específico às organizações e agrupamentos de produtores - a seguir designados uniformemente « organizações de produtores » - cuja actividade económica incida na produção e na comercialização de frutas de casca rija e/ou de alfarroba:\n\n1. Constituídas por iniciativa dos próprios produtores com o fim de realizar, no sector das frutas de casca rija e das alfarrobas, os objectivos mencionados no nº 1, alínea a), do artigo 13º do Regulamento (CEE) nº 1035/72.\n\n2. Que incluam, relativamente aos seus membros, as obrigações enumeradas no presente artigo.\n\n3. Que coloquem à disposição dos aderentes os meios técnicos adaptados às operações preparatórias à venda, nomeadamente, de armazenagem e de acondicionamento, dos produtos em causa.\n\n4. Que incluam nos seus estatutos:\n\na) A obrigação para os produtores de realizar a venda da totalidade da sua produção de frutas de casca rija e/ou de alfarrobas do seus membros pela organização de produtores;\n\nb) Disposições tendentes a garantir aos produtores o controlo da organização de produtores e o domínio das decisões;\n\nc) Disposições tendentes a sancionar qualquer violação, pelos produtores associados, das regras estabelecidas pela organização de produtores;\n\nd) A obrigação para os produtores:\n\n- de aderir à organização de produtores durante um período mínimo de três anos,\n\n- de notificar a sua saída com uma antecedência de pelo menos doze meses;\n\ne) Disposições relativas às cotizações a cargo dos aderentes.\n\n5. Que justifiquem uma actividade económica suficiente que represente simultaneamente:\n\n- um número mínimo de produtores,\n\n- um volume mínimo de produção por produto e por região de produção (anexo I).\n\n6. Que se comprometam por escrito a apresentar o plano de melhoria da qualidade, bem como da comercialização, em conformidade com o título II.\n\n7. Que efectuem uma contabilidade separada para as actividades ligadas às frutas de casca rija e/ou às alfarrobas."
+  },
+  "e74b386b6dda6f54": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. As organizações de produtores apresentarão o seu pedido de reconhecimento específico à autoridade competente designada pelo Estado-membro, acompanhado do seu acto constitutivo e das informações enunciadas no anexo II.\n\n2. A autoridade competente certificar-se-á, através de um controlo baseado em documentos e de controlos no local, da veracidade das informações comunicadas. Em caso de dúvida, a autoridade competente procederá a todas as verificações adequadas para se certificar da observação das condições definidas no artigo 2º\n\n3. O reconhecimento específico será concedido no prazo de três meses a partir da entrega do pedido, sob reserva da possibilidade de um atraso justificado pela realização de inquéritos complementares.\n\n4. As organizações de produtores comunicarão, anualmente, antes de 1 de Novembro, à autoridade competente a actualização das informações referidas no anexo II."
+  },
+  "3877d34e749c885f": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nA autoridade competente certificar-se-á periodicamente e, pelo menos, de três em três anos, do correcto funcionamento das organizações de produtores reconhecidas em conformidade com o artigo 3º e da observância das condições exigidas para o reconhecimento.\n\nA autoridade competente procederá à retirada do reconhecimento específico sempre que se verificar, conforme o caso, que:\n\n- as obrigações exigidas para o reconhecimento não foram cumpridas,\n\n- as informações referidas no nº 4 do artigo 3º não foram transmitidas,\n\n- as informações transmitidas são fraudulentamente erradas."
+  },
+  "70ae9833171e90c8": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros em causa comunicarão anualmente à Comissão, o mais tardar em 31 de Dezembro:\n\n1. As listas das organizações de produtores de frutas de casca rija e/ou de alfarrobas que foram objecto de um reconhecimento específico.\n\n2. O formulário previsto no anexo II, relativamente a cada organização de produtores, devidamente preenchido."
+  },
+  "f413e87053d4dd54": {
+   "fragment_id": "TÍTULO II — Do plano de melhoria da qualidade bem como da comercialização",
+   "type": "divisao",
+   "heading": "TÍTULO II — Do plano de melhoria da qualidade bem como da comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Do plano de melhoria da qualidade bem como da comercialização"
+  },
+  "ae039aabb14a6447": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nPara efeitos do disposto no presente regulamento, entende-se por superfície de cultura homogénea, não disseminada, de frutas de casca rija e/ou alfarrobas, a seguir designada « pomar », uma plantação que não seja entrecortada por outras culturas ou outras plantações e que não seja geograficamente interrompida. Uma simples fila de árvores de frutas de casca rija e/ou de alfarrobas ao longo de um caminho ou de outras plantações não é considerada um pomar.\n\nO pomar tomado em consideração para a aplicação do presente título e para a concessão da contribuição financeira do Estado-membro e da Comunidade não pode ser inferior a uma superfície de 0,20 ha."
+  },
+  "f3e995136a58ebdf": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nO plano de melhoria da qualidade bem como da comercialização, a seguir denominado « o plano », que a organização de produtores se compromete a aplicar na totalidade ou em parte dos pomares dos aderentes incide num ou em diversos dos seguintes tipos de acção, tendo em vista a melhoria da produtividade a longo prazo:\n\n- arranque de árvores de frutas de casca rija e/ou de alfarrobas, seguido de uma nova plantação,\n\n- reconversão varietal,\n\n- melhoria das técnicas culturais, de condução e de poda dos pomares,\n\n- melhoramento genético e certificação, estímulo da polinização,\n\n- preparação fertilização e correcção dos solos,\n\n- concepção e execução da luta contra os depredadores,\n\n- colocação à disposição dos aderentes de uma assistência técnica de enquadramento e de gestão das culturas,\n\n- aquisição e colocação em funcionamento de equipamento de preparação para a comercialização, armazenagem, acondicionamento etc.,\n\n- assistência técnica à gestão comercial.\n\nAs acções que beneficiem de contribuições financeiras no quadro da regulamentação estrutural, não são consideradas elegíveis no âmbito do presente regulamento."
+  },
+  "8989712ed23431ab": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. A organização de produtores apresentará, para aprovação, à autoridade competente designada pelo Estado-membro, o projecto de plano, elaborado em conformidade com o anexo III e acompanhado de todos os documentos comprovativos.\n\nOs trabalhos de execução do plano não podem ser iniciados antes da sua aprovação pela autoridade nacional competente.\n\n2. A autoridade competente adoptará uma decisão relativamente ao projecto de plano apresentado, no prazo de cinco meses a contar da recepção do projecto. Os pedidos de modificação, previstos na alínea b) do nº 3, interrompem este prazo.\n\n(1) JO nº L 118 de 20. 5. 1972, p. 1.\n\n(2) JO nº L 118 de 29. 4. 1989, p. 12.\n\n(3) JO nº L 164 de 24. 6. 1985, p. 1.\n\n(4) JO nº L 153 de 13. 6. 1987, p. 1.\n\n(1) JO nº L 85 de 30. 3. 1989, p. 6.\n\nA autoridade competente certificar-se-á:\n\n- utilizando todos os meios úteis, incluindo os controlos no local, da exactidão das informações fornecidas relativamente ao estado e composição dos pomares dos membros da organização de produtores, no momento da apresentação do plano,\n\n- da conformidade do plano com o modelo do anexo III e com os objectivos do presente título,\n\n- da coerência económica, da qualidade técnica do projecto, do fundamento das estimativas e do plano de financiamento, bem como da programação da sua execução.\n\nA autoridade competente, antes do termo do segundo mês seguinte ao da recepção do projecto, comunicará à Comissão os planos que lhe parecem susceptíveis de serem aprovados em aplicação do artigo 14ºD do Regulamento (CEE) nº 1035/72, acompanhado de uma apreciação geral sobre a observância dos critérios mencionados no terceiro travessão do parágrafo precedente.\n\nSe for caso disso, no prazo de sessenta dias após recepção dessa comunicação, a Comissão transmitirá à autoridade competente um pedido de rejeição ou um pedido de alteração do plano.\n\n3. A autoridade competente, conforme o caso:\n\na) Aprovará o plano que estiver em conformidade com o disposto no artigo 14ºD do Regulamento (CEE) nº 1035/72 e no presente título;\n\nb) Solicitará, por sua própria iniciativa ou a pedido da Comissão, a introdução de alterações no projecto. A aprovação só pode ser concedida a um projecto que tenha incorporado as alterações solicitadas;\n\nc) Rejeitará o plano, por sua própria iniciativa ou a pedido da Comissão.\n\n4. Em caso de alteração do plano, justificada por razões técnicas ou devido à vontade de alargar a superfície abrangida pelo plano, nomeadamente no seguimento do aumento do número de produtores aderentes, a autoridade competente toma uma decisão de acordo com as disposições do presente artigo. Contudo, o prazo de execução do plano modificado não pode ultrapassar o período inicialmente previsto.\n\n5. No decurso da execução do plano, a autoridade competente certificar-se-á periodicamente, por meio de relatórios que lhe serão enviados anualmente pelas organizações de produtores em causa e por meio de controlos no local, do estado da execução dos planos aprovados e da conformidade das realizações nos planos técnico e financeiro, bem como da exactidão dos documentos comprovativos apresentados.\n\nCada plano deve ser sujeito a, no mínimo, dois controlos no local durante o período da sua execução."
+  },
+  "6ed393104f12661c": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nA autoridade competente enviará anualmente à Comissão, o mais tardar em 31 de Dezembro, um relatório sobre o estado da realização dos planos aprovados e sobre os resultados dos controlos efectuados e comunicar-lhe-á todas as informações úteis em caso de dificuldades de execução que sejam de natureza a comprometer a boa realização dos compromissos subscritos pelas organizações de produtores."
+  },
+  "dba3f0fcbc93f982": {
+   "fragment_id": "TÍTULO III — Das ajudas à constituição das organizações de produtores e à criação de um fundo de maneio Artigo 10º",
+   "type": "divisao",
+   "heading": "TÍTULO III — Das ajudas à constituição das organizações de produtores e à criação de um fundo de maneio Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Das ajudas à constituição das organizações de produtores e à criação de um fundo de maneio Artigo 10º\n\nPara o cálculo de ajuda suplementar forfetária à constituição das organizações de produtores, prevista no artigo 14ºB do Regulamento (CEE) nº 1035/72:\n\n1. As quantidades a tomar em consideração são as que referem aos produtos com casca; para as alfarrobas, essas quantidades referem-se aos produtos em vagem.\n\n2. As quantidades comercializadas referem-se às quantidades efectivamente vendidas durante a primeira campanha de comercialização subsequente à data do reconhecimento específico."
+  },
+  "0ae212c82799aeab": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nCom vista a beneficiar da ajuda específica para a criação do fundo de maneio prevista no artigo 14ºC do Regulamento (CEE) nº 1035/72, as organizações de produtores comunicarão à autoridade competente:\n\n1. A estrutura do capital do fundo de maneio bem como as provas da contribuição da organização para o referido capital.\n\n2. As modalidades de alimentação do fundo de maneio, destinadas a assegurar o seu funcionamento regular com vista à realização dos objectivos definidos no nº 2 do artigo 14ºC; esta prova pode ser efectuada, nomeadamente, através de extractos de uma conta bancária separada.\n\n3. Os documentos comprovativos que certifiquem o valor da produção comercializada:\n\n- no decurso da primeira campanha de comercialização que segue a data do pedido de reconhecimento específico,\n\n- ou, se for caso disso, no decurso de uma outra campanha posterior ao reconhecimento.\n\nO valor da produção comercializada é determinada com base:\n\n- no volume anual efectivamente vendido durante a campanha,\n\n- nos preços médios no produtor obtidos nesta mesma campanha."
+  },
+  "1c146ab2bdba3a61": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nA autoridade competente certificar-se-á, durante as três campanhas subsequentes ao pagamento da ajuda, efectuado em conformidade com o artigo 18º:\n\n- que o fundo funcionou e foi aprovisionado em conformidade com a comunicação efectuada em aplicação do nº 2 do artigo 1º, - que no início da cada campanha o fundo è reconstituído. Para efeitos de apreciação do respeito desta obrigação, pode ser tido em consideração o valor das existências dos produtos.\n\nPara efeitos de controlo, a organização de produtores terá sempre à disposição da autoridade competente os extractos bancários e os documentos comprovativos que certifiquem as operações efectuadas em relação com o funcionamento do fundo."
+  },
+  "76551f7eb423fd9d": {
+   "fragment_id": "TÍTULO IV — Das acções de promoção",
+   "type": "divisao",
+   "heading": "TÍTULO IV — Das acções de promoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Das acções de promoção"
+  },
+  "956d38f4618de1c4": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. As acções tendentes a desenvolver e a melhorar o consumo e a utilização na Comunidade de frutas de casca rija e/ou alfarrobas, previstas no artigo 14ºE do Regulamento (CEE) nº 1035/72, apresentam-se sob qualquer das seguintes formas:\n\n- estudos de mercado,\n\n- investigação de novos escoamentos,\n\n- estudos económicos de concepção das embalagens e do acondicionamento,\n\n- organização de contactos entre os diferentes operadores económicos,\n\n- organização e participação em feiras e outras manifestações comerciais,\n\n- acções de promoção, com exclusão das campanhas publicitárias,\n\n- inquéritos e acções-teste de consumo,\n\n- publicações especializadas,\n\n- estudos nutricionais e dietéticos.\n\n2. Para beneficiarem do financiamento da Comunidade, as acções propostas devem:\n\n- salientar de modo especial a origem comunitária dos produtos,\n\n- abranger um apreciável campo de acção, no que respeita à situação do mercado e à sua evolução,\n\n- oferecer garantias relativamente à sua efectiva realização,\n\n- ser apresentadas quer por um organismo que possua uma experiência técnica específica confirmada, quer por uma associação ou agrupamento representativo dos diferentes sectores profissionais ou das actividades económicas interessadas na Comunidade. As acções serão propostas por organismos, associações ou agrupamentos cuja sede se encontre na Comunidade.\n\nAs acções orientadas em função de marcas comerciais e as acções que façam referência a um país ou a uma região de produção determinada não serão tomadas em consideração."
+  },
+  "e1cd7efbc105dddd": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nSalvo derrogação concedida pela Comissão, as acções devem ser realizadas pelo organismo, associação ou agrupamento que apresentou o projecto.\n\nAs acções só podem ser tomadas em consideração a título do presente regulamento se a sua realização tiver início posteriormente à aceitação do projecto pela Comissão.\n\nAs despesas gerais relacionadas com as acções apenas serão tomadas a cargo no limite da percentagem fixada no contrato celebrado com a Comissão."
+  },
+  "440fc98ceb0e2ba3": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\n1. Os projectos de acções serão apresentados à Comissão anualmente, o mais tardar em 31 de Dezembro, em dois exemplares.\n\n2. Os projectos conterão pelo menos os seguintes dados:\n\na) O título do projecto, isto é, a referência à acção ou às acções mencionadas no artigo 13º que se pretende executar;\n\nb) Designação ou firma da entidade que apresenta o projecto;\n\nc) Uma apresentação do projecto que inclua, numa forma sucinta, uma introdução onde sejam expostos os objectivos, claramente definidos (diagnóstico, fins pretendidos, estratégia a seguir, etc.):\n\n- os resultados pretendidos, em especial no que se refere ao esperado impacto directo ou indirecto na comercialização e no consumo dos produtos,\n\n- as sucessivas fases de realização e o calendário de execução;\n\nd) O custo, sem impostos, do projecto, expresso em ecus, apresentado para essa ou essas acções, com indicação da repartição deste montante por rubricas (comprovado, se for caso disso, com base em orçamentos comparativos) e do correspondente plano de financiamento;\n\ne) Se for caso disso, o último relatório de actividade disponível do organismo, associação ou dos agrupamentos interessados.\n\n3. A Comissão informará, antes de 1 de Junho do ano seguinte, o organismo, a associação ou o agrupamento interessado do seguimento dado à sua proposta. A Comissão celebrará os contratos relativos às acções referidas no artigo 14º com os interessados cujas propostas forem seleccionadas."
+  },
+  "a7eae46349ba6383": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\n1. A pedido do beneficiário, é adiantada uma prestação, podendo ir até 50 % da contribuição comunitária ao custo do projecto, a partir do quarto mês que segue a assinatura do contrato indicado no artigo 14º, mediante a apresentação dos documentos comprovativos apropriados. O pagamento da prestação está sujeito à constituição de uma garantia de um montante equivalente, a favor da Comissão. A liberação da garantia só pode intervir com o acordo da Comissão. 2. O pagamento do saldo da contribuição comunitária é subordinado à boa execução do contrato e à apresentação, o mais tardar três meses após o termo da execução do projecto, de um relatório de avaliação dos resultados da acção ou das acções elaborado pelo beneficiário."
+  },
+  "b2c185bfc14cf910": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nO beneficiário da contribuição apresentará à Comissão, por sua própria iniciativa ou a pedido, todas as informações sobre a execução do projecto e submeter-se-á a qualquer verificação e controlo efectuado pela Comissão."
+  },
+  "20d9837dd146735b": {
+   "fragment_id": "TÍTULO V — Disposições gerais e de financiamento",
+   "type": "divisao",
+   "heading": "TÍTULO V — Disposições gerais e de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — Disposições gerais e de financiamento"
+  },
+  "9028d9cceedf74fb": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\nO montante da ajuda específica para a constituição de um fundo de maneio, incluindo simultaneamente a contribuição do Estado-membro e a ajuda comunitária, será paga pela autoridade nacional competente às organizações de produtores no prazo máximo de três meses subsequentes ao pedido de ajuda, após verificação da observância do disposto no artigo 11º"
+  },
+  "451b185d209c9f2f": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\nA fim de receberem a ajuda comunitária relativa ao plano de melhoria da qualidade bem como da comercialização, as organizações de produtores beneficiárias apresentarão, no termo de cada período de referência, um pedido de ajuda à autoridade nacional competente.\n\nPor período de referência entende-se cada período anual de execução do plano a contar da data de aniversário da aprovação deste último.\n\nOs pedidos de ajuda serão apresentados em conformidade com o anexo IV, nos dois meses subsequentes à data de aniversário da aprovação do plano, acompanhados das facturas e de qualquer outro documento comprovativo dos trabalhos executados."
+  },
+  "e2f02f89cc9cab59": {
+   "fragment_id": "Artigo 20º",
+   "type": "artigo",
+   "heading": "Artigo 20º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º\n\nAs autoridades competentes dos Estados-membros, após verificação dos pedidos de ajuda e dos respectivos documentos comprovativos, pagarão anualmente, nos dois meses subsequentes à entrega do pedido de ajuda, a contribuição do Estado-membro e a ajuda comunitária determinadas em conformidade com o nº 2 do artigo 14ºD do Regulamento (CEE) nº 1035/72."
+  },
+  "8bf3eeb50a7b2d64": {
+   "fragment_id": "Artigo 21º",
+   "type": "artigo",
+   "heading": "Artigo 21º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21º\n\nA taxa a aplicar para a conversão em moeda nacional do montante máximo por hectare da ajuda previsto no artigo 2º do Regulamento (CEE) nº 790/89 será, em cada ano, a taxa de conversão agrícola em vigor no primeiro dia da campanha de comercialização que se inicia durante o período de referência."
+  },
+  "b6eca8e4499ea865": {
+   "fragment_id": "Artigo 22º",
+   "type": "artigo",
+   "heading": "Artigo 22º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22º\n\n1. No caso de uma ajuda ter sido indevidamente paga, e salvo caso de força maior, os Estados-membros procederão à recuperação dos montantes pagos, acrescidos de juros contados a partir da data do pagamento da ajuda até à sua cobrança efectiva. A taxa de juro aplicada é a que se encontra em vigor para operações de recuperação análogas no âmbito do direito nacional.\n\nOs Estados-membros procederão à recuperação de todas as ajudas pagas em aplicação do título IIA do Regulamento (CEE) nº 1035/72 a organizações de produtores que cessaram a sua actividade antes do termo do terceiro ano subsequente à data de reconhecimento específico referida no título I do presente regulamento, ou a organizações de produtores cujo reconhecimento específico tiver sido retirado em aplicação do artigo 4º\n\n2. A ajuda recuperada é paga aos organismos ou serviços pagadores e por estes deduzida das despesas financiadas pelo Fundo Europeu de Orientação e de Garantia Agrícola, proporcionalmente ao financiamento comunitário.\n\n3. As consequências financeiras resultantes da impossibilidade de recuperar as importâncias pagas, serão suportadas pela Comunidade na proporção do financiamento comunitário."
+  },
+  "8d4ff9b3075aafe5": {
+   "fragment_id": "Artigo 23º",
+   "type": "artigo",
+   "heading": "Artigo 23º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23º\n\nOs Estados-membros adoptarão as medidas necessárias para sancionar as infracções graves aos compromissos e às obrigações decorrentes do título IIA do Regulamento (CEE) nº 1035/72 e do presente regulamento."
+  },
+  "4b466dbe8368aa3f": {
+   "fragment_id": "TÍTULO VI — Disposição final",
+   "type": "divisao",
+   "heading": "TÍTULO VI — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI — Disposição final"
+  },
+  "968d2d7a19733794": {
+   "fragment_id": "Artigo 24º",
+   "type": "artigo",
+   "heading": "Artigo 24º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 18 de Julho de 1989.\n\nPela Comissão\n\nRay MAC SHARRY\n\nMembro da Comissão"
+  },
+  "ae9dc000878ea3ea": {
+   "fragment_id": "ANEXO I — ELEMENTOS MÍNIMOS REPRESENTATIVOS DA ACTIVIDADE ECONÓMICA INDICADOS NO Nº 5 DO ARTIGO 2º",
+   "type": "divisao",
+   "heading": "ANEXO I — ELEMENTOS MÍNIMOS REPRESENTATIVOS DA ACTIVIDADE ECONÓMICA INDICADOS NO Nº 5 DO ARTIGO 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — ELEMENTOS MÍNIMOS REPRESENTATIVOS DA ACTIVIDADE ECONÓMICA INDICADOS NO Nº 5 DO ARTIGO 2º\n\n1.2.3,4.5 // // // // // Código NC // Produtos // Organizações de produtores // Regiões 1.2.3.4.5 // // // Número mínimo de aderentes // Volume mínimo de produção (1) // // // // // // // // // // // // 0802 11 // Amêndoas // // // França: // // // 10 // 100 toneladas // todas as regiões // // // // // Espanha: // // // 50 // 1 000 toneladas // - regiões de montanha e desfavorecidas (2) e regiões insulares // // // 50 // 2 000 toneladas // - outras // // // // // Portugal: // // // 10 // 150 toneladas // todas as regiões // // // // // Grécia: // // // 30 // 50 toneladas // todas as regiões // // // // // Itália: // // // 40 // 3 000 toneladas // - Sicília // // // 40 // 2 500 toneladas // - Púlia // // // 30 // 1 000 toneladas // - Sardenha e outras regiões // // // 10 // 50 toneladas // Outros Estados-membros // // // // // // 0802 21 00 // Avelãs // // // França: // // // 100 // 1 000 toneladas // todas as regiões // // // // // Espanha: // // // 50 // 1 000 toneladas // - regiões de montanha e desfavorecidas (2) e regiões insulares // // // 50 // 2 000 toneladas // - outras // // // // // Portugal: // // // 10 // 50 toneladas // todas as regiões // // // // // Grécia: // // // 30 // 40 toneladas // todas as regiões // // // // // Itália: // // // 30 // 1 000 toneladas // - Sicília // // // 40 // 3 000 toneladas // - Campânia // // // 40 // 2 500 toneladas // - Lácio // // // 30 // 1 000 toneladas // - Piemonte e outras regiões // // // 10 // 40 toneladas // Outros Estados-membros // // // // // // 0802 31 00 // Nozes // // // França: // // // 25 // 250 toneladas // todas as regiões // // // // // Espanha: // // // 25 // 250 toneladas // - regiões de montanha e desfavorecidas (2) e regiões insulares // // // 25 // 500 toneladas // - outras // // // // // Portugal: // // // 10 // 50 toneladas // todas as regiões // // // // // Luxemburgo: // // // 5 // 10 toneladas // todas as regiões // // // // // Grécia: // // // 40 // 15 toneladas // todas as regiões // // // // // Itália: // // // 30 // 2 000 toneladas // todas as regiões // // // 5 // 10 toneladas // Outros Estados-membros // // // // // 1.2.3,4.5 // // // // // Código NC // Produtos // Organizações de produtores // Regiões 1.2.3.4.5 // // // Número mínimo de aderentes // Volume mínimo de produção (1) // // // // // // // // 0802 50 00 // Pistácios // // // Grécia: // // // 30 // 25 toneladas // todas as regiões // // // // // Itália: // // // 20 // 150 toneladas // todas as regiões // // // 20 // 25 toneladas // Outros Estados-membros // // // // // // 1212 10 10 // Alfarrobas // // // Espanha: // // // 50 // 1 000 toneladas // - regiões de montanha e desfavorecidas (2) e regiões insulares // // // 50 // 2 000 toneladas // - outras // // // // // Portugal: // // // 25 // 100 toneladas // todas as regiões // // // // // Grécia: // // // 50 // 25 toneladas // todas as regiões // // // // // Itália: // // // 20 // 500 toneladas // todas as regiões // // // 20 // 25 toneladas // Outros Estados-membros // // // // //\n\n(1) Se a organização de produtores abrange diferentes frutas de casca rija e/ou alfarrobas, o volume mínimo de produção a respeitar é a soma dos volumes mínimos previstos para os produtos em questão na região em causa.\n\n(2) No sentido da Directiva 86/466/CEE do Conselho, de 14 de Julho de 1986, relativa à lista comunitária das zonas agrícolas desfavorecidas no sentido da Directiva 75/268/CEE (Espanha) - JO nº L 273 de 24. 9. 1986, p. 104."
+  },
+  "a6fd02faae903d19": {
+   "fragment_id": "ANEXO II — FICHA RESPEITANTE ÀS ORGANIZAÇÕES DE PRODUTORES",
+   "type": "divisao",
+   "heading": "ANEXO II — FICHA RESPEITANTE ÀS ORGANIZAÇÕES DE PRODUTORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — FICHA RESPEITANTE ÀS ORGANIZAÇÕES DE PRODUTORES\n\n1.2 // // Estado-membro: // // Ano: // Os dados seguintes referem-se à // Campanha:\n\n1. Designação ou firma:\n\n2. Forma jurídica:\n\n3. Estatuto (anexar uma cópia)\n\n4. Endereço (Rua, nº, local, telefone, telex)\n\n- da sede administrativa:\n\n- da sede comercial:\n\n5. Extensão territorial:\n\n6. Número de aderentes:\n\n- número de produtores:\n\n- número de aderentes não produtores (se for caso disso):\n\n7. Ficheiro de aderentes\n\nAnexar, em relação a cada aderente, os seguintes dados:\n\n- apelido, nome próprio,\n\n- número de parcelas ocupadas com culturas de frutas de casca rija e/ou de alfarrobas e respectivos números de inscrição,\n\n- superfície irrigada e não irrigada das plantações de amêndoas, avelãs, nozes, pistácios e/ou alfarrobas,\n\n- produção colhida, discriminada por espécies,\n\n- rendimento obtido por hectare irrigado e não irrigado, discriminado por espécies.\n\n8. Financiamento a cargo dos aderentes:\n\nCotizações Outro modo de financiamento\n\nAquando da adesão\n\nAnualmente:\n\na) A título do fundo de maneio:\n\n- montante forfetário\n\n- percentagem\n\nb) Outros fins (indicar quais):\n\n- montante forfetário\n\n- percentagem 9. Regras estabelecidas pela organização de produtores:\n\n- regras para o conhecimento da produção: SIM NÃO\n\n- regras de produção:\n\n- regras de comercialização\n\n(anexar uma cópia dessas regras)\n\n10. Meios técnicos colocados à disposição dos aderentes:\n\nA. Estação de preparação e de acondicionamento: SIM NÃO\n\nBreve descrição da instalação (componentes, superfícies cobertas, etc.):\n\nB. Equipamentos instalados:\n\n1.2.3.4.5 // - de armazenagem frigorífica: // SIM // NÃO // // // // // // capacidade: // m3 ou t // - de selecção: // SIM // NÃO // débito: // t/h // - de quebra: // SIM // NÃO // débito: // t/h // - de secagem: // SIM // NÃO // débito: // t/h 1,4.5 // - outros (indicar quais): // 1,3.4.5 // // débito: // t/h\n\n11. Pessoal encarregado:\n\n- da administração:\n\n- da gestão:\n\n- da preparação, acondicionamento, armazenagem:\n\n- da assistência técnica:\n\n- outras actividades:\n\n12. Superfície dos pomares para o conjunto dos aderentes:\n\n1.2,3 // // // Produtos // Superfície (ha) // 1.2.3 // // irrigada // não irrigada // // // // Frutas de casca rija: // // // - amêndoas // // // - nozes // // // - avelãs // // // - pistácios // // // - outros (1) // // // // // // alfarrobas // // // // // // outras frutas e produtos hortícolas (1) // // // // // 1,4 // (1) Facultativo. //\n\n13. Balanço da comercialização durante a campanha precedente (1) (2)\n\n1.2.3.4.5.6.7 // // // // // // // // Produtos // Produção recolhida (t) // Existências não vendidas (t) // Perdas (t) // Produção comercializada (t) // Preço médio obtido (moeda nacional/t) // Valor da produção comercializada // // // // // // // // Amêndoas // // // // // // // Avelãs // // // // // // // Nozes // // // // // // // Pistácios // // // // // // // Alfarrobas // // // // // // // Total\n\n// // // // // // // // // // // // // 14. Resultado da conta de exploração da última campanha:\n\n15. Capital do fundo de maneio (2):\n\n1.2 // a) Inicialmente constituído: // (moeda nacional)\n\nb) Para as organizações já reconhecidas:\n\n1.2 // - fundos próprios: // (moeda nacional) // - fundos públicos: // (moeda nacional) // Total:\n\n// 16. Plano de melhoria da qualidade bem como da comercialização:\n\na) Data da apresentação (2):\n\nData da aprovação (2):\n\nData do início da execução:\n\nb) Breve descrição das acções previstas, propostas, em execução (riscar as menções inúteis):\n\n- reconversão varietal:\n\n- melhoria da comercialização:\n\nA preencher pelo Estado-membro\n\n17. RECONHECIMENTO - A título do artigo 13º do Regulamento (CEE) nº 1035/72, para as frutas de casca rija e/ou as alfarrobas (após 20. 3. 1989)\n\n- A título do artigo 5º do Regulamento (CEE) nº 1360/78, para as alfarrobas (antes de 20. 3. 1989)\n\nData: Número da decisão:\n\nPublicação no: em:\n\n18. RECONHECIMENTO ESPECÍFICO A TÍTULO DO ARTIGO 14ºB DO REGULAMENTO (CEE) Nº 1035/72\n\nData: Número da decisão:\n\nPublicação no: em:\n\n19. AJUDA SUPLEMENTAR FORFETÁRIA CONCEDIDA (se for caso disso)\n\n- montante da ajuda:\n\n- data da concessão:\n\n20. RETIRADA DO RECONHECIMENTO ESPECÍFICO\n\nData: Número da decisão:\n\nPublicação no: em:\n\n21. CONTROLOS EFECTUADOS\n\n1.2 // Data: // // Objecto: // // // // Observações: // // // // // // //\n\n(1) Para os produtos com casca.\n\n(2) Se for caso disso."
+  },
+  "a7d98dc8f980bd3b": {
+   "fragment_id": "ANEXO III — DESCRIÇÃO DO PLANO DE MELHORIA DA QUALIDADE BEM COMO DA COMERCIALIZAÇÃO PREVISTA NO Nº 1 DO ARTIGO 8º",
+   "type": "divisao",
+   "heading": "ANEXO III — DESCRIÇÃO DO PLANO DE MELHORIA DA QUALIDADE BEM COMO DA COMERCIALIZAÇÃO PREVISTA NO Nº 1 DO ARTIGO 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — DESCRIÇÃO DO PLANO DE MELHORIA DA QUALIDADE BEM COMO DA COMERCIALIZAÇÃO PREVISTA NO Nº 1 DO ARTIGO 8º\n\nA. Delimitação da área geográfica em questão\n\nB. Descrição da situação de partida no que se refere:\n\n1. À produção:\n\n- número de explorações, superfície cultivada, rendimento por hectare, volume de produção colhida e sua importância em relação à produção nacional. Estes dados devem ser discriminados por espécies de frutas de casca rija e/ou alfarrobas,\n\n- estado dos pomares (idade, densidade, poda e porta-enxertos, existência de outras árvores de fruta, etc.),\n\n- infra-estruturas técnicas das explorações.\n\n2. À assistência técnica\n\n3. À comercialização:\n\nBreve descrição das instalações, dos equipamentos e das capacidades existentes.\n\nC. Potencial da produção - objectivos e perspectivas dos mercados\n\nD. Objectivos prosseguidos pelo plano no que se refere:\n\n1. Aos meios de produção:\n\n- reestruturação e/ou reconversão dos pomares (replantação de novas variedades ou substituição por outras árvores de frutas de casca rija e/ou de alfarrobas),\n\n- técnicas culturais (sistemas de condução e de poda, renovação das árvores, densidade, escolha varietal, escolha dos porta-enxertos, etc.),\n\n- melhoramento genético (investigação de novos híbridos),\n\n- adaptação de novas variedades (pomares experimentais que permitam estudar o seu comportamento e rendimento),\n\n- obtenção de material certificado (viveiros e pomares produtores de enxertos destinados aos trabalhos de selecção e de clonagem),\n\n- luta contra os depredadores,\n\n- polinização,\n\n- preparação, fertilização e correcção dos solos, análises pedológicas, correcção da nutrição e da fertilização, manutenção dos solos, etc.).\n\n2. À assistência técnica (as necessidades de pessoal ligadas à produção, formação e gestão comercial e administrativa).\n\n3. À comercialização (aquisição de equipamentos necessários à preparação comercial, ao acondicionamento, à armazenagem, à informatização e à gestão das existências).\n\nE. Investimentos necessários:\n\n1. Custo global do plano e discriminação por acção prevista.\n\n2. Custo previsional, discriminado por cada ano de execução.\n\nF. Prazos de execução previsíveis e escalonamento anual da execução (num período máximo de 10 anos)"
+  },
+  "5082a15c10e48c11": {
+   "fragment_id": "ANEXO IV — PEDIDO DE AJUDA PREVISTO NO ARTIGO 19º",
+   "type": "divisao",
+   "heading": "ANEXO IV — PEDIDO DE AJUDA PREVISTO NO ARTIGO 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — PEDIDO DE AJUDA PREVISTO NO ARTIGO 19º\n\nDesignação ou firma da organização de produtores:\n\nEndereço administrativo:\n\n(rua, nº, local, telefone, telex):\n\nBanco e número de conta em que a ajuda deve ser paga:\n\nReconhecimento específico a título do artigo 14ºB do Regulamento (CEE) nº 1035/72:\n\nData: Número da decisão:\n\nSuperfície total da exploração:\n\nPeríodo de referência: de:\n\na:\n\nLISTA DOS TRABALHOS EFECTUADOS DURANTE O PERÍODO\n\n1,2.3 // // // Tipo de acção e documentos comprovativos apresentados em anexo // Montante // // // // // A. Arranque de árvores de frutas de casca rija e/ou de alfarrobas, seguido de uma nova plantação: // 1.2.3 // 1. Factura nº: // de: // // 2. Factura nº: // de: // // 3. Factura nº: // de: // // 4. Factura nº: // de: // 1,2.3 // B. Reconversão varietal: // 1.2.3 // 1. Factura nº: // de: // // 2. Factura nº: // de: // // 3. Factura nº: // de: // // 4. Factura nº: // de: // 1,2.3 // C. Melhoria das técnicas culturais, de condução e de poda dos pomares: // 1.2.3 // 1. Factura nº: // de: // // 2. Factura nº: // de: // // 3. Factura nº: // de: // // 4. Factura nº: // de: // 1,2.3 // D. Melhoramento genético e certificação, estímulo da polinização pelas abelhas: // 1.2.3 // 1. Factura nº: // de: // // 2. Factura nº: // de: // // 3. Factura nº: // de: // // 4. Factura nº: // de: // 1,2.3 // E. Preparação, fertilização e correcção dos solos: // 1.2.3 // 1. Factura nº: // de: // // 2. Factura nº: // de: // // 3. Factura nº: // de: // // 4. Factura nº: // de: // 1,2.3 // // // a transportar // // // // // // Tipo de acção e documentos comprovativos apresentados em anexo // Montante // // // // transporte // // F. Luta contra os depredadores: // 1.2.3 // 1. Factura nº: // de: // // 2. Factura nº: // de: // // 3. Factura nº: // de: // // 4. Factura nº: // de: // 1,2.3 // G. Colocação à disposição de uma assistência técnica de enquadramento e de gestão das culturas: // 1.2.3 // 1. Factura nº: // de: // // 2. Factura nº: // de: // // 3. Factura nº: // de: // // 4. Factura nº: // de: // 1,2.3 // H. Aquisição e colocação em funcionamento de equipamentos de preparação para a comercialização, armazenagem, acondicionamento, etc.: // 1.2.3 // 1. Factura nº: // de: // // 2. Factura nº: // de: // // 3. Factura nº: // de: // // 4. Factura nº: // de: //\n\n1,2.3 // I. Assistência técnica à gestão comercial: // 1.2.3 // 1. Factura nº: // de: // // 2. Factura nº: // de: // // 3. Factura nº: // de: // // 4. Factura nº: // de: // 1,2.3 // // // Total das despesas relativas ao plano de melhoria relativamente ao período de referência: // // // 1,2.3 // // // A preencher pelo Estado-membro // // Pedido recebido em // // // // A. DESPESAS ELEGÍVEIS // Montante // 1. Total da despesa declarada: // // 2. Total dos montantes não elegíveis no plano: // // 3. (1 - 2) Despesa a tomar em consideração: // // 4. (3 × 0,55) Despesa elegível: // // // // B. MONTANTE MÁXIMO ADMITIDO // 1.2.3 // 1. Ecus: // // // 2. Taxa de 1. 9. 19..: // // // 3. Superfície total: // // 1,2.3 // 4. (1 × 2 × 3) Montante total elegível: // // // // C. MONTANTE A PAGAR: // // //\n\nPago em:"
+  }
+ }
+}

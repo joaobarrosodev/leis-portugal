@@ -34,6 +34,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-01'
+version_history:
+  file: decisao-ue-1977-527.versoes.json
+  count: 1
+  source_lastmod: '2007-01-01'
+  versions:
+  - date: '2007-01-01'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31977D0527
   eli: http://data.europa.eu/eli/dec/1977/527/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ff696251-4919-42b9-836a-69a4f884ed4f.0011
   content_url: http://publications.europa.eu/resource/cellar/303cb125-336b-4e4e-a1ca-51f7b6ffabef.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977D0527-20070101
-  retrieved_at: '2026-10-22T03:02:49Z'
+  retrieved_at: '2026-10-22T14:32:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-27T11:21:57.656+02:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:02:49Z'
-  notes: Texto consolidado 01977D0527-20070101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:32:03Z'
+  notes: 1 versão(ões); histórico completo em decisao-ue-1977-527.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -104,36 +113,23 @@ relationships:
   date: '1977-11-10'
 article_structure:
   article_count: 2
-  section_count: 28
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 29
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:02:49Z'
-  warnings: []
+  checked_at: '2026-10-22T14:32:03Z'
+  warnings:
+  - '01977D0527-19770817: versão indisponível (Sem expressão na língua por para CELEX 01977D0527-19770817.)'
+  - '01977D0527-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977D0527-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977D0527-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # 77/527/CEE: Decisão da Comissão, de 29 de Julho de 1977
-
-> 1977D0527 — PT — 01.01.2007 — 004.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006R1792) — [REGULAMENTO (CE) N.º 1792/2006 DA COMISSÃO de 23 de Outubro de 2006](http://publications.europa.eu/resource/celex/32006R1792) — L 362 — 1 — 20.12.2006
-
-**Alterado por:**
-
-- [►A1](http://publications.europa.eu/resource/celex/11985I) — L 302 — 23 — 15.11.1985
-- [A2](http://publications.europa.eu/resource/celex/11994N) — [Acto de Adesão da Áustria, da Finlândia e da Suécia](http://publications.europa.eu/resource/celex/11994N) — C 241 — 21 — 29.8.1994
-- (adaptado pela Decisão 95/1/CE, Euratom, CECA do Conselho) — L 001 — 1 — ..
-- [►A3](http://publications.europa.eu/resource/celex/12003T) — [Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T) — L 236 — 33 — 23.9.2003
-
-## DECISÃO DA COMISSÃO
 
 de 29 de Julho de 1977
 

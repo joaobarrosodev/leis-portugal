@@ -34,6 +34,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: regulamento-ue-2005-302.versoes.json
+  count: 2
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '2005-02-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0519:por
+    amending_title: REGULAMENTO (UE) N. o 519/2013 DA COMISSÃO de 21 de fevereiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 13.º — Relatórios de balanço dos materiais e relações de inventário físico
+    - Altera Artigo 18.º — Unidades de peso e categorias de materiais nucleares
+    - Altera Artigo 20.º — Exportações e expedições
+    - Altera Artigo 21.º — Importações e recepções
+    - Altera Artigo 25.º — Relatórios sobre expedições/exportações de minérios
+    - Altera Artigo 34.º — Disposições específicas para os Estados-Membros dotados de armas nucleares
+    - Altera Artigo 40.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita QUESTIONÁRIO PARA A DECLARAÇÃO DAS CARACTERÍSTICAS TÉCNICAS FUNDAMENTAIS DAS INSTALAÇÕES
+    - Adita I-A. REACTORES
+    - Adita IDENTIFICAÇÃO DA INSTALAÇÃO
+    - Adita DISPOSIÇÕES GERAIS RELATIVAS À INSTALAÇÃO, INCLUINDO OS DADOS SOBRE A UTILIZAÇÃO E A CONTABILIDADE DOS MATERIAIS,
+      O CONFINAMENTO E A VIGILÂNCIA
+    - Adita CONTABILIDADE E CONTROLO DOS MATERIAIS NUCLEARES
+    - Adita OUTRAS INFORMAÇÕES NECESSÁRIAS PARA A APLICAÇÃO DE SALVAGUARDAS
+    - Adita I-B. INSTALAÇÕES CRÍTICAS E DE ENERGIA ZERO
+    - Adita I-C. INSTALAÇÕES DE TRANSFORMAÇÃO, FABRICO E REPROCESSAMENTO
+    - Adita I-D. INSTALAÇÕES DE ARMAZENAGEM ([^11^](http://publications.europa.eu/resource/cellar/ee1b98a1-5275-4eb5-a0e3-97ffb335cf8d.0018.04/DOC_1#E0011))
+    - Adita I-E. INSTALAÇÕES DE SEPARAÇÃO DE ISÓTOPOS
+    - Adita I-F. INSTALAÇÕES QUE UTILIZAM MATERIAIS NUCLEARES EM QUANTIDADES SUPERIORES A UM QUILOGRAMA EFECTIVO
+    - Adita I-G. INSTALAÇÕES DOS CANDIDATOS A MEMBROS DAS CATCH ALL ABM (CAM)
+    - Adita IDENTIFICAÇÃO DA INSTALAÇÃO E DOS MATERIAIS NUCLEARES
+    - Adita I-H. INSTALAÇÕES DE TRATAMENTO DE RESÍDUOS OU DE ARMAZENAGEM DE RESÍDUOS ([^12^](http://publications.europa.eu/resource/cellar/ee1b98a1-5275-4eb5-a0e3-97ffb335cf8d.0018.04/DOC_1#E0012))
+    - Adita I-J. OUTRAS INSTALAÇÕES ([^13^](http://publications.europa.eu/resource/cellar/ee1b98a1-5275-4eb5-a0e3-97ffb335cf8d.0018.04/DOC_1#E0013))
+    - Adita ANEXO II
+    - Adita DESCRIÇÃO GERAL DO LOCAL (^1^)
+    - Adita ANEXO III
+    - Adita RELATÓRIO DE ALTERAÇÃO DE INVENTÁRIO (ICR)
+    - Adita ANEXO IV
+    - Adita RELATÓRIO DE BALANÇO DOS MATERIAIS (MBR)
+    - Adita ANEXO V
+    - Adita RELAÇÃO DE INVENTÁRIO FÍSICO (PIL)
+    - Adita ANEXO VI
+    - Adita COMUNICAÇÃO PRÉVIA DE EXPORTAÇÕES/EXPEDIÇÕES DE MATERIAIS NUCLEARES
+    - Adita COMISSÃO EUROPEIA — SALVAGUARDAS EURATOM
+    - Adita ANEXO VII
+    - Adita COMUNICAÇÃO PRÉVIA DAS IMPORTAÇÕES/RECEPÇÕES DE MATERIAIS NUCLEARES
+    - Adita ANEXO VIII
 identifiers:
   celex: 32005R0302
   eli: http://data.europa.eu/eli/reg/2005/302/oj
@@ -48,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/48e4f5fc-d06b-4069-ab40-8c47a3e6a1bb.0016
   content_url: http://publications.europa.eu/resource/cellar/ee1b98a1-5275-4eb5-a0e3-97ffb335cf8d.0018.04/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R0302-20130701
-  retrieved_at: '2026-10-22T02:58:03Z'
+  retrieved_at: '2026-10-22T15:00:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T00:16:19.176+01:00'
 integrity:
@@ -57,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:03Z'
-  notes: Texto consolidado 02005R0302-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:00:04Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2005-302.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -133,29 +187,19 @@ relationships:
   date: '1976-12-31'
 article_structure:
   article_count: 40
-  section_count: 91
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 92
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:03Z'
+  checked_at: '2026-10-22T15:00:04Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (Euratom) n.° 302/2005 da Comissão, de 8 de Fevereiro de 2005
-
-> 2005R0302 — PT — 01.07.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R0519) — [REGULAMENTO (UE) N.º 519/2013 DA COMISSÃO de 21 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0519) — L 158 — 74 — 10.6.2013
-
-## REGULAMENTO (Euratom) N.º 302/2005 DA COMISSÃO
 
 de 8 de Fevereiro de 2005
 

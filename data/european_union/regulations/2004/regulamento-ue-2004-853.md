@@ -36,6 +36,659 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-07'
+version_history:
+  file: regulamento-ue-2004-853.versoes.json
+  count: 26
+  source_lastmod: '2026-05-07'
+  versions:
+  - date: '2007-11-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-10-28'
+    amending: eu:celex:32008R1020:por
+    amending_title: REGULAMENTO (CE) N. o 1020/2008 DA COMISSÃO de 17 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera SECÇÃO III: INFORMAÇÕES RELATIVAS À CADEIA ALIMENTAR'
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - 'Altera SECÇÃO VIII: PRODUTOS DA PESCA'
+    - Altera II. REQUISITOS EM MATÉRIA DE HIGIENE
+    - Altera A. REQUISITOS APLICÁVEIS AOS PRODUTOS FRESCOS DA PESCA
+    - 'Altera CAPÍTULO V: REGRAS SANITÁRIAS APLICÁVEIS AOS PRODUTOS DA PESCA'
+    - Altera E. TOXINAS PREJUDICIAIS À SAÚDE HUMANA
+    - Altera I. REQUISITOS SANITÁRIOS APLICÁVEIS À PRODUÇÃO DE LEITE CRU E DE COLOSTRO
+    - Altera B. Higiene durante a ordenha, a recolha e o transporte
+    - Altera III. CRITÉRIOS APLICÁVEIS AO LEITE CRU E AO COLOSTRO
+    - Altera III. CRITÉRIOS APLICÁVEIS AO LEITE CRU DE VACA
+    - 'Altera CAPÍTULO I: OVOS'
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+    - 'Adita CAPÍTULO IV: REQUISITOS APLICÁVEIS A CERTOS PRODUTOS DA PESCA TRANSFORMADOS'
+    - Adita A. REQUISITOS PARA A COZEDURA DE CRUSTÁCEOS E MOLUSCOS
+    - Adita B. REQUISITOS APLICÁVEIS AO ÓLEO DE PEIXE DESTINADO AO CONSUMO HUMANO
+    - Suprime E. REQUISITOS APLICÁVEIS AO ÓLEO DE PEIXE DESTINADO AO CONSUMO HUMANO
+    - 'Suprime CAPÍTULO IV: REQUISITOS APLICÁVEIS AOS PRODUTOS DA PESCA TRANSFORMADOS'
+  - date: '2009-04-20'
+    amending: eu:celex:32009R0219:por
+    amending_title: REGULAMENTO (CE) n. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Obrigações gerais
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 8.º — Garantias especiais
+    - Altera Artigo 10.º — Alteração e adaptação dos anexos II e III
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera Artigo 12.º — Comité
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - Altera I. REQUISITOS SANITÁRIOS APLICÁVEIS À PRODUÇÃO DE LEITE CRU E DE COLOSTRO
+    - Altera B. Higiene durante a ordenha, a recolha e o transporte
+    - Altera III. CRITÉRIOS APLICÁVEIS AO LEITE CRU E AO COLOSTRO
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+    - Adita Artigo 9.º
+    - Suprime Artigo 9.º — Medidas de execução e medidas transitórias
+  - date: '2009-11-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - Altera B. FORMA DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - Altera I. REQUISITOS SANITÁRIOS APLICÁVEIS À PRODUÇÃO DE LEITE CRU E DE COLOSTRO
+    - Altera B. Higiene durante a ordenha, a recolha e o transporte
+    - Altera III. CRITÉRIOS APLICÁVEIS AO LEITE CRU E AO COLOSTRO
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+  - date: '2010-01-01'
+    amending: eu:celex:32009R1161:por
+    amending_title: REGULAMENTO (CE) N. o 1161/2009 DA COMISSÃO de 30 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera SECÇÃO III: INFORMAÇÕES RELATIVAS À CADEIA ALIMENTAR'
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - Altera I. REQUISITOS SANITÁRIOS APLICÁVEIS À PRODUÇÃO DE LEITE CRU E DE COLOSTRO
+    - Altera B. Higiene durante a ordenha, a recolha e o transporte
+    - Altera III. CRITÉRIOS APLICÁVEIS AO LEITE CRU E AO COLOSTRO
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+  - date: '2010-07-15'
+    amending: eu:celex:32010R0558:por
+    amending_title: REGULAMENTO (UE) N. o 558/2010 DA COMISSÃO de 24 de Junho de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera CAPÍTULO V: HIGIENE DURANTE E APÓS A DESMANCHA E A DESOSSA'
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - 'Altera SECÇÃO VII: MOLUSCOS BIVALVES VIVOS'
+    - 'Altera CAPÍTULO VI: ACONDICIONAMENTO E EMBALAGEM DOS MOLUSCOS BIVALVES VIVOS'
+    - 'Altera SECÇÃO VIII: PRODUTOS DA PESCA'
+    - 'Altera CAPÍTULO VII: ARMAZENAGEM DOS PRODUTOS DA PESCA'
+    - 'Altera CAPÍTULO VIII: TRANSPORTE DOS PRODUTOS DA PESCA'
+    - Altera I. REQUISITOS SANITÁRIOS APLICÁVEIS À PRODUÇÃO DE LEITE CRU E DE COLOSTRO
+    - Altera B. Higiene durante a ordenha, a recolha e o transporte
+    - Altera III. CRITÉRIOS APLICÁVEIS AO LEITE CRU E AO COLOSTRO
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - 'Altera CAPÍTULO III: REQUISITOS APLICÁVEIS AO FABRICO DE COLAGÉNIO'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+    - 'Adita CAPÍTULO IX: REQUISITOS ESPECÍFICOS APLICÁVEIS AOS PECTINÍDEOS E AOS GASTRÓPODES MARINHOS QUE NÃO SE ALIMENTAM
+      POR FILTRAÇÃO COLHIDOS FORA DAS ZONAS DE PRODUÇÃO CLASSIFICADAS'
+    - 'Adita IV. Meio de transporte: …'
+    - 'Suprime CAPÍTULO IX: REQUISITOS ESPECÍFICOS APLICÁVEIS AOS PECTINÍDEOS COLHIDOS FORA DAS ZONAS DE PRODUÇÃO CLASSIFICADAS'
+  - date: '2011-03-11'
+    amending: eu:celex:32011R0150:por
+    amending_title: REGULAMENTO (UE) N. o 150/2011 DA COMISSÃO de 18 de Fevereiro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera SECÇÃO III: CARNE DE CAÇA DE CRIAÇÃO'
+    - 'Altera CAPÍTULO II: TRATAMENTO DE CAÇA GROSSA SELVAGEM'
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - Altera I. REQUISITOS SANITÁRIOS APLICÁVEIS À PRODUÇÃO DE LEITE CRU E DE COLOSTRO
+    - Altera B. Higiene durante a ordenha, a recolha e o transporte
+    - Altera III. CRITÉRIOS APLICÁVEIS AO LEITE CRU E AO COLOSTRO
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+  - date: '2011-12-29'
+    amending: eu:celex:32011R1276:por
+    amending_title: REGULAMENTO (UE) N. o 1276/2011 DA COMISSÃO de 8 de Dezembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - Altera D. REQUISITOS RELATIVOS AOS PARASITAS
+    - Altera I. REQUISITOS SANITÁRIOS APLICÁVEIS À PRODUÇÃO DE LEITE CRU E DE COLOSTRO
+    - Altera B. Higiene durante a ordenha, a recolha e o transporte
+    - Altera III. CRITÉRIOS APLICÁVEIS AO LEITE CRU E AO COLOSTRO
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+  - date: '2012-07-01'
+    amending: eu:celex:32012R0016:por
+    amending_title: REGULAMENTO (UE) N. o 16/2012 DA COMISSÃO de 11 de janeiro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - Altera I. REQUISITOS SANITÁRIOS APLICÁVEIS À PRODUÇÃO DE LEITE CRU E DE COLOSTRO
+    - Altera B. Higiene durante a ordenha, a recolha e o transporte
+    - Altera III. CRITÉRIOS APLICÁVEIS AO LEITE CRU E AO COLOSTRO
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+    - 'Adita SECÇÃO IV: REQUISITOS APLICÁVEIS A GÉNEROS ALIMENTÍCIOS CONGELADOS DE ORIGEM ANIMAL'
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - Altera B. FORMA DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - Altera I. REQUISITOS SANITÁRIOS APLICÁVEIS À PRODUÇÃO DE LEITE CRU E DE COLOSTRO
+    - Altera B. Higiene durante a ordenha, a recolha e o transporte
+    - Altera III. CRITÉRIOS APLICÁVEIS AO LEITE CRU E AO COLOSTRO
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+  - date: '2013-09-06'
+    amending: eu:celex:32013R0786:por
+    amending_title: REGULAMENTO (UE) N. o 786/2013 DA COMISSÃO de 16 de agosto de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - 'Altera CAPÍTULO V: REGRAS SANITÁRIAS APLICÁVEIS AOS MOLUSCOS BIVALVES VIVOS'
+    - Altera I. REQUISITOS SANITÁRIOS APLICÁVEIS À PRODUÇÃO DE LEITE CRU E DE COLOSTRO
+    - Altera B. Higiene durante a ordenha, a recolha e o transporte
+    - Altera III. CRITÉRIOS APLICÁVEIS AO LEITE CRU E AO COLOSTRO
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+  - date: '2014-06-01'
+    amending: eu:celex:32014R0218:por
+    amending_title: REGULAMENTO (UE) N. o 218/2014 DA COMISSÃO de 7 de março de 2014; REGULAMENTO (UE) N. o 633/2014 DA COMISSÃO
+      de 13 de junho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera SECÇÃO III: INFORMAÇÕES RELATIVAS À CADEIA ALIMENTAR'
+    - 'Altera CAPÍTULO VI: ABATE DE EMERGÊNCIA FORA DO MATADOURO'
+    - 'Altera CAPÍTULO II: TRATAMENTO DE CAÇA GROSSA SELVAGEM'
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - Altera I. REQUISITOS SANITÁRIOS APLICÁVEIS À PRODUÇÃO DE LEITE CRU E DE COLOSTRO
+    - Altera B. Higiene durante a ordenha, a recolha e o transporte
+    - Altera III. CRITÉRIOS APLICÁVEIS AO LEITE CRU E AO COLOSTRO
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+  - date: '2014-11-17'
+    amending: eu:celex:32014R1137:por
+    amending_title: REGULAMENTO (UE) N. o 1137/2014 DA COMISSÃO de 27 de outubro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera SECÇÃO III: INFORMAÇÕES RELATIVAS À CADEIA ALIMENTAR'
+    - 'Altera CAPÍTULO IV: HIGIENE DO ABATE'
+    - 'Altera CAPÍTULO II: TRATAMENTO DE CAÇA GROSSA SELVAGEM'
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - Altera I. REQUISITOS SANITÁRIOS APLICÁVEIS À PRODUÇÃO DE LEITE CRU E DE COLOSTRO
+    - Altera B. Higiene durante a ordenha, a recolha e o transporte
+    - Altera III. CRITÉRIOS APLICÁVEIS AO LEITE CRU E AO COLOSTRO
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+  - date: '2016-04-01'
+    amending: eu:celex:32016R0355:por
+    amending_title: REGULAMENTO (UE) 2016/355 DA COMISSÃO de 11 de março de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera SECÇÃO III: INFORMAÇÕES RELATIVAS À CADEIA ALIMENTAR'
+    - 'Altera CAPÍTULO II: TRATAMENTO DE CAÇA GROSSA SELVAGEM'
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - Altera I. REQUISITOS SANITÁRIOS APLICÁVEIS À PRODUÇÃO DE LEITE CRU E DE COLOSTRO
+    - Altera B. Higiene durante a ordenha, a recolha e o transporte
+    - Altera III. CRITÉRIOS APLICÁVEIS AO LEITE CRU E AO COLOSTRO
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - 'Altera CAPÍTULO II: TRANSPORTE E ARMAZENAGEM DAS MATÉRIAS-PRIMAS'
+    - 'Altera CAPÍTULO IV: REQUISITOS APLICÁVEIS AOS PRODUTOS ACABADOS'
+    - 'Altera SECÇÃO XV: COLAGÉNIO'
+    - 'Altera CAPÍTULO III: REQUISITOS APLICÁVEIS AO FABRICO DE COLAGÉNIO'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+    - 'Adita SECÇÃO XVI: SULFATO DE CONDROITINA, ÁCIDO HIALURÓNICO, OUTROS PRODUTOS CARTILAGINOSOS HIDROLISADOS, QUITOSANO,
+      GLUCOSAMINA, COALHO, ICTIOCOLA E AMINOÁCIDOS ALTAMENTE REFINADOS'
+  - date: '2019-01-01'
+    amending: eu:celex:32017R1978:por
+    amending_title: REGULAMENTO (UE) 2017/1978 DA COMISSÃO de 31 de outubro de 2017; REGULAMENTO (UE) 2017/1981 DA COMISSÃO
+      de 31 de outubro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera SECÇÃO III: INFORMAÇÕES RELATIVAS À CADEIA ALIMENTAR'
+    - 'Altera CAPÍTULO V: HIGIENE DURANTE A DESMANCHA E A DESOSSA'
+    - 'Altera CAPÍTULO VII: ARMAZENAGEM E TRANSPORTE'
+    - 'Altera CAPÍTULO II: TRATAMENTO DE CAÇA GROSSA SELVAGEM'
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - 'Altera SECÇÃO VII: MOLUSCOS BIVALVES VIVOS'
+    - Altera I. REQUISITOS SANITÁRIOS APLICÁVEIS À PRODUÇÃO DE LEITE CRU E DE COLOSTRO
+    - Altera B. Higiene durante a ordenha, a recolha e o transporte
+    - Altera III. CRITÉRIOS APLICÁVEIS AO LEITE CRU E AO COLOSTRO
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - 'Altera SECÇÃO XVI: SULFATO DE CONDROITINA, ÁCIDO HIALURÓNICO, OUTROS PRODUTOS CARTILAGINOSOS HIDROLISADOS, QUITOSANO,
+      GLUCOSAMINA, COALHO, ICTIOCOLA E AMINOÁCIDOS ALTAMENTE REFINADOS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+    - 'Adita CAPÍTULO IX: REQUISITOS ESPECÍFICOS APLICÁVEIS AOS PECTINÍDEOS, GASTRÓPODES MARINHOS E EQUINODERMES QUE NÃO SE
+      ALIMENTAM POR FILTRAÇÃO COLHIDOS FORA DAS ZONAS DE PRODUÇÃO CLASSIFICADAS'
+    - 'Suprime CAPÍTULO IX: REQUISITOS ESPECÍFICOS APLICÁVEIS AOS PECTINÍDEOS E AOS GASTRÓPODES MARINHOS QUE NÃO SE ALIMENTAM
+      POR FILTRAÇÃO COLHIDOS FORA DAS ZONAS DE PRODUÇÃO CLASSIFICADAS'
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 3.º — Obrigações gerais
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 8.º — Garantias especiais
+    - Altera Artigo 10.º — Alteração e adaptação dos anexos II e III
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera Artigo 12.º — Comité
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera SECÇÃO III: INFORMAÇÕES RELATIVAS À CADEIA ALIMENTAR'
+    - 'Altera CAPÍTULO VII: ARMAZENAGEM E TRANSPORTE'
+    - 'Altera CAPÍTULO II: TRATAMENTO DE CAÇA GROSSA SELVAGEM'
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - Altera I. REQUISITOS SANITÁRIOS APLICÁVEIS À PRODUÇÃO DE LEITE CRU E DE COLOSTRO
+    - Altera B. Higiene durante a ordenha, a recolha e o transporte
+    - Altera III. CRITÉRIOS APLICÁVEIS AO LEITE CRU E AO COLOSTRO
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - 'Altera SECÇÃO XVI: SULFATO DE CONDROITINA, ÁCIDO HIALURÓNICO, OUTROS PRODUTOS CARTILAGINOSOS HIDROLISADOS, QUITOSANO,
+      GLUCOSAMINA, COALHO, ICTIOCOLA E AMINOÁCIDOS ALTAMENTE REFINADOS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+    - Adita Artigo 11.º-A — Exercício da delegação
+    - Suprime Artigo 9.º
+  - date: '2021-01-01'
+    amending: eu:celex:32020R2192:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/2192 DA COMISSÃO de 7 de dezembro de 2020
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 8.º — Garantias especiais
+    - Altera Artigo 10.º — Alteração e adaptação dos anexos II e III
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera Artigo 11.º-A — Exercício da delegação
+    - Altera 1. CARNE
+    - Altera 8. OUTRAS DEFINIÇÕES
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera SECÇÃO III: INFORMAÇÕES RELATIVAS À CADEIA ALIMENTAR'
+    - 'Altera CAPÍTULO II: REQUISITOS APLICÁVEIS AOS MATADOUROS'
+    - 'Altera CAPÍTULO IV: HIGIENE DO ABATE'
+    - 'Altera CAPÍTULO VII: ARMAZENAGEM E TRANSPORTE'
+    - 'Altera CAPÍTULO II: TRATAMENTO DE CAÇA GROSSA SELVAGEM'
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - 'Altera CAPÍTULO II: REQUISITOS EM MATÉRIA DE HIGIENE APLICÁVEIS À PRODUÇÃO E COLHEITA DE MOLUSCOS BIVALVES VIVOS'
+    - 'Altera CAPÍTULO IV: REQUISITOS DE HIGIENE APLICÁVEIS AOS CENTROS DE DEPURAÇÃO E DE EXPEDIÇÃO'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS AOS NAVIOS'
+    - 'Altera CAPÍTULO II: REQUISITOS APLICÁVEIS DURANTE E APÓS O DESEMBARQUE'
+    - 'Altera CAPÍTULO III: REQUISITOS APLICÁVEIS AOS ESTABELECIMENTOS, INCLUINDO NAVIOS, QUE MANUSEIAM PRODUTOS DA PESCA'
+    - 'Altera CAPÍTULO IV: REQUISITOS APLICÁVEIS A CERTOS PRODUTOS DA PESCA TRANSFORMADOS'
+    - 'Altera CAPÍTULO V: REGRAS SANITÁRIAS APLICÁVEIS AOS PRODUTOS DA PESCA'
+    - 'Altera CAPÍTULO I: LEITE CRU E COLOSTRO — PRODUÇÃO PRIMÁRIA'
+    - 'Altera CAPÍTULO II: REQUISITOS APLICÁVEIS AOS PRODUTOS LÁCTEOS E AOS PRODUTOS À BASE DE COLOSTRO'
+    - 'Altera CAPÍTULO II: OVOPRODUTOS'
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - 'Altera SECÇÃO XVI: SULFATO DE CONDROITINA, ÁCIDO HIALURÓNICO, OUTROS PRODUTOS CARTILAGINOSOS HIDROLISADOS, QUITOSANO,
+      GLUCOSAMINA, COALHO, ICTIOCOLA E AMINOÁCIDOS ALTAMENTE REFINADOS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+    - Suprime A. REQUISITOS APLICÁVEIS ÀS ZONAS DE PRODUÇÃO
+    - Suprime B. REQUISITOS APLICÁVEIS AO MANUSEAMENTO DURANTE E APÓS A COLHEITA
+    - Suprime C. REQUISITOS APLICÁVEIS À AFINAÇÃO DOS MOLUSCOS BIVALVES VIVOS
+    - Suprime A. REQUISITOS APLICÁVEIS AOS CENTROS DE DEPURAÇÃO
+    - Suprime B. REQUISITOS APLICÁVEIS AOS CENTROS DE EXPEDIÇÃO
+    - Suprime I. REQUISITOS ESTRUTURAIS E EM MATÉRIA DE EQUIPAMENTO
+    - Suprime A. Requisitos para todos os navios
+    - Suprime B. Requisitos para os navios concebidos e equipados para conservar os produtos da pesca frescos durante mais
+      de 24 horas
+  - date: '2021-09-09'
+    amending: eu:celex:32021R1374:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1374 DA COMISSÃO de 12 de abril de 2021
+    changes:
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera Artigo 11.º-A — Exercício da delegação
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera SECÇÃO III: INFORMAÇÕES RELATIVAS À CADEIA ALIMENTAR'
+    - 'Altera CAPÍTULO IV: HIGIENE DO ABATE'
+    - 'Altera CAPÍTULO VI: ABATE DE EMERGÊNCIA FORA DO MATADOURO'
+    - 'Altera CAPÍTULO VII: ARMAZENAGEM E TRANSPORTE'
+    - 'Altera CAPÍTULO V: HIGIENE DURANTE E APÓS A DESMANCHA E A DESOSSA'
+    - 'Altera CAPÍTULO VI: ABATE NA EXPLORAÇÃO'
+    - 'Altera SECÇÃO III: CARNE DE CAÇA DE CRIAÇÃO'
+    - 'Altera SECÇÃO IV: CARNE DE CAÇA SELVAGEM'
+    - 'Altera CAPÍTULO II: TRATAMENTO DE CAÇA GROSSA SELVAGEM'
+    - 'Altera CAPÍTULO III: TRATAMENTO DE CAÇA MIÚDA SELVAGEM'
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - 'Altera SECÇÃO VII: MOLUSCOS BIVALVES VIVOS'
+    - 'Altera CAPÍTULO I: REQUISITOS GERAIS PARA A COLOCAÇÃO NO MERCADO DE MOLUSCOS BIVALVES VIVOS'
+    - 'Altera CAPÍTULO IV: REQUISITOS DE HIGIENE APLICÁVEIS AOS CENTROS DE DEPURAÇÃO E DE EXPEDIÇÃO'
+    - 'Altera CAPÍTULO V: REGRAS SANITÁRIAS APLICÁVEIS AOS MOLUSCOS BIVALVES VIVOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS AOS NAVIOS'
+    - 'Altera CAPÍTULO III: REQUISITOS APLICÁVEIS AOS ESTABELECIMENTOS, INCLUINDO NAVIOS, QUE MANUSEIAM PRODUTOS DA PESCA'
+    - 'Altera CAPÍTULO I: LEITE CRU E COLOSTRO — PRODUÇÃO PRIMÁRIA'
+    - 'Altera SECÇÃO XI: COXAS DE RÃ E CARACÓIS'
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - 'Altera SECÇÃO XVI: SULFATO DE CONDROITINA, ÁCIDO HIALURÓNICO, OUTROS PRODUTOS CARTILAGINOSOS HIDROLISADOS, QUITOSANO,
+      GLUCOSAMINA, COALHO, ICTIOCOLA E AMINOÁCIDOS ALTAMENTE REFINADOS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+    - 'Adita CAPÍTULO VI-A: ABATE NA EXPLORAÇÃO DE PROVENIÊNCIA DE BOVINOS DOMÉSTICOS, EXCETO BISONTES, DE SUÍNOS DOMÉSTICOS
+      E DE SOLÍPEDES DOMÉSTICOS, QUE NÃO O ABATE DE EMERGÊNCIA'
+    - 'Adita CAPÍTULO IX: REQUISITOS ESPECÍFICOS APLICÁVEIS AOS PECTINÍDEOS, GASTRÓPODES MARINHOS E HOLOTURÍDEOS QUE NÃO SE
+      ALIMENTAM POR FILTRAÇÃO APANHADOS FORA DAS ZONAS DE PRODUÇÃO CLASSIFICADAS'
+    - 'Adita CAPÍTULO X: MODELO DE DOCUMENTO DE REGISTO DE MOLUSCOS BIVALVES VIVOS, EQUINODERMES VIVOS, TUNICADOS VIVOS E
+      GASTRÓPODES MARINHOS VIVOS'
+    - 'Suprime CAPÍTULO IX: REQUISITOS ESPECÍFICOS APLICÁVEIS AOS PECTINÍDEOS, GASTRÓPODES MARINHOS E EQUINODERMES QUE NÃO
+      SE ALIMENTAM POR FILTRAÇÃO COLHIDOS FORA DAS ZONAS DE PRODUÇÃO CLASSIFICADAS'
+  - date: '2021-10-28'
+    amending: eu:celex:32021R1756:por
+    amending_title: REGULAMENTO (UE) 2021/1756 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de outubro de 2021
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera Artigo 11.º-A — Exercício da delegação
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera SECÇÃO III: INFORMAÇÕES RELATIVAS À CADEIA ALIMENTAR'
+    - 'Altera CAPÍTULO IV: HIGIENE DO ABATE'
+    - 'Altera CAPÍTULO VI: ABATE DE EMERGÊNCIA FORA DO MATADOURO'
+    - 'Altera CAPÍTULO VI-A: ABATE NA EXPLORAÇÃO DE PROVENIÊNCIA DE BOVINOS DOMÉSTICOS, EXCETO BISONTES, DE SUÍNOS DOMÉSTICOS
+      E DE SOLÍPEDES DOMÉSTICOS, QUE NÃO O ABATE DE EMERGÊNCIA'
+    - 'Altera CAPÍTULO VII: ARMAZENAGEM E TRANSPORTE'
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - 'Altera CAPÍTULO I: LEITE CRU E COLOSTRO — PRODUÇÃO PRIMÁRIA'
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - 'Altera SECÇÃO XVI: SULFATO DE CONDROITINA, ÁCIDO HIALURÓNICO, OUTROS PRODUTOS CARTILAGINOSOS HIDROLISADOS, QUITOSANO,
+      GLUCOSAMINA, COALHO, ICTIOCOLA E AMINOÁCIDOS ALTAMENTE REFINADOS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+  - date: '2022-12-08'
+    amending: eu:celex:32022R2258:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/2258 DA COMISSÃO de 9 de setembro de 2022
+    changes:
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera Artigo 11.º-A — Exercício da delegação
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera SECÇÃO III: INFORMAÇÕES RELATIVAS À CADEIA ALIMENTAR'
+    - 'Altera CAPÍTULO IV: HIGIENE DO ABATE'
+    - 'Altera CAPÍTULO VI: ABATE DE EMERGÊNCIA FORA DO MATADOURO'
+    - 'Altera CAPÍTULO VI-A: ABATE NA EXPLORAÇÃO DE PROVENIÊNCIA DE BOVINOS DOMÉSTICOS, EXCETO BISONTES, DE SUÍNOS DOMÉSTICOS
+      E DE SOLÍPEDES DOMÉSTICOS, QUE NÃO O ABATE DE EMERGÊNCIA'
+    - 'Altera CAPÍTULO VII: ARMAZENAGEM E TRANSPORTE'
+    - 'Altera CAPÍTULO VI: ABATE NA EXPLORAÇÃO'
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - 'Altera CAPÍTULO X: MODELO DE DOCUMENTO DE REGISTO DE MOLUSCOS BIVALVES VIVOS, EQUINODERMES VIVOS, TUNICADOS VIVOS E
+      GASTRÓPODES MARINHOS VIVOS'
+    - 'Altera SECÇÃO VIII: PRODUTOS DA PESCA'
+    - 'Altera CAPÍTULO III: REQUISITOS APLICÁVEIS AOS ESTABELECIMENTOS, INCLUINDO NAVIOS, QUE MANUSEIAM PRODUTOS DA PESCA'
+    - 'Altera CAPÍTULO VIII: TRANSPORTE DOS PRODUTOS DA PESCA'
+    - 'Altera CAPÍTULO I: LEITE CRU E COLOSTRO — PRODUÇÃO PRIMÁRIA'
+    - 'Altera CAPÍTULO I: OVOS'
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+    - 'Adita CAPÍTULO IX: REQUISITOS ESPECÍFICOS APLICÁVEIS AOS PECTINÍDEOS, GASTRÓPODES MARINHOS E EQUINODERMES QUE NÃO SE
+      ALIMENTAM POR FILTRAÇÃO APANHADOS FORA DAS ZONAS DE PRODUÇÃO CLASSIFICADAS'
+    - 'Adita SECÇÃO XVI: PRODUTOS ALTAMENTE REFINADOS'
+    - 'Suprime CAPÍTULO IX: REQUISITOS ESPECÍFICOS APLICÁVEIS AOS PECTINÍDEOS, GASTRÓPODES MARINHOS E HOLOTURÍDEOS QUE NÃO
+      SE ALIMENTAM POR FILTRAÇÃO APANHADOS FORA DAS ZONAS DE PRODUÇÃO CLASSIFICADAS'
+    - 'Suprime SECÇÃO XVI: SULFATO DE CONDROITINA, ÁCIDO HIALURÓNICO, OUTROS PRODUTOS CARTILAGINOSOS HIDROLISADOS, QUITOSANO,
+      GLUCOSAMINA, COALHO, ICTIOCOLA E AMINOÁCIDOS ALTAMENTE REFINADOS'
+  - date: '2023-02-15'
+    amending: eu:celex:32023R0166:por
+    amending_title: M26
+    changes:
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera Artigo 11.º-A — Exercício da delegação
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera SECÇÃO III: INFORMAÇÕES RELATIVAS À CADEIA ALIMENTAR'
+    - 'Altera CAPÍTULO IV: HIGIENE DO ABATE'
+    - 'Altera CAPÍTULO VI: ABATE DE EMERGÊNCIA FORA DO MATADOURO'
+    - 'Altera CAPÍTULO VI-A: ABATE NA EXPLORAÇÃO DE PROVENIÊNCIA DE BOVINOS DOMÉSTICOS, EXCETO BISONTES, DE SUÍNOS DOMÉSTICOS
+      E DE SOLÍPEDES DOMÉSTICOS, QUE NÃO O ABATE DE EMERGÊNCIA'
+    - 'Altera CAPÍTULO VII: ARMAZENAGEM E TRANSPORTE'
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - 'Altera CAPÍTULO I: LEITE CRU E COLOSTRO — PRODUÇÃO PRIMÁRIA'
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - 'Altera SECÇÃO XVI: PRODUTOS ALTAMENTE REFINADOS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+  - date: '2024-05-09'
+    amending: eu:celex:32024R1141:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/1141 DA COMISSÃO de 14 de dezembro de 2023
+    changes:
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera Artigo 11.º-A — Exercício da delegação
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - Altera B. FORMA DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera SECÇÃO III: INFORMAÇÕES RELATIVAS À CADEIA ALIMENTAR'
+    - 'Altera CAPÍTULO II: REQUISITOS APLICÁVEIS AOS MATADOUROS'
+    - 'Altera CAPÍTULO IV: HIGIENE DO ABATE'
+    - 'Altera CAPÍTULO VI: ABATE DE EMERGÊNCIA FORA DO MATADOURO'
+    - 'Altera CAPÍTULO VII: ARMAZENAGEM E TRANSPORTE'
+    - 'Altera SECÇÃO III: CARNE DE CAÇA DE CRIAÇÃO'
+    - 'Altera CAPÍTULO III: HIGIENE DURANTE E APÓS A PRODUÇÃO'
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - 'Altera CAPÍTULO VII: ARMAZENAGEM DOS PRODUTOS DA PESCA'
+    - 'Altera CAPÍTULO I: LEITE CRU E COLOSTRO — PRODUÇÃO PRIMÁRIA'
+    - 'Altera CAPÍTULO II: REQUISITOS APLICÁVEIS AOS PRODUTOS LÁCTEOS E AOS PRODUTOS À BASE DE COLOSTRO'
+    - 'Altera CAPÍTULO I: OVOS'
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - 'Altera SECÇÃO XVI: PRODUTOS ALTAMENTE REFINADOS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+    - 'Adita Capítulo VI-A: ABATE NA EXPLORAÇÃO DE PROVENIÊNCIA DE BOVINOS DOMÉSTICOS, EXCETO BISONTES, DE OVINOS, CAPRINOS
+      E SUÍNOS E DE SOLÍPEDES DOMÉSTICOS, QUE NÃO O ABATE DE EMERGÊNCIA'
+    - 'Suprime CAPÍTULO VI-A: ABATE NA EXPLORAÇÃO DE PROVENIÊNCIA DE BOVINOS DOMÉSTICOS, EXCETO BISONTES, DE SUÍNOS DOMÉSTICOS
+      E DE SOLÍPEDES DOMÉSTICOS, QUE NÃO O ABATE DE EMERGÊNCIA'
+  - date: '2024-11-09'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera Artigo 11.º-A — Exercício da delegação
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - Altera B. FORMA DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera SECÇÃO III: INFORMAÇÕES RELATIVAS À CADEIA ALIMENTAR'
+    - 'Altera CAPÍTULO IV: HIGIENE DO ABATE'
+    - 'Altera CAPÍTULO VI: ABATE DE EMERGÊNCIA FORA DO MATADOURO'
+    - 'Altera Capítulo VI-A: ABATE NA EXPLORAÇÃO DE PROVENIÊNCIA DE BOVINOS DOMÉSTICOS, EXCETO BISONTES, DE OVINOS, CAPRINOS
+      E SUÍNOS E DE SOLÍPEDES DOMÉSTICOS, QUE NÃO O ABATE DE EMERGÊNCIA'
+    - 'Altera CAPÍTULO VII: ARMAZENAGEM E TRANSPORTE'
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - 'Altera CAPÍTULO I: LEITE CRU E COLOSTRO — PRODUÇÃO PRIMÁRIA'
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - 'Altera SECÇÃO XVI: PRODUTOS ALTAMENTE REFINADOS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+  - date: '2025-11-18'
+    amending: eu:celex:32025R1449:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/1449 DA COMISSÃO de 18 de julho de 2025
+    changes:
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera Artigo 11.º-A — Exercício da delegação
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - Altera B. FORMA DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera SECÇÃO III: INFORMAÇÕES RELATIVAS À CADEIA ALIMENTAR'
+    - 'Altera CAPÍTULO IV: HIGIENE DO ABATE'
+    - 'Altera CAPÍTULO VI: ABATE DE EMERGÊNCIA FORA DO MATADOURO'
+    - 'Altera Capítulo VI-A: ABATE NA EXPLORAÇÃO DE PROVENIÊNCIA DE BOVINOS DOMÉSTICOS, EXCETO BISONTES, DE OVINOS, CAPRINOS
+      E SUÍNOS E DE SOLÍPEDES DOMÉSTICOS, QUE NÃO O ABATE DE EMERGÊNCIA'
+    - 'Altera CAPÍTULO VII: ARMAZENAGEM E TRANSPORTE'
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - 'Altera CAPÍTULO I: LEITE CRU E COLOSTRO — PRODUÇÃO PRIMÁRIA'
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - 'Altera SECÇÃO XVI: PRODUTOS ALTAMENTE REFINADOS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+  - date: '2026-01-27'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera Artigo 11.º-A — Exercício da delegação
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - Altera B. FORMA DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera SECÇÃO III: INFORMAÇÕES RELATIVAS À CADEIA ALIMENTAR'
+    - 'Altera CAPÍTULO IV: HIGIENE DO ABATE'
+    - 'Altera CAPÍTULO VI: ABATE DE EMERGÊNCIA FORA DO MATADOURO'
+    - 'Altera Capítulo VI-A: ABATE NA EXPLORAÇÃO DE PROVENIÊNCIA DE BOVINOS DOMÉSTICOS, EXCETO BISONTES, DE OVINOS, CAPRINOS
+      E SUÍNOS E DE SOLÍPEDES DOMÉSTICOS, QUE NÃO O ABATE DE EMERGÊNCIA'
+    - 'Altera CAPÍTULO VII: ARMAZENAGEM E TRANSPORTE'
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS AOS NAVIOS'
+    - 'Altera CAPÍTULO III: REQUISITOS APLICÁVEIS AOS ESTABELECIMENTOS, INCLUINDO NAVIOS, QUE MANUSEIAM PRODUTOS DA PESCA'
+    - 'Altera CAPÍTULO I: LEITE CRU E COLOSTRO — PRODUÇÃO PRIMÁRIA'
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - 'Altera SECÇÃO XVI: PRODUTOS ALTAMENTE REFINADOS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
+  - date: '2026-05-07'
+    amending: eu:celex:32026R0252:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/252 DA COMISSÃO de 2 de fevereiro de 2026
+    changes:
+    - Altera Artigo 4.º — Registo e aprovação de estabelecimentos
+    - Altera Artigo 6.º — Produtos de origem animal de fora da Comunidade
+    - Altera Artigo 11.º — Decisões específicas
+    - Altera Artigo 11.º-A — Exercício da delegação
+    - Altera A. APOSIÇÃO DA MARCA DE IDENTIFICAÇÃO
+    - Altera B. FORMA DA MARCA DE IDENTIFICAÇÃO
+    - 'Altera SECÇÃO III: INFORMAÇÕES RELATIVAS À CADEIA ALIMENTAR'
+    - 'Altera CAPÍTULO IV: HIGIENE DO ABATE'
+    - 'Altera CAPÍTULO VI: ABATE DE EMERGÊNCIA FORA DO MATADOURO'
+    - 'Altera Capítulo VI-A: ABATE NA EXPLORAÇÃO DE PROVENIÊNCIA DE BOVINOS DOMÉSTICOS, EXCETO BISONTES, DE OVINOS, CAPRINOS
+      E SUÍNOS E DE SOLÍPEDES DOMÉSTICOS, QUE NÃO O ABATE DE EMERGÊNCIA'
+    - 'Altera CAPÍTULO VII: ARMAZENAGEM E TRANSPORTE'
+    - 'Altera CAPÍTULO IV: ROTULAGEM'
+    - 'Altera CAPÍTULO I: LEITE CRU E COLOSTRO — PRODUÇÃO PRIMÁRIA'
+    - 'Altera CAPÍTULO II: REQUISITOS DE HIGIENE PARA A PREPARAÇÃO DE GORDURAS ANIMAIS FUNDIDAS E TORRESMOS'
+    - 'Altera CAPÍTULO I: REQUISITOS APLICÁVEIS ÀS MATÉRIAS-PRIMAS'
+    - 'Altera SECÇÃO XVI: PRODUTOS ALTAMENTE REFINADOS'
+    - Altera II. Origem da matéria-prima
+    - Altera III. Destino da matéria-prima
+    - Altera Notas
 identifiers:
   celex: 32004R0853
   eli: http://data.europa.eu/eli/reg/2004/853/oj
@@ -50,7 +703,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/979cc87c-97fa-42bc-a68f-680da2207dd2.0010
   content_url: http://publications.europa.eu/resource/cellar/7f00c98f-74b0-11f1-bf5e-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0853-20260507
-  retrieved_at: '2026-10-22T02:34:40Z'
+  retrieved_at: '2026-10-22T14:58:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-31T08:16:30.496+01:00'
 integrity:
@@ -59,9 +712,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:34:40Z'
-  notes: Texto consolidado 02004R0853-20260507.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:58:59Z'
+  notes: 26 versão(ões); histórico completo em regulamento-ue-2004-853.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -760,62 +1413,22 @@ relationships:
   date: '2024-03-21'
 article_structure:
   article_count: 15
-  section_count: 110
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 111
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:34:40Z'
-  warnings: []
+  checked_at: '2026-10-22T14:58:59Z'
+  warnings:
+  - '32004R0853: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02004R0853-20060101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0853-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 853/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004
-
-> 02004R0853 — PT — 07.05.2026 — 029.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32005R2074) — [REGULAMENTO (CE) N.º 2074/2005 DA COMISSÃO de 5 de Dezembro de 2005](http://publications.europa.eu/resource/celex/32005R2074) — L 338 — 27 — 22.12.2005
-- [►M2](http://publications.europa.eu/resource/celex/32005R2076) — [REGULAMENTO (CE) N.º 2076/2005 DA COMISSÃO de 5 de Dezembro de 2005](http://publications.europa.eu/resource/celex/32005R2076) — L 338 — 83 — 22.12.2005
-- [►M3](http://publications.europa.eu/resource/celex/32006R1662) — [REGULAMENTO (CE) N.º 1662/2006 DA COMISSÃO de 6 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006R1662) — L 320 — 1 — 18.11.2006
-- [M4](http://publications.europa.eu/resource/celex/32006R1791) — [REGULAMENTO (CE) N.º 1791/2006 do Conselho de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006R1791) — L 363 — 1 — 20.12.2006
-- [►M5](http://publications.europa.eu/resource/celex/32007R1243) — [REGULAMENTO (CE) N.º 1243/2007 DA COMISSÃO de 24 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1243) — L 281 — 8 — 25.10.2007
-- [►M6](http://publications.europa.eu/resource/celex/32008R1020) — [REGULAMENTO (CE) N.º 1020/2008 DA COMISSÃO de 17 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1020) — L 277 — 8 — 18.10.2008
-- [►M7](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) n.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-- [►M8](http://publications.europa.eu/resource/celex/32009R1161) — [REGULAMENTO (CE) N.º 1161/2009 DA COMISSÃO de 30 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1161) — L 314 — 8 — 1.12.2009
-- [►M9](http://publications.europa.eu/resource/celex/32010R0558) — [REGULAMENTO (UE) N.º 558/2010 DA COMISSÃO de 24 de Junho de 2010](http://publications.europa.eu/resource/celex/32010R0558) — L 159 — 18 — 25.6.2010
-- [►M10](http://publications.europa.eu/resource/celex/32011R0150) — [REGULAMENTO (UE) N.º 150/2011 DA COMISSÃO de 18 de Fevereiro de 2011](http://publications.europa.eu/resource/celex/32011R0150) — L 46 — 14 — 19.2.2011
-- [►M11](http://publications.europa.eu/resource/celex/32011R1276) — [REGULAMENTO (UE) N.º 1276/2011 DA COMISSÃO de 8 de Dezembro de 2011](http://publications.europa.eu/resource/celex/32011R1276) — L 327 — 39 — 9.12.2011
-- [►M12](http://publications.europa.eu/resource/celex/32012R0016) — [REGULAMENTO (UE) N.º 16/2012 DA COMISSÃO de 11 de janeiro de 2012](http://publications.europa.eu/resource/celex/32012R0016) — L 8 — 29 — 12.1.2012
-- [M13](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [►M14](http://publications.europa.eu/resource/celex/32013R0786) — [REGULAMENTO (UE) N.º 786/2013 DA COMISSÃO de 16 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0786) — L 220 — 14 — 17.8.2013
-- [►M15](http://publications.europa.eu/resource/celex/32014R0218) — [REGULAMENTO (UE) N.º 218/2014 DA COMISSÃO de 7 de março de 2014](http://publications.europa.eu/resource/celex/32014R0218) — L 69 — 95 — 8.3.2014
-- [►M16](http://publications.europa.eu/resource/celex/32014R0633) — [REGULAMENTO (UE) N.º 633/2014 DA COMISSÃO de 13 de junho de 2014](http://publications.europa.eu/resource/celex/32014R0633) — L 175 — 6 — 14.6.2014
-- [M17](http://publications.europa.eu/resource/celex/32014R1137) — [REGULAMENTO (UE) N.º 1137/2014 DA COMISSÃO de 27 de outubro de 2014](http://publications.europa.eu/resource/celex/32014R1137) — L 307 — 28 — 28.10.2014
-- [►M18](http://publications.europa.eu/resource/celex/32016R0355) — [REGULAMENTO (UE) 2016/355 DA COMISSÃO de 11 de março de 2016](http://publications.europa.eu/resource/celex/32016R0355) — L 67 — 22 — 12.3.2016
-- [►M19](http://publications.europa.eu/resource/celex/32017R1978) — [REGULAMENTO (UE) 2017/1978 DA COMISSÃO de 31 de outubro de 2017](http://publications.europa.eu/resource/celex/32017R1978) — L 285 — 3 — 1.11.2017
-- [►M20](http://publications.europa.eu/resource/celex/32017R1981) — [REGULAMENTO (UE) 2017/1981 DA COMISSÃO de 31 de outubro de 2017](http://publications.europa.eu/resource/celex/32017R1981) — L 285 — 10 — 1.11.2017
-- [►M21](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [►M22](http://publications.europa.eu/resource/celex/32020R2192) — [REGULAMENTO DELEGADO (UE) 2020/2192 DA COMISSÃO de 7 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2192) — L 434 — 10 — 23.12.2020
-- [►M23](http://publications.europa.eu/resource/celex/32021R1374) — [REGULAMENTO DELEGADO (UE) 2021/1374 DA COMISSÃO de 12 de abril de 2021](http://publications.europa.eu/resource/celex/32021R1374) — L 297 — 1 — 20.8.2021
-- [►M24](http://publications.europa.eu/resource/celex/32021R1756) — [REGULAMENTO (UE) 2021/1756 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de outubro de 2021](http://publications.europa.eu/resource/celex/32021R1756) — L 357 — 27 — 8.10.2021
-- [►M25](http://publications.europa.eu/resource/celex/32022R2258) — [REGULAMENTO DELEGADO (UE) 2022/2258 DA COMISSÃO de 9 de setembro de 2022](http://publications.europa.eu/resource/celex/32022R2258) — L 299 — 5 — 18.11.2022
-- [M26](http://publications.europa.eu/resource/celex/32023R0166) — [REGULAMENTO DELEGADO (UE) 2023/166 DA COMISSÃO de 26 de outubro de 2022](http://publications.europa.eu/resource/celex/32023R0166) — L 24 — 1 — 26.1.2023
-- [►M27](http://publications.europa.eu/resource/celex/32024R1141) — [REGULAMENTO DELEGADO (UE) 2024/1141 DA COMISSÃO de 14 de dezembro de 2023](http://publications.europa.eu/resource/celex/32024R1141) — L 1141 — 1 — 19.4.2024
-- [►M28](http://publications.europa.eu/resource/celex/32025R1449) — [REGULAMENTO DELEGADO (UE) 2025/1449 DA COMISSÃO de 18 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1449) — L 1449 — 1 — 29.10.2025
-- [►M29](http://publications.europa.eu/resource/celex/32026R0252) — [REGULAMENTO DELEGADO (UE) 2026/252 DA COMISSÃO de 2 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0252) — L 252 — 1 — 17.4.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32004R0853R%2801%29) — [Rectificação, JO L 226, 25.6.2004, p. 22 (853/2004)](http://publications.europa.eu/resource/celex/32004R0853R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32024R1141R%2803%29) — [Rectificação, JO L 90421, 15.5.2025, p. 1 ((UE) 2024/11412024/1141)](http://publications.europa.eu/resource/celex/32024R1141R%2803%29)
-
-## REGULAMENTO (CE) N.º 853/2004 do PARLAMENTO EUROPEU E DO CONSELHO
 
 de 29 de Abril de 2004
 

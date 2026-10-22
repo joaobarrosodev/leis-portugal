@@ -33,6 +33,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-1999-1258.versoes.json
+  count: 1
+  source_lastmod: '2007-01-01'
+  versions:
+  - date: '1999-06-26'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31999R1258
   eli: http://data.europa.eu/eli/reg/1999/1258/oj
@@ -47,7 +56,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1e617ba6-6413-48a3-98a7-af432dc5bf5a.0011
   content_url: http://publications.europa.eu/resource/cellar/1e617ba6-6413-48a3-98a7-af432dc5bf5a.0011.01/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:56:46Z'
+  retrieved_at: '2026-10-22T14:48:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T09:21:33.817+01:00'
 integrity:
@@ -56,9 +65,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:46Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:09Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-1999-1258.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -180,17 +189,16 @@ relationships:
 article_structure:
   article_count: 20
   section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:46Z'
+  checked_at: '2026-10-22T14:48:09Z'
   warnings:
-  - Versão consolidada 01999R1258-20070101 indisponível (Sem expressão na língua por para CELEX 01999R1258-20070101.); usado
-    o texto do JO.
-  - Não foi detetado o título principal no XHTML.
+  - '01999R1258-19990703: versão indisponível (Sem expressão na língua por para CELEX 01999R1258-19990703.)'
+  - '01999R1258-20070101: versão indisponível (Sem expressão na língua por para CELEX 01999R1258-20070101.)'
   errors: []
 ---
 

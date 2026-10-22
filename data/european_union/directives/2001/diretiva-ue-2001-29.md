@@ -35,6 +35,32 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-06-06'
+version_history:
+  file: diretiva-ue-2001-29.versoes.json
+  count: 3
+  source_lastmod: '2019-06-06'
+  versions:
+  - date: '2001-06-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-10-10'
+    amending: eu:celex:32017L1564:por
+    amending_title: DIRETIVA (UE) 2017/1564 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de setembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Excepções e limitações
+    - Altera Artigo 11.º — Adaptações técnicas
+    - Altera Notas
+  - date: '2019-06-06'
+    amending: eu:celex:32019L0790:por
+    amending_title: DIRETIVA (UE) 2019/790 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 17 de
+      abril de 2019
+    changes:
+    - Altera Artigo 5.º — Excepções e limitações
+    - Altera Artigo 11.º — Adaptações técnicas
+    - Altera Artigo 12.º — Aplicação
+    - Altera Notas
 identifiers:
   celex: 32001L0029
   eli: http://data.europa.eu/eli/dir/2001/29/oj
@@ -49,7 +75,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1bf23c45-f5fa-44c4-be78-4101edfd675c.0010
   content_url: http://publications.europa.eu/resource/cellar/fb245c7e-86d9-11e9-9f05-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0029-20190606
-  retrieved_at: '2026-10-22T02:40:30Z'
+  retrieved_at: '2026-10-22T14:50:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-02T18:36:30.302+02:00'
 integrity:
@@ -58,9 +84,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:30Z'
-  notes: Texto consolidado 02001L0029-20190606.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:03Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2001-29.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -677,34 +703,19 @@ relationships:
   source: null
 article_structure:
   article_count: 15
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:30Z'
+  checked_at: '2026-10-22T14:50:03Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2001/29/CE do Parlamento Europeu e do Conselho, de 22 de Maio de 2001
-
-> 02001L0029 — PT — 06.06.2019 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017L1564) — [DIRETIVA (UE) 2017/1564 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de setembro de 2017](http://publications.europa.eu/resource/celex/32017L1564) — L 242 — 6 — 20.9.2017
-- [►M2](http://publications.europa.eu/resource/celex/32019L0790) — [DIRETIVA (UE) 2019/790 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 17 de abril de 2019](http://publications.europa.eu/resource/celex/32019L0790) — L 130 — 92 — 17.5.2019
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32001L0029R%2804%29) — [Rectificação, JO L 314, 25.11.2008, p. 16 (2001/29/CE)](http://publications.europa.eu/resource/celex/32001L0029R%2804%29)
-
-## DIRECTIVA 2001/29/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 22 de Maio de 2001
 

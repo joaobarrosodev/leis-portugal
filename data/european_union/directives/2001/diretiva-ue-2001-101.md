@@ -35,6 +35,24 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2002-11-27'
+version_history:
+  file: diretiva-ue-2001-101.versoes.json
+  count: 2
+  source_lastmod: '2002-11-27'
+  versions:
+  - date: '2001-11-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-11-27'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera ANEXO
 identifiers:
   celex: 32001L0101
   eli: http://data.europa.eu/eli/dir/2001/101/oj
@@ -49,7 +67,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6bff3b88-d93d-4d17-90d1-df4dde8c8dbf.0010
   content_url: http://publications.europa.eu/resource/cellar/34819123-5724-44b9-9778-539aa52a7c1c.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0101-20021127
-  retrieved_at: '2026-10-22T02:51:19Z'
+  retrieved_at: '2026-10-22T14:50:25Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T17:16:28.880+01:00'
 integrity:
@@ -58,9 +76,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:19Z'
-  notes: Texto consolidado 02001L0101-20021127.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:25Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2001-101.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -126,15 +144,14 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:19Z'
-  warnings:
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:50:25Z'
+  warnings: []
   errors: []
 ---
 

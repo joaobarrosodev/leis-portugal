@@ -34,6 +34,38 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-06-26'
+version_history:
+  file: diretiva-ue-1996-96.versoes.json
+  count: 2
+  source_lastmod: '2009-06-26'
+  versions:
+  - date: '1997-02-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-06-26'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I Disposições gerais — Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime CAPÍTULO II Excepções e derrogações — Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime CAPÍTULO III Disposições finais — Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime ANEXO I — CATEGORIAS DE VEÍCULOS SUJEITOS A CONTROLO TÉCNICO E PERIODICIDADE DOS CONTROLOS
+    - Suprime ANEXO II — PONTOS DE CONTROLO OBRIGATÓRIOS
+    - Suprime ANEXO III — PARTE A
+    - Suprime PARTE B — >POSIÇÃO NUMA TABELA>
+    - Suprime ANEXO IV — >POSIÇÃO NUMA TABELA>
 identifiers:
   celex: 31996L0096
   eli: http://data.europa.eu/eli/dir/1996/96/oj
@@ -48,7 +80,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f9bb02ee-7f41-4530-a5ba-de54b75403cc.0009
   content_url: http://publications.europa.eu/resource/cellar/a5e022b4-79b1-4ecd-ba43-fb0b5d516e26.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0096-20090626
-  retrieved_at: '2026-10-22T02:39:02Z'
+  retrieved_at: '2026-10-22T14:45:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-26T09:51:28.060+01:00'
 integrity:
@@ -57,9 +89,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:02Z'
-  notes: Texto consolidado 01996L0096-20090626.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:45:29Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1996-96.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -215,16 +247,19 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:02Z'
+  checked_at: '2026-10-22T14:45:29Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01996L0096-19970309: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996L0096-19990606: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996L0096-20010309: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996L0096-20030428: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996L0096-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

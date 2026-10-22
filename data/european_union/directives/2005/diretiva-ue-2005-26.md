@@ -34,6 +34,34 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-11-26'
+version_history:
+  file: diretiva-ue-2005-26.versoes.json
+  count: 3
+  source_lastmod: '2007-11-26'
+  versions:
+  - date: '2005-03-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-10-05'
+    amending: eu:celex:32005L0063:por
+    amending_title: DIRECTIVA 2005/63/CE DA COMISSÃO Texto relevante para efeitos do EEE de 3 de Outubro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Notas
+    - Adita ANEXO
+  - date: '2007-11-26'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime ANEXO
+    - Suprime Notas
 identifiers:
   celex: 32005L0026
   eli: http://data.europa.eu/eli/dir/2005/26/oj
@@ -48,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/921e1064-6246-4bd5-be43-6f6a47ad5773.0016
   content_url: http://publications.europa.eu/resource/cellar/f43e5b9e-47c3-4506-a1da-71215839893a.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0026-20071126
-  retrieved_at: '2026-10-22T02:57:55Z'
+  retrieved_at: '2026-10-22T14:59:17Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T04:35:39.737+01:00'
 integrity:
@@ -57,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:55Z'
-  notes: Texto consolidado 02005L0026-20071126.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:17Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2005-26.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -103,16 +131,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:55Z'
+  checked_at: '2026-10-22T14:59:17Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02005L0026-20050323: versão indisponível (Sem expressão na língua por para CELEX 02005L0026-20050323.)'
   errors: []
 ---
 

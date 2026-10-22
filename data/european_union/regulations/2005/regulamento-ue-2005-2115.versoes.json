@@ -1,0 +1,333 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005R2115:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R2115-20190617",
+ "dre_path": null,
+ "source_lastmod": "2019-06-17",
+ "versions": [
+  {
+   "date": "2006-06-29",
+   "future": false,
+   "celex": "32005R2115",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b1b82989f364fb62",
+    "cbdf5fdd72dc81c9",
+    "a71e22e2c33db2da",
+    "49b9b16e4dd83175",
+    "e44510dceef4d08e",
+    "293947a44257453b",
+    "17056777a73660bf",
+    "b6685fba5370303b",
+    "3eb731d61196e3c6",
+    "bca345ba2045d399",
+    "ee8781aeaba5c20b",
+    "a694ab11f8edfd53",
+    "e459a57bdb516988",
+    "cde5531f98efc88b"
+   ]
+  },
+  {
+   "date": "2009-12-16",
+   "future": false,
+   "celex": "02005R2115-20091216",
+   "acts": [
+    {
+     "id": "eu:celex:32009R1197:por",
+     "title": "REGULAMENTO (CE) N. o 1197/2009 DO CONSELHO de 30 de Novembro de 2009",
+     "published": null,
+     "celex": "32009R1197"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º — Autorizações de pesca especiais para a unidade populacional de alabote da Gronelândia",
+    "Altera Artigo 6.º — Comunicações",
+    "Altera Artigo 7.º — Margem de tolerância nas estimativas das quantidades indicadas no diário de bordo",
+    "Altera Artigo 12.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita Artigo 5.º-A — Entrada na Área de Regulamentação da NAFO"
+   ],
+   "fragments": [
+    "99f97d81a0c72312",
+    "cbdf5fdd72dc81c9",
+    "a71e22e2c33db2da",
+    "49b9b16e4dd83175",
+    "e44510dceef4d08e",
+    "e405ab22841ed6c5",
+    "73c0fd9e63a50b38",
+    "73229406d0c40cba",
+    "3b0eed260c1cea1b",
+    "3eb731d61196e3c6",
+    "bca345ba2045d399",
+    "ee8781aeaba5c20b",
+    "a694ab11f8edfd53",
+    "43141cf7598dc00b",
+    "dc320477ddfe6a63"
+   ]
+  },
+  {
+   "date": "2011-01-01",
+   "future": false,
+   "celex": "02005R2115-20110101",
+   "acts": [
+    {
+     "id": "eu:celex:32009R1224:por",
+     "title": "REGULAMENTO (CE) N. o 1224/2009 do Conselho de 20 de Novembro de 2009",
+     "published": null,
+     "celex": "32009R1224"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º — Autorizações de pesca especiais para a unidade populacional de alabote da Gronelândia",
+    "Altera Notas",
+    "Suprime Artigo 7.º — Margem de tolerância nas estimativas das quantidades indicadas no diário de bordo"
+   ],
+   "fragments": [
+    "14d3a8c65dd64357",
+    "cbdf5fdd72dc81c9",
+    "a71e22e2c33db2da",
+    "49b9b16e4dd83175",
+    "e44510dceef4d08e",
+    "d8dcfeef0d077934",
+    "73c0fd9e63a50b38",
+    "73229406d0c40cba",
+    "3eb731d61196e3c6",
+    "bca345ba2045d399",
+    "ee8781aeaba5c20b",
+    "a694ab11f8edfd53",
+    "43141cf7598dc00b",
+    "5e26fe6fb0cc6a64"
+   ]
+  },
+  {
+   "date": "2019-06-17",
+   "future": false,
+   "celex": "02005R2115-20190617",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Totais admissíveis de capturas (TAC)",
+    "Suprime Artigo 4.º — Proibição aplicável ao alabote da Gronelândia",
+    "Suprime Artigo 5.º — Autorizações de pesca especiais para a unidade populacional de alabote da Gronelândia",
+    "Suprime Artigo 5.º-A — Entrada na Área de Regulamentação da NAFO",
+    "Suprime Artigo 6.º — Comunicações",
+    "Suprime Artigo 8.º — Portos designados",
+    "Suprime Artigo 9.º — Notificação prévia",
+    "Suprime Artigo 10.º — Inspecções nos portos",
+    "Suprime Artigo 11.º — Proibição de desembarcar e transbordar aplicável aos navios de partes não contratantes",
+    "Suprime Artigo 12.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "3a0847eb53e84f60"
+   ]
+  }
+ ],
+ "fragments": {
+  "b1b82989f364fb62": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 2005\n\nque estabelece um plano de recuperação do alabote da Gronelândia no âmbito da Organização das Pescarias do Noroeste do Atlântico\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/13881b70-41b3-4637-be99-aa35ca3cff89.0016.03/DOC_1#ntr1-L_2005340PT.01000301-E0001),\n\nConsiderando o seguinte:\n\n(1) Pelo Regulamento (CEE) n.º 3179/78 do Conselho, de 28 de Dezembro de 1978, relativo à celebração pela Comunidade Económica Europeia da Convenção sobre futura cooperação multilateral nas pescarias do Noroeste do Atlântico [([^2])](http://publications.europa.eu/resource/cellar/13881b70-41b3-4637-be99-aa35ca3cff89.0016.03/DOC_1#ntr2-L_2005340PT.01000301-E0002), a Comunidade aprovou a referida convenção (a seguir denominada «convenção NAFO»).\n\n(2) A convenção NAFO estabelece um quadro adequado para a cooperação multilateral no domínio da conservação e gestão racionais dos recursos haliêuticos na zona que define.\n\n(3) Na sua reunião de Junho de 2003, o conselho científico da NAFO considerou que a unidade populacional de alabote da Gronelândia estava numa situação de declínio rápido, tendo recomendado uma redução sensível do nível do total admissível de capturas (TAC).\n\n(4) Na sua 25.º reunião anual, realizada de 15 a 19 de Setembro de 2003, a Organização das Pescarias do Noroeste do Atlântico (NAFO) adoptou um plano de recuperação do alabote da Gronelândia na subárea 2 e nas divisões 3KLMNO da NAFO por um período de 15 anos (a seguir denominado «plano de recuperação NAFO»). O plano de recuperação NAFO prossegue objectivos idênticos aos dos planos de recuperação previstos no artigo 5.º do Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da Política Comum das Pescas [([^3])](http://publications.europa.eu/resource/cellar/13881b70-41b3-4637-be99-aa35ca3cff89.0016.03/DOC_1#ntr3-L_2005340PT.01000301-E0003).\n\n(5) A fim de reconstituir a unidade populacional em análise, o plano de recuperação NAFO prevê uma redução do nível do TAC até 2007, assim como medidas de controlo destinadas a assegurar a eficácia do plano.\n\n(6) Na pendência da adopção de um regulamento do Conselho que execute as medidas plurianuais destinadas a reconstituir a unidade populacional de alabote da Gronelândia, o plano de recuperação NAFO foi aplicado, numa base provisória, pelos Regulamentos (CE) n.º 2287/2003 [([^4])](http://publications.europa.eu/resource/cellar/13881b70-41b3-4637-be99-aa35ca3cff89.0016.03/DOC_1#ntr4-L_2005340PT.01000301-E0004) e (CE) n.º 27/2005 [([^5])](http://publications.europa.eu/resource/cellar/13881b70-41b3-4637-be99-aa35ca3cff89.0016.03/DOC_1#ntr5-L_2005340PT.01000301-E0005), que fixam, respectivamente, para 2004, em relação a determinadas unidades populacionais de peixes ou grupos de unidades populacionais de peixes, as possibilidades de pesca e as condições associadas aplicáveis nas águas comunitárias e, para os navios de pesca comunitários, nas águas em que são necessárias limitações das capturas.\n\n(7) Afigura-se necessário aplicar o plano de recuperação NAFO numa base permanente, por meio de um plano de recuperação, previsto no artigo 5.º do Regulamento (CE) n.º 2371/2002. Para o efeito, deve ser determinado um processo de transmissão da lista dos navios para os quais foi emitida uma autorização de pesca especial, em conformidade com o Regulamento (CE) n.º 1627/94 do Conselho, de 27 de Junho de 1994, que estabelece as disposições gerais relativas às autorizações de pesca especiais [([^6])](http://publications.europa.eu/resource/cellar/13881b70-41b3-4637-be99-aa35ca3cff89.0016.03/DOC_1#ntr6-L_2005340PT.01000301-E0006).\n\n(8) Para dar cumprimento às medidas de controlo previstas no plano de recuperação NAFO, é necessário impor aos capitães dos navios comunitários obrigações em matéria de transmissão de dados e impor aos Estados-Membros a obrigação de repartir as respectivas quotas pelos seus navios autorizados.\n\n(9) São necessárias medidas de controlo suplementares para assegurar uma execução eficaz ao nível da Comunidade, assim como a coerência com outros planos de recuperação adoptados pelo Conselho noutras zonas. Essas medidas devem incluir uma obrigação de notificação prévia da entrada nos portos designados pelos Estados-Membros e de limitação das margens de tolerância,\n\nAPROVOU O PRESENTE REGULAMENTO:"
+  },
+  "cbdf5fdd72dc81c9": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento estabelece as regras gerais e condições de aplicação pela Comunidade de um plano de recuperação NAFO do alabote da Gronelândia na subárea 2 e nas divisões 3KLMNO da NAFO.\n\nO objectivo do plano de recuperação NAFO é fazer com que a biomassa explorável da classe etária de cinco anos e mais atinja 140 000 toneladas em média, o que permitiria um rendimento estável a longo prazo para a pescaria de alabote da Gronelândia."
+  },
+  "a71e22e2c33db2da": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, são aplicáveis as seguintes definições:\n\n1) «Subárea 2 da NAFO»: a zona geográfica definida no anexo III, ponto 3a) da convenção NAFO.\n\n2) «Divisões 3KLMNO da NAFO»: a zona geográfica definida no anexo III, ponto 4b) da convenção NAFO."
+  },
+  "49b9b16e4dd83175": {
+   "fragment_id": "Artigo 3.º — Totais admissíveis de capturas (TAC)",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Totais admissíveis de capturas (TAC)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Totais admissíveis de capturas (TAC)\n\nO TAC para o alabote da Gronelândia na subárea 2 e nas divisões 3KLMNO da NAFO é fixado do seguinte modo:\n\n— 18 500 toneladas em 2006,\n\n— 16 000 toneladas em 2007.\n\nContudo, sempre que, no âmbito da NAFO, sejam acordados novos níveis de TAC, o Conselho, deliberando por maioria qualificada sob proposta da Comissão, ajustará em conformidade os TAC previstos no primeiro parágrafo."
+  },
+  "e44510dceef4d08e": {
+   "fragment_id": "Artigo 4.º — Proibição aplicável ao alabote da Gronelândia",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Proibição aplicável ao alabote da Gronelândia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Proibição aplicável ao alabote da Gronelândia\n\nÉ proibido aos navios de pesca comunitários pescar alabote da Gronelândia na subárea 2 e nas divisões 3KLMNO da NAFO, assim como manter a bordo, transbordar ou desembarcar alabote da Gronelândia pescado nessa zona, sempre que não possuam a bordo uma autorização de pesca especial emitida pelo Estado-Membro de pavilhão."
+  },
+  "293947a44257453b": {
+   "fragment_id": "Artigo 5.º — Autorizações de pesca especiais para a unidade populacional de alabote da Gronelândia",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Autorizações de pesca especiais para a unidade populacional de alabote da Gronelândia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Autorizações de pesca especiais para a unidade populacional de alabote da Gronelândia\n\n1. Os Estados-Membros velam por que os navios para os quais foi emitida a autorização de pesca especial referida no artigo 4.º sejam incluídos numa lista com indicação do seu nome e do número de registo comunitário de embarcações de pesca, em conformidade com o anexo I do Regulamento (CE) n.º 26/2004 da Comissão, de 30 de Dezembro de 2003, relativo ao ficheiro da frota de pesca comunitária [([^7])](http://publications.europa.eu/resource/cellar/13881b70-41b3-4637-be99-aa35ca3cff89.0016.03/DOC_1#ntr7-L_2005340PT.01000301-E0007).\n\n2. Cada Estado-Membro envia à Comissão a lista a que se refere o n.º 1, assim como todas as suas alterações posteriores, em suporte informático.\n\n3. As alterações da lista a que se refere o n.º 1 são comunicadas à Comissão pelo menos cinco dias antes da data em que o navio inserido nessa lista entre na subárea 2 ou nas divisões 3KLMNO. A Comissão transmite imediatamente essas alterações ao secretariado da NAFO.\n\n4. Cada Estado-Membro reparte a respectiva quota de alabote da Gronelândia pelos seus navios incluídos na lista referida no n.º 1. Os Estados-Membros informam a Comissão da repartição das quotas todos os anos até 15 de Janeiro."
+  },
+  "17056777a73660bf": {
+   "fragment_id": "Artigo 6.º — Comunicações",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comunicações\n\n1. Os capitães dos navios de pesca referidos no n.º 1 do artigo 5.º transmitirão as seguintes comunicações ao Estado-Membro de pavilhão:\n\na) As quantidades de alabote da Gronelândia mantidas a bordo no momento em que o navio comunitário entra na subárea 2 ou nas divisões 3KLMNO da NAFO. Esta comunicação deve ser transmitida no máximo 12 horas antes e no mínimo 6 horas antes de cada entrada do navio na zona em causa;\n\nb) As quantidades semanais de alabote da Gronelândia. Esta comunicação deve ser feita pela primeira vez até ao final do sétimo dia seguinte à data de entrada do navio na subárea 2 ou nas divisões 3KLMNO da NAFO ou, quando as pescarias durem mais de sete dias, até à segunda-feira relativamente às capturas realizadas na subárea 2 ou nas divisões 3KLMNO na semana anterior que termina à meia-noite de domingo;\n\nc) As quantidades de alabote da Gronelândia mantidas a bordo no momento em que o navio comunitário sai da subárea 2 ou das divisões 3KLMNO da NAFO. Esta comunicação deve ser transmitida no máximo 12 horas antes e no mínimo 6 horas antes de cada saída do navio da zona em causa e indicar o número de dias de pesca e as capturas totais efectuadas na zona em causa;\n\nd) As quantidades carregadas e descarregadas aquando de cada transbordo de alabote da Gronelândia durante a permanência do navio na subárea 2 ou nas divisões 3KLMNO da NAFO. Esta comunicação deve ser transmitida nas 24 horas seguintes ao termo da operação de transbordo.\n\n2. Logo que as recebam, os Estados-Membros transmitem à Comissão as comunicações previstas nas alíneas a), c) e d) do n.º 1.\n\n3. Sempre que se considere que as capturas de alabote da Gronelândia notificadas nos termos do n.º 2 esgotaram 70 % da quota atribuída ao Estado-Membro, os capitães passam a transmitir de três em três dias as comunicações referidas na alínea b) do n.º 1."
+  },
+  "b6685fba5370303b": {
+   "fragment_id": "Artigo 7.º — Margem de tolerância nas estimativas das quantidades indicadas no diário de bordo",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Margem de tolerância nas estimativas das quantidades indicadas no diário de bordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Margem de tolerância nas estimativas das quantidades indicadas no diário de bordo\n\nEm derrogação do n.º 2 do artigo 5.º do Regulamento (CEE) n.º 2807/83 da Comissão, de 22 de Setembro de 1983, que define as regras especiais de registo das informações relativas às capturas de peixe pelos Estados-Membros [([^8])](http://publications.europa.eu/resource/cellar/13881b70-41b3-4637-be99-aa35ca3cff89.0016.03/DOC_1#ntr8-L_2005340PT.01000301-E0008), e do n.º 2 do artigo 9.º do Regulamento (CEE) n.º 2868/88 da Comissão, de 16 de Setembro de 1988, que adopta disposições para a aplicação do Programa de Inspecção Conjunta Internacional adoptado pela Organização das Pescarias do Noroeste do Atlântico [([^9])](http://publications.europa.eu/resource/cellar/13881b70-41b3-4637-be99-aa35ca3cff89.0016.03/DOC_1#ntr9-L_2005340PT.01000301-E0009), a margem de tolerância autorizada na estimativa das quantidades de alabote da Gronelândia pescado na subárea 2 e nas divisões 3KLMNO da NAFO, expressas em quilogramas, é de 8 %."
+  },
+  "3eb731d61196e3c6": {
+   "fragment_id": "Artigo 8.º — Portos designados",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Portos designados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Portos designados\n\n1. É proibido desembarcar dos navios referidos no n.º 1 do artigo 5.º quaisquer quantidades de alabote da Gronelândia pescado na subárea 2 e nas divisões 3KLMNO da NAFO em qualquer local diferente dos portos designados pelas partes contratantes da NAFO. É proibido o desembarque de alabote da Gronelândia em portos de partes não contratantes.\n\n2. Os Estados-Membros designam os portos em que podem ser realizados os desembarques de alabote da Gronelândia e determinam os respectivos processos de inspecção e de vigilância, incluindo os termos e as condições de registo e de comunicação das quantidades de alabote da Gronelândia em cada desembarque.\n\n3. Os Estados-Membros comunicam à Comissão todos os anos, até 15 de Janeiro, uma lista dos portos designados e até 31 de Janeiro os respectivos processos de inspecção e vigilância referidos no n.º 2. A Comissão transmite imediatamente essas informações ao secretariado da NAFO.\n\n4. A Comissão transmite rapidamente a todos os Estados-Membros a lista dos portos designados previstos no n.º 2, assim como dos portos designados pelas outras partes contratantes na NAFO."
+  },
+  "bca345ba2045d399": {
+   "fragment_id": "Artigo 9.º — Notificação prévia",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Notificação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Notificação prévia\n\nAntes de cada entrada num porto designado, os capitães dos navios de pesca referidos no n.º 1 do artigo 5.º ou os seus representantes comunicarão às autoridades competentes dos Estados-Membros cujos portos pretendem utilizar, pelo menos 72 horas antes da hora prevista para a chegada ao porto, as seguintes informações:\n\n1) A hora de chegada ao porto designado.\n\n2) Uma cópia da autorização de pesca especial referida no artigo 4.º\n\n3) As quantidades de alabote da Gronelândia mantidas a bordo, expressas em quilogramas de peso vivo.\n\n4) A zona ou as zonas da área da NAFO em que foram efectuadas as capturas."
+  },
+  "ee8781aeaba5c20b": {
+   "fragment_id": "Artigo 10.º — Inspecções nos portos",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Inspecções nos portos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Inspecções nos portos\n\n1. Os Estados-Membros garantirão que os navios referidos no n.º 1 do artigo 5.º que entrem num porto designado para desembarcar e/ou transbordar alabote da Gronelândia capturado na subárea 2 e divisões 3KLMNO da NAFO sejam submetidos a uma inspecção no porto, em conformidade com o regime de inspecção portuária da NAFO.\n\n2. É proibido descarregar e/ou transbordar as capturas dos navios referidos no n.º 1 antes de estarem presentes inspectores.\n\n3. Todas as quantidades descarregadas são pesadas por espécie, antes de serem transportadas para um entreposto frigorífico ou para outro destino.\n\n4. Os Estados-Membros comunicam o relatório de inspecção portuária correspondente ao secretariado da NAFO, com cópia para a Comissão, no prazo de catorze dias úteis seguintes à data da conclusão da inspecção."
+  },
+  "a694ab11f8edfd53": {
+   "fragment_id": "Artigo 11.º — Proibição de desembarcar e transbordar aplicável aos navios de partes não contratantes",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Proibição de desembarcar e transbordar aplicável aos navios de partes não contratantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Proibição de desembarcar e transbordar aplicável aos navios de partes não contratantes\n\nSão proibidos os desembarques e transbordos de alabote da Gronelândia por ou de navios de partes não contratantes que tenham exercido actividades de pesca na área de regulamentação da NAFO."
+  },
+  "e459a57bdb516988": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 1 de Janeiro de 2006.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 20 de Dezembro de 2005.\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**M. BECKETT**\n\n---"
+  },
+  "cde5531f98efc88b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/13881b70-41b3-4637-be99-aa35ca3cff89.0016.03/DOC_1#ntc1-L_2005340PT.01000301-E0001) Parecer emitido em 23 de Junho de 2005 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/13881b70-41b3-4637-be99-aa35ca3cff89.0016.03/DOC_1#ntc2-L_2005340PT.01000301-E0002) [JO L 378 de 30.12.1978, p. 1](http://publications.europa.eu/resource/oj/JOL_1978_378_R_TOC). Regulamento alterado pelo Regulamento (CEE) n.º 653/80 ([JO L 74 de 20.3.1980, p. 1](http://publications.europa.eu/resource/oj/JOL_1980_074_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/13881b70-41b3-4637-be99-aa35ca3cff89.0016.03/DOC_1#ntc3-L_2005340PT.01000301-E0003) [JO L 358 de 31.12.2002, p. 59](http://publications.europa.eu/resource/oj/JOL_2002_358_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/13881b70-41b3-4637-be99-aa35ca3cff89.0016.03/DOC_1#ntc4-L_2005340PT.01000301-E0004) [JO L 344 de 31.12.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_344_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/13881b70-41b3-4637-be99-aa35ca3cff89.0016.03/DOC_1#ntc5-L_2005340PT.01000301-E0005) [JO L 12 de 14.1.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_012_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/13881b70-41b3-4637-be99-aa35ca3cff89.0016.03/DOC_1#ntc6-L_2005340PT.01000301-E0006) [JO L 171 de 6.7.1994, p. 7](http://publications.europa.eu/resource/oj/JOL_1994_171_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/13881b70-41b3-4637-be99-aa35ca3cff89.0016.03/DOC_1#ntc7-L_2005340PT.01000301-E0007) [JO L 5 de 9.1.2004, p. 25](http://publications.europa.eu/resource/oj/JOL_2004_005_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/13881b70-41b3-4637-be99-aa35ca3cff89.0016.03/DOC_1#ntc8-L_2005340PT.01000301-E0008) [JO L 276 de 10.10.1983, p. 1](http://publications.europa.eu/resource/oj/JOL_1983_276_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1804/2005 ([JO L 290 de 4.11.2005, p. 10](http://publications.europa.eu/resource/oj/JOL_2005_290_R_TOC)).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/13881b70-41b3-4637-be99-aa35ca3cff89.0016.03/DOC_1#ntc9-L_2005340PT.01000301-E0009) [JO L 257 de 17.9.1988, p. 20](http://publications.europa.eu/resource/oj/JOL_1988_257_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 494/97 ([JO L 77 de 19.3.1997, p. 5](http://publications.europa.eu/resource/oj/JOL_1997_077_R_TOC))."
+  },
+  "99f97d81a0c72312": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 2005\n\nque estabelece um plano de recuperação do alabote da Gronelândia no âmbito da Organização das Pescarias do Noroeste do Atlântico\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/b02bb8b7-a686-4ff5-a2b1-43999598b410.0018.03/DOC_1#E0001)),\n\n(1) Pelo Regulamento (CEE) n.º 3179/78 do Conselho, de 28 de Dezembro de 1978, relativo à celebração pela Comunidade Económica Europeia da Convenção sobre futura cooperação multilateral nas pescarias do Noroeste do Atlântico ([^2^](http://publications.europa.eu/resource/cellar/b02bb8b7-a686-4ff5-a2b1-43999598b410.0018.03/DOC_1#E0002)), a Comunidade aprovou a referida convenção (a seguir denominada «convenção NAFO»).\n\n(2) A convenção NAFO estabelece um quadro adequado para a cooperação multilateral no domínio da conservação e gestão racionais dos recursos haliêuticos na zona que define.\n\n(3) Na sua reunião de Junho de 2003, o conselho científico da NAFO considerou que a unidade populacional de alabote da Gronelândia estava numa situação de declínio rápido, tendo recomendado uma redução sensível do nível do total admissível de capturas (TAC).\n\n(4) Na sua 25.º reunião anual, realizada de 15 a 19 de Setembro de 2003, a Organização das Pescarias do Noroeste do Atlântico (NAFO) adoptou um plano de recuperação do alabote da Gronelândia na subárea 2 e nas divisões 3KLMNO da NAFO por um período de 15 anos (a seguir denominado «plano de recuperação NAFO»). O plano de recuperação NAFO prossegue objectivos idênticos aos dos planos de recuperação previstos no artigo 5.º do Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da Política Comum das Pescas ([^3^](http://publications.europa.eu/resource/cellar/b02bb8b7-a686-4ff5-a2b1-43999598b410.0018.03/DOC_1#E0003)).\n\n(5) A fim de reconstituir a unidade populacional em análise, o plano de recuperação NAFO prevê uma redução do nível do TAC até 2007, assim como medidas de controlo destinadas a assegurar a eficácia do plano.\n\n(6) Na pendência da adopção de um regulamento do Conselho que execute as medidas plurianuais destinadas a reconstituir a unidade populacional de alabote da Gronelândia, o plano de recuperação NAFO foi aplicado, numa base provisória, pelos Regulamentos (CE) n.º 2287/2003 ([^4^](http://publications.europa.eu/resource/cellar/b02bb8b7-a686-4ff5-a2b1-43999598b410.0018.03/DOC_1#E0004)) e (CE) n.º 27/2005 ([^5^](http://publications.europa.eu/resource/cellar/b02bb8b7-a686-4ff5-a2b1-43999598b410.0018.03/DOC_1#E0005)), que fixam, respectivamente, para 2004, em relação a determinadas unidades populacionais de peixes ou grupos de unidades populacionais de peixes, as possibilidades de pesca e as condições associadas aplicáveis nas águas comunitárias e, para os navios de pesca comunitários, nas águas em que são necessárias limitações das capturas.\n\n(7) Afigura-se necessário aplicar o plano de recuperação NAFO numa base permanente, por meio de um plano de recuperação, previsto no artigo 5.º do Regulamento (CE) n.º 2371/2002. Para o efeito, deve ser determinado um processo de transmissão da lista dos navios para os quais foi emitida uma autorização de pesca especial, em conformidade com o Regulamento (CE) n.º 1627/94 do Conselho, de 27 de Junho de 1994, que estabelece as disposições gerais relativas às autorizações de pesca especiais ([^6^](http://publications.europa.eu/resource/cellar/b02bb8b7-a686-4ff5-a2b1-43999598b410.0018.03/DOC_1#E0006)).\n\n(8) Para dar cumprimento às medidas de controlo previstas no plano de recuperação NAFO, é necessário impor aos capitães dos navios comunitários obrigações em matéria de transmissão de dados e impor aos Estados-Membros a obrigação de repartir as respectivas quotas pelos seus navios autorizados.\n\n(9) São necessárias medidas de controlo suplementares para assegurar uma execução eficaz ao nível da Comunidade, assim como a coerência com outros planos de recuperação adoptados pelo Conselho noutras zonas. Essas medidas devem incluir uma obrigação de notificação prévia da entrada nos portos designados pelos Estados-Membros e de limitação das margens de tolerância,\n\nAPROVOU O PRESENTE REGULAMENTO:"
+  },
+  "e405ab22841ed6c5": {
+   "fragment_id": "Artigo 5.º — Autorizações de pesca especiais para a unidade populacional de alabote da Gronelândia",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Autorizações de pesca especiais para a unidade populacional de alabote da Gronelândia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Autorizações de pesca especiais para a unidade populacional de alabote da Gronelândia\n\n1. Os Estados-Membros velam por que os navios para os quais foi emitida a autorização de pesca especial referida no artigo 4.º sejam incluídos numa lista com indicação do seu nome e do número de registo comunitário de embarcações de pesca, em conformidade com o anexo I do Regulamento (CE) n.º 26/2004 da Comissão, de 30 de Dezembro de 2003, relativo ao ficheiro da frota de pesca comunitária ([^7^](http://publications.europa.eu/resource/cellar/b02bb8b7-a686-4ff5-a2b1-43999598b410.0018.03/DOC_1#E0007)).\n\n2. Cada Estado-Membro envia à Comissão a lista a que se refere o n.º 1, assim como todas as suas alterações posteriores, em suporte informático.\n\n3. As alterações da lista a que se refere o n.º 1 são comunicadas à Comissão pelo menos cinco dias antes da data em que o navio inserido nessa lista entre na subárea 2 ou nas divisões 3KLMNO. A Comissão transmite imediatamente essas alterações ao secretariado da NAFO.\n\n4. Cada Estado-Membro reparte a respectiva quota de alabote da Gronelândia pelos seus navios incluídos na lista referida no n.º 1. Os Estados-Membros informam a Comissão da repartição das quotas todos os anos até 15 de Janeiro."
+  },
+  "73c0fd9e63a50b38": {
+   "fragment_id": "Artigo 5.º-A — Entrada na Área de Regulamentação da NAFO",
+   "type": "artigo",
+   "heading": "Artigo 5.º-A — Entrada na Área de Regulamentação da NAFO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º-A — Entrada na Área de Regulamentação da NAFO\n\n1. Os navios de pesca a que se refere o n.º 1 do artigo 5.º só podem entrar na Área de Regulamentação da NAFO para pescar alabote da Gronelândia se:\n\na) Tiverem menos de 50 toneladas de quaisquer capturas a bordo; ou\n\nb) Observarem o procedimento estabelecido nos n.^os^ 2, 3 e 4.\n\n2. Caso tenham a bordo 50 toneladas ou mais de capturas provenientes de zonas exteriores à Área de Regulamentação da NAFO, os navios de pesca devem comunicar ao Secretariado da NAFO por correio electrónico ou fax, pelo menos 72 horas antes da entrada na Área de Regulamentação da NAFO:\n\na) As quantidades de capturas mantidas a bordo;\n\nb) A posição (latitude/longitude) em que o capitão estima que o navio iniciará a pesca; e\n\nc) A hora estimada de chegada a essa posição.\n\n3. Se, após a comunicação a que se refere o n.º 2, um navio de inspecção assinalar a sua intenção de proceder a uma inspecção, deve o mesmo comunicar ao navio de pesca as coordenadas de um ponto de controlo com vista à realização de uma inspecção. O ponto de controlo deve situar-se a uma distância máxima de 60 milhas marítimas da posição em que, segundo as previsões do capitão do navio de pesca, o navio iniciará as actividades de pesca.\n\n4. Os navios de pesca a que se refere o n.º 2 podem iniciar as operações de pesca em qualquer dos seguintes casos:\n\na) Se receberem uma comunicação do Secretariado da NAFO para esse efeito;\n\nb) Se, depois de uma inspecção efectuada em conformidade com o n.º 3, forem informados pelo navio de inspecção de que podem iniciar as operações de pesca;\n\nc) Se o navio de inspecção não tiver iniciado a inspecção no prazo de três horas a contar da chegada do navio de pesca ao ponto de controlo designado em conformidade com o n.º 3;\n\nd) Se não tiverem recebido, até à sua entrada na Área de Regulamentação da NAFO, qualquer comunicação do Secretariado da NAFO ou de um navio de inspecção indicando que um navio de inspecção pretende efectuar uma inspecção em conformidade com o n.º 3."
+  },
+  "73229406d0c40cba": {
+   "fragment_id": "Artigo 6.º — Comunicações",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comunicações\n\n1. Os capitães dos navios de pesca referidos no n.º 1 do artigo 5.º transmitirão as seguintes comunicações ao Estado-Membro de pavilhão:\n\na) As quantidades de alabote da Gronelândia mantidas a bordo no momento em que o navio comunitário entra na subárea 2 ou nas divisões 3KLMNO da NAFO. Esta comunicação deve ser transmitida no máximo 12 horas antes e no mínimo 6 horas antes de cada entrada do navio na zona em causa;\n\nb) As quantidades de alabote da Gronelândia capturadas, mesmo se forem nulas, de cinco em cinco dias. Esta comunicação deve ser feita pela primeira vez até ao final do décimo dia seguinte à data de entrada do navio na subárea 2 ou nas divisões 3KLMNO da NAFO;\n\nc) As quantidades de alabote da Gronelândia mantidas a bordo no momento em que o navio comunitário sai da subárea 2 ou das divisões 3KLMNO da NAFO. Esta comunicação deve ser transmitida no máximo 12 horas antes e no mínimo 6 horas antes de cada saída do navio da zona em causa e indicar o número de dias de pesca e as capturas totais efectuadas na zona em causa;\n\nd) As quantidades carregadas e descarregadas aquando de cada transbordo de alabote da Gronelândia durante a permanência do navio na subárea 2 ou nas divisões 3KLMNO da NAFO. Esta comunicação deve ser transmitida nas 24 horas seguintes ao termo da operação de transbordo.\n\n2. Logo que as recebam, os Estados-Membros transmitem à Comissão as comunicações previstas no n.º 1. A Comissão transmite imediatamente a comunicação prevista na alínea b) do n.º 1 ao Secretariado da NAFO.\n\n3. Sempre que se considere que as capturas de alabote da Gronelândia notificadas nos termos do n.º 2 esgotaram 75 % da quota atribuída ao Estado-Membro, os capitães passam a transmitir de três em três dias as comunicações referidas na alínea b) do n.º 1."
+  },
+  "3b0eed260c1cea1b": {
+   "fragment_id": "Artigo 7.º — Margem de tolerância nas estimativas das quantidades indicadas no diário de bordo",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Margem de tolerância nas estimativas das quantidades indicadas no diário de bordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Margem de tolerância nas estimativas das quantidades indicadas no diário de bordo\n\nEm derrogação do n.º 2 do artigo 5.º do Regulamento (CEE) n.º 2807/83 da Comissão, de 22 de Setembro de 1983, que define as regras especiais de registo das informações relativas às capturas de peixe pelos Estados-Membros ([^8^](http://publications.europa.eu/resource/cellar/b02bb8b7-a686-4ff5-a2b1-43999598b410.0018.03/DOC_1#E0008)), e do n.º 2 do artigo 9.º do Regulamento (CEE) n.º 2868/88 da Comissão, de 16 de Setembro de 1988, que adopta disposições para a aplicação do Programa de Inspecção Conjunta Internacional adoptado pela Organização das Pescarias do Noroeste do Atlântico ([^9^](http://publications.europa.eu/resource/cellar/b02bb8b7-a686-4ff5-a2b1-43999598b410.0018.03/DOC_1#E0009)), a margem de tolerância autorizada na estimativa das quantidades de alabote da Gronelândia pescado na subárea 2 e nas divisões 3KLMNO da NAFO, expressas em quilogramas, é de 8 %."
+  },
+  "43141cf7598dc00b": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 1 de Janeiro de 2006.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "dc320477ddfe6a63": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b02bb8b7-a686-4ff5-a2b1-43999598b410.0018.03/DOC_1#src.E0001)) Parecer emitido em 23 de Junho de 2005 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b02bb8b7-a686-4ff5-a2b1-43999598b410.0018.03/DOC_1#src.E0002)) JO L 378 de 30.12.1978, p. 1. Regulamento alterado pelo Regulamento (CEE) n.º 653/80 (JO L 74 de 20.3.1980, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b02bb8b7-a686-4ff5-a2b1-43999598b410.0018.03/DOC_1#src.E0003)) JO L 358 de 31.12.2002, p. 59.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b02bb8b7-a686-4ff5-a2b1-43999598b410.0018.03/DOC_1#src.E0004)) JO L 344 de 31.12.2003, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b02bb8b7-a686-4ff5-a2b1-43999598b410.0018.03/DOC_1#src.E0005)) JO L 12 de 14.1.2005, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b02bb8b7-a686-4ff5-a2b1-43999598b410.0018.03/DOC_1#src.E0006)) JO L 171 de 6.7.1994, p. 7.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b02bb8b7-a686-4ff5-a2b1-43999598b410.0018.03/DOC_1#src.E0007)) JO L 5 de 9.1.2004, p. 25.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/b02bb8b7-a686-4ff5-a2b1-43999598b410.0018.03/DOC_1#src.E0008)) JO L 276 de 10.10.1983, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1804/2005 (JO L 290 de 4.11.2005, p. 10).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/b02bb8b7-a686-4ff5-a2b1-43999598b410.0018.03/DOC_1#src.E0009)) JO L 257 de 17.9.1988, p. 20. Regulamento alterado pelo Regulamento (CE) n.º 494/97 (JO L 77 de 19.3.1997, p. 5)."
+  },
+  "14d3a8c65dd64357": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 2005\n\nque estabelece um plano de recuperação do alabote da Gronelândia no âmbito da Organização das Pescarias do Noroeste do Atlântico\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/15d7bfe8-1f8d-44c4-a396-a5811c1071df.0018.03/DOC_1#E0001)),\n\n(1) Pelo Regulamento (CEE) n.º 3179/78 do Conselho, de 28 de Dezembro de 1978, relativo à celebração pela Comunidade Económica Europeia da Convenção sobre futura cooperação multilateral nas pescarias do Noroeste do Atlântico ([^2^](http://publications.europa.eu/resource/cellar/15d7bfe8-1f8d-44c4-a396-a5811c1071df.0018.03/DOC_1#E0002)), a Comunidade aprovou a referida convenção (a seguir denominada «convenção NAFO»).\n\n(2) A convenção NAFO estabelece um quadro adequado para a cooperação multilateral no domínio da conservação e gestão racionais dos recursos haliêuticos na zona que define.\n\n(3) Na sua reunião de Junho de 2003, o conselho científico da NAFO considerou que a unidade populacional de alabote da Gronelândia estava numa situação de declínio rápido, tendo recomendado uma redução sensível do nível do total admissível de capturas (TAC).\n\n(4) Na sua 25.º reunião anual, realizada de 15 a 19 de Setembro de 2003, a Organização das Pescarias do Noroeste do Atlântico (NAFO) adoptou um plano de recuperação do alabote da Gronelândia na subárea 2 e nas divisões 3KLMNO da NAFO por um período de 15 anos (a seguir denominado «plano de recuperação NAFO»). O plano de recuperação NAFO prossegue objectivos idênticos aos dos planos de recuperação previstos no artigo 5.º do Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da Política Comum das Pescas ([^3^](http://publications.europa.eu/resource/cellar/15d7bfe8-1f8d-44c4-a396-a5811c1071df.0018.03/DOC_1#E0003)).\n\n(5) A fim de reconstituir a unidade populacional em análise, o plano de recuperação NAFO prevê uma redução do nível do TAC até 2007, assim como medidas de controlo destinadas a assegurar a eficácia do plano.\n\n(6) Na pendência da adopção de um regulamento do Conselho que execute as medidas plurianuais destinadas a reconstituir a unidade populacional de alabote da Gronelândia, o plano de recuperação NAFO foi aplicado, numa base provisória, pelos Regulamentos (CE) n.º 2287/2003 ([^4^](http://publications.europa.eu/resource/cellar/15d7bfe8-1f8d-44c4-a396-a5811c1071df.0018.03/DOC_1#E0004)) e (CE) n.º 27/2005 ([^5^](http://publications.europa.eu/resource/cellar/15d7bfe8-1f8d-44c4-a396-a5811c1071df.0018.03/DOC_1#E0005)), que fixam, respectivamente, para 2004, em relação a determinadas unidades populacionais de peixes ou grupos de unidades populacionais de peixes, as possibilidades de pesca e as condições associadas aplicáveis nas águas comunitárias e, para os navios de pesca comunitários, nas águas em que são necessárias limitações das capturas.\n\n(7) Afigura-se necessário aplicar o plano de recuperação NAFO numa base permanente, por meio de um plano de recuperação, previsto no artigo 5.º do Regulamento (CE) n.º 2371/2002. Para o efeito, deve ser determinado um processo de transmissão da lista dos navios para os quais foi emitida uma autorização de pesca especial, em conformidade com o Regulamento (CE) n.º 1627/94 do Conselho, de 27 de Junho de 1994, que estabelece as disposições gerais relativas às autorizações de pesca especiais ([^6^](http://publications.europa.eu/resource/cellar/15d7bfe8-1f8d-44c4-a396-a5811c1071df.0018.03/DOC_1#E0006)).\n\n(8) Para dar cumprimento às medidas de controlo previstas no plano de recuperação NAFO, é necessário impor aos capitães dos navios comunitários obrigações em matéria de transmissão de dados e impor aos Estados-Membros a obrigação de repartir as respectivas quotas pelos seus navios autorizados.\n\n(9) São necessárias medidas de controlo suplementares para assegurar uma execução eficaz ao nível da Comunidade, assim como a coerência com outros planos de recuperação adoptados pelo Conselho noutras zonas. Essas medidas devem incluir uma obrigação de notificação prévia da entrada nos portos designados pelos Estados-Membros e de limitação das margens de tolerância,\n\nAPROVOU O PRESENTE REGULAMENTO:"
+  },
+  "d8dcfeef0d077934": {
+   "fragment_id": "Artigo 5.º — Autorizações de pesca especiais para a unidade populacional de alabote da Gronelândia",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Autorizações de pesca especiais para a unidade populacional de alabote da Gronelândia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Autorizações de pesca especiais para a unidade populacional de alabote da Gronelândia\n\n1. Os Estados-Membros velam por que os navios para os quais foi emitida a autorização de pesca especial referida no artigo 4.º sejam incluídos numa lista com indicação do seu nome e do número de registo comunitário de embarcações de pesca, em conformidade com o anexo I do Regulamento (CE) n.º 26/2004 da Comissão, de 30 de Dezembro de 2003, relativo ao ficheiro da frota de pesca comunitária ([^7^](http://publications.europa.eu/resource/cellar/15d7bfe8-1f8d-44c4-a396-a5811c1071df.0018.03/DOC_1#E0007)).\n\n2. Cada Estado-Membro envia à Comissão a lista a que se refere o n.º 1, assim como todas as suas alterações posteriores, em suporte informático.\n\n3. As alterações da lista a que se refere o n.º 1 são comunicadas à Comissão pelo menos cinco dias antes da data em que o navio inserido nessa lista entre na subárea 2 ou nas divisões 3KLMNO. A Comissão transmite imediatamente essas alterações ao secretariado da NAFO.\n\n4. Cada Estado-Membro reparte a respectiva quota de alabote da Gronelândia pelos seus navios incluídos na lista referida no n.º 1. Os Estados-Membros informam a Comissão da repartição das quotas todos os anos até 15 de Janeiro."
+  },
+  "5e26fe6fb0cc6a64": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/15d7bfe8-1f8d-44c4-a396-a5811c1071df.0018.03/DOC_1#src.E0001)) Parecer emitido em 23 de Junho de 2005 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/15d7bfe8-1f8d-44c4-a396-a5811c1071df.0018.03/DOC_1#src.E0002)) JO L 378 de 30.12.1978, p. 1. Regulamento alterado pelo Regulamento (CEE) n.º 653/80 (JO L 74 de 20.3.1980, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/15d7bfe8-1f8d-44c4-a396-a5811c1071df.0018.03/DOC_1#src.E0003)) JO L 358 de 31.12.2002, p. 59.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/15d7bfe8-1f8d-44c4-a396-a5811c1071df.0018.03/DOC_1#src.E0004)) JO L 344 de 31.12.2003, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/15d7bfe8-1f8d-44c4-a396-a5811c1071df.0018.03/DOC_1#src.E0005)) JO L 12 de 14.1.2005, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/15d7bfe8-1f8d-44c4-a396-a5811c1071df.0018.03/DOC_1#src.E0006)) JO L 171 de 6.7.1994, p. 7.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/15d7bfe8-1f8d-44c4-a396-a5811c1071df.0018.03/DOC_1#src.E0007)) JO L 5 de 9.1.2004, p. 25."
+  },
+  "3a0847eb53e84f60": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02005R2115 — PT — 17.06.2019 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32005R2115) [REGULAMENTO (CE) N.º 2115/2005 DO CONSELHO](http://publications.europa.eu/resource/celex/32005R2115) [de 20 de Dezembro de 2005](http://publications.europa.eu/resource/celex/32005R2115) [que estabelece um plano de recuperação do alabote da Gronelândia no âmbito da Organização das Pescarias do Noroeste do Atlântico](http://publications.europa.eu/resource/celex/32005R2115) (JO L 340, 23.12.2005, p.3)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2019/833 do Parlamento Europeu e do Conselho de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0833) — L 141 — 1 — 28.5.2019"
+  }
+ }
+}

@@ -1,0 +1,902 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0014:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0014-20150617",
+ "dre_path": null,
+ "source_lastmod": "2015-06-17",
+ "versions": [
+  {
+   "date": "2002-12-14",
+   "future": false,
+   "celex": "02001L0014-20021214",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "24a2419bc649b222",
+    "226c39ffd0a88dad",
+    "95110ef01b194c22",
+    "59d946cceb835f47",
+    "e4bcd443cad7467c",
+    "488c829af9518a2c",
+    "f0f8c960bfdbce9b",
+    "e973989b18832821",
+    "224d2ec9fe44750d",
+    "293f6a6bc6c3495f",
+    "f952c9779fddc21b",
+    "bca380ef46b582bf",
+    "5a58c592e0fd9e5f",
+    "2c96d3ec1c75edd1",
+    "d3f3d0cb7540b897",
+    "62e66218c68861b7",
+    "46b9b4e532b29c61",
+    "1e7a0903d2eed348",
+    "8f9e07ef475aa588",
+    "04ddab5504749bf5",
+    "5684b5f8c7d1fb89",
+    "6e35b49acbbbb60f",
+    "1c3852e20199d013",
+    "7f2c42f858e0d28d",
+    "0f873954a847cf8f",
+    "d23dcb6d76e33ca7",
+    "129cecb26369c492",
+    "c69710e5092b4d29",
+    "a47d8c38a4171fda",
+    "f69bb67c6b85e294",
+    "301bc0c14837146f",
+    "68bba7565a03a3d6",
+    "3b444d0421dceddb",
+    "428e3c81124c5f2d",
+    "58e626e8f8a1ba6f",
+    "1bf3467c6c92a18c",
+    "1ecfc79da3f1ac7f",
+    "e17a2adcfbbdd4cc",
+    "3f1339f1001cb6a1",
+    "d3e58476aebf6e3a",
+    "6250b25e5cc8ab5e",
+    "3578dec736b051a8",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "95c4161e8daef28d",
+    "3fd45d1b63190882",
+    "b9e2ac6c3623bbd7",
+    "25f75d0d0d9102fc",
+    "0f9fabfbaf18e453",
+    "487a452a0ef5c983",
+    "3f8029b98a6d39be",
+    "d664376e2a8dcecd",
+    "9da0769474d32708",
+    "852174729551523b",
+    "c6b2a6e1c6e114d3",
+    "720af75c92791b10",
+    "44ee92259ddf4af9",
+    "0a62a00969dd7781"
+   ]
+  },
+  {
+   "date": "2004-04-30",
+   "future": false,
+   "celex": "02001L0014-20040430",
+   "acts": [
+    {
+     "id": "eu:celex:32004L0049:por",
+     "title": "DIRECTIVA 2004/49/CE DO PARLAMENTO EUROPEU E DO CONSELHO directiva relativa à segurança ferroviária de 29 de Abril de 2004",
+     "published": null,
+     "celex": "32004L0049"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 30.º — Entidade reguladora",
+    "Altera Artigo 34.º — Medidas de execução",
+    "Altera Notas",
+    "Suprime Artigo 32.º — Certificado de segurança"
+   ],
+   "fragments": [
+    "f7e6a7d270332cd6",
+    "226c39ffd0a88dad",
+    "95110ef01b194c22",
+    "59d946cceb835f47",
+    "d5d987761abed686",
+    "488c829af9518a2c",
+    "f0f8c960bfdbce9b",
+    "e973989b18832821",
+    "224d2ec9fe44750d",
+    "293f6a6bc6c3495f",
+    "f952c9779fddc21b",
+    "bca380ef46b582bf",
+    "5a58c592e0fd9e5f",
+    "2c96d3ec1c75edd1",
+    "d3f3d0cb7540b897",
+    "62e66218c68861b7",
+    "46b9b4e532b29c61",
+    "1e7a0903d2eed348",
+    "8f9e07ef475aa588",
+    "04ddab5504749bf5",
+    "5684b5f8c7d1fb89",
+    "6e35b49acbbbb60f",
+    "1c3852e20199d013",
+    "7f2c42f858e0d28d",
+    "0f873954a847cf8f",
+    "d23dcb6d76e33ca7",
+    "129cecb26369c492",
+    "c69710e5092b4d29",
+    "a47d8c38a4171fda",
+    "f69bb67c6b85e294",
+    "301bc0c14837146f",
+    "68bba7565a03a3d6",
+    "3b444d0421dceddb",
+    "428e3c81124c5f2d",
+    "58e626e8f8a1ba6f",
+    "1bf3467c6c92a18c",
+    "1ecfc79da3f1ac7f",
+    "e17a2adcfbbdd4cc",
+    "fe07401b52d68def",
+    "d3e58476aebf6e3a",
+    "3578dec736b051a8",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "afc58c95f1066168",
+    "3fd45d1b63190882",
+    "b9e2ac6c3623bbd7",
+    "25f75d0d0d9102fc",
+    "0f9fabfbaf18e453",
+    "487a452a0ef5c983",
+    "3f8029b98a6d39be",
+    "d664376e2a8dcecd",
+    "9da0769474d32708",
+    "852174729551523b",
+    "c6b2a6e1c6e114d3",
+    "720af75c92791b10",
+    "44ee92259ddf4af9",
+    "15e52a77408ffac1"
+   ]
+  },
+  {
+   "date": "2007-12-04",
+   "future": false,
+   "celex": "02001L0014-20071204",
+   "acts": [
+    {
+     "id": "eu:celex:32007L0058:por",
+     "title": "DIRECTIVA 2007/58/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de Outubro de 2007",
+     "published": null,
+     "celex": "32007L0058"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Âmbito de aplicação",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 13.º — Direitos de capacidade",
+    "Altera Artigo 17.º — Acordos-quadro",
+    "Altera Artigo 30.º — Entidade reguladora",
+    "Altera Artigo 34.º — Medidas de execução",
+    "Altera Artigo 35.º — Comitologia",
+    "Altera Artigo 38.º — Execução",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "7ed45b75cd2097b2",
+    "226c39ffd0a88dad",
+    "95110ef01b194c22",
+    "9a00f8a980eacfa3",
+    "c7a013608521040d",
+    "488c829af9518a2c",
+    "f0f8c960bfdbce9b",
+    "e973989b18832821",
+    "224d2ec9fe44750d",
+    "293f6a6bc6c3495f",
+    "f952c9779fddc21b",
+    "bca380ef46b582bf",
+    "5a58c592e0fd9e5f",
+    "2c96d3ec1c75edd1",
+    "d3f3d0cb7540b897",
+    "62e66218c68861b7",
+    "46b9b4e532b29c61",
+    "1e7a0903d2eed348",
+    "8f9e07ef475aa588",
+    "1028dae3fe8cec78",
+    "5684b5f8c7d1fb89",
+    "6e35b49acbbbb60f",
+    "1c3852e20199d013",
+    "dff50a3f54152973",
+    "0f873954a847cf8f",
+    "d23dcb6d76e33ca7",
+    "129cecb26369c492",
+    "c69710e5092b4d29",
+    "a47d8c38a4171fda",
+    "f69bb67c6b85e294",
+    "301bc0c14837146f",
+    "68bba7565a03a3d6",
+    "3b444d0421dceddb",
+    "428e3c81124c5f2d",
+    "58e626e8f8a1ba6f",
+    "1bf3467c6c92a18c",
+    "1ecfc79da3f1ac7f",
+    "e17a2adcfbbdd4cc",
+    "f97835e51badca61",
+    "d3e58476aebf6e3a",
+    "3578dec736b051a8",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "030306a3799b3fda",
+    "3fdfd51d308bcda3",
+    "b9e2ac6c3623bbd7",
+    "25f75d0d0d9102fc",
+    "599c9a009c140705",
+    "487a452a0ef5c983",
+    "3f8029b98a6d39be",
+    "d664376e2a8dcecd",
+    "9da0769474d32708",
+    "852174729551523b",
+    "c6b2a6e1c6e114d3",
+    "720af75c92791b10",
+    "44ee92259ddf4af9",
+    "d04a0247a7d3b5d5"
+   ]
+  },
+  {
+   "date": "2015-06-17",
+   "future": false,
+   "celex": "02001L0014-20150617",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime DISPOSIÇÕES INTRODUTÓRIAS",
+    "Suprime Artigo 1.º — Âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Especificações da rede",
+    "Suprime CAPÍTULO II",
+    "Suprime TAXAS DE UTILIZAÇÃO DA INFRA-ESTRUTURA",
+    "Suprime Artigo 4.º — Fixação, determinação e cobrança de taxas",
+    "Suprime Artigo 5.º — Serviços",
+    "Suprime Artigo 6.º — Custos e contabilidade da infra-estrutura",
+    "Suprime Artigo 7.º — Princípios de tarificação",
+    "Suprime Artigo 8.º — Excepções aos princípios de tarificação",
+    "Suprime Artigo 9.º — Descontos",
+    "Suprime Artigo 10.º — Sistemas de compensação de custos ambientais, de acidentes e de infra-estrutura não cobertos",
+    "Suprime Artigo 11.º — Regime de melhoria do desempenho",
+    "Suprime Artigo 12.º — Taxas de reserva de capacidade",
+    "Suprime CAPÍTULO III",
+    "Suprime REPARTIÇÃO DA CAPACIDADE DE INFRA-ESTRUTURA",
+    "Suprime Artigo 13.º — Direitos de capacidade",
+    "Suprime Artigo 14.º — Repartição da capacidade",
+    "Suprime Artigo 15.º — Cooperação para a repartição da capacidade de infra-estrutura por várias redes",
+    "Suprime Artigo 16.º — Candidatos",
+    "Suprime Artigo 17.º — Acordos-quadro",
+    "Suprime Artigo 18.º — Calendário do processo de repartição",
+    "Suprime Artigo 19.º — Pedidos",
+    "Suprime Artigo 20.º — Planificação",
+    "Suprime Artigo 21.º — Processo de coordenação",
+    "Suprime Artigo 22.º — Infra-estrutura congestionada",
+    "Suprime Artigo 23.º — Pedidos ad hoc",
+    "Suprime Artigo 24.º — Infra-estrutura especializada",
+    "Suprime Artigo 25.º — Análise da capacidade",
+    "Suprime Artigo 26.º — Plano de reforço da capacidade",
+    "Suprime Artigo 27.º — Utilização dos traçados",
+    "Suprime Artigo 28.º — Capacidade de infra-estrutura para manutenção planificada",
+    "Suprime Artigo 29.º — Medidas especiais em caso de perturbação",
+    "Suprime CAPÍTULO IV",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 30.º — Entidade reguladora",
+    "Suprime Artigo 31.º — Cooperação das entidades reguladoras",
+    "Suprime Artigo 33.º — Derrogações",
+    "Suprime CAPÍTULO V",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 34.º — Medidas de execução",
+    "Suprime Artigo 35.º — Comitologia",
+    "Suprime Artigo 36.º — Relatório",
+    "Suprime Artigo 37.º — Revogações",
+    "Suprime Artigo 38.º — Execução",
+    "Suprime Artigo 39.º — Entrada em vigor",
+    "Suprime Artigo 40.º — Destinatários",
+    "Suprime ANEXO I",
+    "Suprime Conteúdo das especificações da rede",
+    "Suprime ANEXO II",
+    "Suprime Serviços a fornecer às empresas de transporte ferroviário",
+    "Suprime ANEXO III",
+    "Suprime Calendário do processo de repartição",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "4abcbe1a6bb8581f"
+   ]
+  }
+ ],
+ "fragments": {
+  "24a2419bc649b222": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Fevereiro de 2001\n\nrelativa à repartição de capacidade da infra-estrutura ferroviária, à aplicação de taxas de utilização da infra-estrutura ferroviária e à certificação da segurança\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 71.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#E0004)), em função do projecto comum aprovado pelo Comité de conciliação em 22 de Novembro de 2000,\n\n(1) Uma maior integração do sector ferroviário da Comunidade constitui um elemento essencial para a realização do mercado interno e contribui para a mobilidade sustentável.\n\n(2) A Directiva 91/440/CEE do Conselho, de 29 de Julho de 1991, relativa ao desenvolvimento dos caminhos-de-ferro comunitários ([^5^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#E0005)), estabelece determinados direitos de acesso, no âmbito do transporte ferroviário internacional, para as empresas de transporte ferroviário e agrupamentos internacionais de empresas de transporte ferroviário. Esses direitos pressupõem a utilização da infra-estrutura ferroviária por múltiplos utilizadores.\n\n(3) A Directiva 95/19/CE do Conselho, de 19 de Junho de 1995, relativa à repartição das capacidades de infra-estrutura ferroviária e à cobrança de taxas de utilização da infra-estrutura ([^6^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#E0006)), institui um enquadramento geral para a repartição de capacidades da infra-estrutura ferroviária.\n\n(4) Estas directivas não impediram uma variação considerável da estrutura e do nível das taxas de utilização da infra-estrutura ferroviária, bem como da forma e duração dos processos de repartição das capacidades.\n\n(5) Para garantir a transparência e um acesso não discriminatório à infra-estrutura ferroviária para todas as empresas de transporte ferroviário, serão publicadas nas especificações da rede todas as informações necessárias para a utilização dos direitos de acesso.\n\n(6) Sistemas adequados de repartição de capacidade de infra-estrutura ferroviária, conjugados com a existência de operadores competitivos, contribuirão para melhorar a distribuição intermodal dos transportes.\n\n(7) O encorajamento da utilização optimizada da infra-estrutura ferroviária levará a uma redução dos custos dos transportes para a sociedade.\n\n(8) Um transporte de mercadorias eficaz, nomeadamente a nível transfronteiras, requer a adopção de medidas tendentes à abertura do mercado.\n\n(9) Os Estados-Membros deverão poder permitir a intervenção directa dos compradores de serviços ferroviários no processo de repartição das capacidades.\n\n(10) A revitalização dos caminhos-de-ferro europeus através de um acesso mais amplo para os transportes internacionais de mercadorias na rede transeuropeia de transporte ferroviário de mercadorias requer uma concorrência intermodal equitativa entre o transporte ferroviário e rodoviário, nomeadamente mediante uma tomada em consideração adequada dos diversos efeitos externos. Regimes adequados de tarificação da utilização da infra-estrutura ferroviária, conjugados com regimes adequados de tarificação das outras infra-estruturas de transporte e com a existência de operadores competitivos, permitirão um equilíbrio óptimo entre os diferentes modos de transporte.\n\n(11) Os regimes de tarificação e de repartição de capacidade devem proporcionar a todas as empresas um acesso equitativo e não discriminatório e procurar, na medida do possível, satisfazer as necessidades de todos os utilizadores e todos os tipos de tráfego, de um modo equitativo e não discriminatório.\n\n(12) No quadro estabelecido pelos Estados-Membros, os regimes de tarificação e de repartição de capacidade devem encorajar os gestores das infra-estruturas ferroviárias a optimizar a utilização da sua infra-estrutura.\n\n(13) Os regimes de repartição de capacidade devem proporcionar às empresas de transporte ferroviário indicações claras e consistentes que lhes permitam tomar decisões racionais.\n\n(14) A fim de atender às necessidades dos utilizadores ou dos potenciais utilizadores da capacidade de infra-estrutura ao planearem as suas actividades, bem como às necessidades dos clientes e dos financiadores, importa que o gestor da infra-estrutura garanta que a capacidade de infra-estrutura seja atribuída de uma forma que reflicta a necessidade de manter e melhorar os níveis de fiabilidade do serviço.\n\n(15) É desejável que sejam dados incentivos às empresas de transporte ferroviário e ao gestor da infra-estrutura para minimizarem as perturbações e melhorarem o desempenho da rede ferroviária.\n\n(16) Os regimes de tarificação e de repartição de capacidade devem favorecer uma concorrência leal no fornecimento de serviços ferroviários.\n\n(17) É importante ter em conta os requisitos empresariais tanto dos candidatos como do gestor da infra-estrutura.\n\n(18) É importante valorizar ao máximo a flexibilidade de que os gestores de infra-estrutura dispõem no que se refere à repartição da capacidade de infra-estrutura, devendo este aspecto ser compatível com a satisfação dos requisitos razoáveis dos candidatos.\n\n(19) O processo de repartição de capacidade deve evitar que sejam impostas limitações indevidas às pretensões de outras empresas que detêm, ou pretendem deter, direitos de utilização da infra-estrutura para desenvolvimento das suas actividades.\n\n(20) É desejável deixar aos gestores das infra-estruturas uma certa margem de manobra, que permita uma utilização mais eficiente da rede de infra-estruturas.\n\n(21) Pode ser necessário, no âmbito dos regimes de repartição de capacidade e de tarificação, tomar em conta o facto de que os diferentes elementos da rede de infra-estruturas ferroviárias podem ter sido projectados para responder às necessidades de diferentes utilizadores principais.\n\n(22) Os requisitos exigidos aos serviços de transporte de passageiros podem muitas vezes entrar em conflito com os requisitos dos serviços de transporte de mercadorias. Os requisitos relativos aos serviços de transporte de passageiros podem resultar numa rede de construção e manutenção mais onerosas do que uma rede destinada apenas ao transporte de mercadorias. O crescente diferencial de velocidade entre o material circulante destinado ao transporte de mercadorias e o destinado ao transporte de passageiros pode exacerbar o conflito entre estes dois tipos de tráfego.\n\n(23) Os diferentes utilizadores e tipos de utilizadores terão frequentemente um impacto diferente na capacidade de infra-estrutura e as necessidades dos diferentes serviços devem ser devidamente contrabalançadas.\n\n(24) Os serviços efectuados ao abrigo de contratos com autoridades públicas podem requerer regras específicas que salvaguardem a sua capacidade de atrair os utilizadores.\n\n(25) Os regimes de tarificação e de repartição de capacidade devem ter em conta os efeitos da crescente saturação da capacidade de infra-estrutura e mesmo a escassez de capacidade.\n\n(26) A planificação dos diversos tipos de tráfego efectua-se segundo diferentes estruturas horárias, pelo que é conveniente garantir que os pedidos de capacidade de infra-estrutura apresentados depois de concluído o processo de definição dos horários possam ser satisfeitos.\n\n(27) A utilização das tecnologias da informação pode acelerar o processo de definição dos horários e melhorar a sua capacidade de resposta, facilitar a apresentação de pedidos de capacidade de infra-estrutura pelos candidatos e facilitar o estabelecimento dos traçados de marcha que utilizam a rede de vários gestores de infra-estrutura.\n\n(28) Para garantir a optimização dos resultados para as empresas de transporte ferroviário, é oportuno prever um controlo da utilização da capacidade de infra-estrutura quando seja necessário coordenar os pedidos de capacidade para satisfazer as necessidades dos utentes.\n\n(29) Face à posição monopolista dos gestores de infra-estrutura, é oportuno prever um controlo da capacidade de infra-estrutura disponível e métodos de a reforçar quando o processo de repartição de capacidade não possa satisfazer as necessidades dos utentes.\n\n(30) A falta de informação sobre os pedidos de outras empresas de transporte ferroviário e as limitações do sistema podem dificultar às empresas de transporte ferroviário a optimização dos seus pedidos de capacidade de infra-estrutura.\n\n(31) É importante assegurar uma melhor coordenação dos regimes de repartição de capacidade, de modo a tornar o caminho-de-ferro mais interessante para o tráfego que utiliza a rede de mais de um gestor de infra-estrutura, e nomeadamente para o tráfego internacional.\n\n(32) Importa minimizar as distorções de concorrência que podem surgir entre infra-estruturas ferroviárias ou entre modos de transporte em resultado de diferenças significativas nos princípios de tarificação.\n\n(33) É conveniente definir as componentes do serviço de infra-estrutura essenciais à prestação de um serviço por parte de um operador e que devem ser asseguradas em troca de taxas de acesso mínimas.\n\n(34) O investimento na infra-estrutura ferroviária é desejável e os regimes de tarificação da utilização da infra-estrutura devem proporcionar incentivos a que o gestor da infra-estrutura realize investimentos adequados, quando tais investimentos forem economicamente interessantes.\n\n(35) Um regime de tarificação transmite indicações económicas aos utentes. É importante que essas indicações às empresas de transporte ferroviário sejam consistentes e as incitem a tomar decisões racionais.\n\n(36) Para possibilitar a fixação de taxas de utilização de infra-estrutura a níveis justos e adequados, os gestores da infra-estrutura necessitam de inventariar e determinar o valor dos seus activos e de adquirir uma boa compreensão dos factores determinantes dos custos de exploração da infra-estrutura.\n\n(37) Convém garantir que os custos externos sejam tidos em conta nas decisões respeitantes aos transportes.\n\n(38) É importante garantir que as taxas aplicadas ao tráfego internacional permitam aos caminhos-de-ferro satisfazerem as necessidades do mercado. Por conseguinte, a taxa de utilização da infra-estrutura deverá corresponder aos custos directamente incorridos em resultado da exploração do serviço ferroviário.\n\n(39) O nível global de recuperação dos custos por meio da tarificação da utilização da infra-estrutura tem repercussões no nível necessário das subvenções do Estado. Os Estados-Membros podem requerer diferentes níveis de recuperação global dos custos, através da aplicação de sobretaxas ou de uma taxa de rendibilidade em função das condições do mercado, equilibrando simultaneamente a recuperação dos custos com a competitividade intermodal do transporte ferroviário de mercadorias. No entanto, é desejável que qualquer sistema de tarificação da utilização da infra-estrutura possibilite uma utilização da rede ferroviária pelo tráfego que possa, pelo menos, pagar o custo adicional que impõe.\n\n(40) A infra-estrutura ferroviária é um monopólio natural. Por conseguinte, é necessário incentivar os gestores da infra-estrutura a reduzirem os custos e a gerirem eficientemente a infra-estrutura.\n\n(41) Convém ter em conta o facto de, desde há vários anos, o nível dos investimentos na infra-estrutura e na tecnologia não ter permitido criar condições para um verdadeiro desenvolvimento do transporte ferroviário. Por conseguinte, é adequado proceder neste contexto a uma adaptação adequada, nomeadamente no âmbito da criação da rede transeuropeia de transporte ferroviário de mercadorias, utilizando *inter alia* os instrumentos comunitários disponíveis, sem prejuízo das prioridades já estabelecidas.\n\n(42) Os descontos proporcionados às empresas de transporte ferroviário devem estar relacionados com as economias de custos administrativos efectivamente realizadas. Os descontos podem também ser utilizados para promover uma utilização eficaz da infra-estrutura.\n\n(43) É desejável que as empresas de transporte ferroviário e o gestor da infra-estrutura disponham de incentivos que lhes permitam minimizar perturbações na rede.\n\n(44) A repartição de capacidade tem um custo para o gestor de infra-estrutura cuja recuperação deve ser assegurada.\n\n(45) São necessárias medidas que garantam que seja exigida a todas as empresas de transporte ferroviário detentoras de licença nos termos da legislação comunitária a detenção de um certificado de segurança adequado antes de exercerem a sua actividade no território de um Estado-Membro. A concessão de certificados de segurança deve respeitar a legislação comunitária.\n\n(46) A gestão eficaz e a utilização justa e não discriminatória da infra-estrutura ferroviária requerem a instituição de uma entidade reguladora que supervisione a aplicação das regras e actos comunitários em causa como uma instância de recurso, sem prejuízo da possibilidade de controlo jurisdicional.\n\n(47) É necessário tomar medidas especiais para atender à situação geopolítica e geográfica específica de determinados Estados-Membros, bem como à organização específica do sector ferroviário em diversos Estados-Membros, assegurando simultaneamente a integridade do mercado interno.\n\n(48) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#E0007)).\n\n(49) Segundo os princípios da subsidiariedade e da proporcionalidade previstos no artigo 5.º do Tratado, os objectivos da presente directiva, nomeadamente a coordenação de mecanismos nos Estados-Membros no que respeita à atribuição de capacidade de infra-estrutura ferroviária, à cobrança de taxas de utilização da referida infra-estrutura e à certificação da segurança, não podem ser suficientemente realizados pelos Estados-Membros, atendendo à necessidade de assegurar condições de acesso justas e não discriminatórias e de ter em conta as dimensões manifestamente internacionais presentes no funcionamento de elementos significativos das redes ferroviárias, podendo, pois, devido à necessidade de uma acção transnacional coordenada, ser melhor alcançados pela Comunidade. A presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(50) O Regulamento (CEE) n.º 2830/77 do Conselho, de 12 de Dezembro de 1977, relativo às medidas necessárias para tornar comparáveis as contabilidades e as contas anuais das empresas de caminho-de-ferro ([^8^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#E0008)), o Regulamento (CEE) n.º 2183/78 do Conselho, de 19 de Setembro de 1978, relativo à fixação de princípios uniformes para o cálculo dos custos das empresas de caminho-de-ferro ([^9^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#E0009)), a Decisão 82/529/CEE, de 19 de Julho de 1982, relativa à formação dos preços para os transportes ferroviários internacionais de mercadorias ([^10^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#E0010)), e a Decisão 83/418/CEE, de 25 de Julho de 1983, relativa à autonomia comercial dos caminhos-de-ferro na gestão dos seus tráfegos internacionais de passageiros e bagagens ([^11^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#E0011)), e a Directiva 95/19/CE tornaram-se obsoletos com a presente directiva e devem, por conseguinte, ser revogados,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "95110ef01b194c22": {
+   "fragment_id": "DISPOSIÇÕES INTRODUTÓRIAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES INTRODUTÓRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES INTRODUTÓRIAS"
+  },
+  "59d946cceb835f47": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1. A presente directiva estabelece os princípios e procedimentos a seguir na fixação e aplicação das taxas de utilização da infra-estrutura ferroviária e na repartição de capacidade da infra-estrutura ferroviária.\n\nOs Estados-Membros devem assegurar que os regimes de tarificação e de repartição da capacidade da infra-estrutura ferroviária respeitem os princípios estabelecidos na presente directiva permitindo, assim, que o gestor da infra-estrutura comercialize a capacidade da infra-estrutura disponível e a utilize optimizada e eficazmente.\n\n2. A presente directiva é aplicável à utilização da infra-estrutura ferroviária para os serviços ferroviários nacionais e internacionais.\n\n3. Os Estados-Membros podem excluir do âmbito de aplicação da presente directiva:\n\na) As redes locais e regionais autónomas que efectuem serviços de passageiros em infra-estruturas ferroviárias;\n\nb) As redes reservadas exclusivamente à exploração de serviços urbanos ou suburbanos de transporte de passageiros;\n\nc) As redes regionais utilizadas para serviços regionais de transporte de mercadorias apenas por uma empresa ferroviária que não esteja abrangida pela Directiva 91/440/CEE, até que seja solicitada capacidade nessa rede por outro candidato;\n\nd) As infra-estruturas ferroviárias privadas cuja utilização está reservada ao proprietário da infra-estrutura para as suas próprias actividades de transporte de mercadorias.\n\n4. Ficam excluídas do âmbito de aplicação da presente directiva as operações de transporte por vaivém de veículos rodoviários pelo túnel da Mancha."
+  },
+  "e4bcd443cad7467c": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Repartição», a afectação da capacidade da infra-estrutura ferroviária por um gestor de infra-estrutura;\n\nb) «Candidato», uma empresa de transporte ferroviário detentora de licença e/ou um agrupamento internacional de empresas de transporte ferroviário e, nos Estados-Membros em que se preveja essa possibilidade, quaisquer outras pessoas singulares ou colectivas com um interesse de serviço público ou comercial na aquisição de capacidade de infra-estrutura, tais como autoridades públicas ao abrigo do Regulamento (CEE) n.º 1191/69 do Conselho ([^12^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#E0012)), bem como carregadores marítimos, transitários e operadores de transportes combinados, para exploração de um serviço ferroviário nos respectivos territórios;\n\nc) «Infra-estrutura congestionada», uma secção da infra-estrutura relativamente à qual a procura de capacidade de infra-estrutura não pode ser integralmente satisfeita durante determinados períodos, mesmo após a coordenação dos vários pedidos de reserva de capacidade;\n\nd) «Plano de reforço da capacidade», uma medida ou série de medidas, cuja aplicação obedece a um calendário e que são propostas para remediar as limitações de capacidade que levam a que uma secção da infra-estrutura seja declarada «infra-estrutura congestionada»;\n\ne) «Coordenação», o processo através do qual o organismo de repartição e os candidatos procurarão resolver situações de conflito entre pedidos de capacidade de infra-estrutura;\n\nf) «Acordo-quadro», um acordo geral juridicamente vinculativo, de direito público ou privado, que estabelece os direitos e obrigações de um candidato e do gestor da infra-estrutura ou do organismo de repartição em relação à capacidade de infra-estrutura a repartir e às taxas a aplicar num período superior ao período de vigência de um horário de serviço;\n\ng) «Capacidade de infra-estrutura», a possibilidade de programar traçados solicitados para um elemento da infra-estrutura durante um determinado período;\n\nh) «Gestor da infra-estrutura», qualquer entidade ou empresa responsável concretamente pela instalação e manutenção da infra-estrutura ferroviária, bem como eventualmente pela gestão dos sistemas de controlo e de segurança. As funções do gestor da infra-estrutura de uma rede, ou de parte de uma rede, podem ser repartidas por diferentes organismos ou empresas;\n\ni) «Rede», o conjunto da infra-estrutura ferroviária pertencente a um gestor de infra-estrutura e/ou por ele gerida;\n\nj) «Especificações da rede», a relação pormenorizada das regras gerais, prazos, procedimentos e critérios relativos aos regimes de tarificação e de repartição da capacidade. Incluirá também todas as outras informações necessárias para viabilizar a candidatura à capacidade de infra-estrutura;\n\nk) «Empresa de transporte ferroviário», qualquer empresa de estatuto privado ou público, detentora de uma licença nos termos da legislação comunitária aplicável, cuja actividade principal consista na prestação de serviços de transporte de mercadorias e/ou de passageiros por caminho-de-ferro, devendo a tracção ser obrigatoriamente assegurada por essa empresa, incluindo empresas que apenas prestem serviços de tracção;\n\nl) «Traçado», a capacidade de infra-estrutura necessária para a circulação de um comboio entre dois pontos em determinado momento;\n\nm) «Horário de serviço», o conjunto de dados que definem todos os movimentos programados de comboios e demais material circulante numa determinada infra-estrutura durante o seu período de vigência."
+  },
+  "488c829af9518a2c": {
+   "fragment_id": "Artigo 3.º — Especificações da rede",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Especificações da rede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Especificações da rede\n\n1. Após consulta às partes interessadas, o gestor da infra-estrutura deve elaborar e publicar as especificações da rede, que podem ser obtidas contra pagamento de uma taxa que não pode ser superior ao custo de publicação desse documento.\n\n2. Essas especificações devem enunciar as características da infra-estrutura à disposição das empresas de transporte ferroviário e conterão informações que precisem as condições de acesso à infra-estrutura ferroviária em causa. O conteúdo das especificações da rede consta do anexo I.\n\n3. As especificações da rede devem ser actualizadas e, se necessário, modificadas.\n\n4. As especificações da rede devem ser publicadas o mais tardar quatro meses antes do prazo de apresentação dos pedidos de capacidade da infra-estrutura."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "e973989b18832821": {
+   "fragment_id": "TAXAS DE UTILIZAÇÃO DA INFRA-ESTRUTURA",
+   "type": "divisao",
+   "heading": "TAXAS DE UTILIZAÇÃO DA INFRA-ESTRUTURA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TAXAS DE UTILIZAÇÃO DA INFRA-ESTRUTURA"
+  },
+  "224d2ec9fe44750d": {
+   "fragment_id": "Artigo 4.º — Fixação, determinação e cobrança de taxas",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Fixação, determinação e cobrança de taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fixação, determinação e cobrança de taxas\n\n1. Os Estados-Membros devem definir um quadro para a tarificação, respeitando todavia a independência de gestão prevista no artigo 4.º da Directiva 91/440/CEE.\n\nSob a mesma condição de independência de gestão, os Estados-Membros devem proceder também ao estabelecimento de regras de tarificação específicas, ou delegar essas funções no gestor da infra-estrutura. A determinação das taxas de utilização da infra-estrutura e a cobrança dessas taxas é da responsabilidade do gestor da infra-estrutura.\n\n2. Se o gestor da infra-estrutura não for independente das empresas de transporte ferroviário, no plano jurídico, organizativo e decisório, as funções descritas no presente capítulo, com excepção da cobrança de taxas, serão desempenhadas por um organismo de tarificação independente, no plano jurídico, organizativo e decisório, das empresas de transporte ferroviário.\n\n3. Os gestores da infra-estrutura devem cooperar no sentido de viabilizar o funcionamento eficaz dos serviços ferroviários que utilizem mais de uma rede de infra-estrutura e devem, em especial, procurar garantir a maior competitividade possível do transporte ferroviário internacional de mercadorias e assegurar uma utilização eficaz da rede transeuropeia de transporte ferroviário de mercadorias. Para esse efeito, os gestores da infra-estrutura devem criar as organizações conjuntas necessárias. Qualquer cooperação ou organização conjunta criada deve ficar sujeita às regras estabelecidas na presente directiva.\n\n4. Excepto quando sejam tomadas disposições específicas ao abrigo do n.º 2 do artigo 8.º, o gestor da infra-estrutura deve garantir que os princípios em que se baseia o regime de tarificação em vigor sejam os mesmos em toda a rede.\n\n5. O gestor da infra-estrutura deve garantir que o regime de tarificação seja aplicado de modo a que as taxas cobradas às diferentes empresas de transporte ferroviário que prestam serviços equivalentes num segmento análogo de mercado sejam equivalentes e não discriminatórias e que as taxas efectivamente aplicadas observem o disposto nas regras definidas nas especificações da rede.\n\n6. O gestor da infra-estrutura ou o organismo de tarificação deve respeitar o sigilo comercial da informação que lhe for fornecida pelos candidatos."
+  },
+  "293f6a6bc6c3495f": {
+   "fragment_id": "Artigo 5.º — Serviços",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviços\n\n1. As empresas de transporte ferroviário têm direito, numa base não discriminatória, ao pacote mínimo de acesso, assim como ao acesso por via férrea às instalações de serviços descritas no anexo II. A prestação dos serviços referidos no ponto 2 do anexo II é efectuada de modo não discriminatório e os pedidos de empresas de transporte ferroviário só podem ser recusados quando existam alternativas viáveis em condições normais de mercado. Se os serviços não forem prestados por um gestor da infra-estrutura, o fornecedor da «infra-estrutura principal» envidará todos os esforços razoáveis para facilitar a prestação desses serviços.\n\n2. Sempre que preste algum dos serviços indicados no ponto 3 do anexo II sob a designação de «serviços adicionais», o gestor da infra-estrutura deve prestá-lo mediante pedido de uma empresa de transporte ferroviário.\n\n3. As empresas de transporte ferroviário podem requerer ao gestor da infra-estrutura, ou a outros fornecedores, um conjunto de serviços auxiliares, enumerados no ponto 4 do anexo II. O gestor da infra-estrutura não é obrigado a prestar esses serviços."
+  },
+  "f952c9779fddc21b": {
+   "fragment_id": "Artigo 6.º — Custos e contabilidade da infra-estrutura",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Custos e contabilidade da infra-estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Custos e contabilidade da infra-estrutura\n\n1. Os Estados-Membros devem definir as condições necessárias, incluindo, se for caso disso, pagamentos adiantados, para assegurar que, em condições normais de actividade e ao longo de um período de tempo razoável, as contas do gestor da infra-estrutura apresentem pelo menos um equilíbrio entre as receitas provenientes das taxas de utilização da infra-estrutura, os excedentes provenientes de outras actividades comerciais e o financiamento estatal, por um lado, e as despesas da infra-estrutura, por outro.\n\nSem prejuízo do eventual objectivo, a longo prazo, de cobertura pelo utilizador dos custos de infra-estrutura de todos os modos de transporte com base numa concorrência intermodal equitativa e não discriminatória, sempre que o transporte ferroviário esteja em condições de concorrer com outros modos, no quadro da tarificação prevista nos artigos 7.º e 8.º, os Estados-Membros podem exigir ao gestor da infra-estrutura que equilibre as suas contas sem beneficiar de financiamento estatal.\n\n2. Tendo devidamente em conta as exigências de segurança e a preservação e melhoria da qualidade de serviço da infra-estrutura, o gestor da infra-estrutura terá acesso a incentivos conducentes à redução dos custos de fornecimento da infra-estrutura e do nível das taxas de acesso à mesma.\n\n3. Os Estados-Membros devem assegurar que o disposto no n.º 2 seja executado, quer através de um contrato celebrado entre a autoridade competente e o gestor da infra-estrutura, válido por um período não inferior a três anos e que preveja o financiamento estatal, quer através da instituição de medidas reguladoras apropriadas, com os poderes necessários.\n\n4. Se existir um contrato, os seus termos e a estrutura dos pagamentos destinados a assegurar um financiamento ao gestor da infra-estrutura devem ser previamente acordados para abranger todo o período de vigência do contrato.\n\n5. É estabelecido um método de imputação de custos. Os Estados-Membros podem exigir aprovação prévia. Esse método deve ser adaptado de vez em quando às melhores práticas internacionais."
+  },
+  "bca380ef46b582bf": {
+   "fragment_id": "Artigo 7.º — Princípios de tarificação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Princípios de tarificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Princípios de tarificação\n\n1. As taxas de utilização da infra-estrutura ferroviária são pagas ao gestor da infra-estrutura e utilizadas no financiamento da sua actividade.\n\n2. Os Estados-Membros podem requerer ao gestor da infra-estrutura que forneça todas as informações necessárias sobre as taxas aplicadas. O gestor da infra-estrutura deve, nesse contexto, estar em condições de justificar que as taxas de utilização das infra-estruturas efectivamente facturadas a cada operador, por força do disposto nos artigos 4.º a 12.º, observam a metodologia, as regras e, sendo o caso, as escalas previstas nas especificações da rede.\n\n3. Sem prejuízo do disposto nos n.^os^ 4 e 5 e no artigo 8.º, as taxas de utilização do pacote mínimo de acesso e do acesso por via férrea às instalações de serviços devem corresponder ao custo directamente imputável à exploração do serviço ferroviário.\n\n4. A taxa de utilização da infra-estrutura pode incluir uma componente que reflicta a escassez de capacidade do segmento identificável da infra-estrutura durante os períodos de congestionamento.\n\n5. A taxa de utilização da infra-estrutura pode ser modificada para ter em conta o custo dos efeitos ambientais provocados pela exploração da composição. Esta modificação deve ser diferenciada em função da magnitude do efeito causado.\n\nNo entanto, a tarificação dos custos ambientais que impliquem um aumento do montante global das receitas realizadas pelo gestor da infra-estrutura só é permitida se existir a um nível comparável também nos outros modos de transporte concorrentes.\n\nNa falta de um nível comparável de tarificação dos custos ambientais noutros modos de transporte concorrentes, esta modificação não deve ter repercussões nas receitas do gestor da infra-estrutura. Se tiver sido introduzido um nível comparável de tarificação dos custos ambientais nos transportes ferroviários e noutros modos de transporte concorrentes, e daí resultar um aumento da receita, competirá aos Estados-Membros decidir da afectação das receitas suplementares.\n\n6. Para evitar flutuações desproporcionadas indesejáveis, as taxas referidas nos n.^os^ 3, 4, e 5 podem ser niveladas por um valor médio, calculado com base num leque razoável de serviços ferroviários e de períodos de tempo. No entanto, a importância relativa das taxas de utilização da infra-estrutura deve estar relacionada com os custos imputáveis aos serviços.\n\n7. A prestação dos serviços referidos no ponto 2 do anexo II não é abrangida pelo presente artigo. Sem prejuízo do que antecede, será tida em conta a situação concorrencial dos transportes ferroviários na fixação dos preços dos serviços referidos no ponto 2 do anexo II.\n\n8. Quando serviços enumerados nos pontos 3 e 4 do anexo II, sob a designação de «adicionais» e auxiliares, apenas sejam oferecidos por um único prestador, a taxa cobrada pelo serviço estará relacionada com o custo da sua prestação, calculado com base no nível real de utilização.\n\n9. Podem ser aplicadas taxas a título da utilização de capacidade para a manutenção da infra-estrutura. Essas taxas não devem exceder a perda líquida de receitas suportada pelo gestor da infra-estrutura em resultado das operações de manutenção."
+  },
+  "5a58c592e0fd9e5f": {
+   "fragment_id": "Artigo 8.º — Excepções aos princípios de tarificação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Excepções aos princípios de tarificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Excepções aos princípios de tarificação\n\n1. A fim de proceder à plena recuperação dos custos do gestor da infra-estrutura, os Estados-Membros podem, se as condições do mercado o permitirem, aplicar sobretaxas adicionais com base em princípios eficazes, transparentes e não discriminatórios, garantindo ao mesmo tempo a maior competitividade possível, em especial no que se refere ao transporte ferroviário internacional de mercadorias. O regime de tarificação deve respeitar os aumentos de produção alcançados pelas empresas de transporte ferroviário.\n\nNo entanto, o nível das taxas não deverá excluir a utilização da infra-estrutura por segmentos de mercado que possam pelo menos pagar os custos directamente imputáveis à exploração do serviço ferroviário, acrescidos de uma taxa de rentabilidade se o mercado o permitir.\n\n2. Para projectos de investimento específicos a realizar no futuro ou que tenham sido concluídos no máximo quinze anos antes da data de entrada em vigor da presente directiva, o gestor da infra-estrutura pode fixar ou manter taxas mais elevadas com base nos custos a longo prazo desses projectos, se estes aumentarem a eficácia e/ou a relação custo-eficácia e se, de outro modo, não pudessem ser ou ter sido realizados. Essas disposições sobre tarificação podem incluir acordos sobre a partilha dos riscos associados aos novos investimentos.\n\n3. Para evitar discriminações, deve-se garantir que as taxas médias e marginais para as utilizações equivalentes da infra-estrutura de um dado gestor de infra-estrutura sejam comparáveis e assegurar que, no mesmo segmento de mercado, os serviços comparáveis sejam sujeitos às mesmas taxas. Na medida em que o possa fazer sem violar o segredo comercial, o gestor da infra-estrutura deve demonstrar, nas especificações da rede, que o regime de tarificação preenche estes requisitos.\n\n4. Se um gestor de infra-estrutura tencionar alterar elementos essenciais do sistema de tarificação referido no n.º 1, deve torná-los públicos com uma antecedência de pelo menos três meses."
+  },
+  "2c96d3ec1c75edd1": {
+   "fragment_id": "Artigo 9.º — Descontos",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Descontos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Descontos\n\n1. Sem prejuízo do disposto nos artigos 81.º, 82.º, 86.º e 87.º do Tratado e não obstante o disposto no n.º 3 do artigo 7.º da presente directiva, os descontos nas taxas aplicadas pelo gestor da infra-estrutura a uma empresa de transporte ferroviário pela prestação de um serviço devem obedecer aos critérios estabelecidos no presente artigo.\n\n2. Com excepção do n.º 3, os descontos limitam-se à economia real de custos administrativos realizada pelo gestor da infra-estrutura. Para determinar o nível de desconto não se podem ter em conta as economias de custos já integradas na taxa aplicada.\n\n3. Os gestores da infra-estrutura podem introduzir regimes, disponíveis para todos os utilizadores da infra-estrutura, para determinados fluxos de tráfego, ao abrigo dos quais sejam concedidos descontos, por períodos de tempo limitados, destinados a incentivar o desenvolvimento de novos serviços ferroviários ou descontos que incentivem a utilização de linhas consideravelmente subutilizadas.\n\n4. Os descontos apenas podem estar relacionados com as taxas aplicadas a uma secção específica da infra-estrutura.\n\n5. São aplicados regimes de desconto semelhantes a tipos de serviço semelhantes."
+  },
+  "d3f3d0cb7540b897": {
+   "fragment_id": "Artigo 10.º — Sistemas de compensação de custos ambientais, de acidentes e de infra-estrutura não cobertos",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Sistemas de compensação de custos ambientais, de acidentes e de infra-estrutura não cobertos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sistemas de compensação de custos ambientais, de acidentes e de infra-estrutura não cobertos\n\n1. Os Estados-Membros podem instituir, por um período de tempo limitado, um sistema de compensação pela utilização da infra-estrutura ferroviária, por custos ambientais, de acidentes e de infra-estrutura comprovadamente não cobertos nos modos de transporte concorrentes, desde que esses custos excedam os custos equivalentes do caminho-de-ferro.\n\n2. Sempre que um operador que recebe uma compensação goze de um direito exclusivo, a compensação deverá ser acompanhada de benefícios comparáveis para os utilizadores.\n\n3. A metodologia utilizada e os cálculos efectuados devem ser tornados públicos. Deve ser nomeadamente possível demonstrar quais os custos específicos da infra-estrutura de transporte concorrente não cobertos que o transporte ferroviário permite evitar e garantir que o sistema se aplique às empresas em condições não discriminatórias.\n\n4. Os Estados-Membros devem garantir a compatibilidade desses sistemas com os artigos 73.º, 87.º e 88.º do Tratado."
+  },
+  "62e66218c68861b7": {
+   "fragment_id": "Artigo 11.º — Regime de melhoria do desempenho",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Regime de melhoria do desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regime de melhoria do desempenho\n\n1. Os regimes de tarificação da utilização da infra-estrutura devem incentivar as empresas de transporte ferroviário e o gestor da infra-estrutura a minimizar as perturbações e a melhorar o desempenho da rede ferroviária, através da instituição de um regime de melhoria do desempenho. Esse regime pode incluir sanções para actos que perturbem o funcionamento da rede, compensações para as empresas afectadas pelas perturbações e prémios para os desempenhos superiores às previsões.\n\n2. Os princípios básicos do regime de melhoria do desempenho são aplicáveis a toda a rede."
+  },
+  "46b9b4e532b29c61": {
+   "fragment_id": "Artigo 12.º — Taxas de reserva de capacidade",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Taxas de reserva de capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Taxas de reserva de capacidade\n\nO gestor da infra-estrutura pode aplicar uma taxa adequada sobre a capacidade pedida mas não utilizada. Essa taxa constituirá um incentivo à utilização eficiente da capacidade.\n\nO gestor da infra-estrutura deve, a todo o momento, poder informar qualquer parte interessada sobre a capacidade da infra-estrutura que tenha sido atribuída às empresas ferroviárias utilizadoras."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "8f9e07ef475aa588": {
+   "fragment_id": "REPARTIÇÃO DA CAPACIDADE DE INFRA-ESTRUTURA",
+   "type": "divisao",
+   "heading": "REPARTIÇÃO DA CAPACIDADE DE INFRA-ESTRUTURA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REPARTIÇÃO DA CAPACIDADE DE INFRA-ESTRUTURA"
+  },
+  "04ddab5504749bf5": {
+   "fragment_id": "Artigo 13.º — Direitos de capacidade",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Direitos de capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direitos de capacidade\n\n1. A capacidade de infra-estrutura disponível é repartida pelo gestor da infra-estrutura e, uma vez atribuída a um candidato, não pode ser por este transferida para outra empresa ou serviço. A utilização da capacidade por uma empresa de transporte ferroviário quando esta exerça a actividade de um candidato que não seja uma empresa de transporte ferroviário não é considerada uma transferência. Não são transmitidas transições de capacidade de infra-estrutura, sob pena de exclusão em qualquer nova atribuição de capacidades.\n\n2. O direito de utilização de uma capacidade de infra-estrutura específica na forma de um traçado pode ser concedido aos candidatos por um período máximo correspondente ao período de vigência de um horário de serviço.\n\nO gestor da infra-estrutura e um candidato podem celebrar um acordo-quadro, conforme previsto no artigo 17.º, para a utilização da capacidade na infra-estrutura ferroviária em causa, de duração superior ao período de vigência de um horário de serviço.\n\n3. Os direitos e obrigações, decorrentes para o gestor da infra-estrutura e os candidatos, em matéria de repartição da capacidade, são definidos em contratos ou na legislação."
+  },
+  "5684b5f8c7d1fb89": {
+   "fragment_id": "Artigo 14.º — Repartição da capacidade",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Repartição da capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Repartição da capacidade\n\n1. Os Estados-Membros podem definir um quadro para a repartição da capacidade de infra-estrutura, respeitando todavia a independência de gestão prevista no artigo 4.º da Directiva 91/440/CEE. Devem ser fixadas regras específicas de repartição da capacidade. O gestor da infra-estrutura deve cumprir os procedimentos de repartição da capacidade e garantir em especial que a capacidade de infra-estrutura seja repartida de forma equitativa e não discriminatória e segundo o direito comunitário.\n\n2. Se, no plano jurídico, organizativo e decisório, o gestor da infra-estrutura não for independente das empresas de transporte ferroviário, as funções referidas no n.º 1 e descritas no presente capítulo serão desempenhadas por um organismo de repartição independente das empresas de transporte ferroviário, no plano jurídico, organizativo e decisório.\n\n3. O gestor da infra-estrutura e o organismo de repartição devem respeitar o segredo comercial das informações que lhes forem prestadas."
+  },
+  "6e35b49acbbbb60f": {
+   "fragment_id": "Artigo 15.º — Cooperação para a repartição da capacidade de infra-estrutura por várias redes",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Cooperação para a repartição da capacidade de infra-estrutura por várias redes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Cooperação para a repartição da capacidade de infra-estrutura por várias redes\n\n1. Os gestores da infra-estrutura devem cooperar no sentido de uma criação e repartição eficientes de capacidade de infra-estrutura que envolva mais do que uma rede e organizar traçados internacionais, nomeadamente no quadro da rede transeuropeia de transporte ferroviário de mercadorias. Os gestores da infra-estrutura devem criar todos os procedimentos necessários para esse efeito. Esses procedimentos devem ficar sujeitos às regras estabelecidas na presente directiva.\n\nOs procedimentos estabelecidos para coordenar a repartição da capacidade de infra-estrutura a nível internacional devem associar representantes dos gestores de todas as infra-estruturas ferroviárias cujas decisões de repartição tenham repercussões sobre a actividade de vários outros gestores de infra-estrutura. Os representantes adequados de gestores de infra-estrutura exteriores à Comunidade podem ser associados a estes procedimentos. A Comissão deve ser informada e convidada a participar na qualidade de observador.\n\n2. Nas reuniões ou noutras actividades destinadas a assegurar a repartição da capacidade de infra-estrutura para os serviços ferroviários que utilizem várias redes, as decisões são tomadas apenas pelos representantes dos gestores da infra-estrutura.\n\n3. Os participantes na cooperação referida no n.º 1 devem garantir que a lista dos membros, o modo de funcionamento da colaboração e todos os critérios utilizados na avaliação e repartição da capacidade de infra-estrutura sejam tornados públicos.\n\n4. No quadro da cooperação referida no n.º 1, os gestores da infra-estrutura avaliarão as necessidades e, se necessário, proporão e organizarão traçados internacionais que facilitem a exploração de composições de mercadorias sujeitas ao pedido *ad hoc* previsto no artigo 23.º\n\nEstes traçados internacionais pré-estabelecidos devem ser postos à disposição dos candidatos por intermédio de qualquer um dos gestores da infra-estrutura participantes."
+  },
+  "1c3852e20199d013": {
+   "fragment_id": "Artigo 16.º — Candidatos",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Candidatos\n\n1. Os pedidos de capacidade de infra-estrutura podem ser apresentados pelas empresas de transporte ferroviário e pelos seus agrupamentos internacionais e, no território dos Estados-Membros que o permitam, por outros candidatos que correspondam à definição da alínea b) do artigo 2.º Os Estados-Membros podem também autorizar outros candidatos a apresentar pedidos de capacidade de infra-estrutura nos seus territórios.\n\n2. O gestor da infra-estrutura pode impor condições aos candidatos para assegurar a salvaguarda das suas legítimas expectativas relativamente às receitas e à utilização da infra-estrutura. Essas condições devem ser adequadas, transparentes e não discriminatórias. As condições serão publicadas nas especificações da rede, integradas nos princípios que regulam a repartição da capacidade de infra-estrutura, devendo a Comissão ser delas informada.\n\n3. As condições referidas no n.º 2 apenas podem dizer respeito ao fornecimento de uma garantia financeira que não deve exceder um nível adequado, proporcional ao nível de actividade previsto do candidato e à demonstração da capacidade de apresentação de propostas adequadas para obtenção de capacidade de infra-estrutura."
+  },
+  "7f2c42f858e0d28d": {
+   "fragment_id": "Artigo 17.º — Acordos-quadro",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Acordos-quadro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Acordos-quadro\n\n1. Sem prejuízo do disposto nos artigos 81.º, 82.º e 86.º do Tratado, pode ser celebrado um acordo-quadro com um candidato. Esse acordo-quadro especificará as características da capacidade da infra-estrutura solicitada pelo candidato e que lhe é fornecida para um período superior ao período de vigência de um horário de serviço. O acordo-quadro não deve especificar detalhadamente um traçado, mas deve ser elaborado por forma a responder às necessidades comerciais legítimas do candidato. Os Estados-Membros podem requerer a aprovação prévia desses acordos-quadro à entidade reguladora a que se refere o artigo 30.º da presente directiva.\n\n2. O acordo-quadro não deve inviabilizar a utilização da infra-estrutura em causa por outros candidatos ou serviços.\n\n3. O acordo-quadro deve poder ser alterado ou limitado, por forma a permitir uma melhor utilização da infra-estrutura ferroviária.\n\n4. O acordo-quadro pode incluir sanções em caso de alteração ou denúncia do acordo.\n\n5. O acordo-quadro deve ter, em princípio, uma vigência de cinco anos. O gestor da infra-estrutura pode, em casos específicos, aceitar um período inferior ou superior. Qualquer período superior a cinco anos deve-se justificar pela existência de contratos comerciais, investimentos específicos ou riscos.\n\nUma vigência superior a dez anos só é possível em casos excepcionais, nomeadamente em caso de investimentos avultados e a longo prazo, em especial, quando estes forem objecto de compromissos contratuais.\n\n6. No respeito pelo segredo comercial, qualquer parte interessada pode tomar conhecimento das linhas gerais dos acordos-quadro."
+  },
+  "0f873954a847cf8f": {
+   "fragment_id": "Artigo 18.º — Calendário do processo de repartição",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Calendário do processo de repartição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Calendário do processo de repartição\n\n1. O gestor da infra-estrutura deve respeitar o calendário para o processo de repartição de capacidade estabelecido no anexo III.\n\n2. Antes de iniciar o processo de consultas sobre o projecto de horário de serviço, os gestores da infra-estrutura devem acordar, com os outros gestores de infra-estrutura interessados, os traçados internacionais a incluir no horário de serviço. Só se farão ajustamentos em caso de absoluta necessidade."
+  },
+  "d23dcb6d76e33ca7": {
+   "fragment_id": "Artigo 19.º — Pedidos",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pedidos\n\n1. Os candidatos podem apresentar, no âmbito do direito público ou privado, ao gestor da infra-estrutura um pedido de celebração de um acordo para concessão de direitos de utilização da infra-estrutura, em contrapartida de uma taxa tal como prevista no capítulo II.\n\n2. Os pedidos respeitantes ao horário regular de serviço devem respeitar os prazos estabelecidos no anexo III.\n\n3. Um candidato que seja parte num acordo-quadro deve apresentar o seu pedido nos termos desse acordo.\n\n4. Os candidatos podem solicitar capacidade de infra-estrutura respeitante a várias redes a um único gestor de infra-estrutura. Esse gestor será então autorizado a actuar em nome do candidato para obter capacidade junto dos outros gestores de infra-estrutura competentes.\n\n5. Os gestores da infra-estrutura garantirão que, relativamente à capacidade de infra-estrutura respeitante a mais de uma rede, os candidatos possam apresentar os seus pedidos directamente a uma organização conjunta criada pelos gestores da infra-estrutura."
+  },
+  "129cecb26369c492": {
+   "fragment_id": "Artigo 20.º — Planificação",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Planificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Planificação\n\n1. O gestor da infra-estrutura deve-se esforçar, na medida do possível, por satisfazer todos os pedidos de capacidade de infra-estrutura, incluindo os pedidos de traçados que cruzem mais de uma rede, e terá em conta os condicionalismos que afectam os candidatos, incluindo as incidências económicas na sua actividade.\n\n2. O gestor da infra-estrutura pode dar prioridade a serviços específicos no quadro dos processos de planificação e coordenação, mas unicamente nos termos dos artigos 22.º e 24.º\n\n3. O gestor da infra-estrutura deve consultar as partes interessadas sobre o projecto de horário de serviço e dar-lhes oportunidade de apresentarem as suas observações durante um período de pelo menos um mês. Entende-se por partes interessadas, todas as partes que tenham apresentado pedidos de capacidade de infra-estrutura, bem como outras partes que desejem formular observações sobre as incidências do horário de serviço na sua capacidade de prestação de serviços ferroviários durante o período de vigência do horário de serviço.\n\n4. O gestor da infra-estrutura deve tomar as medidas adequadas para atender às preocupações eventualmente manifestadas."
+  },
+  "c69710e5092b4d29": {
+   "fragment_id": "Artigo 21.º — Processo de coordenação",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Processo de coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Processo de coordenação\n\n1. Sempre que, durante a planificação a que se refere o artigo 20.º, surjam conflitos entre diferentes pedidos, o gestor da infra-estrutura deve-se esforçar por assegurar, através da coordenação dos pedidos, o melhor ajustamento possível de todos eles.\n\n2. Em situações que requeiram coordenação, o gestor da infra-estrutura tem o direito, dentro de limites razoáveis, de propor uma capacidade de infra-estrutura diferente da solicitada.\n\n3. O gestor da infra-estrutura deve-se esforçar por solucionar os eventuais conflitos, através de consultas com os candidatos interessados.\n\n4. Os princípios que regulam o processo de coordenação são definidos nas especificações da rede. Esses princípios devem, em especial, reflectir a dificuldade da organização de traçados internacionais e as incidências que qualquer modificação pode ter noutros gestores da infra-estrutura.\n\n5. Quando alguns pedidos de capacidade de infra-estrutura não puderem ser satisfeitos sem coordenação, o gestor da infra-estrutura esforçar-se-á por atender à totalidade dos pedidos pela via da coordenação.\n\n6. Sem prejuízo dos procedimentos de recurso existentes e do disposto no artigo 30.º, nos casos de litígios relativos à repartição da capacidade de infra-estrutura, é possível recorrer a um sistema de resolução rápida de litígios. Quando se aplique esse sistema, dever-se-á chegar a uma decisão no prazo de dez dias úteis."
+  },
+  "a47d8c38a4171fda": {
+   "fragment_id": "Artigo 22.º — Infra-estrutura congestionada",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Infra-estrutura congestionada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Infra-estrutura congestionada\n\n1. Se, após a coordenação dos traçados pedidos e a consulta dos candidatos, se verificar a impossibilidade de satisfazer adequadamente os pedidos de capacidade de infra-estrutura, o gestor da infra-estrutura declarará imediatamente o elemento de infra-estrutura em causa «infra-estrutura congestionada». Deve-se adoptar o mesmo processo relativamente a infra-estruturas que irão previsivelmente sofrer de escassez de capacidade num futuro próximo.\n\n2. Quando determinada infra-estrutura for declarada infra-estrutura congestionada, o gestor da infra-estrutura deve proceder a uma análise da capacidade, nos termos do artigo 25.º, excepto se já estiver a ser aplicado um plano de reforço da capacidade, nos termos do artigo 26.º\n\n3. Quando as taxas a que se refere o n.º 4 do artigo 7.º não forem aplicadas ou não produzirem resultados satisfatórios e uma infra-estrutura tiver sido declarada congestionada, o gestor da infra-estrutura poderá recorrer a critérios de prioridade para proceder à repartição da capacidade de infra-estrutura.\n\n4. Os critérios de prioridade devem ter em conta a importância do serviço para a sociedade em relação a qualquer outro serviço que seja excluído em virtude do primeiro, bem como os efeitos noutros Estados-Membros.\n\nA fim de garantir, neste contexto, o desenvolvimento de serviços de transporte adequados, em especial para satisfazer as exigências de serviço público ou para favorecer o desenvolvimento dos serviços de transporte ferroviário de mercadorias, os Estados-Membros podem adoptar as medidas necessárias, em condições não discriminatórias, para que seja dada prioridade a esses serviços na atribuição das capacidades de infra-estrutura.\n\nSe for caso disso, os Estados-Membros podem conceder ao gestor da infra-estrutura uma compensação correspondente às eventuais perdas de receitas resultantes da necessidade de atribuir a certos serviços uma determinada capacidade em aplicação do número anterior.\n\nDevem aqui ter-se em conta os efeitos desta exclusão noutros Estados-Membros.\n\n5. Na determinação dos critérios de prioridade, deve ser dada a devida atenção à importância dos serviços de transporte de mercadorias, principalmente os internacionais.\n\n6. Os procedimentos a seguir e os critérios a adoptar quando uma infra-estrutura esteja congestionada devem constar das especificações da rede."
+  },
+  "f69bb67c6b85e294": {
+   "fragment_id": "Artigo 23.º — Pedidos ad hoc",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Pedidos ad hoc",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Pedidos ad hoc\n\n1. O gestor da infra-estrutura deve dar resposta, o mais rapidamente possível e num prazo nunca superior a cinco dias úteis, aos pedidos *ad hoc* relativos a traçados. As informações fornecidas sobre a capacidade de reserva utilizável devem ser disponibilizadas a todos os candidatos que possam desejar utilizar essa capacidade.\n\n2. O gestor da infra-estrutura deve proceder, sempre que necessário, a uma avaliação da necessidade de manter, no horário definitivo de serviço, uma reserva de capacidade que lhe permita responder rapidamente aos pedidos *ad hoc* de capacidade previsíveis. A presente disposição é igualmente aplicável em caso de infra-estrutura congestionada."
+  },
+  "301bc0c14837146f": {
+   "fragment_id": "Artigo 24.º — Infra-estrutura especializada",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Infra-estrutura especializada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Infra-estrutura especializada\n\n1. Sem prejuízo do disposto no n.º 2, a capacidade de infra-estrutura é considerada disponível para utilização por todos os tipos de serviço compatíveis com as características necessárias para utilização do traçado.\n\n2. Quando existam itinerários alternativos adequados, o gestor da infra-estrutura pode, após consulta das partes interessadas, designar uma infra-estrutura específica para utilização por determinados tipos de tráfego. Sem prejuízo do disposto nos artigos 81.º, 82.º e 86.º do Tratado, quando se efectue essa designação, o gestor da infra-estrutura pode dar prioridade a estes tipos de tráfego aquando da repartição de capacidade de infra-estrutura.\n\nEssa designação não deve inviabilizar a utilização da infra-estrutura em causa por outros tipos de tráfego, quando haja capacidade disponível e o material circulante apresentar as características técnicas necessárias para utilizar a linha.\n\n3. Quando uma infra-estrutura tenha sido designada nos termos do n.º 2, será feita menção desse facto nas especificações da rede."
+  },
+  "68bba7565a03a3d6": {
+   "fragment_id": "Artigo 25.º — Análise da capacidade",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Análise da capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Análise da capacidade\n\n1. O objectivo da análise da capacidade é determinar as limitações de capacidade de infra-estrutura que impedem a satisfação adequada dos pedidos de capacidade e sugerir métodos que viabilizem a satisfação de pedidos adicionais. A análise deve identificar as causas dos congestionamentos e as medidas que podem ser tomadas a curto e médio prazo para os atenuar.\n\n2. A análise deve contemplar a infra-estrutura, os procedimentos de operação, a natureza dos diferentes serviços explorados e o reflexo de todos estes factores na capacidade de infra-estrutura. As medidas a ponderar devem incluir, em especial, a modificação de itinerários, a reprogramação dos horários dos serviços, as alterações da velocidade e as beneficiações na infra-estrutura.\n\n3. A análise da capacidade deve estar concluída seis meses depois de a infra-estrutura ter sido identificada como infra-estrutura congestionada."
+  },
+  "3b444d0421dceddb": {
+   "fragment_id": "Artigo 26.º — Plano de reforço da capacidade",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Plano de reforço da capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Plano de reforço da capacidade\n\n1. No prazo de seis meses a contar da conclusão de uma análise da capacidade, o gestor da infra-estrutura deve apresentar um plano de reforço da capacidade.\n\n2. O plano de reforço da capacidade deve ser elaborado após consulta aos utilizadores da infra-estrutura congestionada.\n\nO plano deve identificar:\n\na) As causas do congestionamento;\n\nb) A evolução provável do tráfego;\n\nc) Os condicionalismos sobre a expansão da infra-estrutura;\n\nd) As opções e os custos do reforço da capacidade, incluindo prováveis alterações das taxas de acesso.\n\nE, com base numa análise custo-benefício das eventuais medidas identificadas, o plano deve igualmente determinar as acções a desenvolver para reforçar a capacidade de infra-estrutura, incluindo um calendário de execução das medidas.\n\nO plano pode ser sujeito à aprovação prévia do Estado-Membro.\n\n3. O gestor da infra-estrutura deve suspender a aplicação das taxas eventualmente aplicadas à infra-estrutura em causa nos termos do n.º 4 do artigo 7.º sempre que:\n\na) Não apresentar um plano de reforço da capacidade; ou\n\nb) Não fizer avançar o plano de acção integrado no plano de reforço da capacidade.\n\nTodavia, o gestor da infra-estrutura pode, mediante aprovação da entidade reguladora a que se refere o artigo 30.º, continuar a aplicar essas taxas quando:\n\na) O plano de reforço da capacidade não puder ser realizado por circunstâncias fora do seu controlo; ou\n\nb) As opções disponíveis não forem económica ou financeiramente viáveis."
+  },
+  "428e3c81124c5f2d": {
+   "fragment_id": "Artigo 27.º — Utilização dos traçados",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Utilização dos traçados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Utilização dos traçados\n\n1. Em especial, no que se refere à infra-estrutura congestionada, o gestor da infra-estrutura deve requerer a retrocessão dos traçados que, durante um período mínimo de um mês, tenham sido menos utilizados do que a quota-limiar estipulada na especificação da rede, excepto se tal tiver sido provocado por razões não económicas fora do controlo dos operadores.\n\n2. O gestor da infra-estrutura pode incluir, nas especificações da rede, as condições em que serão tidos em conta os anteriores níveis de utilização dos traçados ao determinar prioridades para o processo de repartição."
+  },
+  "58e626e8f8a1ba6f": {
+   "fragment_id": "Artigo 28.º — Capacidade de infra-estrutura para manutenção planificada",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Capacidade de infra-estrutura para manutenção planificada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Capacidade de infra-estrutura para manutenção planificada\n\n1. Os pedidos de capacidade de infra-estrutura para realização das operações de manutenção são apresentados durante o processo de planificação.\n\n2. O gestor da infra-estrutura deve ter devidamente em conta as incidências da reserva de capacidade de infra-estrutura para manutenção planificada da via férrea nas actividades dos candidatos."
+  },
+  "1bf3467c6c92a18c": {
+   "fragment_id": "Artigo 29.º — Medidas especiais em caso de perturbação",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Medidas especiais em caso de perturbação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Medidas especiais em caso de perturbação\n\n1. Em caso de perturbação da circulação ferroviária resultante de falha técnica ou acidente, o gestor da infra-estrutura deve tomar todas as medidas necessárias para restabelecer a situação normal, devendo, para esse efeito, elaborar um plano de emergência que incluirá uma lista dos diversos organismos públicos a informar em caso de incidentes graves ou de séria perturbação da circulação ferroviária.\n\n2. Em caso de emergência e de absoluta necessidade motivada por uma falha que torne a infra-estrutura temporariamente inutilizável, os traçados atribuídos podem ser retirados sem pré-aviso pelo período de tempo necessário para a reparação do sistema.\n\nSe o considerar necessário, o gestor da infra-estrutura pode exigir às empresas de transporte ferroviário que coloquem à sua disposição os recursos que, no seu entender, forem mais adequados para restabelecer a situação normal o mais rapidamente possível.\n\n3. Os Estados-Membros podem exigir que as empresas ferroviárias tomem parte na execução e fiscalização do seu próprio cumprimento das normas e regras de segurança."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "3f1339f1001cb6a1": {
+   "fragment_id": "Artigo 30.º — Entidade reguladora",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Entidade reguladora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entidade reguladora\n\n1. Sem prejuízo do disposto no n.º 6 do artigo 21.º, os Estados-Membros devem instituir uma entidade reguladora. Esta entidade, que pode ser o Ministério dos Transportes ou outra instância, será independente, a nível de organização, de financiamento das decisões e a nível jurídico e decisório, de qualquer gestor da infra-estrutura, organismo de tarificação, organismo de repartição ou candidato. A referida entidade deve exercer as suas funções segundo os princípios enunciados no presente artigo, nos termos do qual as funções de recurso e de regulamentação podem ser atribuídas a instâncias distintas.\n\n2. Qualquer candidato tem o direito de recorrer para esta entidade reguladora, se considerar ter sido tratado de forma injusta ou discriminatória ou de algum outro modo lesado, em particular contra decisões tomadas pelo gestor da infra-estrutura ou, sendo o caso, pela empresa de caminho-de-ferro no que se refere:\n\na) Às especificações da rede;\n\nb) Aos critérios incluídos nessas especificações;\n\nc) Ao processo de repartição das capacidades e seus resultados;\n\nd) Ao regime de tarificação;\n\ne) Ao nível ou estrutura das taxas de utilização da infra-estrutura que as empresas pagam ou possam vir a pagar;\n\nf) Ao certificado de segurança, à aplicação e controlo das normas e regras de segurança.\n\n3. A entidade reguladora deve garantir que as taxas fixadas pelo gestor da infra-estrutura cumprem o disposto no capítulo II e não são discriminatórias. A negociação do nível das taxas de utilização da infra-estrutura entre os candidatos e o gestor da infra-estrutura, só é permitida se for efectuada sob a supervisão da entidade reguladora. A entidade reguladora deve intervir se as negociações puderem ser contrárias ao disposto na presente directiva.\n\n4. A entidade reguladora está habilitada a solicitar as informações que considere relevantes ao gestor da infra-estrutura, aos candidatos ou a terceiros interessados, no Estado-Membro em causa, informações essas que deverão ser fornecidas rapidamente.\n\n5. A entidade reguladora será chamada a decidir de eventuais queixas e a diligenciar no sentido de resolver a situação num prazo máximo de dois meses a contar da data de recepção de toda a informação.\n\nSem prejuízo do disposto no n.º 6, as decisões da entidade reguladora são vinculativas para todas as partes a que dizem respeito.\n\nEm caso de recurso por recusa de concessão de capacidade de infra-estrutura ou contra as condições de uma oferta de capacidade, a entidade reguladora deve confirmar a decisão do gestor da infra-estrutura ou determinar a modificação da decisão de acordo com as directrizes por si traçadas.\n\n6. Os Estados-Membros devem adoptar as medidas necessárias para garantir que as decisões tomadas pela entidade reguladora sejam sujeitas a controlo jurisdicional."
+  },
+  "d3e58476aebf6e3a": {
+   "fragment_id": "Artigo 31.º — Cooperação das entidades reguladoras",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Cooperação das entidades reguladoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Cooperação das entidades reguladoras\n\nAs entidades reguladoras nacionais devem trocar informações sobre a prática e os princípios de tomada de decisão, a fim de coordenarem os seus princípios de tomada de decisão em toda a Comunidade, sendo apoiadas pela Comissão nessa função."
+  },
+  "6250b25e5cc8ab5e": {
+   "fragment_id": "Artigo 32.º — Certificado de segurança",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Certificado de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Certificado de segurança\n\n1. As disposições a tomar para a certificação da segurança relativamente às empresas de transporte ferroviário estabelecidas ou que venham a estabelecer-se na Comunidade e aos agrupamentos internacionais por elas constituídos devem cumprir o disposto no presente artigo.\n\n2. Os Estados-Membros devem exigir, nos respectivos territórios, a apresentação de um certificado de segurança, no qual figurem os requisitos de segurança que as empresas de transporte ferroviário devem satisfazer, a fim de garantir a segurança do serviço nos itinerários em causa.\n\n3. Para obterem o certificado de segurança, as empresas de transporte ferroviário devem respeitar a regulamentação nacional, compatível com o direito comunitário e aplicada de forma não discriminatória, que estabelece as normas técnicas e operacionais específicas para os serviços ferroviários e as normas de segurança aplicáveis ao pessoal, ao material circulante e à organização interna das empresas.\n\nAs empresas de transporte ferroviário devem, em particular, fornecer prova de que o pessoal afectado à operação e acompanhamento das composições dispõe da formação necessária para cumprir as regras de tráfego aplicadas pelo gestor da infra-estrutura e as normas de segurança que lhe são impostas no interesse da circulação das composições.\n\nAs empresas de transporte ferroviário devem igualmente fornecer prova de que o material circulante que integra as composições foi aprovado pelas autoridades públicas ou o gestor da infra-estrutura e inspeccionado segundo as normas operacionais aplicáveis à infra-estrutura utilizada. O certificado de segurança deve ser emitido pela entidade designada para o efeito pelo Estado-Membro em que se localiza a infra-estrutura utilizada."
+  },
+  "3578dec736b051a8": {
+   "fragment_id": "Artigo 33.º — Derrogações",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Derrogações\n\n1. Por um período de cinco anos a contar de 15 de Março de 2003, os seguintes Estados-Membros:\n\n— a Irlanda, enquanto Estado-Membro situado numa ilha e com ligação ferroviária apenas a um outro Estado-Membro,\n\n— o Reino Unido, na mesma situação em relação à Irlanda do Norte,\n\n— e a Grécia, enquanto Estado-Membro sem ligação ferroviária directa com nenhum outro Estado-Membro,\n\nnão necessitam de aplicar os requisitos previstos:\n\na) No artigo 3.º, no n.º 2 do artigo 4.º, nos artigos 13.º, 14.º e 17.º, nos n.^os^ 4 e 6 do artigo 21.º, no artigo 22.º, no n.º 3 do artigo 24.º e nos artigos 25.º a 28.º e 30.º, desde que, quando uma empresa de transporte ferroviário o solicite por escrito, as decisões em matéria de repartição de capacidade da infra-estrutura ou de tarificação possam ser objecto de recurso perante um organismo independente, que delibera no prazo de dois meses a contar da apresentação de todas as informações relevantes e cuja decisão é sujeita a controlo judicial;\n\nb) No artigo 32.º, desde que estejam em causa serviços de transporte ferroviário que não se insiram no âmbito do artigo 10.º da Directiva 91/440/CEE.\n\n2. Todavia, quando:\n\na) Mais de uma empresa de transporte ferroviário à qual tenha sido concedida uma licença nos termos do artigo 4.º da Directiva 95/18/CE ou, no caso da Irlanda e da Irlanda do Norte, tendo essa licença sido obtida fora do território da ilha, apresentar um pedido oficial para prestar serviços ferroviários concorrentes no interior, para ou a partir da Irlanda, da Irlanda do Norte ou da Grécia, a continuação da aplicação desta derrogação será decidida pelo procedimento consultivo previsto no n.º 2 do artigo 35.º; ou\n\nb) Uma empresa de transporte ferroviário que preste serviços de transporte ferroviário na Irlanda, na Irlanda do Norte ou na Grécia apresentar um pedido oficial para prestar serviços ferroviários no interior, para ou a partir do território de outro Estado-Membro (no caso da Irlanda, do Reino Unido em relação à Irlanda do Norte ou de ambos, num Estado-Membro fora dos seus territórios), a derrogação a que se refere o n.º 1 não é aplicável.\n\nNo prazo de um ano a contar da data de recepção da decisão a que se refere a alínea a), aprovada pelo procedimento consultivo a que se refere o n.º 2 do artigo 35.º, ou da notificação do pedido oficial a que se refere a alínea b), o Estado ou Estados-Membros em causa (a Irlanda, o Reino Unido em relação à Irlanda do Norte ou a Grécia) aplicarão a legislação necessária à execução do disposto nos artigos a que se refere o n.º 1.\n\n3. A derrogação a que se refere o n.º 1 pode ser renovada por períodos não superiores a cinco anos. O mais tardar 12 meses antes do termo da derrogação, um Estado-Membro que dela beneficie pode requerer a renovação da derrogação à Comissão. A Comissão deve analisar o pedido e adoptar uma decisão pelo procedimento consultivo a que se refere o n.º 2 do artigo 35.º Esse procedimento consultivo é aplicável a qualquer decisão relativa ao pedido.\n\nAo adoptar a sua decisão, a Comissão tomará em consideração qualquer evolução da situação geopolítica, bem como a evolução do mercado dos transportes ferroviários no interior, para e a partir do Estado-Membro que pediu a renovação da derrogação.\n\n4. O Luxemburgo, enquanto Estado-Membro com uma rede ferroviária relativamente pequena, não é, até 31 de Agosto de 2004, obrigado a aplicar o requisito relativo à atribuição a uma entidade independente das funções determinantes para um acesso equitativo e não discriminatório à infra-estrutura, previstas nos artigos 4.º e 14.º, que exigem que os Estados-Membros criem entidades independentes para o desempenho das funções referidas nesses artigos."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "95c4161e8daef28d": {
+   "fragment_id": "Artigo 34.º — Medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Medidas de execução\n\n1. Os Estados-Membros podem submeter à apreciação da Comissão qualquer questão relativa à execução da presente directiva. As decisões adequadas serão aprovadas pelo procedimento consultivo a que se refere o n.º 2 do artigo 35.º\n\n2. A pedido de um Estado-Membro ou por sua própria iniciativa, a Comissão analisará, em casos específicos, a aplicação e execução das disposições relativas à tarificação, à capacidade de repartição e ao certificado de segurança e, no prazo de dois meses a contar da recepção desse pedido, decidirá, pelo procedimento consultivo a que se refere o n.º 2 do artigo 35.º, se a medida em causa pode continuar a ser aplicada. A Comissão comunicará a sua decisão ao Parlamento Europeu, ao Conselho e aos Estados-Membros.\n\nSem prejuízo do artigo 226.º do Tratado, qualquer Estado-Membro pode submeter a decisão da Comissão à apreciação do Conselho no prazo de um mês. O Conselho, deliberando por maioria qualificada, pode, em circunstâncias excepcionais, tomar uma decisão diferente no prazo de um mês.\n\n3. As alterações necessárias para adaptar os anexos devem ser adoptadas pelo procedimento de regulamentação a que se refere o n.º 3 do artigo 35.º"
+  },
+  "3fd45d1b63190882": {
+   "fragment_id": "Artigo 35.º — Comitologia",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Comitologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Comitologia\n\n1. A Comissão é assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 3.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n4. O Comité aprovará o seu regulamento interno."
+  },
+  "b9e2ac6c3623bbd7": {
+   "fragment_id": "Artigo 36.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Relatório\n\nEm 15 de Março de 2005, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho um relatório sobre a execução da presente directiva, acompanhado, se necessário, de novas propostas de acção comunitária."
+  },
+  "25f75d0d0d9102fc": {
+   "fragment_id": "Artigo 37.º — Revogações",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Revogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Revogações\n\nSão revogados os Regulamentos (CEE) n.^os^ 2830/77 e 2183/78, as Decisões 82/529/CEE e 83/418/CEE e a Directiva 95/19/CE."
+  },
+  "0f9fabfbaf18e453": {
+   "fragment_id": "Artigo 38.º — Execução",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Execução\n\nOs Estados-Membros devem aprovar as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 15 de Março de 2003 e informar imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência quando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros."
+  },
+  "487a452a0ef5c983": {
+   "fragment_id": "Artigo 39.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Entrada em vigor\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "3f8029b98a6d39be": {
+   "fragment_id": "Artigo 40.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "9da0769474d32708": {
+   "fragment_id": "Conteúdo das especificações da rede",
+   "type": "divisao",
+   "heading": "Conteúdo das especificações da rede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Conteúdo das especificações da rede\n\nAs especificações da rede a que se refere o artigo 3.º incluirão as seguintes informações:\n\n1. Um capítulo em que serão enunciadas as características da infra-estrutura à disposição das empresas de transporte ferroviário, bem como as condições de acesso à mesma;\n\n2. Um capítulo sobre os princípios de tarificação e o tarifário, que incluirá todos os elementos relevantes do regime de tarificação, assim como informação suficientemente pormenorizada sobre as taxas aplicáveis aos serviços enumerados no anexo II e assegurados por um único prestador. Este capítulo apresentará pormenorizadamente a metodologia, as regras e, sendo o caso, as escalas utilizadas para a aplicação dos n.^os^ 4 e 5 do artigo 7.º e dos artigos 8.º e 9.º, e conterá informações sobre as alterações ao montante das taxas já decididas ou previstas;\n\n3. Um capítulo sobre os princípios e os critérios de repartição das capacidades, que especificará as características gerais da capacidade de infra-estrutura à disposição das empresas de transporte ferroviário e as eventuais restrições à sua utilização, incluindo os condicionalismos previsíveis decorrentes da manutenção da rede. Especificará igualmente os procedimentos e prazos do processo de repartição de capacidade. Fixará os critérios específicos aplicáveis, durante esse processo, nomeadamente:\n\na) As modalidades de apresentação de pedidos de capacidade ao gestor da infra-estrutura pelos candidatos;\n\nb) Os requisitos a que devem obedecer os candidatos;\n\nc) Os prazos dos processos de candidatura e de repartição;\n\nd) Os princípios que regem o processo de coordenação;\n\ne) Os procedimentos a seguir e os critérios a utilizar quando a infra-estrutura esteja congestionada;\n\nf) Informações sobre as restrições relativas à utilização da infra-estrutura;\n\ng) As condições pelas quais são tidos em conta os anteriores níveis de utilização da capacidade para determinar prioridades no processo de repartição."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "c6b2a6e1c6e114d3": {
+   "fragment_id": "Serviços a fornecer às empresas de transporte ferroviário",
+   "type": "divisao",
+   "heading": "Serviços a fornecer às empresas de transporte ferroviário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Serviços a fornecer às empresas de transporte ferroviário\n\n1. O pacote mínimo de acesso incluirá:\n\na) O tratamento dos pedidos de capacidade de infra-estrutura;\n\nb) O direito de utilização da capacidade concedida;\n\nc) A utilização de agulhas e entroncamentos;\n\nd) O comando da composição, incluindo a sinalização, a regulação, a expedição e a comunicação e transmissão de informações sobre o movimento da composição;\n\ne) Quaisquer informações necessárias à implementação ou operação do serviço para o qual a capacidade foi concedida.\n\n2. O acesso por via férrea às instalações de serviços e ao fornecimento de serviços incidirá:\n\na) Na utilização de meios de alimentação de energia eléctrica para tracção, quando disponíveis;\n\nb) Nas instalações de abastecimento de combustível;\n\nc) Nas estações de passageiros, seus edifícios e outras instalações;\n\nd) Nos terminais de mercadorias;\n\ne) Nas estações de triagem;\n\nf) Nas instalações de formação das composições;\n\ng) Nos feixes de resguardo;\n\nh) Nas instalações de manutenção e outras instalações técnicas.\n\n3. Os serviços adicionais podem incluir:\n\na) A energia eléctrica para tracção;\n\nb) O pré-aquecimento dos comboios de passageiros;\n\nc) O abastecimento de combustível, as manobras e todos os outros serviços fornecidos nas instalações de acesso aos serviços acima referidos;\n\nd) Contratos personalizados para:\n\n— controlo do transporte de mercadorias perigosas,\n\n— assistência na operação de comboios especiais.\n\n4. Os serviços auxiliares podem incluir:\n\na) O acesso à rede de telecomunicações;\n\nb) O fornecimento de informações suplementares;\n\nc) A inspecção técnica do material circulante."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "44ee92259ddf4af9": {
+   "fragment_id": "Calendário do processo de repartição",
+   "type": "divisao",
+   "heading": "Calendário do processo de repartição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Calendário do processo de repartição\n\n1. O horário de serviço será fixado uma vez por ano civil.\n\n2. A mudança do horário de serviço terá lugar à meia-noite do segundo sábado de Dezembro. Qualquer alteração ou ajustamento a efectuar após o Inverno, nomeadamente para ter em conta, se for caso disso, as alterações de horários do tráfego regional de passageiros, terá lugar à meia-noite do último sábado de Junho de cada ano ou, sempre que necessário, com outra periodicidade entre estas datas. Os gestores de infra-estruturas poderão decidir datas diferentes; nesse caso, deverão informar a Comissão se houver a possibilidade de o tráfego internacional ser afectado.\n\n3. Os pedidos de capacidade a incluir no horário de serviço deverão ser recebidos o mais tardar 12 meses antes da sua entrada em vigor.\n\n4. O mais tardar 11 meses antes da entrada em vigor do horário de serviço, o gestor da infra-estrutura assegurará o estabelecimento de traçados internacionais provisórios em cooperação com os outros organismos de repartição competentes referidos no artigo 15.º O gestor da infra-estrutura assegurará, na medida do possível, que esses canais sejam respeitados nos processos subsequentes.\n\n5. O mais tardar quatro meses após a data-limite para a apresentação de propostas por parte dos candidatos, o gestor da infra-estrutura preparará um projecto de horário de serviço.\n\n---"
+  },
+  "0a62a00969dd7781": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#src.E0001)) JO C 321 de 20.10.1998, p. 10 e\n\n> JO C 116 E de 26.4.2000, p. 40.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#src.E0002)) JO C 209 de 22.7.1999, p. 22.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#src.E0003)) JO C 57 de 29.2.2000, p. 40.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 10 de Março de 1999 (JO C 175 de 21.6.1999, p. 120), confirmado em 27 de Outubro de 1999 (JO C 154 de 5.6.2000, p. 28), posição comum do Conselho de 28 de Março de 2000 (JO C 178 de 27.6.2000, p. 28) e decisão do Parlamento Europeu de 15 de Julho de 2000 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 1 de Fevereiro de 2001 e decisão do Conselho de 20 de Dezembro de 2000.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#src.E0005)) JO L 237 de 24.8.1991, p. 25. Directiva com a redacção que lhe foi dada pela Directiva 2001/12/CE do Parlamento Europeu e do Conselho (ver página 1 do presente Jornal Oficial).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#src.E0006)) JO L 143 de 27.6.1995, p. 75.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23 (rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#src.E0008)) JO L 334 de 24.12.1977, p. 13. Regulamento com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#src.E0009)) JO L 258 de 21.9.1978, p. 1. Decisão com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#src.E0010)) JO L 234 de 9.8.1982, p. 5. Decisão com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#src.E0011)) JO L 237 de 26.8.1983, p. 32. Decisão com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/958ff5f9-155b-4268-8620-383db91b0acf.0010.03/DOC_1#src.E0012)) Regulamento (CEE) n.º 1191/69 do Conselho, de 26 de Junho de 1969, relativo à acção dos Estados--Membros em matéria de obrigações inerentes à noção de serviço público no domínio dos transportes ferroviários, rodoviários e por via navegável (JO L 156 de 28.6.1969, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1893/91 (JO L 169 de 29.6.1991, p. 1)."
+  },
+  "f7e6a7d270332cd6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Fevereiro de 2001\n\nrelativa à repartição de capacidade da infra-estrutura ferroviária e à aplicação de taxas de utilização da infra-estrutura ferroviária\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 71.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#E0004)), em função do projecto comum aprovado pelo Comité de conciliação em 22 de Novembro de 2000,\n\n(1) Uma maior integração do sector ferroviário da Comunidade constitui um elemento essencial para a realização do mercado interno e contribui para a mobilidade sustentável.\n\n(2) A Directiva 91/440/CEE do Conselho, de 29 de Julho de 1991, relativa ao desenvolvimento dos caminhos-de-ferro comunitários ([^5^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#E0005)), estabelece determinados direitos de acesso, no âmbito do transporte ferroviário internacional, para as empresas de transporte ferroviário e agrupamentos internacionais de empresas de transporte ferroviário. Esses direitos pressupõem a utilização da infra-estrutura ferroviária por múltiplos utilizadores.\n\n(3) A Directiva 95/19/CE do Conselho, de 19 de Junho de 1995, relativa à repartição das capacidades de infra-estrutura ferroviária e à cobrança de taxas de utilização da infra-estrutura ([^6^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#E0006)), institui um enquadramento geral para a repartição de capacidades da infra-estrutura ferroviária.\n\n(4) Estas directivas não impediram uma variação considerável da estrutura e do nível das taxas de utilização da infra-estrutura ferroviária, bem como da forma e duração dos processos de repartição das capacidades.\n\n(5) Para garantir a transparência e um acesso não discriminatório à infra-estrutura ferroviária para todas as empresas de transporte ferroviário, serão publicadas nas especificações da rede todas as informações necessárias para a utilização dos direitos de acesso.\n\n(6) Sistemas adequados de repartição de capacidade de infra-estrutura ferroviária, conjugados com a existência de operadores competitivos, contribuirão para melhorar a distribuição intermodal dos transportes.\n\n(7) O encorajamento da utilização optimizada da infra-estrutura ferroviária levará a uma redução dos custos dos transportes para a sociedade.\n\n(8) Um transporte de mercadorias eficaz, nomeadamente a nível transfronteiras, requer a adopção de medidas tendentes à abertura do mercado.\n\n(9) Os Estados-Membros deverão poder permitir a intervenção directa dos compradores de serviços ferroviários no processo de repartição das capacidades.\n\n(10) A revitalização dos caminhos-de-ferro europeus através de um acesso mais amplo para os transportes internacionais de mercadorias na rede transeuropeia de transporte ferroviário de mercadorias requer uma concorrência intermodal equitativa entre o transporte ferroviário e rodoviário, nomeadamente mediante uma tomada em consideração adequada dos diversos efeitos externos. Regimes adequados de tarificação da utilização da infra-estrutura ferroviária, conjugados com regimes adequados de tarificação das outras infra-estruturas de transporte e com a existência de operadores competitivos, permitirão um equilíbrio óptimo entre os diferentes modos de transporte.\n\n(11) Os regimes de tarificação e de repartição de capacidade devem proporcionar a todas as empresas um acesso equitativo e não discriminatório e procurar, na medida do possível, satisfazer as necessidades de todos os utilizadores e todos os tipos de tráfego, de um modo equitativo e não discriminatório.\n\n(12) No quadro estabelecido pelos Estados-Membros, os regimes de tarificação e de repartição de capacidade devem encorajar os gestores das infra-estruturas ferroviárias a optimizar a utilização da sua infra-estrutura.\n\n(13) Os regimes de repartição de capacidade devem proporcionar às empresas de transporte ferroviário indicações claras e consistentes que lhes permitam tomar decisões racionais.\n\n(14) A fim de atender às necessidades dos utilizadores ou dos potenciais utilizadores da capacidade de infra-estrutura ao planearem as suas actividades, bem como às necessidades dos clientes e dos financiadores, importa que o gestor da infra-estrutura garanta que a capacidade de infra-estrutura seja atribuída de uma forma que reflicta a necessidade de manter e melhorar os níveis de fiabilidade do serviço.\n\n(15) É desejável que sejam dados incentivos às empresas de transporte ferroviário e ao gestor da infra-estrutura para minimizarem as perturbações e melhorarem o desempenho da rede ferroviária.\n\n(16) Os regimes de tarificação e de repartição de capacidade devem favorecer uma concorrência leal no fornecimento de serviços ferroviários.\n\n(17) É importante ter em conta os requisitos empresariais tanto dos candidatos como do gestor da infra-estrutura.\n\n(18) É importante valorizar ao máximo a flexibilidade de que os gestores de infra-estrutura dispõem no que se refere à repartição da capacidade de infra-estrutura, devendo este aspecto ser compatível com a satisfação dos requisitos razoáveis dos candidatos.\n\n(19) O processo de repartição de capacidade deve evitar que sejam impostas limitações indevidas às pretensões de outras empresas que detêm, ou pretendem deter, direitos de utilização da infra-estrutura para desenvolvimento das suas actividades.\n\n(20) É desejável deixar aos gestores das infra-estruturas uma certa margem de manobra, que permita uma utilização mais eficiente da rede de infra-estruturas.\n\n(21) Pode ser necessário, no âmbito dos regimes de repartição de capacidade e de tarificação, tomar em conta o facto de que os diferentes elementos da rede de infra-estruturas ferroviárias podem ter sido projectados para responder às necessidades de diferentes utilizadores principais.\n\n(22) Os requisitos exigidos aos serviços de transporte de passageiros podem muitas vezes entrar em conflito com os requisitos dos serviços de transporte de mercadorias. Os requisitos relativos aos serviços de transporte de passageiros podem resultar numa rede de construção e manutenção mais onerosas do que uma rede destinada apenas ao transporte de mercadorias. O crescente diferencial de velocidade entre o material circulante destinado ao transporte de mercadorias e o destinado ao transporte de passageiros pode exacerbar o conflito entre estes dois tipos de tráfego.\n\n(23) Os diferentes utilizadores e tipos de utilizadores terão frequentemente um impacto diferente na capacidade de infra-estrutura e as necessidades dos diferentes serviços devem ser devidamente contrabalançadas.\n\n(24) Os serviços efectuados ao abrigo de contratos com autoridades públicas podem requerer regras específicas que salvaguardem a sua capacidade de atrair os utilizadores.\n\n(25) Os regimes de tarificação e de repartição de capacidade devem ter em conta os efeitos da crescente saturação da capacidade de infra-estrutura e mesmo a escassez de capacidade.\n\n(26) A planificação dos diversos tipos de tráfego efectua-se segundo diferentes estruturas horárias, pelo que é conveniente garantir que os pedidos de capacidade de infra-estrutura apresentados depois de concluído o processo de definição dos horários possam ser satisfeitos.\n\n(27) A utilização das tecnologias da informação pode acelerar o processo de definição dos horários e melhorar a sua capacidade de resposta, facilitar a apresentação de pedidos de capacidade de infra-estrutura pelos candidatos e facilitar o estabelecimento dos traçados de marcha que utilizam a rede de vários gestores de infra-estrutura.\n\n(28) Para garantir a optimização dos resultados para as empresas de transporte ferroviário, é oportuno prever um controlo da utilização da capacidade de infra-estrutura quando seja necessário coordenar os pedidos de capacidade para satisfazer as necessidades dos utentes.\n\n(29) Face à posição monopolista dos gestores de infra-estrutura, é oportuno prever um controlo da capacidade de infra-estrutura disponível e métodos de a reforçar quando o processo de repartição de capacidade não possa satisfazer as necessidades dos utentes.\n\n(30) A falta de informação sobre os pedidos de outras empresas de transporte ferroviário e as limitações do sistema podem dificultar às empresas de transporte ferroviário a optimização dos seus pedidos de capacidade de infra-estrutura.\n\n(31) É importante assegurar uma melhor coordenação dos regimes de repartição de capacidade, de modo a tornar o caminho-de-ferro mais interessante para o tráfego que utiliza a rede de mais de um gestor de infra-estrutura, e nomeadamente para o tráfego internacional.\n\n(32) Importa minimizar as distorções de concorrência que podem surgir entre infra-estruturas ferroviárias ou entre modos de transporte em resultado de diferenças significativas nos princípios de tarificação.\n\n(33) É conveniente definir as componentes do serviço de infra-estrutura essenciais à prestação de um serviço por parte de um operador e que devem ser asseguradas em troca de taxas de acesso mínimas.\n\n(34) O investimento na infra-estrutura ferroviária é desejável e os regimes de tarificação da utilização da infra-estrutura devem proporcionar incentivos a que o gestor da infra-estrutura realize investimentos adequados, quando tais investimentos forem economicamente interessantes.\n\n(35) Um regime de tarificação transmite indicações económicas aos utentes. É importante que essas indicações às empresas de transporte ferroviário sejam consistentes e as incitem a tomar decisões racionais.\n\n(36) Para possibilitar a fixação de taxas de utilização de infra-estrutura a níveis justos e adequados, os gestores da infra-estrutura necessitam de inventariar e determinar o valor dos seus activos e de adquirir uma boa compreensão dos factores determinantes dos custos de exploração da infra-estrutura.\n\n(37) Convém garantir que os custos externos sejam tidos em conta nas decisões respeitantes aos transportes.\n\n(38) É importante garantir que as taxas aplicadas ao tráfego internacional permitam aos caminhos-de-ferro satisfazerem as necessidades do mercado. Por conseguinte, a taxa de utilização da infra-estrutura deverá corresponder aos custos directamente incorridos em resultado da exploração do serviço ferroviário.\n\n(39) O nível global de recuperação dos custos por meio da tarificação da utilização da infra-estrutura tem repercussões no nível necessário das subvenções do Estado. Os Estados-Membros podem requerer diferentes níveis de recuperação global dos custos, através da aplicação de sobretaxas ou de uma taxa de rendibilidade em função das condições do mercado, equilibrando simultaneamente a recuperação dos custos com a competitividade intermodal do transporte ferroviário de mercadorias. No entanto, é desejável que qualquer sistema de tarificação da utilização da infra-estrutura possibilite uma utilização da rede ferroviária pelo tráfego que possa, pelo menos, pagar o custo adicional que impõe.\n\n(40) A infra-estrutura ferroviária é um monopólio natural. Por conseguinte, é necessário incentivar os gestores da infra-estrutura a reduzirem os custos e a gerirem eficientemente a infra-estrutura.\n\n(41) Convém ter em conta o facto de, desde há vários anos, o nível dos investimentos na infra-estrutura e na tecnologia não ter permitido criar condições para um verdadeiro desenvolvimento do transporte ferroviário. Por conseguinte, é adequado proceder neste contexto a uma adaptação adequada, nomeadamente no âmbito da criação da rede transeuropeia de transporte ferroviário de mercadorias, utilizando *inter alia* os instrumentos comunitários disponíveis, sem prejuízo das prioridades já estabelecidas.\n\n(42) Os descontos proporcionados às empresas de transporte ferroviário devem estar relacionados com as economias de custos administrativos efectivamente realizadas. Os descontos podem também ser utilizados para promover uma utilização eficaz da infra-estrutura.\n\n(43) É desejável que as empresas de transporte ferroviário e o gestor da infra-estrutura disponham de incentivos que lhes permitam minimizar perturbações na rede.\n\n(44) A repartição de capacidade tem um custo para o gestor de infra-estrutura cuja recuperação deve ser assegurada.\n\n(45) São necessárias medidas que garantam que seja exigida a todas as empresas de transporte ferroviário detentoras de licença nos termos da legislação comunitária a detenção de um certificado de segurança adequado antes de exercerem a sua actividade no território de um Estado-Membro. A concessão de certificados de segurança deve respeitar a legislação comunitária.\n\n(46) A gestão eficaz e a utilização justa e não discriminatória da infra-estrutura ferroviária requerem a instituição de uma entidade reguladora que supervisione a aplicação das regras e actos comunitários em causa como uma instância de recurso, sem prejuízo da possibilidade de controlo jurisdicional.\n\n(47) É necessário tomar medidas especiais para atender à situação geopolítica e geográfica específica de determinados Estados-Membros, bem como à organização específica do sector ferroviário em diversos Estados-Membros, assegurando simultaneamente a integridade do mercado interno.\n\n(48) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#E0007)).\n\n(49) Segundo os princípios da subsidiariedade e da proporcionalidade previstos no artigo 5.º do Tratado, os objectivos da presente directiva, nomeadamente a coordenação de mecanismos nos Estados-Membros no que respeita à atribuição de capacidade de infra-estrutura ferroviária, à cobrança de taxas de utilização da referida infra-estrutura e à certificação da segurança, não podem ser suficientemente realizados pelos Estados-Membros, atendendo à necessidade de assegurar condições de acesso justas e não discriminatórias e de ter em conta as dimensões manifestamente internacionais presentes no funcionamento de elementos significativos das redes ferroviárias, podendo, pois, devido à necessidade de uma acção transnacional coordenada, ser melhor alcançados pela Comunidade. A presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(50) O Regulamento (CEE) n.º 2830/77 do Conselho, de 12 de Dezembro de 1977, relativo às medidas necessárias para tornar comparáveis as contabilidades e as contas anuais das empresas de caminho-de-ferro ([^8^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#E0008)), o Regulamento (CEE) n.º 2183/78 do Conselho, de 19 de Setembro de 1978, relativo à fixação de princípios uniformes para o cálculo dos custos das empresas de caminho-de-ferro ([^9^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#E0009)), a Decisão 82/529/CEE, de 19 de Julho de 1982, relativa à formação dos preços para os transportes ferroviários internacionais de mercadorias ([^10^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#E0010)), e a Decisão 83/418/CEE, de 25 de Julho de 1983, relativa à autonomia comercial dos caminhos-de-ferro na gestão dos seus tráfegos internacionais de passageiros e bagagens ([^11^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#E0011)), e a Directiva 95/19/CE tornaram-se obsoletos com a presente directiva e devem, por conseguinte, ser revogados,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "d5d987761abed686": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Repartição», a afectação da capacidade da infra-estrutura ferroviária por um gestor de infra-estrutura;\n\nb) «Candidato», uma empresa de transporte ferroviário detentora de licença e/ou um agrupamento internacional de empresas de transporte ferroviário e, nos Estados-Membros em que se preveja essa possibilidade, quaisquer outras pessoas singulares ou colectivas com um interesse de serviço público ou comercial na aquisição de capacidade de infra-estrutura, tais como autoridades públicas ao abrigo do Regulamento (CEE) n.º 1191/69 do Conselho ([^12^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#E0012)), bem como carregadores marítimos, transitários e operadores de transportes combinados, para exploração de um serviço ferroviário nos respectivos territórios;\n\nc) «Infra-estrutura congestionada», uma secção da infra-estrutura relativamente à qual a procura de capacidade de infra-estrutura não pode ser integralmente satisfeita durante determinados períodos, mesmo após a coordenação dos vários pedidos de reserva de capacidade;\n\nd) «Plano de reforço da capacidade», uma medida ou série de medidas, cuja aplicação obedece a um calendário e que são propostas para remediar as limitações de capacidade que levam a que uma secção da infra-estrutura seja declarada «infra-estrutura congestionada»;\n\ne) «Coordenação», o processo através do qual o organismo de repartição e os candidatos procurarão resolver situações de conflito entre pedidos de capacidade de infra-estrutura;\n\nf) «Acordo-quadro», um acordo geral juridicamente vinculativo, de direito público ou privado, que estabelece os direitos e obrigações de um candidato e do gestor da infra-estrutura ou do organismo de repartição em relação à capacidade de infra-estrutura a repartir e às taxas a aplicar num período superior ao período de vigência de um horário de serviço;\n\ng) «Capacidade de infra-estrutura», a possibilidade de programar traçados solicitados para um elemento da infra-estrutura durante um determinado período;\n\nh) «Gestor da infra-estrutura», qualquer entidade ou empresa responsável concretamente pela instalação e manutenção da infra-estrutura ferroviária, bem como eventualmente pela gestão dos sistemas de controlo e de segurança. As funções do gestor da infra-estrutura de uma rede, ou de parte de uma rede, podem ser repartidas por diferentes organismos ou empresas;\n\ni) «Rede», o conjunto da infra-estrutura ferroviária pertencente a um gestor de infra-estrutura e/ou por ele gerida;\n\nj) «Especificações da rede», a relação pormenorizada das regras gerais, prazos, procedimentos e critérios relativos aos regimes de tarificação e de repartição da capacidade. Incluirá também todas as outras informações necessárias para viabilizar a candidatura à capacidade de infra-estrutura;\n\nk) «Empresa de transporte ferroviário», qualquer empresa de estatuto privado ou público, detentora de uma licença nos termos da legislação comunitária aplicável, cuja actividade principal consista na prestação de serviços de transporte de mercadorias e/ou de passageiros por caminho-de-ferro, devendo a tracção ser obrigatoriamente assegurada por essa empresa, incluindo empresas que apenas prestem serviços de tracção;\n\nl) «Traçado», a capacidade de infra-estrutura necessária para a circulação de um comboio entre dois pontos em determinado momento;\n\nm) «Horário de serviço», o conjunto de dados que definem todos os movimentos programados de comboios e demais material circulante numa determinada infra-estrutura durante o seu período de vigência."
+  },
+  "fe07401b52d68def": {
+   "fragment_id": "Artigo 30.º — Entidade reguladora",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Entidade reguladora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entidade reguladora\n\n1. Sem prejuízo do disposto no n.º 6 do artigo 21.º, os Estados-Membros devem instituir uma entidade reguladora. Esta entidade, que pode ser o Ministério dos Transportes ou outra instância, será independente, a nível de organização, de financiamento das decisões e a nível jurídico e decisório, de qualquer gestor da infra-estrutura, organismo de tarificação, organismo de repartição ou candidato. A referida entidade deve exercer as suas funções segundo os princípios enunciados no presente artigo, nos termos do qual as funções de recurso e de regulamentação podem ser atribuídas a instâncias distintas.\n\n2. Qualquer candidato tem o direito de recorrer para esta entidade reguladora, se considerar ter sido tratado de forma injusta ou discriminatória ou de algum outro modo lesado, em particular contra decisões tomadas pelo gestor da infra-estrutura ou, sendo o caso, pela empresa de caminho-de-ferro no que se refere:\n\na) Às especificações da rede;\n\nb) Aos critérios incluídos nessas especificações;\n\nc) Ao processo de repartição das capacidades e seus resultados;\n\nd) Ao regime de tarificação;\n\ne) Ao nível ou estrutura das taxas de utilização da infra-estrutura que as empresas pagam ou possam vir a pagar;\n\nf) As disposições relativas ao acesso nos termos do artigo 10.º da Directiva 91/440/CEE do Conselho, de 29 de Julho de 1991, relativa ao desenvolvimento dos caminhos-de-ferro comunitários ([^13^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#E0013)), alterada pela Directiva 2004/51/CE do Parlamento Europeu e do Conselho, de 30 de Abril de 2004, que altera a Directiva 91/440/CEE do Conselho relativa ao desenvolvimento dos caminhes-de-ferro comunitários ([^14^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#E0014)).\n\n3. A entidade reguladora deve garantir que as taxas fixadas pelo gestor da infra-estrutura cumprem o disposto no capítulo II e não são discriminatórias. A negociação do nível das taxas de utilização da infra-estrutura entre os candidatos e o gestor da infra-estrutura, só é permitida se for efectuada sob a supervisão da entidade reguladora. A entidade reguladora deve intervir se as negociações puderem ser contrárias ao disposto na presente directiva.\n\n4. A entidade reguladora está habilitada a solicitar as informações que considere relevantes ao gestor da infra-estrutura, aos candidatos ou a terceiros interessados, no Estado-Membro em causa, informações essas que deverão ser fornecidas rapidamente.\n\n5. A entidade reguladora será chamada a decidir de eventuais queixas e a diligenciar no sentido de resolver a situação num prazo máximo de dois meses a contar da data de recepção de toda a informação.\n\nSem prejuízo do disposto no n.º 6, as decisões da entidade reguladora são vinculativas para todas as partes a que dizem respeito.\n\nEm caso de recurso por recusa de concessão de capacidade de infra-estrutura ou contra as condições de uma oferta de capacidade, a entidade reguladora deve confirmar a decisão do gestor da infra-estrutura ou determinar a modificação da decisão de acordo com as directrizes por si traçadas.\n\n6. Os Estados-Membros devem adoptar as medidas necessárias para garantir que as decisões tomadas pela entidade reguladora sejam sujeitas a controlo jurisdicional."
+  },
+  "afc58c95f1066168": {
+   "fragment_id": "Artigo 34.º — Medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Medidas de execução\n\n1. Os Estados-Membros podem submeter à apreciação da Comissão qualquer questão relativa à execução da presente directiva. As decisões adequadas serão aprovadas pelo procedimento consultivo a que se refere o n.º 2 do artigo 35.º\n\n2. A pedido de um Estado-Membro ou por sua própria iniciativa, a Comissão analisará, em casos específicos, a aplicação e a execução das disposições relativas à tarifação e à repartição de capacidade e, no prazo de dois meses a contar da recepção desse pedido, decidirá, nos termos do n.º 2 do artigo 35.º, se a medida em causa pode continuar a ser aplicada. A Comissão comunicará a sua decisão ao Parlamento Europeu, ao Conselho e aos Estados-Membros.\n\nSem prejuízo do artigo 226.º do Tratado, qualquer Estado-Membro pode submeter a decisão da Comissão à apreciação do Conselho no prazo de um mês. O Conselho, deliberando por maioria qualificada, pode, em circunstâncias excepcionais, tomar uma decisão diferente no prazo de um mês.\n\n3. As alterações necessárias para adaptar os anexos devem ser adoptadas pelo procedimento de regulamentação a que se refere o n.º 3 do artigo 35.º"
+  },
+  "15e52a77408ffac1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#src.E0001)) JO C 321 de 20.10.1998, p. 10 e\n\n> JO C 116 E de 26.4.2000, p. 40.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#src.E0002)) JO C 209 de 22.7.1999, p. 22.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#src.E0003)) JO C 57 de 29.2.2000, p. 40.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 10 de Março de 1999 (JO C 175 de 21.6.1999, p. 120), confirmado em 27 de Outubro de 1999 (JO C 154 de 5.6.2000, p. 28), posição comum do Conselho de 28 de Março de 2000 (JO C 178 de 27.6.2000, p. 28) e decisão do Parlamento Europeu de 15 de Julho de 2000 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 1 de Fevereiro de 2001 e decisão do Conselho de 20 de Dezembro de 2000.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#src.E0005)) JO L 237 de 24.8.1991, p. 25. Directiva com a redacção que lhe foi dada pela Directiva 2001/12/CE do Parlamento Europeu e do Conselho (ver página 1 do presente Jornal Oficial).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#src.E0006)) JO L 143 de 27.6.1995, p. 75.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23 (rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#src.E0008)) JO L 334 de 24.12.1977, p. 13. Regulamento com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#src.E0009)) JO L 258 de 21.9.1978, p. 1. Decisão com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#src.E0010)) JO L 234 de 9.8.1982, p. 5. Decisão com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#src.E0011)) JO L 237 de 26.8.1983, p. 32. Decisão com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#src.E0012)) Regulamento (CEE) n.º 1191/69 do Conselho, de 26 de Junho de 1969, relativo à acção dos Estados--Membros em matéria de obrigações inerentes à noção de serviço público no domínio dos transportes ferroviários, rodoviários e por via navegável (JO L 156 de 28.6.1969, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1893/91 (JO L 169 de 29.6.1991, p. 1).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#src.E0013)) JO L 237 de 24.8.1991, p. 25.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/e634d39a-163b-43e8-9599-c3c4f6f83e50.0018.03/DOC_1#src.E0014)) JO L 164 de 30.4.2004, p. 164."
+  },
+  "7ed45b75cd2097b2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Fevereiro de 2001\n\nrelativa à repartição de capacidade da infra-estrutura ferroviária e à aplicação de taxas de utilização da infra-estrutura ferroviária\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 71.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#E0004)), em função do projecto comum aprovado pelo Comité de conciliação em 22 de Novembro de 2000,\n\n(1) Uma maior integração do sector ferroviário da Comunidade constitui um elemento essencial para a realização do mercado interno e contribui para a mobilidade sustentável.\n\n(2) A Directiva 91/440/CEE do Conselho, de 29 de Julho de 1991, relativa ao desenvolvimento dos caminhos-de-ferro comunitários ([^5^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#E0005)), estabelece determinados direitos de acesso, no âmbito do transporte ferroviário internacional, para as empresas de transporte ferroviário e agrupamentos internacionais de empresas de transporte ferroviário. Esses direitos pressupõem a utilização da infra-estrutura ferroviária por múltiplos utilizadores.\n\n(3) A Directiva 95/19/CE do Conselho, de 19 de Junho de 1995, relativa à repartição das capacidades de infra-estrutura ferroviária e à cobrança de taxas de utilização da infra-estrutura ([^6^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#E0006)), institui um enquadramento geral para a repartição de capacidades da infra-estrutura ferroviária.\n\n(4) Estas directivas não impediram uma variação considerável da estrutura e do nível das taxas de utilização da infra-estrutura ferroviária, bem como da forma e duração dos processos de repartição das capacidades.\n\n(5) Para garantir a transparência e um acesso não discriminatório à infra-estrutura ferroviária para todas as empresas de transporte ferroviário, serão publicadas nas especificações da rede todas as informações necessárias para a utilização dos direitos de acesso.\n\n(6) Sistemas adequados de repartição de capacidade de infra-estrutura ferroviária, conjugados com a existência de operadores competitivos, contribuirão para melhorar a distribuição intermodal dos transportes.\n\n(7) O encorajamento da utilização optimizada da infra-estrutura ferroviária levará a uma redução dos custos dos transportes para a sociedade.\n\n(8) Um transporte de mercadorias eficaz, nomeadamente a nível transfronteiras, requer a adopção de medidas tendentes à abertura do mercado.\n\n(9) Os Estados-Membros deverão poder permitir a intervenção directa dos compradores de serviços ferroviários no processo de repartição das capacidades.\n\n(10) A revitalização dos caminhos-de-ferro europeus através de um acesso mais amplo para os transportes internacionais de mercadorias na rede transeuropeia de transporte ferroviário de mercadorias requer uma concorrência intermodal equitativa entre o transporte ferroviário e rodoviário, nomeadamente mediante uma tomada em consideração adequada dos diversos efeitos externos. Regimes adequados de tarificação da utilização da infra-estrutura ferroviária, conjugados com regimes adequados de tarificação das outras infra-estruturas de transporte e com a existência de operadores competitivos, permitirão um equilíbrio óptimo entre os diferentes modos de transporte.\n\n(11) Os regimes de tarificação e de repartição de capacidade devem proporcionar a todas as empresas um acesso equitativo e não discriminatório e procurar, na medida do possível, satisfazer as necessidades de todos os utilizadores e todos os tipos de tráfego, de um modo equitativo e não discriminatório.\n\n(12) No quadro estabelecido pelos Estados-Membros, os regimes de tarificação e de repartição de capacidade devem encorajar os gestores das infra-estruturas ferroviárias a optimizar a utilização da sua infra-estrutura.\n\n(13) Os regimes de repartição de capacidade devem proporcionar às empresas de transporte ferroviário indicações claras e consistentes que lhes permitam tomar decisões racionais.\n\n(14) A fim de atender às necessidades dos utilizadores ou dos potenciais utilizadores da capacidade de infra-estrutura ao planearem as suas actividades, bem como às necessidades dos clientes e dos financiadores, importa que o gestor da infra-estrutura garanta que a capacidade de infra-estrutura seja atribuída de uma forma que reflicta a necessidade de manter e melhorar os níveis de fiabilidade do serviço.\n\n(15) É desejável que sejam dados incentivos às empresas de transporte ferroviário e ao gestor da infra-estrutura para minimizarem as perturbações e melhorarem o desempenho da rede ferroviária.\n\n(16) Os regimes de tarificação e de repartição de capacidade devem favorecer uma concorrência leal no fornecimento de serviços ferroviários.\n\n(17) É importante ter em conta os requisitos empresariais tanto dos candidatos como do gestor da infra-estrutura.\n\n(18) É importante valorizar ao máximo a flexibilidade de que os gestores de infra-estrutura dispõem no que se refere à repartição da capacidade de infra-estrutura, devendo este aspecto ser compatível com a satisfação dos requisitos razoáveis dos candidatos.\n\n(19) O processo de repartição de capacidade deve evitar que sejam impostas limitações indevidas às pretensões de outras empresas que detêm, ou pretendem deter, direitos de utilização da infra-estrutura para desenvolvimento das suas actividades.\n\n(20) É desejável deixar aos gestores das infra-estruturas uma certa margem de manobra, que permita uma utilização mais eficiente da rede de infra-estruturas.\n\n(21) Pode ser necessário, no âmbito dos regimes de repartição de capacidade e de tarificação, tomar em conta o facto de que os diferentes elementos da rede de infra-estruturas ferroviárias podem ter sido projectados para responder às necessidades de diferentes utilizadores principais.\n\n(22) Os requisitos exigidos aos serviços de transporte de passageiros podem muitas vezes entrar em conflito com os requisitos dos serviços de transporte de mercadorias. Os requisitos relativos aos serviços de transporte de passageiros podem resultar numa rede de construção e manutenção mais onerosas do que uma rede destinada apenas ao transporte de mercadorias. O crescente diferencial de velocidade entre o material circulante destinado ao transporte de mercadorias e o destinado ao transporte de passageiros pode exacerbar o conflito entre estes dois tipos de tráfego.\n\n(23) Os diferentes utilizadores e tipos de utilizadores terão frequentemente um impacto diferente na capacidade de infra-estrutura e as necessidades dos diferentes serviços devem ser devidamente contrabalançadas.\n\n(24) Os serviços efectuados ao abrigo de contratos com autoridades públicas podem requerer regras específicas que salvaguardem a sua capacidade de atrair os utilizadores.\n\n(25) Os regimes de tarificação e de repartição de capacidade devem ter em conta os efeitos da crescente saturação da capacidade de infra-estrutura e mesmo a escassez de capacidade.\n\n(26) A planificação dos diversos tipos de tráfego efectua-se segundo diferentes estruturas horárias, pelo que é conveniente garantir que os pedidos de capacidade de infra-estrutura apresentados depois de concluído o processo de definição dos horários possam ser satisfeitos.\n\n(27) A utilização das tecnologias da informação pode acelerar o processo de definição dos horários e melhorar a sua capacidade de resposta, facilitar a apresentação de pedidos de capacidade de infra-estrutura pelos candidatos e facilitar o estabelecimento dos traçados de marcha que utilizam a rede de vários gestores de infra-estrutura.\n\n(28) Para garantir a optimização dos resultados para as empresas de transporte ferroviário, é oportuno prever um controlo da utilização da capacidade de infra-estrutura quando seja necessário coordenar os pedidos de capacidade para satisfazer as necessidades dos utentes.\n\n(29) Face à posição monopolista dos gestores de infra-estrutura, é oportuno prever um controlo da capacidade de infra-estrutura disponível e métodos de a reforçar quando o processo de repartição de capacidade não possa satisfazer as necessidades dos utentes.\n\n(30) A falta de informação sobre os pedidos de outras empresas de transporte ferroviário e as limitações do sistema podem dificultar às empresas de transporte ferroviário a optimização dos seus pedidos de capacidade de infra-estrutura.\n\n(31) É importante assegurar uma melhor coordenação dos regimes de repartição de capacidade, de modo a tornar o caminho-de-ferro mais interessante para o tráfego que utiliza a rede de mais de um gestor de infra-estrutura, e nomeadamente para o tráfego internacional.\n\n(32) Importa minimizar as distorções de concorrência que podem surgir entre infra-estruturas ferroviárias ou entre modos de transporte em resultado de diferenças significativas nos princípios de tarificação.\n\n(33) É conveniente definir as componentes do serviço de infra-estrutura essenciais à prestação de um serviço por parte de um operador e que devem ser asseguradas em troca de taxas de acesso mínimas.\n\n(34) O investimento na infra-estrutura ferroviária é desejável e os regimes de tarificação da utilização da infra-estrutura devem proporcionar incentivos a que o gestor da infra-estrutura realize investimentos adequados, quando tais investimentos forem economicamente interessantes.\n\n(35) Um regime de tarificação transmite indicações económicas aos utentes. É importante que essas indicações às empresas de transporte ferroviário sejam consistentes e as incitem a tomar decisões racionais.\n\n(36) Para possibilitar a fixação de taxas de utilização de infra-estrutura a níveis justos e adequados, os gestores da infra-estrutura necessitam de inventariar e determinar o valor dos seus activos e de adquirir uma boa compreensão dos factores determinantes dos custos de exploração da infra-estrutura.\n\n(37) Convém garantir que os custos externos sejam tidos em conta nas decisões respeitantes aos transportes.\n\n(38) É importante garantir que as taxas aplicadas ao tráfego internacional permitam aos caminhos-de-ferro satisfazerem as necessidades do mercado. Por conseguinte, a taxa de utilização da infra-estrutura deverá corresponder aos custos directamente incorridos em resultado da exploração do serviço ferroviário.\n\n(39) O nível global de recuperação dos custos por meio da tarificação da utilização da infra-estrutura tem repercussões no nível necessário das subvenções do Estado. Os Estados-Membros podem requerer diferentes níveis de recuperação global dos custos, através da aplicação de sobretaxas ou de uma taxa de rendibilidade em função das condições do mercado, equilibrando simultaneamente a recuperação dos custos com a competitividade intermodal do transporte ferroviário de mercadorias. No entanto, é desejável que qualquer sistema de tarificação da utilização da infra-estrutura possibilite uma utilização da rede ferroviária pelo tráfego que possa, pelo menos, pagar o custo adicional que impõe.\n\n(40) A infra-estrutura ferroviária é um monopólio natural. Por conseguinte, é necessário incentivar os gestores da infra-estrutura a reduzirem os custos e a gerirem eficientemente a infra-estrutura.\n\n(41) Convém ter em conta o facto de, desde há vários anos, o nível dos investimentos na infra-estrutura e na tecnologia não ter permitido criar condições para um verdadeiro desenvolvimento do transporte ferroviário. Por conseguinte, é adequado proceder neste contexto a uma adaptação adequada, nomeadamente no âmbito da criação da rede transeuropeia de transporte ferroviário de mercadorias, utilizando *inter alia* os instrumentos comunitários disponíveis, sem prejuízo das prioridades já estabelecidas.\n\n(42) Os descontos proporcionados às empresas de transporte ferroviário devem estar relacionados com as economias de custos administrativos efectivamente realizadas. Os descontos podem também ser utilizados para promover uma utilização eficaz da infra-estrutura.\n\n(43) É desejável que as empresas de transporte ferroviário e o gestor da infra-estrutura disponham de incentivos que lhes permitam minimizar perturbações na rede.\n\n(44) A repartição de capacidade tem um custo para o gestor de infra-estrutura cuja recuperação deve ser assegurada.\n\n(45) São necessárias medidas que garantam que seja exigida a todas as empresas de transporte ferroviário detentoras de licença nos termos da legislação comunitária a detenção de um certificado de segurança adequado antes de exercerem a sua actividade no território de um Estado-Membro. A concessão de certificados de segurança deve respeitar a legislação comunitária.\n\n(46) A gestão eficaz e a utilização justa e não discriminatória da infra-estrutura ferroviária requerem a instituição de uma entidade reguladora que supervisione a aplicação das regras e actos comunitários em causa como uma instância de recurso, sem prejuízo da possibilidade de controlo jurisdicional.\n\n(47) É necessário tomar medidas especiais para atender à situação geopolítica e geográfica específica de determinados Estados-Membros, bem como à organização específica do sector ferroviário em diversos Estados-Membros, assegurando simultaneamente a integridade do mercado interno.\n\n(48) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#E0007)).\n\n(49) Segundo os princípios da subsidiariedade e da proporcionalidade previstos no artigo 5.º do Tratado, os objectivos da presente directiva, nomeadamente a coordenação de mecanismos nos Estados-Membros no que respeita à atribuição de capacidade de infra-estrutura ferroviária, à cobrança de taxas de utilização da referida infra-estrutura e à certificação da segurança, não podem ser suficientemente realizados pelos Estados-Membros, atendendo à necessidade de assegurar condições de acesso justas e não discriminatórias e de ter em conta as dimensões manifestamente internacionais presentes no funcionamento de elementos significativos das redes ferroviárias, podendo, pois, devido à necessidade de uma acção transnacional coordenada, ser melhor alcançados pela Comunidade. A presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(50) O Regulamento (CEE) n.º 2830/77 do Conselho, de 12 de Dezembro de 1977, relativo às medidas necessárias para tornar comparáveis as contabilidades e as contas anuais das empresas de caminho-de-ferro ([^8^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#E0008)), o Regulamento (CEE) n.º 2183/78 do Conselho, de 19 de Setembro de 1978, relativo à fixação de princípios uniformes para o cálculo dos custos das empresas de caminho-de-ferro ([^9^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#E0009)), a Decisão 82/529/CEE, de 19 de Julho de 1982, relativa à formação dos preços para os transportes ferroviários internacionais de mercadorias ([^10^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#E0010)), e a Decisão 83/418/CEE, de 25 de Julho de 1983, relativa à autonomia comercial dos caminhos-de-ferro na gestão dos seus tráfegos internacionais de passageiros e bagagens ([^11^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#E0011)), e a Directiva 95/19/CE tornaram-se obsoletos com a presente directiva e devem, por conseguinte, ser revogados,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "9a00f8a980eacfa3": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1. A presente directiva estabelece os princípios e procedimentos a seguir na fixação e aplicação das taxas de utilização da infra-estrutura ferroviária e na repartição de capacidade da infra-estrutura ferroviária.\n\nOs Estados-Membros devem assegurar que os regimes de tarificação e de repartição da capacidade da infra-estrutura ferroviária respeitem os princípios estabelecidos na presente directiva permitindo, assim, que o gestor da infra-estrutura comercialize a capacidade da infra-estrutura disponível e a utilize optimizada e eficazmente.\n\n2. A presente directiva é aplicável à utilização da infra-estrutura ferroviária para os serviços ferroviários nacionais e internacionais.\n\n3. Os Estados-Membros podem excluir do âmbito de aplicação da presente directiva:\n\na) As redes locais e regionais autónomas que efectuem serviços de passageiros em infra-estruturas ferroviárias;\n\nb) As redes reservadas exclusivamente à exploração de serviços urbanos ou suburbanos de transporte de passageiros;\n\nc) As redes regionais utilizadas para serviços regionais de transporte de mercadorias apenas por uma empresa ferroviária que não esteja abrangida pela Directiva 91/440/CEE, até que seja solicitada capacidade nessa rede por outro candidato;\n\nd) As infra-estruturas ferroviárias privadas cuja utilização está reservada ao proprietário da infra-estrutura para as suas próprias actividades de transporte de mercadorias;\n\ne) As operações de transporte sob a forma de serviços ferroviários efectuadas em trânsito através da Comunidade.\n\n4. Ficam excluídas do âmbito de aplicação da presente directiva as operações de transporte por vaivém de veículos rodoviários pelo túnel da Mancha."
+  },
+  "c7a013608521040d": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Repartição», a afectação da capacidade da infra-estrutura ferroviária por um gestor de infra-estrutura;\n\nb) «Candidato», uma empresa de transporte ferroviário detentora de licença e/ou um agrupamento internacional de empresas de transporte ferroviário e, nos Estados-Membros em que se preveja essa possibilidade, quaisquer outras pessoas singulares ou colectivas com um interesse de serviço público ou comercial na aquisição de capacidade de infra-estrutura, tais como autoridades públicas ao abrigo do Regulamento (CEE) n.º 1191/69 do Conselho ([^12^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#E0012)), bem como carregadores marítimos, transitários e operadores de transportes combinados, para exploração de um serviço ferroviário nos respectivos territórios;\n\nc) «Infra-estrutura congestionada», uma secção da infra-estrutura relativamente à qual a procura de capacidade de infra-estrutura não pode ser integralmente satisfeita durante determinados períodos, mesmo após a coordenação dos vários pedidos de reserva de capacidade;\n\nd) «Plano de reforço da capacidade», uma medida ou série de medidas, cuja aplicação obedece a um calendário e que são propostas para remediar as limitações de capacidade que levam a que uma secção da infra-estrutura seja declarada «infra-estrutura congestionada»;\n\ne) «Coordenação», o processo através do qual o organismo de repartição e os candidatos procurarão resolver situações de conflito entre pedidos de capacidade de infra-estrutura;\n\nf) «Acordo-quadro», um acordo geral juridicamente vinculativo, de direito público ou privado, que estabelece os direitos e obrigações de um candidato e do gestor da infra-estrutura ou do organismo de repartição em relação à capacidade de infra-estrutura a repartir e às taxas a aplicar num período superior ao período de vigência de um horário de serviço;\n\ng) «Capacidade de infra-estrutura», a possibilidade de programar traçados solicitados para um elemento da infra-estrutura durante um determinado período;\n\nh) «Gestor da infra-estrutura», qualquer entidade ou empresa responsável concretamente pela instalação e manutenção da infra-estrutura ferroviária, bem como eventualmente pela gestão dos sistemas de controlo e de segurança. As funções do gestor da infra-estrutura de uma rede, ou de parte de uma rede, podem ser repartidas por diferentes organismos ou empresas;\n\ni) «Rede», o conjunto da infra-estrutura ferroviária pertencente a um gestor de infra-estrutura e/ou por ele gerida;\n\nj) «Especificações da rede», a relação pormenorizada das regras gerais, prazos, procedimentos e critérios relativos aos regimes de tarificação e de repartição da capacidade. Incluirá também todas as outras informações necessárias para viabilizar a candidatura à capacidade de infra-estrutura;\n\nk) «Empresa de transporte ferroviário», qualquer empresa de estatuto privado ou público, detentora de uma licença nos termos da legislação comunitária aplicável, cuja actividade principal consista na prestação de serviços de transporte de mercadorias e/ou de passageiros por caminho-de-ferro, devendo a tracção ser obrigatoriamente assegurada por essa empresa, incluindo empresas que apenas prestem serviços de tracção;\n\nl) «Traçado», a capacidade de infra-estrutura necessária para a circulação de um comboio entre dois pontos em determinado momento;\n\nm) «Horário de serviço», o conjunto de dados que definem todos os movimentos programados de comboios e demais material circulante numa determinada infra-estrutura durante o seu período de vigência;\n\nn) «Trânsito», a travessia do território comunitário sem embarque nem desembarque de mercadorias e/ou sem embarque nem desembarque de passageiros nesse território."
+  },
+  "1028dae3fe8cec78": {
+   "fragment_id": "Artigo 13.º — Direitos de capacidade",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Direitos de capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direitos de capacidade\n\n1. A capacidade de infra-estrutura disponível é repartida pelo gestor da infra-estrutura e, uma vez atribuída a um candidato, não pode ser por este transferida para outra empresa ou serviço.\n\nA utilização da capacidade por uma empresa de transporte ferroviário quando esta exerça a actividade de um candidato que não seja uma empresa de transporte ferroviário não é considerada uma transferência.\n\nNão são transmitidas transições de capacidade de infra-estrutura, sob pena de exclusão em qualquer nova atribuição de capacidades.\n\n2. O direito de utilização de uma capacidade de infra-estrutura específica na forma de um traçado pode ser concedido aos candidatos por um período máximo correspondente ao período de vigência de um horário de serviço.\n\nO gestor da infra-estrutura e um candidato podem celebrar um acordo-quadro, conforme previsto no artigo 17.º, para a utilização da capacidade na infra-estrutura ferroviária em causa, de duração superior ao período de vigência de um horário de serviço.\n\n3. Os direitos e obrigações, decorrentes para o gestor da infra-estrutura e os candidatos, em matéria de repartição da capacidade, são definidos em contratos ou na legislação.\n\n4. Sempre que um candidato tenha a intenção de solicitar capacidades de infra-estrutura com vista à exploração de um serviço internacional de passageiros na acepção do artigo 3.º da Directiva 91/440/CEE, deve informar os gestores da infra-estrutura e as entidades reguladoras competentes. A fim de poderem avaliar se o objectivo de um serviço internacional é o transporte de passageiros entre estações situadas em Estados-Membros diferentes, bem como o eventual impacto económico nos contratos de serviço público existentes, as entidades reguladoras devem assegurar a informação de todas as autoridades competentes que tenham adjudicado um serviço de transporte ferroviário de passageiros definido num contrato de serviço público, de todas as outras autoridades competentes interessadas que tenham o direito de limitar o acesso ao abrigo do n.º 3-B do artigo 10.º da Directiva 91/440/CEE e de todas as empresas ferroviárias que executam o contrato de serviço público no trajecto desse serviço de transporte internacional de passageiros."
+  },
+  "dff50a3f54152973": {
+   "fragment_id": "Artigo 17.º — Acordos-quadro",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Acordos-quadro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Acordos-quadro\n\n1. Sem prejuízo do disposto nos artigos 81.º, 82.º e 86.º do Tratado, pode ser celebrado um acordo-quadro com um candidato. Esse acordo-quadro especificará as características da capacidade da infra-estrutura solicitada pelo candidato e que lhe é fornecida para um período superior ao período de vigência de um horário de serviço. O acordo-quadro não deve especificar detalhadamente um traçado, mas deve ser elaborado por forma a responder às necessidades comerciais legítimas do candidato. Os Estados-Membros podem requerer a aprovação prévia desses acordos-quadro à entidade reguladora a que se refere o artigo 30.º da presente directiva.\n\n2. O acordo-quadro não deve inviabilizar a utilização da infra-estrutura em causa por outros candidatos ou serviços.\n\n3. O acordo-quadro deve poder ser alterado ou limitado, por forma a permitir uma melhor utilização da infra-estrutura ferroviária.\n\n4. O acordo-quadro pode incluir sanções em caso de alteração ou denúncia do acordo.\n\n5. Os acordos-quadro devem, em princípio, ter uma duração de cinco anos, renovável por períodos iguais à duração inicial. Em casos específicos, o gestor da infra-estrutura pode aceitar um período de duração inferior ou superior. Qualquer período superior a cinco anos deve ser justificado pela existência de contratos comerciais ou investimentos ou riscos específicos.\n\n5-A. No caso de serviços que utilizem uma infra-estrutura especializada referida no artigo 24.º e que requeiram investimentos substanciais de longo prazo, devidamente fundamentados pelo candidato, podem ser celebrados acordos-quadro com uma duração de quinze anos. Só em casos excepcionais é possível um período de duração superior a quinze anos, nomeadamente no caso de investimentos substanciais de longo prazo, e especialmente quando estes sejam objecto de compromissos contratuais que incluam um plano de amortização plurianual.\n\nNeste caso, o candidato pode solicitar uma definição pormenorizada das características das capacidades — nomeadamente a frequência, o volume e a qualidade dos traçados — que lhe serão fornecidas durante o período de duração do acordo-quadro. O gestor da infra-estrutura pode reduzir a capacidade reservada que, durante um período mínimo de um mês, tenha sido menos utilizada do que a quota-limiar prevista no artigo 27.º\n\nA partir de 1 de Janeiro de 2010, pode ser elaborado um acordo-quadro inicial com uma duração de cinco anos, renovável uma vez, com base nas características da capacidade utilizada pelos candidatos que exploravam os serviços antes de 1 de Janeiro de 2010, a fim de ter em conta investimentos especializados ou a existência de contratos comerciais. A entidade reguladora a que se refere o artigo 30.º é responsável por autorizar a entrada em vigor de tal acordo.\n\n6. No respeito pelo segredo comercial, qualquer parte interessada pode tomar conhecimento das linhas gerais dos acordos-quadro."
+  },
+  "f97835e51badca61": {
+   "fragment_id": "Artigo 30.º — Entidade reguladora",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Entidade reguladora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entidade reguladora\n\n1. Sem prejuízo do disposto no n.º 6 do artigo 21.º, os Estados-Membros devem instituir uma entidade reguladora. Esta entidade, que pode ser o Ministério dos Transportes ou outra instância, será independente, a nível de organização, de financiamento das decisões e a nível jurídico e decisório, de qualquer gestor da infra-estrutura, organismo de tarificação, organismo de repartição ou candidato. [**►M3**](http://publications.europa.eu/resource/celex/32007L0058) Será também funcionalmente independente de qualquer autoridade competente envolvida na adjudicação de um contrato de serviço público.**◄** A referida entidade deve exercer as suas funções segundo os princípios enunciados no presente artigo, nos termos do qual as funções de recurso e de regulamentação podem ser atribuídas a instâncias distintas.\n\n2. Qualquer candidato tem o direito de recorrer para esta entidade reguladora, se considerar ter sido tratado de forma injusta ou discriminatória ou de algum outro modo lesado, em particular contra decisões tomadas pelo gestor da infra-estrutura ou, sendo o caso, pela empresa de caminho-de-ferro no que se refere:\n\na) Às especificações da rede;\n\nb) Aos critérios incluídos nessas especificações;\n\nc) Ao processo de repartição das capacidades e seus resultados;\n\nd) Ao regime de tarificação;\n\ne) Ao nível ou estrutura das taxas de utilização da infra-estrutura que as empresas pagam ou possam vir a pagar;\n\nf) As disposições relativas ao acesso nos termos do artigo 10.º da Directiva 91/440/CEE do Conselho, de 29 de Julho de 1991, relativa ao desenvolvimento dos caminhos-de-ferro comunitários ([^13^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#E0013)), alterada pela Directiva 2004/51/CE do Parlamento Europeu e do Conselho, de 30 de Abril de 2004, que altera a Directiva 91/440/CEE do Conselho relativa ao desenvolvimento dos caminhes-de-ferro comunitários ([^14^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#E0014)).\n\n3. A entidade reguladora deve garantir que as taxas fixadas pelo gestor da infra-estrutura cumprem o disposto no capítulo II e não são discriminatórias. A negociação do nível das taxas de utilização da infra-estrutura entre os candidatos e o gestor da infra-estrutura, só é permitida se for efectuada sob a supervisão da entidade reguladora. A entidade reguladora deve intervir se as negociações puderem ser contrárias ao disposto na presente directiva.\n\n4. A entidade reguladora está habilitada a solicitar as informações que considere relevantes ao gestor da infra-estrutura, aos candidatos ou a terceiros interessados, no Estado-Membro em causa, informações essas que deverão ser fornecidas rapidamente.\n\n5. A entidade reguladora será chamada a decidir de eventuais queixas e a diligenciar no sentido de resolver a situação num prazo máximo de dois meses a contar da data de recepção de toda a informação.\n\nSem prejuízo do disposto no n.º 6, as decisões da entidade reguladora são vinculativas para todas as partes a que dizem respeito.\n\nEm caso de recurso por recusa de concessão de capacidade de infra-estrutura ou contra as condições de uma oferta de capacidade, a entidade reguladora deve confirmar a decisão do gestor da infra-estrutura ou determinar a modificação da decisão de acordo com as directrizes por si traçadas.\n\n6. Os Estados-Membros devem adoptar as medidas necessárias para garantir que as decisões tomadas pela entidade reguladora sejam sujeitas a controlo jurisdicional."
+  },
+  "030306a3799b3fda": {
+   "fragment_id": "Artigo 34.º — Medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Medidas de execução\n\n1. Os Estados-Membros podem submeter à apreciação da Comissão qualquer questão relativa à execução da presente directiva. As decisões adequadas serão aprovadas pelo procedimento consultivo a que se refere o n.º 2 do artigo 35.º\n\n2. A pedido de um Estado-Membro ou por sua própria iniciativa, a Comissão analisará, em casos específicos, a aplicação e a execução das disposições relativas à tarifação e à repartição de capacidade e, no prazo de dois meses a contar da recepção desse pedido, decidirá, nos termos do n.º 2 do artigo 35.º, se a medida em causa pode continuar a ser aplicada. A Comissão comunicará a sua decisão ao Parlamento Europeu, ao Conselho e aos Estados-Membros.\n\nSem prejuízo do artigo 226.º do Tratado, qualquer Estado-Membro pode submeter a decisão da Comissão à apreciação do Conselho no prazo de um mês. O Conselho, deliberando por maioria qualificada, pode, em circunstâncias excepcionais, tomar uma decisão diferente no prazo de um mês.\n\n3. As medidas que têm por objecto alterar elementos não essenciais da presente directiva relativas à adaptação dos seus anexos são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 35.º."
+  },
+  "3fdfd51d308bcda3": {
+   "fragment_id": "Artigo 35.º — Comitologia",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Comitologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Comitologia\n\n1. A Comissão é assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 3.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\n4. O Comité aprovará o seu regulamento interno."
+  },
+  "599c9a009c140705": {
+   "fragment_id": "Artigo 38.º — Execução",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Execução\n\nOs Estados-Membros devem aprovar as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 15 de Março de 2003 e informar imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência quando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\nAs obrigações de transposição e aplicação da presente directiva não se aplicam a Chipre e a Malta enquanto estes países não dispuserem de um sistema ferroviário no seu território."
+  },
+  "d04a0247a7d3b5d5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#src.E0001)) JO C 321 de 20.10.1998, p. 10 e JO C 116 E de 26.4.2000, p. 40.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#src.E0002)) JO C 209 de 22.7.1999, p. 22.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#src.E0003)) JO C 57 de 29.2.2000, p. 40.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 10 de Março de 1999 (JO C 175 de 21.6.1999, p. 120), confirmado em 27 de Outubro de 1999 (JO C 154 de 5.6.2000, p. 28), posição comum do Conselho de 28 de Março de 2000 (JO C 178 de 27.6.2000, p. 28) e decisão do Parlamento Europeu de 15 de Julho de 2000 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 1 de Fevereiro de 2001 e decisão do Conselho de 20 de Dezembro de 2000.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#src.E0005)) JO L 237 de 24.8.1991, p. 25. Directiva com a redacção que lhe foi dada pela Directiva 2001/12/CE do Parlamento Europeu e do Conselho (ver página 1 do presente Jornal Oficial).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#src.E0006)) JO L 143 de 27.6.1995, p. 75.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23 (rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#src.E0008)) JO L 334 de 24.12.1977, p. 13. Regulamento com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#src.E0009)) JO L 258 de 21.9.1978, p. 1. Decisão com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#src.E0010)) JO L 234 de 9.8.1982, p. 5. Decisão com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#src.E0011)) JO L 237 de 26.8.1983, p. 32. Decisão com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#src.E0012)) Regulamento (CEE) n.º 1191/69 do Conselho, de 26 de Junho de 1969, relativo à acção dos Estados--Membros em matéria de obrigações inerentes à noção de serviço público no domínio dos transportes ferroviários, rodoviários e por via navegável (JO L 156 de 28.6.1969, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1893/91 (JO L 169 de 29.6.1991, p. 1).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#src.E0013)) JO L 237 de 24.8.1991, p. 25.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/7f1821da-b206-4215-8569-1fe74547faec.0019.03/DOC_1#src.E0014)) JO L 164 de 30.4.2004, p. 164."
+  },
+  "4abcbe1a6bb8581f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2001L0014 — PT — 17.06.2015 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32001L0014) [DIRECTIVA 2001/14/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32001L0014) [de 26 de Fevereiro de 2001](http://publications.europa.eu/resource/celex/32001L0014) [relativa à repartição de capacidade da infra-estrutura ferroviária e à aplicação de taxas de utilização da infra-estrutura ferroviária](http://publications.europa.eu/resource/celex/32001L0014) (JO L 075, 15.3.2001, p.29)\n\n**revogado por:**"
+  }
+ }
+}

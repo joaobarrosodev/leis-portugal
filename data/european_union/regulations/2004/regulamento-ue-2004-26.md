@@ -33,6 +33,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-02-01'
+version_history:
+  file: regulamento-ue-2004-26.versoes.json
+  count: 4
+  source_lastmod: '2018-02-01'
+  versions:
+  - date: '2004-01-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-12-14'
+    amending: eu:celex:32006R1799:por
+    amending_title: REGULAMENTO (CE) N. o 1799/2006 DA COMISSÃO de 6 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 13.º — Entrada em vigor
+    - Adita Artigo 10.º — Número de identificação «CFR»
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Notas
+    - Suprime Artigo 10.º — Número de identificação "CFR"
+    - Suprime ANEXO I — DEFINIÇÃO DOS DADOS E DESCRIÇÃO DE UM REGISTO
+    - Suprime ANEXO II — DADOS A COMUNICAR EM FUNÇÃO DO TIPO DE ACONTECIMENTO DEFINIDO NO QUADRO 1 DO ANEXO I
+  - date: '2014-07-19'
+    amending: eu:celex:32014R0741:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 741/2014 DA COMISSÃO de 8 de julho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2018-02-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objectivo
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Definições
+    - Suprime Artigo 4.º — Recolha de dados
+    - Suprime Artigo 5.º — Registo no ficheiro nacional
+    - Suprime Artigo 6.º — Transmissão periódica
+    - Suprime Artigo 7.º — Registo no ficheiro comunitário
+    - Suprime Artigo 8.º — Transmissão intercalar
+    - Suprime Artigo 9.º — Instrumentos de comunicação entre a Comissão e os Estados-Membros
+    - Suprime Artigo 10.º — Número de identificação «CFR»
+    - Suprime Artigo 11.º — Acesso
+    - Suprime Artigo 12.º — Revogação
+    - Suprime Artigo 13.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime ANEXO II
+    - Suprime Notas
 identifiers:
   celex: 32004R0026
   eli: http://data.europa.eu/eli/reg/2004/26/oj
@@ -47,7 +100,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1026f640-a08c-4fa2-8e13-18b9f4bb372c.0010
   content_url: http://publications.europa.eu/resource/cellar/7feec449-524c-4982-8d47-5c66532cd2a7.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0026-20180201
-  retrieved_at: '2026-10-22T02:51:58Z'
+  retrieved_at: '2026-10-22T14:57:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T19:30:37.207+01:00'
 integrity:
@@ -56,9 +109,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:58Z'
-  notes: Texto consolidado 02004R0026-20180201.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:31Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2004-26.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -132,16 +185,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:58Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:57:31Z'
+  warnings: []
   errors: []
 ---
 

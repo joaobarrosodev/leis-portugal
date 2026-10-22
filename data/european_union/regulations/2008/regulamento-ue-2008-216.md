@@ -37,6 +37,187 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-09-11'
+version_history:
+  file: regulamento-ue-2008-216.versoes.json
+  count: 6
+  source_lastmod: '2018-09-11'
+  versions:
+  - date: '2008-03-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-20'
+    amending: eu:celex:32009R0690:por
+    amending_title: REGULAMENTO (CE) N. o 690/2009 DA COMISSÃO de 30 de Julho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Aeronavegabilidade
+    - Altera Artigo 6.º — Requisitos essenciais de protecção ambiental
+    - Altera Artigo 8.º — Operações aéreas
+    - Altera Artigo 9.º — Aeronaves utilizadas por operadores de países terceiros na Comunidade ou com partida ou destino
+      na Comunidade
+    - Altera Artigo 12.º — Aceitação de certificação emitida por países terceiros
+    - Altera Artigo 14.º — Flexibilidade
+    - Altera Artigo 20.º — Certificação de aeronavegabilidade e certificação ambiental
+    - Altera Artigo 21.º — Certificação dos pilotos
+    - Altera Artigo 58.º — Transparência e comunicação
+    - Altera Artigo 60.º — Execução e controlo do orçamento
+    - Altera Artigo 61.º — Luta contra a fraude
+    - Altera Artigo 63.º — Disposições financeiras
+    - Altera Artigo 70.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Requisitos essenciais de aeronavegabilidade previstos no artigo 5.º
+    - 'Adita 1. Integridade do produto: Há que assegurar a integridade do produto em todas as condições de voo previstas ao
+      longo da vida operacional da aeronave. A conformidade com todos os requisitos deve ser demonstrada através de avaliações
+      ou análises, apoiadas, se necessário, por ensaios.'
+    - Adita 2. Aspectos de aeronavegabilidade do funcionamento de um produto
+    - Adita 3. Organizações (incluindo pessoas singulares que realizem actividades de concepção, fabrico ou manutenção)
+    - Adita ANEXO II
+    - Adita Aeronaves a que se refere o n.º 4 do artigo 4.º
+    - Adita ANEXO III
+    - Adita Requisitos essenciais para a concessão de licenças de piloto a que se refere o artigo 7.º
+    - Adita 1. Formação
+    - Adita 1.a. Generalidades
+    - Adita 1.b. Conhecimentos teóricos
+    - Adita 1.c. Demonstração e manutenção dos conhecimentos teóricos
+    - Adita 1.d. Competências práticas
+    - Adita 1.e. Demonstração e manutenção das competências práticas
+    - Adita 1.f. Proficiência linguística
+    - Adita 1.g. Dispositivos de treino de simulação de voo
+    - Adita 1.h. Programa de formação
+    - Adita 1.i. Instrutores
+    - Adita 1.j. Examinadores
+    - Adita 2. Requisitos de experiência
+    - Adita 3. Organizações que ministram formação
+    - Adita 3.a. Requisitos a observar pelas organizações que ministram formação
+    - Adita 4. Aptidão médica
+  - date: '2009-12-14'
+    amending: eu:celex:32009R1108:por
+    amending_title: REGULAMENTO (CE) N. o 1108/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Outubro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Princípios básicos e aplicabilidade
+    - Altera Artigo 5.º — Aeronavegabilidade
+    - Altera Artigo 7.º — Pilotos
+    - Altera Artigo 8.º — Operações aéreas
+    - Altera Artigo 9.º — Aeronaves utilizadas por operadores de países terceiros na Comunidade ou com partida ou destino
+      na Comunidade
+    - Altera Artigo 10.º — Supervisão e repressão
+    - Altera Artigo 11.º — Reconhecimento de certificados
+    - Altera Artigo 13.º — Entidades competentes
+    - Altera Artigo 18.º — Diligências da Agência
+    - Altera Artigo 19.º — Pareceres, especificações de certificação e documentos de orientação
+    - Altera Artigo 33.º — Competência do Conselho de Administração
+    - Altera Artigo 44.º — Decisões passíveis de recurso
+    - Altera Artigo 50.º — Recurso para o Tribunal de Justiça
+    - Altera Artigo 52.º — Processo para a elaboração de pareceres, de especificações de certificação e de documentos de orientação
+    - Altera Artigo 55.º — Investigação em empresas
+    - Altera Artigo 58.º — Transparência e comunicação
+    - Altera Artigo 60.º — Execução e controlo do orçamento
+    - Altera Artigo 61.º — Luta contra a fraude
+    - Altera Artigo 63.º — Disposições financeiras
+    - Altera Notas
+    - Adita Artigo 8.ºA — Aeródromos
+    - Adita Artigo 8.ºB — ATM/ANS
+    - Adita Artigo 8.ºC — Controladores de tráfego aéreo
+    - Adita Artigo 22.ºA — ATM/ANS
+    - Adita Artigo 22.ºB — Certificação dos controladores de tráfego aéreo
+    - Adita Artigo 65.ºA — Alterações
+    - Adita Critérios aplicáveis às entidades competentes referidas no artigo 13.º (entidade competente ou entidade)
+    - Adita ANEXO V-a
+    - Adita REQUISITOS ESSENCIAIS APLICÁVEIS AOS AERÓDROMOS
+    - Adita A — Características físicas, infra-estruturas e equipamentos
+    - Adita 1. Área de movimento
+    - Adita 2. Separação de obstáculos
+    - Adita 3. Ajudas visuais e não visuais e equipamentos do aeródromo
+    - Adita 4. Dados do aeródromo
+    - Adita B — Operações e gestão
+    - 'Adita 1. O operador de aeródromo é responsável pela sua exploração. As responsabilidades do operador de aeródromo são
+      as seguintes:'
+    - Adita 2. Sistemas de gestão
+  - date: '2013-01-29'
+    amending: eu:celex:32013R0006:por
+    amending_title: REGULAMENTO (UE) N. o 6/2013 DA COMISSÃO de 8 de janeiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Princípios básicos e aplicabilidade
+    - Altera Artigo 6.º — Requisitos essenciais de protecção ambiental
+    - Altera Artigo 8.º — Operações aéreas
+    - Altera Artigo 8.ºB — ATM/ANS
+    - Altera Artigo 8.ºC — Controladores de tráfego aéreo
+    - Altera Artigo 11.º — Reconhecimento de certificados
+    - Altera Artigo 58.º — Transparência e comunicação
+    - Altera Artigo 60.º — Execução e controlo do orçamento
+    - Altera Artigo 61.º — Luta contra a fraude
+    - Altera Artigo 63.º — Disposições financeiras
+    - Altera Notas
+  - date: '2016-01-26'
+    amending: eu:celex:32016R0004:por
+    amending_title: REGULAMENTO (UE) 2016/4 DA COMISSÃO de 5 de janeiro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Princípios básicos e aplicabilidade
+    - Altera Artigo 6.º — Requisitos essenciais de protecção ambiental
+    - Altera Artigo 8.º — Operações aéreas
+    - Altera Artigo 8.ºB — ATM/ANS
+    - Altera Artigo 8.ºC — Controladores de tráfego aéreo
+    - Altera Artigo 11.º — Reconhecimento de certificados
+    - Altera Artigo 58.º — Transparência e comunicação
+    - Altera Artigo 60.º — Execução e controlo do orçamento
+    - Altera Artigo 61.º — Luta contra a fraude
+    - Altera Artigo 63.º — Disposições financeiras
+    - Altera Notas
+  - date: '2018-09-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime PRINCÍPIOS
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Objectivos
+    - Suprime Artigo 3.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime REQUISITOS SUBSTANCIAIS
+    - Suprime Artigo 4.º — Princípios básicos e aplicabilidade
+    - Suprime Artigo 5.º — Aeronavegabilidade
+    - Suprime Artigo 6.º — Requisitos essenciais de protecção ambiental
+    - Suprime Artigo 7.º — Pilotos
+    - Suprime Artigo 8.º — Operações aéreas
+    - Suprime Artigo 8.ºA — Aeródromos
+    - Suprime Artigo 8.ºB — ATM/ANS
+    - Suprime Artigo 8.ºC — Controladores de tráfego aéreo
+    - Suprime Artigo 9.º — Aeronaves utilizadas por operadores de países terceiros na Comunidade ou com partida ou destino
+      na Comunidade
+    - Suprime Artigo 10.º — Supervisão e repressão
+    - Suprime Artigo 11.º — Reconhecimento de certificados
+    - Suprime Artigo 12.º — Aceitação de certificação emitida por países terceiros
+    - Suprime Artigo 13.º — Entidades competentes
+    - Suprime Artigo 14.º — Flexibilidade
+    - Suprime Artigo 15.º — Rede de informação
+    - Suprime Artigo 16.º — Protecção das fontes de informação
+    - Suprime CAPÍTULO III
+    - Suprime AGÊNCIA EUROPEIA PARA A SEGURANÇA DA AVIAÇÃO
+    - Suprime SECÇÃO I
+    - Suprime Atribuições
+    - Suprime Artigo 17.º — Criação e atribuições da Agência
+    - Suprime Artigo 18.º — Diligências da Agência
+    - Suprime Artigo 19.º — Pareceres, especificações de certificação e documentos de orientação
+    - Suprime Artigo 20.º — Certificação de aeronavegabilidade e certificação ambiental
+    - Suprime Artigo 21.º — Certificação dos pilotos
+    - Suprime Artigo 22.º — Certificação de operações aéreas
+    - Suprime Artigo 22.ºA — ATM/ANS
+    - Suprime Artigo 22.ºB — Certificação dos controladores de tráfego aéreo
+    - Suprime Artigo 23.º — Operadores de países terceiros
+    - Suprime Artigo 24.º — Controlo de aplicação das regras
+    - Suprime Artigo 25.º — Coimas e sanções pecuniárias compulsórias de carácter periódico
+    - Suprime Artigo 26.º — Investigação
 identifiers:
   celex: 32008R0216
   eli: http://data.europa.eu/eli/reg/2008/216/oj
@@ -51,7 +232,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/aeee2e82-bcac-40d4-8637-340ccc78241c.0019
   content_url: http://publications.europa.eu/resource/cellar/a2935c95-43aa-49b5-9e28-acc2063aa0ac.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0216-20180911
-  retrieved_at: '2026-10-22T02:38:19Z'
+  retrieved_at: '2026-10-22T15:14:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T14:33:11.024+01:00'
 integrity:
@@ -60,9 +241,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:19Z'
-  notes: Texto consolidado 02008R0216-20180911.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:14:21Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2008-216.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -252,16 +433,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:19Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:14:21Z'
+  warnings: []
   errors: []
 ---
 

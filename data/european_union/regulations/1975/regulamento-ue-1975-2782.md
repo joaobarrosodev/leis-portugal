@@ -34,6 +34,91 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-07-01'
+version_history:
+  file: regulamento-ue-1975-2782.versoes.json
+  count: 3
+  source_lastmod: '2008-07-01'
+  versions:
+  - date: '1975-11-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:31980R3485:por
+    amending_title: M1; M2; Regulamento (CEE) n. o 3494/86 do Conselho de 13 de Novembro de 1986; Regulamento (CEE) n. o 3987/87
+      da Comissão de 22 de Dezembro de 1987; Regulamento (CEE) n. o 1057/91 da Comissão de 26 de Abril de 1991; Regulamento
+      (CE) n. o 2916/95 da Comissão de 18 de Dezembro de 1995; REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro
+      de 2006; Acto de Adesão da Áustria, da Finlândia e da Suécia; Acto relativo às condições de adesão da República Checa,
+      da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da
+      Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações
+      dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1º
+    - Adita Artigo 2º
+    - Adita Artigo 3º
+    - Adita Artigo 4º
+    - Adita Artigo 5º
+    - Adita Artigo 6º
+    - Adita Artigo 7º
+    - Adita Artigo 8º
+    - Adita Artigo 9º
+    - Adita Artigo 10º
+    - Adita Artigo 11º
+    - Adita Artigo 12º
+    - Adita Artigo 13º
+    - Adita Artigo 14º
+    - Adita Artigo 15º
+    - Adita Artigo 16º
+    - Adita Artigo 17º
+    - Adita Artigo 18º
+    - Adita Artigo 19º
+    - Adita Artigo 20º
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+    - Suprime Artigo 15o
+    - Suprime Artigo 16o
+    - Suprime Artigo 17o
+    - Suprime Artigo 18o
+  - date: '2008-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime Artigo 17º
+    - Suprime Artigo 18º
+    - Suprime Artigo 19º
+    - Suprime Artigo 20º
+    - Suprime Notas
 identifiers:
   celex: 31975R2782
   eli: http://data.europa.eu/eli/reg/1975/2782/oj
@@ -48,7 +133,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8cab8220-1552-400f-80a7-5b80c146de9a.0011
   content_url: http://publications.europa.eu/resource/cellar/444e3c5d-b5ed-4f3b-9bf9-d071222d5464.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01975R2782-20080701
-  retrieved_at: '2026-10-22T02:49:43Z'
+  retrieved_at: '2026-10-22T14:31:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T21:20:02.141+01:00'
 integrity:
@@ -57,9 +142,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:43Z'
-  notes: Texto consolidado 01975R2782-20080701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:31:26Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1975-2782.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -165,16 +250,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:43Z'
+  checked_at: '2026-10-22T14:31:26Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01975R2782-19960101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01975R2782-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

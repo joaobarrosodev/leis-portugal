@@ -34,6 +34,31 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-01'
+version_history:
+  file: diretiva-ue-2002-4.versoes.json
+  count: 2
+  source_lastmod: '2007-01-01'
+  versions:
+  - date: '2002-01-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0083:por
+    amending_title: DIRECTIVA 2006/83/CE DA COMISSÃO de 23 de Outubro de 2006; Acto relativo às condições de adesão da República
+      Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República
+      da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações
+      dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera ANEXO
+    - Adita 1. DADOS EXIGIDOS PARA O REGISTO
+    - Adita 2. NÚMERO PRÓPRIO
+    - Adita 2.1. Código para o modo de criação
+    - Adita 2.2. Código do Estado-Membro de registo
+    - Adita 2.3. Identificação do estabelecimento
+    - Adita Notas
 identifiers:
   celex: 32002L0004
   eli: http://data.europa.eu/eli/dir/2002/4/oj
@@ -48,7 +73,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f95e7046-f46e-4e46-861c-ce5f41a20258.0010
   content_url: http://publications.europa.eu/resource/cellar/8023156a-9e11-4f2b-b57d-fb3180fc2a48.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0004-20070101
-  retrieved_at: '2026-10-22T02:51:31Z'
+  retrieved_at: '2026-10-22T14:51:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T16:50:03.165+01:00'
 integrity:
@@ -57,9 +82,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:31Z'
-  notes: Texto consolidado 02002L0004-20070101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:14Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2002-4.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -117,33 +142,20 @@ relationships:
   date: '1002-02-02'
 article_structure:
   article_count: 4
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:31Z'
-  warnings: []
+  checked_at: '2026-10-22T14:51:14Z'
+  warnings:
+  - '02002L0004-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 2002/4/CE da Comissão, de 30 de Janeiro de 2002
-
-> 2002L0004 — PT — 01.01.2007 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006L0083) — [DIRECTIVA 2006/83/CE DA COMISSÃO de 23 de Outubro de 2006](http://publications.europa.eu/resource/celex/32006L0083) — L 362 — 97 — 20.12.2006
-
-**Alterado por:**
-
-- [A1](http://publications.europa.eu/resource/celex/12003T) — [Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T) — L 236 — 33 — 23.9.2003
-
-## DIRECTIVA 2002/4/CE DA COMISSÃO
 
 de 30 de Janeiro de 2002
 

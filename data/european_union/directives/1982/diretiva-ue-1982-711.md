@@ -35,6 +35,32 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '1997-09-01'
+version_history:
+  file: diretiva-ue-1982-711.versoes.json
+  count: 2
+  source_lastmod: '1997-09-01'
+  versions:
+  - date: '1982-10-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Adita preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita ANEXO — REGRAS BÁSICAS DOS ENSAIOS DE MIGRAÇÃO GLOBAL E ESPECÍFICA
+    - Adita CAPÍTULO I — Simuladores de géneros alimentícios
+    - Adita CAPÍTULO II — Condições de realização dos ensaios de migração (tempos é temperaturas)
+    - Adita CAPÍTULO III — Ensaios gordos substitutivos para migrações globais e específicas
+    - Adita CAPÍTULO IV — Ensaios gordos alternativos de migração global e específica
 identifiers:
   celex: 31982L0711
   eli: http://data.europa.eu/eli/dir/1982/711/oj
@@ -49,7 +75,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b9fe6cc7-e2f9-4038-b3d9-96db8d423710.0011
   content_url: http://publications.europa.eu/resource/cellar/489cf998-55b3-47b8-a88e-af8c2fe0a021.0022.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01982L0711-19970901
-  retrieved_at: '2026-10-22T02:41:01Z'
+  retrieved_at: '2026-10-22T14:33:39Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T22:25:02.108+01:00'
 integrity:
@@ -58,9 +84,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:01Z'
-  notes: Texto consolidado 01982L0711-19970901.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:33:39Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1982-711.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -128,15 +154,16 @@ relationships:
 article_structure:
   article_count: 7
   section_count: 5
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:01Z'
+  checked_at: '2026-10-22T14:33:39Z'
   warnings:
-  - Não foi detetado o título principal no XHTML.
+  - '01982L0711-19821104: versão indisponível (Sem expressão na língua por para CELEX 01982L0711-19821104.)'
+  - '01982L0711-19930322: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

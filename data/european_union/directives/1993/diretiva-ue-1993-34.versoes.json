@@ -1,0 +1,362 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0034:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0034-20100601",
+ "dre_path": null,
+ "source_lastmod": "2010-06-01",
+ "versions": [
+  {
+   "date": "1993-07-29",
+   "future": false,
+   "celex": "31993L0034",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "87508707d831a68c",
+    "3f4630f3ad1cd51f",
+    "220812e157592b8d",
+    "8d00a6f588d5589c",
+    "d806837e9f218496",
+    "8b27c8c613920a1e",
+    "5bd59a41c726b3bb"
+   ]
+  },
+  {
+   "date": "2006-03-28",
+   "future": false,
+   "celex": "01993L0034-20060328",
+   "acts": [
+    {
+     "id": "eu:celex:31999L0025:por",
+     "title": "DIRECTIVA 1999/25/CE DA COMISSÃO Texto relevante para efeitos do EEE de 9 de Abril de 1999",
+     "published": null,
+     "celex": "31999L0025"
+    },
+    {
+     "id": "eu:celex:32006L0027:por",
+     "title": "DIRECTIVA 2006/27/CE DA COMISSÃO Texto relevante para efeitos do EEE de 3 de Março de 2006",
+     "published": null,
+     "celex": "32006L0027"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita ANEXO",
+    "Adita PRESCRIÇÕES RELATIVAS ÀS INSCRIÇÕES REGULAMENTARES DOS VEÍCULOS A MOTOR DE DUAS OU TRÊS RODAS",
+    "Adita 1. GENERALIDADES",
+    "Adita 2. CHAPA DO FABRICANTE",
+    "Adita 3. NÚMERO DE IDENTIFICAÇÃO DO VEÍCULO",
+    "Adita 4. CARACTERES",
+    "Adita Apêndice 1",
+    "Adita Exemplo de chapa do fabricante",
+    "Adita Apêndice 2",
+    "Adita Ficha de informações no que diz às inscrições regulamentares de um modelo de veículo a motor de duas ou três rodas",
+    "Adita (a juntar ao pedido de homologação, no caso de ser apresentado independentemente do pedido de recepção do veículo)",
+    "Adita Apêndice 3",
+    "Adita Certificado de homologação no que diz respeito às inscrições regulamentares de um modelo de veículo a motor de duas ou três rodas",
+    "Adita MODELO",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime ANEXO — PRESCRIÇÕES RELATIVAS ÀS INSCRIÇÕES REGULAMENTARES DOS VEÍCULOS A MOTOR DE DUAS OU TRÊS RODAS"
+   ],
+   "fragments": [
+    "e942acf9735a1b56",
+    "84484b2ed3f18834",
+    "718e67f6fb92afa7",
+    "22f635c6a9049f20",
+    "cf0568b7c392d03b",
+    "e1f5aa54600785a0",
+    "10220b9774fa9034",
+    "71d53f2b21ddd72a",
+    "11828cfd8c06d936",
+    "2b70ed6f29d62876",
+    "f256acd5e9893bff",
+    "bbee1d0a34e40d1f",
+    "032e8ac6295c67bc",
+    "b8ff81cdc6e0508e",
+    "cf5342a81e3d1dc7",
+    "596424c924e00ace",
+    "a0074106bbb9911c",
+    "35f4307be778cbd1",
+    "b302fc649bd6e32b",
+    "82b718034f4ae43a",
+    "d6be72bbf8c4c377"
+   ]
+  },
+  {
+   "date": "2010-06-01",
+   "future": false,
+   "celex": "01993L0034-20100601",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime ANEXO",
+    "Suprime PRESCRIÇÕES RELATIVAS ÀS INSCRIÇÕES REGULAMENTARES DOS VEÍCULOS A MOTOR DE DUAS OU TRÊS RODAS",
+    "Suprime 1. GENERALIDADES",
+    "Suprime 2. CHAPA DO FABRICANTE",
+    "Suprime 3. NÚMERO DE IDENTIFICAÇÃO DO VEÍCULO",
+    "Suprime 4. CARACTERES",
+    "Suprime Apêndice 1",
+    "Suprime Exemplo de chapa do fabricante",
+    "Suprime Apêndice 2",
+    "Suprime Ficha de informações no que diz às inscrições regulamentares de um modelo de veículo a motor de duas ou três rodas",
+    "Suprime (a juntar ao pedido de homologação, no caso de ser apresentado independentemente do pedido de recepção do veículo)",
+    "Suprime Apêndice 3",
+    "Suprime Certificado de homologação no que diz respeito às inscrições regulamentares de um modelo de veículo a motor de duas ou três rodas",
+    "Suprime MODELO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "78ac2dc2902cb427"
+   ]
+  }
+ ],
+ "fragments": {
+  "87508707d831a68c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 93/34/CEE do Conselho, de 14 de Junho de 1993, relativa às inscrições regulamentares dos veículos a motor de duas ou três rodas** *Jornal Oficial nº L 188 de 29/07/1993 p. 0038 - 0043 Edição especial finlandesa: Capítulo 7 Fascículo 4 p. 0244 Edição especial sueca: Capítulo 7 Fascículo 4 p. 0244*\n\nDIRECTIVA 93/34/CEE DO CONSELHO\n\nde 14 de Junho de 1993\n\nrelativa às inscrições regulamentares dos veículos a motor de duas ou três rodas\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100ºA,\n\nTendo em conta a Directiva 92/61/CEE do Conselho, de 30 de Junho de 1992, relativa à recepção dos veículos a motor de duas ou três rodas (1),\n\nTendo em conta a proposta da Comissão (2),\n\nEm cooperação com o Parlamento Europeu (3),\n\nTendo em conta o parecer do Comité Económico e Social (4),\n\nConsiderando que o mercado interno compreende um espaço sem fronteiras internas no qual é assegurada a livre circulação de mercadorias, pessoas, serviços e capitais; que importa adoptar as medidas necessárias para o efeito;\n\nConsiderando que os veículos a motor de duas e três rodas devem satisfazer em cada Estado-membro, no que diz respeito às inscrições regulamentares, determinadas características técnicas definidas em disposições imperativas que diferem de um Estado-membro para outro; que, pelas suas disparidades, essas disposições entravam o comércio na Comunidade;\n\nConsiderando que esses obstáculos ao estabelecimento e ao funcionamento do mercado interno podem ser eliminados se todos os Estados-membros adoptarem as mesmas disposições em substituição das respectivas regulamentações nacionais;\n\nConsiderando que o estabelecimento de disposições harmonizadas relativas às inscrições regulamentares dos veículos de duas ou três rodas é necessário para permitir a aplicação a cada tipo dos referidos veículos dos processos de recepção e de homologação que são objecto da Directiva 92/61/CEE;\n\nConsiderando que, dadas as dimensões e os efeitos da acção proposta no sector em causa, as medidas comunitárias objecto da presente directiva são necessárias, e mesmo indispensáveis, para atingir os objectivos fixados, ou seja, a recepção comunitária dos vários tipos de veículos em causa, e que esses objectivos não podem ser realizados satisfatoriamente pelos Estados-membros individualmente;\n\nConsiderando que a presente directiva não impede certos Estados-membros de manter, em relação às inscrições regulamentares aplicáveis aos veículos a motor de duas ou três rodas, e numa base não discriminatória, prescrições imperativas específicas para efeitos de aplicação das regras de circulação, na medida em que esses requisitos específicos digam respeito à utilização destes veículos e não impliquem alterações na sua construção susceptíveis de obstar à recepção comunitária desse tipo de veículos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "3f4630f3ad1cd51f": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA presente directiva aplica-se às inscrições regulamentares de qualquer tipo de veículo definido no artigo 1º da Directiva 92/61/CEE."
+  },
+  "220812e157592b8d": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nO processo de concessão da homologação no que diz respeito às inscrições regulamentares de um tipo de veículo a motor de duas ou três rodas, bem como as condições válidas para a livre circulação desses veículos, são os estabelecidos na Directiva 92/61/CEE, nos capítulos II e III, respectivamente."
+  },
+  "8d00a6f588d5589c": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nAs alterações necessárias para adaptar as prescrições dos anexos ao progresso técnico serão adoptadas em conformidade com o procedimento previsto no artigo 13º da Directiva 70/156/CEE (5)."
+  },
+  "d806837e9f218496": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Os Estados-membros adoptarão e publicarão as disposições necessárias para dar cumprimento à presente directiva, o mais tardar em 14 de Dezembro de 1994. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\nA partir da data referida no primeiro parágrafo, os Estados-membros não podem proibir, por motivos relacionados com as inscrições regulamentares, a primeira entrada em circulação dos veículos que estejam em conformidade com a presente directiva.\n\nOs Estados-membros aplicarão as disposições referidas no primeiro parágrafo a partir de 14 de Junho de 1995.\n\n2. Os Estados-membros enviarão à Comissão o texto das disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "8b27c8c613920a1e": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 14 de Junho de 1993.\n\nPelo Conselho\n\nO Presidente\n\nJ. TROEJBORG\n\n(1) JO no L 225 de 10. 8. 1992, p. 72.\n\n(2) JO no C 293 de 9. 11. 1992, p. 43.\n\n(3) JO no C 337 de 21. 12. 1992, p. 103, e JO no C 176 de 28. 6. 1993.\n\n(4) JO no C 73 de 15. 3. 1993, p. 22.\n\n(5) JO no L 42 de 23. 2. 1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 92/53/CEE (JO no L 225 de 10. 8. 1992, p. 1)."
+  },
+  "5bd59a41c726b3bb": {
+   "fragment_id": "ANEXO — PRESCRIÇÕES RELATIVAS ÀS INSCRIÇÕES REGULAMENTARES DOS VEÍCULOS A MOTOR DE DUAS OU TRÊS RODAS",
+   "type": "divisao",
+   "heading": "ANEXO — PRESCRIÇÕES RELATIVAS ÀS INSCRIÇÕES REGULAMENTARES DOS VEÍCULOS A MOTOR DE DUAS OU TRÊS RODAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — PRESCRIÇÕES RELATIVAS ÀS INSCRIÇÕES REGULAMENTARES DOS VEÍCULOS A MOTOR DE DUAS OU TRÊS RODAS\n\n1. GENERALIDADES\n\n1.1. Qualquer veículo deve possuir uma chapa e inscrições correspondentes às descritas nos pontos a seguir apresentados. A colocação da referida chapa e das inscrições está a cargo do fabricante ou do seu mandatário.\n\n2. CHAPA DO FABRICANTE\n\n2.1. A chapa do fabricante, cujo modelo é apresentado no apêndice 1, deve ser fixada, de modo seguro, num local de acesso fácil, sobre uma peça que, normalmente, não seja susceptível de ser substituída durante o período de utilização; a chapa deve ser facilmente legível, devendo conter, de forma indelével, as seguintes indicações, apresentadas pela ordem indicada:\n\n2.1.1. identificação do fabricante;\n\n2.1.2. a marca de recepção, conforme descrita no artigo 8º da Directiva 92/61/CEE do Conselho, de 30 de Junho de 1992, relativa à recepção dos veículos a motor de duas ou três rodas;\n\n2.1.3. o número de identificação do veículo (VIN);\n\n2.1.4. o nível sonoro quando parado:... dB(A) a... min<?aa9Oà> 1.\n\n2.2. A marca de recepção, de acordo com as disposições contidas no ponto 2.1.2, o valor do nível sonoro quando parado, assim como o número de rotações por minuto, de acordo com as disposições contidas no ponto 2.1.4, não são indicados aquando da homologação no que diz respeito às inscrições regulamentares. Estes elementos deverão ser, no entanto, apostos em qualquer veículo produzido em conformidade com o modelo recepcionado.\n\n2.3. O fabricante pode apor indicações suplementares abaixo ou ao lado das inscrições prescritas, no exterior de um rectângulo nitidamente delimitado e contendo apenas as inscrições previstas nos pontos 2.1.1 a 2.1.4 (ver apêndice 1).\n\n3. NÚMERO DE IDENTIFICAÇÃO DO VEÍCULO\n\nO número de identificação do veículo é composto por uma associação estruturada de caracteres atribuídos a cada veículo pelo fabricante. Este número tem por objectivo permitir - sem recorrer a outras indicações - a identificação unívoca de qualquer veículo por intermédio do fabricante, durante um período de 30 anos.\n\nO número de identificação deverá satisfazer as seguintes condições:\n\n3.1. O número de identificação do veículo deve ser marcado na chapa do fabricante e também, por um processo como o martelamento ou gravação, de modo a evitar o seu apagamento ou alteração, na metada direita do quadro do veículo, num local de acesso fácil.\n\n3.1.1. O número de identificação do veículo deve ser composto pelas três partes seguintes:\n\n3.1.1.1. a primeira parte consiste num código atribuído ao fabricante do veículo, para permitir a identificação do referido fabricante. Este código é formado por três caracteres (letras ou algarismos), atribuídos pelas autoridades competentes do país onde o fabricante tem a sua sede social, em acordo com o organismo internacional autorizado pela Organização Internacional de Normalização (ISO). O primeiro caracter designa uma zona geográfica, o segundo um país no interior de uma zona geográfica e o terceiro identifica um determinado fabricante. No caso de o fabricante produzir anualmente menos de 500 veículos, o terceiro caracter é sempre um 9. Para identificação desse fabricante, a autoridade acima referida atribui também o terceiro, quarto e quinto caracteres da terceira parte;\n\n3.1.1.2. a segunda parte é formada por seis caracteres (letras ou algarismos), com o objectivo de indicar as características gerais do veículo (modelo, variante e versão), podendo cada característica utilizar dois caracteres. Se o fabricante não utilizar um ou vários caracteres, os espaços não preenchidos devem ser completados com caracteres alfabéticos ou numéricos cuja escolha cabe ao fabricante;\n\n3.1.1.3. a terceira parte é formada por oito caracteres, sendo os quatro últimos obrigatoriamente numéricos, e deve permitir, juntamente com as outras duas partes, identificar inequivocamente um determinado veículo. Qualquer posição não preenchida deve ser completada com um zero, de modo a obter o número total de caracteres exigido.\n\n3.1.2. O número de identificação do veículo deve, na medida do possível, ser marcado numa única linha. Excepcionalmente e por razões de ordem técnica, o número poderá ser indicado em duas linhas. Todavia, neste caso não são autorizadas separações dentro de nenhuma das três partes. O princípio e o fim de cada linha devem ser delimitados por um símbolo que não seja nem um algarismo árabe nem uma letra latina maiúscula e que não seja susceptível de ser confundido com esses caracteres. Esta disposição não é de aplicação obrigatória quando o número é marcado numa única linha sobre a chapa do fabricante. É também autorizada a introdução do referido símbolo no interior de uma linha entre as três partes (ponto 3.1.1).\n\nEntre os caracteres não deve ser deixado qualquer espaço vazio.\n\n4. CARACTERES\n\n4.1. Para as inscrições previstas nos pontos 2 e 3 devem ser utilizadas letras latinas e algarismos árabes. Todavia, as letras utilizadas para as indicações previstas nos pontos 2.1.1, 2.1.3 e 3 devem ser maiúsculas.\n\n4.2. Para as indicações do número de identificação do veículo:\n\n4.2.1. não é autorizada a utilização das letras I, O e Q, assim como de travessões, asteriscos ou outros sinais especiais;\n\n4.2.2. as letras e algarismos devem ter as seguintes alturas mínimas:\n\n4.2.2.1. quatro milímetros, para os caracteres marcados directamente no quadro ou em outra estrutura análoga do veículo;\n\n4.2.2.2. três milímetros, para os caracteres marcados na chapa do fabricante.\n\nApêndice 1\n\nExemplo de chapa do fabricante\n\nO exemplo apresentado não prejudica as indicações que figurarão realmente nas chapas do fabricante nem as dimensões da própria chapa, dos algarismos e das letras: é apresentado unicamente a título indicativo.\n\nAs indicações suplementares previstas no ponto 2.3 podem ser apostas abaixo ou ao lado das indicações prescritas no rectângulo apresentado abaixo.\n\n>INÍCIO DE GRÁFICO>\n\n<?aeUA16à><?aeTSà><?aeVCà><?aeRT2Y3à><?aeTF10à><?aeTBà><?aeTCà>STELLA FABBRICA MOTOCICLI <?aeFN10à>e3 5364 <?aeFN10à>3 G S K L M 3 A C 8 B 1 2 0 0 0 0 <?aeFN10à>80 dB (A) - 3 750 t/m<?aeFN10à><?aeTBà><?aeRT2Y3à><?aeTEà><?aeUA17à\"FIM DE GRÁFICO>\n\nLegenda:\n\nNo exemplo de chapa apresentado, o veículo em questão é fabricado pela «Stella Fabbrica Motocicli», tendo sido recepcionado em Itália (e3) com o número 5364.\n\nO número de identificação (3GSKLM3AC8B120000) tem o seguinte significado:\n\n- primeira parte (3GS):\n\n- 3: zona geográfica (Europa),\n\n- G: país no interior da zona geográfica (Alemanha),\n\n- S: fabricante (Stella Fabbrica Motocicli);\n\n- segunda parte (KLM3AC):\n\n- KL: modelo de veículo,\n\n- M3: variante (carroçaria do veículo),\n\n- AC: versão (motor do veículo);\n\n- terceira parte (8B120000):\n\n- 8B12: identificação do veículo em associação com as outras duas partes do número de identificação,\n\n- 0000: posições não utilizadas, preenchidas com zeros, para completar o número total de caracteres exigidos.\n\nO nível sonoro, quando parado, é 80 dB(A) a 3 750 r.p.m.\n\nApêndice 2\n\nFicha de informações no que diz às inscrições regulamentares de um modelo de veículo a motor de duas ou três rodas\n\n(a juntar ao pedido de homologação, no caso de ser apresentado independentemente do pedido de recepção do veículo)\n\nNúmero de ordem (atribuído pelo requerente):.\n\nO pedido de homologação, no que diz respeito às inscrições regulamentares de um modelo de veículo a motor de duas ou três rodas, deve ser acompanhado das informações que figuram na parte A do anexo II da Directiva 92/61/CEE, nos pontos:\n\n- 0.1,\n\n- 0.2,\n\n- 0.4 a 0.6,\n\n- 9.3.1 a 9.3.3.\n\nApêndice 3\n\nIndicação da administração\n\nCertificado de homologação no que diz respeito às inscrições regulamentares de um modelo de veículo a motor de duas ou três rodas\n\nMODELO\n\nRelatório no. do serviço técnico. em......... de......... de........\n\nNúmero da homologação:. Número da extensão:.\n\n1. Marca de fábrica ou denominação comercial do veículo:.\n\n2. Modelo do veículo:.\n\n3. Nome e morada do fabricante:.\n\n.\n\n4. Nome e morada do eventual mandatário:.\n\n.\n\n5. Veículo apresentado ao ensaio em:.\n\n6. A homologação é concedida/recusada (1).\n\n7. Local:.\n\n8. Data:.\n\n9. Assinatura:.\n\n(1) Riscar o que não interessa."
+  },
+  "e942acf9735a1b56": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Junho de 1993\n\nrelativa às inscrições regulamentares dos veículos a motor de duas ou três rodas\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.ºA,\n\nTendo em conta a Directiva 92/61/CEE do Conselho, de 30 de Junho de 1992, relativa à recepção dos veículos a motor de duas ou três rodas ([^1^](http://publications.europa.eu/resource/cellar/68082236-3014-4a05-91e5-c761dd6aa070.0018.03/DOC_1#E0001)),\n\nTendo em conta a proposta da Comissão ([^2^](http://publications.europa.eu/resource/cellar/68082236-3014-4a05-91e5-c761dd6aa070.0018.03/DOC_1#E0002)),\n\nEm cooperação com o Parlamento Europeu ([^3^](http://publications.europa.eu/resource/cellar/68082236-3014-4a05-91e5-c761dd6aa070.0018.03/DOC_1#E0003)),\n\nTendo em conta o parecer do Comité Económico e Social ([^4^](http://publications.europa.eu/resource/cellar/68082236-3014-4a05-91e5-c761dd6aa070.0018.03/DOC_1#E0004)),\n\nConsiderando que o mercado interno compreende um espaço sem fronteiras internas no qual é assegurada a livre circulação de mercadorias, pessoas, serviços e capitais; que importa adoptar as medidas necessárias para o efeito;\n\nConsiderando que os veículos a motor de duas e três rodas devem satisfazer em cada Estado-membro, no que diz respeito às inscrições regulamentares, determinadas características técnicas definidas em disposições imperativas que diferem de um Estado-membro para outro; que, pelas suas disparidades, essas disposições entravam o comércio na Comunidade;\n\nConsiderando que esses obstáculos ao estabelecimento e ao funcionamento do mercado interno podem ser eliminados se todos os Estados-membros adoptarem as mesmas disposições em substituição das respectivas regulamentações nacionais;\n\nConsiderando que o estabelecimento de disposições harmonizadas relativas às inscrições regulamentares dos veículos de duas ou três rodas é necessário para permitir a aplicação a cada tipo dos referidos veículos dos processos de recepção e de homologação que são objecto da Directiva 92/61/CEE;\n\nConsiderando que, dadas as dimensões e os efeitos da acção proposta no sector em causa, as medidas comunitárias objecto da presente directiva são necessárias, e mesmo indispensáveis, para atingir os objectivos fixados, ou seja, a recepção comunitária dos vários tipos de veículos em causa, e que esses objectivos não podem ser realizados satisfatoriamente pelos Estados-membros individualmente;\n\nConsiderando que a presente directiva não impede certos Estados-membros de manter, em relação às inscrições regulamentares aplicáveis aos veículos a motor de duas ou três rodas, e numa base não discriminatória, prescrições imperativas específicas para efeitos de aplicação das regras de circulação, na medida em que esses requisitos específicos digam respeito à utilização destes veículos e não impliquem alterações na sua construção susceptíveis de obstar à recepção comunitária desse tipo de veículos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "84484b2ed3f18834": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva aplica-se às inscrições regulamentares de qualquer tipo de veículo definido no artigo 1.º da Directiva 92/61/CEE."
+  },
+  "718e67f6fb92afa7": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO processo de concessão da homologação no que diz respeito às inscrições regulamentares de um tipo de veículo a motor de duas ou três rodas, bem como as condições válidas para a livre circulação desses veículos, são os estabelecidos na Directiva 92/61/CEE, nos capítulos II e III, respectivamente."
+  },
+  "22f635c6a9049f20": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs alterações necessárias para adaptar as prescrições dos anexos ao progresso técnico serão adoptadas em conformidade com o procedimento previsto no artigo 13.º da Directiva 70/156/CEE ([^5^](http://publications.europa.eu/resource/cellar/68082236-3014-4a05-91e5-c761dd6aa070.0018.03/DOC_1#E0005))."
+  },
+  "cf0568b7c392d03b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-membros adoptarão e publicarão as disposições necessárias para dar cumprimento à presente directiva, o mais tardar em 14 de Dezembro de 1994. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\nA partir da data referida no primeiro parágrafo, os Estados-membros não podem proibir, por motivos relacionados com as inscrições regulamentares, a primeira entrada em circulação dos veículos que estejam em conformidade com a presente directiva.\n\nOs Estados-membros aplicarão as disposições referidas no primeiro parágrafo a partir de 14 de Junho de 1995.\n\n2. Os Estados-membros enviarão à Comissão o texto das disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "e1f5aa54600785a0": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "71d53f2b21ddd72a": {
+   "fragment_id": "PRESCRIÇÕES RELATIVAS ÀS INSCRIÇÕES REGULAMENTARES DOS VEÍCULOS A MOTOR DE DUAS OU TRÊS RODAS",
+   "type": "divisao",
+   "heading": "PRESCRIÇÕES RELATIVAS ÀS INSCRIÇÕES REGULAMENTARES DOS VEÍCULOS A MOTOR DE DUAS OU TRÊS RODAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRESCRIÇÕES RELATIVAS ÀS INSCRIÇÕES REGULAMENTARES DOS VEÍCULOS A MOTOR DE DUAS OU TRÊS RODAS"
+  },
+  "11828cfd8c06d936": {
+   "fragment_id": "1. GENERALIDADES",
+   "type": "divisao",
+   "heading": "1. GENERALIDADES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. GENERALIDADES\n\n1.1. Qualquer veículo deve possuir uma chapa e inscrições correspondentes às descritas nos pontos a seguir apresentados. A colocação da referida chapa e das inscrições está a cargo do fabricante ou do seu mandatário."
+  },
+  "2b70ed6f29d62876": {
+   "fragment_id": "2. CHAPA DO FABRICANTE",
+   "type": "divisao",
+   "heading": "2. CHAPA DO FABRICANTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. CHAPA DO FABRICANTE\n\n2.1. A chapa do fabricante, cujo modelo é apresentado no apêndice 1, deve ser fixada, de modo seguro, num local de acesso fácil, sobre uma peça que, normalmente, não seja susceptível de ser substituída durante o período de utilização; a chapa deve ser facilmente legível, devendo conter, de forma indelével, as seguintes indicações, apresentadas pela ordem indicada: 2.1.1. identificação do fabricante; 2.1.2. a marca de recepção, conforme descrita no artigo 8.º da Directiva 92/61/CEE do Conselho, de 30 de Junho de 1992, relativa à recepção dos veículos a motor de duas ou três rodas; 2.1.3. o número de identificação do veículo (VIN); [▼M1](http://publications.europa.eu/resource/celex/31999L0025) 2.1.4. o nível sonoro quando parado:… dB(A) a… min^–1^. [▼B](http://publications.europa.eu/resource/celex/31993L0034)\n\n2.1.1. identificação do fabricante;\n\n2.1.2. a marca de recepção, conforme descrita no artigo 8.º da Directiva 92/61/CEE do Conselho, de 30 de Junho de 1992, relativa à recepção dos veículos a motor de duas ou três rodas;\n\n2.1.3. o número de identificação do veículo (VIN);\n\n2.1.4. o nível sonoro quando parado:… dB(A) a… min^–1^.\n\n2.2. A marca de recepção, de acordo com as disposições contidas no ponto 2.1.2, o valor do nível sonoro quando parado, assim como o número de rotações por minuto, de acordo com as disposições contidas no ponto 2.1.4, não são indicados aquando da homologação no que diz respeito às inscrições regulamentares. Estes elementos deverão ser, no entanto, apostos em qualquer veículo produzido em conformidade com o modelo recepcionado.\n\n2.3. O fabricante pode apor indicações suplementares abaixo ou ao lado das inscrições prescritas, no exterior de um rectângulo nitidamente delimitado e contendo apenas as inscrições previstas nos pontos 2.1.1 a 2.1.4 (ver apêndice 1)."
+  },
+  "f256acd5e9893bff": {
+   "fragment_id": "3. NÚMERO DE IDENTIFICAÇÃO DO VEÍCULO",
+   "type": "divisao",
+   "heading": "3. NÚMERO DE IDENTIFICAÇÃO DO VEÍCULO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. NÚMERO DE IDENTIFICAÇÃO DO VEÍCULO\n\nO número de identificação do veículo é composto por uma associação estruturada de caracteres atribuídos a cada veículo pelo fabricante. Este número tem por objectivo permitir — sem recorrer a outras indicações — a identificação unívoca de qualquer veículo por intermédio do fabricante, durante um período de 30 anos.\n\nO número de identificação deverá satisfazer as seguintes condições:\n\n3.1. O número de identificação do veículo deve ser marcado na chapa do fabricante e também, por um processo como o martelamento ou gravação, de modo a evitar o seu apagamento ou alteração, na metada direita do quadro do veículo, num local de acesso fácil. 3.1.1. O número de identificação do veículo deve ser composto pelas três partes seguintes: 3.1.1.1. a primeira parte consiste num código atribuído ao fabricante do veículo, para permitir a identificação do referido fabricante. Este código é formado por três caracteres (letras ou algarismos), atribuídos pelas autoridades competentes do país onde o fabricante tem a sua sede social, em acordo com o organismo internacional autorizado pela Organização Internacional de Normalização (ISO). O primeiro caracter designa uma zona geográfica, o segundo um país no interior de uma zona geográfica e o terceiro identifica um determinado fabricante. No caso de o fabricante produzir anualmente menos de 500 veículos, o terceiro caracter é sempre um 9. Para identificação desse fabricante, a autoridade acima referida atribui também o terceiro, quarto e quinto caracteres da terceira parte; [▼M2](http://publications.europa.eu/resource/celex/32006L0027) 3.1.1.2. a segunda parte é constituída por seis caracteres (letras ou algarismos), com o objectivo de indicar as características gerais do veículo (modelo, variante e, no caso dos ciclomotores, versão); cada característica pode ser representada por vários caracteres. Se o fabricante não utilizar um ou vários caracteres, os espaços não preenchidos devem ser completados com caracteres alfabéticos ou numéricos, cuja escolha é deixada ao critério do fabricante; [▼B](http://publications.europa.eu/resource/celex/31993L0034) 3.1.1.3. a terceira parte é formada por oito caracteres, sendo os quatro últimos obrigatoriamente numéricos, e deve permitir, juntamente com as outras duas partes, identificar inequivocamente um determinado veículo. Qualquer posição não preenchida deve ser completada com um zero, de modo a obter o número total de caracteres exigido. [▼M1](http://publications.europa.eu/resource/celex/31999L0025) 3.1.2. O número de identificação do veículo deve, na medida do possível, ser marcado numa única linha. O início e o fim dessa linha devem ser delimitados por um símbolo que não seja nem um algarismo árabe nem uma letra latina maiúscula e que não seja susceptível de ser confundido com esses caracteres. Excepcionalmente e por razões de ordem técnica, o número pode ser indicado em duas linhas. Todavia, neste caso não são permitidas separações dentro de nenhuma das três partes e o princípio e o fim de cada linha devem ser delimitados por um símbolo que não seja nem um algarismo árabe nem uma letra latina maiúscula e que não seja susceptível de ser confundido com esses caracteres. É também permitida a introdução do referido símbolo no interior de uma linha entre as três partes (ponto 3.1.1). Entre os caracteres não deve ser deixado qualquer espaço vazio. [▼B](http://publications.europa.eu/resource/celex/31993L0034)\n\n3.1.1. O número de identificação do veículo deve ser composto pelas três partes seguintes: 3.1.1.1. a primeira parte consiste num código atribuído ao fabricante do veículo, para permitir a identificação do referido fabricante. Este código é formado por três caracteres (letras ou algarismos), atribuídos pelas autoridades competentes do país onde o fabricante tem a sua sede social, em acordo com o organismo internacional autorizado pela Organização Internacional de Normalização (ISO). O primeiro caracter designa uma zona geográfica, o segundo um país no interior de uma zona geográfica e o terceiro identifica um determinado fabricante. No caso de o fabricante produzir anualmente menos de 500 veículos, o terceiro caracter é sempre um 9. Para identificação desse fabricante, a autoridade acima referida atribui também o terceiro, quarto e quinto caracteres da terceira parte; [▼M2](http://publications.europa.eu/resource/celex/32006L0027) 3.1.1.2. a segunda parte é constituída por seis caracteres (letras ou algarismos), com o objectivo de indicar as características gerais do veículo (modelo, variante e, no caso dos ciclomotores, versão); cada característica pode ser representada por vários caracteres. Se o fabricante não utilizar um ou vários caracteres, os espaços não preenchidos devem ser completados com caracteres alfabéticos ou numéricos, cuja escolha é deixada ao critério do fabricante; [▼B](http://publications.europa.eu/resource/celex/31993L0034) 3.1.1.3. a terceira parte é formada por oito caracteres, sendo os quatro últimos obrigatoriamente numéricos, e deve permitir, juntamente com as outras duas partes, identificar inequivocamente um determinado veículo. Qualquer posição não preenchida deve ser completada com um zero, de modo a obter o número total de caracteres exigido.\n\n3.1.1.1. a primeira parte consiste num código atribuído ao fabricante do veículo, para permitir a identificação do referido fabricante. Este código é formado por três caracteres (letras ou algarismos), atribuídos pelas autoridades competentes do país onde o fabricante tem a sua sede social, em acordo com o organismo internacional autorizado pela Organização Internacional de Normalização (ISO). O primeiro caracter designa uma zona geográfica, o segundo um país no interior de uma zona geográfica e o terceiro identifica um determinado fabricante. No caso de o fabricante produzir anualmente menos de 500 veículos, o terceiro caracter é sempre um 9. Para identificação desse fabricante, a autoridade acima referida atribui também o terceiro, quarto e quinto caracteres da terceira parte;\n\n3.1.1.2. a segunda parte é constituída por seis caracteres (letras ou algarismos), com o objectivo de indicar as características gerais do veículo (modelo, variante e, no caso dos ciclomotores, versão); cada característica pode ser representada por vários caracteres. Se o fabricante não utilizar um ou vários caracteres, os espaços não preenchidos devem ser completados com caracteres alfabéticos ou numéricos, cuja escolha é deixada ao critério do fabricante;\n\n3.1.1.3. a terceira parte é formada por oito caracteres, sendo os quatro últimos obrigatoriamente numéricos, e deve permitir, juntamente com as outras duas partes, identificar inequivocamente um determinado veículo. Qualquer posição não preenchida deve ser completada com um zero, de modo a obter o número total de caracteres exigido.\n\n3.1.2. O número de identificação do veículo deve, na medida do possível, ser marcado numa única linha. O início e o fim dessa linha devem ser delimitados por um símbolo que não seja nem um algarismo árabe nem uma letra latina maiúscula e que não seja susceptível de ser confundido com esses caracteres. Excepcionalmente e por razões de ordem técnica, o número pode ser indicado em duas linhas. Todavia, neste caso não são permitidas separações dentro de nenhuma das três partes e o princípio e o fim de cada linha devem ser delimitados por um símbolo que não seja nem um algarismo árabe nem uma letra latina maiúscula e que não seja susceptível de ser confundido com esses caracteres. É também permitida a introdução do referido símbolo no interior de uma linha entre as três partes (ponto 3.1.1). Entre os caracteres não deve ser deixado qualquer espaço vazio."
+  },
+  "bbee1d0a34e40d1f": {
+   "fragment_id": "4. CARACTERES",
+   "type": "divisao",
+   "heading": "4. CARACTERES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. CARACTERES\n\n4.1. Para as inscrições previstas nos pontos 2 e 3 devem ser utilizadas letras latinas e algarismos árabes. Todavia, as letras utilizadas para as indicações previstas nos pontos 2.1.1, 2.1.3 e 3 devem ser maiúsculas.\n\n4.2. Para as indicações do número de identificação do veículo: 4.2.1. não é autorizada a utilização das letras I, O e Q, assim como de travessões, asteriscos ou outros sinais especiais; 4.2.2. as letras e algarismos devem ter as seguintes alturas mínimas: 4.2.2.1. quatro milímetros, para os caracteres marcados directamente no quadro ou em outra estrutura análoga do veículo; 4.2.2.2. três milímetros, para os caracteres marcados na chapa do fabricante.\n\n4.2.1. não é autorizada a utilização das letras I, O e Q, assim como de travessões, asteriscos ou outros sinais especiais;\n\n4.2.2. as letras e algarismos devem ter as seguintes alturas mínimas: 4.2.2.1. quatro milímetros, para os caracteres marcados directamente no quadro ou em outra estrutura análoga do veículo; 4.2.2.2. três milímetros, para os caracteres marcados na chapa do fabricante.\n\n4.2.2.1. quatro milímetros, para os caracteres marcados directamente no quadro ou em outra estrutura análoga do veículo;\n\n4.2.2.2. três milímetros, para os caracteres marcados na chapa do fabricante."
+  },
+  "032e8ac6295c67bc": {
+   "fragment_id": "Apêndice 1",
+   "type": "divisao",
+   "heading": "Apêndice 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Apêndice 1"
+  },
+  "b8ff81cdc6e0508e": {
+   "fragment_id": "Exemplo de chapa do fabricante",
+   "type": "divisao",
+   "heading": "Exemplo de chapa do fabricante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Exemplo de chapa do fabricante\n\nO exemplo apresentado não prejudica as indicações que figurarão realmente nas chapas do fabricante nem as dimensões da própria chapa, dos algarismos e das letras: é apresentado unicamente a título indicativo.\n\nAs indicações suplementares previstas no ponto 2.3 podem ser apostas abaixo ou ao lado das indicações prescritas no rectângulo apresentado abaixo.\n\nSTELLA FABBRICA MOTOCICLI\n\ne3 5364\n\n3 G S K L M 3 A C 8 B 1 2 0 0 0 0\n\n80 dB (A) — 3 750 t/m\n\nLegenda:\n\nNo exemplo de chapa apresentado, o veículo em questão é fabricado pela «Stella Fabbrica Motocicli», tendo sido recepcionado em Itália (e3) com o número 5364.\n\nO número de identificação (3GSKLM3AC8B120000) tem o seguinte significado:\n\n— primeira parte (3GS):\n\n| 3 | : | zona geográfica (Europa), |\n| --- | --- | --- |\n\n| G | : | país no interior da zona geográfica (Alemanha), |\n| --- | --- | --- |\n\n| S | : | fabricante (Stella Fabbrica Motocicli); |\n| --- | --- | --- |\n\n— segunda parte (KLM3AC):\n\n| KL | : | modelo de veículo, |\n| --- | --- | --- |\n\n| M3 | : | variante (carroçaria do veículo), |\n| --- | --- | --- |\n\n| AC | : | versão (motor do veículo); |\n| --- | --- | --- |\n\n— terceira parte (8B120000):\n\n| 8B12 | : | identificação do veículo em associação com as outras duas partes do número de identificação, |\n| --- | --- | --- |\n\n| 0000 | : | posições não utilizadas, preenchidas com zeros, para completar o número total de caracteres exigidos. |\n| --- | --- | --- |\n\nO nível sonoro, quando parado, é 80 dB(A) a 3 750 r.p.m."
+  },
+  "cf5342a81e3d1dc7": {
+   "fragment_id": "Apêndice 2",
+   "type": "divisao",
+   "heading": "Apêndice 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Apêndice 2"
+  },
+  "596424c924e00ace": {
+   "fragment_id": "Ficha de informações no que diz às inscrições regulamentares de um modelo de veículo a motor de duas ou três rodas",
+   "type": "divisao",
+   "heading": "Ficha de informações no que diz às inscrições regulamentares de um modelo de veículo a motor de duas ou três rodas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Ficha de informações no que diz às inscrições regulamentares de um modelo de veículo a motor de duas ou três rodas"
+  },
+  "a0074106bbb9911c": {
+   "fragment_id": "(a juntar ao pedido de homologação, no caso de ser apresentado independentemente do pedido de recepção do veículo)",
+   "type": "divisao",
+   "heading": "(a juntar ao pedido de homologação, no caso de ser apresentado independentemente do pedido de recepção do veículo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (a juntar ao pedido de homologação, no caso de ser apresentado independentemente do pedido de recepção do veículo)\n\nNúmero de ordem (atribuído pelo requerente): …\n\nO pedido de homologação, no que diz respeito às inscrições regulamentares de um modelo de veículo a motor de duas ou três rodas, deve ser acompanhado das informações que figuram na parte A do anexo II da Directiva 92/61/CEE, nos pontos:\n\n— 0.1,\n\n— 0.2,\n\n— 0.4 a 0.6,\n\n— 9.3.1 a 9.3.3."
+  },
+  "35f4307be778cbd1": {
+   "fragment_id": "Apêndice 3",
+   "type": "divisao",
+   "heading": "Apêndice 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Apêndice 3"
+  },
+  "b302fc649bd6e32b": {
+   "fragment_id": "Certificado de homologação no que diz respeito às inscrições regulamentares de um modelo de veículo a motor de duas ou três rodas",
+   "type": "divisao",
+   "heading": "Certificado de homologação no que diz respeito às inscrições regulamentares de um modelo de veículo a motor de duas ou três rodas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Certificado de homologação no que diz respeito às inscrições regulamentares de um modelo de veículo a motor de duas ou três rodas"
+  },
+  "82b718034f4ae43a": {
+   "fragment_id": "MODELO",
+   "type": "divisao",
+   "heading": "MODELO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODELO\n\nRelatório n.º … do serviço técnico em … de … de …\n\nNúmero da homologação: … Número da extensão: …\n\n1. Marca de fábrica ou denominação comercial do veículo: …\n\n2. Modelo do veículo: …\n\n3. Nome e morada do fabricante: … …\n\n4. Nome e morada do eventual mandatário: … …\n\n5. Veículo apresentado ao ensaio em: …\n\n6. A homologação é concedida/recusada ([^6^](http://publications.europa.eu/resource/cellar/68082236-3014-4a05-91e5-c761dd6aa070.0018.03/DOC_1#E0006)).\n\n7. Local: …\n\n8. Data: …\n\n9. Assinatura: …\n\n---"
+  },
+  "d6be72bbf8c4c377": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/68082236-3014-4a05-91e5-c761dd6aa070.0018.03/DOC_1#src.E0001)) JO n.º L 225 de 10. 8. 1992, p. 72.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/68082236-3014-4a05-91e5-c761dd6aa070.0018.03/DOC_1#src.E0002)) JO n.º C 293 de 9. 11. 1992, p. 43.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/68082236-3014-4a05-91e5-c761dd6aa070.0018.03/DOC_1#src.E0003)) JO n.º C 337 de 21. 12. 1992, p. 103, e\n\n> JO n.º C 176 de 28. 6. 1993.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/68082236-3014-4a05-91e5-c761dd6aa070.0018.03/DOC_1#src.E0004)) JO n.º C 73 de 15. 3. 1993, p. 22.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/68082236-3014-4a05-91e5-c761dd6aa070.0018.03/DOC_1#src.E0005)) JO n.º L 42 de 23. 2. 1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 92/53/CEE (JO n.º L 225 de 10. 8. 1992, p. 1).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/68082236-3014-4a05-91e5-c761dd6aa070.0018.03/DOC_1#src.E0006)) Riscar o que não interessa."
+  },
+  "78ac2dc2902cb427": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993L0034 — PT — 01.06.2010 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31993L0034) [DIRECTIVA 93/34/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31993L0034) [de 14 de Junho de 1993](http://publications.europa.eu/resource/celex/31993L0034) [relativa às inscrições regulamentares dos veículos a motor de duas ou três rodas](http://publications.europa.eu/resource/celex/31993L0034) (JO L 188, 29.7.1993, p.38)\n\n**revogado por:**\n\n- [Directiva 2009/139/CE do Parlamento Europeu e do Conselho de 25 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009L0139) — L 322 — 3 — 9.12.2009"
+  }
+ }
+}

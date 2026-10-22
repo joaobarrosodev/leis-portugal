@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2005-1281.versoes.json
+  count: 1
+  source_lastmod: '2011-05-07'
+  versions:
+  - date: '2005-08-04'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32005R1281
   eli: http://data.europa.eu/eli/reg/2005/1281/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/dfb56994-cfe5-4e84-a62e-6514583e477c.0016
   content_url: http://publications.europa.eu/resource/cellar/dfb56994-cfe5-4e84-a62e-6514583e477c.0016.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:12:22Z'
+  retrieved_at: '2026-10-22T15:00:20Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T17:52:45.743+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:12:22Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:00:20Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2005-1281.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -116,21 +125,21 @@ relationships:
   date: '2011-05-02'
 article_structure:
   article_count: 9
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:12:22Z'
+  checked_at: '2026-10-22T15:00:20Z'
   warnings:
-  - Versão consolidada 02005R1281-20110507 indisponível (Sem expressão na língua por para CELEX 02005R1281-20110507.); usado
-    o texto do JO.
+  - '02005R1281-20050811: versão indisponível (Sem expressão na língua por para CELEX 02005R1281-20050811.)'
+  - '02005R1281-20110507: versão indisponível (Sem expressão na língua por para CELEX 02005R1281-20110507.)'
   errors: []
 ---
 
-# REGULAMENTO (CE) N.º 1281/2005 DA COMISSÃO
+# Regulamento (CE) n.° 1281/2005 da Comissão, de 3 de Agosto de 2005
 
 de 3 de Agosto de 2005
 

@@ -36,6 +36,48 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-02-07'
+version_history:
+  file: regulamento-ue-2008-273.versoes.json
+  count: 2
+  source_lastmod: '2018-02-07'
+  versions:
+  - date: '2008-03-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-02-07'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objecto e domínio de aplicação
+    - Suprime Artigo 2.º — Métodos de rotina
+    - Suprime CAPÍTUILO II
+    - Suprime MÉTODOS DE ANÁLISE
+    - Suprime Artigo 3.º — Avaliação da conformidade de uma remessa com os limites legais
+    - Suprime Artigo 4.º — Exame organoléptico
+    - Suprime Artigo 5.º — Marcadores
+    - Suprime Artigo 6.º — Detecção de caseína de leite de vaca
+    - Suprime Artigo 7.º — Detecção de coliformes
+    - Suprime Artigo 8.º — Determinação do teor de lactose
+    - Suprime Artigo 9.º — Detecção de soro de coagulação
+    - Suprime Artigo 10.º — Detecção de leitelho
+    - Suprime Artigo 11.º — Detecção de resíduos de substâncias antimicrobianas
+    - Suprime Artigo 12.º — Determinação do teor de leite em pó desnatado
+    - Suprime Artigo 13.º — Detecção de amido
+    - Suprime Artigo 14.º — Determinação do teor de humidade da nata desidratada
+    - Suprime Artigo 15.º — Determinação do teor de humidade do leitelho ácido em pó
+    - Suprime Artigo 16.º — Determinação do grau de pureza da matéria gorda láctea
+    - Suprime CAPÍTULO III
+    - Suprime DISPOSIÇÕES GERAIS E FINAIS
+    - Suprime Artigo 17.º — Garantia da qualidade
+    - Suprime Artigo 18.º — Amostragem e contestação dos resultados das análises
+    - Suprime Artigo 19.º — Período de transição
+    - Suprime Artigo 20.º — Revogações
+    - Suprime Artigo 21.º — Entrada em vigor
+    - Suprime Notas
 identifiers:
   celex: 32008R0273
   eli: http://data.europa.eu/eli/reg/2008/273/oj
@@ -50,7 +92,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1de70ed4-78ac-4f3d-90ff-a02c687560f4.0018
   content_url: http://publications.europa.eu/resource/cellar/1360a33e-3b52-4a32-87d2-5e6007508454.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0273-20180207
-  retrieved_at: '2026-10-22T02:58:56Z'
+  retrieved_at: '2026-10-22T15:14:25Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T18:36:31.856+01:00'
 integrity:
@@ -59,9 +101,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:56Z'
-  notes: Texto consolidado 02008R0273-20180207.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:14:25Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2008-273.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -134,16 +176,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:56Z'
+  checked_at: '2026-10-22T15:14:25Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02008R0273-20080331: versão indisponível (Sem expressão na língua por para CELEX 02008R0273-20080331.)'
+  - '02008R0273-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

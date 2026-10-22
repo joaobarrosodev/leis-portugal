@@ -36,6 +36,42 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-05-15'
+version_history:
+  file: regulamento-ue-1998-494.versoes.json
+  count: 3
+  source_lastmod: '2022-05-15'
+  versions:
+  - date: '1998-02-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-12-09'
+    amending: eu:celex:32010R1053:por
+    amending_title: REGULAMENTO (UE) N. o 1053/2010 DA COMISSÃO de 18 de Novembro de 2010
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+  - date: '2022-05-15'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Notas
 identifiers:
   celex: 31998R0494
   eli: http://data.europa.eu/eli/reg/1998/494/oj
@@ -50,7 +86,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/162d4cae-2d23-4e29-8914-4fda670e4c80.0009
   content_url: http://publications.europa.eu/resource/cellar/3f25e6cb-e660-11ec-a534-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998R0494-20220515
-  retrieved_at: '2026-10-22T02:56:36Z'
+  retrieved_at: '2026-10-22T14:47:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T05:08:10.410+01:00'
 integrity:
@@ -59,9 +95,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:36Z'
-  notes: Texto consolidado 01998R0494-20220515.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:13Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1998-494.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -101,16 +137,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:36Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:47:13Z'
+  warnings: []
   errors: []
 ---
 

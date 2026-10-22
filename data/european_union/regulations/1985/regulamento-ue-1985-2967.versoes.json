@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31985R2967:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01985R2967-20090101",
+ "dre_path": null,
+ "source_lastmod": "2009-01-01",
+ "versions": [
+  {
+   "date": "1985-10-25",
+   "future": false,
+   "celex": "31985R2967",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fb89f8748fc8e640",
+    "323564f8b484b53f",
+    "e91226d501020589",
+    "beafa4adb496bf10",
+    "1b45c90df3a9969a",
+    "0d1ae567af52dc05",
+    "c0808666fdce7f8f",
+    "27e7bcae06c96e8b"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "celex": "01985R2967-20090101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o"
+   ],
+   "fragments": [
+    "e8347d49037c1616"
+   ]
+  }
+ ],
+ "fragments": {
+  "fb89f8748fc8e640": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2967/85 da Comissão, de 24 de Outubro de 1985, que estabelece as modalidades de aplicação da grelha comunitária de classificação das carcaças de suínos** *Jornal Oficial nº L 285 de 25/10/1985 p. 0039 - 0040 Edição especial finlandesa: Capítulo 3 Fascículo 19 p. 0192 Edição especial espanhola: Capítulo 03 Fascículo 38 p. 0076 Edição especial sueca: Capítulo 3 Fascículo 19 p. 0192 Edição especial portuguesa: Capítulo 03 Fascículo 38 p. 0076*\n\nREGULAMENTO (CEE) No 2967/85 DA COMISSÃO de 24 de Outubro de 1985 que estabelece as modalidades de aplicação da grelha comunitária de classificação das carcaças de suínos\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) no 2759/75 do Conselho, de 29 de Outubro de 1975, que estabelece a organização comum de mercado no sector da carne de suíno (1), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 2966/80 (2) e, nomeadamente, o seu artigo 2o e o no 6 do seu artigo 4o,\n\nTendo em conta o Regulamento (CEE) no 3220/84 do Conselho, de 13 de Novembro de 1984, que estabelece a grelha comunitária de classificação das carcaças de suínos (3) e, nomeadamente, o no 1 do seu artigo 5o,\n\nConsiderando que é conveniente estabelecer as modalidades de aplicação do Regulamento (CEE) no 3220/84 e, nomeadamente, as medidas que assegurem a sua aplicação uniforme;\n\nConsiderando que o peso aplica-se à carcaça fria; que o peso da carcaça fria é calculado afectando o resultado da pesagem de um coeficiente de transformação a determinar; que este coeficiente pode variar em função do intervalo entre a pesagem e a degolação do porco; que é conveniente, por conseguinte, a sua consequente adaptação;\n\nConsiderando que o teor em carne magra das carcaças é avaliado por meio de métodos de classificação autorizados; que só podem ser autorizados os métodos de estimativa estritamente comprovados; que, por outro lado, os mencionados métodos de classificação só podem ser autorizados dentro dos limites de uma tolerância máxima de erro estatístico de estimativa que é conveniente determinar;\n\nConsiderando que, sem prejuízo do no 2 do artigo 4o do Regulamento (CEE) no 3220/84, é obrigatória a marcação das carcaças; que é conveniente definir as modalidades de marcação e de identificação das carcaças, a fim de contribuir para a transparência do mercado, prevendo para o efeito derrogações em determinados casos;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão da Carne de Suíno,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "323564f8b484b53f": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nO presente regulamento estabelece as modalidades de aplicação de Regulamento (CEE) no 3220/84 que determina a grelha comunitária de classificação das carcaças de suínos."
+  },
+  "e91226d501020589": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. O peso da carcaça fria fixado na primeira alínea, segundo parágrafo do artigo 2o do Regulamento (CEE) no 3220/84 é obtido deduzindo 2,0 % do peso verificado a quente, o mais tardar 45 minutos após o suíno ter sido degolado.\n\n2. Se, num dado matadouro, o intervalo de 45 minutos entre a degolação e a pesagem do suíno não puder ser respeitado, as autoridades competentes do Estado-membro em causa podem autorizar que este limite seja ultrapassado desde que a dedução de 2,0 % estabelecida no no 1 seja diminuída de 0,1 pontos por cada quarto de hora suplementar, mesmo que ainda não tenha decorrido esse tempo.\n\n3. Em derrogação dos nos 1 e 2, o peso da carcaça fria pode ser calculado por uma dedução, em valor absoluto, de acordo com uma tabela de reduções previamente estabelecida pelos Estados-membros em conformidade com as características das suas varas de porcos e notificado a Comissão. A utilização de uma tal tabela é autorizada em conformidade com o procedimento estabelecido no artigo 24o do Regulamento (CEE) no 2759/75, desde que as reduções previstas por classe de peso correspondam, na medida do possível, à dedução resultante dos nos 1 e 2."
+  },
+  "beafa4adb496bf10": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Só podem ser autorizados como métodos de classificação na acepção do número 3 do artigo 2o do Regulamento (CEE) no 3220/84, os métodos de estimativa com um teor em carne magra das carcaças:\n\n- baseados numa amostra representativa da produção suína nacional ou regional, abrangida pelo método de estimativa e a uma quantidade mínima de 120 carcaças, cujo teor em carne magra seja verificado quer directamente, em conformidade com o no 3, primeiro parágrafo, do artigo 2o do Regulamento (CEE) no 3220/84, quer por um método nacional de dissecação de efeito equivalente,\n\ne\n\n- cujo coeficiente de determinação seja superior a R2 = 0,64.\n\n2. A autorização dos métodos de classificação será, além disso, subordinada à condição de que o erro tipo residual de estimativa seja inferior a Se = 2,5.\n\n3. Os Estados-membros comunicam à Comissão os métodos de classificação cuja autorização para aplicação seja desejável no seu território, indicando os princípios destes métodos e as equações de estimativa da percentagem de carne magra utilizadas, incluíndo a correlação entre o teor em carne magra estabelecido por um método nacional de dissecação utilizado para este fim e o método de dissecação fixado no no 3 primeiro parágrafo, do artigo 2o do Regulamento (CEE) no 3220/84.\n\nA aplicação dos métodos de classificação no território de um Estado-membro é autorizada de acordo com o procedimento estabelecido no artigo 24o do Regulamento (CEE) no 2759/75.\n\n4. A aplicação dos métodos de classificação deve corresponder a todas as especificações fixadas na decisão comunitária de autorização."
+  },
+  "1b45c90df3a9969a": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Sem prejuízo do disposto no número 2 do artigo 4o do Regulamento (CEE) no 3220/84, as carcaças de suínos são marcadas com a letra maiúscula que designe a classe em conformidade com os nos 2 e 3 do artigo 3o do mencionado regulamento ou da percentagem que expresse o teor estimado em carne magra em conformidade com o no 1 do artigo 4o deste mesmo regulamento e, ser for caso disso, outras indicações consideradas apropriadas. As letras ou os números devem ter, pelo menos, dois centímetros de altura. A marcação deve ser efectuada com tinta não tóxica, indelével e resistente ao calor ou por qualquer outro meio de marcação permanente aprovado previamente pelas autoridades nacionais competentes.\n\n2. As meias carcaças são marcadas sobre a pele ao nível da coxa traseira ou da perna.\n\n3. É igualmente considerada como marcação satisfatória, a aposição de rótulos colocados de modo a impedir a sua deslocação sem as estragar."
+  },
+  "0d1ae567af52dc05": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nNo caso referido no no 2 do artigo 4o do Regulamento (CEE) no 3220/84, a identificação individual das carcaças de suínos é efectuada de um modo inalterável."
+  },
+  "c0808666fdce7f8f": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nA fim de garantir a aplicação das disposições do presente regulamento no seu território, os Estados-membros tomarão todas as medidas que considerem necessárias e informarão a Comissão de tais medidas, o mais brevemente possível."
+  },
+  "27e7bcae06c96e8b": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nO presente regulamento entra em vigor em 1 de Novembro de 1985.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 24 de Outubro de 1985.\n\nPela Comissão\n\nFrans ANDRIESSEN\n\nVice-Presidente\n\n(1) JO no L 282 de 1. 11. 1975, p. 1.(2) JO no L 307 de 18. 11. 1980, p. 5.(3) JO no L 301 de 20. 11. 1984, p. 1."
+  },
+  "e8347d49037c1616": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1985R2967 — PT — 01.01.2009 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31985R2967) [REGULAMENTO (CEE) NO 2967/85 DA COMISSÃO](http://publications.europa.eu/resource/celex/31985R2967) [de 24 de Outubro de 1985](http://publications.europa.eu/resource/celex/31985R2967) [que estabelece as modalidades de aplicação da grelha comunitária de classificação das carcaças de suínos](http://publications.europa.eu/resource/celex/31985R2967) (JO L 285, 25.10.1985, p.39)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1249/2008 da Comissão de 10 Dezembro de 2008](http://publications.europa.eu/resource/celex/32008R1249) — L 337 — 3 — 16.12.2008"
+  }
+ }
+}

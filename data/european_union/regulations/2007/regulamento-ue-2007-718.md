@@ -35,6 +35,154 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-11-21'
+version_history:
+  file: regulamento-ue-2007-718.versoes.json
+  count: 6
+  source_lastmod: '2015-11-21'
+  versions:
+  - date: '2007-06-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-01-30'
+    amending: eu:celex:32010R0080:por
+    amending_title: Regulamento (UE) n. o 80/2010 da Comissão de 28 de Janeiro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Programas plurianuais ou anuais
+    - Altera Artigo 7.º — Acordos-quadro e acordos sectoriais
+    - Altera Artigo 8.º — Decisões e convenções de financiamento
+    - Altera Artigo 10.º — Princípios gerais para a prestação da assistência
+    - Altera Artigo 15.º — Revogação ou suspensão da acreditação do gestor orçamental nacional e do fundo nacional
+    - Altera Artigo 16.º — Revogação ou suspensão da acreditação das estruturas operacionais
+    - Altera Artigo 17.º — Revogação ou suspensão da delegação de competências de gestão
+    - Altera Artigo 19.º — Medidas antifraude
+    - Altera Artigo 22.º — Funções e responsabilidades do coordenador nacional do IPA
+    - Altera Artigo 28.º — Funções e responsabilidades da estrutura operacional
+    - Altera Artigo 29.º — Funções e responsabilidades da autoridade de auditoria
+    - Altera Artigo 31.º — Organismos específicos
+    - Altera Artigo 32.º — Estruturas e autoridades para assegurar a gestão centralizada ou conjunta
+    - Altera Artigo 34.º — Elegibilidade das despesas
+    - Altera Artigo 35.º — Gestão das receitas
+    - Altera Artigo 36.º — Titularidade dos juros
+    - Altera Artigo 37.º — Financiamento comunitário
+    - Altera Artigo 39.º — Princípios
+    - Altera Artigo 40.º — Pagamentos
+    - Altera Artigo 43.º — Pagamentos intermédios
+    - Altera Artigo 46.º — Suspensão de pagamentos
+    - Altera Artigo 47.º — Encerramento dos programas
+    - Altera Artigo 50.º — Ajustamentos financeiros
+    - Altera Artigo 52.º — Procedimento de correcção financeira
+    - Altera Artigo 57.º — Avaliação
+    - Altera Artigo 58.º — Acompanhamento em caso de gestão descentralizada
+    - Altera Artigo 59.º — Comités de acompanhamento sectorial em caso da gestão descentralizada
+    - Altera Artigo 60.º — Acompanhamento em caso de gestão centralizada e conjunta
+    - Altera Artigo 61.º — Relatórios anuais e definitivos sobre a aplicação
+    - Altera Artigo 62.º — Informação e publicidade
+    - Altera Artigo 63.º — Visibilidade
+    - Altera Artigo 64.º — Domínios de assistência
+    - Altera Artigo 66.º — Elegibilidade das despesas
+    - Altera Artigo 67.º — Intensidades de auxílio e taxa de contribuição comunitária
+    - Altera Artigo 68.º — Quadro de programação
+    - Altera Artigo 69.º — Programas nacionais
+    - Altera Artigo 72.º — Programas regionais e horizontais
+    - Altera Artigo 73.º — Princípios gerais
+    - Altera Artigo 75.º — Estrutura e autoridades no caso da gestão descentralizada
+  - date: '2011-12-14'
+    amending: eu:celex:32011R1292:por
+    amending_title: Regulamento de Execução (UE) n. o 1292/2011 da Comissão de 9 de Dezembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Acordos-quadro e acordos sectoriais
+    - Altera Artigo 19.º — Medidas antifraude
+    - Altera Artigo 34.º — Elegibilidade das despesas
+    - Altera Artigo 62.º — Informação e publicidade
+    - Altera Artigo 86.º — Domínios e formas de assistência
+    - Altera Artigo 87.º — Parceria
+    - Altera Artigo 89.º — Elegibilidade das despesas
+    - Altera Artigo 138.º — Correcções e irregularidades financeiras
+    - Altera Artigo 160.º — Pagamentos
+    - Altera Artigo 170.º — Definições adicionais para a componente de desenvolvimento rural
+    - Altera Artigo 173.º — Intensidades da ajuda e taxa da contribuição comunitária
+    - Altera Artigo 188.º — Pré-financiamento
+    - Altera Artigo 189.º — Apuramento das contas
+    - Altera Notas
+  - date: '2012-09-14'
+    amending: eu:celex:32012R0813:por
+    amending_title: Regulamento de Execução (UE) n. o 813/2012 da Comissão de 12 de setembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Acordos-quadro e acordos sectoriais
+    - Altera Artigo 19.º — Medidas antifraude
+    - Altera Artigo 62.º — Informação e publicidade
+    - Altera Artigo 86.º — Domínios e formas de assistência
+    - Altera Artigo 87.º — Parceria
+    - Altera Artigo 138.º — Correcções e irregularidades financeiras
+    - Altera Artigo 160.º — Pagamentos
+    - Altera Artigo 170.º — Definições adicionais para a componente de desenvolvimento rural
+    - Altera Artigo 173.º — Intensidades da ajuda e taxa da contribuição comunitária
+    - Altera Artigo 189.º — Apuramento das contas
+    - Altera Notas
+  - date: '2013-05-26'
+    amending: eu:celex:32013R0484:por
+    amending_title: Regulamento de Execução (UE) n. o 484/2013 da Comissão de 24 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Acordos-quadro e acordos sectoriais
+    - Altera Artigo 19.º — Medidas antifraude
+    - Altera Artigo 62.º — Informação e publicidade
+    - Altera Artigo 66.º — Elegibilidade das despesas
+    - Altera Artigo 86.º — Domínios e formas de assistência
+    - Altera Artigo 87.º — Parceria
+    - Altera Artigo 138.º — Correcções e irregularidades financeiras
+    - Altera Artigo 170.º — Definições adicionais para a componente de desenvolvimento rural
+    - Altera Artigo 173.º — Intensidades da ajuda e taxa da contribuição comunitária
+    - Altera Artigo 189.º — Apuramento das contas
+    - Altera Notas
+  - date: '2015-11-21'
+    amending: eu:celex:32015R2093:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2015/2093 DA COMISSÃO de 18 de novembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Programas plurianuais ou anuais
+    - Altera Artigo 7.º — Acordos-quadro e acordos sectoriais
+    - Altera Artigo 10.º — Princípios gerais para a prestação da assistência
+    - Altera Artigo 15.º — Revogação ou suspensão da acreditação do gestor orçamental nacional e do fundo nacional
+    - Altera Artigo 16.º — Revogação ou suspensão da acreditação das estruturas operacionais
+    - Altera Artigo 17.º — Revogação ou suspensão da delegação de competências de gestão
+    - Altera Artigo 19.º — Medidas antifraude
+    - Altera Artigo 28.º — Funções e responsabilidades da estrutura operacional
+    - Altera Artigo 29.º — Funções e responsabilidades da autoridade de auditoria
+    - Altera Artigo 32.º — Estruturas e autoridades para assegurar a gestão centralizada ou conjunta
+    - Altera Artigo 34.º — Elegibilidade das despesas
+    - Altera Artigo 39.º — Princípios
+    - Altera Artigo 43.º — Pagamentos intermédios
+    - Altera Artigo 46.º — Suspensão de pagamentos
+    - Altera Artigo 52.º — Procedimento de correcção financeira
+    - Altera Artigo 58.º — Acompanhamento em caso de gestão descentralizada
+    - Altera Artigo 61.º — Relatórios anuais e definitivos sobre a aplicação
+    - Altera Artigo 62.º — Informação e publicidade
+    - Altera Artigo 63.º — Visibilidade
+    - Altera Artigo 65.º — Formas de assistência
+    - Altera Artigo 76.º — Acreditação da estrutura operacional e delegação de competências em matéria de gestão
+    - Altera Artigo 77.º — Princípios que regem a execução em caso de projectos de geminação
+    - Altera Artigo 86.º — Domínios e formas de assistência
+    - Altera Artigo 87.º — Parceria
+    - Altera Artigo 88.º — Elegibilidade territorial
+    - Altera Artigo 89.º — Elegibilidade das despesas
+    - Altera Artigo 91.º — Elaboração e aprovação de programas transfronteiriços
+    - Altera Artigo 94.º — Conteúdo dos programas transfronteiriços
+    - Altera Artigo 97.º — Condições especiais que regem a localização das operações
+    - Altera Artigo 98.º — Modalidades de execução
+    - Altera Artigo 99.º — Disposições transitórias
+    - Altera Artigo 100.º — Termo da aplicação das disposições transitórias
+    - Altera Artigo 102.º — Designação das autoridades
+    - Altera Artigo 107.º — Auditorias das operações
+    - Altera Artigo 108.º — Sistema de controlo
+    - Altera Artigo 109.º — Avaliação
+    - Altera Artigo 110.º — Comité misto de acompanhamento
+    - Altera Artigo 112.º — Relatórios anuais e relatório final de execução
+    - Altera Artigo 113.º — Análise anual dos programas
 identifiers:
   celex: 32007R0718
   eli: http://data.europa.eu/eli/reg/2007/718/oj
@@ -49,7 +197,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1f98920c-851e-4091-b0cd-60348c5d38fe.0018
   content_url: http://publications.europa.eu/resource/cellar/53a461df-2433-4173-890c-d068ea751382.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0718-20151121
-  retrieved_at: '2026-10-22T03:13:09Z'
+  retrieved_at: '2026-10-22T15:09:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T18:34:27.225+01:00'
 integrity:
@@ -58,9 +206,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:09Z'
-  notes: Texto consolidado 02007R0718-20151121.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:09:16Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2007-718.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -173,33 +321,19 @@ relationships:
   date: '2010-07-05'
 article_structure:
   article_count: 196
-  section_count: 136
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 137
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:09Z'
+  checked_at: '2026-10-22T15:09:16Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 718/2007 da Comissão, de 12 de Junho de 2007
-
-> 2007R0718 — PT — 21.11.2015 — 005.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010R0080) — [REGULAMENTO (UE) N.º 80/2010 DA COMISSÃO de 28 de Janeiro de 2010](http://publications.europa.eu/resource/celex/32010R0080) — L 25 — 1 — 29.1.2010
-- [►M2](http://publications.europa.eu/resource/celex/32011R1292) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1292/2011 DA COMISSÃO de 9 de Dezembro de 2011](http://publications.europa.eu/resource/celex/32011R1292) — L 329 — 1 — 13.12.2011
-- [►M3](http://publications.europa.eu/resource/celex/32012R0813) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 813/2012 DA COMISSÃO de 12 de setembro de 2012](http://publications.europa.eu/resource/celex/32012R0813) — L 247 — 12 — 13.9.2012
-- [►M4](http://publications.europa.eu/resource/celex/32013R0484) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 484/2013 DA COMISSÃO de 24 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0484) — L 139 — 11 — 25.5.2013
-- [►M5](http://publications.europa.eu/resource/celex/32015R2093) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/2093 DA COMISSÃO de 18 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R2093) — L 303 — 3 — 20.11.2015
-
-## REGULAMENTO (CE) N.º 718/2007 DA COMISSÃO
 
 de 12 de Junho de 2007
 

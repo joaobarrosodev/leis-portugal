@@ -36,6 +36,54 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-12-07'
+version_history:
+  file: diretiva-ue-2007-64.versoes.json
+  count: 3
+  source_lastmod: '2009-12-07'
+  versions:
+  - date: '2007-12-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-12-25'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Exclusão do âmbito de aplicação
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 5.º — Pedidos de autorização
+    - Altera Artigo 8.º — Cálculo dos fundos próprios
+    - Altera Artigo 9.º — Requisitos de garantia
+    - Altera Artigo 15.º — Contabilidade e revisão legal de contas
+    - Altera Artigo 28.º — Acesso a sistemas de pagamento
+    - Altera Artigo 34.º — Derrogação dos requisitos de informação para instrumentos de pagamento de baixo valor e moeda electrónica
+    - Altera Artigo 42.º — Informações e condições
+    - Altera Artigo 51.º — Âmbito de aplicação
+    - Altera Artigo 88.º — Disposições transitórias
+    - Altera Artigo 90.º — Alteração da Directiva 2002/65/CE
+    - Altera Artigo 91.º — Alteração da Directiva 2005/60/CE
+    - Altera Artigo 92.º — Alteração da Directiva 2006/48/CE
+    - Altera Artigo 96.º — Destinatários
+    - Altera Notas
+    - Adita Método A
+    - Adita Método B
+    - Adita Método C
+    - Adita ANEXO
+    - Adita SERVIÇOS DE PAGAMENTO (PONTO 3 DO ARTIGO 4.º)
+  - date: '2009-12-07'
+    amending: eu:celex:32009L0111:por
+    amending_title: DIRECTIVA 2009/111/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 16 de
+      Setembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 5.º — Pedidos de autorização
+    - Altera Artigo 15.º — Contabilidade e revisão legal de contas
+    - Altera Artigo 90.º — Alteração da Directiva 2002/65/CE
+    - Altera Artigo 91.º — Alteração da Directiva 2005/60/CE
+    - Altera Artigo 92.º — Alteração da Directiva 2006/48/CE
+    - Altera Notas
 identifiers:
   celex: 32007L0064
   eli: http://data.europa.eu/eli/dir/2007/64/oj
@@ -50,7 +98,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2644663d-dfa1-41e2-8737-08f1e06511da.0018
   content_url: http://publications.europa.eu/resource/cellar/49c3a56a-e707-4fc6-b854-e9d3565de208.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007L0064-20091207
-  retrieved_at: '2026-10-22T02:40:40Z'
+  retrieved_at: '2026-10-22T15:07:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T04:02:19.200+01:00'
 integrity:
@@ -59,9 +107,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:40Z'
-  notes: Texto consolidado 02007L0064-20091207.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:07:53Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2007-64.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -292,33 +340,19 @@ relationships:
   source: null
 article_structure:
   article_count: 96
-  section_count: 57
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 58
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:40Z'
+  checked_at: '2026-10-22T15:07:53Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2007/64/CE do Parlamento Europeu e do Conselho, de 13 de Novembro de 2007
-
-> 2007L0064 — PT — 07.12.2009 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009L0111) — [DIRECTIVA 2009/111/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 16 de Setembro de 2009](http://publications.europa.eu/resource/celex/32009L0111) — L 302 — 97 — 17.11.2009
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32007L0064R%2801%29) — [Rectificação, JO L 187, 18.7.2009, p. 5 (07/64)](http://publications.europa.eu/resource/celex/32007L0064R%2801%29)
-
-## DIRECTIVA 2007/64/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 13 de Novembro de 2007
 

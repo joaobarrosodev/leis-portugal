@@ -35,6 +35,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-07-12'
+version_history:
+  file: regulamento-ue-1993-259.versoes.json
+  count: 2
+  source_lastmod: '2007-07-12'
+  versions:
+  - date: '1993-02-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-07-12'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I ÂMBITO E DEFINIÇÕES — Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Capítulo B Resíduos destinados a valorização — Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime TÍTULO III TRANSFERÊNCIAS DE RESÍDUOS DENTRO DOS ESTADOS-MEMBROS — Artigo 13o
+    - Suprime TÍTULO IV EXPORTAÇÃO DE RESÍDUOS Capítulo A Resíduos destinados a eliminação — Artigo 14o
+    - Suprime Artigo 15o
+    - Suprime Capítulo B Resíduos destinados a valorização — Artigo 16o
+    - Suprime Artigo 17o
+    - Suprime Capítulo C Exportação de resíduos para Estados ACP — Artigo 18o
+    - Suprime Artigo 19o
+    - Suprime Artigo 20o
+    - Suprime Capítulo B Importação de resíduos destinados a valorização — Artigo 21o
+    - Suprime Artigo 22o
+    - Suprime Artigo 23o
+    - Suprime Artigo 24o
+    - Suprime TÍTULO VII DISPOSIÇÕES COMUNS — Artigo 25o
+    - Suprime Artigo 26o
+    - Suprime Artigo 27o
+    - Suprime Artigo 28o
+    - Suprime Artigo 29o
+    - Suprime Artigo 30o
+    - Suprime Artigo 31o
+    - Suprime TÍTULO VIII OUTRAS DISPOSIÇÕES — Artigo 32o
+    - Suprime Artigo 33o
+    - Suprime Artigo 34o
+    - Suprime Artigo 35o
+    - Suprime Artigo 36o
+    - Suprime Artigo 37o
+    - Suprime Artigo 38o
+    - Suprime Artigo 39o
 identifiers:
   celex: 31993R0259
   eli: http://data.europa.eu/eli/reg/1993/259/oj
@@ -49,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f9862d97-7d50-4448-9006-8728bd88dc12.0011
   content_url: http://publications.europa.eu/resource/cellar/3c8b4373-238c-444d-b177-56230d64aa58.0013.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R0259-20070712
-  retrieved_at: '2026-10-22T02:36:33Z'
+  retrieved_at: '2026-10-22T14:42:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T16:09:09.275+01:00'
 integrity:
@@ -58,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:33Z'
-  notes: Texto consolidado 01993R0259-20070712.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:23Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1993-259.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -344,16 +397,22 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:33Z'
+  checked_at: '2026-10-22T14:42:23Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01993R0259-19930209: versão indisponível (Sem expressão na língua por para CELEX 01993R0259-19930209.)'
+  - '01993R0259-19941024: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R0259-19961118: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R0259-19970127: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R0259-19980519: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R0259-19981110: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R0259-19991125: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R0259-20020101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

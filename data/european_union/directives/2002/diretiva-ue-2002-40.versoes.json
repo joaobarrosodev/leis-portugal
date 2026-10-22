@@ -1,0 +1,179 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002L0040:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0040-20150101",
+ "dre_path": null,
+ "source_lastmod": "2015-01-01",
+ "versions": [
+  {
+   "date": "2002-05-15",
+   "future": false,
+   "celex": "32002L0040",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4e0226803c244899",
+    "aa5b5652ab1960c9",
+    "fdd8fb95ec0eef5b",
+    "590cfbf159f2e54c",
+    "e898432b8b0273ba",
+    "a61a277202e3528a",
+    "12a028aa61d5419f",
+    "d2e45784ea23532c",
+    "c865a0220b79ec7d",
+    "2dbf77fb2fe278ad",
+    "8f276859e1b2ea29",
+    "63a2659d398cc96d",
+    "3674dcb3d664d25f",
+    "4a4895775acb9f17"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "celex": "02002L0040-20150101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime ANEXO I — ETIQUETA",
+    "Suprime ANEXO II — FICHA",
+    "Suprime ANEXO III — VENDA POR CORRESPONDÊNCIA E OUTRAS FORMAS DE VENDA À DISTÂNCIA",
+    "Suprime ANEXO IV — CLASSE DE EFICIÊNCIA ENERGÉTICA",
+    "Suprime ANEXO V — TRADUÇÃO DE TERMOS A UTILIZAR NA ETIQUETA E NA FICHA"
+   ],
+   "fragments": [
+    "1cf9f9d587f9d208"
+   ]
+  }
+ ],
+ "fragments": {
+  "4e0226803c244899": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2002/40/CE da Comissão, de 8 de Maio de 2002, relativa à aplicação da Directiva 92/75/CEE do Conselho no que respeita à etiquetagem energética dos fornos eléctricos para uso doméstico (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 128 de 15/05/2002 p. 0045 - 0056*\n\nDirectiva 2002/40/CE da Comissão\n\nde 8 de Maio de 2002\n\nrelativa à aplicação da Directiva 92/75/CEE do Conselho no que respeita à etiquetagem energética dos fornos eléctricos para uso doméstico\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/75/CEE do Conselho, de 22 de Setembro de 1992, relativa à indicação do consumo de energia dos aparelhos domésticos por meio de etiquetagem e outras indicações uniformes relativas aos produtos(1), e, nomeadamente, o seu artigo 9.o,\n\nConsiderando o seguinte:\n\n(1) A Directiva 92/75/CEE determina que a Comissão adopte directivas de aplicação a respeito de diversos aparelhos domésticos, incluindo os fornos eléctricos.\n\n(2) Ao consumo de electricidade dos fornos eléctricos corresponde uma parte significativa da procura doméstica total de energia na Comunidade. O consumo de energia destes aparelhos pode ser significativamente reduzido.\n\n(3) As normas harmonizadas são especificações técnicas adoptadas pelos organismos europeus de normalização, referidos no anexo I da Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação(2), alterada pela Directiva 98/48/CE(3).\n\n(4) Sempre que necessário, os Estados-Membros devem fornecer informações sobre as emissões sonoras, por força da Directiva 86/594/CEE do Conselho, de 1 de Dezembro de 1986, relativa ao ruído aéreo emitido pelos aparelhos domésticos(4).\n\n(5) A Directiva 79/531/CEE do Conselho, de 14 de Maio de 1979, que aplica aos fornos eléctricos a Directiva 79/530/CEE relativa à informação sobre o consumo de energia dos aparelhos domésticos por meio de etiquetagem(5), com a última redacção que lhe foi dada pelo Acto de Adesão da Áustria, da Finlândia e da Suécia, deve ser revogada com efeitos a partir da data de aplicação da presente directiva.\n\n(6) As medidas previstas pela presente directiva são conformes ao parecer do comité previsto no artigo 10.o da Directiva 92/75/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "aa5b5652ab1960c9": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva aplica-se aos fornos eléctricos para uso doméstico alimentados pela rede pública, incluindo os fornos que fazem parte de aparelhos maiores.\n\n2. A presente directiva não se aplica aos seguintes fornos:\n\na) Fornos que podem utilizar igualmente outras fontes de energia;\n\nb) Fornos não abrangidos pelas normas harmonizadas referidas no artigo 2.o;\n\nc) Fornos portáteis, que são aparelhos não fixos, que possuem massa inferior a 18 kg, desde que não sejam fornos de encastrar.\n\n3. O consumo de energia de funções de vapor, não é abrangido pela presente directiva, com excepção da função de vapor quente."
+  },
+  "fdd8fb95ec0eef5b": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. As informações cuja prestação a presente directiva requer serão obtidas por meio de medições efectuadas em conformidade com as normas harmonizadas adoptadas pelo Comité Europeu de Normalização Electrotécnica (Cenelec) sob mandato da Comissão, nos termos da Directiva 98/34/CE, cujos números de referência foram publicados no Jornal Oficial das Comunidades Europeias e relativamente às quais os Estados-Membros publicaram os números de referência das normas nacionais que as transpõem.\n\nO disposto nos anexos I, II e III da presente directiva, em matéria de prestação de informações sobre o ruído, aplica-se unicamente no caso de tais informações serem requeridas pelos Estados-Membros ao abrigo do artigo 3.o da Directiva 86/594/CEE. Estas informações serão medidas em conformidade com a Directiva 86/594/CEE.\n\n2. Na presente directiva, as expressões utilizadas têm o mesmo significado que na Directiva 92/75/CEE."
+  },
+  "590cfbf159f2e54c": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. A documentação técnica referida no n.o 3 do artigo 2.o da Directiva 92/75/CEE inclui:\n\na) Nome e endereço do fornecedor;\n\nb) Descrição geral do modelo, suficiente para a sua identificação inequívoca e rápida;\n\nc) Informações, incluindo se necessário peças desenhadas, sobre as principais características de concepção do modelo e, em especial, sobre as características que afectem significativamente o seu consumo de energia;\n\nd) Relatórios dos pertinentes ensaios de medição, efectuados em conformidade com os procedimentos previstos nas normas harmonizadas referidas no n.o 1 do artigo 2.o;\n\ne) Eventuais instruções de utilização.\n\n2. A etiqueta referida no n.o 1 do artigo 2.o da Directiva 92/75/CEE obedecerá ao especificado no anexo I da presente directiva.\n\nA etiqueta será colocada na porta do aparelho, de modo a ficar claramente visível e não obscurecida. No caso dos fornos de múltiplos compartimentos, todos os compartimentos terão etiqueta própria, com excepção dos compartimentos excluídos do campo de aplicação das normas harmonizadas referidas no artigo 2.o\n\n3. O teor e o formato da ficha referida no n.o 1 do artigo 2.o da Directiva 92/75/CEE obedecerão ao especificado no anexo II da presente directiva.\n\n4. Se os aparelhos se destinarem a venda, aluguer ou locação-compra por meio de uma comunicação impressa ou escrita ou por outros meios que impliquem a impossibilidade de o cliente potencial ver o aparelho exposto, como ofertas escritas, catálogos de venda por correspondência e anúncios na internet ou noutros meios electrónicos, a comunicação deve incluir todas as informações especificadas no anexo III.\n\nEste requisito aplicar-se-á igualmente às ofertas de fornos de encastrar para cozinhas integradas.\n\n5. A classe de eficiência energética de cada compartimento será determinada em conformidade com o anexo IV.\n\n6. Os termos adequados a utilizar na etiqueta e na ficha referidas no n.o 1 do artigo 2.o da Directiva 92/75/CEE serão seleccionados do quadro do anexo V da presente directiva."
+  },
+  "e898432b8b0273ba": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros autorizarão, até 30 de Junho de 2003, a colocação no mercado, a comercialização e/ou a exibição de produtos, bem como a distribuição das comunicações referidas no n.o 4 do artigo 3.o que não cumpram a presente directiva."
+  },
+  "a61a277202e3528a": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros adoptarão e publicarão, em 31 de Dezembro de 2002, as disposições necessárias para darem cumprimento à presente directiva. Desse facto informarão imediatamente a Comissão.\n\nOs Estados-Membros aplicarão essas disposições a partir de 1 de Janeiro de 2003.\n\nQuando os Estados-Membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades da referência serão determinadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das normas de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "12a028aa61d5419f": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA Directiva 79/531/CEE é revogada, com efeitos a partir de 1 de Janeiro de 2003."
+  },
+  "d2e45784ea23532c": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA presente directiva entra em vigor no vigésimo dia subsequente ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "c865a0220b79ec7d": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 8 de Maio de 2002.\n\nPela Comissão\n\nLoyola De Palacio\n\nVice-Presidente\n\n(1) JO L 297 de 13.10.1992, p. 16.\n\n(2) JO L 204 de 21.7.1998, p. 37.\n\n(3) JO L 217 de 5.8.1998, p. 18.\n\n(4) JO L 344 de 6.12.1986, p. 24.\n\n(5) JO L 145 de 13.6.1979, p. 7."
+  },
+  "2dbf77fb2fe278ad": {
+   "fragment_id": "ANEXO I — ETIQUETA",
+   "type": "divisao",
+   "heading": "ANEXO I — ETIQUETA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — ETIQUETA\n\nConcepção da etiqueta\n\n1. A etiqueta corresponderá à versão portuguesa da seguinte ilustração:\n\n>PIC FILE= \"L_2002128PT.004801.TIF\">\n\n2. Nas notas seguintes define-se a informação a incluir:Notas\n\nI. Nome ou marca comercial do fornecedor.\n\nII. Identificador do modelo do fornecedor.\n\nIII. Classe de eficiência energética do compartimento do modelo, determinada em conformidade com o anexo IV. A ponta da seta que contém a letra indicadora deve ficar ao mesmo nível que a ponta da seta correspondente à classe.\n\nA espessura da seta que contém a letra indicadora não deve ser inferior - nem mais de duas vezes superior - à espessura das setas das várias classes.\n\nIV. Sem prejuízo dos requisitos impostos pelo Sistema Comunitário de Atribuição de Rótulo Ecológico, se a um modelo tiver sido atribuído um \"Rótulo Ecológico da União Europeia\" nos termos do Regulamento (CE) n.o 1980/2000 do Parlamento Europeu e do Conselho, de 17 de Julho de 2000, relativo a um sistema comunitário revisto de atribuição de rótulo ecológico(1), pode ser acrescentada aqui uma cópia do rótulo ecológico.\n\nV. Consumo de energia em kWh para a(s) função(ões) de aquecimento (convencional e/ou por circulação forçada de ar) do compartimento, com base na carga-normalizada, determinado em conformidade com os procedimentos de ensaio que constam das normas harmonizadas referidas no artigo 2.o\n\nVI. Volume útil do compartimento em litros, determinado em conformidade com as normas harmonizadas referidas no artigo 2.o\n\nVII. Tamanho do compartimento, determinado do seguinte modo:\n\n>POSIÇÃO NUMA TABELA>\n\nEsta seta indicadora deve ficar ao nível do correspondente tamanho do compartimento.\n\nVIII. Se pertinente, nível de ruído, medido durante a função que determina a eficiência energética, determinado em conformidade com a Directiva 86/594/CEE(2).\n\nNB:\n\nOs termos equivalentes noutras línguas aos acima indicados constam do anexo V.\n\nImpressão\n\n3. Nas notas seguintes definem-se alguns aspectos da etiqueta:\n\nCores utilizadas:\n\nCMYK - ciano, magenta, amarelo, preto.\n\nExemplo: 07X0: 0 % ciano, 70 % magenta, 100 % amarelo, 0 % preto.\n\nSetas\n\nA X0X0\n\nB 70X0\n\nC 30X0\n\nD 00X0\n\nE 03X0\n\nF 07X0\n\nG 0XX0\n\nCor da esquadria: X070\n\nO fundo da seta indicadora da classe de eficiência energética é preto.\n\nTodo o texto é a preto, sobre fundo branco.\n\n>PIC FILE= \"L_2002128PT.005001.TIF\">\n\n(1) JO L 237 de 21.9.2000, p. 1.\n\n(2) Normas aplicáveis: EN 60704-2-10 (medida do nível de ruído) e EN 60704-3 (verificação)."
+  },
+  "8f276859e1b2ea29": {
+   "fragment_id": "ANEXO II — FICHA",
+   "type": "divisao",
+   "heading": "ANEXO II — FICHA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — FICHA\n\nA ficha compreenderá as seguintes informações, que podem ser apresentadas sob a forma de quadro abrangendo diversos modelos do mesmo fornecedor (caso em que obedecerão à ordem especificada) ou apresentadas junto à descrição do aparelho:\n\n1. Marca comercial do fornecedor.\n\n2. Identificador de modelo do fornecedor.\n\n3. Classe de eficiência energética dos compartimentos do modelo, determinada em conformidade com o anexo IV e expressa da seguinte forma: \"Classe de eficiência energética numa escala de A (mais eficiente) a G (menos eficiente)\". Se esta informação for prestada num quadro, a apresentação pode variar, desde que seja claro que a escala vai de A (mais eficiente) a G (menos eficiente). Indicação da função de aquecimento à qual se refere a classe de eficiência energética determinada.\n\n4. Quando as informações forem apresentadas sob a forma de quadro e quando a alguns dos aparelhos dele constantes tiver sido atribuído um \"Rótulo Ecológico da União Europeia\" nos termos do Regulamento (CE) n.o 1980/2000, esta informação pode ser incluída aqui, caso em que na ponta da seta será inscrito \"Rótulo Ecológico da União Europeia\", e a entrada consistirá numa cópia do rótulo ecológico. Esta disposição não prejudicará os requisitos impostos pelo Sistema Comunitário de Atribuição de Rótulo Ecológico.\n\n5. Consumo de energia em kWh para a(s) função(ões) de aquecimento (convencional e/ou por circulação forçada de ar e/ou por vapor quente) dos compartimentos, com base na carga-normalizada, determinado em conformidade com os procedimentos de ensaio que constam das normas harmonizadas referidas no artigo 2.o\n\n6. Volume útil do compartimento em litros, determinada em conformidade com as normas harmonizadas referidas no artigo 2.o\n\n7.\n\n>POSIÇÃO NUMA TABELA>\n\nEsta seta indicadora deve ficar ao nível do correspondente tamanho do compartimento.\n\n8. Tempo de cozedura da carga-normalizada, determinado em conformidade com os procedimentos de ensaio que constam das normas harmonizadas referidas no artigo 2.o\n\n9. Se pertinente, nível de ruído, medido durante a função que determina a eficiência energética, determinado em conformidade com a Directiva 86/594/CEE(1).\n\n10. Declaração do consumo de energia quando não estiver a ser executada nenhuma função de aquecimento e o forno se encontrar no modo de consumo mínimo de energia, caso se disponha de uma adequada norma harmonizada para as perdas em modo de espera.\n\n11. Área da superfície da maior placa de pastelaria, expressa em cm2 determinada em conformidade com a norma harmonizada referida no artigo 2.o\n\nSe for incluída na ficha uma cópia da etiqueta, tanto a cores como a preto e branco, apenas se deve acrescentar a restante informação.\n\nNB:\n\nOs termos equivalentes noutras línguas aos acima indicados constam do anexo V.\n\n(1) Normas aplicáveis: EN 60704-2-10 (medida do nível de ruído) e EN 60704-3 (verificação)."
+  },
+  "63a2659d398cc96d": {
+   "fragment_id": "ANEXO III — VENDA POR CORRESPONDÊNCIA E OUTRAS FORMAS DE VENDA À DISTÂNCIA",
+   "type": "divisao",
+   "heading": "ANEXO III — VENDA POR CORRESPONDÊNCIA E OUTRAS FORMAS DE VENDA À DISTÂNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — VENDA POR CORRESPONDÊNCIA E OUTRAS FORMAS DE VENDA À DISTÂNCIA\n\nOs catálogos de venda por correspondência, as comunicações, as ofertas escritas e os anúncios na internet ou noutros meios electrónicos, conforme refere o n.o 4 do artigo 3.o, incluindo as ofertas de fornos de encastrar para cozinhas integradas, devem conter as seguintes informações, a prestar segundo a ordem especificada:\n\n>POSIÇÃO NUMA TABELA>\n\nSe for fornecida outra informação contida na ficha, essa informação deve respeitar a forma definida no anexo II e ser incluída no quadro supra segundo a ordem requerida para a ficha.\n\nNB:\n\nOs termos equivalentes noutras línguas aos acima indicados constam do anexo V."
+  },
+  "3674dcb3d664d25f": {
+   "fragment_id": "ANEXO IV — CLASSE DE EFICIÊNCIA ENERGÉTICA",
+   "type": "divisao",
+   "heading": "ANEXO IV — CLASSE DE EFICIÊNCIA ENERGÉTICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — CLASSE DE EFICIÊNCIA ENERGÉTICA\n\nA classe de eficiência energética de uma cavidade é determinada pelas seguintes tabelas:\n\nTabela 1 - Fornos com cavidade de pequeno volume\n\n>POSIÇÃO NUMA TABELA>\n\nTabela 2 - Fornos com cavidade de médio volume\n\n>POSIÇÃO NUMA TABELA>\n\nTabela 3 - Fornos com cavidade de grande volume\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "4a4895775acb9f17": {
+   "fragment_id": "ANEXO V — TRADUÇÃO DE TERMOS A UTILIZAR NA ETIQUETA E NA FICHA",
+   "type": "divisao",
+   "heading": "ANEXO V — TRADUÇÃO DE TERMOS A UTILIZAR NA ETIQUETA E NA FICHA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — TRADUÇÃO DE TERMOS A UTILIZAR NA ETIQUETA E NA FICHA\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "1cf9f9d587f9d208": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2002L0040 — PT — 01.01.2015 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32002L0040) [DIRECTIVA 2002/40/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/32002L0040) [de 8 de Maio de 2002](http://publications.europa.eu/resource/celex/32002L0040) [relativa à aplicação da Directiva 92/75/CEE do Conselho no que respeita à etiquetagem energética dos fornos eléctricos para uso doméstico](http://publications.europa.eu/resource/celex/32002L0040) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32002L0040) (JO L 128, 15.5.2002, p.45)\n\n**revogado por:**\n\n- [Regulamento Delegado (UE) n.o 65/2014 da Comissão de 1 de outubro de 2013](http://publications.europa.eu/resource/celex/32014R0065) — L 29 — 1 — 31.1.2014"
+  }
+ }
+}

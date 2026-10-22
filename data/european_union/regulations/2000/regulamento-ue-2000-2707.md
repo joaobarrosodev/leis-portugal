@@ -36,6 +36,137 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-08-01'
+version_history:
+  file: regulamento-ue-2000-2707.versoes.json
+  count: 7
+  source_lastmod: '2008-08-01'
+  versions:
+  - date: '2000-12-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-01'
+    amending: eu:celex:32004R0816:por
+    amending_title: REGULAMENTO (CE) N. o 816/2004 DA COMISSÃO de 29 de Abril de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Beneficiários da ajuda
+    - Altera Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda
+    - Altera Artigo 4.º — Montante da ajuda
+    - Altera Artigo 14.º — Medidas de controlo
+    - Altera Artigo 15.º — Comunicações
+    - Altera Artigo 17.º — Entrada em vigor
+    - Adita Artigo 5.º
+    - Adita ANEXO I
+    - Adita Lista dos produtos que podem beneficiar da ajuda comunitária
+    - Adita Categoria I
+    - Adita Categoria II
+    - Adita Categoria III
+    - Adita Categoria IV
+    - Adita Categoria V
+    - Adita Categoria VI
+    - Adita Categoria VII
+    - Adita Categoria VIII
+    - Adita Categoria IX
+    - Adita Categoria X
+    - Adita Categoria XI
+    - Adita Categoria XII
+    - Adita ANEXO II
+    - 'Adita A. Montantes da ajuda para o período de 1 de Maio de 2004 a 30 de Junho de 2004:'
+    - 'Adita B. Montantes da ajuda para o período de 1 de Julho de 2004 a 30 de Junho de 2005:'
+    - 'Adita C. Montantes da ajuda para o período de 1 de Julho de 2005 a 30 de Junho de 2006:'
+    - 'Adita D. Montantes da ajuda para o período de 1 de Julho de 2006 a 30 de Junho de 2007:'
+    - 'Adita E. Montantes da ajuda a partir de 1 de Julho de 2007:'
+    - Adita Notas
+    - Suprime Artigo 5.º — Aplicação da quantidade máxima subvencionada
+    - Suprime ANEXO — LISTA DOS PRODUTOS QUE PODEM BENEFICIAR DA AJUDA COMUNITÁRIA
+  - date: '2006-01-01'
+    amending: eu:celex:32005R2107:por
+    amending_title: REGULAMENTO (CE) N. o 2107/2005 DA COMISSÃO de 21 de Dezembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda
+    - Altera Categoria VIII
+    - Altera Notas
+  - date: '2006-06-30'
+    amending: eu:celex:32006R0943:por
+    amending_title: REGULAMENTO (CE) N. o 943/2006 DA COMISSÃO de 26 de Junho de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda
+    - Altera Artigo 4.º — Montante da ajuda
+    - Altera Categoria VIII
+    - Altera Notas
+  - date: '2007-06-25'
+    amending: eu:celex:32007R0704:por
+    amending_title: REGULAMENTO (CE) N. o 704/2007 DA COMISSÃO de 21 de Junho de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda
+    - Altera Artigo 4.º — Montante da ajuda
+    - Altera Categoria VIII
+    - Altera Notas
+  - date: '2008-01-01'
+    amending: eu:celex:32007R1544:por
+    amending_title: REGULAMENTO (CE) N. o 1544/2007 DA COMISSÃO de 20 de Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Montante da ajuda
+    - Altera Artigo 5.º
+    - Altera Categoria I
+    - Altera Categoria II
+    - Altera Categoria III
+    - Altera Categoria IV
+    - Altera Categoria V
+    - Altera Categoria VI
+    - Altera Notas
+    - Adita Artigo 3.º
+    - Adita Montantes da ajuda
+    - Suprime Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda
+    - Suprime Categoria VII
+    - Suprime Categoria VIII
+    - Suprime Categoria IX
+    - Suprime Categoria X
+    - Suprime Categoria XI
+    - Suprime Categoria XII
+    - 'Suprime A. Montantes da ajuda para o período de 1 de Maio de 2004 a 30 de Junho de 2004:'
+    - 'Suprime B. Montantes da ajuda para o período de 1 de Julho de 2004 a 30 de Junho de 2005:'
+    - 'Suprime C. Montantes da ajuda para o período de 1 de Julho de 2005 a 30 de Junho de 2006:'
+    - 'Suprime D. Montantes da ajuda para o período de 1 de Julho de 2006 a 30 de Junho de 2007:'
+    - 'Suprime E. Montantes da ajuda a partir de 1 de Julho de 2007:'
+  - date: '2008-08-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Beneficiários da ajuda
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º — Montante da ajuda
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º — Condições gerais para a concessão da ajuda
+    - Suprime Artigo 7.º — Aprovação dos requerentes
+    - Suprime Artigo 8.º — Condições gerais de aprovação
+    - Suprime Artigo 9.º — Condições específicas para a aprovação de determinados requerentes
+    - Suprime Artigo 10.º — Suspensão e revogação da aprovação
+    - Suprime Artigo 11.º — Pedido de pagamento
+    - Suprime Artigo 12.º — Pagamento da ajuda
+    - Suprime Artigo 13.º — Pagamento de adiantamentos
+    - Suprime Artigo 14.º — Medidas de controlo
+    - Suprime Artigo 15.º — Comunicações
+    - Suprime Artigo 16.º — Revogação
+    - Suprime Artigo 17.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime Lista dos produtos que podem beneficiar da ajuda comunitária
+    - Suprime Categoria I
+    - Suprime Categoria II
+    - Suprime Categoria III
+    - Suprime Categoria IV
+    - Suprime Categoria V
+    - Suprime Categoria VI
+    - Suprime ANEXO II
+    - Suprime Montantes da ajuda
+    - Suprime Notas
 identifiers:
   celex: 32000R2707
   eli: http://data.europa.eu/eli/reg/2000/2707/oj
@@ -50,7 +181,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8978b10b-40fa-4509-b410-cff216a7578f.0009
   content_url: http://publications.europa.eu/resource/cellar/11b12332-02c8-4ef9-8d10-35630d893c92.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R2707-20080801
-  retrieved_at: '2026-10-22T02:57:00Z'
+  retrieved_at: '2026-10-22T14:49:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T09:47:01.064+01:00'
 integrity:
@@ -59,9 +190,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:00Z'
-  notes: Texto consolidado 02000R2707-20080801.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:40Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2000-2707.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -169,16 +300,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:00Z'
+  checked_at: '2026-10-22T14:49:40Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02000R2707-20001219: versão indisponível (Sem expressão na língua por para CELEX 02000R2707-20001219.)'
   errors: []
 ---
 

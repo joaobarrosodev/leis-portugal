@@ -1,0 +1,148 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997L0016:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997L0016-19970526",
+ "dre_path": null,
+ "source_lastmod": "1997-05-26",
+ "versions": [
+  {
+   "date": "1997-05-06",
+   "future": false,
+   "celex": "31997L0016",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "eb7cfa3443419a06",
+    "a30d6b988a10620e",
+    "7e483657d2938c01",
+    "3fd4410c47cd8f4b",
+    "8ea76b6cf4b0a1e8",
+    "ac5050a696522f2f"
+   ]
+  },
+  {
+   "date": "1997-05-26",
+   "future": false,
+   "celex": "01997L0016-19970526",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º"
+   ],
+   "fragments": [
+    "d9f8b24b123f2eec",
+    "c8b6d8737294c5d8",
+    "ec44075e7bf30c1a",
+    "6e886ba83429c4ba",
+    "6b3432b44f9ce2b3",
+    "78a5f267b57059f9"
+   ]
+  }
+ ],
+ "fragments": {
+  "eb7cfa3443419a06": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 97/16/CE do Parlamento Europeu e do Conselho de 10 de Abril de 1997 que altera pela décima quinta vez a Directiva 76/769/CEE do Conselho relativa à limitação da colocação no mercado e da utilização de algumas substâncias e preparações perigosas** *Jornal Oficial nº L 116 de 06/05/1997 p. 0031 - 0032*\n\nDIRECTIVA 97/16/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de Abril de 1997 que altera pela décima quinta vez a Directiva 76/769/CEE do Conselho relativa à limitação da colocação no mercado e da utilização de algumas substâncias e preparações perigosas\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente, o seu artigo 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºB do Tratado (3),\n\nConsiderando que o artigo 7ºA do Tratado estabelece um espaço sem fronteiras internas no qual é assegurada a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais;\n\nConsiderando que todos os Estados-membros, com excepção da Áustria, da Finlândia, Grécia, da Itália e do Luxemburgo, são partes na Convenção para a prevenção da poluição marinha de origem telúrica (Convenção de Paris de 1974); que a Comissão de Paris, órgão executivo da Convenção de Paris, considera que a poluição devida ao hexacloroetano e às substâncias que podem formar-se em consequência da sua aplicação deve ser eliminada nos termos do nº 1, alínea a), do artigo 4º da Convenção de Paris; que o Conselho, através de mandato adoptado em 4 de Março de 1996, autorizou a Comissão a negociar uma decisão de eliminação progressiva do hexacloroetano, sob reserva de determinadas excepções, para a utilização nas indústrias de metais não ferrosos, nomeadamente nas fundições de alumínio não integradas e para determinadas ligas de magnésio; que, em resultado das negociações realizadas na reunião das Comissões de Oslo e de Paris em Oslo, em Junho de 1996, foi adoptada a Decisão PARCOM 96/1 relativa à eliminação progressiva do hexacloroetano na indústria dos metais não ferrosos, substituindo as Decisões PARCOM 92/4 e 93/1 em vigor nessa matéria; que a Decisão PARCOM 96/1 prevê que a necessidade de excepções à proibição da utilização do hexacloroetano seja reexaminada em 1998;\n\nConsiderando que as restrições impostas aos Estados-membros em matéria de colocação do hexacloroetano no mercado para utilização nas indústrias dos metais não ferrosos afectam directamente o funcionamento do mercado interno; que, por conseguinte, é necessário proceder à aproximação das legislações dos Estados-membros neste domínio e alterar o anexo I da Directiva 76/769/CEE (4);\n\nConsiderando que, atendendo ao âmbito e aos efeitos da acção proposta, as medidas comunitárias previstas na presente directiva são não apenas necessárias mas também indispensáveis para a realização dos objectivos definidos; que esses objectivos não podem ser atingidos individualmente pelos Estados-membros; que, além disso, a sua realização a nível comunitário já está prevista na Directiva 76/769/CEE,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "a30d6b988a10620e": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO anexo I da Directiva 76/769/CEE é alterado nos termos do anexo da presente directiva."
+  },
+  "7e483657d2938c01": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nOs Estados-membros adoptarão e publicarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, em 31 de Dezembro de 1997. Desse facto informarão imediatamente a Comissão.\n\nOs Estados-membros aplicarão essas disposições a partir de 1 de Janeiro de 1998.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "3fd4410c47cd8f4b": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "8ea76b6cf4b0a1e8": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 10 de Abril de 1997.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nJ. M. GIL-ROBLES\n\nPelo Conselho\n\nO Presidente\n\nA. VAN DOK VAN WEELE\n\n(1) JO nº C 382 de 31. 12. 1994, p. 35 e\n\nJO nº C 12 de 17. 1. 1996, p. 12.\n\n(2) JO nº C 236 de 11. 9. 1995, p. 12.\n\n(3) Parecer do Parlamento Europeu de 20 de Setembro de 1995 (JO nº C 269 de 16. 10. 1995, p. 63), posição comum do Conselho de 26 de Novembro de 1996 (JO nº C 41 de 10. 2. 1997, p. 1), decisão do Parlamento Europeu de 16 de Janeiro de 1997 (JO nº C 33 de 3. 2. 1997) e decisão do Conselho de 13 de Março de 1997.\n\n(4) JO nº L 262 de 27. 9. 1976, p. 201. Directiva com a última redacção que lhe foi dada pela Directiva 94/60/CE (JO nº L 365 de 31. 12. 1994, p. 1)."
+  },
+  "ac5050a696522f2f": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nNo anexo I da Directiva 76/769/CEE, é aditada a seguinte substância:\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "d9f8b24b123f2eec": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1997L0016 — PT — 26.05.1997 — 000.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0016:PT:NOT) [DIRECTIVA 97/16/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de Abril de 1997 que altera pela décima quinta vez a Directiva 76/769/CEE do Conselho relativa à limitação da colocação no mercado e da utilização de algumas substâncias e preparações perigosas](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0016:PT:NOT) (JO L 116, 6.5.1997, p.31)\n\nRectificado por:\n\n[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0016R(01):PT:NOT) [Rectificação, JO L 268, 1.10.1997, p. 38 (97/16)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0016R(01):PT:NOT)\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0016:PT:NOT)\n\nDIRECTIVA 97/16/CE DO PARLAMENTO EUROPEU E DO CONSELHO\n\nde 10 de Abril de 1997\n\nque altera pela décima quinta vez a Directiva 76/769/CEE do Conselho relativa à limitação da colocação no mercado e da utilização de algumas substâncias e preparações perigosas\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente, o seu artigo 100.oA,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/c3c73ae6-d29f-44da-9e06-9008642dff4d.0010.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([2](http://publications.europa.eu/resource/cellar/c3c73ae6-d29f-44da-9e06-9008642dff4d.0010.02/DOC_1#E0002)),\n\nDeliberando nos termos do procedimento previsto no artigo 189.oB do Tratado ([3](http://publications.europa.eu/resource/cellar/c3c73ae6-d29f-44da-9e06-9008642dff4d.0010.02/DOC_1#E0003)),\n\nConsiderando que o artigo 7.oA do Tratado estabelece um espaço sem fronteiras internas no qual é assegurada a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais;\n\nConsiderando que todos os Estados-membros, com excepção da Áustria, da Finlândia, Grécia, da Itália e do Luxemburgo, são partes na Convenção para a prevenção da poluição marinha de origem telúrica (Convenção de Paris de 1974); que a Comissão de Paris, órgão executivo da Convenção de Paris, considera que a poluição devida ao hexacloroetano e às substâncias que podem formar-se em consequência da sua aplicação deve ser eliminada nos termos do n.o 1, alínea a), do artigo 4.o da Convenção de Paris; que o Conselho, através de mandato adoptado em 4 de Março de 1996, autorizou a Comissão a negociar uma decisão de eliminação progressiva do hexacloroetano, sob reserva de determinadas excepções, para a utilização nas indústrias de metais não ferrosos, nomeadamente nas fundições de alumínio não integradas e para determinadas ligas de magnésio; que, em resultado das negociações realizadas na reunião das Comissões de Oslo e de Paris em Oslo, em Junho de 1996, foi adoptada a Decisão PARCOM 96/1 relativa à eliminação progressiva do hexacloroetano na indústria dos metais não ferrosos, substituindo as Decisões PARCOM 92/4 e 93/1 em vigor nessa matéria; que a Decisão PARCOM 96/1 prevê que a necessidade de excepções à proibição da utilização do hexacloroetano seja reexaminada em 1998;\n\nConsiderando que as restrições impostas aos Estados-membros em matéria de colocação do hexacloroetano no mercado para utilização nas indústrias dos metais não ferrosos afectam directamente o funcionamento do mercado interno; que, por conseguinte, é necessário proceder à aproximação das legislações dos Estados-membros neste domínio e alterar o anexo I da Directiva 76/769/CEE ([4](http://publications.europa.eu/resource/cellar/c3c73ae6-d29f-44da-9e06-9008642dff4d.0010.02/DOC_1#E0004));\n\nConsiderando que, atendendo ao âmbito e aos efeitos da acção proposta, as medidas comunitárias previstas na presente directiva são não apenas necessárias mas também indispensáveis para a realização dos objectivos definidos; que esses objectivos não podem ser atingidos individualmente pelos Estados-membros; que, além disso, a sua realização a nível comunitário já está prevista na Directiva 76/769/CEE,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "c8b6d8737294c5d8": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 76/769/CEE é alterado nos termos do anexo da presente directiva."
+  },
+  "ec44075e7bf30c1a": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-membros adoptarão e publicarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, em 31 de Dezembro de 1997. Desse facto informarão imediatamente a Comissão.\n\nOs Estados-membros aplicarão essas disposições a partir de 1 de Janeiro de 1998.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "6e886ba83429c4ba": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "6b3432b44f9ce2b3": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "78a5f267b57059f9": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nNo anexo I da Directiva 76/769/CEE, é aditada a seguinte substância:\n\n[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:20::NOT) «41 Hexacloroetano ◄ CAS n.o 67-72-1 Einecs n.o 2006664 É proibida a utilização desta substância na produção ou na transformação de metais não ferrosos Em derrogação, os Estados-membros podem autorizar, nos respectivos territórios, a utilização de hexacloroetano (HCE): — nas fundições de alumínio não integradas que produzam vazamentos especializados para utilizações que exijam normas de qualidade e de segurança elevadas e consumam,em média, menos de 1,5 Kg de HCE por dia. Tendo em conta a evolução dos conhecimentos e das técnicas no domínio dos produtos de substituição, a Comissão procederá, de acordo com os Estados-membros e no âmbito da PARCOM, ao reexame desta derrogação até 31 de Dezembro de 1998, — na fase de refinação do grão do processo de produção das ligas de magnésio AZ 81, AZ 91 e AZ 92. Tendo em conta a evolução dos conhecimentos e das técnicas no domínio dos produtos de substituição, a Comissão procederá, de acordo com os Estados-membros e no âmbito da PARCOM, ao reexame desta derrogação até 31 de Dezembro de 1998.»\n\n([1](http://publications.europa.eu/resource/cellar/c3c73ae6-d29f-44da-9e06-9008642dff4d.0010.02/DOC_1#src.E0001)) JO n.o C 382 de 31. 12. 1994, p. 35 e\n\nJO n.o C 12 de 17. 1. 1996, p. 12\n\n.\n\n([2](http://publications.europa.eu/resource/cellar/c3c73ae6-d29f-44da-9e06-9008642dff4d.0010.02/DOC_1#src.E0002)) JO n.o C 236 de 11. 9. 1995, p. 12.\n\n([3](http://publications.europa.eu/resource/cellar/c3c73ae6-d29f-44da-9e06-9008642dff4d.0010.02/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 20 de Setembro de 1995 (JO n.o C 269 de 16. 10. 1995, p. 63), posição comum do Conselho de 26 de Novembro de 1996 (JO n.o C 41 de 10. 2. 1997, p. 1), decisão do Parlamento Europeu de 16 de Janeiro de 1997 (JO n.o C 33 de 3. 2. 1997) e decisão do Conselho de 13 de Março de 1997.\n\n([4](http://publications.europa.eu/resource/cellar/c3c73ae6-d29f-44da-9e06-9008642dff4d.0010.02/DOC_1#src.E0004)) JO n.o L 262 de 27. 9. 1976, p. 201. Directiva com a última redacção que lhe foi dada pela Directiva 94/60/CE (JO n.o L 365 de 31. 12. 1994, p. 1)."
+  }
+ }
+}

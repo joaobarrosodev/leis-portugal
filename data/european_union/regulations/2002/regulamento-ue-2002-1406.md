@@ -35,6 +35,92 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-10-06'
+version_history:
+  file: regulamento-ue-2002-1406.versoes.json
+  count: 4
+  source_lastmod: '2016-10-06'
+  versions:
+  - date: '2002-08-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-12-31'
+    amending: eu:celex:32003R1644:por
+    amending_title: REGULAMENTO (CE) N. o 1644/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Julho de 2003; REGULAMENTO
+      (CE) N. o 724/2004 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de Março de 2004; REGULAMENTO (CE) N. o 2038/2006 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 18 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivos
+    - Altera Artigo 4.º — Transparência e protecção das informações
+    - Altera Artigo 9.º — Línguas
+    - Altera Artigo 10.º — Criação e competências do Conselho de Administração
+    - Altera Artigo 11.º — Composição do Conselho de Administração
+    - Altera Artigo 15.º — Funções e competências do director executivo
+    - Altera Artigo 16.º — Nomeação do Director Executivo
+    - Altera Artigo 17.º — Participação de países terceiros
+    - Altera Artigo 18.º — Orçamento
+    - Altera Artigo 21.º — Disposições financeiras
+    - Altera Artigo 22.º — Avaliação
+    - Altera Artigo 24.º — Entrada em vigor
+    - Adita CAPÍTULO I
+    - Adita OBJECTIVOS E FUNÇÕES
+    - Adita Artigo 2.º
+    - Adita CAPÍTULO II
+    - Adita ESTRUTURA INTERNA E FUNCIONAMENTO
+    - Adita CAPÍTULO III
+    - Adita DISPOSIÇÕES FINANCEIRAS
+    - Adita Artigo 19.º — Execução e controlo do orçamento
+    - Adita CAPÍTULO IV
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita Notas
+    - Suprime CAPÍTULO I — OBJECTIVOS E FUNÇÕES
+    - Suprime Artigo 2.º — Funções
+    - Suprime CAPÍTULO II — ESTRUTURA INTERNA E FUNCIONAMENTO
+    - Suprime CAPÍTULO III — DISPOSIÇÕES FINANCEIRAS
+    - Suprime Artigo 19.º — Execução e controlo orçamental
+    - Suprime CAPÍTULO IV — DISPOSIÇÕES FINAIS
+  - date: '2013-03-01'
+    amending: eu:celex:32013R0100:por
+    amending_title: REGULAMENTO (UE) N. o 100/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de janeiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Transparência e protecção das informações
+    - Altera Artigo 5.º — Estatuto jurídico, centros regionais
+    - Altera Artigo 9.º — Línguas
+    - Altera Artigo 10.º — Criação e competências do Conselho de Administração
+    - Altera Artigo 11.º — Composição do Conselho de Administração
+    - Altera Artigo 13.º — Reuniões
+    - Altera Artigo 15.º — Funções e competências do director executivo
+    - Altera Artigo 18.º — Orçamento
+    - Altera Artigo 21.º — Disposições financeiras
+    - Altera Artigo 22.º — Avaliação
+    - Altera Notas
+    - Adita Artigo 1.º — Objetivos
+    - Adita Artigo 2.º — Funções principais da Agência
+    - Adita Artigo 2.º-A — Funções acessórias da Agência
+    - Adita Artigo 3.º — Visitas aos Estados-Membros e inspeções
+    - Adita Artigo 16.º — Nomeação e demissão do diretor executivo e dos chefes de departamento
+    - Adita Artigo 22.º-A — Relatório intercalar
+    - Suprime Artigo 1.º — Objectivos
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º — Visitas aos Estados-Membros
+    - Suprime Artigo 16.º — Nomeação do Director Executivo
+    - Suprime Artigo 23.º — Início da actividade da Agência
+  - date: '2016-10-06'
+    amending: eu:celex:32016R1625:por
+    amending_title: REGULAMENTO (UE) 2016/1625 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de setembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Funções principais da Agência
+    - Altera Artigo 2.º-A — Funções acessórias da Agência
+    - Altera Artigo 3.º — Visitas aos Estados-Membros e inspeções
+    - Altera Artigo 4.º — Transparência e protecção das informações
+    - Altera Artigo 9.º — Línguas
+    - Altera Artigo 10.º — Criação e competências do Conselho de Administração
+    - Altera Artigo 21.º — Disposições financeiras
+    - Altera Notas
+    - Adita Artigo 2.º-B — Cooperação europeia no que se refere a funções de guarda costeira
 identifiers:
   celex: 32002R1406
   eli: http://data.europa.eu/eli/reg/2002/1406/oj
@@ -49,7 +135,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0961f86e-0f88-4bab-b291-b792303329a2.0010
   content_url: http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R1406-20161006
-  retrieved_at: '2026-10-22T02:47:30Z'
+  retrieved_at: '2026-10-22T14:53:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T09:51:16.377+01:00'
 integrity:
@@ -58,9 +144,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:30Z'
-  notes: Texto consolidado 02002R1406-20161006.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:53:02Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2002-1406.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -188,33 +274,21 @@ relationships:
   date: '2025-12-29'
 article_structure:
   article_count: 26
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:30Z'
-  warnings: []
+  checked_at: '2026-10-22T14:53:02Z'
+  warnings:
+  - '02002R1406-20031001: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R1406-20040519: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 1406/2002 do Parlamento Europeu e do Conselho, de 27 de Junho de 2002
-
-> 2002R1406 — PT — 06.10.2016 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003R1644) — [REGULAMENTO (CE) N.º 1644/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Julho de 2003](http://publications.europa.eu/resource/celex/32003R1644) — L 245 — 10 — 29.9.2003
-- [►M2](http://publications.europa.eu/resource/celex/32004R0724) — [REGULAMENTO (CE) N.º 724/2004 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de Março de 2004](http://publications.europa.eu/resource/celex/32004R0724) — L 129 — 1 — 29.4.2004
-- [M3](http://publications.europa.eu/resource/celex/32006R2038) — [REGULAMENTO (CE) N.º 2038/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R2038) — L 394 — 1 — 30.12.2006
-- [►M4](http://publications.europa.eu/resource/celex/32013R0100) — [REGULAMENTO (UE) N.º 100/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de janeiro de 2013](http://publications.europa.eu/resource/celex/32013R0100) — L 39 — 30 — 9.2.2013
-- [►M5](http://publications.europa.eu/resource/celex/32016R1625) — [REGULAMENTO (UE) 2016/1625 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de setembro de 2016](http://publications.europa.eu/resource/celex/32016R1625) — L 251 — 77 — 16.9.2016
-
-## REGULAMENTO (CE) n.º 1406/2002 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 27 de Junho de 2002
 

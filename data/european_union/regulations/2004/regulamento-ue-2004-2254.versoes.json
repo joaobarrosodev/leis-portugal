@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004R2254:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R2254-20041230",
+ "dre_path": null,
+ "source_lastmod": "2004-12-30",
+ "versions": [
+  {
+   "date": "2004-12-29",
+   "future": false,
+   "celex": "32004R2254",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9eaa3c7495740978",
+    "96ff352029ee2c70",
+    "d1c46629f1703601",
+    "3a6802d72580589f"
+   ]
+  }
+ ],
+ "fragments": {
+  "9eaa3c7495740978": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Dezembro de 2004\n\nque altera o Regulamento (CEE) n.º 2092/91 do Conselho relativo ao modo de produção biológico de produtos agrícolas e à sua indicação nos produtos agrícolas e nos géneros alimentícios\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CEE) n.º 2092/91 do Conselho, de 24 de Junho de 1991, relativo ao modo de produção biológico de produtos agrícolas e à sua indicação nos produtos agrícolas e nos géneros alimentícios [([^1])](http://publications.europa.eu/resource/cellar/ef940e19-24fe-400c-aa97-0951524b198c.0016.03/DOC_1#ntr1-L_2004385PT.01002001-E0001), nomeadamente o segundo travessão do artigo 13.º,\n\nConsiderando o seguinte:\n\n(1) As regras harmonizadas da criação de animais segundo o modo de produção biológico são ainda bastante recentes e o estado de desenvolvimento do sector ainda não permite que esteja disponível no mercado uma diversidade suficiente de animais criados segundo esse modo de produção. Continua, portanto, a ser necessário apoiar o desenvolvimento da criação de animais segundo o modo de produção biológico.\n\n(2) O Regulamento (CE) n.º 2277/2003 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/ef940e19-24fe-400c-aa97-0951524b198c.0016.03/DOC_1#ntr2-L_2004385PT.01002001-E0002), que alterou os anexos I e II do Regulamento (CEE) n.º 2092/91, prorrogou, até 31 de Dezembro de 2004, o período de transição durante o qual é permitida a introdução, no sistema de produção biológico, de animais criados segundo modos de produção convencionais. Todavia, a prorrogação revelou-se insuficiente, nomeadamente no que respeita à produção de aves de capoeira, a qual compreende várias fases, em que estão envolvidos diversos sectores especializados.\n\n(3) Continua, portanto, a ser necessário recorrer a animais criados segundo modos de produção convencionais. As disposições relativas à origem dos animais devem ser alteradas em conformidade.\n\n(4) Embora já seja possível reforçar as disposições relativas à origem das frangas destinadas à produção de ovos, as normas de produção aplicáveis a esses animais ainda não foram harmonizadas. Enquanto não se definem essas normas, é conveniente permitir a introdução de frangas criadas segundo modos de produção convencionais e destinadas à produção de ovos, com um máximo de 18 semanas, em unidades avícolas que pratiquem o modo de produção biológico, se não estiverem disponíveis frangas criadas segundo este modo de produção, mediante determinadas condições aplicáveis antes da introdução dos animais em causa no sistema de produção biológico.\n\n(5) O anexo I do Regulamento (CEE) n.º 2092/91 deve, portanto, ser alterado em conformidade.\n\n(6) Atendendo à urgência da medida, devido ao facto de algumas disposições relativas à origem dos animais expirarem em 31 de Dezembro de 2004, o presente regulamento deve entrar em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n(7) As medidas previstas no presente regulamento estão em conformidade com o parecer do comité instituído pelo artigo 14.º do Regulamento (CEE) n.º 2092/91,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "96ff352029ee2c70": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I do Regulamento (CEE) n.º 2092/91 é alterado em conformidade com o anexo do presente regulamento."
+  },
+  "d1c46629f1703601": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Janeiro de 2005.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 27 de Dezembro de 2004.\n\n***Pela Comissão***\n\n**Mariann FISCHER BOEL**\n\n***Membro da Comissão***\n\n---"
+  },
+  "3a6802d72580589f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/ef940e19-24fe-400c-aa97-0951524b198c.0016.03/DOC_1#ntc1-L_2004385PT.01002001-E0001) [JO L 198 de 22.7.1991, p. 1](http://publications.europa.eu/resource/oj/JOL_1991_198_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1481/2004 da Comissão ([JO L 272 de 20.8.2004, p. 11](http://publications.europa.eu/resource/oj/JOL_2004_272_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/ef940e19-24fe-400c-aa97-0951524b198c.0016.03/DOC_1#ntc2-L_2004385PT.01002001-E0002) [JO L 336 de 23.12.2003, p. 68](http://publications.europa.eu/resource/oj/JOL_2003_336_R_TOC)."
+  }
+ }
+}

@@ -1,0 +1,229 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996L0096:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0096-20090626",
+ "dre_path": null,
+ "source_lastmod": "2009-06-26",
+ "versions": [
+  {
+   "date": "1997-02-17",
+   "future": false,
+   "celex": "31996L0096",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2e97b30a5f97371a",
+    "283ccd78c7795b78",
+    "84e8c8de32bea5b6",
+    "f44dbef7a84b28a1",
+    "65b7b2e9b6028f20",
+    "c9f22ee6e1d28337",
+    "c0aa7e917413751d",
+    "7c4ffc8f10d4a13e",
+    "6c71d5840e62f882",
+    "42da6759398f1736",
+    "5e195aa215a9c792",
+    "2edc2960ff3f7317",
+    "4df11edb844c0c3a",
+    "156adea6ad015cc3",
+    "c9e7ba915243e6f2",
+    "82ac2897b3a51ff0",
+    "149e5175dc234db5",
+    "43047ca1bb419b4b",
+    "aa06f284e996ef4b"
+   ]
+  },
+  {
+   "date": "2009-06-26",
+   "future": false,
+   "celex": "01996L0096-20090626",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I Disposições gerais — Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime CAPÍTULO II Excepções e derrogações — Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime CAPÍTULO III Disposições finais — Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime ANEXO I — CATEGORIAS DE VEÍCULOS SUJEITOS A CONTROLO TÉCNICO E PERIODICIDADE DOS CONTROLOS",
+    "Suprime ANEXO II — PONTOS DE CONTROLO OBRIGATÓRIOS",
+    "Suprime ANEXO III — PARTE A",
+    "Suprime PARTE B — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO IV — >POSIÇÃO NUMA TABELA>"
+   ],
+   "fragments": [
+    "5e8039351fed88fa"
+   ]
+  }
+ ],
+ "fragments": {
+  "2e97b30a5f97371a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 96/96/CE do Conselho de 20 de Dezembro de 1996 relativa à aproximação das legislações dos Estados- membros respeitantes ao controlo técnico dos veículos a motor e seus reboques** *Jornal Oficial nº L 046 de 17/02/1997 p. 0001 - 0019*\n\nDIRECTIVA 96/96/CE DO CONSELHO de 20 de Dezembro de 1996 relativa à aproximação das legislações dos Estados-membros respeitantes ao controlo técnico dos veículos a motor e seus reboques\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 75º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºC do Tratado (3),\n\n(1) Considerando que a Directiva 77/143/CEE do Conselho, de 29 de Dezembro de 1976, relativa à aproximação das legislações dos Estados-membros respeitantes ao controlo técnico dos veículos a motor e seus reboques (4), foi substancialmente alterada em várias ocasiões; que, por ocasião das novas alterações, as referidas directivas devem, por razões de clareza, ser reformuladas e reunidas num único texto;\n\n(2) Considerando que, no âmbito da política comum de transportes, a circulação de determinados veículos no espaço comunitário deve efectuar-se nas melhores condições, tanto no plano da segurança como no da concorrência entre transportadores dos vários Estados-membros;\n\n(3) Considerando que o aumento da circulação rodoviária e dos perigos e dos danos que daí resultam colocam a todos os Estados-membros problemas de segurança de natureza e de gravidade análogas;\n\n(4) Considerando que as actuais normas e métodos de controlo variam de um Estado-membro para outro e que esta situação afecta a equivalência do nível de segurança e de qualidade ecológica dos veículos controlados que circulam nos vários Estados-membros; que, além disso, essa situação pode perturbar as condições de concorrência entre os transportadores dos vários Estados-membros;\n\n(5) Considerando que daí resulta a necessidade de harmonizar, na medida do possível, a periodicidade desses controlos e os pontos a controlar obrigatoriamente;\n\n(6) Considerando que os controlos a efectuar durante o período de utilização do veículo devem ser relativamente simples, rápidos e não onerosos;\n\n(7) Considerando que convém, portanto, que se definam normas e métodos comunitários mínimos para controlo dos pontos enumerados do anexo II, mediante directivas específicas;\n\n(8) Considerando que as normas nacionais continuam a ser aplicáveis transitoriamente no que diz respeito aos pontos que não foram objecto de directivas específicas;\n\n(9) Considerando que é necessário adaptar rapidamente as normas e métodos contidos nas directivas específicas ao progresso técnico e que, para facilitar a execução das medidas necessárias para esse efeito, deve ser instituído um processo de estreita cooperação entre os Estados-membros e a Comissão no âmbito de um comité para a adaptação do controlo técnico ao progresso técnico;\n\n(10) Considerando que, no que diz respeito aos sistemas de travagem, seria prematuro fixar normas relativas à regulação da pressão de ar e aos tempos de enchimento do compressor, etc., dada a variedade dos equipamentos e dos métodos de ensaio na Comunidade;\n\n(11) Considerando que se prevêem novas alterações da presente directiva, a fim de harmonizar e melhorar os métodos de controlo;\n\n(12) Considerando que, até que existam procedimentos e práticas de controlo harmonizados, os Estados-membros podem recorrer ao procedimento de controlo que considerem adequado para verificar se o veículo em questão satisfaz os requisitos de travagem;\n\n(13) Considerando que os Estados-membros, no âmbito das respectivas competências, devem garantir qualidade e o método utilizado no controlo técnico dos veículos.\n\n(14) Considerando que a Comissão deve verificar a aplicação prática da presente directiva e apresentar periodicamente um relatório ao Parlamento Europeu e ao Conselho sobre os resultados alcançados;\n\n(15) Considerando que todas as partes envolvidas no controlo técnico de veículos reconhecem que o método de controlo e, em especial, o estado de carga do veículo durante o controlo podem influenciar o grau de confiança que os controladores depositam na fiabilidade do sistema de travagem;\n\n(16) Considerando que a fixação de valores de referência para as forças de travagem adaptados ao estado de carga do veículo contribuiria para estabelecer essa confiança e que a presente directiva autoriza esse tipo de controlo técnico como alternativa à utilização de valores mínimos fixados para o comportamento funcional para cada categoria de veículos;\n\n(17) Considerando que, no que diz respeito aos sistemas de travagem, a presente directiva abrange os veículos recepcionados segundo a Directiva 71/320/CEE (5); que, no entanto, certos tipos de veículos foram recepcionados segundo normas nacionais que podem não se coadunar com a presente directiva;\n\n(18) Considerando que os Estados-membros podem tornar o controlo do sistema de travagem a categorias de veículos ou a pontos não abrangidos pela presente directiva;\n\n(19) Considerando que os Estados-membros podem prever controlos mais severos ou mais frequentes para os sistemas de travagem;\n\n(20) Considerando que a presente directiva visa manter as emissões do escape a um nível reduzido durante o período de utilização do veículo, controlando regularmente essas emissões, bem como assegurar a retirada de circulação de veículos altamente poluentes enquanto não se encontrarem em condições de manutenção correctas;\n\n(21) Considerando que uma afinação deficiente do motor assim como uma manutenção insuficiente são nocivas para o próprio motor e para o ambiente, na medida em que provocam o aumento da poluição e do consumo de energia; que é importante desenvolver meios de transporte que respeitem o ambiente;\n\n(22) Considerando que, no que respeita aos motores a gasóleo (ignição por compressão), a medição da opacidade das emissões do escape é considerada como um indicador suficiente das condições de manutenção do veículo no que se refere às emissões;\n\n(23) Considerando que, no que se refere aos motores a gasolina (ignição por faísca), a medição do monóxido de carbono das emissões do escape do veículo, com o motor em velocidade de marcha lenta sem carga, fornece informação suficiente quanto às condições de manutenção do veículo no que se refere às emissões;\n\n(24) Considerando que a percentagem de veículos recusados em função do controlo das emissões pode ser elevada para os veículos que não tenham sido sujeitos à manutenção de rotina;\n\n(25) Considerando que, no que se refere aos veículos cujos requisitos de recepção exijam que sejam equipados com sistemas avançados de controlo de emissões, tais como catalisadores de três vias em circuito fechado controlados por sonda lambda, as normas de controlo periódico das emissões devem ser mais severas do que no caso dos veículos convencionais;\n\n(26) Considerando que os Estados-membros podem, se for caso disso, excluir do âmbito de aplicação da directiva determinadas categorias de veículos de interesse histórico; que, além disso, podem igualmente fixar as suas próprias normas de controlo para esses veículos; que, esta possibilidade não deve conduzir à aplicação de normas mais rígidas do que as que o veículo devia satisfazer aquando da sua concepção;\n\n(27) Considerando que a presente directiva deve poder ser progressivamente adaptada, a fim de ter em conta os progressos realizados no plano da construção de veículos que facilitem a inspecção em funcionamento, bem como os progressos realizados na metodologia de controlo destinados a reflectir de um modo mais fiel as condições de funcionamento;\n\n(28) Considerando que a Directiva 92/6/CEE (6) prevê a instalação e utilização de dispositivos de limitação de velocidade em determinadas categorias de veículos rodoviários;\n\n(29) Considerando que, enquanto se aguarda que a evolução tecnológica dos dispositivos de limitação de velocidade permita facilitar o respectivo controlo, estes podem já, todavia, ser objecto, no âmbito do controlo técnico e quando possível, de uma série de verificações de determinados elementos;\n\n(30) Considerando que, actualmente, o controlo do funcionamento correcto dos dispositivos de limitação de velocidade é deixada aos Estados-membros, que podem utilizar os meios que considerarem adequados para o efeito; que se pretende harmonizar oportunamente as normas e os métodos de ensaio;\n\n(31) Considerando que é conveniente que a Comissão avalie o controlo em funcionamento do dispositivo de limitação de velocidade e apresentará um relatório ao Conselho; que as conclusões desse relatório constituirão a base de qualquer outra proposta posterior relativa à evolução da regulamentação aplicável aos dispositivos de limitação de velocidade;\n\n(32) Considerando que os requisitos técnicos relativos aos táxis e ambulâncias são análogos aos dos automóveis particulares; que, por isso, os pontos a controlar podem ser semelhantes, embora a frequência dos controlos seja diferente;\n\n(33) Considerando que, tendo em conta os efeitos da presente directiva sobre o sector em causa e o princípio da subsidiariedade, as medidas comunitárias previstas na presente directiva são necessárias para a harmonização das regras relativas ao controlo técnico, para impedir a distorção da concorrência entre os transportadores e garantir que os veículos sejam correctamente controlados e mantidos; que esses objectivos não podem ser atingidos na sua totalidade pelos Estados-membros individualmente;\n\n(34) Considerando que a presente directiva não deve afectar as obrigações dos Estados-membros relativas aos prazos de transposição para a legislação nacional e de aplicação indicados na parte B do anexo III,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "283ccd78c7795b78": {
+   "fragment_id": "CAPÍTULO I Disposições gerais — Artigo 1º",
+   "type": "divisao",
+   "heading": "CAPÍTULO I Disposições gerais — Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I Disposições gerais — Artigo 1º\n\n1. Em cada Estado-membro, os veículos a motor matriculados nesse Estado, bem como os seus reboques e semi-reboques, devem ser submetidos a um controlo técnico periódico, nos termos da presente directiva e seus anexos I e II.\n\n2. As categorias de veículos a controlar, a periodicidade do controlo técnico e os pontos a controlar obrigatoriamente estão indicados nos anexos I e II."
+  },
+  "84e8c8de32bea5b6": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nO controlo técnico previsto na presente directiva, deve ser efectuado pelo Estado ou por entidades de natureza pública por ele incumbidos dessa função, ou por organismos ou estabelecimentos por ele designados, eventualmente de carácter privado, autorizados para o efeito, e actuando sob a sua vigilância directa. Em particular, quando os estabelecimentos encarregados do controlo técnico funcionarem simultaneamente como oficinas de reparação de veículos, os Estados-membros assegurarão a objectividade e uma elevada qualidade do controlo."
+  },
+  "f44dbef7a84b28a1": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros tomarão as medidas que considerarem necessárias para que se possa provar que o veículo foi aprovado num controlo técnico respeitando, pelo menos, o disposto na presente directiva.\n\nEssas medidas serão comunicadas aos outros Estados-membros e à Comissão.\n\n2. Cada Estado-membro reconhecerá a prova emitida noutro Estado-membro, segundo a qual um veículo a motor, matriculado no território deste último, bem como o seu reboque ou semi-reboque, foram aprovados num controlo técnico que respeite, pelo menos, as disposições da presente directiva, como se ele próprio tivesse emitido essa prova.\n\n3. Os Estados-membros aplicarão os procedimentos adequados para garantir, na medida do possível, que o comportamento funcional da travagem dos veículos registados nos respectivos territórios preenche os requisitos da presente directiva."
+  },
+  "65b7b2e9b6028f20": {
+   "fragment_id": "CAPÍTULO II Excepções e derrogações — Artigo 4º",
+   "type": "divisao",
+   "heading": "CAPÍTULO II Excepções e derrogações — Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II Excepções e derrogações — Artigo 4º\n\n1. Os Estados-membros podem excluir do âmbito de aplicação da presente directiva os veículos das forças armadas, das forças de ordem pública e dos bombeiros.\n\n2. Os Estados-membros podem, após consulta da Comissão, excluir do âmbito de aplicação da presente directiva, ou submeter a disposições especiais, determinados veículos explorados ou utilizados em condições excepcionais bem como veículos que não utilizem nunca ou quase nunca a via pública, incluindo os veículos de interesse histórico construídos antes de 1 de Janeiro de 1960, ou temporariamente retirados da circulação.\n\n3. Os Estados-membros podem, após consulta da Comissão, definir as suas próprias normas de controlo em relação a veículos de interesse histórico."
+  },
+  "c9f22ee6e1d28337": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nNão obstante o disposto nos anexos I e II, os Estados-membros podem:\n\n- antecipar a data do primeiro controlo técnico obrigatório e, se necessário, sujeitar o veículo a um controlo prévio ao seu registo,\n\n- diminuir o intervalo entre dois controlos técnicos obrigatórios sucessivos,\n\n- tornar obrigatório o controlo técnico do equipamento facultativo,\n\n- aumentar o número de pontos a controlar,\n\n- tornar a obrigação do controlo técnico periódico exclusivo a outras categorias de veículos,\n\n- prescrever controlos especiais adicionais,\n\n- exigir valores mínimos de eficiência da travagem mais severos que os especificados no anexo II e incluir a realização do controlo com massas em carga mais elevadas em relação aos veículos registados no seu território, desde que esses valores não excedam os valores aplicáveis à recepção de tipo inicial do veículo."
+  },
+  "c0aa7e917413751d": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Em derrogação do disposto dos anexos I e II os Estados-membros podem, até 1 de Janeiro de 1993:\n\n- adiar a data do primeiro controlo técnico obrigatório,\n\n- aumentar o intervalo entre dois controlos técnicos obrigatórios sucessivos,\n\n- reduzir o número de pontos a controlar,\n\n- alterar as categorias de veículos sujeitos ao controlo técnico obrigatório,\n\ndesde que todos os veículos comerciais ligeiros referidos no ponto 5 do anexo I sejam sujeitos, antes dessa data, a um controlo técnico, nos termos da presente directiva.\n\nTodavia, o nº 1 é aplicável até 1 de Janeiro de 1995 nos Estados-membros em que, em 28 de Julho de 1988, não existia para essa categoria de veículos um sistema de controlo técnico periódico comparável ao previsto na presente directiva.\n\n2. No que diz respeito aos automóveis particulares referidos no ponto 6 do anexo I, o nº 1 é aplicável até 1 de Janeiro de 1994.\n\nTodavia, o nº 1 é aplicável até 1 de Janeiro de 1998 nos Estados-membros em que em 31 de Dezembro de 1991, não existia para essa categoria de veículos um sistema de controlo técnico periódico comparável ao previsto na presente directiva."
+  },
+  "7c4ffc8f10d4a13e": {
+   "fragment_id": "CAPÍTULO III Disposições finais — Artigo 7º",
+   "type": "divisao",
+   "heading": "CAPÍTULO III Disposições finais — Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III Disposições finais — Artigo 7º\n\n1. O Conselho, deliberando por maioria qualificada sob proposta da Comissão, adoptará as directivas específicas necessárias para definir as normas e os métodos mínimos relativos ao controlo dos pontos enumerados no anexo II.\n\n2. As alterações necessárias para adaptar ao progresso técnico as normas e os métodos definidos por directivas específicas serão adoptadas nos termos do procedimento previsto no artigo 8º"
+  },
+  "6c71d5840e62f882": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. A Comissão será assistida por um comité para a adaptação ao progresso técnico da directiva relativa ao controlo técnico dos veículos a motor e seus reboques, adiante designado «comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. O comité adoptará o seu regulamento interno.\n\n3. O representante da Comissão submete à apreciação do comité um projecto das medidas a tomar. O comité emite o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão. O parecer é emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no seio do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\n4. a) A Comissão adopta as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada.\n\nSe, no prazo de três meses a contar da data em que a proposta lhe foi submetida, o Conselho ainda não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "42da6759398f1736": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. O mais tardar até 31 de Dezembro de 1998, a Comissão apresentará ao Conselho um relatório sobre a aplicação do controlo técnico aos automóveis particulares, acompanhado de qualquer proposta necessária, nomeadamente em relação à periodicidade e ao teor dos controlos.\n\n2. O mais tardar três anos após a introdução do controlo regular dos dispositivos de limitação de velocidade, a Comissão examinará se, com base na experiência adquirida, os controlos previstos são suficientes para detectar dispositivos de limitação de velocidade defeituosos ou manipulados abusivamente e se é necessário alterar a regulamentação vigente."
+  },
+  "5e195aa215a9c792": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nAs directivas indicadas na parte A do anexo III são revogadas, sem prejuízo das obrigações dos Estados-membros relativas aos prazos de transposição e aplicação indicados na parte B do anexo III.\n\nAs referências às directivas revogadas serão consideradas como referências à presente directiva a devem ser lidas de acordo com o quadro de correspondência do anexo IV."
+  },
+  "2edc2960ff3f7317": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar até 9 de Março de 1998, e desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão os textos das principais disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva.\n\n3. Os Estados-membros adoptarão as medidas necessárias à aplicação do sistema de controlo previsto na presente directiva.\n\nAs medidas adoptadas devem ser efectivas, proporcionadas e disuasivas."
+  },
+  "4df11edb844c0c3a": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "156adea6ad015cc3": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 20 de Dezembro de 1996.\n\nPelo Conselho\n\nO Presidente\n\nS. BARRETT\n\n(1) JO nº C 193 de 4. 7. 1996, p. 5 e 31.\n\n(2) JO nº C 39 de 12. 2. 1996, p. 24.\n\n(3) Parecer do Parlamento Europeu de 29 de Fevereiro de 1996 (JO nº C 78 de 18. 3. 1996, p. 27), posição comum do Conselho de 18 de Junho de 1996 (JO nº L 248 de 26. 8. 1996, p. 49) e decisão do Parlamento Europeu de 24 de Outubro de 1996 (JO nº C 347 de 18. 11. 1996).\n\n(4) JO nº L 47 de 18. 2. 1977, p. 47. Directiva com a última redacção que lhe foi dada pela Directiva 94/23/CE (JO nº L 147 de 14. 6. 1994, p. 6).\n\n(5) Directiva 71/320/CEE do Conselho, 26 de Julho de 1971, relativa à aproximação das legislações dos Estados-membros respeitantes à travagem de certas categorias de veículos a motor e seus reboques (JO nº L 202 de 6. 9. 1971, p. 37). Directiva com a última redacção que lhe foi dada pela Directiva 91/422/CEE (JO nº L 233 de 22. 8. 1991, p. 21).\n\n(6) Directiva 92/6/CEE do Conselho, de 10 de Fevereiro de 1992, relativa à instalação e utilização de dispositivos de limitação de velocidade para certas categorias de veículos a motor na Comunidade (JO nº L 57 de 2. 3. 1992, p. 27)."
+  },
+  "c9e7ba915243e6f2": {
+   "fragment_id": "ANEXO I — CATEGORIAS DE VEÍCULOS SUJEITOS A CONTROLO TÉCNICO E PERIODICIDADE DOS CONTROLOS",
+   "type": "divisao",
+   "heading": "ANEXO I — CATEGORIAS DE VEÍCULOS SUJEITOS A CONTROLO TÉCNICO E PERIODICIDADE DOS CONTROLOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — CATEGORIAS DE VEÍCULOS SUJEITOS A CONTROLO TÉCNICO E PERIODICIDADE DOS CONTROLOS\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "82ac2897b3a51ff0": {
+   "fragment_id": "ANEXO II — PONTOS DE CONTROLO OBRIGATÓRIOS",
+   "type": "divisao",
+   "heading": "ANEXO II — PONTOS DE CONTROLO OBRIGATÓRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — PONTOS DE CONTROLO OBRIGATÓRIOS\n\nO controlo deve incidir, pelo menos, nos pontos adiante indicados, desde que digam respeito ao equipamento obrigatório do veículo sujeito a controlo no Estado-membro em questão.\n\nOs controlos referidos no presente anexo podem ser efectuados sem desmontagem de peças do veículo.\n\nCaso o veículo apresente defeitos nos pontos de controlo adiante indicados, as autoridades competentes dos Estados-membros devem adoptar um procedimento que fixe as condições nas quais o veículo é autorizado a circular até ser sujeito a um novo controlo técnico.\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\nVEÍCULOS DAS CATEGORIAS 1, 2, 3, 4, 5 E 6\n\n8.2. Emissões de gases de escape\n\n8.2.1. Veículos equipados com motores de ignição comandada (motores a gasolina)\n\na) Se as emissões de escape não forem controladas por sistemas avançados de controlo de emissões, tais como catalisadores de três vias com sonda lambda:\n\n1. Inspecção visual do sistema de escape para verificar se existem fugas.\n\n2. Se adequado, inspecção visual do sistema de controlo de emissões para verificar se os equipamentos exigidos estão instalados:\n\nApós um período razoável de condicionamento do motor (tendo em conta as recomendações do fabricante do veículo), mede-se o teor de monóxido de carbono (CO) dos gases de escape com o motor a rodar em marcha lenta (sem carga).\n\nO teor máximo admissível de CO dos gases de escape é o indicado pelo fabricante do veículo. Na ausência desta informação, ou se as autoridades competentes dos Estados-membros decidirem não o utilizar como valor de referência, o teor de CO não deve exceder os seguintes valores:\n\n- para os veículos matriculados ou postos pela primeira vez em circulação entre a data a partir da qual os Estados-membros exigiam que os veículos satisfizessem a Directiva 70/220/CEE (1) e 1 de Outubro de 1986: CO 4,5 vol %,\n\n- para os veículos matriculados ou postos pela primeira vez em circulação após 1 de Outubro de 1986: CO 3,5 vol %.\n\nb) Se as emissões de escape forem controladas por sistemas avançados de controlo de emisssões, tais como catalisadores de três vias com sonda lambda:\n\n1. Inspecção visual do sistema de escape para verificar se existem fugas e se todas as peças estão completas.\n\n2. Inspecção visual do sistema de controlo de emissões para verificar se os equipamentos exigidos estão instalados.\n\n3. Determinação da eficiência do sistema de controlo de emissões do veículo através da medição do valor lambda e do teor de CO dos gases de escape de acordo com o ponto 4 ou com os procedimentos propostos pelos fabricantes e aprovados por ocasião da recepção. Para cada um dos controlos, o motor deve ser condicionado de acordo com as recomendações do fabricante do veículo.\n\n4. Emissões do tubo de escape/valores-limite:\n\n- Medições com o motor em marcha lenta sem carga:\n\nO teor máximo admissível de CO dos gases de escape é o indicado pelo fabricante do veículo. Na ausência desta informação, ou se as autoridades competentes dos Estados-membros decidirem não o utilizar como valor de referência, o teor máximo de CO não deve exceder 0,5 vol %.\n\n- Medição com o motor acelerado sem carga, a uma velocidade de pelo menos 2 000 min-1:\n\nTeor de CO: máximo 0,3 vol %\n\nLambda: 1 ± 0,03 ou de acordo com as especificações do fabricante.\n\n8.2.2. Veículos a motor equipados com motores de ignição por compressão (motores diesel)\n\nMedição da opacidade dos gases de escape em aceleração livre (sem carga desde a velocidade de marcha lenta até à velocidade de corte). O nível de concentração não deve exceder o nível indicado na chapa, nos termos da Directiva 72/306/CEE (2). Na ausência desta informação, ou se as autoridades competentes dos Estados-membros decidirem não o utilizar como referência, os valores-limite do coeficiente de absorção são os seguintes:\n\n- Motores diesel normalmente aspirados = 2,5 m-1,\n\n- Motores diesel sobrealimentados = 3,0 m-1\n\nou valores equivalentes, caso seja utilizado um equipamento diferente do que é utilizado para a recepção CE.\n\nEstão isentos do cumprimento destes requisitos os veículos matriculados ou postos pela primeira vez em circulação antes de 1 de Janeiro de 1980.\n\n8.2.3. Equipamentos de controlo\n\nAs emissões dos veículos são controladas utilizando equipamentos concebidos para estabelecer com precisão se os valores-limite prescritos ou indicados pelo fabricante foram satisfeitos.\n\n8.2.4. Sempre que por ocasião da recepção CE, um modelo de veículo não tenha podido respeitar os valores-limite estabelecidos na presente directiva, os Estados-membros podem fixar valores-limite mais elevados para esse modelo de veículo, com base em provas fornecidas pelo fabricante. Desse facto informarão imediatamente a Comissão, que transmitirá a informação aos restantes Estados-membros.\n\n>POSIÇÃO NUMA TABELA>\n\n(1) Directiva 70/220/CEE do Conselho, de 20 de Março de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes às medidas a tomar contra a poluição do ar pelos gases provenientes dos motores de ignição comandados que equipam os veículos a motor (JO nº L 76 de 9. 3. 1970, p. 1) e rectificação (JO nº L 81 de 11. 4. 1970, p. 15). Directiva com a úlitma redacção que lhe foi dada pela Directiva 94/12/CE do Parlamento Europeu e do Conselho (JO nº L 100 de 19. 4. 1994, p. 42).\n\n(2) Directiva 72/306/CEE do Conselho, de 2 de Agosto de 1972, relativa à aproximação das legislações dos Estados-membros respeitantes às medidas a tomar contra a emissão de poluentes provenientes dos motores diesel destinados à propulsão dos veículos (JO nº L 190 de 20. 8. 1972, p. 1). Directiva com a última redacção que lhe foi dada pela Directiva 89/491/CEE da Comissão (JO nº L 238 de 15. 8. 1989, p. 43)."
+  },
+  "149e5175dc234db5": {
+   "fragment_id": "ANEXO III — PARTE A",
+   "type": "divisao",
+   "heading": "ANEXO III — PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — PARTE A\n\nDirectivas revogadas (referidas no artigo 10º)\n\nDirectiva 77/143/CEE do Conselho, de 29 de Dezembro de 1976, relativa à aproximação das legislações dos Estados-membros respeitantes ao controlo técnico dos veículos a motor e seus reboques e suas alterações sucessivas:\n\n- Directiva 88/449/CEE do Conselho,\n\n- Directiva 91/225/CEE do Conselho,\n\n- Directiva 91/328/CEE do Conselho,\n\n- Directiva 92/54/CEE do Conselho,\n\n- Directiva 92/55/CEE do Conselho,- Directiva 94/23/CE da Comissão."
+  },
+  "43047ca1bb419b4b": {
+   "fragment_id": "PARTE B — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "PARTE B — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE B — >POSIÇÃO NUMA TABELA>"
+  },
+  "aa06f284e996ef4b": {
+   "fragment_id": "ANEXO IV — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO IV — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — >POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "5e8039351fed88fa": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1996L0096 — PT — 26.06.2009 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31996L0096) [DIRECTIVA 96/96/CE DO CONSELHO](http://publications.europa.eu/resource/celex/31996L0096) [de 20 de Dezembro de 1996](http://publications.europa.eu/resource/celex/31996L0096) [relativa à aproximação das legislações dos Estados-membros respeitantes ao controlo técnico dos veículos a motor e seus reboques](http://publications.europa.eu/resource/celex/31996L0096) (JO L 046, 17.2.1997, p.1)\n\n**revogado por:**\n\n- [Directiva 2009/40/CE do Parlamento Europeu e do Conselho de 6 de Maio de 2009](http://publications.europa.eu/resource/celex/32009L0040) — L 141 — 12 — 6.6.2009"
+  }
+ }
+}

@@ -34,6 +34,46 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-12-03'
+version_history:
+  file: regulamento-ue-1969-1191.versoes.json
+  count: 2
+  source_lastmod: '2009-12-03'
+  versions:
+  - date: '1969-06-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-03'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime SECÇÃO I — Disposições gerais
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime SECÇÃO II — Princípios comuns para a eliminação ou manutenção das obrigações de serviço público
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime SECÇÃO III
+    - Suprime Artigo 9o
+    - Suprime SECÇÃO IV — Procedimentos comuns de compensação
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime SECÇÃO V — Imposição de novas obrigações de serviço público
+    - Suprime Artigo 14o
+    - Suprime SECÇÃO VI — Disposições finais
+    - Suprime Artigo 15o
+    - Suprime Artigo 16o
+    - Suprime Artigo 17o
+    - Suprime Artigo 18o
+    - Suprime Artigo 19o
+    - Suprime Artigo 20o
 identifiers:
   celex: 31969R1191
   eli: http://data.europa.eu/eli/reg/1969/1191/oj
@@ -48,7 +88,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a1ce4269-1a00-40ac-9d5a-2e6aae365eda.0011
   content_url: http://publications.europa.eu/resource/cellar/67dc0178-f421-473a-9500-1553bb040dfb.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01969R1191-20091203
-  retrieved_at: '2026-10-22T02:36:45Z'
+  retrieved_at: '2026-10-22T14:29:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T18:44:11.746+01:00'
 integrity:
@@ -57,9 +97,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:45Z'
-  notes: Texto consolidado 01969R1191-20091203.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:29:27Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1969-1191.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -243,16 +283,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:45Z'
+  checked_at: '2026-10-22T14:29:27Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01969R1191-19920701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

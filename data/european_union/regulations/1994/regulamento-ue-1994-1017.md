@@ -34,6 +34,32 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2005-01-01'
+version_history:
+  file: regulamento-ue-1994-1017.versoes.json
+  count: 2
+  source_lastmod: '2005-01-01'
+  versions:
+  - date: '1994-05-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime ANEXO
 identifiers:
   celex: 31994R1017
   eli: http://data.europa.eu/eli/reg/1994/1017/oj
@@ -48,7 +74,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8ec2062e-c82d-4ac0-ab73-0429a1ef9222.0011
   content_url: http://publications.europa.eu/resource/cellar/833fa859-eb92-4b74-a569-bc08c0a855d4.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994R1017-20050101
-  retrieved_at: '2026-10-22T02:39:26Z'
+  retrieved_at: '2026-10-22T14:43:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T11:11:31.552+01:00'
 integrity:
@@ -57,9 +83,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:26Z'
-  notes: Texto consolidado 01994R1017-20050101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:43:31Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1994-1017.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -149,16 +175,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:26Z'
+  checked_at: '2026-10-22T14:43:31Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01994R1017-19950701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01994R1017-20011229: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

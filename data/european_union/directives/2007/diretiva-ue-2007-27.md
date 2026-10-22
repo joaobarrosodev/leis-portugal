@@ -35,6 +35,40 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-09-01'
+version_history:
+  file: diretiva-ue-2007-27.versoes.json
+  count: 3
+  source_lastmod: '2008-09-01'
+  versions:
+  - date: '2007-05-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita ANEXO III
+  - date: '2008-09-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime ANEXO I
+    - Suprime ANEXO II
+    - Suprime ANEXO III
+    - Suprime Notas
 identifiers:
   celex: 32007L0027
   eli: http://data.europa.eu/eli/dir/2007/27/oj
@@ -49,7 +83,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6e3af358-5d71-47e3-a86a-44c4c8e4dfb0.0018
   content_url: http://publications.europa.eu/resource/cellar/ed794a35-6b38-4b4b-840c-2704e6c7a57e.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007L0027-20080901
-  retrieved_at: '2026-10-22T02:52:23Z'
+  retrieved_at: '2026-10-22T15:07:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-03T14:35:46.327+01:00'
 integrity:
@@ -58,9 +92,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:23Z'
-  notes: Texto consolidado 02007L0027-20080901.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:07:15Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2007-27.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -153,16 +187,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:23Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:07:15Z'
+  warnings: []
   errors: []
 ---
 

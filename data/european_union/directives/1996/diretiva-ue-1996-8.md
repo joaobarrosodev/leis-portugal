@@ -34,6 +34,47 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-06-20'
+version_history:
+  file: diretiva-ue-1996-8.versoes.json
+  count: 2
+  source_lastmod: '2007-06-20'
+  versions:
+  - date: '1996-03-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-20'
+    amending: eu:celex:32007L0029:por
+    amending_title: DIRECTIVA 2007/29/CE DA COMISSÃO Texto relevante para efeitos do EEE de 30 de Maio de 2007
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita ANEXO I
+    - Adita COMPOSIÇÃO ESSENCIAL DOS ALIMENTOS DESTINADOS A DIETAS DE RESTRIÇÃO CALÓRICA
+    - Adita 1. Energia
+    - Adita 2. Proteínas
+    - Adita 3. Gorduras
+    - Adita 4. Fibras dietéticas
+    - Adita 5. Vitaminas e minerais
+    - Adita ANEXO II
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime ANEXO I — COMPOSIÇÃO ESSENCIAL DOS ALIMENTOS DESTINADOS A DIETAS DE RESTRIÇÃO CALÓRICA
+    - Suprime ANEXO II — >POSIÇÃO NUMA TABELA>
 identifiers:
   celex: 31996L0008
   eli: http://data.europa.eu/eli/dir/1996/8/oj
@@ -48,7 +89,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9f6f0b54-5766-41a9-bdba-446d3f722bac.0011
   content_url: http://publications.europa.eu/resource/cellar/b3173edf-defa-4da5-8a2c-6ba08ed4f2d5.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0008-20070620
-  retrieved_at: '2026-10-22T02:42:20Z'
+  retrieved_at: '2026-10-22T14:44:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2018-01-23T17:37:35.489+01:00'
 integrity:
@@ -57,9 +98,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:20Z'
-  notes: Texto consolidado 01996L0008-20070620.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:44:53Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1996-8.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -117,29 +158,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/e40c30ef-a973-4aa2-8dbc-71c9daf16602
 article_structure:
   article_count: 8
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:20Z'
+  checked_at: '2026-10-22T14:44:53Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 96/8/CE da Comissão, de 26 de Fevereiro de 1996
-
-> 1996L0008 — PT — 20.06.2007 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007L0029) — [DIRECTIVA 2007/29/CE DA COMISSÃO Texto relevante para efeitos do EEE de 30 de Maio de 2007](http://publications.europa.eu/resource/celex/32007L0029) — L 139 — 22 — 31.5.2007
-
-## DIRECTIVA 96/8/CE DA COMISSÃO
 
 de 26 de Fevereiro de 1996
 

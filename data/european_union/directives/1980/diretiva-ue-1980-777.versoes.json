@@ -1,0 +1,39 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31980L0777:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01980L0777-20090716",
+ "dre_path": null,
+ "source_lastmod": "2009-07-16",
+ "versions": [
+  {
+   "date": "1980-08-30",
+   "future": false,
+   "celex": "31980L0777",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2009-07-16",
+   "future": false,
+   "celex": "01980L0777-20090716",
+   "acts": [],
+   "changes": [
+    "Adita preambulo"
+   ],
+   "fragments": [
+    "1535f235a1ae06f4"
+   ]
+  }
+ ],
+ "fragments": {
+  "1535f235a1ae06f4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1980L0777 — PT — 16.07.2009 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31980L0777) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31980L0777) [de 15 de Julho de 1980](http://publications.europa.eu/resource/celex/31980L0777) [relativa à aproximação de legislações dos Estados-membros respeitantes à exploração e à comercialização de águas minerais naturais](http://publications.europa.eu/resource/celex/31980L0777) [(80/777/CEE)](http://publications.europa.eu/resource/celex/31980L0777) (JO L 229, 30.8.1980, p.1)\n\n**revogado por:**\n\n- [Directiva 2009/54/CE do Parlamento Europeu e do Conselho de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009L0054) — L 164 — 45 — 26.6.2009"
+  }
+ }
+}

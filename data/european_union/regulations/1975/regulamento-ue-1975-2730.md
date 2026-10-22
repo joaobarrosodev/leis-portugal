@@ -33,6 +33,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-12-01'
+version_history:
+  file: regulamento-ue-1975-2730.versoes.json
+  count: 1
+  source_lastmod: '2006-12-01'
+  versions:
+  - date: '2006-12-01'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31975R2730
   eli: http://data.europa.eu/eli/reg/1975/2730/oj
@@ -47,7 +56,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b47a5225-c044-46e8-92b1-a610d8901733.0011
   content_url: http://publications.europa.eu/resource/cellar/c71c3e8a-e74b-431a-8470-93882921564d.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01975R2730-20061201
-  retrieved_at: '2026-10-22T03:02:36Z'
+  retrieved_at: '2026-10-22T14:31:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-30T12:37:10.122+02:00'
 integrity:
@@ -56,9 +65,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:02:36Z'
-  notes: Texto consolidado 01975R2730-20061201.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:31:24Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-1975-2730.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -114,16 +123,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:02:36Z'
+  checked_at: '2026-10-22T14:31:24Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '31975R2730: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01975R2730-19880101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01975R2730-19960101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

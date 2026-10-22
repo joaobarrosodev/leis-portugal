@@ -1,0 +1,481 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991L0630:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0630-20090310",
+ "dre_path": null,
+ "source_lastmod": "2009-03-10",
+ "versions": [
+  {
+   "date": "1991-12-11",
+   "future": false,
+   "celex": "31991L0630",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d1c556f27cdefe63",
+    "c16a64e70bcfe054",
+    "aad6d76b137be801",
+    "205c75cc16720938",
+    "f5f9e6061cd98c39",
+    "457a1fee45366be1",
+    "dddac9d92a5ae446",
+    "758e674c233b9c2a",
+    "11e6a0a73c1126c7",
+    "05909f3007e95104",
+    "9352c31f8c211067",
+    "96b11bc4b3282146",
+    "f2633f954e97f8b6",
+    "6c430be14dd0f466",
+    "356810b46b18370c"
+   ]
+  },
+  {
+   "date": "2003-06-05",
+   "future": false,
+   "celex": "01991L0630-20030605",
+   "acts": [
+    {
+     "id": "eu:celex:32001L0088:por",
+     "title": "DIRECTIVA 2001/88/CE DO CONSELHO de 23 de Outubro de 2001",
+     "published": null,
+     "celex": "32001L0088"
+    },
+    {
+     "id": "eu:celex:32001L0093:por",
+     "title": "DIRECTIVA 2001/93/CE DA COMISSÃO de 9 de Novembro de 2001",
+     "published": null,
+     "celex": "32001L0093"
+    },
+    {
+     "id": "eu:celex:32003R0806:por",
+     "title": "REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003",
+     "published": null,
+     "celex": "32003R0806"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 5.ºA",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita ANEXO",
+    "Adita CAPÍTULO I",
+    "Adita CONDIÇÕES GERAIS",
+    "Adita CAPÍTULO II",
+    "Adita DISPOSIÇÕES ESPECÍFICAS PARA VÁRIAS CATEGORIAS DE SUÍNOS",
+    "Adita A. VARRASCOS",
+    "Adita B. PORCAS E MARRÃS",
+    "Adita C. LEITÕES",
+    "Adita D. LEITÕES DESMAMADOS E PORCOS DE CRIAÇÃO",
+    "Adita Notas",
+    "Suprime Artigo 1o.",
+    "Suprime Artigo 2o.",
+    "Suprime Artigo 3o.",
+    "Suprime Artigo 4o.",
+    "Suprime Artigo 5o.",
+    "Suprime Artigo 6o.",
+    "Suprime Artigo 7o.",
+    "Suprime Artigo 8o.",
+    "Suprime Artigo 9o.",
+    "Suprime Artigo 10o.",
+    "Suprime Artigo 11o.",
+    "Suprime Artigo 12o.",
+    "Suprime ANEXO — CAPÍTULO I CONDIÇÕES GERAIS",
+    "Suprime CAPÍTULO II DISPOSIÇÕES ESPECÍFICAS APLICÁVEIS ÀS VÁRIAS CATEGORIAS DE PORCOS — I. VARRASCOS"
+   ],
+   "fragments": [
+    "c0d7dbdf5be1bea7",
+    "d6d72b7a6ec4a5c4",
+    "c5605321438b214e",
+    "a114f16cf41c9524",
+    "78b4d02237a55697",
+    "cacf34f1fbefcb73",
+    "ce57a57d4c22dcc0",
+    "9c920b95f3c674d3",
+    "e4d51a3b72230d9d",
+    "6e1125f77f676210",
+    "2fe7a0102e1b89b8",
+    "a98c60eb8ebdb135",
+    "dd9489899b386c9a",
+    "08b66beb65f6c7c3",
+    "10220b9774fa9034",
+    "6da92fe0e02efe2c",
+    "aa2e89cea2ff7c3c",
+    "48fa5f7b94dc8eb9",
+    "1d7ff9011988f122",
+    "84fe7da6c73f5b0f",
+    "2e968b1f6d03cc2a",
+    "7909216e62c47b53",
+    "bd03e9e000558b29",
+    "6f42a9510ebf5681"
+   ]
+  },
+  {
+   "date": "2009-03-10",
+   "future": false,
+   "celex": "01991L0630-20090310",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 5.ºA",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime ANEXO",
+    "Suprime CAPÍTULO I",
+    "Suprime CONDIÇÕES GERAIS",
+    "Suprime CAPÍTULO II",
+    "Suprime DISPOSIÇÕES ESPECÍFICAS PARA VÁRIAS CATEGORIAS DE SUÍNOS",
+    "Suprime A. VARRASCOS",
+    "Suprime B. PORCAS E MARRÃS",
+    "Suprime C. LEITÕES",
+    "Suprime D. LEITÕES DESMAMADOS E PORCOS DE CRIAÇÃO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "e24e09d39e9d80c7"
+   ]
+  }
+ ],
+ "fragments": {
+  "d1c556f27cdefe63": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 91/630/CEE do Conselho, de 19 de Novembro de 1991, relativa às normas mínimas de protecção de suínos** *Jornal Oficial nº L 340 de 11/12/1991 p. 0033 - 0038 Edição especial finlandesa: Capítulo 3 Fascículo 39 p. 0202 Edição especial sueca: Capítulo 3 Fascículo 39 p. 0202*\n\nDIRECTIVA DO CONSELHO\n\nde 19 de Novembro de 1991\n\nrelativa às normas mínimas de protecção de suínos\n\n(91/630/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43o.,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que todos os Estados-membros ratificaram a convenção europeia sobre a protecção dos animais nas explorações de criação; que a Comunidade aprovou também essa convenção pela Decisão 78/923/CEE (4) e depositou o respectivo instrumento de aprovação;\n\nConsiderando que o Parlamento Europeu, na sua resolução de 20 de Fevereiro de 1987, sobre medidas relativas ao bem-estar dos animais (5), solicitou à Comissão que apresentasse propostas sobre normas nínimas para a criação intensiva de suínos para abate;\n\nConsiderando que os suínos, enquanto animais vivos, estão incluídos na lista de produtos enumerados no anexo II do Tratado;\n\nConsiderando que a criação de suínos faz parte integrante da agricultura; que constitui uma fonte de rendimentos para parte da população agrícola;\n\nConsiderando que as diferenças que podem distorcer as condições de concorrência interferem com o bom funcionamento da organização do mercado comum de suínos e de produtos derivados;\n\nConsiderando que é necessário, por conseguinte, estabelecer normas mínimas comuns de protecção de suínos de criação e de engorda para garantir o desenvolvimento racional da produção;\n\nConsiderando que é necessario que os serviços oficiais, os produtores, os consumidores e outros interessados sejam mantidos informados da evolução registada neste sector; que a Comissão deverá, por conseguinte, com base num relatório do Comité Científico Veterinário, prosseguir activamente as investigações científicas sobre o ou os melhores sistemas de criação que permitam assegurar o bem-estar dos suínos; que convém, por conseguinte, prever um período provisório que permita à Comissão levar a cabo esta tarefa,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "c16a64e70bcfe054": {
+   "fragment_id": "Artigo 1o.",
+   "type": "artigo",
+   "heading": "Artigo 1o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o.\n\nA presente directiva estabelece as normas mínimas de protecção dos suínos confinados para efeitos de criação e de engorda."
+  },
+  "aad6d76b137be801": {
+   "fragment_id": "Artigo 2o.",
+   "type": "artigo",
+   "heading": "Artigo 2o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o.\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Porco»: um animal da espécie suína doméstica, de qualquer idade, criado para reprodução ou engorda;\n\n2.\n\n«Varrasco»: um porco macho, adulto, destinado à reprodução;\n\n3.\n\n«Marrã»: um porco fêmea, adulto, antes da primeira parição;\n\n4.\n\n«Porca»: um porco fêmea, após a primeira parição;\n\n5.\n\n«Porca em lactação»: um porco fêmea entre o período perinatal e o desmame dos leitões;\n\n6.\n\n«Porca seca e grávida»: uma porca entre o desmame dos leitões e o período perinatal;\n\n7.\n\n«Leitão»: um porco entre o nascimento e o desmame;\n\n8.\n\n«Leitão desmamado»: um porco entre o desmame e a idade de dez semanas;\n\n9.\n\n«Porco de criação»: um porco entre a idade de dez semanas e o abate ou a cobrição;\n\n10.\n\n«Autoridade competente»: a autoridade competente, na acepção do ponto 6 do artigo 2o. da Directiva 90/425/CEE (6)."
+  },
+  "205c75cc16720938": {
+   "fragment_id": "Artigo 3o.",
+   "type": "artigo",
+   "heading": "Artigo 3o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o.\n\nOs Estados-membros assegurarão que:\n\n1. - A partir de 1 de Janeiro de 1994, todas as novas explorações construídas ou reconstruídas e/ou utilizadas pela primeira vez após esta data satisfazem, pelo menos, as seguintes exigências:\n\na área livre destinada a cada leitão desmamado ou porco de criação criado em grupo deve ser, pelo menos, de:\n\n- 0,15 m² para porcos com um peso médio igual ou inferior a 10 kg,\n\n- 0,20 m² para porcos com um peso médio compreendido entre 10 e 20 kg,\n\n- 0,30 m² para porcos com um peso médio compreendido entre 20 e 30 kg,\n\n- 0,40 m² para porcos com um peso médio compreendido entre 30 e 50 kg,\n\n- 0,55 m² para porcos com um peso médio compreendido entre 50 e 85 kg,\n\n- 0,65 m² para porcos com um peso médio compreendido entre 85 e 110 kg,\n\n- 1,00 m² para porcos com um peso médio superior a 110 kg.\n\n- a partir de 1 de Janeiro de 1998, as normas mínimas acima previstas aplicam-se a todas as explorações de criação.\n\n2. A construção ou a reparação de instalações em que as porcas e as marrãs estejam amarradas seja proibida após 31 de Dezembro de 1995.\n\nContudo, a utilização de instalações construídas antes de 1 de Janeiro de 1996 e que não satisfaçam as exigências do no. 1 pode ser autorizada pela autoridade competente à luz dos resultados das inspecções previstas no no. 1 do artigo 7o. por um período que em caso algum poderá exceder a data de 31 de Dezembro de 2005.\n\nAs disposições do presente artigo não se aplicam às explorações com menos de seis porcos ou cinco porcas com os seus leitões."
+  },
+  "f5f9e6061cd98c39": {
+   "fragment_id": "Artigo 4o.",
+   "type": "artigo",
+   "heading": "Artigo 4o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o.\n\n1. Os Estados-membros assegurarão que as condições de criação de porcos sejam conformes com as disposições gerais constantes do anexo.\n\nContudo, até 30 de Junho de 1995, a autoridade competente dos Estados-membros pode autorizar derrogações às disposições dos pontos 3, 5, 8 e 11 do capítulo I do referido anexo.\n\n2. Além disso, antes da entrada em vigor da presente directiva, a Comissão determinará, em colaboração com os Estados-membros - sob forma de recomendação -, eventuais normas mínimas complementares às que constam do anexo no que se refere à protecção dos porcos."
+  },
+  "457a1fee45366be1": {
+   "fragment_id": "Artigo 5o.",
+   "type": "artigo",
+   "heading": "Artigo 5o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o.\n\nAs normas estipuladas no anexo podem ser alteradas segundo o procedimento previsto no artigo 10o., de modo a terem em conta o progresso científico."
+  },
+  "dddac9d92a5ae446": {
+   "fragment_id": "Artigo 6o.",
+   "type": "artigo",
+   "heading": "Artigo 6o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o.\n\nO mais tardar em 1 de Outubro de 1997, a Comissão apresentará ao Conselho um relatório, elaborado com base num parecer do Comité Científico Veterinário, sobre o ou os sistemas de criação intensiva que respeitam as exigências de bem-estar dos porcos do ponto de vista patológico, zootécnico, fisiológico e comportamental, bem como sobre as implicações socioeconómicas dos diferentes sistemas. Esse relatório deverá em particular tomar em consideração o bem-estar das porcas criadas em diferentes graus de confinamento e em grupo e será acompanhado de propostas apropriadas que tenham em consideração as conclusões do relatório.\n\nO Conselho deliberará por maioria qualificada sobre essas propostas, o mais tardar, três meses após a sua apresentação."
+  },
+  "758e674c233b9c2a": {
+   "fragment_id": "Artigo 7o.",
+   "type": "artigo",
+   "heading": "Artigo 7o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o.\n\n1. Os Estados-membros assegurarão que as inspecções sejam efectuadas sob a responsibilidade da autoridade competente para verificar a observância das disposições da presente directiva e do respectivo anexo.\n\nEssas inspecções, que podem ser efectuadas aquando de controlos efectuados para outros fins, devem abranger todos os anos uma amostra estatisticamente representativa dos diferentes sistemas de criação de cada Estado-membro.\n\n2. A Comissão, segundo o procedimento previsto no artigo 10o., elaborará um código contendo as regras a observar aquando das inspecções previstas no no. 1.\n\n3. De dois em dois anos, antes do último dia útil do mês de Abril, e pela primeira vez antes de 30 de Abril de 1996, os Estados-membros informarão a Comissão dos resultados das inspecções feitas nos dois anos anteriores, nos termos do disposto no presente artigo, incluindo o número de inspecções efectuadas em relação ao número de explorações existentes no seu território."
+  },
+  "11e6a0a73c1126c7": {
+   "fragment_id": "Artigo 8o.",
+   "type": "artigo",
+   "heading": "Artigo 8o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o.\n\nPara importação na Comunidade, os animais em proveniência de um país terceiro deverão ser acompanhados de um certificado emitido pela autoridade competente do país, que ateste que os animais beneficiaram de um tratamento pelo menos equivalente ao concedido aos animais de origem comunitária, tal como previsto pela presente directiva."
+  },
+  "05909f3007e95104": {
+   "fragment_id": "Artigo 9o.",
+   "type": "artigo",
+   "heading": "Artigo 9o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o.\n\nNa medida em que tal seja necessário para a aplicação uniforme da presente directiva, podem ser efectuadas inspecções in loco por peritos veterinários da Comissão, em cooperação com as autoridades competentes. Nessa ocasião, os inspectores deverão tomar, no que lhe diz respeito, medidas especiais de higiene adequadas à exclusão de quaisquer riscos de transmissão de doenças.\n\nO Estado-membro em cujo território forem efectuados controlos deve proporcionar aos peritos todo o apoio necessário ao exercício das suas funções. A Comissão informará a autoridade competente do Estado-membro em causa do resultado dos controlos efectuados.\n\nA autoridade competente do Estado-membro em causa tomará as medidas que se revelarem necessárias para atender aos resultados desses controlos.\n\nN° que se refere às relações com os países terceiros, são aplicáveis as disposições do capítulo III da Directiva 91//496/CEE (1).\n\nAs disposições gerais de aplicação do presente artigo serão fixadas segundo o procedimento no artigo 10o."
+  },
+  "9352c31f8c211067": {
+   "fragment_id": "Artigo 10o.",
+   "type": "artigo",
+   "heading": "Artigo 10o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o.\n\n1. Nos casos em que é feita referência ao procedimento definido no presente artigo, o Comité Veterinário Permanente, instituído pela Decisão 68/361/CEE (2), a seguir denominado «comité», será chamado a pronunciar-se pelo seu presidente, quer por sua própria iniciativa quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no no. 2 do artigo 148o. do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3. A Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do comité.\n\n4. Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este último ainda não tiver deliberado, a Comissão adoptará as medidas propostas, excepto no caso de o Conselho se ter pronunciado por maioria simples contra as referidas medidas."
+  },
+  "96b11bc4b3282146": {
+   "fragment_id": "Artigo 11o.",
+   "type": "artigo",
+   "heading": "Artigo 11o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o.\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas, incluindo eventuais sanções, necessárias para dar cumprimento à presente directiva, o mais tardar em 1 de Janeiro de 1994. Do facto informarão imediatamente a Comissão.\n\nAs disposições a adoptar pelos Estados-membros devem conter uma referência à presente directiva ou ser acompanhadas de tal referência aquando da sua publicação oficial. As modalidades dessa referência serão determinadas pelos Estados-membros.\n\n2. Todavia, a partir da data fixada no no. 1 e no que se refere à protecção dos porcos, os Estados-membros podem, na observância das regras gerais do Tratado, manter ou aplicar no seu território disposições mais rigorosas do que as previstas na presente directiva. Informarão a Comissão de todas as medidas tomadas nesse sentido."
+  },
+  "f2633f954e97f8b6": {
+   "fragment_id": "Artigo 12o.",
+   "type": "artigo",
+   "heading": "Artigo 12o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o.\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 19 de Novembro de 1991.\n\nPelo Conselho\n\nO Presidente\n\nP. BUKMAN\n\n(1) JO no. C 214 de 21. 8. 1989, p. 31.\n\n(2) JO no. C 113 de 7. 5. 1990, p. 183.\n\n(3) JO no. C 62 de 12. 3. 1990, p. 40.\n\n(4) JO no. L 323 de 17. 11. 1978, p. 12.\n\n(5) JO no. C 76 de 23. 3. 1987, p. 185.\n\n(6) JO no. L 224 de 18. 8. 1990, p. 29. Directiva com a última redacção que lhe foi dada pela Directiva 91/496/CEE (JO no. L 268 de 24. 9. 1991, p. 56.).\n\n(1) JO no. L 268 de 24. 9. 1991, p. 56.\n\n(2) JO no. L 255 de 18. 10. 1968, p. 23"
+  },
+  "6c430be14dd0f466": {
+   "fragment_id": "ANEXO — CAPÍTULO I CONDIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "ANEXO — CAPÍTULO I CONDIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — CAPÍTULO I CONDIÇÕES GERAIS\n\n1. Os materiais utilizados na construção das instalações de estabulação, em especial os das celas e equipamentos com que os porcos devem estar em contacto, não lhes devem ser prejudiciais e devem poder ser limpos e desinfectados de forma rigorosa.\n\n2.\n\nEnquanto não se estipularem normas comunitárias nessa matéria, os equipamentos e circuitos eléctricos devem ser instalados em conformidade com a regulamentação nacional em vigor para evitar qualquer choque eléctrico.\n\n3.\n\nO isolamento, o aquecimento e a ventilação do edifício devem assegurar que a circulação do ar, o teor de poeiras, a temperatura, a humidade relativa do ar e as concentrações de gases se mantenham dentro de limites que não sejam prejudiciais aos porcos.\n\n4.\n\nTodo o equipamento automático ou mecânico indispensável para a saúde e o bem-estar dos porcos deve ser inspeccionado, pelo menos, uma vez por dia. Se for detectada qualquer deficiência, esta deve ser imediatamente reparada ou, se tal for impossível, devem ser tomadas medidas adequadas, de modo a salvaguardar a saúde e o bem-estar dos porcos até à reparação da deficiência, nomeadamente mediante utilização de métodos alternativos de alimentação e manutenção de um ambiente satisfatório. Se for utilizado um sistema de ventilação artificial, deve prever-se um sistema de substituição adequado que garanta uma renovação de ar suficiente para preservar a saúde e o bem-estar dos porcos em caso de avaria desse sistema, devendo existir igualmente um sistema de alarme que alerte o responsável pelos animais. O sistema de alarme deve ser testado regularmente.\n\n5.\n\nOs porcos não devem ser mantidos permanentemente na obscuridade. Para esse efeito, a fim de satisfazer as suas necessidades comportamentais e fisiológicas, deve prever-se, tendo em conta as diferentes condições climatéricas dos Estados-membros, uma iluminação adequada natural ou artificial que, neste último caso, deverá ser no mínimo equivalente à duração da iluminação natural normalmente disponível entre as 9 e as 17 horas. Além disso, deverá existir uma iluminação adequada (fixa ou amovível) suficientemente intensa para permitir a inspecção dos porcos em qualquer momento.\n\n6.\n\nTodos os porcos criados em grupo ou em celas devem ser inspeccionados pelo proprietário ou pelo responsável pelos animais, pelo menos, uma vez por dia. Qualquer porco que pareça estar doente ou ferido deve estar sujeito a tratamento imediato e adequado. Quando seja necessário, os porcos doentes ou feridos devem poder ser isolados em locais adequados equipados com camas secas e confortáveis. N° caso de os porcos não reagirem ao tratamento aplicado pelo seu responsável, deverá logo que possível consultar-se um veterinário.\n\n7.\n\nSe os porcos forem criados em grupo, devem ser tomadas medidas destinadas a evitar as lutas que ultrapassem um comportamento normal. Os porcos que manifestarem uma agressividade constante em relação aos outros ou que sejam vítimas dessa agressividade, devem ser isolados ou afastados do grupo.\n\n8.\n\nAs instalações de estabulação dos porcos devem ser construídas de modo a permitir que cada animal:\n\n- se deite, descanse e levante sem dificuldades,\n\n- disponha de um lugar adequado para descansar,\n\n- veja outros procos.\n\n9.\n\nN° caso de estarem amarrados pela nuca, as amarras não devem provocar ferimentos aos porcos, devendo ser inspeccionadas regularmente e, se necessário, adaptadas, de modo a não constituírem um incómodo. Todas as amarras devem ser suficientemente compridas para permitir que os animais se movimentem em conformidade com o no. 8. As amarras devem ser de molde a excluir, na medida do possível, qualquer possibilidade de estrangulamento e ferimento.\n\n10.\n\nAs instalações, compartimentos, equipamento e utensílios destinados aos porcos devem ser limpos e desinfectados de modo apropriado, a fim de prevenir a contaminação cruzada e o desenvolvimento de organismos patogénicos. As fezes e a urina bem como os alimentos não consumidos ou derramados devem ser eliminados com a maior frequência possível, de modo a reduzir os cheiros e não atrair moscas ou roedores.\n\n11.\n\nO pavimento deve ser antiderrapante mas sem arestas, para evitar que os porcos se firam, e ser concebido por forma a não causar ferimentos ou sofrimentos aos porcos, quer quando estão de pé quer quando estão deitados. O pavimento deve ser adequado ao tamanho e peso dos porcos, e formar uma superfície rígida, plana e estável. A área de repouso deve ser confortável, limpa e convenientemente drenada e não prejudicar os porcos. Quando existirem camas, estas devem ser limpas, secas e não prejudiciais aos porcos.\n\n12.\n\nTodos os porcos devem ter acesso a uma alimentação adequada, adaptada à idade e peso de cada animal e às suas necessidades comportamentais e fisiológicas, favorecendo um bom estado de saúde e bem-estar.\n\n13.\n\nTodos os porcos devem ser alimentados, pelo menos, uma vez por dia. Quando os porcos estiverem alojados em grupo e não dispuserem de alimentação ad libitum ou por meio de um sistema automático de alimentação, cada porco deve ter acesso aos alimentos simultaneamente com os outros animais do grupo.\n\n14. Os porcos com mais de duas semanas de idade devem ter acesso a água fresca adequada, fornecida em quantidade suficiente, ou poder satisfazer as suas necessidades em líquidos bebendo outros bebidas.\n\n15.\n\nAs instalações de alimentação e de abeberamento devem ser concebidas, construídas, colocadas e mantidas de modo a minimizar a contaminação dos alimentos ou da água destinados aos animais.\n\n16.\n\nPara além das medidas normalmente tomadas para impedir a caudofagia e outros vícios e para permitir a satisfação das suas necessidades comportamentais, todos os porcos - tendo em conta o meio ambiente e a densidade populacional - devem poder dispor de palha ou de qualquer outra matéria ou de um outro objecto apropriado."
+  },
+  "356810b46b18370c": {
+   "fragment_id": "CAPÍTULO II DISPOSIÇÕES ESPECÍFICAS APLICÁVEIS ÀS VÁRIAS CATEGORIAS DE PORCOS — I. VARRASCOS",
+   "type": "divisao",
+   "heading": "CAPÍTULO II DISPOSIÇÕES ESPECÍFICAS APLICÁVEIS ÀS VÁRIAS CATEGORIAS DE PORCOS — I. VARRASCOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II DISPOSIÇÕES ESPECÍFICAS APLICÁVEIS ÀS VÁRIAS CATEGORIAS DE PORCOS — I. VARRASCOS\n\nAs celas dos varrascos devem estar situadas e ser construídas de modo a que os varrascos possam virar-se, aperceber o grunhido, o cheiro e a silhueta dos outros porcos e de modo a incluir um lugar limpo para descansar. A área de repouso deve ser seca e confortável. Além disso, a cela de um varrasco adulto deve ter uma área mínima de 6 m². Contudo, esta área deverá ser superior no caso de as celas serem utilizadas para a cobrição.\n\nIII.\n\nPORCAS E MARRÃS\n\n1. As porcas grávidas e as marrãs devem, se necessário, ser tratadas contra os parasitas internos e externos. As porcas grávidas e as marrãs devem, caso sejam colocadas na maternidade, ser limpas de qualquer sujidade.\n\n2.\n\nAs porcas e marrãs devem dispor de uma área de repouso limpa, convenientemente drenada, confortável e devem se necessário poder dispor de materiais de nidificação adequados.\n\n3.\n\nDeve existar uma área desobstruída atrás da porca ou marrã para facilitar o parto natural ou assistido.\n\n4.\n\nAs maternidades em que as porcas se podem movimentar livremente devem dispor de meios de protecção dos leitões como, por exemplo, grades.\n\nIII.\n\nLEITÕES\n\n1.\n\nSe necessário, os leitões devem dispor de uma fonte de calor e de uma área de repouso sólida, seca e confortável, afastada da porca, onde todos eles possam descansar simultaneamente.\n\n2.\n\nQuando for usada cela para maternidade, os leitões devem dispor de espaço suficiente de ambos os lados cela para poderem ser aleitados sem dificuldade.\n\n3.\n\nQuando se proceda à castração dos porcos machos com mais de quatro semanas de idade, esta só pode efectuar-se sob anestesia por um veterinário ou por uma pessoa qualificada, em conformidade com a legislação nacional.\n\n4.\n\nO corte parcial da cauda e dos dentes não deve ser efectuado sistematicamente, mas apenas se, na exploração, houver indícios de que os ferimentos nos úberes das porcas ou nas orelhas ou na cauda dos porcos resultam da não aplicação deste processo. Se o corte parcial dos dentes for necessário, este deverá ser efectuado nos sete dias subsequentes ao nascimento.\n\n5.\n\nOs leitões não devem ser separados da mãe antes das três semanas de idade, a não ser que a não separação seja prejudicial ao bem-estar ou à saúde da porca ou dos leitões.\n\nIV.\n\nLEITÕES DESMAMADOS E PORCOS DE CRIAÇÃO\n\nDeve proceder-se ao agrupamento dos porcos o mais rapidamente possível após o desmame. Os porcos devem ser criados em grupos estáveis, devendo evitar-se, tanto quanto possível, que esses grupos se misturem."
+  },
+  "c0d7dbdf5be1bea7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Novembro de 1991\n\nrelativa às normas mínimas de protecção de suínos\n\n(91/630/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/b043b77f-d931-406f-bdbd-f22c30b232bc.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/b043b77f-d931-406f-bdbd-f22c30b232bc.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/b043b77f-d931-406f-bdbd-f22c30b232bc.0018.03/DOC_1#E0003)),\n\nConsiderando que todos os Estados-membros ratificaram a convenção europeia sobre a protecção dos animais nas explorações de criação; que a Comunidade aprovou também essa convenção pela Decisão 78/923/CEE ([^4^](http://publications.europa.eu/resource/cellar/b043b77f-d931-406f-bdbd-f22c30b232bc.0018.03/DOC_1#E0004)) e depositou o respectivo instrumento de aprovação;\n\nConsiderando que o Parlamento Europeu, na sua resolução de 20 de Fevereiro de 1987, sobre medidas relativas ao bem-estar dos animais ([^5^](http://publications.europa.eu/resource/cellar/b043b77f-d931-406f-bdbd-f22c30b232bc.0018.03/DOC_1#E0005)), solicitou à Comissão que apresentasse propostas sobre normas nínimas para a criação intensiva de suínos para abate;\n\nConsiderando que os suínos, enquanto animais vivos, estão incluídos na lista de produtos enumerados no anexo II do Tratado;\n\nConsiderando que a criação de suínos faz parte integrante da agricultura; que constitui uma fonte de rendimentos para parte da população agrícola;\n\nConsiderando que as diferenças que podem distorcer as condições de concorrência interferem com o bom funcionamento da organização do mercado comum de suínos e de produtos derivados;\n\nConsiderando que é necessário, por conseguinte, estabelecer normas mínimas comuns de protecção de suínos de criação e de engorda para garantir o desenvolvimento racional da produção;\n\nConsiderando que é necessário que os serviços oficiais, os produtores, os consumidores e outros interessados sejam mantidos informados da evolução registada neste sector; que a Comissão deverá, por conseguinte, com base num relatório do Comité Científico Veterinário, prosseguir activamente as investigações científicas sobre o ou os melhores sistemas de criação que permitam assegurar o bem-estar dos suínos; que convém, por conseguinte, prever um período provisório que permita à Comissão levar a cabo esta tarefa,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d6d72b7a6ec4a5c4": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva estabelece as normas mínimas de protecção dos suínos confinados para efeitos de criação e de engorda."
+  },
+  "c5605321438b214e": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Porco»: um animal da espécie suína doméstica, de qualquer idade, criado para reprodução ou engorda;\n\n2. «Varrasco»: um porco macho, adulto, destinado à reprodução;\n\n3. «Marrã»: um porco fêmea, adulto, antes da primeira parição;\n\n4. «Porca»: um porco fêmea, após a primeira parição;\n\n5. «Porca em lactação»: um porco fêmea entre o período perinatal e o desmame dos leitões;\n\n6. «Porca seca e grávida»: uma porca entre o desmame dos leitões e o período perinatal;\n\n7. «Leitão»: um porco entre o nascimento e o desmame;\n\n8. «Leitão desmamado»: um porco entre o desmame e a idade de dez semanas;\n\n9. «Porco de criação»: um porco entre a idade de dez semanas e o abate ou a cobrição;\n\n10. «Autoridade competente»: a autoridade competente, na acepção do ponto 6 do artigo 2.º da Directiva 90/425/CEE ([^6^](http://publications.europa.eu/resource/cellar/b043b77f-d931-406f-bdbd-f22c30b232bc.0018.03/DOC_1#E0006))."
+  },
+  "a114f16cf41c9524": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros assegurarão o seguinte:\n\n1. Todas as explorações devem cumprir os seguintes requisitos:\n\na) A superfície livre de pavimento disponível para cada leitão desmamado ou para cada suíno de criação criado em grupo, excluindo as marrãs após a cobrição e as porcas, deve ter pelo menos as seguintes dimensões:\n\nPeso vivo em kg m^2^\n\nAté 10 0,15\n\nDe 10 a 20 0,20\n\nDe 20 a 30 0,30\n\nDe 30 a 50 0,40\n\nDe 50 a 85 0,55\n\nDe 85 a 110 0,65\n\nMais de 110 1,00\n\nb) A superfície livre de pavimento total disponível para cada marrã após a cobrição e para cada porca, quando as marrãs e/ou porcas sejam mantidas em grupo, deve ser de pelo menos 1,64 m^2^ e 2,25 m^2^, respectivamente. Quando estes animais forem mantidos em grupos de menos de seis, a superfície livre de pavimento deve ser aumentada em 10 %. Quando forem mantidos em grupos de 40 ou mais, essa superfície pode ser diminuída em 10 %.\n\n2. As superfícies de pavimento devem cumprir os seguintes requisitos:\n\na) Para marrãs após a cobrição e porcas prenhes: uma parte da área requerida no n.º 1, alínea b), igual a pelo menos 0,95 m^2^ por marrã e pelo menos 1,3 m^2^ por porca, deve ser constituída por pavimento sólido contínuo do qual não mais de 15 % seja reservado às aberturas de drenagem;\n\nb) Quando forem utilizados pavimentos de grelha em betão para suínos mantidos em grupo,\n\ni) a largura máxima das aberturas deve ser de:\n\n— 11 mm para leitões,\n\n— 14 mm para leitões desmamados,\n\n— 18 mm para suínos de criação,\n\n— 20 mm para marrãs após a cobrição e para porcas;\n\nii) a largura mínima das ripas deve ser de:\n\n— 50 mm para leitões e leitões desmamados,\n\n— 80 mm para suínos de criação, para marrãs após a cobrição e para porcas.\n\n3. É proibida a construção ou a conversão em instalações em que as porcas e marrãs sejam amarradas. A partir de 1 de Janeiro de 2006, é proibida a utilização de amarras em porcas ou marrãs.\n\na) As porcas e marrãs são mantidas em grupo durante o período que vai do fim da quarta semana após a cobrição até uma semana antes da data prevista de parição. O comprimento dos lados da cela em que seja mantido o grupo deve ser superior a 2,8 metros. Quando houver menos de seis animais mantidos em grupo, os lados da cela em que seja mantido o grupo devem ser superiores a 2,4 metros.\n\nb) Em derrogação do disposto na alínea a), as porcas e as marrãs criadas em explorações de menos de 10 porcas podem ser mantidas individualmente durante o período previsto na mesma alínea desde que possam rodar facilmente na cela.\n\n5. Sem prejuízo dos requisitos previstos no anexo, as porcas e marrãs devem dispor de acesso permanente a materiais manipuláveis que observem, no mínimo, os requisitos pertinentes desse anexo.\n\n6. As porcas e marrãs criadas em grupo devem ser alimentadas através de um sistema que permita que todos os animais recebam uma quantidade de alimentos suficiente, mesmo que estejam presentes outros animais que disputem os mesmos alimentos.\n\n7. Para diminuir a fome, bem como para responder à necessidade de mastigação, todas as porcas e marrãs prenhes e secas devem receber uma quantidade suficiente de alimentos volumosos ou com elevado teor de fibras, bem como de alimentos de alto teor energético.\n\n8. Os suínos que devam ser mantidos em grupos, mas que sejam particularmente agressivos, tenham sido atacados por outros suínos ou se encontrem doentes ou com lesões podem ser temporariamente mantidos em celas individuais. Neste caso, as celas individuais utilizadas devem permitir aos animais rodar facilmente, a não ser que esta disposição seja contrária a um parecer veterinário específico.\n\n9. A partir de 1 de Janeiro de 2003, o disposto na alínea b) do n.º 1, nos n.^os^ 2, 4, e 5 e no último período do n.º 8 é aplicável a todas as explorações recém-construídas, reconstruídas ou utilizadas pela primeira vez após essa data. A partir de 1 de Janeiro de 2013, estas disposições são aplicáveis a todas as explorações."
+  },
+  "78b4d02237a55697": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-membros assegurarão que as condições de criação de porcos sejam conformes com as disposições gerais constantes do anexo.\n\nContudo, até 30 de Junho de 1995, a autoridade competente dos Estados-membros pode autorizar derrogações às disposições dos pontos 3, 5, 8 e 11 do capítulo I do referido anexo.\n\n2. Além disso, antes da entrada em vigor da presente directiva, a Comissão determinará, em colaboração com os Estados-membros — sob forma de recomendação —, eventuais normas mínimas complementares às que constam do anexo no que se refere à protecção dos porcos."
+  },
+  "cacf34f1fbefcb73": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs normas estipuladas no anexo podem ser alteradas segundo o procedimento previsto no artigo 10.º, de modo a terem em conta o progresso científico."
+  },
+  "ce57a57d4c22dcc0": {
+   "fragment_id": "Artigo 5.ºA",
+   "type": "artigo",
+   "heading": "Artigo 5.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.ºA\n\nOs Estados-Membros asseguram o seguinte:\n\n1. Qualquer pessoa que empregue ou contrate pessoas para cuidar de suínos deve garantir que essas pessoas responsáveis pelos animais tenham recebido instruções e orientações sobre as disposições relevantes do artigo 3.º e do anexo.\n\n2. A disponibilização de cursos de formação adequados. Esses cursos de formação devem incidir, nomeadamente, em questões de bem-estar."
+  },
+  "9c920b95f3c674d3": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. De preferência antes de 1 de Janeiro de 2005, mas nunca depois de 1 de Julho de 2005, a Comissão deve apresentar ao Conselho um relatório elaborado com base num parecer do Comité Científico da Saúde e do Bem-Estar dos Animais. O relatório será elaborado tendo em conta as consequências socioeconómicas e sanitárias, o impacto ambiental e as diferentes condições climáticas e deve tomar igualmente em consideração o desenvolvimento de técnicas e sistemas de produção de porcos e de transformação dos alimentos que possam diminuir a necessidade de recurso à castração cirúrgica. O relatório será eventualmente acompanhado de propostas legislativas adequadas relativas aos efeitos das disponibilidades de espaço e dos tipos de pavimento aplicáveis ao bem-estar dos leitões desmamados e dos suínos de criação. O Conselho delibera sobre essas propostas por maioria qualificada.\n\n2. O mais tardar em 1 de Janeiro de 2008, a Comissão deve apresentar ao Conselho um relatório elaborado com base num parecer do Comité Científico da Saúde e do Bem-Estar dos Animais.\n\nEsse relatório deve abranger, nomeadamente:\n\na) Os efeitos da densidade pecuária, incluindo a dimensão do grupo e os métodos de agrupamento dos animais nos vários sistemas de criação sobre o bem-estar dos suínos, incluindo a sua saúde;\n\nb) O impacto da concepção do estábulo e dos diversos tipos de pavimento sobre o bem-estar, incluindo a saúde, dos suínos, tendo em conta as diferentes condições climáticas;\n\nc) Os factores de risco associados à mordedura da cauda e recomendações para reduzir a necessidade de corte da cauda;\n\nd) Os progressos alcançados nos sistemas de estabulação de porcas prenhes, tendo em conta não só os aspectos patológicos, zootécnicos, fisiológicos e etológicos dos diferentes sistemas, como também as suas implicações sanitárias e ambientais e as diferentes condições climáticas;\n\ne) A determinação das necessidades de espaço, incluindo na área de cobrição, para os varrascos reprodutores adultos com estabulação individual;\n\nf) A evolução dos sistemas de estabulação livre das porcas prenhes e das porcas aleitantes, que satisfaçam as necessidades das porcas sem comprometer a sobrevivência dos leitões;\n\ng) As atitudes e o comportamento previsíveis dos consumidores em relação à carne de suíno, caso haja diversos níveis de melhoria do bem-estar dos animais;\n\nh) As implicações socioeconómicas dos vários sistemas de criação de suínos e do respectivo efeito sobre os parceiros económicos da Comunidade.\n\nO relatório pode, se necessário, ser acompanhado de propostas legislativas adequadas."
+  },
+  "e4d51a3b72230d9d": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-membros assegurarão que as inspecções sejam efectuadas sob a responsibilidade da autoridade competente para verificar a observância das disposições da presente directiva e do respectivo anexo.\n\nEssas inspecções, que podem ser efectuadas aquando de controlos efectuados para outros fins, devem abranger todos os anos uma amostra estatisticamente representativa dos diferentes sistemas de criação de cada Estado-membro.\n\n2. A Comissão, segundo o procedimento previsto no artigo 10.º, elaborará um código contendo as regras a observar aquando das inspecções previstas no n.º 1.\n\n3. De dois em dois anos, antes do último dia útil do mês de Abril, e pela primeira vez antes de 30 de Abril de 1996, os Estados-membros informarão a Comissão dos resultados das inspecções feitas nos dois anos anteriores, nos termos do disposto no presente artigo, incluindo o número de inspecções efectuadas em relação ao número de explorações existentes no seu território."
+  },
+  "6e1125f77f676210": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPara importação na Comunidade, os animais em proveniência de um país terceiro deverão ser acompanhados de um certificado emitido pela autoridade competente do país, que ateste que os animais beneficiaram de um tratamento pelo menos equivalente ao concedido aos animais de origem comunitária, tal como previsto pela presente directiva."
+  },
+  "2fe7a0102e1b89b8": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nNa medida em que tal seja necessário para a aplicação uniforme da presente directiva, podem ser efectuadas inspecções *in loco* por peritos veterinários da Comissão, em cooperação com as autoridades competentes. Nessa ocasião, os inspectores deverão tomar, no que lhe diz respeito, medidas especiais de higiene adequadas à exclusão de quaisquer riscos de transmissão de doenças.\n\nO Estado-membro em cujo território forem efectuados controlos deve proporcionar aos peritos todo o apoio necessário ao exercício das suas funções. A Comissão informará a autoridade competente do Estado-membro em causa do resultado dos controlos efectuados.\n\nA autoridade competente do Estado-membro em causa tomará as medidas que se revelarem necessárias para atender aos resultados desses controlos.\n\nNo que se refere às relações com os países terceiros, são aplicáveis as disposições do capítulo III da Directiva 91/496/CEE ([^7^](http://publications.europa.eu/resource/cellar/b043b77f-d931-406f-bdbd-f22c30b232bc.0018.03/DOC_1#E0007)).\n\nAs disposições gerais de aplicação do presente artigo serão fixadas segundo o procedimento no artigo 10.º"
+  },
+  "a98c60eb8ebdb135": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^8^](http://publications.europa.eu/resource/cellar/b043b77f-d931-406f-bdbd-f22c30b232bc.0018.03/DOC_1#E0008)).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^9^](http://publications.europa.eu/resource/cellar/b043b77f-d931-406f-bdbd-f22c30b232bc.0018.03/DOC_1#E0009)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "dd9489899b386c9a": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas, incluindo eventuais sanções, necessárias para dar cumprimento à presente directiva, o mais tardar em 1 de Janeiro de 1994. Do facto informarão imediatamente a Comissão.\n\nAs disposições a adoptar pelos Estados-membros devem conter uma referência à presente directiva ou ser acompanhadas de tal referência aquando da sua publicação oficial. As modalidades dessa referência serão determinadas pelos Estados-membros.\n\n2. Todavia, a partir da data fixada no n.º 1 e no que se refere à protecção dos porcos, os Estados-membros podem, na observância das regras gerais do Tratado, manter ou aplicar no seu território disposições mais rigorosas do que as previstas na presente directiva. Informarão a Comissão de todas as medidas tomadas nesse sentido."
+  },
+  "08b66beb65f6c7c3": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "6da92fe0e02efe2c": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I"
+  },
+  "aa2e89cea2ff7c3c": {
+   "fragment_id": "CONDIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "CONDIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES GERAIS\n\nPara além das disposições relevantes constantes do anexo da Directiva 95/58/CE, aplicam-se os requisitos que se seguem:\n\n1. Na parte do edifício em que os suínos são mantidos, devem ser evitados níveis de ruído contínuo maior ou igual a 85 dBA. Devem igualmente ser evitados ruídos constantes ou súbitos.\n\n2. Os suínos devem ser expostos a uma luz com uma intensidade de pelo menos 40 lux durante um período mínimo de 8 horas por dia.\n\n3. O alojamento dos suínos deve ser construído por forma a que os animais possam:\n\n— ter acesso a uma área de repouso física e termicamente confortável, adequadamente drenada e limpa, que permita que todos os animais se deitem simultaneamente,\n\n— repousar e levantar-se normalmente,\n\n— ver outros suínos; no entanto, na semana que precede a data prevista de parição e durante a parição, as porcas e marrãs podem ser mantidas fora da vista dos animais da mesma espécie.\n\n4. Sem prejuízo do disposto no n.º 5 do artigo 3.º, os suínos devem ter acesso permanente a uma quantidade suficiente de materiais para actividades de investigação e manipulação, como palha, feno, madeira, serradura, composto de cogumelos, turfa ou uma mistura destes materiais, que não comprometam a saúde dos animais.\n\n5. Os pavimentos deve ser lisos, mas antiderrapantes, para evitar lesões dos suínos, e devem ser concebidos e mantidos por forma a não causarem lesões nem sofrimento a estes animais. Devem ser adequados para a dimensão e peso dos suínos, e, se não forem fornecidas camas, constituir superfícies rígidas, planas e estáveis.\n\n6. Todos os suínos devem ser alimentados pelo menos uma vez por dia. Se forem alimentados em grupo, e não *ad libitum* ou através de um sistema automático de alimentação individual, todos os suínos do grupo devem ter acesso simultâneo aos alimentos.\n\n7. Todos os suínos com idade superior a duas semanas devem ter acesso permanente a uma quantidade suficiente de água fresca.\n\n8. São proibidos todos os procedimentos não devidos a motivos terapêuticos ou diagnósticos, ou destinados à identificação dos suínos em conformidade com a legislação relevante, que conduzam à lesão ou à perda de uma parte sensitiva do corpo ou à alteração da estrutura óssea, excepto os procedimentos que se seguem:\n\n— despontar uniforme dos comilhos dos leitões, através de limagem ou corte parcial efectuados o mais tardar até ao sétimo dia de vida dos mesmos, que resulte numa superfície intacta e lisa; se necessário, para evitar lesões a outros animais ou por motivos de segurança, pode reduzir-se o comprimento das defesas dos varrascos,\n\n— corte parcial das caudas,\n\n— castração dos porcos machos por meios que não sejam o arrancamento de tecidos,\n\n— a inserção de argolas nasais, embora apenas caso os animais sejam mantidos ao ar livre e seja observada a legislação nacional."
+  },
+  "48fa5f7b94dc8eb9": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II"
+  },
+  "1d7ff9011988f122": {
+   "fragment_id": "DISPOSIÇÕES ESPECÍFICAS PARA VÁRIAS CATEGORIAS DE SUÍNOS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES ESPECÍFICAS PARA VÁRIAS CATEGORIAS DE SUÍNOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES ESPECÍFICAS PARA VÁRIAS CATEGORIAS DE SUÍNOS"
+  },
+  "84fe7da6c73f5b0f": {
+   "fragment_id": "A. VARRASCOS",
+   "type": "divisao",
+   "heading": "A. VARRASCOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. VARRASCOS\n\nAs celas para varrascos devem estar localizadas e construídas por forma a que o varrasco possa rodar e ouvir, cheirar ou ver outros suínos. A área disponível de pavimento desobstruído para cada varrasco adulto deve ser, no mínimo, de 6 m^2^.\n\nSe as celas forem igualmente utilizadas com vista à reprodução natural, a área disponível de pavimento desobstruído para cada varrasco adulto deve ser, no mínimo, de 10 m^2^ e a cela não deve ter quaisquer obstáculos. A partir de 1 de Janeiro de 2003, a presente disposição aplicar-se-á a todas as explorações que venham a ser construídas, reconstruídas ou comecem a ser utilizadas pela primeira vez após essa data; a partir de 1 de Janeiro de 2005, a presente disposição será aplicável a todas as explorações."
+  },
+  "2e968b1f6d03cc2a": {
+   "fragment_id": "B. PORCAS E MARRÃS",
+   "type": "divisao",
+   "heading": "B. PORCAS E MARRÃS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. PORCAS E MARRÃS\n\n1. Devem ser adoptadas medidas para limitar as agressões no seio dos grupos.\n\n2. As porcas e marrãs grávidas devem, se necessário, ser tratadas contra parasitas externos e internos. Se forem colocadas em gaiolas de parto, as porcas e marrãs prenhes devem ser completamente limpas.\n\n3. Na semana que precede a data prevista de parição, as porcas e marrãs devem dispor de materiais de nidificação em quantidade suficiente, a menos que sejam tecnicamente inviáveis com o sistema de chorume utilizado no estabelecimento.\n\n4. Deve existir uma área desobstruída atrás da porca ou marrã, para facilitar a parição natural ou assistida.\n\n5. As gaiolas de parto em que as porcas se encontram livres devem dispor de alguns meios de protecção dos leitões, como grades."
+  },
+  "7909216e62c47b53": {
+   "fragment_id": "C. LEITÕES",
+   "type": "divisao",
+   "heading": "C. LEITÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. LEITÕES\n\n1. Uma parte do pavimento suficiente para que os animais possam repousar juntos simultaneamente deve ser sólida ou recoberta por um tapete, por palha ou por qualquer outro material adequado.\n\n2. Se for utilizada uma gaiola de parto, os leitões devem dispor de espaço suficiente para que possam ser aleitados sem dificuldade.\n\n3. Os leitões não devem ser separados da mãe antes dos 28 dias de idade, a menos que a não separação seja prejudicial ao bem-estar ou à saúde da porca ou dos leitões. No entanto, os leitões podem ser separados até 7 dias mais cedo se forem transferidos para instalações especializadas que sejam esvaziadas e meticulosamente limpas e desinfectadas antes da introdução de um novo grupo, separadas das instalações aonde as porcas são mantidas, por forma a limitar a transmissão de doenças aos leitões."
+  },
+  "bd03e9e000558b29": {
+   "fragment_id": "D. LEITÕES DESMAMADOS E PORCOS DE CRIAÇÃO",
+   "type": "divisao",
+   "heading": "D. LEITÕES DESMAMADOS E PORCOS DE CRIAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### D. LEITÕES DESMAMADOS E PORCOS DE CRIAÇÃO\n\n1. Se os suínos forem mantidos em grupo, devem ser tomadas medidas para evitar lutas que constituam um desvio em relação ao comportamento normal.\n\n2. Os suínos devem ser mantidos em grupos com o mínimo possível de miscigenação. Se suínos não familiarizados uns com os outros tiverem de ser agrupados, a miscigenação deve ocorrer na idade mais precoce possível, preferivelmente antes do desmame ou até uma semana após o mesmo. Se se proceder à miscigenação, os suínos devem dispor de oportunidades adequadas para poderem fugir e esconder-se dos restantes suínos.\n\n3. Se existirem sinais de lutas intensas, há que apurar imediatamente as causas e adoptar medidas adequadas, como o fornecimento abundante de palha aos animais, e, se possível, outros materiais para investigação. Os animais em risco ou os agressores específicos devem ser separados do grupo.\n\n4. O recurso a tranquilizantes para facilitar a miscigenação deve limitar-se a circunstâncias excepcionais e apenas deve ocorrer após consulta de um veterinário.\n\n---"
+  },
+  "6f42a9510ebf5681": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b043b77f-d931-406f-bdbd-f22c30b232bc.0018.03/DOC_1#src.E0001)) JO n.º C 214 de 21. 8. 1989, p. 31.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b043b77f-d931-406f-bdbd-f22c30b232bc.0018.03/DOC_1#src.E0002)) JO n.º C 113 de 7. 5. 1990, p. 183.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b043b77f-d931-406f-bdbd-f22c30b232bc.0018.03/DOC_1#src.E0003)) JO n.º C 62 de 12. 3. 1990, p. 40.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b043b77f-d931-406f-bdbd-f22c30b232bc.0018.03/DOC_1#src.E0004)) JO n.º L 323 de 17. 11. 1978, p. 12.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b043b77f-d931-406f-bdbd-f22c30b232bc.0018.03/DOC_1#src.E0005)) JO n.º C 76 de 23. 3. 1987, p. 185.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b043b77f-d931-406f-bdbd-f22c30b232bc.0018.03/DOC_1#src.E0006)) JO n.º L 224 de 18. 8. 1990, p. 29. Directiva com a última redacção que lhe foi dada pela Directiva 91/496/CEE (JO n.º L 268 de 24. 9. 1991, p. 56.).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b043b77f-d931-406f-bdbd-f22c30b232bc.0018.03/DOC_1#src.E0007)) JO n.º L 268 de 24. 9. 1991, p. 56.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/b043b77f-d931-406f-bdbd-f22c30b232bc.0018.03/DOC_1#src.E0008)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/b043b77f-d931-406f-bdbd-f22c30b232bc.0018.03/DOC_1#src.E0009)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "e24e09d39e9d80c7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991L0630 — PT — 10.03.2009 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31991L0630) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31991L0630) [de 19 de Novembro de 1991](http://publications.europa.eu/resource/celex/31991L0630) [relativa às normas mínimas de protecção de suínos](http://publications.europa.eu/resource/celex/31991L0630) [(91/630/CEE)](http://publications.europa.eu/resource/celex/31991L0630) (JO L 340, 11.12.1991, p.33)\n\n**revogado por:**\n\n- [Directiva 2008/120/CE do Conselho de 18 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008L0120) — L 47 — 5 — 18.2.2009"
+  }
+ }
+}

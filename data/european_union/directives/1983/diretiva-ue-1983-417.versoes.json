@@ -1,0 +1,39 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31983L0417:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01983L0417-20161222",
+ "dre_path": null,
+ "source_lastmod": "2016-12-22",
+ "versions": [
+  {
+   "date": "1983-08-26",
+   "future": false,
+   "celex": "31983L0417",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2016-12-22",
+   "future": false,
+   "celex": "01983L0417-20161222",
+   "acts": [],
+   "changes": [
+    "Adita preambulo"
+   ],
+   "fragments": [
+    "e8d5f9dcb84c8b8a"
+   ]
+  }
+ ],
+ "fragments": {
+  "e8d5f9dcb84c8b8a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1983L0417 — PT — 22.12.2016 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31983L0417) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31983L0417) [de 25 de Julho de 1983](http://publications.europa.eu/resource/celex/31983L0417) [relativa à aproximação das legislações dos Estados-membros respeitantes a determinadas lactoproteinas (caseinas e caseinatos) destinadas à alimentação humana](http://publications.europa.eu/resource/celex/31983L0417) [(83/417/CEE)](http://publications.europa.eu/resource/celex/31983L0417) (JO L 237, 26.8.1983, p.25)\n\n**revogado por:**\n\n- [Diretiva (UE) 2015/2203 do Parlamento Europeu e do Conselho de 25 de novembro de 2015](http://publications.europa.eu/resource/celex/32015L2203) — L 314 — 1 — 1.12.2015"
+  }
+ }
+}

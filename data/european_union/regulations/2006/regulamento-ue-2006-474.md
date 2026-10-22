@@ -35,6 +35,447 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-11'
+version_history:
+  file: regulamento-ue-2006-474.versoes.json
+  count: 47
+  source_lastmod: '2026-06-11'
+  versions:
+  - date: '2006-03-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-06-22'
+    amending: eu:celex:32006R0910:por
+    amending_title: REGULAMENTO (CE) N. o 910/2006 DA COMISSÃO de 20 de Junho de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO A
+    - Adita LISTA DE TRANSPORTADORAS AÉREAS CUJA TOTALIDADE DAS OPERAÇÕES É OBJECTO DE UMA PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/10e0ef0a-b2ba-4b3b-9685-c51538af36a0.0016.03/DOC_1#E0029))
+    - Adita ANEXO B
+    - Adita LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE RESTRIÇÕES DE OPERAÇÃO NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/10e0ef0a-b2ba-4b3b-9685-c51538af36a0.0016.03/DOC_1#E0031))
+  - date: '2006-10-15'
+    amending: eu:celex:32006R1543:por
+    amending_title: REGULAMENTO (CE) N. o 1543/2006 DA COMISSÃO de 12 de Outubro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DE TRANSPORTADORAS AÉREAS CUJA TOTALIDADE DAS OPERAÇÕES É OBJECTO DE UMA PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/41e96f68-2082-4196-b2c3-5ad8f3057506.0016.03/DOC_1#E0029))
+    - Adita LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE RESTRIÇÕES DE OPERAÇÃO NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/41e96f68-2082-4196-b2c3-5ad8f3057506.0016.03/DOC_1#E0031))
+    - Suprime LISTA DE TRANSPORTADORAS AÉREAS CUJA TOTALIDADE DAS OPERAÇÕES É OBJECTO DE UMA PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/10e0ef0a-b2ba-4b3b-9685-c51538af36a0.0016.03/DOC_1#E0029))
+    - Suprime LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE RESTRIÇÕES DE OPERAÇÃO NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/10e0ef0a-b2ba-4b3b-9685-c51538af36a0.0016.03/DOC_1#E0031))
+  - date: '2007-03-07'
+    amending: eu:celex:32007R0235:por
+    amending_title: REGULAMENTO (CE) N. o 235/2007 DA COMISSÃO de 5 de Março de 2007
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DE TRANSPORTADORAS AÉREAS CUJA TOTALIDADE DAS OPERAÇÕES É OBJECTO DE UMA PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/2f8406bc-46b8-42fa-aa0e-b6a8c514e65d.0016.03/DOC_1#E0029))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJECTO DE RESTRIÇÕES OPERACIONAIS NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/2f8406bc-46b8-42fa-aa0e-b6a8c514e65d.0016.03/DOC_1#E0031))
+    - Suprime LISTA DE TRANSPORTADORAS AÉREAS CUJA TOTALIDADE DAS OPERAÇÕES É OBJECTO DE UMA PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/41e96f68-2082-4196-b2c3-5ad8f3057506.0016.03/DOC_1#E0029))
+    - Suprime LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE RESTRIÇÕES DE OPERAÇÃO NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/41e96f68-2082-4196-b2c3-5ad8f3057506.0016.03/DOC_1#E0031))
+  - date: '2007-07-06'
+    amending: eu:celex:32007R0787:por
+    amending_title: REGULAMENTO (CE) N. o 787/2007 DA COMISSÃO de 4 de Julho de 2007
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DE TRANSPORTADORAS AÉREAS CUJA TOTALIDADE DE OPERAÇÕES É OBJECTO DE PROIBIÇÃO NA COMUNIDADE [(28)](http://publications.europa.eu/resource/cellar/2ecd57ec-e5c1-4a18-a420-d5778a2415fc.0016.03/DOC_1#E0029)
+    - Adita LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE RESTRIÇÕES NA COMUNIDADE [(28)](http://publications.europa.eu/resource/cellar/2ecd57ec-e5c1-4a18-a420-d5778a2415fc.0016.03/DOC_1#E0031)
+    - Suprime LISTA DE TRANSPORTADORAS AÉREAS CUJA TOTALIDADE DAS OPERAÇÕES É OBJECTO DE UMA PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/2f8406bc-46b8-42fa-aa0e-b6a8c514e65d.0016.03/DOC_1#E0029))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJECTO DE RESTRIÇÕES OPERACIONAIS NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/2f8406bc-46b8-42fa-aa0e-b6a8c514e65d.0016.03/DOC_1#E0031))
+  - date: '2007-09-13'
+    amending: eu:celex:32007R1043:por
+    amending_title: REGULAMENTO (CE) N. o 1043/2007 DA COMISSÃO de 11 de Setembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DE TRANSPORTADORAS AÉREAS CUJA TOTALIDADE DAS OPERAÇÕES É OBJECTO DE UMA PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/226d2fa8-f1e0-43cc-9b02-cd20aed13bf9.0016.03/DOC_1#E0029))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJECTO DE RESTRIÇÕES OPERACIONAIS NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/226d2fa8-f1e0-43cc-9b02-cd20aed13bf9.0016.03/DOC_1#E0031))
+    - Suprime LISTA DE TRANSPORTADORAS AÉREAS CUJA TOTALIDADE DE OPERAÇÕES É OBJECTO DE PROIBIÇÃO NA COMUNIDADE [(28)](http://publications.europa.eu/resource/cellar/2ecd57ec-e5c1-4a18-a420-d5778a2415fc.0016.03/DOC_1#E0029)
+    - Suprime LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE RESTRIÇÕES NA COMUNIDADE [(28)](http://publications.europa.eu/resource/cellar/2ecd57ec-e5c1-4a18-a420-d5778a2415fc.0016.03/DOC_1#E0031)
+  - date: '2007-11-30'
+    amending: eu:celex:32007R1400:por
+    amending_title: REGULAMENTO (CE) N. o 1400/2007 DA COMISSÃO de 28 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DE TRANSPORTADORAS AÉREAS CUJA TOTALIDADE DAS OPERAÇÕES É OBJECTO DE PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/f926698b-3db6-4bd8-b843-3d9f71fb2ce1.0016.03/DOC_1#E0029))
+    - Adita LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE RESTRIÇÕES DE OPERAÇÃO NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/f926698b-3db6-4bd8-b843-3d9f71fb2ce1.0016.03/DOC_1#E0030))
+    - Suprime LISTA DE TRANSPORTADORAS AÉREAS CUJA TOTALIDADE DAS OPERAÇÕES É OBJECTO DE UMA PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/226d2fa8-f1e0-43cc-9b02-cd20aed13bf9.0016.03/DOC_1#E0029))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJECTO DE RESTRIÇÕES OPERACIONAIS NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/226d2fa8-f1e0-43cc-9b02-cd20aed13bf9.0016.03/DOC_1#E0031))
+  - date: '2008-04-13'
+    amending: eu:celex:32008R0331:por
+    amending_title: REGULAMENTO (CE) N. o 331/2008 DA COMISSÃO de 11 de Abril de 2008
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DE TRANSPORTADORAS AÉREAS CUJA TOTALIDADE DE OPERAÇÕES É OBJECTO DE PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/db1fe6c9-424e-4294-b85c-921e1214cc57.0017.03/DOC_1#E0029))
+    - Adita LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE RESTRIÇÕES DE OPERAÇÃO NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/db1fe6c9-424e-4294-b85c-921e1214cc57.0017.03/DOC_1#E0030))
+    - Suprime LISTA DE TRANSPORTADORAS AÉREAS CUJA TOTALIDADE DAS OPERAÇÕES É OBJECTO DE PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/f926698b-3db6-4bd8-b843-3d9f71fb2ce1.0016.03/DOC_1#E0029))
+    - Suprime LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE RESTRIÇÕES DE OPERAÇÃO NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/f926698b-3db6-4bd8-b843-3d9f71fb2ce1.0016.03/DOC_1#E0030))
+  - date: '2008-07-26'
+    amending: eu:celex:32008R0715:por
+    amending_title: REGULAMENTO (CE) N. o 715/2008 DA COMISSÃO de 24 de Julho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DE TRANSPORTADORAS AÉREAS CUJA TOTALIDADE DAS OPERAÇÕES É OBJECTO DE PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/26b2ea6e-5af2-4443-94ea-f5edf0b9d813.0017.03/DOC_1#E0029))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJECTO DE RESTRIÇÕES DE OPERAÇÃO NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/26b2ea6e-5af2-4443-94ea-f5edf0b9d813.0017.03/DOC_1#E0030))
+    - Suprime LISTA DE TRANSPORTADORAS AÉREAS CUJA TOTALIDADE DE OPERAÇÕES É OBJECTO DE PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/db1fe6c9-424e-4294-b85c-921e1214cc57.0017.03/DOC_1#E0029))
+    - Suprime LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE RESTRIÇÕES DE OPERAÇÃO NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/db1fe6c9-424e-4294-b85c-921e1214cc57.0017.03/DOC_1#E0030))
+  - date: '2008-11-16'
+    amending: eu:celex:32008R1131:por
+    amending_title: REGULAMENTO (CE) N. o 1131/2008 DA COMISSÃO de 14 de Novembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/3cd0a8b1-ff19-4900-a8a4-9da746a02d87.0017.03/DOC_1#E0029))
+    - Adita LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE RESTRIÇÕES DE OPERAÇÃO NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/3cd0a8b1-ff19-4900-a8a4-9da746a02d87.0017.03/DOC_1#E0030))
+    - Suprime LISTA DE TRANSPORTADORAS AÉREAS CUJA TOTALIDADE DAS OPERAÇÕES É OBJECTO DE PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/26b2ea6e-5af2-4443-94ea-f5edf0b9d813.0017.03/DOC_1#E0029))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJECTO DE RESTRIÇÕES DE OPERAÇÃO NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/26b2ea6e-5af2-4443-94ea-f5edf0b9d813.0017.03/DOC_1#E0030))
+  - date: '2009-04-10'
+    amending: eu:celex:32009R0298:por
+    amending_title: REGULAMENTO (CE) N. o 298/2009 DA COMISSÃO de 8 de Abril de 2009
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/392ffee0-5c44-4049-9a65-d1e235f3eaa9.0017.03/DOC_1#E0029))
+    - Adita LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE RESTRIÇÕES DE OPERAÇÃO NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/392ffee0-5c44-4049-9a65-d1e235f3eaa9.0017.03/DOC_1#E0030))
+    - Suprime LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/3cd0a8b1-ff19-4900-a8a4-9da746a02d87.0017.03/DOC_1#E0029))
+    - Suprime LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE RESTRIÇÕES DE OPERAÇÃO NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/3cd0a8b1-ff19-4900-a8a4-9da746a02d87.0017.03/DOC_1#E0030))
+  - date: '2009-07-16'
+    amending: eu:celex:32009R0619:por
+    amending_title: REGULAMENTO (CE) N. o 619/2009 DA COMISSÃO de 13 de Julho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/ce56b9a3-529b-4f47-b8a9-57456207ee53.0018.03/DOC_1#E0029))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJECTO DE RESTRIÇÕES OPERACIONAIS NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/ce56b9a3-529b-4f47-b8a9-57456207ee53.0018.03/DOC_1#E0030))
+    - Suprime LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/392ffee0-5c44-4049-9a65-d1e235f3eaa9.0017.03/DOC_1#E0029))
+    - Suprime LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE RESTRIÇÕES DE OPERAÇÃO NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/392ffee0-5c44-4049-9a65-d1e235f3eaa9.0017.03/DOC_1#E0030))
+  - date: '2009-11-28'
+    amending: eu:celex:32009R1144:por
+    amending_title: REGULAMENTO (CE) N. o 1144/2009 DA COMISSÃO de 26 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/24a29b93-7291-4715-805d-2e7b4c1859db.0018.03/DOC_1#E0029))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJECTO DE RESTRIÇÕES OPERACIONAIS NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/24a29b93-7291-4715-805d-2e7b4c1859db.0018.03/DOC_1#E0030))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/ce56b9a3-529b-4f47-b8a9-57456207ee53.0018.03/DOC_1#E0029))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJECTO DE RESTRIÇÕES OPERACIONAIS NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/ce56b9a3-529b-4f47-b8a9-57456207ee53.0018.03/DOC_1#E0030))
+  - date: '2010-04-01'
+    amending: eu:celex:32010R0273:por
+    amending_title: REGULAMENTO (UE) N. o 273/2010 DA COMISSÃO de 30 de Março de 2010
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/6b7183b5-f1fe-44c9-aa0a-88b4fad23833.0018.03/DOC_1#E0029))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJECTO DE RESTRIÇÕES OPERACIONAIS NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/6b7183b5-f1fe-44c9-aa0a-88b4fad23833.0018.03/DOC_1#E0030))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/24a29b93-7291-4715-805d-2e7b4c1859db.0018.03/DOC_1#E0029))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJECTO DE RESTRIÇÕES OPERACIONAIS NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/24a29b93-7291-4715-805d-2e7b4c1859db.0018.03/DOC_1#E0030))
+  - date: '2010-07-07'
+    amending: eu:celex:32010R0590:por
+    amending_title: REGULAMENTO (UE) N. o 590/2010 DA COMISSÃO de 5 de Julho de 2010
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE PROIBIÇÃO NA UE ([^29^](http://publications.europa.eu/resource/cellar/06b539fe-6abe-44d4-9585-e777e4880bb9.0018.03/DOC_1#E0029))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE RESTRIÇÕES DE OPERAÇÃO NA UE ([^30^](http://publications.europa.eu/resource/cellar/06b539fe-6abe-44d4-9585-e777e4880bb9.0018.03/DOC_1#E0030))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE PROIBIÇÃO NA COMUNIDADE ([^29^](http://publications.europa.eu/resource/cellar/6b7183b5-f1fe-44c9-aa0a-88b4fad23833.0018.03/DOC_1#E0029))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJECTO DE RESTRIÇÕES OPERACIONAIS NA COMUNIDADE ([^30^](http://publications.europa.eu/resource/cellar/6b7183b5-f1fe-44c9-aa0a-88b4fad23833.0018.03/DOC_1#E0030))
+  - date: '2010-09-09'
+    amending: eu:celex:32010R0791:por
+    amending_title: REGULAMENTO (UE) N. o 791/2010 DA COMISSÃO de 6 de Setembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE UMA PROIBIÇÃO NA UNIÃO EUROPEIA ([^29^](http://publications.europa.eu/resource/cellar/37cff755-0145-44b5-94c1-58a3e15d1691.0018.03/DOC_1#E0029))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJECTO DE RESTRIÇÕES OPERACIONAIS NA UNIÃO EUROPEIA ([^30^](http://publications.europa.eu/resource/cellar/37cff755-0145-44b5-94c1-58a3e15d1691.0018.03/DOC_1#E0030))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE PROIBIÇÃO NA UE ([^29^](http://publications.europa.eu/resource/cellar/06b539fe-6abe-44d4-9585-e777e4880bb9.0018.03/DOC_1#E0029))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE RESTRIÇÕES DE OPERAÇÃO NA UE ([^30^](http://publications.europa.eu/resource/cellar/06b539fe-6abe-44d4-9585-e777e4880bb9.0018.03/DOC_1#E0030))
+  - date: '2010-11-24'
+    amending: eu:celex:32010R1071:por
+    amending_title: REGULAMENTO (UE) N. o 1071/2010 DA COMISSÃO de 22 de Novembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE PROIBIÇÃO NA UE ([^29^](http://publications.europa.eu/resource/cellar/f4bc892d-d0e7-4d77-bd90-afcdccf43fa3.0018.03/DOC_1#E0029))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE RESTRIÇÕES DE OPERAÇÃO NA UE ([^30^](http://publications.europa.eu/resource/cellar/f4bc892d-d0e7-4d77-bd90-afcdccf43fa3.0018.03/DOC_1#E0030))
+    - Suprime LISTA DE TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE UMA PROIBIÇÃO NA UNIÃO EUROPEIA ([^29^](http://publications.europa.eu/resource/cellar/37cff755-0145-44b5-94c1-58a3e15d1691.0018.03/DOC_1#E0029))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJECTO DE RESTRIÇÕES OPERACIONAIS NA UNIÃO EUROPEIA ([^30^](http://publications.europa.eu/resource/cellar/37cff755-0145-44b5-94c1-58a3e15d1691.0018.03/DOC_1#E0030))
+  - date: '2011-04-21'
+    amending: eu:celex:32011R0390:por
+    amending_title: Regulamento de Execução (UE) n. o 390/2011 da Comissão de 19 de Abril de 2011
+    changes:
+    - Altera preambulo
+    - Altera ANEXO A
+    - Altera ANEXO B
+    - Altera Notas
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE PROIBIÇÃO NA UE ([^29^](http://publications.europa.eu/resource/cellar/f4bc892d-d0e7-4d77-bd90-afcdccf43fa3.0018.03/DOC_1#E0029))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJECTO DE RESTRIÇÕES DE OPERAÇÃO NA UE ([^30^](http://publications.europa.eu/resource/cellar/f4bc892d-d0e7-4d77-bd90-afcdccf43fa3.0018.03/DOC_1#E0030))
+  - date: '2011-11-23'
+    amending: eu:celex:32011R1197:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1197/2011 DA COMISSÃO de 21 de Novembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera ANEXO A
+    - Altera ANEXO B
+    - Altera Notas
+  - date: '2012-04-05'
+    amending: eu:celex:32012R0295:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 295/2012 DA COMISSÃO de 3 de abril de 2012
+    changes:
+    - Altera preambulo
+    - Altera ANEXO A
+    - Altera ANEXO B
+    - Altera Notas
+  - date: '2012-12-06'
+    amending: eu:celex:32012R1146:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1146/2012 DA COMISSÃO de 3 de dezembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera ANEXO A
+    - Altera ANEXO B
+    - Altera Notas
+  - date: '2013-07-12'
+    amending: eu:celex:32013R0659:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 659/2013 DA COMISSÃO de 10 de julho de 2013
+    changes:
+    - Altera preambulo
+    - Altera ANEXO A
+    - Altera ANEXO B
+    - Altera Notas
+  - date: '2013-12-07'
+    amending: eu:celex:32013R1264:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1264/2013 DA COMISSÃO de 3 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera ANEXO A
+    - Altera ANEXO B
+    - Altera Notas
+  - date: '2014-04-12'
+    amending: eu:celex:32014R0368:por
+    amending_title: Regulamento de Execução (UE) n. o 368/2014 da Comissão de 10 de abril de 2014
+    changes:
+    - Altera preambulo
+    - Altera ANEXO A
+    - Altera ANEXO B
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJETO DE UMA PROIBIÇÃO NA UE, COM EXCEÇÕES ([^29^](http://publications.europa.eu/resource/cellar/f0f3a139-fe1a-11e3-831f-01aa75ed71a1.0014.02/DOC_1#E0029))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJETO DE RESTRIÇÕES OPERACIONAIS NA UE ([^30^](http://publications.europa.eu/resource/cellar/f0f3a139-fe1a-11e3-831f-01aa75ed71a1.0014.02/DOC_1#E0030))
+  - date: '2014-12-13'
+    amending: eu:celex:32014R1318:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1318/2014 DA COMISSÃO de 11 de dezembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJETO DE PROIBIÇÃO NA UE, COM EXCEÇÕES ([^29^](http://publications.europa.eu/resource/cellar/87864a32-6f97-42ba-bb1c-db2780b34907.0014.02/DOC_1#E0029))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJETO DE RESTRIÇÕES OPERACIONAIS NA UE ([^30^](http://publications.europa.eu/resource/cellar/87864a32-6f97-42ba-bb1c-db2780b34907.0014.02/DOC_1#E0030))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJETO DE UMA PROIBIÇÃO NA UE, COM EXCEÇÕES ([^29^](http://publications.europa.eu/resource/cellar/f0f3a139-fe1a-11e3-831f-01aa75ed71a1.0014.02/DOC_1#E0029))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJETO DE RESTRIÇÕES OPERACIONAIS NA UE ([^30^](http://publications.europa.eu/resource/cellar/f0f3a139-fe1a-11e3-831f-01aa75ed71a1.0014.02/DOC_1#E0030))
+  - date: '2015-06-28'
+    amending: eu:celex:32015R1014:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2015/1014 DA COMISSÃO de 25 de junho de 2015
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS QUE ESTÃO PROIBIDAS DE OPERAR NA UNIÃO, COM EXCEÇÕES ([^29^](http://publications.europa.eu/resource/cellar/d172b7bf-91ed-4208-9256-8a3f941953b6.0015.02/DOC_1#E0029))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJETO DE RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^30^](http://publications.europa.eu/resource/cellar/d172b7bf-91ed-4208-9256-8a3f941953b6.0015.02/DOC_1#E0030))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJETO DE PROIBIÇÃO NA UE, COM EXCEÇÕES ([^29^](http://publications.europa.eu/resource/cellar/87864a32-6f97-42ba-bb1c-db2780b34907.0014.02/DOC_1#E0029))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS CUJAS OPERAÇÕES SÃO OBJETO DE RESTRIÇÕES OPERACIONAIS NA UE ([^30^](http://publications.europa.eu/resource/cellar/87864a32-6f97-42ba-bb1c-db2780b34907.0014.02/DOC_1#E0030))
+  - date: '2015-12-13'
+    amending: eu:celex:32015R2322:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2015/2322 DA COMISSÃO de 10 de dezembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS QUE ESTÃO PROIBIDAS DE OPERAR NA UNIÃO, COM EXCEÇÕES ([^29^](http://publications.europa.eu/resource/cellar/e0bc8a68-a171-4fbe-b775-c05d06391b78.0015.02/DOC_1#E0029))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJETO DE RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^30^](http://publications.europa.eu/resource/cellar/e0bc8a68-a171-4fbe-b775-c05d06391b78.0015.02/DOC_1#E0030))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS QUE ESTÃO PROIBIDAS DE OPERAR NA UNIÃO, COM EXCEÇÕES ([^29^](http://publications.europa.eu/resource/cellar/d172b7bf-91ed-4208-9256-8a3f941953b6.0015.02/DOC_1#E0029))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJETO DE RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^30^](http://publications.europa.eu/resource/cellar/d172b7bf-91ed-4208-9256-8a3f941953b6.0015.02/DOC_1#E0030))
+  - date: '2016-06-18'
+    amending: eu:celex:32016R0963:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2016/963 DA COMISSÃO de 16 de junho de 2016
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS QUE ESTÃO PROIBIDAS DE OPERAR NA UNIÃO, COM EXCEÇÕES ([^29^](http://publications.europa.eu/resource/cellar/858bdf71-e25a-46f6-9028-0df220a48462.0015.02/DOC_1#E0029))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJETO DE RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^30^](http://publications.europa.eu/resource/cellar/858bdf71-e25a-46f6-9028-0df220a48462.0015.02/DOC_1#E0030))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS QUE ESTÃO PROIBIDAS DE OPERAR NA UNIÃO, COM EXCEÇÕES ([^29^](http://publications.europa.eu/resource/cellar/e0bc8a68-a171-4fbe-b775-c05d06391b78.0015.02/DOC_1#E0029))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJETO DE RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^30^](http://publications.europa.eu/resource/cellar/e0bc8a68-a171-4fbe-b775-c05d06391b78.0015.02/DOC_1#E0030))
+  - date: '2016-12-10'
+    amending: eu:celex:32016R2214:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2016/2214 DA COMISSÃO de 8 de dezembro de 2016
+    changes:
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS QUE ESTÃO PROIBIDAS DE OPERAR NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/2ec9e913-d1c7-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#E0001))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJETO DE RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/2ec9e913-d1c7-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#E0002))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS QUE ESTÃO PROIBIDAS DE OPERAR NA UNIÃO, COM EXCEÇÕES ([^29^](http://publications.europa.eu/resource/cellar/858bdf71-e25a-46f6-9028-0df220a48462.0015.02/DOC_1#E0029))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJETO DE RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^30^](http://publications.europa.eu/resource/cellar/858bdf71-e25a-46f6-9028-0df220a48462.0015.02/DOC_1#E0030))
+  - date: '2017-05-18'
+    amending: eu:celex:32017R0830:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2017/830 DA COMISSÃO de 15 de maio de 2017
+    changes:
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS QUE ESTÃO PROIBIDAS DE OPERAR NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/8cf6fbf9-1de5-494c-ab4d-5fe03d08e5ca.0015.02/DOC_1#E0001))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/8cf6fbf9-1de5-494c-ab4d-5fe03d08e5ca.0015.02/DOC_1#E0002))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS QUE ESTÃO PROIBIDAS DE OPERAR NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/2ec9e913-d1c7-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#E0001))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS QUE SÃO OBJETO DE RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/2ec9e913-d1c7-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#E0002))
+  - date: '2017-12-03'
+    amending: eu:celex:32017R2215:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2017/2215 DA COMISSÃO de 30 de novembro de 2017
+    changes:
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS QUE ESTÃO PROIBIDAS DE OPERAR NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/84fb71ae-da67-4b04-9fbd-df6753916daa.0015.02/DOC_1#E0001))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/84fb71ae-da67-4b04-9fbd-df6753916daa.0015.02/DOC_1#E0002))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS QUE ESTÃO PROIBIDAS DE OPERAR NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/8cf6fbf9-1de5-494c-ab4d-5fe03d08e5ca.0015.02/DOC_1#E0001))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/8cf6fbf9-1de5-494c-ab4d-5fe03d08e5ca.0015.02/DOC_1#E0002))
+  - date: '2018-06-16'
+    amending: eu:celex:32018R0871:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2018/871 DA COMISSÃO de 14 de junho de 2018
+    changes:
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS QUE ESTÃO PROIBIDAS DE OPERAR NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/699c15f7-d9b8-48c5-9002-8bd154ad4865.0015.02/DOC_1#E0001))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/699c15f7-d9b8-48c5-9002-8bd154ad4865.0015.02/DOC_1#E0002))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS QUE ESTÃO PROIBIDAS DE OPERAR NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/84fb71ae-da67-4b04-9fbd-df6753916daa.0015.02/DOC_1#E0001))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/84fb71ae-da67-4b04-9fbd-df6753916daa.0015.02/DOC_1#E0002))
+  - date: '2019-12-11'
+    amending: eu:celex:32018R1866:por
+    amending_title: M32; M33; REGULAMENTO DE EXECUÇÃO (UE) 2019/2105 DA COMISSÃO de 9 de dezembro de 2019
+    changes:
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/9b31ca8c-4e90-11ea-aece-01aa75ed71a1.0019.03/DOC_1#E0001))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/9b31ca8c-4e90-11ea-aece-01aa75ed71a1.0019.03/DOC_1#E0002))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS QUE ESTÃO PROIBIDAS DE OPERAR NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/699c15f7-d9b8-48c5-9002-8bd154ad4865.0015.02/DOC_1#E0001))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/699c15f7-d9b8-48c5-9002-8bd154ad4865.0015.02/DOC_1#E0002))
+  - date: '2020-06-04'
+    amending: eu:celex:32020R0736:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/736 DA COMISSÃO de 2 de junho de 2020
+    changes:
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/732b9ef9-aff8-11ea-bb7a-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/732b9ef9-aff8-11ea-bb7a-01aa75ed71a1.0019.02/DOC_1#E0002))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/9b31ca8c-4e90-11ea-aece-01aa75ed71a1.0019.03/DOC_1#E0001))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/9b31ca8c-4e90-11ea-aece-01aa75ed71a1.0019.03/DOC_1#E0002))
+  - date: '2020-12-08'
+    amending: eu:celex:32020R1992:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/1992 DA COMISSÃO de 2 de dezembro de 2020
+    changes:
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/cb35c227-4f5e-11eb-b59f-01aa75ed71a1.0019.03/DOC_1#E0001))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/cb35c227-4f5e-11eb-b59f-01aa75ed71a1.0019.03/DOC_1#E0002))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/732b9ef9-aff8-11ea-bb7a-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/732b9ef9-aff8-11ea-bb7a-01aa75ed71a1.0019.02/DOC_1#E0002))
+  - date: '2021-06-03'
+    amending: eu:celex:32021R0883:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/883 DA COMISSÃO de 1 de junho de 2021
+    changes:
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/09d09ccd-db82-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/09d09ccd-db82-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0002))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/cb35c227-4f5e-11eb-b59f-01aa75ed71a1.0019.03/DOC_1#E0001))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/cb35c227-4f5e-11eb-b59f-01aa75ed71a1.0019.03/DOC_1#E0002))
+  - date: '2021-11-27'
+    amending: eu:celex:32021R2070:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/2070 DA COMISSÃO de 25 de novembro de 2021
+    changes:
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/4cbe3df5-627e-11ec-a033-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/4cbe3df5-627e-11ec-a033-01aa75ed71a1.0019.02/DOC_1#E0002))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/09d09ccd-db82-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/09d09ccd-db82-11eb-895a-01aa75ed71a1.0019.02/DOC_1#E0002))
+  - date: '2022-04-13'
+    amending: eu:celex:32022R0594:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/594 DA COMISSÃO de 8 de abril de 2022
+    changes:
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/8f0f95d5-d67a-11ec-a95f-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/8f0f95d5-d67a-11ec-a95f-01aa75ed71a1.0019.02/DOC_1#E0002))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/4cbe3df5-627e-11ec-a033-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/4cbe3df5-627e-11ec-a033-01aa75ed71a1.0019.02/DOC_1#E0002))
+  - date: '2022-06-03'
+    amending: eu:celex:32022R0862:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/862 DA COMISSÃO de 1 de junho de 2022
+    changes:
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/cb1c6dbe-f768-11ec-b94a-01aa75ed71a1.0020.02/DOC_1#E0001))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/cb1c6dbe-f768-11ec-b94a-01aa75ed71a1.0020.02/DOC_1#E0002))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/8f0f95d5-d67a-11ec-a95f-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/8f0f95d5-d67a-11ec-a95f-01aa75ed71a1.0019.02/DOC_1#E0002))
+  - date: '2022-11-25'
+    amending: eu:celex:32022R2295:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/2295 DA COMISSÃO de 23 de novembro de 2022
+    changes:
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/8f2f49d5-8b87-11ed-999b-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/8f2f49d5-8b87-11ed-999b-01aa75ed71a1.0019.02/DOC_1#E0002))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/cb1c6dbe-f768-11ec-b94a-01aa75ed71a1.0020.02/DOC_1#E0001))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/cb1c6dbe-f768-11ec-b94a-01aa75ed71a1.0020.02/DOC_1#E0002))
+  - date: '2023-06-08'
+    amending: eu:celex:32023R1111:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/1111 DA COMISSÃO de 6 de junho de 2023
+    changes:
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/62c3e1f3-1a7e-11ee-806b-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/62c3e1f3-1a7e-11ee-806b-01aa75ed71a1.0019.02/DOC_1#E0002))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/8f2f49d5-8b87-11ed-999b-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/8f2f49d5-8b87-11ed-999b-01aa75ed71a1.0019.02/DOC_1#E0002))
+  - date: '2023-12-01'
+    amending: eu:celex:32023R2691:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/2691 DA COMISSÃO de 29 de novembro de 2023
+    changes:
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/09a9995f-b0ab-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/09a9995f-b0ab-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0002))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/62c3e1f3-1a7e-11ee-806b-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/62c3e1f3-1a7e-11ee-806b-01aa75ed71a1.0019.02/DOC_1#E0002))
+  - date: '2024-06-01'
+    amending: eu:celex:32024R1601:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/1601 DA COMISSÃO de 30 de maio de 2024
+    changes:
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/743f1519-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/743f1519-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#E0002))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/09a9995f-b0ab-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/09a9995f-b0ab-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0002))
+  - date: '2024-12-17'
+    amending: eu:celex:32024R3137:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/3137 DA COMISSÃO de 13 de dezembro de 2024
+    changes:
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/4d0688b5-d803-11ef-be2a-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/4d0688b5-d803-11ef-be2a-01aa75ed71a1.0019.02/DOC_1#E0002))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/743f1519-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/743f1519-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#E0002))
+  - date: '2025-06-05'
+    amending: eu:celex:32025R1144:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/1144 DA COMISSÃO de 3 de junho de 2025
+    changes:
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/f6304bee-56a8-11f0-a9d0-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/f6304bee-56a8-11f0-a9d0-01aa75ed71a1.0019.02/DOC_1#E0002))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/4d0688b5-d803-11ef-be2a-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/4d0688b5-d803-11ef-be2a-01aa75ed71a1.0019.02/DOC_1#E0002))
+  - date: '2025-12-10'
+    amending: eu:celex:32025R2476:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/2476 DA COMISSÃO de 8 de dezembro de 2025
+    changes:
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/dc06443b-0c93-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/dc06443b-0c93-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0002))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/f6304bee-56a8-11f0-a9d0-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/f6304bee-56a8-11f0-a9d0-01aa75ed71a1.0019.02/DOC_1#E0002))
+  - date: '2026-06-11'
+    amending: eu:celex:32026R1317:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/1317 DA COMISSÃO de 8 de junho de 2026
+    changes:
+    - Altera Notas
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/575c125d-6fa3-11f1-ae88-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Adita LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/575c125d-6fa3-11f1-ae88-01aa75ed71a1.0019.02/DOC_1#E0002))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS OBJETO DE UMA PROIBIÇÃO DE OPERAÇÃO NA UNIÃO, COM EXCEÇÕES ([^1^](http://publications.europa.eu/resource/cellar/dc06443b-0c93-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Suprime LISTA DAS TRANSPORTADORAS AÉREAS SUJEITAS A RESTRIÇÕES OPERACIONAIS NA UNIÃO ([^2^](http://publications.europa.eu/resource/cellar/dc06443b-0c93-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0002))
 identifiers:
   celex: 32006R0474
   eli: http://data.europa.eu/eli/reg/2006/474/oj
@@ -49,7 +490,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5108c43d-7fc7-4504-bc84-ad08540b1c68.0016
   content_url: http://publications.europa.eu/resource/cellar/575c125d-6fa3-11f1-ae88-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R0474-20260611
-  retrieved_at: '2026-10-22T02:52:12Z'
+  retrieved_at: '2026-10-22T15:04:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-21T03:21:27.091+01:00'
 integrity:
@@ -58,9 +499,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:12Z'
-  notes: Texto consolidado 02006R0474-20260611.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:04:13Z'
+  notes: 47 versão(ões); histórico completo em regulamento-ue-2006-474.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -353,80 +794,19 @@ relationships:
   date: '2022-09-29'
 article_structure:
   article_count: 4
-  section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 5
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:12Z'
+  checked_at: '2026-10-22T15:04:13Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 474/2006 da Comissão, de 22 de Março de 2006
-
-> 02006R0474 — PT — 11.06.2026 — 048.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32006R0910) — [REGULAMENTO (CE) N.º 910/2006 DA COMISSÃO de 20 de Junho de 2006](http://publications.europa.eu/resource/celex/32006R0910) — L 168 — 16 — 21.6.2006
-- [M2](http://publications.europa.eu/resource/celex/32006R1543) — [REGULAMENTO (CE) N.º 1543/2006 DA COMISSÃO de 12 de Outubro de 2006](http://publications.europa.eu/resource/celex/32006R1543) — L 283 — 27 — 14.10.2006
-- [M3](http://publications.europa.eu/resource/celex/32007R0235) — [REGULAMENTO (CE) N.º 235/2007 DA COMISSÃO de 5 de Março de 2007](http://publications.europa.eu/resource/celex/32007R0235) — L 66 — 3 — 6.3.2007
-- [M4](http://publications.europa.eu/resource/celex/32007R0787) — [REGULAMENTO (CE) N.º 787/2007 DA COMISSÃO de 4 de Julho de 2007](http://publications.europa.eu/resource/celex/32007R0787) — L 175 — 10 — 5.7.2007
-- [M5](http://publications.europa.eu/resource/celex/32007R1043) — [REGULAMENTO (CE) N.º 1043/2007 DA COMISSÃO de 11 de Setembro de 2007](http://publications.europa.eu/resource/celex/32007R1043) — L 239 — 50 — 12.9.2007
-- [M6](http://publications.europa.eu/resource/celex/32007R1400) — [REGULAMENTO (CE) N.º 1400/2007 DA COMISSÃO de 28 de Novembro de 2007](http://publications.europa.eu/resource/celex/32007R1400) — L 311 — 12 — 29.11.2007
-- [M7](http://publications.europa.eu/resource/celex/32008R0331) — [REGULAMENTO (CE) N.º 331/2008 DA COMISSÃO de 11 de Abril de 2008](http://publications.europa.eu/resource/celex/32008R0331) — L 102 — 3 — 12.4.2008
-- [M8](http://publications.europa.eu/resource/celex/32008R0715) — [REGULAMENTO (CE) N.º 715/2008 DA COMISSÃO de 24 de Julho de 2008](http://publications.europa.eu/resource/celex/32008R0715) — L 197 — 36 — 25.7.2008
-- [M9](http://publications.europa.eu/resource/celex/32008R1131) — [REGULAMENTO (CE) N.º 1131/2008 DA COMISSÃO de 14 de Novembro de 2008](http://publications.europa.eu/resource/celex/32008R1131) — L 306 — 47 — 15.11.2008
-- [M10](http://publications.europa.eu/resource/celex/32009R0298) — [REGULAMENTO (CE) N.º 298/2009 DA COMISSÃO de 8 de Abril de 2009](http://publications.europa.eu/resource/celex/32009R0298) — L 95 — 16 — 9.4.2009
-- [M11](http://publications.europa.eu/resource/celex/32009R0619) — [REGULAMENTO (CE) N.º 619/2009 DA COMISSÃO de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0619) — L 182 — 4 — 15.7.2009
-- [M12](http://publications.europa.eu/resource/celex/32009R1144) — [REGULAMENTO (CE) N.º 1144/2009 DA COMISSÃO de 26 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1144) — L 312 — 16 — 27.11.2009
-- [M13](http://publications.europa.eu/resource/celex/32010R0273) — [REGULAMENTO (UE) N.º 273/2010 DA COMISSÃO de 30 de Março de 2010](http://publications.europa.eu/resource/celex/32010R0273) — L 84 — 25 — 31.3.2010
-- [M14](http://publications.europa.eu/resource/celex/32010R0590) — [REGULAMENTO (UE) N.º 590/2010 DA COMISSÃO de 5 de Julho de 2010](http://publications.europa.eu/resource/celex/32010R0590) — L 170 — 9 — 6.7.2010
-- [M15](http://publications.europa.eu/resource/celex/32010R0791) — [REGULAMENTO (UE) N.º 791/2010 DA COMISSÃO de 6 de Setembro de 2010](http://publications.europa.eu/resource/celex/32010R0791) — L 237 — 10 — 8.9.2010
-- [M16](http://publications.europa.eu/resource/celex/32010R1071) — [REGULAMENTO (UE) N.º 1071/2010 DA COMISSÃO de 22 de Novembro de 2010](http://publications.europa.eu/resource/celex/32010R1071) — L 306 — 44 — 23.11.2010
-- [M17](http://publications.europa.eu/resource/celex/32011R0390) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 390/2011 DA COMISSÃO de 19 de Abril de 2011](http://publications.europa.eu/resource/celex/32011R0390) — L 104 — 10 — 20.4.2011
-- [M18](http://publications.europa.eu/resource/celex/32011R1197) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1197/2011 DA COMISSÃO de 21 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1197) — L 303 — 14 — 22.11.2011
-- [M19](http://publications.europa.eu/resource/celex/32012R0295) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 295/2012 DA COMISSÃO de 3 de abril de 2012](http://publications.europa.eu/resource/celex/32012R0295) — L 98 — 13 — 4.4.2012
-- [M20](http://publications.europa.eu/resource/celex/32012R1146) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1146/2012 DA COMISSÃO de 3 de dezembro de 2012](http://publications.europa.eu/resource/celex/32012R1146) — L 333 — 7 — 5.12.2012
-- [M21](http://publications.europa.eu/resource/celex/32013R0659) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 659/2013 DA COMISSÃO de 10 de julho de 2013](http://publications.europa.eu/resource/celex/32013R0659) — L 190 — 54 — 11.7.2013
-- [M22](http://publications.europa.eu/resource/celex/32013R1264) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1264/2013 DA COMISSÃO de 3 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1264) — L 326 — 7 — 6.12.2013
-- [M23](http://publications.europa.eu/resource/celex/32014R0368) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 368/2014 DA COMISSÃO de 10 de abril de 2014](http://publications.europa.eu/resource/celex/32014R0368) — L 108 — 16 — 11.4.2014
-- [M24](http://publications.europa.eu/resource/celex/32014R1318) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1318/2014 DA COMISSÃO de 11 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014R1318) — L 355 — 8 — 12.12.2014
-- [M25](http://publications.europa.eu/resource/celex/32015R1014) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/1014 DA COMISSÃO de 25 de junho de 2015](http://publications.europa.eu/resource/celex/32015R1014) — L 162 — 65 — 27.6.2015
-- [M26](http://publications.europa.eu/resource/celex/32015R2322) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/2322 DA COMISSÃO de 10 de dezembro de 2015](http://publications.europa.eu/resource/celex/32015R2322) — L 328 — 67 — 12.12.2015
-- [M27](http://publications.europa.eu/resource/celex/32016R0963) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/963 DA COMISSÃO de 16 de junho de 2016](http://publications.europa.eu/resource/celex/32016R0963) — L 160 — 50 — 17.6.2016
-- [M28](http://publications.europa.eu/resource/celex/32016R2214) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/2214 DA COMISSÃO de 8 de dezembro de 2016](http://publications.europa.eu/resource/celex/32016R2214) — L 334 — 6 — 9.12.2016
-- [M29](http://publications.europa.eu/resource/celex/32017R0830) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/830 DA COMISSÃO de 15 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0830) — L 124 — 3 — 17.5.2017
-- [M30](http://publications.europa.eu/resource/celex/32017R2215) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/2215 DA COMISSÃO de 30 de novembro de 2017](http://publications.europa.eu/resource/celex/32017R2215) — L 318 — 1 — 2.12.2017
-- [M31](http://publications.europa.eu/resource/celex/32018R0871) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/871 DA COMISSÃO de 14 de junho de 2018](http://publications.europa.eu/resource/celex/32018R0871) — L 152 — 5 — 15.6.2018
-- [M32](http://publications.europa.eu/resource/celex/32018R1866) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1866 DA COMISSÃO de 28 de novembro de 2018](http://publications.europa.eu/resource/celex/32018R1866) — L 304 — 10 — 29.11.2018
-- [M33](http://publications.europa.eu/resource/celex/32019R0618) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/618 DA COMISSÃO de 15 de abril de 2019](http://publications.europa.eu/resource/celex/32019R0618) — L 106 — 1 — 17.4.2019
-- [M34](http://publications.europa.eu/resource/celex/32019R2105) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/2105 DA COMISSÃO de 9 de dezembro de 2019](http://publications.europa.eu/resource/celex/32019R2105) — L 318 — 79 — 10.12.2019
-- [M35](http://publications.europa.eu/resource/celex/32020R0736) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/736 DA COMISSÃO de 2 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0736) — L 172 — 7 — 3.6.2020
-- [M36](http://publications.europa.eu/resource/celex/32020R1992) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1992 DA COMISSÃO de 2 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R1992) — L 410 — 49 — 7.12.2020
-- [M37](http://publications.europa.eu/resource/celex/32021R0883) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/883 DA COMISSÃO de 1 de junho de 2021](http://publications.europa.eu/resource/celex/32021R0883) — L 194 — 22 — 2.6.2021
-- [M38](http://publications.europa.eu/resource/celex/32021R2070) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/2070 DA COMISSÃO de 25 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R2070) — L 421 — 31 — 26.11.2021
-- [M39](http://publications.europa.eu/resource/celex/32022R0594) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/594 DA COMISSÃO de 8 de abril de 2022](http://publications.europa.eu/resource/celex/32022R0594) — L 114 — 49 — 12.4.2022
-- [M40](http://publications.europa.eu/resource/celex/32022R0862) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/862 DA COMISSÃO de 1 de junho de 2022](http://publications.europa.eu/resource/celex/32022R0862) — L 151 — 45 — 2.6.2022
-- [M41](http://publications.europa.eu/resource/celex/32022R2295) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/2295 DA COMISSÃO de 23 de novembro de 2022](http://publications.europa.eu/resource/celex/32022R2295) — L 304 — 53 — 24.11.2022
-- [M42](http://publications.europa.eu/resource/celex/32023R1111) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1111 DA COMISSÃO de 6 de junho de 2023](http://publications.europa.eu/resource/celex/32023R1111) — L 147 — 142 — 7.6.2023
-- [M43](http://publications.europa.eu/resource/celex/32023R2691) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2691 DA COMISSÃO de 29 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2691) — L 2691 — 1 — 30.11.2023
-- [M44](http://publications.europa.eu/resource/celex/32024R1601) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1601 DA COMISSÃO de 30 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1601) — L 1601 — 1 — 31.5.2024
-- [M45](http://publications.europa.eu/resource/celex/32024R3137) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/3137 DA COMISSÃO de 13 de dezembro de 2024](http://publications.europa.eu/resource/celex/32024R3137) — L 3137 — 1 — 16.12.2024
-- [M46](http://publications.europa.eu/resource/celex/32025R1144) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1144 DA COMISSÃO de 3 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1144) — L 1144 — 1 — 4.6.2025
-- [M47](http://publications.europa.eu/resource/celex/32025R2476) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2476 DA COMISSÃO de 8 de dezembro de 2025](http://publications.europa.eu/resource/celex/32025R2476) — L 2476 — 1 — 9.12.2025
-- [►M48](http://publications.europa.eu/resource/celex/32026R1317) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1317 DA COMISSÃO de 8 de junho de 2026](http://publications.europa.eu/resource/celex/32026R1317) — L 1317 — 1 — 10.6.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32006R0474R%2801%29) — [Rectificação, JO L 161, 21.6.2011, p. 34 (474/2006)](http://publications.europa.eu/resource/celex/32006R0474R%2801%29)
-
-## REGULAMENTO (CE) N.º 474/2006 DA COMISSÃO
 
 de 22 de Março de 2006
 

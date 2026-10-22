@@ -34,6 +34,33 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2003-12-11'
+version_history:
+  file: diretiva-ue-1980-876.versoes.json
+  count: 2
+  source_lastmod: '2003-12-11'
+  versions:
+  - date: '1980-09-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-12-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime ANEXO I — CARACTERISTICAS E LIMITES DE UM ADUBO ELEMENTAR À BASE DE NITRATO DE AMONIO COM ELEVADO TEOR DE AZOTO
+    - Suprime ANEXO II — DESCRIÇÃO DO ENSAIO DE EXPLOSIVIDADE REFERIDO NO ARTIGO 7o
 identifiers:
   celex: 31980L0876
   eli: http://data.europa.eu/eli/dir/1980/876/oj
@@ -48,7 +75,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/89967f2a-b3d6-4e6f-aff0-342aa4321307.0011
   content_url: http://publications.europa.eu/resource/cellar/7321cdcc-d0bc-432a-b97c-2c108c788cf1.0009.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01980L0876-20031211
-  retrieved_at: '2026-10-22T03:03:34Z'
+  retrieved_at: '2026-10-22T14:33:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T04:39:14.779+01:00'
 integrity:
@@ -57,9 +84,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:03:34Z'
-  notes: Texto consolidado 01980L0876-20031211.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:33:15Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1980-876.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -98,16 +125,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:03:34Z'
+  checked_at: '2026-10-22T14:33:15Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01980L0876-19971226: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

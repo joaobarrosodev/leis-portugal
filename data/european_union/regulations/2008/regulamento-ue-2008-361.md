@@ -38,6 +38,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2008-361.versoes.json
+  count: 1
+  source_lastmod: '2008-05-14'
+  versions:
+  - date: '2008-05-07'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32008R0361
   eli: http://data.europa.eu/eli/reg/2008/361/oj
@@ -52,7 +61,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/35425de5-7c55-4e4e-a6b6-1981b492bf6d.0018
   content_url: http://publications.europa.eu/resource/cellar/35425de5-7c55-4e4e-a6b6-1981b492bf6d.0018.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:52:33Z'
+  retrieved_at: '2026-10-22T15:14:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T17:15:51.214+01:00'
 integrity:
@@ -61,9 +70,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:33Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:14:33Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2008-361.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -427,22 +436,21 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/59381a5c-e3d1-4007-b408-3c1c0e09fc03
   date: '2010-03-08'
 article_structure:
-  article_count: 5
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  article_count: 4
+  section_count: 2
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:33Z'
+  checked_at: '2026-10-22T15:14:33Z'
   warnings:
-  - Versão consolidada 02008R0361-20080514 indisponível (Sem expressão na língua por para CELEX 02008R0361-20080514.); usado
-    o texto do JO.
+  - '02008R0361-20080514: versão indisponível (Sem expressão na língua por para CELEX 02008R0361-20080514.)'
   errors: []
 ---
 
-# REGULAMENTO (CE) N.º 361/2008 DO CONSELHO
+# Regulamento (CE) n.° 361/2008 do Conselho, de 14 de Abril de 2008
 
 de 14 de Abril de 2008
 

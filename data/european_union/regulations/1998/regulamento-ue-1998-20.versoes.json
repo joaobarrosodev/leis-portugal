@@ -1,0 +1,199 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998R0020:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998R0020-20031107",
+ "dre_path": null,
+ "source_lastmod": "2003-11-07",
+ "versions": [
+  {
+   "date": "1998-01-08",
+   "future": false,
+   "celex": "31998R0020",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2cc0685183e5db85",
+    "96632b6b85106fd9",
+    "52b5ab04870e46bb",
+    "73ec15841eb75a9f",
+    "d479dbaa0317fff2",
+    "4795db730f526c0e",
+    "bb3ca5a2823c6249",
+    "61bdbb0e367dfad3",
+    "6876bb2e942070fb",
+    "7b88ab3289dd5710",
+    "516c176b7411a615",
+    "52ef0b8c20b7c2e2",
+    "2b822e53d20152d9",
+    "0b1aa5d432f840f7",
+    "8b29bf0f6e889cbe",
+    "233f972341b214d3"
+   ]
+  },
+  {
+   "date": "2003-11-07",
+   "future": false,
+   "celex": "01998R0020-20031107",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º"
+   ],
+   "fragments": [
+    "50aac25c1a0b62ea"
+   ]
+  }
+ ],
+ "fragments": {
+  "2cc0685183e5db85": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 20/98 da Comissão de 7 de Janeiro de 1998 que estabelece as regras de execução do Regulamento (CE) nº 2200/96 do Conselho no que respeita às ajudas aos agrupamentos de produtores pré-reconhecidos** *Jornal Oficial nº L 004 de 08/01/1998 p. 0040 - 0043*\n\nREGULAMENTO (CE) Nº 20/98 DA COMISSÃO de 7 de Janeiro de 1998 que estabelece as regras de execução do Regulamento (CE) nº 2200/96 do Conselho no que respeita às ajudas aos agrupamentos de produtores pré-reconhecidos\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) nº 2200/96 do Conselho, de 28 de Outubro de 1996, que estabelece a organização comum de mercado no sector das frutas e produtos hortícolas (1), alterado pelo Regulamento (CE) nº 2520/97 da Comissão (2), e, nomeadamente, o seu artigo 48º,\n\nConsiderando que o artigo 14º do Regulamento (CE) nº 2200/96 prevê que os novos agrupamentos de produtores ou os agrupamentos não reconhecidos ao abrigo do Regulamento (CEE) nº 1035/72 do Conselho (3), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1363/95 da Comissão (4), possam beneficiar de um período transitório de cinco anos, no máximo, para satisfazer as condições de reconhecimento fixadas no artigo 11º do Regulamento (CE) nº 2200/96; que o Regulamento (CE) nº 478/97 da Comissão (5) estabelece as condições de concessão do pré-reconhecimento aos referidos agrupamentos de produtores;\n\nConsiderando que, para estimular a constituição de organizações de produtores, o supracitado artigo 14º prevê também que os Estados-membros possam conceder aos agrupamentos de produtores pré-reconhecidos, durante os cinco anos seguintes à data do pré-reconhecimento, duas espécies de ajudas: umas destinadas a fazer face às despesas de constituição e de funcionamento administrativo, as outras para cobrir uma parte dos investimentos necessários ao reconhecimento e que constem a esse título do seu plano de reconhecimento;\n\nConsiderando que, a fim de facilitar a correcta aplicação do regime de ajuda para cobrir as despesas de constituição e de funcionamento administrativo, é conveniente concedê-la sob a forma de uma ajuda forfetária; que, para respeitar os condicionamentos orçamentais, é conveniente impor um limite a essa ajuda forfetária; que, para atender às diferentes necessidades económicas de agrupamentos de produtores de diversas dimensões, é conveniente adaptar essa ajuda forfetária em função da produção comercializável do agrupamento de produtores; que, dado que as regras contidas no Regulamento (CEE) nº 2118/78 da Comissão (6) já não se aplicam, é conveniente por conseguinte revogar aquele regulamento;\n\nConsiderando que, em relação aos investimentos elegíveis no âmbito do presente regulamento, é conveniente aplicar os critérios de escolha estabelecidos pela Comissão com base no artigo 8º do Regulamento (CE) nº 951/97 do Conselho, de 20 de Maio de 1997, relativo à melhoria das condições de transformação e comercialização dos produtos agrícolas (7), a fim de assegurar a coerência das diversas medidas que são objecto de um financiamento comunitário enquanto se aguarda a aplicação das novas orientações da política agrícola comum introduzidas pelo Regulamento (CE) nº 2200/96 no sector das frutas e dos produtos hortícolas;\n\nConsiderando que se deve pôr termo às ajudas previstas no presente regulamento aquando da concessão do reconhecimento à organização de produtores pelo Estado-membro; que, no entanto, para atender ao carácter plurianual do financiamento dos investimentos, os investimentos que beneficiem da ajuda ao investimento a título do presente regulamento podem ser retomados no âmbito dos programas operacionais referidos no artigo 15º do Regulamento (CE) nº 2200/96;\n\nConsiderando que, em caso de fusão, podem continuar a ser concedidas ajudas nos agrupamentos de produtores resultantes da fusão;\n\nConsiderando que, a fim de assegurar a correcta aplicação das ajudas previstas no presente regulamento, é conveniente que o Estado-membro verifique se a concessão da ajuda é devidamente justificada, tendo em conta uma eventual concessão anterior de ajuda ao arranque ao agrupamento de produtores e eventuais movimentos de produtores entre agrupamentos e/ou organizações de produtores; que os Estados-membros devem igualmente velar por que as medidas e/ou acções que beneficiem de um financiamento comunitário ao abrigo do presente regulamento não sejam objecto de um duplo financiamento comunitário ou nacional;\n\nConsiderando que há que determinar procedimentos de controlo e sanções;\n\nConsiderando que o nº 7 do artigo 14º do Regulamento (CE) nº 2200/96 prevê um regime especial para Portugal; que é conveniente prever disposições para a observância desse regime especial;\n\nConsiderando que o Comité de Gestão das Frutas e Produtos Hortícolas não emitiu qualquer parecer no prazo limite estabelecido pelo seu presidente,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "96632b6b85106fd9": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. O presente regulamento estabelece as regras de execução da concessão das ajudas previstas no nº 2 do artigo 14º do Regulamento (CE) nº 2200/96 aos agrupamentos de produtores pré-reconhecidos.\n\n2. Para efeitos do presente regulamento, entende-se por:\n\na) «Agrupamento de produtores pré-reconhecido»: um novo agrupamento de produtores ou um agrupamento não reconhecido ao abrigo do Regulamento (CEE) nº 1035/72 antes da entrada em vigor do Regulamento (CE) nº 2200/96, ao qual o Estado-membro tenha concedido o pré-reconhecimento em conformidade com o Regulamento (CE) nº 478/97;\n\nb) «Produtores»: os produtores referidos no nº 2 do artigo 1º do Regulamento (CE) nº 412/97 da Comissão (8);\n\nc) «Plano de reconhecimento»: o plano de reconhecimento escalonado, em conformidade com as disposições do Regulamento (CE) nº 478/97, apresentado pelo agrupamento de produtores, cuja aceitação dá início à contagem do prazo máximo de cinco anos referido no nº 1 do artigo 14º do Regulamento (CE) nº 2200/96;\n\nd) «Produção comercializada»: a produção dos membros de um agrupamento de produtores relativa à categoria de produtos a título da qual foi concedido o pré-reconhecimento:\n\n- entregue ao agrupamento de produtores em causa e efectivamente vendida por intermédio deste, no estado fresco ou transformado,\n\n- vendida em conformidade com o nº 1, segundo e terceiro travessões do ponto 3) da alínea c), do artigo 11º do Regulamento (CE) nº 2200/96, após autorização do agrupamento,\n\n- vendida directamente pelos seus membros nas condições previstas no nº 1, primeiro e quarto travessões do ponto 3) da alínea c), do artigo 11º do Regulamento (CE) nº 2200/96.\n\nA produção comercializada não inclui a produção dos membros de outras organizações ou agrupamentos de produtores comercializada por intermédio do agrupamento de produtores em causa em conformidade com o nº 1, segundo e terceiro travessões do ponto 3) da alínea c), do artigo 11º do Regulamento (CE) nº 2200/96;\n\ne) «Valor da produção comercializada»: o valor da produção considerada no estádio «saída do agrupamento de produtores» e, se for caso disso, «produto embalado ou preparado não transformado»."
+  },
+  "52b5ab04870e46bb": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. A ajuda referida no nº 2, alínea a), do artigo 14º do Regulamento (CE) nº 2200/96 é concedida para as despesas de constituição e de funcionamento administrativo do agrupamento de produtores, sob a forma de uma ajuda forfetária.\n\nO montante da ajuda prevista no nº 1 é determinado, para cada agrupamento de produtores, com base na sua produção anual comercializada e é:\n\na) Igual, respectivamente a título do primeiro, segundo, terceiro, quarto e quinto anos, a 5 %, 5 %, 4 %, 3 % e 2 % da produção comercializada, até ao limite de 1 000 000 de ecus dessa produção;\n\ne\n\nb) Igual, respectivamente a título do primeiro, segundo, terceiro, quarto e quinto anos, a 2,5 %, 2,5 %, 2,0 %, 1,5 % e 1,5 % de qualquer valor que exceda 1 000 000 de ecus de produção comercializada;\n\nc) Limitado a um máximo, por agrupamento de produtores, de:\n\n- 100 000 ecus, no primeiro ano,\n\n- 100 000 ecus, no segundo ano,\n\n- 80 000 ecus, no terceiro ano,\n\n- 60 000 ecus, no quarto ano,\n\n- 50 000 ecus, no quinto ano;\n\nd) Pago em fracções anuais durante, no máximo, um período de sete anos consecutivo à data do pré-reconhecimento, sendo os anos contados a partir de 1 de Janeiro do ano seguinte ao da concessão do pré-reconhecimento."
+  },
+  "73ec15841eb75a9f": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. A ajuda referida no nº 2, alínea b), do artigo 14º do Regulamento (CE) nº 2200/96 é concedida, directamente ou por intermédio de instituições de crédito, sob forma de empréstimos com características especiais, para cobrir uma parte das despesas relativas aos investimentos ligados à execução das acções e medidas constantes do plano de reconhecimento referido no nº 1 do artigo 4º do Regulamento (CE) nº 478/97.\n\nSão excluídos os investimentos que possam criar condições de distorção da concorrência nas outras actividades económicas do agrupamento dos produtores e os que não respeitem os critérios de escolha adoptados pela Comissão com base no nº 3 do artigo 8º do Regulamento (CE) nº 951/97.\n\n2. Os investimentos que, directa ou indirectamente, beneficiem as outras actividades económicas do agrupamento de produtores serão financiados proporcionalmente à sua utilização pelos sectores ou produtos a que diga respeito o pré-reconhecimento do agrupamento de produtores."
+  },
+  "d479dbaa0317fff2": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. A concessão do reconhecimento põe termo à concessão das ajudas previstas nos artigos 2º e 3º\n\n2. Em caso de apresentação de um programa operacional em conformidade com o Regulamento (CE) nº 411/97 da Comissão (9), o Estado-membro assegurar-se-á de que não existe duplo financiamento das acções financiadas pelo plano de reconhecimento.\n\n3. Os investimentos que beneficiem da ajuda prevista para as despesas de investimento referidas no artigo 3º podem ser retomados nos programas operacionais desde que a sua natureza seja conforme com as disposições do Regulamento (CE) nº 411/97."
+  },
+  "4795db730f526c0e": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Os pedidos de reembolso relativos às ajudas previstas para as despesas referidas nos artigos 2º e 3º, respeitantes a despesas pagas pelo Estado-membro no decurso do ano civil a todos os agrupamentos em causa, serão apresentados à Comissão, de uma só vez, até 30 de Junho do ano seguinte.\n\n2. Qualquer pedido de ajuda é acompanhado da declaração escrita da organização de produtores:\n\n- de respeitar as disposições do Regulamento (CE) nº 2200/96, do Regulamento (CE) nº 478/97 e do presente regulamento,\n\n- de não beneficiar nem ter beneficiado, directa ou indirectamente, de um duplo financiamento comunitário ou nacional no que respeita às medidas e/ou acções que beneficiem de um financiamento comunitário ao abrigo do presente regulamento."
+  },
+  "bb3ca5a2823c6249": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Podem beneficiar ou continuar a beneficiar das ajudas previstas nos artigos 2º e 3º do presente regulamento os agrupamentos de produtores pré-reconhecidos ao abrigo do Regulamento (CE) nº 478/97 que resultem da fusão de um agrupamento de produtores pré-reconhecido ao abrigo do Regulamento (CE) nº 478/97 e de:\n\na) Um ou vários agrupamentos de produtores pré-reconhecidos ao abrigo do Regulamento (CE) nº 478/97, e/ou\n\nb) Uma ou várias organizações de produtores reconhecidas ao abrigo do Regulamento (CEE) nº 1035/72, e/ou\n\nc) Uma ou várias organizações de produtores reconhecidas em conformidade com o artigo 11º do Regulamento (CE) nº 2200/96.\n\n2. Para o cálculo do montante da ajuda referida no nº 1, o agrupamento de produtores resultante da fusão substitui-se aos seus constituintes."
+  },
+  "61bdbb0e367dfad3": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nOs Estados-membros avaliarão a elegibilidade dos agrupamentos de produtores para as ajudas a título do presente regulamento, a fim de determinarem se a concessão de uma ajuda é devidamente justificada, tendo em conta as condições e a data da eventual concessão anterior de uma ajuda pública aos agrupamentos ou organizações de produtores de onde provenham os membros dos agrupamentos de produtores em causa, bem como eventuais movimentos de membros entre agrupamentos/organizações de produtores."
+  },
+  "6876bb2e942070fb": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nSão elegíveis a título do Fundo Europeu de Orientação e Garantia Agrícola (FEOGA), secção «Orientação» as despesas elegíveis efectuadas pelos Estados-membros em relação às ajudas previstas nos artigos 2º e 3º"
+  },
+  "7b88ab3289dd5710": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nA participação comunitária concedida a título do FEOGA, secção «Orientação» nas ajudas previstas no artigo 2º será de:\n\n- 75 % das despesas públicas elegíveis, nas regiões dos objectivos nºs 1 e 6, e\n\n- 50 % das despesas públicas elegíveis, nas outras regiões."
+  },
+  "516c176b7411a615": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. A contribuição concedida a título do FEOGA, secção «Orientação», expressa em equivalente a subvenção em capital, não pode exceder, em relação aos custos elegíveis dos investimentos referidos no artigo 3º:\n\n- 50 %, nas regiões dos objectivos nºs 1 e 6, e\n\n- 30 %, nas outras regiões.\n\n2. Os Estados-membros interessados devem comprometer-se a participar nas despesas de investimento referidas no artigo 3º com, pelo menos, 5 % dos custos elegíveis.\n\n3. A participação dos beneficiários da ajuda prevista para as despesas de investimento referidas no artigo 3º será de, pelo menos:\n\n- 25 % dos custos elegíveis, nas regiões dos objectivos nºs 1 e 6, e\n\n- 45 % dos custos elegíveis, nas outras regiões."
+  },
+  "52ef0b8c20b7c2e2": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. As despesas mencionadas no artigo 8º farão parte das previsões previstas no artigo 31º do Regulamento (CE) nº 950/97 do Conselho (10). No pagamento da contribuição comunitária será cumprido o disposto no artigo 33º do mesmo regulamento.\n\n2. A Comissão adoptará as normas relativas aos pedidos de pagamento/reembolso após consulta do comité referido no artigo 29º do Regulamento (CEE) nº 4256/88 do Conselho (11).\n\n3. Os controlos das ajudas previstas para as despesas referidas nos artigos 2º e 3º efectuar-se-ão em conformidade com o artigo 23º do Regulamento (CEE) nº 4253/88 do Conselho (12)."
+  },
+  "2b822e53d20152d9": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. Sempre que, aquando de um controlo efectuado em conformidade com o título VI do Regulamento (CE) nº 2200/96 ou de acordo com o artigo 23º do Regulamento (CEE) nº 4253/88, se verifique que:\n\n- o valor da produção comercializada é inferior ao montante utilizado para o cálculo da ajuda financeira comunitária, ou\n\n- que as ajudas previstas pelo presente regulamento foram utilizadas de um modo não conforme às disposições regulamentares aplicáveis ou ao plano de reconhecimento aprovado,\n\no beneficiário será obrigado a reembolsar o dobro dos montantes indevidamente pagos, aumentado de um juro calculado em função do prazo decorrido entre o pagamento e o reembolso pelo beneficiário.\n\nA taxa desse juro será a aplicada pelo Instituto Monetário Europeu nas suas operações em ecus, publicada no Jornal Oficial das Comunidades Europeias, série C, em vigor na data do pagamento indevido e aumentada de três pontos percentuais.\n\n2. Sempre que a diferença entre a ajuda efectivamente paga e a ajuda devida seja superior a 20 % da ajuda devida, o beneficiário será obrigado a reembolsar a totalidade de ajuda paga, aumentada dos juros referidos no nº 1.\n\nA parte dos montantes recuperados pelo Estado-membro que reverta para o FEOGA, secção «Orientação» e os juros serão ou deduzidos do pedido seguinte de saldo do reembolso dirigido ao FEOGA, secção «Orientação» ou reembolsados numa conta da Comissão.\n\n4. Em caso de falsa declaração prestada deliberadamente ou por negligência grave no quadro do presente regulamento, o agrupamento de produtores em causa será excluído do benefício da ajuda financeira comunitária durante todo o período restante do plano de reconhecimento em curso.\n\n5. Os nºs 1 a 4 aplicam-se sem prejuízo de outras sanções a adoptar em conformidade com o artigo 48º do Regulamento (CE) nº 2200/96."
+  },
+  "0b1aa5d432f840f7": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nCaso as autoridades portuguesas demonstrem que, em relação a um dado ano, a ajuda a pagar a um agrupamento de produtores em Portugal, em conformidade com o presente regulamento, é inferior à estabelecida no nº 7 do artigo 14º do Regulamento (CE) nº 2200/96, os montantes de ajuda previstos no nº 2 do artigo 2º serão aumentados de forma a satisfazer o disposto no referido artigo 14º"
+  },
+  "8b29bf0f6e889cbe": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nÉ revogado o Regulamento (CEE) nº 2118/78.\n\nEste regulamento mantém-se, no entanto, aplicável às organizações de produtores que tenham pedido ajudas referidas no artigo 14º do Regulamento (CEE) nº 1035/72 antes da entrada em vigor do Regulamento (CE) nº 2200/96 e ao cálculo a estabelecer nos termos do artigo 13º do presente regulamento."
+  },
+  "233f972341b214d3": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 7 de Janeiro de 1998.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO L 297 de 21. 11. 1996, p. 1.\n\n(2) JO L 346 de 17. 12. 1997, p. 41.\n\n(3) JO L 118 de 20. 5. 1972, p. 1.\n\n(4) JO L 132 de 16. 6. 1995, p. 8.\n\n(5) JO L 75 de 15. 3. 1997, p. 4.\n\n(6) JO L 246 de 8. 9. 1978, p. 11.\n\n(7) JO L 142 de 2. 6. 1997, p. 22.\n\n(8) JO L 62 de 4. 3. 1997, p. 16.\n\n(9) JO L 62 de 4. 3. 1997, p. 9.\n\n(10) JO L 142 de 2. 6. 1997, p. 1.\n\n(11) JO L 374 de 31. 12. 1988, p. 25.\n\n(12) JO L 374 de 31. 12. 1988, p. 1."
+  },
+  "50aac25c1a0b62ea": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1998R0020 — PT — 07.11.2003 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31998R0020) [REGULAMENTO (CE) N.º 20/98 DA COMISSÃO](http://publications.europa.eu/resource/celex/31998R0020) [de 7 de Janeiro de 1998](http://publications.europa.eu/resource/celex/31998R0020) [que estabelece as regras de execução do Regulamento (CE) n.º 2200/96 do Conselho no que respeita às ajudas aos agrupamentos de produtores pré-reconhecidos](http://publications.europa.eu/resource/celex/31998R0020) (JO L 004, 8.1.1998, p.40)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1943/2003 da Comissão de 3 de Novembro de 2003](http://publications.europa.eu/resource/celex/32003R1943) — L 286 — 5 — 4.11.2003"
+  }
+ }
+}

@@ -35,6 +35,159 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-01-01'
+version_history:
+  file: regulamento-ue-2005-1290.versoes.json
+  count: 8
+  source_lastmod: '2015-01-01'
+  versions:
+  - date: '2005-08-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-07-01'
+    amending: eu:celex:32006R0320:por
+    amending_title: REGULAMENTO (CE) N. o 320/2006 DO CONSELHO de 20 de Fevereiro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Despesas do FEAGA
+    - Altera Artigo 5.º — Outros financiamentos incluindo a assistência técnica
+    - Altera Artigo 8.º — Comunicação das informações e acesso aos documentos
+    - Altera Artigo 9.º — Protecção dos interesses financeiros da Comunidade e garantias relativas à gestão dos fundos comunitários
+    - Altera Artigo 33.º — Disposições específicas do FEADER
+    - Altera Artigo 34.º — Afectação das receitas provenientes dos Estados-Membros
+    - Altera Artigo 40.º — Despesas do FEOGA, secção «Orientação»
+    - Altera Artigo 42.º — Regras de execução
+    - Altera Artigo 44.º — Confidencialidade
+    - Altera Artigo 49.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Quadro de correspondência
+  - date: '2007-04-12'
+    amending: eu:celex:32007R0378:por
+    amending_title: REGULAMENTO (CE) N. o 378/2007 DO CONSELHO de 27 de Março de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Despesas do FEAGA
+    - Altera Artigo 5.º — Outros financiamentos incluindo a assistência técnica
+    - Altera Artigo 12.º — Limite máximo orçamental
+    - Altera Artigo 33.º — Disposições específicas do FEADER
+    - Altera Artigo 34.º — Afectação das receitas provenientes dos Estados-Membros
+    - Altera Artigo 40.º — Despesas do FEOGA, secção «Orientação»
+    - Altera Artigo 42.º — Regras de execução
+    - Altera Artigo 44.º — Confidencialidade
+    - Altera Notas
+  - date: '2008-08-01'
+    amending: eu:celex:32007R1437:por
+    amending_title: REGULAMENTO (CE) N. o 1437/2007 DO CONSELHO de 26 de Novembro de 2007; REGULAMENTO (CE) N. o 479/2008
+      DO CONSELHO de 29 de Abril de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Despesas do FEAGA
+    - Altera Artigo 5.º — Outros financiamentos incluindo a assistência técnica
+    - Altera Artigo 12.º — Limite máximo orçamental
+    - Altera Artigo 13.º — Custos administrativos e de pessoal
+    - Altera Artigo 26.º — Pagamentos intermédios
+    - Altera Artigo 31.º — Apuramento da conformidade
+    - Altera Artigo 33.º — Disposições específicas do FEADER
+    - Altera Artigo 34.º — Afectação das receitas provenientes dos Estados-Membros
+    - Altera Artigo 40.º — Despesas do FEOGA, secção «Orientação»
+    - Altera Artigo 42.º — Regras de execução
+    - Altera Artigo 44.º — Confidencialidade
+    - Altera Notas
+    - Adita Artigo 17.º-A — Redução e suspensão dos pagamentos mensais em casos específicos
+    - Adita Artigo 27.º-A — Suspensão e redução dos pagamentos intermédios em casos específicos
+    - Adita Artigo 44.º-A — Publicação da lista dos beneficiários
+  - date: '2009-01-16'
+    amending: eu:celex:32009R0013:por
+    amending_title: REGULAMENTO (CE) N. o 13/2009 DO CONSELHO de 18 de Dezembro de 2008; REGULAMENTO (CE) N.O 73/2009 DO CONSELHO
+      de 19 de Janeiro de 2009; REGULAMENTO (CE) N. o 473/2009 DO CONSELHO de 25 de Maio de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Despesas do FEAGA
+    - Altera Artigo 5.º — Outros financiamentos incluindo a assistência técnica
+    - Altera Artigo 12.º — Limite máximo orçamental
+    - Altera Artigo 13.º — Custos administrativos e de pessoal
+    - Altera Artigo 18.º — Respeito do limite máximo
+    - Altera Artigo 31.º — Apuramento da conformidade
+    - Altera Artigo 33.º — Disposições específicas do FEADER
+    - Altera Artigo 34.º — Afectação das receitas provenientes dos Estados-Membros
+    - Altera Artigo 40.º — Despesas do FEOGA, secção «Orientação»
+    - Altera Artigo 44.º — Confidencialidade
+    - Altera Notas
+  - date: '2012-01-01'
+    amending: eu:celex:32012R0121:por
+    amending_title: REGULAMENTO (UE) N. o 121/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de fevereiro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Despesas do FEAGA
+    - Altera Artigo 5.º — Outros financiamentos incluindo a assistência técnica
+    - Altera Artigo 12.º — Limite máximo orçamental
+    - Altera Artigo 13.º — Custos administrativos e de pessoal
+    - Altera Artigo 31.º — Apuramento da conformidade
+    - Altera Artigo 33.º — Disposições específicas do FEADER
+    - Altera Artigo 34.º — Afectação das receitas provenientes dos Estados-Membros
+    - Altera Artigo 40.º — Despesas do FEOGA, secção «Orientação»
+    - Altera Artigo 44.º — Confidencialidade
+    - Altera Notas
+  - date: '2013-12-31'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Despesas do FEAGA
+    - Altera Artigo 5.º — Outros financiamentos incluindo a assistência técnica
+    - Altera Artigo 12.º — Limite máximo orçamental
+    - Altera Artigo 13.º — Custos administrativos e de pessoal
+    - Altera Artigo 31.º — Apuramento da conformidade
+    - Altera Artigo 33.º — Disposições específicas do FEADER
+    - Altera Artigo 34.º — Afectação das receitas provenientes dos Estados-Membros
+    - Altera Artigo 40.º — Despesas do FEOGA, secção «Orientação»
+    - Altera Artigo 44.º — Confidencialidade
+    - Altera Notas
+  - date: '2015-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Fundos de financiamento das despesas agrícolas
+    - Suprime Artigo 3.º — Despesas do FEAGA
+    - Suprime Artigo 4.º — Despesas do FEADER
+    - Suprime Artigo 5.º — Outros financiamentos incluindo a assistência técnica
+    - Suprime Artigo 6.º — Acreditação e retirada da acreditação dos organismos pagadores e dos organismos de coordenação
+    - Suprime Artigo 7.º — Organismos de certificação
+    - Suprime Artigo 8.º — Comunicação das informações e acesso aos documentos
+    - Suprime Artigo 9.º — Protecção dos interesses financeiros da Comunidade e garantias relativas à gestão dos fundos comunitários
+    - Suprime Artigo 10.º — Admissibilidade dos pagamentos efectuados pelos organismos pagadores
+    - Suprime Artigo 11.º — Pagamento integral aos beneficiários
+    - Suprime TÍTULO II
+    - Suprime FEAGA
+    - Suprime CAPÍTULO 1
+    - Suprime Financiamento comunitário
+    - Suprime Artigo 12.º — Limite máximo orçamental
+    - Suprime Artigo 13.º — Custos administrativos e de pessoal
+    - Suprime Artigo 14.º — Pagamentos mensais
+    - Suprime Artigo 15.º — Regras relativas aos pagamentos mensais
+    - Suprime Artigo 16.º — Cumprimento dos prazos de pagamento
+    - Suprime Artigo 17.º — Redução e suspensão dos pagamentos mensais
+    - Suprime Artigo 17.º-A — Redução e suspensão dos pagamentos mensais em casos específicos
+    - Suprime CAPÍTULO 2
+    - Suprime Disciplina orçamental
+    - Suprime Artigo 18.º — Respeito do limite máximo
+    - Suprime Artigo 19.º — Procedimento de disciplina orçamental
+    - Suprime Artigo 20.º — Sistema de alerta
+    - Suprime Artigo 21.º — Taxa de câmbio de referência
+    - Suprime TÍTULO III
+    - Suprime FEADER
+    - Suprime Método de financiamento
+    - Suprime Artigo 22.º — Participação financeira do FEADER
+    - Suprime Artigo 23.º — Autorizações orçamentais
+    - Suprime Gestão financeira
+    - Suprime Artigo 24.º — Disposições comuns relativas aos pagamentos
+    - Suprime Artigo 25.º — Pagamento do pré-financiamento
+    - Suprime Artigo 26.º — Pagamentos intermédios
 identifiers:
   celex: 32005R1290
   eli: http://data.europa.eu/eli/reg/2005/1290/oj
@@ -49,7 +202,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b8ec155b-b6c8-4ebd-b55f-15406964668d.0016
   content_url: http://publications.europa.eu/resource/cellar/3771377d-d07c-4f55-ad5e-956ccf41253b.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R1290-20150101
-  retrieved_at: '2026-10-22T02:35:02Z'
+  retrieved_at: '2026-10-22T15:00:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-02T13:20:05.383+01:00'
 integrity:
@@ -58,9 +211,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:02Z'
-  notes: Texto consolidado 02005R1290-20150101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:00:27Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-2005-1290.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -420,16 +573,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:02Z'
+  checked_at: '2026-10-22T15:00:27Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02005R1290-20050818: versão indisponível (Sem expressão na língua por para CELEX 02005R1290-20050818.)'
   errors: []
 ---
 

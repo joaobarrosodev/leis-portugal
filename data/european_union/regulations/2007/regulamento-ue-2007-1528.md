@@ -36,6 +36,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-07-28'
+version_history:
+  file: regulamento-ue-2007-1528.versoes.json
+  count: 2
+  source_lastmod: '2016-07-28'
+  versions:
+  - date: '2007-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-07-28'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO 1
+    - Suprime OBJECTO, ÂMBITO DE APLICAÇÃO E ACESSO AO MERCADO
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Acesso ao mercado
+    - Suprime CAPÍTULO II
+    - Suprime REGRAS DE ORIGEM E COOPERAÇÃO ADMINISTRATIVA
+    - Suprime Artigo 4.º — Regras de origem
+    - Suprime Artigo 5.º — Cooperação administrativa
+    - Suprime CAPÍTULO III
+    - Suprime REGIMES TRANSITÓRIOS
+    - Suprime SECÇÃO 1
+    - Suprime Arroz
+    - Suprime Artigo 6.º — Contingentes pautais com direito nulo e eliminação de direitos
+    - Suprime SECÇÃO 2
+    - Suprime Açúcar
+    - Suprime Artigo 7.º — Contingentes pautais com direito nulo e eliminação de direitos
+    - Suprime Artigo 8.º — Regime transitório
+    - Suprime Artigo 9.º — Mecanismo transitório de salvaguarda para o açúcar
+    - Suprime Artigo 10.º — Mecanismo transitório de vigilância
+    - Suprime CAPÍTULO IV
+    - Suprime DISPOSIÇÕES GERAIS DE SALVAGUARDA
+    - Suprime Artigo 11.º — Definições
+    - Suprime Artigo 12.º — Princípios
+    - Suprime Artigo 13.º — Determinação das condições para a instituição de medidas de salvaguarda
+    - Suprime Artigo 14.º — Início de processos
+    - Suprime Artigo 15.º — Inquérito
+    - Suprime Artigo 16.º — Instituição de medidas provisórias de salvaguarda
+    - Suprime Artigo 17.º — Encerramento do inquérito e do processo sem instituição de medidas
+    - Suprime Artigo 18.º — Instituição de medidas definitivas
+    - Suprime Artigo 19.º — Duração e reexame das medidas de salvaguarda
+    - Suprime Artigo 20.º — Medidas de vigilância
+    - Suprime Artigo 21.º — Consultas
+    - Suprime Artigo 22.º — Medidas excepcionais de aplicação territorial limitada
+    - Suprime CAPÍTULO V
+    - Suprime DISPOSIÇÕES PROCESSUAIS
+    - Suprime Artigo 23.º — Adaptação aos progressos técnicos
+    - Suprime Artigo 24.º — Comité
+    - Suprime CAPÍTULO VI
 identifiers:
   celex: 32007R1528
   eli: http://data.europa.eu/eli/reg/2007/1528/oj
@@ -50,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/966c58ed-e2e4-4d32-b600-e0a35a170a6c.0018
   content_url: http://publications.europa.eu/resource/cellar/2d12ea2f-e852-4b99-a523-11a4d9100748.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R1528-20160728
-  retrieved_at: '2026-10-22T03:13:13Z'
+  retrieved_at: '2026-10-22T15:11:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-20T15:08:19.244+01:00'
 integrity:
@@ -59,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:13Z'
-  notes: Texto consolidado 02007R1528-20160728.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:11:11Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2007-1528.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -202,16 +255,19 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:13Z'
+  checked_at: '2026-10-22T15:11:11Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02007R1528-20081209: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007R1528-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007R1528-20140220: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007R1528-20141001: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02007R1528-20141225: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

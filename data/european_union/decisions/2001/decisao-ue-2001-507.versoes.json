@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001D0507:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001D0507-20040520",
+ "dre_path": null,
+ "source_lastmod": "2004-05-20",
+ "versions": [
+  {
+   "date": "2001-03-16",
+   "future": false,
+   "celex": "32001D0507",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4dbd2d5b3122b331",
+    "76b0b2428d3c0bcd",
+    "231b115128141fb5",
+    "55c647863e4d7947",
+    "b3d68e168b7d563a",
+    "9212cc557582399a",
+    "6fb9464f4a8ef322",
+    "4c3345896761ff02",
+    "2294d6fa946d2137",
+    "0c25341b800239c7",
+    "3ee888f006ed777a"
+   ]
+  }
+ ],
+ "fragments": {
+  "4dbd2d5b3122b331": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Decisão n.° 507/2001/CE do Parlamento Europeu e do Conselho, de 12 de Março de 2001, relativa a um conjunto de acções referentes à rede transeuropeia de recolha, produção e difusão das estatísticas das trocas de bens intra e extracomunitárias (Edicom)** *Jornal Oficial nº L 076 de 16/03/2001 p. 0001 - 0004*\n\nDecisão n.o 507/2001/CE do Parlamento Europeu e do Conselho\n\nde 12 de Março de 2001\n\nrelativa a um conjunto de acções referentes à rede transeuropeia de recolha, produção e difusão das estatísticas das trocas de bens intra e extracomunitárias (Edicom)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente, o seu artigo 285.o,\n\nTendo em conta a proposta da Comissão(1),\n\nDeliberando nos termos do artigo 251.o do Tratado(2),\n\nConsiderando o seguinte:\n\n(1) As acções realizadas no âmbito da Decisão 96/715/CE do Conselho, de 9 de Dezembro de 1996, relativa às redes telemáticas entre administrações para as estatísticas das trocas comerciais de bens entre Estados-Membros (Edicom)(3), permitiram uma melhoria considerável da qualidade das estatísticas intracomunitárias.\n\n(2) As estatísticas do comércio externo e intracomunitário entram agora numa nova fase do seu desenvolvimento, caracterizada por necessidades de informação crescentes e mais exigentes por parte dos utilizadores.\n\n(3) É necessário responder às necessidades urgentes da União Económica e Monetária, através do rápido fornecimento de estatísticas macroeconómicas fiáveis e precisas.\n\n(4) A modernização da rede transeuropeia de recolha, produção e difusão das estatísticas das trocas de bens intra e extracomunitárias deve ser um motor do desenvolvimento destas estatísticas.\n\n(5) O Regulamento (CEE) n.o 3330/91 do Conselho, de 7 de Novembro de 1991, relativo às estatísticas das trocas de bens entre Estados-Membros(4) (Intrastat) e o Regulamento (CE) n.o 1172/95 do Conselho, de 22 de Maio de 1995, relativo às estatísticas das trocas de bens da Comunidade e dos seus Estados-Membros com países terceiros(5), prevêem a criação das condições para uma maior utilização do tratamento automático e da transmissão electrónica de informações.\n\n(6) A simplificação do sistema Intrastat foi considerada como projecto-piloto no âmbito da iniciativa SLIM (simplificação da legislação do mercado interno), lançada em 1996. Devem-se prosseguir as acções destinadas a diminuir os encargos administrativos dos responsáveis pelo fornecimento da informação estatística, sobretudo as PME, que foram acolhidas favoravelmente pelo Parlamento Europeu e pelo Conselho.\n\n(7) Os objectivos da presente decisão são adequados e compatíveis com os das Decisões n.o 1719/1999/CE(6) e n.o 1720/1999/CE(7) do Parlamento Europeu e do Conselho, relativas às redes transeuropeias para o intercâmbio electrónico de dados entre administrações (IDA). Também se devem ter em conta as decisões IDA, em especial o artigo 11.o da Decisão n.o 1719/1999/CE, na aplicação da presente decisão.\n\n(8) Foi realizada uma avaliação prévia, de acordo com as regras de gestão financeira, para fixar o programa em torno do imperativo da eficácia quanto aos fins a atingir e para integrar as limitações orçamentais desde a fase de concepção do programa.\n\n(9) Os objectivos da acção prevista, ou seja, o desenvolvimento e a modernização da rede transeuropeia de recolha, tratamento e difusão das estatísticas sobre as trocas intra e extracomunitárias, não podem ser suficientemente realizados pelos Estados-Membros, podendo, pela sua dimensão, ser melhor alcançados ao nível comunitário, pelo que a Comunidade pode tomar medidas de acordo com o princípio da subsidiariedade previsto no artigo 5.o do Tratado. Segundo o princípio da proporcionalidade, previsto no mesmo artigo, a presente decisão não excede o necessário para atingir esses objectivos.\n\n(10) O Regulamento (CE) n.o 322/97 do Conselho, de 17 de Fevereiro de 1997, relativo às estatísticas comunitárias(8), constitui o quadro normativo das disposições da presente decisão, nomeadamente as que se referem ao acesso às fontes dos dados administrativos, ao segredo estatístico e ao princípio custo-eficácia.\n\n(11) As medidas necessárias à execução da presente decisão serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(9).\n\n(12) A presente decisão estabelece, para a duração total do programa, um enquadramento financeiro que constitui, para a autoridade orçamental, no âmbito do processo orçamental anual, a referência privilegiada na acepção do ponto 33 do Acordo Interinstitucional, de 6 de Maio de 1999, entre o Parlamento Europeu, o Conselho e a Comissão sobre a disciplina orçamental e a melhoria do processo orçamental(10),\n\nADOPTARAM A PRESENTE DECISÃO:"
+  },
+  "76b0b2428d3c0bcd": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação e objectivos gerais",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação e objectivos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação e objectivos gerais\n\n1. As medidas previstas na presente decisão dizem respeito à rede transeuropeia de recolha, produção e difusão das estatísticas das trocas de bens intra e extracomunitárias.\n\n2. Os objectivos gerais são os seguintes:\n\na) Favorecer a organização da rede referida no n.o 1 do modo mais moderno, racional e eficaz possível, acompanhando-a das medidas necessárias à melhoria e à harmonização dos métodos, a fim de produzir estatísticas:\n\n- mais fiáveis, menos onerosas para os responsáveis pelo fornecimento da informação e para as administrações, e mais rapidamente disponíveis;\n\n- que correspondam de forma mais pertinente às actuais e futuras expectativas dos utilizadores.\n\nb) Aprofundar o desenvolvimento dos instrumentos informáticos existentes ao nível da recolha, produção, transmissão e difusão da informação estatística, tendo em conta os mais recentes progressos tecnológicos e procurando a melhor relação custo-eficácia."
+  },
+  "231b115128141fb5": {
+   "fragment_id": "Artigo 2.º — Acções",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Acções\n\n1. Para cumprir os objectivos referidos no artigo 1.o, deve-se realizar um conjunto de acções (designado programa \"Edicom\") de:\n\na) Desenvolvimento da rede referida no n.o 1 do artigo 1.o, para:\n\n- produzir informações estatísticas de melhor qualidade, menos onerosas e mais rapidamente disponíveis, a fim de responder às exigências das políticas comunitárias;\n\n- produzir informações estatísticas pertinentes e adaptadas às novas necessidades dos utilizadores, no âmbito da União Económica e Monetária e da evolução das condições económicas internacionais;\n\n- melhor integrar as estatísticas das trocas de bens no sistema estatístico geral, a nível comunitário e internacional, e adaptá-las às evoluções das respectivas condições administrativas;\n\n- melhorar o serviço oferecido às administrações, aos fornecedores e utilizadores de informação, colocando à sua disposição o conjunto das estatísticas e metadados disponíveis no domínio das trocas de bens;\n\nb) Desenvolvimento e promoção dos instrumentos de recolha da informação relativa às trocas de bens, tendo em conta os mais recentes progressos tecnológicos, a fim de melhorar as funcionalidades oferecidas aos responsáveis pelo fornecimento da informação.\n\nAs condições específicas de concretização destas acções constam do anexo 1. A repartição indicativa para o conjunto do período é apresentada sob a forma de percentagens no anexo II.\n\n2. As medidas de execução das acções referidas no n.o 1 são adoptadas nos termos do n.o 2 do artigo 4.o"
+  },
+  "55c647863e4d7947": {
+   "fragment_id": "Artigo 3.º — Programa de trabalho anual e gestão das despesas",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Programa de trabalho anual e gestão das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Programa de trabalho anual e gestão das despesas\n\n1. Nos termos do n.o 2 do artigo 4.o, a Comissão aprova o programa de trabalho anual, incluindo a repartição das despesas orçamentais anuais a título da presente decisão.\n\n2. A Comissão informa o Comité do Programa Estatístico das Comunidades Europeias, instituído pela Decisão 89/382/CEE, Euratom do Conselho(11), acerca do programa de trabalho anual."
+  },
+  "b3d68e168b7d563a": {
+   "fragment_id": "Artigo 4.º — Procedimento",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimento\n\n1. A Comissão é assistida pelo Comité de Estatísticas das Trocas de Bens entre Estados-Membros, instituído pelo Regulamento (CEE) n.o 3330/91, e pelo Comité de Estatísticas das Trocas de Bens com os Países Terceiros, instituído pelo Regulamento (CE) n.o 1172/95, nas questões das suas competências respectivas.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.o e 7.o da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.o\n\nO prazo previsto no n.o 3 do artigo 4.o da Decisão 1999/468/CE é de três meses.\n\n3. Os Comités aprovarão os seus regulamentos internos."
+  },
+  "9212cc557582399a": {
+   "fragment_id": "Artigo 5.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Avaliação\n\n1. A Comissão procede regularmente, em colaboração com os Estados-Membros, a uma avaliação das acções financiadas ao abrigo da presente decisão, para verificar se os objectivos previstos foram atingidos e para fornecer orientações para uma maior eficácia das acções futuras. A Comissão submete à apreciação dos comités referidos no n.o 1 do artigo 4.o um resumo das avaliações que podem, eventualmente, ser por eles examinadas. Os relatórios de avaliação estão à disposição dos Estados-Membros que os solicitarem.\n\n2. Antes do final de Dezembro 2003, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório intercalar sobre as actividades financiadas com base no novo programa, a fim de permitir uma eventual revisão das acções realizadas ao abrigo da presente decisão.\n\nNo termo dos cinco anos referidos no segundo parágrafo do artigo 7.o, a Comissão apresenta um relatório relativo à aplicação da presente decisão ao Parlamento Europeu e ao Conselho, eventualmente acompanhado de propostas para novas acções.\n\nEste relatório destina-se especialmente a fazer uma estimativa, considerando as despesas efectuadas pela Comunidade, das vantagens que as acções efectuadas proporcionaram esta, aos Estados-Membros, aos fornecedores e utilizadores da informação estatística, e a identificar os pontos susceptíveis de serem melhorados, bem como a verificar as sinergias com outras actividades comunitárias, sobretudo no domínio das redes transeuropeias de telecomunicações e dos programas de desenvolvimento tecnológico.\n\n3. A Comissão toma qualquer outra medida necessária para verificar que as acções financiadas são conduzidas correctamente e no respeito das disposições da presente decisão."
+  },
+  "6fb9464f4a8ef322": {
+   "fragment_id": "Artigo 6.º — Aspectos financeiros",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Aspectos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aspectos financeiros\n\nO enquadramento financeiro para a execução da acção comunitária definida na presente decisão para o período de 2001-2005 é de 51,2 milhões de euros. No anexo II procede-se a uma repartição indicativa, segundo as categorias de acções previstas no artigo 2.o\n\nAs dotações anuais são autorizadas pela autoridade orçamental dentro do limite das perspectivas financeiras.\n\nOs recursos financeiros previstos a título da presente decisão não se destinam a acções que beneficiem de outras fontes de financiamento comunitário."
+  },
+  "4c3345896761ff02": {
+   "fragment_id": "Artigo 7.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor e aplicação\n\nA presente decisão entra em vigor no dia da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nA presente decisão é aplicável por um período de cinco anos, a contar da data da sua entrada em vigor."
+  },
+  "2294d6fa946d2137": {
+   "fragment_id": "Artigo 8.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 12 de Março de 2001.\n\nPelo Parlamento Europeu\n\nA Presidente\n\nN. Fontaine\n\nPelo Conselho\n\nO Presidente\n\nL. Pagrotsky\n\n(1) JO C 377 E de 28.11.2000, p. 246.\n\n(2) Parecer do Parlamento Europeu de 30 de Novembro de 2000 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 12 de Fevereiro de 2001.\n\n(3) JO L 327 de 18.12.1996, p. 34.\n\n(4) JO L 316 de 16.11.1991, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1624/00 do Conselho (JO L 187 de 26.7.2000, p. 1).\n\n(5) JO L 118 de 25.5.1995, p. 10. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 374/98 do Conselho (JO L 48 de 19.2.1998, p. 6).\n\n(6) JO L 203 de 3.8.1999, p. 1.\n\n(7) JO L 203 de 3.8.1999, p. 9.\n\n(8) JO L 52 de 22.2.1997, p. 1.\n\n(9) JO L 184 de 17.7.1999, p. 23.\n\n(10) JO C 172 de 18.6.1999, p. 1.\n\n(11) JO L 181 de 28.6.1989, p. 47."
+  },
+  "0c25341b800239c7": {
+   "fragment_id": "ANEXO I — Condições específicas para a concretização das acções previstas no artigo 2.o",
+   "type": "divisao",
+   "heading": "ANEXO I — Condições específicas para a concretização das acções previstas no artigo 2.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Condições específicas para a concretização das acções previstas no artigo 2.o\n\n1. A execução das acções previstas no artigo 2.o:\n\na) Tem em conta a necessidade de garantir a continuidade das ferramentas informáticas existentes, com utilidade reconhecida à luz dos objectivos constantes do artigo 1.o, respeitando a concorrência com o sector privado no domínio do serviço às empresas;\n\nb) Tem em conta os resultados adequados obtidos no âmbito de outras actividades pertinentes da Comunidade, em especial no domínio das redes transeuropeias de telecomunicações e dos programas comunitários de investigação e de desenvolvimento tecnológico; serão igualmente tidas em conta as obrigações previstas no artigo 11.o da Decisão n.o 1719/1999/CE;\n\nc) Faz referência às normas europeias em vigor e às especificações acessíveis ao público, tais como as normas abertas da Internet, de modo a garantir um elevado grau de interoperabilidade dos sistemas nacionais e comunitários nos e entre sectores administrativos e com o sector privado;\n\n2. No âmbito do programa de trabalho anual, as acções previstas no artigo 2.o são, previamente, objecto de:\n\na) Uma descrição dos seus objectivos, âmbito de aplicação, razão de ser, bem como dos custos e das vantagens previstos;\n\nb) Uma descrição das funcionalidades e da abordagem técnica;\n\nc) Um programa pormenorizado da sua aplicação, indicando, nomeadamente, cada uma das tarefas e a ordem segundo a qual se articulam.\n\n3. A execução do programa de trabalho anual carecerá do recurso à assistência técnica e administrativa, bem como a acções de apoio; as dotações atribuídas para esse efeito não podem exceder 7 % das dotações totais."
+  },
+  "3ee888f006ed777a": {
+   "fragment_id": "ANEXO II — Repartição indicativa por categorias de acções Edicom, em aplicação do artigo 2.o, para os anos de 2001-2005",
+   "type": "divisao",
+   "heading": "ANEXO II — Repartição indicativa por categorias de acções Edicom, em aplicação do artigo 2.o, para os anos de 2001-2005",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Repartição indicativa por categorias de acções Edicom, em aplicação do artigo 2.o, para os anos de 2001-2005\n\n>POSIÇÃO NUMA TABELA>"
+  }
+ }
+}

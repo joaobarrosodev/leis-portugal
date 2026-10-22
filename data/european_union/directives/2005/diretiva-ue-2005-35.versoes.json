@@ -1,0 +1,754 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005L0035:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0035-20250105",
+ "dre_path": null,
+ "source_lastmod": "2025-01-05",
+ "versions": [
+  {
+   "date": "2005-09-30",
+   "future": false,
+   "celex": "32005L0035",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8a5ff947a668cffb",
+    "74df1bedb7f68f53",
+    "b72f33027f469410",
+    "cb837baf9dc60323",
+    "e6807db43861440e",
+    "5d5bb6a4ebebd006",
+    "a84bfae1121e7761",
+    "8ce1c144d1b0babf",
+    "3a38f48c65b09a00",
+    "67b8d0c92a9b0b51",
+    "1d36bf380b401af3",
+    "50ac86e6429b2170",
+    "97fa1cf444b1c8c4",
+    "3fa85f91629327c5",
+    "42c52f53fc1aa2ed",
+    "24dd0b4d63b17ed4",
+    "ff976b64535a9b90",
+    "3614c466fa40dd5d",
+    "1290c13032ad127b",
+    "3c84c725b6e1fb15"
+   ]
+  },
+  {
+   "date": "2005-10-01",
+   "future": false,
+   "celex": "02005L0035-20051001",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 10.º — Medidas de acompanhamento",
+    "Altera Artigo 13.º — Procedimento de Comité",
+    "Altera Artigo 16.º — Execução",
+    "Altera Artigo 18.º — Destinatários",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita Resumo, para efeitos de referência, das regras da Convenção Marpol 73/78 relativas às descargas de hidrocarbonetos e de substâncias líquidas nocivas, a que se refere o ponto 2 do artigo 2.º",
+    "Adita Parte I: Hidrocarbonetos (Convenção Marpol 73/78, anexo I)",
+    "Adita Parte II: Substâncias líquidas nocivas (anexo II da Convenção Marpol 73/78)"
+   ],
+   "fragments": [
+    "aace6f1077c0a952",
+    "74df1bedb7f68f53",
+    "b72f33027f469410",
+    "cb837baf9dc60323",
+    "e6807db43861440e",
+    "5d5bb6a4ebebd006",
+    "a84bfae1121e7761",
+    "8ce1c144d1b0babf",
+    "3a38f48c65b09a00",
+    "67b8d0c92a9b0b51",
+    "0d2604a485e7fc8a",
+    "50ac86e6429b2170",
+    "97fa1cf444b1c8c4",
+    "5cf85c194dadd2cb",
+    "42c52f53fc1aa2ed",
+    "24dd0b4d63b17ed4",
+    "8585af3d61cb475c",
+    "3614c466fa40dd5d",
+    "04efa56f77cbb987",
+    "10220b9774fa9034",
+    "29c01d4cfb36d8f2",
+    "5cc72fb7af31faa7",
+    "1e3d11a7ac70a732",
+    "83503cd35dbee5c8"
+   ]
+  },
+  {
+   "date": "2009-11-16",
+   "future": false,
+   "celex": "02005L0035-20091116",
+   "acts": [
+    {
+     "id": "eu:celex:32009L0123:por",
+     "title": "DIRECTIVA 2009/123/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 21 de Outubro de 2009",
+     "published": null,
+     "celex": "32009L0123"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objecto",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 4.º — Infracções",
+    "Altera Artigo 5.º — Excepções",
+    "Altera Artigo 8.º — Sanções",
+    "Altera Artigo 10.º — Medidas de acompanhamento",
+    "Altera Artigo 13.º — Procedimento de Comité",
+    "Altera Notas",
+    "Adita Artigo 5.ºA — Infracções penais",
+    "Adita Artigo 5.ºB — Instigação e cumplicidade",
+    "Adita Artigo 8.ºA — Sanções aplicáveis às pessoas singulares",
+    "Adita Artigo 8.ºB — Responsabilidade das pessoas colectivas",
+    "Adita Artigo 8.ºC — Sanções aplicáveis às pessoas colectivas"
+   ],
+   "fragments": [
+    "aac4ff9f2f0597e0",
+    "18a17c32d26155ff",
+    "b77d307a40aee0ff",
+    "cb837baf9dc60323",
+    "f3fdad8282656259",
+    "d5c55dea41694193",
+    "e05d08a0afbf55aa",
+    "089612abfe55fedf",
+    "a84bfae1121e7761",
+    "8ce1c144d1b0babf",
+    "46a3ee71fe369373",
+    "7704fefe3f6a5dfd",
+    "911987884e3d131a",
+    "7cd15ae748f59fec",
+    "67b8d0c92a9b0b51",
+    "307e060b59f39a35",
+    "50ac86e6429b2170",
+    "97fa1cf444b1c8c4",
+    "b572844b6f217ef4",
+    "42c52f53fc1aa2ed",
+    "24dd0b4d63b17ed4",
+    "8585af3d61cb475c",
+    "3614c466fa40dd5d",
+    "04efa56f77cbb987",
+    "10220b9774fa9034",
+    "29c01d4cfb36d8f2",
+    "5cc72fb7af31faa7",
+    "1e3d11a7ac70a732",
+    "4cbb78c4f6086237"
+   ]
+  },
+  {
+   "date": "2025-01-05",
+   "future": false,
+   "celex": "02005L0035-20250105",
+   "acts": [
+    {
+     "id": "eu:celex:32024L3101:por",
+     "title": "DIRETIVA (UE) 2024/3101 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024",
+     "published": null,
+     "celex": "32024L3101"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 13.º — Procedimento de Comité",
+    "Altera Notas",
+    "Adita Artigo 1.º — Objeto",
+    "Adita Artigo 4.º — Infrações e exceções",
+    "Adita Artigo 6.º — Medidas de aplicação relativas a navios que se encontram num porto de um Estado-Membro",
+    "Adita Artigo 8.º — Sanções administrativas",
+    "Adita Artigo 8.º-D — Aplicação efetiva das sanções",
+    "Adita Artigo 10.º — Intercâmbio de informações e de experiência",
+    "Adita Artigo 10.º-A — Relatórios",
+    "Adita Artigo 10.º-B — Formação",
+    "Adita Artigo 10.º-C — Publicação da informação",
+    "Adita Artigo 10.º-D — Proteção das pessoas que denunciam potenciais infrações e proteção dos seus dados pessoais",
+    "Adita Artigo 12.º-A — Avaliação e revisão",
+    "Adita Artigo 16.º — Transposição",
+    "Adita ANEXO I",
+    "Adita Lista não exaustiva das irregularidades ou informações referidas no artigo 6.º",
+    "Adita ANEXO II",
+    "Adita Informações que devem constar da análise global à escala da União publicada pela Comissão, referida no artigo 10.º-C",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 4.º — Infracções",
+    "Suprime Artigo 5.º — Excepções",
+    "Suprime Artigo 5.ºA — Infracções penais",
+    "Suprime Artigo 5.ºB — Instigação e cumplicidade",
+    "Suprime Artigo 6.º — Medidas de aplicação no que respeita aos navios que se encontram num porto de um Estado-Membro",
+    "Suprime Artigo 8.º — Sanções",
+    "Suprime Artigo 8.ºA — Sanções aplicáveis às pessoas singulares",
+    "Suprime Artigo 8.ºB — Responsabilidade das pessoas colectivas",
+    "Suprime Artigo 8.ºC — Sanções aplicáveis às pessoas colectivas",
+    "Suprime Artigo 10.º — Medidas de acompanhamento",
+    "Suprime Artigo 11.º — Estudo de Viabilidade",
+    "Suprime Artigo 12.º — Relatórios",
+    "Suprime Artigo 14.º — Prestação de informações",
+    "Suprime Artigo 15.º — Procedimento de alteração",
+    "Suprime Artigo 16.º — Execução",
+    "Suprime ANEXO",
+    "Suprime Resumo, para efeitos de referência, das regras da Convenção Marpol 73/78 relativas às descargas de hidrocarbonetos e de substâncias líquidas nocivas, a que se refere o ponto 2 do artigo 2.º",
+    "Suprime Parte I: Hidrocarbonetos (Convenção Marpol 73/78, anexo I)",
+    "Suprime Parte II: Substâncias líquidas nocivas (anexo II da Convenção Marpol 73/78)"
+   ],
+   "fragments": [
+    "cd9e5b97bcbf2f24",
+    "96ad25330777bad1",
+    "9dd9cd66a82cbf30",
+    "2e6b087124f1a18c",
+    "8ea1684638295cb8",
+    "4abc38b87c080045",
+    "704f49a8b141e2a7",
+    "786694e3fcebc6ee",
+    "87a391fc6b545271",
+    "67b8d0c92a9b0b51",
+    "e5a88a3937add38f",
+    "b23f1dae026abc71",
+    "65fa4767c3cffdd0",
+    "5b6d6d5d4c38b794",
+    "0384060e08bd62e8",
+    "d453f7e07d8a1c63",
+    "41217a83df1fbfde",
+    "c0a3e01dba9a668b",
+    "3614c466fa40dd5d",
+    "04efa56f77cbb987",
+    "d664376e2a8dcecd",
+    "f81c74115ab21c59",
+    "852174729551523b",
+    "e67be208ee16a7be",
+    "73c5129959435526"
+   ]
+  }
+ ],
+ "fragments": {
+  "8a5ff947a668cffb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Setembro de 2005\n\nrelativa à poluição por navios e à introdução de sanções em caso de infracções\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 2 do artigo 80.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/e6a25180-e5fa-40f9-b696-8106994d6547.0017.03/DOC_1#ntr1-L_2005255PT.01001101-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/e6a25180-e5fa-40f9-b696-8106994d6547.0017.03/DOC_1#ntr2-L_2005255PT.01001101-E0002),\n\nConsiderando o seguinte:\n\n(1) A política de segurança marítima da Comunidade destina-se a assegurar um elevado nível de segurança e protecção do ambiente, baseando-se no princípio de que todas as partes envolvidas no transporte marítimo de mercadorias são responsáveis por garantir que os navios utilizados nas águas comunitárias cumprem as regras e normas aplicáveis.\n\n(2) As normas materiais relativas às descargas de substâncias poluentes provenientes de navios baseiam-se, em todos os Estados-Membros, na Convenção Marpol 73/78. No entanto, essas normas são diariamente ignoradas por um grande número de navios que navegam nas águas comunitárias, sem que sejam levadas a cabo acções correctivas.\n\n(3) A aplicação da Convenção Marpol 73/78 revela discrepâncias entre os Estados-Membros, sendo, por conseguinte, necessário harmonizar a sua aplicação a nível comunitário. Em especial, as práticas dos Estados-Membros no que se refere à aplicação de sanções por descargas de substâncias poluentes provenientes de navios são significativamente divergentes.\n\n(4) As medidas dissuasivas fazem parte integrante da política comunitária de segurança marítima, uma vez que asseguram a ligação entre a responsabilidade de cada uma das partes envolvidas no transporte marítimo de substâncias poluentes e a sua sujeição a sanções. Para assegurar a efectiva protecção do ambiente, são necessárias sanções efectivas, dissuasivas e proporcionadas.\n\n(5) Para o efeito, é essencial aproximar, através dos instrumentos legais adequados, as disposições legais vigentes, em especial em matéria de definição exacta da infracção em causa, dos casos de isenção e das normas mínimas em matéria de sanções, e de responsabilidade e competência jurisdicional.\n\n(6) A presente directiva é complementada por disposições pormenorizadas sobre infracções penais e sanções, bem como outras disposições enunciadas na Decisão-Quadro 2005/667/JAI do Conselho, de 12 de Julho de 2005, destinada a reforçar o quadro penal para a repressão da poluição por navios [([^3])](http://publications.europa.eu/resource/cellar/e6a25180-e5fa-40f9-b696-8106994d6547.0017.03/DOC_1#ntr3-L_2005255PT.01001101-E0003).\n\n(7) Nem o regime internacional de responsabilidade civil e compensação pela poluição por hidrocarbonetos nem o regime relativo à poluição por outras substâncias perigosas ou nocivas produzem efeitos suficientemente dissuasivos para desencorajar as partes envolvidas no transporte marítimo de cargas perigosas de aderirem a práticas que não respeitam as normas. Os efeitos dissuasivos necessários só podem ser obtidos mediante a introdução de sanções aplicáveis a todas as pessoas que causem poluição marinha ou para ela contribuam; as sanções deverão ser aplicáveis não só ao proprietário ou ao comandante do navio, mas também ao proprietário da carga, à sociedade de classificação ou a qualquer outra pessoa envolvida.\n\n(8) As descargas de substâncias poluentes devem ser consideradas infracções se forem cometidas com dolo, mera culpa ou negligência grave. Estas infracções são consideradas infracções penais pela Decisão-Quadro 2005/667/JAI, que complementa a presente directiva, e nas circunstâncias previstas na referida decisão.\n\n(9) As sanções aplicáveis às descargas de substâncias poluentes provenientes de navios não estão relacionadas com a responsabilidade civil das partes envolvidas, pelo que não estão sujeitas a quaisquer regras relativas à limitação ou canalização da responsabilidade civil nem limitam a indemnização eficiente das vítimas de incidentes de poluição.\n\n(10) É necessário reforçar a cooperação efectiva entre Estados-Membros para garantir a detecção atempada das descargas de substâncias poluentes provenientes de navios e a identificação dos infractores. Por este motivo, a Agência Europeia para a Segurança Marítima, instituída pelo Regulamento (CE) n.º 1406/2002 do Parlamento Europeu e do Conselho, de 27 de Junho de 2002 [([^4])](http://publications.europa.eu/resource/cellar/e6a25180-e5fa-40f9-b696-8106994d6547.0017.03/DOC_1#ntr4-L_2005255PT.01001101-E0004), desempenha um papel fundamental, colaborando com os Estados-Membros no desenvolvimento de soluções técnicas, prestando assistência técnica relacionada com a aplicação da presente directiva e apoiando a Comissão no cumprimento de qualquer missão que lhe seja confiada com o objectivo de assegurar uma aplicação eficaz da presente directiva.\n\n(11) A fim de melhor prevenir e combater a poluição marítima, devem ser criadas sinergias entre as autoridades responsáveis pela aplicação da lei, como sejam as guardas-costeiras nacionais. Para esse efeito, a Comissão deveria proceder a um estudo de viabilidade de uma Guarda Costeira Europeia encarregada da prevenção e da resposta a dar à poluição, tornando claros os custos e os benefícios. Este estudo deveria, se necessário, ser seguido de uma proposta de criação de uma Guarda Costeira Europeia.\n\n(12) Quando existam provas inequívocas e objectivas de uma descarga que cause danos importantes ou ameaça de danos importantes, os Estados-Membros devem apresentar a questão às suas autoridades competentes para iniciar procedimentos nos termos do artigo 220.º da Convenção das Nações Unidas sobre o Direito do Mar, de 1982.\n\n(13) A aplicação da Directiva 2000/59/CE do Parlamento Europeu e do Conselho, de 27 de Novembro de 2000, relativa aos meios portuários de recepção de resíduos gerados em navios e de resíduos da carga [([^5])](http://publications.europa.eu/resource/cellar/e6a25180-e5fa-40f9-b696-8106994d6547.0017.03/DOC_1#ntr5-L_2005255PT.01001101-E0005), representa, juntamente com a presente directiva, um instrumento fundamental no conjunto de medidas destinadas a prevenir a poluição causada pelos navios.\n\n(14) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^6])](http://publications.europa.eu/resource/cellar/e6a25180-e5fa-40f9-b696-8106994d6547.0017.03/DOC_1#ntr6-L_2005255PT.01001101-E0006).\n\n(15) Atendendo a que os objectivos da presente directiva, nomeadamente a incorporação no direito comunitário das normas internacionais relativas à poluição provocada por navios e a instituição de sanções — penais ou administrativas — pela respectiva violação, a fim de melhorar a segurança marítima e de assegurar um elevado nível de segurança e de protecção do ambiente nos transportes marítimos, não podem ser suficientemente realizados pelos Estados-Membros, e podem, pois, devido à dimensão e aos efeitos da acção prevista, ser melhor alcançados a nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aquele objectivo.\n\n(16) A presente directiva respeita integralmente a Carta dos Direitos Fundamentais da União Europeia; os suspeitos de crimes de poluição têm direito a um julgamento justo e as penas aplicadas devem ser proporcionais,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "74df1bedb7f68f53": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. O objecto da presente directiva consiste em incorporar no direito comunitário as normas internacionais relativas à poluição provocada por navios e assegurar que as pessoas responsáveis por descargas ilegais são sujeitas a sanções adequadas, em conformidade com o artigo 8.º, a fim de melhorar a segurança marítima e de reforçar a protecção do meio marinho relativamente à poluição por navios.\n\n2. A presente directiva não obsta a que os Estados-Membros tomem medidas mais rigorosas contra a poluição provocada por navios, nos termos do direito internacional."
+  },
+  "b72f33027f469410": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Convenção Marpol 73/78», a Convenção Internacional para a Prevenção da Poluição por Navios de 1973 e o protocolo de 1978, com a redacção que lhe for dada pelas subsequentes alterações.\n\n2. «Substâncias poluentes», as substâncias abrangidas pelo anexo I (hidrocarbonetos) e anexo II (substâncias líquidas nocivas a granel) da Convenção Marpol 73/78.\n\n3. «Descarga», qualquer forma de lançamento de produtos efectuada por um navio, nos termos do artigo 2.º da Convenção Marpol 73/78.\n\n4. «Navio», uma embarcação de qualquer tipo, independentemente do seu pavilhão, que opere no meio marinho, incluindo embarcações de sustentação hidrodinâmica, veículos de sustentação por ar, submersíveis e estruturas flutuantes."
+  },
+  "cb837baf9dc60323": {
+   "fragment_id": "Artigo 3.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1. A presente directiva é aplicável, nos termos do direito internacional, a descargas de substâncias poluentes:\n\na) Nas águas interiores, incluindo portos, de um Estado-Membro, desde que o regime Marpol seja aplicável;\n\nb) No mar territorial de um Estado-Membro;\n\nc) Nos estreitos utilizados para a navegação internacional sujeitos ao regime de passagem em trânsito estabelecido na secção 2 da parte III da Convenção das Nações Unidas sobre o direito do mar, de 1982, na medida em que um Estado-Membro exerça jurisdição sobre esses estreitos;\n\nd) Na zona económica exclusiva de um Estado-Membro ou numa zona equivalente, estabelecida nos termos do direito internacional; e\n\ne) No alto mar.\n\n2. A presente directiva é aplicável a descargas de substâncias poluentes efectuadas por qualquer navio, independentemente do seu pavilhão, com excepção dos navios de guerra, das unidades auxiliares de marinha e dos navios pertencentes ou operados por um Estado e utilizados, no momento considerado, unicamente para fins de serviço público não comercial."
+  },
+  "e6807db43861440e": {
+   "fragment_id": "Artigo 4.º — Infracções",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Infracções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Infracções\n\nOs Estados-Membros devem assegurar que as descargas de substâncias poluentes de navios em qualquer das zonas referidas no n.º 1 do artigo 3.º sejam consideradas infracções, se cometidas com dolo, mera culpa ou negligência grave. Estas infracções são consideradas infracções penais pela Decisão-Quadro 2005/667/JAI, que complementa a presente directiva, e nas circunstâncias previstas na referida decisão."
+  },
+  "5d5bb6a4ebebd006": {
+   "fragment_id": "Artigo 5.º — Excepções",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Excepções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Excepções\n\n1. As descargas de substâncias poluentes de navios em qualquer das zonas referidas no n.º 1 do artigo 3.º não são consideradas infracções se preencherem as condições estabelecidas nas regras 9 ou 10 ou nas alíneas a) ou c) da regra 11 do anexo I, na regra 5 ou nas alíneas a) ou c) da regra 6 do anexo II da Convenção Marpol 73/78.\n\n2. As descargas de substâncias poluentes efectuadas em quaisquer das zonas referidas nas alíneas c), d) e e) do n.º 1 do artigo 3.º não são consideradas infracções para o armador, o comandante e a tripulação sob as suas ordens, se preencherem as condições estabelecidas na alínea b) da regra 11 do anexo I ou na alínea b) da regra 6 do anexo II da Convenção Marpol 73/78."
+  },
+  "a84bfae1121e7761": {
+   "fragment_id": "Artigo 6.º — Medidas de aplicação no que respeita aos navios que se encontram num porto de um Estado-Membro",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Medidas de aplicação no que respeita aos navios que se encontram num porto de um Estado-Membro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Medidas de aplicação no que respeita aos navios que se encontram num porto de um Estado-Membro\n\n1. Em caso de irregularidades ou informações que criem a suspeita de que um navio que se encontra voluntariamente num porto de um Estado-Membro ou num seu terminal ao largo da costa efectuou ou se prepara para efectuar uma descarga de substâncias poluentes em qualquer das zonas referidas no n.º 1 do artigo 3.º, esse Estado-Membro deverá assegurar a realização de uma inspecção adequada, nos termos do seu direito interno, tendo em conta as orientações pertinentes aprovadas pela Organização Marítima Internacional (OMI).\n\n2. Sempre que a inspecção referida no n.º 1 revele factos que possam indiciar a prática de uma infracção na acepção do artigo 4.º, as autoridades competentes desse Estado-Membro e do Estado do pavilhão devem ser informadas."
+  },
+  "8ce1c144d1b0babf": {
+   "fragment_id": "Artigo 7.º — Medidas de aplicação dos Estados costeiros em relação a navios em trânsito",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Medidas de aplicação dos Estados costeiros em relação a navios em trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Medidas de aplicação dos Estados costeiros em relação a navios em trânsito\n\n1. Se a alegada descarga tiver sido efectuada numa das zonas referidas nas alíneas b), c), d) ou e) do n.º 1 do artigo 3.º, e o navio suspeito de a ter efectuado não escalar um porto do Estado-Membro que detém as informações relativas à alegada descarga, aplica-se o seguinte:\n\na) Se o porto de escala seguinte do navio se situar noutro Estado-Membro, os Estados-Membros em causa devem cooperar estreitamente na inspecção referida no n.º 1 do artigo 6.º e na decisão relativa às medidas adequadas a tomar relativamente à eventual descarga;\n\nb) Se o porto de escala seguinte do navio se situar num Estado que não pertença à Comunidade, o Estado-Membro deve tomar as medidas necessárias para garantir que esse porto seja informado da alegada descarga e solicita ao referido Estado que tome as medidas adequadas relativamente à eventual descarga.\n\n2. Sempre que existam provas inequívocas e objectivas de que um navio a navegar nas zonas referidas nas alíneas b) ou d) do n.º 1 do artigo 3.º cometeu, na zona a que se refere a alínea d) do n.º 1 do artigo 3.º, uma infracção resultante numa descarga que cause danos importantes, ou ameaça de danos importantes, no litoral ou em interesses afins do Estado-Membro em questão, ou em quaisquer recursos das zonas referidas nas alíneas b) ou d) do n.º 1 do artigo 3.º, esse Estado, sem prejuízo da secção 7 da parte XII, da Convenção das Nações Unidas sobre o direito do mar, de 1982, deve, desde que as provas o justifiquem, submeter a questão à apreciação das autoridades competentes a fim de iniciar procedimentos, incluindo a imobilização do navio, nos termos do seu direito interno.\n\n3. As autoridades do Estado do pavilhão devem, em qualquer caso, ser informadas."
+  },
+  "3a38f48c65b09a00": {
+   "fragment_id": "Artigo 8.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sanções\n\n1. Os Estados-Membros devem tomar as medidas necessárias para assegurar que as infracções a que se refere o artigo 4.º sejam objecto de sanções efectivas, proporcionadas e dissuasivas, que podem incluir sanções penais ou administrativas.\n\n2. Cada Estado-Membro deve tomar as medidas necessárias para assegurar que as sanções referidas no n.º 1 sejam aplicadas a qualquer pessoa que seja considerada responsável por uma infracção na acepção do artigo 4.º."
+  },
+  "67b8d0c92a9b0b51": {
+   "fragment_id": "Artigo 9.º — Cumprimento do direito internacional",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Cumprimento do direito internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cumprimento do direito internacional\n\nOs Estados-Membros devem aplicar as disposições da presente directiva sem qualquer discriminação formal ou material relativamente a navios estrangeiros e de acordo com o direito internacional aplicável, incluindo a secção 7 da parte XII da Convenção das Nações Unidas sobre o direito do mar, de 1982, e devem notificar imediatamente o Estado do pavilhão do navio e qualquer outro Estado interessado das medidas adoptadas ao abrigo da presente directiva."
+  },
+  "1d36bf380b401af3": {
+   "fragment_id": "Artigo 10.º — Medidas de acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Medidas de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas de acompanhamento\n\n1. Para efeitos da presente directiva, os Estados-Membros e a Comissão devem cooperar, sempre que adequado, em estreita colaboração com a Agência Europeia da Segurança Marítima, tendo em conta o programa de acção relativo à poluição marinha acidental ou deliberada previsto na Decisão n.º 2850/2000/CE [([^7])](http://publications.europa.eu/resource/cellar/e6a25180-e5fa-40f9-b696-8106994d6547.0017.03/DOC_1#ntr7-L_2005255PT.01001101-E0007), e, se for caso disso, a aplicação da Directiva 2000/59/CE, para:\n\na) Desenvolver os sistemas de informação necessários à aplicação efectiva da presente directiva;\n\nb) Estabelecer práticas e orientações comuns com base nas que estejam em vigor a nível internacional relativas, em especial: — à monitorização e identificação atempada dos navios que efectuam descargas poluentes em violação da presente directiva, incluindo, quando apropriado, do equipamento de bordo monitor das descargas, — a métodos fiáveis de relacionar substâncias poluentes presentes no mar com um navio específico, e — à aplicação efectiva da presente directiva.\n\n— à monitorização e identificação atempada dos navios que efectuam descargas poluentes em violação da presente directiva, incluindo, quando apropriado, do equipamento de bordo monitor das descargas,\n\n— a métodos fiáveis de relacionar substâncias poluentes presentes no mar com um navio específico, e\n\n— à aplicação efectiva da presente directiva.\n\n2. No âmbito das missões que lhe são confiadas nos termos do Regulamento (CE) n.º 1406/2002, a Agência Europeia para a Segurança Marítima deverá:\n\na) Cooperar com os Estados-Membros no desenvolvimento de soluções técnicas e na prestação de assistência técnica relacionada com a aplicação da presente directiva, em acções como a detecção de descargas através de controlo e vigilância por satélite;\n\nb) Assistir a Comissão na aplicação da presente directiva, incluindo, se for caso disso, através da realização de visitas aos Estados-Membros, nos termos do artigo 3.º do Regulamento (CE) n.º 1406/2002."
+  },
+  "50ac86e6429b2170": {
+   "fragment_id": "Artigo 11.º — Estudo de Viabilidade",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Estudo de Viabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Estudo de Viabilidade\n\nA fim de melhor prevenir e combater a poluição marítima, devem ser criadas sinergias entre as autoridades responsáveis pela aplicação da lei, como sejam as guardas-costeiras nacionais. Para esse efeito, a Comissão deverá apresentar ao Parlamento Europeu e ao Conselho, até ao fim de 2006, um estudo de viabilidade da criação de uma Guarda Costeira Europeia encarregada da prevenção e da resposta a dar à poluição, tornando claros os custos e os benefícios."
+  },
+  "97fa1cf444b1c8c4": {
+   "fragment_id": "Artigo 12.º — Relatórios",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Relatórios\n\nDe três em três anos, os Estados-Membros devem transmitir à Comissão um relatório sobre a aplicação da presente directiva pelas autoridades competentes. Com base nesses relatórios, a Comissão deve apresentar um relatório comunitário ao Parlamento Europeu e ao Conselho. Neste relatório, a Comissão deve apreciar, nomeadamente, a conveniência de rever a presente directiva ou de alargar o seu âmbito de aplicação. Além disso, deve descrever a evolução da jurisprudência relevante nos Estados-Membros e considerar a possibilidade de criar uma base de dados pública que reúna essa jurisprudência."
+  },
+  "3fa85f91629327c5": {
+   "fragment_id": "Artigo 13.º — Procedimento de Comité",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Procedimento de Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Procedimento de Comité\n\n1. A Comissão é assistida pelo Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS), instituído pelo artigo 3.º do Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho, de 5 de Novembro de 2002 [([^8])](http://publications.europa.eu/resource/cellar/e6a25180-e5fa-40f9-b696-8106994d6547.0017.03/DOC_1#ntr8-L_2005255PT.01001101-E0008).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de um mês."
+  },
+  "42c52f53fc1aa2ed": {
+   "fragment_id": "Artigo 14.º — Prestação de informações",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Prestação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prestação de informações\n\nA Comissão informa regularmente o Comité instituído pelo artigo 4.º da Decisão n.º 2850/2000/CE de quaisquer medidas ou outras actividades relevantes ligadas à luta contra a poluição marinha."
+  },
+  "24dd0b4d63b17ed4": {
+   "fragment_id": "Artigo 15.º — Procedimento de alteração",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Procedimento de alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Procedimento de alteração\n\nNos termos do artigo 5.º do Regulamento (CE) n.º 2099/2002 e nos termos do procedimento previsto no artigo 13.º da presente directiva, o Comité para a Segurança Marítima e a Prevenção da Poluição por navios (COSS) pode excluir alterações à Convenção Marpol 73/78 do âmbito de aplicação da presente directiva."
+  },
+  "ff976b64535a9b90": {
+   "fragment_id": "Artigo 16.º — Execução",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Execução\n\nOs Estados-Membros devem aprovar as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, até 1 de Março de 2007 e informar imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser dela acompanhadas aquando da sua publicação oficial. As modalidades dessa referência serão definidas pelos Estados-Membros."
+  },
+  "3614c466fa40dd5d": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nA presente directiva entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "1290c13032ad127b": {
+   "fragment_id": "Artigo 18.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Estrasburgo, em 7 de Setembro de 2005.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BORRELL FONTELLES**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**C. CLARKE**\n\n---"
+  },
+  "3c84c725b6e1fb15": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/e6a25180-e5fa-40f9-b696-8106994d6547.0017.03/DOC_1#ntc1-L_2005255PT.01001101-E0001) [JO C 220 de 16.9.2003, p. 72](http://publications.europa.eu/resource/oj/JOC_2003_220_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/e6a25180-e5fa-40f9-b696-8106994d6547.0017.03/DOC_1#ntc2-L_2005255PT.01001101-E0002) Parecer do Parlamento Europeu de 13 de Janeiro de 2004 ([JO C 92 E de 16.4.2004, p. 77](http://publications.europa.eu/resource/oj/JOC_2004_092_E_TOC)), Posição Comum do Conselho de 7 de Outubro de 2004 ([JO C 25 E de 1.2.2005, p. 29](http://publications.europa.eu/resource/oj/JOC_2005_025_E_TOC)), Posição do Parlamento Europeu de 23 de Fevereiro de 2005 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 12 de Julho de 2005.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/e6a25180-e5fa-40f9-b696-8106994d6547.0017.03/DOC_1#ntc3-L_2005255PT.01001101-E0003) Ver p. 164 do presente Jornal Oficial.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/e6a25180-e5fa-40f9-b696-8106994d6547.0017.03/DOC_1#ntc4-L_2005255PT.01001101-E0004) [JO L 208 de 5.8.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_208_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 724/2004 ([JO L 129 de 29.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_129_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/e6a25180-e5fa-40f9-b696-8106994d6547.0017.03/DOC_1#ntc5-L_2005255PT.01001101-E0005) [JO L 332 de 28.12.2000, p. 81](http://publications.europa.eu/resource/oj/JOL_2000_332_R_TOC). Directiva alterada pela Directiva 2002/84/CE ([JO L 324 de 29.11.2002, p. 53](http://publications.europa.eu/resource/oj/JOL_2002_324_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/e6a25180-e5fa-40f9-b696-8106994d6547.0017.03/DOC_1#ntc6-L_2005255PT.01001101-E0006) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC) (rectificação no [JO L 269 de 19.10.1999, p. 45](http://publications.europa.eu/resource/oj/JOL_1999_269_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/e6a25180-e5fa-40f9-b696-8106994d6547.0017.03/DOC_1#ntc7-L_2005255PT.01001101-E0007) Decisão n.º 2850/2000/CE do Parlamento Europeu e do Conselho, de 20 de Dezembro de 2000, que define um quadro comunitário para a cooperação no domínio da poluição marinha acidental ou deliberada ([JO L 332 de 28.12.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_332_R_TOC)). Decisão alterada pela Decisão n.º 787/2004/CE ([JO L 138 de 30.4.2004, p. 12](http://publications.europa.eu/resource/oj/JOL_2004_138_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/e6a25180-e5fa-40f9-b696-8106994d6547.0017.03/DOC_1#ntc8-L_2005255PT.01001101-E0008) [JO L 324 de 29.11.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_324_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 415/2004 da Comissão ([JO L 68 de 6.3.2004, p. 10](http://publications.europa.eu/resource/oj/JOL_2004_068_R_TOC))."
+  },
+  "aace6f1077c0a952": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Setembro de 2005\n\nrelativa à poluição por navios e à introdução de sanções em caso de infracções\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 2 do artigo 80.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/3a2c65be-15e2-4e91-986a-21a64a3b48c0.0017.03/DOC_1#E0001)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/3a2c65be-15e2-4e91-986a-21a64a3b48c0.0017.03/DOC_1#E0002)),\n\n(1) A política de segurança marítima da Comunidade destina-se a assegurar um elevado nível de segurança e protecção do ambiente, baseando-se no princípio de que todas as partes envolvidas no transporte marítimo de mercadorias são responsáveis por garantir que os navios utilizados nas águas comunitárias cumprem as regras e normas aplicáveis.\n\n(2) As normas materiais relativas às descargas de substâncias poluentes provenientes de navios baseiam-se, em todos os Estados-Membros, na Convenção Marpol 73/78. No entanto, essas normas são diariamente ignoradas por um grande número de navios que navegam nas águas comunitárias, sem que sejam levadas a cabo acções correctivas.\n\n(3) A aplicação da Convenção Marpol 73/78 revela discrepâncias entre os Estados-Membros, sendo, por conseguinte, necessário harmonizar a sua aplicação a nível comunitário. Em especial, as práticas dos Estados-Membros no que se refere à aplicação de sanções por descargas de substâncias poluentes provenientes de navios são significativamente divergentes.\n\n(4) As medidas dissuasivas fazem parte integrante da política comunitária de segurança marítima, uma vez que asseguram a ligação entre a responsabilidade de cada uma das partes envolvidas no transporte marítimo de substâncias poluentes e a sua sujeição a sanções. Para assegurar a efectiva protecção do ambiente, são necessárias sanções efectivas, dissuasivas e proporcionadas.\n\n(5) Para o efeito, é essencial aproximar, através dos instrumentos legais adequados, as disposições legais vigentes, em especial em matéria de definição exacta da infracção em causa, dos casos de isenção e das normas mínimas em matéria de sanções, e de responsabilidade e competência jurisdicional.\n\n(6) A presente directiva é complementada por disposições pormenorizadas sobre infracções penais e sanções, bem como outras disposições enunciadas na Decisão-Quadro 2005/667/JAI do Conselho, de 12 de Julho de 2005, destinada a reforçar o quadro penal para a repressão da poluição por navios ([^3^](http://publications.europa.eu/resource/cellar/3a2c65be-15e2-4e91-986a-21a64a3b48c0.0017.03/DOC_1#E0003)).\n\n(7) Nem o regime internacional de responsabilidade civil e compensação pela poluição por hidrocarbonetos nem o regime relativo à poluição por outras substâncias perigosas ou nocivas produzem efeitos suficientemente dissuasivos para desencorajar as partes envolvidas no transporte marítimo de cargas perigosas de aderirem a práticas que não respeitam as normas. Os efeitos dissuasivos necessários só podem ser obtidos mediante a introdução de sanções aplicáveis a todas as pessoas que causem poluição marinha ou para ela contribuam; as sanções deverão ser aplicáveis não só ao proprietário ou ao comandante do navio, mas também ao proprietário da carga, à sociedade de classificação ou a qualquer outra pessoa envolvida.\n\n(8) As descargas de substâncias poluentes devem ser consideradas infracções se forem cometidas com dolo, mera culpa ou negligência grave. Estas infracções são consideradas infracções penais pela Decisão-Quadro 2005/667/JAI, que complementa a presente directiva, e nas circunstâncias previstas na referida decisão.\n\n(9) As sanções aplicáveis às descargas de substâncias poluentes provenientes de navios não estão relacionadas com a responsabilidade civil das partes envolvidas, pelo que não estão sujeitas a quaisquer regras relativas à limitação ou canalização da responsabilidade civil nem limitam a indemnização eficiente das vítimas de incidentes de poluição.\n\n(10) É necessário reforçar a cooperação efectiva entre Estados-Membros para garantir a detecção atempada das descargas de substâncias poluentes provenientes de navios e a identificação dos infractores. Por este motivo, a Agência Europeia para a Segurança Marítima, instituída pelo Regulamento (CE) n.º 1406/2002 do Parlamento Europeu e do Conselho, de 27 de Junho de 2002 ([^4^](http://publications.europa.eu/resource/cellar/3a2c65be-15e2-4e91-986a-21a64a3b48c0.0017.03/DOC_1#E0004)), desempenha um papel fundamental, colaborando com os Estados-Membros no desenvolvimento de soluções técnicas, prestando assistência técnica relacionada com a aplicação da presente directiva e apoiando a Comissão no cumprimento de qualquer missão que lhe seja confiada com o objectivo de assegurar uma aplicação eficaz da presente directiva.\n\n(11) A fim de melhor prevenir e combater a poluição marítima, devem ser criadas sinergias entre as autoridades responsáveis pela aplicação da lei, como sejam as guardas-costeiras nacionais. Para esse efeito, a Comissão deveria proceder a um estudo de viabilidade de uma Guarda Costeira Europeia encarregada da prevenção e da resposta a dar à poluição, tornando claros os custos e os benefícios. Este estudo deveria, se necessário, ser seguido de uma proposta de criação de uma Guarda Costeira Europeia.\n\n(12) Quando existam provas inequívocas e objectivas de uma descarga que cause danos importantes ou ameaça de danos importantes, os Estados-Membros devem apresentar a questão às suas autoridades competentes para iniciar procedimentos nos termos do artigo 220.º da Convenção das Nações Unidas sobre o Direito do Mar, de 1982.\n\n(13) A aplicação da Directiva 2000/59/CE do Parlamento Europeu e do Conselho, de 27 de Novembro de 2000, relativa aos meios portuários de recepção de resíduos gerados em navios e de resíduos da carga ([^5^](http://publications.europa.eu/resource/cellar/3a2c65be-15e2-4e91-986a-21a64a3b48c0.0017.03/DOC_1#E0005)), representa, juntamente com a presente directiva, um instrumento fundamental no conjunto de medidas destinadas a prevenir a poluição causada pelos navios.\n\n(14) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/3a2c65be-15e2-4e91-986a-21a64a3b48c0.0017.03/DOC_1#E0006)).\n\n(15) Atendendo a que os objectivos da presente directiva, nomeadamente a incorporação no direito comunitário das normas internacionais relativas à poluição provocada por navios e a instituição de sanções — penais ou administrativas — pela respectiva violação, a fim de melhorar a segurança marítima e de assegurar um elevado nível de segurança e de protecção do ambiente nos transportes marítimos, não podem ser suficientemente realizados pelos Estados-Membros, e podem, pois, devido à dimensão e aos efeitos da acção prevista, ser melhor alcançados a nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aquele objectivo.\n\n(16) A presente directiva respeita integralmente a Carta dos Direitos Fundamentais da União Europeia; os suspeitos de crimes de poluição têm direito a um julgamento justo e as penas aplicadas devem ser proporcionais,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "0d2604a485e7fc8a": {
+   "fragment_id": "Artigo 10.º — Medidas de acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Medidas de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas de acompanhamento\n\n1. Para efeitos da presente directiva, os Estados-Membros e a Comissão devem cooperar, sempre que adequado, em estreita colaboração com a Agência Europeia da Segurança Marítima, tendo em conta o programa de acção relativo à poluição marinha acidental ou deliberada previsto na Decisão n.º 2850/2000/CE ([^7^](http://publications.europa.eu/resource/cellar/3a2c65be-15e2-4e91-986a-21a64a3b48c0.0017.03/DOC_1#E0007)), e, se for caso disso, a aplicação da Directiva 2000/59/CE, para:\n\na) Desenvolver os sistemas de informação necessários à aplicação efectiva da presente directiva;\n\nb) Estabelecer práticas e orientações comuns com base nas que estejam em vigor a nível internacional relativas, em especial:\n\n— à monitorização e identificação atempada dos navios que efectuam descargas poluentes em violação da presente directiva, incluindo, quando apropriado, do equipamento de bordo monitor das descargas,\n\n— a métodos fiáveis de relacionar substâncias poluentes presentes no mar com um navio específico, e\n\n— à aplicação efectiva da presente directiva.\n\n2. No âmbito das missões que lhe são confiadas nos termos do Regulamento (CE) n.º 1406/2002, a Agência Europeia para a Segurança Marítima deverá:\n\na) Cooperar com os Estados-Membros no desenvolvimento de soluções técnicas e na prestação de assistência técnica relacionada com a aplicação da presente directiva, em acções como a detecção de descargas através de controlo e vigilância por satélite;\n\nb) Assistir a Comissão na aplicação da presente directiva, incluindo, se for caso disso, através da realização de visitas aos Estados-Membros, nos termos do artigo 3.º do Regulamento (CE) n.º 1406/2002."
+  },
+  "5cf85c194dadd2cb": {
+   "fragment_id": "Artigo 13.º — Procedimento de Comité",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Procedimento de Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Procedimento de Comité\n\n1. A Comissão é assistida pelo Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS), instituído pelo artigo 3.º do Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho, de 5 de Novembro de 2002 ([^8^](http://publications.europa.eu/resource/cellar/3a2c65be-15e2-4e91-986a-21a64a3b48c0.0017.03/DOC_1#E0008)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de um mês."
+  },
+  "8585af3d61cb475c": {
+   "fragment_id": "Artigo 16.º — Execução",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Execução\n\nOs Estados-Membros devem aprovar as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, até 1 de Abril de 2007 e informar imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser dela acompanhadas aquando da sua publicação oficial. As modalidades dessa referência serão definidas pelos Estados-Membros."
+  },
+  "04efa56f77cbb987": {
+   "fragment_id": "Artigo 18.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "29c01d4cfb36d8f2": {
+   "fragment_id": "Resumo, para efeitos de referência, das regras da Convenção Marpol 73/78 relativas às descargas de hidrocarbonetos e de substâncias líquidas nocivas, a que se refere o ponto 2 do artigo 2.º",
+   "type": "divisao",
+   "heading": "Resumo, para efeitos de referência, das regras da Convenção Marpol 73/78 relativas às descargas de hidrocarbonetos e de substâncias líquidas nocivas, a que se refere o ponto 2 do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Resumo, para efeitos de referência, das regras da Convenção Marpol 73/78 relativas às descargas de hidrocarbonetos e de substâncias líquidas nocivas, a que se refere o ponto 2 do artigo 2.º"
+  },
+  "5cc72fb7af31faa7": {
+   "fragment_id": "Parte I: Hidrocarbonetos (Convenção Marpol 73/78, anexo I)",
+   "type": "divisao",
+   "heading": "Parte I: Hidrocarbonetos (Convenção Marpol 73/78, anexo I)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte I: Hidrocarbonetos (Convenção Marpol 73/78, anexo I)\n\nPara efeitos do anexo I da Convenção Marpol 73/78, entende-se por «hidrocarbonetos» petróleo sob qualquer forma, incluindo petróleo bruto, fuelóleo, lamas, resíduos e produtos refinados (que não sejam produtos petroquímicos sujeitos às disposições do anexo II da Convenção Marpol 73/78), e por «mistura de hidrocarbonetos» uma mistura com qualquer teor em hidrocarbonetos.\n\nExcertos das disposições pertinentes do anexo I da Convenção Marpol 73/78:\n\nRegra 9: Controlo das descargas de hidrocarbonetos\n\n1. Sob reserva do disposto nas regras 10 e 11 do presente anexo e no ponto 2 da presente regra, é proibida a descarga para o mar de hidrocarbonetos ou misturas de hidrocarbonetos pelos navios a que se aplica o presente anexo, excepto quando sejam satisfeitas todas as seguintes condições:\n\na) No caso de navios petroleiros, com excepção do previsto na alínea b):\n\ni) o navio não se encontra numa área especial,\n\nii) o navio encontra-se a mais de 50 milhas marítimas da terra mais próxima,\n\niii) o navio segue a sua rota,\n\niv) a taxa instantânea de descarga de hidrocarbonetos não excede 30 litros por milha marítima,\n\nv) a quantidade total de hidrocarbonetos descarregados para o mar não excede, no caso dos petroleiros existentes, 1/15 000 da carga total de que provêm os resíduos e, no caso dos petroleiros novos, 1/30 000 da carga total de que provêm os resíduos, e\n\nvi) o navio tem em funcionamento um equipamento monitor de descarga de hidrocarbonetos e um tanque de resíduos, conforme prescrito pela regra 15 do presente anexo;\n\nb) No caso de navios não petroleiros de arqueação bruta igual ou superior a 400 t e de navios petroleiros no que se refere às águas dos porões dos espaços de máquinas, excluindo as águas dos porões das casas das bombas de carga, excepto quando os seus efluentes estejam misturados com resíduos da carga de hidrocarbonetos:\n\ni) o navio não se encontra numa área especial,\n\nii) o navio segue a sua rota,\n\niii) o teor em hidrocarbonetos do efluente, sem diluição, não excede 15 partes por milhão, e\n\niv) o navio tem em funcionamento o equipamento (monitor de descarga de hidrocarbonetos e de filtragem de hidrocarbonetos) prescrito pela regra 16 do presente anexo.\n\n2. No caso de navios de arqueação bruta inferior a 400 t que não sejam petroleiros e que naveguem fora de áreas especiais, a Administração [o Estado do pavilhão] assegurará que sejam equipados, na medida do possível e razoável, com instalações que permitam a retenção a bordo dos resíduos de hidrocarbonetos e a sua descarga para instalações de recepção ou para o mar de acordo com as prescrições do ponto 1.b).\n\n3. […]\n\n4. As disposições do ponto 1 não se aplicam à descarga de lastro limpo ou segregado ou de misturas de hidrocarbonetos não tratadas que, sem diluição, apresentem um teor em hidrocarbonetos não superior a 15 ppm, desde que tais misturas não provenham dos porões das casas das bombas e não contenham resíduos da carga de hidrocarbonetos.\n\n5. Nenhuma descarga para o mar conterá substâncias químicas ou outras substâncias em quantidades ou concentrações perigosas para o meio marinho, nem substâncias químicas ou outras substâncias adicionadas com a finalidade de dissimular a inobservância das condições de descarga especificadas na presente regra.\n\n6. Os resíduos de hidrocarbonetos que não possam ser descarregados para o mar de acordo com o disposto nos pontos 1, 2 e 4 serão retidos a bordo ou descarregados para instalações de recepção.\n\n7. […]\n\nRegra 10: Métodos de prevenção da poluição por hidrocarbonetos provenientes de navios que operem em áreas especiais\n\n1. Para efeitos do presente anexo, são áreas especiais a área do mar Mediterrâneo, a área do mar Báltico, a área do mar Negro, a área do mar Vermelho, a «área dos Golfos», a área do Golfo de Aden, a área do Antárctico e as águas do noroeste europeu [definidas como segue].\n\n2. Sob reserva do disposto na regra 11 do presente anexo:\n\na) É proibida qualquer descarga para o mar, nas áreas especiais, de hidrocarbonetos ou misturas de hidrocarbonetos por navios petroleiros e por navios não petroleiros de arqueação bruta igual ou superior a 400 t; […]\n\nb) […] É proibida qualquer descarga para o mar, nas áreas especiais, de hidrocarbonetos ou misturas de hidrocarbonetos por navios não petroleiros de arqueação bruta inferior a 400 t, excepto quando o teor em hidrocarbonetos do efluente, sem diluição, não exceda 15 ppm.\n\na) As disposições do ponto 2 não se aplicam à descarga de lastro limpo ou segregado;\n\nb) As disposições do ponto 2.a) não se aplicam à descarga de águas de porão tratadas provenientes de espaços de máquinas desde que sejam satisfeitas todas as seguintes condições:\n\ni) as águas não provêm dos porões das casas das bombas de carga,\n\nii) as águas não estão misturadas com resíduos da carga de hidrocarbonetos,\n\niii) o navio segue a sua rota,\n\niv) o teor em hidrocarbonetos do efluente, sem diluição, não excede 15 ppm,\n\nv) o navio tem em funcionamento um equipamento de filtragem de hidrocarbonetos que satisfaz o prescrito na regra 16.5 do presente anexo, e\n\nvi) o equipamento de filtragem está equipado com um dispositivo de paragem que interrompa automaticamente a descarga quanto o teor em hidrocarbonetos do efluente exceda 15 ppm.\n\na) Nenhuma descarga para o mar conterá substâncias químicas ou outras substâncias em quantidades ou concentrações perigosas para o meio marinho, nem substâncias químicas ou outras substâncias adicionadas com a finalidade de dissimular a inobservância das condições de descarga especificadas na presente regra;\n\nb) Os resíduos de hidrocarbonetos que não possam ser descarregados para o mar de acordo com o disposto nos pontos 2 ou 3 serão retidos a bordo ou descarregados para instalações de recepção.\n\n5. As disposições da presente regra não proíbem que um navio, numa viagem de que apenas uma parte se efectue numa área especial, proceda a descargas fora dessa área de acordo com o disposto na regra 9 do presente anexo.\n\n6. […]\n\n7. […]\n\n8. […]\n\nRegra 11: Excepções\n\nAs regras 9 e 10 do presente anexo não se aplicam:\n\na) À descarga para o mar de hidrocarbonetos ou misturas de hidrocarbonetos quando necessário para garantir a segurança do navio ou salvar vidas humanas no mar; ou\n\nb) À descarga para o mar de hidrocarbonetos ou misturas de hidrocarbonetos em resultado de avaria no navio ou no seu equipamento:\n\ni) desde que, depois da ocorrência da avaria ou da detecção da descarga, tenham sido tomadas todas as precauções razoáveis a fim de impedir ou reduzir ao mínimo tal descarga, e\n\nii) salvo se o proprietário ou o comandante tiver agido intencionalmente para provocar a avaria ou negligentemente e consciente da probabilidade da ocorrência da avaria; ou\n\nc) À descarga para o mar de substâncias que contenham hidrocarbonetos aprovada pela Administração [do Estado do pavilhão], quando tais substâncias sejam utilizadas para combater incidentes de poluição específicos com o fim de minimizar os danos dela resultantes. Qualquer descarga desta natureza estará sujeita à aprovação do governo com jurisdição na área onde se tencione efectuar a descarga."
+  },
+  "1e3d11a7ac70a732": {
+   "fragment_id": "Parte II: Substâncias líquidas nocivas (anexo II da Convenção Marpol 73/78)",
+   "type": "divisao",
+   "heading": "Parte II: Substâncias líquidas nocivas (anexo II da Convenção Marpol 73/78)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte II: Substâncias líquidas nocivas (anexo II da Convenção Marpol 73/78)\n\nExcertos das disposições pertinentes do anexo II da Convenção Marpol 73/78:\n\nRegra 3: Classificação em categorias e lista das substâncias líquidas nocivas\n\n1. Para efeitos das regras do presente anexo, as substâncias líquidas nocivas dividem-se nas quatro categorias seguintes:\n\na) Categoria A — Substâncias líquidas nocivas provenientes das operações de limpeza ou deslastragem de tanques que, se descarregadas para o mar, representam um grave risco para os recursos marinhos ou para a saúde humana ou prejudicam gravemente os locais de recreio ou outras utilizações legítimas do mar e justificam, portanto, a aplicação de medidas rigorosas contra a poluição;\n\nb) Categoria B — Substâncias líquidas nocivas provenientes das operações de limpeza ou deslastragem de tanques que, se descarregadas para o mar, representam um risco para os recursos marinhos ou para a saúde humana ou prejudicam os locais de recreio ou outras utilizações legítimas do mar e justificam, portanto, a aplicação de medidas especiais contra a poluição;\n\nc) Categoria C — Substâncias líquidas nocivas provenientes das operações de limpeza ou deslastragem de tanques que, se descarregadas para o mar, representam um fraco risco para os recursos marinhos ou para a saúde humana ou prejudicam ligeiramente os locais de recreio ou outras utilizações legitimas do mar e requerem, portanto, condições especiais de operação;\n\nd) Categoria D — Substâncias líquidas nocivas provenientes das operações de limpeza ou deslastragem de tanques que, se descarregadas para o mar, representam um risco reconhecível para os recursos marinhos ou para a saúde humana ou prejudicam muito ligeiramente os locais de recreio ou outras utilizações legitimas do mar e requerem, portanto, alguma atenção às condições de operação.\n\n2. […]\n\n3. […]\n\n4. […]\n\n[Na regra 3, pontos 2 a 4, na regra 4 e nos apêndices do anexo II da Convenção Marpol 73/78 figuram outras directrizes para a classificação das substâncias em categorias, bem como uma lista das substâncias classificadas]\n\nRegra 5: Descarga de substâncias líquidas nocivas\n\nSubstâncias das categorias A, B e C fora das áreas especiais e substâncias da categoria D em todas as áreas\n\nSob reserva do disposto na […] regra 6 do presente anexo:\n\n1. É proibida a descarga para o mar das substâncias da categoria A definida na regra 3.1.a) do presente anexo, ou das substâncias provisoriamente classificadas como tal, ou ainda de águas de lastro, águas de lavagem de tanques ou outros resíduos ou misturas que contenham tais substâncias. Se os tanques que contêm tais substâncias ou misturas forem lavados, os resíduos resultantes serão descarregados para uma instalação de recepção até que a concentração da substância no efluente recebido nessa instalação seja igual ou inferior a 0,1% em massa e o tanque esteja vazio, com excepção do fósforo amarelo ou branco, para o qual a concentração residual será de 0,01 % em massa. A água subsequentemente introduzida no tanque pode ser descarregada para o mar desde que sejam satisfeitas todas as seguintes condições:\n\na) O navio segue a sua rota a uma velocidade de pelo menos 7 nós, no caso de navios com propulsão própria, ou de pelo menos 4 nós, no caso de navios sem propulsão própria;\n\nb) A descarga é efectuada abaixo da linha de água, tendo em consideração a localização das tomadas de água do mar; e\n\nc) A descarga é efectuada a uma distância da terra mais próxima não inferior a 12 milhas marítimas e em águas de profundidade não inferior a 25 m.\n\n2. É proibida a descarga para o mar das substâncias da categoria B definida na regra 3.1.b) do presente anexo, ou das substâncias provisoriamente classificadas como tal, ou ainda de águas de lastro, águas de lavagem de tanques ou outros resíduos ou misturas que contenham tais substâncias, excepto quando sejam satisfeitas todas as seguintes condições:\n\na) O navio segue a sua rota a uma velocidade de pelo menos 7 nós, no caso de navios com propulsão própria, ou de pelo menos 4 nós, no caso de navios sem propulsão própria;\n\nb) Os métodos e disposições para descarga foram aprovados pela Administração [do Estado do pavilhão]. Tais métodos e disposições devem basear-se em normas elaboradas pela [OMI] e garantir que a concentração e o débito de descarga do efluente sejam tais que a concentração da substância na esteira do navio não exceda 1 ppm;\n\nc) A quantidade máxima de carga descarregada de cada tanque e dos respectivos encanamentos não excede a quantidade máxima aprovada pelos métodos referidos na alínea b), a qual não excederá em caso algum a maior das quantidades seguintes: 1 m^3^ ou 1/3000 da capacidade do tanque em metros cúbicos;\n\nd) A descarga é efectuada abaixo da linha de água, tendo em consideração a localização das tomadas de água do mar; e\n\ne) A descarga é efectuada a uma distância da terra mais próxima não inferior a 12 milhas marítimas e em águas de profundidade não inferior a 25 m.\n\n3. É proibida a descarga para o mar das substâncias da categoria C definida na regra 3.1.c) do presente anexo, ou das substâncias provisoriamente classificadas como tal, ou ainda de águas de lastro, águas de lavagem de tanques ou outros resíduos ou misturas que contenham tais substâncias, excepto quando sejam satisfeitas todas as seguintes condições:\n\na) O navio segue a sua rota a uma velocidade de pelo menos 7 nós, no caso de navios com propulsão própria, ou de pelo menos 4 nós, no caso de navios sem propulsão própria;\n\nb) Os métodos e disposições para descarga foram aprovados pela Administração [do Estado do pavilhão]. Tais métodos e disposições devem basear-se em normas elaboradas pela [OMI] e garantir que a concentração e o débito de descarga do efluente sejam tais que a concentração da substância na esteira do navio não exceda 10 ppm;\n\nc) A quantidade máxima de carga descarregada de cada tanque e dos respectivos encanamentos não excede a quantidade máxima aprovada pelos métodos referidos na alínea b), a qual não excederá em caso algum a maior das quantidades seguintes: 3 m^3^ ou 1/1 000 da capacidade do tanque em metros cúbicos;\n\nd) A descarga é efectuada abaixo da linha de água, tendo em consideração a localização das tomadas de água do mar; e\n\ne) A descarga é efectuada a uma distância da terra mais próxima não inferior a 12 milhas marítimas e em águas de profundidade não inferior a 25 m.\n\n4. É proibida a descarga para o mar das substâncias da categoria D definida na regra 3.1.d) do presente anexo, ou das substâncias provisoriamente classificadas como tal, ou ainda de águas de lastro, águas de lavagem de tanques ou outros resíduos ou misturas que contenham tais substâncias, excepto quando sejam satisfeitas todas as seguintes condições:\n\na) O navio segue a sua rota a uma velocidade de pelo menos 7 nós, no caso de navios com propulsão própria, ou de pelo menos 4 nós, no caso de navios sem propulsão própria;\n\nb) A concentração de tais misturas não excede uma parte da substância para 10 partes de água; e\n\nc) A descarga é efectuada a uma distância da terra mais próxima não inferior a 12 milhas marítimas.\n\n5. Podem ser utilizados métodos de ventilação aprovados pela Administração [do Estado do pavilhão] para remover resíduos de carga de um tanque. Tais métodos devem basear-se em normas elaboradas pela [OMI]. A água subsequentemente introduzida no tanque será considerada água limpa e não se lhe aplicará o disposto nos pontos 1, 2, 3 e 4.\n\n6. É proibida a descarga para o mar de substâncias não incluídas em nenhuma categoria nem classificadas provisoriamente ou avaliadas de acordo com a regra 4.1 do presente anexo, ou ainda de águas de lastro, águas de lavagem de tanques ou outros resíduos ou misturas que contenham tais substâncias.\n\nSubstâncias das categorias A, B e C nas áreas especiais [definidas na regra 1 do anexo II da Convenção Marpol 73/78, incluindo o mar Báltico]\n\nSob reserva do disposto […] da regra 6 do presente anexo:\n\n7. É proibida a descarga para o mar das substâncias da categoria A definida na regra 3.1.a) do presente anexo, ou das substâncias provisoriamente classificadas como tal, ou ainda de águas de lastro, águas de lavagem de tanques ou outros resíduos ou misturas que contenham tais substâncias. Se os tanques que contêm tais substâncias ou misturas forem lavados, os resíduos resultantes serão descarregados para uma instalação de recepção disponibilizada pelos Estados ribeirinhos da área especial em conformidade com a regra 7 do presente anexo até que a concentração da substância no efluente recebido nessa instalação seja igual ou inferior a 0,05 % em massa e o tanque esteja vazio, com excepção do fósforo amarelo ou branco, para o qual a concentração residual será de 0,005 % em massa. A água subsequentemente introduzida no tanque pode ser descarregada para o mar desde que sejam satisfeitas todas as seguintes condições:\n\na) O navio segue a sua rota a uma velocidade de pelo menos 7 nós, no caso de navios com propulsão própria, ou de pelo menos 4 nós, no caso de navios sem propulsão própria;\n\nb) A descarga é efectuada abaixo da linha de água, tendo em consideração a localização das tomadas de água do mar; e\n\nc) A descarga é efectuada a uma distância da terra mais próxima não inferior a 12 milhas marítimas e em águas de profundidade não inferior a 25 m.\n\n8. É proibida a descarga para o mar das substâncias da categoria B definida na regra 3.1.b) do presente anexo, ou das substâncias provisoriamente classificadas como tal, ou ainda de águas de lastro, águas de lavagem de tanques ou outros resíduos ou misturas que contenham tais substâncias, excepto quando sejam satisfeitas todas as seguintes condições:\n\na) O tanque foi objecto de pré-lavagem em conformidade com o método aprovado pela Administração [do Estado do pavilhão] e baseado nas normas elaboradas pela [OMI] e os resíduos resultantes descarregados para uma instalação de recepção;\n\nb) O navio segue a sua rota a uma velocidade de pelo menos 7 nós, no caso de navios com propulsão própria, ou de pelo menos 4 nós, no caso de navios sem propulsão própria;\n\nc) Os métodos e disposições para descarga e lavagem foram aprovados pela Administração [do Estado do pavilhão]. Tais métodos e disposições devem basear-se em normas elaboradas pela [OMI] e garantir que a concentração e o débito de descarga do efluente sejam tais que a concentração da substância na esteira do navio não exceda 1 ppm;\n\nd) A descarga é efectuada abaixo da linha de água, tendo em consideração a localização das tomadas de água do mar; e\n\ne) A descarga é efectuada a uma distância da terra mais próxima não inferior a 12 milhas marítimas e em águas de profundidade não inferior a 25 m.\n\n9. É proibida a descarga para o mar das substâncias da categoria C definida na regra 3.1.c) do presente anexo, ou das substâncias provisoriamente classificadas como tal, ou ainda de águas de lastro, águas de lavagem de tanques ou outros resíduos ou misturas que contenham tais substâncias, excepto quando sejam satisfeitas todas as seguintes condições:\n\na) O navio segue a sua rota a uma velocidade de pelo menos 7 nós, no caso de navios com propulsão própria, ou de pelo menos 4 nós, no caso de navios sem propulsão própria;\n\nb) Os métodos e disposições para descarga foram aprovados pela Administração [do Estado do pavilhão]. Tais métodos e disposições devem basear-se em normas elaboradas pela [OMI] e garantir que a concentração e o débito de descarga do efluente sejam tais que a concentração da substância na esteira do navio não exceda 1 ppm;\n\nc) A quantidade máxima de carga descarregada de cada tanque e dos respectivos encanamentos não excede a quantidade máxima aprovada pelos métodos referidos na alínea b), a qual não excederá em caso algum a maior das quantidades seguintes: 1 m^3^ ou 1/3000 da capacidade do tanque em metros cúbicos;\n\nd) A descarga é efectuada abaixo da linha de água, tendo em consideração a localização das tomadas de água do mar; e\n\ne) A descarga é efectuada a uma distância da terra mais próxima não inferior a 12 milhas marítimas e em águas de profundidade não inferior a 25 m.\n\n10. Podem ser utilizados métodos de ventilação aprovados pela Administração [do Estado do pavilhão] para remover resíduos de carga de um tanque. Tais métodos devem basear-se em normas elaboradas pela [OMI]. A água subsequentemente introduzida no tanque será considerada água limpa e não se lhe aplicará o disposto nos pontos 7, 8 e 9.\n\n11. É proibida a descarga para o mar de substâncias não incluídas em nenhuma categoria nem classificadas provisoriamente ou avaliadas de acordo com a regra 4.1 do presente anexo, ou ainda de águas de lastro, águas de lavagem de tanques ou outros resíduos ou misturas que contenham tais substâncias.\n\n12. As disposições da presente regra não proíbem que um navio retenha a bordo resíduos de uma carga da categoria B ou C e os descarregue para o mar fora de uma área especial de acordo com o disposto, respectivamente, no ponto 2 ou 3.\n\nRegra 6: Excepções\n\nA regra 5 do presente anexo não se aplica:\n\na) À descarga para o mar de substâncias líquidas nocivas ou de misturas que contenham tais substâncias quando necessária para garantir a segurança do navio ou salvar vidas humanas no mar; ou\n\nb) À descarga para o mar de substâncias líquidas nocivas ou de misturas que contenham tais substâncias em resultado de avaria no navio ou no seu equipamento:\n\ni) desde que, depois da ocorrência da avaria ou da detecção da descarga, tenham sido tomadas todas as precauções razoáveis a fim de impedir ou reduzir ao mínimo tal descarga; e\n\nii) salvo se o proprietário ou o comandante tiver agido intencionalmente para provocar a avaria ou negligentemente e consciente da probabilidade da ocorrência da avaria; ou\n\nc) À descarga para o mar de substâncias líquidas nocivas ou de misturas que contenham tais substâncias aprovada pela Administração [do Estado do pavilhão], quando tais substâncias ou misturas sejam utilizadas para combater incidentes de poluição específicos com o fim de minimizar os danos dela resultantes. Qualquer descarga desta natureza estará sujeita à aprovação do governo com jurisdição na área onde se tencione efectuar a descarga.\n\n---"
+  },
+  "83503cd35dbee5c8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3a2c65be-15e2-4e91-986a-21a64a3b48c0.0017.03/DOC_1#src.E0001)) JO C 220 de 16.9.2003, p. 72.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/3a2c65be-15e2-4e91-986a-21a64a3b48c0.0017.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 13 de Janeiro de 2004 (JO C 92 E de 16.4.2004, p. 77), Posição Comum do Conselho de 7 de Outubro de 2004 (JO C 25 E de 1.2.2005, p. 29), Posição do Parlamento Europeu de 23 de Fevereiro de 2005 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 12 de Julho de 2005.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/3a2c65be-15e2-4e91-986a-21a64a3b48c0.0017.03/DOC_1#src.E0003)) Ver p. 164 do presente Jornal Oficial.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/3a2c65be-15e2-4e91-986a-21a64a3b48c0.0017.03/DOC_1#src.E0004)) JO L 208 de 5.8.2002, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 724/2004 (JO L 129 de 29.4.2004, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/3a2c65be-15e2-4e91-986a-21a64a3b48c0.0017.03/DOC_1#src.E0005)) JO L 332 de 28.12.2000, p. 81. Directiva alterada pela Directiva 2002/84/CE (JO L 324 de 29.11.2002, p. 53).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/3a2c65be-15e2-4e91-986a-21a64a3b48c0.0017.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/3a2c65be-15e2-4e91-986a-21a64a3b48c0.0017.03/DOC_1#src.E0007)) Decisão n.º 2850/2000/CE do Parlamento Europeu e do Conselho, de 20 de Dezembro de 2000, que define um quadro comunitário para a cooperação no domínio da poluição marinha acidental ou deliberada (JO L 332 de 28.12.2000, p. 1). Decisão alterada pela Decisão n.º 787/2004/CE (JO L 138 de 30.4.2004, p. 12).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/3a2c65be-15e2-4e91-986a-21a64a3b48c0.0017.03/DOC_1#src.E0008)) JO L 324 de 29.11.2002, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 415/2004 da Comissão (JO L 68 de 6.3.2004, p. 10)."
+  },
+  "aac4ff9f2f0597e0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Setembro de 2005\n\nrelativa à poluição por navios e à introdução de sanções, incluindo sanções penais, por crimes de poluição\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 2 do artigo 80.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/cb650ed9-d5df-41e5-8949-70fd543f4323.0018.03/DOC_1#E0001)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/cb650ed9-d5df-41e5-8949-70fd543f4323.0018.03/DOC_1#E0002)),\n\n(1) A política de segurança marítima da Comunidade destina-se a assegurar um elevado nível de segurança e protecção do ambiente, baseando-se no princípio de que todas as partes envolvidas no transporte marítimo de mercadorias são responsáveis por garantir que os navios utilizados nas águas comunitárias cumprem as regras e normas aplicáveis.\n\n(2) As normas materiais relativas às descargas de substâncias poluentes provenientes de navios baseiam-se, em todos os Estados-Membros, na Convenção Marpol 73/78. No entanto, essas normas são diariamente ignoradas por um grande número de navios que navegam nas águas comunitárias, sem que sejam levadas a cabo acções correctivas.\n\n(3) A aplicação da Convenção Marpol 73/78 revela discrepâncias entre os Estados-Membros, sendo, por conseguinte, necessário harmonizar a sua aplicação a nível comunitário. Em especial, as práticas dos Estados-Membros no que se refere à aplicação de sanções por descargas de substâncias poluentes provenientes de navios são significativamente divergentes.\n\n(4) As medidas dissuasivas fazem parte integrante da política comunitária de segurança marítima, uma vez que asseguram a ligação entre a responsabilidade de cada uma das partes envolvidas no transporte marítimo de substâncias poluentes e a sua sujeição a sanções. Para assegurar a efectiva protecção do ambiente, são necessárias sanções efectivas, dissuasivas e proporcionadas.\n\n(5) Para o efeito, é essencial aproximar, através dos instrumentos legais adequados, as disposições legais vigentes, em especial em matéria de definição exacta da infracção em causa, dos casos de isenção e das normas mínimas em matéria de sanções, e de responsabilidade e competência jurisdicional.\n\n(6) A presente directiva é complementada por disposições pormenorizadas sobre infracções penais e sanções, bem como outras disposições enunciadas na Decisão-Quadro 2005/667/JAI do Conselho, de 12 de Julho de 2005, destinada a reforçar o quadro penal para a repressão da poluição por navios ([^3^](http://publications.europa.eu/resource/cellar/cb650ed9-d5df-41e5-8949-70fd543f4323.0018.03/DOC_1#E0003)).\n\n(7) Nem o regime internacional de responsabilidade civil e compensação pela poluição por hidrocarbonetos nem o regime relativo à poluição por outras substâncias perigosas ou nocivas produzem efeitos suficientemente dissuasivos para desencorajar as partes envolvidas no transporte marítimo de cargas perigosas de aderirem a práticas que não respeitam as normas. Os efeitos dissuasivos necessários só podem ser obtidos mediante a introdução de sanções aplicáveis a todas as pessoas que causem poluição marinha ou para ela contribuam; as sanções deverão ser aplicáveis não só ao proprietário ou ao comandante do navio, mas também ao proprietário da carga, à sociedade de classificação ou a qualquer outra pessoa envolvida.\n\n(8) As descargas de substâncias poluentes devem ser consideradas infracções se forem cometidas com dolo, mera culpa ou negligência grave. Estas infracções são consideradas infracções penais pela Decisão-Quadro 2005/667/JAI, que complementa a presente directiva, e nas circunstâncias previstas na referida decisão.\n\n(9) As sanções aplicáveis às descargas de substâncias poluentes provenientes de navios não estão relacionadas com a responsabilidade civil das partes envolvidas, pelo que não estão sujeitas a quaisquer regras relativas à limitação ou canalização da responsabilidade civil nem limitam a indemnização eficiente das vítimas de incidentes de poluição.\n\n(10) É necessário reforçar a cooperação efectiva entre Estados-Membros para garantir a detecção atempada das descargas de substâncias poluentes provenientes de navios e a identificação dos infractores. Por este motivo, a Agência Europeia para a Segurança Marítima, instituída pelo Regulamento (CE) n.º 1406/2002 do Parlamento Europeu e do Conselho, de 27 de Junho de 2002 ([^4^](http://publications.europa.eu/resource/cellar/cb650ed9-d5df-41e5-8949-70fd543f4323.0018.03/DOC_1#E0004)), desempenha um papel fundamental, colaborando com os Estados-Membros no desenvolvimento de soluções técnicas, prestando assistência técnica relacionada com a aplicação da presente directiva e apoiando a Comissão no cumprimento de qualquer missão que lhe seja confiada com o objectivo de assegurar uma aplicação eficaz da presente directiva.\n\n(11) A fim de melhor prevenir e combater a poluição marítima, devem ser criadas sinergias entre as autoridades responsáveis pela aplicação da lei, como sejam as guardas-costeiras nacionais. Para esse efeito, a Comissão deveria proceder a um estudo de viabilidade de uma Guarda Costeira Europeia encarregada da prevenção e da resposta a dar à poluição, tornando claros os custos e os benefícios. Este estudo deveria, se necessário, ser seguido de uma proposta de criação de uma Guarda Costeira Europeia.\n\n(12) Quando existam provas inequívocas e objectivas de uma descarga que cause danos importantes ou ameaça de danos importantes, os Estados-Membros devem apresentar a questão às suas autoridades competentes para iniciar procedimentos nos termos do artigo 220.º da Convenção das Nações Unidas sobre o Direito do Mar, de 1982.\n\n(13) A aplicação da Directiva 2000/59/CE do Parlamento Europeu e do Conselho, de 27 de Novembro de 2000, relativa aos meios portuários de recepção de resíduos gerados em navios e de resíduos da carga ([^5^](http://publications.europa.eu/resource/cellar/cb650ed9-d5df-41e5-8949-70fd543f4323.0018.03/DOC_1#E0005)), representa, juntamente com a presente directiva, um instrumento fundamental no conjunto de medidas destinadas a prevenir a poluição causada pelos navios.\n\n(14) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/cb650ed9-d5df-41e5-8949-70fd543f4323.0018.03/DOC_1#E0006)).\n\n(15) Atendendo a que os objectivos da presente directiva, nomeadamente a incorporação no direito comunitário das normas internacionais relativas à poluição provocada por navios e a instituição de sanções — penais ou administrativas — pela respectiva violação, a fim de melhorar a segurança marítima e de assegurar um elevado nível de segurança e de protecção do ambiente nos transportes marítimos, não podem ser suficientemente realizados pelos Estados-Membros, e podem, pois, devido à dimensão e aos efeitos da acção prevista, ser melhor alcançados a nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aquele objectivo.\n\n(16) A presente directiva respeita integralmente a Carta dos Direitos Fundamentais da União Europeia; os suspeitos de crimes de poluição têm direito a um julgamento justo e as penas aplicadas devem ser proporcionais,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "18a17c32d26155ff": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. O objecto da presente directiva consiste em incorporar no direito comunitário as normas internacionais relativas à poluição provocada por navios e assegurar que as pessoas responsáveis por descargas de substâncias poluentes são sujeitas a sanções adequadas, incluindo sanções penais, a fim de melhorar a segurança marítima e de reforçar a protecção do meio marinho relativamente à poluição por navios.\n\n2. A presente directiva não obsta a que os Estados-Membros tomem medidas mais rigorosas contra a poluição provocada por navios, nos termos do direito internacional."
+  },
+  "b77d307a40aee0ff": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Convenção Marpol 73/78», a Convenção Internacional para a Prevenção da Poluição por Navios de 1973 e o protocolo de 1978, com a redacção que lhe for dada pelas subsequentes alterações.\n\n2. «Substâncias poluentes», as substâncias abrangidas pelo anexo I (hidrocarbonetos) e anexo II (substâncias líquidas nocivas a granel) da Convenção Marpol 73/78.\n\n3. «Descarga», qualquer forma de lançamento de produtos efectuada por um navio, nos termos do artigo 2.º da Convenção Marpol 73/78.\n\n4. «Navio», uma embarcação de qualquer tipo, independentemente do seu pavilhão, que opere no meio marinho, incluindo embarcações de sustentação hidrodinâmica, veículos de sustentação por ar, submersíveis e estruturas flutuantes.\n\n5. «Pessoa colectiva», qualquer entidade jurídica que tenha esse estatuto ao abrigo do direito nacional aplicável, com excepção dos Estados ou dos organismos públicos no exercício da autoridade do Estado e das organizações de direito internacional público."
+  },
+  "f3fdad8282656259": {
+   "fragment_id": "Artigo 4.º — Infracções",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Infracções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Infracções\n\n1. Os Estados-Membros asseguram que as descargas de substâncias poluentes de navios, incluindo as descargas em casos menos graves, em qualquer das zonas referidas no n.º 1 do artigo 3.º sejam consideradas infracções, se cometidas com dolo, negligência ou negligência grave.\n\n2. Cada Estado-Membro toma as medidas necessárias para garantir que qualquer pessoa singular ou colectiva que cometeu uma infracção na acepção do n.º 1 possa ser responsabilizada."
+  },
+  "d5c55dea41694193": {
+   "fragment_id": "Artigo 5.º — Excepções",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Excepções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Excepções\n\n1. As descargas de substâncias poluentes em quaisquer das zonas referidas no n.º 1 do artigo 3.º não são consideradas infracções se cumprirem as condições estabelecidas nas regras 15, 34, 4.1 ou 4.3 do anexo I ou nas regras 13, 3.1.1 ou 3.1.3 do anexo II da Convenção Marpol 73/78.\n\n2. As descargas de substâncias poluentes efectuadas em quaisquer das zonas referidas nas alíneas c), d) e e) do n.º 1 do artigo 3.º não são consideradas infracções imputáveis ao armador, ao comandante ou à tripulação, se preencherem as condições estabelecidas na regra 4.2 do anexo I ou na regra 3.1.2 do anexo II da Convenção Marpol 73/78."
+  },
+  "e05d08a0afbf55aa": {
+   "fragment_id": "Artigo 5.ºA — Infracções penais",
+   "type": "artigo",
+   "heading": "Artigo 5.ºA — Infracções penais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.ºA — Infracções penais\n\n1. Os Estados-Membros garantem que as infracções na acepção dos artigos 4.º e 5.º sejam consideradas infracções penais.\n\n2. O n.º 1 não se aplica aos casos menos graves em que o acto cometido não causa uma deterioração da qualidade da água.\n\n3. É considerada infracção penal, a repetição de casos menos graves praticados com dolo, negligência ou negligência grave se, não individualmente, mas do seu conjunto, resultar uma deterioração da qualidade da água."
+  },
+  "089612abfe55fedf": {
+   "fragment_id": "Artigo 5.ºB — Instigação e cumplicidade",
+   "type": "artigo",
+   "heading": "Artigo 5.ºB — Instigação e cumplicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.ºB — Instigação e cumplicidade\n\nOs Estados-Membros asseguram que a instigação e a cumplicidade na prática dolosa das infracções a que se referem os n.^os^ 1 e 3 do artigo 5.º-A sejam punidas como infracção penal."
+  },
+  "46a3ee71fe369373": {
+   "fragment_id": "Artigo 8.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sanções\n\nCada Estado-Membro toma as medidas necessárias para garantir que as infracções na acepção dos artigos 4.º e 5.º sejam puníveis com sanções efectivas, proporcionais e dissuasivas."
+  },
+  "7704fefe3f6a5dfd": {
+   "fragment_id": "Artigo 8.ºA — Sanções aplicáveis às pessoas singulares",
+   "type": "artigo",
+   "heading": "Artigo 8.ºA — Sanções aplicáveis às pessoas singulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.ºA — Sanções aplicáveis às pessoas singulares\n\nCada Estado-Membro toma as medidas necessárias para garantir que as infracções a que se referem os n.^os^ 1 e 3 do artigo 5.º-A e o artigo 5.º-B sejam puníveis com sanções penais efectivas, proporcionais e dissuasivas."
+  },
+  "911987884e3d131a": {
+   "fragment_id": "Artigo 8.ºB — Responsabilidade das pessoas colectivas",
+   "type": "artigo",
+   "heading": "Artigo 8.ºB — Responsabilidade das pessoas colectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.ºB — Responsabilidade das pessoas colectivas\n\n1. Cada Estado-Membro aprova as medidas necessárias para garantir que as pessoas colectivas possam ser responsabilizadas pelas infracções penais a que se referem os n.^os^ 1 e 3 do artigo 5.º-A e o artigo 5.º-B, praticadas em seu benefício por qualquer pessoa singular, agindo individualmente ou integrada num órgão da pessoa colectiva e que ocupe uma posição de direcção na estrutura desta, com base em:\n\na) Poderes de representação da pessoa colectiva;\n\nb) Autoridade para tomar decisões em nome da pessoa colectiva; ou\n\nc) Autoridade para exercer funções de controlo no âmbito da pessoa colectiva.\n\n2. Cada Estado-Membro assegura também que uma pessoa colectiva possa ser responsabilizada quando a falta de vigilância ou de controlo por parte de uma pessoa singular referida no n.º 1 do presente artigo tiver permitido a prática de uma das infracções penais a que se referem os n.^os^ 1 e 3 do artigo 5.º-A e o artigo 5.º-B, em benefício dessa pessoa colectiva, por uma pessoa singular sob a sua autoridade.\n\n3. A responsabilidade das pessoas colectivas nos termos dos n.^os^ 1 e 2 do presente artigo não exclui a acção penal contra as pessoas singulares que estejam implicadas como autoras, instigadoras ou cúmplices das infracções penais a que se referem os n.^os^ 1 e 3 do artigo 5.º-A e o artigo 5.º-B."
+  },
+  "7cd15ae748f59fec": {
+   "fragment_id": "Artigo 8.ºC — Sanções aplicáveis às pessoas colectivas",
+   "type": "artigo",
+   "heading": "Artigo 8.ºC — Sanções aplicáveis às pessoas colectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.ºC — Sanções aplicáveis às pessoas colectivas\n\nCada Estado-Membro aprova as medidas necessárias para garantir que a pessoa colectiva responsável nos termos do artigo 8.º-B seja punível com sanções efectivas, proporcionais e dissuasivas."
+  },
+  "307e060b59f39a35": {
+   "fragment_id": "Artigo 10.º — Medidas de acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Medidas de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas de acompanhamento\n\n1. Para efeitos da presente directiva, os Estados-Membros e a Comissão devem cooperar, sempre que adequado, em estreita colaboração com a Agência Europeia da Segurança Marítima, tendo em conta o programa de acção relativo à poluição marinha acidental ou deliberada previsto na Decisão n.º 2850/2000/CE ([^7^](http://publications.europa.eu/resource/cellar/cb650ed9-d5df-41e5-8949-70fd543f4323.0018.03/DOC_1#E0007)), e, se for caso disso, a aplicação da Directiva 2000/59/CE, para:\n\na) Desenvolver os sistemas de informação necessários à aplicação efectiva da presente directiva;\n\nb) Estabelecer práticas e orientações comuns com base nas que estejam em vigor a nível internacional relativas, em especial:\n\n— à monitorização e identificação atempada dos navios que efectuam descargas poluentes em violação da presente directiva, incluindo, quando apropriado, do equipamento de bordo monitor das descargas,\n\n— a métodos fiáveis de relacionar substâncias poluentes presentes no mar com um navio específico, e\n\n— à aplicação efectiva da presente directiva.\n\n2. No âmbito das missões que lhe são confiadas nos termos do Regulamento (CE) n.º 1406/2002, a Agência Europeia para a Segurança Marítima deverá:\n\na) Cooperar com os Estados-Membros no desenvolvimento de soluções técnicas e na prestação de assistência técnica relacionada com a aplicação da presente directiva, em acções como a detecção de descargas através de controlo e vigilância por satélite;\n\nb) Assistir a Comissão na aplicação da presente directiva, incluindo, se for caso disso, através da realização de visitas aos Estados-Membros, nos termos do artigo 3.º do Regulamento (CE) n.º 1406/2002."
+  },
+  "b572844b6f217ef4": {
+   "fragment_id": "Artigo 13.º — Procedimento de Comité",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Procedimento de Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Procedimento de Comité\n\n1. A Comissão é assistida pelo Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS), instituído pelo artigo 3.º do Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho, de 5 de Novembro de 2002 ([^8^](http://publications.europa.eu/resource/cellar/cb650ed9-d5df-41e5-8949-70fd543f4323.0018.03/DOC_1#E0008)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de um mês."
+  },
+  "4cbb78c4f6086237": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/cb650ed9-d5df-41e5-8949-70fd543f4323.0018.03/DOC_1#src.E0001)) JO C 220 de 16.9.2003, p. 72.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/cb650ed9-d5df-41e5-8949-70fd543f4323.0018.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 13 de Janeiro de 2004 (JO C 92 E de 16.4.2004, p. 77), Posição Comum do Conselho de 7 de Outubro de 2004 (JO C 25 E de 1.2.2005, p. 29), Posição do Parlamento Europeu de 23 de Fevereiro de 2005 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 12 de Julho de 2005.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/cb650ed9-d5df-41e5-8949-70fd543f4323.0018.03/DOC_1#src.E0003)) Ver p. 164 do presente Jornal Oficial.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/cb650ed9-d5df-41e5-8949-70fd543f4323.0018.03/DOC_1#src.E0004)) JO L 208 de 5.8.2002, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 724/2004 (JO L 129 de 29.4.2004, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/cb650ed9-d5df-41e5-8949-70fd543f4323.0018.03/DOC_1#src.E0005)) JO L 332 de 28.12.2000, p. 81. Directiva alterada pela Directiva 2002/84/CE (JO L 324 de 29.11.2002, p. 53).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/cb650ed9-d5df-41e5-8949-70fd543f4323.0018.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/cb650ed9-d5df-41e5-8949-70fd543f4323.0018.03/DOC_1#src.E0007)) Decisão n.º 2850/2000/CE do Parlamento Europeu e do Conselho, de 20 de Dezembro de 2000, que define um quadro comunitário para a cooperação no domínio da poluição marinha acidental ou deliberada (JO L 332 de 28.12.2000, p. 1). Decisão alterada pela Decisão n.º 787/2004/CE (JO L 138 de 30.4.2004, p. 12).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/cb650ed9-d5df-41e5-8949-70fd543f4323.0018.03/DOC_1#src.E0008)) JO L 324 de 29.11.2002, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 415/2004 da Comissão (JO L 68 de 6.3.2004, p. 10)."
+  },
+  "cd9e5b97bcbf2f24": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de setembro de 2005\n\nrelativa à garantia do cumprimento das normas internacionais em matéria de poluição por navios e à previsão de sanções administrativas por crimes de poluição\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "96ad25330777bad1": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1. O objeto da presente diretiva consiste em incorporar no direito da União as normas internacionais relativas à poluição provocada por navios e assegurar que todas as companhias ou outras pessoas coletivas ou singulares responsáveis por descargas ilegais de substâncias poluentes são sujeitas a sanções administrativas efetivas, proporcionadas e dissuasivas a fim de melhorar a segurança marítima e de reforçar a proteção do meio marinho contra a poluição por navios.\n\n2. A presente diretiva não obsta a que os Estados-Membros tomem medidas mais rigorosas nos termos do direito da União e do direito internacional, prevendo sanções administrativas ou penais em conformidade com o respetivo direito nacional."
+  },
+  "9dd9cd66a82cbf30": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente diretiva, entende-se por:\n\n1) «Convenção Marpol 73/78», a Convenção Internacional para a Prevenção da Poluição por Navios de 1973, incluindo os respetivos protocolos de 1978 e 1997, com a redação que lhe for dada pelas subsequentes alterações;\n\n2) «Substâncias poluentes», as substâncias sujeitas a regulamentação nos termos dos anexos I (hidrocarbonetos), II (substâncias líquidas nocivas a granel), III (substâncias prejudiciais transportadas por via marítima em embalagens), IV (esgotos sanitários dos navios) e V (lixo dos navios) da Convenção Marpol 73/78 e os resíduos provenientes dos sistemas de tratamento de efluentes gasosos;\n\n3) «Resíduos provenientes dos sistemas de tratamento de efluentes gasosos», qualquer material removido das águas residuais ou das águas de escoamento por um sistema de tratamento ou águas de descarga que não cumpra os critérios de descarga, ou outros materiais residuais removidos do sistema de tratamento de efluentes gasosos (STEG) como resultado da utilização de um método conforme para a redução das emissões, conforme definido no anexo VI, regra 4, da Convenção Marpol 73/78, utilizado como alternativa, em termos de redução das emissões, às normas previstas no anexo VI, regra 14, da Convenção Marpol 73/78, tendo em conta as orientações desenvolvidas pela Organização Marítima Internacional (OMI);\n\n4) «Descarga», qualquer forma de lançamento de produtos efetuada por um navio, nos termos do artigo 2.º da Convenção Marpol 73/78;\n\n5) «Navio», uma embarcação de qualquer tipo, independentemente do seu pavilhão, que opere no meio marinho, incluindo embarcações de sustentação hidrodinâmica, veículos de sustentação por ar, submersíveis e estruturas flutuantes;\n\n6) «Pessoa coletiva», qualquer entidade jurídica que tenha tal estatuto ao abrigo do direito nacional aplicável, com exceção dos Estados, dos organismos públicos no exercício da autoridade do Estado e das organizações de direito internacional público;\n\n7) «Companhia», o proprietário de um navio ou qualquer outra organização ou pessoa, nomeadamente o gestor do navio ou o afretador em casco nu, que tenha assumido perante o proprietário a responsabilidade pela exploração do navio."
+  },
+  "2e6b087124f1a18c": {
+   "fragment_id": "Artigo 3.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1.\n\nA presente directiva é aplicável, nos termos do direito internacional, a descargas de substâncias poluentes:\n\na) Nas águas interiores, incluindo portos, de um Estado-Membro, desde que o regime Marpol seja aplicável;\n\nb) No mar territorial de um Estado-Membro;\n\nc) Nos estreitos utilizados para a navegação internacional sujeitos ao regime de passagem em trânsito estabelecido na secção 2 da parte III da Convenção das Nações Unidas sobre o direito do mar, de 1982, na medida em que um Estado-Membro exerça jurisdição sobre esses estreitos;\n\nd) Na zona económica exclusiva de um Estado-Membro ou numa zona equivalente, estabelecida nos termos do direito internacional; e\n\ne) No alto mar.\n\n2. A presente directiva é aplicável a descargas de substâncias poluentes efectuadas por qualquer navio, independentemente do seu pavilhão, com excepção dos navios de guerra, das unidades auxiliares de marinha e dos navios pertencentes ou operados por um Estado e utilizados, no momento considerado, unicamente para fins de serviço público não comercial."
+  },
+  "8ea1684638295cb8": {
+   "fragment_id": "Artigo 4.º — Infrações e exceções",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Infrações e exceções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Infrações e exceções\n\n1.\n\nOs Estados-Membros devem assegurar que as descargas de substâncias poluentes em qualquer das zonas referidas no artigo 3.º, n.º 1, sejam consideradas infrações, a menos que:\n\na) No caso das substâncias poluentes reguladas pelo anexo I da Convenção Marpol 73/78, tais descargas satisfaçam as condições previstas no anexo I, regras 15, 34, 4.1, 4.2 ou 4.3, da Convenção Marpol 73/78 e na parte II-A, secção 1.1.1, do Código Internacional para os Navios que Operam em Águas Polares («Código Polar»);\n\nb) No caso das substâncias poluentes reguladas pelo anexo II da Convenção Marpol 73/78, tais descargas satisfaçam as condições previstas no anexo II, regras 13, 3.1.1, 3.1.2 ou 3.1.3, da Convenção Marpol 73/78 e na parte II-A, secção 2.1, do Código Polar;\n\nc) No caso das substâncias poluentes reguladas pelo anexo III da Convenção Marpol 73/78, tais descargas satisfaçam as condições previstas no anexo III, regra 8.1 da Convenção Marpol 73/78;\n\nd) No caso das substâncias poluentes reguladas pelo anexo IV da Convenção Marpol 73/78, tais descargas satisfaçam as condições previstas no anexo IV, regras 3, 11.1 e 11.3, da Convenção Marpol 73/78 e na parte II-A, secção 4.2, do Código Polar;\n\ne) No caso das substâncias poluentes reguladas pelo anexo V da Convenção Marpol 73/78, tais substâncias satisfaçam as condições previstas no anexo V, regras 4.1, 4.2, 5, 6.1, 6.2 e 7, da Convenção Marpol 73/78 e na parte II-A, secção 5.2, do Código Polar; e\n\nf) No caso dos resíduos provenientes dos sistemas de tratamento de efluentes gasosos, tais descargas satisfaçam as condições previstas no anexo VI, regras 4, 14.1, 14.4, 14.6, 3.1.1 e 3.1.2, da Convenção Marpol 73/78, tendo em conta as orientações elaboradas pela OMI, incluindo a Resolução MEPC.340(77) na sua versão atualizada.\n\n2. Cada Estado-Membro toma todas as medidas necessárias para garantir que qualquer companhia ou outra pessoa singular ou coletiva que cometeu uma infração na aceção do n.º 1 seja responsabilizada."
+  },
+  "4abc38b87c080045": {
+   "fragment_id": "Artigo 6.º — Medidas de aplicação relativas a navios que se encontram num porto de um Estado-Membro",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Medidas de aplicação relativas a navios que se encontram num porto de um Estado-Membro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Medidas de aplicação relativas a navios que se encontram num porto de um Estado-Membro\n\n1. Em caso de irregularidades ou informações que criem a suspeita de que um navio que se encontra voluntariamente num porto de um Estado-Membro ou num seu terminal ao largo da costa efetuou ou se prepara para efetuar uma descarga de substâncias poluentes em qualquer das zonas referidas no artigo 3.º, n.º 1, esse Estado-Membro assegura que seja empreendida uma inspeção adequada ou outra ação adequada, nos termos do seu direito interno, tendo em conta as orientações pertinentes adotadas pela OMI.\n\n2. Sempre que a inspeção referida no n.º 1 do presente artigo revele factos que possam indiciar a prática de uma infração na aceção do artigo 4.º, o Estado-Membro em causa aplica as disposições da presente diretiva. As autoridades competentes desse Estado-Membro e do Estado do pavilhão são informadas.\n\n3. O anexo I da presente diretiva contém uma lista indicativa das irregularidades ou informações a ter em conta na aplicação do n.º 1 do presente artigo."
+  },
+  "704f49a8b141e2a7": {
+   "fragment_id": "Artigo 7.º — Medidas de aplicação dos Estados costeiros em relação a navios em trânsito",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Medidas de aplicação dos Estados costeiros em relação a navios em trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Medidas de aplicação dos Estados costeiros em relação a navios em trânsito\n\n1.\n\nSe a alegada descarga tiver sido efectuada numa das zonas referidas nas alíneas b), c), d) ou e) do n.º 1 do artigo 3.º, e o navio suspeito de a ter efectuado não escalar um porto do Estado-Membro que detém as informações relativas à alegada descarga, aplica-se o seguinte:\n\na) Se o porto de escala seguinte do navio se situar noutro Estado-Membro, os Estados-Membros em causa devem cooperar estreitamente na inspecção referida no n.º 1 do artigo 6.º e na decisão relativa às medidas adequadas a tomar relativamente à eventual descarga;\n\nb) Se o porto de escala seguinte do navio se situar num Estado que não pertença à Comunidade, o Estado-Membro deve tomar as medidas necessárias para garantir que esse porto seja informado da alegada descarga e solicita ao referido Estado que tome as medidas adequadas relativamente à eventual descarga.\n\n2. Sempre que existam provas inequívocas e objectivas de que um navio a navegar nas zonas referidas nas alíneas b) ou d) do n.º 1 do artigo 3.º cometeu, na zona a que se refere a alínea d) do n.º 1 do artigo 3.º, uma infracção resultante numa descarga que cause danos importantes, ou ameaça de danos importantes, no litoral ou em interesses afins do Estado-Membro em questão, ou em quaisquer recursos das zonas referidas nas alíneas b) ou d) do n.º 1 do artigo 3.º, esse Estado, sem prejuízo da secção 7 da parte XII, da Convenção das Nações Unidas sobre o direito do mar, de 1982, deve, desde que as provas o justifiquem, submeter a questão à apreciação das autoridades competentes a fim de iniciar procedimentos, incluindo a imobilização do navio, nos termos do seu direito interno.\n\n3. As autoridades do Estado do pavilhão devem, em qualquer caso, ser informadas."
+  },
+  "786694e3fcebc6ee": {
+   "fragment_id": "Artigo 8.º — Sanções administrativas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Sanções administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sanções administrativas\n\n1. Sem prejuízo das obrigações dos Estados-Membros ao abrigo da Diretiva (UE) 2024/1203 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#E0001)), os Estados-Membros devem instituir um sistema de sanções administrativas na aceção do respetivo sistema jurídico nacional por violações das disposições nacionais de execução do artigo 4.º da presente diretiva e devem assegurar a sua aplicação. As sanções administrativas previstas devem ser efetivas, proporcionadas e dissuasivas.\n\n2. Os Estados-Membros devem assegurar que as sanções administrativas introduzidas em transposição da presente diretiva incluem coimas aplicadas à companhia responsabilizada pela infração.\n\n3. Caso o sistema jurídico dos Estados-Membros não preveja sanções administrativas, poderá aplicar-se o presente artigo de modo a que as sanções, incluindo as coimas referidas no n.º 2, sejam propostas pela autoridade competente e impostas pelos tribunais nacionais competentes, garantindo ao mesmo tempo que tais medidas jurídicas corretivas são eficazes e têm um efeito equivalente às coimas administrativas impostas pelas autoridades competentes. Em qualquer caso, as sanções impostas nos termos do presente número devem ser efetivas, proporcionadas e dissuasivas e devem ser aplicadas em conformidade com o disposto na presente diretiva. Os Estados-Membros em causa comunicam à Comissão as disposições de direito interno que adotarem nos termos do presente número até 6 de julho de 2027 e, sem demora, qualquer alteração subsequente das mesmas."
+  },
+  "87a391fc6b545271": {
+   "fragment_id": "Artigo 8.º-D — Aplicação efetiva das sanções",
+   "type": "artigo",
+   "heading": "Artigo 8.º-D — Aplicação efetiva das sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-D — Aplicação efetiva das sanções\n\n1.\n\nA fim de garantir que as sanções sejam efetivas, proporcionadas e dissuasivas, os Estados-Membros devem assegurar que, ao determinar o tipo e o nível das sanções administrativas e ao aplicar tais sanções a uma companhia ou a outra pessoa coletiva ou singular que as autoridades competentes considerem ser responsável, em conformidade com o artigo 8.º, por uma infração na aceção do artigo 4.º, as autoridades competentes têm em conta todas as circunstâncias pertinentes da infração, em particular:\n\na) A natureza, a gravidade e a duração da descarga;\n\nb) O grau de culpabilidade ou de dolo da pessoa responsável, na aceção do sistema jurídico do Estado-Membro em causa;\n\nc) Os danos causados pela descarga no ambiente ou na saúde humana, incluindo, se for caso disso, o seu impacto na pesca, no turismo e nas comunidades costeiras;\n\nd) A capacidade financeira da companhia ou outra pessoa coletiva ou singular responsável;\n\ne) Os benefícios económicos gerados ou que se prevê que sejam gerados pela infração a favor da companhia ou outra pessoa coletiva ou singular responsável, se for caso disso;\n\nf) As medidas tomadas pela companhia ou outra pessoa coletiva ou singular responsável para prevenir a descarga ou atenuar os seus impactos;\n\ng) O nível de cooperação da companhia ou outra pessoa coletiva ou singular responsável pela infração com a autoridade competente, incluindo ações destinadas a contornar ou obstruir uma inspeção adequada ou outra investigação por parte de uma autoridade competente; e\n\nh) Quaisquer infrações prévias de poluição por navios por parte da companhia ou outra pessoa coletiva ou singular responsável.\n\n2. Os Estados-Membros não preveem nem aplicam sanções administrativas para infrações ao abrigo da presente diretiva que, sendo demasiado baixas, não garantam o caráter efetivo, proporcionado e dissuasivo dessas sanções."
+  },
+  "e5a88a3937add38f": {
+   "fragment_id": "Artigo 10.º — Intercâmbio de informações e de experiência",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Intercâmbio de informações e de experiência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Intercâmbio de informações e de experiência\n\n1.\n\nPara efeitos da presente diretiva, os Estados-Membros e a Comissão, assistidos pela Agência Europeia da Segurança Marítima (EMSA), devem cooperar em matéria de intercâmbio de informações, com base no Sistema de Intercâmbio de Informações Marítimas da União previsto no artigo 22.º-A, n.º 3, e no anexo III da Diretiva 2002/59/CE do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#E0002)) (SafeSeaNet), a fim de:\n\na) Reforçar as informações necessárias para a execução eficaz da presente diretiva, nomeadamente conforme previsto pelo serviço europeu de deteção da poluição por satélite criado pela presente diretiva (CleanSeaNet) e por outros mecanismos pertinentes de comunicação de informações, com vista a desenvolver métodos fiáveis de localização de substâncias poluentes no mar;\n\nb) Desenvolver e implementar um sistema adequado de controlo e monitorização, integrando as informações disponibilizadas em conformidade com a alínea a) com as informações disponibilizadas pela Comissão aos Estados-Membros no SafeSeaNet, no THETIS-EU e noutras bases de dados de informações e ferramentas da União, a fim de facilitar a identificação e monitorização precoces dos navios que descarregam substâncias poluentes no sentido de otimizar as medidas coercivas tomadas pelas autoridades nacionais;\n\nc) Tirar o máximo partido das informações disponibilizadas em conformidade com as alíneas a) e b) do presente número, bem como das informações notificadas pelos Estados-Membros nos termos do artigo 10.º-A, com vista a facilitar o acesso e o intercâmbio dessas informações entre as autoridades competentes e com as autoridades de outros Estados-Membros e da Comissão; e\n\nd) Até 6 de julho de 2030, garantir que as autoridades competentes analisam digitalmente todos os alertas de elevada confiança e indicam se procedem ou não à verificação anual desses alertas de elevada confiança enviados pelo CleanSeaNet, esforçando-se por verificar pelo menos 25 % desses alertas de elevada confiança, entendendo-se pelo termo «verificação» qualquer ação de seguimento de um alerta enviado pelo CleanSeaNet empreendidas pelas autoridades competentes para determinar se o alerta em questão corresponde a uma descarga ilegal. Se um Estado-Membro não verificar um alerta, deverá indicar as razões para tal.\n\n2. Os Estados-Membros devem assegurar que as informações sobre incidentes graves de poluição por navios sejam divulgadas atempadamente às comunidades piscatórias e costeiras em causa.\n\n3. A Comissão encarrega-se da organização do intercâmbio de experiências entre as autoridades nacionais dos Estados-Membros e os peritos, incluindo os provenientes do setor privado, da sociedade civil e dos sindicatos, sobre a aplicação da presente diretiva a nível da União, com vista a estabelecer práticas e orientações comuns sobre a aplicação da presente diretiva.\n\n4. Cabe à Comissão assegurar a organização do intercâmbio de experiências e de boas práticas entre as autoridades nacionais competentes dos Estados-Membros sobre a forma de garantir uma determinação e aplicação eficazes das sanções. Com base nesse intercâmbio de informações, a Comissão pode propor orientações, inclusive sobre os tipos de substâncias poluentes e as zonas sensíveis que suscitam preocupação."
+  },
+  "b23f1dae026abc71": {
+   "fragment_id": "Artigo 10.º-A — Relatórios",
+   "type": "artigo",
+   "heading": "Artigo 10.º-A — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-A — Relatórios\n\n1. A Comissão deve criar uma ferramenta eletrónica de comunicação de informações para efeitos de recolha e intercâmbio de informações entre os Estados-Membros e a Comissão sobre a execução do sistema de controlo do cumprimento previsto na presente diretiva.\n\n2.\n\nOs Estados-Membros devem assegurar que as seguintes informações relacionadas com as ações desenvolvidas pelas respetivas autoridades competentes são comunicadas através da ferramenta eletrónica de comunicação de informações mencionada no n.º 1:\n\na) Informações relativas ao seguimento dado pelas autoridades competentes a um alerta enviado pelo CleanSeaNet ou aos motivos para não dar seguimento ao alerta, logo que possível após a conclusão das atividades de seguimento ou a tomada da decisão de não dar seguimento;\n\nb) Informações relativas às inspeções ou outras ações adequadas desenvolvidas em conformidade com o artigo 6.º, logo que possível após a conclusão das inspeções ou outras ações adequadas;\n\nc) Informações relativas às ações empreendidas em conformidade com o artigo 7.º, logo que possível após a conclusão dessas ações; e\n\nd) Informações relativas às sanções impostas em conformidade com a presente diretiva, assim que os processos administrativos e, se for caso disso, judiciais estejam concluídos, sem demora injustificada e, em todo o caso, até 30 de junho de cada ano para as sanções impostas durante o ano civil anterior. Na medida em que incluam dados pessoais, as informações que digam respeito a sanções devem ser anonimizadas.\n\n3. Para garantir a aplicação uniforme do presente artigo, a Comissão pode, por meio de atos de execução, prever regras pormenorizadas relativas ao procedimento de comunicação das informações referidas no n.º 2, nomeadamente especificando o tipo de informações a comunicar. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 13.º.\n\n4. Os Estados-Membros devem notificar a Comissão das autoridades que estão autorizadas a aceder à ferramenta eletrónica de comunicação de informações prevista no n.º 1."
+  },
+  "65fa4767c3cffdd0": {
+   "fragment_id": "Artigo 10.º-B — Formação",
+   "type": "artigo",
+   "heading": "Artigo 10.º-B — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-B — Formação\n\nA Comissão, assistida pela EMSA e em cooperação com os Estados-Membros, deve promover o desenvolvimento das capacidades dos Estados-Membros oferecendo, se for caso disso, formação às autoridades responsáveis pela deteção e verificação de infrações abrangidas pelo âmbito de aplicação da presente diretiva e a aplicação de sanções ou quaisquer outras medidas decorrentes dessas infrações."
+  },
+  "5b6d6d5d4c38b794": {
+   "fragment_id": "Artigo 10.º-C — Publicação da informação",
+   "type": "artigo",
+   "heading": "Artigo 10.º-C — Publicação da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-C — Publicação da informação\n\n1. Com base nas informações comunicadas pelos Estados-Membros em conformidade com o artigo 10.º-A, a Comissão deve disponibilizar ao público uma análise global à escala da União, atualizada regularmente, sobre a aplicação e o controlo do cumprimento da presente diretiva, no termo dos processos administrativos e judiciais, quando aplicável. Na medida em que incluam dados pessoais ou informações comercialmente sensíveis, as informações que digam respeito a sanções devem ser anonimizadas. A referida análise global deve incluir as informações enumeradas no anexo II da presente diretiva.\n\n2. Sem prejuízo da Diretiva 2003/4/CE do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#E0003)), a Comissão deve tomar medidas adequadas para proteger a confidencialidade das informações obtidas em aplicação da presente diretiva."
+  },
+  "0384060e08bd62e8": {
+   "fragment_id": "Artigo 10.º-D — Proteção das pessoas que denunciam potenciais infrações e proteção dos seus dados pessoais",
+   "type": "artigo",
+   "heading": "Artigo 10.º-D — Proteção das pessoas que denunciam potenciais infrações e proteção dos seus dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-D — Proteção das pessoas que denunciam potenciais infrações e proteção dos seus dados pessoais\n\n1. A Comissão deve criar, disponibilizar e manter um canal de denúncia externa confidencial em linha para a receção de denúncias, na aceção da Diretiva (UE) 2019/1937 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#E0004)), sobre potenciais infrações à presente diretiva e deve transmitir essas denúncias aos Estados-Membros em causa.\n\n2. Os Estados-Membros devem assegurar que as autoridades nacionais competentes que recebem denúncias de violações da presente diretiva, apresentadas através do canal mencionado no n.º 1, investigam, dão resposta, se for caso disso, prestam informações atempadamente e dão seguimento a essas denúncias em conformidade com a Diretiva (UE) 2019/1937.\n\n3. A Comissão, nos termos do artigo 25.º, n.º 1, alíneas c) e h), do Regulamento (UE) 2018/1725 do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#E0005)) e em conformidade com o artigo 25.º, n.º 2, do mesmo, pode limitar a aplicação do artigo 4.º, dos artigos 14.º a 22.º e dos artigos 35.º e 36.º do mesmo regulamento relativamente aos titulares de dados que sejam objeto ou sejam mencionados na denúncia efetuada através do canal mencionado no n.º 1 do presente artigo e que não sejam os titulares de dados que apresentam essa denúncia. Esta limitação só se pode aplicar durante o período necessário para a investigação da denúncia mencionada no n.º 2 do presente artigo pelas autoridades competentes do Estado-Membro."
+  },
+  "d453f7e07d8a1c63": {
+   "fragment_id": "Artigo 12.º-A — Avaliação e revisão",
+   "type": "artigo",
+   "heading": "Artigo 12.º-A — Avaliação e revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º-A — Avaliação e revisão\n\n1.\n\nAté 6 de julho de 2032, a Comissão deve realizar uma avaliação da presente diretiva. Essa avaliação baseia-se, pelo menos, nos seguintes aspetos:\n\na) A experiência adquirida com a aplicação da presente diretiva;\n\nb) As informações comunicadas pelos Estados-Membros nos termos do artigo 10.º-A e a análise global à escala da União prevista no artigo 10.º-C;\n\nc) A interação da presente diretiva com outro direito internacional e da União pertinente em matéria de proteção do meio marinho e de segurança marítima; e\n\nd) Os dados e os conhecimentos científicos mais recentes.\n\n2. No âmbito da revisão, a Comissão deve avaliar a possibilidade de alterar o âmbito de aplicação da presente diretiva, se for caso disso, tendo em conta as normas internacionais novas ou atualizadas para a prevenção da poluição por navios abrangida pelas disposições atuais e futuras da Convenção Marpol 73/78, tais como o lixo marinho de plástico, a perda de contentores e a perda de péletes de plástico."
+  },
+  "41217a83df1fbfde": {
+   "fragment_id": "Artigo 13.º — Procedimento de Comité",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Procedimento de Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Procedimento de Comité\n\n1. A Comissão é assistida pelo Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS) criado pelo artigo 3.º do Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#E0006)). Esse comité é um comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^*1^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#E0007)).\n\n2. Caso se faça referência ao presente número, aplicam-se o artigo 5.º do Regulamento (UE) n.º 182/2011 e o artigo 5.º do Regulamento (CE) n.º 2099/2002."
+  },
+  "c0a3e01dba9a668b": {
+   "fragment_id": "Artigo 16.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Transposição\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva até 1 de abril de 2007 e informar imediatamente a Comissão desse facto.\n\n2. Os Estados-Membros sem acesso direto ao mar ou sem portos marítimos não são obrigados a transpor e executar o artigo 6.º e o artigo 7.º, n.º 2, da presente diretiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "f81c74115ab21c59": {
+   "fragment_id": "Lista não exaustiva das irregularidades ou informações referidas no artigo 6.º",
+   "type": "divisao",
+   "heading": "Lista não exaustiva das irregularidades ou informações referidas no artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista não exaustiva das irregularidades ou informações referidas no artigo 6.º\n\n1. Quaisquer irregularidades no que se refere aos livros de registo de hidrocarbonetos e a outros livros de registo relevantes ou a outras deficiências relacionadas com potenciais descargas, detetadas durante as inspeções realizadas ao abrigo da Diretiva 2009/16/CE do Parlamento Europeu e do Conselho ([^*2^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#E0008)) pelo Estado-Membro em causa, por outro Estado-Membro ou por um Estado signatário do Memorando de Acordo de Paris sobre o Controlo dos Navios pelo Estado do Porto nos anteriores portos de escala do navio;\n\n2. Quaisquer irregularidades relacionadas com a entrega de resíduos gerados em navios, ou a respetiva notificação, conforme exigido pela Diretiva (UE) 2019/883 do Parlamento Europeu e do Conselho ([^*3^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#E0009)), que tenham ocorrido no Estado-Membro em causa ou no Estado-Membro dos portos de escala anteriores do navio;\n\n3. Quaisquer irregularidades relacionadas com o incumprimento dos critérios de utilização de STEG utilizados como métodos de redução de emissões definidos no anexo II da Diretiva (UE) 2016/802 do Parlamento Europeu e do Conselho ([^*4^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#E0010)), que remete para as orientações de 2009 relativas aos STEG definidas na Resolução MEPC.184(59), substituídas pelas orientações de 2021 relativas aos STEG definidas na Resolução MEPC.340(77);\n\n4. Quaisquer informações obtidas a partir de outro Estado-Membro relativas a uma potencial descarga ilegal do navio obtidas através dos procedimentos previstos na Diretiva 2002/59/CE do Parlamento Europeu e do Conselho ([^*5^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#E0011)), incluindo provas ou presunções de descargas deliberadas de hidrocarbonetos ou outras infrações à Convenção Marpol 73/78 comunicadas pelos centros costeiros de um Estado-Membro aos centros costeiros do Estado-Membro em causa em conformidade com o artigo 16.º dessa diretiva ou incidentes ou acidentes comunicados pelo comandante do navio ao centro costeiro do Estado-Membro em causa em conformidade com o artigo 17.º dessa diretiva;\n\n5. Quaisquer outras informações facultadas por pessoas envolvidas na operação do navio, incluindo pilotos, que indiciem irregularidades no que respeita a uma potencial violação das obrigações previstas pela presente diretiva."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "e67be208ee16a7be": {
+   "fragment_id": "Informações que devem constar da análise global à escala da União publicada pela Comissão, referida no artigo 10.º-C",
+   "type": "divisao",
+   "heading": "Informações que devem constar da análise global à escala da União publicada pela Comissão, referida no artigo 10.º-C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informações que devem constar da análise global à escala da União publicada pela Comissão, referida no artigo 10.º-C\n\n1. Para cada incidente de poluição verificado e confirmado por um Estado-Membro, as informações constantes da análise global à escala da União publicada pela Comissão em conformidade com o artigo 10.º-C devem incluir:\n\na) Data do incidente;\n\nb) Identificação do navio envolvido no incidente;\n\nc) Posição (latitude e longitude) do incidente de poluição;\n\nd) Dimensão do incidente de poluição (área e comprimento), se aplicável;\n\ne) Tipo de poluente;\n\nf) Estados-Membros envolvidos;\n\ng) Descrição das atividades de verificação do incidente de poluição;\n\nh) Data e hora das atividades de verificação e meios utilizados para as atividades de verificação;\n\ni) Informações sobre a sanção administrativa imposta.\n\n2. Para cada Estado-Membro, as informações agregadas contidas na análise global à escala da União publicada pela Comissão nos termos do artigo 10.º-C devem incluir:\n\na) Número de eventuais incidentes de poluição CleanSeaNet detetados;\n\nb) Número de eventuais incidentes de poluição CleanSeaNet verificados no local pelo Estado-Membro;\n\nc) Número de eventuais incidentes de poluição CleanSeaNet verificados por outros meios pelo Estado-Membro;\n\nd) Número de incidentes de poluição confirmados após verificação (detalhado por zona: águas territoriais, ZEE, alto-mar);\n\ne) Número de autores de infrações identificados;\n\nf) Número de casos em que foi imposta uma sanção.\n\n3. Um resumo, unicamente para fins de referência, das partes pertinentes da Convenção Marpol 73/78, que deverá ser atualizado sempre que se verifiquem alterações à Convenção Marpol 73/78 relevantes para efeitos da presente diretiva.\n\n---"
+  },
+  "73c5129959435526": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Diretiva (UE) 2024/1203 do Parlamento Europeu e do Conselho, de 11 de abril de 2024, relativa à proteção do ambiente através do direito penal e que substitui as Diretivas 2008/99/CE e 2009/123/CE (JO L, 2024/1203, 30.4.2024, ELI: http://data.europa.eu/eli/dir/2024/1203/oj).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Diretiva 2002/59/CE do Parlamento Europeu e do Conselho, de 27 de junho de 2002, relativa à instituição de um sistema comunitário de acompanhamento e de informação do tráfego de navios e que revoga a Diretiva 93/75/CEE do Conselho (JO L 208 de 5.8.2002, p. 10).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Diretiva 2003/4/CE do Parlamento Europeu e do Conselho, de 28 de janeiro de 2003, relativa ao acesso do público às informações sobre ambiente e que revoga a Diretiva 90/313/CEE do Conselho (JO L 41 de 14.2.2003, p. 26).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Diretiva (UE) 2019/1937 do Parlamento Europeu e do Conselho, de 23 de outubro de 2019, relativa à proteção das pessoas que denunciam violações do direito da União (JO L 305 de 26.11.2019, p. 17).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#src.E0005)) Regulamento (UE) 2018/1725 do Parlamento Europeu e do Conselho, de 23 de outubro de 2018, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos e organismos da União e à livre circulação desses dados, e que revoga o Regulamento (CE) n.º 45/2001 e a Decisão n.º 1247/2002/CE (JO L 295 de 21.11.2018, p. 39).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#src.E0006)) Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho, de 5 de novembro de 2002, que estabelece um Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS) e que altera determinados regulamentos em vigor no domínio da segurança marítima e da prevenção da poluição por navios (JO L 324 de 29.11.2002, p. 1).\n\n> ([^*1^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#src.E0007)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13).\n\n> ([^*2^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#src.E0008)) Diretiva 2009/16/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativa à inspeção de navios pelo Estado do porto (JO L 131 de 28.5.2009, p. 57).\n\n> ([^*3^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#src.E0009)) Diretiva (UE) 2019/883 do Parlamento Europeu e do Conselho, de 17 de abril de 2019, relativa aos meios portuários de receção de resíduos provenientes dos navios, que altera a Diretiva 2010/65/UE e revoga a Diretiva 2000/59/CE (JO L 151 de 7.6.2019, p. 116).\n\n> ([^*4^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#src.E0010)) Diretiva (UE) 2016/802 do Parlamento Europeu e do Conselho, de 11 de maio de 2016, relativa à redução do teor de enxofre de determinados combustíveis líquidos (JO L 132 de 21.5.2016, p. 58).\n\n> ([^*5^](http://publications.europa.eu/resource/cellar/e1aab6b8-098f-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1#src.E0011)) Diretiva 2002/59/CE do Parlamento Europeu e do Conselho, de 27 de junho de 2002, relativa à instituição de um sistema comunitário de acompanhamento e de informação do tráfego de navios e que revoga a Diretiva 93/75/CEE do Conselho (JO L 208 de 5.8.2002, p. 10)."
+  }
+ }
+}

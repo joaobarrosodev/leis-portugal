@@ -36,6 +36,109 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-09-18'
+version_history:
+  file: regulamento-ue-2004-273.versoes.json
+  count: 7
+  source_lastmod: '2026-09-18'
+  versions:
+  - date: '2004-02-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-13'
+    amending: eu:celex:32009R0219:por
+    amending_title: M1; REGULAMENTO (UE) N. o 1258/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de novembro de 2013; REGULAMENTO
+      DELEGADO (UE) 2016/1443 DA COMISSÃO de 29 de junho de 2016; REGULAMENTO DELEGADO (UE) 2018/729 DA COMISSÃO de 26 de
+      fevereiro de 2018; REGULAMENTO DELEGADO (UE) 2020/1737 DA COMISSÃO de 14 de julho de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos para a colocação no mercado das substâncias inventariadas
+    - Altera Artigo 4.º — Declaração do cliente
+    - Altera Artigo 5.º — Documentação
+    - Altera Artigo 7.º — Rotulagem
+    - Altera Artigo 8.º — Notificação das autoridades competentes
+    - Altera Artigo 9.º — Orientações
+    - Altera Artigo 10.º — Poderes e obrigações das autoridades competentes
+    - Altera Artigo 11.º — Cooperação entre os Estados-Membros e a Comissão
+    - Altera Artigo 13.º — Comunicações dos Estados-Membros
+    - Altera Artigo 18.º — Entrada em vigor
+    - Altera ANEXO III
+    - Adita Artigo 1.º — Âmbito de aplicação e objeto
+    - Adita Artigo 13.º-A — Base de dados europeia de precursores de drogas
+    - Adita Artigo 13.º-B — Proteção de dados
+    - Adita Artigo 14.º — Atos de execução
+    - Adita Artigo 14.º-A — Procedimento de comité
+    - Adita Artigo 15.º — Adaptação dos Anexos
+    - Adita Artigo 15.º-A — Exercício da delegação
+    - Adita Artigo 16.º — Informação relativa às medidas adotadas pelos Estados-Membros
+    - Adita ANEXO I
+    - Adita Lista de substâncias inventariadas
+    - Adita ANEXO II
+    - Adita 1. Modelo de declaração de transacções específicas (categoria 1 ou 2)
+    - Adita 2. Modelo de declaração de transacções múltiplas (categoria 2)
+    - Adita Notas
+    - Suprime Artigo 1.º — Âmbito e objectivos
+    - Suprime Artigo 14.º — Implementação
+    - Suprime Artigo 15.º — Comité
+    - Suprime Artigo 16.º — Informação relativa às medidas aprovadas pelos Estados-Membros
+    - Suprime ANEXO I — Substâncias inventariadas na acepção da alínea a) do artigo 2.o
+    - Suprime ANEXO II — >POSIÇÃO NUMA TABELA>
+  - date: '2022-10-03'
+    amending: eu:celex:32022R1518:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/1518 DA COMISSÃO de 29 de março de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos para a colocação no mercado das substâncias inventariadas
+    - Altera Artigo 11.º — Cooperação entre os Estados-Membros e a Comissão
+    - Altera Artigo 13.º-A — Base de dados europeia de precursores de drogas
+    - Altera Artigo 14.º-A — Procedimento de comité
+    - Altera Lista de substâncias inventariadas
+    - Altera Notas
+  - date: '2023-02-20'
+    amending: eu:celex:32023R0196:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/196 DA COMISSÃO de 25 de novembro de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos para a colocação no mercado das substâncias inventariadas
+    - Altera Artigo 11.º — Cooperação entre os Estados-Membros e a Comissão
+    - Altera Artigo 13.º-A — Base de dados europeia de precursores de drogas
+    - Altera Artigo 14.º-A — Procedimento de comité
+    - Altera Lista de substâncias inventariadas
+    - Altera Notas
+  - date: '2024-06-03'
+    amending: eu:celex:32024R1331:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/1331 DA COMISSÃO de 28 de fevereiro de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos para a colocação no mercado das substâncias inventariadas
+    - Altera Artigo 11.º — Cooperação entre os Estados-Membros e a Comissão
+    - Altera Artigo 13.º-A — Base de dados europeia de precursores de drogas
+    - Altera Artigo 14.º-A — Procedimento de comité
+    - Altera Lista de substâncias inventariadas
+    - Altera Notas
+  - date: '2025-08-14'
+    amending: eu:celex:32025R1475:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/1475 DA COMISSÃO de 21 de maio de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos para a colocação no mercado das substâncias inventariadas
+    - Altera Artigo 11.º — Cooperação entre os Estados-Membros e a Comissão
+    - Altera Artigo 13.º-A — Base de dados europeia de precursores de drogas
+    - Altera Artigo 14.º-A — Procedimento de comité
+    - Altera Lista de substâncias inventariadas
+    - Altera Notas
+  - date: '2026-09-18'
+    amending: eu:celex:32026R0314:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/314 DA COMISSÃO de 9 de fevereiro de 2026
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos para a colocação no mercado das substâncias inventariadas
+    - Altera Artigo 11.º — Cooperação entre os Estados-Membros e a Comissão
+    - Altera Artigo 13.º-A — Base de dados europeia de precursores de drogas
+    - Altera Artigo 14.º-A — Procedimento de comité
+    - Altera Lista de substâncias inventariadas
+    - Altera Notas
 identifiers:
   celex: 32004R0273
   eli: http://data.europa.eu/eli/reg/2004/273/oj
@@ -50,7 +153,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2363d01c-ece1-43e6-b064-57213a92cc88.0010
   content_url: http://publications.europa.eu/resource/cellar/891365b8-904c-11f1-9262-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0273-20260918
-  retrieved_at: '2026-10-22T02:45:11Z'
+  retrieved_at: '2026-10-22T14:57:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-20T08:46:31.134+01:00'
 integrity:
@@ -59,9 +162,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:11Z'
-  notes: Texto consolidado 02004R0273-20260918.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:43Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2004-273.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -249,42 +352,23 @@ relationships:
   date: '2003-11-05'
 article_structure:
   article_count: 22
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:11Z'
-  warnings: []
+  checked_at: '2026-10-22T14:57:43Z'
+  warnings:
+  - '02004R0273-20090420: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0273-20131230: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0273-20160921: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0273-20180707: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 273/2004 do Parlamento Europeu e do Conselho, de 11 de Fevereiro de 2004
-
-> 02004R0273 — PT — 18.09.2026 — 010.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) N.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-- [►M2](http://publications.europa.eu/resource/celex/32013R1258) — [REGULAMENTO (UE) N.º 1258/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1258) — L 330 — 21 — 10.12.2013
-- [►M3](http://publications.europa.eu/resource/celex/32016R1443) — [REGULAMENTO DELEGADO (UE) 2016/1443 DA COMISSÃO de 29 de junho de 2016](http://publications.europa.eu/resource/celex/32016R1443) — L 235 — 6 — 1.9.2016
-- [M4](http://publications.europa.eu/resource/celex/32018R0729) — [REGULAMENTO DELEGADO (UE) 2018/729 DA COMISSÃO de 26 de fevereiro de 2018](http://publications.europa.eu/resource/celex/32018R0729) — L 123 — 4 — 18.5.2018
-- [►M5](http://publications.europa.eu/resource/celex/32020R1737) — [REGULAMENTO DELEGADO (UE) 2020/1737 DA COMISSÃO de 14 de julho de 2020](http://publications.europa.eu/resource/celex/32020R1737) — L 392 — 1 — 23.11.2020
-- [►M6](http://publications.europa.eu/resource/celex/32022R1518) — [REGULAMENTO DELEGADO (UE) 2022/1518 DA COMISSÃO de 29 de março de 2022](http://publications.europa.eu/resource/celex/32022R1518) — L 236 — 1 — 13.9.2022
-- [►M7](http://publications.europa.eu/resource/celex/32023R0196) — [REGULAMENTO DELEGADO (UE) 2023/196 DA COMISSÃO de 25 de novembro de 2022](http://publications.europa.eu/resource/celex/32023R0196) — L 27 — 1 — 31.1.2023
-- [►M8](http://publications.europa.eu/resource/celex/32024R1331) — [REGULAMENTO DELEGADO (UE) 2024/1331 DA COMISSÃO de 28 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024R1331) — L 1331 — 1 — 14.5.2024
-- [►M9](http://publications.europa.eu/resource/celex/32025R1475) — [REGULAMENTO DELEGADO (UE) 2025/1475 DA COMISSÃO de 21 de maio de 2025](http://publications.europa.eu/resource/celex/32025R1475) — L 1475 — 1 — 25.7.2025
-- [►M10](http://publications.europa.eu/resource/celex/32026R0314) — [REGULAMENTO DELEGADO (UE) 2026/314 DA COMISSÃO de 9 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0314) — L 314 — 1 — 28.4.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32020R1737R%2803%29) — [Rectificação, JO L 282, 5.8.2021, p. 38 (2020/1737)](http://publications.europa.eu/resource/celex/32020R1737R%2803%29)
-
-## REGULAMENTO (CE) N.º 273/2004 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de Fevereiro de 2004
 

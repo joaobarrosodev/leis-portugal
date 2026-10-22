@@ -36,6 +36,91 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-10-02'
+version_history:
+  file: decisao-ue-2006-133.versoes.json
+  count: 9
+  source_lastmod: '2012-10-02'
+  versions:
+  - date: '2007-05-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-05-20'
+    amending: eu:celex:32008D0340:por
+    amending_title: DECISÃO DA COMISSÃO de 25 de Abril de 2008; DECISÃO DA COMISSÃO de 15 de Maio de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Notas
+    - Adita ANEXO
+  - date: '2008-08-22'
+    amending: eu:celex:32008D0684:por
+    amending_title: DECISÃO DA COMISSÃO de 19 de Agosto de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2008-10-11'
+    amending: eu:celex:32008D0790:por
+    amending_title: DECISÃO DA COMISSÃO de 7 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2008-12-17'
+    amending: eu:celex:32008D0954:por
+    amending_title: DECISÃO DA COMISSÃO de 15 de Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2009-06-16'
+    amending: eu:celex:32009D0420:por
+    amending_title: DECISÃO DA COMISSÃO de 28 de Maio de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2010-01-01'
+    amending: eu:celex:32009D0993:por
+    amending_title: DECISÃO DA COMISSÃO de 17 de Dezembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2012-03-27'
+    amending: eu:celex:32012D0175:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 23 de março de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2012-10-02'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime ANEXO
+    - Suprime Notas
 identifiers:
   celex: 32006D0133
   eli: http://data.europa.eu/eli/dec/2006/133(1)/oj
@@ -50,7 +135,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cd8ef894-fb8b-4138-a7d2-c244fe54ea33.0016
   content_url: http://publications.europa.eu/resource/cellar/b1d9a87b-2b45-42ff-9ad9-6343eba6c9d5.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006D0133-20121002
-  retrieved_at: '2026-10-22T02:40:37Z'
+  retrieved_at: '2026-10-22T15:01:07Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T22:08:22.707+01:00'
 integrity:
@@ -59,9 +144,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:37Z'
-  notes: Texto consolidado 02006D0133-20121002.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:01:07Z'
+  notes: 9 versão(ões); histórico completo em decisao-ue-2006-133.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -177,16 +262,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:37Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:01:07Z'
+  warnings: []
   errors: []
 ---
 

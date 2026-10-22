@@ -1,0 +1,288 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0667:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0667-20091021",
+ "dre_path": null,
+ "source_lastmod": "2009-10-21",
+ "versions": [
+  {
+   "date": "1989-12-30",
+   "future": false,
+   "celex": "31989L0667",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7ba4271a655f762a",
+    "0b033cd2262554b3",
+    "b374253624fe1db6",
+    "bdb6e1d512b6d8ac",
+    "857406aa25f8ad3a",
+    "3b0f2fec7855dc1c",
+    "79116194e7d677e2",
+    "d76fb3b0535b9794",
+    "9a22f4ba645ce4c5",
+    "e784e437ca5f93cf"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01989L0667-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32006L0099:por",
+     "title": "DIRECTIVA 2006/99/CE DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006L0099"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º"
+   ],
+   "fragments": [
+    "ca326329b8d7dddb",
+    "9a08fdab3db1e7c1",
+    "dcc3356bfd0f5aed",
+    "f48c69f7e3945172",
+    "0879f4222d9ff9c8",
+    "ab9d42df6174238e",
+    "5a0d1fc415bfa78e",
+    "e4f246a6296a6961",
+    "3f0748c1008a7d4d",
+    "4045616d41792800",
+    "1e88623648811e22"
+   ]
+  },
+  {
+   "date": "2009-10-21",
+   "future": false,
+   "celex": "01989L0667-20091021",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "ee6f9942db135f22"
+   ]
+  }
+ ],
+ "fragments": {
+  "7ba4271a655f762a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Décima segunda Directiva 89/667/CEE do Conselho, de 21 de Dezembro de 1989, em matéria de direito das sociedades relativa às sociedades de responsabilidade limitada com um único sócio** *Jornal Oficial nº L 395 de 30/12/1989 p. 0040 - 0042 Edição especial finlandesa: Capítulo 17 Fascículo 1 p. 0103 Edição especial sueca: Capítulo 17 Fascículo 1 p. 0103*\n\nDÉCIMA SEGUNDA DIRECTIVA DO CONSELHO de 21 de Dezembro de 1989 em matéria de direito das sociedades relativa às sociedades de responsabilidade limitada com um único sócio (89/667/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 54º,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que é necessário coordenar, de modo a torná-las equivalentes, determinadas garantias que são exigidas, nos Estados-membros, às sociedades, na acepção do segundo parágrafo do artigo 58º do Tratado, a fim de proteger os interesses tanto dos sócios como de terceiros;\n\nConsiderando que, neste domínio, por um lado, as Directivas 68/151/CEE (4) e 78/660/CEE (5), com a última redacção que lhes foi dada pelo Acto de Adesão de Espanha e de Portugal, e a Directiva 83/349/CEE (6), com a última redacção que lhe foi dada pelo Acto de Adesão de Espanha e de Portugal, relativas à publicidade, validade das obrigações e invalidade da sociedade, bem como às contas anuais e às contas consolidadas, são aplicáveis ao conjunto das sociedades de capitais; que, por outro, as Directivas 77/91//CEE (7) e 78/855/CEE (8), com a última redacção que lhes foi dada pelo Acto de Adesão de Espanha e de Portugal, e a Directiva 82/891/CEE (9), relativas à constituição e ao capital, bem como às fusões e às cisões, só são aplicáveis às sociedades anónimas;\n\nConsiderando que, pela sua resolução de 3 de Novembro de 1986, o Conselho adoptou, em 3 de Novembro de 1986, o programa de acção para as pequenas e médias empresas (PME) (10);\n\nConsiderando que as reformas introduzidas em algumas legislações nacionais, no decurso dos últimos anos, com o objectivo de permitir a existência de sociedades de responsabilidade limitada com um único sócio, deram origem a disparidades entre as legislações dos Estados-membros;\n\n¹\n\n¹\n\n¹\n\n¹\n\n¹\n\n¹\n\n¹\n\n¹\n\n¹\n\nConsiderando que é conveniente prever a criação de um instrumento jurídico que permita a limitação da responsabilidade do empresário individual, em toda a Comunidade, sem prejuízo das legislações dos Estados-membros que, em casos excepcionais, impõem a responsabilidade desse empresário relativamente às obrigações da empresa;\n\nConsiderando que uma sociedade de responsabilidade limitada pode ter um único sócio no momento da sua constituição, ou então por força da reunião de todas as partes sociais numa só pessoa; que, enquanto se aguarda a coordenação das disposições nacionais em matéria de direito dos grupos, os Estados-membros podem prever certas disposições especiais, ou sanções, aplicáveis no caso de uma pessoa singular ser o único sócio de diversas sociedades ou quando uma sociedade unipessoal ou qualquer outra pessoa colectiva for o único sócio de uma sociedade; que o único objectivo desta faculdade é atender às particularidades actualmente existentes em determinadas legislações nacionais; que os Estados-membros podem, para esse efeito, e em relação a casos específicos, prever restrições ao acesso à sociedade unipessoal ou a responsabilidade ilimitada do sócio único; que os Estados-membros são livres de estabelecer regras para enfrentar os riscos que a sociedade unipessoal pode apresentar devido à existência de um único sócio, designadamente para garantir a liberação do capital subscrito;\n\nConsiderando que a reunião de todas as partes sociais numa única pessoa, bem como a identidade do único sócio, devem ser objecto de publicidade de num registo acessível ao público;\n\nConsiderando que as decisões adoptadas pelo sócio único, na qualidade de assembleia geral de sócios, devem assumir a forma escrita;\n\nConsiderando que a forma escrita deve ser igualmente exigida para os contratos celebrados entre o sócio único e a sociedade por ele representada, desde que esses contratos não digam respeito a operações correntes celebradas em condições normais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "0b033cd2262554b3": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nAs medidas de coordenação prescritas pela presente directiva aplicam-se às disposições legislativas, regulamentares e administrativas dos Estados-membros relativas às seguintes formas de sociedade:\n\n- no que se refere à Alemanha:\n\ndie Gesellschaft mit beschraenkter Haftung,\n\n- no que se refere à Bélgica:\n\nla société privée à responsabilité limitée/de besloten vennootschap met beperkte aansprakelijkheid,\n\n- no que se refere à Dinamarca:\n\nanpartsselskaber:\n\n- no que se refera à Espanha:\n\nla sociedad de responsabilidad limitada,\n\n- no que se refere à França:\n\nla société à responsabilité limitée,\n\n- no que se refere à Grécia:\n\np etaireia periorismenis efthynps\n\n- no que se refere à Irlanda:\n\nthe private company limited by shares or by guarantee,\n\n- no que se refere a Itália:\n\nla società a responsabilità limitata,\n\n- no que se refere ao Luxemburgo:\n\nla société à responsabilité limitée,\n\n- no que se refere aos Países Baixos:\n\nde besloten vennootschap met beperkte aansprakelijkheid,\n\n- no que se refere a Portugal:\n\na sociedade por quotas,\n\n- no que se refere ao Reino Unido:\n\nthe private company limited by shares or by guarantee."
+  },
+  "b374253624fe1db6": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. A sociedade pode ter um sócio único no momento da sua constituição, bem como por força da reunião de todas as partes sociais numa única pessoa (sociedade unipessoal).\n\n2. Enquanto se aguarda uma coordenação das disposições nacionais em matéria de direito dos grupos, as legislações dos Estados-membros podem prever disposições especiais ou sanções aplicáveis:\n\na) Quando uma pessoa singular for o sócio único de várias sociedades, ou\n\nb) Quando uma sociedade unipessoal ou qualquer pessoa colectiva for o sócio único de uma sociedade."
+  },
+  "bdb6e1d512b6d8ac": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nQuando a sociedade se torne unipessoal por força da reunião de todas as partes sociais numa única pessoa, tal facto, bem como a identidade do sócio único, deve ou ser indicado no processo ou transcrito no registo, nos termos dos nos 1 e 2 do artigo 3º da Directiva 68/151/CEE, ou ser transcrito num registo mantido na sociedade e acessível ao público."
+  },
+  "857406aa25f8ad3a": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. O sócio único exerce os poderes atribuídos à assembleia geral de sócios.\n\n2. As decisões adoptadas pelo sócio único no domínio a que se refere o nº 1 devem ser lavradas em acta ou assumir a forma escrita."
+  },
+  "3b0f2fec7855dc1c": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Os contratos celebrados entre o sócio único e a sociedade por ele representada devem ser lavrados em acta ou assumir a forma escrita.\n\n2. Os Estados-membros podem decidir não aplicar o disposto no número anterior às operações correntes celebradas em condições normais."
+  },
+  "79116194e7d677e2": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nAs disposições da presente directiva são aplicáveis nos Estados-membros que permitam a existência de sociedades unipessoais, na acepção do nº 1 do artigo 2º, também em relação às sociedades anónimas."
+  },
+  "d76fb3b0535b9794": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nUm Estado-membro pode decidir não permitir a existência de sociedades unipessoais no caso de a sua legislação prever a possibilidade de o empresário individual constituir uma empresa de responsabilidade limitada com um património afecto a uma determinada actividade desde que, no que se refere a essas empresas, se prevejam garantias equivalentes às impostas pela presente directiva bem como pelas outras disposições comunitárias aplicáveis às sociedades referidas no artigo 1º"
+  },
+  "9a22f4ba645ce4c5": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Os Estados-membros porão em vigor, antes de 1 de Janeiro de 1992, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Desse facto informarão a Comissão.\n\n2. No que se refere às sociedades já existentes em 1 de Janeiro de 1992, os Estados-membros podem prever que as disposições da presente directiva só se apliquem a partir de\n\n1 de Janeiro de 1993.\n\n3. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptem no domínio regido pela presente directiva."
+  },
+  "e784e437ca5f93cf": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 21 de Dezembro de 1989.\n\nPelo Comunidade\n\nO Presidente\n\nE. CRESSON\n\n(1) JO nº C 173 de 2. 7. 1988, p. 10.\n\n(2) JO nº C 96 de 17. 4. 1989, p. 92, e JO nº C 291 de 20. 11. 1989, p. 53.\n\n(3) JO nº C 318 de 12. 12. 1988, p. 9\n\n(4) JO nº L 65 de 14. 3. 1968, p. 8.\n\n(5) JO nº L 222 de 14. 8. 1978, p. 11.\n\n(6) JO nº L 193 de 18. 7. 1983, p. 1.\n\n(7) JO nº L 26 de 30. 1. 1977, p. 1.\n\n(8) JO nº L 295 de 20. 10. 1978, p. 36.\n\n(9) JO nº L 378 de 31. 12. 1982, p. 47.\n\n(10) JO nº C 287 de 14. 11. 1986, p. 1."
+  },
+  "ca326329b8d7dddb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Dezembro de 1989\n\nem matéria de direito das sociedades relativa às sociedades de responsabilidade limitada com um único sócio\n\n(89/667/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 54.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#E0003)),\n\nConsiderando que é necessário coordenar, de modo a torná-las equivalentes, determinadas garantias que são exigidas, nos Estados-membros, às sociedades, na acepção do segundo parágrafo do artigo 58.º do Tratado, a fim de proteger os interesses tanto dos sócios como de terceiros;\n\nConsiderando que, neste domínio, por um lado, as Directivas 68/151/CEE ([^4^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#E0004)) e 78/660/CEE ([^5^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#E0005)), com a última redacção que lhes foi dada pelo Acto de Adesão de Espanha e de Portugal, e a Directiva 83/349/CEE ([^6^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#E0006)), com a última redacção que lhe foi dada pelo Acto de Adesão de Espanha e de Portugal, relativas à publicidade, validade das obrigações e invalidade da sociedade, bem como às contas anuais e às contas consolidadas, são aplicáveis ao conjunto das sociedades de capitais; que, por outro, as Directivas 77/91/CEE ([^7^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#E0007)) e 78/855/CEE ([^8^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#E0008)), com a última redacção que lhes foi dada pelo Acto de Adesão de Espanha e de Portugal, e a Directiva 82/891/CEE ([^9^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#E0009)), relativas à constituição e ao capital, bem como às fusões e às cisões, só são aplicáveis às sociedades anónimas;\n\nConsiderando que, pela sua resolução de 3 de Novembro de 1986, o Conselho adoptou, em 3 de Novembro de 1986, o programa de acção para as pequenas e médias empresas (PME) ([^10^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#E0010));\n\nConsiderando que as reformas introduzidas em algumas legislações nacionais, no decurso dos últimos anos, com o objectivo de permitir a existência de sociedades de responsabilidade limitada com um único sócio, deram origem a disparidades entre as legislações dos Estados-membros;\n\nConsiderando que é conveniente prever a criação de um instrumento jurídico que permita a limitação da responsabilidade do empresário individual, em toda a Comunidade, sem prejuízo das legislações dos Estados-membros que, em casos excepcionais, impõem a responsabilidade desse empresário relativamente às obrigações da empresa;\n\nConsiderando que uma sociedade de responsabilidade limitada pode ter um único sócio no momento da sua constituição, ou então por força da reunião de todas as partes sociais numa só pessoa; que, enquanto se aguarda a coordenação das disposições nacionais em matéria de direito dos grupos, os Estados-membros podem prever certas disposições especiais, ou sanções, aplicáveis no caso de uma pessoa singular ser o único sócio de diversas sociedades ou quando uma sociedade unipessoal ou qualquer outra pessoa colectiva for o único sócio de uma sociedade; que o único objectivo desta faculdade é atender às particularidades actualmente existentes em determinadas legislações nacionais; que os Estados-membros podem, para esse efeito, e em relação a casos específicos, prever restrições ao acesso à sociedade unipessoal ou a responsabilidade ilimitada do sócio único; que os Estados-membros são livres de estabelecer regras para enfrentar os riscos que a sociedade unipessoal pode apresentar devido à existência de um único sócio, designadamente para garantir a liberação do capital subscrito;\n\nConsiderando que a reunião de todas as partes sociais numa única pessoa, bem como a identidade do único sócio, devem ser objecto de publicidade de num registo acessível ao público;\n\nConsiderando que as decisões adoptadas pelo sócio único, na qualidade de assembleia geral de sócios, devem assumir a forma escrita;\n\nConsiderando que a forma escrita deve ser igualmente exigida para os contratos celebrados entre o sócio único e a sociedade por ele representada, desde que esses contratos não digam respeito a operações correntes celebradas em condições normais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "9a08fdab3db1e7c1": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs medidas de coordenação prescritas pela presente directiva aplicam-se às disposições legislativas, regulamentares e administrativas dos Estados-membros relativas às seguintes formas de sociedade:\n\n— *no que se refere à Alemanha:*\n\n— die Gesellschaft mit beschränkter Haftung,\n\n— *no que se refere à Bélgica:*\n\n— la société privée à responsabilité limitée/de besloten vennootschap met beperkte aansprakelijkheid,\n\n— *no que se refere à Dinamarca:*\n\n— anpartsselskaber,\n\n— *no que se refere à Espanha:*\n\n— la sociedad de responsabilidad limitada,\n\n— *no que se refere à França:*\n\n— la société à responsabilité limitée,\n\n— *no que se refere à Grécia:*\n\n— εταιρεία περιορισμένης ευθύνης,\n\n— *no que se refere à Irlanda:*\n\n— the private company limited by shares or by guarantee,\n\n— *no que se refere à Itália:*\n\n— la società a responsabilità limitata,\n\n— *no que se refere ao Luxemburgo:*\n\n— la société à responsabilité limitée,\n\n— *no que se refere aos Países Baixos:*\n\n— de besloten vennootschap met beperkte aansprakelijkheid,\n\n— *no que se refere a Portugal:*\n\n— a sociedade por quotas,\n\n— *no que se refere ao Reino Unido:*\n\n— the private company limited by shares or by guarantee,\n\n— *na Áustria:*\n\n— die Gesellschaft mit beschränkter Haftung,\n\n— *na Finlândia:*\n\n— osakeyhtiö/aktiebolag,\n\n— *na Suécia:*\n\n— aktiebolag,\n\n— *no que se refere à República Checa:*\n\n— *společnost s ručením omezeným*,\n\n— *no que se refere à Estónia:*\n\n— *aktsiaselts, osaühing*,\n\n— *no que se refere a Chipre:*\n\n— *Ιδιωτική εταιρεία περιορισμένης ευθύνης με μετοχές ή με εγγύηση*,\n\n— *no que se refere à Letónia:*\n\n— *sabiedrība ar ierobežotu atbildību*,\n\n— *no que se refere à Lituânia:*\n\n— *uždaroji akcinė bendrovė*,\n\n— *no que se refere à Hungria:*\n\n— *korlátolt felelősségű társaság, részvénytársaság*,\n\n— *no que se refere a Malta:*\n\n— kumpanija privata/private limited liability company,\n\n— *no que se refere à Polónia:*\n\n— *spółka z ograniczoną odpowiedzialnością*,\n\n— *no que se refere à Eslovénia:*\n\n— *družba z omejeno odgovornostjo*,\n\n— *no que se refere à Eslováquia:*\n\n— *spoločnosť s ručením obmedzeným*,\n\n— *no que se refere à Bulgária:*\n\n— дружество с ограничена отговорност, акционерно дружество,\n\n— *no que se refere à Roménia:*\n\n— societate cu răspundere limitată."
+  },
+  "dcc3356bfd0f5aed": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A sociedade pode ter um sócio único no momento da sua constituição, bem como por força da reunião de todas as partes sociais numa única pessoa (sociedade unipessoal).\n\n2. Enquanto se aguarda uma coordenação das disposições nacionais em matéria de direito dos grupos, as legislações dos Estados-membros podem prever disposições especiais ou sanções aplicáveis:\n\na) Quando uma pessoa singular for o sócio único de várias sociedades, ou\n\nb) Quando uma sociedade unipessoal ou qualquer pessoa colectiva for o sócio único de uma sociedade."
+  },
+  "f48c69f7e3945172": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nQuando a sociedade se torne unipessoal por força da reunião de todas as partes sociais numa única pessoa, tal facto, bem como a identidade do sócio único, deve ou ser indicado no processo ou transcrito no registo, nos termos dos n.^os^ 1 e 2 do artigo 3.º da Directiva 68/151/CEE, ou ser transcrito num registo mantido na sociedade e acessível ao público."
+  },
+  "0879f4222d9ff9c8": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O sócio único exerce os poderes atribuídos à assembleia geral de sócios.\n\n2. As decisões adoptadas pelo sócio único no domínio a que se refere o n.º 1 devem ser lavradas em acta ou assumir a forma escrita."
+  },
+  "ab9d42df6174238e": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os contratos celebrados entre o sócio único e a sociedade por ele representada devem ser lavrados em acta ou assumir a forma escrita.\n\n2. Os Estados-membros podem decidir não aplicar o disposto no número anterior às operações correntes celebradas em condições normais."
+  },
+  "5a0d1fc415bfa78e": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs disposições da presente directiva são aplicáveis nos Estados-membros que permitam a existência de sociedades unipessoais, na acepção do n.º 1 do artigo 2.º, também em relação às sociedades anónimas."
+  },
+  "e4f246a6296a6961": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nUm Estado-membro pode decidir não permitir a existência de sociedades unipessoais no caso de a sua legislação prever a possibilidade de o empresário individual constituir uma empresa de responsabilidade limitada com um património afecto a uma determinada actividade desde que, no que se refere a essas empresas, se prevejam garantias equivalentes às impostas pela presente directiva bem como pelas outras disposições comunitárias aplicáveis às sociedades referidas no artigo 1.º."
+  },
+  "3f0748c1008a7d4d": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os Estados-membros porão em vigor, antes de 1 de Janeiro de 1992, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Desse facto informarão a Comissão.\n\n2. No que se refere às sociedades já existentes em 1 de Janeiro de 1992, os Estados-membros podem prever que as disposições da presente directiva só se apliquem a partir de 1 de Janeiro de 1993.\n\n3. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptem no domínio regido pela presente directiva."
+  },
+  "4045616d41792800": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros são destinatários da presente directiva.\n\n---"
+  },
+  "1e88623648811e22": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#src.E0001)) JO n.º C 173 de 2. 7. 1988, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#src.E0002)) JO n.º C 96 de 17. 4. 1989, p. 92, e JO n.º C 291 de 20. 11. 1989, p. 53.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#src.E0003)) JO n.º C 318 de 12. 12. 1988, p. 9.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#src.E0004)) JO n.º L 65 de 14. 3. 1968, p. 8.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#src.E0005)) JO n.º L 222 de 14. 8. 1978, p. 11.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#src.E0006)) JO n.º L 193 de 18. 7. 1983, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#src.E0007)) JO n.º L 26 de 30. 1. 1977, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#src.E0008)) JO n.º L 295 de 20. 10. 1978, p. 36.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#src.E0009)) JO n.º L 378 de 31. 12. 1982, p. 47.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/91221671-6801-44a0-8695-3ff5ff03041f.0018.03/DOC_1#src.E0010)) JO n.º C 287 de 14. 11. 1986, p. 1."
+  },
+  "ee6f9942db135f22": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1989L0667 — PT — 21.10.2009 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31989L0667) [DÉCIMA SEGUNDA DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31989L0667) [de 21 de Dezembro de 1989](http://publications.europa.eu/resource/celex/31989L0667) [em matéria de direito das sociedades relativa às sociedades de responsabilidade limitada com um único sócio](http://publications.europa.eu/resource/celex/31989L0667) [(89/667/CEE)](http://publications.europa.eu/resource/celex/31989L0667) (JO L 395, 30.12.1989, p.40)\n\n**revogado por:**\n\n- [Directiva 2009/102/CE do Parlamento Europeu e do Conselho de 16 de Setembro de 2009](http://publications.europa.eu/resource/celex/32009L0102) — L 258 — 20 — 1.10.2009"
+  }
+ }
+}

@@ -35,6 +35,26 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-04-10'
+version_history:
+  file: regulamento-ue-2002-1606.versoes.json
+  count: 2
+  source_lastmod: '2008-04-10'
+  versions:
+  - date: '2002-09-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-04-10'
+    amending: eu:celex:32008R0297:por
+    amending_title: REGULAMENTO (CE) N. o 297/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Adopção e utilização de normas internacionais de contabilidade
+    - Altera Artigo 4.º — Contas consolidadas das sociedades cujos títulos são negociados publicamente
+    - Altera Artigo 6.º — Comité de Regulamentação Contabilística
+    - Altera Artigo 11.º — Entrada em vigor
+    - Adita Notas
 identifiers:
   celex: 32002R1606
   eli: http://data.europa.eu/eli/reg/2002/1606/oj
@@ -49,7 +69,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/063990c7-2ce2-4e5c-b0cc-5eba713d7d08.0010
   content_url: http://publications.europa.eu/resource/cellar/c07272ab-d36b-482d-8b71-9bda13c6293b.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R1606-20080410
-  retrieved_at: '2026-10-22T02:36:16Z'
+  retrieved_at: '2026-10-22T14:53:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T13:26:55.437+01:00'
 integrity:
@@ -58,9 +78,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:16Z'
-  notes: Texto consolidado 02002R1606-20080410.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:53:04Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2002-1606.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -224,33 +244,20 @@ relationships:
   date: '2007-08-22'
 article_structure:
   article_count: 11
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:16Z'
-  warnings: []
+  checked_at: '2026-10-22T14:53:04Z'
+  warnings:
+  - '02002R1606-20020914: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 1606/2002 do Parlamento Europeu e do Conselho, de 19 de Julho de 2002
-
-> 2002R1606 — PT — 10.04.2008 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008R0297) — [REGULAMENTO (CE) N.º 297/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2008](http://publications.europa.eu/resource/celex/32008R0297) — L 97 — 62 — 9.4.2008
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32002R1606R%2801%29) — [Rectificação, JO L 051, 26.2.2003, p. 23 (1606/02)](http://publications.europa.eu/resource/celex/32002R1606R%2801%29)
-
-## REGULAMENTO (CE) N.º 1606/2002 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 19 de Julho de 2002
 

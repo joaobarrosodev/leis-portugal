@@ -1,0 +1,307 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0284:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0284-19971226",
+ "dre_path": null,
+ "source_lastmod": "1997-12-26",
+ "versions": [
+  {
+   "date": "1989-04-22",
+   "future": false,
+   "celex": "31989L0284",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "65534a1b3b935594",
+    "d653e23401d3e901",
+    "ab4595c5c521c8e5",
+    "7f453a8cd221b57a",
+    "e7db2586b88b5dd8",
+    "04a86963f967db00",
+    "f586d4d5164d48ac",
+    "907dc0d739f8f6fc",
+    "53412b36a05f112d",
+    "f838eb426d53c24b",
+    "211a03b121c3f2fd",
+    "58d7b92e5fd482bb",
+    "531cb412760f287c",
+    "e8a870fe2543c357"
+   ]
+  },
+  {
+   "date": "1997-12-26",
+   "future": false,
+   "celex": "01989L0284-19971226",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO I — LISTA DOS ADUBOS QUE CONTÊM, ESSENCIALMENTE COMO ELEMENTO, CÁLCIO, MAGNÉSIO OU ENXOFRE",
+    "Altera ANEXO II",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º"
+   ],
+   "fragments": [
+    "88a5a6aff5af0d44",
+    "b8285de22a586d01",
+    "313aca08d227b6f5",
+    "8e76d6e879471ef4",
+    "b3e5939c611a1b1e",
+    "fd779903ee8141ce",
+    "5a83387b13dba4cf",
+    "f87237c0afdbcf8e",
+    "d8c8982f82fee16a",
+    "24bf3d83901b29cf",
+    "a8d79cfba8758384",
+    "40b91f3ad7775481",
+    "d521df794ebc99a7",
+    "e7d5b9250045562d"
+   ]
+  }
+ ],
+ "fragments": {
+  "65534a1b3b935594": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 89/284/CEE do Conselho de 13 de Abril de 1989 que completa e altera a Directiva 76/116/CEE no que diz respeito ao cálcio, magnásio, sodio e enxofre nos adubos** *Jornal Oficial nº L 111 de 22/04/1989 p. 0034 - 0038 Edição especial finlandesa: Capítulo 13 Fascículo 18 p. 0229 Edição especial sueca: Capítulo 13 Fascículo 18 p. 0229*\n\n*****\n\nDIRECTIVA DO CONSELHO\n\nde 13 de Abril de 1989\n\nque completa e altera a Directiva 76/116/CEE no que diz respeito ao cálcio, magnésio, sódio e enxofre nos adubos\n\n(89/284/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu ar- tigo artigo 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que é necessário adoptar as medidas destinadas a estabelecer progressivamente o mercado interno durante um período que termina em 31 de Dezembro de 1992; que o mercado interno compreende um espaço sem fronteiras internas no qual a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais é assegurada;\n\nConsiderando que a Directiva 76/116/CEE do Conselho, de 18 de Dezembro 1975, relativa à aproximação das legislações dos Estados-membros respeitantes aos adubos (4), com a última redacção que lhe foi dada pela Directiva 88/183/CEE (5), estabeleceu regras sobre a comercialização dos adubos sólidos do tipo CEE; que se tornou necessário alargar a referida directiva ao cálcio, magnésio, sódio e enxofre contidos nesses adubos;\n\nConsiderando que a Directiva 76/116/CEE pode doravante ser aplicável aos abudos que contenham unicamente cálcio, magnésio e enxofre,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d653e23401d3e901": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nPara os adubos CEE constantes do anexo I da Directiva 76/116/CEE, pode ser declarado um teor de magnésio, sódio e enxofre, desde que esses elementos estejam presentes em quantidades pelo menos iguais aos mínimos fixados no artigo 2º da presente directiva e desde que os adubos CEE se mantenham em conformidade com as especificações constantes do anexo I da Directiva 76/116/CEE. A designação do tipo deve ser nesse caso completada com a menção prevista na alínea b) do artigo 6º da presente directiva."
+  },
+  "ab4595c5c521c8e5": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara os adubos CEE referidos no artigo 1º, apenas pode ser declarado um teor de magnésio, sódio e enxofre se esses adubos contiverem;\n\n- pelo menos 2 % de óxido de magnésio (MgO), ou seja, 1,2 % Mg,\n\n- pelo menos 3 % de óxido de sódio (Na2O), ou seja, 2,2 % Na,\n\n- pelo menos 5 % de anidrido sulfúrico (SO3), ou seja, 2 %S."
+  },
+  "7f453a8cd221b57a": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Para efeitos do disposto na presente directiva, o cálcio considerado como elemento nutriente apenas pode ser declarado, sem prejuízo do nº 2, para os adubos de tipo 1 e 2 da lista do anexo I.\n\nOs Estados-membros podem exigir que, para os adubos colocados no mercado no seu território, o teor de cálcio seja declarado, quer sob a forma de óxido CaO quer sob a forma de elemento Ca quer simultaneamente sob as duas formas.\n\nPara a conversão do teor de óxido de cálcio em teor de cálcio, utilizar-se-á a seguinte fórmula:\n\nCálcio (CA) = óxido de cálcio (CaO) × 0,715\n\n2. Em conformidade com a parte C do anexo I da Directiva 76/116/CEE, o teor de Ca solúvel pode ser indicado nos adubos fluidos que se destinem à pulverização das folhas, sempre que esse teor atinja no mínimo 8 % CaO (= 5,7 % Ca)."
+  },
+  "e7db2586b88b5dd8": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs adubos que correspondam às especificações da presente directiva e dos seus anexos podem receber a menção « ADUBOS CEE »."
+  },
+  "04a86963f967db00": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros podem exigir, para os adubos colocados no mercado no seu território, que a indicação dos teores de magnésio, sódio e enxofre seja feita:\n\n- sob a forma de óxido (MgO, Na2O, SO3),\n\n- ou sob a forma de elementos (Mg, Na, S),\n\n- ou sob as duas formas simultaneamente,\n\nPara a conversão dos teores de óxido de sódio e de anidrido sulfúrico em teores de sódio e de enxofre, utilizar-se-ão as seguintes fórmulas:\n\n- sódio (Na) = óxido de sódio (Na2O) × 0,742\n\n- enxofre (S) = anidrido sulfúrico (SO3) × 0,400.\n\nSe o teor resultar de cálculo, o valor a indicar na declaração é arrendondado à décima mais próxima."
+  },
+  "f586d4d5164d48ac": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nMenções obrigatórias para a identificação:\n\na) A menção « ADUBO CEE » em maiúsculas;\n\nb) A designação do tipo de adubo:\n\n- quer em conformidade com o anexo I da Directiva 76/116/CEE, acrescentando à designação do tipo respectivo a menção « contém... » seguida do ou dos nomes dos elementos presentes, que são objecto da presente directiva, ou do seu símbolo químico. Os números que indicam os teores dos elementos objecto da Directiva 76/116/CEE podem ser completados com os dos elementos objecto do anexo I da presente directiva, sendo estes últimos números inscritos entre parênteses,\n\n- quer em conformidade com o anexo I da presente directiva;\n\nc) Os teores garantidos para cada elemento fertilizante e os teores garantidos sob as formas e/ou solubilidades, sempre que sejam prescritos nos anexos das directivas relativas aos adubos.\n\nA indicação dos teores de elementos fertilizantes para os adubos elementares e compostos deve ser feita em percentagem de peso mediante um número inteiro ou, se for caso disso, um número decimal.\n\nSempre que o adubo contiver vários elementos declaráveis, a indicação dos teores deve ser efectuada pela ordem seguinte:\n\nN, P2O5 e/ou P, K2O e/ou K, CaO ou Ca, MgO e/ou Mg, Na2O e/ou Na, SO3 e/ou S.\n\nAs formas e solubilidades dos elementos fertilizantes devem igualmente ser indicadas em percentagem de peso, excepto no caso em que no anexo I da Directiva 76/116/CEE se preveja expressamente a indicação desse teor de outro modo.\n\nA indicação dos elementos fertilizantes deve efectuar-se, simultaneamente, pelos seus nomes e pelos seus símbolos químicos [por exemplo: azoto (N), fósforo (P), anidrido fosfórico (P2O5), potássio (K), óxido de potássio (K2O), magnésio (Mg), óxido de magnésio (MgO), sódio (Na), óxido de sódio (Na2O), enxofre (S), anidrido sulfúrico (SO3), cálcio (Ca) e óxido de cálcio (CaO)]."
+  },
+  "907dc0d739f8f6fc": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nA declaração dos teores de magnésio, sódio e enxofre nos adubos referidos no artigo 1º será efectuada de uma das seguintes formas:\n\n- teor total expresso em percentagem do peso do adubo,\n\n- se um elemento for totalmente solúvel na água, declara-se apenas o teor solúvel na água,\n\n- o teor total e o teor solúvel na água, expresso em percentagem do peso do adubo, se a solubilidade atingir pelo menos um quarto de teor total.\n\nOs teores serão determinados segundo as condições estabelecidas para os métodos de análise, no artigo 8º da Directiva 76/116/CEE."
+  },
+  "53412b36a05f112d": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nAs tolerâncias admitidas em relação aos valores declarados de cálcio, magnésio, sódio e enxofre serão fixadas em 1/4 dos teores declarados nesses elementos, com um máximo de 0,9 % em valor absoluto para o CaO, MgO, Na2O e SO3, ou seja, 0,64 para o Ca, 0,55 para o Mg, 0,67 para o Na e 0,36 para o S."
+  },
+  "f838eb426d53c24b": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nO anexo I da Directiva 76/116/CEE é alterado da forma seguinte:\n\n1. É acrescentado, como nº 7 da parte A - adubos elementares, ponto III - adubos potássicos, o adubo CEE, Kieserite com sulfato de potássio, que figura no anexo II da presente directiva. 2. É acrescentado, como nº 3 da parte C - adubos fluidos, ponto 1 - adubos simples, o adubo CEE, solução de nitrato de cálcio, que figura no anexo II da presente directiva."
+  },
+  "211a03b121c3f2fd": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Os Estados-membros tomarão as medidas necessárias para dar cumprimento à presente directiva o mais tardar no prazo de doze meses a contar da sua notificação (1). Do facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros informarão a Comissão das disposições de direito interno que adoptarem no domínio regulado pela presente directiva."
+  },
+  "58d7b92e5fd482bb": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 13 de Abril de 1989.\n\nPelo Conselho\n\nO Presidente\n\nP. SOLBES\n\n(1) JO nº C 20 de 26. 1. 1988, p. 5.\n\n(2) JO nº C 262 de 10. 10. 1988, p. 82, e\n\nJO nº C 47 de 27. 2. 1989.\n\n(3) JO nº C 134 de 24. 5. 1988, p. 6.\n\n(4) JO nº L 24 de 30. 1. 1976, p. 21.\n\n(5) JO nº L 83 de 29. 3. 1988, p. 33.\n\n(1) A presente directiva foi notificada aos Estados-membros em 17 de Abril de 1989."
+  },
+  "531cb412760f287c": {
+   "fragment_id": "ANEXO I — LISTA DOS ADUBOS QUE CONTÊM, ESSENCIALMENTE COMO ELEMENTO, CÁLCIO, MAGNÉSIO OU ENXOFRE",
+   "type": "divisao",
+   "heading": "ANEXO I — LISTA DOS ADUBOS QUE CONTÊM, ESSENCIALMENTE COMO ELEMENTO, CÁLCIO, MAGNÉSIO OU ENXOFRE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — LISTA DOS ADUBOS QUE CONTÊM, ESSENCIALMENTE COMO ELEMENTO, CÁLCIO, MAGNÉSIO OU ENXOFRE\n\n1.2.3.4.5.6 // Número // Designação do tipo // Indicações quanto ao modo de obtenção e aos componentes essenciais // Teor mínimo de elementos fertilizantes (percentagem em peso) Indicações quanto à determinação dos elementos fertilizantes Outras exigências // Outras indicações referentes à designação do tipo // Elementos cujo teor deve ser garantido Formas e solubilidade dos elementos fertilizantes Outros critérios // // // // // // // 1 // 2 // 3 // 4 // 5 // 6 // // // // // // // 1 // Sulfato de cálcio // Produto de origem natural ou industrial, contendo sulfato de cálcio com diferentes graus de hidratação // 25 % CaO 35 % SO3 Cálcio e enxofre expressos em CaO e SO3 total // Podem ser acrescentadas as designações comerciais // Anidrido sulfúrico total Facultativamente: óxido de cálcio total // // // // Características granulométricas: // // // // // // - passagem de 80 %, pelo menos, em peneiros com aberturas de malha de 2 mm, // // // // // // - passagem de 99 %, pelo menos, em peneiros com abertura de malha de 10 mm // // // // // // // // // 2 // Solução de cloreto de cálcio // Solução de cloreto de cálcio de origem industrial // 12 % CaO Cálcio expresso em CaO solúvel em água // // Óxido de cálcio Facultativamente: para pulverização de plantas // // // // // // // 3 // Enxofre elementar // Produto de origem natural ou industrial mais ou menos refinado // 98 % S (245 % de SO3) Enxofre expresso em SO3 total // // Anidrido sulfúrico total // // // // // // // 4 // Kieserite // Produto de origem mineral contendo sulfato de magnésio com uma molécula de água como componente essencial // 24 % MgO 45 % SO3 Magnésio e enxofre expressos em óxido de magnésio e anidrido sulfúrico solúveis em água // Podem ser acrescentadas as designações comerciais habituais // Óxido de magnésio solúvel em água Facultativamente: anidrido sulfúrico solúvel em água // // // // // // // 5 // Sulfato de magnésio // Produto com sulfato de magnésio com sete moléculas de água como componente essencial // 15 % MgO 28 % SO3 Magnésio e enxofre expressos em óxido de magnésio e anidrido sulfúrico solúveis em água // Podem ser acrescentadas as designações usuais no comércio // Óxido de magnésio solúvel em água Facultativamente: anidrido sulfúrico solúvel em água // // // // // // // 6 // Solução de cloreto de magnésio // Produto obtido por dissolução do cloreto de magnésio de origem industrial // 13 % MgO Magnésio expresso em óxido de magnésio Teor máximo de cálcio 3 % CaO // // Óxido de magnésio // // // // // //"
+  },
+  "e8a870fe2543c357": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n1.2.3.4.5.6 // Número // Designação do tipo // Indicações quanto ao modo de obtenção e aos componentes essenciais // Teor mínimo de elementos fertilizantes (percentagem em peso) Indicações quanto à determinação dos elementos fertilizantes Outras exigências // Outras indicações referentes à designação do tipo // Elementos cujo teor deve ser garantido Formas e solubilidade dos elementos fertilizantes Outros critérios // // // // // // // 1 // 2 // 3 // 4 // 5 // 6 // // // // // // // 7 // Kieserite com sulfato de potássio // Produto obtido a partir de kieserite com adição de sulfato de potássio // 8 % MgO Magnésio expresso em MgO solúvel em água 6 % K2O Potássio expresso em K2O solúvel em água Total de MgO + K2O: 20 % Teor máximo de cloro: 3 % Cl // Podem ser acrescentadas as designações usuais no comércio // Óxido de magnésio solúvel em água Óxido de potássio solúvel em água Indicação facultativa do teor de cloro se é inferior a 3 % Cl // // // // // // // 3 // Solução de nitrato de cálcio // Produto obtido por dissolução de nitrato de cálcio na água // 8 % N Azoto expresso em azoto nítrico do qual, no máximo, 1 % representa azoto amoniacal // À designação do tipo pode seguir-se, consoante os casos, uma das seguintes menções: - para aplicação nas folhas - para fabrico de soluções nutrientes - para irrigação fertilizante // Azoto total Facultativamente: - azoto nítrico - azoto amoniacal - cálcio, no caso de uma das utilizações especificadas na coluna 5 // // // // // //"
+  },
+  "88a5a6aff5af0d44": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1989L0284 — PT — 26.12.1997 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0284:PT:NOT) [DIRECTIVA DO CONSELHO de 13 de Abril de 1989 que completa e altera a Directiva 76/116/CEE no que diz respeito ao cálcio, magnésio, sódio e enxofre nos adubos (89/284/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0284:PT:NOT) (JO L 111, 22.4.1989, p.34)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0063:PT:NOT) | [Directiva 97/63/CE do Parlamento Europeu e do Conselho de 24 de Novembro de 1997](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0063:PT:NOT) | L 335 | 15 | 6.12.1997 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0284:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 13 de Abril de 1989\n\nque completa e altera a Directiva 76/116/CEE no que diz respeito ao cálcio, magnésio, sódio e enxofre nos adubos\n\n(89/284/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo artigo 100.oA,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/1cee053d-f44e-4b5d-a94c-e685175a7b7f.0018.02/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/1cee053d-f44e-4b5d-a94c-e685175a7b7f.0018.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/1cee053d-f44e-4b5d-a94c-e685175a7b7f.0018.02/DOC_1#E0003)),\n\nConsiderando que é necessário adoptar as medidas destinadas a estabelecer progressivamente o mercado interno durante um período que termina em 31 de Dezembro de 1992; que o mercado interno compreende um espaço sem fronteiras internas no qual a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais é assegurada;\n\nConsiderando que a Directiva 76/116/CEE do Conselho, de 18 de Dezembro 1975, relativa à aproximação das legislações dos Estados-membros respeitantes aos adubos ([4](http://publications.europa.eu/resource/cellar/1cee053d-f44e-4b5d-a94c-e685175a7b7f.0018.02/DOC_1#E0004)), com a última redacção que lhe foi dada pela Directiva 88/183/CEE ([5](http://publications.europa.eu/resource/cellar/1cee053d-f44e-4b5d-a94c-e685175a7b7f.0018.02/DOC_1#E0005)), estabeleceu regras sobre a comercialização dos adubos sólidos do tipo CEE; que se tornou necessário alargar a referida directiva ao cálcio, magnésio, sódio e enxofre contidos nesses adubos;\n\nConsiderando que a Directiva 76/116/CEE pode doravante ser aplicável aos abudos que contenham unicamente cálcio, magnésio e enxofre,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b8285de22a586d01": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara os [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0063:PT:NOT) adubos CE ◄ constantes do anexo I da Directiva 76/116/CEE, pode ser declarado um teor de magnésio, sódio e enxofre, desde que esses elementos estejam presentes em quantidades pelo menos iguais aos mínimos fixados no artigo 2.o da presente directiva e desde que os [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0063:PT:NOT) adubos CE ◄ se mantenham em conformidade com as especificações constantes do anexo I da Directiva 76/116/CEE. A designação do tipo deve ser nesse caso completada com a menção prevista na alínea b) do artigo 6.o da presente directiva."
+  },
+  "313aca08d227b6f5": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara os [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0063:PT:NOT) adubos CE ◄ referidos no artigo 1.o, apenas pode ser declarado um teor de magnésio, sódio e enxofre se esses adubos contiverem;\n\n— pelo menos 2 % de óxido de magnésio (MgO), ou seja, 1,2 % Mg,\n\n— pelo menos 3 % de óxido de sódio (Na2O), ou seja, 2,2 % Na,\n\n— pelo menos 5 % de anidrido sulfúrico (SO3), ou seja, 2 %S."
+  },
+  "8e76d6e879471ef4": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Para efeitos do disposto na presente directiva, o cálcio considerado como elemento nutriente apenas pode ser declarado, sem prejuízo do n.o 2, para os adubos de tipo 1 e 2 da lista do anexo I.\n\nOs Estados-membros podem exigir que, para os adubos colocados no mercado no seu território, o teor de cálcio seja declarado, quer sob a forma de óxido CaO quer sob a forma de elemento Ca quer simultaneamente sob as duas formas.\n\nPara a conversão do teor de óxido de cálcio em teor de cálcio, utilizar-se-á a seguinte fórmula:\n\nCálcio (CA) = óxido de cálcio (CaO) × 0,715\n\n2. Em conformidade com a parte C do anexo I da Directiva 76/116/CEE, o teor de Ca solúvel pode ser indicado nos adubos fluidos que se destinem à pulverização das folhas, sempre que esse teor atinja no mínimo 8 %.o CaO (= 5,7 % Ca)."
+  },
+  "b3e5939c611a1b1e": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs adubos que correspondam às especificações da presente directiva e dos seus anexos podem receber a menção «[►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0063:PT:NOT) ADUBO CE ◄ »."
+  },
+  "fd779903ee8141ce": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-membros podem exigir, para os adubos colocados no mercado no seu território que a indicação dos teores de magnésio, sódio e enxofre seja feita:\n\n— sob a forma de óxido (MgO, Na2O, SO3),\n\n— ou sob a forma de elementos (Mg, Na, S),\n\n— ou sob as duas formas simultaneamente,\n\nPara a conversão dos teores de óxido de sódio e de anidrido sulfúrico em teores de sódio e de enxofre, utilizar-se-ão as seguintes fórmulas\n\n— sódio (Na) = óxido de sódio (Na2O) × 0,742\n\n— enxofre (S) = anidrido sulfúrico (SO3) × 0,400.\n\nSe o teor resultar de cálculo, o valor a indicar na declaração é arrendondado à décima mais próxima."
+  },
+  "5a83387b13dba4cf": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nMenções obrigatórias para a identificação:\n\na) A menção «[►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0063:PT:NOT) ADUBO CE ◄ » em maiúsculas;\n\nb) A designação do tipo de adubo:\n\n— quer em conformidade com o anexo I da Directiva 76/116/CEE, acrescentando à designação do tipo respectivo a menção «contém …» seguida do ou dos nomes dos elementos presentes, que são objecto da presente directiva, ou do seu símbolo químico. Os números que indicam os teores dos elementos objecto da Directiva 76/116/CEE podem ser completados com os dos elementos objecto do anexo I da presente directiva, sendo estes últimos números inscritos entre parênteses,\n\n— quer em conformidade com o anexo I da presente directiva;\n\nc) Os teores garantidos para cada elemento fertilizante e os teores garantidos sob as formas e/ou solubilidades, sempre que sejam prescritos nos anexos das directivas relativas aos adubos.\n\nA indicação dos teores de elementos fertilizantes para os adubos elementares e compostos deve ser feita em percentagem de peso mediante um número inteiro ou, se for caso disso, um número decimal.\n\nSempre que o adubo contiver vários elementos declaráveis, a indicação dos teores deve ser efectuada pela ordem seguinte:\n\nN, P2O5 e/ou P, K2O e/ou K, CaO ou Ca, MgO e/ou Mg, Na2O e/ou Na, SO3 e/ou S.\n\nAs formas e solubilidades dos elementos fertilizantes devem igualmente ser indicadas em percentagem de peso, excepto no caso em que no anexo I da Directiva 76/116/CEE se preveja expressamente a indicação desse teor de outro modo.\n\nA indicação dos elementos fertilizantes deve efectuar-se, simultaneamente, pelos seus nomes e pelos seus símbolos químicos [por exemplo: azoto (N), fósforo (P), anidrido fosfórico (P2O5), potássio (K), óxido de potássio (K2O), magnésio (Mg), óxido de magnésio (MgO), sódio (Na), óxido de sódio (Na2O), enxofre (S), anidrido sulfúrico (SO3), cálcio (Ca) e óxido de cálcio (CaO)]."
+  },
+  "f87237c0afdbcf8e": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA declaração dos teores de magnésio, sódio e enxofre nos adubos referidos no artigo 1.o será efectuada de uma das seguintes formas:\n\n— teor total expresso em percentagem do peso do adubo,\n\n— se um elemento for totalmente solúvel na água, declara-se apenas o teor solúvel na água,\n\n— o teor total e o teor solúvel na água, expresso em percentagem do peso do adubo, se a solubilidade atingir pelo menos um quarto de teor, total.\n\nOs teores serão determinados segundo as condições estabelecidas para os métodos de análise, no artigo 8.o da Directiva 76/116/CEE."
+  },
+  "d8c8982f82fee16a": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs tolerâncias admitidas em relação aos valores declarados de cálcio, magnésio, sódio e enxofre serão fixadas em 1/4 dos teores declarados nesses elementos, com um máximo de 0,9 % em valor absoluto para o CaO, MgO, Na2O e SO3, ou seja, 0,64 para o Ca, 0,55 para o Mg, 0,67 para o Na e 0,36 para o S."
+  },
+  "24bf3d83901b29cf": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO anexo I da Directiva 76/116/CEE é alterado da forma seguinte:\n\n1. É acrescentado, como n.o 7 da parte A — adubos elementares, ponto III — adubos potássicos, o [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0063:PT:NOT) adubo CE ◄, Kieserite com sulfato de potássio, que figura no anexo II da presente directiva.\n\n2. É acrescentado, como n.o 3 da parte C — adubos fluidos, ponto 1 — adubos simples, o [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0063:PT:NOT) adubo CE ◄, solução de nitrato de cálcio, que figura no anexo II da presente directiva."
+  },
+  "a8d79cfba8758384": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-membros tomarão as medidas necessárias para dar cumprimento à presente directiva o mais tardar no prazo de doze meses a contar da sua notificação ([6](http://publications.europa.eu/resource/cellar/1cee053d-f44e-4b5d-a94c-e685175a7b7f.0018.02/DOC_1#E0006)). Do facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros informarão a Comissão das disposições de direito interno que adoptarem no domínio regulado pela presente directiva."
+  },
+  "40b91f3ad7775481": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "d521df794ebc99a7": {
+   "fragment_id": "ANEXO I — LISTA DOS ADUBOS QUE CONTÊM, ESSENCIALMENTE COMO ELEMENTO, CÁLCIO, MAGNÉSIO OU ENXOFRE",
+   "type": "divisao",
+   "heading": "ANEXO I — LISTA DOS ADUBOS QUE CONTÊM, ESSENCIALMENTE COMO ELEMENTO, CÁLCIO, MAGNÉSIO OU ENXOFRE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — LISTA DOS ADUBOS QUE CONTÊM, ESSENCIALMENTE COMO ELEMENTO, CÁLCIO, MAGNÉSIO OU ENXOFRE\n\n| Número | Designação do tipo | Indicações quanto ao modo de obtenção e aos componentes essenciais | Teor mínimo de elementos fertilizantes (percentagem em peso) Indicações quanto à determinação dos elementos fertilizantes Outras exigências | Outras indicações referentes à designação do tipo | Elementos cujo teor deve ser garantido Formas e solubilidade dos elementos fertilizantes Outros critérios |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 | 5 | 6 |\n| 1 | Sulfato de cálcio | Produto de origem natural ou industrial, contendo sulfato de cálcio com diferentes graus de hidratação | 25 % CaO 35 % SO3 Cálcio e enxofre expressos em CaO e SO3 total Características granulométricas: — passagem de 80 %, pelo menos, em peneiros com aberturas de malha de 2 mm, — passagem de 99 %, pelo menos, em peneiros com abertura de malha de 10 mm | Podem ser acrescentadas as designações comerciais | Anidrido sulfúrico total Facultativamente: óxido de cálcio total |\n| 2 | Solução de cloreto de cálcio | Solução de cloreto de cálcio de origem industrial | 12 % CaO Cálcio expresso em CaO solúvel em água |  | Óxido de cálcio Facultativamente: para pulverização de plantas |\n| 3 | Enxofre elementar | Produto de origem natural ou industrial mais ou menos refinado | 98 % S (245 % de SO3) Enxofre expresso em SO3 total |  | Anidrido sulfúrico total |\n| 4 | Kieserite | Produto de origem mineral contendo sulfato de magnésio com uma molécula de água como componente essencial | 24 % MgO 45 % SO3 Magnésio e enxofre expressos em óxido de magnésio e anidrido sulfúrico solúveis em água | Podem ser acrescentadas as designações comerciais habituais | Óxido de magnésio solúvel em água Facultativamente: anidrido sulfúrico solúvel em água |\n| 5 | Sulfato de magnésio | Produto com sulfato de magnésio com sete moléculas de água como componente essencial | 15 % MgO 28 % SO3 Magnésio e enxofre expressos em óxido de magnésio e anidrido sulfúrico solúveis em água | Podem ser acrescentadas as designações usuais no comércio | Óxido de magnésio solúvel em água Facultativamente: anidrido sulfúrico solúvel em água |\n| 6 | Solução de cloreto de magnésio | Produto obtido por dissolução do cloreto de magnésio de origem industrial | 13 % MgO Magnésio expresso em óxido de magnésio Teor máximo de cálcio 3 % CaO |  | Óxido de magnésio |"
+  },
+  "e7d5b9250045562d": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n| Número | Designação do tipo | Indicações quanto ao modo de obtenção e aos componentes essenciais | Teor mínimo de elementos fertilizantes (percentagem em peso) Indicações quanto à determinação dos elementos fertilizantes Outras exigências | Outras indicações referentes à designação do tipo | Elementos cujo teor deve ser garantido Formas e solubilidade dos elementos fertilizantes Outros critérios |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 | 5 | 6 |\n| 7 | Kieserite com sulfato de potássio | Produto obtido a partir de kieserite com adição de sulfato de potássio | 8 % MgO Magnésio expresso em MgO solúvel em água 6 % K2O Potássio expresso em K2O solúvel em água Total de MgO + K2O: 20 % Teor máximo de cloro: 3 % Cl | Podem ser acrescentadas as designações usuais no comércio | Óxido de magnésio solúvel em água Óxido de potássio solúvel em água Indicação facultativa do teor de cloro se é inferior a 3 % Cl |\n| 3 | Solução de nitrato de cálcio | Produto obtido por dissolução de nitrato de cálcio na água | 8 % N Azoto expresso em azoto nítrico do qual, no máximo, 1 % representa azoto amoniacal | À designação do tipo pode seguir-se, consoante os casos, uma das seguintes menções: — para aplicação nas folhas — para fabrico de soluções nutrientes — para irrigação fertilizante | Azoto total Facultativamente: — azoto nítrico — azoto amoniacal — cálcio, no caso de uma das utilizações especificadas na coluna 5 |\n\n([1](http://publications.europa.eu/resource/cellar/1cee053d-f44e-4b5d-a94c-e685175a7b7f.0018.02/DOC_1#src.E0001)) JO n.o C 20 de 26. 1. 1988, p. 5.\n\n([2](http://publications.europa.eu/resource/cellar/1cee053d-f44e-4b5d-a94c-e685175a7b7f.0018.02/DOC_1#src.E0002)) JO n.o C 262 de 10. 10. 1988, p. 82, e\n\nJO n.o C 47 de 27. 2. 1989.\n\n([3](http://publications.europa.eu/resource/cellar/1cee053d-f44e-4b5d-a94c-e685175a7b7f.0018.02/DOC_1#src.E0003)) JO n.o C 134 de 24. 5. 1988, p. 6.\n\n([4](http://publications.europa.eu/resource/cellar/1cee053d-f44e-4b5d-a94c-e685175a7b7f.0018.02/DOC_1#src.E0004)) JO n.o L 24 de 30. 1. 1976, p. 21.\n\n([5](http://publications.europa.eu/resource/cellar/1cee053d-f44e-4b5d-a94c-e685175a7b7f.0018.02/DOC_1#src.E0005)) JO n.o L 83 de 29. 3. 1988, p. 33.\n\n([6](http://publications.europa.eu/resource/cellar/1cee053d-f44e-4b5d-a94c-e685175a7b7f.0018.02/DOC_1#src.E0006)) A presente directiva foi notificada aos Estados-membros em 17 de Abril de 1989."
+  }
+ }
+}

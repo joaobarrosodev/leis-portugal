@@ -1,0 +1,99 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31978L1027:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01978L1027-20071020",
+ "dre_path": null,
+ "source_lastmod": "2007-10-20",
+ "versions": [
+  {
+   "date": "1978-12-23",
+   "future": false,
+   "celex": "31978L1027",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c61c1a4092d98416",
+    "3bafee3f2f620f4a",
+    "99a6254d1e2c9d22",
+    "eebe2c62d7b9be91",
+    "72b61cd1c928aae0",
+    "89b6a85fa219e40c"
+   ]
+  },
+  {
+   "date": "2007-10-20",
+   "future": false,
+   "celex": "01978L1027-20071020",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime ANEXO — PROGRAMA DE ESTUDOS PARA OS VETERINÁRIOS"
+   ],
+   "fragments": [
+    "ff372dadbe8e351f"
+   ]
+  }
+ ],
+ "fragments": {
+  "c61c1a4092d98416": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 78/1027/CEE do Conselho, de 18 de Dezembro de 1978, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes às actividades de veterinário** *Jornal Oficial nº L 362 de 23/12/1978 p. 0007 - 0009 Edição especial finlandesa: Capítulo 6 Fascículo 2 p. 0017 Edição especial grega: Capítulo 06 Fascículo 2 p. 0052 Edição especial sueca: Capítulo 6 Fascículo 2 p. 0017 Edição especial espanhola: Capítulo 06 Fascículo 2 p. 0055 Edição especial portuguesa: Capítulo 06 Fascículo 2 p. 0055*\n\nDIRECTIVA DO CONSELHO de 18 de Dezembro de 1978 relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes às actividades do veterinário\n\n(78/1027/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 49o, 57o, 66o e 235o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que, para realizar o reconhecimento mútuo dos diplomas, certificados e outros títulos de veterinário, tal como estabelece a Directiva 78/1026/CEE do Conselho, de 18 de Dezembro de 1978, que tem por objectivo o reconhecimento mútuo dos diplomas, certificados e outros títulos de veterinário e contém medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento e da livre prestação de serviços (4), a semelhança das formações nos Estados-membros permite limitar a coordenação neste domínio à exigência do cumprimento de normas mínimas, deixando, em relação à parte restante, aos Estados-membros, a liberdade de organização do seu ensino;\n\nConsiderando que a coordenação das condições de exercício prevista na presente directiva não exclui por agora uma coordenação posterior;\n\nConsiderando que a coordenação prevista na presente directiva diz respeito à formação profissional dos veterinários; que, no que diz respeito à formação, a maior parte dos Estados-membros não fazem actualmente distinção entre os veterinários que exerçam a sua actividade como assalariados e aqueles que a exerçam de maneira independente; que por este facto, e para favorecer plenamente a livre circulação dos profissionais na Comunidade parece, pois, necessário estender a aplicação desta directiva ao veterinário assalariado,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "3bafee3f2f620f4a": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Os Estados-membros subordinarão o acesso às actividades de veterinário e o seu exercício à posse de um diploma, certificado ou outro título de veterinário referido no artigo 3o da Directiva 78/1026/CEE que dê a garantia de que o interessado adquiriu durante o período total da sua formação:\n\na) Um conhecimento adequado das ciências em que se baseiam as actividades de veterinário;\n\nb) Um conhecimento adequado da estrutura e das funções dos animais de boa saúde, da sua criação, da sua reprodução, da sua higiene em geral bem como da sua alimentação, incluindo a tecnologia aplicada aquando do fabrico e da conservação dos alimentos que correspondam às suas necessidades;\n\nc) Um conhecimento adequado no domínio do comportamento e da protecção dos animais;\n\nd) Um conhecimento adequado das causas, da natureza, do desenrolar, dos efeitos, dos diagnósticos e do tratamento das doenças dos animais quer sejam considerados individualmente, quer em grupos; entre estes, um conhecimento especial das doenças transmissíveis ao homem;\n\ne) Um conhecimento adequado da medicina preventiva;\n\nf) Um conhecimento adequado da higiene e da tecnologia aquando da obtenção, do fabrico e da colocação em circulação dos géneros alimentícios animais ou de origem animal destinados ao consumo humano;\n\ng) Um conhecimento adequado no que diz respeito às disposições legislativas, regulamentares e administrativas relativas às matérias acima mencionadas;\n\nh) Uma experiência clínica e prática adequada, sob vigilância adequada.\n\n2. Esta formação veterinária inclui no total pelo menos cinco anos de estudos teóricos e práticos a tempo inteiro efectuados numa universidade, num instituto superior de nível reconhecido como equivalente ou sob controlo de uma universidade, relativos pelo menos às matérias referidas no anexo.\n\n3. A admissão a esta formação supõe a titularidade de um diploma ou certificado que dê acesso, relativamente aos estudos em causa, aos estabelecimentos universitários ou aos institutos superiores de um Estado-membro de um nível reconhecido como equivalente.\n\n4. A presente directiva não prejudica em nada a possibilidade de os Estados-membros concederem no seu território, de acordo com as suas próprias disposições, o acesso às actividades de veterinário e o seu exercício aos titulares de diplomas, certificados ou outros títulos que não tenham sido obtidos num Estado-membro."
+  },
+  "99a6254d1e2c9d22": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nA presente directiva aplica-se igualmente aos nacionais dos Estados-membros que, de acordo com o Regulamento (CEE) no 1612/68 do Conselho, de 15 de Outubro de 1968, relativo à livre circulação dos trabalhadores na Comunidade (5), exercem ou exercerão como assalariados as actividades referidas no artigo 1o da Directiva 78/1026/CEE."
+  },
+  "eebe2c62d7b9be91": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva no prazo de dois anos a contar da sua notificação e, desse facto, informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio regulado pela presente directiva."
+  },
+  "72b61cd1c928aae0": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 18 de Dezembro de 1978.\n\nPelo Conselho\n\nO presidente\n\nH.-D. GENSCHER\n\n(1) JO no C 92 de 20. 7. 1970, p. 18.(2) JO no C 19 de 28. 2. 1972, p. 10.(3) JO no C 60 de 14. 6. 1971, p. 3.(4) JO no L 362 de 23. 12. 1978, p. 1.(5) JO no L 257 de 19. 10. 1968, p. 2."
+  },
+  "89b6a85fa219e40c": {
+   "fragment_id": "ANEXO — PROGRAMA DE ESTUDOS PARA OS VETERINÁRIOS",
+   "type": "divisao",
+   "heading": "ANEXO — PROGRAMA DE ESTUDOS PARA OS VETERINÁRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — PROGRAMA DE ESTUDOS PARA OS VETERINÁRIOS\n\nO programa de estudos para efeitos de atribuição de diplomas, certificados e outros títulos de veterinário inclui pelo menos as matérias a seguir indicadas. O ensino de uma ou várias dessas matérias pode ser efectuado no âmbito de outras disciplinas ou em ligação com aquelas.\n\nA) Matérias de base:\n\n- Física,\n\n- Química,\n\n- Biologia animal,\n\n- Biologia vegetal,\n\n- Matemáticas aplicadas às ciências biológicas;\n\nB) Matérias específicas:\n\n1o grupo: ciências fundamentais:\n\n- Anatomia (incluindo histologia e embriologia),\n\n- Fisiologia,\n\n- Bioquímica,\n\n- Genética,\n\n- Farmacologia,\n\n- Farmácia,\n\n- Toxicologia,\n\n- Microbiologia,\n\n- Imunologia,\n\n- Epidemiologia,\n\n- Deontologia,\n\n2o grupo: ciências clínicas:\n\n- Obstetrícia,\n\n- Patologia (incluindo anatomia patológica),\n\n- Parasitologia,\n\n- Medicina e cirugia clínicas (incluindo anestesiologia),\n\n- Clínica dos animais domésticos, aves de capoeira e outras espécies animais,\n\n- Medicina preventiva,\n\n- Radiologia,\n\n- Reprodução e problemas da reprodução,\n\n- Polícia sanitária,\n\n- Medicina legal e legislação veterinária,\n\n- Terapêutica,\n\n- Propedêutica;\n\n3o grupo: produção animal:\n\n- Produção animal,\n\n- Nutrição,\n\n- Agronomia,\n\n- Economia rural,\n\n- Criação e saúde dos animais,\n\n- Higiene veterinária,\n\n- Etologia e protecção animal;\n\n4o grupo: higiene alimentar:\n\n- Inspecção e controlo dos géneros alimentícios animais ou de origem animal,\n\n- Higiene e tecnologia alimentares,\n\n- Trabalhos práticos (incluindo os trabalhos práticos nos locais de abate e de tratamento dos géneros alimentícios).\n\nA formação prática pode revestir a forma de um estágio, desde que este se faça a tempo inteiro sob o controlo directo da autoridade ou do organismo competentes e que não exceda seis meses num período global de formação de cinco anos de estudos.\n\nA repartição do ensino teórico e prático entre os diferentes grupos de matérias, deve ser ponderado e coordenado de tal modo que os conhecimentos e experiências referidas no no 1 do artigo 1o da presente directiva possam ser adquiridos de modo adequado para permitir que o veterinário cumpra o conjunto das suas tarefas."
+  },
+  "ff372dadbe8e351f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1978L1027 — PT — 20.10.2007 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31978L1027) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31978L1027) [de 18 de Dezembro de 1978](http://publications.europa.eu/resource/celex/31978L1027) [relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes às actividades do veterinário](http://publications.europa.eu/resource/celex/31978L1027) [(78/1027/CEE)](http://publications.europa.eu/resource/celex/31978L1027) (JO L 362, 23.12.1978, p.7)\n\n**revogado por:**\n\n- [Directiva 2005/36/CE do Parlamento Europeu e do Conselho de 7 de Setembro de 2005](http://publications.europa.eu/resource/celex/32005L0036) — L 255 — 22 — 30.9.2005"
+  }
+ }
+}

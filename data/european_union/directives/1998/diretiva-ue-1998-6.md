@@ -35,6 +35,23 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-05-28'
+version_history:
+  file: diretiva-ue-1998-6.versoes.json
+  count: 2
+  source_lastmod: '2022-05-28'
+  versions:
+  - date: '1998-03-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-05-28'
+    amending: eu:celex:32019L2161:por
+    amending_title: DIRETIVA (UE) 2019/2161 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Notas
+    - Adita Artigo 6.º-A
 identifiers:
   celex: 31998L0006
   eli: http://data.europa.eu/eli/dir/1998/6/oj
@@ -49,7 +66,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b8fd669f-e013-4f8a-a9e1-2ff0dfee7de6.0011
   content_url: http://publications.europa.eu/resource/cellar/6c0a5cd1-ec06-11ec-a534-01aa75ed71a1.0017.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0006-20220528
-  retrieved_at: '2026-10-22T02:44:39Z'
+  retrieved_at: '2026-10-22T14:46:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T07:28:28.314+01:00'
 integrity:
@@ -58,9 +75,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:39Z'
-  notes: Texto consolidado 01998L0006-20220528.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:34Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1998-6.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -165,33 +182,19 @@ relationships:
   date: '1988-06-09'
 article_structure:
   article_count: 15
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:39Z'
+  checked_at: '2026-10-22T14:46:34Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 98/6/CE do Parlamento Europeu E do Conselho de 16 de Fevereiro de 1998
-
-> 01998L0006 — PT — 28.05.2022 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019L2161) — [DIRETIVA (UE) 2019/2161 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019L2161) — L 328 — 7 — 18.12.2019
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/31998L0006R%2801%29) — [Rectificação, JO L 190, 4.7.1998, p. 86 (1998/6)](http://publications.europa.eu/resource/celex/31998L0006R%2801%29)
-
-## DIRECTIVA 98/6/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Fevereiro de 1998
 

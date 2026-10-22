@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2005-1236.versoes.json
+  count: 1
+  source_lastmod: '2017-03-17'
+  versions:
+  - date: '2005-07-30'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32005R1236
   eli: http://data.europa.eu/eli/reg/2005/1236/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/88d94508-a960-4763-913e-fb28e8c04167.0016
   content_url: http://publications.europa.eu/resource/cellar/88d94508-a960-4763-913e-fb28e8c04167.0016.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:52:04Z'
+  retrieved_at: '2026-10-22T15:00:25Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T10:54:20.546+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:04Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:00:25Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2005-1236.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -200,21 +209,31 @@ relationships:
   date: '2019-01-31'
 article_structure:
   article_count: 19
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:04Z'
+  checked_at: '2026-10-22T15:00:25Z'
   warnings:
-  - 'Versão consolidada 02005R1236-20170317 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02005R1236-20060730: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R1236-20060920: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R1236-20070101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R1236-20080720: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R1236-20101224: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R1236-20111221: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R1236-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R1236-20140220: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R1236-20140720: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R1236-20150713: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R1236-20161216: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02005R1236-20170317: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO (CE) N.º 1236/2005 DO CONSELHO
+# Regulamento (CE) n.° 1236/2005 do Conselho, de 27 de Junho de 2005
 
 de 27 de Junho de 2005
 

@@ -1,0 +1,329 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008R0106:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0106-20130326",
+ "dre_path": null,
+ "source_lastmod": "2013-03-26",
+ "versions": [
+  {
+   "date": "2008-02-13",
+   "future": false,
+   "celex": "32008R0106",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bbf46f6749395af1",
+    "82372e8ceee188dd",
+    "126b850dcf174279",
+    "9b010e226cda09b6",
+    "99b3c1c5848428dd",
+    "b05fa78a27429d1b",
+    "ba1b8c3a4e6f8452",
+    "a8f2e086224bae0d",
+    "2523863e66fdc0d6",
+    "93ad0f5a9e8ebdd5",
+    "6c5ca01280b1e1ff",
+    "8c481686f31ee190",
+    "99d9c3cc4455fcc2",
+    "718a704a390c5958",
+    "9ff117a0fb2b3475",
+    "c697363aa2ddf3ab",
+    "9a5841af4b3cf4a4",
+    "33575f9d165e9395"
+   ]
+  },
+  {
+   "date": "2013-03-26",
+   "future": false,
+   "celex": "02008R0106-20130326",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0174:por",
+     "title": "REGULAMENTO (UE) N. o 174/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de fevereiro de 2013",
+     "published": null,
+     "celex": "32013R0174"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º — Princípios gerais",
+    "Altera Artigo 6.º — Promoção dos critérios de eficiência energética",
+    "Altera Artigo 10.º — Programa de trabalho",
+    "Altera Artigo 11.º — Procedimentos preparatórios para a revisão dos critérios técnicos",
+    "Altera Artigo 12.º — Vigilância do mercado e controlo de abusos",
+    "Altera Artigo 16.º — Disposições finais",
+    "Altera Notas",
+    "Adita Artigo 1.º — Objetivo",
+    "Adita Artigo 8.º — Administração do Energy Star para a União Europeia",
+    "Adita Artigo 13.º — Avaliação e revisão",
+    "Adita ANEXO",
+    "Suprime Artigo 1.º — Objectivo",
+    "Suprime Artigo 7.º — Outros sistemas voluntários de rotulagem da eficiência energética",
+    "Suprime Artigo 8.º — Administração Energy Star para a Comunidade Europeia",
+    "Suprime Artigo 13.º — Avaliação",
+    "Suprime Artigo 14.º — Revisão"
+   ],
+   "fragments": [
+    "5f129e45e4ef5b8c",
+    "903a3b72fe26914e",
+    "126b850dcf174279",
+    "9b010e226cda09b6",
+    "0071fdeedd6d8be6",
+    "b05fa78a27429d1b",
+    "9159916f3387c718",
+    "76d3f881a223c63a",
+    "93ad0f5a9e8ebdd5",
+    "2e32e2501ba7bdbd",
+    "6eba6ae8b9141ba9",
+    "f0c10bc42650f1c3",
+    "6ebf2677ab4ff6d4",
+    "c697363aa2ddf3ab",
+    "4e6e9f7cc4a0d725",
+    "97cb741327417740",
+    "80dccf0a56419cd7"
+   ]
+  }
+ ],
+ "fragments": {
+  "bbf46f6749395af1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Janeiro de 2008\n\nrelativo a um Programa Comunitário de Rotulagem em Matéria de Eficiência Energética para Equipamento de Escritório\n\n(Reformulação)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 1 do artigo 175.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntr1-L_2008039PT.01000101-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntr2-L_2008039PT.01000101-E0002),\n\nConsiderando o seguinte:\n\n(1) É necessário introduzir algumas alterações de fundo no Regulamento (CE) n.º 2422/2001 do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, relativo a um Programa Comunitário de Rotulagem em Matéria de Eficiência Energética para Equipamento de Escritório [([^3])](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntr3-L_2008039PT.01000101-E0003). Por motivos de clareza, esse regulamento deverá ser reformulado.\n\n(2) O equipamento de escritório representa uma parte considerável do consumo total de energia eléctrica. Os vários modelos disponíveis no mercado comunitário possuem níveis muito diversos de consumo de energia para funcionalidades semelhantes, existindo um potencial significativo de optimização da sua eficiência energética.\n\n(3) A melhoria da eficiência energética do equipamento de escritório deverá contribuir para o aumento da competitividade da Comunidade e da segurança do seu aprovisionamento energético e para a protecção do ambiente e dos consumidores.\n\n(4) É importante promover medidas que garantam o funcionamento adequado do mercado interno.\n\n(5) É desejável coordenar as iniciativas nacionais em matéria de rotulagem da eficiência energética para minimizar o impacto negativo das suas medidas de execução na indústria e no comércio.\n\n(6) Atendendo a que o objectivo da acção proposta, a saber, o estabelecimento das normas relativas ao programa comunitário de rotulagem em matéria de eficiência energética para equipamento de escritório, não pode ser suficientemente realizado pelos Estados-Membros e pode, pois, ser mais bem alcançado ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir aquele objectivo.\n\n(7) O Protocolo da Convenção-Quadro das Nações Unidas sobre Alterações Climáticas, aprovado em Quioto em 11 de Dezembro de 1997, impõe à Comunidade uma redução de 8 % nas emissões de gases com efeito de estufa o mais tardar durante o período de 2008-2012. Para atingir este objectivo, é necessário tomar medidas mais firmes para reduzir as emissões de dióxido de carbono na Comunidade.\n\n(8) Além disso, a Decisão n.º 2179/98/CE do Parlamento Europeu e do Conselho, de 24 de Setembro de 1998, relativa à revisão do programa da Comunidade Europeia de política e acção em matéria de ambiente e desenvolvimento sustentável «Em direcção a um desenvolvimento sustentável» [([^4])](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntr4-L_2008039PT.01000101-E0004), considerava a rotulagem da eficiência energética dos electrodomésticos como uma prioridade fundamental para a integração dos requisitos ambientais no domínio da energia.\n\n(9) A Resolução do Conselho, de 7 de Dezembro de 1998, sobre eficiência energética na Comunidade Europeia [([^5])](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntr5-L_2008039PT.01000101-E0005), exigia um maior recurso à rotulagem dos aparelhos e do equipamento.\n\n(10) É desejável coordenar, sempre que adequado, os requisitos, rótulos e métodos para testar a eficiência energética.\n\n(11) Grande parte do equipamento de escritório eficaz do ponto de vista do consumo de energia pode ser adquirido com um custo suplementar reduzido ou nulo. Em muitos casos, o eventual custo suplementar pode ser compensado pela economia de energia eléctrica num prazo razoável. Os objectivos de economia de energia e de redução das emissões de dióxido de carbono podem, por conseguinte, ser alcançados de forma eficaz em termos de custos nesse domínio, sem desvantagens para os consumidores ou para o sector industrial.\n\n(12) O equipamento de escritório é comercializado à escala mundial. O Acordo de 20 de Dezembro de 2006 entre o Governo dos Estados Unidos da América e a Comunidade Europeia sobre a Coordenação dos Programas de Rotulagem em Matéria de Eficiência Energética do Equipamento de Escritório [([^6])](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntr6-L_2008039PT.01000101-E0006) (a seguir designado «o Acordo») deverá facilitar o comércio internacional e a protecção do ambiente em relação a esse tipo de equipamento. O Acordo deverá ser aplicado na Comunidade.\n\n(13) O rótulo de eficiência energética *Energy Star* é utilizado mundialmente. A fim de influenciar os requisitos do programa de rotulagem *Energy Star*, a Comunidade deverá participar no programa e na redacção das necessárias especificações técnicas. Ao estabelecer as referidas especificações técnicas em colaboração com a Agência de Protecção Ambiental dos Estados Unidos (EPA/EUA), a Comissão deverá visar níveis ambiciosos de eficiência energética, na perspectiva da política de eficiência energética da Comunidade e das suas metas em matéria de eficiência energética.\n\n(14) É necessário um sistema eficaz de controlo para garantir que o Programa de Rotulagem em Matéria de Eficiência Energética para Equipamento de Escritório seja correctamente aplicado, assegure condições concorrenciais justas para os fabricantes e proteja os direitos do consumidor.\n\n(15) O presente regulamento deverá aplicar-se exclusivamente ao equipamento de escritório.\n\n(16) A Directiva 92/75/CEE do Conselho, de 22 de Setembro de 1992, relativa à indicação do consumo de energia dos aparelhos domésticos por meio de rotulagem e outras indicações uniformes relativas aos produtos [([^7])](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntr7-L_2008039PT.01000101-E0007), não é o instrumento mais apropriado para o equipamento de escritório. A medida que apresenta melhor relação custo/benefício para a promoção da eficiência energética do equipamento de escritório é o lançamento de um programa voluntário de rotulagem.\n\n(17) A tarefa de contribuir para a elaboração e revisão das especificações técnicas comuns deverá ser atribuída a um organismo adequado, a Administração *Energy Star* para a Comunidade Europeia, de modo a conseguir uma aplicação neutra e eficaz do sistema. Esse organismo deverá ser constituído por representantes nacionais e representantes das partes interessadas.\n\n(18) É necessário garantir a coerência e a coordenação do Programa de Rotulagem em Matéria de Eficiência Energética para Equipamento de Escritório com as prioridades da política da Comunidade e com outros sistemas comunitários de rotulagem ou de certificação da qualidade, designadamente os instituídos pela Directiva 92/75/CEE e pelo Regulamento (CEE) n.º 880/92 do Conselho, de 23 de Março de 1992, relativo a um sistema comunitário de atribuição de rótulo ecológico [([^8])](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntr8-L_2008039PT.01000101-E0008).\n\n(19) O programa de rotulagem da eficiência energética deverá igualmente complementar medidas adoptadas no âmbito da Directiva 2005/32/CE do Parlamento Europeu e do Conselho, de 6 de Julho de 2005, relativa à criação de um quadro para definir os requisitos de concepção ecológica dos produtos que consomem energia [([^9])](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntr9-L_2008039PT.01000101-E0009). É pois necessário garantir a coerência e a coordenação do Programa *Energy Star* e dos sistemas de concepção ecológica.\n\n(20) É desejável coordenar o Programa Comunitário *Energy Star* assente no Acordo e outros sistemas voluntários de rotulagem em matéria de eficiência energética para equipamento de escritório na Comunidade, a fim de evitar confusões para os consumidores e potenciais distorções do mercado.\n\n(21) É necessário garantir a transparência na aplicação do Programa *Energy Star* e assegurar a sua coerência com as normas internacionais pertinentes, de modo a facilitar o acesso e a participação dos fabricantes e exportadores de países exteriores à Comunidade.\n\n(22) O presente regulamento tem em conta a experiência adquirida durante o primeiro período de aplicação do Programa *Energy Star* na Comunidade,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "82372e8ceee188dd": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO presente regulamento estabelece as normas relativas ao Programa Comunitário de Rotulagem em Matéria de Eficiência Energética para Equipamento de Escritório (a seguir denominado «Programa *Energy Star*») definido no Acordo."
+  },
+  "126b850dcf174279": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente regulamento é aplicável aos grupos de produtos de equipamento de escritório definidos no anexo C do Acordo, sob reserva de quaisquer alterações introduzidas nos termos do artigo XII do Acordo."
+  },
+  "9b010e226cda09b6": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Logótipo comum», a marca referida no anexo A do Acordo;\n\nb) «Participantes no programa», os fabricantes, montadores, exportadores, importadores, retalhistas e outras pessoas ou organismos que se comprometam a promover produtos de equipamento de escritório designados, energeticamente eficientes e conformes com as especificações comuns definidas na alínea c), e que tenham decidido participar no Programa *Energy Star*, inscrevendo-se junto da Comissão;\n\nc) «Especificações comuns», os requisitos de eficiência energética e de desempenho, incluindo os métodos de ensaio, utilizados para determinar a qualificação de produtos de equipamento de escritório energeticamente eficientes para a utilização do logótipo comum."
+  },
+  "99b3c1c5848428dd": {
+   "fragment_id": "Artigo 4.º — Princípios gerais",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios gerais\n\n1. O Programa *Energy Star* deve ser coordenado, sempre que adequado, com outros regimes comunitários de rotulagem ou certificação de qualidade, bem como com outros sistemas, em especial o sistema comunitário de atribuição do rótulo ecológico, criado pelo Regulamento (CEE) n.º 880/92, a indicação do consumo de energia e de outros recursos pelos aparelhos domésticos através da rotulagem e de indicações uniformes relativas aos produtos, tal como previsto na Directiva 92/75/CEE e nas medidas de execução da Directiva 2005/32/CE.\n\n2. Os participantes no programa podem apor o logótipo comum em cada um dos seus produtos de equipamento de escritório e utilizá-lo nas campanhas de promoção.\n\n3. A participação no Programa *Energy Star* é voluntária.\n\n4. Salvo prova em contrário, presume-se que estão conformes com o presente regulamento os produtos de equipamento de escritório aos quais a EPA/EUA concedeu autorização para ostentarem o logótipo comum.\n\n5. Sem prejuízo das normas comunitárias relativas à avaliação e a marcas de conformidade e/ou de acordos internacionais celebrados entre a Comunidade e países terceiros relativamente ao acesso ao mercado comunitário, os produtos abrangidos pelo presente regulamento que são colocados no mercado da Comunidade podem ser testados pela Comissão ou pelos Estados-Membros para efeitos de verificação da sua conformidade com os requisitos do presente regulamento."
+  },
+  "b05fa78a27429d1b": {
+   "fragment_id": "Artigo 5.º — Inscrição dos participantes no Programa",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Inscrição dos participantes no Programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Inscrição dos participantes no Programa\n\n1. As candidaturas a participante no programa são apresentadas à Comissão.\n\n2. A decisão de conferir a um candidato o estatuto de participante no programa é tomada pela Comissão depois de verificar se o candidato concordou em cumprir as directrizes para os utilizadores do logótipo comum constantes do anexo B do Acordo. A Comissão publica no sítio *web Energy Star* e transmite regularmente aos Estados-Membros uma lista actualizada dos participantes no programa."
+  },
+  "ba1b8c3a4e6f8452": {
+   "fragment_id": "Artigo 6.º — Promoção dos critérios de eficiência energética",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Promoção dos critérios de eficiência energética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Promoção dos critérios de eficiência energética\n\nDurante a vigência do Acordo, a Comissão e as restantes instituições comunitárias, bem como as autoridades governamentais centrais na acepção da Directiva 2004/18/CE do Parlamento Europeu e do Conselho, de 31 de Março de 2004, relativa à coordenação dos processos de adjudicação dos contratos de empreitada de obras públicas, dos contratos públicos de fornecimento e dos contratos públicos de serviços [([^10])](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntr10-L_2008039PT.01000101-E0010), devem especificar, sem prejuízo do direito comunitário e nacional e de critérios económicos, requisitos de eficiência energética pelo menos tão exigentes como as especificações comuns para os contratos públicos de fornecimento de valor igual ou superior aos limiares fixados no artigo 7.º da referida directiva."
+  },
+  "a8f2e086224bae0d": {
+   "fragment_id": "Artigo 7.º — Outros sistemas voluntários de rotulagem da eficiência energética",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Outros sistemas voluntários de rotulagem da eficiência energética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Outros sistemas voluntários de rotulagem da eficiência energética\n\n1. Podem coexistir com o Programa *Energy Star* outros sistemas voluntários de rotulagem da eficiência energética de produtos de equipamento de escritório novos ou já existentes nos Estados-Membros.\n\n2. A Comissão e os Estados-Membros actuam de modo a assegurar a necessária coordenação entre o Programa *Energy Star* e os sistemas nacionais de rotulagem e outros sistemas de rotulagem existentes na Comunidade ou nos Estados-Membros."
+  },
+  "2523863e66fdc0d6": {
+   "fragment_id": "Artigo 8.º — Administração Energy Star para a Comunidade Europeia",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Administração Energy Star para a Comunidade Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Administração Energy Star para a Comunidade Europeia\n\n1. A Comissão cria uma Administração *Energy Star* para a Comunidade Europeia (AESCE) constituída pelos representantes nacionais a que se refere o artigo 9.º e por representantes das partes interessadas. A AESCE verifica a aplicação do Programa *Energy Star* na Comunidade e presta à Comissão aconselhamento e assistência, quando adequado, para lhe permitir desempenhar as suas funções de órgão de gestão previstas no artigo IV do Acordo.\n\n2. A Comissão garante que, no desempenho das suas actividades, a AESCE observe, na medida das suas possibilidades, para cada grupo de produtos de equipamento de escritório, uma participação equilibrada de todas as partes interessadas em relação a esse grupo de produtos, tais como fabricantes, retalhistas, importadores, grupos de protecção do ambiente e organizações de consumidores.\n\n3. A Comissão, assistida pela AESCE, acompanha a penetração no mercado dos produtos que ostentam o logótipo comum e as evoluções ao nível da eficiência energética do equipamento de escritório, na perspectiva de uma revisão atempada das especificações comuns.\n\n4. A Comissão estabelece o regulamento interno da AESCE, tendo em conta os pareceres formulados pelos representantes nacionais na AESCE."
+  },
+  "93ad0f5a9e8ebdd5": {
+   "fragment_id": "Artigo 9.º — Representantes nacionais",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Representantes nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Representantes nacionais\n\nCada Estado-Membro designa, quando adequado, peritos em política energética, autoridades ou pessoas (a seguir designados «representantes nacionais») responsáveis pelo desempenho das funções previstas no presente regulamento. Sempre que seja designado mais do que um representante nacional, o Estado-Membro determina os respectivos poderes desses representantes e os requisitos de coordenação que lhes são aplicáveis."
+  },
+  "6c5ca01280b1e1ff": {
+   "fragment_id": "Artigo 10.º — Programa de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Programa de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Programa de trabalho\n\nDe acordo com o objectivo enunciado no artigo 1.º, a Comissão estabelece um programa de trabalho. O programa de trabalho inclui uma estratégia para o desenvolvimento do Programa *Energy Star* que estabelece, para os três anos seguintes:\n\na) Os objectivos de melhoria da eficiência energética, tendo em conta a necessidade de garantir um elevado nível de protecção do ambiente e dos consumidores e o grau de penetração no mercado que o Programa *Energy Star* deverá procurar atingir a nível da Comunidade;\n\nb) Uma lista não exaustiva dos grupos de produtos de equipamento de escritório que deverão ser considerados como prioridades para efeitos de inclusão no Programa *Energy Star*;\n\nc) Iniciativas educativas e promocionais;\n\nd) Propostas de coordenação e cooperação entre o Programa *Energy Star* e outros sistemas voluntários de rotulagem da eficiência energética nos Estados-Membros.\n\nO programa de trabalho deve ser revisto pela Comissão pelo menos uma vez por ano e colocado à disposição do público."
+  },
+  "8c481686f31ee190": {
+   "fragment_id": "Artigo 11.º — Procedimentos preparatórios para a revisão dos critérios técnicos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Procedimentos preparatórios para a revisão dos critérios técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimentos preparatórios para a revisão dos critérios técnicos\n\n1. A fim de preparar a revisão das especificações comuns e dos grupos de produtos de equipamento de escritório abrangidos pelo anexo C do Acordo, e antes de submeter qualquer projecto de proposta ou responder à EPA/EUA nos termos previstos no Acordo e na Decisão 2006/1005/CE do Conselho, de 18 de Dezembro de 2006, relativa à celebração do Acordo entre o Governo dos Estados Unidos da América e a Comunidade Europeia sobre a coordenação dos programas de rotulagem em matéria de eficiência energética do equipamento de escritório [([^11])](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntr11-L_2008039PT.01000101-E0011), são dados os passos estabelecidos nos n.^os^ 2 a 5.\n\n2. A Comissão pode solicitar à AESCE que apresente uma proposta de revisão do Acordo ou das especificações comuns relativas a um produto. A Comissão pode apresentar à AESCE uma proposta de revisão das especificações comuns relativas a um produto ou do Acordo. A AESCE pode igualmente apresentar uma proposta à Comissão por sua própria iniciativa.\n\n3. A Comissão consulta a AESCE sempre que receba da EPA/EUA uma proposta de revisão do Acordo.\n\n4. Ao darem o seu parecer à Comissão, os membros da AESCE devem ter em conta os resultados dos estudos de viabilidade e de mercado, bem como as tecnologias disponíveis para reduzir o consumo de energia.\n\n5. A Comissão deve ter particularmente em conta o objectivo de definir especificações comuns ambiciosas, conforme previsto no n.º 3 do artigo I do Acordo, a fim de reduzir o consumo de energia, e deve ter devidamente em conta a tecnologia disponível e os custos associados. Em especial, antes de dar o seu parecer sobre novas especificações comuns, a AESCE deve ter em conta os resultados mais recentes dos estudos de concepção ecológica."
+  },
+  "99d9c3cc4455fcc2": {
+   "fragment_id": "Artigo 12.º — Vigilância do mercado e controlo de abusos",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Vigilância do mercado e controlo de abusos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Vigilância do mercado e controlo de abusos\n\n1. O logótipo comum só deve ser utilizado em relação aos produtos abrangidos pelo Acordo e em conformidade com as directrizes para os utilizadores do logótipo comum contidas no anexo B do Acordo.\n\n2. É proibida toda a publicidade falsa ou enganosa ou a utilização de rótulos ou logótipos que induzam em confusão com o logótipo comum.\n\n3. A Comissão assegura que o logótipo comum seja devidamente utilizado, executando ou coordenando as acções descritas nos n.^os^ 2, 3 e 4 do artigo IX do Acordo. Os Estados-Membros tomam as medidas adequadas para garantir o cumprimento do disposto no presente regulamento nos respectivos territórios e informam do facto a Comissão. Os Estados-Membros podem submeter à apreciação da Comissão, para que esta tome as primeiras medidas, elementos comprovativos do incumprimento por parte de participantes no programa."
+  },
+  "718a704a390c5958": {
+   "fragment_id": "Artigo 13.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Avaliação\n\nUm ano antes de o Acordo caducar, a Comissão elabora e apresenta ao Parlamento Europeu e ao Conselho um relatório de acompanhamento da eficiência energética do mercado do equipamento de escritório na Comunidade e de avaliação da eficácia do Programa *Energy Star*. O relatório deve incluir dados qualitativos e quantitativos, bem como dados relativos aos benefícios resultantes do Programa *Energy Star*, nomeadamente economias de energia e benefícios ambientais em termos de redução das emissões de dióxido de carbono."
+  },
+  "9ff117a0fb2b3475": {
+   "fragment_id": "Artigo 14.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Revisão\n\nAntes de as partes no Acordo iniciarem, nos termos do n.º 2 do artigo XIV do Acordo, os debates sobre a sua prorrogação, a Comissão avalia o Programa *Energy Star* à luz da experiência adquirida durante a sua vigência."
+  },
+  "c697363aa2ddf3ab": {
+   "fragment_id": "Artigo 15.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revogação\n\nÉ revogado o Regulamento (CE) n.º 2422/2001.\n\nAs remissões para o regulamento revogado devem entender-se como sendo feitas para o presente regulamento e ler-se nos termos do quadro de correspondência constante do anexo."
+  },
+  "9a5841af4b3cf4a4": {
+   "fragment_id": "Artigo 16.º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Disposições finais\n\nO presente regulamento entra em vigor vinte dias após o da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Estrasburgo, em 15 de Janeiro de 2008.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**H.-G. PÖTTERING**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**J. LENARČIČ**\n\n---"
+  },
+  "33575f9d165e9395": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntc1-L_2008039PT.01000101-E0001) [JO C 161 de 13.7.2007, p. 97](http://publications.europa.eu/resource/oj/JOC_2007_161_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntc2-L_2008039PT.01000101-E0002) Parecer do Parlamento Europeu de 10 de Julho de 2007 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 17 de Dezembro de 2007.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntc3-L_2008039PT.01000101-E0003) [JO L 332 de 15.12.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_332_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntc4-L_2008039PT.01000101-E0004) [JO L 275 de 10.10.1998, p. 1](http://publications.europa.eu/resource/oj/JOL_1998_275_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntc5-L_2008039PT.01000101-E0005) [JO C 394 de 17.12.1998, p. 1](http://publications.europa.eu/resource/oj/JOC_1998_394_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntc6-L_2008039PT.01000101-E0006) [JO L 381 de 28.12.2006, p. 26](http://publications.europa.eu/resource/oj/JOL_2006_381_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntc7-L_2008039PT.01000101-E0007) [JO L 297 de 13.10.1992, p. 16](http://publications.europa.eu/resource/oj/JOL_1992_297_R_TOC). Directiva alterada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho ([JO L 284 de 31.10.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_284_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntc8-L_2008039PT.01000101-E0008) [JO L 99 de 11.4.1992, p. 1](http://publications.europa.eu/resource/oj/JOL_1992_099_R_TOC). Regulamento revogado pelo Regulamento (CE) n.º 1980/2000 do Parlamento Europeu e do Conselho ([JO L 237 de 21.9.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_237_R_TOC)).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntc9-L_2008039PT.01000101-E0009) [JO L 191 de 22.7.2005, p. 29](http://publications.europa.eu/resource/oj/JOL_2005_191_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntc10-L_2008039PT.01000101-E0010) [JO L 134 de 30.4.2004, p. 114](http://publications.europa.eu/resource/oj/JOL_2004_134_R_TOC). Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1422/2007 da Comissão ([JO L 317 de 5.12.2007, p. 34](http://publications.europa.eu/resource/oj/JOL_2007_317_R_TOC)).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/ca30526c-806c-4396-ad1e-665d84dea03f.0019.02/DOC_1#ntc11-L_2008039PT.01000101-E0011) [JO L 381 de 28.12.2006, p. 24](http://publications.europa.eu/resource/oj/JOL_2006_381_R_TOC)."
+  },
+  "5f129e45e4ef5b8c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Janeiro de 2008\n\nrelativo a um Programa da União de Rotulagem em matéria de Eficiência Energética para Equipamento de Escritório\n\n(Reformulação)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 1 do artigo 175.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#E0001)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#E0002)),\n\n(1) É necessário introduzir algumas alterações de fundo no Regulamento (CE) n.º 2422/2001 do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, relativo a um Programa Comunitário de Rotulagem em Matéria de Eficiência Energética para Equipamento de Escritório ([^3^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#E0003)). Por motivos de clareza, esse regulamento deverá ser reformulado.\n\n(2) O equipamento de escritório representa uma parte considerável do consumo total de energia eléctrica. Os vários modelos disponíveis no mercado comunitário possuem níveis muito diversos de consumo de energia para funcionalidades semelhantes, existindo um potencial significativo de optimização da sua eficiência energética.\n\n(3) A melhoria da eficiência energética do equipamento de escritório deverá contribuir para o aumento da competitividade da Comunidade e da segurança do seu aprovisionamento energético e para a protecção do ambiente e dos consumidores.\n\n(4) É importante promover medidas que garantam o funcionamento adequado do mercado interno.\n\n(5) É desejável coordenar as iniciativas nacionais em matéria de rotulagem da eficiência energética para minimizar o impacto negativo das suas medidas de execução na indústria e no comércio.\n\n(6) Atendendo a que o objectivo da acção proposta, a saber, o estabelecimento das normas relativas ao programa comunitário de rotulagem em matéria de eficiência energética para equipamento de escritório, não pode ser suficientemente realizado pelos Estados-Membros e pode, pois, ser mais bem alcançado ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir aquele objectivo.\n\n(7) O Protocolo da Convenção-Quadro das Nações Unidas sobre Alterações Climáticas, aprovado em Quioto em 11 de Dezembro de 1997, impõe à Comunidade uma redução de 8 % nas emissões de gases com efeito de estufa o mais tardar durante o período de 2008-2012. Para atingir este objectivo, é necessário tomar medidas mais firmes para reduzir as emissões de dióxido de carbono na Comunidade.\n\n(8) Além disso, a Decisão n.º 2179/98/CE do Parlamento Europeu e do Conselho, de 24 de Setembro de 1998, relativa à revisão do programa da Comunidade Europeia de política e acção em matéria de ambiente e desenvolvimento sustentável «Em direcção a um desenvolvimento sustentável» ([^4^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#E0004)), considerava a rotulagem da eficiência energética dos electrodomésticos como uma prioridade fundamental para a integração dos requisitos ambientais no domínio da energia.\n\n(9) A Resolução do Conselho, de 7 de Dezembro de 1998, sobre eficiência energética na Comunidade Europeia ([^5^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#E0005)), exigia um maior recurso à rotulagem dos aparelhos e do equipamento.\n\n(10) É desejável coordenar, sempre que adequado, os requisitos, rótulos e métodos para testar a eficiência energética.\n\n(11) Grande parte do equipamento de escritório eficaz do ponto de vista do consumo de energia pode ser adquirido com um custo suplementar reduzido ou nulo. Em muitos casos, o eventual custo suplementar pode ser compensado pela economia de energia eléctrica num prazo razoável. Os objectivos de economia de energia e de redução das emissões de dióxido de carbono podem, por conseguinte, ser alcançados de forma eficaz em termos de custos nesse domínio, sem desvantagens para os consumidores ou para o sector industrial.\n\n(12) O equipamento de escritório é comercializado à escala mundial. O Acordo de 20 de Dezembro de 2006 entre o Governo dos Estados Unidos da América e a Comunidade Europeia sobre a Coordenação dos Programas de Rotulagem em Matéria de Eficiência Energética do Equipamento de Escritório ([^6^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#E0006)) (a seguir designado «o Acordo») deverá facilitar o comércio internacional e a protecção do ambiente em relação a esse tipo de equipamento. O Acordo deverá ser aplicado na Comunidade.\n\n(13) O rótulo de eficiência energética *Energy Star* é utilizado mundialmente. A fim de influenciar os requisitos do programa de rotulagem *Energy Star*, a Comunidade deverá participar no programa e na redacção das necessárias especificações técnicas. Ao estabelecer as referidas especificações técnicas em colaboração com a Agência de Protecção Ambiental dos Estados Unidos (EPA/EUA), a Comissão deverá visar níveis ambiciosos de eficiência energética, na perspectiva da política de eficiência energética da Comunidade e das suas metas em matéria de eficiência energética.\n\n(14) É necessário um sistema eficaz de controlo para garantir que o Programa de Rotulagem em Matéria de Eficiência Energética para Equipamento de Escritório seja correctamente aplicado, assegure condições concorrenciais justas para os fabricantes e proteja os direitos do consumidor.\n\n(15) O presente regulamento deverá aplicar-se exclusivamente ao equipamento de escritório.\n\n(16) A Directiva 92/75/CEE do Conselho, de 22 de Setembro de 1992, relativa à indicação do consumo de energia dos aparelhos domésticos por meio de rotulagem e outras indicações uniformes relativas aos produtos ([^7^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#E0007)), não é o instrumento mais apropriado para o equipamento de escritório. A medida que apresenta melhor relação custo/benefício para a promoção da eficiência energética do equipamento de escritório é o lançamento de um programa voluntário de rotulagem.\n\n(17) A tarefa de contribuir para a elaboração e revisão das especificações técnicas comuns deverá ser atribuída a um organismo adequado, a Administração *Energy Star* para a Comunidade Europeia, de modo a conseguir uma aplicação neutra e eficaz do sistema. Esse organismo deverá ser constituído por representantes nacionais e representantes das partes interessadas.\n\n(18) É necessário garantir a coerência e a coordenação do Programa de Rotulagem em Matéria de Eficiência Energética para Equipamento de Escritório com as prioridades da política da Comunidade e com outros sistemas comunitários de rotulagem ou de certificação da qualidade, designadamente os instituídos pela Directiva 92/75/CEE e pelo Regulamento (CEE) n.º 880/92 do Conselho, de 23 de Março de 1992, relativo a um sistema comunitário de atribuição de rótulo ecológico ([^8^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#E0008)).\n\n(19) O programa de rotulagem da eficiência energética deverá igualmente complementar medidas adoptadas no âmbito da Directiva 2005/32/CE do Parlamento Europeu e do Conselho, de 6 de Julho de 2005, relativa à criação de um quadro para definir os requisitos de concepção ecológica dos produtos que consomem energia ([^9^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#E0009)). É pois necessário garantir a coerência e a coordenação do Programa *Energy Star* e dos sistemas de concepção ecológica.\n\n(20) É desejável coordenar o Programa Comunitário *Energy Star* assente no Acordo e outros sistemas voluntários de rotulagem em matéria de eficiência energética para equipamento de escritório na Comunidade, a fim de evitar confusões para os consumidores e potenciais distorções do mercado.\n\n(21) É necessário garantir a transparência na aplicação do Programa *Energy Star* e assegurar a sua coerência com as normas internacionais pertinentes, de modo a facilitar o acesso e a participação dos fabricantes e exportadores de países exteriores à Comunidade.\n\n(22) O presente regulamento tem em conta a experiência adquirida durante o primeiro período de aplicação do Programa *Energy Star* na Comunidade,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "903a3b72fe26914e": {
+   "fragment_id": "Artigo 1.º — Objetivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objetivo\n\nO presente regulamento estabelece as normas relativas ao Programa da União de Rotulagem em matéria de Eficiência Energética para Equipamento de Escritório (a seguir denominado «Programa Energy Star») definido no Acordo entre o Governo dos Estados Unidos e a União Europeia sobre a coordenação dos programas de rotulagem em matéria de eficiência energética do equipamento de escritório, assinado em 10 de dezembro de 2012 em Bruxelas e 18 de janeiro de 2013 em Washington ([^10^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#E0010)) (a seguir designado «Acordo»)."
+  },
+  "0071fdeedd6d8be6": {
+   "fragment_id": "Artigo 4.º — Princípios gerais",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios gerais\n\n1. O Programa Energy Star deve contribuir para o cumprimento das metas de eficiência energética dos Estados-Membros e da União, como referido nos artigos 1.º e 3.º da Diretiva 2012/27/UE do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativa à eficiência energética ([^11^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#E0011)). Deve ser coordenado, sempre que adequado, com outros sistemas de rotulagem ou certificação da qualidade da União, bem como com outros sistemas, nomeadamente o sistema de atribuição do rótulo ecológico da União, criado pelo Regulamento (CE) n.º 66/2010 do Parlamento Europeu e do Conselho, de 25 de novembro de 2009, relativo a um sistema de rótulo ecológico da UE ([^12^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#E0012)), o sistema de indicação do consumo de energia e de outros recursos por parte dos produtos relacionados com a energia, por meio de rotulagem e de outras indicações uniformes relativas aos produtos, criado pela Diretiva 2010/30/UE do Parlamento Europeu e do Conselho ([^13^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#E0013)), e as medidas de execução da Diretiva 2009/125/CE do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, relativa à criação de um quadro para definir os requisitos de conceção ecológica dos produtos relacionados com o consumo de energia ([^14^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#E0014)). Essa coordenação inclui o intercâmbio de elementos comprovativos e, se adequado, o estabelecimento de níveis comuns de especificações e de requisitos para os diferentes sistemas.\n\n2. Os participantes no programa podem apor o logótipo comum em cada um dos seus produtos de equipamento de escritório e utilizá-lo nas campanhas de promoção.\n\n3. A participação no Programa *Energy Star* é voluntária.\n\n4. Podem coexistir com o Programa Energy Star outros sistemas voluntários de rotulagem da eficiência energética de produtos de equipamento de escritório novos ou já existentes nos Estados-Membros.\n\n5. Sem prejuízo de eventuais regras da União relativas à avaliação e à marcação da conformidade e/ou de qualquer acordo internacional celebrado entre a União e países terceiros relativamente ao acesso ao mercado da União, os produtos abrangidos pelo presente regulamento que sejam colocados no mercado da União podem ser testados pela Comissão ou pelos Estados-Membros para efeitos de verificação da sua conformidade com os requisitos do presente regulamento."
+  },
+  "9159916f3387c718": {
+   "fragment_id": "Artigo 6.º — Promoção dos critérios de eficiência energética",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Promoção dos critérios de eficiência energética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Promoção dos critérios de eficiência energética\n\n1. Durante a vigência do Acordo, as autoridades governamentais centrais na aceção da Diretiva 2004/18/CE do Parlamento Europeu e do Conselho, de 31 de março de 2004, relativa à coordenação dos processos de adjudicação dos contratos de empreitada de obras públicas, dos contratos públicos de fornecimento e dos contratos públicos de serviços ([^15^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#E0015)), devem especificar, sem prejuízo do direito da União e do direito nacional e de critérios económicos, requisitos de eficiência energética pelo menos tão exigentes como as especificações comuns para os contratos públicos de fornecimento de valor igual ou superior aos limiares fixados no artigo 7.º da referida diretiva. Os Estados-Membros devem incentivar as autoridades adjudicantes a nível regional e local a utilizar esses requisitos. O presente artigo é aplicável sem prejuízo do disposto no artigo 6.º da Diretiva 2012/27/UE e no Anexo III, alínea c), da referida diretiva.\n\n2. Durante a vigência do Acordo, a Comissão e as restantes instituições da União devem especificar, sem prejuízo do direito da União e do direito nacional e de critérios económicos, requisitos de eficiência energética pelo menos tão exigentes como as especificações comuns para os contratos públicos de fornecimento de valor igual ou superior aos limiares fixados no artigo 7.º da Diretiva 2004/18/CE."
+  },
+  "76d3f881a223c63a": {
+   "fragment_id": "Artigo 8.º — Administração do Energy Star para a União Europeia",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Administração do Energy Star para a União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Administração do Energy Star para a União Europeia\n\n1. A Comissão cria a Administração do Energy Star para a União Europeia (\"AESUE\"), constituída pelos representantes nacionais a que se refere o artigo 9.º e por representantes das partes interessadas. A AESUE avalia a aplicação do Programa Energy Star na União e presta aconselhamento e assistência à Comissão, se adequado, a fim de lhe permitir desempenhar as suas funções de órgão de gestão previstas no artigo IV do Acordo.\n\n2. A Comissão assegura que, na medida do possível e no âmbito das suas atividades, a AESUE respeite, para cada grupo de produtos de equipamento de escritório, uma participação equilibrada de todas as partes interessadas em relação a esse grupo de produtos, tais como fabricantes, retalhistas, importadores, grupos de proteção do ambiente e organizações de consumidores.\n\n3. A Comissão, assistida pela AESUE, acompanha a penetração dos produtos que ostentam o logótipo comum no mercado e a evolução ao nível da eficiência energética do equipamento de escritório, na perspetiva de uma revisão oportuna das especificações comuns.\n\n4. A Comissão estabelece o regulamento interno da AESUE, tendo em conta os pontos de vista dos representantes nacionais na AESUE."
+  },
+  "2e32e2501ba7bdbd": {
+   "fragment_id": "Artigo 10.º — Programa de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Programa de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Programa de trabalho\n\nDe acordo com o objectivo enunciado no artigo 1.º, a Comissão estabelece um programa de trabalho. O programa de trabalho inclui uma estratégia para o desenvolvimento do Programa *Energy Star* que estabelece, para os três anos seguintes:\n\na) Os objetivos de melhoria da eficiência energética, tendo em conta a necessidade de garantir um elevado nível de proteção do ambiente e dos consumidores e o grau de penetração no mercado que o Programa Energy Star deverá procurar atingir a nível da União;\n\nb) Uma lista não exaustiva dos grupos de produtos de equipamento de escritório que deverão ser considerados como prioridades para efeitos de inclusão no Programa *Energy Star*;\n\nc) Iniciativas educativas e promocionais;\n\nd) Propostas de coordenação e cooperação entre o Programa *Energy Star* e outros sistemas voluntários de rotulagem da eficiência energética nos Estados-Membros.\n\nO programa de trabalho deve ser revisto pela Comissão pelo menos uma vez por ano e colocado à disposição do público."
+  },
+  "6eba6ae8b9141ba9": {
+   "fragment_id": "Artigo 11.º — Procedimentos preparatórios para a revisão dos critérios técnicos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Procedimentos preparatórios para a revisão dos critérios técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimentos preparatórios para a revisão dos critérios técnicos\n\n1. A fim de preparar a revisão das especificações comuns e dos grupos de produtos de equipamento de escritório abrangidos pelo anexo C do Acordo, e antes de submeter qualquer projeto de proposta ou responder à EPA/EUA nos termos previstos no Acordo e na Decisão 2013/107/UE do Conselho, de 13 de novembro de 2012, relativa à assinatura e celebração do Acordo entre o Governo dos Estados Unidos da América e a União Europeia sobre a coordenação dos programas de rotulagem da eficiência energética do equipamento de escritório ([^16^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#E0016)), são dados os passos estabelecidos nos n.^os^ 2 a 5.\n\n2. A Comissão pode solicitar que a AESUE apresente uma proposta de revisão do Acordo ou das especificações comuns relativas a um produto. A Comissão pode apresentar à AESUE uma proposta de revisão das especificações comuns relativas a um produto ou do Acordo. A AESUE pode igualmente apresentar uma proposta à Comissão por sua própria iniciativa.\n\n3. A Comissão consulta a AESUE sempre que receber da EPA/EUA uma proposta de revisão do Acordo.\n\n4. Ao darem o seu parecer à Comissão, os membros da AESUE devem ter em conta os resultados dos estudos de viabilidade e de mercado e as melhores tecnologias disponíveis para reduzir o consumo de energia.\n\n5. A Comissão deve ter particularmente em conta o objetivo de definir especificações comuns ambiciosas, conforme previsto no artigo I, n.º 3, do Acordo, a fim de reduzir o consumo de energia, e deve ter devidamente em consideração a tecnologia disponível e os custos do ciclo de vida associados. Em especial, antes de dar o seu parecer sobre novas especificações comuns, a AESUE deve ter em conta os resultados mais recentes dos estudos de conceção ecológica."
+  },
+  "f0c10bc42650f1c3": {
+   "fragment_id": "Artigo 12.º — Vigilância do mercado e controlo de abusos",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Vigilância do mercado e controlo de abusos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Vigilância do mercado e controlo de abusos\n\n1. O logótipo comum só deve ser utilizado em relação aos produtos abrangidos pelo Acordo e em conformidade com as directrizes para os utilizadores do logótipo comum contidas no anexo B do Acordo.\n\n2. É proibida toda a publicidade falsa ou enganosa ou a utilização de rótulos ou logótipos que induzam em confusão com o logótipo comum.\n\n3. A Comissão assegura que o logótipo comum seja devidamente utilizado, executando ou coordenando as ações descritas no artigo IX, n.^os^ 2, 3 e 4, do Acordo. Os Estados-Membros tomam as medidas adequadas, em particular as descritas no artigo IX, n.º 5, do Acordo, para garantir o cumprimento do disposto no presente regulamento nos respetivos territórios, e informam do facto a Comissão. Os Estados-Membros podem submeter à apreciação da Comissão, para que esta tome as primeiras medidas, elementos comprovativos do incumprimento por parte dos participantes no programa."
+  },
+  "6ebf2677ab4ff6d4": {
+   "fragment_id": "Artigo 13.º — Avaliação e revisão",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Avaliação e revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Avaliação e revisão\n\nAntes de as Partes no Acordo discutirem a sua renovação nos termos do artigo XIV, n.º 2, a Comissão avalia a eficácia do Programa Energy Star em termos de melhoria da eficiência energética do equipamento de escritório, de criação de novos empregos e de oferta de oportunidades comerciais para os fabricantes, e avalia opções políticas alternativas, como as previstas pela legislação da União, em particular pelas Diretivas 2009/125/CE e 2010/30/UE. Os resultados dessa avaliação são comunicados ao Parlamento Europeu e ao Conselho pelo menos dois anos antes do termo da vigência do Acordo."
+  },
+  "4e6e9f7cc4a0d725": {
+   "fragment_id": "Artigo 16.º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Disposições finais\n\nO presente regulamento entra em vigor vinte dias após o da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "97cb741327417740": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nRegulamento (CE) n.º 2422/2001 Presente regulamento\n\nArtigo 1.º Artigo 1.º\n\nÚltima frase do artigo 1.º —\n\nArtigo 2.º Artigo 2.º\n\nArtigo 3.º Artigo 3.º\n\nN.º 1 do artigo 4.º N.º 1 do artigo 4.º\n\nN.º 2 do artigo 4.º N.º 2 do artigo 4.º\n\n— N.º 3 do artigo 4.º\n\nN.º 3 do artigo 4.º N.º 4 do artigo 4.º\n\nN.º 4 do artigo 4.º N.º 5 do artigo 4.º\n\nArtigo 5.º Artigo 5.º\n\nN.º 1 do artigo 6.º —\n\nN.º 2 do artigo 6.º —\n\nN.º 3 do artigo 6.º Artigo 6.º\n\nArtigo 7.º Artigo 7.º\n\nN.º 1 do artigo 8.º N.º 1 do artigo 8.º\n\nN.º 2 do artigo 8.º —\n\nN.º 3 do artigo 8.º N.º 2 do artigo 8.º\n\n— N.º 3 do artigo 8.º\n\nN.º 4 do artigo 8.º N.º 4 do artigo 8.º\n\nN.º 5 do artigo 8.º —\n\nArtigo 9.º Artigo 9.º\n\nParte introdutória do primeiro parágrafo do artigo 10.º Parte introdutória do primeiro parágrafo do artigo 10.º\n\nPrimeiro travessão do primeiro parágrafo do artigo 10.º Alínea a) do primeiro parágrafo do artigo 10.º\n\nSegundo travessão do primeiro parágrafo do artigo 10.º Alínea b) do primeiro parágrafo do artigo 10.º\n\nTerceiro travessão do primeiro parágrafo do artigo 10.º —\n\n— Alínea c) do primeiro parágrafo do artigo 10.º\n\nQuarto travessão do primeiro parágrafo do artigo 10.º Alínea d) do primeiro parágrafo do artigo 10.º\n\nPrimeira frase do segundo parágrafo do artigo 10.º Segundo parágrafo do artigo 10.º\n\nPrimeiro parágrafo do artigo 11.º N.º 1 do artigo 11.º\n\nPonto 1 do artigo 11.º N.º 2 do artigo 11.º\n\nPonto 2 do artigo 11.º N.º 3 do artigo 11.º\n\nPrimeira frase do ponto 3 do artigo 11.º N.º 4 do artigo 11.º\n\nSegunda frase do ponto 3 do artigo 11.º Primeira frase do n.º 5 do artigo 11.º\n\n— Segunda frase do n.º 5 do artigo 11.º\n\nArtigo 12.º Artigo 12.º\n\nArtigo 13.º —\n\n— Artigo 13.º\n\nPrimeiro parágrafo do artigo 14.º Artigo 14.º\n\nSegundo parágrafo do artigo 14.º —\n\n— Artigo 15.º\n\nArtigo 15 Artigo 16\n\nAnexo —\n\n---"
+  },
+  "80dccf0a56419cd7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#src.E0001)) JO C 161 de 13.7.2007, p. 97.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 10 de Julho de 2007 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 17 de Dezembro de 2007.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#src.E0003)) JO L 332 de 15.12.2001, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#src.E0004)) JO L 275 de 10.10.1998, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#src.E0005)) JO C 394 de 17.12.1998, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#src.E0006)) JO L 381 de 28.12.2006, p. 26.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#src.E0007)) JO L 297 de 13.10.1992, p. 16. Directiva alterada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#src.E0008)) JO L 99 de 11.4.1992, p. 1. Regulamento revogado pelo Regulamento (CE) n.º 1980/2000 do Parlamento Europeu e do Conselho (JO L 237 de 21.9.2000, p. 1).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#src.E0009)) JO L 191 de 22.7.2005, p. 29.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#src.E0010)) JO L 63 de 6.3.2013, p. 7.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#src.E0011)) JO L 315 de 14.11.2012, p. 1.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#src.E0012)) JO L 27 de 30.1.2010, p. 1.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#src.E0013)) JO L 153 de 18.6.2010, p. 1.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#src.E0014)) JO L 285 de 31.10.2009, p. 10.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#src.E0015)) JO L 134 de 30.4.2004, p. 114.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/cf04ff55-89b5-4788-a11a-bf1fa73337de.0018.03/DOC_1#src.E0016)) JO L 63 de 6.3.2013, p. 5."
+  }
+ }
+}

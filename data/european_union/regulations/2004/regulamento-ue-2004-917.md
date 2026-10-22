@@ -34,6 +34,125 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-08-09'
+version_history:
+  file: regulamento-ue-2004-917.versoes.json
+  count: 9
+  source_lastmod: '2015-08-09'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-08-24'
+    amending: eu:celex:32004R1484:por
+    amending_title: REGULAMENTO (CE) N. o 1484/2004 DA COMISSÃO de 20 de Agosto de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º
+    - Altera Artigo 11.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Estudo sobre a estrutura do sector da apicultura referido no artigo 9.º
+    - Adita 1. Recenseamento
+    - Adita 2. Estrutura de comercialização
+    - Adita 3. Preços
+    - Adita 4. Custos de produção e acondicionamento
+    - Adita 5. Qualidade do mel
+    - 'Adita Notas:'
+    - Adita ANEXO III
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1913:por
+    amending_title: REGULAMENTO (CE) N. o 1913/2006 DA COMISSÃO de 20 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera 5. Qualidade do mel
+    - Altera Notas
+  - date: '2007-07-19'
+    amending: eu:celex:32007R0811:por
+    amending_title: REGULAMENTO (CE) N. o 811/2007 DA COMISSÃO de 11 de Julho de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera 5. Qualidade do mel
+    - Altera Notas
+    - Suprime Artigo 7.º
+  - date: '2007-08-11'
+    amending: eu:celex:32007R0939:por
+    amending_title: REGULAMENTO (CE) N. o 939/2007 DA COMISSÃO de 7 de Agosto de 2007
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera ANEXO I
+    - Altera 5. Qualidade do mel
+    - Altera Notas
+  - date: '2010-08-16'
+    amending: eu:celex:32010R0726:por
+    amending_title: REGULAMENTO (UE) N. o 726/2010 DA COMISSÃO de 12 de Agosto de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera ANEXO I
+    - Altera 5. Qualidade do mel
+    - Altera Notas
+  - date: '2013-01-01'
+    amending: eu:celex:32012R1212:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1212/2012 DA COMISSÃO de 17 de dezembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera 5. Qualidade do mel
+    - Altera Notas
+    - Adita Artigo 6.º-A
+  - date: '2013-09-01'
+    amending: eu:celex:32013R0768:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 768/2013 DA COMISSÃO de 8 de agosto de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º-A
+    - Altera Artigo 8.º
+    - Altera ANEXO I
+    - Altera 5. Qualidade do mel
+    - Altera Notas
+  - date: '2015-08-09'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 6.º-A
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime ANEXO I
+    - Suprime ANEXO II
+    - Suprime Estudo sobre a estrutura do sector da apicultura referido no artigo 9.º
+    - Suprime 1. Recenseamento
+    - Suprime 2. Estrutura de comercialização
+    - Suprime 3. Preços
+    - Suprime 4. Custos de produção e acondicionamento
+    - Suprime 5. Qualidade do mel
+    - 'Suprime Notas:'
+    - Suprime ANEXO III
+    - Suprime Notas
 identifiers:
   celex: 32004R0917
   eli: http://data.europa.eu/eli/reg/2004/917/oj
@@ -48,7 +167,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f59dc6f4-5f67-4cec-8096-d845ce4c6f30.0010
   content_url: http://publications.europa.eu/resource/cellar/6c2de88f-cfa3-4c5a-ae11-0b5391cdbfa6.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0917-20150809
-  retrieved_at: '2026-10-22T02:37:41Z'
+  retrieved_at: '2026-10-22T14:58:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-09-29T11:28:18.695+02:00'
 integrity:
@@ -57,9 +176,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:41Z'
-  notes: Texto consolidado 02004R0917-20150809.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:58:55Z'
+  notes: 9 versão(ões); histórico completo em regulamento-ue-2004-917.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -182,16 +301,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:41Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:58:55Z'
+  warnings: []
   errors: []
 ---
 

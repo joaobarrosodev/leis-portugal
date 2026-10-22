@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-07-02'
+version_history:
+  file: diretiva-ue-2001-24.versoes.json
+  count: 1
+  source_lastmod: '2014-07-02'
+  versions:
+  - date: '2014-07-02'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32001L0024
   eli: http://data.europa.eu/eli/dir/2001/24/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/94e11f23-3f8b-4df9-a02f-3233c5d9305e.0010
   content_url: http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0024-20140702
-  retrieved_at: '2026-10-22T02:38:13Z'
+  retrieved_at: '2026-10-22T14:50:01Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-11T15:02:42.365+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:13Z'
-  notes: Texto consolidado 02001L0024-20140702.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:01Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2001-24.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -195,29 +204,20 @@ relationships:
   source: null
 article_structure:
   article_count: 36
-  section_count: 18
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 19
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:13Z'
-  warnings: []
+  checked_at: '2026-10-22T14:50:01Z'
+  warnings:
+  - '02001L0024-20010505: versão indisponível (Sem expressão na língua por para CELEX 02001L0024-20010505.)'
   errors: []
 ---
 
 # Directiva 2001/24/CE do Parlamento Europeu e do Conselho, de 4 de Abril de 2001
-
-> 2001L0024 — PT — 02.07.2014 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014L0059) — [DIRETIVA 2014/59/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014L0059) — L 173 — 190 — 12.6.2014
-
-## DIRECTIVA 2001/24/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 4 de Abril de 2001
 

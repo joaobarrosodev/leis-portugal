@@ -38,6 +38,53 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-09-27'
+version_history:
+  file: diretiva-ue-2005-29.versoes.json
+  count: 3
+  source_lastmod: '2026-09-27'
+  versions:
+  - date: '2005-06-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-05-28'
+    amending: eu:celex:32019L2161:por
+    amending_title: DIRETIVA (UE) 2019/2161 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 27
+      de novembro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Âmbito de aplicação
+    - Altera Artigo 5.º — Proibição de práticas comerciais desleais
+    - Altera Artigo 6.º — Acções enganosas
+    - Altera Artigo 7.º — Omissões enganosas
+    - Altera Artigo 11.º — Aplicação
+    - 'Altera Artigo 12.º — Tribunais e autoridades administrativas: apresentação de prova das alegações'
+    - Altera Artigo 13.º — Sanções
+    - Altera Artigo 14.º — Alterações à Directiva 84/450/CEE
+    - Altera Artigo 15.º — Alteração das Directivas 97/7/CE e 2002/65/CE
+    - Altera Artigo 16.º — Alteração da Directiva 98/27/CE e do Regulamento (CE) n.º 2006/2004
+    - Altera Artigo 21.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 11.º-A — Vias de recurso
+    - Adita ANEXO I
+    - Adita PRÁTICAS COMERCIAIS CONSIDERADAS DESLEAIS EM QUAISQUER CIRCUNSTÂNCIAS
+    - Adita ANEXO II
+    - Adita DISPOSIÇÕES COMUNITÁRIAS QUE ESTABELECEM REGRAS EM MATÉRIA DE PUBLICIDADE E COMUNICAÇÃO COMERCIAL
+  - date: '2026-09-27'
+    amending: eu:celex:32024L0825:por
+    amending_title: DIRETIVA (UE) 2024/825 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de fevereiro de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Acções enganosas
+    - Altera Artigo 7.º — Omissões enganosas
+    - Altera Artigo 13.º — Sanções
+    - Altera Artigo 14.º — Alterações à Directiva 84/450/CEE
+    - Altera Artigo 15.º — Alteração das Directivas 97/7/CE e 2002/65/CE
+    - Altera Artigo 16.º — Alteração da Directiva 98/27/CE e do Regulamento (CE) n.º 2006/2004
+    - Altera PRÁTICAS COMERCIAIS CONSIDERADAS DESLEAIS EM QUAISQUER CIRCUNSTÂNCIAS
+    - Altera DISPOSIÇÕES COMUNITÁRIAS QUE ESTABELECEM REGRAS EM MATÉRIA DE PUBLICIDADE E COMUNICAÇÃO COMERCIAL
+    - Altera Notas
 identifiers:
   celex: 32005L0029
   eli: http://data.europa.eu/eli/dir/2005/29/oj
@@ -52,7 +99,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7fecf696-5eda-47b3-b838-0202aca4f2dd.0017
   content_url: http://publications.europa.eu/resource/cellar/16caab8e-3e51-11f1-814f-01aa75ed71a1.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0029-20260927
-  retrieved_at: '2026-10-22T02:38:41Z'
+  retrieved_at: '2026-10-22T14:59:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-02T22:47:18.980+01:00'
 integrity:
@@ -61,9 +108,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:41Z'
-  notes: Texto consolidado 02005L0029-20260927.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:18Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2005-29.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -499,30 +546,19 @@ relationships:
   source: null
 article_structure:
   article_count: 22
-  section_count: 16
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 17
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:41Z'
+  checked_at: '2026-10-22T14:59:18Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2005/29/CE do Parlamento Europeu e do Conselho, de 11 de Maio de 2005
-
-> 02005L0029 — PT — 27.09.2026 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019L2161) — [DIRETIVA (UE) 2019/2161 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019L2161) — L 328 — 7 — 18.12.2019
-- [►M2](http://publications.europa.eu/resource/celex/32024L0825) — [DIRETIVA (UE) 2024/825 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024L0825) — L 825 — 1 — 6.3.2024
-
-## DIRECTIVA 2005/29/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de Maio de 2005
 

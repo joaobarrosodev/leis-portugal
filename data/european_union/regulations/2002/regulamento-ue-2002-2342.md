@@ -35,6 +35,222 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-01-01'
+version_history:
+  file: regulamento-ue-2002-2342.versoes.json
+  count: 7
+  source_lastmod: '2013-01-01'
+  versions:
+  - date: '2002-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-08-05'
+    amending: eu:celex:32005R1261:por
+    amending_title: REGULAMENTO (CE, EURATOM) N. o 1261/2005 DA COMISSÃO de 20 de Julho de 2005
+    changes:
+    - Altera preambulo
+    - Altera TÍTULO I
+    - Altera TÍTULO II
+    - Altera CAPÍTULO 2
+    - Altera CAPÍTULO 3
+    - Altera CAPÍTULO 4
+    - Altera CAPÍTULO 5
+    - Altera CAPÍTULO 6
+    - Altera CAPÍTULO 7
+    - Altera TÍTULO III
+    - Altera TÍTULO IV
+    - Altera TÍTULO V
+    - Altera Artigo 273.º — Entrada em vigor
+    - Adita PARTE I
+    - Adita DISPOSIÇÕES COMUNS
+    - Adita OBJECTO
+    - Adita Artigo 1.º
+    - Adita PRINCÍPIOS ORÇAMENTAIS
+    - Adita CAPÍTULO 1
+    - Adita Princípios da unicidade e da verdade orçamental
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Princípio da anualidade
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita (Capítulo 4 do Regulamento Financeiro)
+    - Adita Princípio da unidade de conta
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita (Capítulo 5 do Regulamento Financeiro)
+    - Adita Princípio da universalidade
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita (Capítulo 6 do Regulamento Financeiro)
+    - Adita Princípio da especificação
+  - date: '2006-08-22'
+    amending: eu:celex:32006R1248:por
+    amending_title: REGULAMENTO (CE, EURATOM) N. o 1248/2006 DA COMISSÃO de 7 de Agosto de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 13.º
+    - Altera Artigo 21.º
+    - Altera Artigo 31.º
+    - Altera Artigo 45.º
+    - Altera Artigo 47.º
+    - Altera Artigo 54.º
+    - Altera Artigo 56.º
+    - Altera Artigo 60.º
+    - Altera Artigo 64.º
+    - Altera Artigo 66.º
+    - Altera Artigo 67.º
+    - Altera Artigo 68.º
+    - Altera Artigo 70.º
+    - Altera Artigo 73.º
+    - Altera Artigo 78.º
+    - Altera Artigo 81.º
+    - Altera Artigo 83.º
+    - Altera Artigo 84.º
+    - Altera Artigo 85.º
+    - Altera Artigo 86.º
+    - Altera Artigo 90.º
+    - Altera Artigo 94.º
+    - Altera Artigo 100.º
+    - Altera Artigo 101.º
+    - Altera Artigo 106.º
+    - Altera Artigo 114.º
+    - Altera Artigo 116.º
+    - Altera Artigo 118.º
+    - Altera Artigo 119.º
+    - Altera Artigo 126.º
+    - Altera Artigo 127.º
+    - Altera Artigo 128.º
+    - Altera Artigo 129.º
+    - Altera Artigo 130.º
+    - Altera Artigo 133.º
+    - Altera Artigo 134.º
+  - date: '2007-05-01'
+    amending: eu:celex:32007R0478:por
+    amending_title: REGULAMENTO (CE, EURATOM) N. o 478/2007 DA COMISSÃO de 23 de Abril de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+    - Altera Artigo 67.º
+    - Altera Artigo 72.º
+    - Altera Artigo 74.º
+    - Altera Artigo 75.º
+    - Altera Artigo 77.º
+    - Altera Artigo 81.º
+    - Altera Artigo 87.º
+    - Altera Artigo 94.º
+    - Altera Artigo 104.º
+    - Altera Artigo 106.º
+    - Altera Artigo 112.º
+    - Altera Artigo 115.º
+    - Altera Artigo 116.º
+  - date: '2008-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 13.º
+    - Altera Artigo 43.º-A
+    - Altera Artigo 106.º
+    - Altera Artigo 116.º
+    - Altera Artigo 133.º
+    - Altera Artigo 137.º
+    - Altera Artigo 143.º
+    - Altera Artigo 168.º
+    - Altera Artigo 180.º
+    - Altera Artigo 269.º
+    - Altera Notas
+  - date: '2009-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 13.º
+    - Altera Artigo 43.º-A
+    - Altera Artigo 116.º
+    - Altera Artigo 133.º
+    - Altera Artigo 137.º
+    - Altera Artigo 143.º
+    - Altera Artigo 168.º
+    - Altera Artigo 269.º
+    - Altera Notas
+    - Adita Artigo 134.º-A
+  - date: '2013-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime PARTE I
+    - Suprime DISPOSIÇÕES COMUNS
+    - Suprime TÍTULO I
+    - Suprime OBJECTO
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime TÍTULO II
+    - Suprime PRINCÍPIOS ORÇAMENTAIS
+    - Suprime CAPÍTULO 1
+    - Suprime Princípios da unicidade e da verdade orçamental
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 4.º-A
+    - Suprime CAPÍTULO 2
+    - Suprime Princípio da anualidade
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 6.º-A
+    - Suprime CAPÍTULO 3
+    - Suprime (Capítulo 4 do Regulamento Financeiro)
+    - Suprime Princípio da unidade de conta
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime CAPÍTULO 4
+    - Suprime (Capítulo 5 do Regulamento Financeiro)
+    - Suprime Princípio da universalidade
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 13.º-A
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime CAPÍTULO 5
+    - Suprime (Capítulo 6 do Regulamento Financeiro)
+    - Suprime Princípio da especificação
+    - Suprime Artigo 17.º
+    - Suprime Artigo 17.º-A
 identifiers:
   celex: 32002R2342
   eli: http://data.europa.eu/eli/reg/2002/2342/oj
@@ -49,7 +265,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/526688a4-f711-4bad-8667-2e5b32c67184.0010
   content_url: http://publications.europa.eu/resource/cellar/46c30d31-9642-4d9b-acaa-5d7b9e019571.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R2342-20130101
-  retrieved_at: '2026-10-22T03:11:02Z'
+  retrieved_at: '2026-10-22T14:54:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T13:48:43.452+01:00'
 integrity:
@@ -58,9 +274,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:02Z'
-  notes: Texto consolidado 02002R2342-20130101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:54:02Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2002-2342.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -263,16 +479,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:02Z'
+  checked_at: '2026-10-22T14:54:02Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02002R2342-20030101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

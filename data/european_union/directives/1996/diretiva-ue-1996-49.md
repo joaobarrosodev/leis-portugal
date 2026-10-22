@@ -34,6 +34,111 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-06-30'
+version_history:
+  file: diretiva-ue-1996-49.versoes.json
+  count: 6
+  source_lastmod: '2009-06-30'
+  versions:
+  - date: '1996-09-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-04-09'
+    amending: eu:celex:31996L0087:por
+    amending_title: M1; M2; DIRECTIVA 2000/62/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de Outubro de 2000; M4; M5; DECISÃO
+      DA COMISSÃO de 7 de Novembro de 2002; DIRECTIVA 2003/29/CE DA COMISSÃO Texto relevante para efeitos do EEE de 7 de Abril
+      de 2003
+    changes:
+    - Altera preambulo
+    - Adita CAPÍTULO I
+    - Adita Âmbito de aplicação
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita CAPÍTULO II
+    - Adita Derrogações, restrições e isenções
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita CAPÍTULO III
+    - Adita Disposições finais
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita ANEXO
+    - Adita Notas
+    - Suprime CAPÍTULO I Âmbito de aplicação — Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime CAPÍTULO II Derrogações, restrições e isenções — Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime CAPÍTULO III Disposições finais — Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Parte 1 — DISPOSIÇÕES GERAIS
+    - Suprime CAPÍTULO 1.1 — Âmbito de aplicação e aplicabilidade
+    - Suprime CAPÍTULO 1.2 — Definições e unidades de medida
+    - Suprime CAPÍTULO 1.3 — Formação das pessoas intervenientes no transporte de mercadorias perigosas
+    - Suprime CAPÍTULO 1.4 — Obrigações de segurança dos intervenientes
+    - Suprime CAPÍTULO 1.5 — Derrogações
+    - Suprime CAPÍTULO 1.6 — Medidas transitórias
+  - date: '2004-10-06'
+    amending: eu:celex:32004L0089:por
+    amending_title: DIRECTIVA 2004/89/CE DA COMISSÃO de 13 de Setembro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º
+    - Altera Artigo 9.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2004-12-30'
+    amending: eu:celex:32004L0110:por
+    amending_title: DIRECTIVA 2004/110/CE DA COMISSÃO Texto relevante para efeitos do EEE de 9 de Dezembro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2006-11-24'
+    amending: eu:celex:32006L0090:por
+    amending_title: DIRECTIVA 2006/90/CE DA COMISSÃO Texto relevante para efeitos do EEE de 3 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2009-06-30'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime Âmbito de aplicação
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime CAPÍTULO II
+    - Suprime Derrogações, restrições e isenções
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime CAPÍTULO III
+    - Suprime Disposições finais
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime ANEXO
+    - Suprime Notas
 identifiers:
   celex: 31996L0049
   eli: http://data.europa.eu/eli/dir/1996/49/oj
@@ -48,7 +153,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6867429a-f2b8-472f-b29e-4cf3fce5819a.0011
   content_url: http://publications.europa.eu/resource/cellar/7c13b6cb-16ba-489a-a5e7-c778031e525e.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0049-20090630
-  retrieved_at: '2026-10-22T02:40:22Z'
+  retrieved_at: '2026-10-22T14:45:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T23:48:49.456+01:00'
 integrity:
@@ -57,9 +162,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:22Z'
-  notes: Texto consolidado 01996L0049-20090630.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:45:14Z'
+  notes: 6 versão(ões); histórico completo em diretiva-ue-1996-49.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -193,16 +298,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:22Z'
+  checked_at: '2026-10-22T14:45:14Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01996L0049-20010221: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996L0049-20010701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

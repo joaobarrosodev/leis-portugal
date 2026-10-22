@@ -34,6 +34,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-1986-1764.versoes.json
+  count: 1
+  source_lastmod: '2004-05-01'
+  versions:
+  - date: '1986-06-07'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31986R1764
   eli: http://data.europa.eu/eli/reg/1986/1764/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2df59da8-a274-4c92-9810-50226784c1b7.0011
   content_url: http://publications.europa.eu/resource/cellar/2df59da8-a274-4c92-9810-50226784c1b7.0011.01/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:54:57Z'
+  retrieved_at: '2026-10-22T14:34:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T21:23:05.330+01:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:54:57Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:59Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-1986-1764.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -114,17 +123,18 @@ relationships:
 article_structure:
   article_count: 15
   section_count: 5
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:54:57Z'
+  checked_at: '2026-10-22T14:34:59Z'
   warnings:
-  - 'Versão consolidada 01986R1764-20040501 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
-  - Não foi detetado o título principal no XHTML.
+  - '01986R1764-19890701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01986R1764-19980727: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01986R1764-20010526: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01986R1764-20040501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

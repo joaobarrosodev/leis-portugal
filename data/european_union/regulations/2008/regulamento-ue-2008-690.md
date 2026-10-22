@@ -34,6 +34,95 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-14'
+version_history:
+  file: regulamento-ue-2008-690.versoes.json
+  count: 10
+  source_lastmod: '2019-12-14'
+  versions:
+  - date: '2008-07-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-01'
+    amending: eu:celex:32009R0823:por
+    amending_title: REGULAMENTO (CE) N. o 823/2009 DA COMISSÃO de 9 de Setembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita ANEXO III
+  - date: '2010-01-15'
+    amending: eu:celex:32010R0017:por
+    amending_title: REGULAMENTO (UE) N. o 17/2010 DA COMISSÃO de 8 de Janeiro de 2010
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera Notas
+  - date: '2010-04-29'
+    amending: eu:celex:32010R0361:por
+    amending_title: REGULAMENTO (UE) N. o 361/2010 DA COMISSÃO de 27 de Abril de 2010
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera Notas
+  - date: '2011-04-01'
+    amending: eu:celex:32011R0436:por
+    amending_title: Regulamento de Execução (UE) n. o 436/2011 da Comissão de 5 de Maio de 2011
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera Notas
+  - date: '2012-04-01'
+    amending: eu:celex:32012R0355:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 355/2012 DA COMISSÃO de 24 de abril de 2012
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera Notas
+  - date: '2014-04-01'
+    amending: eu:celex:32014R0707:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 707/2014 DA COMISSÃO de 25 de junho de 2014
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera Notas
+  - date: '2016-05-01'
+    amending: eu:celex:32016R0873:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2016/873 DA COMISSÃO de 1 de junho de 2016
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera Notas
+    - Adita Zonas da Comunidade reconhecidas como «zonas protegidas», em relação ao organismo ou organismos prejudiciais indicados
+      para cada zona
+  - date: '2018-05-01'
+    amending: eu:celex:32018R0791:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2018/791 DA COMISSÃO de 31 de maio de 2018
+    changes:
+    - Adita Zonas da Comunidade reconhecidas como «zonas protegidas», em relação ao organismo ou aos organismos prejudiciais
+      indicados para cada zona
+    - Suprime Zonas da Comunidade reconhecidas como «zonas protegidas», em relação ao organismo ou organismos prejudiciais
+      indicados para cada zona
+    - Suprime Notas
+  - date: '2019-12-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime ANEXO I
+    - Suprime Zonas da Comunidade reconhecidas como «zonas protegidas», em relação ao organismo ou aos organismos prejudiciais
+      indicados para cada zona
+    - Suprime ANEXO II
+    - Suprime PARTE A
+    - Suprime PARTE B
+    - Suprime ANEXO III
 identifiers:
   celex: 32008R0690
   eli: http://data.europa.eu/eli/reg/2008/690/oj
@@ -48,7 +137,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2b383d6d-0b68-4484-b174-45830f966ee1.0018
   content_url: http://publications.europa.eu/resource/cellar/fed18f0a-27e2-11ea-af81-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0690-20191214
-  retrieved_at: '2026-10-22T02:48:02Z'
+  retrieved_at: '2026-10-22T15:16:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T09:08:23.901+01:00'
 integrity:
@@ -57,9 +146,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:02Z'
-  notes: Texto consolidado 02008R0690-20191214.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:16:48Z'
+  notes: 10 versão(ões); histórico completo em regulamento-ue-2008-690.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -197,16 +286,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:02Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:16:48Z'
+  warnings: []
   errors: []
 ---
 

@@ -1,0 +1,285 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008R0482:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0482-20200102",
+ "dre_path": null,
+ "source_lastmod": "2020-01-02",
+ "versions": [
+  {
+   "date": "2008-05-31",
+   "future": false,
+   "celex": "32008R0482",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "676bd6fed8e3a19d",
+    "c50e8b04c3f2e617",
+    "b7115f607c791641",
+    "aa82ca62de014c0b",
+    "d6406a20efb11c47",
+    "2d2e97d4015c41c4",
+    "a3e5b4e563b3a60c",
+    "bb94ae2412156fab",
+    "714755a0f7716a43"
+   ]
+  },
+  {
+   "date": "2011-11-07",
+   "future": false,
+   "celex": "02008R0482-20111107",
+   "acts": [
+    {
+     "id": "eu:celex:32011R1035:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 1035/2011 DA COMISSÃO de 17 de Outubro de 2011",
+     "published": null,
+     "celex": "32011R1035"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 3.º — Requisitos gerais de segurança",
+    "Altera Artigo 4.º — Requisitos aplicáveis ao sistema de garantia de segurança do software",
+    "Altera Artigo 7.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Requisitos aplicáveis ao nível de garantia do software referido no n.º 2 do artigo 4.º",
+    "Adita ANEXO II",
+    "Adita Parte A: Requisitos aplicáveis à validade dos requisitos de segurança do software a que se refere o n.º 3, alínea a), do artigo 4.º",
+    "Adita Parte B: Requisitos aplicáveis às garantias de verificação do software a que se refere o n.º 3, alínea b), do artigo 4.º",
+    "Adita Parte C: Requisitos aplicáveis às garantias de gestão da configuração do software a que se refere o n.º 3, alínea c), do artigo 4.º",
+    "Adita Parte D: Requisitos aplicáveis às garantias de rastreabilidade dos requisitos de segurança do software a que se refere o n.º 3, alínea d), do artigo 4.º",
+    "Suprime Artigo 6.º — Alteração do Regulamento (CE) n.º 2096/2005"
+   ],
+   "fragments": [
+    "3b45d1811e198cfc",
+    "c50e8b04c3f2e617",
+    "76570d84814e7f35",
+    "82cdaa843e3daae6",
+    "3648172f80b56b0c",
+    "2d2e97d4015c41c4",
+    "47add55fd3e5c96a",
+    "d664376e2a8dcecd",
+    "196cec66f787e4ae",
+    "852174729551523b",
+    "dc719491d1bb7177",
+    "ce55f601af0e6b78",
+    "f52f09f913d6199d",
+    "4654972a0e2ddbba",
+    "49f86b1a194eaba8"
+   ]
+  },
+  {
+   "date": "2020-01-02",
+   "future": false,
+   "celex": "02008R0482-20200102",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto e âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Requisitos gerais de segurança",
+    "Suprime Artigo 4.º — Requisitos aplicáveis ao sistema de garantia de segurança do software",
+    "Suprime Artigo 5.º — Requisitos aplicáveis a alterações do software e a software específico",
+    "Suprime Artigo 7.º — Entrada em vigor",
+    "Suprime ANEXO I",
+    "Suprime Requisitos aplicáveis ao nível de garantia do software referido no n.º 2 do artigo 4.º",
+    "Suprime ANEXO II",
+    "Suprime Parte A: Requisitos aplicáveis à validade dos requisitos de segurança do software a que se refere o n.º 3, alínea a), do artigo 4.º",
+    "Suprime Parte B: Requisitos aplicáveis às garantias de verificação do software a que se refere o n.º 3, alínea b), do artigo 4.º",
+    "Suprime Parte C: Requisitos aplicáveis às garantias de gestão da configuração do software a que se refere o n.º 3, alínea c), do artigo 4.º",
+    "Suprime Parte D: Requisitos aplicáveis às garantias de rastreabilidade dos requisitos de segurança do software a que se refere o n.º 3, alínea d), do artigo 4.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "2bc0633165ce0194"
+   ]
+  }
+ ],
+ "fragments": {
+  "676bd6fed8e3a19d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Maio de 2008\n\nque estabelece um sistema de garantia de segurança do *software*, a aplicar pelos prestadores de serviços de navegação aérea, e que altera o anexo II do Regulamento (CE) n.º 2096/2005\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 550/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à prestação de serviços de navegação aérea no céu único europeu («regulamento relativo à prestação de serviços») [([^1])](http://publications.europa.eu/resource/cellar/5806e462-0226-4a4f-93b8-a13f89e0b5e8.0018.02/DOC_1#ntr1-L_2008141PT.01000501-E0001), nomeadamente o artigo 4.º,\n\nConsiderando o seguinte:\n\n(1) Nos termos do Regulamento (CE) n.º 550/2004, a Comissão deve identificar e adoptar as especificações regulamentares Eurocontrol sobre segurança (ESARR), tendo em conta a legislação comunitária vigente. As ESARR 6, denominadas «*Software* dos sistemas de gestão do tráfego aéreo», contêm uma série de especificações regulamentares sobre segurança, para a aplicação de um sistema de garantia de segurança do *software*.\n\n(2) O Regulamento (CE) n.º 2096/2005 da Comissão, de 20 de Dezembro de 2005, que estabelece requisitos comuns para a prestação de serviços de navegação aérea [([^2])](http://publications.europa.eu/resource/cellar/5806e462-0226-4a4f-93b8-a13f89e0b5e8.0018.02/DOC_1#ntr2-L_2008141PT.01000501-E0002), declara, na última frase do considerando 12, que «(as) disposições relevantes das ESARR 1, relativas à supervisão da segurança na gestão do tráfego aéreo, e das ESARR 6, relativas ao *software* dos sistemas de gestão do tráfego aéreo, devem ser identificadas e adoptadas por actos comunitários separados».\n\n(3) O anexo II do Regulamento (CE) n.º 2096/2005 impõe que os prestadores de serviços de navegação aérea apliquem um sistema de gestão da segurança, bem como requisitos de segurança para a avaliação e redução de riscos relativamente a alterações. No âmbito do seu sistema de gestão da segurança e das suas actividades de avaliação e redução de riscos relativamente a alterações, os prestadores de serviços de navegação aérea devem definir e aplicar um sistema de garantia de segurança do *software* que trate especificamente das questões relativas ao *software*.\n\n(4) Em termos de segurança do *software*, o principal objectivo a atingir pelos sistemas funcionais que o contêm consiste em assegurar que os riscos associados à utilização de *software* nos sistemas da Rede Europeia de Gestão do Tráfego Aéreo («*software* da REGTA») tenham sido reduzidos a um nível tolerável.\n\n(5) O presente regulamento não abrange as operações e treinos militares referidos no n.º 2 do artigo 1.º do Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu («regulamento quadro») [([^3])](http://publications.europa.eu/resource/cellar/5806e462-0226-4a4f-93b8-a13f89e0b5e8.0018.02/DOC_1#ntr3-L_2008141PT.01000501-E0003).\n\n(6) O anexo do Regulamento (CE) n.º 2096/2005 deve, por conseguinte, ser alterado em conformidade.\n\n(7) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Céu Único,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "c50e8b04c3f2e617": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. O presente regulamento estabelece os requisitos relativos à definição e à aplicação de um sistema de garantia de segurança do *software* por parte de prestadores de serviços de tráfego aéreo (ATS), entidades prestadoras de serviços de gestão de fluxos de tráfego aéreo (ATFM) e de serviços de gestão do espaço aéreo (ASM) e prestadores de serviços de comunicação, navegação e vigilância (CNS), para o tráfego aéreo geral.\n\nIdentifica e adopta as disposições vinculativas das especificações regulamentares do Eurocontrol sobre segurança — ESARR 6 –, denominadas «*Software* dos sistemas de gestão do tráfego aéreo», emitidas em 6 de Novembro de 2003.\n\n2. O presente regulamento aplica-se ao novo *software* e a quaisquer alterações do *software* utilizado nos sistemas de ATS, ASM, ATFM e CNS.\n\nO presente regulamento não se aplica ao *software* de elementos aerotransportados ou ao equipamento espacial."
+  },
+  "b7115f607c791641": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, são aplicáveis as definições do artigo 2.º do Regulamento (CE) n.º 549/2004.\n\nSão também aplicáveis as seguintes definições:\n\n1. «*Software*»: programas informáticos e correspondentes dados de configuração, incluindo *software* extrínseco, mas excluindo elementos electrónicos, nomeadamente circuitos integrados de aplicação específica, matrizes de portas lógicas programáveis ou controladores lógicos de estado sólido;\n\n2. «Dados de configuração»: dados que configuram um sistema de *software* genérico para uma determinada utilização;\n\n3. «*Software* extrínseco»: *software* não desenvolvido para o contrato actual;\n\n4. «Garantia de segurança»: o conjunto de acções planeadas e sistemáticas necessárias para proporcionar a confiança adequada na obtenção de um nível de segurança aceitável ou tolerável para um produto, serviço, organização ou sistema funcional;\n\n5. «Organização»: um prestador de ATS, um prestador de serviços CNS ou uma entidade prestadora de serviços ATFM ou ASM;\n\n6. «Sistema funcional»: uma combinação de sistemas, procedimentos e recursos humanos organizados para desempenhar uma função no contexto da gestão do tráfego aéreo (ATM);\n\n7. «Risco»: a combinação da probabilidade global ou da frequência de ocorrência de um efeito nocivo induzido por uma situação de perigo e a gravidade desse efeito;\n\n8. «Situação de perigo»: qualquer situação, acontecimento ou circunstância susceptível de causar um acidente;\n\n9. «Novo *software*»: um *software* encomendado ou relativamente ao qual foram assinados contratos vinculativos após a entrada em vigor do presente regulamento;\n\n10. «Objectivo de segurança»: uma declaração qualitativa ou quantitativa que define a frequência ou a probabilidade máximas previsíveis de ocorrência de uma situação de perigo;\n\n11. «Requisito de segurança»: um meio de redução do risco, definido no contexto de uma estratégia de redução do risco, que permite atingir um objectivo de segurança específico, incluindo requisitos organizacionais, operacionais, processuais, funcionais, de desempenho e de interoperabilidade e/ou características ambientais;\n\n12. «Transferência (*cutover*) ou permuta a quente (*hot swapping*)»: substituição de componentes ou de *software* de um sistema da Rede Europeia de Gestão do Tráfego Aéreo (REGTA) enquanto o sistema está operacional;\n\n13. «Requisito de segurança do *software*»: descrição do que deve ser produzido pelo *software* em função dos *inputs* (dados introduzidos) e dos condicionalismos e que, se for de facto produzido, assegurará que o *software* da REGTA funcionará em segurança e de acordo com as necessidades operacionais;\n\n14. «*Software* da REGTA»: *software* utilizado nos sistemas da rede europeia de gestão do tráfego aéreo a que se refere o artigo 1.º;\n\n15. «Validade dos requisitos»: confirmação, mediante exame e fornecimento de prova objectiva, de que os requisitos relativos a uma utilização específica correspondem ao pretendido;\n\n16. «Execução com independência»: execução das actividades do processo de verificação do *software* por pessoas distintas daquelas que desenvolveram o produto sujeito a verificação;\n\n17. «Anomalia do *software*»: incapacidade de um programa para executar correctamente uma função requerida;\n\n18. «Falha do *software*»: incapacidade de um programa para executar uma função requerida;\n\n19. «COTS»: aplicação comercializada publicamente por catálogo e que não se destina a ser adaptada ao utilizador ou aperfeiçoada;\n\n20. «Componentes de *software*»: bloco constituinte que pode ser adaptado ou ligado a outros constituintes reutilizáveis do *software*, para combinar e criar uma aplicação de *software* adaptada ao utilizador;\n\n21. «Componentes de *software* independentes»: componentes de *software* que não ficam inoperacionais pela mesma situação de falha que causa a situação de perigo;\n\n22. «Desempenho do *software* em termos de tempo»: tempo concedido ao *software* para responder aos dados introduzidos ou a ocorrências periódicas e/ou desempenho do software em termos de transacções ou mensagens tratadas por unidade de tempo;\n\n23. «Capacidade do *software*»: aptidão do *software* para processar um determinado fluxo de dados;\n\n24. «Precisão»: exactidão requerida para os resultados calculados;\n\n25. «Utilização dos recursos de *software*»: quantidade de recursos do sistema informático que podem ser utilizados pelo *software* da aplicação;\n\n26. «Robustez do *software*»: comportamento do *software* na eventualidade de introdução de dados inesperados, falhas do equipamento e interrupções da alimentação energética, quer no próprio sistema informático quer em dispositivos a ele ligados;\n\n27. «Tolerância à sobrecarga»: comportamento do sistema na eventualidade de uma introdução de dados a ritmo superior ao esperado durante o seu funcionamento normal e, em especial, tolerância do sistema a essa eventualidade;\n\n28. «Verificação correcta e completa do *software* da REGTA»: todos os requisitos de segurança do *software* especificam correctamente o que o processo de avaliação e redução de riscos requer do componente de *software* e o seu cumprimento é demonstrado ao nível que o sistema de garantia requer;\n\n29. «Dados do ciclo de vida do *software*»: dados produzidos durante o ciclo de vida do *software* para planear, dirigir, explicar, definir, registar ou comprovar actividades; estes dados possibilitam os processos do ciclo de vida do *software*, a aprovação do sistema ou equipamento e a modificação pós-aprovação do produto de *software*;\n\n30. «Ciclo de vida do *software*»: a) Série ordenada de processos que uma organização determina como suficientes e adequados para produzir um produto de *software*; b) Intervalo de tempo que se inicia com a decisão de produzir ou modificar um produto de *software*e e termina quando o produto é retirado do serviço;\n\na) Série ordenada de processos que uma organização determina como suficientes e adequados para produzir um produto de *software*;\n\nb) Intervalo de tempo que se inicia com a decisão de produzir ou modificar um produto de *software*e e termina quando o produto é retirado do serviço;\n\n31. «Requisito de segurança do sistema»: requisito de segurança derivado para um sistema funcional."
+  },
+  "aa82ca62de014c0b": {
+   "fragment_id": "Artigo 3.º — Requisitos gerais de segurança",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Requisitos gerais de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos gerais de segurança\n\n1. Se a uma organização for requerida a execução de um processo de avaliação e redução de riscos em conformidade com as disposições comunitárias ou nacionais aplicáveis, a organização definirá e porá em prática um sistema de garantia de segurança do *software*, dedicado especificamente a questões relacionadas com o *software* da REGTA, incluindo todas as alterações operacionais em linha do *software*, em particular a transferência ou a permuta a quente.\n\n2. A organização assegurará, no mínimo, que o seu sistema de garantia de segurança do *software* forneça provas e argumentos que demonstrem o seguinte:\n\na) Os requisitos de segurança do *software* especificam correctamente o que o *software* requer para se cumprirem os objectivos e requisitos de segurança identificados pelo processo de avaliação e redução de riscos;\n\nb) A rastreabilidade aplica-se a todos os requisitos de segurança do *software*;\n\nc) A implementação do *software* não contém funções que afectem adversamente a segurança;\n\nd) O *software* da REGTA satisfaz os seus requisitos com um nível de confiança coerente com a importância crítica do *software*;\n\ne) São fornecidas garantias assegurando que os requisitos gerais de segurança estabelecidos nas alíneas a) a d) são satisfeitos, e os argumentos para demonstrar a garantias requeridas são sempre derivados de: i) uma versão do *software* conhecida e executável, ii) uma gama conhecida de dados de configuração, iii) um conjunto conhecido de produtos e descrições de *software*, incluindo especificações, utilizados na produção daquela versão.\n\ni) uma versão do *software* conhecida e executável,\n\nii) uma gama conhecida de dados de configuração,\n\niii) um conjunto conhecido de produtos e descrições de *software*, incluindo especificações, utilizados na produção daquela versão.\n\n3. A organização disponibilizará à autoridade supervisora nacional as garantias requeridas, demonstrando que os requisitos referidos no n.º 2 foram satisfeitos."
+  },
+  "d6406a20efb11c47": {
+   "fragment_id": "Artigo 4.º — Requisitos aplicáveis ao sistema de garantia de segurança do software",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Requisitos aplicáveis ao sistema de garantia de segurança do software",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos aplicáveis ao sistema de garantia de segurança do software\n\nA organização assegurará, no mínimo, que o sistema de garantia de segurança do *software*:\n\n1. Seja documentado, como parte específica da documentação relativa ao processo geral de avaliação e redução de riscos;\n\n2. Atribua níveis de garantia a todo o *software* operacional da REGTA, em conformidade com os requisitos constantes do anexo I;\n\n3. Inclua garantias de: a) validade dos requisitos de segurança do *software*, em conformidade com o anexo II, parte A; b) Verificação do *software*, em conformidade com o anexo II, parte B; c) Gestão da configuração do *software*, em conformidade com o anexo II, parte C, d) Rastreabilidade dos requisitos de segurança do *software*, em conformidade com o anexo II, parte D;\n\na) validade dos requisitos de segurança do *software*, em conformidade com o anexo II, parte A;\n\nb) Verificação do *software*, em conformidade com o anexo II, parte B;\n\nc) Gestão da configuração do *software*, em conformidade com o anexo II, parte C,\n\nd) Rastreabilidade dos requisitos de segurança do *software*, em conformidade com o anexo II, parte D;\n\n4. Determine o rigor com o qual as garantias são estabelecidas. O rigor será definido para cada nível de garantia do *software* e aumentará na medida em que a importância do *software* se tornar mais crítica. Para este efeito: a) A variação no rigor das garantias por cada nível de garantia do *software* corresponderá aos seguintes critérios: i) deve ser conseguida com independência, ii) deve ser conseguida, iii) não é requerida; b) As garantias correspondentes a cada nível de garantia do *software* darão suficiente confiança de que o *software* da REGTA pode ser utilizado com segurança tolerável;\n\na) A variação no rigor das garantias por cada nível de garantia do *software* corresponderá aos seguintes critérios: i) deve ser conseguida com independência, ii) deve ser conseguida, iii) não é requerida;\n\ni) deve ser conseguida com independência,\n\nii) deve ser conseguida,\n\niii) não é requerida;\n\nb) As garantias correspondentes a cada nível de garantia do *software* darão suficiente confiança de que o *software* da REGTA pode ser utilizado com segurança tolerável;\n\n5. Aproveite a experiência do *software* da REGTA para confirmar que o sistema de garantia de segurança do *software* e os níveis de garantia atribuídos são adequados. Para isso, os efeitos de qualquer anomalia ou falha do *software*, comunicada de acordo com os pertinentes requisitos em matéria de comunicação e avaliação de ocorrências relacionadas com a segurança, serão avaliados em comparação com os efeitos identificados para o sistema em causa segundo a grelha de classificação da gravidade estabelecida no Regulamento (CE) n.º 2096/2005 da Comissão, anexo II, ponto 3.2.4."
+  },
+  "2d2e97d4015c41c4": {
+   "fragment_id": "Artigo 5.º — Requisitos aplicáveis a alterações do software e a software específico",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Requisitos aplicáveis a alterações do software e a software específico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos aplicáveis a alterações do software e a software específico\n\n1. No caso de alterações do *software* ou de tipos específicos de *software*, como uma COTS, um *software* extrínseco ou um *software* previamente utilizado ao qual não podem ser aplicados alguns dos requisitos constantes do n.º 2, alíneas d) ou e), do artigo 3.º ou dos n.^os^ 2, 3, 4 ou 5 do artigo 4.º, a organização assegurará que o sistema de garantia de segurança do *software* proporcione, por outros meios escolhidos e acordados com a autoridade supervisora nacional, o mesmo nível de confiança que o nível de garantia eventualmente definido para o *software*.\n\nEstes meios darão suficiente confiança de que o *software* cumpre os objectivos e requisitos de segurança identificados pelo processo de avaliação e redução de riscos.\n\n2. Na avaliação dos meios referidos no n.º 1, a autoridade supervisora nacional poderá recorrer a uma organização reconhecida ou a um organismo notificado."
+  },
+  "a3e5b4e563b3a60c": {
+   "fragment_id": "Artigo 6.º — Alteração do Regulamento (CE) n.º 2096/2005",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Alteração do Regulamento (CE) n.º 2096/2005",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração do Regulamento (CE) n.º 2096/2005\n\nAo anexo II do Regulamento (CE) n.º 2096/2005 é aditado o seguinte ponto:\n\nNo âmbito do funcionamento do sistema de gestão da segurança, os prestadores de serviços de tráfego aéreo devem aplicar um sistema de garantia de segurança do *software* em conformidade com o Regulamento (CE) n.º 482/2008 da Comissão, de 30 de Maio de 2008, [que estabelece um sistema de garantia de segurança do *software*, a aplicar pelos prestadores de serviços de navegação aérea, e que altera o Regulamento (CE) n.º 2096/2005[([^*1])](http://publications.europa.eu/resource/cellar/5806e462-0226-4a4f-93b8-a13f89e0b5e8.0018.02/DOC_1#ntr*1-L_2008141PT.01000501-E0004)].\n\n---"
+  },
+  "bb94ae2412156fab": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^*1^)](http://publications.europa.eu/resource/cellar/5806e462-0226-4a4f-93b8-a13f89e0b5e8.0018.02/DOC_1#ntc*1-L_2008141PT.01000501-E0004) [JO L 141 de 31.5.2008, p. 5](http://publications.europa.eu/resource/oj/JOL_2008_141_R_TOC).».\""
+  },
+  "714755a0f7716a43": {
+   "fragment_id": "Artigo 7.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Janeiro de 2009 ao novo *software* dos sistemas da REGTA referidos no n.º 2 do artigo 1.º\n\nÉ aplicável a partir de 1 de Julho de 2010 a todas as alterações do *software* utilizado nos sistemas da REGTA aos quais se refere o n.º 2 do artigo 1.º e que àquela data estejam em funcionamento.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 30 de Maio de 2008.\n\n***Pela Comissão***\n\n**Antonio TAJANI**\n\n***Membro da Comissão***\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/5806e462-0226-4a4f-93b8-a13f89e0b5e8.0018.02/DOC_1#ntc1-L_2008141PT.01000501-E0001) [JO L 96 de 31.3.2004, p. 10](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/5806e462-0226-4a4f-93b8-a13f89e0b5e8.0018.02/DOC_1#ntc2-L_2008141PT.01000501-E0002) [JO L 335 de 21.12.2005, p. 13](http://publications.europa.eu/resource/oj/JOL_2005_335_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 1315/2007 ([JO L 291 de 9.11.2007, p. 16](http://publications.europa.eu/resource/oj/JOL_2007_291_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/5806e462-0226-4a4f-93b8-a13f89e0b5e8.0018.02/DOC_1#ntc3-L_2008141PT.01000501-E0003) [JO L 96 de 31.3.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC)."
+  },
+  "3b45d1811e198cfc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Maio de 2008\n\nque estabelece um sistema de garantia de segurança do *software*, a aplicar pelos prestadores de serviços de navegação aérea, e que altera o anexo II do Regulamento (CE) n.º 2096/2005\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 550/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à prestação de serviços de navegação aérea no céu único europeu («regulamento relativo à prestação de serviços») ([^1^](http://publications.europa.eu/resource/cellar/9d38879a-dac4-49ac-8122-c4af4796089a.0019.03/DOC_1#E0001)), nomeadamente o artigo 4.º,\n\n(1) Nos termos do Regulamento (CE) n.º 550/2004, a Comissão deve identificar e adoptar as especificações regulamentares Eurocontrol sobre segurança (ESARR), tendo em conta a legislação comunitária vigente. As ESARR 6, denominadas «*Software* dos sistemas de gestão do tráfego aéreo», contêm uma série de especificações regulamentares sobre segurança, para a aplicação de um sistema de garantia de segurança do *software*.\n\n(2) O Regulamento (CE) n.º 2096/2005 da Comissão, de 20 de Dezembro de 2005, que estabelece requisitos comuns para a prestação de serviços de navegação aérea ([^2^](http://publications.europa.eu/resource/cellar/9d38879a-dac4-49ac-8122-c4af4796089a.0019.03/DOC_1#E0002)), declara, na última frase do considerando 12, que «(as) disposições relevantes das ESARR 1, relativas à supervisão da segurança na gestão do tráfego aéreo, e das ESARR 6, relativas ao *software* dos sistemas de gestão do tráfego aéreo, devem ser identificadas e adoptadas por actos comunitários separados».\n\n(3) O anexo II do Regulamento (CE) n.º 2096/2005 impõe que os prestadores de serviços de navegação aérea apliquem um sistema de gestão da segurança, bem como requisitos de segurança para a avaliação e redução de riscos relativamente a alterações. No âmbito do seu sistema de gestão da segurança e das suas actividades de avaliação e redução de riscos relativamente a alterações, os prestadores de serviços de navegação aérea devem definir e aplicar um sistema de garantia de segurança do *software* que trate especificamente das questões relativas ao *software*.\n\n(4) Em termos de segurança do *software*, o principal objectivo a atingir pelos sistemas funcionais que o contêm consiste em assegurar que os riscos associados à utilização de *software* nos sistemas da Rede Europeia de Gestão do Tráfego Aéreo («*software* da REGTA») tenham sido reduzidos a um nível tolerável.\n\n(5) O presente regulamento não abrange as operações e treinos militares referidos no n.º 2 do artigo 1.º do Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu («regulamento quadro») ([^3^](http://publications.europa.eu/resource/cellar/9d38879a-dac4-49ac-8122-c4af4796089a.0019.03/DOC_1#E0003)).\n\n(6) O anexo do Regulamento (CE) n.º 2096/2005 deve, por conseguinte, ser alterado em conformidade.\n\n(7) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Céu Único,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "76570d84814e7f35": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, são aplicáveis as definições do artigo 2.º do Regulamento (CE) n.º 549/2004.\n\nSão também aplicáveis as seguintes definições:\n\n1. «*Software*»: programas informáticos e correspondentes dados de configuração, incluindo *software* extrínseco, mas excluindo elementos electrónicos, nomeadamente circuitos integrados de aplicação específica, matrizes de portas lógicas programáveis ou controladores lógicos de estado sólido;\n\n2. «Dados de configuração»: dados que configuram um sistema de *software* genérico para uma determinada utilização;\n\n3. «*Software* extrínseco»: *software* não desenvolvido para o contrato actual;\n\n4. «Garantia de segurança»: o conjunto de acções planeadas e sistemáticas necessárias para proporcionar a confiança adequada na obtenção de um nível de segurança aceitável ou tolerável para um produto, serviço, organização ou sistema funcional;\n\n5. «Organização»: um prestador de ATS, um prestador de serviços CNS ou uma entidade prestadora de serviços ATFM ou ASM;\n\n6. «Sistema funcional»: uma combinação de sistemas, procedimentos e recursos humanos organizados para desempenhar uma função no contexto da gestão do tráfego aéreo (ATM);\n\n7. «Risco»: a combinação da probabilidade global ou da frequência de ocorrência de um efeito nocivo induzido por uma situação de perigo e a gravidade desse efeito;\n\n8. «Situação de perigo»: qualquer situação, acontecimento ou circunstância susceptível de causar um acidente;\n\n9. «Novo *software*»: um *software* encomendado ou relativamente ao qual foram assinados contratos vinculativos após a entrada em vigor do presente regulamento;\n\n10. «Objectivo de segurança»: uma declaração qualitativa ou quantitativa que define a frequência ou a probabilidade máximas previsíveis de ocorrência de uma situação de perigo;\n\n11. «Requisito de segurança»: um meio de redução do risco, definido no contexto de uma estratégia de redução do risco, que permite atingir um objectivo de segurança específico, incluindo requisitos organizacionais, operacionais, processuais, funcionais, de desempenho e de interoperabilidade e/ou características ambientais;\n\n12. «Transferência (*cutover*) ou permuta a quente (*hot swapping*)»: substituição de componentes ou de *software* de um sistema da Rede Europeia de Gestão do Tráfego Aéreo (REGTA) enquanto o sistema está operacional;\n\n13. «Requisito de segurança do *software*»: descrição do que deve ser produzido pelo *software* em função dos *inputs* (dados introduzidos) e dos condicionalismos e que, se for de facto produzido, assegurará que o *software* da REGTA funcionará em segurança e de acordo com as necessidades operacionais;\n\n14. «*Software* da REGTA»: *software* utilizado nos sistemas da rede europeia de gestão do tráfego aéreo a que se refere o artigo 1.º;\n\n15. «Validade dos requisitos»: confirmação, mediante exame e fornecimento de prova objectiva, de que os requisitos relativos a uma utilização específica correspondem ao pretendido;\n\n16. «Execução com independência»: execução das actividades do processo de verificação do *software* por pessoas distintas daquelas que desenvolveram o produto sujeito a verificação;\n\n17. «Anomalia do *software*»: incapacidade de um programa para executar correctamente uma função requerida;\n\n18. «Falha do *software*»: incapacidade de um programa para executar uma função requerida;\n\n19. «COTS»: aplicação comercializada publicamente por catálogo e que não se destina a ser adaptada ao utilizador ou aperfeiçoada;\n\n20. «Componentes de *software*»: bloco constituinte que pode ser adaptado ou ligado a outros constituintes reutilizáveis do *software*, para combinar e criar uma aplicação de *software* adaptada ao utilizador;\n\n21. «Componentes de *software* independentes»: componentes de *software* que não ficam inoperacionais pela mesma situação de falha que causa a situação de perigo;\n\n22. «Desempenho do *software* em termos de tempo»: tempo concedido ao *software* para responder aos dados introduzidos ou a ocorrências periódicas e/ou desempenho do software em termos de transacções ou mensagens tratadas por unidade de tempo;\n\n23. «Capacidade do *software*»: aptidão do *software* para processar um determinado fluxo de dados;\n\n24. «Precisão»: exactidão requerida para os resultados calculados;\n\n25. «Utilização dos recursos de *software*»: quantidade de recursos do sistema informático que podem ser utilizados pelo *software* da aplicação;\n\n26. «Robustez do *software*»: comportamento do *software* na eventualidade de introdução de dados inesperados, falhas do equipamento e interrupções da alimentação energética, quer no próprio sistema informático quer em dispositivos a ele ligados;\n\n27. «Tolerância à sobrecarga»: comportamento do sistema na eventualidade de uma introdução de dados a ritmo superior ao esperado durante o seu funcionamento normal e, em especial, tolerância do sistema a essa eventualidade;\n\n28. «Verificação correcta e completa do *software* da REGTA»: todos os requisitos de segurança do *software* especificam correctamente o que o processo de avaliação e redução de riscos requer do componente de *software* e o seu cumprimento é demonstrado ao nível que o sistema de garantia requer;\n\n29. «Dados do ciclo de vida do *software*»: dados produzidos durante o ciclo de vida do *software* para planear, dirigir, explicar, definir, registar ou comprovar actividades; estes dados possibilitam os processos do ciclo de vida do *software*, a aprovação do sistema ou equipamento e a modificação pós-aprovação do produto de *software*;\n\n30. «Ciclo de vida do *software*»:\n\na) Série ordenada de processos que uma organização determina como suficientes e adequados para produzir um produto de *software*;\n\nb) Intervalo de tempo que se inicia com a decisão de produzir ou modificar um produto de *software*e e termina quando o produto é retirado do serviço;\n\n31. «Requisito de segurança do sistema»: requisito de segurança derivado para um sistema funcional."
+  },
+  "82cdaa843e3daae6": {
+   "fragment_id": "Artigo 3.º — Requisitos gerais de segurança",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Requisitos gerais de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos gerais de segurança\n\n1. Se a uma organização for requerida a execução de um processo de avaliação e redução de riscos em conformidade com as disposições comunitárias ou nacionais aplicáveis, a organização definirá e porá em prática um sistema de garantia de segurança do *software*, dedicado especificamente a questões relacionadas com o *software* da REGTA, incluindo todas as alterações operacionais em linha do *software*, em particular a transferência ou a permuta a quente.\n\n2. A organização assegurará, no mínimo, que o seu sistema de garantia de segurança do *software* forneça provas e argumentos que demonstrem o seguinte:\n\na) Os requisitos de segurança do *software* especificam correctamente o que o *software* requer para se cumprirem os objectivos e requisitos de segurança identificados pelo processo de avaliação e redução de riscos;\n\nb) A rastreabilidade aplica-se a todos os requisitos de segurança do *software*;\n\nc) A implementação do *software* não contém funções que afectem adversamente a segurança;\n\nd) O *software* da REGTA satisfaz os seus requisitos com um nível de confiança coerente com a importância crítica do *software*;\n\ne) São fornecidas garantias assegurando que os requisitos gerais de segurança estabelecidos nas alíneas a) a d) são satisfeitos, e os argumentos para demonstrar a garantias requeridas são sempre derivados de:\n\ni) uma versão do *software* conhecida e executável,\n\nii) uma gama conhecida de dados de configuração,\n\niii) um conjunto conhecido de produtos e descrições de *software*, incluindo especificações, utilizados na produção daquela versão.\n\n3. A organização disponibilizará à autoridade supervisora nacional as garantias requeridas, demonstrando que os requisitos referidos no n.º 2 foram satisfeitos."
+  },
+  "3648172f80b56b0c": {
+   "fragment_id": "Artigo 4.º — Requisitos aplicáveis ao sistema de garantia de segurança do software",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Requisitos aplicáveis ao sistema de garantia de segurança do software",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos aplicáveis ao sistema de garantia de segurança do software\n\nA organização assegurará, no mínimo, que o sistema de garantia de segurança do *software*:\n\n1. Seja documentado, como parte específica da documentação relativa ao processo geral de avaliação e redução de riscos;\n\n2. Atribua níveis de garantia a todo o *software* operacional da REGTA, em conformidade com os requisitos constantes do anexo I;\n\n3. Inclua garantias de:\n\na) validade dos requisitos de segurança do *software*, em conformidade com o anexo II, parte A;\n\nb) Verificação do *software*, em conformidade com o anexo II, parte B;\n\nc) Gestão da configuração do *software*, em conformidade com o anexo II, parte C,\n\nd) Rastreabilidade dos requisitos de segurança do *software*, em conformidade com o anexo II, parte D;\n\n4. Determine o rigor com o qual as garantias são estabelecidas. O rigor será definido para cada nível de garantia do *software* e aumentará na medida em que a importância do *software* se tornar mais crítica. Para este efeito:\n\na) A variação no rigor das garantias por cada nível de garantia do *software* corresponderá aos seguintes critérios:\n\ni) deve ser conseguida com independência,\n\nii) deve ser conseguida,\n\niii) não é requerida;\n\nb) As garantias correspondentes a cada nível de garantia do *software* darão suficiente confiança de que o *software* da REGTA pode ser utilizado com segurança tolerável;\n\n5. Aproveite a experiência do *software* da REGTA para confirmar que o sistema de garantia de segurança do *software* e os níveis de garantia atribuídos são adequados. Para isso, os efeitos de qualquer anomalia ou falha do *software*, comunicada de acordo com os pertinentes requisitos em matéria de comunicação e avaliação de ocorrências relacionadas com a segurança, serão avaliados em comparação com os efeitos identificados para o sistema em causa segundo a grelha de classificação da gravidade estabelecida no [**►M1**](http://publications.europa.eu/resource/celex/32011R1035) Regulamento de Execução (UE) n.º 1035/2011 ([^4^](http://publications.europa.eu/resource/cellar/9d38879a-dac4-49ac-8122-c4af4796089a.0019.03/DOC_1#E0004))**◄** da Comissão, anexo II, ponto 3.2.4."
+  },
+  "47add55fd3e5c96a": {
+   "fragment_id": "Artigo 7.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Janeiro de 2009 ao novo *software* dos sistemas da REGTA referidos no n.º 2 do artigo 1.º\n\nÉ aplicável a partir de 1 de Julho de 2010 a todas as alterações do *software* utilizado nos sistemas da REGTA aos quais se refere o n.º 2 do artigo 1.º e que àquela data estejam em funcionamento.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "196cec66f787e4ae": {
+   "fragment_id": "Requisitos aplicáveis ao nível de garantia do software referido no n.º 2 do artigo 4.º",
+   "type": "divisao",
+   "heading": "Requisitos aplicáveis ao nível de garantia do software referido no n.º 2 do artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos aplicáveis ao nível de garantia do software referido no n.º 2 do artigo 4.º\n\n1. O nível de garantia do *software* associará o rigor das garantias do *software* à importância crítica do *software* da REGTA, utilizando a grelha de classificação da gravidade constante estabelecidos na secção 4 do ponto 3.2.4 do anexo II do [**►M1**](http://publications.europa.eu/resource/celex/32011R1035) Regulamento de Execução (UE) n.º 1035/2011**◄** da Comissão, de 20 de Dezembro de 2005, em combinação com a probabilidade de ocorrência de um determinado efeito grave. Identificar-se-ão, pelo menos, quatro níveis de garantia do *software*, sendo o nível 1 o mais crítico.\n\n2. O nível de garantia atribuído ao *software* será proporcional ao efeito mais grave que as anomalias ou falhas do *software* possam causar, tal como referido na secção 4 do ponto 3.2.4 do anexo II do [**►M1**](http://publications.europa.eu/resource/celex/32011R1035) Regulamento de Execução (UE) n.º 1035/2011**◄**. Serão tidos em conta, nomeadamente, os riscos associados a anomalias ou falhas do *software* e as medidas de defesa arquitecturais e/ou processuais identificadas.\n\n3. Aos componentes do *software* da REGTA cuja independência mútua não puder ser demonstrada será atribuído o nível de garantia dos componentes dependentes mais críticos."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "dc719491d1bb7177": {
+   "fragment_id": "Parte A: Requisitos aplicáveis à validade dos requisitos de segurança do software a que se refere o n.º 3, alínea a), do artigo 4.º",
+   "type": "divisao",
+   "heading": "Parte A: Requisitos aplicáveis à validade dos requisitos de segurança do software a que se refere o n.º 3, alínea a), do artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: Requisitos aplicáveis à validade dos requisitos de segurança do software a que se refere o n.º 3, alínea a), do artigo 4.º\n\n1. Os requisitos de segurança do *software* especificarão o comportamento funcional, nos modos nominal e degradado, do *software* da REGTA, o desempenho em termos de tempo, a capacidade, a precisão, a utilização dos recursos de *software* no equipamento-alvo, a robustez em condições de funcionamento anormais e a tolerância à sobrecarga, conforme o caso.\n\n2. Os requisitos de segurança do *software* serão completos e correctos e cumprirão os requisitos de segurança do sistema."
+  },
+  "ce55f601af0e6b78": {
+   "fragment_id": "Parte B: Requisitos aplicáveis às garantias de verificação do software a que se refere o n.º 3, alínea b), do artigo 4.º",
+   "type": "divisao",
+   "heading": "Parte B: Requisitos aplicáveis às garantias de verificação do software a que se refere o n.º 3, alínea b), do artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: Requisitos aplicáveis às garantias de verificação do software a que se refere o n.º 3, alínea b), do artigo 4.º\n\n1. O comportamento funcional do *software* da REGTA, o desempenho em termos de tempo, a capacidade, a precisão, a utilização dos recursos de *software* no equipamento-alvo, a robustez em condições de funcionamento anormais e a tolerância à sobrecarga cumprirão os requisitos do *software*.\n\n2. O *software* da REGTA será adequadamente verificado por análise e/ou ensaio e/ou meios equivalentes, conforme acordado com a autoridade supervisora nacional.\n\n3. A verificação do *software* da REGTA será correcta e completa."
+  },
+  "f52f09f913d6199d": {
+   "fragment_id": "Parte C: Requisitos aplicáveis às garantias de gestão da configuração do software a que se refere o n.º 3, alínea c), do artigo 4.º",
+   "type": "divisao",
+   "heading": "Parte C: Requisitos aplicáveis às garantias de gestão da configuração do software a que se refere o n.º 3, alínea c), do artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte C: Requisitos aplicáveis às garantias de gestão da configuração do software a que se refere o n.º 3, alínea c), do artigo 4.º\n\n1. Haverá identificação, rastreabilidade e tomada em conta do estatuto da configuração, de modo a poder demonstrar que a configuração dos dados relativos ao ciclo de vida do *software* está sob controlo ao longo de todo o ciclo de vida do *software* da REGTA.\n\n2. Haverá comunicação e rastreio de problemas e correspondentes acções correctivas, de modo a poder demonstrar a redução dos problemas de segurança associados ao *software*.\n\n3. Haverá procedimentos de restauração e disponibilização que permitam regenerar e apresentar os dados relativos ao ciclo de vida do *software* ao longo de todo o ciclo de vida do *software* da REGTA."
+  },
+  "4654972a0e2ddbba": {
+   "fragment_id": "Parte D: Requisitos aplicáveis às garantias de rastreabilidade dos requisitos de segurança do software a que se refere o n.º 3, alínea d), do artigo 4.º",
+   "type": "divisao",
+   "heading": "Parte D: Requisitos aplicáveis às garantias de rastreabilidade dos requisitos de segurança do software a que se refere o n.º 3, alínea d), do artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte D: Requisitos aplicáveis às garantias de rastreabilidade dos requisitos de segurança do software a que se refere o n.º 3, alínea d), do artigo 4.º\n\n1. Cada um dos requisitos de segurança do *software* será rastreado de acordo com o nível de concepção cujo cumprimento seja demonstrado.\n\n2. Cada um dos requisitos de segurança do *software*, a cada nível de concepção cujo cumprimento seja demonstrado, será rastreado de acordo com um requisito de segurança do sistema.\n\n---"
+  },
+  "49f86b1a194eaba8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9d38879a-dac4-49ac-8122-c4af4796089a.0019.03/DOC_1#src.E0001)) JO L 96 de 31.3.2004, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9d38879a-dac4-49ac-8122-c4af4796089a.0019.03/DOC_1#src.E0002)) JO L 335 de 21.12.2005, p. 13. Regulamento alterado pelo Regulamento (CE) n.º 1315/2007 (JO L 291 de 9.11.2007, p. 16).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9d38879a-dac4-49ac-8122-c4af4796089a.0019.03/DOC_1#src.E0003)) JO L 96 de 31.3.2004, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/9d38879a-dac4-49ac-8122-c4af4796089a.0019.03/DOC_1#src.E0004)) JO L 271 de 18.10.2011, p 23."
+  },
+  "2bc0633165ce0194": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02008R0482 — PT — 02.01.2020 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32008R0482) [REGULAMENTO (CE) N.º 482/2008 DA COMISSÃO](http://publications.europa.eu/resource/celex/32008R0482) [de 30 de Maio de 2008](http://publications.europa.eu/resource/celex/32008R0482) [que estabelece um sistema de garantia de segurança do *software*, a aplicar pelos prestadores de serviços de navegação aérea, e que altera o anexo II do Regulamento (CE) n.º 2096/2005](http://publications.europa.eu/resource/celex/32008R0482) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32008R0482) (JO L 141, 31.5.2008, p.5)\n\n**Revogado por:**\n\n- [Regulamento de Execução (UE) 2017/373 da Comissão de 1 de março de 2017](http://publications.europa.eu/resource/celex/32017R0373) — L 62 — 1 — 8.3.2017"
+  }
+ }
+}

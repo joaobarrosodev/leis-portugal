@@ -34,6 +34,382 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-09-02'
+version_history:
+  file: regulamento-ue-1990-2377.versoes.json
+  count: 19
+  source_lastmod: '2009-09-02'
+  versions:
+  - date: '1990-08-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-12-28'
+    amending: eu:celex:31992R0675:por
+    amending_title: M1; REGULAMENTO (CEE) N. o 762/92 DA COMISSÃO de 27 de Março de 1992; M3; M4; M5; M6; M7; M8; M9; M10;
+      M11; M12; M13; M14; M15; M16; M17; M18; M19; M20; M21; M22; M23; M24; M25; M26; M27; M28; M29; M30; M31; M32; M33; REGULAMENTO
+      (CE) N. o 434/97 DO CONSELHO de 3 de Março de 1997; M35; M36; M37; M38; M39; M40; M41; M42; M43; M44; M45; M46; M47;
+      M48; M49; M50; M51; M52; M53; M54; M55; M56; M57; REGULAMENTO (CE) N. o 508/1999 DA COMISSÃO de 4 de Março de 1999;
+      REGULAMENTO (CE) N. o 804/1999 DA COMISSÃO de 16 de Abril de 1999; REGULAMENTO (CE) N. o 953/1999 DA COMISSÃO de 5 de
+      Maio de 1999; REGULAMENTO (CE) N. o 954/1999 DA COMISSÃO de 5 de Maio de 1999; REGULAMENTO (CE) N. o 997/1999 da Comissão
+      de 11 de Maio de 1999; REGULAMENTO (CE) N. o 998/1999 DA COMISSÃO de 11 de Maio de 1999; REGULAMENTO (CE) N. o 1308/1999
+      DO CONSELHO de 15 de Junho de 1999; REGULAMENTO (CE) N. o 1931/1999 DA COMISSÃO de 9 de Setembro de 1999; REGULAMENTO
+      (CE) N. o 1942/1999 DA COMISSÃO de 10 de Setembro de 1999; REGULAMENTO (CE) N. o 1943/1999 DA COMISSÃO de 10 de Setembro
+      de 1999; REGULAMENTO (CE) N. o 2385/1999 DA COMISSÃO de 10 de Novembro de 1999; REGULAMENTO (CE) N. o 2393/1999 DA COMISSÃO
+      de 11 de Novembro de 1999; REGULAMENTO (CE) N. o 2593/1999 DA COMISSÃO de 8 de Dezembro de 1999; REGULAMENTO (CE) N.
+      o 2728/1999 DA COMISSÃO de 20 de Dezembro de 1999; REGULAMENTO (CE) N. o 2757/1999 DA COMISSÃO de 22 de Dezembro de
+      1999; REGULAMENTO (CE) N. o 2758/1999 DA COMISSÃO de 22 de Dezembro de 1999; REGULAMENTO (CE) N. o 1286/2000 DA COMISSÃO
+      de 19 de Junho de 2000; REGULAMENTO (CE) N. o 1295/2000 DA COMISSÃO de 20 de Junho de 2000; REGULAMENTO (CE) N. o 1960/2000
+      DA COMISSÃO de 15 de Setembro de 2000; REGULAMENTO (CE) N. o 2338/2000 DA COMISSÃO de 20 de Outubro de 2000; REGULAMENTO
+      (CE) N. o 2391/2000 DA COMISSÃO de 27 de Outubro de 2000; REGULAMENTO (CE) N. o 2535/2000 DA COMISSÃO de 17 de Novembro
+      de 2000; REGULAMENTO (CE) N. o 2908/2000 DA COMISSÃO de 29 de Dezembro de 2000; REGULAMENTO (CE) N. o 749/2001 DA COMISSÃO
+      de 18 de Abril de 2001; M82; REGULAMENTO (CE) N. o 807/2001 DA COMISSÃO de 25 de Abril de 2001; REGULAMENTO (CE) N.
+      o 1274/2001 DA COMISSÃO de 27 de Junho de 2001; REGULAMENTO (CE) N. o 1322/2001 DA COMISSÃO de 29 de Junho de 2001;
+      REGULAMENTO (CE) N. o 1478/2001 DA COMISSÃO de 18 de Julho de 2001; REGULAMENTO (CE) N. o 1553/2001 DA COMISSÃO de 30
+      de Julho de 2001; REGULAMENTO (CE) N. o 1680/2001 DA COMISSÃO de 22 de Agosto de 2001; REGULAMENTO (CE) N. o 1815/2001
+      DA COMISSÃO de 14 de Setembro de 2001; REGULAMENTO (CE) N. o 1879/2001 DA COMISSÃO de 26 de Setembro de 2001; REGULAMENTO
+      (CE) N. o 2162/2001 DA COMISSÃO de 7 de Novembro de 2001; REGULAMENTO (CE) N. o 2584/2001 DO CONSELHO de 19 de Dezembro
+      de 2001; REGULAMENTO (CE) N. o 77/2002 DA COMISSÃO de 17 de Janeiro de 2002; REGULAMENTO (CE) N. o 868/2002 DA COMISSÃO
+      de 24 de Maio de 2002; REGULAMENTO (CE) N. o 869/2002 DA COMISSÃO de 24 de Maio de 2002; REGULAMENTO (CE) N. o 1181/2002
+      DA COMISSÃO de 1 de Julho de 2002; REGULAMENTO (CE) N. o 1530/2002 DA COMISSÃO de 27 de Agosto de 2002; REGULAMENTO
+      (CE) N. o 1752/2002 DA COMISSÃO de 1 de Outubro de 2002; REGULAMENTO (CE) N. o 1937/2002 DA COMISSÃO de 30 de Outubro
+      de 2002; REGULAMENTO (CE) N. o 61/2003 DA COMISSÃO de 15 de Janeiro de 2003; REGULAMENTO (CE) N. o 544/2003 DA COMISSÃO
+      de 27 de Março de 2003; REGULAMENTO (CE) N. o 665/2003 DA COMISSÃO de 11 de Abril de 2003; REGULAMENTO (CE) N. o 739/2003
+      DA COMISSÃO de 28 de Abril de 2003; REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003; REGULAMENTO (CE)
+      N. o 1029/2003 DA COMISSÃO de 16 de Junho de 2003; REGULAMENTO (CE) N. o 1490/2003 DA COMISSÃO de 25 de Agosto de 2003;
+      REGULAMENTO (CE) N. o 1873/2003 DA COMISSÃO de 24 de Outubro de 2003; REGULAMENTO (CE) N. o 2011/2003 DA COMISSÃO de
+      14 de Novembro de 2003; REGULAMENTO (CE) N. o 2145/2003 DA COMISSÃO de 8 de Dezembro de 2003; REGULAMENTO (CE) N. o
+      324/2004 DA COMISSÃO de 25 de Fevereiro de 2004; REGULAMENTO (CE) N. o 546/2004 DA COMISSÃO de 24 de Março de 2004;
+      REGULAMENTO (CE) N. o 1101/2004 DA COMISSÃO de 10 de Junho de 2004; REGULAMENTO (CE) N. o 1646/2004 DA COMISSÃO de 20
+      de Setembro de 2004; REGULAMENTO (CE) N. o 1851/2004 DA COMISSÃO de 25 de Outubro de 2004; REGULAMENTO (CE) N. o 1875/2004
+      DA COMISSÃO de 28 de Outubro de 2004
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita ANEXO I
+    - Adita LISTA DAS SUBSTÂNCIAS FARMACOLOGICAMENTE ACTIVAS PARA AS QUAIS FORAM FIXADOS LIMITES MÁXIMOS DE RESÍDUOS
+    - Adita ANEXO II
+    - Adita LISTA DE SUBSTÂNCIAS NÃO SUBMETIDAS A UM LIMITE MÁXIMO DE RESÍDUOS
+    - Adita ANEXO III
+    - Adita LISTA DAS SUBSTÂNCIAS FARMACOLÓGICAS ACTIVAS, UTILIZADAS EM MEDICAMENTOS VETERINÁRIOS, PARA AS QUAIS FORAM FIXADOS
+      LIMITES MÁXIMOS DE RESÍDUOS PROVISÓRIOS
+    - Adita ANEXO IV
+    - Adita ANEXO V
+    - Adita Informações e dados a incluir num pedido de estabelecimento de um limite máximo de resíduos para uma substância
+      farmacologicamente activa utilizada em medicamentos veterinários
+    - Adita Elementos de ordem administrativa
+    - Adita A. Documentação da segurança
+    - Adita B. Documentação dos resíduos
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+  - date: '2005-02-22'
+    amending: eu:celex:32004R2232:por
+    amending_title: REGULAMENTO (CE) N. o 2232/2004 DA COMISSÃO de 23 de Dezembro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLOGICAMENTE ACTIVAS PARA AS QUAIS FORAM FIXADOS LIMITES MÁXIMOS DE RESÍDUOS
+    - Altera LISTA DE SUBSTÂNCIAS NÃO SUBMETIDAS A UM LIMITE MÁXIMO DE RESÍDUOS
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLÓGICAS ACTIVAS, UTILIZADAS EM MEDICAMENTOS VETERINÁRIOS, PARA AS QUAIS FORAM FIXADOS
+      LIMITES MÁXIMOS DE RESÍDUOS PROVISÓRIOS
+    - Altera Notas
+  - date: '2005-03-20'
+    amending: eu:celex:32005R0075:por
+    amending_title: REGULAMENTO (CE) N. o 75/2005 DA COMISSÃO de 18 de Janeiro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLOGICAMENTE ACTIVAS PARA AS QUAIS FORAM FIXADOS LIMITES MÁXIMOS DE RESÍDUOS
+    - Altera LISTA DE SUBSTÂNCIAS NÃO SUBMETIDAS A UM LIMITE MÁXIMO DE RESÍDUOS
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLÓGICAS ACTIVAS, UTILIZADAS EM MEDICAMENTOS VETERINÁRIOS, PARA AS QUAIS FORAM FIXADOS
+      LIMITES MÁXIMOS DE RESÍDUOS PROVISÓRIOS
+    - Altera Notas
+  - date: '2005-07-11'
+    amending: eu:celex:32005R0712:por
+    amending_title: REGULAMENTO (CE) N. o 712/2005 DA COMISSÃO de 11 de Maio de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLOGICAMENTE ACTIVAS PARA AS QUAIS FORAM FIXADOS LIMITES MÁXIMOS DE RESÍDUOS
+    - Altera LISTA DE SUBSTÂNCIAS NÃO SUBMETIDAS A UM LIMITE MÁXIMO DE RESÍDUOS
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLÓGICAS ACTIVAS, UTILIZADAS EM MEDICAMENTOS VETERINÁRIOS, PARA AS QUAIS FORAM FIXADOS
+      LIMITES MÁXIMOS DE RESÍDUOS PROVISÓRIOS
+    - Altera Notas
+  - date: '2005-09-14'
+    amending: eu:celex:32005R0869:por
+    amending_title: REGULAMENTO (CE) N. o 869/2005 DA COMISSÃO de 8 de Junho de 2005; REGULAMENTO (CE) N. o 1148/2005 DA COMISSÃO
+      de 15 de Julho de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLOGICAMENTE ACTIVAS PARA AS QUAIS FORAM FIXADOS LIMITES MÁXIMOS DE RESÍDUOS
+    - Altera LISTA DE SUBSTÂNCIAS NÃO SUBMETIDAS A UM LIMITE MÁXIMO DE RESÍDUOS
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLÓGICAS ACTIVAS, UTILIZADAS EM MEDICAMENTOS VETERINÁRIOS, PARA AS QUAIS FORAM FIXADOS
+      LIMITES MÁXIMOS DE RESÍDUOS PROVISÓRIOS
+    - Altera Notas
+  - date: '2005-10-18'
+    amending: eu:celex:32005R1299:por
+    amending_title: REGULAMENTO (CE) N. o 1299/2005 DA COMISSÃO de 8 de Agosto de 2005; REGULAMENTO (CE) N. o 1356/2005 DA
+      COMISSÃO de 18 de Agosto de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLOGICAMENTE ACTIVAS PARA AS QUAIS FORAM FIXADOS LIMITES MÁXIMOS DE RESÍDUOS
+    - Altera LISTA DE SUBSTÂNCIAS NÃO SUBMETIDAS A UM LIMITE MÁXIMO DE RESÍDUOS
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLÓGICAS ACTIVAS, UTILIZADAS EM MEDICAMENTOS VETERINÁRIOS, PARA AS QUAIS FORAM FIXADOS
+      LIMITES MÁXIMOS DE RESÍDUOS PROVISÓRIOS
+    - Altera Notas
+  - date: '2005-11-19'
+    amending: eu:celex:32005R1518:por
+    amending_title: REGULAMENTO (CE) N. o 1518/2005 DA COMISSÃO de 19 de Setembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLOGICAMENTE ACTIVAS PARA AS QUAIS FORAM FIXADOS LIMITES MÁXIMOS DE RESÍDUOS
+    - Altera LISTA DE SUBSTÂNCIAS NÃO SUBMETIDAS A UM LIMITE MÁXIMO DE RESÍDUOS
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLÓGICAS ACTIVAS, UTILIZADAS EM MEDICAMENTOS VETERINÁRIOS, PARA AS QUAIS FORAM FIXADOS
+      LIMITES MÁXIMOS DE RESÍDUOS PROVISÓRIOS
+    - Altera Notas
+  - date: '2006-04-08'
+    amending: eu:celex:32005R1911:por
+    amending_title: REGULAMENTO (CE) N. o 1911/2005 DA COMISSÃO de 23 de Novembro de 2005; REGULAMENTO (CE) N. o 6/2006 DA
+      COMISSÃO de 5 de Janeiro de 2006; REGULAMENTO (CE) N. o 205/2006 DA COMISSÃO de 6 de Fevereiro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLOGICAMENTE ACTIVAS PARA AS QUAIS FORAM FIXADOS LIMITES MÁXIMOS DE RESÍDUOS
+    - Altera LISTA DE SUBSTÂNCIAS NÃO SUBMETIDAS A UM LIMITE MÁXIMO DE RESÍDUOS
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLÓGICAS ACTIVAS, UTILIZADAS EM MEDICAMENTOS VETERINÁRIOS, PARA AS QUAIS FORAM FIXADOS
+      LIMITES MÁXIMOS DE RESÍDUOS PROVISÓRIOS
+    - Altera Notas
+  - date: '2007-01-21'
+    amending: eu:celex:32006R1055:por
+    amending_title: REGULAMENTO (CE) N. o 1055/2006 DA COMISSÃO de 12 de Julho de 2006; REGULAMENTO (CE) N. o 1231/2006 DA
+      COMISSÃO de 16 de Agosto de 2006; REGULAMENTO (CE) N. o 1451/2006 DA COMISSÃO de 29 de Setembro de 2006; REGULAMENTO
+      (CE) N. o 1729/2006 DA COMISSÃO de 23 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLOGICAMENTE ACTIVAS PARA AS QUAIS FORAM FIXADOS LIMITES MÁXIMOS DE RESÍDUOS
+    - Altera LISTA DE SUBSTÂNCIAS NÃO SUBMETIDAS A UM LIMITE MÁXIMO DE RESÍDUOS
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLÓGICAS ACTIVAS, UTILIZADAS EM MEDICAMENTOS VETERINÁRIOS, PARA AS QUAIS FORAM FIXADOS
+      LIMITES MÁXIMOS DE RESÍDUOS PROVISÓRIOS
+    - Altera Notas
+  - date: '2007-02-12'
+    amending: eu:celex:32006R1805:por
+    amending_title: REGULAMENTO (CE) N. o 1805/2006 DA COMISSÃO de 7 de Dezembro de 2006; REGULAMENTO (CE) N. o 1831/2006
+      DA COMISSÃO de 13 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLOGICAMENTE ACTIVAS PARA AS QUAIS FORAM FIXADOS LIMITES MÁXIMOS DE RESÍDUOS
+    - Altera LISTA DE SUBSTÂNCIAS NÃO SUBMETIDAS A UM LIMITE MÁXIMO DE RESÍDUOS
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLÓGICAS ACTIVAS, UTILIZADAS EM MEDICAMENTOS VETERINÁRIOS, PARA AS QUAIS FORAM FIXADOS
+      LIMITES MÁXIMOS DE RESÍDUOS PROVISÓRIOS
+    - Altera Notas
+  - date: '2007-05-16'
+    amending: eu:celex:32007R0287:por
+    amending_title: REGULAMENTO (CE) N. o 287/2007 DA COMISSÃO de 16 de Março de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLOGICAMENTE ACTIVAS PARA AS QUAIS FORAM FIXADOS LIMITES MÁXIMOS DE RESÍDUOS
+    - Altera LISTA DE SUBSTÂNCIAS NÃO SUBMETIDAS A UM LIMITE MÁXIMO DE RESÍDUOS
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLÓGICAS ACTIVAS, UTILIZADAS EM MEDICAMENTOS VETERINÁRIOS, PARA AS QUAIS FORAM FIXADOS
+      LIMITES MÁXIMOS DE RESÍDUOS PROVISÓRIOS
+    - Altera Notas
+  - date: '2007-08-21'
+    amending: eu:celex:32007R0703:por
+    amending_title: REGULAMENTO (CE) N. o 703/2007 DA COMISSÃO de 21 de Junho de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLOGICAMENTE ACTIVAS PARA AS QUAIS FORAM FIXADOS LIMITES MÁXIMOS DE RESÍDUOS
+    - Altera LISTA DE SUBSTÂNCIAS NÃO SUBMETIDAS A UM LIMITE MÁXIMO DE RESÍDUOS
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLÓGICAS ACTIVAS, UTILIZADAS EM MEDICAMENTOS VETERINÁRIOS, PARA AS QUAIS FORAM FIXADOS
+      LIMITES MÁXIMOS DE RESÍDUOS PROVISÓRIOS
+    - Altera Notas
+  - date: '2008-01-20'
+    amending: eu:celex:32007R1064:por
+    amending_title: REGULAMENTO (CE) N. o 1064/2007 DA COMISSÃO de 17 de Setembro de 2007; REGULAMENTO (CE) N. o 1323/2007
+      DA COMISSÃO de 12 de Novembro de 2007; REGULAMENTO (CE) N. o 1353/2007 DA COMISSÃO de 20 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLOGICAMENTE ACTIVAS PARA AS QUAIS FORAM FIXADOS LIMITES MÁXIMOS DE RESÍDUOS
+    - Altera LISTA DE SUBSTÂNCIAS NÃO SUBMETIDAS A UM LIMITE MÁXIMO DE RESÍDUOS
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLÓGICAS ACTIVAS, UTILIZADAS EM MEDICAMENTOS VETERINÁRIOS, PARA AS QUAIS FORAM FIXADOS
+      LIMITES MÁXIMOS DE RESÍDUOS PROVISÓRIOS
+    - Altera Notas
+  - date: '2008-05-05'
+    amending: eu:celex:32008R0061:por
+    amending_title: REGULAMENTO (CE) N. o 61/2008 DA COMISSÃO de 24 de Janeiro de 2008; REGULAMENTO (CE) N. o 203/2008 DA
+      COMISSÃO de 4 de Março de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLOGICAMENTE ACTIVAS PARA AS QUAIS FORAM FIXADOS LIMITES MÁXIMOS DE RESÍDUOS
+    - Altera LISTA DE SUBSTÂNCIAS NÃO SUBMETIDAS A UM LIMITE MÁXIMO DE RESÍDUOS
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLÓGICAS ACTIVAS, UTILIZADAS EM MEDICAMENTOS VETERINÁRIOS, PARA AS QUAIS FORAM FIXADOS
+      LIMITES MÁXIMOS DE RESÍDUOS PROVISÓRIOS
+    - Altera Notas
+  - date: '2008-08-16'
+    amending: eu:celex:32008R0542:por
+    amending_title: REGULAMENTO (CE) N. o 542/2008 DA COMISSÃO de 16 de Junho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLOGICAMENTE ACTIVAS PARA AS QUAIS FORAM FIXADOS LIMITES MÁXIMOS DE RESÍDUOS
+    - Altera LISTA DE SUBSTÂNCIAS NÃO SUBMETIDAS A UM LIMITE MÁXIMO DE RESÍDUOS
+    - Altera LISTA DAS SUBSTÂNCIAS FARMACOLÓGICAS ACTIVAS, UTILIZADAS EM MEDICAMENTOS VETERINÁRIOS, PARA AS QUAIS FORAM FIXADOS
+      LIMITES MÁXIMOS DE RESÍDUOS PROVISÓRIOS
+    - Altera Notas
+  - date: '2009-07-06'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime ANEXO I
+    - Suprime LISTA DAS SUBSTÂNCIAS FARMACOLOGICAMENTE ACTIVAS PARA AS QUAIS FORAM FIXADOS LIMITES MÁXIMOS DE RESÍDUOS
+    - Suprime ANEXO II
+    - Suprime LISTA DE SUBSTÂNCIAS NÃO SUBMETIDAS A UM LIMITE MÁXIMO DE RESÍDUOS
+    - Suprime ANEXO III
+    - Suprime LISTA DAS SUBSTÂNCIAS FARMACOLÓGICAS ACTIVAS, UTILIZADAS EM MEDICAMENTOS VETERINÁRIOS, PARA AS QUAIS FORAM FIXADOS
+      LIMITES MÁXIMOS DE RESÍDUOS PROVISÓRIOS
+    - Suprime ANEXO IV
+    - Suprime ANEXO V
+    - Suprime Informações e dados a incluir num pedido de estabelecimento de um limite máximo de resíduos para uma substância
+      farmacologicamente activa utilizada em medicamentos veterinários
+    - Suprime Elementos de ordem administrativa
+    - Suprime A. Documentação da segurança
+    - Suprime B. Documentação dos resíduos
+    - Suprime Notas
+  - date: '2009-08-09'
+    amending: eu:celex:32009R0478:por
+    amending_title: REGULAMENTO (CE) N. o 478/2009 DA COMISSÃO de 8 de Junho de 2009; REGULAMENTO (CE) N. o 485/2009 DA COMISSÃO
+      de 9 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita ANEXO I
+    - Adita LISTA DAS SUBSTÂNCIAS FARMACOLOGICAMENTE ACTIVAS PARA AS QUAIS FORAM FIXADOS LIMITES MÁXIMOS DE RESÍDUOS
+    - Adita ANEXO II
+    - Adita LISTA DE SUBSTÂNCIAS NÃO SUBMETIDAS A UM LIMITE MÁXIMO DE RESÍDUOS
+    - Adita ANEXO III
+    - Adita LISTA DAS SUBSTÂNCIAS FARMACOLÓGICAS ACTIVAS, UTILIZADAS EM MEDICAMENTOS VETERINÁRIOS, PARA AS QUAIS FORAM FIXADOS
+      LIMITES MÁXIMOS DE RESÍDUOS PROVISÓRIOS
+    - Adita ANEXO IV
+    - Adita ANEXO V
+    - Adita Informações e dados a incluir num pedido de estabelecimento de um limite máximo de resíduos para uma substância
+      farmacologicamente activa utilizada em medicamentos veterinários
+    - Adita Elementos de ordem administrativa
+    - Adita A. Documentação da segurança
+    - Adita B. Documentação dos resíduos
+    - Adita Notas
+  - date: '2009-09-02'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime ANEXO I
+    - Suprime LISTA DAS SUBSTÂNCIAS FARMACOLOGICAMENTE ACTIVAS PARA AS QUAIS FORAM FIXADOS LIMITES MÁXIMOS DE RESÍDUOS
+    - Suprime ANEXO II
+    - Suprime LISTA DE SUBSTÂNCIAS NÃO SUBMETIDAS A UM LIMITE MÁXIMO DE RESÍDUOS
+    - Suprime ANEXO III
+    - Suprime LISTA DAS SUBSTÂNCIAS FARMACOLÓGICAS ACTIVAS, UTILIZADAS EM MEDICAMENTOS VETERINÁRIOS, PARA AS QUAIS FORAM FIXADOS
+      LIMITES MÁXIMOS DE RESÍDUOS PROVISÓRIOS
+    - Suprime ANEXO IV
+    - Suprime ANEXO V
+    - Suprime Informações e dados a incluir num pedido de estabelecimento de um limite máximo de resíduos para uma substância
+      farmacologicamente activa utilizada em medicamentos veterinários
+    - Suprime Elementos de ordem administrativa
+    - Suprime A. Documentação da segurança
+    - Suprime B. Documentação dos resíduos
+    - Suprime Notas
 identifiers:
   celex: 31990R2377
   eli: http://data.europa.eu/eli/reg/1990/2377/oj
@@ -48,7 +424,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d26f3e84-d34f-4490-a436-b0cc6bb2573a.0011
   content_url: http://publications.europa.eu/resource/cellar/37222e15-d6d1-40f9-85e4-aca5843a8486.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990R2377-20090902
-  retrieved_at: '2026-10-22T02:38:30Z'
+  retrieved_at: '2026-10-22T14:39:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T08:09:51.358+01:00'
 integrity:
@@ -57,9 +433,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:30Z'
-  notes: Texto consolidado 01990R2377-20090902.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:39:04Z'
+  notes: 19 versão(ões); histórico completo em regulamento-ue-1990-2377.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -872,16 +1248,58 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:30Z'
+  checked_at: '2026-10-22T14:39:04Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01990R2377-19920101: versão indisponível (Sem expressão na língua por para CELEX 01990R2377-19920101.)'
+  - '01990R2377-19920518: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-19990508: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-19990616: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-19990626: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-19990705: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-19990711: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-19991109: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-19991110: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20000110: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20000111: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20000207: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20000220: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20000221: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20000819: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20000820: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20001115: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20001220: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20001227: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20010117: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20010228: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20010618: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20010626: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20010827: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20010828: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20010917: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20010929: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20011022: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20011114: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20011126: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20020107: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20020227: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20020319: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20020724: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20020831: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20021027: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20021201: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20021230: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20030317: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20030527: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20030611: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20030628: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990R2377-20030816: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

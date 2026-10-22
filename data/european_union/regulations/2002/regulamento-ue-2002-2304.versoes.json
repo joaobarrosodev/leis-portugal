@@ -1,0 +1,745 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002R2304:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R2304-20071205",
+ "dre_path": null,
+ "source_lastmod": "2007-12-05",
+ "versions": [
+  {
+   "date": "2007-12-05",
+   "future": false,
+   "celex": "02002R2304-20071205",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1bdc7fcef43ea2b8",
+    "f7c7f1136e0a6af2",
+    "101249ce6b4eea69",
+    "b7c0101e87336360",
+    "1c65bc0eb80ad4b0",
+    "a152f9cee9821cd4",
+    "87c06114ecc87887",
+    "f6c2eb219fe1b284",
+    "d02b7e6e8df303a2",
+    "9355620e2b632b5f",
+    "9d9e95527c82572f",
+    "bccbfd4eb45f39b0",
+    "740e48daa3e89418",
+    "8a6992ea3c104fd1",
+    "33f6342c4163c663",
+    "3d174f945d6b9835",
+    "3e5bcb13ac5aa89f",
+    "39ad9011ff417418",
+    "f6c2eb219fe1b284",
+    "b4e99945eda57a07",
+    "99fcfe078950f880",
+    "a82f7bf6e0e14abe",
+    "8a6992ea3c104fd1",
+    "658aac339ba6b32d",
+    "ed172a513abfc7e8",
+    "bd297468edff8e2f",
+    "a3b195c08c38f795",
+    "2eb5a75683be7b07",
+    "3efead1566522774",
+    "d479a8ac0ef01bce",
+    "e22ba94ab0c83a40",
+    "3280062e98052e03",
+    "757fb080a57ebd28",
+    "686adda2d872618a",
+    "f6c2eb219fe1b284",
+    "05cd01e503c48007",
+    "6db712432b8322ba",
+    "dbef682e8ee55cf5",
+    "87f9ef57923e515b",
+    "174caa80a0116f60",
+    "8a6992ea3c104fd1",
+    "deaf5dc27e915596",
+    "a54c9b42f8160337",
+    "ec3cebd2ec7aed8a",
+    "943d4bfc9fe27d9c",
+    "a3b195c08c38f795",
+    "27a64d46dbf9e72e",
+    "3a0e0e5f00a8ebd1",
+    "598afee51e1f472f",
+    "6cc3b57c1b453c93",
+    "052cd8b4ba7e5e34",
+    "63a88efcb2827319",
+    "714f885b5ade8c64",
+    "490ba40047fcf66e",
+    "3efbe54245b52b7e",
+    "9bf06e5023dff201",
+    "09119f6e39688062",
+    "dccdca7ca2808eb9",
+    "df8be8daff5073ba",
+    "dde9cf53e9ae6c9a",
+    "04427fe0e97db036",
+    "208872c55a14564f",
+    "10220b9774fa9034",
+    "a6f74425191af856",
+    "f6ce2b0c89593d1f",
+    "ca07cc0c02674b9c",
+    "67a93a5dd6af659e",
+    "fc6293f475642c4d",
+    "f63749a008b89ee3",
+    "e4cf9caa06926448",
+    "46cd124cfea01ebf",
+    "d31fd4611fa501b0",
+    "e46bc42110f5c1cd",
+    "d3e763c693c4ceaa",
+    "1cf8223290da6ec6",
+    "d16405118faa8e1d",
+    "28c7bfdc029f493c",
+    "a929a138f726a3d5",
+    "540fb56c54d43a9b",
+    "a5aa57b810506836",
+    "658d72df0366bcd8",
+    "62fdfa0f836abefa",
+    "6dbcc7c3c0b64553",
+    "e067bf1dad75efc7",
+    "28d1a06741b06b06"
+   ]
+  }
+ ],
+ "fragments": {
+  "1bdc7fcef43ea2b8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 2002\n\nrespeitante à aplicação da Decisão 2001/822/CE do Conselho relativa à associação dos países e territórios ultramarinos à Comunidade Europeia «(Decisão de Associação Ultramarina»)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Decisão 2001/822/CE do Conselho ([^1^](http://publications.europa.eu/resource/cellar/2c1f1569-6d32-4da9-a67d-296ad9128fca.0018.03/DOC_1#E0001)) e, nomeadamente, o seu artigo 23.º,\n\nTendo em conta o Acordo Interno entre os representantes dos governos dos Estados-Membros, reunidos no Conselho, relativo ao financiamento e à gestão da ajuda concedida pela Comunidade no âmbito do protocolo financeiro do Acordo de Parceria entre os Estados de África, das Caraíbas e do Pacífico e a Comunidade Europeia e os seus Estados-Membros, assinado em Cotonu (Benim), em 23 de Junho de 2000, bem como à concessão da assistência financeira aos países e territórios ultramarinos aos quais é aplicável a parte IV do Tratado ([^2^](http://publications.europa.eu/resource/cellar/2c1f1569-6d32-4da9-a67d-296ad9128fca.0018.03/DOC_1#E0002)),\n\nTendo em conta o Regulamento do Conselho, relativo a um regulamento financeiro aplicável ao Fundo Europeu de Desenvolvimento ([^3^](http://publications.europa.eu/resource/cellar/2c1f1569-6d32-4da9-a67d-296ad9128fca.0018.03/DOC_1#E0003)) («regulamento financeiro do FED»),\n\n(1) A Decisão 2001/822/CE (Decisão de Associação Ultramarina) prevê que a Comissão aprove disposições de aplicação relativamente à parte III e aos anexos IIA a D em cooperação com os países e territórios ultramarinos («PTU») no âmbito do procedimento de parceria. Em especial, o artigo 4.º precisa que os PTU são os principais responsáveis pela elaboração dos documentos únicos de programação («DOCUP») e dos programas de cooperação.\n\n(2) As disposições aprovadas pela Comissão em conformidade com o disposto no artigo 23.º da Decisão de Associação Ultramarina devem ser compatíveis com os princípios de gestão financeira sã, de parceria, de complementaridade e de subsidiariedade e assegurar a apropriação do processo de desenvolvimento pelos PTU, bem como o acompanhamento e auditoria pelos próprios PTU e pela Comissão.\n\n(3) Tendo em conta as necessidades, capacidades e limitações específicas dos PTU, estes últimos deveriam beneficiar de uma assistência financeira, quer sob a forma de apoio orçamental, sob reserva de a respectiva gestão das despesas públicas apresentar um grau suficiente de transparência, fiabilidade e eficácia e de os procedimentos nacionais em matéria de contratos públicos satisfazerem os critérios de transparência e de abertura previstos no regulamento financeiro do FED, quer sob a forma de apoio à realização de projectos ou de programas, quando se considere que esta opção garante uma execução mais eficaz e segura.\n\n(4) Convém que sejam estabelecidas disposições em matéria de preparação, acompanhamento, auditoria, exame e aplicação dos DOCUP, bem como em matéria de apresentação de relatórios e de introdução de correcções financeiras. Essas disposições deveriam cobrir a participação da Comissão nessas actividades. Sob reserva de qualquer adaptação necessária à situação específica dos PTU, as referidas disposições devem ser compatíveis com as disposições correspondentes aplicáveis no âmbito dos fundos estruturais, a fim de facilitar a participação da Comissão e de reforçar a sua eficácia.\n\n(5) A fim de facilitar a cooperação e a integração regionais entre os PTU e os Estados ACP, deveriam, em princípio, ser aplicáveis disposições idênticas. No entanto, tendo em conta a situação geográfica de certos PTU que, na prática, não podem estabelecer uma cooperação estreita com os Estados ACP ou com outros PTU, deveria ser igualmente possível afectar recursos provenientes dos fundos regionais a pedido de um único PTU.\n\n(6) As medidas previstas no presente regulamento foram objecto de uma consulta com os PTU.\n\n(7) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité FED-PTU instituído pelo artigo 24.º da Decisão de Associação Ultramarina,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f7c7f1136e0a6af2": {
+   "fragment_id": "PARTE 1",
+   "type": "divisao",
+   "heading": "PARTE 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE 1"
+  },
+  "101249ce6b4eea69": {
+   "fragment_id": "OBJECTO E PRINCÍPIOS",
+   "type": "divisao",
+   "heading": "OBJECTO E PRINCÍPIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTO E PRINCÍPIOS"
+  },
+  "b7c0101e87336360": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento estabelece os procedimentos relativos à programação, execução e controlo da assistência financeira comunitária concedida aos países e territórios ultramarinos (PTU) gerida pela Comissão no âmbito do 10.º Fundo Europeu de Desenvolvimento (FED), em conformidade com o disposto na Decisão de Associação Ultramarina e no regulamento financeiro aplicável ao 10.º FED."
+  },
+  "1c65bc0eb80ad4b0": {
+   "fragment_id": "Artigo 2.º — Complementaridade e parceria",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Complementaridade e parceria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Complementaridade e parceria\n\n1. A programação, aplicação, acompanhamento e avaliação do apoio concedido no âmbito do FED serão efectuados em estreita consulta entre os PTU, os Estados-Membros em questão e a Comissão.\n\n2. Os PTU assegurarão que todos os agentes da cooperação enumerados no n.º 1, segundo e terceiro travessões, do artigo 5.º da Decisão de Associação Ultramarina sejam adequadamente consultados durante o processo de programação.\n\n3. Os PTU, os Estados-Membros em questão e a Comissão promoverão a coordenação e a compatibilidade entre as medidas empreendidas em conformidade com o presente regulamento, as medidas financiadas a partir do orçamento da Comunidade e as operações realizadas pelo Banco Europeu de Investimento, por outras instituições internacionais e pelos Estados-Membros em questão."
+  },
+  "a152f9cee9821cd4": {
+   "fragment_id": "PARTE II",
+   "type": "divisao",
+   "heading": "PARTE II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE II"
+  },
+  "87c06114ecc87887": {
+   "fragment_id": "AJUDA PROGRAMÁVEL E NÃO PROGRAMÁVEL",
+   "type": "divisao",
+   "heading": "AJUDA PROGRAMÁVEL E NÃO PROGRAMÁVEL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AJUDA PROGRAMÁVEL E NÃO PROGRAMÁVEL"
+  },
+  "f6c2eb219fe1b284": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 1"
+  },
+  "d02b7e6e8df303a2": {
+   "fragment_id": "Ajuda programável",
+   "type": "divisao",
+   "heading": "Ajuda programável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Ajuda programável"
+  },
+  "9355620e2b632b5f": {
+   "fragment_id": "Artigo 3.º — Programação territorial",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Programação territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Programação territorial\n\nAs acções financiadas através de subvenções no âmbito do 10.º FED no quadro da Decisão de Associação Ultramarina serão programadas o mais rapidamente possível após a entrada em vigor do Acordo Interno que institui o 10.º FED, através da adopção de um DOCUP, elaborado de acordo com o modelo que figura no anexo do presente regulamento."
+  },
+  "9d9e95527c82572f": {
+   "fragment_id": "Artigo 4.º — Preparação do DOCUP",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Preparação do DOCUP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Preparação do DOCUP\n\n1. As autoridades competentes dos PTU elaboram um projecto de DOCUP depois de consultarem o maior número possível de intervenientes no processo de desenvolvimento, tirando partido da experiência adquirida, bem como das melhores práticas.\n\nCada proposta de DOCUP deve ser adaptada às necessidades e responder à situação específica de cada PTU, bem como definir indicadores orientados para os resultados e reforçar a apropriação local dos programas de cooperação.\n\n2. O projecto de DOCUP é objecto de uma troca de pontos de vista entre o PTU e o Estado-Membro em questão e a Comissão, através, se for caso disso, da delegação competente.\n\nPara que a avaliação do projecto de DOCUP por parte da Comissão seja o mais eficaz possível, os PTU facultarão todas as informações necessárias, incluindo os resultados de eventuais estudos de viabilidade.\n\n3. Salvo em circunstâncias excepcionais e devidamente justificadas, a dotação financeira do 10.º FED é, em princípio, concedida sob forma de apoio orçamental.\n\nNos casos em que não estejam reunidas as condições para concessão de apoio orçamental, os DOCUP contemplam medidas destinadas a criar as condições para tal apoio.\n\nQualquer divergência eventual entre a análise efectuada pelos PTU e a análise efectuada pela Comunidade será assinalada."
+  },
+  "bccbfd4eb45f39b0": {
+   "fragment_id": "Artigo 5.º — Avaliação do DOCUP por parte da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Avaliação do DOCUP por parte da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Avaliação do DOCUP por parte da Comissão\n\nA Comissão avalia a proposta de DOCUP a fim de verificar se contém todos os elementos necessários e se é compatível com os objectivos da Decisão de Associação Ultramarina, com o presente regulamento e com as políticas comunitárias pertinentes.\n\nA Comissão avalia a proposta de DOCUP igualmente para verificar se contém todos os elementos que lhe permitam tomar a decisão de financiamento referida no n.º 4 do artigo 20.º da Decisão de Associação Ultramarina.\n\nA Comissão notifica o Banco Europeu de Investimento do projecto recebido.\n\nSem prejuízo do disposto no n.º 3 do artigo 4.º e após uma avaliação prévia da transparência, responsabilidade e eficácia da gestão das despesas públicas, bem como da abertura e transparência dos contratos públicos, em conformidade com as normas estabelecidas no regulamento financeiro aplicável ao 10.º FED, a Comissão decide se a assistência financeira do 10.º FED deve ser concedida sob forma de apoio orçamental ou de apoio à realização de programas e projectos."
+  },
+  "740e48daa3e89418": {
+   "fragment_id": "Artigo 6.º — Programas regionais",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Programas regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Programas regionais\n\n1. Os artigos 3.º a 5.º aplicam-se *mutatis mutandis* ao apoio financeiro à cooperação e integração regionais nos termos do n.º 2 do artigo 3.º do anexo II-AA da Decisão de Associação Ultramarina.\n\nNa avaliação das propostas, a Comissão deve ter especialmente em conta o impacto previsto na integração dos PTU beneficiários na região a que pertencem.\n\nTanto quanto possível, será garantida a coordenação com os programas de âmbito territorial e com acções em que participem os países ACP e/ou as regiões ultraperiféricas referidas no n.º 2 do artigo 299.º do Tratado. Tal pode contemplar a identificação das prioridades e dos recursos específicos tendo em vista o reforço da cooperação com os países ACP e/ou as regiões ultraperiféricas, bem como das modalidades de identificação e coordenação da selecção de acções de interesse comum.\n\nA autorização das despesas deve ser antecedida de uma proposta de financiamento da Comissão relativa ao apoio a projectos e programas.\n\n2. Para obter uma escala adequada e aumentar a eficácia, os fundos regionais e territoriais podem ser combinados para financiar programas regionais com uma componente territorial distinta.\n\n3. O disposto nos artigos 8.º e 16.º a 30.º é aplicável, *mutatis mutandis*, aos programas regionais."
+  },
+  "8a6992ea3c104fd1": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 2"
+  },
+  "33f6342c4163c663": {
+   "fragment_id": "Ajuda não-programável",
+   "type": "divisao",
+   "heading": "Ajuda não-programável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Ajuda não-programável"
+  },
+  "3d174f945d6b9835": {
+   "fragment_id": "Artigo 7.º — Utilização da reserva",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Utilização da reserva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Utilização da reserva\n\n1. A Comissão afecta os recursos da reserva «B» para os fins referidos no n.º 4, alínea b), do artigo 3.º do anexo II-AA da Decisão de Associação Ultramarina, com base no reexame intercalar referido no artigo 22.º do presente regulamento. A Comissão ajusta os montantes indicativos já afectados de forma correspondente e comunica aos PTU e aos Estados-Membros a sua decisão relativamente às novas dotações.\n\n2. Para autorizar os recursos referidos no artigo 28.º e no anexo II-D da Decisão de Associação Ultramarina, um PTU que considere reunir as condições para beneficiar do referido apoio, deve apresentar um pedido completo, utilizando os formulários facultados pela Comissão, e fornecer todas as informações necessárias à sua avaliação.\n\nO pedido será apresentado à Comissão o mais tardar até ao final do ano seguinte àquele relativamente ao qual o apoio adicional é solicitado.\n\nA Comissão comunica a sua decisão ao PTU o mais rapidamente possível."
+  },
+  "3e5bcb13ac5aa89f": {
+   "fragment_id": "PARTE III",
+   "type": "divisao",
+   "heading": "PARTE III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE III"
+  },
+  "39ad9011ff417418": {
+   "fragment_id": "EXECUÇÃO",
+   "type": "divisao",
+   "heading": "EXECUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### EXECUÇÃO"
+  },
+  "b4e99945eda57a07": {
+   "fragment_id": "Procedimentos financeiros",
+   "type": "divisao",
+   "heading": "Procedimentos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Procedimentos financeiros"
+  },
+  "99fcfe078950f880": {
+   "fragment_id": "Artigo 8.º — Autorizações",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Autorizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Autorizações\n\n1. As despesas respeitantes à assistência financeira aos PTU são autorizadas pela Comissão em conformidade com o regulamento financeiro aplicável ao 10.º FED.\n\n2. Salvo em circunstâncias excepcionais e devidamente justificadas, a autorização de despesas para actividades abrangidas pelo DOCUP é precedida de uma decisão de financiamento da Comissão relativa, em princípio, ao apoio orçamental.\n\n3. Relativamente às actividades não abrangidas pelo DOCUP, as despesas relativas à reserva «B» não afectada, constituída em conformidade com o n.º 4 do artigo 3.º do anexo II-AA da Decisão de Associação Ultramarina, são autorizadas pela Comissão e executadas em conformidade com o disposto no regulamento financeiro aplicável ao 10.º FED."
+  },
+  "a82f7bf6e0e14abe": {
+   "fragment_id": "Artigo 9.º — Organismos pagadores",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Organismos pagadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Organismos pagadores\n\nAs instituições financeiras dos PTU junto das quais a Comissão abre contas, em conformidade com o regulamento financeiro aplicável ao 10.º FED, tendo em vista a execução da cooperação com os PTU exercem as funções de «organismos pagadores».\n\nOs fundos depositados junto dos organismos pagadores na Comunidade vencem juros.\n\nOs organismos pagadores não são remunerados pelos serviços prestados e os fundos depositados não vencem juros."
+  },
+  "658aac339ba6b32d": {
+   "fragment_id": "Contratos",
+   "type": "divisao",
+   "heading": "Contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Contratos"
+  },
+  "ed172a513abfc7e8": {
+   "fragment_id": "Artigo 10.º — Regulamentação geral em matéria de contratos",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Regulamentação geral em matéria de contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regulamentação geral em matéria de contratos\n\n1. Os procedimentos que regem a adjudicação de contratos são precisados nas convenções de financiamento.\n\n2. Sempre que seja concedida assistência financeira sob a forma de apoio orçamental, são aplicáveis os procedimentos em matéria de contratos públicos em vigor no PTU em questão.\n\n3. Em todos os outros casos, a adjudicação de contratos é regida pelo disposto no regulamento financeiro aplicável ao 10.º FED."
+  },
+  "bd297468edff8e2f": {
+   "fragment_id": "Artigo 11.º — Regime fiscal e aduaneiro",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Regime fiscal e aduaneiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regime fiscal e aduaneiro\n\n1. Relativamente aos contratos de execução de programas ou de projectos financiados pelo FED, os PTU aplicarão um regime fiscal e aduaneiro não menos favorável do que o por eles aplicado aos Estados mais favorecidos ou às organizações internacionais de desenvolvimento com as quais mantenham relações. Para efeitos da determinação do tratamento aplicável à nação mais favorecida (NMF), não serão tidos em conta os regimes aplicados pelo PTU em questão em relação a outros PTU ou Estados ACP ou a outros países em desenvolvimento.\n\n2. Sob reserva do disposto no n.º 1, aos contratos financiados pela Comunidade é aplicável o seguinte regime:\n\na) Os contratos não estão sujeitos no PTU beneficiário ao imposto de selo e de registo nem às imposições fiscais de efeito equivalente existentes ou a criar no futuro. No entanto, esses contratos devem ser registados em conformidade com a legislação em vigor no PTU, podendo esse registo implicar o pagamento de uma taxa correspondente à prestação do serviço;\n\nb) Os lucros e/ou os rendimentos resultantes da execução dos contratos são tributáveis de acordo com o regime fiscal interno do PTU em causa, desde que as pessoas singulares ou colectivas que os tenham realizado possuam uma sede permanente nesse Estado ou que a duração da execução do contrato seja superior a seis meses;\n\nc) As empresas que tenham de importar equipamento profissional tendo em vista a execução de contratos de obras beneficiarão, a seu pedido, do regime de importação temporária, previsto na legislação do PTU beneficiário, no que respeita ao referido equipamento;\n\nd) O equipamento profissional necessário à execução das tarefas definidas nos contratos de prestação de serviços será temporariamente importado no PTU beneficiário em conformidade com a sua legislação nacional, com isenção de direitos aduaneiros, impostos ou encargos fiscais de efeito equivalente desde que tais direitos e encargos não constituam uma remuneração por serviços prestados;\n\ne) As importações no âmbito de contratos de fornecimento serão efectuadas no PTU beneficiário com isenção de direitos aduaneiros, impostos ou encargos fiscais de efeito equivalente. Os contratos relativos a fornecimentos originários do PTU em questão serão celebrados com base no preço à saída da fábrica, acrescido das imposições fiscais eventualmente aplicáveis a esses fornecimentos no PTU;\n\nf) Considera-se que as aquisições de carburantes, lubrificantes e ligantes hidrocarbonados, bem como, de uma maneira geral, de todos os produtos utilizados na execução de contratos de obras foram efectuadas no mercado local e estão sujeitas ao regime fiscal aplicável por força da legislação nacional em vigor no PTU beneficiário;\n\ng) A importação de bens e objectos de uso pessoal e doméstico pelas pessoas singulares, que não as pessoas contratadas localmente, encarregadas da execução das tarefas definidas num contrato de prestação de serviços, bem como pelos membros das suas famílias, efectuar-se-á com isenção dos direitos aduaneiros ou de importação, de impostos e de outros encargos fiscais de efeito equivalente, em conformidade com a legislação nacional em vigor no PTU beneficiário.\n\n3. Qualquer questão não abrangida pelo disposto nos n.^os^ 1 e 2 no que respeita ao regime fiscal e aduaneiro será regulada pela legislação nacional do PTU em questão."
+  },
+  "a3b195c08c38f795": {
+   "fragment_id": "CAPÍTULO 3",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3"
+  },
+  "2eb5a75683be7b07": {
+   "fragment_id": "Agentes responsáveis pela gestão e execução",
+   "type": "divisao",
+   "heading": "Agentes responsáveis pela gestão e execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Agentes responsáveis pela gestão e execução"
+  },
+  "3efead1566522774": {
+   "fragment_id": "Artigo 12.º — Processo de execução",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Processo de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Processo de execução\n\nSem prejuízo do processo de execução do apoio orçamental referido no n.º 2 dos artigos 8.º e 10.º, os projectos e programas financiados em conformidade com o presente regulamento serão executados em conformidade com o disposto nos artigos 13.º, 14.º e 15.º"
+  },
+  "d479a8ac0ef01bce": {
+   "fragment_id": "Artigo 13.º — Delegações",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Delegações\n\n1. Sempre que a Comissão esteja representada por uma delegação sob a autoridade de um chefe de delegação, deve informar desse facto o PTU em questão. Nesses casos, é aplicável o disposto no regulamento financeiro aplicável ao 10.º FED no que respeita aos gestores orçamentais e aos contabilistas subdelegados.\n\n2. O chefe de delegação, principal contacto para os diferentes parceiros de cooperação no PTU em questão, coopera e trabalha estreitamente com o gestor orçamental territorial.\n\n3. O chefe de delegação recebe as instruções e os poderes delegados necessários para facilitar e acelerar todas as operações financiadas ao abrigo do presente regulamento.\n\n4. O chefe de delegação informa regularmente as autoridades do PTU sobre as actividades comunitárias susceptíveis de terem um interesse directo para a cooperação entre a Comunidade e o PTU em questão."
+  },
+  "e22ba94ab0c83a40": {
+   "fragment_id": "Artigo 14.º — Gestor orçamental territorial",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Gestor orçamental territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Gestor orçamental territorial\n\n1. O governo de cada PTU nomeia um gestor orçamental territorial para o representar em todas as operações financiadas a partir dos recursos do FED geridos pela Comissão e pelo Banco. O gestor orçamental territorial nomeará um ou mais gestores orçamentais territoriais suplentes que o substituirão caso esteja impedido de exercer as suas funções e informará a Comissão dessa nomeação. Sempre que estiverem cumpridas as condições de capacidade institucional e de boa gestão financeira, o gestor orçamental territorial pode delegar as suas funções de execução dos programas e projectos em causa na entidade responsável, no interior da administração nacional do PTU em questão, devendo nesse caso informar a Comissão das delegações que efectua.\n\nQuando a Comissão tiver conhecimento de problemas na execução dos procedimentos relativos à gestão dos recursos do FED, estabelecerá com o gestor orçamental territorial todos os contactos necessários para resolver o problema e adoptará todas as medidas adequadas.\n\nO gestor orçamental territorial assumirá unicamente a responsabilidade financeira pelas tarefas de execução que lhe são confiadas.\n\nNo âmbito da gestão descentralizada dos recursos do FED e sem prejuízo dos poderes complementares que lhe poderão ser confiados pela Comissão, o gestor orçamental territorial:\n\na) É responsável pela coordenação, programação, acompanhamento regular, pelos reexames anuais, intercalares e finais da execução da cooperação, bem como pela coordenação com os dadores;\n\nb) É responsável, em estreita colaboração com a Comissão, pela preparação, apresentação e avaliação dos programas e projectos;\n\nc) Prepara os processos dos concursos e, se for caso disso, os documentos dos convites à apresentação de propostas;\n\nd) Antes da abertura dos concursos e, se for caso disso, dos convites à apresentação de propostas, apresenta à Comissão para aprovação os processos dos concursos e, se for caso disso, os documentos dos convites à apresentação de propostas;\n\ne) Em estreita colaboração com a Comissão, procede à abertura de concursos, bem como, se for caso disso, de convites à apresentação de propostas;\n\nf) Recebe as propostas, tanto no âmbito de concursos, como, se for caso disso, de convites à apresentação de propostas, e transmite uma cópia das propostas à Comissão; preside à abertura das propostas e aprova o resultado da respectiva avaliação no prazo de validade das propostas, tendo em conta o prazo exigido para a aprovação dos contratos;\n\ng) Convida a Comissão para a abertura das propostas apresentadas no âmbito dos concursos e, se for caso disso, dos convites à apresentação de propostas e comunica os resultados da análise à Comissão para aprovação das propostas de adjudicação de contratos e de concessão das subvenções;\n\nh) Apresenta os contratos e os orçamentos-programa à Comissão para aprovação, bem como as respectivas adendas;\n\ni) Assina os contratos e respectivas adendas aprovados pela Comissão;\n\nj) Processa e autoriza o pagamento de despesas, dentro dos limites dos fundos que lhe foram atribuídos; bem como\n\nk) No decurso das operações de execução, toma as medidas de adaptação necessárias para assegurar a correcta execução, do ponto de vista económico e técnico, dos programas e projectos aprovados.\n\n2. Durante a execução das operações, e sem prejuízo do dever de informar a Comissão, o gestor orçamental territorial decidirá sobre:\n\na) As adaptações e modificações técnicas de pormenor dos programas e projectos, desde que não afectem as soluções técnicas escolhidas e não excedam a reserva para adaptações prevista na convenção de financiamento;\n\nb) As mudanças de implantação dos programas ou projectos com unidades múltiplas, por razões técnicas, económicas ou sociais;\n\nc) A aplicação ou remissão de penalidades por atraso;\n\nd) Os actos que permitam o levantamento de cauções;\n\ne) A aquisição de mercadorias no mercado local, independentemente da sua origem;\n\nf) A utilização de materiais e máquinas de construção não originários dos PTU, dos Estados-Membros nem dos Estados ACP, sempre que não exista produção de materiais e máquinas comparáveis nos PTU, nos Estados-Membros ou nos Estados ACP;\n\ng) As subempreitadas;\n\nh) A recepção definitiva, desde que a Comissão esteja presente na recepção provisória, vise as respectivas actas e, se for caso disso, esteja presente na recepção definitiva, em especial na medida em que na recepção provisória tenham sido formuladas reservas que exijam trabalhos adicionais importantes;\n\ni) O recrutamento de consultores e outros peritos de assistência técnica.\n\n3. Além disso, o gestor orçamental territorial:\n\na) Elabora e apresenta o relatório anual de execução à Comissão, após obter a aprovação do comité de acompanhamento;\n\nb) Realiza o reexame intercalar referido no artigo 22.º;\n\nc) Assegura que os organismos que participam na gestão e execução dos programas do FED mantenham um sistema contabilístico distinto ou um código contabilístico adequado relativamente a todas as operações relativas à assistência; bem como\n\nd) Toma todas as medidas necessárias para assegurar a aplicação do disposto nos artigos 16.º, 19.º, 24.º e 30.º\n\n4. Aquando da apresentação do relatório anual de execução referido no artigo 21.º, a Comissão e o gestor orçamental territorial devem examinar os principais resultados do ano anterior.\n\nApós este exame, a Comissão pode apresentar observações ao gestor orçamental territorial, o qual deve comunicar à Comissão as medidas eventualmente tomadas com base nessas observações. Quando, em casos devidamente fundamentados, a Comissão considere que as medidas tomadas não são adequadas, pode formular recomendações ao PTU em questão e ao gestor orçamental territorial, tendo em vista a introdução de ajustamentos destinados a melhorar a eficácia do acompanhamento ou das modalidades de gestão, indicando os motivos que estão na base da formulação de tais recomendações.\n\nAo receber as referidas recomendações, o gestor orçamental territorial deve seguidamente apresentar as medidas tomadas para melhorar o acompanhamento ou as modalidades de gestão ou explicar o motivo pelo qual tais medidas não foram tomadas."
+  },
+  "3280062e98052e03": {
+   "fragment_id": "Artigo 15.º — Actores regionais",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Actores regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Actores regionais\n\n1. As propostas respeitantes a um programa regional devem ser apresentadas:\n\na) Pelo menos, por dois ordenadores territoriais PTU; ou\n\nb) Excepcionalmente, por um ordenador territorial PTU sempre que numa acção referida no n.º 1, alíneas b) a e), do artigo 16.º da Decisão de Associação Ultramarina, esteja envolvido somente um PTU.\n\n2. Os programas regionais são executadas pelo ordenador territorial ou pela organização designada na proposta."
+  },
+  "757fb080a57ebd28": {
+   "fragment_id": "PARTE IV",
+   "type": "divisao",
+   "heading": "PARTE IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE IV"
+  },
+  "686adda2d872618a": {
+   "fragment_id": "ACOMPANHAMENTO, REEXAME, AUDITORIA E AVALIAÇÃO",
+   "type": "divisao",
+   "heading": "ACOMPANHAMENTO, REEXAME, AUDITORIA E AVALIAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ACOMPANHAMENTO, REEXAME, AUDITORIA E AVALIAÇÃO"
+  },
+  "05cd01e503c48007": {
+   "fragment_id": "Acompanhamento",
+   "type": "divisao",
+   "heading": "Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Acompanhamento"
+  },
+  "6db712432b8322ba": {
+   "fragment_id": "Artigo 16.º — Responsabilidade do PTU",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Responsabilidade do PTU",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Responsabilidade do PTU\n\n1. Sem prejuízo da responsabilidade da Comissão no que respeita à execução do apoio financeiro comunitário, o PTU é o primeiro responsável pelo controlo financeiro desse apoio.\n\nPara o efeito, o ordenador territorial:\n\na) Estabelece e aplica regras de gestão e de controlo que assegurem uma utilização eficaz e correcta dos fundos comunitários. A realização dos controlos financeiros internos e externos adequados deve ser efectuada, em conformidade com as normas de auditoria aceites internacionalmente, pela autoridade competente em matéria de controlo financeiro, que, para efeitos do exercício desta função, deve ser independente;\n\nb) Fornece uma descrição dessas regras à Comissão;\n\nc) Assegura que a gestão da ajuda se processe em conformidade com as regras aplicáveis e os fundos colocados à sua disposição sejam utilizados em conformidade com os princípios de uma gestão financeira sã;\n\nd) Certifica que as declarações de despesas apresentadas à Comissão são correctas e resultam de sistemas contabilísticos baseados em documentos justificativos verificáveis;\n\ne) Apresenta à Comissão, no final de cada período de programação, uma declaração elaborada por uma pessoa ou departamento independente da autoridade de gestão designada. Esta declaração deve sintetizar as conclusões dos controlos realizados nos anos anteriores e pronunciar-se sobre a validade do pedido de pagamento do saldo final, bem como da legalidade e a regularidade das operações abrangidas pelo certificado final de despesas. Os PTU podem anexar o seu próprio parecer a este certificado caso o considerem necessário;\n\nf) Coopera com a Comissão por forma a assegurar uma utilização dos recursos do FED de acordo com os princípios de uma gestão financeira sã;\n\ng) Impede, detecta e corrige as irregularidades, notifica-as à Comissão em conformidade com as regras previstas e informa a Comissão sobre o andamento dos processos administrativos ou judiciais;\n\nh) Recupera montantes eventualmente devidos em consequência de uma irregularidade detectada e, se for caso disso, cobra juros de mora sobre os pagamentos em atraso;\n\ni) Toma todas as medidas necessárias para assegurar o cumprimento das disposições previstas no programa indicativo, incluindo o cumprimento do calendário das autorizações e dos pagamentos acordado no momento da programação;\n\nj) Procura informar-se sobre os eventuais motivos de atraso na execução e propõe medidas adequadas para sanar a situação.\n\n2. Anualmente, deve ser comunicado à Comissão um plano de auditoria e um resumo das conclusões das auditorias realizadas.\n\nOs relatórios de auditoria devem estar à disposição da Comissão."
+  },
+  "dbef682e8ee55cf5": {
+   "fragment_id": "Artigo 17.º — Coordenação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Coordenação\n\n1. A Comissão e o PTU, representado pelo ordenador territorial, colaboram e coordenam os planos, métodos e execução dos controlos por forma a maximizar a utilidade dos controlos realizados. Devem comunicar-se imediatamente os resultados desses controlos.\n\n2. Pelo menos uma vez por ano, devem ser examinados e avaliados:\n\na) Os resultados dos controlos realizados pelo PTU e pela Comissão;\n\nb) Quaisquer comentários formulados por outros organismos ou instituições de controlo nacionais ou comunitários;\n\nc) O impacto financeiro de quaisquer irregularidades detectadas, as medidas já tomadas ou que ainda sejam necessárias para as corrigir e, se for caso disso, os ajustamentos a introduzir nos sistemas de gestão e de controlo.\n\n3. Na sequência do exame e da avaliação referidos no n.º 2, e sem prejuízo das medidas que devam ser imediatamente tomadas pelo PTU em conformidade com o artigo 16.º, a Comissão pode formular observações, especialmente no que respeita ao impacto financeiro de quaisquer irregularidades detectadas.\n\nEstas observações devem ser transmitidas ao ordenador territorial do PTU em questão e, se for caso disso, ser acompanhadas de pedidos no sentido de serem tomadas medidas de correcção para sanar as deficiências de gestão encontradas, bem como as irregularidades detectadas que ainda não tenham sido corrigidas.\n\nO PTU tem a possibilidade de formular os seus comentários relativamente a estas observações."
+  },
+  "87f9ef57923e515b": {
+   "fragment_id": "Artigo 18.º — Comités de acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Comités de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Comités de acompanhamento\n\n1. A execução de cada DOCUP é supervisionada por um comité de acompanhamento.\n\nAs autoridades do PTU criam o comité de acompanhamento, o mais tardar, no prazo de três meses a contar da aprovação do DOCUP.\n\n2. O comité de acompanhamento é presidido pelo ordenador territorial ou pelo seu representante.\n\nNos trabalhos do comité de acompanhamento podem participar, a título consultivo, um representante da Comissão e, se for caso disso, do Banco Europeu de Investimento.\n\nAs autoridades ou organismos designados pelo PTU, a Comissão, o Estado-Membro em questão e, se for caso disso, o Banco Europeu de Investimento e/ou qualquer outra instituição que participe no financiamento estão representados no comité. Sempre que autoridades regionais e locais e empresas privadas estejam encarregadas da execução de um projecto e que estejam directamente envolvidas num projecto, devem igualmente estar representadas no comité.\n\n3. O comité de acompanhamento estabelece o seu próprio regulamento interno no âmbito do enquadramento institucional, jurídico e financeiro do PTU em questão e aprova-o com o acordo do ordenador territorial.\n\n4. O ordenador territorial deve apresentar, aquando das reuniões do comité de acompanhamento, relatórios sobre o estado de avanço dos trabalhos, elaborados em conformidade com o modelo fornecido pela Comissão. Os relatórios devem ser recebidos pela Comissão com uma antecedência de 15 dias úteis em relação à data prevista da reunião.\n\n5. A fim de verificar a eficácia e a qualidade da execução da assistência o comité de acompanhamento:\n\na) Examina periodicamente os progressos realizados no que respeita à concretização dos objectivos específicos do DOCUP.\n\nb) Examina o reexame intercalar referido no artigo 22.º antes do seu envio à Comissão;\n\nc) Analisa e aprova o relatório anual de execução e o relatório final de execução antes do seu envio à Comissão;\n\nd) Examina e aprova qualquer proposta de alteração do conteúdo do DOCUP."
+  },
+  "174caa80a0116f60": {
+   "fragment_id": "Artigo 19.º — Indicadores de acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Indicadores de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Indicadores de acompanhamento\n\nO ordenador territorial e o comité de acompanhamento asseguram o acompanhamento através de indicadores especificados no DOCUP.\n\nOs indicadores devem ter em conta a metodologia indicativa preconizada pela Comissão.\n\nEsses indicadores devem respeitar ao carácter específico dos projectos e aos seus objectivos e precisar:\n\na) Os recursos, as realizações, os resultados e, na medida do possível, os impactos;\n\nb) A fase da intervenção atingida em termos de realizações físicas;\n\nc) O estado de avanço do plano de financiamento."
+  },
+  "deaf5dc27e915596": {
+   "fragment_id": "Reexame",
+   "type": "divisao",
+   "heading": "Reexame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Reexame"
+  },
+  "a54c9b42f8160337": {
+   "fragment_id": "Artigo 20.º — Processo de reexame",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Processo de reexame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Processo de reexame\n\n1. A cooperação financeira deve ser suficientemente flexível para assegurar uma adequação permanente das operações em relação aos objectivos da Decisão de Associação Ultramarina e ter em conta as alterações eventualmente ocorridas na situação económica, nas prioridades e nos objectivos do PTU em questão, designadamente através do relatório anual de execução e do reexame intercalar ou, se for caso disso, anual do DOCUP, referido no n.º 5 do artigo 21.º\n\n2. Nas circunstâncias excepcionais referidas nas disposições respeitantes à ajuda humanitária e à ajuda de urgência, o reexame pode ser efectuado a pedido de qualquer das partes."
+  },
+  "ec3cebd2ec7aed8a": {
+   "fragment_id": "Artigo 21.º — Relatório anual de execução",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Relatório anual de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Relatório anual de execução\n\n1. O ordenador territorial apresenta relatórios anuais de execução à Comissão no prazo de três meses a contar do termo de cada ano completo de aplicação a contar da aprovação do DOCUP.\n\n2. O relatório anual de execução sobre o DOCUP é constituído por uma avaliação conjunta da execução do programa e tem em conta os resultados das actividades de acompanhamento e de avaliação pertinentes.\n\n3. O relatório anual de execução é elaborado a nível local e finalizado em concertação entre o ordenador territorial, o comité de acompanhamento e, se for caso disso, o chefe de delegação em questão, num prazo de 60 dias.\n\n4. Este relatório contém, nomeadamente, uma avaliação:\n\na) Dos resultados alcançados no(s) sector(es) de concentração medidos em relação aos objectivos e aos indicadores de impacto identificados, bem como aos compromissos em matéria de política sectorial;\n\nb) Dos projectos e dos programas que não se inscrevem no(s) sector(es) de concentração e/ou no âmbito de programas plurianuais;\n\nc) Da utilização de recursos reservados para os actores não-governamentais;\n\nd) Da execução efectiva das operações em curso e da questão de saber em que medida o calendário de autorizações e de pagamentos foi respeitado; e\n\ne) Do eventual prolongamento da programação por forma a cobrir os anos seguintes.\n\n5. Se for caso disso, será efectuado um reexame anual com base no relatório por ocasião de uma reunião de parceria, em conformidade com o previsto no artigo 7.º da Decisão de Associação Ultramarina."
+  },
+  "943d4bfc9fe27d9c": {
+   "fragment_id": "Artigo 22.º — Reexame intercalar",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Reexame intercalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Reexame intercalar\n\n1. O reexame intercalar destina-se a analisar os resultados iniciais do DOCUP e a respectiva pertinência, bem como em que medida os seus objectivos foram alcançados.\n\nAlém disso, analisa a utilização dos recursos financeiros e o desenrolar do acompanhamento e da execução.\n\n2. O reexame intercalar é realizado sob a responsabilidade da Comissão, em colaboração com o gestor orçamental territorial e o Estado-Membro em questão.\n\nEm geral, o reexame intercalar é realizado entre 30 e 42 meses após a entrada em vigor do Acordo Interno que institui o 10.º FED.\n\nO DOCUP pode prever um prazo diferente, designadamente no que respeita aos indicadores adoptados caso se trate de apoio orçamental.\n\nO reexame intercalar é realizado por um avaliador independente, devendo ser apresentado ao comité de acompanhamento e transmitido em seguida à Comissão.\n\n3. A Comissão examina a pertinência e a qualidade do reexame com base em critérios definidos no DOCUP, incluindo no que respeita à dotação financeira do FED."
+  },
+  "27a64d46dbf9e72e": {
+   "fragment_id": "Auditorias",
+   "type": "divisao",
+   "heading": "Auditorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Auditorias"
+  },
+  "3a0e0e5f00a8ebd1": {
+   "fragment_id": "Artigo 23.º — Auditorias",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Auditorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Auditorias\n\n1. Sem prejuízo dos controlos realizados pelos países beneficiários, a Comissão e o Tribunal de Contas podem, através dos seus agentes ou de representantes devidamente autorizados, efectuar auditorias técnicas e financeiras no local, incluindo controlos por amostragem e auditorias finais no que respeita às operações financiadas pelo FED e aos sistemas de gestão e de controlo, com um pré-aviso mínimo de um dia.\n\nA Comissão informa o PTU em questão da realização das auditorias por forma a obter toda a assistência necessária. Nesses controlos, podem participar funcionários ou agentes do PTU em questão. A Comissão pode solicitar ao PTU em questão a realização *in situ* do controlo para verificar a regularidade de uma ou mais operações. Nesses controlos, podem participar funcionários ou agentes da Comissão.\n\n2. Os países beneficiários devem assistir os serviços da Comissão e o Tribunal de Contas na realização das auditorias sobre a utilização dos fundos do FED."
+  },
+  "598afee51e1f472f": {
+   "fragment_id": "Artigo 24.º — Pista de auditoria",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Pista de auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Pista de auditoria\n\n1. Os sistemas de gestão e de controlo dos PTU devem proporcionar uma pista de auditoria suficiente, em conformidade com as condições previstas em cada acordo de financiamento.\n\n2. Considera-se que uma pista de auditoria é suficiente quando:\n\na) Os registos contabilísticos, conservados ao nível de gestão adequado, fornecem informações pormenorizadas sobre as despesas efectivamente realizadas no que respeita às operações financiadas pelo FED. Os registos contabilísticos mencionam a data em que os documentos foram criados, o montante de cada elemento da despesa, a natureza dos documentos comprovativos e a data e o modo de pagamento. As provas documentais necessárias (facturas, etc.) são anexadas;\n\nb) As especificações técnicas e o plano financeiro da operação, os relatórios sobre o estado de avanço dos trabalhos, os documentos relativos ao processo de aprovação da subvenção e aos processos de concurso e de adjudicação dos contratos, bem como os relatórios sobre as inspecções dos produtos e serviços financiados, são igualmente conservados ao nível de gestão adequado;\n\nc) No caso de transferência informática dos dados contabilísticos, todas as autoridades e organismos em questão devem receber das autoridades ou organismos do nível imediatamente inferior informações suficientes que comprovem os seus próprios registos contabilísticos e os montantes que comunicam ao nível imediatamente superior, por forma a assegurar uma pista de auditoria suficiente, desde que os montantes totais comunicados à Comissão até aos diferentes elementos das despesas e aos documentos comprovativos ao nível dos beneficiários finais e dos organismos e empresas que realizam as operações.\n\n3. O ordenador territorial toma todas as medidas necessárias tendo em vista a aplicação do disposto no presente artigo."
+  },
+  "6cc3b57c1b453c93": {
+   "fragment_id": "CAPÍTULO 4",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 4"
+  },
+  "052cd8b4ba7e5e34": {
+   "fragment_id": "Avaliação",
+   "type": "divisao",
+   "heading": "Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Avaliação"
+  },
+  "63a88efcb2827319": {
+   "fragment_id": "Artigo 25.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Avaliação\n\n1. A avaliação do DOCUP deve contemplar a utilização dos recursos, a eficácia e a eficiência da assistência e do seu impacto, bem como retirar conclusões e formular recomendações, utilizando designadamente os resultados da avaliação já disponíveis\n\nA referida avaliação deve abranger os factores que contribuem para o êxito ou o insucesso da execução, bem como as realizações e os resultados, incluindo a sua sustentabilidade.\n\n2. A avaliação do DOCUP incumbe à Comissão, em colaboração com o comité de acompanhamento.\n\n3. O programa de avaliação deve ser definido no DOCUP.\n\nEm especial, as avaliações:\n\na) Fornecem avaliações periódicas e independentes das operações e actividades do fundo, comparando os resultados e os objectivos esperados com as realizações efectivamente concretizadas e, por conseguinte;\n\nb) Permitem que os PTU, os Estados-Membros e a Comissão se inspirem na experiência adquirida para conceber e executar as futuras políticas e operações.\n\n4. Os resultados da avaliação são tornados públicos."
+  },
+  "714f885b5ade8c64": {
+   "fragment_id": "Artigo 26.º — Processo de avaliação",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Processo de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Processo de avaliação\n\nSem prejuízo das avaliações realizadas pelo PTU ou pela Comissão, as avaliações dos projectos, dos programas ou de outras actividades de execução do DOCUP podem ser realizadas conjuntamente pelo PTU e pela Comissão, em colaboração com o Estado-Membro."
+  },
+  "490ba40047fcf66e": {
+   "fragment_id": "PARTE V",
+   "type": "divisao",
+   "heading": "PARTE V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE V"
+  },
+  "3efbe54245b52b7e": {
+   "fragment_id": "ADAPTAÇÕES FINANCEIRAS",
+   "type": "divisao",
+   "heading": "ADAPTAÇÕES FINANCEIRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ADAPTAÇÕES FINANCEIRAS"
+  },
+  "9bf06e5023dff201": {
+   "fragment_id": "Artigo 27.º — Adaptação das contribuições do FED",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Adaptação das contribuições do FED",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Adaptação das contribuições do FED\n\nCom base nos resultados do acompanhamento, das auditorias e das avaliações e tendo em conta as observações do comité de acompanhamento, a Comissão pode adaptar os montantes e as condições fixados no DOCUP inicial, por sua própria iniciativa ou sob proposta do PTU em questão, em função das necessidades, resultados e dados estatísticos mais recentes disponíveis relativos ao PTU em questão.\n\nEsta adaptação é normalmente realizada por ocasião do reexame intercalar, em conformidade com o procedimento referido no artigo 22.º ou, em caso de irregularidades, no mais curto prazo, em conformidade com o procedimento referido no artigo 24.º da Decisão de Associação Ultramarina."
+  },
+  "09119f6e39688062": {
+   "fragment_id": "Artigo 28.º — Suspensão dos pagamentos",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Suspensão dos pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Suspensão dos pagamentos\n\n1. A Comissão suspende os pagamentos e, apresentando as suas razões, solicita ao PTU que apresente as suas observações e, se for caso disso, introduza as eventuais correcções, dentro de um determinado prazo se, uma vez finalizados os necessários controlos, concluir que:\n\na) Um PTU não cumpriu as suas obrigações; ou\n\nb) O conjunto ou certos elementos do DOCUP não justificam a totalidade ou uma parte da contribuição do FED; ou\n\nc) Os sistemas de gestão ou de controlo apresentam graves lacunas susceptíveis de conduzirem sistematicamente a irregularidades.\n\n2. O PTU em questão dispõe de um prazo de dois meses para responder a um pedido de apresentação das suas observações e, se for caso disso, para introduzir correcções, excepto em casos devidamente justificados em que a Comissão pode conceder um prazo mais alargado.\n\n3. Se o PTU contestar as observações da Comissão, o PTU e o Estado-Membro em questão são convidados pela Comissão a participar numa reunião de parceria no decurso da qual todas as partes se esforçarão por chegar a acordo quanto às observações e às conclusões a retirar.\n\nSempre que o PTU conteste as observações da Comissão e se realize uma reunião de parceria *ad hoc*, o período de três meses previsto no n.º5 dentro do qual a Comissão pode tomar uma decisão começa a contar a partir da data da reunião de parceria.\n\n4. Sempre que a Comissão proponha correcções financeiras, o PTU tem a possibilidade de demonstrar, através de um exame dos processos em questão, que a irregularidade cometida era na realidade inferior à estimativa da Comissão.\n\nExcepto em casos devidamente justificados, o prazo concedido para este exame não deve ultrapassar um prazo suplementar de dois meses a contar do prazo de dois meses referido no n.º 1.\n\nA Comissão tem em conta todos os elementos de prova fornecidos pelo PTU dentro dos prazos fixados.\n\n5. No final do período fixado no n.º 2, caso não se chegue a acordo e o PTU não introduza as correcções necessárias, a Comissão, tendo em conta as observações eventualmente formuladas pelo PTU e pelos Estados-Membros, pode decidir, num prazo de três meses:\n\na) Reduzir os pagamentos; ou\n\nb) Introduzir as correcções financeiras necessárias anulando a totalidade ou parte da contribuição do FED.\n\n6. Sem prejuízo do disposto nos n.^os^ 1 a 5, a Comissão pode, após proceder à devida verificação, suspender a totalidade ou parte de um pagamento provisório se verificar que a despesa em questão está ligada a uma grave irregularidade que não foi corrigida e que é necessário tomar medidas imediatas.\n\nA Comissão comunica ao PTU em questão as medidas tomadas e as respectivas razões. Se, decorridos cinco meses, persistirem os motivos que justificaram a suspensão ou o PTU em questão não tiver notificado à Comissão as medidas tomadas para corrigir a grave irregularidade, são aplicáveis as disposições previstas no artigo 30.º"
+  },
+  "dccdca7ca2808eb9": {
+   "fragment_id": "Artigo 29.º — Cobrança e reembolsos",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Cobrança e reembolsos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Cobrança e reembolsos\n\n1. Os reembolsos eventualmente devidos à Comissão devem ser efectuados até à data-limite indicada na ordem de cobrança elaborada em conformidade com o regulamento financeiro aplicável ao 10.º FED. Essa data de vencimento é o último dia do segundo mês seguinte ao da emissão da ordem.\n\n2. Qualquer atraso na realização do reembolso dá origem à cobrança de juros de mora, calculados desde o termo do prazo referido no n.º 1 até à data de realização efectiva do pagamento. A taxa dos juros de mora é superior, num ponto e meio percentual, à taxa aplicada pelo Banco Central Europeu às suas principais operações de refinanciamento no primeiro dia útil do mês em que termina o prazo para pagamento.\n\n3. O gestor orçamental territorial mantém uma contabilidade dos montantes a recuperar relativamente a pagamentos da assistência comunitária já efectuados e assegura a recuperação dos montantes sem demora injustificada.\n\nO beneficiário reembolsa os montantes a cobrar, juntamente com os juros de mora, deduzindo os montantes em questão do seu mapa de despesas seguinte e do pedido de pagamento à Comissão ou, caso tal seja insuficiente, efectuando um reembolso à Comunidade.\n\nO gestor orçamental territorial envia anualmente à Comissão um mapa dos montantes ainda não cobrados naquela data, classificados por ano de início do processo de recuperação."
+  },
+  "df8be8daff5073ba": {
+   "fragment_id": "PARTE VI",
+   "type": "divisao",
+   "heading": "PARTE VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "04427fe0e97db036": {
+   "fragment_id": "Artigo 30.º — Informação e publicidade",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Informação e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Informação e publicidade\n\n1. Os PTU devem assegurar que os programas financiados a título do FED sejam objecto de uma publicidade adequada a fim de:\n\na) Sensibilizar a opinião pública para o papel desempenhado pela Comunidade no que respeita àqueles programas;\n\nb) Sensibilizar os beneficiários potenciais e as organizações profissionais para as possibilidade oferecidas.\n\n2. Os países beneficiários devem, designadamente, assegurar a colocação de painéis directamente visíveis indicando os resultados concretos dos programas financiados pela Comunidade, incluindo o logotipo da Comunidade, e que os representantes das instituições comunitárias participem devidamente nas actividades públicas mais importantes relacionadas com os programas financiados a título do FED."
+  },
+  "208872c55a14564f": {
+   "fragment_id": "Artigo 31.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Entrada em vigor\n\nO presente regulamento entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "a6f74425191af856": {
+   "fragment_id": "ESTRUTURA NORMALIZADA DOS DOCUMENTOS ÚNICOS DE PROGRAMAÇÃO PARA OS PAÍSES E TERRITÓRIOS ULTRAMARINOS NO ÂMBITO DO 10.º FED",
+   "type": "divisao",
+   "heading": "ESTRUTURA NORMALIZADA DOS DOCUMENTOS ÚNICOS DE PROGRAMAÇÃO PARA OS PAÍSES E TERRITÓRIOS ULTRAMARINOS NO ÂMBITO DO 10.º FED",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESTRUTURA NORMALIZADA DOS DOCUMENTOS ÚNICOS DE PROGRAMAÇÃO PARA OS PAÍSES E TERRITÓRIOS ULTRAMARINOS NO ÂMBITO DO 10.º FED\n\nO texto integral, incluindo o resumo e os capítulos 1 a 6, deve limitar-se a 15 páginas no máximo (*word count*), mais anexos."
+  },
+  "f6ce2b0c89593d1f": {
+   "fragment_id": "PARTE A: ESTRATÉGIA DE COOPERAÇÃO",
+   "type": "divisao",
+   "heading": "PARTE A: ESTRATÉGIA DE COOPERAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A: ESTRATÉGIA DE COOPERAÇÃO\n\nOs DOCUP devem começar com um resumo de meia página que apresenta os principais desafios a médio e longo prazos a nível político, institucional, económico, social ou ambiental a que devem fazer face os PTU, o objectivo principal do DOCUP, as motivações essenciais para a escolha do domínio fulcral, bem como a distribuição global dos fundos."
+  },
+  "ca07cc0c02674b9c": {
+   "fragment_id": "Capítulo 1: Objectivos da cooperação da CE",
+   "type": "divisao",
+   "heading": "Capítulo 1: Objectivos da cooperação da CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 1: Objectivos da cooperação da CE\n\nEste capítulo apresenta de forma explícita os objectivos gerais da cooperação da CE, tal como estabelecidos no Tratado CE, na Decisão da Associação Ultramarina, em acordos internacionais e na recente declaração da CE sobre a sua política de desenvolvimento."
+  },
+  "67a93a5dd6af659e": {
+   "fragment_id": "Capítulo 2: Avaliação da situação a nível político, económico, social e ambiental",
+   "type": "divisao",
+   "heading": "Capítulo 2: Avaliação da situação a nível político, económico, social e ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 2: Avaliação da situação a nível político, económico, social e ambiental\n\nNeste capítulo serão indicados os principais desenvolvimentos/temas de politica interna e os aspectos relevantes do contexto externo, bem como apresentado o contexto político, as questões comerciais, a situação socioeconómica, os aspectos ambientais e, por último, o carácter sustentável das actuais políticas e os desafios a médio e longo prazos.\n\nEste exercício deve ser analítico e não meramente descritivo. A análise deve ser centrada no diálogo e elaborada em estreita colaboração com outros doadores (se for caso disso), devendo envolver os intervenientes não estatais.\n\nSe for caso disso, deve ser dada especial atenção à aplicação dos princípios internacionais de boa governação no sector financeiro, fiscal e judiciário, bem como à dimensão e calendário das reformas neste sector.\n\nOutra questão especialmente importante é a disponibilidade de dados estatísticos actualizados."
+  },
+  "fc6293f475642c4d": {
+   "fragment_id": "Capítulo 3: Agenda política dos PTU",
+   "type": "divisao",
+   "heading": "Capítulo 3: Agenda política dos PTU",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 3: Agenda política dos PTU\n\nEste capítulo apresenta de forma concisa os objectivos gerais e os objectivos específicos do Governo estabelecidos nos documentos estratégicos oficiais, nos planos a médio e longo prazos, nas estratégias de reforma ou nos programas de desenvolvimento. Além disso, o Governo deve indicar de que modo pretende alcançar estes objectivos."
+  },
+  "f63749a008b89ee3": {
+   "fragment_id": "Capítulo 4: Avaliação da cooperação comunitária anterior e em curso",
+   "type": "divisao",
+   "heading": "Capítulo 4: Avaliação da cooperação comunitária anterior e em curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 4: Avaliação da cooperação comunitária anterior e em curso\n\nEste capítulo apresenta de forma sucinta os resultados e os ensinamentos retirados da cooperação comunitária anterior e em curso. Serão tidas em conta as recomendações de avaliações relevantes dos PTU, dos sectores ou projectos específicos.\n\nNum parágrafo sobre a coerência (articulação de políticas comunitárias) deverão ser avaliadas as relações existentes entre os DOCUP e os outros instrumentos, políticas e recursos comunitários. Devem ser indicados os programas dos Estados-Membros da União Europeia e dos outros doadores (se for caso disso). Será dada especial atenção à coordenação entre os programas territoriais e regionais e a cooperação com os países ACP e com as regiões ultraperiféricas referidas no n.º 2 do artigo 299.º do Tratado."
+  },
+  "e4cf9caa06926448": {
+   "fragment_id": "Capítulo 5: Estratégia de resposta",
+   "type": "divisao",
+   "heading": "Capítulo 5: Estratégia de resposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 5: Estratégia de resposta\n\nEste capítulo ilustra as escolhas estratégicas da cooperação comunitária, especificando os sectores/domínios em que a assistência irá incidir. Esta escolha deve decorrer logicamente do seguinte:\n\n— Objectivos de política da CE;\n\n— Análise da situação dos PTU e da sua estratégia de desenvolvimento, que, por sua vez, determina a pertinência e sustentabilidade da estratégia de apoio;\n\n— Conclusões alcançadas pelas partes no âmbito de uma análise «articulação de políticas»/coerência;\n\n— Volume indicativo de fundos disponíveis;\n\n— Ensinamentos retirados de actividades da CE realizadas no passado e de actividades actualmente em curso;\n\n— Complementaridade com a assistência de outros doadores importantes e outros programas dos governos dos próprios PTU. A assistência comunitária deverá incidir em áreas em que apresenta vantagens comparativas ou possui competências especiais.\n\nEste capítulo deve igualmente apresentar uma avaliação concisa da capacidade institucional, indicando, se for caso disso, as acções eventualmente necessárias para o desenvolvimento institucional e das capacidades ou, se necessário, as acções destinadas a apoiar melhoramentos a nível da governação, nomeadamente nos planos financeiro, fiscal e judicial.\n\nSe a modalidade de financiamento proposta for o apoio directo a programas ou projectos, será necessário descrever as circunstâncias excepcionais e devidamente justificadas que impedem a prestação de apoio orçamental. Se as condições para a concessão de apoio orçamental não estiverem reunidas, indicar as medidas a adoptar para assegurar que sejam criadas as condições para tal apoio."
+  },
+  "46cd124cfea01ebf": {
+   "fragment_id": "PARTE B: PROGRAMA TERRITORIAL",
+   "type": "divisao",
+   "heading": "PARTE B: PROGRAMA TERRITORIAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B: PROGRAMA TERRITORIAL"
+  },
+  "d31fd4611fa501b0": {
+   "fragment_id": "Capítulo 6: Programa territorial",
+   "type": "divisao",
+   "heading": "Capítulo 6: Programa territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo 6: Programa territorial\n\nEste capítulo apresenta o programa territorial do PTU, baseado e plenamente conforme com a análise estratégica. O programa territorial faz parte integrante do DOCUP e é composto pelas duas secções seguintes:"
+  },
+  "e46bc42110f5c1cd": {
+   "fragment_id": "OPÇÃO A: PROGRAMA DE APOIO A POLÍTICAS SECTORIAIS",
+   "type": "divisao",
+   "heading": "OPÇÃO A: PROGRAMA DE APOIO A POLÍTICAS SECTORIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OPÇÃO A: PROGRAMA DE APOIO A POLÍTICAS SECTORIAIS\n\n| Título |  |  |  |\n| --- | --- | --- | --- |\n| Custo total | *Especificar: contribuição da CE e, se for caso disso, contribuição dos PTU beneficiários (e, eventualmente, de outros doadores)* |  |  |\n| Método de ajuda/modo de gestão | Programa de apoio a políticas sectoriais: — Apoio orçamental sectorial (gestão centralizada); — Fundo comum [gestão centralizada (directa ou indirecta)/gestão descentralizada/gestão conjunta]; — Abordagem projecto — gestão centralizada [(directa ou indirecta)/gestão descentralizada/gestão conjunta)]. |  |  |\n| Código CAD |  | Sector |  |"
+  },
+  "d3e763c693c4ceaa": {
+   "fragment_id": "1. Justificação e contexto dos PTU",
+   "type": "divisao",
+   "heading": "1. Justificação e contexto dos PTU",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Justificação e contexto dos PTU\n\nPrincipais conclusões da avaliação da situação macroeconómica, especialmente as perspectivas a médio e longo prazos.\n\nSe a modalidade de financiamento seleccionada for o apoio orçamental, indicar o seguinte:\n\n— Situação macroeconómica: estrutura do PIB; resultados económicos recentes e tendências previstas, incluindo o crescimento do PIB e a inflação; finanças públicas, défice orçamental, peso da dívida e montante de pagamentos em atraso; parte das despesas nos sectores principais; conta corrente e de capital da balança de pagamentos, reservas; situação monetária; papel da ajuda externa na economia; relações com o Fundo Monetário Internacional.\n\n— Perfil e tendências em matéria de pobreza: evolução do PIB real *per capita*; coerência entre a taxa de crescimento e o objectivo de redução da pobreza; resultados de estudos sobre pobreza; principais indicadores sociais em relação a outros países; evolução dos indicadores nos últimos anos (se disponível).\n\n— Cumprimento do critério de elegibilidade para apoio orçamental, nomeadamente a existência de uma situação macroeconómica suficientemente estável.\n\nPrincipais elementos da política, prioridades e orientações estratégicas:\n\n— As principais características da política e estratégia de desenvolvimento nacional [análise da situação actual, declaração de política geral e de estratégia, plano(s) de acção, perspectivas financeiras a médio prazo e orçamento, bem como medição de resultados, acompanhamento e avaliação];\n\n— Carácter realista da política e da estratégia (nomeadamente a relação existente entre crescimento e redução da pobreza, orientações estratégicas);\n\n— Apropriação da política e da estratégia por parte do Governo, em geral, e do Ministério de tutela, em particular.\n\nOrigem e situação do programa sectorial do Governo:\n\n— Principais resultados da avaliação da política sectorial e orçamental do Governo e respectivas perspectivas financeiras a médio prazo (se disponíveis), bem como as suas relações com o quadro estratégico territorial;\n\n— Avaliação da capacidade institucional;\n\n— Quadro global para o acompanhamento da execução das políticas e estratégias sectoriais.\n\nSe a modalidade de financiamento seleccionada for o apoio orçamental, apresentar as principais conclusões sobre a avaliação da gestão das finanças públicas:\n\n— Qualidade do sistema de gestão das finanças públicas, incluindo eventuais questões e reformas sectoriais específicas;\n\n— Avaliação do processo destinado a melhorar o sistema de gestão das finanças públicas.\n\nNo caso de recurso a apoio orçamental, indicar se os critérios de elegibilidade relevantes foram cumpridos:\n\n— Existência de uma política sectorial bem definida; e\n\n— Existência de um programa bem estruturado tendo em vista melhorar a gestão das finanças públicas.\n\nReferência a reexames, avaliações, acompanhamento da execução e avaliações de acções anteriores pertinentes.\n\nPanorâmica global das acções comunitárias em curso, das acções de outros doadores e/ou do PTU beneficiário, complementares da presente acção.\n\nDescrição do processo de coordenação com o PTU beneficiário e/ou outros doadores, nomeadamente os Estados-Membros."
+  },
+  "1cf8223290da6ec6": {
+   "fragment_id": "2. Descrição",
+   "type": "divisao",
+   "heading": "2. Descrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Descrição\n\nPrincipais objectivos e componentes do programa sectorial do governo e objectivos do presente programa de apoio a políticas sectoriais relacionados com esse programa.\n\nResultados esperados do programa sectorial do governo e do programa de apoio a políticas sectoriais; actividades específicas a empreender ao abrigo do programa de apoio a políticas sectoriais.\n\nApresentação das principais partes interessadas, incluindo os beneficiários; consulta da sociedade civil e de outros parceiros; apropriação e avaliação da capacidade institucional.\n\nIdentificação dos principais riscos e panorâmica das medidas de compensação; elementos que atestam a sustentabilidade da acção proposta. Se a modalidade de financiamento seleccionada for o apoio orçamental, indicar os riscos em termos do cumprimento dos critérios de elegibilidade.\n\nSustentabilidade ambiental, igualdade de género, boa governação e direitos humanos."
+  },
+  "d16405118faa8e1d": {
+   "fragment_id": "3. Questões relativas à execução",
+   "type": "divisao",
+   "heading": "3. Questões relativas à execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Questões relativas à execução\n\nEscolher a opção relevante em função da modalidade de financiamento seleccionada:\n\n— Gestão centralizada.\n\n— Gestão conjunta através da assinatura de um acordo com uma organização internacional.\n\n— Gestão descentralizada através da assinatura de uma convenção de financiamento com um PTU (no caso de execução parcialmente centralizada ou de execução parcialmente descentralizada, seleccionar esta opção).\n\n— Em caso de descentralização dos procedimentos de adjudicação de contratos e da concessão de subvenções:\n\n— a Comissão efectua controlos *ex ante* dos procedimentos de adjudicação de contratos de montante superior a 50 000 EUR e controlos *ex post* relativamente a contratos de montante inferior a 50 000 EUR,\n\n— ou\n\n— a Comissão efectua controlos *ex post* dos procedimentos de adjudicação de contratos (a descentralização total só pode ser aplicada se forem plenamente cumpridos os critérios de descentralização estabelecidos no regulamento financeiro).\n\n— Em caso de descentralização dos pagamentos (possível unicamente nos casos em que os processos de adjudicação dos contratos são efectuados de forma descentralizada):\n\n— no âmbito dos orçamentos-programa, os pagamentos são efectuados de forma descentralizada no que diz respeito aos custos de funcionamento e a contratos de valor inferior aos seguintes limites máximos:\n\n| Obras | Fornecimentos | Serviços | Subvenções |\n| --- | --- | --- | --- |\n| < 300 000 EUR | < 150 000 EUR | < 200 000 EUR | ≤ 100 000 EUR |\n\n— ou\n\n— os pagamentos são efectuados de forma totalmente descentralizada (a descentralização total só pode ser aplicada se forem plenamente cumpridos os critérios de descentralização estabelecidos no regulamento financeiro).\n\nO texto seguinte será inserido sem alterações relativamente a actividades às quais sejam aplicáveis procedimentos comunitários: «Todos os contratos de execução da acção em questão serão adjudicados e executados em conformidade com os procedimentos e documentos normalizados elaborados e publicados pela Comissão para a execução de acções externas, em vigor à data do lançamento do procedimento em questão.»\n\nO texto seguinte será inserido sem alterações se o acordo com uma organização internacional previr a aplicação das suas próprias regras e procedimentos, que devem ser conformes às normas internacionais: «Todos os contratos de execução da acção serão adjudicados e executados em conformidade com os procedimentos e documentos normalizados elaborados e publicados pela organização internacional em questão.»\n\nSe forem aplicáveis regras e procedimentos distintos dos procedimentos comunitários, esses devem ser indicados e cumprir os critérios estabelecidos no regulamento financeiro.\n\nRepartição indicativa do montante global por componentes principais, incluindo avaliação, auditoria e visibilidade. Se adequado, indicar igualmente a contribuição do PTU beneficiário por rubrica orçamental, especificando se essa contribuição é efectuada em espécie ou em numerário.\n\nSempre que possível, indicar a parte do financiamento reservada a subvenções e a contratos públicos; relativamente aos contratos, indicar o tipo de contrato (de serviços, fornecimento ou obras) e relativamente às subvenções, indicar a principal categoria de beneficiários previstos.\n\nSe aplicável: mencionar o prazo indicativo para o lançamento dos processos de concurso ou dos convites à apresentação de propostas.\n\nSe a modalidade de financiamento seleccionada for o apoio orçamental, apresentar o calendário indicativo dos desembolsos com a repartição em meses, distinguindo as fracções fixas das fracções variáveis, se adequado.\n\nIndicar a duração operacional, em meses, a partir da assinatura da convenção de financiamento (contrato ou outro acordo de execução caso não seja assinada uma convenção de financiamento).\n\nDescrição das modalidades de acompanhamento da execução.\n\nIndicadores de desempenho para o Programa de apoio a políticas sectoriais; coerência com o quadro global de avaliação dos resultados do Programa de apoio a políticas sectoriais; processo de acompanhamento da execução; meios de verificação; medidas destinadas a melhorar o processo de medição do desempenho (se pertinente).\n\nSe a modalidade de financiamento seleccionada for o apoio orçamental ou o financiamento conjunto: condições gerais para o desembolso de todas as fracções; definição das áreas às quais são aplicáveis condições especiais para o desembolso das fracções individuais.\n\nDevem ser identificados os recursos, resultados e realizações, e, tanto quanto possível, os indicadores de impacto relativamente às áreas abrangidas pelo domínio fulcral. Os indicadores devem ter em conta os critérios ditos SMART (ou seja, devem ser específicos, mensuráveis a curto/médio prazos, exequíveis, realistas e acompanhados de prazos) e incluir um nível de partida, um objectivo e um horizonte temporal claro, de forma a permitir estabelecer comparações aquando dos reexames anuais, intercalares e finais.\n\nDescrição das avaliações (intercalares, finais e *ex post*) e disposições em matéria de auditoria.\n\nDescrição das actividades de comunicação e visibilidade."
+  },
+  "28c7bfdc029f493c": {
+   "fragment_id": "OPÇÃO B: APOIO ORÇAMENTAL GERAL",
+   "type": "divisao",
+   "heading": "OPÇÃO B: APOIO ORÇAMENTAL GERAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OPÇÃO B: APOIO ORÇAMENTAL GERAL\n\n| Título |  |  |  |\n| --- | --- | --- | --- |\n| Custo total | Contribuição da CE |  |  |\n| Método de ajuda/modo de gestão | Apoio orçamental geral — gestão centralizada |  |  |\n| Código CAD |  | Sector |  |"
+  },
+  "a929a138f726a3d5": {
+   "fragment_id": "1. Justificação e contexto dos PTU",
+   "type": "divisao",
+   "heading": "1. Justificação e contexto dos PTU",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Justificação e contexto dos PTU\n\nSituação macroeconómica: estrutura do PIB; resultados económicos recentes, incluindo o crescimento do PIB e a inflação; finanças públicas, défice orçamental, peso da dívida e montante dos pagamentos em atraso; parte das despesas nos sectores principais; conta corrente e de capital da balança de pagamentos, reservas; situação monetária; papel da ajuda externa na economia; resumo das principais tendências no passado e tendências previstas, expressas em variáveis macroeconómicas; descrição das relações existentes entre o país parceiro e o Fundo Monetário Internacional; eventuais questões especiais de interesse macroeconómico específicas do PTU.\n\nPerfil e tendências em matéria de pobreza: evolução do PIB real *per capita*; coerência entre a taxa de crescimento e o objectivo de redução da pobreza; resultados de estudos sobre pobreza; situação dos principais indicadores sociais em relação a outros países; evolução dos indicadores nos últimos anos (se disponível).\n\nIndicar se o critério de elegibilidade para apoio orçamental foi cumprido, ou seja, se foi adoptada ou está a ser aplicada uma política macroeconómica orientada para a estabilidade e se esta política deve ser apoiada pela CE.\n\nPrincipais prioridades políticas e estratégicas e orientações:\n\n— Política e estratégia do PTU:\n\n— Principais características da política e estratégia de desenvolvimento do PTU [análise da situação actual, declaração relativa à política e à estratégica, plano(s) de acção, perspectivas financeiras e orçamentais a médio prazo, medição, acompanhamento e avaliação dos resultados];\n\n— Carácter realista da política e da estratégia (nomeadamente as relações existentes entre crescimento e redução da pobreza, orientações estratégicas);\n\n— Apropriação da política e da estratégia.\n\n— Medição do desempenho: existência de um processo de acompanhamento com indicadores de desempenho destinado a avaliar em que medida os objectivos foram atingidos; coerência com os Objectivos de Desenvolvimento do Milénio e aproximação em relação à EU a nível político e económico; existência de um programa que garanta a qualidade dos indicadores de desempenho utilizados.\n\n— Indicar se o critério de elegibilidade para apoio orçamental foi cumprido, ou seja, se foi adoptada ou está a ser aplicada uma política ou estratégia de desenvolvimento ou de reforma e ainda se esta política deve ser apoiada pela CE.\n\nPanorâmica das características dos principais sectores e políticas sectoriais nas áreas prioritárias abrangidas pelo presente programa.\n\nPrincipais questões de finanças públicas em dois domínios cruciais:\n\n— Gestão das Finanças Públicas:\n\n— Avaliação da qualidade do sistema existente de gestão das finanças públicas;\n\n— Avaliação do processo destinado a melhorar a gestão das finanças públicas, incluindo o compromisso das autoridades dos PTU de melhorarem o seu desempenho neste domínio; importância e grau de aplicação da estratégia de reforma; importância e grau de coordenação e execução dos programas de desenvolvimento das capacidades no que respeita à gestão das finanças públicas;\n\n— Indicar se o critério de elegibilidade para apoio orçamental foi cumprido, ou seja, se foi adoptado um programa credível e pertinente destinado a melhorar o sistema de gestão das finanças públicas.\n\n— Orçamento nacional e perspectivas financeiras a médio prazo: parte do apoio orçamental em relação ao orçamento; tipo e cobertura do orçamento [incluindo a estrutura das receitas e das despesas; coerência entre, por um lado, a política e estratégia do PTU e as dotações e receitas orçamentais; estratégia orçamental (incluindo a sustentabilidade orçamental, a sustentabilidade da dívida, as regras orçamentais e as estratégias de financiamento]; medidas destinadas a optimizar a relação custo/eficácia; perspectivas financeiras a médio prazo [incluindo a cobertura, a integração (ou não integração) no processo orçamental, grau de reorientação em conformidade com políticas e estratégias].\n\nResumo dos ensinamentos retirados, incluindo os resultados de reexames, avaliações, acompanhamento e avaliações de acções anteriores pertinentes para este programa específico.\n\nPanorâmica geral das acções comunitárias em curso, acções de outros doadores e/ou do PTU beneficiário, complementares da presente acção.\n\nDescrição do processo de coordenação com o PTU beneficiário e/ou outros doadores, nomeadamente os Estados-Membros."
+  },
+  "540fb56c54d43a9b": {
+   "fragment_id": "2. Descrição",
+   "type": "divisao",
+   "heading": "2. Descrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Descrição\n\nObjectivos gerais: derivados da política e da estratégia do PTU. Trata-se, em geral, de um contributo para a realização dos objectivos gerais de desenvolvimento e dos Objectivos de Desenvolvimento do Milénio, como o crescimento, a redução da pobreza, a segurança e as relações de boa vizinhança, a integração na economia mundial e a parceria económica.\n\nObjectivo específico: derivado da política e da estratégia do PTU. Contempla aspectos específicos da estratégia global, relacionados, muitas vezes, com a melhoria da estabilidade macroeconómica, a gestão das finanças públicas e a execução das reformas, o aumento da eficiência da actuação do Governo e do funcionamento dos serviços sociais.\n\nOs resultados esperados prendem-se, em geral, com a melhoria do funcionamento do sector público e dos bens e serviços que este fornece, bem como com a melhoria do quadro da política e das despesas públicas. Estes bens e serviços contribuem para a realização dos objectivos gerais, nomeadamente os objectivos de redução da pobreza e os Objectivos de Desenvolvimento do Milénio.\n\nAs actividades principais cobrem questões relacionadas com o diálogo sobre políticas, as acções de desenvolvimento das capacidades, o controlo das condições de desembolso do apoio orçamental. Os meios (ou recursos) referem-se principalmente à assistência financeira prestada sob forma de apoio orçamental, indicando a dimensão deste apoio em relação às principais variáveis macroeconómicas.\n\nApresentação das principais partes interessadas, incluindo os beneficiários; consulta da sociedade civil e de outros parceiros; apropriação e avaliação da capacidade institucional.\n\nIdentificação dos principais riscos, nomeadamente no que respeita a critérios de elegibilidade, e panorâmica de medidas de atenuação.\n\nSustentabilidade ambiental, igualdade de género, boa governação e direitos humanos."
+  },
+  "a5aa57b810506836": {
+   "fragment_id": "3. Questões relativas à execução",
+   "type": "divisao",
+   "heading": "3. Questões relativas à execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Questões relativas à execução\n\nOrçamento total e calendário indicativo dos desembolsos, discriminado por meses e, se necessário, estabelecendo uma distinção entre fracções fixas e fracções variáveis.\n\nDuração operacional indicada em meses a partir da data de assinatura da convenção de financiamento.\n\nDotações orçamentais para medidas adicionais de apoio à acção.\n\nEspecificar: directo/indirecto; específico/não específico; política e estratégia a médio prazo/a curto prazo (consoante o caso).\n\nUnicamente para apoio complementar como assistência técnica, auditoria e avaliação. O texto seguinte será inserido sem alterações: «Todos os contratos de execução da presente acção serão adjudicados e executados em conformidade com os procedimentos e documentos normalizados elaborados e publicados pela Comissão para a execução de acções externas, em vigor à data do lançamento do procedimento em questão.»\n\nDescrição das modalidades de acompanhamento da execução, das condições gerais de desembolso de todas as fracções e condições específicas de desembolso de fracções individuais. Devem ser identificados os recursos, resultados e realizações e, tanto quanto possível, os indicadores de impacto relativamente às áreas abrangidas pelo domínio fulcral. Os indicadores devem ter em conta os critérios ditos SMART (ou seja, devem ser específicos, mensuráveis a curto/médio prazo, exequíveis, realistas e acompanhados de prazos) e incluir um nível de partida, um objectivo e um horizonte temporal claro, de forma a permitir estabelecer comparações aquando de reexames anuais, intercalares e finais.\n\nDescrição das avaliações (intercalar, final e *ex post*) e disposições em matéria de auditoria.\n\nDescrição das actividades de comunicação e visibilidade."
+  },
+  "658d72df0366bcd8": {
+   "fragment_id": "OPÇÃO C: ABORDAGEM PROJECTO",
+   "type": "divisao",
+   "heading": "OPÇÃO C: ABORDAGEM PROJECTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OPÇÃO C: ABORDAGEM PROJECTO\n\n| Título |  |  |  |\n| --- | --- | --- | --- |\n| Custo total | Especificar: contribuição da CE e, se for caso disso, contribuição do PTU beneficiário (e de outros doadores, eventualmente) |  |  |\n| Método de ajuda/modo de gestão | Abordagem projecto — centralizada (directa ou indirecta)/gestão descentralizada/conjunta |  |  |\n| Código CAD |  | Sector |  |"
+  },
+  "62fdfa0f836abefa": {
+   "fragment_id": "1. Justificação",
+   "type": "divisao",
+   "heading": "1. Justificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Justificação\n\nCaracterísticas e políticas do sector em questão ou do domínio temático (a nível regional, se for caso disso) e principais problemas que o projecto se propõe resolver.\n\nReferência a reexames, avaliações, acompanhamento da execução e avaliações de acções anteriores relevantes para este projecto específico.\n\nPanorâmica geral das acções comunitárias em curso, acções de outros doadores e/ou do PTU beneficiário, complementares à presente acção.\n\nDescrição do processo de coordenação com o PTU beneficiário e/ou outros doadores, nomeadamente os Estados-Membros."
+  },
+  "6dbcc7c3c0b64553": {
+   "fragment_id": "2. Descrição",
+   "type": "divisao",
+   "heading": "2. Descrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Descrição\n\nObjectivos gerais e objectivos específicos do apoio comunitário.\n\nEstratégia adoptada para resolver os problemas identificados que o projecto se propõe resolver; descrição dos resultados esperados e indicação do modo como estes serão alcançados.\n\nApresentação das principais partes interessadas, incluindo os beneficiários; consulta da sociedade civil e de outros parceiros, se adequado; apropriação e avaliação da capacidade institucional.\n\nIdentificação dos principais riscos e panorâmica das medidas de atenuação, incluindo as condições a cumprir antes e durante a fase de execução; elementos que atestam a sustentabilidade da acção proposta.\n\nSustentabilidade ambiental, igualdade de género, boa governação e direitos humanos."
+  },
+  "e067bf1dad75efc7": {
+   "fragment_id": "3. Questões relativas à execução",
+   "type": "divisao",
+   "heading": "3. Questões relativas à execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Questões relativas à execução\n\nEscolher a opção relevante em função da modalidade de financiamento seleccionada:\n\n— Gestão centralizada.\n\n— Gestão conjunta através da assinatura de um acordo com uma organização internacional.\n\n— Gestão descentralizada através da assinatura de uma convenção de financiamento com um PTU (no caso de execução parcialmente centralizada ou de execução parcialmente descentralizada, seleccionar esta opção).\n\n— Indicar as tarefas (em matéria de procedimentos de adjudicação de contratos e de concessão de subvenções/pagamentos) cuja execução se prevê venha a ser centralizada ou descentralizada, a(s) entidade(s) adjudicante(s) e a(s) autoridade(s) de pagamento.\n\n— Em caso de descentralização dos procedimentos de adjudicação de contratos e de concessão de subvenções:\n\n— a Comissão efectua controlos *ex ante* dos procedimentos de adjudicação de contratos de montante superior a 50 000 EUR e controlos *ex post* no que respeita a contratos de montante inferior a 50 000 EUR,\n\n— ou\n\n— a Comissão efectua controlos *ex post* dos procedimentos de adjudicação de contratos (a descentralização total só pode ser aplicada se os critérios de descentralização estabelecidos no regulamento financeiro forem plenamente cumpridos).\n\n— Em caso de descentralização dos pagamentos (possível unicamente nos casos em que os procedimentos de adjudicação de contratos relevantes tiverem sido descentralizados):\n\n— no âmbito dos orçamentos-programa, os pagamentos são efectuados de forma descentralizada no que respeita aos custos de funcionamento, bem como aos contratos de valor inferior aos seguintes limites máximos:\n\n| Obras | Fornecimentos | Serviços | Subvenções |\n| --- | --- | --- | --- |\n| < 300 000 EUR | < 150 000 EUR | < 200 000 EUR | ≤ 100 000 EUR |\n\n— ou\n\n— os pagamentos são efectuados de forma totalmente descentralizada (a descentralização completa só pode ser aplicada se os critérios de descentralização estabelecidos no regulamento financeiro forem plenamente cumpridos).\n\nO texto seguinte será inserido sem alterações relativamente às actividades às quais sejam aplicáveis procedimentos comunitários: «Todos os contratos de execução da presente acção serão adjudicados e executados em conformidade com os procedimentos e documentos normalizados elaborados e publicados pela Comissão para a execução de acções externas, em vigor à data do lançamento do procedimento em questão.»\n\nO texto seguinte será inserido sem alterações se o acordo com uma organização internacional previr a aplicação das suas próprias regras e procedimentos, que devem ser conformes às normas internacionais: «Todos os contratos de execução da presente acção serão adjudicados e executados em conformidade com os procedimentos e documentos normalizados elaborados e publicados pela organização internacional em questão.»\n\nSe forem aplicáveis regras e procedimentos distintos dos procedimentos comunitários, esses devem ser indicados e cumprir os critérios estabelecidos no regulamento financeiro.\n\nRepartição indicativa do montante global por cada componente principal, incluindo a avaliação, a auditoria e a visibilidade. Se adequado, indicar igualmente a contribuição do PTU beneficiário por rubrica orçamental, especificando se essa contribuição é feita em espécie ou em numerário.\n\nSempre que possível, indicar a parte de financiamento reservada a subvenções e a contratos públicos; relativamente aos contratos, indicar o tipo de contrato (de serviços, fornecimento ou obras) e relativamente às subvenções, indicar a principal categoria de beneficiários previstos.\n\nSe aplicável, mencionar o prazo indicativo para o lançamento dos processos de concurso ou dos convites à apresentação de propostas\n\nIndicar a duração operacional, em meses, a partir da assinatura da convenção de financiamento (contrato ou outro acordo de execução caso não seja assinada uma convenção de financiamento).\n\nDescrição das medidas de acompanhamento da execução; panorâmica dos principais indicadores de medição dos progressos registados. Devem ser identificados os recursos, resultados e realizações e, tanto quanto possível, os indicadores de impacto relativamente às áreas abrangidas pelo domínio fulcral. Os indicadores devem ter em conta os critérios ditos SMART (ou seja, devem ser específicos, mensuráveis a curto/médio prazo, exequíveis, realistas e acompanhados de prazos) e incluir um nível de partida, um objectivo e um horizonte temporal claro, de forma a permitir estabelecer comparações aquando dos reexames anuais, intercalares e finais.\n\nAvaliações (intercalar, final e *ex post*) e disposições em matéria de auditoria.\n\nDescrição de actividades de comunicação e visibilidade.\n\n---"
+  },
+  "28d1a06741b06b06": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/2c1f1569-6d32-4da9-a67d-296ad9128fca.0018.03/DOC_1#src.E0001)) JO L 314 de 30.11.2001, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/2c1f1569-6d32-4da9-a67d-296ad9128fca.0018.03/DOC_1#src.E0002)) JO L 317 de 15.12.2002, p. 355.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/2c1f1569-6d32-4da9-a67d-296ad9128fca.0018.03/DOC_1#src.E0003)) COM(2002) 290 final de 11.6.2002."
+  }
+ }
+}

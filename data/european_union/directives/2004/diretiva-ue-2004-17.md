@@ -35,6 +35,557 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-04-18'
+version_history:
+  file: diretiva-ue-2004-17.versoes.json
+  count: 16
+  source_lastmod: '2016-04-18'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-11-01'
+    amending: eu:celex:32004R1874:por
+    amending_title: REGULAMENTO (CE) N. o 1874/2004 DA COMISSÃO de 28 de Outubro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 16.º — Montantes dos limiares dos contratos
+    - Altera Artigo 17.º — Métodos de cálculo do valor estimado dos contratos, dos acordos-quadro e dos sistemas de aquisição
+      dinâmicos
+    - Altera Artigo 18.º — Concessões de obras ou de serviços
+    - Altera Artigo 23.º — Contratos adjudicados a uma empresa associada, a uma empresa comum ou a uma entidade adjudicante
+      que integre uma empresa comum
+    - Altera Artigo 25.º — Contratos de serviços adjudicados com base num direito exclusivo
+    - Altera Artigo 27.º — Contratos sujeitos a regime especial
+    - Altera Artigo 41.º — Anúncios periódicos indicativos e anúncios relativos à existência de um sistema de qualificação
+    - Altera Artigo 58.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 61.º — Limiares
+    - Altera Artigo 68.º — Comité Consultivo
+    - Altera Artigo 72.º — Mecanismo de acompanhamento
+    - Altera Artigo 75.º — Destinatários
+    - Altera ANEXO XV B
+    - Altera ANEXO XXIV
+    - Adita TÍTULO I
+    - Adita DISPOSIÇÕES GERAIS APLICÁVEIS AOS CONTRATOS E AOS CONCURSOS PARA TRABALHOS DE CONCEPÇÃO
+    - Adita CAPÍTULO I
+    - Adita Termos de base
+    - Adita CAPÍTULO II
+    - Adita Definição das entidades e actividades abrangidas
+    - Adita Secção 1
+    - Adita Entidades
+    - Adita Secção 2
+    - Adita Actividades
+    - Adita CAPÍTULO III
+    - Adita Princípios gerais
+    - Adita TÍTULO II
+    - Adita DISPOSIÇÕES APLICÁVEIS AOS CONTRATOS
+    - Adita Disposições gerais
+    - Adita Limiares e exclusões
+    - Adita Limiares
+    - Adita Contratos e concessões e contratos sujeitos a regime especial
+    - Adita SUBSECÇÃO 1
+    - Adita SUBSECÇÃO 2
+    - Adita Exclusões aplicáveis a todas as entidades adjudicantes e a todos os tipos de contratos
+    - Adita Artigo 20.º — Contratos celebrados com fins que não correspondam à prossecução de uma actividade abrangida ou
+      à prossecução em países terceiros de uma actividade abrangida
+    - Adita SUBSECÇÃO 3
+    - Adita Exclusões aplicáveis a todas as entidades adjudicantes, mas apenas aos contratos de serviços
+  - date: '2005-10-21'
+    amending: eu:celex:32005L0051:por
+    amending_title: DIRECTIVA 2005/51/CE DA COMISSÃO Texto relevante para efeitos do EEE de 7 de Setembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 23.º — Contratos adjudicados a uma empresa associada, a uma empresa comum ou a uma entidade adjudicante
+      que integre uma empresa comum
+    - Altera Artigo 27.º — Contratos sujeitos a regime especial
+    - Altera Artigo 58.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 68.º — Comité Consultivo
+    - Altera Artigo 72.º — Mecanismo de acompanhamento
+    - Altera A. TRANSPORTE OU DISTRIBUIÇÃO DE GÁS OU DE COMBUSTÍVEL PARA AQUECIMENTO
+    - Altera B. PRODUÇÃO, TRANSPORTE OU DISTRIBUIÇÃO DE ELECTRICIDADE
+    - Altera F. ENTIDADES ADJUDICANTES NO DOMÍNIO DOS SERVIÇOS POSTAIS
+    - Altera G. PESQUISA E EXTRACÇÃO DE PETRÓLEO OU DE GÁS
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 31.º
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 32.º
+    - Altera 1. Publicação dos anúncios
+    - Altera EXIGÊNCIAS RELATIVAS AOS DISPOSITIVOS DE RECEPÇÃO ELECTRÓNICA DE PROPOSTAS, DE PEDIDOS DE PARTICIPAÇÃO, DE PEDIDOS
+      DE QUALIFICAÇÃO OU DE PLANOS E PROJECTOS NOS CONCURSOS PARA TRABALHOS DE CONCEPÇÃO
+    - Altera Notas
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^37^](http://publications.europa.eu/resource/cellar/0dc94a02-de47-4cc8-a6c4-295a87801d36.0010.03/DOC_1#E0037))
+    - Adita D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^38^](http://publications.europa.eu/resource/cellar/0dc94a02-de47-4cc8-a6c4-295a87801d36.0010.03/DOC_1#E1034))
+    - Adita I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^39^](http://publications.europa.eu/resource/cellar/0dc94a02-de47-4cc8-a6c4-295a87801d36.0010.03/DOC_1#E1033))
+    - Adita ANEXO XVII A ([^40^](http://publications.europa.eu/resource/cellar/0dc94a02-de47-4cc8-a6c4-295a87801d36.0010.03/DOC_1#E1035))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^42^](http://publications.europa.eu/resource/cellar/0dc94a02-de47-4cc8-a6c4-295a87801d36.0010.03/DOC_1#E1036))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^37^](http://publications.europa.eu/resource/cellar/f4492089-255a-4f9e-9694-69387c906fc5.0010.03/DOC_1#E0037))
+    - Suprime D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^38^](http://publications.europa.eu/resource/cellar/f4492089-255a-4f9e-9694-69387c906fc5.0010.03/DOC_1#E1034))
+    - Suprime I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^39^](http://publications.europa.eu/resource/cellar/f4492089-255a-4f9e-9694-69387c906fc5.0010.03/DOC_1#E1033))
+    - Suprime ANEXO XVII A ([^40^](http://publications.europa.eu/resource/cellar/f4492089-255a-4f9e-9694-69387c906fc5.0010.03/DOC_1#E1035))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^43^](http://publications.europa.eu/resource/cellar/f4492089-255a-4f9e-9694-69387c906fc5.0010.03/DOC_1#E1036))
+  - date: '2006-01-01'
+    amending: eu:celex:32005R2083:por
+    amending_title: REGULAMENTO (CE) N. o 2083/2005 DA COMISSÃO de 19 de Dezembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 16.º — Montantes dos limiares dos contratos
+    - Altera Artigo 23.º — Contratos adjudicados a uma empresa associada, a uma empresa comum ou a uma entidade adjudicante
+      que integre uma empresa comum
+    - Altera Artigo 27.º — Contratos sujeitos a regime especial
+    - Altera Artigo 58.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 61.º — Limiares
+    - Altera Artigo 68.º — Comité Consultivo
+    - Altera Artigo 72.º — Mecanismo de acompanhamento
+    - Altera A. TRANSPORTE OU DISTRIBUIÇÃO DE GÁS OU DE COMBUSTÍVEL PARA AQUECIMENTO
+    - Altera B. PRODUÇÃO, TRANSPORTE OU DISTRIBUIÇÃO DE ELECTRICIDADE
+    - Altera F. ENTIDADES ADJUDICANTES NO DOMÍNIO DOS SERVIÇOS POSTAIS
+    - Altera G. PESQUISA E EXTRACÇÃO DE PETRÓLEO OU DE GÁS
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 31.º
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 32.º
+    - Altera EXIGÊNCIAS RELATIVAS AOS DISPOSITIVOS DE RECEPÇÃO ELECTRÓNICA DE PROPOSTAS, DE PEDIDOS DE PARTICIPAÇÃO, DE PEDIDOS
+      DE QUALIFICAÇÃO OU DE PLANOS E PROJECTOS NOS CONCURSOS PARA TRABALHOS DE CONCEPÇÃO
+    - Altera Notas
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^37^](http://publications.europa.eu/resource/cellar/404124f7-d3a5-447e-882b-10761d2e99f0.0017.03/DOC_1#E0037))
+    - Adita D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^38^](http://publications.europa.eu/resource/cellar/404124f7-d3a5-447e-882b-10761d2e99f0.0017.03/DOC_1#E1034))
+    - Adita I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^39^](http://publications.europa.eu/resource/cellar/404124f7-d3a5-447e-882b-10761d2e99f0.0017.03/DOC_1#E1033))
+    - Adita ANEXO XVII A ([^40^](http://publications.europa.eu/resource/cellar/404124f7-d3a5-447e-882b-10761d2e99f0.0017.03/DOC_1#E1035))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^42^](http://publications.europa.eu/resource/cellar/404124f7-d3a5-447e-882b-10761d2e99f0.0017.03/DOC_1#E1036))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^37^](http://publications.europa.eu/resource/cellar/0dc94a02-de47-4cc8-a6c4-295a87801d36.0010.03/DOC_1#E0037))
+    - Suprime D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^38^](http://publications.europa.eu/resource/cellar/0dc94a02-de47-4cc8-a6c4-295a87801d36.0010.03/DOC_1#E1034))
+    - Suprime I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^39^](http://publications.europa.eu/resource/cellar/0dc94a02-de47-4cc8-a6c4-295a87801d36.0010.03/DOC_1#E1033))
+    - Suprime ANEXO XVII A ([^40^](http://publications.europa.eu/resource/cellar/0dc94a02-de47-4cc8-a6c4-295a87801d36.0010.03/DOC_1#E1035))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^42^](http://publications.europa.eu/resource/cellar/0dc94a02-de47-4cc8-a6c4-295a87801d36.0010.03/DOC_1#E1036))
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0097:por
+    amending_title: DIRECTIVA 2006/97/CE DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 23.º — Contratos adjudicados a uma empresa associada, a uma empresa comum ou a uma entidade adjudicante
+      que integre uma empresa comum
+    - Altera Artigo 27.º — Contratos sujeitos a regime especial
+    - Altera Artigo 58.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 68.º — Comité Consultivo
+    - Altera Artigo 72.º — Mecanismo de acompanhamento
+    - Altera A. TRANSPORTE OU DISTRIBUIÇÃO DE GÁS OU DE COMBUSTÍVEL PARA AQUECIMENTO
+    - Altera B. PRODUÇÃO, TRANSPORTE OU DISTRIBUIÇÃO DE ELECTRICIDADE
+    - Altera F. ENTIDADES ADJUDICANTES NO DOMÍNIO DOS SERVIÇOS POSTAIS
+    - Altera G. PESQUISA E EXTRACÇÃO DE PETRÓLEO OU DE GÁS
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 31.º
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 32.º
+    - Altera EXIGÊNCIAS RELATIVAS AOS DISPOSITIVOS DE RECEPÇÃO ELECTRÓNICA DE PROPOSTAS, DE PEDIDOS DE PARTICIPAÇÃO, DE PEDIDOS
+      DE QUALIFICAÇÃO OU DE PLANOS E PROJECTOS NOS CONCURSOS PARA TRABALHOS DE CONCEPÇÃO
+    - Altera Notas
+    - Adita Bulgária
+    - Adita Roménia
+    - Adita BULGÁRIA
+    - Adita ROMÉNIA
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^37^](http://publications.europa.eu/resource/cellar/aadbbdf5-b0e0-470a-817c-12a229f3d40a.0017.03/DOC_1#E0037))
+    - Adita D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^38^](http://publications.europa.eu/resource/cellar/aadbbdf5-b0e0-470a-817c-12a229f3d40a.0017.03/DOC_1#E0039))
+    - Adita I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^39^](http://publications.europa.eu/resource/cellar/aadbbdf5-b0e0-470a-817c-12a229f3d40a.0017.03/DOC_1#E0040))
+    - Adita ANEXO XVII A ([^40^](http://publications.europa.eu/resource/cellar/aadbbdf5-b0e0-470a-817c-12a229f3d40a.0017.03/DOC_1#E0041))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^42^](http://publications.europa.eu/resource/cellar/aadbbdf5-b0e0-470a-817c-12a229f3d40a.0017.03/DOC_1#E0049))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^37^](http://publications.europa.eu/resource/cellar/404124f7-d3a5-447e-882b-10761d2e99f0.0017.03/DOC_1#E0037))
+    - Suprime D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^38^](http://publications.europa.eu/resource/cellar/404124f7-d3a5-447e-882b-10761d2e99f0.0017.03/DOC_1#E1034))
+    - Suprime I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^39^](http://publications.europa.eu/resource/cellar/404124f7-d3a5-447e-882b-10761d2e99f0.0017.03/DOC_1#E1033))
+    - Suprime ANEXO XVII A ([^40^](http://publications.europa.eu/resource/cellar/404124f7-d3a5-447e-882b-10761d2e99f0.0017.03/DOC_1#E1035))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^42^](http://publications.europa.eu/resource/cellar/404124f7-d3a5-447e-882b-10761d2e99f0.0017.03/DOC_1#E1036))
+  - date: '2008-01-01'
+    amending: eu:celex:32007R1422:por
+    amending_title: REGULAMENTO (CE) N. o 1422/2007 DA COMISSÃO de 4 de Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 16.º — Montantes dos limiares dos contratos
+    - Altera Artigo 23.º — Contratos adjudicados a uma empresa associada, a uma empresa comum ou a uma entidade adjudicante
+      que integre uma empresa comum
+    - Altera Artigo 27.º — Contratos sujeitos a regime especial
+    - Altera Artigo 58.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 61.º — Limiares
+    - Altera Artigo 68.º — Comité Consultivo
+    - Altera Artigo 72.º — Mecanismo de acompanhamento
+    - Altera A. TRANSPORTE OU DISTRIBUIÇÃO DE GÁS OU DE COMBUSTÍVEL PARA AQUECIMENTO
+    - Altera B. PRODUÇÃO, TRANSPORTE OU DISTRIBUIÇÃO DE ELECTRICIDADE
+    - Altera F. ENTIDADES ADJUDICANTES NO DOMÍNIO DOS SERVIÇOS POSTAIS
+    - Altera G. PESQUISA E EXTRACÇÃO DE PETRÓLEO OU DE GÁS
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 31.º
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 32.º
+    - Altera EXIGÊNCIAS RELATIVAS AOS DISPOSITIVOS DE RECEPÇÃO ELECTRÓNICA DE PROPOSTAS, DE PEDIDOS DE PARTICIPAÇÃO, DE PEDIDOS
+      DE QUALIFICAÇÃO OU DE PLANOS E PROJECTOS NOS CONCURSOS PARA TRABALHOS DE CONCEPÇÃO
+    - Altera Notas
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^37^](http://publications.europa.eu/resource/cellar/a21b24fc-2fc6-4246-994a-bdd08e732d0d.0017.03/DOC_1#E0037))
+    - Adita D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^38^](http://publications.europa.eu/resource/cellar/a21b24fc-2fc6-4246-994a-bdd08e732d0d.0017.03/DOC_1#E0039))
+    - Adita I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^39^](http://publications.europa.eu/resource/cellar/a21b24fc-2fc6-4246-994a-bdd08e732d0d.0017.03/DOC_1#E0040))
+    - Adita ANEXO XVII A ([^40^](http://publications.europa.eu/resource/cellar/a21b24fc-2fc6-4246-994a-bdd08e732d0d.0017.03/DOC_1#E0041))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^42^](http://publications.europa.eu/resource/cellar/a21b24fc-2fc6-4246-994a-bdd08e732d0d.0017.03/DOC_1#E0049))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^37^](http://publications.europa.eu/resource/cellar/aadbbdf5-b0e0-470a-817c-12a229f3d40a.0017.03/DOC_1#E0037))
+    - Suprime D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^38^](http://publications.europa.eu/resource/cellar/aadbbdf5-b0e0-470a-817c-12a229f3d40a.0017.03/DOC_1#E0039))
+    - Suprime I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^39^](http://publications.europa.eu/resource/cellar/aadbbdf5-b0e0-470a-817c-12a229f3d40a.0017.03/DOC_1#E0040))
+    - Suprime ANEXO XVII A ([^40^](http://publications.europa.eu/resource/cellar/aadbbdf5-b0e0-470a-817c-12a229f3d40a.0017.03/DOC_1#E0041))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^42^](http://publications.europa.eu/resource/cellar/aadbbdf5-b0e0-470a-817c-12a229f3d40a.0017.03/DOC_1#E0049))
+  - date: '2008-09-15'
+    amending: eu:celex:32008R0213:por
+    amending_title: REGULAMENTO (CE) N. o 213/2008 DA COMISSÃO de 28 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 23.º — Contratos adjudicados a uma empresa associada, a uma empresa comum ou a uma entidade adjudicante
+      que integre uma empresa comum
+    - Altera Artigo 27.º — Contratos sujeitos a regime especial
+    - Altera Artigo 58.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 68.º — Comité Consultivo
+    - Altera Artigo 72.º — Mecanismo de acompanhamento
+    - Altera Bélgica
+    - Altera A. TRANSPORTE OU DISTRIBUIÇÃO DE GÁS OU DE COMBUSTÍVEL PARA AQUECIMENTO
+    - Altera B. PRODUÇÃO, TRANSPORTE OU DISTRIBUIÇÃO DE ELECTRICIDADE
+    - Altera F. ENTIDADES ADJUDICANTES NO DOMÍNIO DOS SERVIÇOS POSTAIS
+    - Altera G. PESQUISA E EXTRACÇÃO DE PETRÓLEO OU DE GÁS
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 31.º
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 32.º
+    - Altera EXIGÊNCIAS RELATIVAS AOS DISPOSITIVOS DE RECEPÇÃO ELECTRÓNICA DE PROPOSTAS, DE PEDIDOS DE PARTICIPAÇÃO, DE PEDIDOS
+      DE QUALIFICAÇÃO OU DE PLANOS E PROJECTOS NOS CONCURSOS PARA TRABALHOS DE CONCEPÇÃO
+    - Altera Notas
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^37^](http://publications.europa.eu/resource/cellar/db21fc93-a36f-4a7b-8f16-3509fd33ac9b.0017.03/DOC_1#E0037))
+    - Adita D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^38^](http://publications.europa.eu/resource/cellar/db21fc93-a36f-4a7b-8f16-3509fd33ac9b.0017.03/DOC_1#E0039))
+    - Adita INFORMAÇÕES QUE DEVEM CONSTAR DOS ANÚNCIOS PERIÓDICOS INDICATIVOS
+    - Adita I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^39^](http://publications.europa.eu/resource/cellar/db21fc93-a36f-4a7b-8f16-3509fd33ac9b.0017.03/DOC_1#E0040))
+    - Adita ANEXO XVII A ([^40^](http://publications.europa.eu/resource/cellar/db21fc93-a36f-4a7b-8f16-3509fd33ac9b.0017.03/DOC_1#E0041))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^42^](http://publications.europa.eu/resource/cellar/db21fc93-a36f-4a7b-8f16-3509fd33ac9b.0017.03/DOC_1#E0051))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^37^](http://publications.europa.eu/resource/cellar/a21b24fc-2fc6-4246-994a-bdd08e732d0d.0017.03/DOC_1#E0037))
+    - Suprime D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^38^](http://publications.europa.eu/resource/cellar/a21b24fc-2fc6-4246-994a-bdd08e732d0d.0017.03/DOC_1#E0039))
+    - Suprime A. INFORMAÇÕES QUE DEVEM CONSTAR DOS ANÚNCIOS PERIÓDICOS INDICATIVOS
+    - Suprime I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^39^](http://publications.europa.eu/resource/cellar/a21b24fc-2fc6-4246-994a-bdd08e732d0d.0017.03/DOC_1#E0040))
+    - Suprime ANEXO XVII A ([^40^](http://publications.europa.eu/resource/cellar/a21b24fc-2fc6-4246-994a-bdd08e732d0d.0017.03/DOC_1#E0041))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^42^](http://publications.europa.eu/resource/cellar/a21b24fc-2fc6-4246-994a-bdd08e732d0d.0017.03/DOC_1#E0049))
+  - date: '2009-01-01'
+    amending: eu:celex:32008D0963:por
+    amending_title: DECISÃO DA COMISSÃO de 9 de Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 23.º — Contratos adjudicados a uma empresa associada, a uma empresa comum ou a uma entidade adjudicante
+      que integre uma empresa comum
+    - Altera Artigo 27.º — Contratos sujeitos a regime especial
+    - Altera Artigo 58.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 68.º — Comité Consultivo
+    - Altera Artigo 72.º — Mecanismo de acompanhamento
+    - Altera Bélgica
+    - Altera Bulgária
+    - Altera Dinamarca
+    - Altera Alemanha
+    - Altera Grécia
+    - Altera Espanha
+    - Altera França
+    - Altera Itália
+    - Altera Países Baixos
+    - Altera Áustria
+    - Altera Portugal
+    - Altera Roménia
+    - Altera Reino Unido
+    - Altera A. TRANSPORTE OU DISTRIBUIÇÃO DE GÁS OU DE COMBUSTÍVEL PARA AQUECIMENTO
+    - Altera B. PRODUÇÃO, TRANSPORTE OU DISTRIBUIÇÃO DE ELECTRICIDADE
+    - Altera F. ENTIDADES ADJUDICANTES NO DOMÍNIO DOS SERVIÇOS POSTAIS
+    - Altera G. PESQUISA E EXTRACÇÃO DE PETRÓLEO OU DE GÁS
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 31.º
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 32.º
+    - Altera EXIGÊNCIAS RELATIVAS AOS DISPOSITIVOS DE RECEPÇÃO ELECTRÓNICA DE PROPOSTAS, DE PEDIDOS DE PARTICIPAÇÃO, DE PEDIDOS
+      DE QUALIFICAÇÃO OU DE PLANOS E PROJECTOS NOS CONCURSOS PARA TRABALHOS DE CONCEPÇÃO
+    - Altera Notas
+    - Adita Entidades adjudicantes nos sectores do transporte ou distribuição de gás ou de combustível para aquecimento
+    - Adita República Checa
+    - Adita Estónia
+    - Adita Chipre
+    - Adita Letónia
+    - Adita Lituânia
+    - Adita Hungria
+    - Adita Malta
+    - Adita Polónia
+    - Adita Eslovénia
+    - Adita Eslováquia
+    - Adita Entidades adjudicantes nos sectores da produção, transporte ou distribuição de electricidade
+  - date: '2009-08-07'
+    amending: eu:celex:32009R0596:por
+    amending_title: REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 23.º — Contratos adjudicados a uma empresa associada, a uma empresa comum ou a uma entidade adjudicante
+      que integre uma empresa comum
+    - Altera Artigo 27.º — Contratos sujeitos a regime especial
+    - Altera Artigo 58.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 69.º — Revisão dos limiares
+    - Altera Artigo 70.º — Modificações
+    - Altera Artigo 72.º — Mecanismo de acompanhamento
+    - Altera A. TRANSPORTE OU DISTRIBUIÇÃO DE GÁS OU DE COMBUSTÍVEL PARA AQUECIMENTO
+    - Altera B. PRODUÇÃO, TRANSPORTE OU DISTRIBUIÇÃO DE ELECTRICIDADE
+    - Altera F. ENTIDADES ADJUDICANTES NO DOMÍNIO DOS SERVIÇOS POSTAIS
+    - Altera G. PESQUISA E EXTRACÇÃO DE PETRÓLEO OU DE GÁS
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 31.º
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 32.º
+    - Altera EXIGÊNCIAS RELATIVAS AOS DISPOSITIVOS DE RECEPÇÃO ELECTRÓNICA DE PROPOSTAS, DE PEDIDOS DE PARTICIPAÇÃO, DE PEDIDOS
+      DE QUALIFICAÇÃO OU DE PLANOS E PROJECTOS NOS CONCURSOS PARA TRABALHOS DE CONCEPÇÃO
+    - Altera Notas
+    - Adita Artigo 68.º — Procedimento de comité
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^37^](http://publications.europa.eu/resource/cellar/d56ccaac-c68c-447a-908a-a11139e62b10.0018.03/DOC_1#E0037))
+    - Adita D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^38^](http://publications.europa.eu/resource/cellar/d56ccaac-c68c-447a-908a-a11139e62b10.0018.03/DOC_1#E0039))
+    - Adita I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^39^](http://publications.europa.eu/resource/cellar/d56ccaac-c68c-447a-908a-a11139e62b10.0018.03/DOC_1#E0040))
+    - Adita ANEXO XVII A ([^40^](http://publications.europa.eu/resource/cellar/d56ccaac-c68c-447a-908a-a11139e62b10.0018.03/DOC_1#E0041))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^42^](http://publications.europa.eu/resource/cellar/d56ccaac-c68c-447a-908a-a11139e62b10.0018.03/DOC_1#E0051))
+    - Suprime Artigo 68.º — Comité Consultivo
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^37^](http://publications.europa.eu/resource/cellar/d04f6d5c-293f-4829-9ef2-1dd1f24d3ba4.0018.03/DOC_1#E0037))
+    - Suprime D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^38^](http://publications.europa.eu/resource/cellar/d04f6d5c-293f-4829-9ef2-1dd1f24d3ba4.0018.03/DOC_1#E0039))
+    - Suprime I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^39^](http://publications.europa.eu/resource/cellar/d04f6d5c-293f-4829-9ef2-1dd1f24d3ba4.0018.03/DOC_1#E0040))
+    - Suprime ANEXO XVII A ([^40^](http://publications.europa.eu/resource/cellar/d04f6d5c-293f-4829-9ef2-1dd1f24d3ba4.0018.03/DOC_1#E0041))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^42^](http://publications.europa.eu/resource/cellar/d04f6d5c-293f-4829-9ef2-1dd1f24d3ba4.0018.03/DOC_1#E0051))
+  - date: '2009-08-21'
+    amending: eu:celex:32009L0081:por
+    amending_title: DIRECTIVA 2009/81/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 13 de
+      Julho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 23.º — Contratos adjudicados a uma empresa associada, a uma empresa comum ou a uma entidade adjudicante
+      que integre uma empresa comum
+    - Altera Artigo 27.º — Contratos sujeitos a regime especial
+    - Altera Artigo 58.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 68.º — Procedimento de comité
+    - Altera Artigo 72.º — Mecanismo de acompanhamento
+    - Altera A. TRANSPORTE OU DISTRIBUIÇÃO DE GÁS OU DE COMBUSTÍVEL PARA AQUECIMENTO
+    - Altera B. PRODUÇÃO, TRANSPORTE OU DISTRIBUIÇÃO DE ELECTRICIDADE
+    - Altera F. ENTIDADES ADJUDICANTES NO DOMÍNIO DOS SERVIÇOS POSTAIS
+    - Altera G. PESQUISA E EXTRACÇÃO DE PETRÓLEO OU DE GÁS
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 31.º
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 32.º
+    - Altera EXIGÊNCIAS RELATIVAS AOS DISPOSITIVOS DE RECEPÇÃO ELECTRÓNICA DE PROPOSTAS, DE PEDIDOS DE PARTICIPAÇÃO, DE PEDIDOS
+      DE QUALIFICAÇÃO OU DE PLANOS E PROJECTOS NOS CONCURSOS PARA TRABALHOS DE CONCEPÇÃO
+    - Altera Notas
+    - Adita Artigo 22.º-A — Contratos nos domínios da defesa e da segurança
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^38^](http://publications.europa.eu/resource/cellar/152e77dc-c3f9-40a7-8b02-42dbf520a9e7.0018.03/DOC_1#E0038))
+    - Adita D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^39^](http://publications.europa.eu/resource/cellar/152e77dc-c3f9-40a7-8b02-42dbf520a9e7.0018.03/DOC_1#E0040))
+    - Adita I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^40^](http://publications.europa.eu/resource/cellar/152e77dc-c3f9-40a7-8b02-42dbf520a9e7.0018.03/DOC_1#E0041))
+    - Adita ANEXO XVII A ([^41^](http://publications.europa.eu/resource/cellar/152e77dc-c3f9-40a7-8b02-42dbf520a9e7.0018.03/DOC_1#E0042))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^43^](http://publications.europa.eu/resource/cellar/152e77dc-c3f9-40a7-8b02-42dbf520a9e7.0018.03/DOC_1#E0052))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^37^](http://publications.europa.eu/resource/cellar/d56ccaac-c68c-447a-908a-a11139e62b10.0018.03/DOC_1#E0037))
+    - Suprime D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^38^](http://publications.europa.eu/resource/cellar/d56ccaac-c68c-447a-908a-a11139e62b10.0018.03/DOC_1#E0039))
+    - Suprime I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^39^](http://publications.europa.eu/resource/cellar/d56ccaac-c68c-447a-908a-a11139e62b10.0018.03/DOC_1#E0040))
+    - Suprime ANEXO XVII A ([^40^](http://publications.europa.eu/resource/cellar/d56ccaac-c68c-447a-908a-a11139e62b10.0018.03/DOC_1#E0041))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^42^](http://publications.europa.eu/resource/cellar/d56ccaac-c68c-447a-908a-a11139e62b10.0018.03/DOC_1#E0051))
+  - date: '2010-01-01'
+    amending: eu:celex:32009R1177:por
+    amending_title: REGULAMENTO (CE) N. o 1177/2009 DA COMISSÃO de 30 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 16.º — Montantes dos limiares dos contratos
+    - Altera Artigo 22.º-A — Contratos nos domínios da defesa e da segurança
+    - Altera Artigo 23.º — Contratos adjudicados a uma empresa associada, a uma empresa comum ou a uma entidade adjudicante
+      que integre uma empresa comum
+    - Altera Artigo 27.º — Contratos sujeitos a regime especial
+    - Altera Artigo 58.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 61.º — Limiares
+    - Altera Artigo 68.º — Procedimento de comité
+    - Altera Artigo 72.º — Mecanismo de acompanhamento
+    - Altera A. TRANSPORTE OU DISTRIBUIÇÃO DE GÁS OU DE COMBUSTÍVEL PARA AQUECIMENTO
+    - Altera B. PRODUÇÃO, TRANSPORTE OU DISTRIBUIÇÃO DE ELECTRICIDADE
+    - Altera F. ENTIDADES ADJUDICANTES NO DOMÍNIO DOS SERVIÇOS POSTAIS
+    - Altera G. PESQUISA E EXTRACÇÃO DE PETRÓLEO OU DE GÁS
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 31.º
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 32.º
+    - Altera EXIGÊNCIAS RELATIVAS AOS DISPOSITIVOS DE RECEPÇÃO ELECTRÓNICA DE PROPOSTAS, DE PEDIDOS DE PARTICIPAÇÃO, DE PEDIDOS
+      DE QUALIFICAÇÃO OU DE PLANOS E PROJECTOS NOS CONCURSOS PARA TRABALHOS DE CONCEPÇÃO
+    - Altera Notas
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^38^](http://publications.europa.eu/resource/cellar/0a64600a-cda5-48f2-ba55-c3f62c2b8352.0018.03/DOC_1#E0038))
+    - Adita D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^39^](http://publications.europa.eu/resource/cellar/0a64600a-cda5-48f2-ba55-c3f62c2b8352.0018.03/DOC_1#E0040))
+    - Adita I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^40^](http://publications.europa.eu/resource/cellar/0a64600a-cda5-48f2-ba55-c3f62c2b8352.0018.03/DOC_1#E0041))
+    - Adita ANEXO XVII A ([^41^](http://publications.europa.eu/resource/cellar/0a64600a-cda5-48f2-ba55-c3f62c2b8352.0018.03/DOC_1#E0042))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^43^](http://publications.europa.eu/resource/cellar/0a64600a-cda5-48f2-ba55-c3f62c2b8352.0018.03/DOC_1#E0052))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^38^](http://publications.europa.eu/resource/cellar/152e77dc-c3f9-40a7-8b02-42dbf520a9e7.0018.03/DOC_1#E0038))
+    - Suprime D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^39^](http://publications.europa.eu/resource/cellar/152e77dc-c3f9-40a7-8b02-42dbf520a9e7.0018.03/DOC_1#E0040))
+    - Suprime I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^40^](http://publications.europa.eu/resource/cellar/152e77dc-c3f9-40a7-8b02-42dbf520a9e7.0018.03/DOC_1#E0041))
+    - Suprime ANEXO XVII A ([^41^](http://publications.europa.eu/resource/cellar/152e77dc-c3f9-40a7-8b02-42dbf520a9e7.0018.03/DOC_1#E0042))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^43^](http://publications.europa.eu/resource/cellar/152e77dc-c3f9-40a7-8b02-42dbf520a9e7.0018.03/DOC_1#E0052))
+  - date: '2012-01-01'
+    amending: eu:celex:32011R1251:por
+    amending_title: REGULAMENTO (UE) N. o 1251/2011 DA COMISSÃO de 30 de Novembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 16.º — Montantes dos limiares dos contratos
+    - Altera Artigo 22.º-A — Contratos nos domínios da defesa e da segurança
+    - Altera Artigo 23.º — Contratos adjudicados a uma empresa associada, a uma empresa comum ou a uma entidade adjudicante
+      que integre uma empresa comum
+    - Altera Artigo 27.º — Contratos sujeitos a regime especial
+    - Altera Artigo 58.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 61.º — Limiares
+    - Altera Artigo 68.º — Procedimento de comité
+    - Altera Artigo 72.º — Mecanismo de acompanhamento
+    - Altera A. TRANSPORTE OU DISTRIBUIÇÃO DE GÁS OU DE COMBUSTÍVEL PARA AQUECIMENTO
+    - Altera B. PRODUÇÃO, TRANSPORTE OU DISTRIBUIÇÃO DE ELECTRICIDADE
+    - Altera F. ENTIDADES ADJUDICANTES NO DOMÍNIO DOS SERVIÇOS POSTAIS
+    - Altera G. PESQUISA E EXTRACÇÃO DE PETRÓLEO OU DE GÁS
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 31.º
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 32.º
+    - Altera EXIGÊNCIAS RELATIVAS AOS DISPOSITIVOS DE RECEPÇÃO ELECTRÓNICA DE PROPOSTAS, DE PEDIDOS DE PARTICIPAÇÃO, DE PEDIDOS
+      DE QUALIFICAÇÃO OU DE PLANOS E PROJECTOS NOS CONCURSOS PARA TRABALHOS DE CONCEPÇÃO
+    - Altera Notas
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^38^](http://publications.europa.eu/resource/cellar/a36a7380-16b2-495c-a029-6c1174886f80.0018.03/DOC_1#E0038))
+    - Adita D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^39^](http://publications.europa.eu/resource/cellar/a36a7380-16b2-495c-a029-6c1174886f80.0018.03/DOC_1#E0040))
+    - Adita I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^40^](http://publications.europa.eu/resource/cellar/a36a7380-16b2-495c-a029-6c1174886f80.0018.03/DOC_1#E0041))
+    - Adita ANEXO XVII A ([^41^](http://publications.europa.eu/resource/cellar/a36a7380-16b2-495c-a029-6c1174886f80.0018.03/DOC_1#E0042))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^43^](http://publications.europa.eu/resource/cellar/a36a7380-16b2-495c-a029-6c1174886f80.0018.03/DOC_1#E0052))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^38^](http://publications.europa.eu/resource/cellar/0a64600a-cda5-48f2-ba55-c3f62c2b8352.0018.03/DOC_1#E0038))
+    - Suprime D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^39^](http://publications.europa.eu/resource/cellar/0a64600a-cda5-48f2-ba55-c3f62c2b8352.0018.03/DOC_1#E0040))
+    - Suprime I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^40^](http://publications.europa.eu/resource/cellar/0a64600a-cda5-48f2-ba55-c3f62c2b8352.0018.03/DOC_1#E0041))
+    - Suprime ANEXO XVII A ([^41^](http://publications.europa.eu/resource/cellar/0a64600a-cda5-48f2-ba55-c3f62c2b8352.0018.03/DOC_1#E0042))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^43^](http://publications.europa.eu/resource/cellar/0a64600a-cda5-48f2-ba55-c3f62c2b8352.0018.03/DOC_1#E0052))
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0016:por
+    amending_title: DIRETIVA 2013/16/UE DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 22.º-A — Contratos nos domínios da defesa e da segurança
+    - Altera Artigo 23.º — Contratos adjudicados a uma empresa associada, a uma empresa comum ou a uma entidade adjudicante
+      que integre uma empresa comum
+    - Altera Artigo 27.º — Contratos sujeitos a regime especial
+    - Altera Artigo 58.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 68.º — Procedimento de comité
+    - Altera Artigo 72.º — Mecanismo de acompanhamento
+    - Altera A. TRANSPORTE OU DISTRIBUIÇÃO DE GÁS OU DE COMBUSTÍVEL PARA AQUECIMENTO
+    - Altera B. PRODUÇÃO, TRANSPORTE OU DISTRIBUIÇÃO DE ELECTRICIDADE
+    - Altera F. ENTIDADES ADJUDICANTES NO DOMÍNIO DOS SERVIÇOS POSTAIS
+    - Altera G. PESQUISA E EXTRACÇÃO DE PETRÓLEO OU DE GÁS
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 31.º
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 32.º
+    - Altera EXIGÊNCIAS RELATIVAS AOS DISPOSITIVOS DE RECEPÇÃO ELECTRÓNICA DE PROPOSTAS, DE PEDIDOS DE PARTICIPAÇÃO, DE PEDIDOS
+      DE QUALIFICAÇÃO OU DE PLANOS E PROJECTOS NOS CONCURSOS PARA TRABALHOS DE CONCEPÇÃO
+    - Altera Notas
+    - Adita Croácia
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^38^](http://publications.europa.eu/resource/cellar/a2a3d451-5f5c-437f-9f22-6d49fb9059b0.0018.03/DOC_1#E0038))
+    - Adita D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^39^](http://publications.europa.eu/resource/cellar/a2a3d451-5f5c-437f-9f22-6d49fb9059b0.0018.03/DOC_1#E0040))
+    - Adita I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^40^](http://publications.europa.eu/resource/cellar/a2a3d451-5f5c-437f-9f22-6d49fb9059b0.0018.03/DOC_1#E0041))
+    - Adita ANEXO XVII A ([^41^](http://publications.europa.eu/resource/cellar/a2a3d451-5f5c-437f-9f22-6d49fb9059b0.0018.03/DOC_1#E0042))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^43^](http://publications.europa.eu/resource/cellar/a2a3d451-5f5c-437f-9f22-6d49fb9059b0.0018.03/DOC_1#E0052))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^38^](http://publications.europa.eu/resource/cellar/a36a7380-16b2-495c-a029-6c1174886f80.0018.03/DOC_1#E0038))
+    - Suprime D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^39^](http://publications.europa.eu/resource/cellar/a36a7380-16b2-495c-a029-6c1174886f80.0018.03/DOC_1#E0040))
+    - Suprime I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^40^](http://publications.europa.eu/resource/cellar/a36a7380-16b2-495c-a029-6c1174886f80.0018.03/DOC_1#E0041))
+    - Suprime ANEXO XVII A ([^41^](http://publications.europa.eu/resource/cellar/a36a7380-16b2-495c-a029-6c1174886f80.0018.03/DOC_1#E0042))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^43^](http://publications.europa.eu/resource/cellar/a36a7380-16b2-495c-a029-6c1174886f80.0018.03/DOC_1#E0052))
+  - date: '2014-01-01'
+    amending: eu:celex:32013R1336:por
+    amending_title: REGULAMENTO (UE) N. o 1336/2013 DA COMISSÃO de 13 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 16.º — Montantes dos limiares dos contratos
+    - Altera Artigo 22.º-A — Contratos nos domínios da defesa e da segurança
+    - Altera Artigo 23.º — Contratos adjudicados a uma empresa associada, a uma empresa comum ou a uma entidade adjudicante
+      que integre uma empresa comum
+    - Altera Artigo 27.º — Contratos sujeitos a regime especial
+    - Altera Artigo 58.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 61.º — Limiares
+    - Altera Artigo 68.º — Procedimento de comité
+    - Altera Artigo 72.º — Mecanismo de acompanhamento
+    - Altera A. TRANSPORTE OU DISTRIBUIÇÃO DE GÁS OU DE COMBUSTÍVEL PARA AQUECIMENTO
+    - Altera B. PRODUÇÃO, TRANSPORTE OU DISTRIBUIÇÃO DE ELECTRICIDADE
+    - Altera F. ENTIDADES ADJUDICANTES NO DOMÍNIO DOS SERVIÇOS POSTAIS
+    - Altera G. PESQUISA E EXTRACÇÃO DE PETRÓLEO OU DE GÁS
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 31.º
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 32.º
+    - Altera EXIGÊNCIAS RELATIVAS AOS DISPOSITIVOS DE RECEPÇÃO ELECTRÓNICA DE PROPOSTAS, DE PEDIDOS DE PARTICIPAÇÃO, DE PEDIDOS
+      DE QUALIFICAÇÃO OU DE PLANOS E PROJECTOS NOS CONCURSOS PARA TRABALHOS DE CONCEPÇÃO
+    - Altera Notas
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^38^](http://publications.europa.eu/resource/cellar/e7a878eb-e24c-4357-848f-e0eb62d6572d.0018.03/DOC_1#E0038))
+    - Adita D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^39^](http://publications.europa.eu/resource/cellar/e7a878eb-e24c-4357-848f-e0eb62d6572d.0018.03/DOC_1#E0040))
+    - Adita I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^40^](http://publications.europa.eu/resource/cellar/e7a878eb-e24c-4357-848f-e0eb62d6572d.0018.03/DOC_1#E0041))
+    - Adita ANEXO XVII A ([^41^](http://publications.europa.eu/resource/cellar/e7a878eb-e24c-4357-848f-e0eb62d6572d.0018.03/DOC_1#E0042))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^43^](http://publications.europa.eu/resource/cellar/e7a878eb-e24c-4357-848f-e0eb62d6572d.0018.03/DOC_1#E0052))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^38^](http://publications.europa.eu/resource/cellar/a2a3d451-5f5c-437f-9f22-6d49fb9059b0.0018.03/DOC_1#E0038))
+    - Suprime D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^39^](http://publications.europa.eu/resource/cellar/a2a3d451-5f5c-437f-9f22-6d49fb9059b0.0018.03/DOC_1#E0040))
+    - Suprime I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^40^](http://publications.europa.eu/resource/cellar/a2a3d451-5f5c-437f-9f22-6d49fb9059b0.0018.03/DOC_1#E0041))
+    - Suprime ANEXO XVII A ([^41^](http://publications.europa.eu/resource/cellar/a2a3d451-5f5c-437f-9f22-6d49fb9059b0.0018.03/DOC_1#E0042))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^43^](http://publications.europa.eu/resource/cellar/a2a3d451-5f5c-437f-9f22-6d49fb9059b0.0018.03/DOC_1#E0052))
+  - date: '2016-01-01'
+    amending: eu:celex:32015R2341:por
+    amending_title: REGULAMENTO (UE) 2015/2341 DA COMISSÃO de 15 de dezembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 16.º — Montantes dos limiares dos contratos
+    - Altera Artigo 22.º-A — Contratos nos domínios da defesa e da segurança
+    - Altera Artigo 23.º — Contratos adjudicados a uma empresa associada, a uma empresa comum ou a uma entidade adjudicante
+      que integre uma empresa comum
+    - Altera Artigo 27.º — Contratos sujeitos a regime especial
+    - Altera Artigo 58.º — Propostas que englobam produtos originários de países terceiros
+    - Altera Artigo 61.º — Limiares
+    - Altera Artigo 68.º — Procedimento de comité
+    - Altera Artigo 72.º — Mecanismo de acompanhamento
+    - Altera A. TRANSPORTE OU DISTRIBUIÇÃO DE GÁS OU DE COMBUSTÍVEL PARA AQUECIMENTO
+    - Altera B. PRODUÇÃO, TRANSPORTE OU DISTRIBUIÇÃO DE ELECTRICIDADE
+    - Altera F. ENTIDADES ADJUDICANTES NO DOMÍNIO DOS SERVIÇOS POSTAIS
+    - Altera G. PESQUISA E EXTRACÇÃO DE PETRÓLEO OU DE GÁS
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 31.º
+    - Altera SERVIÇOS NA ACEPÇÃO DO ARTIGO 32.º
+    - Altera EXIGÊNCIAS RELATIVAS AOS DISPOSITIVOS DE RECEPÇÃO ELECTRÓNICA DE PROPOSTAS, DE PEDIDOS DE PARTICIPAÇÃO, DE PEDIDOS
+      DE QUALIFICAÇÃO OU DE PLANOS E PROJECTOS NOS CONCURSOS PARA TRABALHOS DE CONCEPÇÃO
+    - Altera Notas
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^38^](http://publications.europa.eu/resource/cellar/6fe10f0c-00c2-4255-bfc3-c470fbddde41.0015.02/DOC_1#E0038))
+    - Adita D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^39^](http://publications.europa.eu/resource/cellar/6fe10f0c-00c2-4255-bfc3-c470fbddde41.0015.02/DOC_1#E0040))
+    - Adita I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^40^](http://publications.europa.eu/resource/cellar/6fe10f0c-00c2-4255-bfc3-c470fbddde41.0015.02/DOC_1#E0041))
+    - Adita ANEXO XVII A ([^41^](http://publications.europa.eu/resource/cellar/6fe10f0c-00c2-4255-bfc3-c470fbddde41.0015.02/DOC_1#E0042))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^43^](http://publications.europa.eu/resource/cellar/6fe10f0c-00c2-4255-bfc3-c470fbddde41.0015.02/DOC_1#E0052))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA b) DO N.º 2 DO ARTIGO 1.º ([^38^](http://publications.europa.eu/resource/cellar/e7a878eb-e24c-4357-848f-e0eb62d6572d.0018.03/DOC_1#E0038))
+    - Suprime D. ANÚNCIO DE CONTRATO SIMPLIFICADO NO ÂMBITO DE UM SISTEMA DE AQUISIÇÃO DINÂMICO ([^39^](http://publications.europa.eu/resource/cellar/e7a878eb-e24c-4357-848f-e0eb62d6572d.0018.03/DOC_1#E0040))
+    - Suprime I. Informações para publicação no Jornal Oficial das Comunidades Europeias ([^40^](http://publications.europa.eu/resource/cellar/e7a878eb-e24c-4357-848f-e0eb62d6572d.0018.03/DOC_1#E0041))
+    - Suprime ANEXO XVII A ([^41^](http://publications.europa.eu/resource/cellar/e7a878eb-e24c-4357-848f-e0eb62d6572d.0018.03/DOC_1#E0042))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^43^](http://publications.europa.eu/resource/cellar/e7a878eb-e24c-4357-848f-e0eb62d6572d.0018.03/DOC_1#E0052))
+  - date: '2016-04-18'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS APLICÁVEIS AOS CONTRATOS E AOS CONCURSOS PARA TRABALHOS DE CONCEPÇÃO
+    - Suprime CAPÍTULO I
+    - Suprime Termos de base
+    - Suprime Artigo 1.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime Definição das entidades e actividades abrangidas
+    - Suprime Secção 1
+    - Suprime Entidades
+    - Suprime Artigo 2.º — Entidades adjudicantes
+    - Suprime Secção 2
+    - Suprime Actividades
+    - Suprime Artigo 3.º — Gás, combustível para aquecimento e electricidade
+    - Suprime Artigo 4.º — Água
+    - Suprime Artigo 5.º — Serviços de transporte
+    - Suprime Artigo 6.º — Serviços postais
+    - Suprime Artigo 7.º — Disposições relativas à pesquisa ou extracção de petróleo, gás, carvão e outros combustíveis sólidos,
+      assim como aos portos e aeroportos
+    - Suprime Artigo 8.º — Lista de entidades adjudicantes
+    - Suprime Artigo 9.º — Contratos que abrangem várias actividades
+    - Suprime CAPÍTULO III
+    - Suprime Princípios gerais
+    - Suprime Artigo 10.º — Princípios de adjudicação dos contratos
+    - Suprime TÍTULO II
+    - Suprime DISPOSIÇÕES APLICÁVEIS AOS CONTRATOS
+    - Suprime Disposições gerais
+    - Suprime Artigo 11.º — Operadores económicos
+    - Suprime Artigo 12.º — Condições relativas aos acordos celebrados no âmbito da Organização Mundial do Comércio
+    - Suprime Artigo 13.º — Confidencialidade
+    - Suprime Artigo 14.º — Acordos-quadro
+    - Suprime Artigo 15.º — Sistemas de aquisição dinâmicos
+    - Suprime Limiares e exclusões
+    - Suprime Limiares
+    - Suprime Artigo 16.º — Montantes dos limiares dos contratos
+    - Suprime Artigo 17.º — Métodos de cálculo do valor estimado dos contratos, dos acordos-quadro e dos sistemas de aquisição
+      dinâmicos
+    - Suprime Contratos e concessões e contratos sujeitos a regime especial
+    - Suprime SUBSECÇÃO 1
+    - Suprime Artigo 18.º — Concessões de obras ou de serviços
+    - Suprime SUBSECÇÃO 2
+    - Suprime Exclusões aplicáveis a todas as entidades adjudicantes e a todos os tipos de contratos
 identifiers:
   celex: 32004L0017
   eli: http://data.europa.eu/eli/dir/2004/17/oj
@@ -49,7 +600,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f523752e-fd07-4b64-a6f5-7f6a4258907c.0010
   content_url: http://publications.europa.eu/resource/cellar/6204d3b5-bd6d-4b0c-8c0f-9b3ee2a25c55.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0017-20160418
-  retrieved_at: '2026-10-22T02:35:53Z'
+  retrieved_at: '2026-10-22T14:57:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-19T10:22:50.394+01:00'
 integrity:
@@ -58,9 +609,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:53Z'
-  notes: Texto consolidado 02004L0017-20160418.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:11Z'
+  notes: 16 versão(ões); histórico completo em diretiva-ue-2004-17.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -543,16 +1094,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:53Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:57:11Z'
+  warnings: []
   errors: []
 ---
 

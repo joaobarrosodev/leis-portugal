@@ -1,0 +1,279 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993R0793:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R0793-20080601",
+ "dre_path": null,
+ "source_lastmod": "2008-06-01",
+ "versions": [
+  {
+   "date": "1993-04-05",
+   "future": false,
+   "celex": "31993R0793",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "79259c840f006aa8",
+    "90b551ba559c3656",
+    "6f45736cb28ca948",
+    "45be70a8d5289a2f",
+    "c2702a63b6c95c8c",
+    "205ce736551ec4ad",
+    "2e76c2151785a063",
+    "4d183cb628d16042",
+    "54dae7adfca9e75a",
+    "e06fe69f6ab89995",
+    "0c33e1c3bd775a65",
+    "effb811853b3e6d9",
+    "52dee7a4a2cbd606",
+    "8c4a702367fa9845",
+    "732f9cd5334ac2c2",
+    "02f0aaedf4f5d678",
+    "14be962dfab67c49",
+    "f98f482eb57a6584",
+    "07c406696b928601",
+    "cc222424307b1a42",
+    "655aa80065359457",
+    "5d27d70c4edaa010",
+    "856edab91b4a5ab4",
+    "e512717c1af3b93d"
+   ]
+  },
+  {
+   "date": "2008-06-01",
+   "future": false,
+   "celex": "01993R0793-20080601",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o — Objectivos e âmbito de aplicação",
+    "Suprime Artigo 2o — Definições",
+    "Suprime Artigo 3o — Comunicação de dados relativos às substâncias existentes produzidas ou importadas em grandes quantidades",
+    "Suprime Artigo 4o — Comunicação de dados relativos às substâncias existentes produzidas ou importadas em quantidades mais reduzidas",
+    "Suprime Artigo 5o — Isenções",
+    "Suprime Artigo 6o — Processo de comunicação dos dados",
+    "Suprime Artigo 7o — Actualização das informações transmitidas e obrigação de comunicar automaticamente certas informações",
+    "Suprime Artigo 8o — Listas prioritárias",
+    "Suprime Artigo 9o — Dados a comunicar sobre as substâncias que constam das listas prioritárias",
+    "Suprime PARTE 2 AVALIAÇÃO DOS RISCOS — Artigo 10o",
+    "Suprime Artigo 11o — Avaliação dos riscos associados às substâncias incluídas nas listas prioritárias a nível comunitário",
+    "Suprime Artigo 12o — Obrigações relativas à comunicação de informações complementares e à realização de ensaios complementares",
+    "Suprime Artigo 13o — Colaboração entre os Estados-membros e a Comissão",
+    "Suprime PARTE 3 GESTAO, CONFIDENCIALIDADE, DISPOSIÇÕES DIVERSAS E FINAIS — Artigo 14o",
+    "Suprime Artigo 15o — Comité",
+    "Suprime Artigo 16o — Confidencialidade das informações",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II — LISTA DAS SUBSTÂNCIAS ISENTAS DA APLICAÇÃO DO DISPOSTO NOS ARTIGOS 3o E 4o",
+    "Suprime ANEXO III — INFORMAÇÕES REFERIDAS NO ARTIGO 3o 1. Informação genérica",
+    "Suprime ANEXO IV — INFORMAÇÕES REQUERIDAS PARA A FICHA DE DADOS REFERIDA NO No1 DO ARTIGO 4o 1. Informação genética",
+    "Suprime ANEXO V"
+   ],
+   "fragments": [
+    "9d009a8e1a9e8097"
+   ]
+  }
+ ],
+ "fragments": {
+  "79259c840f006aa8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 793/93 do Conselho, de 23 de Março de 1993, relativo à avaliação e controlo dos riscos ambientais associados às substâncias existentes** *Jornal Oficial nº L 084 de 05/04/1993 p. 0001 - 0075 Edição especial finlandesa: Capítulo 15 Fascículo 12 p. 0093 Edição especial sueca: Capítulo 15 Fascículo 12 p. 0093*\n\nREGULAMENTO (CEE) No 793/93 DO CONSELHO de 23 de Março de 1993 relativo à avaliação e controlo dos riscos ambientais associados às substâncias existentes\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o A,\n\nTendo em conta a proposta da Comissão(1),\n\nEm cooperação com o Parlamento Europeu(2),\n\nTendo em conta o parecer do Comité Económico e Social(3),\n\nConsiderando que as disparidades entre as disposições legislativas, regulamentares e administrativas respeitantes à avaliação dos riscos de que se revestem as substâncias existentes, vigentes ou em preparação nos Estados-membros, podem constituir um entrave ao comércio entre os Estados-membros e criar condições de concorrência desiguais;\n\nConsiderando que as medidas relativas à aproximação das disposições dos Estados-membros que visam o estabelecimento e o funcionamento do mercado interno devem, no que diz respeito à saúde, segurança e protecção do ambiente e do consumidor, basear-se num elevado nível de protecção;\n\nConsiderando que, a fim de garantir a protecção do homem, incluindo os trabalhadores e os consumidores, e do ambiente, importa proceder, a nível da Comunidade, a uma avaliação sistemática dos riscos resultantes das substâncias existentes que constam do Einecs (European Inventory of Existing Commercial Substances)(4);\n\nConsiderando que, numa preocupação de eficácia e economia, se torna necessário estabelecer uma política comunitária que assegure a repartição e a coordenação das tarefas entre os Estados-membros, a Comissão e os industriais;\n\nConsiderando que o regulamento constitui o instrumento jurídico adequado, uma vez que impõe directamente aos fabricantes e aos importadores obrigações precisas a aplicar ao mesmo tempo e da mesma maneira em toda a Comunidade;\n\nConsiderando que, a fim de efectuar uma avaliação preliminar dos riscos associados às substâncias existentes e identificar as substâncias prioritárias que exijam uma atenção imediata, se torna necessário recolher informações e analisar os dados sobre as substâncias existentes;\n\nConsiderando que inporta isentar dessas obrigações de informação certas substâncias que, pelas suas propriedades intrínsecas, apresentem riscos geralmente reconhecidos como mínimos;\n\nConsiderando que importa que as informações sejam apresentadas à Comissão pelos fabricantes e importadores, transmitindo aquela, por seu turno, cópias a todos os Estados-membros; que, todavia, importa prever a possibilidade de um Estado-membro solicitar aos fabricantes e importadores estabelecidos no seu território que apresentem essas mesmas informações simultaneamente às suas autoridades competentes;\n\nConsiderando que, a fim de avaliar os riscos potenciais associados a determinadas substâncias existentes, é necessário, em certos casos, exigir que os fabricantes ou os importadores forneçam informações suplementares ou efectuem novos ensaios sobre determinadas substâncias;\n\nConsiderando que é necessário elaborar, a nível comunitário, listas de substâncias prioritárias que requerem uma atenção especial; que a Comissão deverá apresentar, o mais tardar um ano após a entrada em vigor do presente regulamento, uma primeira lista prioritária;\n\nConsiderando que importa que seja assegurada pelos Estados-membros a avaliação dos riscos apresentados pelas substâncias que constam das listas prioritárias; que importa igualmente designar os Estados-membros a nível comunitário, com base numa distribuição de tarefas que atenda à situação dos mesmos; que importa igualmente estabelecer, a nível comunitário, princípios de avaliação dos riscos;\n\nConsiderando que, no processo de estabelecimento das prioridades e da avaliação dos riscos das substâncias existentes, é necessário ter em conta, designadamente, a falta de dados sobre os efeitos da substância, os trabalhos já efectuados noutras instâncias internacionais como a Organização para a Cooperação e o Desenvolvimento Económicos, bem como outras legislações e/ou programas comunitários relativos às substâncias perigosas;\n\nConsiderando que importa adoptar a nível comunitário os resultados da avaliação dos riscos, bem como a estratégia recomendada para limitar os riscos relativos às substâncias que constam das listas prioritárias;\n\nConsiderando que o número de animais utilizados para fins experimentais deve ser reduzido ao mínimo, em conformidade com as disposições da Directiva 86/609/CEE do Conselho, de 24 de Novembro de 1986, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros respeitantes à protecção dos animais utilizados para fins experimentais e outros fins científicos(5), e que, sempre que possível e em consulta nomeadamente com o Centro Europeu de Métodos de Ensaio Alternativos, deve evitar-se a utilização de animais recorrendo a métodos alternativos homologados;\n\nConsiderando que, nos ensaios a realizar sobre substâncias químicas no âmbito deste regulamento, devem ser seguidos os princípios de boas práticas de laboratório consignados na Directiva 87/18/CEE do Conselho, de 18 de Dezembro de 1986, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à aplicação dos princípios de boas práticas de laboratório e ao controlo da sua aplicação para os ensaios sobre as substâncias químicas(6);\n\nConsiderando que convém atribuir à Comissão, assistida por um comité constituído por representantes dos Estados-membros, as competências necessárias para proceder à adaptação de certos anexos ao progresso técnico e para adoptar determinadas medidas de aplicação do regulamento;\n\nConsiderando que importa salvaguardar a confidencialidade de certos dados em matéria de segredo industrial ou comercial,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "90b551ba559c3656": {
+   "fragment_id": "Artigo 1o — Objectivos e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1o — Objectivos e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o — Objectivos e âmbito de aplicação\n\n1. O presente regulamento aplica-se:\n\na) À recolha, difusão e acessibilidade das informações sobre as substâncias existentes;\n\nb) À avaliação dos riscos que as substâncias existentes representam para o homem, incluindo os trabalhadores e os consumidores, e para o meio ambiente, a fim de permitir uma melhor gestão destes riscos no âmbito das disposições comunitárias.\n\n2. As disposições do presente regulamento aplicam-se sem prejuízo da legislação comunitária relativa à protecção dos trabalhadores e dos consumidores."
+  },
+  "6f45736cb28ca948": {
+   "fragment_id": "Artigo 2o — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2o — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o — Definições\n\nPara efeitos do disposto no presente regulamento, entende-se por:\n\na) Substâncias: os elementos químicos e seus compostos no estado natural ou obtidos por qualquer processo de produção, contendo qualquer aditivo necessário para preservar a estabilidade do produto e/ou qualquer impureza que derive do processo utilizado, mas excluindo qualquer solvente que possa ser separado sem afectar a estabilidade da substância nem modificar a sua composição;\n\nb) Preparações: as misturas ou soluções compostas por duas ou mais substâncias;\n\nc) Importação: introdução no território aduaneiro da Comunidade;\n\nd) Produção: a produção de substâncias isoladas, no estado sólido, líquido ou gasoso;\n\ne) Substâncias existentes: as substâncias que constam do Einecs.\n\nPARTE 1 COMUNICAÇÃO SISTEMÁTICA DE DADOS E ELABORAÇÃO DAS LISTAS DE SUBSTÂNCIAS PRIORITÁRIAS"
+  },
+  "45be70a8d5289a2f": {
+   "fragment_id": "Artigo 3o — Comunicação de dados relativos às substâncias existentes produzidas ou importadas em grandes quantidades",
+   "type": "artigo",
+   "heading": "Artigo 3o — Comunicação de dados relativos às substâncias existentes produzidas ou importadas em grandes quantidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o — Comunicação de dados relativos às substâncias existentes produzidas ou importadas em grandes quantidades\n\nSem prejuízo do disposto no no 1 do artigo 6o, qualquer fabricante que tenha produzido ou qualquer importador que tenha importado uma substância existente, estreme ou contida numa preparação, em quantidades superiores a 1 000 toneladas por ano, nos três anos anteriores à adopção do presente regulamento e/ou no ano seguinte, mesmo que apenas uma vez, deve fornecer à Comissão, em conformidade com o procedimento previsto nos nos 2 e 3 do artigo 6o, num prazo de 12 meses após a entrada em vigor do presente regulamento, caso se trate de uma substância incluída no anexo I, e num prazo de 24 meses, caso se trate de uma substância constante do Einecs mas não incluída no anexo I, as informações seguintes, especificadas no anexo III:\n\na) O nome da substância e o respectivo número Einecs;\n\nb) A quantidade da substância produzida ou importada;\n\nc) A classificação da substância, nos termos do anexo I da Directiva 67/548/CEE do Conselho, de 27 de Junho de 1967, relativa às disposições legislativas, regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem das substâncias perigosas(7), ou a classificação provisória, nos termos da mesma directiva, indicando a categoria de perigo, o símbolo do perigo, as frases-tipo relativas aos riscos e os conselhos de prudência;\n\nd) Informações sobre as utilizações potencialmente previsíveis da substância;\n\ne) Dados sobre as propriedades físico-químicas da substância;\n\nf) Dados sobre o percurso e o destino final da substância no ambiente;\n\ng) Dados sobre a ecotoxicidade da substância;\n\nh) Dados sobre a toxicidade aguda e subaguda da substância;\n\ni) Dados sobre carcinogenicidade, mutagenicidade e/ou toxicidade da substância para a reprodução;\n\nj) Qualquer outra informação relevante para a avaliação dos riscos associados à substância.\n\nOs fabricantes e importadores deverão fazer todos os esforços razoáveis para obter os dados existentes relativos às alíneas e) a j). Todavia, na falta de informações, os fabricantes e importadores não são obrigados a efectuar ensaios suplementares em animais, com o fim de apresentarem esses dados."
+  },
+  "c2702a63b6c95c8c": {
+   "fragment_id": "Artigo 4o — Comunicação de dados relativos às substâncias existentes produzidas ou importadas em quantidades mais reduzidas",
+   "type": "artigo",
+   "heading": "Artigo 4o — Comunicação de dados relativos às substâncias existentes produzidas ou importadas em quantidades mais reduzidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o — Comunicação de dados relativos às substâncias existentes produzidas ou importadas em quantidades mais reduzidas\n\n1. Sem prejuízo do no 1 do artigo 6o, qualquer fabricante que tenha produzido ou qualquer importador que tenha importado uma substância existente, estreme ou contida numa preparação, em quantidades superiores a 10 toneladas por ano mas não excedendo 1 000 toneladas por ano, nos três anos anteriores à adopção do presente regulamento e/ou no ano seguinte, mesmo que apenas uma vez, deve fornecer à Comissão, de acordo com o procedimento previsto nos nos 2 e 3 do artigo 6o, num prazo de 24 meses a contar da data em que se completem três anos de vigência do presente regulamento, as seguintes informações, especificadas no anexo IV:\n\na) O nome da substância e o respectivo número Einecs;\n\nb) A quantidade da substância produzida ou importada;\n\nc) A classificação da substância, nos termos do anexo I da Directiva 67/548/CEE ou a classificação provisória nos termos da mesma directiva, indicando a categoria de perigo, o símbolo do perigo e as frases-tipo relativas aos riscos e os conselhos de prudência;\n\nd) Informações sobre as utilizações potencialmente previsíveis da substância;\n\n2. A Comissão, em consulta com os Estados-membros, determinará os casos em que é necessário exigir aos fabricantes e importadores das substâncias declaradas, nos termos do no 1, que apresentem informações complementares, no âmbito do anexo III, sobre as propriedades físico-químicas, toxicidade e ecotoxicidade das referidas substâncias, sobre a exposição, bem como sobre qualquer outro aspecto relevante para a avaliação dos riscos associados a essas substâncias. No entanto, sem prejuízo do no 2 do artigo 12o, os fabricantes e os importadores não são obrigados a efectuar, para esse efeito, ensaios suplementares em animais.\n\nAs informações específicas a comunicar e o processo a adoptar para essa comunicação serão determinados em conformidade com o processo previsto no artigo 15o"
+  },
+  "205ce736551ec4ad": {
+   "fragment_id": "Artigo 5o — Isenções",
+   "type": "artigo",
+   "heading": "Artigo 5o — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o — Isenções\n\nAs substâncias incluídas no anexo II estão isentas da aplicação das disposições dos artigos 3o e 4o Todavia, podem ser solicitadas informações sobre as substâncias incluídas no anexo II segundo um processo determinado de acordo com o processo previsto no artigo 15o"
+  },
+  "2e76c2151785a063": {
+   "fragment_id": "Artigo 6o — Processo de comunicação dos dados",
+   "type": "artigo",
+   "heading": "Artigo 6o — Processo de comunicação dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o — Processo de comunicação dos dados\n\n1. No caso de uma substância produzida ou importada por vários produtores ou importadores, as informações referidas no artigo 3o e no no 2 do artigo 4o podem ser apresentadas por um fabricante ou importador em nome de outros fabricantes ou importadores interessados e com o acordo destes. Os outros fabricantes ou importadores da mesma substância devem, no entanto, fornecer à Comissão as informações especificadas nos pontos 1.1 a 1.19 da ficha de dados apresentada no anexo III e, ao fazê-lo, devem fazer referência à ficha de dados apresentada por esse fabricante ou importador.\n\n2. Para apresentar as informações referidas no artigo 3o e no no 1 do artigo 4o, os fabricantes e importadores devem apenas utilizar os programas de computador gravados em disquetes postos gratuitamente à sua disposição pela Comissão.\n\n3. Os Estados-membros podem estipular que os fabricantes e importadores estabelecidos no seu território sejam obrigados a apresentar simultaneamente às respectivas autoridades competentes as mesmas informações que enviarem à Comissão ao abrigo dos artigos 3o e 4o\n\n4. Após a recepção dos dados referidos no artigo 3o e no artigo 4o, a Comissão enviará cópias a todos os Estados-membros."
+  },
+  "4d183cb628d16042": {
+   "fragment_id": "Artigo 7o — Actualização das informações transmitidas e obrigação de comunicar automaticamente certas informações",
+   "type": "artigo",
+   "heading": "Artigo 7o — Actualização das informações transmitidas e obrigação de comunicar automaticamente certas informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o — Actualização das informações transmitidas e obrigação de comunicar automaticamente certas informações\n\n1. Os fabricantes e importadores que tiverem comunicado informações sobre uma substância, em conformidade com os artigos 3o e 4o, devem actualizar as informações fornecidas à Comissão.\n\nComunicarão designadamente, consoante o caso:\n\na) As novas utilizações da substância que alterem significativamente o tipo, a forma, o grau ou a duração de exposição do homem ou do ambiente à substância;\n\nb) Quaisquer novos dados obtidos sobre as propriedades físico-químicas e os efeitos tóxicos ou ecotóxicos, sempre que esses dados sejam susceptíveis de afectar a avaliação dos riscos potenciais associados à substância;\n\nc) Qualquer alteração na classificação provisória, ao abrigo da Directiva 67/548/CEE.\n\nOs fabricantes e importadores deverão igualmente, de três em três anos, actualizar as informações relativas aos volumes de produção e importação referidos nos artigos 3o e 4o, no caso de haver qualquer alteração em relação aos volumes indicados nos anexos III ou IV.\n\n2. Se qualquer fabricante ou importador de uma substância existente adquirir informações que corroborem a conclusão de que a substância em causa pode representar um grave risco para o homem ou para o ambiente, deve imediatamente transmitir essas informações à Comissão e ao Estado-membro onde se encontra estabelecido.\n\n3. Após a recepção dos dados referidos nos nos 1 e 2, a Comissão enviará cópias dos mesmos a todos os Estados-membros."
+  },
+  "54dae7adfca9e75a": {
+   "fragment_id": "Artigo 8o — Listas prioritárias",
+   "type": "artigo",
+   "heading": "Artigo 8o — Listas prioritárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o — Listas prioritárias\n\n1. Com base nas informações comunicadas pelos fabricantes e importadores, em conformidade com os artigos 3o e 4o e com base nas listas nacionais de substâncias prioritárias, a Comissão, em consulta com os Estados-membros, procederá regularmente à elaboração de listas de substâncias ou grupos de substâncias prioritárias que requerem atenção imediata devido aos efeitos que eventualmente podem ter no homem e no ambiente, adiante designadas «listas prioritárias». Essas listas serão adoptadas em conformidade com o processo previsto no artigo 15o e serão publicadas pela Comissão, pela primeira vez no ano subsequente ao da entrada em vigor do presente regulamento.\n\n2. Os critérios a adoptar para a elaboração das listas prioritárias são os seguintes:\n\n- os efeitos da substância no homem e no ambiente,\n\n- a exposição do homem e do ambiente à substância,\n\n- a inexistência de dados sobre os efeitos da substância no homem e no ambiente,\n\n- os trabalhos já efectuados noutras instâncias internacionais,\n\n- as outra legislações e/ou programas comunitários relativos às substâncias perigosas.\n\nUma substância já avaliada ao abrigo de outra legislação comunitária só poderá ser incluída na lista prioritária se a referida avaliação tiver descurado o risco para o ambiente ou o risco para o homem, incluindo os trabalhadores e os consumidores, ou se esses riscos não tiverem sido avaliados de modo adequado. Uma avaliação equivalente efectuada ao abrigo de outra legislação comunitária não poderá ser repetida ao abrigo do presente regulamento.\n\nDeve ser prestada uma atenção especial às substâncias que possam ter efeitos crónicos, em especial às substâncias que se saiba ou suspeite serem carcinogénicas, tóxicas para a reprodução e/ou mutagénicas, ou que se saiba ou suspeite poderem contribuir para o aumento da incidência destes efeitos."
+  },
+  "e06fe69f6ab89995": {
+   "fragment_id": "Artigo 9o — Dados a comunicar sobre as substâncias que constam das listas prioritárias",
+   "type": "artigo",
+   "heading": "Artigo 9o — Dados a comunicar sobre as substâncias que constam das listas prioritárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o — Dados a comunicar sobre as substâncias que constam das listas prioritárias\n\n1. No que se refere às substâncias que constam das listas prioritárias referidas no no 1 do artigo 8o, os fabricantes e os importadores que tenham fornecido informações sobre uma substância, nos termos dos artigos 3o e 4o, deverão, num prazo de seis meses a contar da publicação da lista, apresentar ao relator designado, em conformidade com o no 1 do artigo 10o, todas as informações disponíveis e pertinentes, bem como os relatórios dos estudos correspondentes, para a avaliação do risco da substância em causa.\n\n2. Para além da obrigação prevista no no 1, e sem prejuízo dos ensaios que possam ser exigidos nos termos do no 2 do artigo 10o, se um dos elementos de informação previstos no anexo VII A da Directiva 67/548/CEE não estiver disponível relativamente a uma determinada substância prioritária, os fabricantes e os importadores que tenham fornecido informações sobre uma substância, nos termos dos artigos 3o e 4o, deverão proceder aos ensaios necessários para obter os dados em falta e fornecer ao relator os resultados dos ensaios e os respectivos relatórios, num prazo de 12 meses.\n\n3. Em derrogação ao no 2, os fabricantes e os importadores poderão requerer ao relator uma isenção da totalidade ou parte dos ensaios complementares, em virtude de determinado elemento de informação não ser necessário para avaliar o risco ou ser impossível de obter; poderão igualmente solicitar um prazo mais longo sempre que as circunstâncias o exigirem. Tal pedido de derrogação deverá ser devidamente justificado, competindo ao relator decidir dar-lhe ou não deferimento. Sempre que, ao abrigo do presente regulamento, for concedida uma derrogação, o relator deverá informar imediatamente a Comissão da sua decisão. A Comissão informará os outros Estados-membros. Se a decisão do relator for contestada por um dos restantes Estados-membros, será tomada uma decisão final em conformidade com o processo de comité previsto no artigo 15o"
+  },
+  "0c33e1c3bd775a65": {
+   "fragment_id": "PARTE 2 AVALIAÇÃO DOS RISCOS — Artigo 10o",
+   "type": "divisao",
+   "heading": "PARTE 2 AVALIAÇÃO DOS RISCOS — Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE 2 AVALIAÇÃO DOS RISCOS — Artigo 10o\n\nAvaliação dos riscos associados às substâncias incluídas nas listas prioritárias a nível do Estado-membro designado como relator\n\n1. Para cada substância incluída nas listas prioritárias será nomeado um Estado-membro como responsável pela sua avaliação, em conformidade com o processo previsto no artigo 15o e tendo em conta uma repartição equitativa de tarefas entre os Estados-membros.\n\nO Estados-membro nomeará, entre as autoridades competentes referidas no artigo 13o, o relator para a referida substância.\n\nO relator avaliará as informações transmitidas pelo(s) fabricante(s) ou importador(es), em conformidade com o disposto nos artigos 3o, 4o, 7o e 9o, bem como quaisquer outras informações disponíveis e indicará, após ter consultado os produtores ou os importadores em causa, os casos em que será necessário exigir, para a avaliação dos riscos, que os fabricantes e os importadores de substâncias prioritárias acima referidos apresentem informações complementares e/ou efectuem ensaios complementares.\n\n2. No caso de o relator considerar necessário pedir informações complementares, informará a Comissão desse facto. A decisão de impor ao(s) fabricantes(s) ou importador(es) acima referido(s) um pedido de informações e/ou ensaios complementares, bem como o prazo para lhe dar cumprimento, será adoptada em conformidade com o processo previsto no artigo 15o\n\n3. O relator avaliará, para uma determinada substância prioritária, os riscos reais ou potenciais que essa substância representa para o homem e para o ambiente.\n\nSe for caso disso, proporá uma estratégia para limitar esses riscos, incluindo medidas de controlo e/ou programas de vigilância. No caso de essas medidas de controlo incluírem recomendações de limitação da colocação no mercado e da utilização da referida substância, o relator apresentará uma análise das vantagens e inconvenientes apresentados pela substância e sobre a disponibilidade de substâncias de substituição.\n\nA avaliação dos riscos e a estratégia recomendadas serão comunicadas à Comissão pelo relator.\n\n4. Os riscos reais ou potenciais para o homem e para o ambiente serão avaliados de acordo com os princípios adoptados antes de 4 de Junho de 1994, em conformidade com o processo previsto no artigo 15o Esses princípios serão regularmente reanalisados e, se necessário, revistos segundo o mesmo procedimento.\n\n5. Caso sejam exigidos aos fabricantes ou aos importadores informações e/ou ensaios complementares, aqueles deverão, dada a necessidade de limitar as experiências praticadas em animais vertebrados, determinar também se as informações necessárias à avaliação da substância se encontram disponíveis junto de antigos fabricantes ou importadores da substância declarada e se podem ser obtidas, eventualmente, contra reembolso das despesas. Caso sejam indispensáveis experiências, dever-se-á estudar se os ensaios em animais não poderão ser substituídos ou limitados por recurso a outros métodos.\n\nOs ensaios em laboratório que forem necessários deverão ser realizados respeitando os princípios das «boas práticas de laboratório» fixados na Directiva 87/18/CEE e o disposto na Directiva 86/609/CEE."
+  },
+  "effb811853b3e6d9": {
+   "fragment_id": "Artigo 11o — Avaliação dos riscos associados às substâncias incluídas nas listas prioritárias a nível comunitário",
+   "type": "artigo",
+   "heading": "Artigo 11o — Avaliação dos riscos associados às substâncias incluídas nas listas prioritárias a nível comunitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o — Avaliação dos riscos associados às substâncias incluídas nas listas prioritárias a nível comunitário\n\n1. Com base na avaliação dos riscos e da estratégia recomendadas pelo relator, a Comissão apresentará ao comité, referido no no 1 do artigo 15o, uma proposta de resultados da avaliação dos riscos associados às substâncias prioritárias, recomendando, se necessário, uma estratégia adequada para limitar esses riscos.\n\n2. Os resultados da avaliação dos riscos associados às substâncias prioritárias, bem como a estratégia recomendada, serão adoptados a nível comunitário em conformidade com o processo previsto no artigo 15o e publicados pela Comissão.\n\n3. Com base na avaliação dos riscos e na recomendação de uma estratégia referida no no 2, a Comissão decidirá, se necessário, propor medidas comunitárias no âmbito da Directiva 76/769/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros respeitantes à limitação da colocação no mercado e da utilização de algunas substâncias e preparações perigosas(8), ou no âmbito de outros instrumentos comunitários existentes adequados."
+  },
+  "52dee7a4a2cbd606": {
+   "fragment_id": "Artigo 12o — Obrigações relativas à comunicação de informações complementares e à realização de ensaios complementares",
+   "type": "artigo",
+   "heading": "Artigo 12o — Obrigações relativas à comunicação de informações complementares e à realização de ensaios complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o — Obrigações relativas à comunicação de informações complementares e à realização de ensaios complementares\n\n1. Qualquer fabricante ou importador de uma substância incluída nas listas prioritárias referidas no no 1 do artigo 8o que tenha fornecido informações, nos termos dos artigos 3o e 4o, deverá, num prazo estabelecido, fornecer ao relator as informações que possua sobre essa substância, bem como os resultados dos ensaios referidos nos nos 1 e 2 do artigo 9o e no no 2 do artigo 10o\n\n2. Sem prejuízo do no 2 do artigo 7o, sempre que existam razões válidas para considerar que uma substância existente pode representar um risco grave para o homem ou para o ambiente, a decisão de solicitar ao(s) fabricante(s) e ao(s) importador(es) da dita substância que forneçam as informações de que dispõem e/ou que submetam a referida substância a ensaios e apresentem um relatório sobre os resultados obtidos será adoptada em conformidade com o processo previsto no artigo 15o\n\n3. No caso de uma substância produzida ou importada, estreme ou contida numa preparação, por vários fabricantes ou importadores, os ensaios referidos nos nos 1 e 2 podem ser efectuados por um ou mais fabricantes ou importadores em nome de outros fabricantes ou importadores interessados. Os outros fabricantes ou importadores interessados devem fazer referência aos ensaios efectuados por esse(s) fabricante(s) ou importador(es) e devem comparticipar nas despesas numa base justa e equitativa."
+  },
+  "8c4a702367fa9845": {
+   "fragment_id": "Artigo 13o — Colaboração entre os Estados-membros e a Comissão",
+   "type": "artigo",
+   "heading": "Artigo 13o — Colaboração entre os Estados-membros e a Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o — Colaboração entre os Estados-membros e a Comissão\n\nOs Estados-membros designarão a autoridade ou as autoridades competentes para participar na implementação do presente regulamento em colaboração com a Comissão, nomeadamente no que respeita às tarefas referidas nos artigos 8o e 10o Os Estados-membros designarão igualmente a ou as autoridade(s) a quem a Comissão enviará a cópia dos dados recebidos."
+  },
+  "732f9cd5334ac2c2": {
+   "fragment_id": "PARTE 3 GESTAO, CONFIDENCIALIDADE, DISPOSIÇÕES DIVERSAS E FINAIS — Artigo 14o",
+   "type": "divisao",
+   "heading": "PARTE 3 GESTAO, CONFIDENCIALIDADE, DISPOSIÇÕES DIVERSAS E FINAIS — Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE 3 GESTAO, CONFIDENCIALIDADE, DISPOSIÇÕES DIVERSAS E FINAIS — Artigo 14o\n\nAlterações e adaptações dos anexos\n\n1. As alterações necessárias para adaptar os anexos I, II, III e IV ao progresso técnico serão adoptadas em conformidade com o processo previsto no artigo 15o\n\n2. As alterações e adaptações do anexo V serão adoptadas pela Comissão."
+  },
+  "02f0aaedf4f5d678": {
+   "fragment_id": "Artigo 15o — Comité",
+   "type": "artigo",
+   "heading": "Artigo 15o — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o — Comité\n\n1. A Comissão será assistida por um comité composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no no 2 do artigo 148o do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3. A Comissão adoptará as medidas projectadas, desde que sejam conformes com o parecer do comité.\n\nSe as medidas projectadas não forem conformes com o parecer do comité ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\n4. a) Com excepção dos casos referidos na alínea b) infra, se, no termo do prazo de dois meses a contar da data em que o assunto tiver sido submetido à apreciação do Conselho, este último ainda não tiver deliberado, a Comissão adoptará as medidas propostas;\n\nb) No caso das decisões referidas no no 2 do artigo 11o e no no 1 do artigo 14o, se, no termo do prazo de dois meses a contar da data em que o assunto tiver sido submetido à apreciação do Conselho, este último ainda não tiver deliberado, a Comissão adoptará as medidas propostas, excepto no caso de o Conselho se ter pronunciado por maioria simples contra as referidas medidas."
+  },
+  "14be962dfab67c49": {
+   "fragment_id": "Artigo 16o — Confidencialidade das informações",
+   "type": "artigo",
+   "heading": "Artigo 16o — Confidencialidade das informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o — Confidencialidade das informações\n\n1. No que diz respeito às informações obtidas em conformidade com os artigos 3o, 4o, 7o e 12o, se o fabricante ou o inportador considerarem que existe um problema de confidencialidade, podem indicar as informações que entendem ser comercialmente sensíveis e cuja divulgação pode prejudicá-los a nível industrial ou comercial e que, por conseguinte, pretendem manter em segredo relativamente a terceiros, com excepção dos Estados-membros e da Comissão. Estes casos deverão ser devidamente justificados.\n\nO segredo industrial e comercial não se aplica:\n\n- ao nome da substância, tal como se encontra indicado no Einecs,\n\n- ao nome do fabricante ou importador,\n\n- a dados físico-químicos da substância e dados relativos ao percurso e ao destino final da substância no ambiente,\n\n- ao resumo dos resultados dos ensaios de toxicidade e ecotoxicidade, nomeadamente, dados relativos à carcinogenicidade, mutagenicidade e/ou toxicidade da substância para a reprodução,\n\n- a quaisquer informações sobre os métodos e as precauções relativas à substância e sobre as medidas de emergência,\n\n- a quaisquer informações que, se não forem comunicadas, poderão conduzir à execução ou à repetição inútil de experiências em animais,\n\n- aos métodos de análise que permitem observar uma substância perigosa após a sua introdução no ambiente e determinar a exposição humana directa a essa mesma substância.\n\nNo caso de o fabricante ou o importador divulgarem mais tarde qualquer informação anteriormente considerada por eles confidencial, deverão informar desse facto a autoridade competente.\n\n2. A autoridade competente que recebe as informações decidirá, sob a sua responsabilidade, se as informações devem ser abrangidas pelo segredo industrial e comercial, em conformidade com o no 1.\n\nAs informações aceites como confidenciais pela autoridade que as recebe devem ser tratadas como tal pelas outras autoridades."
+  },
+  "f98f482eb57a6584": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nO mais tardar um ano após a adopção do presente regulamento, os Estados-membros instituirão as medidas jurídicas ou administrativas adequadas para tratar os casos de inobservância das disposições do presente regulamento."
+  },
+  "07c406696b928601": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nO presente regulamento entra em vigor no sexagésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 23 de Março de 1993.\n\nPelo Conselho O Presidente S. AUKEN\n\n(1) JO no C 276 de 5. 11. 1990, p. 1.\n\n(2) JO no C 280 de 28. 10. 1991, p. 65,\n\nJO no C 337 de 21. 12. 1992.\n\n(3) JO no C 102 de 18. 4. 1991, p. 42.\n\n(4) JO no C 146 de 15. 6. 1990, p. 1.\n\n(5) JO no L 358 de 18. 12. 1986, p. 1.\n\n(6) JO no L 15 de 17. 1. 1987, p. 29.\n\n(7) JO no L 196 de 16. 8. 1967, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 91/632/CEE (JO no L 338 de 10. 12. 1991, p. 23).\n\n(8) JO no L 262 de 27. 9. 1976, p. 201. Directiva com a última redacção que lhe foi dada pela Directiva 91/659/CEE (JO no L 363 de 31. 12. 1991, p. 36."
+  },
+  "cc222424307b1a42": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nLISTA DAS SUBSTÂNCIAS EXISTENTES PRODUZIDAS OU IMPORTADAS PELA COMUNIDADE EM QUANTIDADES SUPERIORES A 1 000 TONELADAS POR ANO (*) (*) Os produtos de petróleo são agrupados em 31 grupos identificados por um número e uma letra (grupo 1, grupo 2, grupo 3A, grupo 3C, grupo 3B, grupo 4A, grupo 4B, etc.); ver adiante páginas 35 a 68.\n\nEm relação a qualquer grupo específico de substâncias, os fabricantes ou importadores podem decidir submeter apenas um conjunto de informações, mas somente na medida em que os pontos 2 a 6 inclusive das informações, tal como constam do anexo III, lhes digam respeito; estas informações serão então consideradas aplicáveis a todas as substâncias contidas nesse grupo específico."
+  },
+  "655aa80065359457": {
+   "fragment_id": "ANEXO II — LISTA DAS SUBSTÂNCIAS ISENTAS DA APLICAÇÃO DO DISPOSTO NOS ARTIGOS 3o E 4o",
+   "type": "divisao",
+   "heading": "ANEXO II — LISTA DAS SUBSTÂNCIAS ISENTAS DA APLICAÇÃO DO DISPOSTO NOS ARTIGOS 3o E 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — LISTA DAS SUBSTÂNCIAS ISENTAS DA APLICAÇÃO DO DISPOSTO NOS ARTIGOS 3o E 4o"
+  },
+  "5d27d70c4edaa010": {
+   "fragment_id": "ANEXO III — INFORMAÇÕES REFERIDAS NO ARTIGO 3o 1. Informação genérica",
+   "type": "divisao",
+   "heading": "ANEXO III — INFORMAÇÕES REFERIDAS NO ARTIGO 3o 1. Informação genérica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — INFORMAÇÕES REFERIDAS NO ARTIGO 3o 1. Informação genérica\n\n1.1. Nome da substância\n\n1.2. Número Einecs\n\n1.3. Número CAS\n\n1.4. Sinónimos\n\n1.5. Pureza\n\n1.6. Impurezas conhecidas\n\n1.7. Fórmula molecular\n\n1.8. Fórmula estrutural\n\n1.9. Tipo de substância\n\n1.10. Estado físico\n\n1.11. Identificação do responsável pelo preenchimento da ficha de dados\n\n1.12. Quantidade produzida ou importada superior a 1 000 toneladas por ano\n\n1.13. Indicar se a substância foi produzida durante os últimos 12 meses\n\n1.14. Indicar se a substância foi importada durante os últimos 12 meses\n\n1.15. Classificação e rotulagem\n\n1.16. Tipos de utilização\n\n1.17. A ficha de dados já foi preenchida por outro produtor ou importador?\n\n1.18. Indicar se age em nome de outro produtor ou importador interessado\n\n1.19. Outras observações: (por exemplo opções para remoção)\n\n2. Dados físico-químicos\n\n2.1. Ponto de fusão\n\n2.2. Ponto de ebulição\n\n2.3. Densidade\n\n2.4. Pressão de vapor\n\n2.5. Coeficiente de repartição (log10 POW)\n\n2.6. Hidrossolubilidade\n\n2.7. Ponto de inflamação\n\n2.8. Auto-inflamabilidade\n\n2.9. Inflamabilidade\n\n2.10. Propriedades explosivas\n\n2.11. Propriedades de oxidação\n\n2.12. Outros dados e observações\n\n3. Etapas e destino final no ambiente\n\n3.1. Estabilidade\n\n3.1.1. Fotodegradabilidade\n\n3.1.2. Estabilidade na água\n\n3.1.3. Estabilidade no solo\n\n3.2. Dados sobre o controlo (ambiental)\n\n3.3. Transporte de distribuição entre compartimentos ambientais, incluindo o cálculo das concentrações no ambiente e as etapas de distribuição\n\n3.3.1. Transporte\n\n3.3.2. Distribuição por compartimentos ambientais\n\n3.4. Biodegradabilidade\n\n3.5. Bioacumulabilidade\n\n3.6. Outras observações\n\n4. Ecotoxicidade\n\n4.1. Toxicidade em peixes\n\n4.2. Toxicidade em dáfnias e outros invertebrados aquáticos\n\n4.3. Toxicidade em algas\n\n4.4. Toxicidade em bactérias\n\n4.5. Toxicidade em organismos terrestres\n\n4.6. Toxicidade em organismos do solo\n\n4.7. Outras observações\n\n5. Toxicidade\n\n5.1. Toxicidade aguda\n\n5.1.1. Toxicidade aguda por via oral\n\n5.1.2. Toxicidade aguda por via nasal\n\n5.1.3. Toxicidade aguda por via dérmica\n\n5.1.4. Toxicidade aguda (outras vias de administração)\n\n5.2. Efeitos corrosivos e irritantes\n\n5.2.1. Efeitos irritantes sobre a pele\n\n5.2.2. Efeitos irritantes sobre os olhos\n\n5.3. Hipersensibilização\n\n5.4. Toxicidade em dosagem repetitiva\n\n5.5. Toxicidade genética in vitro\n\n5.6. Toxicidade genética in vivo\n\n5.7. Carcinogenicidade\n\n5.8. Toxicidade na reprodução\n\n5.9. Outras informações relevantes\n\n5.10. Experiência com a exposição do homem\n\n6. Lista das referências"
+  },
+  "856edab91b4a5ab4": {
+   "fragment_id": "ANEXO IV — INFORMAÇÕES REQUERIDAS PARA A FICHA DE DADOS REFERIDA NO No1 DO ARTIGO 4o 1. Informação genética",
+   "type": "divisao",
+   "heading": "ANEXO IV — INFORMAÇÕES REQUERIDAS PARA A FICHA DE DADOS REFERIDA NO No1 DO ARTIGO 4o 1. Informação genética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — INFORMAÇÕES REQUERIDAS PARA A FICHA DE DADOS REFERIDA NO No1 DO ARTIGO 4o 1. Informação genética\n\n1.1. Nome da substância\n\n1.2. Número Einecs\n\n1.3. Número CAS\n\n1.4. Sinónimos\n\n1.5. Pureza\n\n1.6. Impurezas conhecidas\n\n1.7. Fórmula molecular\n\n1.8. Fórmula estrutural\n\n1.9. Tipo de substância\n\n1.10. Estado físico\n\n1.11. Identificação do responsável pelo preenchimento da ficha de dados\n\n1.12. Quantidade produzida ou importada superior a 1 000 toneladas por ano\n\n1.13. Indicar se a substância foi produzida durante os últimos 12 meses\n\n1.14. Indicar se a substância foi importada durante os últimos 12 meses\n\n1.15. Classificação e rotulagem\n\n1.16. Tipos de utilização\n\n1.17. Outras observações"
+  },
+  "e512717c1af3b93d": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V\n\nGABINETES DE IMPRENSA E INFORMAÇÃO DA COMUNIDADE Os programas de computador gravados em disquetes estão disponíveis nos seguintes gabinetes de imprensa e informação, na Comunidade.\n\nAlemanha\n\nBonn\n\nKommission der Europaeischen Gemeinschaften\n\nVertretung in der Bundesrepublik Deutschland\n\nZitelmannstrasse 22\n\n5300 Bonn\n\nTélex 886648 EUROP D\n\nFax 53 00 950\n\nBerlin\n\nKommission der Europaeischen Gemeinschaften\n\nVertretung in der Bundesrepublik Deutschland\n\nAussenstelle Berlin\n\nKurfuerstendamm 102\n\n1000 Berlin 31\n\nTélex 184015 EUROP D\n\nFax 892 20 59\n\nMuenchen\n\nKommission der Europaeischen Gemeinschaften\n\nVertretung in der Bundesrepublik Deutschland\n\nVertretung in Muenchen\n\nErhardtstrasse 27\n\n8000 Muenchen 2\n\nTélex 52 18 135\n\nFax 202 10 15\n\nBélgica\n\nBruxelles/Brussel\n\na) Commission des Communautés européennes\n\nBureau en Belgique\n\nb) Commissie van de Europese Gemeenschappen\n\nBureau in België\n\nRue Archimède 73, 1040 Bruxelles\n\nArchimedesstraat 73, 1040 Brussel\n\nTélex 26657 COMINF B\n\nFax 235 01 66\n\nDinamarca\n\nKoebenhavn\n\nKommissionen for De Europaeiske Faellesskaber\n\nKontor in Danmark\n\nHoejbrohus\n\nOEstergade 61\n\nPostbox 144\n\n1004 Koebenhavn K 33\n\nTélex 16402 COMEUR DK\n\nFax 33 11 12 03/33 14 12 44\n\nEspanha\n\nMadrid\n\nComisión de las Comunidades Europeas\n\nOficina en España\n\nCalle de Serrano 41\n\n5a planta\n\n28001 Madrid\n\nTélex 46818 OIPE E\n\nFax 276 03 87\n\nBarcelona\n\nEdifício Atlántico\n\nAvenida Diagonal, 407 bis\n\n08008 Barcelona\n\nFax 415 63 11\n\nFrança\n\nParis\n\nCommission des Communautés européennes\n\nBureau de représentation en France\n\n288, bld St. Germain\n\n75007 Paris\n\nTélex Paris 611 019 COMEUR\n\nFax 45 56 94 19/7\n\nMarseille\n\nCommission des Communautés européennes\n\nBureau à Marseille\n\nCMCI\n\n2, rue Henri-Barbusse\n\n13241 Marseille Cedex 01\n\nTélex 402 538 EURMA\n\nFax 91 90 98 07\n\nGrécia\n\nAthina\n\nEpitropi ton Evropaikon Koinotiton\n\nGrafeio stin Ellada\n\n2 Vassilissis Sofias\n\nCase postale 11002\n\nAthina 10674\n\nTélex 219324 ECAT GR\n\nFax 724 46 20\n\nIrlanda\n\nDublin\n\nCommission of the European Communities\n\nOffice in Ireland\n\n39 Molesworth Street\n\nDublin 2\n\nTélex 93827 EUCO EI\n\nFax 71 26 57\n\nItália\n\nRoma\n\nCommissione delle Comunità europee\n\nUfficio in Italia\n\nVia Poli 29\n\n00187 Roma\n\nTélex 610184 EUROMA I\n\nFax 679 16 58\n\nMilano\n\nCommissione delle Comunità europee\n\nUfficio a Milano\n\nCorso Magenta 59\n\n20123 Milano\n\nTélex 316200 EURMIL I\n\nFax 481 85 43\n\nLuxemburgo\n\nLuxembourg\n\nCommission des Communautés européennes\n\nBureau au Luxembourg\n\nBâtiment Jean Monnet\n\nRue Alcide De Gasperi\n\n2920 Luxembourg\n\nTélex 3423/3446/3476 COMEUR LU\n\nFax 43 01 44 33\n\nPaíses Baixos\n\nDen Haag\n\nCommissie van de Europese Gemeenschappen\n\nBureau in Nederland\n\nKorte Vijverberg 5\n\n2513 AB Den Haag\n\nTélex 31094 EURCO NL\n\nFax 3 64 66 19\n\nPortugal\n\nLisboa\n\nComissão das Comunidades Europeias\n\nGabinete em Portugal\n\nCentro Europeu Jean Monnet\n\nLargo Jean Monnet 1-10o\n\n1200 Lisboa\n\nTélex 18810 COMEUR P\n\nFax 155 43 97\n\nReino Unido\n\nLondon\n\nCommission of the European Communities\n\nOffice in the United Kingdom\n\nJean Monnet House\n\n8 Storey's Gate\n\nLondon SW1 P 3 AT\n\nTélex 23208 EURUK G\n\nFax 71 973 19 00/19 20\n\nBelfast\n\nCommission of the European Communities\n\nOffice in Northern Ireland\n\nWindsor House\n\n9/15 Bedford Street\n\nBelfast BT2 7EG\n\nTélex 74117 CECBEL G\n\nFax 24 82 41\n\nCardiff\n\nCommission of the European Communities\n\nOffice in Wales\n\n4 Cathedral Road\n\nPO Box 15\n\nUK-Cardiff CF1 9SG\n\nTélex 497727 EUROPA G\n\nFax 39 54 89\n\nEdinburgh\n\nCommission of the European Communities\n\nOffice in Scotland\n\n7 Alva Street\n\nUK-Edinburgh EH2 4PH\n\nTélex 727420 EUEDING\n\nFax 226 41 05"
+  },
+  "9d009a8e1a9e8097": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993R0793 — PT — 01.06.2008 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31993R0793) [REGULAMENTO (CEE) N.º 793/93 DO CONSELHO](http://publications.europa.eu/resource/celex/31993R0793) [de 23 de Março de 1993](http://publications.europa.eu/resource/celex/31993R0793) [relativo à avaliação e controlo dos riscos ambientais associados às substâncias existentes](http://publications.europa.eu/resource/celex/31993R0793) (JO L 084, 5.4.1993, p.1)\n\n**revogado por:**"
+  }
+ }
+}

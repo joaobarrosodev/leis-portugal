@@ -34,6 +34,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-10-09'
+version_history:
+  file: diretiva-ue-1998-59.versoes.json
+  count: 2
+  source_lastmod: '2015-10-09'
+  versions:
+  - date: '1998-08-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-10-09'
+    amending: eu:celex:32015L1794:por
+    amending_title: DIRETIVA (UE) 2015/1794 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 6 de
+      outubro de 2015
+    changes:
+    - Altera preambulo
+    - Adita SECÇÃO I
+    - Adita Definições e âmbito de aplicação
+    - Adita Artigo 1.º
+    - Adita SECÇÃO II
+    - Adita Informação e consulta
+    - Adita Artigo 2.º
+    - Adita SECÇÃO III
+    - Adita Processo de despedimento e colectivo
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita SECÇÃO IV
+    - Adita Disposições finais
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita ANEXO I
+    - Adita PARTE A
+    - Adita Directivas revogadas
+    - Adita (referidas no artigo 8.º)
+    - Adita PARTE B
+    - Adita Lista dos prazos de transposição para o direito nacional
+    - Adita ANEXO II
+    - Adita Notas
+    - Suprime SECÇÃO I — Definições e âmbito de aplicação
+    - Suprime Artigo 1º
+    - Suprime SECÇÃO II — Informação e consulta
+    - Suprime Artigo 2º
+    - Suprime SECÇÃO III — Processo de despedimento e colectivo
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime SECÇÃO IV — Disposições finais
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
 identifiers:
   celex: 31998L0059
   eli: http://data.europa.eu/eli/dir/1998/59/oj
@@ -48,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/705bf0ea-ae86-46bc-89d8-aca7cc797ed9.0011
   content_url: http://publications.europa.eu/resource/cellar/4536855b-5b01-4f1a-a4b0-f83f971714c8.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0059-20151009
-  retrieved_at: '2026-10-22T02:56:33Z'
+  retrieved_at: '2026-10-22T14:46:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-05T14:38:09.647+01:00'
 integrity:
@@ -57,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:33Z'
-  notes: Texto consolidado 01998L0059-20151009.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:55Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1998-59.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -312,29 +366,20 @@ relationships:
   date: '1992-08-26'
 article_structure:
   article_count: 10
-  section_count: 16
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 17
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:33Z'
-  warnings: []
+  checked_at: '2026-10-22T14:46:55Z'
+  warnings:
+  - '01998L0059-19980901: versão indisponível (Sem expressão na língua por para CELEX 01998L0059-19980901.)'
   errors: []
 ---
 
 # Directiva 98/59/CE do Conselho de 20 de Julho de 1998
-
-> 1998L0059 — PT — 09.10.2015 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015L1794) — [DIRETIVA (UE) 2015/1794 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 6 de outubro de 2015](http://publications.europa.eu/resource/celex/32015L1794) — L 263 — 1 — 8.10.2015
-
-## DIRECTIVA 98/59/CE DO CONSELHO
 
 de 20 de Julho de 1998
 

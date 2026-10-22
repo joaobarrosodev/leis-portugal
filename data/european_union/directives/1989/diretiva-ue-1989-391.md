@@ -34,6 +34,22 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-12-11'
+version_history:
+  file: diretiva-ue-1989-391.versoes.json
+  count: 2
+  source_lastmod: '2008-12-11'
+  versions:
+  - date: '2007-06-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-11'
+    amending: eu:celex:32008R1137:por
+    amending_title: REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 17.º
+    - Altera Notas
 identifiers:
   celex: 31989L0391
   eli: http://data.europa.eu/eli/dir/1989/391/oj
@@ -48,7 +64,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3c966801-b944-46d2-9034-b8c9e37b86c3.0011
   content_url: http://publications.europa.eu/resource/cellar/14bab8c8-ae90-4624-875e-c80a5cceedda.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0391-20081211
-  retrieved_at: '2026-10-22T02:36:31Z'
+  retrieved_at: '2026-10-22T14:35:52Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T01:34:34.094+01:00'
 integrity:
@@ -57,9 +73,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:31Z'
-  notes: Texto consolidado 01989L0391-20081211.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:35:52Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1989-391.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -296,31 +312,21 @@ relationships:
   source: null
 article_structure:
   article_count: 20
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:31Z'
-  warnings: []
+  checked_at: '2026-10-22T14:35:52Z'
+  warnings:
+  - '01989L0391-19890619: versão indisponível (Sem expressão na língua por para CELEX 01989L0391-19890619.)'
+  - '01989L0391-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989
-
-> 1989L0391 — PT — 11.12.2008 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32003R1882) — [REGULAMENTO (CE) N.º 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
-- [►M2](http://publications.europa.eu/resource/celex/32007L0030) — [DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007](http://publications.europa.eu/resource/celex/32007L0030) — L 165 — 21 — 27.6.2007
-- [►M3](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-
-## DIRECTIVA DO CONSELHO
 
 de 12 de Junho de 1989
 

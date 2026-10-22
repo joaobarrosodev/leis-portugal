@@ -34,6 +34,31 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-01-01'
+version_history:
+  file: regulamento-ue-1993-3696.versoes.json
+  count: 2
+  source_lastmod: '2008-01-01'
+  versions:
+  - date: '1993-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º — As classificações por produtos utilizadas para as estatísticas recolhidas após 31 de Dezembro de
+      1993 serão estabelecidas nos termos do artigo 3º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime ANEXO
 identifiers:
   celex: 31993R3696
   eli: http://data.europa.eu/eli/reg/1993/3696/oj
@@ -48,7 +73,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9c126f42-8532-471b-add6-ca12f61a5d9f.0011
   content_url: http://publications.europa.eu/resource/cellar/30e06157-3c78-455b-a613-27f641e4b9ad.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R3696-20080101
-  retrieved_at: '2026-10-22T02:42:16Z'
+  retrieved_at: '2026-10-22T14:42:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T06:29:15.018+01:00'
 integrity:
@@ -57,9 +82,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:16Z'
-  notes: Texto consolidado 01993R3696-20080101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:47Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1993-3696.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -143,16 +168,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:16Z'
+  checked_at: '2026-10-22T14:42:47Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01993R3696-19980712: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R3696-20030101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01993R3696-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

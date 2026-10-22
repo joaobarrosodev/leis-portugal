@@ -34,6 +34,76 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-21'
+version_history:
+  file: diretiva-ue-1998-41.versoes.json
+  count: 3
+  source_lastmod: '2019-12-21'
+  versions:
+  - date: '1998-07-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-11'
+    amending: eu:celex:32002L0084:por
+    amending_title: DIRECTIVA 2002/84/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5 de Novembro
+      de 2002; REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de22 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime Artigo 17º
+  - date: '2019-12-21'
+    amending: eu:celex:32017L2109:por
+    amending_title: DIRETIVA (UE) 2017/2109 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de novembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Notas
+    - Adita Artigo 11.º-A
+    - Adita Artigo 12.º-A
+    - Adita Artigo 14.º-A
 identifiers:
   celex: 31998L0041
   eli: http://data.europa.eu/eli/dir/1998/41/oj
@@ -48,7 +118,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/49eef820-7a0b-4455-b618-9a55e25c91f1.0011
   content_url: http://publications.europa.eu/resource/cellar/eb6aa2a7-44b8-4105-a749-451973a99719.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0041-20191221
-  retrieved_at: '2026-10-22T02:42:23Z'
+  retrieved_at: '2026-10-22T14:46:50Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-13T15:01:25.608+02:00'
 integrity:
@@ -57,9 +127,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:23Z'
-  notes: Texto consolidado 01998L0041-20191221.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:50Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1998-41.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -140,31 +210,20 @@ relationships:
   date: '2017-10-20'
 article_structure:
   article_count: 20
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:23Z'
-  warnings: []
+  checked_at: '2026-10-22T14:46:50Z'
+  warnings:
+  - '01998L0041-20021129: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 98/41/CE do Conselho de 18 de Junho de 1998
-
-> 01998L0041 — PT — 21.12.2019 — 003.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32002L0084) — [DIRECTIVA 2002/84/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5 de Novembro de 2002](http://publications.europa.eu/resource/celex/32002L0084) — L 324 — 53 — 29.11.2002
-- [►M2](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [►M3](http://publications.europa.eu/resource/celex/32017L2109) — [DIRETIVA (UE) 2017/2109 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de novembro de 2017](http://publications.europa.eu/resource/celex/32017L2109) — L 315 — 52 — 30.11.2017
-
-## DIRECTIVA 98/41/CE DO CONSELHO
 
 de 18 de Junho de 1998
 

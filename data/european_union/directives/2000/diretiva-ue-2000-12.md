@@ -35,6 +35,62 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-07-20'
+version_history:
+  file: diretiva-ue-2000-12.versoes.json
+  count: 2
+  source_lastmod: '2006-07-20'
+  versions:
+  - date: '2000-05-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-07-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I — DEFINIÇÕES E ÂMBITO DE APLICAÇÃO
+    - Suprime Artigo 1.º — Definições
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Interdição da actividade de recepção do público de depósitos ou outros fundos reembolsáveis por
+      empresas que não sejam instituições de crédito
+    - Suprime TÍTULO II — CONDIÇÕES DE ACESSO À ACTIVIDADE DAS INSTITUIÇÕES DE CRÉDITO E DO SEU EXERCÍCIO
+    - Suprime Artigo 4.º — Autorização
+    - Suprime Artigo 5.º — Capital inicial
+    - Suprime Artigo 6.º — Responsáveis da direcção e localização da administração central das instituições de crédito
+    - Suprime Artigo 7.º — Accionistas e associados
+    - Suprime Artigo 8.º — Programa de actividades e estrutura da organização
+    - Suprime Artigo 9.º — Necessidades económicas
+    - Suprime Artigo 10.º — Recusa de autorização
+    - Suprime Artigo 11.º — Notificação da autorização à Comissão
+    - Suprime Artigo 12.º — Consulta prévia às autoridades competentes dos outros Estados-Membros
+    - Suprime Artigo 13.º — Sucursais de instituições de crédito autorizadas noutro Estado-Membro
+    - Suprime Artigo 14.º — Revogação da autorização
+    - Suprime Artigo 15.º — Denominação
+    - Suprime Artigo 16.º — Participação qualificada numa instituição de crédito
+    - Suprime Artigo 17.º — Organização e procedimento de controlo interno
+    - Suprime TÍTULO III — DISPOSIÇÕES RELATIVAS AO LIVRE ESTABELECIMENTO E À LIVRE PRESTAÇÃO DE SERVIÇOS
+    - Suprime Artigo 18.º — Instituições de crédito
+    - Suprime Artigo 19.º — Instituições financeiras
+    - Suprime Artigo 20.º — Exercício do direito de estabelecimento
+    - Suprime Artigo 21.º — Exercício da liberdade de prestação de serviços
+    - Suprime Artigo 22.º — Poderes das autoridades competentes do Estado-Membro de acolhimento
+    - Suprime TÍTULO IV — RELAÇÕES COM PAÍSES TERCEIROS
+    - Suprime Artigo 23.º — Notificação das filiais de empresas de países terceiros e das condições de acesso aos mercados
+      desses países
+    - Suprime Artigo 24.º — Sucursais de instituições de crédito com sede social fora da Comunidade
+    - Suprime Artigo 25.º — Cooperação em matéria de supervisão numa base consolidada com as autoridades competentes de países
+      terceiros
+    - Suprime TÍTULO V — PRINCÍPIOS E INSTRUMENTOS TÉCNICOS DA SUPERVISÃO PRUDENCIAL
+    - Suprime CAPÍTULO 1 — PRINCÍPIOS DA SUPERVISÃO PRUDENCIAL
+    - Suprime Artigo 26.º — Competência de supervisão do Estado-Membro de origem
+    - Suprime Artigo 27.º — Competências do Estado-Membro de acolhimento
+    - Suprime Artigo 28.º — Cooperação em matéria de supervisão
+    - Suprime Artigo 29.º — Verificação in loco das sucursais estabelecidas num outro Estado-Membro
+    - Suprime Artigo 30.º — Troca de informações e segredo profissional
+    - Suprime Artigo 31.º — Obrigações das pessoas encarregadas do controlo legal das contas anuais e das contas consolidadas
+    - Suprime Artigo 32.º — Poder de sanção das autoridades competentes
+    - Suprime Artigo 33.º — Recurso jurisdicional
 identifiers:
   celex: 32000L0012
   eli: http://data.europa.eu/eli/dir/2000/12/oj
@@ -49,7 +105,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8fa91a26-ad32-4a85-8fd0-6a3dac8cff01.0009
   content_url: http://publications.europa.eu/resource/cellar/0f4e308e-7917-4a3d-8bb0-c8da2fe981a1.0017.04/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0012-20060720
-  retrieved_at: '2026-10-22T02:37:25Z'
+  retrieved_at: '2026-10-22T14:48:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T17:03:16.680+01:00'
 integrity:
@@ -58,9 +114,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:25Z'
-  notes: Texto consolidado 02000L0012-20060720.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:43Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2000-12.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -331,16 +387,20 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:25Z'
+  checked_at: '2026-10-22T14:48:43Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02000L0012-20001027: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000L0012-20030211: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000L0012-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02000L0012-20040518: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0012-20050413: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02000L0012-20060329: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31995D0408:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995D0408-20031231",
+ "dre_path": null,
+ "source_lastmod": "2003-12-31",
+ "versions": [
+  {
+   "date": "1995-10-11",
+   "future": false,
+   "celex": "31995D0408",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2a77e6c457f40c01",
+    "3183850ec17d139a",
+    "f4599e2abe5b755d",
+    "df8bee6c87407e2b",
+    "1d9be54bf84bfd5f",
+    "e84c6ae8f3ba61af",
+    "d99e9facf6a7f21f",
+    "5bc71c4b9ba88555",
+    "c0bd8036e0de9738",
+    "09c352e0792a2d0b",
+    "ae4a5e1da66e6f4b"
+   ]
+  }
+ ],
+ "fragments": {
+  "2a77e6c457f40c01": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**95/408/CE: Decisão do Conselho, de 22 de Junho de 1995, relativa às regras de elaboração, por um período transitório, de listas provisórias de estabelecimentos de países terceiros dos quais os Estados-membros são autorizados a importar determinados produtos de origem animal, produtos da pesca e moluscos bivalves vivos** *Jornal Oficial nº L 243 de 11/10/1995 p. 0017 - 0020*\n\nDECISÃO DO CONSELHO\n\nde 22 de Junho de 1995\n\nrelativa às regras de elaboração, por um período transitório, de listas provisórias de estabelecimentos de países terceiros dos quais os Estados-membros são autorizados a importar determinados produtos de origem animal, produtos da pesca e moluscos bivalves vivos\n\n(95/408/CE)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nConsiderando que os produtos de origem animal, produtos de pesca e moluscos bivalves vivos estão incluídos na lista de produtos do anexo II do Tratado; que as regras sanitárias aplicáveis à sua produção e comercialização foram estabelecidas a nível comunitário;\n\nConsiderando que foram estabelecidas disposições comunitárias no que respeita às importações de países terceiros; que essas disposições exigem a elaboração de listas de estabelecimentos de países terceiros dos quais são autorizadas importações de certos produtos em conformidade com o ponto B, nº 2, alínea a), do artigo 14º da Directiva 71/118/CEE do Conselho, de 15 de Fevereiro de 1971, relativa a problemas sanitários em matéria de produção e colocação no mercado de carnes frescas de aves de capoeira (3); o nº 1 do artigo 4º da Directiva 72/462/CEE do Conselho, de 12 de Dezembro de 1972, relativa a problemas sanitários e de polícia sanitária na importação de animais das espécies bovina, ovina, caprina e suína e de carnes frescas provenientes de países terceiros (4); o nº 3, alínea c) do artigo 9º da Directiva 91/492/CEE do Conselho, de 15 de Julho de 1991, que estabelece as normas sanitárias que regem a produção e a colocação no mercado de moluscos bivalves vivos (5); o nº 4, alínea c), do artigo 11º da Directiva 91/493/CEE do Conselho, de 22 de Julho de 1991, que adopta as normas sanitárias relativas à produção e à colocação no mercado dos produtos da pesca (6); o nº 3, alínea a), do artigo 16º da Directiva 92/45/CEE do Conselho, de 16 de Junho de 1992, relativa os problemas sanitários e de polícia sanitária referentes ao abate de caça selvagem e à colocação no mercado das respectivas carnes (7); e o nº 3, alínea a), do artigo 23º da Directiva 92/46/CEE do Conselho, de 16 de Junho de 1992, que adopta as normas sanitárias relativas à produção de leite cru, de leite tratado termicamente e de produtos à base de leite e à sua colocação no mercado (8); e o nº 3, alínea b), do artigo 10º da Directiva 92/118/CEE do Conselho, de 17 de Dezembro de 1992, que define as condições sanitárias e de polícia sanitária que regem o comércio e as importações na Comunidade de produtos não sujeitos, no que respeita às referidas condições, às regulamentações comunitárias específicas referidas no capítulo I do anexo A da Directiva 89/662/CEE e, no que respeita aos agentes patogénicos, da Directiva 90/425/CEE (1);\n\nConsiderando que, para dar aos inspectores da Comunidade o tempo necessário para verificarem no local que as garantias oferecidas pelos países terceiros estão em conformidade com as disposições comunitárias e evitar a perturbação das importações desses países, deve ser aplicado, durante um período transitório, um regime de aprovação simplificado;\n\nConsiderando que, durante esse período transitório, a autoridade competente do país terceiro em causa deve garantir a conformidade com as disposições comunitárias de protecção da saúde pública e da sanidade animal; que os estabelecimentos só podem constar das listas quando o país terceiro em causa tiver oferecido as garantias necessárias de que as regras comunitárias são respeitadas;\n\nConsiderando que se deve prever um procedimento que estabeleça uma cooperação estreita e efectiva entre a Comissão e os Estados-membros no âmbito do Comité veterinário permanente;\n\nConsiderando que se deve prever a possibilidade de o Conselho prorrogar as actuais medidas provisórias para evitar eventuais rupturas nos fluxos de comércio tradicionais,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "3183850ec17d139a": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente decisão é aplicável à elaboração e alteração das listas provisórias de estabelecimentos de países terceiros dos quais os Estados-membros são autorizados a importar os produtos animais na acepção do nº 2, alínea a), do artigo 2º da Directiva 90/675/CEE do Conselho, 10 de Dezembro de 1990, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade (2). Estas listas de estabelecimentos são válidas até à elaboração das listas definitivas de estabelecimentos em conformidade com o disposto nas diferentes directivas que regem as regras sanitárias aplicáveis a cada um dos produtos em causa.\n\n2. Todavia, o artigo 2º da presente decisão não é aplicável à elaboração das listas de estabelecimentos de países terceiros dos quais os Estados-membros são autorizados a importar carnes frescas na acepção do terceiro parágrafo do artigo 1º da Directiva 72/462/CEE."
+  },
+  "f4599e2abe5b755d": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Nos termos do procedimento previsto no artigo 4º, a Comissão pode elaborar listas provisórias de estabelecimentos de países terceiros dos quais são autorizadas importações para cada um dos produtos abrangidos pelo artigo 1º se estiverem preenchidas as seguintes condições:\n\na) Os estabelecimentos devem estar situados num país terceiro ou numa parte de um país terceiro que conste da lista de países terceiros dos quais são autorizadas importações dos produtos em causa;\n\nb) O estabelecimento deve estar situado num país terceiro ou numa parte de um país terceiro para o qual as condições de importação e de certificação pertinentes, tenham sido fixadas em conformidade com o disposto em directivas específicas;\n\nc) A autoridade competente do país terceiro em causa deve ter fornecido à Comissão garantias suficientes de que os estabelecimentos que constam da ou das listas de estabelecimentos satisfazem as exigências sanitárias comunitárias relevantes e de que aprovou oficialmente os estabelecimentos que constam dessas listas para exportar para a Comunidade;\n\nd) A autoridade competente do país terceiro deve ter poderes reais para suspender as actividades de exportações para a Comunidadede de um estabelecimento relativamente ao qual tenha dado garantias, em caso de incumprimento dessas garantias.\n\ne) Uma missão de inspecção da Comunidade ou de um Estado-membro deve ter controlado a estrutura e a organização da autoridade competente responsável pela aprovação dos estabelecimentos, bem como os poderes de que dispõe e as garantias que pode dar relativamente à aplicação das regras comunitárias. O controlo deve ser acompanhado de uma inspecção no local de um determinado número de estabelecimentos que constem da ou das listas fornecidas pelo país terceiro.\n\n2. No que respeita aos produtos de pesca na acepção do nº 1 do artigo 2º da Directiva 91/493/CEE, a Comissão elabora, nos termos do procedimento previsto no artigo 4º, uma lista de países terceiros ou de partes de países terceiros dos quais é autorizada a importação dos produtos de pesca no caso de a autoridade competente do país terceiro ter fornecido à Comissão garantias pelo menos equivalentes às previstas na Directiva 91/493/CEE.\n\n3. Nos termos do procedimento previsto no artigo 5º, a Comissão pode alterar ou completar as listas previstas nos nºs 1 e 2 para atender a novas informações disponíveis.\n\n4. Quando as condições referidas na alínea e) do nº 1, não estiverem preenchidas, a Comissão pode, se forem respeitadas todas as restantes condições, elaborar listas provisórias de estabelecimentos dos quais são autorizadas importações nos termos do procedimento previsto no artigo 4º Todavia, as importações provenientes de estabelecimentos que constem dessas listas não podem beneficiar dos controlos físicos reduzidos previstos no nº 3 do artigo 8º da Directiva 90/375/CEE enquanto se aguardam os resultados da informação fornecida por força do artigo 8º da referida directiva no que respeita às importações provenientes desses estabelecimentos desse país terceiro."
+  },
+  "df8bee6c87407e2b": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. O procedimento previsto no artigo 5º pode igualmente ser utilizado para:\n\ni) Alterar as listas de estabelecimentos aprovados elaboradas em conformidade com o artigo 4º da Directiva 72/462/CEE, de acordo com as informações fornecidas pelo país terceiro em causa;\n\nii) Alterar as listas de estabelecimentos e/ou de navios-fábrica elaboradas em conformidade com o nº 5 do artigo 11º da Directiva 91/493/CEE, de acordo com as informações fornecidas pelo país terceiro em causa;\n\niii) Alterar as listas dos estabelecimentos elaboradas em conformidade com o nº 3, alínea c), do artigo 9º da Directiva 91/492/CEE e as listas das zonas de produção delimitadas em conformidade com o nº 3, alínea b), ponto ii), do artigo 9º da referida directiva, de acordo com as informações fornecidas pelo país terceiro em causa;\n\niv) Alterar as listas dos estabelecimentos elaboradas em conformidade com o nº 3, alínea b), do artigo 10º da Directiva 92/118/CEE.\n\n2. Na medida em que o entenda necessário, a Comissão efectua um controlo no local antes da alteração de uma lista."
+  },
+  "1d9be54bf84bfd5f": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Sempre que se faça referência ao procedimento definido no presente artigo, o Comité veterinário permanente instituído pela Decisão 68/361/CEE (1) é convocado imediatamente pelo seu presidente, seja por sua iniciativa, seja a pedido de um Estado-membro.\n\n2. O representante da Comissão submeterá à apreciação do Comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no Comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3. a) A Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do Comité.\n\nb) Se as medidas projectadas não forem conformes com o parecer do Comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de quinze dias a contar da data em que o assunto foi apresentado ao Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas, excepto no caso de o Conselho se ter pronunciado por maioria simples contra as referidas medidas."
+  },
+  "e84c6ae8f3ba61af": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. A Comissão informa os Estados-membros das alterações ou dos acréscimos propostos pelo país terceiro em causa às listas de estabelecimentos no prazo de cinco dias úteis a contar da data de recepção das alterações propostas.\n\n2. Os Estados-membros têm sete dias úteis a contar da data de recepção das alterações às listas de estabelecimentos referidas no nº 1 para enviar para a Comissão comentários por escrito.\n\n3. i) Se forem apresentados comentários por escrito por, pelos menos, um Estado-membro, a Comissão informa do facto os Estados-membros no prazo fixado no nº 1 e inscreve o ponto na próxima reunião do Comité veterinário permanente para deliberação nos termos do procedimento previsto no artigo 4º\n\nii) Se no prazo fixado no nº 2 não forem recebidos comentários dos Estados-membros, as alterações à lista são consideradas aceites pelos Estados-membros. A Comissão informa do facto os Estados-membros no prazo fixado no nº 1 e as importações desses estabelecimentos são autorizadas cinco dias úteis depois da recepção dessa informação pelos Estados-membros.\n\n4. A Comissão adopta periodicamente e, pelo menos, de seis em seis meses as decisões de actualização das listas de estabelecimentos e procede à sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "d99e9facf6a7f21f": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nA Decisão 94/941/CE é revogada."
+  },
+  "5bc71c4b9ba88555": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nA Comissão pode, nos termos do procedimento previsto no artigo 4º, adoptar as medidas transitórios necessárias para facilitar a criação e a aplicação ordenada das listas provisórias de estabelecimentos de acordo com o disposto na presente decisão."
+  },
+  "c0bd8036e0de9738": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nPara os efeitos da presente decisão, o artigo 19º da Directiva 90/675/CEE é aplicável no que diz respeito às medidas de protecção a pôr em prática. Em caso de infracções repetidas, a Comissão retira o estabelecimento em causa da lista provisória."
+  },
+  "09c352e0792a2d0b": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nA presente decisão é aplicável até 31 de Dezembro de 1996, salvo prorrogação decidida pelo Conselho, deliberando por maioria qualificada sob proposta da Comissão."
+  },
+  "ae4a5e1da66e6f4b": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros são destinatários da presente decisão.\n\nFeito em Bruxelas, em 22 de Junho de 1995.\n\nPelo Conselho\n\nO Presidente\n\nPh. VASSEUR\n\n(1) JO nº C 208 de 28. 7. 1994, p. 9.\n\n(2) JO nº C 276 de 3. 10. 1994, p. 13.\n\n(3) JO nº L 55 de 8. 3. 1971, p. 23. Directiva com a última redacção que lhe foi dada pela Directiva 92/116/CEE (JO nº L 62 de 15. 3. 1993, p. 1.).\n\n(4) JO nº L 302 de 31. 12. 1972, p. 28. Directiva com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 1601/92 (JO nº L 173 de 27. 6. 1992, p. 13).\n\n(5) JO nº L 268 de 24. 9. 1991, p. 1. Directiva com a última redacção que lhe foi dada pelo acordo EEE.\n\n(6) JO nº L 268 de 24. 9. 1991, p. 15. Directiva com a última redacção que lhe foi dada pelo acordo EEE.\n\n(7) JO nº L 268 de 14. 9. 1992, p. 35. Directiva com a última redacção que lhe foi dada pela Directiva 92/116/CEE (JO nº L 62 de 15. 3. 1993, p. 1.).\n\n(8) JO nº L 268 de 14. 9. 1992, p. 1 com a última redacção que lhe foi dada pela Directiva 94/330/CE (JO nº L 146 de 11. 6. 1994, p. 23).\n\n(1) JO nº L 62 de 15. 3. 1993, p. 49. Directiva com a última redacção que lhe foi dada pela Decisão 94/723/CE da Comissão (JO nº L 288 de 9. 11. 1994, p. 48).\n\n(2) JO nº L 373 de 31. 12. 1990, p. 1. Directiva com a última redacção que lhe foi dada pela Decisão 94/360/CEE (JO nº L 158 de 25. 6. 1994, p. 41).\n\n(1) JO nº L 255 de 18. 10. 1968, p. 23."
+  }
+ }
+}

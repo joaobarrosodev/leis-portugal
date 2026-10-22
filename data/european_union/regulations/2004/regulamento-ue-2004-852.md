@@ -36,6 +36,46 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-03-24'
+version_history:
+  file: regulamento-ue-2004-852.versoes.json
+  count: 3
+  source_lastmod: '2021-03-24'
+  versions:
+  - date: '2008-10-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-04-20'
+    amending: eu:celex:32009R0219:por
+    amending_title: REGULAMENTO (CE) N. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Requisitos gerais e específicos de higiene
+    - Altera Artigo 6.º — Controlos oficiais, registo e aprovação dos estabelecimentos
+    - Altera Artigo 8.º — Códigos nacionais
+    - Altera Artigo 13.º — Alteração e adaptação dos anexos I e II
+    - Altera Artigo 14.º — Comité
+    - Altera Artigo 18.º — Entrada em vigor
+    - Altera Abastecimento de água
+    - Altera Notas
+    - Adita Artigo 12.º
+    - Suprime Artigo 12.º — Medidas de execução e disposições transitórias
+  - date: '2021-03-24'
+    amending: eu:celex:32021R0382:por
+    amending_title: REGULAMENTO (UE) 2021/382 DA COMISSÃO de 3 de março de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Códigos nacionais
+    - Altera Artigo 18.º — Entrada em vigor
+    - Altera II. Disposições relativas à higiene
+    - Altera INTRODUÇÃO
+    - Altera Disposições aplicáveis aos géneros alimentícios
+    - Altera Notas
+    - Adita CAPÍTULO V-A
+    - Adita Redistribuição de alimentos
+    - Adita CAPÍTULO XI-A
+    - Adita Cultura de segurança dos alimentos
 identifiers:
   celex: 32004R0852
   eli: http://data.europa.eu/eli/reg/2004/852/oj
@@ -50,7 +90,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fb8c29a0-3cfc-40ad-b787-13f9e0394e33.0010
   content_url: http://publications.europa.eu/resource/cellar/4d28fc3c-ce02-11eb-ac72-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0852-20210324
-  retrieved_at: '2026-10-22T02:28:37Z'
+  retrieved_at: '2026-10-22T14:58:12Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-31T08:10:18.946+01:00'
 integrity:
@@ -59,9 +99,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:28:37Z'
-  notes: Texto consolidado 02004R0852-20210324.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:58:12Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2004-852.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -541,35 +581,21 @@ relationships:
   date: '1993-07-19'
 article_structure:
   article_count: 18
-  section_count: 48
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 49
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:28:37Z'
-  warnings: []
+  checked_at: '2026-10-22T14:58:12Z'
+  warnings:
+  - '32004R0852: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02004R0852-20040520: versão indisponível (Sem expressão na língua por para CELEX 02004R0852-20040520.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 852/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004
-
-> 02004R0852 — PT — 24.03.2021 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32008R1019) — [REGULAMENTO (CE) N.º 1019/2008 DA COMISSÃO de 17 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1019) — L 277 — 7 — 18.10.2008
-- [►M2](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) N.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-- [►M3](http://publications.europa.eu/resource/celex/32021R0382) — [REGULAMENTO (UE) 2021/382 DA COMISSÃO de 3 de março de 2021](http://publications.europa.eu/resource/celex/32021R0382) — L 74 — 3 — 4.3.2021
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32004R0852R%2801%29) — [Rectificação, JO L 226, 25.6.2004, p. 3 (852/2004)](http://publications.europa.eu/resource/celex/32004R0852R%2801%29)
-
-## REGULAMENTO (CE) N.º 852/2004 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 29 de Abril de 2004
 

@@ -33,6 +33,105 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-01'
+version_history:
+  file: regulamento-ue-1994-1164.versoes.json
+  count: 3
+  source_lastmod: '2007-01-01'
+  versions:
+  - date: '1994-05-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-01'
+    amending: eu:celex:31999R1264:por
+    amending_title: REGULAMENTO (CE) N. o 1264/1999 DO CONSELHO de 21 de Junho de 1999; REGULAMENTO (CE) N. o 1265/1999 DO
+      CONSELHO de 21 de Junho de 1999; Acto relativo às condições de adesão da República Checa, da República da Estónia, da
+      República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta,
+      da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda
+      a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo H
+    - Adita Artigo 1.º — Definição e objectivo
+    - Adita Artigo 2.º — Âmbito de aplicação
+    - Adita Artigo 3.º — Acções elegíveis
+    - Adita Artigo 4.º — Recursos financeiros
+    - Adita Artigo 5.º — Repartição indicativa
+    - Adita Artigo 6.º — Assistência condicional
+    - Adita Artigo 7.º — Taxa de apoio
+    - Adita Artigo 8.º — Coordenação e compatibilidade com as políticas comunitárias
+    - Adita Artigo 9.º — Conjugação e sobreposição
+    - Adita Artigo 10.º — Aprovação dos projectos
+    - Adita Artigo 11.º — Disposições financeiras
+    - Adita Artigo 12.º — Controlo financeiro
+    - Adita Artigo 13.º — Apreciação, acompanhamento e avaliação
+    - Adita Artigo 14.º — Informação e publicidade
+    - Adita Artigo 15.º — Execução
+    - Adita Artigo 16.º — Disposições finais e transitórias
+    - Adita Artigo 16.ºA — Disposições específicas na sequência da adesão à União Europeia de um novo Estado-Membro que beneficiou
+      de ajuda de pré-adesão ao abrigo do Instrumento Estrutural de Pré-Adesão (ISPA)
+    - Adita Artigo 17.º — Entrada em vigor
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita DISPOSIÇÕES DE EXECUÇÃO
+    - Adita Artigo A — Identificação de projectos, fases ou grupos de projectos
+    - Adita Artigo B — Avaliação
+    - Adita Artigo C — Autorizações
+    - Adita Artigo D — Pagamentos
+    - Adita Artigo E — Utilização do [►M2](http://publications.europa.eu/resource/celex/31999R1265) euro◄
+    - Adita Artigo F — Acompanhamento
+    - Adita Artigo G — Controlo
+    - Adita Correcções financeiras
+    - Adita Artigo I — Contratos públicos
+    - Adita Artigo J — Informação
+    - Adita Artigo K — Revisão
+    - Adita Anexo ao anexo II
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+  - date: '2007-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Definição e objectivo
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Acções elegíveis
+    - Suprime Artigo 4.º — Recursos financeiros
+    - Suprime Artigo 5.º — Repartição indicativa
+    - Suprime Artigo 6.º — Assistência condicional
+    - Suprime Artigo 7.º — Taxa de apoio
+    - Suprime Artigo 8.º — Coordenação e compatibilidade com as políticas comunitárias
+    - Suprime Artigo 9.º — Conjugação e sobreposição
+    - Suprime Artigo 10.º — Aprovação dos projectos
+    - Suprime Artigo 11.º — Disposições financeiras
+    - Suprime Artigo 12.º — Controlo financeiro
+    - Suprime Artigo 13.º — Apreciação, acompanhamento e avaliação
+    - Suprime Artigo 14.º — Informação e publicidade
+    - Suprime Artigo 15.º — Execução
+    - Suprime Artigo 16.º — Disposições finais e transitórias
+    - Suprime Artigo 16.ºA — Disposições específicas na sequência da adesão à União Europeia de um novo Estado-Membro que
+      beneficiou de ajuda de pré-adesão ao abrigo do Instrumento Estrutural de Pré-Adesão (ISPA)
+    - Suprime Artigo 17.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime ANEXO II
+    - Suprime DISPOSIÇÕES DE EXECUÇÃO
+    - Suprime Artigo A — Identificação de projectos, fases ou grupos de projectos
+    - Suprime Artigo B — Avaliação
+    - Suprime Artigo C — Autorizações
+    - Suprime Artigo D — Pagamentos
+    - Suprime Artigo E — Utilização do [►M2](http://publications.europa.eu/resource/celex/31999R1265) euro◄
+    - Suprime Artigo F — Acompanhamento
+    - Suprime Artigo G — Controlo
+    - Suprime Artigo H
+    - Suprime Correcções financeiras
+    - Suprime Artigo I — Contratos públicos
+    - Suprime Artigo J — Informação
+    - Suprime Artigo K — Revisão
+    - Suprime Anexo ao anexo II
+    - Suprime Notas
 identifiers:
   celex: 31994R1164
   eli: http://data.europa.eu/eli/reg/1994/1164/oj
@@ -47,7 +146,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/abfd9741-3502-4399-865c-64f2958f17c5.0011
   content_url: http://publications.europa.eu/resource/cellar/6f9354bd-c1ea-45c4-a259-bd7bcdc18f9a.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994R1164-20070101
-  retrieved_at: '2026-10-22T02:46:56Z'
+  retrieved_at: '2026-10-22T14:43:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T11:38:32.841+01:00'
 integrity:
@@ -56,9 +155,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:56Z'
-  notes: Texto consolidado 01994R1164-20070101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:43:33Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1994-1164.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -174,16 +273,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:56Z'
+  checked_at: '2026-10-22T14:43:33Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01994R1164-20000101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -1,0 +1,368 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R3577:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R3577-20130701",
+ "dre_path": null,
+ "source_lastmod": "2013-07-01",
+ "versions": [
+  {
+   "date": "1992-12-12",
+   "future": false,
+   "celex": "31992R3577",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "93db82970b5358c5",
+    "496231c5623dd963",
+    "1a43a499cca7debc",
+    "0f489f5786ae6de6",
+    "edc2cd422aebbb83",
+    "7ddf198a4b86dbfc",
+    "baa5ddcc140763e8",
+    "55a28ec010124cec",
+    "036bb862491d46b4",
+    "167ea7c923ca09b6",
+    "13d8f764dcb4e1d7",
+    "d7e88f6c50b8db07"
+   ]
+  },
+  {
+   "date": "1993-01-01",
+   "future": false,
+   "celex": "01992R3577-19930101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o"
+   ],
+   "fragments": [
+    "864c58762a612bfd",
+    "66116b796575e54b",
+    "66ca65de6474e2a9",
+    "9912ac711d4173e3",
+    "a532a95ab40d2874",
+    "7a653d241927ede9",
+    "137301e402b875cc",
+    "d7109b1523631f04",
+    "6decf7fdd0c09b8a",
+    "b95ff38314cd8616",
+    "c025d55468acbcd8",
+    "f55bc9b24ffef644"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "01992R3577-20130701",
+   "acts": [
+    {
+     "id": null,
+     "title": "►A1",
+     "published": null,
+     "celex": "12012J"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 11.º",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "66743c6f76748094",
+    "3bacaae2c6d98ac9",
+    "1f78b027e1029deb",
+    "fa22784fb81f7023",
+    "a532a95ab40d2874",
+    "7a653d241927ede9",
+    "39bd4a90b524090d",
+    "06cbce8949dd0acc",
+    "6decf7fdd0c09b8a",
+    "b95ff38314cd8616",
+    "c025d55468acbcd8",
+    "3af312fb3cb09de4",
+    "4ae02b50e5845598"
+   ]
+  }
+ ],
+ "fragments": {
+  "93db82970b5358c5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 3577/92 do Conselho, de 7 de Dezembro de 1992, relativo à aplicação do princípio da livre prestação de serviços aos transportes marítimos internos nos Estados-membros (cabotagem marítima)** *Jornal Oficial nº L 364 de 12/12/1992 p. 0007 - 0010 Edição especial finlandesa: Capítulo 6 Fascículo 3 p. 0203 Edição especial sueca: Capítulo 6 Fascículo 3 p. 0203*\n\nREGULAMENTO (CEE) No 3577/92 DO CONSELHO de 7 de Dezembro de 1992 relativo à aplicação do princípio da livre prestação de serviços aos transportes marítimos internos nos Estados-membros (cabotagem marítima)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o no 2 do seu artigo 84o,\n\nTendo em conta a proposta alterada da Comissão (1),\n\nTendo em conta os pareceres do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que, em 12 de Junho de 1992, o Parlamento Europeu adoptou a resolução sobre a liberalização da cabotagem marítima e respectivas consequências económicas e sociais;\n\nConsiderando que, nos termos do artigo 61o do Tratado, a livre prestação de serviços em matéria de transportes marítimos é regulada pelas disposições constantes do título relativo aos transportes;\n\nConsiderando que é necessário, para a realização do mercado interno, abolir as restrições à prestação de serviços de transportes marítimos; que o mercado interno compreende um espaço no qual a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais é assegurada;\n\nConsiderando, por conseguinte, que o princípio da livre prestação de serviços deve ser aplicado aos transportes marítimos internos nos Estados-membros;\n\nConsiderando que os beneficiários desta liberalização serão os armadores comunitários que exploram navios registados num Estado-membro e arvoram pavilhão desse Estado-membro, quer este tenha ou não uma costa marítima;\n\nConsiderando que esta liberdade se estenderá aos navios registados também no Euros, logo que este registo seja aprovado;\n\nConsiderando que, para evitar distorções da concorrência, os armadores comunitários que exercem a livre prestação de serviços de cabotagem devem preencher todos os requisitos necessários à sua admissão à cabotagem no Estado-membro em que os seus navios estão registados; que os armadores comunitários que exploram navios registados num Estado-membro e que não têm o direito de aceder à cabotagem nesse Estado-membro devem, não obstante, beneficiar do presente regulamento durante um período transitório;\n\nConsiderando que o estabelecimento desta liberdade deve ser gradual e não necessariamente uniforme para todos os serviços em causa, tendo em conta a natureza de certos serviços específicos e dada a importância dos esforços a suportar por certas economias da Comunidade que apresentam diferenças de desenvolvimento;\n\nConsiderando que pode ser justificada a introdução de serviços públicos que dêem origem a certos direitos e obrigações para os armadores em causa, de modo a assegurar a adequação de serviços de transporte regulares de, para e entre ilhas, desde que não seja feita qualquer distinção com base na nacionalidade ou residência;\n\nConsiderando que deverão ser adoptadas disposições para que possam ser tomadas medidas de salvaguarda relativamente aos mercados de transportes marítimos sujeitos a perturbações graves ou em casos de emergência; que, para este efeito, há que introduzir processos de decisão adequados;\n\nConsiderando que, dada a necessidade de assegurar o funcionamento adequado do mercado interno e a adopção de eventuais adaptações à luz da experiência, a Comissão deverá elaborar relatórios sobre a aplicação do presente regulamento e apresentar novas propostas, se necessário,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "496231c5623dd963": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Com efeitos a partir de 1 de Janeiro de 1993, a liberdade de prestação de serviços de transporte marítimo dentro de um Estado-membro (cabotagem marítima) aplicar-se-á aos armadores comunitários que tenham os seus navios registados num Estado-membro e arvorem pavilhão desse Estado-membro, desde que esses navios preencham todos os requisitos necessários à sua admissão à cabotagem nesse Estado-membro, incluindo os navios registados no Euros, logo que este registo seja aprovado pelo Conselho.\n\n2. Por derrogação, a disposição do no 1 que exige que os navios preencham todos os requisitos necessários à sua admissão à cabotagem no Estado-membro em que naquela data se encontrem registados será temporariamente suspensa até 31 de Dezembro de 1996."
+  },
+  "1a43a499cca7debc": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. « Serviços de transporte marítimo dentro de um Estado-membro (cabotagem marítima) »: os serviços normalmente prestados contra remuneração, neles se incluindo, em especial:\n\na) Cabotagem continental: o transporte por mar de passageiros ou mercadorias entre os portos do continente ou do território principal de um mesmo Estado-membro sem fazer escala em ilhas;\n\nb) Serviços de abastecimento « off shore »: o transporte por mar de passageiros ou mercadorias entre qualquer porto de um Estado-membro e as instalações ou estruturas situadas na plataforma continental desse Estado-membro;\n\nc) Cabotagem insular: o transporte por mar de passageiros ou mercadorias entre:\n\n- portos do continente e de uma ou mais ilhas de um mesmo Estado-membro,\n\n- portos situados nas ilhas de um mesmo Estado-membro.\n\nA Ceuta e Melilha deve ser dado tratamento idêntico ao dos portos insulares.\n\n2. « Armadores comunitários »:\n\na) Os nacionais de um Estado-membro que estejam estabelecidos num Estado-membro ao abrigo da legislação desse Estado e que se dediquem a actividades de navegação;\n\nb) As companhias de navegação estabelecidas de acordo com a legislação de um Estado-membro e cuja sede principal esteja situada num Estado-membro, sendo neste mesmo Estado exercido o seu controlo efectivo;\n\nou\n\nc) Os nacionais de um Estado-membro estabelecidos fora da Comunidade ou as companhias de navegação estabelecidas fora da Comunidade e controladas por nacionais de um Estado-membro, se os seus navios estiverem registados num Estado-membro e arvorarem o respectivo pavilhão, de acordo com a sua legislação.\n\n3. « Contrato de fornecimento de serviços públicos »: um contrato celebrado entre as autoridades competentes de um Estado-membro e um armador comunitário com o objectivo de fornecer ao público serviços de transporte adequados.\n\nO contrato de fornecimento de serviços públicos pode incluir, em especial:\n\n- serviços de transporte que satisfaçam normas estabelecidas de continuidade, regularidade, capacidade e qualidade,\n\n- serviços de transporte complementares,\n\n- serviços de transporte a preços e condições determinados, nomeadamente para determinadas categorias de passageiros ou para determinados itinerários,\n\n- adaptações dos serviços às necessidades efectivas.\n\n4. « Obrigações de serviço público »: as obrigações que, atendendo aos seus próprios interesses comerciais, o armador comunitário em questão não assumiria ou não assumiria na mesma medida ou nas mesmas condições.\n\n5. « Perturbação grave do mercado de transportes nacionais »: o surgimento, nesse mercado, de problemas específicos ao mesmo:\n\n- que possam originar um excedente grave, e susceptível de persistir, da oferta em relação à procura,\n\n- que se devam à actividade de cabotagem marítima ou por ela sejam agravados,\n\n- que impliquem uma ameaça séria para o equilíbrio financeiro e para a sobrevivência de um número significativo de armadores comunitários,\n\nna condição de as previsões a curto e médio prazo relativas ao mercado em questão não apontarem para melhorias substanciais e duradouras."
+  },
+  "0f489f5786ae6de6": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Para os navios que efectuem cabotagem continental e para os navios de cruzeiro, todos os assuntos relacionados com a tripulação serão da responsabilidade do Estado em que o navio esteja registado (Estado de bandeira), excepto no caso dos navios de menos de 650 toneladas brutas, aos quais poderão ser aplicadas as condições do Estado de acolhimento.\n\n2. Para os navios que efectuem cabotagem insular, todos os assuntos relacionados com a tripulação serão da responsabilidade do Estado em que o navio efectua o serviço de transporte marítimo (Estado de acolhimento).\n\n3. Todavia, a partir de 1 de Janeiro de 1999, para os cargueiros com mais de 650 toneladas brutas que efectuem cabotagem insular, quando a viagem em causa se seguir a ou preceder uma viagem com destino ou origem noutro Estado, todos os assuntos relacionados com a tripulação serão da responsabilidade do Estado em que o navio se encontra registado (Estado de bandeira).\n\n4. A Comissão procederá a uma análise aprofundada das repercussões económicas e sociais da liberalização da cabotagem insular e apresentará um relatório ao Conselho até 1 de Janeiro de 1997, o mais tardar.\n\nCom base nesse relatório, a Comissão apresentará ao Conselho uma proposta de que poderão constar ajustamentos às disposições relativas à nacionalidade da tripulação previstas nos nos 2 e 3, por forma a que o sistema definitivo seja aprovado pelo Conselho em tempo útil, antes de 1 de Janeiro de 1999."
+  },
+  "edc2cd422aebbb83": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Um Estado-membro pode celebrar contratos de fornecimento de serviços públicos ou impor obrigações de serviço público, como condição para a prestação de serviços de cabotagem, às companhias de navegação que participem em serviços regulares de, entre e para as ilhas.\n\nSempre que um Estado-membro celebrar contrato de fornecimento de serviços públicos ou impuser obrigações de serviço público, fá-lo-á numa base não discriminatória em relação a todos os armadores comunitários.\n\n2. Ao impor obrigações de serviço público, os Estados-membros limitar-se-ao aos requisitos relativos aos portos a escalar, à regularidade, à continuidade, à frequência, à capacidade de prestação do serviço, às taxas a cobrar e à tripulação do navio.\n\nSempre que aplicável, qualquer compensação devida por obrigações de serviço público deve ser disponibilizada para todos os armadores comunitários.\n\n3. Os contratos de fornecimento de serviços públicos existentes podem continuar em vigor até à data do termo do respectivo contrato."
+  },
+  "7ddf198a4b86dbfc": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Em caso de perturbação grave do mercado de transportes nacionais devido à liberalização da cabotagem, os Estados-membros poderão solicitar à Comissão a adopção de medidas de salvaguarda.\n\nNo prazo de trinta dias úteis a contar da recepção do correspondente pedido do Estado-membro, e após consultar os outros Estados-membros, a Comissão tomará, se for caso disso, uma decisão sobre as medidas de salvaguarda necessárias. Tais medidas podem incluir a exclusão temporária da área em questão do âmbito do presente regulamento por um período não superior a 12 meses.\n\nA Comissão comunicará ao Conselho e aos Estados-membros quaisquer decisões sobre as medidas de salvaguarda que tenha adoptado.\n\nSe, após o período de 30 dias úteis atrás mencionado, a Comissão não tiver tomado qualquer decisão sobre o assunto, o Estado-membro em questão terá o direito de aplicar as medidas solicitadas até que a Comissão tome uma decisão.\n\nContudo, em caso de emergência, os Estados-membros podem adoptar unilateralmente as medidas provisórias apropriadas, as quais poderão permanecer em vigor por um prazo não superior a três meses. Em tal caso, os Estados-membros devem informar imediatamente a Comissão sobre tais medidas. A Comissão poderá revogar essas medidas ou confirmá-las, com ou sem alterações, até tomar uma decisão final em conformidade com o segundo parágrafo.\n\n2. A Comissão poderá igualmente, por sua própria iniciativa, adoptar medidas de salvaguarda, após consulta aos Estados-membros."
+  },
+  "baa5ddcc140763e8": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Por derrogação, poderão ser temporariamente excluídos da implementação do presente regulamento os seguintes serviços de transporte marítimo efectuados no Mediterrâneo e junto à costa de Espanha, Portugal e França:\n\n- serviços de cruzeiro, até 1 de Janeiro de 1995,\n\n- transporte de mercadorias estratégicas (petróleo, produtos petrolíferos e água potável), até 1 de Janeiro de 1997,\n\n- serviços efectuados por navios de menos de 650 toneladas brutas, até 1 de Janeiro de 1998;\n\n- serviços regulares de transporte de passageiros e ferries, até 1 de Janeiro de 1999.\n\n2. Por derrogação, a cabotagem insular no Mediterrâneo e a cabotagem relativamente aos arquipélagos das Canárias, dos Açores e da Madeira, bem como a Ceuta e Melilha, às ilhas francesas junto à costa atlântica e aos departamentos ultramarinos franceses fica temporariamente isenta da aplicação do presente regulamento até 1 de Janeiro de 1999.\n\n3. Por motivos de coesão socioeconómica, a derrogação referida no no 2 será extensiva à Grécia, até 1 de Janeiro de 2004 para os serviços regulares de transporte de passageiros e ferries e ainda para os serviços efectuados por navios de menos de 650 toneladas brutas."
+  },
+  "55a28ec010124cec": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nAs questões abrangidas pelo presente regulamento estão sujeitas ao artigo 62o do Tratado."
+  },
+  "036bb862491d46b4": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nSem prejuízo das disposições do Tratado relativas ao direito de estabelecimento e do presente regulamento, uma pessoa que preste um serviço de transporte marítimo pode, para o fazer, prosseguir temporariamente a sua actividade no Estado-membro em que é prestado o serviço nas mesmas condições que esse Estado impõe aos seus nacionais."
+  },
+  "167ea7c923ca09b6": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nAntes de procederem à adopção de disposições legislativas, regulamentares ou administrativas para aplicação do presente regulamento, os Estados-membros devem consultar a Comissão, bem como comunicar-lhe as medidas adoptadas."
+  },
+  "13d8f764dcb4e1d7": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nA Comissão apresentará ao Conselho, antes de 1 de Janeiro de 1995, e seguidamente de dois em dois anos, um relatório sobre a implementação do presente regulamento, apresentando igualmente, se for caso disso, as propostas necessárias."
+  },
+  "d7e88f6c50b8db07": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nO presente regulamento entre em vigor em 1 de Janeiro de 1993. O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 7 de Dezembro de 1992. Pelo Conselho\n\nO Presidente\n\nJ. MacGREGOR\n\n(1) JO no C 73 de 19. 3. 1991, p. 27. (2) JO no C 295 de 26. 11. 1990, p. 687 e parecer emitido em 20 de Novembro de 1992 (ainda não publicado no Jornal Oficial). (3) JO no C 56 de 7. 3. 1990, p. 70."
+  },
+  "864c58762a612bfd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1992R3577 — PT — 01.01.1993 — 000.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992R3577:PT:NOT) [REGULAMENTO (CEE) N.o 3577/92 DO CONSELHO de 7 de Dezembro de 1992 relativo à aplicação do princípio da livre prestação de serviços aos transportes marítimos internos nos Estados-membros (cabotagem marítima)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992R3577:PT:NOT) (JO L 364, 12.12.1992, p.7)\n\nRectificado por:\n\n[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992R3577R(02):PT:NOT) [Rectificação, JO L 187, 1.7.1998, p. 56 (3577/92)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992R3577R(02):PT:NOT)\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992R3577:PT:NOT)\n\nREGULAMENTO (CEE) N.o 3577/92 DO CONSELHO\n\nde 7 de Dezembro de 1992\n\nrelativo à aplicação do princípio da livre prestação de serviços aos transportes marítimos internos nos Estados-membros (cabotagem marítima)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o n.o 2 do seu artigo 84.o,\n\nTendo em conta a proposta alterada da Comissão ([1](http://publications.europa.eu/resource/cellar/be1235c6-b576-43ae-b7d4-9dd275a6166b.0005.02/DOC_1#E0001)),\n\nTendo em conta os pareceres do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/be1235c6-b576-43ae-b7d4-9dd275a6166b.0005.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/be1235c6-b576-43ae-b7d4-9dd275a6166b.0005.02/DOC_1#E0003)),\n\nConsiderando que, em 12 de Junho de 1992, o Parlamento Europeu adoptou a resolução sobre a liberalização da cabotagem marítima e respectivas consequências económicas e sociais;\n\nConsiderando que, nos termos do artigo 61.o do Tratado, a livre prestação de serviços em matéria de transportes marítimos é regulada pelas disposições constantes do título relativo aos transportes;\n\nConsiderando que é necessário, para a realização do mercado interno, abolir as restrições à prestação de serviços de transportes marítimos; que o mercado interno compreende um espaço no qual a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais é assegurada;\n\nConsiderando, por conseguinte, que o princípio da livre prestação de serviços deve ser aplicado aos transportes marítimos internos nos Estados-membros;\n\nConsiderando que os beneficiários desta liberalização serão os armadores comunitários que exploram navios registados num Estado-membro e arvoram pavilhão desse Estado-membro, quer este tenha ou não uma costa marítima;\n\nConsiderando que esta liberdade se estenderá aos navios registados também no Euros, logo que este registo seja aprovado;\n\nConsiderando que, para evitar distorções da concorrência, os armadores comunitários que exercem a livre prestação de serviços de cabotagem devem preencher todos os requisitos necessários à sua admissão à cabotagem no Estado-membro em que os seus navios estão registados; que os armadores comunitários que exploram navios registados num Estado-membro e que não têm o direito de aceder à cabotagem nesse Estado-membro devem, não obstante, beneficiar do presente regulamento durante um período transitório;\n\nConsiderando que o estabelecimento desta liberdade deve ser gradual e não necessariamente uniforme para todos os serviços em causa, tendo em conta a natureza de certos serviços específicos e dada a importância dos esforços a suportar por certas economias da Comunidade que apresentam diferenças de desenvolvimento;\n\nConsiderando que pode ser justificada a introdução de serviços públicos que dêem origem a certos direitos e obrigações para os armadores em causa, de modo a assegurar a adequação de serviços de transporte regulares de, para e entre ilhas, desde que não seja feita qualquer distinção com base na nacionalidade ou residência;\n\nConsiderando que deverão ser adoptadas disposições para que possam ser tomadas medidas de salvaguarda relativamente aos mercados de transportes marítimos sujeitos a perturbações graves ou em casos de emergência; que, para este efeito, há que introduzir processos de decisão adequados;\n\nConsiderando que, dada a necessidade de assegurar o funcionamento adequado do mercado interno e a adopção de eventuais adaptações à luz da experiência, a Comissão deverá elaborar relatórios sobre a aplicação do presente regulamento e apresentar novas propostas, se necessário,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "66116b796575e54b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Com efeitos a partir de 1 de Janeiro de 1993, a liberdade de prestação de serviços de transporte marítimo dentro de um Estado-membro (cabotagem marítima) aplicar-se-á aos armadores comunitários que tenham os seus navios registados num Estado-membro e arvorem pavilhão desse Estado-membro, desde que esses navios preencham todos os requisitos necessários à sua admissão à cabotagem nesse Estado-membro, incluindo os navios registados no Euros, logo que este registo seja aprovado pelo Conselho.\n\n2. Por derrogação, a disposição do n.o 1 que exige que os navios preencham todos os requisitos necessários à sua admissão à cabotagem no Estado-membro em que naquela data se encontrem registados será temporariamente suspensa até 31 de Dezembro de 1996."
+  },
+  "66ca65de6474e2a9": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Serviços de transporte marítimo dentro de um Estado-membro (cabotagem marítima)»: os serviços normalmente prestados contra remuneração, neles se incluindo, em especial:\n\na) Cabotagem continental: o transporte por mar de passageiros ou mercadorias entre os portos do continente ou do território principal de um mesmo Estado-membro sem fazer escala em ilhas;\n\nb) Serviços de abastecimento «off shore»: o transporte por mar de passageiros ou mercadorias entre qualquer porto de um Estado-membro e as instalações ou estruturas situadas na plataforma continental desse Estado-membro;\n\nc) Cabotagem insular: o transporte por mar de passageiros ou mercadorias entre:\n\n— portos do continente e de uma ou mais ilhas de um mesmo Estado-membro,\n\n— portos situados nas ilhas de um mesmo Estado-membro.\n\nA Ceuta e Melilha deve ser dado tratamento idêntico ao dos portos insulares.\n\n2. «Armadores comunitários»:\n\na) Os nacionais de um Estado-membro que estejam estabelecidos num Estado-membro ao abrigo da legislação desse Estado e que se dediquem a actividades de navegação;\n\n[▼C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:20::NOT)\n\nAs companhias de navegação estabelecidas de acordo com a legislação de um Estado-membro cuja sede principal esteja situada num Estado-membro e cujo controlo efectivo seja exercido num Estado-membro;\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992R3577:PT:NOT)\n\nou\n\nc) Os nacionais de um Estado-membro estabelecidos fora da Comunidade ou as companhias de navegação estabelecidas fora da Comunidade e controladas por nacionais de um Estado-membro, se os seus navios estiverem registados num Estado-membro e arvorarem o respectivo pavilhão, de acordo com a sua legislação.\n\n3. «Contrato de fornecimento de serviços públicos»: um contrato celebrado entre as autoridades competentes de um Estado-membro e um armador comunitário com o objectivo de fornecer ao público serviços de transporte adequados.\n\nO contrato de fornecimento de serviços públicos pode incluir, em especial:\n\n— serviços de transporte que satisfaçam normas estabelecidas de continuidade, regularidade, capacidade e qualidade,\n\n— serviços de transporte complementares,\n\n— serviços de transporte a preços e condições determinados, nomeadamente para determinadas categorias de passageiros ou para determinados itinerários,\n\n— adaptações dos serviços às necessidades efectivas.\n\n4. «Obrigações de serviço público»: as obrigações que, atendendo aos seus próprios interesses comerciais, o armador comunitário em questão não assumiria ou não assumiria na mesma medida ou nas mesmas condições.\n\n5. «Perturbação grave do mercado de transportes nacionais»: o surgimento, nesse mercado, de problemas específicos ao mesmo:\n\n— que possam originar um excedente grave, e susceptível de persistir, da oferta em relação à procura,\n\n— que se devam à actividade de cabotagem marítima ou por ela sejam agravados,\n\n— que impliquem uma ameaça séria para o equilíbrio financeiro e para a sobrevivência de um número significativo de armadores comunitários,\n\nna condição de as previsões a curto e médio prazo relativas ao mercado em questão não apontarem para melhorias substanciais e duradouras."
+  },
+  "9912ac711d4173e3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Para os navios que efectuem cabotagem continental e para os navios de cruzeiro, todos os assuntos relacionados com a tripulação serão da responsabilidade do Estado em que o navio esteja registado (Estado de bandeira), excepto no caso dos navios de menos de 650 toneladas brutas, aos quais poderão ser aplicadas as condições do Estado de acolhimento.\n\n2. Para os navios que efectuem cabotagem insular, todos os assuntos relacionados com a tripulação serão da responsabilidade do Estado em que o navio efectua o serviço de transporte marítimo (Estado de acolhimento).\n\n3. Todavia, a partir de 1 de Janeiro de 1999, para os cargueiros com mais de 650 toneladas brutas que efectuem cabotagem insular, quando a viagem em causa se seguir a ou preceder uma viagem com destino ou origem noutro Estado, todos os assuntos relacionados com a tripulação serão da responsabilidade do Estado em que o navio se encontra registado (Estado de bandeira).\n\n4. A Comissão procederá a uma análise aprofundada das repercussões económicas e sociais da liberalização da cabotagem insular e apresentará um relatório ao Conselho até 1 de Janeiro de 1997, o mais tardar.\n\nCom base nesse relatório, a Comissão apresentará ao Conselho uma proposta de que poderão constar ajustamentos às disposições relativas à nacionalidade da tripulação previstas nos n.os 2 e 3, por forma a que o sistema definitivo seja aprovado pelo Conselho em tempo útil, antes de 1 de Janeiro de 1999."
+  },
+  "a532a95ab40d2874": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Um Estado-membro pode celebrar contratos de fornecimento de serviços públicos ou impor obrigações de serviço público, como condição para a prestação de serviços de cabotagem, às companhias de navegação que participem em serviços regulares de, entre e para as ilhas.\n\nSempre que um Estado-membro celebrar contrato de fornecimento de serviços públicos ou impuser obrigações de serviço público, fá-lo-á numa base não discriminatória em relação a todos os armadores comunitários.\n\n2. Ao impor obrigações de serviço público, os Estados-membros limitar-se-ão aos requisitos relativos aos portos a escalar, à regularidade, à continuidade, à frequência, à capacidade de prestação do serviço, às taxas a cobrar e à tripulação do navio.\n\nSempre que aplicável, qualquer compensação devida por obrigações de serviço público deve ser disponibilizada para todos os armadores comunitários.\n\n3. Os contratos de fornecimento de serviços públicos existentes podem continuar em vigor até à data do termo do respectivo contrato."
+  },
+  "7a653d241927ede9": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Em caso de perturbação grave do mercado de transportes nacionais devido à liberalização da cabotagem, os Estados-membros poderão solicitar à Comissão a adopção de medidas de salvaguarda.\n\nNo prazo de trinta dias úteis a contar da recepção do correspondente pedido do Estado-membro, e após consultar os outros Estados-membros, a Comissão tomará, se for caso disso, uma decisão sobre as medidas de salvaguarda necessárias. Tais medidas podem incluir a exclusão temporária da área em questão do âmbito do presente regulamento por um período não superior a 12 meses.\n\nA Comissão comunicará ao Conselho e aos Estados-membros quaisquer decisões sobre as medidas de salvaguarda que tenha adoptado.\n\nSe, após o período de 30 dias úteis atrás mencionado, a Comissão não tiver tomado qualquer decisão sobre o assunto, o Estado-membro em questão terá o direito de aplicar as medidas solicitadas até que a Comissão tome uma decisão.\n\nContudo, em caso de emergência, os Estados-membros podem adoptar unilateralmente as medidas provisórias apropriadas, as quais poderão permanecer em vigor por um prazo não superior a três meses. Em tal caso, os Estados-membros devem informar imediatamente a Comissão sobre tais medidas. A Comissão poderá revogar essas medidas ou confirmá-las, com ou sem alterações, até tomar uma decisão final em conformidade com o segundo parágrafo.\n\n2. A Comissão poderá igualmente, por sua própria iniciativa, adoptar medidas de salvaguarda, após consulta aos Estados-membros."
+  },
+  "137301e402b875cc": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Por derrogação, poderão ser temporariamente excluídos da implementação do presente regulamento os seguintes serviços de transporte marítimo efectuados no Mediterrâneo e junto à costa de Espanha, Portugal e França:\n\n— serviços de cruzeiro, até 1 de Janeiro de 1995,\n\n— transporte de mercadorias estratégicas (petróleo, produtos petrolíferos e água potável), até 1 de Janeiro de 1997,\n\n— serviços efectuados por navios de menos de 650 toneladas brutas, até 1 de Janeiro de 1998;\n\n— serviços regulares de transporte de passageiros e ferries,até 1 de Janeiro de 1999.\n\n2. Por derrogação, a cabotagem insular no Mediterrâneo e a cabotagem relativamente aos arquipélagos das Canárias, dos Açores e da Madeira, bem como a Ceuta e Melilha, às ilhas francesas junto à costa atlântica e aos departamentos ultramarinos franceses fica temporariamente isenta da aplicação do presente regulamento até 1 de Janeiro de 1999.\n\n3. Por motivos de coesão socioeconómica, a derrogação referida no n.o 2 será extensiva à Grécia, até 1 de Janeiro de 2004 para os serviços regulares de transporte de passageiros e ferries e ainda para os serviços efectuados por navios de menos de 650 toneladas brutas."
+  },
+  "d7109b1523631f04": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs questões abrangidas pelo presente regulamento estão sujeitas ao artigo 62.o do Tratado."
+  },
+  "6decf7fdd0c09b8a": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nSem prejuízo das disposições do Tratado relativas ao direito de estabelecimento e do presente regulamento, uma pessoa que preste um serviço de transporte marítimo pode, para o fazer, prosseguir temporariamente a sua actividade no Estado-membro em que é prestado o serviço nas mesmas condições que esse Estado impõe aos seus nacionais."
+  },
+  "b95ff38314cd8616": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAntes de procederem à adopção de disposições legislativas, regulamentares ou administrativas para aplicação do presente regulamento, os Estados-membros devem consultar a Comissão, bem como comunicar-lhe as medidas adoptadas."
+  },
+  "c025d55468acbcd8": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA Comissão apresentará ao Conselho, antes de 1 de Janeiro de 1995, e seguidamente de dois em dois anos, um relatório sobre a implementação do presente regulamento, apresentando igualmente, se for caso disso, as propostas necessárias."
+  },
+  "f55bc9b24ffef644": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO presente regulamento entre em vigor em 1 de Janeiro de 1993.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n([1](http://publications.europa.eu/resource/cellar/be1235c6-b576-43ae-b7d4-9dd275a6166b.0005.02/DOC_1#src.E0001)) JO n.o C 73 de 19. 3. 1991, p. 27.\n\n([2](http://publications.europa.eu/resource/cellar/be1235c6-b576-43ae-b7d4-9dd275a6166b.0005.02/DOC_1#src.E0002)) JO n.o C 295 de 26. 11. 1990, p. 687e parecer emitido em 20 de Novembro de 1992 (ainda não publicado no Jornal Oficial).\n\n([3](http://publications.europa.eu/resource/cellar/be1235c6-b576-43ae-b7d4-9dd275a6166b.0005.02/DOC_1#src.E0003)) JO n.o C 56 de 7. 3. 1990, p. 70."
+  },
+  "66743c6f76748094": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Dezembro de 1992\n\nrelativo à aplicação do princípio da livre prestação de serviços aos transportes marítimos internos nos Estados-membros (cabotagem marítima)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o n.º 2 do seu artigo 84.º,\n\nTendo em conta a proposta alterada da Comissão ([^1^](http://publications.europa.eu/resource/cellar/9c65a9cf-9fd8-4939-a4e7-a810b8169863.0018.03/DOC_1#E0001)),\n\nTendo em conta os pareceres do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/9c65a9cf-9fd8-4939-a4e7-a810b8169863.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/9c65a9cf-9fd8-4939-a4e7-a810b8169863.0018.03/DOC_1#E0003)),\n\nConsiderando que, em 12 de Junho de 1992, o Parlamento Europeu adoptou a resolução sobre a liberalização da cabotagem marítima e respectivas consequências económicas e sociais;\n\nConsiderando que, nos termos do artigo 61.º do Tratado, a livre prestação de serviços em matéria de transportes marítimos é regulada pelas disposições constantes do título relativo aos transportes;\n\nConsiderando que é necessário, para a realização do mercado interno, abolir as restrições à prestação de serviços de transportes marítimos; que o mercado interno compreende um espaço no qual a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais é assegurada;\n\nConsiderando, por conseguinte, que o princípio da livre prestação de serviços deve ser aplicado aos transportes marítimos internos nos Estados-membros;\n\nConsiderando que os beneficiários desta liberalização serão os armadores comunitários que exploram navios registados num Estado-membro e arvoram pavilhão desse Estado-membro, quer este tenha ou não uma costa marítima;\n\nConsiderando que esta liberdade se estenderá aos navios registados também no Euros, logo que este registo seja aprovado;\n\nConsiderando que, para evitar distorções da concorrência, os armadores comunitários que exercem a livre prestação de serviços de cabotagem devem preencher todos os requisitos necessários à sua admissão à cabotagem no Estado-membro em que os seus navios estão registados; que os armadores comunitários que exploram navios registados num Estado-membro e que não têm o direito de aceder à cabotagem nesse Estado-membro devem, não obstante, beneficiar do presente regulamento durante um período transitório;\n\nConsiderando que o estabelecimento desta liberdade deve ser gradual e não necessariamente uniforme para todos os serviços em causa, tendo em conta a natureza de certos serviços específicos e dada a importância dos esforços a suportar por certas economias da Comunidade que apresentam diferenças de desenvolvimento;\n\nConsiderando que pode ser justificada a introdução de serviços públicos que dêem origem a certos direitos e obrigações para os armadores em causa, de modo a assegurar a adequação de serviços de transporte regulares de, para e entre ilhas, desde que não seja feita qualquer distinção com base na nacionalidade ou residência;\n\nConsiderando que deverão ser adoptadas disposições para que possam ser tomadas medidas de salvaguarda relativamente aos mercados de transportes marítimos sujeitos a perturbações graves ou em casos de emergência; que, para este efeito, há que introduzir processos de decisão adequados;\n\nConsiderando que, dada a necessidade de assegurar o funcionamento adequado do mercado interno e a adopção de eventuais adaptações à luz da experiência, a Comissão deverá elaborar relatórios sobre a aplicação do presente regulamento e apresentar novas propostas, se necessário,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3bacaae2c6d98ac9": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Com efeitos a partir de 1 de Janeiro de 1993, a liberdade de prestação de serviços de transporte marítimo dentro de um Estado-membro (cabotagem marítima) aplicar-se-á aos armadores comunitários que tenham os seus navios registados num Estado-membro e arvorem pavilhão desse Estado-membro, desde que esses navios preencham todos os requisitos necessários à sua admissão à cabotagem nesse Estado-membro, incluindo os navios registados no Euros, logo que este registo seja aprovado pelo Conselho.\n\n2. Por derrogação, a disposição do n.º 1 que exige que os navios preencham todos os requisitos necessários à sua admissão à cabotagem no Estado-membro em que naquela data se encontrem registados será temporariamente suspensa até 31 de Dezembro de 1996."
+  },
+  "1f78b027e1029deb": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Serviços de transporte marítimo dentro de um Estado-membro (cabotagem marítima)»: os serviços normalmente prestados contra remuneração, neles se incluindo, em especial:\n\na) Cabotagem continental: o transporte por mar de passageiros ou mercadorias entre os portos do continente ou do território principal de um mesmo Estado-membro sem fazer escala em ilhas;\n\nb) Serviços de abastecimento «off shore»: o transporte por mar de passageiros ou mercadorias entre qualquer porto de um Estado-membro e as instalações ou estruturas situadas na plataforma continental desse Estado-membro;\n\nc) Cabotagem insular: o transporte por mar de passageiros ou mercadorias entre:\n\n— portos do continente e de uma ou mais ilhas de um mesmo Estado-membro,\n\n— portos situados nas ilhas de um mesmo Estado-membro.\n\n2. «Armadores comunitários»:\n\na) Os nacionais de um Estado-membro que estejam estabelecidos num Estado-membro ao abrigo da legislação desse Estado e que se dediquem a actividades de navegação;\n\nb) As companhias de navegação estabelecidas de acordo com a legislação de um Estado-membro cuja sede principal esteja situada num Estado-membro e cujo controlo efectivo seja exercido num Estado-membro;\n\nc) Os nacionais de um Estado-membro estabelecidos fora da Comunidade ou as companhias de navegação estabelecidas fora da Comunidade e controladas por nacionais de um Estado-membro, se os seus navios estiverem registados num Estado-membro e arvorarem o respectivo pavilhão, de acordo com a sua legislação.\n\n3. «Contrato de fornecimento de serviços públicos»: um contrato celebrado entre as autoridades competentes de um Estado-membro e um armador comunitário com o objectivo de fornecer ao público serviços de transporte adequados.\n\n— serviços de transporte que satisfaçam normas estabelecidas de continuidade, regularidade, capacidade e qualidade,\n\n— serviços de transporte complementares,\n\n— serviços de transporte a preços e condições determinados, nomeadamente para determinadas categorias de passageiros ou para determinados itinerários,\n\n— adaptações dos serviços às necessidades efectivas.\n\n4. «Obrigações de serviço público»: as obrigações que, atendendo aos seus próprios interesses comerciais, o armador comunitário em questão não assumiria ou não assumiria na mesma medida ou nas mesmas condições.\n\n5. «Perturbação grave do mercado de transportes nacionais»: o surgimento, nesse mercado, de problemas específicos ao mesmo:\n\n— que possam originar um excedente grave, e susceptível de persistir, da oferta em relação à procura,\n\n— que se devam à actividade de cabotagem marítima ou por ela sejam agravados,\n\n— que impliquem uma ameaça séria para o equilíbrio financeiro e para a sobrevivência de um número significativo de armadores comunitários,"
+  },
+  "fa22784fb81f7023": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Para os navios que efectuem cabotagem continental e para os navios de cruzeiro, todos os assuntos relacionados com a tripulação serão da responsabilidade do Estado em que o navio esteja registado (Estado de bandeira), excepto no caso dos navios de menos de 650 toneladas brutas, aos quais poderão ser aplicadas as condições do Estado de acolhimento.\n\n2. Para os navios que efectuem cabotagem insular, todos os assuntos relacionados com a tripulação serão da responsabilidade do Estado em que o navio efectua o serviço de transporte marítimo (Estado de acolhimento).\n\n3. Todavia, a partir de 1 de Janeiro de 1999, para os cargueiros com mais de 650 toneladas brutas que efectuem cabotagem insular, quando a viagem em causa se seguir a ou preceder uma viagem com destino ou origem noutro Estado, todos os assuntos relacionados com a tripulação serão da responsabilidade do Estado em que o navio se encontra registado (Estado de bandeira).\n\n4. A Comissão procederá a uma análise aprofundada das repercussões económicas e sociais da liberalização da cabotagem insular e apresentará um relatório ao Conselho até 1 de Janeiro de 1997, o mais tardar.\n\nCom base nesse relatório, a Comissão apresentará ao Conselho uma proposta de que poderão constar ajustamentos às disposições relativas à nacionalidade da tripulação previstas nos n.^os^ 2 e 3, por forma a que o sistema definitivo seja aprovado pelo Conselho em tempo útil, antes de 1 de Janeiro de 1999."
+  },
+  "39bd4a90b524090d": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Por derrogação, poderão ser temporariamente excluídos da implementação do presente regulamento os seguintes serviços de transporte marítimo efectuados no Mediterrâneo e junto à costa de Espanha, Portugal e França:\n\n— serviços de cruzeiro, até 1 de Janeiro de 1995,\n\n— transporte de mercadorias estratégicas (petróleo, produtos petrolíferos e água potável), até 1 de Janeiro de 1997,\n\n— serviços efectuados por navios de menos de 650 toneladas brutas, até 1 de Janeiro de 1998;\n\n— serviços regulares de transporte de passageiros e *ferries,*até 1 de Janeiro de 1999.\n\n2. Por derrogação, a cabotagem insular no Mediterrâneo e a cabotagem relativamente aos arquipélagos das Canárias, dos Açores e da Madeira, bem como a Ceuta e Melilha, às ilhas francesas junto à costa atlântica e aos departamentos ultramarinos franceses fica temporariamente isenta da aplicação do presente regulamento até 1 de Janeiro de 1999.\n\n3. Por motivos de coesão socioeconómica, a derrogação referida no n.º 2 será extensiva à Grécia, até 1 de Janeiro de 2004 para os serviços regulares de transporte de passageiros e *ferries* e ainda para os serviços efectuados por navios de menos de 650 toneladas brutas.\n\n4. Em derrogação do artigo 4.º, n.º 1, segundo parágrafo, os contratos de serviço público celebrados antes da data da adesão da Croácia à UE podem continuar a ser aplicados até 31 de Dezembro de 2016.\n\n5. Em derrogação do artigo 1.º, n.º 1, até 31 de Dezembro de 2014, os serviços de cruzeiro efectuados entre portos croatas por navios de menos de 650 toneladas brutas são reservados a navios registados na Croácia e que arvorem pavilhão deste país, explorados por companhias de navegação estabelecidas de acordo com a legislação croata, cuja sede de exploração principal esteja situada na Croácia, e cujo controlo efectivo seja exercido na Croácia.\n\n6. Em derrogação do artigo 1.º, n.º 1, e para o período transitório até 31 de Dezembro de 2014, a Comissão pode, mediante pedido devidamente justificado de um Estado-Membro, determinar, no prazo de 30 dias úteis a contar da recepção do pedido, que os navios que beneficiem da derrogação estabelecida no n.º 5 do presente artigo não podem efectuar serviços de cruzeiro entre portos de certas zonas de um Estado-Membro que não seja a Croácia, se se provar que o funcionamento desses serviços causa ou ameaça causar perturbações graves no mercado dos transportes nacionais nas zonas em questão. Se, após o período de 30 dias úteis, a Comissão não tiver tomado qualquer decisão, o Estado-Membro em questão terá o direito de aplicar medidas de salvaguarda até que a Comissão tome uma decisão. Em caso de emergência, os Estados-Membros podem adoptar unilateralmente as medidas provisórias apropriadas, que podem permanecer em vigor por um prazo não superior a três meses. Os Estados-Membros informam imediatamente a Comissão do facto. A Comissão pode revogar essas medidas ou confirmá-las até tomar uma decisão definitiva. Os Estados-Membros são mantidos ao corrente."
+  },
+  "06cbce8949dd0acc": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs questões abrangidas pelo presente regulamento estão sujeitas ao artigo 62.º do Tratado."
+  },
+  "3af312fb3cb09de4": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO presente regulamento entre em vigor em 1 de Janeiro de 1993.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n---"
+  },
+  "4ae02b50e5845598": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9c65a9cf-9fd8-4939-a4e7-a810b8169863.0018.03/DOC_1#src.E0001)) JO n.º C 73 de 19. 3. 1991, p. 27.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9c65a9cf-9fd8-4939-a4e7-a810b8169863.0018.03/DOC_1#src.E0002)) JO n.º C 295 de 26. 11. 1990, p. 687e parecer emitido em 20 de Novembro de 1992 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9c65a9cf-9fd8-4939-a4e7-a810b8169863.0018.03/DOC_1#src.E0003)) JO n.º C 56 de 7. 3. 1990, p. 70."
+  }
+ }
+}

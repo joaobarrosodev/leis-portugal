@@ -35,6 +35,35 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2005-01-15'
+version_history:
+  file: diretiva-ue-1977-92.versoes.json
+  count: 2
+  source_lastmod: '2005-01-15'
+  versions:
+  - date: '1977-01-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-15'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+    - Suprime Artigo 15o
 identifiers:
   celex: 31977L0092
   eli: http://data.europa.eu/eli/dir/1977/92/oj
@@ -49,7 +78,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/eaf28748-3a30-46a9-b820-9c9cfa3d8285.0011
   content_url: http://publications.europa.eu/resource/cellar/7dd62c4f-45ee-44f2-9471-f9b524a3c173.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977L0092-20050115
-  retrieved_at: '2026-10-22T03:02:49Z'
+  retrieved_at: '2026-10-22T14:32:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T20:02:11.978+01:00'
 integrity:
@@ -58,9 +87,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:02:49Z'
-  notes: Texto consolidado 01977L0092-20050115.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:32:06Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1977-92.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -129,16 +158,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:02:49Z'
+  checked_at: '2026-10-22T14:32:06Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01977L0092-19810101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0092-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0092-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01977L0092-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

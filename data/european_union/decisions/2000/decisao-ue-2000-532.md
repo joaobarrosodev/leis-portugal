@@ -37,6 +37,58 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-12-06'
+version_history:
+  file: decisao-ue-2000-532.versoes.json
+  count: 5
+  source_lastmod: '2026-12-09'
+  versions:
+  - date: '2000-09-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera ANEXO
+  - date: '2015-06-01'
+    amending: eu:celex:32001D0118:por
+    amending_title: M1; M2; M3; DECISÃO DA COMISSÃO de 18 de dezembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera ANEXO
+    - Adita LISTA DE RESÍDUOS REFERIDA NO ARTIGO 7.º DA DIRETIVA 2008/98/CE
+    - Adita DEFINIÇÕES
+    - Adita AVALIAÇÃO E CLASSIFICAÇÃO
+    - Adita 1. Avaliação das características de perigosidade de resíduos
+    - Adita 2. Atribuição a resíduos da classificação de «perigosos»
+    - Adita LISTA DE RESÍDUOS
+    - Adita Notas
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+  - date: '2023-12-06'
+    amending: eu:celex:32023D2581:por
+    amending_title: M5
+    changes:
+    - Altera preambulo
+    - Altera DEFINIÇÕES
+    - Altera 2. Atribuição a resíduos da classificação de «perigosos»
+    - Altera LISTA DE RESÍDUOS
+    - Altera Notas
+  - date: '2026-12-09'
+    amending: eu:celex:32025D0934:por
+    amending_title: DECISÃO DELEGADA (UE) 2025/934 DA COMISSÃO de 5 de março de 2025
+    changes:
+    - Altera DEFINIÇÕES
+    - Altera 2. Atribuição a resíduos da classificação de «perigosos»
+    - Altera LISTA DE RESÍDUOS
+    - Altera Notas
 identifiers:
   celex: 32000D0532
   eli: http://data.europa.eu/eli/dec/2000/532/oj
@@ -51,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/239a2785-9115-4e06-adae-66c8e08a5a42.0009
   content_url: http://publications.europa.eu/resource/cellar/70b97b53-9520-11ee-b164-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000D0532-20231206
-  retrieved_at: '2026-10-22T02:37:56Z'
+  retrieved_at: '2026-10-22T14:48:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-07T18:11:38.184+01:00'
 integrity:
@@ -60,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:56Z'
-  notes: Texto consolidado 02000D0532-20231206.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:34Z'
+  notes: 5 versão(ões); histórico completo em decisao-ue-2000-532.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -195,33 +247,19 @@ relationships:
   date: '1994-12-31'
 article_structure:
   article_count: 4
-  section_count: 7
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 8
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:56Z'
+  checked_at: '2026-10-22T14:48:34Z'
   warnings: []
   errors: []
 ---
 
 # 2000/532/CE: Decisão da Comissão, de 3 de Maio de 2000
-
-> 02000D0532 — PT — 06.12.2023 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32001D0118) — [DECISÃO DA COMISSÃO de 16 de Janeiro de 2001](http://publications.europa.eu/resource/celex/32001D0118) — L 47 — 1 — 16.2.2001
-- [M2](http://publications.europa.eu/resource/celex/32001D0119) — [DECISÃO DA COMISSÃO de 22 de Janeiro de 2001](http://publications.europa.eu/resource/celex/32001D0119) — L 47 — 32 — 16.2.2001
-- [M3](http://publications.europa.eu/resource/celex/32001D0573) — [DECISÃO DO CONSELHO de 23 de Julho de 2001](http://publications.europa.eu/resource/celex/32001D0573) — L 203 — 18 — 28.7.2001
-- [►M4](http://publications.europa.eu/resource/celex/32014D0955) — [DECISÃO DA COMISSÃO de 18 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014D0955) — L 370 — 44 — 30.12.2014
-- [M5](http://publications.europa.eu/resource/celex/32023D2581) — [DECISÃO DELEGADA (UE) 2023/2581 DA COMISSÃO de 12 de setembro de 2023](http://publications.europa.eu/resource/celex/32023D2581) — L — 1 — 16.11.2023
-
-## DECISÃO DA COMISSÃO
 
 de 3 de Maio de 2000
 

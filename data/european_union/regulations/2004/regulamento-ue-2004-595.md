@@ -35,6 +35,63 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-03-30'
+version_history:
+  file: regulamento-ue-2004-595.versoes.json
+  count: 2
+  source_lastmod: '2015-03-30'
+  versions:
+  - date: '2004-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-03-30'
+    amending: eu:celex:32006R1468:por
+    amending_title: REGULAMENTO (CE) N. o 1468/2006 DA COMISSÃO de 4 de Outubro de 2006; REGULAMENTO (CE) N. o 1468/2006 DA
+      COMISSÃO de 4 de Outubro de 2006; REGULAMENTO (CE) N. o 228/2008 DA COMISSÃO de 13 de Março de 2008; REGULAMENTO (CE)
+      N. o 258/2009 DA COMISSÃO de 26 de Março de 2009; REGULAMENTO (CE) N. o 793/2009 DA COMISSÃO de 31 de Agosto de 2009;
+      REGULAMENTO DE EXECUÇÃO (UE) N. o 760/2012 DA COMISSÃO de 21 de agosto de 2012; M7; REGULAMENTO DE EXECUÇÃO (UE) 2015/517
+      DA COMISSÃO de 26 de março de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Repartição das quantidades de referência nacionais entre as entregas e as vendas directas
+    - Altera Artigo 10.º — Comparações do teor de referência em matéria gorda e do teor efectivo em matéria gorda
+    - Altera Artigo 15.º — Prazo de pagamento
+    - Altera Artigo 16.º — Critérios de redistribuição do excesso de imposição
+    - Altera Artigo 17.º — Cobrança da imposição
+    - Altera Artigo 19.º — Plano de controlo
+    - Altera Artigo 22.º — Intensidade dos controlos
+    - Altera Artigo 24.º — Obrigações dos compradores e dos produtores
+    - Altera Artigo 26.º — Questionário
+    - Altera Artigo 27.º — Outras comunicações
+    - Altera Artigo 29.º — Entrada em vigor
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita Artigo 1.º — Objectivo
+    - Adita CAPÍTULO II
+    - Adita CÁLCULO DA IMPOSIÇÃO
+    - Adita SECÇÃO 1
+    - Adita Regras Gerais
+    - Adita SECÇÃO 2
+    - Adita Entregas
+    - Adita Artigo 8.º — Declaração das entregas
+    - Adita SECÇÃO 3
+    - Adita Vendas Directas
+    - Adita Artigo 11.º — Declarações de vendas directas
+    - Adita CAPÍTULO III
+    - Adita PAGAMENTO DA IMPOSIÇÃO
+    - Adita Artigo 13.º — Notificação da imposição
+    - Adita Artigo 14.º
+    - Adita Artigo 16.ºA — Utilização da percentagem de 1 % da imposição que não se destina a ser paga ao FEAGA
+    - Adita CAPÍTULO IV
+    - Adita CONTROLO PELOS ESTADOS-MEMBROS E OBRIGAÇÕES DOS COMPRADORES E PRODUTORES
+    - Adita Controlos
+    - Adita Artigo 18.º — Medidas nacionais de controlo
+    - Adita Obrigações
+    - Adita Artigo 23.º — Aprovação dos compradores
+    - Adita CAPÍTULO V
+    - Adita COMUNICAÇÕES
+    - Adita Artigo 25.º — Comunicações sobre a repartição entre as entregas e as vendas directas
+    - Adita CAPÍTULO VI
 identifiers:
   celex: 32004R0595
   eli: http://data.europa.eu/eli/reg/2004/595/oj
@@ -49,7 +106,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/99e16b77-fd4d-44e2-a50f-3b105bfb39a0.0010
   content_url: http://publications.europa.eu/resource/cellar/cd654956-7e42-48b8-8fe1-03570384324e.0015.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0595-20150330
-  retrieved_at: '2026-10-22T03:11:55Z'
+  retrieved_at: '2026-10-22T14:57:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-04-03T21:55:37.741+02:00'
 integrity:
@@ -58,9 +115,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:55Z'
-  notes: Texto consolidado 02004R0595-20150330.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:42Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2004-595.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -193,36 +250,25 @@ relationships:
   date: '2001-07-11'
 article_structure:
   article_count: 30
-  section_count: 30
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 31
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:55Z'
-  warnings: []
+  checked_at: '2026-10-22T14:57:42Z'
+  warnings:
+  - '02004R0595-20040401: versão indisponível (Sem expressão na língua por para CELEX 02004R0595-20040401.)'
+  - '02004R0595-20070401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0595-20090401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0595-20090904: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0595-20120401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02004R0595-20141226: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 595/2004 da Comissão, de 30 de Março de 2004
-
-> 02004R0595 — PT — 30.03.2015 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006R1468) — [REGULAMENTO (CE) N.º 1468/2006 DA COMISSÃO de 4 de Outubro de 2006](http://publications.europa.eu/resource/celex/32006R1468) — L 274 — 6 — 5.10.2006
-- [►M2](http://publications.europa.eu/resource/celex/32006R1913) — [REGULAMENTO (CE) N.º 1468/2006 DA COMISSÃO de 4 de Outubro de 2006](http://publications.europa.eu/resource/celex/32006R1913) — L 365 — 52 — 21.12.2006
-- [►M3](http://publications.europa.eu/resource/celex/32008R0228) — [REGULAMENTO (CE) N.º 228/2008 DA COMISSÃO de 13 de Março de 2008](http://publications.europa.eu/resource/celex/32008R0228) — L 70 — 7 — 14.3.2008
-- [►M4](http://publications.europa.eu/resource/celex/32009R0258) — [REGULAMENTO (CE) N.º 258/2009 DA COMISSÃO de 26 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0258) — L 81 — 19 — 27.3.2009
-- [►M5](http://publications.europa.eu/resource/celex/32009R0793) — [REGULAMENTO (CE) N.º 793/2009 DA COMISSÃO de 31 de Agosto de 2009](http://publications.europa.eu/resource/celex/32009R0793) — L 228 — 7 — 1.9.2009
-- [►M6](http://publications.europa.eu/resource/celex/32012R0760) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 760/2012 DA COMISSÃO de 21 de agosto de 2012](http://publications.europa.eu/resource/celex/32012R0760) — L 226 — 1 — 22.8.2012
-- [M7](http://publications.europa.eu/resource/celex/32014R1380) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1380/2014 DA COMISSÃO de 17 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014R1380) — L 367 — 82 — 23.12.2014
-- [►M8](http://publications.europa.eu/resource/celex/32015R0517) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/517 DA COMISSÃO de 26 de março de 2015](http://publications.europa.eu/resource/celex/32015R0517) — L 82 — 73 — 27.3.2015
-
-## REGULAMENTO (CE) N.º 595/2004 DA COMISSÃO
 
 de 30 de Março de 2004
 

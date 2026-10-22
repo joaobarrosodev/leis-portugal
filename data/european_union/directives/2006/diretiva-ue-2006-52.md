@@ -36,6 +36,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-08-15'
+version_history:
+  file: diretiva-ue-2006-52.versoes.json
+  count: 2
+  source_lastmod: '2006-08-15'
+  versions:
+  - date: '2006-07-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-08-15'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 5.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
 identifiers:
   celex: 32006L0052
   eli: http://data.europa.eu/eli/dir/2006/52/oj
@@ -50,7 +69,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c5234caa-cfee-4e9e-8479-b174798b0b20.0017
   content_url: http://publications.europa.eu/resource/cellar/3738c0f4-d003-4bf9-8044-e87beeb95670.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0052-20060815
-  retrieved_at: '2026-10-22T02:52:09Z'
+  retrieved_at: '2026-10-22T15:02:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-19T22:24:27.624+01:00'
 integrity:
@@ -59,9 +78,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:09Z'
-  notes: Texto consolidado 02006L0052-20060815.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:02:00Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2006-52.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -150,30 +169,19 @@ relationships:
   date: '2008-12-16'
 article_structure:
   article_count: 5
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:09Z'
+  checked_at: '2026-10-22T15:02:00Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2006/52/CE do Parlamento Europeu e do Conselho, de 5 de Julho de 2006
-
-> 2006L0052 — PT — 15.08.2006 — 000.002
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32006L0052R%2801%29) — [Rectificação, JO L 078, 17.3.2007, p. 32 (2006/52)](http://publications.europa.eu/resource/celex/32006L0052R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32006L0052R%2802%29) — [Rectificação, JO L 174, 4.7.2012, p. 28 (2006/52)](http://publications.europa.eu/resource/celex/32006L0052R%2802%29)
-
-## DIRECTIVA 2006/52/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 5 de Julho de 2006
 

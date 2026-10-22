@@ -34,6 +34,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-11-24'
+version_history:
+  file: regulamento-ue-1991-2568.versoes.json
+  count: 2
+  source_lastmod: '2022-11-24'
+  versions:
+  - date: '1991-09-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-11-24'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o.
+    - Suprime Artigo 2o.
+    - Suprime Artigo 3o.
+    - Suprime Artigo 4o.
+    - Suprime Artigo 5o.
+    - Suprime Artigo 6o.
+    - Suprime Artigo 7o.
+    - Suprime Artigo 8o.
+    - Suprime Artigo 9o.
+    - Suprime Artigo 10o.
+    - 'Suprime Anexo I:'
+    - 'Suprime Anexo II:'
+    - 'Suprime Anexo III:'
+    - 'Suprime Anexo IV:'
+    - 'Suprime Anexo V:'
+    - 'Suprime Anexo VI:'
+    - 'Suprime Anexo VII:'
+    - 'Suprime Anexo VIII:'
+    - 'Suprime Anexo IX:'
+    - 'Suprime Anexo XA:'
+    - 'Suprime Anexo XB:'
+    - 'Suprime Anexo XI:'
+    - 'Suprime Anexo XII:'
+    - 'Suprime Anexo XIII:'
+    - 'Suprime Anexo XIV:'
+    - 'Suprime Anexo XV:'
+    - 'Suprime Anexo XVI:'
+    - Suprime ANEXO I — CARACTERÍSTICAS DOS AZEITES E ÓLEOS DE BAGAÇO DE AZEITONA
+    - Suprime ANEXO II
+    - Suprime ANEXO III
+    - Suprime ANEXO IV
+    - Suprime ANEXO V
+    - Suprime ANEXO VI — DETERMINAÇÃO DO TEOR DE ERITRODIOL E UVAOL PREÂMBULO
+    - Suprime ANEXO VII
+    - Suprime ANEXO VIII
+    - Suprime ANEXO IX — ANÁLISE POR ESPECTROFOTOMETRIA NO ULTRAVIOLETA INTRODUÇÃO
+    - Suprime ANEXO XA
+    - Suprime anexo XB.
+    - Suprime ANEXO XB
 identifiers:
   celex: 31991R2568
   eli: http://data.europa.eu/eli/reg/1991/2568/oj
@@ -48,7 +101,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3b62cd00-0a08-497a-821f-728e1adadc40.0011
   content_url: http://publications.europa.eu/resource/cellar/369075e4-7cc2-11ed-9887-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991R2568-20221124
-  retrieved_at: '2026-10-22T02:42:09Z'
+  retrieved_at: '2026-10-22T14:40:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T11:51:18.025+01:00'
 integrity:
@@ -57,9 +110,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:09Z'
-  notes: Texto consolidado 01991R2568-20221124.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:40:24Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1991-2568.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -293,16 +346,47 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:09Z'
+  checked_at: '2026-10-22T14:40:24Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01991R2568-19910906: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-19911221: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-19920605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-19920703: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-19920721: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-19921101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-19930220: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-19930321: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-19930501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-19940205: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-19940219: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-19941101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-19950528: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-19951031: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-19980210: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-19981101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-19990601: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-20010701: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-20011101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-20020522: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-20031101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01991R2568-20080101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2568-20081001: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2568-20110401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2568-20120809: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2568-20140101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2568-20140301: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2568-20150101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2568-20151016: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2568-20160804: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2568-20161011: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2568-20161204: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01991R2568-20191020: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

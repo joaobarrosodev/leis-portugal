@@ -1,0 +1,79 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989R0790:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989R0790-20080701",
+ "dre_path": null,
+ "source_lastmod": "2008-07-01",
+ "versions": [
+  {
+   "date": "1989-03-30",
+   "future": false,
+   "celex": "31989R0790",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ecf4d299a41d598c",
+    "48b3e16667751aff",
+    "c958d8467a5fa5b8",
+    "36df5356f1e8de83"
+   ]
+  },
+  {
+   "date": "2008-07-01",
+   "future": false,
+   "celex": "01989R0790-20080701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º"
+   ],
+   "fragments": [
+    "a26123404542c72b"
+   ]
+  }
+ ],
+ "fragments": {
+  "ecf4d299a41d598c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 790/89 do Conselho de 20 de Março de 1989 que fixa o montante da ajuda suplementar forfetária à constituição de organizações de produtores bem como o montante máximo da ajuda ao melhoramento da qualidade e da comercialização no sector das frutas de casca rija e das alfarrobas** *Jornal Oficial nº L 085 de 30/03/1989 p. 0006 - 0006 Edição especial finlandesa: Capítulo 3 Fascículo 28 p. 0197 Edição especial sueca: Capítulo 3 Fascículo 28 p. 0197*\n\n*****\n\nREGULAMENTO (CEE) Nº 790/89 DO CONSELHO\n\nde 20 de Março de 1989\n\nque fixa o montante da ajuda suplementar forfetária à constituição de organizações de produtores bem como o montante máximo da ajuda ao melhoramento da qualidade e da comercialização no sector das frutas de casca rija e das alfarrobas\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) nº 1035/72 do Conselho, de 18 de Maio de 1972, que estabelece a organização comum de mercado no sector das frutas e produtos hortícolas (1), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 789/89 (2) e, nomeadamente, o nº 4 do seu artigo 14ºB e o nº 3 do seu artigo 14ºD,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que a ajuda suplementar forfetária destinada a encorajar a constituição de organizações de produtores de frutas de casca rija e de alfarrobas deve ser fixada de modo a criar um incentivo efectivo, tendo em conta, por um lado, a percentagem muito reduzida da produção comercializada por intermédio de organizações de produtores e, por outro, a pequena dimensão das organizações existentes;\n\nConsiderando que, para a ajuda ao melhoramento da qualidade e da comercialização, prevista no artigo 14ºD do Regulamento (CEE) nº 1035/72, o montante máximo da participação financeira do Estado-membro e da Comunidade deve ser fixado a um nível realista, que tenha em conta o objectivo principal do melhoramento genético das culturas e a superfície do pomar susceptível de ser objecto de uma acção anual,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "48b3e16667751aff": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA ajuda suplementar forfetária à constituição de organizações de produtores de frutas de casca rija e/ou de alfarrobas, prevista no artigo 14ºB do Regulamento (CEE) nº 1035/72, é fixada do seguinte modo:\n\n- 60 ecus/tonelada por fracção inferior a 1 000 toneladas,\n\n- 70 ecus/tonelada por fracção situada entre 1 000 toneladas e 2 000 toneladas,\n\n- 75 ecus/tonelada por fracção superior a 2 000 toneladas,\n\nde frutas de casca rija e/ou de alfarrobas comercializadas pela organização de produtores durante a primeira campanha de comercialização."
+  },
+  "c958d8467a5fa5b8": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nO montante máximo por hectare, referido no nº 2 do artigo 14ºD do Regulamento (CEE) nº 1035/72, é fixado em 300 ecus para os cinco primeiros anos e em 210 ecus para os cinco anos seguintes."
+  },
+  "36df5356f1e8de83": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Setembro de 1989.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 20 de Março de 1989.\n\nPelo Conselho\n\nO Presidente\n\nC. ROMERO HERRERA\n\n(1) JO nº L 118 de 20. 5. 1972, p. 91.\n\n(2) Ver página 3 do presente Jornal Oficial."
+  },
+  "a26123404542c72b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1989R0790 — PT — 01.07.2008 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31989R0790) [REGULAMENTO (CEE) Nº 790/89 DO CONSELHO](http://publications.europa.eu/resource/celex/31989R0790) [de 20 de Março de 1989](http://publications.europa.eu/resource/celex/31989R0790) [que fixa o montante da ajuda suplementar forfetária à constituição de organizações de produtores bem como o montante máximo da ajuda ao melhoramento da qualidade e da comercialização no sector das frutas de casca rija e das alfarrobas](http://publications.europa.eu/resource/celex/31989R0790) (JO L 085, 30.3.1989, p.6)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 361/2008 do Conselho de 14 de Abril de 2008](http://publications.europa.eu/resource/celex/32008R0361) — L 121 — 1 — 7.5.2008"
+  }
+ }
+}

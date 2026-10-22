@@ -1,0 +1,128 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992L0081:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0081-19950120",
+ "dre_path": null,
+ "source_lastmod": "1995-01-20",
+ "versions": [
+  {
+   "date": "1992-10-31",
+   "future": false,
+   "celex": "31992L0081",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8d55d0b320774be4",
+    "1f33d22d02c8b2ce",
+    "7cd98a4a4bbae4ac",
+    "2d3c4374872aaff3",
+    "bfbeb5d857bcfdfd",
+    "4c5edd69014ef7db",
+    "7d835e3944a421dd",
+    "200a9b97a0bbda11",
+    "e71e418bab44a07d",
+    "225e455b128e0f16",
+    "340bf34455a15918",
+    "d87c8b9a23a7ec0b"
+   ]
+  }
+ ],
+ "fragments": {
+  "8d55d0b320774be4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 92/81/CEE do Conselho, de 19 de Outubro de 1992, relativa à harmonização das estruturas do imposto especial sobre o consumo de óleos minerais** *Jornal Oficial nº L 316 de 31/10/1992 p. 0012 - 0015 Edição especial finlandesa: Capítulo 9 Fascículo 2 p. 0091 Edição especial sueca: Capítulo 9 Fascículo 2 p. 0091*\n\nDIRECTIVA 92/81/CEE DO CONSELHO de 19 de Outubro de 1992 relativa à harmonização das estruturas do imposto especial sobre o consumo de óleos minerais\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 99o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a Directiva 92/12/CEE (4) fixa as normas do regime geral dos produtos sujeitos a impostos especiais de consumo;\n\nConsiderando que a Directiva 92/82/CEE (5) estabelece disposições relativas às taxas mínimas do imposto especial de consumo aplicáveis a certos óleos minerais;\n\nConsiderando que, para o bom funcionamento do mercado interno, é importante fixar definições comuns para todos os óleos minerais sujeitos ao regime geral de circulação dos impostos especiais de consumo;\n\nConsiderando que é conveniente que essas definições se baseiem nas estabelecidas na Nomenclatura Combinada em vigor à data da aprovação da presente directiva;\n\nConsiderando que é necessário estabelecer determinadas isenções obrigatórias a nível comunitário;\n\nConsiderando, no entanto, que é oportuno dar aos Estados-membros a faculdade de aplicarem a título facultativo outras isenções ou taxas reduzidas nos respectivos territórios, sempre que tal não dê azo a distorções de concorrência;\n\nConsiderando que é necessário prever um processo destinado a autorizar a introdução de novas isenções ou reduções de taxas;\n\nConsiderando que é necessário estipular um processo de revisão de todas as isenções ou taxas reduzidas previstas na presente directiva, por forma a verificar se continuam a ser conformes com o bom funcionamento do mercado interno,\n\nADOPTOU A PRESENTE DIRECTIVA: I. Âmbito de aplicação"
+  },
+  "1f33d22d02c8b2ce": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Os Estados-membros aplicam aos óleos minerais um imposto especial de consumo harmonizado de acordo com o disposto na presente directiva.\n\n2. Os Estados-membros fixam as suas taxas de acordo com a Directiva 92/82/CEE, relativa à aproximação das taxas do imposto especial sobre o consumo de óleos minerais."
+  },
+  "7cd98a4a4bbae4ac": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Para efeitos da presente directiva, por « óleos minerais » entendem-se:\n\na) Os produtos abrangidos pelo código NC 2706;\n\nb) Os produtos abrangidos pelos códigos NC 2707 10, 2707 20, 2707 30, 2707 50, 2707 91 00, 2707 99 (excepto 2707 99 30, 2707 99 50 e 2707 99 70);\n\nc) Os produtos abrangidos pelo código NC 2709;\n\nd) Os produtos abrangidos pelo código NC 2710;\n\ne) Os produtos abrangidos pelo código NC 2711, incluindo o metano e o propano quimicamente puros, com exclusão do gás natural;\n\nf) Os produtos abrangidos pelos códigos NC 2712 10, 2712 20 00, 2712 90 31, 2712 90 33, 2712 90 39 e 2712 90 90;\n\ng) Os produtos abrangidos pelo código NC 2713, com excepção dos produtos resinosos, da terra descolorante usada, dos resíduos ácidos e dos resíduos básicos;\n\nh) Os produtos abrangidos pelo código NC 2715;\n\ni) Os produtos abrangidos pelo código NC 2901;\n\nj) Os produtos abrangidos pelos códigos NC 2902 11 00, 2902 19 90, 2902 20, 2902 30, 2902 41 00, 2902 42 00, 2902 43 00 e 2902 44;\n\nk) Os produtos abrangidos pelos códigos NC 3403 11 00 e 3403 19;\n\nl) Os produtos abrangidos pelo código NC 3811;\n\nm) Os produtos abrangidos pelo código NC 3817.\n\n2. Quando destinados a utilização, colocação à venda ou a serem consumidos como combustível de aquecimento ou como carburante, os óleos minerais, com excepção dos óleos cujo nível do imposto especial de consumo se encontra estabelecido na Directiva 92/82/CEE, ficam sujeitos ao imposto especial de consumo. A taxa do imposto especial é igual, segundo a utilização, à taxa aplicável ao combustível ou carburante equivalente.\n\n3. Para além dos produtos tributáveis referidos no no 1, é tributado como carburante qualquer produto destinado a utilização, colocação à venda, a ser consumido como carburante ou aditivo ou a aumentar o volume final dos carburantes. Os outros hidrocarbonetos, com excepção do carvão, da lenhite, da turfa ou de outros hidrocarbonetos sólidos semelhantes ou do gás natural, destinados a utilização, colocação à venda ou a serem consumidos no aquecimento são tributados à taxa do imposto aplicável ao óleo mineral equivalente.\n\nContudo, o carvão, a lenhite, a turfa ou outros hidrocarbonetos sólidos semelhantes ou o gás natural podem ser sujeitos a tributação em conformidade com o no 3 do artigo 3o da Directiva 92/12/CEE.\n\n4. Os códigos da Nomenclatura Combinada referidos no no 1 são os que constem da versão da Nomenclatura Combinada vigente à data da aprovação da presente directiva.\n\nII. Determinação do montante do imposto especial de consumo"
+  },
+  "2d3c4374872aaff3": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Em cada Estado-membro, os óleos minerais são sujeitos a um imposto especial de consumo, específico, calculado por 1 000 litros de produto a uma temperatura de 15 °C. Todavia, para os produtos referidos no no 1 do artigo 2o utilizados como fuelóleos, bem como para o gás de petróleo liquefeito (GPL) e o metano, o imposto é calculado por 1 000 quilogramas.\n\n2. Os Estados-membros podem calcular o imposto especial de consumo sobre os fuelóleos, o GPL e o metano de modo diferente do previsto no no 1. Neste caso, deverão efectuar o cálculo do montante do imposto na proporção das quantidades."
+  },
+  "bfbeb5d857bcfdfd": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Para além das disposições gerais que definem o facto gerador do imposto especial de consumo e das disposições para pagamento desse imposto referidas na Directiva 92/12/CEE, são também devidos impostos especiais de consumo sobre os óleos minerais se ocorrer um dos factos geradores mencionados no no 3 do artigo 2o da presente directiva.\n\n2. Os Estados-membros podem também estipular que é devido o imposto especial de consumo quando se verificar que não está ou deixou de estar preenchida uma condição de utilização final estabelecida no direito nacional para efeitos de aplicação de uma taxa reduzida do imposto ou de uma isenção.\n\n3. O consumo de óleos minerais nas instalações de um estabelecimento produtor de óleos minerais não é considerado facto gerador do imposto se se efectuar para efeitos dessa mesma produção.\n\nSe, todavia, o consumo se destinar a fins alheios à referida produção e, em especial, à propulsão de veículos, é considerado facto gerador do imposto especial de consumo."
+  },
+  "4c5edd69014ef7db": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Sem prejuízo do disposto no artigo 6o, é considerado estabelecimento de produção de óleos minerais qualquer estabelecimento em que os produtos referidos no no 1 do artigo 2o sejam fabricados ou submetidos a um tratamento definido na acepção da nota complementar 4 do capítulo 27 da Nomenclatura Combinada.\n\n2. Sem prejuízo das regras de circulação estabelecidas na Directiva 92/12/CEE, os Estados-membros não são obrigados a considerar como « estabelecimento de produção de óleos minerais » os estabelecimentos em que os únicos produtos fabricados sejam óleos minerais cujo nível da taxa do imposto especial não se encontre fixado na Directiva 92/82/CEE."
+  },
+  "7d835e3944a421dd": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros não são obrigados a considerar como « produção de óleos minerais »:\n\na) As operações no decurso das quais sejam obtidas acessoriamente pequenas quantidades de óleos minerais;\n\nb) As operações mediante as quais o utilizador de um óleo mineral torne possível a reutilização deste na sua própria empresa, desde que os montantes do imposto especial de consumo já pagos sobre esse óleo não sejam inferiores ao montante do imposto especial que seria devido se o óleo reutilizado fosse de novo sujeito a esse imposto;\n\nc) A operação que consiste em misturar, fora de um estabelecimento de produção ou de um entreposto aduaneiro, óleos minerais com outros óleos minerais ou outras substâncias, desde que:\n\ni) o imposto especial de consumo sobre as substâncias de base tenha sido pago anteriormente\n\ne\n\nii) o montante pago não seja inferior ao montante do imposto especial de consumo que seria devido por essa mistura.\n\nA primeira condição não é aplicável quando a mistura estiver isenta em função de um destino especial."
+  },
+  "200a9b97a0bbda11": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nEm caso de alteração de uma ou mais taxas do imposto especial de consumo, as existências de óleos minerais introduzidas no consumo podem ser sujeitas a um aumento ou a uma redução do imposto."
+  },
+  "e71e418bab44a07d": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Para além das disposições gerais da Directiva 92/12/CEE relativas às utilizações isentas de produtos sujeitos ao imposto especial de consumo e sem prejuízo de outras disposições comunitárias, os Estados-membros isentam os produtos a seguir referidos do imposto especial de consumo harmonizado nas condições por eles fixadas tendo em vista assegurar a aplicação correcta e simples destas isenções, bem como impedir as fraudes, a evasão fiscal ou as utilizações indevidas:\n\na) Óleos mineras utilizados para fins que não sejam os de combustíveis para motores ou combustíveis de aquecimento;\n\nb) Óleos minerais fornecidos para utilização como carburantes na navegação aérea, com excepção da aviação de recreio privada.\n\nPara efeitos da presente directiva, por « aviação de recreio privada » entende-se a utilização de uma aeronave pelo seu proprietário ou por uma pessoa singular ou colectiva que a pode utilizar através de aluguer ou a outro título, para fins não comerciais e, em especial, para fins que não sejam o transporte de pessoas ou de mercadorias ou a prestação de serviços a título oneroso ou no interesse das autoridades públicas.\n\nOs Estados-membros podem limitar o âmbito desta isenção aos fornecimentos de carborreactores (código NC 2710 00 51);\n\nc) Óleos minerais fornecidos para utilização como combustível na navegação em águas comunitárias (incluindo a pesca), com excepção dos utilizados em embarcações de recreio privadas.\n\nPara efeitos da presente directiva, por « embarcação de recreio privada » entende-se qualquer embarcação utilizada pelo seu proprietário ou por uma pessoa singular ou colectiva que a pode utilizar através de aluguer ou a outro título, para fins não comerciais e, em especial, para fins que não sejam o transporte de pessoas ou de mercadorias ou a prestação de serviços a título oneroso ou no interesse das autoridades públicas.\n\n2. Sem prejuízo de outras disposições comunitárias, os Estados-membros podem aplicar isenções ou reduções totais ou parciais da taxa do imposto especial de consumo aos óleos minerais utilizados sob controlo fiscal:\n\na) No processo de produção de electricidade e em centrais de produção conjunta de energia e calor;\n\nb) Na navegação em águas interiores, com excepção da navegação de recreio;\n\nc) No transporte de passageiros e de mercadorias por caminho-de-ferro;\n\nd) Em projectos-piloto de desenvolvimento tecnológico de produtos menos poluentes e, principalmente, em relação aos combustíveis provenientes de fontes renováveis;\n\ne) Na construção, desenvolvimento, ensaio e manutenção de aeronaves e navios;\n\nf) Exclusivamente nas actividades agrícola e hortícola, na silvicultura e na piscicultura de água doce;\n\ng) Em operações de desassoreamento das vias navegáveis e dos portos.\n\n3. No que respeita à totalidade ou a parte das utilizações industriais e comerciais seguidamente mencionadas, os Estados-membros também podem aplicar uma taxa reduzida ao gasóleo, ao GPL, ao metano e ao querosene utilizados sob controlo fiscal, desde que a taxa aplicada não seja inferior à taxa mínima fixada na Directiva 92/82/CEE:\n\na) Motores estacionários;\n\nb) Equipamento e maquinaria utilizados na construção, na engenharia civil e nas obras públicas;\n\nc) Veículos que se destinam a ser utilizados fora da via pública, ou que não receberam autorização para serem preponderantemente utilizados na via pública.\n\n4. O Conselho, deliberando por unanimidade sob proposta da Comissão, pode autorizar qualquer Estado-membro a introduzir outras isenções ou reduções da taxa do imposto motivadas por considerações políticas específicas.\n\nUm Estado-membro que pretenda introduzir tais medidas deverá informar desse facto a Comissão, fornecendo-lhe igualmente todas as informações pertinentes ou necessárias. A Comissão informará os restantes Estados-membros da medida proposta no prazo de um mês.\n\nSe, no prazo de dois meses após os restantes Estados-membros terem sido informados nos termos previstos no parágrafo anterior, nem a Comissão nem qualquer Estado-membro tiverem solicitado que o assunto seja submetido à apreciação do Conselho, considerar-se-á que a isenção ou a redução da taxa do imposto proposta foi autorizada pelo Conselho.\n\n5. No caso de a Comissão considerar que as isenções ou as reduções referidas no no 4 não se podem continuar a manter, nomeadamente por motivos de concorrência desleal ou de distorção do funcionamento do mercado interno, bem como de política comunitária de protecção do ambiente, apresentará ao Conselho as propostas adequadas. O Conselho decidirá, por unanimidade, sobre essas propostas.\n\n6. De qualquer modo, com base num relatório da Comissão e o mais tardar até 31 de Dezembro de 1996, o Conselho analisará a situação no que diz respeito às isenções ou às reduções referidas no no 4 e, deliberando por unanimidade, sob proposta da Comissão e após consulta ao Parlamento Europeu, decidirá se devem ser, no todo ou em parte, alteradas, suprimidas ou alargadas.\n\n7. Até 31 de Dezembro de 1997, o Conselho analisará as isenções previstas no no 1, alínea b), e no no 2, alínea b), com base num relatório da Comissão e tendo em conta os custos externos provocados por esses meios de transporte e o respectivo impacte ecológico, e, deliberando por unanimidade, sob proposta da Comissão, decidirá se essas isenções devem ser suprimidas ou alteradas.\n\n8. Os Estados-membros têm a faculdade de concretizar as isenções ou as reduções das taxas do imposto especial de consumo previstas no no 4 através do reembolso do imposto já pago.\n\nIII. Controlos"
+  },
+  "225e455b128e0f16": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nAté 31 de Dezembro de 1992, o Conselho, deliberando por unanimidade sob proposta da Comissão, aprovará as normas comunitárias referentes à coloração e marcação dos óleos minerais, utilizados como combustível ou carburante, isentos de imposto ou que beneficiam de uma taxa reduzida.\n\nIV. Disposições finais"
+  },
+  "340bf34455a15918": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, até 31 de Dezembro de 1992. Do facto informarão imediatamente a Comissão.\n\nAs disposições aprovadas pelos Estados-membros deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são da responsabilidade dos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão as disposições essenciais de direito interno que aprovarem no domínio regido pela presente directiva."
+  },
+  "d87c8b9a23a7ec0b": {
+   "fragment_id": "Artigo 11o — Os Estados-membros são os destinatários da presente directiva. Feito no Luxemburgo, em 19 de Outubro de 1992. Pelo Conselho",
+   "type": "artigo",
+   "heading": "Artigo 11o — Os Estados-membros são os destinatários da presente directiva. Feito no Luxemburgo, em 19 de Outubro de 1992. Pelo Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o — Os Estados-membros são os destinatários da presente directiva. Feito no Luxemburgo, em 19 de Outubro de 1992. Pelo Conselho\n\nO Presidente\n\nJ. COPE\n\n(1) JO no C 322 de 21. 12. 1990, p. 18. (2) JO no C 183 de 15. 7. 1991, p. 289. (3) JO no C 69 de 18. 3. 1991, p. 25. (4) JO no L 76 de 23. 3. 1992, p. 1. (5) Ver página 19 do presente Jornal Oficial."
+  }
+ }
+}

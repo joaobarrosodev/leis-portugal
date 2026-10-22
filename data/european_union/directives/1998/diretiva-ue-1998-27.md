@@ -35,6 +35,73 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-12-29'
+version_history:
+  file: diretiva-ue-1998-27.versoes.json
+  count: 4
+  source_lastmod: '2009-12-29'
+  versions:
+  - date: '1998-06-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-06-12'
+    amending: eu:celex:31999L0044:por
+    amending_title: DIRECTIVA 1999/44/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de Maio de 1999; DIRECTIVA 2000/31/CE DO
+      PARLAMENTO EUROPEU E DO CONSELHO de 8 de Junho de 2000; DIRECTIVA 2002/65/CE DO PARLAMENTO EUROPEU E DO CONSELHO de
+      23 de Setembro de 2002; DIRECTIVA 2005/29/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE
+      de 11 de Maio de 2005
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º — Objecto
+    - Adita Artigo 2.º — Das acções inibitórias
+    - Adita Artigo 3.º — Das entidades competentes para intentar a acção
+    - Adita Artigo 4.º — Das infracções intracomunitárias
+    - Adita Artigo 5.º — Da consulta prévia
+    - Adita Artigo 6.º — Relatórios
+    - Adita Artigo 7.º — Normas mais favoráveis
+    - Adita Artigo 8.º — Execução
+    - Adita Artigo 9.º — Entrada em vigor
+    - Adita Artigo 10.º — Destinatários
+    - Adita ANEXO
+    - Adita LISTA DAS DIRECTIVAS REFERIDAS NO ARTIGO 1.º ([^4^](http://publications.europa.eu/resource/cellar/136d9a07-4050-4318-ada4-4dccc6213d8b.0017.03/DOC_1#E0004))
+    - Adita Notas
+    - Suprime Artigo 1º — Objecto
+    - Suprime Artigo 2º — Das acções inibitórias
+    - Suprime Artigo 3º — Das entidades competentes para intentar a acção
+    - Suprime Artigo 4º — Das infracções intracomunitárias
+    - Suprime Artigo 5º — Da consulta prévia
+    - Suprime Artigo 6º — Relatórios
+    - Suprime Artigo 7º — Normas mais favoráveis
+    - Suprime Artigo 8º — Execução
+    - Suprime Artigo 9º — Entrada em vigor
+    - Suprime Artigo 10º — Destinatários
+    - Suprime ANEXO — LISTA DAS DIRECTIVAS REFERIDAS NO ARTIGO 1º (1*)
+  - date: '2006-12-28'
+    amending: eu:celex:32006L0123:por
+    amending_title: DIRECTIVA 2006/123/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita LISTA DAS DIRECTIVAS REFERIDAS NO ARTIGO 1.º ([^4^](http://publications.europa.eu/resource/cellar/e236eccd-cb0f-441c-8873-ff2e77ce9bb1.0018.03/DOC_1#E0004))
+    - Suprime LISTA DAS DIRECTIVAS REFERIDAS NO ARTIGO 1.º ([^4^](http://publications.europa.eu/resource/cellar/136d9a07-4050-4318-ada4-4dccc6213d8b.0017.03/DOC_1#E0004))
+  - date: '2009-12-29'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Das acções inibitórias
+    - Suprime Artigo 3.º — Das entidades competentes para intentar a acção
+    - Suprime Artigo 4.º — Das infracções intracomunitárias
+    - Suprime Artigo 5.º — Da consulta prévia
+    - Suprime Artigo 6.º — Relatórios
+    - Suprime Artigo 7.º — Normas mais favoráveis
+    - Suprime Artigo 8.º — Execução
+    - Suprime Artigo 9.º — Entrada em vigor
+    - Suprime Artigo 10.º — Destinatários
+    - Suprime ANEXO
+    - Suprime LISTA DAS DIRECTIVAS REFERIDAS NO ARTIGO 1.º ([^4^](http://publications.europa.eu/resource/cellar/e236eccd-cb0f-441c-8873-ff2e77ce9bb1.0018.03/DOC_1#E0004))
+    - Suprime Notas
 identifiers:
   celex: 31998L0027
   eli: http://data.europa.eu/eli/dir/1998/27/oj
@@ -49,7 +116,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/32ccd7e9-cbf5-4852-88f1-7baba5adc482.0011
   content_url: http://publications.europa.eu/resource/cellar/ef967049-ba0c-4b4e-9682-d0606d18a2fa.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0027-20091229
-  retrieved_at: '2026-10-22T02:40:25Z'
+  retrieved_at: '2026-10-22T14:46:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T07:29:20.941+01:00'
 integrity:
@@ -58,9 +125,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:25Z'
-  notes: Texto consolidado 01998L0027-20091229.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:43Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1998-27.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -188,16 +255,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:25Z'
+  checked_at: '2026-10-22T14:46:43Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01998L0027-19990707: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998L0027-20000717: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998L0027-20021009: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

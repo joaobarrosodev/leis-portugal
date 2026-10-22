@@ -34,6 +34,24 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2004-09-01'
+version_history:
+  file: diretiva-ue-2004-60.versoes.json
+  count: 2
+  source_lastmod: '2004-09-01'
+  versions:
+  - date: '2004-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-09-01'
+    amending: eu:celex:32004L0097:por
+    amending_title: DIRECTIVA 2004/97/CE DA COMISSÃO Texto relevante para efeitos do EEE de 27 de Setembro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Notas
+    - Adita ANEXO
 identifiers:
   celex: 32004L0060
   eli: http://data.europa.eu/eli/dir/2004/60/oj
@@ -48,7 +66,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9d3d637a-9a1d-433b-8993-30a73509b403.0010
   content_url: http://publications.europa.eu/resource/cellar/f045f9af-acb0-46f7-bb4c-aedc1a092a07.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0060-20040901
-  retrieved_at: '2026-10-22T03:11:46Z'
+  retrieved_at: '2026-10-22T14:57:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-09-29T11:15:18.366+02:00'
 integrity:
@@ -57,9 +75,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:46Z'
-  notes: Texto consolidado 02004L0060-20040901.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:18Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2004-60.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -101,29 +119,19 @@ relationships:
   date: '2004-06-22'
 article_structure:
   article_count: 5
-  section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 2
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:46Z'
+  checked_at: '2026-10-22T14:57:18Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2004/60/CE da Comissão, de 23 de Abril de 2004
-
-> 2004L0060 — PT — 01.09.2004 — 000.002
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32004L0097) — [DIRECTIVA 2004/97/CE DA COMISSÃO Texto relevante para efeitos do EEE de 27 de Setembro de 2004](http://publications.europa.eu/resource/celex/32004L0097) — L 301 — 53 — 28.9.2004
-
-## DIRECTIVA 2004/60/CE DA COMISSÃO
 
 de 23 de Abril de 2004
 

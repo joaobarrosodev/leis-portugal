@@ -36,6 +36,558 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-04-18'
+version_history:
+  file: diretiva-ue-2004-18.versoes.json
+  count: 16
+  source_lastmod: '2016-04-18'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-11-01'
+    amending: eu:celex:32004R1874:por
+    amending_title: REGULAMENTO (CE) N. o 1874/2004 DA COMISSÃO de 28 de Outubro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 7.º — Montantes dos limiares para contratos públicos
+    - Altera Artigo 8.º — Contratos subsidiados em mais de 50% pelas entidades adjudicantes
+    - Altera Artigo 9.º — Métodos de cálculo do valor estimado dos contratos públicos, dos acordos-quadro e dos sistemas de
+      aquisição dinâmicos
+    - Altera Artigo 30.º — Casos que justificam o recurso ao procedimento por negociação com publicação de anúncio de concurso
+    - Altera Artigo 31.º — Casos que justificam o recurso ao procedimento por negociação sem publicação de anúncio de concurso
+    - Altera Artigo 32.º — Acordos-quadro
+    - Altera Artigo 35.º — Anúncios
+    - Altera Artigo 45.º — Situação pessoal do candidato ou do proponente
+    - Altera Artigo 48.º — Capacidade técnica e/ou profissional
+    - Altera Artigo 56.º — Âmbito de aplicação
+    - Altera Artigo 57.º — Exclusões do âmbito de aplicação
+    - 'Altera Artigo 63.º — Regras de publicidade: limiar e excepções'
+    - Altera Artigo 67.º — Âmbito de aplicação
+    - Altera Artigo 68.º — Exclusões do âmbito de aplicação
+    - Altera Artigo 77.º — Comité Consultivo
+    - Altera Artigo 81.º — Mecanismo de acompanhamento
+    - Altera Artigo 84.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^27^](http://publications.europa.eu/resource/cellar/9507d742-46fc-49e5-92db-774557a310a9.0010.03/DOC_1#E0027))
+    - Adita ANEXO II
+    - Adita SERVIÇOS REFERIDOS NA ALÍNEA D) DO N.º 2 DO ARTIGO 1.º
+    - Adita ANEXO II A ([^28^](http://publications.europa.eu/resource/cellar/9507d742-46fc-49e5-92db-774557a310a9.0010.03/DOC_1#E1028))
+    - Adita ANEXO II B
+    - Adita ANEXO III
+    - Adita LISTA DOS ORGANISMOS E DAS CATEGORIAS DE ORGANISMOS DE DIREITO PÚBLICO A QUE SE REFERE O SEGUNDO PARÁGRAFO DO
+      N.º 9 DO ARTIGO 1.º
+    - Adita I. NA BÉLGICA
+    - Adita Organismos
+    - Adita II. NA DINAMARCA
+    - Adita Categorias
+    - Adita III. NA ALEMANHA
+    - Adita 1. Categorias
+    - Adita 1.1. Colectividades
+    - Adita 1.2. Estabelecimentos e fundações
+    - Adita 2. Pessoas colectivas de direito privado
+    - Adita IV. NA GRÉCIA
+    - Adita V. EM ESPANHA
+    - Adita VI. EM FRANÇA
+  - date: '2005-10-21'
+    amending: eu:celex:32005L0051:por
+    amending_title: DIRECTIVA 2005/51/CE DA COMISSÃO Texto relevante para efeitos do EEE de 7 de Setembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 45.º — Situação pessoal do candidato ou do proponente
+    - Altera Artigo 77.º — Comité Consultivo
+    - Altera Artigo 81.º — Mecanismo de acompanhamento
+    - Altera ANEXO II B
+    - Altera GRÉCIA
+    - Altera 1. Ministérios
+    - Altera 1. Entidades adjudicantes
+    - Altera 2. Outro organismo público nacional
+    - Altera PORTUGAL
+    - Altera FINLÂNDIA
+    - Altera 1. Publicação dos anúncios
+    - Altera (Artigo 80.º)
+    - Altera Notas
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^27^](http://publications.europa.eu/resource/cellar/8d301f0a-c92f-4a9e-9210-0a4859ac1532.0010.03/DOC_1#E0027))
+    - Adita ANEXO II A ([^28^](http://publications.europa.eu/resource/cellar/8d301f0a-c92f-4a9e-9210-0a4859ac1532.0010.03/DOC_1#E1028))
+    - Adita AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^29^](http://publications.europa.eu/resource/cellar/8d301f0a-c92f-4a9e-9210-0a4859ac1532.0010.03/DOC_1#E1032))
+    - Adita LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^31^](http://publications.europa.eu/resource/cellar/8d301f0a-c92f-4a9e-9210-0a4859ac1532.0010.03/DOC_1#E3004))
+    - Adita REGISTOS ([^32^](http://publications.europa.eu/resource/cellar/8d301f0a-c92f-4a9e-9210-0a4859ac1532.0010.03/DOC_1#E3006))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^33^](http://publications.europa.eu/resource/cellar/8d301f0a-c92f-4a9e-9210-0a4859ac1532.0010.03/DOC_1#E3008))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^27^](http://publications.europa.eu/resource/cellar/9507d742-46fc-49e5-92db-774557a310a9.0010.03/DOC_1#E0027))
+    - Suprime ANEXO II A ([^28^](http://publications.europa.eu/resource/cellar/9507d742-46fc-49e5-92db-774557a310a9.0010.03/DOC_1#E1028))
+    - Suprime AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^29^](http://publications.europa.eu/resource/cellar/9507d742-46fc-49e5-92db-774557a310a9.0010.03/DOC_1#E1032))
+    - Suprime LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^31^](http://publications.europa.eu/resource/cellar/9507d742-46fc-49e5-92db-774557a310a9.0010.03/DOC_1#E3004))
+    - Suprime REGISTOS ([^33^](http://publications.europa.eu/resource/cellar/9507d742-46fc-49e5-92db-774557a310a9.0010.03/DOC_1#E3006))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^34^](http://publications.europa.eu/resource/cellar/9507d742-46fc-49e5-92db-774557a310a9.0010.03/DOC_1#E3008))
+  - date: '2006-01-01'
+    amending: eu:celex:32005L0075:por
+    amending_title: DIRECTIVA 2005/75/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Novembro de 2005; REGULAMENTO (CE) N.
+      o 2083/2005 DA COMISSÃO de 19 de Dezembro de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Montantes dos limiares para contratos públicos
+    - Altera Artigo 8.º — Contratos subsidiados em mais de 50% pelas entidades adjudicantes
+    - Altera Artigo 45.º — Situação pessoal do candidato ou do proponente
+    - Altera Artigo 56.º — Âmbito de aplicação
+    - 'Altera Artigo 63.º — Regras de publicidade: limiar e excepções'
+    - Altera Artigo 67.º — Âmbito de aplicação
+    - Altera Artigo 77.º — Comité Consultivo
+    - Altera Artigo 78.º — Revisão dos limiares
+    - Altera Artigo 81.º — Mecanismo de acompanhamento
+    - Altera ANEXO II B
+    - Altera GRÉCIA
+    - Altera 1. Ministérios
+    - Altera 1. Entidades adjudicantes
+    - Altera 2. Outro organismo público nacional
+    - Altera PORTUGAL
+    - Altera FINLÂNDIA
+    - Altera (Artigo 80.º)
+    - Altera Notas
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^27^](http://publications.europa.eu/resource/cellar/6e51251f-9f88-493f-aebb-0626813f8280.0017.03/DOC_1#E0027))
+    - Adita ANEXO II A ([^28^](http://publications.europa.eu/resource/cellar/6e51251f-9f88-493f-aebb-0626813f8280.0017.03/DOC_1#E1028))
+    - Adita AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^29^](http://publications.europa.eu/resource/cellar/6e51251f-9f88-493f-aebb-0626813f8280.0017.03/DOC_1#E1032))
+    - Adita LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^31^](http://publications.europa.eu/resource/cellar/6e51251f-9f88-493f-aebb-0626813f8280.0017.03/DOC_1#E3004))
+    - Adita REGISTOS ([^32^](http://publications.europa.eu/resource/cellar/6e51251f-9f88-493f-aebb-0626813f8280.0017.03/DOC_1#E3006))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^33^](http://publications.europa.eu/resource/cellar/6e51251f-9f88-493f-aebb-0626813f8280.0017.03/DOC_1#E3008))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^27^](http://publications.europa.eu/resource/cellar/8d301f0a-c92f-4a9e-9210-0a4859ac1532.0010.03/DOC_1#E0027))
+    - Suprime ANEXO II A ([^28^](http://publications.europa.eu/resource/cellar/8d301f0a-c92f-4a9e-9210-0a4859ac1532.0010.03/DOC_1#E1028))
+    - Suprime AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^29^](http://publications.europa.eu/resource/cellar/8d301f0a-c92f-4a9e-9210-0a4859ac1532.0010.03/DOC_1#E1032))
+    - Suprime LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^31^](http://publications.europa.eu/resource/cellar/8d301f0a-c92f-4a9e-9210-0a4859ac1532.0010.03/DOC_1#E3004))
+    - Suprime REGISTOS ([^32^](http://publications.europa.eu/resource/cellar/8d301f0a-c92f-4a9e-9210-0a4859ac1532.0010.03/DOC_1#E3006))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^33^](http://publications.europa.eu/resource/cellar/8d301f0a-c92f-4a9e-9210-0a4859ac1532.0010.03/DOC_1#E3008))
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0097:por
+    amending_title: DIRECTIVA 2006/97/CE DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 45.º — Situação pessoal do candidato ou do proponente
+    - Altera Artigo 77.º — Comité Consultivo
+    - Altera Artigo 81.º — Mecanismo de acompanhamento
+    - Altera ANEXO II B
+    - Altera GRÉCIA
+    - Altera 1. Ministérios
+    - Altera 1. Entidades adjudicantes
+    - Altera 2. Outro organismo público nacional
+    - Altera PORTUGAL
+    - Altera FINLÂNDIA
+    - Altera CONTRATOS DE EMPREITADA DE OBRAS PÚBLICAS
+    - Altera CONTRATOS PÚBLICOS DE FORNECIMENTO
+    - Altera CONTRATOS PÚBLICOS DE SERVIÇOS
+    - Altera (Artigo 80.º)
+    - Altera Notas
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^27^](http://publications.europa.eu/resource/cellar/133389f9-4f0c-4016-9d54-d2e8a3e566e6.0017.03/DOC_1#E0027))
+    - Adita ANEXO II A ([^28^](http://publications.europa.eu/resource/cellar/133389f9-4f0c-4016-9d54-d2e8a3e566e6.0017.03/DOC_1#E0029))
+    - Adita XXVI. NA BULGÁRIA
+    - Adita XXVII. NA ROMÉNIA
+    - Adita AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^29^](http://publications.europa.eu/resource/cellar/133389f9-4f0c-4016-9d54-d2e8a3e566e6.0017.03/DOC_1#E0037))
+    - Adita BULGÁRIA
+    - Adita ROMÉNIA
+    - Adita LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^31^](http://publications.europa.eu/resource/cellar/133389f9-4f0c-4016-9d54-d2e8a3e566e6.0017.03/DOC_1#E0044))
+    - Adita REGISTOS ([^32^](http://publications.europa.eu/resource/cellar/133389f9-4f0c-4016-9d54-d2e8a3e566e6.0017.03/DOC_1#E0045))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^33^](http://publications.europa.eu/resource/cellar/133389f9-4f0c-4016-9d54-d2e8a3e566e6.0017.03/DOC_1#E0047))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^27^](http://publications.europa.eu/resource/cellar/6e51251f-9f88-493f-aebb-0626813f8280.0017.03/DOC_1#E0027))
+    - Suprime ANEXO II A ([^28^](http://publications.europa.eu/resource/cellar/6e51251f-9f88-493f-aebb-0626813f8280.0017.03/DOC_1#E1028))
+    - Suprime AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^29^](http://publications.europa.eu/resource/cellar/6e51251f-9f88-493f-aebb-0626813f8280.0017.03/DOC_1#E1032))
+    - Suprime LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^31^](http://publications.europa.eu/resource/cellar/6e51251f-9f88-493f-aebb-0626813f8280.0017.03/DOC_1#E3004))
+    - Suprime REGISTOS ([^32^](http://publications.europa.eu/resource/cellar/6e51251f-9f88-493f-aebb-0626813f8280.0017.03/DOC_1#E3006))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^33^](http://publications.europa.eu/resource/cellar/6e51251f-9f88-493f-aebb-0626813f8280.0017.03/DOC_1#E3008))
+  - date: '2008-01-01'
+    amending: eu:celex:32007R1422:por
+    amending_title: REGULAMENTO (CE) N. o 1422/2007 DA COMISSÃO de 4 de Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Montantes dos limiares para contratos públicos
+    - Altera Artigo 8.º — Contratos subsidiados em mais de 50% pelas entidades adjudicantes
+    - Altera Artigo 45.º — Situação pessoal do candidato ou do proponente
+    - Altera Artigo 56.º — Âmbito de aplicação
+    - 'Altera Artigo 63.º — Regras de publicidade: limiar e excepções'
+    - Altera Artigo 67.º — Âmbito de aplicação
+    - Altera Artigo 77.º — Comité Consultivo
+    - Altera Artigo 81.º — Mecanismo de acompanhamento
+    - Altera ANEXO II B
+    - Altera GRÉCIA
+    - Altera 1. Ministérios
+    - Altera 1. Entidades adjudicantes
+    - Altera 2. Outro organismo público nacional
+    - Altera PORTUGAL
+    - Altera FINLÂNDIA
+    - Altera (Artigo 80.º)
+    - Altera Notas
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^27^](http://publications.europa.eu/resource/cellar/93b81624-f7cd-4816-b730-96ca60b79b1b.0017.03/DOC_1#E0027))
+    - Adita ANEXO II A ([^28^](http://publications.europa.eu/resource/cellar/93b81624-f7cd-4816-b730-96ca60b79b1b.0017.03/DOC_1#E0029))
+    - Adita AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^29^](http://publications.europa.eu/resource/cellar/93b81624-f7cd-4816-b730-96ca60b79b1b.0017.03/DOC_1#E0037))
+    - Adita LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^31^](http://publications.europa.eu/resource/cellar/93b81624-f7cd-4816-b730-96ca60b79b1b.0017.03/DOC_1#E0044))
+    - Adita REGISTOS ([^32^](http://publications.europa.eu/resource/cellar/93b81624-f7cd-4816-b730-96ca60b79b1b.0017.03/DOC_1#E0045))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^33^](http://publications.europa.eu/resource/cellar/93b81624-f7cd-4816-b730-96ca60b79b1b.0017.03/DOC_1#E0047))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^27^](http://publications.europa.eu/resource/cellar/133389f9-4f0c-4016-9d54-d2e8a3e566e6.0017.03/DOC_1#E0027))
+    - Suprime ANEXO II A ([^28^](http://publications.europa.eu/resource/cellar/133389f9-4f0c-4016-9d54-d2e8a3e566e6.0017.03/DOC_1#E0029))
+    - Suprime AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^29^](http://publications.europa.eu/resource/cellar/133389f9-4f0c-4016-9d54-d2e8a3e566e6.0017.03/DOC_1#E0037))
+    - Suprime LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^31^](http://publications.europa.eu/resource/cellar/133389f9-4f0c-4016-9d54-d2e8a3e566e6.0017.03/DOC_1#E0044))
+    - Suprime REGISTOS ([^32^](http://publications.europa.eu/resource/cellar/133389f9-4f0c-4016-9d54-d2e8a3e566e6.0017.03/DOC_1#E0045))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^33^](http://publications.europa.eu/resource/cellar/133389f9-4f0c-4016-9d54-d2e8a3e566e6.0017.03/DOC_1#E0047))
+  - date: '2008-09-15'
+    amending: eu:celex:32008R0213:por
+    amending_title: REGULAMENTO (CE) N. o 213/2008 DA COMISSÃO de 28 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 45.º — Situação pessoal do candidato ou do proponente
+    - Altera Artigo 77.º — Comité Consultivo
+    - Altera Artigo 81.º — Mecanismo de acompanhamento
+    - Altera GRÉCIA
+    - Altera 1. Ministérios
+    - Altera 1. Entidades adjudicantes
+    - Altera 2. Outro organismo público nacional
+    - Altera PORTUGAL
+    - Altera FINLÂNDIA
+    - Altera (Artigo 80.º)
+    - Altera Notas
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^27^](http://publications.europa.eu/resource/cellar/3e08fe2f-d6b1-4993-8fb1-f99cec31d435.0017.03/DOC_1#E0027))
+    - Adita ANEXO II A ([^28^](http://publications.europa.eu/resource/cellar/3e08fe2f-d6b1-4993-8fb1-f99cec31d435.0017.03/DOC_1#E0029))
+    - Adita ANEXO II B [►M7](http://publications.europa.eu/resource/celex/32008R0213) ([^29^](http://publications.europa.eu/resource/cellar/3e08fe2f-d6b1-4993-8fb1-f99cec31d435.0017.03/DOC_1#E0035))◄
+    - Adita AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^30^](http://publications.europa.eu/resource/cellar/3e08fe2f-d6b1-4993-8fb1-f99cec31d435.0017.03/DOC_1#E0039))
+    - Adita LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^32^](http://publications.europa.eu/resource/cellar/3e08fe2f-d6b1-4993-8fb1-f99cec31d435.0017.03/DOC_1#E0046))
+    - Adita REGISTOS ([^33^](http://publications.europa.eu/resource/cellar/3e08fe2f-d6b1-4993-8fb1-f99cec31d435.0017.03/DOC_1#E0047))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^34^](http://publications.europa.eu/resource/cellar/3e08fe2f-d6b1-4993-8fb1-f99cec31d435.0017.03/DOC_1#E0049))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^27^](http://publications.europa.eu/resource/cellar/93b81624-f7cd-4816-b730-96ca60b79b1b.0017.03/DOC_1#E0027))
+    - Suprime ANEXO II A ([^28^](http://publications.europa.eu/resource/cellar/93b81624-f7cd-4816-b730-96ca60b79b1b.0017.03/DOC_1#E0029))
+    - Suprime ANEXO II B
+    - Suprime AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^29^](http://publications.europa.eu/resource/cellar/93b81624-f7cd-4816-b730-96ca60b79b1b.0017.03/DOC_1#E0037))
+    - Suprime LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^31^](http://publications.europa.eu/resource/cellar/93b81624-f7cd-4816-b730-96ca60b79b1b.0017.03/DOC_1#E0044))
+    - Suprime REGISTOS ([^32^](http://publications.europa.eu/resource/cellar/93b81624-f7cd-4816-b730-96ca60b79b1b.0017.03/DOC_1#E0045))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^33^](http://publications.europa.eu/resource/cellar/93b81624-f7cd-4816-b730-96ca60b79b1b.0017.03/DOC_1#E0047))
+  - date: '2009-01-01'
+    amending: eu:celex:32008D0963:por
+    amending_title: DECISÃO DA COMISSÃO de 9 de Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 45.º — Situação pessoal do candidato ou do proponente
+    - Altera Artigo 77.º — Comité Consultivo
+    - Altera Artigo 81.º — Mecanismo de acompanhamento
+    - Altera Organismos
+    - Altera Categorias
+    - Altera BÉLGICA
+    - Altera BULGÁRIA
+    - Altera DINAMARCA
+    - Altera IRLANDA
+    - Altera GRÉCIA
+    - Altera ESPANHA
+    - Altera FRANÇA
+    - Altera ITÁLIA
+    - Altera LUXEMBURGO
+    - Altera ÁUSTRIA
+    - Altera PORTUGAL
+    - Altera ROMÉNIA
+    - Altera FINLÂNDIA
+    - Altera A
+    - Altera B
+    - Altera C
+    - Altera D
+    - Altera E
+    - Altera F
+    - Altera G
+    - Altera H
+    - Altera I
+    - Altera J
+    - Altera K
+    - Altera L
+    - Altera M
+    - Altera N
+    - Altera O
+    - Altera P
+    - Altera R
+    - Altera S
+    - Altera T
+    - Altera U
+    - Altera V
+  - date: '2009-08-07'
+    amending: eu:celex:32009R0596:por
+    amending_title: REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 45.º — Situação pessoal do candidato ou do proponente
+    - Altera Artigo 78.º — Revisão dos limiares
+    - Altera Artigo 79.º — Modificações
+    - Altera Artigo 81.º — Mecanismo de acompanhamento
+    - Altera (Artigo 80.º)
+    - Altera Notas
+    - Adita Artigo 77.º — Procedimento de comité
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^27^](http://publications.europa.eu/resource/cellar/8ad534ce-db7d-4e9b-9fe5-e0ac9a14f21a.0018.03/DOC_1#E0027))
+    - Adita ANEXO II A ([^28^](http://publications.europa.eu/resource/cellar/8ad534ce-db7d-4e9b-9fe5-e0ac9a14f21a.0018.03/DOC_1#E0029))
+    - Adita ANEXO II B [►M7](http://publications.europa.eu/resource/celex/32008R0213) ([^29^](http://publications.europa.eu/resource/cellar/8ad534ce-db7d-4e9b-9fe5-e0ac9a14f21a.0018.03/DOC_1#E0035))◄
+    - Adita AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^30^](http://publications.europa.eu/resource/cellar/8ad534ce-db7d-4e9b-9fe5-e0ac9a14f21a.0018.03/DOC_1#E0039))
+    - Adita LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^31^](http://publications.europa.eu/resource/cellar/8ad534ce-db7d-4e9b-9fe5-e0ac9a14f21a.0018.03/DOC_1#E0040))
+    - Adita REGISTOS ([^32^](http://publications.europa.eu/resource/cellar/8ad534ce-db7d-4e9b-9fe5-e0ac9a14f21a.0018.03/DOC_1#E0041))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^33^](http://publications.europa.eu/resource/cellar/8ad534ce-db7d-4e9b-9fe5-e0ac9a14f21a.0018.03/DOC_1#E0043))
+    - Suprime Artigo 77.º — Comité Consultivo
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^27^](http://publications.europa.eu/resource/cellar/362df90e-2108-4e78-9b21-42e4c7caa18f.0018.03/DOC_1#E0027))
+    - Suprime ANEXO II A ([^28^](http://publications.europa.eu/resource/cellar/362df90e-2108-4e78-9b21-42e4c7caa18f.0018.03/DOC_1#E0029))
+    - Suprime ANEXO II B [►M7](http://publications.europa.eu/resource/celex/32008R0213) ([^29^](http://publications.europa.eu/resource/cellar/362df90e-2108-4e78-9b21-42e4c7caa18f.0018.03/DOC_1#E0035))◄
+    - Suprime AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^30^](http://publications.europa.eu/resource/cellar/362df90e-2108-4e78-9b21-42e4c7caa18f.0018.03/DOC_1#E0039))
+    - Suprime LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^31^](http://publications.europa.eu/resource/cellar/362df90e-2108-4e78-9b21-42e4c7caa18f.0018.03/DOC_1#E0040))
+    - Suprime REGISTOS ([^32^](http://publications.europa.eu/resource/cellar/362df90e-2108-4e78-9b21-42e4c7caa18f.0018.03/DOC_1#E0041))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^33^](http://publications.europa.eu/resource/cellar/362df90e-2108-4e78-9b21-42e4c7caa18f.0018.03/DOC_1#E0043))
+  - date: '2009-08-21'
+    amending: eu:celex:32009L0081:por
+    amending_title: DIRECTIVA 2009/81/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 13 de
+      Julho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 45.º — Situação pessoal do candidato ou do proponente
+    - Altera Artigo 77.º — Procedimento de comité
+    - Altera Artigo 81.º — Mecanismo de acompanhamento
+    - Altera (Artigo 80.º)
+    - Altera Notas
+    - Adita Artigo 10.º — Contratos nos domínios da defesa e da segurança
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^28^](http://publications.europa.eu/resource/cellar/6496b053-f565-4de9-97cd-f74dc8db365d.0018.03/DOC_1#E0028))
+    - Adita ANEXO II A ([^29^](http://publications.europa.eu/resource/cellar/6496b053-f565-4de9-97cd-f74dc8db365d.0018.03/DOC_1#E0030))
+    - Adita ANEXO II B [►M7](http://publications.europa.eu/resource/celex/32008R0213) ([^30^](http://publications.europa.eu/resource/cellar/6496b053-f565-4de9-97cd-f74dc8db365d.0018.03/DOC_1#E0036))◄
+    - Adita AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^31^](http://publications.europa.eu/resource/cellar/6496b053-f565-4de9-97cd-f74dc8db365d.0018.03/DOC_1#E0040))
+    - Adita LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^32^](http://publications.europa.eu/resource/cellar/6496b053-f565-4de9-97cd-f74dc8db365d.0018.03/DOC_1#E0041))
+    - Adita REGISTOS ([^33^](http://publications.europa.eu/resource/cellar/6496b053-f565-4de9-97cd-f74dc8db365d.0018.03/DOC_1#E0042))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^34^](http://publications.europa.eu/resource/cellar/6496b053-f565-4de9-97cd-f74dc8db365d.0018.03/DOC_1#E0044))
+    - Suprime Artigo 10.º — Contratos no domínio da defesa
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^27^](http://publications.europa.eu/resource/cellar/8ad534ce-db7d-4e9b-9fe5-e0ac9a14f21a.0018.03/DOC_1#E0027))
+    - Suprime ANEXO II A ([^28^](http://publications.europa.eu/resource/cellar/8ad534ce-db7d-4e9b-9fe5-e0ac9a14f21a.0018.03/DOC_1#E0029))
+    - Suprime ANEXO II B [►M7](http://publications.europa.eu/resource/celex/32008R0213) ([^29^](http://publications.europa.eu/resource/cellar/8ad534ce-db7d-4e9b-9fe5-e0ac9a14f21a.0018.03/DOC_1#E0035))◄
+    - Suprime AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^30^](http://publications.europa.eu/resource/cellar/8ad534ce-db7d-4e9b-9fe5-e0ac9a14f21a.0018.03/DOC_1#E0039))
+    - Suprime LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^31^](http://publications.europa.eu/resource/cellar/8ad534ce-db7d-4e9b-9fe5-e0ac9a14f21a.0018.03/DOC_1#E0040))
+    - Suprime REGISTOS ([^32^](http://publications.europa.eu/resource/cellar/8ad534ce-db7d-4e9b-9fe5-e0ac9a14f21a.0018.03/DOC_1#E0041))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^33^](http://publications.europa.eu/resource/cellar/8ad534ce-db7d-4e9b-9fe5-e0ac9a14f21a.0018.03/DOC_1#E0043))
+  - date: '2010-01-01'
+    amending: eu:celex:32009R1177:por
+    amending_title: REGULAMENTO (CE) N. o 1177/2009 DA COMISSÃO de 30 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Montantes dos limiares para contratos públicos
+    - Altera Artigo 8.º — Contratos subsidiados em mais de 50% pelas entidades adjudicantes
+    - Altera Artigo 10.º — Contratos nos domínios da defesa e da segurança
+    - Altera Artigo 45.º — Situação pessoal do candidato ou do proponente
+    - Altera Artigo 56.º — Âmbito de aplicação
+    - 'Altera Artigo 63.º — Regras de publicidade: limiar e excepções'
+    - Altera Artigo 67.º — Âmbito de aplicação
+    - Altera Artigo 77.º — Procedimento de comité
+    - Altera Artigo 81.º — Mecanismo de acompanhamento
+    - Altera (Artigo 80.º)
+    - Altera Notas
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^28^](http://publications.europa.eu/resource/cellar/59e555e0-586e-458c-a142-c242613794ba.0018.03/DOC_1#E0028))
+    - Adita ANEXO II A ([^29^](http://publications.europa.eu/resource/cellar/59e555e0-586e-458c-a142-c242613794ba.0018.03/DOC_1#E0030))
+    - Adita ANEXO II B [►M7](http://publications.europa.eu/resource/celex/32008R0213) ([^30^](http://publications.europa.eu/resource/cellar/59e555e0-586e-458c-a142-c242613794ba.0018.03/DOC_1#E0036))◄
+    - Adita AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^31^](http://publications.europa.eu/resource/cellar/59e555e0-586e-458c-a142-c242613794ba.0018.03/DOC_1#E0040))
+    - Adita LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^32^](http://publications.europa.eu/resource/cellar/59e555e0-586e-458c-a142-c242613794ba.0018.03/DOC_1#E0041))
+    - Adita REGISTOS ([^33^](http://publications.europa.eu/resource/cellar/59e555e0-586e-458c-a142-c242613794ba.0018.03/DOC_1#E0042))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^34^](http://publications.europa.eu/resource/cellar/59e555e0-586e-458c-a142-c242613794ba.0018.03/DOC_1#E0044))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^28^](http://publications.europa.eu/resource/cellar/6496b053-f565-4de9-97cd-f74dc8db365d.0018.03/DOC_1#E0028))
+    - Suprime ANEXO II A ([^29^](http://publications.europa.eu/resource/cellar/6496b053-f565-4de9-97cd-f74dc8db365d.0018.03/DOC_1#E0030))
+    - Suprime ANEXO II B [►M7](http://publications.europa.eu/resource/celex/32008R0213) ([^30^](http://publications.europa.eu/resource/cellar/6496b053-f565-4de9-97cd-f74dc8db365d.0018.03/DOC_1#E0036))◄
+    - Suprime AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^31^](http://publications.europa.eu/resource/cellar/6496b053-f565-4de9-97cd-f74dc8db365d.0018.03/DOC_1#E0040))
+    - Suprime LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^32^](http://publications.europa.eu/resource/cellar/6496b053-f565-4de9-97cd-f74dc8db365d.0018.03/DOC_1#E0041))
+    - Suprime REGISTOS ([^33^](http://publications.europa.eu/resource/cellar/6496b053-f565-4de9-97cd-f74dc8db365d.0018.03/DOC_1#E0042))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^34^](http://publications.europa.eu/resource/cellar/6496b053-f565-4de9-97cd-f74dc8db365d.0018.03/DOC_1#E0044))
+  - date: '2012-01-01'
+    amending: eu:celex:32011R1251:por
+    amending_title: REGULAMENTO (UE) N. o 1251/2011 DA COMISSÃO de 30 de Novembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 7.º — Montantes dos limiares para contratos públicos
+    - Altera Artigo 8.º — Contratos subsidiados em mais de 50% pelas entidades adjudicantes
+    - Altera Artigo 10.º — Contratos nos domínios da defesa e da segurança
+    - Altera Artigo 45.º — Situação pessoal do candidato ou do proponente
+    - Altera Artigo 56.º — Âmbito de aplicação
+    - 'Altera Artigo 63.º — Regras de publicidade: limiar e excepções'
+    - Altera Artigo 67.º — Âmbito de aplicação
+    - Altera Artigo 77.º — Procedimento de comité
+    - Altera Artigo 81.º — Mecanismo de acompanhamento
+    - Altera (Artigo 80.º)
+    - Altera Notas
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^28^](http://publications.europa.eu/resource/cellar/b68f328c-a722-4e4d-ac62-6042f3806daf.0018.03/DOC_1#E0028))
+    - Adita ANEXO II A ([^29^](http://publications.europa.eu/resource/cellar/b68f328c-a722-4e4d-ac62-6042f3806daf.0018.03/DOC_1#E0030))
+    - Adita ANEXO II B [►M7](http://publications.europa.eu/resource/celex/32008R0213) ([^30^](http://publications.europa.eu/resource/cellar/b68f328c-a722-4e4d-ac62-6042f3806daf.0018.03/DOC_1#E0036))◄
+    - Adita AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^31^](http://publications.europa.eu/resource/cellar/b68f328c-a722-4e4d-ac62-6042f3806daf.0018.03/DOC_1#E0040))
+    - Adita LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^32^](http://publications.europa.eu/resource/cellar/b68f328c-a722-4e4d-ac62-6042f3806daf.0018.03/DOC_1#E0041))
+    - Adita REGISTOS ([^33^](http://publications.europa.eu/resource/cellar/b68f328c-a722-4e4d-ac62-6042f3806daf.0018.03/DOC_1#E0042))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^34^](http://publications.europa.eu/resource/cellar/b68f328c-a722-4e4d-ac62-6042f3806daf.0018.03/DOC_1#E0044))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^28^](http://publications.europa.eu/resource/cellar/59e555e0-586e-458c-a142-c242613794ba.0018.03/DOC_1#E0028))
+    - Suprime ANEXO II A ([^29^](http://publications.europa.eu/resource/cellar/59e555e0-586e-458c-a142-c242613794ba.0018.03/DOC_1#E0030))
+    - Suprime ANEXO II B [►M7](http://publications.europa.eu/resource/celex/32008R0213) ([^30^](http://publications.europa.eu/resource/cellar/59e555e0-586e-458c-a142-c242613794ba.0018.03/DOC_1#E0036))◄
+    - Suprime AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^31^](http://publications.europa.eu/resource/cellar/59e555e0-586e-458c-a142-c242613794ba.0018.03/DOC_1#E0040))
+    - Suprime LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^32^](http://publications.europa.eu/resource/cellar/59e555e0-586e-458c-a142-c242613794ba.0018.03/DOC_1#E0041))
+    - Suprime REGISTOS ([^33^](http://publications.europa.eu/resource/cellar/59e555e0-586e-458c-a142-c242613794ba.0018.03/DOC_1#E0042))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^34^](http://publications.europa.eu/resource/cellar/59e555e0-586e-458c-a142-c242613794ba.0018.03/DOC_1#E0044))
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0016:por
+    amending_title: DIRETIVA 2013/16/UE DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 10.º — Contratos nos domínios da defesa e da segurança
+    - Altera Artigo 45.º — Situação pessoal do candidato ou do proponente
+    - Altera Artigo 77.º — Procedimento de comité
+    - Altera Artigo 81.º — Mecanismo de acompanhamento
+    - Altera CONTRATOS DE EMPREITADA DE OBRAS PÚBLICAS
+    - Altera CONTRATOS PÚBLICOS DE FORNECIMENTO
+    - Altera CONTRATOS PÚBLICOS DE SERVIÇOS
+    - Altera (Artigo 80.º)
+    - Altera Notas
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^28^](http://publications.europa.eu/resource/cellar/3d3b0311-0c8d-4476-8f21-53f84d9d2f85.0018.03/DOC_1#E0028))
+    - Adita ANEXO II A ([^29^](http://publications.europa.eu/resource/cellar/3d3b0311-0c8d-4476-8f21-53f84d9d2f85.0018.03/DOC_1#E0030))
+    - Adita ANEXO II B [►M7](http://publications.europa.eu/resource/celex/32008R0213) ([^30^](http://publications.europa.eu/resource/cellar/3d3b0311-0c8d-4476-8f21-53f84d9d2f85.0018.03/DOC_1#E0036))◄
+    - Adita XI CROÁCIA
+    - Adita XII ITÁLIA
+    - Adita XIII CHIPRE
+    - Adita XIV LETÓNIA
+    - Adita XV LITUÂNIA
+    - Adita XVI LUXEMBURGO
+    - Adita XVII HUNGRIA
+    - Adita XVIII MALTA
+    - Adita XIX PAÍSES BAIXOS
+    - Adita XX ÁUSTRIA
+    - Adita XXI POLÓNIA
+    - Adita XXII PORTUGAL
+    - Adita XXIII ROMÉNIA
+    - Adita XXIV ESLOVÉNIA
+    - Adita XXV ESLOVÁQUIA
+    - Adita XXVI FINLÂNDIA
+    - Adita XXVII SUÉCIA
+    - Adita XXVIII REINO UNIDO
+    - Adita AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^31^](http://publications.europa.eu/resource/cellar/3d3b0311-0c8d-4476-8f21-53f84d9d2f85.0018.03/DOC_1#E0040))
+    - Adita CROÁCIA
+    - Adita LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^32^](http://publications.europa.eu/resource/cellar/3d3b0311-0c8d-4476-8f21-53f84d9d2f85.0018.03/DOC_1#E0041))
+    - Adita REGISTOS ([^33^](http://publications.europa.eu/resource/cellar/3d3b0311-0c8d-4476-8f21-53f84d9d2f85.0018.03/DOC_1#E0042))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^34^](http://publications.europa.eu/resource/cellar/3d3b0311-0c8d-4476-8f21-53f84d9d2f85.0018.03/DOC_1#E0044))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^28^](http://publications.europa.eu/resource/cellar/b68f328c-a722-4e4d-ac62-6042f3806daf.0018.03/DOC_1#E0028))
+    - Suprime ANEXO II A ([^29^](http://publications.europa.eu/resource/cellar/b68f328c-a722-4e4d-ac62-6042f3806daf.0018.03/DOC_1#E0030))
+    - Suprime ANEXO II B [►M7](http://publications.europa.eu/resource/celex/32008R0213) ([^30^](http://publications.europa.eu/resource/cellar/b68f328c-a722-4e4d-ac62-6042f3806daf.0018.03/DOC_1#E0036))◄
+    - Suprime XI ITÁLIA
+  - date: '2014-01-01'
+    amending: eu:celex:32013R1336:por
+    amending_title: REGULAMENTO (UE) N. o 1336/2013 DA COMISSÃO de 13 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Montantes dos limiares para contratos públicos
+    - Altera Artigo 8.º — Contratos subsidiados em mais de 50% pelas entidades adjudicantes
+    - Altera Artigo 10.º — Contratos nos domínios da defesa e da segurança
+    - Altera Artigo 45.º — Situação pessoal do candidato ou do proponente
+    - Altera Artigo 56.º — Âmbito de aplicação
+    - 'Altera Artigo 63.º — Regras de publicidade: limiar e excepções'
+    - Altera Artigo 67.º — Âmbito de aplicação
+    - Altera Artigo 77.º — Procedimento de comité
+    - Altera Artigo 81.º — Mecanismo de acompanhamento
+    - Altera (Artigo 80.º)
+    - Altera Notas
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^28^](http://publications.europa.eu/resource/cellar/01382211-8625-43f6-af48-628be423ea91.0018.02/DOC_1#E0028))
+    - Adita ANEXO II A ([^29^](http://publications.europa.eu/resource/cellar/01382211-8625-43f6-af48-628be423ea91.0018.02/DOC_1#E0030))
+    - Adita ANEXO II B [►M7](http://publications.europa.eu/resource/celex/32008R0213) ([^30^](http://publications.europa.eu/resource/cellar/01382211-8625-43f6-af48-628be423ea91.0018.02/DOC_1#E0036))◄
+    - Adita AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^31^](http://publications.europa.eu/resource/cellar/01382211-8625-43f6-af48-628be423ea91.0018.02/DOC_1#E0040))
+    - Adita LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^32^](http://publications.europa.eu/resource/cellar/01382211-8625-43f6-af48-628be423ea91.0018.02/DOC_1#E0041))
+    - Adita REGISTOS ([^33^](http://publications.europa.eu/resource/cellar/01382211-8625-43f6-af48-628be423ea91.0018.02/DOC_1#E0042))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^34^](http://publications.europa.eu/resource/cellar/01382211-8625-43f6-af48-628be423ea91.0018.02/DOC_1#E0044))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^28^](http://publications.europa.eu/resource/cellar/3d3b0311-0c8d-4476-8f21-53f84d9d2f85.0018.03/DOC_1#E0028))
+    - Suprime ANEXO II A ([^29^](http://publications.europa.eu/resource/cellar/3d3b0311-0c8d-4476-8f21-53f84d9d2f85.0018.03/DOC_1#E0030))
+    - Suprime ANEXO II B [►M7](http://publications.europa.eu/resource/celex/32008R0213) ([^30^](http://publications.europa.eu/resource/cellar/3d3b0311-0c8d-4476-8f21-53f84d9d2f85.0018.03/DOC_1#E0036))◄
+    - Suprime AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^31^](http://publications.europa.eu/resource/cellar/3d3b0311-0c8d-4476-8f21-53f84d9d2f85.0018.03/DOC_1#E0040))
+    - Suprime LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^32^](http://publications.europa.eu/resource/cellar/3d3b0311-0c8d-4476-8f21-53f84d9d2f85.0018.03/DOC_1#E0041))
+    - Suprime REGISTOS ([^33^](http://publications.europa.eu/resource/cellar/3d3b0311-0c8d-4476-8f21-53f84d9d2f85.0018.03/DOC_1#E0042))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^34^](http://publications.europa.eu/resource/cellar/3d3b0311-0c8d-4476-8f21-53f84d9d2f85.0018.03/DOC_1#E0044))
+  - date: '2016-01-01'
+    amending: eu:celex:32015R2342:por
+    amending_title: REGULAMENTO (UE) 2015/2342 DA COMISSÃO de 15 de dezembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Montantes dos limiares para contratos públicos
+    - Altera Artigo 8.º — Contratos subsidiados em mais de 50% pelas entidades adjudicantes
+    - Altera Artigo 10.º — Contratos nos domínios da defesa e da segurança
+    - Altera Artigo 45.º — Situação pessoal do candidato ou do proponente
+    - Altera Artigo 56.º — Âmbito de aplicação
+    - 'Altera Artigo 63.º — Regras de publicidade: limiar e excepções'
+    - Altera Artigo 67.º — Âmbito de aplicação
+    - Altera Artigo 77.º — Procedimento de comité
+    - Altera Artigo 81.º — Mecanismo de acompanhamento
+    - Altera (Artigo 80.º)
+    - Altera Notas
+    - Adita LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^28^](http://publications.europa.eu/resource/cellar/420a1350-a3df-45dc-b9bd-fdebb685c39c.0015.02/DOC_1#E0028))
+    - Adita ANEXO II A ([^29^](http://publications.europa.eu/resource/cellar/420a1350-a3df-45dc-b9bd-fdebb685c39c.0015.02/DOC_1#E0030))
+    - Adita ANEXO II B [►M7](http://publications.europa.eu/resource/celex/32008R0213) ([^30^](http://publications.europa.eu/resource/cellar/420a1350-a3df-45dc-b9bd-fdebb685c39c.0015.02/DOC_1#E0036))◄
+    - Adita AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^31^](http://publications.europa.eu/resource/cellar/420a1350-a3df-45dc-b9bd-fdebb685c39c.0015.02/DOC_1#E0040))
+    - Adita LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^32^](http://publications.europa.eu/resource/cellar/420a1350-a3df-45dc-b9bd-fdebb685c39c.0015.02/DOC_1#E0041))
+    - Adita REGISTOS ([^33^](http://publications.europa.eu/resource/cellar/420a1350-a3df-45dc-b9bd-fdebb685c39c.0015.02/DOC_1#E0042))
+    - Adita QUADRO DE CORRESPONDÊNCIA ([^34^](http://publications.europa.eu/resource/cellar/420a1350-a3df-45dc-b9bd-fdebb685c39c.0015.02/DOC_1#E0044))
+    - Suprime LISTA DAS ACTIVIDADES REFERIDAS NA ALÍNEA B) DO N.º 2 DO ARTIGO 1.º ([^28^](http://publications.europa.eu/resource/cellar/01382211-8625-43f6-af48-628be423ea91.0018.02/DOC_1#E0028))
+    - Suprime ANEXO II A ([^29^](http://publications.europa.eu/resource/cellar/01382211-8625-43f6-af48-628be423ea91.0018.02/DOC_1#E0030))
+    - Suprime ANEXO II B [►M7](http://publications.europa.eu/resource/celex/32008R0213) ([^30^](http://publications.europa.eu/resource/cellar/01382211-8625-43f6-af48-628be423ea91.0018.02/DOC_1#E0036))◄
+    - Suprime AUTORIDADES GOVERNAMENTAIS CENTRAIS ([^31^](http://publications.europa.eu/resource/cellar/01382211-8625-43f6-af48-628be423ea91.0018.02/DOC_1#E0040))
+    - Suprime LISTA DOS PRODUTOS A QUE SE REFERE O ARTIGO 7.º, RELATIVAMENTE AOS CONTRATOS CELEBRADOS PELAS ENTIDADES ADJUDICANTES
+      NO DOMÍNIO DA DEFESA ([^32^](http://publications.europa.eu/resource/cellar/01382211-8625-43f6-af48-628be423ea91.0018.02/DOC_1#E0041))
+    - Suprime REGISTOS ([^33^](http://publications.europa.eu/resource/cellar/01382211-8625-43f6-af48-628be423ea91.0018.02/DOC_1#E0042))
+    - Suprime QUADRO DE CORRESPONDÊNCIA ([^34^](http://publications.europa.eu/resource/cellar/01382211-8625-43f6-af48-628be423ea91.0018.02/DOC_1#E0044))
+  - date: '2016-04-18'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DEFINIÇÕES E PRINCÍPIOS GERAIS
+    - Suprime Artigo 1.º — Definições
+    - Suprime Artigo 2.º — Princípios de adjudicação dos contratos
+    - 'Suprime Artigo 3.º — Concessão de direitos especiais ou exclusivos: cláusula de não discriminação'
+    - Suprime TÍTULO II
+    - Suprime REGRAS APLICÁVEIS AOS CONTRATOS PÚBLICOS
+    - Suprime CAPÍTULO I
+    - Suprime Disposições gerais
+    - Suprime Artigo 4.º — Operadores económicos
+    - Suprime Artigo 5.º — Condições relativas aos acordos celebrados no âmbito da Organização Mundial do Comércio
+    - Suprime Artigo 6.º — Confidencialidade
+    - Suprime CAPÍTULO II
+    - Suprime Âmbito de aplicação
+    - Suprime Secção 1
+    - Suprime Limiares
+    - Suprime Artigo 7.º — Montantes dos limiares para contratos públicos
+    - Suprime Artigo 8.º — Contratos subsidiados em mais de 50% pelas entidades adjudicantes
+    - Suprime Artigo 9.º — Métodos de cálculo do valor estimado dos contratos públicos, dos acordos-quadro e dos sistemas
+      de aquisição dinâmicos
+    - Suprime Secção 2
+    - Suprime Situações específicas
+    - Suprime Artigo 10.º — Contratos nos domínios da defesa e da segurança
+    - Suprime Artigo 11.º — Contratos públicos e acordos-quadro celebrados por centrais de compras
+    - Suprime Secção 3
+    - Suprime Contratos excluídos
+    - Suprime Artigo 12.º — Contratos adjudicados nos sectores da água, da energia, dos transportes e dos serviços postais
+    - Suprime Artigo 13.º — Exclusões específicas no domínio das telecomunicações
+    - Suprime Artigo 14.º — Contratos secretos ou que exigem medidas de segurança especiais
+    - Suprime Artigo 15.º — Contratos adjudicados ao abrigo de regras internacionais
+    - Suprime Artigo 16.º — Exclusões específicas
+    - Suprime Artigo 17.º — Concessões de serviços
+    - Suprime Artigo 18.º — Contratos de serviços adjudicados com base num direito exclusivo
+    - Suprime Secção 4
+    - Suprime Regime especial
+    - Suprime Artigo 19.º — Contratos reservados
+    - Suprime CAPÍTULO III
+    - Suprime Regimes aplicáveis aos contratos públicos de serviços
+    - Suprime Artigo 20.º — Contratos de serviços enumerados no anexo II A
+    - Suprime Artigo 21.º — Contratos de serviços enumerados no anexo II B
 identifiers:
   celex: 32004L0018
   eli: http://data.europa.eu/eli/dir/2004/18/oj
@@ -50,7 +602,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/62c3ce1d-831c-4074-bba1-fbfdc28947cc.0010
   content_url: http://publications.europa.eu/resource/cellar/34bd37e5-05d5-44ad-95a1-db3e49622e89.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0018-20160418
-  retrieved_at: '2026-10-22T02:24:03Z'
+  retrieved_at: '2026-10-22T14:57:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-09-29T11:51:45.221+02:00'
 integrity:
@@ -59,9 +611,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:24:03Z'
-  notes: Texto consolidado 02004L0018-20160418.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:18Z'
+  notes: 16 versão(ões); histórico completo em diretiva-ue-2004-18.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -1089,16 +1641,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:24:03Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:57:18Z'
+  warnings: []
   errors: []
 ---
 

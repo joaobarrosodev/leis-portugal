@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0113:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0113-20100901",
+ "dre_path": null,
+ "source_lastmod": "2010-09-01",
+ "versions": [
+  {
+   "date": "2010-09-01",
+   "future": false,
+   "celex": "01993L0113-20100901",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70100b0bd29457df"
+   ]
+  }
+ ],
+ "fragments": {
+  "70100b0bd29457df": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993L0113 — PT — 01.09.2010 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993L0113) [DIRECTIVA 93/113/CE DO CONSELHO](http://publications.europa.eu/resource/celex/31993L0113) [de 14 de Dezembro de 1993](http://publications.europa.eu/resource/celex/31993L0113) [relativa à utilização e à comercialização das enzimas, dos microrganismos e dos seus preparados na alimentação para animais](http://publications.europa.eu/resource/celex/31993L0113) (JO L 334, 31.12.1993, p.17)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 767/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0767) — L 229 — 1 — 1.9.2009"
+  }
+ }
+}

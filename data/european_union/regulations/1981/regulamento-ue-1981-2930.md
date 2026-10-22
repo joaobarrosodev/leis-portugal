@@ -34,6 +34,23 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-02-10'
+version_history:
+  file: regulamento-ue-1981-2930.versoes.json
+  count: 2
+  source_lastmod: '2006-02-10'
+  versions:
+  - date: '1981-10-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-02-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime ANEXO
 identifiers:
   celex: 31981R2930
   eli: http://data.europa.eu/eli/reg/1981/2930/oj
@@ -48,7 +65,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1cd5be4c-7a96-4efa-ad15-393dc58cb788.0011
   content_url: http://publications.europa.eu/resource/cellar/4a3257d4-8b77-4ecc-b541-853f6263f68a.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01981R2930-20060210
-  retrieved_at: '2026-10-22T03:03:58Z'
+  retrieved_at: '2026-10-22T14:33:32Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T09:48:39.569+01:00'
 integrity:
@@ -57,9 +74,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:03:58Z'
-  notes: Texto consolidado 01981R2930-20060210.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:33:32Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1981-2930.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -99,16 +116,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:03:58Z'
+  checked_at: '2026-10-22T14:33:32Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01981R2930-19910730: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

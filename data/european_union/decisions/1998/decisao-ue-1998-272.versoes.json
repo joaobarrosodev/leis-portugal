@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998D0272:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998D0272-20010101",
+ "dre_path": null,
+ "source_lastmod": "2001-01-01",
+ "versions": [
+  {
+   "date": "1998-04-24",
+   "future": false,
+   "celex": "31998D0272",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1a50b5bb03e1defb",
+    "81e0c5e2ef227198",
+    "8ace3232b151dd23",
+    "f2ed3c585a8740b4",
+    "9985806adca944bf",
+    "b20d19afa964d52f",
+    "19b98240cb31e360",
+    "f107739250c80f01",
+    "c05cdd41ca599e76",
+    "bd26b0bda59f124a",
+    "5eea8a6044c347bb"
+   ]
+  }
+ ],
+ "fragments": {
+  "1a50b5bb03e1defb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**98/272/CE: Decisão da Comissão de 23 de Abril de 1998 relativa à vigilância epidemiológica das encefalopatias espongiformes transmissíveis e que altera a Decisão 94/474/CE (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 122 de 24/04/1998 p. 0059 - 0063*\n\nDECISÃO DA COMISSÃO de 23 de Abril de 1998 relativa à vigilância epidemiológica das encefalopatias espongiformes transmissíveis e que altera a Decisão 94/474/CE (Texto relevante para efeitos do EEE) (98/272/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 89/662/CEE, de 11 de Dezembro de 1989, relativa aos controlos veterinários aplicáveis ao comércio intracomunitário, na perspectiva da realização do mercado interno (1), com a última redacção que lhe foi dada pela Directiva 92/118/CEE (2), e, nomeadamente, o nº 4 do seu artigo 9º,\n\nTendo em conta a Directiva 90/425/CEE do Conselho, de 26 de Junho de 1990, relativa aos controlos veterinários e zootécnicos aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno (3), com a última redacção que lhe foi dada pela Directiva 92/118/CEE, e, nomeadamente, o nº 4 do seu artigo 10º,\n\n(1) Considerando que foram publicados no Reino Unido novos dados confirmativos da hipótese de que a exposição ao agente da encefalopatia espongiforme bovina (BSE) está associada à nova variante da doença de Creutzfeldt-Jakob (CJD) no ser humano; que, em 16 de Setembro de 1997, o Comité Consultivo da Encefalopatia Espongiforme (SEAC) do Reino Unido concluiu que a investigação mais recente gerou novos dados fortemente sugestivos de que o agente causador da BSE é idêntico ao agente causador da nova variante de CJD no ser humano; que, em 18 de Setembro de 1997, o Comité Consultivo dos Agentes Patogénicos Perigosos (ACDP) concluiu que o agente da BSE deve passar a ser classificado como agente patogénico humano; que, nos termos da Directiva 90/425/CEE, o Estado-membro de origem ou de expedição deve aplicar no seu território as medidas adequadas para evitar quaisquer situações que possam constituir um risco grave para a saúde humana e a sanidade animal;\n\n(2) Considerando que, desde 1990, nos termos da Directiva 82/894/CEE do Conselho (4), com a última redacção que lhe foi dada pela Decisão 98/12/CE da Comissão (5), os Estados-membros devem notificar à Comissão e aos restantes Estados-membros todos os casos de BSE;\n\n(3) Considerando que, desde 1993, nos termos da Directiva 91/68/CEE (6), com a última redacção que lhe foi dada pela Decisão 94/953/CE da Comissão (7), o tremor epizoótico dos ovinos é uma doença de notificação obrigatória em todos Estados-membros;\n\n(4) Considerando que o Comité Científico Veterinário declarou, com base na avaliação de risco a que procedeu, que vários Estados-membros, incluindo o Reino Unido, notificaram casos de tremor epizoótico em ovinos nativos; que se não pode excluir a existência de tremor epizoótico dos ovinos em nenhum Estado-membro com ovinos e que só um estudo epidemiológico aprofundado, efectuado de acordo com normas comuns, poderá fornecer os dados necessários sobre a situação de cada país em termos de tremor epizoótico dos ovinos;\n\n(5) Considerando que, em 1996 e em 1997, forma efectuadas inspecções nos Estados-membros para verificar a aplicação das medidas comunitárias relativas à BSE; que os resultados de tais inspecções revelaram algumas deficiências, designadamente no domínio da vigilância e aplicação da proibição de proteínas de mamíferos nos alimentos para ruminantes;\n\n(6) Considerando que, dadas as trocas comerciais prévias de determinados produtos, nomeadamente de farinhas de carne e ossos e de animais vivos, não pode ser excluída a presença de agentes das encefalopatias espongiformes transmissíveis em nenhum dos Estados-membros, enquanto se não encontrarem disponíveis os resultados de estudos científicos complementares;\n\n(7) Considerando que o Gabinete Internacional de Epizootias (OIE) recomendou, no seu Código Zoossanitário Internacional sobre a encefalopatia espongiforme bovina de Maio de 1997, requisitos mínimos com vista a uma vigilância eficaz; que o OIE adoptou directrizes sobre a vigilância contínua e monitorização da encefalopatia espongiforme bovina no seu Código de Janeiro de 1997;\n\n(8) Considerando que o Comité Científico Veterinário, no seu relatório sobre a vigilância das encefalopatias espongiformes transmissíveis, de 11 de Junho de 1997, estabeleceu directrizes tomando em consideração as recomendações do OIE;\n\n(9) Considerando que as medidas previstas na presente decisão estão em conformidade com o referido parecer e se configuram como um quadro integrado no que respeita à vigilância das encefalopatias espongiformes transmissíveis nos Estados-membros; que serão estatuídas em acto legislativo do Conselho fundado no artigo 100ºA do Tratado normas mais detalhadas;\n\n(10) Considerando que as medidas previstas nesta decisão serão aplicadas em conjugação com a Decisão 97/534/CE da Comissão, de 30 de Julho de 1997, relativa à proibição de utilização de materiais de risco no que diz respeito às encefalopatias espongiformes transmissíveis (8), com a última redacção que lhe foi dada pela Decisão 98/248/CE do Conselho (9);\n\n(11) Considerando que os testes requeridos no que respeita aos bovinos em que a inspecção ante mortem nos matadouros conduza à suspeita de BSE foram estabelecidos na Decisão 94/474/CE (10), com a última redacção que lhe foi dada pela Decisão 98/256/CE do Conselho (11); que estas disposições passam agora a ser estatuídas na presente decisão; que devem, portanto, ser suprimidas as disposições correspondentes da Decisão 94/474/CEE;\n\n(12) Considerando que as medidas previstas na presente decisão estão em conformidade com o parecer do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "81e0c5e2ef227198": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nOs Estados-membros devem assegurar que o pessoal da autoridade competente, dos laboratórios de diagnóstico e dos estabelecimentos de ensino de Agronomia e de Medicina Veterinária, os veterinários oficiais, os clínicos veterinários, o pessoal dos matadouros e os criadores e detentores de animais tenham conhecimento dos sinais clínicos, da epidemiologia, e, se adequado, dos dados laboratoriais das encefalopatias espongiformes transmissíveis."
+  },
+  "8ace3232b151dd23": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os Estados-membros devem assegurar a obrigatoriedade da notificação imediata à autoridade veterinária competente da suspeita de qualquer tipo de encefalopatia espongiforme transmissível em qualquer animal.\n\n2. Os bovinos com mais de 20 meses de idade e com sinais comportamentais ou neurológicos em que não seja possível excluir a doença com base quer na resposta ao tratamento quer em exames laboratoriais, serão suspeitos de BSE.\n\n3. Os ovinos e caprinos com mais de 12 meses de idade e com sinais comportamentais ou neurológicos em que não seja possível excluir a doença com base quer na resposta ao tratamento quer em exames laboratoriais, serão suspeitos de tremor epizoótico."
+  },
+  "f2ed3c585a8740b4": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Todos os animais com sinais clínicos sugestivos de encefalopatia espongiforme transmissível devem ser sujeitos à restrição oficial de novas deslocações na pendência dos resultados de um estudo clínico e epidemiológico efectuado pela autoridade competente.\n\n2. Se a autoridade competente concluir não ser possível excluir a possibilidade de encefalopatia espongiforme transmissível, o animal deve ser abatido e o seu cérebro e outros tecidos eventualmente requeridos pela autoridade competente devem ser removidos e enviados para um laboratório aprovado para a detecção de encefalopatias espongiformes transmissíveis que utilize os métodos estabelecidos no artigo 5º A carcaça e os restantes órgãos internos do animal devem ser conservados sob controlo oficial até que o diagnóstico tenha sido efectuado ou até que tenham sido destruídos em conformidade com o artigo 4º da Decisão 97/534/CE."
+  },
+  "9985806adca944bf": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Para que possam alertar rapidamente em relação à aparição ou à ocorrência de casos de BSE e de tremor epizoótico dos ovinos, todos os Estados-membros devem levar a cabo um programa anual de controlo nos termos constantes do anexo.\n\n2. Os Estados-membros devem comunicar à Comissão e aos restantes Estados-membros, no âmbito do Comité Veterinário Permanente, os resultados obtidos com o programa de controlo, bem como casos de outras encefalopatias espongiformes transmissíveis. Estes dados devem ser apresentados num relatório anual, o qual deve ser enviado à Comissão no prazo de três meses após o fim de cada ano. O relatório deve incluir pelo menos os dados referidos no anexo."
+  },
+  "b20d19afa964d52f": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. A amostragem e os ensaios laboratoriais com vista à detecção de encefalopatias espongiformes transmissíveis devem efectuar-se de acordo com os métodos e protocolos constantes da edição de Maio de 1997 do Manual de normas aplicáveis aos testes para diagnóstico e às vacinas do Gabinete Internacional de Epizootias. Os testes efectuados devem envolver pelo menos o exame histopatológico de tecido cerebral. A autoridade competente pode igualmente exigir outros testes laboratoriais, como testes imunocitoquímicos e de imunodiagnóstico para a detecção de fibrilhas associadas ao tremor epizoótico dos ovinos (SAFs), se tal for considerado adequado.\n\n2. A autoridade competente deve assegurar a cordenação dos métodos e protocolos de diagnóstico entre os laboratórios aprovados para a execução de testes de detecção de encefalopatias espongiformes transmissíveis e verificar o emprego de tais métodos e protocolos de diagnóstico."
+  },
+  "19b98240cb31e360": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nPodem ser efectuadas inspecções comunitárias, designadamente caso o relatório anual não seja apresentado em conformidade com o disposto no nº 2 do artigo 4º"
+  },
+  "f107739250c80f01": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nÉ suprimido o artigo 2º da Decisão 94/474/CE."
+  },
+  "c05cdd41ca599e76": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nA presente decisão é aplicável a partir de 1 de Maio de 1998."
+  },
+  "bd26b0bda59f124a": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nOs Estados-membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 23 de Abril de 1998.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO L 395 de 30. 12. 1989, p. 13.\n\n(2) JO L 62 de 15. 3. 1993, p. 49.\n\n(3) JO L 224 de 18. 8. 1990, p. 29.\n\n(4) JO L 378 de 31. 12. 1982, p. 58.\n\n(5) JO L 4 de 8. 1. 1998, p. 63.\n\n(6) JO L 46 de 19. 2. 1991, p. 19.\n\n(7) JO L 371 de 31. 12. 1994, p. 14.\n\n(8) JO L 216 de 8. 8. 1997, p. 95.\n\n(9) JO L 102 de 2. 4. 1998, p. 26.\n\n(10) JO L 194 de 29. 7. 1994, p. 96.\n\n(11) JO L 113 de 15. 4. 1998, p. 32."
+  },
+  "5eea8a6044c347bb": {
+   "fragment_id": "ANEXO — A. REQUISITOS MÍNIMOS DE UM PROGRAMA DE MONITORIZAÇÃO DA BSE E DO TREMOR EPIZOÓTICO DOS OVINOS",
+   "type": "divisao",
+   "heading": "ANEXO — A. REQUISITOS MÍNIMOS DE UM PROGRAMA DE MONITORIZAÇÃO DA BSE E DO TREMOR EPIZOÓTICO DOS OVINOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — A. REQUISITOS MÍNIMOS DE UM PROGRAMA DE MONITORIZAÇÃO DA BSE E DO TREMOR EPIZOÓTICO DOS OVINOS\n\nSelecção da subpopulação\n\nSelecção através da avaliação de risco de subpopulações de animais nativos com sinais clínicos compatíveis com encefalopatia espongiforme transmissível, e, por ordem decrescente de importância, de animais de maior risco. A selecção deve ser aleatória dentro de cada subpopulação e grupo etário.\n\n1. Os critérios para a selecção de animais nativos com sinais clínicos compatíveis com encefalopatia espongiforme transmissível são os seguintes:\n\n- animais com sinais comportamentais ou neurológicos desde há pelo menos 15 dias, resistentes ao tratamento,\n\n- animais moribundos, sem sinais de doença traumática ou outra doença infecciosa,\n\n- animais com sinais de outras doenças progressivas.\n\n2. Para a selecção dos animais de maior risco serão tomados em consideração os riscos seguintes:\n\n- animais provenientes de países com encefalopatias espongiformes transmissíveis nativas,\n\n- animais que tenham consumido alimentos para animais potencialmente contaminados,\n\n- animais nascidos ou derivados de um ou mais progenitores infectados com uma encefaloptia espongiforme transmissível.\n\nEspécie animal e tipo de encefalopatia espongiforme transmissível\n\n1. Nos bovinos, exames de detecção da BSE.\n\n2. Nos ovinos e caprinos, exames de detecção do tremor epizoótico dos ovinos.\n\nIdade dos animais abrangidos\n\nA amostra deve provir dos animais mais velhos da subpopulação. No entanto, todos os bovinos abrangidos devem ter mais de 20 meses de idade e todos os ovinos e caprinos abrangidos devem ter mais de 12 meses de idade. Os bovinos com doenças progressivas e sem sinais neurológicos devem ter mais de quatro anos de idade.\n\nDimensão da amostra\n\nO número mínimo de animais a examinar anualmente deve observar as dimensões das amostras indicadas no quadro para animais pertencentes a subpopulações de animais nativos com sinais clínicos compatíveis com encefalopatia espongiforme transmissível. Os animais em que a infecção da BSE não possa ser excluída e que consequentemente tenham de ser examinados ao abrigo do artigo 3º podem ser incluídos nas dimensões mínimas das amostras.\n\nAs amostras provenientes de subpopulações de animais de maior risco devem ser obtidas na altura em que os animais são abatidos ou mortos.\n\n>POSIÇÃO NUMA TABELA>\n\nB. RELATÓRIO ANUAL\n\nO relatório anual deve incluir os seguintes dados:\n\n1. Número total de animais e estrutura etária examinada dentro dos vários grupos das respectivas populações de bovinos, ovinos e caprinos, categorizados de acordo com critérios epidemiológicos;\n\n2. Mortalidade total e mortalidade por doenças neurológicas para cada espécie animal;\n\n3. A autoridade competente deve manter um registo do número e tipo de animais ou carcaças sujeitos a restrições de novas deslocações, em conformidade com o disposto no artigo 3º;\n\n4. Número e resultados das investigações clínicas e epidemiológicas efectuadas em conformidade com o disposto no artigo 3º e conservação de tais registos durante sete anos;\n\n5. Dados complementares sobre as encefalopatias espongiformes transmissíveis em animais de espécies que não a bovina, ovina ou caprina.\n\n6. Dados relativos à formação relativa ao conhecimento referido no artigo 1º"
+  }
+ }
+}

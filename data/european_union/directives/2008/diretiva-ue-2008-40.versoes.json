@@ -1,0 +1,198 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008L0040:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0040-20110614",
+ "dre_path": null,
+ "source_lastmod": "2011-06-14",
+ "versions": [
+  {
+   "date": "2008-03-29",
+   "future": false,
+   "celex": "32008L0040",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cda0a6a69b13772d",
+    "23ff42845a23918b",
+    "f5e7e3acb6426485",
+    "53e88c578abe4f00",
+    "495817e2af7d84a3",
+    "1fd62da70acbfcfa",
+    "5fd82a6e9ec37bfd"
+   ]
+  },
+  {
+   "date": "2008-10-11",
+   "future": false,
+   "celex": "02008L0040-20081011",
+   "acts": [
+    {
+     "id": "eu:celex:32008D0791:por",
+     "title": "DECISÃO DA COMISSÃO de 10 de Outubro de 2008",
+     "published": null,
+     "celex": "32008D0791"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Notas",
+    "Adita ANEXO"
+   ],
+   "fragments": [
+    "612580640bede4be",
+    "23ff42845a23918b",
+    "752e72a2a4e5e9d1",
+    "fa195e6a3d989628",
+    "cf1fb1ae0131d5bd",
+    "c2768784123201be",
+    "822bdfd6726da026",
+    "02261cb80230ffa3"
+   ]
+  },
+  {
+   "date": "2011-06-14",
+   "future": false,
+   "celex": "02008L0040-20110614",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "d2584b476318f9db"
+   ]
+  }
+ ],
+ "fragments": {
+  "cda0a6a69b13772d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Março de 2008\n\nque altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir as substâncias activas amidossulfurão e nicossulfurão\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado [([^1])](http://publications.europa.eu/resource/cellar/cf2c52d5-b346-48cc-9d16-508151afda34.0018.02/DOC_1#ntr1-L_2008087PT.01000501-E0001), nomeadamente o n.º 1 do artigo 6.º,\n\nConsiderando o seguinte:\n\n(1) Os Regulamentos (CE) n.º 451/2000 [([^2])](http://publications.europa.eu/resource/cellar/cf2c52d5-b346-48cc-9d16-508151afda34.0018.02/DOC_1#ntr2-L_2008087PT.01000501-E0002) e (CE) n.º 1490/2002 [([^3])](http://publications.europa.eu/resource/cellar/cf2c52d5-b346-48cc-9d16-508151afda34.0018.02/DOC_1#ntr3-L_2008087PT.01000501-E0003) da Comissão estabelecem normas de execução para a terceira fase do programa de trabalho referido no n.º 2 do artigo 8.º da Directiva 91/414/CEE e estabelecem uma lista de substâncias activas a avaliar, com vista à possível inclusão das mesmas no anexo I da Directiva 91/414/CEE. Essa lista inclui o amidossulfurão e o nicossulfurão.\n\n(2) Os efeitos destas substâncias activas na saúde humana e no ambiente foram avaliados em conformidade com o disposto nos Regulamentos (CE) n.º 451/2000 e (CE) n.º 1490/2002 no que respeita a uma certa gama de utilizações, proposta pelos notificadores. Por outro lado, estes regulamentos designam os Estados-Membros relatores que devem apresentar os respectivos relatórios de avaliação e recomendações à Autoridade Europeia para a Segurança dos Alimentos (AESA), em conformidade com o n.º 1 do artigo 10.º do Regulamento (CE) n.º 1490/2002. No que diz respeito ao amidossulfurão e ao nicossulfurão, foram designados Estados-Membros relatores a Áustria e o Reino Unido, tendo todas as informações pertinentes sido apresentadas em 31 de Maio de 2005 e 7 de Dezembro de 2005, respectivamente.\n\n(3) Os relatórios de avaliação foram revistos por peritos avaliadores dos Estados-Membros e da AESA e foram apresentados à Comissão em 22 de Janeiro de 2007, no que se refere ao amidossulfurão e ao nicossulfurão, no formato de relatórios científicos da AESA [([^4])](http://publications.europa.eu/resource/cellar/cf2c52d5-b346-48cc-9d16-508151afda34.0018.02/DOC_1#ntr4-L_2008087PT.01000501-E0004). Estes relatórios foram revistos pelos Estados-Membros e pela Comissão no âmbito do Comité Permanente da Cadeia Alimentar e da Saúde Animal e concluídos, em 22 de Janeiro de 2008, no formato de relatórios de revisão da Comissão sobre o amidossulfurão e o nicossulfurão.\n\n(4) As avaliações efectuadas permitiram concluir poder presumir-se que os produtos fitofarmacêuticos que contêm amidossulfurão e nicossulfurão satisfazem, em geral, as condições definidas nas alíneas a) e b) do n.º 1 do artigo 5.º da Directiva 91/414/CEE, designadamente no que respeita às utilizações examinadas e detalhadas nos relatórios de avaliação da Comissão. É, portanto, adequado incluir as substâncias activas em causa no anexo I, para assegurar que, em cada Estado-Membro, as autorizações de produtos fitofarmacêuticos que as contenham possam ser concedidas em conformidade com a referida directiva.\n\n(5) Deve prever-se um prazo razoável antes da inclusão de uma substância activa no anexo I para que os Estados-Membros e as partes interessadas possam preparar-se para cumprir os novos requisitos daí resultantes.\n\n(6) Sem prejuízo das obrigações definidas pela Directiva 91/414/CEE em consequência da inclusão de uma substância activa no anexo I, os Estados-Membros devem dispor de um período de seis meses após a inclusão para rever as autorizações existentes de produtos fitofarmacêuticos que contenham amidossulfurão e nicossulfurão, a fim de garantir o respeito das exigências previstas na Directiva 91/414/CEE, nomeadamente no artigo 13.º, e as condições aplicáveis estabelecidas no anexo I. Os Estados-Membros devem alterar, substituir ou retirar, consoante o caso, as autorizações existentes, em conformidade com o disposto na Directiva 91/414/CEE. Em derrogação ao prazo mencionado, deve ser previsto um período mais longo para a apresentação e avaliação do processo completo, previsto no anexo III, de cada produto fitofarmacêutico para cada utilização prevista, em conformidade com os princípios uniformes enunciados na Directiva 91/414/CEE.\n\n(7) A experiência adquirida com anteriores inclusões no anexo I da Directiva 91/414/CEE de substâncias activas avaliadas no âmbito do Regulamento (CEE) n.º 3600/92 da Comissão [([^5])](http://publications.europa.eu/resource/cellar/cf2c52d5-b346-48cc-9d16-508151afda34.0018.02/DOC_1#ntr5-L_2008087PT.01000501-E0005) mostrou que podem surgir dificuldades com a interpretação das obrigações dos titulares das autorizações existentes no que respeita ao acesso aos dados. Assim, para evitar mais dificuldades, importa clarificar as obrigações dos Estados-Membros, especialmente a de verificar se o titular de uma autorização demonstra ter acesso a um processo que satisfaz as exigências do anexo II daquela directiva. Contudo, esta clarificação não impõe, nem aos Estados-Membros nem aos titulares de autorizações, mais obrigações do que as previstas nas directivas adoptadas até agora que alteram o anexo I.\n\n(8) Por conseguinte, a Directiva 91/414/CEE deve ser alterada em conformidade.\n\n(9) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "23ff42845a23918b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 91/414/CEE é alterado em conformidade com o anexo da presente directiva."
+  },
+  "f5e7e3acb6426485": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros devem adoptar e publicar, o mais tardar em 30 de Abril de 2009, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Os Estados-Membros devem comunicar imediatamente à Comissão o texto das referidas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nOs Estados-Membros devem aplicar essas disposições a partir de 1 de Maio de 2009.\n\nSempre que os Estados-Membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência incumbem aos Estados-Membros."
+  },
+  "53e88c578abe4f00": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Em conformidade com a Directiva 91/414/CEE, os Estados-Membros devem alterar ou retirar, se necessário, até 30 de Abril de 2009, as autorizações existentes de produtos fitofarmacêuticos que contenham as substâncias activas amidossulfurão e nicossulfurão.\n\nAté essa data, devem verificar, em especial, o cumprimento das condições do anexo I dessa directiva respeitantes ao amidossulfurão e nicossulfurão, com excepção das identificadas na parte B da entrada relativa a essas substâncias activas, e que o titular da autorização detém ou tem acesso a um processo que cumpra os requisitos do anexo II da directiva, em conformidade com as condições do artigo 13.º da mesma.\n\n2. Em derrogação ao n.º 1, os Estados-Membros devem reavaliar cada produto fitofarmacêutico autorizado que contenha amidossulfurão e nicossulfurão como única substância activa ou acompanhada de outras substâncias activas, todas elas incluídas no anexo I da Directiva 91/414/CEE, o mais tardar até 31 de Outubro de 2008, em conformidade com os princípios uniformes estabelecidos no anexo VI da Directiva 91/414/CEE, com base num processo que cumpra as exigências do anexo III da mesma directiva e tendo em conta a parte B da entrada do seu anexo I relativa, respectivamente, ao amidossulfurão e ao nicossulfurão. Com base nessa avaliação, os Estados-Membros devem determinar se o produto satisfaz as condições estabelecidas nas alíneas b), c), d) e e) do n.º 1 do artigo 4.º da Directiva 91/414/CEE.\n\nNa sequência dessa determinação, os Estados-Membros devem:\n\na) No caso de um produto que contenha amidossulfurão ou nicossulfurão como única substância activa, alterar ou retirar a autorização, se necessário, o mais tardar até 31 de Outubro de 2012; ou\n\nb) No caso de um produto que contenha amidossulfurão ou nicossulfurão acompanhado de outras substâncias activas, alterar ou retirar a autorização, se necessário, o mais tardar até 31 de Outubro de 2012 ou até à data fixada para essa alteração ou retirada na respectiva directiva ou directivas que acrescentaram a substância ou as substâncias relevantes ao anexo I da Directiva 91/414/CEE, caso esta última data seja posterior."
+  },
+  "495817e2af7d84a3": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor em 1 de Novembro de 2008."
+  },
+  "1fd62da70acbfcfa": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 28 de Março de 2008.\n\n***Pela Comissão***\n\n**Androulla VASSILIOU**\n\n***Membro da Comissão***\n\n---"
+  },
+  "5fd82a6e9ec37bfd": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/cf2c52d5-b346-48cc-9d16-508151afda34.0018.02/DOC_1#ntc1-L_2008087PT.01000501-E0001) [JO L 230 de 19.8.1991, p. 1](http://publications.europa.eu/resource/oj/JOL_1991_230_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2007/76/CE da Comissão ([JO L 337 de 21.12.2007, p. 100](http://publications.europa.eu/resource/oj/JOL_2007_337_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/cf2c52d5-b346-48cc-9d16-508151afda34.0018.02/DOC_1#ntc2-L_2008087PT.01000501-E0002) [JO L 55 de 29.2.2000, p. 25](http://publications.europa.eu/resource/oj/JOL_2000_055_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1044/2003 ([JO L 151 de 19.6.2003, p. 32](http://publications.europa.eu/resource/oj/JOL_2003_151_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/cf2c52d5-b346-48cc-9d16-508151afda34.0018.02/DOC_1#ntc3-L_2008087PT.01000501-E0003) [JO L 224 de 21.8.2002, p. 23](http://publications.europa.eu/resource/oj/JOL_2002_224_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1095/2007 ([JO L 246 de 21.9.2007, p. 19](http://publications.europa.eu/resource/oj/JOL_2007_246_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/cf2c52d5-b346-48cc-9d16-508151afda34.0018.02/DOC_1#ntc4-L_2008087PT.01000501-E0004) EFSA Scientific Report (2007) 116, 1-86, *Conclusion regarding the peer review of the pesticide risk assessment of the active substance amidosulfuron* (Relatório científico da AESA: Conclusões da revisão dos peritos avaliadores sobre a avaliação dos riscos de pesticidas da substância activa amidossulfurão) (concluído em 14 de Novembro de 2007).\n\n> EFSA Scientific Report (2007) 120, 1-91, *Conclusion regarding the peer review of the pesticide risk assessment of the active substance nicosulfuron* (Relatório científico da AESA: Conclusões da revisão dos peritos avaliadores sobre a avaliação dos riscos de pesticidas da substância activa nicossulfurão) (concluído em 29 de Novembro de 2007).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/cf2c52d5-b346-48cc-9d16-508151afda34.0018.02/DOC_1#ntc5-L_2008087PT.01000501-E0005) [JO L 366 de 15.12.1992, p. 10](http://publications.europa.eu/resource/oj/JOL_1992_366_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2266/2000 ([JO L 259 de 13.10.2000, p. 27](http://publications.europa.eu/resource/oj/JOL_2000_259_R_TOC))."
+  },
+  "612580640bede4be": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Março de 2008\n\nque altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir as substâncias activas amidossulfurão e nicossulfurão\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado ([^1^](http://publications.europa.eu/resource/cellar/6ce57c68-8ff8-47f1-a5f9-259c8d55863d.0018.03/DOC_1#E0001)), nomeadamente o n.º 1 do artigo 6.º,\n\n(1) Os Regulamentos (CE) n.º 451/2000 ([^2^](http://publications.europa.eu/resource/cellar/6ce57c68-8ff8-47f1-a5f9-259c8d55863d.0018.03/DOC_1#E0002)) e (CE) n.º 1490/2002 ([^3^](http://publications.europa.eu/resource/cellar/6ce57c68-8ff8-47f1-a5f9-259c8d55863d.0018.03/DOC_1#E0003)) da Comissão estabelecem normas de execução para a terceira fase do programa de trabalho referido no n.º 2 do artigo 8.º da Directiva 91/414/CEE e estabelecem uma lista de substâncias activas a avaliar, com vista à possível inclusão das mesmas no anexo I da Directiva 91/414/CEE. Essa lista inclui o amidossulfurão e o nicossulfurão.\n\n(2) Os efeitos destas substâncias activas na saúde humana e no ambiente foram avaliados em conformidade com o disposto nos Regulamentos (CE) n.º 451/2000 e (CE) n.º 1490/2002 no que respeita a uma certa gama de utilizações, proposta pelos notificadores. Por outro lado, estes regulamentos designam os Estados-Membros relatores que devem apresentar os respectivos relatórios de avaliação e recomendações à Autoridade Europeia para a Segurança dos Alimentos (AESA), em conformidade com o n.º 1 do artigo 10.º do Regulamento (CE) n.º 1490/2002. No que diz respeito ao amidossulfurão e ao nicossulfurão, foram designados Estados-Membros relatores a Áustria e o Reino Unido, tendo todas as informações pertinentes sido apresentadas em 31 de Maio de 2005 e 7 de Dezembro de 2005, respectivamente.\n\n(3) Os relatórios de avaliação foram revistos por peritos avaliadores dos Estados-Membros e da AESA e foram apresentados à Comissão em 22 de Janeiro de 2007, no que se refere ao amidossulfurão e ao nicossulfurão, no formato de relatórios científicos da AESA ([^4^](http://publications.europa.eu/resource/cellar/6ce57c68-8ff8-47f1-a5f9-259c8d55863d.0018.03/DOC_1#E0004)). Estes relatórios foram revistos pelos Estados-Membros e pela Comissão no âmbito do Comité Permanente da Cadeia Alimentar e da Saúde Animal e concluídos, em 22 de Janeiro de 2008, no formato de relatórios de revisão da Comissão sobre o amidossulfurão e o nicossulfurão.\n\n(4) As avaliações efectuadas permitiram concluir poder presumir-se que os produtos fitofarmacêuticos que contêm amidossulfurão e nicossulfurão satisfazem, em geral, as condições definidas nas alíneas a) e b) do n.º 1 do artigo 5.º da Directiva 91/414/CEE, designadamente no que respeita às utilizações examinadas e detalhadas nos relatórios de avaliação da Comissão. É, portanto, adequado incluir as substâncias activas em causa no anexo I, para assegurar que, em cada Estado-Membro, as autorizações de produtos fitofarmacêuticos que as contenham possam ser concedidas em conformidade com a referida directiva.\n\n(5) Deve prever-se um prazo razoável antes da inclusão de uma substância activa no anexo I para que os Estados-Membros e as partes interessadas possam preparar-se para cumprir os novos requisitos daí resultantes.\n\n(6) Sem prejuízo das obrigações definidas pela Directiva 91/414/CEE em consequência da inclusão de uma substância activa no anexo I, os Estados-Membros devem dispor de um período de seis meses após a inclusão para rever as autorizações existentes de produtos fitofarmacêuticos que contenham amidossulfurão e nicossulfurão, a fim de garantir o respeito das exigências previstas na Directiva 91/414/CEE, nomeadamente no artigo 13.º, e as condições aplicáveis estabelecidas no anexo I. Os Estados-Membros devem alterar, substituir ou retirar, consoante o caso, as autorizações existentes, em conformidade com o disposto na Directiva 91/414/CEE. Em derrogação ao prazo mencionado, deve ser previsto um período mais longo para a apresentação e avaliação do processo completo, previsto no anexo III, de cada produto fitofarmacêutico para cada utilização prevista, em conformidade com os princípios uniformes enunciados na Directiva 91/414/CEE.\n\n(7) A experiência adquirida com anteriores inclusões no anexo I da Directiva 91/414/CEE de substâncias activas avaliadas no âmbito do Regulamento (CEE) n.º 3600/92 da Comissão ([^5^](http://publications.europa.eu/resource/cellar/6ce57c68-8ff8-47f1-a5f9-259c8d55863d.0018.03/DOC_1#E0005)) mostrou que podem surgir dificuldades com a interpretação das obrigações dos titulares das autorizações existentes no que respeita ao acesso aos dados. Assim, para evitar mais dificuldades, importa clarificar as obrigações dos Estados-Membros, especialmente a de verificar se o titular de uma autorização demonstra ter acesso a um processo que satisfaz as exigências do anexo II daquela directiva. Contudo, esta clarificação não impõe, nem aos Estados-Membros nem aos titulares de autorizações, mais obrigações do que as previstas nas directivas adoptadas até agora que alteram o anexo I.\n\n(8) Por conseguinte, a Directiva 91/414/CEE deve ser alterada em conformidade.\n\n(9) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "752e72a2a4e5e9d1": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros devem adoptar e publicar, o mais tardar em [**►M1**](http://publications.europa.eu/resource/celex/32008D0791) 30 de Junho de 2009**◄**, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Os Estados-Membros devem comunicar imediatamente à Comissão o texto das referidas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nOs Estados-Membros devem aplicar essas disposições a partir de [**►M1**](http://publications.europa.eu/resource/celex/32008D0791) 1 de Julho de 2009**◄**.\n\nSempre que os Estados-Membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência incumbem aos Estados-Membros."
+  },
+  "fa195e6a3d989628": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Em conformidade com a Directiva 91/414/CEE, os Estados-Membros devem alterar ou retirar, se necessário, até [**►M1**](http://publications.europa.eu/resource/celex/32008D0791) 30 de Junho de 2009**◄**, as autorizações existentes de produtos fitofarmacêuticos que contenham as substâncias activas amidossulfurão e nicossulfurão.\n\nAté essa data, devem verificar, em especial, o cumprimento das condições do anexo I dessa directiva respeitantes ao amidossulfurão e nicossulfurão, com excepção das identificadas na parte B da entrada relativa a essas substâncias activas, e que o titular da autorização detém ou tem acesso a um processo que cumpra os requisitos do anexo II da directiva, em conformidade com as condições do artigo 13.º da mesma.\n\n2. Em derrogação ao n.º 1, os Estados-Membros devem reavaliar cada produto fitofarmacêutico autorizado que contenha amidossulfurão e nicossulfurão como única substância activa ou acompanhada de outras substâncias activas, todas elas incluídas no anexo I da Directiva 91/414/CEE, o mais tardar até [**►M1**](http://publications.europa.eu/resource/celex/32008D0791) 31 de Dezembro de 2008**◄**, em conformidade com os princípios uniformes estabelecidos no anexo VI da Directiva 91/414/CEE, com base num processo que cumpra as exigências do anexo III da mesma directiva e tendo em conta a parte B da entrada do seu anexo I relativa, respectivamente, ao amidossulfurão e ao nicossulfurão. Com base nessa avaliação, os Estados-Membros devem determinar se o produto satisfaz as condições estabelecidas nas alíneas b), c), d) e e) do n.º 1 do artigo 4.º da Directiva 91/414/CEE.\n\nNa sequência dessa determinação, os Estados-Membros devem:\n\na) No caso de um produto que contenha amidossulfurão ou nicossulfurão como única substância activa, alterar ou retirar a autorização, se necessário, o mais tardar até [**►M1**](http://publications.europa.eu/resource/celex/32008D0791) 31 de Dezembro de 2012**◄**; ou\n\nb) No caso de um produto que contenha amidossulfurão ou nicossulfurão acompanhado de outras substâncias activas, alterar ou retirar a autorização, se necessário, o mais tardar até [**►M1**](http://publications.europa.eu/resource/celex/32008D0791) 31 de Dezembro de 2012**◄** ou até à data fixada para essa alteração ou retirada na respectiva directiva ou directivas que acrescentaram a substância ou as substâncias relevantes ao anexo I da Directiva 91/414/CEE, caso esta última data seja posterior."
+  },
+  "cf1fb1ae0131d5bd": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor em [**►M1**](http://publications.europa.eu/resource/celex/32008D0791) 1 de Janeiro de 2009**◄**."
+  },
+  "c2768784123201be": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "822bdfd6726da026": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nAditar o seguinte no final do quadro do anexo I da Directiva 91/414/CEE:\n\n| Número | Denominação comum; números de identificação | Denominação IUPAC | Pureza [(^1^)](http://publications.europa.eu/resource/cellar/6ce57c68-8ff8-47f1-a5f9-259c8d55863d.0018.03/DOC_1#E0006) | Entrada em vigor | Termo da inclusão | Disposições específicas |\n| --- | --- | --- | --- | --- | --- | --- |\n| «175 | Amidossulfurão N.º CAS: 120923-37-7 N.º CIPAC: 515 | 3-(4,6-dimetoxipirimidin-2-il)-1-(N-metil-N-metilsulfonil-aminossulfonil)ureia ou 1-(4,6-dimetoxipirimidin-2-il)-3-mesil(metil) sulfamoílureia | ≥ 970 g/kg | 1 de Janeiro de 2009 | 31 de Dezembro de 2018 | PARTE AApenas serão autorizadas as utilizações como herbicida.PARTE BNa avaliação dos pedidos de autorização de produtos fitofarmacêuticos que contenham amidossulfurão para outras utilizações que não a aplicação em prados e pastagens, os Estados-Membros devem estar particularmente atentos aos critérios constantes do n.º 1, alínea b), do artigo 4.º e garantir que os dados e a informação necessários são fornecidos antes da concessão de tal autorização.Na aplicação dos princípios uniformes enunciados no anexo VI, devem ser tidas em conta as conclusões da versão final, de 22 de Janeiro de 2008, do relatório de revisão do amidossulfurão elaborado no quadro do Comité Permanente da Cadeia Alimentar e da Saúde Animal, nomeadamente os apêndices I e II do relatório.Nessa avaliação global, os Estados-Membros devem estar particularmente atentos:— à protecção das águas subterrâneas devido ao potencial de contaminação das águas subterrâneas por alguns produtos da degradação quando forem aplicados em zonas com condições pedológicas e/ou climáticas vulneráveis, — à protecção das plantas aquáticas.Em relação a estes riscos identificados, deveriam ser aplicadas, quando necessário, medidas de redução dos riscos, como, por exemplo, zonas-tampão. |\n| 176 | Nicossulfurão N.º CAS: 111991-09-4 N.º CIPAC: 709 | 2-[(4,6-dimetoxipirimidin-2-ilcarbamoíl)sulfamoíl]-N,N-dimetilnicotinamida ou 1-(4,6-dimetoxipirimidin-2-il)-3-(3-dimetilcarbamoíl-2-piridilsulfonil)ureia | ≥ 930 g/kg | 1 de Janeiro de 2009 | 31 de Dezembro de 2018 | PARTE AApenas serão autorizadas as utilizações como herbicida.PARTE BNa aplicação dos princípios uniformes enunciados no anexo VI, devem ser tidas em conta as conclusões da versão final, de 22 de Janeiro de 2008, do relatório de revisão do nicossulfurão elaborado no quadro do Comité Permanente da Cadeia Alimentar e da Saúde Animal, nomeadamente os apêndices I e II do relatório.Nessa avaliação global, os Estados-Membros devem estar particularmente atentos:— à exposição potencial do ambiente aquático ao metabolito DUDN quando o nicossulfurão for aplicado em zonas com condições pedológicas vulneráveis, — à protecção das plantas aquáticas e zelar por que as condições de autorização incluam, quando necessário, medidas de redução dos riscos, como, por exemplo, zonas-tampão, — à protecção das plantas não visadas e zelar por que as condições de autorização incluam, quando necessário, medidas de redução dos riscos, como, por exemplo, zonas-tampão sem pulverização no campo, — à protecção das águas subterrâneas e superficiais em zonas com condições pedológicas e climáticas vulneráveis.» |\n| (^1^)O relatório de revisão fornece mais pormenores sobre a identidade e as especificações da substância activa. |  |  |  |  |  |  |\n\n---"
+  },
+  "02261cb80230ffa3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6ce57c68-8ff8-47f1-a5f9-259c8d55863d.0018.03/DOC_1#src.E0001)) JO L 230 de 19.8.1991, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2007/76/CE da Comissão (JO L 337 de 21.12.2007, p. 100).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6ce57c68-8ff8-47f1-a5f9-259c8d55863d.0018.03/DOC_1#src.E0002)) JO L 55 de 29.2.2000, p. 25. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1044/2003 (JO L 151 de 19.6.2003, p. 32).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6ce57c68-8ff8-47f1-a5f9-259c8d55863d.0018.03/DOC_1#src.E0003)) JO L 224 de 21.8.2002, p. 23. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1095/2007 (JO L 246 de 21.9.2007, p. 19).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/6ce57c68-8ff8-47f1-a5f9-259c8d55863d.0018.03/DOC_1#src.E0004)) EFSA Scientific Report (2007) 116, 1-86, *Conclusion regarding the peer review of the pesticide risk assessment of the active substance amidosulfuron* (Relatório científico da AESA: Conclusões da revisão dos peritos avaliadores sobre a avaliação dos riscos de pesticidas da substância activa amidossulfurão) (concluído em 14 de Novembro de 2007).\n\n> EFSA Scientific Report (2007) 120, 1-91, *Conclusion regarding the peer review of the pesticide risk assessment of the active substance nicosulfuron* (Relatório científico da AESA: Conclusões da revisão dos peritos avaliadores sobre a avaliação dos riscos de pesticidas da substância activa nicossulfurão) (concluído em 29 de Novembro de 2007).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/6ce57c68-8ff8-47f1-a5f9-259c8d55863d.0018.03/DOC_1#src.E0005)) JO L 366 de 15.12.1992, p. 10. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2266/2000 (JO L 259 de 13.10.2000, p. 27)."
+  },
+  "d2584b476318f9db": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02008L0040 — PT — 14.06.2011 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32008L0040) [DIRECTIVA 2008/40/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/32008L0040) [de 28 de Março de 2008](http://publications.europa.eu/resource/celex/32008L0040) [que altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir as substâncias activas amidossulfurão e nicossulfurão](http://publications.europa.eu/resource/celex/32008L0040) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32008L0040) (JO L 087, 29.3.2008, p.5)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1107/2009 do Parlamento Europeu e do Conselho de 21 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009R1107) — L 309 — 1 — 24.11.2009"
+  }
+ }
+}

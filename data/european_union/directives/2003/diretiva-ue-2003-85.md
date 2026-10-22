@@ -35,6 +35,292 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-04-21'
+version_history:
+  file: diretiva-ue-2003-85.versoes.json
+  count: 15
+  source_lastmod: '2021-04-21'
+  versions:
+  - date: '2003-11-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-12-12'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Medidas em caso de confirmação de um foco de febre aftosa
+    - Altera Artigo 91.º — Revogações
+    - Altera Artigo 95.º — Destinatários
+    - Adita CAPÍTULO I
+    - Adita OBJECTO, AMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Adita CAPÍTULO II
+    - Adita LUTA CONTRA OS FOCOS DE FEBRE AFTOSA
+    - Adita SECÇÃO 1
+    - Adita NOTIFICAÇÃO DA FEBRE AFTOSA
+    - Adita SECÇÃO 2
+    - Adita MEDIDAS EM CASO DE SUSPEITA DE UM FOCO DE FEBRE AFTOSA
+    - Adita SECÇÃO 3
+    - Adita MEDIDAS EM CASO DE CONFIRMAÇÃO
+    - Adita Artigo 12.º — Rastreio e tratamento dos produtos e substâncias derivados de animais presentes num foco de febre
+      aftosa, ou que tenham estado em contacto com esses animais
+    - Adita SECÇÃO 4
+    - Adita MEDIDAS A APLICAR EM CASOS ESPECIAIS
+    - Adita Artigo 15.º — Medidas a aplicar caso surja um foco de febre aftosa nas imediações ou dentro de determinados locais
+      específicos onde sejam mantidos de forma temporária ou permanente animais de espécies sensíveis
+    - Adita SECÇÃO 5
+    - Adita EXPLORAÇÕES COM VÁRIAS UNIDADES DE PRODUÇÃO EPIDEMIOLÓGICAS E EXPLORAÇÕES DE CONTACTO
+    - Adita SECÇÃO 6
+    - Adita ZONAS DE PROTECÇÃO E DE VIGILÂNCIA
+    - Adita Artigo 39.º — Medidas aplicáveis à carne fresca de animais de espécies sensíveis originários da zona de vigilância
+      e aos produtos cárneos fabricados a partir dessa carne
+    - Adita SECÇÃO 7
+    - Adita REGIONALIZAÇÃO, CONTROLO DAS DESLOCAÇÕES E IDENTIFICAÇÃO
+    - Adita SECÇÃO 8
+    - Adita VACINAÇÃO
+    - Adita Artigo 54.º — Medidas aplicáveis na zona de vacinação durante o períodoque vai do início da vacinação de emergência
+      até 30 dias, pelo menos, após a sua conclusão (Fase 1)
+    - Adita Artigo 55.º — Medidas aplicáveis à zona de vacinação durante o período que vai do início da vacinação de emergência
+      até à conclusão do levantamento e da classificação das explorações (Fase 2)
+    - Adita Artigo 58.º — Medidas aplicáveis na zona de vacinação após a conclusão do levantamento e da classificação das
+      explorações até ao restabelecimento do estatuto de indemne de febre aftosa e de infecção pela febre aftosa (Fase 3)
+    - Adita SECÇÃO 9
+    - Adita RESTABELECIMENTO DO ESTATUTO DE INDEMNE DE FEBRE AFTOSA E DE INFECÇÃO PELA FEBRE AFTOSA
+    - Adita CAPÍTULO III
+    - Adita MEDIDAS PREVENTIVAS
+    - Adita SECÇÃO 10
+    - Adita LABORATÓRIOS E ESTABELECIMENTOS QUE MANIPULAM O VÍRUS DA FEBRE AFTOSA
+    - Adita Artigo 70.º — Normas de segurança, directrizes em matéria de vigilância e código de conduta dos laboratórios e
+      estabelecimentos acreditados que manipulam o vírus vivo da febre aftosa
+    - Adita SECÇÃO 11
+    - Adita DIAGNÓSTICO DA FEBRE AFTOSA
+  - date: '2005-08-18'
+    amending: eu:celex:32005D0615:por
+    amending_title: DECISÃO DA COMISSÃO de 16 de Agosto de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 91.º — Revogações
+    - Altera Leite e produtos lácteos destinados ao consumo humano
+    - Altera Leite e produtos lácteos não destinados ao consumo humano e leite e produtos lácteos destinados ao consumo animal
+    - Altera 2. Critérios adicionais para a decisão de introduzir a vacinação de emergência
+    - Altera Laboratórios nacionais autorizados a manipular o vírus vivo da febre aftosa
+    - Altera Notas
+    - Adita 1. Critérios para a decisão de recorrer à vacinação de protecção ([^46^](http://publications.europa.eu/resource/cellar/67262f5a-2c14-47cc-bd2b-aa9b683eaf9b.0016.03/DOC_1#E0046))
+    - Suprime 1. Critérios para a decisão de recorrer à vacinação de protecção ([^46^](http://publications.europa.eu/resource/cellar/521714d6-7997-41d1-8c5a-bb80c0ea1860.0005.03/DOC_1#E0046))
+  - date: '2006-07-03'
+    amending: eu:celex:32006D0552:por
+    amending_title: DECISÃO DA COMISSÃO de 3 de Agosto de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 91.º — Revogações
+    - Altera Leite e produtos lácteos destinados ao consumo humano
+    - Altera Leite e produtos lácteos não destinados ao consumo humano e leite e produtos lácteos destinados ao consumo animal
+    - Altera 2. Critérios adicionais para a decisão de introduzir a vacinação de emergência
+    - Altera Laboratórios autorizados a manipular o vírus vivo da febre aftosa para a produção de vacinas
+    - Altera Notas
+    - Adita 1. Critérios para a decisão de recorrer à vacinação de protecção ([^46^](http://publications.europa.eu/resource/cellar/f3509e6e-dd8c-4bb7-b4ac-776848ac23b5.0016.03/DOC_1#E0046))
+    - Suprime 1. Critérios para a decisão de recorrer à vacinação de protecção ([^46^](http://publications.europa.eu/resource/cellar/67262f5a-2c14-47cc-bd2b-aa9b683eaf9b.0016.03/DOC_1#E0046))
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0104:por
+    amending_title: DIRECTIVA 2006/104/CE DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 91.º — Revogações
+    - Altera Leite e produtos lácteos destinados ao consumo humano
+    - Altera Leite e produtos lácteos não destinados ao consumo humano e leite e produtos lácteos destinados ao consumo animal
+    - Altera 2. Critérios adicionais para a decisão de introduzir a vacinação de emergência
+    - Altera Laboratórios nacionais autorizados a manipular o vírus vivo da febre aftosa
+    - Altera Notas
+    - Adita 1. Critérios para a decisão de recorrer à vacinação de protecção ([^46^](http://publications.europa.eu/resource/cellar/3d463a0f-4ea8-4e72-a049-107905a6ba68.0017.03/DOC_1#E0046))
+    - Suprime 1. Critérios para a decisão de recorrer à vacinação de protecção ([^46^](http://publications.europa.eu/resource/cellar/f3509e6e-dd8c-4bb7-b4ac-776848ac23b5.0016.03/DOC_1#E0046))
+  - date: '2008-04-29'
+    amending: eu:celex:32008D0339:por
+    amending_title: DECISÃO DA COMISSÃO de 25 de Abril de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 91.º — Revogações
+    - Altera Leite e produtos lácteos destinados ao consumo humano
+    - Altera Leite e produtos lácteos não destinados ao consumo humano e leite e produtos lácteos destinados ao consumo animal
+    - Altera 2. Critérios adicionais para a decisão de introduzir a vacinação de emergência
+    - Altera Laboratórios nacionais autorizados a manipular o vírus vivo da febre aftosa
+    - Altera Notas
+    - Adita 1. Critérios para a decisão de recorrer à vacinação de protecção ([^44^](http://publications.europa.eu/resource/cellar/4be27419-17a4-4c57-8527-024b5245c089.0017.03/DOC_1#E0044))
+    - Suprime 1. Critérios para a decisão de recorrer à vacinação de protecção ([^46^](http://publications.europa.eu/resource/cellar/3d463a0f-4ea8-4e72-a049-107905a6ba68.0017.03/DOC_1#E0046))
+  - date: '2009-12-02'
+    amending: eu:celex:32009D0869:por
+    amending_title: DECISÃO DA COMISSÃO de 27 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 91.º — Revogações
+    - Altera Leite e produtos lácteos destinados ao consumo humano
+    - Altera Leite e produtos lácteos não destinados ao consumo humano e leite e produtos lácteos destinados ao consumo animal
+    - Altera 2. Critérios adicionais para a decisão de introduzir a vacinação de emergência
+    - Altera Laboratórios nacionais autorizados a manipular o vírus vivo da febre aftosa
+    - Altera Laboratórios autorizados a manipular o vírus vivo da febre aftosa para a produção de vacinas
+    - Altera NORMAS DE BIOSSEGURANÇA APLICÁVEIS AOS LABORATÓRIOS E ESTABELECIMENTOS QUE MANIPULAM O VÍRUS DA FEBRE AFTOSA
+    - Altera FUNÇÕES E OBRIGAÇÕES DOS LABORATÓRIOS NACIONAIS
+    - 'Altera 3. Fornecer informações e formação complementar, nomeadamente através de:'
+    - Altera Notas
+    - Adita 1. Critérios para a decisão de recorrer à vacinação de protecção ([^44^](http://publications.europa.eu/resource/cellar/a51eafca-a9ba-44b1-9ba8-512c20aabbb8.0018.03/DOC_1#E0044))
+    - Suprime 1. Critérios para a decisão de recorrer à vacinação de protecção ([^44^](http://publications.europa.eu/resource/cellar/4be27419-17a4-4c57-8527-024b5245c089.0017.03/DOC_1#E0044))
+  - date: '2010-08-10'
+    amending: eu:celex:32010D0435:por
+    amending_title: DECISÃO DA COMISSÃO de 9 de Agosto de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 91.º — Revogações
+    - Altera Leite e produtos lácteos destinados ao consumo humano
+    - Altera Leite e produtos lácteos não destinados ao consumo humano e leite e produtos lácteos destinados ao consumo animal
+    - Altera 2. Critérios adicionais para a decisão de introduzir a vacinação de emergência
+    - Altera Laboratórios nacionais autorizados a manipular o vírus vivo da febre aftosa
+    - Altera Laboratórios autorizados a manipular o vírus vivo da febre aftosa para a produção de vacinas
+    - Altera Notas
+    - Adita 1. Critérios para a decisão de recorrer à vacinação de protecção ([^44^](http://publications.europa.eu/resource/cellar/b0c92060-eeda-4140-8c46-793584505074.0018.03/DOC_1#E0044))
+    - Suprime 1. Critérios para a decisão de recorrer à vacinação de protecção ([^44^](http://publications.europa.eu/resource/cellar/a51eafca-a9ba-44b1-9ba8-512c20aabbb8.0018.03/DOC_1#E0044))
+  - date: '2011-01-08'
+    amending: eu:celex:32011D0007:por
+    amending_title: Decisão da Comissão de 7 de Janeiro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 91.º — Revogações
+    - Altera Leite e produtos lácteos destinados ao consumo humano
+    - Altera Leite e produtos lácteos não destinados ao consumo humano e leite e produtos lácteos destinados ao consumo animal
+    - Altera 2. Critérios adicionais para a decisão de introduzir a vacinação de emergência
+    - Altera Laboratórios nacionais autorizados a manipular o vírus vivo da febre aftosa
+    - Altera Notas
+    - Adita 1. Critérios para a decisão de recorrer à vacinação de protecção ([^46^](http://publications.europa.eu/resource/cellar/e7777e85-d14d-4007-a0d1-a155d1be5cfb.0018.03/DOC_1#E0044))
+    - Suprime 1. Critérios para a decisão de recorrer à vacinação de protecção ([^44^](http://publications.europa.eu/resource/cellar/b0c92060-eeda-4140-8c46-793584505074.0018.03/DOC_1#E0044))
+  - date: '2011-06-28'
+    amending: eu:celex:32011D0378:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 27 de Junho de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 91.º — Revogações
+    - Altera Leite e produtos lácteos destinados ao consumo humano
+    - Altera Leite e produtos lácteos não destinados ao consumo humano e leite e produtos lácteos destinados ao consumo animal
+    - Altera 2. Critérios adicionais para a decisão de introduzir a vacinação de emergência
+    - Altera Laboratórios nacionais autorizados a manipular o vírus vivo da febre aftosa
+    - Altera Notas
+    - Adita 1. Critérios para a decisão de recorrer à vacinação de protecção ([^44^](http://publications.europa.eu/resource/cellar/6a37b7b1-821d-40dc-b252-8c36ad6d32eb.0018.03/DOC_1#E0044))
+    - Suprime 1. Critérios para a decisão de recorrer à vacinação de protecção ([^46^](http://publications.europa.eu/resource/cellar/e7777e85-d14d-4007-a0d1-a155d1be5cfb.0018.03/DOC_1#E0044))
+  - date: '2012-12-11'
+    amending: eu:celex:32012D0766:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 7 de dezembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 91.º — Revogações
+    - Altera Leite e produtos lácteos destinados ao consumo humano
+    - Altera Leite e produtos lácteos não destinados ao consumo humano e leite e produtos lácteos destinados ao consumo animal
+    - Altera 2. Critérios adicionais para a decisão de introduzir a vacinação de emergência
+    - Altera Laboratórios nacionais autorizados a manipular o vírus vivo da febre aftosa
+    - Altera Notas
+    - Adita 1. Critérios para a decisão de recorrer à vacinação de protecção ([^44^](http://publications.europa.eu/resource/cellar/96692954-bbea-4074-bcfb-ba7c371d4e6e.0018.03/DOC_1#E0044))
+    - Suprime 1. Critérios para a decisão de recorrer à vacinação de protecção ([^44^](http://publications.europa.eu/resource/cellar/6a37b7b1-821d-40dc-b252-8c36ad6d32eb.0018.03/DOC_1#E0044))
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0020:por
+    amending_title: DIRETIVA 2013/20/UE DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 91.º — Revogações
+    - Altera Leite e produtos lácteos destinados ao consumo humano
+    - Altera Leite e produtos lácteos não destinados ao consumo humano e leite e produtos lácteos destinados ao consumo animal
+    - Altera 2. Critérios adicionais para a decisão de introduzir a vacinação de emergência
+    - Altera Laboratórios nacionais autorizados a manipular o vírus vivo da febre aftosa
+    - Altera Notas
+    - Adita 1. Critérios para a decisão de recorrer à vacinação de protecção ([^44^](http://publications.europa.eu/resource/cellar/3568d852-d5d1-496a-849f-6b5a6c3509ad.0018.03/DOC_1#E0044))
+    - Suprime 1. Critérios para a decisão de recorrer à vacinação de protecção ([^44^](http://publications.europa.eu/resource/cellar/96692954-bbea-4074-bcfb-ba7c371d4e6e.0018.03/DOC_1#E0044))
+  - date: '2015-08-06'
+    amending: eu:celex:32015D1358:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2015/1358 DA COMISSÃO de 4 de agosto de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 91.º — Revogações
+    - Altera Leite e produtos lácteos destinados ao consumo humano
+    - Altera Leite e produtos lácteos não destinados ao consumo humano e leite e produtos lácteos destinados ao consumo animal
+    - Altera 2. Critérios adicionais para a decisão de introduzir a vacinação de emergência
+    - Altera Laboratórios nacionais autorizados a manipular o vírus vivo da febre aftosa
+    - Altera Laboratórios autorizados a manipular o vírus vivo da febre aftosa para a produção de vacinas
+    - Altera FUNÇÕES E OBRIGAÇÕES DOS LABORATÓRIOS NACIONAIS
+    - Altera Notas
+    - Adita 1. Critérios para a decisão de recorrer à vacinação de protecção ([^44^](http://publications.europa.eu/resource/cellar/3fd5d25d-b040-4272-854c-bf1fd745736c.0015.02/DOC_1#E0044))
+    - Adita NORMAS DE BIOSSEGURANÇA APLICÁVEIS AOS LABORATÓRIOS E ESTABELECIMENTOS QUE MANIPULAM O VÍRUS VIVO DA FEBRE AFTOSA
+    - Suprime 1. Critérios para a decisão de recorrer à vacinação de protecção ([^44^](http://publications.europa.eu/resource/cellar/3568d852-d5d1-496a-849f-6b5a6c3509ad.0018.03/DOC_1#E0044))
+    - Suprime NORMAS DE BIOSSEGURANÇA APLICÁVEIS AOS LABORATÓRIOS E ESTABELECIMENTOS QUE MANIPULAM O VÍRUS DA FEBRE AFTOSA
+  - date: '2018-08-03'
+    amending: eu:celex:32018D1099:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2018/1099 DA COMISSÃO Texto relevante para efeitos do EEE de 1 de agosto de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 91.º — Revogações
+    - Altera Leite e produtos lácteos destinados ao consumo humano
+    - Altera Leite e produtos lácteos não destinados ao consumo humano e leite e produtos lácteos destinados ao consumo animal
+    - Altera 2. Critérios adicionais para a decisão de introduzir a vacinação de emergência
+    - Altera Laboratórios nacionais autorizados a manipular o vírus vivo da febre aftosa
+    - Altera Laboratórios autorizados a manipular o vírus vivo da febre aftosa para a produção de vacinas
+    - Altera NORMAS DE BIOSSEGURANÇA APLICÁVEIS AOS LABORATÓRIOS E ESTABELECIMENTOS QUE MANIPULAM O VÍRUS VIVO DA FEBRE AFTOSA
+    - Altera FUNÇÕES E OBRIGAÇÕES DOS LABORATÓRIOS NACIONAIS
+    - Altera Notas
+    - Adita 1. Critérios para a decisão de recorrer à vacinação de protecção ([^1^](http://publications.europa.eu/resource/cellar/fabe754f-3d9e-41b2-91e8-0b19f86e5e58.0015.02/DOC_1#E0006))
+    - Suprime 1. Critérios para a decisão de recorrer à vacinação de protecção ([^44^](http://publications.europa.eu/resource/cellar/3fd5d25d-b040-4272-854c-bf1fd745736c.0015.02/DOC_1#E0044))
+  - date: '2021-04-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime OBJECTO, AMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime LUTA CONTRA OS FOCOS DE FEBRE AFTOSA
+    - Suprime SECÇÃO 1
+    - Suprime NOTIFICAÇÃO DA FEBRE AFTOSA
+    - Suprime Artigo 3.º — Notificação da febre aftosa
+    - Suprime SECÇÃO 2
+    - Suprime MEDIDAS EM CASO DE SUSPEITA DE UM FOCO DE FEBRE AFTOSA
+    - Suprime Artigo 4.º — Medidas em caso de suspeita de um foco de febre aftosa
+    - Suprime Artigo 5.º — Entrada e saída de uma exploração em caso de suspeita de um foco de febre aftosa
+    - Suprime Artigo 6.º — Extensão das medidas a outras explorações
+    - Suprime Artigo 7.º — Zona de controlo temporária
+    - Suprime Artigo 8.º — Programa preventivo de erradicação
+    - Suprime Artigo 9.º — Manutenção das medidas
+    - Suprime SECÇÃO 3
+    - Suprime MEDIDAS EM CASO DE CONFIRMAÇÃO
+    - Suprime Artigo 10.º — Medidas em caso de confirmação de um foco de febre aftosa
+    - Suprime Artigo 11.º — Limpeza e desinfecção
+    - Suprime Artigo 12.º — Rastreio e tratamento dos produtos e substâncias derivados de animais presentes num foco de febre
+      aftosa, ou que tenham estado em contacto com esses animais
+    - Suprime Artigo 13.º — Inquérito epidemiológico
+    - Suprime Artigo 14.º — Medidas adicionais em caso de confirmação de focos de febre aftosa
+    - Suprime SECÇÃO 4
+    - Suprime MEDIDAS A APLICAR EM CASOS ESPECIAIS
+    - Suprime Artigo 15.º — Medidas a aplicar caso surja um foco de febre aftosa nas imediações ou dentro de determinados
+      locais específicos onde sejam mantidos de forma temporária ou permanente animais de espécies sensíveis
+    - Suprime Artigo 16.º — Medidas a aplicar nos matadouros, postos de inspecção fronteiriços e meios de transporte
+    - Suprime Artigo 17.º — Análise das medidas
+    - Suprime SECÇÃO 5
+    - Suprime EXPLORAÇÕES COM VÁRIAS UNIDADES DE PRODUÇÃO EPIDEMIOLÓGICAS E EXPLORAÇÕES DE CONTACTO
+    - Suprime Artigo 18.º — Explorações com várias unidades de produção epidemiológicas
+    - Suprime Artigo 19.º — Explorações de contacto
+    - Suprime Artigo 20.º — Medidas de coordenação
+    - Suprime SECÇÃO 6
+    - Suprime ZONAS DE PROTECÇÃO E DE VIGILÂNCIA
+    - Suprime Artigo 21.º — Estabelecimento de zonas de protecção e de vigilância
+    - Suprime Artigo 22.º — Medidas aplicáveis às explorações situadas na zona de protecção
+    - Suprime Artigo 23.º — Deslocações e transporte de animais e de produtos animais na zona de protecção
 identifiers:
   celex: 32003L0085
   eli: http://data.europa.eu/eli/dir/2003/85/oj
@@ -49,7 +335,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/35dbb600-109f-4a77-b8a9-99367919d5f5.0010
   content_url: http://publications.europa.eu/resource/cellar/86288d48-b7b5-11eb-8aca-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0085-20210421
-  retrieved_at: '2026-10-22T03:11:19Z'
+  retrieved_at: '2026-10-22T14:55:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T16:20:07.679+01:00'
 integrity:
@@ -58,9 +344,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:19Z'
-  notes: Texto consolidado 02003L0085-20210421.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:16Z'
+  notes: 15 versão(ões); histórico completo em diretiva-ue-2003-85.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -323,16 +609,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:19Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:55:16Z'
+  warnings: []
   errors: []
 ---
 

@@ -1,0 +1,128 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004L0004:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0004-20040211",
+ "dre_path": null,
+ "source_lastmod": "2004-02-11",
+ "versions": [
+  {
+   "date": "2004-01-22",
+   "future": false,
+   "celex": "32004L0004",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "820b8fa307272b89",
+    "4dfcb9dce93e6a1e",
+    "accb9f6a1116ac25",
+    "4256b09c1122de3b",
+    "e94d405d25e46d3e",
+    "4604210875229717",
+    "6ca126a1d8853242"
+   ]
+  },
+  {
+   "date": "2004-02-11",
+   "future": false,
+   "celex": "02004L0004-20040211",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º",
+    "Adita ANEXO",
+    "Suprime ANEXO — \"ANEXO"
+   ],
+   "fragments": [
+    "e3ed3a7e14201caa",
+    "4dfcb9dce93e6a1e",
+    "accb9f6a1116ac25",
+    "4256b09c1122de3b",
+    "e94d405d25e46d3e",
+    "c2768784123201be",
+    "0e3722f76a13eabf"
+   ]
+  }
+ ],
+ "fragments": {
+  "820b8fa307272b89": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2004/4/CE da Comissão, de 15 de Janeiro de 2004, que altera a Directiva 96/3/CE que faculta uma derrogação a certas normas da Directiva 93/43/CEE do Conselho, relativa à higiene dos géneros alimentícios, no que respeita ao transporte marítimo de óleos e gorduras líquidos a granel (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 015 de 22/01/2004 p. 0025 - 0030*\n\nDirectiva 2004/4/CE da Comissão\n\nde 15 de Janeiro de 2004\n\nque altera a Directiva 96/3/CE que faculta uma derrogação a certas normas da Directiva 93/43/CEE do Conselho, relativa à higiene dos géneros alimentícios, no que respeita ao transporte marítimo de óleos e gorduras líquidos a granel\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 93/43/CEE do Conselho, de 14 de Junho de 1993, relativa à higiene dos géneros alimentícios(1), e, nomeadamente, o n.o 3 do seu artigo 3.o,\n\nConsiderando o seguinte:\n\n(1) É necessário alterar a Directiva 96/3/CE da Comissão, de 26 de Janeiro de 1996, que faculta uma derrogação a certas normas da Directiva 93/43/CEE do Conselho, relativa à higiene dos géneros alimentícios, no que respeita ao transporte marítimo de óleos e gorduras líquidos a granel(2), a fim de ter em conta os progressos científicos.\n\n(2) Tendo por base avaliações levadas a cabo pelo Comité Científico da Alimentação Humana e, em especial, o seu parecer de 20 de Setembro de 1996, com a última redacção que lhe foi dada em 12 de Junho de 1997 (107.a reunião plenária) e o parecer actualizado de 4 de Abril de 2003 sobre o risco potencial que o transporte de óleos e gorduras em reservatórios de navios pode representar para a saúde humana devido às substâncias propostas como cargas anteriores aceitáveis, torna-se necessário alterar a lista de cargas anteriores aceitáveis constante do anexo da Directiva 96/3/CE.\n\n(3) No caso do ciclohexanol, do 2,3-butanodiol, do isobutanol e do nonano, as informações disponíveis eram inadequadas ou necessitavam de clarificações suplementares para permitir uma avaliação científica sólida das propriedades toxicológicas, pelo que o Comité Científico da Alimentação Humana não pôde levar a cabo as avaliações solicitadas. Este comité considerou que essas substâncias não eram aceitáveis como cargas anteriores e que deviam ser retiradas da lista de cargas anteriores aceitáveis.\n\n(4) No caso dos ésteres metílicos de ácidos gordos (laurato, palmitato, estearato, oleato), do anidrido acético, do polifosfato de amónio, do tetrâmero de propileno, do álcool propílico e do silicato de sódio, tendo em conta os dados disponíveis, a avaliação do Comité Científico da Alimentação Humana permitiu que essas substâncias fossem aceites como cargas anteriores. Essas substâncias devem, pois, ser acrescentadas à lista de cargas anteriores aceitáveis.\n\n(5) No caso do isodecanol, do isononanol, do isooctanol, da cera de Montana, da cera de parafina e dos óleos minerais brancos, as informações disponíveis eram inadequadas para levar a cabo uma avaliação completa. No entanto, no parecer do Comité Científico da Alimentação Humana, essas substâncias podem ser consideradas provisoriamente aceitáveis como cargas anteriores, atendendo à improbabilidade do seu potencial genotóxico, à sua fácil remoção por procedimentos de limpeza de reservatórios e ao valor muito baixo de resíduos esperado em resultado destes factores e da sua provável diluição.\n\n(6) As substâncias consideradas provisoriamente aceitáveis devem ser reavaliadas com base em novos dados científicos e o anexo deve ser revisto, conforme necessário, num prazo adequado. Os dados necessários para a avaliação referida supra devem ser fornecidos, designadamente, por operadores das empresas do sector alimentar relevantes.\n\n(7) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "4dfcb9dce93e6a1e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo da Directiva 96/3/CE é substituído pelo anexo da presente directiva."
+  },
+  "accb9f6a1116ac25": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs substâncias isodecanol, isononanol, isooctanol, cera de Montana, cera de parafina e óleos minerais brancos serão reavaliadas com base em novos dados científicos e o anexo será revisto, conforme necessário, até 31 de Dezembro de 2006."
+  },
+  "4256b09c1122de3b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros adoptarão e publicarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 1 de Junho de 2004 o mais tardar. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-Membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros."
+  },
+  "e94d405d25e46d3e": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia."
+  },
+  "4604210875229717": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 15 de Janeiro de 2004.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 175 de 19.7.1993, p. 1.\n\n(2) JO L 21 de 27.1.1996, p. 42."
+  },
+  "6ca126a1d8853242": {
+   "fragment_id": "ANEXO — \"ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO — \"ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — \"ANEXO\n\nLISTA DE CARGAS ANTERIORES ACEITÁVEIS\n\n>POSIÇÃO NUMA TABELA>\""
+  },
+  "e3ed3a7e14201caa": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "2004L0004 — PT — 11.02.2004 — 000.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004L0004:PT:NOT) [DIRECTIVA 2004/4/CE DA COMISSÃO de 15 de Janeiro de 2004 que altera a Directiva 96/3/CE que faculta uma derrogação a certas normas da Directiva 93/43/CEE do Conselho, relativa à higiene dos géneros alimentícios, no que respeita ao transporte marítimo de óleos e gorduras líquidos a granel (Texto relevante para efeitos do EEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004L0004:PT:NOT) (JO L 015, 22.1.2004, p.25)\n\nRectificado por:\n\n[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004L0004R(01):PT:NOT) [Rectificação, JO L 081, 19.3.2004, p. 92 (04/4)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004L0004R(01):PT:NOT)\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004L0004:PT:NOT)\n\nDIRECTIVA 2004/4/CE DA COMISSÃO\n\nde 15 de Janeiro de 2004\n\nque altera a Directiva 96/3/CE que faculta uma derrogação a certas normas da Directiva 93/43/CEE do Conselho, relativa à higiene dos géneros alimentícios, no que respeita ao transporte marítimo de óleos e gorduras líquidos a granel\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 93/43/CEE do Conselho, de 14 de Junho de 1993, relativa à higiene dos géneros alimentícios ([1](http://publications.europa.eu/resource/cellar/bfec5477-1674-479b-a7a0-c1a24cec05f8.0010.02/DOC_1#E0001)), e, nomeadamente, o n.o 3 do seu artigo 3.o,\n\n(1) É necessário alterar a Directiva 96/3/CE da Comissão, de 26 de Janeiro de 1996, que faculta uma derrogação a certas normas da Directiva 93/43/CEE do Conselho, relativa à higiene dos géneros alimentícios, no que respeita ao transporte marítimo de óleos e gorduras líquidos a granel ([2](http://publications.europa.eu/resource/cellar/bfec5477-1674-479b-a7a0-c1a24cec05f8.0010.02/DOC_1#E0002)), a fim de ter em conta os progressos científicos.\n\n(2) Tendo por base avaliações levadas a cabo pelo Comité Científico da Alimentação Humana e, em especial, o seu parecer de 20 de Setembro de 1996, com a última redacção que lhe foi dada em 12 de Junho de 1997 (107.a reunião plenária) e o parecer actualizado de 4 de Abril de 2003 sobre o risco potencial que o transporte de óleos e gorduras em reservatórios de navios pode representar para a saúde humana devido às substâncias propostas como cargas anteriores aceitáveis, torna-se necessário alterar a lista de cargas anteriores aceitáveis constante do anexo da Directiva 96/3/CE.\n\n(3) No caso do ciclohexanol, do 2,3-butanodiol, do isobutanol e do nonano, as informações disponíveis eram inadequadas ou necessitavam de clarificações suplementares para permitir uma avaliação científica sólida das propriedades toxicológicas, pelo que o Comité Científico da Alimentação Humana não pôde levar a cabo as avaliações solicitadas. Este comité considerou que essas substâncias não eram aceitáveis como cargas anteriores e que deviam ser retiradas da lista de cargas anteriores aceitáveis.\n\n(4) No caso dos ésteres metílicos de ácidos gordos (laurato, palmitato, estearato, oleato), do anidrido acético, do polifosfato de amónio, do tetrâmero de propileno, do álcool propílico e do silicato de sódio, tendo em conta os dados disponíveis, a avaliação do Comité Científico da Alimentação Humana permitiu que essas substâncias fossem aceites como cargas anteriores. Essas substâncias devem, pois, ser acrescentadas à lista de cargas anteriores aceitáveis.\n\n(5) No caso do isodecanol, do isononanol, do isooctanol, da cera de Montana, da cera de parafina e dos óleos minerais brancos, as informações disponíveis eram inadequadas para levar a cabo uma avaliação completa. No entanto, no parecer do Comité Científico da Alimentação Humana, essas substâncias podem ser consideradas provisoriamente aceitáveis como cargas anteriores, atendendo à improbabilidade do seu potencial genotóxico, à sua fácil remoção por procedimentos de limpeza de reservatórios e ao valor muito baixo de resíduos esperado em resultado destes factores e da sua provável diluição.\n\n(6) As substâncias consideradas provisoriamente aceitáveis devem ser reavaliadas com base em novos dados científicos e o anexo deve ser revisto, conforme necessário, num prazo adequado. Os dados necessários para a avaliação referida supra devem ser fornecidos, designadamente, por operadores das empresas do sector alimentar relevantes.\n\n(7) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "c2768784123201be": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "0e3722f76a13eabf": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n«ANEXO\n\nLISTA DE CARGAS ANTERIORES ACEITÁVEIS\n\n| Substância (sinónimos) | N.o CAS |\n| --- | --- |\n| Ácido acético | 64-19-7 |\n| Anidrido acético (anidrido etanóico) | 108-24-7 |\n| Acetona (dimetilcetona; 2-propanona) | 67-64-1 |\n| Óleos ácidos e destilados de ácidos gordos obtidos a partir de óleos e gorduras vegetais e/ou das suas misturas, bem como a partir de gorduras e óleos de origem animal e marinha |  |\n| Hidróxido de amónio (hidrato de amónio; solução de amoníaco; amónia) | 1336-21-6 |\n| Polifosfato de amónio | 68333-79-9 10124-31-9 |\n| Óleos e gorduras hidrogenados de origem animal, marinha e vegetal (à excepção do óleo de caju e do “tall-oil” em bruto) |  |\n| Cera de abelhas (branca e amarela) | 8006-40-4 8012-89-3 |\n| Álcool benzílico (apenas qualidade NF e de reagente) | 100-51-6 |\n| Acetatos de butilo (n-; sec-; tert-;) | 123-86-4 105-46-4 540-88-5 |\n| A solução de cloreto de cálcio é aceitável enquanto carga anterior unicamente se a carga imediatamente anterior constar da lista e não tiver sido objecto de restrições semelhantes | 10043-52-4 |\n| Lignossulfonato de cálcio | 8061-52-7 |\n| Cera de candelilha | 8006-44-8 |\n| Cera de carnaúba (cera do Brasil) | 8015-86-9 |\n| Ciclohexano (hexametileno, hexanaftaleno, hexahidrobenzeno) | 110-82-7 |\n| Óleo de soja epoxidado (com um teor mínimo de 7 % e máximo de 8 % de oxigénio em oxirano) | 8013-07-8 |\n| Etanol (álcool etílico) | 64-17-5 |\n| Acetato de etilo (éter acético, éster acético, nafta de vinagre) | 141-78-6 |\n| 2-Etil-hexanol (álcool 2-etil-hexílico) | 104-76-7 |\n| Ácidos gordos: |  |\n| Ácido araquídico (ácido eicosanóico) | 506-30-9 |\n| Ácido beénico (ácido docosanóico) | 112-85-6 |\n| Ácido butírico (ácido n-butírico, ácido butanóico, ácido etilacético, ácido propilfórmico) | 107-92-6 |\n| Ácido cáprico (ácido n-decanóico) | 334-48-5 |\n| Ácido capróico (ácido n-hexanóico) | 142-62-1 |\n| Ácido caprílico (ácido n-octanóico) | 124-07-2 |\n| Ácido erúcico (ácido cis-13-docosenóico) | 112-86-7 |\n| Ácido heptóico (ácido n-heptanóico) | 111-14-8 |\n| Ácido láurico (ácido n-dodecanóico) | 143-07-7 |\n| Ácido lauroleico (ácido dodecenóico) | 4998-71-4 |\n| Ácido linoleico (ácido 9,12-octadecadienóico) | 60-33-3 |\n| Ácido linolénico (ácido 9,12,15-octadecatrienóico) | 463-40-1 |\n| Ácido mirístico (ácido n-tetradecanóico) | 544-63-8 |\n| Ácido miristoleico (ácido n-tetradecenóico) | 544-64-9 |\n| Ácido oleico (ácido n-octadecenóico) | 112-80-1 |\n| Ácido palmítico (ácido n-hexadecanóico) | 57-10-3 |\n| Ácido palmitoleico (ácido cis-9-hexadecenóico) | 373-49-9 |\n| Ácido pelargónico (ácido n-nonanóico) | 112-05-0 |\n| Ácido ricinoleico (ácido cis-12-hidroxi-9-octadecenóico, ácido de óleo de rícino) | 141-22-0 |\n| Ácido esteárico (ácido n-octadecanóico) | 57-11-4 |\n| Ácido valérico (ácido n-pentanóico, ácido valeriânico) | 109-52-4 |\n| Álcoois gordos: |  |\n| Álcool butílico (1-butanol, álcool butírico) | 71-36-3 |\n| Álcool caproílico (1-hexanol, álcool hexílico) | 111-27-3 |\n| Álcool caprílico (1-n-octanol, heptacarbinol) | 111-87-5 |\n| Álcool cetílico (álcool C-16, 1-hexadecanol, álcool cetílico, álcool palmitílico, álcool n-hexadecílico primário) | 36653-82-4 |\n| Álcool decílico (1-decanol) | 112-30-1 |\n| Álcool enantílico (1-heptanol, álcool heptílico) | 111-70-6 |\n| Álcool laurílico (n-dodecanol, álcool dodecílico) | 112-53-8 |\n| Álcool miristílico (1-tetradecanol, tetradecanol) | 112-72-1 |\n| Álcool nonílico (1-nonanol, álcool pelargónico, octilcarbinol) | 143-08-8 |\n| Álcool oleílico (octadecenol) | 143-28-2 |\n| Álcool estearílico (1-octadecanol) | 112-92-5 |\n| Álcool tridecílico (1-tridecanol) | 27458-92-0 112-70-9 |\n| Misturas de álcoois gordos: |  |\n| Álcool laurilmiristílico (C12-C14) |  |\n| Álcool cetilestearílico (C16-C18) |  |\n| Ésteres de ácidos gordos — todos os ésteres obtidos por combinação dos ácidos gordos supra com um dos álcoois gordos supra. A título de exemplo: miristato de butilo, palmitato de oleílo e estearato de cetilo |  |\n| Ésteres metílicos de ácidos gordos: |  |\n| Laurato de metilo (dodecanoato de metilo) | 111-82-0 |\n| Palmitato de metilo (hexadecanoato de metilo) | 112-39-0 |\n| Estearato de metilo (octadecanoato de metilo) | 112-61-8 |\n| [▼C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:20::NOT) |  |\n| Oleato de metilo (octadecenoato de metilo) | 112-62-9 |\n| Ácido fórmico (ácido metanóico, ácido hidrogenacarboxílico) | 64-18-6 |\n| Glicerina (glicerol) | 56-81-5 |\n| Glicóis: |  |\n| [▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:20::NOT) |  |\n| Butanodiol: |  |\n| — 1,3-butanodiol (1,3-butilenoglicol) | 107-88-0 |\n| — 1,4-butanodiol (1,4-butilenoglicol) | 110-63-4 |\n| Polipropilenoglicol (massa molecular superior a 400) | 25322-69-4 |\n| Propilenoglicol (1,2-propilenoglicol, 1,2-propanodiol, 1,2-dihidroxipropano, monopropilenoglicol (MPG), metilglicol) | 57-55-6 |\n| 1,3-propilenoglicol (trimetilenoglicol; 1,3-propanodiol) | 504-63-2 |\n| n-Heptano | 142-82-5 |\n| n-Hexano (qualidade técnica) | 110-54-3 64742-49-0 |\n| Acetato de isobutilo | 110-19-0 |\n| Iso-decanol (álcool isodecílico) | 25339-17-7 |\n| Iso-nonanol (álcool isononílico) | 27458-94-2 |\n| [▼C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:20::NOT) |  |\n| Iso-octanol (álcool isooctílico) | 26952-21-6 |\n| Iso-propanol (álcool isopropílico; IPA) | 67-63-0 |\n| Limoneno (dipenteno) | 138-86-3 |\n| Solução de cloreto de magnésio | 7786-30-3 |\n| [▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:20::NOT) |  |\n| Metanol (álcool metílico) | 67-56-1 |\n| Metiletilcetona (2-butanona) | 78-93-3 |\n| Metilisobutilcetona (4-metil-2-pentanona) | 108-10-1 |\n| Éter metil-t-butílico (MTBE) | 1634-04-4 |\n| Melaços | 57-50-1 |\n| Cera de Montana | 8002-53-7 |\n| Cera de parafina | 8002-74-2 63231-60-7 |\n| Pentano | 109-66-0 |\n| Ácido fosfórico (ácido ortofosfórico) | 7664-38-2 |\n| A água potável é aceitável enquanto carga anterior unicamente se a carga imediatamente anterior constar da lista e não tiver sido objecto de restrições semelhantes |  |\n| O hidróxido de potássio (potassa cáustica) é aceitável enquanto carga anterior unicamente se a carga imediatamente anterior constar da lista e não tiver sido objecto de restrições semelhantes | 1310-58-3 |\n| Acetato de n-propilo | 109-60-4 |\n| Tetrâmero de propileno | 6842-15-5 |\n| Álcool propílico (propano-1-ol; 1-propanol) | 71-23-8 |\n| O hidróxido de sódio (soda cáustica) é aceitável enquanto carga anterior unicamente se a carga imediatamente anterior constar da lista e não tiver sido objecto de restrições semelhantes | 1310-73-2 |\n| Dióxido de silício (microssílica) | 7631-86-9 |\n| Silicato de sódio (vidro de água) | 1344-09-8 |\n| Sorbitol (D-sorbitol; álcool hexa-hídrico; D-sorbite) | 50-70-4 |\n| Ácido sulfúrico | 7664-93-9 |\n| Solução de ureia e nitrato de amónio (UAN) |  |\n| Borras de vinho (tártaro em bruto, vinhaço, sarro, tartarato monobásico de potássio, bitartarato de potássio em bruto) | 868-14-4 |\n| Óleos minerais brancos | 8042-47-5» |\n\n([1](http://publications.europa.eu/resource/cellar/bfec5477-1674-479b-a7a0-c1a24cec05f8.0010.02/DOC_1#src.E0001)) JO L 175 de 19.7.1993, p. 1.\n\n([2](http://publications.europa.eu/resource/cellar/bfec5477-1674-479b-a7a0-c1a24cec05f8.0010.02/DOC_1#src.E0002)) JO L 21 de 27.1.1996, p. 42."
+  }
+ }
+}

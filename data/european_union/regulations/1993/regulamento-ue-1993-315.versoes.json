@@ -1,0 +1,252 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993R0315:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R0315-20090807",
+ "dre_path": null,
+ "source_lastmod": "2009-08-07",
+ "versions": [
+  {
+   "date": "1993-02-13",
+   "future": false,
+   "celex": "31993R0315",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f2aea0c9b51138d3",
+    "24903f7bd0769067",
+    "2c43e59135d9866c",
+    "8df4947b5fcedbd6",
+    "e17e1604809463dc",
+    "a1ff212f7a6dbf11",
+    "aea3e372447d18b8",
+    "ae40660c977f0de8",
+    "3c1a5db47f2dbce0",
+    "cb884ce28ec2e2fb"
+   ]
+  },
+  {
+   "date": "2009-08-07",
+   "future": false,
+   "celex": "01993R0315-20090807",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1882:por",
+     "title": "REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1882"
+    },
+    {
+     "id": "eu:celex:32009R0596:por",
+     "title": "REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009",
+     "published": null,
+     "celex": "32009R0596"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o"
+   ],
+   "fragments": [
+    "e9f46afb344fb90a",
+    "6d6695bcdbb09381",
+    "a0c965a22897b32d",
+    "2cc56a6420555f94",
+    "5edbf4ba18f6e0ec",
+    "17235774ce22afe4",
+    "a6e642ebef5d0be7",
+    "04fac9804ed6755a",
+    "df9789322cc6ec84",
+    "c080f7f4db324431",
+    "3d22ddd0343dfd6f"
+   ]
+  }
+ ],
+ "fragments": {
+  "f2aea0c9b51138d3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 315/93 do Conselho, de 8 de Fevereiro de 1993, que estabelece procedimentos comunitários para os contaminantes presentes nos géneros alimentícios** *Jornal Oficial nº L 037 de 13/02/1993 p. 0001 - 0003 Edição especial finlandesa: Capítulo 15 Fascículo 12 p. 0078 Edição especial sueca: Capítulo 15 Fascículo 12 p. 0078*\n\nREGULAMENTO (CEE) No 315/93 DO CONSELHO de 8 de Fevereiro de 1993 que estabelece procedimentos comunitários para os contaminantes presentes nos géneros alimentícios\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100oA,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando a importância de serem tomadas medidas para o progressivo estabelecimento do mercado interno num período que termina em 31 de Dezembro de 1992; que o mercado interno compreende um espaço sem fronteiras internas no qual a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais é assegurada;\n\nConsiderando que as disparidades das normas adoptadas pelos Estados-membros podem prejudicar o funcionamento do mercado comum e que é, assim, necessário estabelecer um procedimento para a adopção de normas comunitárias harmonizadas;\n\nConsiderando que os contaminantes podem penetrar nos géneros alimentícios em qualquer estádio entre a produção e o consumo;\n\nConsiderando que é essencial, no interesse da protecção da saúde pública, manter estes contaminantes a níveis que sejam toxicologicamente aceitáveis;\n\nConsiderando que deve ser efectuada uma eliminação mais rigorosa, sempre que possível através de boas práticas profissionais; que a conformidade de tais boas práticas pode ser eficazmente controlada pelas autoridades públicas, dadas a formação profissional e a experiência dos seus agentes;\n\nConsiderando que o presente regulamento deve ser aplicável sem prejuízo das disposições adoptadas no âmbito de regulamentação comunitária mais específica;\n\nConsiderando que, no plano da protecção da saúde, se deve privilegiar a procura de uma solução global para o problema dos contaminantes na alimentação;\n\nConsiderando que o Comité científico da alimentação humana, instituído pela Decisão 74/234/CEE (4), deve ser consultado em todas as questões com incidência na saúde pública,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "24903f7bd0769067": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. O presente regulamento diz respeito aos contaminantes contidos nos géneros alimentícios.\n\nEntende-se por « contaminante » qualquer substância que não seja intencionalmente adicionada a um género alimentício mas nele esteja presente como resíduo da produção (incluindo os tratamentos aplicados às culturas e ao gado e na prática da medicina veterinária), fabrico, processamento, preparação, tratamento, acondicionamento, embalagem, transporte ou armazenagem do referido alimento ou em resultado de contaminação ambiental. As matérias estranhas tais como, por exemplo, fragmentos de insectos, pêlos de animais e outras matérias não estão abrangidas por esta definição.\n\n2. O presente regulamento não é aplicável aos contaminantes abrangidos por regulamentações comunitárias mais específicas.\n\nA partir da entrada em vigor do presente regulamento, a Comissão publicará, a título informativo, na série C do Jornal Oficial das Comunidades Europeias uma lista das regulamentações comunitárias acima referidas. A lista será actualizada pela Comissão sempre que necessário.\n\n3. As disposições relativas aos contaminantes serão adoptadas nos termos do presente regulamento, com excepção das previstas nas regulamentações a que se refere o no 2."
+  },
+  "2c43e59135d9866c": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. É proibida a comercialização de géneros alimentícios que contenham um contaminante em quantidade toxicologicamente inaceitável do ponto de vista da saúde pública e em especial no plano toxicológico.\n\n2. Além disso, os teores de contaminantes devem ser mantidos aos níveis mais baixos, razoavelmente permitidos pelas boas práticas, em todas as fases mencionadas no artigo 1o\n\n3. A fim de proteger a saúde pública, e em aplicação do no 1, devem ser fixadas tolerâncias máximas eventualmente necessárias para certos contaminantes, de acordo com o procedimento referido no artigo 8o\n\nEssas tolerâncias devem ser adoptadas sob a forma de uma lista comunitária não exaustiva e podem incluir:\n\n- para um mesmo contaminante, os limites em diferentes géneros alimentícios,\n\n- limites de detecção analítica,\n\n- uma referência ao método de amostragem e análise a aplicar."
+  },
+  "8df4947b5fcedbd6": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nAs disposições que possam ter incidência na saúde pública serão adoptadas após consulta ao Comité científico para a alimentação humana."
+  },
+  "e17e1604809463dc": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Um Estado-membro, que tenha, em consequência de novas informações ou de uma reavaliação das informações existentes, motivos para suspeitar que um contaminante presente num género alimentício, obedecendo embora ao presente regulamento ou aos regulamentos específicos adoptados por força do mesmo, constitui um risco para a saúde, poderá suspender ou restringir temporariamente a aplicação no respectivo território das disposições em questão. Desse facto deve informar imediatamente os restantes Estados-membros e a Comissão, justificando a sua decisão.\n\n2. A Comissão examinará com a maior brevidade, e no âmbito do Comité permanente dos géneros alimentícios, instituído pela Decisão 69/314/CEE (5), as razões apontadas pelo Estado-membro referido no no 1, emitindo de imediato o seu parecer e tomando as medidas que se revelarem adequadas segundo o procedimento previsto no artigo 8o"
+  },
+  "a1ff212f7a6dbf11": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os Estados-membros não podem, por razões relacionadas com o seu teor em contaminantes, proibir, restringir ou colocar entraves à comercialização de géneros alimentícios que obedeçam ao disposto no presente regulamento ou às disposições específicas adoptadas em aplicação do mesmo.\n\n2. Enquanto não tiverem sido adoptadas as disposições comunitárias relativas às tolerâncias máximas a que se refere o no 3 do artigo 2o, aplicam-se as disposições nacionais neste domínio, na observância do disposto no Tratado.\n\n3. a) Quando um Estado-membro mantiver as disposições da sua legislação nacional, deve informar desse facto a Comissão e os outros Estados-membros no prazo de seis meses a contar da adopção ao presente regulamento.\n\nb) No caso de um Estado-membro considerar necessário adoptar nova legislação, deve comunicar à Comissão e aos outros Estados-membros as medidas previstas, especificando os motivos que as justificam. A Comissão consultará os Estados-membros no âmbito do Comité permanente dos géneros alimentícios, quando julgar útil tal consulta ou quando um Estado-membro o solicitar.\n\nO Estado-membro só poderá adoptar as medidas prevista três meses após ter feito esta comunicação e sob condição de não ter recebido parecer contrário da Comissão.\n\nNeste último caso e antes do termo do prazo referido no segundo parágrafo, a Comissão dará início ao procedimento previsto no artigo 8o para decidir se as medidas propostas podem ser aplicadas, se for caso disso, mediante alterações adequadas."
+  },
+  "aea3e372447d18b8": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nA Comissão apresentará anualmente ao Comité permanente dos géneros alimentícios um relatório acerca da evolução global da legislação comunitária em matéria de contaminantes."
+  },
+  "ae40660c977f0de8": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nA Comissão enviará ao Conselho, quatro anos após a entrada em vigor do presente regulamento, um relatório sobre a experiência adquirida, acompanhado, se necessário, de propostas adequadas."
+  },
+  "3c1a5db47f2dbce0": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nA Comissão é assistida pelo Comité permanente dos géneros alimentícios, instituído pela Decisão 69/414/CEE e a seguir denominado « comité ».\n\nO representante da Comissão submete à apreciação do comité um projecto das medidas a tomar. O comité emite o seu parecer sobre este projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer é emitido por maioria, nos termos previstos no no 2 do artigo 148o do Tratado para a adopção das decisões que o Conselho é convidado a tomar sob proposta da Comissão. Nas votações no seio do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\nA Comissão adopta as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nSe as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas, excepto no caso de o Conselho se ter pronunciado por maioria simples contra as referidas medidas."
+  },
+  "cb884ce28ec2e2fb": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nO presente regulamento entra em vigor em 1 de Março de 1993.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 8 de Fevereiro de 1993.\n\nPelo Conselho\n\nO Presidente\n\nJ. TROEJBORG\n\n(1) JO no C 57 de 4. 3. 1992, p. 11.\n\n(2) JO no C 129 de 20. 5. 1991, p. 104, e decisão de 20 de Janeiro de 1993 (ainda não publicada no Jornal Oficial).\n\n(3) JO no C 223 de 31. 8. 1992, p. 24.\n\n(4) JO no L 136 de 20. 5. 1974, p. 1.\n\n(5) JO no L 291 de 19. 11. 1969, p. 9."
+  },
+  "e9f46afb344fb90a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Fevereiro de 1993\n\nque estabelece procedimentos comunitários para os contaminantes presentes nos géneros alimentícios\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/8cf5fe52-fddb-4791-8431-b32e54cc7111.0018.03/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/8cf5fe52-fddb-4791-8431-b32e54cc7111.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/8cf5fe52-fddb-4791-8431-b32e54cc7111.0018.03/DOC_1#E0003)),\n\nConsiderando a importância de serem tomadas medidas para o progressivo estabelecimento do mercado interno num período que termina em 31 de Dezembro de 1992; que o mercado interno compreende um espaço sem fronteiras internas no qual a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais é assegurada;\n\nConsiderando que as disparidades das normas adoptadas pelos Estados-membros podem prejudicar o funcionamento do mercado comum e que é, assim, necessário estabelecer um procedimento para a adopção de normas comunitárias harmonizadas;\n\nConsiderando que os contaminantes podem penetrar nos géneros alimentícios em qualquer estádio entre a produção e o consumo;\n\nConsiderando que é essencial, no interesse da protecção da saúde pública, manter estes contaminantes a níveis que sejam toxicologicamente aceitáveis;\n\nConsiderando que deve ser efectuada uma eliminação mais rigorosa, sempre que possível através de boas práticas profissionais; que a conformidade de tais boas práticas pode ser eficazmente controlada pelas autoridades públicas, dadas a formação profissional e a experiência dos seus agentes;\n\nConsiderando que o presente regulamento deve ser aplicável sem prejuízo das disposições adoptadas no âmbito de regulamentação comunitária mais específica;\n\nConsiderando que, no plano da protecção da saúde, se deve privilegiar a procura de uma solução global para o problema dos contaminantes na alimentação;\n\nConsiderando que o Comité científico da alimentação humana, instituído pela Decisão 74/234/CEE ([^4^](http://publications.europa.eu/resource/cellar/8cf5fe52-fddb-4791-8431-b32e54cc7111.0018.03/DOC_1#E0004)), deve ser consultado em todas as questões com incidência na saúde pública,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "6d6695bcdbb09381": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O presente regulamento diz respeito aos contaminantes contidos nos géneros alimentícios.\n\nEntende-se por «contaminante» qualquer substância que não seja intencionalmente adicionada a um género alimentício mas nele esteja presente como resíduo da produção (incluindo os tratamentos aplicados às culturas e ao gado e na prática da medicina veterinária), fabrico, processamento, preparação, tratamento, acondicionamento, embalagem, transporte ou armazenagem do referido alimento ou em resultado de contaminação ambiental. As matérias estranhas tais como, por exemplo, fragmentos de insectos, pêlos de animais e outras matérias não estão abrangidas por esta definição.\n\n2. O presente regulamento não é aplicável aos contaminantes abrangidos por regulamentações comunitárias mais específicas.\n\nA partir da entrada em vigor do presente regulamento, a Comissão publicará, a título informativo, na série C do *Jornal Oficial das Comunidades Europeias* uma lista das regulamentações comunitárias acima referidas. A lista será actualizada pela Comissão sempre que necessário.\n\n3. As disposições relativas aos contaminantes serão adoptadas nos termos do presente regulamento, com excepção das previstas nas regulamentações a que se refere o n.º 2."
+  },
+  "a0c965a22897b32d": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. É proibida a comercialização de géneros alimentícios que contenham um contaminante em quantidade toxicologicamente inaceitável do ponto de vista da saúde pública e em especial no plano toxicológico.\n\n2. Além disso, os teores de contaminantes devem ser mantidos aos níveis mais baixos, razoavelmente permitidos pelas boas práticas, em todas as fases mencionadas no artigo 1.º\n\n3. [**►M2**](http://publications.europa.eu/resource/celex/32009R0596) A fim de proteger a saúde pública, e em aplicação do n.º 1, a Comissão pode, se necessário, fixar as tolerâncias máximas eventualmente necessárias para certos contaminantes. Estas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 8.º. Por imperativos de urgência, a Comissão pode recorrer ao procedimento de urgência a que se refere o n.º 4 do artigo 8.º.**◄**\n\nEssas tolerâncias devem ser adoptadas sob a forma de uma lista comunitária não exaustiva e podem incluir:\n\n— para um mesmo contaminante, os limites em diferentes géneros alimentícios,\n\n— limites de detecção analítica,\n\n— uma referência ao método de amostragem e análise a aplicar."
+  },
+  "2cc56a6420555f94": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs disposições que possam ter incidência na saúde pública serão adoptadas após consulta ao Comité científico para a alimentação humana."
+  },
+  "5edbf4ba18f6e0ec": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Um Estado-membro, que tenha, em consequência de novas informações ou de uma reavaliação das informações existentes, motivos para suspeitar que um contaminante presente num género alimentício, obedecendo embora ao presente regulamento ou aos regulamentos específicos adoptados por força do mesmo, constitui um risco para a saúde, poderá suspender ou restringir temporariamente a aplicação no respectivo território das disposições em questão. Desse facto deve informar imediatamente os restantes Estados-membros e a Comissão, justificando a sua decisão.\n\n2. A Comissão examina com a maior brevidade, e no âmbito do Comité permanente dos géneros alimentícios, instituído pela Decisão 69/414/CEE da Comissão ([^5^](http://publications.europa.eu/resource/cellar/8cf5fe52-fddb-4791-8431-b32e54cc7111.0018.03/DOC_1#E0005)), as razões apontadas pelo Estado-Membro referido no n.º 1, emitindo de imediato o seu parecer e tomando as medidas que se revelarem adequadas destinadas a confirmar, alterar ou revogar a medida nacional segundo o procedimento previsto no n.º 2 do artigo 8.º."
+  },
+  "17235774ce22afe4": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-membros não podem, por razões relacionadas com o seu teor em contaminantes, proibir, restringir ou colocar entraves à comercialização de géneros alimentícios que obedeçam ao disposto no presente regulamento ou às disposições específicas adoptadas em aplicação do mesmo.\n\n2. Enquanto não tiverem sido adoptadas as disposições comunitárias relativas às tolerâncias máximas a que se refere o n.º 3 do artigo 2.º, aplicam-se as disposições nacionais neste domínio, na observância do disposto no Tratado.\n\na) Quando um Estado-membro mantiver as disposições da sua legislação nacional, deve informar desse facto a Comissão e os outros Estados-membros no prazo de seis meses a contar da adopção ao presente regulamento.\n\nb) No caso de um Estado-membro considerar necessário adoptar nova legislação, deve comunicar à Comissão e aos outros Estados-membros as medidas previstas, especificando os motivos que as justificam. A Comissão consultará os Estados-membros no âmbito do Comité permanente dos géneros alimentícios, quando julgar útil tal consulta ou quando um Estado-membro o solicitar.\n\nO Estado-membro só poderá adoptar as medidas prevista três meses após ter feito esta comunicação e sob condição de não ter recebido parecer contrário da Comissão.\n\nNeste último caso e antes do termo do prazo referido no segundo parágrafo, a Comissão dará início ao procedimento previsto no [**►M2**](http://publications.europa.eu/resource/celex/32009R0596) n.º 2 do artigo 8.º **◄** para decidir se as medidas propostas podem ser aplicadas, se for caso disso, mediante alterações adequadas."
+  },
+  "a6e642ebef5d0be7": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA Comissão apresentará anualmente ao Comité permanente dos géneros alimentícios um relatório acerca da evolução global da legislação comunitária em matéria de contaminantes."
+  },
+  "04fac9804ed6755a": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA Comissão enviará ao Conselho, quatro anos após a entrada em vigor do presente regulamento, um relatório sobre a experiência adquirida, acompanhado, se necessário, de propostas adequadas."
+  },
+  "df9789322cc6ec84": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^6^](http://publications.europa.eu/resource/cellar/8cf5fe52-fddb-4791-8431-b32e54cc7111.0018.03/DOC_1#E0006)), a seguir designado por «Comité».\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^7^](http://publications.europa.eu/resource/cellar/8cf5fe52-fddb-4791-8431-b32e54cc7111.0018.03/DOC_1#E0007)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE do Conselho ([^8^](http://publications.europa.eu/resource/cellar/8cf5fe52-fddb-4791-8431-b32e54cc7111.0018.03/DOC_1#E0008)), tendo-se em conta o disposto no artigo 8.º.\n\n4. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1, 2, 4 e 6 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º."
+  },
+  "c080f7f4db324431": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO presente regulamento entra em vigor em 1 de Março de 1993.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "3d22ddd0343dfd6f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8cf5fe52-fddb-4791-8431-b32e54cc7111.0018.03/DOC_1#src.E0001)) JO n.º C 57 de 4. 3. 1992, p. 11.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8cf5fe52-fddb-4791-8431-b32e54cc7111.0018.03/DOC_1#src.E0002)) JO n.º C 129 de 20. 5. 1991, p. 104, e decisão de 20 de Janeiro de 1993 (ainda não publicada no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/8cf5fe52-fddb-4791-8431-b32e54cc7111.0018.03/DOC_1#src.E0003)) JO n.º C 223 de 31. 8. 1992, p. 24.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/8cf5fe52-fddb-4791-8431-b32e54cc7111.0018.03/DOC_1#src.E0004)) JO n.º L 136 de 20. 5. 1974, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/8cf5fe52-fddb-4791-8431-b32e54cc7111.0018.03/DOC_1#src.E0005)) JO L 291 de 19.11.1969, p. 9.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/8cf5fe52-fddb-4791-8431-b32e54cc7111.0018.03/DOC_1#src.E0006)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/8cf5fe52-fddb-4791-8431-b32e54cc7111.0018.03/DOC_1#src.E0007)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/8cf5fe52-fddb-4791-8431-b32e54cc7111.0018.03/DOC_1#src.E0008)) JO L 184 de 17.7.1999, p. 23."
+  }
+ }
+}

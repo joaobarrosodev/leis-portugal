@@ -34,6 +34,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2002-12-19'
+version_history:
+  file: diretiva-ue-1979-267.versoes.json
+  count: 2
+  source_lastmod: '2002-12-19'
+  versions:
+  - date: '1979-03-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-12-19'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I — DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime TÍTULO II — REGRAS APLICÁVEIS ÀS EMPRESAS CUJA SEDE SOCIAL SE ENCONTRA NO INTERIOR DA COMUNIDADE
+    - Suprime SECÇÃO A — Condições de Acesso
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o
+    - Suprime Artigo 13o
+    - Suprime Artigo 14o
+    - Suprime SECÇÃO B — Condições de Exercício
+    - Suprime Artigo 15o
+    - Suprime Artigo 16o
+    - Suprime Artigo 17o
+    - Suprime Artigo 18o
+    - Suprime Artigo 19o
+    - Suprime Artigo 20o
+    - Suprime Artigo 21o
+    - Suprime Artigo 22o
+    - Suprime Artigo 23o
+    - Suprime Artigo 24o
+    - Suprime Artigo 25o
+    - Suprime SECÇÃO C — Revogação da Autorização
+    - Suprime Artigo 26o
+    - Suprime TÍTULO III — REGRAS APLICÁVEIS AS AGENCIAS OU SUCURSAIS ESTABELECIDAS NO INTERIOR DA COMUNIDADE, DE EMPRESAS
+      CUJA SEDE SOCIAL ESTÁ SITUADA FORA DA COMUNIDADE
+    - Suprime Artigo 27o
+    - Suprime Artigo 28o
+    - Suprime Artigo 29o
+    - Suprime Artigo 30o
+    - Suprime Artigo 31o
+    - Suprime Artigo 32o
+    - Suprime TÍTULO IV — DISPOSIÇÕES TRANSITÓRIAS E DIVERSAS
 identifiers:
   celex: 31979L0267
   eli: http://data.europa.eu/eli/dir/1979/267/oj
@@ -48,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8f63d66d-f64c-408f-ab74-f05ddff6543d.0011
   content_url: http://publications.europa.eu/resource/cellar/ef4d69de-d8a4-4a70-8d04-a2bcdf907207.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01979L0267-20021219
-  retrieved_at: '2026-10-22T02:43:53Z'
+  retrieved_at: '2026-10-22T14:32:51Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T20:36:45.291+01:00'
 integrity:
@@ -57,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:53Z'
-  notes: Texto consolidado 01979L0267-20021219.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:32:51Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1979-267.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -194,16 +248,21 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:53Z'
+  checked_at: '2026-10-22T14:32:51Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01979L0267-19810101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0267-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0267-19901120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0267-19921121: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0267-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0267-19950807: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0267-20020320: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

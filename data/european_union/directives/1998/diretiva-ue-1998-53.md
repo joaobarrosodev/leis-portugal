@@ -35,6 +35,27 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-07-01'
+version_history:
+  file: diretiva-ue-1998-53.versoes.json
+  count: 2
+  source_lastmod: '2006-07-01'
+  versions:
+  - date: '1998-07-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime ANEXO I — Métodos de colheita das amostras para controlo oficial dos teores de aflatoxinas de certos géneros
+      alimentícios
+    - Suprime ANEXO II
 identifiers:
   celex: 31998L0053
   eli: http://data.europa.eu/eli/dir/1998/53/oj
@@ -49,7 +70,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/495cd817-3def-405a-985c-26679dc82581.0011
   content_url: http://publications.europa.eu/resource/cellar/c7346b1c-4147-41f6-b1ed-566bcd7bb206.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0053-20060701
-  retrieved_at: '2026-10-22T02:47:07Z'
+  retrieved_at: '2026-10-22T14:46:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T07:52:53.256+01:00'
 integrity:
@@ -58,9 +79,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:07Z'
-  notes: Texto consolidado 01998L0053-20060701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:53Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1998-53.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -126,16 +147,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:07Z'
+  checked_at: '2026-10-22T14:46:53Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01998L0053-19980806: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998L0053-20020405: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998L0053-20040108: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998L0053-20040510: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

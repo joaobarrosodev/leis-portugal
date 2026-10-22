@@ -1,0 +1,109 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999L0041:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0041-20090609",
+ "dre_path": null,
+ "source_lastmod": "2009-06-09",
+ "versions": [
+  {
+   "date": "1999-07-08",
+   "future": false,
+   "celex": "01999L0041-19990708",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a4cdf62cd9763820",
+    "bf881151ab5b7324",
+    "0a71326d9b7bf8ff",
+    "0835efcdcfbdcefc",
+    "b90713a917aae83f",
+    "3a2ec3a681e1e6cd",
+    "876b552e33d7806f"
+   ]
+  },
+  {
+   "date": "2009-06-09",
+   "future": false,
+   "celex": "01999L0041-20090609",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime «ANEXO I",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "e8857fdf2ad46fb1"
+   ]
+  }
+ ],
+ "fragments": {
+  "a4cdf62cd9763820": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Junho de 1999\n\nque altera a Directiva 89/398/CEE do Conselho relativa à aproximação das legislações dos Estados-Membros respeitantes aos géneros alimentícios destinados a uma alimentação especial\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 95.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/1ad491f2-9fb7-4231-ab74-c9c15f30db5f.0011.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/1ad491f2-9fb7-4231-ab74-c9c15f30db5f.0011.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.º do Tratado, segundo o projecto comum aprovado pelo Comité de Conciliação em 18 de Março de 1999 ([^3^](http://publications.europa.eu/resource/cellar/1ad491f2-9fb7-4231-ab74-c9c15f30db5f.0011.03/DOC_1#E0003)),\n\n(1) Considerando que o artigo 4.º da Directiva 89/398/CEE ([^4^](http://publications.europa.eu/resource/cellar/1ad491f2-9fb7-4231-ab74-c9c15f30db5f.0011.03/DOC_1#E0004)) dispõe que as disposições específicas aplicáveis aos grupos de géneros alimentícios constantes do seu anexo I serão estabelecidas por meio de directivas específicas;\n\n(2) Considerando que, até ao momento, foram adoptadas directivas específicas no referente às fórmulas para lactentes e às fórmulas de transição ([^5^](http://publications.europa.eu/resource/cellar/1ad491f2-9fb7-4231-ab74-c9c15f30db5f.0011.03/DOC_1#E0005)), aos alimentos à base de cereais e aos alimentos para bebés destinados a lactentes e crianças jovens ([^6^](http://publications.europa.eu/resource/cellar/1ad491f2-9fb7-4231-ab74-c9c15f30db5f.0011.03/DOC_1#E0006)), bem como aos alimentos destinados a serem utilizados em dietas de restrição calórica para redução do peso ([^7^](http://publications.europa.eu/resource/cellar/1ad491f2-9fb7-4231-ab74-c9c15f30db5f.0011.03/DOC_1#E0007)); que se justifica em termos de saúde pública a adopção de disposições específicas, em conformidade com o artigo 4.º da Directiva 89/398/CEE, no que respeita aos alimentos dietéticos destinados a fins medicinais específicas e aos alimentos adaptados a um esforço muscular intenso, sobretudo para os desportistas, referidos no anexo I da mesma directiva;\n\n(3) Considerando que, no caso dos grupos dos alimentos pobres em sódio, incluindo os sais dietéticos hipossódicos ou assódicos, e dos alimentos sem glúten, tais produtos poderão ser comercializados de modo adequado e controlados oficialmente de modo eficaz ao abrigo das disposições gerais da Directiva 89/398/CEE, desde que estejam definidas as condições de utilização de certos termos empregues para indicar as propriedades nutricionais específicas dos produtos;\n\n(4) Considerando que a supressão destas categorias do anexo I da Directiva 89/398/CEE seria conforme com os esforços envidados para se evitar legislação desnecessariamente pormenorizada;\n\n(5) Considerando que não é certo existir uma base adequada à adopção de disposições específicas aplicáveis ao grupo mencionado no ponto 9 do anexo I da Directiva 89/398/CEE, ou seja, o grupo dos alimentos destinados a pessoas que sofrem de perturbações do metabolismo dos glúcidos (diabéticos);\n\n(6) Considerando, por conseguinte, que antes de ser tomada uma decisão definitiva na matéria importa solicitar, entre outros, o parecer do Comité Científico da Alimentação Humana;\n\n(7) Considerando que se mantém a possibilidade de harmonizar a nível comunitário as regras aplicáveis aos outros grupos de géneros alimentícios destinados a uma alimentação especial, no interesse da defesa do consumidor e da livre circulação desses géneros,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "bf881151ab5b7324": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Directiva 89/398/CEE é alterada do seguinte modo:\n\n1. São inseridos os seguintes artigos:\n\nAs regras de utilização dos termos relativos\n\n— à redução do teor de sódio ou de sal (cloreto de sódio, sal de mesa), ou à sua ausência,\n\n— à ausência de glúten,\n\nque poderão ser utilizados para descrever os produtos a que se refere o artigo 1.º, serão adoptadas nos termos do artigo 13.º\n\nAntes de 8 de Julho de 2002 e após consulta ao Comité Científico da Alimentação Humana, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a conveniência de se adoptarem disposições específicas aplicáveis aos alimentos destinados a pessoas que sofrem de perturbações do metabolismo dos glúcidos (diabéticos).\n\nEm função das conclusões desse relatório, a Comissão deverá quer, nos termos do artigo 13.º, elaborar tais disposições específicas, quer apresentar, nos termos do artigo 95.º do Tratado, propostas adequadas de alteração à presente directiva.».\n\n2. O n.º 5 do artigo 9.º passa a ter a seguinte redacção:\n\n«5. Antes de 8 de Julho de 2002 e, em seguida, de três em três anos, a Comissão enviará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do presente artigo.».\n\n3. O anexo I passa a ter a seguinte redacção:"
+  },
+  "0a71326d9b7bf8ff": {
+   "fragment_id": "«ANEXO I",
+   "type": "divisao",
+   "heading": "«ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## «ANEXO I\n\n— Grupos de géneros alimentícios destinados a uma alimentação especial para os quais serão estabelecidas disposições específicas por meio de directivas específicas ([^8^](http://publications.europa.eu/resource/cellar/1ad491f2-9fb7-4231-ab74-c9c15f30db5f.0011.03/DOC_1#E0008)):\n\n1. Fórmulas para lactentes e fórmulas de transição\n\n2. Alimentos à base de cereais e alimentos para bebés destinados a lactentes e crianças jovens\n\n3. Alimentos destinados a serem utilizados em deitas de restrição calórica para redução de peso\n\n4. Alimentos dietéticos para fins medicinais específicos\n\n5. Alimentos adaptados a um esforço muscular intenso, sobretudo para os desportistas\n\n— Grupos de géneros alimentícios destinados a uma alimentação especial para os quais serão estabelecidas disposições específicas por meio de uma directiva específica [(8)](http://publications.europa.eu/resource/cellar/1ad491f2-9fb7-4231-ab74-c9c15f30db5f.0011.03/DOC_1#E0008), em função dos resultados do procedimento previsto no artigo 4.ºB:\n\n6. Alimentos para pessoas que sofrem de perturbações do metabolismo dos glúcidos (diabéticos).»"
+  },
+  "0835efcdcfbdcefc": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 8 de Julho de 2000. Do facto informarão imediatamente a Comissão.\n\nTais disposições deverão ser aplicadas de modo a:\n\n— permitir, a partir de 8 de Julho de 2000, o comércio dos produtos conformes com a presente directiva,\n\n— proibir, a partir de 8 de Janeiro de 2001, o comércio dos produtos não conformes com a presente directiva.\n\nQuando os Estados-Membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros."
+  },
+  "b90713a917aae83f": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "3a2ec3a681e1e6cd": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são destinatários da presente directiva.\n\n---"
+  },
+  "876b552e33d7806f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/1ad491f2-9fb7-4231-ab74-c9c15f30db5f.0011.03/DOC_1#src.E0001)) JO C 108 de 16.4.1994, p. 17, e JO C 35 de 8.2.1996, p. 17.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/1ad491f2-9fb7-4231-ab74-c9c15f30db5f.0011.03/DOC_1#src.E0002)) JO C 388 de 31.12.1994, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/1ad491f2-9fb7-4231-ab74-c9c15f30db5f.0011.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 11 de Outubro de 1995 (JO C 287 de 30.10.1995, p. 104), posição comum do Conselho de 22 de Julho de 1997 (JO C 297 de 29.9.1997, p. 1) e decisão do Parlamento Europeu de 18 de Dezembro de 1997 (JO C 14 de 19.1.1998, p. 123). Decisão do Parlamento Europeu de 5 de Maio de 1999 e decisão do Conselho de 11 de Maio de 1999.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/1ad491f2-9fb7-4231-ab74-c9c15f30db5f.0011.03/DOC_1#src.E0004)) JO L 186 de 30.6.1989, p. 27. Directiva com a última redacção que lhe foi dada pela Directiva 96/84/CE (JO L 48 de 19.2.1997, p. 20).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/1ad491f2-9fb7-4231-ab74-c9c15f30db5f.0011.03/DOC_1#src.E0005)) Directiva 91/321/CEE da Comissão, de 14 de Maio de 1991, relativa às fórmulas para lactentes e fórmulas de transição (JO L 175 de 4.7.1991, p. 35). Directiva com a redacção que lhe foi dada pela Directiva 96/4/CE (JO L 49 de 28.2.1996, p. 12).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/1ad491f2-9fb7-4231-ab74-c9c15f30db5f.0011.03/DOC_1#src.E0006)) Directiva 96/5/CE da Comissão, de 16 de Fevereiro de 1996, relativa aos alimentos à base de cereais e aos alimentos para bebés destinados a lactentes e crianças jovens (JO L 49 de 28.2.1996, p. 17).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/1ad491f2-9fb7-4231-ab74-c9c15f30db5f.0011.03/DOC_1#src.E0007)) Directiva 96/8/CE da Comissão, de 26 de Fevereiro de 1996, relativa aos alimentos destinados a serem utilizados em dietas de restrição calórica para redução do peso (JO L 55 de 6.3.1996, p. 22).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/1ad491f2-9fb7-4231-ab74-c9c15f30db5f.0011.03/DOC_1#src.E0008)) Fica assente que a presente directiva não afecta os produtos que já se encontrem à venda por ocasião da sua adopção."
+  },
+  "e8857fdf2ad46fb1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1999L0041 — PT — 09.06.2009 — 001.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31999L0041) [DIRECTIVA 1999/41/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/31999L0041) [de 7 de Junho de 1999](http://publications.europa.eu/resource/celex/31999L0041) [que altera a Directiva 89/398/CEE do Conselho relativa à aproximação das legislações dos Estados-Membros respeitantes aos géneros alimentícios destinados a uma alimentação especial](http://publications.europa.eu/resource/celex/31999L0041) (JO L 172, 8.7.1999, p.38)\n\n**revogado por:**\n\n- [Directiva 2009/39/CE do Parlamento Europeu e do Conselho de 6 de Maio de 2009](http://publications.europa.eu/resource/celex/32009L0039) — L 124 — 21 — 20.5.2009"
+  }
+ }
+}

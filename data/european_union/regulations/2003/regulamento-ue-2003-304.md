@@ -35,6 +35,58 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-06-18'
+version_history:
+  file: regulamento-ue-2003-304.versoes.json
+  count: 2
+  source_lastmod: '2008-06-18'
+  versions:
+  - date: '2003-03-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-06-18'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objectivos
+    - Suprime Artigo 2.º — Âmbito
+    - Suprime Artigo 3.º — Definições
+    - Suprime Artigo 4.º — Autoridades nacionais designadas
+    - Suprime Artigo 5.º — Participação da Comunidade na convenção
+    - Suprime Artigo 6.º — Produtos químicos sujeitos a notificação de exportação, passíveis de notificação PIC e sujeitos
+      ao procedimento PIC
+    - Suprime Artigo 7.º — Notificações de exportação enviadas às partes e a outros países
+    - Suprime Artigo 8.º — Notificações de exportação recebidas das partes e de outros países
+    - Suprime Artigo 9.º — Informação sobre o comércio de produtos químicos
+    - Suprime Artigo 10.º — Participação na notificação de produtos químicos proibidos ou severamente restringidos ao abrigo
+      da convenção
+    - Suprime Artigo 11.º — Informação a enviar ao secretariado sobre produtos químicos proibidos ou severamente restringidos
+      não passíveis de notificação PIC
+    - Suprime Artigo 12.º — Obrigações relativas às importações de produtos químicos
+    - Suprime Artigo 13.º — Obrigação relativas às exportações de produtos químicos para além dos requisitos de notificação
+      da exportação
+    - Suprime Artigo 14.º — Controlo das exportações de determinados produtos químicos e de artigos contendo produtos químicos
+    - Suprime Artigo 15.º — Informação sobre movimentos em trânsito
+    - Suprime Artigo 16.º — Informação que acompanha os produtos químicos exportados
+    - Suprime Artigo 17.º — Obrigações das autoridades dos Estados-Membros responsáveis pelo controlo das importações e exportações
+    - Suprime Artigo 18.º — Sanções
+    - Suprime Artigo 19.º — Intercâmbio de informação
+    - Suprime Artigo 20.º — Assistência técnica
+    - Suprime Artigo 21.º — Acompanhamento e apresentação de relatórios
+    - Suprime Artigo 22.º — Actualização dos anexos
+    - Suprime Artigo 23.º — Notas técnicas de orientação
+    - Suprime Artigo 24.º — Comité
+    - Suprime Artigo 25.º — Revogação
+    - Suprime Artigo 26.º — Entrada em vigor
+    - Suprime ANEXO I — Parte 1. Lista dos produtos químicos sujeitos ao procedimento de notificação de exportação
+    - Suprime Parte 2. Lista de produtos químicos passíveis de notificação PIC
+    - Suprime ANEXO II — Notificação ao secretariado da convenção de um produto químico proibido ou severamente restringido
+    - Suprime ANEXO III — Notificação de exportação
+    - Suprime ANEXO IV
+    - Suprime ANEXO V — Produtos químicos e artigos sujeitos a proibição de exportação
+    - Suprime ANEXO VI — Lista das partes na convenção que exigem informação sobre movimentos em trânsito de produtos químicos
+      sujeitos ao procedimento PIC
 identifiers:
   celex: 32003R0304
   eli: http://data.europa.eu/eli/reg/2003/304/oj
@@ -49,7 +101,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e6af0073-6aa0-4328-8f61-f54e575d2c2a.0010
   content_url: http://publications.europa.eu/resource/cellar/54a635c8-fc75-43cf-b75b-8cdbeb332fcf.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R0304-20080618
-  retrieved_at: '2026-10-22T02:57:37Z'
+  retrieved_at: '2026-10-22T14:55:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T10:56:27.461+01:00'
 integrity:
@@ -58,9 +110,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:37Z'
-  notes: Texto consolidado 02003R0304-20080618.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:29Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2003-304.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -204,16 +256,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:37Z'
+  checked_at: '2026-10-22T14:55:29Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02003R0304-20030728: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02003R0304-20040517: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02003R0304-20060613: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02003R0304-20071214: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

@@ -34,6 +34,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2006-12-20'
+version_history:
+  file: diretiva-ue-1980-723.versoes.json
+  count: 3
+  source_lastmod: '2006-12-20'
+  versions:
+  - date: '1980-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-12-19'
+    amending: eu:celex:31985L0413:por
+    amending_title: M1; DIRECTIVA 93/84/CEE DA COMISSÃO de 30 de Setembro de 1993; DIRECTIVA 2000/52/CE DA COMISSÃO de 26
+      de Julho de 2000; DIRECTIVA 2005/81/CE DA COMISSÃO Texto relevante para efeitos do EEE de 28 de Novembro de 2005
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 3.ºA
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 5.ºA
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o — Para efeitos do disposto na presente directiva entende-se por
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o — A presente directiva não respeita às relações financeiras entre os poderes públicos e
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+  - date: '2006-12-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 3.ºA
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 5.ºA
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Notas
 identifiers:
   celex: 31980L0723
   eli: http://data.europa.eu/eli/dir/1980/723/oj
@@ -48,7 +101,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c4a740a7-60ec-479a-a6bc-6a872375d7a4.0011
   content_url: http://publications.europa.eu/resource/cellar/ee599bb6-63ca-406e-b899-87724beb6022.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01980L0723-20061220
-  retrieved_at: '2026-10-22T02:43:55Z'
+  retrieved_at: '2026-10-22T14:33:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T23:18:24.544+01:00'
 integrity:
@@ -57,9 +110,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:55Z'
-  notes: Texto consolidado 01980L0723-20061220.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:33:13Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1980-723.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -133,16 +186,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:55Z'
+  checked_at: '2026-10-22T14:33:13Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01980L0723-19931001: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01980L0723-20000818: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

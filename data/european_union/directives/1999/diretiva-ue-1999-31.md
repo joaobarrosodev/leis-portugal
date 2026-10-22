@@ -33,6 +33,86 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-08-04'
+version_history:
+  file: diretiva-ue-1999-31.versoes.json
+  count: 4
+  source_lastmod: '2024-08-04'
+  versions:
+  - date: '2008-12-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-12-13'
+    amending: eu:celex:32011L0097:por
+    amending_title: DIRECTIVA 2011/97/UE DO CONSELHO de 5 de Dezembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Pedido de licença
+    - Altera Artigo 10.º — Custo da deposição de resíduos em aterros
+    - Altera Artigo 11.º — Processo de admissão de resíduos
+    - Altera Artigo 15.º — Obrigação de apresentação de relatórios
+    - Altera Artigo 17.º
+    - Altera 3. Protecção do solo e das águas
+    - Altera 2. Dados meteorológicos
+    - 'Altera 3. Dados sobre emissões: controlo das águas, lixiviados e gases'
+    - Altera B. Controlo
+    - 'Altera 5. Topografia da instalação: dados sobre o aterro'
+    - Altera Notas
+    - Adita 8. Armazenagem temporária de mercúrio metálico
+    - Adita 6. Disposições especificamente aplicáveis ao mercúrio metálico
+  - date: '2018-07-04'
+    amending: eu:celex:32018L0850:por
+    amending_title: DIRETIVA (UE) 2018/850 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 30 de
+      maio de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivo geral
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Âmbito de aplicação
+    - Altera Artigo 5.º — Resíduos e tratamentos não admissíveis em aterro
+    - Altera Artigo 6.º — Resíduos admissíveis nas diferentes classes de aterros
+    - Altera Artigo 7.º — Pedido de licença
+    - Altera Artigo 10.º — Custo da deposição de resíduos em aterros
+    - Altera Artigo 11.º — Processo de admissão de resíduos
+    - Altera Artigo 14.º — Aterros já existentes
+    - Altera 3. Protecção do solo e das águas
+    - Altera 2. Dados meteorológicos
+    - 'Altera 3. Dados sobre emissões: controlo das águas, lixiviados e gases'
+    - Altera B. Controlo
+    - 'Altera 5. Topografia da instalação: dados sobre o aterro'
+    - Altera Notas
+    - Adita Artigo 5.º-A — Regras para calcular o cumprimento das metas
+    - Adita Artigo 5.º-B — Relatório de alerta precoce
+    - Adita Artigo 5.º-C — Intercâmbio de informações e das melhores práticas
+    - Adita Artigo 15.º — Apresentação de relatórios
+    - Adita Artigo 15.º-A — Instrumentos para promover a transição para uma economia mais circular
+    - Adita Artigo 15.º-B — Determinação do coeficiente de permeabilidade para os aterros
+    - Adita Artigo 15.º-C — Norma da União para a amostragem de resíduos
+    - Adita Artigo 16.º — Reexame dos anexos
+    - Adita Artigo 17.º — Procedimento de comité
+    - Adita ANEXO IV
+    - Adita PLANO DE EXECUÇÃO A APRESENTAR NOS TERMOS DO ARTIGO 5.º, N.º 6
+    - Suprime Artigo 15.º — Obrigação de apresentação de relatórios
+    - Suprime Artigo 16.º — Procedimento de comité
+    - Suprime Artigo 17.º
+    - Suprime 5. Amostragem de resíduos
+  - date: '2024-08-04'
+    amending: eu:celex:32024L1785:por
+    amending_title: DIRETIVA (UE) 2024/1785 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024
+    changes:
+    - Altera Artigo 1.º — Objectivo geral
+    - Altera Artigo 5.º-A — Regras para calcular o cumprimento das metas
+    - Altera Artigo 7.º — Pedido de licença
+    - Altera Artigo 10.º — Custo da deposição de resíduos em aterros
+    - Altera Artigo 11.º — Processo de admissão de resíduos
+    - Altera Artigo 17.º — Procedimento de comité
+    - Altera 3. Protecção do solo e das águas
+    - Altera 2. Dados meteorológicos
+    - 'Altera 3. Dados sobre emissões: controlo das águas, lixiviados e gases'
+    - Altera B. Controlo
+    - 'Altera 5. Topografia da instalação: dados sobre o aterro'
+    - Altera Notas
 identifiers:
   celex: 31999L0031
   eli: http://data.europa.eu/eli/dir/1999/31/oj
@@ -47,7 +127,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ec0a6777-382e-4614-900a-ea7011fb5c4f.0011
   content_url: http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0031-20240804
-  retrieved_at: '2026-10-22T02:35:48Z'
+  retrieved_at: '2026-10-22T14:47:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-22T22:31:59.184+01:00'
 integrity:
@@ -56,9 +136,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:48Z'
-  notes: Texto consolidado 01999L0031-20240804.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:43Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1999-31.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -338,37 +418,21 @@ relationships:
   source: null
 article_structure:
   article_count: 26
-  section_count: 30
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 31
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:48Z'
-  warnings: []
+  checked_at: '2026-10-22T14:47:43Z'
+  warnings:
+  - '01999L0031-19990716: versão indisponível (Sem expressão na língua por para CELEX 01999L0031-19990716.)'
+  - '01999L0031-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 1999/31/CE do Conselho, de 26 de Abril de 1999
-
-> 01999L0031 — PT — 04.08.2024 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32003R1882) — [REGULAMENTO (CE) N.º 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
-- [M2](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [►M3](http://publications.europa.eu/resource/celex/32011L0097) — [DIRECTIVA 2011/97/UE DO CONSELHO de 5 de Dezembro de 2011](http://publications.europa.eu/resource/celex/32011L0097) — L 328 — 49 — 10.12.2011
-- [►M4](http://publications.europa.eu/resource/celex/32018L0850) — [DIRETIVA (UE) 2018/850 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018](http://publications.europa.eu/resource/celex/32018L0850) — L 150 — 100 — 14.6.2018
-- [►M5](http://publications.europa.eu/resource/celex/32024L1785) — [DIRETIVA (UE) 2024/1785 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024](http://publications.europa.eu/resource/celex/32024L1785) — L 1785 — 1 — 15.7.2024
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/31999L0031R%2806%29) — [Rectificação, JO L 245, 30.7.2020, p. 31 (1999/31/CE)](http://publications.europa.eu/resource/celex/31999L0031R%2806%29)
-
-## DIRECTIVA 1999/31/CE DO CONSELHO
 
 de 26 de Abril de 1999
 

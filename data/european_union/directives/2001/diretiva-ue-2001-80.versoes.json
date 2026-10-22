@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0080:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0080-20160101",
+ "dre_path": null,
+ "source_lastmod": "2016-01-01",
+ "versions": [
+  {
+   "date": "2016-01-01",
+   "future": false,
+   "celex": "02001L0080-20160101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "80188567c8b2b305"
+   ]
+  }
+ ],
+ "fragments": {
+  "80188567c8b2b305": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2001L0080 — PT — 01.01.2016 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32001L0080) [DIRECTIVA 2001/80/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32001L0080) [de 23 de Outubro de 2001](http://publications.europa.eu/resource/celex/32001L0080) [relativa à limitação das emissões para a atmosfera de certos poluentes provenientes de grandes instalações de combustão](http://publications.europa.eu/resource/celex/32001L0080) (JO L 309, 27.11.2001, p.1)\n\n**revogado por:**\n\n- [Directiva 2010/75/UE do Parlamento Europeu e do Conselho de 24 de Novembro de 2010](http://publications.europa.eu/resource/celex/32010L0075) — L 334 — 17 — 17.12.2010"
+  }
+ }
+}

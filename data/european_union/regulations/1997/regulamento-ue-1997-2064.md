@@ -36,6 +36,39 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2001-03-10'
+version_history:
+  file: regulamento-ue-1997-2064.versoes.json
+  count: 2
+  source_lastmod: '2001-03-10'
+  versions:
+  - date: '1997-10-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-03-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime Artigo 17º
+    - Suprime ANEXO I — DESCRIÇÃO INDICATIVA DAS INFORMAÇÕES NECESSÁRIAS PARA UMA PISTA DE CONTROLO (nº 3 do artigo 2º)
+    - Suprime ANEXO II — >INÍCIO DE GRÁFICO>
 identifiers:
   celex: 31997R2064
   eli: http://data.europa.eu/eli/reg/1997/2064/oj
@@ -50,7 +83,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/77da8f9d-7107-4811-b27b-73d3ac36a256.0010
   content_url: http://publications.europa.eu/resource/cellar/b58a8c70-0dfa-48c0-b460-bc61b064cb1b.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R2064-20010310
-  retrieved_at: '2026-10-22T03:08:54Z'
+  retrieved_at: '2026-10-22T14:46:25Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T15:30:24.188+01:00'
 integrity:
@@ -59,9 +92,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:08:54Z'
-  notes: Texto consolidado 01997R2064-20010310.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:25Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1997-2064.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -131,16 +164,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:08:54Z'
+  checked_at: '2026-10-22T14:46:25Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01997R2064-19971112: versão indisponível (Sem expressão na língua por para CELEX 01997R2064-19971112.)'
+  - '01997R2064-19981110: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -1,0 +1,619 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001R0883:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R0883-20080801",
+ "dre_path": null,
+ "source_lastmod": "2008-08-01",
+ "versions": [
+  {
+   "date": "2001-05-10",
+   "future": false,
+   "celex": "32001R0883",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "01d58dd4e6890fb1",
+    "e5942a615212fada",
+    "eb14b8997285bd6f",
+    "8ca8d8c87cda790a",
+    "0e99a6c95d6943af",
+    "05f4337047e9dc54",
+    "7643562248dc4a5c",
+    "1460c624f9e93eca",
+    "814aac3e658af209",
+    "9ca5b7fd81dd46f7",
+    "47123b0c91472d5d",
+    "db07c84b65c4d259",
+    "1ad4f242daa2c6b8",
+    "19016de0274ad8dc",
+    "55fa8f8dbca2b2ba",
+    "37a5653150c4d7d0",
+    "1a84e0d07d14b11b",
+    "c3ba9a5059112124",
+    "b29516a7dc246136",
+    "1162bf9dc1c108c2",
+    "1b349a8f934f19ba",
+    "d9c435ecd150d270",
+    "0052a9274b85eb5e",
+    "33f255995d68f5d4",
+    "9081f828a7573761",
+    "a232294285960664",
+    "c365e23b61885233",
+    "635a260a99977bc0",
+    "8aa5ee487370f9c9",
+    "ecc413446a6cf42f",
+    "0bece23580da8b95",
+    "aee14dc9c5eda537",
+    "b4470affebdcd371",
+    "d4383a71d709dbda",
+    "cae35d35a5492389",
+    "d78faa193d38c885",
+    "1b50231fe3580fa6",
+    "a2096c963a31527e",
+    "9b97daa6891f96f4",
+    "491672cb0b76fce3",
+    "21cfce477b39975a",
+    "df00401b168a98e2",
+    "b3a09e4068ae9edc",
+    "b16d2fd5dfa00f21",
+    "fb9b0dc27dd52727",
+    "4effea21020b0c21",
+    "e76a542fd6d2a330",
+    "5122ee641dd3a469",
+    "bda14096afb174e0",
+    "beaa56b1367a7bfb",
+    "c9fa0f06c47c934b",
+    "b36780013672e333",
+    "0c9d136aec0ddc2f",
+    "8ab2e31e15b9a518",
+    "61f0ca101e2382f0",
+    "d4579cab13c0109b",
+    "0584aa9840684942",
+    "2d13ea6c4062a6ad"
+   ]
+  },
+  {
+   "date": "2008-08-01",
+   "future": false,
+   "celex": "02001R0883-20080801",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I — REGIME DOS CERTIFICADOS DE IMPORTAÇÃO E DE EXPORTAÇÃO",
+    "Suprime Artigo 1.º — Normas comuns de execução",
+    "Suprime Artigo 2.º — Indicações a constar dos certificados",
+    "Suprime Artigo 3.º — Validade",
+    "Suprime Artigo 4.º — Garantia",
+    "Suprime Artigo 5.º — Comunicações referentes aos certificados de importação",
+    "Suprime CAPÍTULO II — REGIME ESPECIAL DOS CERTIFICADOS DE EXPORTAÇÃO NO ÂMBITO DA APLICAÇÃO DOS ACORDOS DO GATT",
+    "Suprime Artigo 6.º — Objecto",
+    "Suprime Artigo 7.º — Repartição da quantidade global ao longo do ano e apresentação dos pedidos",
+    "Suprime Artigo 8.º — Categorias e grupos de produtos",
+    "Suprime Artigo 9.º — Pedidos de certificados de exportação",
+    "Suprime Artigo 10.º — Transferência de certificados",
+    "Suprime Artigo 11.º — Tolerância",
+    "Suprime Artigo 12.º — Comunicações dos Estados-Membros",
+    "Suprime Artigo 13.º — Decisões da Comissão",
+    "Suprime CAPÍTULO III — REGIME DOS PREÇOS DE ENTRADA PARA OS SUMOS E MOSTOS DE UVAS",
+    "Suprime Artigo 14.º — Verificação em relação a cada lote",
+    "Suprime Artigo 15.º — Regime de verificação",
+    "Suprime CAPÍTULO IV — REGIME DAS RESTITUIÇÕES À EXPORTAÇÃO NO SECTOR VITIVINÍCOLA",
+    "Suprime Artigo 16.º — Periodicidade",
+    "Suprime Artigo 17.º — Necessidade de certificado",
+    "Suprime Artigo 18.º — Comprovativos",
+    "Suprime Artigo 19.º — Controlo a exercer pelos Estados-Membros",
+    "Suprime CAPÍTULO V — CERTIFICADO E BOLETIM DE ANÁLISE DOS VINHOS E DOS SUMOS E MOSTOS DE UVAS NA IMPORTAÇÃO",
+    "Suprime Secção 1 — Disposições gerais",
+    "Suprime Artigo 20.º — Documentos necessários",
+    "Suprime Artigo 21.º — Conteúdo do boletim de análise",
+    "Suprime Artigo 22.º — Isenções",
+    "Suprime Artigo 23.º — Exclusão",
+    "Suprime Secção 2",
+    "Suprime Artigo 24.º — Documento VI 1",
+    "Suprime Artigo 25.º — Descrição dos documentos",
+    "Suprime Artigo 26.º — Procedimento simplificado",
+    "Suprime Artigo 27.º — Derrogações",
+    "Suprime Artigo 28.º — Regras de utilização",
+    "Suprime Artigo 29.º — Listas dos organismos competentes",
+    "Suprime Artigo 30.º — Regras a aplicar no caso de importação indirecta",
+    "Suprime Artigo 31.º — Conformidade das práticas enológicas",
+    "Suprime Artigo 32.º — Regras especiais aplicáveis a certos vinhos",
+    "Suprime CAPÍTULO VI — DERROGAÇÕES ANALÍTICAS APLICÁVEIS A CERTOS VINHOS IMPORTADOS",
+    "Suprime Artigo 33.º",
+    "Suprime CAPÍTULO VII — DEFINIÇÕES DE DETERMINADOS PRODUTOS DO SECTOR VITIVINÍCOLA ORIGINÁRIOS DE PAÍSES TERCEIROS",
+    "Suprime Artigo 34.º — Definições",
+    "Suprime CAPÍTULO VIII — DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 35.º — Revogações",
+    "Suprime Artigo 36.º — Entrada em vigor",
+    "Suprime ANEXO I — >PIC FILE= \"L_2001128PT.001602.EPS\">",
+    "Suprime ANEXO II — Categorias de produtos referidas no n.o 1 do artigo 8.o",
+    "Suprime ANEXO III — Grupos de produtos referidos no n.o 2 do artigo 8.o",
+    "Suprime ANEXO IV — Lista de países por zonas de destino, a que se refere o n.o 6 do artigo 9.o",
+    "Suprime ANEXO V — Comunicações referidas no n.o 4 do artigo 12.o",
+    "Suprime ANEXO VI — Lista dos países referidos no artigo 22.o",
+    "Suprime ANEXO VII — Documento V I 1 referido no n.o 1 do artigo 24.o",
+    "Suprime ANEXO VIII — Condições técnicas relativas aos documentos VI 1 e VI 2 referidos nos artigos 24.o e 25.o",
+    "Suprime ANEXO IX — Lista dos países a que se referem o n.o 2 do artigo 24o e o artigo 26o",
+    "Suprime ANEXO X — Documento V I 2 referido no n.o 1 do artigo 25.o",
+    "Suprime ANEXO XI — Definições referidas no artigo 34.o"
+   ],
+   "fragments": [
+    "5aad568cf9dfbc78"
+   ]
+  }
+ ],
+ "fragments": {
+  "01d58dd4e6890fb1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 883/2001 da Comissão, de 24 de Abril de 2001, que estabelece normas de execução do Regulamento (CE) n.° 1493/1999 do Conselho no que respeita ao comércio de produtos do sector vitivinícola com os países terceiros** *Jornal Oficial nº L 128 de 10/05/2001 p. 0001 - 0031*\n\nRegulamento (CE) n.o 883/2001 da Comissão\n\nde 24 de Abril de 2001\n\nque estabelece normas de execução do Regulamento (CE) n.o 1493/1999 do Conselho no que respeita ao comércio de produtos do sector vitivinícola com os países terceiros\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.o 1493/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum do mercado vitivinícola(1), alterado pelo Regulamento (CE) n.o 2826/2000(2), e, nomeadamente, o n.o 3 do seu artigo 1.o, o seu artigo 46.o, o n.o 3 do seu artigo 59.o, o n.o 4 do seu artigo 60.o, o n.o 4 do seu artigo 61.o, o n.o 8 do seu artigo 63.o, o n.o 5 do seu artigo 64.o e o n.o 3 do seu artigo 68.o,\n\nConsiderando o seguinte:\n\n(1) O título VII do Regulamento (CE) n.o 1493/1999 estabelece regras gerais relativas ao regime comercial com os países terceiros, remetendo complementarmente para normas de execução a adoptar pela Comissão.\n\n(2) Até à data, essas normas de execução encontravam-se dispersas por vários regulamentos comunitários. É conveniente, no interesse dos agentes económicos da Comunidade e das autoridades administrativas incumbidas da aplicação da regulamentação comunitária, reunir essas disposições num texto único e revogar os regulamentos da Comissão relativos aos domínios abrangidos pelo presente regulamento, nomeadamente, os Regulamentos (CEE) n.o 3388/81, de 27 de Novembro de 1981, relativo às regras especiais de aplicação do regime dos certificados de importação e exportação no sector vitivinícola(3), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2739/1999(4); (CEE) n.o 3389/81, de 27 de Novembro de 1981, que estabelece as regras de aplicação das restituições à exportação no sector vitivinícola(5), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2730/95(6); (CEE) n.o 3590/85, de 18 de Dezembro de 1985, relativo ao atestado e ao relatório de análise previstos na importação dos vinhos, sumos e mostos de uvas(7), com a ultima redacção que lhe foi dada pelo Regulamento (CE) n.o 960/98(8); (CE) n.o 1685/95, de 11 de Julho de 1995, que instaura um regime de emissão de certificados de exportação no sector vitivinícola e que altera o Regulamento (CEE) n.o 3388/81 relativo às regras especiais de aplicação do regime dos certificados de importação e exportação no sector vitivinícola(9), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2512/2000(10), e (CE) n.o 1281/1999, de 18 de Junho de 1999, que estabelece normas de execução do regime dos preços de entrada nos sumos e mostos de uva(11).\n\n(3) O presente regulamento deve retomar a regulamentação existente, mas adaptando-a às novas exigências do Regulamento (CE) n.o 1493/1999. É, igualmente, conveniente alterar esta regulamentação de modo a torná-la mais coerente, a simplificá-la e a colmatar algumas lacunas.\n\n(4) O Regulamento (CE) n.o 1291/2000 da Comissão(12) fixou normas comuns de execução do regime de certificados de importação, de exportação e de prefixação para os produtos agrícolas. Essas normas devem ser completadas por normas específicas para o sector vitivinícola, nomeadamente no respeitante à apresentação dos pedidos e aos elementos que devem constar dos pedidos de certificados e dos próprios certificados.\n\n(5) Em conformidade com o n.o 1 do artigo 59.o do Regulamento (CE) n.o 1493/1999, as importações para a Comunidade ficam sujeitas à apresentação de um certificado de importação. A concessão das restituições à exportação deve estar sujeita à apresentação de um certificado de exportação.\n\n(6) Para ter em conta as variações de título alcoométrico que ocorrem durante os transportes de longa duração, nomeadamente em virtude da carga e descarga dos produtos em causa, afigura-se indispensável admitir uma tolerância suplementar à margem de erro prevista pelo método de análise utilizado em aplicação do Regulamento (CEE) n.o 2676/90 da Comissão, de 17 de Setembro de 1990, que determina os métodos de análise comunitários aplicáveis no sector do vinho(13), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1622/2000.(14).\n\n(7) Para a aplicação regular do regime dos certificados, é necessário que neles figurem determinadas indicações mínimas. Por essa razão, é indispensável que o organismo competente para a emissão dos certificados seja informado, pelo operador, do país de origem do produto ou do país de destino. Sob determinadas condições, o operador deve poder solicitar uma alteração do país de origem ou de destino.\n\n(8) À luz da experiência adquirida, é conveniente possibilitar o agrupamento, num mesmo certificado, das subposições da pauta aduaneira comum relativas, quer aos sumos de uvas e mostos de uvas concentrados, quer aos sumos de uvas e mostos de uvas não concentrados, quer aos vinhos obtidos a partir de uvas frescas.\n\n(9) O período de validade dos certificados deve ter em conta as práticas habituais e os prazos de entrega do comércio internacional. No caso dos certificados de exportação, esse prazo deve ser encurtado, para evitar especulações no pedido de tais certificados.\n\n(10) Em conformidade com o n.o 2, terceiro parágrafo, do artigo 59.o do Regulamento (CE) n.o 1493/1999, a emissão dos certificados está sujeita à constituição de uma garantia, que fica perdida, na totalidade ou em parte, se a operação não for realizada ou se o for apenas parcialmente. É conveniente fixar o montante desta garantia.\n\n(11) Para que a Comissão possa formar uma ideia de conjunto sobre a evolução do comércio, é necessário que os Estados-Membros lhe comuniquem regularmente os dados relativos às quantidades e produtos para que tenham emitido certificados de importação. É oportuno, por um lado, que essas comunicações sejam efectuadas semanalmente e, por outro, que as mesmas tenham lugar segundo um sistema uniforme. Todavia, para assegurar a boa gestão do mercado vitivinícola, é necessário que os Estados-Membros informem imediatamente a Comissão se parecer provável que as quantidades objecto do pedido de certificados de exportação possam representar um risco de perturbação do mercado.\n\n(12) O n.o 7 do artigo 63.o do Regulamento (CE) n.o 1493/1999 prevê que o cumprimento das obrigações decorrentes dos acordos celebrados no âmbito das negociações comerciais do \"Uruguay Round\" seja assegurado com base em certificados de exportação. Há, portanto, que definir um regime preciso para a apresentação dos pedidos e a emissão desses certificados.\n\n(13) A experiência adquirida no passado na aplicação do regime de emissão de certificados de exportação no sector vitivinícola mostrou a necessidade de uma melhor repartição das quantidades disponíveis durante toda a campanha, para evitar o esgotamento prematuro das disponibilidades de exportação. Há que prever uma subdivisão da quantidade global por campanha por períodos de dois meses, bem como medidas de gestão para cada período bimensal, nomeadamente a transferência das quantidades não utilizadas num período para o período seguinte.\n\n(14) Para possibilitar a avaliação da situação do mercado no início da campanha com vista à fixação das taxas de restituição a níveis adequados, é necessário prever um período de reflexão e permitir a apresentação de pedidos de certificados de exportação apenas a partir do dia 16 de Setembro de cada ano.\n\n(15) O artigo 4.o do Regulamento (CE) n.o 800/1999 da Comissão, de 15 de Abril de 1999, que estabelece regras comuns de execução do regime das restituições à exportação para os produtos agrícolas(15), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 90/2001(16), introduziu a possibilidade de estender a validade dos certificados de exportação a produtos diversos dos indicados no certificado, desde que esses produtos pertençam à mesma categoria ou ao mesmo grupo de produtos, a determinar. É necessário prever, igualmente, no referente ao sector vitivinícola e por razões de proporcionalidade, a introdução dos grupos de produtos a que se refere o artigo 4.o do Regulamento (CE) n.o 800/1999, de modo a evitar sanções demasiado graves.\n\n(16) Importa prever que as medidas especiais que a Comissão eventualmente tomará para garantir o respeito dos volumes disponíveis por período possam ser ajustadas em função da categoria de produto e da zona de destino. Por outro lado, a fim de evitar pedidos especulativos para quantidades largamente excedentárias em relação às necessidades dos exportadores e que essa prática possa prejudicar os operadores que apresentem pedidos relativos às quantidades de que realmente necessitam, é conveniente limitar o volume que cada exportador pode solicitar à quantidade disponível para cada período.\n\n(17) É conveniente prever que a comunicação das decisões relativas aos pedidos de certificados de importação só tenha lugar depois de um período de reflexão. Esse período deve possibilitar que a Comissão aprecie as quantidades objecto dos pedidos e as despesas correspondentes e preveja, se for caso disso, medidas especiais, nomeadamente aplicáveis aos pedidos em curso.\n\n(18) Para assegurar um bom funcionamento do regime e impedir a especulação convém suprimir a transmissibilidade dos certificados.\n\n(19) Para poder gerir o regime, a Comissão deve dispor de informações precisas sobre os pedidos de certificados apresentados e a utilização dos certificados emitidos. Numa perspectiva de eficácia administrativa, é conveniente prever a utilização de um modelo único nas comunicações entre os Estados-Membros e a Comissão.\n\n(20) O n.o 2 do artigo 60.o do Regulamento (CE) n.o 1493/1999 prevê que, em relação aos sumos e mostos de uvas para os quais a aplicação dos direitos aduaneiros dependa do preço de importação, a autenticidade deste preço seja verificada, quer com base num controlo de cada lote, quer recorrendo a um valor fixo. As especificidades actuais do regime de importação dos sumos e mostos de uvas na Comunidade - nomeadamente a irregularidade dessas importações, quer em termos de volume, quer de periodicidade, assim como de local de importação e de origem dos produtos - não permitem calcular valores fixos de importação representativos para efeitos de verificação da autenticidade do preço de importação. Nestas circunstâncias, é conveniente verificar esse preço em relação a cada lote.\n\n(21) O preço de importação que serve de base para a classificação dos produtos importados na pauta aduaneira comum deve ser igual aos preços FOB dos produtos em causa aumentado das despesas de seguro e de transporte até ao local de introdução no território aduaneiro da Comunidade.\n\n(22) As restituições devem ser fixadas periodicamente. A experiência adquirida no que respeita à evolução dos preços no comércio internacional indica ser adequada uma periodicidade de fixação mínima de uma vez por campanha.\n\n(23) Há que assegurar que os vinhos de mesa que beneficiem das restituições satisfaçam as características qualitativas dos vinhos de mesa das regiões de produção de onde provêm, sendo, para o efeito, conveniente que os Estados-Membros tomem todas as disposições necessárias para assegurar o controlo.\n\n(24) Para beneficiar das restituições, o exportador deve ser obrigado a fornecer os elementos necessários para comprovar que os produtos em causa respeitam as normas qualitativas comunitárias e a dar a conhecer ao organismo competente do Estado-Membro a origem e as quantidades de vinho em questão. Para isso, é necessário que o exportador indique, nomeadamente, os números e datas dos documentos de acompanhamento previstos no Regulamento (CEE) n.o 2238/93 da Comissão, de 26 de Julho de 1993, relativo aos documentos de acompanhamento do transporte de produtos vitivinícolas e aos registos a manter no sector vitivinícola(17), alterado pelo Regulamento (CE) n.o 1592/1999(18). No entanto, por força do artigo 4.o do Regulamento (CE) n.o 2238/93, os Estados-Membros podem prever a possibilidade de o dito documento não ser elaborado para certos produtos em certos casos. Para assegurar a eficácia do controlo, é, pois, necessário excluir a possibilidade de fazer uso dessa disposição no âmbito do regime das restituições.\n\n(25) No caso das entregas para abastecimento de navios e aviões que dão direito a restituições, nem sempre é fácil obter a tempo a documentação necessária, nomeadamente no caso dos Estados-Membros não produtores, devido à dificuldade em conhecer antecipadamente as datas de entrega. É conveniente ter em conta que a apresentação dos elementos comprovativos necessários pode, portanto, constituir um encargo desproporcionado face às pequenas quantidades de vinho de mesa que são normalmente objecto dessas entregas especiais, relativamente às operações para as quais não seja utilizado o procedimento previsto no artigo 26.o do Regulamento (CE) n.o 800/1999 ou no Regulamento (CEE) n.o 565/80 do Conselho, de 4 de Março de 1980, relativo ao pagamento adiantado das restituições à exportação para os produtos agrícolas(19), alterado pelo Regulamento (CEE) n.o 2026/83.(20).\n\n(26) O n.o 1 do artigo 68.o do Regulamento (CE) n.o 1493/1999 prevê que os produtos importados referidos nesse artigo sejam acompanhados de um certificado e de um boletim de análise elaborados por um organismo ou serviço designado pelo país terceiro de onde esses produtos sejam originários. É necessário especificar as condições que o boletim de análise deve satisfazer.\n\n(27) É conveniente fazer uso da possibilidade, prevista no n.o 2, alínea b), do artigo 68.o do Regulamento (CE) n.o 1493/1999, de dispensar do certificado e do boletim de análise os produtos importados de países terceiros em pequenos recipientes e transportados em quantidades limitadas. Para facilitar o trabalho de controlo respectivo, esta segunda exigência pode ser considerada satisfeita sempre que se tratar de importações de países terceiros cujas exportações anuais para a Comunidade sejam, globalmente, já de si muito fracas. Nesse caso, para evitar desvios de tráfego, os vinhos devem ser, não somente originários, mas igualmente provenientes dos países em causa.\n\n(28) Numa perspectiva de harmonização, a isenção da apresentação do certificado e do boletim de análise relativamente a produtos vitivinícolas a importar para a Comunidade deve aproximar-se das regras de franquia em vigor na regulamentação aduaneira e no regime dos documentos de acompanhamento do transporte de produtos vitivinícolas no interior da Comunidade.\n\n(29) Certos países terceiros, tendo submetido os seus produtores de vinho a um sistema eficaz de controlo, exercido pelos seus organismos ou serviços referidos no n.o 1, alínea a), do artigo 68.o do Regulamento (CE) n.o 1493/1999, manifestaram interesse em poder autorizar os produtores de vinho a elaborar, eles próprios, o certificado e o boletim de análise. Para facilitar as transações comerciais com esses países terceiros, e na medida em que tenham celebrado com a Comunidade acordos que incluam cláusulas relativas ao reforço da colaboração em matéria de repressão das fraudes e mantenham boas relações comerciais com a Comunidade, é conveniente permitir que, de modo análogo ao previsto para os vinhos de origem comunitária, os documentos elaborados pelos produtores possam ser equiparados a documentos emitidos pelos referidos organismos ou serviços, desde que os mesmos forneçam garantias adequadas e exerçam um controlo eficaz sobre a emissão de tais documentos. Para testar a eficácia deste novo dispositivo, é conveniente prever, desde já, que tais regras só sejam aplicáveis durante um período experimental.\n\n(30) Para que as autoridades comunitárias que supervisionam a importação de produtos vitivinícolas possam, se for caso disso, proceder às verificações necessárias, devem ser publicadas as listas dos nomes e endereços dos organismos e laboratórios autorizados a elaborar os certificados e os boletins de análise nos países terceiros.\n\n(31) Para facilitar o controlo pelas autoridades competentes dos Estados-Membros, há que estabelecer a forma e, tanto quanto necessário, o conteúdo do certificado e do boletim de análise previstos, bem como as condições de utilização dos mesmos.\n\n(32) Para evitar as fraudes, é necessário verificar se o certificado e, se for caso disso, o boletim de análise se referem, de facto, a cada lote do produto importado. Para o efeito, afigura-se indispensável que esse ou esses documentos acompanhem cada lote até que o mesmo passe a estar sob o regime de controlo comunitário.\n\n(33) Para atender à prática comercial, é necessário conferir às autoridades competentes o poder de, em caso de fraccionamento de lotes de vinho, autorizarem a elaboração, sob o seu controlo, de um extracto do certificado e de um extracto do boletim de análise, que devem acompanhar cada novo lote resultante do fraccionamento.\n\n(34) Face à necessidade de assegurar uma protecção rápida e eficaz dos consumidores, torna-se indispensável prever a possibilidade de suspender a aplicação das presentes medidas em caso de risco para a saúde dos consumidores ou de fraudes, sem que seja necessário aguardar o termo do período experimental.\n\n(35) É igualmente necessário estabelecer regras simples em matéria de documentação a fornecer, aplicáveis às importações provenientes de um país terceiro diverso do país de origem do produto vitivinícola, desde que o produto não tenha sofrido transformações substanciais.\n\n(36) Resulta do artigo 45.o do Regulamento (CE) n.o 1493/1999 que só podem ser oferecidos para consumo humano directo na Comunidade produtos vitivinícolas elaborados mediante a aplicação de práticas enológicas permitidas na Comunidade. Além disso, há que prever que, se um produto importado tiver sido enriquecido, acidificado ou desacidificado, só será admitido para consumo humano directo na Comunidade se tiverem sido respeitados os limites previstos para a zona vitícola da Comunidade cujas condições naturais de produção forem equivalentes às da região de origem do produto importado.\n\n(37) Para simplificar as tarefas dos exportadores e das autoridades, é conveniente prever a anotação, nos documentos VI 1, de que o álcool adicionado aos vinhos licorosos e aos vinhos aguardentados é de origem vínica, em lugar de exigir um documento separado para tal certificação. Com o mesmo objectivo, deve igualmente ser prevista a possibilidade de o documento VI 1 ser utilizado para a certificação da denominação de origem necessária para a importação dos vinhos beneficiários de reduções pautais. Todavia, certos vinhos estão isentos da apresentação do certificado e do boletim de análise, quando for apresentado um certificado de denominação de origem. É conveniente prever a utilização do documento VI 1 como certificado, para atestar a denominação de origem dos referidos vinhos licorosos, sem que seja necessário preencher a casa relativa ao boletim de análise.\n\n(38) Em virtude do n.o 1, alínea b), do artigo 68.o do Regulamento (CE) n.o 1493/1999, os vinhos originários de um país terceiro destinados ao consumo humano directo, com excepção dos vinhos espumantes e dos vinhos licorosos, não podem ser importados para a Comunidade se o seu título alcoométrico volúmico total ou o seu teor de acidez total, respectivamente, ultrapassar ou não atingir determinados valores-limite. O n.o 2, alínea a), do artigo 68.o do mesmo regulamento prevê, todavia, a possibilidade de uma derrogação quando um vinho designado por uma indicação geográfica possuir características qualitativas específicas.\n\n(39) No caso de certos vinhos originários da Hungria e da Suíça, caracterizados por uma qualidade própria e produzidos em quantidades limitadas, os valores-limite do título alcoométrico total ou da acidez total são, respectivamente, superados ou não atingidos, devido a modos de produção específicos tradicionais. Há que permitir a comercialização desses vinhos no mercado comunitário. Para que as condições a preencher para beneficiar dessa faculdade sejam respeitadas, é, porém, necessário exigir uma certificação de um organismo oficial do país de origem no documento de importação instituído pelo presente regulamento.\n\n(40) Quando da celebração dos acordos entre a Comunidade Europeia e, respectivamente, a Hungria e a Roménia(21), sobre a protecção recíproca e o controlo de denominações do vinho, a Comunidade comprometeu-se a manter a derrogação aplicável aos vinhos húngaros durante um período indeterminado e a fazer beneficiar da mesma faculdade certos vinhos de alta qualidade originários da Roménia.\n\n(41) As definições de uma parte dos produtos constantes do anexo I do Regulamento (CE) n.o 1493/1999 só são aplicáveis a produtos obtidos na Comunidade. É, por isso, necessário definir os produtos correspondentes originários de países terceiros. As definições dos produtos originários de países terceiros que são objecto do presente regulamento devem ser tão próximas quanto possível das definições dos produtos comunitários.\n\n(42) O Regulamento (CE) n.o 1608/2000 da Comissão(22), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 731/2001(23), que, na pendência das medidas definitivas de execução do Regulamento (CE) n.o 1493/1999 manteve em vigor até 31 de Janeiro de 2001 determinadas disposições relativas à matéria abrangida pelo presente regulamento. Nestas circunstâncias, para evitar qualquer interrupção do comércio dos produtos abrangidos por essas disposições e pelo presente regulamento, este último deve ser aplicável a partir de 1 de Fevereiro de 2001.\n\n(43) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão dos Vinhos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "e5942a615212fada": {
+   "fragment_id": "CAPÍTULO I — REGIME DOS CERTIFICADOS DE IMPORTAÇÃO E DE EXPORTAÇÃO",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — REGIME DOS CERTIFICADOS DE IMPORTAÇÃO E DE EXPORTAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — REGIME DOS CERTIFICADOS DE IMPORTAÇÃO E DE EXPORTAÇÃO"
+  },
+  "eb14b8997285bd6f": {
+   "fragment_id": "Artigo 1.º — Normas comuns de execução",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Normas comuns de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Normas comuns de execução\n\nAs normas comuns de execução do regime de certificados de importação, de exportação e de prefixação para os produtos agrícolas, fixadas pelo Regulamento (CE) n.o 1291/2000, são aplicáveis aos certificados a que se refere o presente capítulo."
+  },
+  "8ca8d8c87cda790a": {
+   "fragment_id": "Artigo 2.º — Indicações a constar dos certificados",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Indicações a constar dos certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Indicações a constar dos certificados\n\n1. Nos casos em que o código da nomenclatura combinada comportar uma especificação relativa ao título alcoométrico volúmico do produto, será admitida uma tolerância de 0,4 % vol em relação a essa especificação para efeitos da utilização dos certificados.\n\nOs certificados de importação e de exportação comportarão, na casa n.o 20, uma das seguintes indicações:\n\n- \"Tolerancia de 0,4 % vol\",\n\n- \"Tolerance 0,4 % vol\",\n\n- \"Toleranz 0,4 % vol\",\n\n- \"Ανοχή 0,4 % vol\",\n\n- \"Tolerance of 0,4 % vol\",\n\n- \"Tolérance de 0,4 % vol\",\n\n- \"Tolleranza di 0,4 % vol\",\n\n- \"Tolerantie van 0,4 % vol\",\n\n- \"Tolerância de 0,4 % vol\"\n\n- \"Sallittu poikkeama 0,4 til-%\",\n\n- \"Tolerans 0,4 vol %\".\n\n2. Os pedidos de certificados de importação e os certificados de importação comportarão, na casa n.o 8, a indicação do país de origem.\n\nOs pedidos de certificados de exportação e os certificados comportarão, na casa n.o 7, a indicação do país de destino ou da zona de destino referida no n.o 6 do artigo 9.o Se for indicada a zona de destino, deve ser assinalada a casa \"obrigatória: sim\". Se for indicado o país de destino, deve ser assinalada a casa \"obrigatória: não\". Os pedidos de certificados de exportação e os certificados comportarão ainda, na casa n.o 20, a indicação \"zona X obrigatória\". A pedido do interessado, o país de destino pode ser substituído por outro, desde que pertença à mesma zona de destino.\n\n3. Os pedidos de certificados de importação e os certificados de importação comportarão, na casa n.o 14, a seguinte indicação suplementar relativa à cor do vinho ou do mosto: branco ou tinto/rosado (\"rosé\").\n\n4. O interessado pode incluir produtos pertencentes a diversos códigos pautais num mesmo pedido de certificado de importação, preenchendo, consoante o caso, as casas n.o 15 e n.o 16 do pedido da seguinte forma:\n\n- casa n.o 15: designação do produto de acordo com a nomenclatura combinada;\n\n- casa n.o 16: códigos NC.\n\nA designação dos produtos e os códigos NC indicados no pedido serão retomados no certificado de importação."
+  },
+  "0e99a6c95d6943af": {
+   "fragment_id": "Artigo 3.º — Validade",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Validade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Validade\n\n1. Os certificados de importação serão válidos desde a data da sua emissão, em conformidade com o n.o 1 do artigo 23.o do Regulamento (CE) n.o 1291/2000, até ao final do quarto mês subsequente.\n\n2. Os certificados de exportação serão válidos desde a data da sua emissão, em conformidade com o n.o 2 do artigo 23.o do Regulamento (CE) n.o 1291/2000, até ao final do segundo mês subsequente, não podendo, porém, essa validade ultrapassar, em nenhum caso, o dia 31 de Agosto do ano GATT em curso."
+  },
+  "05f4337047e9dc54": {
+   "fragment_id": "Artigo 4.º — Garantia",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Garantia\n\n1. A garantia relativa aos certificados de importação é fixada da seguinte forma:\n\n- sumos e mostos de uvas concentrados: 2,5 euros por hectolitro,\n\n- outros sumos e mostos de uvas: 1,25 euros por hectolitro,\n\n- vinhos tranquilos e vinhos aguardentados: 1,25 euros por hectolitro,\n\n- vinhos espumantes e vinhos licorosos: 2,5 euros por hectolitro.\n\n2. A garantia relativa aos certificados de exportação é de 8 euros por hectolitro, no caso dos produtos dos códigos NC 2009 60 11, 2009 60 19, 2009 60 51, 2009 60 71, 2204 30 92 e 2204 30 96, e de 2,5 euros por hectolitro no caso dos outros produtos."
+  },
+  "7643562248dc4a5c": {
+   "fragment_id": "Artigo 5.º — Comunicações referentes aos certificados de importação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Comunicações referentes aos certificados de importação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comunicações referentes aos certificados de importação\n\nOs Estados-Membros comunicarão à Comissão, todas as quintas-feiras - ou, caso seja feriado, no primeiro dia útil seguinte -, de acordo com o modelo do anexo I, as informações relativas às quantidades e ao país de origem dos produtos para os quais tiverem sido emitidos certificados de importação na semana anterior, discriminadas por código da nomenclatura combinada e por código da nomenclatura dos países para as estatísticas do comércio externo da Comunidade.\n\nSe a importação das quantidades para as quais tiverem sido pedidos certificados num Estado-Membro ameaçar constituir um risco de perturbação do mercado, o Estado-Membro informará imediatamente a Comissão desse facto, comunicando-lhe as quantidades em causa por tipo de produto."
+  },
+  "1460c624f9e93eca": {
+   "fragment_id": "CAPÍTULO II — REGIME ESPECIAL DOS CERTIFICADOS DE EXPORTAÇÃO NO ÂMBITO DA APLICAÇÃO DOS ACORDOS DO GATT",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — REGIME ESPECIAL DOS CERTIFICADOS DE EXPORTAÇÃO NO ÂMBITO DA APLICAÇÃO DOS ACORDOS DO GATT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — REGIME ESPECIAL DOS CERTIFICADOS DE EXPORTAÇÃO NO ÂMBITO DA APLICAÇÃO DOS ACORDOS DO GATT"
+  },
+  "814aac3e658af209": {
+   "fragment_id": "Artigo 6.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objecto\n\nEm aplicação do acordo sobre a agricultura concluído no âmbito das negociações comerciais multilaterais do \"Uruguay Round\", a seguir designado por \"acordo\", o presente capítulo estabelece as normas de execução complementares relativas à emissão dos certificados de exportação com prefixação da restituição."
+  },
+  "9ca5b7fd81dd46f7": {
+   "fragment_id": "Artigo 7.º — Repartição da quantidade global ao longo do ano e apresentação dos pedidos",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Repartição da quantidade global ao longo do ano e apresentação dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Repartição da quantidade global ao longo do ano e apresentação dos pedidos\n\n1. A quantidade global disponível para cada ano GATT é subdividida em seis partes. Os pedidos de certificados de exportação podem ser apresentados em relação a:\n\n- 25 % da quantidade global até 15 de Novembro,\n\n- 25 % da quantidade global até 15 de Janeiro,\n\n- 15 % da quantidade global até 15 de Março,\n\n- 15 % da quantidade global até 30 de Abril,\n\n- 10 % da quantidade global até 30 de Junho,\n\n- 10 % da quantidade global até 31 de Agosto.\n\n2. As quantidades não utilizadas de um período serão automaticamente transferidas para o período seguinte do mesmo ano.\n\n3. Os pedidos de certificados de exportação relativos ao primeiro período podem ser apresentados a partir de 16 de Setembro."
+  },
+  "47123b0c91472d5d": {
+   "fragment_id": "Artigo 8.º — Categorias e grupos de produtos",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Categorias e grupos de produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Categorias e grupos de produtos\n\n1. As categorias de produtos referidas no segundo parágrafo do artigo 14.o do Regulamento (CE) n.o 1291/2000 são enumeradas no anexo II do presente regulamento.\n\n2. Os grupos de produtos referidos no n.o 2, segundo travessão, do primeiro parágrafo, do artigo 4.o do Regulamento (CE) n.o 800/1999 que podem ser introduzidos no pedido de certificado e no certificado, de acordo com o quarto parágrafo do artigo 14.o do Regulamento (CE) n.o 1291/2000, são enumerados no anexo III do presente regulamento."
+  },
+  "db07c84b65c4d259": {
+   "fragment_id": "Artigo 9.º — Pedidos de certificados de exportação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Pedidos de certificados de exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pedidos de certificados de exportação\n\n1. Os pedidos de certificados de exportação podem ser apresentados às autoridades competentes de quarta-feira até terça-feira, às 13 horas, da semana seguinte.\n\n2. Os pedidos de certificados de exportação apresentados por um operador não podem exceder a quantidade máxima de 30000 hectolitros por zona de destino referida no n.o 6 em cada período a que se refere o n.o 1. Os pedidos relativos a uma mesma zona devem ser apresentados ao organismo competente e agrupados numa única comunicação.\n\nSe a quantidade global objecto dos pedidos de um operador exceder 30000 hectolitros no referente a uma determinada zona, os pedidos em causa serão recusados pelo organismo ao qual foram apresentados.\n\nSe a quantidade global ainda disponível para uma zona for inferior a 30000 hectolitros, o organismo ao qual forem apresentados os pedidos reduzirá, se necessário, à quantidade disponível os pedidos dos operadores que a superarem.\n\n3. Os certificados de exportação serão entregues na segunda-feira imediata à terça-feira referida no n.o 1 - ou, caso seja feriado, no primeiro dia útil seguinte -, salvo se alguma medida especial tiver sido entretanto tomada pela Comissão.\n\n4. Se as quantidades para as quais tiverem sido pedidos certificados, comunicadas à Comissão no dia determinado segundo o disposto no n.o 1 do artigo 12.o, excederem as quantidades ainda disponíveis para um dos períodos referidos no n.o 1 do artigo 7.o, a Comissão fixará uma percentagem única de aceitação dos pedidos em causa e suspenderá a apresentação de pedidos de certificados até ao início do período seguinte.\n\n5. Se a emissão dos certificados pedidos for susceptível de conduzir ao esgotamento prematuro do orçamento previsto no acordo para o sector do vinho, a Comissão pode aceitar os pedidos em curso ou rejeitar os pedidos cujos certificados de exportação ainda não tenham sido concedidos e pode suspender a apresentação de pedidos por um período máximo de 10 dias úteis, sob reserva da possibilidade de uma prorrogação dessa suspensão, a decidir de acordo com o procedimento previsto no artigo 75.o do Regulamento (CE) n.o 1493/1999.\n\nSe a emissão dos certificados pedidos for susceptível de conduzir a uma superação do orçamento previsto no acordo para o sector do vinho, a Comissão pode fixar uma percentagem única de aceitação para os pedidos em curso e suspender a apresentação de pedidos até ao final da campanha.\n\n6. As medidas referidas nos n.os 4 e 5 podem ser ajustadas em função da categoria de produtos e da zona de destino. As zonas de destino são as seguintes:\n\n- zona 1: África,\n\n- zona 2: Ásia e Oceânia,\n\n- zona 3: Europa de Leste, incluindo os países da CEI,\n\n- zona 4: Europa Ocidental.\n\nA lista dos países que constituem cada zona de destino consta do anexo IV.\n\n7. Se as quantidades objecto dos pedidos forem rejeitadas ou reduzidas, a garantia referida no n.o 2 do artigo 4.o será imediatamente liberada no referente às quantidades relativamente às quais o pedido não tiver sido satisfeito.\n\n8. Em derrogação do n.o 3, se for fixada uma percentagem única de aceitação inferior a 85 %, o certificado será emitido no terceiro dia útil subsequente à publicação da referida percentagem no Jornal Oficial das Comunidades Europeias. Antes da emissão do certificado, o operador pode retirar o seu pedido, caso em que a garantia referida no n.o 2 do artigo 4.o será imediatamente liberada, ou aceitar expressamente o certificado, caso em que o mesmo pode ser imediatamente emitido."
+  },
+  "1ad4f242daa2c6b8": {
+   "fragment_id": "Artigo 10.º — Transferência de certificados",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Transferência de certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Transferência de certificados\n\nOs certificados de exportação são intransmissíveis."
+  },
+  "19016de0274ad8dc": {
+   "fragment_id": "Artigo 11.º — Tolerância",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Tolerância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Tolerância\n\nA quantidade exportada ao abrigo da tolerância referida no n.o 4 do artigo 8.o do Regulamento (CE) n.o 1291/2000 não dá direito ao pagamento da restituição.\n\nNa casa n.o 22 do certificado, deve ser inscrita, pelo menos, uma das seguintes menções:\n\n- \"Restitución válida para... (cantidad por la que se haya expedido el certificado) como máximo\",\n\n- \"Restitutionen omfatter højst... (den mængde, licensen er udstedt for)\",\n\n- \"Erstattung gültig für höchstens... (Menge, für die die Lizenz erteilt wurde)\",\n\n- \"Επιστροφή που ισχύει για... (ποσότητα για την οποία εκδίδεται το πιστοποιητικό) κατ' ανώτατο όριο\",\n\n- \"Refund valid for not more than... (quantity for which licence is issued)\",\n\n- \"Restitution valable pour... (quantité pour laquelle le certificat est délivré) au maximum\",\n\n- \"Restituzione valida al massimo per... (quantitativo per il quale è rilasciato il titolo)\",\n\n- \"Restitutie voor ten hoogste... (hoeveelheid waarvoor het certificaat is afgegeven)\",\n\n- \"Restituição válida para... (quantidade em relação à qual é emitido o certificado), no máximo\",\n\n- \"Vientituki voimassa enintään... (määrä, jolle todistus on annettu) osalta\",\n\n- \"Bidrag som gäller för högst... (kvantitet för vilken licensen skall utfärdas)\"."
+  },
+  "55fa8f8dbca2b2ba": {
+   "fragment_id": "Artigo 12.º — Comunicações dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Comunicações dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comunicações dos Estados-Membros\n\n1. Os Estados-Membros comunicarão à Comissão todas as quartas-feiras, ou, caso seja feriado, no primeiro dia útil seguinte:\n\na) Os pedidos de certificados de exportação com prefixação da restituição apresentados entre a quarta-feira da semana anterior e terça-feira, ou a inexistência de pedidos de certificados;\n\nb) As quantidades para as quais foram emitidos certificados de exportação na segunda-feira anterior ou, se for caso disso, dentro do prazo referido no n.o 8 do artigo 9.o;\n\nc) as quantidades objecto da retirada dos pedidos de certificados, no caso referido no n.o 8 do artigo 9.o, no decurso da semana anterior.\n\nNesta comunicação será especificada a zona de destino a que se refere o n.o 6 do artigo 9.o\n\n2. Os Estados-Membros comunicarão à Comissão antes do dia 15 de cada mês, relativamente ao mês anterior:\n\na) As quantidades para as quais foram emitidos certificados e que não foram utilizadas, bem como a zona de destino referida no n.o 6 do artigo 9.o;\n\nb) As quantidades objecto da concessão de restituições sem certificado em aplicação do n.o 1, segundo parágrafo, do artigo 4.o do Regulamento (CE) n.o 800/1999.\n\nNesta comunicação serão especificadas as quantidades referidas no n.o 1 e a taxa de restituição.\n\n3. As comunicações a que se refere o n.o 1 devem especificar:\n\na) A quantidade, em hectolitros, correspondente a cada código de produto com 12 algarismos da nomenclatura dos produtos agrícolas para as restituições à exportação. Se um certificado for emitido para vários códigos de 11 algarismos da mesma categoria constante do anexo II, será indicado o número da categoria;\n\nb) A quantidade correspondente a cada código, discriminada por destino, se a taxa de restituição for diferenciada por destino;\n\nc) A taxa de restituição aplicável no respeitante às quantidades a que se refere o n.o 1, alínea c).\n\nSe a taxa de restituição tiver sido alterada durante o período de apresentação dos pedidos de certificado, os pedidos em causa devem ser discriminados por período com uma taxa de restituição diferente.\n\n4. Todas as comunicações a que se referem os n.os 1 e 2, incluindo as comunicações \"nada\", serão efectuadas segundo o modelo constante do anexo V."
+  },
+  "37a5653150c4d7d0": {
+   "fragment_id": "Artigo 13.º — Decisões da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Decisões da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Decisões da Comissão\n\n1. Se, na sequência das comunicações a que se refere o n.o 2, alínea a), do artigo 12.o, voltar a ficar disponível uma quantidade suficiente, a Comissão pode decidir reabrir a possibilidade de apresentação de pedidos de certificados de exportação.\n\n2. A Comissão informará uma vez por mês os Estados-Membros do estado de utilização das quantidades e despesas do compromisso anual estabelecido no acordo para o ano GATT em curso e do esgotamento dessas quantidades e montantes de despesa, quando aquele se verificar."
+  },
+  "1a84e0d07d14b11b": {
+   "fragment_id": "CAPÍTULO III — REGIME DOS PREÇOS DE ENTRADA PARA OS SUMOS E MOSTOS DE UVAS",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — REGIME DOS PREÇOS DE ENTRADA PARA OS SUMOS E MOSTOS DE UVAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — REGIME DOS PREÇOS DE ENTRADA PARA OS SUMOS E MOSTOS DE UVAS"
+  },
+  "c3ba9a5059112124": {
+   "fragment_id": "Artigo 14.º — Verificação em relação a cada lote",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Verificação em relação a cada lote",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Verificação em relação a cada lote\n\n1. No caso dos produtos dos códigos NC 2009 60 e 2204 30, constantes do anexo I, terceira parte, secção I, anexo 2, da pauta aduaneira comum e sujeitos ao regime dos preços de entrada, a autenticidade do preço de importação será verificada em relação a cada lote.\n\n2. Entende-se por \"lote\" a mercadoria apresentada a coberto de uma declaração de colocação em livre prática. A declaração de colocação em livre prática deve contemplar apenas mercadorias com a mesma origem e um só código da Nomenclatura Combinada."
+  },
+  "b29516a7dc246136": {
+   "fragment_id": "Artigo 15.º — Regime de verificação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Regime de verificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regime de verificação\n\n1. O preço de importação com base no qual os produtos referidos no artigo 14.o são classificados na nomenclatura combinada deve ser igual ao preço FOB do produto em causa no país de origem, acrescido das despesas de seguro e de transporte até ao local de introdução no território aduaneiro da Comunidade.\n\n2. Se o preço de importação não puder ser determinado de acordo com o n.o 1 do presente artigo, os produtos referidos no artigo 14.o serão classificados na nomenclatura combinada com base no valor aduaneiro determinado em conformidade com os artigos 30.o e 31.o do Regulamento (CEE) n.o 2913/92 do Conselho(24)."
+  },
+  "1162bf9dc1c108c2": {
+   "fragment_id": "CAPÍTULO IV — REGIME DAS RESTITUIÇÕES À EXPORTAÇÃO NO SECTOR VITIVINÍCOLA",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — REGIME DAS RESTITUIÇÕES À EXPORTAÇÃO NO SECTOR VITIVINÍCOLA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — REGIME DAS RESTITUIÇÕES À EXPORTAÇÃO NO SECTOR VITIVINÍCOLA"
+  },
+  "1b349a8f934f19ba": {
+   "fragment_id": "Artigo 16.º — Periodicidade",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Periodicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Periodicidade\n\nAs restituições à exportação no sector vitivinícola serão revistas periodicamente, pelo menos uma vez por campanha."
+  },
+  "d9c435ecd150d270": {
+   "fragment_id": "Artigo 17.º — Necessidade de certificado",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Necessidade de certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Necessidade de certificado\n\nO benefício das restituições estará subordinado à apresentação de um comprovativo de que os produtos foram exportados a coberto de um certificado de exportação, excepto no que respeita às entregas para os destinos especiais referidos no artigo 36.o do Regulamento (CE) n.o 800/1999 e às entregas relativas às quantidades referidas no anexo III, ponto K, do Regulamento (CE) n.o 1291/2000."
+  },
+  "0052a9274b85eb5e": {
+   "fragment_id": "Artigo 18.º — Comprovativos",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Comprovativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Comprovativos\n\n1. O benefício das restituições está subordinado à apresentação de um comprovativo de que os produtos exportados eram acompanhados, quando da sua exportação, de um certificado de análise emitido por um organismo oficial do Estado-Membro produtor ou do Estado-Membro exportador, atestando que satisfaziam as normas comunitárias qualitativas dos produtos em causa ou, na falta destas, as normas aplicadas a nível nacional pelo Estado-Membro exportador.\n\nQuando se tratar de vinhos de mesa ou de vinhos licorosos que não sejam vqprd, deve, além disso, ser fornecido um comprovativo de que foram aprovados por uma comissão de prova designada pelo Estado-Membro exportador; se esse Estado-Membro não for o país produtor, deve, igualmente, ser fornecido um comprovativo de que se tratava de um vinho de mesa ou de um vinho licoroso comunitário.\n\nO certificado referido no primeiro parágrafo mencionará, pelo menos:\n\na) No caso dos vinhos de mesa e dos vinhos licorosos que não sejam vqprd:\n\n- a cor,\n\n- o título alcoométrico volúmico total,\n\n- o título alcoométrico volúmico adquirido,\n\n- o teor de acidez total,\n\n- se for caso disso, que se trata de vinho referido no n.o 1 do artigo 28.o do Regulamento (CE) n.o 1493/1999 que excede as quantidades normalmente vinificadas, ou a quantidade desse vinho, se se tratar da exportação de um vinho resultante de um lote ou de uma mistura;\n\nb) No caso dos mostos de uvas concentrados, o valor indicado à temperatura de 20 oC pelo refractómetro, utilizado segundo o método a que se refere o ponto 6 do anexo I do Regulamento (CE) n.o 1493/1999.\n\n2. Incumbe ao exportador dar a conhecer às autoridades competentes do Estado-Membro:\n\na) No caso dos vinhos resultantes de um lote, a origem e as quantidades de vinhos utilizadas;\n\nb) Os números e as datas dos documentos de acompanhamento.\n\n3. Se o vinho de mesa objecto de um pedido de restituição resultar de um lote, com a definição que lhe é dada no título II, capítulo V, do Regulamento (CE) n.o 1622/2000, ou de uma mistura de vinhos de mesa que beneficiem de taxas de restituição diferentes, o montante da restituição será calculado proporcionalmente às quantidades de vinho de mesa utilizadas no lote ou na mistura."
+  },
+  "33f255995d68f5d4": {
+   "fragment_id": "Artigo 19.º — Controlo a exercer pelos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Controlo a exercer pelos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Controlo a exercer pelos Estados-Membros\n\n1. Os Estados-Membros podem prever que a aprovação referida no n.o 1, segundo parágrafo, do artigo 18.o seja dada por comissões regionais que comprovem que os vinhos satisfazem as características qualitativas dos vinhos de mesa das regiões de produção de onde provêm.\n\n2. Os Estados-Membros tomarão todas as disposições necessárias para assegurar o controlo a que se referem os artigos 17.o e 18.o Todavia, as disposições do artigo 18.o - excepto as do n.o 2, alínea b) - não são aplicáveis às entregas de vinho de mesa referidas no n.o 1, alínea a), do artigo 36.o do Regulamento (CE) n.o 800/1999, desde que não seja aplicado o procedimento referido no artigo 26.o do mesmo ou no Regulamento (CEE) n.o 565/80.\n\n3. Na aplicação do n.o 2, alínea b), do artigo 18.o, os Estados-Membros exportadores não poderão fazer uso da possibilidade referida no n.o 2 do artigo 4.o do Regulamento (CE) n.o 2238/93."
+  },
+  "9081f828a7573761": {
+   "fragment_id": "CAPÍTULO V — CERTIFICADO E BOLETIM DE ANÁLISE DOS VINHOS E DOS SUMOS E MOSTOS DE UVAS NA IMPORTAÇÃO",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — CERTIFICADO E BOLETIM DE ANÁLISE DOS VINHOS E DOS SUMOS E MOSTOS DE UVAS NA IMPORTAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — CERTIFICADO E BOLETIM DE ANÁLISE DOS VINHOS E DOS SUMOS E MOSTOS DE UVAS NA IMPORTAÇÃO"
+  },
+  "a232294285960664": {
+   "fragment_id": "Secção 1 — Disposições gerais",
+   "type": "divisao",
+   "heading": "Secção 1 — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 1 — Disposições gerais"
+  },
+  "c365e23b61885233": {
+   "fragment_id": "Artigo 20.º — Documentos necessários",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Documentos necessários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Documentos necessários\n\nO certificado e o boletim de análise referidos, respectivamente, no n.o 1, subalíneas i) e ii) da alínea a), do artigo 68.o do Regulamento (CE) n.o 1493/1999 constituirão um mesmo documento, no qual:\n\na) A parte \"certificado\" será elaborada por um organismo do país terceiro do qual os produtos são originários;\n\nb) A parte \"boletim de análise\" será elaborada por um laboratório oficial reconhecido pelo país terceiro do qual os produtos são originários."
+  },
+  "635a260a99977bc0": {
+   "fragment_id": "Artigo 21.º — Conteúdo do boletim de análise",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Conteúdo do boletim de análise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Conteúdo do boletim de análise\n\nO boletim de análise incluirá as seguintes indicações:\n\na) No que diz respeito aos vinhos e aos mostos de uvas parcialmente fermentados:\n\n- o título alcoométrico volúmico total,\n\n- o título alcoométrico volúmico adquirido;\n\nb) No que diz respeito aos mostos de uvas e aos sumos das uvas a densidade;\n\nc) No que diz respeito aos vinhos, aos mostos de uvas e aos sumos de uvas:\n\n- o extracto seco total,\n\n- a acidez total,\n\n- a acidez volátil,\n\n- a acidez cítrica,\n\n- o dióxido de enxofre total,\n\n- a presença de castas provenientes de cruzamentos interespecíficos (híbridos produtores directos) ou de variedades não pertencentes à espécie Vitis vinifera."
+  },
+  "8aa5ee487370f9c9": {
+   "fragment_id": "Artigo 22.º — Isenções",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Isenções\n\n1. Estão isentos da apresentação de certificado e boletim de análise os produtos originários e provenientes de países terceiros apresentados em recipientes de 5 litros ou menos, rotulados e munidos de um dispositivo de fecho não recuperável, quando a quantidade total transportada não exceder 100 litros, ainda que seja constituída por vários lotes individuais.\n\n2. Estão igualmente isentos da apresentação de certificado e boletim de análise:\n\na) As quantidades de produtos não superiores a 30 litros por viajante incluídas nas bagagens pessoais dos viajantes, na acepção do artigo 45.o do Regulamento (CEE) n.o 918/83 do Conselho(25);\n\nb) As quantidades de vinho não superiores a 30 litros que constituam remessas expedidas de particular para particular, na acepção do artigo 29.o do Regulamento (CEE) n.o 918/83;\n\nc) Os vinhos e os sumos de uvas apresentados em recipientes de 5 litros ou menos, rotulados e munidos de um dispositivo de fecho não recuperável, originários e provenientes de países terceiros cujas importações para a Comunidade sejam inferiores a 1000 hectolitros por ano. Os países em causa figuram na lista do anexo VI;\n\nd) Os vinhos e sumos de uvas incluídos nas bagagens de particulares por ocasião de mudanças de residência;\n\ne) Os vinhos e sumos de uvas destinados a feiras - conforme definição das disposições do Regulamento (CEE) n.o 918/83 aplicáveis -, na condição de que os produtos em causa estejam acondicionados em recipientes de 2 litros ou menos, rotulados e munidos de um dispositivo de fecho não recuperável;\n\nf) As quantidades de vinho, mosto de uvas e sumo de uvas importadas para fins de experimentação científica ou técnica, até ao limite de 1 hectolitro;\n\ng) Os vinhos e sumos de uvas destinados às representações diplomáticas, consulados e organismos assimilados, importados ao abrigo das isenções que lhes são concedidas;\n\nh) Os vinhos e sumos de uvas que constituam as provisões de bordo de meios de transporte internacionais.\n\n3. A isenção do n.o 1 não pode ser acumulada com as isenções referidas no n.o 2."
+  },
+  "ecc413446a6cf42f": {
+   "fragment_id": "Artigo 23.º — Exclusão",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Exclusão\n\nO presente capítulo não se aplica aos vinhos licorosos Boberg apresentados com um certificado de denominação de origem."
+  },
+  "0bece23580da8b95": {
+   "fragment_id": "Secção 2",
+   "type": "divisao",
+   "heading": "Secção 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 2\n\nCondições a preencher, regras de elaboração e utilização do certificado e do boletim de análise previstos no âmbito da importação de vinhos, sumos e mostos de uvas"
+  },
+  "aee14dc9c5eda537": {
+   "fragment_id": "Artigo 24.º — Documento VI 1",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Documento VI 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Documento VI 1\n\n1. O certificado e o boletim de análise serão elaborados no mesmo documento VI 1 relativamente a cada lote destinado a importação para a Comunidade. Entende-se por lote a quantidade do mesmo produto expedida pelo mesmo expedidor para o mesmo destinatário.\n\nEsse documento será elaborado num formulário VI 1 conforme com o modelo constante do anexo VII, na observância das condições técnicas constantes do anexo VIII. Será assinado por um funcionário de um organismo oficial e por um funcionário de um laboratório reconhecido, a que se refere o artigo 29.o\n\n2. Se o produto em causa não se destinar ao consumo humano directo, a parte \"Boletim de análise\" do formulário VI 1 não necessita de ser preenchida.\n\nSe se tratar de um vinho acondicionado em recipientes rotulados de capacidade não superior a 60 litros, munidos de um dispositivo de fecho não recuperável, e esse vinho for originário de um país constante da lista do anexo IX, que tenha oferecido garantias especiais aceites pela Comunidade, a parte \"Boletim de análise\" do formulário VI 1 só deve ser preenchida no que se refere:\n\n- ao título alcoométrico adquirido,\n\n- à acidez total,\n\n- ao dióxido de enxofre total."
+  },
+  "b4470affebdcd371": {
+   "fragment_id": "Artigo 25.º — Descrição dos documentos",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Descrição dos documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Descrição dos documentos\n\n1. Os formulários VI 1 são constituídos, por esta ordem, por um original, dactilografado ou manuscrito, e por uma cópia, obtida directamente daquele. Os formulários VI 2 são constituídos, por esta ordem, por um original e duas cópias. Um formulário VI 2 é um extracto em que são inscritos os dados constantes de um documento VI 1 ou de outro extracto VI 2, elaborado em conformidade com o modelo do anexo X e visado por uma estância aduaneira da Comunidade.\n\nO original e a cópia acompanharão o produto. Os formulários VI 1 e VI 2 devem ser preenchidos à máquina ou à mão ou por recurso a meios técnicos equivalentes reconhecidos por um organismo oficial. Em caso de preenchimento à mão, este deve ser feito a tinta e em letra de imprensa. Os formulários não podem conter rasuras ou emendas. As alterações devem ser feitas riscando as indicações erradas e acrescentando, se for caso disso, as indicações pretendidas. As alterações assim efectuadas devem ser aprovadas pelo seu autor e visadas pelo organismo oficial, pelo laboratório ou pelas autoridades aduaneiras.\n\n2. Os documentos VI 1 e os extractos VI 2 serão identificados com um número de ordem atribuído, no caso dos documentos VI 1, pelo organismo oficial a que pertencer o funcionário responsável que assinar o certificado e, no caso dos extractos VI 2, pela estância aduaneira que os visar em conformidade com os n.os 2 e 3 do artigo 28.o"
+  },
+  "d4383a71d709dbda": {
+   "fragment_id": "Artigo 26.º — Procedimento simplificado",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Procedimento simplificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Procedimento simplificado\n\n1. Os documentos VI 1 elaborados por produtores de vinho instalados em países terceiros constantes do anexo IX cujas garantias especiais oferecidas tenham sido aceites pela Comunidade serão equiparados a certificados ou boletins de análise elaborados pelos organismos e laboratórios constantes da lista referida no artigo 29.o se os produtores em causa tiverem sido aprovados individualmente pelas autoridades competentes dos referidos países terceiros e estiverem sujeitos ao controlo dessas autoridades.\n\n2. Os produtores aprovados referidos no n.o 1 utilizarão o formulário VI 1, de cuja casa n.o 10 constarão o nome e o endereço do organismo oficial do país terceiro que concedeu a aprovação. Os produtores preencherão o formulário e indicarão ainda:\n\n- na casa n.o 1, além do seu nome e endereço, o seu número de registo nos países terceiros constantes do anexo IX,\n\n- na casa n.o 11, pelo menos os elementos referidos no n.o 2 do artigo 24.o\n\nAssinarão no local previsto para o efeito nas casas n.os 10 e 11, após terem riscado as palavras \"nome e qualidade do responsável\".\n\nNão são necessários carimbos, nem a indicação do nome e endereço do laboratório."
+  },
+  "cae35d35a5492389": {
+   "fragment_id": "Artigo 27.º — Derrogações",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Derrogações\n\n1. A aplicação do n.o 2 do artigo 24.o e do artigo 26.o pode ser suspensa se se verificar que os produtos a que tais medidas se aplicam foram objecto de falsificações susceptíveis de pôr em perigo a saúde dos consumidores ou de práticas enológicas não admitidas na Comunidade.\n\n2. O n.o 2 do artigo 24.o e o artigo 26.o são aplicáveis até à entrada em vigor do acordo resultante das negociações com os Estados Unidos da América com vista à conclusão de um acordo sobre o comércio de vinho, mas o mais tardar até 31 de Dezembro de 2003."
+  },
+  "d78faa193d38c885": {
+   "fragment_id": "Artigo 28.º — Regras de utilização",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Regras de utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Regras de utilização\n\n1. O original e a cópia do documento VI 1 ou do extracto VI 2 serão entregues, quando do cumprimento das formalidades aduaneiras necessárias para a colocação em livre prática do lote a que dizem respeito, às autoridades competentes do Estado-Membro em cujo território essa operação for efectuada.\n\nEssas autoridades efectuarão as anotações eventualmente necessárias no verso do documento VI 1 ou do extracto VI 2. As mesmas autoridades entregarão o original ao interessado e conservarão a cópia durante pelo menos cinco anos.\n\n2. Se um lote de um produto for reexpedido na totalidade antes da sua colocação em livre prática, o novo expedidor enviará o documento VI 1 ou o extracto VI 2 relativo a esse lote às autoridades aduaneiras sob cuja vigilância se encontrar o lote em causa, bem como, eventualmente, um formulário VI 2 elaborado consecutivamente.\n\nApós terem verificado a concordância das indicações constantes do documento VI 1 com as constantes do formulário VI 2 ou, se for caso disso, a concordância das indicações constantes do extracto VI 2 com as constantes do formulário VI 2 elaborado consecutivamente, essas autoridades visarão este último, que passará a valer de extracto VI 2, e efectuarão as anotações necessárias no documento ou no extracto anterior. As referidas autoridades entregarão o extracto, bem como o original do documento VI 1 ou do extracto VI 2 anterior, ao novo expedidor e conservarão a cópia desse documento durante pelo menos cinco anos.\n\nA elaboração do formulário VI 2 não é, porém, obrigatória se o lote do produto for reexportado para um país terceiro.\n\n3. Se um lote de um produto for fraccionado antes da sua colocação em livre prática, o interessado entregará o original e a cópia do documento VI 1 ou o extracto VI 2 relativo a esse lote às autoridades aduaneiras sob cuja vigilância se encontrar o lote a fraccionar, bem como, para cada novo lote, o original de um formulário VI 2 e duas cópias, elaborados consecutivamente.\n\nApós terem verificado a concordância das indicações constantes do documento VI 1 ou do extracto VI 2 com as constantes do formulário VI 2 elaborado consecutivamente para cada novo lote, essas autoridades visarão este último, que passará a valer de extracto VI 2, e efectuarão as anotações necessárias no verso do documento VI 1 ou do extracto VI 2 a partir do qual o dito extracto tiver sido elaborado. As referidas autoridades entregarão o extracto VI 2, bem como o documento VI 1 ou o extracto VI 2 elaborado anteriormente, ao interessado e conservarão uma cópia de cada um desses documentos durante pelo menos cinco anos."
+  },
+  "1b50231fe3580fa6": {
+   "fragment_id": "Artigo 29.º — Listas dos organismos competentes",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Listas dos organismos competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Listas dos organismos competentes\n\n1. Com base nas comunicações das autoridades competentes dos países terceiros, a Comissão elaborará e manterá actualizadas listas dos nomes e endereços dos organismos e laboratórios, bem como dos produtores de vinho autorizados a elaborar os documentos VI 1. A Comissão publicará essas listas na série C do Jornal Oficial das Comunidades Europeias.\n\n2. As comunicações das autoridades competentes dos países terceiros referidas no n.o 1 contemplarão:\n\na) Os nomes e endereços dos organismos oficiais e laboratórios reconhecidos ou designados para a elaboração dos documentos VI 1;\n\nb) Os nomes, endereços e números de registo oficial dos produtores de vinho autorizados a elaborarem eles próprios os documentos VI 1.\n\nSó constarão das listas os organismos competentes e os laboratórios referidos no primeiro parágrafo, alínea a), que tiverem sido autorizados pelas autoridades competentes do país terceiro respectivo a fornecer à Comissão, bem como aos Estados-Membros, mediante pedido nesse sentido, todas as informações pertinentes necessárias à apreciação dos dados constantes do documento.\n\n3. As listas serão actualizadas, nomeadamente para ter em conta as alterações resultantes de mudanças de endereço e/ou de denominação dos organismos ou laboratórios."
+  },
+  "a2096c963a31527e": {
+   "fragment_id": "Artigo 30.º — Regras a aplicar no caso de importação indirecta",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Regras a aplicar no caso de importação indirecta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Regras a aplicar no caso de importação indirecta\n\nSe um vinho for exportado de um país terceiro em cujo território tiver sido elaborado (seguidamente denominado \"país de origem\") para outro país terceiro (seguidamente denominado \"país de exportação\"), do qual seja depois exportado para a Comunidade, as autoridades competentes do país de exportação podem elaborar o documento VI para o vinho em questão com base num documento VI 1 ou num documento equivalente elaborado pelas autoridades competentes do país de origem, sem que seja necessário efectuar análises suplementares, se esse vinho:\n\na) Tiver sido engarrafado e rotulado no país de origem e assim tiver permanecido; ou\n\nb) Tiver sido exportado a granel do país de origem e engarrafado e rotulado no país de exportação, sem ter sofrido posteriormente qualquer outra transformação.\n\nAs autoridades competentes do país de exportação devem certificar no documento VI 1 que se trata de um vinho referido no primeiro parágrafo e que preenche as condições aí previstas."
+  },
+  "9b97daa6891f96f4": {
+   "fragment_id": "Artigo 31.º — Conformidade das práticas enológicas",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Conformidade das práticas enológicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Conformidade das práticas enológicas\n\n1. Sem prejuízo do artigo 45.o e do n.o 1, alíneas a), b) e c), do artigo 46.o do Regulamento (CE) n.o 1493/1999 e respectivas normas de execução, os produtos originários de países terceiros só podem ser oferecidos ou colocados no consumo humano directo se também tiverem sido obtidos respeitando, relativamente às práticas enológicas referidas nos pontos C, D e E do anexo V do Regulamento (CE) n.o 1493/1999, os limites previstos para a zona vitícola da Comunidade cujas condições naturais de produção forem equivalentes às da região de produção de onde são originários.\n\nA equivalência das condições de produção será apreciada de acordo com o procedimento do artigo 75.o do Regulamento (CE) n.o 1493/1999, sob proposta das autoridades competentes do país terceiro em causa.\n\n2. Se as autoridades competentes de um Estado-Membro suspeitarem de que um produto originário de um país terceiro não respeita as disposições do n.o 1 informarão sem demora a Comissão desse facto."
+  },
+  "491672cb0b76fce3": {
+   "fragment_id": "Artigo 32.º — Regras especiais aplicáveis a certos vinhos",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Regras especiais aplicáveis a certos vinhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regras especiais aplicáveis a certos vinhos\n\n1. No caso dos vinhos licorosos e dos vinhos aguardentados, a validade dos documentos VI 1 só é reconhecida se o organismo oficial a que se refere o artigo 29.o tiver inscrito, na casa n.o 15, a menção seguinte: \"Certifica-se que o álcool adicionado a este vinho é de origem vínica\".\n\nEsta menção deve ser completada com as indicações seguintes:\n\na) O nome e o endereço completo do organismo emissor;\n\nb) A assinatura de um responsável desse organismo;\n\nc) O carimbo desse organismo.\n\n2. No caso dos vinhos que beneficiem de uma redução pautal ao serem importados para a Comunidade, os documentos VI 1 podem servir de certificado comprovativo da denominação de origem prevista nos acordos correspondentes, desde que o organismo oficial tenha inscrito, na casa n.o 15, a menção seguinte: \"Certifica-se que o vinho objecto do presente documento foi produzido na região vitícola... e que a denominação de origem constante da casa n.o 6 lhe foi atribuída em conformidade com as disposições do país de origem\".\n\nEsta menção deve ser completada com as indicações previstas no n.o 1, segundo parágrafo."
+  },
+  "21cfce477b39975a": {
+   "fragment_id": "CAPÍTULO VI — DERROGAÇÕES ANALÍTICAS APLICÁVEIS A CERTOS VINHOS IMPORTADOS",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — DERROGAÇÕES ANALÍTICAS APLICÁVEIS A CERTOS VINHOS IMPORTADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — DERROGAÇÕES ANALÍTICAS APLICÁVEIS A CERTOS VINHOS IMPORTADOS"
+  },
+  "df00401b168a98e2": {
+   "fragment_id": "Artigo 33.º",
+   "type": "artigo",
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n1. Podem ser importados para a Comunidade, para consumo humano directo, os vinhos seguintes:\n\na) Os vinhos originários da Hungria cujo título alcoométrico volúmico total exceda 15 % vol sem qualquer enriquecimento, quando forem designados:\n\ni) pelos termos \"Tokaji Aszu\" ou \"Tokaji Aszu-eszencia\" ou \"Takaji Eszencia\" ou \"Tokaji Szamorodni\", ou\n\nii) pela menção \"Kueloenleges Minoeségue bor\" (vinho de qualidade superior), completada por uma indicação geográfica e por uma das seguintes menções:\n\n- \"késöl szüretelésü bor\",\n\n- \"válogatott szüretelésü bor\",\n\n- \"töppedt szölöböl készült bor\",\n\n- \"aszubor\";\n\nb) Os vinhos originários da Suíça, assimiláveis aos vqprd, cujo teor de acidez total, expressa em ácido tartárico, seja inferior a 4,5 g/l, mas superior a 3 g/l, quando sejam obrigatoriamente designados por uma indicação geográfica e quando, pelo menos, 85 % das uvas utilizadas na sua elaboração pertencerem a uma ou mais das seguintes castas:\n\n- Chasselas,\n\n- Mueller-Thurgau,\n\n- Sylvaner,\n\n- Pinot noir,\n\n- Merlot.\n\nc) Os vinhos originários da Roménia, cujo título alcoométrico volúmico total exceda 15 % vol sem qualquer enriquecimento, quando forem designados pelos termos \"VSOC\" ou \"Vinuri de calitate superioara cu denumire de origine si trepte de calitate\" e ostentarem uma das seguintes indicações geográficas:\n\n- Cernavoda,\n\n- Cotnari,\n\n- Medgidia,\n\n- Murfatlar,\n\n- Nazarcea,\n\n- Pietroasa.\n\n2. Para efeitos de aplicação do n.o 1, alíneas a), b) e c), o organismo oficial do país de origem habilitado para a elaboração do documento VI 1 referido no presente regulamento inscreverá, na casa n.o 15 do mesmo, a menção: \"Certifica-se que este vinho satisfaz as condições previstas no n.o 1, [subalínea i)] [subalínea ii)] da alínea b), do artigo 68.oo do Regulamento (CE) n.o 1493/1999 e no regulamento (CE) n.o 883/2001\".\n\nO organismo oficial autenticará esta menção com a aposição do seu carimbo."
+  },
+  "b3a09e4068ae9edc": {
+   "fragment_id": "CAPÍTULO VII — DEFINIÇÕES DE DETERMINADOS PRODUTOS DO SECTOR VITIVINÍCOLA ORIGINÁRIOS DE PAÍSES TERCEIROS",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII — DEFINIÇÕES DE DETERMINADOS PRODUTOS DO SECTOR VITIVINÍCOLA ORIGINÁRIOS DE PAÍSES TERCEIROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — DEFINIÇÕES DE DETERMINADOS PRODUTOS DO SECTOR VITIVINÍCOLA ORIGINÁRIOS DE PAÍSES TERCEIROS"
+  },
+  "b16d2fd5dfa00f21": {
+   "fragment_id": "Artigo 34.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Definições\n\nAs definições dos produtos seguintes do sector vitivinícola dos códigos NC 2009 e 2204 e originários de países terceiros figuram no anexo XI:\n\na) Mosto de uvas frescas amuado com álcool;\n\nb) Mosto de uvas concentrado;\n\nc) Mosto de uvas concentrado rectificado;\n\nd) Vinho licoroso;\n\ne) Vinho espumante;\n\nf) Vinho espumoso gaseificado;\n\ng) Vinho frisante;\n\nh) Vinho frisante gaseificado;\n\ni) Vinho de uvas sobreamadurecidas."
+  },
+  "fb9b0dc27dd52727": {
+   "fragment_id": "CAPÍTULO VIII — DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — DISPOSIÇÕES FINAIS"
+  },
+  "4effea21020b0c21": {
+   "fragment_id": "Artigo 35.º — Revogações",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Revogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Revogações\n\nSão revogados os Regulamentos (CEE) n.o 3388/81, (CEE) n.o 3389/81, (CEE) n.o 3590/85, (CE) n.o 1685/95 e (CE) n.o 1281/1999."
+  },
+  "e76a542fd6d2a330": {
+   "fragment_id": "Artigo 36.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Fevereiro de 2001.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 24 de Abril de 2001.\n\nPela Comissão\n\nFranz Fischler\n\nMembro da Comissão\n\n(1) JO L 179 de 14.7.1999, p. 1.\n\n(2) JO L 328 de 23.12.2000, p. 2.\n\n(3) JO L 341 de 28.11.1981, p. 19.\n\n(4) JO L 328 de 22.12.1999, p. 60.\n\n(5) JO L 341 de 28.11.1981, p. 24.\n\n(6) JO L 284 de 28.11.1995, p. 6.\n\n(7) JO L 343 de 20.12.1985, p. 20.\n\n(8) JO L 135 de 8.5.1998, p. 4.\n\n(9) JO L 161 de 12.7.1995, p. 2.\n\n(10) JO L 289 de 16.11.2000, p. 21.\n\n(11) JO L 153 de 19.6.1999, p. 38.\n\n(12) JO L 152 de 24.6.2000, p. 1.\n\n(13) JO L 272 de 3.10.1990, p. 1.\n\n(14) JO L 194 de 31.7.2000, p. 1.\n\n(15) JO L 102 de 17.4.1999, p. 11.\n\n(16) JO L 14 de 18.1.2001, p. 22.\n\n(17) JO L 200 de 10.8.1993, p. 10.\n\n(18) JO L 188 de 21.7.1999, p. 33.\n\n(19) JO L 62 de 7.3.1980, p. 5.\n\n(20) JO L 199 de 22.7.1983, p. 12.\n\n(21) JO L 337 de 31.12.1993, p. 94 e 178.\n\n(22) JO L 185 de 25.7.2000, p. 24.\n\n(23) JO L 102 de 12.4.2001, p. 33.\n\n(24) JO L 302 de 19.10.1992, p. 1.\n\n(25) JO L 105 de 23.4.1983, p. 1."
+  },
+  "5122ee641dd3a469": {
+   "fragment_id": "ANEXO I — >PIC FILE= \"L_2001128PT.001602.EPS\">",
+   "type": "divisao",
+   "heading": "ANEXO I — >PIC FILE= \"L_2001128PT.001602.EPS\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — >PIC FILE= \"L_2001128PT.001602.EPS\">"
+  },
+  "bda14096afb174e0": {
+   "fragment_id": "ANEXO II — Categorias de produtos referidas no n.o 1 do artigo 8.o",
+   "type": "divisao",
+   "heading": "ANEXO II — Categorias de produtos referidas no n.o 1 do artigo 8.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Categorias de produtos referidas no n.o 1 do artigo 8.o\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "beaa56b1367a7bfb": {
+   "fragment_id": "ANEXO III — Grupos de produtos referidos no n.o 2 do artigo 8.o",
+   "type": "divisao",
+   "heading": "ANEXO III — Grupos de produtos referidos no n.o 2 do artigo 8.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Grupos de produtos referidos no n.o 2 do artigo 8.o\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "c9fa0f06c47c934b": {
+   "fragment_id": "ANEXO IV — Lista de países por zonas de destino, a que se refere o n.o 6 do artigo 9.o",
+   "type": "divisao",
+   "heading": "ANEXO IV — Lista de países por zonas de destino, a que se refere o n.o 6 do artigo 9.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Lista de países por zonas de destino, a que se refere o n.o 6 do artigo 9.o\n\nZona 1: África\n\nAngola, Benim, Botsuana, Burquina Faso, Burundi, Camarões, Cabo Verde, Comores, República Democrática do Congo, República do Congo, Costa do Marfim, Jibuti, Egipto, Eritreia, Etiópia, Gabão, Gâmbia, Gana, Guiné, Guiné Equatorial, Guiné-Bissau, Quénia, Lesoto, Libéria, Líbia, Madagáscar, Malavi, Mali, Maurícia, Mauritânia, Mayotte, Moçambique, Namíbia, Níger, Nigéria, Uganda, República Centro-Africana, Ruanda, Santa Helena e dependências, São Tomé e Príncipe, Senegal, Seicheles e dependências, Serra Leoa, Somália, Sudão, Suazilândia, Tanzânia, Chade, Território Britânico do Oceano Índico, Togo, Zâmbia, Zimbabué.\n\nZona 2: Ásia e Oceânia\n\nAfeganistão, Arábia Saudita, Barém, Bangladeche, Butão, Brunei, Camboja, China, Cisjordânia/Faixa de Gaza, Coreia do Norte, Coreia do Sul, Emiratos Árabes Unidos, Estados Federados da Micronésia, Ilhas Fiji, Hong Kong, Marianas do Norte, Ilhas Marshall, Ilhas Salomão, Wallis e Futuna, Índia, Indonésia, Irão, Iraque, Japão, Jordânia, Quiribati, Kowait, Laos, Líbano, Macau, Malásia, Maldivas, Mongólia, Mianmar, Nauru, Nepal, Nova Caledónia e dependências, Nova Zelândia, Oceânia americana, Oceânia australiana, Oceânia neozelandesa, Omã, Paquistão, Palau, Papua-Nova Guiné, Filipinas, Pitcairn, Polinésia Francesa, Catar, Samoa, Singapura, Sri Lanca, Síria, Taiwan, Tailândia, Tonga, Tuvalu, Vanuatu, Vietname, Iémen.\n\nZona 3: Europa de Leste e países da Comunidade de Estados Independentes\n\nAlbânia, Arménia, Azerbaijão, Bielorrússia, Estónia, Geórgia, Casaquistão, Quirguizistão, Letónia, Lituânia, Moldávia, Usbequistão, Polónia, República Checa, Rússia, Eslováquia, Tajiquistão, Turquemenistão, Ucrânia.\n\nZona 4: Europa ocidental\n\nAndorra, Ceuta e Melilha, Santa Sé, Gibraltar, Faroé, Islândia, Listenstaine, Malta, Noruega, São Marinho."
+  },
+  "b36780013672e333": {
+   "fragment_id": "ANEXO V — Comunicações referidas no n.o 4 do artigo 12.o",
+   "type": "divisao",
+   "heading": "ANEXO V — Comunicações referidas no n.o 4 do artigo 12.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — Comunicações referidas no n.o 4 do artigo 12.o\n\n>PIC FILE= \"L_2001128PT.002002.EPS\">"
+  },
+  "0c9d136aec0ddc2f": {
+   "fragment_id": "ANEXO VI — Lista dos países referidos no artigo 22.o",
+   "type": "divisao",
+   "heading": "ANEXO VI — Lista dos países referidos no artigo 22.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — Lista dos países referidos no artigo 22.o\n\n- Canadá\n\n- Irão\n\n- Líbano\n\n- República Popular da China\n\n- Taiwan\n\n- Índia\n\n- Bolívia\n\n- República de São Marinho"
+  },
+  "8ab2e31e15b9a518": {
+   "fragment_id": "ANEXO VII — Documento V I 1 referido no n.o 1 do artigo 24.o",
+   "type": "divisao",
+   "heading": "ANEXO VII — Documento V I 1 referido no n.o 1 do artigo 24.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — Documento V I 1 referido no n.o 1 do artigo 24.o\n\n>PIC FILE= \"L_2001128PT.002302.EPS\">\n\n>PIC FILE= \"L_2001128PT.002401.EPS\">"
+  },
+  "61f0ca101e2382f0": {
+   "fragment_id": "ANEXO VIII — Condições técnicas relativas aos documentos VI 1 e VI 2 referidos nos artigos 24.o e 25.o",
+   "type": "divisao",
+   "heading": "ANEXO VIII — Condições técnicas relativas aos documentos VI 1 e VI 2 referidos nos artigos 24.o e 25.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII — Condições técnicas relativas aos documentos VI 1 e VI 2 referidos nos artigos 24.o e 25.o\n\nA. Impressão dos formulários\n\n1. O formato dos formulários é de cerca de 210 × 297 mm aproximadamente.\n\n2. O papel a utilizar é um papel branco colado, para escrita, com pelo menos 40 g/m2.\n\n3. De cada formulário deve constar o nome e o endereço ou a marca do impressor.\n\n4. Os formulários serão impressos numa das línguas oficiais da Comunidade; no que diz respeito aos formulários VI 2, essa língua será especificada pelas autoridades competentes do Estado-Membro no qual os formulários serão visados.\n\nB. Modo de preenchimento dos formulários\n\n1. Os formulários serão preenchidos na língua em que tiverem sido impressos.\n\n2. A cada formulário será atribuído um número de ordem:\n\n- no que diz respeito aos formulários VI 1, pelo organismo oficial que assinar a parte \"Certificado\",\n\n- no que diz respeito aos formulários VI 2, pela estância aduaneira que os visar.\n\n3. O produto será designado na casa n.o 6 do formulário VI 1 e na casa n.o 5 do extracto VI 2 em conformidade com o artigo 32o do Regulamento (CEE) n.o 2392/89."
+  },
+  "d4579cab13c0109b": {
+   "fragment_id": "ANEXO IX — Lista dos países a que se referem o n.o 2 do artigo 24o e o artigo 26o",
+   "type": "divisao",
+   "heading": "ANEXO IX — Lista dos países a que se referem o n.o 2 do artigo 24o e o artigo 26o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX — Lista dos países a que se referem o n.o 2 do artigo 24o e o artigo 26o\n\n- Austrália\n\n- Estados Unidos da América"
+  },
+  "0584aa9840684942": {
+   "fragment_id": "ANEXO X — Documento V I 2 referido no n.o 1 do artigo 25.o",
+   "type": "divisao",
+   "heading": "ANEXO X — Documento V I 2 referido no n.o 1 do artigo 25.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO X — Documento V I 2 referido no n.o 1 do artigo 25.o\n\n>PIC FILE= \"L_2001128PT.002702.EPS\">\n\n>PIC FILE= \"L_2001128PT.002801.EPS\">"
+  },
+  "2d13ea6c4062a6ad": {
+   "fragment_id": "ANEXO XI — Definições referidas no artigo 34.o",
+   "type": "divisao",
+   "heading": "ANEXO XI — Definições referidas no artigo 34.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XI — Definições referidas no artigo 34.o\n\nPara os efeitos do disposto no presente regulamento relativamente à importação, entende-se por:\n\na) \"Mosto de uvas frescas amuado com álcool\", o produto:\n\n- cujo título alcoométrico volúmico adquirido seja igual ou superior a 12 % vol e inferior a 15 % vol, e\n\n- obtido por adição de um produto resultante da destilação de vinho a um mosto de uvas não fermentado cujo título alcoométrico volúmico natural não seja inferior a 8,5 % vol e que seja proveniente, exclusivamente, de castas de uva de vinho admitidas no país terceiro de origem;\n\nb) \"Mosto de uvas concentrado\", o mosto de uvas não caramelizado:\n\n- obtido por desidratação parcial de mosto de uvas, efectuada por qualquer método autorizado pelas disposições do país terceiro de origem e não proibido pela regulamentação comunitária, excluindo o fogo directo, de modo que o valor indicado à temperatura de 20 °C pelo refractómetro, utilizado segundo o método previsto no anexo XVIII do Regulamento (CE) n.o 1622/2000, não seja inferior a 50,9 %,\n\n- proveniente, exclusivamente, de castas de uva de vinho admitidas no país terceiro de origem, e\n\n- obtido de mosto de uvas cujo título alcoométrico volúmico natural seja, pelo menos, o mínimo fixado pelo país terceiro de origem para a elaboração de vinhos destinados ao consumo humano directo; esse título não pode ser inferior a 8,5 % vol.\n\nÉ admitido um título alcoométrico volúmico adquirido do mosto de uvas concentrado que não exceda 1 % vol;\n\nc) \"Mosto de uvas concentrado rectificado\", o produto líquido não caramelizado:\n\ni) obtido por desidratação parcial de mosto de uvas, efectuada por qualquer método autorizado pelas disposições do país terceiro de origem e não proibido pela regulamentação comunitária, excluindo o fogo directo, de modo que o valor indicado à temperatura de 20 °C pelo refractómetro, utilizado segundo o método previsto no anexo XVIII do Regulamento (CE) n.o 1622/2000, não seja inferior a 61,7 %,\n\nii) que tenha sido sujeito a tratamentos de desacidificação e de eliminação de componentes, com excepção do açúcar, autorizados pelas disposições do país terceiro de origem e não proibidos pela regulamentação comunitária,\n\niii) que apresente as características seguintes:\n\n- pH não superior a 5, a 25 °Brix,\n\n- densidade óptica, a 425 nm, não superior a 0,100, para uma espessura de 1 cm de mosto de uvas concentrado, a 25 °Brix,\n\n- teor de sacarose não detectável, segundo um método de análise a determinar,\n\n- índice de Folin-Ciocalteau não superior a 6, a 25 °Brix,\n\n- acidez titulável não superior a 15 miliequivalentes por quilograma de açúcares totais,\n\n- teor de dióxido de carbono não superior a 25 miligramas por quilograma de açúcares totais,\n\n- teor de catiões totais não superior a 8 miliequivalentes por quilograma de açúcares totais,\n\n- condutividade não superior a 120 microsiemens por centímetro, a 25 °Brix e 20 °C,\n\n- teor de hidroximetilfurfural não superior a 25 miligramas por quilograma de açúcares totais,\n\n- presença de mesoinositol,\n\niv) proveniente exclusivamente de castas de uva de vinho admitidas no país terceiro de origem, e\n\nv) obtido de mosto de uvas cujo título alcoométrico volúmico natural seja, pelo menos, o mínimo fixado pelo país terceiro de origem para a elaboração de vinhos destinados ao consumo humano directo; esse título não pode ser inferior a 8,5 % vol.\n\nÉ admitido um título alcoométrico volúmico adquirido do mosto de uvas concentrado rectificado que não exceda 1 % vol;\n\nd) \"Vinho licoroso\", o produto:\n\n- cujo título alcoométrico volúmico adquirido não seja inferior a 15 % vol, nem superior a 22 % vol, e cujo título alcoométrico volúmico total não seja inferior a 17,5 % vol, e\n\n- obtido a partir de mosto de uvas parcialmente fermentado, de vinho ou da mistura desses produtos - que devem ser provenientes de castas admitidas no país terceiro de origem para a produção de vinho licoroso e cujo título alcoométrico volúmico natural inicial não seja inferior a 12 % vol - e por adição:\n\ni) isolados ou em mistura, de álcool neutro de origem vitícola, incluindo álcool resultante da destilação de uvas secas, cujo título alcoométrico volúmico adquirido não seja inferior a 96 % vol e de destilado de vinho ou de uvas secas cujo título alcoométrico volúmico adquirido não seja inferior a 52 % vol, nem superior a 86 % vol,\n\nii) assim como, eventualmente, de um ou mais dos seguintes produtos:\n\n- mosto de uvas concentrado,\n\n- mistura de um dos produtos referidos na subalínea i) com um mosto de uvas ou um mosto de uvas parcialmente fermentado.\n\nDeterminados vinhos licorosos de qualidade cujas condições de produção tenham sido reconhecidas equivalentes às de um vlqprd e que constem de uma lista a adoptar podem, porém:\n\n- ter um título alcoométrico volúmico total inferior a 17,5 % vol, mas não inferior a 15 % vol, se tal estiver expressamente previsto na legislação do país terceiro de origem que lhes era aplicável antes de 1 de Janeiro de 1985, ou\n\n- ser obtidos a partir de mosto de uvas cujo título alcoométrico volúmico natural seja inferior a 12 % vol, mas não inferior a 10,5 % vol;\n\ne) \"Vinho espumante\", o produto:\n\n- cujo título alcoométrico volúmico adquirido não seja inferior a 8,5 % vol,\n\n- obtido por primeira ou segunda fermentação alcoólica de uvas frescas, mosto de uvas ou vinho, e\n\n- caracterizado, quando se procede à abertura do recipiente, por uma libertação de dióxido de carbono proveniente exclusivamente da fermentação e que, quando conservado à temperatura de 20 °C em recipientes fechados, acusa uma sobrepressão devida ao dióxido de carbono em solução não inferior a 3 bar;\n\nf) \"Vinho espumoso gaseificado\", o produto:\n\n- cujo título alcoométrico volúmico adquirido não seja inferior a 8,5 % vol,\n\n- obtido a partir de vinho,\n\n- caracterizado, quando se procede à abertura do recipiente, pela libertação de dióxido de carbono proveniente, total ou parcialmente, de uma adição desse gás, e\n\n- que acusa, quando conservado à temperatura de 20 °C em recipientes fechados, uma sobrepressão devida ao dióxido de carbono em solução não inferior a 3 bar;\n\ng) \"Vinho frisante\", o produto:\n\n- cujo título alcoométrico volúmico adquirido não seja inferior a 8,5 % vol, e\n\n- que acusa, quando conservado à temperatura de 20 °C em recipientes fechados, uma sobrepressão devida ao dióxido de carbono endógeno em solução não inferior a 1 bar, nem superior a 2,5 bar;\n\nh) \"Vinho frisante gaseificado\", o produto:\n\n- cujo título alcoométrico volúmico adquirido não seja inferior a 8,5 % vol, e\n\n- que acusa, quando conservado à temperatura de 20 °C em recipientes fechados, uma sobrepressão devida ao dióxido de carbono em solução, total ou parcialmente acrescentado, não inferior a 1 bar, nem superior a 2,5 bar;\n\ni) \"Vinho de uvas sobreamadurecidas\", o produto:\n\n- cujo título alcoométrico volúmico natural seja superior a 15 % vol,\n\n- cujo título alcoométrico volúmico total não seja inferior a 16 % vol e cujo título alcoométrico volúmico adquirido não seja inferior a 12 % vol,\n\n- fabricado no país terceiro de origem a partir de uvas colhidas nesse país, provenientes das castas de uva de vinho admitidas no mesmo país,\n\n- eventualmente envelhecido."
+  },
+  "5aad568cf9dfbc78": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2001R0883 — PT — 01.08.2008 — 015.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32001R0883) [REGULAMENTO (CE) N.º 883/2001 DA COMISSÃO](http://publications.europa.eu/resource/celex/32001R0883) [de 24 de Abril de 2001](http://publications.europa.eu/resource/celex/32001R0883) [que estabelece normas de execução do Regulamento (CE) n.º 1493/1999 do Conselho no que respeita ao comércio de produtos do sector vitivinícola com os países terceiros](http://publications.europa.eu/resource/celex/32001R0883) (JO L 128, 10.5.2001, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 555/2008 da Comissão de 27 de Junho de 2008](http://publications.europa.eu/resource/celex/32008R0555) — L 170 — 1 — 30.6.2008"
+  }
+ }
+}

@@ -35,6 +35,124 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-11-05'
+version_history:
+  file: regulamento-ue-2008-340.versoes.json
+  count: 7
+  source_lastmod: '2025-11-05'
+  versions:
+  - date: '2008-04-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-03-22'
+    amending: eu:celex:32013R0254:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 254/2013 DA COMISSÃO de 20 de março de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Taxas por registos apresentados nos termos dos artigos 6.º, 7.º ou 11.º do Regulamento (CE) n.º
+      1907/2006
+    - Altera Artigo 4.º — Taxas por registos apresentados nos termos do n.º 2 do artigo 17.º, dos n.^os^ 2 ou 3 do artigo
+      18.º, ou do artigo 19.º do Regulamento (CE) n.º 1907/2006
+    - Altera Artigo 5.º — Taxas por actualizações de um registo nos termos do artigo 22.º do Regulamento (CE) n.º 1907/2006
+    - Altera Artigo 6.º — Taxas por pedidos nos termos da subalínea xi) da alínea a) do artigo 10.º do Regulamento (CE) n.º
+      1907/2006
+    - Altera Artigo 7.º — Taxas e emolumentos por notificações nos termos do artigo 9.º do Regulamento (CE) n.º 1907/2006
+    - Altera Artigo 8.º — Taxas por pedidos nos termos do artigo 62.º do Regulamento (CE) n.º 1907/2006
+    - Altera Artigo 9.º — Emolumentos por revisão de autorizações nos termos do artigo 61.º do Regulamento (CE) n.º 1907/2006
+    - Altera Artigo 13.º — Reduções e dispensa de taxa
+    - Altera Artigo 22.º — Revisão
+    - Altera Artigo 23.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Taxas por registos apresentados nos termos dos artigos 6.º, 7.º ou 11.º do Regulamento (CE) n.º 1907/2006
+    - Adita ANEXO II
+    - Adita Taxas por registos apresentados nos termos do artigo 17.º, n.º 2, do artigo 18.º, n.^os^ 2 e 3, ou do artigo 19.º
+      do Regulamento (CE) n.º 1907/2006
+    - Adita ANEXO III
+    - Adita Taxas por atualização de registos nos termos do artigo 22.º do Regulamento (CE) n.º 1907/2006
+    - Adita ANEXO IV
+    - Adita Taxas por pedidos nos termos do artigo 10.º, alínea a), subalínea xi), do Regulamento (CE) n.º 1907/2006
+    - Adita ANEXO V
+    - Adita Taxas e emolumentos por notificações PPORD nos termos do artigo 9.º do Regulamento (CE) n.º 1907/2006
+    - Adita ANEXO VI
+    - Adita Taxas por pedido de uma autorização nos termos do artigo 62.º do Regulamento (CE) n.º 1907/2006
+    - Adita ANEXO VII
+    - Adita Emolumentos por revisão de uma autorização nos termos do artigo 61.º do Regulamento (CE) n.º 1907/2006
+    - Adita ANEXO VIII
+    - Adita Taxas por interposição de recurso nos termos do artigo 92.º do Regulamento (CE) n.º 1907/2006
+  - date: '2014-03-10'
+    amending: eu:celex:32014R0211:por
+    amending_title: M2
+    changes:
+    - Altera preambulo
+    - Altera Notas
+  - date: '2015-06-25'
+    amending: eu:celex:32015R0864:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2015/864 DA COMISSÃO de 4 de junho de 2015
+    changes:
+    - Altera preambulo
+    - Altera Taxas por registos apresentados nos termos dos artigos 6.º, 7.º ou 11.º do Regulamento (CE) n.º 1907/2006
+    - Altera Taxas por registos apresentados nos termos do artigo 17.º, n.º 2, do artigo 18.º, n.^os^ 2 e 3, ou do artigo
+      19.º do Regulamento (CE) n.º 1907/2006
+    - Altera Taxas por atualização de registos nos termos do artigo 22.º do Regulamento (CE) n.º 1907/2006
+    - Altera Taxas por pedidos nos termos do artigo 10.º, alínea a), subalínea xi), do Regulamento (CE) n.º 1907/2006
+    - Altera Taxas e emolumentos por notificações PPORD nos termos do artigo 9.º do Regulamento (CE) n.º 1907/2006
+    - Altera Taxas por pedido de uma autorização nos termos do artigo 62.º do Regulamento (CE) n.º 1907/2006
+    - Altera Emolumentos por revisão de uma autorização nos termos do artigo 61.º do Regulamento (CE) n.º 1907/2006
+    - Altera Taxas por interposição de recurso nos termos do artigo 92.º do Regulamento (CE) n.º 1907/2006
+    - Altera Notas
+  - date: '2018-07-15'
+    amending: eu:celex:32018R0895:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2018/895 DA COMISSÃO de 22 de junho de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Taxas por pedidos nos termos do artigo 62.º do Regulamento (CE) n.º 1907/2006
+    - Altera Artigo 9.º — Emolumentos por revisão de autorizações nos termos do artigo 61.º do Regulamento (CE) n.º 1907/2006
+    - Altera Emolumentos por revisão de uma autorização nos termos do artigo 61.º do Regulamento (CE) n.º 1907/2006
+    - Adita Taxas por pedido de autorização nos termos do artigo 62.º do Regulamento (CE) n.º 1907/2006
+    - Suprime Taxas por pedido de uma autorização nos termos do artigo 62.º do Regulamento (CE) n.º 1907/2006
+    - Suprime Notas
+  - date: '2021-06-21'
+    amending: eu:celex:32021R0876:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/876 DA COMISSÃO de 31 de maio de 2021
+    changes:
+    - Altera Artigo 8.º — Taxas por pedidos nos termos do artigo 62.º do Regulamento (CE) n.º 1907/2006
+    - Altera Artigo 9.º — Emolumentos por revisão de autorizações nos termos do artigo 61.º do Regulamento (CE) n.º 1907/2006
+    - Altera Taxas por pedido de autorização nos termos do artigo 62.º do Regulamento (CE) n.º 1907/2006
+    - Altera Emolumentos por revisão de uma autorização nos termos do artigo 61.º do Regulamento (CE) n.º 1907/2006
+    - Adita Notas
+  - date: '2025-11-05'
+    amending: eu:celex:32025R2067:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/2067 DA COMISSÃO de 15 de outubro de 2025
+    changes:
+    - Altera Artigo 8.º — Taxas por pedidos nos termos do artigo 62.º do Regulamento (CE) n.º 1907/2006
+    - Altera Taxas por registos apresentados nos termos do artigo 17.º, n.º 2, do artigo 18.º, n.^os^ 2 e 3, ou do artigo
+      19.º do Regulamento (CE) n.º 1907/2006
+    - Altera Taxas por atualização de registos nos termos do artigo 22.º do Regulamento (CE) n.º 1907/2006
+    - Altera Taxas por pedidos nos termos do artigo 10.º, alínea a), subalínea xi), do Regulamento (CE) n.º 1907/2006
+    - Altera Taxas e emolumentos por notificações PPORD nos termos do artigo 9.º do Regulamento (CE) n.º 1907/2006
+    - Altera Taxas por interposição de recurso nos termos do artigo 92.º do Regulamento (CE) n.º 1907/2006
+    - Altera Notas
+    - Adita Taxas por registos apresentados nos termos dos artigos 6.º, 7.° ou 11.° do Regulamento (CE) n.º 1907/2006
+    - Adita 1. Taxas aplicadas aos pedidos de autorização nos termos do artigo 62.º do Regulamento (CE) n.º 1907/2006
+    - Adita 2. Taxas aplicadas aos pedidos de autorização para as utilizações de substâncias na produção de peças sobresselentes
+      antigas ou na reparação de artigos ou produtos complexos que deixaram de ser produzidos, tal como referido no artigo
+      8.º, n.º 2, quinto parágrafo
+    - Adita Quadro 1 — Taxas normais
+    - Adita Quadro 2 — Taxas reduzidas para médias empresas
+    - Adita Quadro 3 — Taxas reduzidas para pequenas empresas
+    - Adita Quadro 4 — Taxas reduzidas para microempresas
+    - Adita 1. Emolumentos aplicados à revisão de uma autorização nos termos do artigo 61.º do Regulamento (CE) n.º 1907/2006
+    - Adita 2. Emolumentos aplicados à revisão de uma autorização concedida para utilizações de substâncias na produção de
+      peças sobresselentes antigas ou na reparação de artigos ou produtos complexos que deixaram de ser produzidos, tal como
+      referido no artigo 9.º, n.º 2, quinto parágrafo
+    - Adita Quadro 1 — Emolumentos normais
+    - Adita Quadro 2 — Emolumentos reduzidos para médias empresas
+    - Adita Quadro 3 — Emolumentos reduzidos para pequenas empresas
+    - Adita Quadro 4 — Emolumentos reduzidos para microempresas
+    - Suprime Taxas por registos apresentados nos termos dos artigos 6.º, 7.º ou 11.º do Regulamento (CE) n.º 1907/2006
+    - Suprime Taxas por pedido de autorização nos termos do artigo 62.º do Regulamento (CE) n.º 1907/2006
+    - Suprime Emolumentos por revisão de uma autorização nos termos do artigo 61.º do Regulamento (CE) n.º 1907/2006
 identifiers:
   celex: 32008R0340
   eli: http://data.europa.eu/eli/reg/2008/340/oj
@@ -49,7 +167,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3a25c473-05d2-4720-a457-3c764a3b24b3.0018
   content_url: http://publications.europa.eu/resource/cellar/b9b92ffc-c4a3-11f0-8da2-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0340-20251105
-  retrieved_at: '2026-10-22T03:13:41Z'
+  retrieved_at: '2026-10-22T15:14:37Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T19:53:13.128+01:00'
 integrity:
@@ -58,9 +176,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:41Z'
-  notes: Texto consolidado 02008R0340-20251105.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:14:37Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2008-340.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -131,35 +249,20 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/b57f43fc-6b65-11ef-a8ba-01aa75ed71a1
   date: '2024-09-05'
 article_structure:
-  article_count: 31
-  section_count: 28
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  article_count: 23
+  section_count: 37
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:41Z'
+  checked_at: '2026-10-22T15:14:37Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 340/2008 da Comissão, de 16 de Abril de 2008
-
-> 02008R0340 — PT — 05.11.2025 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R0254) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 254/2013 DA COMISSÃO de 20 de março de 2013](http://publications.europa.eu/resource/celex/32013R0254) — L 79 — 7 — 21.3.2013
-- [M2](http://publications.europa.eu/resource/celex/32014R0211) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 211/2014 DA COMISSÃO de 27 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0211) — L 67 — 1 — 7.3.2014
-- [M3](http://publications.europa.eu/resource/celex/32015R0864) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/864 DA COMISSÃO de 4 de junho de 2015](http://publications.europa.eu/resource/celex/32015R0864) — L 139 — 1 — 5.6.2015
-- [►M4](http://publications.europa.eu/resource/celex/32018R0895) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/895 DA COMISSÃO de 22 de junho de 2018](http://publications.europa.eu/resource/celex/32018R0895) — L 160 — 1 — 25.6.2018
-- [►M5](http://publications.europa.eu/resource/celex/32021R0876) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/876 DA COMISSÃO de 31 de maio de 2021](http://publications.europa.eu/resource/celex/32021R0876) — L 192 — 3 — 1.6.2021
-- [►M6](http://publications.europa.eu/resource/celex/32025R2067) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2067 DA COMISSÃO de 15 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2067) — L 2067 — 1 — 16.10.2025
-
-## REGULAMENTO (CE) N.º 340/2008 DA COMISSÃO
 
 de 16 de Abril de 2008
 

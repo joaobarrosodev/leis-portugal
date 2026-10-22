@@ -35,6 +35,45 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-26'
+version_history:
+  file: diretiva-ue-2005-65.versoes.json
+  count: 3
+  source_lastmod: '2019-07-26'
+  versions:
+  - date: '2005-11-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-04-20'
+    amending: eu:celex:32009R0219:por
+    amending_title: REGULAMENTO (CE) N. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 14.º — Adaptações
+    - Altera Artigo 15.º — Procedimento de comité
+    - Altera Artigo 16.º — Confidencialidade e divulgação de informações
+    - Altera Artigo 21.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita AVALIAÇÃO DA SEGURANÇA DO PORTO
+    - Adita ANEXO II
+    - Adita PLANO DE SEGURANÇA DO PORTO
+    - Adita ANEXO III
+    - Adita REQUISITOS BÁSICOS DAS ACÇÕES DE FORMAÇÃO PARA A SEGURANÇA
+    - Adita ANEXO IV
+    - Adita CONDIÇÕES A PREENCHER PELAS ORGANIZAÇÕES DE SEGURANÇA RECONHECIDAS
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 16.º — Confidencialidade e divulgação de informações
+    - Altera Notas
+    - Adita Artigo 14.º — Alteração dos anexos I a IV
+    - Adita Artigo 14.º-A — Exercício da delegação
+    - Adita Artigo 14.º-B — Procedimento de urgência
+    - Suprime Artigo 14.º — Adaptações
+    - Suprime Artigo 15.º — Procedimento de comité
 identifiers:
   celex: 32005L0065
   eli: http://data.europa.eu/eli/dir/2005/65/oj
@@ -49,7 +88,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d9776dd4-364e-4c37-9144-615c9d278872.0017
   content_url: http://publications.europa.eu/resource/cellar/84556fb2-e432-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0065-20190726
-  retrieved_at: '2026-10-22T02:47:40Z'
+  retrieved_at: '2026-10-22T14:59:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T10:29:33.793+01:00'
 integrity:
@@ -58,9 +97,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:40Z'
-  notes: Texto consolidado 02005L0065-20190726.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:59:33Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2005-65.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -128,30 +167,19 @@ relationships:
   source: null
 article_structure:
   article_count: 22
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:40Z'
+  checked_at: '2026-10-22T14:59:33Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2005/65/CE do Parlamento Europeu e do Conselho, de 26 de Outubro de 2005
-
-> 02005L0065 — PT — 26.07.2019 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) N.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-- [►M2](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-## DIRECTIVA 2005/65/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 26 de Outubro de 2005
 

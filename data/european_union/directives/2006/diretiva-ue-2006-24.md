@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2006-24.versoes.json
+  count: 1
+  source_lastmod: '2006-05-03'
+  versions:
+  - date: '2006-04-13'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32006L0024
   eli: http://data.europa.eu/eli/dir/2006/24/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ffb36add-fa42-4da4-9988-7ac8ba5551f4.0017
   content_url: http://publications.europa.eu/resource/cellar/ffb36add-fa42-4da4-9988-7ac8ba5551f4.0017.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:38:00Z'
+  retrieved_at: '2026-10-22T15:01:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T19:33:53.892+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:00Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:01:40Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2006-24.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -180,21 +189,20 @@ relationships:
   source: null
 article_structure:
   article_count: 17
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:00Z'
+  checked_at: '2026-10-22T15:01:40Z'
   warnings:
-  - Versão consolidada 02006L0024-20060503 indisponível (Sem expressão na língua por para CELEX 02006L0024-20060503.); usado
-    o texto do JO.
+  - '02006L0024-20060503: versão indisponível (Sem expressão na língua por para CELEX 02006L0024-20060503.)'
   errors: []
 ---
 
-# DIRECTIVA 2006/24/CE DO PARLAMENTO EUROPEU E DO CONSELHO
+# Directiva 2006/24/CE do Parlamento Europeu e do Conselho, de 15 de Março de 2006
 
 de 15 de Março de 2006
 

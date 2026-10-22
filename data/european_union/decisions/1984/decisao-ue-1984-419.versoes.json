@@ -1,0 +1,92 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31984D0419:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01984D0419-20070608",
+ "dre_path": null,
+ "source_lastmod": "2007-06-08",
+ "versions": [
+  {
+   "date": "2007-06-08",
+   "future": false,
+   "celex": "01984D0419-20070608",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b7735aba6e859851",
+    "06c85ecbd20ac8a2",
+    "e0c35801eec090b4",
+    "105fad0889d4bd9c",
+    "41d144fd8262a987",
+    "860b23b365000a50",
+    "2638cac2d4dc6fc8",
+    "f6f8df39378475a3"
+   ]
+  }
+ ],
+ "fragments": {
+  "b7735aba6e859851": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Julho de 1984\n\nque determina os critérios de inscrição dos bovinos nos livros genealógicos\n\n(84/419/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 77/504/CEE, de 25 de Julho de 1977, relativa aos animais de espécie bovina reprodutores de raça pura ([^1^](http://publications.europa.eu/resource/cellar/1c6c9bcb-fbd0-4ced-bf38-0fd523a6ab1a.0018.03/DOC_1#E0001)), com a última redacção que lhe foi dada pelo Acto de Adesão da Grécia e, nomeadamente, o n.º 1, quarto travessão, do seu artigo 6.º,\n\nConsiderando que, segundo o n.º 1, quarto travessão, do artigo 6.º da Directiva 77/504/CEE, compete à Comissão determinar, em conformidade com o procedimento previsto no artigo 8.º da referida directiva, os critérios harmonizados de inscrição dos bovinos nos livros genealógicos;\n\nConsiderando que, em todos os Estados-membros, com excepção, de momento, da Grécia, os livros genealógicos são conservados e elaborados pelas organizações e associações de criadores;\n\nConsiderando que se torna portanto necessário determinar os critérios de inscrição dos bovinos nos livros genealógicos;\n\nConsiderando que as condições de filiação e de identificação devem estar estritamente preenchidas antes da inscrição no livro genealógico;\n\nConsiderando que convém prever a divisão do livro genealógico em diferentes secções e classes, de maneira a não excluir certos tipos de animais;\n\nConsiderando que as medidas previstas pela presente decisão estão conformes ao parecer do Comité Zootécnico Permanente;\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "06c85ecbd20ac8a2": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Para ser inscrito na secção principal do livro genealógico da sua raça, um bovino deverá:\n\na) Ser descendente de pais e avós também inscritos na secção principal do livro genealógico da mesma raça;\n\nb) Ser identificado e registado em conformidade com o Regulamento (CE) n.º 1760/2000 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/1c6c9bcb-fbd0-4ced-bf38-0fd523a6ab1a.0018.03/DOC_1#E0002)) e as regras adoptadas para a sua execução;\n\nc) Ser identificado na altura do nascimento segundo as regras estabelecidas nesse livro.\n\n2. Em derrogação à alínea a) do n.º 1, os animais de raça pura ou os descendentes de animais de raça pura de raças diferentes podem ser inscritos directamente na secção principal de um novo livro genealógico durante o período de constituição de um livro genealógico para uma nova raça.\n\nO período de criação da nova raça é definido no programa de criação da organização ou associação de criadores, sob controlo e com o acordo das autoridades competentes, em conformidade com a Decisão 84/247/CEE. É atribuído à nova raça um nome que não possa ser confundido com o nome de uma raça existente.\n\n3. Sempre que um animal seja inscrito na secção principal de um novo livro genealógico e que o animal ou um dos seus pais já se encontre inscrito noutro livro genealógico existente, deve ser documentada uma referência ao nome desse livro genealógico existente quando o animal ou os pais tiverem sido inscritos pela primeira vez após o nascimento, juntamente com o número original do livro genealógico."
+  },
+  "e0c35801eec090b4": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA secção principal do livro genealógico pode ser dividida em várias classes em função da qualidade dos animais; só os bovinos que obedeçam aos critérios do artigo 1.º podem ser inscritos numa dessas classes."
+  },
+  "105fad0889d4bd9c": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As organizações de criadores ou as associações de criadores que se encarregam da gestão de livros genealógicos podem decidir que as [**►M1**](http://publications.europa.eu/resource/celex/32007D0371) animal**◄** que não satisfaçam os critérios previstos no artigo 1.º podem ser inscritas noutra secção anexa dum livro. Essas [**►M1**](http://publications.europa.eu/resource/celex/32007D0371) animal**◄** devem obedecer às seguintes exigências:\n\n— ser identificadas segundo as regras estabelecidas pelo livro genealógico,\n\n— ser julgadas em conformidade com os padrões da raça,\n\n— obedecer aos critérios de rendimento mínimo, segundo as regras estabelecidas pelo livro genealógico.\n\n2. As exigências mencionadas nos segundo e terceiro travessões do n.º 1 podem ser diferenciadas conforme a dita [**►M1**](http://publications.europa.eu/resource/celex/32007D0371) animal**◄** pertença à raça em questão apesar de não ter origem conhecida ou seja resultante de um programa de cruzamentos aprovado pela organização ou associação de criadores que assegura a gestão do livro genealógico."
+  },
+  "41d144fd8262a987": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nUma fêmea cuja mãe e avó materna estejam inscritas na secção anexa do livro no n.º 1 do artigo 3.º e cujo pai e ambos os avôs estejam inscritos na secção principal do livro, em conformidade com os critérios enunciados no artigo 1.º, deve ser considerada como fêmea de raça pura e inscrita na secção principal do livro em conformidade com o artigo 1.º"
+  },
+  "860b23b365000a50": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nNa hipótese de um livro prever várias classes na sua secção principal, um bovino proveniente doutro Estado-membro deve ser inscrito na classe do livro cujos critérios satisfaça."
+  },
+  "2638cac2d4dc6fc8": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros são destinatários da presente decisão.\n\n---"
+  },
+  "f6f8df39378475a3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/1c6c9bcb-fbd0-4ced-bf38-0fd523a6ab1a.0018.03/DOC_1#src.E0001)) JO n.º L 206 de 12.8.1977, p. 8.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/1c6c9bcb-fbd0-4ced-bf38-0fd523a6ab1a.0018.03/DOC_1#src.E0002)) JO L 204 de 11.8.2000, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1791/2006 do Conselho (JO L 363 de 20.12.2006, p. 1)."
+  }
+ }
+}

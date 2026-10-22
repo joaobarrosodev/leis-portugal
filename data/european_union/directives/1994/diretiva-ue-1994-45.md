@@ -34,6 +34,92 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-06-06'
+version_history:
+  file: diretiva-ue-1994-45.versoes.json
+  count: 3
+  source_lastmod: '2011-06-06'
+  versions:
+  - date: '1994-09-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:31997L0074:por
+    amending_title: M1; DIRECTIVA 2006/109/CE DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 16º
+    - Adita SECÇÃO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita Artigo 1º — Objecto
+    - Adita Artigo 2º — Definições
+    - Adita Artigo 3º — Definição da noção de «empresa que exerce o controlo»
+    - Adita SECÇÃO II
+    - Adita INSTITUIÇÃO DE UM CONSELHO DE EMPRESA EUROPEU OU DE UM PROCEDIMENTO DE INFORMAÇÃO E CONSULTA DOS TRABALHADORES
+    - Adita Artigo 4º — Responsabilidade de instituição de um conselho de empresa europeu ou de um procedimento de informação
+      e consulta dos trabalhadores
+    - Adita Artigo 5º — Grupo especial de negociação
+    - Adita Artigo 6º — Conteúdo do acordo
+    - Adita Artigo 7º — Disposições supletivas
+    - Adita SECÇÃO III
+    - Adita DISPOSIÇÕES DIVERSAS
+    - Adita Artigo 8º — Informações confidenciais
+    - Adita Artigo 9º — Funcionamento do conselho de empresa europeu e do procedimento de informação e consulta dos trabalhadores
+    - Adita Artigo 10º — Protecção dos representantes dos trabalhadores
+    - Adita Artigo 11º — Cumprimento do disposto na presente directiva
+    - Adita Artigo 12º — Relação entre a presente directiva e outras disposições
+    - Adita Artigo 13º — Acordos vigentes
+    - Adita Artigo 14º — Disposições finais
+    - Adita Artigo 15º — Reanálise pela Comissão
+    - Adita ANEXO
+    - Adita DISPOSIÇÕES SUPLETIVAS
+    - Adita referidas no artigo 7º
+    - Adita Notas
+    - Suprime SECÇÃO I DISPOSIÇÕES GERAIS — Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime SECÇÃO III DISPOSIÇÕES DIVERSAS — Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+  - date: '2011-06-06'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime SECÇÃO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1º — Objecto
+    - Suprime Artigo 2º — Definições
+    - Suprime Artigo 3º — Definição da noção de «empresa que exerce o controlo»
+    - Suprime SECÇÃO II
+    - Suprime INSTITUIÇÃO DE UM CONSELHO DE EMPRESA EUROPEU OU DE UM PROCEDIMENTO DE INFORMAÇÃO E CONSULTA DOS TRABALHADORES
+    - Suprime Artigo 4º — Responsabilidade de instituição de um conselho de empresa europeu ou de um procedimento de informação
+      e consulta dos trabalhadores
+    - Suprime Artigo 5º — Grupo especial de negociação
+    - Suprime Artigo 6º — Conteúdo do acordo
+    - Suprime Artigo 7º — Disposições supletivas
+    - Suprime SECÇÃO III
+    - Suprime DISPOSIÇÕES DIVERSAS
+    - Suprime Artigo 8º — Informações confidenciais
+    - Suprime Artigo 9º — Funcionamento do conselho de empresa europeu e do procedimento de informação e consulta dos trabalhadores
+    - Suprime Artigo 10º — Protecção dos representantes dos trabalhadores
+    - Suprime Artigo 11º — Cumprimento do disposto na presente directiva
+    - Suprime Artigo 12º — Relação entre a presente directiva e outras disposições
+    - Suprime Artigo 13º — Acordos vigentes
+    - Suprime Artigo 14º — Disposições finais
+    - Suprime Artigo 15º — Reanálise pela Comissão
+    - Suprime Artigo 16º
+    - Suprime ANEXO
+    - Suprime DISPOSIÇÕES SUPLETIVAS
+    - Suprime referidas no artigo 7º
+    - Suprime Notas
 identifiers:
   celex: 31994L0045
   eli: http://data.europa.eu/eli/dir/1994/45/oj
@@ -48,7 +134,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/eeb56e52-a976-41cb-b39c-64837759be99.0011
   content_url: http://publications.europa.eu/resource/cellar/60adde65-31f5-4028-bc0b-92cc61fdec2f.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0045-20110606
-  retrieved_at: '2026-10-22T02:56:02Z'
+  retrieved_at: '2026-10-22T14:43:12Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-26T00:36:54.096+01:00'
 integrity:
@@ -57,9 +143,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:56:02Z'
-  notes: Texto consolidado 01994L0045-20110606.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:43:12Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1994-45.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -151,16 +237,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:56:02Z'
+  checked_at: '2026-10-22T14:43:12Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01994L0045-19980205: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

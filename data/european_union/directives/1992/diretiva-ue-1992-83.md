@@ -34,6 +34,88 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-01-01'
+version_history:
+  file: diretiva-ue-1992-83.versoes.json
+  count: 3
+  source_lastmod: '2022-01-01'
+  versions:
+  - date: '1992-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: null
+    amending_title: Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre,
+      da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia,
+      da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia; ►A2
+    changes:
+    - Altera preambulo
+    - Adita SECÇÃO I
+    - Adita CERVEJA
+    - Adita Âmbito de aplicação
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Determinação do montante do imposto
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita SECÇÃO II
+    - Adita VINHOS
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita SECÇÃO III
+    - Adita BEBIDAS FERMENTADAS COM EXCEPÇÃO DO VINHO OU DA CERVEJA
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita SECÇÃO IV
+    - Adita PRODUTOS INTERMÉDIOS
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita SECÇÃO V
+    - Adita ÁLCOOL ETÍLICO
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita SECÇÃO VI
+    - Adita DIVERSOS
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+  - date: '2022-01-01'
+    amending: eu:celex:32020L1151:por
+    amending_title: DIRETIVA (UE) 2020/1151 DO CONSELHO de 29 de julho de 2020; ACTO relativo às condições de adesão da República
+      Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República
+      da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações
+      dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 18.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Notas
+    - Adita Artigo 9.º-A
+    - Adita Artigo 13.º-A
+    - Adita Artigo 18.º-A
+    - Adita Artigo 23.º-A
+    - Adita Artigo 28.º-A
+    - Adita Artigo 28.º-B
+    - Suprime Artigo 28.º
 identifiers:
   celex: 31992L0083
   eli: http://data.europa.eu/eli/dir/1992/83/oj
@@ -48,7 +130,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1439d7b5-e13b-4e30-bcd7-33335b8f7b8a.0009
   content_url: http://publications.europa.eu/resource/cellar/be25fe17-57e9-11ec-91ac-01aa75ed71a1.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0083-20220101
-  retrieved_at: '2026-10-22T02:38:07Z'
+  retrieved_at: '2026-10-22T14:41:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-31T20:34:00.210+02:00'
 integrity:
@@ -57,9 +139,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:07Z'
-  notes: Texto consolidado 01992L0083-20220101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:14Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1992-83.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -277,34 +359,21 @@ relationships:
   source: null
 article_structure:
   article_count: 35
-  section_count: 26
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 27
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:07Z'
-  warnings: []
+  checked_at: '2026-10-22T14:41:14Z'
+  warnings:
+  - '01992L0083-19921110: versão indisponível (Sem expressão na língua por para CELEX 01992L0083-19921110.)'
+  - '01992L0083-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 92/83/CEE do Conselho, de 19 de Outubro de 1992
-
-> 01992L0083 — PT — 01.01.2022 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020L1151) — [DIRETIVA (UE) 2020/1151 DO CONSELHO de 29 de julho de 2020](http://publications.europa.eu/resource/celex/32020L1151) — L 256 — 1 — 5.8.2020
-
-**Alterada por:**
-
-- [A1](http://publications.europa.eu/resource/celex/12003T%2FACT) — [ACTO relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T%2FACT) — L 236 — 33 — 23.9.2003
-- [►A2](http://publications.europa.eu/resource/celex/12005S) — [TRATADO RELATIVO À ADESÃO DA REPÚBLICA DA BULGÁRIA E DA ROMÉNIA À UNIÃO EUROPEIA](http://publications.europa.eu/resource/celex/12005S%2FTXT) — L 157 — 203 — 21.6.2005
-
-## DIRECTIVA 92/83/CEE DO CONSELHO
 
 de 19 de Outubro de 1992
 

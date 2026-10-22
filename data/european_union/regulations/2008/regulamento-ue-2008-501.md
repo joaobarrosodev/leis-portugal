@@ -35,6 +35,138 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-12-01'
+version_history:
+  file: regulamento-ue-2008-501.versoes.json
+  count: 6
+  source_lastmod: '2015-12-01'
+  versions:
+  - date: '2008-06-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-27'
+    amending: eu:celex:32008R1313:por
+    amending_title: REGULAMENTO (CE) N. o 1313/2008 DA COMISSÃO de 19 de Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 17.º — Regime de adiantamentos
+    - Altera Artigo 25.º — Controlos efectuados pelos Estados-Membros
+    - Altera Artigo 27.º — Sanções
+    - Altera Artigo 29.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita MERCADO INTERNO
+    - Adita A. LISTA DOS TEMAS E PRODUTOS
+    - Adita B. DIRECTRIZES
+    - Adita 1. Análise global da situação
+    - Adita 2. Objectivos
+    - Adita 3. Grupos-alvo
+    - Adita 4. Principais mensagens
+    - Adita 5. Principais instrumentos
+    - Adita 6. Duração dos programas
+    - Adita 6. Duração e âmbito dos programas
+    - Adita A. ÓLEO DE COLZA
+    - Adita B. ÓLEO DE GIRASSOL
+    - Adita ANEXO II
+    - Adita PAÍSES TERCEIROS
+    - Adita A. LISTA DOS PRODUTOS QUE PODEM SER OBJECTO DE ACÇÕES DE PROMOÇÃO
+    - Adita B. LISTA DOS MERCADOS TERCEIROS EM QUE PODEM SER REALIZADAS ACÇÕES DE PROMOÇÃO
+    - Adita A. Países
+    - Adita B. Zonas geográficas
+    - Adita ANEXO III
+    - Adita Orçamentos anuais indicativos dos diferentes sectores previstos no artigo 6.º
+    - Adita ANEXO IV
+  - date: '2011-10-31'
+    amending: eu:celex:32011R1085:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1085/2011 DA COMISSÃO de 27 de Outubro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Características das mensagens de informação e promoção difundidas no quadro dos programas destinados
+      ao mercado interno
+    - Altera Artigo 8.º — Apresentação dos programas
+    - Altera Artigo 11.º — Selecção dos programas pela Comissão
+    - Altera Artigo 16.º — Celebração de contratos e constituição de garantias
+    - Altera Artigo 17.º — Regime de adiantamentos
+    - Altera Artigo 22.º — Documentos a transmitir à Comissão
+    - Altera Artigo 23.º — Utilização do material
+    - Altera Artigo 25.º — Controlos efectuados pelos Estados-Membros
+    - Altera Artigo 27.º — Sanções
+    - Altera A. LISTA DOS TEMAS E PRODUTOS
+    - Altera Notas
+  - date: '2013-08-03'
+    amending: eu:celex:32013R0737:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 737/2013 DA COMISSÃO de 30 de julho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 17.º — Regime de adiantamentos
+    - Altera Artigo 25.º — Controlos efectuados pelos Estados-Membros
+    - Altera Artigo 27.º — Sanções
+    - Altera A. LISTA DOS TEMAS E PRODUTOS
+    - Altera A. LISTA DOS PRODUTOS QUE PODEM SER OBJECTO DE ACÇÕES DE PROMOÇÃO
+    - Altera A. Países
+    - Altera B. Zonas geográficas
+    - Altera Orçamentos anuais indicativos dos diferentes sectores previstos no artigo 6.º
+    - Altera Notas
+    - Adita 2. Objetivos
+  - date: '2014-07-27'
+    amending: eu:celex:32014R0796:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 796/2014 DA COMISSÃO de 23 de julho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Apresentação dos programas
+    - Altera Artigo 17.º — Regime de adiantamentos
+    - Altera Artigo 25.º — Controlos efectuados pelos Estados-Membros
+    - Altera Artigo 27.º — Sanções
+    - Altera A. LISTA DOS TEMAS E PRODUTOS
+    - Altera Notas
+    - Adita Artigo 11.º — Seleção dos programas pela Comissão
+    - Suprime Artigo 11.º — Selecção dos programas pela Comissão
+  - date: '2015-12-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objecto e definições
+    - Suprime Artigo 2.º — Designação das autoridades competentes
+    - Suprime Artigo 3.º — Duração dos programas
+    - Suprime Artigo 4.º — Características das mensagens de informação e promoção difundidas no quadro dos programas destinados
+      ao mercado interno
+    - Suprime Artigo 5.º — Características das mensagens de informação e promoção difundidas no quadro dos programas destinados
+      aos países terceiros
+    - Suprime Artigo 6.º — Objecto das acções a realizar e orçamentos indicativos
+    - Suprime CAPÍTULO II
+    - Suprime SELECÇÃO DOS PROGRAMAS REFERIDOS NOS ARTIGOS 6.º A 8.º DO REGULAMENTO (CE) N.º 3/2008
+    - Suprime Artigo 7.º — Programas destinados aos países terceiros e executados em colaboração com organizações internacionais
+    - Suprime Artigo 8.º — Apresentação dos programas
+    - Suprime Artigo 9.º — Selecção prévia dos programas pelos Estados-Membros
+    - Suprime Artigo 10.º — Prioridade na selecção dos programas destinados aos países terceiros
+    - Suprime Artigo 11.º — Seleção dos programas pela Comissão
+    - Suprime Artigo 12.º — Aprovação dos organismos de execução pelo Estado-Membro
+    - Suprime Artigo 13.º — Execução de certas partes de um programa pela organização proponente
+    - Suprime CAPÍTULO III
+    - Suprime MODALIDADES DE FINANCIAMENTO DOS PROGRAMAS
+    - Suprime Artigo 14.º — Modalidades de financiamento gerais
+    - Suprime Artigo 15.º — Regras específicas para o mercado interno
+    - Suprime Artigo 16.º — Celebração de contratos e constituição de garantias
+    - Suprime Artigo 17.º — Regime de adiantamentos
+    - Suprime Artigo 18.º — Pagamentos intermédios
+    - Suprime Artigo 19.º — Pagamento do saldo
+    - Suprime Artigo 20.º — Pagamentos dos Estados-Membros
+    - Suprime Artigo 21.º — Garantias
+    - Suprime Artigo 22.º — Documentos a transmitir à Comissão
+    - Suprime CAPÍTULO IV
+    - Suprime ACOMPANHAMENTO E CONTROLO
+    - Suprime Artigo 23.º — Utilização do material
+    - Suprime Artigo 24.º — Acompanhamento dos programas
+    - Suprime Artigo 25.º — Controlos efectuados pelos Estados-Membros
+    - Suprime Artigo 26.º — Recuperação de pagamentos indevidos
+    - Suprime Artigo 27.º — Sanções
+    - Suprime CAPÍTULO V
+    - Suprime REVOGAÇÃO E DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+    - Suprime Artigo 28.º — Revogação
+    - Suprime Artigo 29.º — Entrada em vigor
 identifiers:
   celex: 32008R0501
   eli: http://data.europa.eu/eli/reg/2008/501/oj
@@ -49,7 +181,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c4e837c5-1652-4c2a-b7b9-3966bacbf985.0018
   content_url: http://publications.europa.eu/resource/cellar/11e67cc1-1b1d-46b6-9697-1a6c98a3c2be.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0501-20151201
-  retrieved_at: '2026-10-22T02:58:58Z'
+  retrieved_at: '2026-10-22T15:15:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T20:18:29.986+01:00'
 integrity:
@@ -58,9 +190,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:58Z'
-  notes: Texto consolidado 02008R0501-20151201.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:15:10Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2008-501.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -178,16 +310,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:58Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:15:10Z'
+  warnings: []
   errors: []
 ---
 

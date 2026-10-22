@@ -35,6 +35,53 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-07-30'
+version_history:
+  file: regulamento-ue-2004-785.versoes.json
+  count: 5
+  source_lastmod: '2020-07-30'
+  versions:
+  - date: '2004-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-11'
+    amending: eu:celex:32008R1137:por
+    amending_title: REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE22 de Outubro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga
+    - Altera Artigo 7.º — Seguro relativo à responsabilidade por terceiros
+    - Altera Artigo 9.º — Procedimento de comité
+    - Altera Artigo 11.º — Entrada em vigor
+    - Adita Notas
+  - date: '2010-04-08'
+    amending: eu:celex:32010R0285:por
+    amending_title: REGULAMENTO (UE) N. o 285/2010 DA COMISSÃO de 6 de Abril de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga
+    - Altera Artigo 9.º — Procedimento de comité
+    - Altera Notas
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga
+    - Altera Artigo 7.º — Seguro relativo à responsabilidade por terceiros
+    - Altera Artigo 9.º — Procedimento de comité
+    - Altera Notas
+    - Adita Artigo 8.º-A — Exercício da delegação
+  - date: '2020-07-30'
+    amending: eu:celex:32020R1118:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/1118 DA COMISSÃO de 27 de abril de 2020
+    changes:
+    - Altera Artigo 6.º — Seguro relativo à da responsabilidade por passageiros, bagagens e carga
+    - Altera Artigo 8.º-A — Exercício da delegação
+    - Altera Artigo 9.º — Procedimento de comité
+    - Altera Notas
 identifiers:
   celex: 32004R0785
   eli: http://data.europa.eu/eli/reg/2004/785/oj
@@ -49,7 +96,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/dc08be39-6b2e-4344-9cd8-72d827c26286.0010
   content_url: http://publications.europa.eu/resource/cellar/fb0bbd3a-dbdc-11ea-adf7-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0785-20200730
-  retrieved_at: '2026-10-22T02:42:40Z'
+  retrieved_at: '2026-10-22T14:57:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2017-08-30T16:52:10.162+02:00'
 integrity:
@@ -58,9 +105,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:40Z'
-  notes: Texto consolidado 02004R0785-20200730.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:57:48Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2004-785.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -197,32 +244,20 @@ relationships:
   date: '2023-11-16'
 article_structure:
   article_count: 12
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:40Z'
-  warnings: []
+  checked_at: '2026-10-22T14:57:48Z'
+  warnings:
+  - '02004R0785-20050430: versão indisponível (Sem expressão na língua por para CELEX 02004R0785-20050430.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 785/2004 do Parlamento Europeu e do Conselho, de 21 de Abril de 2004
-
-> 02004R0785 — PT — 30.07.2020 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [M2](http://publications.europa.eu/resource/celex/32010R0285) — [REGULAMENTO (UE) N.º 285/2010 DA COMISSÃO de 6 de Abril de 2010](http://publications.europa.eu/resource/celex/32010R0285) — L 87 — 19 — 7.4.2010
-- [►M3](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [►M4](http://publications.europa.eu/resource/celex/32020R1118) — [REGULAMENTO DELEGADO (UE) 2020/1118 DA COMISSÃO de 27 de abril de 2020](http://publications.europa.eu/resource/celex/32020R1118) — L 243 — 1 — 29.7.2020
-
-## REGULAMENTO (CE) N.º 785/2004 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 21 de Abril de 2004
 

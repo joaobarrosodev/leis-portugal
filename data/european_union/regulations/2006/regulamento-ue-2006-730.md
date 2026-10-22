@@ -35,6 +35,34 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-08-18'
+version_history:
+  file: regulamento-ue-2006-730.versoes.json
+  count: 3
+  source_lastmod: '2016-08-18'
+  versions:
+  - date: '2008-12-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-12-04'
+    amending: eu:celex:32012R0923:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 923/2012 DA COMISSÃO de 26 de setembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Entrada em vigor e aplicação
+    - Altera Notas
+  - date: '2016-08-18'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Classificação do espaço aéreo acima do nível de voo 195
+    - Suprime Artigo 4.º — Acesso dos voos VFR acima do nível de voo 195
+    - Suprime Artigo 5.º — Entrada em vigor e aplicação
+    - Suprime Notas
 identifiers:
   celex: 32006R0730
   eli: http://data.europa.eu/eli/reg/2006/730/oj
@@ -49,7 +77,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2422092d-a8ff-443b-b389-728ab583a1ac.0016
   content_url: http://publications.europa.eu/resource/cellar/6384cc65-3e3b-4320-9acc-1ed93b4dcbff.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R0730-20160818
-  retrieved_at: '2026-10-22T02:58:18Z'
+  retrieved_at: '2026-10-22T15:03:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-21T06:24:27.791+01:00'
 integrity:
@@ -58,9 +86,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:18Z'
-  notes: Texto consolidado 02006R0730-20160818.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:03:58Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2006-730.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -108,16 +136,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:18Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:03:58Z'
+  warnings: []
   errors: []
 ---
 

@@ -34,6 +34,29 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2005-04-05'
+version_history:
+  file: decisao-ue-1992-471.versoes.json
+  count: 2
+  source_lastmod: '2005-04-05'
+  versions:
+  - date: '1992-09-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-04-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o — Os Estados-membros são os destinatários da presente decisão. Feito em Bruxelas, em 2 de Setembro
+      de 1992. Pela Comissão
+    - Suprime ANEXO A — PARTE I
+    - Suprime PARTE II — Lista dos países autorizados a utilizar o modelo de certificado sanitário constante da parte I do
+      anexo A
+    - Suprime ANEXO B — PARTE I
+    - Suprime PARTE II — Lista dos países autorizados a utilizar o modelo de certificado sanitário constante da parte I do
+      anexo B
 identifiers:
   celex: 31992D0471
   eli: http://data.europa.eu/eli/dec/1992/471/oj
@@ -48,7 +71,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b578c309-ee9d-4ed4-904c-d1bb34c55db7.0009
   content_url: http://publications.europa.eu/resource/cellar/5d7f24d4-57cc-4e1d-8f31-f639f0c1668a.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992D0471-20050405
-  retrieved_at: '2026-10-22T03:06:40Z'
+  retrieved_at: '2026-10-22T14:40:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T09:20:34.752+01:00'
 integrity:
@@ -57,9 +80,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:06:40Z'
-  notes: Texto consolidado 01992D0471-20050405.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:40:29Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-1992-471.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -139,16 +162,21 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:06:40Z'
+  checked_at: '2026-10-22T14:40:29Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01992D0471-19940629: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992D0471-19940705: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992D0471-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992D0471-19961003: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992D0471-20040119: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992D0471-20040501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '01992D0471-20041126: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

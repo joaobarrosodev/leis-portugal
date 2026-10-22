@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-19'
+version_history:
+  file: diretiva-ue-2006-54.versoes.json
+  count: 1
+  source_lastmod: '2026-06-19'
+  versions:
+  - date: '2026-06-19'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32006L0054
   eli: http://data.europa.eu/eli/dir/2006/54/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/bed4fa3f-d7f2-480b-b244-75d98e4efe14.0017
   content_url: http://publications.europa.eu/resource/cellar/bf1c39d9-4362-11f1-8095-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0054-20260619
-  retrieved_at: '2026-10-22T02:52:09Z'
+  retrieved_at: '2026-10-22T15:02:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T00:03:53.901+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:09Z'
-  notes: Texto consolidado 02006L0054-20260619.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:02:03Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2006-54.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -296,29 +305,20 @@ relationships:
   date: '2002-10-08'
 article_structure:
   article_count: 35
-  section_count: 33
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 34
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:09Z'
-  warnings: []
+  checked_at: '2026-10-22T15:02:03Z'
+  warnings:
+  - '02006L0054-20060726: versão indisponível (Sem expressão na língua por para CELEX 02006L0054-20060726.)'
   errors: []
 ---
 
 # Directiva 2006/54/CE do Parlamento Europeu e do Conselho, de 5 de Julho de 2006
-
-> 02006L0054 — PT — 19.06.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024L1500) — [DIRETIVA (UE) 2024/1500 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024L1500) — L 1500 — 1 — 29.5.2024
-
-## DIRECTIVA 2006/54/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 5 de Julho de 2006
 

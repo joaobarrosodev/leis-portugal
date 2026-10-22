@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0043:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0043-20060101",
+ "dre_path": null,
+ "source_lastmod": "2006-01-01",
+ "versions": [
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "celex": "01993L0043-20060101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8542fd1e1475f9f0"
+   ]
+  }
+ ],
+ "fragments": {
+  "8542fd1e1475f9f0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993L0043 — PT — 01.01.2006 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993L0043) [DIRECTIVA 93/43/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31993L0043) [de 14 de Junho de 1993](http://publications.europa.eu/resource/celex/31993L0043) [relativa à higiene dos géneros alimentícios](http://publications.europa.eu/resource/celex/31993L0043) (JO L 175, 19.7.1993, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 852/2004 do parlamento europeu e do conselho de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0852) — L 139 — 1 — 30.4.2004"
+  }
+ }
+}

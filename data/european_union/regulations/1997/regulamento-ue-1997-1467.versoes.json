@@ -1,0 +1,1056 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997R1467:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R1467-20240430",
+ "dre_path": null,
+ "source_lastmod": "2024-04-30",
+ "versions": [
+  {
+   "date": "1997-08-02",
+   "future": false,
+   "celex": "31997R1467",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "50b28dfe914223aa",
+    "ddc37bc59fc21d34",
+    "39415bc309fdd55e",
+    "438611acc77066ab",
+    "dee6bcb1bb201653",
+    "7285d88051bf6822",
+    "5cfb36e17bf2040a",
+    "28c50b533c352531",
+    "175b30b3cb5ac9b3",
+    "9da28e221e62caa0",
+    "5674043d3307e791",
+    "e5408c727e40d20d",
+    "a4e7d2cb5b47a340",
+    "2c1e1fd6db3a8bd0",
+    "a9e2be7b49a62ae7",
+    "1b9848e32336319a",
+    "8c2df2717607eeb4",
+    "43b530ebae540d97",
+    "c738ba4b81b9ff7d",
+    "ee6df69894532691",
+    "c002bffac8630fbc",
+    "978318619b1be12d",
+    "f12fe260e4c9f28f",
+    "c8545c244cc235c3",
+    "77e60a903f5233d3"
+   ]
+  },
+  {
+   "date": "2005-07-27",
+   "future": false,
+   "celex": "01997R1467-20050727",
+   "acts": [
+    {
+     "id": "eu:celex:32005R1056:por",
+     "title": "REGULAMENTO (CE) N. o 1056/2005 DO CONSELHO de 27 de Junho de 2005",
+     "published": null,
+     "celex": "32005R1056"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Adita SECÇÃO 1",
+    "Adita DEFINIÇÕES E AVALIAÇÕES",
+    "Adita SECÇÃO 2",
+    "Adita ACELERAÇÃO DO PROCEDIMENTO RELATIVO AOS DÉFICES EXCESSIVOS",
+    "Adita SECÇÃO 3",
+    "Adita SUSPENSÃO E ACOMPANHAMENTO",
+    "Adita SECÇÃO 4",
+    "Adita SANÇÕES",
+    "Adita SECÇÃO 5",
+    "Adita DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+    "Adita ANEXO",
+    "Adita PRAZOS APLICÁVEIS AO REINO UNIDO",
+    "Adita Notas",
+    "Suprime SECÇÃO 1 — DEFINIÇÕES E AVALIAÇÕES",
+    "Suprime SECÇÃO 2 — ACELERAÇÃO DO PROCEDIMENTO RELATIVO AOS DÉFICES EXCESSIVOS",
+    "Suprime SECÇÃO 3 — SUSPENSÃO E ACOMPANHAMENTO",
+    "Suprime SECÇÃO 4 — SANÇÕES",
+    "Suprime SECÇÃO 5 — DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+    "Suprime ANEXO — PRAZOS APLICÁVEIS AO REINO UNIDO"
+   ],
+   "fragments": [
+    "16ea4c4a953b5d26",
+    "9b406af514eb9164",
+    "1d3976ede0ab2171",
+    "39415bc309fdd55e",
+    "458a24743d12810d",
+    "c42c0c2b3cabd519",
+    "ef04221ecbc0adaf",
+    "3c7894cd9b6d2681",
+    "5baed5e8e20895c2",
+    "5005a3c9d7ba4969",
+    "ae0caa201c4f5c7a",
+    "c186a327a5d19313",
+    "b33c275db6cec724",
+    "ac8387eef8dd0a6f",
+    "a419eb3d82cb08cd",
+    "01a83a0e37796f07",
+    "4ac0585d46da07e1",
+    "2a6934845bb7c573",
+    "f43837175bde8f97",
+    "e52b467942fe1efa",
+    "c1823da3212aa0a2",
+    "4c544ae30892d050",
+    "4ed6cb798bf3053e",
+    "52ebe7758f33b982",
+    "cffeeffcc42afcb2",
+    "6ec5cbd7da702b7f",
+    "c7fe5c79f1e1dd4d",
+    "f12fe260e4c9f28f",
+    "3f92189c5a7d6350",
+    "10220b9774fa9034",
+    "5ffe91f1e0edda4e",
+    "c67dd5d0cc130964"
+   ]
+  },
+  {
+   "date": "2011-12-13",
+   "future": false,
+   "celex": "01997R1467-20111213",
+   "acts": [
+    {
+     "id": "eu:celex:32011R1177:por",
+     "title": "REGULAMENTO (UE) N. o 1177/2011 DO CONSELHO de 8 de Novembro de 2011",
+     "published": null,
+     "celex": "32011R1177"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera PRAZOS APLICÁVEIS AO REINO UNIDO",
+    "Altera Notas",
+    "Adita SECÇÃO 1-A",
+    "Adita DIÁLOGO ECONÓMICO",
+    "Adita Artigo 2.º-A",
+    "Adita Artigo 8.º",
+    "Adita Artigo 10.º-A",
+    "Adita Artigo 17.º-A",
+    "Suprime Artigo 8",
+    "Suprime Artigo 13.º"
+   ],
+   "fragments": [
+    "2109bbb545cb5f3f",
+    "9b406af514eb9164",
+    "1d3976ede0ab2171",
+    "0fb7ea7a81d8d829",
+    "d99611813cf2765e",
+    "32816c9bac70af0a",
+    "63471bed4462be35",
+    "a6aeba303fdb9ba3",
+    "c42c0c2b3cabd519",
+    "ef04221ecbc0adaf",
+    "50c5de9caa29c549",
+    "c4d0e08c470330f4",
+    "15d13cdaf62e274e",
+    "cc8dce60036adcb7",
+    "3a07ac84e19ffd75",
+    "9e5a14abc4b9fd66",
+    "ac8387eef8dd0a6f",
+    "a419eb3d82cb08cd",
+    "de2c4404ec86a300",
+    "93724763240891b8",
+    "77cbf87d80d96b6b",
+    "2a6934845bb7c573",
+    "f43837175bde8f97",
+    "9156cec5455fa5c9",
+    "1dc67de6215ac658",
+    "4361a8fdb260673c",
+    "7d926e8aad0b00d2",
+    "9403eba4a966a768",
+    "6ec5cbd7da702b7f",
+    "c7fe5c79f1e1dd4d",
+    "f12fe260e4c9f28f",
+    "ba8f084830f287f9",
+    "3f92189c5a7d6350",
+    "10220b9774fa9034",
+    "5a33a53e2c37963a",
+    "b8ea6aed055b523f"
+   ]
+  },
+  {
+   "date": "2024-04-30",
+   "future": false,
+   "celex": "01997R1467-20240430",
+   "acts": [
+    {
+     "id": "eu:celex:32024R1264:por",
+     "title": "REGULAMENTO (UE) 2024/1264 DO CONSELHO de 29 de abril de 2024",
+     "published": null,
+     "celex": "32024R1264"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 10.º-A",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º-A",
+    "Altera Notas",
+    "Adita Artigo 17.º-B",
+    "Suprime Artigo 17.º",
+    "Suprime ANEXO",
+    "Suprime PRAZOS APLICÁVEIS AO REINO UNIDO"
+   ],
+   "fragments": [
+    "f8a56db9e362aee9",
+    "9b406af514eb9164",
+    "1d3976ede0ab2171",
+    "be30001135753516",
+    "0928f75b31ad83f0",
+    "32816c9bac70af0a",
+    "63471bed4462be35",
+    "a6aeba303fdb9ba3",
+    "c42c0c2b3cabd519",
+    "ef04221ecbc0adaf",
+    "ccf5f77e206225ed",
+    "8465ec0d5e9547ed",
+    "3ed259a512d04a40",
+    "f2c9714268416707",
+    "3a07ac84e19ffd75",
+    "70e5b1d9941c4984",
+    "ac8387eef8dd0a6f",
+    "a419eb3d82cb08cd",
+    "e8b39d7e44e4cb06",
+    "c966263bd4de0cf6",
+    "f04cad48cdd47ca3",
+    "2a6934845bb7c573",
+    "f43837175bde8f97",
+    "9156cec5455fa5c9",
+    "25e9fe63d85083b1",
+    "6d8fa378bcc14d9f",
+    "d699f0166e09dc1a",
+    "c1925eb334cb09f9",
+    "6ec5cbd7da702b7f",
+    "c7fe5c79f1e1dd4d",
+    "a65d2b364ab9edef",
+    "2ce70ad43a0a1a88",
+    "c579e0ad2768fe28",
+    "d195d451100ebd0d"
+   ]
+  }
+ ],
+ "fragments": {
+  "50b28dfe914223aa": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "| 2.8.1997 | PT | Jornal Oficial da União Europeia | L 209/6 |\n| --- | --- | --- | --- |\n\nREGULAMENTO (CE) N.o 1467/97 DO CONSELHO\n\nde 7 de Julho de 1997\n\nrelativo à aceleração e clarificação da aplicação do procedimento relativo aos défices excessivos\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.o 14, segundo parágrafo, do seu artigo 104.oC,\n\nTendo em conta a proposta da Comissão[(1)](http://publications.europa.eu/resource/cellar/ae929f3c-9e32-4da9-a9c6-1adae414970a.0011.05/DOC_1#ntr1-L_1997209PT.01000601-E0001),\n\nTendo em conta o parecer do Parlamento Europeu[(2)](http://publications.europa.eu/resource/cellar/ae929f3c-9e32-4da9-a9c6-1adae414970a.0011.05/DOC_1#ntr2-L_1997209PT.01000601-E0002),\n\nTendo em conta o parecer do Instituto Monetário Europeu,\n\n(1) Considerando que é necessário acelerar e clarificar o procedimento relativo aos défices excessivos referido no artigo 104.oC do Tratado a fim de dissuadir os défices orçamentais excessivos e, caso se verifiquem, assegurar a sua rápida correcção; que as disposições do presente regulamento, adoptadas para o efeito acima enunciado nos termos do n.o 14, segundo parágrafo, do artigo 104.oC, constituem, em conjugação com as do Protocolo n.o 5 do Tratado, um novo conjunto integrado de normas para a aplicação do artigo 104.oC;\n\n(2) Considerando que o Pacto de Estabilidade e Crescimento se baseia num objectivo de finanças públicas sãs como meio de reforçar as condições de estabilidade dos preços e de um crescimento sustentável forte conducente à criação de emprego;\n\n(3) Considerando que o Pacto de Estabilidade e Crescimento compreende o presente regulamento, o Regulamento (CE) n.o 1466/97 do Conselho, relativo ao reforço da supervisão das situações orçamentais e à supervisão e coordenação das políticas económicas[(3)](http://publications.europa.eu/resource/cellar/ae929f3c-9e32-4da9-a9c6-1adae414970a.0011.05/DOC_1#ntr3-L_1997209PT.01000601-E0003), e a Resolução do Conselho Europeu, de 17 de Junho de 1997, sobre o Pacto de Estabilidade e Crescimento[(4)](http://publications.europa.eu/resource/cellar/ae929f3c-9e32-4da9-a9c6-1adae414970a.0011.05/DOC_1#ntr4-L_1997209PT.01000601-E0004), em que nos termos do artigo D do Tratado da União Europeia, foram estabelecidas directrizes políticas firmes tendo em vista uma aplicação rigorosa e atempada do Pacto de Estabilidade e Crescimento e nomeadamente a adesão ao objectivo de médio prazo que visa alcançar situações orçamentais próximas do equilíbrio ou excedentárias e com o qual todos os Estados-membros se comprometeram e a adopção das medidas orçamentais correctivas que os mesmos Estados considerem necessárias para cumprir os objectivos dos seus programas de estabilidade e convergência sempre que tenham informações que indiciem um desvio significativo, observado ou previsível, em relação aos objectivos orçamentais de médio prazo;\n\n(4) Considerando que na terceira fase da União Económica e Monetária (UEM), o artigo 104.oC vincula claramente os Estados-membros a evitarem défices orçamentais excessivos; que, nos termos do artigo 5.o do Protocolo n.o 11 do Tratado, os n.os l, 9 e 11 do artigo 104.oC não são aplicáveis ao Reino Unido a não ser que este passe para a terceira fase; que a obrigação prevista no n.o 4 do artigo 109.oE de envidar esforços para evitar défices orçamentais excessivos continuará a aplicar-se ao Reino Unido;\n\n(5) Considerando que a Dinamarca, invocando o n.o l do Protocolo n.o 12 do Tratado notificou, no contexto da Decisão de Edimburgo de 12 de Dezembro de 1992, de que não participará na terceira fase; que, por conseguinte, nos termos do n.o 2 do referido protocolo, os n.os 9 e 11 do artigo 104.oC não se aplicarão à Dinamarca;\n\n(6) Considerando que na terceira fase da UEM os Estados-membros permanecem responsáveis pelas respectivas políticas orçamentais nacionais, subordinadas às disposições do Tratado; que os Estados--membros tomarão as medidas necessárias ao cumprimento das suas obrigações nos termos do Tratado;\n\n(7) Considerando que a adesão ao objectivo de médio prazo de manter situações orçamentais próximas do equilíbrio ou excedentárias, a que todos os Estados-membros se comprometeram, contribui para a criação de condições adequadas à estabilidade dos preços e a um crescimento sustentado que conduza à criação de emprego em todos os Estados-membros, e permitir-lhes-á gerir as flutuações cíclicas normais, mantendo simultaneamente o défice orçamental dentro do valor de referência de 3 % do PIB;\n\n(8) Considerando que para que a UEM funcione correctamente é necessário que a convergência dos resultados económicos e orçamentais dos Estados--membros que adoptaram a moeda única, adiante designados «Estados-membros participantes», se revele estável e duradoura; que na terceira fase da UEM a disciplina orçamental é necessária para salvaguardar a estabilidade dos preços;\n\n(9) Considerando que, nos termos do n.o 3 do artigo 109.oK do Tratado, os n.os 9 e 11 do artigo 104.oC são aplicáveis apenas aos Estados-membros participantes;\n\n(10) Considerando que é necessário definir o conceito de ultrapassagem excepcional e temporária do valor de referência previsto no n.o 2, alínea a), do artigo 104.oC; que o Conselho deverá, nessa matéria, ter em conta, designadamente, as previsões orçamentais plurianuais fornecidas pela Comissão;\n\n(11) Considerando que o relatório da Comissão previsto no n.o 3 do artigo 104.oC analisará igualmente se o défice orçamental excede as despesas públicas de investimento e tomará em consideração todos os outros factores pertinentes, incluindo a situação económica e orçamental a médio-prazo desse Estado-membro;\n\n(12) Considerando que é necessário estabelecer prazos para a aplicação do procedimento relativo aos défices excessivos, a fim de garantir uma aplicação rápida e eficaz; que, nesse contexto, é necessário ter em conta o facto de o exercício orçamental do Reino Unido não coincidir com o ano civil;\n\n(13) Considerando que deve ser precisada a forma como podem ser impostas as sanções previstas no artigo 104.oC, com o objectivo de garantir uma aplicação eficaz do referido procedimento;\n\n(14) Considerando que a supervisão reforçada ao abrigo do Regulamento (CE) n.o 1466/97 do Conselho, juntamente com o acompanhamento das situações orçamentais pela Comissão, nos termos do n.o 2 do artigo 104.oC, contribuirão para uma aplicação rápida e eficaz do procedimento relativo aos défices excessivos;\n\n(15) Considerando que, à luz das considerações precedentes, no caso de um Estado-membro participante não tomar medidas eficazes para corrigir um défice excessivo, parece viável e adequado estabelecer um período global máximo de dez meses entre a data de notificação dos valores que indicam a existência de um défice excessivo e, se for caso disso, a decisão de imposição de sanções, a fim de pressionar o Estado-membro participante em causa a tomar essas medidas; que, nesse caso, e se o procedimento tiver início no mês de Março, poderiam ser impostas sanções no mesmo ano civil em que o procedimento teve início;\n\n(16) Considerando que a recomendação do Conselho com vista à correcção de um défice excessivo ou as fases posteriores do procedimento relativo aos défices excessivos deveriam ser previsíveis para o Estado-membro em causa, o qual entretanto teria recebido um aviso no quadro de um sistema de alerta rápido; que a gravidade de um défice excessivo durante a terceira fase deverá exigir uma acção imediata por parte de todos os interessados;\n\n(17) Considerando que é oportuno suspender o procedimento relativo ao défice excessivo caso o Estado-membro em causa tome medidas adequadas em resposta a uma recomendação dirigida nos termos do n.o 7 do artigo 104.oC ou a uma notificação emitida nos termos do n.o 9 do artigo 104.oC, a fim de incentivar os Estados-membros a agirem em conformidade; que o período de tempo durante o qual o procedimento será suspenso não deverá ser incluído no prazo máximo de dez meses entre a data em que é comunicada a existência de um défice excessivo e a imposição de sanções; que é oportuno retomar imediatamente o procedimento se as medidas previstas não estiverem a ser aplicadas ou se revelarem inadequadas;\n\n(18) Considerando que, para conferir ao procedimento relativo aos défices excessivos um efeito suficientemente dissuasivo, deverá ser exigido ao Estado-membro participante em causa um depósito não remunerado de montante adequado, quando o Conselho decida impor uma sanção;\n\n(19) Considerando que o estabelecimento de sanções numa escala pré-definida favorece a segurança jurídica; que é adequado fixar o montante do depósito em função do PIB do Estado-membro participante em causa;\n\n(20) Considerando que, no caso de a constituição de um depósito não remunerado não induzir o Estado-membro em causa a corrigir o seu défice excessivo atempadamente, se deverão intensificar as sanções; que, nessas circunstâncias, é conveniente converter o depósito em multa;\n\n(21) Considerando que a tomada de medidas adequadas por parte do Estado-membro participante em causa constitui o primeiro passo para a anulação das sanções; que a existência de progressos significativos na correcção do défice excessivo deverá permitir retirar as sanções, nos termos do n.o 12 do artigo 104.oC; que só se deverá proceder à anulacão de todas as sanções impostas quando o défice excessivo tiver sido totalmente corrigido;\n\n(22) Considerando que o Regulamento (CE) n.o 3605/93 do Conselho, de 22 de Novembro de 1993, relativo à aplicação do Protocolo n.o 5 sobre o procedimento relativo aos défices excessivos anexo ao Tratado que institui a Comunidade Europeia[(5)](http://publications.europa.eu/resource/cellar/ae929f3c-9e32-4da9-a9c6-1adae414970a.0011.05/DOC_1#ntr5-L_1997209PT.01000601-E0005) estabelece normas pormenorizadas para a comunicação de dados orçamentais pêlos Estados-membros;\n\n(23) Considerando que, nos termos do n.o 8 do artigo 109.oF, sempre que o Tratado preveja uma função consultiva do Banco Central Europeu (BCE), as referências ao BCE devem ser consideradas como referências ao instituto Monetário Europeu, até à criação do BCE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ddc37bc59fc21d34": {
+   "fragment_id": "SECÇÃO 1 — DEFINIÇÕES E AVALIAÇÕES",
+   "type": "divisao",
+   "heading": "SECÇÃO 1 — DEFINIÇÕES E AVALIAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 1 — DEFINIÇÕES E AVALIAÇÕES"
+  },
+  "39415bc309fdd55e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O presente regulamento estabelece as disposições para acelerar e clarificar a aplicação do procedimento relativo aos défices excessivos, com o objectivo de evitar défices orçamentais excessivos e, caso venham a ocorrer, de os corrigir rapidamente.\n\n2. Para efeitos do presente regulamento, entende-se por «Estados-membros participantes», os Estados-membros que adoptarem a moeda única nos termos do Tratado e por «Estados-membros não participantes», os Estados-membros que a não adoptarem."
+  },
+  "438611acc77066ab": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Considerar-se-á que o carácter excessivo do défice orçamental em relação ao valor de referência é excepcional e temporário, na acepção do n.o 2, alínea a), segundo travessão, do artigo 104.oC, quando resulte de uma circunstância excepcional não controlável pelo Estado-membro em causa e que tenha um impacto significativo na situação das finanças públicas, ou quando resulte de uma recessão económica grave.\n\nAlém disso, considera-se temporário o carácter excessivo do défice em relação ao valor de referência se as previsões orçamentais fornecidas pela Comissão indicarem que o défice se situará abaixo do valor de referência, uma vez cessada a circunstância excepcional ou a recessão económica grave.\n\n2. Ao preparar o relatório previsto no n.o 3 do artigo 104.oC, a Comissão, regra geral, só considerará excepcional o carácter excessivo do défice em relação ao valor de referência resultante de uma recessão económica grave, quando se verifique uma redução anual do PIB real de, pelo menos, 2 %.\n\n3. Ao decidir, nos termos do n.o 6 do artigo 104.oC e com base numa recomendação da Comissão, sobre a existência de um défice excessivo, o Conselho tomará em consideração na sua avaliação global, quaisquer observações apresentadas pelo Estado-membro que demonstrem que uma redução anual do PIB real inferior a 2 % tem contudo um carácter excepcional à luz de outros elementos justificativos, em especial, relativos ao carácter abrupto da recessão ou a um decréscimo acumulado da produção relativamente à evolução tendencial verificada no passado."
+  },
+  "dee6bcb1bb201653": {
+   "fragment_id": "SECÇÃO 2 — ACELERAÇÃO DO PROCEDIMENTO RELATIVO AOS DÉFICES EXCESSIVOS",
+   "type": "divisao",
+   "heading": "SECÇÃO 2 — ACELERAÇÃO DO PROCEDIMENTO RELATIVO AOS DÉFICES EXCESSIVOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 2 — ACELERAÇÃO DO PROCEDIMENTO RELATIVO AOS DÉFICES EXCESSIVOS"
+  },
+  "7285d88051bf6822": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. No prazo de duas semanas a contar da adopção pela Comissão de um relatório nos termos do n.o 3 do artigo 104.oC, o Comité Económico e Financeiro emitirá um parecer nos termos do n.o 4 do artigo 104.oC.\n\n2. Tendo em plena consideração o parecer referido no n.o l, a Comissão, se considerar que existe uma situação de défice excessivo, emitirá um parecer e uma recomendação ao Conselho nos termos dos n.os 5 e 6 do artigo 104.oC.\n\n3. O Conselho decide sobre a existência de uma situação de défice excessivo nos termos do n.o 6 do artigo 104.oC, no prazo de três meses a contar das datas de notificação previstas nos n.os 2 e 3 do artigo 4.o do Regulamento (CE) n.o 3605/93. Se, nos termos do n.o 6 do artigo 104.oC, decidir que existe uma situação de défice excessivo, o Conselho fará simultaneamente recomendações ao Estado-membro em causa nos termos do n.o 7 do artigo 104.oC.\n\n4. A recomendação do Conselho formulada nos termos do n.o 7 do artigo 104.oC estabelecerá um prazo máximo de quatro meses para o Estado-membro em causa tomar medidas eficazes. A recomendação do Conselho estabelecerá igualmente um prazo para a correcção da situação de défice excessivo, que deverá ser realizada no ano seguinte à sua identificação, salvo se se verificarem circunstâncias especiais."
+  },
+  "5cfb36e17bf2040a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. As decisões do Conselho de tornar públicas as suas recomendações, em que se estabelece que não foram tomadas medidas eficazes nos termos do n.o 8 do artigo 104.oC, devem ser tomadas imediatamente a seguir ao termo do prazo fixado nos termos do n.o 4 do artigo 3.o do presente regulamento.\n\n2. Para determinar se foram tomadas medidas eficazes na sequência das recomendações formuladas nos termos do n.o 7 do artigo 104.oC, o Conselho baseará a sua decisão nas decisões anunciadas publicamente pelo governo do Estado-membro em causa."
+  },
+  "28c50b533c352531": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs decisões do Conselho de notificar os Estados-membros participantes em causa para que estes tomem medidas destinadas a reduzir o défice, nos termos do n.o 9 do artigo 104.oC, serão adoptadas no prazo de um mês a contar da data da decisão do Conselho que tiver estabelecido não terem sido tomadas medidas eficazes nos termos do n.o 8 do artigo 104.oC."
+  },
+  "175b30b3cb5ac9b3": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSempre que estiverem reunidas as condições necessárias para aplicar o n.o 11 do artigo 104.oC, o Conselho imporá sanções, nos termos dessa mesma disposição. Essa decisão será tomada, o mais tardar, no prazo de dois meses a contar da decisão do Conselho que notifica o Estado--membro participante em causa para tomar medidas nos termos do n.o 9 do artigo 104.oC."
+  },
+  "9da28e221e62caa0": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nSe os Estados-membros participantes não cumprirem as sucessivas decisões do Conselho nos termos dos n.os 7 e 9 do artigo 104.oC, a decisão do Conselho de impor sanções, nos termos do n.o 11 do artigo 104.oC, será tomada no prazo de dez meses a contar das datas de notificação previstas no Regulamento (CE) n.o 3605/93, tal como referido no n.o 3 do artigo 3.o do presente regulamento. Recorrer-se-á a um procedimento acelerado no caso de um défice programado de forma deliberada e que o Conselho decida ser excessivo."
+  },
+  "5674043d3307e791": {
+   "fragment_id": "Artigo 8",
+   "type": "artigo",
+   "heading": "Artigo 8",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8\n\nAs decisões do Conselho de intensificar as sanções, nos termos do n.o 11 do artigo 104.oC, à excepção da conversão dos depósitos em multas prevista no artigo 14.o do presente regulamento, serão tomadas, o mais tardar, no prazo de dois meses a contar das datas de notificação previstas no Regulamento (CE) n.o 3605/93. As decisões do Conselho de revogar parte ou a totalidade das decisões que tomou por força do n.o 12 do artigo 104.oC serão tomadas o mais rapidamente possível e, em qualquer caso, o mais tardar no prazo de dois meses a contar das datas de notificação previstas no Regulamento (CE) n.o 3605/93."
+  },
+  "e5408c727e40d20d": {
+   "fragment_id": "SECÇÃO 3 — SUSPENSÃO E ACOMPANHAMENTO",
+   "type": "divisao",
+   "heading": "SECÇÃO 3 — SUSPENSÃO E ACOMPANHAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 3 — SUSPENSÃO E ACOMPANHAMENTO"
+  },
+  "a4e7d2cb5b47a340": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. O procedimento relativo aos défices excessivos será suspenso:\n\n— se o Estado-membro em causa cumprir as recomendações feitas nos termos do n.o 7 do artigo 104.oC;\n\n— se o Estado-membro participante em causa cumprir as notificações efectuadas nos termos do n.o 9 do artigo 104.oC.\n\n2. O período de suspensão do procedimento não será tido em conta nem no período de dez meses referido no artigo 7.o, nem no período de dois meses referido no artigo 6.o do presente regulamento."
+  },
+  "2c1e1fd6db3a8bd0": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A Comissão e o Conselho acompanharão a aplicação das medidas tomadas\n\n— pelo Estado-membro em causa em resposta às recomendações formuladas nos termos do n.o 7 do artigo 104.oC;\n\n— pelo Estado-membro participante em causa em resposta a notificações efectuadas nos termos do n.o 9 do artigo 104.oC.\n\n2. Se as medidas não estiverem a ser aplicadas pelos Estados-membros participantes ou se, na opinião do Conselho, se revelarem inadequadas, o Conselho tomará uma decisão de imediato, respectivamente, nos termos do n.o 9 ou do n.o 11 do artigo 104.oC.\n\n3. Se os dados verificados nos termos do Regulamento (CE) n.o 3605/93 indicarem que uma situação de défice excessivo não foi corrigida pelo Estado-membro participante no prazo especificado quer nas recomendações formuladas nos termos do n.o 7 do artigo 104.oC, quer nas notificações efectuadas nos termos do n.o 9 do artigo 104.oC, o Conselho tomará uma decisão de imediato, respectivamente nos termos do n.o 9 ou do n.o 11 do artigo 104.oC."
+  },
+  "a9e2be7b49a62ae7": {
+   "fragment_id": "SECÇÃO 4 — SANÇÕES",
+   "type": "divisao",
+   "heading": "SECÇÃO 4 — SANÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 4 — SANÇÕES"
+  },
+  "1b9848e32336319a": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nSempre que o Conselho decidir aplicar sanções a um Estado-membro participante por força do n.o 11 do artigo 104.oC, será exigida, regra geral, a constituição de um depósito não remunerado. O Conselho pode decidir complementar este depósito através das medidas previstas nos primeiro e segundo travessões do n.o 11 do artigo 104.oC."
+  },
+  "8c2df2717607eeb4": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Quando o défice excessivo resultar do não cumprimento do critério relativo à relação do défice orçamental referida no n.o 2, alínea a), do artigo 104.oC, o montante do primeiro depósito incluirá uma componente fixa, correspondente a 0,2 % do PIB, e uma componente variável correspondente a um décimo da diferença entre o défice expresso em percentagem do PIB no ano anterior e os 3 % do valor de referência do PIB.\n\n2. Em cada um dos anos seguintes, e até que a decisão sobre a existência de um défice excessivo seja revogada, o Conselho avaliará se o Estado-membro participante em causa tomou medidas efectivas em resposta à notificação do Conselho nos termos do n.o 9 do artigo 104.oC. Nessa avaliação anual, o Conselho decidirá, nos termos do n.o 11 do artigo 104.oC e sem prejuízo do disposto no artigo 13.o do presente regulamento, intensificar as sanções, a não ser que o Estado-membro participante em causa tenha cumprido o estabelecido na notificação do Conselho. O montante do depósito adicional deverá ser igual a um décimo da diferença entre o défice expresso como percentagem do PIB no ano anterior e os 3 % do valor de referência do PIB.\n\n3. Qualquer dos depósitos a que sé referem os n.os l e 2 não deverá exceder o limite máximo de 0,5 % do PIB."
+  },
+  "43b530ebae540d97": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO depósito será, regra geral, convertido numa multa pelo Conselho, nos termos do n.o 11 do artigo 104.oC, se, dois anos após a data da decisão de impor ao Estado-membro participante a constituição de um depósito, o Conselho considerar que o défice excessivo não foi corrigido."
+  },
+  "c738ba4b81b9ff7d": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nNos termos do n.o 12 do artigo 104.oC, o Conselho revogará as sanções referidas no primeiro e segundo travessões do n.o 11 do artigo 104.oC, consoante a relevância dos progressos registados pelo Estado-membro participante em causa na correcção do défice excessivo."
+  },
+  "ee6df69894532691": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nNos termos do n.o 12 do artigo 104.oC, o Conselho revogará todas as sanções em vigor se a decisão relativa à existência de um défice excessivo for revogada. As multas impostas por força do artigo 13.o do presente regulamento não serão reembolsadas ao Estado-membro em causa."
+  },
+  "c002bffac8630fbc": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs depósitos referidos nos artigos 11.o e 12.o do presente regulamento devem ser constituídos junto da Comissão. Os juros desses depósitos, bem como o produto das multas referidas no artigo 13.o do presente regulamento, constituem outras receitas referidas no artigo 201.o do Tratado e serão distribuídos pelos Estados-membros participantes que não tenham um défice excessivo, tal como determinado nos termos do n.o 6 do artigo 104.o, proporcionaimente à sua participação no PNB total dos Estados-membros elegíveis."
+  },
+  "978318619b1be12d": {
+   "fragment_id": "SECÇÃO 5 — DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+   "type": "divisao",
+   "heading": "SECÇÃO 5 — DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 5 — DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+  },
+  "f12fe260e4c9f28f": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nPara efeitos do presente regulamento e enquanto o exercício orçamental no Reino Unido não coincidir com o ano civil, as disposições das secções 2, 3 e 4 do presente regulamento serão aplicadas no Reino Unido nos termos do anexo."
+  },
+  "c8545c244cc235c3": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1999.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 7 de Julho de 1997.\n\nPelo Conselho\n\nO Presidente\n\nJ. C. JUNCKER\n\n[(1)](http://publications.europa.eu/resource/cellar/ae929f3c-9e32-4da9-a9c6-1adae414970a.0011.05/DOC_1#ntc1-L_1997209PT.01000601-E0001) [JO n.o C 368 de 6. 12. 1996, p. 12.](http://publications.europa.eu/resource/oj/JOC_1996_368_R_TOC)\n\n[(2)](http://publications.europa.eu/resource/cellar/ae929f3c-9e32-4da9-a9c6-1adae414970a.0011.05/DOC_1#ntc2-L_1997209PT.01000601-E0002) [JO n.o C 380 de 16. 12. 1996, p. 29.](http://publications.europa.eu/resource/oj/JOC_1996_380_R_TOC)\n\n[(3)](http://publications.europa.eu/resource/cellar/ae929f3c-9e32-4da9-a9c6-1adae414970a.0011.05/DOC_1#ntc3-L_1997209PT.01000601-E0003) Ver página 1 do presente Jornal Oficial.\n\n[(4)](http://publications.europa.eu/resource/cellar/ae929f3c-9e32-4da9-a9c6-1adae414970a.0011.05/DOC_1#ntc4-L_1997209PT.01000601-E0004) [JO n.o C 236 de 2. 8. 1997, p. 1.](http://publications.europa.eu/resource/oj/JOC_1997_236_R_TOC)\n\n[(5)](http://publications.europa.eu/resource/cellar/ae929f3c-9e32-4da9-a9c6-1adae414970a.0011.05/DOC_1#ntc5-L_1997209PT.01000601-E0005) [JO n.o L 332 de 31. 12. 1993, p. 7.](http://publications.europa.eu/resource/oj/JOL_1993_332_R_TOC)"
+  },
+  "77e60a903f5233d3": {
+   "fragment_id": "ANEXO — PRAZOS APLICÁVEIS AO REINO UNIDO",
+   "type": "divisao",
+   "heading": "ANEXO — PRAZOS APLICÁVEIS AO REINO UNIDO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — PRAZOS APLICÁVEIS AO REINO UNIDO\n\n1. Com o objectivo de garantir tratamento igual a todos os Estados-membros, ao tomar as decisões referidas nas secções 2, 3 e 4 do presente regulamento, o Conselho deverá ter em conta o exercício orçamental diferente do Reino Unido, a fim de tomar decisões relativas ao Reino Unido num momento do seu exercício orçamental semelhante àquele em que as decisões tiverem sido ou vierem a ser tomadas em relação a outros Estados-membros.\n\n2. As disposições especificadas na Coluna I INFRA serão substituídas pelas disposições especificadas na Coluna II. Coluna I Coluna II «três meses a contar das datas de notificação fixadas nos n.os 2 e 3 do artigo 4.o do Regulamento (CE) n.o 3605/93.» (n.o 3 do artigo 3.o) «cinco meses a contar do final do exercício orçamental em que ocorreu o défice.» «no ano seguinte à sua identificação» (n.o 4 do artigo 3.o) «exercício orçamental consecutivo à sua identificação» «dez meses a contar das datas de notificação previstas no Regulamento (CE) n.o 3605/93, tal como referido no n.o 3 do artigo 3.o do presente regulamento» (artigo 7.o) «doze meses a contar do final do exercício orçamental em que ocorreu o défice» «no ano anterior» (n.o l do artigo 12.o) «no exercício orçamental anterior»\n\nColuna I Coluna II\n\n«três meses a contar das datas de notificação fixadas nos n.os 2 e 3 do artigo 4.o do Regulamento (CE) n.o 3605/93.» (n.o 3 do artigo 3.o) «cinco meses a contar do final do exercício orçamental em que ocorreu o défice.»\n\n«no ano seguinte à sua identificação» (n.o 4 do artigo 3.o) «exercício orçamental consecutivo à sua identificação»\n\n«dez meses a contar das datas de notificação previstas no Regulamento (CE) n.o 3605/93, tal como referido no n.o 3 do artigo 3.o do presente regulamento» (artigo 7.o) «doze meses a contar do final do exercício orçamental em que ocorreu o défice»\n\n«no ano anterior» (n.o l do artigo 12.o) «no exercício orçamental anterior»"
+  },
+  "16ea4c4a953b5d26": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Julho de 1997\n\nrelativo à aceleração e clarificação da aplicação do procedimento relativo aos défices excessivos\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 14, segundo parágrafo, do seu artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/4b63e431-4896-4a54-87da-f7ef75f9bca5.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/4b63e431-4896-4a54-87da-f7ef75f9bca5.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Instituto Monetário Europeu,\n\n(1) Considerando que é necessário acelerar e clarificar o procedimento relativo aos défices excessivos referido no artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄** do Tratado a fim de dissuadir os défices orçamentais excessivos e, caso se verifiquem, assegurar a sua rápida correcção; que as disposições do presente regulamento, adoptadas para o efeito acima enunciado nos termos do n.º 14, segundo parágrafo, do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**, constituem, em conjugação com as do Protocolo n.º 5 do Tratado, um novo conjunto integrado de normas para a aplicação do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**;\n\n(2) Considerando que o Pacto de Estabilidade e Crescimento se baseia num objectivo de finanças públicas sãs como meio de reforçar as condições de estabilidade dos preços e de um crescimento sustentável forte conducente à criação de emprego;\n\n(3) Considerando que o Pacto de Estabilidade e Crescimento compreende o presente regulamento, o Regulamento (CE) n.º 1466/97 do Conselho, relativo ao reforço da supervisão das situações orçamentais e à supervisão e coordenação das políticas económicas ([^3^](http://publications.europa.eu/resource/cellar/4b63e431-4896-4a54-87da-f7ef75f9bca5.0018.03/DOC_1#E0003)), e a Resolução do Conselho Europeu, de 17 de Junho de 1997, sobre o Pacto de Estabilidade e Crescimento ([^4^](http://publications.europa.eu/resource/cellar/4b63e431-4896-4a54-87da-f7ef75f9bca5.0018.03/DOC_1#E0004)), em que nos termos do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 4.º **◄** do Tratado da União Europeia, foram estabelecidas directrizes políticas firmes tendo em vista uma aplicação rigorosa e atempada do Pacto de Estabilidade e Crescimento e nomeadamente a adesão ao objectivo de médio prazo que visa alcançar situações orçamentais próximas do equilíbrio ou excedentárias e com o qual todos os Estados-membros se comprometeram e a adopção das medidas orçamentais correctivas que os mesmos Estados considerem necessárias para cumprir os objectivos dos seus programas de estabilidade e convergência sempre que tenham informações que indiciem um desvio significativo, observado ou previsível, em relação aos objectivos orçamentais de médio prazo;\n\n(4) Considerando que na terceira fase da União Económica e Monetária (UEM), o artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄** vincula claramente os Estados-membros a evitarem défices orçamentais excessivos; que, nos termos do artigo 5.º do Protocolo n.º 11 do Tratado, os n.^os^ l, 9 e 11 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄** não são aplicáveis ao Reino Unido a não ser que este passe para a terceira fase; que a obrigação prevista no n.º 4 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 116.º **◄** de envidar esforços para evitar défices orçamentais excessivos continuará a aplicar-se ao Reino Unido;\n\n(5) Considerando que a Dinamarca, invocando o n.º l do Protocolo n.º 12 do Tratado notificou, no contexto da Decisão de Edimburgo de 12 de Dezembro de 1992, de que não participará na terceira fase; que, por conseguinte, nos termos do n.º 2 do referido protocolo, os n.^os^ 9 e 11 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄** não se aplicarão à Dinamarca;\n\n(6) Considerando que na terceira fase da UEM os Estados-membros permanecem responsáveis pelas respectivas políticas orçamentais nacionais, subordinadas às disposições do Tratado; que os Estados--membros tomarão as medidas necessárias ao cumprimento das suas obrigações nos termos do Tratado;\n\n(7) Considerando que a adesão ao objectivo de médio prazo de manter situações orçamentais próximas do equilíbrio ou excedentárias, a que todos os Estados-membros se comprometeram, contribui para a criação de condições adequadas à estabilidade dos preços e a um crescimento sustentado que conduza à criação de emprego em todos os Estados-membros, e permitir-lhes-á gerir as flutuações cíclicas normais, mantendo simultaneamente o défice orçamental dentro do valor de referência de 3 % do PIB;\n\n(8) Considerando que para que a UEM funcione correctamente é necessário que a convergência dos resultados económicos e orçamentais dos Estados--membros que adoptaram a moeda única, adiante designados «Estados-membros participantes», se revele estável e duradoura; que na terceira fase da UEM a disciplina orçamental é necessária para salvaguardar a estabilidade dos preços;\n\n(9) Considerando que, nos termos do n.º 3 do artigo 109.ºK do Tratado, os n.^os^ 9 e 11 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄** são aplicáveis apenas aos Estados-membros participantes;\n\n(10) Considerando que é necessário definir o conceito de ultrapassagem excepcional e temporária do valor de referência previsto no n.º 2, alínea a), do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**; que o Conselho deverá, nessa matéria, ter em conta, designadamente, as previsões orçamentais plurianuais fornecidas pela Comissão;\n\n(11) Considerando que o relatório da Comissão previsto no n.º 3 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄** analisará igualmente se o défice orçamental excede as despesas públicas de investimento e tomará em consideração todos os outros factores pertinentes, incluindo a situação económica e orçamental a médio-prazo desse Estado-membro;\n\n(12) Considerando que é necessário estabelecer prazos para a aplicação do procedimento relativo aos défices excessivos, a fim de garantir uma aplicação rápida e eficaz; que, nesse contexto, é necessário ter em conta o facto de o exercício orçamental do Reino Unido não coincidir com o ano civil;\n\n(13) Considerando que deve ser precisada a forma como podem ser impostas as sanções previstas no artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**, com o objectivo de garantir uma aplicação eficaz do referido procedimento;\n\n(14) Considerando que a supervisão reforçada ao abrigo do Regulamento (CE) n.º 1466/97 do Conselho, juntamente com o acompanhamento das situações orçamentais pela Comissão, nos termos do n.º 2 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**, contribuirão para uma aplicação rápida e eficaz do procedimento relativo aos défices excessivos;\n\n(15) Considerando que, à luz das considerações precedentes, no caso de um Estado-membro participante não tomar medidas eficazes para corrigir um défice excessivo, parece viável e adequado estabelecer um período global máximo de dez meses entre a data de notificação dos valores que indicam a existência de um défice excessivo e, se for caso disso, a decisão de imposição de sanções, a fim de pressionar o Estado-membro participante em causa a tomar essas medidas; que, nesse caso, e se o procedimento tiver início no mês de Março, poderiam ser impostas sanções no mesmo ano civil em que o procedimento teve início;\n\n(16) Considerando que a recomendação do Conselho com vista à correcção de um défice excessivo ou as fases posteriores do procedimento relativo aos défices excessivos deveriam ser previsíveis para o Estado-membro em causa, o qual entretanto teria recebido um aviso no quadro de um sistema de alerta rápido; que a gravidade de um défice excessivo durante a terceira fase deverá exigir uma acção imediata por parte de todos os interessados;\n\n(17) Considerando que é oportuno suspender o procedimento relativo ao défice excessivo caso o Estado-membro em causa tome medidas adequadas em resposta a uma recomendação dirigida nos termos do n.º 7 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄** ou a uma notificação emitida nos termos do n.º 9 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**, a fim de incentivar os Estados-membros a agirem em conformidade; que o período de tempo durante o qual o procedimento será suspenso não deverá ser incluído no prazo máximo de dez meses entre a data em que é comunicada a existência de um défice excessivo e a imposição de sanções; que é oportuno retomar imediatamente o procedimento se as medidas previstas não estiverem a ser aplicadas ou se revelarem inadequadas;\n\n(18) Considerando que, para conferir ao procedimento relativo aos défices excessivos um efeito suficientemente dissuasivo, deverá ser exigido ao Estado-membro participante em causa um depósito não remunerado de montante adequado, quando o Conselho decida impor uma sanção;\n\n(19) Considerando que o estabelecimento de sanções numa escala pré-definida favorece a segurança jurídica; que é adequado fixar o montante do depósito em função do PIB do Estado-membro participante em causa;\n\n(20) Considerando que, no caso de a constituição de um depósito não remunerado não induzir o Estado-membro em causa a corrigir o seu défice excessivo atempadamente, se deverão intensificar as sanções; que, nessas circunstâncias, é conveniente converter o depósito em multa;\n\n(21) Considerando que a tomada de medidas adequadas por parte do Estado-membro participante em causa constitui o primeiro passo para a anulação das sanções; que a existência de progressos significativos na correcção do défice excessivo deverá permitir retirar as sanções, nos termos do n.º 12 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**; que só se deverá proceder à anulacão de todas as sanções impostas quando o défice excessivo tiver sido totalmente corrigido;\n\n(22) Considerando que o Regulamento (CE) n.º 3605/93 do Conselho, de 22 de Novembro de 1993, relativo à aplicação do Protocolo n.º 5 sobre o procedimento relativo aos défices excessivos anexo ao Tratado que institui a Comunidade Europeia ([^5^](http://publications.europa.eu/resource/cellar/4b63e431-4896-4a54-87da-f7ef75f9bca5.0018.03/DOC_1#E0005)) estabelece normas pormenorizadas para a comunicação de dados orçamentais pêlos Estados-membros;\n\n(23) Considerando que, nos termos do n.º 8 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 117.º **◄**, sempre que o Tratado preveja uma função consultiva do Banco Central Europeu (BCE), as referências ao BCE devem ser consideradas como referências ao instituto Monetário Europeu, até à criação do BCE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "1d3976ede0ab2171": {
+   "fragment_id": "DEFINIÇÕES E AVALIAÇÕES",
+   "type": "divisao",
+   "heading": "DEFINIÇÕES E AVALIAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DEFINIÇÕES E AVALIAÇÕES"
+  },
+  "458a24743d12810d": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Considerar-se-á que o carácter excessivo do défice orçamental em relação ao valor de referência é excepcional e temporário, na acepção do n.º 2, alínea a), segundo travessão, do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**, quando resulte de uma circunstância excepcional não controlável pelo Estado-membro em causa e que tenha um impacto significativo na situação das finanças públicas, ou quando resulte de uma recessão económica grave.\n\nAlém disso, considera-se temporário o carácter excessivo do défice em relação ao valor de referência se as previsões orçamentais fornecidas pela Comissão indicarem que o défice se situará abaixo do valor de referência, uma vez cessada a circunstância excepcional ou a recessão económica grave.\n\n2. A Comissão e o Conselho, ao apreciar e decidir quanto à existência de um défice excessivo, de acordo com os n.^os^ 3 a 6 do artigo 104.º do Tratado, podem considerar que o excesso em relação ao valor de referência resultante de uma recessão económica grave tem um carácter excepcional, na acepção do artigo 104.º, n.º 2, alínea a), segundo travessão, quando resultar de uma taxa de crescimento anual negativa do volume do PIB ou de uma perda acumulada do produto durante um período prolongado de crescimento anual muito reduzido do volume do PIB relativamente ao seu crescimento potencial.\n\n3. Para efeitos da elaboração do relatório previsto no n.º 3 do artigo 104.º do Tratado, a Comissão tomará em conta todos os factores pertinentes, conforme referido nesse mesmo artigo. O relatório reflectirá de modo adequado a evolução da situação económica a médio prazo (em especial, o crescimento potencial, as condições cíclicas prevalecentes e a implementação de políticas no contexto da Agenda de Lisboa e de políticas destinadas a fomentar a investigação e o desenvolvimento e a inovação) e a evolução da situação orçamental a médio prazo (em especial, os esforços de consolidação orçamental em «períodos favoráveis», a sustentabilidade da dívida, o investimento público e a qualidade global das finanças públicas). Além disso, a Comissão tomará devidamente em consideração quaisquer outros factores que, na opinião do Estado-Membro em causa, sejam pertinentes para uma apreciação qualitativa exaustiva do excesso em relação ao valor de referência e tenham sido comunicados pelo Estado-Membro à Comissão e ao Conselho. Neste contexto, será concedida especial atenção aos esforços orçamentais desenvolvidos no sentido de aumentar, ou manter a um nível elevado, as contribuições financeiras destinadas a fomentar a solidariedade internacional e a realizar os objectivos políticos europeus, designadamente a unificação da Europa, caso tenham um efeito prejudicial no crescimento e na carga fiscal de um Estado-Membro. Uma avaliação global equilibrada deve abranger todos estes factores.\n\n4. Se a dupla condição do princípio central — segundo o qual, antes de os factores pertinentes mencionados no n.º 3 serem tomados em consideração, o défice orçamental geral deve continuar a situar-se perto do valor de referência e o excesso em relação ao valor de referência deve ter carácter temporário — for plenamente satisfeita, os referidos factores serão igualmente tomados em consideração nas etapas conducentes à decisão sobre a existência de um défice excessivo, previstas nos n.^os^ 4, 5 e 6 do artigo 104.º do Tratado. A avaliação global equilibrada a realizar pelo Conselho deve abranger todos estes factores.\n\n5. No quadro de todas as apreciações orçamentais integradas no procedimento relativo aos défices excessivos, a Comissão e o Conselho ponderarão cuidadosamente a implementação de reformas dos sistemas de pensões que introduzam um sistema em vários pilares, que inclua um pilar obrigatório de capitalização integral.\n\n6. Caso o Conselho tenha decidido, com base no n.º 6 do artigo 104.º do Tratado, que existe um défice excessivo num Estado-Membro, a Comissão e o Conselho tomarão igualmente em conta os factores pertinentes mencionados no n.º 3, no quadro das fases processuais subsequentes previstas no artigo 104.º, incluindo as especificadas no n.º 5 do artigo 3.º e no n.º 2 do artigo 5.º do presente regulamento. Todavia, esses factores pertinentes não serão tidos em conta para a decisão do Conselho, formulada de acordo com o n.º 12 do artigo 104.º do Tratado, quanto à revogação total ou parcial das suas decisões, formuladas ao abrigo dos n.^os^ 6 a 9 e 11 do artigo 104.º\n\n7. Quando, num Estado-Membro, o défice, embora excedendo o valor de referência, se mantém próximo deste último, e tiver surgido na sequência da implementação de reformas dos sistemas de pensões que introduzam um sistema em vários pilares que inclua um pilar obrigatório de capitalização integral, a Comissão e o Conselho tomarão igualmente em consideração, na apreciação da evolução dos valores do défice, os custos da reforma para o pilar de gestão pública. Para esse efeito, será tomado em conta o custo líquido da reforma, numa base linear degressiva, durante um período transitório de cinco anos. Esse custo líquido será tomado em conta também para a decisão do Conselho, formulada de acordo com o n.º 12 do artigo 104.º do Tratado, quanto à revogação total ou parcial das suas decisões, formuladas ao abrigo dos n.^os^ 6 a 9 e 11 do artigo 104.º, se o défice tiver diminuído significativamente e de modo contínuo e tiver atingido um nível próximo do valor de referência."
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "ef04221ecbc0adaf": {
+   "fragment_id": "ACELERAÇÃO DO PROCEDIMENTO RELATIVO AOS DÉFICES EXCESSIVOS",
+   "type": "divisao",
+   "heading": "ACELERAÇÃO DO PROCEDIMENTO RELATIVO AOS DÉFICES EXCESSIVOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ACELERAÇÃO DO PROCEDIMENTO RELATIVO AOS DÉFICES EXCESSIVOS"
+  },
+  "3c7894cd9b6d2681": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. No prazo de duas semanas a contar da adopção pela Comissão de um relatório nos termos do n.º 3 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**, o Comité Económico e Financeiro emitirá um parecer nos termos do n.º 4 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**.\n\n2. Tendo em plena consideração o parecer referido no n.º l, a Comissão, se considerar que existe uma situação de défice excessivo, emitirá um parecer e uma recomendação ao Conselho nos termos dos n.^os^ 5 e 6 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**.\n\n3. O Conselho decide sobre a existência de uma situação de défice excessivo nos termos do n.º 6 do artigo 104.º do Tratado, em regra, no prazo de quatro meses a contar das datas de notificação previstas nos n.^os^ 2 e 3 do artigo 4.º do Regulamento (CE) n.º 3605/93. Se decidir que existe um défice excessivo, o Conselho fará simultaneamente recomendações ao Estado-Membro em causa, nos termos do n.º 7 do artigo 104.º do Tratado.\n\n4. A recomendação do Conselho, formulada nos termos do n.º 7 do artigo 104.º do Tratado, estabelecerá um prazo máximo de seis meses para o Estado-Membro em causa tomar medidas eficazes. A recomendação do Conselho estabelecerá igualmente um prazo para a correcção da situação de défice excessivo, que deverá ser realizada no ano seguinte à sua identificação, salvo se se verificarem circunstâncias especiais. Na recomendação, o Conselho requererá que o Estado-Membro realize uma melhoria anual mínima de 0,5 % do PIB, como valor de referência, do seu saldo corrigido de variações cíclicas, líquido de medidas pontuais ou temporárias, a fim de assegurar a correcção da situação de défice excessivo no prazo fixado na recomendação.\n\n5. Caso tenham sido tomadas medidas eficazes, em resposta a uma recomendação dirigida nos termos do n.º 7 do artigo 104.º do Tratado e, após a adopção dessa recomendação, ocorram acontecimentos económicos adversos e imprevistos com um impacto desfavorável significativo nas finanças públicas, o Conselho pode decidir, com base numa recomendação da Comissão, adoptar uma recomendação revista, ao abrigo do n.º 7 do artigo 104.º. A recomendação revista, tendo em conta os factores pertinentes mencionados no n.º 3 do artigo 2.º do presente regulamento, pode designadamente prorrogar por um ano o prazo para a correcção da situação de défice excessivo. O Conselho apreciará a eventual ocorrência de acontecimentos económicos adversos e imprevistos com um impacto desfavorável significativo nas finanças públicas, face às previsões económicas contidas na sua recomendação."
+  },
+  "5baed5e8e20895c2": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. As decisões do Conselho de tornar públicas as suas recomendações, em que se estabelece que não foram tomadas medidas eficazes nos termos do n.º 8 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**, devem ser tomadas imediatamente a seguir ao termo do prazo fixado nos termos do n.º 4 do artigo 3.º do presente regulamento.\n\n2. Para determinar se foram tomadas medidas eficazes na sequência das recomendações formuladas nos termos do n.º 7 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**, o Conselho baseará a sua decisão nas decisões anunciadas publicamente pelo governo do Estado-membro em causa."
+  },
+  "5005a3c9d7ba4969": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Todas as decisões do Conselho de notificar os Estados-Membros participantes em causa para que estes tomem medidas destinadas a reduzir o défice, nos termos do n.º 9 do artigo 104.º do Tratado, serão adoptadas no prazo de dois meses a contar da data da decisão do Conselho que tiver estabelecido que não foram tomadas medidas eficazes nos termos do n.º 8 do artigo 104.º. Na notificação, o Conselho requererá que o Estado-Membro realize uma melhoria anual mínima de 0,5 % do PIB, como valor de referência, do seu saldo corrigido de variações cíclicas, líquido de medidas pontuais ou temporárias, a fim de assegurar a correcção da situação de défice excessivo no prazo fixado na notificação.\n\n2. Caso tenham sido tomadas medidas eficazes, em resposta a uma notificação dirigida nos termos do n.º 9 do artigo 104.º do Tratado e, após a adopção dessa notificação, ocorram acontecimentos económicos adversos e imprevistos com um impacto desfavorável significativo nas finanças públicas, o Conselho pode decidir, com base numa recomendação da Comissão, adoptar uma notificação revista, ao abrigo do n.º 9 do artigo 104.º. A notificação revista, tendo em conta os factores pertinentes mencionados no n.º 3 do artigo 2.º do presente regulamento, pode designadamente prorrogar por um ano o prazo para a correcção da situação de défice excessivo. O Conselho apreciará a eventual ocorrência de acontecimentos económicos adversos e imprevistos com um impacto desfavorável significativo nas finanças públicas, face às previsões económicas contidas na sua notificação."
+  },
+  "ae0caa201c4f5c7a": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSempre que estiverem reunidas as condições necessárias para aplicar o n.º 11 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**, o Conselho imporá sanções, nos termos dessa mesma disposição. Essa decisão será tomada, o mais tardar, no prazo de [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) quatro meses**◄** a contar da decisão do Conselho que notifica o Estado--membro participante em causa para tomar medidas nos termos do n.º 9 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**."
+  },
+  "c186a327a5d19313": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nSe os Estados-Membros participantes não cumprirem as decisões sucessivas do Conselho adoptadas nos termos dos n.^os^ 7 e 9 do artigo 104.º do Tratado, a decisão do Conselho de impor sanções, nos termos do n.º 11 do artigo 104.º, será tomada, em regra, no prazo de 16 meses a contar das datas de notificação previstas nos n.^os^ 2 e 3 do artigo 4.º do Regulamento (CE) n.º 3605/93. Caso sejam aplicados o n.º 5 do artigo 3.º ou o n.º 2 do artigo 5.º do presente regulamento, o prazo de 16 meses será alterado em conformidade. Recorrer-se-á a um procedimento acelerado no caso de um défice programado de forma deliberada que o Conselho decida ser excessivo."
+  },
+  "b33c275db6cec724": {
+   "fragment_id": "Artigo 8",
+   "type": "artigo",
+   "heading": "Artigo 8",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8\n\nAs decisões do Conselho de intensificar as sanções, nos termos do n.º 11 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**, à excepção da conversão dos depósitos em multas prevista no artigo 14.º do presente regulamento, serão tomadas, o mais tardar, no prazo de dois meses a contar das datas de notificação previstas no Regulamento (CE) n.º 3605/93. As decisões do Conselho de revogar parte ou a totalidade das decisões que tomou por força do n.º 12 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄** serão tomadas o mais rapidamente possível e, em qualquer caso, o mais tardar no prazo de dois meses a contar das datas de notificação previstas no Regulamento (CE) n.º 3605/93."
+  },
+  "ac8387eef8dd0a6f": {
+   "fragment_id": "SECÇÃO 3",
+   "type": "divisao",
+   "heading": "SECÇÃO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 3"
+  },
+  "a419eb3d82cb08cd": {
+   "fragment_id": "SUSPENSÃO E ACOMPANHAMENTO",
+   "type": "divisao",
+   "heading": "SUSPENSÃO E ACOMPANHAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SUSPENSÃO E ACOMPANHAMENTO"
+  },
+  "01a83a0e37796f07": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. O procedimento relativo aos défices excessivos será suspenso:\n\n— se o Estado-membro em causa cumprir as recomendações feitas nos termos do n.º 7 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**;\n\n— se o Estado-membro participante em causa cumprir as notificações efectuadas nos termos do n.º 9 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**.\n\n2. O período de suspensão do procedimento não será tido em conta, nem no período referido no artigo 6.º, nem no período referido no artigo 7.º do presente regulamento.\n\n3. Findos os prazos referidos no primeiro período do n.º 4 do artigo 3.º e no segundo período do artigo 6.º do presente regulamento, a Comissão informará o Conselho se considera que as medidas tomadas se afiguram suficientes para assegurar um progresso adequado no sentido da correcção da situação de défice excessivo nos prazos fixados pelo Conselho, desde que tais medidas sejam plenamente aplicadas e que a evolução económica esteja de acordo com as previsões. A declaração da Comissão será tornada pública."
+  },
+  "4ac0585d46da07e1": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A Comissão e o Conselho acompanharão a aplicação das medidas tomadas\n\n— pelo Estado-membro em causa em resposta às recomendações formuladas nos termos do n.º 7 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**;\n\n— pelo Estado-membro participante em causa em resposta a notificações efectuadas nos termos do n.º 9 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**.\n\n2. Se as medidas não estiverem a ser aplicadas pelos Estados-membros participantes ou se, na opinião do Conselho, se revelarem inadequadas, o Conselho tomará uma decisão de imediato, respectivamente, nos termos do n.º 9 ou do n.º 11 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**.\n\n3. Se os dados verificados nos termos do Regulamento (CE) n.º 3605/93 indicarem que uma situação de défice excessivo não foi corrigida pelo Estado-membro participante no prazo especificado quer nas recomendações formuladas nos termos do n.º 7 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**, quer nas notificações efectuadas nos termos do n.º 9 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**, o Conselho tomará uma decisão de imediato, respectivamente nos termos do n.º 9 ou do n.º 11 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**."
+  },
+  "2a6934845bb7c573": {
+   "fragment_id": "SECÇÃO 4",
+   "type": "divisao",
+   "heading": "SECÇÃO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 4"
+  },
+  "f43837175bde8f97": {
+   "fragment_id": "SANÇÕES",
+   "type": "divisao",
+   "heading": "SANÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SANÇÕES"
+  },
+  "e52b467942fe1efa": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nSempre que o Conselho decidir aplicar sanções a um Estado-membro participante por força do n.º 11 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**, será exigida, regra geral, a constituição de um depósito não remunerado. O Conselho pode decidir complementar este depósito através das medidas previstas nos primeiro e segundo travessões do n.º 11 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**."
+  },
+  "c1823da3212aa0a2": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Quando o défice excessivo resultar do não cumprimento do critério relativo à relação do défice orçamental referida no n.º 2, alínea a), do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**, o montante do primeiro depósito incluirá uma componente fixa, correspondente a 0,2 % do PIB, e uma componente variável correspondente a um décimo da diferença entre o défice expresso em percentagem do PIB no ano anterior e os 3 % do valor de referência do PIB.\n\n2. Em cada um dos anos seguintes, e até que a decisão sobre a existência de um défice excessivo seja revogada, o Conselho avaliará se o Estado-membro participante em causa tomou medidas efectivas em resposta à notificação do Conselho nos termos do n.º 9 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**. Nessa avaliação anual, o Conselho decidirá, nos termos do n.º 11 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄** e sem prejuízo do disposto no artigo 13.º do presente regulamento, intensificar as sanções, a não ser que o Estado-membro participante em causa tenha cumprido o estabelecido na notificação do Conselho. O montante do depósito adicional deverá ser igual a um décimo da diferença entre o défice expresso como percentagem do PIB no ano anterior e os 3 % do valor de referência do PIB.\n\n3. Qualquer dos depósitos a que sé referem os n.^os^ l e 2 não deverá exceder o limite máximo de 0,5 % do PIB."
+  },
+  "4c544ae30892d050": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO depósito será, regra geral, convertido numa multa pelo Conselho, nos termos do n.º 11 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**, se, dois anos após a data da decisão de impor ao Estado-membro participante a constituição de um depósito, o Conselho considerar que o défice excessivo não foi corrigido."
+  },
+  "4ed6cb798bf3053e": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nNos termos do n.º 12 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**, o Conselho revogará as sanções referidas no primeiro e segundo travessões do n.º 11 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**, consoante a relevância dos progressos registados pelo Estado-membro participante em causa na correcção do défice excessivo."
+  },
+  "52ebe7758f33b982": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nNos termos do n.º 12 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 104.º **◄**, o Conselho revogará todas as sanções em vigor se a decisão relativa à existência de um défice excessivo for revogada. As multas impostas por força do artigo 13.º do presente regulamento não serão reembolsadas ao Estado-membro em causa."
+  },
+  "cffeeffcc42afcb2": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs depósitos referidos nos artigos 11.º e 12.º do presente regulamento devem ser constituídos junto da Comissão. Os juros desses depósitos, bem como o produto das multas referidas no artigo 13.º do presente regulamento, constituem outras receitas referidas no artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 269.º **◄** do Tratado e serão distribuídos pelos Estados-membros participantes que não tenham um défice excessivo, tal como determinado nos termos do n.º 6 do artigo 104.º, proporcionaimente à sua participação no PNB total dos Estados-membros elegíveis."
+  },
+  "6ec5cbd7da702b7f": {
+   "fragment_id": "SECÇÃO 5",
+   "type": "divisao",
+   "heading": "SECÇÃO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 5"
+  },
+  "c7fe5c79f1e1dd4d": {
+   "fragment_id": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+  },
+  "3f92189c5a7d6350": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1999.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "5ffe91f1e0edda4e": {
+   "fragment_id": "PRAZOS APLICÁVEIS AO REINO UNIDO",
+   "type": "divisao",
+   "heading": "PRAZOS APLICÁVEIS AO REINO UNIDO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRAZOS APLICÁVEIS AO REINO UNIDO\n\n1. Com o objectivo de garantir a igualdade de tratamento de todos os Estados-Membros, ao tomar as decisões referidas nas secções 2, 3 e 4 do presente regulamento, o Conselho deverá ter em conta as diferenças específicas do exercício orçamental do Reino Unido, a fim de tomar decisões relativas a esse Estado-Membro em relação a um momento do seu exercício orçamental que seja semelhante àquele em que as decisões tiverem sido ou vierem a ser tomadas em relação a outros Estados-Membros.\n\n2. As disposições especificadas na coluna I são substituídas pelas disposições especificadas na coluna II.\n\nColuna I Coluna II\n\n«em regra, no prazo de quatro meses a contar das datas de notificação previstas nos n.^os^ 2 e 3 do artigo 4.º do Regulamento (CE) n.º 3605/93 do Conselho» (n.º 3 do artigo 3.º) «em regra, no prazo de seis meses a contar do final do exercício orçamental em que ocorreu o défice»\n\n«no ano seguinte à sua identificação» (n.º 4 do artigo 3.º) «no exercício orçamental seguinte à sua identificação»\n\n«em regra, no prazo de 16 meses a contar das datas de notificação previstas nos n.^os^ 2 e 3 do artigo 4.º do Regulamento (CE) n.º 3605/93» (artigo 7.º) «em regra, no prazo de 18 meses a contar do final do exercício orçamental em que ocorreu o défice»\n\n«no ano anterior» (n.º 1 do artigo 12.º) «no exercício orçamental anterior»\n\n---"
+  },
+  "c67dd5d0cc130964": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4b63e431-4896-4a54-87da-f7ef75f9bca5.0018.03/DOC_1#src.E0001)) JO n.º C 368 de 6. 12. 1996, p. 12.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4b63e431-4896-4a54-87da-f7ef75f9bca5.0018.03/DOC_1#src.E0002)) JO n.º C 380 de 16. 12. 1996, p. 29.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4b63e431-4896-4a54-87da-f7ef75f9bca5.0018.03/DOC_1#src.E0003)) Ver página 1 do presente Jornal Oficial.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4b63e431-4896-4a54-87da-f7ef75f9bca5.0018.03/DOC_1#src.E0004)) JO n.º C 236 de 2. 8. 1997, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/4b63e431-4896-4a54-87da-f7ef75f9bca5.0018.03/DOC_1#src.E0005)) JO n.º L 332 de 31. 12. 1993, p. 7."
+  },
+  "2109bbb545cb5f3f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Julho de 1997\n\nrelativo à aceleração e clarificação da aplicação do procedimento relativo aos défices excessivos\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) Tratado sobre o Funcionamento da União Europeia**◄** e, nomeadamente, o [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 14, segundo parágrafo, do artigo 126.º **◄**,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/031c5c6b-14cc-4f10-be6d-055cfd59cb82.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/031c5c6b-14cc-4f10-be6d-055cfd59cb82.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Instituto Monetário Europeu,\n\n(1) Considerando que é necessário acelerar e clarificar o procedimento relativo aos défices excessivos referido no [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) artigo 126.º do TFUE**◄** a fim de dissuadir os défices orçamentais excessivos e, caso se verifiquem, assegurar a sua rápida correcção; que as disposições do presente regulamento, adoptadas para o efeito acima enunciado nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 14, segundo parágrafo, do artigo 126.º **◄**, constituem, em conjugação com as do Protocolo n.º 5 do Tratado, um novo conjunto integrado de normas para a aplicação do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) artigo 126.º;**◄**\n\n(2) Considerando que o Pacto de Estabilidade e Crescimento se baseia num objectivo de finanças públicas sãs como meio de reforçar as condições de estabilidade dos preços e de um crescimento sustentável forte conducente à criação de emprego;\n\n(3) Considerando que o Pacto de Estabilidade e Crescimento compreende o presente regulamento, o Regulamento (CE) n.º 1466/97 do Conselho, relativo ao reforço da supervisão das situações orçamentais e à supervisão e coordenação das políticas económicas ([^3^](http://publications.europa.eu/resource/cellar/031c5c6b-14cc-4f10-be6d-055cfd59cb82.0018.03/DOC_1#E0003)), e a Resolução do Conselho Europeu, de 17 de Junho de 1997, sobre o Pacto de Estabilidade e Crescimento ([^4^](http://publications.europa.eu/resource/cellar/031c5c6b-14cc-4f10-be6d-055cfd59cb82.0018.03/DOC_1#E0004)), em que nos termos do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 4.º **◄** do Tratado da União Europeia, foram estabelecidas directrizes políticas firmes tendo em vista uma aplicação rigorosa e atempada do Pacto de Estabilidade e Crescimento e nomeadamente a adesão ao objectivo de médio prazo que visa alcançar situações orçamentais próximas do equilíbrio ou excedentárias e com o qual todos os Estados-membros se comprometeram e a adopção das medidas orçamentais correctivas que os mesmos Estados considerem necessárias para cumprir os objectivos dos seus programas de estabilidade e convergência sempre que tenham informações que indiciem um desvio significativo, observado ou previsível, em relação aos objectivos orçamentais de médio prazo;\n\n(4) Considerando que na terceira fase da União Económica e Monetária (UEM), o [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) artigo 126.º **◄** vincula claramente os Estados-membros a evitarem défices orçamentais excessivos; que, nos termos do artigo 5.º do Protocolo n.º 11 do Tratado, os [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.^os^ 1, 9 e 11 do artigo 126.º **◄** não são aplicáveis ao Reino Unido a não ser que este passe para a terceira fase; que a obrigação prevista no n.º 4 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 116.º **◄** de envidar esforços para evitar défices orçamentais excessivos continuará a aplicar-se ao Reino Unido;\n\n(5) Considerando que a Dinamarca, invocando o n.º l do Protocolo n.º 12 do Tratado notificou, no contexto da Decisão de Edimburgo de 12 de Dezembro de 1992, de que não participará na terceira fase; que, por conseguinte, nos termos do n.º 2 do referido protocolo, os [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.^os^ 9 e 11 do artigo 126.º **◄** não se aplicarão à Dinamarca;\n\n(6) Considerando que na terceira fase da UEM os Estados-membros permanecem responsáveis pelas respectivas políticas orçamentais nacionais, subordinadas às disposições do Tratado; que os Estados--membros tomarão as medidas necessárias ao cumprimento das suas obrigações nos termos do Tratado;\n\n(7) Considerando que a adesão ao objectivo de médio prazo de manter situações orçamentais próximas do equilíbrio ou excedentárias, a que todos os Estados-membros se comprometeram, contribui para a criação de condições adequadas à estabilidade dos preços e a um crescimento sustentado que conduza à criação de emprego em todos os Estados-membros, e permitir-lhes-á gerir as flutuações cíclicas normais, mantendo simultaneamente o défice orçamental dentro do valor de referência de 3 % do PIB;\n\n(8) Considerando que para que a UEM funcione correctamente é necessário que a convergência dos resultados económicos e orçamentais dos Estados--membros que adoptaram a moeda única, adiante designados «Estados-membros participantes», se revele estável e duradoura; que na terceira fase da UEM a disciplina orçamental é necessária para salvaguardar a estabilidade dos preços;\n\n(9) Considerando que, nos termos do n.º 3 do artigo 109.ºK do Tratado, os [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.^os^ 9 e 11 do artigo 126.º **◄** são aplicáveis apenas aos Estados-membros participantes;\n\n(10) Considerando que é necessário definir o conceito de ultrapassagem excepcional e temporária do valor de referência previsto no [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) no n.º 2, alínea a), do artigo 126.º;**◄** que o Conselho deverá, nessa matéria, ter em conta, designadamente, as previsões orçamentais plurianuais fornecidas pela Comissão;\n\n(11) Considerando que o relatório da Comissão previsto no [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) no n.º 3 do artigo 126.º **◄** analisará igualmente se o défice orçamental excede as despesas públicas de investimento e tomará em consideração todos os outros factores pertinentes, incluindo a situação económica e orçamental a médio-prazo desse Estado-membro;\n\n(12) Considerando que é necessário estabelecer prazos para a aplicação do procedimento relativo aos défices excessivos, a fim de garantir uma aplicação rápida e eficaz; que, nesse contexto, é necessário ter em conta o facto de o exercício orçamental do Reino Unido não coincidir com o ano civil;\n\n(13) Considerando que deve ser precisada a forma como podem ser impostas as sanções previstas no [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) artigo 126.º **◄**, com o objectivo de garantir uma aplicação eficaz do referido procedimento;\n\n(14) Considerando que a supervisão reforçada ao abrigo do Regulamento (CE) n.º 1466/97 do Conselho, juntamente com o acompanhamento das situações orçamentais pela Comissão, nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 2 do artigo 126.º,**◄** contribuirão para uma aplicação rápida e eficaz do procedimento relativo aos défices excessivos;\n\n(15) Considerando que, à luz das considerações precedentes, no caso de um Estado-membro participante não tomar medidas eficazes para corrigir um défice excessivo, parece viável e adequado estabelecer um período global máximo de dez meses entre a data de notificação dos valores que indicam a existência de um défice excessivo e, se for caso disso, a decisão de imposição de sanções, a fim de pressionar o Estado-membro participante em causa a tomar essas medidas; que, nesse caso, e se o procedimento tiver início no mês de Março, poderiam ser impostas sanções no mesmo ano civil em que o procedimento teve início;\n\n(16) Considerando que a recomendação do Conselho com vista à correcção de um défice excessivo ou as fases posteriores do procedimento relativo aos défices excessivos deveriam ser previsíveis para o Estado-membro em causa, o qual entretanto teria recebido um aviso no quadro de um sistema de alerta rápido; que a gravidade de um défice excessivo durante a terceira fase deverá exigir uma acção imediata por parte de todos os interessados;\n\n(17) Considerando que é oportuno suspender o procedimento relativo ao défice excessivo caso o Estado-membro em causa tome medidas adequadas em resposta a uma recomendação dirigida nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 7 do artigo 126.º **◄** ou a uma notificação emitida nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 9 do artigo 126.º,**◄** a fim de incentivar os Estados-membros a agirem em conformidade; que o período de tempo durante o qual o procedimento será suspenso não deverá ser incluído no prazo máximo de dez meses entre a data em que é comunicada a existência de um défice excessivo e a imposição de sanções; que é oportuno retomar imediatamente o procedimento se as medidas previstas não estiverem a ser aplicadas ou se revelarem inadequadas;\n\n(18) Considerando que, para conferir ao procedimento relativo aos défices excessivos um efeito suficientemente dissuasivo, deverá ser exigido ao Estado-membro participante em causa um depósito não remunerado de montante adequado, quando o Conselho decida impor uma sanção;\n\n(19) Considerando que o estabelecimento de sanções numa escala pré-definida favorece a segurança jurídica; que é adequado fixar o montante do depósito em função do PIB do Estado-membro participante em causa;\n\n(20) Considerando que, no caso de a constituição de um depósito não remunerado não induzir o Estado-membro em causa a corrigir o seu défice excessivo atempadamente, se deverão intensificar as sanções; que, nessas circunstâncias, é conveniente converter o depósito em multa;\n\n(21) Considerando que a tomada de medidas adequadas por parte do Estado-membro participante em causa constitui o primeiro passo para a anulação das sanções; que a existência de progressos significativos na correcção do défice excessivo deverá permitir retirar as sanções, nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 12 do artigo 126.º;**◄** que só se deverá proceder à anulacão de todas as sanções impostas quando o défice excessivo tiver sido totalmente corrigido;\n\n(22) Considerando que o Regulamento (CE) n.º 3605/93 do Conselho, de 22 de Novembro de 1993, relativo à aplicação do Protocolo n.º 5 sobre o procedimento relativo aos défices excessivos anexo ao Tratado que institui a Comunidade Europeia ([^5^](http://publications.europa.eu/resource/cellar/031c5c6b-14cc-4f10-be6d-055cfd59cb82.0018.03/DOC_1#E0005)) estabelece normas pormenorizadas para a comunicação de dados orçamentais pêlos Estados-membros;\n\n(23) Considerando que, nos termos do n.º 8 do artigo [**►M1**](http://publications.europa.eu/resource/celex/32005R1056) 117.º **◄**, sempre que o Tratado preveja uma função consultiva do Banco Central Europeu (BCE), as referências ao BCE devem ser consideradas como referências ao instituto Monetário Europeu, até à criação do BCE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "0fb7ea7a81d8d829": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O presente regulamento estabelece as disposições para acelerar e clarificar a aplicação do procedimento relativo aos défices excessivos. O procedimento relativo aos défices excessivos tem o objectivo de evitar défices orçamentais excessivos e, caso venham a ocorrer, de os corrigir rapidamente, sendo o cumprimento da disciplina orçamental avaliado com base nos critérios do défice orçamental e da dívida pública.\n\n2. Para efeitos do presente regulamento, entende-se por «Estados-Membros participantes», os Estados-Membros cuja moeda seja o euro."
+  },
+  "d99611813cf2765e": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Considera-se que o excesso do défice orçamental em relação ao valor de referência é excepcional, nos termos do artigo 126.º, n.º 2, alínea a), segundo travessão, do Tratado sobre o Funcionamento da União Europeia (TFUE), quando resultar de uma circunstância excepcional não controlável pelo Estado-Membro em causa que tenha um impacto significativo na situação das finanças públicas, ou quando resultar de uma recessão económica grave.\n\nAlém disso, considera-se temporário o carácter excessivo do défice em relação ao valor de referência se as previsões orçamentais fornecidas pela Comissão indicarem que o défice se situará abaixo do valor de referência, uma vez cessada a circunstância excepcional ou a recessão económica grave.\n\n1-A. Quando exceder o valor de referência, considera-se que a relação entre a dívida pública e o produto interno bruto (PIB) se encontra em diminuição significativa e se está a aproximar, de forma satisfatória, do valor de referência, nos termos do artigo 126.º, n.º 2, alínea b), do TFUE, se, nos três anos anteriores, o diferencial relativamente ao valor de referência tiver tido uma redução média de um vigésimo por ano como padrão de referência, com base nas alterações verificadas durante os últimos três anos para os quais existam dados disponíveis.\n\nConsidera-se também cumprido o requisito do critério da dívida se as previsões orçamentais fornecidas pela Comissão indicarem que a necessária redução do diferencial irá ocorrer durante o período de três anos que abrange os dois anos seguintes ao último ano para o qual existem dados disponíveis. Para um Estado-Membro que seja objecto de um procedimento relativo aos défices excessivos em 8 de Novembro de 2011 e durante um período de três anos a contar da correcção do défice excessivo, considera-se cumprido o requisito do critério da dívida se o Estado-Membro em causa fizer progressos suficientes em matéria de cumprimento, tal como avaliado no parecer adoptado pelo Conselho sobre o respectivo programa de estabilidade ou de convergência.\n\nAo aplicar o padrão de referência do ajustamento da dívida, deve ser tida em conta a influência do ciclo no ritmo de redução da dívida.\n\n2. A Comissão e o Conselho, ao apreciar e decidir quanto à existência de um défice excessivo, de acordo com os [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.^os^ 3 a 6 do artigo 126.º do TFUE**◄** podem considerar que o excesso em relação ao valor de referência resultante de uma recessão económica grave tem um carácter excepcional, na acepção do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) artigo 126.º, n.º 2, alínea a), segundo travessão**◄**, quando resultar de uma taxa de crescimento anual negativa do volume do PIB ou de uma perda acumulada do produto durante um período prolongado de crescimento anual muito reduzido do volume do PIB relativamente ao seu crescimento potencial.\n\n3. Para efeitos da preparação do relatório previsto no artigo 126.º, n.º 3, do TFUE, a Comissão deve tomar em consideração todos os factores pertinentes conforme referido nesse artigo, na medida em que afectem significativamente a avaliação do cumprimento dos critérios do défice e da dívida pelo Estado-Membro em causa. O relatório deve reflectir de modo adequado:\n\na) A evolução da situação económica a médio prazo, em especial, o crescimento potencial, incluindo as diferentes contribuições proporcionadas pelo trabalho, pela acumulação de capital e pela produtividade total dos factores, a evolução cíclica e a situação da poupança líquida do sector privado;\n\nb) A evolução das situações orçamentais a médio prazo, em especial, o ajustamento conseguido tendo em vista o objectivo orçamental de médio prazo, o nível do saldo primário e a evolução das despesas primárias, tanto correntes como de capital, a introdução de políticas no contexto da prevenção e correcção dos desequilíbrios macroeconómicos excessivos, a introdução de políticas no contexto da estratégia de crescimento comum da União e a qualidade geral das finanças públicas, nomeadamente a eficiência dos quadros orçamentais nacionais;\n\nc) A evolução da situação da dívida pública a médio prazo, bem como a sua dinâmica e sustentabilidade, em especial, os factores de risco, incluindo a estrutura de vencimento da dívida e a unidade monetária em que é expressa, o ajustamento défice-dívida e a sua composição, as reservas cumuladas e outros activos financeiros, as garantias, nomeadamente as associadas ao sector financeiro, todos os passivos implícitos associados ao envelhecimento demográfico e a dívida privada na medida em que esta possa representar um passivo potencial implícito para as autoridades públicas;\n\nA Comissão deve tomar devida e expressamente em consideração quaisquer outros factores que, na opinião do Estado-Membro em causa, sejam pertinentes para avaliar globalmente o cumprimento dos critérios do défice e da dívida e tenham sido comunicados pelo Estado-Membro ao Conselho e à Comissão. Neste contexto, deve ser dada especial atenção: às contribuições financeiras destinadas a fomentar a solidariedade internacional e a realizar os objectivos políticos da União; à dívida contraída sob a forma de apoio bilateral e multilateral entre Estados-Membros no âmbito da salvaguarda da estabilidade financeira; à dívida relacionada com operações de estabilização financeira durante perturbações financeiras graves.\n\n4. O Conselho e a Comissão devem fazer uma avaliação global equilibrada de todos os factores pertinentes, nomeadamente da sua incidência, enquanto circunstâncias agravantes ou atenuantes, na avaliação do cumprimento do critério do défice e/ou da dívida. Se, na avaliação do cumprimento com base no critério do défice, a relação entre a dívida pública e o PIB exceder o valor de referência, esses factores apenas devem ser tomados em consideração nas etapas conducentes à decisão sobre a existência de um défice excessivo, previstas no artigo 126.º, n.^os^ 4, 5 e 6, do TFUE, se for plenamente satisfeita a dupla condição do princípio central segundo o qual, antes de serem tomados em consideração os factores pertinentes, o défice orçamental geral continua perto do valor de referência e o excesso em relação ao valor de referência é temporário.\n\nTodavia, na avaliação do cumprimento com base no critério da dívida, esses factores devem ser tomados em consideração nas etapas conducentes à decisão sobre a existência de um défice excessivo.\n\n5. Na avaliação do cumprimento dos critérios do défice e da dívida e nas etapas seguintes do procedimento relativo aos défices excessivos, o Conselho e a Comissão devem ponderar cuidadosamente a implementação de reformas dos sistemas de pensões que introduzam um sistema em vários pilares, incluindo um pilar obrigatório de capitalização integral e os custos líquidos do pilar do sistema de pensões de gestão pública. Deve ser dada especial atenção às características do sistema global de pensões criado pela reforma, nomeadamente quanto a saber se promove a sustentabilidade a longo prazo, sem aumentar os riscos para a situação orçamental a médio prazo.\n\n6. Caso o Conselho decida, nos termos do artigo 126.º, n.º 6, do TFUE, que existe um défice excessivo num Estado-Membro, o Conselho e a Comissão devem ter igualmente em conta, nas fases processuais subsequentes previstas nesse artigo do TFUE, os factores pertinentes a que se refere o n.º 3 do presente artigo, na medida em que afectem a situação do Estado-Membro em causa, incluindo o previsto no artigo 3.º, n.º 5, e no artigo 5.º, n.º 2, do presente regulamento, em especial na fixação de um prazo para a correcção da situação de défice excessivo e, eventualmente, na prorrogação desse prazo. Todavia, esses factores pertinentes não devem ser tidos em conta na decisão a tomar pelo Conselho nos termos do artigo 126.º, n.º 12, do TFUE sobre a revogação total ou parcial das suas decisões nos termos do artigo 126.º, n.^os^ 6 a 9 e 11, do TFUE.\n\n7. Quando, num Estado-Membro, o excesso do défice em relação ao valor de referência reflectir a implementação de uma reforma do regime de pensões que introduza um sistema em vários pilares incluindo um pilar obrigatório de capitalização integral, o Conselho e a Comissão devem também considerar os custos da reforma ao avaliarem a evolução dos valores do défice no procedimento relativo aos défices excessivos, desde que o défice não exceda significativamente um nível que possa ser considerado próximo do valor de referência e o rácio da dívida não exceda o valor de referência, na condição de ser mantida a sustentabilidade orçamental global. Esse custo líquido também deve ser tido em conta para a decisão a tomar pelo Conselho nos termos do artigo 126.º, n.º 12, do TFUE, quanto à revogação de parte ou da totalidade das suas decisões nos termos do artigo 126.º, n.^os^ 6 a 9 e 11, do TFUE, se o défice tiver baixado de forma substancial e contínua e tiver atingido um nível que se aproxime do valor de referência."
+  },
+  "32816c9bac70af0a": {
+   "fragment_id": "SECÇÃO 1-A",
+   "type": "divisao",
+   "heading": "SECÇÃO 1-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1-A"
+  },
+  "63471bed4462be35": {
+   "fragment_id": "DIÁLOGO ECONÓMICO",
+   "type": "divisao",
+   "heading": "DIÁLOGO ECONÓMICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DIÁLOGO ECONÓMICO"
+  },
+  "a6aeba303fdb9ba3": {
+   "fragment_id": "Artigo 2.º-A",
+   "type": "artigo",
+   "heading": "Artigo 2.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-A\n\n1. A fim de reforçar o diálogo entre as instituições da União, em especial o Parlamento Europeu, o Conselho e a Comissão, e no intuito de garantir uma maior transparência e responsabilização, a comissão competente do Parlamento Europeu pode convidar o Presidente do Conselho, o Presidente da Comissão e, se for caso disso, o Presidente do Conselho Europeu ou o Presidente do Eurogrupo a comparecerem perante ela para debaterem as decisões do Conselho adoptadas nos termos do artigo 126.º, n.º 6, do TFUE, as recomendações do Conselho adoptadas nos termos do artigo 126.º, n.º 7, do TFUE, as notificações efectuadas nos termos do artigo 126.º, n.º 9, do TFUE ou as decisões do Conselho adoptadas nos termos do artigo 126.º, n.º 11, do TFUE.\n\nEspera-se que, regra geral, o Conselho siga as recomendações e as propostas da Comissão ou que torne públicos os motivos da sua posição.\n\nA comissão competente do Parlamento Europeu pode proporcionar aos Estados-Membros destinatários das referidas recomendações, notificações ou decisões a oportunidade de participarem numa troca pontos de vista.\n\n2. O Conselho e a Comissão informam regularmente o Parlamento Europeu sobre a aplicação do presente regulamento."
+  },
+  "50c5de9caa29c549": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. No prazo de duas semanas a contar da adopção pela Comissão de um relatório nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 3 artigo 126.º **◄**, o Comité Económico e Financeiro emitirá um parecer nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 4 artigo 126.º **◄**.\n\n2. Tendo plenamente em conta o parecer a que se refere o n.º 1, a Comissão, se considerar que existe uma situação de défice excessivo, envia um parecer e uma proposta ao Conselho nos termos do artigo 126.º, n.^os^ 5 e 6, do TFUE e informa o Parlamento Europeu.\n\n3. O Conselho decide sobre a existência de uma situação de défice excessivo nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 6 do artigo 126.º do TFUE**◄**, em regra, no prazo de quatro meses a contar das datas de notificação previstas nos [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) artigo 3.º, n.^os^ 2 e 3, do Regulamento (CE) n.º 479/2009**◄**. Se decidir que existe um défice excessivo, o Conselho fará simultaneamente recomendações ao Estado-Membro em causa, nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 7 do artigo 126.º do TFUE.**◄**\n\n4. A recomendação do Conselho adoptada nos termos do artigo 126.º, n.º 7, do TFUE, deve estabelecer um prazo máximo de seis meses para que o Estado-Membro em causa tome medidas eficazes. Se a gravidade da situação o justificar, o prazo para a tomada de medidas eficazes pode ser de três meses. A recomendação do Conselho deve igualmente estabelecer um prazo para a correcção da situação de défice excessivo, que deverá ser realizada no ano seguinte à sua identificação, salvo se se verificarem circunstâncias especiais. Na sua recomendação, o Conselho deve exigir que o Estado-Membro cumpra os seus objectivos orçamentais anuais que, com base nas previsões subjacentes à recomendação, possibilitem uma melhoria anual mínima de 0,5 % do PIB, como valor de referência, do seu saldo corrigido de variações cíclicas, líquido de medidas pontuais ou temporárias, a fim de assegurar a correcção da situação de défice excessivo no prazo fixado na recomendação.\n\n4-A. No prazo fixado no n.º 4, o Estado-Membro em causa deve comunicar ao Conselho e à Comissão as medidas tomadas em resposta à recomendação do Conselho adoptada nos termos do artigo 126.º, n.º 7, do TFUE. O relatório deve incluir os objectivos relativos à despesa e receita pública e às medidas discricionárias tanto no lado da despesa como no da receita, devendo esses objectivos ser consentâneos com a recomendação do Conselho, bem como informações sobre as medidas tomadas e a natureza das medidas previstas para o cumprimento dos objectivos. O Estado-Membro deve tornar público o relatório.\n\n5. Caso tenham sido tomadas medidas eficazes em resposta a uma recomendação adoptada nos termos do artigo 126.º, n.º 7, do TFUE e, após a adopção dessa recomendação, ocorram acontecimentos económicos adversos e imprevistos com um impacto desfavorável significativo nas finanças públicas, o Conselho pode decidir adoptar, sob recomendação da Comissão, uma recomendação revista nos termos do artigo 126.º, n.º 7, do TFUE. A recomendação revista, tendo em conta os factores pertinentes a que se refere o artigo 2.º, n.º 3, do presente regulamento, pode, designadamente, prorrogar por um ano, como regra geral, o prazo para a correcção da situação de défice excessivo. O Conselho deve apreciar se, em relação às previsões económicas contidas na sua recomendação, ocorreram acontecimentos económicos adversos e imprevistos com um impacto desfavorável significativo nas finanças públicas. Em caso de recessão económica grave que afecte a área do euro ou toda a UE, o Conselho pode também decidir adoptar, sob recomendação da Comissão, uma recomendação revista nos termos do artigo 126.º, n.º 7, do TFUE, desde que tal não ponha em risco a sustentabilidade orçamental a médio prazo."
+  },
+  "c4d0e08c470330f4": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. As decisões do Conselho, nos termos do artigo 126.º, n.º 8, do TFUE, no sentido de tornar públicas as suas recomendações, sempre que se verifique que não foram tomadas medidas eficazes devem ser adoptadas imediatamente a seguir ao termo do prazo fixado nos termos do artigo 3.º, n.º 4, do presente regulamento.\n\n2. Para determinar se foram tomadas medidas eficazes na sequência das recomendações adoptadas nos termos do artigo 126.º, n.º 7, do TFUE, o Conselho deve basear a sua decisão no relatório apresentado pelo Estado-Membro em causa nos termos do artigo 3.º, n.º 4-A, do presente regulamento e na respectiva execução, bem como noutras decisões tornadas públicas pelo governo do Estado-Membro em causa.\n\nCaso o Conselho verifique, nos termos do artigo 126.º, n.º 8, do TFUE, que o Estado-Membro em causa não tomou medidas eficazes, informa o Conselho Europeu em conformidade."
+  },
+  "15d13cdaf62e274e": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A decisão do Conselho no sentido de notificar o Estado-Membro participante em causa para este tomar medidas destinadas a reduzir o défice, nos termos do artigo 126.º, n.º 9, do TFUE deve ser adoptada no prazo de dois meses a contar da data da decisão do Conselho que tiver verificado que não foram tomadas medidas eficazes nos termos do artigo 126.º, n.º 8, do TFUE. Na notificação, o Conselho deve exigir que o Estado-Membro cumpra objectivos orçamentais anuais que, com base nas previsões subjacentes à notificação, possibilitem uma melhoria anual mínima de 0,5 % do PIB, como valor de referência, do seu saldo corrigido de variações cíclicas, líquido de medidas pontuais ou temporárias, a fim de assegurar a correcção da situação de défice excessivo no prazo fixado na notificação. O Conselho deve igualmente definir as medidas conducentes ao cumprimento desses objectivos.\n\n1-A. Na sequência da notificação do Conselho efectuada nos termos do artigo 126.º, n.º 9, do TFUE, o Estado-Membro em causa deve comunicar ao Conselho e à Comissão as medidas adoptadas em resposta à notificação do Conselho. O relatório deve incluir os objectivos relativos à despesa e à receita pública e às medidas discricionárias tanto no lado da despesa como no da receita, bem como informações sobre as medidas adoptadas em resposta às recomendações específicas do Conselho de forma a permitir que o Conselho adopte, se necessário, uma decisão nos termos do artigo 6.º, n.º 2, do presente regulamento. O Estado-Membro deve tornar público o relatório.\n\n2. Caso tenham sido tomadas medidas eficazes, em cumprimento de uma notificação adoptada nos termos do artigo 126.º, n.º 9, do TFUE e, após a adopção dessa notificação, ocorram acontecimentos económicos adversos e imprevistos com um impacto desfavorável significativo nas finanças públicas, o Conselho pode decidir adoptar, sob recomendação da Comissão, uma notificação revista nos termos do artigo 126.º, n.º 9, do TFUE. A notificação revista, tendo em conta os factores pertinentes a que se refere o artigo 2.º, n.º 3, do presente regulamento, pode designadamente prorrogar por um ano, como regra geral, o prazo para a correcção da situação de défice excessivo. O Conselho deve apreciar se, em relação às previsões económicas contidas na sua notificação, ocorreram acontecimentos económicos adversos e imprevistos com um impacto desfavorável significativo nas finanças públicas. Em caso de recessão económica grave que afecte a área do euro ou toda a União, o Conselho pode também decidir adoptar, sob recomendação da Comissão, uma notificação revista nos termos do artigo 126.º, n.º 9, do TFUE, desde que tal não ponha em risco a sustentabilidade orçamental a médio prazo."
+  },
+  "cc8dce60036adcb7": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Para determinar se foram tomadas medidas eficazes na sequência da notificação efectuada nos termos do artigo 126.º, n.º 9, do TFUE, o Conselho deve basear a sua decisão no relatório apresentado pelo Estado-Membro em causa nos termos do artigo 5.º, n.º 1-A, do presente regulamento e na respectiva execução, bem como noutras decisões tornadas públicas pelo governo do Estado-Membro em causa. Devem ser tidos em conta os resultados da missão de supervisão efectuada pela Comissão nos termos do artigo 10.º-A do presente regulamento.\n\n2. Sempre que estejam reunidas as condições necessárias para aplicar o artigo 126.º, n.º 11, do TFUE, o Conselho deve aplicar sanções nos termos dessa mesma disposição. Essa decisão deve ser tomada, o mais tardar, no prazo de quatro meses a contar da decisão do Conselho nos termos do artigo 126.º, n.º 9, do TFUE que notifica o Estado-Membro participante em causa para tomar medidas."
+  },
+  "3a07ac84e19ffd75": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nSe um Estado-Membro participante não cumprir sucessivos actos jurídicos do Conselho adoptados nos termos do artigo 126.º, n.^os^ 7 e 9, do TFUE, a decisão do Conselho nos termos do artigo 126.º, n.º 11, do TFUE, de aplicar sanções deve ser tomada, como regra geral, no prazo de dezasseis meses a contar das datas de notificação previstas no artigo 3.º, n.^os^ 2 e 3, do Regulamento (CE) n.º 479/2009. Caso sejam aplicados o artigo 3.º, n.º 5 ou o artigo 5.º, n.º 2, do presente regulamento, o prazo de dezasseis é alterado em conformidade. Deve recorrer-se a um procedimento acelerado no caso de um défice programado de forma deliberada e que o Conselho decida ser excessivo."
+  },
+  "9e5a14abc4b9fd66": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs decisões do Conselho nos termos do artigo 126.º, n.º 11, do TFUE no sentido de reforçar as sanções, devem ser tomadas, o mais tardar, no prazo de dois meses a contar das datas de notificação previstas no Regulamento (CE) n.º 479/2009. As decisões do Conselho nos termos do artigo 126.º, n.º 12, do TFUE de revogar parte ou a totalidade das decisões que tomou devem ser tomadas o mais rapidamente possível e, em qualquer caso, o mais tardar no prazo de dois meses a contar das datas de notificação previstas no Regulamento (CE) n.º 479/2009."
+  },
+  "de2c4404ec86a300": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. O procedimento relativo aos défices excessivos será suspenso:\n\n— se o Estado-membro em causa cumprir as recomendações feitas nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 7 do artigo 126.º;**◄**\n\n— se o Estado-membro participante em causa cumprir as notificações efectuadas nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 9 do artigo 126.º **◄**.\n\n2. O período de suspensão do procedimento não será tido em conta, nem no período referido no artigo 6.º, nem no período referido no artigo 7.º do presente regulamento.\n\n3. Findos os prazos referidos no primeiro período do n.º 4 do artigo 3.º e no segundo período do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) artigo 6.º, n.º 2**◄** do presente regulamento, a Comissão informará o Conselho se considera que as medidas tomadas se afiguram suficientes para assegurar um progresso adequado no sentido da correcção da situação de défice excessivo nos prazos fixados pelo Conselho, desde que tais medidas sejam plenamente aplicadas e que a evolução económica esteja de acordo com as previsões. A declaração da Comissão será tornada pública."
+  },
+  "93724763240891b8": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. O Conselho e a Comissão acompanham regularmente a aplicação das medidas tomadas:\n\n— pelo Estado-membro em causa em resposta às recomendações formuladas nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 7 do artigo 126.º;**◄**\n\n— pelo Estado-membro participante em causa em resposta a notificações efectuadas nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 9 do artigo 126.º **◄**.\n\n2. Se as medidas não estiverem a ser aplicadas pelos Estados-membros participantes ou se, na opinião do Conselho, se revelarem inadequadas, o Conselho tomará uma decisão de imediato, respectivamente, nos termos do n.º 9 ou do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 11 do artigo 126.º **◄**.\n\n3. Se os dados verificados nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) Regulamento (CE) n.º 479/2009**◄** indicarem que uma situação de défice excessivo não foi corrigida pelo Estado-membro participante no prazo especificado quer nas recomendações formuladas nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 7 do artigo 126.º,**◄** quer nas notificações efectuadas nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 9 do artigo 126.º **◄**, o Conselho tomará uma decisão de imediato, respectivamente nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 9 ou do n.º 11 do do artigo 126.º **◄**."
+  },
+  "77cbf87d80d96b6b": {
+   "fragment_id": "Artigo 10.º-A",
+   "type": "artigo",
+   "heading": "Artigo 10.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-A\n\n1. A Comissão assegura um diálogo permanente com as autoridades dos Estados-Membros, tendo em conta os objectivos do presente regulamento. Para esse fim, a Comissão deve efectuar, em especial, missões destinadas a avaliar a situação económica real do Estado-Membro e a identificar eventuais riscos ou dificuldades no cumprimento dos objectivos do presente regulamento.\n\n2. Podem ser sujeitos a supervisão reforçada os Estados-Membros destinatários de recomendações e notificações emitidas com base numa decisão adoptada nos termos do artigo 126.º, n.º 8, e de decisões adoptadas nos termos do artigo 126.º, n.º 11, do TFUE para fins de controlo *in loco*. Os Estados-Membros em causa devem prestar todas as informações necessárias à preparação e realização da missão.\n\n3. A Comissão pode, se for caso disso, convidar representantes do BCE a participar numa missão de supervisão dos Estados-Membros cuja moeda seja o euro e dos Estados-Membros partes no Acordo, de 16 de Março de 2006, entre o Banco Central Europeu e os Bancos centrais nacionais dos Estados-Membros não participantes na área do euro que estabelece os procedimentos operacionais relativos ao mecanismo de taxas de câmbio na terceira fase da união económica e monetária (MTC2) ([^6^](http://publications.europa.eu/resource/cellar/031c5c6b-14cc-4f10-be6d-055cfd59cb82.0018.03/DOC_1#E0006)).\n\n4. A Comissão apresenta ao Conselho um relatório sobre os resultados da missão a que se refere o n.º 2 e pode, se for caso disso, decidir tornar públicas as suas conclusões.\n\n5. Ao organizar as missões de supervisão a que se refere o n.º 2, a Comissão deve transmitir as suas conclusões provisórias aos Estados-Membros em causa, para que estes formulem observações."
+  },
+  "9156cec5455fa5c9": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nSempre que o Conselho decida, nos termos do artigo 126.º, n.º 11, do TFUE impor sanções a um Estado-Membro participante, é aplicada, como regra geral, uma multa. O Conselho pode decidir complementar essa multa através das outras medidas previstas no artigo 126.º, n.º 11, do TFUE."
+  },
+  "1dc67de6215ac658": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. O montante da multa deve incluir uma componente fixa, correspondente a 0,2 % do PIB, e uma componente variável. A componente variável deve corresponder a um décimo do valor absoluto da diferença entre o saldo orçamental expresso em percentagem do PIB no ano anterior e o valor de referência para o saldo da administração pública ou, se o incumprimento da disciplina orçamental incluir o critério da dívida, o saldo da administração pública expresso em percentagem do PIB que deveria ser alcançado no mesmo ano de acordo com a notificação emitida nos termos do artigo 126.º, n.º 9, do TFUE.\n\n2. Em cada um dos anos seguintes após a aplicação de um multa, e até que seja revogada a decisão sobre a existência de um défice excessivo, o Conselho deve avaliar se o Estado-Membro participante em causa tomou medidas efectivas em resposta à notificação do Conselho nos termos do artigo 126.º, n.º 9, do TFUE. Nessa avaliação anual, o Conselho deve decidir nos termos do artigo 126.º, n.º 11, do TFUE reforçar as sanções, a não ser que o Estado-Membro participante em causa tenha cumprido o estabelecido na notificação do Conselho. Caso o Conselho decida aplicar uma multa adicional, o montante deve ser calculado da mesma forma que o montante da componente variável da multa a que se refere o n.º 1.\n\n3. Qualquer das multas a que se referem os n.^os^ 1 e 2 não deve exceder o limite máximo de 0,5 % do PIB."
+  },
+  "4361a8fdb260673c": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nNos termos do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 12 do artigo 126.º **◄**, o Conselho revogará as sanções referidas no primeiro e segundo travessões do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 11 do artigo 126.º **◄**, consoante a relevância dos progressos registados pelo Estado-membro participante em causa na correcção do défice excessivo."
+  },
+  "7d926e8aad0b00d2": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nNos termos do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) n.º 12 do artigo 126.º **◄**, o Conselho revogará todas as sanções em vigor se a decisão relativa à existência de um défice excessivo for revogada. As multas impostas por força do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) artigo 12.º **◄** do presente regulamento não serão reembolsadas ao Estado-membro em causa."
+  },
+  "9403eba4a966a768": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nAs multas a que se refere o artigo 12.º do presente regulamento constituem outras receitas, na acepção do artigo 311.º do TFUE, e o seu montante é consignado ao Fundo Europeu de Estabilidade Financeira. Após a criação pelos Estados-Membros participantes de outro mecanismo de estabilidade destinado à prestação de assistência financeira com o objectivo de salvaguardar a estabilidade da área do euro no seu conjunto, o montante das multas passará a ser consignado a esse mecanismo."
+  },
+  "ba8f084830f287f9": {
+   "fragment_id": "Artigo 17.º-A",
+   "type": "artigo",
+   "heading": "Artigo 17.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º-A\n\n1. Até 14 de Dezembro de 2014 e, seguidamente, de cinco em cinco anos, a Comissão publica um relatório sobre a aplicação do presente regulamento.\n\nEsse relatório deve avaliar, nomeadamente:\n\na) A eficácia do regime constante do presente regulamento;\n\nb) Os progressos registados no sentido de garantir uma coordenação mais estreita das políticas económicas e uma convergência sustentada dos comportamentos das economias dos Estados-Membros, nos termos do TFUE.\n\n2. O relatório em causa deve ser acompanhado, se for caso disso, de uma proposta de alteração do presente regulamento.\n\n3. O relatório é transmitido ao Parlamento Europeu e ao Conselho."
+  },
+  "5a33a53e2c37963a": {
+   "fragment_id": "PRAZOS APLICÁVEIS AO REINO UNIDO",
+   "type": "divisao",
+   "heading": "PRAZOS APLICÁVEIS AO REINO UNIDO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRAZOS APLICÁVEIS AO REINO UNIDO\n\n1. Com o objectivo de garantir a igualdade de tratamento de todos os Estados-Membros, ao tomar as decisões referidas nas secções 2, 3 e 4 do presente regulamento, o Conselho deverá ter em conta as diferenças específicas do exercício orçamental do Reino Unido, a fim de tomar decisões relativas a esse Estado-Membro em relação a um momento do seu exercício orçamental que seja semelhante àquele em que as decisões tiverem sido ou vierem a ser tomadas em relação a outros Estados-Membros.\n\n2. As disposições especificadas na coluna I são substituídas pelas disposições especificadas na coluna II.\n\nColuna I Coluna II\n\n«em regra, no prazo de quatro meses a contar das datas de notificação previstas nos [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) artigo 3.º, n.^os^ 2 e 3, do Regulamento (CE) n.º 479/2009**◄** do Conselho» (n.º 3 do artigo 3.º) «em regra, no prazo de seis meses a contar do final do exercício orçamental em que ocorreu o défice»\n\n«no ano seguinte à sua identificação» (n.º 4 do artigo 3.º) «no exercício orçamental seguinte à sua identificação»\n\n«em regra, no prazo de 16 meses a contar das datas de notificação previstas nos n.^os^ 2 e 3 do artigo 4.º do Regulamento (CE) n.º 3605/93» (artigo 7.º) «em regra, no prazo de 18 meses a contar do final do exercício orçamental em que ocorreu o défice»\n\n«no ano anterior» (n.º 1 do artigo 12.º) «no exercício orçamental anterior»\n\n---"
+  },
+  "b8ea6aed055b523f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/031c5c6b-14cc-4f10-be6d-055cfd59cb82.0018.03/DOC_1#src.E0001)) JO n.º C 368 de 6.12.1996, p. 12.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/031c5c6b-14cc-4f10-be6d-055cfd59cb82.0018.03/DOC_1#src.E0002)) JO n.º C 380 de 16.12.1996, p. 29.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/031c5c6b-14cc-4f10-be6d-055cfd59cb82.0018.03/DOC_1#src.E0003)) Ver página 1 do presente Jornal Oficial.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/031c5c6b-14cc-4f10-be6d-055cfd59cb82.0018.03/DOC_1#src.E0004)) JO n.º C 236 de 2.8.1997, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/031c5c6b-14cc-4f10-be6d-055cfd59cb82.0018.03/DOC_1#src.E0005)) JO n.º L 332 de 31.12.1993, p. 7.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/031c5c6b-14cc-4f10-be6d-055cfd59cb82.0018.03/DOC_1#src.E0006)) JO C 73 de 25.3.2006, p. 21."
+  },
+  "f8a56db9e362aee9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Julho de 1997\n\nrelativo à aceleração e clarificação da aplicação do procedimento relativo aos défices excessivos"
+  },
+  "be30001135753516": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O presente regulamento estabelece as disposições para acelerar e clarificar a aplicação do procedimento relativo aos défices excessivos. O procedimento relativo aos défices excessivos tem o objetivo de evitar défices orçamentais excessivos e, caso venham a ocorrer, de os corrigir rapidamente, sendo o cumprimento da disciplina orçamental avaliado com base nos critérios do défice orçamental e da dívida pública.\n\n2. Para efeitos do presente regulamento, entende-se por «Estados-Membros participantes» os Estados-Membros cuja moeda seja o euro.\n\n3. São aplicáveis as definições do artigo 2.º do Regulamento (UE) 2024/1263 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/8fb6cfa8-1d01-11ef-a251-01aa75ed71a1.0019.02/DOC_1#E0001))."
+  },
+  "0928f75b31ad83f0": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Considera-se que o excesso do défice orçamental em relação ao valor de referência é excecional, nos termos do artigo 126.º, n. 2, alínea a), segundo travessão, do Tratado sobre o Funcionamento da União Europeia (TFUE), quando resultar da existência de uma recessão económica grave na área do euro ou na União no seu conjunto, determinada pelo Conselho em conformidade com o artigo 25.º do Regulamento (UE) 2024/1263, ou de circunstâncias excecionais fora do controlo do governo que tenham um impacto significativo nas finanças públicas do Estado-Membro em causa, em conformidade com o artigo 26.º desse regulamento.\n\nAlém disso, considera-se temporário o excesso do défice em relação ao valor de referência se as previsões orçamentais fornecidas pela Comissão indicarem que o défice se situará abaixo do valor de referência, uma vez cessadas a recessão económica grave ou as circunstâncias excecionais a que se refere o primeiro parágrafo.\n\n2. Quando o rácio entre a dívida pública e o produto interno bruto (PIB) exceder o valor de referência, considera-se que se encontra em diminuição significativa e se aproxima, de forma satisfatória, do valor de referência, em conformidade com o artigo 126.º, n.º 2, alínea b), do TFUE, se o Estado-Membro em causa respeitar a sua trajetória das despesas líquidas conforme determinada pelo Conselho.\n\nA Comissão deve elaborar um relatório nos termos do artigo 126.º, n.º 3, do TFUE quando o rácio entre a dívida pública e o PIB exceder o valor de referência, a situação orçamental não estiver próxima do equilíbrio ou excedentária e os desvios registados na conta de controlo do Estado-Membro excederem:\n\na) 0,3 pontos percentuais do PIB por ano;\n\nb) ou 0,6 pontos percentuais do PIB cumulativamente.\n\n3. Para efeitos da preparação do relatório previsto no artigo 126.º, n.º 3, do TFUE, a Comissão deve tomar em consideração todos os fatores pertinentes conforme referido nesse artigo, na medida em que afetem significativamente a avaliação do cumprimento dos critérios do défice e da dívida pelo Estado-Membro em causa.\n\nO relatório referido no artigo 126.º, n.º 3, do TFUE, deve refletir de modo adequado:\n\na) A gravidade dos problemas relacionados com a dívida pública, com base na metodologia a que se refere o artigo 10.º do Regulamento (UE) 2024/1263, a evolução da dívida pública e do seu financiamento, bem como os fatores de risco conexos, em especial a estrutura de prazos de vencimento e a moeda de denominação da dívida e dos passivos contingentes, incluindo todos os passivos implícitos associados ao envelhecimento demográfico e a dívida privada;\n\nb) A evolução das situações orçamentais a médio prazo, incluindo, em especial, a dimensão do desvio efetivo em relação à trajetória das despesas líquidas conforme determinada pelo Conselho, em termos anuais e cumulativos, aferida pela conta de controlo;\n\nc) A evolução da situação económica a médio prazo, incluindo o crescimento potencial, a evolução da inflação e a evolução cíclica em comparação com os pressupostos subjacentes à trajetória das despesas líquidas conforme determinada pelo Conselho;\n\nd) Os progressos na execução de reformas e de investimentos, incluindo, em especial, políticas destinadas a prevenir e corrigir desequilíbrios macroeconómicos e políticas de execução da estratégia comum de crescimento e emprego da União, incluindo as apoiadas pelo Mecanismo de Recuperação e Resiliência criado pelo Regulamento (UE) 2021/241 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/8fb6cfa8-1d01-11ef-a251-01aa75ed71a1.0019.02/DOC_1#E0002)), e a qualidade global das finanças públicas, em especial a eficácia dos quadros orçamentais nacionais;\n\ne) O aumento do investimento público na defesa, quando aplicável, tendo também em conta o momento de registo das despesas em equipamento militar.\n\nA Comissão deve tomar devida e expressamente em consideração quaisquer outros fatores que, na opinião do Estado-Membro em causa, sejam pertinentes para avaliar globalmente o cumprimento dos critérios do défice e da dívida e tenham sido comunicados pelo Estado-Membro ao Conselho e à Comissão. Neste contexto, deve ser prestada especial atenção às contribuições financeiras para promover a solidariedade internacional e realizar as prioridades comuns da União a que se refere o artigo 13.º, alínea c), do Regulamento (UE) 2024/1263.\n\n4. O Conselho e a Comissão devem fazer uma avaliação global equilibrada de todos os fatores pertinentes, especificamente da sua incidência, enquanto fatores agravantes ou atenuantes, na avaliação do cumprimento do critério do défice e/ou da dívida. Se o Estado-Membro enfrentar problemas substanciais relacionados com a dívida pública a que se refere o n.º 3, alínea a), segundo parágrafo, do presente artigo, tal deve ser considerado um fator agravante fundamental. A evolução cíclica favorável a nível económico, orçamental e financeiro não deve ser considerada um fator atenuante, ao passo que a evolução desfavorável pode ser considerada como um fator atenuante.\n\nSe, na avaliação do cumprimento com base no critério do défice, o rácio entre a dívida pública e o PIB exceder o valor de referência, esses fatores apenas devem ser tomados em consideração nas etapas conducentes à decisão sobre a existência de um défice excessivo, previstas no artigo 126.º, n.^os^ 4, 5 e 6, do TFUE, se for plenamente satisfeita a dupla condição do princípio central segundo o qual, antes de serem tomados em consideração os fatores pertinentes, o défice das administrações públicas continuar próximo do valor de referência e o excesso em relação ao valor de referência for temporário.\n\nTodavia, na avaliação do cumprimento com base no critério da dívida, esses fatores devem ser tomados em consideração nas etapas conducentes à decisão sobre a existência de um défice excessivo.\n\n5. Caso os Estados-Membros estejam autorizados a desviarem-se da sua trajetória das despesas líquidas nos termos do artigos 25.º e 26.º do Regulamento (UE) 2024/1263, a Comissão e o Conselho podem decidir não concluir pela existência de um défice excessivo no quadro da sua avaliação.\n\n6. Caso o Conselho decida, nos termos do artigo 126.º, n.º 6, do TFUE, que existe um défice excessivo num Estado-Membro, o Conselho e a Comissão devem ter em conta, nas fases processuais subsequentes previstas no artigo 126.º do TFUE, os fatores pertinentes a que se refere o n.º 3 do presente artigo, na medida em que afetem a situação do Estado-Membro em causa, incluindo o especificado no artigo 5.º, n.º 2, do presente regulamento, em especial na fixação de um prazo para a correção da situação de défice excessivo e, eventualmente, na prorrogação desse prazo. Todavia, esses fatores pertinentes não devem ser tidos em conta na decisão a tomar pelo Conselho nos termos do artigo 126.º, n.º 12, do TFUE sobre a revogação total ou parcial das suas decisões nos termos do artigo 126.º, n.^os^ 6 a 9 e 11, do TFUE."
+  },
+  "ccf5f77e206225ed": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. No prazo de duas semanas a contar da adoção pela Comissão de um relatório nos termos do artigo 126.º, n.º 3, do TFUE, o Comité Económico e Financeiro deve emitir um parecer nos termos do artigo 126.º, n.º 4, do TFUE.\n\n2. Tendo o parecer a que se refere o n.º 1 do presente artigo plenamente em conta, a Comissão, se considerar que existe um défice excessivo, envia um parecer e uma proposta ao Conselho nos termos do artigo 126.º, n.^os^ 5 e 6, do TFUE e informa o Parlamento Europeu.\n\n3. O Conselho decide sobre a existência de um défice excessivo nos termos do artigo 126.º, n.º 6, do TFUE, em regra, no prazo de quatro meses a contar das datas de notificação previstas no artigo 3.º, n.^os^ 2 e 3, do Regulamento (CE) n.º 479/2009 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/8fb6cfa8-1d01-11ef-a251-01aa75ed71a1.0019.02/DOC_1#E0003)). Se decidir que existe um défice excessivo, o Conselho dirige simultaneamente recomendações ao Estado-Membro em causa nos termos do artigo 126.º, n.º 7, do TFUE. O Conselho deve divulgar publicamente as suas decisões nos termos do artigo 126.º, n.º 6, do TFUE.\n\n4. A recomendação do Conselho adotada nos termos do artigo 126.º, n.º 7, do TFUE deve fixar um prazo máximo de seis meses para que o Estado-Membro em causa tome medidas eficazes. Se a gravidade da situação o justificar, o prazo para a tomada de medidas eficazes pode ser de três meses. A recomendação do Conselho deve igualmente fixar um prazo para a correção do défice excessivo.\n\nNa sua recomendação, o Conselho deve igualmente solicitar ao Estado-Membro que siga uma trajetória corretiva das despesas líquidas que garanta que o défice das administrações públicas se mantém ou é reduzido e mantido abaixo do valor de referência no prazo fixado na recomendação.\n\nCaso o procedimento relativo aos défices excessivos tenha sido iniciado com base no critério do défice, nos anos em que se prevê que o défice das administrações públicas exceda o valor de referência, a trajetória corretiva das despesas líquidas deve ser compatível com um ajustamento estrutural anual mínimo de, pelo menos, 0,5 % do PIB como valor de referência.\n\nCaso o procedimento relativo aos défices excessivos tenha sido iniciado com base no critério da dívida, a trajetória corretiva das despesas líquidas deve ser pelo menos tão exigente como a trajetória das despesas líquidas conforme determinada pelo Conselho nos termos do artigo 17.º do Regulamento (UE) 2024/1263 e corrigir, em regra, os desvios cumulativos da conta de controlo no prazo fixado pelo Conselho.\n\n5. No prazo fixado no n.º 4 do presente artigo, o Estado-Membro em causa deve comunicar ao Conselho e à Comissão as medidas tomadas em resposta à recomendação do Conselho adotada nos termos do artigo 126.º, n.º 7, do TFUE. O relatório deve incluir os objetivos relativos às despesas e receitas públicas e às medidas discricionárias tanto no lado das despesas como no das receitas, devendo esses objetivos ser consentâneos com a recomendação do Conselho, bem como informações sobre as medidas tomadas e a natureza das medidas previstas para a realização dos objetivos. O Estado-Membro deve tornar público o relatório. O Estado-Membro pode convidar a instituição orçamental independente pertinente a elaborar um relatório não vinculativo e separado sobre a suficiência das medidas tomadas e previstas relativamente aos objetivos.\n\n6.\n\nO Conselho pode decidir, com base numa recomendação da Comissão, adotar uma recomendação revista nos termos do artigo 126.º, n.º 7, do TFUE, caso:\n\na) Tenham sido tomadas medidas eficazes na sequência dessa recomendação e sejam aplicáveis as condições referidas no artigo 26.º do Regulamento (UE) 2024/1263; ou\n\nb) Sejam aplicáveis as condições referidas no artigo 25.º do Regulamento (UE) 2024/1263.\n\nA recomendação revista pode, em especial, prorrogar, em regra, por um ano o prazo para a correção do défice excessivo."
+  },
+  "8465ec0d5e9547ed": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Para determinar se foram tomadas medidas eficazes na sequência das recomendações adotadas nos termos do artigo 126.º, n.º 7, do TFUE, o Conselho deve basear a sua decisão no relatório apresentado pelo Estado-Membro em causa nos termos do artigo 3.º, n.º 5, do presente regulamento e na respetiva execução, bem como noutras decisões suficientemente pormenorizadas e tornadas públicas pelo governo do Estado-Membro em causa.\n\nCaso o Conselho verifique, nos termos do artigo 126.º, n.º 8, do TFUE, que o Estado-Membro em causa não tomou medidas eficazes, informa o Conselho Europeu em conformidade.\n\n2. As decisões do Conselho, nos termos do artigo 126.º, n.º 8, do TFUE, no sentido de tornar públicas as suas recomendações, sempre que se verifique que não foram tomadas medidas eficazes, devem ser adotadas imediatamente a seguir ao termo do prazo fixado nos termos do artigo 3.º, n.º 4, do presente regulamento."
+  },
+  "3ed259a512d04a40": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A decisão do Conselho no sentido de notificar o Estado-Membro participante em causa para este tomar medidas destinadas a reduzir o défice, nos termos do artigo 126.º, n.º 9, do TFUE deve ser adotada no prazo de dois meses a contar da data da decisão do Conselho que tiver verificado que não foram tomadas medidas eficazes nos termos do artigo 126.º, n.º 8, do TFUE. Na notificação, o Conselho deve exigir ao Estado-Membro que siga uma trajetória corretiva das despesas líquidas, em conformidade com os requisitos estabelecidos no artigo 3.º, n.º 4, do presente regulamento. O Conselho deve igualmente definir as medidas conducentes ao cumprimento da trajetória corretiva das despesas líquidas.\n\n1-A. Na sequência da notificação do Conselho efectuada nos termos do artigo 126.º, n.º 9, do TFUE, o Estado-Membro em causa deve comunicar ao Conselho e à Comissão as medidas adoptadas em resposta à notificação do Conselho. O relatório deve incluir os objectivos relativos à despesa e à receita pública e às medidas discricionárias tanto no lado da despesa como no da receita, bem como informações sobre as medidas adoptadas em resposta às recomendações específicas do Conselho de forma a permitir que o Conselho adopte, se necessário, uma decisão nos termos do artigo 6.º, n.º 2, do presente regulamento. O Estado-Membro deve tornar público o relatório.\n\n2.\n\nO Conselho pode decidir, com base numa recomendação da Comissão, adotar uma notificação revista nos termos do artigo 126.º, n.º 9, do TFUE, caso:\n\na) Tenham sido tomadas medidas eficazes na sequência dessa notificação e sejam aplicáveis as condições referidas no artigo 26.º do Regulamento (UE) 2024/1263; ou\n\nb) Sejam aplicáveis as condições referidas no artigo 25.º do Regulamento (UE) 2024/1263.\n\nA notificação revista pode, em especial, prorrogar, em regra, por um ano o prazo para a correção do défice excessivo."
+  },
+  "f2c9714268416707": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Para determinar se foram tomadas medidas eficazes na sequência da notificação adotada nos termos do artigo 126.º, n.º 9, do TFUE, o Conselho deve basear a sua decisão no relatório apresentado pelo Estado-Membro em causa nos termos do artigo 5.º, n.º 1-A, do presente regulamento e na respetiva execução, bem como noutras decisões suficientemente pormenorizadas e tornadas públicas pelo governo do Estado-Membro em causa. Devem ser tidos em conta os resultados da missão de supervisão efetuada pela Comissão nos termos do artigo 10.º-A do presente regulamento.\n\n2. Sempre que estejam reunidas as condições necessárias para aplicar o artigo 126.º, n.º 11, do TFUE, o Conselho deve aplicar sanções nos termos dessa mesma disposição. Essa decisão deve ser tomada, o mais tardar, no prazo de quatro meses a contar da decisão do Conselho nos termos do artigo 126.º, n.º 9, do TFUE que notifica o Estado-Membro participante em causa para tomar medidas."
+  },
+  "70e5b1d9941c4984": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. As decisões do Conselho nos termos do artigo 126.º, n.º 11, do TFUE no sentido de reforçar as sanções devem ser tomadas, o mais tardar, no prazo de dois meses a contar das datas de notificação previstas no Regulamento (CE) n.º 479/2009.\n\n2. As decisões do Conselho nos termos do artigo 126.º, n.º 12, do TFUE de revogar parte ou a totalidade das decisões que tomou devem ser tomadas o mais rapidamente possível e, em qualquer caso, o mais tardar no prazo de dois meses a contar das datas de notificação previstas no Regulamento (CE) n.º 479/2009.\n\n3. Só deve ser tomada uma decisão do Conselho nos termos do artigo 126.º, n.º 12, do TFUE se o défice tiver sido reduzido para um nível inferior ao valor de referência e a Comissão previr que assim se manterá no ano em curso e no ano seguinte e, caso o procedimento relativo aos défices excessivos tenha sido iniciado com base no critério da dívida, o Estado-Membro em causa tenha respeitado a trajetória corretiva das despesas líquidas conforme determinada pelo Conselho nos termos do artigo 3.º, n.º 4, ou do artigo 5.º, n.º 1, do presente regulamento."
+  },
+  "e8b39d7e44e4cb06": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1.\n\nO procedimento relativo aos défices excessivos é suspenso se:\n\na) O Estado-Membro em causa cumprir as recomendações formuladas nos termos do artigo 126.º, n.º 7, do TFUE;\n\nb) O Estado-Membro participante em causa cumprir as notificações efetuadas nos termos do artigo 126.º, n.º 9, do TFUE.\n\n2. O período de suspensão do procedimento não será tido em conta, nem no período referido no artigo 6.º, nem no período referido no artigo 7.º do presente regulamento.\n\n3. Findos os prazos referidos no primeiro período do n.º 4 do artigo 3.º e no segundo período do [**►M2**](http://publications.europa.eu/resource/celex/32011R1177) artigo 6.º, n.º 2**◄** do presente regulamento, a Comissão informará o Conselho se considera que as medidas tomadas se afiguram suficientes para assegurar um progresso adequado no sentido da correcção da situação de défice excessivo nos prazos fixados pelo Conselho, desde que tais medidas sejam plenamente aplicadas e que a evolução económica esteja de acordo com as previsões. A declaração da Comissão será tornada pública."
+  },
+  "c966263bd4de0cf6": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1.\n\nO Conselho e a Comissão devem acompanhar periodicamente a aplicação das medidas tomadas:\n\n— pelo Estado-Membro em causa em resposta às recomendações formuladas nos termos do artigo 126.º, n.º 7, do TFUE,\n\n— pelo Estado-Membro participante em causa em resposta às notificações efetuadas nos termos do artigo 126.º, n.º 9, do TFUE.\n\n2. Se as medidas não estiverem a ser aplicadas pelos Estados-Membros participantes ou se, na opinião do Conselho, se revelarem inadequadas, o Conselho deve tomar uma decisão de imediato, respetivamente, nos termos do artigo 126.º, n.º 9 ou n.º 11, do TFUE.\n\n3. Se os dados verificados nos termos do Regulamento (CE) n.º 479/2009 indicarem que um défice excessivo não foi corrigido pelo Estado-Membro participante no prazo especificado quer nas recomendações formuladas nos termos do artigo 126.º n.º 7, do TFUE, quer nas notificações efetuadas nos termos do artigo 126.º, n.º 9, do TFUE, o Conselho deve tomar uma decisão de imediato, respetivamente, nos termos do artigo 126.º, n.º 9 ou n.º 11, do TFUE."
+  },
+  "f04cad48cdd47ca3": {
+   "fragment_id": "Artigo 10.º-A",
+   "type": "artigo",
+   "heading": "Artigo 10.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-A\n\n1. A Comissão deve assegurar um diálogo permanente com as autoridades dos Estados-Membros, tendo em conta os objetivos do presente regulamento. Para esse fim, a Comissão deve efetuar, em especial, missões destinadas a avaliar a situação económica real do Estado-Membro e a identificar eventuais riscos ou dificuldades no cumprimento dos objetivos do presente regulamento, bem como a permitir uma troca de pontos de vista com outras parte interessadas pertinentes, incluindo as instituições orçamentais independentes nacionais.\n\n2. Na sequência da adoção pelo Conselho de uma notificação nos termos do artigo 126.º, n.º 9, do TFUE, e a pedido do parlamento do Estado-Membro em causa, a Comissão pode apresentar a sua avaliação da situação económica e orçamental do Estado-Membro em causa. Podem ser sujeitos a supervisão reforçada os Estados-Membros destinatários de recomendações e notificações emitidas com base numa decisão adotada nos termos do artigo 126.º, n.º 8, do TFUE e de decisões adotadas nos termos do artigo 126.º, n.º 11, do TFUE para fins de controlo no local. Os Estados-Membros em causa devem prestar todas as informações necessárias à preparação e realização da missão.\n\n3. A Comissão pode, se for caso disso, convidar representantes do BCE a participar numa missão de supervisão dos Estados-Membros cuja moeda seja o euro e dos Estados-Membros partes no Acordo, de 16 de Março de 2006, entre o Banco Central Europeu e os Bancos centrais nacionais dos Estados-Membros não participantes na área do euro que estabelece os procedimentos operacionais relativos ao mecanismo de taxas de câmbio na terceira fase da união económica e monetária (MTC2) ([^4^](http://publications.europa.eu/resource/cellar/8fb6cfa8-1d01-11ef-a251-01aa75ed71a1.0019.02/DOC_1#E0004)).\n\n4. A Comissão apresenta ao Conselho um relatório sobre os resultados da missão a que se refere o n.º 2 e pode, se for caso disso, decidir tornar públicas as suas conclusões.\n\n5. Ao organizar as missões de supervisão a que se refere o n.º 2, a Comissão deve transmitir as suas conclusões provisórias aos Estados-Membros em causa, para que estes formulem observações."
+  },
+  "25e9fe63d85083b1": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. O montante da multa eleva-se a um montante máximo correspondente a 0,05 % da estimativa mais recente do PIB do ano anterior por um período de seis meses e é pago de seis em seis meses até que o Conselho considere que o Estado-Membro em causa tomou medidas eficazes em resposta à notificação emitida nos termos do artigo 126.º, n.º 9, do TFUE.\n\n2. Em cada um dos períodos de seis meses subsequentes ao período em que foi imposta uma multa, e até que seja revogada a decisão sobre a existência de um défice excessivo, o Conselho deve avaliar se o Estado-Membro participante em causa tomou medidas eficazes em resposta à notificação do Conselho efetuada nos termos do artigo 126.º, n.º 9, do TFUE. No âmbito dessa avaliação semestral, o Conselho decide, nos termos do artigo 126.º, n.º 11, do TFUE, reforçar as sanções, a não ser que o Estado-Membro participante em causa tenha cumprido o estabelecido na notificação do Conselho."
+  },
+  "6d8fa378bcc14d9f": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nNos termos do artigo 126.º n.º 12, do TFUE, o Conselho deve revogar as sanções referidas no artigo 126.º, n.º 11, primeiro e segundo travessões, do TFUE consoante a relevância dos progressos registados pelo Estado-Membro participante em causa na correção do défice excessivo."
+  },
+  "d699f0166e09dc1a": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nNos termos do artigo 126.º, n.º 12, do TFUE, o Conselho deve revogar todas as sanções em vigor se a decisão relativa à existência de um défice excessivo for revogada. As multas impostas por força do artigo 12.º do presente regulamento não serão reembolsadas ao Estado-Membro participante em causa."
+  },
+  "c1925eb334cb09f9": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nAs multas a que se refere o artigo 12.º constituem receitas gerais para o orçamento da União."
+  },
+  "a65d2b364ab9edef": {
+   "fragment_id": "Artigo 17.º-A",
+   "type": "artigo",
+   "heading": "Artigo 17.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º-A\n\n1. Até 31 de dezembro de 2030 e, seguidamente, de cinco em cinco anos, a Comissão publica um relatório sobre a aplicação do presente regulamento.\n\nEsse relatório deve analisar:\n\na) A eficácia do presente regulamento para alcançar os seus objetivos a que se refere o artigo 1.º, n.º 1; e\n\nb) Os progressos realizados no sentido de garantir uma coordenação mais estreita das políticas económicas e uma convergência sustentada dos comportamentos das economias dos Estados-Membros, nos termos do TFUE.\n\n2. Se for caso disso, o relatório referido no n.º 1 é acompanhado de uma proposta de alteração do presente regulamento.\n\n3. O relatório referido no n.º 1é transmitido ao Parlamento Europeu e ao Conselho."
+  },
+  "2ce70ad43a0a1a88": {
+   "fragment_id": "Artigo 17.º-B",
+   "type": "artigo",
+   "heading": "Artigo 17.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º-B\n\nO Conselho, com base numa recomendação da Comissão, deve adotar uma recomendação revista nos termos do artigo 126.º, n.º 7, do TFUE ou uma notificação revista nos termos do artigo 126.º, n.º 9, do TFUE dirigida aos Estados-Membros objeto de uma recomendação nos termos do artigo 126.º, n.º 7, do TFUE ou de uma notificação nos termos do artigo 126.º, n.º 9, do TFUE, em 30 de abril de 2024, e que tenham tomado medidas eficazes.\n\nO Conselho deve adotar a recomendação ou notificação revista juntamente com a adoção da recomendação formulada nos termos do artigo 17.º do Regulamento (UE) 2024/1263, determinando a trajetória das despesas líquidas."
+  },
+  "c579e0ad2768fe28": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1999.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n---"
+  },
+  "d195d451100ebd0d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8fb6cfa8-1d01-11ef-a251-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (UE) 2024/1263 do Parlamento Europeu e do Conselho, de 29 de abril de 2024, relativo à coordenação eficaz das políticas económicas e à supervisão orçamental multilateral e que revoga o Regulamento (CE) n.º 1466/97 do Conselho (JO L, 2024/1263, 30.4.2024, ELI: http://data.europa.eu/eli/reg/2024/1263/oj).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8fb6cfa8-1d01-11ef-a251-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (UE) 2021/241 do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021, que cria o Mecanismo de Recuperação e Resiliência (JO L 57 de 18.2.2021, p. 17).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/8fb6cfa8-1d01-11ef-a251-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Regulamento (CE) n.º 479/2009 do Conselho, de 25 de Maio de 2009, relativo à aplicação do Protocolo sobre o procedimento relativo aos défices excessivos anexo ao Tratado que institui a Comunidade Europeia (JO L 145 de 10.6.2009, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/8fb6cfa8-1d01-11ef-a251-01aa75ed71a1.0019.02/DOC_1#src.E0004)) JO C 73 de 25.3.2006, p. 21."
+  }
+ }
+}

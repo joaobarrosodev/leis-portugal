@@ -1,0 +1,272 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006R1184:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1184-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "celex": "02006R1184-20080101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a5a1a002a21a24c2",
+    "a78d4c9a3634605f",
+    "f7db62038666843a",
+    "9ec29cbf87526a4f",
+    "f36413dec745f7be",
+    "e52139c6ffb09872",
+    "a8b67d962f6af297",
+    "69d446fd8684612e",
+    "7c0c8dd91c8f522f",
+    "cc37fa84bf938ae8"
+   ]
+  },
+  {
+   "date": "2008-07-01",
+   "future": false,
+   "celex": "02006R1184-20080701",
+   "acts": [
+    {
+     "id": "eu:celex:32008R0361:por",
+     "title": "REGULAMENTO (CE) N. o 361/2008 DO CONSELHO de 14 de Abril de 2008",
+     "published": null,
+     "celex": "32008R0361"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "3fa59c05fd967eb8",
+    "778f4f52405c3643",
+    "f7db62038666843a",
+    "9ec29cbf87526a4f",
+    "f36413dec745f7be",
+    "e52139c6ffb09872",
+    "a8b67d962f6af297",
+    "69d446fd8684612e",
+    "7c0c8dd91c8f522f",
+    "687450792b0ca327"
+   ]
+  },
+  {
+   "date": "2009-08-01",
+   "future": false,
+   "celex": "02006R1184-20090801",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0491:por",
+     "title": "REGULAMENTO (CE) N. o 491/2009 DO CONSELHO de 25 de Maio de 2009",
+     "published": null,
+     "celex": "32009R0491"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "5062b5e77fd234aa",
+    "880ad5bcb016933e",
+    "f7db62038666843a",
+    "9ec29cbf87526a4f",
+    "f36413dec745f7be",
+    "e52139c6ffb09872",
+    "a8b67d962f6af297",
+    "69d446fd8684612e",
+    "7c0c8dd91c8f522f",
+    "62f0b20a4035c8eb"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "02006R1184-20140101",
+   "acts": [
+    {
+     "id": "eu:celex:32013R1379:por",
+     "title": "REGULAMENTO (UE) N. o 1379/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2013",
+     "published": null,
+     "celex": "32013R1379"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "d8ff60b276487e21",
+    "1e3e2dc0af722f79",
+    "f7db62038666843a",
+    "9ec29cbf87526a4f",
+    "f36413dec745f7be",
+    "e52139c6ffb09872",
+    "a8b67d962f6af297",
+    "69d446fd8684612e",
+    "7c0c8dd91c8f522f",
+    "2f5b247b31cf36a6"
+   ]
+  }
+ ],
+ "fragments": {
+  "a5a1a002a21a24c2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Julho de 2006\n\nrelativo à aplicação de determinadas regras de concorrência à produção e ao comércio de certos produtos agrícolas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente os artigos 36.º e 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/c666d98a-9aeb-4a90-8c5b-d51e9b653ba6.0017.03/DOC_1#E0001)),\n\n(1) O Regulamento n.º 26 do Conselho, de 4 de Abril de 1962, relativo à aplicação de determinadas regras de concorrência à produção e ao comércio de produtos agrícolas ([^2^](http://publications.europa.eu/resource/cellar/c666d98a-9aeb-4a90-8c5b-d51e9b653ba6.0017.03/DOC_1#E0002)), foi alterado quanto à substância ([^3^](http://publications.europa.eu/resource/cellar/c666d98a-9aeb-4a90-8c5b-d51e9b653ba6.0017.03/DOC_1#E0003)). Deve proceder-se, por razões de clareza e racionalidade, à sua codificação.\n\n(2) Resulta do artigo 36.º do Tratado que a aplicação das regras de concorrência previstas no Tratado à produção e ao comércio dos produtos agrícolas constitui um dos elementos da política agrícola comum. As disposições do presente regulamento deverão, por conseguinte, ser completadas tendo em conta o desenvolvimento desta política.\n\n(3) As regras de concorrência relativas aos acordos, decisões e práticas referidos no artigo 81.º do Tratado e à exploração abusiva das posições dominantes deverão ser aplicadas à produção e ao comércio dos produtos agrícolas, na medida em que a sua aplicação não entrave o funcionamento das organizações nacionais dos mercados agrícolas e não ponha em perigo a realização dos objectivos da política agrícola comum.\n\n(4) Convém prestar uma atenção especial à situação de associações de agricultores na medida em que tenham, nomeadamente, por objectivo a produção ou o comércio em comum de produtos agrícolas ou a utilização de instalações comuns, a menos que tal acção comum exclua a concorrência e ponha em perigo a realização dos objectivos do artigo 33.º do Tratado.\n\n(5) Tendo em vista tanto evitar comprometer o desenvolvimento de uma política agrícola comum, como garantir a segurança jurídica e o tratamento não discriminatório das empresas em questão, a Comissão, sem prejuízo do controlo do Tribunal de Justiça, deverá ter competência exclusiva para verificar que se encontram preenchidas as condições previstas nos dois considerandos anteriores no que respeita os acordos, decisões e práticas referidos no artigo 81.º do Tratado.\n\n(6) Tendo em vista a aplicação, no âmbito do desenvolvimento da política agrícola comum, das regras relativas aos auxílios em benefício da produção ou do comércio dos produtos agrícolas, a Comissão deverá estar em condições de estabelecer um inventário dos auxílios existentes, novos ou projectados, de apresentar aos Estados-Membros as observações úteis e lhes propor as medidas adequadas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "a78d4c9a3634605f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece as regras relativas à aplicabilidade dos artigos 81.º a 86.º e de certas disposições do artigo 88.º do Tratado à produção ou ao comércio dos produtos abrangidos pelo Anexo I do Tratado, com excepção dos produtos referidos nas alíneas a) a h), na alínea k) e nas alíneas m) a u) do n.º 1, bem como no n.º 3, do artigo 1.º do Regulamento (CE) n.º 1234/2007 do Conselho ([^4^](http://publications.europa.eu/resource/cellar/c666d98a-9aeb-4a90-8c5b-d51e9b653ba6.0017.03/DOC_1#E0004))."
+  },
+  "f7db62038666843a": {
+   "fragment_id": "Artigo 1.º-A",
+   "type": "artigo",
+   "heading": "Artigo 1.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-A\n\nOs artigos 81.º a 86.º do Tratado, bem como as disposições tomadas em sua execução, aplicam-se, sob reserva do artigo 2.º do presente regulamento, a todos os acordos, decisões e práticas concertadas a que se refere o n.º 1 do artigo 81.º e no artigo 82.º do Tratado relativos à produção ou ao comércio dos produtos a que se refere o artigo 1.º."
+  },
+  "9ec29cbf87526a4f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O disposto no n.º 1 do artigo 81.º do Tratado não se aplica aos acordos, decisões e práticas a que se refere o artigo 1.º –A do presente regulamento que façam parte integrante de uma organização nacional de mercado ou que sejam necessários à realização dos objectivos enunciados no artigo 33.º do Tratado.\n\nNão se aplica em especial aos acordos, decisões e práticas dos agricultores, de associações de agricultores ou de associações destas associações pertencentes a um único Estado-Membro, na medida em que, sem incluir a obrigação de praticar um determinado preço, digam respeito à produção ou à venda de produtos agrícolas ou à utilização de instalações comuns de armazenagem, de tratamento ou de transformação de produtos agrícolas, a menos que a Comissão verifique que, deste modo, a concorrência é excluída ou que os objectivos do artigo 33.º do Tratado são postos em perigo.\n\n2. Após ter consultado os Estados-Membros e ouvido as empresas ou associações de empresas interessadas, bem como qualquer outra pessoa singular ou colectiva cuja audição lhe pareça necessária, a Comissão, sem prejuízo do controlo pelo Tribunal de Justiça, tem competência exclusiva para verificar, por meio de decisão que será publicada, quais os acordos, decisões e práticas em relação aos quais se encontram preenchidas as condições previstas no n.º 1.\n\nA Comissão procede a essa verificação, quer oficiosamente, quer a pedido de uma autoridade competente de um Estado-Membro ou de uma empresa ou associação de empresas interessadas.\n\n3. A publicação menciona os interessados directos e o essencial da decisão. Deve ter em conta o interesse legítimo das empresas em não verem divulgados os seus segredos profissionais."
+  },
+  "f36413dec745f7be": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO disposto no n.º 1 e no primeiro período do n.º 3 do artigo 88.º do Tratado é aplicável às ajudas concedidas em benefício da produção ou do comércio dos produtos a que se refere o artigo 1.º."
+  },
+  "e52139c6ffb09872": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO Regulamento n.º 26 é revogado.\n\nAs remissões para o regulamento revogado devem entender-se como sendo feitas para o presente regulamento e devem ler-se de acordo com o quadro de correspondência constante do anexo II."
+  },
+  "a8b67d962f6af297": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO presente regulamento entra em vigor 20 dias após a sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "69d446fd8684612e": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nRegulamento n.º 26 do Conselho (JO 30 de 20.4.1962, p. 993/62)\n\nRegulamento n.º 49 do Conselho (JO 53 de 1.7.1962, p. 1571/62) unicamente a alínea g) do n.º 1 do artigo 1.º"
+  },
+  "7c0c8dd91c8f522f": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nRegulamento n.º 26 Presente regulamento\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º, n.º 1 Artigo 2.º, n.º 1\n\nArtigo 2.º, n.º 2 Artigo 2.º, n.º 2, primeiro parágrafo\n\nArtigo 2.º, n.º 3 Artigo 2.º, n.º 2, segundo parágrafo\n\nArtigo 2.º, n.º 4 Artigo 2.º, n.º 3\n\nArtigo 3.º —\n\nArtigo 4.º Artigo 3.º\n\n— Artigo 4.º\n\nArtigo 5.º Artigo 5.º\n\n— Anexo I\n\n— Anexo II\n\n---"
+  },
+  "cc37fa84bf938ae8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c666d98a-9aeb-4a90-8c5b-d51e9b653ba6.0017.03/DOC_1#src.E0001)) Parecer emitido em 27 de Abril de 2006 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/c666d98a-9aeb-4a90-8c5b-d51e9b653ba6.0017.03/DOC_1#src.E0002)) JO 30 de 20.4.1962, p. 993/62. Regulamento alterado pelo Regulamento n.º 49 (JO 53 de 1.7.1962, p. 1571/62).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/c666d98a-9aeb-4a90-8c5b-d51e9b653ba6.0017.03/DOC_1#src.E0003)) Ver anexo I.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/c666d98a-9aeb-4a90-8c5b-d51e9b653ba6.0017.03/DOC_1#src.E0004)) JO L 299 de 16.11.2007, p. 1."
+  },
+  "3fa59c05fd967eb8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Julho de 2006\n\nrelativo à aplicação de determinadas regras de concorrência à produção e ao comércio de certos produtos agrícolas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente os artigos 36.º e 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/76d06058-b7f8-46af-b44d-8404c12a7620.0018.03/DOC_1#E0001)),\n\n(1) O Regulamento n.º 26 do Conselho, de 4 de Abril de 1962, relativo à aplicação de determinadas regras de concorrência à produção e ao comércio de produtos agrícolas ([^2^](http://publications.europa.eu/resource/cellar/76d06058-b7f8-46af-b44d-8404c12a7620.0018.03/DOC_1#E0002)), foi alterado quanto à substância ([^3^](http://publications.europa.eu/resource/cellar/76d06058-b7f8-46af-b44d-8404c12a7620.0018.03/DOC_1#E0003)). Deve proceder-se, por razões de clareza e racionalidade, à sua codificação.\n\n(2) Resulta do artigo 36.º do Tratado que a aplicação das regras de concorrência previstas no Tratado à produção e ao comércio dos produtos agrícolas constitui um dos elementos da política agrícola comum. As disposições do presente regulamento deverão, por conseguinte, ser completadas tendo em conta o desenvolvimento desta política.\n\n(3) As regras de concorrência relativas aos acordos, decisões e práticas referidos no artigo 81.º do Tratado e à exploração abusiva das posições dominantes deverão ser aplicadas à produção e ao comércio dos produtos agrícolas, na medida em que a sua aplicação não entrave o funcionamento das organizações nacionais dos mercados agrícolas e não ponha em perigo a realização dos objectivos da política agrícola comum.\n\n(4) Convém prestar uma atenção especial à situação de associações de agricultores na medida em que tenham, nomeadamente, por objectivo a produção ou o comércio em comum de produtos agrícolas ou a utilização de instalações comuns, a menos que tal acção comum exclua a concorrência e ponha em perigo a realização dos objectivos do artigo 33.º do Tratado.\n\n(5) Tendo em vista tanto evitar comprometer o desenvolvimento de uma política agrícola comum, como garantir a segurança jurídica e o tratamento não discriminatório das empresas em questão, a Comissão, sem prejuízo do controlo do Tribunal de Justiça, deverá ter competência exclusiva para verificar que se encontram preenchidas as condições previstas nos dois considerandos anteriores no que respeita os acordos, decisões e práticas referidos no artigo 81.º do Tratado.\n\n(6) Tendo em vista a aplicação, no âmbito do desenvolvimento da política agrícola comum, das regras relativas aos auxílios em benefício da produção ou do comércio dos produtos agrícolas, a Comissão deverá estar em condições de estabelecer um inventário dos auxílios existentes, novos ou projectados, de apresentar aos Estados-Membros as observações úteis e lhes propor as medidas adequadas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "778f4f52405c3643": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece as regras relativas à aplicabilidade dos artigos 81.º a 86.º e de certas disposições do artigo 88.º do Tratado à produção ou ao comércio dos produtos abrangidos pelo anexo I do Tratado, com excepção dos produtos a que se referem as alíneas a) a k) e m) a u) do n.º 1 do artigo 1.º e o n.º 3 do artigo 1.º do Regulamento (CE) n.º 1234/2007 ([^4^](http://publications.europa.eu/resource/cellar/76d06058-b7f8-46af-b44d-8404c12a7620.0018.03/DOC_1#E0004))."
+  },
+  "687450792b0ca327": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/76d06058-b7f8-46af-b44d-8404c12a7620.0018.03/DOC_1#src.E0001)) Parecer emitido em 27 de Abril de 2006 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/76d06058-b7f8-46af-b44d-8404c12a7620.0018.03/DOC_1#src.E0002)) JO 30 de 20.4.1962, p. 993/62. Regulamento alterado pelo Regulamento n.º 49 (JO 53 de 1.7.1962, p. 1571/62).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/76d06058-b7f8-46af-b44d-8404c12a7620.0018.03/DOC_1#src.E0003)) Ver anexo I.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/76d06058-b7f8-46af-b44d-8404c12a7620.0018.03/DOC_1#src.E0004)) JO L 299 de 16.11.2007. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 361/2008 (JO L 121 de 7.5.2008, p. 1)."
+  },
+  "5062b5e77fd234aa": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Julho de 2006\n\nrelativo à aplicação de determinadas regras de concorrência à produção e ao comércio de certos produtos agrícolas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente os artigos 36.º e 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/6ed6befc-7c7a-47f0-969c-fe68c3ee8d4c.0018.03/DOC_1#E0001)),\n\n(1) O Regulamento n.º 26 do Conselho, de 4 de Abril de 1962, relativo à aplicação de determinadas regras de concorrência à produção e ao comércio de produtos agrícolas ([^2^](http://publications.europa.eu/resource/cellar/6ed6befc-7c7a-47f0-969c-fe68c3ee8d4c.0018.03/DOC_1#E0002)), foi alterado quanto à substância ([^3^](http://publications.europa.eu/resource/cellar/6ed6befc-7c7a-47f0-969c-fe68c3ee8d4c.0018.03/DOC_1#E0003)). Deve proceder-se, por razões de clareza e racionalidade, à sua codificação.\n\n(2) Resulta do artigo 36.º do Tratado que a aplicação das regras de concorrência previstas no Tratado à produção e ao comércio dos produtos agrícolas constitui um dos elementos da política agrícola comum. As disposições do presente regulamento deverão, por conseguinte, ser completadas tendo em conta o desenvolvimento desta política.\n\n(3) As regras de concorrência relativas aos acordos, decisões e práticas referidos no artigo 81.º do Tratado e à exploração abusiva das posições dominantes deverão ser aplicadas à produção e ao comércio dos produtos agrícolas, na medida em que a sua aplicação não entrave o funcionamento das organizações nacionais dos mercados agrícolas e não ponha em perigo a realização dos objectivos da política agrícola comum.\n\n(4) Convém prestar uma atenção especial à situação de associações de agricultores na medida em que tenham, nomeadamente, por objectivo a produção ou o comércio em comum de produtos agrícolas ou a utilização de instalações comuns, a menos que tal acção comum exclua a concorrência e ponha em perigo a realização dos objectivos do artigo 33.º do Tratado.\n\n(5) Tendo em vista tanto evitar comprometer o desenvolvimento de uma política agrícola comum, como garantir a segurança jurídica e o tratamento não discriminatório das empresas em questão, a Comissão, sem prejuízo do controlo do Tribunal de Justiça, deverá ter competência exclusiva para verificar que se encontram preenchidas as condições previstas nos dois considerandos anteriores no que respeita os acordos, decisões e práticas referidos no artigo 81.º do Tratado.\n\n(6) Tendo em vista a aplicação, no âmbito do desenvolvimento da política agrícola comum, das regras relativas aos auxílios em benefício da produção ou do comércio dos produtos agrícolas, a Comissão deverá estar em condições de estabelecer um inventário dos auxílios existentes, novos ou projectados, de apresentar aos Estados-Membros as observações úteis e lhes propor as medidas adequadas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "880ad5bcb016933e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece as regras relativas à aplicabilidade dos artigos 81.º a 86.º e de certas disposições do artigo 88.º do Tratado à produção ou ao comércio dos produtos abrangidos pelo anexo I do Tratado, com excepção dos produtos abrangidos pelo Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento OCM única) ([^4^](http://publications.europa.eu/resource/cellar/6ed6befc-7c7a-47f0-969c-fe68c3ee8d4c.0018.03/DOC_1#E0004))."
+  },
+  "62f0b20a4035c8eb": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6ed6befc-7c7a-47f0-969c-fe68c3ee8d4c.0018.03/DOC_1#src.E0001)) Parecer emitido em 27 de Abril de 2006 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6ed6befc-7c7a-47f0-969c-fe68c3ee8d4c.0018.03/DOC_1#src.E0002)) JO 30 de 20.4.1962, p. 993/62. Regulamento alterado pelo Regulamento n.º 49 (JO 53 de 1.7.1962, p. 1571/62).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6ed6befc-7c7a-47f0-969c-fe68c3ee8d4c.0018.03/DOC_1#src.E0003)) Ver anexo I.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/6ed6befc-7c7a-47f0-969c-fe68c3ee8d4c.0018.03/DOC_1#src.E0004)) JO L 299 de 16.11.2007, p. 1."
+  },
+  "d8ff60b276487e21": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Julho de 2006\n\nrelativo à aplicação de determinadas regras de concorrência à produção e ao comércio de certos produtos agrícolas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente os artigos 36.º e 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/a1ffea30-3a23-42d8-b7e6-7a825e1b4ed2.0018.02/DOC_1#E0001)),\n\n(1) O Regulamento n.º 26 do Conselho, de 4 de Abril de 1962, relativo à aplicação de determinadas regras de concorrência à produção e ao comércio de produtos agrícolas ([^2^](http://publications.europa.eu/resource/cellar/a1ffea30-3a23-42d8-b7e6-7a825e1b4ed2.0018.02/DOC_1#E0002)), foi alterado quanto à substância ([^3^](http://publications.europa.eu/resource/cellar/a1ffea30-3a23-42d8-b7e6-7a825e1b4ed2.0018.02/DOC_1#E0003)). Deve proceder-se, por razões de clareza e racionalidade, à sua codificação.\n\n(2) Resulta do artigo 36.º do Tratado que a aplicação das regras de concorrência previstas no Tratado à produção e ao comércio dos produtos agrícolas constitui um dos elementos da política agrícola comum. As disposições do presente regulamento deverão, por conseguinte, ser completadas tendo em conta o desenvolvimento desta política.\n\n(3) As regras de concorrência relativas aos acordos, decisões e práticas referidos no artigo 81.º do Tratado e à exploração abusiva das posições dominantes deverão ser aplicadas à produção e ao comércio dos produtos agrícolas, na medida em que a sua aplicação não entrave o funcionamento das organizações nacionais dos mercados agrícolas e não ponha em perigo a realização dos objectivos da política agrícola comum.\n\n(4) Convém prestar uma atenção especial à situação de associações de agricultores na medida em que tenham, nomeadamente, por objectivo a produção ou o comércio em comum de produtos agrícolas ou a utilização de instalações comuns, a menos que tal acção comum exclua a concorrência e ponha em perigo a realização dos objectivos do artigo 33.º do Tratado.\n\n(5) Tendo em vista tanto evitar comprometer o desenvolvimento de uma política agrícola comum, como garantir a segurança jurídica e o tratamento não discriminatório das empresas em questão, a Comissão, sem prejuízo do controlo do Tribunal de Justiça, deverá ter competência exclusiva para verificar que se encontram preenchidas as condições previstas nos dois considerandos anteriores no que respeita os acordos, decisões e práticas referidos no artigo 81.º do Tratado.\n\n(6) Tendo em vista a aplicação, no âmbito do desenvolvimento da política agrícola comum, das regras relativas aos auxílios em benefício da produção ou do comércio dos produtos agrícolas, a Comissão deverá estar em condições de estabelecer um inventário dos auxílios existentes, novos ou projectados, de apresentar aos Estados-Membros as observações úteis e lhes propor as medidas adequadas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1e3e2dc0af722f79": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece as regras relativas à aplicabilidade dos artigos 101.º a 106.º e do artigo 108, n.º 1 e n.º 3.º do Tratado sobre o Funcionamento da União Europeia (TFUE) à produção ou ao comércio dos produtos abrangidos pelo Anexo I do TFUE, com exceção dos produtos abrangidos pelo Regulamento (CE) n.º 1234/2007 do Conselho ([^4^](http://publications.europa.eu/resource/cellar/a1ffea30-3a23-42d8-b7e6-7a825e1b4ed2.0018.02/DOC_1#E0004)) e pelo Regulamento (UE) n.º1379/2013 do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/a1ffea30-3a23-42d8-b7e6-7a825e1b4ed2.0018.02/DOC_1#E0005))."
+  },
+  "2f5b247b31cf36a6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a1ffea30-3a23-42d8-b7e6-7a825e1b4ed2.0018.02/DOC_1#src.E0001)) Parecer emitido em 27 de Abril de 2006 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/a1ffea30-3a23-42d8-b7e6-7a825e1b4ed2.0018.02/DOC_1#src.E0002)) JO 30 de 20.4.1962, p. 993/62. Regulamento alterado pelo Regulamento n.º 49 (JO 53 de 1.7.1962, p. 1571/62).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/a1ffea30-3a23-42d8-b7e6-7a825e1b4ed2.0018.02/DOC_1#src.E0003)) Ver anexo I.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/a1ffea30-3a23-42d8-b7e6-7a825e1b4ed2.0018.02/DOC_1#src.E0004)) Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de outubro de 2007, que estabelece uma organização comum de mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento OCM única) (JO L 299 de 16.11.2007, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/a1ffea30-3a23-42d8-b7e6-7a825e1b4ed2.0018.02/DOC_1#src.E0005)) Regulamento (UE) n.º 1379/2013 do Parlamento Europeu e do Conselho, de 11 de Dezembro de 2013, que estabelece uma organização comum de mercados dos produtos da pesca e da aquicultura (JO L 354 de 28.12.2013, p. 1)."
+  }
+ }
+}

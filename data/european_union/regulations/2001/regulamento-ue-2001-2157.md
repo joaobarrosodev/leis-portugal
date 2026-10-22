@@ -33,6 +33,87 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: regulamento-ue-2001-2157.versoes.json
+  count: 4
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '2001-11-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-01'
+    amending: eu:celex:32004R0885:por
+    amending_title: REGULAMENTO (CE) N. o 885/2004 DO CONSELHO de 26 de Abril de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 17.º
+    - Altera Artigo 37.º
+    - Altera Artigo 62.º
+    - Altera Artigo 67.º
+    - Altera Artigo 70.º
+    - Adita TÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita TÍTULO II
+    - Adita CONSTITUIÇÃO
+    - Adita Secção 1
+    - Adita Generalidades
+    - Adita Secção 2
+    - Adita Constituição de uma SE por meio de fusão
+    - Adita Secção 3
+    - Adita Constituição de uma SE «holding»
+    - Adita Secção 4
+    - Adita Constituição de uma SE «filial»
+    - Adita Artigo 35.º
+    - Adita Secção 5
+    - Adita Transformação de uma sociedade anónima em SE
+    - Adita TÍTULO III
+    - Adita ESTRUTURA DA SE
+    - Adita Sistema dualista
+    - Adita Sistema monista
+    - Adita Regras comuns aos sistemas monista e dualista
+    - Adita Assembleia geral
+    - Adita TÍTULO IV
+    - Adita CONTAS ANUAIS E CONTAS CONSOLIDADAS
+    - Adita TÍTULO V
+    - Adita DISSOLUÇÃO, LIQUIDAÇÃO, INSOLVÊNCIA E CESSAÇÃO DE PAGAMENTOS
+    - Adita TÍTULO VI
+    - Adita DISPOSIÇÕES COMPLEMENTARES E TRANSITÓRIAS
+    - Adita TÍTULO VII
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita ANEXO I
+    - Adita SOCIEDADES ANÓNIMAS REFERIDAS NO N.º 1 DO ARTIGO 2.º
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1791:por
+    amending_title: REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 12.º
+    - Altera Artigo 17.º
+    - Altera Artigo 37.º
+    - Altera Artigo 62.º
+    - Altera Artigo 67.º
+    - Altera SOCIEDADES ANÓNIMAS REFERIDAS NO N.º 1 DO ARTIGO 2.º
+    - Altera SOCIEDADES ANÓNIMAS E SOCIEDADES DE RESPONSABILIDADE LIMITADA REFERIDAS NO N.º 2 DO ARTIGO 2.º
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 12.º
+    - Altera Artigo 17.º
+    - Altera Artigo 37.º
+    - Altera Artigo 62.º
+    - Altera Artigo 67.º
+    - Altera SOCIEDADES ANÓNIMAS REFERIDAS NO N.º 1 DO ARTIGO 2.º
+    - Altera SOCIEDADES ANÓNIMAS E SOCIEDADES DE RESPONSABILIDADE LIMITADA REFERIDAS NO N.º 2 DO ARTIGO 2.º
+    - Altera Notas
 identifiers:
   celex: 32001R2157
   eli: http://data.europa.eu/eli/reg/2001/2157/oj
@@ -47,7 +128,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/638400a7-710a-4784-b45c-2eb2ac7f608f.0010
   content_url: http://publications.europa.eu/resource/cellar/7b498891-941c-46eb-a997-c8b6d42fe517.0018.04/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R2157-20130701
-  retrieved_at: '2026-10-22T02:45:01Z'
+  retrieved_at: '2026-10-22T14:50:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2019-06-13T07:59:10.150+02:00'
 integrity:
@@ -56,9 +137,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:01Z'
-  notes: Texto consolidado 02001R2157-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:57Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2001-2157.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -188,31 +269,19 @@ relationships:
   date: '2024-05-16'
 article_structure:
   article_count: 70
-  section_count: 36
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 37
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:01Z'
+  checked_at: '2026-10-22T14:50:57Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 2157/2001 do Conselho, de 8 de Outubro de 2001
-
-> 2001R2157 — PT — 01.07.2013 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32004R0885) — [REGULAMENTO (CE) N.º 885/2004 DO CONSELHO de 26 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0885) — L 168 — 1 — 1.5.2004
-- [►M2](http://publications.europa.eu/resource/celex/32006R1791) — [REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006R1791) — L 363 — 1 — 20.12.2006
-- [►M3](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-
-## REGULAMENTO (CE) N.º 2157/2001 DO CONSELHO
 
 de 8 de Outubro de 2001
 

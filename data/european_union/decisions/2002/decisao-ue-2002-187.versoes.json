@@ -1,0 +1,679 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002D0187:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002D0187-20191212",
+ "dre_path": null,
+ "source_lastmod": "2019-12-12",
+ "versions": [
+  {
+   "date": "2009-06-04",
+   "future": false,
+   "celex": "02002D0187-20090604",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4f64b05d0291c4eb",
+    "42b7095f62e47797",
+    "3482b9f0e830b358",
+    "8a2bf319dc4c4c10",
+    "3e193544c1b52730",
+    "b15ce60f43823156",
+    "1a9471c2fb4345cc",
+    "bdf02171cd87690d",
+    "7ad83a9c0766a000",
+    "8af783343a471d10",
+    "fd7ce1446c788908",
+    "4515c06a5d1f89d7",
+    "0db6975023bf548f",
+    "3e4516676c29551e",
+    "ab0884b18ae7cf99",
+    "393c9bdf4728d9ca",
+    "2bf0117b61e6e7bc",
+    "aef25846e189a2b4",
+    "f1b8fcd8546671ee",
+    "d3d18e99aafa1824",
+    "df950ecb32fb856c",
+    "cb47401c425ed93a",
+    "c5c98916c5220ed5",
+    "c079540e10bd917c",
+    "0a70148c31e5699a",
+    "30c88231b4695a08",
+    "d8c78d4f904e1f57",
+    "51e1d9f9f49be4f8",
+    "7ecb2a711407e137",
+    "469ff3491e22baee",
+    "192aae1ee8dfb99d",
+    "3256047192c67bfe",
+    "778ab1a0319dc10f",
+    "ee2dae946fd90303",
+    "f529182257258510",
+    "a701d77bdd3fd357",
+    "4a9ac70ee04abed7",
+    "976ff359009f6fda",
+    "670927344b43c949",
+    "4db34099280c133b",
+    "a838c4b005124efe",
+    "9cfbaef29d3b58f2",
+    "eedb1de112ff83d8",
+    "3572272e8ec6c1ae",
+    "12b24f296e461759",
+    "4032eecec75275b2",
+    "5f748c990859c548",
+    "f70f571f7d7fc102",
+    "7b3822b8ddbd329b",
+    "bf734a1ff995f68f",
+    "1a9d67e4e12fa057",
+    "0a98508c1f2a49b5",
+    "1307e07a13cb54de",
+    "a2f2c400de483675",
+    "e2f25501a5b1a47b",
+    "4f29a651cf9e2ed4",
+    "ce6bb848b72cc9b4",
+    "b543daef8942179d",
+    "2378da460da25ba0",
+    "69a31da5571de2bb",
+    "cda9ff96cb937b02",
+    "10220b9774fa9034",
+    "9bec505ae73ccc18",
+    "2a0e3b10b56d8c2b"
+   ]
+  },
+  {
+   "date": "2019-12-12",
+   "future": false,
+   "celex": "02002D0187-20191212",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Criação e personalidade jurídica",
+    "Suprime Artigo 2.º — Composição da Eurojust",
+    "Suprime Artigo 3.º — Objectivos",
+    "Suprime Artigo 4.º — Competência",
+    "Suprime Artigo 5.º — Funções",
+    "Suprime Artigo 5.º-A — Coordenação permanente",
+    "Suprime Artigo 6.º — Funções exercidas por intermédio dos membros nacionais",
+    "Suprime Artigo 7.º — Funções da Eurojust exercidas colegialmente",
+    "Suprime Artigo 8.º — Seguimento dos pedidos e pareceres da Eurojust",
+    "Suprime Artigo 9.º — Membros nacionais",
+    "Suprime Artigo 9.º-A — Competências do membro nacional conferidas a nível nacional",
+    "Suprime Artigo 9.º-B — Competências ordinárias",
+    "Suprime Artigo 9.º-C — Competências exercidas em concertação com uma autoridade nacional competente",
+    "Suprime Artigo 9.º-D — Competências exercidas em casos urgentes",
+    "Suprime Artigo 9.º-E — Pedidos apresentados por membros nacionais impossibilitados de exercer as competências",
+    "Suprime Artigo 9.º-F — Participação do membro nacional em equipas de investigação conjuntas",
+    "Suprime Artigo 10.º — Colégio",
+    "Suprime Artigo 11.º — Papel da Comissão",
+    "Suprime Artigo 12.º — Sistema nacional de coordenação da Eurojust",
+    "Suprime Artigo 13.º — Intercâmbio de informações com os Estados-Membros e entre membros nacionais",
+    "Suprime Artigo 13.º-A — Informação prestada pela Eurojust às autoridades nacionais competentes",
+    "Suprime Artigo 14.º — Tratamento de dados pessoais",
+    "Suprime Artigo 15.º — Restrições em matéria de tratamento de dados pessoais",
+    "Suprime Artigo 16.º — Sistema de gestão de processos, índice e ficheiros de trabalho temporários",
+    "Suprime Artigo 16.º-A — Funcionamento dos ficheiros de trabalho temporários e do índice",
+    "Suprime Artigo 16.º-B — Acesso ao sistema de gestão de processos a nível nacional",
+    "Suprime Artigo 17.º — Responsável pela protecção de dados",
+    "Suprime Artigo 18.º — Acesso autorizado aos dados pessoais",
+    "Suprime Artigo 19.º — Direito de acesso aos dados pessoais",
+    "Suprime Artigo 20.º — Rectificação e cancelamento de dados pessoais",
+    "Suprime Artigo 21.º — Prazos de conservação de dados pessoais",
+    "Suprime Artigo 22.º — Segurança dos dados",
+    "Suprime Artigo 23.º — Instância Comum de Controlo",
+    "Suprime Artigo 24.º — Responsabilidade pelo tratamento não autorizado ou incorrecto dos dados",
+    "Suprime Artigo 25.º — Sigilo",
+    "Suprime Artigo 25.º-A — Cooperação com a Rede Judiciária Europeia e outras redes da União Europeia envolvidas na cooperação em matéria penal",
+    "Suprime Artigo 26.º — Relações com instituições, organismos e agências ligados à Comunidade ou à União",
+    "Suprime Artigo 26.º-A — Relações com organizações e Estados terceiros",
+    "Suprime Artigo 27.º — Transmissão de dados",
+    "Suprime Artigo 27.º-A — Magistrados de ligação destacados para Estados terceiros",
+    "Suprime Artigo 27.º-B — Pedidos de cooperação judiciária de Estados terceiros e a estes dirigidos",
+    "Suprime Artigo 27.º-C — Responsabilidade distinta da responsabilidade pelo tratamento não autorizado ou incorrecto dos dados",
+    "Suprime Artigo 28.º — Organização e funcionamento",
+    "Suprime Artigo 29.º — Director Administrativo",
+    "Suprime Artigo 30.º — Pessoal",
+    "Suprime Artigo 31.º — Assistência em matéria de interpretação e tradução",
+    "Suprime Artigo 32.º — [►M2](http://publications.europa.eu/resource/celex/32009D0426) Informação do Parlamento Europeu, do Conselho e da Comissão◄",
+    "Suprime Artigo 33.º — Aspectos financeiros",
+    "Suprime Artigo 34.º — Orçamento",
+    "Suprime Artigo 35.º — Elaboração do orçamento",
+    "Suprime Artigo 36.º — Execução do orçamento e quitação",
+    "Suprime Artigo 37.º — Regulamento Financeiro aplicável ao orçamento",
+    "Suprime Artigo 38.º — Controlos",
+    "Suprime Artigo 39.º — Acesso aos documentos",
+    "Suprime Artigo 39.º-A — Informações classificadas da UE",
+    "Suprime Artigo 40.º — Aplicação territorial",
+    "Suprime Artigo 41.º — Relatórios",
+    "Suprime Artigo 41.º-A — Avaliação",
+    "Suprime Artigo 42.º — Transposição",
+    "Suprime Artigo 43.º — Produção de efeitos",
+    "Suprime ANEXO",
+    "Suprime Lista referida no n.º 10 do artigo 13.º, que enumera os tipos mínimos de informação a transmitir, caso exista, à Eurojust nos termos dos n.^os^ 5, 6 e 7 do artigo 13.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "8a78c3e20a4399ce"
+   ]
+  }
+ ],
+ "fragments": {
+  "4f64b05d0291c4eb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Fevereiro de 2002\n\nrelativa à criação da Eurojust a fim de reforçar a luta contra as formas graves de criminalidade\n\n(2002/187/JAI)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado da União Europeia e, nomeadamente, o seu artigo 31.º e a alínea c) do n.º 2 do seu artigo 34.º,\n\nTendo em conta a iniciativa da República Federal da Alemanha e a da República Portuguesa, da República Francesa, do Reino da Suécia e do Reino da Bélgica ([^1^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0002)),\n\n(1) É necessário melhorar ainda mais a cooperação judiciária entre os Estados-Membros, nomeadamente na luta contra as formas graves de criminalidade frequentemente praticadas por organizações transnacionais.\n\n(2) A melhoria efectiva da cooperação judiciária entre os Estados-Membros impõe a adopção urgente, a nível da União, de medidas estruturais destinadas a facilitar a melhor coordenação possível das acções de investigação e dos procedimentos penais dos Estados-Membros que abranjam o território de vários Estados-Membros, no pleno respeito dos direitos e liberdades fundamentais.\n\n(3) A fim de reforçar a luta contra as formas graves de criminalidade organizada, o Conselho Europeu de Tampere, de 15 e 16 de Outubro de 1999, nomeadamente no ponto 46 das suas conclusões, decidiu criar uma unidade (Eurojust) composta por procuradores, magistrados ou oficiais de polícia com prerrogativas equivalentes.\n\n(4) Essa unidade Eurojust é instituída pela presente decisão enquanto órgão da União, dotado de personalidade jurídica e financiado a partir do Orçamento-Geral da União Europeia, com excepção dos vencimentos e emolumentos dos membros nacionais e das pessoas que os assistam, os quais ficam a cargo dos respectivos Estados-Membros de origem.\n\n(5) Os objectivos do Regulamento (CE) n.º 1073/1999, do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) ([^3^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0003)), são igualmente importantes no que se refere à Eurojust. O Colégio da Eurojust deverá adoptar as medidas de execução necessárias para atingir esse objectivo e deverá ter plenamente em conta as actividades sensíveis da Eurojust em matéria de inquéritos e acções penais. Nesse contexto, deverá ser excluído o acesso do OLAF a documentos, elementos de prova, relatórios, notas ou informações, independentemente do seu suporte, detidos ou criados no âmbito dessas actividades, quer estejam em curso ou encerradas, bem como proibida a transmissão ao OLAF desses documentos, elementos de prova, relatórios, notas ou informações.\n\n(6) Para que possa atingir os seus objectivos o mais eficazmente possível, a Eurojust deverá desempenhar as suas funções, por intermédio de um ou mais membros nacionais envolvidos ou colegialmente.\n\n(7) As autoridades competentes dos Estados-Membros deverão poder trocar informações com a Eurojust em moldes que sirvam e respeitem os interesses do funcionamento da acção pública.\n\n(8) As competências da Eurojust não prejudicam as competências da Comunidade em matéria de protecção dos interesses financeiros dessa, nem tão-pouco as convenções e acordos existentes, nomeadamente a Convenção Europeia de Auxílio Judiciário Mútuo em Matéria Penal (Conselho da Europa), assinada em Estrasburgo, em 20 de Abril de 1959, bem como a Convenção relativa ao Auxílio Judiciário Mútuo em Matéria Penal entre os Estados-Membros da União Europeia ([^4^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0004)), aprovada pelo Conselho em 29 de Maio de 2000, e o respectivo Protocolo ([^5^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0005)), aprovado em 16 de Outubro de 2001.\n\n(9) Para cumprir os seus objectivos, a Eurojust procede ao tratamento, automatizado ou em ficheiros manuais estruturados, de dados pessoais. Convém, por conseguinte, tomar as medidas necessárias para garantir um nível de protecção dos dados pelo menos equivalente ao que resulta da aplicação dos princípios da Convenção para a Protecção das Pessoas relativamente ao Tratamento Automatizado de Dados de Carácter Pessoal (Conselho da Europa) assinada em Estrasburgo, em 28 de Janeiro de 1981, e das respectivas alterações subsequentes, nomeadamente o protocolo aberto à assinatura em 8 de Novembro de 2001, logo que essas alterações entrem em vigor entre os Estados-Membros.\n\n(10) A fim de contribuir para garantir e controlar o correcto tratamento de dados pessoais pela Eurojust, é conveniente instituir uma instância comum de controlo, a qual, atendendo à composição da Eurojust, deverá ser constituída por juízes ou, se o sistema constitucional ou nacional assim o exigir, por pessoas que exerçam funções equivalentes que lhes confiram a necessária independência. As competências dessa instância comum de controlo não deverão prejudicar as competências dos tribunais nacionais e os recursos que neles possam ser interpostos.\n\n(11) Para assegurar uma coordenação harmoniosa entre as várias actividades da União e da Comunidade, e na observância do artigo 29.º e do n.º 2 do artigo 36.º do Tratado, convém associar plenamente a Comissão aos trabalhos da Eurojust que dizem respeito a questões gerais e a questões da sua competência. O regulamento interno da Eurojust deverá especificar as modalidades que permitirão à Comissão participar nos trabalhos da Eurojust em áreas da sua competência.\n\n(12) Convém prever disposições destinadas a assegurar que a Eurojust e o Serviço Europeu de Polícia (Europol) ([^6^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0006)) estabeleçam e mantenham uma estreita cooperação.\n\n(13) A Eurojust e a Rede Judiciária Europeia criada pela Acção Comum 98/428/JAI ([^7^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0007)) deverão manter relações privilegiadas. Para o efeito, convém, nomeadamente, instalar o Secretariado da Rede no Secretariado da Eurojust.\n\n(14) A fim de facilitar as actividades da Eurojust, convém que os Estados-Membros possam nomear para o local ou designar um ou vários correspondentes nacionais.\n\n(15) Na medida do necessário ao desempenho das suas funções, convém igualmente que a Eurojust possa cooperar com Estados terceiros e que seja possível celebrar acordos neste sentido, prioritariamente com os países candidatos à adesão à União e com outros países com os quais tenham sido estabelecidos convénios.\n\n(16) Atendendo a que a aprovação da presente decisão implica a adopção de novas e importantes medidas legislativas nos Estados-Membros, é conveniente prever determinadas disposições transitórias.\n\n(17) O ponto 57 das Conclusões do Conselho Europeu de Laeken, de 14 e 15 de Dezembro de 2001, prevê que, enquanto se não chegar a um acordo global sobre a sede de certas agências, a Europol poderá iniciar as suas actividades na Haia.\n\n(18) A presente decisão respeita os direitos fundamentais e observa os princípios reconhecidos pelo n.º 2 do artigo 6.º do Tratado e consagrados na Carta dos Direitos Fundamentais da União Europeia,\n\nDECIDE:"
+  },
+  "42b7095f62e47797": {
+   "fragment_id": "Artigo 1.º — Criação e personalidade jurídica",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Criação e personalidade jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação e personalidade jurídica\n\nA presente decisão institui uma unidade, e órgão da União, designada «Eurojust».\n\nA Eurojust tem personalidade jurídica."
+  },
+  "3482b9f0e830b358": {
+   "fragment_id": "Artigo 2.º — Composição da Eurojust",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Composição da Eurojust",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Composição da Eurojust\n\n1. A Eurojust é composta por um membro nacional destacado por cada Estado-Membro, segundo o seu sistema jurídico, que deve ser procurador, juiz ou oficial de polícia com prerrogativas equivalentes.\n\n2. Os Estados-Membros asseguram um contributo permanente e efectivo para que a Eurojust cumpra os objectivos estabelecidos no artigo 3.º. Para atingir esses objectivos:\n\na) O membro nacional deve ter o seu local de trabalho habitual na sede da Eurojust;\n\nb) Cada membro nacional é assistido por um adjunto e por outra pessoa na qualidade de assistente. O adjunto e o assistente podem ter o seu local de trabalho habitual na Eurojust. O membro nacional pode ser assistido por mais adjuntos ou assistentes, que, se necessário e com o acordo do Colégio, podem ter o seu local de trabalho habitual na Eurojust.\n\n3. Para poder desempenhar as suas funções, o membro nacional deve ocupar uma posição que lhe confira as competências referidas na presente decisão.\n\n4. No que se refere ao seu estatuto, os membros nacionais, adjuntos e assistentes ficam sujeitos ao direito interno do Estado-Membro respectivo.\n\n5. O adjunto deve preencher os critérios previstos no n.º 1 e estar habilitado a actuar em nome do membro nacional ou a substituí-lo. O assistente pode também actuar em nome do membro nacional, ou substituí-lo, se preencher os critérios previstos no n.º 1.\n\n6. A Eurojust deve estar ligada a um sistema nacional de coordenação próprio, nos termos do artigo 12.º\n\n7. A Eurojust deve ter a possibilidade de destacar magistrados de ligação em Estados terceiros de acordo com a presente decisão.\n\n8. Em conformidade com a presente decisão, a Eurojust deve dispor de um secretariado chefiado por um director administrativo."
+  },
+  "8a2bf319dc4c4c10": {
+   "fragment_id": "Artigo 3.º — Objectivos",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos\n\n1. No âmbito das investigações e dos procedimentos penais que impliquem dois ou mais Estados-Membros, relativos aos comportamentos criminosos previstos no artigo 4.º no domínio das formas graves de criminalidade, especialmente quando organizada, os objectivos da Eurojust são os seguintes:\n\na) Incentivo e melhoria da coordenação, entre as autoridades competentes dos Estados-Membros, das investigações e procedimentos penais nos Estados-Membros, tendo em conta todo e qualquer pedido proveniente de uma autoridade competente de um Estado-Membro e todas as informações fornecidas pelos órgãos competentes nos termos das disposições aprovadas no âmbito dos Tratados;\n\nb) Melhoria da cooperação entre as autoridades competentes dos Estados-Membros, facilitando, em particular, [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) pedidos de cooperação judiciária e de decisões nesta matéria, incluindo instrumentos que aplicam o princípio do reconhecimento mútuo;**◄**\n\nc) Outras formas de apoio às autoridades competentes dos Estados-Membros para reforçar a eficácia das suas investigações e procedimentos penais.\n\n2. Segundo as regras previstas na presente decisão e a pedido de uma autoridade competente de um Estado-Membro, a Eurojust pode igualmente prestar apoio a investigações ou procedimentos penais que se relacionem com esse Estado-Membro e um Estado terceiro, se tiver sido celebrado com o referido Estado um acordo que estabeleça uma cooperação por força do [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) n.º 2 do artigo 26.º-A**◄** ou se, em determinado caso, existir um interesse especial em prestar esse apoio.\n\n3. Segundo as regras previstas na presente decisão e a pedido de uma autoridade competente de um Estado-Membro ou da Comissão, a Eurojust pode igualmente prestar apoio a investigações ou procedimentos penais que se relacionem com esse mesmo Estado-Membro e a Comunidade."
+  },
+  "3e193544c1b52730": {
+   "fragment_id": "Artigo 4.º — Competência",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competência\n\n1. A esfera de competência geral da Eurojust abrange:\n\na) A alínea a) do n.º 1 passa a ter a seguinte redacção:\n\na) Os tipos de criminalidade e as infracções em relação às quais a Europol tem, a todo o tempo, competência para actuar ([^8^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0008));\n\nc) Outras infracções cometidas conjuntamente com os tipos de criminalidade e as infracções [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) a que se refere a alínea a)**◄**.\n\n2. Em relação a outros tipos de infracções não os referidos no n.º 1, a Eurojust pode, a título complementar, segundo os seus objectivos e a pedido de uma autoridade competente de um Estado-Membro, prestar assistência em investigações e procedimentos penais."
+  },
+  "b15ce60f43823156": {
+   "fragment_id": "Artigo 5.º — Funções",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Funções\n\n1. A fim de cumprir os seus objectivos, a Eurojust exerce as suas funções:\n\na) Por intermédio de um ou vários dos membros nacionais envolvidos, nos termos do artigo 6.º, ou\n\nb) Actuando colegialmente, nos termos do artigo 7.º, sempre que:\n\ni) um ou vários membros nacionais implicados num processo tratado pela Eurojust o solicite; ou\n\nii) o processo envolva acções de investigação e procedimento penal que tenham repercussões a nível da União Europeia ou possam dizer respeito a Estados-Membros que não os directamente envolvidos; ou\n\niii) se coloque uma questão geral relativa ao cumprimento dos seus objectivos; ou\n\niv) a presente decisão contenha disposições nesse sentido.\n\n2. No exercício das suas funções, a Eurojust indica se actua por intermédio de um ou mais membros nacionais na acepção do artigo 6.º ou colegialmente na acepção do artigo 7.º"
+  },
+  "1a9471c2fb4345cc": {
+   "fragment_id": "Artigo 5.º-A — Coordenação permanente",
+   "type": "artigo",
+   "heading": "Artigo 5.º-A — Coordenação permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º-A — Coordenação permanente\n\n1. A fim de exercer as suas funções em casos de urgência, a Eurojust estabelece uma coordenação permanente (CP), com capacidade para receber e tratar em qualquer altura os pedidos que lhe são apresentados. A CP deve ser contactável, através de um ponto de contacto CP único localizado na Eurojust, 24 horas por dia/7 dias por semana.\n\n2. A CP é constituída por um representante de cada Estado-Membro (representante CP), que pode ser o membro nacional, o seu adjunto ou um assistente autorizado a substituir o membro nacional. O representante CP deve poder agir 24 horas por dia/7 dias por semana.\n\n3. Sempre que seja necessário, em casos urgentes, executar um pedido de cooperação judiciária ou uma decisão nesta matéria, nomeadamente no que se refere aos instrumentos que aplicam o princípio do reconhecimento mútuo, num ou em vários Estados-Membros, a autoridade competente requerente ou emissora pode transmiti-lo à CP. O ponto de contacto CP transmite-o imediatamente ao representante CP do Estado-Membro de onde provém o pedido e, se expressamente solicitado pela autoridade transmissora ou emissora, aos representantes CP dos Estados-Membros em cujo território o pedido deva ser executado. Estes representantes CP actuam sem demora, para dar execução ao pedido no seu Estado-Membro, exercendo as funções e as competências que lhes são conferidas conforme se refere no artigo 6.º e nos artigos 9.º-A a 9.º-F."
+  },
+  "bdf02171cd87690d": {
+   "fragment_id": "Artigo 6.º — Funções exercidas por intermédio dos membros nacionais",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Funções exercidas por intermédio dos membros nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funções exercidas por intermédio dos membros nacionais\n\n[**►M2**](http://publications.europa.eu/resource/celex/32009D0426) 1.**◄** Sempre que actuar por intermédio dos membros nacionais envolvidos, a Eurojust:\n\na) Pode solicitar, fundamentando essa possibilidade, às autoridades competentes dos Estados-Membros em causa que:\n\ni) dêem início a uma investigação ou instaurem um procedimento penal por factos precisos,\n\nii) admitam que uma delas possa estar em melhor posição para dar início a uma investigação ou instaurar um procedimento penal por factos precisos,\n\niii) estabeleçam a coordenação entre elas,\n\niv) criem uma equipa de investigação conjunta, de acordo com os instrumentos de cooperação aplicáveis,\n\nv) lhe forneçam todas as informações necessárias ao desempenho das suas funções,\n\nvi) tomem medidas de investigação especiais,\n\nvii) tomem qualquer outra medida que se justifique tendo em vista a investigação ou o procedimento penal;\n\nb) Assegura a informação recíproca das autoridades competentes dos Estados-Membros envolvidos sobre as investigações e procedimentos penais de que tenha conhecimento;\n\nc) Ajuda as autoridades competentes dos Estados-Membros, a pedido destas, a assegurar a melhor coordenação possível das investigações e procedimentos penais;\n\nd) Contribui para a melhoria da cooperação entre as autoridades competentes dos Estados-Membros;\n\ne) Coopera com a Rede Judiciária Europeia e consultá-la-á, recorrendo inclusivamente à sua base de dados documental e contribuindo assim para a melhorar;\n\nf) Nos casos referidos nos n.^os^ 2 e 3 do artigo 3.º e com o acordo do Colégio, presta apoio às investigações e aos procedimentos penais que envolvam as autoridades competentes de um único Estado-Membro.\n\n2. Os Estados-Membros asseguram que as autoridades nacionais competentes respondam sem demora aos pedidos apresentados nos termos do presente artigo."
+  },
+  "7ad83a9c0766a000": {
+   "fragment_id": "Artigo 7.º — Funções da Eurojust exercidas colegialmente",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Funções da Eurojust exercidas colegialmente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funções da Eurojust exercidas colegialmente\n\n[**►M2**](http://publications.europa.eu/resource/celex/32009D0426) 1.**◄** Sempre que actue colegialmente, a Eurojust:\n\na) Pode, em relação aos tipos de criminalidade e às infracções a que se refere o n.º 1 do artigo 4.º, apresentar às autoridades competentes dos Estados-Membros em causa, um pedido fundamentado para que:\n\ni) dêem início a uma investigação ou instaurem um procedimento penal por factos precisos;\n\nii) admitam que uma delas possa estar em melhor posição para dar início a uma investigação ou instaurar um procedimento penal por factos precisos;\n\niii) se coordenem entre elas;\n\niv) criem uma equipa de investigação conjunta, de acordo com os instrumentos de cooperação aplicáveis;\n\nv) lhe forneçam todas as informações necessárias ao desempenho das suas funções;\n\nb) Assegura a informação recíproca das autoridades competentes dos Estados-Membros sobre as investigações e os procedimentos penais de que tenha conhecimento e que tenham incidência a nível da União ou possam dizer respeito a Estados-Membros que não os directamente envolvidos;\n\nc) Ajuda as autoridades competentes dos Estados-Membros, a pedido destas, a assegurar a melhor coordenação possível das investigações e procedimentos penais;\n\nd) Contribui para a melhoria da cooperação entre as autoridades competentes dos Estados-Membros, nomeadamente com base na análise efectuada pela Europol;\n\ne) Coopera com a Rede Judiciária Europeia e consultá-la-á, recorrendo inclusivamente à sua base de dados documental e contribuindo assim para a melhorar;\n\nf) Pode prestar apoio à Europol, nomeadamente dando-lhe pareceres baseados em análises por ela efectuadas;\n\ng) Pode prestar apoio logístico nos casos referidos nas alíneas a), c) e d). Esse apoio pode consistir, nomeadamente, na assistência à tradução, interpretação e organização de reuniões de coordenação.\n\n2. Se dois ou mais membros nacionais não conseguirem chegar a acordo para resolver um caso de conflito de jurisdição quanto à realização de uma investigação ou ao início de um procedimento penal em aplicação do artigo 6.º e, em particular, da alínea c) do seu n.º 1, o Colégio é convidado a emitir um parecer escrito não vinculativo sobre o caso, na condição de o problema não poder ser solucionado por acordo entre as autoridades nacionais competentes em questão. O parecer do Colégio é transmitido sem demora aos Estados-Membros envolvidos. O presente número é aplicável sem prejuízo da subalínea ii) da alínea a) do n.º 1.\n\n3. Não obstante as disposições contidas em instrumentos aprovados pela União Europeia sobre cooperação judiciária, as autoridades competentes podem informar a Eurojust de recusas ou de dificuldades recorrentes relacionadas com a execução de pedidos de cooperação judiciária e de decisões nesta matéria, nomeadamente no que se refere aos instrumentos que aplicam o princípio do reconhecimento mútuo, e podem solicitar ao Colégio que emita um parecer escrito não vinculativo sobre o caso, na condição de o problema não poder ser solucionado por acordo entre as autoridades nacionais competentes ou mediante intervenção dos membros nacionais em questão. O parecer do Colégio é transmitido sem demora aos Estados-Membros envolvidos."
+  },
+  "8af783343a471d10": {
+   "fragment_id": "Artigo 8.º — Seguimento dos pedidos e pareceres da Eurojust",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Seguimento dos pedidos e pareceres da Eurojust",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Seguimento dos pedidos e pareceres da Eurojust\n\nSe decidirem não aceder ao pedido a que se refere a alínea a) do n.º 1 do artigo 6.º ou a alínea a) do n.º 1 do artigo 7.º, ou decidirem não seguir o parecer escrito a que se referem os n.^os^ 2 e 3 do artigo 7.º, as autoridades competentes do Estado-Membro em causa informam a Eurojust da sua decisão e das razões que a determinaram. Quando não for possível justificar a recusa de aceder a um pedido porque fazê-lo afectaria interesses essenciais de segurança nacional ou poria em risco a segurança de pessoas, as autoridades competentes dos Estados-Membros podem aduzir razões operacionais."
+  },
+  "fd7ce1446c788908": {
+   "fragment_id": "Artigo 9.º — Membros nacionais",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Membros nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Membros nacionais\n\n1. A duração do mandato dos membros nacionais é, no mínimo, de quatro anos. O Estado-Membro de origem pode renovar o mandato. O membro nacional não é afastado do cargo antes do final do mandato sem notificação prévia ao Conselho com indicação das razões subjacentes. Quando o membro nacional é o presidente ou vice-presidente da Eurojust, o seu mandato de membro deve permitir-lhe, pelo menos, desempenhar as suas funções de presidente ou vice-presidente até ao termo do período pelo qual foi eleito.\n\n2. Toda a troca de informações efectuada entre a Eurojust e os Estados-Membros é veiculada através do membro nacional.\n\n3. A fim de cumprir os objectivos da Eurojust, o membro nacional tem acesso às informações constantes dos seguintes tipos de registos do seu Estado-Membro, ou pelo menos a possibilidade de obter essas informações, em condições pelo menos equivalentes às que lhe seriam facultadas no exercício das suas funções de procurador, juiz ou oficial de polícia, consoante o caso, ao nível nacional:\n\na) Registos criminais;\n\nb) Registos de pessoas detidas;\n\nc) Registos de investigação;\n\nd) Registos de ADN;\n\ne) Outros registos do Estado-Membro respectivo que considere conterem informações necessárias ao desempenho das suas funções.\n\n4. Os membros nacionais podem contactar directamente as autoridades competentes do seu Estado-Membro."
+  },
+  "4515c06a5d1f89d7": {
+   "fragment_id": "Artigo 9.º-A — Competências do membro nacional conferidas a nível nacional",
+   "type": "artigo",
+   "heading": "Artigo 9.º-A — Competências do membro nacional conferidas a nível nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º-A — Competências do membro nacional conferidas a nível nacional\n\n1. Quando um membro nacional exerce as competências referidas nos artigos 9.º-B, 9.º-C e 9.º-D, fá-lo na sua qualidade de autoridade nacional competente agindo em conformidade com o direito interno e sujeita às condições estabelecidas no presente artigo e nos artigos 9.º-B a 9.º-E. No exercício das suas funções, o membro nacional indica, se for caso disso, se actua ao abrigo das competências conferidas aos membros nacionais nos termos do presente artigo e dos artigos 9.º-B, 9.º-C e 9.º-D.\n\n2. Cada Estado-Membro define a natureza e o alcance das competências que confere ao seu membro nacional no que respeita à cooperação judiciária em relação a esse Estado-Membro. No entanto, cada Estado-Membro confere ao seu membro nacional pelo menos as competências descritas no artigo 9.º-B e, sob reserva do artigo 9.º-E, as competências descritas nos artigos 9.º-C e 9.º-D, que lhe seriam confiadas no exercício das suas funções de juiz, procurador ou oficial de polícia, consoante o caso, ao nível nacional.\n\n3. No momento da designação do membro nacional e, se for caso disso, em qualquer outro momento, o Estado-Membro notifica a Eurojust e o Secretariado-Geral do Conselho da sua decisão relativa à aplicação do n.º 2, para que este último informe os restantes Estados-Membros. Os Estados-Membros comprometem-se a aceitar e a reconhecer as prerrogativas assim conferidas, desde que sejam conformes com os compromissos internacionais assumidos.\n\n4. Cada Estado-Membro define o direito que assiste a um membro nacional de agir em relação a autoridades judiciárias estrangeiras de acordo com os compromissos internacionais assumidos."
+  },
+  "0db6975023bf548f": {
+   "fragment_id": "Artigo 9.º-B — Competências ordinárias",
+   "type": "artigo",
+   "heading": "Artigo 9.º-B — Competências ordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º-B — Competências ordinárias\n\n1. Os membros nacionais, na sua qualidade de autoridades nacionais competentes, têm o direito de receber, transmitir, facilitar, dar seguimento e prestar informações suplementares relativamente à execução de pedidos de cooperação judiciária e decisões nesta matéria, nomeadamente no que se refere aos instrumentos que aplicam o princípio do reconhecimento mútuo. Quando são exercidas as competências referidas no presente número, a autoridade competente deve ser informada sem demora.\n\n2. Em caso de execução parcial ou inadequada de um pedido de cooperação judiciária, os membros nacionais, na sua qualidade de autoridades nacionais competentes, têm o direito de solicitar à autoridade nacional competente do seu Estado-Membro que tome medidas suplementares com vista à execução plena do pedido."
+  },
+  "3e4516676c29551e": {
+   "fragment_id": "Artigo 9.º-C — Competências exercidas em concertação com uma autoridade nacional competente",
+   "type": "artigo",
+   "heading": "Artigo 9.º-C — Competências exercidas em concertação com uma autoridade nacional competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º-C — Competências exercidas em concertação com uma autoridade nacional competente\n\n1. Os membros nacionais, na sua qualidade de autoridades nacionais competentes, em concertação com uma autoridade nacional competente ou a pedido desta e em função de cada caso, podem exercer as seguintes competências:\n\na) Emitir e completar pedidos de cooperação judiciária e decisões nesta matéria, nomeadamente no que se refere aos instrumentos que aplicam o princípio do reconhecimento mútuo;\n\nb) Executar, no seu Estado-Membro, pedidos de cooperação judiciária e decisões nesta matéria, nomeadamente no que se refere aos instrumentos que aplicam o princípio do reconhecimento mútuo;\n\nc) Ordenar no seu Estado-Membro medidas de investigação consideradas necessárias numa reunião de coordenação organizada pela Eurojust para prestar assistência às autoridades nacionais competentes envolvidas numa investigação concreta, e para a qual são convidadas as autoridades nacionais competentes nela envolvidas;\n\nd) Autorizar e coordenar entregas controladas no seu Estado-Membro.\n\n2. As competências referidas no presente artigo são, em princípio, exercidas por uma autoridade nacional competente."
+  },
+  "ab0884b18ae7cf99": {
+   "fragment_id": "Artigo 9.º-D — Competências exercidas em casos urgentes",
+   "type": "artigo",
+   "heading": "Artigo 9.º-D — Competências exercidas em casos urgentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º-D — Competências exercidas em casos urgentes\n\nNa sua qualidade de autoridades nacionais competentes, os membros nacionais estão habilitados, em casos urgentes e quando não lhes seja possível identificar ou contactar uma autoridade nacional competente em tempo útil, a:\n\na) Autorizar e coordenar entregas controladas no seu Estado-Membro;\n\nb) Executar, no seu Estado-Membro, pedidos de cooperação judiciária e decisões nesta matéria, nomeadamente no que se refere aos instrumentos que aplicam o princípio do reconhecimento mútuo.\n\nAssim que for identificada ou contactada, a autoridade nacional competente deve ser informada do exercício das competências referidas no presente artigo."
+  },
+  "393c9bdf4728d9ca": {
+   "fragment_id": "Artigo 9.º-E — Pedidos apresentados por membros nacionais impossibilitados de exercer as competências",
+   "type": "artigo",
+   "heading": "Artigo 9.º-E — Pedidos apresentados por membros nacionais impossibilitados de exercer as competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º-E — Pedidos apresentados por membros nacionais impossibilitados de exercer as competências\n\n1. O membro nacional, na sua qualidade de autoridade nacional competente, deve ter pelo menos a competência para apresentar à autoridade competente uma proposta para exercer as competências referidas nos artigos 9.º-C e 9.º-D, nos casos em que conferir essas competências ao membro nacional seja contrário:\n\na) Às regras constitucionais,\n\nb) Aos aspectos fundamentais do sistema de justiça penal:\n\ni) relativos à repartição de competências entre a polícia, os procuradores e os juízes,\n\nii) relativos à divisão funcional de tarefas entre autoridades judiciais,\n\niii) relacionados com a estrutura federal do Estado-Membro em causa.\n\n2. Os Estados-Membros asseguram que, nos casos referidos no n.º 1, o pedido emitido pelo membro nacional seja tratado sem demora pela autoridade nacional competente."
+  },
+  "2bf0117b61e6e7bc": {
+   "fragment_id": "Artigo 9.º-F — Participação do membro nacional em equipas de investigação conjuntas",
+   "type": "artigo",
+   "heading": "Artigo 9.º-F — Participação do membro nacional em equipas de investigação conjuntas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º-F — Participação do membro nacional em equipas de investigação conjuntas\n\nOs membros nacionais devem estar habilitados a participar em equipas de investigação conjuntas, inclusive na sua criação, em conformidade com o artigo 13.º da Convenção relativa ao Auxílio Judiciário Mútuo em Matéria Penal entre os Estados-Membros da União Europeia ou com a Decisão-Quadro 2002/465/JAI do Conselho, de 13 de Junho de 2002, de 13 de Junho de 2002, relativa às equipas de investigação conjuntas ([^9^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0010)) no que respeita ao seu próprio Estado-Membro. No entanto, os Estados-Membros podem subordinar a participação do membro nacional ao acordo da autoridade nacional competente. Os membros nacionais, os seus adjuntos ou os seus assistentes, são convidados a participar em todas as equipas de investigação conjuntas em que participe também o seu Estado-Membro e que recebam financiamento comunitário ao abrigo dos instrumentos financeiros aplicáveis. Cada Estado-Membro determina se o membro nacional participa nas equipas de investigação conjuntas como autoridade nacional competente ou em nome da Eurojust."
+  },
+  "aef25846e189a2b4": {
+   "fragment_id": "Artigo 10.º — Colégio",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Colégio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Colégio\n\n1. O Colégio é constituído por todos os membros nacionais. Cada membro nacional dispõe de um voto.\n\n2. [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) O Conselho, deliberando por maioria qualificada, aprova o Regulamento Interno da Eurojust sob proposta do Colégio. O Colégio aprova a proposta por maioria de dois terços, após consulta à Instância Comum de Controlo prevista no artigo 23.º em relação às disposições sobre tratamento dos dados pessoais.**◄** As disposições do Regulamento Interno sobre o tratamento dos dados pessoais podem ser objecto de uma aprovação separada pelo Conselho.\n\n3. Quando actuar [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) ao abrigo da alínea a) do n.º 1 e dos n.^os^ 2 e 3 do artigo 7.º **◄**, o Colégio delibera por maioria de dois terços. As restantes decisões do colégio são aprovadas de acordo com o Regulamento Interno."
+  },
+  "f1b8fcd8546671ee": {
+   "fragment_id": "Artigo 11.º — Papel da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Papel da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Papel da Comissão\n\n1. A Comissão é plenamente associada aos trabalhos da Eurojust, nos termos do n.º 2 do artigo 36.º do Tratado, e participa nesses trabalhos, nas áreas da sua competência.\n\n2. No âmbito dos trabalhos da Eurojust relativos à coordenação de investigações e procedimentos penais, a Comissão pode ser convidada a contribuir com os seus conhecimentos especializados.\n\n3. A Eurojust pode acordar com a Comissão as disposições práticas necessárias ao reforço da respectiva cooperação."
+  },
+  "d3d18e99aafa1824": {
+   "fragment_id": "Artigo 12.º — Sistema nacional de coordenação da Eurojust",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Sistema nacional de coordenação da Eurojust",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sistema nacional de coordenação da Eurojust\n\n1. Cada Estado-Membro designa um ou mais correspondentes nacionais para a Eurojust.\n\n2. Cada Estado-Membro cria, antes de 4 de Junho de 2011, um sistema nacional de coordenação da Eurojust a fim de assegurar a coordenação do trabalho desenvolvido:\n\na) Pelos correspondentes nacionais da Eurojust;\n\nb) Pelo correspondente nacional da Eurojust para as questões relativas ao terrorismo;\n\nc) Pelo correspondente nacional da Rede Judiciária Europeia e por mais três pontos de contacto da Rede Judiciária Europeia, no máximo;\n\nd) Pelos membros nacionais ou pelos pontos de contacto da rede de equipas de investigação conjuntas e das redes criadas pela Decisão 2002/494/JAI do Conselho, de 13 de Junho de 2002, que cria uma Rede Europeia de pontos de contacto relativa a pessoas responsáveis por genocídios, crimes contra a humanidade e crimes de guerra ([^10^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0011)), pela Decisão 2007/845/JAI do Conselho, de 6 de Dezembro de 2007, relativa à cooperação entre os gabinetes de recuperação de bens dos Estados-Membros no domínio da detecção e identificação de produtos ou outros bens relacionados com o crime ([^11^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0012)) e pela Decisão 2008/852/JAI do Conselho, de 24 de Outubro de 2008, relativa à criação de uma rede de pontos de contacto anti-corrupção ([^12^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0013)).\n\n3. As pessoas a que se referem os n.^os^ 1 e 2 mantêm a posição e o estatuto que lhes são conferidos pelo direito nacional.\n\n4. Os correspondentes nacionais da Eurojust são responsáveis pelo funcionamento do sistema nacional de coordenação da Eurojust. Quando forem designados vários correspondentes nacionais da Eurojust, um deles é responsável pelo funcionamento do sistema nacional de coordenação da Eurojust.\n\n5. O sistema nacional de coordenação da Eurojust deve facilitar, no interior do Estado-Membro, o exercício das funções da Eurojust, nomeadamente:\n\na) Assegurando que o sistema de gestão de processos referido no artigo 16.º receba de forma eficiente e fiável a informação relativa ao Estado-Membro em causa;\n\nb) Ajudando a determinar se o processo deve ser tratado com a assistência da Eurojust ou da Rede Judiciária Europeia;\n\nc) Ajudando o membro nacional a identificar as autoridades competentes para a execução de pedidos de cooperação judiciária e decisões nesta matéria, nomeadamente no que se refere aos instrumentos que aplicam o princípio do reconhecimento mútuo;\n\nd) Mantendo relações estreitas com a Unidade Nacional Europol.\n\n6. Para cumprir os objectivos definidos no n.º 5, as pessoas referidas no n.º 1 e nas alíneas a), b) e c) do n.º 2 devem (e as pessoas referidas na alínea d) do n.º 2 podem) estar ligadas ao sistema de gestão de processos nos termos do presente artigo e dos artigos 16.º, 16.º-A, 16.º-B e 18.º bem como do Regulamento Interno da Eurojust. A ligação ao sistema de gestão de processos fica a cargo do orçamento geral da União Europeia.\n\n7. O presente artigo em nada prejudica os contactos directos entre as autoridades judiciárias competentes previstas em instrumentos de cooperação judiciária, tal como o artigo 6.º da Convenção relativa ao Auxílio Judiciário Mútuo em Matéria Penal entre os Estados-Membros da União Europeia. As relações entre o membro nacional e os correspondentes nacionais não excluem a existência de contactos directos entre o membro nacional e as suas autoridades competentes."
+  },
+  "df950ecb32fb856c": {
+   "fragment_id": "Artigo 13.º — Intercâmbio de informações com os Estados-Membros e entre membros nacionais",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Intercâmbio de informações com os Estados-Membros e entre membros nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Intercâmbio de informações com os Estados-Membros e entre membros nacionais\n\n1. As autoridades competentes dos Estados-Membros devem trocar com a Eurojust todas as informações necessárias ao desempenho das funções desta última, nos termos dos artigos 4.º e 5.º, bem como em conformidade com as regras de protecção de dados estabelecidas na presente decisão. Tal deve incluir pelo menos as informações referidas nos n.^os^ 5, 6 e 7.\n\n2. A transmissão de informações à Eurojust só é interpretada como pedido de assistência da Eurojust no processo em questão se tal for especificado por uma autoridade competente.\n\n3. Os membros nacionais da Eurojust estão autorizados a trocar, sem autorização prévia, entre si ou com as autoridades competentes do respectivo Estado-Membro, as informações necessárias ao desempenho das funções da Eurojust. Em especial, os membros nacionais devem ser informados sem demora dos processos que lhes digam respeito.\n\n4. O presente artigo não prejudica as obrigações decorrentes da transmissão de informações à Eurojust, incluindo a Decisão 2005/671/JAI do Conselho, de 20 de Setembro de 2005, relativa à troca de informações e à cooperação em matéria de infracções terroristas ([^13^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0014)).\n\n5. Os Estados-Membros asseguram que os membros nacionais sejam informados da criação de uma equipa de investigação conjunta, seja esta instituída quer ao abrigo do 13.º da Convenção relativa ao Auxílio Judiciário Mútuo em Matéria Penal entre os Estados-Membros da União Europeia quer ao abrigo da Decisão-Quadro 2002/465/JAI, bem como dos resultados obtidos por essas equipas.\n\n6. Os Estados-Membros asseguram que o seu membro nacional seja informado sem demora de todos os processos que envolvam directamente pelo menos três Estados-Membros e em relação aos quais tenham sido transmitidos no mínimo a dois Estados-Membros pedidos de cooperação judiciária e decisões nesta matéria, nomeadamente no que se refere aos instrumentos que aplicam o princípio do reconhecimento mútuo; e\n\na) A infracção em causa seja punível no Estado-Membro requerente ou emissor com pena ou medida de segurança privativas de liberdade de duração máxima não inferior a cinco ou seis anos, a decidir pelo Estado-Membro em causa, e incluída na seguinte lista:\n\ni) Tráfico de seres humanos,\n\nii) Exploração sexual de crianças e pedopornografia,\n\niii) Tráfico de droga,\n\niv) Tráfico de armas de fogo, das suas partes e componentes e de munições,\n\nv) Corrupção,\n\nvi) Fraude lesiva dos interesses financeiros das Comunidades Europeias,\n\nvii) Contrafacção do euro,\n\nviii) Branqueamento de capitais,\n\nix) Ataques contra os sistemas informáticos;\n\nb) Haja indícios concretos do envolvimento de uma organização criminosa;\n\nc) Haja indícios de que o processo pode ter uma grave dimensão transfronteiras ou repercussões a nível da União Europeia ou de que pode afectar outros Estados-Membros além dos directamente envolvidos.\n\n7. Os Estados-Membros asseguram que os seus membros nacionais sejam informados de:\n\na) Casos em que tenham surgido ou possam surgir conflitos de jurisdição;\n\nb) Entregas controladas que envolvam pelo menos três Estados, dos quais no mínimo dois sejam Estados-Membros;\n\nc) Repetidas dificuldades ou recusas na execução de pedidos de cooperação judiciária e decisões nesta matéria, nomeadamente no que se refere aos instrumentos que aplicam o princípio do reconhecimento mútuo.\n\n8. As autoridades nacionais não são obrigadas a prestar informações num caso específico, se isso tiver como consequência:\n\na) Lesar interesses fundamentais de segurança nacional; ou\n\nb) Comprometer a segurança de pessoas.\n\n9. O presente artigo não prejudica as condições estabelecidas em acordos bilaterais ou multilaterais ou acordos entre Estados-Membros e países terceiros, incluindo quaisquer condições impostas por países terceiros relativamente ao uso da informação depois de fornecida.\n\n10. As informações transmitidas à Eurojust nos termos dos n.^os^ 5, 6 e 7 devem incluir, se for caso disso, pelo menos os tipos de informação contidos na lista reproduzida em anexo.\n\n11. As informações referidas no presente artigo devem ser transmitidas à Eurojust de forma estruturada.\n\n12. Até 4 de Junho de 2014 [(13)](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0014), a Comissão deve elaborar, com base na informação transmitida pela Eurojust, um relatório sobre a aplicação do presente artigo, acompanhado das propostas que considere adequadas, nomeadamente com vista a alterar os n.^os^ 5, 6, e 7 e o anexo."
+  },
+  "cb47401c425ed93a": {
+   "fragment_id": "Artigo 13.º-A — Informação prestada pela Eurojust às autoridades nacionais competentes",
+   "type": "artigo",
+   "heading": "Artigo 13.º-A — Informação prestada pela Eurojust às autoridades nacionais competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-A — Informação prestada pela Eurojust às autoridades nacionais competentes\n\n1. A Eurojust fornece às autoridades nacionais competentes informações e elementos sobre os resultados do tratamento de informações, incluindo a existência de ligações a processos já arquivados no sistema de gestão de processos.\n\n2. Além disso, quando uma autoridade nacional competente solicita informações à Eurojust, esta transmite as informações solicitadas no prazo requerido por essa autoridade."
+  },
+  "c5c98916c5220ed5": {
+   "fragment_id": "Artigo 14.º — Tratamento de dados pessoais",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Tratamento de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Tratamento de dados pessoais\n\n1. Na medida em que seja necessário para cumprir os seus objectivos, a Eurojust pode, no âmbito da sua competência e a fim de bem exercer as suas funções, proceder ao tratamento de dados pessoais, automatizado ou em ficheiros manuais estruturados.\n\n2. A Eurojust toma as medidas necessárias para garantir um nível de protecção dos dados pessoais pelo menos equivalente ao que resulta da aplicação dos princípios da Convenção do Conselho da Europa de 28 de Janeiro de 1981 e das respectivas alterações subsequentes que estejam em vigor entre os Estados-Membros.\n\n3. Os dados pessoais tratados pela Eurojust devem ser adequados, pertinentes e não excessivos em relação à finalidade do tratamento e, tendo em conta as informações fornecidas pelas autoridades competentes dos Estados-Membros ou por outros parceiros, [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) nos termos dos artigos 13.º, 26.º e 26.º-A**◄**, devem ser exactos e estar actualizados. Os dados pessoais tratados pela Eurojust devem ser tratados equitativa e licitamente."
+  },
+  "c079540e10bd917c": {
+   "fragment_id": "Artigo 15.º — Restrições em matéria de tratamento de dados pessoais",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Restrições em matéria de tratamento de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Restrições em matéria de tratamento de dados pessoais\n\n1. Ao proceder ao tratamento de dados nos termos do n.º 1 do artigo 14.º, a Eurojust só pode tratar os seguintes dados pessoais sobre pessoas que, ao abrigo do direito interno dos Estados-Membros em causa, [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) sejam suspeitas da autoria ou comparticipação numa infracção penal da competência da Eurojust ou tenham sido condenadas por alguma dessas infracções**◄**\n\na) Apelido, apelido de solteira, nomes próprios e eventuais alcunhas ou pseudónimos;\n\nb) Data e local de nascimento;\n\nc) Nacionalidade;\n\nd) Sexo;\n\ne) Local de residência, profissão e paradeiro da pessoa em causa;\n\nf) Número de inscrição na segurança social, carta de condução, documentos de identificação e dados do passaporte;\n\ng) Informações sobre pessoas colectivas, se incluírem informações relativas a indivíduos identificados ou identificáveis que sejam objecto de investigações ou procedimentos legais;\n\nh) Contas bancárias e contas noutras instituições financeiras;\n\ni) Descrição e natureza dos factos que lhes são imputáveis, data em que foram cometidos, sua qualificação penal e estado de adiantamento das investigações;\n\nj) Factos que permitam presumir a dimensão internacional do caso;\n\nk) Informações relativas à presumível pertença a uma organização criminosa;\n\nl) Números de telefone, endereços electrónicos e dados referidos na alínea a) do n.º 2 do artigo 2.º da Directiva 2006/24/CE do Parlamento Europeu e do Conselho, de 15 de Março de 2006, relativa à conservação de dados gerados ou tratados no contexto da oferta de serviços de comunicações electrónicas publicamente disponíveis ou de redes públicas de comunicações ([^14^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0015));\n\nm) Dados do registo de matrícula de veículos;\n\nn) Perfis de ADN obtidos a partir da parte não portadora de códigos de ADN, fotografias e impressões digitais.\n\n2. Ao proceder ao tratamento de dados nos termos do n.º 1 do artigo 14.º, a Eurojust só pode tratar os seguintes dados pessoais sobre pessoas que, ao abrigo do direito interno dos Estados-Membros em causa, sejam consideradas testemunhas ou vítimas no âmbito de uma investigação ou procedimento penal por um ou vários dos tipos de criminalidade ou das infracções a que se refere o artigo 4.º:\n\na) Apelido, apelido de solteira, nomes próprios e eventuais alcunhas ou pseudónimos;\n\nb) Data e local de nascimento;\n\nc) Nacionalidade;\n\nd) Sexo;\n\ne) Local de residência, profissão e paradeiro da pessoa em causa;\n\nf) Descrição e natureza dos actos que lhes são imputáveis, data em que foram cometidos, sua qualificação penal e estado de adiantamento das investigações.\n\n3. Todavia, em casos excepcionais, a Eurojust pode também tratar, durante um período de tempo limitado, outros dados pessoais relativos às circunstâncias em que foi cometida uma infracção, quando os mesmos sejam de interesse imediato para as investigações em curso para cuja coordenação a Eurojust contribua e utilizados nesse âmbito, desde que o tratamento desses dados específicos seja feito nos termos dos artigos 14.º e 21.º\n\nO responsável pela protecção de dados a que se refere o artigo 17.º é imediatamente informado da aplicação do presente número.\n\nSempre que esses outros dados se refiram a testemunhas ou vítimas na acepção do n.º 2, a decisão de proceder ao respectivo tratamento deve ser tomada em conjunto por pelo menos dois membros nacionais.\n\n4. Os dados pessoais, tratados automaticamente ou não, que revelem a origem racial ou étnica, as opiniões políticas, as convicções religiosas ou filosóficas, a filiação sindical, bem como os dados relativos à saúde e à vida sexual, só podem ser tratados pela Eurojust se forem necessários às investigações nacionais em questão, bem como à coordenação da Eurojust.\n\nO responsável pela protecção de dados é imediatamente informado da aplicação do presente número.\n\nEsses dados não podem constar do índice previsto no n.º 1 do artigo 16.º\n\nSempre que esses dados se refiram a testemunhas ou vítimas na acepção do n.º 2, a decisão de proceder ao respectivo tratamento deve ser tomada pelo Colégio."
+  },
+  "0a70148c31e5699a": {
+   "fragment_id": "Artigo 16.º — Sistema de gestão de processos, índice e ficheiros de trabalho temporários",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Sistema de gestão de processos, índice e ficheiros de trabalho temporários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Sistema de gestão de processos, índice e ficheiros de trabalho temporários\n\n1. Nos termos da presente decisão, a Eurojust cria um sistema de gestão de processos composto por ficheiros de trabalho temporários e por um índice, que contêm dados pessoais e não pessoais.\n\n2. O sistema de gestão de processos destina-se a:\n\na) Apoiar a condução e a coordenação das investigações e dos procedimentos penais aos quais a Eurojust presta assistência, nomeadamente através do cotejo de informações;\n\nb) Facilitar o acesso às informações relativas às investigações e procedimentos penais em curso; e\n\nc) Facilitar o controlo da licitude do tratamento dos dados pessoais e da sua conformidade com a presente decisão.\n\n3. Desde que seja conforme com as regras de protecção de dados constantes da presente decisão, o sistema de gestão de processos pode estar ligado à rede segura de telecomunicações referida no artigo 9.º da Decisão 2008/976/JAI do Conselho, de 16 de Dezembro de 2008, relativa à Rede Judiciária Europeia ([^15^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0016)).\n\n4. O índice contém referências aos ficheiros de trabalho temporários tratados no âmbito da Eurojust e não pode incluir dados pessoais diferentes dos referidos nas alíneas a) a i), k) e m) do n.º 1 e no n.º 2 do artigo 15.º\n\n5. Ao desempenharem as funções previstas na presente decisão, os membros nacionais da Eurojust podem tratar num ficheiro de trabalho temporário dados relativos aos casos particulares em que trabalham e devem permitir que o responsável pela protecção de dados a eles tenha acesso. O membro nacional em causa informa o responsável pela protecção de dados da abertura de cada novo ficheiro de trabalho temporário que contenha dados pessoais.\n\n6. Para tratar os dados pessoais relacionados com determinado processo, a Eurojust não pode criar um ficheiro de dados automatizado diferente do sistema de gestão de processos."
+  },
+  "30c88231b4695a08": {
+   "fragment_id": "Artigo 16.º-A — Funcionamento dos ficheiros de trabalho temporários e do índice",
+   "type": "artigo",
+   "heading": "Artigo 16.º-A — Funcionamento dos ficheiros de trabalho temporários e do índice",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º-A — Funcionamento dos ficheiros de trabalho temporários e do índice\n\n1. O membro nacional em causa abre um ficheiro de trabalho temporário para cada processo sobre o qual lhe seja transmitida informação, desde que essa transmissão seja conforme com a presente decisão ou com os instrumentos a que se refere o n.º 4 do artigo 13.º. O membro nacional é responsável pela gestão dos ficheiros de trabalho temporários que abrir.\n\n2. O membro nacional que tenha aberto um ficheiro de trabalho temporário decide, caso a caso, se mantém a restrição sobre esse ficheiro ou se, quando necessário para permitir que a Eurojust desempenhe as suas funções, autoriza o acesso ao mesmo, ou a partes do mesmo, a outros membros nacionais ou a pessoal autorizado da Eurojust.\n\n3. O membro nacional que tenha aberto um ficheiro de trabalho temporário decide quais as informações relacionadas com esse ficheiro que devem ser introduzidas no índice."
+  },
+  "d8c78d4f904e1f57": {
+   "fragment_id": "Artigo 16.º-B — Acesso ao sistema de gestão de processos a nível nacional",
+   "type": "artigo",
+   "heading": "Artigo 16.º-B — Acesso ao sistema de gestão de processos a nível nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º-B — Acesso ao sistema de gestão de processos a nível nacional\n\n1. Na medida em que estejam ligadas ao sistema de gestão de processos nos termos do n.º 6 do artigo 12.º, as pessoas a que se refere o n.º 2 do artigo 12.º só podem ter acesso:\n\na) Ao índice, a não ser que o membro nacional que tenha decidido introduzir os dados no índice tenha expressamente recusado tal acesso;\n\nb) Aos ficheiros de trabalho temporários abertos ou geridos pelo membro nacional do Estado-Membro respectivo;\n\nc) Aos ficheiros de trabalho temporários abertos ou geridos pelos membros nacionais de outros Estados-Membros aos quais tenha sido autorizado o acesso do membro nacional do Estado-Membro respectivo, a menos que o membro nacional que abriu ou gere o ficheiro de trabalho temporário tenha expressamente recusado tal acesso.\n\n2. O membro nacional decide, dentro dos limites previstos no n.º 1, sobre o alcance do acesso aos ficheiros de trabalho temporários permitido no seu Estado-Membro às pessoas a que se refere o n.º 2 do artigo 12.º, na medida em que estas estejam ligadas ao sistema de gestão de processos nos termos do n.º 6 do artigo 12.º\n\n3. Após consulta ao seu membro nacional, cada Estado-Membro decide sobre o alcance do acesso ao índice permitido nesse Estado-Membro às pessoas a que se refere o n.º 2 do artigo 12.º, na medida em que estas estejam ligadas ao sistema de gestão de processos nos termos do n.º 6 do artigo 12.º. Os Estados-Membros notificam a Eurojust e o Secretariado-Geral do Conselho da sua decisão relativa à aplicação do presente número para que este último informe os restantes Estados-Membros.\n\nTodavia, as pessoas a que se refere o n.º 2 do artigo 12.º, na medida em que estejam ligadas ao sistema de gestão de processos nos termos do n.º 6 do artigo 12.º, devem poder, pelo menos, ter acesso ao índice na medida do necessário para acederem aos ficheiros de trabalho temporários a que lhes foi concedido acesso nos termos do n.º 2 do presente artigo.\n\n4. Até 4 de Junho de 2013, a Eurojust deve apresentar ao Conselho e à Comissão um relatório sobre a aplicação do n.º 3. Com base nesse relatório, cada Estado-Membro pondera a oportunidade de reanalisar o alcance do acesso concedido nos termos do n.º 3."
+  },
+  "51e1d9f9f49be4f8": {
+   "fragment_id": "Artigo 17.º — Responsável pela protecção de dados",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Responsável pela protecção de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Responsável pela protecção de dados\n\n1. A Eurojust dispõe de um responsável pela protecção de dados, que deve ser um membro do pessoal especificamente designado para o efeito. Nesse âmbito, o referido responsável depende directamente do Colégio. No exercício das funções previstas no presente artigo, o responsável pela protecção de dados[**►M2**](http://publications.europa.eu/resource/celex/32009D0426) actua de forma independente**◄**.\n\n2. As funções do responsável pela protecção de dados são, nomeadamente, as seguintes:\n\na) Garantir, de forma independente, a licitude do tratamento dos dados pessoais e a sua conformidade com a presente decisão;\n\nb) Controlar, segundo regras a prever no Regulamento Interno, a manutenção de um registo escrito sobre a transmissão e a recepção de dados pessoais, nomeadamente para efeitos de aplicação do n.º 3 do artigo 19.º, nas condições de segurança previstas no artigo 22.º;\n\nc) Garantir que as pessoas a quem dizem respeito os dados sejam, a seu pedido, informadas dos seus direitos ao abrigo da presente decisão.\n\n3. No desempenho das suas funções, [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) o responsável pela protecção de dados**◄** pela protecção de dados tem acesso a todos os dados tratados pela Eurojust e a todas as instalações desta.\n\n4. Sempre que constatar um tratamento que considere não conforme com a presente decisão, [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) o responsável pela protecção de dados**◄**:\n\na) Informa o Colégio, que acusará a recepção desta informação;\n\nb) Recorre à Instância Comum de Controlo quando o Colégio não tenha corrigido a situação de não conformidade do tratamento dentro de um prazo razoável."
+  },
+  "7ecb2a711407e137": {
+   "fragment_id": "Artigo 18.º — Acesso autorizado aos dados pessoais",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Acesso autorizado aos dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Acesso autorizado aos dados pessoais\n\nSó os membros nacionais e os seus adjuntos e assistentes a que se refere o n.º 2 do artigo 2.º, as pessoas a que se refere o n.º 2 do artigo 12.º, na medida em que estejam ligadas ao sistema de gestão de processos nos termos do n.º 6 do artigo 12.º, bem como o pessoal autorizado da Eurojust, podem ter acesso aos dados pessoais tratados pela Eurojust para efeitos do cumprimento dos objectivos da Eurojust, dentro dos limites estabelecidos nos artigos 16.º, 16.º-A e 16.º-B."
+  },
+  "469ff3491e22baee": {
+   "fragment_id": "Artigo 19.º — Direito de acesso aos dados pessoais",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Direito de acesso aos dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Direito de acesso aos dados pessoais\n\n1. Qualquer pessoa tem direito de acesso aos dados pessoais que lhe digam respeito, tratados pela Eurojust nas condições previstas no presente artigo.\n\n2. Qualquer pessoa que pretender exercer o seu direito de acesso aos dados pessoais que lhe digam respeito conservados na Eurojust, ou proceder à sua verificação nos termos do artigo 20.º, pode, para o efeito, dirigir gratuitamente, num Estado-Membro da sua escolha, um pedido à autoridade designada por esse Estado, que contacta imediatamente a Eurojust.\n\n3. O direito de acesso de qualquer pessoa aos dados pessoais que lhe digam respeito ou de os mandar verificar é exercido segundo as regras previstas no direito do Estado-Membro em que o requerente tenha apresentado o pedido. Todavia, se a Eurojust puder determinar qual foi a autoridade de um Estado-Membro que transmitiu os dados em questão, esta pode exigir que o direito de acesso seja exercido no respeito e segundo as regras previstas no direito desse Estado-Membro.\n\n4. O acesso aos dados pessoais é recusado se puder:\n\na) Comprometer uma das actividades da Eurojust;\n\nb) Comprometer uma investigação nacional [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) —————**◄**;\n\nc) Constituir uma ameaça aos direitos e liberdades de terceiros;\n\n5. A decisão de conceder esse direito de acesso deve ter na devida conta a qualidade em que as pessoas apresentam o pedido, no que se refere aos dados conservados pela Eurojust.\n\n6. Os membros nacionais a que o pedido diga respeito tratam-no e decidem em nome da Eurojust. O pedido deve ser completamente tratado no prazo de três meses a contar da sua recepção. Em caso de desacordo, submetem a questão ao Colégio, que delibera por maioria de dois terços.\n\n7. Se o acesso for recusado ou a Eurojust não dispuser de dados pessoais sobre o requerente, esta notificará o requerente de que procedeu às verificações, sem dar indicações que possam revelar se o requerente é ou não conhecido.\n\n8. Se o requerente não ficar satisfeito com a resposta dada ao seu pedido, poderá recorrer dessa decisão para a Instância Comum de Controlo. A Instância Comum de Controlo estabelece a conformidade ou não conformidade da decisão da Eurojust com a presente decisão.\n\n9. As autoridades competentes dos Estados-Membros responsáveis pela aplicação da lei são consultadas pela Eurojust antes da adopção de uma decisão. Essas autoridades são depois informadas pelos membros nacionais envolvidos."
+  },
+  "192aae1ee8dfb99d": {
+   "fragment_id": "Artigo 20.º — Rectificação e cancelamento de dados pessoais",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Rectificação e cancelamento de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Rectificação e cancelamento de dados pessoais\n\n1. Nos termos do n.º 3 do artigo 19.º, qualquer pessoa tem o direito de solicitar à Eurojust a rectificação, o bloqueio ou o cancelamento dos dados incorrectos ou incompletos, que lhe digam respeito ou cuja inserção ou conservação sejam contrárias ao disposto na presente decisão.\n\n2. A Eurojust comunica ao requerente se procedeu à rectificação, ao bloqueio ou ao cancelamento dos dados que lhe dizem respeito. Se não ficar satisfeito com a resposta da Eurojust, o requerente poderá recorrer dessa decisão para a Instância Comum de Controlo num prazo de 30 dias a contar da data da sua recepção.\n\n3. A pedido das autoridades competentes de um Estado-Membro, do seu membro nacional ou do correspondente nacional, quando exista, e sob a sua responsabilidade, a Eurojust procede, nos termos do seu Regulamento Interno, à rectificação ou ao cancelamento dos dados pessoais por si tratados, que tenham sido transmitidos ou introduzidos por esse Estado-Membro, pelo seu membro nacional ou pelo seu correspondente nacional. As autoridades competentes dos Estados-Membros e a Eurojust, incluindo o membro nacional ou o correspondente nacional, quando exista, devem assegurar, nesse contexto, o respeito dos princípios previstos nos n.^os^ 2 e 3 do artigo 14.º e no n.º 4 do artigo 15.º\n\n4. Quando se verifique que os dados pessoais tratados pela Eurojust são incorrectos ou incompletos ou que a sua introdução e conservação são contrárias ao disposto na presente decisão, a Eurojust deve bloqueá-los, rectificá-los ou cancelá-los.\n\n5. Nos casos referidos nos n.^os^ 3 e 4, todos os fornecedores e destinatários dos dados em questão são imediatamente informados. Os destinatários devem então, segundo as regras que lhes são aplicáveis, proceder à sua rectificação, bloqueio ou cancelamento nos respectivos sistemas."
+  },
+  "3256047192c67bfe": {
+   "fragment_id": "Artigo 21.º — Prazos de conservação de dados pessoais",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Prazos de conservação de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Prazos de conservação de dados pessoais\n\n1. A Eurojust conserva os dados pessoais por si tratados apenas durante o tempo necessário ao cumprimento dos seus objectivos.\n\n2. Os dados pessoais a que se refere o n.º 1 do artigo 14.º, tratados pela Eurojust, não podem ser conservados para além[**►M2**](http://publications.europa.eu/resource/celex/32009D0426) da primeira data aplicável de entre as seguintes datas**◄**:\n\na) Do prazo de prescrição do procedimento penal nos Estados-Membros envolvidos na investigação e no procedimento penal;\n\naa) Data em que a pessoa foi absolvida e a decisão transitou em julgado;\n\nb) Três anos após a data em que transitou em julgado a decisão judicial do último dos Estados-Membros envolvidos na investigação ou no procedimento penal;\n\nc) Da data em que a Eurojust e os Estados-Membros envolvidos tenham verificado ou decidido de comum acordo que a coordenação da investigação ou do procedimento penal pela Eurojust deixou de ser necessária[**►M2**](http://publications.europa.eu/resource/celex/32009D0426), a menos que haja a obrigação de fornecer à Eurojust essas informações nos termos dos n.^os^ 6 e 7 do artigo 13.º ou dos instrumentos a que se refere o n.º 4 do artigo 13.º;**◄**\n\nd) Três anos após a data em que os dados foram transmitidos nos termos dos n.^os^ 6 e 7 do artigo 13.º ou dos instrumentos a que se refere o n.º 4 do artigo 13.º.\n\na) O cumprimento dos prazos de conservação previstos [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) nas alíneas a), b), c) e d) do n.º 2**◄** é objecto de uma verificação permanente através de um tratamento automatizado adequado. De qualquer modo é feita uma verificação da necessidade de conservação dos dados, de três em três anos, depois da sua introdução.\n\nb) Quando tenha decorrido um dos prazos previstos [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) nas alíneas a), b), c) e d) do n.º 2**◄**, a Eurojust verifica a necessidade de conservar os dados por mais tempo, para lhe permitir cumprir os seus objectivos, podendo, eventualmente, conservá-los a título de derrogação até à verificação seguinte.[**►M2**](http://publications.europa.eu/resource/celex/32009D0426) Todavia, quando o procedimento penal tiver prescrito em todos os Estados-Membros envolvidos, conforme refere a alínea a) do n.º 2, os dados só podem ser conservados se forem necessário para a Eurojust prestar assistência nos termos da presente decisão.**◄**\n\nc) Quando os dados tenham sido conservados a título de derrogação nos termos da alínea b) verificar-se-á a necessidade da sua conservação de três em três anos.\n\n4. Quando exista um processo que contenha dados não automatizados e não estruturados e o prazo de conservação do último dado automatizado constante desse processo tenha sido ultrapassado, todas as peças do processo são reenviadas à autoridade que o tenha comunicado e as eventuais cópias são destruídas.\n\n5. Sempre que a Eurojust tenha coordenado uma investigação ou um procedimento penal, os membros nacionais envolvidos devem informar a Eurojust e os outros Estados-Membros envolvidos de todas as decisões judiciárias relativas a esse caso, que se tenham tornado definitivas, nomeadamente com vista à aplicação da alínea b) do n.º 2."
+  },
+  "778ab1a0319dc10f": {
+   "fragment_id": "Artigo 22.º — Segurança dos dados",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Segurança dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Segurança dos dados\n\n1. No que se refere ao tratamento de dados pessoais no âmbito da presente decisão, a Eurojust e, na medida em que os dados transmitidos pela Eurojust lhe digam respeito, cada Estado-Membro protegem os dados pessoais contra a destruição acidental ou ilícita, a perda acidental, a difusão, a alteração e o acesso não autorizados, ou qualquer outra forma de tratamento não autorizada.\n\n2. O Regulamento Interno prevê as medidas técnicas e as regras organizativas necessárias à execução da presente decisão em termos de segurança dos dados, nomeadamente as medidas destinadas a:\n\na) Impedir o acesso de qualquer pessoa não autorizada às instalações utilizadas para o tratamento de dados pessoais;\n\nb) Impedir que os suportes de dados possam ser lidos, copiados, alterados ou retirados por uma pessoa não autorizada;\n\nc) Impedir a introdução não autorizada no ficheiro, bem como qualquer tomada de conhecimento, alteração ou cancelamento não autorizados de dados pessoais integrados;\n\nd) Impedir que os sistemas de tratamento automatizado de dados sejam utilizados por pessoas não autorizadas por meio de equipamentos de transmissão de dados;\n\ne) Garantir que, na utilização de um sistema de tratamento automatizado de dados, as pessoas autorizadas só possam ter acesso aos dados da sua competência;\n\nf) Garantir a possibilidade de verificar e determinar quais as entidades a quem são transmitidos dados pessoais em caso de transmissão de dados;\n\ng) Garantir a possibilidade de controlar e determinar *a posteriori* quais os dados pessoais introduzidos nos sistemas de tratamento automatizado de dados, quando e por quem foram introduzidos;\n\nh) Impedir que, durante a transmissão de dados pessoais, bem como durante o transporte de suportes de dados, os dados possam ser lidos, copiados, alterados ou cancelados de forma não autorizada."
+  },
+  "ee2dae946fd90303": {
+   "fragment_id": "Artigo 23.º — Instância Comum de Controlo",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Instância Comum de Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Instância Comum de Controlo\n\n1. É criada uma Instância Comum de Controlo independente que controla colegialmente as actividades da Eurojust [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) a que se referem os artigos 14.º a 22.º, 26.º, 26.º-A e 27.º **◄**, a fim de assegurar que o tratamento dos dados pessoais seja efectuado nos termos da presente decisão. No desempenho das suas funções, a Instância Comum de Controlo está habilitada a aceder sem reservas a todos os ficheiros em que são tratados esses dados pessoais. A Eurojust fornece à Instância Comum de Controlo todas as informações contidas nos ficheiros que esta solicitar e assiste-a, por todos os meios, no desempenho das suas funções.\n\nA Instância Comum de Controlo reúne-se, pelo menos, uma vez por semestre. Além disso, reúne-se num prazo de três meses a contar da interposição do recurso a que se refere o n.º 8 do artigo 19.º ou nos três meses subsequentes à data em que o caso lhe foi remetido nos termos do n.º 2 do artigo 20.º. A Instância Comum de Controlo também pode ser convocada pelo seu presidente sempre que pelo menos dois Estados-Membros o solicitem.\n\nA fim de constituir essa Instância Comum de Controlo, cada Estado-Membro designa, segundo o seu sistema jurídico, um juiz que não seja membro da Eurojust ou, se o seu sistema constitucional ou nacional assim o exigir, uma pessoa que exerça funções que lhe confiram a independência devida, para constar da lista de juízes susceptíveis de fazer parte da Instância Comum de Controlo na qualidade de membro ou de juiz *ad hoc*. Essa designação não pode ser inferior a [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) três anos**◄**. A exoneração regula-se pelos princípios de exoneração aplicáveis ao abrigo do direito interno do Estado-Membro de origem. O Secretariado-Geral do Conselho e a Eurojust são notificados da designação e da exoneração.\n\n2. A Instância Comum de Controlo é composta por 3 membros permanentes e, nos termos do n.º 4, por juízes *ad hoc*.\n\n3. O juiz designado por um Estado-Membro torna-se membro permanente depois de eleito pelo plenário das pessoas designadas pelos Estados-Membros em conformidade com o n.º 1, mantendo o estatuto de membro permanente durante três anos. Todos os anos é eleito por voto secreto um membro permanente da Instância Comum de Controlo. Preside à Instância Comum de Controlo o membro que se encontrar no terceiro ano de mandato após a eleição. Os membros permanentes podem ser reeleitos. As pessoas designadas que assim o desejem devem apresentar a sua candidatura por escrito ao Secretariado da Instância Comum de Controlo, até dez dias antes da data prevista para a reunião consagrada à eleição.\n\n4. Exercem igualmente funções um ou vários juízes *ad hoc*, apenas durante o período de análise de um recurso relativo a dados pessoais proveniente do Estado-Membro que os designou.\n\n4-A. No seu Regulamento Interno, a Instância Comum de Controlo aprova as medidas necessárias à aplicação dos n.^os^ 3 e 4.\n\n5. A composição da Instância Comum de Controlo é válida durante todo o período de análise de um recurso, mesmo se os membros permanentes tiverem atingido o termo do mandato ao abrigo do n.º 3.\n\n6. Cada membro e cada juiz ad hoc têm direito a um voto. Em caso de paridade de votos, é preponderante o voto do presidente.\n\n7. A Instância Comum de Controlo analisa os recursos que lhe são apresentados nos termos do n.º 8 do artigo 19.º e do n.º 2 do artigo 20.º e exerce o controlo nos termos do primeiro parágrafo do n.º 1 do presente artigo. Se considerar que uma decisão da Eurojust ou que o tratamento de dados por esta efectuado não são conformes com a presente decisão, a questão será remetida à Eurojust que deve cumprir a decisão da Instância Comum de Controlo.\n\n8. As decisões da Instância Comum de Controlo são definitivas e vinculativas para a Eurojust.\n\n9. As pessoas designadas pelos Estados-Membros nos termos do terceiro parágrafo do n.º 1 adoptam, sob a presidência do Presidente da Instância Comum de Controlo, um regulamento interno e processual que, para a análise de um recurso, prevê critérios objectivos para a designação dos membros da Instância.\n\n10. As despesas de secretariado são cobertas pelo orçamento da Eurojust. O secretariado da Instância Comum de Controlo é independente no desempenho das suas funções no seio do secretariado da Eurojust.[**►M2**](http://publications.europa.eu/resource/celex/32009D0426) O Secretariado da Instância Comum de Controlo pode contar com os serviços do Secretariado criado pela Decisão 2000/641/JAI ([^16^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0017)).**◄**\n\n11. Os membros da Instância Comum de Controlo estão sujeitos à obrigação de sigilo prevista no artigo 25.º\n\n12. A Instância Comum de Controlo apresenta um relatório anual ao Conselho."
+  },
+  "f529182257258510": {
+   "fragment_id": "Artigo 24.º — Responsabilidade pelo tratamento não autorizado ou incorrecto dos dados",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Responsabilidade pelo tratamento não autorizado ou incorrecto dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Responsabilidade pelo tratamento não autorizado ou incorrecto dos dados\n\n1. A Eurojust é, nos termos do direito interno do Estado-Membro da sua sede, responsável por quaisquer danos causados a uma pessoa em resultado de um tratamento de dados não autorizado ou incorrecto a que tenha procedido.\n\n2. As queixas contra a Eurojust no âmbito da responsabilidade a que se refere o n.º 1 são apresentadas junto dos tribunais do Estado-Membro da sua sede.\n\n3. Cada Estado-Membro é, nos termos do seu direito interno, responsável por quaisquer danos causados a uma pessoa, em resultado de um tratamento não autorizado ou incorrecto a que tenha procedido em relação a dados que tenham sido comunicados à Eurojust."
+  },
+  "a701d77bdd3fd357": {
+   "fragment_id": "Artigo 25.º — Sigilo",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Sigilo\n\n1. Os membros nacionais e os seus adjuntos e assistentes a que se refere o n.º 2 do artigo 2.º, o pessoal da Eurojust, os correspondentes nacionais e o responsável pela protecção de dados ficam sujeitos a uma obrigação de sigilo, sem prejuízo do n.º 4 do artigo 2.º.\n\n2. A obrigação de sigilo é aplicável a todas as pessoas e organismos chamados a colaborar com a Eurojust.\n\n3. A obrigação de sigilo mantêm-se após a cessação de funções, do contrato de trabalho ou de actividades das pessoas a que se referem os n.^os^ 1 e 2.\n\n4. Sem prejuízo do [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) n.º 4 do artigo 2.º **◄**, a obrigação de sigilo é aplicável a todas as informações recebidas pela Eurojust."
+  },
+  "4a9ac70ee04abed7": {
+   "fragment_id": "Artigo 25.º-A — Cooperação com a Rede Judiciária Europeia e outras redes da União Europeia envolvidas na cooperação em matéria penal",
+   "type": "artigo",
+   "heading": "Artigo 25.º-A — Cooperação com a Rede Judiciária Europeia e outras redes da União Europeia envolvidas na cooperação em matéria penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º-A — Cooperação com a Rede Judiciária Europeia e outras redes da União Europeia envolvidas na cooperação em matéria penal\n\n1. A Eurojust e a Rede Judiciária Europeia mantêm entre si relações privilegiadas, assentes na consulta e na complementaridade, especialmente entre o membro nacional, os pontos de contacto da Rede Judiciária Europeia do mesmo Estado-Membro e os correspondentes nacionais da Eurojust e da Rede Judiciária Europeia. A fim de garantir uma cooperação eficaz, devem ser tomadas as seguintes medidas:\n\na) Os membros nacionais informam os pontos de contacto da Rede Judiciária Europeia, caso a caso, sobre todos os processos cujo tratamento considerem ser mais bem assegurado pela Rede Judiciária Europeia;\n\nb) O secretariado da Rede Judiciária Europeia faz parte do pessoal da Eurojust. Constitui uma unidade distinta a nível de funcionamento. Pode beneficiar dos recursos administrativos da Eurojust que sejam necessários ao exercício das funções da Rede Judiciária Europeia, designadamente para cobrir os custos ocasionados pelas suas reuniões plenárias. Caso os plenários se realizem nas instalações do Conselho em Bruxelas, os custos podem cobrir apenas as despesas de deslocação e as despesas de interpretação. Caso se realizem no Estado-Membro que exerce a Presidência do Conselho, os custos podem cobrir apenas parte das despesas totais do plenário;\n\nc) Os pontos de contacto da Rede Judiciária Europeia podem ser convidados, caso a caso, para as reuniões da Eurojust.\n\n2. Sem prejuízo do n.º 1 do artigo 4.º, os secretariados da rede de equipas de investigação conjuntas e das redes criadas pela Decisão 2002/494/JAI do Conselho fazem parte do pessoal da Eurojust e constituem unidades distintas a nível de funcionamento. Podem beneficiar dos recursos administrativos da Eurojust necessários ao exercício das suas funções. A Eurojust assegura a coordenação entre os secretariados.\n\nO presente número aplica-se ao secretariado de todas as novas redes criadas por decisão do Conselho caso a decisão preveja que o secretariado deve ser assegurado pela Eurojust.\n\n3. A rede criada pela Decisão 2008/852/JAI pode solicitar que a Eurojust assegure o secretariado para essa rede. Se for feito um pedido nesse sentido, aplica-se o n.º 2."
+  },
+  "976ff359009f6fda": {
+   "fragment_id": "Artigo 26.º — Relações com instituições, organismos e agências ligados à Comunidade ou à União",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Relações com instituições, organismos e agências ligados à Comunidade ou à União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Relações com instituições, organismos e agências ligados à Comunidade ou à União\n\n1. Na medida em que tal seja relevante para o exercício das suas funções, a Eurojust pode estabelecer e manter relações de cooperação com instituições, organismos e agências criados pelos Tratados que instituem as Comunidades Europeias e pelo Tratado da União Europeia, ou com base nos mesmos. A Eurojust estabelece e mantém relações de cooperação com, pelo menos:\n\na) A Europol;\n\nb) O OLAF;\n\nc) A Agência Europeia de Gestão da Cooperação Operacional nas Fronteiras Externas dos Estados-Membros da União Europeia (Frontex);\n\nd) O Conselho, designadamente o Centro de Situação Conjunto.\n\nA Eurojust estabelece e mantém igualmente relações de cooperação com a Rede Europeia de Formação Judiciária.\n\n2. A Eurojust pode celebrar acordos ou instituir mecanismos de cooperação com as entidades referidas no n.º 1. Esses acordos ou mecanismos de cooperação podem incidir, em especial, no intercâmbio de informações, incluindo dados pessoais, e no destacamento de agentes de ligação para a Eurojust. Só podem ser celebrados esses acordos ou instituídos esses mecanismos de cooperação depois de a Eurojust consultar a Instância Comum de Controlo acerca das disposições relativas à protecção de dados e após aprovação pelo Conselho, deliberando por maioria qualificada. A Eurojust informa o Conselho dos seus planos para dar início a negociações para esse efeito e o Conselho pode tirar as conclusões que considere apropriadas.\n\n3. Até à entrada em vigor dos acordos ou mecanismos de cooperação referidos no n.º 2, a Eurojust pode receber directamente e utilizar informações, incluindo dados pessoais, das entidades referidas no n.º 1, na medida em que tal seja necessário ao exercício legítimo das suas funções e pode também transmitir directamente informações, incluindo dados pessoais, a essas entidades, na medida em que tal seja necessário ao exercício legítimo das funções do destinatário, de acordo com as regras sobre protecção de dados estabelecidas na presente decisão.\n\n4. O OLAF pode contribuir para os trabalhos da Eurojust em matéria de coordenação de investigações e procedimentos penais relativos à protecção dos interesses financeiros da Comunidades Europeias, quer por iniciativa da Eurojust, quer a pedido do OLAF, desde que as autoridades nacionais competentes envolvidas não se oponham a essa participação.\n\n5. Para efeitos de recepção e transmissão de informações entre a Eurojust e o OLAF, e sem prejuízo do artigo 9.º, os Estados-Membros asseguram que os membros nacionais da Eurojust sejam considerados autoridades competentes dos Estados-Membros apenas para efeito dos Regulamentos (CE) n.º 1073/1999 e (Euratom) n.º 1074/1999 do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pela Organização Europeia de Luta Antifraude (OLAF) ([^17^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0018)). O intercâmbio de informações entre o OLAF e os membros nacionais é realizado sem prejuízo das informações que têm de ser fornecidas às autoridades competentes segundo esses regulamentos."
+  },
+  "670927344b43c949": {
+   "fragment_id": "Artigo 26.º-A — Relações com organizações e Estados terceiros",
+   "type": "artigo",
+   "heading": "Artigo 26.º-A — Relações com organizações e Estados terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º-A — Relações com organizações e Estados terceiros\n\n1. Na medida em que tal seja necessário ao exercício das suas funções, a Eurojust pode igualmente estabelecer e manter relações de cooperação com as seguintes entidades:\n\na) Estados terceiros;\n\nb) Organizações como:\n\ni) organizações internacionais e organismos de direito público por elas tutelados,\n\nii) outros organismos de direito público cuja existência se fundamente em acordos celebrados entre dois ou mais Estados, e\n\niii) a Organização Internacional de Polícia Criminal (Interpol).\n\n2. A Eurojust pode celebrar acordos com as entidades referidas no n.º 1. Esses acordos podem incidir, em especial, no intercâmbio de informações, incluindo dados pessoais, e no destacamento de agentes ou de magistrados de ligação para a Eurojust. Esses acordos só podem ser celebrados depois de a Eurojust consultar a Instância Comum de Controlo acerca das disposições relativas à protecção de dados e após aprovação pelo Conselho, deliberando por maioria qualificada. A Eurojust informa o Conselho dos seus planos para dar início a negociações para esse efeito e o Conselho pode tirar as conclusões que considere apropriadas.\n\n3. Os acordos a que se refere o n.º 2 que contenham disposições em matéria de intercâmbio de dados pessoais só podem ser celebrados se a entidade em questão estiver sujeita à Convenção do Conselho da Europa de 28 de Janeiro de 1981, ou após uma avaliação que confirme que essa entidade assegura um nível adequado de protecção de dados.\n\n4. Os acordos a que se refere o n.º 2 incluem disposições sobre o acompanhamento da sua aplicação, designadamente das regras aplicáveis à protecção de dados.\n\n5. Até à entrada em vigor dos acordos a que se refere o n.º 2, a Eurojust pode receber directamente informações, incluindo dados pessoais, na medida em que tal seja necessário ao exercício legítimo das suas funções.\n\n6. Até à entrada em vigor dos acordos a que se refere o n.º 2, a Eurojust pode, nas condições estabelecidas no n.º 1 do artigo 27.º, transmitir directamente informações, com excepção de dados pessoais, a essas entidades, na medida em que tal seja necessário ao exercício legítimo das funções do destinatário.\n\n7. A Eurojust pode, nas condições estabelecidas no n.º 1 do artigo 27.º, transmitir dados pessoais às entidades referidas no n.º 1 quando:\n\na) Em casos específicos, tal medida seja necessária para prevenir ou combater infracções penais da competência da Eurojust; e\n\nb) A Eurojust tenha, nos termos do n.º 2, celebrado com a entidade em causa um acordo que tenha entrado em vigor e permita a transmissão de tais dados.\n\n8. Se, posteriormente, as entidades a que se refere o n.º 1 não garantirem o respeito das condições a que se refere o n.º 3, ou se houver fortes motivos para presumir que esse respeito não é assegurado, a Instância Comum de Controlo e os Estados-Membros envolvidos são imediatamente informados desse facto pela Eurojust. A Instância Comum de Controlo pode suspender o intercâmbio de dados pessoais com as entidades em questão enquanto não tiver verificado se foram adoptadas medidas para resolver a situação.\n\n9. Todavia, mesmo que não estejam reunidas as condições a que se refere o n.º 7, um membro nacional pode, enquanto autoridade nacional competente e de acordo com as disposições do seu direito interno, a título excepcional e exclusivamente para que sejam adoptadas medidas urgentes destinadas a prevenir um perigo iminente e sério para uma pessoa ou a segurança pública, proceder a um intercâmbio de informações que incluam dados pessoais. Cabe ao membro nacional determinar se é legal autorizar a transmissão. O membro nacional deve manter um registo das transmissões de dados efectuadas e dos motivos que a elas presidiram. A transmissão dos dados só é autorizada se o destinatário garantir que os mesmos serão utilizados exclusivamente para os fins para que foram transmitidos."
+  },
+  "4db34099280c133b": {
+   "fragment_id": "Artigo 27.º — Transmissão de dados",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Transmissão de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Transmissão de dados\n\n1. Antes de qualquer intercâmbio de informações entre a Eurojust e as entidades referidas no artigo 26.º-A, o membro nacional do Estado-Membro que forneceu essas informações dá o seu consentimento à sua transmissão. Sempre que necessário, o membro nacional consulta as autoridades competentes dos Estados-Membros.\n\n2. A Eurojust é responsável pela legalidade da transmissão de dados. A Eurojust deve manter um registo de todas as transmissões de dados efectuadas ao abrigo dos artigos 26.º e 26.º-A e dos motivos que a elas presidiram. Os dados só são transmitidos se o destinatário garantir que os mesmos serão utilizados exclusivamente para os fins para que foram transmitidos."
+  },
+  "a838c4b005124efe": {
+   "fragment_id": "Artigo 27.º-A — Magistrados de ligação destacados para Estados terceiros",
+   "type": "artigo",
+   "heading": "Artigo 27.º-A — Magistrados de ligação destacados para Estados terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º-A — Magistrados de ligação destacados para Estados terceiros\n\n1. A fim de facilitar a cooperação judiciária com Estados terceiros nos casos em que a Eurojust preste assistência nos termos da presente decisão, o Colégio pode destacar magistrados de ligação para um Estado terceiro sob reserva de acordo com esse Estado, como refere o artigo 26.º-A. Antes do início das negociações com um Estado terceiro, é necessária a aprovação do Conselho, deliberando por maioria qualificada. A Eurojust informa o Conselho dos seus planos para dar início a negociações para esse efeito e o Conselho pode tirar as conclusões que considere apropriadas.\n\n2. O magistrado de ligação a que se refere o n.º 1 deve ter experiência de trabalho com a Eurojust, bem como um conhecimento adequado da cooperação judiciária e do modo de funcionamento da Eurojust. O destacamento do magistrado de ligação em nome da Eurojust pressupõe o consentimento prévio do magistrado e do seu Estado-Membro.\n\n3. Quando o magistrado de ligação destacado pela Eurojust for seleccionado entre os membros nacionais, os adjuntos ou assistentes:\n\ni) cabe ao respectivo Estado-Membro designar um substituto para desempenhar essa função de membro nacional, adjunto ou assistente;\n\nii) deixa de estar habilitado a exercer os poderes que lhe são conferidos nos termos dos artigos 9.º-A a 9.º-E.\n\n4. Sem prejuízo do artigo 110.º do Estatuto dos Funcionários das Comunidades Europeias, estabelecido pelo Regulamento (CEE, Euratom, CECA) n.º 259/68 ([^18^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0019)), o Colégio define as regras de destacamento dos magistrados de ligação e adopta as disposições de execução necessárias a este respeito, em consulta com a Comissão.\n\n5. As actividades dos magistrados de ligação destacados pela Eurojust ficam sujeitas à supervisão da Instância Comum de Controlo. Os magistrados de ligação prestam contas ao Colégio, que, no relatório anual, informa devidamente o Parlamento Europeu e o Conselho das suas actividades. Os magistrados de ligação informam igualmente os membros nacionais e as autoridades nacionais competentes de todos os casos que digam respeito aos Estados-Membros respectivos.\n\n6. As autoridades competentes dos Estados-Membros e os magistrados de ligação referidos no n.º 1 podem entrar em contacto directo. Nesses casos, o magistrado de ligação informa o membro nacional em causa desses contactos.\n\n7. Os magistrados de ligação referidos no n.º 1 devem estar ligados ao sistema de gestão de processos."
+  },
+  "9cfbaef29d3b58f2": {
+   "fragment_id": "Artigo 27.º-B — Pedidos de cooperação judiciária de Estados terceiros e a estes dirigidos",
+   "type": "artigo",
+   "heading": "Artigo 27.º-B — Pedidos de cooperação judiciária de Estados terceiros e a estes dirigidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º-B — Pedidos de cooperação judiciária de Estados terceiros e a estes dirigidos\n\n1. A Eurojust pode, com o acordo dos Estados-Membros envolvidos, coordenar a execução dos pedidos de cooperação judiciária provenientes de um Estado terceiro quando estes pedidos façam parte da mesma investigação e requeiram a execução em, pelo menos, dois Estados-Membros. Os pedidos a que se refere o presente número podem igualmente ser transmitidos à Eurojust por uma autoridade nacional competente.\n\n2. Em caso de urgência e nos termos do artigo 5.º-A, a CP pode receber e tratar os pedidos a que se refere o n.º 1 do presente artigo emitidos por um Estado terceiro que tenha celebrado um acordo de cooperação com a Eurojust.\n\n3. Sem prejuízo do n.º 2 do artigo 3.º, sempre que sejam apresentados pedidos de cooperação judiciária relacionados com a mesma investigação que requeiram execução num Estado terceiro, a Eurojust também pode, com o acordo dos Estados-Membros envolvidos, facilitar a cooperação judiciária com esse Estado.\n\n4. Os pedidos a que se referem os n.º 1, 2 e 3 podem ser transmitidos através da Eurojust se forem conformes com os instrumentos aplicáveis às relações entre o Estado terceiro e a União Europeia ou os Estados-Membros em causa."
+  },
+  "eedb1de112ff83d8": {
+   "fragment_id": "Artigo 27.º-C — Responsabilidade distinta da responsabilidade pelo tratamento não autorizado ou incorrecto dos dados",
+   "type": "artigo",
+   "heading": "Artigo 27.º-C — Responsabilidade distinta da responsabilidade pelo tratamento não autorizado ou incorrecto dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º-C — Responsabilidade distinta da responsabilidade pelo tratamento não autorizado ou incorrecto dos dados\n\n1. A responsabilidade contratual da Eurojust é regida pelo direito aplicável ao contrato em causa.\n\n2. Em caso de responsabilidade extracontratual, a Eurojust é obrigada, independentemente da responsabilidade prevista no artigo 24.º, a reparar qualquer dano causado pelo Colégio ou pelo pessoal da Eurojust no exercício das suas funções, na medida em que esse dano lhes seja imputável e sem excluir outros procedimentos de reparação estabelecidos no direito dos Estados-Membros.\n\n3. O n.º 2 aplica-se igualmente a danos causados pelos membros nacionais, adjuntos ou assistentes no exercício das suas funções. Todavia, se estiverem a actuar com base nas competências que lhes são conferidas ao abrigo dos artigos 9.º-A a 9.º-E, o Estado-Membro de origem reembolsa a Eurojust dos montantes por ela pagos para reparar tal dano.\n\n4. A pessoa lesada tem o direito de exigir que a Eurojust se abstenha de actuar ou retire uma acção.\n\n5. Os tribunais nacionais dos Estados-Membros competentes para apreciar os litígios que impliquem a responsabilidade da Eurojust contemplada no presente artigo são determinados tendo em conta o Regulamento (CE) n.º 44/2001 do Conselho, de 22 de Dezembro de 2000, relativo à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial ([^19^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0020))."
+  },
+  "3572272e8ec6c1ae": {
+   "fragment_id": "Artigo 28.º — Organização e funcionamento",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Organização e funcionamento\n\n1. O Colégio é responsável pela organização e pelo funcionamento da Eurojust.\n\n2. O Colégio elege um presidente de entre os membros nacionais, podendo, se o considerar necessário, eleger, no máximo, dois vice-presidentes. O resultado da eleição será sujeito à aprovação do Conselho[**►M2**](http://publications.europa.eu/resource/celex/32009D0426), deliberando por maioria qualificada**◄**.\n\n3. O Presidente exerce as suas funções em nome do Colégio e sob a sua autoridade, conduz os seus trabalhos e controla a sua gestão quotidiana efectuada pelo Director Administrativo. O regulamento interno especifica os casos em que as decisões ou acções do Presidente devem ser sujeitas a autorização prévia ou a uma informação ao Colégio.\n\n4. O mandato do Presidente é de três anos, podendo este ser reeleito uma vez. O mandato do ou dos eventuais vice-presidentes é regulado pelo Regulamento Interno.\n\n5. A Eurojust é assistida por um secretariado dirigido por um Director Administrativo.\n\n6. A Eurojust exerce em relação ao seu pessoal os poderes de que dispõe a autoridade investida do poder de nomeação. O Colégio adopta as regras adequadas de execução do presente número, nos termos do Regulamento Interno."
+  },
+  "12b24f296e461759": {
+   "fragment_id": "Artigo 29.º — Director Administrativo",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Director Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Director Administrativo\n\n1. O Director Administrativo da Eurojust é nomeado [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) por maioria qualificada**◄** pelo Colégio. O Colégio constitui um comité de selecção que elabora, no seguimento de um aviso de concurso, uma lista de candidatos de entre os quais escolhe o Director Administrativo.[**►M2**](http://publications.europa.eu/resource/celex/32009D0426) A Comissão pode participar no processo de selecção e ter assento no comité de selecção.**◄**\n\n2. [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) O mandato do director administrativo é de cinco anos. Pode ser prorrogado uma vez sem concurso, desde que o Colégio assim o decida por maioria de dois terços e nomeie o director administrativo pela mesma maioria.**◄**\n\n3. O Director Administrativo está sujeito às regras e regulamentações aplicáveis aos funcionários e outros agentes das Comunidades Europeias.\n\n4. O Director Administrativo trabalha sob a autoridade do Colégio e do seu Presidente nos termos do n.º 3 do artigo 28.º O Director Administrativo pode ser destituído pelo Colégio, por maioria de dois terços.\n\n5. O Director Administrativo é responsável pela administração corrente da Eurojust e pela gestão do pessoal, sob a supervisão do Presidente.[**►M2**](http://publications.europa.eu/resource/celex/32009D0426) Para o efeito, é responsável por instaurar e aplicar, em colaboração com o Colégio, um processo de acompanhamento e avaliação eficaz do desempenho da administração da Eurojust no que respeita à consecução dos seus objectivos. O director administrativo informa periodicamente o Colégio dos resultados desse acompanhamento.**◄**"
+  },
+  "4032eecec75275b2": {
+   "fragment_id": "Artigo 30.º — Pessoal",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Pessoal\n\n1. O pessoal da Eurojust fica sujeito, nomeadamente no que se refere ao recrutamento e ao estatuto, às regras e regulamentações aplicáveis aos funcionários e outros agentes das Comunidades Europeias.\n\n2. O pessoal da Eurojust é recrutado de acordo com as regras e regulamentações a que se refere o n.º 1, tendo em conta os critérios mencionados no artigo 27.º do Estatuto dos Funcionários das Comunidades Europeias fixado pelo Regulamento (CEE, Euratom, CECA) n.º 259/68 ([^20^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0021)), incluindo o da repartição geográfica. Os membros do pessoal da Eurojust têm o estatuto de agentes permanentes, temporários ou locais. A pedido do Director Administrativo e de acordo com o Presidente em nome do Colégio, as instituições comunitárias podem destacar funcionários comunitários e afectá-los à Eurojust na qualidade de agentes temporários. Os Estados-Membros podem destacar peritos nacionais para a Eurojust[**►M2**](http://publications.europa.eu/resource/celex/32009D0426), que podem também assistir o membro nacional.**◄**. [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) O Colégio aprova as disposições de execução necessárias no que se refere aos peritos nacionais destacados.**◄**\n\n3. Sob a autoridade do Colégio, o pessoal deve desempenhar as suas funções de acordo com os objectivos e o mandato da Eurojust, não solicitando nem aceitando instruções de nenhum governo, autoridade, organização ou pessoa estranha à Eurojust[**►M2**](http://publications.europa.eu/resource/celex/32009D0426), sem prejuízo da alínea c) do n.º 1 e do n.º 2 do artigo 25.º-A.**◄**."
+  },
+  "5f748c990859c548": {
+   "fragment_id": "Artigo 31.º — Assistência em matéria de interpretação e tradução",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Assistência em matéria de interpretação e tradução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Assistência em matéria de interpretação e tradução\n\n1. O regime linguístico oficial da União é aplicável aos trabalhos da Eurojust.\n\n2. O relatório anual a apresentar ao Conselho, a que se refere o segundo parágrafo do n.º 1 do artigo 32.º é redigido nas línguas oficiais das Instituições da União."
+  },
+  "f70f571f7d7fc102": {
+   "fragment_id": "Artigo 32.º — [►M2](http://publications.europa.eu/resource/celex/32009D0426) Informação do Parlamento Europeu, do Conselho e da Comissão◄",
+   "type": "artigo",
+   "heading": "Artigo 32.º — [►M2](http://publications.europa.eu/resource/celex/32009D0426) Informação do Parlamento Europeu, do Conselho e da Comissão◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — [►M2](http://publications.europa.eu/resource/celex/32009D0426) Informação do Parlamento Europeu, do Conselho e da Comissão◄\n\n1. O Presidente, em nome do Colégio, presta contas ao Conselho, anualmente e por escrito, das actividades e da gestão, inclusive orçamental, da Eurojust.\n\nPara o efeito, o Colégio elabora um relatório anual sobre as actividades da Eurojust e os problemas de política criminal na União constatados na sequência das actividades da Eurojust. Nesse relatório, a Eurojust pode igualmente formular propostas destinadas a melhorar a cooperação judiciária em matéria penal.\n\nO Presidente deve igualmente facultar todos os relatórios ou informações sobre o funcionamento da Eurojust eventualmente pedidos pelo Conselho.\n\n2. A Presidência do Conselho deve apresentar anualmente ao Parlamento Europeu um relatório sobre os trabalhos da Eurojust e as actividades da Instância Comum de Controlo.\n\n3. A Comissão ou o Conselho podem solicitar o parecer da Eurojust sobre todos os projectos de instrumentos elaborados ao abrigo do título VI do Tratado."
+  },
+  "7b3822b8ddbd329b": {
+   "fragment_id": "Artigo 33.º — Aspectos financeiros",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Aspectos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Aspectos financeiros\n\n1. Os vencimentos e emolumentos dos membros nacionais, dos adjuntos e dos assistentes a que se refere o n.º 2 do artigo 2.º ficam a cargo dos respectivos Estados-Membros de origem.\n\n2. Sempre que os membros nacionais, os adjuntos e os assistentes actuem no âmbito das funções da Eurojust, as despesas correspondentes relacionadas com essas actividades são consideradas despesas operacionais na acepção do n.º 3 do artigo 41.º do Tratado."
+  },
+  "bf734a1ff995f68f": {
+   "fragment_id": "Artigo 34.º — Orçamento",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Orçamento\n\n1. Todas as receitas e despesas da Eurojust são objecto de previsões em cada exercício orçamental. O exercício orçamental corresponde ao ano civil. As receitas e despesas são inscritas no seu orçamento, que compreende o quadro de efectivos sujeito à autoridade orçamental competente para o orçamento geral da União Europeia. O quadro de efectivos, composto por postos de trabalho de carácter permanente ou temporário, com uma indicação sobre os peritos nacionais destacados, especifica o número, o grau e a categoria do pessoal empregado pela Eurojust durante o exercício em causa.\n\n2. O orçamento é equilibrado em receitas e em despesas.\n\n3. As receitas da Eurojust podem compreender, sem prejuízo de outros recursos, um subsídio comunitário inscrito no orçamento geral da União Europeia.\n\n4. As despesas da Eurojust incluem, nomeadamente, as despesas relacionadas com a interpretação e a tradução, as despesas de segurança, as despesas administrativas e de infra-estrutura, as despesas de funcionamento e de locação, as despesas de deslocação dos membros da Eurojust e do seu pessoal, bem como as despesas relacionadas com contratos com terceiros."
+  },
+  "1a9d67e4e12fa057": {
+   "fragment_id": "Artigo 35.º — Elaboração do orçamento",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Elaboração do orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Elaboração do orçamento\n\n1. O Colégio estabelece anualmente, com base num projecto elaborado pelo director administrativo, um mapa previsional das receitas e despesas da Eurojust para o exercício orçamental seguinte. Este mapa previsional, que inclui um projecto de quadro de efectivos, é transmitido pelo Colégio à Comissão, até [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) 10 de Fevereiro**◄**.[**►M2**](http://publications.europa.eu/resource/celex/32009D0426) A Rede Judiciária Europeia e as redes a que se refere o n.º 2 do artigo 25.º-A são informadas atempadamente, antes do envio do mapa previsional à Comissão, sobre as partes relacionadas com as actividades dos respectivos secretariados.**◄**\n\n2. Com base no mapa previsional, a Comissão propõe, no anteprojecto de orçamento geral da União Europeia, o montante do subsídio anual e os postos de trabalho de carácter permanente ou temporário, submetendo-os à autoridade orçamental em conformidade com o disposto no artigo 272.º do Tratado que institui a Comunidade Europeia.\n\n3. A autoridade orçamental autoriza as dotações para o subsídio à Eurojust e determina os postos de trabalho de carácter permanente ou temporário em conformidade com o Estatuto dos funcionários das Comunidades Europeias e com o regime aplicável aos outros agentes.\n\n4. Antes do início do exercício orçamental, o Colégio adopta o orçamento, incluindo o quadro de efectivos definido no quarto período do n.º 1 do artigo 34.º, com base no subsídio anual e nos postos de trabalho autorizados pela autoridade orçamental em conformidade com o disposto no n.º 3 do presente artigo, ajustando-o às diferentes contribuições concedidas à Eurojust e aos fundos provenientes de outras fontes."
+  },
+  "0a98508c1f2a49b5": {
+   "fragment_id": "Artigo 36.º — Execução do orçamento e quitação",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Execução do orçamento e quitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Execução do orçamento e quitação\n\n1. O director administrativo executa o orçamento da Eurojust, na sua qualidade de gestor orçamental, e presta contas da sua execução ao Colégio.\n\n2. [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) Até ao dia 31 de Março seguinte a cada exercício orçamental encerrado, o contabilista da Eurojust transmite ao contabilista da Comissão e ao Tribunal de Contas as contas provisórias, acompanhadas do relatório sobre a gestão orçamental e financeira do exercício.**◄** O contabilista da Comissão consolida as contas provisórias das instituições e dos organismos descentralizados nos termos do disposto no artigo 128.º do Regulamento Financeiro Geral.\n\n3. A Eurojust transmite o relatório sobre a gestão orçamental e financeira do exercício ao Parlamento Europeu e ao Conselho até ao dia 31 de Março do ano seguinte ao do exercício encerrado.\n\n4. Após recepção das observações formuladas pelo Tribunal de Contas relativamente às contas provisórias da Eurojust, nos termos do disposto no artigo 129.º do Regulamento Financeiro Geral, o director administrativo estabelece as contas definitivas da Eurojust, sob sua própria responsabilidade, e transmite-as, para parecer, ao Colégio.\n\n5. O Colégio emite um parecer sobre as contas definitivas da Eurojust.\n\n6. O director administrativo transmite ao Parlamento Europeu, ao Conselho, à Comissão e ao Tribunal de Contas as contas definitivas, acompanhadas do parecer do Colégio, até ao dia 1 de Julho seguinte a cada exercício orçamental encerrado.\n\n7. As contas definitivas são publicadas.\n\n8. O director administrativo envia ao Tribunal de Contas uma resposta às observações deste último, até 30 de Setembro. Envia igualmente esta resposta ao Colégio.\n\n9. O director administrativo, agindo sob a autoridade do Colégio e do seu Presidente, submete à apreciação do Parlamento Europeu, a pedido deste último, tal como previsto no n.º 3 do artigo 146.º do Regulamento Financeiro Geral, qualquer informação necessária ao bom desenrolar do processo de quitação relativamente ao exercício em causa.\n\n10. Sob recomendação do Conselho, deliberando por maioria qualificada, o Parlamento Europeu dá ao director administrativo, antes de [**►M2**](http://publications.europa.eu/resource/celex/32009D0426) 15 de Maio**◄** do ano N + 2, quitação da execução do orçamento do exercício N."
+  },
+  "1307e07a13cb54de": {
+   "fragment_id": "Artigo 37.º — Regulamento Financeiro aplicável ao orçamento",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Regulamento Financeiro aplicável ao orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Regulamento Financeiro aplicável ao orçamento\n\n1. Após consulta à Comissão, o Colégio aprova por unanimidade a regulamentação financeira aplicável ao orçamento da Eurojust. Esta regulamentação só poderá divergir do disposto no Regulamento (CE, Euratom) n.º 2343/2002 da Comissão, de 19 de Novembro de 2002, que institui o Regulamento Financeiro-Quadro dos organismos referidos no artigo 185.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^21^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0022)), se as exigências específicas do funcionamento da Eurojust requererem e com o acordo prévio da Comissão."
+  },
+  "a2f2c400de483675": {
+   "fragment_id": "Artigo 38.º — Controlos",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Controlos\n\n1. Incumbe ao gestor orçamental a responsabilidade de criar sistemas e procedimentos de controlo interno adaptados à execução das suas tarefas.\n\n2. O Colégio nomeia um auditor interno encarregado nomeadamente de dar garantias de bom funcionamento dos sistemas e processos de execução do orçamento, de acordo com as normas internacionais aplicáveis. O auditor interno não pode ser gestor orçamental nem contabilista. O Colégio pode pedir ao auditor interno da Comissão que exerça essa função.\n\n3. O auditor apresenta um relatório com as suas verificações e recomendações à Eurojust e envia uma cópia deste à Comissão. A Eurojust toma, em função dos relatórios do auditor, as medidas necessárias para dar seguimento às referidas recomendações.\n\n4. As regras previstas no Regulamento (CE) n.º 1073/1999 são aplicáveis à Eurojust. O Colégio adopta as medidas de execução necessárias."
+  },
+  "e2f25501a5b1a47b": {
+   "fragment_id": "Artigo 39.º — Acesso aos documentos",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Acesso aos documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Acesso aos documentos\n\nO Colégio, com base numa proposta do Director Administrativo, aprova as regras relativas ao acesso aos documentos da Eurojust, tendo em consideração os princípios e limites estabelecidos no Regulamento 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão ([^22^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0023))."
+  },
+  "4f29a651cf9e2ed4": {
+   "fragment_id": "Artigo 39.º-A — Informações classificadas da UE",
+   "type": "artigo",
+   "heading": "Artigo 39.º-A — Informações classificadas da UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º-A — Informações classificadas da UE\n\nA Eurojust aplica à gestão das informações classificadas da UE os princípios de segurança e as normas mínimas estabelecidos pela Decisão 2001/264/CE do Conselho, de 19 de Março de 2001, que aprova as regras de segurança do Conselho ([^23^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#E0024))."
+  },
+  "ce6bb848b72cc9b4": {
+   "fragment_id": "Artigo 40.º — Aplicação territorial",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Aplicação territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Aplicação territorial\n\nA presente decisão é aplicável a Gibraltar, que será representado pelo membro nacional do Reino Unido."
+  },
+  "b543daef8942179d": {
+   "fragment_id": "Artigo 41.º — Relatórios",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Relatórios\n\n1. Os Estados-Membros notificam a Eurojust e o Secretariado-Geral do Conselho da designação dos membros nacionais, adjuntos e assistentes, bem como das pessoas a que se referem os n.^os^ 1 e 2 do artigo 12.º, e de quaisquer alterações relativas a essa designação. O Secretariado-Geral do Conselho mantém uma lista actualizada destas pessoas e comunica os respectivos nomes e contactos a todos os Estados-Membros e à Comissão.\n\n2. A nomeação definitiva do membro nacional não pode produzir efeitos antes do dia em que o Secretariado-Geral do Conselho receba as notificações oficiais referidas no n.º 1 e no n.º 3 do artigo 9.º-A."
+  },
+  "2378da460da25ba0": {
+   "fragment_id": "Artigo 41.º-A — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 41.º-A — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º-A — Avaliação\n\n1. Até 4 de Junho de 2014 e, subsequentemente, de cinco em cinco anos, o Colégio deve encomendar uma avaliação externa independente sobre a execução da presente decisão e as actividades realizadas pela Eurojust.\n\n2. Cada avaliação deve apreciar o impacto da presente decisão, o desempenho da Eurojust no que respeita à consecução dos objectivos a que a mesma se refere, bem como a eficácia e eficiência da Eurojust. O Colégio emite mandatos específicos em consulta com a Comissão.\n\n3. O relatório de avaliação inclui as verificações e recomendações da avaliação. Este relatório é transmitido ao Parlamento Europeu, ao Conselho e à Comissão e é tornado público."
+  },
+  "69a31da5571de2bb": {
+   "fragment_id": "Artigo 42.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Transposição\n\nOs Estados-Membros devem, se necessário, alinhar o seu direito interno pela presente decisão, o mais rapidamente possível e, de qualquer modo, o mais tardar em 6 de Setembro de 2003."
+  },
+  "cda9ff96cb937b02": {
+   "fragment_id": "Artigo 43.º — Produção de efeitos",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Produção de efeitos\n\nA presente decisão produz efeitos no dia da sua publicação no Jornal Oficial, sem prejuízo do artigo 41.º A Unidade Provisória de Cooperação Judicial deixa de existir nessa data."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "9bec505ae73ccc18": {
+   "fragment_id": "Lista referida no n.º 10 do artigo 13.º, que enumera os tipos mínimos de informação a transmitir, caso exista, à Eurojust nos termos dos n.^os^ 5, 6 e 7 do artigo 13.º",
+   "type": "divisao",
+   "heading": "Lista referida no n.º 10 do artigo 13.º, que enumera os tipos mínimos de informação a transmitir, caso exista, à Eurojust nos termos dos n.^os^ 5, 6 e 7 do artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista referida no n.º 10 do artigo 13.º, que enumera os tipos mínimos de informação a transmitir, caso exista, à Eurojust nos termos dos n.^os^ 5, 6 e 7 do artigo 13.º\n\n1. Para as situações referidas no n.º 5 do artigo 13.º:\n\na) Estados-Membros participantes;\n\nb) Tipo de infracções em causa;\n\nc) Data do acordo que cria a equipa;\n\nd) Duração prevista da equipa, incluindo a alteração dessa duração;\n\ne) Elementos para contacto do chefe da equipa relativamente a cada Estado-Membro participante;\n\nf) Resumo sucinto dos resultados dos trabalhos das equipas de investigação conjuntas.\n\n2. Para as situações referidas no n.º 6 do artigo 13.º:\n\na) Dados que identificam a pessoa, grupo ou entidade que é objecto de investigação ou procedimento penal;\n\nb) Estados-Membros em causa;\n\nc) infracção em causa, bem como as circunstâncias em que foi cometida;\n\nd) dados relativos aos pedidos de cooperação judiciária emitidos e às decisões nesta matéria, nomeadamente no que se refere aos instrumentos que aplicam o princípio do reconhecimento mútuo, incluindo:\n\ni) data do pedido,\n\nii) autoridade requerente ou emissora,\n\niii) autoridade requerida ou de execução,\n\niv) tipo de pedido (medidas solicitadas),\n\nv) indicação de o pedido ter ou não sido executado e, na negativa, dos motivos da não execução.\n\n3. Para as situações referidas na alínea a) do n.º 7 do artigo 13.º:\n\na) Estados-Membros e autoridades competentes em causa;\n\nb) Dados que identificam a pessoa, grupo ou entidade que é objecto de investigação ou procedimento penal;\n\nc) Infracção em causa, bem como as circunstâncias em que foi cometida.\n\n4. Para as situações referidas na alínea b) do n.º 7 do artigo 13.º:\n\na) Estados-Membros e autoridades competentes em causa;\n\nb) Dados que identificam a pessoa, grupo ou entidade que é objecto de investigação ou procedimento penal;\n\nc) Tipo de entrega;\n\nd) Tipo de infracção relativamente à qual se procedeu à entrega controlada.\n\n5. Para as situações referidas na alínea c) do n.º 7 do artigo 13.º:\n\na) Estado requerente ou emissor;\n\nb) Estado requerido ou de execução;\n\nc) Descrição das dificuldades.\n\n---"
+  },
+  "2a0e3b10b56d8c2b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0001)) JO C 206 de 19.7.2000, p. 1 e\n\n> JO C 243 de 24.8.2000, p. 15.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0002)) JO C 34 E de 7.2.2002, p. 347 e parecer emitido em 29 de Novembro de 2001 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0003)) JO L 136 de 31.5.1999, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0004)) JO C 197 de 12.7.2000, p. 3.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0005)) JO C 326 de 26.11.2001, p. 2.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0006)) JO C 316 de 27.11.1995, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0007)) JO L 191 de 7.7.1998, p. 4.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0008)) Na altura da aprovação da presente decisão, a competência da Europol é a descrita no n.º 1 do artigo 2.º da Convenção de 26 de Julho de 1995 que cria o Serviço Europeu de Polícia (Convenção Europol) (JO C 316 de 27.11.1995, p. 2), com a redacção que lhe foi dada pelo Protocolo de 2003 (JO C 2 de 6.1.2004, p. 1). No entanto, a partir da entrada em vigor da Decisão do Conselho que cria o Serviço Europeu de Polícia (Europol), as competências da Eurojust serão as descritas no n.º 1 do artigo 4.º dessa decisão e nos respectivos anexos.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0010)) JO L 162 de 20.6.2002, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0011)) JO L 167 de 26.6.2002, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0012)) JO L 332 de 18.12.2007, p. 103.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0013)) JO L 301 de 12.11.2008, p. 38.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0014)) JO L 253 de 29.9.2005, p. 22.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0015)) JO L 105 de 13.4.2006, p. 54.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0016)) JO L 348 de 24.12.2008, p. 130.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0017)) Decisão 2000/641/JAI do Conselho, de 17 de Outubro de 2000, que cria um Secretariado dos órgãos comuns de controlo da protecção de dados instituídos pela Convenção que cria um Serviço Europeu de Polícia (Convenção Europol), a Convenção sobre a utilização da informática no domínio aduaneiro e a Convenção de aplicação do Acordo de Schengen relativo à supressão gradual dos controlos nas fronteiras comuns (Convenção de Schengen) (JO L 271 de 24.10.2000, p. 1).\n\n> ([^17^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0018)) JO L 136 de 31.5.1999, p. 8.\n\n> ([^18^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0019)) JO L 56 de 4.3.1968, p. 1.\n\n> ([^19^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0020)) JO L 12 de 16.1.2001, p. 1.\n\n> ([^20^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0021)) JO L 56 de 4.3.1968. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE, CECA, Euratom) n.º 2581/2001 (JO L 345 de 29.12.2001, p. 1).\n\n> ([^21^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0022)) JO L 357 de 31.12.2002, p. 72 (rectificação no JO L 2 de 7.1.2003, p. 39).\n\n> ([^22^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0023)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^23^](http://publications.europa.eu/resource/cellar/7c677f7e-13ee-440a-ab8f-eb0c1440e7de.0018.03/DOC_1#src.E0024)) JO L 101 de 11.4.2001, p. 1."
+  },
+  "8a78c3e20a4399ce": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02002D0187 — PT — 12.12.2019 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32002D0187) [DECISÃO DO CONSELHO](http://publications.europa.eu/resource/celex/32002D0187) [de 28 de Fevereiro de 2002](http://publications.europa.eu/resource/celex/32002D0187) [relativa à criação da Eurojust a fim de reforçar a luta contra as formas graves de criminalidade](http://publications.europa.eu/resource/celex/32002D0187) [(2002/187/JAI)](http://publications.europa.eu/resource/celex/32002D0187) (JO L 063, 6.3.2002, p.1)\n\n**Revogada por:**\n\n- [Regulamento (UE) 2018/1727 do Parlamento Europeu e do Conselho de 14 de novembro de 2018](http://publications.europa.eu/resource/celex/32018R1727) — L 295 — 138 — 21.11.2018"
+  }
+ }
+}

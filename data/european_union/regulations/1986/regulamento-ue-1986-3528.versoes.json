@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31986R3528:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01986R3528-20020517",
+ "dre_path": null,
+ "source_lastmod": "2002-05-17",
+ "versions": [
+  {
+   "date": "1986-11-21",
+   "future": false,
+   "celex": "31986R3528",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "45a0166297a153d3",
+    "7d26ff50d39d2a37",
+    "c7121e785e85501a",
+    "40e3dc60fd3157f4",
+    "f68382aa1d361aae",
+    "cf084d4ea2dfa861",
+    "04947047363fb663",
+    "c86207ecb535b1f6",
+    "182d3c107f234ac0",
+    "9b0f93bd84eb23c1",
+    "183cba558f9993dc",
+    "ee204b40b6b9abe8",
+    "6bed8ca1ed1ec0b4",
+    "b2c751c5462a4bac",
+    "827fed597cdc15af"
+   ]
+  }
+ ],
+ "fragments": {
+  "45a0166297a153d3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 3528/86 do Conselho de 17 de Novembro de 1986 relativo à protecção das florestas na Comunidade contra a poluição atmosférica** *Jornal Oficial nº L 326 de 21/11/1986 p. 0002 - 0004 Edição especial finlandesa: Capítulo 3 Fascículo 22 p. 0059 Edição especial sueca: Capítulo 3 Fascículo 22 p. 0059*\n\n*****\n\nREGULAMENTO (CEE) Nº 3528/86 DO CONSELHO\n\nde 17 de Novembro de 1986\n\nrelativo à protecção das florestas na Comunidade contra a poluição atmosférica\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 43º e 235º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a floresta desempenha um papel essencial na conservação dos equilíbrios fundamentais, nomeadamente no que diz respeito ao solo, ao regime das águas, ao clima, à fauna e à flora; que, em consequência, a floresta contribui para o desenvolvimento da agricultura, cujas condições de produção a até de existência, em certos casos, estão grandemente dependentes da presença e do bom estado das florestas circundantes;\n\nConsiderando que a poluição atmosférica, pelos seus efeitos nocivos directos e indirectos, tanto ao nível dos vegetais como ao nível do solo das florestas, contribui para o depauperamento e mesmo para a morte das árvores florestais e que os danos sofridos pelas florestas atingem uma extensão preocupante na Comunidade;\n\nConsiderando que a protecção das florestas contra estes danos se reveste, em consequência, para a Comunidade, de uma importância e de uma urgência especiais e que a Comunidade deve contribuir para o melhoramento dessa protecção;\n\nConsiderando que a acção da Comunidade nesta matéria deve ter como primeiro objectivo estabelecer, com base numa rede de observação apropriada, um inventário periódico uniforme dos danos causados às florestas;\n\nConsiderando que, nomeadamente com base nos dados recolhidos, devem ser cientificamente estabelecidos balanços periódicos do estado sanitário das florestas relativamente à poluição atmosférica, a fim de se determinar a amplitude dos danos e de acompanhar a sua evolução nas diferentes regiões da Comunidade;\n\nConsiderando que os métodos de observaçao e avaliação dos danos causados às florestas, bem como os conhecimentos sobre a poluição atmosférica na floresta e sobre os efeitos dessa poluição sobre a floresta deveriam ser melhorados; que deveriam ser definidos métodos de conservação e de restabelecimento das florestas danificadas; que, para este efeito, a Comunidade deve fomentar a realização de experiências no terreno, de projectos-piloto e de demonstrações;\n\nConsiderando que a Comissão deve assegurar a coordenação e acompanhamento da acção comunitária e que, para o efeito, deve ter a possibilidade de recorrer a institutos de investigação e a conselheiros científicos;\n\nConsiderando que, para facilitar a execução das disposições previstas, é conveniente prever um procedimento que estabeleça uma cooperação estreita entre os Estados-membros e a Comissão;\n\nConsiderando que, antes do final de um período de cinco anos, as disposições adoptadas devem ser submetidas a reexame, em função nomeadamente da experiência e da evolução dos danos observados;\n\nConsiderando que a Comunidade deve contribuir para o financiamento da acção comunitária de protecção das florestas contra a poluição atmosférica;\n\nConsiderando que, face ao carácter inovador de certas medidas previstas, é oportuno que, após um período de dois anos, se proceda a uma análise dos aspectos financeiros do presente regulamento, a fim de permitir os ajustamentos orçamentais eventualmente necessários;\n\nConsiderando que o Tratado não previu todos os poderes para o efeito necessários,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "7d26ff50d39d2a37": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nÉ instituída uma acção comunitária, a seguir denominada « acção », para a protecção das florestas contra a poluição atmosférica, destinada a aumentar a protecção das florestas na Comunidade e a contribuir assim, nomeadamente, para a salvaguarda do potencial de produtividade da agricultura."
+  },
+  "c7121e785e85501a": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. A acção tem por fim ajudar os Estados-membros a:\n\n- estabelecer, com base numa metodologia comum, um inventário periódico dos danos causados às florestas, nomeadamente pela poluição atmosférica,\n\n- estabelecer ou completar de forma coordenada e harmoniosa a rede de postos de observação necessária ao estabelecimento deste inventário.\n\n2. Os Estados-membros transmitirão à Comissão os dados recolhidos pela rede de postos de observação.\n\n3. As modalidades de aplicação do presente artigo, particularmente aquelas que se prendem com a recolha, natureza e comparabilidade dos dados de inventário, serão adoptadas de acordo com o procedimento previsto no artigo 7º"
+  },
+  "40e3dc60fd3157f4": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros estabelecerão periodicamente, de acordo com um método científico uniforme, e nomeadamente com base nos dados do inventário referido no artigo 2º, um balanço do estado sanitário das florestas em relação à poluição atmosférica e transmiti-lo-ão à Comissão.\n\n2. As regras de aplicação do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 7º"
+  },
+  "f68382aa1d361aae": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. A acção visa fomentar a realização de:\n\n- experiências no terreno destinadas a melhorar os conhecimentos sobre a poluição atmosférica na floresta e os seus efeitos sobre a florestas e a definir métodos de conservação e restabelecimento das florestas danificadas,\n\n- projectos-piloto e demonstrações que contribuam para o melhoramento dos métodos de observação e avaliação dos danos causados às florestas.\n\n2. Os Estados-membros submeterão à apreciação da Comissão, antes de 1 de Novembro de cada ano e relativamente ao ano seguinte, as experiências e projectos a realizar nos termos do presente regulamento. Em relação ao primeiro ano, estas experiências e projectos serão submetidos no prazo de três meses a contar da entrada em vigor do presente regulamento.\n\n3. Os Estados-membros indicarão à Comissão:\n\na) As áreas geográficas abrangidas;\n\nb) A descrição da situação existente e os objectivos a atingir;\n\nc) Uma estimativa de previsão dos custos, incluindo, eventualmente, uma indicação do ritmo das despesas previstas.\n\n4. As modalidades e critérios de aplicação do presente artigo serão adoptados de acordo com o procedimento previsto no artigo 7º"
+  },
+  "cf084d4ea2dfa861": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nA Comissão assegurará a coordenação e o acompanhamento da acção e pode, em particular, recorrer a institutos de investigação e a conselheiros científicos.\n\nArtigos 6º\n\n1. É criado um Comité para a Protecção da Floresta, a seguir denominado « Comité ».\n\n2. O Comité é composto por representantes dos Estados-membros e da Comissão. Cada Estado-membro estará representado no Comité por dois funcionários, no máximo.\n\nO Comité é presidido por um representante da Comissão."
+  },
+  "04947047363fb663": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. No caso de ser feita referência ao procedimento definido no presente artigo, o presidente submeterá o assunto ao Comité, quer por sua própria iniciativa, quer a pedido de um Estado-membro.\n\n2. O representante da Comissão apresenta um projecto das medidas a tomar. O Comité formula o seu parecer num prazo que o presidente pode fixar em função da urgência da questão. O Comité pronuncia-se por maioria qualificada, sendo os votos dos Estados-membros afectados da ponderação prevista no nº 2 do artigo 148º do Tratado. O presidente não vota.\n\n3. a) A Comissão aprova as medidas e aplica-as de imediato, desde que estejam em conformidade com o parecer do Comité.\n\nb) Se essas medidas não estiverem em conformidade com o parecer do Comité, ou na ausência de parecer, a Comissão submete de imediato ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto lhe foi submetido, o Conselho não tiver aprovado medidas, a Comissão aprovará as medidas propostas e aplicá-las-á imediatamente."
+  },
+  "c86207ecb535b1f6": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nEm caso de referência ao presente artigo, o Comité age como comité consultativo."
+  },
+  "182d3c107f234ac0": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. O Comité será consultado nos termos do artigo 8º:\n\n- sobre os balanços periódicos referidos no artigo 3º,\n\n- sobre as experiências e projectos referidos no artigo 4º, previamente a todas as decisões da Comissão relativas ao financiamento dessas experiências e projectos,\n\n- sobre a evolução das actividades de coordenação e acompanhamento da acção referidas no artigo 5º\n\n2. O Comité pode examinar, na acepção do artigo 8º, qualquer outra questão relativa ao âmbito do presente regulamento, evocada pelo seu presidente, quer por iniciativa deste, quer a pedido do representante de um Estado-membro."
+  },
+  "9b0f93bd84eb23c1": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nO presidente convoca as reuniões do Comité.\n\nO secretariado do Comité é assegurado pela Comissão.\n\nO Comité estabelece o seu regulamento interno. Artigo 11º\n\n1. A acção comunitária é prevista para um período de cinco anos a partir de 1 de Janeiro de 1987.\n\n2. A Comunidade participará nesta acção dentro do limite das dotações consideradas para este efeito no orçamento das Comunidades Europeias e segundo as modalidades previstas no presente regulamento. O custo previsível da acção a cargo da Comunidade eleva-se, para o período previsto, a 10 milhões de ECUs.\n\n3. Antes de 1 de Julho de 1989 e com base nos relatórios de 1987 e 1988 referidos no artigo 15º, o Conselho procederá, sob proposta da Comissão, ao reexame dos aspectos financeiros do presente regulamento.\n\n4. Antes do termo do período referido no nº 1, o presente regulamento será submetido a reexame do Conselho, sob proposta da Comissão."
+  },
+  "183cba558f9993dc": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nA participação financeira da Comunidade nas medidas que a acção comunitária comporta, é aprovada nos seguintes termos:\n\n1) Inventário periódico e rede de postos de observação (artigo 2º):\n\n30 %, no máximo, das despesas aprovadas pela Comissão;\n\n2) Experiências, projectos-piloto e demonstração (artigo 4º):\n\n30 %, no máximo, das despesas aprovadas pela Comissão."
+  },
+  "ee204b40b6b9abe8": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nOs Estados-membros designarão os serviços e organismos habilitados a executar as medidas tomadas por força do presente regulamento, bem como os serviços e organismos aos quais os serviços da Comissão reembolsarão os montantes financeiros correspondentes à participação financeira da Comunidade."
+  },
+  "6bed8ca1ed1ec0b4": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nOs Estados-membros tomarão, de acordo com as disposições legislativas, regulamentares e administrativas nacionais, as medidas necessárias para:\n\n- se certificarem da realidade e da regularidade das operações financiadas pela Comunidade,\n\n- prevenir as irregularidades,\n\n- recuperar as somas perdidas em resultado de irregularidade ou negligência.\n\nOs Estados-membros porão ao dispor da Comissão todas as informações necessárias e tomarão todas as medidas susceptíveis de facilitar os controlos que a Comissão possa considerar útil efectuar no âmbito da gestão do financiamento comunitário, incluindo as verificações no local. Os Estados-membros informarão a Comissão das medidas tomadas para o efeito."
+  },
+  "b2c751c5462a4bac": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nA Comissão apresentará anualmente ao Parlamento Europeu e ao Conselho um relatório da actividade no sector regido pelo presente regulamento."
+  },
+  "827fed597cdc15af": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 17 de Novembro de 1986.\n\nPelo Conselho\n\nO Presidente\n\nM. JOPLING\n\n(1) JO nº C 187 de 13. 7. 1983, p. 9.\n\n(2) JO nº C 172 de 2. 7. 1984, p. 87.\n\n(3) JO nº C 358 de 31. 12. 1983, p. 50."
+  }
+ }
+}

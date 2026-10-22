@@ -1,0 +1,179 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000R0555:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R0555-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "2000-03-16",
+   "future": false,
+   "celex": "32000R0555",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "046df421de08ffce",
+    "2af403f316369753",
+    "be754ee01177bdbb",
+    "1f45132c3b9e5e04",
+    "1600f7ac20371e0a",
+    "40070e61f5d11188",
+    "797e688fba7bfe9a",
+    "50d6e597a082eee1",
+    "d55e487a20a88371",
+    "babb65d987c268db",
+    "f3b694289897ef6a",
+    "34482820acb65f4d",
+    "4fb7c62c7a9780c2",
+    "041cf1487e2d7da2"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "02000R0555-20070101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime ANEXO — CRITÉRIOS E CONDIÇÕES MÍNIMAS APLICÁVEIS À GESTÃO DESCENTRALIZADA POR PARTE DOS ORGANISMOS DE EXECUÇÃO DOS PAÍSES CANDIDATOS (ARTIGO 7.o)"
+   ],
+   "fragments": [
+    "51aa0c162ef7b679"
+   ]
+  }
+ ],
+ "fragments": {
+  "046df421de08ffce": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.o 555/2000 do Conselho, de 13 de Março de 2000, relativo à execução de acções no âmbito da estratégia de pré-adesão da República de Chipre e da República de Malta** *Jornal Oficial nº L 068 de 16/03/2000 p. 0003 - 0006*\n\nREGULAMENTO (CE) N.o 555/2000 DO CONSELHO\n\nde 13 de Março de 2000\n\nrelativo à execução de acções no âmbito da estratégia de pré-adesão da República de Chipre e da República de Malta\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 308.o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu(1),\n\nConsiderando o seguinte:\n\n(1) Os Conselhos de Março e Abril de 1995 decidiram que as negociações para a adesão de Chipre e de Malta teriam início seis meses após o termo da Conferência Intergovernamental.\n\n(2) O Conselho Europeu do Luxemburgo de Dezembro de 1997 definiu uma estratégia de pré-adesão específica para Chipre, tendo igualmente considerado que a adesão de Chipre viria a beneficiar as duas comunidades da ilha e contribuir para a paz civil e para a reconciliação.\n\n(3) Na sequência do Conselho Europeu de Viena de Dezembro de 1998, que se congratulou com a decisão de Malta de reactivar o seu pedido de adesão à União Europeia, a Comissão apresentou, em Fevereiro de 1999, uma actualização do seu parecer de 1993.\n\n(4) O Conselho de Março de 1999 convidou a Comissão a apresentar o mais brevemente possível sugestões adequadas para a definição de uma estratégia de pré-adesão específica para Malta.\n\n(5) É necessário instituir para Chipre e para Malta os instrumentos das parcerias de adesão segundo o processo definido no Regulamento (CE) n.o 622/98(2), para os países candidatos da Europa Central e Oriental, por forma a concentrar a assistência da Comunidade Europeia nas prioridades e objectivos da adesão.\n\n(6) As disposições do presente regulamento baseiam-se nos critérios políticos fixados pelo Conselho Europeu de Copenhaga de 1993, nomeadamente o respeito pelos princípios democráticos, o Estado de direito, os direitos do Homem e as liberdades fundamentais, assim como o respeito pelo direito internacional, elementos essenciais das políticas da União Europeia e dos seus Estados-Membros.\n\n(7) Os protocolos financeiros celebrados com Chipre e Malta caducaram em 31 de Dezembro de 1999.\n\n(8) O presente regulamento substitui os protocolos financeiros para Chipre e Malta por um período de cinco anos a partir do ano 2000.\n\n(9) No que se refere a acções de interesse regional, Chipre e Malta podem beneficiar de financiamento ao abrigo da rubrica orçamental MEDA.\n\n(10) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(3).\n\n(11) É inserido no presente regulamento, para a totalidade do período de vigência, um montante de referência financeira, na acepção do ponto 34 do Acordo interinstitucional, de 6 de Maio de 1999, entre o Parlamento Europeu, o Conselho e a Comissão sobre a disciplina orçamental e a melhoria do processo orçamental(4), sem que por isso sejam afectados os poderes da autoridade orçamental definidos no Tratado.\n\n(12) A aplicação do presente regulamento contribui para a realização dos objectivos da Comunidade. O Tratado não prevê outros poderes para a aprovação do presente regulamento, para além dos do artigo 308.o,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "2af403f316369753": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A estratégia de pré-adesão da União Europeia em relação a Chipre e a Malta baseia-se essencialmente nos seguintes aspectos:\n\n- estabelecimento de parcerias de adesão com Chipre e com Malta,\n\n- apoio a acções prioritárias de preparação da adesão, definidas no âmbito das parcerias acima referidas com cada um dos países, tal como resultam da análise da situação económica de cada país e tendo em conta os critérios políticos e económicos e as obrigações inerentes à qualidade de país membro da União Europeia conforme definidos pelo Conselho Europeu,\n\n- participação em determinados programas e agências comunitárias.\n\n2. O Conselho, sob proposta da Comissão, decide por maioria qualificada sobre os princípios, as prioridades, os objectivos intercalares e as condições de cada parceria de adesão a apresentar a Chipre e a Malta, bem como sobre posteriores adaptações significativas."
+  },
+  "be754ee01177bdbb": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do disposto no artigo 1.o, e por um período que se prolonga até 31 de Dezembro de 2004, o montante de referência financeira para a aplicação do presente regulamento é de 95 milhões de euros. As dotações anuais são autorizadas pela autoridade orçamental dentro dos limites das perspectivas financeiras."
+  },
+  "1f45132c3b9e5e04": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPodem beneficiar dos projectos e das acções de cooperação não apenas os Estados e as regiões de Chipre e de Malta, mas também as autoridades locais, as organizações regionais, os organismos públicos, as comunidades locais ou tradicionais, as organizações de apoio às empresas, as cooperativas e a sociedade civil, nomeadamente as organizações representativas de parceiros sociais, as associações, as fundações e as organizações não lucrativas e não governamentais."
+  },
+  "1600f7ac20371e0a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs projectos e as acções de cooperação devem assumir a forma de ajudas não reembolsáveis e podem ser financiados num dos seguintes domínios, que se citam a título indicativo:\n\n- assistência técnica, formação ou outros serviços, fornecimentos e obras, bem como auditorias e missões de avaliação e controlo no âmbito dos objectivos descritos no artigo 1.o,\n\n- no caso de Chipre, qualquer acção que contribua para a reconciliação das duas comunidades."
+  },
+  "40070e61f5d11188": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. O financiamento comunitário pode cobrir, nomeadamente, as despesas de investimento, com exclusão da compra de bens imóveis e de gastos correntes (que abrangem as despesas de administração, de manutenção e de funcionamento), tendo em conta que o projecto deve ter por objectivo a assunção dos gastos correntes pelos beneficiários.\n\n2. Para cada acção de cooperação deve solicitar-se uma contribuição financeira dos parceiros definidos no artigo 3.o Esta contribuição deve ser solicitada dentro dos limites das possibilidades dos parceiros em questão, bem como em função da natureza de cada acção. Em determinadas situações específicas, e desde que o parceiro seja uma organização não governamental ou uma organização de base comunitária, a contribuição pode ser em espécie.\n\n3. É possível explorar possibilidades de co-financiamento com outros doadores, em especial os Estados-Membros.\n\n4. A Comissão, em cooperação com os Estados-Membros, pode tomar todas as iniciativas necessárias à garantia de uma boa coordenação com os restantes doadores."
+  },
+  "797e688fba7bfe9a": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNa falta de algum elemento considerado essencial para a continuação da concessão de ajudas de pré-adesão, especialmente se os compromissos assumidos no âmbito dos acordos de associação não forem respeitados e/ou sempre que os progressos com vista à realização dos critérios de Copenhaga forem insuficientes, o Conselho, deliberando por maioria qualificada sob proposta da Comissão, pode tomar medidas adequadas no que se refere à ajuda de pré-adesão concedida a Chipre ou a Malta."
+  },
+  "50d6e597a082eee1": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A Comissão aplicará a ajuda comunitária segundo as regras de transparência e o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias, nomeadamente o artigo 114.o\n\n2. A ajuda de pré-adesão abrange igualmente as despesas relativas ao acompanhamento, inspecção e avaliação das intervenções efectuadas.\n\n3. A avaliação prévia dos projectos e programas terá em conta os seguintes aspectos:\n\na) A eficácia e viabilidade dos projectos e programas;\n\nb) O ambiente;\n\nc) O desenvolvimento institucional necessário para atingir os objectivos dos projectos e dos programas;\n\nd) A experiência adquirida com projectos e programas do mesmo tipo (culturais, sociais, relativos à igualdade dos sexos).\n\n4. A Comissão, com base numa análise, efectuada caso a caso, da capacidade de gestão dos programas/projectos nacionais e sectoriais, dos procedimentos de controlo financeiro e das estruturas relativas às finanças públicas, pode decidir conceder uma derrogação ao requisito de aprovação prévia previsto no n.o 3 e confiar a gestão descentralizada das ajudas a organismos de execução dos países candidatos. Essa derrogação depende de:\n\na) Critérios mínimos de avaliação da capacidade de gestão das ajudas por parte dos organismos de execução dos países candidatos, bem como de condições mínimas aplicáveis a estes organismos, descritas no anexo do presente regulamento;\n\nb) Condições específicas relativas, nomeadamente, à abertura de concursos, à selecção e avaliação das propostas, à adjudicação de contratos e à execução das directivas comunitárias em matéria de contratos públicos, que serão estabelecidas nas condições de financiamento concluídas com cada um dos países beneficiários.\n\n5. As decisões relativas aos projectos e programas cujo financiamento, ao abrigo do presente regulamento, exceda 300000 euros por projecto e programa devem ser adoptadas nos termos do n.o 2 do artigo 8.o\n\nA Comissão deve informar o comité a que se refere o artigo 8.o das decisões de financiamento que tenciona adoptar no que se refere a projectos e programas de valor inferior a 300000 euros. Esta informação será prestada o mais tardar uma semana antes da tomada da decisão.\n\n6. A Comissão pode aprovar, sem recorrer ao parecer do comité a que se refere o artigo 8.o, as ajudas adicionais necessárias à cobertura dos excedentes previsíveis ou registados a título desses projectos e programas, desde que o excedente ou a necessidade adicional seja inferior ou igual a 20 % da ajuda inicial fixada pela decisão de financiamento.\n\n7. Qualquer convenção ou contrato de financiamento celebrado ao abrigo do presente regulamento deve prever, nomeadamente, a possibilidade de a Comissão e de o Tribunal de Contas poderem proceder a verificações no local segundo os procedimentos definidos pela Comissão no âmbito das disposições em vigor, em especial as do Regulamento Financeiro aplicável ao orçamento geral da União Europeia.\n\n8. Na medida em que os projectos e programas beneficiem de convenções de financiamento entre a Comunidade, por um lado, e Chipre e Malta, por outro, estas devem prever que o pagamento de impostos, direitos e encargos não seja financiado pela Comunidade.\n\n9. A participação em concursos e contratos encontra-se aberta em igualdade de condições a todas as pessoas singulares e colectivas dos Estados-Membros, de Chipre e de Malta.\n\n10. Os fornecimentos serão originários dos Estados-Membros, de Chipre ou de Malta."
+  },
+  "d55e487a20a88371": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A Comissão é assistida pelo comité previsto no n.o 1 do artigo 9.o do Regulamento (CEE) n.o 3906/89 do Conselho, adiante designado \"comité\".\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.o e 7.o da Decisão 1999/468/CE.\n\nO prazo previsto no artigo 4.o da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "babb65d987c268db": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nProceder-se-á anualmente a um intercâmbio de opiniões com base na apresentação por parte do representante da Comissão das orientações gerais relativas às acções a desenvolver no ano seguinte, no âmbito de uma reunião do comité a que se refere o artigo 8.o"
+  },
+  "f3b694289897ef6a": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA Comissão avaliará periodicamente as acções financiadas pela Comunidade, a fim de determinar se foram alcançados os objectivos visados por estas acções, e para proporcionar orientações destinadas a melhorar a eficácia das acções futuras. A Comissão deve submeter um resumo das avaliações realizadas à apreciação do comité a que se refere o artigo 8.o, que as poderá eventualmente examinar. Os relatórios de avaliação serão enviados aos Estados-Membros que o requeiram, bem como ao Parlamento Europeu."
+  },
+  "34482820acb65f4d": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA Comissão deve apresentar ao Parlamento Europeu e ao Conselho uma avaliação anual de conjunto das acções financiadas pela Comunidade ao abrigo do presente regulamento, acompanhada de propostas no que se refere ao futuro do regulamento e, se necessário, de propostas para a sua alteração."
+  },
+  "4fb7c62c7a9780c2": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 13 de Março de 2000.\n\nPelo Conselho\n\nO Presidente\n\nJ. PINA MOURA\n\n(1) Parecer emitido em 17 de Fevereiro de 2000 (ainda não publicado no Jornal Oficial).\n\n(2) Regulamento (CE) n.o 622/98 do Conselho, de 16 de Março de 1998, relativo à assistência aos Estados candidatos à adesão à União Europeia no contexto de uma estratégia de pré-adesão e, em particular, à instituição de parcerias de adesão (JO L 85 de 20.3.1998, p. 1).\n\n(3) JO L 184 de 17.7.1999, p. 23. (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n(4) JO C 172 de 18.6.1999, p. 1."
+  },
+  "041cf1487e2d7da2": {
+   "fragment_id": "ANEXO — CRITÉRIOS E CONDIÇÕES MÍNIMAS APLICÁVEIS À GESTÃO DESCENTRALIZADA POR PARTE DOS ORGANISMOS DE EXECUÇÃO DOS PAÍSES CANDIDATOS (ARTIGO 7.o)",
+   "type": "divisao",
+   "heading": "ANEXO — CRITÉRIOS E CONDIÇÕES MÍNIMAS APLICÁVEIS À GESTÃO DESCENTRALIZADA POR PARTE DOS ORGANISMOS DE EXECUÇÃO DOS PAÍSES CANDIDATOS (ARTIGO 7.o)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — CRITÉRIOS E CONDIÇÕES MÍNIMAS APLICÁVEIS À GESTÃO DESCENTRALIZADA POR PARTE DOS ORGANISMOS DE EXECUÇÃO DOS PAÍSES CANDIDATOS (ARTIGO 7.o)\n\n1. Critérios mínimos para avaliação da capacidade de gestão das ajudas dos organismos de execução dos países candidatos\n\nA Comissão aplica os seguintes critérios para determinar quais os organismos de execução dos países candidatos com capacidade de gestão das ajudas conseguidas no âmbito de uma gestão descentralizada:\n\na) Devem dispor de um sistema de gestão de fundos bem concebido, de um regulamento interno completo e de responsabilidades institucionais e pessoais claramente definidas;\n\nb) Deve-se observar o princípio da separação de poderes, por forma a evitar qualquer risco de conflito de interesses no âmbito dos concursos e dos pagamentos;\n\nc) Deve existir pessoal suficiente disponível e afectado às funções previstas. Este deverá possuir as qualificações, experiência e competências linguísticas necessárias, bem como dispor de formação completa para a execução de programas comunitários.\n\n2. Condições mínimas segundo as quais é possível confiar uma gestão descentralizada aos organismos de execução dos países candidatos\n\nÉ possível considerar a possibilidade de confiar a um organismo de execução de um país candidato uma gestão descentralizada acompanhada de um controlo ex post por parte da Comissão, desde que se encontrem preenchidas as seguintes condições:\n\na) O organismo em questão deve demonstrar que dispõe de um controlo interno eficaz, incluindo uma função de auditoria independente e um sistema eficaz de informação contabilística e financeira, que observe as normas internacionalmente reconhecidas em matéria de auditorias;\n\nb) Deve ser feita uma auditoria financeira e operacional recente que demonstre que a ajuda comunitária às acções nacionais do mesmo tipo são geridas de forma eficaz e em tempo útil;\n\nc) Deve ser exercido um controlo financeiro nacional fiável sobre o organismo de execução;\n\nd) As regras relativas aos concursos devem ser aprovadas pela Comissão, que reconhece dessa forma que aquelas respondem às exigências do título IX do Regulamento Financeiro aplicável ao orçamento geral da União Europeia;\n\ne) O gestor orçamental nacional deve comprometer-se a assumir integralmente a responsabilidade financeira pela gestão dos fundos.\n\nEsta abordagem não prejudica o direito da Comissão e do Tribunal de Contas de exercerem um controlo sobre as despesas."
+  },
+  "51aa0c162ef7b679": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2000R0555 — PT — 01.01.2007 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32000R0555) [REGULAMENTO (CE) N.º 555/2000 DO CONSELHO](http://publications.europa.eu/resource/celex/32000R0555) [de 13 de Março de 2000](http://publications.europa.eu/resource/celex/32000R0555) [relativo à execução de acções no âmbito da estratégia de pré-adesão da República de Chipre e da República de Malta](http://publications.europa.eu/resource/celex/32000R0555) (JO L 068, 16.3.2000, p.3)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1085/2006 do Conselho de 17 de Julho de 2006](http://publications.europa.eu/resource/celex/32006R1085) — L 210 — 82 — 31.7.2006"
+  }
+ }
+}

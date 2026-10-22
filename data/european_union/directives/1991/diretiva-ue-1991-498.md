@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '1995-01-01'
+version_history:
+  file: diretiva-ue-1991-498.versoes.json
+  count: 1
+  source_lastmod: '1995-01-01'
+  versions:
+  - date: '1995-01-01'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 31991L0498
   eli: http://data.europa.eu/eli/dir/1991/498/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/edda9e89-8047-44de-870a-1167889518ff.0011
   content_url: http://publications.europa.eu/resource/cellar/234a20a8-a331-4897-8546-221e712e0e11.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0498-19950101
-  retrieved_at: '2026-10-22T02:55:30Z'
+  retrieved_at: '2026-10-22T14:39:25Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-14T17:17:01.225+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:55:30Z'
-  notes: Texto consolidado 01991L0498-19950101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:39:25Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-1991-498.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -118,15 +127,15 @@ relationships:
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:55:30Z'
+  checked_at: '2026-10-22T14:39:25Z'
   warnings:
-  - Não foi detetado o título principal no XHTML.
+  - '01991L0498-19910822: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

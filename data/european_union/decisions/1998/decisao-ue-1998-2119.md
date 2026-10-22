@@ -35,6 +35,91 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-11-06'
+version_history:
+  file: decisao-ue-1998-2119.versoes.json
+  count: 4
+  source_lastmod: '2013-11-06'
+  versions:
+  - date: '1998-10-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-12-28'
+    amending: eu:celex:32003D0534:por
+    amending_title: M1; REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003; DECISÃO
+      DA COMISSÃO de 18 de Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita ANEXO
+    - Adita LISTA INDICATIVA DAS CATEGORIAS DE DOENÇAS TRANSMISSÍVEIS
+    - Adita Notas
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º — O anexo poderá ser alterado ou completado nos termos do artigo 7º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Artigo 15º
+    - Suprime Artigo 16º
+    - Suprime ANEXO — LISTA INDICATIVA DAS CATEGORIAS DE DOENÇAS TRANSMISSÍVEIS
+  - date: '2009-08-07'
+    amending: eu:celex:32009R0596:por
+    amending_title: REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Notas
+  - date: '2013-11-06'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime ANEXO
+    - Suprime LISTA INDICATIVA DAS CATEGORIAS DE DOENÇAS TRANSMISSÍVEIS
+    - Suprime Notas
 identifiers:
   celex: 31998D2119
   eli: http://data.europa.eu/eli/dec/1998/2119/oj
@@ -49,7 +134,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/293fab95-972a-4d0c-ba28-45d9055fe1a3.0011
   content_url: http://publications.europa.eu/resource/cellar/1465a334-03f2-425c-9d07-1057009b4746.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998D2119-20131106
-  retrieved_at: '2026-10-22T02:44:37Z'
+  retrieved_at: '2026-10-22T14:46:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-13T15:06:00.082+02:00'
 integrity:
@@ -58,9 +143,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:37Z'
-  notes: Texto consolidado 01998D2119-20131106.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:34Z'
+  notes: 4 versão(ões); histórico completo em decisao-ue-1998-2119.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -175,16 +260,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:37Z'
+  checked_at: '2026-10-22T14:46:34Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01998D2119-19990103: versão indisponível (Sem expressão na língua por para CELEX 01998D2119-19990103.)'
+  - '01998D2119-20030723: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998D2119-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -34,6 +34,101 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-02-16'
+version_history:
+  file: diretiva-ue-1968-193.versoes.json
+  count: 3
+  source_lastmod: '2020-02-16'
+  versions:
+  - date: '1968-04-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-07-14'
+    amending: eu:celex:31971L0140:por
+    amending_title: DIRECTIVA DO CONSELHO 71/140/CEE de 22 de Março de 1971; DIRECTIVA DO CONSELHO 74/648/CEE de 9 de Dezembro
+      de 1974; M3; M4; M5; M6; M7; M8; DIRECTIVA DO CONSELHO 88/332/CEE de 13 de Junho de 1988; DIRECTIVA DO CONSELHO 90/654/CEE
+      de 4 de Dezembro de 1990; DIRECTIVA 2002/11/CE DO CONSELHO de 14 de Fevereiro de 2002; DIRECTIVA 2003/61/CE DO CONSELHO
+      de 18 de Junho de 2003; REGULAMENTO (CE) N. o 1829/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Setembro de 2003;
+      DIRECTIVA 2005/43/CE DA COMISSÃO de 23 de Junho de 2005; Acto de Adesão da Áustria, da Finlândia e da Suécia; Acto de
+      Adesão da Dinamarca, da Irlanda e do Reino Unido da Grã-Bretanha e da Irlanda do Norte; Acto de Adesão da Grécia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 5.º A
+    - Adita Artigo 5.ºB
+    - Adita Artigo 5.ºBA
+    - Adita Artigo 5.ºC
+    - Adita Artigo 5.º D
+    - Adita Artigo 5.º E
+    - Adita Artigo 5.ºF
+    - Adita Artigo 5.ºG
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 10.ºA
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 12.ºA
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 14.ºA
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 16.ºA
+    - Adita Artigo 16.ºB
+    - Adita Artigo 17.º
+    - Adita Artigio 17.º A
+    - Adita Artigo 18.º
+    - Adita Artigo 18.º A
+    - Adita Artigo 18.º B
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita ANEXO I
+    - Adita CONDIÇÕES RELATIVAS À CULTURA
+    - Adita ANEXO II
+    - Adita CONDIÇÕES RELATIVAS AOS MATERIAIS DE PROPAGAÇÃO
+  - date: '2020-02-16'
+    amending: eu:celex:32020L0177:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2020/177 DA COMISSÃO Texto relevante para efeitos do EEE de 11 de fevereiro
+      de 2020; ACTO relativo às condições de adesão e às adaptações dos Tratados; ACTO relativo às condições de adesão da
+      República Helénica e às adaptações dos Tratados; ACTO (94/C 241/08)
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 5.ºBA
+    - Altera Artigo 10.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º B
+    - Altera CONDIÇÕES RELATIVAS À CULTURA
+    - Altera I. CONDIÇÕES GERAIS
+    - Altera 1. Estacas para enxertar, estacas para enraizar e garfos
+    - Altera Notas
+    - 'Adita Secção 1: Identidade, pureza e condições de cultura'
+    - 'Adita Secção 2: Requisitos sanitários para as vinhas-mãe destinadas à produção de todas as categorias de material de
+      propagação e para os viveiros de todas as categorias'
+    - 'Adita Secção 3: Requisitos relativos ao solo e condições de produção para as vinhas-mãe destinadas à produção de todas
+      as categorias de material de propagação e para os viveiros de todas as categorias de material de propagação'
+    - 'Adita Secção 4: Requisitos aplicáveis ao sítio de produção, ao local de produção ou à área'
+    - 'Adita Secção 5: Inspeções oficiais'
+    - 'Adita Secção 6: Lista das RNQP para as quais a inspeção visual e, em caso de dúvidas, a amostragem e a análise são
+      necessárias para determinar a respetiva presença nos termos da secção 2, ponto 2'
+    - 'Adita Secção 7: Lista das RNQP para as quais a inspeção visual e, em casos específicos, a amostragem e a análise são
+      necessárias para determinar a respetiva presença nos termos da secção 2, ponto 2, e da secção 8'
+    - 'Adita Secção 8: Requisitos relativos às medidas para as vinhas-mãe de Vitis L. e, se for caso disso, para os viveiros
+      por categoria, nos termos da secção 2, ponto 2'
+    - Adita 1. Material de propagação inicial, material de propagação básico e material certificado
+    - Adita 2. Material de propagação inicial
+    - Adita 3. Material de propagação básico
+    - Adita 4. Material certificado
+    - Adita 5. Material de propagação inicial, material de propagação básico e material certificado
+    - Adita 6. Materiais standard
 identifiers:
   celex: 31968L0193
   eli: http://data.europa.eu/eli/dir/1968/193/oj
@@ -48,7 +143,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/862c438d-474a-46cc-9354-984565002e96.0011
   content_url: http://publications.europa.eu/resource/cellar/f98aae55-68a1-11ea-b735-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01968L0193-20200216
-  retrieved_at: '2026-10-22T02:40:56Z'
+  retrieved_at: '2026-10-22T14:29:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-06-27T11:21:16.181+02:00'
 integrity:
@@ -57,9 +152,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:56Z'
-  notes: Texto consolidado 01968L0193-20200216.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:29:19Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1968-193.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -209,52 +304,36 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 35
-  section_count: 51
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  article_count: 34
+  section_count: 53
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:56Z'
-  warnings: []
+  checked_at: '2026-10-22T14:29:19Z'
+  warnings:
+  - '01968L0193-19710324: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01968L0193-19730101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01968L0193-19741212: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01968L0193-19770930: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01968L0193-19771229: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01968L0193-19780731: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01968L0193-19810101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01968L0193-19820511: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01968L0193-19860101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01968L0193-19860429: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01968L0193-19880629: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01968L0193-19901213: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01968L0193-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01968L0193-20020223: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01968L0193-20030710: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01968L0193-20040418: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 68/193/CEE do Conselho, de 9 de Abril de 1968
-
-> 01968L0193 — PT — 16.02.2020 — 018.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/31971L0140) — [DIRECTIVA DO CONSELHO 71/140/CEE de 22 de Março de 1971](http://publications.europa.eu/resource/celex/31971L0140) — L 71 — 16 — 25.3.1971
-- [►M2](http://publications.europa.eu/resource/celex/31974L0648) — [DIRECTIVA DO CONSELHO 74/648/CEE de 9 de Dezembro de 1974](http://publications.europa.eu/resource/celex/31974L0648) — L 352 — 43 — 28.12.1974
-- [M3](http://publications.europa.eu/resource/celex/31977L0629) — [PRIMEIRA DIRECTIVA DA COMISSÃO 77/629/CEE de 28 de Setembro de 1977](http://publications.europa.eu/resource/celex/31977L0629) — L 257 — 27 — 8.10.1977
-- [M4](http://publications.europa.eu/resource/celex/31978L0055) — [DIRECTIVA DO CONSELHO 78/55/CEE de 19 de Dezembro de 1977](http://publications.europa.eu/resource/celex/31978L0055) — L 16 — 23 — 20.1.1978
-- [M5](http://publications.europa.eu/resource/celex/31978L0692) — [DIRECTIVA DO CONSELHO 78/692/CEE de 25 de Julho de 1978](http://publications.europa.eu/resource/celex/31978L0692) — L 236 — 13 — 26.8.1978
-- [M6](http://publications.europa.eu/resource/celex/31982L0331) — [DIRECTIVA DA COMISSÃO 82/331/CEE de 6 de Maio de 1982](http://publications.europa.eu/resource/celex/31982L0331) — L 148 — 47 — 27.5.1982
-- [M7](http://publications.europa.eu/resource/celex/31985R3768) — [REGULAMENTO (CEE) N.º 3768/85 DO CONSELHO de 20 de Dezembro de 1985](http://publications.europa.eu/resource/celex/31985R3768) — L 362 — 8 — 31.12.1985
-- [M8](http://publications.europa.eu/resource/celex/31986L0155) — [DIRECTIVA DO CONSELHO 86/155/CEE de 22 de Abril de 1986](http://publications.europa.eu/resource/celex/31986L0155) — L 118 — 23 — 7.5.1986
-- [►M9](http://publications.europa.eu/resource/celex/31988L0332) — [DIRECTIVA DO CONSELHO 88/332/CEE de 13 de Junho de 1988](http://publications.europa.eu/resource/celex/31988L0332) — L 151 — 82 — 17.6.1988
-- [►M10](http://publications.europa.eu/resource/celex/31990L0654) — [DIRECTIVA DO CONSELHO 90/654/CEE de 4 de Dezembro de 1990](http://publications.europa.eu/resource/celex/31990L0654) — L 353 — 48 — 17.12.1990
-- [►M11](http://publications.europa.eu/resource/celex/32002L0011) — [DIRECTIVA 2002/11/CE DO CONSELHO de 14 de Fevereiro de 2002](http://publications.europa.eu/resource/celex/32002L0011) — L 53 — 20 — 23.2.2002
-- [►M12](http://publications.europa.eu/resource/celex/32003L0061) — [DIRECTIVA 2003/61/CE DO CONSELHO de 18 de Junho de 2003](http://publications.europa.eu/resource/celex/32003L0061) — L 165 — 23 — 3.7.2003
-- [►M13](http://publications.europa.eu/resource/celex/32003R1829) — [REGULAMENTO (CE) N.º 1829/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1829) — L 268 — 1 — 18.10.2003
-- [►M14](http://publications.europa.eu/resource/celex/32005L0043) — [DIRECTIVA 2005/43/CE DA COMISSÃO de 23 de Junho de 2005](http://publications.europa.eu/resource/celex/32005L0043) — L 164 — 37 — 24.6.2005
-- [►M15](http://publications.europa.eu/resource/celex/32020L0177) — [DIRETIVA DE EXECUÇÃO (UE) 2020/177 DA COMISSÃO Texto relevante para efeitos do EEE de 11 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020L0177) — L 41 — 1 — 13.2.2020
-
-**Alterada por:**
-
-- [A1](http://publications.europa.eu/resource/celex/11972B%2FACT) — [ACTO relativo às condições de adesão e às adaptações dos Tratados](http://publications.europa.eu/resource/celex/11972B%2FACT) — L 73 — 14 — 27.3.1972
-- L 002 — 1 — ..
-- [A2](http://publications.europa.eu/resource/celex/11979H%2FACT) — [ACTO relativo às condições de adesão da República Helénica e às adaptações dos Tratados](http://publications.europa.eu/resource/celex/11979H%2FACT) — L 291 — 17 — 19.11.1979
-- [A3](http://publications.europa.eu/resource/celex/11994N%2FACT) — [ACTO (94/C 241/08)](http://publications.europa.eu/resource/celex/11994N%2FACT) — C 241 — 21 — 29.8.1994
-- L 001 — 1 — ..
-
-## DIRECTIVA DO CONSELHO
 
 de 9 de Abril de 1968
 

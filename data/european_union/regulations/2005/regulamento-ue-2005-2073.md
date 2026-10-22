@@ -35,6 +35,220 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-01'
+version_history:
+  file: regulamento-ue-2005-2073.versoes.json
+  count: 11
+  source_lastmod: '2026-07-01'
+  versions:
+  - date: '2005-12-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 12.º
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita ANEXO I
+    - Adita Critérios microbiológicos aplicáveis aos géneros alimentícios
+    - Adita Capítulo 1. Critérios de segurança dos géneros alimentícios
+    - Adita Interpretação dos resultados dos testes
+    - Adita Capítulo 2. Critérios de higiene dos processos
+    - Adita 2.1. Carne e produtos derivados
+    - Adita 2.2. Leite e produtos lácteos
+    - Adita 2.3. Ovoprodutos
+    - Adita 2.4. Produtos da pesca
+    - Adita 2.5. Produtos hortícolas, frutas e produtos derivados
+    - Adita Capítulo 3. Regras em matéria de amostragem e preparação de amostras para análise
+    - Adita 3.1. Regras gerais em matéria de amostragem e preparação de amostras para análise
+    - Adita 3.2. Amostragem para análise bacteriológica em matadouros e em estabelecimentos de produção de carne picada e
+      de preparados de carne
+    - Adita ANEXO II
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Requisitos gerais
+    - Suprime Artigo 4.º — Testes baseados em critérios
+    - Suprime Artigo 5.º — Regras específicas em matéria de testes e amostragem
+    - Suprime Artigo 6.º — Requisitos de rotulagem
+    - Suprime Artigo 7.º — Resultados não satisfatórios
+    - Suprime Artigo 8.º — Derrogação transitória
+    - Suprime Artigo 9.º — Análise das tendências
+    - Suprime Artigo 10.º — Reexame
+    - Suprime Artigo 11.º — Revogação
+  - date: '2007-12-27'
+    amending: eu:celex:32007R1441:por
+    amending_title: REGULAMENTO (CE) N. o 1441/2007 DA COMISSÃO de 5 de Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Capítulo 1. Critérios de segurança dos géneros alimentícios
+    - Altera Interpretação dos resultados dos testes
+    - Altera 2.1. Carne e produtos derivados
+    - Altera 2.2. Leite e produtos lácteos
+    - Altera 2.3. Ovoprodutos
+    - Altera 2.4. Produtos da pesca
+    - Altera 2.5. Produtos hortícolas, frutas e produtos derivados
+    - Altera 3.1. Regras gerais em matéria de amostragem e preparação de amostras para análise
+    - Altera 3.2. Amostragem para análise bacteriológica em matadouros e em estabelecimentos de produção de carne picada e
+      de preparados de carne
+    - Altera Notas
+  - date: '2010-05-19'
+    amending: eu:celex:32010R0365:por
+    amending_title: REGULAMENTO (UE) N. o 365/2010 DA COMISSÃO de 28 de Abril de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Capítulo 1. Critérios de segurança dos géneros alimentícios
+    - Altera Interpretação dos resultados dos testes
+    - Altera 2.1. Carne e produtos derivados
+    - Altera 2.2. Leite e produtos lácteos
+    - Altera 2.3. Ovoprodutos
+    - Altera 2.4. Produtos da pesca
+    - Altera 2.5. Produtos hortícolas, frutas e produtos derivados
+    - Altera Notas
+  - date: '2011-12-01'
+    amending: eu:celex:32011R1086:por
+    amending_title: REGULAMENTO (UE) N. o 1086/2011 DA COMISSÃO de 27 de Outubro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Capítulo 1. Critérios de segurança dos géneros alimentícios
+    - Altera Interpretação dos resultados dos testes
+    - Altera 2.1. Carne e produtos derivados
+    - Altera 2.2. Leite e produtos lácteos
+    - Altera 2.3. Ovoprodutos
+    - Altera 2.4. Produtos da pesca
+    - Altera 2.5. Produtos hortícolas, frutas e produtos derivados
+    - Altera Notas
+    - Adita 3.2. Amostragem para análise bacteriológica em matadouros e em estabelecimentos de produção de carne picada, de
+      preparados de carne, de carne separada mecanicamente e de carne fresca
+    - Suprime 3.2. Amostragem para análise bacteriológica em matadouros e em estabelecimentos de produção de carne picada
+      e de preparados de carne
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0209:por
+    amending_title: REGULAMENTO (UE) N. o 209/2013 DA COMISSÃO de 11 de março de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Critérios microbiológicos aplicáveis aos géneros alimentícios
+    - Altera Capítulo 1. Critérios de segurança dos géneros alimentícios
+    - Altera Interpretação dos resultados dos testes
+    - Altera 2.1. Carne e produtos derivados
+    - Altera 2.2. Leite e produtos lácteos
+    - Altera 2.3. Ovoprodutos
+    - Altera 2.4. Produtos da pesca
+    - Altera 2.5. Produtos hortícolas, frutas e produtos derivados
+    - Altera 3.2. Amostragem para análise bacteriológica em matadouros e em estabelecimentos de produção de carne picada,
+      de preparados de carne, de carne separada mecanicamente e de carne fresca
+    - Altera Notas
+    - Adita 3.3. Regras de amostragem para rebentos
+    - Adita A. Regras gerais em matéria de amostragem e realização de testes
+    - Adita 1. Testes preliminares aos lotes de sementes
+    - Adita 2. Amostragem e realização de testes aos rebentos e às águas de irrigação usadas
+    - Adita 3. Frequência de amostragem
+    - Adita B. Derrogação à realização de testes preliminares a todos os lotes de sementes prevista no ponto A.1 da presente
+      secção
+  - date: '2014-06-01'
+    amending: eu:celex:32013R1019:por
+    amending_title: REGULAMENTO (UE) N. o 1019/2013 DA COMISSÃO de 23 de outubro de 2013; REGULAMENTO (UE) N. o 217/2014 DA
+      COMISSÃO de 7 de março de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Capítulo 1. Critérios de segurança dos géneros alimentícios
+    - Altera Interpretação dos resultados dos testes
+    - Altera 2.1. Carne e produtos derivados
+    - Altera 2.2. Leite e produtos lácteos
+    - Altera 2.3. Ovoprodutos
+    - Altera 2.4. Produtos da pesca
+    - Altera 2.5. Produtos hortícolas, frutas e produtos derivados
+    - Altera Notas
+  - date: '2017-01-01'
+    amending: eu:celex:32015R2285:por
+    amending_title: REGULAMENTO (UE) 2015/2285 DA COMISSÃO de 8 de dezembro de 2015
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Capítulo 1. Critérios de segurança dos géneros alimentícios
+    - Altera Interpretação dos resultados dos testes
+    - Altera 2.1. Carne e produtos derivados
+    - Altera 2.2. Leite e produtos lácteos
+    - Altera 2.3. Ovoprodutos
+    - Altera 2.4. Produtos da pesca
+    - Altera 2.5. Produtos hortícolas, frutas e produtos derivados
+    - Altera Notas
+  - date: '2018-01-01'
+    amending: eu:celex:32017R1495:por
+    amending_title: REGULAMENTO (UE) 2017/1495 DA COMISSÃO de 23 de agosto de 2017
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Critérios microbiológicos aplicáveis aos géneros alimentícios
+    - Altera Capítulo 1. Critérios de segurança dos géneros alimentícios
+    - Altera Interpretação dos resultados dos testes
+    - Altera 2.1. Carne e produtos derivados
+    - Altera 2.2. Leite e produtos lácteos
+    - Altera 2.3. Ovoprodutos
+    - Altera 2.4. Produtos da pesca
+    - Altera 2.5. Produtos hortícolas, frutas e produtos derivados
+    - Altera 3.2. Amostragem para análise bacteriológica em matadouros e em estabelecimentos de produção de carne picada,
+      de preparados de carne, de carne separada mecanicamente e de carne fresca
+    - Altera Notas
+  - date: '2020-03-08'
+    amending: eu:celex:32019R0229:por
+    amending_title: REGULAMENTO (UE) 2019/229 DA COMISSÃO de 7 de fevereiro de 2019; REGULAMENTO (UE) 2020/205 DA COMISSÃO
+      de 14 de fevereiro de 2020
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Capítulo 1. Critérios de segurança dos géneros alimentícios
+    - Altera Interpretação dos resultados dos testes
+    - Altera 2.1. Carne e produtos derivados
+    - Altera 2.2. Leite e produtos lácteos
+    - Altera 2.3. Ovoprodutos
+    - Altera 2.4. Produtos da pesca
+    - Altera 2.5. Produtos hortícolas, frutas e produtos derivados
+    - Altera Notas
+  - date: '2026-07-01'
+    amending: eu:celex:32024R2895:por
+    amending_title: REGULAMENTO (UE) 2024/2895 DA COMISSÃO de 20 de novembro de 2024
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Capítulo 1. Critérios de segurança dos géneros alimentícios
+    - Altera Interpretação dos resultados dos testes
+    - Altera 2.1. Carne e produtos derivados
+    - Altera 2.2. Leite e produtos lácteos
+    - Altera 2.3. Ovoprodutos
+    - Altera 2.4. Produtos da pesca
+    - Altera 2.5. Produtos hortícolas, frutas e produtos derivados
+    - Altera 3.3. Regras de amostragem para rebentos
+    - Altera Notas
+    - Suprime A. Regras gerais em matéria de amostragem e realização de testes
+    - Suprime 1. Testes preliminares aos lotes de sementes
+    - Suprime 2. Amostragem e realização de testes aos rebentos e às águas de irrigação usadas
+    - Suprime 3. Frequência de amostragem
+    - Suprime B. Derrogação à realização de testes preliminares a todos os lotes de sementes prevista no ponto A.1 da presente
+      secção
 identifiers:
   celex: 32005R2073
   eli: http://data.europa.eu/eli/reg/2005/2073/oj
@@ -49,7 +263,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d62db802-56e9-4052-888f-ff5def2fa0f2.0016
   content_url: http://publications.europa.eu/resource/cellar/98103e97-69be-11f1-ae88-01aa75ed71a1.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R2073-20260701
-  retrieved_at: '2026-10-22T02:39:06Z'
+  retrieved_at: '2026-10-22T15:00:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-03T12:12:18.885+01:00'
 integrity:
@@ -58,9 +272,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:06Z'
-  notes: Texto consolidado 02005R2073-20260701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:00:42Z'
+  notes: 11 versão(ões); histórico completo em regulamento-ue-2005-2073.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -324,47 +538,19 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 12
-  section_count: 15
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 16
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:06Z'
+  checked_at: '2026-10-22T15:00:42Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 2073/2005 da Comissão de 15 de Novembro de 2005
-
-> 02005R2073 — PT — 01.07.2026 — 010.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007R1441) — [REGULAMENTO (CE) N.º 1441/2007 DA COMISSÃO de 5 de Dezembro de 2007](http://publications.europa.eu/resource/celex/32007R1441) — L 322 — 12 — 7.12.2007
-- [►M2](http://publications.europa.eu/resource/celex/32010R0365) — [REGULAMENTO (UE) N.º 365/2010 DA COMISSÃO de 28 de Abril de 2010](http://publications.europa.eu/resource/celex/32010R0365) — L 107 — 9 — 29.4.2010
-- [►M3](http://publications.europa.eu/resource/celex/32011R1086) — [REGULAMENTO (UE) N.º 1086/2011 DA COMISSÃO de 27 de Outubro de 2011](http://publications.europa.eu/resource/celex/32011R1086) — L 281 — 7 — 28.10.2011
-- [►M4](http://publications.europa.eu/resource/celex/32013R0209) — [REGULAMENTO (UE) N.º 209/2013 DA COMISSÃO de 11 de março de 2013](http://publications.europa.eu/resource/celex/32013R0209) — L 68 — 19 — 12.3.2013
-- [►M5](http://publications.europa.eu/resource/celex/32013R1019) — [REGULAMENTO (UE) N.º 1019/2013 DA COMISSÃO de 23 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R1019) — L 282 — 46 — 24.10.2013
-- [►M6](http://publications.europa.eu/resource/celex/32014R0217) — [REGULAMENTO (UE) N.º 217/2014 DA COMISSÃO de 7 de março de 2014](http://publications.europa.eu/resource/celex/32014R0217) — L 69 — 93 — 8.3.2014
-- [►M7](http://publications.europa.eu/resource/celex/32015R2285) — [REGULAMENTO (UE) 2015/2285 DA COMISSÃO de 8 de dezembro de 2015](http://publications.europa.eu/resource/celex/32015R2285) — L 323 — 2 — 9.12.2015
-- [►M8](http://publications.europa.eu/resource/celex/32017R1495) — [REGULAMENTO (UE) 2017/1495 DA COMISSÃO de 23 de agosto de 2017](http://publications.europa.eu/resource/celex/32017R1495) — L 218 — 1 — 24.8.2017
-- [►M9](http://publications.europa.eu/resource/celex/32019R0229) — [REGULAMENTO (UE) 2019/229 DA COMISSÃO de 7 de fevereiro de 2019](http://publications.europa.eu/resource/celex/32019R0229) — L 37 — 106 — 8.2.2019
-- [►M10](http://publications.europa.eu/resource/celex/32020R0205) — [REGULAMENTO (UE) 2020/205 DA COMISSÃO de 14 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020R0205) — L 43 — 63 — 17.2.2020
-- [►M11](http://publications.europa.eu/resource/celex/32024R2895) — [REGULAMENTO (UE) 2024/2895 DA COMISSÃO de 20 de novembro de 2024](http://publications.europa.eu/resource/celex/32024R2895) — L 2895 — 1 — 21.11.2024
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32005R2073R%2802%29) — [Rectificação, JO L 278, 10.10.2006, p. 32 (2073/2005)](http://publications.europa.eu/resource/celex/32005R2073R%2802%29)
-- [C2](http://publications.europa.eu/resource/celex/32005R2073R%2803%29) — [Rectificação, JO L 283, 14.10.2006, p. 62 (2073/2005)](http://publications.europa.eu/resource/celex/32005R2073R%2803%29)
-- [►C3](http://publications.europa.eu/resource/celex/32011R1086R%2804%29) — [Rectificação, JO L 068, 13.3.2015, p. 90 (1086/2011)](http://publications.europa.eu/resource/celex/32011R1086R%2804%29)
-- [►C4](http://publications.europa.eu/resource/celex/32007R1441R%2809%29) — [Rectificação, JO L 195, 20.7.2016, p. 82 (n.o 1441/2007)](http://publications.europa.eu/resource/celex/32007R1441R%2809%29)
-- [►C5](http://publications.europa.eu/resource/celex/32013R1019R%2802%29) — [Rectificação, JO L 195, 20.7.2016, p. 83 (n.o 1019/2013)](http://publications.europa.eu/resource/celex/32013R1019R%2802%29)
-
-## REGULAMENTO (CE) N.º 2073/2005 DA COMISSÃO
 
 de 15 de Novembro de 2005
 

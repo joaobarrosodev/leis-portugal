@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004L0077:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0077-20080220",
+ "dre_path": null,
+ "source_lastmod": "2008-02-20",
+ "versions": [
+  {
+   "date": "2004-04-30",
+   "future": false,
+   "celex": "32004L0077",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9176d80739fab915",
+    "46bec6231aaf49cd",
+    "a6f32eaad2872e6b",
+    "ad0c211a25b73c03",
+    "96bec1a1c53a1261",
+    "9781f5fa94c76f47",
+    "f76f094c93c1deb3"
+   ]
+  }
+ ],
+ "fragments": {
+  "9176d80739fab915": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nque altera a Directiva 94/54/CE no que respeita à rotulagem de determinados géneros alimentícios que contenham ácido glicirrízico e o seu sal de amónio\n\n(Texto relevante para efeitos do EEE)\n\nA COMIISSÃO DAS COMUNIDADES EUROPEIAS\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2000/13/CE do Parlamento Europeu e do Conselho, de 20 de Março de 2000, relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios [([^1])](http://publications.europa.eu/resource/cellar/35ac6e86-6ca4-4063-8ff4-b7432f8c7dc6.0010.05/DOC_1#ntr1-L_2004162PT.01007601-E0001), e, nomeadamente, o n.º 2 do seu artigo 4.º,\n\nApós consulta do Comité Científico da Alimentação Humana,\n\nConsiderando o seguinte:\n\n(1) A Directiva 94/54/CE da Comissão, de 18 de Novembro de 1994, relativa à inclusão na rotulagem de determinados géneros alimentícios de outras indicações obrigatórias para além das previstas na Directiva 2000/13/CE [([^2])](http://publications.europa.eu/resource/cellar/35ac6e86-6ca4-4063-8ff4-b7432f8c7dc6.0010.05/DOC_1#ntr2-L_2004162PT.01007601-E0002), contém uma lista dos géneros alimentícios cuja rotulagem deve incluir uma ou mais indicações complementares.\n\n(2) O objectivo da presente directiva é complementar essa lista no que diz respeito a certos alimentos que contêm ácido glicirrízico e o seu sal de amónio.\n\n(3) O ácido glicirrízico ocorre naturalmente no alcaçuz (*Glycyrrhiza glabra*) enquanto o seu sal de amónio é fabricado a partir de extractos aquosos do alcaçuz (*Glycyrrhiza glabra*). O ácido glicirrízico e o seu sal de amónio estão incluídos no repertório comunitário das substâncias aromatizantes estabelecido na Decisão 1999/217/CE da Comissão, de 23 de Fevereiro de 1999, que adopta um repertório das substâncias aromatizantes utilizadas nos géneros alimentícios, elaborado em aplicação do Regulamento (CE) n.º 2232/96 do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/35ac6e86-6ca4-4063-8ff4-b7432f8c7dc6.0010.05/DOC_1#ntr3-L_2004162PT.01007601-E0003). A exposição ao ácido glicirrízico e ao seu sal de amónio ocorre sobretudo através do consumo de produtos de confeitaria à base de alcaçuz, incluindo pastilhas elásticas, chás à base de ervas e outras bebidas.\n\n(4) O Comité Científico da Alimentação Humana, no seu parecer de 4 de Abril de 2003 relativo ao ácido glicirrízico e seu sal de amónio, concluiu que o limite máximo de ingestão regular de 100 mg/dia proporciona um nível de protecção suficiente para a maioria da população, podendo um consumo superior a este nível causar hipertensão. No entanto, o Comité assinalou que, na população humana, existem subgrupos para os quais este limite máximo pode não proporcionar uma protecção suficiente. Estes subgrupos compreendem as pessoas com problemas de saúde relacionados com perturbações da homeostase da água e dos electrólitos.\n\n(5) Estas conclusões tornam necessário prever uma rotulagem que dê ao consumidor informações claras quanto à presença de ácido glicirrízico ou do seu sal de amónio nos produtos de confeitaria e nas bebidas. Caso se verifique um teor elevado de ácido glicirrízico ou do seu sal de amónio nos referidos produtos, os consumidores, especialmente o que sofrem de hipertensão, devem ser também informados de que se deve evitar uma ingestão excessiva. Para assegurar uma boa compreensão destas informações pelo consumidor, é preferível utilizar a bem conhecida expressão «extractos de alcaçuz».\n\n(6) Consequentemente, a Directiva 94/54/CE deve ser alterada em conformidade.\n\n(7) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "46bec6231aaf49cd": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo da Directiva 94/54/CE é alterado de acordo com o texto incluído no anexo da presente directiva."
+  },
+  "a6f32eaad2872e6b": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros autorizarão o comércio de produtos conformes à presente directiva a partir de 20 de Maio de 2005, o mais tardar.\n\n2. Os Estados-Membros proibirão o comércio de produtos não conformes à presente directiva a partir de 20 de Maio de 2006.\n\nTodavia, os produtos não conformes à presente directiva e que tenham sido rotulados antes de20 de Maio de 2006 serão autorizados até esgotamento das existências."
+  },
+  "ad0c211a25b73c03": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, em 20 de Maio de 2005. Os Estados-Membros comunicarão imediatamente à Comissão o texto dessas disposições bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nAs disposições adoptadas pelos Estados-Membros devem fazer referência à presente directiva ou ser acompanhadas da referida referência aquando da sua publicação oficial. As modalidades daquela referência incumbem aos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "96bec1a1c53a1261": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "9781f5fa94c76f47": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 29 de Abril de 2004.\n\n***Pela Comissão***\n\n**David BYRNE**\n\n***Membro da Comissão***\n\n---"
+  },
+  "f76f094c93c1deb3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/35ac6e86-6ca4-4063-8ff4-b7432f8c7dc6.0010.05/DOC_1#ntc1-L_2004162PT.01007601-E0001) [JO L 109 de 6.5.2000, p. 29](http://publications.europa.eu/resource/oj/JOL_2000_109_R_TOC). Directiva alterada pela Directiva 2003/89/CE do Parlamento Europeu e do Conselho ([JO L 308 de 25.11.2003, p. 15](http://publications.europa.eu/resource/oj/JOL_2003_308_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/35ac6e86-6ca4-4063-8ff4-b7432f8c7dc6.0010.05/DOC_1#ntc2-L_2004162PT.01007601-E0002) [JO L 300 de 23.11.1994, p. 14](http://publications.europa.eu/resource/oj/JOL_1994_300_R_TOC). Directiva alterada pela Directiva 96/21/CE do Conselho ([JO L 88 de 05.04.1996, p. 5](http://publications.europa.eu/resource/oj/JOL_1996_088_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/35ac6e86-6ca4-4063-8ff4-b7432f8c7dc6.0010.05/DOC_1#ntc3-L_2004162PT.01007601-E0003) [JO L 84 de 27.3.1999, p. 1](http://publications.europa.eu/resource/oj/JOL_1999_084_R_TOC). Decisão alterada pela Decisão 2002/113/CE ([JO L 49 de 20.02.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_049_R_TOC))."
+  }
+ }
+}

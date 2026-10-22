@@ -36,6 +36,145 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-12-13'
+version_history:
+  file: regulamento-ue-2000-104.versoes.json
+  count: 5
+  source_lastmod: '2014-12-13'
+  versions:
+  - date: '2000-01-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 23.º — Ajuda ao reporte
+    - Altera Artigo 25.º — Ajuda à armazenagem privada
+    - Altera Artigo 27.º — Indemnização das organizações de produtores
+    - Altera Artigo 30.º
+    - Altera Artigo 43.º
+    - Altera ANEXO V — Produtos vivos, frescos ou refrigerados
+    - Altera ANEXO VI — Medidas de suspensão dos direitos da pauta aduaneira comum referidas no artigo 28.o
+    - Altera ANEXO VII — A. Método de cálculo da indemnização no n.o 2, alínea a), do artigo 10.o
+    - Altera ANEXO VIII — Quadro de correspondências
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Suprime ANEXO I — >POSIÇÃO NUMA TABELA>
+    - Suprime ANEXO II — >POSIÇÃO NUMA TABELA>
+    - Suprime ANEXO III — >POSIÇÃO NUMA TABELA>
+    - Suprime ANEXO IV — >POSIÇÃO NUMA TABELA>
+  - date: '2006-10-16'
+    amending: eu:celex:32006R1759:por
+    amending_title: Regulamento (CE) n. o 1759/2006 do Conselho de 28 de Novembro de 2006; ►A1
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 12.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 35.º
+    - Altera ANEXO III
+    - Altera ANEXO IV
+    - Adita TÍTULO I
+    - Adita NORMAS DE COMERCIALIZAÇÃO E INFORMAÇÃO DOS CONSUMIDORES
+    - Adita CAPÍTULO 1
+    - Adita NORMAS DE COMERCIALIZAÇÃO
+    - Adita CAPÍTULO 2
+    - Adita INFORMAÇÃO DO CONSUMIDOR
+    - Adita TÍTULO II
+    - Adita ORGANIZAÇÕES DE PRODUTORES
+    - Adita CONDIÇÕES, CONCESSÃO E RETIRADA DO RECONHECIMENTO
+    - Adita EXTENSÃO DAS REGRAS AOS NÃO MEMBROS
+    - Adita CAPÍTULO 3
+    - Adita PLANIFICAÇÃO DA PRODUÇÃO E DA COMERCIALIZAÇÃO
+    - Adita TÍTULO III
+    - Adita ORGANIZAÇÕES E ACORDOS INTERPROFISSIONAIS
+    - Adita CONDIÇÕES, CONCESSÃO E RETIRADA DO RECONHECIMENTO ÀS ORGANIZAÇÕES INTERPROFISSIONAIS
+    - Adita CONDIÇÕES RELATIVAS AOS ACORDOS, DECISÕES E PRÁTICAS CONCERTADAS DAS ORGANIZAÇÕES INTERPROFISSIONAIS
+    - Adita EXTENSÃO DOS ACORDOS, DECISÕES OU PRÁTICAS CONCERTADAS AOS OPERADORES NÃO MEMBROS
+    - Adita TÍTULO IV
+    - Adita PREÇOS E INTERVENÇÕES
+    - Adita REGIME DOS PREÇOS
+    - Adita INTERVENÇÕES
+    - Adita ATUM DESTINADO À INDÚSTRIA TRANSFORMADORA
+    - Adita TÍTULO V
+    - Adita TROCAS COMERCIAIS COM PAÍSES TERCEIROS
+    - Adita REGIME ADUANEIRO
+    - Adita PREÇOS DE REFERÊNCIA
+    - Adita MEDIDAS DE SALVAGUARDA
+    - Adita TÍTULO VI
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita ANEXO V
+    - Adita Produtos vivos, frescos ou refrigerados
+    - Adita ANEXO VI
+  - date: '2013-01-01'
+    amending: eu:celex:32012R1220:por
+    amending_title: REGULAMENTO (UE) N. o 1220/2012 DO CONSELHO de 3 de dezembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Artigo 12.º
+    - Altera Artigo 25.º — Ajuda à armazenagem privada
+    - Altera Artigo 27.º — Indemnização das organizações de produtores
+    - Altera Artigo 30.º
+    - Altera Artigo 35.º
+    - Altera ANEXO III
+    - Altera Notas
+    - Suprime Artigo 28.º
+    - Suprime ANEXO VI
+    - Suprime Medidas de suspensão dos direitos da pauta aduaneira comum referidas no artigo 28.º
+  - date: '2014-12-13'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime TÍTULO I
+    - Suprime NORMAS DE COMERCIALIZAÇÃO E INFORMAÇÃO DOS CONSUMIDORES
+    - Suprime CAPÍTULO 1
+    - Suprime NORMAS DE COMERCIALIZAÇÃO
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime CAPÍTULO 2
+    - Suprime INFORMAÇÃO DO CONSUMIDOR
+    - Suprime Artigo 4.º
+    - Suprime TÍTULO II
+    - Suprime ORGANIZAÇÕES DE PRODUTORES
+    - Suprime CONDIÇÕES, CONCESSÃO E RETIRADA DO RECONHECIMENTO
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime EXTENSÃO DAS REGRAS AOS NÃO MEMBROS
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime CAPÍTULO 3
+    - Suprime PLANIFICAÇÃO DA PRODUÇÃO E DA COMERCIALIZAÇÃO
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime TÍTULO III
+    - Suprime ORGANIZAÇÕES E ACORDOS INTERPROFISSIONAIS
+    - Suprime CONDIÇÕES, CONCESSÃO E RETIRADA DO RECONHECIMENTO ÀS ORGANIZAÇÕES INTERPROFISSIONAIS
+    - Suprime Artigo 13.º
+    - Suprime CONDIÇÕES RELATIVAS AOS ACORDOS, DECISÕES E PRÁTICAS CONCERTADAS DAS ORGANIZAÇÕES INTERPROFISSIONAIS
+    - Suprime Artigo 14.º
+    - Suprime EXTENSÃO DOS ACORDOS, DECISÕES OU PRÁTICAS CONCERTADAS AOS OPERADORES NÃO MEMBROS
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime TÍTULO IV
+    - Suprime PREÇOS E INTERVENÇÕES
+    - Suprime REGIME DOS PREÇOS
+    - Suprime Artigo 17.º — Generalidades
+    - Suprime Artigo 18.º — Preço de orientação
+    - Suprime Artigo 19.º — Comunicação das cotações
 identifiers:
   celex: 32000R0104
   eli: http://data.europa.eu/eli/reg/2000/104/oj
@@ -50,7 +189,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/47d048a3-a5a2-4021-b316-a74ba11d7309.0011
   content_url: http://publications.europa.eu/resource/cellar/9b62e8ab-f0bb-4978-ae89-7ab8be041a44.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R0104-20141213
-  retrieved_at: '2026-10-22T02:35:38Z'
+  retrieved_at: '2026-10-22T14:49:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T12:59:33.717+01:00'
 integrity:
@@ -59,9 +198,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:38Z'
-  notes: Texto consolidado 02000R0104-20141213.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:49:14Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2000-104.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -337,16 +476,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:38Z'
+  checked_at: '2026-10-22T14:49:14Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02000R0104-20000210: versão indisponível (Sem expressão na língua por para CELEX 02000R0104-20000210.)'
   errors: []
 ---
 

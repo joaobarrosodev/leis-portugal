@@ -35,6 +35,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-04-25'
+version_history:
+  file: decisao-ue-2008-616.versoes.json
+  count: 2
+  source_lastmod: '2024-04-25'
+  versions:
+  - date: '2008-08-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-04-25'
+    amending: eu:celex:32024R0982:por
+    amending_title: REGULAMENTO (UE) 2024/982 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 17.º
+    - Adita Artigo 19.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita ANEXO
+    - 'Adita CAPÍTULO 1: Intercâmbio de dados de ADN'
+    - Adita 1. Questões forenses relacionadas com o ADN, regras de concordância e algoritmos
+    - Adita 2. Tabela de códigos dos Estados-Membros
+    - Adita 3. Análise funcional
+    - Adita 4. Documento de controlo da interface ADN
+    - Adita 5. Arquitectura da aplicação, da segurança e da comunicação
+    - 'Adita CAPÍTULO 2: Intercâmbio de dados dactiloscópicos (documento de controlo de interface)'
+    - Adita 1. Síntese do conteúdo do ficheiro
+    - Adita 2. Formato dos registos
+    - 'Adita 3. Registo lógico de tipo 1: cabeçalho do ficheiro'
+    - 'Adita 4. Registo lógico de tipo-2: texto descritivo'
+    - 'Adita 5. Registo lógico de tipo-4: imagens dactiloscópicas de alta resolução em escala de cinzentos'
+    - 'Adita 6. Registo lógico de tipo-9: registo de minúcias'
+    - Adita 7. Registo de tipo 13 de imagens latentes de resolução variável
+    - Adita 8. Registo de tipo-15 de imagens palmares de resolução variável
+    - Adita 9. Apêndices do capítulo 2 (intercâmbio de dados dactiloscópicos)
+    - 'Adita CAPÍTULO 3: Intercâmbio de dados relativos ao registo de veículos'
+    - Adita 1. Conjunto de dados comum para a busca automática de dados relativos ao registo de veículos
+    - Adita 2. Segurança da Informação
+    - Adita 3. Condições técnicas para o intercâmbio de dados
+    - 'Adita CAPÍTULO 4: Avaliação'
+    - Adita 1. Procedimento de avaliação nos termos do artigo 20.º (preparação de decisões a que se refere o n.º 2 do artigo
+      25.º da Decisão 2008/615/JAI)
+    - Adita 2. Procedimento de avaliação nos termos do artigo 21.º
+    - Adita 3. Reuniões de peritos
+    - Suprime Artigo 1.º — Objectivo
+    - Suprime Artigo 2.º — Definições
+    - Suprime CAPÍTULO 2
+    - Suprime DISPOSIÇÕES COMUNS EM MATÉRIA DE INTERCÂMBIO DE DADOS
+    - Suprime Artigo 3.º — Especificações técnicas
+    - Suprime Artigo 4.º — Rede de comunicações
 identifiers:
   celex: 32008D0616
   eli: http://data.europa.eu/eli/dec/2008/616/oj
@@ -49,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8422077c-8b87-4abb-a6f2-7ad785e6a6ea.0018
   content_url: http://publications.europa.eu/resource/cellar/5d8353f1-0878-11ef-a251-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008D0616-20240425
-  retrieved_at: '2026-10-22T02:40:42Z'
+  retrieved_at: '2026-10-22T15:12:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-31T04:24:26.874+01:00'
 integrity:
@@ -58,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:42Z'
-  notes: Texto consolidado 02008D0616-20240425.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:12:26Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2008-616.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -134,29 +188,20 @@ relationships:
   date: '2020-12-10'
 article_structure:
   article_count: 7
-  section_count: 31
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 32
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:42Z'
-  warnings: []
+  checked_at: '2026-10-22T15:12:26Z'
+  warnings:
+  - '02008D0616-20080826: versão indisponível (Sem expressão na língua por para CELEX 02008D0616-20080826.)'
   errors: []
 ---
 
 # Decisão 2008/616/JAI do Conselho, de 23 de Junho de 2008
-
-> 02008D0616 — PT — 25.04.2024 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024R0982) — [REGULAMENTO (UE) 2024/982 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024](http://publications.europa.eu/resource/celex/32024R0982) — L 982 — 1 — 5.4.2024
-
-## DECISÃO 2008/616/JAI DO CONSELHO
 
 de 23 de Junho de 2008
 

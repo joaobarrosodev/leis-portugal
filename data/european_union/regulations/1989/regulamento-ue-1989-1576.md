@@ -35,6 +35,95 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-05-20'
+version_history:
+  file: regulamento-ue-1989-1576.versoes.json
+  count: 3
+  source_lastmod: '2008-05-20'
+  versions:
+  - date: '1989-06-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:31992R3280:por
+    amending_title: REGULAMENTO (CEE) N.O 3280/92 DO CONSELHO de 9 de Novembro de 1992; REGULAMENTO (CE) N.O 3378/94 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 22 de Dezembro de 1994; REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO
+      de 29 de Setembro de 2003; Acto de Adesão da Áustria, da Finlândia e da Suécia; Acto relativo às condições de adesão
+      da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia,
+      da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca
+      e às adaptações dos Tratados em que se funda a União Europeia; ►A3
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO III
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 11.º A
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Características do álcool etílico de origem agrícola referido no n.º 3, alínea h), do artigo 1.º
+    - Adita ANEXO II
+    - Adita BEBIDAS ESPIRITUOSAS
+    - Adita Denominações geográficas referidas no n.º 3 do artigo 5.º
+    - Adita Notas
+    - Suprime Artigo 1g.
+    - 'Suprime Título alcoométrico volúmico:'
+    - Suprime Artigo 2g.
+    - Suprime Artigo 3g.
+    - Suprime Artigo 4g.
+    - Suprime Artigo 5g.
+    - Suprime Artigo 6g.
+    - Suprime Artigo 7g.
+    - Suprime Artigo 8g.
+    - Suprime Artigo 9g.
+    - Suprime Artigo 10g.
+    - Suprime Artigo 11g.
+    - Suprime Artigo 12g.
+  - date: '2008-05-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 11.º A
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime ANEXO I
+    - Suprime Características do álcool etílico de origem agrícola referido no n.º 3, alínea h), do artigo 1.º
+    - Suprime ANEXO II
+    - Suprime BEBIDAS ESPIRITUOSAS
+    - Suprime Denominações geográficas referidas no n.º 3 do artigo 5.º
+    - Suprime ANEXO III
+    - Suprime Notas
 identifiers:
   celex: 31989R1576
   eli: http://data.europa.eu/eli/reg/1989/1576/oj
@@ -49,7 +138,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/acc839ca-44af-4f4d-ae52-692efb346a39.0011
   content_url: http://publications.europa.eu/resource/cellar/2ca5939d-d0c7-4b73-9193-4fe3888d6e4a.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989R1576-20080520
-  retrieved_at: '2026-10-22T02:35:47Z'
+  retrieved_at: '2026-10-22T14:36:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T09:34:20.502+01:00'
 integrity:
@@ -58,9 +147,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:47Z'
-  notes: Texto consolidado 01989R1576-20080520.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:36:23Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1989-1576.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -304,16 +393,20 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:47Z'
+  checked_at: '2026-10-22T14:36:23Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01989R1576-19890615: versão indisponível (Sem expressão na língua por para CELEX 01989R1576-19890615.)'
+  - '01989R1576-19921116: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01989R1576-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01989R1576-19960101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01989R1576-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01989R1576-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

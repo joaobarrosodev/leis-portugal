@@ -36,6 +36,151 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-08-01'
+version_history:
+  file: regulamento-ue-2002-753.versoes.json
+  count: 5
+  source_lastmod: '2009-08-01'
+  versions:
+  - date: '2002-05-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-04-01'
+    amending: eu:celex:32002R2086:por
+    amending_title: REGULAMENTO (CE) N. o 2086/2002 DA COMISSÃO de 25 de Novembro de 2002; M2; REGULAMENTO (CE) N. o 316/2004
+      DA COMISSÃO de 20 de Fevereiro de 2004; REGULAMENTO (CE) N. o 908/2004 DA COMISSÃO de 29 de Abril de 2004; REGULAMENTO
+      (CE) N. o 1429/2004 DA COMISSÃO de 9 de Agosto de 2004; REGULAMENTO (CE) N. o 1991/2004 DA COMISSÃO de 19 de Novembro
+      de 2004; REGULAMENTO (CE) N. o 1512/2005 DA COMISSÃO de 15 de Setembro de 2005; REGULAMENTO (CE) N. o 261/2006 DA COMISSÃO
+      de 15 de Fevereiro de 2006; M9; REGULAMENTO (CE) N. o 1951/2006 DA COMISSÃO de 21 de Dezembro de 2006; REGULAMENTO (CE)
+      N. o 2016/2006 DA COMISSÃO de 19 de Dezembro de 2006; REGULAMENTO (CE) N. o 382/2007 DA COMISSÃO de 4 de Abril de 2007;
+      Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República
+      da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República
+      da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Especificações relativas à rotulagem
+    - Altera Artigo 3.º — Apresentação das indicações obrigatórias
+    - Altera Artigo 5.º — Derrogações
+    - Altera Artigo 9.º — Reserva de certos tipos de garrafa
+    - Altera TÍTULO II
+    - Altera Artigo 11.º — Disposições gerais
+    - Altera Artigo 12.º — Indicações obrigatórias
+    - Altera Artigo 16.º — Indicação do tipo de produto
+    - Altera Artigo 19.º — Indicação das castas de videira
+    - Altera Artigo 22.º — Indicações relativas ao modo de obtenção ou ao método de elaboração do produto
+    - Altera Artigo 24.º — Protecção das menções tradicionais
+    - Altera Artigo 28.º — Utilização de indicações geográficas
+    - Altera Artigo 29.º — Menções específicas tradicionais
+    - Altera Artigo 30.º — Derrogação ao dever de indicar a menção específica tradicional
+    - Altera Artigo 31.º — Unidade geográfica mais pequena que a região determinada
+    - Altera Artigo 33.º — Engarrafamento na região determinada
+    - Altera Artigo 34.º — Regras comuns
+    - Altera Artigo 36.º — Vinhos importados com indicação geográfica
+    - Altera Artigo 37.º — Outras indicações que podem constar da rotulagem dos vinhos importados com indicação geográfica
+    - Altera Artigo 38.º — Indicações obrigatórias
+    - Altera Artigo 47.º — Disposições transitórias
+    - Altera Artigo 49.º — Entrada em vigor
+    - Altera ANEXO II
+    - Altera ANEXO IV
+    - Altera ANEXO VII
+    - Altera ANEXO VIII
+    - Adita TÍTULO I
+    - Adita REGRAS COMUNS
+    - Adita Artigo 7.º — Definição de «engarrafador», de «engarrafamento» e de «importador»
+    - Adita REGRAS APLICÁVEIS AOS MOSTOS DE UVAS, AOS MOSTOS DE UVAS PARCIALMENTE FERMENTADOS, AOS MOSTOS DE UVAS CONCENTRADOS,
+      AOS VINHOS NOVOS AINDA EM FERMENTAÇÃO E AOS VINHOS DE UVAS SOBREAMADURECIDAS
+    - Adita TÍTULO III
+    - Adita REGRAS APLICÁVEIS AOS VINHOS DE MESA, AOS VINHOS DE MESA COM INDICAÇÃO GEOGRÁFICA E AOS VQPRD
+    - Adita TÍTULO IV
+    - Adita REGRAS APLICÁVEIS AOS VINHOS DE MESA COM INDICAÇÃO GEOGRÁFICA E AOS VQPRD
+    - Adita CAPÍTULO I
+    - Adita CAPÍTULO II
+    - Adita REGRAS ESPECÍFICAS APLICÁVEIS AOS VINHOS DE MESA COM INDICAÇÃO GEOGRÁFICA
+    - Adita CAPÍTULO III
+    - Adita REGRAS ESPECÍFICAS APLICÁVEIS AOS VQPRD
+  - date: '2007-07-01'
+    amending: eu:celex:32007R1207:por
+    amending_title: REGULAMENTO (CE) N. o 1207/2007 DA COMISSÃO de 16 de Outubro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Especificações relativas à rotulagem
+    - Altera Artigo 7.º — Definição de «engarrafador», de «engarrafamento» e de «importador»
+    - Altera Artigo 31.º — Unidade geográfica mais pequena que a região determinada
+    - Altera Artigo 33.º — Engarrafamento na região determinada
+    - Altera Artigo 37.º — Outras indicações que podem constar da rotulagem dos vinhos importados com indicação geográfica
+    - Altera Artigo 37.ºB — Vinho licoroso, vinho frisante e vinho frisante gaseificado e vinho espumante
+    - Altera Artigo 47.º — Disposições transitórias
+    - Altera ANEXO III
+    - Altera Notas
+    - Adita Nomes das castas de videira ou dos seus sinónimos que incluem uma indicação geográfica ([^30^](http://publications.europa.eu/resource/cellar/2d9b4f0f-a90e-48f7-950e-4f7f3b124ad7.0016.04/DOC_1#E0031))
+      e que podem figurar na rotulagem dos vinhos nos termos do n.º 2 do artigo 19.º
+    - Suprime Nomes das castas de videira e seus sinónimos que incluem uma indicação geográfica ([^30^](http://publications.europa.eu/resource/cellar/e79732e7-648d-4f83-987e-5cafbc886a77.0016.04/DOC_1#E0031))
+      e que podem figurar na rotulagem dos vinhos nos termos do n.º 2 do artigo 19.º
+  - date: '2007-12-14'
+    amending: eu:celex:32007R1471:por
+    amending_title: REGULAMENTO (CE) N. o 1471/2007 DA COMISSÃO de 13 de Dezembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Especificações relativas à rotulagem
+    - Altera Artigo 7.º — Definição de «engarrafador», de «engarrafamento» e de «importador»
+    - Altera Artigo 28.º — Utilização de indicações geográficas
+    - Altera Artigo 29.º — Menções específicas tradicionais
+    - Altera Artigo 33.º — Engarrafamento na região determinada
+    - Altera Artigo 37.º — Outras indicações que podem constar da rotulagem dos vinhos importados com indicação geográfica
+    - Altera Artigo 37.ºB — Vinho licoroso, vinho frisante e vinho frisante gaseificado e vinho espumante
+    - Altera Artigo 47.º — Disposições transitórias
+    - Altera ANEXO III
+    - Altera Notas
+    - Adita Nomes das castas de videira ou dos seus sinónimos que incluem uma indicação geográfica ([^30^](http://publications.europa.eu/resource/cellar/5970817e-aefc-4b40-9a3b-c9e4d304d06e.0017.04/DOC_1#E0031))
+      e que podem figurar na rotulagem dos vinhos nos termos do n.º 2 do artigo 19.º
+    - Suprime Nomes das castas de videira ou dos seus sinónimos que incluem uma indicação geográfica ([^30^](http://publications.europa.eu/resource/cellar/2d9b4f0f-a90e-48f7-950e-4f7f3b124ad7.0016.04/DOC_1#E0031))
+      e que podem figurar na rotulagem dos vinhos nos termos do n.º 2 do artigo 19.º
+  - date: '2009-08-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime REGRAS COMUNS
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Especificações relativas à rotulagem
+    - Suprime Artigo 3.º — Apresentação das indicações obrigatórias
+    - Suprime Artigo 4.º — Utilização de códigos na rotulagem
+    - Suprime Artigo 5.º — Derrogações
+    - Suprime Artigo 6.º — Regras comuns a todas as menções constantes da rotulagem
+    - Suprime Artigo 7.º — Definição de «engarrafador», de «engarrafamento» e de «importador»
+    - Suprime Artigo 8.º — Proibição de cápsulas ou folhas fabricadas à base de chumbo
+    - Suprime Artigo 9.º — Reserva de certos tipos de garrafa
+    - Suprime Artigo 10.º — Registos, documentos de acompanhamento e outros documentos
+    - Suprime TÍTULO II
+    - Suprime REGRAS APLICÁVEIS AOS MOSTOS DE UVAS, AOS MOSTOS DE UVAS PARCIALMENTE FERMENTADOS, AOS MOSTOS DE UVAS CONCENTRADOS,
+      AOS VINHOS NOVOS AINDA EM FERMENTAÇÃO E AOS VINHOS DE UVAS SOBREAMADURECIDAS
+    - Suprime Artigo 11.º — Disposições gerais
+    - Suprime Artigo 12.º — Indicações obrigatórias
+    - Suprime Artigo 13.º — Indicações facultativas
+    - Suprime Artigo 14.º — Disposições relativas à rotulagem com indicação geográfica
+    - Suprime TÍTULO III
+    - Suprime REGRAS APLICÁVEIS AOS VINHOS DE MESA, AOS VINHOS DE MESA COM INDICAÇÃO GEOGRÁFICA E AOS VQPRD
+    - Suprime Artigo 15.º — Indicações relativas ao nome, endereço e qualidade de uma ou das pessoas que tenham participado
+      na comercialização
+    - Suprime Artigo 16.º — Indicação do tipo de produto
+    - Suprime Artigo 17.º — Indicações relativas a uma cor
+    - Suprime TÍTULO IV
+    - Suprime REGRAS APLICÁVEIS AOS VINHOS DE MESA COM INDICAÇÃO GEOGRÁFICA E AOS VQPRD
+    - Suprime CAPÍTULO I
+    - Suprime Artigo 18.º — Indicação do ano de colheita
+    - Suprime Artigo 19.º — Indicação das castas de videira
+    - Suprime Artigo 20.º — Precisão relativa à regra dos 85 %
+    - Suprime Artigo 21.º — Distinções, medalhas
+    - Suprime Artigo 22.º — Indicações relativas ao modo de obtenção ou ao método de elaboração do produto
+    - Suprime Artigo 23.º — Menções tradicionais complementares
+    - Suprime Artigo 24.º — Protecção das menções tradicionais
+    - Suprime Artigo 25.º — Nome da empresa
+    - Suprime Artigo 26.º — Indicações relativas ao engarrafamento
+    - Suprime Artigo 27.º — Disposições complementares dos Estados-Membros produtores
+    - Suprime CAPÍTULO II
+    - Suprime REGRAS ESPECÍFICAS APLICÁVEIS AOS VINHOS DE MESA COM INDICAÇÃO GEOGRÁFICA
+    - Suprime Artigo 28.º — Utilização de indicações geográficas
 identifiers:
   celex: 32002R0753
   eli: http://data.europa.eu/eli/reg/2002/753/oj
@@ -50,7 +195,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ada4c7e1-3e19-4f0f-b8ed-1cc291ee3d68.0010
   content_url: http://publications.europa.eu/resource/cellar/c44a51a3-db42-448a-9f32-c9b6498aa3ed.0017.04/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R0753-20090801
-  retrieved_at: '2026-10-22T02:57:24Z'
+  retrieved_at: '2026-10-22T14:52:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T14:21:30.042+01:00'
 integrity:
@@ -59,9 +204,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:24Z'
-  notes: Texto consolidado 02002R0753-20090801.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:59Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2002-753.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -324,16 +469,23 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:24Z'
+  checked_at: '2026-10-22T14:52:59Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02002R0753-20020511: versão indisponível (Sem expressão na língua por para CELEX 02002R0753-20020511.)'
+  - '02002R0753-20021129: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R0753-20030708: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R0753-20040201: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R0753-20040501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R0753-20041125: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R0753-20050901: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R0753-20060223: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002R0753-20061229: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

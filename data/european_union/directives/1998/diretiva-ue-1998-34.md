@@ -35,6 +35,137 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-10-07'
+version_history:
+  file: diretiva-ue-1998-34.versoes.json
+  count: 4
+  source_lastmod: '2015-10-07'
+  versions:
+  - date: '1998-07-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:31998L0048:por
+    amending_title: Directiva 98/48/CE do Parlamento Europeu e do Conselho de 20 de Julho de 1998; DIRECTIVA 2006/96/CE DO
+      CONSELHO de 20 de Novembro de 2006; A1
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1º
+    - Altera Artigo 6º
+    - Altera Artigo 8º
+    - Altera Artigo 9º
+    - Altera Artigo 10º
+    - Altera Artigo 15º
+    - Adita ANEXO I
+    - Adita ORGANISMOS EUROPEUS DE NORMALIZAÇÃO
+    - Adita ANEXO II
+    - Adita ORGANISMOS NACIONAIS DE NORMALIZAÇÃO
+    - 'Adita 1. BÉLGICA:'
+    - 'Adita 2. BULGÁRIA:'
+    - 'Adita 3. REPÚBLICA CHECA:'
+    - 'Adita 4. DINAMARCA:'
+    - 'Adita 5. ALEMANHA:'
+    - 'Adita 6. ESTÓNIA:'
+    - 'Adita 7. GRÉCIA:'
+    - 'Adita 8. ESPANHA:'
+    - 'Adita 9. FRANÇA:'
+    - 'Adita 10. IRLANDA:'
+    - 'Adita 11. ITÁLIA:'
+    - 'Adita 12. CHIPRE:'
+    - 'Adita 13. LETÓNIA:'
+    - 'Adita 14. LITUÂNIA:'
+    - 'Adita 15. LUXEMBURGO:'
+    - 'Adita 16. HUNGRIA:'
+    - 'Adita 17. MALTA:'
+    - 'Adita 18. PAÍSES BAIXOS:'
+    - 'Adita 19. ÁUSTRIA:'
+    - 'Adita 20. POLÓNIA:'
+    - 'Adita 21. PORTUGAL:'
+    - 'Adita 22. ROMÉNIA:'
+    - 'Adita 23. ESLOVÉNIA:'
+    - 'Adita 24. ESLOVÁQUIA:'
+    - 'Adita 25. FINLÂNDIA:'
+    - 'Adita 26. SUÉCIA:'
+    - 'Adita 27. REINO UNIDO:'
+    - Adita ANEXO III
+    - Adita PARTE A
+  - date: '2013-01-01'
+    amending: eu:celex:32012R1025:por
+    amending_title: REGULAMENTO (UE) N. o 1025/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de outubro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1º
+    - Altera Artigo 6º
+    - Altera Artigo 8º
+    - Altera Artigo 10º
+    - Altera Artigo 11º
+    - Altera Lista indicativa dos serviços financeiros previstos no artigo 1º, ponto 5, terceiro parágrafo
+    - Altera Notas
+    - Adita Artigo 7.º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 7º
+    - Suprime ANEXO I
+    - Suprime ORGANISMOS EUROPEUS DE NORMALIZAÇÃO
+    - Suprime ANEXO II
+    - Suprime ORGANISMOS NACIONAIS DE NORMALIZAÇÃO
+    - 'Suprime 1. BÉLGICA:'
+    - 'Suprime 2. BULGÁRIA:'
+    - 'Suprime 3. REPÚBLICA CHECA:'
+    - 'Suprime 4. DINAMARCA:'
+    - 'Suprime 5. ALEMANHA:'
+    - 'Suprime 6. ESTÓNIA:'
+    - 'Suprime 7. GRÉCIA:'
+    - 'Suprime 8. ESPANHA:'
+    - 'Suprime 9. FRANÇA:'
+    - 'Suprime 10. IRLANDA:'
+    - 'Suprime 11. ITÁLIA:'
+    - 'Suprime 12. CHIPRE:'
+    - 'Suprime 13. LETÓNIA:'
+    - 'Suprime 14. LITUÂNIA:'
+    - 'Suprime 15. LUXEMBURGO:'
+    - 'Suprime 16. HUNGRIA:'
+    - 'Suprime 17. MALTA:'
+    - 'Suprime 18. PAÍSES BAIXOS:'
+    - 'Suprime 19. ÁUSTRIA:'
+    - 'Suprime 20. POLÓNIA:'
+    - 'Suprime 21. PORTUGAL:'
+    - 'Suprime 22. ROMÉNIA:'
+    - 'Suprime 23. ESLOVÉNIA:'
+  - date: '2015-10-07'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Artigo 15º
+    - Suprime ANEXO III
+    - Suprime PARTE A
+    - Suprime Directivas e decisões revogadas
+    - Suprime (referidas no artigo 13º)
+    - Suprime PARTE B
+    - Suprime Lista dos prazos de transposição para o direito nacional
+    - Suprime ANEXO IV
+    - Suprime QUADRO DE CORRESPONDÊNCIA
+    - Suprime ANEXO V
+    - Suprime Lista indicativa de serviços não abrangidos pelo artigo 1º, ponto 2, segundo parágrafo
+    - Suprime 1. Serviços que não são prestados «à distância»
+    - Suprime 2. Serviços que não são fornecidos «por via electrónica»
+    - Suprime 3. Serviços que não são fornecidos «a pedido individual»
+    - Suprime ANEXO VI
+    - Suprime Lista indicativa dos serviços financeiros previstos no artigo 1º, ponto 5, terceiro parágrafo
+    - Suprime Notas
 identifiers:
   celex: 31998L0034
   eli: http://data.europa.eu/eli/dir/1998/34/oj
@@ -49,7 +180,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/62dd72e1-3993-48dc-ba0e-e84e7531cb4c.0011
   content_url: http://publications.europa.eu/resource/cellar/c3ea2a35-12d2-4e99-bcfd-0afb00e37243.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0034-20151007
-  retrieved_at: '2026-10-22T02:34:49Z'
+  retrieved_at: '2026-10-22T14:46:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-03-30T17:49:40.204+02:00'
 integrity:
@@ -58,9 +189,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:34:49Z'
-  notes: Texto consolidado 01998L0034-20151007.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:48Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1998-34.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -537,16 +668,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:34:49Z'
+  checked_at: '2026-10-22T14:46:48Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01998L0034-19980805: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01998L0034-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

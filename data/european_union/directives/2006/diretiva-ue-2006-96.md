@@ -34,6 +34,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2006-96.versoes.json
+  count: 1
+  source_lastmod: '2015-10-07'
+  versions:
+  - date: '2006-12-20'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32006L0096
   eli: http://data.europa.eu/eli/dir/2006/96/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/81b17bd1-ba5d-4918-87d4-368cf7e3adfb.0016
   content_url: http://publications.europa.eu/resource/cellar/81b17bd1-ba5d-4918-87d4-368cf7e3adfb.0016.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:45:18Z'
+  retrieved_at: '2026-10-22T15:02:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T09:05:27.551+01:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:18Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:02:36Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2006-96.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -447,21 +456,20 @@ relationships:
   source: null
 article_structure:
   article_count: 4
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:18Z'
+  checked_at: '2026-10-22T15:02:36Z'
   warnings:
-  - 'Versão consolidada 02006L0096-20151007 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02006L0096-20151007: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# DIRECTIVA 2006/96/CE DO CONSELHO
+# Directiva 2006/96/CE do Conselho, de 20 de Novembro de 2006
 
 de 20 de Novembro de 2006
 

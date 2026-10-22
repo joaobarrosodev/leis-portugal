@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2007-1216.versoes.json
+  count: 1
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '2007-10-19'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32007R1216
   eli: http://data.europa.eu/eli/reg/2007/1216/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c19bf187-b8d9-4c41-ad8a-9d65742f7661.0018
   content_url: http://publications.europa.eu/resource/cellar/c19bf187-b8d9-4c41-ad8a-9d65742f7661.0018.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:58:41Z'
+  retrieved_at: '2026-10-22T15:09:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-04T00:59:19.990+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:58:41Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:09:24Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2007-1216.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -130,21 +139,20 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 16
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:58:41Z'
+  checked_at: '2026-10-22T15:09:24Z'
   warnings:
-  - 'Versão consolidada 02007R1216-20130701 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02007R1216-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO (CE) N.º 1216/2007 DA COMISSÃO
+# Regulamento (CE) n.° 1216/2007 da Comissão, de 18 de Outubro de 2007
 
 de 18 de Outubro de 2007
 

@@ -34,6 +34,108 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-14'
+version_history:
+  file: diretiva-ue-1990-425.versoes.json
+  count: 3
+  source_lastmod: '2019-12-14'
+  versions:
+  - date: '1990-08-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-11-19'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º — A Comissão pode alterar a lista das doenças enumeradas no anexo C, segundo o procedimento previsto
+      no artigo 18.o
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Adita ANEXO A — CAPÍTULO I
+    - Adita Secção 1
+    - Adita Secção 2
+    - Adita CAPÍTULO II — LEIGISLAÇÃO ZOOTÉCNICA
+    - Adita ANEXO B — ANIMAIS REPRODUTORES NÃO SUJEITOS A HARMONIZAÇÃO MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS
+      NA PRESENTE DIRECTIVA
+    - Adita CAPÍTULO I
+    - Adita CAPÍTULO II
+    - Adita ANEXO C — LISTA DAS DOENÇAS OU EPIZOOTIAS QUE REQUEREM UMA ACÇÃO URGENTE OBRIGATÓRIA, COM RESTRIÇÕES TERRITORIAIS
+      (ESTADOS-MEMBROS, REGIÕES OU ZONAS)
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+  - date: '2019-12-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime CAPÍTULO I — Controlos na origem
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime CAPÍTULO II — Controlos no destino
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime CAPÍTULO III — Disposições comuns
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º — A Comissão pode alterar a lista das doenças enumeradas no anexo C, segundo o procedimento previsto
+      no artigo 18.o
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime Artigo 19.º
+    - Suprime CAPÍTULO IV — Disposições finais e transitórias
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime Artigo 24.º
+    - Suprime Artigo 26.º
+    - Suprime Artigo 27.º
+    - Suprime ANEXO A — CAPÍTULO I
+    - Suprime Secção 1
+    - Suprime Secção 2
+    - Suprime CAPÍTULO II — LEIGISLAÇÃO ZOOTÉCNICA
+    - Suprime ANEXO B — ANIMAIS REPRODUTORES NÃO SUJEITOS A HARMONIZAÇÃO MAS CUJO COMÉRCIO SERÁ SUJEITO AOS CONTROLOS PREVISTOS
+      NA PRESENTE DIRECTIVA
+    - Suprime CAPÍTULO I
+    - Suprime CAPÍTULO II
+    - Suprime ANEXO C — LISTA DAS DOENÇAS OU EPIZOOTIAS QUE REQUEREM UMA ACÇÃO URGENTE OBRIGATÓRIA, COM RESTRIÇÕES TERRITORIAIS
+      (ESTADOS-MEMBROS, REGIÕES OU ZONAS)
 identifiers:
   celex: 31990L0425
   eli: http://data.europa.eu/eli/dir/1990/425/oj
@@ -48,7 +150,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ab8624bc-b6de-43f3-9a99-83fc83c8d85f.0011
   content_url: http://publications.europa.eu/resource/cellar/afc4bf02-264f-11ea-af81-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0425-20191214
-  retrieved_at: '2026-10-22T02:36:09Z'
+  retrieved_at: '2026-10-22T14:36:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T02:33:08.179+01:00'
 integrity:
@@ -57,9 +159,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:09Z'
-  notes: Texto consolidado 01990L0425-20191214.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:36:54Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1990-425.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -357,16 +459,24 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:09Z'
+  checked_at: '2026-10-22T14:36:54Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01990L0425-19901019: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0425-19901211: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0425-19901218: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0425-19910204: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0425-19910403: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0425-19910819: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0425-19911211: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0425-19920720: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0425-19920729: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01990L0425-19930106: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

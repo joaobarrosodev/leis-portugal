@@ -35,6 +35,90 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-07-29'
+version_history:
+  file: diretiva-ue-2002-49.versoes.json
+  count: 3
+  source_lastmod: '2021-07-29'
+  versions:
+  - date: '2002-07-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-03-25'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivos
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Aplicação e responsabilidades
+    - Altera Artigo 5.º — Indicadores de ruído e respectiva aplicação
+    - Altera Artigo 6.º — Métodos de avaliação
+    - Altera Artigo 7.º — Elaboração de mapas estratégicos de ruído
+    - Altera Artigo 8.º — Planos de acção
+    - Altera Artigo 9.º — Informação do público
+    - Altera Artigo 10.º — Recolha e publicação de dados pelos Estados-Membros e pela Comissão
+    - Altera Artigo 11.º — Apreciação e relatórios
+    - Altera Artigo 13.º — Comité
+    - Altera Artigo 14.º — Transposição
+    - Altera Artigo 16.º — Destinatários
+    - Altera ANEXO I — INDICADORES DE RUÍDO
+    - Altera ANEXO II — MÉTODOS DE AVALIAÇÃO DOS INDICADORES DE RUÍDO
+    - Altera ANEXO V — REQUISITOS MÍNIMOS PARA OS PLANOS DE ACÇÃO
+    - Altera ANEXO VI — DADOS A ENVIAR À COMISSÃO
+    - Adita Artigo 12.º — Adaptação ao progresso técnico e científico
+    - Adita Artigo 12.º-A — Exercício da delegação
+    - Adita ANEXO III — MÉTODOS DE AVALIAÇÃO DOS EFEITOS PREJUDICIAIS
+    - Suprime Artigo 12.º — Adaptação
+    - Suprime ANEXO III — MÉTODOS DE AVALIAÇÃO DOS EFEITOS SOBRE A SAÚDE
+  - date: '2021-07-29'
+    amending: eu:celex:32008R1137:por
+    amending_title: M1; DIRETIVA (UE) 2015/996 DA COMISSÃO de 19 de maio de 2015; REGULAMENTO (UE) 2019/1010 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 5 de junho de 2019; REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de
+      junho de 2019; DIRETIVA (UE) 2020/367 DA COMISSÃO de 4 de março de 2020; DIRETIVA DELEGADA (UE) 2021/1226 DA COMISSÃO
+      de 21 de dezembro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivos
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Aplicação e responsabilidades
+    - Altera Artigo 5.º — Indicadores de ruído e respectiva aplicação
+    - Altera Artigo 6.º — Métodos de avaliação
+    - Altera Artigo 7.º — Elaboração de mapas estratégicos de ruído
+    - Altera Artigo 8.º — Planos de acção
+    - Altera Artigo 9.º — Informação do público
+    - Altera Artigo 10.º — Recolha e publicação de dados pelos Estados-Membros e pela Comissão
+    - Altera Artigo 11.º — Apreciação e relatórios
+    - Altera Artigo 12.º — Adaptação ao progresso técnico e científico
+    - Altera Artigo 12.º-A — Exercício da delegação
+    - Altera Artigo 13.º — Comité
+    - Altera Artigo 14.º — Transposição
+    - Adita ANEXO I
+    - Adita INDICADORES DE RUÍDO
+    - Adita a que se refere o artigo 5.º
+    - Adita 1. Definição do indicador de ruído dia-fim-de-tarde-noite (Lden)
+    - Adita 2. Definição de indicador de ruído nocturno
+    - Adita 3. Indicadores de ruído suplementares
+    - Adita ANEXO II
+    - Adita MÉTODOS DE AVALIAÇÃO DOS INDICADORES DE RUÍDO
+    - Adita (referidos no artigo 6.º da Diretiva 2002/49/CE)
+    - Adita 1. INTRODUÇÃO
+    - Adita 2. MÉTODOS COMUNS DE AVALIAÇÃO DO RUÍDO
+    - Adita 3. DADOS NECESSÁRIOS
+    - Adita 4. MÉTODOS DE MEDIÇÃO
+    - Adita Apêndice A
+    - Adita Dados necessários
+    - Adita A1 DADOS AEROPORTUÁRIOS GERAIS
+    - Adita A2 DESCRIÇÃO DA PISTA
+    - Adita A3 DADOS DA ROTA NO SOLO
+    - Adita A4 TRÁFEGO AÉREO
+    - Adita A5 QUADRO DE DADOS RELATIVOS AOS PROCEDIMENTOS DE VOO
+    - Adita Apêndice B
+    - Adita Cálculos do desempenho em voo
+    - Adita Termos e símbolos
+    - Adita Termos
 identifiers:
   celex: 32002L0049
   eli: http://data.europa.eu/eli/dir/2002/49/oj
@@ -49,7 +133,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/27d1a64e-08f0-4665-a258-96f16c7af072.0010
   content_url: http://publications.europa.eu/resource/cellar/b24a9f90-0520-11ec-b5d3-01aa75ed71a1.0003.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0049-20210729
-  retrieved_at: '2026-10-22T02:37:25Z'
+  retrieved_at: '2026-10-22T14:53:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-26T08:56:53.770+01:00'
 integrity:
@@ -58,9 +142,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:25Z'
-  notes: Texto consolidado 02002L0049-20210729.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:53:42Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2002-49.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -241,38 +325,23 @@ relationships:
   source: null
 article_structure:
   article_count: 17
-  section_count: 102
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 103
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:25Z'
-  warnings: []
+  checked_at: '2026-10-22T14:53:42Z'
+  warnings:
+  - '02002L0049-20081211: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002L0049-20150702: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002L0049-20190626: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002L0049-20190726: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 2002/49/CE do Parlamento Europeu e do Conselho, de 25 de Junho de 2002
-
-> 02002L0049 — PT — 29.07.2021 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
-- [►M2](http://publications.europa.eu/resource/celex/32015L0996) — [DIRETIVA (UE) 2015/996 DA COMISSÃO de 19 de maio de 2015](http://publications.europa.eu/resource/celex/32015L0996) — L 168 — 1 — 1.7.2015
-- [►M3](http://publications.europa.eu/resource/celex/32019R1010) — [REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1010) — L 170 — 115 — 25.6.2019
-- [►M4](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [►M5](http://publications.europa.eu/resource/celex/32020L0367) — [DIRETIVA (UE) 2020/367 DA COMISSÃO de 4 de março de 2020](http://publications.europa.eu/resource/celex/32020L0367) — L 67 — 132 — 5.3.2020
-- [►M6](http://publications.europa.eu/resource/celex/32021L1226) — [DIRETIVA DELEGADA (UE) 2021/1226 DA COMISSÃO de 21 de dezembro de 2020](http://publications.europa.eu/resource/celex/32021L1226) — L 269 — 65 — 28.7.2021
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32015L0996R%2801%29) — [Rectificação, JO L 005, 10.1.2018, p. 35 (2015/996)](http://publications.europa.eu/resource/celex/32015L0996R%2801%29)
-
-## DIRECTIVA 2002/49/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de Junho de 2002
 

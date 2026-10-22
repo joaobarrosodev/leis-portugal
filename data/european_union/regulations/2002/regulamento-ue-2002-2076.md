@@ -36,6 +36,70 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-07-15'
+version_history:
+  file: regulamento-ue-2002-2076.versoes.json
+  count: 7
+  source_lastmod: '2014-07-15'
+  versions:
+  - date: '2002-11-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-01'
+    amending: eu:celex:32003R1336:por
+    amending_title: REGULAMENTO (CE) N. o 1336/2003 DA COMISSÃO de 25 de Julho de 2003; REGULAMENTO (CE) N. o 835/2004 DA
+      COMISSÃO de 28 de Abril de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Adita ANEXO I
+    - Adita Lista de substâncias activas não incluídas como tal no anexo I da Directiva 91/414/CEE
+    - Adita ANEXO II
+    - Adita Notas
+    - Suprime ANEXO I — Lista de substâncias activas não incluídas como tal no anexo I da Directiva 91/414/CEE
+    - Suprime ANEXO II — Lista das autorizações referidas no n.o 3 do artigo 2.o
+  - date: '2004-10-21'
+    amending: eu:celex:32004R1765:por
+    amending_title: REGULAMENTO (CE) N. o 1765/2004 DA COMISSÃO de 13 de Outubro de 2004
+    changes:
+    - Altera preambulo
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2005-08-20'
+    amending: eu:celex:32005R1335:por
+    amending_title: REGULAMENTO (CE) N. o 1335/2005 DA COMISSÃO de 12 de Agosto de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1980:por
+    amending_title: REGULAMENTO (CE) N. o 1980/2006 DA COMISSÃO de 20 de Dezembro de 2006; REGULAMENTO (CE) N. o 1313/2007
+      DA COMISSÃO de 8 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2008-09-05'
+    amending: eu:celex:32008R0848:por
+    amending_title: REGULAMENTO (CE) N. o 848/2008 DA COMISSÃO de 28 de Agosto de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2014-07-15'
+    amending: eu:celex:32014R0698:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 698/2014 DA COMISSÃO de 24 de junho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Lista de substâncias activas não incluídas como tal no anexo I da Directiva 91/414/CEE
+    - Altera ANEXO II
+    - Altera Notas
 identifiers:
   celex: 32002R2076
   eli: http://data.europa.eu/eli/reg/2002/2076/oj
@@ -50,7 +114,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/bf0b3bd4-715b-4962-a4e1-e0b197a8c421.0010
   content_url: http://publications.europa.eu/resource/cellar/2a6b800d-2ec2-4298-b97d-bd04316289df.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R2076-20140715
-  retrieved_at: '2026-10-22T03:11:02Z'
+  retrieved_at: '2026-10-22T14:53:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2016-05-04T17:14:05.814+02:00'
 integrity:
@@ -59,9 +123,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:11:02Z'
-  notes: Texto consolidado 02002R2076-20140715.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:53:18Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2002-2076.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -147,36 +211,20 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/2e9dbb55-9ce1-4f3c-a890-1bee8bf765d5
 article_structure:
   article_count: 4
-  section_count: 3
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 4
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:11:02Z'
-  warnings: []
+  checked_at: '2026-10-22T14:53:18Z'
+  warnings:
+  - '02002R2076-20030802: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) n.° 2076/2002 da Comissão, de 20 de Novembro de 2002
-
-> 2002R2076 — PT — 15.07.2014 — 007.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32003R1336) — [REGULAMENTO (CE) N.º 1336/2003 DA COMISSÃO de 25 de Julho de 2003](http://publications.europa.eu/resource/celex/32003R1336) — L 187 — 21 — 26.7.2003
-- [►M2](http://publications.europa.eu/resource/celex/32004R0835) — [REGULAMENTO (CE) N.º 835/2004 DA COMISSÃO de 28 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0835) — L 127 — 43 — 29.4.2004
-- [►M3](http://publications.europa.eu/resource/celex/32004R1765) — [REGULAMENTO (CE) N.º 1765/2004 DA COMISSÃO de 13 de Outubro de 2004](http://publications.europa.eu/resource/celex/32004R1765) — L 315 — 26 — 14.10.2004
-- [►M4](http://publications.europa.eu/resource/celex/32005R1335) — [REGULAMENTO (CE) N.º 1335/2005 DA COMISSÃO de 12 de Agosto de 2005](http://publications.europa.eu/resource/celex/32005R1335) — L 211 — 6 — 13.8.2005
-- [►M5](http://publications.europa.eu/resource/celex/32006R1980) — [REGULAMENTO (CE) N.º 1980/2006 DA COMISSÃO de 20 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1980) — L 368 — 96 — 23.12.2006
-- [►M6](http://publications.europa.eu/resource/celex/32007R1313) — [REGULAMENTO (CE) N.º 1313/2007 DA COMISSÃO de 8 de Novembro de 2007](http://publications.europa.eu/resource/celex/32007R1313) — L 291 — 11 — 9.11.2007
-- [►M7](http://publications.europa.eu/resource/celex/32008R0848) — [REGULAMENTO (CE) N.º 848/2008 DA COMISSÃO de 28 de Agosto de 2008](http://publications.europa.eu/resource/celex/32008R0848) — L 231 — 9 — 29.8.2008
-- [►M8](http://publications.europa.eu/resource/celex/32014R0698) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 698/2014 DA COMISSÃO de 24 de junho de 2014](http://publications.europa.eu/resource/celex/32014R0698) — L 184 — 4 — 25.6.2014
-
-## REGULAMENTO (CE) N.º 2076/2002 DA COMISSÃO
 
 de 20 de Novembro de 2002
 

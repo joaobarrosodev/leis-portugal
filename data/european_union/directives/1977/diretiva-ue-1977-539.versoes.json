@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31977L0539:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977L0539-20141101",
+ "dre_path": null,
+ "source_lastmod": "2014-11-01",
+ "versions": [
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "celex": "01977L0539-20141101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f65ddf5e6e893cc1"
+   ]
+  }
+ ],
+ "fragments": {
+  "f65ddf5e6e893cc1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1977L0539 — PT — 01.11.2014 — 009.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31977L0539) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31977L0539) [de 28 de Junho de 1977](http://publications.europa.eu/resource/celex/31977L0539) [relativa à aproximação das legislações dos Estados-membros respeitantes às luzes de marcha atrás dos veículos a motor e seus reboques](http://publications.europa.eu/resource/celex/31977L0539) [(77/539/CEE)](http://publications.europa.eu/resource/celex/31977L0539) (JO L 220, 29.8.1977, p.72)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 661/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0661) — L 200 — 1 — 31.7.2009"
+  }
+ }
+}
